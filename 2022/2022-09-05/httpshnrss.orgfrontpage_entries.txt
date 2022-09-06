@@ -1,0 +1,667 @@
+https://hnrss.org/frontpage
+https://notes.volution.ro/v1/2022/09/notes/b08118d8/
+Static site hosting hurdles
+2022-09-05 22:01:35+00:00
+False
+<p>Article URL: <a href="https://notes.volution.ro/v1/2022/09/notes/b08118d8/">https://notes.volution.ro/v1/2022/09/notes/b08118d8/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32730020">https://news.ycombinator.com/item?id=32730020</a></p>
+<p>Points: 9</p>
+<p># Comments: 1</p>
+
+https://hnrss.org/frontpage
+https://rxhl.notion.site/How-To-Present-Backend-Demos-861303c09e3e48fcb33a2a6999260e59
+How to Present Backend Demos
+2022-09-05 21:36:35+00:00
+False
+<p>Article URL: <a href="https://rxhl.notion.site/How-To-Present-Backend-Demos-861303c09e3e48fcb33a2a6999260e59">https://rxhl.notion.site/How-To-Present-Backend-Demos-861303c09e3e48fcb33a2a6999260e59</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32729784">https://news.ycombinator.com/item?id=32729784</a></p>
+<p>Points: 8</p>
+<p># Comments: 0</p>
+
+https://hnrss.org/frontpage
+https://projectobs.com/en/news/obs-studio-28-0/
+OBS Studio 28.0 with Native Apple Silicon Support Is Here
+2022-09-05 20:54:06+00:00
+False
+<p>Article URL: <a href="https://projectobs.com/en/news/obs-studio-28-0/">https://projectobs.com/en/news/obs-studio-28-0/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32729320">https://news.ycombinator.com/item?id=32729320</a></p>
+<p>Points: 22</p>
+<p># Comments: 3</p>
+
+https://hnrss.org/frontpage
+https://incoherency.co.uk/blog/stories/sockfish.html
+Cheating at chess with a computer for my shoes
+2022-09-05 20:34:15+00:00
+False
+<p>Article URL: <a href="https://incoherency.co.uk/blog/stories/sockfish.html">https://incoherency.co.uk/blog/stories/sockfish.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32729105">https://news.ycombinator.com/item?id=32729105</a></p>
+<p>Points: 20</p>
+<p># Comments: 6</p>
+
+https://hnrss.org/frontpage
+https://www.corsix.org/content/contrasting-intel-amx-and-apple-amx
+Contrasting Intel AMX and Apple AMX
+2022-09-05 20:27:31+00:00
+False
+<p>Article URL: <a href="https://www.corsix.org/content/contrasting-intel-amx-and-apple-amx">https://www.corsix.org/content/contrasting-intel-amx-and-apple-amx</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32729035">https://news.ycombinator.com/item?id=32729035</a></p>
+<p>Points: 15</p>
+<p># Comments: 4</p>
+
+https://hnrss.org/frontpage
+https://jeromeaparis.substack.com/p/a-solution-to-current-high-power
+A solution to current high power prices (Europe)
+2022-09-05 20:08:55+00:00
+False
+<p>Article URL: <a href="https://jeromeaparis.substack.com/p/a-solution-to-current-high-power">https://jeromeaparis.substack.com/p/a-solution-to-current-high-power</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32728849">https://news.ycombinator.com/item?id=32728849</a></p>
+<p>Points: 11</p>
+<p># Comments: 10</p>
+
+https://hnrss.org/frontpage
+https://www.sciencedirect.com/science/article/abs/pii/S0959475222000883
+Compared to traditional activities, programming did not benefit math learning
+2022-09-05 19:54:10+00:00
+False
+<p>Article URL: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0959475222000883">https://www.sciencedirect.com/science/article/abs/pii/S0959475222000883</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32728636">https://news.ycombinator.com/item?id=32728636</a></p>
+<p>Points: 6</p>
+<p># Comments: 3</p>
+
+https://hnrss.org/frontpage
+https://driftingin.space/posts/complexity-kubernetes
+Accidental complexity, essential complexity, and Kubernetes
+2022-09-05 19:47:13+00:00
+False
+<p>Article URL: <a href="https://driftingin.space/posts/complexity-kubernetes">https://driftingin.space/posts/complexity-kubernetes</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32728543">https://news.ycombinator.com/item?id=32728543</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
+
+https://hnrss.org/frontpage
+https://www.callapple.org/vintage-apple-computers/apple-ii/apple-ii-desktop-updated-3/
+Apple II Desktop Updated – Version 1.2 Alpha 48
+2022-09-05 19:45:30+00:00
+False
+<p>Article URL: <a href="https://www.callapple.org/vintage-apple-computers/apple-ii/apple-ii-desktop-updated-3/">https://www.callapple.org/vintage-apple-computers/apple-ii/apple-ii-desktop-updated-3/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32728515">https://news.ycombinator.com/item?id=32728515</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
+
+https://hnrss.org/frontpage
+https://web.archive.org/web/20200321104021/https://kiwifarms.net/threads/where-the-sidewalk-ends-an-internet-story.58353/
+Kiwifarms: Where the Sidewalk Ends
+2022-09-05 18:59:19+00:00
+False
+<p>Article URL: <a href="https://web.archive.org/web/20200321104021/https://kiwifarms.net/threads/where-the-sidewalk-ends-an-internet-story.58353/">https://web.archive.org/web/20200321104021/https://kiwifarms.net/threads/where-the-sidewalk-ends-an-internet-story.58353/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32727903">https://news.ycombinator.com/item?id=32727903</a></p>
+<p>Points: 6</p>
+<p># Comments: 1</p>
+
+https://hnrss.org/frontpage
+https://watchlimits.com/
+Show HN: Watchlimits – Chrome extension to solve excessive video watching
+2022-09-05 18:58:25+00:00
+False
+<p>Hi all, I'm an indie hacker and I've been working on watchlimits.com over last couple months.<p>It's a chrome extension that helps you set limits (greatly customizable) and provides you stats and various accountability features.<p>It only runs on the video streaming platforms (not everywhere) and it's privacy centric.<p>Almost all functionality is available for free, but some advanced features only available in the paid version (password protection, allowed youtube channels).<p>It's a pretty 
+
+https://hnrss.org/frontpage
+https://www.nber.org/papers/w30416
+Place-Based Productivity and Costs in Science
+2022-09-05 18:56:36+00:00
+False
+<p>Article URL: <a href="https://www.nber.org/papers/w30416">https://www.nber.org/papers/w30416</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32727864">https://news.ycombinator.com/item?id=32727864</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+https://hnrss.org/frontpage
+https://xiph.org/flac/documentation_format_overview.html
+How the FLAC format compresses audio without loss of quality
+2022-09-05 18:53:59+00:00
+False
+<p>Article URL: <a href="https://xiph.org/flac/documentation_format_overview.html">https://xiph.org/flac/documentation_format_overview.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32727829">https://news.ycombinator.com/item?id=32727829</a></p>
+<p>Points: 33</p>
+<p># Comments: 2</p>
+
+https://hnrss.org/frontpage
+https://martin.leyrer.priv.at/y2022/m09/premature_optimisation.html
+Premature Optimization is the Root of all Evil
+2022-09-05 18:43:25+00:00
+False
+<p>Article URL: <a href="https://martin.leyrer.priv.at/y2022/m09/premature_optimisation.html">https://martin.leyrer.priv.at/y2022/m09/premature_optimisation.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32727712">https://news.ycombinator.com/item?id=32727712</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+https://hnrss.org/frontpage
+https://chainparrot.com/blockchains-by-number-of-nodes.html
+What if cryptocurrencies ranked by number of nodes instead of marketcap?
+2022-09-05 18:42:57+00:00
+False
+<p>Article URL: <a href="https://chainparrot.com/blockchains-by-number-of-nodes.html">https://chainparrot.com/blockchains-by-number-of-nodes.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32727703">https://news.ycombinator.com/item?id=32727703</a></p>
+<p>Points: 10</p>
+<p># Comments: 2</p>
+
+https://hnrss.org/frontpage
+https://thecrow.uk/in-wake-of-epic-data-breach-samsung-forcing-users-to-accept-new-terms-or-risk-their-data/
+In wake of data breach – Samsung forcing users to accept T&CS or risk their data
+2022-09-05 18:14:30+00:00
+False
+<p>Article URL: <a href="https://thecrow.uk/in-wake-of-epic-data-breach-samsung-forcing-users-to-accept-new-terms-or-risk-their-data/">https://thecrow.uk/in-wake-of-epic-data-breach-samsung-forcing-users-to-accept-new-terms-or-risk-their-data/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32727357">https://news.ycombinator.com/item?id=32727357</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+https://hnrss.org/frontpage
+https://xeiaso.net/talks/rustconf-2022-sheer-terror-pam
+The Sheer Terror of Pam
+2022-09-05 18:06:21+00:00
+False
+<p>Article URL: <a href="https://xeiaso.net/talks/rustconf-2022-sheer-terror-pam">https://xeiaso.net/talks/rustconf-2022-sheer-terror-pam</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32727242">https://news.ycombinator.com/item?id=32727242</a></p>
+<p>Points: 11</p>
+<p># Comments: 1</p>
+
+https://hnrss.org/frontpage
+https://krebsonsecurity.com/2022/09/violence-as-a-service-brickings-firebombings-shootings-for-hire/
+Violence-as-a-Service: Brickings, Firebombings and Shootings for Hire
+2022-09-05 18:02:43+00:00
+False
+<p>Article URL: <a href="https://krebsonsecurity.com/2022/09/violence-as-a-service-brickings-firebombings-shootings-for-hire/">https://krebsonsecurity.com/2022/09/violence-as-a-service-brickings-firebombings-shootings-for-hire/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32727201">https://news.ycombinator.com/item?id=32727201</a></p>
+<p>Points: 11</p>
+<p># Comments: 1</p>
+
+https://hnrss.org/frontpage
+https://sciprogramming.com/community/index.php?topic=2081.0
+Using Stable Diffusion's img2img on some old Sierra titles
+2022-09-05 17:24:55+00:00
+False
+<p>Article URL: <a href="https://sciprogramming.com/community/index.php?topic=2081.0">https://sciprogramming.com/community/index.php?topic=2081.0</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32726774">https://news.ycombinator.com/item?id=32726774</a></p>
+<p>Points: 45</p>
+<p># Comments: 11</p>
+
+https://hnrss.org/frontpage
+https://www.drawanything.app/
+Show HN: Draw Anything – A Simple Stable Diffusion Playground
+2022-09-05 17:16:31+00:00
+False
+<p>Article URL: <a href="https://www.drawanything.app/">https://www.drawanything.app/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32726679">https://news.ycombinator.com/item?id=32726679</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
+
+https://hnrss.org/frontpage
+https://www.fuse-t.org/
+Kext-less FUSE library for macOS
+2022-09-05 16:30:09+00:00
+False
+<p>Article URL: <a href="https://www.fuse-t.org/">https://www.fuse-t.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32726166">https://news.ycombinator.com/item?id=32726166</a></p>
+<p>Points: 8</p>
+<p># Comments: 2</p>
+
+https://hnrss.org/frontpage
+http://www.codex99.com/design/28.html
+Mille Bornes
+2022-09-05 16:23:08+00:00
+False
+<p>Article URL: <a href="http://www.codex99.com/design/28.html">http://www.codex99.com/design/28.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32726081">https://news.ycombinator.com/item?id=32726081</a></p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
+
+https://hnrss.org/frontpage
+https://placesjournal.org/article/informal-settlers-environmental-rehabilitation-manila/
+Mangroves on a Landfill
+2022-09-05 16:19:55+00:00
+False
+<p>Article URL: <a href="https://placesjournal.org/article/informal-settlers-environmental-rehabilitation-manila/">https://placesjournal.org/article/informal-settlers-environmental-rehabilitation-manila/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32726036">https://news.ycombinator.com/item?id=32726036</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+https://hnrss.org/frontpage
+https://ricardoanderegg.com/posts/extending-sqlite-with-rust/
+Extending SQLite with Rust
+2022-09-05 16:18:17+00:00
+False
+<p>Article URL: <a href="https://ricardoanderegg.com/posts/extending-sqlite-with-rust/">https://ricardoanderegg.com/posts/extending-sqlite-with-rust/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32726011">https://news.ycombinator.com/item?id=32726011</a></p>
+<p>Points: 45</p>
+<p># Comments: 1</p>
+
+https://hnrss.org/frontpage
+https://physics.nyu.edu/faculty/sokal/transgress_v2/transgress_v2_singlefile.html
+Alan D. Sokal – Transgressing the Boundaries (1995)
+2022-09-05 16:11:07+00:00
+False
+<p>Article URL: <a href="https://physics.nyu.edu/faculty/sokal/transgress_v2/transgress_v2_singlefile.html">https://physics.nyu.edu/faculty/sokal/transgress_v2/transgress_v2_singlefile.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32725925">https://news.ycombinator.com/item?id=32725925</a></p>
+<p>Points: 7</p>
+<p># Comments: 2</p>
+
+https://hnrss.org/frontpage
+https://news.mit.edu/2022/simple-way-to-significantly-increase-fuel-cell-lifetimes-0831
+A simple way to significantly increase lifetimes of fuel cells and other devices
+2022-09-05 16:03:08+00:00
+False
+<p>Article URL: <a href="https://news.mit.edu/2022/simple-way-to-significantly-increase-fuel-cell-lifetimes-0831">https://news.mit.edu/2022/simple-way-to-significantly-increase-fuel-cell-lifetimes-0831</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32725834">https://news.ycombinator.com/item?id=32725834</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+https://hnrss.org/frontpage
+https://www.php.net/archive/2022.php
+PHP 8.2.0 RC1 available for testing
+2022-09-05 15:44:58+00:00
+False
+<p>Article URL: <a href="https://www.php.net/archive/2022.php">https://www.php.net/archive/2022.php</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32725614">https://news.ycombinator.com/item?id=32725614</a></p>
+<p>Points: 30</p>
+<p># Comments: 2</p>
+
+https://hnrss.org/frontpage
+https://community.spotify.com/t5/Spotify-for-Developers/Please-continue-supporting-iOS-Android-streaming-SDKs/td-p/5416477
+Spotify have finally killed 3rd party streaming apps
+2022-09-05 15:38:04+00:00
+True
+<p>Article URL: <a href="https://community.spotify.com/t5/Spotify-for-Developers/Please-continue-supporting-iOS-Android-streaming-SDKs/td-p/5416477">https://community.spotify.com/t5/Spotify-for-Developers/Please-continue-supporting-iOS-Android-streaming-SDKs/td-p/5416477</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32725492">https://news.ycombinator.com/item?id=32725492</a></p>
+<p>Points: 23</p>
+<p># Comments: 8</p>
+
+https://hnrss.org/frontpage
+https://solr.apache.org/guide/solr/latest/query-guide/dense-vector-search.html
+Solr’s Dense Vector Search for indexing and searching dense numerical vectors
+2022-09-05 15:24:13+00:00
+False
+<p>Article URL: <a href="https://solr.apache.org/guide/solr/latest/query-guide/dense-vector-search.html">https://solr.apache.org/guide/solr/latest/query-guide/dense-vector-search.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32725322">https://news.ycombinator.com/item?id=32725322</a></p>
+<p>Points: 15</p>
+<p># Comments: 0</p>
+
+https://hnrss.org/frontpage
+https://worksinprogress.substack.com/p/notes-on-progress-an-environmentalist
+Why being an effective environmentalist can often feel like being a bad one
+2022-09-05 15:04:52+00:00
+False
+<p>Article URL: <a href="https://worksinprogress.substack.com/p/notes-on-progress-an-environmentalist">https://worksinprogress.substack.com/p/notes-on-progress-an-environmentalist</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32725115">https://news.ycombinator.com/item?id=32725115</a></p>
+<p>Points: 12</p>
+<p># Comments: 4</p>
+
+https://hnrss.org/frontpage
+https://www.nytimes.com/2022/04/19/books/review/a-brief-history-of-equality-thomas-piketty.html
+Thomas Piketty’s Radical Plan to Redistribute Wealth
+2022-09-05 15:01:46+00:00
+False
+<p>Article URL: <a href="https://www.nytimes.com/2022/04/19/books/review/a-brief-history-of-equality-thomas-piketty.html">https://www.nytimes.com/2022/04/19/books/review/a-brief-history-of-equality-thomas-piketty.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32725079">https://news.ycombinator.com/item?id=32725079</a></p>
+<p>Points: 21</p>
+<p># Comments: 19</p>
+
+https://hnrss.org/frontpage
+https://www.economist.com/united-states/2022/09/01/heatwaves-kill-more-americans-than-hurricanes-tornadoes-and-floods
+Heatwaves kill more Americans than hurricanes, tornadoes and floods
+2022-09-05 14:26:18+00:00
+False
+<p>Article URL: <a href="https://www.economist.com/united-states/2022/09/01/heatwaves-kill-more-americans-than-hurricanes-tornadoes-and-floods">https://www.economist.com/united-states/2022/09/01/heatwaves-kill-more-americans-than-hurricanes-tornadoes-and-floods</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32724659">https://news.ycombinator.com/item?id=32724659</a></p>
+<p>Points: 9</p>
+<p># Comments: 0</p>
+
+https://hnrss.org/frontpage
+https://www.thetimes.co.uk/article/serious-errors-in-research-linking-deaths-to-red-meat-qtdh28fv5
+'Serious errors' in research linking deaths to red meat
+2022-09-05 14:17:17+00:00
+False
+<p>Article URL: <a href="https://www.thetimes.co.uk/article/serious-errors-in-research-linking-deaths-to-red-meat-qtdh28fv5">https://www.thetimes.co.uk/article/serious-errors-in-research-linking-deaths-to-red-meat-qtdh28fv5</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32724569">https://news.ycombinator.com/item?id=32724569</a></p>
+<p>Points: 34</p>
+<p># Comments: 28</p>
+
+https://hnrss.org/frontpage
+https://news.ycombinator.com/item?id=32724564
+Ask HN: YC misses that went on to do well (like veed.io)
+2022-09-05 14:16:52+00:00
+False
+<p>Its quite possible that even YC would miss a few good founders. One that I came across recently was veed.io. They have raised 35 million in funding from Sequoia. What other startups that YC rejected went on to do well?</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32724564">https://news.ycombinator.com/item?id=32724564</a></p>
+<p>Points: 17</p>
+<p># Comments: 7</p>
+
+https://hnrss.org/frontpage
+https://arstechnica.com/gaming/2022/09/ubisoft-delays-server-shutdowns-prevents-purchased-dlc-from-going-away/
+Ubisoft delays server shutdowns, prevents purchased DLC from going away
+2022-09-05 14:15:36+00:00
+False
+<p>Article URL: <a href="https://arstechnica.com/gaming/2022/09/ubisoft-delays-server-shutdowns-prevents-purchased-dlc-from-going-away/">https://arstechnica.com/gaming/2022/09/ubisoft-delays-server-shutdowns-prevents-purchased-dlc-from-going-away/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32724543">https://news.ycombinator.com/item?id=32724543</a></p>
+<p>Points: 9</p>
+<p># Comments: 1</p>
+
+https://hnrss.org/frontpage
+https://sqlite.org/releaselog/3_39_3.html
+SQLite 3.39.3
+2022-09-05 13:57:49+00:00
+False
+<p>Article URL: <a href="https://sqlite.org/releaselog/3_39_3.html">https://sqlite.org/releaselog/3_39_3.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32724337">https://news.ycombinator.com/item?id=32724337</a></p>
+<p>Points: 12</p>
+<p># Comments: 3</p>
+
+https://hnrss.org/frontpage
+https://omnibudsman.substack.com/p/all-poverty-is-energy-poverty
+All poverty is energy poverty
+2022-09-05 13:37:58+00:00
+False
+<p>Article URL: <a href="https://omnibudsman.substack.com/p/all-poverty-is-energy-poverty">https://omnibudsman.substack.com/p/all-poverty-is-energy-poverty</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32724162">https://news.ycombinator.com/item?id=32724162</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+https://hnrss.org/frontpage
+https://scottlocklin.wordpress.com/2010/08/24/nano-nonsense-25-years-of-charlatanry/
+Nano-nonsense: 25 years of charlatanry (2010)
+2022-09-05 13:18:40+00:00
+False
+<p>Article URL: <a href="https://scottlocklin.wordpress.com/2010/08/24/nano-nonsense-25-years-of-charlatanry/">https://scottlocklin.wordpress.com/2010/08/24/nano-nonsense-25-years-of-charlatanry/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32723961">https://news.ycombinator.com/item?id=32723961</a></p>
+<p>Points: 58</p>
+<p># Comments: 20</p>
+
+https://hnrss.org/frontpage
+https://insideevs.com/news/566896/toyota-electric-vehicle-manual-transmission/
+Toyota patents plans for EV with manual transmission and clutch
+2022-09-05 13:10:49+00:00
+False
+<p>Article URL: <a href="https://insideevs.com/news/566896/toyota-electric-vehicle-manual-transmission/">https://insideevs.com/news/566896/toyota-electric-vehicle-manual-transmission/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32723909">https://news.ycombinator.com/item?id=32723909</a></p>
+<p>Points: 34</p>
+<p># Comments: 46</p>
+
+https://hnrss.org/frontpage
+https://gist.github.com/vindarel/c1ef5e043773921e3b11d8f4fe1ca7ac
+Common Lisp vs Racket
+2022-09-05 12:56:48+00:00
+False
+<p>Article URL: <a href="https://gist.github.com/vindarel/c1ef5e043773921e3b11d8f4fe1ca7ac">https://gist.github.com/vindarel/c1ef5e043773921e3b11d8f4fe1ca7ac</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32723784">https://news.ycombinator.com/item?id=32723784</a></p>
+<p>Points: 69</p>
+<p># Comments: 8</p>
+
+https://hnrss.org/frontpage
+https://news.ycombinator.com/item?id=32723766
+Launch HN: Mito (YC S20) – Edit a spreadsheet, generate Python
+2022-09-05 12:54:59+00:00
+False
+<p>Hiya HN, I'm Nate, cofounder of Mito (<a href="https://trymito.io" rel="nofollow">https://trymito.io</a>) with my best friends Jake and Aaron. Mito is a spreadsheet UI that runs inside a Jupyter Notebook. Each time you edit the spreadsheet, it generates Python code for that edit. This allows analysts to write Python scripts using an interface they are familiar with, instead of waiting months for eng resources.<p>Mito is open core: <a href="http://github.com/mito-ds/monorepo" rel="nofollow">ht
+
+https://hnrss.org/frontpage
+https://www.dbschemalibrary.com/
+Library of Database Schemas
+2022-09-05 12:12:41+00:00
+False
+<p>Article URL: <a href="https://www.dbschemalibrary.com/">https://www.dbschemalibrary.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32723393">https://news.ycombinator.com/item?id=32723393</a></p>
+<p>Points: 19</p>
+<p># Comments: 6</p>
+
+https://hnrss.org/frontpage
+https://retractionwatch.com/2022/09/03/nobel-prize-winner-gregg-semenza-retracts-four-papers/
+Nobel Prize winner Gregg Semenza retracts four papers
+2022-09-05 12:06:21+00:00
+False
+<p>Article URL: <a href="https://retractionwatch.com/2022/09/03/nobel-prize-winner-gregg-semenza-retracts-four-papers/">https://retractionwatch.com/2022/09/03/nobel-prize-winner-gregg-semenza-retracts-four-papers/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32723347">https://news.ycombinator.com/item?id=32723347</a></p>
+<p>Points: 54</p>
+<p># Comments: 11</p>
+
+https://hnrss.org/frontpage
+https://news.ycombinator.com/item?id=32723316
+Meticulous (YC S21) is hiring #3 founding engineer in London
+2022-09-05 12:01:03+00:00
+False
+<p>Hey HN,<p>I'm Gabriel, founder of Meticulous.<p>Our mission is to make the world's code safe, performant and reliable. We're starting with a tool to catch JavaScript regressions in web applications with zero-effort from developers.<p>How it works: Insert a single line of JavaScript onto your site, and we record thousands of real user sessions. We then replay these sessions on new code to automatically catch bugs before they hit production. You can watch a 60-second demo at meticulous.ai.<p>We
+
+https://hnrss.org/frontpage
+https://shkspr.mobi/blog/2022/09/writing-an-app-is-like-coding-for-laserdisc/
+“Writing an app is like coding for LaserDisc”
+2022-09-05 11:38:45+00:00
+False
+<p>Article URL: <a href="https://shkspr.mobi/blog/2022/09/writing-an-app-is-like-coding-for-laserdisc/">https://shkspr.mobi/blog/2022/09/writing-an-app-is-like-coding-for-laserdisc/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32723192">https://news.ycombinator.com/item?id=32723192</a></p>
+<p>Points: 83</p>
+<p># Comments: 39</p>
+
+https://hnrss.org/frontpage
+https://www.theguardian.com/technology/2022/sep/05/i-didnt-want-it-anywhere-near-me-how-the-apple-airtag-became-a-gift-to-stalkers
+I didn’t want it anywhere near me: how the Apple AirTag became a stalker's gift
+2022-09-05 11:05:51+00:00
+True
+<p>Article URL: <a href="https://www.theguardian.com/technology/2022/sep/05/i-didnt-want-it-anywhere-near-me-how-the-apple-airtag-became-a-gift-to-stalkers">https://www.theguardian.com/technology/2022/sep/05/i-didnt-want-it-anywhere-near-me-how-the-apple-airtag-became-a-gift-to-stalkers</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32722979">https://news.ycombinator.com/item?id=32722979</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+
+https://hnrss.org/frontpage
+https://bigthink.com/the-present/finland-education-system-criticisms/
+Finland’s education system is failing. Should we look to Asia?
+2022-09-05 11:05:28+00:00
+False
+<p>Article URL: <a href="https://bigthink.com/the-present/finland-education-system-criticisms/">https://bigthink.com/the-present/finland-education-system-criticisms/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32722975">https://news.ycombinator.com/item?id=32722975</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+
+https://hnrss.org/frontpage
+https://twitter.com/GossiTheDog/status/1566728231893573634
+Kiwifarms no longer available anywhere on internet as DDoS-Guard ends service
+2022-09-05 11:01:31+00:00
+False
+<p>Article URL: <a href="https://twitter.com/GossiTheDog/status/1566728231893573634">https://twitter.com/GossiTheDog/status/1566728231893573634</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32722950">https://news.ycombinator.com/item?id=32722950</a></p>
+<p>Points: 3</p>
+<p># Comments: 2</p>
+
+https://hnrss.org/frontpage
+https://findenergy.com/optimizing-polygon-intersections-with-subdivide/
+Optimizing Polygon Intersections with Subdivide
+2022-09-05 10:29:07+00:00
+False
+<p>Article URL: <a href="https://findenergy.com/optimizing-polygon-intersections-with-subdivide/">https://findenergy.com/optimizing-polygon-intersections-with-subdivide/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32722691">https://news.ycombinator.com/item?id=32722691</a></p>
+<p>Points: 2</p>
+<p># Comments: 0</p>
+
+https://hnrss.org/frontpage
+https://github.com/corsix/amx
+Apple AMX instruction set (M1/M2 matrix coprocessor)
+2022-09-05 10:06:45+00:00
+False
+<p>Article URL: <a href="https://github.com/corsix/amx">https://github.com/corsix/amx</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32722510">https://news.ycombinator.com/item?id=32722510</a></p>
+<p>Points: 4</p>
+<p># Comments: 1</p>
+
+https://hnrss.org/frontpage
+http://forum.ulisp.com/t/wireless-message-display/1062
+uLisp wireless message display with a Pi Pico W
+2022-09-05 10:01:50+00:00
+False
+<p>Article URL: <a href="http://forum.ulisp.com/t/wireless-message-display/1062">http://forum.ulisp.com/t/wireless-message-display/1062</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32722475">https://news.ycombinator.com/item?id=32722475</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+https://hnrss.org/frontpage
+https://healeycodes.com/virtual-ants
+Virtual Ants
+2022-09-05 09:59:17+00:00
+False
+<p>Article URL: <a href="https://healeycodes.com/virtual-ants">https://healeycodes.com/virtual-ants</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32722451">https://news.ycombinator.com/item?id=32722451</a></p>
+<p>Points: 9</p>
+<p># Comments: 0</p>
+
+https://hnrss.org/frontpage
+https://futurism.com/the-byte/oxford-physicist-unloads-quantum-computing
+Oxford Physicist Unloads on Quantum Computing Industry, It's Basically a Scam
+2022-09-05 09:48:26+00:00
+False
+<p>Article URL: <a href="https://futurism.com/the-byte/oxford-physicist-unloads-quantum-computing">https://futurism.com/the-byte/oxford-physicist-unloads-quantum-computing</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32722374">https://news.ycombinator.com/item?id=32722374</a></p>
+<p>Points: 24</p>
+<p># Comments: 6</p>
+
+https://hnrss.org/frontpage
+https://www.ft.com/content/6d2e34ab-f9fd-4041-8a96-91802bab7765
+The quantum computing bubble
+2022-09-05 09:48:26+00:00
+False
+<p>Article URL: <a href="https://www.ft.com/content/6d2e34ab-f9fd-4041-8a96-91802bab7765">https://www.ft.com/content/6d2e34ab-f9fd-4041-8a96-91802bab7765</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32722374">https://news.ycombinator.com/item?id=32722374</a></p>
+<p>Points: 45</p>
+<p># Comments: 26</p>
+
+https://hnrss.org/frontpage
+https://blog.znote.io/2022/znote-climate-post/
+Visualize active fires around the world with JavaScript – Znote blog
+2022-09-05 09:37:21+00:00
+False
+<p>Article URL: <a href="https://blog.znote.io/2022/znote-climate-post/">https://blog.znote.io/2022/znote-climate-post/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32722281">https://news.ycombinator.com/item?id=32722281</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
+
+https://hnrss.org/frontpage
+https://blog.paranoidpenguin.net/2015/01/outlook-com-is-silently-discarding-email-messages/
+Outlook.com is silently discarding email messages (2015)
+2022-09-05 09:29:26+00:00
+False
+<p>Article URL: <a href="https://blog.paranoidpenguin.net/2015/01/outlook-com-is-silently-discarding-email-messages/">https://blog.paranoidpenguin.net/2015/01/outlook-com-is-silently-discarding-email-messages/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32722240">https://news.ycombinator.com/item?id=32722240</a></p>
+<p>Points: 35</p>
+<p># Comments: 9</p>
+
+https://hnrss.org/frontpage
+https://www.bloomberg.com/news/articles/2022-08-27/private-jets-to-ibiza-paris-surge-as-rich-evade-travel-chaos
+Private Jets to Ibiza, Paris Surge as Rich Evade Travel Chaos
+2022-09-05 09:20:23+00:00
+False
+<p>Article URL: <a href="https://www.bloomberg.com/news/articles/2022-08-27/private-jets-to-ibiza-paris-surge-as-rich-evade-travel-chaos">https://www.bloomberg.com/news/articles/2022-08-27/private-jets-to-ibiza-paris-surge-as-rich-evade-travel-chaos</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32722159">https://news.ycombinator.com/item?id=32722159</a></p>
+<p>Points: 31</p>
+<p># Comments: 35</p>
+
+https://hnrss.org/frontpage
+https://github.com/mljar/mljar-supervised
+Show HN: AutoML Python Package for Tabular Data with Automatic Documentation
+2022-09-05 08:15:10+00:00
+False
+<p>Article URL: <a href="https://github.com/mljar/mljar-supervised">https://github.com/mljar/mljar-supervised</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32721754">https://news.ycombinator.com/item?id=32721754</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
+
+https://hnrss.org/frontpage
+https://news.ycombinator.com/item?id=32721734
+Ask HN: How much electricity consumes a WiFi router?
+2022-09-05 08:11:40+00:00
+False
+<p>Prices of the electricity in the EU recently became sky high, and people should save as much kWh as possible.<p>I could not find any related and trustable calculation about how much electricity consumes a Wifi router. Especially I am curious about the difference between the idle mode and when I downloading with full bandwith.<p>I believe there is no significant difference (and it doesn´t even matter at all, while freezers and heatings are on), but it would be nice to know.</p>
+<hr />
+<p>Comme
+
+https://hnrss.org/frontpage
+https://scilogs.spektrum.de/hlf/why-a4-the-mathematical-beauty-of-paper-size/
+Why A4? – The Mathematical Beauty of Paper Size
+2022-09-05 07:47:56+00:00
+False
+<p>Article URL: <a href="https://scilogs.spektrum.de/hlf/why-a4-the-mathematical-beauty-of-paper-size/">https://scilogs.spektrum.de/hlf/why-a4-the-mathematical-beauty-of-paper-size/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32721602">https://news.ycombinator.com/item?id=32721602</a></p>
+<p>Points: 89</p>
+<p># Comments: 61</p>
+
+https://hnrss.org/frontpage
+https://gizmodo.com/air-force-reply-all-email-storm-snafu-1849490442
+The Air Force Just Survived a Reply-All Apocalypse
+2022-09-05 07:32:17+00:00
+False
+<p>Article URL: <a href="https://gizmodo.com/air-force-reply-all-email-storm-snafu-1849490442">https://gizmodo.com/air-force-reply-all-email-storm-snafu-1849490442</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32721523">https://news.ycombinator.com/item?id=32721523</a></p>
+<p>Points: 11</p>
+<p># Comments: 3</p>
+
+https://hnrss.org/frontpage
+https://scottaaronson.blog/?p=6704
+What I’ve learned from having Covid
+2022-09-05 06:35:09+00:00
+True
+<p>Article URL: <a href="https://scottaaronson.blog/?p=6704">https://scottaaronson.blog/?p=6704</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32721206">https://news.ycombinator.com/item?id=32721206</a></p>
+<p>Points: 8</p>
+<p># Comments: 1</p>
+
+https://hnrss.org/frontpage
+https://lucasfcosta.com/2022/08/31/engineering-metrics.html
+Useful engineering metrics and why velocity is not one of them
+2022-09-05 05:12:27+00:00
+False
+<p>Article URL: <a href="https://lucasfcosta.com/2022/08/31/engineering-metrics.html">https://lucasfcosta.com/2022/08/31/engineering-metrics.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32720794">https://news.ycombinator.com/item?id=32720794</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+https://hnrss.org/frontpage
+https://vadosware.io/post/its-never-been-easier-or-harder-to-self-host-email/
+Self-hosted email is the hardest it's ever been, but also the easiest
+2022-09-05 03:34:48+00:00
+True
+<p>Article URL: <a href="https://vadosware.io/post/its-never-been-easier-or-harder-to-self-host-email/">https://vadosware.io/post/its-never-been-easier-or-harder-to-self-host-email/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32720234">https://news.ycombinator.com/item?id=32720234</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+https://hnrss.org/frontpage
+https://news.ycombinator.com/item?id=32720171
+The WFH Folks
+2022-09-05 03:24:25+00:00
+False
+<p>Have you all noticed a lack of social connection ever since work from home took off? Don't get me wrong, I love working from home. But when starting at a new company, it is hard to get to know your co-workers and fit into the company.<p>There are tons of studies showing how social connection was a driver for better morale and performance (since new people settled in faster).<p>Would the ideal situation be where we can be WFH and still create the meaningful social connections with our co-worke
+
+https://hnrss.org/frontpage
+https://jan.wildeboer.net/2022/08/Email-0-The-Journey-2022/
+Email Done My Way, Part 0 – The Journey
+2022-09-05 02:48:12+00:00
+False
+<p>Article URL: <a href="https://jan.wildeboer.net/2022/08/Email-0-The-Journey-2022/">https://jan.wildeboer.net/2022/08/Email-0-The-Journey-2022/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32719956">https://news.ycombinator.com/item?id=32719956</a></p>
+<p>Points: 30</p>
+<p># Comments: 0</p>
+
+https://hnrss.org/frontpage
+https://thefintechtimes.com/credit-karma-fined-3million-by-ftc-for-misleading-consumers-with-credit-card-offers/
+CreditKarma Fined 3M by FTC for Misleading Consumers with CreditCard Offers
+2022-09-05 02:31:56+00:00
+False
+<p>Article URL: <a href="https://thefintechtimes.com/credit-karma-fined-3million-by-ftc-for-misleading-consumers-with-credit-card-offers/">https://thefintechtimes.com/credit-karma-fined-3million-by-ftc-for-misleading-consumers-with-credit-card-offers/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32719866">https://news.ycombinator.com/item?id=32719866</a></p>
+<p>Points: 11</p>
+<p># Comments: 1</p>
+
+https://hnrss.org/frontpage
+https://old.reddit.com/r/MachineLearning/comments/x3lahr/d_senior_research_scientist_at_googleai_negar/
+Can't believe Stable Diffusion is out for public use and that's considered “OK”
+2022-09-05 01:30:31+00:00
+False
+<p>Article URL: <a href="https://old.reddit.com/r/MachineLearning/comments/x3lahr/d_senior_research_scientist_at_googleai_negar/">https://old.reddit.com/r/MachineLearning/comments/x3lahr/d_senior_research_scientist_at_googleai_negar/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=32719546">https://news.ycombinator.com/item?id=32719546</a></p>
+<p>Points: 14</p>
+<p># Comments: 6</p>

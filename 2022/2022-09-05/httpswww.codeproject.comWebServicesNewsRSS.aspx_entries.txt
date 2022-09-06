@@ -1,0 +1,83 @@
+https://www.codeproject.com/WebServices/NewsRSS.aspx
+https://www.codeproject.com/script/News/View.aspx?nwid=58765
+C# and Java
+2022-09-05 04:00:00+00:00
+False
+Language: very close. Libraries: not so much
+
+https://www.codeproject.com/WebServices/NewsRSS.aspx
+https://www.codeproject.com/script/News/View.aspx?nwid=58775
+Forget chess, DeepMind’s training its new AI to play football
+2022-09-05 04:00:00+00:00
+False
+Has it learned how to take a dive for a foul yet?
+
+https://www.codeproject.com/WebServices/NewsRSS.aspx
+https://www.codeproject.com/script/News/View.aspx?nwid=58767
+Guy who has to move NASA moon rocket back to hangar very annoyed
+2022-09-05 04:00:00+00:00
+False
+It's a long time to be driving, looking in the rear view mirror. And the BEEPING!
+
+https://www.codeproject.com/WebServices/NewsRSS.aspx
+https://www.codeproject.com/script/News/View.aspx?nwid=58769
+IRS data leak exposes personal info of 120,000 taxpayers
+2022-09-05 04:00:00+00:00
+False
+Good news for people that don't pay their taxes
+
+https://www.codeproject.com/WebServices/NewsRSS.aspx
+https://www.codeproject.com/script/News/View.aspx?nwid=58764
+Microsoft money
+2022-09-05 04:00:00+00:00
+False
+"Money. It's a hit."
+
+https://www.codeproject.com/WebServices/NewsRSS.aspx
+https://www.codeproject.com/script/News/View.aspx?nwid=58773
+Monitoring developer metrics: Team approach is best
+2022-09-05 04:00:00+00:00
+False
+Because there's no 'i' in 'Code Faster!"
+
+https://www.codeproject.com/WebServices/NewsRSS.aspx
+https://www.codeproject.com/script/News/View.aspx?nwid=58766
+NSA to developers: We've got some software supply chain security tips for you
+2022-09-05 04:00:00+00:00
+False
+Now it stands for, "National Security Advisers"
+
+https://www.codeproject.com/WebServices/NewsRSS.aspx
+https://www.codeproject.com/script/News/View.aspx?nwid=58768
+Questions to ask a prospective employer during a job interview
+2022-09-05 04:00:00+00:00
+False
+Somehow, "Is the snack machine free?" didn't make the cut
+
+https://www.codeproject.com/WebServices/NewsRSS.aspx
+https://www.codeproject.com/script/News/View.aspx?nwid=58774
+SNAFU: The Air Force just survived a reply-all apocalypse
+2022-09-05 04:00:00+00:00
+False
+Fortunately, no missiles were launched via email
+
+https://www.codeproject.com/WebServices/NewsRSS.aspx
+https://www.codeproject.com/script/News/View.aspx?nwid=58772
+The forty-year programmer
+2022-09-05 04:00:00+00:00
+False
+"Don't you know I'm still standing better than I ever did?"
+
+https://www.codeproject.com/WebServices/NewsRSS.aspx
+https://www.codeproject.com/script/News/View.aspx?nwid=58770
+The real cost of bad data
+2022-09-05 04:00:00+00:00
+False
+Assuming the estimate of cost isn't based on bad data
+
+https://www.codeproject.com/WebServices/NewsRSS.aspx
+https://www.codeproject.com/script/News/View.aspx?nwid=58771
+Windows Defender is reporting a false-positive threat 'Behavior:Win32/Hive.ZY'; it's nothing to be worried about
+2022-09-05 04:00:00+00:00
+False
+Because, as we know Microsoft software is never attacked by malware

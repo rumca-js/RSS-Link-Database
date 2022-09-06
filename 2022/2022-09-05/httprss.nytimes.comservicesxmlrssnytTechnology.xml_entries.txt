@@ -1,0 +1,6 @@
+http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
+https://www.nytimes.com/2022/09/04/business/energy-environment/india-electric-vehicles-moped-rickshaw.html
+India’s Electric Vehicle Push Is Riding on Mopeds and Rickshaws
+2022-09-05 14:43:06+00:00
+False
+The country’s success with two- and three-wheeled vehicles that sell for as little as $1,000 could be a template for other developing countries.

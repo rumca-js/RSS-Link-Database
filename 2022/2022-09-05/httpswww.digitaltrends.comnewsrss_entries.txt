@@ -1,0 +1,209 @@
+https://www.digitaltrends.com/news/rss
+https://www.digitaltrends.com/computing/amd-ryzen-7000-release-date-may-be-delayed/
+AMD steals Intel’s spotlight with new Ryzen 7000 release date
+2022-09-05 14:52:18.808594+00:00
+False
+According to a new leak, AMD may delay the launch of Ryzen 7000. The new date would ramp up the competition between AMD and Intel.
+
+https://www.digitaltrends.com/news/rss
+https://www.digitaltrends.com/computing/intel-arc-alchemist-a380-available-for-sale/
+Intel Arc is finally here, and it’s cheaper than AMD and Nvidia
+2022-09-05 14:52:18.801393+00:00
+False
+Intel Arc Alchemist finally makes its U.S. debut with the Arc A380, now available for sale. The pricing of the GPU seems quite competitive.
+
+https://www.digitaltrends.com/news/rss
+https://www.digitaltrends.com/news/airbnb-to-test-anti-party-tech/
+Airbnb to test ‘anti-party tech’ to stop disruptive events
+2022-09-05 14:52:18.793503+00:00
+False
+As part of ongoing efforts to prevent its listings from being booked for raucous blowouts, Airbnb will pilot new “anti-party technology” in the U.S. and Canada.
+
+https://www.digitaltrends.com/news/rss
+https://www.digitaltrends.com/news/american-airlines-buy-boom-supersonic-jets/
+American Airlines to buy 20 of Boom’s supersonic passenger jets
+2022-09-05 14:52:18.786714+00:00
+False
+With an eye on slashing its flight times, American Airlines has agreed to a deal with Boom Supersonic to buy up to 60 of its in-development Overture aircraft.
+
+https://www.digitaltrends.com/news/rss
+https://www.digitaltrends.com/computing/intel-arc-a580-appears-in-a-benchmark/
+Intel’s forgotten Arc A580 takes on the RTX 3050 — but who wins?
+2022-09-05 14:52:18.779888+00:00
+False
+Another Intel Arc GPU has just made its appearance in a benchmark -- the Arc A580. The graphics card could rival Nvidia's entry-level models.
+
+https://www.digitaltrends.com/news/rss
+https://www.digitaltrends.com/computing/intel-raptor-lake-may-hit-350-watts/
+Intel Raptor Lake boosts performance, but the requirements are staggering
+2022-09-05 14:52:18.772930+00:00
+False
+Intel Raptor Lake Core i9-13900K may come with an extra mode that boosts performance while bringing the power consumption to a staggering level.
+
+https://www.digitaltrends.com/news/rss
+https://www.digitaltrends.com/computing/researchers-fix-wi-fi-connectivity-with-anti-reflective-coating/
+The key to fixing your bad Wi-Fi connection may finally be here
+2022-09-05 14:52:18.766485+00:00
+False
+A team of researchers from the Vienna University of Technology may have just found the solution to one of our main Wi-Fi-related woes.
+
+https://www.digitaltrends.com/news/rss
+https://www.digitaltrends.com/computing/intel-arc-a380-overclocked-to-3-1-ghz/
+Intel Arc A380 can be overclocked to 3.1GHz — but is it worth the effort?
+2022-09-05 14:52:18.759735+00:00
+False
+Overclocking an Intel Arc GPU has proved to be a challenge. Although the A380 managed to hit 3.1GHz, the success was short-lived.
+
+https://www.digitaltrends.com/news/rss
+https://www.digitaltrends.com/computing/apple-finally-allows-you-to-repair-your-own-macbook/
+Apple finally allows you to repair your own MacBook
+2022-09-05 14:52:18.752879+00:00
+False
+The new self-service repair will only be available to U.S. users with M1 MacBooks for the time being.
+
+https://www.digitaltrends.com/news/rss
+https://www.digitaltrends.com/computing/ngs-the-shrimp-keyboard-launches-for-laptop-gamers/
+This half-sized micro-keyboard is a dream come true for PC gaming on the go
+2022-09-05 14:52:18.746093+00:00
+False
+This cute and compact new keyboard could be just the thing that laptop users needed to enjoy gaming on the go a little bit more.
+
+https://www.digitaltrends.com/news/rss
+https://www.digitaltrends.com/computing/vesa-clearmr-makes-it-easier-to-shop-for-a-monitor/
+New VESA display standard makes it easier to pick a monitor
+2022-09-05 14:52:18.738547+00:00
+False
+VESA has just created a new standard to rate the motion blur on a monitor. This should make shopping for a new display a bit easier.
+
+https://www.digitaltrends.com/news/rss
+https://www.digitaltrends.com/computing/apple-m2-3nm-rumors/
+This reliable leaker has some bad news about Apple’s M2 Pro chips
+2022-09-05 14:52:18.731482+00:00
+False
+Reliable sources now say Apple is sticking with 5nm processes for the M2 Pro and M2 Max chips.
+
+https://www.digitaltrends.com/news/rss
+https://www.digitaltrends.com/computing/macos-ventura-on-older-macs/
+Developers help older Macs do something Apple won’t allow
+2022-09-05 14:52:18.716387+00:00
+False
+They said your Mac was too old for macOS Ventura, but there's another way; the way of adding Ventura to your ancient Mac, thanks to the devs behind OpenCore Legacy Patcher.
+
+https://www.digitaltrends.com/news/rss
+https://www.digitaltrends.com/computing/asus-introduces-dynamic-oc-switcher-to-ryzen-7000-motherboards/
+AMD and Asus team up to make Zen 4 overclocking a breeze
+2022-09-05 14:52:18.706279+00:00
+False
+Asus has just revealed that it will be adding a Dynamic OC Switcher feature to its ROG AM5 motherboards. This means good news for overclockers.
+
+https://www.digitaltrends.com/news/rss
+https://www.digitaltrends.com/computing/hp-new-products-unveiled-including-ips-black-display/
+HP unveils new IPS Black monitor with one key new feature
+2022-09-05 14:52:18.699452+00:00
+False
+HP has just unveiled several new products, but the star of the lineup is certainly the IPS Black display that takes contrasts to a new level.
+
+https://www.digitaltrends.com/news/rss
+https://www.digitaltrends.com/computing/nvidia-ceo-reveals-upcoming-rtx-4000-news/
+Nvidia CEO promises RTX 30 price cuts as RTX 40 is just around the corner
+2022-09-05 14:52:18.692613+00:00
+False
+Nvidia CEO Jensen Huang just spoke about the company's status and plans during an earnings call. It seems that exciting RTX 4000 news are on the horizon.
+
+https://www.digitaltrends.com/news/rss
+https://www.digitaltrends.com/computing/amd-zen-4-3d-v-cache-processors-may-have-intel-worried/
+AMD is ready to battle Intel with next-gen 3D V-Cache CPUs
+2022-09-05 14:52:18.685301+00:00
+False
+An early leak about AMD's upcoming Zen 4 3D V-Cache processors reveals that Intel Raptor Lake might soon have reasons to worry.
+
+https://www.digitaltrends.com/news/rss
+https://www.digitaltrends.com/computing/corsair-xeneon-flex-45wqhd240-bendable-monitor/
+Corsair’s Xeneon Flex is the ‘bendable’ OLED monitor we always wanted
+2022-09-05 14:52:18.678522+00:00
+False
+Corsair unveiled the world's first bendable gaming monitor with a beautiful 45-inch OLED display.
+
+https://www.digitaltrends.com/news/rss
+https://www.digitaltrends.com/computing/samsung-unveils-990-pro-nvme-ssd/
+Samsung reaches new heights with this SSD, but it could go even higher
+2022-09-05 14:52:18.671741+00:00
+False
+Samsung has unveiled a powerful new SSD made with gaming and content creation in mind. Surprisingly, the manufacturer stuck to older SSD technology.
+
+https://www.digitaltrends.com/news/rss
+https://www.digitaltrends.com/computing/chrome-biometric-password-autofill/
+Chrome just added a great new way to protect your passwords
+2022-09-05 14:52:18.664843+00:00
+False
+Chrome will soon let you fill out forms online using only your fingerprint or face unlock.
+
+https://www.digitaltrends.com/news/rss
+https://www.digitaltrends.com/computing/genshin-impact-driver-grants-hackers-access/
+This game lets hackers attack your PC, and you don’t even need to play it
+2022-09-05 14:52:18.657687+00:00
+False
+Hackers just found a clever way to abuse the anti-cheat system in a massively popular game. Without even installing the game, they can take over the target PC.
+
+https://www.digitaltrends.com/news/rss
+https://www.digitaltrends.com/computing/apple-m2-max-m2-pro-macbooks-rumors/
+Apple M2 Pro and M2 Max MacBook Pro just received some good news
+2022-09-05 14:52:18.650831+00:00
+False
+According to a new leak, Apple may release the new M2 Pro and M2 Max MacBook Pros sooner than expected. Their development is well underway.
+
+https://www.digitaltrends.com/news/rss
+https://www.digitaltrends.com/computing/apple-vr-headset-reality-one-reality-pro/
+We finally might know what Apple will call its AR/VR headset
+2022-09-05 14:52:18.643877+00:00
+False
+Apple filed some trademark names for its upcoming AR/VR headset, indicating it's one step closer to launch.
+
+https://www.digitaltrends.com/news/rss
+https://www.digitaltrends.com/computing/amd-reveals-b650-and-b650-extreme-am5-motherboards/
+New AMD B650 Extreme motherboards are built for budget overclocking
+2022-09-05 14:52:18.636980+00:00
+False
+Alongside the new Zen 4 CPUs, AMD has revealed more information about the AM5 platform and the budget B650 and B650 Extreme motherboards that are coming soon.
+
+https://www.digitaltrends.com/news/rss
+https://www.digitaltrends.com/computing/lightmatter-replaces-chiplet-wiring-with-photonics/
+This startup claims to have unlocked the secret to speedy CPUs
+2022-09-05 14:52:18.628346+00:00
+False
+A startup has just introduced the idea that could unlock the future of chips -- replacing electrical wiring with photonics. Here's what we know about it.
+
+https://www.digitaltrends.com/news/rss
+https://www.digitaltrends.com/news/spacex-starlink-internet-heads-to-first-cruise-ships/
+SpaceX Starlink internet heads to first cruise ships
+2022-09-05 14:52:18.621442+00:00
+False
+Passengers on Royal Caribbean cruise ships will soon be sailing the high seas using internet powered by SpaceX’s Starlink satellites.
+
+https://www.digitaltrends.com/news/rss
+https://www.digitaltrends.com/news/lg-new-technology/
+We really didn’t expect these two new contraptions from LG
+2022-09-05 14:52:18.614640+00:00
+False
+LG’s long list of tech goodies has just grown even longer after it unveiled a couple of contraptions for shoes and sneakers.
+
+https://www.digitaltrends.com/news/rss
+https://www.digitaltrends.com/computing/amd-ryzen-9-7950x-benchmarked-can-you-trust-it/
+There’s a problem with those amazing Ryzen 7000 benchmarks
+2022-09-05 14:52:18.607722+00:00
+False
+New benchmarks of the upcoming AMD Ryzen 9 7950X just emerged. The CPU absolutely destroyed its predecessor. But can you trust these results?
+
+https://www.digitaltrends.com/news/rss
+https://www.digitaltrends.com/news/halo-infinite-season-delay/
+Halo Infinite Season 3 delayed until 2023, split-screen co-op canceled
+2022-09-05 14:52:18.600841+00:00
+False
+Halo Infinite's season 3 got delayed until next year. Thankfully Forge is still on the way.
+
+https://www.digitaltrends.com/news/rss
+https://www.digitaltrends.com/computing/mac-anti-antivirus-fully-preemptive/
+Apple’s antivirus strategy for Mac has gone fully preemptive, but is that enough?
+2022-09-05 14:52:18.593534+00:00
+True
+According to Howard Oakley at Eclectic Light Company, Apple has updated macOS malware more in the past six months than in the past seven years.
