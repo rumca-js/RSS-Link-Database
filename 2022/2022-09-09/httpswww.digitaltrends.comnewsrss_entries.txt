@@ -1,0 +1,20 @@
+https://www.digitaltrends.com/news/rss
+https://www.digitaltrends.com/computing/intel-raptor-lake-specifications-leaked/
+Leak confirms Intel Raptor Lake may bring huge core increase
+2022-09-09 10:30:55.978346+00:00
+False
+The official specifications for Intel Raptor Lake were just leaked, revealing everything there is to know about the upcoming next-gen CPUs.
+
+https://www.digitaltrends.com/news/rss
+https://www.digitaltrends.com/computing/over-80-of-websites-you-visit-could-be-leaking-your-data/
+More than 80% of websites you visit are stealing your data
+2022-09-09 10:30:55.970530+00:00
+True
+The amount of data crawling on the internet is so pervasive that more than 80% of websites you visit send your search queries to third parties.
+
+https://www.digitaltrends.com/news/rss
+https://www.digitaltrends.com/computing/nvidia-special-announcement-coming-soon/
+Nvidia has an exciting announcement about the RTX 4000 GPUs
+2022-09-09 10:30:55.962588+00:00
+False
+It's time to get excited -- Nvidia has just teased an upcoming special announcement that could finally reveal the next-gen RTX 40-Series GPUs.

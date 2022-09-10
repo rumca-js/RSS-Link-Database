@@ -1,0 +1,125 @@
+https://www.codeproject.com/WebServices/NewsRSS.aspx
+https://www.codeproject.com/script/News/View.aspx?nwid=58814
+Alan Perlis and the evolution of programming languages
+2022-09-08 04:00:00+00:00
+False
+Some of them certainly aren't intelligently designed
+
+https://www.codeproject.com/WebServices/NewsRSS.aspx
+https://www.codeproject.com/script/News/View.aspx?nwid=58803
+Announcing the new guide to Android app modularization
+2022-09-08 04:00:00+00:00
+False
+As your app grows in size and complexity, it becomes increasingly difficult to manage, build and scale. One way to address this challenge is a software technique called modular programming.
+
+https://www.codeproject.com/WebServices/NewsRSS.aspx
+https://www.codeproject.com/script/News/View.aspx?nwid=58809
+Apple II desktop updated
+2022-09-08 04:00:00+00:00
+False
+Finally! Time to dig my IIe out of wherever it's stored
+
+https://www.codeproject.com/WebServices/NewsRSS.aspx
+https://www.codeproject.com/script/News/View.aspx?nwid=58819
+Apple Watch Series 8 announced with temperature sensor, crash detection
+2022-09-08 04:00:00+00:00
+False
+Now I'll know the next time I crash!
+
+https://www.codeproject.com/WebServices/NewsRSS.aspx
+https://www.codeproject.com/script/News/View.aspx?nwid=58806
+Creating a Spinner Popup for .NET MAUI
+2022-09-08 04:00:00+00:00
+False
+The .NET MAUI Community Toolkit provides the Popup view, which you can use to create a custom UI that you can present to your users. We’ll use this and populate it with an ActivityIndicator, which will be our spinner.
+
+https://www.codeproject.com/WebServices/NewsRSS.aspx
+https://www.codeproject.com/script/News/View.aspx?nwid=58805
+Exploring Data Store — A New Way of Storing Data in Android.
+2022-09-08 04:00:00+00:00
+False
+If you’re currently using SharedPreferences to store data, consider migrating to DataStore instead.
+
+https://www.codeproject.com/WebServices/NewsRSS.aspx
+https://www.codeproject.com/script/News/View.aspx?nwid=58810
+Facebook engineers admit they don’t know what they do with your data
+2022-09-08 04:00:00+00:00
+True
+"Move fast and break things"
+
+https://www.codeproject.com/WebServices/NewsRSS.aspx
+https://www.codeproject.com/script/News/View.aspx?nwid=58815
+Game building
+2022-09-08 04:00:00+00:00
+False
+" Wouldn't you prefer a good game of chess?"
+
+https://www.codeproject.com/WebServices/NewsRSS.aspx
+https://www.codeproject.com/script/News/View.aspx?nwid=58811
+Go programming language arrives at security warnings that are useful
+2022-09-08 04:00:00+00:00
+False
+Go, go gadget checkup!
+
+https://www.codeproject.com/WebServices/NewsRSS.aspx
+https://www.codeproject.com/script/News/View.aspx?nwid=58812
+How many jobs are available in technology?
+2022-09-08 04:00:00+00:00
+False
+"We be been taking care of business"
+
+https://www.codeproject.com/WebServices/NewsRSS.aspx
+https://www.codeproject.com/script/News/View.aspx?nwid=58808
+Introducing: Maestro — Painless Mobile UI Automation
+2022-09-08 04:00:00+00:00
+False
+The easiest way to automate UI testing for your mobile app
+
+https://www.codeproject.com/WebServices/NewsRSS.aspx
+https://www.codeproject.com/script/News/View.aspx?nwid=58726
+Learning To Use Menu Bar in .NET MAUI
+2022-09-08 04:00:00+00:00
+False
+Today in our .NET MAUI explorations, let’s see how to use one of the primary tools for any app—a menu bar!
+
+https://www.codeproject.com/WebServices/NewsRSS.aspx
+https://www.codeproject.com/script/News/View.aspx?nwid=58817
+Minecraft is hackers’ favorite game title for hiding malware
+2022-09-08 04:00:00+00:00
+False
+Time to block it?
+
+https://www.codeproject.com/WebServices/NewsRSS.aspx
+https://www.codeproject.com/script/News/View.aspx?nwid=58813
+Research: quantifying GitHub Copilot’s impact on developer productivity and happiness
+2022-09-08 04:00:00+00:00
+False
+Happiness is a warm keyboard. Click, click. Shift, shift
+
+https://www.codeproject.com/WebServices/NewsRSS.aspx
+https://www.codeproject.com/script/News/View.aspx?nwid=58816
+Scientists develop model that adjusts video game difficulty based on player emotions
+2022-09-08 04:00:00+00:00
+False
+I'm sad because I crushed all the candy, and I could crush all the candy because I was sad
+
+https://www.codeproject.com/WebServices/NewsRSS.aspx
+https://www.codeproject.com/script/News/View.aspx?nwid=58807
+Sharing cross-platform code in SwiftUI apps
+2022-09-08 04:00:00+00:00
+False
+The main appeal of building apps in SwiftUI is being able to share UI code across platforms, in particular iOS and macOS.
+
+https://www.codeproject.com/WebServices/NewsRSS.aspx
+https://www.codeproject.com/script/News/View.aspx?nwid=58818
+The EU’s AI Act could have a chilling effect on open source efforts, experts warn
+2022-09-08 04:00:00+00:00
+True
+When AI meets political intelligence
+
+https://www.codeproject.com/WebServices/NewsRSS.aspx
+https://www.codeproject.com/script/News/View.aspx?nwid=58804
+The Swift Programming Language
+2022-09-08 04:00:00+00:00
+False
+The version of The Swift Programming Language published on docs.swift.org is currently built using a legacy toolchain, not from this repository or its content. The goal is to replace that version with a version built from this repository, working with the community to extend Swift-DocC where needed.
