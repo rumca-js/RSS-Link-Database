@@ -1,0 +1,84 @@
+# Intel’s new Raptor Lake CPUs will run at 6GHz
+ - https://www.pcworld.com/article/1065404/intels-new-raptor-lake-cpus-will-run-at-6ghz.html
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2022-09-12 17:12:49+00:00
+ - Starred: False
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Firing a shot back at AMD official Ryzen reveal, Intel officials said the upcoming 13th gen &ldquo;Raptor Lake&rdquo; desktop CPUs will hit 6GHz. Intel&rsquo;s boost clock of 6GHz for its upcoming chip was revealed at a press event at the company&rsquo;s famous Haifa design center in Israel, according to numerous press reports. </p>
+
+
+
+<p>Much of the briefing is under embargo f
+
+# Is HEDT really dead? We asked Wendell from Level1Techs
+ - https://www.pcworld.com/article/1064402/is-hedt-really-dead.html
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2022-09-12 16:00:00+00:00
+ - Starred: False
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>HEDT is an acronym for High-End DeskTop. And like the definition of a sportscar versus a supercar, it&rsquo;s a bit nebulous. What hardware does a computer need to be an HEDT? <a href="https://www.pcworld.com/article/707425/hedt-amd-threadripper-intel-mainstream-cpus.html">Is the HEDT market dead</a>, and will it come back? Ponder such questions along with Gordon Mah Ung, and o
+
+# This Minecraft virtual computer is powerful enough to play…Minecraft
+ - https://www.pcworld.com/article/1065278/this-minecraft-virtual-computer-is-powerful-enough-to-play-minecraft.html
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2022-09-12 15:42:24+00:00
+ - Starred: False
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Late last year, we told you about the <a href="https://www.pcworld.com/article/559794/8-bit-computer-processor-built-in-minecraft-can-run-its-own-games.html" rel="noreferrer noopener" target="_blank">Chungus 2</a>, a virtual computer that was &ldquo;built&rdquo; within the blocky world of <em>Minecraft</em>. The initial processor design could play super-basic games like Snake o
+
+# The best free VPN for Chrome
+ - https://www.pcworld.com/article/633008/the-best-free-vpn-for-chrome.html
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2022-09-12 14:30:00+00:00
+ - Starred: False
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>If you have a Chromebook or don&rsquo;t want yet another program on your Windows desktop there is an alternative to a full VPN: a Chrome extension. Many people are looking for a VPN solely to use with their web browser anyway. So why bother with the full program? With an extension you can have your browser appear as if it&rsquo;s somewhere else, while the rest of your desktop p
+
+# Official Steam Deck repair centers are now open
+ - https://www.pcworld.com/article/1065262/official-steam-deck-repair-centers-are-now-open.html
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2022-09-12 14:15:06+00:00
+ - Starred: False
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Portable devices tend to break a lot, if only because people are lugging them around whenever they go. Valve, now both a PC manufacturer and portable game console maker, is taking the initiative for customer service. The company announced this weekend that <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://store.steampowered.com/news/app/1675200/view/33985
+
+# This Dell gaming monitor is lightning fast, vibrant, and $260 off
+ - https://www.pcworld.com/article/1065063/tk-43.html
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2022-09-12 13:05:22+00:00
+ - Starred: False
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>If you&rsquo;ve been perusing the web for a high refresh rate gaming monitor, then you&rsquo;ve come to the right place. <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.dell.com/en-us/shop/dell-27-gaming-monitor-s2721dgf/apd/210-axeh/monitors-monitor-accessories?gacd=9614064-1014-5761040-266794588-0&amp;dgc=st&amp;ds_rl=1286018&amp;gclid=Cj0KCQjwjva
+
+# Calm down, USB4 version 2.0 haters
+ - https://www.pcworld.com/article/1063210/usb4-version-2-0-chillax.html
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2022-09-12 10:45:00+00:00
+ - Starred: False
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Oh internet, they just came out with <a href="https://www.pcworld.com/article/919864/usb4-leaps-ahead-of-thunderbolt-with-80gbps-standard.html">USB4 V2</a> and you just had to lose your s$%# all over again.&nbsp;</p>
+
+
+
+<p>Well, I&rsquo;m here to tell you to calm the hell&nbsp;down because it&rsquo;s not as bad as you think.</p>
+
+
+
+<p>The USB illuminati just announced USB4 Vers
+
+# Dell G2723H review: An affordable 280Hz monitor
+ - https://www.pcworld.com/article/1063316/dell-g2723h-monitor-review.html
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2022-09-12 10:30:00+00:00
+ - Starred: False
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section><div class="review" id="review-body"><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
+<div><div class="review-columns"><div class="review-column"><h3 class="review-subTitle" id="pros">Pros</h3><ul class="pros review-list"><li>Attractive, sturdy design</li><li>Packs four USB ports</li><li
