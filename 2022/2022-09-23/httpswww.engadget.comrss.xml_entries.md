@@ -1,0 +1,135 @@
+# Google Home can now use Nest speakers to detect your presence
+ - https://www.engadget.com/google-home-nest-speaker-presence-detection-211055011.html?src=rss
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2022-09-23 21:10:55+00:00
+ - Starred: False
+
+<p>Google Home no longer needs to lean solely on smart home devices like thermostats to know whether or not you're around. Home's optional presence sensing feature <a href="https://twitter.com/madebygoogle/status/1573365678224150533">can now use</a> interactions with Nest speakers and smart displays to help detect activity in your abode, letting it perform automated actions. If you talk to your <a href="https://www.engadget.com/google-nest-audio-review-143012511.html">Nest Audio</a> or tap your 
+
+# Mercedes' F1 team used biofuel to cut freight carbon emissions by 89 percent
+ - https://www.engadget.com/mercedes-f1-trucks-biofuel-test-carbon-emissions-203003161.html?src=rss
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2022-09-23 20:30:03+00:00
+ - Starred: False
+
+<p><a href="https://www.engadget.com/tag/formula%201/"><ins>Formula 1</ins></a> isn't exactly the most environmentally friendly organization, but it's trying to become much greener. F1 is targeting <a href="https://www.engadget.com/2019-11-12-formula-1-carbon-neutral-2030.html"><ins>net zero carbon emissions</ins></a> by the end of the decade and <a href="https://www.engadget.com/audi-joins-f1-104506589.html"><ins>engine makers</ins></a> have been <a href="https://www.engadget.com/fia-sustainabl
+
+# How to stream tonight's historic Yankees-Red Sox game on Apple TV+ for free
+ - https://www.engadget.com/how-to-watch-yankees-red-sox-aaron-judge-game-free-201019490.html?src=rss
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2022-09-23 20:10:19+00:00
+ - Starred: False
+
+<p>Don't panic that you might miss out on tonight's potentially legendary match-up between the Yankees and Red Sox just because it's on Apple TV+ — there's a good chance you can tune in for free. Apple is <a href="https://tv.apple.com/us/sporting-event/boston-red-sox-at-new-york-yankees/umc.cse.4alxmc3cok780104wac27bn7l">streaming the game</a> at no charge as part of its weekly <a href="https://www.engadget.com/apple-mlb-friday-night-baseball-schedule-171912642.html">Friday Night Baseball featur
+
+# Amazon's updated e-book return policy looks like a big win for authors
+ - https://www.engadget.com/amazons-updated-e-book-return-policy-looks-like-a-big-win-for-authors-191020536.html?src=rss
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2022-09-23 19:10:20+00:00
+ - Starred: False
+
+<p>Anyone who has been taking advantage of Amazon's liberal return policy regarding e-books could soon be in for a shock. That's because <a href="https://www.authorsguild.org/industry-advocacy/amazon-changing-ebook-return-policy/">following discussions with the Authors Guild</a>, Amazon has agreed to block automatic returns on digital books that are more than 10 percent read.&nbsp;</p><p>Currently, the problem for authors on Amazon is that customers can return e-books online anytime within seven
+
+# Boeing to pay $200 million to settle charges over 'misleading' crash statements
+ - https://www.engadget.com/boeing-settle-sec-charges-737-max-safety-misleading-statements-dennis-muilenburg-183230833.html?src=rss
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2022-09-23 18:32:30+00:00
+ - Starred: False
+
+<p><a href="https://www.engadget.com/tag/boeing/"><ins>Boeing</ins></a> has agreed to pay $200 million to settle charges from the Securities and Exchange Commission. The agency found that Boeing made &quot;materially misleading public statements&quot; related to <a href="https://www.engadget.com/2019-03-12-boeing-software-update-737-max.html"><ins>crashes</ins></a> involving its <a href="https://www.engadget.com/tag/737%20max/"><ins>737 Max</ins></a> aircraft. The company's former CEO Dennis Mui
+
+# Mercedes says the electric G-Class will arrive in 2024
+ - https://www.engadget.com/mercedes-benz-electric-g-class-suv-2024-172226776.html?src=rss
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2022-09-23 17:22:26+00:00
+ - Starred: False
+
+<p>Mercedes-Benz has revealed when you might be able to get behind the wheel of <a href="https://www.engadget.com/2019-11-09-g-class-mercedes-ev.html"><ins>its electric G-Class</ins></a>. The automaker's CEO Ola Källenius told members of the media that the vehicle will arrive by the end of 2024, according to <a href="https://www.autoblog.com/2022/09/22/electric-mercedes-gclass-2024/?guccounter=1"><em><ins>Autoblog</ins></em></a>.</p><p>The company announced a zero-emission electric version of th
+
+# VW's latest concept is a self-driving travel pod that can replace short flights
+ - https://www.engadget.com/vw-gen-travel-self-driving-pod-162904370.html?src=rss
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2022-09-23 16:29:04+00:00
+ - Starred: False
+
+<p>Many automakers dream of self-driving cars that are effectively <a href="https://www.engadget.com/audi-urbansphere-ev-concept-is-built-for-tomorrow-megacities-110009796.html">lounges on wheels</a>, but VW is taking things one step further. The brand has <a href="https://www.volkswagen-newsroom.com/en/press-releases/the-innovative-way-to-travel-design-study-gentravel-makes-world-debut-15206">unveiled</a> a Gen.Travel &quot;design study&quot; EV that it hopes could replace short flights. The fo
+
+# Robotic sleeves can provide arm control to kids with cerebral palsy
+ - https://www.engadget.com/robot-sleeves-cerebral-palsy-kids-154049565.html?src=rss
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2022-09-23 16:10:49+00:00
+ - Starred: False
+
+<p><a href="https://www.engadget.com/2016-07-27-robotic-exoskeleton-for-babies-cerebral-palsy.html">Children with cerebral palsy</a> might soon use technology to gain some independence. UC Riverside researchers are <a href="https://news.ucr.edu/articles/2022/09/23/robot-sleeves-kids-cerebral-palsy">developing</a> robotic sleeves that provide arm control to kids with cerebral palsy-related mobility issues. Rather than augment the arm like an exoskeleton, the technology will use voltage sensors to
+
+# The 2021 Apple TV 4K drops to $120, plus the rest of the week's best tech deals
+ - https://www.engadget.com/2021-apple-tv-4-k-drops-to-120-best-tech-deals-this-week-154524465.html?src=rss
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2022-09-23 15:45:24+00:00
+ - Starred: False
+
+<p>If you're an Apple or Samsung fan, you have a lot of discounted gadgets to choose from this week. Apple's <a href="https://www.amazon.com/gp/product/B09G9FPHY6/ref=as_li_ss_tl?ie=UTF8&amp;linkCode=ll1&amp;tag=dealpost2022-20&amp;language=en_US">base iPad</a> remains on sale for $280, or you can pick up the <a href="https://www.amazon.com/gp/product/B0932D45W8/ref=as_li_ss_tl?ie=UTF8&amp;linkCode=ll1&amp;tag=dealpost2022-20&amp;language=en_US">12.9-inch iPad Pro</a> for a record low of $900. O
+
+# UK police arrest alleged ‘GTA VI’ hacker
+ - https://www.engadget.com/gta-vi-hacker-arrested-report-uber-uk-lapsus-151958335.html?src=rss
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2022-09-23 15:19:58+00:00
+ - Starred: False
+
+<p>Police in the UK have arrested a 17-year-old suspected hacker. <a href="https://twitter.com/MatthewKeysLive/status/1573298480520404992"><ins>Reports suggest</ins></a> the arrest is connected to the Rockstar Games hack that led to a <a href="https://www.engadget.com/rockstar-grand-theft-auto-6-leak-155755703.html"><ins>major </ins><em><ins>Grand Theft Auto VI </ins></em><ins>leak</ins></a>. The individual may have been involved with an intrusion on <a href="http://engadget.com/tag/uber"><ins>U
+
+# TikTok rolls out comment 'dislike' button to all users
+ - https://www.engadget.com/tiktok-dislike-comments-133432987.html?src=rss
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2022-09-23 13:34:32+00:00
+ - Starred: True
+
+<p>You now have a way to show your disapproval of hurtful (or simply pointless) TikTok comments. In the wake of a <a href="https://www.engadget.com/tiktok-is-testing-a-dislike-button-in-comments-175514051.html">test this spring</a>, TikTok has <a href="https://www.engadget.com/tiktok-is-testing-a-dislike-button-in-comments-175514051.html">started</a> the global rollout for a comment 'dislike' button. As with other social networks, you can tap a thumbs-down button to express your displeasure, or 
+
+# NVIDIA's new AI model quickly generates objects and characters for virtual worlds
+ - https://www.engadget.com/nvidia-ai-model-get3d-virtual-worlds-objects-130021127.html?src=rss
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2022-09-23 13:00:21+00:00
+ - Starred: False
+
+<p><a href="https://www.engadget.com/tag/nvidia/"><ins>NVIDIA</ins></a> is looking to take the sting out of creating virtual 3D worlds with a new <a href="https://www.engadget.com/tag/ai/"><ins>artificial intelligence</ins></a> model. GET3D can generate characters, buildings, vehicles and other types of 3D objects, NVIDIA says. The model should be able to whip up shapes quickly too. The company notes that GET3D can generate around 20 objects per second using a single GPU.</p><p>Researchers train
+
+# Engadget Podcast: The repairable iPhone 14 and NVIDIA’s RTX 4000 GPUs
+ - https://www.engadget.com/engadget-podcast-iphone-14-repair-nvidia-rtx-4080-123100513.html?src=rss
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2022-09-23 12:31:00+00:00
+ - Starred: False
+
+<p>Surprise! The iPhone 14 is pretty repairable, it turns out. This week, Cherlynn and Devindra chat with Engadget’s Sam Rutherford about this move towards greater repairability and what it means for future iPhones. Also, they dive into NVIDIA’s powerful (and expensive!) new RTX 4080 and 4090 GPUs. Sure, they’re faster than before, but does anyone really need all that power?</p><div id="36206c105ece41a2996ac7b03b5f6e03"><div style="font-size: 10px; color: #cccccc; overflow: hidden; white-space: 
+
+# The Morning After: Google's cheaper $30 Chromecast with Google TV
+ - https://www.engadget.com/the-morning-after-googles-cheaper-30-chromecast-with-google-tv-111544466.html?src=rss
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2022-09-23 11:15:44+00:00
+ - Starred: False
+
+<p>Google has unveiled another streaming dongle. The <a href="https://www.engadget.com/chromecast-with-google-tv-hd-1080p-hdr-remote-130016962.html%20https://www.engadget.com/...">Chromecast with Google TV (HD)</a> device manages to offer a lot of the features from the $50 4K model at a significantly cheaper $30 price. Unlike the older $35 Chromecast, it comes with a remote control that eliminates the need for a smartphone, though you can still control it with your phone. There is a drawback – t
+
+# Amazon's Echo Show displays are up to 53 percent off right now
+ - https://www.engadget.com/amazon-echo-display-on-sale-right-now-093537834.html?src=rss
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2022-09-23 09:35:37+00:00
+ - Starred: False
+
+<p>Amazon's Echo Show smart displays with Alexa voice control are already a good value next to the competition, but a bunch of deals are making them even cheaper. The Show 5 is the best one, on sale <a href="https://www.amazon.com/gp/product/B08KJN3333/ref=as_li_ss_tl?ie=UTF8&amp;linkCode=ll1&amp;tag=dealpost2022-20&amp;language=en_US">right now for just $40</a>, or 53 percent off the regular price. And if you want a larger screen, you can find great deals on the <a href="https://www.amazon.com/
+
+# New Fitbit devices will need to be linked to a Google account next year
+ - https://www.engadget.com/fitbit-google-accounts-integration-084831995.html?src=rss
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2022-09-23 08:48:31+00:00
+ - Starred: False
+
+<p>Starting next year, you'll only be able to activate newly released Fitbit models using a Google account. It doesn't come as a surprise for Google's services to become more intertwined with Fitbit's fitness devices after the tech giant <a href="https://www.engadget.com/google-now-owns-fitbit-141747501.html">acquired the latter for $2.1 billion</a> in 2021. But now, we have a timeline for when Fitbit accounts will no longer be essential. As spotted by <a href="https://9to5google.com/2022/09/22/
+
+# Apple updates iOS 16 to fix shaky iPhone 14 Pro camera and copy-paste issues
+ - https://www.engadget.com/apple-updates-ios-16-shaky-iphone-14-pro-camera-copy-paste-issues-060325547.html?src=rss
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2022-09-23 06:03:25+00:00
+ - Starred: False
+
+<p>Apple released its latest iPhone lineup and mobile platforms earlier this month, and a couple of annoying bugs quickly made themselves known to users. The good news is that the tech giant has quickly whipped up patches to fix the issues and has now released them as part of the <a href="https://support.apple.com/en-ph/HT213407">iOS 16.0.2 update</a>. One of the problems the update solves is the <a href="https://www.engadget.com/apple-iphone-14-pro-max-review-dynamic-island-useful-always-on-dis
