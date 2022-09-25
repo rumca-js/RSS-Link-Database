@@ -1,0 +1,855 @@
+# Missouri loses overtime game to Auburn in agonizing fashion
+ - https://www.foxnews.com/sports/missouri-loses-overtime-game-auburn-agonizing-fashion
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 21:10:32+00:00
+ - Starred: False
+
+Missouri Tigers running back Nathaniel Peat fumbled the ball into the end zone in overtime, allowing Auburn to recover and secure the 17-14 victory.
+
+# Tony La Russa not returning to White Sox this year under doctors' orders
+ - https://www.foxnews.com/sports/tony-la-russa-not-returning-white-sox-this-year-under-doctors-orders
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 20:52:00+00:00
+ - Starred: False
+
+The Chicago White Sox announced Saturday manager Tony La Russa has been ordered by doctors not to manage the team for the rest of the season due to health concerns.
+
+# Princess Diana’s and Meghan Markle’s differences in treatment of staff are ‘stark,’ royal expert says
+ - https://www.foxnews.com/entertainment/princess-diana-meghan-markles-differences-treatment-staff-stark-royal-expert
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 20:48:38+00:00
+ - Starred: False
+
+Duchess of Sussex Meghan Markle is facing criticism for the way she treated royal staff when living at the palace, in comparison to Princess Diana -- who was described as "kind."
+
+# No. 5 Clemson survives comeback against No. 21 Wake Forest in double overtime
+ - https://www.foxnews.com/sports/no-5-clemson-survives-comeback-against-no-21-wake-forest-double-overtime
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 20:44:26+00:00
+ - Starred: False
+
+No. 5 Clemson went on the road and held off a late comeback by No. 21 Wake Forest, defeating the Demon Deacons for a 14th consecutive time on Saturday.
+
+# El Paso hit by 1,500 illegal migrants a day while small fraction sent to liberal cities strains resources
+ - https://www.foxnews.com/politics/el-paso-hit-1500-illegal-migrants-day-while-small-fraction-sent-liberal-cities-strains-resources
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 20:32:56+00:00
+ - Starred: False
+
+Border Patrol agents in the El Paso Sector are seeing approximately 1,500 migrants a day as they face a surge in numbers that are overwhelming facilities in the area.
+
+# MSNBC guest Jason Johnson says Republican Party is ‘dime store front for a terrorist organization'
+ - https://www.foxnews.com/media/msnbc-guest-jason-johnson-says-republican-party-dime-store-front-terrorist-organization
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 20:29:11+00:00
+ - Starred: False
+
+Jason Johnson told MSNBC host Tiffany Cross on Saturday that Trump voters are a "cult" and the GOP is a "dime store front for a terrorist organization."
+
+# A year after Biden falsely accused Border Patrol agents of whipping migrants there's still no apology
+ - https://www.foxnews.com/politics/year-after-biden-falsely-accused-border-patrol-agents-whipping-migrants-theres-still-no-apology
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 20:19:53+00:00
+ - Starred: False
+
+A year ago, President Biden accused Border Patrol agents of having whipped migrants and promised that the agents involved would "pay" over the incident in Del Rio.
+
+# Meghan Markle, the ‘difficult' Duchess, complained about ‘not getting paid’ for royal tour, book claims
+ - https://www.foxnews.com/entertainment/meghan-markle-difficult-duchess-complained-not-getting-paid-royal-tour-book-claims
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 19:28:34+00:00
+ - Starred: False
+
+Royal insiders revealed that Duchess of Sussex Meghan Markle showed negative behavior towards the staff, according the book "In Courtiers: the Hidden Power Behind the Crown" by Valentine Low.
+
+# Arizona AG Mark Brnovich: Drugs, criminals, and illegal migrants are pouring across America's open border
+ - https://www.foxnews.com/politics/arizona-ag-mark-brnovich-drugs-criminals-illegal-migrants-pouring-across-americas-open-border
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 19:27:59+00:00
+ - Starred: False
+
+Arizona Attorney General Mark Brnovich (R) discusses America's growing border crisis as more illegal migrants continue to flow across the southern border.
+
+# Debbie Collier case: 2021 Georgia bodycam shows daughter's boyfriend accuse her of stealing cash to buy drugs
+ - https://www.foxnews.com/us/debbie-collier-case-2021-georgia-bodycam-shows-daughters-boyfriend-accuse-stealing-cash-buy-drugs
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 19:21:24+00:00
+ - Starred: False
+
+The daughter of slain Georgia woman Debbie Collier had issues with finances and drug abuse, her boyfriend Andrew Giegerich told police in 2021 bodycam footage.
+
+# MSNBC panel sexually demeans Sen. Graham over abortion bill: 'he's never seen a Vagina,' or 'naked woman'
+ - https://www.foxnews.com/media/msnbc-panel-sexually-demeans-sen-graham-abortion-bill-hes-never-seen-vagina-naked-woman
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 19:00:42+00:00
+ - Starred: False
+
+MSNBC guest panelist Judy Gold mocked Sen. Lindsey Graham, R-S.C., over his proposed abortion restrictions, claiming he has never "seen a naked woman."
+
+# Detroit news anchor killed, family wounded in failed murder-suicide
+ - https://www.foxnews.com/us/detroit-news-anchor-killed-family-wounded-failed-murder-suicide
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 18:56:29+00:00
+ - Starred: False
+
+Detroit area news anchor Jim Matthews was found dead Friday after a house guest botched a murder-suicide attempt at his home in Chesterfield Township.
+
+# Mets broadcaster out for remainder of regular season after shoulder injury: ‘Keith is on the injured list’
+ - https://www.foxnews.com/sports/mets-broadcaster-out-remainder-regular-season-after-shoulder-injury-keith-injured-list
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 18:55:18+00:00
+ - Starred: False
+
+New York Mets broadcaster Keith Hernandez will miss the remainder of the regular season after tearing a tendon in his shoulder. He'll undergo surgery Thursday.
+
+# The pact with Putin's been broken
+ - https://www.foxnews.com/world/pact-putins-been-broken
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 18:27:09+00:00
+ - Starred: False
+
+Russian human rights activist details the experience of Russian protestors when they stand up against their government. They must keep quite or face violent punishment when protesting.
+
+# The Speaker’s Lobby: The 'Uber-Woke' Sweepstakes
+ - https://www.foxnews.com/politics/speakers-lobby-uber-woke-sweepstakes
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 18:22:46+00:00
+ - Starred: False
+
+In a Senate Banking Committee hearing, CEOs of the nation's major banks testified about a variety of issues, but it was social policy that stole the show.
+
+# Israel, Lebanon inch closer to resolve maritime dispute as terror group threatens over drilling
+ - https://www.foxnews.com/world/israel-lebanon-inch-closer-resolve-maritime-dispute-terror-group-threatens-drilling
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 18:12:36+00:00
+ - Starred: False
+
+Talks between Israel and Lebanon on a prized swath of Mediterranean Sea appear to be making progress as the Biden administration urges the two countries to expedite a resolution.
+
+# NASA's DART mission: What to know about the impact
+ - https://www.foxnews.com/science/nasas-dart-mission-what-know-about-impact
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 18:08:46+00:00
+ - Starred: False
+
+NASA will use its DART spacecraft to impact the faraway asteroid Dimorphos on Monday. The moonlet is nearly 7 million miles away from Earth and orbits Didymos.
+
+# Florida Democrat calls for bipartisan immigration solutions, says neither party formed real solutions
+ - https://www.foxnews.com/media/florida-democrat-bipartisan-immigration-solutions-neither-party-formed-real-solutions
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 18:02:28+00:00
+ - Starred: False
+
+State Senator Jason Pizzo, D-Fla., joins 'Cavuto Live' to discuss the immigration crisis and argues solutions should be a bipartisan goal.
+
+# Hawaii fisherman catches huge octopus, breaks his own brother's record: report
+ - https://www.foxnews.com/great-outdoors/hawaii-fisherman-catches-huge-octopus-breaks-brothers-record-report
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 17:53:56+00:00
+ - Starred: False
+
+Fisherman Michael Matsunaga reportedly caught a 25.29 pound octopus while he was fishing on Aug. 31. His catch breaks the state record which Matsunaga’s brother previously held.
+
+# MSNBC guest: If people of color don’t vote Dem, they ‘may not have opportunity’ to vote freely again
+ - https://www.foxnews.com/media/msnbc-guest-people-color-dont-vote-dem-they-may-not-have-opportunity-vote-freely-again
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 17:42:26+00:00
+ - Starred: False
+
+On MSNBC's "The Cross Connection," Democratic pollster Fernand Amandi claimed that people of color may never get a free election again if the GOP wins in November.
+
+# Creamy cucumber tzatziki salad: Try the recipe
+ - https://www.foxnews.com/lifestyle/creamy-cucumber-tzatziki-salad-try-recipe
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 17:36:21+00:00
+ - Starred: False
+
+Look no further for a new Greek salad — this creamy cucumber tzatziki salad is a great side dish for meats. Try this recipe using fresh ingredients.
+
+# Russia targets dams as Ukrainian troops push south
+ - https://www.foxnews.com/world/russia-targets-dams-ukrainian-troops-push-south
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 17:33:13+00:00
+ - Starred: False
+
+U.K. defense ministry said Russian forces are attacking dams to try and slow Ukraine's advancement south out of Kharkiv by flooding cross points.
+
+# Debbie Collier murder: Threatening note against family revealed: report
+ - https://www.foxnews.com/us/debbie-collier-murder-threatening-note-against-family-revealed-report
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 17:24:42+00:00
+ - Starred: False
+
+Andrew Giegerich, Debbie Collier's daughter's boyfriend, reportedly threatened violence against his girlfriend's family in a note last year. Collier was recently found dead.
+
+# Bills' Micah Hyde to miss rest of NFL season with neck injury, placed on IR: report
+ - https://www.foxnews.com/sports/bills-micah-hyde-to-miss-rest-nfl-season-neck-injury-placed-on-ir
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 17:12:09+00:00
+ - Starred: False
+
+Buffalo Bills safety Micah Hyde was placed on IR Saturday and will miss the rest of the season with a neck injury. He's expected to be ready for the 2023 season.
+
+# Protestors clash with Revolutionary Guard in northern Iran, torch IRGC base: reports
+ - https://www.foxnews.com/world/protestors-clash-revolutionary-guard-northern-iran-torch-irgc-base-reports
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 16:32:30+00:00
+ - Starred: False
+
+Protestors clashed with Iran's Revolutionary Guard in northern Iran allegedly setting one military base ablaze before taking over parts of a town.
+
+# Albert Pujols on 700th home run baseball: ‘Souvenirs are for the fans’
+ - https://www.foxnews.com/sports/albert-pujols-on-700th-home-run-baseball-souvenirs-are-for-the-fans
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 15:55:43+00:00
+ - Starred: False
+
+St. Louis Cardinals slugger Albert Pujols said that he didn't have a problem if the fan who caught his 700th home run wanted to keep it.
+
+# Cow-cuddling as stress relief: It's 'naturally relaxing,' says an animal sanctuary
+ - https://www.foxnews.com/lifestyle/cow-cuddling-stress-relief-naturally-relaxing-animal-sanctuary
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 15:50:28+00:00
+ - Starred: False
+
+On "Fox & Friends Weekend" on Sat., Sept. 24, 2022, the benefits of cow cuddling were explained, thanks to the Rose Bridge Farm & Sanctuary in Dresher, Pennsylvania.
+
+# New bill pushes to make Iran sanctions permanent amid White House JCPOA
+ - https://www.foxnews.com/world/new-bill-pushes-make-iran-sanctions-permanent-amid-white-house-jcpoa
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 15:27:58+00:00
+ - Starred: False
+
+Newly proposed bipartisan legislation introduced Thursday aims to prevent Iran from developing nuclear weapons. It's being called the Solidify Iran Sanctions Act.
+
+# Elijah McClain's death attributed to ketamine administrated by paramedics
+ - https://www.foxnews.com/us/elijah-mcclains-death-attributed-ketamine-administrated-paramedics
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 15:18:24+00:00
+ - Starred: False
+
+Elijah McClain, a black man whose death in police custody sparked widespread protests, died of a ketamine overdose administered by paramedics, according to an official report.
+
+# Churro waffles for breakfast: Try the recipe
+ - https://www.foxnews.com/lifestyle/churro-waffles-breakfast-try-recipe
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 15:09:57+00:00
+ - Starred: False
+
+Put a twist on your usual waffle recipe and add a churro topping. This sweet breakfast dish makes 12 servings and can be enjoyed as a dessert dish - just add ice cream.
+
+# Breath training may help reduce blood pressure by serving as a 'dumbbell for the diaphragm': New study
+ - https://www.foxnews.com/health/breath-training-may-help-reduce-blood-pressure-serving-dumbbell-diaphragm-new-study
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 15:01:23+00:00
+ - Starred: False
+
+A study in the Journal of Applied Physiology found that a daily dose for six week of high-resistance inspiratory muscle strength training can reduce blood pressure; here's what it means for health.
+
+# Albert Pujols emotional after hitting home run No. 700: ‘It's pretty special’
+ - https://www.foxnews.com/sports/cardinals-albert-pujols-emotional-after-hitting-home-run-no-700-its-pretty-special
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 14:50:34+00:00
+ - Starred: False
+
+St. Louis Cardinals slugger Albert Pujols hit home runs 699 and 700 of his career Friday, becoming just the fourth player in Major League Baseball history to reach 700.
+
+# Teachers’ unions work ‘hand in hand’ with Democrats to push ‘insane’ ideology on kids: Karol Markowicz
+ - https://www.foxnews.com/media/teachers-unions-work-democrats-push-insane-ideology-kids-karol-markowicz
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 14:50:13+00:00
+ - Starred: False
+
+New York Post columnist Karol Markowicz says the Republican Party has been handed a "layup" to run on school issues ahead of the November midterm elections.
+
+# Fiona becomes post-tropical cyclone as tropical storms force advisories
+ - https://www.foxnews.com/us/fiona-becomes-post-tropical-cyclone-tropical-storms-force-advisories
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 14:39:37+00:00
+ - Starred: False
+
+Hurricane Fiona become a post-tropical cyclone as it impacted Atlantic Canada. This comes as Tropical Storm Ian is expected to bring flooding to Jamaica and Cuba.
+
+# MSNBC column helps Stacey Abrams deny unborn baby’s heartbeat: Notion of fetal pulse ‘dangerous and ludicrous’
+ - https://www.foxnews.com/media/msnbc-column-helps-stacey-abrams-deny-unborn-babys-heartbeat-notion-fetal-pulse-dangerous-ludicrous
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 14:30:13+00:00
+ - Starred: False
+
+MSNBC opinion columnist Dr. Esther Choo defended Stacey Abrams' claim that there's "no such thing" as a fetal heartbeat at six weeks, calling it a "social construct."
+
+# Border Patrol agents rescue 13 illegal immigrants locked in U-Haul truck without oxygen
+ - https://www.foxnews.com/politics/border-patrol-agents-rescue-13-illegal-immigrants-locked-u-haul-truck-without-oxygen
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 14:04:41+00:00
+ - Starred: False
+
+Border Patrol agents in El Paso, Texas, rescued more than a dozen migrants who were locked in a U-Haul truck without oxygen, officials announced Friday.
+
+# Finland shuts borders with Russia as conscription age men flee Putin order
+ - https://www.foxnews.com/world/finland-shuts-borders-russia-conscription-age-men-flee-putin-order
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 14:03:14+00:00
+ - Starred: False
+
+Finland became the latest European nation to close its borders to Russia's as thousands attempt to flee following Putin's order to send more conscripts to Ukraine.
+
+# Debbie Collier murder: Daughter who received $2.3K Venmo before mom's murder has criminal history
+ - https://www.foxnews.com/us/debbie-collier-murder-daughter-received-2-3k-venmo-moms-murder-criminal-history
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 14:02:40+00:00
+ - Starred: False
+
+Amanda Bearden, the 36-year-old daughter of slain Georgia office manager Debbie Collier, has a history of domestic violence and other cases dating back to 2008.
+
+# Buttigieg’s 2022 mission in New Hampshire that could potentially pay dividends in 2024
+ - https://www.foxnews.com/politics/buttigiegs-2022-mission-new-hampshire-potentially-pay-dividends-2024
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 14:00:46+00:00
+ - Starred: False
+
+Transportation Secretary Pete Buttigieg returns to the key general election battleground state of New Hampshire on Saturday, to headline a major state Democratic Party fundraising gala
+
+# Pope Francis names new Vatican prosecutor after predecessor's retirement
+ - https://www.foxnews.com/world/pope-francis-names-new-vatican-prosecutor-predecessors-retirement
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 13:39:12+00:00
+ - Starred: False
+
+Pope Francis has accepted the resignation of Gian Pero Milano, the chief prosecutor of Vatican City, after nearly a decade of service to the Holy See.
+
+# New York judge rules COVID vaccine mandate for NYPD union members invalid
+ - https://www.foxnews.com/health/new-york-judge-rules-covid-vaccine-mandate-nypd-union-members-invalid
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 13:33:30+00:00
+ - Starred: False
+
+A New York judge ruled that the city mandate requiring NYPD members to be vaccinated against COVID-19 is invalid as applied to members of the police union.
+
+# US border needs 'record' funding for 'advanced' protection: National Security spokesman
+ - https://www.foxnews.com/world/us-border-needs-record-funding-advanced-protection-national-security-spokesman
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 13:25:10+00:00
+ - Starred: False
+
+NSC Strategic Communications Coordinator John Kirby echoed State Secretary Blinken's assessment that disagreement over the Iran nuclear deal has increased in recent weeks.
+
+# Florida deputy rescues dog thrown off bridge in plastic container
+ - https://www.foxnews.com/us/florida-deputy-rescues-dog-thrown-off-bridge-plastic-container
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 13:00:13+00:00
+ - Starred: False
+
+A dog thrown off a bridge in a plastic tote was rescued by a Florida deputy and has found a forever home. The dog was found unharmed, curled up in the container.
+
+# Deadly protests in Iran continue for a 9th day: ‘Death to the dictator’
+ - https://www.foxnews.com/world/deadly-protests-iran-continue-9th-day-death-dictator
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 12:40:02+00:00
+ - Starred: False
+
+Violent protests in Iran continued for a ninth day Saturday across Iran in response to the death of Mahsa Amini who died in police custody following reports of beatings and torture.
+
+# China using civilian ships to extend military reach, ability: experts
+ - https://www.foxnews.com/world/china-using-civilian-ships-extend-military-reach-ability-experts
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 12:33:12+00:00
+ - Starred: False
+
+Experts say that China is using civilian ships to enhance its military capability and back up territorial claims. China's navy is the world's largest by ship count.
+
+# Magazine industry in midst of ‘death spiral’ over evolving consumer habits, influx of woke politics: experts
+ - https://www.foxnews.com/media/magazine-industry-midst-death-spiral-over-evolving-consumer-habits-influx-woke-politics-experts
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 12:30:51+00:00
+ - Starred: False
+
+Magazines are in rough shape, according to watchdogs, who feel an influx of liberal politics and changing habits have resulted in the downfall of the industry.
+
+# Hells Angels funeral for Sonny Barger expected to draw thousands as sheriff warns of possible violence
+ - https://www.foxnews.com/us/hells-angels-funeral-sonny-barger-expected-draw-thousands-sheriff-warns-possible-violence
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 12:26:05+00:00
+ - Starred: False
+
+Local law enforcement is warning about the possibility of violence at the Saturday funeral of Hells Angels founder Sonny Barger at the 99 Speedway in California.
+
+# Military suicides undermine Army's ability to solve readiness crisis
+ - https://www.foxnews.com/opinion/military-suicides-undermine-army-ability-solve-readiness-crisis
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 12:00:16+00:00
+ - Starred: False
+
+High military suicide rate a major factor undermining Army's ability to solve readiness crisis. Warrior Call initiative is one key way to address problem.
+
+# Ukraine strips diplomatic ties with Iran over 'evil' drone supplies to Russia war effort
+ - https://www.foxnews.com/world/ukraine-strips-diplomatic-ties-iran-evil-drone-supplies-russia-war-effort
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 11:48:47+00:00
+ - Starred: False
+
+Ukraine stripped Iran of its ambassador accreditation after at least eight Iranian drones have been struck down during the war with Russia.
+
+# Why House Republicans' 'Commitment to America' is a big deal
+ - https://www.foxnews.com/opinion/why-house-republicans-commitment-to-america-big-deal
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 11:00:38+00:00
+ - Starred: False
+
+House Republicans, led by Minority Leader Kevin McCarthy unveiled the 'Commitment to America' on Friday. It has four main pillars that are critical.
+
+# Prince William ‘simply can’t forgive’ Prince Harry for his behavior following royal exit, author claims
+ - https://www.foxnews.com/entertainment/prince-william-simply-cant-forgive-prince-harry-behavior
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 11:00:07+00:00
+ - Starred: False
+
+Vanity Fair's royal correspondent Katie Nicholl alleged that the Prince of Wales was hoping that his younger brother, the Duke of Sussex, would be "his wingman."
+
+# Philadelphia police release disturbing surveillance footage in murder of Temple University grad
+ - https://www.foxnews.com/us/philadelphia-police-release-surveillance-footage-murder-temple-university-grad
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 10:21:42+00:00
+ - Starred: False
+
+A $20k reward is available for information leading to the arrest and conviction of the person responsible for killing 23-year-old Everett Beauregard in west Philadelphia Sept. 22, 2022.
+
+# Video shows train hit Colorado officer’s car with suspect inside
+ - https://www.foxnews.com/us/video-shows-train-hit-colorado-officers-car-suspect-inside
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 10:05:09+00:00
+ - Starred: False
+
+The body cam footage that caught the moment a train collided with a police patrol vehicle parked on its railroad tracks has been released amid an investigation.
+
+# College football Week 4 preview: Florida heads to Knoxville, Wisconsin visits Ohio State at the ‘Shoe’
+ - https://www.foxnews.com/sports/college-football-week-4-preview-florida-heads-knoxville-wisconsin-visits-ohio-state-shoe
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 10:00:29+00:00
+ - Starred: False
+
+Week 4 of the college football season has three games between top 25 ranked teams, highlighted by No. 11 Tennessee vs No. 20 Florida at 3:30 p.m. ET.
+
+# Nikki Haley returns to New Hampshire to give the new GOP Senate nominee a boost
+ - https://www.foxnews.com/politics/nikki-haley-returns-new-hampshire-give-new-gop-senate-nominee-boost
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 10:00:25+00:00
+ - Starred: False
+
+Former South Carolina Gov. Nikki Haley, who served as ambassador to the U.N. during the Trump administration, teams up with GOP Senate nominee Don Bolduc of New Hampshire
+
+# Retriever mix in California rescued after leg injury is looking for a forever home
+ - https://www.foxnews.com/lifestyle/retriever-mix-california-rescued-leg-injury-looking-forever-home
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 10:00:07+00:00
+ - Starred: False
+
+Interested in pet adoption? Finn, a Nova Scotia Duck Tolling-Chesapeake Bay Retriever mix, is up for adoption at Best Friends Animal Society in Los Angeles after he was rescued with a broken leg.
+
+# Buckingham Palace shares new photo of King Charles III at work following queen's death
+ - https://www.foxnews.com/entertainment/buckingham-palace-shares-new-photo-king-charles-iii-work-queens-death
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 09:56:49+00:00
+ - Starred: False
+
+A new photo of King Charles III working in Buckingham Palace three days after Queens' Elizabeth II's death was shared by the palace on Friday.
+
+# FOX Bet Super 6: Terry's $1,000,000 jackpot up for grabs in NFL week 3
+ - https://www.foxnews.com/sports/fox-bet-super-6-terrys-1000000-jackpot-up-grabs-nfl-week-3
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 09:30:49+00:00
+ - Starred: False
+
+NFL fans could win the $1,000,000 jackpot by playing the FOX Bet Super 6 NFL Sunday Challenge in the FOX Bet app before week 3 kicks off on Sunday.
+
+# Despite not landing Donovan Mitchell, Knicks president 'thrilled with where we are'
+ - https://www.foxnews.com/sports/despite-not-landing-donovan-mitchell-knicks-president-thrilled-with-where-we-are
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 09:26:25+00:00
+ - Starred: False
+
+The New York Knicks were the 11th seed in the Eastern Conference, and although they missed out on Donovan Mitchell, Leon Rose feels they're in a good place.
+
+# Houston police arrest 2nd suspect in armed robbery case, fatal shooting of potential witness
+ - https://www.foxnews.com/us/houston-police-arrest-2nd-suspect-armed-robbery-case-fatal-shooting-potential-witness
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 09:18:25+00:00
+ - Starred: False
+
+Houston Police Department officers arrested Jorge Antonio Cruz, a second suspect wanted in connection with the fatal shooting of Jordan Capuchino. One other suspect has been arrested.
+
+# North Carolina man wins $1M lottery prize on $10 scratch-off ticket: 'Felt an urge'
+ - https://www.foxnews.com/us/north-carolina-man-wins-1-million-10-dollar-scratch-off-ticket
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 08:10:43+00:00
+ - Starred: False
+
+New North Carolina resident Jeremy Hartzell hit it big in the Tar Heel state after winning a $1 million lottery prize on a $10 scratch-off ticket within a week of moving to Asheville.
+
+# US aircraft carrier arrives in South Korea to send message to North Korea
+ - https://www.foxnews.com/world/us-aircraft-carrier-arrives-south-korea-send-message-north-korea
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 08:02:37+00:00
+ - Starred: False
+
+A U.S. aircraft carrier has arrived in South Korea to deter North Korea and boost regional security. The North has conducted a record number of missile tests this year.
+
+# Oscar-winning Louise Fletcher dead at 88
+ - https://www.foxnews.com/entertainment/oscar-winning-louise-fletcher-dead-88
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 07:35:06+00:00
+ - Starred: False
+
+The Academy Award-winning Louise Fletcher passed away in her home in Montdurausse, France, surrounded by her family, a representative said.
+
+# Texas: SWAT, tactical teams respond to Harris County home where man barricaded himself after fatal shooting
+ - https://www.foxnews.com/us/texas-swat-tactical-teams-respond-harris-county-home-where-man-barricaded-himself-after-fatal-shooting
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 07:27:09+00:00
+ - Starred: False
+
+SWAT team members gathered outside of a residence in Harris County Friday, where a suspect barricaded himself after being suspected of fatally shooting at least one person.
+
+# Coast Guard rescues two people from boat beginning to sink off Florida coast
+ - https://www.foxnews.com/us/coast-guard-rescues-two-people-onboard-sinking-boat-off-florida-coast
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 07:12:36+00:00
+ - Starred: False
+
+The U.S. Coast Guard rescued two people from a boat beginning to sink off the Florida coast on Thursday. The stranded boat was approximately 14 miles west of Casey Key, Florida.
+
+# FOX Bet Super 6: Win $25,000 jackpot in college football week 4 contest
+ - https://www.foxnews.com/sports/fox-bet-super-6-win-25000-jackpot-college-football-week-4-contest
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 06:11:57+00:00
+ - Starred: False
+
+The FOX Bet Super 6 is a free-to-play contest where college football fans have a chance at winning the jackpot after predicting the winners and margins of victory.
+
+# Meet the American who popularized Chinese food in the US: immigrant chef Joyce Chen
+ - https://www.foxnews.com/lifestyle/meet-american-popularized-chinese-food-us-immigrant-chef-joyce-chen
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 06:00:59+00:00
+ - Starred: False
+
+Joyce Chen escaped from Beijing in 1949 ahead of the communist takeover of China. She carved out an unexpected career in the United States by popularizing Chinese food.
+
+# Houston Crime Stoppers ends annual reading of murder victim names: 'Can't do that anymore...would take hours'
+ - https://www.foxnews.com/us/houston-crime-stoppers-ends-annual-reading-murder-victim-names
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 06:00:53+00:00
+ - Starred: False
+
+Loved ones of murder victims and advocates will gather in Houston Sunday to remember and honor those who have been impacted by violent crime in Harris County, Texas.
+
+# COVID-19 drove parents to home-school their kids, but classroom politicization kept them there, Texas mom says
+ - https://www.foxnews.com/us/covid-19-drove-parents-home-school-kids-classroom-politicization-kept-texas-mom-says
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 06:00:23+00:00
+ - Starred: False
+
+A Texas mother moved her children from public school to home-school to keep her children away from gender identity discussions and to avoid political bias.
+
+# Air Force brass has little to say on woke initiatives despite backlash
+ - https://www.foxnews.com/politics/air-force-brass-say-little-woke-initiatives-backlash
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 06:00:18+00:00
+ - Starred: False
+
+U.S. Air Force leaders refused to respond to a request for comment Friday when Fox News Digital asked about the military branch's woke initiatives at its academy.
+
+# Virginia Gov. Youngkin says 'silent thief' of inflation, worsening border crisis at the top of voters' minds
+ - https://www.foxnews.com/politics/virginia-gov-youngkin-silent-thief-inflation-worsening-border-crisis-top-voters-minds
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 05:50:24+00:00
+ - Starred: False
+
+Virginia Gov. Glenn Youngkin told Fox News Digital that inflation, education, and the border crisis are at the top of voters' minds ahead of the midterm elections.
+
+# Los Angeles County drops mask mandate for public transit
+ - https://www.foxnews.com/us/los-angeles-county-drops-mask-mandate-public-transit
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 05:31:10+00:00
+ - Starred: False
+
+Los Angeles County on Friday drooped its mask mandate for public transit as the county now falls under the federal government's "low" COVID activity level.
+
+# What priorities are behind the GOP's 'Commitment to America' plan: Kevin McCarthy
+ - https://www.foxnews.com/media/priorities-behind-gop-commitment-america-plan-kevin-mccarthy
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 04:53:40+00:00
+ - Starred: False
+
+House minority leader Rep. Kevin McCarthy unveiled the contents of the "Commitment to America" plan ahead of the upcoming midterm elections on "Hannity."
+
+# Hillary Clinton compares Trump's Ohio event to a Nazi rally
+ - https://www.foxnews.com/politics/hillary-clinton-compares-trumps-ohio-event-nazi-rally
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 04:22:41+00:00
+ - Starred: False
+
+During a discussion at the Texas Tribune Festival in Austin, Hillary Clinton compared former President Donald Trump's event in Ohio last weekend to a Nazi rally.
+
+# GREG GUTFELD: Hispanics support migrant flights to sanctuary cities
+ - https://www.foxnews.com/opinion/greg-gutfeld-hispanics-support-migrant-flights-sanctuary-cities
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 04:22:10+00:00
+ - Starred: False
+
+Greg Gutfeld reacts to a poll conducted by Politico showing most Hispanics actually "liked" GOP governors "transporting of illegal aliens" to sanctuary cities on "Gutfeld!"
+
+# Cancel culture victim Sharon Osbourne raises alarm for worse-off victims who can't 'take care' of themselves
+ - https://www.foxnews.com/media/cancel-culture-victim-sharon-osbourne-alarm-victims-take-care
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 04:00:49+00:00
+ - Starred: False
+
+Fox Nation host Sharon Osbourne recalled how she was dismissed from a talk show job and weighed in on cancel culture on Friday on "Tucker Carlson Tonight."
+
+# Tyrus: Big companies aren't scared of the 'wokes' anymore
+ - https://www.foxnews.com/media/tyrus-big-companies-arent-scared-wokes
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 03:57:36+00:00
+ - Starred: False
+
+Tyrus discussed with Greg Gutfeld and guests how the woke pressure you into questions and how big companies are no longer scared to answer on "Gutfeld!"
+
+# Trump blasts media outlets for ignoring Cayler Ellingson killing in North Dakota
+ - https://www.foxnews.com/politics/trump-blasts-media-outlets-ignoring-cayler-ellingson-killing-north-dakota
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 03:36:31+00:00
+ - Starred: False
+
+Donald Trump said it was a 'disgrace' media outlets have ignored the killing of Cayler Ellingson in North Dakota, which appears to have been politically motivated.
+
+# Albert Pujols hits 700th home run, becoming fourth player in MLB history to reach feat
+ - https://www.foxnews.com/sports/albert-pujols-hits-700th-home-run-becoming-fourth-player-mlb-history-reach-feat
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 03:14:50+00:00
+ - Starred: False
+
+Albert Pujols joined Barry Bonds, Hank Aaron, and Babe Ruth as the only players in MLB history to hit 700 home runs in their careers on Friday.
+
+# Albert Pujols one home run away from hitting 700th of his career
+ - https://www.foxnews.com/sports/albert-pujols-one-home-run-away-hitting-700th-career
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 03:14:50+00:00
+ - Starred: False
+
+Albert Pujols is one home run away from joining Barry Bonds, Hank Aaron, and Babe Ruth as the only players in MLB history to hit 700 home runs.
+
+# Michael Moore predicts a 'landslide' against the GOP 'traitors' in midterms, thanks SCOTUS for abortion ruling
+ - https://www.foxnews.com/media/michael-moore-predicts-landslide-gop-traitors-midterms-thanks-scotus-abortion-ruling
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 03:12:31+00:00
+ - Starred: False
+
+Michael Moore appeared on "Real Time with Bill Maher" and offered a sunny forecast for Democrats ahead of the midterm elections, giving credit to the Supreme Court's abortion ruling.
+
+# American families lose $460 a month under the Biden economy: Kevin Hassett
+ - https://www.foxnews.com/media/american-families-hurting-460-month-biden-economy-kevin-hassett
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 02:57:55+00:00
+ - Starred: False
+
+Former Trump economic adviser Kevin Hassett compared the state of the economies under the Trump administration and Biden administration on "The Ingraham Angle."
+
+# Newt Gingrich touts Kevin McCarthy's leadership unveiling GOP's ‘Commitment to America’ plan
+ - https://www.foxnews.com/media/newt-gingrich-touts-kevin-mccarthys-leadership-unveiling-gop-commitment-america
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 02:50:35+00:00
+ - Starred: False
+
+Former Speaker of the House Newt Gingrich praised Kevin McCarthy's leadership for piecing a GOP 'Commitment to America' plan together on Friday's 'Hannity.'
+
+# LAURA INGRAHAM: Biden and his team of fanatics have crashed this economy
+ - https://www.foxnews.com/media/laura-ingraham-biden-team-fanatics-crashed-economy
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 02:45:53+00:00
+ - Starred: False
+
+Laura Ingraham discusses how President Biden's policies created detrimental and lasting effects on America's economy when he should have kept things on "autopilot" on "The Ingraham Angle."
+
+# Arizona judge lifts injunction on abortion law, AG Brnovich touts win for his office defending life
+ - https://www.foxnews.com/politics/arizona-judge-lifts-injunction-abortion-law-brnovich-touts-win-office-defending-life
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 02:36:02+00:00
+ - Starred: False
+
+An Arizona judge lifted the injunction on enforcing the state's abortion law, giving state Attorney General Mark Brnovich a win he touted as defending life.
+
+# Philadelphia girl grazed by stray bullet to head as dozens of shots ring out near Temple University
+ - https://www.foxnews.com/us/philadelphia-girl-grazed-stray-bullet-head-dozens-shots-ring-temple-university
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 02:30:33+00:00
+ - Starred: False
+
+A young Philadelphia girl sustained a graze wound to the head when she was struck by a bullet meant for someone else during a drive-by shooting.
+
+# SEAN HANNITY: This may be the most important and consequential midterm election of our lifetime
+ - https://www.foxnews.com/media/sean-hannity-most-important-consequential-midterm-election-lifetime
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 02:19:23+00:00
+ - Starred: False
+
+Sean Hannity discusses why the upcoming elections are so important for America and why Republicans need to gain the majority on "Hannity."
+
+# Pierce Brosnan not sure who the next bond will but says 'whoever he be, I wish him well'
+ - https://www.foxnews.com/entertainment/pierce-brosnan-weighs-who-he-thinks-will-be-the-next-james-bond
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 02:09:02+00:00
+ - Starred: False
+
+Pierce Brosnan, former "James Bond" star, let fans know he doesn't know who the next James Bond will be after Daniel Craig announced he is done playing the iconic spy.
+
+# Alabama police remove massive gray rat snake from family's toilet
+ - https://www.foxnews.com/us/alabama-police-remove-massive-gray-rat-snake-familys-toilet
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 02:06:57+00:00
+ - Starred: False
+
+Officers in Eufaula, Alabama were called to a home after a scary surprise was found inside a family's toilet.
+
+# TUCKER CARLSON: Joe Biden is senile, but the Democratic Party is devolving
+ - https://www.foxnews.com/opinion/tucker-carlson-joe-biden-senile-democratic-party-devolving
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 02:03:18+00:00
+ - Starred: False
+
+Fox News host Tucker Carlson roasts the blunders of President Joe Biden, Vice President Kamala Harris, Rep. Alexandria Ocasio-Cortez and John Fetterman.
+
+# Taylor Swift turned down Super Bowl halftime offer: report
+ - https://www.foxnews.com/entertainment/taylor-swift-turned-down-super-bowl-halftime-offer-report
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 02:02:39+00:00
+ - Starred: False
+
+Taylor Swift reportedly turned down the offer from the NFL to perform during the 2023 Super Bowl halftime show. The pop star reportedly wants to finish rerecording her first six albums.
+
+# Houston man arrested for 'bank jugging,' robbery as authorities warn of new crime trend
+ - https://www.foxnews.com/us/houston-man-arrested-bank-jugging-robbery-authorities-warn-new-crime-trend
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 02:01:38+00:00
+ - Starred: False
+
+A Houston-area man was arrested this week over "bank jugging," by where thieves target victims observed in banks, authorities said.
+
+# Monica Crowley: Isn't it a delicious twist in this entire story?
+ - https://www.foxnews.com/media/monica-crowley-delicious-twist-entire-story
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 01:49:49+00:00
+ - Starred: False
+
+Monica Crowley discusses how there is a double standard with Democrats regarding migrants deported from Martha's Vineyard on "Jesse Watters Primetime."
+
+# 49ers set to get a big offensive boost on Sunday
+ - https://www.foxnews.com/sports/49ers-set-to-get-a-big-offensive-boost-on-sunday
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 01:46:36+00:00
+ - Starred: False
+
+The San Francisco 49ers will get a big offensive boost when tight end George Kittle makes his season debut Sunday night in Denver against the Broncos.
+
+# North Dakota high school holds moment of silence for slain Cayler Ellingson during homecoming football game
+ - https://www.foxnews.com/us/north-dakota-high-school-holds-moment-silence-slain-cayler-ellingson-during-homecoming-football-game
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 01:29:02+00:00
+ - Starred: False
+
+Cayler Ellingson's former high school held a moment of silence during its homecoming football game on Friday following his death less than one week ago.
+
+# Harold Ford Jr.: Everyone is entitled to their views and we certainly don't have to engage in violence
+ - https://www.foxnews.com/media/harold-ford-jr-everyone-entitled-views-dont-engage-violence
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 01:18:52+00:00
+ - Starred: False
+
+Harold Ford Jr. discusses with "The Five" the danger of political rhetoric and the latest details on the teen that was murdered in North Dakota.
+
+# Rep. Gregory Meeks warns there will be 'severe consequences' if Russia uses a nuclear weapon
+ - https://www.foxnews.com/media/rep-gregory-meeks-warns-severe-consequences-russia-nuclear-weapon
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 01:16:08+00:00
+ - Starred: False
+
+Rep. Gregory Meeks, D-N.Y., weighed in on Russian president Vladimir Putin's nuclear threat and stalled Iran nuclear talks on 'Special Report.'
+
+# Do solar panels always save on energy bills?
+ - https://www.foxnews.com/media/solar-panels-save-energy-bills
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 01:15:19+00:00
+ - Starred: False
+
+Energy consumer Curtis Jarvis detailed the financial costs behind owning solar panels to provide him green energy Friday on "Jesse Watters Primetime."
+
+# Roger Federer loses final match paired up with Rafael Nadal
+ - https://www.foxnews.com/sports/roger-federer-loses-final-match-paired-up-rafael-nadal
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 01:14:33+00:00
+ - Starred: False
+
+Roger Federer played in his final match Friday night, ending his career paired in a doubles match with Rafael Nadal. They lost, but it was still a celebration.
+
+# Roger Federer loses finals match paired up with Rafael Nadal
+ - https://www.foxnews.com/sports/roger-federer-loses-finals-match-paired-up-rafael-nadal
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 01:14:33+00:00
+ - Starred: False
+
+Roger Federer played in his final match Friday night, ending his career paired in a doubles match with Rafael Nadal. They lost, but it was still a celebration.
+
+# Taiwan official warns China, 'We will never surrender our freedom'
+ - https://www.foxnews.com/world/taiwan-official-warns-china-we-will-never-surrender-our-freedom
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 00:55:12+00:00
+ - Starred: True
+
+Taiwan's Counsel General James J.K. Lee rallies the world to help Taiwan amid growing threats from China. Taiwan continues to face daily threats from Beijing.
+
+# Michigan State Police dashcam captures deer leaping over car
+ - https://www.foxnews.com/us/michigan-state-police-dashcam-captures-deer-leaping-over-car
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 00:52:28+00:00
+ - Starred: False
+
+Michigan State Police posted a shocking video of a deer leaping over a small car the agency used the opportunity to refresh the community on how to avoid deer safely in a car.
+
+# National Dog Week 2022: 7 fun facts by the numbers
+ - https://www.foxnews.com/lifestyle/national-dog-week-7-fun-facts-numbers
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 00:38:45+00:00
+ - Starred: False
+
+National Dog Week is observed in September. For 2022, here are seven facts about the canine observance week, which is celebrated from Sept. 20 to Sept. 27.
+
+# Phoenix police arrest two in 'largest' fentanyl seizure in department history
+ - https://www.foxnews.com/us/phoenix-police-arrest-two-largest-fentanyl-seizure-department-history
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 00:32:11+00:00
+ - Starred: False
+
+A huge fentanyl bust led to the largest seizure in Phoenix Police Department history after one million fentanyl pills were confiscated, authorities said.
+
+# Elton John set to play at White House as part of farewell tour
+ - https://www.foxnews.com/entertainment/elton-john-set-play-white-house-part-farewell-tour
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 00:25:17+00:00
+ - Starred: False
+
+Elton John is set to perform at the White House on Friday night as part of his farewell tour. John last performed at the White House in 1998.
+
+# Jesse Watters: Martha's Vineyard has never been more mobilized than when it kicked out its new neighbors
+ - https://www.foxnews.com/media/jesse-watters-marthas-vineyard-never-more-mobilized-kicked-out-new-neighbors
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 00:20:37+00:00
+ - Starred: False
+
+Fox News host Jesse Watters calls out Democrats for their treatment of illegal migrants who were sent to Martha's Vineyard on "Jesse Watters Primetime."
+
+# Hillary Clinton calls Trump's handling of documents 'deeply disturbing,' says she never had classified info
+ - https://www.foxnews.com/politics/hillary-clinton-calls-trumps-handling-documents-deeply-disturbing-says-never-had-classified-info
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-24 00:03:59+00:00
+ - Starred: False
+
+Hillary Clinton called Donald Trump's handling of documents "deeply disturbing" on Friday while denying that she ever had classified info on a private server.
