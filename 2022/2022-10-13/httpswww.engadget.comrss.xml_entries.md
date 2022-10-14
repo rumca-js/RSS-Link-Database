@@ -1,0 +1,175 @@
+# Google will soon test Project Starline video chat booths in the real world
+ - https://www.engadget.com/google-project-starline-video-chat-booth-testing-205302875.html?src=rss
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2022-10-13 20:53:02+00:00
+ - Starred: False
+
+<p>Google's <a href="https://www.engadget.com/google-project-starline-191228699.html">elaborate video chat booths</a> will soon exist as more than just a clever design exercise. <em>Ars Technica</em><a href="https://arstechnica.com/gadgets/2022/10/google-is-serious-about-its-giant-video-chat-booths-starts-real-world-testing/">reports</a> the company will start installing Project Starline prototypes in some of its corporate partners' offices for &quot;regular&quot; tests later this year. In other
+
+# Twitter is testing a way for users to limit their mentions
+ - https://www.engadget.com/twitter-mention-control-test-privacy-203010418.html?src=rss
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2022-10-13 20:30:10+00:00
+ - Starred: False
+
+<p>One of the great things about Twitter is that you can reach out to any public user with a quick @<em>&nbsp;</em>mention to their username. One of the worst things about Twitter is that it's all too easy to abuse that feature. But it turns out, the bird network may be working on a way to control those mentions. According to privacy researcher and engineer <a href="https://twitter.com/wongmjane/status/1580630339889745920">Jane Manchun Wong</a>, the company is testing out the ability to block @ 
+
+# Samsung's One UI 5 update is largely about personalization
+ - https://www.engadget.com/samsung-one-ui-5-release-date-personalization-security-privacy-200044860.html?src=rss
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2022-10-13 20:00:44+00:00
+ - Starred: False
+
+<p><a href="https://www.engadget.com/tag/samsung/"><ins>Samsung</ins></a> has revealed more details about <a href="https://www.engadget.com/samsung-previews-one-ui-5-beta-on-galaxy-s-22-smartphones-035413491.html">One UI 5,</a> the updated user interface it will begin rolling out to devices later this month. <a href="https://www.engadget.com/samsung-galaxy-s22-ultra-review-s-pen-camera-samples-battery-life-160019240.html">Galaxy S22-series</a> devices will be the first to get the update. The com
+
+# FAA says Apple AirTags are allowed in checked baggage
+ - https://www.engadget.com/faa-apple-airtags-allowed-in-checked-baggage-181915494.html?src=rss
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2022-10-13 18:19:15+00:00
+ - Starred: False
+
+<p>Don't worry that you might not be allowed to slip an <a href="https://www.engadget.com/apple-airtags-trackers-first-look-hands-on-130036848.html">Apple AirTag</a> into your luggage for your next flight. As <em>The Points Guy</em> notes, the Federal Aviation Administration (FAA) has <a href="https://thepointsguy.com/news/faa-airtags-lufthansa-ban/">stated</a> that AirTags are allowed on checked baggage. Any item tracker whose battery has under 0.3g of lithium is clear to fly. You can track you
+
+# Netflix with ads will be available November 3rd for $7 per month
+ - https://www.engadget.com/netflix-basic-with-ads-price-release-date-174526317.html?src=rss
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2022-10-13 17:45:26+00:00
+ - Starred: False
+
+<p>Netflix's <a href="https://www.engadget.com/netflix-ad-supported-tier-pricing-report-160211150.html">ad-supported tier</a> finally has a release date, and it's now clear just what sacrifices you'll have to make to get a lower price. The new &quot;Basic with Ads&quot; plan will be available November 3rd at 12PM Eastern for $7 per month. It will initially be available to viewers in 12 countries, including the US, UK, Australia, Brazil, Canada, France, Germany, Italy, Japan, Mexico, South Korea 
+
+# Samsung Wallet payments and passes are coming to 13 more countries this year
+ - https://www.engadget.com/samsung-wallet-countries-expansion-170031973.html?src=rss
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2022-10-13 17:00:31+00:00
+ - Starred: False
+
+<p>Samsung's <a href="https://www.engadget.com/samsung-wallet-announced-070019246.html">unified Wallet app</a> will soon be available to many more people. <a href="https://news.samsung.com/global/">The company</a> says it will roll out Wallet to 13 more countries by the end of 2022. Most are in Europe, Scandinavia and western Asia, including Denmark, Finland, Kazakhstan, Norway, Sweden and Switzerland. The functionality will also be available in key parts of the Middle East (Bahrain, Kuwait, Oma
+
+# 'Spider-Man: Miles Morales' is coming to PC on November 18th
+ - https://www.engadget.com/spider-man-miles-morales-pc-release-date-164510766.html?src=rss
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2022-10-13 16:45:10+00:00
+ - Starred: False
+
+<p>You won't have to wait too much longer to play the <em>other</em><a href="https://www.engadget.com/sony-spider-man-game-is-coming-pc-on-august-12-th-remastered-083229575.html">remastered Spider-Man game</a> on your computer. Insomniac and Nixxes have <a href="https://blog.playstation.com/2022/10/13/marvels-spider-man-miles-morales-is-coming-to-pc-on-november-18/">announced</a> that <em>Spider-Man: Miles Morales</em> will be available on PC November 18th through the <a href="https://store.epic
+
+# The best smart light bulbs for 2022
+ - https://www.engadget.com/best-smart-led-light-bulbs-143022856.html?src=rss
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2022-10-13 16:30:22+00:00
+ - Starred: False
+
+<p>One of the best places to start when building a smart home ecosystem is smart light bulbs. Not only are they relatively affordable compared to other IoT gadgets, often costing between $10 and $50 a bulb, but they can also completely change the feel of your home. You can go from boring and analogue to colorful and automated within minutes, and there are endless possibilities when it comes to using smart light bulbs to create funky-colored light scenes, setting schedules and more.</p><p>But lik
+
+# Apple Card users can soon sign up for a 'high-yield' savings account
+ - https://www.engadget.com/apple-card-savings-account-160055471.html?src=rss
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2022-10-13 16:00:55+00:00
+ - Starred: False
+
+<p>Your Apple Card is now more of a full-fledged banking service. Apple has <a href="https://www.apple.com/newsroom/2022/10/apple-card-will-let-users-grow-daily-cash-rewards-while-saving-for-the-future/">introduced</a> a &quot;high-yield&quot; savings account from Goldman Sachs that will soon let you grow your funds. You can have your card's Daily Cash automatically deposited if you like, but you can also transfer money from a linked bank account or your Apple Cash balance. You can withdraw at a
+
+# Signal is winding down plaintext SMS support in its Android app
+ - https://www.engadget.com/signal-android-sms-155002588.html?src=rss
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2022-10-13 15:50:02+00:00
+ - Starred: False
+
+<p><a href="https://www.engadget.com/tag/signal/"><ins>Signal</ins></a> is removing the option to send and receive SMS messages in its Android app. Folks who currently use Signal as their default SMS app will receive alerts advising them to switch to a different one. You'll be able to export your SMS messages and import them into another app (as long as the other one supports that option).</p><p>The change won't happen overnight. &quot;You will have several months to transition away from SMS in 
+
+# Sony's ZV-1F is its most affordable vlogging camera yet
+ - https://www.engadget.com/sony-zv-1f-vlogging-camera-announcement-152737815.html?src=rss
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2022-10-13 15:27:37+00:00
+ - Starred: False
+
+<p>Sony has <a href="https://pressroom.pixelshift.studio/sony-electronics-expands-vlogging-line-up-with-new-zv-1f-camera">unveiled the ZV-1F</a>, its third and most affordable vlogging camera, designed for creators as a &quot;step up&quot; from smartphones. Priced at just $500, it's slotted below the <a href="https://www.engadget.com/sony-zv-1-vlogging-camera-review-162822651.html">$700 ZV-1</a> compact and $750 mirrorless <a href="https://www.engadget.com/sony-expands-its-vlogging-lineup-with-t
+
+# TikTok will offer movie showtimes and ticket options after showing trailers
+ - https://www.engadget.com/tiktok-world-trailers-showtimes-movie-tickets-link-in-bio-143049071.html?src=rss
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2022-10-13 14:30:49+00:00
+ - Starred: False
+
+<p><a href="https://www.engadget.com/tag/tiktok/"><ins>TikTok</ins></a> may soon offer an easy way for you to buy a movie ticket after you see a trailer that catches your attention. It's offering select movie studios access to a tool called Showtimes on TikTok. The studios will be able to show a full trailer, then display details on showtimes and nearby theaters. They'll also be able to add a link to a partner site where you can buy tickets.</p><p>TikTok says 52 percent of users learn about a ne
+
+# Microsoft's HoloLens headsets are giving US Army testers nausea
+ - https://www.engadget.com/microsoft-hololens-fails-us-army-tests-135010970.html?src=rss
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2022-10-13 13:50:10+00:00
+ - Starred: False
+
+<p>Microsoft's <a href="https://www.engadget.com/microsoft-wins-10-year-contract-supplying-ar-tech-to-the-us-army-193910504.html">HoloLens headsets for the US Army</a> have some teething troubles. <a href="https://www.bloomberg.com/news/articles/2022-10-13/microsoft-s-us-army-version-of-hololens-goggles-gave-soldiers-nausea-headaches?sref=10lNAhZ9"><em>Bloomberg</em></a> and <a href="https://www.businessinsider.com/microsoft-hololens-like-army-device-gets-poor-marks-from-soldiers-2022-10"><em>In
+
+# Amazon's first Project Kuiper internet satellites will launch on Vulcan Centaur's maiden flight
+ - https://www.engadget.com/amazon-prototype-project-kuiper-satellites-ula-vulcan-centaur-132457407.html?src=rss
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2022-10-13 13:24:57+00:00
+ - Starred: False
+
+<p>The first two <a href="https://www.engadget.com/amazon-project-kuiper-launch-partners-131048042.html">Project Kuiper satellites</a>, prototypes for Amazon's satellite broadband program, will <a href="https://www.aboutamazon.com/news/innovation-at-amazon/amazons-project-kuiper-satellites-will-fly-on-the-new-vulcan-centaur-rocket-in-early-2023">head to Low Earth Orbit</a> in the first quarter of 2023. Amazon <a href="https://www.aboutamazon.com/news/innovation-at-amazon/project-kuiper-announces
+
+# The best tablets for 2022
+ - https://www.engadget.com/best-tablets-150026056.html?src=rss
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2022-10-13 13:15:18+00:00
+ - Starred: False
+
+<div id="45ae24ed65fd402da29da5249c1115a8"></div><p>Following the release of the <a href="https://www.engadget.com/apple-ipad-air-5th-generation-review-130019050.html">2022 iPad Air</a> and Samsung’s <a href="https://www.engadget.com/samsung-galaxy-tab-s-8-review-in-a-class-of-its-own-132946024.html">Galaxy Tab S8 line</a> earlier this spring, there hasn’t been a ton of movement in the tablet world. At IFA, Lenovo announced refreshed versions of the <a href="https://www.engadget.com/lenovo-ideap
+
+# Sony releases its first over-the-counter hearing aids
+ - https://www.engadget.com/sony-unveils-1000-over-the-counter-hearing-aids-131152865.html?src=rss
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2022-10-13 13:11:52+00:00
+ - Starred: False
+
+<p>Earlier this summer, the US FDA <a href="https://www.engadget.com/fda-final-rule-over-the-counter-hearing-aids-162735934.html">greenlit</a> the sale of over-the-counter (OTC) hearing aids, and now we're seeing some from one of the largest audio companies in the world. Sony has <a href="https://www.prnewswire.com/news-releases/sony-electronics-launches-its-first-over-the-counter-hearing-aids-in-the-us-and-makes-hearing-and-improved-accessibility-options-for-consumers-a-reality-301647538.html">
+
+# Sony and Honda will open pre-orders for their first EV in 2025
+ - https://www.engadget.com/sony-honda-open-pre-order-first-ev-in-2025-115039603.html?src=rss
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2022-10-13 11:50:39+00:00
+ - Starred: False
+
+<p>Sony and Honda have <a href="https://www.sony-honda-mobility.com/en/assets/pdf/news-release_2022-10-13_en.pdf">announced</a> (PDF) that they're planning to start accepting pre-orders for their first electric vehicle model in the first half of 2025. Their joint venture, which they've simply <a href="https://www.engadget.com/sony-and-hondas-independent-ev-business-is-called-sony-honda-mobility-inc-093538621.html">named Sony Honda Mobility Inc.</a> (SHM), is hoping to start deliveries in the Uni
+
+# The Morning After: Our verdict on the Pixel 7 and Pixel 7 Pro
+ - https://www.engadget.com/the-morning-after-our-verdict-on-the-pixel-7-and-pixel-7-pro-111544187.html?src=rss
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2022-10-13 11:15:44+00:00
+ - Starred: False
+
+<p>Yes, we’ve got <a href="https://www.engadget.com/google-pixel-7-and-pixel-7-pro-review-still-the-best-bargain-in-flagship-phones-170031940.html">full reviews</a> of Google’s new flagship phones as well as its first smartwatch. The phones fare better than the wearable, but we are on the seventh generation of Pixel smartphones, so that’s to be expected.</p><p>In addition to new software features and Tensor G2 chip, the Pixel 7 Pro gets a number of extra hardware upgrades compared to the standar
+
+# Microsoft Office will be replaced by Microsoft 365 as part of its ongoing refresh
+ - https://www.engadget.com/microsoft-office-phased-out-replaced-by-microsoft-365-104748463.html?src=rss
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2022-10-13 10:47:48+00:00
+ - Starred: False
+
+<p>Back in 2020, Microsoft <a href="https://www.engadget.com/2020-03-30-microsoft-365-office-365-subscription.html">announced</a> that it would be changing the name of its Office 365 subscription to Microsoft 365, acknowledging that it had become more than just a work app. Now, it's removing most of the remaining Office branding, according to <a href="https://www.microsoft365.com/">new updates</a> spotted by <a href="https://www.theverge.com/2022/10/13/23402155/microsoft-office-microsoft-365-ren
+
+# Microsoft accuses UK regulator of adopting Sony's complaints in Activision probe
+ - https://www.engadget.com/microsoft-accuses-uk-regulator-adopting-sony-complaints-activision-probe-095555967.html?src=rss
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2022-10-13 09:55:55+00:00
+ - Starred: False
+
+<p>Microsoft's <a href="https://www.engadget.com/microsoft-activision-blizzard-acquisition-133637845.html">$68.7 billion purchase of Activision Blizzard</a> will have to gain approval from various regulators around the world before the deal can go through, including the UK's Competition and Markets Authority (CMA). The CMA, which first <a href="https://www.engadget.com/united-kingdom-competition-and-markets-authority-opens-microsoft-activision-blizzard-investigation-155517349.html">announced its
+
+# Two unreleased and 'never digitized' NES games are up for auction on eBay
+ - https://www.engadget.com/nes-games-battlefields-of-napoleon-production-boards-090721687.html?src=rss
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2022-10-13 09:07:21+00:00
+ - Starred: False
+
+<p>Two extremely rare &quot;unreleased, one-of-a-kind, never-digitized&quot; Nintendo NES games have appeared on eBay, according to a <a href="https://twitter.com/frankcifaldi/status/1579941189511708678">tweet</a> from the Video Game History Foundation's Frank Cifaldi, seen by <a href="https://kotaku.com/nes-nintendo-rare-power-glove-prototype-unreleased-1849645642"><em>Kotaku</em></a>. One of those, called <em>Battlefields of Napoleon</em>, was only ever released in Japan. The other is a cartri
+
+# Valve releases redesigned Steam mobile app with QR code login
+ - https://www.engadget.com/valve-releases-redesigned-steam-mobile-app-qr-code-login-052010146.html?src=rss
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2022-10-13 05:20:10+00:00
+ - Starred: False
+
+<p>You can finally say goodbye to your dated and clunky Steam mobile app. Valve has <a href="https://store.steampowered.com/news/app/593110/view/3329873512156647585">rolled out</a> the redesigned version of its Steam mobile app for Android and iOS, which it's been testing since at least August this year. When it was <a href="https://www.engadget.com/valve-tests-redesigned-steam-ios-android-app-173002815.html">looking for beta testers</a> for the application, the game developer said it rebuilt th
