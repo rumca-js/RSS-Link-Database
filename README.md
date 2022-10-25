@@ -9,6 +9,7 @@ Captured using Django application: [https://github.com/rumca-js/Django-rss-feed]
  - RSS links are captured for each source separately
  - two files are created for each source each day: JSON and markdown
  - markdown file is generated as a form of preview, JSON can be reused, imported
+ - 'favorite' indication does not mean something is endorsed, but it shows my particular intrest in topic. It is indication of importance
 
 # Goal
 
