@@ -1,0 +1,52 @@
+http://feeds.arstechnica.com/arstechnica/index/;ArsTechnica;Tech;Tech;None
+http://feeds.bbci.co.uk/news/rss.xml;BBC;News;UK;None
+http://feeds.bbci.co.uk/news/technology/rss.xml;BBC tech;Tech;Tech;None
+http://louderwithcrowder.com/feed/;Louder With Crowder;News;USA;None
+http://rss.cnn.com/rss/cnn_world.rss;CNN World;News;USA;None
+http://rss.cnn.com/rss/edition.rss;CNN;News;USA;None
+http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml;NY times technology;Tech;Tech;None
+http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm;wiadomości.gazeta.pl;News;PL;None
+http://www.pcgamer.com/rss;pcgamer;Tech;Tech;None
+http://www.reddit.com/.rss;Reddit - Front Page;News;News;None
+http://www.reddit.com/r/news/.rss;Reddit - News;News;News;None
+http://www.reddit.com/r/politics/.rss;Reddit - Politics;News;USA;None
+http://www.zdnet.com/news/rss.xml;ZDNET;Tech;Tech;None
+https://cdn.feedcontrol.net/8/1114-wioSIX3uu8MEj.xml;Reuters;News;USA;None
+https://epoznan.pl/rss;E Poznan;News;Lokalne;None
+https://feeds.feedburner.com/TheHackersNews;The Hacker News;Tech;Tech;None
+https://feeds.feedburner.com/niebezpiecznik/;Niebezpiecznik;Tech;Tech;None
+https://feeds.washingtonpost.com/rss/business/technology;The Washington Post - Tech;Tech;Tech;None
+https://gizmodo.com/rss;Gizmodo;Tech;Tech;None
+https://hnrss.org/frontpage;Hacker News - frontpage;Tech;Tech;None
+https://ithardware.pl/feed;IT hardware;Tech;Tech;None
+https://lifehacker.com/rss;Lifehacker;Tech;Tech;None
+https://lukesmith.xyz/rss.xml;Luke Smith;Tech;Tech;None
+https://moxie.foxnews.com/google-publisher/latest.xml;Fox News;News;USA;None
+https://notrelated.xyz/rss;Luke Smith - Not Related;Random;Random;None
+https://rss.nytimes.com/services/xml/rss/nyt/World.xml;NY times;News;USA;None
+https://tvn24.pl/najnowsze.xml;TVN24 Najnowsze;News;PL;None
+https://tvn24.pl/najwazniejsze.xml;TNV24 Najważniejsze;News;PL;None
+https://tvn24.pl/wiadomosci-z-kraju,3.xml;TVN24 Z kraju;News;PL;None
+https://tvn24.pl/wiadomosci-ze-swiata,2.xml;TVN24 Ze świata;News;PL;None
+https://www.androidauthority.com/feed/;Android Authority;Tech;Tech;None
+https://www.bankier.pl/rss/wiadomosci.xml;Bankier;News;PL;None
+https://www.chip.pl/feed;Chip.pl;Tech;Tech;None
+https://www.cnet.com/rss/all/;CNET;Tech;Tech;None
+https://www.codeproject.com/WebServices/NewsRSS.aspx;CodeProject;Tech;Tech;None
+https://www.computerworld.com/index.rss;ComputerWorld;Tech;Tech;None
+https://www.dailymail.co.uk/news/index.rss;Daily Mail;News;UK;None
+https://www.dailywire.com/feeds/rss.xml;Daily Wire;News;USA;None
+https://www.digitaltrends.com/news/rss;Digital Trends;Tech;Tech;None
+https://www.engadget.com/rss.xml;Engadget;Tech;Tech;None
+https://www.forbes.com/innovation/feed2;Forbs - innovation;Tech;Tech;None
+https://www.gamespot.com/feeds/mashup;GameSpot;Tech;Tech;None
+https://www.lemonde.fr/en/rss/une.xml;Le Monde;News;News;None
+https://www.lemonde.fr/en/science/rss_full.xml;Le Monde - science;Science;Science;None
+https://www.pcworld.com/index.rss;PC world;Tech;Tech;None
+https://www.polsatnews.pl/rss/swiat.xml;Polsat News;News;PL;None
+https://www.techradar.com/rss;Techradaar;Tech;Tech;None
+https://www.theverge.com/rss/index.xml;The Verge;News;USA;None
+https://www.wykop.pl/rss/index.xml/;Wykop;Random;PL;None
+https://wydarzenia.interia.pl/feed;Wydarzenia Interia;News;PL;None
+https://wydarzenia.interia.pl/polska/feed;Wydarzenia Interia - Polska;News;PL;None
+https://wydarzenia.interia.pl/swiat/feed;Wydarzenia Interia - Świat;News;PL;None
