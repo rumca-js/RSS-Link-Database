@@ -1,0 +1,23 @@
+# How to Tell If a Detergent is Actually 'Mild' Before You Buy It
+ - https://lifehacker.com/how-to-tell-if-a-detergent-is-actually-mild-before-you-1849629046
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2022-10-08 17:00:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--bhRWmEn0--/c_fit,fl_progressive,q_80,w_636/d8acfc5c187596f6226a4f778223dca1.jpg" /><p>If your online search history is littered with questions on how to clean a variety of surfaces and items, you’ve probably noticed that many of the instructions and tutorials that come up recommend using mild detergent or dish soap. It’s one of those terms that we see so often, but, when pressed, may find it hard to…</p><p><a href="https://lifehacker
+
+# How to Winterize Your Screened-In Porch
+ - https://lifehacker.com/how-to-winterize-your-screened-in-porch-1849629051
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2022-10-08 15:00:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--RtIqJ2n8--/c_fit,fl_progressive,q_80,w_636/df18245ead00e5d1b00e0a455dd463bd.jpg" /><p>In the early days of the pandemic—back when many people were only leaving their homes when it was absolutely necessary—having any type of outdoor space made a big difference, and helped people feel less trapped. But some outdoor spaces are more pleasant than others: Especially ones that are basically extensions of the…</p><p><a href="https://lifehac
+
+# Never Use Baking Soda to Clean These Household Surfaces
+ - https://lifehacker.com/never-use-baking-soda-to-clean-these-household-surfaces-1849629056
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2022-10-08 13:00:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--IN1nhjmf--/c_fit,fl_progressive,q_80,w_636/3f839bd1efcd742b662eb83b10982713.jpg" /><p>When it comes to household chores, few products are as handy and versatile as baking soda. From cooking to cleaning to deodorizing, it does so much for something that costs so little.</p><p><a href="https://lifehacker.com/never-use-baking-soda-to-clean-these-household-surfaces-1849629056">Read more...</a></p>
