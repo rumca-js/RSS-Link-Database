@@ -1,3 +1,276 @@
+## Google profits plummet 27 percent in Q3 2022 earnings report
+ - [https://arstechnica.com/gadgets/2022/10/google-profits-plummet-27-percent-in-q3-2022-earnings-report/](https://arstechnica.com/gadgets/2022/10/google-profits-plummet-27-percent-in-q3-2022-earnings-report/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-10-26 17:37:44+00:00
+ - Starred: True
+
+
+## Tell HN: Meta is using my 2FA to call and sell me
+ - [https://news.ycombinator.com/item?id=33346568](https://news.ycombinator.com/item?id=33346568)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-10-26 17:08:34+00:00
+ - Starred: True
+
+
+## The currency of the new economy won't be money, but attention (1997)
+ - [https://www.wired.com/1997/12/es-attention/](https://www.wired.com/1997/12/es-attention/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-10-26 16:20:46+00:00
+ - Starred: True
+
+
+## Cambridge University draws criticism for 'woke' gender-neutral German curriculum
+ - [https://www.foxnews.com/world/cambridge-university-draws-criticism-woke-gender-neutral-german-curriculum](https://www.foxnews.com/world/cambridge-university-draws-criticism-woke-gender-neutral-german-curriculum)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-10-26 15:38:10+00:00
+ - Starred: True
+
+
+## Telewizory 8K znikną ze sklepowych półek w Europie?
+ - [https://www.chip.pl/2022/10/telewizory-8k-znikna-ze-sklepowych-polek-w-europie](https://www.chip.pl/2022/10/telewizory-8k-znikna-ze-sklepowych-polek-w-europie)
+ - RSS feed: https://www.chip.pl/feed
+ - date published: 2022-10-26 15:30:00+00:00
+ - Starred: True
+
+
+## 71% Polaków ocenia życie w kraju jako szkodliwe a 8 mln choruje psychicznie
+ - [https://www.wykop.pl/link/6876599/71-polakow-ocenia-zycie-w-kraju-jako-szkodliwe-a-8-mln-choruje-psychicznie/](https://www.wykop.pl/link/6876599/71-polakow-ocenia-zycie-w-kraju-jako-szkodliwe-a-8-mln-choruje-psychicznie/)
+ - RSS feed: https://www.wykop.pl/rss/index.xml/
+ - date published: 2022-10-26 15:27:02+00:00
+ - Starred: True
+
+
+## Disabling the Intel Management Engine
+ - [https://wiki.gentoo.org/wiki/User:Sakaki/Sakaki%27s_EFI_Install_Guide/Disabling_the_Intel_Management_Engine](https://wiki.gentoo.org/wiki/User:Sakaki/Sakaki%27s_EFI_Install_Guide/Disabling_the_Intel_Management_Engine)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-10-26 15:19:17+00:00
+ - Starred: True
+
+
+## Trans comic's naked piano skit sparks nearly 1,500 Ofcom complaints
+ - [https://www.dailymail.co.uk/news/article-11357127/Trans-comics-naked-piano-skit-sparks-nearly-1-500-Ofcom-complaints.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11357127/Trans-comics-naked-piano-skit-sparks-nearly-1-500-Ofcom-complaints.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-10-26 14:38:41+00:00
+ - Starred: True
+
+
+## As James Gunn Takes Over, The Future Of DC Movies, TV And Animation Suddenly Seems A Little Brighter
+ - [https://www.forbes.com/sites/erikkain/2022/10/26/as-james-gunn-takes-over-the-future-of-dc-movies-tv-and-animation-suddenly-seems-a-little-brighter/](https://www.forbes.com/sites/erikkain/2022/10/26/as-james-gunn-takes-over-the-future-of-dc-movies-tv-and-animation-suddenly-seems-a-little-brighter/)
+ - RSS feed: https://www.forbes.com/innovation/feed2
+ - date published: 2022-10-26 14:38:27+00:00
+ - Starred: True
+
+
+## App Store developers aren’t happy with gambling app ads appearing beneath their listings
+ - [https://www.theverge.com/2022/10/26/23424316/app-store-gambling-ads-listings-apple-developers](https://www.theverge.com/2022/10/26/23424316/app-store-gambling-ads-listings-apple-developers)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-10-26 14:18:33+00:00
+ - Starred: True
+
+
+## Free cloud dev accounts are being abused for crypto mining
+ - [https://www.techradar.com/news/free-cloud-dev-accounts-are-being-abused-for-crypto-mining/](https://www.techradar.com/news/free-cloud-dev-accounts-are-being-abused-for-crypto-mining/)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2022-10-26 14:03:35+00:00
+ - Starred: True
+
+
+## Europe now has so much natural gas that prices just dipped below zero
+ - [https://www.cnn.com/2022/10/26/energy/europe-natural-gas-prices-plunge/index.html](https://www.cnn.com/2022/10/26/energy/europe-natural-gas-prices-plunge/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-10-26 14:03:04+00:00
+ - Starred: True
+
+
+## Only 42% of Americans think today's youth will have a better life than their parents
+ - [https://www.dailymail.co.uk/news/article-11356183/Only-42-Americans-think-todays-youth-better-life-parents.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11356183/Only-42-Americans-think-todays-youth-better-life-parents.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-10-26 13:08:52+00:00
+ - Starred: True
+
+
+## Ważna deklaracja KEP. Kościół otwiera się na kobiety
+ - [https://wydarzenia.interia.pl/kraj/news-wazna-deklaracja-kep-kosciol-otwiera-sie-na-kobiety,nId,6371958](https://wydarzenia.interia.pl/kraj/news-wazna-deklaracja-kep-kosciol-otwiera-sie-na-kobiety,nId,6371958)
+ - RSS feed: https://wydarzenia.interia.pl/feed
+ - date published: 2022-10-26 12:41:09+00:00
+ - Starred: True
+
+
+## Były prezes chińskiego państwowego banku aresztowany
+ - [https://www.bankier.pl/wiadomosc/Byly-prezes-chinskiego-panstwowego-banku-aresztowany-8429176.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Byly-prezes-chinskiego-panstwowego-banku-aresztowany-8429176.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2022-10-26 11:25:00+00:00
+ - Starred: True
+
+
+## Chinese stock markets plunge as Xi Jinping begins third term as leader
+ - [https://www.dailymail.co.uk/news/article-11356255/Chinese-stock-markets-plunge-Xi-Jinping-begins-term-leader.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11356255/Chinese-stock-markets-plunge-Xi-Jinping-begins-term-leader.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-10-26 11:21:48+00:00
+ - Starred: True
+
+
+## Niemcy: 4000 euro kary za użycie symbolu "Z"
+ - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-niemcy-4000-euro-kary-za-uzycie-symbolu-z,nId,6371783](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-niemcy-4000-euro-kary-za-uzycie-symbolu-z,nId,6371783)
+ - RSS feed: https://wydarzenia.interia.pl/feed
+ - date published: 2022-10-26 10:06:46+00:00
+ - Starred: True
+
+
+## Chińskie media propagandowe chwalą Olafa Scholza. Napięcia wewnątrz niemieckiej koalicji rządzącej w sprawie polityki wobec Chin
+ - [https://tvn24.pl/swiat/chiny-media-propagandowe-chwala-olafa-scholza-i-jego-polityke-wobec-chin-6180534?source=rss](https://tvn24.pl/swiat/chiny-media-propagandowe-chwala-olafa-scholza-i-jego-polityke-wobec-chin-6180534?source=rss)
+ - RSS feed: https://tvn24.pl/najnowsze.xml
+ - date published: 2022-10-26 09:32:07+00:00
+ - Starred: True
+
+
+## USA: Demokraci chcieli negocjacji z Rosją. Kontrowersyjny list do Bidena
+ - [https://wydarzenia.interia.pl/zagranica/news-usa-demokraci-chcieli-negocjacji-z-rosja-kontrowersyjny-list,nId,6371667](https://wydarzenia.interia.pl/zagranica/news-usa-demokraci-chcieli-negocjacji-z-rosja-kontrowersyjny-list,nId,6371667)
+ - RSS feed: https://wydarzenia.interia.pl/swiat/feed
+ - date published: 2022-10-26 07:53:57+00:00
+ - Starred: True
+
+
+## W Chinach w internecie dozwolone tylko pozytywne komentarze o Xi i zjeździe partii
+ - [https://tvn24.pl/swiat/chiny-w-cenzurowanym-internecie-dozwolone-tylko-pozytywne-komentarze-o-xi-i-zjezdzie-partii-6180074?source=rss](https://tvn24.pl/swiat/chiny-w-cenzurowanym-internecie-dozwolone-tylko-pozytywne-komentarze-o-xi-i-zjezdzie-partii-6180074?source=rss)
+ - RSS feed: https://tvn24.pl/najnowsze.xml
+ - date published: 2022-10-26 06:36:17+00:00
+ - Starred: True
+
+
+## "Zweryfikowaliśmy. Połowa telefonów nie była odbierana". Jak dodzwonić się do przychodni
+ - [https://tvn24.pl/programy/problemy-z-dodzwonieniem-sie-do-przychodni-lekarskiej-6180042?source=rss](https://tvn24.pl/programy/problemy-z-dodzwonieniem-sie-do-przychodni-lekarskiej-6180042?source=rss)
+ - RSS feed: https://tvn24.pl/najwazniejsze.xml
+ - date published: 2022-10-26 05:30:59+00:00
+ - Starred: True
+
+
+## Harvard's robotic tentacle gripper is pure nightmare fuel
+ - [https://www.codeproject.com/script/News/View.aspx?nwid=59308](https://www.codeproject.com/script/News/View.aspx?nwid=59308)
+ - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
+ - date published: 2022-10-26 04:00:00+00:00
+ - Starred: True
+
+
+## Passkeys—Microsoft, Apple, and Google’s password killer—are finally here
+ - [https://www.codeproject.com/script/News/View.aspx?nwid=59301](https://www.codeproject.com/script/News/View.aspx?nwid=59301)
+ - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
+ - date published: 2022-10-26 04:00:00+00:00
+ - Starred: True
+
+
+## Making a change to SQLite source code
+ - [https://brunocalza.me/making-a-change-to-sqlite-source-code/](https://brunocalza.me/making-a-change-to-sqlite-source-code/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-10-26 03:56:25+00:00
+ - Starred: True
+
+
+## Open source sustainment and the future of Gitea
+ - [https://blog.gitea.io/2022/10/open-source-sustainment-and-the-future-of-gitea/](https://blog.gitea.io/2022/10/open-source-sustainment-and-the-future-of-gitea/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-10-26 03:19:09+00:00
+ - Starred: True
+
+
+## Two French politicians under investigation for Russia-related corruption
+ - [https://www.lemonde.fr/en/france/article/2022/10/26/two-french-politicians-under-investigation-for-russia-related-corruption_6001787_7.html](https://www.lemonde.fr/en/france/article/2022/10/26/two-french-politicians-under-investigation-for-russia-related-corruption_6001787_7.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2022-10-26 03:00:10+00:00
+ - Starred: True
+
+
+## Chinese students filmed shouting at Japanese student, blocking his presentation on Taiwan at a UK university
+ - [https://www.reddit.com/r/worldnews/comments/ydmczv/chinese_students_filmed_shouting_at_japanese/](https://www.reddit.com/r/worldnews/comments/ydmczv/chinese_students_filmed_shouting_at_japanese/)
+ - RSS feed: http://www.reddit.com/.rss
+ - date published: 2022-10-26 02:16:08+00:00
+ - Starred: True
+
+
+## Twitter's Most Active Users Losing Interest, Report Says     - CNET
+ - [https://www.cnet.com/news/social-media/twitters-most-active-users-losing-interest-report-says/#ftag=CADf328eec](https://www.cnet.com/news/social-media/twitters-most-active-users-losing-interest-report-says/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2022-10-25 23:09:18+00:00
+ - Starred: True
+
+
+## Stock futures fall after Alphabet reports earnings miss
+ - [https://biztoc.com/p/8ywu3duf?ref=rss&rd=1](https://biztoc.com/p/8ywu3duf?ref=rss&rd=1)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-10-25 23:00:00+00:00
+ - Starred: True
+
+
+## Google Quietly Added HEVC Support in Chrome
+ - [https://bitmovin.com/google-adds-hevc-support-chrome/](https://bitmovin.com/google-adds-hevc-support-chrome/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-10-25 22:32:47+00:00
+ - Starred: True
+
+
+## NY State Supreme Court reinstates all fired unvaccinated employees with backpay
+ - [https://iapps.courts.state.ny.us/fbem/DocumentDisplayServlet?documentId=JK5E3gx5XV1/ku37jnWR_PLUS_w==&system=prod](https://iapps.courts.state.ny.us/fbem/DocumentDisplayServlet?documentId=JK5E3gx5XV1/ku37jnWR_PLUS_w==&system=prod)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-10-25 22:31:24+00:00
+ - Starred: True
+
+
+## Google and Microsoft hit by slowing economy
+ - [https://www.bbc.co.uk/news/business-63394516?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63394516?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/technology/rss.xml
+ - date published: 2022-10-25 21:53:33+00:00
+ - Starred: True
+
+
+## Employers should prioritize retention over hiring, study suggests
+ - [https://www.hrdive.com/news/employers-may-need-to-prioritize-retention-over-hiring-study-suggests/632540/](https://www.hrdive.com/news/employers-may-need-to-prioritize-retention-over-hiring-study-suggests/632540/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-10-25 19:20:29+00:00
+ - Starred: True
+
+
+## The American chip industry’s $1.5T meltdown
+ - [https://www.economist.com/business/2022/10/17/the-american-chip-industrys-15trn-meltdown](https://www.economist.com/business/2022/10/17/the-american-chip-industrys-15trn-meltdown)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-10-25 18:20:37+00:00
+ - Starred: True
+
+
+## Anti-Patterns in Startup Engineering Hiring
+ - [https://blog.southparkcommons.com/startup-engineering-hiring-anti-patterns/](https://blog.southparkcommons.com/startup-engineering-hiring-anti-patterns/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-10-25 18:01:16+00:00
+ - Starred: True
+
+
+## In Another Blow to Meta, Apple Demands 30% Cut From Promoted Social Posts
+ - [https://gizmodo.com/apple-facebook-boosts-promoted-social-posts-payment-1849698467](https://gizmodo.com/apple-facebook-boosts-promoted-social-posts-payment-1849698467)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-10-25 15:04:00+00:00
+ - Starred: True
+
+
+## Stop Writing Twitter Threads
+ - [https://pierre.equoy.fr/blog/posts/2022/10/stop-writing-twitter-threads/](https://pierre.equoy.fr/blog/posts/2022/10/stop-writing-twitter-threads/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-10-25 14:58:33+00:00
+ - Starred: True
+
+
+## ClockworkPi – uConsole, “fantasy console” for indie game developers
+ - [https://www.clockworkpi.com/](https://www.clockworkpi.com/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-10-25 14:45:00+00:00
+ - Starred: True
+
+
+## I recorded user behaviour on my competitor’s websites (2018)
+ - [https://dejanmarketing.com/competitor-hack/](https://dejanmarketing.com/competitor-hack/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-10-25 14:37:02+00:00
+ - Starred: True
+
+
 ## US Supreme Court allows Jewish university to deny LGBTQ group
  - [https://www.aljazeera.com/news/2022/9/10/us-supreme-court-lets-jewish-university-deny-recognition-to-lgbtq](https://www.aljazeera.com/news/2022/9/10/us-supreme-court-lets-jewish-university-deny-recognition-to-lgbtq)
  - RSS feed: www.aljazeera.com
@@ -61,6 +334,13 @@
  - Starred: True
 
 
+## What “Work” Looks Like
+ - [https://blog.jim-nielsen.com/2022/what-work-looks-like/](https://blog.jim-nielsen.com/2022/what-work-looks-like/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-10-25 04:04:47+00:00
+ - Starred: True
+
+
 ## Linus Torvalds wants to drop i486 support from the Linux kernel citing its age
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59296](https://www.codeproject.com/script/News/View.aspx?nwid=59296)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
@@ -72,6 +352,13 @@
  - [https://www.dailymail.co.uk/news/article-11350677/Harry-Potter-star-Ralph-Fiennes-defends-JK-Rowling-hits-disgusting-abuse.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11350677/Harry-Potter-star-Ralph-Fiennes-defends-JK-Rowling-hits-disgusting-abuse.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-10-25 01:38:37+00:00
+ - Starred: True
+
+
+## Ivermectin — a drug once touted as a Covid treatment by conservatives — doesn't improve recovery much, clinical trial finds
+ - [https://www.reddit.com/r/news/comments/ycs5nk/ivermectin_a_drug_once_touted_as_a_covid/](https://www.reddit.com/r/news/comments/ycs5nk/ivermectin_a_drug_once_touted_as_a_covid/)
+ - RSS feed: http://www.reddit.com/r/news/.rss
+ - date published: 2022-10-25 01:17:55+00:00
  - Starred: True
 
 
@@ -222,6 +509,13 @@
  - Starred: True
 
 
+## Our buildings are making us sick
+ - [https://www.vox.com/the-highlight/23377638/buildings-indoor-air-quality-pollution-toxic-sick](https://www.vox.com/the-highlight/23377638/buildings-indoor-air-quality-pollution-toxic-sick)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-10-24 12:35:45+00:00
+ - Starred: True
+
+
 ## Hackers steal 50GB data, thousands of emails from Iranian nuclear facilities
  - [https://www.techradar.com/news/hackers-steal-50gb-data-thousands-of-emails-from-iranian-nuclear-facilities/](https://www.techradar.com/news/hackers-steal-50gb-data-thousands-of-emails-from-iranian-nuclear-facilities/)
  - RSS feed: https://www.techradar.com/rss
@@ -324,6 +618,13 @@
  - [https://www.foxnews.com/us/elite-nyc-private-schools-make-parents-sign-anti-racist-commitment-attend-anti-racist-training](https://www.foxnews.com/us/elite-nyc-private-schools-make-parents-sign-anti-racist-commitment-attend-anti-racist-training)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-10-22 22:31:18+00:00
+ - Starred: True
+
+
+## The Raspberry Pi 400 in My Bedroom
+ - [https://joeldare.com/private-analtyics-and-my-raspberry-pi-400.html](https://joeldare.com/private-analtyics-and-my-raspberry-pi-400.html)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-10-22 22:24:40+00:00
  - Starred: True
 
 
@@ -618,6 +919,13 @@
  - [https://www.bankier.pl/wiadomosc/Xi-Jinping-ostrzega-przed-sztormem-Chiny-mierza-sie-z-powaznymi-wyzwaniami-8425833.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Xi-Jinping-ostrzega-przed-sztormem-Chiny-mierza-sie-z-powaznymi-wyzwaniami-8425833.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
  - date published: 2022-10-20 06:16:00+00:00
+ - Starred: True
+
+
+## MNSBC’s Hasan blasts COVID lockdown critics, says people are ‘pretending to care’ about kids’ ‘learning loss’
+ - [https://www.foxnews.com/media/mnsbcs-hasan-blasts-covid-lockdown-critics-says-people-pretending-care-kids-learning-loss](https://www.foxnews.com/media/mnsbcs-hasan-blasts-covid-lockdown-critics-says-people-pretending-care-kids-learning-loss)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-10-19 23:24:15+00:00
  - Starred: True
 
 
