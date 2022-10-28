@@ -1,0 +1,40 @@
+## Google execs knew 'Incognito mode' failed to protect privacy, suit claims
+ - [https://www.computerworld.com/article/3678190/google-execs-knew-incognito-mode-failed-to-protect-privacy-suit-claims.html#tk.rss_all](https://www.computerworld.com/article/3678190/google-execs-knew-incognito-mode-failed-to-protect-privacy-suit-claims.html#tk.rss_all)
+ - RSS feed: https://www.computerworld.com/index.rss
+ - date published: 2022-10-27 20:47:00+00:00
+ - Starred: False
+
+<article>
+	<section class="page">
+<p>A federal judge in California is considering motions to dismiss a lawsuit against Google that alleges the company misled them into believing their privacy was being protected while using <a href="https://www.computerworld.com/article/3356840/how-to-go-incognito-in-chrome-firefox-safari-and-edge.html">Incognito mode</a> in the Chrome browser.</p><p>The lawsuit, filed in the Northern District Court of California by five users more than two years ago, is now awaiting a recent motion by those plaintiffs for two class-action certifications.</p><p>The first would cover all Chrome users with a Google account who accessed a non-Google website containing Google tracking or advertising code and who were in “Incognito mode”; the second covers all Safari, Edge, and Internet Explorer users with a Google account who accessed a non-Google website containing Google tracking or advertising code while in “private browsing mode.” </p><p class="jumpTag"><a href="/article/3678190/google-execs-knew-incognito-mode-failed-to-protect-privacy-suit-claims.html#jump">To read this article in full, please click here</a></p></section></article>
+
+## As videoconferencing needs change, it's time to plan for what comes next
+ - [https://www.computerworld.com/article/3678288/as-videoconferencing-needs-change-its-time-to-plan-for-what-comes-next.html#tk.rss_all](https://www.computerworld.com/article/3678288/as-videoconferencing-needs-change-its-time-to-plan-for-what-comes-next.html#tk.rss_all)
+ - RSS feed: https://www.computerworld.com/index.rss
+ - date published: 2022-10-27 17:31:00+00:00
+ - Starred: False
+
+<article>
+	<section class="page">
+<p>The COVID-19 pandemic was, no doubt, an unusual event. But we're likely to see more such crises in the future. How successfully we handle them will depend on what happens and how politicians and corporate executives respond. One thing that's clear is that flexibility and foresight will be needed as companies sort out what comes next.</p><p>For example, it seemed clear a year ago that practically everyone in office jobs would remain largely remote, so companies realized they needed occasional on-premises collaboration spaces that were small and intimate. (These were often called huddle rooms.)</p><p>Now, companies are talking about large conference rooms again as they envision people coming back to the office en masse — largely because they never addressed the issues that cropped up with the shift to remote work. Those problems include workers who felt like they didn't have the same opportunities as on-site employees and managers who either don’t know how to manage remote employees or simply don't trust them to do their jobs.</p><p class="jumpTag"><a href="/article/3678288/as-videoconferencing-needs-change-its-time-to-plan-for-what-comes-next.html#jump">To read this article in full, please click here</a></p></section></article>
+
+## Apple improves iCloud.com for better ease of use
+ - [https://www.computerworld.com/article/3678189/apple-improves-icloudcom-for-better-ease-of-use.html#tk.rss_all](https://www.computerworld.com/article/3678189/apple-improves-icloudcom-for-better-ease-of-use.html#tk.rss_all)
+ - RSS feed: https://www.computerworld.com/index.rss
+ - date published: 2022-10-27 15:14:00+00:00
+ - Starred: False
+
+<article>
+	<section class="page">
+<p>Apple is testing improvements to<a href="https://beta.icloud.com/" rel="noopener nofollow" target="_blank"> iCloud.com</a> designed to make it easier to use — and has unveiled a new look and a few new tricks to reflect features recently introduced in its operating systems.</p><h2><strong>iCloud services for the rest of us</strong></h2>
+<p>If you are one of the millions who use iCloud with their iPhone but no other Apple product, you probably use the online service to access your digital content from other devices.</p><p><a href="http://www.icloud.com/" rel="noopener nofollow" target="_blank">iCloud</a> is Apple’s sync service that <a href="https://www.computerworld.com/article/3661355/the-essential-guide-to-icloud-login.html">acts as a secure online supporting actor</a> for many of the apps and services its customers use. While it has been through a handful of incarnations, there has always been some form of online access at iCloud.com.</p><p class="jumpTag"><a href="/article/3678189/apple-improves-icloudcom-for-better-ease-of-use.html#jump">To read this article in full, please click here</a></p></section></article>
+
+## Build the ultimate bootable Windows repair drive
+ - [https://www.computerworld.com/article/3626363/build-the-ultimate-bootable-windows-repair-drive.html#tk.rss_all](https://www.computerworld.com/article/3626363/build-the-ultimate-bootable-windows-repair-drive.html#tk.rss_all)
+ - RSS feed: https://www.computerworld.com/index.rss
+ - date published: 2022-10-27 10:00:00+00:00
+ - Starred: False
+
+<article>
+	<section class="page">
+<p>I’ve learned to keep a collection of useful Windows tools and repair environments around. They help me restart, troubleshoot, and — if necessary — repair Windows installations that are having difficulties. These could be related to hardware problems, Windows updates gone bad, device or driver issues, and a whole lot more.</p><p>I keep all these tools on a single USB drive that I like to call the ultimate bootable Windows repair drive. Interested in building your own? You just need a modestly sized (256GB or 512GB) USB drive and the right software. This kind of setup works splendidly with Windows 7, 8, 8.1, 10, and 11 installations.</p><p>My technique relies on a special foundational tool called Ventoy, along with a collection of ISO files from which Ventoy will boot a Windows PC. The first part of this story introduces and explains Ventoy. The second part explains that improved performance may justify the cost of an NVMe SSD and a compatible USB drive enclosure. The third introduces a carefully curated collection of ISO files, with brief explanations of what they can do, what they contain, and where to find and download them.</p><p class="jumpTag"><a href="/article/3626363/build-the-ultimate-bootable-windows-repair-drive.html#jump">To read this article in full, please click here</a></p></section></article>
