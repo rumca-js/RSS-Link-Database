@@ -24,6 +24,7 @@ https://lukesmith.xyz/rss.xml;Luke Smith;Tech;Tech;None
 https://moxie.foxnews.com/google-publisher/latest.xml;Fox News;News;USA;None
 https://notrelated.xyz/rss;Luke Smith - Not Related;Random;Random;None
 https://rss.nytimes.com/services/xml/rss/nyt/World.xml;NY times;News;USA;None
+https://rss.politico.com/politics-news.xml;Politico;News;News;None
 https://tvn24.pl/najnowsze.xml;TVN24 Najnowsze;News;PL;None
 https://tvn24.pl/najwazniejsze.xml;TNV24 Najważniejsze;News;PL;None
 https://tvn24.pl/wiadomosci-z-kraju,3.xml;TVN24 Z kraju;News;PL;None
@@ -39,12 +40,14 @@ https://www.dailywire.com/feeds/rss.xml;Daily Wire;News;USA;None
 https://www.digitaltrends.com/news/rss;Digital Trends;Tech;Tech;None
 https://www.engadget.com/rss.xml;Engadget;Tech;Tech;None
 https://www.forbes.com/innovation/feed2;Forbs - innovation;Tech;Tech;None
+https://www.ft.com/world?format=rss;Financial Times - World;News;News;None
 https://www.gamespot.com/feeds/mashup;GameSpot;Tech;Tech;None
 https://www.lemonde.fr/en/rss/une.xml;Le Monde;News;News;None
 https://www.lemonde.fr/en/science/rss_full.xml;Le Monde - science;Science;Science;None
 https://www.pcworld.com/index.rss;PC world;Tech;Tech;None
 https://www.polsatnews.pl/rss/swiat.xml;Polsat News;News;PL;None
 https://www.techradar.com/rss;Techradaar;Tech;Tech;None
+https://www.theguardian.com/international/rss;The Guardian - International;News;News;None
 https://www.theverge.com/rss/index.xml;The Verge;News;USA;None
 https://www.wykop.pl/rss/index.xml/;Wykop;Random;PL;None
 https://wydarzenia.interia.pl/feed;Wydarzenia Interia;News;PL;None
