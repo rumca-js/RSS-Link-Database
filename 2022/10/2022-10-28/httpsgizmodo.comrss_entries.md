@@ -1,0 +1,295 @@
+## 20 Gifts to Turn Every Day Into Halloween
+ - [https://gizmodo.com/halloween-gift-guide-merchandise-cosplay-toys-decor-1849716181](https://gizmodo.com/halloween-gift-guide-merchandise-cosplay-toys-decor-1849716181)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-10-28 23:30:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--s9HVVUmb--/c_fit,fl_progressive,q_80,w_636/db7ee80535b07e41b5a7db921679628e.jpg" /><p>The good news: There are only three days til <a href="https://gizmodo.com/megan-thee-stallion-drops-hottieween-horror-short-1849706035">Halloween</a>. The bad news: Once that’s over, the countdown resets to 365. While some of you will be ready to move onto Christmas and its holiday brethren, many are about that <a href="https://gizmodo.com/horror-nights-haunted-tales-discover-universal-podcast-1849707050">spooky life all year</a>. So in the spirit of giving tricks and/or treats, we’re sharing 20 picks to help…</p><p><a href="https://gizmodo.com/halloween-gift-guide-merchandise-cosplay-toys-decor-1849716181">Read more...</a></p>
+
+## Vision Is Getting His Very Own Disney+ Show
+ - [https://gizmodo.com/vision-marvel-studios-disney-plus-vision-quest-bettany-1849717723](https://gizmodo.com/vision-marvel-studios-disney-plus-vision-quest-bettany-1849717723)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-10-28 22:40:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--xuMSReWy--/c_fit,fl_progressive,q_80,w_636/99bee39f37035b66a89d3f542b01d770.jpg" /><p>So what happened <a href="https://gizmodo.com/wandavisions-creator-explains-why-wanda-doesnt-care-abo-1846456376?utm_content=io9&amp;utm_source=twitter&amp;utm_medium=SocialMarketing&amp;utm_campaign=dlvrit">to that new version</a> of Vision <a href="https://gizmodo.com/wandavisions-finale-was-what-you-made-of-it-1846416096">after he flew out of Westview</a>? That’s the plot of<em> Vision Quest</em>, a <a href="https://gizmodo.com/the-vision-is-one-of-the-most-unsettling-comics-ive-rea-1740684807">new Marvel Studios Disney+</a> show that’s reportedly now in the works. </p><p><a href="https://gizmodo.com/vision-marvel-studios-disney-plus-vision-quest-bettany-1849717723">Read more...</a></p>
+
+## Bret Stephens' Bad Faith Climate Conversion
+ - [https://gizmodo.com/bret-stephens-new-york-times-greenland-climate-essay-1849717244](https://gizmodo.com/bret-stephens-new-york-times-greenland-climate-essay-1849717244)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-10-28 21:35:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--gbwaInHn--/c_fit,fl_progressive,q_80,w_636/efcfa7d5054b08ceb7a99bf484c1bb97.png" /><p>Bret Stephens, the New York Times columnist with a long history of bad conservative takes—the same man who decided to quit Twitter after he threw a fit over being called a bedbug—says he’s changed. In <a href="https://www.nytimes.com/interactive/2022/10/28/opinion/climate-change-bret-stephens.html" rel="noopener noreferrer" target="_blank">an essay</a> for the Times opinion section published Friday, Stephens claims that a visit to Greenland changed his mind on…</p><p><a href="https://gizmodo.com/bret-stephens-new-york-times-greenland-climate-essay-1849717244">Read more...</a></p>
+
+## You May Remember This Week's Toys From Such Films As...
+ - [https://gizmodo.com/you-may-remember-this-weeks-toys-from-such-films-as-1849706186](https://gizmodo.com/you-may-remember-this-weeks-toys-from-such-films-as-1849706186)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-10-28 21:30:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--YwbdMzVy--/c_fit,fl_progressive,q_80,w_636/724921448160a1f827ac2374157ac037.jpg" /><p>Welcome back to Toy Aisle, io9's regular round up of the best toys, collectibles, and merch you may have missed. This week, Super7 gives <em>The Simpsons’</em> Troy McClure the figure line he deserves, and rolls out the red carpet for a new line of highly-detailed and accessorized <em>Star Trek: The Next Generation</em> figures. Check…</p><p><a href="https://gizmodo.com/you-may-remember-this-weeks-toys-from-such-films-as-1849706186">Read more...</a></p>
+
+## Lacking Expensive ARMY Bombs, BTS Fans Create Their Own 'Purple Lights' to Support Jin in Argentina
+ - [https://gizmodo.com/bts-fans-diy-army-bombs-argentina-jin-1849714104](https://gizmodo.com/bts-fans-diy-army-bombs-argentina-jin-1849714104)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-10-28 20:55:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--GJwnV-Ce--/c_fit,fl_progressive,q_80,w_636/cc06feaa6b7b538620525c92ff2df740.jpg" /><p>Last week, BTS fans in Argentina got an unexpected but joyous piece of news. Kim Seok-jin, more commonly known as Jin, the oldest member of the South Korean K-Pop group, would be performing his new single <a href="https://www.youtube.com/watch?v=c6ASQOwKkhk" rel="noopener noreferrer" target="_blank">“The Astronaut”</a> for the first time as a special guest at a Coldplay concert in <a href="https://www.coldplay.com/jin-of-bts-announced-as-special-guest-for-buenos-aires-broadcast/" rel="noopener noreferrer" target="_blank">Buenos Aires</a>. As excited as fans…</p><p><a href="https://gizmodo.com/bts-fans-diy-army-bombs-argentina-jin-1849714104">Read more...</a></p>
+
+## Andor Gave Us the Gayest Screen Fade in Star Wars History
+ - [https://gizmodo.com/andor-episode-8-vel-cinta-screen-fade-lgbtq-star-wars-1849716836](https://gizmodo.com/andor-episode-8-vel-cinta-screen-fade-lgbtq-star-wars-1849716836)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-10-28 20:30:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--jN7UgH35--/c_fit,fl_progressive,q_80,w_636/dc9954c89188da9465c3a50f5c9946b6.png" /><p><em>Andor</em> gets a good deal right—<a href="https://gizmodo.com/andor-star-wars-messy-heroes-disney-plus-1849565311">very right, even</a>—about a lot of things in <em>Star Wars</em>, but it’s slowly but surely learning how to do one thing even better: <a href="https://gizmodo.com/in-an-edit-bay-far-far-away-star-wars-editor-paul-hir-1839699713">cinematic tropes</a> in the galaxy far, far away are even better when they’re queer.<br /></p><p><a href="https://gizmodo.com/andor-episode-8-vel-cinta-screen-fade-lgbtq-star-wars-1849716836">Read more...</a></p>
+
+## Twitter Reacts to Twitter Acquisition
+ - [https://gizmodo.com/twitter-elon-musk-account-reinstatements-1849715946](https://gizmodo.com/twitter-elon-musk-account-reinstatements-1849715946)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-10-28 20:25:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--Ofq-xbGF--/c_fit,fl_progressive,q_80,w_636/798b89e361cf0cd664d1c33f35f5a579.jpg" /><p>In case you somehow missed the news: It’s official, Elon Musk <a href="https://gizmodo.com/elon-musk-twitter-donald-trump-return-maga-ceo-bitcoin-1849714038">has bought Twitter</a>. It’s been months of <a href="https://gizmodo.com/elon-musk-twitter-trial-delay-whistleblower-1849505845">tedious back and forth</a>, <a href="https://gizmodo.com/twitter-sues-elon-musk-44-billion-1849171116">lawsuits</a>, <a href="https://gizmodo.com/elon-musk-twitter-whistleblower-1849642068">whistleblowing</a>, and <a href="https://gizmodo.com/elon-musk-texts-joe-rogan-larry-elllison-dorsey-twitter-1849600155">inanity</a>—but finally, that <a href="https://gizmodo.com/elon-musk-is-officially-buying-twitter-1848837212">headline I wrote back in April</a> is accurate.<br /></p><p><a href="https://gizmodo.com/twitter-elon-musk-account-reinstatements-1849715946">Read more...</a></p>
+
+## Perseverance Is About to Drop Its First Sample Cache, NASA Says
+ - [https://gizmodo.com/perseverance-sample-return-location-nasa-1849716702](https://gizmodo.com/perseverance-sample-return-location-nasa-1849716702)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-10-28 19:51:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--6jsQ2iWk--/c_fit,fl_progressive,q_80,w_636/6289f229ce26d79300ddf36bb6752b6b.jpg" /><p>For nearly two years (has it been that long already?) NASA’s Perseverance rover has been scuttling about the western rim of Mars’ Jezero Crater, coring rocks and imaging the planet’s surface.</p><p><a href="https://gizmodo.com/perseverance-sample-return-location-nasa-1849716702">Read more...</a></p>
+
+## George R.R. Martin Wanted House of the Dragon to Start Way Earlier
+ - [https://gizmodo.com/house-of-the-dragon-grrm-prologue-game-of-thrones-1849716671](https://gizmodo.com/house-of-the-dragon-grrm-prologue-game-of-thrones-1849716671)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-10-28 19:45:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--EQIuabZW--/c_fit,fl_progressive,q_80,w_636/6a9c4579f53fad6fa47f36ed660f8a91.jpg" /><p>If you think about it, the entire first season of <a href="https://gizmodo.com/house-of-the-dragons-game-of-thrones-vhagar-arrax-1849710928"><em>House of the Dragon</em></a>—all 10 episodes—is basically the prologue to the Targaryen civil war that begins with the final shot of <a href="https://gizmodo.com/house-of-the-dragon-finale-recap-black-queen-episode-10-1849692400">the finale</a>. It’s a story that has already spanned decades and, if creator George R.R. Martin had his way, would have been even longer. <em>Much</em>…</p><p><a href="https://gizmodo.com/house-of-the-dragon-grrm-prologue-game-of-thrones-1849716671">Read more...</a></p>
+
+## This High-Tech Cube Will Visit the Asteroid Smashed by NASA's DART Spacecraft
+ - [https://gizmodo.com/high-tech-cube-asteroid-smashed-nasa-dart-1849715523](https://gizmodo.com/high-tech-cube-asteroid-smashed-nasa-dart-1849715523)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-10-28 19:30:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--pzacNH7M--/c_fit,fl_progressive,q_80,w_636/f4106ad7af94bf0462f7c6cb56400afb.jpg" /><p>In the aftermath of the astounding plan to move a harmless asteroid with <a href="https://gizmodo.com/nasa-dart-crashes-into-asteroid-success-1849583961">NASA’s DART mission</a>, further science is needed to determine exactly what kind of impact humanity had on the distant  Dimorphos. <a href="https://gizmodo.com/esa-hera-probe-dart-mission-dimorphos-asteroid-1849585401">ESA’s Hera mission</a> aims to do just that with its launch in two years, and it will be bringing along a scrappy sidekick…</p><p><a href="https://gizmodo.com/high-tech-cube-asteroid-smashed-nasa-dart-1849715523">Read more...</a></p>
+
+## Binance Wants to Use Crypto to Solve Elon Musk's Supposed Bot Problem
+ - [https://gizmodo.com/binance-crypto-twitter-bots-elon-musk-1849716523](https://gizmodo.com/binance-crypto-twitter-bots-elon-musk-1849716523)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-10-28 19:20:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--N060qcPY--/c_fit,fl_progressive,q_80,w_636/aefda394a4f1815845c78b9ba3f415ad.jpg" /><p>Newly minted Twitter owner Elon Musk isn’t letting up on his migraine-inducing <a href="https://gizmodo.com/elon-musk-twitter-tesla-deal-bots-ceo-cant-go-forward-1848935698">grievances</a> about bots consuming his Twitter feed. Now, less than one day into his <a href="https://gizmodo.com/elon-musk-twitter-donald-trump-return-maga-ceo-bitcoin-1849714038">ownership</a>, he’s reportedly decided to offload part of that pesky problem to one of the biggest names in crypto. </p><p><a href="https://gizmodo.com/binance-crypto-twitter-bots-elon-musk-1849716523">Read more...</a></p>
+
+## Jeff Goldblum in Talks to Be Wicked's Great and Powerful Oz
+ - [https://gizmodo.com/jeff-goldblum-wicked-musical-movie-wizard-oz-casting-1849716633](https://gizmodo.com/jeff-goldblum-wicked-musical-movie-wizard-oz-casting-1849716633)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-10-28 19:15:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--l0Nrucww--/c_fit,fl_progressive,q_80,w_636/638ebcd27262e74372736bdca8235d2f.jpg" /><p><a href="https://gizmodo.com/jeff-goldblum-sexy-bare-chested-jurassic-park-figure-ma-1848955510">Jeff Goldblum</a>, notorious kooky old guy, seems like the perfect fit to play the great and powerful Oz in any adaptation of <a href="https://gizmodo.com/the-wicked-movie-is-finally-happening-1832470658"><em>The Wizard of Oz</em></a>. And as it so happens,  it appears he’ll be taking up the role of the man behind the curtain in <a href="https://gizmodo.com/wickeds-wonderful-witches-whirlwind-into-work-1848004032"><em>Wicked</em></a>. <a href="https://variety.com/2022/film/columns/jeff-goldblum-wicked-movies-wizard-1235414500/" rel="noopener noreferrer" target="_blank"><em>Variety</em></a><em> </em>reports that Goldblum is in final talks to play the Wizard in the…</p><p><a href="https://gizmodo.com/jeff-goldblum-wicked-musical-movie-wizard-oz-casting-1849716633">Read more...</a></p>
+
+## The iPhone 15's Physical Buttons Could Be Fake 'Taptic' Buttons
+ - [https://gizmodo.com/iphone-15-physical-buttons-could-be-fake-taptic-buttons-1849716246](https://gizmodo.com/iphone-15-physical-buttons-could-be-fake-taptic-buttons-1849716246)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-10-28 19:10:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--enFSXsmn--/c_fit,fl_progressive,q_80,w_636/2646e4899d446ec908ffb4853df915cb.png" /><p>Some of Apple’s most iconic designs are button-based—iPod click-wheel, anyone?—so it’s no surprise that the possibility of the company switching button mechanisms on the next iPhone is trending.<br /></p><p><a href="https://gizmodo.com/iphone-15-physical-buttons-could-be-fake-taptic-buttons-1849716246">Read more...</a></p>
+
+## Images Show Fresh Crater on Mars Caused by Major Meteorite Impact
+ - [https://gizmodo.com/meteorite-impact-crater-mars-1849715643](https://gizmodo.com/meteorite-impact-crater-mars-1849715643)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-10-28 19:00:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--isezqyx2--/c_fit,fl_progressive,q_80,w_636/c37febaf628295a76a83ff0d0f9fb5ec.png" /><p>On December 24, 2021—the day before the Webb Space Telescope would launch—a rock hurtled through the thin Martian atmosphere and slammed into the ground, leaving a crater nearly 500 feet across. This week, NASA revealed images of the impact site taken by a Mars-orbiting satellite.<br /></p><p><a href="https://gizmodo.com/meteorite-impact-crater-mars-1849715643">Read more...</a></p>
+
+## The Creators of ONI: Thunder God's Tale on Stop-Motion Inspiration and Overcoming Fear
+ - [https://gizmodo.com/oni-thunder-gods-tale-tonko-house-netflix-concept-art-1849715514](https://gizmodo.com/oni-thunder-gods-tale-tonko-house-netflix-concept-art-1849715514)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-10-28 18:15:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--ha2R9BoR--/c_fit,fl_progressive,q_80,w_636/3d17a915e167204a6bd19266ee6a2419.png" /><p>The new Netflix-produced animated show from <a href="http://www.tonkohouse.com/" rel="noopener noreferrer" target="_blank">Tonko House</a>, <a href="https://gizmodo.com/oni-thunder-gods-tale-tonko-house-animation-netflix-1849704673"><em>ONI: Thunder God’s Tale</em>,</a> is a wonderful, four-episode story about found family, community, identity, and outsiders. On October 18, Sara Sampson, Robert Kondo, and <a href="https://gizmodo.com/netflix-oni-thunder-gods-tale-trailer-stop-motion-japan-1849007537">Daisuke “Dice” Tsutsumi</a> sat down with io9 to talk about their animation process and how they…</p><p><a href="https://gizmodo.com/oni-thunder-gods-tale-tonko-house-netflix-concept-art-1849715514">Read more...</a></p>
+
+## Pressed for Time, Amazon May Turn to Its SpaceX Rival for Satellite Launches
+ - [https://gizmodo.com/amazon-spacex-rival-project-kuiper-satellite-launches-1849715511](https://gizmodo.com/amazon-spacex-rival-project-kuiper-satellite-launches-1849715511)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-10-28 18:05:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--6ihJbpUW--/c_fit,fl_progressive,q_80,w_636/f35da8005ea7718fa40e3b82ef10c711.jpg" /><p>Amazon is on a tight schedule to launch its internet satellites to orbit, so the company may have to turn to its competitor SpaceX for rides. <br /></p><p><a href="https://gizmodo.com/amazon-spacex-rival-project-kuiper-satellite-launches-1849715511">Read more...</a></p>
+
+## One of the World's Biggest Killers Is on the Rise Again
+ - [https://gizmodo.com/tuberculosis-on-the-rise-2021-who-report-1849715455](https://gizmodo.com/tuberculosis-on-the-rise-2021-who-report-1849715455)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-10-28 17:55:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--BlTaHQtG--/c_fit,fl_progressive,q_80,w_636/e6b200f7f7aa0b5f7499546407100399.jpg" /><p>One of the deadliest diseases in the world is once again gaining steam. A new report this week by the World Health Organization shows that global cases of tuberculosis and drug-resistant tuberculosis increased in 2021—the first such jump in years. A major reason for its resurgence is the covid-19 pandemic.</p><p><a href="https://gizmodo.com/tuberculosis-on-the-rise-2021-who-report-1849715455">Read more...</a></p>
+
+## Is the U.S. Ready for Election Betting? We're About to Find Out
+ - [https://gizmodo.com/election-betting-sports-betting-midterm-elections-1849715401](https://gizmodo.com/election-betting-sports-betting-midterm-elections-1849715401)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-10-28 17:45:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s---NrJXpPL--/c_fit,fl_progressive,q_80,w_636/64572ee2b3d82d8b6799a0c7ff205c9f.jpg" /><p>Why bet on the 2022 World Series when you could bet on the 2022 midterms?</p><p><a href="https://gizmodo.com/election-betting-sports-betting-midterm-elections-1849715401">Read more...</a></p>
+
+## White House Warns Russia Against Shooting Down U.S. Satellites
+ - [https://gizmodo.com/white-house-warns-russia-against-shooting-down-u-s-sat-1849715557](https://gizmodo.com/white-house-warns-russia-against-shooting-down-u-s-sat-1849715557)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-10-28 17:35:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--C4NhOPHy--/c_fit,fl_progressive,q_80,w_636/d70ebf3ee2eed19315f7dc23eea379dd.png" /><p>The National Security Council is having to respond to comments made earlier this week by a senior Russian foreign ministry official who warned that commercial satellites operated by the U.S. and its allies, if used to support the Ukrainian war effort, could become legitimate targets. </p><p><a href="https://gizmodo.com/white-house-warns-russia-against-shooting-down-u-s-sat-1849715557">Read more...</a></p>
+
+## Venom 3 Forms Symbiotic Relationship With Kelly Marcel
+ - [https://gizmodo.com/venom-3-kelly-marcel-tom-hardy-spider-man-sequel-sony-1849716040](https://gizmodo.com/venom-3-kelly-marcel-tom-hardy-spider-man-sequel-sony-1849716040)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-10-28 17:30:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--53iVua54--/c_fit,fl_progressive,q_80,w_636/94c73e0f15797b54aee90f7d198ae233.jpg" /><p>We’ve got quite a while before the third <a href="https://gizmodo.com/venom-let-there-be-carnage-review-frivolous-forgetta-1847732689"><em>Venom</em></a> movie oozes its way onscreen, but the goopy anti-hero played by Tom Hardy has made a tentacle-pulled leap forward. <a href="https://www.hollywoodreporter.com/movies/movie-news/venom-3-enlists-kelly-marcel-as-director-1235250850/" rel="noopener noreferrer" target="_blank"><em>The Hollywood Reporter</em></a> has announced that screenwriter Kelly Marcel will do double-duty as director for <em>Venom 3.<br /></em></p><p><a href="https://gizmodo.com/venom-3-kelly-marcel-tom-hardy-spider-man-sequel-sony-1849716040">Read more...</a></p>
+
+## We Finally Know Who Funded Trump's Truth Social
+ - [https://gizmodo.com/donald-trump-truth-social-1849714452](https://gizmodo.com/donald-trump-truth-social-1849714452)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-10-28 17:05:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--Iujkopky--/c_fit,fl_progressive,q_80,w_636/64bd84c48117675e1ddd3d95ccb0d5e8.jpg" /><p>Since the Donald Trump-founded social media platform, Truth Social launched <a href="https://gizmodo.com/trump-truth-social-problems-launch-presidents-day-app-s-1848574162">in February</a>, the site’s financial origins have been cloaked in layer of mystery. The company secured an <a href="https://time.com/6125995/truth-social-trump-funding-digital-world/" rel="noopener noreferrer" target="_blank">alleged $1 billion</a> in funding, but that money remains inaccessible pending a successful public launch. In the interim, Trump’s media…</p><p><a href="https://gizmodo.com/donald-trump-truth-social-1849714452">Read more...</a></p>
+
+## Smell Like Batman Without Running Around in a Suit of Body Armor
+ - [https://gizmodo.com/the-batman-perfume-candle-houe-of-sillage-1849715344](https://gizmodo.com/the-batman-perfume-candle-houe-of-sillage-1849715344)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-10-28 16:45:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--2Z_1Z3V2--/c_fit,fl_progressive,q_80,w_636/f1861791ee1fda0a8ca8cb417edf0ea5.jpg" /><p>There are a lot of things about Bruce Wayne that people want to emulate—his incredible wealth, his debonair ability to switch between a billionaire/playboy/philanthropist and a vigilante who roams the streets of Gotham searching for bad guys to beat up—but if you were ever curious about what the Dark Knight might…</p><p><a href="https://gizmodo.com/the-batman-perfume-candle-houe-of-sillage-1849715344">Read more...</a></p>
+
+## Last-Minute Halloween Costumes for the Climate Conscious
+ - [https://gizmodo.com/last-minute-halloween-costumes-nature-climate-eco-green-1849708673](https://gizmodo.com/last-minute-halloween-costumes-nature-climate-eco-green-1849708673)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-10-28 16:40:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--b2NMfP6n--/c_fit,fl_progressive,q_80,w_636/3d9a1eecd93d0d30c5c8b42a7db5b1af.jpg" /><p>There are two types of people in this world: Those who prepare for Halloween, and those who realize the date on the calendar and say “oh, shit, I guess I need to think of something.” I have the utmost respect to those of y’all who start planning their outfits for months in advance, but I am firmly in the latter camp.</p><p><a href="https://gizmodo.com/last-minute-halloween-costumes-nature-climate-eco-green-1849708673">Read more...</a></p>
+
+## Iran's Tyrannical Digital Surveillance Tools Exposed in Leaked Documents
+ - [https://gizmodo.com/irans-digital-surveillance-tools-exposed-in-leak-siam-1849715382](https://gizmodo.com/irans-digital-surveillance-tools-exposed-in-leak-siam-1849715382)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-10-28 16:30:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--7KoHR4fV--/c_fit,fl_progressive,q_80,w_636/c4ca810a1ffa4f2e72b20a1f7bd0b4f1.jpg" /><p>A new report from the Intercept reveals details about the Iranian government’s far-reaching digital surveillance tools, uncovering how officials partner with mobile carriers to track cell phone users, and monitor, alter, and disrupt their communications. </p><p><a href="https://gizmodo.com/irans-digital-surveillance-tools-exposed-in-leak-siam-1849715382">Read more...</a></p>
+
+## A Guide to House of the Dragons’ Many, Many Dragons
+ - [https://gizmodo.com/house-of-the-dragons-game-of-thrones-vhagar-arrax-1849710928](https://gizmodo.com/house-of-the-dragons-game-of-thrones-vhagar-arrax-1849710928)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-10-28 15:45:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--PL97tq5I--/c_fit,fl_progressive,q_80,w_636/36ca45b0d38e1562dd6fa448d9a96d66.jpg" /><p>The final shot of <a href="https://gizmodo.com/everything-we-know-about-house-of-the-dragon-1847808778"><em>House of the Dragon</em></a>’s <a href="https://gizmodo.com/house-of-the-dragon-finale-recap-black-queen-episode-10-1849692400">season finale</a> made it abundantly clear: This is war. Queen Rhaenyra’s Blacks will battle the usurping King Aegon II’s Greens, but as Prince Daemon Targaryen pointed out, the Blacks have the advantage because they have more dragons. Let’s see how much firepower each faction has,…</p><p><a href="https://gizmodo.com/house-of-the-dragons-game-of-thrones-vhagar-arrax-1849710928">Read more...</a></p>
+
+## Webb Telescope Drops Creepy Image of the Pillars of Creation
+ - [https://gizmodo.com/webb-telescope-drops-creepy-image-of-the-pillars-of-cre-1849714897](https://gizmodo.com/webb-telescope-drops-creepy-image-of-the-pillars-of-cre-1849714897)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-10-28 15:35:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--ci35A0wy--/c_fit,fl_progressive,q_80,w_636/716c0616c2423bc64b29fd37a40d1238.jpg" /><p>A week and a half ago, <a href="https://gizmodo.com/webb-telescope-pillars-of-creation-1849676900">NASA released a stunning image</a> of the iconic Pillars of Creation taken by the Webb Space Telescope, a $10 billion state-of-the-art space observatory that launched last December.</p><p><a href="https://gizmodo.com/webb-telescope-drops-creepy-image-of-the-pillars-of-cre-1849714897">Read more...</a></p>
+
+## Sonic: Prime Sends the Hedgehog Out to the Multiverse
+ - [https://gizmodo.com/sonic-prime-netflix-new-trailer-eggman-tails-knuckles-1849714850](https://gizmodo.com/sonic-prime-netflix-new-trailer-eggman-tails-knuckles-1849714850)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-10-28 15:00:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--faJakcpi--/c_fit,fl_progressive,q_80,w_636/59eee6d08adba8659648c4d5fabd4c15.jpg" /><p>Following the first, <a href="https://gizmodo.com/sonic-prime-trailer-netflix-hedgehog-multiverse-1849557950">mysterious teaser</a> for the new Netflix-produced new <a href="https://gizmodo.com/higround-sonic-the-hedgehog-keyboard-capsule-collection-1849365004"><em>Sonic</em></a> show, the streaming service has finally released a second trailer, and this one does a much better job at letting us know what exactly is in store for our <a href="https://gizmodo.com/analogue-pocket-sega-genesis-fpga-core-super-nintendo-1849596758">fleet-footed</a> hedgehog friend—the multiverse.</p><p><a href="https://gizmodo.com/sonic-prime-netflix-new-trailer-eggman-tails-knuckles-1849714850">Read more...</a></p>
+
+## The 'Wolf of Airbnb' Has Been Indicted in 'Mini-Hotel' Subletting Scheme
+ - [https://gizmodo.com/wolf-of-airbnb-airbnb-sublets-nyc-1849714537](https://gizmodo.com/wolf-of-airbnb-airbnb-sublets-nyc-1849714537)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-10-28 14:50:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--X5BIGU7G--/c_fit,fl_progressive,q_80,w_636/16a150f6bc699cbcedde0b46f8d9f866.jpg" /><p>Konrad Bicher—the 31-year-old Florida native and self proclaimed <a href="https://gizmodo.com/airbnb-wolf-of-airbnb-fbi-konrad-bicher-1849319798">“Wolf of Airbnb”</a>—has been indicted following an FBI investigation into his illegal scheme of subletting Manhattan apartments while refusing to pay rent.<br /></p><p><a href="https://gizmodo.com/wolf-of-airbnb-airbnb-sublets-nyc-1849714537">Read more...</a></p>
+
+## You Can Now Protest at Home by Defacing Priceless NFT Art With Digital Mashed Potatoes
+ - [https://gizmodo.com/deface-nft-art-mashed-potatoes-protest-matt-reed-1849714660](https://gizmodo.com/deface-nft-art-mashed-potatoes-protest-matt-reed-1849714660)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-10-28 14:30:00+00:00
+ - Starred: False
+
+<video loop="" poster="https://i.kinja-img.com/gawker-media/image/upload/s--7QzBGPiO--/c_fit,fl_progressive,q_80,w_636/2e773e58166ce3c105e3e8b00d0b7db6.jpg"><source src="https://i.kinja-img.com/gawker-media/image/upload/s--mC-w9dpW--/c_fit,fl_progressive,q_80,w_636/2e773e58166ce3c105e3e8b00d0b7db6.mp4" type="video/mp4" /></video><p>Attempting to deface or destroy priceless works of art in the name of climate activism is all the rage right now, but what if you can’t make it to the Louvre in Paris, or the National Gallery in London? Don’t worry, there are still thousands of priceless works of art available online, and Matt Reed has <a href="https://github.com/redpepperdev/protest-o-matic" rel="noopener noreferrer" target="_blank">created a…</a></p><p><a href="https://gizmodo.com/deface-nft-art-mashed-potatoes-protest-matt-reed-1849714660">Read more...</a></p>
+
+## William Jackson Harper Is Joining the MCU, and It Could Be in a Huge Role
+ - [https://gizmodo.com/william-jackson-harper-ant-man-quantumania-reed-richard-1849710059](https://gizmodo.com/william-jackson-harper-ant-man-quantumania-reed-richard-1849710059)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-10-28 14:15:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--pyYjWnfs--/c_fit,fl_progressive,q_80,w_636/e5514d40b3a78b8e4c1882e8d0d906ed.png" /><p>A new <em>Night of the Living Dead</em> is shambling our way. R.L. Stine’s <em>Zombie Town</em> movie gets a new poster. Namor strikes in new <em>Black Panther: Wakanda Forever</em> footage. Plus, a new <em>Rick and Morty</em> short is on the way for Halloween. To me, my spoilers!<br /></p><p><a href="https://gizmodo.com/william-jackson-harper-ant-man-quantumania-reed-richard-1849710059">Read more...</a></p>
+
+## NASA Photos Showcase the Growing Role of Women in Space Over the Years
+ - [https://gizmodo.com/nasa-photos-growing-role-women-space-spaceflight-1849701264](https://gizmodo.com/nasa-photos-growing-role-women-space-spaceflight-1849701264)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-10-28 14:10:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--aMqcTt4H--/c_fit,fl_progressive,q_80,w_636/66a7cbe072e09f4f0cc708b0eb5afb1e.jpg" /><p>It’s been nearly 40 years since <a href="https://gizmodo.com/northrop-grumman-names-cygnus-spacecraft-for-sally-ride-1849615931">NASA astronaut Sally Ride</a> became the first U.S. woman to go to space. Since then, women have made great strides in the field, breaking through barriers and making significant contributions to spaceflight. </p><p><a href="https://gizmodo.com/nasa-photos-growing-role-women-space-spaceflight-1849701264">Read more...</a></p>
+
+## Gambling, Sex, and Red Pills: The Worst Ads We've Seen in Apple's App Store (so Far)
+ - [https://gizmodo.com/apple-app-store-worst-ads-gambling-porn-propaganda-1849711515](https://gizmodo.com/apple-app-store-worst-ads-gambling-porn-propaganda-1849711515)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-10-28 13:00:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--xz79_P1L--/c_fit,fl_progressive,q_80,w_636/332266c18937af86e6a6a4fd4db6f74b.jpg" /><p>On Tuesday, Apple followed through on its promise to  start <a href="https://gizmodo.com/apple-app-store-ads-today-tab-homepage-1849694826">filling the App Store</a> up with more advertising. Almost immediately, people took to the internet to complain about the bizarre and sometimes seedy ads they were seeing. Apple made an abrupt policy change days later,  “pausing” (but not banning) ads for…</p><p><a href="https://gizmodo.com/apple-app-store-worst-ads-gambling-porn-propaganda-1849711515">Read more...</a></p>
+
+## The Free BYRD Earbuds, Beyerdynamic’s First Ever True Wireless Buds, Are Pretty Impressive
+ - [https://gizmodo.com/beyerdynamic-free-byrd-headphones-true-wireless-review-1849655607](https://gizmodo.com/beyerdynamic-free-byrd-headphones-true-wireless-review-1849655607)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-10-28 13:00:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--5ZujbDav--/c_fit,fl_progressive,q_80,w_636/3985c273a7b19644d193946983ada6d4.png" /><p>Beyerdynamic has been producing brilliant audio peripherals for a while now, and has gained quite a reputation in the industry. However, prior to introducing the Free BYRD earbuds, the company hadn’t tapped into True Wireless. Released in around mid-2022, the Free BYRD buds feature powerful ANC, heavy bass, and a…</p><p><a href="https://gizmodo.com/beyerdynamic-free-byrd-headphones-true-wireless-review-1849655607">Read more...</a></p>
+
+## Cops Used to Shoot at Training Movies in the 1950s
+ - [https://gizmodo.com/cops-used-to-shoot-at-training-movies-in-the-1950s-1848497957](https://gizmodo.com/cops-used-to-shoot-at-training-movies-in-the-1950s-1848497957)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-10-28 11:00:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--sTNG-Ob---/c_fit,fl_progressive,q_80,w_636/3b602948951889c05f2d9b100bca358b.jpg" /><p>Training police with virtual reality has become all the rage here in the 2020s, giving cops an “<a href="https://gizmodo.com/axon-police-vr-virtual-reality-training-empathy-taser-b-1848970313">immersive</a>” experience without actually having to fire their weapon. But, believe it or not, police were trying simulated firearms training long before VR was a thing. And it was all happening with old fashioned movie film.</p><p><a href="https://gizmodo.com/cops-used-to-shoot-at-training-movies-in-the-1950s-1848497957">Read more...</a></p>
+
+## Elon Musk Fires Twitter Execs as Platform Braces for Donald Trump's Return
+ - [https://gizmodo.com/elon-musk-twitter-donald-trump-return-maga-ceo-bitcoin-1849714038](https://gizmodo.com/elon-musk-twitter-donald-trump-return-maga-ceo-bitcoin-1849714038)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-10-28 10:15:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--0bA9cwMb--/c_fit,fl_progressive,q_80,w_636/eaf47f619b0318d40408999a7f4b6784.jpg" /><p>Elon Musk fired at least four senior executives at Twitter and is expected to make himself CEO after finalizing the deal to buy the company for $44 billion on Thursday. Users of the social media platform are bracing for sweeping changes to the platform, including the reintroduction of white supremacists like former…</p><p><a href="https://gizmodo.com/elon-musk-twitter-donald-trump-return-maga-ceo-bitcoin-1849714038">Read more...</a></p>
+
+## You Won't Be Disappointed Choosing the Nothing Ear (stick) Wireless Earbuds Over the Latest AirPods
+ - [https://gizmodo.com/review-nothing-ear-stick-wireless-earbuds-1849637860](https://gizmodo.com/review-nothing-ear-stick-wireless-earbuds-1849637860)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-10-28 09:00:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--RR-_XC9l--/c_fit,fl_progressive,q_80,w_636/b698aaf253070216feb1b204f57060dc.jpg" /><p>Although the company’s specialty seems to be manufacturing hype, after the <a href="https://gizmodo.com/nothings-overhyped-earbuds-are-actually-extremely-good-1847258007">Ear (1)</a> and <a href="https://gizmodo.com/nothing-phone-1-review-glyph-camera-launcher-price-us-1849179261">Phone (1)</a>, Nothing is back with its third product: another set of wireless earbuds that  deliver solid performance (with a side of gimmick) at a very compelling price that makes them hard to ignore, even for iPhone users.</p><p><a href="https://gizmodo.com/review-nothing-ear-stick-wireless-earbuds-1849637860">Read more...</a></p>
+
+## Chadwick Boseman's Family Was Consulted on Black Panther: Wakanda Forever
+ - [https://gizmodo.com/black-panther-wakanda-forever-chadwick-boseman-family-1849713084](https://gizmodo.com/black-panther-wakanda-forever-chadwick-boseman-family-1849713084)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-10-28 00:30:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--vSZZIgUT--/c_fit,fl_progressive,q_80,w_636/81815323d33c5ce4450e722377225c3c.jpg" /><p>Losing <a href="https://gizmodo.com/marvel-what-if-chadwick-boseman-emmy-award-1849494831">Chadwick Boseman</a> during the build-up to <em>Black Panther: Wakanda Forever</em> was more than just losing the star of the film. <a href="https://gizmodo.com/chadwick-boseman-star-of-black-panther-has-passed-awa-1844887429">It lost its heart</a>. The actor was everything to the franchise and his tragic passing could have very easily seen the film wiped away for good. But the team behind the movie didn’t let that…</p><p><a href="https://gizmodo.com/black-panther-wakanda-forever-chadwick-boseman-family-1849713084">Read more...</a></p>

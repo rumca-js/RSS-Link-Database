@@ -1,3 +1,318 @@
+## Digital Government Is No Longer An Option, It Is An Imperative
+ - [https://www.forbes.com/sites/markminevich/2022/10/29/digital-government-is-no-longer-an-option-it-is-an-imperative/](https://www.forbes.com/sites/markminevich/2022/10/29/digital-government-is-no-longer-an-option-it-is-an-imperative/)
+ - RSS feed: https://www.forbes.com/innovation/feed2
+ - date published: 2022-10-29 14:30:20+00:00
+ - Starred: True
+
+
+## #COVIDIsAirborne #BringBackMasks Trend, Questioning CDC Director’s Tweet on Covid-19 Precautions
+ - [https://www.forbes.com/sites/brucelee/2022/10/29/covidisairborne-bringbackmasks-trend-questioning-cdc-directors-tweet-on-covid-19-precautions/](https://www.forbes.com/sites/brucelee/2022/10/29/covidisairborne-bringbackmasks-trend-questioning-cdc-directors-tweet-on-covid-19-precautions/)
+ - RSS feed: https://www.forbes.com/innovation/feed2
+ - date published: 2022-10-29 08:31:24+00:00
+ - Starred: True
+
+
+## Chiny przejmują niemieckie firmy. Głównie technologiczne. Bild: Scholz to lobbysta Pekinu
+ - [https://www.bankier.pl/wiadomosc/Chiny-przejmuja-niemieckie-firmy-Glownie-technologiczne-Bild-Scholz-to-lobbysta-Pekinu-8431108.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Chiny-przejmuja-niemieckie-firmy-Glownie-technologiczne-Bild-Scholz-to-lobbysta-Pekinu-8431108.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2022-10-29 05:52:00+00:00
+ - Starred: True
+
+
+## China's zero-Covid policy no longer about health... It's about power and mass surveillance
+ - [https://www.dailymail.co.uk/debate/article-11367185/Chinas-zero-Covid-policy-no-longer-health-power-mass-surveillance.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/debate/article-11367185/Chinas-zero-Covid-policy-no-longer-health-power-mass-surveillance.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-10-29 00:22:48+00:00
+ - Starred: True
+
+
+## Elon Musk says Twitter will have a ‘content moderation council’
+ - [https://www.theverge.com/2022/10/28/23428792/elon-musk-twitter-content-moderation-council-trump](https://www.theverge.com/2022/10/28/23428792/elon-musk-twitter-content-moderation-council-trump)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-10-28 18:43:44+00:00
+ - Starred: True
+
+
+## Google ‘targeting Senate’ after study shows ‘search bias’ doesn’t impact House, Media Research Center says
+ - [https://www.foxnews.com/media/google-targeting-senate-after-study-shows-search-bias-doesnt-impact-house-media-research-center-says](https://www.foxnews.com/media/google-targeting-senate-after-study-shows-search-bias-doesnt-impact-house-media-research-center-says)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-10-28 17:05:48+00:00
+ - Starred: True
+
+
+## If You're Deleting Twitter, Archive Your Tweets and DMs First     - CNET
+ - [https://www.cnet.com/tech/services-and-software/if-youre-deleting-twitter-archive-your-tweets-and-dms-first/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/if-youre-deleting-twitter-archive-your-tweets-and-dms-first/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2022-10-28 16:20:03+00:00
+ - Starred: True
+
+
+## COVID-19 pandemic 'likely' originated with Chinese lab leak, Senate Republican report finds
+ - [https://www.foxnews.com/politics/covid-19-pandemic-likely-originated-chinese-lab-leak-senate-republican-report-finds](https://www.foxnews.com/politics/covid-19-pandemic-likely-originated-chinese-lab-leak-senate-republican-report-finds)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-10-28 15:19:51+00:00
+ - Starred: True
+
+
+## By The End Of 2023, Only 1 In 5 European Citizens Will Still Trust Their Government
+ - [https://www.forbes.com/sites/forrester/2022/10/28/by-the-end-of-2023-only-1-in-5-european-citizens-will-still-trust-their-government/](https://www.forbes.com/sites/forrester/2022/10/28/by-the-end-of-2023-only-1-in-5-european-citizens-will-still-trust-their-government/)
+ - RSS feed: https://www.forbes.com/innovation/feed2
+ - date published: 2022-10-28 13:11:25+00:00
+ - Starred: True
+
+
+## Researchers Say Environmentally Conscious Shoppers Don’t Bring Reusable Bags To The Store
+ - [https://www.forbes.com/sites/jeffkart/2022/10/28/researchers-say-environmentally-conscious-shoppers-dont-bring-reusable-bags-to-the-store/](https://www.forbes.com/sites/jeffkart/2022/10/28/researchers-say-environmentally-conscious-shoppers-dont-bring-reusable-bags-to-the-store/)
+ - RSS feed: https://www.forbes.com/innovation/feed2
+ - date published: 2022-10-28 13:00:00+00:00
+ - Starred: True
+
+
+## AI's true goal may no longer be intelligence
+ - [https://www.zdnet.com/article/ai-true-goal-may-no-longer-be-intelligence/#ftag=RSSbaffb68](https://www.zdnet.com/article/ai-true-goal-may-no-longer-be-intelligence/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2022-10-28 12:00:00+00:00
+ - Starred: True
+
+
+## I use a Raspberry Pi as my daily computer for over a year now
+ - [https://www.heyhomepage.com/?module=blog&link=1&post=4](https://www.heyhomepage.com/?module=blog&link=1&post=4)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-10-28 10:24:59+00:00
+ - Starred: True
+
+
+## Mark Zuckerberg is lost in the abyss of a struggling metaverse
+ - [https://www.lemonde.fr/en/pixels/article/2022/10/28/mark-zuckerberg-is-lost-in-the-abyss-of-a-struggling-metaverse_6002091_13.html](https://www.lemonde.fr/en/pixels/article/2022/10/28/mark-zuckerberg-is-lost-in-the-abyss-of-a-struggling-metaverse_6002091_13.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2022-10-28 09:22:30+00:00
+ - Starred: True
+
+
+## Why Is Markdown Popular?
+ - [https://www.russellbeattie.com/notes/posts/why-is-markdown-popular.html](https://www.russellbeattie.com/notes/posts/why-is-markdown-popular.html)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-10-28 07:21:00+00:00
+ - Starred: True
+
+
+## After PayPal Revokes Controversial Misinformation Policy, Major Concerns Remain Over $2,500 Fine
+ - [https://www.msn.com/en-us/money/other/after-paypal-revokes-controversial-misinformation-policy-major-concerns-remain-over-242500-fine/ar-AA13spo1](https://www.msn.com/en-us/money/other/after-paypal-revokes-controversial-misinformation-policy-major-concerns-remain-over-242500-fine/ar-AA13spo1)
+ - RSS feed: https://www.msn.com
+ - date published: 2022-10-28 07:13:52+00:00
+ - Starred: True
+
+
+## China Covid: Millions back in lockdown as Beijing doubles down on zero-Covid
+ - [https://www.bbc.co.uk/news/world-asia-china-63410341?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-china-63410341?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-10-28 04:36:01+00:00
+ - Starred: True
+
+
+## Xi's 'action men' now lead China's military. Here's what that means for Taiwan
+ - [https://www.cnn.com/2022/10/27/china/china-central-military-commission-taiwan-intl-hnk-mic-ml/index.html](https://www.cnn.com/2022/10/27/china/china-central-military-commission-taiwan-intl-hnk-mic-ml/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-10-28 03:11:32+00:00
+ - Starred: True
+
+
+## Elon Musk completes Twitter purchase, immediately fires CEO and other execs
+ - [https://arstechnica.com/?p=1893477](https://arstechnica.com/?p=1893477)
+ - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
+ - date published: 2022-10-28 01:52:05+00:00
+ - Starred: True
+
+
+## EU lawmakers agree to phase out combustion-engine cars by 2035
+ - [https://www.dailymail.co.uk/news/article-11363035/EU-lawmakers-agree-phase-combustion-engine-cars-2035.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11363035/EU-lawmakers-agree-phase-combustion-engine-cars-2035.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-10-27 23:12:50+00:00
+ - Starred: True
+
+
+## Musk Fires Person Who Censored Hunter Biden Story, Banned Conservative Accounts: ‘Buckle Up, Motherf*****s’
+ - [https://www.dailywire.com/news/musk-fires-person-who-censored-hunter-biden-story-banned-conservative-accounts-buckle-up-motherfs](https://www.dailywire.com/news/musk-fires-person-who-censored-hunter-biden-story-banned-conservative-accounts-buckle-up-motherfs)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-10-27 21:37:06+00:00
+ - Starred: True
+
+
+## OpenSSL is patching just its second critical security flaw ever
+ - [https://www.techradar.com/news/openssl-is-patching-just-its-second-critical-security-flaw-ever/](https://www.techradar.com/news/openssl-is-patching-just-its-second-critical-security-flaw-ever/)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2022-10-27 21:25:44+00:00
+ - Starred: True
+
+
+## Google execs knew 'Incognito mode' failed to protect privacy, suit claims
+ - [https://www.computerworld.com/article/3678190/google-execs-knew-incognito-mode-failed-to-protect-privacy-suit-claims.html#tk.rss_all](https://www.computerworld.com/article/3678190/google-execs-knew-incognito-mode-failed-to-protect-privacy-suit-claims.html#tk.rss_all)
+ - RSS feed: https://www.computerworld.com/index.rss
+ - date published: 2022-10-27 20:47:00+00:00
+ - Starred: True
+
+
+## We’re Dropping Google Ads (2017)
+ - [https://www.groundup.org.za/article/why-were-dropping-google-ads/](https://www.groundup.org.za/article/why-were-dropping-google-ads/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-10-27 20:44:28+00:00
+ - Starred: True
+
+
+## Szef Pentagonu: Chiny są jedynym rywalem zagrażającym pozycji USA
+ - [https://tvn24.pl/swiat/usa-szef-pentagonu-chiny-sa-jedynym-rywalem-zagrazajacym-pozycji-stanow-zjednoczonych-6183149?source=rss](https://tvn24.pl/swiat/usa-szef-pentagonu-chiny-sa-jedynym-rywalem-zagrazajacym-pozycji-stanow-zjednoczonych-6183149?source=rss)
+ - RSS feed: https://tvn24.pl/najnowsze.xml
+ - date published: 2022-10-27 18:03:43+00:00
+ - Starred: True
+
+
+## Democrats wondering 'why we suck' as they face possible midterm losses: Politico column
+ - [https://www.foxnews.com/media/democrats-wondering-why-we-suck-they-face-possible-midterm-losses-politico-column](https://www.foxnews.com/media/democrats-wondering-why-we-suck-they-face-possible-midterm-losses-politico-column)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-10-27 18:00:34+00:00
+ - Starred: True
+
+
+## Followers of QAnon Satanic pedophile elite theory JUMPED 5% this year to 49 million
+ - [https://www.dailymail.co.uk/news/article-11361297/Followers-QAnon-Satanic-pedophile-elite-theory-JUMPED-5-year-49-million.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11361297/Followers-QAnon-Satanic-pedophile-elite-theory-JUMPED-5-year-49-million.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-10-27 16:32:31+00:00
+ - Starred: True
+
+
+## The rise of biodigital surveillance
+ - [https://compactmag.com/article/the-rise-of-biodigital-surveillance](https://compactmag.com/article/the-rise-of-biodigital-surveillance)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-10-27 15:39:43+00:00
+ - Starred: True
+
+
+## Google Kills Chrome For Millions Of Windows Users
+ - [https://www.forbes.com/sites/gordonkelly/2022/10/27/google-chrome-browser-windows-support-new-end-date/](https://www.forbes.com/sites/gordonkelly/2022/10/27/google-chrome-browser-windows-support-new-end-date/)
+ - RSS feed: https://www.forbes.com/innovation/feed2
+ - date published: 2022-10-27 12:19:54+00:00
+ - Starred: True
+
+
+## US Citizens Were Given Secret Covid “decree violation” Scores
+ - [https://www.activistpost.com/2022/10/us-citizens-were-given-secret-covid-decree-violation-scores.html](https://www.activistpost.com/2022/10/us-citizens-were-given-secret-covid-decree-violation-scores.html)
+ - RSS feed: https://www.activistpost.com
+ - date published: 2022-10-27 12:14:56+00:00
+ - Starred: True
+
+
+## Chiny naciskają na dzietność. Reuters: władze dzwonią do kobiet i pytają, kiedy zajdą w ciążę
+ - [https://tvn24.pl/swiat/chiny-naciskaja-na-dzietnosc-wladze-maja-dzwonic-do-kobiet-z-pytaniami-o-ciaze-xi-jinping-chce-wiecej-urodzen-6182455?source=rss](https://tvn24.pl/swiat/chiny-naciskaja-na-dzietnosc-wladze-maja-dzwonic-do-kobiet-z-pytaniami-o-ciaze-xi-jinping-chce-wiecej-urodzen-6182455?source=rss)
+ - RSS feed: https://tvn24.pl/najnowsze.xml
+ - date published: 2022-10-27 11:32:18+00:00
+ - Starred: True
+
+
+## Facebook photo sparks NSW ambulance diversity probe
+ - [https://www.dailymail.co.uk/news/article-11360651/Facebook-photo-sparks-NSW-ambulance-diversity-probe.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11360651/Facebook-photo-sparks-NSW-ambulance-diversity-probe.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-10-27 11:22:52+00:00
+ - Starred: True
+
+
+## EA has bad news for gamers who like physical games
+ - [https://www.techradar.com/news/ea-has-bad-news-for-gamers-who-like-physical-games/](https://www.techradar.com/news/ea-has-bad-news-for-gamers-who-like-physical-games/)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2022-10-27 11:13:42+00:00
+ - Starred: True
+
+
+## The Scientist’s Warning: Climate Change Has Pushed Earth To ‘Code Red’
+ - [https://www.forbes.com/sites/davidbressan/2022/10/27/the-scientists-warning-climate-change-has-pushed-earth-to-code-red/](https://www.forbes.com/sites/davidbressan/2022/10/27/the-scientists-warning-climate-change-has-pushed-earth-to-code-red/)
+ - RSS feed: https://www.forbes.com/innovation/feed2
+ - date published: 2022-10-27 11:10:19+00:00
+ - Starred: True
+
+
+## YouTube na minusie. Coraz większy kawałek tortu dla TikToka
+ - [https://www.bankier.pl/wiadomosc/YouTube-na-minusie-Przychody-z-reklam-spadly-8429745.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/YouTube-na-minusie-Przychody-z-reklam-spadly-8429745.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2022-10-27 10:00:00+00:00
+ - Starred: True
+
+
+## Pełna cyfryzacja recept staje się faktem. Dane nie pozostawiają wątpliwości
+ - [https://www.bankier.pl/wiadomosc/Pelna-cyfryzacja-recept-staje-sie-faktem-Dane-nie-pozostawiaja-watpliwosci-8429787.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Pelna-cyfryzacja-recept-staje-sie-faktem-Dane-nie-pozostawiaja-watpliwosci-8429787.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2022-10-27 09:35:00+00:00
+ - Starred: True
+
+
+## Chińskie BOE zapowiedziało imponujące transparentne wyświetlacze
+ - [https://ithardware.pl/aktualnosci/chinskie_boe_zapowiedzialo_imponujace_transparentne_wyswietlacze-24059.html](https://ithardware.pl/aktualnosci/chinskie_boe_zapowiedzialo_imponujace_transparentne_wyswietlacze-24059.html)
+ - RSS feed: https://ithardware.pl/feed
+ - date published: 2022-10-27 09:07:20+00:00
+ - Starred: True
+
+
+## Politico: USA przyspieszają rozmieszczenie zmodernizowanych bomb atomowych w Europie
+ - [https://www.bankier.pl/wiadomosc/Politico-USA-przyspieszaja-rozmieszczenie-zmodernizowanych-bomb-atomowych-w-Europie-8429750.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Politico-USA-przyspieszaja-rozmieszczenie-zmodernizowanych-bomb-atomowych-w-Europie-8429750.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2022-10-27 08:44:00+00:00
+ - Starred: True
+
+
+## 'Israel's actions against Palestinians must be recognized as equivalent to the crime of apartheid'
+ - [https://www.lemonde.fr/en/opinion/article/2022/10/27/israel-s-actions-against-palestinians-must-be-recognized-as-equivalent-to-the-crime-of-apartheid_6001963_23.html](https://www.lemonde.fr/en/opinion/article/2022/10/27/israel-s-actions-against-palestinians-must-be-recognized-as-equivalent-to-the-crime-of-apartheid_6001963_23.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2022-10-27 08:39:19+00:00
+ - Starred: True
+
+
+## LinkedIn Wants To Help Users Detect And Report Fake Accounts
+ - [https://www.forbes.com/sites/emmawoollacott/2022/10/27/linkedin-wants-to-help-users-detect-and-report-fake-accounts/](https://www.forbes.com/sites/emmawoollacott/2022/10/27/linkedin-wants-to-help-users-detect-and-report-fake-accounts/)
+ - RSS feed: https://www.forbes.com/innovation/feed2
+ - date published: 2022-10-27 08:38:29+00:00
+ - Starred: True
+
+
+## Służby biją na alarm. Strach przed planami Chin
+ - [https://www.wykop.pl/link/6876677/sluzby-bija-na-alarm-strach-przed-planami-chin/](https://www.wykop.pl/link/6876677/sluzby-bija-na-alarm-strach-przed-planami-chin/)
+ - RSS feed: https://www.wykop.pl/rss/index.xml/
+ - date published: 2022-10-27 07:21:01+00:00
+ - Starred: True
+
+
+## Meta met a programming language it likes better than Java
+ - [https://www.codeproject.com/script/News/View.aspx?nwid=59322](https://www.codeproject.com/script/News/View.aspx?nwid=59322)
+ - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
+ - date published: 2022-10-27 04:00:00+00:00
+ - Starred: True
+
+
+## As Meta’s revenue decline accelerates, shares sink 14 percent
+ - [https://www.reddit.com/r/news/comments/yedeaj/as_metas_revenue_decline_accelerates_shares_sink/](https://www.reddit.com/r/news/comments/yedeaj/as_metas_revenue_decline_accelerates_shares_sink/)
+ - RSS feed: http://www.reddit.com/r/news/.rss
+ - date published: 2022-10-27 00:19:37+00:00
+ - Starred: True
+
+
+## Zuckerberg is all in on the metaverse whether you like it or not
+ - [https://www.theverge.com/2022/10/26/23425429/meta-qg-2022-earnings-facebook-metaverse-mark-zuckerberg](https://www.theverge.com/2022/10/26/23425429/meta-qg-2022-earnings-facebook-metaverse-mark-zuckerberg)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-10-26 22:40:37+00:00
+ - Starred: True
+
+
+## Facebook Segments Ads by Race and Age Based on Photos Whether Advertisers Want It or Not, Study Says
+ - [https://gizmodo.com/facebook-meta-photos-ads-race-gender-age-study-1849706492](https://gizmodo.com/facebook-meta-photos-ads-race-gender-age-study-1849706492)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-10-26 21:55:00+00:00
+ - Starred: True
+
+
+## Scientists: COVID Restrictions Caused ‘Immunity Gap,’ Leading To Virus Uptick In Children
+ - [https://www.dailywire.com/news/scientists-covid-restrictions-caused-immunity-gap-leading-to-virus-uptick-in-children](https://www.dailywire.com/news/scientists-covid-restrictions-caused-immunity-gap-leading-to-virus-uptick-in-children)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-10-26 18:06:39+00:00
+ - Starred: True
+
+
 ## Google profits plummet 27 percent in Q3 2022 earnings report
  - [https://arstechnica.com/gadgets/2022/10/google-profits-plummet-27-percent-in-q3-2022-earnings-report/](https://arstechnica.com/gadgets/2022/10/google-profits-plummet-27-percent-in-q3-2022-earnings-report/)
  - RSS feed: https://hnrss.org/frontpage
@@ -985,6 +1300,13 @@
  - Starred: True
 
 
+## Two thirds of voters say crime is up and blame 'woke politicians' for the rise
+ - [https://www.dailymail.co.uk/news/article-11323883/Two-thirds-voters-say-crime-blame-woke-politicians-rise.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11323883/Two-thirds-voters-say-crime-blame-woke-politicians-rise.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-10-17 15:37:14+00:00
+ - Starred: True
+
+
 ## Notorious 'Defund the Police' councilwoman demands police catch whoever is throwing poop on her house
  - [https://www.louderwithcrowder.com/seattle-councilwoman-police-poop](https://www.louderwithcrowder.com/seattle-councilwoman-police-poop)
  - RSS feed: http://louderwithcrowder.com/feed/
@@ -1139,6 +1461,13 @@
  - Starred: True
 
 
+## Dr. Phil speaks out on the dangers of cancel culture and censorship
+ - [https://www.foxnews.com/media/dr-phil-speaks-dangers-cancel-culture-censorship](https://www.foxnews.com/media/dr-phil-speaks-dangers-cancel-culture-censorship)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-10-12 05:22:18+00:00
+ - Starred: True
+
+
 ## Mark Zuckerberg takes a shot at Apple’s closed ecosystem
  - [https://www.theverge.com/2022/10/11/23399168/mark-zuckerberg-meta-metaverse-apple-vr-open-closed-ecosystem](https://www.theverge.com/2022/10/11/23399168/mark-zuckerberg-meta-metaverse-apple-vr-open-closed-ecosystem)
  - RSS feed: https://www.theverge.com/rss/index.xml
@@ -1206,6 +1535,13 @@
  - [https://www.dailymail.co.uk/news/article-11300903/YouTube-investor-Hamish-Hodder-predicting-Australias-housing-market-collapse.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11300903/YouTube-investor-Hamish-Hodder-predicting-Australias-housing-market-collapse.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-10-11 04:07:23+00:00
+ - Starred: True
+
+
+## Comedian John Cleese vows his new show will take on ‘censored’ topics: ‘Be prepared to be shocked’
+ - [https://www.foxnews.com/media/comedian-john-cleese-vows-new-show-take-censored-topics-prepared-shocked](https://www.foxnews.com/media/comedian-john-cleese-vows-new-show-take-censored-topics-prepared-shocked)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-10-11 00:04:12+00:00
  - Starred: True
 
 
@@ -1794,6 +2130,13 @@
  - [https://www.dailymail.co.uk/news/article-11279311/CIA-director-Bill-Burns-says-Chinas-Xi-sobered-Russias-poor-performance-Ukraine.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11279311/CIA-director-Bill-Burns-says-Chinas-Xi-sobered-Russias-poor-performance-Ukraine.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-10-04 14:57:08+00:00
+ - Starred: True
+
+
+## Przedszkole LGBT w Berlinie. Kontrowersyjna postać w zarządzie
+ - [https://www.polsatnews.pl/wiadomosc/2022-10-04/przedszkole-lgbt-w-berlinie-kontrowersyjna-postac-w-zarzadzie/](https://www.polsatnews.pl/wiadomosc/2022-10-04/przedszkole-lgbt-w-berlinie-kontrowersyjna-postac-w-zarzadzie/)
+ - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
+ - date published: 2022-10-04 14:04:00+00:00
  - Starred: True
 
 
@@ -5325,6 +5668,13 @@
  - Starred: True
 
 
+## ‘Embrace the chaos’: a history of Uber’s rapid expansion and fall from favour
+ - [https://www.theguardian.com/news/2022/jul/15/embrace-the-chaos-a-history-of-ubers-rapid-expansion-and-fall-from-favour](https://www.theguardian.com/news/2022/jul/15/embrace-the-chaos-a-history-of-ubers-rapid-expansion-and-fall-from-favour)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-07-28 14:10:12+00:00
+ - Starred: True
+
+
 ## Report: Google is spying on competing apps on Android to give its own services a boost
  - [https://mspoweruser.com/report-google-is-spying-on-competing-apps-on-android-to-give-its-own-services-a-boost](https://mspoweruser.com/report-google-is-spying-on-competing-apps-on-android-to-give-its-own-services-a-boost)
  - RSS feed: mspoweruser.com
@@ -6141,6 +6491,13 @@
  - [https://trojmiasto.wyborcza.pl/trojmiasto/7,35612,25825997,ministerstwo-zdrowia-zakazuje-lekarzom-mowic-o-koronawirusie.html?squid_js=false](https://trojmiasto.wyborcza.pl/trojmiasto/7,35612,25825997,ministerstwo-zdrowia-zakazuje-lekarzom-mowic-o-koronawirusie.html?squid_js=false)
  - RSS feed: trojmiasto.wyborcza.pl
  - date published: 2020-03-27 07:52:59+00:00
+ - Starred: True
+
+
+## Yuval Noah Harari: the world after coronavirus | Free to read
+ - [https://www.ft.com/content/19d90308-6858-11ea-a3c9-1fe6fedcca75#comments-anchor](https://www.ft.com/content/19d90308-6858-11ea-a3c9-1fe6fedcca75#comments-anchor)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2020-03-20 14:11:41+00:00
  - Starred: True
 
 
