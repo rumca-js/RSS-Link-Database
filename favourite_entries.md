@@ -1,7 +1,21 @@
+## Florida medical board votes to ban gender-affirming care for transgender minors
+ - [https://www.reddit.com/r/news/comments/ygnjd3/florida_medical_board_votes_to_ban/](https://www.reddit.com/r/news/comments/ygnjd3/florida_medical_board_votes_to_ban/)
+ - RSS feed: http://www.reddit.com/r/news/.rss
+ - date published: 2022-10-29 16:09:13+00:00
+ - Starred: True
+
+
 ## Digital Government Is No Longer An Option, It Is An Imperative
  - [https://www.forbes.com/sites/markminevich/2022/10/29/digital-government-is-no-longer-an-option-it-is-an-imperative/](https://www.forbes.com/sites/markminevich/2022/10/29/digital-government-is-no-longer-an-option-it-is-an-imperative/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-10-29 14:30:20+00:00
+ - Starred: True
+
+
+## Twitter could split into strands allowing users to stage rows, Elon Musk says
+ - [https://www.theguardian.com/technology/2022/oct/29/twitter-elon-musk-pvp-row-strands](https://www.theguardian.com/technology/2022/oct/29/twitter-elon-musk-pvp-row-strands)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-10-29 12:36:44+00:00
  - Starred: True
 
 
