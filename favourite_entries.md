@@ -1,3 +1,101 @@
+## China braces for wave of workers fleeing iPhone factory in Covid-hit Zhengzhou
+ - [https://www.theguardian.com/technology/2022/oct/30/china-braces-for-wave-of-workers-fleeing-iphone-factory-in-covid-hit-zhengzhou](https://www.theguardian.com/technology/2022/oct/30/china-braces-for-wave-of-workers-fleeing-iphone-factory-in-covid-hit-zhengzhou)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-10-30 14:03:24+00:00
+ - Starred: True
+
+
+## Analitycy: Większość projektów biznesowych Metaverse zniknie do 2025 r.
+ - [https://ithardware.pl/aktualnosci/wiekszosc_projektow_biznesowych_metaverse_zniknie_do_2025_r-24071.html](https://ithardware.pl/aktualnosci/wiekszosc_projektow_biznesowych_metaverse_zniknie_do_2025_r-24071.html)
+ - RSS feed: https://ithardware.pl/feed
+ - date published: 2022-10-30 13:24:20+00:00
+ - Starred: True
+
+
+## PS4/PS5 exploit that is “essentially unpatchable”
+ - [https://arstechnica.com/gaming/2022/09/console-hacker-reveals-ps4-ps5-exploit-that-is-essentially-unpatchable/](https://arstechnica.com/gaming/2022/09/console-hacker-reveals-ps4-ps5-exploit-that-is-essentially-unpatchable/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-10-30 10:55:24+00:00
+ - Starred: True
+
+
+## Twitter trolls bombard platform after Elon Musk takeover
+ - [https://www.theguardian.com/technology/2022/oct/30/twitter-trolls-bombard-platform-after-elon-musk-takeover](https://www.theguardian.com/technology/2022/oct/30/twitter-trolls-bombard-platform-after-elon-musk-takeover)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-10-30 10:54:30+00:00
+ - Starred: True
+
+
+## Twitter deal may signal point when the ‘everything bubble’ bursts
+ - [https://www.theguardian.com/business/2022/oct/30/twitter-deal-may-signal-turning-point-when-the-everything-bubble-bursts](https://www.theguardian.com/business/2022/oct/30/twitter-deal-may-signal-turning-point-when-the-everything-bubble-bursts)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-10-30 10:16:25+00:00
+ - Starred: True
+
+
+## Italy to reinstate health workers who did not comply with COVID vaccine mandates
+ - [https://www.foxnews.com/world/italy-reinstate-health-workers-suspended-not-complying-covid-vaccine-mandates](https://www.foxnews.com/world/italy-reinstate-health-workers-suspended-not-complying-covid-vaccine-mandates)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-10-30 09:02:34+00:00
+ - Starred: True
+
+
+## Powtórka z wielkiej recesji? W USA słabnie optymizm co do losów przyszłego pokolenia
+ - [https://www.bankier.pl/wiadomosc/Powtorka-z-wielkiej-recesji-W-USA-slabnie-optymizm-co-do-losow-przyszlego-pokolenia-8428884.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Powtorka-z-wielkiej-recesji-W-USA-slabnie-optymizm-co-do-losow-przyszlego-pokolenia-8428884.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2022-10-30 09:00:00+00:00
+ - Starred: True
+
+
+## Giza virtual trip in pyramid
+ - [https://giza.mused.org/en/](https://giza.mused.org/en/)
+ - RSS feed: https://giza.mused.org/en/
+ - date published: 2022-10-30 08:55:05+00:00
+ - Starred: True
+
+
+## Telefon Liz Truss zhakowany. Media: Wyciekły tajne dane
+ - [https://wydarzenia.interia.pl/zagranica/news-telefon-liz-truss-zhakowany-media-wyciekly-tajne-dane,nId,6380088](https://wydarzenia.interia.pl/zagranica/news-telefon-liz-truss-zhakowany-media-wyciekly-tajne-dane,nId,6380088)
+ - RSS feed: https://wydarzenia.interia.pl/feed
+ - date published: 2022-10-30 08:43:22+00:00
+ - Starred: True
+
+
+## The FFmpeg Tutorial
+ - [http://dranger.com/ffmpeg/](http://dranger.com/ffmpeg/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-10-30 08:04:48+00:00
+ - Starred: True
+
+
+## YouTube suspended Louder with Crowder for our episode about Elon Musk's Twitter takeover
+ - [https://www.louderwithcrowder.com/youtube-suspends-louder-crowder-musk](https://www.louderwithcrowder.com/youtube-suspends-louder-crowder-musk)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2022-10-29 21:14:04+00:00
+ - Starred: True
+
+
+## AdGuardHome: Network-wide ads and trackers blocking DNS server
+ - [https://github.com/AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-10-29 20:29:38+00:00
+ - Starred: True
+
+
+## Kanye doubles-down on anti-Semitic claims by sharing SPREADSHEET filled with names of Jewish execs
+ - [https://www.dailymail.co.uk/news/article-11368801/Kanye-doubles-anti-Semitic-claims-sharing-SPREADSHEET-filled-names-Jewish-execs.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11368801/Kanye-doubles-anti-Semitic-claims-sharing-SPREADSHEET-filled-names-Jewish-execs.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-10-29 18:56:24+00:00
+ - Starred: True
+
+
+## Chiny znów objęły lockdownem ponad 200 mln osób. Winne: nowe warianty COVID-19
+ - [https://www.bankier.pl/wiadomosc/Chiny-znow-objely-lockdownem-ponad-200-mln-osob-Winne-nowe-warianty-COVID-19-8431271.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Chiny-znow-objely-lockdownem-ponad-200-mln-osob-Winne-nowe-warianty-COVID-19-8431271.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2022-10-29 18:49:00+00:00
+ - Starred: True
+
+
 ## Florida medical board votes to ban gender-affirming care for transgender minors
  - [https://www.reddit.com/r/news/comments/ygnjd3/florida_medical_board_votes_to_ban/](https://www.reddit.com/r/news/comments/ygnjd3/florida_medical_board_votes_to_ban/)
  - RSS feed: http://www.reddit.com/r/news/.rss
@@ -9,6 +107,13 @@
  - [https://www.forbes.com/sites/markminevich/2022/10/29/digital-government-is-no-longer-an-option-it-is-an-imperative/](https://www.forbes.com/sites/markminevich/2022/10/29/digital-government-is-no-longer-an-option-it-is-an-imperative/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-10-29 14:30:20+00:00
+ - Starred: True
+
+
+## Netflix's Password Sharing Crackdown Is Coming     - CNET
+ - [https://www.cnet.com/culture/entertainment/netflixs-password-sharing-crackdown-is-coming/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/netflixs-password-sharing-crackdown-is-coming/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2022-10-29 14:24:49+00:00
  - Starred: True
 
 
