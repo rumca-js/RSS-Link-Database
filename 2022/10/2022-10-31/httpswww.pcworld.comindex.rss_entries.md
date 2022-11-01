@@ -1,0 +1,1489 @@
+## How to use the Steam Deck interface on your PC
+ - [https://www.pcworld.com/article/1366964/how-to-try-out-the-steam-deck-interface-on-your-pc.html](https://www.pcworld.com/article/1366964/how-to-try-out-the-steam-deck-interface-on-your-pc.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2022-10-31 17:00:00+00:00
+ - Starred: False
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Valve&rsquo;s <a href="https://www.pcworld.com/article/917673/steam-deck-2-wishlist-what-we-want-from-valves-next-gen-handheld.html">Steam Deck is a smash hit</a>, thanks to a combination of great hardware and efficient software. If you don&rsquo;t have one yet and you&rsquo;d like to check out the latter, Valve is now letting users try out the Steam Deck user interface using the desktop version of Steam. It&rsquo;s a new option for beta users &mdash; all you need to do is adjust a few settings for the TV-style Big Picture interface. (Does that make it the Small Picture Interface? Who knows.) </p>
+
+
+
+<p>Here&rsquo;s what you need to do.</p>
+
+
+
+<p>Step 1: <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://help.steampowered.com/en/faqs/view/276C-85A0-C531-AFA3&amp;xcust=2-2-1366964-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">Switch to the beta version of Steam</a>, if you haven&rsquo;t already. </p>
+
+
+
+<p>Step 2: Edit the shortcut for the Steam executable. On Windows, you can search &ldquo;Steam&rdquo; in the Start menu, right-click the Steam shortcut, and click &ldquo;Open file location&rdquo; to find it quickly. The default location is in your User folder, then <em>/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Steam</em>. </p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="Steam open file location" class="wp-image-1366991" height="823" src="https://b2c-contenthub.com/wp-content/uploads/2022/10/open-file-location.jpg?quality=50&amp;strip=all" width="880" /></figure><p class="imageCredit">Michael Crider/IDG</p></div>
+
+
+
+<p>Step 3: Right-click the shortcut, then click &ldquo;Properties.&rdquo; Add -gamepadui to the end of the Target&rdquo; field, then click &ldquo;OK.&rdquo; </p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="Steam shortcut properties windows " class="wp-image-1366996" height="684" src="https://b2c-contenthub.com/wp-content/uploads/2022/10/steam-properties.jpg?quality=50&amp;strip=all" width="820" /></figure><p class="imageCredit">Michael Crider/IDG</p></div>
+
+
+
+<p>Step 4: Launch Steam with the modified shortcut. If it&rsquo;s already running, restart the program. </p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Steam Deck interface game page" class="wp-image-1367009" height="675" src="https://b2c-contenthub.com/wp-content/uploads/2022/10/steam-deck-interface-2.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /></figure><p class="imageCredit">Michael Crider/IDG</p></div>
+
+
+
+<p>You can navigate the interface with a mouse and keyboard just fine, but it works a lot better if you have a controller handy. Most of the features of Steam are accessible in this interface, though it might take you a little longer to get to the advanced settings. To revert to the standard interface, simply delete the &ldquo;-gamepadui&rdquo; text from the Steam shortcut. </p>
+Gaming PCs</div>
+
+## Best VPN services: Top picks for speed, price, privacy, and more
+ - [https://www.pcworld.com/article/406870/best-vpn-services-apps-reviews-buying-advice.html](https://www.pcworld.com/article/406870/best-vpn-services-apps-reviews-buying-advice.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2022-10-31 16:00:00+00:00
+ - Starred: False
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>A virtual private network (VPN) service can help you safeguard your identity, location, and activities online. When looking for a VPN you&rsquo;ll want to consider your options carefully. For instance, a VPN should keep your internet usage private and secure but not at the expense of too speed. If anonymity is a concern, you should look for a VPN with clear and transparent data collection policies. The number of available servers and country locations a VPN offers is also important if you are trying to get around region locks. And finally, extra perks aren&rsquo;t necessary but could sweeten the deal.</p>
+
+
+
+<p>Our in-depth VPN reviews cover all these issues and more, so you can choose the best VPN service for your needs. Whether your primary concern is anonymity, streaming your favorite shows from another country, speeds, or price, we&rsquo;ve got picks for each category. Below that you can find information about how we test and what to look for when choosing a VPN. </p>
+
+
+
+<p>Granted, not everyone wants a full-fledged VPN service&mdash;although it should be a priority if online privacy is important to you. You might just want a VPN for occasional use&mdash;when you&rsquo;re using public Wi-Fi, for instance. If so, check out our roundups of <a href="https://www.pcworld.com/article/633008/the-best-free-vpn-for-chrome.html">best free VPNs for Chrome</a> and <a href="https://www.pcworld.com/article/634025/best-free-vpns-for-windows.html">best free VPNs for Windows</a> for our recommendations, and caveats about a free VPN&rsquo;s limitations.</p>
+
+
+
+
+
+<h2 id="best-vpn-services">Best VPN services</h2>
+
+
+
+		<div class="wp-block-product-chart product-chart">
+					<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="1-expressvpn-best-vpn-overall">
+							1.  ExpressVPN &ndash; Best VPN overall						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="ExpressVPN - Best VPN overall" class="product-chart-item__image" height="348" src="https://b2c-contenthub.com/wp-content/uploads/2022/02/Red.png" width="708" /></div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list"><li> 
+					Consistently good speeds					</li> 
+										<li> 
+					Easy-to-use desktop program					</li> 
+										<li> 
+					Broad device support					</li> 
+														</ul></div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list"><li> 
+					Logs data transfer amounts					</li> 
+										<li> 
+					More expensive than many competitors					</li> 
+													</ul></div>
+													</div>
+					</div>
+														</div>
+						
+				
+										<div class="product-content">
+						
+<p>It&rsquo;s hard to select the best overall VPN. Some services are weaker on privacy, but are significantly easier to use with tons of features, while others could stand an interface redesign.</p>
+
+<p>For many years we chose the best VPN based purely on privacy, but that is no longer the sole concern of most people when choosing a VPN. Privacy is important, to be sure, but so are performance, extra features, a wide country selection, and ease of use. ExpressVPN has it all, making it our top choice for VPNs. ExpressVPN is one of the fastest VPNs we&rsquo;ve tested, and it has a very easy-to-use app. Its servers are all diskless, running everything in RAM&mdash;a welcome practice that&rsquo;s become fairly standard these days. ExpressVPN also has wide device support, as well as a smart DNS feature for set-top boxes, consoles, and more. </p>
+
+<p>It&rsquo;s not the cheapest VPN out there, but you do get solid value for the price, and the service is regularly bringing in third-party auditors to bolster its privacy credentials.</p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/395012/expressvpn-review-2.html" target="_blank">ExpressVPNreview </a>
+								</div>
+						<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="2-nordvpn-best-vpn-for-features">
+							2.  NordVPN &ndash; Best VPN for features						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="NordVPN - Best VPN for features" class="product-chart-item__image" height="675" src="https://b2c-contenthub.com/wp-content/uploads/2021/09/nordvpnlogo.jpg?quality=50&amp;strip=all" width="1200" /></div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list"><li> 
+					Excellent speeds					</li> 
+										<li> 
+					Enough features to appeal to power users and novices					</li> 
+										<li> 
+					No-logs policy					</li> 
+										<li> 
+					Diskless servers					</li> 
+														</ul></div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list"><li> 
+					Expensive					</li> 
+													</ul></div>
+													</div>
+					</div>
+														</div>
+						
+				
+										<div class="product-content">
+						
+<p>If you like ExpressVPN&rsquo;s speeds and features, but want something a little different, NordVPN is also an excellent choice. Nord is arguably more feature-filled than ExpressVPN, and the service is just one part of a larger suite of privacy and security focused products. The desktop app is very easy to use, and offers a lot of different features including access to the TOR network over VPN, multi-hop VPNs,  and ad-tracker and malware blocking. </p>
+
+<p>NordVPN has gone a long way to bolster user trust. After years of not being transparent, the company is now upfront about who&rsquo;s running the show, it also undergoes third-party audits, carries out vendor assessments, and uses diskless servers. </p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/398777/nordvpn-review-3.html" target="_blank">NordVPNreview </a>
+								</div>
+						<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="3-mullvad-best-vpn-for-privacy">
+							3.  Mullvad &ndash; Best VPN for privacy						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Mullvad - Best VPN for privacy" class="product-chart-item__image" height="400" src="https://images.idgesg.net/images/article/2017/06/mullvadhero-100726436-orig.jpg?quality=50&amp;strip=all" width="700" /></div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list"><li> 
+					Good speeds					</li> 
+										<li> 
+					Higher level of anonymity possible than with most VPN services					</li> 
+										<li> 
+					Windows desktop is easy to use					</li> 
+														</ul></div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list"><li> 
+					Not guaranteed to work with Netflix					</li> 
+										<li> 
+					Lacks the extra services that some VPNs offer					</li> 
+										<li> 
+					No password protection for your account					</li> 
+													</ul></div>
+													</div>
+					</div>
+														</div>
+						
+									<div class="product-chart-item__information ">
+					
+													<div class="product-chart-item__pricing-details ">
+																	<span class="product-chart-item__pricing-details--label">
+										Best Prices Today:
+									</span>
+																<span class="product-chart-item__pricing-details--links-wrapper">
+									<a class="product-chart-item__pricing-details--link" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.mullvad.net/en/&amp;xcust=2-1-406870-6-246276-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">&pound;5 at  Amagicom AB</a>								</span>
+							</div>
+											</div>
+				
+										<div class="product-content">
+						
+<p>As Hotspot Shield is to speeds, so Mullvad is to privacy and anonymity. We&rsquo;ve never seen another VPN that actively resists knowing who you are the way Mullvad does. Mullvad doesn&rsquo;t ask for your email address, name, or anything else. Instead it assigns a random account number that acts as your identifier and login. Mullvad accepts payments using standard methods such as credit cards and PayPal, but you can also mail your payment in cash to remain as private as possible. Mullvad has a no-logging policy and doesn&rsquo;t collect any identifying metadata from your usage.</p>
+
+<p>Mullvad is also fast, ranking within our top five for speeds. Though oddly we did find that on Windows, Mullvad&rsquo;s OpenVPN configuration was actually faster than its Wireguard implementation. </p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/395038/mullvad-vpn-review-2.html" target="_blank">Mullvadreview </a>
+								</div>
+						<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="4-ivpn-best-vpn-for-privacy-runner-up">
+							4.  IVPN &ndash; Best VPN for privacy runner-up						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="IVPN - Best VPN for privacy runner-up" class="product-chart-item__image" height="580" src="https://images.idgesg.net/images/article/2017/08/ivpn-100734283-orig.jpg?quality=50&amp;strip=all" width="881" /></div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list"><li> 
+					Excellent speeds for its U.S., UK and European servers					</li> 
+										<li> 
+					Interface is easy to understand					</li> 
+										<li> 
+					Default WireGuard protocol connects quickly					</li> 
+														</ul></div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list"><li> 
+					It&rsquo;s on the expensive side at $100 per year					</li> 
+										<li> 
+					Server network is under 100 servers					</li> 
+													</ul></div>
+													</div>
+					</div>
+														</div>
+						
+									<div class="product-chart-item__information ">
+					
+													<div class="product-chart-item__pricing-details ">
+																	<span class="product-chart-item__pricing-details--label">
+										Best Prices Today:
+									</span>
+																<span class="product-chart-item__pricing-details--links-wrapper">
+									<a class="product-chart-item__pricing-details--link" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.ivpn.net/pricing&amp;xcust=2-1-406870-6-245919-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">$6.00 at  IVPN</a>								</span>
+							</div>
+											</div>
+				
+										<div class="product-content">
+						
+<p>Coming in behind Mullvad is IVPN. This Gibraltar-based VPN recently moved to dumping email-based identifiers and going with randomly assigned account numbers instead. Similar to Mullvad, it accepts a variety of payment options for privacy including cash, as well as the standard credit cards, PayPal, and other options like Bitcoin and Monero. IVPN doesn&rsquo;t rank as one of our fastest VPNs, but it does have acceptable speeds for most casual uses.</p>
+
+<p>Another option is <strong><a href="https://www.pcworld.com/article/398746/ovpn-2020-vpn-review.html">OVPN</a>.</strong> This VPN doesn&rsquo;t go to the levels that Mullvad and IVPN do, but it does only require a username and password to create an account. OVPN doesn&rsquo;t require an email address, though you can add one as a backstop for account recovery should you forget your password. OVPN doesn&rsquo;t rank in our top 10 for speeds, but it&rsquo;s just outside the top performers at number 12.</p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/397825/ivpn-for-windows-vpn-review.html" target="_blank">IVPNreview </a>
+								</div>
+						<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="5-hotspot-shield-fastest-vpn">
+							5.  Hotspot Shield &ndash; Fastest VPN						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Hotspot Shield - Fastest VPN" class="product-chart-item__image" height="1200" src="https://b2c-contenthub.com/wp-content/uploads/2022/04/hotspot-shield-logo-icon-2.png" width="1200" /></div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list"><li> 
+					Very fast					</li> 
+										<li> 
+					Large country selection and plenty of servers					</li> 
+														</ul></div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list"><li> 
+					Domain visits are recorded, though not tied to you					</li> 
+										<li> 
+					Expensive					</li> 
+													</ul></div>
+													</div>
+					</div>
+														</div>
+						
+				
+										<div class="product-content">
+						
+<p>While our pick for best overall VPN, <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.expressvpn.com/vpn-software/vpn-windows&amp;xcust=2-1-406870-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">ExpressVPN</a>, boasts above-average speeds, Hotspot Shield is on another level. No other service comes close to hitting the speeds we&rsquo;ve seen with this service. This isn&rsquo;t just a one-off occurrence either; Hotspot Shield has consistently been at the top with speeds that are 12 to 15 percentage points above the competition. In our tests, Hotspot Shield maintained around 67 percent of the base speed. That&rsquo;s substantially faster than you&rsquo;ll see with most VPN services&mdash;though your experience may vary.</p>
+
+<p>On the downside, Hotspot Shield doesn&rsquo;t allow for a way to pay anonymously and its privacy policy may not sit well with some.</p>
+
+<p>Still, Hotspot Shield has excellent speeds, it&rsquo;s desktop application is very nice, and as a bonus it works with U.S. Netflix.</p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/395084/hotspot-shield-vpn-review.html" target="_blank">Hotspot Shieldreview </a>
+								</div>
+						<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="6-airvpn-best-vpn-for-torrents">
+							6.  AirVPN &ndash; Best VPN for torrents						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="AirVPN - Best VPN for torrents" class="product-chart-item__image" height="827" src="https://b2c-contenthub.com/wp-content/uploads/2022/04/airvpn.png" width="1200" /></div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list"><li> 
+					Excellent speeds					</li> 
+										<li> 
+					Detailed real-time information about the network					</li> 
+										<li> 
+					Good pricing with many subscription options					</li> 
+														</ul></div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list"><li> 
+					Team is largely anonymous					</li> 
+													</ul></div>
+													</div>
+					</div>
+														</div>
+						
+				
+										<div class="product-content">
+						
+<p>Torrents get a bad rap, and if we&rsquo;re honest, that&rsquo;s for good reason. Using torrents is the number one way to download pirated material including movies, TV shows, music, and games. But that&rsquo;s not all there is to torrenting. It&rsquo;s a very efficient way to download legitimate software such as Linux distributions and authorized content from sites such as <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://now.bt.co/&amp;xcust=2-1-406870-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">BitTorrent Now</a>.</p>
+
+<p>Whatever your reasons, when it comes to torrenting, a VPN makes it easier&mdash;especially if the network you&rsquo;re on blocks torrenting. There are many VPNs among our top picks that could be used for downloading torrents, but our preferred choice is <a class="product-link" href="https://www.tkqlhce.com/click-100470607-14087873?sid=2-1-406870-1-245796-0&amp;url=https://www.privateinternetaccess.com/pages/buy-vpn/" rel="nofollow"></a><a href="https://www.pcworld.com/article/393465/airvpn-review-2.html">AirVPN</a>. This no-frills VPN has a reasonable number of servers and country locations, really good speeds, excellent network transparency, and a focus on user protection. The price is also right at about $58 a year.</p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/393465/airvpn-review-2.html" target="_blank">AirVPNreview </a>
+								</div>
+						<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="7-avg-secure-best-vpn-for-novices">
+							7.  AVG Secure &ndash; Best VPN for novices						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="AVG Secure - Best VPN for novices" class="product-chart-item__image" height="827" src="https://b2c-contenthub.com/wp-content/uploads/2022/04/avg-secure.png" width="1200" /></div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list"><li> 
+					Good speeds					</li> 
+										<li> 
+					Allows an excellent 10 simultaneous connections					</li> 
+														</ul></div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list"><li> 
+					Does log some data					</li> 
+										<li> 
+					No real customizability for power users					</li> 
+													</ul></div>
+													</div>
+					</div>
+														</div>
+						
+				
+										<div class="product-content">
+						
+<p>If you want something that&rsquo;s all about ease of use then AVG Secure is a good choice. First, it comes from a known and trusted security company, so there are fewer worries about data security than with one of the independent services. The key thing with AVG Secure is that the interface is easy to understand and use. It has a big &ldquo;Change location&rdquo; button to help you select the country you&rsquo;d like to appear to be in. The app also tells you what your current IP address is and how long you&rsquo;ve been connected to the VPN. That&rsquo;s pretty much it. This VPN also works with streaming services and it has P2P servers. One thing it doesn&rsquo;t have is a lot of extra features, which is actually perfect for anyone looking for a no-frills VPN. </p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/394897/avgsecure-vpn-review.html" target="_blank">AVG Securereview </a>
+								</div>
+						<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="8-private-internet-access-best-budget-vpn">
+							8.  Private Internet Access &ndash; Best budget VPN						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Private Internet Access - Best budget VPN" class="product-chart-item__image" height="300" src="https://images.idgesg.net/images/article/2018/02/pia-vpn-100748660-orig.jpg?quality=50&amp;strip=all" width="300" /></div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list"><li> 
+					Good number of extra features such as multi-hop and split tunneling					</li> 
+										<li> 
+					Diskless servers					</li> 
+										<li> 
+					Allows for up to 10 simultaneous connections					</li> 
+														</ul></div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list"><li> 
+					App panel locked to lower-right corner of screen					</li> 
+										<li> 
+					New ownership may give some users pause					</li> 
+													</ul></div>
+													</div>
+					</div>
+														</div>
+						
+									<div class="product-chart-item__information ">
+					
+													<div class="product-chart-item__pricing-details ">
+																	<span class="product-chart-item__pricing-details--label">
+										Best Prices Today:
+									</span>
+																<span class="product-chart-item__pricing-details--links-wrapper">
+									<a class="product-chart-item__pricing-details--link" href="https://www.tkqlhce.com/click-100470607-14087873?sid=2-1-406870-6-245796-0&amp;url=https://www.privateinternetaccess.com/buy-vpn-now3" rel="nofollow" target="_blank">$9.95 at  Private Internet Access</a>								</span>
+							</div>
+											</div>
+				
+										<div class="product-content">
+						
+<p>Choosing the best VPN for you can often come down to price. When that&rsquo;s the case it&rsquo;s hard to beat Private Internet Access. It&rsquo;s got very good speeds and an everyday price of just $40 for a full year. It really is hard to beat for that simple reason. This no-frills VPN offers a good server and country count. Plus, advanced users can adjust their level of data encryption, data authentication, and handshake protocols.</p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/403379/private-internet-access-2019-vpn-review.html" target="_blank">Private Internet Accessreview </a>
+								</div>
+						<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="9-personalvpn-best-u-s-based-vpn">
+							9.  PersonalVPN &ndash; Best U.S.-based VPN						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="PersonalVPN - Best U.S.-based VPN" class="product-chart-item__image" height="800" src="https://b2c-contenthub.com/wp-content/uploads/2022/04/witopia-personalvpn.jpg?quality=50&amp;strip=all" width="1200" /></div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list"><li> 
+					Reasonably priced					</li> 
+										<li> 
+					Fast servers in many locations around the world					</li> 
+										<li> 
+					Good for power users and novices					</li> 
+														</ul></div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list"><li> 
+					Not a lot of extra or specialized features					</li> 
+										<li> 
+					Tiered pricing has odd choices for premium features					</li> 
+													</ul></div>
+													</div>
+					</div>
+														</div>
+						
+									<div class="product-chart-item__information ">
+					
+													<div class="product-chart-item__pricing-details ">
+																	<span class="product-chart-item__pricing-details--label">
+										Best Prices Today:
+									</span>
+																<span class="product-chart-item__pricing-details--links-wrapper">
+									<a class="product-chart-item__pricing-details--link" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://my.personalvpn.com/products&amp;xcust=2-1-406870-6-391524-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">$50 at  WiTopia</a>								</span>
+							</div>
+											</div>
+				
+										<div class="product-content">
+						
+<p>If you want a VPN based in the good ol&rsquo; USA, we recommend WiTopia&rsquo;s PersonalVPN. The speeds are good, the price is right, and the app is very easy to use. It&rsquo;s true that a lot of VPN review sites stress the importance of having a VPN that&rsquo;s outside of the so-called <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://en.wikipedia.org/wiki/Five_Eyes&amp;xcust=2-1-406870-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Five Eyes countries</a>, which includes the U.S.&mdash;some will even say to avoid the <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://en.wikipedia.org/wiki/Five_Eyes#Fourteen_Eyes&amp;xcust=2-1-406870-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Fourteen Eyes.</a> The idea being that if you use a U.S.-based VPN your activities may end up being secretly monitored by Western authorities. Snowden revealed such truths back in 2013. But if you&rsquo;re using a VPN to access your accounts for Gmail, Facebook, Twitter, Instagram, or any other U.S.-based service, then staying outside the Fourteen Eyes is more or less pointless. Sure, that VPN with an exotic locale may be able to easily ignore U.S. subpoenas for data, but the American online services you use are another story. Besides if an American VPN does you wrong, it&rsquo;ll be a lot easier to hold it to account than one based in Singapore, or even Sweden.</p>
+						</div>
+									</div>
+					</div>
+
+		
+
+
+<h2 id="what-is-a-vpn">What is a VPN?</h2>
+
+
+
+<p>VPNs create a secure tunnel between your PC and the internet. You connect to a VPN server, which can be located in the United States or a foreign country&mdash;say, France or Japan. Your web traffic then goes through <em>that</em> server to make it appear as though you&rsquo;re browsing from that server&rsquo;s location, and not from your actual location.</p>
+
+
+
+<p>When you&rsquo;re using a VPN, it&rsquo;s difficult for others to snoop on your web-browsing activity. Only you, the VPN service, and the website you&rsquo;re visiting will know what you&rsquo;re up to.&nbsp;</p>
+
+
+
+<p>A VPN can be a great response to a variety of concerns, such as online privacy, anonymity, greater security on public Wi-Fi, and, of course, spoofing locations.</p>
+
+
+
+<p>While a VPN can aid privacy and anonymity, I wouldn&rsquo;t recommend fomenting the next great political revolution by relying solely on a VPN. To become an internet phantom (or as close as you can realistically get to one), it takes a lot more than a $5 monthly subscription to a VPN.</p>
+
+
+
+<p>Beyond that, a VPN is an excellent choice for staying secure while using Wi-Fi at the airport or your local caf&eacute;. Hackers sitting on public Wi-Fi can try to hack your PC, but a VPN makes that task much harder.</p>
+
+
+
+<p>Finally, you may want a VPN to spoof your location to download content you shouldn&rsquo;t have access to, but this too has limits. A VPN used to be the go-to solution to watch U.S. Netflix overseas. That changed in 2016 when <a href="https://www.pcworld.com/article/3022813/streaming-services/netflix-to-crack-down-on-proxies-as-it-goes-global.html">Netflix opened up to almost every country on Earth</a>. Since then, the company has invested a lot in detecting and blocking VPN users. Even people using a VPN inside their own country will be blocked by Netflix if detected.</p>
+
+
+
+<p>There are VPNs that can fool Netflix, but they are rare and there are no guarantees these services will outsmart Netflix forever.</p>
+
+
+
+<p>Beyond Netflix, a VPN can help to download an Android app that is only available on a foreign version of Google Play, or stream content from regionally restricted services such as the UK-bound BBC iPlayer or Disney Plus.</p>
+
+
+
+<p>One final note of caution: Do not rely on your VPN to protect banking information on an open Wi-Fi connection. Whenever possible, leave online financial dealings for home over a hard-wired connection.</p>
+
+
+
+<h2 id="what-to-look-for-in-a-vpn">What to look for in a VPN</h2>
+
+
+
+<p>Before anything else, understand that if you want to use a VPN you should be paying for it. Free VPNs typicall sell your browsing data in aggregated form to researchers and marketers, or give you a paltry amount of data transfer every month. Either way, a basic rule of thumb is that a free VPN will <em>not</em> protect your privacy in any meaningful way.</p>
+
+
+
+<p>The next thing to consider is a VPN&rsquo;s logging policies. In other words, what kind of data is a service collecting about you and your VPN activity, and how long is that data saved?</p>
+
+
+
+<p>Privacy is the basic principle of a VPN, and what good is it to avoid passive government surveillance only to have a VPN provider record all your website visits?</p>
+
+
+
+<p>Ideally, a VPN will say it only keeps logs for the briefest of periods. Some providers, for example, only log activity in RAM during a session or automatically send all records to oblivion once they&rsquo;re created. Other providers may keep records for a few hours, days, weeks, or even months.</p>
+
+
+
+<p>VPN policies also vary when it comes to personal information. Some VPNs want to know very little about you, preferring users sign on with a pseudonym and pay with Bitcoin. That&rsquo;s a little exotic for most people, which is why many services also accept PayPal.</p>
+
+
+
+<p>Paying this way isn&rsquo;t ideal for privacy, but it means the VPN doesn&rsquo;t have your payment information on record&mdash;though it would be available from PayPal.</p>
+
+
+
+<p>After the logging policies, you want to know how many servers the VPN offers and how many country connections it has. The number of servers provides an idea of how much load a VPN can take before slowing to a crawl due to overwhelming traffic.</p>
+
+
+
+<p>The country connections, meanwhile, matter most to those who want to spoof their location; however, non-spoofers should also make sure there are connections in their home country. If you live in Los Angeles, for example, and want access to American content, then you&rsquo;ll need a VPN that provides U.S. connections. It won&rsquo;t work to try and watch Amazon Prime Video over a Dutch VPN connection, because as far as Amazon&rsquo;s concerned your computer would be in the Netherlands.</p>
+
+
+
+<p>Some users will also want to research a VPN provider&rsquo;s peer-to-peer (P2P) file-sharing policies. There are VPNs that block torrents. Others turn a blind eye to them, but will sell you out in a heartbeat should you be up to no good. P2P is not our main focus here, but we will note in each review whether a particular provider allows file sharing or not.</p>
+
+
+
+<p>Finally, how many devices does a VPN support from a single account? In this age of smartphones, tablets, laptops, and PCs, a VPN&rsquo;s cost should include licensing for at least five devices. Also, a provider should have Android and iOS apps to make it easy to connect a smartphone or tablet to the service.</p>
+
+
+
+<h2 id="how-we-tested">How we tested</h2>
+
+
+
+<p>We judge VPNs on a variety of criteria including overall connection speeds, privacy protection, usability of the interface, country choices, server count, and cost.</p>
+
+
+
+<p>Speed tests are kept as simple as possible. We connect to five different global locations for a given VPN&mdash;typically North America, Europe, the United Kingdom, Australia, and a wild card somewhere in Asia&ndash;on three different days at different times of the day running the test at each location multiple times.</p>
+
+
+
+<p>Before the test begins we check the speed of our base Wi-Fi connection using an online speed test. Then we connect to the VPN&rsquo;s servers around the world and run the speed test again. We then show each result, average them out, and calculate the average as a percentage of the base speed.</p>
+
+
+
+<p>Remember that internet speeds can vary wildly based on location, routers, PCs, time of day, connection type, the load on the VPN and speed test servers, and numerous other factors. In other words, our test results will likely differ from yours. For that reason, consider our speed results only as a rough guide for how each VPN performs.</p>
+
+
+
+<p>Judging server choices by country is also kept simple. We expect a VPN to offer a variety of country connections with a minimum of at least 20.</p>
+
+
+
+<p>Privacy and anonymity is judged on the guarantees the companies make, as well as its reputation from any news items we&rsquo;re aware of that may impact the trustworthiness of these claims. We also take a look at the data encryption, authentication, and handshake protocols used.</p>
+
+
+
+<p>Finally, for pricing we expect to pay $60 per year, and anything over that needs to justify its cost with extra features or unique selling points of some kind. </p>
+
+
+
+<h2 id="other-notable-vpns">Other notable VPNs</h2>
+
+
+
+<p>There are many more worthwhile VPNs than just our favorites listed above, including <a href="https://www.pcworld.com/article/407275/avg-internet-security-review.html">AVG Internet Security</a>, <a href="https://www.pcworld.com/article/394108/cyberghost-vpn-review-2.html">CyberGhost</a>, <a href="https://www.pcworld.com/article/393696/eset-security-premium-review-good-protection-at-a-non-promotional-price.html">ESET Security Premium</a>, <a href="https://www.pcworld.com/article/398676/fastestvpn-vpn-review-2.html">FastestVPN</a>, <a href="https://www.pcworld.com/article/393346/hideme-2020-review-good-speeds-bigger-network.html">Hide.me</a>, <a href="https://www.pcworld.com/article/402093/hide-my-ass-pro-4-vpn-review.html">HMA Pro 4</a>, <a href="https://www.pcworld.com/article/402185/ovpn-vpn-review.html">OVPN</a>, <a href="https://www.pcworld.com/article/402063/trend-micro-maximum-security-antivirus-review.html">Trend Micro Maximum Security</a>, <a href="https://www.pcworld.com/article/407657/windscribe-vpn-review.html">Windscribe Pro</a>, <a href="https://www.pcworld.com/article/402213/perfect-privacy-review-the-price-is-high-but-the-speeds-are-good.html">Perfect Privacy</a>, <a href="https://www.pcworld.com/article/403180/privatevpn-by-trunkspace-vpn-review.html">PrivateVPN by TrunkSpace Hosting</a>, <a href="https://www.pcworld.com/article/407274/purevpn-vpn-review.html">PureVPN</a>, <a href="https://www.pcworld.com/article/393172/speedify-10-vpn-review.html">Speedify 10</a>, <a href="https://www.pcworld.com/article/399110/vpncity-review-the-basics-at-a-good-price.html">VPNCity</a>, <a href="https://www.pcworld.com/article/393720/clearvpn-review.html">ClearVPN</a>, <a href="https://www.pcworld.com/article/399216/malwarebytes-privacy-vpn-review.html">Malwarebytes Privacy</a>, <a href="https://www.pcworld.com/article/393624/torguard-vpn-review-3.html">TorGuard</a>, <a href="https://www.pcworld.com/article/394296/veepn-vpn-review.html">VeePN</a>, <a href="https://www.pcworld.com/article/393985/acevpncom-ultimate-review.html">AceVPN.com</a>, and <a href="https://www.pcworld.com/article/407381/surfeasy-vpn-review.html">SurfEasy</a>.</p>
+
+
+
+<p>We&rsquo;ll keep evaluating new ones and reevaluating services we&rsquo;ve already tested on a regular basis, so be sure to come back to see what else we&rsquo;ve put through their paces.</p>
+
+
+
+<div class="wp-block-idg-base-theme-faq-block faq-block"><h2 class="faq-block-title" id="faq"> FAQ </h2><hr class="block-horizotal-divider" /><div class="wp-block-idg-base-theme-faq-inner-block faq-save-block"><div class="faq-save-content"><span class="faq-rank">1.</span>
+<h3 id="is-it-legal-to-use-a-vpn">Is it legal to use a VPN?</h3>
+
+
+
+<div class="wp-block-idg-base-theme-faq-answer-block how-to-tip">
+<p>Yes! It is perfectly legal in most countries, including the United States, to use a VPN. While using a VPN, you might find some websites that try to block your connection, but this is an individual website&rsquo;s use policy and has nothing to do with the legality of the VPN itself. One thing to note though, while it&rsquo;s legal to use a VPN, some of the activities done <em>while using</em> a VPN might be illegal. Such things as downloading pirated copyrighted content or accessing dark web markets are illegal whether you use a VPN or not.</p>
+</div>
+</div></div>
+
+
+
+<div class="wp-block-idg-base-theme-faq-inner-block faq-save-block"><div class="faq-save-content"><span class="faq-rank">2.</span>
+<h3 id="do-vpns-protect-against-malware-and-computer-viruses">Do VPNs protect against malware and computer viruses?</h3>
+
+
+
+<div class="wp-block-idg-base-theme-faq-answer-block how-to-tip">
+<p>No, a VPN connection itself does not protect you from malware and computer viruses. It does however encrypt your internet traffic and keep prying eyes from accessing your browsing history.</p>
+
+
+
+<p>Some VPN services, such as Nord VPN, do however provide additional security features such as ad and malware blockers. Additionally, many <a href="https://www.pcworld.com/article/407277/best-antivirus-for-windows-pc.html" rel="noreferrer noopener" target="_blank">antivirus suites</a> now offer VPN services along with their security features. Although VPNs and antivirus software are used for different purposes, there is still a degree of overlap that makes using both tools together beneficial.</p>
+</div>
+</div></div>
+
+
+
+<div class="wp-block-idg-base-theme-faq-inner-block faq-save-block"><div class="faq-save-content"><span class="faq-rank">3.</span>
+<h3 id="will-a-vpn-affect-my-internet-speeds">Will a VPN affect my internet speeds?</h3>
+
+
+
+<div class="wp-block-idg-base-theme-faq-answer-block how-to-tip">
+<p>Most likely you will see a moderate speed decrease to your internet while using a VPN. This is mainly due to the process of your internet traffic being rerouted and encrypted through a VPN server before heading on to its destination. The amount of latency you will experience through this process is down to what country&rsquo;s server you choose to proxy your traffic through. If you choose a server located on the other side of the world, then you will notice a much greater hit than if you were to connect to a server nearby in your same country. </p>
+
+
+
+<p>Thankfully, most modern VPNs should have the infrastructure to maintain high-speed, secure data transfer rates. So it&rsquo;s likely you can still browse and stream with no noticeable impact while using a reputable VPN like those listed above.</p>
+</div>
+</div></div>
+
+
+
+<div class="wp-block-idg-base-theme-faq-inner-block faq-save-block"><div class="faq-save-content"><span class="faq-rank">4.</span>
+<h3 id="will-a-vpn-make-me-anonymous-online">Will a VPN make me anonymous online?</h3>
+
+
+
+<div class="wp-block-idg-base-theme-faq-answer-block how-to-tip">
+<p>Unfortunately, it&rsquo;s not as simple as just turning on your VPN and disappearing off grid. While VPNs certainly offer better privacy and security, they don&rsquo;t make you completely anonymous. There are a mindbogglingly number of ways that companies track you across the internet and a VPN isn&rsquo;t capable of blocking all of them. For example, when you sign into a website, your identity is revealed to that website. Or when you log into your Gmail account while using a VPN, Google can now collect cookies based on your browsing.</p>
+</div>
+</div></div>
+
+
+
+<div class="wp-block-idg-base-theme-faq-inner-block faq-save-block"><div class="faq-save-content"><span class="faq-rank">5.</span>
+<h3 id="how-many-servers-should-my-vpn-have">How many servers should my VPN have?</h3>
+
+
+
+<div class="wp-block-idg-base-theme-faq-answer-block how-to-tip">
+<p>There is no set number of servers that make one VPN better than another. However, most major VPN providers offer between 3,000 to 5,000 servers. Also, we recommend avoiding any paid services whose providers have under 1,000 servers as this may be an indication that the company is not yet well established, meaning that there is a higher chance for reliability issues.</p>
+
+
+
+<p>It is common for VPN providers to advertise the number of servers they have, but this is largely a marketing gimmick and doesn&rsquo;t generally equate to the quality of the VPN provider itself. Things such as the spread of server locations and server quality are as important, if not more so, than the number of available servers.</p>
+</div>
+</div></div>
+</div>
+
+
+
+<p><i><strong>Editor&rsquo;s note:</strong> Because online services are often iterative, gaining new features and performance improvements over time, our reviews are subject to change in order to accurately reflect the current state of the services.</i></p>
+
+
+
+<p><em>Want to find the perfect VPN for a specific use? Check out some of our other best VPN roundups to learn more:</em></p>
+
+
+
+<ul><li><a href="https://www.pcworld.com/article/622728/best-vpn-for-gaming.html" rel="noreferrer noopener" target="_blank">Best VPN for gaming</a></li><li><a href="https://www.pcworld.com/article/625994/best-vpn-for-fire-stick.html" rel="noreferrer noopener" target="_blank">Best VPN for Amazon Fire Stick</a></li><li><a href="https://www.pcworld.com/article/618517/the-best-vpn-for-streaming-netflix.html" rel="noreferrer noopener" target="_blank">Best VPN for streaming Netflix</a></li><li><a href="https://www.pcworld.com/article/624123/the-best-vpn-for-torrenting.html" rel="noreferrer noopener" target="_blank">Best VPN for torrenting 2022: Top picks tested and ranked</a></li></ul>
+Cloud Computing, Internet, Privacy</div>
+
+## Oops! Asus just leaked AMD’s unannounced Ryzen 7000 laptop CPU
+ - [https://www.pcworld.com/article/1366872/asus-leaks-upcoming-amd-ryzen-7000-laptop-chips.html](https://www.pcworld.com/article/1366872/asus-leaks-upcoming-amd-ryzen-7000-laptop-chips.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2022-10-31 15:02:07+00:00
+ - Starred: False
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Are you excited for AMD&rsquo;s new Ryzen 7000 laptop CPU line? It&rsquo;s understandable if you aren&rsquo;t &mdash; it doesn&rsquo;t officially exist yet. But according to a promotional page on the Asus Turkey site, the next version of the Zenbook 14 will be packing a Ryzen 7 7730U nonetheless. A Twitter user notorious for sniffing out leaks <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://twitter.com/momomo_us/status/1586347985759191040&amp;xcust=2-1-1366872-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">spotted the unlikely specs</a>, but release info for the laptop or the hardware it&rsquo;s packing remain elusive. </p>
+
+
+
+<p>According to <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://videocardz.com/newz/asus-zenbook-14-confirmed-to-feature-amd-ryzen-7-7730u-with-zen3-cores&amp;xcust=2-1-1366872-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">VideoCardz</a> (and <a href="https://www.pcworld.com/article/1063208/amd-mobile-ryzen-naming-scheme.html">AMD&rsquo;s new mobile CPU naming scheme</a>), the Ryzen 7 7730U model number indicates a rather tame refresh. Different variants of the 7000 series use brand new RDNA 3 GPUs, conventional RDNA 2 graphics, or the now rather old Vega APU design, as is the case with this laptop. The Ryzen 5 7640U is the most powerful of the leaked CPUs thus far, featuring a new Zen 4 chip and as-yet-unrevealed RDNA 3 graphics. Other specs on the page indicate a nice, if not incredible upgrade for the Zenbook 14 laptop. </p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="AMD Ryzen 7000 Asus Turkey leak" class="wp-image-1366929" height="342" src="https://b2c-contenthub.com/wp-content/uploads/2022/10/asus-turkey-leak.jpg?quality=50&amp;strip=all" width="624" /></figure><p class="imageCredit">Asus</p></div>
+
+
+
+<p>We&rsquo;re expecting a big push for Ryzen 7000-based laptops to begin early next year at CES 2023, with more varied models (including gaming-focused designs with both integrated and discrete graphics) probably hitting shelves by the summer. In the meantime, we&rsquo;re looking forward to AMD&rsquo;s reveal of its next-gen RDNA 3 desktop graphics cards <a href="https://www.pcworld.com/article/1070995/amd-sets-its-next-gen-radeon-reveal-for-november.html" rel="noreferrer noopener" target="_blank">on November 3rd</a>. </p>
+Laptops</div>
+
+## Will Intel use the same motherboards for Meteor Lake CPUs?
+ - [https://www.pcworld.com/article/1364031/will-intel-use-the-lga-1700-socket-for-meteor-lake-cpus.html](https://www.pcworld.com/article/1364031/will-intel-use-the-lga-1700-socket-for-meteor-lake-cpus.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2022-10-31 14:30:00+00:00
+ - Starred: False
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>If you&rsquo;ve bought a motherboard <a href="https://www.pcworld.com/article/1357979/intel-core-i9-13900k-review.html" rel="noreferrer noopener" target="_blank">with an Intel LGA 1700 socket lately</a>, take a look at the socket cover. (Assuming you&rsquo;re completely disassembling your PC, of course.) You might be surprised to find that it says it&rsquo;s compatible with &ldquo;LGA 1800&rdquo; processors&hellip;which don&rsquo;t officially exist yet. In the latest PCWorld YouTube video, Gordon and Adam ponder whether Intel is taking a page out of AMD&rsquo;s book and switching to a longer socket business model. </p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+
+</div></figure><p>It kind of makes sense, as Gordon pontificates. One, because the 13th-generation of Intel Core processors was a bit tenuous, and we essentially get it now because it was taking a long time to develop the 14th-gen Meteor Lake chip designs. That would have made Meteor Lake the second LGA 1700 CPU design in place of Raptor Lake, not the third. But don&rsquo;t get too excited: he gives this rumor about a 5 percent chance of actually coming to fruition. </p>
+
+
+
+<p>Intel&rsquo;s two-CPU-generations-per-socket pattern is simply too well-established. Intel&rsquo;s conservative nature is to be trusted more than some LGA 1800 branding on the sockets themselves &mdash; early rumors of an LGA 1851 socket design are already out there. The weird discrepancy might be more about the sockets physically fitting into the motherboards than the CPUs fitting into the sockets. Of course we&rsquo;ll all have to wait a year (or more) to find out. </p>
+
+
+
+<p>For more deep dives on the PC industry, and some nerdy speculation, be sure to <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.youtube.com/c/pcworld&amp;xcust=2-1-1364031-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">subscribe to the PCWorld YouTube channel</a>. </p>
+
+
+
+		<div class="wp-block-product-widget-block product-widget">
+			<div class="product-widget__block-title-wrapper">
+				<h4 class="product-widget__block-title" id="">
+									</h4>
+			</div>
+
+			<div class="product-widget__content-wrapper">
+									<div class="product-widget__title-wrapper">
+						<h3 class="product-widget__title" id="core-i9-13900k">Core i9-13900K</h3>
+					</div>
+				
+									<div class="product-widget__image-outer-wrapper">
+						<div class="product-widget__image-wrapper">
+							<img alt="Core i9-13900K" class="product-widget__image" height="1334" src="https://b2c-contenthub.com/wp-content/uploads/2022/10/070A9689_V31.jpg?quality=50&amp;strip=all" width="2000" /></div>
+					</div>
+				
+				
+				<div class="product-widget__information">
+											<div class="product-widget__information--rrp-wrapper">
+								<span class="product-widget__information--rrp-label">
+															</span>
+								<span class="product-widget__information--rrp-value">
+																</span>
+							</div>
+						
+									</div>
+			</div>
+		</div>
+CPUs and Processors</div>
+
+## Zelda: Breath of the Wild is jaw-dropping with 8K ray tracing on an RTX 4090
+ - [https://www.pcworld.com/article/1366827/zelda-breath-of-the-wild-looks-better-than-ever-with-8k-ray-tracing.html](https://www.pcworld.com/article/1366827/zelda-breath-of-the-wild-looks-better-than-ever-with-8k-ray-tracing.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2022-10-31 14:21:13+00:00
+ - Starred: False
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Despite being a five-year-old title that was launched on what was basically smartphone hardware, <em>The Legend of Zelda: Breath of the Wild </em>is still one of the most visually appealing games ever made. The environmental design, mildly cell-shaded characters, and charming animations are a lesson in why good art direction can beat raw graphical power any day. But if you can have both, why not do so? One of the latest videos from a <em>Zelda </em>emulation fan shows the game running at an incredible 8K resolution with ray tracing modded in, courtesy of <a href="https://www.pcworld.com/article/1348123/nvidia-geforce-rtx-4090-review-ada-lovelace.html">Nvidia&rsquo;s ferocious new GeForce RTX 4090</a>. </p>
+
+
+
+<p>On the Wii U and Switch, <em>Breath of the Wild</em> is locked at 30 frames per second and maxes out at 1080p resolution. That&rsquo;s because the Switch is built on Nvidia Tegra hardware&mdash;ARM-based, high-efficiency tech that&rsquo;s also found in the <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.techhive.com/article/584131/nvidia-shield-tv-2019-review.html&amp;xcust=2-1-1366827-1-0-0&amp;sref=https://www.pcworld.com/feed">Nvidia Shield set-top box</a>. But using the Cemu emulator and a top-of the line gaming desktop, plus brand-spanking-new <a href="https://www.pcworld.com/article/1074246/amd-ryzen-9-7950x-review.html" rel="noreferrer noopener" target="_blank">Ryzen 9 7950X</a> and <a href="https://www.pcworld.com/article/1348123/nvidia-geforce-rtx-4090-review-ada-lovelace.html" rel="noreferrer noopener" target="_blank">GeForce RTX 4090</a> parts, YouTuber Digital Dreams was able to push the game far beyond its original graphical limitations. </p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+
+</div></figure><p>The video (spotted by <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://wccftech.com/zelda-botw-rtx-4090/&amp;xcust=2-1-1366827-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">WCCFTech</a>) really demonstrates some of the incredible design work that went into the world of<em> Breath of the Wild</em>. With the smoother animation and the added reflective qualities of the modified lighting engine, the beautiful scenery comes to life in a way that it simply can&rsquo;t on the Switch. The improvements aren&rsquo;t perfect &mdash; you can see the lighting engine struggle with pop-in, especially when it&rsquo;s handling thousands of blades of grass, shadows from trees, and fog effects in the notoriously choppy Hyrule Forrest. But it&rsquo;s still worth watching, especially if you happen to have a high-res monitor available. </p>
+
+
+
+		<div class="wp-block-product-widget-block product-widget is-half-width is-float-right">
+			<div class="product-widget__block-title-wrapper">
+				<h4 class="product-widget__block-title" id="">
+									</h4>
+			</div>
+
+			<div class="product-widget__content-wrapper">
+									<div class="product-widget__title-wrapper">
+						<h3 class="product-widget__title" id="geforce-rtx-4090-founders-edition">GeForce RTX 4090 Founders Edition</h3>
+					</div>
+				
+									<div class="product-widget__image-outer-wrapper">
+						<div class="product-widget__image-wrapper">
+							<img alt="GeForce RTX 4090 Founders Edition" class="product-widget__image" height="1667" src="https://b2c-contenthub.com/wp-content/uploads/2022/10/Nvidia-GeForce-RTX-4090-1.jpg?quality=50&amp;strip=all" width="2500" /></div>
+					</div>
+				
+									<div class="review product-widget__review-details">
+						<img alt="Editors' Choice" class="product-widget__review-details--editors-choice-logo" src="https://www.pcworld.com/wp-content/uploads/2021/09/PC-ED-CHOICE.png" /><div class="product-widget__rating-and-review-link">
+								<div class="product-widget__review-details--rating">
+											<div class="starRating"></div>
+										</div>									<a class="product-widget__review-link" href="https://www.pcworld.com/article/1348123/nvidia-geforce-rtx-4090-review-ada-lovelace.html" target="_blank">Read our review</a>
+									
+							</div>
+											</div>
+				
+				<div class="product-widget__information">
+											<div class="product-widget__information--rrp-wrapper">
+								<span class="product-widget__information--rrp-label">
+															</span>
+								<span class="product-widget__information--rrp-value">
+																</span>
+							</div>
+						
+									</div>
+			</div>
+		</div>
+
+		
+
+
+<p>Want to try this out for yourself? It won&rsquo;t be easy. In order to do it legally you&rsquo;ll need a Wii U copy of <em>Breath of the Wild</em>, which you can <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://cemu.cfw.guide/&amp;xcust=2-1-1366827-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">&ldquo;dump&rdquo; to your PC and run on the free Cemu emulator</a> with a series of free tools. But even running the base version of the game is taxing for most desktop PCs. If you want to add the modifications for higher framerates, reduced anti-aliasing, and the ray tracing reshade mod <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.patreon.com/DigitalDreams&amp;xcust=2-1-1366827-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">from the Digital Dreams Patreon</a>, you&rsquo;re going to need a monster machine. </p>
+Video Games</div>
+
+## Save $50 on this super lightweight, ultra-responsive Logitech mouse
+ - [https://www.pcworld.com/article/1366811/save-50-on-this-super-lightweight-logitech-mouse.html](https://www.pcworld.com/article/1366811/save-50-on-this-super-lightweight-logitech-mouse.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2022-10-31 14:09:35+00:00
+ - Starred: False
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>The Logitech G Pro X wireless mouse is a fantastic option for competitive gaming, as it&rsquo;s both lightweight and ultra-responsive. <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/dp/B087LP6F4Y/ref=cm_sw_r_api_i_dl_742SN2WPG6949VEJD59E_0?th=1&amp;xcust=2-1-1366811-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Amazon&rsquo;s selling the peripheral for $109.99, which is a savings of $50</a>. Not only is it compatible with PC and Mac computers, but the bone white color scheme is also attractive as hell. Let&rsquo;s get right into the specs and features.</p>
+
+
+
+<p>The Logitech G Pro X features five programmable buttons, an ambidextrous design, and 25,600 DPI. In other words, it&rsquo;s an incredibly fast and responsive mouse. We&rsquo;d recommend building up to higher DPIs over a period of time as a way to get accustomed to it. The device itself is also featherlight at just 63 grams. </p>
+
+
+
+<p>This is a phenomenal deal. Don&rsquo;t miss out.</p>
+
+
+<p class="cta wp-block wp-block-button"><a class="cta__btn" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/dp/B087LP6F4Y/ref=cm_sw_r_api_i_dl_742SN2WPG6949VEJD59E_0?th=1&amp;xcust=2-1-1366811-7-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">Get the Logitech G Pro X wireless mouse for $109.99</a></p>
+Mice</div>
+
+## Gigabyte B650E Aorus Master review: A next-gen motherboard for the masses
+ - [https://www.pcworld.com/article/1363181/gigabyte-b650e-aorus-master-motherboard-review.html](https://www.pcworld.com/article/1363181/gigabyte-b650e-aorus-master-motherboard-review.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2022-10-31 10:45:00+00:00
+ - Starred: False
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section><div class="review" id="review-body"><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
+<div><div class="review-columns"><div class="review-column"><h3 class="review-subTitle" id="pros">Pros</h3><ul class="pros review-list"><li>New tech is here&mdash;DDR5, PCIe Gen 5&nbsp;</li><li>Plenty of M.2 slots, USB ports, and network connectivity</li><li>Great VRM performance for any Ryzen 7000 CPU</li><li>AM5 strong future upgradability</li><li>Great build quality and value overall</li></ul></div><div class="review-column"><h3 class="review-subTitle" id="cons">Cons</h3><ul class="cons review-list"><li>4 SATA ports may be a limit to some (a B650E limitation)&nbsp;</li><li>Missing faster USB port is 3.2 Gen 2 20Gb/s</li><li>M.2 PCIe Gen 5 may limit GPU speed to 8x if all populated</li></ul></div></div></div><h3 class="review-subTitle review-subTitle--borderTop" id="our-verdict">Our Verdict</h3><p class="verdict">The Gigabyte B650E Aorus Master is a great addition to the next-gen motherboard market. While not exactly cheap, it still represents excellent value by only including the features you need with none of the boutique novelties of higher-end boards. It&rsquo;s also well designed and will look nice in most open windowed setups. Overall, it&rsquo;s a great motherboard for anyone looking to upgrade their system with next-gen performance.</p>
+</div>
+
+
+<p>AMD&rsquo;s Ryzen 7000 launch brought with it brand-new X670E motherboards. With fantastic features and next-gen performance, this new lineup packs a serious punch. There&rsquo;s a problem, however: It&rsquo;s also an expensive platform to upgrade to for many users. With increasing component costs, along with needing DDR5, is there a better solution?&nbsp;</p>
+
+
+
+<p>Promising cheaper pricing while keeping most of the features, the more affordable B650E is here. Today we will look at the B650E Gigabyte Aorus Master. We&rsquo;ll break down the specs, features, and value you&rsquo;re getting. Are you missing anything by skipping X670E? Let&rsquo;s find out!</p>
+
+
+
+<h2 id="gigabyte-b650e-aorus-master-the-specs">Gigabyte B650E Aorus Master: The specs</h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Gigabyte B650E Aorus Master" class="wp-image-1363190" height="370" src="https://b2c-contenthub.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-21-at-1.44.48-PM.png?w=1200" width="1200" /></figure><p class="imageCredit">Thiago Trevisan</p></div>
+
+
+
+<p>B650E is X670E&rsquo;s smaller sibling, but still shares most of the goodies. It will pack, from both the CPU and chipset, a total of 36 PCIe lanes compared to 44 lanes on X670E, and a reduced number of USB and SATA ports. The &ldquo;E&rdquo; variant stands for &ldquo;Extreme,&rdquo; meaning B650E also gets four extra PCIe lanes that are Gen 5 instead of Gen 4 over its standard B650 offering. This will be useful for high-speed NVMe drives.&nbsp;</p>
+
+
+
+<p>Let&rsquo;s take a look at some of the specs of the B650E Aorus Master, and then we&rsquo;ll discuss how they matter.&nbsp;</p>
+
+
+
+<ul><li>ATX form factor&nbsp;</li><li>Support for Ryzen 7000 CPUs only&nbsp;</li><li>Twin 16+2+2 Digital VRM with 105 amps</li><li>DDR5 RAM only</li><li>PCIe Gen 5 (four lanes only)&nbsp;</li><li>Four PCIe Gen 5 M.2 slots, with updated latch&nbsp;</li><li>HDMI out&nbsp;</li><li>13 USB ports on back, including 4x USB 3.2 Gen 1, 4x USB 3.2 Gen 2, 1x USB Type C Gen 2 10Gb/s, and 4x Type A 2.0 &nbsp;&nbsp;</li><li>Intel Wi-Fi 6E&nbsp;</li><li>Intel 2.5Gbe LAN</li><li>RGB fusion headers</li><li>4 SATA 6Gb/s ports&nbsp;</li><li>6 PWM fan headers</li><li>Q Flash Plus BIOS, plus Clear CMOS&nbsp;</li><li>Audio: Sabre Reference ES 9118 DAC&nbsp;</li><li>AM5 backwards compatible with AM4 coolers&nbsp;</li><li>MSRP $349</li></ul><h2 id="gigabyte-b650e-aorus-master-features">Gigabyte B650E Aorus Master: Features</h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Gigabyte B650E Aorus Master" class="wp-image-1363191" height="623" src="https://b2c-contenthub.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-21-at-1.43.58-PM.png?w=1200" width="1200" /></figure><p class="imageCredit">Thiago Trevisan</p></div>
+
+
+
+<p>What are you getting for your cool $349 bucks? A lot, actually. Most users may not need or even notice a difference when compared to the more expensive X670E motherboards. It can still handle fast M.2 drives that would suffice for even advanced users.&nbsp;</p>
+
+
+
+<p>With even the RTX 4090 being PCIe Gen 4, you&rsquo;ll have more than enough headroom here too. Gigabyte does some interesting things to allow the user to access multiple PCIe lanes with M.2 drives. Keep in mind you may limit the PCIe speeds of your main slot to 8x instead of 16x depending on your M.2 PCIe Gen 5 configuration&mdash;such as if you fill all four M.2 slots. Otherwise, this is a capable configuration typically found on higher-class boards.&nbsp;</p>
+
+
+
+		<div class="wp-block-product-widget-block product-widget is-half-width is-float-right">
+			<div class="product-widget__block-title-wrapper">
+				<h4 class="product-widget__block-title" id="mentioned-in-this-article">
+					mentioned in this article				</h4>
+			</div>
+
+			<div class="product-widget__content-wrapper">
+									<div class="product-widget__title-wrapper">
+						<h3 class="product-widget__title" id="gigabyte-x670e-aorus-xtreme">Gigabyte X670E Aorus Xtreme</h3>
+					</div>
+				
+									<div class="product-widget__image-outer-wrapper">
+						<div class="product-widget__image-wrapper">
+							<img alt="Gigabyte X670E Aorus Xtreme" class="product-widget__image" height="2086" src="https://b2c-contenthub.com/wp-content/uploads/2022/10/Screen-Shot-2022-09-28-at-1.39.58-PM.png" width="3652" /></div>
+					</div>
+				
+									<div class="review product-widget__review-details">
+													<div class="product-widget__rating-and-review-link">
+								<div class="product-widget__review-details--rating">
+											<div class="starRating"></div>
+										</div>									<a class="product-widget__review-link" href="https://www.pcworld.com/article/1352271/gigabyte-x679e-aorus-extreme-motherboard-review.html" target="_blank">Read our review</a>
+									
+							</div>
+											</div>
+				
+				<div class="product-widget__information">
+											<div class="product-widget__information--rrp-wrapper">
+								<span class="product-widget__information--rrp-label">
+															</span>
+								<span class="product-widget__information--rrp-value">
+																</span>
+							</div>
+						
+									</div>
+			</div>
+		</div>
+
+		
+
+
+<p>A $349 MSRP is still far from a budget motherboard, but it will slot in much better with some of the Ryzen 7000 CPUs such as the 7600X and 7800X. It will easily handle the 7950X, too.&nbsp;</p>
+
+
+
+<p>AM5 is DDR5 only, which can be both a positive and negative. The higher entry price compared to DDR4 can be an issue, but it is also more future-proofed. Sure, you may not notice a big difference in most gaming scenarios between DDR4 and DDR5, but there are some use cases that can certainly benefit from these faster speeds.&nbsp;</p>
+
+
+
+<p>Compared to the <a href="https://www.pcworld.com/article/1352271/gigabyte-x679e-aorus-extreme-motherboard-review.html">Gigabyte X670E Aorus Xtreme</a> we recently reviewed, you&rsquo;re still getting 95 percent of the same connectivity. 2.5Gb ethernet LAN is a sensible option here, where 10Gbe LAN is typically overkill and wasted on most use cases. You&rsquo;ll get the same fast Wi-Fi 6E, and a similar offering for USB ports. (Just remember that, in theory, the B650E supports half the total amount across the entire system compared to X670E, but in practice it will pack enough usable USB for most users.)</p>
+
+
+
+<p>You&rsquo;ll get only four SATA ports here, which is a product of the B650E&rsquo;s limitation compared to X670E, but this should suffice for most users in conjunction with the M.2 slots.&nbsp;</p>
+
+
+
+<p>You&rsquo;ll also have access to an iGPU (integrated graphics) out of the box with Ryzen 7000, which is a handy feature to have when first booting or troubleshooting hardware without a discreet GPU.&nbsp;</p>
+
+
+
+<p>Audio connectivity is well done, with a high-end ESS Sabre Hi-Fi ES9118 DAC providing clean sound.&nbsp;</p>
+
+
+
+<p>You&rsquo;ll also get a neat post-code debugger on the upper right, which can be very useful when troubleshooting the motherboard and allowing you to quickly see what code might be an issue.</p>
+
+
+
+<h2 id="gigabyte-b650e-aorus-master-design">Gigabyte B650E Aorus Master: Design</h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Gigabyte B650E Aorus Master" class="wp-image-1363192" height="703" src="https://b2c-contenthub.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-21-at-1.41.49-PM.png?w=1200" width="1200" /></figure><p class="imageCredit">Thiago Trevisan</p></div>
+
+
+
+<p>The $349 B650E Aorus Master feels like quality in the hands. It has a nice heft, with high-quality materials used throughout. It has an included backplate, much like its more expensive X670E Aorus Xtreme cousin.</p>
+
+
+
+<p>The Aorus logo is also displayed tastefully in the upper-left quadrant, although it is showcasing less RGB than on the Xtreme. Reflective and darker metal surfaces finish off the look, giving it a high-end visual appeal for its product class.&nbsp;</p>
+
+
+
+<p>The socket area is also cleanly done&mdash;and most AM4 coolers that use the original backplate of AM4 motherboards should be compatible. (If your CPU cooler has a proprietary backplate, you may need an adapter).</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Gigabyte B650E Aorus Master" class="wp-image-1363193" height="752" src="https://b2c-contenthub.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-21-at-1.44.33-PM.png?w=1200" width="1200" /></figure><p class="imageCredit">Thiago Trevisan</p></div>
+
+
+
+<p>The VRM area projects confidence in its cooling capabilities, with a nice aggressive design. The rest of the motherboard, such as the right quadrant, is as expected, with busy PWM fan headers and other functional points.&nbsp;</p>
+
+
+
+<p>Bonus points for the debug screen and updated PCIe slot connector, making removing your GPU a less arduous task!</p>
+
+
+
+<h2 id="gigabyte-b650e-aorus-master-performance-and-bios">Gigabyte B650E Aorus Master: Performance and BIOS</h2>
+
+
+
+<p>Reading about the Twin 16+2+2 with 105A power stages may remind you of math class, but trust us: It&rsquo;s beefy capabilities can handle even the rocket-hot Ryzen 9 7950X. You can even put it in Eco Mode if you want, to maintain most of the performance while minimizing heat and thermals.&nbsp;</p>
+
+
+
+<p>We&rsquo;ve talked about PCIe Gen 5 and DDR5, both help make the performance robust on the B650 Aorus Master. Included memory support is also good, building on what we had originally seen with earlier DDR5 chipsets such as Intel&rsquo;s Alder Lake Z690 platform.&nbsp;&nbsp;</p>
+
+
+
+<p>The BIOS is user friendly, with most options available here that you will also find on the X670E motherboards. You get BIOS flashback and clear CMOS buttons on the back, too&mdash;a big plus for tinkerers and a nice-to-have for when your system gives you trouble. This is typically also found on higher-end motherboards, reinforcing the value proposition here. The Gigabyte control center software was also a smooth experience and seems to be an improvement on previous versions for updating drivers/configuring fans from Windows.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Gigabyte B650E Aorus Master" class="wp-image-1363194" height="498" src="https://b2c-contenthub.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-21-at-1.43.33-PM.png?w=1200" width="1200" /></figure><p class="imageCredit">Thiago Trevisan</p></div>
+
+
+
+<h2 id="should-you-buy-the-gigabyte-b650e-aorus-master">Should you buy the Gigabyte B650E Aorus Master? </h2>
+
+
+
+<p>The Gigabyte B650E Aorus Master is impressive. It&rsquo;s certainly not rock-bottom cheap at an MSRP of $349, but considering the overall increased costs of all components, it still packs a great value punch.&nbsp;</p>
+
+
+
+<p>It does this without removing most of the important features and performance you&rsquo;d find in the more expensive X670E motherboards. Competent VRMs for even the 7950X? Check. Plenty of USB and I/O? Check. M.2 support and PCIe Gen 5? Check!&nbsp;</p>
+
+
+
+<p>With a probable long future of support with AM5, this featured-packed motherboard can also grow across CPU upgrades as it has the chops to handle them. The B550 Gigabyte Aorus Master came in at $279, so there is certainly an increase in price here at $349, but it is mostly justified with the newer technology on hand.&nbsp;</p>
+
+
+
+<p>It also has great build quality, with an included backplate and nice design touches on the front. Most users will be fine skipping X670E, and enjoying the majority of the features for a cheaper price.</p>
+Motherboards</div>
+
+## The best laptops under $1,000: Best overall, best for students, and more
+ - [https://www.pcworld.com/article/394735/best-midrange-laptops-affordable-notebooks-for-work-school-and-gaming.html](https://www.pcworld.com/article/394735/best-midrange-laptops-affordable-notebooks-for-work-school-and-gaming.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2022-10-31 10:30:00+00:00
+ - Starred: False
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Nowadays, you don&rsquo;t have to drop a ton of cash on a premium laptop to get everything you need. It&rsquo;s entirely possible to get an excellent laptop for under $1,000. Whether you&rsquo;re talking about a traditional Windows clamshell or a fully loaded Chromebook, spending less than a grand can get you a laptop you&rsquo;ll enjoy using. Moreover, at this price point, you don&rsquo;t have to sacrifice your budget to get excellent performance, a crystal-clear screen, or long battery life.</p>
+
+
+
+<p>The overwhelming amount of options on the market now means that it can take some time to find the right model for <em>you</em>, so we&rsquo;ve highlighted our top picks to make the search easier. Read on to find your match. (To find laptop recommendations that span all price ranges, see our <a href="https://www.pcworld.com/article/2854456/the-best-pc-laptops-of-the-year.html">comprehensive guide to the best laptops</a>).</p>
+
+
+
+<p><em><strong>Updated 10/27/2022: </strong>Take a look at our latest review of the <a href="https://www.pcworld.com/article/1355530/dell-xps-13-9315-review.html" rel="noreferrer noopener" target="_blank">Dell XPS 13 (9315)</a>. This thin and compact laptop has an attractive design and a budget-friendly price, but the performance doesn&rsquo;t quite meet expectations.</em> <em>Also, if you&rsquo;re looking for a larger screen, be sure to check out our recent review of the <a href="https://www.pcworld.com/article/1346089/acer-nitro-5-an517-review-big-screen-backed-by-solid-budget-gaming-performance.html" rel="noreferrer noopener" target="_blank">Acer Nitro 5</a>. While the plastic design feels a bit flimsy, it makes up for that with some great hardware that can handle AAA games with ease.</em></p>
+
+
+
+		<div class="wp-block-product-chart product-chart">
+					<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="lenovo-ideapad-slim-7-carbon-best-overall-under-1000">
+							Lenovo IdeaPad Slim 7 Carbon &ndash; Best overall under $1,000						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Lenovo IdeaPad Slim 7 Carbon - Best overall under $1,000" class="product-chart-item__image" height="3024" src="https://b2c-contenthub.com/wp-content/uploads/2022/04/Lenovo-IdeaPad-Slim-7-Carbon-overview.jpg?quality=50&amp;strip=all" width="4032" /></div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list"><li> 
+					2.8K OLED display is gorgeous					</li> 
+										<li> 
+					Booming audio					</li> 
+										<li> 
+					Quiet operation					</li> 
+										<li> 
+					Strong application and multimedia performance					</li> 
+														</ul></div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list"><li> 
+					So-so keyboard					</li> 
+										<li> 
+					Lid is so thin it flexes a bit too much					</li> 
+										<li> 
+					Below-average battery life					</li> 
+													</ul></div>
+													</div>
+					</div>
+														</div>
+						
+									<div class="product-chart-item__information ">
+					
+													<div class="product-chart-item__pricing-details ">
+																	<span class="product-chart-item__pricing-details--label">
+										Best Prices Today:
+									</span>
+																<span class="product-chart-item__pricing-details--links-wrapper">
+									<a class="product-chart-item__pricing-details--link" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.newegg.com/p/2WC-000J-016G4&amp;xcust=2-1-394735-6-632107-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">$979.99 at  Newegg</a>								</span>
+							</div>
+											</div>
+				
+										<div class="product-content">
+						
+<p>From zippy multimedia performance to punchy audio, the Lenovo IdeaPad Slim 7 Carbon has a lot to offer at a reasonable price point. The real star of the show is the 14-inch 2880&times;1800 OLED display. According to the reviewer, &ldquo;the contrast is outstanding, with the deepest blacks and brightest whites.&rdquo; As for colors, they&rsquo;re &ldquo;accurate and noticeably vibrant.&rdquo; The screen is a perfect fit for creative professionals who do a lot of photo editing. In addition to its stunning panel, the laptop also weighs just a little over 2 pounds, making it a capable travel laptop. There are a few minor shortcomings, though. The keyboard isn&rsquo;t the best and battery life is less than stellar. But in the end, the pros really outweigh the cons here.  </p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/632072/lenovo-ideapad-slim-7-carbon-review-affordable-oled-ultraportable.html" target="_blank">Lenovo IdeaPad Slim 7 Carbonreview </a>
+								</div>
+						<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="acer-aspire-5-best-under-500">
+							Acer Aspire 5 &ndash; Best under $500						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Acer Aspire 5 - Best under $500" class="product-chart-item__image" height="1000" src="https://b2c-contenthub.com/wp-content/uploads/2022/03/acer-aspire-5-1.jpg?quality=50&amp;strip=all" width="1500" /></div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list"><li> 
+					Affordable price					</li> 
+										<li> 
+					Rugged build					</li> 
+										<li> 
+					Great keyboard					</li> 
+										<li> 
+					Good selection of ports					</li> 
+														</ul></div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list"><li> 
+					Subpar webcam					</li> 
+										<li> 
+					Annoying bloatware comes pre-installed					</li> 
+										<li> 
+					Touchpad is a little hard to us					</li> 
+													</ul></div>
+													</div>
+					</div>
+														</div>
+						
+				
+										<div class="product-content">
+						
+<p>With its affordable price point, decent performance, and robust build, the Acer Aspire 5 is an excellent sub-$500 option. Our tester was surprised by its &ldquo;solid, durable feel.&rdquo; Although it lacks backlighting, the keyboard is quite nice. It has a spacious layout, which is perfect for longer typing sessions. Performance is fast enough for general-use tasks like writing emails and browsing the web, but that&rsquo;s about it. If you&rsquo;re shopping around for a solid everyday laptop that won&rsquo;t break the bank, the Aspire 5 is definitely worth a look.   </p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/619606/acer-aspire-5-review-this-laptop-covers-the-basics-at-a-very-low-price.html" target="_blank">Acer Aspire 5review </a>
+								</div>
+						<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="lenovo-chromebook-flex-5-best-chromebook">
+							Lenovo Chromebook Flex 5 &ndash; Best Chromebook						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Lenovo Chromebook Flex 5 - Best Chromebook" class="product-chart-item__image" height="1000" src="https://b2c-contenthub.com/wp-content/uploads/2022/01/lenovo-chromebook-flex-5-1.jpg?quality=50&amp;strip=all" width="1500" /></div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list"><li> 
+					Attractive design					</li> 
+										<li> 
+					Affordable					</li> 
+										<li> 
+					Punchy audio					</li> 
+										<li> 
+					Excellent keyboard					</li> 
+														</ul></div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list"><li> 
+					Mediocre performance					</li> 
+										<li> 
+					Subpar battery life					</li> 
+													</ul></div>
+													</div>
+					</div>
+														</div>
+						
+									<div class="product-chart-item__information ">
+													<div class="product-chart-item__information--rrp-wrapper">
+									<span class="product-chart-item__information--rrp-label">
+
+																	</span>
+									<span class="product-chart-item__information--rrp-value">
+																		</span>
+								</div>
+							
+											</div>
+				
+										<div class="product-content">
+						
+<p>The Lenovo Chromebook Flex 5 is a good mid-range Chromebook. It&rsquo;s fast enough for web browsing, editing documents, and so on. That said, it can &ldquo;feel taxed by demanding tasks.&rdquo; When our tester opened up multiple tabs, he noticed a sag in performance. The port selection, however, is nice combination of old and new. It has two USB-C ports, a single USB-A port, a 3.5mm combo audio jack, and a microSD card reader. As for the keyboard, our tester liked the &ldquo;crisp and taut&rdquo; feel of the keys. Although this laptop is a 2-in-1&mdash;meaning the screen can fold back to make it function more like a tablet&mdash;it weighs about 3 pounds, which is on the heavier side for a convertible laptop. It may not be the most portable laptop in the world, but that flexibility can still be nice for applications that favor a tablet form factor.  </p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/564116/lenovo-chromebook-flex-5-review-the-reasonable-choice.html" target="_blank">Lenovo Chromebook Flex 5review </a>
+								</div>
+						<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="hp-chromebook-x2-11-da0023dx-best-folio-style-chromebook">
+							HP Chromebook x2 11 da0023dx &ndash; Best folio-style Chromebook						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="HP Chromebook x2 11 da0023dx - Best folio-style Chromebook" class="product-chart-item__image" height="3024" src="https://b2c-contenthub.com/wp-content/uploads/2022/02/hpchromebook-hero.jpg?quality=50&amp;strip=all" width="4032" /></div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list"><li> 
+					Gorgeous 2K touchscreen					</li> 
+										<li> 
+					Solid performance					</li> 
+										<li> 
+					Excellent battery life					</li> 
+										<li> 
+					Robust design					</li> 
+														</ul></div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list"><li> 
+					Trackpad is too sensitive at times					</li> 
+										<li> 
+					Light on ports					</li> 
+													</ul></div>
+													</div>
+					</div>
+														</div>
+						
+									<div class="product-chart-item__information ">
+													<div class="product-chart-item__information--rrp-wrapper">
+									<span class="product-chart-item__information--rrp-label">
+
+																	</span>
+									<span class="product-chart-item__information--rrp-value">
+																		</span>
+								</div>
+							
+											</div>
+				
+										<div class="product-content">
+						
+<p>Ah, folio-style laptops. While some may find the detachable-keyboard design a pain to deal with, our reviewer really liked this one. The HP Chromebook x2 11 is one of the best 2-in-1 laptops you can buy. The tablet&rsquo;s aluminum chassis feels rugged and like it&rsquo;ll last quite a while. The detachable keyboard took some getting used to, but ended up being fine for long typing sessions. The rear plate, which transforms into a kickstand that holds up the tablet for hands-free use, connects to the back of the tablet via magnets. The reviewer found the connection to be both clean and strong. As for the performance, it&rsquo;s about what you&rsquo;d expect out of a Chromebook. It&rsquo;s zippy enough for everyday tasks like browsing the web and so on. </p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/609500/hp-chromebook-x2-11-da0023dx-review.html" target="_blank">HP Chromebook x2 11review </a>
+								</div>
+						<div class="product-chart-separator"></div>
+			<div class="wp-block-product-chart-item product-chart-item">
+									<div class="product-chart-item__title-wrapper">
+						<h3 class="product-chart-item__title-wrapper--title product-chart-title " id="acer-swift-3-best-for-college-students">
+							Acer Swift 3 &ndash; Best for college students						</h3>
+					</div>
+													<div class="large-pro-cons-product-chart-section">
+											<div class="product-chart-item__image-outer-wrapper
+							product-chart-item__image-outer-wrapper--large">
+							<div class="product-chart-item__image-wrapper">
+								<img alt="Acer Swift 3 - Best for college students" class="product-chart-item__image" height="1000" src="https://b2c-contenthub.com/wp-content/uploads/2022/03/acer-swift-3-16-3.jpg?quality=50&amp;strip=all" width="1500" /></div>
+						</div>
+															<div class="product-chart-body">
+						<div class="product-chart-columns">
+							
+								<div class="product-chart-column">
+									<p class="product-chart-subTitle">Pros</p>
+									<ul class="product-pros-cons-list"><li> 
+					Solid chassis and build quality					</li> 
+										<li> 
+					Large, attractive 16-inch 1080p screen					</li> 
+										<li> 
+					Enjoyable keyboard and touchpad					</li> 
+										<li> 
+					USB-C with charging and DisplayPort					</li> 
+														</ul></div>
+																					<div class="product-chart-column">
+								<p class="product-chart-subTitle">Cons</p>
+								<ul class="product-pros-cons-list"><li> 
+					Webcam, microphone, and speakers don&rsquo;t impress					</li> 
+										<li> 
+					Intel processor falls behind AMD alternatives&nbsp;					</li> 
+										<li> 
+					Disappointing battery life					</li> 
+										<li> 
+					Lots of bloatware					</li> 
+													</ul></div>
+													</div>
+					</div>
+														</div>
+						
+				
+										<div class="product-content">
+						
+<p>If you&rsquo;re a college student working with a modest budget, the Acer Swift 3 is a fantastic option. It features an attractive 16-inch 1080p display, a solid chassis, and an enjoyable keyboard and touchpad. However, battery life is subpar, so you&rsquo;ll want to keep the charger on hand. This is unfortunate, as the Swift 3&rsquo;s slim profile makes it a good laptop for travel. If you don&rsquo;t mind the lackluster battery life, this is a great laptop for watching movies and writing research papers on. </p>
+						</div>
+											Read our full 
+					<a class="product-chart-item__review-link" href="https://www.pcworld.com/article/624297/acer-swift-3-review-a-16-inch-laptop-for-the-rest-of-us.html" target="_blank">Acer Swift 3 SF316-51review </a>
+								</div>
+					</div>
+
+		
+
+
+<h2 id="how-we-tested">How we tested</h2>
+
+
+
+<p>The PCWorld team puts each and every Windows laptop through a series of benchmarks that test GPU and CPU performance, battery life, and so on. The idea is to push the laptop to its limits and then compare it against others we&rsquo;ve tested. Chromebooks, on the other hand, go through a series of web-based tests. It wouldn&rsquo;t be fair or possible to run the same kinds of tests on a Chromebook, as they&rsquo;re Chrome OS-based machines. Below, you&rsquo;ll find a breakdown of each test and the reasons why we run them.</p>
+
+
+
+<h3 id="windows-laptops">Windows laptops</h3>
+
+
+
+<ul><li><strong>PCMark 10</strong>: PCMark 10 is how we determine how well the laptop handles lighter tasks like web browsing, word processing, spreadsheets, and so on.</li><li><strong>HandBrake</strong>: HandBrake is more intensive than PCMark 10. It basically measures how long a laptop&rsquo;s CPU takes to encode a beefy 30GB file. </li><li><strong>Cinebench</strong>: Cinebench is a brief stress test of the CPU cores. It does this by rendering a 2D scene over a short period of time.</li><li><strong>3DMark</strong>: 3DMark checks if 3D performance remains consistent over time by running graphic-intensive clips. </li><li><strong>Video rundown test</strong>: To gauge battery life, we loop a 4K video using Windows 10&rsquo;s Movies &amp; TV app until the laptop dies.</li></ul><h3 id="chromebooks">Chromebooks</h3>
+
+
+
+<ul><li><strong>CrXPRT 2</strong>: The CrXPRT 2 benchmark tests a Chromebook&rsquo;s battery life. </li><li><strong>Speedometer 2.0</strong>: This test determines a Chromebook&rsquo;s web browser performance. It simulates this by adding, completing, and removing a to-do list.</li><li><strong>Basemark Web 3.0</strong>: This benchmark gauges how well a Chromebook can handle web-based applications. </li><li><strong>Kraken 1.1</strong>: Kraken 1.1 is a JavaScript performance benchmark. </li><li><strong>Jetstream 2</strong>: Jetstream 2 is a combination of WebAssembly and JavaScript benchmarks. This is a way to gauge how well a Chromebook runs advanced workloads.</li></ul><h2 id="how-to-pick-a-laptop-under-1000">How to pick a laptop under $1,000</h2>
+
+
+
+<p>Ah, here we are at the million dollar question. Do you spring for a basic Chromebook or go for a Windows laptop with more features? Well, it really depends on your personal lifestyle and what you plan on using your laptop for. For example, Chromebooks are a great low cost option for those who just want the basics. I use a Chromebook as my primary work laptop, as it has everything I need for both editing and writing. If you travel a bunch for work, it&rsquo;s probably a good idea to invest in a laptop with solid battery life. If you&rsquo;re still unsure, don&rsquo;t sweat it. I&rsquo;ve put together a list of quick tips below. </p>
+
+
+
+<h3>What laptop type should I choose?<strong> </strong></h3>
+
+
+
+<p>There&rsquo;s traditional clamshells, 2-in-1&rsquo;s, Chromebooks, and much more. The displays on convertible laptops (aka 2-in-1&rsquo;s), for example, can swing around 360 degrees. This allows you to use the laptop like a tablet. They can also be propped up like a tent for viewing movies or participating in video calls. Chromebooks, on the other hand, exclusively run Google&rsquo;s web-focused Chrome OS and are generally used for everyday tasks. All you need is a Gmail account and boom, you&rsquo;re in. There are pros and cons to each of them. Chromebooks are affordable and generally have good battery life whereas convertibles are normally lightweight and portable.</p>
+
+
+
+<h3><strong>Ho</strong>w do I pick a CPU?</h3>
+
+
+
+<p>If it&rsquo;s CPU power you&rsquo;re looking for, look for processors with higher numerical names. A Core i7 is more suited to gaming and more intense work than everyday tasks. Intel processors are available in Core i3, Core i5, Core i7, and Core i9. The higher the number, the more powerful the CPU. If you don&rsquo;t need a ton of power, Intel Core i5 processors are your best bet, as they offer good performance at a decent price. Basic office and web work gets along just fine on a Core i3. As for AMD options, the Ryzen 3 is good for basic productivity and web browsing, while Ryzen 5 chips rival Intel&rsquo;s Core i5 as solid all-arounders. If you need more power, the Ryzen 7 chip is well suited for content creation like video editing. Finally, if you&rsquo;re dealing with 4K video, spring for a Ryzen 9. </p>
+
+
+
+<h3 id="what-about-gpus">What about GPUs?</h3>
+
+
+
+<p>You&rsquo;ll want a discrete graphics card for hardcore gaming or editing videos. It&rsquo;s separate from the processor, so you can expect higher performance out of it. Integrated graphics, on the other hand, are attached to the CPU and uses less power as a result. This is perfectly fine for everyday tasks, especially if you&rsquo;re not doing anything that&rsquo;s graphics-intensive.</p>
+
+
+
+<h3 id="how-much-ram-should-i-look-for">How much RAM should I look for?</h3>
+
+
+
+<p>8GB of RAM is zippy enough for general use. If you&rsquo;ve got a gaming laptop, 16GB of RAM is the way to go, and content creators will want even more.</p>
+
+
+
+<h3 id="how-about-battery-life">How about battery life?</h3>
+
+
+
+<p>If you plan on taking your laptop anywhere with you, aim for something that can last 10 to 12 hours on a single charge. That&rsquo;s more than a full work day, so it should theoretically get you through long flights or a day of classes. Obviously, more is always better. Just know that the bigger the battery, the heavier the laptop.</p>
+
+
+
+<h3 id="what-kind-of-ports-should-i-look-for">What kind of ports should I look for?</h3>
+
+
+
+<p>A wide array of ports is always a plus in my book, as it eliminates the need for an adapter. I&rsquo;d recommend a laptop that has both USB-C and USB-A. An HDMI port is good, too. This is especially useful for hooking up to an external monitor.</p>
+
+
+
+<div class="wp-block-idg-base-theme-faq-block faq-block"><h2 class="faq-block-title" id="faq"> FAQ </h2><hr class="block-horizotal-divider" /><div class="wp-block-idg-base-theme-faq-inner-block faq-save-block"><div class="faq-save-content"><span class="faq-rank">1.</span>
+<h3 id="do-chromebooks-make-good-gaming-laptops"> Do Chromebooks make good gaming laptops? </h3>
+
+
+
+<div class="wp-block-idg-base-theme-faq-answer-block how-to-tip">
+<p>The short answer is no, but it really depends on the type of gaming you intend to do. Chromebooks will handle web games and Android games just fine. But if you&rsquo;re looking to play the latest high-powered 3D games, a Chromebook won&rsquo;t suffice, because a) it doesn&rsquo;t run Windows, and b) it probably has insufficient graphics power.</p>
+
+
+
+<p>All that said, Google is working hard to bring cloud gaming to Chromebooks. Cloud gaming services use a remote PC or console to play games streamed through the cloud down onto the Chromebook. Until this service becomes more popular, though, Chromebooks will not be able to compete in the gaming arena.</p>
+</div>
+</div></div>
+
+
+
+<div class="wp-block-idg-base-theme-faq-inner-block faq-save-block"><div class="faq-save-content"><span class="faq-rank">2.</span>
+<h3 id="can-integrated-graphics-be-used-for-gaming"> Can integrated graphics be used for gaming? </h3>
+
+
+
+<div class="wp-block-idg-base-theme-faq-answer-block how-to-tip">
+<p>Yes, some of the latest processors with integrated graphics can run modern PC games at reasonable settings. For example, Intel&rsquo;s latest Iris Xe line of processors with integrated graphics have been shown to run some of the latest games at 1080p and 30 fps. Be careful, however, as not all integrated graphics are up to the task.</p>
+
+
+
+<p>Intel and AMD&rsquo;s integrated graphics have made huge leaps in recent years with regard to gaming performance. If you&rsquo;re on a budget or looking for an ultra thin laptop with integrated graphics you can still game on, we recommend checking out <a href="https://www.pcworld.com/article/633378/laptop-graphics-battle-amd-rdna-2-vs-intel-iris-xe.html">Intel&rsquo;s Core 12th-gen Iris Xe or AMD&rsquo;s brand new Ryzen 6000 RDNA 2.</a></p>
+</div>
+</div></div>
+
+
+
+<div class="wp-block-idg-base-theme-faq-inner-block faq-save-block"><div class="faq-save-content"><span class="faq-rank">3.</span>
+<h3 id="what-size-laptop-is-best">What size laptop is best?</h3>
+
+
+
+<div class="wp-block-idg-base-theme-faq-answer-block how-to-tip">
+<p>This is really personal preference. If you intend to travel a lot with your laptop then a smaller, more portable size in the neighborhood of 13 to 14 inches is recommended. If you want to do gaming on a laptop, then you should look for something in the 15 to 17 inch range. Also, keep in mind the weight of the laptop before you buy it. Ultra thin laptops can weigh a featherlight 2 pounds while beefy gaming computers top the scales at three or four times that.</p>
+</div>
+</div></div>
+
+
+
+<div class="wp-block-idg-base-theme-faq-inner-block faq-save-block"><div class="faq-save-content"><span class="faq-rank">4.</span>
+<h3 id="what-is-an-ultrabook">What is an Ultrabook?</h3>
+
+
+
+<div class="wp-block-idg-base-theme-faq-answer-block how-to-tip">
+<p>Originally a marketing term coined by Intel, it refers to a thin and lightweight laptop that fits somewhere between a tablet and a premium notebook. Ultrabooks typically come with more productivity features than tablets and are designed to be more portable than larger, heavier business laptops.</p>
+
+
+
+<p>Ultrabooks are usually around 2cm thick, come with an Intel processor and a fast SSD, have longer than average battery life, and retail for consumer-friendly prices. However, there are so many different Ultrabooks available nowadays that these specifications have become more like general guidelines rather than rigid standards.</p>
+</div>
+</div></div>
+</div>
+Gaming Laptops, Laptops, Ultraportable Laptops</div>

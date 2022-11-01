@@ -1,3 +1,129 @@
+## Wicked Globalists Are Causing Starvation and Poverty Under the Guise of Environmentalism
+ - [https://www.youtube.com/watch?v=tF5spyudTYA](https://www.youtube.com/watch?v=tF5spyudTYA)
+ - RSS feed: https://www.youtube.com/c/JordanPetersonVideos
+ - date published: 2022-10-31 21:16:14+00:00
+ - Starred: True
+
+
+## Apple's Mac renaissance has truly begun
+ - [https://www.computerworld.com/article/3678312/apples-mac-renaissance-has-truly-begun.html#tk.rss_all](https://www.computerworld.com/article/3678312/apples-mac-renaissance-has-truly-begun.html#tk.rss_all)
+ - RSS feed: https://www.computerworld.com/index.rss
+ - date published: 2022-10-31 16:14:00+00:00
+ - Starred: True
+
+
+## Twitter Blows Up At Professor After Demanding ‘Pandemic Amnesty’ in Atlantic Op-Ed
+ - [https://www.dailywire.com/news/twitter-blows-up-at-professor-after-demanding-pandemic-amnesty-in-atlantic-op-ed](https://www.dailywire.com/news/twitter-blows-up-at-professor-after-demanding-pandemic-amnesty-in-atlantic-op-ed)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-10-31 14:53:53+00:00
+ - Starred: True
+
+
+## California makes it illegal for doctors to disagree with politicians
+ - [https://nypost.com/2022/10/10/california-makes-it-illegal-for-doctors-to-disagree-with-politicians/](https://nypost.com/2022/10/10/california-makes-it-illegal-for-doctors-to-disagree-with-politicians/)
+ - RSS feed: https://nypost.com
+ - date published: 2022-10-31 13:27:01+00:00
+ - Starred: True
+
+
+## To understand China you need to understand whiteness, yet it's missing from the conversation
+ - [https://www.abc.net.au/news/2022-10-16/race-and-whiteness-key-to-understanding-xi-jinpings-china/101536024](https://www.abc.net.au/news/2022-10-16/race-and-whiteness-key-to-understanding-xi-jinpings-china/101536024)
+ - RSS feed: https://www.abc.net.au
+ - date published: 2022-10-31 13:25:33+00:00
+ - Starred: True
+
+
+## MFW: Inflacja w Polsce w 2023 będzie drugą najwyższą w Europie po Turcji
+ - [https://www.wykop.pl/link/6882365/mfw-inflacja-w-polsce-w-2023-bedzie-druga-najwyzsza-w-europie-po-turcji/](https://www.wykop.pl/link/6882365/mfw-inflacja-w-polsce-w-2023-bedzie-druga-najwyzsza-w-europie-po-turcji/)
+ - RSS feed: https://www.wykop.pl/rss/index.xml/
+ - date published: 2022-10-31 12:32:01+00:00
+ - Starred: True
+
+
+## World jobs boom halted by Ukraine war and recession risk, says ILO
+ - [https://www.theguardian.com/business/2022/oct/31/world-jobs-ukraine-war-recession-ilo-covid-pandemic](https://www.theguardian.com/business/2022/oct/31/world-jobs-ukraine-war-recession-ilo-covid-pandemic)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-10-31 12:24:55+00:00
+ - Starred: True
+
+
+## Niemcy nie rezygnują z atomu. Energetyczne plany zmieniali kilka razy
+ - [https://wydarzenia.interia.pl/zagranica/news-niemcy-nie-rezygnuja-z-atomu-energetyczne-plany-zmieniali-ki,nId,6381863](https://wydarzenia.interia.pl/zagranica/news-niemcy-nie-rezygnuja-z-atomu-energetyczne-plany-zmieniali-ki,nId,6381863)
+ - RSS feed: https://wydarzenia.interia.pl/feed
+ - date published: 2022-10-31 11:46:32+00:00
+ - Starred: True
+
+
+## Centra handlowe zapomniały o pandemii. Obroty znacznie wzrosły
+ - [https://www.bankier.pl/wiadomosc/Centra-handlowe-zapomnialy-o-pandemii-Obroty-znacznie-wzrosly-8431788.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Centra-handlowe-zapomnialy-o-pandemii-Obroty-znacznie-wzrosly-8431788.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2022-10-31 11:43:00+00:00
+ - Starred: True
+
+
+## Inflation isn't going anywhere. Just look at the latest data from Europe
+ - [https://www.cnn.com/2022/10/31/economy/europe-inflation/index.html](https://www.cnn.com/2022/10/31/economy/europe-inflation/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-10-31 11:41:20+00:00
+ - Starred: True
+
+
+## Two-thirds of US money for fossil fuel pours into Africa despite climate goals
+ - [https://www.theguardian.com/environment/2022/oct/31/two-thirds-of-us-money-for-fossil-fuel-pours-into-africa-despite-climate-goals](https://www.theguardian.com/environment/2022/oct/31/two-thirds-of-us-money-for-fossil-fuel-pours-into-africa-despite-climate-goals)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-10-31 10:00:52+00:00
+ - Starred: True
+
+
+## Why the App Store’s tone-deaf gambling ads make me worry about Apple
+ - [https://arstechnica.com/?p=1892975](https://arstechnica.com/?p=1892975)
+ - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
+ - date published: 2022-10-31 10:00:10+00:00
+ - Starred: True
+
+
+## US curbs on microchips could throttle China's ambitions and escalate the tech war
+ - [https://www.cnn.com/2022/10/31/tech/us-sanctions-chips-china-xi-tech-ambitions-intl-hnk/index.html](https://www.cnn.com/2022/10/31/tech/us-sanctions-chips-china-xi-tech-ambitions-intl-hnk/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-10-31 09:29:06+00:00
+ - Starred: True
+
+
+## 'Simply being a Christian is enough to get you arrested' in Iran: British government report
+ - [https://www.foxnews.com/world/simply-being-a-christian-enough-get-you-arrested-iran-british-government-report](https://www.foxnews.com/world/simply-being-a-christian-enough-get-you-arrested-iran-british-government-report)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-10-31 06:00:11+00:00
+ - Starred: True
+
+
+## Using AI to compress audio files for quick and easy sharing
+ - [https://ai.facebook.com/blog/ai-powered-audio-compression-technique/](https://ai.facebook.com/blog/ai-powered-audio-compression-technique/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-10-31 04:37:36+00:00
+ - Starred: True
+
+
+## Hackers use Microsoft IIS web server logs to control malware
+ - [https://www.codeproject.com/script/News/View.aspx?nwid=59348](https://www.codeproject.com/script/News/View.aspx?nwid=59348)
+ - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
+ - date published: 2022-10-31 04:00:00+00:00
+ - Starred: True
+
+
+## Employee Happiness Is A Leading Indicator Of Profitability And Productivity
+ - [https://www.forbes.com/sites/cindygordon/2022/10/30/employee-happiness-is-a-leading-indicator-of-profitability-and-productivity/](https://www.forbes.com/sites/cindygordon/2022/10/30/employee-happiness-is-a-leading-indicator-of-profitability-and-productivity/)
+ - RSS feed: https://www.forbes.com/innovation/feed2
+ - date published: 2022-10-30 22:16:43+00:00
+ - Starred: True
+
+
+## Islamic extremism in UK is 'a bigger issue than we are willing to accept', Home Office source claims
+ - [https://www.dailymail.co.uk/news/article-11371013/Islamic-extremism-UK-bigger-issue-willing-accept-Home-Office-source-claims.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11371013/Islamic-extremism-UK-bigger-issue-willing-accept-Home-Office-source-claims.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-10-30 18:39:30+00:00
+ - Starred: True
+
+
 ## China braces for wave of workers fleeing iPhone factory in Covid-hit Zhengzhou
  - [https://www.theguardian.com/technology/2022/oct/30/china-braces-for-wave-of-workers-fleeing-iphone-factory-in-covid-hit-zhengzhou](https://www.theguardian.com/technology/2022/oct/30/china-braces-for-wave-of-workers-fleeing-iphone-factory-in-covid-hit-zhengzhou)
  - RSS feed: https://www.theguardian.com/international/rss
