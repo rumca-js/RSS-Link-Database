@@ -1,3 +1,122 @@
+## You Really Don't Want the Government to Be Your Content Moderator
+ - [https://gizmodo.com/homeland-security-content-moderation-disinformation-no-1849724281](https://gizmodo.com/homeland-security-content-moderation-disinformation-no-1849724281)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-11-01 21:20:00+00:00
+ - Starred: True
+
+
+## Elon Musk says Twitter Blue will cost $8 and be required for verification
+ - [https://www.engadget.com/twitter-blue-price-increasing-8-per-month-180319987.html?src=rss](https://www.engadget.com/twitter-blue-price-increasing-8-per-month-180319987.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2022-11-01 18:03:19+00:00
+ - Starred: True
+
+
+## Koreańczycy zbudują elektrownię atomową w Polsce. "Budują w budżecie i w terminie"
+ - [https://www.polsatnews.pl/wiadomosc/2022-11-01/koreanczycy-zbuduja-elektrownie-atomowa-w-polsce-buduja-w-budzecie-i-w-terminie/](https://www.polsatnews.pl/wiadomosc/2022-11-01/koreanczycy-zbuduja-elektrownie-atomowa-w-polsce-buduja-w-budzecie-i-w-terminie/)
+ - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
+ - date published: 2022-11-01 10:45:00+00:00
+ - Starred: True
+
+
+## Woke doctor pledge replaces Hippocratic oath for Minnesota medical students
+ - [https://youtu.be/U_c7CcVspfI](https://youtu.be/U_c7CcVspfI)
+ - RSS feed: https://youtu.be/U_c7CcVspfI
+ - date published: 2022-11-01 10:22:59+00:00
+ - Starred: True
+
+
+## ARM to prohibit proximity of CPU w 3rd-party modules in one chip
+ - [https://www.ryzencpu.com/2022/10/arm-will-prohibit-proximity-of-its-cpu.html](https://www.ryzencpu.com/2022/10/arm-will-prohibit-proximity-of-its-cpu.html)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-11-01 10:11:25+00:00
+ - Starred: True
+
+
+## RIP Google Hangouts, Google’s last, best chance to compete with iMessage
+ - [https://arstechnica.com/?p=1891674](https://arstechnica.com/?p=1891674)
+ - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
+ - date published: 2022-11-01 10:00:33+00:00
+ - Starred: True
+
+
+## Elon Musk’s Twitter takeover sees huge surge in new users for rival Mastodon
+ - [https://www.techradar.com/news/elon-musks-twitter-takeover-sees-huge-surge-in-new-users-for-rival-mastodon/](https://www.techradar.com/news/elon-musks-twitter-takeover-sees-huge-surge-in-new-users-for-rival-mastodon/)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2022-11-01 08:18:58+00:00
+ - Starred: True
+
+
+## Jerzy Owsiak przegrał proces. "Moje serce powoli umiera"
+ - [https://teleshow.wp.pl/jerzy-owsiak-przegral-proces-barbara-piela-moje-serce-powoli-umiera-6826854577212320a](https://teleshow.wp.pl/jerzy-owsiak-przegral-proces-barbara-piela-moje-serce-powoli-umiera-6826854577212320a)
+ - RSS feed: https://teleshow.wp.pl
+ - date published: 2022-11-01 08:18:37+00:00
+ - Starred: True
+
+
+## FB and Twitter have special portals for the government to take down content
+ - [https://twitter.com/lhfang/status/1587104660355096576](https://twitter.com/lhfang/status/1587104660355096576)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-11-01 08:07:01+00:00
+ - Starred: True
+
+
+## From Hunter Biden to the Wuhan lab-leak theory, eight times the media admitted it got a major narrative wrong
+ - [https://www.foxnews.com/media/from-hunter-biden-wuhan-lab-leak-theory-eight-times-media-admitted-major-narrative-wrong](https://www.foxnews.com/media/from-hunter-biden-wuhan-lab-leak-theory-eight-times-media-admitted-major-narrative-wrong)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-11-01 06:00:17+00:00
+ - Starred: True
+
+
+## Mozilla blog: Begin your MV3 migration by implementing new features today
+ - [https://blog.mozilla.org/addons/2022/10/31/begin-your-mv3-migration-by-implementing-new-features-today/](https://blog.mozilla.org/addons/2022/10/31/begin-your-mv3-migration-by-implementing-new-features-today/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-11-01 05:07:08+00:00
+ - Starred: True
+
+
+## I finally found a use case for my Raspberry Pi Model B+
+ - [https://ounapuu.ee/posts/2022/11/01/finding-use-case-for-raspberry-pi/](https://ounapuu.ee/posts/2022/11/01/finding-use-case-for-raspberry-pi/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-11-01 04:25:25+00:00
+ - Starred: True
+
+
+## Is There Too Much CSS Now?
+ - [https://www.codeproject.com/script/News/View.aspx?nwid=59351](https://www.codeproject.com/script/News/View.aspx?nwid=59351)
+ - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
+ - date published: 2022-11-01 04:00:00+00:00
+ - Starred: True
+
+
+## Big Tech Earnings Put Advertising, Privacy, And User Experience In Focus
+ - [https://www.forbes.com/sites/danielnewman/2022/10/31/big-tech-earnings-put-advertising-privacy-and-user-experience-in-focus/](https://www.forbes.com/sites/danielnewman/2022/10/31/big-tech-earnings-put-advertising-privacy-and-user-experience-in-focus/)
+ - RSS feed: https://www.forbes.com/innovation/feed2
+ - date published: 2022-11-01 02:27:57+00:00
+ - Starred: True
+
+
+## Big Tech Worked Closely With The FBI And DHS To Police ‘Disinformation’
+ - [https://www.dailywire.com/news/big-tech-worked-closely-with-the-fbi-and-dhs-to-police-disinformation](https://www.dailywire.com/news/big-tech-worked-closely-with-the-fbi-and-dhs-to-police-disinformation)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-11-01 00:36:44+00:00
+ - Starred: True
+
+
+## Study Shows 30% of People Are Redoing Google Searches     - CNET
+ - [https://www.cnet.com/tech/services-and-software/study-shows-30-of-people-are-redoing-google-searches/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/study-shows-30-of-people-are-redoing-google-searches/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2022-10-31 23:54:00+00:00
+ - Starred: True
+
+
+## Shanghai Disneyland Reportedly Shuts Down Due to COVID With Guests Still Inside     - CNET
+ - [https://www.cnet.com/health/medical/shanghai-disneyland-reportedly-shuts-down-due-to-covid-with-guests-still-inside/#ftag=CADf328eec](https://www.cnet.com/health/medical/shanghai-disneyland-reportedly-shuts-down-due-to-covid-with-guests-still-inside/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2022-10-31 22:15:05+00:00
+ - Starred: True
+
+
 ## Wicked Globalists Are Causing Starvation and Poverty Under the Guise of Environmentalism
  - [https://www.youtube.com/watch?v=tF5spyudTYA](https://www.youtube.com/watch?v=tF5spyudTYA)
  - RSS feed: https://www.youtube.com/c/JordanPetersonVideos
@@ -583,6 +702,13 @@
  - [https://www.foxnews.com/world/cambridge-university-draws-criticism-woke-gender-neutral-german-curriculum](https://www.foxnews.com/world/cambridge-university-draws-criticism-woke-gender-neutral-german-curriculum)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-10-26 15:38:10+00:00
+ - Starred: True
+
+
+## The Fed Likes to Tout Its Independence. So Why Are Big Banks Lobbying It?
+ - [https://theintercept.com/2022/10/26/federal-reserve-bank-lobby/](https://theintercept.com/2022/10/26/federal-reserve-bank-lobby/)
+ - RSS feed: https://theintercept.com/feed/?lang=en
+ - date published: 2022-10-26 15:30:26+00:00
  - Starred: True
 
 
@@ -1349,6 +1475,13 @@
  - Starred: True
 
 
+## The Wealth of America’s Bottom 50 Percent Has Doubled During the Pandemic Years
+ - [https://theintercept.com/2022/10/21/economy-wealth-pandemic-inflation/](https://theintercept.com/2022/10/21/economy-wealth-pandemic-inflation/)
+ - RSS feed: https://theintercept.com/feed/?lang=en
+ - date published: 2022-10-21 18:43:15+00:00
+ - Starred: True
+
+
 ## YouTube Hikes Price of Family Plans     - CNET
  - [https://www.cnet.com/tech/services-and-software/youtube-hikes-price-of-family-plans/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/youtube-hikes-price-of-family-plans/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
@@ -1444,6 +1577,13 @@
  - [https://www.cnn.com/2022/10/21/tech/facebook-tiktok-misinfo-ads/index.html](https://www.cnn.com/2022/10/21/tech/facebook-tiktok-misinfo-ads/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 12:30:37+00:00
+ - Starred: True
+
+
+## Saudis Sought Oil Production Cut So Deep It Surprised Even Russia
+ - [https://theintercept.com/2022/10/20/saudi-oil-production-cut/](https://theintercept.com/2022/10/20/saudi-oil-production-cut/)
+ - RSS feed: https://theintercept.com/feed/?lang=en
+ - date published: 2022-10-20 18:53:18+00:00
  - Starred: True
 
 
@@ -4965,6 +5105,13 @@
  - [https://www.androidauthority.com/google-doj-antitrust-action-3207188/](https://www.androidauthority.com/google-doj-antitrust-action-3207188/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-09 16:31:43+00:00
+ - Starred: True
+
+
+## Ask HN: Why do we need central bank digital currency (CBDC)?
+ - [https://news.ycombinator.com/item?id=32777875](https://news.ycombinator.com/item?id=32777875)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-09-09 11:23:47+00:00
  - Starred: True
 
 
