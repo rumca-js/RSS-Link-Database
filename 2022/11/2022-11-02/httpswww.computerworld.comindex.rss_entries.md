@@ -1,0 +1,52 @@
+## Apple must take another brick from its wall, says EU
+ - [https://www.computerworld.com/article/3678689/apple-must-take-another-brick-from-its-wall-says-eu.html#tk.rss_all](https://www.computerworld.com/article/3678689/apple-must-take-another-brick-from-its-wall-says-eu.html#tk.rss_all)
+ - RSS feed: https://www.computerworld.com/index.rss
+ - date published: 2022-11-02 17:08:00+00:00
+ - Starred: False
+
+<article>
+	<section class="page">
+<p>The European Union (EU) wants to break down the wall surrounding Apple’s proverbial garden, as new laws targeting Big Tech may force the company to support third-party app stores on its devices.</p><h2><strong>Another brick from the wall</strong></h2>
+<p>The <a href="https://ec.europa.eu/commission/presscorner/detail/en/QANDA_20_2349" rel="noopener nofollow" target="_blank">EU’s Digital Markets Act</a> (DMA) <a href="https://ec.europa.eu/commission/presscorner/detail/en/ip_22_6423" rel="noopener nofollow" target="_blank">demands a lot</a>. It aims to level the playing field for internet services and is the latest in a <a href="https://www.computerworld.com/article/3674689/uks-ofcom-to-probe-cloud-services-messenger-apps-and-smart-devices.html">global wave of regulation</a> to hit the tech sector.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3678689/apple-must-take-another-brick-from-its-wall-says-eu.html#jump">To read this article in full, please click here</a></p></section></article>
+
+## BrandPost: From Banks to Bananas: The Future of AI for IT Operations
+ - [https://www.computerworld.com/article/3678299/from-banks-to-bananas-the-future-of-ai-for-it-operations.html#tk.rss_all](https://www.computerworld.com/article/3678299/from-banks-to-bananas-the-future-of-ai-for-it-operations.html#tk.rss_all)
+ - RSS feed: https://www.computerworld.com/index.rss
+ - date published: 2022-11-02 14:49:00+00:00
+ - Starred: False
+
+<article>
+	<section class="page">
+<p>The concept of artificial intelligence (AI) has far-reaching promise and applicability across the business and technology landscape. Thanks to the growth of big data, machine learning, analytics, and blazing computational speeds, the use of artificial intelligence has matured and is now playing a critical role in every major vertical, from banking to retail to logistics. This opens opportunities for organizations to combine the power of AI and mainframe to drive higher levels of operational resilience across their IT environment.</p><h2><strong>The mainframe AI revolution is here</strong></h2>
+<p>To compete, enterprises need to ensure that their business processes can scale and perform flawlessly to delight their customers. Whether purchasing groceries, booking a flight, or trading stock, consumers expect 24/7 sub-second response. Over the last two years, technology teams around the world have done an amazing job keeping things running during the pandemic, but they continue to deal with plenty of moving targets. Every day, they face fresh challenges, and they are increasingly using <a href="https://broadcom-mainframe.com/3fQGwOZ" rel="noopener nofollow" target="_blank">AI as part of the solution</a>.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3678299/from-banks-to-bananas-the-future-of-ai-for-it-operations.html#jump">To read this article in full, please click here</a></p></section></article>
+
+## BrandPost: The Economics of Technology Investments
+ - [https://www.computerworld.com/article/3678357/the-economics-of-technology-investments.html#tk.rss_all](https://www.computerworld.com/article/3678357/the-economics-of-technology-investments.html#tk.rss_all)
+ - RSS feed: https://www.computerworld.com/index.rss
+ - date published: 2022-11-02 14:38:00+00:00
+ - Starred: False
+
+<article>
+	<section class="page">
+<p>The 4th Industrial Revolution is moving at a pace so significant that there is no historical precedent. Even within the world of economics, we’re experiencing a new kind of economy: a <a href="https://broadcom-mainframe.com/3TGfKaW" rel="noopener nofollow" target="_blank">Technology Economy</a>. In this evolving landscape, enterprises that understand Technology Economics principles and use them to guide decisions are among top industry performers.</p><p>So what does this mean for evaluating the cost and effectiveness of your tech stack and planned IT investments? Glad you asked. Here is a framework for managing your Technology Economy.</p><h2>New asset classes are born</h2>
+<p>A substantial part of any economy is assessing risk and identifying value. When calculating the value of technology, it’s necessary to consider how technology influences your operational costs, efficiency, customer satisfaction, and ability to deliver products to market. As with traditional economies, in a Technology Economy, each investment in a particular technology presents relative levels of value and risk. However, rather than measuring those variables on a scale of profit, loss, and volatility, value and risk in a technology context correspond to attributes such as economics, scalability, software capabilities, information security, reliability, availability, and sustainability impact.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3678357/the-economics-of-technology-investments.html#jump">To read this article in full, please click here</a></p></section></article>
+
+## BrandPost: Compliance: Meeting Regulatory Requirements...and More
+ - [https://www.computerworld.com/article/3678356/compliance-meeting-regulatory-requirements-and-more.html#tk.rss_all](https://www.computerworld.com/article/3678356/compliance-meeting-regulatory-requirements-and-more.html#tk.rss_all)
+ - RSS feed: https://www.computerworld.com/index.rss
+ - date published: 2022-11-02 14:30:00+00:00
+ - Starred: False
+
+<article>
+	<section class="page">
+<p>Compliance is an important focus for every business, but regulatory requirements are only the tip of the iceberg. Compliance also plays a role in ensuring that organizations meet the needs of their employees, leaders, and stakeholders.</p><p>At the heart of how enterprises conduct their business, compliance is a top boardroom topic. When it comes to IT, with highly valuable business data and applications in the mix, the stakes run high. With the <a href="https://broadcom-mainframe.com/3SMIRsc" rel="noopener nofollow" target="_blank">mainframe</a>, leaders can stay sharp and make compliance, transparency, and reporting a core part of a winning business strategy.</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3678356/compliance-meeting-regulatory-requirements-and-more.html#jump">To read this article in full, please click here</a></p></section></article>
+
+## How to unlock Google Assistant's most advanced Android shortcuts
+ - [https://www.computerworld.com/article/3678151/google-assistant-android-shortcuts.html#tk.rss_all](https://www.computerworld.com/article/3678151/google-assistant-android-shortcuts.html#tk.rss_all)
+ - RSS feed: https://www.computerworld.com/index.rss
+ - date published: 2022-11-02 10:00:00+00:00
+ - Starred: False
+
+<article>
+	<section class="page">
+<p>Google Assistant's got all sorts of <a href="https://www.computerworld.com/article/3255009/google-assistant-efficiency-tips-android.html">time-saving smarts</a> on Android. That much we all <a href="https://www.computerworld.com/article/3639844/google-assistant-android.html">know by now</a>, right?</p><p>But get this: Assistant's most useful Android superpower is something that's completely out of sight and up to <em>you</em> to dig up and activate. (And no, I'm not talking about its <a href="https://www.androidintel.net/24798/android-automation/" rel="noopener nofollow" target="_blank">freshly expanded Android automation station </a>— though that's pretty sweet, too.)</p><p class="jumpTag"><a href="https://www.computerworld.com/article/3678151/google-assistant-android-shortcuts.html#jump">To read this article in full, please click here</a></p></section></article>

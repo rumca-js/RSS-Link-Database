@@ -1,3 +1,171 @@
+## Facebook's Going Back to Only Using Algorithms to Curate Its News Tab
+ - [https://gizmodo.com/facebook-meta-news-curation-algorithm-1849734224](https://gizmodo.com/facebook-meta-news-curation-algorithm-1849734224)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-11-02 19:50:00+00:00
+ - Starred: True
+
+
+## The damage Kanye West is doing is devastating
+ - [https://www.cnn.com/2022/11/02/opinions/kanye-west-antisemitic-comments-carter/index.html](https://www.cnn.com/2022/11/02/opinions/kanye-west-antisemitic-comments-carter/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-11-02 19:47:04+00:00
+ - Starred: True
+
+
+## Americans by wide margins want race kept OUT of college admissions, says poll
+ - [https://www.dailymail.co.uk/news/article-11381789/Americans-wide-margins-want-race-kept-college-admissions-says-poll.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11381789/Americans-wide-margins-want-race-kept-college-admissions-says-poll.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-11-02 19:47:04+00:00
+ - Starred: True
+
+
+## Mark Zuckerberg’s metaverse is a joke not shared equally with investors  | Nils Pratley
+ - [https://www.theguardian.com/business/nils-pratley-on-finance/2022/nov/02/mark-zuckerberg-metaverse-is-a-joke-not-shared-equally-with-investors](https://www.theguardian.com/business/nils-pratley-on-finance/2022/nov/02/mark-zuckerberg-metaverse-is-a-joke-not-shared-equally-with-investors)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-11-02 18:50:10+00:00
+ - Starred: True
+
+
+## At least 6% of global fishing ‘probably illegal’ as ships turn off tracking devices
+ - [https://www.theguardian.com/environment/2022/nov/02/at-least-6-percent-global-fishing-likely-as-ships-turn-off-tracking-devices-study](https://www.theguardian.com/environment/2022/nov/02/at-least-6-percent-global-fishing-likely-as-ships-turn-off-tracking-devices-study)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-11-02 18:00:21+00:00
+ - Starred: True
+
+
+## Why Is Global Polluter Coca-Cola Sponsoring a Major Climate Conference?
+ - [https://gizmodo.com/coca-cola-sponsor-cop27-climate-change-1849716645](https://gizmodo.com/coca-cola-sponsor-cop27-climate-change-1849716645)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-11-02 17:57:00+00:00
+ - Starred: True
+
+
+## White House is forced to DELETE tweet claiming Biden gave seniors a record boost in Social Security
+ - [https://www.dailymail.co.uk/news/article-11382657/White-House-forced-DELETE-tweet-claiming-Biden-gave-seniors-record-boost-social-security.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11382657/White-House-forced-DELETE-tweet-claiming-Biden-gave-seniors-record-boost-social-security.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-11-02 17:44:00+00:00
+ - Starred: True
+
+
+## Gmail will track packages to help with your holiday shopping
+ - [https://www.engadget.com/gmail-package-tracking-google-173148117.html?src=rss](https://www.engadget.com/gmail-package-tracking-google-173148117.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2022-11-02 17:31:48+00:00
+ - Starred: True
+
+
+## Twitter users fact-check a White House tweet so hard the White House DELETES the tweet
+ - [https://www.louderwithcrowder.com/white-house-tweet](https://www.louderwithcrowder.com/white-house-tweet)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2022-11-02 17:15:18+00:00
+ - Starred: True
+
+
+## The UK economy is about to be thrown into a black hole – by its own government | Larry Elliott
+ - [https://www.theguardian.com/commentisfree/2022/nov/02/the-uk-economy-is-about-to-be-thrown-into-a-black-hole-by-its-own-government](https://www.theguardian.com/commentisfree/2022/nov/02/the-uk-economy-is-about-to-be-thrown-into-a-black-hole-by-its-own-government)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-11-02 16:24:30+00:00
+ - Starred: True
+
+
+## Lockdowns: The Great Gaslighting
+ - [https://brownstone.org/articles/lockdowns-the-great-gaslighting/](https://brownstone.org/articles/lockdowns-the-great-gaslighting/)
+ - RSS feed: https://brownstone.org
+ - date published: 2022-11-02 15:04:47+00:00
+ - Starred: True
+
+
+## Cenzura na oficjalnym profilu Poznania na Facebooku? Mamy odpowiedź miasta
+ - [https://epoznan.pl/news-news-133890-cenzura_na_oficjalnym_profilu_poznania_na_facebooku_mamy_odpowiedz_miasta?rss=1](https://epoznan.pl/news-news-133890-cenzura_na_oficjalnym_profilu_poznania_na_facebooku_mamy_odpowiedz_miasta?rss=1)
+ - RSS feed: https://epoznan.pl/rss
+ - date published: 2022-11-02 14:30:00+00:00
+ - Starred: True
+
+
+## China bans celebrities with ‘lapsed morals’ from endorsing products
+ - [https://www.theguardian.com/world/2022/nov/02/china-bans-celebrities-lapsed-morals-endorsing-products](https://www.theguardian.com/world/2022/nov/02/china-bans-celebrities-lapsed-morals-endorsing-products)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-11-02 11:31:16+00:00
+ - Starred: True
+
+
+## Anti-Woke YouTube Competitor Rumble Tells France Au Revoir Over Censorship Demands
+ - [https://www.dailywire.com/news/anti-woke-youtube-competitor-rumble-tells-france-au-revoir-over-censorship-demands](https://www.dailywire.com/news/anti-woke-youtube-competitor-rumble-tells-france-au-revoir-over-censorship-demands)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-11-02 09:21:52+00:00
+ - Starred: True
+
+
+## Biden blasted for blaming high inflation on ‘war in Iraq,’ confusion on where his son died: ‘This is just sad’
+ - [https://www.foxnews.com/media/biden-blasted-blaming-high-inflation-war-iraq-confusion-son-died-sad](https://www.foxnews.com/media/biden-blasted-blaming-high-inflation-war-iraq-confusion-son-died-sad)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-11-02 09:00:38+00:00
+ - Starred: True
+
+
+## With the global economy on the rocks, quiet quitting is no longer a thing | Arwa Mahdawi
+ - [https://www.theguardian.com/commentisfree/2022/nov/02/with-the-global-economy-on-the-rocks-quiet-quitting-is-no-longer-a-thing](https://www.theguardian.com/commentisfree/2022/nov/02/with-the-global-economy-on-the-rocks-quiet-quitting-is-no-longer-a-thing)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-11-02 08:00:56+00:00
+ - Starred: True
+
+
+## Wielu pracowników obawia się postępującej robotyzacji. Eksperci uspokajają i wymieniają korzyści
+ - [https://www.bankier.pl/wiadomosc/Wielu-pracownikow-obawia-sie-postepujacej-robotyzacji-Eksperci-uspokajaja-i-wymieniaja-korzysci-8432290.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Wielu-pracownikow-obawia-sie-postepujacej-robotyzacji-Eksperci-uspokajaja-i-wymieniaja-korzysci-8432290.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2022-11-02 05:25:00+00:00
+ - Starred: True
+
+
+## Pekin umacnia wpływy w Niemczech. "Bild" wymienił lobbujących polityków
+ - [https://wydarzenia.interia.pl/zagranica/news-pekin-umacnia-wplywy-w-niemczech-bild-wymienil-lobbujacych-p,nId,6385264](https://wydarzenia.interia.pl/zagranica/news-pekin-umacnia-wplywy-w-niemczech-bild-wymienil-lobbujacych-p,nId,6385264)
+ - RSS feed: https://wydarzenia.interia.pl/feed
+ - date published: 2022-11-02 05:20:38+00:00
+ - Starred: True
+
+
+## Egyptian regime criticized as climate activist arrested in run-up to Cop27
+ - [https://www.theguardian.com/environment/2022/nov/02/egypt-human-rights-climate-crisis-cop27](https://www.theguardian.com/environment/2022/nov/02/egypt-human-rights-climate-crisis-cop27)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-11-02 05:00:52+00:00
+ - Starred: True
+
+
+## Mastodon gained 70,000 users after Musk’s Twitter takeover. I joined them
+ - [https://www.theguardian.com/media/2022/nov/01/mastodon-twitter-elon-musk-takeover](https://www.theguardian.com/media/2022/nov/01/mastodon-twitter-elon-musk-takeover)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-11-02 05:00:52+00:00
+ - Starred: True
+
+
+## Wenezuela i Kolumbia zapowiedziały "całkowitą integrację" swoich gospodarek
+ - [https://www.bankier.pl/wiadomosc/Wenezuela-i-Kolumbia-zapowiedzialy-calkowita-integracje-swoich-gospodarek-8432274.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Wenezuela-i-Kolumbia-zapowiedzialy-calkowita-integracje-swoich-gospodarek-8432274.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2022-11-02 04:14:00+00:00
+ - Starred: True
+
+
+## Scientists increasingly can’t explain how AI works
+ - [https://www.codeproject.com/script/News/View.aspx?nwid=59370](https://www.codeproject.com/script/News/View.aspx?nwid=59370)
+ - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
+ - date published: 2022-11-02 04:00:00+00:00
+ - Starred: True
+
+
+## New York Magazine writer admits media 'afraid' to criticize the left on COVID, Black Lives Matter
+ - [https://www.foxnews.com/media/new-york-magazine-writer-admits-media-afraid-criticize-left-covid-black-lives-matter](https://www.foxnews.com/media/new-york-magazine-writer-admits-media-afraid-criticize-left-covid-black-lives-matter)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-11-02 02:54:48+00:00
+ - Starred: True
+
+
+## Criminals hijack antivirus software to deliver malware
+ - [https://www.techradar.com/news/criminals-hijack-antivirus-software-to-deliver-malware/](https://www.techradar.com/news/criminals-hijack-antivirus-software-to-deliver-malware/)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2022-11-01 22:28:31+00:00
+ - Starred: True
+
+
 ## You Really Don't Want the Government to Be Your Content Moderator
  - [https://gizmodo.com/homeland-security-content-moderation-disinformation-no-1849724281](https://gizmodo.com/homeland-security-content-moderation-disinformation-no-1849724281)
  - RSS feed: https://gizmodo.com/rss
