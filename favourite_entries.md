@@ -1,3 +1,87 @@
+## Bank of England expects UK to fall into longest ever recession
+ - [https://www.bbc.com/news/business-63471725](https://www.bbc.com/news/business-63471725)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-11-03 18:54:17+00:00
+ - Starred: True
+
+
+## Linux Boot Partitions
+ - [https://0pointer.net/blog/linux-boot-partitions.html](https://0pointer.net/blog/linux-boot-partitions.html)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-11-03 18:13:25+00:00
+ - Starred: True
+
+
+## Joe Rogan & Tulsi Gabbard: Wokeism Hypocrisy
+ - [https://www.youtube.com/watch?v=T1mTfvfKrCg](https://www.youtube.com/watch?v=T1mTfvfKrCg)
+ - RSS feed: https://www.youtube.com/watch?v=T1mTfvfKrCg
+ - date published: 2022-11-03 15:08:50+00:00
+ - Starred: True
+
+
+## YouTube sorting option for viewing oldest channel video missing or not available? Here's why
+ - [https://piunikaweb.com/2022/11/02/youtube-sorting-option-for-viewing-oldest-video-missing-heres-why/](https://piunikaweb.com/2022/11/02/youtube-sorting-option-for-viewing-oldest-video-missing-heres-why/)
+ - RSS feed: https://piunikaweb.com
+ - date published: 2022-11-03 14:43:55+00:00
+ - Starred: True
+
+
+## Gmail can now help you track the packages you ordered online
+ - [https://www.zdnet.com/article/gmail-can-now-help-you-track-the-packages-you-ordered-online/#ftag=RSSbaffb68](https://www.zdnet.com/article/gmail-can-now-help-you-track-the-packages-you-ordered-online/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2022-11-03 13:04:44+00:00
+ - Starred: True
+
+
+## TikTok reveals staff in China will be able to SPY on UK user data from next month
+ - [https://www.dailymail.co.uk/sciencetech/article-11385575/TikTok-reveals-staff-China-able-SPY-UK-user-data-month.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/sciencetech/article-11385575/TikTok-reveals-staff-China-able-SPY-UK-user-data-month.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-11-03 12:38:55+00:00
+ - Starred: True
+
+
+## NYC trans and HIV activist arrested for 'soliciting pedophile hunter posing as a 14-year-old boy'
+ - [https://www.dailymail.co.uk/news/article-11385913/NYC-trans-HIV-activist-arrested-soliciting-pedophile-hunter-posing-14-year-old-boy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11385913/NYC-trans-HIV-activist-arrested-soliciting-pedophile-hunter-posing-14-year-old-boy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-11-03 12:36:36+00:00
+ - Starred: True
+
+
+## Niemcy wzywają obywateli do opuszczenia Iranu
+ - [https://www.bankier.pl/wiadomosc/Niemcy-wzywaja-obywateli-do-opuszczenia-Iranu-8433266.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Niemcy-wzywaja-obywateli-do-opuszczenia-Iranu-8433266.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2022-11-03 12:13:00+00:00
+ - Starred: True
+
+
+## There's a Big Problem With Countries' Plans to Plant More Trees
+ - [https://gizmodo.com/theres-a-big-problem-with-countries-plans-to-plant-more-1849734322](https://gizmodo.com/theres-a-big-problem-with-countries-plans-to-plant-more-1849734322)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-11-03 12:00:00+00:00
+ - Starred: True
+
+
+## How to download your Twitter data
+ - [https://www.pcworld.com/article/1368195/how-to-download-your-twitter-data.html](https://www.pcworld.com/article/1368195/how-to-download-your-twitter-data.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2022-11-03 10:30:00+00:00
+ - Starred: True
+
+
+## TikTok says staff in China can access UK and EU user data
+ - [https://www.bbc.co.uk/news/business-63494951?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63494951?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/technology/rss.xml
+ - date published: 2022-11-03 05:05:36+00:00
+ - Starred: True
+
+
+## FBI official tied to suppressing Hunter laptop story STILL involved in briefing Facebook and Twitter
+ - [https://www.dailymail.co.uk/news/article-11383013/FBI-official-tied-suppressing-Hunter-laptop-story-involved-briefing-Facebook-Twitter.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11383013/FBI-official-tied-suppressing-Hunter-laptop-story-involved-briefing-Facebook-Twitter.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-11-02 21:28:01+00:00
+ - Starred: True
+
+
 ## Facebook's Going Back to Only Using Algorithms to Curate Its News Tab
  - [https://gizmodo.com/facebook-meta-news-curation-algorithm-1849734224](https://gizmodo.com/facebook-meta-news-curation-algorithm-1849734224)
  - RSS feed: https://gizmodo.com/rss
@@ -68,6 +152,13 @@
  - Starred: True
 
 
+## Republicans tear into reports Biden is colluding with Facebook to monitor 'disinformation'
+ - [https://www.dailymail.co.uk/news/article-11382249/Republicans-tear-reports-Biden-colluding-Facebook-monitor-disinformation.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11382249/Republicans-tear-reports-Biden-colluding-Facebook-monitor-disinformation.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-11-02 15:20:01+00:00
+ - Starred: True
+
+
 ## Lockdowns: The Great Gaslighting
  - [https://brownstone.org/articles/lockdowns-the-great-gaslighting/](https://brownstone.org/articles/lockdowns-the-great-gaslighting/)
  - RSS feed: https://brownstone.org
@@ -107,6 +198,13 @@
  - [https://www.theguardian.com/commentisfree/2022/nov/02/with-the-global-economy-on-the-rocks-quiet-quitting-is-no-longer-a-thing](https://www.theguardian.com/commentisfree/2022/nov/02/with-the-global-economy-on-the-rocks-quiet-quitting-is-no-longer-a-thing)
  - RSS feed: https://www.theguardian.com/international/rss
  - date published: 2022-11-02 08:00:56+00:00
+ - Starred: True
+
+
+## "Wall Street Journal": Arabia Saudyjska ostrzega przed nadciągającym atakiem Iranu
+ - [https://tvn24.pl/swiat/wall-street-journal-arabia-saudyjska-ostrzega-przed-nadciagajacym-atakiem-iranu-6189608?source=rss](https://tvn24.pl/swiat/wall-street-journal-arabia-saudyjska-ostrzega-przed-nadciagajacym-atakiem-iranu-6189608?source=rss)
+ - RSS feed: https://tvn24.pl/najnowsze.xml
+ - date published: 2022-11-02 05:42:47+00:00
  - Starred: True
 
 
@@ -180,6 +278,13 @@
  - Starred: True
 
 
+## Your company brand may soon be held hostage to Adobe, Pantone
+ - [https://www.computerworld.com/article/3678297/your-company-brand-may-soon-be-held-hostage-to-adobe-pantone.html#tk.rss_all](https://www.computerworld.com/article/3678297/your-company-brand-may-soon-be-held-hostage-to-adobe-pantone.html#tk.rss_all)
+ - RSS feed: https://www.computerworld.com/index.rss
+ - date published: 2022-11-01 16:00:00+00:00
+ - Starred: True
+
+
 ## Koreańczycy zbudują elektrownię atomową w Polsce. "Budują w budżecie i w terminie"
  - [https://www.polsatnews.pl/wiadomosc/2022-11-01/koreanczycy-zbuduja-elektrownie-atomowa-w-polsce-buduja-w-budzecie-i-w-terminie/](https://www.polsatnews.pl/wiadomosc/2022-11-01/koreanczycy-zbuduja-elektrownie-atomowa-w-polsce-buduja-w-budzecie-i-w-terminie/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
@@ -233,6 +338,13 @@
  - [https://www.foxnews.com/media/from-hunter-biden-wuhan-lab-leak-theory-eight-times-media-admitted-major-narrative-wrong](https://www.foxnews.com/media/from-hunter-biden-wuhan-lab-leak-theory-eight-times-media-admitted-major-narrative-wrong)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-11-01 06:00:17+00:00
+ - Starred: True
+
+
+## One year after the Facebook Files: 'When power is highly concentrated, whistleblowers need to be encouraged and protected'
+ - [https://www.lemonde.fr/en/pixels/article/2022/11/01/one-year-after-the-facebook-files-when-power-is-highly-concentrated-whistleblowers-need-to-be-encouraged-and-protected_6002490_13.html](https://www.lemonde.fr/en/pixels/article/2022/11/01/one-year-after-the-facebook-files-when-power-is-highly-concentrated-whistleblowers-need-to-be-encouraged-and-protected_6002490_13.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2022-11-01 06:00:13+00:00
  - Starred: True
 
 
@@ -537,6 +649,13 @@
  - Starred: True
 
 
+## Amsterdam mayor scraps LGBTI+ statement after backlash from mosques
+ - [https://nltimes.nl/2022/10/29/amsterdam-mayor-scraps-lgbti-statement-backlash-mosques](https://nltimes.nl/2022/10/29/amsterdam-mayor-scraps-lgbti-statement-backlash-mosques)
+ - RSS feed: https://nltimes.nl
+ - date published: 2022-10-29 12:13:44+00:00
+ - Starred: True
+
+
 ## #COVIDIsAirborne #BringBackMasks Trend, Questioning CDC Director’s Tweet on Covid-19 Precautions
  - [https://www.forbes.com/sites/brucelee/2022/10/29/covidisairborne-bringbackmasks-trend-questioning-cdc-directors-tweet-on-covid-19-precautions/](https://www.forbes.com/sites/brucelee/2022/10/29/covidisairborne-bringbackmasks-trend-questioning-cdc-directors-tweet-on-covid-19-precautions/)
  - RSS feed: https://www.forbes.com/innovation/feed2
@@ -569,6 +688,13 @@
  - [https://www.foxnews.com/media/google-targeting-senate-after-study-shows-search-bias-doesnt-impact-house-media-research-center-says](https://www.foxnews.com/media/google-targeting-senate-after-study-shows-search-bias-doesnt-impact-house-media-research-center-says)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-10-28 17:05:48+00:00
+ - Starred: True
+
+
+## Iran's Tyrannical Digital Surveillance Tools Exposed in Leaked Documents
+ - [https://gizmodo.com/irans-digital-surveillance-tools-exposed-in-leak-siam-1849715382](https://gizmodo.com/irans-digital-surveillance-tools-exposed-in-leak-siam-1849715382)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-10-28 16:30:00+00:00
  - Starred: True
 
 
@@ -611,6 +737,13 @@
  - [https://www.heyhomepage.com/?module=blog&link=1&post=4](https://www.heyhomepage.com/?module=blog&link=1&post=4)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-10-28 10:24:59+00:00
+ - Starred: True
+
+
+## Microsoft: Raspberry Robin USB worm hits nearly 1,000 organizations in the past month
+ - [https://www.zdnet.com/article/microsoft-raspberry-robin-usb-worm-hits-nearly-1000-organizations-in-the-past-month/#ftag=RSSbaffb68](https://www.zdnet.com/article/microsoft-raspberry-robin-usb-worm-hits-nearly-1000-organizations-in-the-past-month/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2022-10-28 10:01:47+00:00
  - Starred: True
 
 
@@ -716,6 +849,13 @@
  - [https://compactmag.com/article/the-rise-of-biodigital-surveillance](https://compactmag.com/article/the-rise-of-biodigital-surveillance)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-10-27 15:39:43+00:00
+ - Starred: True
+
+
+## Diem – Facebook open source Cryptocurrency written in Rust
+ - [https://github.com/diem/diem](https://github.com/diem/diem)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-10-27 14:25:32+00:00
  - Starred: True
 
 
@@ -1776,6 +1916,13 @@
  - Starred: True
 
 
+## Dr. Phil asks woke educators: ‘What makes you think you know better’ than parents what’s best for kids?
+ - [https://www.foxnews.com/media/dr-phil-asks-woke-educators-makes-think-know-better-parents-best-kids](https://www.foxnews.com/media/dr-phil-asks-woke-educators-makes-think-know-better-parents-best-kids)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-10-20 09:00:58+00:00
+ - Starred: True
+
+
 ## Wielka Brytania: Posłowie siłą zaciągani na głosowanie
  - [https://wydarzenia.interia.pl/zagranica/news-wielka-brytania-poslowie-sila-zaciagani-na-glosowanie,nId,6359475](https://wydarzenia.interia.pl/zagranica/news-wielka-brytania-poslowie-sila-zaciagani-na-glosowanie,nId,6359475)
  - RSS feed: https://wydarzenia.interia.pl/feed
@@ -1853,6 +2000,13 @@
  - Starred: True
 
 
+## Tim Allen Trolls ‘Wokees,’ Asks The Question Everyone Is Wondering About This Group
+ - [https://www.dailywire.com/news/tim-allen-trolls-wokees-asks-the-question-everyone-is-wondering-about-this-group](https://www.dailywire.com/news/tim-allen-trolls-wokees-asks-the-question-everyone-is-wondering-about-this-group)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-10-18 14:33:27+00:00
+ - Starred: True
+
+
 ## Two thirds of voters say crime is up and blame 'woke politicians' for the rise
  - [https://www.dailymail.co.uk/news/article-11323883/Two-thirds-voters-say-crime-blame-woke-politicians-rise.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11323883/Two-thirds-voters-say-crime-blame-woke-politicians-rise.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
@@ -1874,10 +2028,24 @@
  - Starred: True
 
 
+## Christian childcare teacher who refused to read LGBT books to kids sues after being fired: 'Blatantly illegal'
+ - [https://www.foxnews.com/us/christian-childcare-teacher-refused-read-lgbt-books-kids-sues-being-fired-blatantly-illegal](https://www.foxnews.com/us/christian-childcare-teacher-refused-read-lgbt-books-kids-sues-being-fired-blatantly-illegal)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-10-16 20:41:04+00:00
+ - Starred: True
+
+
 ## China Doubles Down on ‘Covid Zero’ Despite Economic Toll
  - [https://www.nytimes.com/2022/10/16/world/asia/china-is-sticking-to-its-zero-covid-policy.html](https://www.nytimes.com/2022/10/16/world/asia/china-is-sticking-to-its-zero-covid-policy.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-16 08:30:25+00:00
+ - Starred: True
+
+
+## Groźna moda na jedzenie muchomorów? Winni nieodpowiedzialni influencerzy
+ - [https://www.bankier.pl/wiadomosc/Grozna-moda-na-jedzenie-muchomorow-Winni-nieodpowiedzialni-influencerzy-8423675.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Grozna-moda-na-jedzenie-muchomorow-Winni-nieodpowiedzialni-influencerzy-8423675.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2022-10-16 07:03:00+00:00
  - Starred: True
 
 
@@ -1934,6 +2102,13 @@
  - [https://www.dailywire.com/news/california-bans-selling-womens-products-for-more-money-than-mens](https://www.dailywire.com/news/california-bans-selling-womens-products-for-more-money-than-mens)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-14 10:13:32+00:00
+ - Starred: True
+
+
+## Meta’s New Headset Will Track Your Eyes for Targeted Ads
+ - [https://gizmodo.com/meta-quest-pro-vr-headset-track-eyes-ads-facebook-1849654424](https://gizmodo.com/meta-quest-pro-vr-headset-track-eyes-ads-facebook-1849654424)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-10-13 19:14:00+00:00
  - Starred: True
 
 
@@ -2032,6 +2207,13 @@
  - [https://www.foxnews.com/world/after-covid-19-cases-tripled-over-holiday-chinese-cities-imposing-fresh-lockdowns](https://www.foxnews.com/world/after-covid-19-cases-tripled-over-holiday-chinese-cities-imposing-fresh-lockdowns)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-10-11 18:52:10+00:00
+ - Starred: True
+
+
+## Joe Rogan Praises The Daily Wire’s ‘What Is A Woman?’ Documentary: It’s ‘F***ing Amazing,’ ‘Fantastic’
+ - [https://www.dailywire.com/news/joe-rogan-praises-the-daily-wires-what-is-a-woman-documentary-its-fing-amazing-fantastic](https://www.dailywire.com/news/joe-rogan-praises-the-daily-wires-what-is-a-woman-documentary-its-fing-amazing-fantastic)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-10-11 18:47:42+00:00
  - Starred: True
 
 
@@ -2392,6 +2574,13 @@
  - Starred: True
 
 
+## Biden issues order boosting privacy checks for data flows from Europe
+ - [https://www.washingtonpost.com/technology/2022/10/07/biden-data-transfer-executive-order/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/10/07/biden-data-transfer-executive-order/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
+ - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
+ - date published: 2022-10-07 10:00:00+00:00
+ - Starred: True
+
+
 ## Longevity of Recordable CDs, DVDs and Blu-Rays
  - [https://www.canada.ca/en/conservation-institute/services/conservation-preservation-publications/canadian-conservation-institute-notes/longevity-recordable-cds-dvds.html](https://www.canada.ca/en/conservation-institute/services/conservation-preservation-publications/canadian-conservation-institute-notes/longevity-recordable-cds-dvds.html)
  - RSS feed: https://hnrss.org/frontpage
@@ -2700,6 +2889,13 @@
  - Starred: True
 
 
+## Why Reddit Is Losing It Over Samsung’s New Privacy Policy
+ - [https://lifehacker.com/why-reddit-is-losing-it-over-samsung-s-new-privacy-poli-1849609421](https://lifehacker.com/why-reddit-is-losing-it-over-samsung-s-new-privacy-poli-1849609421)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2022-10-04 13:30:00+00:00
+ - Starred: True
+
+
 ## VLC developer gets serious over nationwide ban
  - [https://www.techradar.com/news/vlc-developer-gets-serious-over-nationwide-ban/](https://www.techradar.com/news/vlc-developer-gets-serious-over-nationwide-ban/)
  - RSS feed: https://www.techradar.com/rss
@@ -2781,6 +2977,13 @@
  - [https://www.nytimes.com/2022/10/03/business/us-limits-chinas-supercomputing.html](https://www.nytimes.com/2022/10/03/business/us-limits-chinas-supercomputing.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-10-03 18:54:14+00:00
+ - Starred: True
+
+
+## You can't buy a Raspberry Pi
+ - [https://www.jeffgeerling.com/blog/2022/you-cant-buy-raspberry-pi-right-now](https://www.jeffgeerling.com/blog/2022/you-cant-buy-raspberry-pi-right-now)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-10-03 18:11:01+00:00
  - Starred: True
 
 
@@ -3355,6 +3558,13 @@
  - [https://www.techradar.com/news/cloudflare-launches-esim-to-protect-mobile-devices/](https://www.techradar.com/news/cloudflare-launches-esim-to-protect-mobile-devices/)
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-27 14:27:08+00:00
+ - Starred: True
+
+
+## iPhone = Privacy?
+ - [https://kerkour.com/iphone-privacy](https://kerkour.com/iphone-privacy)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-09-27 14:03:31+00:00
  - Starred: True
 
 
@@ -4027,6 +4237,13 @@
  - [https://www.cnet.com/news/social-media/instagram-developing-user-controls-to-block-nudity-and-other-unwanted-content/#ftag=CADf328eec](https://www.cnet.com/news/social-media/instagram-developing-user-controls-to-block-nudity-and-other-unwanted-content/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-21 23:37:35+00:00
+ - Starred: True
+
+
+## Whistleblower: Pentagon Purchased Mass Surveillance Tool Collecting Americans' Web Browsing Data
+ - [https://gizmodo.com/ncis-whistleblower-military-data-broker-cymru-wyden-1849564984](https://gizmodo.com/ncis-whistleblower-military-data-broker-cymru-wyden-1849564984)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-09-21 21:58:00+00:00
  - Starred: True
 
 
@@ -5546,6 +5763,13 @@
  - [https://www.zdnet.com/article/how-to-run-websites-as-apps-with-ease-in-linux/#ftag=RSSbaffb68](https://www.zdnet.com/article/how-to-run-websites-as-apps-with-ease-in-linux/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-06 16:47:54+00:00
+ - Starred: True
+
+
+## Meta Fined $400M for Failing to Protect Children's Privacy on Instagram     - CNET
+ - [https://www.cnet.com/news/privacy/meta-fined-400m-for-failing-to-protect-childrens-privacy-on-instagram/#ftag=CADf328eec](https://www.cnet.com/news/privacy/meta-fined-400m-for-failing-to-protect-childrens-privacy-on-instagram/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2022-09-06 15:53:38+00:00
  - Starred: True
 
 
