@@ -1,3 +1,59 @@
+## Virginia teacher fired for refusing to use student's preferred pronouns speaks out, says he's been blacklisted
+ - [https://www.foxnews.com/media/virginia-teacher-fired-refusing-students-preferred-pronouns-speaks-out-blacklisted](https://www.foxnews.com/media/virginia-teacher-fired-refusing-students-preferred-pronouns-speaks-out-blacklisted)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-11-04 18:01:52+00:00
+ - Starred: True
+
+
+## Elon Musk Has Laid Off Many Twitter Employees Charged With Protecting The Midterm Elections
+ - [https://www.forbes.com/sites/katharineschwab/2022/11/04/elon-musk-twitter-layoffs-midterm-elections/](https://www.forbes.com/sites/katharineschwab/2022/11/04/elon-musk-twitter-layoffs-midterm-elections/)
+ - RSS feed: https://www.forbes.com/innovation/feed2
+ - date published: 2022-11-04 17:05:30+00:00
+ - Starred: True
+
+
+## UK Government scans all web servers hosted in the UK for vulnerabilities
+ - [https://www.ncsc.gov.uk/information/ncsc-scanning-information](https://www.ncsc.gov.uk/information/ncsc-scanning-information)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-11-04 17:03:34+00:00
+ - Starred: True
+
+
+## Use RSS for privacy and efficiency
+ - [https://rsapkf.org/weblog/q2z/](https://rsapkf.org/weblog/q2z/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-11-04 16:22:38+00:00
+ - Starred: True
+
+
+## Apple jest wart więcej niż Google, Facebook i Amazon razem wzięte. Jeśli to nie jest monopol, to nie wiem, co nim jest
+ - [https://www.chip.pl/2022/11/apple-monopol-2022](https://www.chip.pl/2022/11/apple-monopol-2022)
+ - RSS feed: https://www.chip.pl/feed
+ - date published: 2022-11-04 16:00:00+00:00
+ - Starred: True
+
+
+## Google to remove all VPN ad blockers that don’t comply with their policy
+ - [https://community.blokada.org/t/google-to-remove-all-vpn-ad-blockers-that-don-t-comply/27586](https://community.blokada.org/t/google-to-remove-all-vpn-ad-blockers-that-don-t-comply/27586)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-11-04 15:49:20+00:00
+ - Starred: True
+
+
+## Study Finds That Regular Physical Activity Enhances Vaccine Effectiveness Against Covid-19.
+ - [https://www.forbes.com/sites/williamhaseltine/2022/11/04/study-finds-that-regular-physical-activity-enhances-vaccine-effectiveness-against-covid-19/](https://www.forbes.com/sites/williamhaseltine/2022/11/04/study-finds-that-regular-physical-activity-enhances-vaccine-effectiveness-against-covid-19/)
+ - RSS feed: https://www.forbes.com/innovation/feed2
+ - date published: 2022-11-04 05:28:15+00:00
+ - Starred: True
+
+
+## Joe Manchin tells CEOs it's 'foolish' for them to give money to political candidates while 'asking nothing in return'
+ - [https://www.reddit.com/r/politics/comments/ylk9ps/joe_manchin_tells_ceos_its_foolish_for_them_to/](https://www.reddit.com/r/politics/comments/ylk9ps/joe_manchin_tells_ceos_its_foolish_for_them_to/)
+ - RSS feed: http://www.reddit.com/r/politics/.rss
+ - date published: 2022-11-04 00:49:41+00:00
+ - Starred: True
+
+
 ## Bank of England expects UK to fall into longest ever recession
  - [https://www.bbc.com/news/business-63471725](https://www.bbc.com/news/business-63471725)
  - RSS feed: https://hnrss.org/frontpage
@@ -7373,6 +7429,13 @@
  - [https://notrelated.xyz/audio/s01/S01E05_-_The_Agricultural_Revolution_Has_Been_a_Disaster_for_the_Human_Race.mp3](https://notrelated.xyz/audio/s01/S01E05_-_The_Agricultural_Revolution_Has_Been_a_Disaster_for_the_Human_Race.mp3)
  - RSS feed: https://notrelated.xyz/rss
  - date published: 2018-10-08 04:00:00+00:00
+ - Starred: True
+
+
+## Alan Keyes: Best argument against gay marriage
+ - [https://www.youtube.com/watch?v=dn6x_9CLTB4](https://www.youtube.com/watch?v=dn6x_9CLTB4)
+ - RSS feed: https://www.youtube.com/watch?v=dn6x_9CLTB4
+ - date published: 2018-10-04 17:01:34+00:00
  - Starred: True
 
 
