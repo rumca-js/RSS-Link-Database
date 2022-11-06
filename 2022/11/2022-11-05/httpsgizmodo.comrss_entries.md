@@ -1,0 +1,95 @@
+## John Wick May Have Video Games Involved in His Future
+ - [https://gizmodo.com/john-wick-lionsgate-video-game-possibility-1849748261](https://gizmodo.com/john-wick-lionsgate-video-game-possibility-1849748261)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-11-05 18:45:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--Cy_CesfR--/c_fit,fl_progressive,q_80,w_636/a9b2a1eefca9bd3aab5aa149577d6209.jpg" /><p>Since 2014, <a href="https://gizmodo.com/keanu-reeves-keeps-up-the-intense-pace-in-john-wick-ch-1834759565">Keanu Reeves</a> has shot, stabbed, library book’d, and horse’d dozens of gangsters and hired guns to death across three (going on <a href="https://gizmodo.com/john-wick-chapter-4-trailer-sdcc-keanu-reeves-1849322204">four</a>) <em>John Wick </em>films. While we know that the franchise will continue with the upcoming prequel series <a href="https://gizmodo.com/john-wick-the-continental-peacock-streaming-2023-1849413187"><em>The Continental</em></a><em>, </em>and there’ll be another film in a couple of years (plus the <a href="https://deadline.com/2021/10/ana-de-armas-john-wick-spinoff-ballerina-no-time-die-lionsgate-afm-1234864553/" rel="noopener noreferrer" target="_blank"><em></em>…</a></p><p><a href="https://gizmodo.com/john-wick-lionsgate-video-game-possibility-1849748261">Read more...</a></p>
+
+## Henry Cavill's Spent Years "Very Gently" Hoping for a Superman Return
+ - [https://gizmodo.com/henry-cavill-superman-return-hopes-1849748069](https://gizmodo.com/henry-cavill-superman-return-hopes-1849748069)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-11-05 18:15:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--OJsMaTVs--/c_fit,fl_progressive,q_80,w_636/a8wf9ebaukhuklswzl6x.jpg" /><p>That Henry Cavill is <a href="https://gizmodo.com/dc-superman-henry-cavill-return-black-adam-cameo-1849693912">returning to Superman</a> after technically five years still feels pretty fresh, even though it’s been about two weeks since the news officially broke. Since he finally broke the news, he’s made clear that he wants to come back as a <a href="https://gizmodo.com/superman-henry-cavill-dc-james-gunn-1849704434">more joyful</a> Man of Steel, and his gratefulness that he’s able to get…</p><p><a href="https://gizmodo.com/henry-cavill-superman-return-hopes-1849748069">Read more...</a></p>
+
+## The Three-Body Problem's Chinese Anime Adaptation Hits Next Month
+ - [https://gizmodo.com/the-three-body-problem-anime-trailer-december-release-1849747887](https://gizmodo.com/the-three-body-problem-anime-trailer-december-release-1849747887)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-11-05 16:30:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--BZQk5ARa--/c_fit,fl_progressive,q_80,w_636/02e287c03b918c164fec7794c67d62c2.jpg" /><p>Cixin Liu’s<em> </em>sci-fi novel <em>The Three-Body Problem </em>can’t stop jumping to other formats. In addition to next year’s Netflix series from <em>The Terror: Infamy’s </em>Alexander Woo and <em>Game of Thrones </em>creators <a href="https://gizmodo.com/game-of-thrones-showrunners-move-onto-netflixs-the-thre-1844915240">David Benioff and DB Weiss</a>, last year saw the release of a <a href="https://gizmodo.com/the-three-body-problem-by-cixin-liu-has-become-a-serial-1847294788">serialized podcast</a> (different from the audiobook version). And…</p><p><a href="https://gizmodo.com/the-three-body-problem-anime-trailer-december-release-1849747887">Read more...</a></p>
+
+## What We Know About the Financiers Who Helped Create This Twitter Mess
+ - [https://gizmodo.com/twitter-elon-musk-finance-1849744679](https://gizmodo.com/twitter-elon-musk-finance-1849744679)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-11-05 15:00:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--SUiIHqpD--/c_fit,fl_progressive,q_80,w_636/77490b502fb14a50ef65f5fc68e8f4de.jpg" /><p>While Elon Musk’s massive $44 billion buyout of Twitter might seem like a one-man show, it’s really a kind of <em>Suicide Squad</em>  of big tech moguls and financiers coming together in a strange rogue’s gallery reunion. Not only were Musk’s personal rich friends in the mix, but the holding companies of Middle Eastern nations…</p><p><a href="https://gizmodo.com/twitter-elon-musk-finance-1849744679">Read more...</a></p>
+
+## Westworld May Be Over, But Its Stars and Creators Still Get Paid for It
+ - [https://gizmodo.com/westworld-cancellation-season-5-pay-1849746601](https://gizmodo.com/westworld-cancellation-season-5-pay-1849746601)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-11-05 14:45:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--XK4jp_zj--/c_fit,fl_progressive,q_80,w_636/b4ccc67e106b1ab78bc741c1646d57c0.jpg" /><p>Late Friday afternoon, news broke that HBO had pulled the plug on its sci-fi drama <a href="https://gizmodo.com/westworld-has-been-canceled-by-hbo-warner-bros-1849745181"><em>Westworld</em></a> after four seasons. Before this, creators <a href="https://gizmodo.com/westworld-season-4-finale-recap-que-sera-sera-s4-ep8-1849410966">Jonathan Nolan and Lisa Joy</a> had already planned to bring the twisty and often convoluted series to a close with a fifth and final season, but those plans have been dashed as Warner…</p><p><a href="https://gizmodo.com/westworld-cancellation-season-5-pay-1849746601">Read more...</a></p>
+
+## Microsoft Exec Says We Need More Climate-Smart Workers
+ - [https://gizmodo.com/microsoft-exec-says-we-need-more-climate-smart-workers-1849738009](https://gizmodo.com/microsoft-exec-says-we-need-more-climate-smart-workers-1849738009)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-11-05 14:15:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--eZImxEhm--/c_fit,fl_progressive,q_80,w_636/eda15a252c72bb2743c7cb2412f7bfad.jpg" /><p>Microsoft president and vice chair Brad Smith wants thousands of companies to shift from pledging to help solve climate challenges to actually making good on those promises. These companies can’t rise to meet the challenge unless their workers are trained in sustainability, he wrote in a <a href="https://blogs.microsoft.com/on-the-issues/2022/11/02/closing-sustainability-skills-gap/" rel="noopener noreferrer" target="_blank">company statement</a> this week.<br /></p><p><a href="https://gizmodo.com/microsoft-exec-says-we-need-more-climate-smart-workers-1849738009">Read more...</a></p>
+
+## Go on a Walk With the Real-Life Master Roshi and His Giant Tortoise Friend, No Dragon Balls in Sight
+ - [https://gizmodo.com/tortoise-bon-chan-hisao-mitani-tokyo-walk-dragon-ball-1849743538](https://gizmodo.com/tortoise-bon-chan-hisao-mitani-tokyo-walk-dragon-ball-1849743538)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-11-05 14:00:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--EvCLJhYU--/c_fit,fl_progressive,q_80,w_636/da81252ca9581248d5b74e99642bb3cf.jpg" /><p>If you thought the picture of the elderly man walking around with a giant turtle looked strangely familiar, you’re not alone. Give the man some sunglasses and beard, and he could be mistaken for <a href="https://en.wikipedia.org/wiki/Master_Roshi" rel="noopener noreferrer" target="_blank">Master Roshi</a>’s long-lost twin brother from <em>Dragon Ball</em>. Alas, this man is not skilled in the kamehameha, but is special for…</p><p><a href="https://gizmodo.com/tortoise-bon-chan-hisao-mitani-tokyo-walk-dragon-ball-1849743538">Read more...</a></p>
+
+## Volunteers Needed for Research. Must Like Talking About Your Cat
+ - [https://gizmodo.com/volunteers-needed-for-research-must-like-talking-about-1849744031](https://gizmodo.com/volunteers-needed-for-research-must-like-talking-about-1849744031)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-11-05 14:00:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--9UVAgl61--/c_fit,fl_progressive,q_80,w_636/9eaf3661df379de696dace4dd37d387d.jpg" /><p>Researchers in California are calling for cat owners to do their favorite thing in the name of science: talk about their cat. The team aims to understand how to make remote vet visits more appealing to owners, in hopes of better ensuring that cats can get the regular medical care they need.<br /></p><p><a href="https://gizmodo.com/volunteers-needed-for-research-must-like-talking-about-1849744031">Read more...</a></p>
+
+## Do Dating Apps' Algorithms Really Expand our Match Pool?
+ - [https://gizmodo.com/tinder-hinge-dating-apps-algorithm-equality-machine-1849745767](https://gizmodo.com/tinder-hinge-dating-apps-algorithm-equality-machine-1849745767)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-11-05 12:45:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--GoIXEKYO--/c_fit,fl_progressive,q_80,w_636/0849f89e75b2bcd4ec1ef985b70253de.jpg" /><p><em>Dating apps present an endless sea of potential matches. But do they actually expand our horizons? And is that good for us? Some studies suggest that dating apps can make us feel that settling down with someone isn’t important or that our chances of romantic and sexual success are infinite and guaranteed, increasing</em>…</p><p><a href="https://gizmodo.com/tinder-hinge-dating-apps-algorithm-equality-machine-1849745767">Read more...</a></p>
+
+## Researchers Spin up Terrifying Hacker Drone That Can 'See Through Walls' With Wifi
+ - [https://gizmodo.com/drone-see-through-walls-wifi-wi-peep-waterloo-research-1849744061](https://gizmodo.com/drone-see-through-walls-wifi-wi-peep-waterloo-research-1849744061)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-11-05 12:30:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--IJclyLvR--/c_fit,fl_progressive,q_80,w_636/469b463cec7e682c7ecdb893acbddbfd.png" /><p>Using a $20 off-the-shelf drone, researchers at the University of Waterloo in Ontario have created what is effectively an airborne scanning device that can triangulate the location of every WiFi-connected device in your house. Yikes. <br /></p><p><a href="https://gizmodo.com/drone-see-through-walls-wifi-wi-peep-waterloo-research-1849744061">Read more...</a></p>
+
+## Homeland Security Admits It Tried to Manufacture Fake Terrorists for Trump
+ - [https://gizmodo.com/donald-trump-homeland-security-report-antifa-portland-1849718673](https://gizmodo.com/donald-trump-homeland-security-report-antifa-portland-1849718673)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-11-05 11:45:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--ADlhrJXP--/c_fit,fl_progressive,q_80,w_636/f48cccf8d830762ae2e47135dd08f19e.jpg" /><p>The Department of Homeland Security launched a failed operation that ensnared hundreds, if not thousands, of U.S. protesters in what new documents show was as a sweeping, power-hungry effort before the 2020 election to bolster President Donald Trump’s spurious claims about a “terrorist organization” he accused his…</p><p><a href="https://gizmodo.com/donald-trump-homeland-security-report-antifa-portland-1849718673">Read more...</a></p>
+
+## A Carbon Capture Company Wants to Sell Credits on Tech That Hasn’t Been Commercially Tested Yet
+ - [https://gizmodo.com/a-carbon-capture-company-wants-to-sell-credits-on-tech-1849710164](https://gizmodo.com/a-carbon-capture-company-wants-to-sell-credits-on-tech-1849710164)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-11-05 00:00:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--nitiCe87--/c_fit,fl_progressive,q_80,w_636/78bd0dd8b6075b918b081eedd76701d6.jpg" /><p>UK-based “clean” energy company Drax Group is looking to sell offset credits tied to U.S.-based power plants that the company hasn’t even built yet, <a href="https://www.bloomberg.com/news/articles/2022-10-26/world-s-largest-co2-removal-deal-ever-depends-on-tech-that-isn-t-ready-yet" rel="noopener noreferrer" target="_blank">Bloomberg reports</a>. While the company is being vague about specifics, Drax says its first biomass plant with carbon capture technology<strong> </strong>is expected to be up and running…</p><p><a href="https://gizmodo.com/a-carbon-capture-company-wants-to-sell-credits-on-tech-1849710164">Read more...</a></p>

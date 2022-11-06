@@ -1,3 +1,38 @@
+## Chiny zaskakują tempem modernizacji. Przebudowa ważnej bazy powietrznej trwa
+ - [https://www.chip.pl/2022/11/przebudowa-waznej-bazy-powietrznej-chin](https://www.chip.pl/2022/11/przebudowa-waznej-bazy-powietrznej-chin)
+ - RSS feed: https://www.chip.pl/feed
+ - date published: 2022-11-05 05:00:00+00:00
+ - Starred: True
+
+
+## Musk orders Twitter to cut infrastructure costs by $1B – sources
+ - [https://www.reuters.com/technology/musk-orders-twitter-cut-infrastructure-costs-by-1-bln-sources-2022-11-03/](https://www.reuters.com/technology/musk-orders-twitter-cut-infrastructure-costs-by-1-bln-sources-2022-11-03/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-11-05 02:32:06+00:00
+ - Starred: True
+
+
+## W zrównoważonej przyszłości nie ma miejsca na prywatne samochody osobowe
+ - [https://www.wykop.pl/link/6887747/w-zrownowazonej-przyszlosci-nie-ma-miejsca-na-prywatne-samochody-osobowe/](https://www.wykop.pl/link/6887747/w-zrownowazonej-przyszlosci-nie-ma-miejsca-na-prywatne-samochody-osobowe/)
+ - RSS feed: https://www.wykop.pl/rss/index.xml/
+ - date published: 2022-11-04 22:19:01+00:00
+ - Starred: True
+
+
+## Meta's Oversight Board to Elon Musk: Stop Pissing Off Twitter's Advertisers
+ - [https://gizmodo.com/meta-twitter-facebook-advertisers-musk-1849745400](https://gizmodo.com/meta-twitter-facebook-advertisers-musk-1849745400)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-11-04 21:40:00+00:00
+ - Starred: True
+
+
+## Intel's pay-as-you-go CPU platform finally has a name, but is still shrouded in secrecy
+ - [https://www.techradar.com/news/intels-pay-as-you-go-cpu-platform-finally-has-a-name-but-is-still-shrouded-in-secrecy/](https://www.techradar.com/news/intels-pay-as-you-go-cpu-platform-finally-has-a-name-but-is-still-shrouded-in-secrecy/)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2022-11-04 20:25:21+00:00
+ - Starred: True
+
+
 ## Virginia teacher fired for refusing to use student's preferred pronouns speaks out, says he's been blacklisted
  - [https://www.foxnews.com/media/virginia-teacher-fired-refusing-students-preferred-pronouns-speaks-out-blacklisted](https://www.foxnews.com/media/virginia-teacher-fired-refusing-students-preferred-pronouns-speaks-out-blacklisted)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
