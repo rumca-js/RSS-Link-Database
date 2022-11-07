@@ -1,3 +1,66 @@
+## Finland’s Covid death toll could be exaggerated by 40%, THL says | News & More Trending News
+ - [https://www.thetimes.com.ng/2022/11/finlands-covid-death-toll-could-be-exaggerated-by-40-thl-says-news-more-trending-news/](https://www.thetimes.com.ng/2022/11/finlands-covid-death-toll-could-be-exaggerated-by-40-thl-says-news-more-trending-news/)
+ - RSS feed: https://www.thetimes.com.ng/2022/11/finlands-covid-death-toll-could-be-exaggerated-by-40-thl-says-news-more-trending-news/
+ - date published: 2022-11-06 08:58:33+00:00
+ - Starred: True
+
+
+## More Chinese can't stand the CCP as the planned economy returns to China
+ - [https://youtu.be/lutHkJoBjrM](https://youtu.be/lutHkJoBjrM)
+ - RSS feed: https://youtu.be/lutHkJoBjrM
+ - date published: 2022-11-06 08:24:44+00:00
+ - Starred: True
+
+
+## Meta’s Meltdown Shows How Big Tech’s Invincible Era Is Over
+ - [https://www.bloomberg.com/news/articles/2022-11-03/meta-meta-stock-price-underscores-faang-company-troubles](https://www.bloomberg.com/news/articles/2022-11-03/meta-meta-stock-price-underscores-faang-company-troubles)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-11-06 01:38:04+00:00
+ - Starred: True
+
+
+## Facebook probably has your phone number, even if you never shared it. Now it has a secret tool to let you delete it.
+ - [https://www.businessinsider.com/facebook-has-hidden-tool-to-delete-your-phone-number-email-2022-10?IR=T](https://www.businessinsider.com/facebook-has-hidden-tool-to-delete-your-phone-number-email-2022-10?IR=T)
+ - RSS feed: https://www.businessinsider.com/facebook-has-hidden-tool-to-delete-your-phone-number-email-2022-10?IR=T
+ - date published: 2022-11-05 23:36:46+00:00
+ - Starred: True
+
+
+## Microsoft sued for open-source piracy through GitHub Copilot
+ - [https://www.bleepingcomputer.com/news/security/microsoft-sued-for-open-source-piracy-through-github-copilot/](https://www.bleepingcomputer.com/news/security/microsoft-sued-for-open-source-piracy-through-github-copilot/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-11-05 20:49:50+00:00
+ - Starred: True
+
+
+## Zamyka restaurację z gwiazdką Michelin. Stracił smak i węch przez COVID-19
+ - [https://wydarzenia.interia.pl/zagranica/news-zamyka-restauracje-z-gwiazdka-michelin-stracil-smak-i-wech-p,nId,6392210](https://wydarzenia.interia.pl/zagranica/news-zamyka-restauracje-z-gwiazdka-michelin-stracil-smak-i-wech-p,nId,6392210)
+ - RSS feed: https://wydarzenia.interia.pl/feed
+ - date published: 2022-11-05 19:14:45+00:00
+ - Starred: True
+
+
+## Only 2% Of Children’s Deaths Were From COVID, And School Closures Didn’t Reduce The Number
+ - [https://www.dailywire.com/news/only-2-of-childrens-deaths-were-from-covid-and-school-closures-didnt-reduce-the-number](https://www.dailywire.com/news/only-2-of-childrens-deaths-were-from-covid-and-school-closures-didnt-reduce-the-number)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-11-05 18:07:40+00:00
+ - Starred: True
+
+
+## How Qatar bought up Britain
+ - [https://www.theguardian.com/business/ng-interactive/2022/nov/05/how-qatar-bought-up-britain](https://www.theguardian.com/business/ng-interactive/2022/nov/05/how-qatar-bought-up-britain)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-11-05 16:00:02+00:00
+ - Starred: True
+
+
+## Bill Maher claims Republicans are ‘definitely going to win’ midterms thanks to 'woke culture'
+ - [https://www.foxnews.com/media/bill-maher-claims-republicans-definitely-going-win-midterms-thanks-woke-culture](https://www.foxnews.com/media/bill-maher-claims-republicans-definitely-going-win-midterms-thanks-woke-culture)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-11-05 15:23:35+00:00
+ - Starred: True
+
+
 ## Chiny zaskakują tempem modernizacji. Przebudowa ważnej bazy powietrznej trwa
  - [https://www.chip.pl/2022/11/przebudowa-waznej-bazy-powietrznej-chin](https://www.chip.pl/2022/11/przebudowa-waznej-bazy-powietrznej-chin)
  - RSS feed: https://www.chip.pl/feed
@@ -1654,6 +1717,13 @@
  - [https://tvn24.pl/swiat/przestepcy-i-gangi-wysadzaja-bankomaty-z-pieniedzmi-uzywaja-materialow-wybuchowych-europol-ostrzega-6176503?source=rss](https://tvn24.pl/swiat/przestepcy-i-gangi-wysadzaja-bankomaty-z-pieniedzmi-uzywaja-materialow-wybuchowych-europol-ostrzega-6176503?source=rss)
  - RSS feed: https://tvn24.pl/wiadomosci-z-kraju,3.xml
  - date published: 2022-10-24 06:04:02+00:00
+ - Starred: True
+
+
+## Lawsuit reveals vast censorship scheme by Big Tech and the federal government
+ - [https://nypost.com/2022/10/23/lawsuit-reveals-vast-censorship-scheme-by-big-tech-and-the-federal-government/](https://nypost.com/2022/10/23/lawsuit-reveals-vast-censorship-scheme-by-big-tech-and-the-federal-government/)
+ - RSS feed: https://nypost.com/2022/10/23/lawsuit-reveals-vast-censorship-scheme-by-big-tech-and-the-federal-government/
+ - date published: 2022-10-23 20:17:14+00:00
  - Starred: True
 
 
@@ -6592,6 +6662,13 @@
  - Starred: True
 
 
+## Twitter is questioned over Hunter Biden laptop story censorship
+ - [https://reclaimthenet.org/twitter-is-questioned-over-hunter-biden-laptop-story-censorship/](https://reclaimthenet.org/twitter-is-questioned-over-hunter-biden-laptop-story-censorship/)
+ - RSS feed: https://reclaimthenet.org/twitter-is-questioned-over-hunter-biden-laptop-story-censorship/
+ - date published: 2022-04-06 20:19:58+00:00
+ - Starred: True
+
+
 ## Overpopulation and the Mouse Metaverse
  - [https://notrelated.xyz/audio/s02/S02E07_-_Overpopulation_and_the_Mouse_Metaverse.ogg](https://notrelated.xyz/audio/s02/S02E07_-_Overpopulation_and_the_Mouse_Metaverse.ogg)
  - RSS feed: https://notrelated.xyz/rss
@@ -6676,6 +6753,13 @@
  - Starred: True
 
 
+## Jordan Peterson: Female Totalitarianism | with James Orr & Arif Ahmed (Cambridge)
+ - [https://www.youtube.com/watch?v=fwow0lrwY8U](https://www.youtube.com/watch?v=fwow0lrwY8U)
+ - RSS feed: https://www.youtube.com/c/PhilosophyInsights
+ - date published: 2022-01-18 20:59:14+00:00
+ - Starred: True
+
+
 ## FDA ma 8 miesięcy na publikację dokumentacji „szczepionki”
  - [https://legaartis.pl/blog/2022/01/07/fda-ma-8-miesiecy-na-publikacje-dokumentacji-szczepionki/](https://legaartis.pl/blog/2022/01/07/fda-ma-8-miesiecy-na-publikacje-dokumentacji-szczepionki/)
  - RSS feed: legaartis.pl
@@ -6694,6 +6778,13 @@
  - [https://thepostmillennial.com/youtube-removes-joe-rogan-interview-with-dr-robert-malone-from-youtube](https://thepostmillennial.com/youtube-removes-joe-rogan-interview-with-dr-robert-malone-from-youtube)
  - RSS feed: thepostmillennial.com
  - date published: 2022-01-02 12:04:50+00:00
+ - Starred: True
+
+
+## Is Government the New God? - The Religion of Totalitarianism
+ - [https://www.youtube.com/watch?v=WhNJJmmCkqY](https://www.youtube.com/watch?v=WhNJJmmCkqY)
+ - RSS feed: https://www.youtube.com/c/academyofideas
+ - date published: 2021-12-28 21:15:53+00:00
  - Starred: True
 
 
@@ -6722,6 +6813,13 @@
  - [https://geekweek.interia.pl/technologia/news-jaki-szyfrowany-komunikator-wybrac-lista-wspolpracy-z-fbi-mo,nId,5679869](https://geekweek.interia.pl/technologia/news-jaki-szyfrowany-komunikator-wybrac-lista-wspolpracy-z-fbi-mo,nId,5679869)
  - RSS feed: geekweek.interia.pl
  - date published: 2021-12-01 12:04:49+00:00
+ - Starred: True
+
+
+## Is the Mainstream Media a Threat to Freedom and Sanity?
+ - [https://www.youtube.com/watch?v=5okSlrbgELA](https://www.youtube.com/watch?v=5okSlrbgELA)
+ - RSS feed: https://www.youtube.com/c/academyofideas
+ - date published: 2021-11-27 21:15:13+00:00
  - Starred: True
 
 
@@ -6774,10 +6872,24 @@
  - Starred: True
 
 
+## The Shadow - Carl Jung's Warning to The World
+ - [https://www.youtube.com/watch?v=OhzBo0dZNpY](https://www.youtube.com/watch?v=OhzBo0dZNpY)
+ - RSS feed: https://www.youtube.com/c/Eternalised
+ - date published: 2021-10-01 21:19:03+00:00
+ - Starred: True
+
+
 ## Myth as Science and Prehistoric Knowledge: Hamlet's Mill
  - [https://notrelated.xyz/audio/s02/S02E04_-_Myth_as_Science_and_Prehistoric_Knowledge_Hamlets_Mill.ogg](https://notrelated.xyz/audio/s02/S02E04_-_Myth_as_Science_and_Prehistoric_Knowledge_Hamlets_Mill.ogg)
  - RSS feed: https://notrelated.xyz/rss
  - date published: 2021-10-01 04:00:00+00:00
+ - Starred: True
+
+
+## The Big Lie - How to Enslave the World
+ - [https://www.youtube.com/watch?v=6VfJ0BJvt7Y](https://www.youtube.com/watch?v=6VfJ0BJvt7Y)
+ - RSS feed: https://www.youtube.com/c/academyofideas
+ - date published: 2021-09-30 21:14:05+00:00
  - Starred: True
 
 
@@ -6799,6 +6911,13 @@
  - [https://www.huffpost.com/entry/smartphone-devices-recording-privacy_l_5d570869e4b056fafd0bbc09](https://www.huffpost.com/entry/smartphone-devices-recording-privacy_l_5d570869e4b056fafd0bbc09)
  - RSS feed: www.huffpost.com
  - date published: 2021-08-31 12:04:50+00:00
+ - Starred: True
+
+
+## Is 1984 Becoming a Reality? - George Orwell's Warning to the World
+ - [https://www.youtube.com/watch?v=vEMlvpMY7yw](https://www.youtube.com/watch?v=vEMlvpMY7yw)
+ - RSS feed: https://www.youtube.com/c/academyofideas
+ - date published: 2021-08-07 21:16:39+00:00
  - Starred: True
 
 
@@ -6865,6 +6984,13 @@
  - Starred: True
 
 
+## What Fauci's EXPOSED Emails REVEAL
+ - [https://www.youtube.com/watch?v=2YmpRI9KDh8](https://www.youtube.com/watch?v=2YmpRI9KDh8)
+ - RSS feed: https://www.youtube.com/c/BenShapiro
+ - date published: 2021-06-03 21:09:28+00:00
+ - Starred: True
+
+
 ## We Now Know Why Facebook May Have Censored the Lab Leak Theory
  - [https://townhall.com/tipsheet/katiepavlich/2021/06/02/we-now-know-why-facebook-may-have-censored-the-lab-leak-theory-n2590360](https://townhall.com/tipsheet/katiepavlich/2021/06/02/we-now-know-why-facebook-may-have-censored-the-lab-leak-theory-n2590360)
  - RSS feed: townhall.com
@@ -6876,6 +7002,13 @@
  - [https://www.nfcw.com/2021/06/01/372591/eu-to-lay-out-plans-for-europe-wide-digital-identity-wallet/](https://www.nfcw.com/2021/06/01/372591/eu-to-lay-out-plans-for-europe-wide-digital-identity-wallet/)
  - RSS feed: www.nfcw.com
  - date published: 2021-06-01 12:59:16+00:00
+ - Starred: True
+
+
+## The Takeover has Already Begun - A Secret Video Reveals All by @RICHARD GRANNON
+ - [https://www.youtube.com/watch?v=npkZQGD7LOM](https://www.youtube.com/watch?v=npkZQGD7LOM)
+ - RSS feed: https://www.youtube.com/21
+ - date published: 2021-05-27 21:17:48+00:00
  - Starred: True
 
 
@@ -6956,6 +7089,20 @@
  - Starred: True
 
 
+## Bill Gates Won't Stop Lying About Epstein Connections
+ - [https://www.youtube.com/watch?v=D9iF4k16be0](https://www.youtube.com/watch?v=D9iF4k16be0)
+ - RSS feed: https://www.youtube.com/c/Coffeezilla
+ - date published: 2021-03-21 20:51:19+00:00
+ - Starred: True
+
+
+## Johnny Harris: A Story of YouTube Propaganda
+ - [https://youtu.be/Dum0bqWfiGw](https://youtu.be/Dum0bqWfiGw)
+ - RSS feed: https://youtu.be/Dum0bqWfiGw
+ - date published: 2021-03-12 20:26:11+00:00
+ - Starred: True
+
+
 ## Printed to Death: Dollar Due to Crash in 2021
  - [https://www.outsiderclub.com/printed-to-death-dollar-due-to-crash-in-2021/98588](https://www.outsiderclub.com/printed-to-death-dollar-due-to-crash-in-2021/98588)
  - RSS feed: www.outsiderclub.com
@@ -6974,6 +7121,13 @@
  - [https://cowzdrowiu.pl/aktualnosci/post/dodatki-covidowe-mamy-liste-szpitali-z-konkretnymi-kwotami](https://cowzdrowiu.pl/aktualnosci/post/dodatki-covidowe-mamy-liste-szpitali-z-konkretnymi-kwotami)
  - RSS feed: cowzdrowiu.pl
  - date published: 2021-03-02 07:02:12+00:00
+ - Starred: True
+
+
+## Yanis Varoufakis: Capitalism has become 'techno-feudalism' | UpFront
+ - [https://www.youtube.com/watch?v=_jW0xUmUaUc](https://www.youtube.com/watch?v=_jW0xUmUaUc)
+ - RSS feed: https://www.youtube.com/c/aljazeeraenglish
+ - date published: 2021-02-19 21:05:32+00:00
  - Starred: True
 
 
@@ -7159,6 +7313,13 @@
  - Starred: True
 
 
+## Aldous Huxley - The Most Brutally Honest 8 Minutes Of Your Life!
+ - [https://www.youtube.com/watch?v=67fm4D5Ii6E](https://www.youtube.com/watch?v=67fm4D5Ii6E)
+ - RSS feed: https://www.youtube.com/c/dailyMOTIVATIONcontact
+ - date published: 2020-10-01 21:01:54+00:00
+ - Starred: True
+
+
 ## French bar owners arrested for offering free WiFi but not keeping logs
  - [https://www.privateinternetaccess.com/blog/french-bar-owners-arrested-for-offering-free-wifi-but-not-keeping-logs/](https://www.privateinternetaccess.com/blog/french-bar-owners-arrested-for-offering-free-wifi-but-not-keeping-logs/)
  - RSS feed: www.privateinternetaccess.com
@@ -7327,6 +7488,13 @@
  - Starred: True
 
 
+## Roko's Basilisk: The Most Terrifying Thought Experiment
+ - [https://www.youtube.com/watch?v=ut-zGHLAVLI](https://www.youtube.com/watch?v=ut-zGHLAVLI)
+ - RSS feed: https://www.youtube.com/c/KyleHillScience
+ - date published: 2020-05-28 21:22:21+00:00
+ - Starred: True
+
+
 ## Początki: Ameryka finansowała laboratorium w Wuchan. Why Would the US Have Funded the Controversial Wuhan Lab?
  - [https://thediplomat.com/2020/05/why-would-the-us-have-funded-the-controversial-wuhan-lab/](https://thediplomat.com/2020/05/why-would-the-us-have-funded-the-controversial-wuhan-lab/)
  - RSS feed: thediplomat.com
@@ -7415,6 +7583,13 @@
  - [https://www.newyorker.com/news/annals-of-communications/the-terrifying-potential-of-the-5g-network](https://www.newyorker.com/news/annals-of-communications/the-terrifying-potential-of-the-5g-network)
  - RSS feed: www.newyorker.com
  - date published: 2019-04-26 13:05:08+00:00
+ - Starred: True
+
+
+## Giorgia Meloni's electrifying speech at the World Congress of Families, English subtitles
+ - [https://www.youtube.com/watch?v=y_Z1LClnhsk](https://www.youtube.com/watch?v=y_Z1LClnhsk)
+ - RSS feed: https://www.youtube.com/watch?v=y_Z1LClnhsk
+ - date published: 2019-04-17 20:53:10+00:00
  - Starred: True
 
 
@@ -7516,6 +7691,13 @@
  - Starred: True
 
 
+## BlackRock - The company that owns the world?
+ - [https://www.youtube.com/watch?v=A4foal20UTA](https://www.youtube.com/watch?v=A4foal20UTA)
+ - RSS feed: https://www.youtube.com/c/InvestigateEurope
+ - date published: 2018-05-10 21:07:50+00:00
+ - Starred: True
+
+
 ## Mozilla: The ad economy is broken and it's making the internet sick
  - [https://www.zdnet.com/article/mozilla-the-ad-economy-is-broken-and-its-making-the-internet-sick/](https://www.zdnet.com/article/mozilla-the-ad-economy-is-broken-and-its-making-the-internet-sick/)
  - RSS feed: www.zdnet.com
@@ -7586,6 +7768,13 @@
  - Starred: True
 
 
+## Why Socrates Hated Democracy
+ - [https://www.youtube.com/watch?v=fLJBzhcSWTk](https://www.youtube.com/watch?v=fLJBzhcSWTk)
+ - RSS feed: https://www.youtube.com/c/theschooloflifetv
+ - date published: 2016-11-28 21:06:29+00:00
+ - Starred: True
+
+
 ## Chrome ignoruje ustawienia prywatności
  - [https://teamquest.pl/blog/1698_chrome-ignoruje-ustawienia-prywatnosci](https://teamquest.pl/blog/1698_chrome-ignoruje-ustawienia-prywatnosci)
  - RSS feed: teamquest.pl
@@ -7618,6 +7807,13 @@
  - [https://www.cbsnews.com/news/4-reasons-youtube-still-doesnt-make-a-profit/](https://www.cbsnews.com/news/4-reasons-youtube-still-doesnt-make-a-profit/)
  - RSS feed: www.cbsnews.com
  - date published: 2015-05-27 12:04:50+00:00
+ - Starred: True
+
+
+## NSA paid $10 million to put its backdoor in RSA encryption, according to Reuters report
+ - [https://www.theverge.com/2013/12/20/5231006/nsa-paid-10-million-for-a-back-door-into-rsa-encryption-according-to](https://www.theverge.com/2013/12/20/5231006/nsa-paid-10-million-for-a-back-door-into-rsa-encryption-according-to)
+ - RSS feed: https://www.theverge.com/2013/12/20/5231006/nsa-paid-10-million-for-a-back-door-into-rsa-encryption-according-to
+ - date published: 2013-12-20 17:23:06+00:00
  - Starred: True
 
 
@@ -7660,5 +7856,19 @@
  - [https://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html](https://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html)
  - RSS feed: www.philzimmermann.com
  - date published: 1999-09-08 19:26:27+00:00
+ - Starred: True
+
+
+## KGB Defector Yuri Bezmenov 1985 Interview. Explains KGB Manipulation of US Public Opinion
+ - [https://www.youtube.com/watch?v=pOmXiapfCs8](https://www.youtube.com/watch?v=pOmXiapfCs8)
+ - RSS feed: https://www.youtube.com/watch?v=pOmXiapfCs8
+ - date published: 1985-11-06 20:58:26+00:00
+ - Starred: True
+
+
+## Understanding the Political Scenario of INDIA,CANADA,JAPAN,CHINA,USA, FRANCE etc
+ - [https://www.youtube.com/watch?v=Y9TviIuXPSE](https://www.youtube.com/watch?v=Y9TviIuXPSE)
+ - RSS feed: https://www.youtube.com/watch?v=Y9TviIuXPSE
+ - date published: 1984-11-06 20:54:09+00:00
  - Starred: True
 
