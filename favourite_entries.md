@@ -1,3 +1,38 @@
+## Liderzy swiatowi, apelujacy o ograniczenie spozycia miesa i walke...
+ - [https://www.wykop.pl/link/6892155/liderzy-swiatowi-apelujacy-o-ograniczenie-spozycia-miesa-i-walke/](https://www.wykop.pl/link/6892155/liderzy-swiatowi-apelujacy-o-ograniczenie-spozycia-miesa-i-walke/)
+ - RSS feed: https://www.wykop.pl/rss/index.xml/
+ - date published: 2022-11-07 21:28:01+00:00
+ - Starred: True
+
+
+## Billionaires Are Funding Climate Destruction
+ - [https://gizmodo.com/billionaires-are-funding-climate-destruction-1849753810](https://gizmodo.com/billionaires-are-funding-climate-destruction-1849753810)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-11-07 20:44:25+00:00
+ - Starred: True
+
+
+## Without Trust, Digital Worlds Collapse
+ - [https://www.forbes.com/sites/joemckendrick/2022/11/07/without-trust-digital-worlds-collapse/](https://www.forbes.com/sites/joemckendrick/2022/11/07/without-trust-digital-worlds-collapse/)
+ - RSS feed: https://www.forbes.com/innovation/feed2
+ - date published: 2022-11-07 12:00:00+00:00
+ - Starred: True
+
+
+## Why scientists are using the word scary over the climate crisis
+ - [https://www.theguardian.com/environment/2022/nov/07/why-scientists-are-using-the-word-scary-over-the-climate-crisis](https://www.theguardian.com/environment/2022/nov/07/why-scientists-are-using-the-word-scary-over-the-climate-crisis)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-11-07 08:30:02+00:00
+ - Starred: True
+
+
+## Amazon will put off users with its new fee for choosing music on Alexa, consumer watchdog warns
+ - [https://www.dailymail.co.uk/news/article-11396843/Amazon-users-new-fee-choosing-music-Alexa-consumer-watchdog-warns.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11396843/Amazon-users-new-fee-choosing-music-Alexa-consumer-watchdog-warns.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-11-06 22:48:06+00:00
+ - Starred: True
+
+
 ## Finland’s Covid death toll could be exaggerated by 40%, THL says | News & More Trending News
  - [https://www.thetimes.com.ng/2022/11/finlands-covid-death-toll-could-be-exaggerated-by-40-thl-says-news-more-trending-news/](https://www.thetimes.com.ng/2022/11/finlands-covid-death-toll-could-be-exaggerated-by-40-thl-says-news-more-trending-news/)
  - RSS feed: https://www.thetimes.com.ng/2022/11/finlands-covid-death-toll-could-be-exaggerated-by-40-thl-says-news-more-trending-news/
@@ -2168,6 +2203,13 @@
  - Starred: True
 
 
+## Jake Tran Exploits His Audience And No One Cares
+ - [https://youtu.be/xp12iqINfQY](https://youtu.be/xp12iqINfQY)
+ - RSS feed: https://www.youtube.com/c/KiraTV1
+ - date published: 2022-10-18 09:56:36+00:00
+ - Starred: True
+
+
 ## Two thirds of voters say crime is up and blame 'woke politicians' for the rise
  - [https://www.dailymail.co.uk/news/article-11323883/Two-thirds-voters-say-crime-blame-woke-politicians-rise.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11323883/Two-thirds-voters-say-crime-blame-woke-politicians-rise.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
@@ -2739,6 +2781,13 @@
  - [https://www.washingtonpost.com/technology/2022/10/07/biden-data-transfer-executive-order/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/10/07/biden-data-transfer-executive-order/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - RSS feed: https://feeds.washingtonpost.com/rss/business/technology
  - date published: 2022-10-07 10:00:00+00:00
+ - Starred: True
+
+
+## WEF has been ‘upfront’ about ‘Great Reset’ agenda
+ - [https://www.youtube.com/watch?v=6Iy-YrmDMX4](https://www.youtube.com/watch?v=6Iy-YrmDMX4)
+ - RSS feed: https://www.youtube.com/c/SkyNewsAustralia
+ - date published: 2022-10-07 07:19:48+00:00
  - Starred: True
 
 
@@ -4688,6 +4737,13 @@
  - Starred: True
 
 
+## How Google is KILLING your AD BLOCKERS and tracker blockers with Manifest v3
+ - [https://www.youtube.com/watch?v=8KWCLhHrblE](https://www.youtube.com/watch?v=8KWCLhHrblE)
+ - RSS feed: https://www.youtube.com/c/TheLinuxExperiment
+ - date published: 2022-09-19 07:21:33+00:00
+ - Starred: True
+
+
 ## Google, Microsoft can get your passwords via web browser's spellcheck
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58927](https://www.codeproject.com/script/News/View.aspx?nwid=58927)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
@@ -6396,6 +6452,13 @@
  - Starred: True
 
 
+## Thought The Pandemic Was Bad? THIS Is What’s Coming
+ - [https://www.youtube.com/watch?v=CqIJbLGV52c](https://www.youtube.com/watch?v=CqIJbLGV52c)
+ - RSS feed: https://www.youtube.com/c/RussellBrand
+ - date published: 2022-08-31 07:25:12+00:00
+ - Starred: True
+
+
 ## WEF_Advancing_towards_Digital_Agency_2022
  - [https://www3.weforum.org/docs/WEF_Advancing_towards_Digital_Agency_2022.pdf](https://www3.weforum.org/docs/WEF_Advancing_towards_Digital_Agency_2022.pdf)
  - RSS feed: www3.weforum.org
@@ -6900,6 +6963,13 @@
  - Starred: True
 
 
+## Fast Fashion Is Hot Garbage | Climate Town
+ - [https://www.youtube.com/watch?v=F6R_WTDdx7I](https://www.youtube.com/watch?v=F6R_WTDdx7I)
+ - RSS feed: https://www.youtube.com/c/ClimateTown
+ - date published: 2021-09-21 07:45:28+00:00
+ - Starred: True
+
+
 ## Obscenities are symptoms of weak minds.
  - [https://lukesmith.xyz/articles/obscenities-are-symptoms-of-weak-minds/](https://lukesmith.xyz/articles/obscenities-are-symptoms-of-weak-minds/)
  - RSS feed: https://lukesmith.xyz/rss.xml
@@ -7180,6 +7250,13 @@
  - Starred: True
 
 
+## Was 2020 A Simulation? (Science & Math of the Simulation Theory)
+ - [https://www.youtube.com/watch?v=c9p9NE4Pji0](https://www.youtube.com/watch?v=c9p9NE4Pji0)
+ - RSS feed: https://www.youtube.com/c/VentureCity
+ - date published: 2020-12-26 07:46:46+00:00
+ - Starred: True
+
+
 ## Netflix usuwa więcej niż kiedykolwiek. Zniknie 129 tytułów, w tym „Harry Potter” i „Władca Pierścien
  - [https://spidersweb.pl/rozrywka/2020/12/25/netflix-grudzien-2020-harry-potter-przyjaciele-usuwane-31-grudnia](https://spidersweb.pl/rozrywka/2020/12/25/netflix-grudzien-2020-harry-potter-przyjaciele-usuwane-31-grudnia)
  - RSS feed: spidersweb.pl
@@ -7327,6 +7404,13 @@
  - Starred: True
 
 
+## Carbon emissions of richest 1 percent more than double the emissions of the poorest half of humanity
+ - [https://www.oxfam.org/en/press-releases/carbon-emissions-richest-1-percent-more-double-emissions-poorest-half-humanity](https://www.oxfam.org/en/press-releases/carbon-emissions-richest-1-percent-more-double-emissions-poorest-half-humanity)
+ - RSS feed: https://www.oxfam.org
+ - date published: 2020-09-21 07:50:21+00:00
+ - Starred: True
+
+
 ## Gates Foundation funds Facebook fact-checkers that defend it from allegations
  - [https://reclaimthenet.org/gates-foundation-funds-facebook-fact-checkers/](https://reclaimthenet.org/gates-foundation-funds-facebook-fact-checkers/)
  - RSS feed: reclaimthenet.org
@@ -7397,6 +7481,13 @@
  - Starred: True
 
 
+## Why your 'Carbon Footprint' Is A Lie | Climate Town
+ - [https://www.youtube.com/watch?v=1J9LOqiXdpE](https://www.youtube.com/watch?v=1J9LOqiXdpE)
+ - RSS feed: https://www.youtube.com/c/ClimateTown
+ - date published: 2020-08-12 07:47:34+00:00
+ - Starred: True
+
+
 ## 400+ Qualcomm Chip Vulnerabilities Threaten Millions of Android Phones
  - [https://www.darkreading.com/vulnerabilities---threats/400+-qualcomm-chip-vulnerabilities-threaten-millions-of-android-phones/d/d-id/1338613](https://www.darkreading.com/vulnerabilities---threats/400+-qualcomm-chip-vulnerabilities-threaten-millions-of-android-phones/d/d-id/1338613)
  - RSS feed: www.darkreading.com
@@ -7457,6 +7548,13 @@
  - [https://niezalezna.pl/341246-atak-hakerow-na-twittera-pokazal-ze-cenzuruje-on-uzytkownikow](https://niezalezna.pl/341246-atak-hakerow-na-twittera-pokazal-ze-cenzuruje-on-uzytkownikow)
  - RSS feed: niezalezna.pl
  - date published: 2020-07-17 06:53:56+00:00
+ - Starred: True
+
+
+## Climate Change Is An Absolute Nightmare - This Is Why
+ - [https://www.youtube.com/watch?v=uqwvf6R1_QY](https://www.youtube.com/watch?v=uqwvf6R1_QY)
+ - RSS feed: https://www.youtube.com/c/UpIsNotJump
+ - date published: 2020-07-09 07:33:22+00:00
  - Starred: True
 
 
@@ -7716,6 +7814,13 @@
  - [https://www.palestinechronicle.com/hurricane-harvey-victims-told-boycott-israel-and-you-wont-get-aid-donations/](https://www.palestinechronicle.com/hurricane-harvey-victims-told-boycott-israel-and-you-wont-get-aid-donations/)
  - RSS feed: www.palestinechronicle.com
  - date published: 2017-10-21 12:52:50+00:00
+ - Starred: True
+
+
+## Is Reality Real? The Simulation Argument
+ - [https://www.youtube.com/watch?v=tlTKTTt47WE](https://www.youtube.com/watch?v=tlTKTTt47WE)
+ - RSS feed: https://www.youtube.com/c/inanutshell
+ - date published: 2017-09-21 07:46:14+00:00
  - Starred: True
 
 
