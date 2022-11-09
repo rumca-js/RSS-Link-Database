@@ -1,3 +1,45 @@
+## The Lie That Facebook Sold You
+ - [https://havenweb.org/2022/11/02/facebook-lie.html](https://havenweb.org/2022/11/02/facebook-lie.html)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-11-08 17:00:33+00:00
+ - Starred: True
+
+
+## Afera we francuskim kościele. 11 biskupów "zamieszanych" w przemoc seksualną
+ - [https://www.wykop.pl/link/6891593/afera-we-francuskim-kosciele-11-biskupow-zamieszanych-w-przemoc-seksualna/](https://www.wykop.pl/link/6891593/afera-we-francuskim-kosciele-11-biskupow-zamieszanych-w-przemoc-seksualna/)
+ - RSS feed: https://www.wykop.pl/rss/index.xml/
+ - date published: 2022-11-08 07:25:02+00:00
+ - Starred: True
+
+
+## Ameryka jedzie na rezerwie
+ - [https://www.bankier.pl/wiadomosc/Ameryka-jedzie-na-rezerwie-8435106.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Ameryka-jedzie-na-rezerwie-8435106.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2022-11-08 05:00:00+00:00
+ - Starred: True
+
+
+## Bill Clinton laughs off his relationship with Jeffrey Epstein and refuses to answer questions
+ - [https://www.dailymail.co.uk/news/article-11401025/Bill-Clinton-laughs-relationship-Jeffrey-Epstein-refuses-answer-questions.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11401025/Bill-Clinton-laughs-relationship-Jeffrey-Epstein-refuses-answer-questions.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-11-08 04:55:16+00:00
+ - Starred: True
+
+
+## China's super-rich see fortunes plunge as economy slows
+ - [https://www.theguardian.com/world/2022/nov/08/hurun-rich-list-china-super-rich-see-fortunes-plunge-as-economy-slows](https://www.theguardian.com/world/2022/nov/08/hurun-rich-list-china-super-rich-see-fortunes-plunge-as-economy-slows)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-11-08 04:00:33+00:00
+ - Starred: True
+
+
+## University academics criticise plans to 'decolonise' maths and say degrees are being 'politicised'
+ - [https://www.dailymail.co.uk/news/article-11401017/University-academics-criticise-plans-decolonise-maths-say-degrees-politicised.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11401017/University-academics-criticise-plans-decolonise-maths-say-degrees-politicised.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-11-08 00:25:04+00:00
+ - Starred: True
+
+
 ## Liderzy swiatowi, apelujacy o ograniczenie spozycia miesa i walke...
  - [https://www.wykop.pl/link/6892155/liderzy-swiatowi-apelujacy-o-ograniczenie-spozycia-miesa-i-walke/](https://www.wykop.pl/link/6892155/liderzy-swiatowi-apelujacy-o-ograniczenie-spozycia-miesa-i-walke/)
  - RSS feed: https://www.wykop.pl/rss/index.xml/
@@ -9,6 +51,13 @@
  - [https://gizmodo.com/billionaires-are-funding-climate-destruction-1849753810](https://gizmodo.com/billionaires-are-funding-climate-destruction-1849753810)
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-11-07 20:44:25+00:00
+ - Starred: True
+
+
+## Your Organization should run its own Mastodon server
+ - [https://martinfowler.com/articles/your-org-run-mastodon.html](https://martinfowler.com/articles/your-org-run-mastodon.html)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-11-07 18:07:47+00:00
  - Starred: True
 
 
@@ -58,6 +107,13 @@
  - [https://www.businessinsider.com/facebook-has-hidden-tool-to-delete-your-phone-number-email-2022-10?IR=T](https://www.businessinsider.com/facebook-has-hidden-tool-to-delete-your-phone-number-email-2022-10?IR=T)
  - RSS feed: https://www.businessinsider.com/facebook-has-hidden-tool-to-delete-your-phone-number-email-2022-10?IR=T
  - date published: 2022-11-05 23:36:46+00:00
+ - Starred: True
+
+
+## 3D OpenStreetMap
+ - [https://demo.f4map.com](https://demo.f4map.com)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-11-05 21:26:27+00:00
  - Starred: True
 
 
