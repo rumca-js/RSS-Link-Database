@@ -1,3 +1,31 @@
+## Smartphones Are Like Cars. So Why Don’t We Maintain Them?
+ - [https://www.nytimes.com/2022/11/09/technology/personaltech/smartphone-repair.html](https://www.nytimes.com/2022/11/09/technology/personaltech/smartphone-repair.html)
+ - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
+ - date published: 2022-11-09 10:00:23+00:00
+ - Starred: True
+
+
+## President Xi dons army fatigues after announcing China will be focusing on preparations for war
+ - [https://www.dailymail.co.uk/news/article-11407131/President-Xi-dons-army-fatigues-announcing-China-focusing-preparations-war.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11407131/President-Xi-dons-army-fatigues-announcing-China-focusing-preparations-war.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-11-09 09:56:11+00:00
+ - Starred: True
+
+
+## Disney now matches Netflix's subscriber numbers across its combined services
+ - [https://www.engadget.com/disney-streaming-services-earnings-055415800.html?src=rss](https://www.engadget.com/disney-streaming-services-earnings-055415800.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2022-11-09 05:54:15+00:00
+ - Starred: True
+
+
+## Nadciąga fala niewypłacalności firm. Nie pomoże nawet ustabilizowanie cen energii
+ - [https://www.bankier.pl/wiadomosc/Nadciaga-fala-niewyplacalnosci-firm-Nie-pomoze-nawet-ustabilizowanie-cen-energii-8436158.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Nadciaga-fala-niewyplacalnosci-firm-Nie-pomoze-nawet-ustabilizowanie-cen-energii-8436158.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2022-11-09 05:50:00+00:00
+ - Starred: True
+
+
 ## The Lie That Facebook Sold You
  - [https://havenweb.org/2022/11/02/facebook-lie.html](https://havenweb.org/2022/11/02/facebook-lie.html)
  - RSS feed: https://hnrss.org/frontpage
@@ -7912,6 +7940,13 @@
  - [https://www.theverge.com/2017/6/23/15862492/google-gmail-advertising-targeting-privacy-coud-business](https://www.theverge.com/2017/6/23/15862492/google-gmail-advertising-targeting-privacy-coud-business)
  - RSS feed: www.theverge.com
  - date published: 2017-06-23 12:04:50+00:00
+ - Starred: True
+
+
+## No one went to prison after 2008 financial crisis — and the fault lies with us
+ - [https://www.dallasnews.com/business/personal-finance/2017/02/13/no-one-went-to-prison-after-2008-financial-crisis-and-the-fault-lies-with-us/](https://www.dallasnews.com/business/personal-finance/2017/02/13/no-one-went-to-prison-after-2008-financial-crisis-and-the-fault-lies-with-us/)
+ - RSS feed: https://www.dallasnews.com
+ - date published: 2017-02-13 09:46:55+00:00
  - Starred: True
 
 
