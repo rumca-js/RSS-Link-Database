@@ -1,3 +1,31 @@
+## GitHub stars won't pay your rent
+ - [https://kitze.io/posts/github-stars-wont-pay-your-rent](https://kitze.io/posts/github-stars-wont-pay-your-rent)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-11-10 00:18:07+00:00
+ - Starred: True
+
+
+## Zuckerberg's leaked email on VR strategy (2015)
+ - [https://www.scribd.com/document/399594551/2015-06-22-MARK-S-VISION](https://www.scribd.com/document/399594551/2015-06-22-MARK-S-VISION)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-11-09 22:13:42+00:00
+ - Starred: True
+
+
+## Doom Eternal composer breaks silence over clash with id Software: 'I never quit Doom. I quit a toxic client'
+ - [https://www.pcgamer.com/doom-eternal-composer-breaks-silence-over-clash-with-id-software-i-never-quit-doom-i-quit-a-toxic-client](https://www.pcgamer.com/doom-eternal-composer-breaks-silence-over-clash-with-id-software-i-never-quit-doom-i-quit-a-toxic-client)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2022-11-09 20:35:11+00:00
+ - Starred: True
+
+
+## Xi Jinping tells China’s army to focus on preparation for war
+ - [https://www.theguardian.com/world/2022/nov/09/xi-jinping-tells-chinas-army-to-focus-on-preparation-for-war](https://www.theguardian.com/world/2022/nov/09/xi-jinping-tells-chinas-army-to-focus-on-preparation-for-war)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-11-09 19:00:13+00:00
+ - Starred: True
+
+
 ## Smartphones Are Like Cars. So Why Don’t We Maintain Them?
  - [https://www.nytimes.com/2022/11/09/technology/personaltech/smartphone-repair.html](https://www.nytimes.com/2022/11/09/technology/personaltech/smartphone-repair.html)
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
@@ -23,6 +51,20 @@
  - [https://www.bankier.pl/wiadomosc/Nadciaga-fala-niewyplacalnosci-firm-Nie-pomoze-nawet-ustabilizowanie-cen-energii-8436158.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Nadciaga-fala-niewyplacalnosci-firm-Nie-pomoze-nawet-ustabilizowanie-cen-energii-8436158.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
  - date published: 2022-11-09 05:50:00+00:00
+ - Starred: True
+
+
+## Mark Zuckerberg confirms broad layoffs to begin at Meta
+ - [https://www.theguardian.com/technology/2022/nov/08/meta-layoffs-facebook-mark-zuckerberg](https://www.theguardian.com/technology/2022/nov/08/meta-layoffs-facebook-mark-zuckerberg)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-11-09 03:53:21+00:00
+ - Starred: True
+
+
+## Why I’m Leaving Tech to Pursue Art
+ - [https://liamhz.com/blog/leaving-tech-to-pursue-art](https://liamhz.com/blog/leaving-tech-to-pursue-art)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-11-09 01:06:29+00:00
  - Starred: True
 
 
@@ -1395,6 +1437,13 @@
  - [https://wydarzenia.interia.pl/zagranica/news-usa-demokraci-chcieli-negocjacji-z-rosja-kontrowersyjny-list,nId,6371667](https://wydarzenia.interia.pl/zagranica/news-usa-demokraci-chcieli-negocjacji-z-rosja-kontrowersyjny-list,nId,6371667)
  - RSS feed: https://wydarzenia.interia.pl/swiat/feed
  - date published: 2022-10-26 07:53:57+00:00
+ - Starred: True
+
+
+## Ford, VW pull plug on robotaxis in blow to self-driving car industry
+ - [https://edition.cnn.com/2022/10/26/business/ford-argo-ai-vw-shut-down/index.html](https://edition.cnn.com/2022/10/26/business/ford-argo-ai-vw-shut-down/index.html)
+ - RSS feed: https://edition.cnn.com
+ - date published: 2022-10-26 07:52:21+00:00
  - Starred: True
 
 
