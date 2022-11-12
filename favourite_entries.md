@@ -1,3 +1,66 @@
+## How To Turn Your Phone Into a ‘Minimalist’ Phone to Reduce Distractions
+ - [https://gizmodo.com/minimalist-phone-how-to-light-ii-wisephone-ios-android-1849764669](https://gizmodo.com/minimalist-phone-how-to-light-ii-wisephone-ios-android-1849764669)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-11-11 18:25:00+00:00
+ - Starred: True
+
+
+## Windows 11 wyświetli jeszcze więcej reklam. Microsoft testuje cierpliwość użytkowników
+ - [https://ithardware.pl/aktualnosci/windows_11_wyswietli_jeszcze_wiecej_reklam_microsoft_testuje_cierpliwosc_uzytkownikow-24307.html](https://ithardware.pl/aktualnosci/windows_11_wyswietli_jeszcze_wiecej_reklam_microsoft_testuje_cierpliwosc_uzytkownikow-24307.html)
+ - RSS feed: https://ithardware.pl/feed
+ - date published: 2022-11-11 17:30:00+00:00
+ - Starred: True
+
+
+## Amazon enters the age of robots. What does that mean for its workers?
+ - [https://www.theguardian.com/technology/2022/nov/11/amazon-robots-jobs](https://www.theguardian.com/technology/2022/nov/11/amazon-robots-jobs)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-11-11 15:52:38+00:00
+ - Starred: True
+
+
+## The World Is Run by People No Smarter Than You
+ - [https://www.swyx.io/no-smarter](https://www.swyx.io/no-smarter)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-11-11 15:43:39+00:00
+ - Starred: True
+
+
+## Scaling Mastodon in the Face of an Exodus
+ - [https://nora.codes/post/scaling-mastodon-in-the-face-of-an-exodus/](https://nora.codes/post/scaling-mastodon-in-the-face-of-an-exodus/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-11-11 15:40:59+00:00
+ - Starred: True
+
+
+## Scientists find a surprising answer to the future of computers — paper
+ - [https://www.digitaltrends.com/computing/scientists-find-answer-to-future-computers-in-paper/](https://www.digitaltrends.com/computing/scientists-find-answer-to-future-computers-in-paper/)
+ - RSS feed: https://www.digitaltrends.com/news/rss
+ - date published: 2022-11-11 15:39:21.348041+00:00
+ - Starred: True
+
+
+## Silicon Valley layoffs are a reminder that your job won’t love you back
+ - [https://www.codeproject.com/script/News/View.aspx?nwid=59481](https://www.codeproject.com/script/News/View.aspx?nwid=59481)
+ - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
+ - date published: 2022-11-11 05:00:00+00:00
+ - Starred: True
+
+
+## Twitter starts doling out 'official' checkmarks - again
+ - [https://www.engadget.com/twitter-starts-doling-out-official-checkmarks-again-045618923.html?src=rss](https://www.engadget.com/twitter-starts-doling-out-official-checkmarks-again-045618923.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2022-11-11 04:56:18+00:00
+ - Starred: True
+
+
+## Elon Musk details his plan to turn Twitter into a bank
+ - [https://www.theverge.com/2022/11/10/23452488/elon-musk-twitter-bank-q-and-a](https://www.theverge.com/2022/11/10/23452488/elon-musk-twitter-bank-q-and-a)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-11-11 02:34:58+00:00
+ - Starred: True
+
+
 ## GitHub stars won't pay your rent
  - [https://kitze.io/posts/github-stars-wont-pay-your-rent](https://kitze.io/posts/github-stars-wont-pay-your-rent)
  - RSS feed: https://hnrss.org/frontpage
