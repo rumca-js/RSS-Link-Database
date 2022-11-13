@@ -1,3 +1,24 @@
+## "Kompletna systemowa porażka". Wybory parlamentarne w Berlinie do powtórki
+ - [https://wydarzenia.interia.pl/zagranica/news-kompletna-systemowa-porazka-wybory-parlamentarne-w-berlinie-,nId,6406767](https://wydarzenia.interia.pl/zagranica/news-kompletna-systemowa-porazka-wybory-parlamentarne-w-berlinie-,nId,6406767)
+ - RSS feed: https://wydarzenia.interia.pl/feed
+ - date published: 2022-11-12 13:47:20+00:00
+ - Starred: True
+
+
+## LeanQt – GUI is here, Widgets are near
+ - [https://github.com/rochus-keller/LeanQt/releases/tag/2022-11-11](https://github.com/rochus-keller/LeanQt/releases/tag/2022-11-11)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-11-12 13:21:50+00:00
+ - Starred: True
+
+
+## (Mastodon) Surviving and thriving through the 2022-11-05 meltdown
+ - [https://blog.freeradical.zone/post/surviving-thriving-through-2022-11-05-meltdown/](https://blog.freeradical.zone/post/surviving-thriving-through-2022-11-05-meltdown/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-11-12 08:39:06+00:00
+ - Starred: True
+
+
 ## How To Turn Your Phone Into a ‘Minimalist’ Phone to Reduce Distractions
  - [https://gizmodo.com/minimalist-phone-how-to-light-ii-wisephone-ios-android-1849764669](https://gizmodo.com/minimalist-phone-how-to-light-ii-wisephone-ios-android-1849764669)
  - RSS feed: https://gizmodo.com/rss
@@ -2277,6 +2298,13 @@
  - [https://www.cnn.com/2022/10/21/tech/facebook-tiktok-misinfo-ads/index.html](https://www.cnn.com/2022/10/21/tech/facebook-tiktok-misinfo-ads/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 12:30:37+00:00
+ - Starred: True
+
+
+## Apple Is an Ad Company Now
+ - [https://www.wired.com/story/apple-is-an-ad-company-now/](https://www.wired.com/story/apple-is-an-ad-company-now/)
+ - RSS feed: https://www.wired.com/
+ - date published: 2022-10-20 21:52:57+00:00
  - Starred: True
 
 
