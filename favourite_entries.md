@@ -1,3 +1,66 @@
+## Fast Software, the Best Software (2019)
+ - [https://craigmod.com/essays/fast_software/](https://craigmod.com/essays/fast_software/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-11-13 17:08:21+00:00
+ - Starred: True
+
+
+## Forking Chrome to turn HTML into SVG
+ - [https://fathy.fr/html2svg](https://fathy.fr/html2svg)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-11-13 17:06:26+00:00
+ - Starred: True
+
+
+## Apple Is Tracking You Even When Its Own Privacy Settings Say It’s Not, New Research Says
+ - [https://www.msn.com/en-us/news/technology/apple-is-tracking-you-even-when-its-own-privacy-settings-say-it-s-not-new-research-says/ar-AA13T2Y0](https://www.msn.com/en-us/news/technology/apple-is-tracking-you-even-when-its-own-privacy-settings-say-it-s-not-new-research-says/ar-AA13T2Y0)
+ - RSS feed: https://www.msn.com
+ - date published: 2022-11-13 16:54:24+00:00
+ - Starred: True
+
+
+## Disney Stock Suffers Worst Day in 21 Years
+ - [https://www.breitbart.com/entertainment/2022/11/11/disney-stock-suffers-worst-day-in-21-years/](https://www.breitbart.com/entertainment/2022/11/11/disney-stock-suffers-worst-day-in-21-years/)
+ - RSS feed: https://www.breitbart.com/entertainment/2022/11/11/disney-stock-suffers-worst-day-in-21-years/
+ - date published: 2022-11-13 14:50:04+00:00
+ - Starred: True
+
+
+## Apple i Amazon zaszkodzili branży? Firmy oskarżone o zmowę cenową
+ - [https://ithardware.pl/aktualnosci/apple_i_amazon_zaszkodzili_branzy_firmy_oskarzone_o_zmowe_cenowa-24324.html](https://ithardware.pl/aktualnosci/apple_i_amazon_zaszkodzili_branzy_firmy_oskarzone_o_zmowe_cenowa-24324.html)
+ - RSS feed: https://ithardware.pl/feed
+ - date published: 2022-11-13 09:00:01+00:00
+ - Starred: True
+
+
+## Iranian refugee who inspired Spielberg's film "The Terminal" dies inside Paris airport
+ - [https://www.cnn.com/2022/11/12/europe/the-terminal-movie-paris-airport-mehran-karimi-nasseri-dies-intl-hnk/index.html](https://www.cnn.com/2022/11/12/europe/the-terminal-movie-paris-airport-mehran-karimi-nasseri-dies-intl-hnk/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-11-13 01:36:13+00:00
+ - Starred: True
+
+
+## Christina Applegate reveals role on 'Dead to Me' may be last due to MS diagnosis
+ - [https://www.foxnews.com/entertainment/christina-applegate-reveals-role-dead-to-me-may-be-last-due-ms-diagnosis](https://www.foxnews.com/entertainment/christina-applegate-reveals-role-dead-to-me-may-be-last-due-ms-diagnosis)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-11-13 00:09:15+00:00
+ - Starred: True
+
+
+## FBI reportedly considered using Pegasus spyware in criminal investigations
+ - [https://www.engadget.com/fbi-reportedly-considered-using-pegasus-spyware-195512125.html?src=rss](https://www.engadget.com/fbi-reportedly-considered-using-pegasus-spyware-195512125.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2022-11-12 19:55:12+00:00
+ - Starred: True
+
+
+## Dr. Jordan B. Peterson: Social Media Is Part Of ‘Pollution Of The Domain Of Public Discourse’
+ - [https://www.dailywire.com/news/dr-jordan-b-peterson-social-media-is-part-of-pollution-of-the-domain-of-public-discourse](https://www.dailywire.com/news/dr-jordan-b-peterson-social-media-is-part-of-pollution-of-the-domain-of-public-discourse)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-11-12 18:09:52+00:00
+ - Starred: True
+
+
 ## "Kompletna systemowa porażka". Wybory parlamentarne w Berlinie do powtórki
  - [https://wydarzenia.interia.pl/zagranica/news-kompletna-systemowa-porazka-wybory-parlamentarne-w-berlinie-,nId,6406767](https://wydarzenia.interia.pl/zagranica/news-kompletna-systemowa-porazka-wybory-parlamentarne-w-berlinie-,nId,6406767)
  - RSS feed: https://wydarzenia.interia.pl/feed
