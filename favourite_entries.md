@@ -1,3 +1,45 @@
+## Israel will not cooperate with FBI inquiry into killing of Palestinian American journalist
+ - [https://www.theguardian.com/world/2022/nov/14/shireen-abu-akleh-killing-israel-fbi-investigation](https://www.theguardian.com/world/2022/nov/14/shireen-abu-akleh-killing-israel-fbi-investigation)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-11-14 21:51:28+00:00
+ - Starred: True
+
+
+## Viral TikTok shared by newlyweds has commenters blasting ‘controversial’ marriage guidelines
+ - [https://www.foxnews.com/lifestyle/viral-tiktok-newlyweds-commenters-blasting-controversial-marriage-guidelines](https://www.foxnews.com/lifestyle/viral-tiktok-newlyweds-commenters-blasting-controversial-marriage-guidelines)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-11-14 21:42:32+00:00
+ - Starred: True
+
+
+## Google Agrees to $392 Million Privacy Settlement With 40 States
+ - [https://www.nytimes.com/2022/11/14/technology/google-privacy-settlement.html](https://www.nytimes.com/2022/11/14/technology/google-privacy-settlement.html)
+ - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
+ - date published: 2022-11-14 16:43:47+00:00
+ - Starred: True
+
+
+## Amazon Reportedly Plans To Cut 10,000 Jobs—Here Are The Biggest U.S. Layoffs This Year
+ - [https://www.forbes.com/sites/brianbushard/2022/11/14/amazon-reportedly-plans-to-cut-10000-jobs-here-are-the-biggest-us-layoffs-this-year/](https://www.forbes.com/sites/brianbushard/2022/11/14/amazon-reportedly-plans-to-cut-10000-jobs-here-are-the-biggest-us-layoffs-this-year/)
+ - RSS feed: https://www.forbes.com/innovation/feed2
+ - date published: 2022-11-14 16:37:51+00:00
+ - Starred: True
+
+
+## NSA urges orgs to use memory-safe programming languages
+ - [https://www.codeproject.com/script/News/View.aspx?nwid=59484](https://www.codeproject.com/script/News/View.aspx?nwid=59484)
+ - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
+ - date published: 2022-11-14 05:00:00+00:00
+ - Starred: True
+
+
+## The FBI Reportedly Came Very Close to Deploying Spyware for Domestic Surveillance
+ - [https://gizmodo.com/the-fbi-reportedly-came-very-close-to-deploying-spyware-1849778042](https://gizmodo.com/the-fbi-reportedly-came-very-close-to-deploying-spyware-1849778042)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-11-14 01:05:00+00:00
+ - Starred: True
+
+
 ## Fast Software, the Best Software (2019)
  - [https://craigmod.com/essays/fast_software/](https://craigmod.com/essays/fast_software/)
  - RSS feed: https://hnrss.org/frontpage
@@ -2497,6 +2539,13 @@
  - Starred: True
 
 
+## Get Woke, Go Broke: BlackRock Stock Downgraded Over Risk From ESG Investing
+ - [https://www.dailywire.com/news/get-woke-go-broke-blackrock-stock-downgraded-over-risk-from-esg-investing](https://www.dailywire.com/news/get-woke-go-broke-blackrock-stock-downgraded-over-risk-from-esg-investing)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-10-17 19:04:25+00:00
+ - Starred: True
+
+
 ## Two thirds of voters say crime is up and blame 'woke politicians' for the rise
  - [https://www.dailymail.co.uk/news/article-11323883/Two-thirds-voters-say-crime-blame-woke-politicians-rise.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11323883/Two-thirds-voters-say-crime-blame-woke-politicians-rise.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
@@ -3691,6 +3740,13 @@
  - [https://www.pcgamer.com/blizzard-is-trying-to-get-more-lgbtq-players-in-the-overwatch-league](https://www.pcgamer.com/blizzard-is-trying-to-get-more-lgbtq-players-in-the-overwatch-league)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-30 19:41:44+00:00
+ - Starred: True
+
+
+## Amazon Makes Creepy Surveillance Robot Even Creepier With Yet More Ring Integration
+ - [https://gizmodo.com/amazon-astro-robot-ring-virtual-security-guard-cops-1849591805](https://gizmodo.com/amazon-astro-robot-ring-virtual-security-guard-cops-1849591805)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-09-30 19:10:00+00:00
  - Starred: True
 
 
@@ -5493,6 +5549,13 @@
  - Starred: True
 
 
+## How Bill Gates and partners used their clout to control the global Covid response — with little oversight
+ - [https://www.politico.com/news/2022/09/14/global-covid-pandemic-response-bill-gates-partners-00053969](https://www.politico.com/news/2022/09/14/global-covid-pandemic-response-bill-gates-partners-00053969)
+ - RSS feed: https://www.politico.com
+ - date published: 2022-09-14 20:25:38+00:00
+ - Starred: True
+
+
 ## California is suing Amazon alleging the company contributed to high costs of products state-wide
  - [https://www.dailymail.co.uk/news/article-11212837/California-suing-Amazon-alleging-company-contributed-high-costs-products-state-wide.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11212837/California-suing-Amazon-alleging-company-contributed-high-costs-products-state-wide.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
@@ -5994,6 +6057,13 @@
  - [https://www.androidauthority.com/google-doj-antitrust-action-3207188/](https://www.androidauthority.com/google-doj-antitrust-action-3207188/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-09-09 16:31:43+00:00
+ - Starred: True
+
+
+## Lauded Federal Data Privacy Bill Has A Carveout For Government Surveillance
+ - [https://www.dailywire.com/news/lauded-federal-data-privacy-bill-has-a-carveout-for-government-surveillance](https://www.dailywire.com/news/lauded-federal-data-privacy-bill-has-a-carveout-for-government-surveillance)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-09-09 16:04:08+00:00
  - Starred: True
 
 
