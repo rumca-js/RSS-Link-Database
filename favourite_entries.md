@@ -1,3 +1,45 @@
+## Universities courses from computing to classics are told to 'decolonise' by degrees watchdog
+ - [https://www.dailymail.co.uk/news/article-11431449/Universities-courses-computing-classics-told-decolonise-degrees-watchdog.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11431449/Universities-courses-computing-classics-told-decolonise-degrees-watchdog.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-11-15 19:36:31+00:00
+ - Starred: True
+
+
+## Austria to ban COVID vaccine opponents from wearing symbols that reference Holocaust
+ - [https://www.foxnews.com/world/austria-ban-covid-vaccine-opponents-wearing-symbols-reference-holocaust](https://www.foxnews.com/world/austria-ban-covid-vaccine-opponents-wearing-symbols-reference-holocaust)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-11-15 19:35:28+00:00
+ - Starred: True
+
+
+## Disney+ demands users’ age and gender so it can “deliver targeted advertising”
+ - [https://reclaimthenet.org/disney-plus-demands-users-age-and-gender/](https://reclaimthenet.org/disney-plus-demands-users-age-and-gender/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-11-15 16:28:34+00:00
+ - Starred: True
+
+
+## The scary truth about AI copyright is nobody knows what will happen next
+ - [https://www.theverge.com/23444685/generative-ai-copyright-infringement-legal-fair-use-training-data](https://www.theverge.com/23444685/generative-ai-copyright-infringement-legal-fair-use-training-data)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-11-15 15:00:00+00:00
+ - Starred: True
+
+
+## US government apps found using Russian code
+ - [https://www.techradar.com/news/us-government-apps-found-using-russian-code/](https://www.techradar.com/news/us-government-apps-found-using-russian-code/)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2022-11-15 14:59:50+00:00
+ - Starred: True
+
+
+## Republican states take on 'treasonous' and 'woke' green firms
+ - [https://www.dailymail.co.uk/news/article-11427819/Republican-states-treasonous-woke-green-firms.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11427819/Republican-states-treasonous-woke-green-firms.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-11-15 12:59:43+00:00
+ - Starred: True
+
+
 ## Israel will not cooperate with FBI inquiry into killing of Palestinian American journalist
  - [https://www.theguardian.com/world/2022/nov/14/shireen-abu-akleh-killing-israel-fbi-investigation](https://www.theguardian.com/world/2022/nov/14/shireen-abu-akleh-killing-israel-fbi-investigation)
  - RSS feed: https://www.theguardian.com/international/rss
@@ -9,6 +51,13 @@
  - [https://www.foxnews.com/lifestyle/viral-tiktok-newlyweds-commenters-blasting-controversial-marriage-guidelines](https://www.foxnews.com/lifestyle/viral-tiktok-newlyweds-commenters-blasting-controversial-marriage-guidelines)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-11-14 21:42:32+00:00
+ - Starred: True
+
+
+## How Marxism is Disguised as Woke Morality | Dr. Yoram Hazony | #305
+ - [https://www.youtube.com/watch?v=D5X0tAecfF4](https://www.youtube.com/watch?v=D5X0tAecfF4)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q
+ - date published: 2022-11-14 17:08:04+00:00
  - Starred: True
 
 
@@ -37,6 +86,13 @@
  - [https://gizmodo.com/the-fbi-reportedly-came-very-close-to-deploying-spyware-1849778042](https://gizmodo.com/the-fbi-reportedly-came-very-close-to-deploying-spyware-1849778042)
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-11-14 01:05:00+00:00
+ - Starred: True
+
+
+## Source code is not enough
+ - [https://fuzzypixelz.com/blog/source-code-is-not-enough/](https://fuzzypixelz.com/blog/source-code-is-not-enough/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-11-13 17:34:30+00:00
  - Starred: True
 
 
@@ -131,6 +187,13 @@
  - Starred: True
 
 
+## How safe is Elon Musk's bet on Tesla in China? Tesla has adjusted its sales & service strategy
+ - [https://www.youtube.com/watch?v=iEwxAJ0zgNE](https://www.youtube.com/watch?v=iEwxAJ0zgNE)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug
+ - date published: 2022-11-11 18:00:07+00:00
+ - Starred: True
+
+
 ## Windows 11 wyświetli jeszcze więcej reklam. Microsoft testuje cierpliwość użytkowników
  - [https://ithardware.pl/aktualnosci/windows_11_wyswietli_jeszcze_wiecej_reklam_microsoft_testuje_cierpliwosc_uzytkownikow-24307.html](https://ithardware.pl/aktualnosci/windows_11_wyswietli_jeszcze_wiecej_reklam_microsoft_testuje_cierpliwosc_uzytkownikow-24307.html)
  - RSS feed: https://ithardware.pl/feed
@@ -208,6 +271,13 @@
  - Starred: True
 
 
+## Gmail Will Now Track Your Packages Directly in the App
+ - [https://lifehacker.com/gmail-will-now-track-your-packages-directly-in-the-app-1849763848](https://lifehacker.com/gmail-will-now-track-your-packages-directly-in-the-app-1849763848)
+ - RSS feed: https://lifehacker.com/rss
+ - date published: 2022-11-09 20:30:00+00:00
+ - Starred: True
+
+
 ## Xi Jinping tells China’s army to focus on preparation for war
  - [https://www.theguardian.com/world/2022/nov/09/xi-jinping-tells-chinas-army-to-focus-on-preparation-for-war](https://www.theguardian.com/world/2022/nov/09/xi-jinping-tells-chinas-army-to-focus-on-preparation-for-war)
  - RSS feed: https://www.theguardian.com/international/rss
@@ -254,6 +324,13 @@
  - [https://liamhz.com/blog/leaving-tech-to-pursue-art](https://liamhz.com/blog/leaving-tech-to-pursue-art)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-09 01:06:29+00:00
+ - Starred: True
+
+
+## While Failing to Save the Planet
+ - [https://www.youtube.com/watch?v=NIMLW2RundY](https://www.youtube.com/watch?v=NIMLW2RundY)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q
+ - date published: 2022-11-08 21:28:11+00:00
  - Starred: True
 
 
@@ -380,6 +457,13 @@
  - [https://www.bleepingcomputer.com/news/security/microsoft-sued-for-open-source-piracy-through-github-copilot/](https://www.bleepingcomputer.com/news/security/microsoft-sued-for-open-source-piracy-through-github-copilot/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-05 20:49:50+00:00
+ - Starred: True
+
+
+## More Chinese can't stand the CCP as the planned economy returns to China
+ - [https://www.youtube.com/watch?v=lutHkJoBjrM](https://www.youtube.com/watch?v=lutHkJoBjrM)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug
+ - date published: 2022-11-05 19:45:08+00:00
  - Starred: True
 
 
@@ -768,6 +852,13 @@
  - Starred: True
 
 
+## "I WISH I HAD MORE INTERNET FRIENDS." - Literally Nobody
+ - [https://www.youtube.com/watch?v=fVsCLKErPqE](https://www.youtube.com/watch?v=fVsCLKErPqE)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA
+ - date published: 2022-11-01 22:24:57+00:00
+ - Starred: True
+
+
 ## You Really Don't Want the Government to Be Your Content Moderator
  - [https://gizmodo.com/homeland-security-content-moderation-disinformation-no-1849724281](https://gizmodo.com/homeland-security-content-moderation-disinformation-no-1849724281)
  - RSS feed: https://gizmodo.com/rss
@@ -898,13 +989,6 @@
  - [https://www.cnet.com/health/medical/shanghai-disneyland-reportedly-shuts-down-due-to-covid-with-guests-still-inside/#ftag=CADf328eec](https://www.cnet.com/health/medical/shanghai-disneyland-reportedly-shuts-down-due-to-covid-with-guests-still-inside/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-31 22:15:05+00:00
- - Starred: True
-
-
-## Wicked Globalists Are Causing Starvation and Poverty Under the Guise of Environmentalism
- - [https://www.youtube.com/watch?v=tF5spyudTYA](https://www.youtube.com/watch?v=tF5spyudTYA)
- - RSS feed: https://www.youtube.com/c/JordanPetersonVideos
- - date published: 2022-10-31 21:16:14+00:00
  - Starred: True
 
 
@@ -1181,6 +1265,13 @@
  - Starred: True
 
 
+## Wicked Globalists Are Causing Starvation and Poverty Under the Guise of Environmentalism
+ - [https://www.youtube.com/watch?v=tF5spyudTYA](https://www.youtube.com/watch?v=tF5spyudTYA)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q
+ - date published: 2022-10-28 20:25:45+00:00
+ - Starred: True
+
+
 ## Elon Musk says Twitter will have a ‘content moderation council’
  - [https://www.theverge.com/2022/10/28/23428792/elon-musk-twitter-content-moderation-council-trump](https://www.theverge.com/2022/10/28/23428792/elon-musk-twitter-content-moderation-council-trump)
  - RSS feed: https://www.theverge.com/rss/index.xml
@@ -1290,6 +1381,13 @@
  - [https://arstechnica.com/?p=1893477](https://arstechnica.com/?p=1893477)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-28 01:52:05+00:00
+ - Starred: True
+
+
+## Foreign investors are pulling out quickly: China's economy is looking bleak/A major purge is coming
+ - [https://www.youtube.com/watch?v=M7DRDIwHa0E](https://www.youtube.com/watch?v=M7DRDIwHa0E)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug
+ - date published: 2022-10-28 01:15:08+00:00
  - Starred: True
 
 
@@ -1888,6 +1986,20 @@
  - Starred: True
 
 
+## State AGs say Fauci, Zuckerberg 'colluded' to kill COVID lab leak theory
+ - [https://www.foxnews.com/politics/state-ags-fauci-zuckerberg-colluded-kill-covid-lab-leak-theory](https://www.foxnews.com/politics/state-ags-fauci-zuckerberg-colluded-kill-covid-lab-leak-theory)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-10-24 21:19:21+00:00
+ - Starred: True
+
+
+## END of Human PROGRESS is NOW
+ - [https://www.youtube.com/watch?v=zum672SQX8Q](https://www.youtube.com/watch?v=zum672SQX8Q)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg
+ - date published: 2022-10-24 21:00:10+00:00
+ - Starred: True
+
+
 ## Chinese spies allegedly tried to obstruct Huawei investigation
  - [https://www.theverge.com/2022/10/24/23421405/hauwei-justice-department-garland-chinese-spies](https://www.theverge.com/2022/10/24/23421405/hauwei-justice-department-garland-chinese-spies)
  - RSS feed: https://www.theverge.com/rss/index.xml
@@ -2158,6 +2270,13 @@
  - [https://www.reddit.com/r/politics/comments/yarucd/biden_just_clobbered_chinas_chip_industry/](https://www.reddit.com/r/politics/comments/yarucd/biden_just_clobbered_chinas_chip_industry/)
  - RSS feed: http://www.reddit.com/r/politics/.rss
  - date published: 2022-10-22 16:18:45+00:00
+ - Starred: True
+
+
+## We Own Nothing In The Digital Age - We're Letting It Happen
+ - [https://youtu.be/XmkFoPV5DCg](https://youtu.be/XmkFoPV5DCg)
+ - RSS feed: https://youtu.be/XmkFoPV5DCg
+ - date published: 2022-10-22 15:54:10+00:00
  - Starred: True
 
 
@@ -2546,6 +2665,13 @@
  - Starred: True
 
 
+## Fauci now says school closures during the pandemic have had 'deleterious collateral consequences'
+ - [https://www.dailymail.co.uk/news/article-11324415/Fauci-says-school-closures-pandemic-deleterious-collateral-consequences.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11324415/Fauci-says-school-closures-pandemic-deleterious-collateral-consequences.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-10-17 18:29:12+00:00
+ - Starred: True
+
+
 ## Two thirds of voters say crime is up and blame 'woke politicians' for the rise
  - [https://www.dailymail.co.uk/news/article-11323883/Two-thirds-voters-say-crime-blame-woke-politicians-rise.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11323883/Two-thirds-voters-say-crime-blame-woke-politicians-rise.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
@@ -2725,6 +2851,13 @@
  - [https://www.pcgamer.com/the-internet-is-mocking-meta-for-announcing-its-probably-most-requested-feature-legs](https://www.pcgamer.com/the-internet-is-mocking-meta-for-announcing-its-probably-most-requested-feature-legs)
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-12 11:16:36+00:00
+ - Starred: True
+
+
+## The next time Wikipedia asks for a donation, ignore it
+ - [https://unherd.com/thepost/the-next-time-wikipedia-asks-for-a-donation-ignore-it/](https://unherd.com/thepost/the-next-time-wikipedia-asks-for-a-donation-ignore-it/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-10-12 09:02:29+00:00
  - Starred: True
 
 
@@ -6844,6 +6977,13 @@
  - Starred: True
 
 
+## The Huawei Backdoor Conspiracy
+ - [https://www.youtube.com/watch?v=z7luwhj9a2w](https://www.youtube.com/watch?v=z7luwhj9a2w)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCjr2bPAyPV7t35MvcgT3W8Q
+ - date published: 2022-08-30 17:39:24+00:00
+ - Starred: True
+
+
 ## Facebook agrees to settle class action lawsuit related to Cambridge Analytica data breach
  - [https://www.csoonline.com/article/3671333/facebook-agrees-to-settle-class-action-lawsuit-related-to-cambridge-analytica-data-breach.html#tk.rss_all](https://www.csoonline.com/article/3671333/facebook-agrees-to-settle-class-action-lawsuit-related-to-cambridge-analytica-data-breach.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
@@ -7019,6 +7159,13 @@
  - Starred: True
 
 
+## Become Untraceable - How To Create An Anonymous Identity | Tutorial
+ - [https://www.youtube.com/watch?v=G_QsQp7DyjE](https://www.youtube.com/watch?v=G_QsQp7DyjE)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCjr2bPAyPV7t35MvcgT3W8Q
+ - date published: 2022-08-13 15:12:14+00:00
+ - Starred: True
+
+
 ## Oswajanie z cyfrowym pieniądzem
  - [https://dorzeczy.pl/opinie/332758/pospieszalski-oswajanie.html](https://dorzeczy.pl/opinie/332758/pospieszalski-oswajanie.html)
  - RSS feed: dorzeczy.pl
@@ -7068,6 +7215,13 @@
  - Starred: True
 
 
+## My Phone Is Anonymous Now
+ - [https://www.youtube.com/watch?v=8FDIef7tVFg](https://www.youtube.com/watch?v=8FDIef7tVFg)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCjr2bPAyPV7t35MvcgT3W8Q
+ - date published: 2022-06-06 11:20:38+00:00
+ - Starred: True
+
+
 ## FDA Dumps More Pfizer Documents: Why Were So Many Adverse Events Reported as ‘Unrelated’ to Vaccine?
  - [https://www.citizensjournal.us/fda-dumps-more-pfizer-documents-why-were-so-many-adverse-events-reported-as-unrelated-to-vaccine/](https://www.citizensjournal.us/fda-dumps-more-pfizer-documents-why-were-so-many-adverse-events-reported-as-unrelated-to-vaccine/)
  - RSS feed: www.citizensjournal.us
@@ -7079,6 +7233,20 @@
  - [https://wiadomosci.wp.pl/dodatki-covidowe-czyli-gorka-pieniedzy-na-ktora-nikt-nie-patrzyl-6770982795336672a](https://wiadomosci.wp.pl/dodatki-covidowe-czyli-gorka-pieniedzy-na-ktora-nikt-nie-patrzyl-6770982795336672a)
  - RSS feed: wiadomosci.wp.pl
  - date published: 2022-05-20 07:01:17+00:00
+ - Starred: True
+
+
+## The Splinternet | This Is How The Internet Dies
+ - [https://www.youtube.com/watch?v=D6QwK9EpN5M](https://www.youtube.com/watch?v=D6QwK9EpN5M)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCjr2bPAyPV7t35MvcgT3W8Q
+ - date published: 2022-05-13 10:48:15+00:00
+ - Starred: True
+
+
+## How Companies Lie To You About End-to-End Encryption
+ - [https://www.youtube.com/watch?v=Ht56t_UMwsc](https://www.youtube.com/watch?v=Ht56t_UMwsc)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCjr2bPAyPV7t35MvcgT3W8Q
+ - date published: 2022-04-26 12:15:06+00:00
  - Starred: True
 
 
