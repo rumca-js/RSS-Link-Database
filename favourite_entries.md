@@ -1,3 +1,24 @@
+## FBI is 'extremely concerned' about China's influence through TikTok on U.S. users
+ - [https://www.cnbc.com/2022/11/15/fbi-is-extremely-concerned-about-chinas-influence-through-tiktok.html](https://www.cnbc.com/2022/11/15/fbi-is-extremely-concerned-about-chinas-influence-through-tiktok.html)
+ - RSS feed: https://www.cnbc.com
+ - date published: 2022-11-16 15:32:28+00:00
+ - Starred: True
+
+
+## 82% of Open-Source Projects Suffer from Tool Rot
+ - [https://blog.trunk.io/82-of-open-source-projects-suffer-from-tool-rot-e766bdf449a2](https://blog.trunk.io/82-of-open-source-projects-suffer-from-tool-rot-e766bdf449a2)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-11-16 15:29:11+00:00
+ - Starred: True
+
+
+## Even a global recession may not crush inflation
+ - [https://www.economist.com/finance-and-economics/2022/11/15/even-a-global-recession-may-not-crush-inflation](https://www.economist.com/finance-and-economics/2022/11/15/even-a-global-recession-may-not-crush-inflation)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-11-16 13:05:11+00:00
+ - Starred: True
+
+
 ## Universities courses from computing to classics are told to 'decolonise' by degrees watchdog
  - [https://www.dailymail.co.uk/news/article-11431449/Universities-courses-computing-classics-told-decolonise-degrees-watchdog.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11431449/Universities-courses-computing-classics-told-decolonise-degrees-watchdog.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
@@ -72,6 +93,13 @@
  - [https://www.forbes.com/sites/brianbushard/2022/11/14/amazon-reportedly-plans-to-cut-10000-jobs-here-are-the-biggest-us-layoffs-this-year/](https://www.forbes.com/sites/brianbushard/2022/11/14/amazon-reportedly-plans-to-cut-10000-jobs-here-are-the-biggest-us-layoffs-this-year/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-14 16:37:51+00:00
+ - Starred: True
+
+
+## Prime Video Bribes Brazilians To Watch ‘The Lord Of The Rings: The Rings Of Power’ With Food Delivery Service Coupon
+ - [https://boundingintocomics.com/2022/11/14/prime-video-bribes-brazilians-to-watch-the-lord-of-the-rings-the-rings-of-power-with-food-delivery-service-coupon/](https://boundingintocomics.com/2022/11/14/prime-video-bribes-brazilians-to-watch-the-lord-of-the-rings-the-rings-of-power-with-food-delivery-service-coupon/)
+ - RSS feed: https://boundingintocomics.com
+ - date published: 2022-11-14 15:22:51+00:00
  - Starred: True
 
 
