@@ -1,3 +1,10 @@
+## The Metaverse Is NOT Collapsing. Here's Why.
+ - [https://youtu.be/HDBQSn-h4Z8](https://youtu.be/HDBQSn-h4Z8)
+ - RSS feed: https://www.youtube.com/c/Moon-Real
+ - date published: 2022-11-17 15:32:25+00:00
+ - Starred: True
+
+
 ## FBI is 'extremely concerned' about China's influence through TikTok on U.S. users
  - [https://www.cnbc.com/2022/11/15/fbi-is-extremely-concerned-about-chinas-influence-through-tiktok.html](https://www.cnbc.com/2022/11/15/fbi-is-extremely-concerned-about-chinas-influence-through-tiktok.html)
  - RSS feed: https://www.cnbc.com
