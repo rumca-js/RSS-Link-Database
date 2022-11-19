@@ -1,3 +1,31 @@
+## Is TikTok Really A National Security Threat?
+ - [https://www.forbes.com/sites/petersuciu/2022/11/18/is-tiktok-really-a-national-security-threat/](https://www.forbes.com/sites/petersuciu/2022/11/18/is-tiktok-really-a-national-security-threat/)
+ - RSS feed: https://www.forbes.com/innovation/feed2
+ - date published: 2022-11-18 18:49:17+00:00
+ - Starred: True
+
+
+## Forget the Metaverse, Zuck Says WhatsApp Could Be the Real Money Machine
+ - [https://gizmodo.com/meta-facebook-metaverse-whatsapp-mark-zuckerberg-1849801017](https://gizmodo.com/meta-facebook-metaverse-whatsapp-mark-zuckerberg-1849801017)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-11-18 16:00:00+00:00
+ - Starred: True
+
+
+## ‘Positively dystopian’: judge blocks key parts of Florida’s ‘Stop-Woke’ law
+ - [https://www.theguardian.com/us-news/2022/nov/18/judge-florida-ron-desantis-stop-woke-law](https://www.theguardian.com/us-news/2022/nov/18/judge-florida-ron-desantis-stop-woke-law)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-11-18 15:12:55+00:00
+ - Starred: True
+
+
+## Members fear Society of Authors has been 'lost' to cancel culture amid JK Rowling row
+ - [https://www.dailymail.co.uk/news/article-11443527/Members-fear-Society-Authors-lost-cancel-culture-amid-JK-Rowling-row.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11443527/Members-fear-Society-Authors-lost-cancel-culture-amid-JK-Rowling-row.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-11-18 14:37:20+00:00
+ - Starred: True
+
+
 ## The Metaverse Is NOT Collapsing. Here's Why.
  - [https://youtu.be/HDBQSn-h4Z8](https://youtu.be/HDBQSn-h4Z8)
  - RSS feed: https://www.youtube.com/c/Moon-Real
