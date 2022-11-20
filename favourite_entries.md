@@ -33,6 +33,13 @@
  - Starred: True
 
 
+## LibreOffice blogs about Blockchain, locks comments after negative user feedback
+ - [https://blog.documentfoundation.org/blog/2022/11/15/libreoffice-and-blockchain-what-cool-things-are-possible/](https://blog.documentfoundation.org/blog/2022/11/15/libreoffice-and-blockchain-what-cool-things-are-possible/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-11-17 10:36:55+00:00
+ - Starred: True
+
+
 ## FBI is 'extremely concerned' about China's influence through TikTok on U.S. users
  - [https://www.cnbc.com/2022/11/15/fbi-is-extremely-concerned-about-chinas-influence-through-tiktok.html](https://www.cnbc.com/2022/11/15/fbi-is-extremely-concerned-about-chinas-influence-through-tiktok.html)
  - RSS feed: https://www.cnbc.com
