@@ -1,3 +1,17 @@
+## Kite is saying farewell, and is open-sourcing all of its code.
+ - [https://www.kite.com/blog/product/kite-is-saying-farewell/](https://www.kite.com/blog/product/kite-is-saying-farewell/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-11-20 20:57:33+00:00
+ - Starred: True
+
+
+## 35+ Countries Are Leaving the Global Internet
+ - [https://www.youtube.com/watch?v=dprdD8j2KZw](https://www.youtube.com/watch?v=dprdD8j2KZw)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCtZO3K2p8mqFwiKWb9k7fXA
+ - date published: 2022-11-20 10:49:37+00:00
+ - Starred: True
+
+
 ## Is TikTok Really A National Security Threat?
  - [https://www.forbes.com/sites/petersuciu/2022/11/18/is-tiktok-really-a-national-security-threat/](https://www.forbes.com/sites/petersuciu/2022/11/18/is-tiktok-really-a-national-security-threat/)
  - RSS feed: https://www.forbes.com/innovation/feed2
@@ -37,6 +51,20 @@
  - [https://blog.documentfoundation.org/blog/2022/11/15/libreoffice-and-blockchain-what-cool-things-are-possible/](https://blog.documentfoundation.org/blog/2022/11/15/libreoffice-and-blockchain-what-cool-things-are-possible/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-17 10:36:55+00:00
+ - Starred: True
+
+
+## France bans Google Workspace over GDPR non-compliance
+ - [https://siecledigital.fr/2022/11/17/le-ministre-de-leducation-nationale-ne-veut-pas-de-microsoft-office-365-ni-de-google-workspace/](https://siecledigital.fr/2022/11/17/le-ministre-de-leducation-nationale-ne-veut-pas-de-microsoft-office-365-ni-de-google-workspace/)
+ - RSS feed: https://siecledigital.fr
+ - date published: 2022-11-17 08:56:26+00:00
+ - Starred: True
+
+
+## Democrat pushes legislation to ban Trump from ever holding office
+ - [https://www.dailymail.co.uk/news/article-11436517/Democrat-pushes-legislation-ban-Trump-holding-office.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11436517/Democrat-pushes-legislation-ban-Trump-holding-office.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-11-16 21:32:12+00:00
  - Starred: True
 
 
@@ -1510,6 +1538,13 @@
  - Starred: True
 
 
+## CatholicVote dumps $2 million into blocking Catholic Dems from office: 'Clearing out the trash'
+ - [https://www.foxnews.com/politics/catholicvote-dumps-2-million-blocking-catholic-dems-office-clearing-trash](https://www.foxnews.com/politics/catholicvote-dumps-2-million-blocking-catholic-dems-office-clearing-trash)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-10-27 17:24:25+00:00
+ - Starred: True
+
+
 ## Followers of QAnon Satanic pedophile elite theory JUMPED 5% this year to 49 million
  - [https://www.dailymail.co.uk/news/article-11361297/Followers-QAnon-Satanic-pedophile-elite-theory-JUMPED-5-year-49-million.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11361297/Followers-QAnon-Satanic-pedophile-elite-theory-JUMPED-5-year-49-million.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
@@ -2284,6 +2319,13 @@
  - [https://www.theverge.com/2022/10/23/23418928/facebook-warns-block-news-canada-legislation-meta](https://www.theverge.com/2022/10/23/23418928/facebook-warns-block-news-canada-legislation-meta)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-23 16:12:32+00:00
+ - Starred: True
+
+
+## China Could Invade Taiwan Within The Next Year, Top U.S. Navy Officer Warns
+ - [https://www.dailywire.com/news/china-could-invade-taiwan-within-the-next-year-u-s-navy-chief-warns](https://www.dailywire.com/news/china-could-invade-taiwan-within-the-next-year-u-s-navy-chief-warns)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-10-23 14:13:26+00:00
  - Starred: True
 
 
@@ -7261,6 +7303,13 @@
  - [https://mspoweruser.com/report-google-is-spying-on-competing-apps-on-android-to-give-its-own-services-a-boost](https://mspoweruser.com/report-google-is-spying-on-competing-apps-on-android-to-give-its-own-services-a-boost)
  - RSS feed: mspoweruser.com
  - date published: 2022-07-24 12:04:49+00:00
+ - Starred: True
+
+
+## Denmark bans Google Workspace over GDPR non-compliance
+ - [https://techmonitor.ai/policy/privacy-and-data-protection/denmark-google-ban-workspace-chromebook-gdpr](https://techmonitor.ai/policy/privacy-and-data-protection/denmark-google-ban-workspace-chromebook-gdpr)
+ - RSS feed: https://techmonitor.ai
+ - date published: 2022-07-18 08:54:28+00:00
  - Starred: True
 
 
