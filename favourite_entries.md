@@ -1,7 +1,35 @@
+## Elon Musk reveals why he will never let Alex Jones back on Twitter
+ - [https://www.dailymail.co.uk/news/article-11451899/Elon-Musk-reveals-never-let-Alex-Jones-Twitter.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11451899/Elon-Musk-reveals-never-let-Alex-Jones-Twitter.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-11-21 09:28:40+00:00
+ - Starred: True
+
+
+## FCC to require ISPs to display broadband “nutrition label”
+ - [https://www.codeproject.com/script/News/View.aspx?nwid=59559](https://www.codeproject.com/script/News/View.aspx?nwid=59559)
+ - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
+ - date published: 2022-11-21 05:00:00+00:00
+ - Starred: True
+
+
 ## Kite is saying farewell, and is open-sourcing all of its code.
  - [https://www.kite.com/blog/product/kite-is-saying-farewell/](https://www.kite.com/blog/product/kite-is-saying-farewell/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-20 20:57:33+00:00
+ - Starred: True
+
+
+## Elon Musk calls The New York Times 'boring': 'Far left brainwashing at this point'
+ - [https://www.foxnews.com/media/elon-musk-calls-new-york-times-boring-far-left-brainwashing-at-this-point](https://www.foxnews.com/media/elon-musk-calls-new-york-times-boring-far-left-brainwashing-at-this-point)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-11-20 19:33:47+00:00
+ - Starred: True
+
+
+## Elon Musk Reinstated Donald Trump On Twitter. Now The Real Drama Begins
+ - [https://www.forbes.com/sites/johnbbrandon/2022/11/20/elon-musk-reinstated-donald-trump-on-twitter-now-the-real-drama-begins/](https://www.forbes.com/sites/johnbbrandon/2022/11/20/elon-musk-reinstated-donald-trump-on-twitter-now-the-real-drama-begins/)
+ - RSS feed: https://www.forbes.com/innovation/feed2
+ - date published: 2022-11-20 15:48:31+00:00
  - Starred: True
 
 
@@ -128,6 +156,13 @@
  - [https://www.dailymail.co.uk/news/article-11427819/Republican-states-treasonous-woke-green-firms.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11427819/Republican-states-treasonous-woke-green-firms.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-15 12:59:43+00:00
+ - Starred: True
+
+
+## China zero Covid: Violent protests in Guangzhou put curbs under strain
+ - [https://www.bbc.co.uk/news/world-asia-china-63633109?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-china-63633109?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-11-15 09:48:37+00:00
  - Starred: True
 
 
@@ -7334,6 +7369,13 @@
  - Starred: True
 
 
+## Elon Musk asks why DOJ hasn’t leaked Jeffrey Epstein’s client list
+ - [https://nypost.com/2022/06/06/elon-musk-asks-why-doj-hasnt-leaked-jeffrey-epsteins-client-list/](https://nypost.com/2022/06/06/elon-musk-asks-why-doj-hasnt-leaked-jeffrey-epsteins-client-list/)
+ - RSS feed: https://nypost.com
+ - date published: 2022-06-06 13:53:44+00:00
+ - Starred: True
+
+
 ## My Phone Is Anonymous Now
  - [https://www.youtube.com/watch?v=8FDIef7tVFg](https://www.youtube.com/watch?v=8FDIef7tVFg)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCjr2bPAyPV7t35MvcgT3W8Q
@@ -8311,6 +8353,13 @@
  - [https://www.digitalinformationworld.com/2019/08/contractors-hear-private-recordings-apple-siri.html](https://www.digitalinformationworld.com/2019/08/contractors-hear-private-recordings-apple-siri.html)
  - RSS feed: www.digitalinformationworld.com
  - date published: 2019-08-24 12:04:50+00:00
+ - Starred: True
+
+
+## A HIDDEN LIFE - official trailer for Franz Jägerstätter
+ - [https://www.youtube.com/watch?v=qJXmdY4lVR0](https://www.youtube.com/watch?v=qJXmdY4lVR0)
+ - RSS feed: https://www.youtube.com/@searchlightpictures
+ - date published: 2019-08-13 10:18:41+00:00
  - Starred: True
 
 
