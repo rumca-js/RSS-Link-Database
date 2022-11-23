@@ -1,3 +1,45 @@
+## Scary! CCP is to impose a communal lifestyle. A planned economy is about to go full swing
+ - [https://www.youtube.com/watch?v=0KY29wZD1mg](https://www.youtube.com/watch?v=0KY29wZD1mg)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug
+ - date published: 2022-11-22 18:45:10+00:00
+ - Starred: True
+
+
+## Quentin Tarantino blasts Marvel actors: 'They're not movie stars'
+ - [https://www.dailymail.co.uk/news/article-11455653/Quentin-Tarantino-says-Marvel-actors-arent-movie-stars-bemoans-Marvel-ization-cinema.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11455653/Quentin-Tarantino-says-Marvel-actors-arent-movie-stars-bemoans-Marvel-ization-cinema.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-11-22 12:51:59+00:00
+ - Starred: True
+
+
+## Korzystali ze smartfona, prowadząc auto. Policyjnym dronom to nie umknęło
+ - [https://tvn24.pl/tvnwarszawa/najnowsze/piaseczno-drony-z-zoomem-widza-kierowcow-korzystajacych-ze-smarfonow-6231255?source=rss](https://tvn24.pl/tvnwarszawa/najnowsze/piaseczno-drony-z-zoomem-widza-kierowcow-korzystajacych-ze-smarfonow-6231255?source=rss)
+ - RSS feed: https://tvn24.pl/najnowsze.xml
+ - date published: 2022-11-22 12:03:18+00:00
+ - Starred: True
+
+
+## Mycroft – open source voice assistant
+ - [https://mycroft.ai/](https://mycroft.ai/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-11-22 09:54:38+00:00
+ - Starred: True
+
+
+## Hollywood elites crack down on Candace Cameron Bure, Elon Musk, Dave Chappelle, all in name of 'tolerance'
+ - [https://www.foxnews.com/opinion/hollywood-elites-crack-down-on-candace-cameron-bure-elon-musk-dave-chappelle-tolerance](https://www.foxnews.com/opinion/hollywood-elites-crack-down-on-candace-cameron-bure-elon-musk-dave-chappelle-tolerance)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-11-22 07:00:11+00:00
+ - Starred: True
+
+
+## Disney properties pushed progressive rhetoric at every turn, from spat with DeSantis to 'The View'
+ - [https://www.foxnews.com/media/disney-properties-pushed-progressive-rhetoric-every-turn-spat-desantis-view](https://www.foxnews.com/media/disney-properties-pushed-progressive-rhetoric-every-turn-spat-desantis-view)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-11-22 07:00:00+00:00
+ - Starred: True
+
+
 ## Elon Musk reveals why he will never let Alex Jones back on Twitter
  - [https://www.dailymail.co.uk/news/article-11451899/Elon-Musk-reveals-never-let-Alex-Jones-Twitter.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11451899/Elon-Musk-reveals-never-let-Alex-Jones-Twitter.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
