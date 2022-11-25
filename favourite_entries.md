@@ -1,3 +1,17 @@
+## The biggest threat to our financial freedom - CBDC
+ - [https://youtu.be/P20tDdxy_yc](https://youtu.be/P20tDdxy_yc)
+ - RSS feed: https://www.youtube.com/@SorelleAmoreFinance
+ - date published: 2022-11-24 16:05:10+00:00
+ - Persistent: True
+
+
+## Videolan: Google refuses to take down or unlist domains with tons of malware
+ - [https://twitter.com/videolan/status/1595524698351230981](https://twitter.com/videolan/status/1595524698351230981)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-11-24 05:09:28+00:00
+ - Persistent: True
+
+
 ## Scary! CCP is to impose a communal lifestyle. A planned economy is about to go full swing
  - [https://www.youtube.com/watch?v=0KY29wZD1mg](https://www.youtube.com/watch?v=0KY29wZD1mg)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug
