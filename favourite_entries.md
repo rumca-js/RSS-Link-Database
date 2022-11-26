@@ -1,3 +1,24 @@
+## Chińskie kamery zakazane w USA i Wielkiej Brytanii. Są zamontowane w pięciu polskich ministerstwach
+ - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29182047,chinskie-kamery-zakazane-w-usa-i-wielkiej-brytanii-sa-zamontowane.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29182047,chinskie-kamery-zakazane-w-usa-i-wielkiej-brytanii-sa-zamontowane.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
+ - RSS feed: http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm
+ - date published: 2022-11-25 10:17:00+00:00
+ - Persistent: True
+
+
+## China's Xinjiang Region Has Been Locked Down for Months, Casting Shadow Over Zero-Covid Easing
+ - [https://www.wsj.com/articles/chinas-xinjiang-region-has-been-locked-down-for-months-casting-shadow-over-zero-covid-easing-11669371218](https://www.wsj.com/articles/chinas-xinjiang-region-has-been-locked-down-for-months-casting-shadow-over-zero-covid-easing-11669371218)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2022-11-25 10:13:00+00:00
+ - Persistent: True
+
+
+## Intel officially introduces pay-as-you-go chip licensing
+ - [https://www.codeproject.com/script/News/View.aspx?nwid=59628](https://www.codeproject.com/script/News/View.aspx?nwid=59628)
+ - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
+ - date published: 2022-11-25 05:00:00+00:00
+ - Persistent: True
+
+
 ## The biggest threat to our financial freedom - CBDC
  - [https://youtu.be/P20tDdxy_yc](https://youtu.be/P20tDdxy_yc)
  - RSS feed: https://www.youtube.com/@SorelleAmoreFinance

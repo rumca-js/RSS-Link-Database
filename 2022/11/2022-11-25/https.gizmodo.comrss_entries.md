@@ -1,0 +1,143 @@
+## Star Wars: The Clone Wars: The Movie: The Retro Review
+ - [https://gizmodo.com/star-wars-clone-wars-movie-io9-review-retro-1849822103](https://gizmodo.com/star-wars-clone-wars-movie-io9-review-retro-1849822103)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-11-25 22:30:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--lzANt3XS--/c_fit,fl_progressive,q_80,w_636/561e0f2085cf04dd88ff941f9e11a8e0.jpg" /><p>So much has happened to the <a href="https://gizmodo.com/io9/movies/star-wars"><em>Star Wars</em></a> franchise in the last 14 years that it can be difficult to remember that the new canon actually began with Dave Filoni’s <a href="https://gizmodo.com/the-essential-clone-wars-stories-every-star-wars-fan-sh-1842597580"><em>Clone Wars</em></a><em> </em>cartoon. It was retroactively added into Disney’s new <em>Star Wars</em> stories by virtue of being a pretty good show helmed by the guy who would eventually…</p><p><a href="https://gizmodo.com/star-wars-clone-wars-movie-io9-review-retro-1849822103">Read more...</a></p>
+
+## Nina West on the Importance of Kindness and Embracing Being a Fantastical Fan
+ - [https://gizmodo.com/nina-west-drag-star-disney-pride-icon-new-kids-book-1849817738](https://gizmodo.com/nina-west-drag-star-disney-pride-icon-new-kids-book-1849817738)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-11-25 21:00:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--0clbu8ve--/c_fit,fl_progressive,q_80,w_636/e0f015ac421de6aa370e2cfbbaf3cd5d.jpg" /><p>Being a multi-hyphenate performer is something Nina West knows well. Winning Miss Congeniality on <em>Ru Paul’s Drag Race </em>season 11, partnering with Dolly Parton on a kindness campaign, making music for kids, acting opposite Daniel Radcliffe in <a href="https://gizmodo.com/weird-al-yankovic-movie-daniel-radcliffe-nycc-2022-1849636852"><em>Weird: The Al Yankovic Story</em></a><em>, </em>becoming the LGBTQ face of <a href="https://gizmodo.com/disney-dont-say-gay-howard-ashman-lgbtq-1848619996">Disney’s Pride</a>…</p><p><a href="https://gizmodo.com/nina-west-drag-star-disney-pride-icon-new-kids-book-1849817738">Read more...</a></p>
+
+## Watch as NASA Attempts to Maneuver Orion Into Its Target Orbit Around the Moon
+ - [https://gizmodo.com/nasa-place-orion-target-orbit-moon-1849822327](https://gizmodo.com/nasa-place-orion-target-orbit-moon-1849822327)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-11-25 20:00:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--5BYQhZXm--/c_fit,fl_progressive,q_80,w_636/22773d9eb3f00d85a8c79d004d816aa3.jpg" /><p>Today’s the day that the uncrewed Orion capsule reaches its ultimate destination, a distant retrograde orbit around the Moon. For that to happen, however, the spacecraft must successfully execute a trajectory correction burn, which you can watch live right here.<br /></p><p><a href="https://gizmodo.com/nasa-place-orion-target-orbit-moon-1849822327">Read more...</a></p>
+
+## Transformers: Earthspark Twists the Franchise In a Great Way
+ - [https://gizmodo.com/transformers-earthspark-megatron-continuity-paramount-1849814396](https://gizmodo.com/transformers-earthspark-megatron-continuity-paramount-1849814396)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-11-25 19:30:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--U_vJBycb--/c_fit,fl_progressive,q_80,w_636/758e97e4b68787e23fab08f64445fae3.png" /><p>The new <em>Transformers</em> animated series, <a href="https://gizmodo.com/comic-con-trailer-marvel-dc-wakanda-hulk-dungeons-groot-1849327100"><em>Earthspark</em></a>, is doing a lot of things that might make dyed-in-the-wool fans wary at first. It’s <a href="https://gizmodo.com/a-new-transformers-show-about-found-family-is-coming-to-1846354292">a family show</a>, in that its primary focus is on its robotic heroes as they sit hand-in-hand with two young kids and their parents. It’s also not about Autobot/Decepticon conflict, in so…</p><p><a href="https://gizmodo.com/transformers-earthspark-megatron-continuity-paramount-1849814396">Read more...</a></p>
+
+## Brilliant Self-Stacking Lego Domino Machine Is Perpetually Mesmerizing
+ - [https://gizmodo.com/brilliant-self-stacking-lego-domino-machine-is-perpetua-1849820984](https://gizmodo.com/brilliant-self-stacking-lego-domino-machine-is-perpetua-1849820984)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-11-25 18:30:00+00:00
+ - Starred: False
+
+<video loop="" poster="https://i.kinja-img.com/gawker-media/image/upload/s--O53ufkDq--/c_fit,fl_progressive,q_80,w_636/bcc29537461212d41c55147a3f4d8585.jpg"><source src="https://i.kinja-img.com/gawker-media/image/upload/s--tp4Bu4Jf--/c_fit,fl_progressive,q_80,w_636/bcc29537461212d41c55147a3f4d8585.mp4" type="video/mp4" /></video><p>Although it’s a game that can trace its origins back over 700 years, most people know Dominoes as a fun chain reaction toy that’s actually only fun when it comes to knocking them down, not the stressful process of stacking them up. With that in mind, <a href="https://www.youtube.com/@GrantDavis" rel="noopener noreferrer" target="_blank">Grant Davis</a> built a <a href="https://www.youtube.com/watch?v=NkP6TM1Fptc" rel="noopener noreferrer" target="_blank">self-stacking and self-toppling domino machine</a>…</p><p><a href="https://gizmodo.com/brilliant-self-stacking-lego-domino-machine-is-perpetua-1849820984">Read more...</a></p>
+
+## DROP's Gorgeous Lord of the Rings Keyboard Broke My Elvish-Loving Brain
+ - [https://gizmodo.com/lord-of-the-rings-mechanical-keyboard-drop-1849801723](https://gizmodo.com/lord-of-the-rings-mechanical-keyboard-drop-1849801723)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-11-25 18:00:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--2ylOPLZ9--/c_fit,fl_progressive,q_80,w_636/b502d867fc1aca23ef8de9381e49b088.png" /><p>When I first received my <a href="https://drop.com/featured/lotr" rel="noopener noreferrer" target="_blank">DROP x <em>Lord of the Rings</em></a> keyboard, it was one of those packages that you come home to after a trip: a delightful surprise, and one I had been looking forward to since I had first agreed to write a review of the new <a href="https://gizmodo.com/lord-of-the-rings-keycaps-dwarvish-elvish-one-ring-1849425911"><em>Lord of the Rings</em> special edition</a>. I debated between the <a href="https://drop.com/buy/drop-the-lord-of-the-rings-elvish-keyboard" rel="noopener noreferrer" target="_blank">Elvish</a> and the <a href="https://gizmodo.com/lord-of-the-rings-rings-of-power-explained-1848387578">Dwarvish</a></p><p><a href="https://gizmodo.com/lord-of-the-rings-mechanical-keyboard-drop-1849801723">Read more...</a></p>
+
+## Spacesuit Malfunction Forces Cancelation of ISS Spacewalk
+ - [https://gizmodo.com/spacesuit-malfunction-cancelation-iss-spacewalk-1849821915](https://gizmodo.com/spacesuit-malfunction-cancelation-iss-spacewalk-1849821915)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-11-25 17:00:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--e2l7o74z--/c_fit,fl_progressive,q_80,w_636/036c4bea9bd70396f16e4b21e283ad65.jpg" /><p>Roscosmos cosmonauts Sergey Prokopyev and Dmitri Petelin were unable to perform a scheduled maintenance task outside the ISS today due to a malfunctioning coolant system on a Russian-built Orlan spacesuit.<br /></p><p><a href="https://gizmodo.com/spacesuit-malfunction-cancelation-iss-spacewalk-1849821915">Read more...</a></p>
+
+## 'This is the Best Film I’ve Seen in My Life'
+ - [https://gizmodo.com/this-is-the-best-film-i-ve-seen-in-my-life-1849811980](https://gizmodo.com/this-is-the-best-film-i-ve-seen-in-my-life-1849811980)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-11-25 16:30:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--UjMOUISj--/c_fit,fl_progressive,q_80,w_636/e7e4c09e21c50cfe8b14604b14f4903a.jpg" /><p><a href="https://gizmodo.com/this-is-the-best-film-i-ve-seen-in-my-life-1849811980">Read more...</a></p>
+
+## Hubble Telescope Observes Surreal Galactic Collision
+ - [https://gizmodo.com/hubble-telescope-unusual-galactic-collision-1849821782](https://gizmodo.com/hubble-telescope-unusual-galactic-collision-1849821782)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-11-25 16:00:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--pzx5pGQ1--/c_fit,fl_progressive,q_80,w_636/283c1cc117f6334414e8b72edae6af4c.jpg" /><p>The James Webb Space Telescope has been getting <a href="https://gizmodo.com/webb-telescope-protostar-l1527-nasa-1849790781">all the attention</a> these days, but Hubble, in space since 1990, continues to make stunning astronomical observations.<br /></p><p><a href="https://gizmodo.com/hubble-telescope-unusual-galactic-collision-1849821782">Read more...</a></p>
+
+## 8BitDo Turned the Classic NES Gamepad Into a Wireless Charger
+ - [https://gizmodo.com/8bitdo-turned-the-classic-nes-gamepad-into-a-wireless-c-1849821072](https://gizmodo.com/8bitdo-turned-the-classic-nes-gamepad-into-a-wireless-c-1849821072)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-11-25 15:30:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--J_CejaVK--/c_fit,fl_progressive,q_80,w_636/eca3b13876cdb6516990d799fe54d385.jpg" /><p>The original Nintendo Entertainment System’s bundled controller is burned into the memories of millions of gamers for its unergonomic boxy corners that dug into your hands and made long gaming sessions a real test of endurance. It’s remembered fondly, but only missed for nostalgic reasons, so <a href="https://www.8bitdo.com/n30-wireless-charger-for-mobile/" rel="noopener noreferrer" target="_blank">8BitDO turned it into a…</a></p><p><a href="https://gizmodo.com/8bitdo-turned-the-classic-nes-gamepad-into-a-wireless-c-1849821072">Read more...</a></p>
+
+## Chris Hemsworth Discusses What It Would Take For Him to Return as Thor
+ - [https://gizmodo.com/chris-hemsworth-thor-5-taika-waititi-marvel-1849806580](https://gizmodo.com/chris-hemsworth-thor-5-taika-waititi-marvel-1849806580)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-11-25 15:15:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--wLsZkjuY--/c_fit,fl_progressive,q_80,w_636/6bbd1acbee2f956156a95cea2899cb5f.png" /><p>Chad Stahleski talks about the influences on <em>John Wick 4</em>. Get a new look at HBO’s <em>The Last of Us</em>. Plus, a look at what’s coming in <em>Doom Patrol</em>’s fourth season, and new pictures from the <em>Guardians of the Galaxy Holiday Special</em>. Spoilers, now!<br /></p><p><a href="https://gizmodo.com/chris-hemsworth-thor-5-taika-waititi-marvel-1849806580">Read more...</a></p>
+
+## Shipping Emissions Are Black Friday’s Dirty Secret
+ - [https://gizmodo.com/black-friday-s-shipping-emissions-are-out-of-control-1849818190](https://gizmodo.com/black-friday-s-shipping-emissions-are-out-of-control-1849818190)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-11-25 15:00:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--d_zQUSyE--/c_fit,fl_progressive,q_80,w_636/e216abf52983f9a4e793b97585a2cd99.jpg" /><p>It may be tempting to load up on online shopping deals this Black Friday—but before you order a whole new wardrobe or electronics setup, take a moment to think about the trip all those packages may take. International shipping to bring all that stuff to your door is responsible for <a href="https://www.imo.org/en/OurWork/Environment/Pages/GHG-Emissions.aspx?utm_campaign=Transportation&amp;utm_medium=email&amp;_hsmi=234775250&amp;_hsenc=p2ANqtz-8y2QuHQR7TqnQ3XUUS5HBOhTJ8EIX-aqC0zhgceol3V1P8TVAXxEoG_6WjNsbV84AMi3KwoCFM06ATR-5xXR5rBomywg&amp;utm_content=234775250&amp;utm_source=hs_email" rel="noopener noreferrer" target="_blank">almost 3%</a> of global greenhouse gas…</p><p><a href="https://gizmodo.com/black-friday-s-shipping-emissions-are-out-of-control-1849818190">Read more...</a></p>
+
+## The Onyx Boox Leaf 2 E-Reader is Like Having a Kindle and a Kobo All in One Device
+ - [https://gizmodo.com/onyx-book-leaf-2-e-reader-amazon-kindle-kobo-android-1849813642](https://gizmodo.com/onyx-book-leaf-2-e-reader-amazon-kindle-kobo-android-1849813642)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-11-25 14:10:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--uHi5-JR---/c_fit,fl_progressive,q_80,w_636/8f272281ae484888e3b8a57aa15cac51.jpg" /><p>When it comes to choosing an e-reader, for most users it comes down to which device has easy access to the books they actually want to read, and the answer is usually either the Amazon Kindle or the Rakuten Kobo. There’s now a third option, the Boox Leaf 2 from Onyx, that lets users buy books from the competition’s…</p><p><a href="https://gizmodo.com/onyx-book-leaf-2-e-reader-amazon-kindle-kobo-android-1849813642">Read more...</a></p>
+
+## 7 Obscure Government Podcasts You Never Knew Existed
+ - [https://gizmodo.com/7-podcasts-us-government-fbi-cdc-fda-social-security-1849717581](https://gizmodo.com/7-podcasts-us-government-fbi-cdc-fda-social-security-1849717581)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-11-25 14:00:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--zTMgcbYm--/c_fit,fl_progressive,q_80,w_636/920720ac73d3798e99d488e442b6837d.jpg" /><p>As a serial podcast listener, I can confirm what you all already know: Everyone has a podcast now. As we learned this year, that “everyone” <a href="https://gizmodo.com/the-cia-is-podcasting-propaganda-1849575488">includes the CIA</a>, which hopes its show, <em>The Langley Files</em>, will make you forget some of the very bad things it’s done. (The title makes it sound a lot more interesting than it…</p><p><a href="https://gizmodo.com/7-podcasts-us-government-fbi-cdc-fda-social-security-1849717581">Read more...</a></p>
+
+## At-Home Ketamine Treatments Could Be a Game-Changer—or a Big Problem
+ - [https://gizmodo.com/at-home-ketamine-treatment-depression-1849816251](https://gizmodo.com/at-home-ketamine-treatment-depression-1849816251)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-11-25 14:00:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--Ki7qNRs7--/c_fit,fl_progressive,q_80,w_636/f1f6e2bb16be4626197da572fecd9fe0.jpg" /><p>Around 2.8 million Americans <a href="https://pubmed.ncbi.nlm.nih.gov/33989464/" rel="noopener noreferrer" target="_blank">suffer</a> from treatment-resistant depression, and though research has shown that IV ketamine can significantly improve their quality of life, these ketamine treatments are expensive, and access to them is limited. Early in the covid-19 pandemic, the Drug Enforcement Agency loosened…</p><p><a href="https://gizmodo.com/at-home-ketamine-treatment-depression-1849816251">Read more...</a></p>
+
+## What Silicon Valley Gets Wrong About the Future of Transportation
+ - [https://gizmodo.com/silicon-valley-wrong-future-transportation-paris-marx-1849815463](https://gizmodo.com/silicon-valley-wrong-future-transportation-paris-marx-1849815463)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-11-25 13:40:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--wydNiPAI--/c_fit,fl_progressive,q_80,w_636/fc10dd6975a222d25b5efbfeee5ae048.png" /><p><em>This article originally appeared in <a href="https://proteanmag.com/2022/06/29/review-paris-marxs-road-to-nowhere/" rel="noopener noreferrer" target="_blank">Protean Magazine</a>, a leftist print magazine of critique, fiction, poetry, and art. </em></p><p><a href="https://gizmodo.com/silicon-valley-wrong-future-transportation-paris-marx-1849815463">Read more...</a></p>
+
+## Read a Story of Queer Love and Hope for the Future in the Apocalypse
+ - [https://gizmodo.com/lgbtq-short-fiction-climate-change-blake-montgomery-1849818363](https://gizmodo.com/lgbtq-short-fiction-climate-change-blake-montgomery-1849818363)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-11-25 01:00:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--6fngXogn--/c_fit,fl_progressive,q_80,w_636/2cef5d71d1ff2599bab434300c551742.png" /><p><em>Now for something a bit different to distract you <a href="https://gizmodo.com/preview/11-thanksgiving-lessons-bobs-burgers-taught-us-1849809081?_ga=2.243841664.465898246.1669153822-1529859857.1668562882">this Thanksgiving</a>. io9 has run short fiction before, from our collaborations with <a href="https://kinja.com/lightspeedmagazine?_ga=2.224425631.465898246.1669153822-1529859857.1668562882" rel="noopener noreferrer" target="_blank">Lightspeed Magazine</a> to excerpts from novels <a href="https://gizmodo.com/november-62-new-scifi-fantasy-books-nk-jemisin-1849625697">big and small</a>. But here’s “Post-Nihilism,” an original tale of love and hope in a near-future world ravaged by climate disaster, from Gizmodo’s</em>…</p><p><a href="https://gizmodo.com/lgbtq-short-fiction-climate-change-blake-montgomery-1849818363">Read more...</a></p>
+
+## More Spider-Man: No Way Home Funko Pops Are Swinging Your Way
+ - [https://gizmodo.com/spider-man-no-way-home-funko-pop-toy-exclusives-1849816640](https://gizmodo.com/spider-man-no-way-home-funko-pop-toy-exclusives-1849816640)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-11-25 00:00:00+00:00
+ - Starred: False
+
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--0e7xCuse--/c_fit,fl_progressive,q_80,w_636/b1d745948a0b48ef70809543bf07be94.png" /><p>It’s weird. While <a href="https://gizmodo.com/new-avatar-the-way-of-water-funko-pops-exclusive-reveal-1849740830">Funko Pops</a> are <a href="https://gizmodo.com/new-york-comic-con-funko-pop-vinyl-toy-exclusives-nycc-1849625370">ubiquitous</a>—they’re about the closest thing to real-life Tribbles, in my opinion—the company doesn’t always make them easy to track down. While a few more <a href="https://gizmodo.com/spider-man-no-way-home-is-a-brand-new-day-for-the-mcus-1848255234"><em>Spider-Man: No Way Home</em></a> Pops will be widely released next year, there’s a huge assortment of figures exclusively going to a variety…</p><p><a href="https://gizmodo.com/spider-man-no-way-home-funko-pop-toy-exclusives-1849816640">Read more...</a></p>
