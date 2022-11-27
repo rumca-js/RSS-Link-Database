@@ -1,3 +1,38 @@
+## No to Spy Pixels
+ - [https://notospypixels.com/](https://notospypixels.com/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-11-26 17:28:46+00:00
+ - Persistent: True
+
+
+## Former CEO says he considered suicide after suffering 'social terrorism' from co-workers for views
+ - [https://www.dailymail.co.uk/news/article-11472163/Former-CEO-says-considered-suicide-suffering-social-terrorism-workers-views.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11472163/Former-CEO-says-considered-suicide-suffering-social-terrorism-workers-views.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-11-26 16:20:29+00:00
+ - Persistent: True
+
+
+## WhatsApp data leak: 500M user records for sale
+ - [https://cybernews.com/news/whatsapp-data-leak/](https://cybernews.com/news/whatsapp-data-leak/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-11-26 13:41:53+00:00
+ - Persistent: True
+
+
+## Tax Filing Websites Caught Sending Users’ Financial Data to Facebook
+ - [https://www.extremetech.com/internet/341111-tax-filing-websites-caught-sending-users-financial-data-to-facebook](https://www.extremetech.com/internet/341111-tax-filing-websites-caught-sending-users-financial-data-to-facebook)
+ - RSS feed: https://www.extremetech.com
+ - date published: 2022-11-26 12:19:20+00:00
+ - Persistent: True
+
+
+## Cyfrowy paszport i rozpoznawanie twarzy. Te linie lotnicze mają plan na zmniejszenie kolejek na lotnisku
+ - [https://www.bankier.pl/wiadomosc/Cyfrowy-paszport-i-rozpoznawanie-twarzy-Te-linie-lotnicze-maja-plan-na-zmniejszenie-kolejek-na-lotnisku-8444586.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Cyfrowy-paszport-i-rozpoznawanie-twarzy-Te-linie-lotnicze-maja-plan-na-zmniejszenie-kolejek-na-lotnisku-8444586.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2022-11-26 07:00:00+00:00
+ - Persistent: True
+
+
 ## Chińskie kamery zakazane w USA i Wielkiej Brytanii. Są zamontowane w pięciu polskich ministerstwach
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29182047,chinskie-kamery-zakazane-w-usa-i-wielkiej-brytanii-sa-zamontowane.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29182047,chinskie-kamery-zakazane-w-usa-i-wielkiej-brytanii-sa-zamontowane.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
  - RSS feed: http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm
@@ -166,6 +201,13 @@
  - Persistent: True
 
 
+## G20 Promotes WHO-Standardized Global Vaccine Passport and ‘Digital Health’ Identity Scheme
+ - [https://www.theepochtimes.com/g-20-promotes-who-standardized-global-vaccine-passport-and-digital-health-identity-scheme_4869188.html](https://www.theepochtimes.com/g-20-promotes-who-standardized-global-vaccine-passport-and-digital-health-identity-scheme_4869188.html)
+ - RSS feed: https://www.theepochtimes.com/c-tech/feed/
+ - date published: 2022-11-17 13:06:53+00:00
+ - Persistent: True
+
+
 ## LibreOffice blogs about Blockchain, locks comments after negative user feedback
  - [https://blog.documentfoundation.org/blog/2022/11/15/libreoffice-and-blockchain-what-cool-things-are-possible/](https://blog.documentfoundation.org/blog/2022/11/15/libreoffice-and-blockchain-what-cool-things-are-possible/)
  - RSS feed: https://hnrss.org/frontpage
@@ -205,6 +247,13 @@
  - [https://www.economist.com/finance-and-economics/2022/11/15/even-a-global-recession-may-not-crush-inflation](https://www.economist.com/finance-and-economics/2022/11/15/even-a-global-recession-may-not-crush-inflation)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-16 13:05:11+00:00
+ - Persistent: True
+
+
+## Digital Books wear out faster than Physical Books
+ - [http://blog.archive.org/2022/11/15/digital-books-wear-out-faster-than-physical-books/](http://blog.archive.org/2022/11/15/digital-books-wear-out-faster-than-physical-books/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-11-15 23:18:16+00:00
  - Persistent: True
 
 
@@ -565,6 +614,13 @@
  - Persistent: True
 
 
+## China’s Digital Yuan Works Just Like Cash—With Added Surveillance
+ - [https://www.wired.com/story/chinas-digital-yuan-ecny-works-just-like-cash-surveillance/](https://www.wired.com/story/chinas-digital-yuan-ecny-works-just-like-cash-surveillance/)
+ - RSS feed: https://www.wired.com/feed/category/business/latest/rss
+ - date published: 2022-11-08 13:00:00+00:00
+ - Persistent: True
+
+
 ## Afera we francuskim kościele. 11 biskupów "zamieszanych" w przemoc seksualną
  - [https://www.wykop.pl/link/6891593/afera-we-francuskim-kosciele-11-biskupow-zamieszanych-w-przemoc-seksualna/](https://www.wykop.pl/link/6891593/afera-we-francuskim-kosciele-11-biskupow-zamieszanych-w-przemoc-seksualna/)
  - RSS feed: https://www.wykop.pl/rss/index.xml/
@@ -702,6 +758,13 @@
  - [https://www.dailywire.com/news/only-2-of-childrens-deaths-were-from-covid-and-school-closures-didnt-reduce-the-number](https://www.dailywire.com/news/only-2-of-childrens-deaths-were-from-covid-and-school-closures-didnt-reduce-the-number)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-05 18:07:40+00:00
+ - Persistent: True
+
+
+## Conservatives slam Ivy League prof who demanded 'pandemic amnesty' for those who pushed lockdowns
+ - [https://www.dailymail.co.uk/news/article-11393527/Conservatives-slam-Ivy-League-prof-demanded-pandemic-amnesty-pushed-lockdowns.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11393527/Conservatives-slam-Ivy-League-prof-demanded-pandemic-amnesty-pushed-lockdowns.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-11-05 16:05:28+00:00
  - Persistent: True
 
 
@@ -985,6 +1048,13 @@
  - Persistent: True
 
 
+## COVID Lockdown Tyrants Want Us To Forget, Grant ‘Pandemic Amnesty.’ Matt Walsh Has Some Thoughts.
+ - [https://www.dailywire.com/news/covid-lockdown-tyrants-want-us-to-forget-grant-pandemic-amnesty-matt-walsh-has-some-thoughts](https://www.dailywire.com/news/covid-lockdown-tyrants-want-us-to-forget-grant-pandemic-amnesty-matt-walsh-has-some-thoughts)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-11-02 11:56:28+00:00
+ - Persistent: True
+
+
 ## China bans celebrities with ‘lapsed morals’ from endorsing products
  - [https://www.theguardian.com/world/2022/nov/02/china-bans-celebrities-lapsed-morals-endorsing-products](https://www.theguardian.com/world/2022/nov/02/china-bans-celebrities-lapsed-morals-endorsing-products)
  - RSS feed: https://www.theguardian.com/international/rss
@@ -1108,6 +1178,13 @@
  - [https://www.polsatnews.pl/wiadomosc/2022-11-01/koreanczycy-zbuduja-elektrownie-atomowa-w-polsce-buduja-w-budzecie-i-w-terminie/](https://www.polsatnews.pl/wiadomosc/2022-11-01/koreanczycy-zbuduja-elektrownie-atomowa-w-polsce-buduja-w-budzecie-i-w-terminie/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-11-01 10:45:00+00:00
+ - Persistent: True
+
+
+## Singapore explores programmable digital currency use cases with industry trials
+ - [https://www.zdnet.com/finance/banking/singapore-explores-programmable-digital-currency-use-cases-with-industry-trials/#ftag=RSSbaffb68](https://www.zdnet.com/finance/banking/singapore-explores-programmable-digital-currency-use-cases-with-industry-trials/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2022-11-01 10:40:54+00:00
  - Persistent: True
 
 
@@ -1920,6 +1997,13 @@
  - [https://wydarzenia.interia.pl/kraj/news-wazna-deklaracja-kep-kosciol-otwiera-sie-na-kobiety,nId,6371958](https://wydarzenia.interia.pl/kraj/news-wazna-deklaracja-kep-kosciol-otwiera-sie-na-kobiety,nId,6371958)
  - RSS feed: https://wydarzenia.interia.pl/feed
  - date published: 2022-10-26 12:41:09+00:00
+ - Persistent: True
+
+
+## Amazon scraps secret AI recruiting tool that showed bias against women
+ - [https://www.reuters.com/article/us-amazon-com-jobs-automation-insight-idUSKCN1MK08G](https://www.reuters.com/article/us-amazon-com-jobs-automation-insight-idUSKCN1MK08G)
+ - RSS feed: https://www.reuters.com
+ - date published: 2022-10-26 12:22:22+00:00
  - Persistent: True
 
 
@@ -8577,6 +8661,13 @@
  - [https://notrelated.xyz/audio/s01/S01E02_-_Capitalism_Socialism_and_Democracy.mp3](https://notrelated.xyz/audio/s01/S01E02_-_Capitalism_Socialism_and_Democracy.mp3)
  - RSS feed: https://notrelated.xyz/rss
  - date published: 2018-09-01 04:00:00+00:00
+ - Persistent: True
+
+
+## Rotten Tomatoes Adds 200 Critics as It Tries to Be More Inclusive
+ - [https://www.nytimes.com/2018/08/28/business/media/rotten-tomatoes-critics.html](https://www.nytimes.com/2018/08/28/business/media/rotten-tomatoes-critics.html)
+ - RSS feed: www.nytimes.com
+ - date published: 2018-08-28 08:49:46+00:00
  - Persistent: True
 
 
