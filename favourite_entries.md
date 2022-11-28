@@ -1,3 +1,38 @@
+## Mastodon: Servers, Good and Bad
+ - [https://nedbatchelder.com/blog/202211/mastodon_servers_good_and_bad.html](https://nedbatchelder.com/blog/202211/mastodon_servers_good_and_bad.html)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-11-27 18:06:55+00:00
+ - Persistent: True
+
+
+## Thriving on China's Belt and Road, Laos border town ditches kip for yuan
+ - [https://asia.nikkei.com/Spotlight/Belt-and-Road/Thriving-on-China-s-Belt-and-Road-Laos-border-town-ditches-kip-for-yuan](https://asia.nikkei.com/Spotlight/Belt-and-Road/Thriving-on-China-s-Belt-and-Road-Laos-border-town-ditches-kip-for-yuan)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-11-27 17:49:42+00:00
+ - Persistent: True
+
+
+## Xi’s iron grip on his country is stopping the Covid U-turn it so desperately needs | Isabel Hilton
+ - [https://www.theguardian.com/commentisfree/2022/nov/27/xis-iron-grip-country-stopping-covid-uturn-desperately-needs](https://www.theguardian.com/commentisfree/2022/nov/27/xis-iron-grip-country-stopping-covid-uturn-desperately-needs)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-11-27 07:00:14+00:00
+ - Persistent: True
+
+
+## Protests erupt across China in unprecedented challenge to Xi Jinping's zero-Covid policy
+ - [https://www.cnn.com/2022/11/26/china/china-protests-xinjiang-fire-shanghai-intl-hnk/index.html](https://www.cnn.com/2022/11/26/china/china-protests-xinjiang-fire-shanghai-intl-hnk/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-11-27 02:19:10+00:00
+ - Persistent: True
+
+
+## Stalkers are using Amazon Alexa devices to terrorise victims, experts warn
+ - [https://www.dailymail.co.uk/news/article-11473469/Stalkers-using-Amazon-Alexa-devices-terrorise-victims-experts-warn.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11473469/Stalkers-using-Amazon-Alexa-devices-terrorise-victims-experts-warn.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-11-27 01:40:33+00:00
+ - Persistent: True
+
+
 ## No to Spy Pixels
  - [https://notospypixels.com/](https://notospypixels.com/)
  - RSS feed: https://hnrss.org/frontpage
@@ -33,6 +68,13 @@
  - Persistent: True
 
 
+## Rotten Tomatoes Won’t Exist In 5 Years. Here’s Why.
+ - [https://www.youtube.com/watch?v=E8ZB2SjNzrc](https://www.youtube.com/watch?v=E8ZB2SjNzrc)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCmFeOdJI3IXgTBDzqBLD8qg
+ - date published: 2022-11-26 01:34:32+00:00
+ - Persistent: True
+
+
 ## Chińskie kamery zakazane w USA i Wielkiej Brytanii. Są zamontowane w pięciu polskich ministerstwach
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29182047,chinskie-kamery-zakazane-w-usa-i-wielkiej-brytanii-sa-zamontowane.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29182047,chinskie-kamery-zakazane-w-usa-i-wielkiej-brytanii-sa-zamontowane.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
  - RSS feed: http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm
@@ -54,6 +96,13 @@
  - Persistent: True
 
 
+## Right to abortion in France: The necessary steps before it gets enshrined in the constitution
+ - [https://www.lemonde.fr/en/politics/article/2022/11/24/right-to-abortion-in-france-the-necessary-steps-before-it-gets-enshrined-in-the-constitution_6005536_5.html](https://www.lemonde.fr/en/politics/article/2022/11/24/right-to-abortion-in-france-the-necessary-steps-before-it-gets-enshrined-in-the-constitution_6005536_5.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2022-11-24 19:05:58+00:00
+ - Persistent: True
+
+
 ## The biggest threat to our financial freedom - CBDC
  - [https://youtu.be/P20tDdxy_yc](https://youtu.be/P20tDdxy_yc)
  - RSS feed: https://www.youtube.com/@SorelleAmoreFinance
@@ -65,6 +114,13 @@
  - [https://twitter.com/videolan/status/1595524698351230981](https://twitter.com/videolan/status/1595524698351230981)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-24 05:09:28+00:00
+ - Persistent: True
+
+
+## Zero-Covid China asks: Is World Cup on another planet?
+ - [https://www.bbc.co.uk/news/world-asia-china-63735923?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-china-63735923?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-11-24 00:25:02+00:00
  - Persistent: True
 
 
