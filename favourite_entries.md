@@ -1,3 +1,38 @@
+## Buying a budget OLED TV has ruined movie theaters for me
+ - [https://www.androidauthority.com/oled-tv-vs-movie-theater-3241026/](https://www.androidauthority.com/oled-tv-vs-movie-theater-3241026/)
+ - RSS feed: https://www.androidauthority.com/feed/
+ - date published: 2022-11-28 15:47:01+00:00
+ - Persistent: True
+
+
+## Meta fined $276 million over Facebook data leak involving more than 533 million users
+ - [https://www.theverge.com/2022/11/28/23481786/meta-fine-facebook-data-leak-ireland-dpc-gdpr](https://www.theverge.com/2022/11/28/23481786/meta-fine-facebook-data-leak-ireland-dpc-gdpr)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-11-28 15:02:03+00:00
+ - Persistent: True
+
+
+## Elimination of programmers
+ - [https://www.codeproject.com/script/News/View.aspx?nwid=59633](https://www.codeproject.com/script/News/View.aspx?nwid=59633)
+ - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
+ - date published: 2022-11-28 05:00:00+00:00
+ - Persistent: True
+
+
+## Smartphone addiction linked with lower cognitive abilities, less self-control, and worse psychological well-being
+ - [https://www.codeproject.com/script/News/View.aspx?nwid=59631](https://www.codeproject.com/script/News/View.aspx?nwid=59631)
+ - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
+ - date published: 2022-11-28 05:00:00+00:00
+ - Persistent: True
+
+
+## Disney’s ‘Strange World’ On Track To Lose $100 Million
+ - [https://www.dailywire.com/news/disneys-strange-world-on-track-to-lose-100-million](https://www.dailywire.com/news/disneys-strange-world-on-track-to-lose-100-million)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-11-27 22:55:46+00:00
+ - Persistent: True
+
+
 ## Mastodon: Servers, Good and Bad
  - [https://nedbatchelder.com/blog/202211/mastodon_servers_good_and_bad.html](https://nedbatchelder.com/blog/202211/mastodon_servers_good_and_bad.html)
  - RSS feed: https://hnrss.org/frontpage
@@ -30,6 +65,13 @@
  - [https://www.dailymail.co.uk/news/article-11473469/Stalkers-using-Amazon-Alexa-devices-terrorise-victims-experts-warn.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11473469/Stalkers-using-Amazon-Alexa-devices-terrorise-victims-experts-warn.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 01:40:33+00:00
+ - Persistent: True
+
+
+## Senator Markey calls for an end to ‘failed Big Tech self-regulation’ following Musk letter snub
+ - [https://www.engadget.com/senator-ed-markey-calls-224404242.html?src=rss](https://www.engadget.com/senator-ed-markey-calls-224404242.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2022-11-26 22:44:04+00:00
  - Persistent: True
 
 
@@ -124,6 +166,13 @@
  - Persistent: True
 
 
+## Someone has to say it: Voice assistants are not doing it for big tech
+ - [https://www.theregister.com/2022/11/23/voice_assistants_fail/](https://www.theregister.com/2022/11/23/voice_assistants_fail/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-11-23 09:33:40+00:00
+ - Persistent: True
+
+
 ## Scary! CCP is to impose a communal lifestyle. A planned economy is about to go full swing
  - [https://www.youtube.com/watch?v=0KY29wZD1mg](https://www.youtube.com/watch?v=0KY29wZD1mg)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug
@@ -170,6 +219,13 @@
  - [https://www.dailymail.co.uk/news/article-11454795/Two-people-regret-changing-gender-set-express-fears-Sturgeons-trans-reform-plans.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11454795/Two-people-regret-changing-gender-set-express-fears-Sturgeons-trans-reform-plans.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-22 00:19:12+00:00
+ - Persistent: True
+
+
+## Judge rules Jen Psaki must be deposed in lawsuit over alleged 'collusion' with Big Tech to censor speech
+ - [https://www.foxnews.com/politics/judge-rules-jen-psaki-sit-deposition-lawsuit-collusion-big-tech-censor-speech](https://www.foxnews.com/politics/judge-rules-jen-psaki-sit-deposition-lawsuit-collusion-big-tech-censor-speech)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-11-21 20:42:05+00:00
  - Persistent: True
 
 
@@ -1535,6 +1591,13 @@
  - [http://dranger.com/ffmpeg/](http://dranger.com/ffmpeg/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-10-30 08:04:48+00:00
+ - Persistent: True
+
+
+## Elon Musk, Bill Gates... 'We need to imagine new ways to control the propensity of billionaires to replace the State'
+ - [https://www.lemonde.fr/en/opinion/article/2022/10/30/elon-musk-bill-gates-we-need-to-imagine-new-ways-to-control-the-propensity-of-billionaires-to-replace-the-state_6002257_23.html](https://www.lemonde.fr/en/opinion/article/2022/10/30/elon-musk-bill-gates-we-need-to-imagine-new-ways-to-control-the-propensity-of-billionaires-to-replace-the-state_6002257_23.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2022-10-30 03:49:00+00:00
  - Persistent: True
 
 
@@ -7796,10 +7859,24 @@
  - Persistent: True
 
 
+## Unvaccinated Europeans Fight for Rights as COVID Restrictions Tighten
+ - [https://www.youtube.com/watch?v=5UiCxyZo2Bk](https://www.youtube.com/watch?v=5UiCxyZo2Bk)
+ - RSS feed: https://www.youtube.com/@700Club-official
+ - date published: 2021-12-15 08:25:46+00:00
+ - Persistent: True
+
+
 ## "Pierwsze ""poufne"" dokumenty Pfizera ujawnione z nakazu sądowego"
  - [https://www.pokoleniex.com/swiat/2021/12/14/pierwsze-poufne-dokumenty-pfizera-ujawnione-z-nakazu-sadowego/](https://www.pokoleniex.com/swiat/2021/12/14/pierwsze-poufne-dokumenty-pfizera-ujawnione-z-nakazu-sadowego/)
  - RSS feed: www.pokoleniex.com
  - date published: 2021-12-14 07:05:12+00:00
+ - Persistent: True
+
+
+## Germany announces nationwide lockdown for the unvaccinated
+ - [https://www.youtube.com/watch?v=EIX_OskczQA](https://www.youtube.com/watch?v=EIX_OskczQA)
+ - RSS feed: https://www.youtube.com/@CNN
+ - date published: 2021-12-02 08:26:55+00:00
  - Persistent: True
 
 
@@ -7824,10 +7901,31 @@
  - Persistent: True
 
 
+## Freddie Sayers investigates Austria's lockdown of the unvaccinated
+ - [https://www.youtube.com/watch?v=y9io1MZz_7E](https://www.youtube.com/watch?v=y9io1MZz_7E)
+ - RSS feed: https://www.youtube.com/@UnHerd
+ - date published: 2021-11-17 08:22:45+00:00
+ - Persistent: True
+
+
 ## A U.S. government contractor embedded tracking software in the apps of millions of smartphone users
  - [https://www.androidcentral.com/us-government-contractor-embedded-tracking-software-apps-millions-smartphone-users](https://www.androidcentral.com/us-government-contractor-embedded-tracking-software-apps-millions-smartphone-users)
  - RSS feed: www.androidcentral.com
  - date published: 2021-11-16 12:04:50+00:00
+ - Persistent: True
+
+
+## Nigel Farage: Austrian lockdown of unvaccinated 'is deeply sinister'
+ - [https://www.youtube.com/watch?v=7AZSkF9fNRM](https://www.youtube.com/watch?v=7AZSkF9fNRM)
+ - RSS feed: https://www.youtube.com/watch?v=7AZSkF9fNRM
+ - date published: 2021-11-15 08:41:06+00:00
+ - Persistent: True
+
+
+## Thousands protest Austria's COVID lockdown for the unvaccinated | DW News
+ - [https://www.youtube.com/watch?v=KifHYc2tm3o](https://www.youtube.com/watch?v=KifHYc2tm3o)
+ - RSS feed: https://www.youtube.com/@dwnews
+ - date published: 2021-11-15 08:28:37+00:00
  - Persistent: True
 
 
@@ -8297,6 +8395,13 @@
  - [https://tarnogorski.info/pilne-kierownik-oddzia/](https://tarnogorski.info/pilne-kierownik-oddzia/)
  - RSS feed: tarnogorski.info
  - date published: 2020-11-29 07:28:13+00:00
+ - Persistent: True
+
+
+## "A grave mistake", Kenney apologizes for lockdown
+ - [https://www.youtube.com/watch?v=ylTCTcSM09Y](https://www.youtube.com/watch?v=ylTCTcSM09Y)
+ - RSS feed: https://www.youtube.com/@calgaryherald
+ - date published: 2020-11-25 08:43:31+00:00
  - Persistent: True
 
 
