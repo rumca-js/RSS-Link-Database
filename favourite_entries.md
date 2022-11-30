@@ -1,3 +1,38 @@
+## Twitter Quietly Removes Its Covid-19 Misinformation Policy
+ - [https://gizmodo.com/twitter-misinformation-covid-19-elon-musk-1849830635](https://gizmodo.com/twitter-misinformation-covid-19-elon-musk-1849830635)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-11-29 16:35:00+00:00
+ - Persistent: True
+
+
+## Sony steps into the Metaverse with the 'Mocopi' motion tracking system
+ - [https://www.engadget.com/sony-mocopi-movement-tracker-metaverse-avatars-131721036.html?src=rss](https://www.engadget.com/sony-mocopi-movement-tracker-metaverse-avatars-131721036.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2022-11-29 13:17:21+00:00
+ - Persistent: True
+
+
+## New York Times, Guardian, other media outlets call on US to end prosecution of Julian Assange
+ - [https://www.foxnews.com/media/new-york-times-guardian-other-media-outlets-call-us-end-prosecution-julian-assange](https://www.foxnews.com/media/new-york-times-guardian-other-media-outlets-call-us-end-prosecution-julian-assange)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-11-29 09:46:18+00:00
+ - Persistent: True
+
+
+## 5.4 million Twitter users' stolen data leaked online — more shared privately
+ - [https://www.codeproject.com/script/News/View.aspx?nwid=59656](https://www.codeproject.com/script/News/View.aspx?nwid=59656)
+ - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
+ - date published: 2022-11-29 05:00:00+00:00
+ - Persistent: True
+
+
+## Apple Has No Easy Road Out of China
+ - [https://www.wsj.com/articles/apple-has-no-easy-road-out-of-china-11669661578?mod=rss_Technology](https://www.wsj.com/articles/apple-has-no-easy-road-out-of-china-11669661578?mod=rss_Technology)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
+ - date published: 2022-11-29 04:02:00+00:00
+ - Persistent: True
+
+
 ## Buying a budget OLED TV has ruined movie theaters for me
  - [https://www.androidauthority.com/oled-tv-vs-movie-theater-3241026/](https://www.androidauthority.com/oled-tv-vs-movie-theater-3241026/)
  - RSS feed: https://www.androidauthority.com/feed/
@@ -163,6 +198,13 @@
  - [https://www.bbc.co.uk/news/world-asia-china-63735923?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-china-63735923?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-24 00:25:02+00:00
+ - Persistent: True
+
+
+## Eufy leaking your "private" images/faces & names... to the cloud.
+ - [https://www.youtube.com/watch?v=qOjiCbxP5Lc](https://www.youtube.com/watch?v=qOjiCbxP5Lc)
+ - RSS feed: https://www.youtube.com/@paulmoore9376
+ - date published: 2022-11-23 10:24:40+00:00
  - Persistent: True
 
 
@@ -8122,6 +8164,13 @@
  - [https://www.youtube.com/watch?v=npkZQGD7LOM](https://www.youtube.com/watch?v=npkZQGD7LOM)
  - RSS feed: https://www.youtube.com/21
  - date published: 2021-05-27 21:17:48+00:00
+ - Persistent: True
+
+
+## Huge Eufy privacy breach shows live and recorded cam feeds to strangers [U: Statement]
+ - [https://9to5mac.com/2021/05/17/huge-eufy-privacy-breach/](https://9to5mac.com/2021/05/17/huge-eufy-privacy-breach/)
+ - RSS feed: https://9to5mac.com
+ - date published: 2021-05-17 10:19:18+00:00
  - Persistent: True
 
 
