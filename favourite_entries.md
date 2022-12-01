@@ -1,3 +1,31 @@
+## Is ESG An Investment Strategy Or The Path To A Sustainable World?
+ - [https://www.forbes.com/sites/jenniferhicks/2022/11/30/is-esg-an-investment-strategy-or-the-path-to-a-sustainable-world/](https://www.forbes.com/sites/jenniferhicks/2022/11/30/is-esg-an-investment-strategy-or-the-path-to-a-sustainable-world/)
+ - RSS feed: https://www.forbes.com/innovation/feed2
+ - date published: 2022-11-30 16:00:00+00:00
+ - Persistent: True
+
+
+## EU unveils plans to cut Europe’s plastic and packaging waste
+ - [https://www.theguardian.com/environment/2022/nov/30/eu-unveils-plans-to-cut-europes-plastic-and-packaging-waste](https://www.theguardian.com/environment/2022/nov/30/eu-unveils-plans-to-cut-europes-plastic-and-packaging-waste)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-11-30 15:36:59+00:00
+ - Persistent: True
+
+
+## Ex-Twitter safety chief admits Hunter Biden laptop censorship was a ‘mistake’
+ - [https://www.foxnews.com/media/twitter-safety-chief-admits-hunter-biden-laptop-censorship-mistake](https://www.foxnews.com/media/twitter-safety-chief-admits-hunter-biden-laptop-censorship-mistake)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-11-30 14:58:52+00:00
+ - Persistent: True
+
+
+## China’s Dramatic Dissent
+ - [https://www.nytimes.com/2022/11/30/briefing/china-protests-covid.html](https://www.nytimes.com/2022/11/30/briefing/china-protests-covid.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ - date published: 2022-11-30 11:47:58+00:00
+ - Persistent: True
+
+
 ## Twitter Quietly Removes Its Covid-19 Misinformation Policy
  - [https://gizmodo.com/twitter-misinformation-covid-19-elon-musk-1849830635](https://gizmodo.com/twitter-misinformation-covid-19-elon-musk-1849830635)
  - RSS feed: https://gizmodo.com/rss
@@ -9,6 +37,13 @@
  - [https://www.engadget.com/sony-mocopi-movement-tracker-metaverse-avatars-131721036.html?src=rss](https://www.engadget.com/sony-mocopi-movement-tracker-metaverse-avatars-131721036.html?src=rss)
  - RSS feed: https://www.engadget.com/rss.xml
  - date published: 2022-11-29 13:17:21+00:00
+ - Persistent: True
+
+
+## COVID lab blunder linked to deaths of 23 people, investigators estimate
+ - [https://news.sky.com/story/covid-lab-blunder-linked-to-deaths-of-over-20-people-investigators-estimate-12758023](https://news.sky.com/story/covid-lab-blunder-linked-to-deaths-of-over-20-people-investigators-estimate-12758023)
+ - RSS feed: https://news.sky.com/story/covid-lab-blunder-linked-to-deaths-of-over-20-people-investigators-estimate-12758023
+ - date published: 2022-11-29 12:56:05+00:00
  - Persistent: True
 
 
