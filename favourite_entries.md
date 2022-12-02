@@ -1,3 +1,24 @@
+## Environmental activist Meghan Markle seen boarding private jet following female empowerment event
+ - [http://www.msn.com/en-us/news/world/environmental-activist-meghan-markle-seen-boarding-private-jet-following-female-empowerment-event/ar-AA14Muoa?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/environmental-activist-meghan-markle-seen-boarding-private-jet-following-female-empowerment-event/ar-AA14Muoa?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-01 15:34:16.902708+00:00
+ - Persistent: True
+
+
+## Disney’s new neural network can change an actor’s age with ease
+ - [https://arstechnica.com/?p=1901037](https://arstechnica.com/?p=1901037)
+ - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
+ - date published: 2022-11-30 23:13:19+00:00
+ - Persistent: True
+
+
+## FTX billionaire Sam Bankman-Fried funneled dark money to Republicans
+ - [https://www.theguardian.com/technology/2022/nov/30/ftx-billionaire-sam-bankman-fried-dark-money-republicans](https://www.theguardian.com/technology/2022/nov/30/ftx-billionaire-sam-bankman-fried-dark-money-republicans)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-11-30 17:20:29+00:00
+ - Persistent: True
+
+
 ## Is ESG An Investment Strategy Or The Path To A Sustainable World?
  - [https://www.forbes.com/sites/jenniferhicks/2022/11/30/is-esg-an-investment-strategy-or-the-path-to-a-sustainable-world/](https://www.forbes.com/sites/jenniferhicks/2022/11/30/is-esg-an-investment-strategy-or-the-path-to-a-sustainable-world/)
  - RSS feed: https://www.forbes.com/innovation/feed2
@@ -9,6 +30,13 @@
  - [https://www.theguardian.com/environment/2022/nov/30/eu-unveils-plans-to-cut-europes-plastic-and-packaging-waste](https://www.theguardian.com/environment/2022/nov/30/eu-unveils-plans-to-cut-europes-plastic-and-packaging-waste)
  - RSS feed: https://www.theguardian.com/international/rss
  - date published: 2022-11-30 15:36:59+00:00
+ - Persistent: True
+
+
+## Microsoft 365 faces more GDPR headwinds as Germany bans it in schools
+ - [https://www.msn.com/en-us/news/technology/microsoft-365-faces-more-gdpr-headwinds-as-germany-bans-it-in-schools/ar-AA14K2aA](https://www.msn.com/en-us/news/technology/microsoft-365-faces-more-gdpr-headwinds-as-germany-bans-it-in-schools/ar-AA14K2aA)
+ - RSS feed: https://www.msn.com
+ - date published: 2022-11-30 15:03:20+00:00
  - Persistent: True
 
 
@@ -26,10 +54,31 @@
  - Persistent: True
 
 
+## Fake Zuck to Congress: Thank You for Inaction on Big Tech Antitrust!
+ - [https://www.youtube.com/watch?v=5Fv-LKT_cEc](https://www.youtube.com/watch?v=5Fv-LKT_cEc)
+ - RSS feed: https://www.youtube.com/@fakezuck
+ - date published: 2022-11-30 10:51:39+00:00
+ - Persistent: True
+
+
+## China to punish internet users for 'liking' posts in crackdown after zero-Covid protests
+ - [https://www.cnn.com/2022/11/30/media/china-new-internet-rule-punish-liking-posts-intl-hnk/index.html](https://www.cnn.com/2022/11/30/media/china-new-internet-rule-punish-liking-posts-intl-hnk/index.html)
+ - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
+ - date published: 2022-11-30 08:24:43+00:00
+ - Persistent: True
+
+
 ## Twitter Quietly Removes Its Covid-19 Misinformation Policy
  - [https://gizmodo.com/twitter-misinformation-covid-19-elon-musk-1849830635](https://gizmodo.com/twitter-misinformation-covid-19-elon-musk-1849830635)
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-11-29 16:35:00+00:00
+ - Persistent: True
+
+
+## Deep Fake Zuckerberg Thanks Democrats for Their Service and Inaction on Antitrust
+ - [https://gizmodo.com/deep-fake-zuckerberg-meta-antitrust-big-tech-1849830665](https://gizmodo.com/deep-fake-zuckerberg-meta-antitrust-big-tech-1849830665)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-11-29 16:00:00+00:00
  - Persistent: True
 
 
@@ -1944,6 +1993,13 @@
  - Persistent: True
 
 
+## FBI Whistleblower Leaks Document To Project Veritas Showing Agency Allegedly Labeling ‘Misinformation’ Under ‘Election Crimes’
+ - [https://www.dailywire.com/news/fbi-whistleblower-leaks-document-to-project-veritas-showing-agency-allegedly-labeling-misinformation-under-election-crimes](https://www.dailywire.com/news/fbi-whistleblower-leaks-document-to-project-veritas-showing-agency-allegedly-labeling-misinformation-under-election-crimes)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-10-27 17:18:42+00:00
+ - Persistent: True
+
+
 ## Followers of QAnon Satanic pedophile elite theory JUMPED 5% this year to 49 million
  - [https://www.dailymail.co.uk/news/article-11361297/Followers-QAnon-Satanic-pedophile-elite-theory-JUMPED-5-year-49-million.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11361297/Followers-QAnon-Satanic-pedophile-elite-theory-JUMPED-5-year-49-million.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
@@ -3215,6 +3271,13 @@
  - [https://www.foxnews.com/us/christian-childcare-teacher-refused-read-lgbt-books-kids-sues-being-fired-blatantly-illegal](https://www.foxnews.com/us/christian-childcare-teacher-refused-read-lgbt-books-kids-sues-being-fired-blatantly-illegal)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-10-16 20:41:04+00:00
+ - Persistent: True
+
+
+## HOW CBDCs TAKE AWAY OUR FREEDOMS ft Nigel Farage
+ - [https://www.youtube.com/watch?v=N8t7npjutik](https://www.youtube.com/watch?v=N8t7npjutik)
+ - RSS feed: https://www.youtube.com/@LayahHeilpern
+ - date published: 2022-10-16 10:34:21+00:00
  - Persistent: True
 
 
@@ -7464,6 +7527,13 @@
  - [https://www.dailymail.co.uk/news/article-11170813/House-Republicans-push-bill-block-Biden-promoting-social-media-censorship.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11170813/House-Republicans-push-bill-block-Biden-promoting-social-media-censorship.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-01 21:09:36+00:00
+ - Persistent: True
+
+
+## The Twitter Whistleblower Story Is Worse Than You Think
+ - [https://www.kolide.com/blog/the-twitter-whistleblower-story-is-worse-than-you-think](https://www.kolide.com/blog/the-twitter-whistleblower-story-is-worse-than-you-think)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-09-01 20:10:42+00:00
  - Persistent: True
 
 
