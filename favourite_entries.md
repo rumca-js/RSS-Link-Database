@@ -1,3 +1,87 @@
+## Ubuntu's Snap performs application updates without user consent
+ - [https://smaller.fish/posts/snap_updates](https://smaller.fish/posts/snap_updates)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-02 18:58:25+00:00
+ - Persistent: True
+
+
+## Republicans go to war with Biden's 401k ESG 'cancer'
+ - [https://www.dailymail.co.uk/news/article-11490637/Republicans-war-Bidens-401k-ESG-cancer.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11490637/Republicans-war-Bidens-401k-ESG-cancer.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-02 17:03:30+00:00
+ - Persistent: True
+
+
+## Smartphones wiped out 97% of the compact camera market
+ - [https://asia.nikkei.com/Business/Business-trends/Panasonic-Nikon-quit-developing-low-end-compact-digital-cameras](https://asia.nikkei.com/Business/Business-trends/Panasonic-Nikon-quit-developing-low-end-compact-digital-cameras)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-02 10:25:16+00:00
+ - Persistent: True
+
+
+## Spain starts new code to avoid sexism in ads for kids' toys
+ - [https://abcnews.go.com/International/wireStory/spain-starts-new-code-avoid-sexism-ads-kids-94212927](https://abcnews.go.com/International/wireStory/spain-starts-new-code-avoid-sexism-ads-kids-94212927)
+ - RSS feed: https://abcnews.go.com
+ - date published: 2022-12-02 08:46:25+00:00
+ - Persistent: True
+
+
+## Google i Facebook muszą dzielić się wpływami z lokalnymi wydawcami
+ - [https://forsal.pl/swiat/aktualnosci/artykuly/8601248,australia-google-facebook-regulacje-lokalni-wydawcy.html](https://forsal.pl/swiat/aktualnosci/artykuly/8601248,australia-google-facebook-regulacje-lokalni-wydawcy.html)
+ - RSS feed: https://forsal.pl/.feed
+ - date published: 2022-12-02 08:26:02+00:00
+ - Persistent: True
+
+
+## Is Our Digital Future At Risk Because Of The Gen Z Skills Gap?
+ - [https://www.forbes.com/sites/bernardmarr/2022/12/02/is-our-digital-future-at-risk-because-of-the-gen-z-skills-gap/](https://www.forbes.com/sites/bernardmarr/2022/12/02/is-our-digital-future-at-risk-because-of-the-gen-z-skills-gap/)
+ - RSS feed: https://www.forbes.com/innovation/feed2
+ - date published: 2022-12-02 07:29:11+00:00
+ - Persistent: True
+
+
+## China brings in ‘emergency’ level censorship over zero-Covid protests
+ - [https://www.theguardian.com/world/2022/dec/02/china-brings-in-emergency-level-censorship-over-zero-covid-protests](https://www.theguardian.com/world/2022/dec/02/china-brings-in-emergency-level-censorship-over-zero-covid-protests)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-12-02 05:06:26+00:00
+ - Persistent: True
+
+
+## Eufy's security cameras send data to the cloud without consent, and that's not the worst part
+ - [https://www.zdnet.com/article/eufys-security-cameras-send-data-to-the-cloud-without-consent-and-thats-not-the-worst-part/#ftag=RSSbaffb68](https://www.zdnet.com/article/eufys-security-cameras-send-data-to-the-cloud-without-consent-and-thats-not-the-worst-part/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2022-12-01 22:05:38+00:00
+ - Persistent: True
+
+
+## Koniec z "seksistowskimi" reklamami zabawek. Nowe ograniczenia w Hiszpanii
+ - [https://tvn24.pl/biznes/ze-swiata/hiszpania-reklamy-zabawek-dla-dzieci-bez-seksistowskich-stereotypow-utrwalajacych-tradycyjne-role-6304445?source=rss](https://tvn24.pl/biznes/ze-swiata/hiszpania-reklamy-zabawek-dla-dzieci-bez-seksistowskich-stereotypow-utrwalajacych-tradycyjne-role-6304445?source=rss)
+ - RSS feed: https://tvn24.pl/najnowsze.xml
+ - date published: 2022-12-01 20:29:38+00:00
+ - Persistent: True
+
+
+## Hive Social turns off servers after researchers warn hackers can access all data
+ - [https://arstechnica.com/?p=1901358](https://arstechnica.com/?p=1901358)
+ - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
+ - date published: 2022-12-01 20:20:38+00:00
+ - Persistent: True
+
+
+## Fauci says 'it's very important' to learn COVID origin, explains what to do if lab leak theory proven true
+ - [https://www.foxnews.com/politics/fauci-says-very-important-learn-covid-origin-explains-what-do-lab-leak-theory-proven-true](https://www.foxnews.com/politics/fauci-says-very-important-learn-covid-origin-explains-what-do-lab-leak-theory-proven-true)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-01 19:39:54+00:00
+ - Persistent: True
+
+
+## Gutfeld Destroys Republican Host Of ‘The View’ Over Balenciaga Hot Take
+ - [https://www.dailywire.com/news/gutfeld-destroys-republican-host-of-the-view-over-balenciaga-hot-take](https://www.dailywire.com/news/gutfeld-destroys-republican-host-of-the-view-over-balenciaga-hot-take)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-01 15:47:47+00:00
+ - Persistent: True
+
+
 ## Environmental activist Meghan Markle seen boarding private jet following female empowerment event
  - [http://www.msn.com/en-us/news/world/environmental-activist-meghan-markle-seen-boarding-private-jet-following-female-empowerment-event/ar-AA14Muoa?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/environmental-activist-meghan-markle-seen-boarding-private-jet-following-female-empowerment-event/ar-AA14Muoa?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
@@ -79,6 +163,13 @@
  - [https://gizmodo.com/deep-fake-zuckerberg-meta-antitrust-big-tech-1849830665](https://gizmodo.com/deep-fake-zuckerberg-meta-antitrust-big-tech-1849830665)
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-11-29 16:00:00+00:00
+ - Persistent: True
+
+
+## Brazilian ‘protest’ video flagged as misinformation
+ - [https://www.aap.com.au/factcheck/brazilian-protest-video-flagged-as-misinformation/](https://www.aap.com.au/factcheck/brazilian-protest-video-flagged-as-misinformation/)
+ - RSS feed: https://www.aap.com.au
+ - date published: 2022-11-29 14:25:40+00:00
  - Persistent: True
 
 
@@ -429,6 +520,13 @@
  - [https://www.dailymail.co.uk/news/article-11443527/Members-fear-Society-Authors-lost-cancel-culture-amid-JK-Rowling-row.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11443527/Members-fear-Society-Authors-lost-cancel-culture-amid-JK-Rowling-row.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-18 14:37:20+00:00
+ - Persistent: True
+
+
+## End of an Era: Facebook Takes Sexuality, Religion, Address, and Politics Off of Your Profile
+ - [https://gizmodo.com/facebook-cuts-interested-in-religion-address-politics-1849796195](https://gizmodo.com/facebook-cuts-interested-in-religion-address-politics-1849796195)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-11-17 17:23:39+00:00
  - Persistent: True
 
 
@@ -9193,6 +9291,27 @@
  - [https://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html](https://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html)
  - RSS feed: www.philzimmermann.com
  - date published: 1999-09-08 19:26:27+00:00
+ - Persistent: True
+
+
+## Afera FOZZ
+ - [https://bb-i.blog/tag/afera-fozz/](https://bb-i.blog/tag/afera-fozz/)
+ - RSS feed: https://bb-i.blog
+ - date published: 1990-09-02 08:19:56+00:00
+ - Persistent: True
+
+
+## Wiadomości     Artykuły     Kultura     Nauka     Wojsko     Rekonstrukcje     Publicystyka     Recenzje     Video     Forum     Redakcja  Afera FOZZ – „matka wszystkich afer”
+ - [https://historia.org.pl/2019/07/12/afera-fozz-matka-wszystkich-afer/](https://historia.org.pl/2019/07/12/afera-fozz-matka-wszystkich-afer/)
+ - RSS feed: https://historia.org.pl
+ - date published: 1990-09-02 08:19:56+00:00
+ - Persistent: True
+
+
+## „Rozkodował model rabowania Polski”. Tajemnice śmierci Michała Falzmanna
+ - [https://www.tvp.info/54797855/michal-falzmann-i-afera-fozz-okolicznosci-smierci-zagadka-po-30-latach-slawomir-cenckiewicz-rozkodowal-model-rabowania-polski](https://www.tvp.info/54797855/michal-falzmann-i-afera-fozz-okolicznosci-smierci-zagadka-po-30-latach-slawomir-cenckiewicz-rozkodowal-model-rabowania-polski)
+ - RSS feed: https://www.tvp.info
+ - date published: 1990-09-02 08:19:56+00:00
  - Persistent: True
 
 
