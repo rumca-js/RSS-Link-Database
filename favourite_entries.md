@@ -1,3 +1,129 @@
+## The Biden administration wants taxpayers to fund gender transitions for children
+ - [http://www.msn.com/en-us/news/us/the-biden-administration-wants-taxpayers-to-fund-gender-transitions-for-children/ar-AA14TDk1?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/the-biden-administration-wants-taxpayers-to-fund-gender-transitions-for-children/ar-AA14TDk1?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-04 21:02:54.568991+00:00
+ - Persistent: True
+
+
+## Former Twitter censor stands by decision to ban satire site Babylon Bee – “not funny,” “dangerous”
+ - [https://reclaimthenet.org/yoel-roth-babylon-bee/](https://reclaimthenet.org/yoel-roth-babylon-bee/)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2022-12-04 19:46:29+00:00
+ - Persistent: True
+
+
+## Apple CEO Tim Cook is questioned after company limited popular protest tool in China
+ - [https://reclaimthenet.org/tim-cook-questioned-suppressed-popular-protest-tool-in-china/](https://reclaimthenet.org/tim-cook-questioned-suppressed-popular-protest-tool-in-china/)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2022-12-04 17:24:44+00:00
+ - Persistent: True
+
+
+## Post mortem on mastodon outage with 30k users (hachyderm)
+ - [https://community.hachyderm.io/blog/2022/12/03/leaving-the-basement/](https://community.hachyderm.io/blog/2022/12/03/leaving-the-basement/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-04 16:48:54+00:00
+ - Persistent: True
+
+
+## UK and Ukraine to collaborate on digital ID
+ - [https://reclaimthenet.org/uk-ukraine-to-collaborate-on-digital-id-tech/](https://reclaimthenet.org/uk-ukraine-to-collaborate-on-digital-id-tech/)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2022-12-04 14:10:19+00:00
+ - Persistent: True
+
+
+## Facebook oferuje rządom platformę do zgłaszania treści do ocenzurowania
+ - [https://ithardware.pl/aktualnosci/facebook_oferuje_rzadom_platforme_do_zglaszania_tresci_do_ocenzurowania-24672.html](https://ithardware.pl/aktualnosci/facebook_oferuje_rzadom_platforme_do_zglaszania_tresci_do_ocenzurowania-24672.html)
+ - RSS feed: https://ithardware.pl/feed
+ - date published: 2022-12-04 13:56:40+00:00
+ - Persistent: True
+
+
+## Thread: THE TWITTER FILES
+ - [https://threadreaderapp.com/thread/1598822959866683394](https://threadreaderapp.com/thread/1598822959866683394)
+ - RSS feed: https://threadreaderapp.com
+ - date published: 2022-12-04 08:47:36+00:00
+ - Persistent: True
+
+
+## China Mandates Social Credit System for Social Media, Will Track “Likes” on “Harmful” Content
+ - [https://www.activistpost.com/2022/12/china-mandates-social-credit-system-for-social-media-will-track-likes-on-harmful-content.html](https://www.activistpost.com/2022/12/china-mandates-social-credit-system-for-social-media-will-track-likes-on-harmful-content.html)
+ - RSS feed: https://www.activistpost.com
+ - date published: 2022-12-04 08:36:38+00:00
+ - Persistent: True
+
+
+## Fauci suggested FBI be warned about possible lab leak before he dismissed hypothesis
+ - [http://www.msn.com/en-us/news/world/fauci-suggested-fbi-be-warned-about-possible-lab-leak-before-he-dismissed-hypothesis/ar-AA14SMEq?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/fauci-suggested-fbi-be-warned-about-possible-lab-leak-before-he-dismissed-hypothesis/ar-AA14SMEq?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-04 08:02:07.377169+00:00
+ - Persistent: True
+
+
+## Apple to move 40-45% iPhone production to India
+ - [https://www.wsj.com/articles/apple-china-factory-protests-foxconn-manufacturing-production-supply-chain-11670023099](https://www.wsj.com/articles/apple-china-factory-protests-foxconn-manufacturing-production-supply-chain-11670023099)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-04 07:22:34+00:00
+ - Persistent: True
+
+
+## Musk declares New York Times ‘lobbying firm for far left’ after reportedly ignoring ‘Twitter Files’ story
+ - [https://www.foxnews.com/media/musk-declares-new-york-times-lobbying-firm-for-far-left-after-reportedly-ignoring-twitter-files-story](https://www.foxnews.com/media/musk-declares-new-york-times-lobbying-firm-for-far-left-after-reportedly-ignoring-twitter-files-story)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-03 21:03:29+00:00
+ - Persistent: True
+
+
+## Jordan Peterson fans flock to Sydney for 'Beyond Order: 12 More Rules for Life' lecture
+ - [https://www.dailymail.co.uk/news/article-11472937/Jordan-Peterson-fans-flock-Sydney-Order-12-Rules-Life-lecture.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11472937/Jordan-Peterson-fans-flock-Sydney-Order-12-Rules-Life-lecture.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-03 20:11:22+00:00
+ - Persistent: True
+
+
+## France prepares for possibility of electricity blackouts during winter months
+ - [https://www.rfi.fr/en/france/20221201-how-france-is-preparing-to-avoid-a-major-blackout-this-winter](https://www.rfi.fr/en/france/20221201-how-france-is-preparing-to-avoid-a-major-blackout-this-winter)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-03 19:58:35+00:00
+ - Persistent: True
+
+
+## “The First Amendment isn’t absolute” – Twitter files show Democrat staffers wanted more censorship
+ - [https://reclaimthenet.org/democrat-staffers-wanted-more-twitter-censorship/](https://reclaimthenet.org/democrat-staffers-wanted-more-twitter-censorship/)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2022-12-03 19:04:18+00:00
+ - Persistent: True
+
+
+## Ex-Twitter Executive: Elon Musk Is Putting Us ‘In Harm’s Way’ By Showing How We Censored Content
+ - [https://www.dailywire.com/news/ex-twitter-executive-elon-musk-is-putting-us-in-harms-way-by-showing-how-we-censored-content](https://www.dailywire.com/news/ex-twitter-executive-elon-musk-is-putting-us-in-harms-way-by-showing-how-we-censored-content)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-03 18:36:30+00:00
+ - Persistent: True
+
+
+## James Woods On Elon Musk Releasing ‘The Twitter Files’: ‘Musk Has Very Possibly Saved America’
+ - [https://www.dailywire.com/news/james-woods-on-elon-musk-releasing-the-twitter-files-musk-has-very-possibly-saved-america](https://www.dailywire.com/news/james-woods-on-elon-musk-releasing-the-twitter-files-musk-has-very-possibly-saved-america)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-03 15:38:21+00:00
+ - Persistent: True
+
+
+## New Zealand admits it has access to Facebook takedown portal to censor content
+ - [https://reclaimthenet.org/new-zealand-government-facebook-content-takedown-portal/](https://reclaimthenet.org/new-zealand-government-facebook-content-takedown-portal/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-03 02:40:32+00:00
+ - Persistent: True
+
+
+## Never-before-seen malware is nuking data in Russia’s courts and mayors’ offices
+ - [https://arstechnica.com/?p=1901752](https://arstechnica.com/?p=1901752)
+ - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
+ - date published: 2022-12-02 20:57:15+00:00
+ - Persistent: True
+
+
 ## Ubuntu's Snap performs application updates without user consent
  - [https://smaller.fish/posts/snap_updates](https://smaller.fish/posts/snap_updates)
  - RSS feed: https://hnrss.org/frontpage
@@ -310,6 +436,13 @@
  - [https://www.extremetech.com/internet/341111-tax-filing-websites-caught-sending-users-financial-data-to-facebook](https://www.extremetech.com/internet/341111-tax-filing-websites-caught-sending-users-financial-data-to-facebook)
  - RSS feed: https://www.extremetech.com
  - date published: 2022-11-26 12:19:20+00:00
+ - Persistent: True
+
+
+## Animated Gay Teen Romance Film Is Woke Disney’s Latest Box-Office Bomb
+ - [https://www.dailywire.com/news/animated-gay-teen-romance-film-is-woke-disneys-latest-box-office-bomb](https://www.dailywire.com/news/animated-gay-teen-romance-film-is-woke-disneys-latest-box-office-bomb)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-11-26 11:42:23+00:00
  - Persistent: True
 
 
