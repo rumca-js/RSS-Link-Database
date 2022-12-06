@@ -1,3 +1,31 @@
+## Meta is expanding its use of AI face scanning to verify users’ age on Facebook Dating
+ - [https://www.theverge.com/2022/12/5/23494175/facebook-dating-ai-face-scanning-age-verification-expansion-yoti](https://www.theverge.com/2022/12/5/23494175/facebook-dating-ai-face-scanning-age-verification-expansion-yoti)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-05 17:00:28+00:00
+ - Persistent: True
+
+
+## Kyle Rittenhouse goes viral after asking if Twitter files will reveal 'hidden censoring' against him
+ - [https://www.foxnews.com/media/kyle-rittenhouse-goes-viral-asking-twitter-files-reveal-hidden-censoring](https://www.foxnews.com/media/kyle-rittenhouse-goes-viral-asking-twitter-files-reveal-hidden-censoring)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-05 14:42:02+00:00
+ - Persistent: True
+
+
+## Somehow Every Computer Chip In The World Is Built By One Company
+ - [https://www.youtube.com/watch?v=RwW0Yfy0oCw](https://www.youtube.com/watch?v=RwW0Yfy0oCw)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
+ - date published: 2022-12-05 14:32:49+00:00
+ - Persistent: True
+
+
+## Pegasus spyware was used to hack reporters’ phones. I’m suing its creators | Nelson Rauda Zablah
+ - [https://www.theguardian.com/commentisfree/2022/dec/05/pegasus-spyware-journalists-phone-hacking-lawsuit](https://www.theguardian.com/commentisfree/2022/dec/05/pegasus-spyware-journalists-phone-hacking-lawsuit)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-12-05 11:05:40+00:00
+ - Persistent: True
+
+
 ## The Biden administration wants taxpayers to fund gender transitions for children
  - [http://www.msn.com/en-us/news/us/the-biden-administration-wants-taxpayers-to-fund-gender-transitions-for-children/ar-AA14TDk1?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/the-biden-administration-wants-taxpayers-to-fund-gender-transitions-for-children/ar-AA14TDk1?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
@@ -898,6 +926,13 @@
  - [https://www.dailywire.com/news/dr-jordan-b-peterson-social-media-is-part-of-pollution-of-the-domain-of-public-discourse](https://www.dailywire.com/news/dr-jordan-b-peterson-social-media-is-part-of-pollution-of-the-domain-of-public-discourse)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-12 18:09:52+00:00
+ - Persistent: True
+
+
+## Babylon Bee urges Supreme Court to protect parody, says First Amendment pointless if you can't mock government
+ - [https://www.foxnews.com/media/babylon-bee-urges-supreme-court-protect-parody-says-first-amendment-pointless-if-you-cant-mock-government](https://www.foxnews.com/media/babylon-bee-urges-supreme-court-protect-parody-says-first-amendment-pointless-if-you-cant-mock-government)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-11-12 17:00:05+00:00
  - Persistent: True
 
 

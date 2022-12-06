@@ -1,0 +1,507 @@
+## You can now play Sony’s Spider-Man in first-person
+ - [https://www.pcworld.com/article/1425534/this-first-person-mod-for-spider-man-will-test-your-pc-and-your-stomach.html](https://www.pcworld.com/article/1425534/this-first-person-mod-for-spider-man-will-test-your-pc-and-your-stomach.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2022-12-05 15:49:44+00:00
+ - Starred: False
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>What would it look like if you could see through the eyes of <em>Spider-Man</em>&lsquo;s mask? Well, probably <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://youtu.be/sl5RpomHcLU&amp;xcust=2-2-1425534-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">a lot like those first-person segments</a> in 2012&rsquo;s <em>The Amazing Spider-Man</em>. But what if you could get that experience while also playing a game that tries to approximate the feeling of actually moving and swinging like everyone&rsquo;s favorite quippy wall-crawler? Then it would look like the new first-person mod for the <a href="https://www.pcworld.com/article/708761/sonys-spectacular-spider-man-games-are-swinging-to-pc.html" rel="noreferrer noopener" target="_blank">PC remaster of Sony&rsquo;s acclaimed <em>Spider-Man</em> video game</a>. </p>
+
+
+
+<p>The mod comes from &ldquo;JediJosh920,&rdquo; who locks the in-game camera to Spidey&rsquo;s head instead of the more typical third-person perspective. And it&rsquo;s <em>a lot</em>. The result looks similar to those head-mounted GoPro videos posted by urban parkour enthusiasts, except those people aren&rsquo;t flying between skyscrapers at a hundred miles an hour. It doesn&rsquo;t help that Spidey, showboating twenty-something that he is, is constantly flipping and twisting around to show off for the player. </p>
+
+
+
+<p>In short, don&rsquo;t watch the clip below if you&rsquo;re in any way prone to motion sickness. If someone tried to make a VR game out of this, it would deplete the national supply of barf bags. </p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+
+</div></figure>
+
+
+
+<p>JediJosh920 appears to have different options available for the mod because the second half of the video shows a more stable, user-friendly version. In this mode, the camera stays mostly pointed forward and you can occasionally see Spider-Man&rsquo;s body twist and flip around you without the roller coaster jolting of one-to-one matching with the in-game head. It&rsquo;s something you might be able to watch or even play without senses enhanced with radioactive spider blood. </p>
+
+
+
+<p>The mod is now available for subscribers to <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.patreon.com/jedijosh920&amp;xcust=2-2-1425534-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">JediJosh920&rsquo;s Patreon page</a>. According to said page, it&rsquo;ll be released for free sometime in the near future. </p>
+
+Gaming</div>
+
+## ChatGPT is the dazzling, scary future of AI chatbots
+ - [https://www.pcworld.com/article/1424575/chatgpt-is-the-future-of-ai-chatbots.html](https://www.pcworld.com/article/1424575/chatgpt-is-the-future-of-ai-chatbots.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2022-12-05 15:42:47+00:00
+ - Starred: False
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Someone on the Internet wrote that ChatGPT just made the first two years of high-school homework meaningless, and that&rsquo;s not far off. OpenAI&rsquo;s new AI text-generation tool currently offers sophisticated, lengthy and even fun responses to textual prompts, currently all for free.</p>
+
+
+
+<p>ChatGPT is part Wikipedia, part researcher, part analyst, and part poet. It can write a short paper on the causes and outcomes of the French Revolution. It can write a seven-paragraph essay on why nihilism should be your personal philosophy. It can write an epic poem on the need to brush your teeth regularly. It can write a formal, yet sarcastic letter to your neighbor on why he shouldn&rsquo;t trim your trees without permission.</p>
+
+
+
+<p>It&rsquo;s breathtaking. It&rsquo;s also scary when you think about its potential to mimic human prose and poetry.</p>
+
+
+
+<p><a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://chat.openai.com/chat&amp;xcust=2-2-1424575-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">ChatGPT</a> is currently in &ldquo;free research preview,&rdquo; which means that you can use the service for free. It does require you to sign up for OpenAI, which can be as simple as authenticating the service via your Gmail account. Once inside, you get a seemingly limitless numbers of text prompts to play with. But don&rsquo;t expect this to last forever, because OpenAI typically licenses its models to third parties and then takes it own service offline.</p>
+
+
+
+<p>What separates ChatGPT from other AI chatbot tools is the length and detail of its responses. GPT-3 is a language model built by OpenAI, and it&rsquo;s been taught to understand the relationships between billions of words. (And in fact, ChatGPT uses GPT 3.5, a more sophisticated version.) Though not mainstream, <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://neuebits.com/gpt3-text-generator/&amp;xcust=2-2-1424575-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">GPT-3 text generators</a> are now relatively common as tools to quickly dash off SEO-optimized marketing copy, construct basic blog posts, and so on. It&rsquo;s similar to <a href="https://www.pcworld.com/article/788422/how-to-get-started-with-ai-art-dall-e-mini-ai-dungeon-and-more.html">AI art</a>, which uses natural-language text to generate unique images based upon material the algorithm has found on the Internet and in other sources.</p>
+
+
+
+<p>Most text generators are basic, both in content and in length. ChatGPT is something else entirely. Using ChatGPT to write an essay on nihilism probably wouldn&rsquo;t fool the instructor of a high-level college philosophy course. But it&rsquo;s feasible that the ChatGPT essay could read like the work of a high school student. You be the judge:</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="ChatGPT nihilism" class="wp-image-1424576" height="1200" src="https://b2c-contenthub.com/wp-content/uploads/2022/12/ChatGPT-Nihilism.png?w=1135" width="1135" /><figcaption>Open the image  in a new tab if you need to zoom in. </figcaption></figure><a class="imageCredit" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://chat.openai.com/chat&amp;xcust=2-2-1424575-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">Mark Hachman / IDG</a></div>
+
+
+
+<p>Prompting the tool to ask a common question about <em>The Lord of the Rings</em>&mdash;&rdquo;Why didn&rsquo;t the giant eagles fly Frodo to Mt. Doom?&rdquo;&mdash;generated the response below. It&rsquo;s worth noting that ChatGPT, like instances of AI art, uses a different &ldquo;seed&rdquo; for its responses, which you can recycle using the &ldquo;Try again&rdquo; button. (An earlier version of this query made the good point that the eagles would be subject to the power of the One Ring, which this response omits.)</p>
+
+
+
+<p>But OpenGPT also understands the context of the question without it needing it to be explained.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="ChatGPT Frodo eagles Mt. Doom" class="wp-image-1424577" height="961" src="https://b2c-contenthub.com/wp-content/uploads/2022/12/Chat-AI-Frodo-Mount-doom.png?w=1200" width="1200" /></figure><a class="imageCredit" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://chat.openai.com/chat&amp;xcust=2-2-1424575-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">Mark Hachman / IDG</a></div>
+
+
+
+<p>ChatGPT was also trained to continue conversations. The idea of chatbots continuing a running conversation seems a little stale in 2022, and ChatGPT doesn&rsquo;t really demonstrate a &ldquo;personality,&rdquo; per se. <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://openai.com/blog/chatgpt/&amp;xcust=2-2-1424575-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">OpenAI&rsquo;s ChatGPT explainer</a> describes how humans trained ChatGPT by simulating questions <em>and</em> responses, and probing existential questions get shot down, quickly.</p>
+
+
+
+<p>Responding to the question, &ldquo;Do you want to be alive?,&rdquo; the chatbot wrote, &ldquo;As a machine learning model, I do not have the ability to want or desire anything. I am programmed to provide accurate and relevant information to humans on a wide range of topics, and I do not have the capacity to have personal preferences or aspirations.&rdquo; Pretty dull stuff.</p>
+
+
+
+<p>Where ChatGPT really shines is in its ability to understand relationships, which can have some unexpected benefits. First, OpenAI claims ChatGPT has the ability to understand code. Second, instead of having something explained to you on a static Web page, ChatGPT allows you to ask a complex question and then follow up. That&rsquo;s a few steps beyond Google, which requires you to enter a query, then select a response&mdash;and one that might not end up being the most appropriate to your question.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="OpenGPT3 code" class="wp-image-1424578" height="1080" src="https://b2c-contenthub.com/wp-content/uploads/2022/12/ChatGPT-code.png?w=1200" width="1200" /><figcaption>An example of code OpenAI says it can understand and correct.</figcaption></figure><a class="imageCredit" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://openai.com/blog/chatgpt/&amp;xcust=2-2-1424575-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">OpenAI</a></div>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet"><p dir="ltr" lang="en">Being able to effortlessly string together cloud services to do complex tasks is an underrated use case. <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://t.co/9znYBUgEER&amp;xcust=2-2-1424575-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">pic.twitter.com/9znYBUgEER</a></p>&mdash; Amjad Masad &#10261; (@amasad) <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://twitter.com/amasad/status/1598089698534395924?ref_src=twsrc%5Etfw&amp;xcust=2-2-1424575-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">November 30, 2022</a></blockquote>
+</div><figcaption>ChatGPT can bs used a quick but powerful engineering tool, too.</figcaption></figure>
+
+
+
+<h2 id="getting-weird-with-chatgpt">Getting weird with ChatGPT</h2>
+
+
+
+<p>ChatGPT shines in the same way that makes AI art so compelling: The limits of what it can do are far, far broader than what you would expect.</p>
+
+
+
+<p>Similar to AI art, you can prompt ChatGPT to try out different styles of writing, which can lead to some strange, unusual and sometimes rather magical responses. Some simply don&rsquo;t work: &ldquo;Write a version of &ldquo;Who&rsquo;s on First&rdquo; about computer mice&rdquo; wasn&rsquo;t all that sharp. &ldquo;Tell me how to install an SSD in the style of a 1940&rsquo;s gangster&rdquo; returned a decent, informative response, though it wasn&rsquo;t particularly amusing.</p>
+
+
+
+<p>However, asking it to write an epic poem about the need for good oral hygiene (misspelled in the prompt) returned this, alongside a limerick:</p>
+
+
+
+<figure class="wp-block-jetpack-image-compare"><div class="juxtapose"><img alt="ChatGPT epic poem oral hygiene" class="image-compare__image-before" height="1062" id="1424580" src="https://b2c-contenthub.com/wp-content/uploads/2022/12/epic-poem-oral-hygeine-ChatGPT.png" width="1618" /><img alt="ChatGPT limerick" class="image-compare__image-after" height="565" id="1424583" src="https://b2c-contenthub.com/wp-content/uploads/2022/12/Chat-AI-limerick-small.png" width="863" /></div></figure>
+
+
+
+<p>And, of course, the Internet came up with other examples.</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet"><p dir="ltr" lang="en">I asked ChatGPT to rewrite Bohemian Rhapsody to be about the life of a postdoc, and the output was flawless: <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://t.co/qe1lI66aa7&amp;xcust=2-2-1424575-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">pic.twitter.com/qe1lI66aa7</a></p>&mdash; Rapha&euml;l Milli&egrave;re (@raphaelmilliere@sigmoid.social) (@raphaelmilliere) <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://twitter.com/raphaelmilliere/status/1598469100535259136?ref_src=twsrc%5Etfw&amp;xcust=2-2-1424575-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">December 2, 2022</a></blockquote>
+</div><figcaption>Is this the future of Internet humor?</figcaption></figure>
+
+
+
+<p>ChatGPT also signals the future of smart speakers. Indeed, prompting &ldquo;Hey Google&rdquo; for the weather forecast works great, but Google Assistant can&rsquo;t make a case for which player would be the best left fielder in baseball history, and why. But ChatGPT can do this.</p>
+
+
+
+<p>On the flipside, Google Assistant often tells you where it sources its information from, and what that Web site says about a particular topic. ChatGPT does not, and it can sometimes be wrong. So, while ChatGPT does an excellent job of speaking with authority, experts can still poke holes in its arguments. Like this:</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet"><p dir="ltr" lang="en">I asked <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://twitter.com/OpenAI?ref_src=twsrc%5Etfw&amp;xcust=2-2-1424575-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">@OpenAI</a> ChatGPT to explain memory consistency models, including a comparison of x86 vs. <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://twitter.com/Arm?ref_src=twsrc%5Etfw&amp;xcust=2-2-1424575-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">@Arm</a>. This is a good reminder of why you should NOT just trust AI, and why the machines are not going to be replacing us humans any time soon. <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://twitter.com/hashtag/nonsense?src=hash&amp;ref_src=twsrc%5Etfw&amp;xcust=2-2-1424575-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">#nonsense</a> <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://t.co/ASTn3if7gE&amp;xcust=2-2-1424575-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">pic.twitter.com/ASTn3if7gE</a></p>&mdash; Jon Masters &#127988;&zwj;&#9760;&#65039; (@jonmasters) <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://twitter.com/jonmasters/status/1598749857237303302?ref_src=twsrc%5Etfw&amp;xcust=2-2-1424575-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">December 2, 2022</a></blockquote>
+</div></figure>
+
+
+
+<p>Interestingly, you can tell ChatGPT that it&rsquo;s wrong, and it&rsquo;s programmed to factor that information into its responses. What that means for the future of disinformation, though, is unclear. I didn&rsquo;t make an effort to &ldquo;teach&rdquo; it, well, <a href="https://www.pcworld.com/article/420242/the-internet-turns-tay-microsofts-millennial-ai-chatbot-into-a-racist-bigot.html">the things that forced Microsoft&rsquo;s chatbot, Tay, offline</a> in 2016. But it&rsquo;s not unbelievable that others might try to do just that.</p>
+
+
+
+<p>In case you&rsquo;re wondering about ChatGPT&rsquo;s utility as an academic (read: plagiarism) tool, I copied the short nihilism essay into a <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://papersowl.com/free-plagiarism-checker&amp;xcust=2-2-1424575-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">free online plagiarism checker at Papersowl.com</a>, and the response came back 84 percent original. The French revolution was labeled as 56 percent plagiarized, though it looked like words and phrases were copied from several sources, not chunks of text. Can you imagine teaching high-school English, history or any other written subject in a ChatGPT world?</p>
+
+
+
+<p>Right now, ChatGPT feels a little like peering into the future of the Internet. And that&rsquo;s both fascinating and a little bit scary.</p>
+
+Artificial Intelligence, Utilities</div>
+
+## Nab this powerful Lenovo ThinkPad laptop for 49% off
+ - [https://www.pcworld.com/article/1425473/this-powerful-lenovo-thinkpad-laptop-is-49-off.html](https://www.pcworld.com/article/1425473/this-powerful-lenovo-thinkpad-laptop-is-49-off.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2022-12-05 15:10:22+00:00
+ - Starred: False
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>If you&rsquo;re looking for a serious productivity laptop, you&rsquo;re in luck, as we&rsquo;ve got a killer deal for you today. Lenovo&rsquo;s selling the <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadx1/thinkpad-x1-carbon-gen-10-(14-inch-intel)/21cbcto1wwus1&amp;xcust=2-2-1425473-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Lenovo ThinkPad X1 Carbon Gen 10 for $1,203.10</a>, which is a savings of $1,195.09. Not only does this laptop have powerful hardware and a bright screen, but it&rsquo;s also lightweight. Let&rsquo;s dive right in.</p>
+
+
+
+<p>The ThinkPad X1 is packing an Intel Core i5-1240P CPU, Intel Iris Xe graphics, 8GB of RAM, and 256GB of SSD storage. That&rsquo;s powerful enough for spreadsheet work, Word processing, watching Netflix, checking e-mail, and so on. The 14-inch display has a 1920&times;1200 resolution and narrow bezels. According to Lenovo, the display measures up to 400 nits of brightness. If that number rings true, then you can expect a bright and vivid display. There&rsquo;s also a fingerprint scanner for additional security, which is great if you plan on storing any sensitive files.</p>
+
+
+
+<p>This is a killer deal. Don&rsquo;t miss out.</p>
+
+
+<p class="cta wp-block wp-block-button"><a class="cta__btn" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadx1/thinkpad-x1-carbon-gen-10-(14-inch-intel)/21cbcto1wwus1&amp;xcust=2-2-1425473-7-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">Get the Lenovo ThinkPad X1 Carbon Gen 10 for $1,203.10 at Lenovo</a></p>
+Laptops</div>
+
+## Steam’s most popular GPU isn’t the one you think it is
+ - [https://www.pcworld.com/article/1425482/steams-most-popular-gpu-isnt-the-one-you-think-it-is.html](https://www.pcworld.com/article/1425482/steams-most-popular-gpu-isnt-the-one-you-think-it-is.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2022-12-05 15:04:24+00:00
+ - Starred: False
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>With tens of millions of users, most of which log in daily, Steam is the de facto platform home of PC gaming. That gives Valve&rsquo;s storefront a massive amount of user data, which it occasionally shares with the rest of us via the <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://store.steampowered.com/hwsurvey/Steam-Hardware-Software-Survey-Welcome-to-Steam&amp;xcust=2-2-1425482-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">monthly hardware survey</a>. This month sees a new king of the world for graphics cards, and one that might just surprise you: the humble Nvidia GeForce GTX 1650. </p>
+
+
+
+<p>Also, just to cover my bases, it might not surprise you if you&rsquo;re a game industry analyst or just an obsessive follower of PC trends and data. Yes, you&rsquo;re very impressive, please don&rsquo;t tweet at me. </p>
+
+
+
+<p>The GTX 1650 takes over from the previous leader, the GTX 1060, released way back in 2016. The new top of the GPU crop has a hair over 6 percent of the market, meaning a little more than one in twenty Steam users is rocking the budget hardware on their gaming PCs. The GTX 1060 is right behind at 5.58 percent of the userbase while the first graphics card from the more recent generations to hit the list is the laptop version of the RTX 3060, at 4.46 percent. </p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="Steam GPU user survey, November 2022" class="wp-image-1425507" height="920" src="https://b2c-contenthub.com/wp-content/uploads/2022/12/steam-graphics-cards-november-2022.jpg?quality=50&amp;strip=all" width="600" /></figure><p class="imageCredit">Valve</p></div>
+
+
+
+<p>The first mid-high card on the list is the RTX 3070, 2.35 percent, with less than half the users of the GTX 1650. Other RTX 3000-series cards are struggling to gain ground at the top of the list, even though it&rsquo;s dominated by Nvidia hardware &mdash; the first AMD entry is the generic and integrated &ldquo;AMD Radeon Graphics&rdquo; at number thirteen, 1.86 percent. The first discrete AMD GPU on the list is the Radeon RX 580, released in 2017. </p>
+
+
+
+<p>The various configurations of the GTX 1650 were released between April 2019 and June 2020, making it a significant improvement over the GTX 1060 in calendar terms. The &ldquo;16&rdquo; series was a slight upgrade over the 1000 series, a budget alternative to the new RTX cards. But a 4GB GPU that launched around the $150 mark and still fetching $175-200 at street prices due to high demand isn&rsquo;t what anyone thinks of when they consider the bombastic, high-powered desktops that feature in PC build guides on YouTube or Reddit. </p>
+
+
+
+<p>Steam statistics don&rsquo;t necessarily reflect every aspect of PC gaming, but they&rsquo;re an excellent bellwether. The continued popularity of affordable, easy-to-find GPUs should be a humbling reminder to game developers and hardware sellers (and perhaps hoity-toity tech journalists like yours truly) that not everyone is reaching for 4K and 120FPS performance. It also contextualizes the <a href="https://www.pcworld.com/article/1354391/nvidia-cancels-the-controversial-rtx-4080-12gb.html" rel="noreferrer noopener" target="_blank">user pushback against Nvidia&rsquo;s recent massive price hikes</a>, not to mention AMD and Intel&rsquo;s decisions to price new cards a little lower <a href="https://www.pcworld.com/article/1341464/intel-arc-a770-a750-graphics-card-xe-hpg-review.html" rel="noreferrer noopener" target="_blank">and much lower, respectively</a>. </p>
+
+GPUs</div>
+
+## MSI MAG Z790 Tomahawk WiFi DDR4 review: Next-gen CPUs meet mainstream RAM
+ - [https://www.pcworld.com/article/1398387/msi-mag-z790-tomahawk-wifi-ddr4-motherboard-review.html](https://www.pcworld.com/article/1398387/msi-mag-z790-tomahawk-wifi-ddr4-motherboard-review.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2022-12-05 11:30:00+00:00
+ - Starred: False
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section><div class="review" id="review-body"><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
+<div><div class="review-columns"><div class="review-column"><h3 class="review-subTitle" id="pros">Pros</h3><ul class="pros review-list"><li>Great for both gamers and no-frills content creators&nbsp;</li><li>Good offering of I/O, M.2 slots, and plenty of USB&nbsp;</li><li>Edgy, but clean design</li></ul></div><div class="review-column"><h3 class="review-subTitle" id="cons">Cons</h3><ul class="cons review-list"><li>Gamers wanting more RGB flare will need to look elsewhere&nbsp;&nbsp;&nbsp;</li><li>MSRP of $309 is fair, but we&rsquo;d like to see this DDR4 version cheaper due to no DDR5 and more limited PCIe Gen 5</li></ul></div></div></div><h3 class="review-subTitle review-subTitle--borderTop" id="our-verdict">Our Verdict</h3><p class="verdict">The MSI MAG Z790 Tomahawk WiFi DDR4 combines a decent set of features with a clean, if understated, design. It will likely appeal to gamers and content creators who don&rsquo;t want anything too flashy. Overall, it packs a good amount of features into a relatively inexpensive motherboard, but the lack of DDR5 is bit disappointing. </p>
+</div>
+
+
+<p>Intel&rsquo;s 13th-generation CPUs bring with them stellar performance, and part of their appeal is the varied motherboard ecosystem making entry more affordable.&nbsp;Remember, AMD&rsquo;s AM5 Ryzen 7000 launch was somewhat stymied due to high platform costs, such as being DDR5-only.&nbsp;</p>
+
+
+
+<p>Enter the MSI MAG Z790 Tomahawk WiFi DDR4. Yes, that&rsquo;s DDR4&mdash;a cheaper option for Intel fans who are still hesitant to drop the big bucks on DDR5.&nbsp;</p>
+
+
+
+<p>With a reasonable price point, healthy offering of features, and an interesting design, this motherboard wants you to join the next generation. We&rsquo;ll look at the specs, features, design, and performance attributes. Will the Tomahawk make your transition to the next gen a no-brainer? Let&rsquo;s find out!</p>
+
+
+
+<h2><strong>MSI MAG Z790 Tomahawk WiFi DDR4: The specs</strong></h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="MSI MAG Z790 Tomahawk Wifi DDR4" class="wp-image-1398431" height="723" src="https://b2c-contenthub.com/wp-content/uploads/2022/11/Screenshot-2022-11-16-at-4.25.36-PM.png?w=1200" width="1200" /></figure><p class="imageCredit">Thiago Trevisan</p></div>
+
+
+
+<p>The MSI MAG Z790 Tomahawk WiFi DDR4 &ldquo;tomahawks&rdquo; in at an MSRP of $309. The DDR5 version is also available for a cool &lsquo;extra 10 bucks.&nbsp;</p>
+
+
+
+<p>Let&rsquo;s briefly list the specs, and then we&rsquo;ll discuss what features are most important to keep in mind. You&rsquo;ll be free to install either Intel&rsquo;s 12th- or 13th-generation CPUs with this Z790 motherboard. Plus, you&rsquo;re getting the benefits of the Z790 chipset, such as WiFi 6E and 2.5GbE LAN.&nbsp;</p>
+
+
+
+<p>The unboxing experience is ordinary. No fancy packaging or quirky accessories here&mdash;just some SATA cables, Wi-Fi antennas, and a USB drive. You do get some cable stickers, so there&rsquo;s some pizzaz for you there!&nbsp;</p>
+
+
+
+<ul><li>ATX form factor&nbsp;</li><li>Support for both Intel 12th- and 13th-gen CPUs&nbsp;</li><li>16+1+1 &ldquo;Duet Rail Power System&rdquo;&nbsp;</li><li>DDR4 RAM, dual channel up to 4 DIMMs 128GB</li><li>PCIe Gen 5.0 16x slot&nbsp;&nbsp;</li><li>4x onboard M.2 slots, (PCIe Gen 4)&nbsp;</li><li>HDMI and DisplayPort-out&nbsp;</li></ul><ul><li>10 USB ports on back, including&nbsp; USB 3.2 Gen 2&times;2 20Gb/s</li><li>Intel Wi-Fi 6E&nbsp;</li><li>Intel 2.5GbE LAN</li><li>RGB Mystic Light header</li><li>7 SATA 6Gb/s ports&nbsp;</li><li>8 PWM fan headers&nbsp;</li><li>BIOS Flashback and Clear CMOS buttons</li><li>Audio: ALC4080 Codec&nbsp;&nbsp;</li><li>MSI M2 Ez Clip&nbsp;</li><li>MSRP $309</li></ul><h2 id="msi-mag-z790-tomahawk-wifi-ddr4-features">MSI MAG Z790 Tomahawk WiFi DDR4: Features</h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="MSI MAG Z790 Tomahawk Wifi DDR4" class="wp-image-1398433" height="744" src="https://b2c-contenthub.com/wp-content/uploads/2022/11/Screenshot-2022-11-16-at-4.27.43-PM.png?w=1200" width="1200" /><figcaption><p>Plenty of SATA ports and NVMe slots on the MSI MAG Z790 Tomahawk WiFi DDR4.</p> </figcaption></figure><p class="imageCredit">Thiago Trevisan</p></div>
+
+
+
+<p>The Tomahawk has a balanced feature set that has gamers and content creators in mind. (If you can live with a few compromises for the price.)</p>
+
+
+
+<p>First, this version will have DDR4. This makes it cheaper and easier for more users to enter the fray, as DDR5 is still more expensive. Performance is certainly better on DDR5, but it has diminishing returns for the cost. If your particular use case requires faster DDR5, you can always opt for the alternate Tomahawk version.&nbsp;</p>
+
+
+
+<p>You will get PCIe Gen 5 for the 16x GPU slot, which is more than sufficient as even the Nvidia RTX 40 series tops out at Gen 4. You&rsquo;ll have Gen 4 on the four onboard NVMe drives as well, once again more than sufficient for most users.&nbsp;</p>
+
+
+
+<p>You&rsquo;ll be treated to seven SATA ports&mdash;more than average of many motherboards recently. This will likely only appeal to some content creators who make heavy use of storage. Gamers will be more than fulfilled with the four NVMe slots, making for fast and cable-free builds! An extra plus is the MSI Ez M.2 system, for easier installation.</p>
+
+
+
+<p>You&rsquo;ll get a decent selection of USB ports, up to 10 on the back. Speedy USB 3.2 2&times;2 20Gb/s is also here, making content creators happy. No USB 4 or Thunderbolt&mdash;you&rsquo;ll have to opt for a more expensive motherboard for those type of options.&nbsp;</p>
+
+
+
+<p>Standard features such as Wi-Fi 6E, Intel 2.5GbE LAN, and the ALC4080 audio codec are all here. (Ample audio connections are a nice addition.) These features are often found on more expensive motherboards as well, so you&rsquo;re getting a good baseline for the price here.</p>
+
+
+
+<p>Of course, Clear CMOS and Flash BIOS are present, and are a blessing for anyone who installs and/or tinkers with hardware. The motherboard features debug LEDs, although we do miss the easier-to-read digital-code displays available on some higher-end motherboards.&nbsp;</p>
+
+
+
+<p>There&rsquo;s no &ldquo;Start&rdquo; button on the motherboard itself, but plenty of PWM fan and RGB headers. You&rsquo;ll have more than enough options for CPU fans, and even CPU AIO coolers.&nbsp;</p>
+
+
+
+<p>Overall, it offers a healthy feature set for gamers, as well as many content creators. Only very demanding users will need more features on higher-priced boards. (Such as 10GbE LAN, USB 4, and more PCIe Gen 5.)</p>
+
+
+
+<h2 id="msi-mag-z790-tomahawk-wifi-ddr4-design">MSI MAG Z790 Tomahawk WiFi DDR4: Design</h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="MSI MAG Z790 Tomahawk Wifi DDR4" class="wp-image-1398435" height="858" src="https://b2c-contenthub.com/wp-content/uploads/2022/11/Screenshot-2022-11-16-at-4.26.27-PM.png?w=1200" width="1200" /><figcaption><p>Sleek, but understated design on the MSI MAG Z790 Tomahawk WiFi DDR4.</p> </figcaption></figure><p class="imageCredit">Thiago Trevisan</p></div>
+
+
+
+<p>The $309 MSRP MSI MAG Z790 Tomahawk WiFi DDR4 comes with a very straightforward, monochromatic design. Its overall dark aesthetic features nuanced design elements within the I/O shroud and as &ldquo;armor&rdquo; throughout.&nbsp;</p>
+
+
+
+<p>The VRM heatsink looks substantial, and packs some serious angles. Continuing to the PCIe area, the M.2 &ldquo;Shield Frozn&rdquo; coverings are both functional and attractive. Materials used throughout are good quality, with a sharp design you can imagine in the hands.&nbsp;</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="MSI MAG Z790 Tomahawk Wifi DDR4" class="wp-image-1398439" height="793" src="https://b2c-contenthub.com/wp-content/uploads/2022/11/Screenshot-2022-11-16-at-4.27.11-PM.png?w=1200" width="1200" /><figcaption><p>MSI MAG Z790 Tomahawk WiFi DDR4&rsquo;s run-of-the-mill backplate.</p> </figcaption></figure><p class="imageCredit">Thiago Trevisan</p></div>
+
+
+
+<p>The backplate area is run-of-the-mill as expected for a motherboard of this class. You&rsquo;ll need more expensive options if you want a heavy-duty backplate.&nbsp;</p>
+
+
+
+<p>The I/O shroud area is nicely designed on all sides&mdash;and comes with an integrated I/O shield to boot! The rest of the motherboard is typical, and it is an understated design. The blacked-out look is preferred here over the mirror finishes or RGB of flashier motherboards. It fits the Tomahawk branding nicely!</p>
+
+
+
+<h2 id="msi-mag-z790-tomahawk-wifi-ddr4-performance-software-and-bios">MSI MAG Z790 Tomahawk WiFi DDR4: Performance, software, and BIOS</h2>
+
+
+
+<p>With the VRMs clocking in with a 16+1+1 &ldquo;Duet Rail&rdquo; design, it has the chops to handle the newest Intel CPUs. While it will do fine with the i9-13900K, many users may find a better &ldquo;bang for the buck&rdquo; by pairing a 13600K, or even 13700K with this class of motherboard. That may save you some money if you&rsquo;re not going after top performance, alongside the DDR4 savings. DDR5 would in theory be faster, but you&rsquo;re trading cost for very minor performance gains in most cases.</p>
+
+
+
+<p>Performance on other areas will match most high-end motherboards in real-world use. Sure, you don&rsquo;t get as many PCIe Gen 5 lanes, but Gen 4 is more than enough. Four onboard NVMe drives will scream&mdash;and Gen 5 drives are not even readily available yet. It&rsquo;s starting to look like all you&rsquo;ll need for those $309 bucks!</p>
+
+
+
+<p>If you want to &ldquo;get to know&rdquo; your motherboard better, the best place is in the BIOS. MSI has done a great job making its BIOS easier to navigate and more intuitive in recent iterations. You&rsquo;ll find everything from memory profiles and CPU overclocking, to BIOS updates and power settings.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="MSI MAG Z790 Tomahawk Wifi DDR4" class="wp-image-1398440" height="740" src="https://b2c-contenthub.com/wp-content/uploads/2022/11/Screenshot-2022-11-17-at-4.14.56-PM.png?w=1200" width="1200" /><figcaption><p>From MSI&rsquo;s Z790 Tomahawk motherboard page: Driver Utility Installer.</p>
+</figcaption></figure><p class="imageCredit">Thiago Trevisan</p></div>
+
+
+
+<p>Other items can also be accessed in MSI&rsquo;s software suite. Its &ldquo;MSI Center&rdquo; has a wide variety of utility, from adjusting fan profiles, to setting the Mystic Light RGB options. If you&rsquo;d prefer to avoid checking MSI&rsquo;s website for drivers, you can use MSI&rsquo;s Driver Utility Installer to find driver updates at the touch of a button. Overall, it&rsquo;s a nice &ldquo;extra&rdquo; that can save some time from digging into the BIOS for quick adjustments.</p>
+
+
+
+<h2 id="should-you-buy-the-msi-mag-z790-tomahawk-wifi-ddr4">Should you buy the MSI MAG Z790 Tomahawk WiFi DDR4?</h2>
+
+
+
+<p>The MSI MAG Z790 Tomahawk WiFi DDR4 combines a competent feature set with a sleek understated design. This will appeal to gamers, and content creators who don&rsquo;t need all the bells and whistles.&nbsp;</p>
+
+
+
+<p>With an MSRP of $309, it&rsquo;s far from a budget offering&mdash;but alongside DDR4 it keeps platform costs more reasonable while still granting access to next-gen power. That&rsquo;s one advantage the Z790 chipset has over the new AMD AM5 platform, which has a higher overall cost of entry.&nbsp;</p>
+
+
+
+<p>The Tomahawk offers most of the features, and a few nice extras, that you&rsquo;d expect from pricier models. Great I/O, many USB ports, and minimal unnecessary expensive options. This saves cost, while still including most of the goodies.</p>
+Motherboards</div>
+
+## Is gigabit internet worth it? Only if you meet these 3 criteria
+ - [https://www.pcworld.com/article/1419298/gigabit-internet-might-be-overkill.html](https://www.pcworld.com/article/1419298/gigabit-internet-might-be-overkill.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2022-12-05 11:00:00+00:00
+ - Starred: False
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>If you ever need a textbook example of misleading marketing, just look at what some internet providers are saying about gigabit internet service.</p>
+
+
+
+<p>Cable companies would have you believe that speeds upwards of 1 Gbps are essential for modern internet use. A gigabit connection &ldquo;lets you multitask,&rdquo; <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.cox.com/residential/articles/gigabit-internet-speeds-worth-upgrade.html&amp;xcust=2-1-1419298-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Cox&rsquo;s website proclaims</a>, suggesting that it&rsquo;s important for &ldquo;scrolling through your Instagram feed on your phone while simultaneously streaming Netflix and surfing Amazon Prime on your laptop.&rdquo; Likewise, Comcast says to <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.xfinity.com/hub/internet/what-is-gigabit-internet&amp;xcust=2-1-1419298-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">consider gigabit speeds</a> if &ldquo;your family loves to stream movies and TV while playing bandwidth-hungry games and downloading the latest apps on your smartphone.&rdquo;</p>
+
+
+
+<p>For the sake of keeping this article family-friendly, the term I will use for these claims is &ldquo;exaggeration.&rdquo; Gigabit speeds are overkill for the vast majority of internet users, but with more people ditching cable TV and girding their homes for remote work, internet providers have found a golden opportunity to push unnecessary upgrades with fatter profit margins. So it&rsquo;s no surprise that they&rsquo;re capitalizing on gigabit internet confusion.</p>
+
+
+
+<h2 id="why-gigabit-internet-may-be-overkill">Why gigabit internet may be overkill</h2>
+
+
+
+<p>Consider the facts:</p>
+
+
+
+<ul><li>Netflix recommends download speeds of 25 Mbps for 4K HDR video. That means you&rsquo;d need 40 simultaneous streams&mdash;10 times more than what Netflix&rsquo;s 4K plan even allows&mdash;to make full use of a gigabit connection.</li><li>Zoom recommends speeds of 3.8 Mbps for 1080p videoconferencing. Bandwidth would only become a problem if you had more than 263 video calls going at the same time.</li><li>Tidal reports a maximum bitrate of 9216 Kbps for master quality streaming audio. You&rsquo;d have to stream on more than 108 devices at a time to run out of bandwidth on a gigabit connection.</li></ul><p>Gigabit internet may require additional hardware investment as well. If you have your own cable modem, you&rsquo;ll <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.nytimes.com/wirecutter/reviews/best-cable-modem/&amp;xcust=2-1-1419298-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">need one with DOCSIS 3.1 support</a> to get gigabit speeds from most providers. Some routers&mdash;including <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://evanmccann.net/blog/eero-pro-gigabit-mesh&amp;xcust=2-1-1419298-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">older Eero models</a>&mdash;don&rsquo;t support gigabit speeds either.</p>
+
+
+
+<p>Anecdotally, I&rsquo;ve been quite satisfied with 200 Mbps speeds from Spectrum. While negotiating a lower price from the company a couple years ago, I even declined their offer for a &ldquo;free&rdquo; 400 Mbps upgrade because I didn&rsquo;t want to get smacked with a steep price hike once that promo rate expired.</p>
+
+
+
+<p>I&rsquo;m writing this because I&rsquo;ve heard from too many folks who&rsquo;ve been led to believe that faster speeds will eliminate buffering and other connection problems. Fact is, most of the time, those issues can be solved with the same speeds on <a href="https://www.pcworld.com/article/695032/how-to-fix-wifi-router-issues.html">a better Wi-Fi router</a>.</p>
+
+
+
+<p>All that said, there are some scenarios where gigabit internet service makes sense. If you&rsquo;re going to spend extra, it should be for one of a few specific reasons:</p>
+
+
+
+<h2 id="gigabit-justification-1-you-need-faster-upload-speeds">Gigabit justification 1: You need faster upload speeds</h2>
+
+
+
+<p>Oddly enough, the biggest reason to pay for gigabit internet has nothing to do gigabit speeds. Instead, you might need a faster cable internet plan just to get better upload speeds for backing up data or participating in video calls. While upload speeds can vary by cable internet provider, they tend to be much slower than what you get for download speeds, leading to more noticeable bottlenecks.</p>
+
+
+
+<p>With Comcast, for instance, a plan with 200 Mbps download speeds only offers upload speeds of 10 Mbps. Just to double those upload speeds to 20 Mbps, you&rsquo;d need to upgrade to much more expensive gigabit plan.</p>
+
+
+
+<p>Unfortunately, this is a common problem among cable providers <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://superuser.com/questions/1519893/why-does-a-gigabit-sec-internet-connection-via-cable-coax-not-offer-symmetrica&amp;xcust=2-1-1419298-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">due to the way they&rsquo;ve built their networks</a>, so you&rsquo;ll find similar &ldquo;asymmetric&rdquo; speeds on Spectrum and Cox as well. (They also take pains to <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://arstechnica.com/tech-policy/2021/03/comcast-hides-upload-speeds-deep-inside-its-infuriating-ordering-system/&amp;xcust=2-1-1419298-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">hide this pitiful fact from new customers</a>.)</p>
+
+
+
+<p>But even as a ticket to faster uploads, gigabit service might still be excessive. I&rsquo;ve found that Spectrum&rsquo;s 10 Mbps upload speeds have been fine for two simultaneous Zoom sessions. And if you have a fiber-optic internet provider in your area, this issue probably doesn&rsquo;t apply. Verizon and AT&amp;T both offer equal download and upload speeds for their fiber service, so you can safely stick with sub-gigabit plans.</p>
+
+
+
+<h2 id="gigabit-justification-2-youve-got-a-specialized-use-case-in-mind">Gigabit justification 2: You&rsquo;ve got a specialized use case in mind</h2>
+
+
+
+<p>To see if I was missing anything, I recently asked folks on Twitter what actual use cases existed for gigabit internet service, and I got a few interesting responses.</p>
+
+
+
+<p>KTLA tech reporter RIch DeMuro <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://twitter.com/richontech/status/1393282116314537986&amp;xcust=2-1-1419298-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">said</a> he has to transfer huge video files on a daily basis for his broadcast TV job, so the gigabit speeds come in handy. Consumer Reports&rsquo; Nicholas De Leon <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://twitter.com/nicholasadeleon/status/1393271754106318853&amp;xcust=2-1-1419298-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">said</a> he likes being able to download PC and console games faster. A computer consultant named &ldquo;Max&rdquo; <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://twitter.com/Max_TWS/status/1393271761496576006&amp;xcust=2-1-1419298-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">said</a> he needs the speeds to back up his clients&rsquo; computers every night.</p>
+
+
+
+<p>Those all sound like legitimate use cases, but they&rsquo;re also quite specific. They also assume that whatever server you&rsquo;re contacting supports gigabit speeds as well, which isn&rsquo;t always the case. (This becomes painfully clear whenever my PlayStation 4 needs a large software update.)</p>
+
+
+
+<h2 id="gigabit-justification-3-you-want-the-bragging-rights">Gigabit justification 3: You want the bragging rights</h2>
+
+
+
+<p>Even if you can&rsquo;t think of a particular use for gigabit internet, maybe you just want the satisfaction that comes from having the fattest data pipe available. That way, if any high-bandwidth applications do come around, you&rsquo;ll be well-prepared, and on some level you&rsquo;re establishing a market for those use cases in the first place.</p>
+
+
+
+<p>As a tech enthusiast myself, I&rsquo;m not going to deny anyone&rsquo;s right to technological excess. Just don&rsquo;t have any illusions about what, exactly, you&rsquo;re paying for.</p>
+
+
+
+<p><em>This column originally appeared in Jared&rsquo;s <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://advisorator.com/free&amp;xcust=2-1-1419298-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Advisorator</a> newsletter. <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://advisorator.com/free&amp;xcust=2-1-1419298-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Sign up</a> to get tech tips in your inbox every week.</em></p>
+Internet, Internet Service Providers</div>
+
+## This top-rated security camera will arrive in time for the holidays with free shipping
+ - [https://www.pcworld.com/article/1417988/this-top-rated-security-camera-will-arrive-in-time-for-the-holidays-with-free-shipping.html](https://www.pcworld.com/article/1417988/this-top-rated-security-camera-will-arrive-in-time-for-the-holidays-with-free-shipping.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2022-12-05 08:00:00+00:00
+ - Starred: False
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section><p>Your health and safety&mdash;and that of your family&mdash;are priceless. One of the easiest ways to protect your home and your loved ones is with a&nbsp;<a href="https://shop.pcworld.com/sales/x1-indoor-security-camera?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=x1-indoor-security-camera&amp;utm_term=scsf-458547&amp;utm_content=a0x1P000004YrXmQAK&amp;scsonar=1" rel="noreferrer noopener" target="_blank">home security camera</a>, and this year, you can get one in time for the holidays as part of our Last Chance Sale.</p>
+
+
+
+<p>The Bosma&nbsp;X1 records all movement in your home with a 145-degree wide-angle view and 360 degrees of rotation in 1080p, allowing you to get a crisp live stream of what&rsquo;s happening in your home 24/7. Whether you&rsquo;re trying to fend off porch pirates or ensure there&rsquo;s no&nbsp;<em>Home Alone</em>&nbsp;situation happening at your house, this camera gives you smart alerts via the Bosma app and can scare off would-be intruders, thanks to its two-way communication and a built-in 110dB siren. It even works with Amazon Alexa.</p>
+
+
+
+<p>Find out why the&nbsp;<a href="https://shop.pcworld.com/sales/x1-indoor-security-camera?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=x1-indoor-security-camera&amp;utm_term=scsf-458547&amp;utm_content=a0x1P000004YrXmQAK&amp;scsonar=1" rel="noreferrer noopener" target="_blank">X1 Indoor Security Camera</a>&nbsp;was a 2019 Red Dot Award Winner and earned 4.3 out of 5 on Amazon. If you order by December 8, you can get it for 60% off $99 at just $39.99 and lock in free shipping.</p>
+
+
+
+<p><a href="https://shop.pcworld.com/sales/x1-indoor-security-camera?utm_source=pcworld.com&amp;utm_medium=referral-cta&amp;utm_campaign=x1-indoor-security-camera&amp;utm_term=scsf-458547&amp;utm_content=a0x1P000004YrXmQAK&amp;scsonar=1" rel="noreferrer noopener" target="_blank">&nbsp;</a></p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image"><img alt="" src="https://cdnp2.stackassets.com/a42f73f2e23c190a39b363f34da1ce78c9ed7cdf/store/edc9b397e7b389083b24734284a93e7d4b04c69e78fcc016495f04e9817f/sale_27382_primary_image.jpg" /></figure></div>
+
+
+
+<p><strong>X1 Indoor Security Camera &ndash; $39.99</strong></p>
+
+
+
+<p><a href="https://shop.pcworld.com/sales/x1-indoor-security-camera?utm_source=pcworld.com&amp;utm_medium=referral-cta&amp;utm_campaign=x1-indoor-security-camera&amp;utm_term=scsf-458547&amp;utm_content=a0x1P000004YrXmQAK&amp;scsonar=1" rel="noreferrer noopener" target="_blank">Watch Over Your Home</a></p>
+
+
+
+<p><em>Prices subject to change.</em></p>
+Security Cameras</div>
