@@ -1,3 +1,38 @@
+## Meta vows to boycott US news outlets on Facebook if Dem-sponsored ad revenue bill is signed into law
+ - [https://www.foxnews.com/media/meta-vows-boycott-us-news-outlets-facebook-if-dem-sponsored-ad-revenue-bill-signed-into-law](https://www.foxnews.com/media/meta-vows-boycott-us-news-outlets-facebook-if-dem-sponsored-ad-revenue-bill-signed-into-law)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-06 17:30:51+00:00
+ - Persistent: True
+
+
+## Ethereum change cut cryptocurrency power demand
+ - [https://www.bbc.co.uk/news/technology-63872983?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-63872983?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/technology/rss.xml
+ - date published: 2022-12-06 17:23:22+00:00
+ - Persistent: True
+
+
+## EU will reportedly bar Meta from requiring personalized ads
+ - [https://www.engadget.com/eu-meta-personalized-ads-ban-172015041.html?src=rss](https://www.engadget.com/eu-meta-personalized-ads-ban-172015041.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2022-12-06 17:20:15+00:00
+ - Persistent: True
+
+
+## Gmail creator predicts total disruption for Google as chatbot ChatGPT challenges tech giant monopoly
+ - [http://www.msn.com/en-us/news/technology/gmail-creator-predicts-total-disruption-for-google-as-chatbot-chatgpt-challenges-tech-giant-monopoly/ar-AA14Xtpn?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/gmail-creator-predicts-total-disruption-for-google-as-chatbot-chatgpt-challenges-tech-giant-monopoly/ar-AA14Xtpn?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-06 09:05:12.842368+00:00
+ - Persistent: True
+
+
+## W Chinach powstaje atomowa wyspa. Prace już trwają
+ - [https://www.chip.pl/2022/12/atomowa-wyspa-chiny-maly-reaktor-jadrowy](https://www.chip.pl/2022/12/atomowa-wyspa-chiny-maly-reaktor-jadrowy)
+ - RSS feed: https://www.chip.pl/feed
+ - date published: 2022-12-06 04:10:17+00:00
+ - Persistent: True
+
+
 ## Meta is expanding its use of AI face scanning to verify users’ age on Facebook Dating
  - [https://www.theverge.com/2022/12/5/23494175/facebook-dating-ai-face-scanning-age-verification-expansion-yoti](https://www.theverge.com/2022/12/5/23494175/facebook-dating-ai-face-scanning-age-verification-expansion-yoti)
  - RSS feed: https://www.theverge.com/rss/index.xml
