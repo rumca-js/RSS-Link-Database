@@ -1,3 +1,45 @@
+## Apple drops controversial plans for child sexual abuse imagery scanning
+ - [https://www.theverge.com/2022/12/7/23498588/apple-csam-icloud-photos-scanning-encryption](https://www.theverge.com/2022/12/7/23498588/apple-csam-icloud-photos-scanning-encryption)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-07 19:02:52+00:00
+ - Persistent: True
+
+
+## BlackRock CEO faces call to step down amid claims of hypocrisy
+ - [https://www.theguardian.com/business/2022/dec/07/blackrock-ceo-faces-call-to-step-down-amid-claims-of-hypocrisy](https://www.theguardian.com/business/2022/dec/07/blackrock-ceo-faces-call-to-step-down-amid-claims-of-hypocrisy)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-12-07 16:45:07+00:00
+ - Persistent: True
+
+
+## WEF thinks of ways to regulate digital ID in the metaverse
+ - [https://reclaimthenet.org/wef-digital-id-metaverse/](https://reclaimthenet.org/wef-digital-id-metaverse/)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2022-12-07 16:43:32+00:00
+ - Persistent: True
+
+
+## ePUAP do zaorania. Wszystkie sprawy urzędowe załatwisz przez telefon i aplikację mObywatel
+ - [https://www.chip.pl/2022/12/mobywatel-zamiast-epuap](https://www.chip.pl/2022/12/mobywatel-zamiast-epuap)
+ - RSS feed: https://www.chip.pl/feed
+ - date published: 2022-12-07 15:00:00+00:00
+ - Persistent: True
+
+
+## Fauci deposition: Fauci says no one from his office pushed for social media censorship. Documents show they did.
+ - [https://reclaimthenet.org/fauci-deposition/](https://reclaimthenet.org/fauci-deposition/)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2022-12-07 14:56:01+00:00
+ - Persistent: True
+
+
+## China to Stop Welding Homes Shut as Covid Precaution After Protests
+ - [https://gizmodo.com/china-relaxes-harshest-covid-19-rules-after-protests-1849862755](https://gizmodo.com/china-relaxes-harshest-covid-19-rules-after-protests-1849862755)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-12-07 11:00:00+00:00
+ - Persistent: True
+
+
 ## Meta vows to boycott US news outlets on Facebook if Dem-sponsored ad revenue bill is signed into law
  - [https://www.foxnews.com/media/meta-vows-boycott-us-news-outlets-facebook-if-dem-sponsored-ad-revenue-bill-signed-into-law](https://www.foxnews.com/media/meta-vows-boycott-us-news-outlets-facebook-if-dem-sponsored-ad-revenue-bill-signed-into-law)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
@@ -30,6 +72,13 @@
  - [https://www.chip.pl/2022/12/atomowa-wyspa-chiny-maly-reaktor-jadrowy](https://www.chip.pl/2022/12/atomowa-wyspa-chiny-maly-reaktor-jadrowy)
  - RSS feed: https://www.chip.pl/feed
  - date published: 2022-12-06 04:10:17+00:00
+ - Persistent: True
+
+
+## Ben Shapiro: Twitter Files Show 2020 Was Rigged (Not Stolen), But Trump Is Hurting Himself
+ - [https://www.dailywire.com/news/ben-shapiro-twitter-files-show-2020-was-rigged-not-stolen-but-trump-is-hurting-himself](https://www.dailywire.com/news/ben-shapiro-twitter-files-show-2020-was-rigged-not-stolen-but-trump-is-hurting-himself)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-05 18:04:27+00:00
  - Persistent: True
 
 
@@ -8857,6 +8906,13 @@
  - [https://www.youtube.com/watch?v=ylTCTcSM09Y](https://www.youtube.com/watch?v=ylTCTcSM09Y)
  - RSS feed: https://www.youtube.com/@calgaryherald
  - date published: 2020-11-25 08:43:31+00:00
+ - Persistent: True
+
+
+## Does Apple Track Every Mac App You Run? OCSP Explained
+ - [https://www.howtogeek.com/701176/does-apple-track-every-mac-app-you-run-ocsp-explained/](https://www.howtogeek.com/701176/does-apple-track-every-mac-app-you-run-ocsp-explained/)
+ - RSS feed: https://www.howtogeek.com
+ - date published: 2020-11-18 15:23:40+00:00
  - Persistent: True
 
 
