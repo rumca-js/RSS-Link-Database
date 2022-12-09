@@ -1,3 +1,66 @@
+## The Great Climate Con | Alex Epstein | #312
+ - [https://www.youtube.com/watch?v=eDWq7-eP5sE](https://www.youtube.com/watch?v=eDWq7-eP5sE)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q
+ - date published: 2022-12-08 20:36:56+00:00
+ - Persistent: True
+
+
+## You are being LIED to about inflation (here's the REAL cause)
+ - [https://www.youtube.com/watch?v=px4LkyuMs0I](https://www.youtube.com/watch?v=px4LkyuMs0I)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC9lKBRxxsDIarUmNaPe0h0Q
+ - date published: 2022-12-08 14:30:52+00:00
+ - Persistent: True
+
+
+## How Kurzgesagt Cooks Propaganda For Billionaires
+ - [https://www.youtube.com/watch?v=HjHMoNGqQTI](https://www.youtube.com/watch?v=HjHMoNGqQTI)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCjr2bPAyPV7t35MvcgT3W8Q
+ - date published: 2022-12-08 13:14:27+00:00
+ - Persistent: True
+
+
+## Amazon, Google, Microsoft and Oracle will share the Pentagon's $9 billion cloud contract
+ - [https://www.engadget.com/amazon-google-microsoft-oracle-pentagon-9-billion-cloud-jwcc-124013963.html?src=rss](https://www.engadget.com/amazon-google-microsoft-oracle-pentagon-9-billion-cloud-jwcc-124013963.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2022-12-08 12:40:13+00:00
+ - Persistent: True
+
+
+## WHO: COVID disruption resulted in 63,000 more malaria deaths
+ - [http://www.msn.com/en-us/health/health-news/who-covid-disruption-resulted-in-63-000-more-malaria-deaths/ar-AA1530sq?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/health/health-news/who-covid-disruption-resulted-in-63-000-more-malaria-deaths/ar-AA1530sq?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-08 11:19:40.872309+00:00
+ - Persistent: True
+
+
+## Wielka Brytania po raz pierwszy od 35 lat zbuduje kopalnię węgla. Rząd wydał zgodę
+ - [https://forsal.pl/biznes/energetyka/artykuly/8605747,wielka-brytania-kopalnia-wegla-rzad-wydal-zgode.html](https://forsal.pl/biznes/energetyka/artykuly/8605747,wielka-brytania-kopalnia-wegla-rzad-wydal-zgode.html)
+ - RSS feed: https://forsal.pl/.feed
+ - date published: 2022-12-08 07:19:57+00:00
+ - Persistent: True
+
+
+## Kirk Cameron banned from hosting readings of Christian children's book at 50 public libraries
+ - [https://www.dailymail.co.uk/news/article-11514251/Kirk-Cameron-banned-hosting-readings-Christian-childrens-book-50-public-libraries.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11514251/Kirk-Cameron-banned-hosting-readings-Christian-childrens-book-50-public-libraries.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-08 01:06:19+00:00
+ - Persistent: True
+
+
+## Christian group whose reservation was cancelled by TV chef Brittanny Anderson's restaurant hits back
+ - [https://www.dailymail.co.uk/news/article-11514361/Christian-group-reservation-cancelled-TV-chef-Brittanny-Andersons-restaurant-hits-back.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11514361/Christian-group-reservation-cancelled-TV-chef-Brittanny-Andersons-restaurant-hits-back.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-08 00:23:46+00:00
+ - Persistent: True
+
+
+## California Math Professor Under Investigation For Opposing Transgender Surgeries On Children
+ - [https://www.dailywire.com/news/california-math-professor-under-investigation-for-opposing-transgender-surgeries-on-children](https://www.dailywire.com/news/california-math-professor-under-investigation-for-opposing-transgender-surgeries-on-children)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-07 20:50:12+00:00
+ - Persistent: True
+
+
 ## Apple drops controversial plans for child sexual abuse imagery scanning
  - [https://www.theverge.com/2022/12/7/23498588/apple-csam-icloud-photos-scanning-encryption](https://www.theverge.com/2022/12/7/23498588/apple-csam-icloud-photos-scanning-encryption)
  - RSS feed: https://www.theverge.com/rss/index.xml
@@ -292,6 +355,13 @@
  - Persistent: True
 
 
+## 78% of woke ESG funds that Biden wants 401ks to invest in UNDERPERFORMED market average
+ - [https://www.dailymail.co.uk/news/article-11492253/78-woke-ESG-funds-Biden-wants-401ks-invest-UNDERPERFORMED-market-average.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11492253/78-woke-ESG-funds-Biden-wants-401ks-invest-UNDERPERFORMED-market-average.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-01 21:56:44+00:00
+ - Persistent: True
+
+
 ## Koniec z "seksistowskimi" reklamami zabawek. Nowe ograniczenia w Hiszpanii
  - [https://tvn24.pl/biznes/ze-swiata/hiszpania-reklamy-zabawek-dla-dzieci-bez-seksistowskich-stereotypow-utrwalajacych-tradycyjne-role-6304445?source=rss](https://tvn24.pl/biznes/ze-swiata/hiszpania-reklamy-zabawek-dla-dzieci-bez-seksistowskich-stereotypow-utrwalajacych-tradycyjne-role-6304445?source=rss)
  - RSS feed: https://tvn24.pl/najnowsze.xml
@@ -443,6 +513,13 @@
  - [https://www.wsj.com/articles/apple-has-no-easy-road-out-of-china-11669661578?mod=rss_Technology](https://www.wsj.com/articles/apple-has-no-easy-road-out-of-china-11669661578?mod=rss_Technology)
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-11-29 04:02:00+00:00
+ - Persistent: True
+
+
+## Elon Musk Denounces ESG as the ‘Devil Incarnate’
+ - [https://www.theepochtimes.com/elon-musk-denounces-esg-as-the-devil-incarnate_4890385.html](https://www.theepochtimes.com/elon-musk-denounces-esg-as-the-devil-incarnate_4890385.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2022-11-28 22:08:59+00:00
  - Persistent: True
 
 

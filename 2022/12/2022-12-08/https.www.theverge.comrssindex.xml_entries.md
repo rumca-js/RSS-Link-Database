@@ -1,0 +1,537 @@
+## Windows 11 is finally getting a built-in screen recording tool
+ - [https://www.theverge.com/2022/12/8/23500753/microsoft-windows-11-screen-recorder-snipping-tool](https://www.theverge.com/2022/12/8/23500753/microsoft-windows-11-screen-recorder-snipping-tool)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-08 21:52:39+00:00
+ - Starred: False
+
+<figure>
+      <img alt="Windows 11’s Snipping Tool can record your entire screen or parts of it" src="https://cdn.vox-cdn.com/thumbor/tGKVjHzuP4AGxFMFE_IetSWseeM=/80x0:1553x982/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71728017/ST_RecordingInProgress.0.png" />
+        <figcaption><em>The Snipping Tool will get a screen recording feature soon.</em> | Image: Microsoft</figcaption>
+    </figure>
+
+  <p id="obr7im">Microsoft is finally bringing a built-in screen recorder to Windows. The Snipping Tool in Windows 11 will soon be updated to include screen recording, meaning Windows users won’t have to rely on the Xbox Game Bar or third-party tools just to record their screens.</p>
+<p id="lcmK0V">Windows 11 testers will start getting access to the updated Snipping Tool today, and the new record option will allow you to record an entire screen or even a section that gets cropped. The update comes more than four years after Microsoft first introduced a <a href="https://www.theverge.com/2018/5/3/17315940/microsoft-windows-10-screenshots-snipping-feature">new screenshot experience</a> for Windows.</p>
+<p id="SeDZXa">“We know that Snipping Tool is a favorite among the Insider community, so we are very excited to introduce a built-in screen recorder with this update!” explains Dave Grochocki,...</p>
+  <p>
+    <a href="https://www.theverge.com/2022/12/8/23500753/microsoft-windows-11-screen-recorder-snipping-tool">Continue reading&hellip;</a>
+  </p>
+
+## Xbox Game Pass subscribers will get access to every League of Legends and Valorant character
+ - [https://www.theverge.com/2022/12/8/23499055/xbox-game-pass-riot-games-league-of-legends-valorant-account](https://www.theverge.com/2022/12/8/23499055/xbox-game-pass-riot-games-league-of-legends-valorant-account)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-08 21:00:00+00:00
+ - Starred: False
+
+<figure>
+      <img alt="An illustration of Sage from Valorant." src="https://cdn.vox-cdn.com/thumbor/mYs7F-BPJrRdG-KQKKP3ScC095A=/0x60:3061x2101/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71727756/VALORANT_Sage_Light.0.jpg" />
+        <figcaption><em>You’ll be able to play as Sage and every other </em>Valorant<em> agent if you subscribe to Xbox Game Pass.</em> | Image: Riot Games</figcaption>
+    </figure>
+
+  <p id="47gRY6">Xbox Game Pass subscribers will soon be able to use every current and future playable character in Riot Games’ <em>League of Legends</em>, <em>League of Legends: Wild Rift</em>, and <em>Valorant</em>, Microsoft and Riot announced on Thursday. The perks will be available in <em>League of Legends</em> and <em>Valorant</em> beginning December 12th, and they’re coming to <em>Wild Rift</em>, the mobile version of <em>League</em>, sometime in January.</p>
+<p id="5QIL8O">The two gaming giants originally announced their partnership and the generous unlocks <a href="https://news.xbox.com/en-us/2022/06/12/riot-games-is-coming-to-game-pass/">in June</a>. For fans of <em>League</em>, <em>Wild Rift</em>, and <em>Valorant</em>, the perks could be extremely useful; they let you play as every character in the games’ vast rosters (<em>League of Legends</em> offers more than 140 champions!) without spending any additional time or money. And Game Pass...</p>
+  <p>
+    <a href="https://www.theverge.com/2022/12/8/23499055/xbox-game-pass-riot-games-league-of-legends-valorant-account">Continue reading&hellip;</a>
+  </p>
+
+## Google’s giving Pixel 7 Pro owners more control over macro mode
+ - [https://www.theverge.com/2022/12/8/23500396/google-pixel-7-pro-camera-macro-toggle](https://www.theverge.com/2022/12/8/23500396/google-pixel-7-pro-camera-macro-toggle)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-08 20:12:08+00:00
+ - Starred: False
+
+<figure>
+      <img alt="Close-up photo of the Pixel 7 Pro’s camera assembly." src="https://cdn.vox-cdn.com/thumbor/iBNIpqvkHDvrL6_JvKYgaPPIw1E=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71727549/226337_Pixel_7_and_7_Pro_AKrales_0459.0.jpg" />
+        <figcaption><em>Getting close and personal is getting easier.</em> | Photo by Amelia Holowaty Krales / The Verge</figcaption>
+    </figure>
+
+  <p id="nQiTGg">Google’s updating its camera app to give Pixel 7 Pro users more control over its macro mode by adding a toggle that lets them manually turn it off or on instead of having to rely on the auto mode that my colleague Allison Johnson described as “kinda unpredictable.” While the phone can still try to detect if you’re close enough to a subject like it has since launch, it’s nice for there to be an actual menu for those who want finer-grain control.</p>
+<p id="R7KK5A">According to Allison’s testing, the new options live in the settings cog accessible in the top-left corner of the camera’s viewfinder. Google’s added a “macro focus” option that lets you choose between off, auto mode, and on. <a href="https://9to5google.com/2022/12/08/google-camera-pixel-7-pro-macro/">According to <em>9to5Google</em></a>, you were previously only able to temporarily...</p>
+  <p>
+    <a href="https://www.theverge.com/2022/12/8/23500396/google-pixel-7-pro-camera-macro-toggle">Continue reading&hellip;</a>
+  </p>
+
+## The best Sonos speaker and soundbar deals
+ - [https://www.theverge.com/good-deals/22979801/sonos-deals-speakers-soundbars-sale](https://www.theverge.com/good-deals/22979801/sonos-deals-speakers-soundbars-sale)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-08 20:11:04+00:00
+ - Starred: False
+
+<figure>
+      <img alt="The Sonos One SL sitting on a table." src="https://cdn.vox-cdn.com/thumbor/ek5brFG5kI1_uW9ra4beZIHg4D0=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/70683115/dseifert_190826_3622_0009.10.jpg" />
+        <figcaption><em>The Sonos One SL is on sale in refurbished condition.</em> | Photo by Dan Seifert / The Verge</figcaption>
+    </figure>
+
+  <p id="CWUiq4">Most would agree that Sonos offers some of the best speakers and <a href="https://www.theverge.com/22950789/best-soundbar">soundbars currently available</a>. That’s because Sonos makes speakers that — more often than not — boast great sound quality, support for all the major streaming platforms, and simple multi-room functionality. Unfortunately, however, those perks often come at a high price. Sonos products aren’t cheap, and, outside of the occasional rogue discount, they rarely go on sale. However, that doesn’t necessarily mean there aren’t ways to save at least a few dollars on Sonos gear. </p>
+<div><aside id="cWIU9I"><div></div></aside></div>
+<p id="3yXyOz">You can often, for example, score discounts on even more Sonos devices if you’re comfortable buying refurbished ones. We also occasionally see sales on Sonos’ collaborative series with Ikea and discounted...</p>
+  <p>
+    <a href="https://www.theverge.com/good-deals/22979801/sonos-deals-speakers-soundbars-sale">Continue reading&hellip;</a>
+  </p>
+
+## The latest Motorola Moto G Play is a 4G-only phone for $170
+ - [https://www.theverge.com/2022/12/8/23499559/motorola-moto-g-play-2023-specs-price-screen-battery-camera-availability](https://www.theverge.com/2022/12/8/23499559/motorola-moto-g-play-2023-specs-price-screen-battery-camera-availability)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-08 19:49:27+00:00
+ - Starred: False
+
+<figure>
+      <img alt="Motorola G Play, in blue, flat on a table with the rear facing up surrounded by breakfast plates and items." src="https://cdn.vox-cdn.com/thumbor/FojwYXOyC1An7fdMsW8PBZxw42g=/0x1:2000x1334/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71727419/moto_lifestyle.0.jpg" />
+        <figcaption><em>Motorola skipped a 2022 edition of the G Play and is pole-vaulting straight into 2023.</em></figcaption>
+    </figure>
+
+  <p id="TjaiYU">It’s an easy bet that <a href="https://www.theverge.com/2022/11/30/23486509/5g-subscribers-ericsson-mobility-report-november-2022-billion">most new phones announced in 2023 will come with 5G</a>, but there’s going to be at least one LTE-only device on shelves next year: the <a href="https://go.redirectingat.com?id=66960X1514734&amp;xs=1&amp;url=https%3A%2F%2Fwww.motorola.com%2Fus%2Fsmartphones-moto-g-play-gen-2%2Fp&amp;referrer=theverge.com&amp;sref=https%3A%2F%2Fwww.theverge.com%2F2022%2F12%2F8%2F23499559%2Fmotorola-moto-g-play-2023-specs-price-screen-battery-camera-availability" rel="sponsored nofollow noopener" target="_blank">$169 Motorola Moto G Play (2023)</a>. It’s the latest edition of Motorola’s budget-tier phone since <a href="https://www.theverge.com/22408041/motorola-moto-g-play-2021-review-price-screen-specs">the 2021 G Play</a>, and it comes with an updated screen and camera array — but nary a 5G band on its spec sheet.</p>
+<p id="aSNVan">The 2023 Moto G Play sticks with a 6.5-inch LCD screen but increases the refresh rate to 90Hz. It’s still a low-res 720p panel, which is likely to have more of an impact on viewing experience than a slight boost in refresh rate. The main camera gets a meaningful boost to 16 megapixels (up from 13 megapixels) with a brighter f/1.22 lens (compared to f/2.0). </p>
+<div class="c-float-left c-float-hang"><aside id="1KZGT2"><div></div></aside></div>
+<p id="UcwlNI">It comes with a MediaTek...</p>
+  <p>
+    <a href="https://www.theverge.com/2022/12/8/23499559/motorola-moto-g-play-2023-specs-price-screen-battery-camera-availability">Continue reading&hellip;</a>
+  </p>
+
+## Microsoft and Activision Blizzard: the latest news on the acquisition
+ - [https://www.theverge.com/2022/1/18/22889421/microsoft-acquires-activision-blizzard-call-of-duty-warcraft-king-gaming-buy-news-reports](https://www.theverge.com/2022/1/18/22889421/microsoft-acquires-activision-blizzard-call-of-duty-warcraft-king-gaming-buy-news-reports)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-08 19:34:34+00:00
+ - Starred: False
+
+<figure>
+      <img alt="Call of Duty Warzone" src="https://cdn.vox-cdn.com/thumbor/878UBIsLjp78PUJbDTQJtLfLlH4=/0x0:1620x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/70403933/04C_IN_GAME_MODES_BR_TOUT.0.jpg" />
+        <figcaption><em>A screenshot from Call of Duty: Warzone, Activision Blizzard’s free-to-play FPS game.</em> | Image: Activision</figcaption>
+    </figure>
+
+  <p>Everything you need to know about gaming’s biggest acquisition yet</p>
+  <p>
+    <a href="https://www.theverge.com/2022/1/18/22889421/microsoft-acquires-activision-blizzard-call-of-duty-warcraft-king-gaming-buy-news-reports">Continue reading&hellip;</a>
+  </p>
+
+## Sega superstars ToeJam and Earl are finally getting a movie
+ - [https://www.theverge.com/2022/12/8/23500060/toe-jam-and-earl-movie-amazon-digital-video-game](https://www.theverge.com/2022/12/8/23500060/toe-jam-and-earl-movie-amazon-digital-video-game)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-08 19:24:07+00:00
+ - Starred: False
+
+<figure>
+      <img alt="" src="https://cdn.vox-cdn.com/thumbor/L79S6Z-jpmm3uJ20gLnBK_-zF7Y=/150x0:1770x1080/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71727327/2533987_toejamearl_1920u_051614.0.jpg" />
+        <figcaption><em>That’s ToeJam on the right, alongside Earl, in case you didn’t know.</em></figcaption>
+    </figure>
+
+  <p id="AOGIHU">Nothing can possibly prepare us for the all-encompassing funk of a movie starring ToeJam and Earl. <a href="https://www.hollywoodreporter.com/movies/movie-news/toejam-and-earl-movie-in-the-works-stephen-curry-exclusive-1235275179/">According to <em>The Hollywood Reporter</em></a>, a <em>ToeJam &amp; Earl</em> movie is currently in development at Amazon Studios in partnership with Unanimous Media and Story Kitchen. </p>
+<p id="Ontx0k"><em>ToeJam &amp; Earl</em> is just the latest video game franchise getting a movie tie-in. In addition to bigger names like <em>Super Mario Bros</em>. and <em>Sonic the Hedgehog</em> getting contemporary adaptations, <a href="https://www.theverge.com/2022/2/1/22912133/it-takes-two-game-film-tv-adaption">we’re also slated to see an anime version of <em>Tomb Raider</em> coming to Netflix as well as a live-action version of <em>It Takes Two</em></a>, which are also being handled by Story Kitchen.</p>
+<div>  <figure class="e-image">
+        
+      <figcaption>ToeJam &amp; Earl: Back in the Groove <em>is the latest mainline appearance of the extraterrestrial duo.</em>
+</figcaption>
+  </figure>
+</div>
+<p id="3Nozr3"><em>ToeJam &amp;...</em></p>
+  <p>
+    <a href="https://www.theverge.com/2022/12/8/23500060/toe-jam-and-earl-movie-amazon-digital-video-game">Continue reading&hellip;</a>
+  </p>
+
+## The FTC is suing Microsoft to block its Activision Blizzard purchase
+ - [https://www.theverge.com/2022/12/8/23498224/ftc-microsoft-activision-blizzard-legal-challenge-sues-block](https://www.theverge.com/2022/12/8/23498224/ftc-microsoft-activision-blizzard-legal-challenge-sues-block)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-08 19:09:43+00:00
+ - Starred: False
+
+<figure>
+      <img alt="The Microsoft Xbox game logo against a green and black background." src="https://cdn.vox-cdn.com/thumbor/WbT6_Ge5xDqZSM9PQVFB89nZ1qo=/0x0:3000x2000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71727240/acastro_STK048_02.0.jpg" />
+        <figcaption>Illustration by Alex Castro / The Verge</figcaption>
+    </figure>
+
+  <p id="1nxunU">The FTC has filed a legal challenge to try and block Microsoft’s plan to buy Activision Blizzard for $68.7 billion, according to <a href="https://www.ftc.gov/news-events/news/press-releases/2022/12/ftc-seeks-block-microsoft-corps-acquisition-activision-blizzard-inc">a press release from the regulator</a>. The lawsuit was filed today after weeks of back and forth between Microsoft, Sony, and regulators over competition concerns and the future of <em>Call of Duty</em>. The FTC argues that the acquisition would “enable Microsoft to suppress competitors to its Xbox gaming consoles and its rapidly growing subscription content and cloud-gaming business.”</p>
+<p id="vytsUB">The vote from the FTC commissioners today means Microsoft now faces significant hurdles to getting its Activision Blizzard deal complete. Regulators in the UK and EU are also scrutinizing the deal closely, despite Microsoft’s repeated...</p>
+  <p>
+    <a href="https://www.theverge.com/2022/12/8/23498224/ftc-microsoft-activision-blizzard-legal-challenge-sues-block">Continue reading&hellip;</a>
+  </p>
+
+## Mike Flanagan is creating a TV series for The Dark Tower
+ - [https://www.theverge.com/2022/12/8/23500305/the-dark-tower-tv-series-mike-flanagan-stephen-king-amazon](https://www.theverge.com/2022/12/8/23500305/the-dark-tower-tv-series-mike-flanagan-stephen-king-amazon)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-08 18:58:05+00:00
+ - Starred: False
+
+<figure>
+      <img alt="Mike Flanagan at the premiere of Warner Bros Pictures’ “Doctor Sleep” red carpet" src="https://cdn.vox-cdn.com/thumbor/BLFukPTbAk9JhYfg3Fa0Jdaznuc=/0x0:4000x2667/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71727169/1184282979.0.jpg" />
+        <figcaption><em>Stephen King has granted Mike Flanagan the rights to create a TV show based on his </em>The Dark Tower<em> book series.</em> | Photo by Matt Winkelmeyer / Getty Images</figcaption>
+    </figure>
+
+  <p id="Cg9RGl">Rights to adapt Stephen King’s <em>The Dark Tower</em> books into a TV series have been acquired by director Mike Flanagan and producer Trevor Macy, according to an exclusive interview <a href="https://deadline.com/2022/12/mike-flanagan-amp-trevor-macy-the-dark-tower-series-movies-netflix-exit-midnight-club-canceled-amazon-intrepid-1235191018/">with <em>Deadline</em></a>. Within the interview (which explored the horror duo’s production company Intrepid Pictures moving from Netflix to Amazon), Flannagan confirmed that King himself granted them the rights after receiving a “very, very detailed outline” of Flanagan’s plans for the project.</p>
+<p id="A0taEx">The horror duo is best known for creating Shows for Netflix, such as <a href="https://www.theverge.com/22683761/midnight-mass-review-netflix"><em>Midnight Mass</em></a> and <a href="https://www.theverge.com/2018/9/28/17911720/haunting-of-hill-house-review-netflix-shirley-jackson-mike-flanagan"><em>The Haunting of Hill House</em></a>, and have previously worked together to adapt other works from Stephen King, including <a href="https://www.theverge.com/2019/6/13/18677768/doctor-sleep-trailer-dan-torrance-ewan-mcgregor-the-shining-stephen-king"><em>Doctor Sleep</em> (2019</a>) and <a href="https://www.theverge.com/2017/9/26/16363914/geralds-game-review-stephen-king-netflix-carla-gugino-bruce-greenwood"><em>Gerald’s Game</em> (2017)</a>. The pair acquired the rights for <em>The...</em></p>
+  <p>
+    <a href="https://www.theverge.com/2022/12/8/23500305/the-dark-tower-tv-series-mike-flanagan-stephen-king-amazon">Continue reading&hellip;</a>
+  </p>
+
+## Pixel Fold renders arrive with detailed size and spec rumors for Google’s foldable phone
+ - [https://www.theverge.com/2022/12/8/23500176/google-pixel-fold-leaked-renders-size-specs-rumors](https://www.theverge.com/2022/12/8/23500176/google-pixel-fold-leaked-renders-size-specs-rumors)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-08 18:38:25+00:00
+ - Starred: False
+
+<figure>
+      <img alt="A render of Google’s rumored Pixel foldable in white." src="https://cdn.vox-cdn.com/thumbor/oNFohWrYsB8ZOq59jxPBVH8_U1E=/200x0:2360x1440/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71727086/Pixel_Fold_5K3_scaled.0.jpg" />
+        <figcaption><em>This is what Google’s foldable Pixel smartphone might look like.</em> | Image: OnLeaks and <em>HowToiSolve</em></figcaption>
+    </figure>
+
+  <p id="icMYW6">New leaks appear to reveal what to expect from Google’s long-rumored foldable phone. Leaker OnLeaks has teamed up with <a href="https://www.howtoisolve.com/all-about-google-pixel-fold-leaks-renders/">the website <em>HowToiSolve</em></a> to share renders, a 360-degree video, and measurements of the foldable Pixel device.</p>
+<p id="JUUZ6r">According to OnLeaks and <em>HowToiSolve</em>, the phone will apparently have a 5.79-inch cover screen and a larger 7.69-inch inner screen, meaning it will function more like <a href="https://www.theverge.com/23308459/samsung-galaxy-z-fold-4-review-screen-battery-camera-price">Samsung’s Galaxy Z Fold 4</a>, which has a cover screen, than <a href="https://www.theverge.com/23171638/microsoft-surface-duo-2-dual-screen-revisit-updates-price">Microsoft’s Surface Duo phones</a>, which do not. Unfolded, the Google’s device will be “roughly” 158.7 x 139.7 x 5.7mm. For comparison, the Z Fold 4 is 155.1 x 130.1 x 6.3mm, so the Pixel foldable could be a bit bigger than Samsung’s.</p>
+<div id="7PFwi5"><div style="width: 100%; height: 0; padding-bottom: 56.25%;"></div></div>
+<p id="1RUCvK">As for the camera, Google’s foldable will apparently keep the...</p>
+  <p>
+    <a href="https://www.theverge.com/2022/12/8/23500176/google-pixel-fold-leaked-renders-size-specs-rumors">Continue reading&hellip;</a>
+  </p>
+
+## Tech companies fueled the rise of Homeland Security and domestic surveillance, report finds
+ - [https://www.theverge.com/2022/12/8/23496852/microsoft-dhs-surveillance-data-fusion](https://www.theverge.com/2022/12/8/23496852/microsoft-dhs-surveillance-data-fusion)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-08 18:36:43+00:00
+ - Starred: False
+
+<figure>
+      <img alt="Illustration of the seal for the US Department of Homeland Security on a red and tan background." src="https://cdn.vox-cdn.com/thumbor/itg0rTTSsPKsQD2bs5cTdUUUzlQ=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71727064/VRG_Illo_K_Radtke_STK006_DHS_2.0.jpg" />
+        <figcaption>Kristen Radtke / The Verge</figcaption>
+    </figure>
+
+  <p id="SMzTx3">Big tech companies including Microsoft, LexisNexis, and Palantir have helped fuel the militarization of local police forces and the Department of Homeland Security’s demand for high-tech surveillance, according to <a href="https://acrecampaigns.org/research_post/dhs-open-for-business/">a new report from The Action Center on Race &amp; the Economy</a> (ACRE), LittleSis, MediaJustice, and the Surveillance, Tech, and Immigration Policing Project. Researchers working on the project dug into how these companies benefit from a hidden and misunderstood source of funding, which requires states to dump money into law enforcement activities if they want to receive money for things like emergency medical and response services.</p>
+<p id="Ju43Zp">The report is specifically concerned with FEMA’s Urban Area Security Initiative (UASI) grants, which...</p>
+  <p>
+    <a href="https://www.theverge.com/2022/12/8/23496852/microsoft-dhs-surveillance-data-fusion">Continue reading&hellip;</a>
+  </p>
+
+## Amazon is adding a TikTok-like feed of shoppable content to its app
+ - [https://www.theverge.com/2022/12/8/23500077/amazon-inspire-social-shopping-short-form-video-feed-tiktok](https://www.theverge.com/2022/12/8/23500077/amazon-inspire-social-shopping-short-form-video-feed-tiktok)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-08 18:12:55+00:00
+ - Starred: False
+
+<figure>
+      <img alt="Four phone screens showing how the Amazon feed will work. Users can click topics/categories they’re interested in, scroll a feed of pictures and images, and make purchases directly." src="https://cdn.vox-cdn.com/thumbor/_c6-6GoSYadjbXj7BG9P6DOq5a8=/522x0:3678x2104/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71726931/Inspire_Image_3.0.png" />
+        <figcaption>Image: Amazon</figcaption>
+    </figure>
+
+  <p id="rZ0esC">Amazon is the latest tech company to take a page out of TikTok’s playbook. The e-commerce giant announced it was launching a new feed in the Amazon app with photos and videos of items users can purchase, <a href="https://www.wsj.com/articles/amazon-launches-tiktok-style-feed-in-push-to-accelerate-social-shopping-11670476199">first reported by <em>The Wall Street Journal</em></a>.</p>
+<p id="fPmBSE">The feed, which Amazon is calling Inspire, is the company’s attempt at getting app users to make purchases as they’re seeing products in online content — something other tech companies are also attempting to do. TikTok has long been working on its own in-app <a href="https://www.theverge.com/2022/11/11/23453510/tiktok-shop-ecommerce-feature-us-test">shopping features</a>, including <a href="https://www.theverge.com/2022/10/21/23416199/tiktok-livestreams-shopping-expansion-influencer-agencies-tipping">livestream shopping</a>, and YouTube <a href="https://www.theverge.com/2022/11/15/23460596/youtube-shorts-shopping-affiliate-marketing-tiktok-ecommerce">added</a> affiliate marketing and shopping to its TikTok copy, Shorts.</p>
+<p id="ybbEGQ">Inspire will appear as a lightbulb icon in the Amazon app and will roll out to select US shoppers early this...</p>
+  <p>
+    <a href="https://www.theverge.com/2022/12/8/23500077/amazon-inspire-social-shopping-short-form-video-feed-tiktok">Continue reading&hellip;</a>
+  </p>
+
+## The hornet formerly known as ‘murder’ hasn’t been spotted in Washington state this year
+ - [https://www.theverge.com/2022/12/8/23499897/murder-hornet-sightings-2022-washington-state](https://www.theverge.com/2022/12/8/23499897/murder-hornet-sightings-2022-washington-state)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-08 17:49:37+00:00
+ - Starred: False
+
+<figure>
+      <img alt="Dead giant hornets lined up in two rows next to a notebook" src="https://cdn.vox-cdn.com/thumbor/1qgJ8tU_EqAusFLie7dkU0szuDo=/0x0:5472x3648/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71726787/1212154385.0.jpg" />
+        <figcaption><em>Dead northern giant hornets, queens, lined up on top and smaller workers below — all samples brought in for research — are displayed with a field notebook on May 7th, 2020, in Blaine, Washington.</em> | Photo by ELAINE THOMPSON/POOL/AFP via Getty Images</figcaption>
+    </figure>
+
+  <p id="0nFtuJ">Good news! The invasive insect formerly known as the “murder hornet” might soon be under control in Washington state. After wrapping up its pest trapping season for 2022, the Washington State Department of Agriculture (WSDA) reported no sightings of the northern giant hornet.</p>
+<p id="Gls3s6">“When it comes to the pests that we survey for, the best news is no news,” Sven Spichiger, WSDA managing entomologist, said in a <a href="https://agr.wa.gov/about-wsda/news-and-media-relations/news-releases?article=36140">press release</a> yesterday.</p>
+<p id="oT1SjJ">It is still too early to declare complete victory over the hornet. It takes three years of no sightings for the pest to be considered “eradicated” under federal guidelines. But this is the first year without sightings since the first report of a northern giant hornet in Washington set off alarm bells in 2019. </p>
+<div class="c-float-left c-float-hang"><aside id="L9FlWZ"><q>“The...</q></aside></div>
+  <p>
+    <a href="https://www.theverge.com/2022/12/8/23499897/murder-hornet-sightings-2022-washington-state">Continue reading&hellip;</a>
+  </p>
+
+## Broadway’s K-pop musical showed how hard it is to create internet fame
+ - [https://www.theverge.com/23498194/kpop-broadway-musical-instagram-tiktok](https://www.theverge.com/23498194/kpop-broadway-musical-instagram-tiktok)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-08 17:12:30+00:00
+ - Starred: False
+
+<figure>
+      <img alt="“KPOP” Opening Night Celebration" src="https://cdn.vox-cdn.com/thumbor/95aNXT9aXipk4hTzmocrTYce_L8=/0x0:6000x4000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71726627/1443168113.0.jpg" />
+        <figcaption>KPOP <em>cast members Min, Abraham Lim, and Luna take their bows on Broadway.</em> | Photo by John Lamparski/Getty Images</figcaption>
+    </figure>
+
+
+  		 <p>A Broadway musical tried to court extremely online fans of artists like BTS and Blackpink. It didn’t quite succeed.</p>
+  <p>
+    <a href="https://www.theverge.com/23498194/kpop-broadway-musical-instagram-tiktok">Continue reading&hellip;</a>
+  </p>
+
+## FX’s Kindred series feels like a pale shadow of Octavia Butler’s seminal story
+ - [https://www.theverge.com/2022/12/8/23473266/kindred-octavia-butler-fx-review](https://www.theverge.com/2022/12/8/23473266/kindred-octavia-butler-fx-review)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-08 17:00:00+00:00
+ - Starred: False
+
+<figure>
+      <img alt="" src="https://cdn.vox-cdn.com/thumbor/TY0zgUdanANkfbx7qfIQUuOdFlA=/0x66:2500x1733/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71726548/75bc7803_b46a_49a1_be52_7074c30bb5db.0.jpeg" />
+        <figcaption><em>Mallori Johnson as Dana James in </em>Kindred<em>.</em> | Image: FX</figcaption>
+    </figure>
+
+
+  		 <p>FX’s new adaptation of Kindred gets utterly lost as it tries to update Octavia Butler’s classic story for a modern-day audience.</p>
+  <p>
+    <a href="https://www.theverge.com/2022/12/8/23473266/kindred-octavia-butler-fx-review">Continue reading&hellip;</a>
+  </p>
+
+## Google’s latest Chrome browser modes can boost battery life and free up memory
+ - [https://www.theverge.com/2022/12/8/23499699/google-chrome-update-memory-energy-saver-mode-optimization](https://www.theverge.com/2022/12/8/23499699/google-chrome-update-memory-energy-saver-mode-optimization)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-08 17:00:00+00:00
+ - Starred: False
+
+<figure>
+      <img alt="An illustration. On the left, a representation of a computer chip is linked to a power guage, while on the right, a leaf with a lightening bolt is connected to a seemingly drained battery." src="https://cdn.vox-cdn.com/thumbor/2_9hKclnnOTPJcpsKPJUw6Szwko=/336x0:4032x2464/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71726523/PerformanceControls_Header.0.png" />
+        <figcaption><em>Google is introducing new Memory Saver and Energy Saver modes to its Google Chrome web browser.</em> | Image: Google</figcaption>
+    </figure>
+
+  <p id="BxVU2h">Google’s Chrome desktop web browser has two new performance modes —  Memory Saver and Energy Saver — available starting today. The new modes allow users to reduce Chrome’s memory usage by up to 30 percent and extend battery life when a device is running low on power, according to Google.</p>
+<p id="zAVufn">Memory Saver mode frees up memory from tabs that aren’t currently in use, which should provide a smoother browsing experience. You can also mark important websites as exempt from Memory Saver to keep them operating at max performance. </p>
+  <figure class="e-image">
+        
+      <cite>Image: Google</cite>
+      <figcaption><em>Memory Saver mode uses up to 30 percent less memory when active.</em></figcaption>
+  </figure>
+<p id="gKB090">Energy Saver mode optimizes potential battery life by limiting background activity and visual effects (such as...</p>
+  <p>
+    <a href="https://www.theverge.com/2022/12/8/23499699/google-chrome-update-memory-energy-saver-mode-optimization">Continue reading&hellip;</a>
+  </p>
+
+## Google is bringing together its Waze and Maps teams as it pushes to reduce overlap
+ - [https://www.theverge.com/2022/12/8/23499734/google-maps-waze-development-teams-combined-productivity](https://www.theverge.com/2022/12/8/23499734/google-maps-waze-development-teams-combined-productivity)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-08 15:49:28+00:00
+ - Starred: False
+
+<figure>
+      <img alt="Waze’s app icon." src="https://cdn.vox-cdn.com/thumbor/ZD0Hfk9sb21I0Oz70ckdYde33nE=/0x0:1500x1000/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71726124/akrales_160517_1059_A_0113.0.0.jpg" />
+        <figcaption>Photo by Amelia Holowaty Krales / The Verge</figcaption>
+    </figure>
+
+  <p id="vttB3V">Google is merging the team it has working on the navigation app Waze into the same group that oversees Google Maps, the company has announced. <em>The Wall Street Journal </em>reports that the move is not expected to mark the end of Waze as a separate service, and no layoffs are planned as part of the reorganization. However, Waze CEO Neha Parikh is expected to leave the role after the transition, and the move is expected to reduce overlapping work, the <em>WSJ </em>notes.</p>
+<p id="vU8p9X">Going forward, Waze’s 500 employees are expected to be a part of Google’s Geo organization, which oversees Maps alongside Earth and Street View.</p>
+<div class="c-float-left c-float-hang"><aside id="GXwCnM"><q>Google acquired Waze almost a decade ago</q></aside></div>
+<p id="izcdLT">“Google remains deeply committed to Waze’s unique brand, its beloved app and its thriving community...</p>
+  <p>
+    <a href="https://www.theverge.com/2022/12/8/23499734/google-maps-waze-development-teams-combined-productivity">Continue reading&hellip;</a>
+  </p>
+
+## Audeze’s $300 gaming headset promises comfort and multipoint Bluetooth
+ - [https://www.theverge.com/2022/12/8/23499802/audeze-maxwell-wireless-gaming-headset-features-price](https://www.theverge.com/2022/12/8/23499802/audeze-maxwell-wireless-gaming-headset-features-price)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-08 15:38:00+00:00
+ - Starred: False
+
+<figure>
+      <img alt="Audeze’s Maxwell gaming headset. This image shows off its plain design along with its detachable boom microphone." src="https://cdn.vox-cdn.com/thumbor/h1OysMviq7-Nnl7Z0gLd6f0UJhY=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71726083/maxwellhero.0.jpg" />
+        <figcaption><em>The Maxwell has a more subdued design than Audeze’s previous gaming headset, the Penrose.</em> | Image credit: Audeze</figcaption>
+    </figure>
+
+  <p id="7CN7GN">While Razer, Logitech, and other companies are working on their 2023 gaming headsets, Audeze has announced its new Maxwell wireless model that starts at $299 with support for PlayStation, Windows, macOS, Nintendo Switch, and mobile — everything but Xbox. There’s an Xbox version that costs $50 more and makes up for some of the cost increase with a Dolby Atmos license that activates automatically. It’ll start shipping in late December 2022.</p>
+<p id="wkCCiK">Audeze typically makes big promises about great audio quality, which is fine because the products usually back them up. The Maxwell has 90mm planar magnetic drivers, which are slightly smaller than the ones in <a href="https://www.theverge.com/22262114/audeze-penrose-gaming-headset-playstation-ps5-ps4-pc-wireless-bluetooth-planar-magnetic-drivers">its 2021 Penrose headset</a>. Through them, you can listen to hi-res audio when connected via the...</p>
+  <p>
+    <a href="https://www.theverge.com/2022/12/8/23499802/audeze-maxwell-wireless-gaming-headset-features-price">Continue reading&hellip;</a>
+  </p>
+
+## ChatGPT proves AI is finally mainstream — and things are only going to get weirder
+ - [https://www.theverge.com/2022/12/8/23499728/ai-capability-accessibility-chatgpt-stable-diffusion-commercialization](https://www.theverge.com/2022/12/8/23499728/ai-capability-accessibility-chatgpt-stable-diffusion-commercialization)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-08 15:31:02+00:00
+ - Starred: False
+
+<figure>
+      <img alt="A close-up image of a silicon mono-crystal on a neutral background. Silicon is a crucial component in AI." src="https://cdn.vox-cdn.com/thumbor/fljaoNYfvxHywOKNdzwMvrU_4JM=/0x0:2650x1767/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71726073/CatherineBreslin_SiliconCloseup_2650x1767.0.jpg" />
+        <figcaption><em>A close-up image of a silicon mono-crystal. Silicon is a crucial component in AI.</em> | Image: <a class="ql-link" href="https://betterimagesofai.org/images?artist=CatherineBreslin&amp;title=SiliconCloseup" target="_blank">Catherine Breslin / Better Images of AI / Silicon Closeup / CC-BY 4.0</a></figcaption>
+    </figure>
+
+
+  		 <p>Researchers talk about the ‘capability overhang,’ or hidden skills and dangers, of artificial intelligence. As the technology goes mainstream, we’re going to discover a lot of new things about them. </p>
+  <p>
+    <a href="https://www.theverge.com/2022/12/8/23499728/ai-capability-accessibility-chatgpt-stable-diffusion-commercialization">Continue reading&hellip;</a>
+  </p>
+
+## What’s the dumbest privacy choice you’ve made online?
+ - [https://www.theverge.com/23499393/online-privacy-bad-choices-ai-portraits-chat-bot-social-media](https://www.theverge.com/23499393/online-privacy-bad-choices-ai-portraits-chat-bot-social-media)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-08 15:16:44+00:00
+ - Starred: False
+
+<figure>
+      <img alt="An illustration of a large eye surrounded by other eyes" src="https://cdn.vox-cdn.com/thumbor/EYdZ1CUatnKXQaqOL5uz5liM8kw=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71726021/acastro_190204_1777_privacy_0001.0.jpg" />
+        <figcaption>Illustration by Alex Castro / The Verge</figcaption>
+    </figure>
+
+  <p id="bhlJnO">AI is <em>in</em> at the moment. Everyone is <a href="https://www.theverge.com/23488017/openai-chatbot-chatgpt-ai-examples-web-demo">talking to ChatGPT</a> like it’s an AOL chatbot circa 2001, and everyone else is happily handing their pictures over to Lensa so they can see what they’d look like rendered by an artist’s pen. The picture thing has struck me as a little odd, as there’s not a lot we know about how those images are used after uploading. Could my photos be used to develop the next person’s AI portrait?</p>
+<p id="J9558z">Prisma Labs, the maker of Lensa, <a href="https://techcrunch.com/2022/12/01/lensa-ai-climbs-the-app-store-charts-as-its-magic-avatars-go-viral/">told <em>TechCrunch</em></a> it deletes the photos. But I’m reluctant to give my name when they ask for it at the boba tea place — let alone pay an app to ingest pics of my face to make me a cartoon.</p>
+<p id="A2GDen">In a group chat recently, a friend asked why everyone was falling for the Lensa thing when we didn’t know...</p>
+  <p>
+    <a href="https://www.theverge.com/23499393/online-privacy-bad-choices-ai-portraits-chat-bot-social-media">Continue reading&hellip;</a>
+  </p>
+
+## The $949 price for Dyson’s air-purifying headphones is more absurd than the device itself
+ - [https://www.theverge.com/2022/12/8/23499843/dyson-zone-air-purifier-headphones-price-release-date](https://www.theverge.com/2022/12/8/23499843/dyson-zone-air-purifier-headphones-price-release-date)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-08 15:16:40+00:00
+ - Starred: False
+
+<figure>
+      <img alt="A person against a blank gray background. They are wearing the Dyson Zone with the air-purifying visor concealing their mouth." src="https://cdn.vox-cdn.com/thumbor/nqFgGr85EJ_C_F-liIEOXOXQWV8=/0x0:2048x1365/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71726019/221123_DYSON_SH02_477_v1.0.jpg" />
+        <figcaption><em>The Dyson Zone will initially release in China in January 2023 before being made available for US preorders in March.</em> | Image: Dyson</figcaption>
+    </figure>
+
+  <p id="FujdZm">Dyson has released additional details for its <a href="https://www.theverge.com/2022/3/30/23000577/dyson-zone-noise-cancellation-headphones-built-in-air-purifier">Dyson Zone air-purifying headphones</a>, the company’s first audio product we got to test earlier this year. On a <a href="https://go.redirectingat.com?id=66960X1514734&amp;xs=1&amp;url=https%3A%2F%2Fwww.dyson.com%2Fnewsroom%2Fnews%2Fproduct%2Fdyson-zone-audio&amp;referrer=theverge.com&amp;sref=https%3A%2F%2Fwww.theverge.com%2F2022%2F12%2F8%2F23499843%2Fdyson-zone-air-purifier-headphones-price-release-date" rel="sponsored nofollow noopener" target="_blank">new webpage</a> dedicated to the unreleased headphones, Dyson has officially provided the full specifications, alongside a March release date for the US market and an eye-watering price of $949.</p>
+<p id="elAyBi">So, what are you getting for your money? The Dyson Zone supports Bluetooth 5.0 and features a 3.5mm audio jack and USB-C port for charging. Dyson claims the headphones can achieve up to 50 hours of battery life for audio-only operation, which is reduced to a maximum of four hours for combined air purification and audio. Dyson does not specify if these runtimes are with ANC enabled. The headphones...</p>
+  <p>
+    <a href="https://www.theverge.com/2022/12/8/23499843/dyson-zone-air-purifier-headphones-price-release-date">Continue reading&hellip;</a>
+  </p>
+
+## Philips Hue lights are 20 percent off at Amazon when you buy three
+ - [https://www.theverge.com/2022/12/8/23498196/philips-hue-lights-amazon-fire-tablet-apple-macbook-air-m2-jbl-charge-5-speaker-deal-sale](https://www.theverge.com/2022/12/8/23498196/philips-hue-lights-amazon-fire-tablet-apple-macbook-air-m2-jbl-charge-5-speaker-deal-sale)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-08 14:58:42+00:00
+ - Starred: False
+
+<figure>
+      <img alt="Philips Hue’s A19, 1,100-watt smart bulb lighting up a living room." src="https://cdn.vox-cdn.com/thumbor/Jsund94gDnWL3R-hd5SynREfVk0=/0x250:1500x1250/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71725890/philipshuea19bulbs.0.jpg" />
+        <figcaption><em>The discount only applies when you bundle the company’s latest smart bulbs and select items.</em> | Image: Philips Hue</figcaption>
+    </figure>
+
+  <p id="title">Whether you’re looking to decorate your home with colorful smart lights or shopping for that perfect holiday gift, Philips Hue lights are popping with color, decent brightness, and broad compatibility with voice assistants. They tend to be more expensive than similar offerings from Wyze and Sengled, but <a href="https://www.amazon.com/promotion/psp/A15T2H00E9AVQ2">Amazon is currently taking 20 percent off your total purchase</a> when you buy <strong>three select Philips Hue smart bulbs, light strips, lamps, and accessories</strong>.</p>
+<div class="c-float-left c-float-hang"><aside id="Qkbbdy"><div></div></aside></div>
+<p id="zvUo4U">In terms of what’s available, there is a range of options to choose from. Some, like the <a href="https://www.amazon.com/dp/B09BDL522H?tag=theverge02-20" rel="sponsored nofollow noopener" target="_blank">Signe floor and table lamp</a>, are already discounted, while others are only available for the full retail price. As an example, you can bundle two <a href="https://www.amazon.com/dp/B08CK7D1XR?tag=theverge02-20" rel="sponsored nofollow noopener" target="_blank">Lightstrip Plus extensions</a> with a <a href="https://www.amazon.com/dp/B095KSHGYW?tag=theverge02-20" rel="sponsored nofollow noopener" target="_blank">1,100-lumen A19 color...</a></p>
+  <p>
+    <a href="https://www.theverge.com/2022/12/8/23498196/philips-hue-lights-amazon-fire-tablet-apple-macbook-air-m2-jbl-charge-5-speaker-deal-sale">Continue reading&hellip;</a>
+  </p>
+
+## Our favorite deals we actually bought this year
+ - [https://www.theverge.com/23498053/deals-sales-earbuds-headphones-watch](https://www.theverge.com/23498053/deals-sales-earbuds-headphones-watch)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-08 14:00:00+00:00
+ - Starred: False
+
+<figure>
+      <img alt="Sony WF-1000XM4 earbuds and their charging case held in the palm of a hand." src="https://cdn.vox-cdn.com/thumbor/dwMdLVQVh0QiOzwSl6GmbJW8eJo=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71725682/DSCF4082_Edited.0.jpg" />
+        <figcaption>Photo by Chris Welch / The Verge</figcaption>
+    </figure>
+
+  <p id="4JcTzV">Here at <em>The Verge, </em>we<em> </em>are just as eager to take advantage of sales and other good deals as anyone else (more so, perhaps, since we do have a <em>slight</em> interest in cool new stuff). What with inflation and all, the name of the game this year has been how to pick up devices that you need (or just want) for less than it usually costs, whether it’s a special holiday sale like Black Friday or is part of a lightning deal or is just available for less than usual. </p>
+<p id="rPAA1h">At this time of the year, there are more of these special prices available than usual. So here, just in case you’re curious, are some of the deals that <em>Verge</em> staffers have picked up for themselves or as holiday gifts throughout the year. They include audio devices, a great camera, and a...</p>
+  <p>
+    <a href="https://www.theverge.com/23498053/deals-sales-earbuds-headphones-watch">Continue reading&hellip;</a>
+  </p>
+
+## Reddit’s 2022 recap transforms users into trading cards
+ - [https://www.theverge.com/2022/12/8/23495828/reddit-2022-recap-trading-cards-avatars](https://www.theverge.com/2022/12/8/23495828/reddit-2022-recap-trading-cards-avatars)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-08 13:00:00+00:00
+ - Starred: False
+
+<figure>
+      <img alt="A collection of Reddit’s trading cards as examples you’ll see during Reddit’s 2022 recap." src="https://cdn.vox-cdn.com/thumbor/0GvQOlDNmfpAZrzpl0YDxdK3TBs=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71725470/Reddit.0.jpg" />
+        <figcaption><em>You’ve activated my... Reddit trading card!</em> | Card images: Reddit</figcaption>
+    </figure>
+
+  <p id="eBiTqG">It’s <a href="https://www.theverge.com/23483703/youtube-music-recap-2022-year-in-review-spotify-wrapped">app</a> <a href="https://www.theverge.com/2022/11/30/23484880/spotify-wrapped-2022-music-personality-bad-bunny-harry-styles-joe-rogan">recap</a> <a href="https://www.theverge.com/23486187/apple-music-replay-spotify-wrapped-bad">season</a> once again, and Reddit is getting in on the moment with its second annual personalized recap. This year, your recap will include an autogenerated trading card that represents you and your Reddit experience in 2022.</p>
+<p id="zuTr24">Like other recaps, Reddit’s features a lot of personalized data to help you reflect on your year on the platform. You might see things like your most upvoted comment, how much you’ve scrolled as measured in bananas (well, what Reddit calls “Standard Banana Units”), and whether you’re on team cat or team dog.</p>
+<div class="c-float-left c-float-hang"><aside id="ruxPIY"><q>“Standard Banana Units”</q></aside></div>
+<p id="OruoGa">But at the end of your recap, you’ll also be given a “Superpower Reddit Ability” and assigned a rare, epic, or legendary rating based on how much Reddit karma you’ve earned,...</p>
+  <p>
+    <a href="https://www.theverge.com/2022/12/8/23495828/reddit-2022-recap-trading-cards-avatars">Continue reading&hellip;</a>
+  </p>
+
+## Starling Bank’s new virtual cards are what every bank needs
+ - [https://www.theverge.com/2022/12/8/23499742/starling-bank-virtual-cards-feature](https://www.theverge.com/2022/12/8/23499742/starling-bank-virtual-cards-feature)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-08 12:33:14+00:00
+ - Starred: False
+
+<figure>
+      <img alt="Starling Bank has new virtual cards in a variety of colors" src="https://cdn.vox-cdn.com/thumbor/qFk-0YV8e01cXhyJf9_94hPG92I=/75x0:1725x1100/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71725443/virtual_cards1.0.png" />
+        <figcaption><em>Starling Bank’s virtual debit cards.</em> | Image: Starling Bank</figcaption>
+    </figure>
+
+  <p id="mrXz2d">UK-based Starling Bank is introducing new virtual debit cards this week that will help customers manage spending, saving, and even security free of charge. These <a href="https://go.redirectingat.com?id=66960X1514734&amp;xs=1&amp;url=https%3A%2F%2Fwww.starlingbank.com%2Ffeatures%2Fvirtual-cards%2F&amp;referrer=theverge.com&amp;sref=https%3A%2F%2Fwww.theverge.com%2F2022%2F12%2F8%2F23499742%2Fstarling-bank-virtual-cards-feature" rel="sponsored nofollow noopener" target="_blank">new virtual cards</a> will be linked to a main Starling bank account and use your balance, but they’ll have a unique card number, CVV, and expiry date. That makes them perfect for bundling together payments and tracking how much you’re spending, or using separate cards for security purposes.</p>
+<p id="TPjxBb">Not a day seems to go by without a security breach somewhere, and the worst ones can expose your card numbers and details. While Starling Bank has introduced its virtual cards primarily for tracking spending, you could also use them to assign a virtual card to different utility providers or even...</p>
+  <p>
+    <a href="https://www.theverge.com/2022/12/8/23499742/starling-bank-virtual-cards-feature">Continue reading&hellip;</a>
+  </p>
+
+## How CoinDesk’s FTX scoop left a hole in its corporate overlord
+ - [https://www.theverge.com/2022/12/8/23498823/coindesk-ftx-dcg-barry-silbert-grayscale-genesis](https://www.theverge.com/2022/12/8/23498823/coindesk-ftx-dcg-barry-silbert-grayscale-genesis)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-08 12:30:00+00:00
+ - Starred: False
+
+<figure>
+      <img alt="A cartoon image of a Bitcoin, superimposed on a background of shapes" src="https://cdn.vox-cdn.com/thumbor/wTmZ6LdH2Q4dLlwFjR4eyxbOros=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71725431/226437_M_Huigen_year_in_crypto.0.jpg" />
+        <figcaption>It’s one crypto newsroom, Michael. What could it cost? | Micha Huigen / The Verge</figcaption>
+    </figure>
+
+
+  		 <p>What happens when a story has impact?</p>
+  <p>
+    <a href="https://www.theverge.com/2022/12/8/23498823/coindesk-ftx-dcg-barry-silbert-grayscale-genesis">Continue reading&hellip;</a>
+  </p>
+
+## EU sets December 28th, 2024 deadline for all new phones to use USB-C for wired charging
+ - [https://www.theverge.com/2022/12/8/23499754/usb-c-iphone-european-union-legislation-charger-lightning-enforcement-date](https://www.theverge.com/2022/12/8/23499754/usb-c-iphone-european-union-legislation-charger-lightning-enforcement-date)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-08 12:28:24+00:00
+ - Starred: False
+
+<figure>
+      <img alt="A bundle of USB-C cables." src="https://cdn.vox-cdn.com/thumbor/2bL18WKeENDS3QXPXdM3NDVl62g=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71725425/akrales_190522_3440_0056.0.jpg" />
+        <figcaption>Photo by Amelia Holowaty Krales / The Verge</figcaption>
+    </figure>
+
+  <p id="67Okrd">We finally have a final official deadline for when new phones sold in the European Union —  including future iPhones — will have to use USB-C for wired charging: <a href="https://twitter.com/EP_SingleMarket/status/1600803353533222912">December 28 2024</a>. </p>
+<p id="FWmsZW">That’s because the EU’s new USB-C legislation has just been published in <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022L2380&amp;pk_campaign=todays_OJ&amp;pk_source=EURLEX&amp;pk_medium=TW&amp;pk_keyword=Common%20charger&amp;pk_content=Directive">the bloc’s Official Journal</a>, making it formally binding. Now we know the rules will officially enter into force in 20 days’ time, and individual EU member states will then have a maximum of 24 months to apply them as national law.</p>
+<p id="oV99Jz">The date is more or less in line with previous forecasts from politicians, but until now the <em>exact</em> date has remained vague given the number of stages each piece of EU legislation has to go through. When lawmakers reached an initial agreement on the legislation...</p>
+  <p>
+    <a href="https://www.theverge.com/2022/12/8/23499754/usb-c-iphone-european-union-legislation-charger-lightning-enforcement-date">Continue reading&hellip;</a>
+  </p>
+
+## Sonos and Ikea made a floor lamp speaker that could be perfect for surround sound
+ - [https://www.theverge.com/2022/12/8/23497606/ikea-sonos-symfonisk-floor-lamp-speaker-announced-price-features](https://www.theverge.com/2022/12/8/23497606/ikea-sonos-symfonisk-floor-lamp-speaker-announced-price-features)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-08 12:00:00+00:00
+ - Starred: False
+
+<figure>
+      <img alt="An image of the Ikea/Sonos Symfonisk floor lamp speaker." src="https://cdn.vox-cdn.com/thumbor/gsE80NUiTOlaMSo9Tx99zz05O2k=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71725332/lamplight.0.jpg" />
+        <figcaption><em>The new Symfonisk floor lamp speaker will be available in January.</em> | Image: Ikea</figcaption>
+    </figure>
+
+  <p id="76AeQo">Sonos and Ikea today announced the latest addition to their collaborative Symfonisk product lineup: it’s a new floor-standing lamp speaker. The $260 Symfonisk floor lamp speaker will be available from Ikea’s stores and website beginning in January.</p>
+<p id="T65eMT">In terms of design, just picture <a href="https://www.theverge.com/22724889/ikea-sonos-symfonisk-speaker-lamp-2021-review-specs">the second-gen Symfonisk lamp speaker</a> with long legs jutting out of the bottom and extending down to a circular base. There’s really not much to it. If you found the last lamp’s style to be tasteful, you’ll like this one. If you thought it was ugly as sin, the floor lamp version probably won’t change your mind. Right now, <a href="https://go.redirectingat.com?id=66960X1514734&amp;xs=1&amp;url=https%3A%2F%2Fwww.ikea.com%2Fus%2Fen%2Fp%2Fsymfonisk-speaker-lamp-w-wi-fi-glass-shade-white-s79478292%2F&amp;referrer=theverge.com&amp;sref=https%3A%2F%2Fwww.theverge.com%2F2022%2F12%2F8%2F23497606%2Fikea-sonos-symfonisk-floor-lamp-speaker-announced-price-features" rel="sponsored nofollow noopener" target="_blank">the standard Symfonisk lamp is selling for $179.99</a>, so the floor lamp option comes at a premium.</p>
+<p id="3ILEnC">“Many people want to have several light...</p>
+  <p>
+    <a href="https://www.theverge.com/2022/12/8/23497606/ikea-sonos-symfonisk-floor-lamp-speaker-announced-price-features">Continue reading&hellip;</a>
+  </p>
+
+## Thursday’s top tech news: Another Theranos exec sentenced to over a decade in prison
+ - [https://www.theverge.com/2022/12/8/23499707/december-8-2022-tech-news-liveblog](https://www.theverge.com/2022/12/8/23499707/december-8-2022-tech-news-liveblog)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-08 10:22:44+00:00
+ - Starred: False
+
+<figure>
+      <img alt="Former Theranos President Balwani Sentenced For Fraud Conviction" src="https://cdn.vox-cdn.com/thumbor/wbpQ1DDmehCyD5-W5XYO6NGD8kI=/7x0:4000x2662/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71725209/1245440014.0.jpg" />
+        <figcaption><em>Former Theranos President Sunny Balwani was sentenced to almost 13 years in prison.</em> | Image: Getty</figcaption>
+    </figure>
+
+  <p>Plus lots of new content for old games.</p>
+  <p>
+    <a href="https://www.theverge.com/2022/12/8/23499707/december-8-2022-tech-news-liveblog">Continue reading&hellip;</a>
+  </p>
+
+## Twitter Blue will reportedly cost more from iPhones to offset ‘hidden 30 percent tax’
+ - [https://www.theverge.com/2022/12/8/23499696/twitter-blue-relaunch-7-11-dollars-apple-tax-30-percent-commission](https://www.theverge.com/2022/12/8/23499696/twitter-blue-relaunch-7-11-dollars-apple-tax-30-percent-commission)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-08 09:35:40+00:00
+ - Starred: False
+
+<figure>
+      <img alt="Illustration showing Elon Musk in profile, in front of Twitter logos with a dollar sign inserted in place of the bird’s eye." src="https://cdn.vox-cdn.com/thumbor/L0YKc2AAsL-ZVnyLFl_t7MwaqA0=/0x0:2040x1360/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/71725174/STK171_VRG_Illo_6_Normand_ElonMusk_06.0.jpg" />
+        <figcaption>Illustration by Laura Normand / The Verge</figcaption>
+    </figure>
+
+  <p id="vIX9XS">Twitter Blue may relaunch at two different price points depending on where you subscribe from, according to a <a href="https://www.theinformation.com/articles/twitter-to-change-blue-pricing-after-apple-spat?utm_campaign=Automated+Fallback+R&amp;utm_content=89&amp;utm_medium=email&amp;utm_source=cio&amp;utm_term=19">new report from <em>The Information</em></a>. The premium subscription could cost $11 when purchased via Twitter’s iOS app, or a reduced $7 per month if users subscribe via Twitter’s website. The price disparity is likely an attempt to circumvent the 30 percent commission Apple charges on many in-app purchases.</p>
+<p id="xmx1YA">The premium subscription <a href="https://www.theverge.com/2022/11/9/23448317/elon-musk-twitter-blue-verification-live-ios">originally launched at $7.99 a month in early November</a>, when it was only available via iOS (with no option to subscribe via other platforms like Android or the web). But its <a href="https://www.theverge.com/2022/11/11/23452985/twitter-blue-subscription-service-unavailable-error-message">rollout was quickly paused</a> after numerous users took advantage of one of its trademark features — access to Twitter’s coveted blue...</p>
+  <p>
+    <a href="https://www.theverge.com/2022/12/8/23499696/twitter-blue-relaunch-7-11-dollars-apple-tax-30-percent-commission">Continue reading&hellip;</a>
+  </p>
