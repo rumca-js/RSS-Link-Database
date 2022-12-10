@@ -1,3 +1,17 @@
+## Musk Addresses Fallout From Second 'Twitter Files' Release
+ - [http://www.msn.com/en-us/news/technology/musk-addresses-fallout-from-second-twitter-files-release/ar-AA154MWP?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/musk-addresses-fallout-from-second-twitter-files-release/ar-AA154MWP?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-09 07:20:58.024063+00:00
+ - Persistent: True
+
+
+## The Twitter Files Part 2: Twitter's Secret Blacklists
+ - [https://twitter.com/bariweiss/status/1601007575633305600](https://twitter.com/bariweiss/status/1601007575633305600)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-09 00:16:35+00:00
+ - Persistent: True
+
+
 ## The Great Climate Con | Alex Epstein | #312
  - [https://www.youtube.com/watch?v=eDWq7-eP5sE](https://www.youtube.com/watch?v=eDWq7-eP5sE)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q
