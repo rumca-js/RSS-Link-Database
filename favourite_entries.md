@@ -1,3 +1,87 @@
+## Elon Musk says some political candidates running for office were secretly shadow banned on Twitter
+ - [https://reclaimthenet.org/elon-musk-says-candidates-shadow-banned/](https://reclaimthenet.org/elon-musk-says-candidates-shadow-banned/)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2022-12-10 20:21:31+00:00
+ - Persistent: True
+
+
+## Twitter had regular meetings with FBI, allowed them to flag tweets
+ - [https://reclaimthenet.org/twitter-allowed-fbi-flag-tweets/](https://reclaimthenet.org/twitter-allowed-fbi-flag-tweets/)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2022-12-10 16:53:55+00:00
+ - Persistent: True
+
+
+## 'Twitter Files' most overlooked finding? That Dorsey, Zuckerberg and half of America shrug at censorship
+ - [https://www.foxnews.com/opinion/twitter-files-overlooked-finding-dorsey-zuckerberg-half-america-shrug-censorship](https://www.foxnews.com/opinion/twitter-files-overlooked-finding-dorsey-zuckerberg-half-america-shrug-censorship)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-10 12:00:09+00:00
+ - Persistent: True
+
+
+## Keep Your Identity Small (2009)
+ - [http://www.paulgraham.com/identity.html](http://www.paulgraham.com/identity.html)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-10 09:57:08+00:00
+ - Persistent: True
+
+
+## Hunter Biden sells more paintings for up to $225,000 to anonymous buyers
+ - [https://www.dailymail.co.uk/news/article-11523295/Hunter-Biden-sells-paintings-225-000-anonymous-buyers.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11523295/Hunter-Biden-sells-paintings-225-000-anonymous-buyers.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-10 05:55:07+00:00
+ - Persistent: True
+
+
+## Elon Musk's 'Twitter Files' reveal internal debate to remove Mike Huckabee tweet including election joke
+ - [http://www.msn.com/en-us/news/technology/elon-musk-s-twitter-files-reveal-internal-debate-to-remove-mike-huckabee-tweet-including-election-joke/ar-AA1572de?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/elon-musk-s-twitter-files-reveal-internal-debate-to-remove-mike-huckabee-tweet-including-election-joke/ar-AA1572de?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-10 03:22:18.202690+00:00
+ - Persistent: True
+
+
+## How Tencent Is Changing Our World Forever
+ - [https://www.youtube.com/watch?v=-_LH3m0FZdg](https://www.youtube.com/watch?v=-_LH3m0FZdg)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCmFeOdJI3IXgTBDzqBLD8qg
+ - date published: 2022-12-10 02:21:12+00:00
+ - Persistent: True
+
+
+## Cynizm i hipokryzja. Wielkie korporacje zarabiają krocie i udają, że to jest w naszym interesie
+ - [https://forsal.pl/biznes/ekologia/artykuly/8606380,cynizm-i-hipokryzja-wielkie-korporacje-zarabiaja-krocie-i-udaja-ze-to-jest-w-naszym-interesie.html](https://forsal.pl/biznes/ekologia/artykuly/8606380,cynizm-i-hipokryzja-wielkie-korporacje-zarabiaja-krocie-i-udaja-ze-to-jest-w-naszym-interesie.html)
+ - RSS feed: https://forsal.pl/.feed
+ - date published: 2022-12-09 22:42:57+00:00
+ - Persistent: True
+
+
+## BlackRock CEO Larry Fink is called to quit by pension chief over ESG obsession
+ - [https://www.dailymail.co.uk/news/article-11521597/BlackRock-CEO-Larry-Fink-called-quit-pension-chief-ESG-obsession.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11521597/BlackRock-CEO-Larry-Fink-called-quit-pension-chief-ESG-obsession.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-09 22:05:44+00:00
+ - Persistent: True
+
+
+## Luke Smith: The Return to Normalcy - (Live interview by Justin Murphy)
+ - [https://www.youtube.com/watch?v=VcHW0mpi9y8](https://www.youtube.com/watch?v=VcHW0mpi9y8)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA
+ - date published: 2022-12-09 20:00:22+00:00
+ - Persistent: True
+
+
+## EU court orders Google to remove “manifestly inaccurate” information
+ - [https://reclaimthenet.org/eu-court-orders-google-to-remove-manifestly-inaccurate-information/](https://reclaimthenet.org/eu-court-orders-google-to-remove-manifestly-inaccurate-information/)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2022-12-09 19:50:45+00:00
+ - Persistent: True
+
+
+## Win for privacy: Facebook tracking is illegal in Europe
+ - [https://tutanota.com/blog/posts/facebook-tracking-business-model-illegal-europe/](https://tutanota.com/blog/posts/facebook-tracking-business-model-illegal-europe/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-09 14:57:28+00:00
+ - Persistent: True
+
+
 ## Musk Addresses Fallout From Second 'Twitter Files' Release
  - [http://www.msn.com/en-us/news/technology/musk-addresses-fallout-from-second-twitter-files-release/ar-AA154MWP?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/musk-addresses-fallout-from-second-twitter-files-release/ar-AA154MWP?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
@@ -117,6 +201,13 @@
  - Persistent: True
 
 
+## Nigeria bans ATM cash withdrawals over $225 a week to force use of CBDC
+ - [https://cointelegraph.com/news/nigeria-bans-atm-cash-withdrawals-over-225-a-week-to-force-use-of-cbdc](https://cointelegraph.com/news/nigeria-bans-atm-cash-withdrawals-over-225-a-week-to-force-use-of-cbdc)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-07 04:28:12+00:00
+ - Persistent: True
+
+
 ## Meta vows to boycott US news outlets on Facebook if Dem-sponsored ad revenue bill is signed into law
  - [https://www.foxnews.com/media/meta-vows-boycott-us-news-outlets-facebook-if-dem-sponsored-ad-revenue-bill-signed-into-law](https://www.foxnews.com/media/meta-vows-boycott-us-news-outlets-facebook-if-dem-sponsored-ad-revenue-bill-signed-into-law)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
@@ -142,6 +233,13 @@
  - [http://www.msn.com/en-us/news/technology/gmail-creator-predicts-total-disruption-for-google-as-chatbot-chatgpt-challenges-tech-giant-monopoly/ar-AA14Xtpn?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/gmail-creator-predicts-total-disruption-for-google-as-chatbot-chatgpt-challenges-tech-giant-monopoly/ar-AA14Xtpn?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-06 09:05:12.842368+00:00
+ - Persistent: True
+
+
+## Meta Threatens to Pull All News From Platform If Congress Passes Media–Big Tech Bargaining Bill
+ - [https://www.theepochtimes.com/meta-threatens-to-pull-all-news-from-platform-if-congress-passes-media-big-tech-bargaining-bill_4905966.html](https://www.theepochtimes.com/meta-threatens-to-pull-all-news-from-platform-if-congress-passes-media-big-tech-bargaining-bill_4905966.html)
+ - RSS feed: https://www.theepochtimes.com/c-tech/feed/
+ - date published: 2022-12-06 06:35:08+00:00
  - Persistent: True
 
 
@@ -177,6 +275,13 @@
  - [https://www.youtube.com/watch?v=RwW0Yfy0oCw](https://www.youtube.com/watch?v=RwW0Yfy0oCw)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
  - date published: 2022-12-05 14:32:49+00:00
+ - Persistent: True
+
+
+## Nobody’s using CBDCs. India’s piloting one anyway
+ - [https://techmonitor.ai/policy/digital-economy/nobodys-using-cbdcs-indias-piloting-one-anyway](https://techmonitor.ai/policy/digital-economy/nobodys-using-cbdcs-indias-piloting-one-anyway)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-05 12:02:42+00:00
  - Persistent: True
 
 
@@ -324,6 +429,13 @@
  - [https://www.dailymail.co.uk/news/article-11490637/Republicans-war-Bidens-401k-ESG-cancer.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11490637/Republicans-war-Bidens-401k-ESG-cancer.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-12-02 17:03:30+00:00
+ - Persistent: True
+
+
+## FBI met weekly with Big Tech ahead of the 2020 election, agent testifies
+ - [https://www.foxnews.com/politics/fbi-weekly-big-tech-ahead-2020-election-agent-testifies](https://www.foxnews.com/politics/fbi-weekly-big-tech-ahead-2020-election-agent-testifies)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-02 16:57:22+00:00
  - Persistent: True
 
 
@@ -898,6 +1010,13 @@
  - [https://www.dailymail.co.uk/news/article-11436517/Democrat-pushes-legislation-ban-Trump-holding-office.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11436517/Democrat-pushes-legislation-ban-Trump-holding-office.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-16 21:32:12+00:00
+ - Persistent: True
+
+
+## Why Is Super Creep Klaus Schwab Even At The G-20 Summit?
+ - [https://www.dailywire.com/news/why-is-super-creep-klaus-schwab-even-at-the-g-20-summit](https://www.dailywire.com/news/why-is-super-creep-klaus-schwab-even-at-the-g-20-summit)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-11-16 18:13:43+00:00
  - Persistent: True
 
 
