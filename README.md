@@ -37,6 +37,7 @@ Captured using Django application: [https://github.com/rumca-js/Django-rss-feed]
 With these data we can perform further analysis:
 
  - how many of old links are not any longer valid (link rot test)
+ - capture all domains from RSS links (internal, and leading outside?). Analyse which domains are most common
  - which site generates most entries
  - we can capture all external links from entries, to capture where these sites lead to (check network effect, etc)
  - we can verify who reported first on certain topics
