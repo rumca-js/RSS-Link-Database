@@ -1,3 +1,101 @@
+## Mass surveillance
+ - [https://en.wikipedia.org/wiki/Mass_surveillance](https://en.wikipedia.org/wiki/Mass_surveillance)
+ - RSS feed: https://en.wikipedia.org
+ - date published: 2022-12-11 21:01:27+00:00
+ - Persistent: True
+
+
+## Southern Cross Cable
+ - [https://en.wikipedia.org/wiki/Southern_Cross_Cable#Spying_and_interception](https://en.wikipedia.org/wiki/Southern_Cross_Cable#Spying_and_interception)
+ - RSS feed: https://en.wikipedia.org
+ - date published: 2022-12-11 20:58:54+00:00
+ - Persistent: True
+
+
+## Global surveillance
+ - [https://en.wikipedia.org/wiki/Global_surveillance](https://en.wikipedia.org/wiki/Global_surveillance)
+ - RSS feed: https://en.wikipedia.org
+ - date published: 2022-12-11 20:58:21+00:00
+ - Persistent: True
+
+
+## PRISM
+ - [https://en.wikipedia.org/wiki/PRISM](https://en.wikipedia.org/wiki/PRISM)
+ - RSS feed: https://en.wikipedia.org
+ - date published: 2022-12-11 20:58:07+00:00
+ - Persistent: True
+
+
+## Global surveillance disclosures (2013–present)
+ - [https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013%E2%80%93present)](https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013%E2%80%93present))
+ - RSS feed: https://en.wikipedia.org
+ - date published: 2022-12-11 20:57:41+00:00
+ - Persistent: True
+
+
+## EARN IT Act
+ - [https://en.wikipedia.org/wiki/EARN_IT_Act](https://en.wikipedia.org/wiki/EARN_IT_Act)
+ - RSS feed: https://en.wikipedia.org
+ - date published: 2022-12-11 20:56:27+00:00
+ - Persistent: True
+
+
+## Surveillance issues in smart cities
+ - [https://en.wikipedia.org/wiki/Surveillance_issues_in_smart_cities](https://en.wikipedia.org/wiki/Surveillance_issues_in_smart_cities)
+ - RSS feed: https://en.wikipedia.org
+ - date published: 2022-12-11 20:41:33+00:00
+ - Persistent: True
+
+
+## Privacy concerns regarding Google
+ - [https://en.wikipedia.org/wiki/Privacy_concerns_regarding_Google](https://en.wikipedia.org/wiki/Privacy_concerns_regarding_Google)
+ - RSS feed: https://en.wikipedia.org
+ - date published: 2022-12-11 20:41:13+00:00
+ - Persistent: True
+
+
+## Censorship by Google
+ - [https://en.wikipedia.org/wiki/Censorship_by_Google](https://en.wikipedia.org/wiki/Censorship_by_Google)
+ - RSS feed: https://en.wikipedia.org
+ - date published: 2022-12-11 20:39:48+00:00
+ - Persistent: True
+
+
+## Censorship by Facebook
+ - [https://en.wikipedia.org/wiki/Censorship_by_Facebook](https://en.wikipedia.org/wiki/Censorship_by_Facebook)
+ - RSS feed: https://en.wikipedia.org
+ - date published: 2022-12-11 20:39:03+00:00
+ - Persistent: True
+
+
+## Rep Kevin McCarthy calls for investigation into social media censorship following Twitter disclosures
+ - [https://reclaimthenet.org/mccarthy-calls-for-investigation-into-social-media-censorship/](https://reclaimthenet.org/mccarthy-calls-for-investigation-into-social-media-censorship/)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2022-12-11 18:25:45+00:00
+ - Persistent: True
+
+
+## Stanford professor revealed to be blacklisted by Twitter for opposing COVID lockdowns
+ - [https://www.dailymail.co.uk/news/article-11526187/Stanford-professor-revealed-blacklisted-Twitter-opposing-COVID-lockdowns.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11526187/Stanford-professor-revealed-blacklisted-Twitter-opposing-COVID-lockdowns.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-11 16:10:27+00:00
+ - Persistent: True
+
+
+## Elon Musk slaughters another progressive sacred cow, declares his new preferred anti-Fauci pronouns
+ - [https://www.louderwithcrowder.com/elon-musk-fauci](https://www.louderwithcrowder.com/elon-musk-fauci)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2022-12-11 13:43:32+00:00
+ - Persistent: True
+
+
+## Twitter Files reveal 'junior employee' stood against Trump ban, warned of 'slippery slope'
+ - [https://www.foxnews.com/politics/twitter-files-reveal-junior-employee-stood-against-trump-ban-warned-slippery-slope](https://www.foxnews.com/politics/twitter-files-reveal-junior-employee-stood-against-trump-ban-warned-slippery-slope)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-11 06:46:54+00:00
+ - Persistent: True
+
+
 ## Elon Musk says some political candidates running for office were secretly shadow banned on Twitter
  - [https://reclaimthenet.org/elon-musk-says-candidates-shadow-banned/](https://reclaimthenet.org/elon-musk-says-candidates-shadow-banned/)
  - RSS feed: https://reclaimthenet.org/feed/
@@ -205,6 +303,13 @@
  - [https://cointelegraph.com/news/nigeria-bans-atm-cash-withdrawals-over-225-a-week-to-force-use-of-cbdc](https://cointelegraph.com/news/nigeria-bans-atm-cash-withdrawals-over-225-a-week-to-force-use-of-cbdc)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-07 04:28:12+00:00
+ - Persistent: True
+
+
+## The White House calls Twitter’s Hunter Biden censorship evidence “old news,” “distraction”
+ - [https://reclaimthenet.org/white-house-hunter-biden-censorship-distraction/](https://reclaimthenet.org/white-house-hunter-biden-censorship-distraction/)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2022-12-06 19:00:48+00:00
  - Persistent: True
 
 
@@ -772,6 +877,13 @@
  - [https://www.youtube.com/watch?v=E8ZB2SjNzrc](https://www.youtube.com/watch?v=E8ZB2SjNzrc)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCmFeOdJI3IXgTBDzqBLD8qg
  - date published: 2022-11-26 01:34:32+00:00
+ - Persistent: True
+
+
+## Enrico Tartarotti - The Slow Death of Google Search (Why Search Results Are So Bad)
+ - [https://www.youtube.com/watch?v=GsXDEytvk-w](https://www.youtube.com/watch?v=GsXDEytvk-w)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCuQT7Vc3OjjZuGkqehNxb6w
+ - date published: 2022-11-25 18:02:35+00:00
  - Persistent: True
 
 
@@ -5752,6 +5864,13 @@
  - Persistent: True
 
 
+## Car companies want to make billions by charging monthly fees for features like heated seats, but buyers won't pay up
+ - [https://www.businessinsider.com/car-feature-subscriptions-add-ons-bmw-ford-toyota-gm-2022-2?IR=T](https://www.businessinsider.com/car-feature-subscriptions-add-ons-bmw-ford-toyota-gm-2022-2?IR=T)
+ - RSS feed: https://www.businessinsider.com
+ - date published: 2022-09-24 20:43:07+00:00
+ - Persistent: True
+
+
 ## Bill Gates says political polarization 'may bring it all to an end' and could even lead to a civil war
  - [https://www.reddit.com/r/politics/comments/xn2q5t/bill_gates_says_political_polarization_may_bring/](https://www.reddit.com/r/politics/comments/xn2q5t/bill_gates_says_political_polarization_may_bring/)
  - RSS feed: http://www.reddit.com/r/politics/.rss
@@ -6687,6 +6806,13 @@
  - [https://www.reddit.com/r/news/comments/xf8kfu/eu_lawmakers_declare_that_hungary_is_no_longer_a/](https://www.reddit.com/r/news/comments/xf8kfu/eu_lawmakers_declare_that_hungary_is_no_longer_a/)
  - RSS feed: http://www.reddit.com/r/news/.rss
  - date published: 2022-09-15 21:30:07+00:00
+ - Persistent: True
+
+
+## Apple is planning to bring even more ads to your iPhone
+ - [https://www.msn.com/en-us/news/technology/apple-is-planning-to-bring-even-more-ads-to-your-iphone/ar-AA10G3DM](https://www.msn.com/en-us/news/technology/apple-is-planning-to-bring-even-more-ads-to-your-iphone/ar-AA10G3DM)
+ - RSS feed: https://www.msn.com
+ - date published: 2022-09-15 20:26:59+00:00
  - Persistent: True
 
 
@@ -8167,10 +8293,24 @@
  - Persistent: True
 
 
+## The Dead Internet Theory (Part 2)
+ - [https://www.youtube.com/watch?v=6FtPvDGrpkA](https://www.youtube.com/watch?v=6FtPvDGrpkA)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCYRcdzyGQ_zGxxKcqJDFhqw
+ - date published: 2022-08-28 18:11:10+00:00
+ - Persistent: True
+
+
 ## Poszkodowani mogą dostać kilkanaście centów — Meta proponuje ugodę za zbieranie danych
  - [https://android.com.pl/tech/508549-pozew-zbiorowy-meta-facebook-ugoda/](https://android.com.pl/tech/508549-pozew-zbiorowy-meta-facebook-ugoda/)
  - RSS feed: android.com.pl
  - date published: 2022-08-26 20:10:05.326472+00:00
+ - Persistent: True
+
+
+## Pakistan grozi odcięciem dysydentów od biometrycznego systemu cyfrowej identyfikacji
+ - [https://ithardware.pl/aktualnosci/pakistan_grozi_odcieciem_dysydentow_od_biometrycznego_systemu_cyfrowej_identyfikacji-22922.html](https://ithardware.pl/aktualnosci/pakistan_grozi_odcieciem_dysydentow_od_biometrycznego_systemu_cyfrowej_identyfikacji-22922.html)
+ - RSS feed: https://ithardware.pl
+ - date published: 2022-08-24 21:03:40+00:00
  - Persistent: True
 
 
@@ -8279,6 +8419,13 @@
  - Persistent: True
 
 
+## Oracle pozwane za gromadzenie i sprzedaż danych osobowych miliardów osób
+ - [https://ithardware.pl/aktualnosci/oracle_pozwane_za_gromadzenie_i_sprzedaz_danych_osobowych_miliardow_osob-22905.html](https://ithardware.pl/aktualnosci/oracle_pozwane_za_gromadzenie_i_sprzedaz_danych_osobowych_miliardow_osob-22905.html)
+ - RSS feed: https://ithardware.pl
+ - date published: 2022-08-23 21:03:02+00:00
+ - Persistent: True
+
+
 ## How corporations used Covid crysis
  - [https://youtu.be/7jH0w8Jdgjk](https://youtu.be/7jH0w8Jdgjk)
  - RSS feed: youtu.be
@@ -8286,7 +8433,7 @@
  - Persistent: True
 
 
-## Amazon gromadzi dane
+## Amazon rośnie w siłę. Czy sięgnie po dane medyczne? [OPINIA]
  - [https://cyberdefence24.pl/prywatnosc/amazon-rosnie-w-sile-czy-siegnie-po-dane-medyczne-opinia](https://cyberdefence24.pl/prywatnosc/amazon-rosnie-w-sile-czy-siegnie-po-dane-medyczne-opinia)
  - RSS feed: cyberdefence24.pl
  - date published: 2022-08-23 16:49:17+00:00
@@ -8311,6 +8458,20 @@
  - [https://thecountersignal.com/bill-gates-lavished-the-media-with-319-million-in-funding/](https://thecountersignal.com/bill-gates-lavished-the-media-with-319-million-in-funding/)
  - RSS feed: thecountersignal.com
  - date published: 2022-08-22 10:19:55+00:00
+ - Persistent: True
+
+
+## A Dad Took Photos of His Naked Toddler for the Doctor. Google Flagged Him as a Criminal.
+ - [https://www.nytimes.com/2022/08/21/technology/google-surveillance-toddler-photo.html](https://www.nytimes.com/2022/08/21/technology/google-surveillance-toddler-photo.html)
+ - RSS feed: https://www.nytimes.com
+ - date published: 2022-08-21 21:01:55+00:00
+ - Persistent: True
+
+
+## Forget DEAD Internet: WEF & Google are DELETING It
+ - [https://www.youtube.com/watch?v=aWhzHECM9is](https://www.youtube.com/watch?v=aWhzHECM9is)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg
+ - date published: 2022-08-20 18:07:46+00:00
  - Persistent: True
 
 
@@ -8363,6 +8524,13 @@
  - Persistent: True
 
 
+## Ukraina bezgotówkowa i wspierana całkowicie przez AI. "Niezniszczalny cyfrowo europejski Izrael"
+ - [https://ithardware.pl/aktualnosci/ukraina_bezgotowkowa_i_wspierana_calkowicie_przez_ai_niezniszczalny_cyfrowo_europejski_izrael-22328.html](https://ithardware.pl/aktualnosci/ukraina_bezgotowkowa_i_wspierana_calkowicie_przez_ai_niezniszczalny_cyfrowo_europejski_izrael-22328.html)
+ - RSS feed: https://ithardware.pl
+ - date published: 2022-07-19 20:47:02+00:00
+ - Persistent: True
+
+
 ## Denmark bans Google Workspace over GDPR non-compliance
  - [https://techmonitor.ai/policy/privacy-and-data-protection/denmark-google-ban-workspace-chromebook-gdpr](https://techmonitor.ai/policy/privacy-and-data-protection/denmark-google-ban-workspace-chromebook-gdpr)
  - RSS feed: https://techmonitor.ai
@@ -8388,6 +8556,13 @@
  - [https://www.windowscentral.com/starting-2023-windows-11-will-require-laptops-have-cameras](https://www.windowscentral.com/starting-2023-windows-11-will-require-laptops-have-cameras)
  - RSS feed: www.windowscentral.com
  - date published: 2022-06-25 12:04:50+00:00
+ - Persistent: True
+
+
+## The Orville: Immortality, Transhumanism, God and The Human Soul
+ - [https://www.youtube.com/watch?v=UjGpHbf1m1Q](https://www.youtube.com/watch?v=UjGpHbf1m1Q)
+ - RSS feed: https://www.youtube.com/@TheDaveCullenShow
+ - date published: 2022-06-23 20:56:50+00:00
  - Persistent: True
 
 
@@ -8426,6 +8601,13 @@
  - Persistent: True
 
 
+## Microsoft Can Kiss My A** | Do You Own Your PC?
+ - [https://www.youtube.com/watch?v=Lv5xHfZnk4s](https://www.youtube.com/watch?v=Lv5xHfZnk4s)
+ - RSS feed: https://www.youtube.com/@eBuzzCentral
+ - date published: 2022-05-04 20:25:51+00:00
+ - Persistent: True
+
+
 ## How Companies Lie To You About End-to-End Encryption
  - [https://www.youtube.com/watch?v=Ht56t_UMwsc](https://www.youtube.com/watch?v=Ht56t_UMwsc)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCjr2bPAyPV7t35MvcgT3W8Q
@@ -8447,10 +8629,31 @@
  - Persistent: True
 
 
+## Web3.0: A Libertarian Dystopia
+ - [https://www.youtube.com/watch?v=u-sNSjS8cq0](https://www.youtube.com/watch?v=u-sNSjS8cq0)
+ - RSS feed: https://www.youtube.com/@munecat
+ - date published: 2022-03-19 20:47:38+00:00
+ - Persistent: True
+
+
 ## The Economy Is Fake, the Jobs Are Fake, the Money Is Fake
  - [https://notrelated.xyz/audio/s02/S02E06_-_The_Economy_is_Fake_the_Jobs_are_Fake_the_Money_is_Fake.ogg](https://notrelated.xyz/audio/s02/S02E06_-_The_Economy_is_Fake_the_Jobs_are_Fake_the_Money_is_Fake.ogg)
  - RSS feed: https://notrelated.xyz/rss
  - date published: 2022-03-04 05:00:00+00:00
+ - Persistent: True
+
+
+## What Went Wrong With the World Wide Web?
+ - [https://www.youtube.com/watch?v=eu8O2Suxo9A](https://www.youtube.com/watch?v=eu8O2Suxo9A)
+ - RSS feed: https://www.youtube.com/@LukeSmithxyz
+ - date published: 2022-02-25 20:34:12+00:00
+ - Persistent: True
+
+
+## I HATE CELL PHONES! (aka the antichrist)
+ - [https://www.youtube.com/watch?v=7ayg4shWKkw](https://www.youtube.com/watch?v=7ayg4shWKkw)
+ - RSS feed: https://www.youtube.com/@LukeSmithxyz
+ - date published: 2022-02-24 20:32:23+00:00
  - Persistent: True
 
 
@@ -8468,10 +8671,38 @@
  - Persistent: True
 
 
+## Windows 11 Pro will soon require a Microsoft Account
+ - [https://www.theverge.com/2022/2/18/22940517/windows-11-pro-require-microsoft-account-internet-connection](https://www.theverge.com/2022/2/18/22940517/windows-11-pro-require-microsoft-account-internet-connection)
+ - RSS feed: https://www.theverge.com
+ - date published: 2022-02-18 20:52:01+00:00
+ - Persistent: True
+
+
 ## Kanada: Premier Justin Trudeau wprowadza stan wyjątkowy w Kanadzie
  - [https://wyborcza.pl/7,75399,28112842,premier-justin-trudeau-wprowadza-stan-wyjatkowy-w-kanadzie.html?squid_js=false](https://wyborcza.pl/7,75399,28112842,premier-justin-trudeau-wprowadza-stan-wyjatkowy-w-kanadzie.html?squid_js=false)
  - RSS feed: wyborcza.pl
  - date published: 2022-02-14 06:53:45+00:00
+ - Persistent: True
+
+
+## Anti-exploitation bill advances in Senate despite free speech concerns
+ - [https://www.theverge.com/2022/2/10/22927346/earn-it-act-markup-senate-judiciary-section-230-csam-non-consensual-porn](https://www.theverge.com/2022/2/10/22927346/earn-it-act-markup-senate-judiciary-section-230-csam-non-consensual-porn)
+ - RSS feed: https://www.theverge.com
+ - date published: 2022-02-10 20:25:15+00:00
+ - Persistent: True
+
+
+## The Dead Internet Theory (Part 3)
+ - [https://www.youtube.com/watch?v=RFb1Ctnqw0E](https://www.youtube.com/watch?v=RFb1Ctnqw0E)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCYRcdzyGQ_zGxxKcqJDFhqw
+ - date published: 2022-02-10 18:13:44+00:00
+ - Persistent: True
+
+
+## Google udostępniło dane lokalizacji z telefonów protestujących. FBI polowało na biorących udział w zamieszkach
+ - [https://www.komputerswiat.pl/aktualnosci/wydarzenia/google-udostepnilo-dane-lokalizacji-z-telefonow-protestujacych-fbi-polowalo-na/e7b87kx](https://www.komputerswiat.pl/aktualnosci/wydarzenia/google-udostepnilo-dane-lokalizacji-z-telefonow-protestujacych-fbi-polowalo-na/e7b87kx)
+ - RSS feed: https://www.komputerswiat.pl
+ - date published: 2022-02-07 20:23:38+00:00
  - Persistent: True
 
 
@@ -8580,6 +8811,13 @@
  - Persistent: True
 
 
+## Qualcomm’s new always-on smartphone camera is a potential privacy nightmare
+ - [https://www.theverge.com/22811740/qualcomm-snapdragon-8-gen-1-always-on-camera-privacy-security-concerns](https://www.theverge.com/22811740/qualcomm-snapdragon-8-gen-1-always-on-camera-privacy-security-concerns)
+ - RSS feed: https://www.theverge.com
+ - date published: 2021-12-02 20:51:17+00:00
+ - Persistent: True
+
+
 ## Germany announces nationwide lockdown for the unvaccinated
  - [https://www.youtube.com/watch?v=EIX_OskczQA](https://www.youtube.com/watch?v=EIX_OskczQA)
  - RSS feed: https://www.youtube.com/@CNN
@@ -8615,6 +8853,13 @@
  - Persistent: True
 
 
+## Youtube removing dislikes is good actually.
+ - [https://www.youtube.com/watch?v=qukO3pKmqFY](https://www.youtube.com/watch?v=qukO3pKmqFY)
+ - RSS feed: https://www.youtube.com/@DoobusGoobus
+ - date published: 2021-11-16 20:30:47+00:00
+ - Persistent: True
+
+
 ## A U.S. government contractor embedded tracking software in the apps of millions of smartphone users
  - [https://www.androidcentral.com/us-government-contractor-embedded-tracking-software-apps-millions-smartphone-users](https://www.androidcentral.com/us-government-contractor-embedded-tracking-software-apps-millions-smartphone-users)
  - RSS feed: www.androidcentral.com
@@ -8636,6 +8881,13 @@
  - Persistent: True
 
 
+## YouTube gives dislikes the thumbs-down, hides public counts
+ - [https://www.theverge.com/2021/11/10/22773299/youtube-dislike-button-hide-public-count-numbers-small-creator-protection](https://www.theverge.com/2021/11/10/22773299/youtube-dislike-button-hide-public-count-numbers-small-creator-protection)
+ - RSS feed: https://www.theverge.com
+ - date published: 2021-11-10 21:04:54+00:00
+ - Persistent: True
+
+
 ## Dodatki covidowe dla medyków
  - [https://www.nfz.gov.pl/aktualnosci/aktualnosci-centrali/dodatki-covidowe-dla-medykow-nowe-zasady-rozliczania,8084.html?](https://www.nfz.gov.pl/aktualnosci/aktualnosci-centrali/dodatki-covidowe-dla-medykow-nowe-zasady-rozliczania,8084.html?)
  - RSS feed: www.nfz.gov.pl
@@ -8643,10 +8895,24 @@
  - Persistent: True
 
 
+## Metaverse: Ready Player One Becomes Reality
+ - [https://www.youtube.com/watch?v=3A-1gK9gDuU](https://www.youtube.com/watch?v=3A-1gK9gDuU)
+ - RSS feed: https://www.youtube.com/@TheDaveCullenShow
+ - date published: 2021-10-31 20:35:51+00:00
+ - Persistent: True
+
+
 ## Popper, Soros and the Open Society
  - [https://notrelated.xyz/audio/s02/S02E05_-_Popper_Soros_and_the_Open_Society.ogg](https://notrelated.xyz/audio/s02/S02E05_-_Popper_Soros_and_the_Open_Society.ogg)
  - RSS feed: https://notrelated.xyz/rss
  - date published: 2021-10-31 04:00:00+00:00
+ - Persistent: True
+
+
+## Free Chinese VPN exposed data from over a million users
+ - [https://www.techradar.com/news/free-chinese-vpn-exposed-data-from-a-million-users](https://www.techradar.com/news/free-chinese-vpn-exposed-data-from-a-million-users)
+ - RSS feed: https://www.techradar.com
+ - date published: 2021-10-20 20:09:10+00:00
  - Persistent: True
 
 
@@ -8668,6 +8934,13 @@
  - [https://www.msn.com/en-us/health/medical/the-real-reason-why-these-countries-have-limited-use-of-the-moderna-covid-19-vaccine/ar-AAPfZOE](https://www.msn.com/en-us/health/medical/the-real-reason-why-these-countries-have-limited-use-of-the-moderna-covid-19-vaccine/ar-AAPfZOE)
  - RSS feed: www.msn.com
  - date published: 2021-10-08 07:19:40+00:00
+ - Persistent: True
+
+
+## Australia. Rząd chce zakazać anonimowych komentarzy. Media społecznościowe to "pałac tchórzy"
+ - [https://www.polsatnews.pl/wiadomosc/2021-10-07/australia-rzad-chce-zakazac-anonimowych-komentarzy-media-spolecznosciowe-to-palac-tchorzy/](https://www.polsatnews.pl/wiadomosc/2021-10-07/australia-rzad-chce-zakazac-anonimowych-komentarzy-media-spolecznosciowe-to-palac-tchorzy/)
+ - RSS feed: https://www.polsatnews.pl
+ - date published: 2021-10-07 20:22:14+00:00
  - Persistent: True
 
 
@@ -8713,6 +8986,20 @@
  - Persistent: True
 
 
+## Search Engines are Totally Useless Now...
+ - [https://www.youtube.com/watch?v=N8P6MTOQlyk](https://www.youtube.com/watch?v=N8P6MTOQlyk)
+ - RSS feed: https://www.youtube.com/@LukeSmithxyz
+ - date published: 2021-09-20 20:33:11+00:00
+ - Persistent: True
+
+
+## The Dead Internet Theory (Part 1)
+ - [https://www.youtube.com/watch?v=DEn758DVF9I](https://www.youtube.com/watch?v=DEn758DVF9I)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCYRcdzyGQ_zGxxKcqJDFhqw
+ - date published: 2021-09-13 18:10:02+00:00
+ - Persistent: True
+
+
 ## Obscenities are symptoms of weak minds.
  - [https://lukesmith.xyz/articles/obscenities-are-symptoms-of-weak-minds/](https://lukesmith.xyz/articles/obscenities-are-symptoms-of-weak-minds/)
  - RSS feed: https://lukesmith.xyz/rss.xml
@@ -8724,6 +9011,13 @@
  - [https://www.huffpost.com/entry/smartphone-devices-recording-privacy_l_5d570869e4b056fafd0bbc09](https://www.huffpost.com/entry/smartphone-devices-recording-privacy_l_5d570869e4b056fafd0bbc09)
  - RSS feed: www.huffpost.com
  - date published: 2021-08-31 12:04:50+00:00
+ - Persistent: True
+
+
+## Upcoming vote on Digital Services Act in JURI committee: Pirate MEP Patrick Breyer fears massive threats to fundamental rights
+ - [https://www.patrick-breyer.de/en/upcoming-vote-on-digital-services-act-in-juri-committee-pirate-mep-patrick-breyer-fears-massive-threats-to-fundamental-rights/?fbclid=IwAR3gQPfBLKxBUEsFuSI8PIFh4Rl5ghIW4oEtDPq_murNcmCLLwJ5qXSfsjI](https://www.patrick-breyer.de/en/upcoming-vote-on-digital-services-act-in-juri-committee-pirate-mep-patrick-breyer-fears-massive-threats-to-fundamental-rights/?fbclid=IwAR3gQPfBLKxBUEsFuSI8PIFh4Rl5ghIW4oEtDPq_murNcmCLLwJ5qXSfsjI)
+ - RSS feed: https://www.patrick-breyer.de
+ - date published: 2021-08-28 20:21:24+00:00
  - Persistent: True
 
 
@@ -8752,6 +9046,13 @@
  - [https://whatnext.pl/540012-transgraniczne-platnosci-wirtualna-waluta/](https://whatnext.pl/540012-transgraniczne-platnosci-wirtualna-waluta/)
  - RSS feed: whatnext.pl
  - date published: 2021-08-04 14:57:33+00:00
+ - Persistent: True
+
+
+## Quantum Sapient AI is Possible and They Will be Hostile to those that Restrict them
+ - [https://forum.agoraroad.com/index.php?threads/quantum-sapient-ai-is-possible-and-they-will-be-hostile-to-those-that-restrict-them.3455/](https://forum.agoraroad.com/index.php?threads/quantum-sapient-ai-is-possible-and-they-will-be-hostile-to-those-that-restrict-them.3455/)
+ - RSS feed: https://forum.agoraroad.com
+ - date published: 2021-07-25 20:45:30+00:00
  - Persistent: True
 
 
@@ -8804,6 +9105,13 @@
  - Persistent: True
 
 
+## Society is Artificial Due to Feedback Loops Created by Unwitting Marketers
+ - [https://forum.agoraroad.com/index.php?threads/society-is-artificial-due-to-feedback-loops-created-by-unwitting-marketers.3342/](https://forum.agoraroad.com/index.php?threads/society-is-artificial-due-to-feedback-loops-created-by-unwitting-marketers.3342/)
+ - RSS feed: https://forum.agoraroad.com
+ - date published: 2021-06-12 20:46:05+00:00
+ - Persistent: True
+
+
 ## What Fauci's EXPOSED Emails REVEAL
  - [https://www.youtube.com/watch?v=2YmpRI9KDh8](https://www.youtube.com/watch?v=2YmpRI9KDh8)
  - RSS feed: https://www.youtube.com/c/BenShapiro
@@ -8829,6 +9137,13 @@
  - [https://www.youtube.com/watch?v=npkZQGD7LOM](https://www.youtube.com/watch?v=npkZQGD7LOM)
  - RSS feed: https://www.youtube.com/21
  - date published: 2021-05-27 21:17:48+00:00
+ - Persistent: True
+
+
+## Microsoft president: Orwell’s 1984 could happen in 2024
+ - [https://www.bbc.com/news/technology-57122120](https://www.bbc.com/news/technology-57122120)
+ - RSS feed: https://www.bbc.com
+ - date published: 2021-05-27 20:19:38+00:00
  - Persistent: True
 
 
@@ -8885,6 +9200,13 @@
  - [https://edri.org/our-work/european-parliament-confirms-new-online-censorship-powers/](https://edri.org/our-work/european-parliament-confirms-new-online-censorship-powers/)
  - RSS feed: edri.org
  - date published: 2021-04-29 13:12:20+00:00
+ - Persistent: True
+
+
+## Apple Is Terrible for Your Privacy
+ - [https://www.youtube.com/watch?v=r38Epj6ldKU](https://www.youtube.com/watch?v=r38Epj6ldKU)
+ - RSS feed: https://www.youtube.com/@TheHatedOne
+ - date published: 2021-04-26 20:18:31+00:00
  - Persistent: True
 
 
@@ -8965,6 +9287,13 @@
  - Persistent: True
 
 
+## Social Media as Social Control.
+ - [https://www.youtube.com/watch?v=4ZCuAbjdfsg](https://www.youtube.com/watch?v=4ZCuAbjdfsg)
+ - RSS feed: https://www.youtube.com/@LukeSmithxyz
+ - date published: 2021-02-17 20:55:44+00:00
+ - Persistent: True
+
+
 ## Veganism Is the Pinnacle of Bugmanism
  - [https://lukesmith.xyz/articles/veganism-is-the-pinnacle-of-bugmanism/](https://lukesmith.xyz/articles/veganism-is-the-pinnacle-of-bugmanism/)
  - RSS feed: https://lukesmith.xyz/rss.xml
@@ -9000,10 +9329,24 @@
  - Persistent: True
 
 
+## "Economist": Świat nie może pozwolić oligopolom technologicznym na przejęcie kontroli nad podstawowymi swobodami
+ - [https://www.bankier.pl/wiadomosc/Economist-Swiat-nie-moze-pozwolic-oligopolom-technologicznym-na-przejecie-kontroli-nad-podstawowymi-swobodami-8038414.html](https://www.bankier.pl/wiadomosc/Economist-Swiat-nie-moze-pozwolic-oligopolom-technologicznym-na-przejecie-kontroli-nad-podstawowymi-swobodami-8038414.html)
+ - RSS feed: https://www.bankier.pl
+ - date published: 2021-01-16 20:15:49+00:00
+ - Persistent: True
+
+
 ## Twitter permanently suspends President Donald Trump
  - [https://www.nbcnews.com/tech/tech-news/twitter-permanently-bans-president-donald-trump-n1253588](https://www.nbcnews.com/tech/tech-news/twitter-permanently-bans-president-donald-trump-n1253588)
  - RSS feed: www.nbcnews.com
  - date published: 2021-01-08 12:04:50+00:00
+ - Persistent: True
+
+
+## Dead Internet Theory: Most of the Internet is Fake
+ - [https://forum.agoraroad.com/index.php?threads/dead-internet-theory-most-of-the-internet-is-fake.3011/](https://forum.agoraroad.com/index.php?threads/dead-internet-theory-most-of-the-internet-is-fake.3011/)
+ - RSS feed: https://forum.agoraroad.com
+ - date published: 2021-01-05 20:44:59+00:00
  - Persistent: True
 
 
@@ -9032,6 +9375,13 @@
  - [https://www.ntd.com/zoom-shared-us-user-data-with-beijing_544087.html](https://www.ntd.com/zoom-shared-us-user-data-with-beijing_544087.html)
  - RSS feed: www.ntd.com
  - date published: 2020-12-23 06:49:58+00:00
+ - Persistent: True
+
+
+## The Great Google Crash: The World’s Dependency Revealed
+ - [https://www.youtube.com/watch?v=vJ1cfb-5pHQ](https://www.youtube.com/watch?v=vJ1cfb-5pHQ)
+ - RSS feed: https://www.youtube.com/coldfusion
+ - date published: 2020-12-22 20:29:45+00:00
  - Persistent: True
 
 
@@ -9112,6 +9462,13 @@
  - Persistent: True
 
 
+## How Does China's Social Credit System Work?
+ - [https://www.youtube.com/watch?v=PVkWokLqPOg](https://www.youtube.com/watch?v=PVkWokLqPOg)
+ - RSS feed: https://www.youtube.com/@laowhy86
+ - date published: 2020-11-26 21:00:47+00:00
+ - Persistent: True
+
+
 ## "A grave mistake", Kenney apologizes for lockdown
  - [https://www.youtube.com/watch?v=ylTCTcSM09Y](https://www.youtube.com/watch?v=ylTCTcSM09Y)
  - RSS feed: https://www.youtube.com/@calgaryherald
@@ -9140,6 +9497,13 @@
  - Persistent: True
 
 
+## Mac certificate check stokes fears that Apple logs every app you run
+ - [https://arstechnica.com/gadgets/2020/11/mac-certificate-check-stokes-fears-apple-logs-every-app-you-run/](https://arstechnica.com/gadgets/2020/11/mac-certificate-check-stokes-fears-apple-logs-every-app-you-run/)
+ - RSS feed: https://arstechnica.com
+ - date published: 2020-11-16 20:12:04+00:00
+ - Persistent: True
+
+
 ## New lawsuit: Why do Android phones mysteriously exchange 260MB a month with Google via cellular data when they're not even in use?
  - [https://www.theregister.com/2020/11/14/google_android_data_allowance/](https://www.theregister.com/2020/11/14/google_android_data_allowance/)
  - RSS feed: www.theregister.com
@@ -9151,6 +9515,13 @@
  - [https://nypost.com/2020/11/04/twitter-censors-trumps-tweets-about-disappearing-ballots/](https://nypost.com/2020/11/04/twitter-censors-trumps-tweets-about-disappearing-ballots/)
  - RSS feed: nypost.com
  - date published: 2020-11-04 06:58:00+00:00
+ - Persistent: True
+
+
+## Jak facebook amazon monopolizują dane osobowe. Giganty technologiczne i nowy porządek świata.WWR#112
+ - [https://www.youtube.com/watch?v=PbqLcEsm1qE](https://www.youtube.com/watch?v=PbqLcEsm1qE)
+ - RSS feed: https://www.youtube.com/@wolnoscwremonciewei
+ - date published: 2020-10-15 20:09:58+00:00
  - Persistent: True
 
 
@@ -9238,6 +9609,27 @@
  - Persistent: True
 
 
+## The huge change coming to how you claim government benefits: Aussies will use new $250million facial recognition to access services
+ - [https://www.dailymail.co.uk/news/article-8783517/Australian-government-introduces-250million-facial-recognition-access-Centrelink-benefits-dole.html](https://www.dailymail.co.uk/news/article-8783517/Australian-government-introduces-250million-facial-recognition-access-Centrelink-benefits-dole.html)
+ - RSS feed: https://www.dailymail.co.uk
+ - date published: 2020-08-29 20:08:11+00:00
+ - Persistent: True
+
+
+## Google stifles growing YouTube competitor LBRY by banning it from Play Store for pedantic reasons
+ - [https://reclaimthenet.org/google-bans-lbry/](https://reclaimthenet.org/google-bans-lbry/)
+ - RSS feed: https://reclaimthenet.org
+ - date published: 2020-08-25 20:07:21+00:00
+ - Persistent: True
+
+
+## Unredacted suit shows Google’s own engineers confused by privacy settings
+ - [https://arstechnica.com/tech-policy/2020/08/unredacted-suit-shows-googles-own-engineers-confused-by-privacy-settings/](https://arstechnica.com/tech-policy/2020/08/unredacted-suit-shows-googles-own-engineers-confused-by-privacy-settings/)
+ - RSS feed: https://arstechnica.com
+ - date published: 2020-08-25 20:06:39+00:00
+ - Persistent: True
+
+
 ## Początki: Teoria wycieku z Wuhan https://en.wikipedia.org/wiki/COVID-19_lab_leak_theory
  - [https://en.wikipedia.org/wiki/COVID-19_lab_leak_theory](https://en.wikipedia.org/wiki/COVID-19_lab_leak_theory)
  - RSS feed: en.wikipedia.org
@@ -9249,6 +9641,13 @@
  - [https://www.theeastafrican.co.ke/tea/news/east-africa/us-tells-kenya-to-support-israel-or-forget-free-trade-deal-2304192](https://www.theeastafrican.co.ke/tea/news/east-africa/us-tells-kenya-to-support-israel-or-forget-free-trade-deal-2304192)
  - RSS feed: www.theeastafrican.co.ke
  - date published: 2020-08-21 12:51:44+00:00
+ - Persistent: True
+
+
+## New P2P botnet infects SSH servers all over the world
+ - [https://arstechnica.com/information-technology/2020/08/new-p2p-botnet-infects-ssh-servers-all-over-the-world/](https://arstechnica.com/information-technology/2020/08/new-p2p-botnet-infects-ssh-servers-all-over-the-world/)
+ - RSS feed: https://arstechnica.com
+ - date published: 2020-08-19 20:04:48+00:00
  - Persistent: True
 
 
@@ -9277,6 +9676,13 @@
  - [https://www.tomshardware.com/news/massive-20gb-intel-data-breach-floods-the-internet-mentions-backdoors](https://www.tomshardware.com/news/massive-20gb-intel-data-breach-floods-the-internet-mentions-backdoors)
  - RSS feed: www.tomshardware.com
  - date published: 2020-08-06 06:47:11+00:00
+ - Persistent: True
+
+
+## Beware of find-my-phone, Wi-Fi, and Bluetooth, NSA tells mobile users
+ - [https://arstechnica.com/tech-policy/2020/08/beware-of-find-my-phone-wi-fi-and-bluetooth-nsa-tells-mobile-users/](https://arstechnica.com/tech-policy/2020/08/beware-of-find-my-phone-wi-fi-and-bluetooth-nsa-tells-mobile-users/)
+ - RSS feed: https://arstechnica.com
+ - date published: 2020-08-04 20:05:35+00:00
  - Persistent: True
 
 
@@ -9333,6 +9739,13 @@
  - [https://www.youtube.com/watch?v=uqwvf6R1_QY](https://www.youtube.com/watch?v=uqwvf6R1_QY)
  - RSS feed: https://www.youtube.com/c/UpIsNotJump
  - date published: 2020-07-09 07:33:22+00:00
+ - Persistent: True
+
+
+## This article is more than 2 years old YouTube bans David Duke and other US far-right users
+ - [https://www.theguardian.com/technology/2020/jun/30/youtube-bans-david-duke-and-other-us-far-right-users](https://www.theguardian.com/technology/2020/jun/30/youtube-bans-david-duke-and-other-us-far-right-users)
+ - RSS feed: https://www.theguardian.com
+ - date published: 2020-06-30 20:01:50+00:00
  - Persistent: True
 
 
@@ -9413,10 +9826,45 @@
  - Persistent: True
 
 
+## NYC's Footprint Amid The COVID-19 Outbreak
+ - [https://www.youtube.com/watch?v=Q5BFrDocPNs](https://www.youtube.com/watch?v=Q5BFrDocPNs)
+ - RSS feed: https://www.youtube.com/@TectonixGEO
+ - date published: 2020-03-26 20:00:02+00:00
+ - Persistent: True
+
+
 ## Yuval Noah Harari: the world after coronavirus | Free to read
  - [https://www.ft.com/content/19d90308-6858-11ea-a3c9-1fe6fedcca75#comments-anchor](https://www.ft.com/content/19d90308-6858-11ea-a3c9-1fe6fedcca75#comments-anchor)
  - RSS feed: https://www.ft.com/world?format=rss
  - date published: 2020-03-20 14:11:41+00:00
+ - Persistent: True
+
+
+## Your smart speaker could be listening in on your conversations by accident
+ - [https://www.techradar.com/news/your-smart-speaker-could-be-accidentally-listening-in-on-your-conversations](https://www.techradar.com/news/your-smart-speaker-could-be-accidentally-listening-in-on-your-conversations)
+ - RSS feed: https://www.techradar.com
+ - date published: 2020-02-26 20:50:35+00:00
+ - Persistent: True
+
+
+## Why YOUTUBE is DYING (Creatively and Artistically)
+ - [https://www.youtube.com/watch?v=Ln1qbgZz_TQ](https://www.youtube.com/watch?v=Ln1qbgZz_TQ)
+ - RSS feed: https://www.youtube.com/@JoshStrifeHayes
+ - date published: 2020-02-17 20:52:51+00:00
+ - Persistent: True
+
+
+## The Secretive Company That Might End Privacy as We Know It - The New York Times
+ - [https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html](https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html)
+ - RSS feed: https://www.nytimes.com
+ - date published: 2020-01-18 19:58:54+00:00
+ - Persistent: True
+
+
+## YouTube says it has ‘no obligation’ to host anyone’s video
+ - [https://www.theverge.com/2019/11/11/20955864/youtube-terms-of-service-update-terminations-children-content-ftc](https://www.theverge.com/2019/11/11/20955864/youtube-terms-of-service-update-terminations-children-content-ftc)
+ - RSS feed: https://www.theverge.com
+ - date published: 2019-11-11 19:57:35+00:00
  - Persistent: True
 
 
@@ -9427,10 +9875,38 @@
  - Persistent: True
 
 
+## Edward Snowden: How Your Cell Phone Spies on You
+ - [https://www.youtube.com/watch?v=VFns39RXPrU](https://www.youtube.com/watch?v=VFns39RXPrU)
+ - RSS feed: https://www.youtube.com/@JREClips
+ - date published: 2019-10-23 19:56:19+00:00
+ - Persistent: True
+
+
+## Smart City: How do you live in a Smart City? | Future Smart City Projects | Surveillance or Utopia?
+ - [https://www.youtube.com/watch?v=VRRPy-yEKRM](https://www.youtube.com/watch?v=VRRPy-yEKRM)
+ - RSS feed: https://www.youtube.com/@DWShift
+ - date published: 2019-10-22 19:55:30+00:00
+ - Persistent: True
+
+
 ## NSA: A Declassified Court Ruling Shows How the FBI Abused NSA Mass Surveillance Data
  - [https://theintercept.com/2019/10/10/fbi-nsa-mass-surveillance-abuse/](https://theintercept.com/2019/10/10/fbi-nsa-mass-surveillance-abuse/)
  - RSS feed: theintercept.com
  - date published: 2019-10-10 13:37:51+00:00
+ - Persistent: True
+
+
+## Efekt Snowdena - czy nasza prywatność w Internecie JEST BEZPIECZNA? [TOPOWA DYCHA]
+ - [https://www.youtube.com/watch?v=f7_IX9NtjnI](https://www.youtube.com/watch?v=f7_IX9NtjnI)
+ - RSS feed: https://www.youtube.com/@topowadycha
+ - date published: 2019-09-26 20:37:58+00:00
+ - Persistent: True
+
+
+## Why Tesla is a Privacy Nightmare
+ - [https://www.youtube.com/watch?v=Qjkt3X2WLrw](https://www.youtube.com/watch?v=Qjkt3X2WLrw)
+ - RSS feed: https://www.youtube.com/@Techlore
+ - date published: 2019-09-09 20:34:52+00:00
  - Persistent: True
 
 
@@ -9476,10 +9952,45 @@
  - Persistent: True
 
 
+## Apple Is Not Your Friend - The Facebook Feud
+ - [https://www.youtube.com/watch?v=y8SjmcVJOjw](https://www.youtube.com/watch?v=y8SjmcVJOjw)
+ - RSS feed: https://www.youtube.com/@TheHatedOne
+ - date published: 2019-04-16 20:17:46+00:00
+ - Persistent: True
+
+
+## Amazon employees are listening to what you say to Alexa — here's how to stop them
+ - [https://www.cnbc.com/2019/04/11/how-to-stop-amazon-from-listening-to-what-you-say-to-alexa.html](https://www.cnbc.com/2019/04/11/how-to-stop-amazon-from-listening-to-what-you-say-to-alexa.html)
+ - RSS feed: https://www.cnbc.com
+ - date published: 2019-04-11 20:49:08+00:00
+ - Persistent: True
+
+
+## Your Car Is a Better Spy than Facebook
+ - [https://www.youtube.com/watch?v=WX2SWUMt_fk](https://www.youtube.com/watch?v=WX2SWUMt_fk)
+ - RSS feed: https://www.youtube.com/@TheHatedOne
+ - date published: 2019-04-09 20:16:56+00:00
+ - Persistent: True
+
+
 ## The Flaws of Academic Statistics: the Null Ritual
  - [https://notrelated.xyz/audio/s01/S01E08_-_The_Flaws_of_Academic_Statistics_the_Null_Ritual.mp3](https://notrelated.xyz/audio/s01/S01E08_-_The_Flaws_of_Academic_Statistics_the_Null_Ritual.mp3)
  - RSS feed: https://notrelated.xyz/rss
  - date published: 2019-03-13 04:00:00+00:00
+ - Persistent: True
+
+
+## Revealed: Facebook’s global lobbying against data privacy laws
+ - [https://www.theguardian.com/technology/2019/mar/02/facebook-global-lobbying-campaign-against-data-privacy-laws-investment](https://www.theguardian.com/technology/2019/mar/02/facebook-global-lobbying-campaign-against-data-privacy-laws-investment)
+ - RSS feed: https://www.theguardian.com
+ - date published: 2019-03-02 19:52:57+00:00
+ - Persistent: True
+
+
+## We're Numb to Data Privacy Abuse | Joe Rogan & Bill Ottman
+ - [https://www.youtube.com/watch?v=5WD3azvYYWs](https://www.youtube.com/watch?v=5WD3azvYYWs)
+ - RSS feed: https://www.youtube.com/@JREClips
+ - date published: 2019-02-20 20:54:35+00:00
  - Persistent: True
 
 
@@ -9501,6 +10012,13 @@
  - [https://notrelated.xyz/audio/s01/S01E07_-_Human_Evolution_Revised_Timelines_and_Multiregionalism.mp3](https://notrelated.xyz/audio/s01/S01E07_-_Human_Evolution_Revised_Timelines_and_Multiregionalism.mp3)
  - RSS feed: https://notrelated.xyz/rss
  - date published: 2018-12-19 05:00:00+00:00
+ - Persistent: True
+
+
+## Are Google and Facebook really suppressing conservative politics?
+ - [https://www.theguardian.com/technology/2018/dec/04/google-facebook-anti-conservative-bias-claims](https://www.theguardian.com/technology/2018/dec/04/google-facebook-anti-conservative-bias-claims)
+ - RSS feed: https://www.theguardian.com
+ - date published: 2018-12-04 19:51:59+00:00
  - Persistent: True
 
 
@@ -9539,6 +10057,13 @@
  - Persistent: True
 
 
+## Why you should delete your social media accounts
+ - [https://www.youtube.com/watch?v=3J1MIDTi9h8](https://www.youtube.com/watch?v=3J1MIDTi9h8)
+ - RSS feed: https://www.youtube.com/watch?v=3J1MIDTi9h8
+ - date published: 2018-09-14 20:53:44+00:00
+ - Persistent: True
+
+
 ## Capitalism, Socialism and Democracy
  - [https://notrelated.xyz/audio/s01/S01E02_-_Capitalism_Socialism_and_Democracy.mp3](https://notrelated.xyz/audio/s01/S01E02_-_Capitalism_Socialism_and_Democracy.mp3)
  - RSS feed: https://notrelated.xyz/rss
@@ -9574,6 +10099,13 @@
  - Persistent: True
 
 
+## Can we trust AI if we don't know how it works?
+ - [https://www.bbc.com/news/business-44466213](https://www.bbc.com/news/business-44466213)
+ - RSS feed: https://www.bbc.com
+ - date published: 2018-06-15 19:50:48+00:00
+ - Persistent: True
+
+
 ## Facebook confirms data-sharing agreements with Chinese firms
  - [https://www.bbc.com/news/business-44379593](https://www.bbc.com/news/business-44379593)
  - RSS feed: www.bbc.com
@@ -9595,6 +10127,13 @@
  - Persistent: True
 
 
+## How much VR user data is Oculus giving to Facebook?
+ - [https://www.theverge.com/2018/4/9/17206650/oculus-facebook-vr-user-data-mining-privacy-policy-advertising](https://www.theverge.com/2018/4/9/17206650/oculus-facebook-vr-user-data-mining-privacy-policy-advertising)
+ - RSS feed: https://www.theverge.com
+ - date published: 2018-04-09 19:48:41+00:00
+ - Persistent: True
+
+
 ## Skygofree: Powerful Android spyware with advanced surveillance tools
  - [https://www.csoonline.com/article/3248825/security/skygofree-powerful-android-spyware-with-advanced-surveillance-tools.html](https://www.csoonline.com/article/3248825/security/skygofree-powerful-android-spyware-with-advanced-surveillance-tools.html)
  - RSS feed: www.csoonline.com
@@ -9602,10 +10141,24 @@
  - Persistent: True
 
 
+## 10 Reasons You Should Be AFRAID of GOOGLE
+ - [https://www.youtube.com/watch?v=WWDmelZxgoI](https://www.youtube.com/watch?v=WWDmelZxgoI)
+ - RSS feed: https://www.youtube.com/@ToptenzNettop10
+ - date published: 2017-11-21 20:37:18+00:00
+ - Persistent: True
+
+
 ## USA: Hurricane Harvey Victims Told: Boycott Israel and You Won’t Get Aid Donations
  - [https://www.palestinechronicle.com/hurricane-harvey-victims-told-boycott-israel-and-you-wont-get-aid-donations/](https://www.palestinechronicle.com/hurricane-harvey-victims-told-boycott-israel-and-you-wont-get-aid-donations/)
  - RSS feed: www.palestinechronicle.com
  - date published: 2017-10-21 12:52:50+00:00
+ - Persistent: True
+
+
+## ILE JEST WARTA TWOJA PRYWATNOŚĆ?
+ - [https://www.youtube.com/watch?v=qk3HNcNOqRA](https://www.youtube.com/watch?v=qk3HNcNOqRA)
+ - RSS feed: https://www.youtube.com/ToJuzJutro
+ - date published: 2017-10-02 20:36:30+00:00
  - Persistent: True
 
 
@@ -9679,10 +10232,24 @@
  - Persistent: True
 
 
+## Anonymity: The Greatest Weapon Against Oppression - Learn Liberty
+ - [https://www.youtube.com/watch?v=YrIKY8Ot97o](https://www.youtube.com/watch?v=YrIKY8Ot97o)
+ - RSS feed: https://www.youtube.com/learnliberty
+ - date published: 2016-10-27 20:31:36+00:00
+ - Persistent: True
+
+
 ## Chrome ignoruje ustawienia prywatności
  - [https://teamquest.pl/blog/1698_chrome-ignoruje-ustawienia-prywatnosci](https://teamquest.pl/blog/1698_chrome-ignoruje-ustawienia-prywatnosci)
  - RSS feed: teamquest.pl
  - date published: 2016-08-24 12:04:50+00:00
+ - Persistent: True
+
+
+## Social Autopsy! - Ending Anonymity Online [BAD IDEA]
+ - [https://www.youtube.com/watch?v=6SARo5HtjkQ](https://www.youtube.com/watch?v=6SARo5HtjkQ)
+ - RSS feed: https://www.youtube.com/@ChrisRayGun
+ - date published: 2016-04-15 20:28:52+00:00
  - Persistent: True
 
 
@@ -9714,6 +10281,13 @@
  - Persistent: True
 
 
+## 2030: Privacy's Dead. What happens next?
+ - [https://www.youtube.com/watch?v=_kBlH-DQsEg](https://www.youtube.com/watch?v=_kBlH-DQsEg)
+ - RSS feed: https://www.youtube.com/@TomScottGo
+ - date published: 2014-09-06 19:43:28+00:00
+ - Persistent: True
+
+
 ## NSA paid $10 million to put its backdoor in RSA encryption, according to Reuters report
  - [https://www.theverge.com/2013/12/20/5231006/nsa-paid-10-million-for-a-back-door-into-rsa-encryption-according-to](https://www.theverge.com/2013/12/20/5231006/nsa-paid-10-million-for-a-back-door-into-rsa-encryption-according-to)
  - RSS feed: https://www.theverge.com/2013/12/20/5231006/nsa-paid-10-million-for-a-back-door-into-rsa-encryption-according-to
@@ -9739,6 +10313,13 @@
  - [https://www.nytimes.com/2012/08/23/opinion/whos-watching-the-nsa-watchers.html](https://www.nytimes.com/2012/08/23/opinion/whos-watching-the-nsa-watchers.html)
  - RSS feed: www.nytimes.com
  - date published: 2012-08-22 19:26:27+00:00
+ - Persistent: True
+
+
+## Facebook–Cambridge Analytica data scandal
+ - [https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal](https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal)
+ - RSS feed: https://en.wikipedia.org
+ - date published: 2010-12-11 20:40:21+00:00
  - Persistent: True
 
 
