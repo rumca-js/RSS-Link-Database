@@ -32,6 +32,15 @@ Captured using Django application: [https://github.com/rumca-js/Django-rss-feed]
  - Automating a Reading List [https://zanshin.net/2022/09/11/automating-a-reading-list/](https://zanshin.net/2022/09/11/automating-a-reading-list/)
  - Bright Insight: YES, They Really Are Deleting the Internet And it’s WAY Worse Than You Think [https://www.youtube.com/watch?v=8O_NvPpbsbw](https://www.youtube.com/watch?v=8O_NvPpbsbw). Data are removed from 'visibility' in Google and other platforms.
 
+# Data analysis
+
+With these data we can perform further analysis:
+
+ - how many of old links are not any longer valid (link rot test)
+ - which site generates most entries
+ - we can capture all external links from entries, to capture where these sites lead to (check network effect, etc)
+ - we can verify who reported first on certain topics
+
 # Ending notes
 
 All links belong to us!
