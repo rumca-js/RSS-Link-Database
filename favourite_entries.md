@@ -1,3 +1,31 @@
+## Ratcliffe: No 'coincidence' Jim Baker got top Twitter job after pushing Russian collusion narrative
+ - [https://www.foxnews.com/politics/ratcliffe-no-coincidence-jim-baker-got-top-twitter-job-pushing-russian-collusion-narrative](https://www.foxnews.com/politics/ratcliffe-no-coincidence-jim-baker-got-top-twitter-job-pushing-russian-collusion-narrative)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-12 16:22:22+00:00
+ - Persistent: True
+
+
+## How Dutch farmers became the center of a global right-wing culture war
+ - [https://www.nbcnews.com/news/world/dutch-farmers-emissions-global-right-wing-culture-war-rcna60269](https://www.nbcnews.com/news/world/dutch-farmers-emissions-global-right-wing-culture-war-rcna60269)
+ - RSS feed: https://feeds.nbcnews.com/nbcnews/public/world
+ - date published: 2022-12-12 10:25:29+00:00
+ - Persistent: True
+
+
+## Elon Musk Gets Viciously Booed by Stadium Crowd at Dave Chappelle Show
+ - [https://gizmodo.com/elon-musk-booed-stadium-crowd-dave-chappelle-sf-boo-1849881192](https://gizmodo.com/elon-musk-booed-stadium-crowd-dave-chappelle-sf-boo-1849881192)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-12-12 10:00:00+00:00
+ - Persistent: True
+
+
+## Blur Your Home on Google Maps Right Now to Protect Your Privacy     - CNET
+ - [https://www.cnet.com/tech/services-and-software/blur-your-home-on-google-maps-right-now-to-protect-your-privacy/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/blur-your-home-on-google-maps-right-now-to-protect-your-privacy/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2022-12-11 21:15:02+00:00
+ - Persistent: True
+
+
 ## Mass surveillance
  - [https://en.wikipedia.org/wiki/Mass_surveillance](https://en.wikipedia.org/wiki/Mass_surveillance)
  - RSS feed: https://en.wikipedia.org
@@ -68,10 +96,24 @@
  - Persistent: True
 
 
+## "Uroczyste obchody" zamiast Bożego Narodzenia. Wytyczne dla brytyjskich urzędników
+ - [https://wydarzenia.interia.pl/zagranica/news-uroczyste-obchody-zamiast-bozego-narodzenia-wytyczne-dla-bry,nId,6466557](https://wydarzenia.interia.pl/zagranica/news-uroczyste-obchody-zamiast-bozego-narodzenia-wytyczne-dla-bry,nId,6466557)
+ - RSS feed: https://wydarzenia.interia.pl/feed
+ - date published: 2022-12-11 20:16:10+00:00
+ - Persistent: True
+
+
 ## Rep Kevin McCarthy calls for investigation into social media censorship following Twitter disclosures
  - [https://reclaimthenet.org/mccarthy-calls-for-investigation-into-social-media-censorship/](https://reclaimthenet.org/mccarthy-calls-for-investigation-into-social-media-censorship/)
  - RSS feed: https://reclaimthenet.org/feed/
  - date published: 2022-12-11 18:25:45+00:00
+ - Persistent: True
+
+
+## James Baker May Face ‘Serious Ethics Charges’ For Vetting ‘Twitter Files’ Without Musk’s Knowledge, Says Expert
+ - [https://www.theepochtimes.com/james-baker-may-face-serious-ethics-charges-for-vetting-twitter-files-without-musks-knowledge-says-expert_4915754.html](https://www.theepochtimes.com/james-baker-may-face-serious-ethics-charges-for-vetting-twitter-files-without-musks-knowledge-says-expert_4915754.html)
+ - RSS feed: https://www.theepochtimes.com/c-tech/feed/
+ - date published: 2022-12-11 18:09:42+00:00
  - Persistent: True
 
 
@@ -86,6 +128,13 @@
  - [https://www.louderwithcrowder.com/elon-musk-fauci](https://www.louderwithcrowder.com/elon-musk-fauci)
  - RSS feed: http://louderwithcrowder.com/feed/
  - date published: 2022-12-11 13:43:32+00:00
+ - Persistent: True
+
+
+## Twitter Files reveal Trump ban came after Michelle Obama, others pressured the company
+ - [https://www.foxnews.com/politics/twitter-files-reveal-trump-ban-came-after-michelle-obama-others-pressured-company](https://www.foxnews.com/politics/twitter-files-reveal-trump-ban-came-after-michelle-obama-others-pressured-company)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-11 08:00:20+00:00
  - Persistent: True
 
 
@@ -292,6 +341,13 @@
  - Persistent: True
 
 
+## UK Warned by Farmers That It Is Facing a Food Supply Crisis
+ - [https://www.theepochtimes.com/uk-warned-by-farmers-that-it-is-facing-a-food-supply-crisis_4906491.html](https://www.theepochtimes.com/uk-warned-by-farmers-that-it-is-facing-a-food-supply-crisis_4906491.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2022-12-07 14:26:54+00:00
+ - Persistent: True
+
+
 ## China to Stop Welding Homes Shut as Covid Precaution After Protests
  - [https://gizmodo.com/china-relaxes-harshest-covid-19-rules-after-protests-1849862755](https://gizmodo.com/china-relaxes-harshest-covid-19-rules-after-protests-1849862755)
  - RSS feed: https://gizmodo.com/rss
@@ -359,6 +415,13 @@
  - [https://www.dailywire.com/news/ben-shapiro-twitter-files-show-2020-was-rigged-not-stolen-but-trump-is-hurting-himself](https://www.dailywire.com/news/ben-shapiro-twitter-files-show-2020-was-rigged-not-stolen-but-trump-is-hurting-himself)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-05 18:04:27+00:00
+ - Persistent: True
+
+
+## New Zealand wants to force Big Tech to hand over cash to mainstream media
+ - [https://reclaimthenet.org/nz-force-big-tech-pay-media/](https://reclaimthenet.org/nz-force-big-tech-pay-media/)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2022-12-05 17:55:44+00:00
  - Persistent: True
 
 
