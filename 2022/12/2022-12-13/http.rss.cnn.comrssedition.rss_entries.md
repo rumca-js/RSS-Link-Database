@@ -1,0 +1,610 @@
+# Source CNN, Source URL:http://rss.cnn.com/rss/edition.rss
+
+## Hospitals are opening triages in parking lots amid 'tripledemic' surge
+ - [https://www.cnn.com/videos/health/2022/12/13/trifecta-respiratory-viruses-covid-rsv-flu-hospitals-impact-elam-pkg-vpx.cnn](https://www.cnn.com/videos/health/2022/12/13/trifecta-respiratory-viruses-covid-rsv-flu-hospitals-impact-elam-pkg-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 22:14:12+00:00
+ - Starred: False
+
+Health care workers are battling a trifecta of respiratory illnesses — Covid-19, RSV and the flu, resulting in an influx of patients. The situation is so dire, some hospitals are creating space to triage patients by setting up tents in parking lots. CNN's Stephanie Elam reports.
+
+## Don Lemon and fiancé react to Biden signing same-sex marriage into law
+ - [https://www.cnn.com/videos/politics/2022/12/13/don-lemon-and-fiance-biden-respect-for-marriage-act-reax-lead-vpx.cnn](https://www.cnn.com/videos/politics/2022/12/13/don-lemon-and-fiance-biden-respect-for-marriage-act-reax-lead-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 21:50:01+00:00
+ - Starred: False
+
+CNN's Don Lemon reports live alongside his fiancé from the White House where President Joe Biden signed into law the Respect for Marriage Act, granting federal protections for same-sex and interracial couples.
+
+## Argentina overpowers Croatia as Messi closes in on elusive title
+ - [https://www.cnn.com/2022/12/13/football/argentina-croatia-lionel-messi-qatar-world-cup-spt-intl/index.html](https://www.cnn.com/2022/12/13/football/argentina-croatia-lionel-messi-qatar-world-cup-spt-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 21:24:51+00:00
+ - Starred: False
+
+Lionel Messi's lifelong dream of guiding Argentina to World Cup glory will remain alive until the last day of Qatar 2022, as La Albiceleste outclassed a weary-looking Croatia in a 3-0 victory in Tuesday's semifinal.
+
+## CNN exposes how US and European aid benefited churches that oppose LGBTQI+ rights
+ - [https://www.cnn.com/videos/world/2022/12/13/ghana-lgbtqi-churches-investigation-nima-elbagir-pkg-asequals-contd-intldsk.cnn](https://www.cnn.com/videos/world/2022/12/13/ghana-lgbtqi-churches-investigation-nima-elbagir-pkg-asequals-contd-intldsk.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 20:56:58+00:00
+ - Starred: False
+
+A CNN As Equals investigation follows Nima Elbagir to Ghana to reveal how Western aid money has benefited religious organizations that oppose LGBTQI+ rights and see the impact this has had on members of the local LGBTQI+ community.
+
+## Dictionary.com's word of the year is 'woman'
+ - [https://www.cnn.com/2022/12/13/us/dictionary-word-of-the-year-woman-2022-cec/index.html](https://www.cnn.com/2022/12/13/us/dictionary-word-of-the-year-woman-2022-cec/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 20:11:42+00:00
+ - Starred: False
+
+"Woman" is Dictionary.com's word of the year -- a word so simple and so common but nonetheless, according to the site, "inseparable from the story of 2022."
+
+## January 6 committee chairman: Final public meeting will be Monday and full report will come out December 21
+ - [https://www.cnn.com/2022/12/13/politics/january-6-committee-final-public-meeting/index.html](https://www.cnn.com/2022/12/13/politics/january-6-committee-final-public-meeting/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 20:04:33+00:00
+ - Starred: False
+
+Rep. Bennie Thompson, the chairman of the House select committee investigating the January 6, 2021, insurrection, told reporters the committee will hold its final public meeting on Monday and that the panel's full report will come out December 21.
+
+## Morocco and France's World Cup match offers something politics could never deliver
+ - [https://www.cnn.com/2022/12/13/opinions/morocco-france-world-cup-semifinal-beydoun/index.html](https://www.cnn.com/2022/12/13/opinions/morocco-france-world-cup-semifinal-beydoun/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 19:53:12+00:00
+ - Starred: False
+
+"History is not the past. It is the present. We carry our history with us. We are our history," wrote James Baldwin in a world that branded his Blackness as inhuman.
+
+## Second journalist dies suddenly during Qatar World Cup
+ - [https://edition.cnn.com/webview/sport/live-news/world-cup-semifinal-12-13-22/h_81e56582bdae5fc930c9a6bc4d5f6a46](https://edition.cnn.com/webview/sport/live-news/world-cup-semifinal-12-13-22/h_81e56582bdae5fc930c9a6bc4d5f6a46)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 19:33:45.058981+00:00
+ - Starred: False
+
+
+
+## Sharon Horgan on the power of sisterhood in 'Bad Sisters'
+ - [https://www.cnn.com/videos/tv/2022/12/13/amanpour-sharon-horgan-bad-sisters-catastrophe-domesic-abuse.cnn](https://www.cnn.com/videos/tv/2022/12/13/amanpour-sharon-horgan-bad-sisters-catastrophe-domesic-abuse.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 19:06:30+00:00
+ - Starred: False
+
+Actor, writer and producer Sharon Horgan discusses her latest hit 'Bad Sisters' and the power of human relationships that informs her work
+
+## LGBTQ+ activist reacts to 'horrendous' bill in Ghana
+ - [https://www.cnn.com/videos/tv/2022/12/13/amanpour-ghana-lgbtq-rights-phyll-opoku-gyimah.cnn](https://www.cnn.com/videos/tv/2022/12/13/amanpour-ghana-lgbtq-rights-phyll-opoku-gyimah.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 18:57:24+00:00
+ - Starred: False
+
+British-Ghanaian LGBTQ+ activist Lady Phyll talks to Christiane Amanpour about the dangers of Ghana's new anti-LGBTQ+ bill and what needs to be done to support people at risk.
+
+## Listen to the sound of Martian weather, recorded by the Perseverance rover
+ - [https://www.cnn.com/2022/12/13/world/nasa-mars-perseverance-dust-devil-sounds-scn/index.html](https://www.cnn.com/2022/12/13/world/nasa-mars-perseverance-dust-devil-sounds-scn/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 18:56:44+00:00
+ - Starred: False
+
+A towering whirlwind of dust passed right over the Perseverance rover as it explored the site of an ancient lake on Mars -- and the rover recorded the first sounds of this Martian dust devil using its microphone.
+
+## US lawmakers introduce bill to ban TikTok
+ - [https://www.cnn.com/2022/12/13/tech/tiktok-ban-bill/index.html](https://www.cnn.com/2022/12/13/tech/tiktok-ban-bill/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 18:41:58+00:00
+ - Starred: False
+
+A trio of US lawmakers has introduced new legislation that aims to ban TikTok from operating in the United States.
+
+## CNN anchor rolls the tape on local lawmaker's racist remarks. Hear his response
+ - [https://www.cnn.com/videos/us/2022/12/13/kevin-de-leon-la-city-council-ath-vpx.cnn](https://www.cnn.com/videos/us/2022/12/13/kevin-de-leon-la-city-council-ath-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 18:19:37+00:00
+ - Starred: False
+
+CNN's Kate Bolduan talks to Los Angeles city council member Kevin de León, who is facing renewed scrutiny after a video surfaced online of him engaged in a physical altercation with a community activist during a holiday event. That came after audio leaked earlier this year in which he and other council members made racist comments about a fellow council member's Black child.
+
+## Second journalist dies suddenly during Qatar World Cup
+ - [https://edition.cnn.com/webview/sport/live-news/world-cup-semifinal-12-13-22/index.html](https://edition.cnn.com/webview/sport/live-news/world-cup-semifinal-12-13-22/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 17:33:38.997363+00:00
+ - Starred: False
+
+
+
+## House GOP divided over whether McCarthy should give in on 'motion to vacate'
+ - [https://www.cnn.com/2022/12/13/politics/house-speaker-gop-motion-to-vacate/index.html](https://www.cnn.com/2022/12/13/politics/house-speaker-gop-motion-to-vacate/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 17:31:38+00:00
+ - Starred: False
+
+The House Republican Conference is still entrenched in an internal war over whether to reinstate an arcane rule that would empower any member to bring up a vote to oust a speaker at any time.
+
+## US Energy secretary shares how long it will take to scale fusion
+ - [https://www.cnn.com/videos/us/2022/12/13/jennifer-granholm-energy-secretary-nuclear-fusion-clean-energy-ath-vpx.cnn](https://www.cnn.com/videos/us/2022/12/13/jennifer-granholm-energy-secretary-nuclear-fusion-clean-energy-ath-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 17:29:21+00:00
+ - Starred: False
+
+CNN's Kate Bolduan speaks with US Secretary of Energy Jennifer Granholm about the scientific breakthrough in nuclear fusion energy and what it could mean for a clean energy future.
+
+## US finalizing plans to send Patriot missile defense system to Ukraine
+ - [https://www.cnn.com/2022/12/13/politics/us-patriot-missile-defense-system-ukraine/index.html](https://www.cnn.com/2022/12/13/politics/us-patriot-missile-defense-system-ukraine/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 17:19:42+00:00
+ - Starred: False
+
+The Biden administration is finalizing plans to send the Patriot missile defense system to Ukraine that could be announced as soon as this week, according to two US officials and a senior administration official.
+
+## Crime stopper cows foil suspect's escape
+ - [https://www.cnn.com/videos/world/2022/12/13/cows-corner-suspect-moos-cprog-orig-bdk.cnn](https://www.cnn.com/videos/world/2022/12/13/cows-corner-suspect-moos-cprog-orig-bdk.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 17:17:56+00:00
+ - Starred: False
+
+Cows herd suspect and police milk the chase video. CNN's Jeanne Moos reports on how cows put a suspect out to pasture.
+
+## At least seven dead as Peru protests disrupt flights and train travel
+ - [https://www.cnn.com/2022/12/13/americas/peru-protests-tuesday-intl/index.html](https://www.cnn.com/2022/12/13/americas/peru-protests-tuesday-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 17:09:40+00:00
+ - Starred: False
+
+At least seven people have died in ongoing protests in Peru after former President Pedro Castillo was impeached and later arrested after trying to dissolve Congress last week.
+
+## Soccer union 'sickened' by reports Iranian player faces possible execution
+ - [https://www.cnn.com/2022/12/13/middleeast/amir-nasr-azadani-iran-protests-fifpro-intl/index.html](https://www.cnn.com/2022/12/13/middleeast/amir-nasr-azadani-iran-protests-fifpro-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 16:53:09+00:00
+ - Starred: False
+
+The global soccer players' union, FIFPRO, said it is "shocked and sickened" by reports that Iranian soccer player Amir Nasr-Azadani faces the possibility of execution "after campaigning for women's rights and basic freedom in his country."
+
+## South African President will not be impeached over cash-in sofa scandal
+ - [https://www.cnn.com/2022/12/13/africa/south-africa-ramaphosa-impeachment-vote-intl/index.html](https://www.cnn.com/2022/12/13/africa/south-africa-ramaphosa-impeachment-vote-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 16:48:46+00:00
+ - Starred: False
+
+South African President Ramaphosa survived a move to start impeachment proceedings against him in a vote in parliament on Tuesday.
+
+## The formula that made 'A Charlie Brown Christmas' a holiday music hit
+ - [https://www.cnn.com/2022/12/13/entertainment/charlie-brown-christmas-vince-guaraldi-jazz-cec/index.html](https://www.cnn.com/2022/12/13/entertainment/charlie-brown-christmas-vince-guaraldi-jazz-cec/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 16:43:46+00:00
+ - Starred: False
+
+The familiar tunes of "A Charlie Brown Christmas" transport us. The opening measures make us children again, abed after Christmas dinner as the subtle sounds of the record player waft in from another room.
+
+## This new gaming console is hackable and smaller than a credit card
+ - [https://www.cnn.com/videos/business/2022/12/13/arduboy-mini-game-console-cprog-orig-ht.cnn-business](https://www.cnn.com/videos/business/2022/12/13/arduboy-mini-game-console-cprog-orig-ht.cnn-business)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 16:33:26+00:00
+ - Starred: False
+
+After making a credit card-sized game console that went viral in 2014, creator Kevin Bates is going even smaller with the Arduboy Mini. Though his latest creation offers 300 playable games, Bates hopes this tiny system also helps people learn to code.
+
+## Twins accused of cheating win $1.5M lawsuit against medical school
+ - [https://www.cnn.com/videos/us/2022/12/13/twins-pursue-same-career-path-contd-enten-cnntm-vpx.cnn](https://www.cnn.com/videos/us/2022/12/13/twins-pursue-same-career-path-contd-enten-cnntm-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 16:29:00+00:00
+ - Starred: False
+
+How often do twins pursue the same career? CNN's senior data reporter Harry Enten explains the increase in twin birth rates and what that may mean for their potential career choices.
+
+## Airbnb finds people have more trouble booking stays if hosts think they are Black
+ - [https://www.cnn.com/2022/12/13/tech/airbnb-project-lighthouse-data/index.html](https://www.cnn.com/2022/12/13/tech/airbnb-project-lighthouse-data/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 16:02:24+00:00
+ - Starred: False
+
+Airbnb on Tuesday said it has found a "meaningful difference" in the booking success rate for users who are perceived to be White compared to those who are perceived to be Black. The findings come after the company launched an initiative to uncover and remedy race-based discrimination on its platform.
+
+## Hotter, rainier, wetter — climate change is dramatically transforming the Arctic, report finds
+ - [https://www.cnn.com/2022/12/13/us/arctic-noaa-report-card-climate-change/index.html](https://www.cnn.com/2022/12/13/us/arctic-noaa-report-card-climate-change/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 16:00:19+00:00
+ - Starred: False
+
+Each year, the Arctic region goes through an annual health checkup — and the results are in: From a rapid decline in snow cover to an unprecedented late season melting event to another year of seabird die-offs, the Arctic has once again shown clear symptoms of an ailing planet.
+
+## Energy officials herald a 'milestone for the future of clean energy'
+ - [https://www.cnn.com/2022/12/13/us/energy-officials-announce-nuclear-fusion-climate-scn/index.html](https://www.cnn.com/2022/12/13/us/energy-officials-announce-nuclear-fusion-climate-scn/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 15:59:11+00:00
+ - Starred: False
+
+US Department of Energy officials announced a history-making accomplishment in nuclear fusion Tuesday: for the first time, US scientists produced more energy from fusion than the laser energy used to power the experiment.
+
+## US officials to announce nuclear fusion breakthrough
+ - [https://edition.cnn.com/us/live-news/nuclear-fusion-reaction-us-announcement-12-13-22/index.html](https://edition.cnn.com/us/live-news/nuclear-fusion-reaction-us-announcement-12-13-22/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 15:33:30.408213+00:00
+ - Starred: False
+
+
+
+## The NBA has renamed its MVP trophy after Michael Jordan
+ - [https://www.cnn.com/2022/12/13/sport/michael-jordan-mvp-nba-trophy-intl-spt/index.html](https://www.cnn.com/2022/12/13/sport/michael-jordan-mvp-nba-trophy-intl-spt/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 15:33:11+00:00
+ - Starred: False
+
+Basketball great Michael Jordan can add another accolade to his mighty list of accomplishments -- but this time, rather than receiving the trophy, he is the trophy, after the NBA unveiled the Chicago Bulls legend as the face of its latest Most Valuable Player (MVP) award.
+
+## Do you really need deodorant? Experts weigh in
+ - [https://www.cnn.com/2022/12/13/health/is-deodorant-necessary-antiperspirant-tips-wellness/index.html](https://www.cnn.com/2022/12/13/health/is-deodorant-necessary-antiperspirant-tips-wellness/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 15:04:01+00:00
+ - Starred: False
+
+Like brushing your teeth or washing your face, putting deodorant on every day might seem like one of those rituals crucial for basic hygiene.
+
+## Christopher Nolan created a nuclear explosion for "Oppenheimer" without CGI
+ - [https://www.cnn.com/2022/12/13/entertainment/christopher-nolan-oppenheimer/index.html](https://www.cnn.com/2022/12/13/entertainment/christopher-nolan-oppenheimer/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 14:55:13+00:00
+ - Starred: False
+
+Director Christopher Nolan created the look of a nuclear explosion for "Oppenheimer" without using CGI.
+
+## Inflation is finally falling. But the days when prices rose just 2% may never return
+ - [https://www.cnn.com/2022/12/13/economy/inflation-2-demographics-climate-deglobalization/index.html](https://www.cnn.com/2022/12/13/economy/inflation-2-demographics-climate-deglobalization/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 14:51:58+00:00
+ - Starred: False
+
+For the first time in decades, people in Europe and North America have been forced to contend with the harsh consequences of rapid inflation. That's meant higher grocery bills, wages that don't stretch as far and savings that lose value. For some, it's meant choosing between heating their homes and putting food on the table.
+
+## Mississippi State head football coach Mike Leach has died at 61 from heart condition complications
+ - [https://www.cnn.com/2022/12/13/sport/mike-leach-death-mississippi-state-spt-intl/index.html](https://www.cnn.com/2022/12/13/sport/mike-leach-death-mississippi-state-spt-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 14:41:02+00:00
+ - Starred: False
+
+Mississippi State head football coach Mike Leach died Monday night from heart condition complications, the university announced on Tuesday. He was 61.
+
+## How one family's struggle illustrates problems with the program meant to help Afghans who helped the US
+ - [https://www.cnn.com/2022/12/13/politics/afghan-special-immigration-visas/index.html](https://www.cnn.com/2022/12/13/politics/afghan-special-immigration-visas/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 14:00:13+00:00
+ - Starred: False
+
+For more than a year, I have been trying to help a family leave Afghanistan for safety and a new life abroad. I met one member of the family of four years ago on multiple assignments in Afghanistan and we have stayed in touch through the many ups and downs of the war and its aftermath.
+
+## Experimental mRNA cancer vaccine with immunotherapy reduces risk of melanoma returning, preliminary study finds
+ - [https://www.cnn.com/2022/12/13/health/mrna-cancer-vaccine-study/index.html](https://www.cnn.com/2022/12/13/health/mrna-cancer-vaccine-study/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 13:59:19+00:00
+ - Starred: False
+
+An experimental personalized mRNA vaccine in combination with the immunotherapy Keytruda reduced the risk of recurrence or death from melanoma in patients who had already had surgery, Moderna and Merck said Tuesday.
+
+## Alexandra Pelosi reflects on her father's attack: 'At some point, you're just done'
+ - [https://www.cnn.com/2022/12/13/politics/pelosi-documentary-cnntv/index.html](https://www.cnn.com/2022/12/13/politics/pelosi-documentary-cnntv/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 12:56:43+00:00
+ - Starred: False
+
+The violent attack on Paul Pelosi drove House Speaker Nancy Pelosi's decision to leave House Democratic leadership, with the family deciding while in an intensive care unit with him that they were "done," their daughter detailed in an in-depth interview with CNN on Tuesday morning.
+
+## United places order for 200 Boeing planes, giving two troubled jets a vote of confidence
+ - [https://www.cnn.com/2022/12/13/business/united-boeing-order/index.html](https://www.cnn.com/2022/12/13/business/united-boeing-order/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 12:25:51+00:00
+ - Starred: False
+
+United Airlines placed a massive order for at least 200 Boeing planes on Tuesday, split between two models dogged by recent problems: the 737 Max and the 787 Dreamliner.
+
+## The trains that changed the way we travel in 2022
+ - [https://www.cnn.com/travel/article/new-train-routes-2022/index.html](https://www.cnn.com/travel/article/new-train-routes-2022/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 12:24:53+00:00
+ - Starred: False
+
+Everyone loves a good train ride, and in 2022 the world did rail fanatics proud with new routes, new operators and a new need for speed across the globe.
+
+## Video shows protesters storm runway in Peru
+ - [https://www.cnn.com/videos/world/2022/12/13/peru-violent-protests-president-ousted-soares-pkg-es-intl-ldn-vpx.cnn](https://www.cnn.com/videos/world/2022/12/13/peru-violent-protests-president-ousted-soares-pkg-es-intl-ldn-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 12:19:20+00:00
+ - Starred: False
+
+Peru's new President Dina Boluarte has proposed bringing general elections forward two years to April 2024 amid ongoing protests throughout the country. Demonstrators have called for another general election, the dissolution of Congress, and the creation of a new constituent assembly. CNN's Isa Soares reports.
+
+## Anghami became the 'Spotify of the Middle East.' Now it's moving into live events
+ - [https://www.cnn.com/2022/12/13/tech/anghami-music-streaming-middle-east-spc/index.html](https://www.cnn.com/2022/12/13/tech/anghami-music-streaming-middle-east-spc/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 12:14:48+00:00
+ - Starred: False
+
+Anghami describes itself as the largest music streaming app for the Middle East and North Africa.
+
+## SEC charges Sam Bankman-Fried with defrauding FTX investors as he built a crypto 'house of cards'
+ - [https://www.cnn.com/2022/12/13/business/sam-bankman-fried-charges/index.html](https://www.cnn.com/2022/12/13/business/sam-bankman-fried-charges/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 12:12:02+00:00
+ - Starred: False
+
+The Securities and Exchange Commission charged Sam Bankman-Fried on Tuesday with defrauding investors in his failed crypto exchange FTX.
+
+## Kenyan double Olympic gold medalist David Rudisha survives plane crash
+ - [https://www.cnn.com/2022/12/13/sport/david-rudisha-plane-crash-kenya-olympic-champion-spt-intl/index.html](https://www.cnn.com/2022/12/13/sport/david-rudisha-plane-crash-kenya-olympic-champion-spt-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 11:36:20+00:00
+ - Starred: False
+
+Kenyan runner David Rudisha, a two-time Olympic 800m gold medalist, survived a plane crash in Kenya on Saturday, according to a statement from the non-profit conservation organization Big Life Foundation.
+
+## 'We're so used to the 'other' playing it but now it's here:' What it means for Qataris to experience a World Cup
+ - [https://www.cnn.com/2022/12/13/football/qatar-2022-world-cup-locals-react-goal-spt-intl/index.html](https://www.cnn.com/2022/12/13/football/qatar-2022-world-cup-locals-react-goal-spt-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 11:27:43+00:00
+ - Starred: False
+
+Reem Al-Haddad still remembers how excited she felt when Qatar won the right to host the 2022 World Cup.
+
+## South Korea says crypto fugitive Do Kwon is hiding in Serbia
+ - [https://www.cnn.com/2022/12/13/business/south-korea-do-kwon-serbia-intl-hnk/index.html](https://www.cnn.com/2022/12/13/business/south-korea-do-kwon-serbia-intl-hnk/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 11:21:33+00:00
+ - Starred: False
+
+Do Kwon, a disgraced tycoon behind the collapse of the TerraUSD and Luna coins that roiled the crypto assets market in May, is hiding in Serbia, according to South Korean prosecutors who are seeking to take him into custody.
+
+## These honeymooners got stuck on a cruise ship in 2020. Here's why they went on a do-over
+ - [https://www.cnn.com/travel/article/honeymoon-cruise-covid-do-over/index.html](https://www.cnn.com/travel/article/honeymoon-cruise-covid-do-over/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 11:03:59+00:00
+ - Starred: False
+
+It wasn't the honeymoon they planned. Instead of exploring the South Pacific on the cruise of a lifetime, newlyweds Jay and Carmen Martinez found themselves stuck at sea with no end date in sight.
+
+## Biden to sign into law same-sex marriage bill, 10 years after his famous Sunday show answer on the issue
+ - [https://www.cnn.com/2022/12/13/politics/white-house-same-sex-marriage-signing-ceremony/index.html](https://www.cnn.com/2022/12/13/politics/white-house-same-sex-marriage-signing-ceremony/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 11:00:41+00:00
+ - Starred: False
+
+One Sunday morning in May of 2012, Vice President Joe Biden shocked the country with an unexpected declaration delivered in an interview on NBC's "Meet the Press": He came out in public support of same-sex marriage for the first time.
+
+## What does the first year of motherhood look like? For this photographer — and many other women — it was dark and complex
+ - [https://www.cnn.com/style/article/rachel-papo-photography-postpartum-depression/index.html](https://www.cnn.com/style/article/rachel-papo-photography-postpartum-depression/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 10:56:21+00:00
+ - Starred: False
+
+In the weeks after photographer Rachel Papo gave birth to her son, Ilan, in the summer of 2013, she monitored herself. She watched for signs of anxiety, insomnia or loneliness, for the fog that had blanketed her brain for months after the birth of her daughter, Zohar, three years prior, making it difficult for her to function day to day.
+
+## Ford F-150 Lightning named MotorTrend Truck of the Year, the second electric pickup in a row
+ - [https://www.cnn.com/2022/12/13/business/motortrend-truck-of-the-year-ford-lightning/index.html](https://www.cnn.com/2022/12/13/business/motortrend-truck-of-the-year-ford-lightning/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 10:30:22+00:00
+ - Starred: False
+
+The Ford F-150 Lightning was named MotorTrend's 2023 Truck of the Year on Tuesday, making it the second electric pickup in a row to win that award.
+
+## Mark your calendar for the strongest meteor shower of the year
+ - [https://www.cnn.com/2022/12/13/world/geminids-meteor-shower-december-scn/index.html](https://www.cnn.com/2022/12/13/world/geminids-meteor-shower-december-scn/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 09:38:56+00:00
+ - Starred: False
+
+The best chance to see the strongest meteor shower of the year is on its way this week.
+
+## Here's how many times you need to reuse your reusable grocery bags
+ - [https://www.cnn.com/2022/12/13/world/cotton-tote-vs-plastic-bags-environment-climate-cost-scn/index.html](https://www.cnn.com/2022/12/13/world/cotton-tote-vs-plastic-bags-environment-climate-cost-scn/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 09:37:56+00:00
+ - Starred: False
+
+The battle against the single-use plastic bag may not be won but it's definitely under way.
+
+## Taiwan reports record incursion by Chinese bomber aircraft
+ - [https://www.cnn.com/2022/12/13/asia/taiwan-chinese-bombers-incursion-intl-hnk/index.html](https://www.cnn.com/2022/12/13/asia/taiwan-chinese-bombers-incursion-intl-hnk/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 09:05:12+00:00
+ - Starred: False
+
+China has sent a record 18 nuclear-capable H-6 bomber aircraft into Taiwan's air defense zone, the island's Defense Ministry said Tuesday, as Beijing continues to step-up pressure on the self-ruled island.
+
+## A massive coast-to-coast winter storm is bringing blizzard conditions and threatening tornadoes
+ - [https://www.cnn.com/2022/12/13/weather/nationwide-winter-storm-blizzard-tuesday/index.html](https://www.cnn.com/2022/12/13/weather/nationwide-winter-storm-blizzard-tuesday/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 08:44:14+00:00
+ - Starred: False
+
+A giant winter storm cutting through the US is bringing severe weather, with dangerous blizzard conditions in the Great Plains, icy weather in the upper Midwest and severe storms along the Gulf Coast Tuesday.
+
+## There's a sense that Trump is approaching a moment of maximum legal peril
+ - [https://www.cnn.com/2022/12/13/politics/trump-investigations-doj-analysis/index.html](https://www.cnn.com/2022/12/13/politics/trump-investigations-doj-analysis/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 08:01:11+00:00
+ - Starred: False
+
+Donald Trump is heading for a period of maximum legal and political risk over his role in the US Capitol insurrection and hoarding of classified documents that will collide with his efforts to electrify a low wattage 2024 White House bid.
+
+## G7 leaders pledge 'unwavering support' to Ukraine, including boosting air defense systems
+ - [https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-12-13-22/index.html](https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-12-13-22/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 07:52:06.596045+00:00
+ - Starred: False
+
+• Ukraine strikes kill 'dozens' in Melitopol
+• A Bakhmut man went outside to buy vegetables last week. He came home missing his left arm
+
+## G7 leaders pledge 'unwavering support' to Ukraine, including boosting air defense systems
+ - [https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-12-13-22/index.html](https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-12-13-22/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 07:52:02.335647+00:00
+ - Starred: False
+
+
+
+## China scraps virus tracking app as country braces for Covid impact
+ - [https://www.cnn.com/collections/intl-1312-china-covid/](https://www.cnn.com/collections/intl-1312-china-covid/)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 06:59:00+00:00
+ - Starred: False
+
+
+
+## Hong Kong scraps some restrictions for travelers, ends contact tracing
+ - [https://www.cnn.com/2022/12/13/business/hong-kong-covid-remove-travel-restriction-intl-hnk/index.html](https://www.cnn.com/2022/12/13/business/hong-kong-covid-remove-travel-restriction-intl-hnk/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 06:54:25+00:00
+ - Starred: False
+
+Hong Kong on Tuesday announced it would scrap some remaining restrictions on travelers and end contact tracing, after Beijing shifted away from its hardline zero-Covid stance.
+
+## Russia wanted this assassin set free in exchange for Whelan. See why he's in jail
+ - [https://www.cnn.com/videos/world/2022/12/13/vadim-krasikov-moscow-prisoner-swap-paul-whelan-pleitgen-dnt-ac360-vpx.cnn](https://www.cnn.com/videos/world/2022/12/13/vadim-krasikov-moscow-prisoner-swap-paul-whelan-pleitgen-dnt-ac360-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 06:52:40+00:00
+ - Starred: False
+
+CNN's Fred Pleitgen explains who Vadim Krasikov, the Russian assassin Moscow officials want to trade for Paul Whelan, is and how his release could affect the relationship between Germany and the US.
+
+## Brittney Griner reunites with her family at Texas military facility, where she got some barbeque and made her first dunk since her release
+ - [https://www.cnn.com/2022/12/13/us/brittney-griner-us-arrival-tuesday/index.html](https://www.cnn.com/2022/12/13/us/brittney-griner-us-arrival-tuesday/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 06:52:19+00:00
+ - Starred: False
+
+Freed from a Russian penal colony and back on American soil, WNBA star Brittney Griner got her first taste of a return to normal life at a Texas military facility over the weekend.
+
+## BTS star Jin begins military service as new era begins for K-pop supergroup
+ - [https://www.cnn.com/2022/12/13/celebrities/bts-jin-military-service-intl-hnk/index.html](https://www.cnn.com/2022/12/13/celebrities/bts-jin-military-service-intl-hnk/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 06:36:58+00:00
+ - Starred: False
+
+K-pop supergroup BTS entered a new era on Tuesday as Jin, its oldest member, began his mandatory military service amid tight security at an army training center in South Korea.
+
+## China challenges US chip curbs at WTO, citing 'trade protectionism'
+ - [https://www.cnn.com/2022/12/13/business/china-wto-lawsuit-chip-controls-intl-hnk/index.html](https://www.cnn.com/2022/12/13/business/china-wto-lawsuit-chip-controls-intl-hnk/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 06:24:49+00:00
+ - Starred: False
+
+China has challenged a move by the United States to block sales of advanced computer chips and chip-making equipment to Chinese companies by launching a trade dispute at the World Trade Organization, calling the measures "trade protectionism."
+
+## Indian and Chinese troops clash on disputed border
+ - [https://www.cnn.com/2022/12/13/asia/india-china-border-dispute-skirmish-tawang-sector-intl-hnk/index.html](https://www.cnn.com/2022/12/13/asia/india-china-border-dispute-skirmish-tawang-sector-intl-hnk/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 05:14:42+00:00
+ - Starred: False
+
+Indian and Chinese troops have clashed on their disputed Himalayan border, the first known incident between the two nuclear-armed Asian powers in nearly two years.
+
+## Former US pilot held in Australia faces charges over training Chinese military pilot
+ - [https://www.cnn.com/2022/12/13/australia/daniel-duggan-pilot-china-australia-intl-hnk/index.html](https://www.cnn.com/2022/12/13/australia/daniel-duggan-pilot-china-australia-intl-hnk/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 05:14:03+00:00
+ - Starred: False
+
+Former US Marine pilot Daniel Duggan, who was arrested earlier this year in Australia, is accused of breaking US arms control law by training Chinese military pilots to land on aircraft carriers, according to an indictment unsealed by a US court.
+
+## Bill Nye reacts to nuclear fusion breakthrough
+ - [https://www.cnn.com/videos/us/2022/12/13/bill-nye-nuclear-fusion-how-it-works-sot-ctn-vpx-contd.cnn](https://www.cnn.com/videos/us/2022/12/13/bill-nye-nuclear-fusion-how-it-works-sot-ctn-vpx-contd.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 05:10:12+00:00
+ - Starred: False
+
+For the first time in history, US scientists at the National Ignition Facility at the Lawrence Livermore National Laboratory in California successfully produced a nuclear fusion reaction resulting in a net energy gain. Science educator Bill Nye explains why this is such a big breakthrough.
+
+## Body of journalist Grant Wahl returned to US for autopsy, manager says, after his death at World Cup in Qatar
+ - [https://www.cnn.com/2022/12/12/football/grant-wahl-remains-repatriated-autopsy/index.html](https://www.cnn.com/2022/12/12/football/grant-wahl-remains-repatriated-autopsy/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 04:44:40+00:00
+ - Starred: False
+
+The body of prominent American journalist Grant Wahl has been returned to the US and an autopsy is being performed after he died while covering the World Cup in Qatar, his manager said.
+
+## 3 dead and foreign nationals injured after gunmen attack Kabul hotel
+ - [https://www.cnn.com/2022/12/12/asia/kabul-afghanistan-hotel-attack-intl-hnk/index.html](https://www.cnn.com/2022/12/12/asia/kabul-afghanistan-hotel-attack-intl-hnk/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 04:01:11+00:00
+ - Starred: False
+
+Three people were killed and many others injured after gunmen attacked a hotel in Kabul, the Afghan capital, on Monday.
+
+## Police officers among 6 killed in rural Australia gun battle
+ - [https://www.cnn.com/2022/12/12/australia/queensland-australia-shootout-police-intl-hnk/index.html](https://www.cnn.com/2022/12/12/australia/queensland-australia-shootout-police-intl-hnk/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 03:28:02+00:00
+ - Starred: False
+
+Two police officers were shot dead in an ambush outside a house in rural northeast Australia Monday, sparking an hours-long gun battle that ended with the deaths of all three suspected shooters, Queensland police said.
+
+## Ex-ambassador has theory on why Putin canceled year-end press conference
+ - [https://www.cnn.com/videos/world/2022/12/13/john-sullivan-russia-putin-cancels-end-of-year-press-conference-sot-ebof-vpx.cnn](https://www.cnn.com/videos/world/2022/12/13/john-sullivan-russia-putin-cancels-end-of-year-press-conference-sot-ebof-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 03:24:50+00:00
+ - Starred: False
+
+Former US ambassador to Russia, John Sullivan, reacts to the news that Russian President Vladimir Putin has decided not to hold his annual year-end press conference for the first time since 2013.
+
+## Prosecutors reveal alleged motive in Murdaugh case
+ - [https://www.cnn.com/videos/us/2022/12/13/alex-murdaugh-prosecutors-alleged-motive-kaye-contd-dnt-ac360-vpx.cnn](https://www.cnn.com/videos/us/2022/12/13/alex-murdaugh-prosecutors-alleged-motive-kaye-contd-dnt-ac360-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 02:55:03+00:00
+ - Starred: False
+
+Disbarred former South Carolina attorney Alex Murdaugh pleaded not guilty to the murders of his wife and son, who were found shot to death on the family's property in June 2021. CNN's Randi Kaye reports that prosecutors are now sharing a possible motive in the case.
+
+## 'You're being forced out!': Families confront Uvalde acting police chief
+ - [https://www.cnn.com/videos/us/2022/12/13/uvalde-report-sheriff-active-shooter-robb-elementary-prokupecz-dnt-contd-ac360-vpx.cnn](https://www.cnn.com/videos/us/2022/12/13/uvalde-report-sheriff-active-shooter-robb-elementary-prokupecz-dnt-contd-ac360-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 02:19:17+00:00
+ - Starred: False
+
+CNN's Shimon Prokupecz examines revelations from an independent review of the police response to the May 24th shooting at Robb Elementary School.
+
+## Video appears to show Russian combat instructor pleading for more equipment
+ - [https://www.cnn.com/videos/world/2022/12/13/russia-military-instructor-plea-supplies-hertling-ebof-sot-vpx.cnn](https://www.cnn.com/videos/world/2022/12/13/russia-military-instructor-plea-supplies-hertling-ebof-sot-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 02:04:36+00:00
+ - Starred: False
+
+A video that has not been verified independently by CNN appears to show a Russian combat instructor pleading for more supplies for his trainees. Retired Lt. Gen. Mark Hertling says the video is another example of Russia 'failing miserably' to build a modern army.
+
+## Hear Fauci's response to Elon Musk's attacks
+ - [https://www.cnn.com/videos/business/2022/12/13/anthony-fauci-elon-musk-twitter-covid-19-ebof-contd-vpx.cnn](https://www.cnn.com/videos/business/2022/12/13/anthony-fauci-elon-musk-twitter-covid-19-ebof-contd-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 01:46:30+00:00
+ - Starred: False
+
+During an interview with CNN's David Axelrod, Dr. Anthony Fauci responded to a series of tweets from Elon Musk that suggested Fauci be prosecuted.
+
+## From bloody Balkan war to World Cup heavyweight: the making of Croatia as a soccer nation
+ - [https://www.cnn.com/collections/intl-1312-world-cup/](https://www.cnn.com/collections/intl-1312-world-cup/)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 00:50:35+00:00
+ - Starred: False
+
+
+
+## How a 31-year-old country became a soccer heavyweight
+ - [https://www.cnn.com/2022/12/12/football/croatia-profile-argentina-2022-world-cup-spt-intl/index.html](https://www.cnn.com/2022/12/12/football/croatia-profile-argentina-2022-world-cup-spt-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 00:42:19+00:00
+ - Starred: False
+
+Panama, Mauritania, Georgia and Eritrea are four countries with roughly the equivalent population sizes of Croatia.
+
+## Gene editing technology for treatment-resistant cancer could be a 'scientific layup' to treat other diseases
+ - [https://www.cnn.com/2022/12/12/health/base-editing-cancer-treatment/index.html](https://www.cnn.com/2022/12/12/health/base-editing-cancer-treatment/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 00:19:00+00:00
+ - Starred: False
+
+For the first time, a new gene editing technology called base editing was used to modify immune cells and successfully treat a teen with treatment-resistant leukemia. A month afterward, 13-year-old Alyssa was in remission, and she continues to do well several months later.
+
+## Sam Bankman-Fried, FTX's founder, is arrested in the Bahamas
+ - [https://www.cnn.com/2022/12/12/business/sam-bankman-fried-arrested/index.html](https://www.cnn.com/2022/12/12/business/sam-bankman-fried-arrested/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-13 00:04:19+00:00
+ - Starred: False
+
+Sam Bankman-Fried, the founder of failed crypto exchange FTX, was arrested in the Bahamas on Monday after US prosecutors filed criminal charges against him, according to a statement from the government of the Bahamas.
