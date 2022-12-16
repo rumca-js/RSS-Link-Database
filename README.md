@@ -4,6 +4,9 @@ Rss links database.
 
 Captured using Django application: [https://github.com/rumca-js/Django-rss-feed](https://github.com/rumca-js/Django-rss-feed).
 
+ - I cannot keep everything in one place. Please look for individual years for all data, like: https://github.com/rumca-js/RSS-Link-Database-2022
+ - This repository maintains data that is 'important', marked as such
+
 # Data
 
  - RSS links are captured for each source separately
@@ -31,6 +34,8 @@ Captured using Django application: [https://github.com/rumca-js/Django-rss-feed]
  - Luke Smith: Remember to Consoom Next Content on YouTube [https://www.youtube.com/watch?v=nI3GVw2JSEI](https://www.youtube.com/watch?v=nI3GVw2JSEI). As a society we provide news instead of building a data base of important information
  - Automating a Reading List [https://zanshin.net/2022/09/11/automating-a-reading-list/](https://zanshin.net/2022/09/11/automating-a-reading-list/)
  - Bright Insight: YES, They Really Are Deleting the Internet And it’s WAY Worse Than You Think [https://www.youtube.com/watch?v=8O_NvPpbsbw](https://www.youtube.com/watch?v=8O_NvPpbsbw). Data are removed from 'visibility' in Google and other platforms.
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/QHBcLrlgaxY/0.jpg)](https://www.youtube.com/watch?v=QHBcLrlgaxY)
 
 # Data analysis
 
