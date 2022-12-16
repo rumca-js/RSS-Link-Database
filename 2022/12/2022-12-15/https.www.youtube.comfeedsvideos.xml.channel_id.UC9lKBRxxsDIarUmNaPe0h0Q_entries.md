@@ -1,0 +1,51 @@
+# Source Sorelle Amore Finance, Source URL:https://www.youtube.com/feeds/videos.xml?channel_id=UC9lKBRxxsDIarUmNaPe0h0Q
+
+## The "Mother Of All Crashes" is almost here (Michael Burry's new prediction)
+ - [https://www.youtube.com/watch?v=3uZQ-PrtjiQ](https://www.youtube.com/watch?v=3uZQ-PrtjiQ)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC9lKBRxxsDIarUmNaPe0h0Q
+ - date published: 2022-12-15 15:01:05+00:00
+ - Starred: False
+
+🎨 JOIN MASTERWORKS (and skip the waiting list): http://masterworks.art/sorelle
+✉️ OUR NEWSLETTER: https://www.abundantia.co/
+📚 OUR COURSE/MEMBERSHIP: http://jointheorder.co/
+
+Is this the end of America's economy? Well, Michael Burry has been saying that for a long while now, and his recent bets on the stock market seem to suggest he's putting his money where his mouth is, by moving heavily into real assets.
+
+People who know Michael Burry know that he's controversial. He's always talking about doom and gloom, and he's often suggesting that the worst stuff is just around the corner. Some say he's wrong, but others say he's just always a little early in his predictions.
+
+Right now, Burry's latest 13F filings suggest that he's preparing for the stock market to take an even bigger dive, as he seems to be moving more into real assets, and away from riskier tech stocks. But as always, he's just one man: we should take everything with a grain of salt.
+
+Let me know your thoughts below.
+
+0:00 - Michael Burry's new prediction
+0:45 - A brief history of Burry
+2:45 - Why Burry is buying up real assets
+4:57 - Masterworks insert
+6:04 - Where money moves during economic crisis
+7:48 - Trends are better predictors than people
+
+► IMPORTANT LINKS:
+Enter your email via the link below for free weekly lessons and insights into becoming financially free, investing, global tax and corporate structures, passports, residencies, and more.
+JOIN: https://www.abundantia.co/
+
+► SOCIAL MEDIA:
+• Abundantia Instagram: @abundantia.co https://www.instagram.com/abundantia.co/
+• Sorelle's Instagram: @sorelleamore  https://instagram.com/sorelleamore
+• Leon's Instagram: @leonhill  https://instagram.com/leonhill
+• Abundantia Twitter: https://twitter.com/abundantiaco
+• Abundantia Facebook: http://facebook.com/abundantiafinance
+
+Sorelle and Leon.
+Founders, Abundantia
+
+Liability Disclaimer: https://www.abundantia.co/disclaimer
+*We may earn a commission if you buy any products or services via the links in this video's description. This video is not investment, financial, or legal advice. It may be incorrect, outdated, inaccurate, or reflect personal opinions. This video is for entertainment purposes only.
+
+Presented by Sorelle Amore.
+Written by Leon Hill.
+
+This video is sponsored by Masterworks.
+See important Masterworks disclosures: http://masterworks.io/cd 
+
+#MichaelBurry #FinancialCrash #Economy

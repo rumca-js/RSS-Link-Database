@@ -1,3 +1,206 @@
+## Skull and Bones
+ - [https://en.m.wikipedia.org/wiki/Skull_and_Bones](https://en.m.wikipedia.org/wiki/Skull_and_Bones)
+ - RSS feed: https://en.m.wikipedia.org
+ - date published: 2022-12-15 20:14:17+00:00
+ - Persistent: True
+
+
+## Bilderberg meeting
+ - [https://en.m.wikipedia.org/wiki/Bilderberg_meeting](https://en.m.wikipedia.org/wiki/Bilderberg_meeting)
+ - RSS feed: https://en.m.wikipedia.org/wiki/Bilderberg_meeting
+ - date published: 2022-12-15 20:13:23+00:00
+ - Persistent: True
+
+
+## Corporate coalition pushes government to create digital ID infrastructure
+ - [https://reclaimthenet.org/corporations-push-for-digital-id/](https://reclaimthenet.org/corporations-push-for-digital-id/)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2022-12-15 20:10:33+00:00
+ - Persistent: True
+
+
+## Rothschild Island
+ - [https://en.m.wikipedia.org/wiki/Rothschild_Island](https://en.m.wikipedia.org/wiki/Rothschild_Island)
+ - RSS feed: https://en.m.wikipedia.org/wiki/Rothschild_Island
+ - date published: 2022-12-15 20:08:50+00:00
+ - Persistent: True
+
+
+## Epstein case: Little Saint James, U.S. Virgin Islands
+ - [https://en.wikipedia.org/wiki/Little_Saint_James,_U.S._Virgin_Islands](https://en.wikipedia.org/wiki/Little_Saint_James,_U.S._Virgin_Islands)
+ - RSS feed: https://en.wikipedia.org/wiki/Little_Saint_James,_U.S._Virgin_Islands
+ - date published: 2022-12-15 20:07:20+00:00
+ - Persistent: True
+
+
+## Big Tech Companies Join Linux in Effort to Kill Google Maps
+ - [https://gizmodo.com/linux-google-maps-meta-aws-microsoft-tomtom-1849899375](https://gizmodo.com/linux-google-maps-meta-aws-microsoft-tomtom-1849899375)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-12-15 20:00:00+00:00
+ - Persistent: True
+
+
+## Israel to introduce sweeping online censorship law
+ - [https://reclaimthenet.org/israel-to-introduce-sweeping-online-censorship-law/](https://reclaimthenet.org/israel-to-introduce-sweeping-online-censorship-law/)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2022-12-15 18:27:46+00:00
+ - Persistent: True
+
+
+## Fact Check: Did Ex-Intel Officials Call Hunter Biden Laptop Disinformation?
+ - [https://www.newsweek.com/hunter-biden-laptop-jim-jordan-facebook-disinformation-twitter-1767369](https://www.newsweek.com/hunter-biden-laptop-jim-jordan-facebook-disinformation-twitter-1767369)
+ - RSS feed: https://www.newsweek.com/rss
+ - date published: 2022-12-15 17:48:35+00:00
+ - Persistent: True
+
+
+## Senate Passes Bill Banning TikTok on Government Devices     - CNET
+ - [https://www.cnet.com/news/social-media/senate-passes-bill-banning-tiktok-on-government-devices/#ftag=CADf328eec](https://www.cnet.com/news/social-media/senate-passes-bill-banning-tiktok-on-government-devices/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2022-12-15 17:46:00+00:00
+ - Persistent: True
+
+
+## China is Using Quora as a Dangerous PSYOP
+ - [https://www.youtube.com/watch?v=uzVOS6iyX8k](https://www.youtube.com/watch?v=uzVOS6iyX8k)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UChvithwOECK5g_19TjldMKw
+ - date published: 2022-12-15 16:30:10+00:00
+ - Persistent: True
+
+
+## Republicans demand Twitter and Facebook provide government communications
+ - [http://www.msn.com/en-us/news/politics/republicans-demand-twitter-and-facebook-provide-government-communications/ar-AA15hLg6?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/republicans-demand-twitter-and-facebook-provide-government-communications/ar-AA15hLg6?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-14 22:36:03.811962+00:00
+ - Persistent: True
+
+
+## Peru declares nationwide state of emergency as crisis deepens
+ - [https://www.aljazeera.com/news/2022/12/14/peru-declares-nationwide-state-of-emergency-as-crisis-deepens](https://www.aljazeera.com/news/2022/12/14/peru-declares-nationwide-state-of-emergency-as-crisis-deepens)
+ - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2022-12-14 18:48:46+00:00
+ - Persistent: True
+
+
+## If You Make Over $600 on PayPal, Venmo or Cash App, the IRS Will Know About It     - CNET
+ - [https://www.cnet.com/personal-finance/taxes/if-you-make-over-600-on-paypal-venmo-or-cash-app-the-irs-will-know-about-it/#ftag=CADf328eec](https://www.cnet.com/personal-finance/taxes/if-you-make-over-600-on-paypal-venmo-or-cash-app-the-irs-will-know-about-it/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2022-12-14 17:15:00+00:00
+ - Persistent: True
+
+
+## Privacy concerns are raised over Chinese surveillance companies’ access to UK business crime data
+ - [https://reclaimthenet.org/dahua-and-hikvision-uk-data-access/](https://reclaimthenet.org/dahua-and-hikvision-uk-data-access/)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2022-12-14 16:28:55+00:00
+ - Persistent: True
+
+
+## Meta Accused in Lawsuit of Amplifying Hate Speech in Africa
+ - [http://www.msn.com/en-us/news/world/meta-accused-in-lawsuit-of-amplifying-hate-speech-in-africa/ar-AA15fjbi?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/meta-accused-in-lawsuit-of-amplifying-hate-speech-in-africa/ar-AA15fjbi?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-14 12:35:22.164363+00:00
+ - Persistent: True
+
+
+## „Foreign Affairs”: USA mogą być wciągnięte w równoległe wojny w Europie i na Pacyfiku
+ - [https://forsal.pl/swiat/usa/artykuly/8609972,foreign-affairs-usa-moga-byc-wciagniete-w-rownolegle-wojny-w-europie-i-na-pacyfiku.html](https://forsal.pl/swiat/usa/artykuly/8609972,foreign-affairs-usa-moga-byc-wciagniete-w-rownolegle-wojny-w-europie-i-na-pacyfiku.html)
+ - RSS feed: https://forsal.pl/.feed
+ - date published: 2022-12-14 07:46:40+00:00
+ - Persistent: True
+
+
+## Produktywni ludzie nie sprawdzają ciągle smartfona. Oto co robią zamiast tego
+ - [https://businessinsider.com.pl/rozwoj-osobisty/zdrowie/jak-zwiekszyc-produktywnosc-w-pracy-rada-dotyczaca-smartfona/fjw656f](https://businessinsider.com.pl/rozwoj-osobisty/zdrowie/jak-zwiekszyc-produktywnosc-w-pracy-rada-dotyczaca-smartfona/fjw656f)
+ - RSS feed: https://businessinsider.com.pl/.feed
+ - date published: 2022-12-14 05:41:00+00:00
+ - Persistent: True
+
+
+## Biden signs gay marriage law, calls it 'a blow against hate'
+ - [https://www.reddit.com/r/news/comments/zlifx0/biden_signs_gay_marriage_law_calls_it_a_blow/](https://www.reddit.com/r/news/comments/zlifx0/biden_signs_gay_marriage_law_calls_it_a_blow/)
+ - RSS feed: http://www.reddit.com/r/news/.rss
+ - date published: 2022-12-14 05:21:08+00:00
+ - Persistent: True
+
+
+## Ex-Twitter CEO Jack Dorsey insists there was 'no ill intent or hidden agendas' amid fallout from Twitter Files
+ - [https://www.foxnews.com/media/ex-twitter-ceo-jack-dorsey-insists-no-ill-intent-hidden-agendas-amid-fallout-twitter-files](https://www.foxnews.com/media/ex-twitter-ceo-jack-dorsey-insists-no-ill-intent-hidden-agendas-amid-fallout-twitter-files)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-14 02:30:19+00:00
+ - Persistent: True
+
+
+## Social Media Goes Wild As Cambridge Dictionary Redefines ‘Woman,’ ‘Man’
+ - [https://www.dailywire.com/news/social-media-goes-wild-as-cambridge-dictionary-redefines-woman-man](https://www.dailywire.com/news/social-media-goes-wild-as-cambridge-dictionary-redefines-woman-man)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-13 17:44:34+00:00
+ - Persistent: True
+
+
+## This will DESTROY Mark Zuckerberg & Facebook
+ - [https://www.youtube.com/watch?v=EHKVkRBG7QE](https://www.youtube.com/watch?v=EHKVkRBG7QE)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCoOjH8D2XAgjzQlneM2W0EQ
+ - date published: 2022-12-13 16:15:00+00:00
+ - Persistent: True
+
+
+## WordPress debated taking down the New York Post Hunter Biden story
+ - [https://www.theverge.com/2022/12/13/23506029/wordpress-vip-automattic-matt-mullenweg-content-moderation-new-york-post-biden-laptop](https://www.theverge.com/2022/12/13/23506029/wordpress-vip-automattic-matt-mullenweg-content-moderation-new-york-post-biden-laptop)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-13 13:22:13+00:00
+ - Persistent: True
+
+
+## 'Maybe because I'm from China...': Twitter shutting down Chinese employee's concerns over censorship says so much
+ - [https://www.louderwithcrowder.com/twitter-censorship-employee-concern](https://www.louderwithcrowder.com/twitter-censorship-employee-concern)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2022-12-13 13:05:00+00:00
+ - Persistent: True
+
+
+## EU corruption scandal: MEP denies Qatar bribery after over €1m seized
+ - [https://www.bbc.co.uk/news/world-europe-63952993?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63952993?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-12-13 11:46:07+00:00
+ - Persistent: True
+
+
+## As ESG Is Gamed With Greenwashing, Better Energy Uses Future Fit.
+ - [https://www.forbes.com/sites/roslynlayton/2022/12/13/as-esg-is-gamed-with-greenwashing-better-energy-uses-future-fit/](https://www.forbes.com/sites/roslynlayton/2022/12/13/as-esg-is-gamed-with-greenwashing-better-energy-uses-future-fit/)
+ - RSS feed: https://www.forbes.com/innovation/feed2
+ - date published: 2022-12-13 09:01:53+00:00
+ - Persistent: True
+
+
+## Twitter files show how Trump was banned, while world dictators were allowed to call for mass murder
+ - [https://www.dailymail.co.uk/news/article-11530873/Twitter-files-Trump-banned-world-dictators-allowed-call-mass-murder.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11530873/Twitter-files-Trump-banned-world-dictators-allowed-call-mass-murder.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-13 00:39:13+00:00
+ - Persistent: True
+
+
+## This Privacy Setting Helps Keep Facebook From Tracking You     - CNET
+ - [https://www.cnet.com/news/privacy/this-privacy-setting-helps-keep-facebook-from-tracking-you/#ftag=CADf328eec](https://www.cnet.com/news/privacy/this-privacy-setting-helps-keep-facebook-from-tracking-you/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2022-12-13 00:15:03+00:00
+ - Persistent: True
+
+
+## Twitter files PART FIVE: Trump was banned even though employees said he did NOT violate policy
+ - [https://www.dailymail.co.uk/news/article-11530029/Twitter-files-FIVE-Trump-banned-employees-said-did-NOT-violate-policy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11530029/Twitter-files-FIVE-Trump-banned-employees-said-did-NOT-violate-policy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-12 19:29:03+00:00
+ - Persistent: True
+
+
+## The Twitter Files Part V: Chinese Employee Warned Co-Workers Against Censoring Trump
+ - [https://www.dailywire.com/news/the-twitter-files-part-v-chinese-employee-warned-co-workers-against-censoring-trump](https://www.dailywire.com/news/the-twitter-files-part-v-chinese-employee-warned-co-workers-against-censoring-trump)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-12 18:55:22+00:00
+ - Persistent: True
+
+
 ## Ratcliffe: No 'coincidence' Jim Baker got top Twitter job after pushing Russian collusion narrative
  - [https://www.foxnews.com/politics/ratcliffe-no-coincidence-jim-baker-got-top-twitter-job-pushing-russian-collusion-narrative](https://www.foxnews.com/politics/ratcliffe-no-coincidence-jim-baker-got-top-twitter-job-pushing-russian-collusion-narrative)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
@@ -16,6 +219,13 @@
  - [https://gizmodo.com/elon-musk-booed-stadium-crowd-dave-chappelle-sf-boo-1849881192](https://gizmodo.com/elon-musk-booed-stadium-crowd-dave-chappelle-sf-boo-1849881192)
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-12-12 10:00:00+00:00
+ - Persistent: True
+
+
+## Tech guru slams Twitter shadow banning as ‘one step away from George Orwell's Thought Police’
+ - [https://www.foxnews.com/media/tech-guru-slams-twitter-shadow-banning-as-one-step-away-from-george-orwells-thought-police](https://www.foxnews.com/media/tech-guru-slams-twitter-shadow-banning-as-one-step-away-from-george-orwells-thought-police)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-12 07:00:41+00:00
  - Persistent: True
 
 
@@ -159,6 +369,13 @@
  - Persistent: True
 
 
+## Jack Dorsey told Congress under oath Twitter was not shadow-banning
+ - [https://nypost.com/2022/12/10/jack-dorsey-told-congress-under-oath-twitter-was-not-shadow-banning/](https://nypost.com/2022/12/10/jack-dorsey-told-congress-under-oath-twitter-was-not-shadow-banning/)
+ - RSS feed: https://nypost.com
+ - date published: 2022-12-10 13:08:40+00:00
+ - Persistent: True
+
+
 ## 'Twitter Files' most overlooked finding? That Dorsey, Zuckerberg and half of America shrug at censorship
  - [https://www.foxnews.com/opinion/twitter-files-overlooked-finding-dorsey-zuckerberg-half-america-shrug-censorship](https://www.foxnews.com/opinion/twitter-files-overlooked-finding-dorsey-zuckerberg-half-america-shrug-censorship)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
@@ -226,6 +443,13 @@
  - [https://tutanota.com/blog/posts/facebook-tracking-business-model-illegal-europe/](https://tutanota.com/blog/posts/facebook-tracking-business-model-illegal-europe/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-09 14:57:28+00:00
+ - Persistent: True
+
+
+## Niedzielski: Jest duża nadwyżka szczepionek przeciwko Covid-19
+ - [https://forsal.pl/lifestyle/zdrowie/artykuly/8606647,nadwyzka-szczepionek-przeciwko-covid-19.html](https://forsal.pl/lifestyle/zdrowie/artykuly/8606647,nadwyzka-szczepionek-przeciwko-covid-19.html)
+ - RSS feed: https://forsal.pl/.feed
+ - date published: 2022-12-09 14:08:48+00:00
  - Persistent: True
 
 
@@ -306,6 +530,13 @@
  - Persistent: True
 
 
+## Instagram Will Now Tell You if You've Been Shadow-Banned and Why     - CNET
+ - [https://www.cnet.com/news/social-media/instagram-will-now-tell-you-if-youve-been-shadowbanned/#ftag=CADf328eec](https://www.cnet.com/news/social-media/instagram-will-now-tell-you-if-youve-been-shadowbanned/#ftag=CADf328eec)
+ - RSS feed: https://www.cnet.com/rss/all/
+ - date published: 2022-12-07 19:52:00+00:00
+ - Persistent: True
+
+
 ## Apple drops controversial plans for child sexual abuse imagery scanning
  - [https://www.theverge.com/2022/12/7/23498588/apple-csam-icloud-photos-scanning-encryption](https://www.theverge.com/2022/12/7/23498588/apple-csam-icloud-photos-scanning-encryption)
  - RSS feed: https://www.theverge.com/rss/index.xml
@@ -348,6 +579,13 @@
  - Persistent: True
 
 
+## Meta’s behavioral ads will finally face GDPR privacy reckoning in January
+ - [https://techcrunch.com/2022/12/06/meta-gdpr-forced-consent-edpb-decisions/](https://techcrunch.com/2022/12/06/meta-gdpr-forced-consent-edpb-decisions/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-07 11:36:18+00:00
+ - Persistent: True
+
+
 ## China to Stop Welding Homes Shut as Covid Precaution After Protests
  - [https://gizmodo.com/china-relaxes-harshest-covid-19-rules-after-protests-1849862755](https://gizmodo.com/china-relaxes-harshest-covid-19-rules-after-protests-1849862755)
  - RSS feed: https://gizmodo.com/rss
@@ -373,6 +611,13 @@
  - [https://www.foxnews.com/media/meta-vows-boycott-us-news-outlets-facebook-if-dem-sponsored-ad-revenue-bill-signed-into-law](https://www.foxnews.com/media/meta-vows-boycott-us-news-outlets-facebook-if-dem-sponsored-ad-revenue-bill-signed-into-law)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-06 17:30:51+00:00
+ - Persistent: True
+
+
+## World Health Organization meets to plot censorship of “misinformation” under international pandemic treaty
+ - [https://reclaimthenet.org/world-health-organization-censorship-misinformation-pandemic-treaty/](https://reclaimthenet.org/world-health-organization-censorship-misinformation-pandemic-treaty/)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2022-12-06 17:27:12+00:00
  - Persistent: True
 
 
@@ -499,6 +744,13 @@
  - [https://ithardware.pl/aktualnosci/facebook_oferuje_rzadom_platforme_do_zglaszania_tresci_do_ocenzurowania-24672.html](https://ithardware.pl/aktualnosci/facebook_oferuje_rzadom_platforme_do_zglaszania_tresci_do_ocenzurowania-24672.html)
  - RSS feed: https://ithardware.pl/feed
  - date published: 2022-12-04 13:56:40+00:00
+ - Persistent: True
+
+
+## Elon Musk Polls Twitter On Whether Julian Assange and Edward Snowden Should Be Pardoned
+ - [https://www.dailywire.com/news/elon-musk-polls-twitter-on-whether-julian-assange-and-edward-snowden-should-be-pardoned](https://www.dailywire.com/news/elon-musk-polls-twitter-on-whether-julian-assange-and-edward-snowden-should-be-pardoned)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-04 12:22:04+00:00
  - Persistent: True
 
 
@@ -999,6 +1251,13 @@
  - Persistent: True
 
 
+## Bill C-11 Raising Serious Doubts About CRTC’s Independence From Feds
+ - [https://www.theepochtimes.com/bill-c-11-raising-serious-doubts-about-crtcs-independence-from-feds_4881932.html](https://www.theepochtimes.com/bill-c-11-raising-serious-doubts-about-crtcs-independence-from-feds_4881932.html)
+ - RSS feed: https://www.theepochtimes.com/c-tech/feed/
+ - date published: 2022-11-23 17:28:01+00:00
+ - Persistent: True
+
+
 ## Eufy leaking your "private" images/faces & names... to the cloud.
  - [https://www.youtube.com/watch?v=qOjiCbxP5Lc](https://www.youtube.com/watch?v=qOjiCbxP5Lc)
  - RSS feed: https://www.youtube.com/@paulmoore9376
@@ -1013,10 +1272,24 @@
  - Persistent: True
 
 
+## WikiLeaks is struggling to stay online as millions of documents disappear
+ - [https://www.dailydot.com/debug/wikileaks-website-assange-hacked-documents/](https://www.dailydot.com/debug/wikileaks-website-assange-hacked-documents/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-11-23 07:23:30+00:00
+ - Persistent: True
+
+
 ## Scary! CCP is to impose a communal lifestyle. A planned economy is about to go full swing
  - [https://www.youtube.com/watch?v=0KY29wZD1mg](https://www.youtube.com/watch?v=0KY29wZD1mg)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug
  - date published: 2022-11-22 18:45:10+00:00
+ - Persistent: True
+
+
+## How Bill C-11 Could Open the Door to State-Controlled Media: Peter Menzies in the Epoch Times
+ - [https://macdonaldlaurier.ca/how-bill-c-11-could-open-the-door-to-state-controlled-media-peter-menzies-in-the-epoch-times/](https://macdonaldlaurier.ca/how-bill-c-11-could-open-the-door-to-state-controlled-media-peter-menzies-in-the-epoch-times/)
+ - RSS feed: https://macdonaldlaurier.ca
+ - date published: 2022-11-22 17:21:58+00:00
  - Persistent: True
 
 
@@ -1052,6 +1325,13 @@
  - [https://www.foxnews.com/media/disney-properties-pushed-progressive-rhetoric-every-turn-spat-desantis-view](https://www.foxnews.com/media/disney-properties-pushed-progressive-rhetoric-every-turn-spat-desantis-view)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-11-22 07:00:00+00:00
+ - Persistent: True
+
+
+## Oh, the Places Your Apple ID Will Go
+ - [https://pxlnv.com/blog/oh-the-places-your-apple-id-will-go/](https://pxlnv.com/blog/oh-the-places-your-apple-id-will-go/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-11-22 06:45:48+00:00
  - Persistent: True
 
 
@@ -1377,13 +1657,6 @@
  - Persistent: True
 
 
-## Christina Applegate reveals role on 'Dead to Me' may be last due to MS diagnosis
- - [https://www.foxnews.com/entertainment/christina-applegate-reveals-role-dead-to-me-may-be-last-due-ms-diagnosis](https://www.foxnews.com/entertainment/christina-applegate-reveals-role-dead-to-me-may-be-last-due-ms-diagnosis)
- - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
- - date published: 2022-11-13 00:09:15+00:00
- - Persistent: True
-
-
 ## FBI reportedly considered using Pegasus spyware in criminal investigations
  - [https://www.engadget.com/fbi-reportedly-considered-using-pegasus-spyware-195512125.html?src=rss](https://www.engadget.com/fbi-reportedly-considered-using-pegasus-spyware-195512125.html?src=rss)
  - RSS feed: https://www.engadget.com/rss.xml
@@ -1556,13 +1829,6 @@
  - [https://www.bankier.pl/wiadomosc/Nadciaga-fala-niewyplacalnosci-firm-Nie-pomoze-nawet-ustabilizowanie-cen-energii-8436158.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Nadciaga-fala-niewyplacalnosci-firm-Nie-pomoze-nawet-ustabilizowanie-cen-energii-8436158.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
  - date published: 2022-11-09 05:50:00+00:00
- - Persistent: True
-
-
-## Mark Zuckerberg confirms broad layoffs to begin at Meta
- - [https://www.theguardian.com/technology/2022/nov/08/meta-layoffs-facebook-mark-zuckerberg](https://www.theguardian.com/technology/2022/nov/08/meta-layoffs-facebook-mark-zuckerberg)
- - RSS feed: https://hnrss.org/frontpage
- - date published: 2022-11-09 03:53:21+00:00
  - Persistent: True
 
 
@@ -1794,6 +2060,13 @@
  - [https://www.foxnews.com/media/virginia-teacher-fired-refusing-students-preferred-pronouns-speaks-out-blacklisted](https://www.foxnews.com/media/virginia-teacher-fired-refusing-students-preferred-pronouns-speaks-out-blacklisted)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-11-04 18:01:52+00:00
+ - Persistent: True
+
+
+## Newsom sued over COVID ‘misinformation’ law that doctors say tramples First Amendment rights
+ - [https://www.foxnews.com/politics/newsom-hit-with-a-lawsuit-for-covid-19-misinformation-bill-doctors-say-trample-first-amendment-rights](https://www.foxnews.com/politics/newsom-hit-with-a-lawsuit-for-covid-19-misinformation-bill-doctors-say-trample-first-amendment-rights)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-11-04 17:08:42+00:00
  - Persistent: True
 
 
@@ -3841,6 +4114,13 @@
  - Persistent: True
 
 
+## Anti-vaccine groups avoid Facebook bans by using emojis
+ - [https://arstechnica.com/?p=1891666](https://arstechnica.com/?p=1891666)
+ - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
+ - date published: 2022-10-20 19:31:25+00:00
+ - Persistent: True
+
+
 ## Saudis Sought Oil Production Cut So Deep It Surprised Even Russia
  - [https://theintercept.com/2022/10/20/saudi-oil-production-cut/](https://theintercept.com/2022/10/20/saudi-oil-production-cut/)
  - RSS feed: https://theintercept.com/feed/?lang=en
@@ -3922,6 +4202,13 @@
  - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-media-putin-wprowadza-stan-wojenny-w-anektowanych-obwodach,nId,6357629](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-media-putin-wprowadza-stan-wojenny-w-anektowanych-obwodach,nId,6357629)
  - RSS feed: https://wydarzenia.interia.pl/feed
  - date published: 2022-10-19 12:01:53+00:00
+ - Persistent: True
+
+
+## How Faithful Is Amazon’s Rings of Power to JRR Tolkien’s Books?
+ - [https://middle-earth.xenite.org/how-faithful-is-amazons-rings-of-power-to-j-r-r-tolkiens-books/](https://middle-earth.xenite.org/how-faithful-is-amazons-rings-of-power-to-j-r-r-tolkiens-books/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-10-19 08:55:09+00:00
  - Persistent: True
 
 
@@ -6088,6 +6375,13 @@
  - Persistent: True
 
 
+## ‘Troubling Track Record’: Ron Johnson Questions YouTube Over COVID ‘Censorship’
+ - [https://www.dailywire.com/news/troubling-track-record-ron-johnson-questions-youtube-over-covid-censorship](https://www.dailywire.com/news/troubling-track-record-ron-johnson-questions-youtube-over-covid-censorship)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-09-23 08:58:15+00:00
+ - Persistent: True
+
+
 ## Don’t spy on employees to ensure they’re working, Microsoft says
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58978](https://www.codeproject.com/script/News/View.aspx?nwid=58978)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
@@ -6169,6 +6463,13 @@
  - [https://www.foxnews.com/media/twitter-users-baffled-stacy-abrams-claims-no-fetal-heartbeat-six-weeks-wild-conspiracy-theory](https://www.foxnews.com/media/twitter-users-baffled-stacy-abrams-claims-no-fetal-heartbeat-six-weeks-wild-conspiracy-theory)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-22 18:16:44+00:00
+ - Persistent: True
+
+
+## Tell HN: Reddit shadowban account upon creation
+ - [https://news.ycombinator.com/item?id=32942635](https://news.ycombinator.com/item?id=32942635)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-09-22 18:16:42+00:00
  - Persistent: True
 
 
@@ -8699,6 +9000,20 @@
  - Persistent: True
 
 
+## Why everyone should be concerned about Ontario’s critical race theory bill
+ - [https://tnc.news/2022/03/15/why-everyone-should-be-concerned-about-ontarios-critical-race-theory-bill/](https://tnc.news/2022/03/15/why-everyone-should-be-concerned-about-ontarios-critical-race-theory-bill/)
+ - RSS feed: https://tnc.news/2022/03/15/why-everyone-should-be-concerned-about-ontarios-critical-race-theory-bill/
+ - date published: 2022-03-15 17:27:20+00:00
+ - Persistent: True
+
+
+## Ontario “on the verge of enforcing Critical Race Theory in all schools”
+ - [https://www.todayville.com/ontario-on-the-verge-of-enforcing-critical-race-theory-in-all-schools/](https://www.todayville.com/ontario-on-the-verge-of-enforcing-critical-race-theory-in-all-schools/)
+ - RSS feed: https://www.todayville.com/ontario-on-the-verge-of-enforcing-critical-race-theory-in-all-schools/
+ - date published: 2022-03-14 17:25:00+00:00
+ - Persistent: True
+
+
 ## The Economy Is Fake, the Jobs Are Fake, the Money Is Fake
  - [https://notrelated.xyz/audio/s02/S02E06_-_The_Economy_is_Fake_the_Jobs_are_Fake_the_Money_is_Fake.ogg](https://notrelated.xyz/audio/s02/S02E06_-_The_Economy_is_Fake_the_Jobs_are_Fake_the_Money_is_Fake.ogg)
  - RSS feed: https://notrelated.xyz/rss
@@ -8727,6 +9042,13 @@
  - Persistent: True
 
 
+## Jeffrey Epstein's pimp Jean-Luc Brunel 'hangs himself alone in Paris jail with no CCTV
+ - [https://www.dailymail.co.uk/news/article-10530247/Jeffrey-Epsteins-friend-Jean-Luc-Brunel-prison-suicide.html](https://www.dailymail.co.uk/news/article-10530247/Jeffrey-Epsteins-friend-Jean-Luc-Brunel-prison-suicide.html)
+ - RSS feed: https://www.dailymail.co.uk/news/article-10530247/Jeffrey-Epsteins-friend-Jean-Luc-Brunel-prison-suicide.html
+ - date published: 2022-02-19 19:44:45+00:00
+ - Persistent: True
+
+
 ## Kanada: Ottawa Police Chief says police will come after protesters for months to come
  - [https://westphaliantimes.com/ottawa-police-chief-says-law-enforcement-will-come-after-protestors-even-if-they-go-home/](https://westphaliantimes.com/ottawa-police-chief-says-law-enforcement-will-come-after-protestors-even-if-they-go-home/)
  - RSS feed: westphaliantimes.com
@@ -8738,6 +9060,13 @@
  - [https://www.theverge.com/2022/2/18/22940517/windows-11-pro-require-microsoft-account-internet-connection](https://www.theverge.com/2022/2/18/22940517/windows-11-pro-require-microsoft-account-internet-connection)
  - RSS feed: https://www.theverge.com
  - date published: 2022-02-18 20:52:01+00:00
+ - Persistent: True
+
+
+## Google Search Is Dying
+ - [https://dkb.io/post/google-search-is-dying](https://dkb.io/post/google-search-is-dying)
+ - RSS feed: https://dkb.io/post/google-search-is-dying
+ - date published: 2022-02-15 15:45:06+00:00
  - Persistent: True
 
 
@@ -8811,6 +9140,20 @@
  - Persistent: True
 
 
+## Here are all the famous people Jeffrey Epstein was connected to
+ - [https://www.businessinsider.com/famous-people-jeffery-epstein-money-manager-sexual-trafficking-connected-2019-7?IR=T](https://www.businessinsider.com/famous-people-jeffery-epstein-money-manager-sexual-trafficking-connected-2019-7?IR=T)
+ - RSS feed: https://www.businessinsider.com
+ - date published: 2022-01-29 19:42:03+00:00
+ - Persistent: True
+
+
+## Piotr Schramm - Digital Identity: Komisja Europejska chce przekształcić bilet koronowy w "cyfrowy identyfikator"
+ - [https://twitter.com/Piotr_Schramm/status/1486384858754699268](https://twitter.com/Piotr_Schramm/status/1486384858754699268)
+ - RSS feed: https://twitter.com
+ - date published: 2022-01-26 08:23:55+00:00
+ - Persistent: True
+
+
 ## FDA Asks the Court to Delay First 55,000 Page Production Until May and Pfizer Moves to Intervene in the Lawsuit
  - [https://aaronsiri.substack.com/p/fda-asks-the-court-to-delay-first](https://aaronsiri.substack.com/p/fda-asks-the-court-to-delay-first)
  - RSS feed: aaronsiri.substack.com
@@ -8850,6 +9193,13 @@
  - [https://www.youtube.com/watch?v=WhNJJmmCkqY](https://www.youtube.com/watch?v=WhNJJmmCkqY)
  - RSS feed: https://www.youtube.com/c/academyofideas
  - date published: 2021-12-28 21:15:53+00:00
+ - Persistent: True
+
+
+## Amazon partnered with China propaganda arm
+ - [https://www.cnbc.com/2021/12/17/amazon-partnered-with-china-propaganda-arm.html](https://www.cnbc.com/2021/12/17/amazon-partnered-with-china-propaganda-arm.html)
+ - RSS feed: https://www.cnbc.com
+ - date published: 2021-12-17 17:12:05+00:00
  - Persistent: True
 
 
@@ -8969,6 +9319,27 @@
  - [https://notrelated.xyz/audio/s02/S02E05_-_Popper_Soros_and_the_Open_Society.ogg](https://notrelated.xyz/audio/s02/S02E05_-_Popper_Soros_and_the_Open_Society.ogg)
  - RSS feed: https://notrelated.xyz/rss
  - date published: 2021-10-31 04:00:00+00:00
+ - Persistent: True
+
+
+## Allegation of CIA 'murder' plot is game-changer in Assange extradition hearing, fiancee says
+ - [https://www.reuters.com/world/allegation-cia-murder-plot-is-game-changer-assange-extradition-hearing-fiancee-2021-10-25/](https://www.reuters.com/world/allegation-cia-murder-plot-is-game-changer-assange-extradition-hearing-fiancee-2021-10-25/)
+ - RSS feed: https://www.reuters.com/world/allegation-cia-murder-plot-is-game-changer-assange-extradition-hearing-fiancee-2021-10-25/
+ - date published: 2021-10-25 19:49:35+00:00
+ - Persistent: True
+
+
+## Israel designates Palestinian civil society groups as terrorists, U.N. 'alarmed'
+ - [https://www.reuters.com/business/aerospace-defense/israel-designates-six-palestinian-civil-society-groups-terrorists-2021-10-22/](https://www.reuters.com/business/aerospace-defense/israel-designates-six-palestinian-civil-society-groups-terrorists-2021-10-22/)
+ - RSS feed: https://cdn.feedcontrol.net/8/1114-wioSIX3uu8MEj.xml
+ - date published: 2021-10-22 21:10:10+00:00
+ - Persistent: True
+
+
+## BlackRock: The Company that Owns the World
+ - [https://www.youtube.com/watch?v=1n4zkdfKUAE](https://www.youtube.com/watch?v=1n4zkdfKUAE)
+ - RSS feed: https://www.youtube.com/@jaketran
+ - date published: 2021-10-21 08:30:47+00:00
  - Persistent: True
 
 
@@ -9294,6 +9665,13 @@
  - Persistent: True
 
 
+## Cyfrowy juan to śledzona i scentralizowana waluta Chin, która zastępuje fizyczne pieniądze
+ - [https://ithardware.pl/aktualnosci/cyfrowy_juan_to_cyfrowa_sledzona_i_scentralizowana_waluta_chin_ktora_zastapi_fizyczne_pieniadze-15649.html](https://ithardware.pl/aktualnosci/cyfrowy_juan_to_cyfrowa_sledzona_i_scentralizowana_waluta_chin_ktora_zastapi_fizyczne_pieniadze-15649.html)
+ - RSS feed: https://ithardware.pl
+ - date published: 2021-04-07 08:20:36+00:00
+ - Persistent: True
+
+
 ## YouTube Channel Deletion
  - [https://lukesmith.xyz/updates/deletion/](https://lukesmith.xyz/updates/deletion/)
  - RSS feed: https://lukesmith.xyz/rss.xml
@@ -9522,6 +9900,13 @@
  - [https://tarnogorski.info/pilne-kierownik-oddzia/](https://tarnogorski.info/pilne-kierownik-oddzia/)
  - RSS feed: tarnogorski.info
  - date published: 2020-11-29 07:28:13+00:00
+ - Persistent: True
+
+
+## WikiLeaks 'Cablegate' 10 years on
+ - [https://www.dw.com/en/wikileaks-cablegate-10-years-on-an-unvarnished-look-at-us-foreign-policy/a-55755239](https://www.dw.com/en/wikileaks-cablegate-10-years-on-an-unvarnished-look-at-us-foreign-policy/a-55755239)
+ - RSS feed: https://www.dw.com
+ - date published: 2020-11-28 20:05:21+00:00
  - Persistent: True
 
 
@@ -9784,6 +10169,20 @@
  - Persistent: True
 
 
+## Epstein case: Suspect who shot family of judge on DB-Jeffrey Epstein case found dead after apparent suicide – reports
+ - [https://www.rt.com/usa/495320-suspect-epstein-judge-shooting-suicide/](https://www.rt.com/usa/495320-suspect-epstein-judge-shooting-suicide/)
+ - RSS feed: https://www.rt.com/usa/495320-suspect-epstein-judge-shooting-suicide/
+ - date published: 2020-07-20 19:40:28+00:00
+ - Persistent: True
+
+
+## Epstein case: Attorney who was found dead named as primary suspect in fatal shooting at federal judge’s home
+ - [https://edition.cnn.com/2020/07/19/us/federal-judge-esther-salas-shooting-investigation/index.html](https://edition.cnn.com/2020/07/19/us/federal-judge-esther-salas-shooting-investigation/index.html)
+ - RSS feed: https://edition.cnn.com
+ - date published: 2020-07-19 19:38:39+00:00
+ - Persistent: True
+
+
 ## Google Google: koniec z zarabianiem na teoriach spiskowych!
  - [https://www.tabletowo.pl/google-koniec-z-zarabianiem-na-teoriach-spiskowych](https://www.tabletowo.pl/google-koniec-z-zarabianiem-na-teoriach-spiskowych)
  - RSS feed: www.tabletowo.pl
@@ -9802,6 +10201,13 @@
  - [https://www.youtube.com/watch?v=uqwvf6R1_QY](https://www.youtube.com/watch?v=uqwvf6R1_QY)
  - RSS feed: https://www.youtube.com/c/UpIsNotJump
  - date published: 2020-07-09 07:33:22+00:00
+ - Persistent: True
+
+
+## Judge Rules Virginia Giuffre's Lawyers Must 'Destroy' Jeffrey Epstein Files
+ - [https://www.newsweek.com/judge-rules-virginia-giuffres-lawyers-must-destroy-jeffrey-epstein-files-1514909](https://www.newsweek.com/judge-rules-virginia-giuffres-lawyers-must-destroy-jeffrey-epstein-files-1514909)
+ - RSS feed: https://www.newsweek.com
+ - date published: 2020-07-02 19:43:29+00:00
  - Persistent: True
 
 
@@ -9994,6 +10400,13 @@
  - Persistent: True
 
 
+## Death of Jeffrey Epstein
+ - [https://en.wikipedia.org/wiki/Death_of_Jeffrey_Epstein](https://en.wikipedia.org/wiki/Death_of_Jeffrey_Epstein)
+ - RSS feed: https://en.wikipedia.org
+ - date published: 2019-08-10 19:36:32+00:00
+ - Persistent: True
+
+
 ## Koniec naszego świata
  - [https://www.tvp.info/43374228/koniec-naszego-swiata](https://www.tvp.info/43374228/koniec-naszego-swiata)
  - RSS feed: www.tvp.info
@@ -10176,6 +10589,13 @@
  - Persistent: True
 
 
+## Sanji in Kamabakka kingdom - One Piece
+ - [https://www.youtube.com/watch?v=tKjlf6DMXTk](https://www.youtube.com/watch?v=tKjlf6DMXTk)
+ - RSS feed: https://www.youtube.com/@xpain8472
+ - date published: 2018-05-11 15:51:38+00:00
+ - Persistent: True
+
+
 ## BlackRock - The company that owns the world?
  - [https://www.youtube.com/watch?v=A4foal20UTA](https://www.youtube.com/watch?v=A4foal20UTA)
  - RSS feed: https://www.youtube.com/c/InvestigateEurope
@@ -10274,6 +10694,13 @@
  - Persistent: True
 
 
+## Przeczywistość: Pizzagate
+ - [http://przeczywistosc.pl/pizzagate/](http://przeczywistosc.pl/pizzagate/)
+ - RSS feed: http://przeczywistosc.pl
+ - date published: 2017-02-01 19:51:40+00:00
+ - Persistent: True
+
+
 ## Selfie app Meitu allegedly leaks data to Chinese government
  - [https://www.bitdefender.com/blog/hotforsecurity/selfie-app-meitu-allegedly-leaks-data-to-chinese-government](https://www.bitdefender.com/blog/hotforsecurity/selfie-app-meitu-allegedly-leaks-data-to-chinese-government)
  - RSS feed: www.bitdefender.com
@@ -10302,6 +10729,13 @@
  - Persistent: True
 
 
+## 7 Not-So-Secret Homes of Super Secret Societies
+ - [https://www.atlasobscura.com/articles/7-notsosecret-homes-of-super-secret-societies](https://www.atlasobscura.com/articles/7-notsosecret-homes-of-super-secret-societies)
+ - RSS feed: https://www.atlasobscura.com
+ - date published: 2016-10-26 20:11:20+00:00
+ - Persistent: True
+
+
 ## Chrome ignoruje ustawienia prywatności
  - [https://teamquest.pl/blog/1698_chrome-ignoruje-ustawienia-prywatnosci](https://teamquest.pl/blog/1698_chrome-ignoruje-ustawienia-prywatnosci)
  - RSS feed: teamquest.pl
@@ -10323,6 +10757,13 @@
  - Persistent: True
 
 
+## Prezydent Kennedy o tajnych stowarzyszeniach i światowym spisku
+ - [https://www.youtube.com/watch?v=HwpgfgAbxYM](https://www.youtube.com/watch?v=HwpgfgAbxYM)
+ - RSS feed: https://www.youtube.com/@quidestveritas4570
+ - date published: 2015-12-15 08:19:46+00:00
+ - Persistent: True
+
+
 ## Początki: W Laboratoriach w Wuchan tworzono chimery wirusów nietoperzy w 2015
  - [https://www.nature.com/articles/nm.3985](https://www.nature.com/articles/nm.3985)
  - RSS feed: www.nature.com
@@ -10341,6 +10782,13 @@
  - [https://www.cbsnews.com/news/4-reasons-youtube-still-doesnt-make-a-profit/](https://www.cbsnews.com/news/4-reasons-youtube-still-doesnt-make-a-profit/)
  - RSS feed: www.cbsnews.com
  - date published: 2015-05-27 12:04:50+00:00
+ - Persistent: True
+
+
+## WikiLeaks: Can Hillary Clinton survive 'cablegate'?
+ - [https://theweek.com/articles/488919/wikileaks-hillary-clinton-survive-cablegate](https://theweek.com/articles/488919/wikileaks-hillary-clinton-survive-cablegate)
+ - RSS feed: https://theweek.com
+ - date published: 2015-01-09 20:02:24+00:00
  - Persistent: True
 
 
@@ -10428,6 +10876,13 @@
  - Persistent: True
 
 
+## Yuri Bezmenov on the Useful Idiots (AKA the left)
+ - [https://www.youtube.com/watch?v=EFW_i9NtP4I](https://www.youtube.com/watch?v=EFW_i9NtP4I)
+ - RSS feed: https://www.youtube.com/@michaeljacques7777
+ - date published: 1985-12-15 08:29:11+00:00
+ - Persistent: True
+
+
 ## KGB Defector Yuri Bezmenov 1985 Interview. Explains KGB Manipulation of US Public Opinion
  - [https://www.youtube.com/watch?v=pOmXiapfCs8](https://www.youtube.com/watch?v=pOmXiapfCs8)
  - RSS feed: https://www.youtube.com/watch?v=pOmXiapfCs8
@@ -10439,5 +10894,12 @@
  - [https://www.youtube.com/watch?v=Y9TviIuXPSE](https://www.youtube.com/watch?v=Y9TviIuXPSE)
  - RSS feed: https://www.youtube.com/watch?v=Y9TviIuXPSE
  - date published: 1984-11-06 20:54:09+00:00
+ - Persistent: True
+
+
+## Jak napaść na państwo (całość) Jurij Bezmienow
+ - [https://www.youtube.com/watch?v=lWIpFvGrNak](https://www.youtube.com/watch?v=lWIpFvGrNak)
+ - RSS feed: https://www.youtube.com/@prof.piotrjaroszynski
+ - date published: 1980-12-15 08:26:37+00:00
  - Persistent: True
 

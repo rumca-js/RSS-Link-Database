@@ -1,0 +1,450 @@
+# Source PC world, Source URL:https://www.pcworld.com/index.rss
+
+## Weird Al would kill for this DIY Commodore 64 accordion
+ - [https://www.pcworld.com/article/1436851/weird-al-would-kill-for-this-commodore-64-accordion.html](https://www.pcworld.com/article/1436851/weird-al-would-kill-for-this-commodore-64-accordion.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2022-12-15 16:09:18+00:00
+ - Starred: False
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>The accordion is possibly the most nerdy instrument on the planet, until someone figures out a way to operate a digeridoo with a Guitar Hero controller. But for now, the crown certainly goes to Swedish musician and electronics engineer Linus &Aring;kesson. He&rsquo;s been combining his passions for music and vintage electronics for years, but his latest project is surely his masterpiece. The &ldquo;Commodordion&rdquo; is a working accordion made from two Commodore 64 computers. </p>
+
+
+
+<p>The instrument&rsquo;s hardware is two authentic C64s from the 1980s, connected with a bellows (the foldy thing in the middle) made from dozens of floppy disks taped together. It&rsquo;s fully functional as a standard accordion, with the right hand playing melody on the computer keyboard and the left hand playing chords through the Commodore 64&rsquo;s sound processor, output via a standard audio cable. The result is an 8-bit chiptune symphony, first spotted by Ars Technica. </p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+
+</div></figure>
+
+
+
+<p>The bellows on a standard accordion emit the sound across steel reeds, and the speed at which the player compresses or expands the instrument controls the volume. &Aring;kesson&rsquo;s invention emulates this action digitally: a microphone measures the air being expelled by the bellows and adjusts the volume of the sound output to match. The whole contraption is powered by a custom-soldered internal battery (for both computers), running software written by &Aring;kesson loaded onto each vintage PC. </p>
+
+
+
+<p>But what&rsquo;s the point of playing with two computers if you&rsquo;re only going to replicate regular music? In addition to playing the Commodordion conventionally, &Aring;kesson can program custom beats and loops on the left half of the machine, making it work something like a rhythm box or MIDI keyboard. </p>
+
+
+
+<p>Not content to merely show off his musical ability, ingenuity, programming, and hardware modification skills, &Aring;kesson cut together his demo as a love letter to Scott Joplin and the 1973 Oscar-winner <em>The Sting. </em>The whole video is worth a watch to see his work designing and assembling the machine, programming it, and of course, playing it. You can find more technical details on the build <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://linusakesson.net/commodordion/index.php&amp;xcust=2-1-1436851-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">at &Aring;kesson&rsquo;s website</a>. </p>
+
+Gadgets</div>
+
+## This colorful $30 Logitech gaming mouse is a perfect stocking stuffer
+ - [https://www.pcworld.com/article/1436757/this-colorful-logitech-gaming-mouse-is-only-30.html](https://www.pcworld.com/article/1436757/this-colorful-logitech-gaming-mouse-is-only-30.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2022-12-15 15:54:59+00:00
+ - Starred: False
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>I&rsquo;m not sure about you, but I love a good mouse that performs well <em>and</em> looks good. The Logitech G305 wireless gaming mouse ticks all of those boxes and then some. <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/gp/product/B08SYJ32T3&amp;xcust=2-1-1436757-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">Amazon&rsquo;s currently selling the peripheral for just $29.99</a>, which is 40 percent off of the original price. The mint green and lavender purple color scheme may not be everyone&rsquo;s cup of tea, but it&rsquo;s definitely eye-catching.</p>
+
+
+
+<p>The Logitech G305, which is rocking an advanced HERO sensor, has a maximum sensitivity of 12,000 DPI, a 1ms report rate, and six programmable buttons. It&rsquo;s a good option for first person shooter games, as it&rsquo;s both fast and responsive. Logitech claims that it can last up to 250 hours on a single AA battery. If that number holds true, then that&rsquo;s pretty darn impressive. This peripheral is also lightweight at 99 grams, the perfect size for a holiday stocking.</p>
+
+
+
+<p>This is a fantastic deal. You better nab it now before it&rsquo;s gone.</p>
+
+
+<p class="cta wp-block wp-block-button"><a class="cta__btn" href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.amazon.com/gp/product/B08SYJ32T3&amp;xcust=2-1-1436757-7-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">Get the Logitech G305 wireless gaming mouse for $29.99 at Amazon</a></p>
+Mice</div>
+
+## Update Windows now to patch this under-attack vulnerability
+ - [https://www.pcworld.com/article/1436734/update-windows-now-to-patch-this-zero-day-vulnerability.html](https://www.pcworld.com/article/1436734/update-windows-now-to-patch-this-zero-day-vulnerability.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2022-12-15 15:48:31+00:00
+ - Starred: False
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Computer security is a never-ending battle, but this week Microsoft is giving its users some extra ammunition. The latest Patch Tuesday update, rolling out now to both Windows 10 and 11, addresses a zero-day vulnerability that&rsquo;s being actively exploited in the wild. Your machine might have been updated already &mdash; if not, apply the December 13th patch via Windows Update ASAP (<em>Start &gt; Settings &gt; Update &amp; Security &gt; Windows Update</em>).</p>
+
+
+
+<p>According to <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.bleepingcomputer.com/news/security/microsoft-patches-windows-zero-day-used-to-drop-ransomware/&amp;xcust=2-1-1436734-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">Bleeping Computer</a>, the zero-day vulnerability allowed attacks via JavaScript files that could bypass Windows&rsquo; standard security alerts for downloading executable files. This in turn would let an attack evade Microsoft Office&rsquo;s Protected View system. The attack would rely on basic phishing techniques, requiring the user to open a specific file or access an infected website, after which the Magniber ransomware can be installed and encrypt user files remotely. </p>
+
+
+
+<p>Various security researchers have observed this vector being used to install malware on the web via the Javascript vulnerability, so this is an active threat. Campaigns have been specifically targeting email data for banking and other financial institutions to be used in follow-up attacks. The issue addressed is labeled &ldquo;<a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2022-44698&amp;xcust=2-1-1436734-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">CVE-2022-44698</a>&rdquo; in Microsoft&rsquo;s bug tracking system. <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2022-44710&amp;xcust=2-1-1436734-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">CVE-2022-44710</a>, another zero-day issue which isn&rsquo;t known to be a threat in the wild, was also patched. </p>
+
+Security</div>
+
+## Take a trip inside Intel’s power supply testing lab
+ - [https://www.pcworld.com/article/1434256/take-a-trip-inside-intels-power-supply-testing-lab.html](https://www.pcworld.com/article/1434256/take-a-trip-inside-intels-power-supply-testing-lab.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2022-12-15 15:30:00+00:00
+ - Starred: False
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Your PC&rsquo;s power supply is one of its most crucial components, but most people barely ever give it a second thought once it&rsquo;s installed. And that&rsquo;s kind of weird, considering it&rsquo;s the one that could basically melt your machine and/or burn down your house if something goes wrong. To understand exactly what goes into making a power supply and, more importantly, making it safe, Gordon took a tour of Intel&rsquo;s Folsom campus to take a deep dive into the ATX power spec. </p>
+
+
+
+<p>The ATX specification was actually created by Intel way back in 1995, which is why the company still does testing and verification on it. (You can see the results at <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://compatibleproducts.intel.com/?Lang=en-US&amp;xcust=2-1-1434256-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">compatibleproducts.intel.com</a>.) To start things off, you can hear from Intel&rsquo;s Stephen Eastman, the guy who officially maintains the ATX spec. He&rsquo;ll show you how Intel tests, certifies, and sends the results back to vendors on pretty much every power supply sold at retail. The process takes weeks for each unit. </p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+
+</div></figure>
+
+
+
+<p>But what happens when a power supply fails the testing? Most manufacturers have gotten this down to a literal science over the last 25 years, so Gordon brought along a few &ldquo;Gordon Special&rdquo; units, ancient, cheap, and abused PSUs from the days of yore. He had Stephen run them through Intel&rsquo;s standardized testing system&hellip;with some interesting results. </p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+
+</div></figure>
+
+
+
+<p>Recently, power supplies have been given their first major shakeup in years thanks to the <a href="https://www.pcworld.com/article/631851/atx-3-0-explained-why-intel-gave-power-supplies-their-first-overhaul-in-20-years.html" rel="noreferrer noopener" target="_blank">new ATX 3.0 specification</a>, especially its 12HVPWR connection for next-gen graphics cards. If you&rsquo;re looking for an easy guide on how to pick the right one for your system and your parts, check out Gordon&rsquo;s guide below. </p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+
+</div></figure>
+
+
+
+<p>For more in-depth looks at the current state of PC hardware (and a little burning and smoking in <a href="https://www.pcworld.com/article/1424869/can-a-15-year-old-am2-cooler-handle-the-ryzen-9-7950x.html" rel="noreferrer noopener" target="_blank">unhinged experiments</a>), be sure to <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://www.youtube.com/@pcworld&amp;xcust=2-1-1434256-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">subscribe to PCWorld on YouTube</a>. </p>
+
+Power Supplies</div>
+
+## Dell’s new Concept Luna makes laptop repair easier than LEGO
+ - [https://www.pcworld.com/article/1435860/dells-new-concept-luna-makes-laptop-repair-easier-than-lego.html](https://www.pcworld.com/article/1435860/dells-new-concept-luna-makes-laptop-repair-easier-than-lego.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2022-12-15 14:00:00+00:00
+ - Starred: False
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Last year Dell showed off <a href="https://www.pcworld.com/article/559373/dell-reveals-concept-luna-a-radically-compelling-vision-for-sustainable-laptops.html" rel="noreferrer noopener" target="_blank">Concept</a><a href="https://www.pcworld.com/article/559373/dell-reveals-concept-luna-a-radically-compelling-vision-for-sustainable-laptops.html" rel="noreferrer noopener" target="_blank"> </a><a href="https://www.pcworld.com/article/559373/dell-reveals-concept-luna-a-radically-compelling-vision-for-sustainable-laptops.html" rel="noreferrer noopener" target="_blank">Luna</a>, a laptop that could be completely disassembled with just a screwdriver. It was an impressive demonstration of the principles of the right-to-repair movement: modularity, sustainability, and easy access. After tweaking the design for a year, Dell&rsquo;s back with a second revision. And this one might just change the way you think about electronics repair. </p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Dell Project Luna laptop disassembled" class="wp-image-1435885" height="676" src="https://b2c-contenthub.com/wp-content/uploads/2022/12/DSC09798.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /></figure><p class="imageCredit">Michael Crider/IDG</p></div>
+
+
+
+<p>The second revision of Concept Luna works along the same lines, but it requires only a single push-bar tool to take apart. Once the pin hidden inside the Kensignton lock port is released, the user can take apart every component inside by hand. First a retention piece above the keyboard is pulled out, then the keyboard and trackpad assembly. At this point you have access to the motherboard, cooling fan, battery, and two speakers, all of which are modular and sequential. You can pull them all out and replace each component&mdash;it&rsquo;s almost as easy as playing with LEGOs. The screen assembly is a little trickier with a pressure point built into the hinge, but the LCD also comes out and can be easily replaced. </p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="Dell Concept Luna disassembly gif" class="wp-image-1435901" height="443" src="https://b2c-contenthub.com/wp-content/uploads/2022/12/dell-luna-gif.gif" width="784" /></figure><p class="imageCredit">Dell</p></div>
+
+
+
+<p>A Dell engineer showed us how every modular component could be removed, going in sequence, in less than a minute. It&rsquo;s an impressive process, starting with an ordinary-looking laptop you might see on a Best Buy shelf and ending with a series of modular components. Then it all goes in reverse, ending with a fully booting Windows laptop. It reminded me of <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://youtu.be/kyZSrcuuOf0&amp;xcust=2-1-1435860-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow" target="_blank">Forest Gump assembling and disassembling his rifle.</a></p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Project Luna laptop fully assembled" class="wp-image-1435888" height="676" src="https://b2c-contenthub.com/wp-content/uploads/2022/12/luna-assembled.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /></figure><p class="imageCredit">Michael Crider/IDG</p></div>
+
+
+
+<p>It all relies on a system of communication pins and a sequential design: Each one needs to come out in a specific order and go back in reverse order, kind of like a Transformer toy&rsquo;s instructions. While this makes getting to specific components a little more time-consuming, it makes the end result &ldquo;idiot-proof.&rdquo; You can&rsquo;t progress to the next component until the correct one is in place, and it&rsquo;s basically impossible to reassemble the entire laptop incorrectly. Failsafes in the boot process make sure that nothing has been assembled out of order, and it also runs security checks on the components. </p>
+
+
+
+<p>The benefits of a Luna-type design are obvious. Individual components could be replaced in a few minutes, even by a novice at home. Upgrades would be just as fast, but the only major components that could really <em>be </em>upgraded in this design are the motherboard (with storage, RAM, and processor embedded) and the screen panel. This is one disadvantage versus a conventional design&mdash;for example, you can&rsquo;t replace <em>just </em>the wireless card, you&rsquo;d need a full motherboard assembly. </p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Dell robot station repairing Project Luna laptop" class="wp-image-1435891" height="676" src="https://b2c-contenthub.com/wp-content/uploads/2022/12/luna-robot.jpg?quality=50&amp;strip=all&amp;w=1200" width="1200" /></figure><p class="imageCredit">Michael Crider/IDG</p></div>
+
+
+
+<p>Almost as impressive as the design itself is the boon to automated repair and replacement. At its showroom in New York, Dell showed off a repair robot replacing the motherboard of a Luna independently. A machine about the size of an office cubicle could identify the faulty component, bring a fresh part in, disassemble the laptop, replace the part, and re-assemble it in about three minutes. That could drastically reduce repair times for customers. </p>
+
+
+
+<p>Even after a year of development, Luna is still in the very early stages. It&rsquo;s about as basic as a laptop design can get, and while the techniques Dell is developing in this project are certainly being applied elsewhere in the supply chain, the engineers told us not to expect anything like the full Luna design to appear before 2030. </p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-large"><img alt="Dell project luna robot, replacing modular laptop motherboard" class="wp-image-1435871" height="899" src="https://b2c-contenthub.com/wp-content/uploads/2022/12/Concept-Luna-motherboard-in-microfactory-close-up-Dec-2022.png?w=1200" width="1200" /></figure><p class="imageCredit">Dell</p></div>
+
+
+
+<p>In the meantime, Dell and other manufacturers are at least attempting more repair-friendly designs for laptops and other machines. <a href="https://www.pcworld.com/article/394906/framework-laptop-review-take-it-apart-and-repair-it.html" rel="noreferrer noopener" target="_blank">Framework&rsquo;s modular laptop design</a> is about as close as you can get today: it&rsquo;s much more complex and less user-friendly, but it&rsquo;s delivering near-universal upgrade and repair options in a conventional laptop form factor. </p>
+
+Laptops</div>
+
+## Framework Laptop Chromebook review: A tinkerer’s dream machine
+ - [https://www.pcworld.com/article/1431799/framework-laptop-chromebook-review.html](https://www.pcworld.com/article/1431799/framework-laptop-chromebook-review.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2022-12-15 11:45:00+00:00
+ - Starred: False
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+<div class="review" id="review-body"><span class="review-title">At a glance</span><h3 class="review-subTitle" id="experts-rating">Expert's Rating</h3><div class="starRating"></div>
+<div><div class="review-columns"><div class="review-column"><h3 class="review-subTitle" id="pros">Pros</h3><ul class="pros review-list"><li>Strong performance</li><li>Upgradeable</li><li>Hot-swappable ports</li><li>1080p webcam</li></ul></div><div class="review-column"><h3 class="review-subTitle" id="cons">Cons</h3><ul class="cons review-list"><li>Expensive</li><li>No touchscreen display</li></ul></div></div></div><h3 class="review-subTitle review-subTitle--borderTop" id="our-verdict">Our Verdict</h3><p class="verdict">The Framework Laptop Chromebook is a fantastic pick for those wanting to extend the life of their machine.</p>
+</div>
+
+
+<p>Every now and then, a unique laptop comes along and dominates my every waking thought. I&rsquo;m a huge fan of innovative design that inspires, and that&rsquo;s exactly what the Framework Laptop Chromebook does. Its modular design allows you to upgrade and repair almost every part of the laptop, and I couldn&rsquo;t be more excited. It&rsquo;s the kind of device that welcomes&mdash;no, strongly encourages you&mdash;to get in there and tinker away.</p>
+
+
+
+<p>The modular design is great and all, but the Framework Laptop also offers strong performance as well as a bright and vivid display. The one major drawback is the high price tag. That said, you get what you pay for. The chassis feels strong and durable, and battery life is stellar. It definitely feels like a premium machine, a step up from most run-of-the-mill Chromebooks. This laptop may not be for everyone, but if you like tinkering, then it&rsquo;s well worth considering.</p>
+
+
+
+<blockquote class="wp-block-quote"><p><em>This review is part of our ongoing roundup of the <a href="https://www.pcworld.com/article/608636/best-chromebooks.html">best Chromebooks</a>. Check it out if you&rsquo;re looking for more options.</em></p></blockquote>
+
+
+
+<h2><strong>Framework Laptop Chromebook: Specifications and features</strong></h2>
+
+
+
+<p>The Framework Laptop Chromebook comes in just one configuration and it&rsquo;s only available on <a href="https://go.redirectingat.com/?id=111346X1569483&amp;url=https://frame.work/&amp;xcust=2-1-1431799-1-0-0&amp;sref=https://www.pcworld.com/feed" rel="nofollow">frame.work</a>. Our review unit is packing an Intel Core i5-1240P CPU, Intel Xe graphics, 8GB of RAM, and 256GB of NVMe SSD storage. The 13.5-inch display has a resolution of 2256&times;1504 and an aspect ratio of 3:9. The one configuration would be rather limiting if you couldn&rsquo;t upgrade the memory and storage or swap out the ports. Framework gives you the option to mix and match your ports and parts at checkout.&nbsp;</p>
+
+
+
+<ul><li>CPU: Intel Core i5-1240P</li><li>Graphics: Intel Xe</li><li>RAM: 8GB (upgradable to 64GB)</li><li>Storage: 256GB NVMe SSD (upgradable up to 1TB)</li><li>Display: 13.5-inches, 2256&times;1504</li><li>Ports: USB Type-A, USB Type-C, DisplayPort, microSD, HDMI, Ethernet</li><li>Weight: 2.9 lbs</li><li>Color: Silver</li><li>Battery capacity: 55Wh</li><li>Price: $999</li></ul>
+
+
+
+<h2><strong>Framework Laptop Chromebook: Design and build</strong></h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="Framework Laptop Chromebook build quality" class="wp-image-1431806" height="683" src="https://b2c-contenthub.com/wp-content/uploads/2022/12/buildqualitydesign.jpg?quality=50&amp;strip=all" width="1024" /></figure><p class="imageCredit">IDG / Ashley Biancuzzo</p></div>
+
+
+
+<p>If there&rsquo;s one word to describe the Framework Laptop Chromebook, it&rsquo;s this: clean. The brushed-silver finish is sleek as hell. The exterior feels buttery smooth as well, which pleases <em>this</em> tactile-based reviewer. Framework&rsquo;s dark, glass-like gear logo on the top lid nicely complements the silver exterior. It&rsquo;s the same design blueprint of other Framework laptops. That&rsquo;s not a dig, as those laptops are absolute beauties.</p>
+
+
+
+<p>As far as build quality goes, it&rsquo;s pretty damn solid. For a $999 Chromebook, I expected nothing less. When I opened the lid, I was able to do it with one hand and it went up in one smooth motion, without any interference from the hinge. The keyboard deck has a little bit of flex to it, but not enough to concern me. When I pushed and pulled the display with both hands, it twisted a little and I heard some creaking. Overall, it feels like a durable, well-made machine.</p>
+
+
+
+<p>According to Framework, the laptop is made of 50 percent post-consumer recycled aluminum. This is fantastic news, especially if you&rsquo;re eco-conscious. It&rsquo;s also rather lightweight at 2.9 pounds. I was able to hold the machine with just one hand, though I don&rsquo;t recommend doing so, especially if you&rsquo;re accident-prone.&nbsp;</p>
+
+
+
+<h2><strong>Framework Laptop Chromebook: Keyboard, trackpad, and webcam</strong></h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="Framework Laptop Chromebook keyboard and trackpad" class="wp-image-1431807" height="683" src="https://b2c-contenthub.com/wp-content/uploads/2022/12/keyboardtrackpad.jpg?quality=50&amp;strip=all" width="1024" /></figure><p class="imageCredit">IDG / Ashley Biancuzzo</p></div>
+
+
+
+<p>I enjoyed typing on this keyboard, as the keys offer a springy response. I like that the keyboard is black in color, as it really stands out against the silver chassis. The contrast between key and text makes it easy to identify specific keys, too. Initially, I found it annoyingly easy to accidentally hit the mute key whenever I adjusted the volume. It&rsquo;s not a huge deal, but it took some getting used to. </p>
+
+
+
+<p>The squarish trackpad is enjoyable, with a glass-like surface that feels nice and smooth, and that accurately responds to multitouch gestures. When I pressed down on the trackpad with two fingers, it produced a pleasant click that was solid but discreet. As far as trackpads go, I had zero complaints. It worked just like it should and I adapted to it quickly.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="Framework Laptop Chromebook webcam hardware" class="wp-image-1432748" height="683" src="https://b2c-contenthub.com/wp-content/uploads/2022/12/Framework-webcam-buttons.jpg?quality=50&amp;strip=all" width="1024" /></figure><p class="imageCredit">IDG / Ashley Biancuzzo</p></div>
+
+
+
+<p>I&rsquo;m of the opinion that 1080p webcams should be included on all new laptops going forward. Remote work is more common nowadays and if you&rsquo;re doing a great deal of videoconferencing, you&rsquo;re going to want to look your best. The Framework Laptop Chromebook has a nice 1080p webcam with built-in buttons that allow you to physically mute yourself and switch off the camera.</p>
+
+
+
+<h2><strong>Framework Laptop Chromebook: Display and audio</strong></h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="Framework Chromebook Laptop display" class="wp-image-1431809" height="683" src="https://b2c-contenthub.com/wp-content/uploads/2022/12/displayframework.jpg?quality=50&amp;strip=all" width="1024" /></figure><p class="imageCredit">IDG / Ashley Biancuzzo</p></div>
+
+
+
+<p>I was pleasantly surprised by the 13.5-inch 1504p display. It&rsquo;s crisp and bright, and the colors are vibrant. When I watched the stunning reveal trailer for <em>Hades II</em>, a rogue-like game about the Grecian gods, the colors were absolutely scrumptious. The 3:9 aspect ratio is nice, too. It&rsquo;s the perfect size for productivity tasks, which is always a plus in my book. My only nitpick is that it&rsquo;s not a touchscreen display. For $999, I expected the display to at least have touch support.</p>
+
+
+
+<p>The audio, which fires upwards from the keyboard deck, is rather punchy. When I listened to an episode of <em>My Brother, My Brother and Me</em>, Griffin McElroy&rsquo;s cackling laughter was so loud that I had to turn down the volume. Having just reviewed a laptop with downward firing speakers, I&rsquo;ve seen how the position of the speakers really makes a world of difference. Downward firing speakers definitely sound more muffled.&nbsp;</p>
+
+
+
+<h2><strong>Framework Laptop Chromebook: Connectivity</strong></h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="Framework Chromebook Laptop expansion ports" class="wp-image-1431810" height="683" src="https://b2c-contenthub.com/wp-content/uploads/2022/12/expansionslotsports.jpg?quality=50&amp;strip=all" width="1024" /></figure><p class="imageCredit">IDG / Ashley Biancuzzo</p></div>
+
+
+
+<p>The connectivity options are one of the most interesting things about this laptop, as the ports are hot-swappable. All you have to do is just slide the cartridge-like ports (aka expansion cards) into one of the four slots located underneath the laptop. In other words, you can choose which ports you want for this Chromebook, an incredibly innovative offering from Framework.&nbsp;</p>
+
+
+
+<p>When you buy the Framework Laptop Chromebook, you have the choice of USB-A, USB-C, microSD, HDMI, DisplayPort, and ethernet. You can select four of these at checkout if you&rsquo;re going with the $999 configuration. Any additional ports will cost extra. The a la carte prices range from $9 to $39 depending on the type of port.&nbsp;</p>
+
+
+
+<h2><strong>Framework Laptop Chromebook: Upgradability</strong></h2>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="Framework Chromebook Laptop screw and screwdriver" class="wp-image-1431812" height="683" src="https://b2c-contenthub.com/wp-content/uploads/2022/12/screwandscrewdriver.jpg?quality=50&amp;strip=all" width="1024" /></figure><p class="imageCredit">IDG / Ashley Biancuzzo</p></div>
+
+
+
+<p>I&rsquo;ve never used a Framework laptop before, and I&rsquo;m <em>very</em> pleased it&rsquo;s a machine I can easily tinker with. The idea of cracking open a laptop used to cause me anxiety. What if I screw up something and end up spending hundreds of dollars? Fortunately, Framework makes the whole experience exceedingly easy.&nbsp;</p>
+
+
+
+<p>I was able to crack open the laptop in a few simple steps. First, I turned the laptop upside down and used the included screwdriver to undo five screws on the bottom of the machine. The screws are designed to stay in place. I then flipped the laptop right side up and gently pulled back the keyboard, which is attached via magnets, to reveal the hardware.</p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image size-full"><img alt="Framework Chromebook Laptop hardware" class="wp-image-1431814" height="683" src="https://b2c-contenthub.com/wp-content/uploads/2022/12/hardware.jpg?quality=50&amp;strip=all" width="1024" /></figure><p class="imageCredit">IDG / Ashley Biancuzzo</p></div>
+
+
+
+<p>As you can see in the image above, the hardware is marked with QR codes. If you scan these codes with your smartphone&rsquo;s camera, you&rsquo;ll be directed to the appropriate page on Framework&rsquo;s website. Need to replace the fan or upgrade your memory? Just scan the QR code and you&rsquo;ll be directed to repair information, replacement parts, and so on. It&rsquo;s truly ingenious.&nbsp;</p>
+
+
+
+<h2><strong>Framework Laptop Chromebook: Performance</strong></h2>
+
+
+
+<p>The Framework Laptop Chromebook offers zippy performance, especially when it comes to day-to-day tasks like web browsing and watching YouTube. I tend to operate in a sea of open tabs and was able to jump between 15 browser tabs with relative ease. I didn&rsquo;t notice any lag at all.</p>
+
+
+
+<p>Here&rsquo;s how the Framework Laptop Chromebook performed in various web-based benchmarks:</p>
+
+
+
+<ul><li><strong>CrXPRT 2</strong>:&nbsp;146</li><li><strong>Speedometer</strong>:&nbsp;232</li><li><strong>Basemark Web 3.0</strong>:&nbsp;1132.95</li><li><strong>Kraken</strong>:&nbsp;489.9ms</li><li><strong>Jetstream 2</strong>:&nbsp;214.09</li></ul>
+
+
+
+<p>The CrXPRT 2 performance benchmark determines a Chromebook&rsquo;s speed and is a good indication of how it handles everyday tasks like playing games, surfing the web, and so on. Thanks to the Intel Core i5 CPU, the Framework Laptop Chromebook turned out a solid score of 146. By comparison, the similarly spec&rsquo;d <a href="https://www.pcworld.com/article/1427108/acer-chromebook-vero-514-review.html">Acer Chromebook Vero 514</a> yielded a score of 150. Although the Vero 514 scored marginally better than the Framework, you&rsquo;re not going to see a huge difference in performance between the two. Both are reliable, but the Vero 514 is much more affordable. </p>
+
+
+
+		<div class="wp-block-product-widget-block product-widget is-half-width is-float-right">
+			<div class="product-widget__block-title-wrapper">
+				<h4 class="product-widget__block-title" id="mentioned-in-this-article">
+					mentioned in this article				</h4>
+			</div>
+
+			<div class="product-widget__content-wrapper">
+									<div class="product-widget__title-wrapper">
+						<h3 class="product-widget__title" id="acer-chromebook-vero-514">Acer Chromebook Vero 514</h3>
+					</div>
+				
+									<div class="product-widget__image-outer-wrapper">
+						<div class="product-widget__image-wrapper">
+							<img alt="Acer Chromebook Vero 514" class="product-widget__image" height="800" src="https://b2c-contenthub.com/wp-content/uploads/2022/12/chromebook-hero.jpg?quality=50&amp;strip=all" width="1200" />
+						</div>
+					</div>
+				
+									<div class="review product-widget__review-details">
+													<div class="product-widget__rating-and-review-link">
+								<div class="product-widget__review-details--rating">
+											<div class="starRating"></div>
+										</div>									<a class="product-widget__review-link" href="https://www.pcworld.com/article/1427108/acer-chromebook-vero-514-review.html" target="_blank">Read our review</a>
+									
+							</div>
+											</div>
+				
+				<div class="product-widget__information">
+				
+									</div>
+			</div>
+		</div>
+
+		
+
+
+<h2><strong>Framework Laptop Chromebook: Battery life</strong></h2>
+
+
+
+<p>When I ran the CrXPRT 2&rsquo;s battery benchmark, which cycles through videos and a series of tasks, the Framework Laptop Chromebook lasted about 12 hours on a single charge. As far as Chromebooks go, that&rsquo;s par for the course. The important takeaway is that this machine exceeds a typical workday. Again, the more affordable $600 Vero 514 with similar hardware bested the Framework, making it to the 14 hour mark without breaking a sweat. </p>
+
+
+
+<h2><strong>Should you buy the Framework Laptop Chromebook?</strong></h2>
+
+
+
+<p>The Framework Laptop Chromebook is an excellent choice for those looking to extend the life of their machine, as you can replace or repair almost every part of the hardware. It&rsquo;s also just a good everyday laptop. Performance is snappy enough for day-to-day tasks, and the display is bright, and the hot-swappable ports make it a really versatile device as well.</p>
+
+
+
+<p>Is this laptop for everyone? Probably not. The price tag is rather high for a Chromebook, especially one without a touchscreen. That said, this is one of the most unique and innovative devices I&rsquo;ve ever had the pleasure of reviewing. This kind of laptop really targets a specific niche of people, so if you fancy yourself a tinkerer, then this could be the machine for you.</p>
+
+Laptops</div>
+
+## Get a lifetime of web hosting for under $40 until the end of the day
+ - [https://www.pcworld.com/article/1428734/get-a-lifetime-of-web-hosting-for-under-40-until-the-end-of-the-day.html](https://www.pcworld.com/article/1428734/get-a-lifetime-of-web-hosting-for-under-40-until-the-end-of-the-day.html)
+ - RSS feed: https://www.pcworld.com/index.rss
+ - date published: 2022-12-15 08:00:00+00:00
+ - Starred: False
+
+<div id="link_wrapped_content">
+<section class="wp-block-bigbite-multi-title"><div class="container"></div></section>
+
+
+
+<p>Building a website is one thing. Keeping it up is another entirely. Recurring web hosting fees can make running a website expensive. So if you have one, now&rsquo;s a great time to lock in&nbsp;<a href="https://shop.pcworld.com/sales/doroyal-eternal-kingdom-lifetime-website-hosting?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=doroyal-eternal-kingdom-lifetime-website-hosting&amp;utm_term=scsf-458556&amp;utm_content=a0x1P000004YrXvQAK&amp;scsonar=1" rel="noreferrer noopener" target="_blank">all your web hosting needs for life</a>&nbsp;during our Winter Savings event.</p>
+
+
+
+<p>Now through December 15, you can get a lifetime of DoRoyal Eternal Kingdom web hosting for just $39.20 when you use promo code WINTER20. This coupon code will also save you 20 percent off any item in our&nbsp;<a href="https://shop.pcworld.com/?utm_source=PCWorld&amp;utm_medium=Winter+Savings" rel="noreferrer noopener" target="_blank">Winter Savings collection</a>.</p>
+
+
+
+<p>DoRoyal has earned a 4.2/5-star rating on Trustpilot thanks to its high-quality service. Migrating your site to DoRoyal is easy and free if your current provider uses cPanel. Once there, you can easily create and manage email accounts, manage all of your website files and databases, and use Softaculous Script Installer to install, update, and manage more than 300 free web apps and scripts for your site.</p>
+
+
+
+<p>DoRoyal makes staging easy, supports a vast range of programming languages, databases, and applications, and offers 99.9% uptime. Plus, each hosting plan comes with 3GB of disk space, 100GB of monthly bandwidth, and support for unlimited websites, subdomains, and email accounts.</p>
+
+
+
+<p>Lock in all your hosting needs for life during our Winter Savings event! Through December 15, you can get a lifetime of&nbsp;<a href="https://shop.pcworld.com/sales/doroyal-eternal-kingdom-lifetime-website-hosting?utm_source=pcworld.com&amp;utm_medium=referral&amp;utm_campaign=doroyal-eternal-kingdom-lifetime-website-hosting&amp;utm_term=scsf-458556&amp;utm_content=a0x1P000004YrXvQAK&amp;scsonar=1" rel="noreferrer noopener" target="_blank">DoRoyal Eternal Kingdom</a>&nbsp;web hosting for just $39.20 (reg. $300) with promo code WINTER20. And don&rsquo;t forget to use this code when shopping for deals in our&nbsp;<a href="https://shop.pcworld.com/?utm_source=PCWorld&amp;utm_medium=Winter+Savings" rel="noreferrer noopener" target="_blank">Winter Savings collection</a>!</p>
+
+
+
+<p><a href="https://shop.pcworld.com/sales/doroyal-eternal-kingdom-lifetime-website-hosting?utm_source=pcworld.com&amp;utm_medium=referral-cta&amp;utm_campaign=doroyal-eternal-kingdom-lifetime-website-hosting&amp;utm_term=scsf-458556&amp;utm_content=a0x1P000004YrXvQAK&amp;scsonar=1" rel="noreferrer noopener" target="_blank">&nbsp;</a></p>
+
+
+<div class="extendedBlock-wrapper block-coreImage undefined"><figure class="wp-block-image"><img alt="" src="https://cdnp1.stackassets.com/e9791e62228a2568153c93766d6fbf3c93dd158a/store/85d46e69ef67efbe4b7b2afce8d8959f8da1cc600f10f9436ec19e4c5672/sale_312614_primary_image.jpg" /></figure></div>
+
+
+
+<p><strong>DoRoyal Eternal Kingdom Lifetime Website Hosting &ndash; $49</strong></p>
+
+
+
+<p><a href="https://shop.pcworld.com/sales/doroyal-eternal-kingdom-lifetime-website-hosting?utm_source=pcworld.com&amp;utm_medium=referral-cta&amp;utm_campaign=doroyal-eternal-kingdom-lifetime-website-hosting&amp;utm_term=scsf-458556&amp;utm_content=a0x1P000004YrXvQAK&amp;scsonar=1" rel="noreferrer noopener" target="_blank">Run Your Website For Life</a></p>
+
+
+
+<p><em>Prices subject to change.</em></p>
+
+Web Development</div>
