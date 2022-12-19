@@ -1,8 +1,74 @@
+## Israeli Ministry of Health claimed in court they were unable to locate a signed agreement with Pfizer
+ - [https://expose-news.com/2022/12/18/israeli-gov-unable-to-locate-agreement-with-pfizer/](https://expose-news.com/2022/12/18/israeli-gov-unable-to-locate-agreement-with-pfizer/)
+ - RSS feed: https://expose-news.com
+ - date published: 2022-12-18 21:53:12+00:00
+ - tags: pfizer,vaccine,covid
+
+
+## Twitter to stop users linking to big social media platforms
+ - [https://www.bbc.co.uk/news/business-your-money-64021412?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-your-money-64021412?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-12-18 21:15:01+00:00
+
+
+## IRS Accidentally Releases 112,000 Taxpayers’ Private Data Again
+ - [https://news.bloombergtax.com/daily-tax-report/irs-accidentally-releases-112-000-taxpayers-private-data-again](https://news.bloombergtax.com/daily-tax-report/irs-accidentally-releases-112-000-taxpayers-private-data-again)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-18 20:45:57+00:00
+ - tags: leak,privacy
+
+
+## Censor or else: Democratic lawmakers warn Facebook not to ‘backslide’ on censorship
+ - [https://www.foxnews.com/opinion/censor-or-else-democratic-lawmakers-warn-facebook-not-backslide-censorship](https://www.foxnews.com/opinion/censor-or-else-democratic-lawmakers-warn-facebook-not-backslide-censorship)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-18 15:58:48+00:00
+
+
+## Apple, Google, Amazon, and Facebook are always listening unless you change these settings
+ - [https://www.foxnews.com/tech/apple-google-amazon-facebook-always-listening-unless-change-settings](https://www.foxnews.com/tech/apple-google-amazon-facebook-always-listening-unless-change-settings)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-18 11:00:40+00:00
+
+
+## Lekcja z Muska. Jaki wpływ mają miliarderzy na demokratyczne społeczeństwa?
+ - [https://forsal.pl/biznes/aktualnosci/artykuly/8611458,elon-musk-miliarderzy-demokracja.html](https://forsal.pl/biznes/aktualnosci/artykuly/8611458,elon-musk-miliarderzy-demokracja.html)
+ - RSS feed: https://forsal.pl/.feed
+ - date published: 2022-12-18 09:57:31+00:00
+ - tags: musk,billionaires
+
+
 ## My Thoughts on 2022 and the Woke Hollywood Machine
  - [https://www.youtube.com/watch?v=tp1M4lP2ceQ](https://www.youtube.com/watch?v=tp1M4lP2ceQ)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCDVb4m_5QHhZElT47E1oODg
  - date published: 2022-12-18 07:52:06+00:00
- - tags: hollywood,woke,propaganda
+ - tags: movies,hollywood,propaganda,woke
+
+
+## Why did the FBI not flag Antifa Twitter accounts? Elon Musk finally removes far-left profiles
+ - [https://www.dailymail.co.uk/news/article-11550351/Why-did-FBI-not-flag-Antifa-Twitter-accounts-Elon-Musk-finally-removes-far-left-profiles.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11550351/Why-did-FBI-not-flag-Antifa-Twitter-accounts-Elon-Musk-finally-removes-far-left-profiles.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-18 04:42:51+00:00
+ - tags: censorship,fbi,twitter,moderation
+
+
+## How Does WhatsApp Make Money?
+ - [https://www.youtube.com/watch?v=E1w-2WB2rIM](https://www.youtube.com/watch?v=E1w-2WB2rIM)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCmFeOdJI3IXgTBDzqBLD8qg
+ - date published: 2022-12-18 00:39:56+00:00
+ - tags: meta,whatsapp,privacy
+
+
+## Musk vs. Musk: the billionaire's obsession with Twitter is undermining his accomplishments
+ - [https://www.lemonde.fr/en/economy/article/2022/12/18/musk-vs-musk-the-billionaire-s-obsession-with-twitter-is-undermining-his-accomplishments_6008150_19.html](https://www.lemonde.fr/en/economy/article/2022/12/18/musk-vs-musk-the-billionaire-s-obsession-with-twitter-is-undermining-his-accomplishments_6008150_19.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2022-12-17 23:51:18+00:00
+ - tags: censorship,twitter,moderation,free speech,musk
+
+
+## Liberal networks previously unbothered by Twitter censorship cry foul over Musk suspending journalists
+ - [https://www.foxnews.com/media/liberal-networks-previously-unbothered-twitter-censorship-cry-foul-musk-suspending-journalists](https://www.foxnews.com/media/liberal-networks-previously-unbothered-twitter-censorship-cry-foul-musk-suspending-journalists)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-17 16:00:53+00:00
 
 
 ## Apk.sh is a Bash script that makes reverse engineering Android apps easier
@@ -43,6 +109,13 @@
  - RSS feed: https://reclaimthenet.org/feed/
  - date published: 2022-12-17 00:28:07+00:00
  - tags: censorship,fbi,twitter,twitter files
+
+
+## Disney Sued by Investor Claiming Company’s Fight with DeSantis over Florida’s Anti-Grooming Law Created ‘Far-Reaching Financial Risks’
+ - [https://www.breitbart.com/entertainment/2022/12/16/disney-sued-by-investor-claiming-companys-fight-with-desantis-over-floridas-anti-grooming-law-created-far-reaching-financial-risks/](https://www.breitbart.com/entertainment/2022/12/16/disney-sued-by-investor-claiming-companys-fight-with-desantis-over-floridas-anti-grooming-law-created-far-reaching-financial-risks/)
+ - RSS feed: https://www.breitbart.com
+ - date published: 2022-12-16 21:38:39+00:00
+ - tags: grooming,disney
 
 
 ## President Trump outlines free speech policies for 2024 campaign
@@ -185,6 +258,13 @@
  - RSS feed: https://reclaimthenet.org/feed/
  - date published: 2022-12-15 18:27:46+00:00
  - tags: censorship,israel
+
+
+## Health chiefs call attention to risks of myocarditis/ pericarditis in children “within 14 days of Pfizer Covid jabs”
+ - [https://www.portugalresident.com/health-chiefs-call-attention-to-risks-of-myocarditis-pericarditis-in-children-within-14-days-of-pfizer-covid-jabs/](https://www.portugalresident.com/health-chiefs-call-attention-to-risks-of-myocarditis-pericarditis-in-children-within-14-days-of-pfizer-covid-jabs/)
+ - RSS feed: https://www.portugalresident.com
+ - date published: 2022-12-15 17:59:02+00:00
+ - tags: vaccine,covid
 
 
 ## Fact Check: Did Ex-Intel Officials Call Hunter Biden Laptop Disinformation?
@@ -2102,6 +2182,12 @@
  - date published: 2022-11-03 18:13:25+00:00
 
 
+## Why Modern Movies Suck - The Myth Of The "Modern Audience"
+ - [https://www.youtube.com/watch?v=F2ngB-zjVmM](https://www.youtube.com/watch?v=F2ngB-zjVmM)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA
+ - date published: 2022-11-03 17:50:22+00:00
+
+
 ## Joe Rogan & Tulsi Gabbard: Wokeism Hypocrisy
  - [https://www.youtube.com/watch?v=T1mTfvfKrCg](https://www.youtube.com/watch?v=T1mTfvfKrCg)
  - RSS feed: https://www.youtube.com/watch?v=T1mTfvfKrCg
@@ -2161,6 +2247,13 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-02 21:28:01+00:00
  - tags: facebook,twitter,hunter biden,censorship
+
+
+## Meta BANS ALL Children from VR Apps
+ - [https://www.youtube.com/watch?v=ZBVQ9SK8Brg](https://www.youtube.com/watch?v=ZBVQ9SK8Brg)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA
+ - date published: 2022-11-02 20:15:25+00:00
+ - tags: vr,meta
 
 
 ## Facebook's Going Back to Only Using Algorithms to Curate Its News Tab
@@ -4045,6 +4138,13 @@
  - date published: 2022-10-14 10:13:32+00:00
 
 
+## Posts mislead on Pfizer COVID vaccine’s impact on transmission
+ - [https://apnews.com/article/fact-check-pfizer-transmission-european-parliament-950413863226](https://apnews.com/article/fact-check-pfizer-transmission-european-parliament-950413863226)
+ - RSS feed: https://apnews.com
+ - date published: 2022-10-13 21:59:50+00:00
+ - tags: pfizer,biden lie,fauci lie,covid
+
+
 ## Meta’s New Headset Will Track Your Eyes for Targeted Ads
  - [https://gizmodo.com/meta-quest-pro-vr-headset-track-eyes-ads-facebook-1849654424](https://gizmodo.com/meta-quest-pro-vr-headset-track-eyes-ads-facebook-1849654424)
  - RSS feed: https://gizmodo.com/rss
@@ -4103,6 +4203,13 @@
  - [https://ithardware.pl/aktualnosci/valve_wprowadzilo_przeprojektowana_wersje_mobilnej_aplikacji_steam-23826.html](https://ithardware.pl/aktualnosci/valve_wprowadzilo_przeprojektowana_wersje_mobilnej_aplikacji_steam-23826.html)
  - RSS feed: https://ithardware.pl/feed
  - date published: 2022-10-13 09:54:00+00:00
+
+
+## BREAKING: European Parliament MEP calls EU Covid vaccine purchases “biggest CORRUPTION SCANDAL in history”
+ - [https://euroweeklynews.com/2022/10/12/breaking-european-parliaments-mislav-kolakusic-calls-eus-covid-vaccine-purchases-biggest-corruption-scandal-in-history/](https://euroweeklynews.com/2022/10/12/breaking-european-parliaments-mislav-kolakusic-calls-eus-covid-vaccine-purchases-biggest-corruption-scandal-in-history/)
+ - RSS feed: https://euroweeklynews.com
+ - date published: 2022-10-12 18:17:30+00:00
+ - tags: vaccine,covid
 
 
 ## Social Media Is Wrong About Microwaves
@@ -7438,6 +7545,13 @@
  - date published: 2022-09-04 23:58:49+00:00
 
 
+## The Isreali PECC We’ll have to think medico-legal – how to present our findings to avoid lawsuits
+ - [https://twitter.com/PECC_eng/status/1566440239731712003](https://twitter.com/PECC_eng/status/1566440239731712003)
+ - RSS feed: https://twitter.com
+ - date published: 2022-09-04 21:55:56+00:00
+ - tags: israel,covid
+
+
 ## Pope declares 'zero tolerance' for Catholic Church abuse
  - [https://www.cnn.com/2022/09/04/europe/pope-francis-interview-ukraine-abuse-intl/index.html](https://www.cnn.com/2022/09/04/europe/pope-francis-interview-ukraine-abuse-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
@@ -7990,6 +8104,20 @@
  - date published: 2022-06-23 20:56:50+00:00
 
 
+## The Orville: Immortality, Transhumanism, God and The Human Soul
+ - [https://www.youtube.com/watch?v=tp1M4lP2ceQ https://www.youtube.com/watch?v=UjGpHbf1m1Q](https://www.youtube.com/watch?v=tp1M4lP2ceQ https://www.youtube.com/watch?v=UjGpHbf1m1Q)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCDVb4m_5QHhZElT47E1oODg
+ - date published: 2022-06-22 11:28:07+00:00
+ - tags: transhumanism
+
+
+## Vaccine transparency case is still not closed, despite EC’s claim
+ - [https://corporateeurope.org/en/2022/06/vaccine-transparency-case-still-not-closed-despite-ecs-claim](https://corporateeurope.org/en/2022/06/vaccine-transparency-case-still-not-closed-despite-ecs-claim)
+ - RSS feed: https://corporateeurope.org
+ - date published: 2022-06-17 19:15:04+00:00
+ - tags: contract,vaccine,covid
+
+
 ## Elon Musk asks why DOJ hasn’t leaked Jeffrey Epstein’s client list
  - [https://nypost.com/2022/06/06/elon-musk-asks-why-doj-hasnt-leaked-jeffrey-epsteins-client-list/](https://nypost.com/2022/06/06/elon-musk-asks-why-doj-hasnt-leaked-jeffrey-epsteins-client-list/)
  - RSS feed: https://nypost.com
@@ -8047,6 +8175,13 @@
  - date published: 2022-03-31 04:00:00+00:00
 
 
+## Why Modern Movies Suck - Modern Actors
+ - [https://youtu.be/l04RZVeJViI](https://youtu.be/l04RZVeJViI)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA
+ - date published: 2022-03-30 11:22:21+00:00
+ - tags: hollywood,movies
+
+
 ## Web3.0: A Libertarian Dystopia
  - [https://www.youtube.com/watch?v=u-sNSjS8cq0](https://www.youtube.com/watch?v=u-sNSjS8cq0)
  - RSS feed: https://www.youtube.com/@munecat
@@ -8064,6 +8199,13 @@
  - [https://www.todayville.com/ontario-on-the-verge-of-enforcing-critical-race-theory-in-all-schools/](https://www.todayville.com/ontario-on-the-verge-of-enforcing-critical-race-theory-in-all-schools/)
  - RSS feed: https://www.todayville.com/ontario-on-the-verge-of-enforcing-critical-race-theory-in-all-schools/
  - date published: 2022-03-14 17:25:00+00:00
+
+
+## Why Modern Movies Suck - They Teach Us Awful Lessons
+ - [https://youtu.be/Dnuqp4_K7ik](https://youtu.be/Dnuqp4_K7ik)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA
+ - date published: 2022-03-11 11:26:10+00:00
+ - tags: hollywood,movies
 
 
 ## The Economy Is Fake, the Jobs Are Fake, the Money Is Fake
@@ -8405,6 +8547,13 @@
  - tags: covid
 
 
+## Why Modern Movies Suck - They're Written By Children
+ - [https://youtu.be/CQ92cggLMx8](https://youtu.be/CQ92cggLMx8)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA
+ - date published: 2021-11-02 11:24:42+00:00
+ - tags: hollywood,movies
+
+
 ## Metaverse: Ready Player One Becomes Reality
  - [https://www.youtube.com/watch?v=3A-1gK9gDuU](https://www.youtube.com/watch?v=3A-1gK9gDuU)
  - RSS feed: https://www.youtube.com/@TheDaveCullenShow
@@ -8448,6 +8597,13 @@
  - [https://www.abc.net.au/news/2021-10-20/pfizer-covid-19-vaccine-contracts/100553958](https://www.abc.net.au/news/2021-10-20/pfizer-covid-19-vaccine-contracts/100553958)
  - RSS feed: www.abc.net.au
  - date published: 2021-10-20 07:43:01+00:00
+
+
+## In secret vaccine contracts with governments, Pfizer took hard line in push for profit, report says
+ - [https://www.washingtonpost.com/world/2021/10/19/secret-vaccine-contracts-with-governments-pfizer-took-hard-line-push-profit-report-says/](https://www.washingtonpost.com/world/2021/10/19/secret-vaccine-contracts-with-governments-pfizer-took-hard-line-push-profit-report-says/)
+ - RSS feed: https://www.washingtonpost.com
+ - date published: 2021-10-19 18:14:40+00:00
+ - tags: pfizer,vaccine,covid
 
 
 ## Rozpoznawanie twarzy weszło na wyższy poziom. W Moskwie tak płaci się za przejazdy metrem
@@ -8597,6 +8753,13 @@
  - date published: 2021-06-26 12:04:49+00:00
 
 
+## Pfizer, Moderna COVID-19 vaccines will get label warning over rare heart risk, FDA says
+ - [https://www.fiercepharma.com/pharma/fda-says-label-warning-coming-for-heart-inflammation-pfizer-bnt-moderna-covid-19-vaccines](https://www.fiercepharma.com/pharma/fda-says-label-warning-coming-for-heart-inflammation-pfizer-bnt-moderna-covid-19-vaccines)
+ - RSS feed: https://www.fiercepharma.com
+ - date published: 2021-06-24 18:00:32+00:00
+ - tags: vaccine,covid
+
+
 ## Come June 1, 2021, all of your new photos will count against your free Google storage
  - [https://techcrunch.com/2020/11/11/google-cuts-back-on-its-free-storage-get-ready-to-pay-up/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAACdLcrCWM2hkskLPBjz6O0aLKgR7zzifHK646vqnhzHMh7oPzacUJpv2rga3iBuuEWs6JtqVwz2EypbE6t283SMwj1JrBP_4ERvFENTEAuT8J6I6XKueZHtmSDfzezgeM87A-7E7PPSM6O8zhavQ6tf3fIcGJX44bDOcX3l3BSqj](https://techcrunch.com/2020/11/11/google-cuts-back-on-its-free-storage-get-ready-to-pay-up/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAACdLcrCWM2hkskLPBjz6O0aLKgR7zzifHK646vqnhzHMh7oPzacUJpv2rga3iBuuEWs6JtqVwz2EypbE6t283SMwj1JrBP_4ERvFENTEAuT8J6I6XKueZHtmSDfzezgeM87A-7E7PPSM6O8zhavQ6tf3fIcGJX44bDOcX3l3BSqj)
  - RSS feed: techcrunch.com
@@ -8665,6 +8828,20 @@
  - [https://9to5mac.com/2021/05/17/huge-eufy-privacy-breach/](https://9to5mac.com/2021/05/17/huge-eufy-privacy-breach/)
  - RSS feed: https://9to5mac.com
  - date published: 2021-05-17 10:19:18+00:00
+
+
+## Fauci: the vaccinated stop viral transmission, no need for masks
+ - [https://totalityofevidence.com/timeline/fauci-the-vaccinated-stop-viral-transmission/](https://totalityofevidence.com/timeline/fauci-the-vaccinated-stop-viral-transmission/)
+ - RSS feed: https://totalityofevidence.com
+ - date published: 2021-05-16 09:08:03+00:00
+ - tags: fauci,transmission,covid
+
+
+## Fauci: Vaccinated people become ‘dead ends’ for the coronavirus
+ - [https://thehill.com/homenews/sunday-talk-shows/553773-fauci-vaccinated-people-become-dead-ends-for-the-coronavirus/](https://thehill.com/homenews/sunday-talk-shows/553773-fauci-vaccinated-people-become-dead-ends-for-the-coronavirus/)
+ - RSS feed: https://thehill.com
+ - date published: 2021-05-16 09:06:10+00:00
+ - tags: fauci,transmission,covid
 
 
 ## Modern "Freedom" Means Being a Slave to Impulses
@@ -8837,6 +9014,13 @@
  - date published: 2021-01-21 12:26:49+00:00
 
 
+## What Happened To Our Villains?
+ - [https://youtu.be/vnRP7SKzOgk](https://youtu.be/vnRP7SKzOgk)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA
+ - date published: 2021-01-18 11:19:45+00:00
+ - tags: hollywood,movies
+
+
 ## "Economist": Świat nie może pozwolić oligopolom technologicznym na przejęcie kontroli nad podstawowymi swobodami
  - [https://www.bankier.pl/wiadomosc/Economist-Swiat-nie-moze-pozwolic-oligopolom-technologicznym-na-przejecie-kontroli-nad-podstawowymi-swobodami-8038414.html](https://www.bankier.pl/wiadomosc/Economist-Swiat-nie-moze-pozwolic-oligopolom-technologicznym-na-przejecie-kontroli-nad-podstawowymi-swobodami-8038414.html)
  - RSS feed: https://www.bankier.pl
@@ -8899,10 +9083,24 @@
  - date published: 2020-12-21 12:04:50+00:00
 
 
+## Americans Can't Sue Pfizer, Moderna In Case of Covid-19 Vaccine Side Effects, Here's Why
+ - [https://www.news18.com/news/buzz/americans-cant-sue-pfizer-moderna-in-case-of-covid-19-vaccine-side-effects-heres-why-3190154.html](https://www.news18.com/news/buzz/americans-cant-sue-pfizer-moderna-in-case-of-covid-19-vaccine-side-effects-heres-why-3190154.html)
+ - RSS feed: https://www.news18.com
+ - date published: 2020-12-18 18:13:12+00:00
+ - tags: vaccine,covid
+
+
 ## Władza w ramach walki z terroryzmem sprawdzi rachunki drobnych przedsiębiorców
  - [https://bezprawnik.pl/wladza-sprawdzi-twojego-windowsa/](https://bezprawnik.pl/wladza-sprawdzi-twojego-windowsa/)
  - RSS feed: bezprawnik.pl
  - date published: 2020-12-18 13:07:40+00:00
+
+
+## You can’t sue Pfizer or Moderna if you have severe Covid vaccine side effects. The government likely won't compensate you for damages either
+ - [https://www.cnbc.com/2020/12/16/covid-vaccine-side-effects-compensation-lawsuit.html](https://www.cnbc.com/2020/12/16/covid-vaccine-side-effects-compensation-lawsuit.html)
+ - RSS feed: https://www.cnbc.com/2020/12/16/covid-vaccine-side-effects-compensation-lawsuit.html
+ - date published: 2020-12-16 18:11:47+00:00
+ - tags: vaccine,covid
 
 
 ## Izraleskie firmy zlokalizują każdego smartfona do 1 metra. Wykorzystując reklamy.
