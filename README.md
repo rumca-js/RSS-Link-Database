@@ -55,6 +55,7 @@ With these data we can perform further analysis:
  - Link rot is real. My links may be not working after some time
  - Is the data relevant, or useful for anyone?
  - Either we would like to record data from 'well established sources' or gather as many links as possible. I think web engines do it? We cannot gather too much data, as it can destroy our potato servers.
+ - there are other RSS solutions like 'feedly', but it is an app, not data. You cannot parse it, you do not own the data, you can only do things that feedly allows you to do
 
 # Ending notes
 
