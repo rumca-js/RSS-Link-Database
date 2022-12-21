@@ -1,3 +1,16 @@
+## Twitter colluded with Pentagon to run network of fake accounts around the world
+ - [https://www.dailymail.co.uk/news/article-11559991/Twitter-colluded-Pentagon-run-network-fake-accounts-world.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11559991/Twitter-colluded-Pentagon-run-network-fake-accounts-world.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-21 00:54:41+00:00
+ - tags: twitter files,propaganda,twitter
+
+
+## The Twitter Files, leaks and the FBI: key revelations so far
+ - [https://www.dailymail.co.uk/news/article-11559455/The-Twitter-Files-leaks-FBI-key-revelations-far.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11559455/The-Twitter-Files-leaks-FBI-key-revelations-far.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-20 22:38:27+00:00
+
+
 ## ‘Twitter Files’ Show Company ‘Directly Assisted’ in US Military Psychological Operations
  - [https://www.theepochtimes.com/twitter-files-show-company-directly-assisted-in-us-military-psychological-operations_4935884.html](https://www.theepochtimes.com/twitter-files-show-company-directly-assisted-in-us-military-psychological-operations_4935884.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
