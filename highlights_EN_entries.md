@@ -1,3 +1,63 @@
+## Manufacturing Consent
+ - [https://en.wikipedia.org/wiki/Manufacturing_Consent](https://en.wikipedia.org/wiki/Manufacturing_Consent)
+ - RSS feed: https://en.wikipedia.org
+ - date published: 2022-12-21 20:14:16+00:00
+ - tags: all time,propaganda,chomsky
+
+
+## Milgram experiment
+ - [https://en.wikipedia.org/wiki/Milgram_experiment](https://en.wikipedia.org/wiki/Milgram_experiment)
+ - RSS feed: https://en.wikipedia.org
+ - date published: 2022-12-21 19:50:44+00:00
+ - tags: science
+
+
+## Overton window
+ - [https://en.wikipedia.org/wiki/Overton_window](https://en.wikipedia.org/wiki/Overton_window)
+ - RSS feed: https://en.wikipedia.org
+ - date published: 2022-12-21 19:50:08+00:00
+ - tags: science
+
+
+## Babylon Bee chief criticizes social media’s censorship of satire
+ - [https://reclaimthenet.org/babylon-bee-chief-criticizes-social-medias-censorship/](https://reclaimthenet.org/babylon-bee-chief-criticizes-social-medias-censorship/)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2022-12-21 19:46:50+00:00
+
+
+## More than 400 'pedophile dens' are in California where up to 18 sex predators live together
+ - [https://www.dailymail.co.uk/news/article-11495915/More-400-pedophile-dens-California-18-sex-predators-live-together.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11495915/More-400-pedophile-dens-California-18-sex-predators-live-together.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-21 19:42:59+00:00
+
+
+## Operant conditioning chamber
+ - [https://en.m.wikipedia.org/wiki/Operant_conditioning_chamber](https://en.m.wikipedia.org/wiki/Operant_conditioning_chamber)
+ - RSS feed: https://en.m.wikipedia.org
+ - date published: 2022-12-21 18:56:27+00:00
+ - tags: science
+
+
+## Google Global requests about users
+ - [https://transparencyreport.google.com/user-data/overview?user_requests_report_period=authority:US;time:&lu=user_requests_report_period](https://transparencyreport.google.com/user-data/overview?user_requests_report_period=authority:US;time:&lu=user_requests_report_period)
+ - RSS feed: https://transparencyreport.google.com/user-data/overview?user_requests_report_period=authority:US;time:&lu=user_requests_report_period
+ - date published: 2022-12-21 18:43:21+00:00
+ - tags: moderation,privacy,tracking
+
+
+## Don’t expect a Raspberry Pi 5 in 2023
+ - [https://www.techradar.com/news/dont-expect-a-raspberry-pi-5-in-2023](https://www.techradar.com/news/dont-expect-a-raspberry-pi-5-in-2023)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2022-12-21 16:33:01+00:00
+
+
+## China reports no new Covid-19 deaths after changing definition of Covid fatality
+ - [https://www.lemonde.fr/en/china/article/2022/12/21/china-reports-no-new-covid-19-deaths-after-changing-definition-of-covid-fatality_6008566_162.html](https://www.lemonde.fr/en/china/article/2022/12/21/china-reports-no-new-covid-19-deaths-after-changing-definition-of-covid-fatality_6008566_162.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2022-12-21 07:23:50+00:00
+ - tags: covid,china,statistics
+
+
 ## Twitter colluded with Pentagon to run network of fake accounts around the world
  - [https://www.dailymail.co.uk/news/article-11559991/Twitter-colluded-Pentagon-run-network-fake-accounts-world.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11559991/Twitter-colluded-Pentagon-run-network-fake-accounts-world.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
@@ -9,12 +69,21 @@
  - [https://www.dailymail.co.uk/news/article-11559455/The-Twitter-Files-leaks-FBI-key-revelations-far.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11559455/The-Twitter-Files-leaks-FBI-key-revelations-far.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-12-20 22:38:27+00:00
+ - tags: free speech,censorship,twitter; twitter files,fbi
+
+
+## Documents Show Zuckerberg Knew of Cambridge Analytica Earlier Than He Admitted
+ - [https://gizmodo.com/mark-zuckerberg-facebook-meta-cambridge-analytica-1849916617](https://gizmodo.com/mark-zuckerberg-facebook-meta-cambridge-analytica-1849916617)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-12-20 22:05:00+00:00
+ - tags: cambridge analytica
 
 
 ## ‘Twitter Files’ Show Company ‘Directly Assisted’ in US Military Psychological Operations
  - [https://www.theepochtimes.com/twitter-files-show-company-directly-assisted-in-us-military-psychological-operations_4935884.html](https://www.theepochtimes.com/twitter-files-show-company-directly-assisted-in-us-military-psychological-operations_4935884.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-20 21:20:56+00:00
+ - tags: military,free speech,censorship,twitter; twitter files
 
 
 ## Big oil is behind conspiracy to deceive public, first climate racketeering lawsuit says
@@ -28,12 +97,14 @@
  - [https://reclaimthenet.org/canada-redefined-economic-impact-as-violence-ea/](https://reclaimthenet.org/canada-redefined-economic-impact-as-violence-ea/)
  - RSS feed: https://reclaimthenet.org/feed/
  - date published: 2022-12-20 16:51:10+00:00
+ - tags: government,socialengineering,protest,freedomconvoy,canada
 
 
 ## Woke Stanford University publishes list of 'harmful language' it want to eliminate
  - [https://www.dailymail.co.uk/news/article-11558067/Woke-Stanford-University-publishes-list-harmful-language-want-eliminate.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11558067/Woke-Stanford-University-publishes-list-harmful-language-want-eliminate.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-12-20 13:54:37+00:00
+ - tags: woke,stanford,socialengineering
 
 
 ## China’s Covid Death Reports Spread as Doubts Grow About Official Virus Data
@@ -85,6 +156,7 @@
  - [http://www.msn.com/en-us/news/technology/twitter-announces-then-quickly-retracts-ban-on-promoting-other-social-media/ar-AA15qjms?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/twitter-announces-then-quickly-retracts-ban-on-promoting-other-social-media/ar-AA15qjms?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-19 06:40:28.410479+00:00
+ - tags: free speech,twitter,censorship
 
 
 ## Elon Musk asks Twitter to vote on whether he should step down
@@ -114,12 +186,6 @@
  - tags: pfizer,vaccine,covid
 
 
-## Twitter to stop users linking to big social media platforms
- - [https://www.bbc.co.uk/news/business-your-money-64021412?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-your-money-64021412?at_medium=RSS&at_campaign=KARANGA)
- - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
- - date published: 2022-12-18 21:15:01+00:00
-
-
 ## IRS Accidentally Releases 112,000 Taxpayers’ Private Data Again
  - [https://news.bloombergtax.com/daily-tax-report/irs-accidentally-releases-112-000-taxpayers-private-data-again](https://news.bloombergtax.com/daily-tax-report/irs-accidentally-releases-112-000-taxpayers-private-data-again)
  - RSS feed: https://hnrss.org/frontpage
@@ -131,6 +197,7 @@
  - [https://www.foxnews.com/opinion/censor-or-else-democratic-lawmakers-warn-facebook-not-backslide-censorship](https://www.foxnews.com/opinion/censor-or-else-democratic-lawmakers-warn-facebook-not-backslide-censorship)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-18 15:58:48+00:00
+ - tags: moderation,facebook,censorship
 
 
 ## Apple, Google, Amazon, and Facebook are always listening unless you change these settings
@@ -167,6 +234,13 @@
  - tags: censorship,twitter,moderation,free speech,musk
 
 
+## Legendary programmer John Carmack leaves Meta: 'This is the end of my decade in VR'⁠
+ - [https://www.pcgamer.com/legendary-programmer-john-carmack-leaves-meta-this-is-the-end-of-my-decade-in-vr](https://www.pcgamer.com/legendary-programmer-john-carmack-leaves-meta-this-is-the-end-of-my-decade-in-vr)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2022-12-17 21:43:05+00:00
+ - tags: meta,carmack,vr
+
+
 ## Liberal networks previously unbothered by Twitter censorship cry foul over Musk suspending journalists
  - [https://www.foxnews.com/media/liberal-networks-previously-unbothered-twitter-censorship-cry-foul-musk-suspending-journalists](https://www.foxnews.com/media/liberal-networks-previously-unbothered-twitter-censorship-cry-foul-musk-suspending-journalists)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
@@ -177,6 +251,7 @@
  - [https://github.com/ax/apk.sh](https://github.com/ax/apk.sh)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-17 15:38:19+00:00
+ - tags: android,it,programming
 
 
 ## Republicans respond after 'Twitter Files 6' reveals FBI flagged users and tweets: 'A lot to answer for'
@@ -231,6 +306,7 @@
  - [https://reclaimthenet.org/trudeau-canada-hate-speech-censorship-bill-possible-return/](https://reclaimthenet.org/trudeau-canada-hate-speech-censorship-bill-possible-return/)
  - RSS feed: https://reclaimthenet.org/feed/
  - date published: 2022-12-16 18:47:27+00:00
+ - tags: trudeau,censorship,canada
 
 
 ## Elon Bans Mastodon Links as Twitter Purge Continues
@@ -244,6 +320,13 @@
  - [https://www.foxnews.com/opinion/fec-needs-reopen-twitter-probe-now-documents-musk-released-show-company-may-have-outright-lied](https://www.foxnews.com/opinion/fec-needs-reopen-twitter-probe-now-documents-musk-released-show-company-may-have-outright-lied)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-16 17:00:43+00:00
+
+
+## FBI treated Twitter as a ‘subsidiary,’ flagged tweets and accounts for ‘misinformation’
+ - [https://nypost.com/2022/12/16/fbi-treated-twitter-as-subsidiary-flagged-tweets-for-misinformation/](https://nypost.com/2022/12/16/fbi-treated-twitter-as-subsidiary-flagged-tweets-for-misinformation/)
+ - RSS feed: https://nypost.com
+ - date published: 2022-12-16 13:42:15+00:00
+ - tags: fbi,surveillance,censorship,misinformation,twitter,government
 
 
 ## Ex-Twitter employee Gets 3.5 Years Jail for Spying on Behalf of Saudi Arabia
@@ -444,6 +527,13 @@
  - tags: jack dorsey,twitter,twitter files,censorship
 
 
+## Indian citizens that don’t link account numbers to Digital ID will soon face financial blacklisting
+ - [https://reclaimthenet.org/india-digital-id-account-link/](https://reclaimthenet.org/india-digital-id-account-link/)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2022-12-13 19:19:29+00:00
+ - tags: government control,digital identity,digital passport
+
+
 ## Social Media Goes Wild As Cambridge Dictionary Redefines ‘Woman,’ ‘Man’
  - [https://www.dailywire.com/news/social-media-goes-wild-as-cambridge-dictionary-redefines-woman-man](https://www.dailywire.com/news/social-media-goes-wild-as-cambridge-dictionary-redefines-woman-man)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
@@ -481,6 +571,13 @@
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-12-13 09:01:53+00:00
  - tags: esg
+
+
+## Twitter files: CNN, ABC, NBC, CBS blackout coverage of Elon Musk leaks
+ - [https://www.foxnews.com/media/twitter-files-cnn-abc-nbc-cbs-blackout-coverage-elon-musk](https://www.foxnews.com/media/twitter-files-cnn-abc-nbc-cbs-blackout-coverage-elon-musk)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-13 07:00:10+00:00
+ - tags: twitter; twitter files
 
 
 ## Twitter files show how Trump was banned, while world dictators were allowed to call for mass murder
@@ -689,6 +786,7 @@
  - [https://www.dailymail.co.uk/news/article-11523295/Hunter-Biden-sells-paintings-225-000-anonymous-buyers.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11523295/Hunter-Biden-sells-paintings-225-000-anonymous-buyers.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-12-10 05:55:07+00:00
+ - tags: hunter biden,money
 
 
 ## Elon Musk's 'Twitter Files' reveal internal debate to remove Mike Huckabee tweet including election joke
@@ -744,10 +842,17 @@
  - tags: twitter,twitter files
 
 
+## Apple supplier Foxconn reportedly helped persuade China to loosen Covid rules
+ - [https://www.cnbc.com/2022/12/08/apple-supplier-foxconn-helped-convince-china-to-loosen-covid-rules-report.html](https://www.cnbc.com/2022/12/08/apple-supplier-foxconn-helped-convince-china-to-loosen-covid-rules-report.html)
+ - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
+ - date published: 2022-12-09 00:07:24+00:00
+
+
 ## The Great Climate Con | Alex Epstein | #312
  - [https://www.youtube.com/watch?v=eDWq7-eP5sE](https://www.youtube.com/watch?v=eDWq7-eP5sE)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q
  - date published: 2022-12-08 20:36:56+00:00
+ - tags: climate change
 
 
 ## You are being LIED to about inflation (here's the REAL cause)
@@ -787,6 +892,7 @@
  - [https://www.dailymail.co.uk/news/article-11514251/Kirk-Cameron-banned-hosting-readings-Christian-childrens-book-50-public-libraries.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11514251/Kirk-Cameron-banned-hosting-readings-Christian-childrens-book-50-public-libraries.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-12-08 01:06:19+00:00
+ - tags: christianity,censorship
 
 
 ## Christian group whose reservation was cancelled by TV chef Brittanny Anderson's restaurant hits back
@@ -873,6 +979,7 @@
  - [https://reclaimthenet.org/white-house-hunter-biden-censorship-distraction/](https://reclaimthenet.org/white-house-hunter-biden-censorship-distraction/)
  - RSS feed: https://reclaimthenet.org/feed/
  - date published: 2022-12-06 19:00:48+00:00
+ - tags: white house,propaganda,censorship,lie,hunter biden
 
 
 ## Meta vows to boycott US news outlets on Facebook if Dem-sponsored ad revenue bill is signed into law
@@ -961,6 +1068,7 @@
  - [http://www.msn.com/en-us/news/us/the-biden-administration-wants-taxpayers-to-fund-gender-transitions-for-children/ar-AA14TDk1?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/us/the-biden-administration-wants-taxpayers-to-fund-gender-transitions-for-children/ar-AA14TDk1?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-04 21:02:54.568991+00:00
+ - tags: lgbt,gender,propaganda,trans,government
 
 
 ## Former Twitter censor stands by decision to ban satire site Babylon Bee – “not funny,” “dangerous”
@@ -1045,6 +1153,12 @@
  - date published: 2022-12-03 18:36:30+00:00
 
 
+## The German Experiment That Placed Foster Children with Pedophiles
+ - [https://www.newyorker.com/magazine/2021/07/26/the-german-experiment-that-placed-foster-children-with-pedophiles](https://www.newyorker.com/magazine/2021/07/26/the-german-experiment-that-placed-foster-children-with-pedophiles)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-03 17:51:38+00:00
+
+
 ## James Woods On Elon Musk Releasing ‘The Twitter Files’: ‘Musk Has Very Possibly Saved America’
  - [https://www.dailywire.com/news/james-woods-on-elon-musk-releasing-the-twitter-files-musk-has-very-possibly-saved-america](https://www.dailywire.com/news/james-woods-on-elon-musk-releasing-the-twitter-files-musk-has-very-possibly-saved-america)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
@@ -1126,6 +1240,7 @@
  - [https://arstechnica.com/?p=1901358](https://arstechnica.com/?p=1901358)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-01 20:20:38+00:00
+ - tags: hackers,hive social,leak
 
 
 ## Fauci says 'it's very important' to learn COVID origin, explains what to do if lab leak theory proven true
@@ -1138,6 +1253,7 @@
  - [https://www.dailywire.com/news/gutfeld-destroys-republican-host-of-the-view-over-balenciaga-hot-take](https://www.dailywire.com/news/gutfeld-destroys-republican-host-of-the-view-over-balenciaga-hot-take)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-01 15:47:47+00:00
+ - tags: balenciaga
 
 
 ## Environmental activist Meghan Markle seen boarding private jet following female empowerment event
@@ -1146,16 +1262,25 @@
  - date published: 2022-12-01 15:34:16.902708+00:00
 
 
+## 'River of blood': Foxconn employee describes violent protests in China
+ - [https://www.cnn.com/videos/business/2022/12/01/china-covid-protests-foxconn-iphone-factory-wang-dnt-ebof-vpx.cnn](https://www.cnn.com/videos/business/2022/12/01/china-covid-protests-foxconn-iphone-factory-wang-dnt-ebof-vpx.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-01 03:19:11+00:00
+ - tags: foxconn,china,protest
+
+
 ## Disney’s new neural network can change an actor’s age with ease
  - [https://arstechnica.com/?p=1901037](https://arstechnica.com/?p=1901037)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-11-30 23:13:19+00:00
+ - tags: disney,it
 
 
 ## FTX billionaire Sam Bankman-Fried funneled dark money to Republicans
  - [https://www.theguardian.com/technology/2022/nov/30/ftx-billionaire-sam-bankman-fried-dark-money-republicans](https://www.theguardian.com/technology/2022/nov/30/ftx-billionaire-sam-bankman-fried-dark-money-republicans)
  - RSS feed: https://www.theguardian.com/international/rss
  - date published: 2022-11-30 17:20:29+00:00
+ - tags: ftx,billionaires,bankman-fried
 
 
 ## Is ESG An Investment Strategy Or The Path To A Sustainable World?
@@ -1180,6 +1305,7 @@
  - [https://www.foxnews.com/media/twitter-safety-chief-admits-hunter-biden-laptop-censorship-mistake](https://www.foxnews.com/media/twitter-safety-chief-admits-hunter-biden-laptop-censorship-mistake)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-11-30 14:58:52+00:00
+ - tags: hunter biden,twitter,censorship
 
 
 ## China’s Dramatic Dissent
@@ -1205,12 +1331,14 @@
  - [https://gizmodo.com/deep-fake-zuckerberg-meta-antitrust-big-tech-1849830665](https://gizmodo.com/deep-fake-zuckerberg-meta-antitrust-big-tech-1849830665)
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-11-29 16:00:00+00:00
+ - tags: corporatocracy,antitrust,technofeudalism,zuckerberg
 
 
 ## Brazilian ‘protest’ video flagged as misinformation
  - [https://www.aap.com.au/factcheck/brazilian-protest-video-flagged-as-misinformation/](https://www.aap.com.au/factcheck/brazilian-protest-video-flagged-as-misinformation/)
  - RSS feed: https://www.aap.com.au
  - date published: 2022-11-29 14:25:40+00:00
+ - tags: misinformation,protest,censorship,brazilia
 
 
 ## Sony steps into the Metaverse with the 'Mocopi' motion tracking system
@@ -1230,6 +1358,7 @@
  - [https://www.foxnews.com/media/new-york-times-guardian-other-media-outlets-call-us-end-prosecution-julian-assange](https://www.foxnews.com/media/new-york-times-guardian-other-media-outlets-call-us-end-prosecution-julian-assange)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-11-29 09:46:18+00:00
+ - tags: wikileaks,assange,government
 
 
 ## 5.4 million Twitter users' stolen data leaked online — more shared privately
@@ -1353,6 +1482,7 @@
  - [https://www.youtube.com/watch?v=E8ZB2SjNzrc](https://www.youtube.com/watch?v=E8ZB2SjNzrc)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCmFeOdJI3IXgTBDzqBLD8qg
  - date published: 2022-11-26 01:34:32+00:00
+ - tags: woke,rotten tomatoes
 
 
 ## Enrico Tartarotti - The Slow Death of Google Search (Why Search Results Are So Bad)
@@ -1436,7 +1566,7 @@
  - [https://macdonaldlaurier.ca/how-bill-c-11-could-open-the-door-to-state-controlled-media-peter-menzies-in-the-epoch-times/](https://macdonaldlaurier.ca/how-bill-c-11-could-open-the-door-to-state-controlled-media-peter-menzies-in-the-epoch-times/)
  - RSS feed: https://macdonaldlaurier.ca
  - date published: 2022-11-22 17:21:58+00:00
- - tags: government,bill c-11,censorship
+ - tags: bill c-11,government,censorship,canada
 
 
 ## Quentin Tarantino blasts Marvel actors: 'They're not movie stars'
@@ -1842,7 +1972,7 @@
  - [https://www.forbes.com/sites/tylerroush/2022/11/10/scientists-say-global-carbon-emissions-showing-no-signs-of-decline/](https://www.forbes.com/sites/tylerroush/2022/11/10/scientists-say-global-carbon-emissions-showing-no-signs-of-decline/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-11 00:15:55+00:00
- - tags: climate change
+ - tags: climate change,carbon footprint,carbon emissions
 
 
 ## GitHub stars won't pay your rent
@@ -1909,6 +2039,13 @@
  - [https://havenweb.org/2022/11/02/facebook-lie.html](https://havenweb.org/2022/11/02/facebook-lie.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-08 17:00:33+00:00
+
+
+## British Universities Told to Teach That Math Is Racist
+ - [https://www.thetrumpet.com/26367-british-universities-told-to-teach-that-math-is-racist](https://www.thetrumpet.com/26367-british-universities-told-to-teach-that-math-is-racist)
+ - RSS feed: https://www.thetrumpet.com
+ - date published: 2022-11-08 14:48:32+00:00
+ - tags: scienceisracist,mathisracist
 
 
 ## China’s Digital Yuan Works Just Like Cash—With Added Surveillance
@@ -2010,6 +2147,7 @@
  - [https://www.dailywire.com/news/only-2-of-childrens-deaths-were-from-covid-and-school-closures-didnt-reduce-the-number](https://www.dailywire.com/news/only-2-of-childrens-deaths-were-from-covid-and-school-closures-didnt-reduce-the-number)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-05 18:07:40+00:00
+ - tags: covid,lockdown
 
 
 ## Conservatives slam Ivy League prof who demanded 'pandemic amnesty' for those who pushed lockdowns
@@ -2058,7 +2196,7 @@
  - [https://www.foxnews.com/politics/newsom-hit-with-a-lawsuit-for-covid-19-misinformation-bill-doctors-say-trample-first-amendment-rights](https://www.foxnews.com/politics/newsom-hit-with-a-lawsuit-for-covid-19-misinformation-bill-doctors-say-trample-first-amendment-rights)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-11-04 17:08:42+00:00
- - tags: censorship,covid
+ - tags: covid,misinformation,censorship,firstamendment
 
 
 ## Elon Musk Has Laid Off Many Twitter Employees Charged With Protecting The Midterm Elections
@@ -2635,6 +2773,13 @@
  - [https://www.dailymail.co.uk/debate/article-11367185/Chinas-zero-Covid-policy-no-longer-health-power-mass-surveillance.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/debate/article-11367185/Chinas-zero-Covid-policy-no-longer-health-power-mass-surveillance.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-10-29 00:22:48+00:00
+
+
+## Researcher who wrote 2019 report on 'gaps' in IQ between 'whites' and 'blacks' hired by Cambridge
+ - [https://www.dailymail.co.uk/news/article-11366515/Researcher-wrote-2019-report-gaps-IQ-whites-blacks-hired-Cambridge.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11366515/Researcher-wrote-2019-report-gaps-IQ-whites-blacks-hired-Cambridge.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-10-28 20:49:27+00:00
+ - tags: propaganda,ideology,scienceisracist,blm,iq
 
 
 ## Wicked Globalists Are Causing Starvation and Poverty Under the Guise of Environmentalism
@@ -6346,6 +6491,7 @@
  - [https://www.csoonline.com/article/3671333/facebook-agrees-to-settle-class-action-lawsuit-related-to-cambridge-analytica-data-breach.html#tk.rss_all](https://www.csoonline.com/article/3671333/facebook-agrees-to-settle-class-action-lawsuit-related-to-cambridge-analytica-data-breach.html#tk.rss_all)
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-08-29 11:19:00+00:00
+ - tags: cambridge analytica
 
 
 ## The Dead Internet Theory (Part 2)
@@ -6620,6 +6766,13 @@
  - tags: hollywood,movies
 
 
+## Invasion of the Fact-Checkers
+ - [https://www.tabletmag.com/sections/news/articles/invasion-fact-checkers](https://www.tabletmag.com/sections/news/articles/invasion-fact-checkers)
+ - RSS feed: https://www.tabletmag.com
+ - date published: 2022-03-22 13:54:27+00:00
+ - tags: fact-check,misinformation,free speech,censorship
+
+
 ## Web3.0: A Libertarian Dystopia
  - [https://www.youtube.com/watch?v=u-sNSjS8cq0](https://www.youtube.com/watch?v=u-sNSjS8cq0)
  - RSS feed: https://www.youtube.com/@munecat
@@ -6770,6 +6923,27 @@
  - date published: 2022-01-18 20:59:14+00:00
 
 
+## Liberal-Funded Global Fact-Checking Network Decries YouTube’s ‘Insufficient’ Censorship
+ - [https://www.newsbusters.org/blogs/free-speech/joseph-vazquez/2022/01/18/liberal-funded-global-fact-checking-network-decries](https://www.newsbusters.org/blogs/free-speech/joseph-vazquez/2022/01/18/liberal-funded-global-fact-checking-network-decries)
+ - RSS feed: https://www.newsbusters.org
+ - date published: 2022-01-18 13:58:30+00:00
+ - tags: factcheck,censorship,freespeech,youtube
+
+
+## Computer says no! Showgirl, mankind, whitewash and blacklist are just some of the words that don't make it past Microsoft Word's new woke filter (but don't worry, you can turn it off)
+ - [https://www.dailymail.co.uk/news/article-10398999/Blacklist-postman-mankind-just-words-wont-fly-Microsofts-woke-filter.html](https://www.dailymail.co.uk/news/article-10398999/Blacklist-postman-mankind-just-words-wont-fly-Microsofts-woke-filter.html)
+ - RSS feed: https://www.dailymail.co.uk
+ - date published: 2022-01-13 12:23:01+00:00
+ - tags: woke,censorship,socialengineering,microsoft
+
+
+## Twitter Permanently Suspends Marjorie Taylor Greene’s Account
+ - [https://www.nytimes.com/2022/01/02/technology/marjorie-taylor-greene-twitter.html](https://www.nytimes.com/2022/01/02/technology/marjorie-taylor-greene-twitter.html)
+ - RSS feed: https://www.nytimes.com
+ - date published: 2022-01-02 12:26:38+00:00
+ - tags: censorship,moderation,twitter,marjorie taylor greene,free speech
+
+
 ## YouTube removes viral Joe Rogan interview with Dr. Robert Malone
  - [https://thepostmillennial.com/youtube-removes-joe-rogan-interview-with-dr-robert-malone-from-youtube](https://thepostmillennial.com/youtube-removes-joe-rogan-interview-with-dr-robert-malone-from-youtube)
  - RSS feed: thepostmillennial.com
@@ -6781,6 +6955,13 @@
  - [https://www.youtube.com/watch?v=WhNJJmmCkqY](https://www.youtube.com/watch?v=WhNJJmmCkqY)
  - RSS feed: https://www.youtube.com/c/academyofideas
  - date published: 2021-12-28 21:15:53+00:00
+
+
+## Carbon Footprint Factsheet
+ - [https://css.umich.edu/publications/factsheets/sustainability-indicators/carbon-footprint-factsheet](https://css.umich.edu/publications/factsheets/sustainability-indicators/carbon-footprint-factsheet)
+ - RSS feed: https://css.umich.edu
+ - date published: 2021-12-21 14:30:59+00:00
+ - tags: climate change,carbon footprint
 
 
 ## Amazon partnered with China propaganda arm
@@ -6808,6 +6989,13 @@
  - RSS feed: https://www.youtube.com/@700Club-official
  - date published: 2021-12-15 08:25:46+00:00
  - tags: covid,freedom
+
+
+## Politician says Germany should ban Telegram unless it tackles extremist content
+ - [https://news.yahoo.com/politician-says-germany-ban-telegram-182425996.html](https://news.yahoo.com/politician-says-germany-ban-telegram-182425996.html)
+ - RSS feed: https://news.yahoo.com
+ - date published: 2021-12-14 12:24:51+00:00
+ - tags: moderation,germany,censorship,extremism
 
 
 ## Qualcomm’s new always-on smartphone camera is a potential privacy nightmare
@@ -6947,6 +7135,20 @@
  - [https://www.abc.net.au/news/2021-10-20/pfizer-covid-19-vaccine-contracts/100553958](https://www.abc.net.au/news/2021-10-20/pfizer-covid-19-vaccine-contracts/100553958)
  - RSS feed: www.abc.net.au
  - date published: 2021-10-20 07:43:01+00:00
+
+
+## The tyranny of “diversity, equity, and inclusion”
+ - [https://wng.org/opinions/the-tyranny-of-diversity-equity-and-inclusion-1634136777](https://wng.org/opinions/the-tyranny-of-diversity-equity-and-inclusion-1634136777)
+ - RSS feed: https://wng.org
+ - date published: 2021-10-13 15:45:57+00:00
+ - tags: propaganda,inclusion,diversity,equity
+
+
+## Media, Cognitive Warfare and One World Government Social Engineering
+ - [https://icdt.ir/en/media-cognitive-warfare-and-one-world-government-social-engineering/](https://icdt.ir/en/media-cognitive-warfare-and-one-world-government-social-engineering/)
+ - RSS feed: https://icdt.ir/en/media-cognitive-warfare-and-one-world-government-social-engineering/
+ - date published: 2021-10-13 13:03:47+00:00
+ - tags: government,social media,social engineering,propaganda
 
 
 ## Tim Pool Permanently BANNED By TikTok, Likely Due To Hosting Alex Jones, Who Broke No Rules
@@ -7293,6 +7495,13 @@
  - date published: 2021-01-21 12:26:49+00:00
 
 
+## Does the West Actually Care About the Uighur Genocide in China or Is It a Handy Excuse for Conflict?
+ - [https://www.theorganicprepper.com/china-uighur-genocide/](https://www.theorganicprepper.com/china-uighur-genocide/)
+ - RSS feed: https://www.theorganicprepper.com
+ - date published: 2021-01-18 12:28:20+00:00
+ - tags: china,genocide,uighur
+
+
 ## What Happened To Our Villains?
  - [https://youtu.be/vnRP7SKzOgk](https://youtu.be/vnRP7SKzOgk)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA
@@ -7406,6 +7615,13 @@
  - date published: 2020-12-10 13:10:45+00:00
 
 
+## The American Companies Enabling China’s Uyghur Genocide
+ - [https://www.theamericanconservative.com/the-american-companies-enabling-chinas-uyghur-genocide/](https://www.theamericanconservative.com/the-american-companies-enabling-chinas-uyghur-genocide/)
+ - RSS feed: https://www.theamericanconservative.com
+ - date published: 2020-12-04 12:32:25+00:00
+ - tags: uyghur,china,genocide,hypocrisy
+
+
 ## Lekarz: Strategia testowania i izolowania jest samobójcza
  - [https://tarnogorski.info/pilne-kierownik-oddzia/](https://tarnogorski.info/pilne-kierownik-oddzia/)
  - RSS feed: tarnogorski.info
@@ -7511,6 +7727,7 @@
  - [https://www.oxfam.org/en/press-releases/carbon-emissions-richest-1-percent-more-double-emissions-poorest-half-humanity](https://www.oxfam.org/en/press-releases/carbon-emissions-richest-1-percent-more-double-emissions-poorest-half-humanity)
  - RSS feed: https://www.oxfam.org
  - date published: 2020-09-21 07:50:21+00:00
+ - tags: climate change,carbon footprint,carbon emissions
 
 
 ## Gates Foundation funds Facebook fact-checkers that defend it from allegations
@@ -7585,6 +7802,7 @@
  - [https://www.youtube.com/watch?v=1J9LOqiXdpE](https://www.youtube.com/watch?v=1J9LOqiXdpE)
  - RSS feed: https://www.youtube.com/c/ClimateTown
  - date published: 2020-08-12 07:47:34+00:00
+ - tags: climate change,carbon footprint,carbon emissions
 
 
 ## 400+ Qualcomm Chip Vulnerabilities Threaten Millions of Android Phones
@@ -7622,6 +7840,13 @@
  - RSS feed: https://thefederalist.com
  - date published: 2020-07-23 08:17:09+00:00
  - tags: blm,mccloskey
+
+
+## The hypocrisy of the Black Lives Matter Movement
+ - [https://eu.examiner-enterprise.com/story/opinion/columns/2020/07/21/hypocrisy-of-black-lives-matter-movement/112696474/](https://eu.examiner-enterprise.com/story/opinion/columns/2020/07/21/hypocrisy-of-black-lives-matter-movement/112696474/)
+ - RSS feed: https://eu.examiner-enterprise.com
+ - date published: 2020-07-21 12:30:26+00:00
+ - tags: hipocrisy,blm,blacklivesmatter
 
 
 ## Epstein case: Suspect who shot family of judge on DB-Jeffrey Epstein case found dead after apparent suicide – reports
@@ -7664,6 +7889,13 @@
  - date published: 2020-06-30 20:01:50+00:00
 
 
+## What is the real goal of the ‘Stop Hate for Profit’ campaign against Facebook? Hint: it has nothing to do with ‘hate speech’
+ - [https://www.rt.com/op-ed/493295-stop-hate-advertising-extortion-astroturf/](https://www.rt.com/op-ed/493295-stop-hate-advertising-extortion-astroturf/)
+ - RSS feed: https://www.rt.com
+ - date published: 2020-06-29 12:14:35+00:00
+ - tags: hypocrisy,propaganda,facebook,stophateforprofit,censorship,hate speech,free speech,freespeech
+
+
 ## "Reddit will allow racist hate speech directed at ""majority"" populations and conservatives"
  - [https://twitter.com/TomFitton/status/1277667890913738753](https://twitter.com/TomFitton/status/1277667890913738753)
  - RSS feed: twitter.com
@@ -7687,6 +7919,13 @@
  - [https://notrelated.xyz/audio/s02/S02E01_-_Against_Method_and_For_Pseudoscience.ogg](https://notrelated.xyz/audio/s02/S02E01_-_Against_Method_and_For_Pseudoscience.ogg)
  - RSS feed: https://notrelated.xyz/rss
  - date published: 2020-06-05 04:00:00+00:00
+
+
+## Blizzard Called Out For BLM Protest Support After Blitzchung Hong Kong Controversy
+ - [https://screenrant.com/blizzard-protest-blackout-black-lives-matter-hong-kong/](https://screenrant.com/blizzard-protest-blackout-black-lives-matter-hong-kong/)
+ - RSS feed: https://screenrant.com
+ - date published: 2020-06-03 12:11:41+00:00
+ - tags: china,blizzard,censorship,corporatocracy,blm,hong kong
 
 
 ## US Senators Introduce 'Lawful Access to Encrypted Data Act' - With Backdoor Mandate
@@ -7765,6 +8004,13 @@
  - tags: history,covid
 
 
+## Ring Fired Employees for Watching Customer Videos
+ - [https://www.vice.com/en/article/y3mdvk/ring-fired-employees-abusing-video-data](https://www.vice.com/en/article/y3mdvk/ring-fired-employees-abusing-video-data)
+ - RSS feed: https://www.vice.com
+ - date published: 2020-01-08 12:16:22+00:00
+ - tags: iot,privacy,amazon,tracking
+
+
 ## A Look Inside Jeffrey Epstein’s Prison Cell
  - [https://www.thecrimemag.com/epsteins-prison-cell/](https://www.thecrimemag.com/epsteins-prison-cell/)
  - RSS feed: https://www.thecrimemag.com
@@ -7772,10 +8018,24 @@
  - tags: epstein,prison cell
 
 
+## Who’s Really Responsible for Climate Change?
+ - [https://harvardpolitics.com/climate-change-responsibility/](https://harvardpolitics.com/climate-change-responsibility/)
+ - RSS feed: https://harvardpolitics.com
+ - date published: 2020-01-02 14:33:49+00:00
+ - tags: climate change,carbon footprint
+
+
 ## YouTube says it has ‘no obligation’ to host anyone’s video
  - [https://www.theverge.com/2019/11/11/20955864/youtube-terms-of-service-update-terminations-children-content-ftc](https://www.theverge.com/2019/11/11/20955864/youtube-terms-of-service-update-terminations-children-content-ftc)
  - RSS feed: https://www.theverge.com
  - date published: 2019-11-11 19:57:35+00:00
+
+
+## Blizzard, Hearthstone and the Hong Kong protests: What you need to know
+ - [https://www.cnet.com/culture/blizzard-hearthstone-and-the-hong-kong-protests-heres-what-you-need-to-know/](https://www.cnet.com/culture/blizzard-hearthstone-and-the-hong-kong-protests-heres-what-you-need-to-know/)
+ - RSS feed: https://www.cnet.com
+ - date published: 2019-11-05 12:09:42+00:00
+ - tags: china,blizzard,censorship
 
 
 ## The Farmer Who Took On One Of The World’s Biggest Chemical Corporations
@@ -7810,10 +8070,45 @@
  - date published: 2019-10-10 13:37:51+00:00
 
 
+## Google pulls Hong Kong protest game for violating rules against ‘capitalizing on sensitive events’
+ - [https://www.theverge.com/2019/10/10/20908034/google-hong-kong-protest-game-play-store-removed-rules](https://www.theverge.com/2019/10/10/20908034/google-hong-kong-protest-game-play-store-removed-rules)
+ - RSS feed: https://www.theverge.com
+ - date published: 2019-10-10 12:10:31+00:00
+ - tags: hong kong,china,censorship,google
+
+
+## Revealed: the 20 firms behind a third of all carbon emissions
+ - [https://www.theguardian.com/environment/2019/oct/09/revealed-20-firms-third-carbon-emissions](https://www.theguardian.com/environment/2019/oct/09/revealed-20-firms-third-carbon-emissions)
+ - RSS feed: https://www.theguardian.com
+ - date published: 2019-10-09 14:34:31+00:00
+ - tags: climate change,carbon footprint,carbon emissions
+
+
+## The Cave Rescuer Suing Elon Musk Claims The Tesla CEO Fabricated Pedophilia Claims Against Him
+ - [https://www.buzzfeednews.com/article/ryanmac/unsworth-reply-elon-musk-fucking-idiot](https://www.buzzfeednews.com/article/ryanmac/unsworth-reply-elon-musk-fucking-idiot)
+ - RSS feed: https://www.buzzfeednews.com
+ - date published: 2019-10-08 12:21:11+00:00
+ - tags: billionaires,lie,musk
+
+
+## One of America’s biggest gaming companies is acting as China’s censor
+ - [https://www.vox.com/2019/10/8/20904433/blizzard-hong-kong-hearthstone-blitzchung](https://www.vox.com/2019/10/8/20904433/blizzard-hong-kong-hearthstone-blitzchung)
+ - RSS feed: https://www.vox.com
+ - date published: 2019-10-08 12:08:47+00:00
+ - tags: china,blizzard,censorship
+
+
 ## Why Tesla is a Privacy Nightmare
  - [https://www.youtube.com/watch?v=Qjkt3X2WLrw](https://www.youtube.com/watch?v=Qjkt3X2WLrw)
  - RSS feed: https://www.youtube.com/@Techlore
  - date published: 2019-09-09 20:34:52+00:00
+
+
+## Jeffrey Epstein Donations to M.I.T. Will Be Focus of University Inquiry
+ - [https://www.nytimes.com/2019/08/22/business/epstein-mit-media-lab.html](https://www.nytimes.com/2019/08/22/business/epstein-mit-media-lab.html)
+ - RSS feed: https://www.nytimes.com
+ - date published: 2019-08-22 12:18:53+00:00
+ - tags: donations,money,epstein,mit
 
 
 ## Haunting photos show Jeffrey Epstein’s ‘Pedophile Island’ in the Caribbean
@@ -7841,6 +8136,13 @@
  - RSS feed: https://en.wikipedia.org
  - date published: 2019-08-10 19:36:32+00:00
  - tags: epstein
+
+
+## Instagram: Why paying for followers and likes is bad news for real fans
+ - [https://www.bbc.com/news/newsbeat-48952123](https://www.bbc.com/news/newsbeat-48952123)
+ - RSS feed: https://www.bbc.com
+ - date published: 2019-07-13 11:20:17+00:00
+ - tags: instagram,celebrity,dead internet
 
 
 ## The Terrifying Potential of the 5G Network
@@ -7890,6 +8192,13 @@
  - RSS feed: https://www.youtube.com/@JREClips
  - date published: 2019-02-20 20:54:35+00:00
  - tags: privacy
+
+
+## For Owners of Amazon’s Ring Security Cameras, Strangers May Have Been Watching Too
+ - [https://theintercept.com/2019/01/10/amazon-ring-security-camera/](https://theintercept.com/2019/01/10/amazon-ring-security-camera/)
+ - RSS feed: https://theintercept.com
+ - date published: 2019-01-10 12:17:38+00:00
+ - tags: iot,privacy,amazon,tracking
 
 
 ## Human Evolution Revised: Timelines and Multiregionalism
@@ -7964,6 +8273,13 @@
  - date published: 2018-08-17 04:00:00+00:00
 
 
+## Social Engineering as a Threat to Societies: The Cambridge Analytica Case
+ - [https://www.realcleardefense.com/articles/2018/07/18/social_engineering_as_a_threat_to_societies_the_cambridge_analytica_case_113620.html](https://www.realcleardefense.com/articles/2018/07/18/social_engineering_as_a_threat_to_societies_the_cambridge_analytica_case_113620.html)
+ - RSS feed: https://www.realcleardefense.com
+ - date published: 2018-07-18 13:25:21+00:00
+ - tags: cambridge analityca,social engineering
+
+
 ## Can we trust AI if we don't know how it works?
  - [https://www.bbc.com/news/business-44466213](https://www.bbc.com/news/business-44466213)
  - RSS feed: https://www.bbc.com
@@ -7989,6 +8305,13 @@
  - date published: 2018-05-10 21:07:50+00:00
 
 
+## The Facebook and Cambridge Analytica scandal, explained with a simple diagram
+ - [https://www.vox.com/policy-and-politics/2018/3/23/17151916/facebook-cambridge-analytica-trump-diagram](https://www.vox.com/policy-and-politics/2018/3/23/17151916/facebook-cambridge-analytica-trump-diagram)
+ - RSS feed: https://www.vox.com
+ - date published: 2018-05-02 11:10:30+00:00
+ - tags: trump,propaganda,facebook,censorship,cambridge analytica
+
+
 ## WHO donors in 2017 – US, Gates Foundation
  - [https://www.keionline.org/27708](https://www.keionline.org/27708)
  - RSS feed: https://www.keionline.org
@@ -8009,10 +8332,38 @@
  - date published: 2018-04-09 19:48:41+00:00
 
 
+## Cambridge Analytica and Facebook: The Scandal and the Fallout So Far
+ - [https://www.nytimes.com/2018/04/04/us/politics/cambridge-analytica-scandal-fallout.html](https://www.nytimes.com/2018/04/04/us/politics/cambridge-analytica-scandal-fallout.html)
+ - RSS feed: https://www.nytimes.com
+ - date published: 2018-04-04 11:09:25+00:00
+ - tags: cambridge analytica
+
+
+## Revealed: 50 million Facebook profiles harvested for Cambridge Analytica in major data breach
+ - [https://www.theguardian.com/news/2018/mar/17/cambridge-analytica-facebook-influence-us-election](https://www.theguardian.com/news/2018/mar/17/cambridge-analytica-facebook-influence-us-election)
+ - RSS feed: https://www.theguardian.com
+ - date published: 2018-03-17 11:11:42+00:00
+ - tags: trump,propaganda,facebook,censorship,cambridge analytica
+
+
+## UN blames Facebook for spreading hate speech in possible Myanmar genocide of Rohingya Muslims
+ - [https://www.businessinsider.com/r-un-investigators-cite-facebook-role-in-myanmar-crisis-2018-3?IR=T](https://www.businessinsider.com/r-un-investigators-cite-facebook-role-in-myanmar-crisis-2018-3?IR=T)
+ - RSS feed: https://www.businessinsider.com
+ - date published: 2018-03-13 11:23:25+00:00
+ - tags: hate speech,myanmar,facebook,privacy
+
+
 ## Skygofree: Powerful Android spyware with advanced surveillance tools
  - [https://www.csoonline.com/article/3248825/security/skygofree-powerful-android-spyware-with-advanced-surveillance-tools.html](https://www.csoonline.com/article/3248825/security/skygofree-powerful-android-spyware-with-advanced-surveillance-tools.html)
  - RSS feed: www.csoonline.com
  - date published: 2018-01-18 06:47:39+00:00
+
+
+## Is flat earth theory just a myth created by CIA in one of their covert operations?
+ - [https://www.quora.com/Is-flat-earth-theory-just-a-myth-created-by-CIA-in-one-of-their-covert-operations](https://www.quora.com/Is-flat-earth-theory-just-a-myth-created-by-CIA-in-one-of-their-covert-operations)
+ - RSS feed: https://www.quora.com
+ - date published: 2017-12-21 15:00:51+00:00
+ - tags: funny,conspiracytheory,flatearth,cia,deep state
 
 
 ## 10 Reasons You Should Be AFRAID of GOOGLE
@@ -8021,11 +8372,32 @@
  - date published: 2017-11-21 20:37:18+00:00
 
 
+## Fake “Flat Earth” Conspiracy Finally Outed As C.I.A. Psyop
+ - [https://themillenniumreport.com/2017/11/fake-flat-earth-conspiracy-finally-outed-as-cia-psyop/](https://themillenniumreport.com/2017/11/fake-flat-earth-conspiracy-finally-outed-as-cia-psyop/)
+ - RSS feed: https://themillenniumreport.com
+ - date published: 2017-11-06 14:57:08+00:00
+ - tags: funny,conspiracytheory,flatearth,cia,deep state
+
+
+## UK Politicians Call 'Fake News' On Stories They Don't Like, Aping Donald Trump
+ - [https://www.huffingtonpost.co.uk/entry/british-politicians-fake-news_uk_58b60832e4b0a8a9b7870126](https://www.huffingtonpost.co.uk/entry/british-politicians-fake-news_uk_58b60832e4b0a8a9b7870126)
+ - RSS feed: https://www.huffingtonpost.co.uk
+ - date published: 2017-11-03 15:36:18+00:00
+ - tags: trump,disinformation,uk,fakenews
+
+
 ## USA: Hurricane Harvey Victims Told: Boycott Israel and You Won’t Get Aid Donations
  - [https://www.palestinechronicle.com/hurricane-harvey-victims-told-boycott-israel-and-you-wont-get-aid-donations/](https://www.palestinechronicle.com/hurricane-harvey-victims-told-boycott-israel-and-you-wont-get-aid-donations/)
  - RSS feed: www.palestinechronicle.com
  - date published: 2017-10-21 12:52:50+00:00
  - tags: israel
+
+
+## What Facebook Did to American Democracy
+ - [https://www.theatlantic.com/technology/archive/2017/10/what-facebook-did/542502/](https://www.theatlantic.com/technology/archive/2017/10/what-facebook-did/542502/)
+ - RSS feed: https://www.theatlantic.com
+ - date published: 2017-10-12 11:16:55+00:00
+ - tags: election,facebook,privacy
 
 
 ## Is Reality Real? The Simulation Argument
@@ -8059,6 +8431,13 @@
  - date published: 2017-08-24 13:37:57+00:00
 
 
+## Jordan Peterson | Political Correctness and Postmodernism
+ - [https://www.youtube.com/watch?v=f5rUPatnXSE](https://www.youtube.com/watch?v=f5rUPatnXSE)
+ - RSS feed: https://www.youtube.com/watch?v=f5rUPatnXSE
+ - date published: 2017-08-12 16:19:07+00:00
+ - tags: peterson,politicalcorrectness
+
+
 ## Google will stop scanning your Gmail messages to sell targeted ads
  - [https://www.theverge.com/2017/6/23/15862492/google-gmail-advertising-targeting-privacy-coud-business](https://www.theverge.com/2017/6/23/15862492/google-gmail-advertising-targeting-privacy-coud-business)
  - RSS feed: www.theverge.com
@@ -8083,10 +8462,31 @@
  - date published: 2016-12-20 12:04:50+00:00
 
 
+## Clinton mega donor George Soros leads line-up of liberal billionaires who are funding Facebook's fake news fact checker
+ - [https://www.dailymail.co.uk/news/article-4041910/Clinton-mega-donor-George-Soros-leads-line-liberal-billionaires-funding-Facebook-s-fake-news-fact-checker.html](https://www.dailymail.co.uk/news/article-4041910/Clinton-mega-donor-George-Soros-leads-line-liberal-billionaires-funding-Facebook-s-fake-news-fact-checker.html)
+ - RSS feed: https://www.dailymail.co.uk
+ - date published: 2016-12-16 13:56:18+00:00
+ - tags: billionaires,facebook,soros,george soros,fakenews,fact-checker
+
+
 ## Why Socrates Hated Democracy
  - [https://www.youtube.com/watch?v=fLJBzhcSWTk](https://www.youtube.com/watch?v=fLJBzhcSWTk)
  - RSS feed: https://www.youtube.com/c/theschooloflifetv
  - date published: 2016-11-28 21:06:29+00:00
+
+
+## When It Comes to Fake News, the U.S. Government Is the Biggest Culprit
+ - [https://www.rutherford.org/publications_resources/john_whiteheads_commentary/when_it_comes_to_fake_news_the_u.s._government_is_the_biggest_culprit](https://www.rutherford.org/publications_resources/john_whiteheads_commentary/when_it_comes_to_fake_news_the_u.s._government_is_the_biggest_culprit)
+ - RSS feed: https://www.rutherford.org
+ - date published: 2016-11-21 15:16:47+00:00
+ - tags: disinformation,misinformation,factcheck,government,all time,fakenews
+
+
+## How Teens In The Balkans Are Duping Trump Supporters With Fake News
+ - [https://www.buzzfeednews.com/article/craigsilverman/how-macedonia-became-a-global-hub-for-pro-trump-misinfo](https://www.buzzfeednews.com/article/craigsilverman/how-macedonia-became-a-global-hub-for-pro-trump-misinfo)
+ - RSS feed: https://www.buzzfeednews.com
+ - date published: 2016-11-03 13:47:25+00:00
+ - tags: trump,socialengineering,fakenews,socialmedia
 
 
 ## Anonymity: The Greatest Weapon Against Oppression - Learn Liberty
@@ -8110,11 +8510,25 @@
  - tags: blackrock,larry fink,esg
 
 
+## The Left’s New Weapon: ‘Diversity and Inclusion’
+ - [https://www.lifezette.com/2016/07/lefts-new-weapon-diversity-inclusion/](https://www.lifezette.com/2016/07/lefts-new-weapon-diversity-inclusion/)
+ - RSS feed: https://www.lifezette.com
+ - date published: 2016-07-14 15:47:42+00:00
+ - tags: propaganda,inclusion,diversity,equity
+
+
 ## Social Autopsy! - Ending Anonymity Online [BAD IDEA]
  - [https://www.youtube.com/watch?v=6SARo5HtjkQ](https://www.youtube.com/watch?v=6SARo5HtjkQ)
  - RSS feed: https://www.youtube.com/@ChrisRayGun
  - date published: 2016-04-15 20:28:52+00:00
  - tags: anonymity,free speech,privacy,tracking,censorship
+
+
+## Why Socialism Always Fails
+ - [https://www.aei.org/carpe-diem/why-socialism-always-fails/](https://www.aei.org/carpe-diem/why-socialism-always-fails/)
+ - RSS feed: https://www.aei.org
+ - date published: 2016-03-22 16:38:36+00:00
+ - tags: socialism,central planning,america
 
 
 ## US surveillance of Merkel wider than thought: WikiLeaks
@@ -8124,10 +8538,38 @@
  - tags: merkel,surveillance,wikileaks
 
 
+## Aaron Swartz Biographer Justin Peters: "Aaron Died for Nothing."
+ - [https://www.inverse.com/article/10637-swartz-peters-suicide](https://www.inverse.com/article/10637-swartz-peters-suicide)
+ - RSS feed: https://www.inverse.com
+ - date published: 2016-01-28 10:27:05+00:00
+ - tags: aaron swartz
+
+
 ## Początki: W Laboratoriach w Wuchan tworzono chimery wirusów nietoperzy w 2015
  - [https://www.nature.com/articles/nm.3985](https://www.nature.com/articles/nm.3985)
  - RSS feed: www.nature.com
  - date published: 2015-11-09 06:52:24+00:00
+
+
+## How to Control What People Do | Propaganda - EDWARD BERNAYS | Animated Book Summary
+ - [https://www.youtube.com/watch?v=8Q-3qwEDyPM](https://www.youtube.com/watch?v=8Q-3qwEDyPM)
+ - RSS feed: https://www.youtube.com/watch?v=8Q-3qwEDyPM
+ - date published: 2015-10-26 16:07:21+00:00
+ - tags: edward bernays,disinformation,propaganda,misinformation,bernays
+
+
+## Noam Chomsky - Manufacturing Consent
+ - [https://www.youtube.com/watch?v=tTBWfkE7BXU](https://www.youtube.com/watch?v=tTBWfkE7BXU)
+ - RSS feed: https://www.youtube.com/watch?v=tTBWfkE7BXU
+ - date published: 2015-10-15 16:13:28+00:00
+ - tags: corporatocracy,chomsky,all time,propaganda
+
+
+## How the American government is trying to control what you think - The Washington Post
+ - [https://www.washingtonpost.com/posteverything/wp/2015/09/24/the-new-propaganda-how-the-american-government-is-trying-to-control-what-you-think/](https://www.washingtonpost.com/posteverything/wp/2015/09/24/the-new-propaganda-how-the-american-government-is-trying-to-control-what-you-think/)
+ - RSS feed: https://www.washingtonpost.com
+ - date published: 2015-08-24 15:18:52+00:00
+ - tags: government,socialengineering,propaganda
 
 
 ## NSA staff used spy tools on spouses, ex-lovers: watchdog
@@ -8140,6 +8582,13 @@
  - [https://www.cbsnews.com/news/4-reasons-youtube-still-doesnt-make-a-profit/](https://www.cbsnews.com/news/4-reasons-youtube-still-doesnt-make-a-profit/)
  - RSS feed: www.cbsnews.com
  - date published: 2015-05-27 12:04:50+00:00
+
+
+## Slavoj Žižek: Political Correctness is a More Dangerous Form of Totalitarianism | Big Think
+ - [https://www.youtube.com/watch?v=5dNbWGaaxWM](https://www.youtube.com/watch?v=5dNbWGaaxWM)
+ - RSS feed: https://www.youtube.com/watch?v=5dNbWGaaxWM
+ - date published: 2015-04-16 16:16:43+00:00
+ - tags: propaganda,politicalcorrectness,totalitarianism,zizek
 
 
 ## Bill Gates: The next outbreak? We’re not ready | TED
@@ -8156,11 +8605,32 @@
  - tags: hillary clinton,hillary,wikileaks,cablegate
 
 
+## 7 Propaganda Techniques Used on You Every Day
+ - [https://www.youtube.com/watch?v=q8R9MDt4jEc](https://www.youtube.com/watch?v=q8R9MDt4jEc)
+ - RSS feed: https://www.youtube.com/watch?v=q8R9MDt4jEc
+ - date published: 2014-10-15 16:09:26+00:00
+ - tags: government,socialengineering,propaganda
+
+
 ## 2030: Privacy's Dead. What happens next?
  - [https://www.youtube.com/watch?v=_kBlH-DQsEg](https://www.youtube.com/watch?v=_kBlH-DQsEg)
  - RSS feed: https://www.youtube.com/@TomScottGo
  - date published: 2014-09-06 19:43:28+00:00
  - tags: privacy,tracking
+
+
+## Facebook Could Decide an Election Without Anyone Ever Finding Out
+ - [https://newrepublic.com/article/117878/information-fiduciary-solution-facebook-digital-gerrymandering](https://newrepublic.com/article/117878/information-fiduciary-solution-facebook-digital-gerrymandering)
+ - RSS feed: https://newrepublic.com
+ - date published: 2014-06-02 11:14:27+00:00
+ - tags: election,facebook,privacy
+
+
+## Five Eyes
+ - [https://en.wikipedia.org/wiki/Five_Eyes](https://en.wikipedia.org/wiki/Five_Eyes)
+ - RSS feed: https://en.wikipedia.org
+ - date published: 2013-12-21 14:41:21+00:00
+ - tags: five-eyes,surveillence,nsa
 
 
 ## NSA paid $10 million to put its backdoor in RSA encryption, according to Reuters report
@@ -8169,16 +8639,58 @@
  - date published: 2013-12-20 17:23:06+00:00
 
 
+## NSA spies on its own 'Five-Eyes' spy partners
+ - [https://www.zdnet.com/article/nsa-spies-on-its-own-five-eyes-spy-partners/](https://www.zdnet.com/article/nsa-spies-on-its-own-five-eyes-spy-partners/)
+ - RSS feed: https://www.zdnet.com
+ - date published: 2013-11-20 14:40:44+00:00
+ - tags: five-eyes,surveillence,nsa
+
+
 ## Google knows nearly every Wi-Fi password in the world
  - [https://www.computerworld.com/article/2474851/android-google-knows-nearly-every-wi-fi-password-in-the-world.html](https://www.computerworld.com/article/2474851/android-google-knows-nearly-every-wi-fi-password-in-the-world.html)
  - RSS feed: www.computerworld.com
  - date published: 2013-09-15 12:04:50+00:00
 
 
+## MIT releases report on its actions in the Aaron Swartz case
+ - [https://news.mit.edu/2013/mit-releases-swartz-report-0730](https://news.mit.edu/2013/mit-releases-swartz-report-0730)
+ - RSS feed: https://news.mit.edu
+ - date published: 2013-07-30 10:30:37+00:00
+ - tags: aaron swartz
+
+
+## Internet Activist, a Creator of RSS, Is Dead at 26, Apparently a Suicide
+ - [https://www.nytimes.com/2013/01/13/technology/aaron-swartz-internet-activist-dies-at-26.html](https://www.nytimes.com/2013/01/13/technology/aaron-swartz-internet-activist-dies-at-26.html)
+ - RSS feed: https://www.nytimes.com
+ - date published: 2013-01-12 10:28:59+00:00
+ - tags: rss,aaron swartz
+
+
+## Aaron Swartz: hacker, genius… martyr?
+ - [https://www.theguardian.com/technology/2013/jun/02/aaron-swartz-hacker-genius-martyr-girlfriend-interview](https://www.theguardian.com/technology/2013/jun/02/aaron-swartz-hacker-genius-martyr-girlfriend-interview)
+ - RSS feed: https://www.theguardian.com
+ - date published: 2013-01-02 10:29:46+00:00
+ - tags: aaron swartz
+
+
+## The funders of climate disinformation
+ - [https://www.campaigncc.org/climate_change/sceptics/funders](https://www.campaigncc.org/climate_change/sceptics/funders)
+ - RSS feed: https://www.campaigncc.org/climate_change/sceptics/funders
+ - date published: 2012-12-21 15:31:06+00:00
+ - tags: climate change,carbon footprint,carbon emissions
+
+
 ## Giving In to the Surveillance State
  - [https://www.nytimes.com/2012/08/23/opinion/whos-watching-the-nsa-watchers.html](https://www.nytimes.com/2012/08/23/opinion/whos-watching-the-nsa-watchers.html)
  - RSS feed: www.nytimes.com
  - date published: 2012-08-22 19:26:27+00:00
+
+
+## These 6 Corporations Control 90% Of The Media In America
+ - [https://www.businessinsider.com/these-6-corporations-control-90-of-the-media-in-america-2012-6?IR=T](https://www.businessinsider.com/these-6-corporations-control-90-of-the-media-in-america-2012-6?IR=T)
+ - RSS feed: https://www.businessinsider.com
+ - date published: 2012-06-14 15:24:05+00:00
+ - tags: media,propaganda,corporations,corporatocracy,government
 
 
 ## The flip side to Bill Gates' charity billions
@@ -8195,10 +8707,18 @@
  - tags: paul allen,bill gates
 
 
+## Revealed: US spy operation that manipulates social media
+ - [https://www.theguardian.com/technology/2011/mar/17/us-spy-operation-social-networks](https://www.theguardian.com/technology/2011/mar/17/us-spy-operation-social-networks)
+ - RSS feed: https://www.theguardian.com
+ - date published: 2011-03-17 15:28:40+00:00
+ - tags: disinformation,misinformation,factcheck,government,fakenews
+
+
 ## Facebook–Cambridge Analytica data scandal
  - [https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal](https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal)
  - RSS feed: https://en.wikipedia.org
  - date published: 2010-12-11 20:40:21+00:00
+ - tags: cambridge analytica
 
 
 ## Dennis Meadows: Limiting Growth to Save the World
@@ -8212,6 +8732,20 @@
  - [https://www.youtube.com/watch?v=LSGZ4Hkdyg4](https://www.youtube.com/watch?v=LSGZ4Hkdyg4)
  - RSS feed: www.youtube.com
  - date published: 2007-09-01 07:01:37+00:00
+
+
+## How the spooks took over the news
+ - [https://www.independent.co.uk/news/media/how-the-spooks-took-over-the-news-780672.html](https://www.independent.co.uk/news/media/how-the-spooks-took-over-the-news-780672.html)
+ - RSS feed: https://www.independent.co.uk/news/media/how-the-spooks-took-over-the-news-780672.html
+ - date published: 2006-12-21 15:22:51+00:00
+ - tags: disinformation,osama,propaganda,misinformation,factcheck,government,iraq
+
+
+## The PsyOps War: A Look at the Lincoln Group and the U.S. Military’s Planting of Stories in the Iraqi Press
+ - [https://www.democracynow.org/2006/3/24/the_psyops_war_a_look_at](https://www.democracynow.org/2006/3/24/the_psyops_war_a_look_at)
+ - RSS feed: https://www.democracynow.org
+ - date published: 2006-03-24 15:20:56+00:00
+ - tags: disinformation,ireq,propaganda,misinformation,usa
 
 
 ## Afera FOZZ

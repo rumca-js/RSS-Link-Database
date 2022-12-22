@@ -1,7 +1,36 @@
+## Klatka Skinnera
+ - [https://pl.m.wikipedia.org/wiki/Klatka_Skinnera](https://pl.m.wikipedia.org/wiki/Klatka_Skinnera)
+ - RSS feed: https://pl.m.wikipedia.org
+ - date published: 2022-12-21 18:57:21+00:00
+ - tags: science
+
+
+## Okno Overtona
+ - [https://pl.m.wikipedia.org/wiki/Okno_Overtona](https://pl.m.wikipedia.org/wiki/Okno_Overtona)
+ - RSS feed: https://pl.m.wikipedia.org
+ - date published: 2022-12-21 18:54:17+00:00
+ - tags: science
+
+
+## Eksperyment Milgrama
+ - [https://pl.m.wikipedia.org/wiki/Eksperyment_Milgrama](https://pl.m.wikipedia.org/wiki/Eksperyment_Milgrama)
+ - RSS feed: https://pl.m.wikipedia.org
+ - date published: 2022-12-21 18:53:05+00:00
+ - tags: science
+
+
+## Globalne żądania informacji o użytkownikach
+ - [https://transparencyreport.google.com/user-data/overview?user_requests_report_period=authority:PL](https://transparencyreport.google.com/user-data/overview?user_requests_report_period=authority:PL)
+ - RSS feed: https://transparencyreport.google.com/user-data/overview?user_requests_report_period=authority:PL
+ - date published: 2022-12-21 18:41:30+00:00
+ - tags: moderation,privacy,tracking
+
+
 ## FBI zapłaciło Twitterowi 3,4 mln USD za nazywanie historii Huntera Bidena rosyjską dezinformacją
  - [https://ithardware.pl/aktualnosci/fbi_zaplacilo_twitterowi_3_4_mln_usd_za_nazywanie_historii_huntera_bidena_rosyjska_dezinformacja-24966.html](https://ithardware.pl/aktualnosci/fbi_zaplacilo_twitterowi_3_4_mln_usd_za_nazywanie_historii_huntera_bidena_rosyjska_dezinformacja-24966.html)
  - RSS feed: https://ithardware.pl/feed
  - date published: 2022-12-20 16:31:50+00:00
+ - tags: free speech,censorship,twitter; twitter files,fbi
 
 
 ## Google przebudowało swoje domeny, by szpiegować nas lepiej
@@ -84,6 +113,7 @@
  - [https://forsal.pl/swiat/aktualnosci/artykuly/8601248,australia-google-facebook-regulacje-lokalni-wydawcy.html](https://forsal.pl/swiat/aktualnosci/artykuly/8601248,australia-google-facebook-regulacje-lokalni-wydawcy.html)
  - RSS feed: https://forsal.pl/.feed
  - date published: 2022-12-02 08:26:02+00:00
+ - tags: news,facebook,google
 
 
 ## Koniec z "seksistowskimi" reklamami zabawek. Nowe ograniczenia w Hiszpanii
@@ -1719,6 +1749,20 @@
  - [https://www.wirtualnemedia.pl/artykul/nbp-cyfrowy-pieniadz-banku-centralnego](https://www.wirtualnemedia.pl/artykul/nbp-cyfrowy-pieniadz-banku-centralnego)
  - RSS feed: www.wirtualnemedia.pl
  - date published: 2021-12-16 14:57:42+00:00
+
+
+## Dziwne rozbieżności w danych o zgonach na COVID-19. Region regionowi nierówny
+ - [https://businessinsider.com.pl/wiadomosci/dziwne-rozbieznosci-w-danych-o-zgonach-na-covid-19-region-regionowi-nierowny/qdrsy0w](https://businessinsider.com.pl/wiadomosci/dziwne-rozbieznosci-w-danych-o-zgonach-na-covid-19-region-regionowi-nierowny/qdrsy0w)
+ - RSS feed: https://businessinsider.com.pl
+ - date published: 2021-12-08 13:34:39+00:00
+ - tags: covid,statistics
+
+
+## Coś dziwnego wychodzi z danych o zgonach na COVID-19. Różne województwa jak różne światy [WYKRES DNIA]
+ - [/next/7,173953,27885941,cos-dziwnego-wychodzi-z-danych-o-zgonach-na-covid-19-rozne.html](/next/7,173953,27885941,cos-dziwnego-wychodzi-z-danych-o-zgonach-na-covid-19-rozne.html)
+ - RSS feed: https://next.gazeta.pl
+ - date published: 2021-12-07 13:36:27+00:00
+ - tags: covid,statistics
 
 
 ## Jaki szyfrowany komunikator wybrać? Lista współpracy z FBI może pomóc w podjęciu decyzji
