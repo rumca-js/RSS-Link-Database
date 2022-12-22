@@ -51,6 +51,20 @@
  - date published: 2022-12-21 16:33:01+00:00
 
 
+## UK says sharing Netflix passwords could be illegal
+ - [https://appleinsider.com/articles/22/12/21/uk-says-sharing-netflix-passwords-could-be-illegal](https://appleinsider.com/articles/22/12/21/uk-says-sharing-netflix-passwords-could-be-illegal)
+ - RSS feed: https://appleinsider.com
+ - date published: 2022-12-21 07:30:45+00:00
+ - tags: digital id,netflix
+
+
+## A Robot Vacuum Recorded A Woman In Her Bathroom, And The Screenshots Ended Up On Social Media
+ - [https://news.yahoo.com/robot-vacuum-recorded-woman-her-154213069.html](https://news.yahoo.com/robot-vacuum-recorded-woman-her-154213069.html)
+ - RSS feed: https://news.yahoo.com
+ - date published: 2022-12-21 07:24:00+00:00
+ - tags: roomba,privacy,social media,vacuum,facebook
+
+
 ## China reports no new Covid-19 deaths after changing definition of Covid fatality
  - [https://www.lemonde.fr/en/china/article/2022/12/21/china-reports-no-new-covid-19-deaths-after-changing-definition-of-covid-fatality_6008566_162.html](https://www.lemonde.fr/en/china/article/2022/12/21/china-reports-no-new-covid-19-deaths-after-changing-definition-of-covid-fatality_6008566_162.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
@@ -98,6 +112,13 @@
  - RSS feed: https://reclaimthenet.org/feed/
  - date published: 2022-12-20 16:51:10+00:00
  - tags: government,socialengineering,protest,freedomconvoy,canada
+
+
+## Facial Recognition Tech Gets Woman Booted from Rockettes Show Due to Employer
+ - [https://www.nbcnewyork.com/investigations/face-recognition-tech-gets-girl-scout-mom-booted-from-rockettes-show-due-to-her-employer/4004677/](https://www.nbcnewyork.com/investigations/face-recognition-tech-gets-girl-scout-mom-booted-from-rockettes-show-due-to-her-employer/4004677/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-20 15:13:47+00:00
+ - tags: privacy,facial recognition,control
 
 
 ## Woke Stanford University publishes list of 'harmful language' it want to eliminate
@@ -888,6 +909,13 @@
  - date published: 2022-12-08 10:33:36+00:00
 
 
+## BlackRock says get ready for a recession unlike any other and 'what worked in the past won't work now'
+ - [https://markets.businessinsider.com/news/stocks/blackrock-recession-warning-stock-market-analysis-2023-economic-outlook-2022-12](https://markets.businessinsider.com/news/stocks/blackrock-recession-warning-stock-market-analysis-2023-economic-outlook-2022-12)
+ - RSS feed: https://markets.businessinsider.com
+ - date published: 2022-12-08 07:45:25+00:00
+ - tags: blackrock,recession
+
+
 ## Kirk Cameron banned from hosting readings of Christian children's book at 50 public libraries
  - [https://www.dailymail.co.uk/news/article-11514251/Kirk-Cameron-banned-hosting-readings-Christian-childrens-book-50-public-libraries.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11514251/Kirk-Cameron-banned-hosting-readings-Christian-childrens-book-50-public-libraries.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
@@ -966,6 +994,13 @@
  - [https://gizmodo.com/china-relaxes-harshest-covid-19-rules-after-protests-1849862755](https://gizmodo.com/china-relaxes-harshest-covid-19-rules-after-protests-1849862755)
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-12-07 11:00:00+00:00
+
+
+## Don’t Let Your Mortgage Servicer “BlackRock” You with Verint’s Scary ESG Survey + BlackRock Under Fire
+ - [https://www.coreysdigs.com/u-s/dont-let-your-mortgage-servicer-blackrock-you-with-verints-scary-esg-survey-blackrock-under-fire/](https://www.coreysdigs.com/u-s/dont-let-your-mortgage-servicer-blackrock-you-with-verints-scary-esg-survey-blackrock-under-fire/)
+ - RSS feed: https://www.coreysdigs.com/u-s/dont-let-your-mortgage-servicer-blackrock-you-with-verints-scary-esg-survey-blackrock-under-fire/
+ - date published: 2022-12-07 07:46:37+00:00
+ - tags: blackrock,esg
 
 
 ## Nigeria bans ATM cash withdrawals over $225 a week to force use of CBDC
@@ -6644,6 +6679,13 @@
  - date published: 2022-08-13 15:12:14+00:00
 
 
+## Sustainable Debt Slavery
+ - [https://unlimitedhangout.com/2022/09/investigative-reports/sustainable-debt-slavery/](https://unlimitedhangout.com/2022/09/investigative-reports/sustainable-debt-slavery/)
+ - RSS feed: https://unlimitedhangout.com
+ - date published: 2022-08-13 07:41:38+00:00
+ - tags: sustainable debt slavery,sustainable debt goals,sdg
+
+
 ## AstraZeneca: Vaccine death payout of £120k 'inadequate' - fiancée
  - [https://www.bbc.com/news/uk-england-tyne-61885899](https://www.bbc.com/news/uk-england-tyne-61885899)
  - RSS feed: https://www.bbc.com
@@ -7109,6 +7151,13 @@
  - RSS feed: https://www.reuters.com/world/allegation-cia-murder-plot-is-game-changer-assange-extradition-hearing-fiancee-2021-10-25/
  - date published: 2021-10-25 19:49:35+00:00
  - tags: assange,wikileaks
+
+
+## BlackRock CEO Larry Fink’s Family Tree Was A Mystery Until Now
+ - [https://www.coreysdigs.com/u-s/blackrock-ceo-larry-finks-family-tree-was-a-mystery-until-now/](https://www.coreysdigs.com/u-s/blackrock-ceo-larry-finks-family-tree-was-a-mystery-until-now/)
+ - RSS feed: https://www.coreysdigs.com
+ - date published: 2021-10-25 07:40:48+00:00
+ - tags: blackrock,larry fink,family tree
 
 
 ## Israel designates Palestinian civil society groups as terrorists, U.N. 'alarmed'
