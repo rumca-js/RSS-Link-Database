@@ -1,3 +1,63 @@
+## Lesbian Says She Faces Jail for Trans Remarks But Her Critics Say Otherwise
+ - [https://www.newsweek.com/tonje-gjevjon-trans-men-lesbian-transgender-norway-1768161](https://www.newsweek.com/tonje-gjevjon-trans-men-lesbian-transgender-norway-1768161)
+ - RSS feed: https://www.newsweek.com/rss
+ - date published: 2022-12-22 19:06:48+00:00
+ - tags: free speech,trans,police,weird world,hate speech,lgbt
+
+
+## The FBI Says You Need to Use an Ad Blocker
+ - [https://gizmodo.com/google-bing-fbi-ad-blocker-scam-ads-1849923478](https://gizmodo.com/google-bing-fbi-ad-blocker-scam-ads-1849923478)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-12-22 18:16:13+00:00
+
+
+## Don't Call Yourself a Programmer, and Other Career Advice (2011)
+ - [https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-22 17:17:46+00:00
+ - tags: propgramming
+
+
+## France fines Microsoft €60M for imposing advertising cookies
+ - [https://www.rfi.fr/en/france/20221222-france-fines-microsoft-%E2%82%AC60m-for-imposing-advertising-cookies](https://www.rfi.fr/en/france/20221222-france-fines-microsoft-%E2%82%AC60m-for-imposing-advertising-cookies)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-22 16:39:07+00:00
+ - tags: microsoft,tracking
+
+
+## Facebook is riddled with ex-CIA agents while many ex-FBI agents work at Twitter
+ - [https://www.dailymail.co.uk/news/article-11562433/Facebook-riddled-ex-CIA-agents-ex-FBI-agents-work-Twitter.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11562433/Facebook-riddled-ex-CIA-agents-ex-FBI-agents-work-Twitter.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-22 16:08:10+00:00
+ - tags: twitter,facebook,government,cia
+
+
+## Panchan’s Mining Rig: New Golang Peer-to-Peer Botnet Says “Hi!”
+ - [https://www.akamai.com/blog/security-research/new-p2p-botnet-panchan](https://www.akamai.com/blog/security-research/new-p2p-botnet-panchan)
+ - RSS feed: https://www.akamai.com
+ - date published: 2022-12-22 13:53:41+00:00
+ - tags: botnet,golang
+
+
+## Systems design and being bitten by edge-triggering
+ - [https://rachelbythebay.com/w/2022/12/21/boot/](https://rachelbythebay.com/w/2022/12/21/boot/)
+ - RSS feed: https://rachelbythebay.com
+ - date published: 2022-12-22 09:02:08.282295+00:00
+
+
+## Are super-rich people just better at making money?
+ - [https://pudding.cool/2022/12/yard-sale/](https://pudding.cool/2022/12/yard-sale/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-22 08:28:34+00:00
+ - tags: money,society,billionaires
+
+
+## Rasberry Pi 5 pushed back to make more Pi for everyone
+ - [https://www.pcgamer.com/rasberry-pi-5-pushed-back-to-make-more-pi-for-everyone](https://www.pcgamer.com/rasberry-pi-5-pushed-back-to-make-more-pi-for-everyone)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2022-12-22 03:11:19+00:00
+
+
 ## Manufacturing Consent
  - [https://en.wikipedia.org/wiki/Manufacturing_Consent](https://en.wikipedia.org/wiki/Manufacturing_Consent)
  - RSS feed: https://en.wikipedia.org
@@ -256,6 +316,13 @@
  - tags: leak,privacy
 
 
+## After Twitter revelations, Rep. James Comer says Google and Facebook need to be investigated for similar censorship collusion
+ - [https://reclaimthenet.org/comer-says-google-and-fb-needs-to-be-investigated-censorship/](https://reclaimthenet.org/comer-says-google-and-fb-needs-to-be-investigated-censorship/)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2022-12-18 20:28:26+00:00
+ - tags: censorship,moderation,twitter; twitter files
+
+
 ## Censor or else: Democratic lawmakers warn Facebook not to ‘backslide’ on censorship
  - [https://www.foxnews.com/opinion/censor-or-else-democratic-lawmakers-warn-facebook-not-backslide-censorship](https://www.foxnews.com/opinion/censor-or-else-democratic-lawmakers-warn-facebook-not-backslide-censorship)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
@@ -267,6 +334,7 @@
  - [https://www.foxnews.com/tech/apple-google-amazon-facebook-always-listening-unless-change-settings](https://www.foxnews.com/tech/apple-google-amazon-facebook-always-listening-unless-change-settings)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-18 11:00:40+00:00
+ - tags: default settings,gadgets
 
 
 ## Lekcja z Muska. Jaki wpływ mają miliarderzy na demokratyczne społeczeństwa?
@@ -309,6 +377,12 @@
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-17 21:43:05+00:00
  - tags: meta,carmack,vr
+
+
+## Norwegian filmmaker faces jail for Facebook post saying men can’t be a lesbian
+ - [https://reclaimthenet.org/gjevjon-faces-jail-for-facebook-post/](https://reclaimthenet.org/gjevjon-faces-jail-for-facebook-post/)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2022-12-17 19:41:42+00:00
 
 
 ## Liberal networks previously unbothered by Twitter censorship cry foul over Musk suspending journalists
@@ -417,6 +491,18 @@
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-16 12:57:28+00:00
  - tags: maps,opensource,monopoly
+
+
+## Disputing A Parking Fine with ChatGPT - Notes by Lex
+ - [https://notesbylex.com/disputing-a-parking-fine-with-chatgpt.html?utm_source=hackernewsletter&utm_medium=email&utm_term=fav](https://notesbylex.com/disputing-a-parking-fine-with-chatgpt.html?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
+ - RSS feed: https://notesbylex.com
+ - date published: 2022-12-16 12:34:21.774330+00:00
+
+
+## Site Update: No More Revue - Xe Iaso
+ - [https://xeiaso.net/blog/site-update-no-more-revue](https://xeiaso.net/blog/site-update-no-more-revue)
+ - RSS feed: https://xeiaso.net
+ - date published: 2022-12-16 12:19:37.555259+00:00
 
 
 ## COVID-19 lab leak theory
@@ -539,6 +625,7 @@
  - [https://www.dailywire.com/news/blackrock-executive-grilled-by-texas-lawmakers-over-esg-and-climate-agendas](https://www.dailywire.com/news/blackrock-executive-grilled-by-texas-lawmakers-over-esg-and-climate-agendas)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-15 17:04:33+00:00
+ - tags: blackrock,esg
 
 
 ## China is Using Quora as a Dangerous PSYOP
@@ -653,6 +740,7 @@
  - [https://www.bbc.co.uk/news/world-europe-63952993?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-63952993?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-13 11:46:07+00:00
+ - tags: eu,qatar,corruption
 
 
 ## As ESG Is Gamed With Greenwashing, Better Energy Uses Future Fit.
@@ -720,6 +808,7 @@
  - [https://www.foxnews.com/media/tech-guru-slams-twitter-shadow-banning-as-one-step-away-from-george-orwells-thought-police](https://www.foxnews.com/media/tech-guru-slams-twitter-shadow-banning-as-one-step-away-from-george-orwells-thought-police)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-12 07:00:41+00:00
+ - tags: censorship,twitter,shadowban
 
 
 ## Blur Your Home on Google Maps Right Now to Protect Your Privacy     - CNET
@@ -1163,6 +1252,7 @@
  - [https://www.dailywire.com/news/ben-shapiro-twitter-files-show-2020-was-rigged-not-stolen-but-trump-is-hurting-himself](https://www.dailywire.com/news/ben-shapiro-twitter-files-show-2020-was-rigged-not-stolen-but-trump-is-hurting-himself)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-05 18:04:27+00:00
+ - tags: twitter files,censorship,twitter,trump
 
 
 ## New Zealand wants to force Big Tech to hand over cash to mainstream media
@@ -1241,6 +1331,7 @@
  - [https://ithardware.pl/aktualnosci/facebook_oferuje_rzadom_platforme_do_zglaszania_tresci_do_ocenzurowania-24672.html](https://ithardware.pl/aktualnosci/facebook_oferuje_rzadom_platforme_do_zglaszania_tresci_do_ocenzurowania-24672.html)
  - RSS feed: https://ithardware.pl/feed
  - date published: 2022-12-04 13:56:40+00:00
+ - tags: censorship,moderation,facebook,government
 
 
 ## Elon Musk Polls Twitter On Whether Julian Assange and Edward Snowden Should Be Pardoned
@@ -1250,10 +1341,17 @@
  - tags: assange,wikileaks,free speech
 
 
+## Twenty five thousand dollars of funny money
+ - [https://rachelbythebay.com/w/2022/12/02/25k/](https://rachelbythebay.com/w/2022/12/02/25k/)
+ - RSS feed: https://rachelbythebay.com
+ - date published: 2022-12-04 10:44:14.126401+00:00
+
+
 ## Thread: THE TWITTER FILES
  - [https://threadreaderapp.com/thread/1598822959866683394](https://threadreaderapp.com/thread/1598822959866683394)
  - RSS feed: https://threadreaderapp.com
  - date published: 2022-12-04 08:47:36+00:00
+ - tags: twitter files,twitter
 
 
 ## China Mandates Social Credit System for Social Media, Will Track “Likes” on “Harmful” Content
@@ -1272,6 +1370,7 @@
  - [https://www.wsj.com/articles/apple-china-factory-protests-foxconn-manufacturing-production-supply-chain-11670023099](https://www.wsj.com/articles/apple-china-factory-protests-foxconn-manufacturing-production-supply-chain-11670023099)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-04 07:22:34+00:00
+ - tags: china,india,apple
 
 
 ## Musk declares New York Times ‘lobbying firm for far left’ after reportedly ignoring ‘Twitter Files’ story
@@ -1353,6 +1452,7 @@
  - [https://asia.nikkei.com/Business/Business-trends/Panasonic-Nikon-quit-developing-low-end-compact-digital-cameras](https://asia.nikkei.com/Business/Business-trends/Panasonic-Nikon-quit-developing-low-end-compact-digital-cameras)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-02 10:25:16+00:00
+ - tags: smartphones
 
 
 ## Spain starts new code to avoid sexism in ads for kids' toys
@@ -1427,6 +1527,19 @@
  - date published: 2022-12-01 15:34:16.902708+00:00
 
 
+## Jordan Peterson: social credit systems in West "highly probable" thanks to our Covid response
+ - [https://www.youtube.com/watch?v=ON52n1Xa4I0](https://www.youtube.com/watch?v=ON52n1Xa4I0)
+ - RSS feed: https://www.youtube.com
+ - date published: 2022-12-01 14:09:06+00:00
+ - tags: covid,digital passport,digital id
+
+
+## At SpaceX, work was taken away from me in case I “might retire or die.”
+ - [https://www.lioness.co/post/at-spacex-work-was-taken-away-from-me-in-case-i-might-retire-or-die](https://www.lioness.co/post/at-spacex-work-was-taken-away-from-me-in-case-i-might-retire-or-die)
+ - RSS feed: https://www.lioness.co
+ - date published: 2022-12-01 07:55:07.124718+00:00
+
+
 ## 'River of blood': Foxconn employee describes violent protests in China
  - [https://www.cnn.com/videos/business/2022/12/01/china-covid-protests-foxconn-iphone-factory-wang-dnt-ebof-vpx.cnn](https://www.cnn.com/videos/business/2022/12/01/china-covid-protests-foxconn-iphone-factory-wang-dnt-ebof-vpx.cnn)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
@@ -1452,6 +1565,7 @@
  - [https://www.forbes.com/sites/jenniferhicks/2022/11/30/is-esg-an-investment-strategy-or-the-path-to-a-sustainable-world/](https://www.forbes.com/sites/jenniferhicks/2022/11/30/is-esg-an-investment-strategy-or-the-path-to-a-sustainable-world/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-30 16:00:00+00:00
+ - tags: esg,blackrock
 
 
 ## EU unveils plans to cut Europe’s plastic and packaging waste
@@ -1555,6 +1669,7 @@
  - [https://www.androidauthority.com/oled-tv-vs-movie-theater-3241026/](https://www.androidauthority.com/oled-tv-vs-movie-theater-3241026/)
  - RSS feed: https://www.androidauthority.com/feed/
  - date published: 2022-11-28 15:47:01+00:00
+ - tags: cinema,movies,oled
 
 
 ## Meta fined $276 million over Facebook data leak involving more than 533 million users
@@ -1562,6 +1677,19 @@
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-28 15:02:03+00:00
  - tags: meta,privacy,facebook
+
+
+## FULL INTERVIEW: Dr Jordan Peterson on COVID hysteria and the culture wars
+ - [https://www.youtube.com/watch?v=gfGOSpg9Pds](https://www.youtube.com/watch?v=gfGOSpg9Pds)
+ - RSS feed: https://www.youtube.com
+ - date published: 2022-11-28 14:05:55+00:00
+ - tags: culture wars,covid,lockdown,covid hysteria
+
+
+## BSAG » Hold me closer, tiny keyboard
+ - [https://www.rousette.org.uk/archives/hold-me-closer-tiny-keyboard/](https://www.rousette.org.uk/archives/hold-me-closer-tiny-keyboard/)
+ - RSS feed: https://www.rousette.org.uk
+ - date published: 2022-11-28 10:29:05.713562+00:00
 
 
 ## Elimination of programmers
@@ -1612,6 +1740,12 @@
  - date published: 2022-11-27 01:40:33+00:00
 
 
+## Cracking my windshield and earning $10,000 on the Tesla Bug Bounty Program | Sam Curry
+ - [https://samcurry.net/cracking-my-windshield-and-earning-10000-on-the-tesla-bug-bounty-program/](https://samcurry.net/cracking-my-windshield-and-earning-10000-on-the-tesla-bug-bounty-program/)
+ - RSS feed: https://samcurry.net
+ - date published: 2022-11-27 01:29:40.875585+00:00
+
+
 ## Senator Markey calls for an end to ‘failed Big Tech self-regulation’ following Musk letter snub
  - [https://www.engadget.com/senator-ed-markey-calls-224404242.html?src=rss](https://www.engadget.com/senator-ed-markey-calls-224404242.html?src=rss)
  - RSS feed: https://www.engadget.com/rss.xml
@@ -1628,12 +1762,14 @@
  - [https://www.dailymail.co.uk/news/article-11472163/Former-CEO-says-considered-suicide-suffering-social-terrorism-workers-views.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11472163/Former-CEO-says-considered-suicide-suffering-social-terrorism-workers-views.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-26 16:20:29+00:00
+ - tags: sjw,social terrorism,abortion
 
 
 ## WhatsApp data leak: 500M user records for sale
  - [https://cybernews.com/news/whatsapp-data-leak/](https://cybernews.com/news/whatsapp-data-leak/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-26 13:41:53+00:00
+ - tags: whatsapp,leak,privacy
 
 
 ## Tax Filing Websites Caught Sending Users’ Financial Data to Facebook
@@ -1647,6 +1783,12 @@
  - [https://www.dailywire.com/news/animated-gay-teen-romance-film-is-woke-disneys-latest-box-office-bomb](https://www.dailywire.com/news/animated-gay-teen-romance-film-is-woke-disneys-latest-box-office-bomb)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-26 11:42:23+00:00
+
+
+## Site Update: Version 3.0 - Xe Iaso
+ - [https://xeiaso.net/blog/site-update-v3](https://xeiaso.net/blog/site-update-v3)
+ - RSS feed: https://xeiaso.net
+ - date published: 2022-11-26 09:47:21.161789+00:00
 
 
 ## Cyfrowy paszport i rozpoznawanie twarzy. Te linie lotnicze mają plan na zmniejszenie kolejek na lotnisku
@@ -1675,6 +1817,12 @@
  - RSS feed: http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm
  - date published: 2022-11-25 10:17:00+00:00
  - tags: surveillance,china
+
+
+## The night of 1000 alerts (but only on the Linux boxes)
+ - [https://rachelbythebay.com/w/2022/11/23/alerts/](https://rachelbythebay.com/w/2022/11/23/alerts/)
+ - RSS feed: https://rachelbythebay.com
+ - date published: 2022-11-25 10:14:05.615392+00:00
 
 
 ## China's Xinjiang Region Has Been Locked Down for Months, Casting Shadow Over Zero-Covid Easing
@@ -1720,6 +1868,13 @@
  - [https://www.bbc.co.uk/news/world-asia-china-63735923?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-china-63735923?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-24 00:25:02+00:00
+ - tags: china,covid,qatar,covid lie
+
+
+## Interconnected, a blog by Matt Webb
+ - [https://interconnected.org/home/](https://interconnected.org/home/)
+ - RSS feed: https://interconnected.org
+ - date published: 2022-11-23 23:53:25.190104+00:00
 
 
 ## Bill C-11 Raising Serious Doubts About CRTC’s Independence From Feds
@@ -1847,6 +2002,12 @@
  - date published: 2022-11-20 15:48:31+00:00
 
 
+## You cannot find me on Mastodon - stitcher.io
+ - [https://stitcher.io/blog/you-cannot-find-me-on-mastodon](https://stitcher.io/blog/you-cannot-find-me-on-mastodon)
+ - RSS feed: https://stitcher.io
+ - date published: 2022-11-20 11:18:28.441098+00:00
+
+
 ## 35+ Countries Are Leaving the Global Internet
  - [https://www.youtube.com/watch?v=dprdD8j2KZw](https://www.youtube.com/watch?v=dprdD8j2KZw)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCtZO3K2p8mqFwiKWb9k7fXA
@@ -1876,6 +2037,18 @@
  - [https://www.dailymail.co.uk/news/article-11443527/Members-fear-Society-Authors-lost-cancel-culture-amid-JK-Rowling-row.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11443527/Members-fear-Society-Authors-lost-cancel-culture-amid-JK-Rowling-row.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-18 14:37:20+00:00
+
+
+## Missing the point completely
+ - [https://rachelbythebay.com/w/2022/11/17/point/](https://rachelbythebay.com/w/2022/11/17/point/)
+ - RSS feed: https://rachelbythebay.com
+ - date published: 2022-11-18 11:37:48.616444+00:00
+
+
+## Voter ID list gives few options for younger voters – Electoral Reform Society – ERS
+ - [https://www.electoral-reform.org.uk/voter-id-list-gives-few-options-for-younger-voters/](https://www.electoral-reform.org.uk/voter-id-list-gives-few-options-for-younger-voters/)
+ - RSS feed: https://www.electoral-reform.org.uk
+ - date published: 2022-11-18 11:24:38.830075+00:00
 
 
 ## End of an Era: Facebook Takes Sexuality, Religion, Address, and Politics Off of Your Profile
@@ -1931,6 +2104,7 @@
  - [https://blog.trunk.io/82-of-open-source-projects-suffer-from-tool-rot-e766bdf449a2](https://blog.trunk.io/82-of-open-source-projects-suffer-from-tool-rot-e766bdf449a2)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-16 15:29:11+00:00
+ - tags: opensource,open source,tool rot
 
 
 ## Even a global recession may not crush inflation
@@ -1987,6 +2161,7 @@
  - [https://www.bbc.co.uk/news/world-asia-china-63633109?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-china-63633109?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-15 09:48:37+00:00
+ - tags: zero covid,covid,china
 
 
 ## Israel will not cooperate with FBI inquiry into killing of Palestinian American journalist
@@ -2030,6 +2205,7 @@
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59484](https://www.codeproject.com/script/News/View.aspx?nwid=59484)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-14 05:00:00+00:00
+ - tags: nsa,programming,pointers
 
 
 ## The FBI Reportedly Came Very Close to Deploying Spyware for Domestic Surveillance
@@ -2074,6 +2250,12 @@
  - tags: stock,woke,disney
 
 
+## Goodbye Twitter, Hello Fediverse! - Xe
+ - [https://xeiaso.net/blog/rip-twitter](https://xeiaso.net/blog/rip-twitter)
+ - RSS feed: https://xeiaso.net
+ - date published: 2022-11-13 11:11:58.409760+00:00
+
+
 ## Apple i Amazon zaszkodzili branży? Firmy oskarżone o zmowę cenową
  - [https://ithardware.pl/aktualnosci/apple_i_amazon_zaszkodzili_branzy_firmy_oskarzone_o_zmowe_cenowa-24324.html](https://ithardware.pl/aktualnosci/apple_i_amazon_zaszkodzili_branzy_firmy_oskarzone_o_zmowe_cenowa-24324.html)
  - RSS feed: https://ithardware.pl/feed
@@ -2098,6 +2280,13 @@
  - [https://www.dailywire.com/news/dr-jordan-b-peterson-social-media-is-part-of-pollution-of-the-domain-of-public-discourse](https://www.dailywire.com/news/dr-jordan-b-peterson-social-media-is-part-of-pollution-of-the-domain-of-public-discourse)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-12 18:09:52+00:00
+ - tags: peterson,social media
+
+
+## Browsers, JSON, and FormData - Jim Nielsen’s Blog
+ - [https://blog.jim-nielsen.com/2022/browsers-json-formdata/](https://blog.jim-nielsen.com/2022/browsers-json-formdata/)
+ - RSS feed: https://blog.jim-nielsen.com
+ - date published: 2022-11-12 17:39:45.988424+00:00
 
 
 ## Babylon Bee urges Supreme Court to protect parody, says First Amendment pointless if you can't mock government
@@ -2167,6 +2356,18 @@
  - date published: 2022-11-11 15:39:21.348041+00:00
 
 
+## Voting from Antarctica
+ - [https://brr.fyi/posts/voting-from-antarctica](https://brr.fyi/posts/voting-from-antarctica)
+ - RSS feed: https://brr.fyi
+ - date published: 2022-11-11 10:48:18.588808+00:00
+
+
+## Getting it or not getting it, and then what?
+ - [https://rachelbythebay.com/w/2022/11/10/quad/](https://rachelbythebay.com/w/2022/11/10/quad/)
+ - RSS feed: https://rachelbythebay.com
+ - date published: 2022-11-11 10:17:06.032134+00:00
+
+
 ## YouTube confirms that it has removed the “sort by oldest/newest” option
  - [https://old.reddit.com/r/youtube/comments/ymoyx3/youtube_confirms_that_it_has_removed_the_sort_by/](https://old.reddit.com/r/youtube/comments/ymoyx3/youtube_confirms_that_it_has_removed_the_sort_by/)
  - RSS feed: https://hnrss.org/frontpage
@@ -2203,6 +2404,7 @@
  - [https://kitze.io/posts/github-stars-wont-pay-your-rent](https://kitze.io/posts/github-stars-wont-pay-your-rent)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-10 00:18:07+00:00
+ - tags: opensource,open source,commercial,github
 
 
 ## Zuckerberg's leaked email on VR strategy (2015)
@@ -2334,6 +2536,19 @@
  - date published: 2022-11-07 18:07:47+00:00
 
 
+## Is There Too Much CSS Now?
+ - [https://css-tricks.com/is-there-too-much-css-now/](https://css-tricks.com/is-there-too-much-css-now/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-11-07 16:18:33+00:00
+ - tags: programming,css
+
+
+## Xess 2: CSS variable edition - Xe
+ - [https://xeiaso.net/blog/xess-css-variables](https://xeiaso.net/blog/xess-css-variables)
+ - RSS feed: https://xeiaso.net
+ - date published: 2022-11-07 12:46:32.205522+00:00
+
+
 ## Without Trust, Digital Worlds Collapse
  - [https://www.forbes.com/sites/joemckendrick/2022/11/07/without-trust-digital-worlds-collapse/](https://www.forbes.com/sites/joemckendrick/2022/11/07/without-trust-digital-worlds-collapse/)
  - RSS feed: https://www.forbes.com/innovation/feed2
@@ -2444,6 +2659,7 @@
  - [https://gizmodo.com/meta-twitter-facebook-advertisers-musk-1849745400](https://gizmodo.com/meta-twitter-facebook-advertisers-musk-1849745400)
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-11-04 21:40:00+00:00
+ - tags: twitter,oversight board,meta,musk
 
 
 ## Intel's pay-as-you-go CPU platform finally has a name, but is still shrouded in secrecy
@@ -2498,6 +2714,12 @@
  - tags: vpn,google
 
 
+## Organizing 1,700 Resistors in a Ring Binder
+ - [https://madebynathan.com/posts/2022-10-30-e24-resistor-pack-ring-binder/#what-are-resistors](https://madebynathan.com/posts/2022-10-30-e24-resistor-pack-ring-binder/#what-are-resistors)
+ - RSS feed: https://madebynathan.com
+ - date published: 2022-11-04 12:51:08.102875+00:00
+
+
 ## Główny ekonomista PKN Orlen: w zrównoważonej przyszłości nie ma miejsca na prywatne samochody osobowe
  - [https://strefainwestorow.pl/w-zielonej-strefie/elektromobilnosc/samochody-elektryczne-orlen-elektromobilnosc](https://strefainwestorow.pl/w-zielonej-strefie/elektromobilnosc/samochody-elektryczne-orlen-elektromobilnosc)
  - RSS feed: https://strefainwestorow.pl
@@ -2533,12 +2755,14 @@
  - [https://www.youtube.com/watch?v=F2ngB-zjVmM](https://www.youtube.com/watch?v=F2ngB-zjVmM)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA
  - date published: 2022-11-03 17:50:22+00:00
+ - tags: sjw,movies,modern audience,woke
 
 
 ## Joe Rogan & Tulsi Gabbard: Wokeism Hypocrisy
  - [https://www.youtube.com/watch?v=T1mTfvfKrCg](https://www.youtube.com/watch?v=T1mTfvfKrCg)
  - RSS feed: https://www.youtube.com/watch?v=T1mTfvfKrCg
  - date published: 2022-11-03 15:08:50+00:00
+ - tags: hypocrisy,rogan,woke
 
 
 ## YouTube sorting option for viewing oldest channel video missing or not available? Here's why
@@ -2656,6 +2880,7 @@
  - [https://www.engadget.com/gmail-package-tracking-google-173148117.html?src=rss](https://www.engadget.com/gmail-package-tracking-google-173148117.html?src=rss)
  - RSS feed: https://www.engadget.com/rss.xml
  - date published: 2022-11-02 17:31:48+00:00
+ - tags: google,privacy,tracking,gmail
 
 
 ## Twitter users fact-check a White House tweet so hard the White House DELETES the tweet
@@ -2705,12 +2930,19 @@
  - [https://www.dailywire.com/news/anti-woke-youtube-competitor-rumble-tells-france-au-revoir-over-censorship-demands](https://www.dailywire.com/news/anti-woke-youtube-competitor-rumble-tells-france-au-revoir-over-censorship-demands)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-02 09:21:52+00:00
+ - tags: rumple,moderation,woke,censorship,trump
 
 
 ## Biden blasted for blaming high inflation on ‘war in Iraq,’ confusion on where his son died: ‘This is just sad’
  - [https://www.foxnews.com/media/biden-blasted-blaming-high-inflation-war-iraq-confusion-son-died-sad](https://www.foxnews.com/media/biden-blasted-blaming-high-inflation-war-iraq-confusion-son-died-sad)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-11-02 09:00:38+00:00
+
+
+## OpenSSL gave everyone alarm fatigue - Xe
+ - [https://xeiaso.net/blog/openssl-alarm-fatigue](https://xeiaso.net/blog/openssl-alarm-fatigue)
+ - RSS feed: https://xeiaso.net
+ - date published: 2022-11-02 08:26:02.602873+00:00
 
 
 ## With the global economy on the rocks, quiet quitting is no longer a thing | Arwa Mahdawi
@@ -2765,6 +2997,7 @@
  - [https://www.foxnews.com/media/new-york-magazine-writer-admits-media-afraid-criticize-left-covid-black-lives-matter](https://www.foxnews.com/media/new-york-magazine-writer-admits-media-afraid-criticize-left-covid-black-lives-matter)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-11-02 02:54:48+00:00
+ - tags: journalism,covid,black lives matter,blm
 
 
 ## Criminals hijack antivirus software to deliver malware
@@ -2865,6 +3098,7 @@
  - [https://www.lemonde.fr/en/pixels/article/2022/11/01/one-year-after-the-facebook-files-when-power-is-highly-concentrated-whistleblowers-need-to-be-encouraged-and-protected_6002490_13.html](https://www.lemonde.fr/en/pixels/article/2022/11/01/one-year-after-the-facebook-files-when-power-is-highly-concentrated-whistleblowers-need-to-be-encouraged-and-protected_6002490_13.html)
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-01 06:00:13+00:00
+ - tags: facebook files,whistleblowers
 
 
 ## Mozilla blog: Begin your MV3 migration by implementing new features today
@@ -2879,12 +3113,6 @@
  - date published: 2022-11-01 04:25:25+00:00
 
 
-## Is There Too Much CSS Now?
- - [https://www.codeproject.com/script/News/View.aspx?nwid=59351](https://www.codeproject.com/script/News/View.aspx?nwid=59351)
- - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
- - date published: 2022-11-01 04:00:00+00:00
-
-
 ## Big Tech Earnings Put Advertising, Privacy, And User Experience In Focus
  - [https://www.forbes.com/sites/danielnewman/2022/10/31/big-tech-earnings-put-advertising-privacy-and-user-experience-in-focus/](https://www.forbes.com/sites/danielnewman/2022/10/31/big-tech-earnings-put-advertising-privacy-and-user-experience-in-focus/)
  - RSS feed: https://www.forbes.com/innovation/feed2
@@ -2895,6 +3123,7 @@
  - [https://www.dailywire.com/news/big-tech-worked-closely-with-the-fbi-and-dhs-to-police-disinformation](https://www.dailywire.com/news/big-tech-worked-closely-with-the-fbi-and-dhs-to-police-disinformation)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-01 00:36:44+00:00
+ - tags: fbi,disinformation,bigtech,big tech
 
 
 ## Study Shows 30% of People Are Redoing Google Searches     - CNET
@@ -2919,6 +3148,12 @@
  - [https://www.dailywire.com/news/twitter-blows-up-at-professor-after-demanding-pandemic-amnesty-in-atlantic-op-ed](https://www.dailywire.com/news/twitter-blows-up-at-professor-after-demanding-pandemic-amnesty-in-atlantic-op-ed)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-31 14:53:53+00:00
+
+
+## Various site updates - Xe
+ - [https://xeiaso.net/blog/site-update-mastodon-quoting](https://xeiaso.net/blog/site-update-mastodon-quoting)
+ - RSS feed: https://xeiaso.net
+ - date published: 2022-10-31 13:34:17.469499+00:00
 
 
 ## California makes it illegal for doctors to disagree with politicians
@@ -3364,6 +3599,7 @@
  - [https://www.dailymail.co.uk/news/article-11360651/Facebook-photo-sparks-NSW-ambulance-diversity-probe.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11360651/Facebook-photo-sparks-NSW-ambulance-diversity-probe.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-10-27 11:22:52+00:00
+ - tags: sjw,privacy,diversity,facebook,medicine
 
 
 ## EA has bad news for gamers who like physical games
@@ -3799,6 +4035,12 @@
  - date published: 2022-10-25 00:02:01+00:00
 
 
+## University staff to strike over pay and pensions - BBC News
+ - [https://www.bbc.com/news/education-63351675](https://www.bbc.com/news/education-63351675)
+ - RSS feed: https://www.bbc.com
+ - date published: 2022-10-25 00:01:48.397850+00:00
+
+
 ## Rodzice oburzeni. Pierwsze niemieckie miasto z taką regulacją
  - [https://www.wykop.pl/link/6873985/rodzice-oburzeni-pierwsze-niemieckie-miasto-z-taka-regulacja/](https://www.wykop.pl/link/6873985/rodzice-oburzeni-pierwsze-niemieckie-miasto-z-taka-regulacja/)
  - RSS feed: https://www.wykop.pl/rss/index.xml/
@@ -3815,6 +4057,7 @@
  - [https://www.youtube.com/watch?v=zum672SQX8Q](https://www.youtube.com/watch?v=zum672SQX8Q)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg
  - date published: 2022-10-24 21:00:10+00:00
+ - tags: postmodernism,cancel culture,woke,culture
 
 
 ## Chinese spies allegedly tried to obstruct Huawei investigation
@@ -3912,6 +4155,7 @@
  - [https://www.polsatnews.pl/wiadomosc/2022-10-24/usa-odmowila-upieczenia-tortu-na-slub-homoseksualnej-pary-sad-przyznal-jej-racje/](https://www.polsatnews.pl/wiadomosc/2022-10-24/usa-odmowila-upieczenia-tortu-na-slub-homoseksualnej-pary-sad-przyznal-jej-racje/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-24 13:27:00+00:00
+ - tags: lgbt
 
 
 ## Thousands of GitHub repositories are littered with malware
@@ -3990,6 +4234,7 @@
  - [https://www.foxnews.com/us/new-york-judge-rules-voting-mail-covid-fears-unconstitutional](https://www.foxnews.com/us/new-york-judge-rules-voting-mail-covid-fears-unconstitutional)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-10-23 18:46:32+00:00
+ - tags: covid
 
 
 ## Canadian leader considers dropping COVID lockdown charges, apologizes to unvaccinated
@@ -4038,12 +4283,19 @@
  - [https://joeldare.com/private-analtyics-and-my-raspberry-pi-400.html](https://joeldare.com/private-analtyics-and-my-raspberry-pi-400.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-10-22 22:24:40+00:00
+ - tags: raspberry pi,raspberry
 
 
 ## Judge rules Fauci be deposed in lawsuit alleging White House worked with Big Tech to censor speech
  - [https://www.foxnews.com/politics/judge-rules-fauci-deposed-lawsuit-alleging-white-house-worked-with-big-tech-censor-speech](https://www.foxnews.com/politics/judge-rules-fauci-deposed-lawsuit-alleging-white-house-worked-with-big-tech-censor-speech)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-10-22 19:40:13+00:00
+
+
+## 3-3 Natural Deduction | BookStack
+ - [https://wiki.akpain.net/books/35324-mathematical-and-logical-foundations-of-computer-science/page/3-3-natural-deduction#bkmrk-inference-rules](https://wiki.akpain.net/books/35324-mathematical-and-logical-foundations-of-computer-science/page/3-3-natural-deduction#bkmrk-inference-rules)
+ - RSS feed: https://wiki.akpain.net
+ - date published: 2022-10-22 16:40:49.696349+00:00
 
 
 ## CNN claims pets have big climate impact, advises buying ‘smaller breeds’, feed them ‘insect-based food'
@@ -4068,6 +4320,7 @@
  - [https://www.engadget.com/apple-app-store-today-tab-ads-152249659.html?src=rss](https://www.engadget.com/apple-app-store-today-tab-ads-152249659.html?src=rss)
  - RSS feed: https://www.engadget.com/rss.xml
  - date published: 2022-10-22 15:22:49+00:00
+ - tags: apple,ads
 
 
 ## Drama at Chinese Communist Party summit: Xi predecessor Hu Jintao hauled out
@@ -4128,6 +4381,7 @@
  - [https://tvn24.pl/swiat/kanada-zakazala-sprzedazy-i-kupna-broni-krotkiej-6174876?source=rss](https://tvn24.pl/swiat/kanada-zakazala-sprzedazy-i-kupna-broni-krotkiej-6174876?source=rss)
  - RSS feed: https://tvn24.pl/najnowsze.xml
  - date published: 2022-10-22 03:38:18+00:00
+ - tags: gun control,guns,canada,gun
 
 
 ## ‘Battle Of Good Vs. Evil’: Read Matt Walsh’s Full Speech Delivered At The ‘Rally To End Child Mutilation’
@@ -4200,6 +4454,7 @@
  - [https://www.theverge.com/2022/10/21/23414298/samsung-oura-ring-smart-rings-wearables](https://www.theverge.com/2022/10/21/23414298/samsung-oura-ring-smart-rings-wearables)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-21 17:29:44+00:00
+ - tags: smart rings,smart
 
 
 ## Facebook and TikTok are approving ads with 'blatant' misinformation about voting in midterms, researchers say
@@ -4268,6 +4523,12 @@
  - date published: 2022-10-21 14:45:13+00:00
 
 
+## Why we're leaving the cloud
+ - [https://world.hey.com/dhh/why-we-re-leaving-the-cloud-654b47e0](https://world.hey.com/dhh/why-we-re-leaving-the-cloud-654b47e0)
+ - RSS feed: https://world.hey.com
+ - date published: 2022-10-21 12:45:24.480069+00:00
+
+
 ## Facebook and TikTok are approving ads with 'blatant' misinformation about voting in midterms, researchers say
  - [https://www.cnn.com/2022/10/21/tech/facebook-tiktok-misinfo-ads/index.html](https://www.cnn.com/2022/10/21/tech/facebook-tiktok-misinfo-ads/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
@@ -4278,13 +4539,14 @@
  - [https://www.wired.com/story/apple-is-an-ad-company-now/](https://www.wired.com/story/apple-is-an-ad-company-now/)
  - RSS feed: https://www.wired.com/
  - date published: 2022-10-20 21:52:57+00:00
+ - tags: apple,ad company,ads
 
 
 ## Anti-vaccine groups avoid Facebook bans by using emojis
  - [https://arstechnica.com/?p=1891666](https://arstechnica.com/?p=1891666)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-20 19:31:25+00:00
- - tags: facebook,censorship
+ - tags: vaccine,censorship,moderation,facebook
 
 
 ## Saudis Sought Oil Production Cut So Deep It Surprised Even Russia
@@ -4309,6 +4571,7 @@
  - [https://gizmodo.com/wikipedia-liz-truss-resign-specific-2022-uk-govt-crisis-1849680468](https://gizmodo.com/wikipedia-liz-truss-resign-specific-2022-uk-govt-crisis-1849680468)
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-10-20 10:00:00+00:00
+ - tags: crisis,wikipedia,uk
 
 
 ## Dr. Phil asks woke educators: ‘What makes you think you know better’ than parents what’s best for kids?
@@ -4453,6 +4716,12 @@
  - tags: covid,china,covid zero
 
 
+## Is a ‘software engineer’ an engineer? Alberta regulator says no, riling the province’s tech sector - The Globe and Mail
+ - [https://www.theglobeandmail.com/business/technology/article-is-a-software-engineer-an-engineer-alberta-regulator-says-no-riling-2/?utm_medium=Referrer:+Social+Network+/+Media&utm_campaign=Shared+Web+Article+Links](https://www.theglobeandmail.com/business/technology/article-is-a-software-engineer-an-engineer-alberta-regulator-says-no-riling-2/?utm_medium=Referrer:+Social+Network+/+Media&utm_campaign=Shared+Web+Article+Links)
+ - RSS feed: https://www.theglobeandmail.com
+ - date published: 2022-10-16 07:24:23.835423+00:00
+
+
 ## Groźna moda na jedzenie muchomorów? Winni nieodpowiedzialni influencerzy
  - [https://www.bankier.pl/wiadomosc/Grozna-moda-na-jedzenie-muchomorow-Winni-nieodpowiedzialni-influencerzy-8423675.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Grozna-moda-na-jedzenie-muchomorow-Winni-nieodpowiedzialni-influencerzy-8423675.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
@@ -4475,6 +4744,7 @@
  - [https://wydarzenia.interia.pl/zagranica/news-aktywistki-oblaly-zupa-slynne-dzielo-van-gogha,nId,6347907](https://wydarzenia.interia.pl/zagranica/news-aktywistki-oblaly-zupa-slynne-dzielo-van-gogha,nId,6347907)
  - RSS feed: https://wydarzenia.interia.pl/feed
  - date published: 2022-10-14 13:39:40+00:00
+ - tags: climate change,activism,woke
 
 
 ## Anti-oil environmentalists pour tomato soup on Van Gogh 'Sunflowers' painting
@@ -4495,6 +4765,18 @@
  - date published: 2022-10-14 13:12:51+00:00
 
 
+## Train Travel in the UK: A Foreigner's Perspective - Paliparan
+ - [https://paliparan.com/2022/09/25/train-travel-uk-foreigners-perspective/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav](https://paliparan.com/2022/09/25/train-travel-uk-foreigners-perspective/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
+ - RSS feed: https://paliparan.com
+ - date published: 2022-10-14 11:56:30.830225+00:00
+
+
+## RSS Club: School vs Wikipedia - ratfactor
+ - [http://ratfactor.com/rss-club/school-vs-wikipedia?utm_source=hackernewsletter&utm_medium=email&utm_term=fav](http://ratfactor.com/rss-club/school-vs-wikipedia?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
+ - RSS feed: http://ratfactor.com
+ - date published: 2022-10-14 11:48:10.122006+00:00
+
+
 ## China’s Internet Censors Race to Quell Beijing Protest Chatter
  - [https://www.nytimes.com/2022/10/14/world/asia/china-internet-protest-xi-jinping.html](https://www.nytimes.com/2022/10/14/world/asia/china-internet-protest-xi-jinping.html)
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
@@ -4505,6 +4787,13 @@
  - [https://www.engadget.com/meta-vr-legs-video-mocap-105007370.html?src=rss](https://www.engadget.com/meta-vr-legs-video-mocap-105007370.html?src=rss)
  - RSS feed: https://www.engadget.com/rss.xml
  - date published: 2022-10-14 10:50:07+00:00
+
+
+## Inside the world of Wikipedia’s deaditors - The Face
+ - [https://theface.com/life/inside-the-world-of-wikipedias-deaditors-editors-volunteers-queen-elizabeth-ii](https://theface.com/life/inside-the-world-of-wikipedias-deaditors-editors-volunteers-queen-elizabeth-ii)
+ - RSS feed: https://theface.com
+ - date published: 2022-10-14 10:25:15.015426+00:00
+ - tags: wikipedia,deaditors
 
 
 ## California Bans Selling Women’s Products For More Money Than Men’s
@@ -4536,6 +4825,7 @@
  - [https://www.dailymail.co.uk/news/article-11311859/Woke-doctor-blasted-hailing-transgender-teens-BOLD-suicide.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11311859/Woke-doctor-blasted-hailing-transgender-teens-BOLD-suicide.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-10-13 15:32:54+00:00
+ - tags: suicide,transgender,woke
 
 
 ## Martin Scorsese Says Hollywood's Obsession With Box Office Numbers Is "Repulsive"
@@ -4770,6 +5060,12 @@
  - date published: 2022-10-10 07:21:45+00:00
 
 
+## A Florida Mom Claimed Trans Organ Harvesters Abducted Her Son. He Had Simply Moved Out | Them
+ - [https://www.them.us/story/florida-mom-trans-organ-harvesters](https://www.them.us/story/florida-mom-trans-organ-harvesters)
+ - RSS feed: https://www.them.us
+ - date published: 2022-10-09 17:51:47.593659+00:00
+
+
 ## Zanieczyszczenie mikroplastikiem to problem na skalę globalną. Wpływa na równowagę międzygatunkową zooplanktonu
  - [https://tvn24.pl/tvnmeteo/nauka/zanieczyszczenie-mikroplastikiem-to-problem-na-skale-globalna-wplywa-na-rownowage-miedzygatunkowa-zooplanktonu-6154102?source=rss](https://tvn24.pl/tvnmeteo/nauka/zanieczyszczenie-mikroplastikiem-to-problem-na-skale-globalna-wplywa-na-rownowage-miedzygatunkowa-zooplanktonu-6154102?source=rss)
  - RSS feed: https://tvn24.pl/najnowsze.xml
@@ -4913,6 +5209,12 @@
  - [https://www.foxnews.com/us/emissions-airplanes-using-leaded-fuel-declared-public-health-danger-epa](https://www.foxnews.com/us/emissions-airplanes-using-leaded-fuel-declared-public-health-danger-epa)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-10-07 20:10:05+00:00
+
+
+## Migrating our monorepo seamlessly from Dep to Go Modules
+ - [https://monzo.com/blog/2022/09/29/migrating-our-monorepo-seamlessly-from-dep-to-go-modules](https://monzo.com/blog/2022/09/29/migrating-our-monorepo-seamlessly-from-dep-to-go-modules)
+ - RSS feed: https://monzo.com
+ - date published: 2022-10-07 19:46:41.364135+00:00
 
 
 ## New York City declares state of emergency over migrant 'crisis situation'
@@ -5263,6 +5565,12 @@
  - date published: 2022-10-04 09:02:03+00:00
 
 
+## When A Brand Becomes More Popular Than The Meaning Of The Word In Google
+ - [https://www.seroundtable.com/brand-over-meaning-google-34170.html](https://www.seroundtable.com/brand-over-meaning-google-34170.html)
+ - RSS feed: https://www.seroundtable.com
+ - date published: 2022-10-04 08:51:49.683062+00:00
+
+
 ## VideoLAN has issued a legal notice to Indian Gov for banning their website
  - [https://internetfreedom.in/videolan-issued-legal-notice-to-dot-and-meity-for-banning-their-website-in-india/](https://internetfreedom.in/videolan-issued-legal-notice-to-dot-and-meity-for-banning-their-website-in-india/)
  - RSS feed: https://hnrss.org/frontpage
@@ -5360,6 +5668,18 @@
  - date published: 2022-10-03 00:13:41+00:00
 
 
+## Software engineering practices
+ - [https://simonwillison.net/2022/Oct/1/software-engineering-practices/](https://simonwillison.net/2022/Oct/1/software-engineering-practices/)
+ - RSS feed: https://simonwillison.net
+ - date published: 2022-10-02 09:57:51.076905+00:00
+
+
+## Prompt engineering is hard - Xe
+ - [https://xeiaso.net/blog/prompt-engineering](https://xeiaso.net/blog/prompt-engineering)
+ - RSS feed: https://xeiaso.net
+ - date published: 2022-10-02 09:53:11.662631+00:00
+
+
 ## Z powodu inflacji coraz więcej Amerykanów żyje od wypłaty do wypłaty
  - [https://www.bankier.pl/wiadomosc/Z-powodu-inflacji-coraz-wiecej-Amerykanow-zyje-od-wyplaty-do-wyplaty-8415460.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Z-powodu-inflacji-coraz-wiecej-Amerykanow-zyje-od-wyplaty-do-wyplaty-8415460.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
@@ -5376,6 +5696,18 @@
  - [https://www.wykop.pl/link/6841853/szwecja-wycofuje-rekomendacje-szczepien-na-covid-dla-dzieci-w-wieku-12-17-lat/](https://www.wykop.pl/link/6841853/szwecja-wycofuje-rekomendacje-szczepien-na-covid-dla-dzieci-w-wieku-12-17-lat/)
  - RSS feed: https://www.wykop.pl/rss/index.xml/
  - date published: 2022-10-02 03:45:01+00:00
+
+
+## Outdated vs. Complete
+ - [https://vivqu.com/blog/2022/09/25/outdated-apps/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav](https://vivqu.com/blog/2022/09/25/outdated-apps/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
+ - RSS feed: https://vivqu.com
+ - date published: 2022-10-01 22:31:16.873413+00:00
+
+
+## Someone is pretending to be me.
+ - [https://connortumbleson.com/2022/09/19/someone-is-pretending-to-be-me/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav](https://connortumbleson.com/2022/09/19/someone-is-pretending-to-be-me/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
+ - RSS feed: https://connortumbleson.com
+ - date published: 2022-10-01 22:25:11.187341+00:00
 
 
 ## Pro-life school students say Las Vegas school district CENSORED
@@ -5967,6 +6299,12 @@
  - date published: 2022-09-26 18:08:45+00:00
 
 
+## Shirts That Go Hard's creator is now going a little less hard
+ - [https://www.inputmag.com/culture/shirts-that-go-hard-twitter-algorithm-creator-interview](https://www.inputmag.com/culture/shirts-that-go-hard-twitter-algorithm-creator-interview)
+ - RSS feed: https://www.inputmag.com
+ - date published: 2022-09-26 16:57:41.801605+00:00
+
+
 ## Czy na świecie i w Polsce możliwa jest ekonomia umiaru?
  - [https://www.bankier.pl/wiadomosc/Czy-na-swiecie-i-w-Polsce-mozliwa-jest-ekonomia-umiaru-8411836.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Czy-na-swiecie-i-w-Polsce-mozliwa-jest-ekonomia-umiaru-8411836.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
@@ -6019,6 +6357,12 @@
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58996](https://www.codeproject.com/script/News/View.aspx?nwid=58996)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-26 04:00:00+00:00
+
+
+## James Stanley - Solving Protohackers with Fly.io
+ - [https://incoherency.co.uk/blog/stories/protohackers-flyio.html](https://incoherency.co.uk/blog/stories/protohackers-flyio.html)
+ - RSS feed: https://incoherency.co.uk
+ - date published: 2022-09-25 22:27:13.848228+00:00
 
 
 ## Gender activists push to bar anthropologists from identifying human remains as ‘male’ or ‘female’
@@ -6243,6 +6587,7 @@
  - [https://www.cnet.com/tech/services-and-software/facebooks-37-5-million-location-tracking-settlement-do-you-qualify/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/facebooks-37-5-million-location-tracking-settlement-do-you-qualify/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-09-23 11:00:02+00:00
+ - tags: privacy,facebook,tracking
 
 
 ## Tramwaje można zlikwidować. Tylko na Śląsku cena prądu o... 100 mln zł w górę
@@ -6262,6 +6607,12 @@
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-23 08:58:15+00:00
  - tags: censorship,youtube,covid
+
+
+## Ukraine war: Russians flee to border after military call-up - BBC News
+ - [https://www.bbc.com/news/world-europe-62996212](https://www.bbc.com/news/world-europe-62996212)
+ - RSS feed: https://www.bbc.com
+ - date published: 2022-09-23 08:24:36.058308+00:00
 
 
 ## Don’t spy on employees to ensure they’re working, Microsoft says
@@ -6365,6 +6716,7 @@
  - [https://english.tau.ac.il/science_links_facebook_mental_health](https://english.tau.ac.il/science_links_facebook_mental_health)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-22 13:41:57+00:00
+ - tags: facebook,mental health,social media
 
 
 ## Google loses EU appeal and is fined a record $4B
@@ -6473,6 +6825,7 @@
  - [https://www.theverge.com/2022/9/21/23364788/facebook-user-written-moderation-rules-experiment](https://www.theverge.com/2022/9/21/23364788/facebook-user-written-moderation-rules-experiment)
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-21 13:30:00+00:00
+ - tags: free speech,facebook
 
 
 ## Android 13 could finally bring seamless updates to all brands (even Samsung)
@@ -6778,12 +7131,6 @@
  - date published: 2022-09-17 18:26:01+00:00
 
 
-## Facebook szpieguje prywatne wiadomości i przekazuje dane fbi
- - [https://www.wykop.pl/link/6821099/facebook-szpieguje-prywatne-wiadomosci-i-przekazuje-dane-fbi/](https://www.wykop.pl/link/6821099/facebook-szpieguje-prywatne-wiadomosci-i-przekazuje-dane-fbi/)
- - RSS feed: https://www.wykop.pl/rss/index.xml/
- - date published: 2022-09-17 17:33:01+00:00
-
-
 ## Victorian Women's Trust board member calls on female rape victim to be spat on over trans fear
  - [https://www.dailymail.co.uk/news/article-11213759/Victorian-Womens-Trust-board-member-calls-female-rape-victim-spat-trans-fear.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11213759/Victorian-Womens-Trust-board-member-calls-female-rape-victim-spat-trans-fear.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
@@ -6836,6 +7183,24 @@
  - [https://tvn24.pl/tvnmeteo/nauka/mikroplastik-wykryty-w-przewodach-pokarmowych-polskich-ptakow-6117001?source=rss](https://tvn24.pl/tvnmeteo/nauka/mikroplastik-wykryty-w-przewodach-pokarmowych-polskich-ptakow-6117001?source=rss)
  - RSS feed: https://tvn24.pl/najnowsze.xml
  - date published: 2022-09-17 08:23:28+00:00
+
+
+## Jeff Geerling, Stably Diffused | Jeff Geerling
+ - [https://www.jeffgeerling.com/blog/2022/jeff-geerling-stably-diffused](https://www.jeffgeerling.com/blog/2022/jeff-geerling-stably-diffused)
+ - RSS feed: https://www.jeffgeerling.com
+ - date published: 2022-09-17 07:07:57.045596+00:00
+
+
+## I don’t know how to solve prompt injection
+ - [https://simonwillison.net/2022/Sep/16/prompt-injection-solutions/](https://simonwillison.net/2022/Sep/16/prompt-injection-solutions/)
+ - RSS feed: https://simonwillison.net
+ - date published: 2022-09-17 07:01:17.640692+00:00
+
+
+## Push notification two-factor auth considered harmful - Xe
+ - [https://xeiaso.net/blog/push-2fa-considered-harmful](https://xeiaso.net/blog/push-2fa-considered-harmful)
+ - RSS feed: https://xeiaso.net
+ - date published: 2022-09-17 06:58:44.398412+00:00
 
 
 ## YouTube po 15 latach usuwa słynny filmik.
@@ -7060,6 +7425,7 @@
  - [https://www.foxnews.com/media/former-blackrock-executive-argues-esg-bad-society-wallet-wsj-op-ed](https://www.foxnews.com/media/former-blackrock-executive-argues-esg-bad-society-wallet-wsj-op-ed)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-15 00:17:43+00:00
+ - tags: blackrock,esg
 
 
 ## TikTok won't commit to stopping US data flows to China
@@ -7213,6 +7579,12 @@
  - date published: 2022-09-14 00:00:14+00:00
 
 
+## Automating a Reading List - Zanshin.net
+ - [https://zanshin.net/2022/09/11/automating-a-reading-list/](https://zanshin.net/2022/09/11/automating-a-reading-list/)
+ - RSS feed: https://zanshin.net
+ - date published: 2022-09-13 23:53:24.717186+00:00
+
+
 ## China's Xi to meet Putin in first foreign trip since pandemic
  - [https://www.bbc.co.uk/news/world-asia-china-62885151?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-china-62885151?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
@@ -7280,6 +7652,12 @@
  - date published: 2022-09-13 13:47:02+00:00
 
 
+## Software Component Names Should Be Whimsical And Cryptic | by Aaron Zinger | Sep, 2022 | Medium
+ - [https://medium.com/@histocrat/software-component-names-should-be-whimsical-and-cryptic-ca260b013de0](https://medium.com/@histocrat/software-component-names-should-be-whimsical-and-cryptic-ca260b013de0)
+ - RSS feed: https://medium.com
+ - date published: 2022-09-13 09:59:12.151786+00:00
+
+
 ## Polska wydała ok. 2,2 tys. zł na każdego uchodźcę z Ukrainy
  - [https://www.bankier.pl/wiadomosc/Polska-wydala-ok-2-2-tys-zl-na-kazdego-uchodzce-z-Ukrainy-8404898.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Polska-wydala-ok-2-2-tys-zl-na-kazdego-uchodzce-z-Ukrainy-8404898.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
@@ -7302,6 +7680,12 @@
  - [https://www.bankier.pl/wiadomosc/Wladze-Chin-cenzuruja-opisy-lockdownu-w-Sinciangu-kaza-mediom-pokazywac-usmiechnietych-seniorow-8404863.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Wladze-Chin-cenzuruja-opisy-lockdownu-w-Sinciangu-kaza-mediom-pokazywac-usmiechnietych-seniorow-8404863.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
  - date published: 2022-09-13 08:16:00+00:00
+
+
+## NHS cancels thousands of appointments because of Queen’s funeral | openDemocracy
+ - [https://www.opendemocracy.net/en/nhs-cancels-cancer-appointments-queen-elizabeth-funeral-bank-holiday/](https://www.opendemocracy.net/en/nhs-cancels-cancer-appointments-queen-elizabeth-funeral-bank-holiday/)
+ - RSS feed: https://www.opendemocracy.net
+ - date published: 2022-09-13 08:08:06.939457+00:00
 
 
 ## UK unemployment at lowest rate for 48 years
@@ -7388,6 +7772,12 @@
  - date published: 2022-09-12 14:20:00+00:00
 
 
+## Why we should link student loan forgiveness to national service | The Hill
+ - [https://thehill.com/opinion/national-security/3631250-why-we-should-link-student-loan-forgiveness-to-national-service/](https://thehill.com/opinion/national-security/3631250-why-we-should-link-student-loan-forgiveness-to-national-service/)
+ - RSS feed: https://thehill.com
+ - date published: 2022-09-12 13:55:38.873906+00:00
+
+
 ## What does iPhone 14's switch to eSIM mean for privacy, security, and travel?
  - [https://www.zdnet.com/article/what-does-iphone-14s-switch-to-esim-mean-for-privacy-security-and-travel/#ftag=RSSbaffb68](https://www.zdnet.com/article/what-does-iphone-14s-switch-to-esim-mean-for-privacy-security-and-travel/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
@@ -7410,6 +7800,24 @@
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58841](https://www.codeproject.com/script/News/View.aspx?nwid=58841)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-12 04:00:00+00:00
+
+
+## Old School Unix Administration (My Next Homelab Generation) — scholz.ruhr
+ - [https://scholz.ruhr/blog/old-school-unix-administration/](https://scholz.ruhr/blog/old-school-unix-administration/)
+ - RSS feed: https://scholz.ruhr
+ - date published: 2022-09-11 23:27:18.388329+00:00
+
+
+## School chaplain told pupils 'you don't have to accept LGBT stuff' - BBC News
+ - [https://www.bbc.co.uk/news/uk-england-derbyshire-62840367](https://www.bbc.co.uk/news/uk-england-derbyshire-62840367)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2022-09-11 21:26:39.127665+00:00
+
+
+## 'I want to see the rainbow flag raised in Iran' - BBC News
+ - [https://www.bbc.co.uk/news/world-middle-east-62821763](https://www.bbc.co.uk/news/world-middle-east-62821763)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2022-09-11 21:20:41.791901+00:00
 
 
 ## Rząd USA na wojennej ścieżce. Górnicy kryptowalut muszą ograniczyć zużycie energii
@@ -7570,6 +7978,18 @@
  - date published: 2022-09-09 10:30:55.970530+00:00
 
 
+## BookStack Release v22.09 · BookStack
+ - [https://www.bookstackapp.com/blog/bookstack-release-v22-09/](https://www.bookstackapp.com/blog/bookstack-release-v22-09/)
+ - RSS feed: https://www.bookstackapp.com
+ - date published: 2022-09-09 08:52:49.306365+00:00
+
+
+## Developing Situation: Something is up with Patreon - Xe
+ - [https://xeiaso.net/blog/patreon-happening](https://xeiaso.net/blog/patreon-happening)
+ - RSS feed: https://xeiaso.net
+ - date published: 2022-09-09 08:47:46.525349+00:00
+
+
 ## Netflix ma zaprzestać nieprzyzwoitych treści LGBT m.in. w materiałach dla dzieci
  - [https://ithardware.pl/aktualnosci/netflix_ma_zaprzestac_nieprzyzwoitych_tresci_lgbt_m_in_w_materialach_dla_dzieci-23202.html](https://ithardware.pl/aktualnosci/netflix_ma_zaprzestac_nieprzyzwoitych_tresci_lgbt_m_in_w_materialach_dla_dzieci-23202.html)
  - RSS feed: https://ithardware.pl/feed
@@ -7588,6 +8008,12 @@
  - date published: 2022-09-08 21:56:55+00:00
 
 
+## http://http://http://@http://http://?http://#http:// | daniel.haxx.se
+ - [https://daniel.haxx.se/blog/2022/09/08/http-http-http-http-http-http-http/](https://daniel.haxx.se/blog/2022/09/08/http-http-http-http-http-http-http/)
+ - RSS feed: https://daniel.haxx.se
+ - date published: 2022-09-08 21:35:28.606984+00:00
+
+
 ## Majority of Americans believe Trump's MAGA movement IS a threat to democracy, new poll suggests
  - [https://www.dailymail.co.uk/news/article-11194423/Majority-Americans-believe-Trumps-MAGA-movement-threat-democracy-new-poll-suggests.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11194423/Majority-Americans-believe-Trumps-MAGA-movement-threat-democracy-new-poll-suggests.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
@@ -7604,6 +8030,13 @@
  - [https://www.bankier.pl/wiadomosc/Niemcy-maja-problem-gazem-Mozliwe-blackouty-8402880.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Niemcy-maja-problem-gazem-Mozliwe-blackouty-8402880.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
  - date published: 2022-09-08 15:31:00+00:00
+
+
+## 'Peppa Pig' debuts lesbian polar bear couple on popular children's cartoon
+ - [https://www.foxnews.com/entertainment/peppa-pig-debuts-lesbian-polar-bear-couple-popular-childrens-cartoon](https://www.foxnews.com/entertainment/peppa-pig-debuts-lesbian-polar-bear-couple-popular-childrens-cartoon)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-09-08 08:35:00+00:00
+ - tags: propaganda,lgbt
 
 
 ## Why It’s OK to Block Ads (2015)
@@ -7788,6 +8221,18 @@
  - date published: 2022-09-06 14:35:25+00:00
 
 
+## Node.js creator Ryan Dahl urges Oracle to release JavaScript trademark • DEVCLASS
+ - [https://devclass.com/2022/09/05/node-js-creator-ryan-dahl-urges-oracle-to-release-javascript-trademark/?td=rt-3a](https://devclass.com/2022/09/05/node-js-creator-ryan-dahl-urges-oracle-to-release-javascript-trademark/?td=rt-3a)
+ - RSS feed: https://devclass.com
+ - date published: 2022-09-06 12:33:31.182608+00:00
+
+
+## Piled On | The Nib
+ - [https://thenib.com/piled-on/](https://thenib.com/piled-on/)
+ - RSS feed: https://thenib.com
+ - date published: 2022-09-06 11:30:05.366670+00:00
+
+
 ## 'Tolkien is turning in his grave': Elon Musk slams Jeff Bezos' pet project Rings Of Power
  - [https://www.dailymail.co.uk/news/article-11184259/Tolkein-turning-grave-Elon-Musk-slams-Jeff-Bezos-pet-project-Rings-Power.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11184259/Tolkein-turning-grave-Elon-Musk-slams-Jeff-Bezos-pet-project-Rings-Power.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
@@ -7908,6 +8353,12 @@
  - [https://niebezpiecznik.pl/post/cloudflare-sie-ugial-i-usunal-hejterskie-forum-ale-troche-zaluje/](https://niebezpiecznik.pl/post/cloudflare-sie-ugial-i-usunal-hejterskie-forum-ale-troche-zaluje/)
  - RSS feed: https://feeds.feedburner.com/niebezpiecznik/
  - date published: 2022-09-05 09:56:19+00:00
+
+
+## Announcing the glorious advent of XeDN - Xe
+ - [https://xeiaso.net/blog/xedn](https://xeiaso.net/blog/xedn)
+ - RSS feed: https://xeiaso.net
+ - date published: 2022-09-05 08:36:54.608039+00:00
 
 
 ## Woman follows cheating boyfriend using Apple AirTag, kills him
@@ -8074,6 +8525,12 @@
  - tags: censorship
 
 
+## Pluralistic: 21 Aug 2022 The Shitty Technology Adoption Curve Reaches Apogee – Pluralistic: Daily links from Cory Doctorow
+ - [https://pluralistic.net/2022/08/21/great-taylors-ghost/#solidarity-or-bust](https://pluralistic.net/2022/08/21/great-taylors-ghost/#solidarity-or-bust)
+ - RSS feed: https://pluralistic.net
+ - date published: 2022-09-03 00:13:22.707680+00:00
+
+
 ## Geographers told: Go woke or you're on dodgy ground! Society issues warning on 'micro-aggressions'
  - [https://www.dailymail.co.uk/news/article-11175167/Geographers-told-woke-youre-dodgy-ground-Society-issues-warning-micro-aggressions.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11175167/Geographers-told-woke-youre-dodgy-ground-Society-issues-warning-micro-aggressions.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
@@ -8084,6 +8541,12 @@
  - [https://www.foxnews.com/media/big-government-colluding-big-tech-outsource-censorship-missouri-attorney-general](https://www.foxnews.com/media/big-government-colluding-big-tech-outsource-censorship-missouri-attorney-general)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-02 23:57:54+00:00
+
+
+## The utterly delightful site dedicated to classifying plastic bread tags
+ - [https://www.inputmag.com/culture/horg-plastic-bread-tags-occlupanids-classification-site?utm_source=hackernewsletter&utm_medium=email&utm_term=fav](https://www.inputmag.com/culture/horg-plastic-bread-tags-occlupanids-classification-site?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
+ - RSS feed: https://www.inputmag.com
+ - date published: 2022-09-02 23:53:01.114802+00:00
 
 
 ## Pięć wtyczek do Google Chrome potajemnie zbierało dane. Rozszerzenia pobrało wielu użytkowników
@@ -8188,6 +8651,48 @@
  - date published: 2022-09-01 15:50:01+00:00
 
 
+## Things not available when someone blocks all cookies
+ - [https://blog.tomayac.com/2022/08/30/things-not-available-when-someone-blocks-all-cookies/](https://blog.tomayac.com/2022/08/30/things-not-available-when-someone-blocks-all-cookies/)
+ - RSS feed: https://blog.tomayac.com
+ - date published: 2022-09-01 11:17:13.779268+00:00
+
+
+## AdGuard’s new ad blocker struggles with Google’s Manifest v3 rules
+ - [https://www.bleepingcomputer.com/news/security/adguard-s-new-ad-blocker-struggles-with-google-s-manifest-v3-rules/](https://www.bleepingcomputer.com/news/security/adguard-s-new-ad-blocker-struggles-with-google-s-manifest-v3-rules/)
+ - RSS feed: https://www.bleepingcomputer.com
+ - date published: 2022-09-01 09:11:14.792742+00:00
+
+
+## Quiet quitting: The workplace trend taking over TikTok - BBC News
+ - [https://www.bbc.co.uk/news/business-62638908](https://www.bbc.co.uk/news/business-62638908)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2022-08-31 21:06:41.066029+00:00
+
+
+## Why is WebMD so awful? - by Tom - TJCX
+ - [https://blog.tjcx.me/p/why-is-webmd-so-awful?triedSigningIn=true](https://blog.tjcx.me/p/why-is-webmd-so-awful?triedSigningIn=true)
+ - RSS feed: https://blog.tjcx.me
+ - date published: 2022-08-31 17:22:02.165171+00:00
+
+
+## Visual Studio Code is designed to fracture
+ - [https://ghuntley.com/fracture/](https://ghuntley.com/fracture/)
+ - RSS feed: https://ghuntley.com
+ - date published: 2022-08-31 11:23:48.338176+00:00
+
+
+## apt_key deprecated in Debian/Ubuntu - how to fix in Ansible | Jeff Geerling
+ - [https://www.jeffgeerling.com/blog/2022/aptkey-deprecated-debianubuntu-how-fix-ansible](https://www.jeffgeerling.com/blog/2022/aptkey-deprecated-debianubuntu-how-fix-ansible)
+ - RSS feed: https://www.jeffgeerling.com
+ - date published: 2022-08-31 09:37:19.174785+00:00
+
+
+## Tutorial - Setting up Shiori
+ - [https://noted.lol/tutorial-setting-up-shiori/](https://noted.lol/tutorial-setting-up-shiori/)
+ - RSS feed: https://noted.lol
+ - date published: 2022-08-31 09:21:59.764642+00:00
+
+
 ## Thought The Pandemic Was Bad? THIS Is What’s Coming
  - [https://www.youtube.com/watch?v=CqIJbLGV52c](https://www.youtube.com/watch?v=CqIJbLGV52c)
  - RSS feed: https://www.youtube.com/c/RussellBrand
@@ -8219,10 +8724,46 @@
  - tags: religion,all time
 
 
+## 4.2 Gigabytes, or: How to Draw Anything - ⌨️🤷🏻‍♂️📷
+ - [https://andys.page/posts/how-to-draw/#](https://andys.page/posts/how-to-draw/#)
+ - RSS feed: https://andys.page
+ - date published: 2022-08-30 21:26:31.896340+00:00
+
+
+## Stable Diffusion is a really big deal
+ - [https://simonwillison.net/2022/Aug/29/stable-diffusion/](https://simonwillison.net/2022/Aug/29/stable-diffusion/)
+ - RSS feed: https://simonwillison.net
+ - date published: 2022-08-30 21:18:12.348242+00:00
+
+
 ## The Huawei Backdoor Conspiracy
  - [https://www.youtube.com/watch?v=z7luwhj9a2w](https://www.youtube.com/watch?v=z7luwhj9a2w)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCjr2bPAyPV7t35MvcgT3W8Q
  - date published: 2022-08-30 17:39:24+00:00
+
+
+## The silent majority
+ - [https://vadimkravcenko.com/shorts/the-silent-majority/](https://vadimkravcenko.com/shorts/the-silent-majority/)
+ - RSS feed: https://vadimkravcenko.com
+ - date published: 2022-08-30 07:21:49.439401+00:00
+
+
+## Echo reply (an incomplete update on things)
+ - [https://rachelbythebay.com/w/2022/08/29/pong/](https://rachelbythebay.com/w/2022/08/29/pong/)
+ - RSS feed: https://rachelbythebay.com
+ - date published: 2022-08-30 06:46:54.846250+00:00
+
+
+## Fear of Landing – Post-Pandemic Mystery at Heathrow
+ - [https://fearoflanding.com/demystifying/post-pandemic-mystery-at-heathrow/](https://fearoflanding.com/demystifying/post-pandemic-mystery-at-heathrow/)
+ - RSS feed: https://fearoflanding.com
+ - date published: 2022-08-29 16:09:44.292357+00:00
+
+
+## Jonas Hietala: Rewriting my blog in Rust for fun and profit
+ - [https://www.jonashietala.se/blog/2022/08/29/rewriting_my_blog_in_rust_for_fun_and_profit/](https://www.jonashietala.se/blog/2022/08/29/rewriting_my_blog_in_rust_for_fun_and_profit/)
+ - RSS feed: https://www.jonashietala.se
+ - date published: 2022-08-29 15:39:02.547803+00:00
 
 
 ## Facebook agrees to settle class action lawsuit related to Cambridge Analytica data breach
@@ -8244,6 +8785,36 @@
  - date published: 2022-08-29 08:37:40.696185+00:00
 
 
+## It's Now Illegal for Anyone Under 21 to Buy Canned Whipped Cream in NY
+ - [https://www.insider.com/illegal-anyone-under-21-buy-whipped-cream-new-york-2022-8](https://www.insider.com/illegal-anyone-under-21-buy-whipped-cream-new-york-2022-8)
+ - RSS feed: https://www.insider.com
+ - date published: 2022-08-29 01:07:48.512376+00:00
+
+
+## Theyre trying to get me kidnapped and tortured, but Twitter doesnt care | Waqas Ahmed
+ - [https://waqas.xyz/post/](https://waqas.xyz/post/)
+ - RSS feed: https://waqas.xyz
+ - date published: 2022-08-29 01:04:35.859711+00:00
+
+
+## What's going on with security at PayPal? - Christian Varga
+ - [https://christianvarga.com/whats-going-on-with-security-at-paypal/](https://christianvarga.com/whats-going-on-with-security-at-paypal/)
+ - RSS feed: https://christianvarga.com
+ - date published: 2022-08-28 22:33:29.614645+00:00
+
+
+## #17: One kitchen, hundreds of internet restaurants - by pb
+ - [https://peabee.substack.com/p/17-one-kitchen-hundreds-of-internet](https://peabee.substack.com/p/17-one-kitchen-hundreds-of-internet)
+ - RSS feed: https://peabee.substack.com
+ - date published: 2022-08-28 22:12:28.490958+00:00
+
+
+## André Staltz - Time Till Open Source Alternative
+ - [https://staltz.com/time-till-open-source-alternative.html](https://staltz.com/time-till-open-source-alternative.html)
+ - RSS feed: https://staltz.com
+ - date published: 2022-08-28 22:07:34.527841+00:00
+
+
 ## The Dead Internet Theory (Part 2)
  - [https://www.youtube.com/watch?v=6FtPvDGrpkA](https://www.youtube.com/watch?v=6FtPvDGrpkA)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCYRcdzyGQ_zGxxKcqJDFhqw
@@ -8251,10 +8822,71 @@
  - tags: dead internet
 
 
+## Ghana Bans A Delta Boeing 767 (Yes, Just One) - One Mile at a Time
+ - [https://onemileatatime.com/news/ghana-bans-delta-boeing-767/](https://onemileatatime.com/news/ghana-bans-delta-boeing-767/)
+ - RSS feed: https://onemileatatime.com
+ - date published: 2022-08-27 13:09:30.205707+00:00
+
+
+## Smiling Dogs? Captcha Has Gone Too Far | WIRED UK
+ - [https://www.wired.co.uk/article/smiling-dogs-horses-made-of-clouds-captcha-has-gone-too-far](https://www.wired.co.uk/article/smiling-dogs-horses-made-of-clouds-captcha-has-gone-too-far)
+ - RSS feed: https://www.wired.co.uk
+ - date published: 2022-08-27 13:07:45.641056+00:00
+
+
+## Why Slack’s free plan change is causing an exodus
+ - [https://blog.zulip.com/2022/08/26/why-slacks-free-plan-change-is-causing-an-exodus/](https://blog.zulip.com/2022/08/26/why-slacks-free-plan-change-is-causing-an-exodus/)
+ - RSS feed: https://blog.zulip.com
+ - date published: 2022-08-27 09:39:02.727059+00:00
+
+
+## waifud Progress Report #2 - Xe
+ - [https://xeiaso.net/blog/waifud-progress-report-2](https://xeiaso.net/blog/waifud-progress-report-2)
+ - RSS feed: https://xeiaso.net
+ - date published: 2022-08-27 08:02:01.919897+00:00
+
+
 ## Poszkodowani mogą dostać kilkanaście centów — Meta proponuje ugodę za zbieranie danych
  - [https://android.com.pl/tech/508549-pozew-zbiorowy-meta-facebook-ugoda/](https://android.com.pl/tech/508549-pozew-zbiorowy-meta-facebook-ugoda/)
  - RSS feed: android.com.pl
  - date published: 2022-08-26 20:10:05.326472+00:00
+
+
+## How I used Go to make my radio auto-switch to AUX-IN when a Raspi plays music · Applied Go
+ - [https://appliedgo.net/auxin/](https://appliedgo.net/auxin/)
+ - RSS feed: https://appliedgo.net
+ - date published: 2022-08-26 16:03:47.320790+00:00
+
+
+## 4 Times 4chan Warned The Internet
+ - [https://www.youtube.com/watch?v=AfaEv3KvF3Y](https://www.youtube.com/watch?v=AfaEv3KvF3Y)
+ - RSS feed: https://www.youtube.com
+ - date published: 2022-08-26 15:50:01+00:00
+ - tags: epstein,4chan,unverified
+
+
+## Your online identity is owned by your email provider | Ctrl blog
+ - [https://www.ctrl.blog/entry/email-identity-provider.html](https://www.ctrl.blog/entry/email-identity-provider.html)
+ - RSS feed: https://www.ctrl.blog
+ - date published: 2022-08-26 14:41:39.203347+00:00
+
+
+## Random Acts of Kindness Make a Bigger Splash Than Expected - Neuroscience News
+ - [https://neurosciencenews.com/kindness-outcome-21263/](https://neurosciencenews.com/kindness-outcome-21263/)
+ - RSS feed: https://neurosciencenews.com
+ - date published: 2022-08-26 13:07:38.819253+00:00
+
+
+## The Legacy of Heroku's Free Tier - Xe
+ - [https://xeiaso.net/blog/rip-heroku](https://xeiaso.net/blog/rip-heroku)
+ - RSS feed: https://xeiaso.net
+ - date published: 2022-08-26 07:46:19.472948+00:00
+
+
+## The Three F's of Open Source Development | Ben E. C. Boyter
+ - [https://boyter.org/posts/the-three-f-s-of-open-source/](https://boyter.org/posts/the-three-f-s-of-open-source/)
+ - RSS feed: https://boyter.org
+ - date published: 2022-08-26 07:40:17.274645+00:00
 
 
 ## DuckDuckGo opens up its free email privacy service to everyone
@@ -8398,11 +9030,35 @@
  - date published: 2022-08-23 06:00:00+00:00
 
 
+## The downfall of smart TVs: From promises of seamless viewing to ad tool on steroids
+ - [https://adguard.com/en/blog/smart-tv-ad-blocking.html](https://adguard.com/en/blog/smart-tv-ad-blocking.html)
+ - RSS feed: https://adguard.com
+ - date published: 2022-08-22 13:50:49.108687+00:00
+
+
 ## Bill Gates lavished the media with $319 million in funding
  - [https://thecountersignal.com/bill-gates-lavished-the-media-with-319-million-in-funding/](https://thecountersignal.com/bill-gates-lavished-the-media-with-319-million-in-funding/)
  - RSS feed: thecountersignal.com
  - date published: 2022-08-22 10:19:55+00:00
  - tags: covid,bill gates,media
+
+
+## Silent crisis of soaring excess deaths gripping Britain is only tip of the iceberg
+ - [https://uk.news.yahoo.com/silent-crisis-soaring-excess-deaths-203000290.html](https://uk.news.yahoo.com/silent-crisis-soaring-excess-deaths-203000290.html)
+ - RSS feed: https://uk.news.yahoo.com
+ - date published: 2022-08-22 08:08:15.377241+00:00
+
+
+## Nobody Wants to Teach Anymore. Everyone should know why. | by Jessica Wildfire | Aug, 2022 | Medium
+ - [https://jessicalexicus.medium.com/nobody-wants-to-teach-anymore-66f09b877b11](https://jessicalexicus.medium.com/nobody-wants-to-teach-anymore-66f09b877b11)
+ - RSS feed: https://jessicalexicus.medium.com
+ - date published: 2022-08-22 07:59:49.462089+00:00
+
+
+## Why don't we do email verification in reverse?
+ - [https://blog.yossarian.net/2022/08/20/Why-dont-we-do-email-verification-in-reverse#fnref:simplified](https://blog.yossarian.net/2022/08/20/Why-dont-we-do-email-verification-in-reverse#fnref:simplified)
+ - RSS feed: https://blog.yossarian.net
+ - date published: 2022-08-22 06:53:03.166848+00:00
 
 
 ## A Dad Took Photos of His Naked Toddler for the Doctor. Google Flagged Him as a Criminal.
@@ -8423,6 +9079,84 @@
  - date published: 2022-08-20 12:04:49+00:00
 
 
+## It wasn't for nothing - Grasping gexps
+ - [https://gexp.no/it-wasnt-for-nothing.html](https://gexp.no/it-wasnt-for-nothing.html)
+ - RSS feed: https://gexp.no
+ - date published: 2022-08-18 21:03:53.134487+00:00
+
+
+## Google is killing off Google Cloud IoT Core at five-years-old
+ - [https://thestack.technology/google-cloud-iot-core-retired-killed-by-google/](https://thestack.technology/google-cloud-iot-core-retired-killed-by-google/)
+ - RSS feed: https://thestack.technology
+ - date published: 2022-08-18 16:02:57.636534+00:00
+
+
+## Software Development is very subjective
+ - [https://vadimkravcenko.com/shorts/software-development-subjective/](https://vadimkravcenko.com/shorts/software-development-subjective/)
+ - RSS feed: https://vadimkravcenko.com
+ - date published: 2022-08-18 14:06:01.265682+00:00
+
+
+## Physical buttons outperform touchscreens in new cars, test finds | Vi Bilägare
+ - [https://www.vibilagare.se/nyheter/physical-buttons-outperform-touchscreens-new-cars-test-finds](https://www.vibilagare.se/nyheter/physical-buttons-outperform-touchscreens-new-cars-test-finds)
+ - RSS feed: https://www.vibilagare.se
+ - date published: 2022-08-18 06:34:01.111345+00:00
+
+
+## Why McDonald's McPlant Became a McFlop | Bon Appétit
+ - [https://www.bonappetit.com/story/mcdonalds-ends-mcplant-test-us-stores](https://www.bonappetit.com/story/mcdonalds-ends-mcplant-test-us-stores)
+ - RSS feed: https://www.bonappetit.com
+ - date published: 2022-08-17 10:41:17.445784+00:00
+
+
+## Using the Same Arch Linux Installation for a Decade
+ - [https://meribold.org/2022/08/16/same-arch-linux-installation-for-a-decade/](https://meribold.org/2022/08/16/same-arch-linux-installation-for-a-decade/)
+ - RSS feed: https://meribold.org
+ - date published: 2022-08-16 22:26:00.566773+00:00
+
+
+## Ford F-150 Lightning review: fast truck, slow computer - The Verge
+ - [https://www.theverge.com/23307298/ford-f-150-lightning-review](https://www.theverge.com/23307298/ford-f-150-lightning-review)
+ - RSS feed: https://www.theverge.com
+ - date published: 2022-08-16 22:24:41.160390+00:00
+
+
+## A pizzeria owner made money buying his own $24 pizzas from DoorDash for $16 - The Verge
+ - [https://www.theverge.com/2020/5/18/21262316/doordash-pizza-profits-venture-capital-the-margins-ranjan-roy](https://www.theverge.com/2020/5/18/21262316/doordash-pizza-profits-venture-capital-the-margins-ranjan-roy)
+ - RSS feed: https://www.theverge.com
+ - date published: 2022-08-16 21:55:17.578171+00:00
+
+
+## You can’t afford to be an artist and/or author, let alone be respected. — cdahmedeh (Ahmed El-Hajjar)
+ - [https://www.cdahmedeh.net/blog/2022/8/16/you-cant-afford-to-be-an-artist-let-alone-be-respected](https://www.cdahmedeh.net/blog/2022/8/16/you-cant-afford-to-be-an-artist-let-alone-be-respected)
+ - RSS feed: https://www.cdahmedeh.net
+ - date published: 2022-08-16 21:51:17.730418+00:00
+
+
+## part 1: antisoftware action | anti software software club
+ - [https://antisoftware.club/manifesto/2020/03/16/part-1.html](https://antisoftware.club/manifesto/2020/03/16/part-1.html)
+ - RSS feed: https://antisoftware.club
+ - date published: 2022-08-16 21:08:54.190708+00:00
+
+
+## How Animal Crossing helped me explore my gender - The Verge
+ - [https://www.theverge.com/23279040/animal-crossing-new-horizons-gender-expression](https://www.theverge.com/23279040/animal-crossing-new-horizons-gender-expression)
+ - RSS feed: https://www.theverge.com
+ - date published: 2022-08-16 12:58:33.032915+00:00
+
+
+## blog: A robots.txt Problem
+ - [http://avodonosov.blogspot.com/2022/08/a-robotstxt-problem.html](http://avodonosov.blogspot.com/2022/08/a-robotstxt-problem.html)
+ - RSS feed: http://avodonosov.blogspot.com
+ - date published: 2022-08-16 12:06:30.429390+00:00
+
+
+## How Discord Supercharges Network Disks for Extreme Low Latency
+ - [https://discord.com/blog/how-discord-supercharges-network-disks-for-extreme-low-latency](https://discord.com/blog/how-discord-supercharges-network-disks-for-extreme-low-latency)
+ - RSS feed: https://discord.com
+ - date published: 2022-08-15 20:09:37.087028+00:00
+
+
 ## YES, They Really Are *Deleting* the Internet And it’s WAY Worse Than You Think
  - [https://www.youtube.com/watch?v=8O_NvPpbsbw](https://www.youtube.com/watch?v=8O_NvPpbsbw)
  - RSS feed: https://www.youtube.com/@BrightInsight
@@ -8430,10 +9164,47 @@
  - tags: google search,internet,dead internet
 
 
+## Facebook spied on private messages of Americans who questioned 2020 election
+ - [https://nypost.com/2022/09/14/facebook-spied-on-private-messages-of-americans-who-questioned-2020-election/](https://nypost.com/2022/09/14/facebook-spied-on-private-messages-of-americans-who-questioned-2020-election/)
+ - RSS feed: https://nypost.com
+ - date published: 2022-08-14 20:36:44+00:00
+ - tags: surveillence,election,facebook,privacy
+
+
+## How I Hacked my Car Part 3: Making Software :: Programming With Style
+ - [https://programmingwithstyle.com/posts/howihackedmycarpart3/](https://programmingwithstyle.com/posts/howihackedmycarpart3/)
+ - RSS feed: https://programmingwithstyle.com
+ - date published: 2022-08-14 07:07:39.767879+00:00
+
+
+## How I Hacked my Car Part 2: Making a Backdoor :: Programming With Style
+ - [https://programmingwithstyle.com/posts/howihackedmycarpart2/](https://programmingwithstyle.com/posts/howihackedmycarpart2/)
+ - RSS feed: https://programmingwithstyle.com
+ - date published: 2022-08-14 06:58:33.347892+00:00
+
+
+## How I Hacked my Car :: Programming With Style
+ - [https://programmingwithstyle.com/posts/howihackedmycar/](https://programmingwithstyle.com/posts/howihackedmycar/)
+ - RSS feed: https://programmingwithstyle.com
+ - date published: 2022-08-14 06:53:55.188520+00:00
+
+
 ## Become Untraceable - How To Create An Anonymous Identity | Tutorial
  - [https://www.youtube.com/watch?v=G_QsQp7DyjE](https://www.youtube.com/watch?v=G_QsQp7DyjE)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCjr2bPAyPV7t35MvcgT3W8Q
  - date published: 2022-08-13 15:12:14+00:00
+
+
+## The Hacking of Starlink Terminals Has Begun | WIRED
+ - [https://www.wired.com/story/starlink-internet-dish-hack/](https://www.wired.com/story/starlink-internet-dish-hack/)
+ - RSS feed: https://www.wired.com
+ - date published: 2022-08-13 10:18:22.913665+00:00
+
+
+## Arrest of suspected developer of Tornado Cash - FIOD
+ - [https://www.fiod.nl/arrest-of-suspected-developer-of-tornado-cash/](https://www.fiod.nl/arrest-of-suspected-developer-of-tornado-cash/)
+ - RSS feed: https://www.fiod.nl
+ - date published: 2022-08-13 09:47:01.530444+00:00
 
 
 ## Sustainable Debt Slavery
@@ -8443,10 +9214,76 @@
  - tags: sustainable debt slavery,sustainable debt goals,sdg
 
 
+## I Don’t Like Go’s Default HTTP Handlers · Preslav Rachev
+ - [https://preslav.me/2022/08/09/i-dont-like-golang-default-http-handlers/](https://preslav.me/2022/08/09/i-dont-like-golang-default-http-handlers/)
+ - RSS feed: https://preslav.me
+ - date published: 2022-08-12 15:52:21.262919+00:00
+
+
+## reb00ted | Is this the end of social networking?
+ - [https://reb00ted.org/tech/20220727-end-of-social-networking/](https://reb00ted.org/tech/20220727-end-of-social-networking/)
+ - RSS feed: https://reb00ted.org
+ - date published: 2022-08-12 10:13:32.548886+00:00
+
+
+## This 17-Year-Old Designed a Motor That Could Potentially Transform the Electric Car Industry | Innovation| Smithsonian Magazine
+ - [https://www.smithsonianmag.com/innovation/this-17-year-old-designed-a-motor-that-could-potentially-transform-the-electric-car-industry-180980550/](https://www.smithsonianmag.com/innovation/this-17-year-old-designed-a-motor-that-could-potentially-transform-the-electric-car-industry-180980550/)
+ - RSS feed: https://www.smithsonianmag.com
+ - date published: 2022-08-12 10:08:23.849261+00:00
+
+
+## Let websites framebust out of native apps | Holovaty.com
+ - [https://www.holovaty.com/writing/framebust-native-apps/](https://www.holovaty.com/writing/framebust-native-apps/)
+ - RSS feed: https://www.holovaty.com
+ - date published: 2022-08-11 13:17:39.757889+00:00
+
+
+## Man who built ISP instead of paying Comcast $50K expands to hundreds of homes | Ars Technica
+ - [https://arstechnica.com/tech-policy/2022/08/man-who-built-isp-instead-of-paying-comcast-50k-expands-to-hundreds-of-homes/](https://arstechnica.com/tech-policy/2022/08/man-who-built-isp-instead-of-paying-comcast-50k-expands-to-hundreds-of-homes/)
+ - RSS feed: https://arstechnica.com
+ - date published: 2022-08-11 08:20:49.126928+00:00
+
+
+## The little ssh that (sometimes) couldn't | Mina Naguib
+ - [https://mina.naguib.ca/blog/2012/10/22/the-little-ssh-that-sometimes-couldnt.html](https://mina.naguib.ca/blog/2012/10/22/the-little-ssh-that-sometimes-couldnt.html)
+ - RSS feed: https://mina.naguib.ca
+ - date published: 2022-08-10 23:04:26.999772+00:00
+
+
+## The Story of Mel
+ - [https://www.cs.utah.edu/~elb/folklore/mel.html](https://www.cs.utah.edu/~elb/folklore/mel.html)
+ - RSS feed: https://www.cs.utah.edu
+ - date published: 2022-08-10 13:08:53.162327+00:00
+
+
+## Facebook Gave Nebraska Cops A Teen's DMs So They Could Prosecute Her For Having An Abortion
+ - [https://www.forbes.com/sites/emilybaker-white/2022/08/08/facebook-abortion-teen-dms/?sh=345381de579c](https://www.forbes.com/sites/emilybaker-white/2022/08/08/facebook-abortion-teen-dms/?sh=345381de579c)
+ - RSS feed: https://www.forbes.com
+ - date published: 2022-08-10 11:36:02.207088+00:00
+
+
+## It’s time for Apple to fix texting.
+ - [https://www.android.com/get-the-message/](https://www.android.com/get-the-message/)
+ - RSS feed: https://www.android.com
+ - date published: 2022-08-10 08:42:54.233595+00:00
+
+
 ## Oswajanie z cyfrowym pieniądzem
  - [https://dorzeczy.pl/opinie/332758/pospieszalski-oswajanie.html](https://dorzeczy.pl/opinie/332758/pospieszalski-oswajanie.html)
  - RSS feed: dorzeczy.pl
  - date published: 2022-08-07 14:58:22+00:00
+
+
+## Cramming 'Papers, Please' Onto Phones | Development Logs by Lucas Pope
+ - [https://dukope.com/devlogs/papers-please/mobile/](https://dukope.com/devlogs/papers-please/mobile/)
+ - RSS feed: https://dukope.com
+ - date published: 2022-08-07 09:09:43.005362+00:00
+
+
+## Nix – taming Unix with functional programming - Tweag
+ - [https://www.tweag.io/blog/2022-07-14-taming-unix-with-nix/#fnref-2](https://www.tweag.io/blog/2022-07-14-taming-unix-with-nix/#fnref-2)
+ - RSS feed: https://www.tweag.io
+ - date published: 2022-08-05 22:39:09.178430+00:00
 
 
 ## AstraZeneca: Vaccine death payout of £120k 'inadequate' - fiancée
@@ -8463,10 +9300,136 @@
  - tags: privacy,tracking,duckduckgo
 
 
+## The OG Social Network: Other People’s Websites - Jim Nielsen’s Blog
+ - [https://blog.jim-nielsen.com/2022/other-peoples-websites/](https://blog.jim-nielsen.com/2022/other-peoples-websites/)
+ - RSS feed: https://blog.jim-nielsen.com
+ - date published: 2022-08-04 20:54:17.041706+00:00
+
+
+## GitLab plans to delete dormant projects from free accounts • The Register
+ - [https://www.theregister.com/2022/08/04/gitlab_data_retention_policy/](https://www.theregister.com/2022/08/04/gitlab_data_retention_policy/)
+ - RSS feed: https://www.theregister.com
+ - date published: 2022-08-04 20:23:41.780389+00:00
+
+
+## MEMEX - Botspam Apocalypse [ 2022-08-03 ]
+ - [https://memex.marginalia.nu/log/61-botspam-apocalypse.gmi](https://memex.marginalia.nu/log/61-botspam-apocalypse.gmi)
+ - RSS feed: https://memex.marginalia.nu
+ - date published: 2022-08-04 14:23:26.603104+00:00
+
+
+## Textualize.io - Blog - 7 things I've learned building a modern TUI framework
+ - [https://www.textualize.io/blog/posts/7-things-about-terminals](https://www.textualize.io/blog/posts/7-things-about-terminals)
+ - RSS feed: https://www.textualize.io
+ - date published: 2022-08-04 09:16:03.046160+00:00
+
+
+## Troy Hunt: Sending Spammers to Password Purgatory with Microsoft Power Automate and Cloudflare Workers KV
+ - [https://www.troyhunt.com/sending-spammers-to-password-purgatory-with-microsoft-power-automate-and-cloudflare-workers-kv/](https://www.troyhunt.com/sending-spammers-to-password-purgatory-with-microsoft-power-automate-and-cloudflare-workers-kv/)
+ - RSS feed: https://www.troyhunt.com
+ - date published: 2022-08-04 09:04:46.263936+00:00
+
+
+## Troy Hunt: Building Password Purgatory with Cloudflare Pages and Workers
+ - [https://www.troyhunt.com/building-password-purgatory-with-cloudflare-pages-and-workers/](https://www.troyhunt.com/building-password-purgatory-with-cloudflare-pages-and-workers/)
+ - RSS feed: https://www.troyhunt.com
+ - date published: 2022-08-04 08:59:00.258076+00:00
+
+
+## The danger of bad error messages – alexwlchan
+ - [https://alexwlchan.net/2020/10/the-importance-of-good-error-messages/](https://alexwlchan.net/2020/10/the-importance-of-good-error-messages/)
+ - RSS feed: https://alexwlchan.net
+ - date published: 2022-08-04 00:21:45.078388+00:00
+
+
+## Cut the cutesy errors – alexwlchan
+ - [https://alexwlchan.net/2022/08/no-cute/](https://alexwlchan.net/2022/08/no-cute/)
+ - RSS feed: https://alexwlchan.net
+ - date published: 2022-08-04 00:20:53.018770+00:00
+
+
+## Crimes with Python's Pattern Matching • Hillel Wayne
+ - [https://www.hillelwayne.com/post/python-abc/](https://www.hillelwayne.com/post/python-abc/)
+ - RSS feed: https://www.hillelwayne.com
+ - date published: 2022-08-03 21:48:07.767735+00:00
+
+
+## Please stop citing TIOBE
+ - [https://web.archive.org/web/20220802174107/https://blog.nindalf.com/posts/stop-citing-tiobe/](https://web.archive.org/web/20220802174107/https://blog.nindalf.com/posts/stop-citing-tiobe/)
+ - RSS feed: https://web.archive.org
+ - date published: 2022-08-03 11:08:41.200824+00:00
+
+
+## Widely Mocked Anti-Piracy Ads Made People Pirate More, Study Finds
+ - [https://www.vice.com/en/article/93aan8/widely-mocked-anti-piracy-ads-made-people-pirate-more-study-finds](https://www.vice.com/en/article/93aan8/widely-mocked-anti-piracy-ads-made-people-pirate-more-study-finds)
+ - RSS feed: https://www.vice.com
+ - date published: 2022-08-03 11:04:23.121197+00:00
+
+
+## Fotomat History | Mental Floss
+ - [https://www.mentalfloss.com/article/626991/overexposed-history-fotomat](https://www.mentalfloss.com/article/626991/overexposed-history-fotomat)
+ - RSS feed: https://www.mentalfloss.com
+ - date published: 2022-08-03 10:58:23.872114+00:00
+
+
+## How I Used DALL·E 2 to Generate The Logo for OctoSQL | Jacob Martin
+ - [https://jacobmartins.com/posts/how-i-used-dalle2-to-generate-the-logo-for-octosql/](https://jacobmartins.com/posts/how-i-used-dalle2-to-generate-the-logo-for-octosql/)
+ - RSS feed: https://jacobmartins.com
+ - date published: 2022-08-03 09:18:32.516282+00:00
+
+
+## Use One Big Server - Speculative Branches
+ - [https://specbranch.com/posts/one-big-server/](https://specbranch.com/posts/one-big-server/)
+ - RSS feed: https://specbranch.com
+ - date published: 2022-08-03 09:05:02.350491+00:00
+
+
+## TikTok Diagnosis Videos Leave Some Teens Thinking They Have Rare Mental Disorders - WSJ
+ - [https://www.wsj.com/articles/tiktok-diagnosis-videos-leave-some-teens-thinking-they-have-rare-mental-disorders-11640514602](https://www.wsj.com/articles/tiktok-diagnosis-videos-leave-some-teens-thinking-they-have-rare-mental-disorders-11640514602)
+ - RSS feed: https://www.wsj.com
+ - date published: 2022-08-02 09:20:55.318842+00:00
+
+
+## Blockade Australia climate activist can't use encrypted apps, must let police access phone - ABC News
+ - [https://www.abc.net.au/news/science/2022-08-01/blockade-australia-technology-bail-conditions-encrypted-apps/101277038](https://www.abc.net.au/news/science/2022-08-01/blockade-australia-technology-bail-conditions-encrypted-apps/101277038)
+ - RSS feed: https://www.abc.net.au
+ - date published: 2022-08-01 21:54:49.334995+00:00
+
+
+## The looming copper crunch and why recycling can’t fix it - MINING.COM
+ - [https://www.mining.com/the-looming-copper-crunch-and-why-recycling-cant-fix-it/](https://www.mining.com/the-looming-copper-crunch-and-why-recycling-cant-fix-it/)
+ - RSS feed: https://www.mining.com
+ - date published: 2022-07-31 22:36:06.016857+00:00
+
+
+## Turning an old Amazon Kindle into a eink development platform – adq
+ - [https://blog.lidskialf.net/2021/02/08/turning-an-old-kindle-into-a-eink-development-platform/](https://blog.lidskialf.net/2021/02/08/turning-an-old-kindle-into-a-eink-development-platform/)
+ - RSS feed: https://blog.lidskialf.net
+ - date published: 2022-07-31 17:51:02.419885+00:00
+
+
+## Page Weight Matters
+ - [https://blog.chriszacharias.com/page-weight-matters](https://blog.chriszacharias.com/page-weight-matters)
+ - RSS feed: https://blog.chriszacharias.com
+ - date published: 2022-07-31 13:11:31.456522+00:00
+
+
+## How Tor Is Fighting—and Beating—Russian Censorship | WIRED
+ - [https://www.wired.com/story/tor-browser-russia-blocks/](https://www.wired.com/story/tor-browser-russia-blocks/)
+ - RSS feed: https://www.wired.com
+ - date published: 2022-07-31 10:10:10.144852+00:00
+
+
 ## 'Based' Paganism vs. Christianity
  - [https://lukesmith.xyz/articles/christianity-based-paganism/](https://lukesmith.xyz/articles/christianity-based-paganism/)
  - RSS feed: https://lukesmith.xyz/rss.xml
  - date published: 2022-07-29 11:53:20+00:00
+
+
+## Bristol Drag queen children's story hour disrupted by protests - BBC News
+ - [https://www.bbc.com/news/uk-england-bristol-62335147](https://www.bbc.com/news/uk-england-bristol-62335147)
+ - RSS feed: https://www.bbc.com
+ - date published: 2022-07-29 11:13:47.193167+00:00
 
 
 ## ‘Embrace the chaos’: a history of Uber’s rapid expansion and fall from favour
@@ -8475,10 +9438,88 @@
  - date published: 2022-07-28 14:10:12+00:00
 
 
+## Google's Nest Will Provide Data to Police Without a Warrant | PetaPixel
+ - [https://petapixel.com/2022/07/27/googles-nest-will-provide-data-to-police-without-a-warrant/](https://petapixel.com/2022/07/27/googles-nest-will-provide-data-to-police-without-a-warrant/)
+ - RSS feed: https://petapixel.com
+ - date published: 2022-07-28 08:36:58.313714+00:00
+
+
+## UK under international pressure over deletion of abortion commitments | Global development | The Guardian
+ - [https://www.theguardian.com/global-development/2022/jul/22/european-countries-pressurise-uk-over-removal-of-abortion-commitments-liz-truss](https://www.theguardian.com/global-development/2022/jul/22/european-countries-pressurise-uk-over-removal-of-abortion-commitments-liz-truss)
+ - RSS feed: https://www.theguardian.com
+ - date published: 2022-07-26 16:30:42.652384+00:00
+
+
+## You should take more screenshots – alexwlchan
+ - [https://alexwlchan.net/2022/07/screenshots/](https://alexwlchan.net/2022/07/screenshots/)
+ - RSS feed: https://alexwlchan.net
+ - date published: 2022-07-25 09:13:15.595912+00:00
+
+
+## How Standard Ebooks serves millions of requests per month with a 2GB VPS; or, a paean to the classic web - Alex Cabal
+ - [https://alexcabal.com/posts/standard-ebooks-and-classic-web-tech](https://alexcabal.com/posts/standard-ebooks-and-classic-web-tech)
+ - RSS feed: https://alexcabal.com
+ - date published: 2022-07-25 08:11:37.763525+00:00
+
+
 ## Report: Google is spying on competing apps on Android to give its own services a boost
  - [https://mspoweruser.com/report-google-is-spying-on-competing-apps-on-android-to-give-its-own-services-a-boost](https://mspoweruser.com/report-google-is-spying-on-competing-apps-on-android-to-give-its-own-services-a-boost)
  - RSS feed: mspoweruser.com
  - date published: 2022-07-24 12:04:49+00:00
+
+
+## How a Clip From Stray Got Me Banned From Twitter
+ - [https://www.fanbyte.com/features/how-a-clip-from-stray-got-me-banned-from-twitter/](https://www.fanbyte.com/features/how-a-clip-from-stray-got-me-banned-from-twitter/)
+ - RSS feed: https://www.fanbyte.com
+ - date published: 2022-07-24 09:12:17.106380+00:00
+
+
+## Polio detected in US—in same NY county with explosive measles outbreak in 2019 [Updated] | Ars Technica
+ - [https://arstechnica.com/science/2022/07/polio-detected-in-us-in-same-ny-county-with-explosive-measles-outbreak-in-2019/](https://arstechnica.com/science/2022/07/polio-detected-in-us-in-same-ny-county-with-explosive-measles-outbreak-in-2019/)
+ - RSS feed: https://arstechnica.com
+ - date published: 2022-07-22 20:27:17.965652+00:00
+
+
+## Hardcoded password in Confluence app has been leaked on Twitter | Ars Technica
+ - [https://arstechnica.com/information-technology/2022/07/atlassian-warns-hardcoded-password-flaw-is-likely-to-be-exploited-in-the-wild/](https://arstechnica.com/information-technology/2022/07/atlassian-warns-hardcoded-password-flaw-is-likely-to-be-exploited-in-the-wild/)
+ - RSS feed: https://arstechnica.com
+ - date published: 2022-07-22 20:18:49.230740+00:00
+
+
+## British recycle old arguments for bypassing E2E encryption • The Register
+ - [https://www.theregister.com/2022/07/22/british_encryption_scanning/](https://www.theregister.com/2022/07/22/british_encryption_scanning/)
+ - RSS feed: https://www.theregister.com
+ - date published: 2022-07-22 20:10:14.373823+00:00
+
+
+## Spf13 google | spf13
+ - [https://spf13.com/p/spf13-google/](https://spf13.com/p/spf13-google/)
+ - RSS feed: https://spf13.com
+ - date published: 2022-07-22 14:47:10.342878+00:00
+
+
+## I Regret my $46k Website Redesign · mtlynch.io
+ - [https://mtlynch.io/tinypilot-redesign/](https://mtlynch.io/tinypilot-redesign/)
+ - RSS feed: https://mtlynch.io
+ - date published: 2022-07-22 08:23:25.086029+00:00
+
+
+## TeamViewer installs suspicious font only useful for web fingerprinting | Ctrl blog
+ - [https://www.ctrl.blog/entry/teamviewer-font-privacy.html](https://www.ctrl.blog/entry/teamviewer-font-privacy.html)
+ - RSS feed: https://www.ctrl.blog
+ - date published: 2022-07-21 08:49:50.577258+00:00
+
+
+## What happens when you press a key in your terminal?
+ - [https://jvns.ca/blog/2022/07/20/pseudoterminals/](https://jvns.ca/blog/2022/07/20/pseudoterminals/)
+ - RSS feed: https://jvns.ca
+ - date published: 2022-07-21 08:43:53.587576+00:00
+
+
+## Soft Deletion Probably Isn't Worth It — brandur.org
+ - [https://brandur.org/soft-deletion](https://brandur.org/soft-deletion)
+ - RSS feed: https://brandur.org
+ - date published: 2022-07-20 08:11:10.671425+00:00
 
 
 ## Ukraina bezgotówkowa i wspierana całkowicie przez AI. "Niezniszczalny cyfrowo europejski Izrael"
@@ -8487,10 +9528,34 @@
  - date published: 2022-07-19 20:47:02+00:00
 
 
+## Learning Go as a Python Developer: The Good and The Bad
+ - [https://new.pythonforengineers.com/blog/learning-go-as-a-python-developer-the-good-the-bad-and-the-ugly/](https://new.pythonforengineers.com/blog/learning-go-as-a-python-developer-the-good-the-bad-and-the-ugly/)
+ - RSS feed: https://new.pythonforengineers.com
+ - date published: 2022-07-18 20:02:03.868082+00:00
+
+
+## RSS is on fire again, and it's all down to SlackOps · Cross Dominant
+ - [https://conoroneill.net/2022/07/18/rss-is-on-fire-again-and-its-all-down-to-slackops/](https://conoroneill.net/2022/07/18/rss-is-on-fire-again-and-its-all-down-to-slackops/)
+ - RSS feed: https://conoroneill.net
+ - date published: 2022-07-18 19:50:53.354014+00:00
+
+
+## The Pneumatic Clocks of Paris | Amusing Planet
+ - [https://www.amusingplanet.com/2022/02/the-pneumatic-clocks-of-paris.html](https://www.amusingplanet.com/2022/02/the-pneumatic-clocks-of-paris.html)
+ - RSS feed: https://www.amusingplanet.com
+ - date published: 2022-07-18 12:45:08.339996+00:00
+
+
 ## Denmark bans Google Workspace over GDPR non-compliance
  - [https://techmonitor.ai/policy/privacy-and-data-protection/denmark-google-ban-workspace-chromebook-gdpr](https://techmonitor.ai/policy/privacy-and-data-protection/denmark-google-ban-workspace-chromebook-gdpr)
  - RSS feed: https://techmonitor.ai
  - date published: 2022-07-18 08:54:28+00:00
+
+
+## Scratch is a big deal | Bryan Braun - Frontend Developer
+ - [https://www.bryanbraun.com/2022/07/16/scratch-is-a-big-deal/](https://www.bryanbraun.com/2022/07/16/scratch-is-a-big-deal/)
+ - RSS feed: https://www.bryanbraun.com
+ - date published: 2022-07-17 05:27:57.763404+00:00
 
 
 ## Minimizing Liabilities Is Making It.
@@ -8499,10 +9564,112 @@
  - date published: 2022-07-16 16:10:08+00:00
 
 
+## How I went about learning Rust - Eli Bendersky's website
+ - [https://eli.thegreenplace.net/2022/how-i-went-about-learning-rust/](https://eli.thegreenplace.net/2022/how-i-went-about-learning-rust/)
+ - RSS feed: https://eli.thegreenplace.net
+ - date published: 2022-07-16 09:12:52.097611+00:00
+
+
+## DNS Esoterica – Why you can’t dig Switzerland – Terence Eden’s Blog
+ - [https://shkspr.mobi/blog/2022/07/dns-esoterica-why-you-cant-dig-switzerland/](https://shkspr.mobi/blog/2022/07/dns-esoterica-why-you-cant-dig-switzerland/)
+ - RSS feed: https://shkspr.mobi
+ - date published: 2022-07-15 14:27:56.542083+00:00
+
+
+## Unity is merging with a company who made a malware installer | PC Gamer
+ - [https://www.pcgamer.com/unity-is-merging-with-a-company-who-made-a-malware-installer/](https://www.pcgamer.com/unity-is-merging-with-a-company-who-made-a-malware-installer/)
+ - RSS feed: https://www.pcgamer.com
+ - date published: 2022-07-15 09:50:54.885176+00:00
+
+
+## Melbourne woman ‘dehumanised’ by viral TikTok filmed without her consent | TikTok | The Guardian
+ - [https://www.theguardian.com/technology/2022/jul/14/melbourne-woman-dehumanised-by-viral-tiktok-filmed-without-her-consent](https://www.theguardian.com/technology/2022/jul/14/melbourne-woman-dehumanised-by-viral-tiktok-filmed-without-her-consent)
+ - RSS feed: https://www.theguardian.com
+ - date published: 2022-07-15 09:15:07.658163+00:00
+
+
+## New working speculative execution attack sends Intel and AMD scrambling | Ars Technica
+ - [https://arstechnica.com/information-technology/2022/07/intel-and-amd-cpus-vulnerable-to-a-new-speculative-execution-attack/](https://arstechnica.com/information-technology/2022/07/intel-and-amd-cpus-vulnerable-to-a-new-speculative-execution-attack/)
+ - RSS feed: https://arstechnica.com
+ - date published: 2022-07-13 16:11:46.489191+00:00
+
+
 ## The hardest technical solutions are right in front of your face.
  - [https://lukesmith.xyz/articles/obvious-technical-solutions/](https://lukesmith.xyz/articles/obvious-technical-solutions/)
  - RSS feed: https://lukesmith.xyz/rss.xml
  - date published: 2022-07-12 20:16:31+00:00
+
+
+## Photographer Documents All 12,795 Items That She Owns | PetaPixel
+ - [https://petapixel.com/2022/07/08/photographer-documents-all-12795-items-that-she-owns/](https://petapixel.com/2022/07/08/photographer-documents-all-12795-items-that-she-owns/)
+ - RSS feed: https://petapixel.com
+ - date published: 2022-07-12 12:58:04.693691+00:00
+
+
+## Your compliance obligations under the UK’s Online Safety Bill; or, welcome to hell – Hi, I'm Heather Burns
+ - [https://webdevlaw.uk/2022/07/11/your-compliance-obligations-under-the-uks-online-safety-bill/](https://webdevlaw.uk/2022/07/11/your-compliance-obligations-under-the-uks-online-safety-bill/)
+ - RSS feed: https://webdevlaw.uk
+ - date published: 2022-07-12 08:54:29.966012+00:00
+
+
+## BMW F Series Gear Selector, Part Three: Success – Project Gus
+ - [https://www.projectgus.com/2022/07/bmw-f-series-gear-selector-part-three-success/](https://www.projectgus.com/2022/07/bmw-f-series-gear-selector-part-three-success/)
+ - RSS feed: https://www.projectgus.com
+ - date published: 2022-07-12 08:23:02.199172+00:00
+
+
+## How to do a Feeds Reboot to take back control of your algorithms - The Verge
+ - [https://www.theverge.com/23191292/control-social-algorithms-feeds-reboot-how-to](https://www.theverge.com/23191292/control-social-algorithms-feeds-reboot-how-to)
+ - RSS feed: https://www.theverge.com
+ - date published: 2022-07-12 00:29:12.646017+00:00
+
+
+## Experian, You Have Some Explaining to Do – Krebs on Security
+ - [https://krebsonsecurity.com/2022/07/experian-you-have-some-explaining-to-do/](https://krebsonsecurity.com/2022/07/experian-you-have-some-explaining-to-do/)
+ - RSS feed: https://krebsonsecurity.com
+ - date published: 2022-07-11 15:29:48.869855+00:00
+
+
+## Uber broke laws, duped police and secretly lobbied governments, leak reveals | Uber | The Guardian
+ - [https://www.theguardian.com/news/2022/jul/10/uber-files-leak-reveals-global-lobbying-campaign](https://www.theguardian.com/news/2022/jul/10/uber-files-leak-reveals-global-lobbying-campaign)
+ - RSS feed: https://www.theguardian.com
+ - date published: 2022-07-11 08:38:22.476657+00:00
+
+
+## Why the world needs a non-profit search engine
+ - [https://daoudclarke.net/search%20engines/2022/07/10/non-profit-search-engine](https://daoudclarke.net/search%20engines/2022/07/10/non-profit-search-engine)
+ - RSS feed: https://daoudclarke.net
+ - date published: 2022-07-10 17:39:49.107203+00:00
+
+
+## Boeing threatens to cancel Boeing 737 MAX 10 aircraft unless given exemption from safety requirements
+ - [https://www.msn.com/en-gb/travel/news/boeing-threatens-to-cancel-boeing-737-max-10-aircraft-unless-given-exemption-from-safety-requirements/ar-AAZlPB5](https://www.msn.com/en-gb/travel/news/boeing-threatens-to-cancel-boeing-737-max-10-aircraft-unless-given-exemption-from-safety-requirements/ar-AAZlPB5)
+ - RSS feed: https://www.msn.com
+ - date published: 2022-07-10 15:52:31.458719+00:00
+
+
+## EFF Legal Director: "Copyright law does not stand in the way of a library’s right to lend its books" - Internet Archive Blogs
+ - [http://blog.archive.org/2022/07/08/eff-legal-director-copyright-law-does-not-stand-in-the-way-of-a-librarys-right-to-lend-its-books/](http://blog.archive.org/2022/07/08/eff-legal-director-copyright-law-does-not-stand-in-the-way-of-a-librarys-right-to-lend-its-books/)
+ - RSS feed: http://blog.archive.org
+ - date published: 2022-07-10 11:32:02.713498+00:00
+
+
+## Arizona makes it illegal for bystanders to record cops at close range | Ars Technica
+ - [https://arstechnica.com/tech-policy/2022/07/arizona-makes-it-illegal-for-bystanders-to-record-cops-at-close-range/](https://arstechnica.com/tech-policy/2022/07/arizona-makes-it-illegal-for-bystanders-to-record-cops-at-close-range/)
+ - RSS feed: https://arstechnica.com
+ - date published: 2022-07-10 09:32:29.308274+00:00
+
+
+## Monitoring tiny web services
+ - [https://jvns.ca/blog/2022/07/09/monitoring-small-web-services/](https://jvns.ca/blog/2022/07/09/monitoring-small-web-services/)
+ - RSS feed: https://jvns.ca
+ - date published: 2022-07-09 21:20:39.884953+00:00
+
+
+## Spearphishing: it can happen to you too - Xe
+ - [https://xeiaso.net/blog/spearphishing](https://xeiaso.net/blog/spearphishing)
+ - RSS feed: https://xeiaso.net
+ - date published: 2022-07-09 21:18:16.866956+00:00
 
 
 ## OPPO was banned in Germany along with OnePlus
@@ -8511,10 +9678,202 @@
  - date published: 2022-07-09 20:41:15+00:00
 
 
+## Why DRY is the most over-rated programming principle | Thoughts on Software
+ - [https://gordonc.bearblog.dev/dry-most-over-rated-programming-principle/](https://gordonc.bearblog.dev/dry-most-over-rated-programming-principle/)
+ - RSS feed: https://gordonc.bearblog.dev
+ - date published: 2022-07-08 11:42:11.310492+00:00
+
+
+## Maya Forstater: Woman discriminated against over trans tweets, tribunal rules - BBC News
+ - [https://www.bbc.co.uk/news/uk-62061929](https://www.bbc.co.uk/news/uk-62061929)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2022-07-07 07:15:47.715777+00:00
+
+
+## Cubernetes
+ - [https://www.justingarrison.com/blog/2022-07-06-cubernetes/](https://www.justingarrison.com/blog/2022-07-06-cubernetes/)
+ - RSS feed: https://www.justingarrison.com
+ - date published: 2022-07-06 20:17:24.100105+00:00
+
+
+## Auto manufacturer family tree: Who owns what?
+ - [https://www.whichcar.com.au/car-advice/car-manufacturer-brands-family-tree](https://www.whichcar.com.au/car-advice/car-manufacturer-brands-family-tree)
+ - RSS feed: https://www.whichcar.com.au
+ - date published: 2022-07-06 19:25:40.824698+00:00
+
+
+## Today’s Robotic Surgery Turns Surgical Trainees Into Spectators - IEEE Spectrum
+ - [https://spectrum.ieee.org/robotic-surgery](https://spectrum.ieee.org/robotic-surgery)
+ - RSS feed: https://spectrum.ieee.org
+ - date published: 2022-07-05 19:41:49.219146+00:00
+
+
+## Nigerian Ife head: Why UK police are holding a priceless sculpture - BBC News
+ - [https://www.bbc.co.uk/news/world-africa-61826273](https://www.bbc.co.uk/news/world-africa-61826273)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2022-07-04 19:01:48.335883+00:00
+
+
+## It's Quite Hard to Lose a Duolingo Streak
+ - [https://leejo.github.io/2022/07/03/duolingo_streak/](https://leejo.github.io/2022/07/03/duolingo_streak/)
+ - RSS feed: https://leejo.github.io
+ - date published: 2022-07-03 21:23:41.642871+00:00
+
+
+## Unity Employees ‘Mad and Stressed Out’ Amidst Unexpected Layoffs
+ - [https://www.vice.com/en/article/v7vmqj/unity-employees-mad-and-stressed-out-amidst-unexpected-layoffs](https://www.vice.com/en/article/v7vmqj/unity-employees-mad-and-stressed-out-amidst-unexpected-layoffs)
+ - RSS feed: https://www.vice.com
+ - date published: 2022-07-01 16:23:04.129047+00:00
+
+
+## Sell Me Your Climate Bombs : Planet Money : NPR
+ - [https://www.npr.org/transcripts/917060248](https://www.npr.org/transcripts/917060248)
+ - RSS feed: https://www.npr.org
+ - date published: 2022-07-01 16:20:29.613902+00:00
+
+
+## Most workers want their employer to share their values
+ - [https://www.cnbc.com/2022/07/01/most-workers-want-their-employer-to-share-their-values.html](https://www.cnbc.com/2022/07/01/most-workers-want-their-employer-to-share-their-values.html)
+ - RSS feed: https://www.cnbc.com
+ - date published: 2022-07-01 15:45:04.128678+00:00
+
+
+## Can a corporation "own" a color? - The Hustle
+ - [https://thehustle.co/can-a-corporation-trademark-a-color/](https://thehustle.co/can-a-corporation-trademark-a-color/)
+ - RSS feed: https://thehustle.co
+ - date published: 2022-07-01 12:38:01.252207+00:00
+
+
+## Star Minecraft creator Technoblade has died following battle with cancer - Dot Esports
+ - [https://dotesports.com/news/minecraft-content-creator-technoblade-has-died-following-battle-with-cancer](https://dotesports.com/news/minecraft-content-creator-technoblade-has-died-following-battle-with-cancer)
+ - RSS feed: https://dotesports.com
+ - date published: 2022-07-01 10:43:22.819494+00:00
+
+
+## Unity is laying off hundreds of employees - Protocol
+ - [https://www.protocol.com/bulletins/unity-layoffs-game-engine](https://www.protocol.com/bulletins/unity-layoffs-game-engine)
+ - RSS feed: https://www.protocol.com
+ - date published: 2022-07-01 08:39:12.908918+00:00
+
+
+## Give Up GitHub: The Time Has Come! - Conservancy Blog - Software Freedom Conservancy
+ - [https://sfconservancy.org/blog/2022/jun/30/give-up-github-launch/](https://sfconservancy.org/blog/2022/jun/30/give-up-github-launch/)
+ - RSS feed: https://sfconservancy.org
+ - date published: 2022-07-01 08:20:21.312300+00:00
+
+
+## Writing Coherently At Scale - Xe
+ - [https://xeiaso.net/blog/doing-a-writing](https://xeiaso.net/blog/doing-a-writing)
+ - RSS feed: https://xeiaso.net
+ - date published: 2022-06-30 09:39:16.568609+00:00
+
+
+## The future of privacy rights in a post-Roe world
+ - [https://www.axios.com/2022/06/29/privacy-right-roe-v-wade-dobbs-v-jackson-online-data](https://www.axios.com/2022/06/29/privacy-right-roe-v-wade-dobbs-v-jackson-online-data)
+ - RSS feed: https://www.axios.com
+ - date published: 2022-06-29 17:34:56.362739+00:00
+
+
+## BMW F Series Gear Selector, Part Two: Breakthrough – Project Gus
+ - [https://www.projectgus.com/2022/06/bmw-f-series-gear-selector-part-two-breakthrough/](https://www.projectgus.com/2022/06/bmw-f-series-gear-selector-part-two-breakthrough/)
+ - RSS feed: https://www.projectgus.com
+ - date published: 2022-06-29 16:31:19.627645+00:00
+
+
+## Inside the secret, often bizarre world that decides what porn you see
+ - [https://www.ft.com/content/cff23e36-b507-4717-8830-8b06741c8fd5](https://www.ft.com/content/cff23e36-b507-4717-8830-8b06741c8fd5)
+ - RSS feed: https://www.ft.com
+ - date published: 2022-06-29 07:35:01.143846+00:00
+
+
+## Micromanagement vs. micro-tasks: how to set junior employees up for success in remote
+ - [https://slite.com/blog/micromanagement-is-not-a-bad-word](https://slite.com/blog/micromanagement-is-not-a-bad-word)
+ - RSS feed: https://slite.com
+ - date published: 2022-06-28 09:49:38.885583+00:00
+
+
+## ‘Just stop buying lattes’: The origins of a millennial housing myth
+ - [https://thehustle.co/just-stop-buying-lattes-the-origins-of-a-millennial-housing-myth/](https://thehustle.co/just-stop-buying-lattes-the-origins-of-a-millennial-housing-myth/)
+ - RSS feed: https://thehustle.co
+ - date published: 2022-06-28 09:45:33.524800+00:00
+
+
+## Here’s Google’s letter saying employees can relocate to states with abortion rights - The Verge
+ - [https://www.theverge.com/2022/6/24/23182288/google-letter-email-employees-roe-v-wade-decision](https://www.theverge.com/2022/6/24/23182288/google-letter-email-employees-roe-v-wade-decision)
+ - RSS feed: https://www.theverge.com
+ - date published: 2022-06-26 07:25:04.414261+00:00
+
+
 ## Starting in 2023, Windows 11 will require new laptops to have a front webcam
  - [https://www.windowscentral.com/starting-2023-windows-11-will-require-laptops-have-cameras](https://www.windowscentral.com/starting-2023-windows-11-will-require-laptops-have-cameras)
  - RSS feed: www.windowscentral.com
  - date published: 2022-06-25 12:04:50+00:00
+
+
+## Digital Trails: How Bungie Identified a Mass Sender of Fake DMCA Notices * TorrentFreak
+ - [https://torrentfreak.com/digital-trails-how-bungie-identified-a-mass-sender-of-fake-dmca-notices-220624/](https://torrentfreak.com/digital-trails-how-bungie-identified-a-mass-sender-of-fake-dmca-notices-220624/)
+ - RSS feed: https://torrentfreak.com
+ - date published: 2022-06-25 11:19:36.765808+00:00
+
+
+## I Finally Found a Solid Debian Tablet: The Surface Go 2 | The Changelog
+ - [https://changelog.complete.org/archives/10396-i-finally-found-a-solid-debian-tablet-the-surface-go-2](https://changelog.complete.org/archives/10396-i-finally-found-a-solid-debian-tablet-the-surface-go-2)
+ - RSS feed: https://changelog.complete.org
+ - date published: 2022-06-25 11:10:09.221247+00:00
+
+
+## How we built a $1M ARR open source SaaS | Plausible Analytics
+ - [https://plausible.io/blog/open-source-saas](https://plausible.io/blog/open-source-saas)
+ - RSS feed: https://plausible.io
+ - date published: 2022-06-25 09:28:10.709509+00:00
+
+
+## SMS phishing is way too easy
+ - [https://www.bejarano.io/sms-phishing/](https://www.bejarano.io/sms-phishing/)
+ - RSS feed: https://www.bejarano.io
+ - date published: 2022-06-25 09:00:54.556145+00:00
+
+
+## Surprising result while transpiling C to Go - Fabrice Aneche
+ - [https://blog.nobugware.com/post/2022/surprising-result-while-transpiling-go/](https://blog.nobugware.com/post/2022/surprising-result-while-transpiling-go/)
+ - RSS feed: https://blog.nobugware.com
+ - date published: 2022-06-24 14:19:41.423642+00:00
+
+
+## GitHub Copilot and open source laundering
+ - [https://drewdevault.com/2022/06/23/Copilot-GPL-washing.html](https://drewdevault.com/2022/06/23/Copilot-GPL-washing.html)
+ - RSS feed: https://drewdevault.com
+ - date published: 2022-06-24 13:11:23.285687+00:00
+
+
+## Observations on 6 years of journaling | ᕕ( ᐛ )ᕗ Herman's blog
+ - [https://herman.bearblog.dev/years-of-journaling/](https://herman.bearblog.dev/years-of-journaling/)
+ - RSS feed: https://herman.bearblog.dev
+ - date published: 2022-06-23 17:23:55.838223+00:00
+
+
+## Teens Are Getting Sick From Products With High THC Levels - The New York Times
+ - [https://www.nytimes.com/2022/06/23/well/mind/teens-thc-canabis.html](https://www.nytimes.com/2022/06/23/well/mind/teens-thc-canabis.html)
+ - RSS feed: https://www.nytimes.com
+ - date published: 2022-06-23 17:18:46.909713+00:00
+
+
+## Hardening the Registers: A Cascading Failure of Edge Induced Fault Tolerance
+ - [https://tech.target.com/blog/hardening-the-registers](https://tech.target.com/blog/hardening-the-registers)
+ - RSS feed: https://tech.target.com
+ - date published: 2022-06-23 15:56:48.821062+00:00
+
+
+## a brief history of one line fixes
+ - [https://flak.tedunangst.com/post/a-brief-history-of-one-line-fixes](https://flak.tedunangst.com/post/a-brief-history-of-one-line-fixes)
+ - RSS feed: https://flak.tedunangst.com
+ - date published: 2022-06-23 10:37:23.881125+00:00
+
+
+## Crafting Interpreters: A Review
+ - [https://chidiwilliams.com/post/crafting-interpreters-a-review/](https://chidiwilliams.com/post/crafting-interpreters-a-review/)
+ - RSS feed: https://chidiwilliams.com
+ - date published: 2022-06-23 07:14:08.784166+00:00
 
 
 ## The Orville: Immortality, Transhumanism, God and The Human Soul
@@ -8524,11 +9883,191 @@
  - tags: transhumanism
 
 
+## The driving enthusiast’s dilemma with electric cars | Ars Technica
+ - [https://arstechnica.com/cars/2022/06/the-driving-enthusiasts-dilemma-about-electric-cars/](https://arstechnica.com/cars/2022/06/the-driving-enthusiasts-dilemma-about-electric-cars/)
+ - RSS feed: https://arstechnica.com
+ - date published: 2022-06-22 08:40:54.635796+00:00
+
+
+## One year as a solo dev building open-source data tools without funding
+ - [https://datastation.multiprocess.io/blog/2022-06-11-year-in-review.html](https://datastation.multiprocess.io/blog/2022-06-11-year-in-review.html)
+ - RSS feed: https://datastation.multiprocess.io
+ - date published: 2022-06-21 17:16:41.324748+00:00
+
+
+## Cloudflare outage on June 21, 2022
+ - [https://blog.cloudflare.com/cloudflare-outage-on-june-21-2022/](https://blog.cloudflare.com/cloudflare-outage-on-june-21-2022/)
+ - RSS feed: https://blog.cloudflare.com
+ - date published: 2022-06-21 15:41:37.951536+00:00
+
+
+## We are removing the option to create new subscriptions - Blog | Mullvad VPN
+ - [https://mullvad.net/en/blog/2022/6/20/were-removing-the-option-to-create-new-subscriptions/](https://mullvad.net/en/blog/2022/6/20/were-removing-the-option-to-create-new-subscriptions/)
+ - RSS feed: https://mullvad.net
+ - date published: 2022-06-20 19:04:24.912447+00:00
+
+
+## Pop-ups are dead, long live pop-ups: or, the bait-and-switch hidden in today’s cookie announcement – Hi, I'm Heather Burns
+ - [https://webdevlaw.uk/2022/06/17/data-reform-bill-cookie-popups/](https://webdevlaw.uk/2022/06/17/data-reform-bill-cookie-popups/)
+ - RSS feed: https://webdevlaw.uk
+ - date published: 2022-06-18 06:58:37.529759+00:00
+
+
 ## Vaccine transparency case is still not closed, despite EC’s claim
  - [https://corporateeurope.org/en/2022/06/vaccine-transparency-case-still-not-closed-despite-ecs-claim](https://corporateeurope.org/en/2022/06/vaccine-transparency-case-still-not-closed-despite-ecs-claim)
  - RSS feed: https://corporateeurope.org
  - date published: 2022-06-17 19:15:04+00:00
  - tags: contract,vaccine,covid
+
+
+## Don't Put All Your Code In Internal | Ido Perlmuter
+ - [https://ido50.net/rants/dont-put-all-your-code-in-internal](https://ido50.net/rants/dont-put-all-your-code-in-internal)
+ - RSS feed: https://ido50.net
+ - date published: 2022-06-17 13:54:11.142802+00:00
+
+
+## Cloudflare mitigates 26 million request per second DDoS attack
+ - [https://blog.cloudflare.com/26m-rps-ddos/](https://blog.cloudflare.com/26m-rps-ddos/)
+ - RSS feed: https://blog.cloudflare.com
+ - date published: 2022-06-17 08:25:29.320467+00:00
+
+
+## Free associating from 'df' to RCE
+ - [https://rachelbythebay.com/w/2022/06/16/rce/](https://rachelbythebay.com/w/2022/06/16/rce/)
+ - RSS feed: https://rachelbythebay.com
+ - date published: 2022-06-17 06:55:39.683636+00:00
+
+
+## How Price Shocks in Formative Years Scar Consumption for Life - Knowledge at Wharton
+ - [https://knowledge.wharton.upenn.edu/article/how-price-shocks-in-formative-years-scar-consumption-for-life/](https://knowledge.wharton.upenn.edu/article/how-price-shocks-in-formative-years-scar-consumption-for-life/)
+ - RSS feed: https://knowledge.wharton.upenn.edu
+ - date published: 2022-06-16 05:54:59.662032+00:00
+
+
+## shot-scraper: automated screenshots for documentation, built on Playwright
+ - [https://simonwillison.net/2022/Mar/10/shot-scraper/](https://simonwillison.net/2022/Mar/10/shot-scraper/)
+ - RSS feed: https://simonwillison.net
+ - date published: 2022-06-13 21:35:04.238080+00:00
+
+
+## Documentation unit tests
+ - [https://simonwillison.net/2018/Jul/28/documentation-unit-tests/](https://simonwillison.net/2018/Jul/28/documentation-unit-tests/)
+ - RSS feed: https://simonwillison.net
+ - date published: 2022-06-13 21:26:32.496829+00:00
+
+
+## How I build a feature
+ - [https://simonwillison.net/2022/Jan/12/how-i-build-a-feature/](https://simonwillison.net/2022/Jan/12/how-i-build-a-feature/)
+ - RSS feed: https://simonwillison.net
+ - date published: 2022-06-13 17:40:46.602125+00:00
+
+
+## Twenty years of my blog
+ - [https://simonwillison.net/2022/Jun/12/twenty-years/](https://simonwillison.net/2022/Jun/12/twenty-years/)
+ - RSS feed: https://simonwillison.net
+ - date published: 2022-06-13 17:23:34.766550+00:00
+
+
+## Git scraping: track changes over time by scraping to a Git repository
+ - [https://simonwillison.net/2020/Oct/9/git-scraping/](https://simonwillison.net/2020/Oct/9/git-scraping/)
+ - RSS feed: https://simonwillison.net
+ - date published: 2022-06-13 17:21:40.476222+00:00
+
+
+## UK will not copy EU demand for common charging cable - BBC News
+ - [https://www.bbc.co.uk/news/technology-61720276](https://www.bbc.co.uk/news/technology-61720276)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2022-06-13 09:20:25.083955+00:00
+
+
+## High-School Start Times Are Still Too Early for Teens - The Atlantic
+ - [https://www.theatlantic.com/family/archive/2022/06/american-high-school-later-start-time/661211/](https://www.theatlantic.com/family/archive/2022/06/american-high-school-later-start-time/661211/)
+ - RSS feed: https://www.theatlantic.com
+ - date published: 2022-06-13 06:51:01.597070+00:00
+
+
+## AirPlay network disaster
+ - [https://mnpn.github.io/blog/airplay-network-disaster](https://mnpn.github.io/blog/airplay-network-disaster)
+ - RSS feed: https://mnpn.github.io
+ - date published: 2022-06-11 20:02:13.580113+00:00
+
+
+## The Alkyne GC · mcyoung
+ - [https://mcyoung.xyz/2022/06/07/alkyne-gc/#fnref:provenance](https://mcyoung.xyz/2022/06/07/alkyne-gc/#fnref:provenance)
+ - RSS feed: https://mcyoung.xyz
+ - date published: 2022-06-11 15:38:34.531496+00:00
+
+
+## Why I turned down $500K, Pissed off my investors, and Shut down my startup -
+ - [https://www.disruptingjapan.com/turned-500k-pissed-off-investors-shut-startup/](https://www.disruptingjapan.com/turned-500k-pissed-off-investors-shut-startup/)
+ - RSS feed: https://www.disruptingjapan.com
+ - date published: 2022-06-11 11:28:03.475166+00:00
+
+
+## Ready to transform the enterprise world? We are! | Arduino Blog
+ - [https://blog.arduino.cc/2022/06/07/ready-to-transform-the-enterprise-world-we-are/](https://blog.arduino.cc/2022/06/07/ready-to-transform-the-enterprise-world-we-are/)
+ - RSS feed: https://blog.arduino.cc
+ - date published: 2022-06-11 09:00:31.862596+00:00
+
+
+## If OpenSSL were a GUI
+ - [https://smallstep.com/blog/if-openssl-were-a-gui/](https://smallstep.com/blog/if-openssl-were-a-gui/)
+ - RSS feed: https://smallstep.com
+ - date published: 2022-06-11 08:40:14.186618+00:00
+
+
+## Cooling the tube – Engineering heat out of the Underground
+ - [https://www.ianvisits.co.uk/articles/cooling-the-tube-engineering-heat-out-of-the-underground-20873/](https://www.ianvisits.co.uk/articles/cooling-the-tube-engineering-heat-out-of-the-underground-20873/)
+ - RSS feed: https://www.ianvisits.co.uk
+ - date published: 2022-06-10 20:15:00.995127+00:00
+
+
+## Firefox and Chrome are squaring off over ad-blocker extensions - The Verge
+ - [https://www.theverge.com/2022/6/10/23131029/mozilla-ad-blocking-firefox-google-chrome-privacy-manifest-v3-web-request](https://www.theverge.com/2022/6/10/23131029/mozilla-ad-blocking-firefox-google-chrome-privacy-manifest-v3-web-request)
+ - RSS feed: https://www.theverge.com
+ - date published: 2022-06-10 17:16:24.457545+00:00
+
+
+## Mostly automatic Go dependency updates with GitHub Actions — brandur.org
+ - [https://brandur.org/fragments/mostly-automatic-deps](https://brandur.org/fragments/mostly-automatic-deps)
+ - RSS feed: https://brandur.org
+ - date published: 2022-06-10 15:57:48.100519+00:00
+
+
+## I’ve locked myself out of my digital life – Terence Eden’s Blog
+ - [https://shkspr.mobi/blog/2022/06/ive-locked-myself-out-of-my-digital-life/](https://shkspr.mobi/blog/2022/06/ive-locked-myself-out-of-my-digital-life/)
+ - RSS feed: https://shkspr.mobi
+ - date published: 2022-06-08 05:56:41.312238+00:00
+
+
+## I Built a Ruby Parser | My Point of View
+ - [https://mpov.timmorgan.org/i-built-a-ruby-parser/](https://mpov.timmorgan.org/i-built-a-ruby-parser/)
+ - RSS feed: https://mpov.timmorgan.org
+ - date published: 2022-06-07 09:21:34.137975+00:00
+
+
+## I wrote a Brainfuck to Go compiler · Kabir Goel
+ - [https://kabirgoel.com/p/walnut#user-content-fnref-1=](https://kabirgoel.com/p/walnut#user-content-fnref-1=)
+ - RSS feed: https://kabirgoel.com
+ - date published: 2022-06-07 08:47:51.561304+00:00
+
+
+## Abigail Shrier’s Irreversible Damage: A Wealth of Irreversible Misinformation | Science-Based Medicine
+ - [https://sciencebasedmedicine.org/abigail-shriers-irreversible-damage-a-wealth-of-irreversible-misinformation/](https://sciencebasedmedicine.org/abigail-shriers-irreversible-damage-a-wealth-of-irreversible-misinformation/)
+ - RSS feed: https://sciencebasedmedicine.org
+ - date published: 2022-06-06 20:10:24.128626+00:00
+
+
+## 7 Absolute Truths I Unlearned as Junior Developer
+ - [https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer/](https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer/)
+ - RSS feed: https://monicalent.com
+ - date published: 2022-06-06 17:38:05.436352+00:00
+
+
+## Tim Hortons coffee app broke law by constantly recording users’ movements | Ars Technica
+ - [https://arstechnica.com/tech-policy/2022/06/tim-hortons-coffee-app-broke-law-by-constantly-recording-users-movements/](https://arstechnica.com/tech-policy/2022/06/tim-hortons-coffee-app-broke-law-by-constantly-recording-users-movements/)
+ - RSS feed: https://arstechnica.com
+ - date published: 2022-06-06 17:29:56.045370+00:00
 
 
 ## Elon Musk asks why DOJ hasn’t leaked Jeffrey Epstein’s client list
@@ -8544,10 +10083,263 @@
  - tags: smartphone,privacy,all time
 
 
+## ‘You only have one shot’: how film cameras won over a younger generation | Photography | The Guardian
+ - [https://www.theguardian.com/technology/2022/jun/05/you-only-have-one-shot-how-film-cameras-won-over-a-younger-generation?utm_term=629d9396aa57bd2493700de90ed92c33&utm_campaign=FirstEdition&utm_source=esp&utm_medium=Email&CMP=firstedition_email](https://www.theguardian.com/technology/2022/jun/05/you-only-have-one-shot-how-film-cameras-won-over-a-younger-generation?utm_term=629d9396aa57bd2493700de90ed92c33&utm_campaign=FirstEdition&utm_source=esp&utm_medium=Email&CMP=firstedition_email)
+ - RSS feed: https://www.theguardian.com
+ - date published: 2022-06-06 07:49:13.887706+00:00
+
+
+## I only care about the helpful notifications, not the promotional ones · Caffeinspiration
+ - [https://alexanderell.is/posts/sneaking-notifications/](https://alexanderell.is/posts/sneaking-notifications/)
+ - RSS feed: https://alexanderell.is
+ - date published: 2022-06-05 22:19:48.003732+00:00
+
+
+## I Cheated on My Microsoft Interview | The Facet Blog
+ - [https://www.facet.net/posts/i-cheated-on-my-microsoft-interview](https://www.facet.net/posts/i-cheated-on-my-microsoft-interview)
+ - RSS feed: https://www.facet.net
+ - date published: 2022-06-05 12:24:33.022054+00:00
+
+
+## The FBI Tried to Ambush My Source. Now I’m Telling the Whole Story.
+ - [https://theintercept.com/2022/06/03/fbi-ambush-leak-reporter-source/](https://theintercept.com/2022/06/03/fbi-ambush-leak-reporter-source/)
+ - RSS feed: https://theintercept.com
+ - date published: 2022-06-04 21:04:31.669281+00:00
+
+
+## Installing a payphone in my house | bertrand fan
+ - [https://bert.org/2022/06/02/payphone/](https://bert.org/2022/06/02/payphone/)
+ - RSS feed: https://bert.org
+ - date published: 2022-06-04 11:44:42.428388+00:00
+
+
+## Mimeoprinting (Printmaking as play, part 2) - NO BAD MEMORIES
+ - [https://www.nobadmemories.com/blog/2022/05/mimeoprinting](https://www.nobadmemories.com/blog/2022/05/mimeoprinting)
+ - RSS feed: https://www.nobadmemories.com
+ - date published: 2022-06-04 09:51:07.970786+00:00
+
+
+## Printmaking as play - NO BAD MEMORIES
+ - [https://www.nobadmemories.com/blog/2022/05/printmaking-as-play/](https://www.nobadmemories.com/blog/2022/05/printmaking-as-play/)
+ - RSS feed: https://www.nobadmemories.com
+ - date published: 2022-06-04 09:33:01.718491+00:00
+
+
+## Dear Spotify. Can we just get a table of songs?
+ - [https://neil.computer/notes/dear-spotify-can-we-just-get-table-of-songs/](https://neil.computer/notes/dear-spotify-can-we-just-get-table-of-songs/)
+ - RSS feed: https://neil.computer
+ - date published: 2022-06-04 08:56:58.168737+00:00
+
+
+## Dangerous Gift
+ - [https://www.tbray.org/ongoing/When/202x/2022/06/02/Dangerous-Gift](https://www.tbray.org/ongoing/When/202x/2022/06/02/Dangerous-Gift)
+ - RSS feed: https://www.tbray.org
+ - date published: 2022-06-04 08:39:45.805168+00:00
+
+
+## Europe's hope to scan devices for unlawful files criticized • The Register
+ - [https://www.theregister.com/2022/06/02/eu_child_protection/?td=keepreading-top](https://www.theregister.com/2022/06/02/eu_child_protection/?td=keepreading-top)
+ - RSS feed: https://www.theregister.com
+ - date published: 2022-06-03 10:01:36.564116+00:00
+
+
+## A Letter to Discord for not Supporting the Linux Desktop | TheEvilSkeleton
+ - [https://theevilskeleton.gitlab.io/2022/05/29/a-letter-to-discord-for-not-supporting-the-linux-desktop.html](https://theevilskeleton.gitlab.io/2022/05/29/a-letter-to-discord-for-not-supporting-the-linux-desktop.html)
+ - RSS feed: https://theevilskeleton.gitlab.io
+ - date published: 2022-06-02 17:24:06.594878+00:00
+
+
+## Fortune 500 companies are making political donations to anti-LGBTQ+ politicians while celebrating Pride month | Fortune
+ - [https://fortune.com/2022/06/01/major-corporations-donate-anti-lgbtq-legislators-pride/](https://fortune.com/2022/06/01/major-corporations-donate-anti-lgbtq-legislators-pride/)
+ - RSS feed: https://fortune.com
+ - date published: 2022-06-02 15:59:39.265394+00:00
+
+
+## Using a catch-all domain is a mistake — ⍻
+ - [https://www.notcheckmark.com/2022/06/catch-all-domain/](https://www.notcheckmark.com/2022/06/catch-all-domain/)
+ - RSS feed: https://www.notcheckmark.com
+ - date published: 2022-06-02 09:10:19.226893+00:00
+
+
+## Gmail accepts forged YouTube emails
+ - [https://john-millikin.com/gmail-accepts-forged-youtube-emails#ref:1](https://john-millikin.com/gmail-accepts-forged-youtube-emails#ref:1)
+ - RSS feed: https://john-millikin.com
+ - date published: 2022-06-02 08:44:36.150388+00:00
+
+
+## Taiwan Restricts Russia, Belarus to CPUs Under 25 MHz Frequency | Tom's Hardware
+ - [https://www.tomshardware.com/news/taiwan-restricts-exports-of-25mhz-cpus-to-russia](https://www.tomshardware.com/news/taiwan-restricts-exports-of-25mhz-cpus-to-russia)
+ - RSS feed: https://www.tomshardware.com
+ - date published: 2022-06-02 07:42:50.244712+00:00
+
+
+## Opinion | Stop Pretending All Books Are Written in English - The New York Times
+ - [https://www.nytimes.com/2022/05/29/opinion/translator-credit-cover.html](https://www.nytimes.com/2022/05/29/opinion/translator-credit-cover.html)
+ - RSS feed: https://www.nytimes.com
+ - date published: 2022-06-01 19:35:42.937097+00:00
+
+
+## Unknown Sender: The Mystery of the Circleville Letters
+ - [https://getpocket.com/explore/item/unknown-sender-the-mystery-of-the-circleville-letters](https://getpocket.com/explore/item/unknown-sender-the-mystery-of-the-circleville-letters)
+ - RSS feed: https://getpocket.com
+ - date published: 2022-05-31 15:55:47.176341+00:00
+
+
+## Discord Is the World’s Most Important Financial Messenger, And a Hotbed for Scammers
+ - [https://www.vice.com/en/article/n7n848/discord-is-the-worlds-most-important-financial-messenger-and-a-hotbed-for-scammers](https://www.vice.com/en/article/n7n848/discord-is-the-worlds-most-important-financial-messenger-and-a-hotbed-for-scammers)
+ - RSS feed: https://www.vice.com
+ - date published: 2022-05-31 14:56:24.767492+00:00
+
+
+## A decade of dotfiles
+ - [https://evanhahn.com/a-decade-of-dotfiles/](https://evanhahn.com/a-decade-of-dotfiles/)
+ - RSS feed: https://evanhahn.com
+ - date published: 2022-05-31 06:54:09.873087+00:00
+
+
+## Why is Front-End Development So Unstable?
+ - [https://www.breck-mckye.com/blog/2018/05/why-is-front-end-development-so-unstable/](https://www.breck-mckye.com/blog/2018/05/why-is-front-end-development-so-unstable/)
+ - RSS feed: https://www.breck-mckye.com
+ - date published: 2022-05-30 21:07:00.874723+00:00
+
+
+## Big Tech talks up privacy while trying to kill privacy laws • The Register
+ - [https://www.theregister.com/2022/05/27/big_tech_privacy/](https://www.theregister.com/2022/05/27/big_tech_privacy/)
+ - RSS feed: https://www.theregister.com
+ - date published: 2022-05-30 14:55:43.720975+00:00
+
+
+## Major Version Numbers are Not Sacred
+ - [https://tom.preston-werner.com/2022/05/23/major-version-numbers-are-not-sacred.html](https://tom.preston-werner.com/2022/05/23/major-version-numbers-are-not-sacred.html)
+ - RSS feed: https://tom.preston-werner.com
+ - date published: 2022-05-30 14:08:44.949188+00:00
+
+
+## Boris Johnson to reportedly bring back imperial measurements to mark platinum jubilee | Brexit | The Guardian
+ - [https://www.theguardian.com/politics/2022/may/28/boris-johnson-set-to-bring-back-imperial-measurements-to-mark-platinum-jubilee](https://www.theguardian.com/politics/2022/may/28/boris-johnson-set-to-bring-back-imperial-measurements-to-mark-platinum-jubilee)
+ - RSS feed: https://www.theguardian.com
+ - date published: 2022-05-30 06:02:56.255929+00:00
+
+
+## Site Update: The Big Domain Move To xeiaso.net - Xe
+ - [https://xeiaso.net/blog/big-domain-move](https://xeiaso.net/blog/big-domain-move)
+ - RSS feed: https://xeiaso.net
+ - date published: 2022-05-29 14:44:38.499095+00:00
+
+
+## Building a Budget Homelab NAS Server (2022 Edition) · mtlynch.io
+ - [https://mtlynch.io/budget-nas/](https://mtlynch.io/budget-nas/)
+ - RSS feed: https://mtlynch.io
+ - date published: 2022-05-29 14:02:45.055406+00:00
+
+
+## I'm Retiring From the Engineering Profession
+ - [https://www.strongtowns.org/journal/2022/5/23/im-retiring-from-the-engineering-profession](https://www.strongtowns.org/journal/2022/5/23/im-retiring-from-the-engineering-profession)
+ - RSS feed: https://www.strongtowns.org
+ - date published: 2022-05-29 13:41:55.420154+00:00
+
+
+## Britain should scrap its Online Safety Bill | The Economist
+ - [https://www.economist.com/leaders/2022/05/26/britain-should-scrap-its-online-safety-bill](https://www.economist.com/leaders/2022/05/26/britain-should-scrap-its-online-safety-bill)
+ - RSS feed: https://www.economist.com
+ - date published: 2022-05-29 13:32:22.087478+00:00
+
+
+## My students cheated... A lot • crumplab
+ - [https://crumplab.com/articles/blog/post_994_5_26_22_cheating/index.html](https://crumplab.com/articles/blog/post_994_5_26_22_cheating/index.html)
+ - RSS feed: https://crumplab.com
+ - date published: 2022-05-29 11:00:57.393519+00:00
+
+
+## A Brief History of the LGBTQ Acronym
+ - [https://www.yahoo.com/lifestyle/brief-history-lgbtq-acronym-183200888.html](https://www.yahoo.com/lifestyle/brief-history-lgbtq-acronym-183200888.html)
+ - RSS feed: https://www.yahoo.com
+ - date published: 2022-05-27 14:13:08+00:00
+ - tags: social engineering,lgbt
+
+
+## The billable hour is a trap into which more and more of us are falling | Tim Harford
+ - [https://timharford.com/2022/05/the-billable-hour-is-a-trap-into-which-more-and-more-of-us-are-falling/](https://timharford.com/2022/05/the-billable-hour-is-a-trap-into-which-more-and-more-of-us-are-falling/)
+ - RSS feed: https://timharford.com
+ - date published: 2022-05-27 06:40:19.107190+00:00
+
+
+## Google has been DDoSing SourceHut for over a year
+ - [https://drewdevault.com/2022/05/25/Google-has-been-DDoSing-sourcehut.html](https://drewdevault.com/2022/05/25/Google-has-been-DDoSing-sourcehut.html)
+ - RSS feed: https://drewdevault.com
+ - date published: 2022-05-26 06:41:58.374637+00:00
+
+
+## Healthchecks.io Hosting Setup, 2022 Edition – Healthchecks.io
+ - [https://blog.healthchecks.io/2022/02/healthchecks-io-hosting-setup-2022-edition/](https://blog.healthchecks.io/2022/02/healthchecks-io-hosting-setup-2022-edition/)
+ - RSS feed: https://blog.healthchecks.io
+ - date published: 2022-05-25 07:36:56.720608+00:00
+
+
+## We Already Have Go 2 - Xe
+ - [https://xeiaso.net/blog/we-have-go-2](https://xeiaso.net/blog/we-have-go-2)
+ - RSS feed: https://xeiaso.net
+ - date published: 2022-05-25 07:25:02.493514+00:00
+
+
+## Memory safety for SerenityOS – Andreas Kling – I like computers!
+ - [https://awesomekling.github.io/Memory-safety-for-SerenityOS/](https://awesomekling.github.io/Memory-safety-for-SerenityOS/)
+ - RSS feed: https://awesomekling.github.io
+ - date published: 2022-05-24 09:00:04.907473+00:00
+
+
+## How Uber Uses Zig - Motiejus Jakštys Public Record
+ - [https://jakstys.lt/2022/how-uber-uses-zig/#fnref:1](https://jakstys.lt/2022/how-uber-uses-zig/#fnref:1)
+ - RSS feed: https://jakstys.lt
+ - date published: 2022-05-24 08:00:05.083581+00:00
+
+
+## My Stance on Toxicity About Programming Languages - Xe
+ - [https://xeiaso.net/blog/against-toxicity-programming-languages](https://xeiaso.net/blog/against-toxicity-programming-languages)
+ - RSS feed: https://xeiaso.net
+ - date published: 2022-05-24 06:49:10.166831+00:00
+
+
+## Grubhub's NYC Free Lunch Promo Didn't Go Smoothly
+ - [https://www.buzzfeednews.com/article/kelseyweekman/grubhub-free-lunch-nyc-promo-chaos](https://www.buzzfeednews.com/article/kelseyweekman/grubhub-free-lunch-nyc-promo-chaos)
+ - RSS feed: https://www.buzzfeednews.com
+ - date published: 2022-05-23 15:42:16.541259+00:00
+
+
+## Big Fat Websites | ᕕ( ᐛ )ᕗ Herman's blog
+ - [https://herman.bearblog.dev/big-fat-websites/](https://herman.bearblog.dev/big-fat-websites/)
+ - RSS feed: https://herman.bearblog.dev
+ - date published: 2022-05-23 14:06:01.485706+00:00
+
+
+## Migrating millions of lines of code to TypeScript
+ - [https://stripe.com/blog/migrating-to-typescript](https://stripe.com/blog/migrating-to-typescript)
+ - RSS feed: https://stripe.com
+ - date published: 2022-05-22 11:37:14.619363+00:00
+
+
+## The balance has shifted away from SPAs | Read the Tea Leaves
+ - [https://nolanlawson.com/2022/05/21/the-balance-has-shifted-away-from-spas/](https://nolanlawson.com/2022/05/21/the-balance-has-shifted-away-from-spas/)
+ - RSS feed: https://nolanlawson.com
+ - date published: 2022-05-22 07:23:28.130339+00:00
+
+
+## Predatory community
+ - [https://blog.mollywhite.net/predatory-community/#fnref:fn1](https://blog.mollywhite.net/predatory-community/#fnref:fn1)
+ - RSS feed: https://blog.mollywhite.net
+ - date published: 2022-05-21 07:52:06.649721+00:00
+
+
 ## FDA Dumps More Pfizer Documents: Why Were So Many Adverse Events Reported as ‘Unrelated’ to Vaccine?
  - [https://www.citizensjournal.us/fda-dumps-more-pfizer-documents-why-were-so-many-adverse-events-reported-as-unrelated-to-vaccine/](https://www.citizensjournal.us/fda-dumps-more-pfizer-documents-why-were-so-many-adverse-events-reported-as-unrelated-to-vaccine/)
  - RSS feed: www.citizensjournal.us
  - date published: 2022-05-20 07:51:24+00:00
+
+
+## GOV.UK drops jQuery from their front end.
+ - [https://web.dev/gov-uk-drops-jquery/](https://web.dev/gov-uk-drops-jquery/)
+ - RSS feed: https://web.dev
+ - date published: 2022-05-20 07:09:31.961692+00:00
 
 
 ## Dodatki covidowe, czyli górka pieniędzy, na którą nikt nie patrzył
@@ -8557,11 +10349,89 @@
  - tags: covid
 
 
+## Troy Hunt: Downloading Pwned Passwords Hashes with the HIBP Downloader
+ - [https://www.troyhunt.com/downloading-pwned-passwords-hashes-with-the-hibp-downloader/](https://www.troyhunt.com/downloading-pwned-passwords-hashes-with-the-hibp-downloader/)
+ - RSS feed: https://www.troyhunt.com
+ - date published: 2022-05-20 06:58:39.859097+00:00
+
+
+## Tasks, lists, and promises
+ - [https://rachelbythebay.com/w/2022/05/19/priority/](https://rachelbythebay.com/w/2022/05/19/priority/)
+ - RSS feed: https://rachelbythebay.com
+ - date published: 2022-05-20 06:56:19.612155+00:00
+
+
+## Why Google is so unbearable (and how to fix it) | MR IXNS
+ - [https://ixns.github.io//lifehacks/computers/internet/2022/05/17/avoid-google-bloatware.html](https://ixns.github.io//lifehacks/computers/internet/2022/05/17/avoid-google-bloatware.html)
+ - RSS feed: https://ixns.github.io
+ - date published: 2022-05-19 07:50:35.730045+00:00
+
+
+## Dealing with deprecations - stitcher.io
+ - [https://stitcher.io/blog/dealing-with-deprecations](https://stitcher.io/blog/dealing-with-deprecations)
+ - RSS feed: https://stitcher.io
+ - date published: 2022-05-19 06:44:14.507531+00:00
+
+
+## Site Update: I Fixed the Patron Page - Xe
+ - [https://xeiaso.net/blog/site-update-patron-page-fixed](https://xeiaso.net/blog/site-update-patron-page-fixed)
+ - RSS feed: https://xeiaso.net
+ - date published: 2022-05-19 06:39:43.123173+00:00
+
+
+## Some Top 100,000 Websites Collect Everything You Type—Before You Hit Submit | WIRED
+ - [https://www.wired.com/story/leaky-forms-keyloggers-meta-tiktok-pixel-study/](https://www.wired.com/story/leaky-forms-keyloggers-meta-tiktok-pixel-study/)
+ - RSS feed: https://www.wired.com
+ - date published: 2022-05-18 20:00:21.929118+00:00
+
+
+## Response to the Change.org petition about me
+ - [https://blog.mollywhite.net/response-to-the-changeorg-petition-about-me/](https://blog.mollywhite.net/response-to-the-changeorg-petition-about-me/)
+ - RSS feed: https://blog.mollywhite.net
+ - date published: 2022-05-17 11:36:59.647002+00:00
+
+
+## The use of "Assume Good Faith" to shut down discussions about sexism on Wikipedia
+ - [https://blog.mollywhite.net/assume-good-faith/#fnref:fn1](https://blog.mollywhite.net/assume-good-faith/#fnref:fn1)
+ - RSS feed: https://blog.mollywhite.net
+ - date published: 2022-05-17 11:30:55.752399+00:00
+
+
+## MEMEX - The Small Website Discoverability Crisis [2021-09-08]
+ - [https://memex.marginalia.nu/log/19-website-discoverability-crisis.gmi](https://memex.marginalia.nu/log/19-website-discoverability-crisis.gmi)
+ - RSS feed: https://memex.marginalia.nu
+ - date published: 2022-05-16 20:48:17.020218+00:00
+
+
+## Almost all searches on my independent search engine are now from SEO spam bots
+ - [https://blog.searchmysite.net/posts/almost-all-searches-on-my-independent-search-engine-are-now-from-seo-spam-bots/](https://blog.searchmysite.net/posts/almost-all-searches-on-my-independent-search-engine-are-now-from-seo-spam-bots/)
+ - RSS feed: https://blog.searchmysite.net
+ - date published: 2022-05-16 13:36:22.695130+00:00
+
+
+## Fly.io: the Reclaimer of Heroku's Magic - Xe
+ - [https://xeiaso.net/blog/fly.io-heroku-replacement](https://xeiaso.net/blog/fly.io-heroku-replacement)
+ - RSS feed: https://xeiaso.net
+ - date published: 2022-05-16 05:51:45.929200+00:00
+
+
 ## Club of Rome and WEF-Tied Dennis Meadows on Depopulation, “I Hope It Can Occur In a Civil Manner”
  - [https://welovetrump.com/2022/05/15/watch-club-of-rome-and-wef-tied-dennis-meadows-on-depopulation-i-hope-it-can-occur-in-a-civil-manner/](https://welovetrump.com/2022/05/15/watch-club-of-rome-and-wef-tied-dennis-meadows-on-depopulation-i-hope-it-can-occur-in-a-civil-manner/)
  - RSS feed: https://welovetrump.com
  - date published: 2022-05-15 13:48:10+00:00
  - tags: population,wef,depopulation
+
+
+## Rosenzweig – The Apple GPU and the Impossible Bug
+ - [https://rosenzweig.io/blog/asahi-gpu-part-5.html](https://rosenzweig.io/blog/asahi-gpu-part-5.html)
+ - RSS feed: https://rosenzweig.io
+ - date published: 2022-05-14 07:14:41.765458+00:00
+
+
+## How i fixed my broken monitor with a hair dryer - Johnnys.News
+ - [https://johnnys.news/2022/05/How-i-fixed-my-broken-monitor-with-a-hair-dryer](https://johnnys.news/2022/05/How-i-fixed-my-broken-monitor-with-a-hair-dryer)
+ - RSS feed: https://johnnys.news
+ - date published: 2022-05-14 07:03:27.048293+00:00
 
 
 ## The Splinternet | This Is How The Internet Dies
@@ -8571,10 +10441,292 @@
  - tags: internet,all time
 
 
+## Why I Quit Google’s WebAssembly Team, And How It Made Me Sick | by Katelyn Gadd | May, 2022 | Medium
+ - [https://medium.com/@katelyngadd/why-i-quit-googles-webassembly-team-and-how-it-made-me-sick-c50ef562ce1](https://medium.com/@katelyngadd/why-i-quit-googles-webassembly-team-and-how-it-made-me-sick-c50ef562ce1)
+ - RSS feed: https://medium.com
+ - date published: 2022-05-12 16:38:25.093981+00:00
+
+
+## Why I left Google: work-life balance / Scott Kennedy
+ - [https://www.scottkennedy.us/balance.html](https://www.scottkennedy.us/balance.html)
+ - RSS feed: https://www.scottkennedy.us
+ - date published: 2022-05-12 06:41:59.495194+00:00
+
+
+## I Miss Heroku's DevEx - Xe
+ - [https://xeiaso.net/blog/heroku-devex-2022-05-12](https://xeiaso.net/blog/heroku-devex-2022-05-12)
+ - RSS feed: https://xeiaso.net
+ - date published: 2022-05-12 05:56:20.422341+00:00
+
+
+## Converting a Python library to Rust
+ - [https://alantrick.ca/writings/programming/python_to_rust](https://alantrick.ca/writings/programming/python_to_rust)
+ - RSS feed: https://alantrick.ca
+ - date published: 2022-05-10 21:45:36.992238+00:00
+
+
+## I Saw a Cool Truck Today - The AP (Alex Pareene) Newsletter
+ - [https://theap.substack.com/p/i-saw-a-cool-truck-today?s=r](https://theap.substack.com/p/i-saw-a-cool-truck-today?s=r)
+ - RSS feed: https://theap.substack.com
+ - date published: 2022-05-10 19:25:35.779932+00:00
+
+
+## Jeffrey Snover claims Microsoft demoted him for PowerShell • The Register
+ - [https://www.theregister.com/2022/05/10/jeffrey_snover_said_microsoft_demoted/](https://www.theregister.com/2022/05/10/jeffrey_snover_said_microsoft_demoted/)
+ - RSS feed: https://www.theregister.com
+ - date published: 2022-05-10 18:59:22.955936+00:00
+
+
+## I'm a fucking webmaster
+ - [https://justinjackson.ca/webmaster/](https://justinjackson.ca/webmaster/)
+ - RSS feed: https://justinjackson.ca
+ - date published: 2022-05-10 06:25:35.439092+00:00
+
+
+## I'm All-In on Server-Side SQLite · Fly
+ - [https://fly.io/blog/all-in-on-sqlite-litestream/](https://fly.io/blog/all-in-on-sqlite-litestream/)
+ - RSS feed: https://fly.io
+ - date published: 2022-05-10 05:59:27.395900+00:00
+
+
+## Only Microsoft can give open source the gift of NTFS • The Register
+ - [https://www.theregister.com/2022/05/09/only_microsoft_can_give_open/](https://www.theregister.com/2022/05/09/only_microsoft_can_give_open/)
+ - RSS feed: https://www.theregister.com
+ - date published: 2022-05-09 16:47:23.223616+00:00
+
+
+## WordPress sites getting hacked ‘within seconds’ of TLS certificates being issued | The Daily Swig
+ - [https://portswigger.net/daily-swig/wordpress-sites-getting-hacked-within-seconds-of-tls-certificates-being-issued](https://portswigger.net/daily-swig/wordpress-sites-getting-hacked-within-seconds-of-tls-certificates-being-issued)
+ - RSS feed: https://portswigger.net
+ - date published: 2022-05-08 18:37:21.459129+00:00
+
+
+## GitHub Next | Visualizing a Codebase
+ - [https://githubnext.com/projects/repo-visualization](https://githubnext.com/projects/repo-visualization)
+ - RSS feed: https://githubnext.com
+ - date published: 2022-05-08 16:34:10.434701+00:00
+
+
+## Looking for a job while looking after yourself
+ - [https://carol.gg/blog/looking-for-a-job/](https://carol.gg/blog/looking-for-a-job/)
+ - RSS feed: https://carol.gg
+ - date published: 2022-05-08 15:57:00.165179+00:00
+
+
+## Lessons learned from the recent job hunt · Jamie Tanna | Software Engineer
+ - [https://www.jvt.me/posts/2022/05/02/lessons-learned-job-hunt/](https://www.jvt.me/posts/2022/05/02/lessons-learned-job-hunt/)
+ - RSS feed: https://www.jvt.me
+ - date published: 2022-05-08 15:52:03.171761+00:00
+
+
+## Site Update: Axum - Xe
+ - [https://xeiaso.net/blog/site-update-axum-2022-03-21](https://xeiaso.net/blog/site-update-axum-2022-03-21)
+ - RSS feed: https://xeiaso.net
+ - date published: 2022-05-08 15:21:57.242452+00:00
+
+
+## robocadey: Shitposting as a Service - Xe
+ - [https://xeiaso.net/blog/robocadey-2022-04-30](https://xeiaso.net/blog/robocadey-2022-04-30)
+ - RSS feed: https://xeiaso.net
+ - date published: 2022-05-08 15:12:36.901233+00:00
+
+
+## Hundreds of Suicidal Teens Sleep in Emergency Rooms. Every Night. - The New York Times
+ - [https://www.nytimes.com/2022/05/08/health/emergency-rooms-teen-mental-health.html](https://www.nytimes.com/2022/05/08/health/emergency-rooms-teen-mental-health.html)
+ - RSS feed: https://www.nytimes.com
+ - date published: 2022-05-08 14:58:19.864834+00:00
+
+
+## Unix command line conventions over time
+ - [https://blog.liw.fi/posts/2022/05/07/unix-cli/](https://blog.liw.fi/posts/2022/05/07/unix-cli/)
+ - RSS feed: https://blog.liw.fi
+ - date published: 2022-05-08 08:01:25.000685+00:00
+
+
+## Apple's Director of Machine Learning Resigns Due to Return to Office Work - MacRumors
+ - [https://www.macrumors.com/2022/05/07/apple-director-of-machine-learning-resigns/](https://www.macrumors.com/2022/05/07/apple-director-of-machine-learning-resigns/)
+ - RSS feed: https://www.macrumors.com
+ - date published: 2022-05-08 07:44:17.751855+00:00
+
+
+## Amazon Fires Senior Managers Tied to Unionized Staten Island Warehouse - The New York Times
+ - [https://www.nytimes.com/2022/05/06/technology/amazon-fires-managers-union-staten-island.html](https://www.nytimes.com/2022/05/06/technology/amazon-fires-managers-union-staten-island.html)
+ - RSS feed: https://www.nytimes.com
+ - date published: 2022-05-08 06:59:02.741911+00:00
+
+
+## Your Phone May Soon Replace Many of Your Passwords – Krebs on Security
+ - [https://krebsonsecurity.com/2022/05/your-phone-may-soon-replace-many-of-your-passwords/](https://krebsonsecurity.com/2022/05/your-phone-may-soon-replace-many-of-your-passwords/)
+ - RSS feed: https://krebsonsecurity.com
+ - date published: 2022-05-07 19:40:59.661427+00:00
+
+
+## Breaking the Monolith at Twitch: Part 2 | Twitch Blog
+ - [https://blog.twitch.tv/en/2022/04/12/breaking-the-monolith-at-twitch-part-2/](https://blog.twitch.tv/en/2022/04/12/breaking-the-monolith-at-twitch-part-2/)
+ - RSS feed: https://blog.twitch.tv
+ - date published: 2022-05-06 16:30:24.818789+00:00
+
+
+## Breaking the Monolith at Twitch: Part One | Twitch Blog
+ - [https://blog.twitch.tv/en/2022/03/30/breaking-the-monolith-at-twitch/](https://blog.twitch.tv/en/2022/03/30/breaking-the-monolith-at-twitch/)
+ - RSS feed: https://blog.twitch.tv
+ - date published: 2022-05-06 16:25:17.059223+00:00
+
+
+## Please, stop disabling zoom - Manuel Matuzović
+ - [https://www.matuzo.at/blog/2022/please-stop-disabling-zoom/](https://www.matuzo.at/blog/2022/please-stop-disabling-zoom/)
+ - RSS feed: https://www.matuzo.at
+ - date published: 2022-05-05 18:37:27.521355+00:00
+
+
+## IBM's asshole test — johnpublic
+ - [https://johnpublic.mataroa.blog/blog/the-asshole-test/](https://johnpublic.mataroa.blog/blog/the-asshole-test/)
+ - RSS feed: https://johnpublic.mataroa.blog
+ - date published: 2022-05-05 05:54:34.738380+00:00
+
+
 ## Microsoft Can Kiss My A** | Do You Own Your PC?
  - [https://www.youtube.com/watch?v=Lv5xHfZnk4s](https://www.youtube.com/watch?v=Lv5xHfZnk4s)
  - RSS feed: https://www.youtube.com/@eBuzzCentral
  - date published: 2022-05-04 20:25:51+00:00
+
+
+## Writing a Book for O'Reilly - Party One
+ - [https://www.thecodepainter.co.uk/blog/20220503/writeabook01](https://www.thecodepainter.co.uk/blog/20220503/writeabook01)
+ - RSS feed: https://www.thecodepainter.co.uk
+ - date published: 2022-05-04 19:10:34.763750+00:00
+
+
+## Considered “18+” | daniel.haxx.se
+ - [https://daniel.haxx.se/blog/2022/05/02/considered-18/](https://daniel.haxx.se/blog/2022/05/02/considered-18/)
+ - RSS feed: https://daniel.haxx.se
+ - date published: 2022-05-04 05:59:33.174649+00:00
+
+
+## Reviving httpstatuses | Jon Kulton
+ - [https://jkulton.com/2022/reviving-httpstatuses](https://jkulton.com/2022/reviving-httpstatuses)
+ - RSS feed: https://jkulton.com
+ - date published: 2022-05-03 15:56:20.291948+00:00
+
+
+## Man accidentally ejects himself from fighter jet during surprise flight | France | The Guardian
+ - [https://www.theguardian.com/world/2020/apr/14/man-accidentally-ejects-himself-from-fighter-jet-during-surprise-flight](https://www.theguardian.com/world/2020/apr/14/man-accidentally-ejects-himself-from-fighter-jet-during-surprise-flight)
+ - RSS feed: https://www.theguardian.com
+ - date published: 2022-05-02 15:45:25.483055+00:00
+
+
+## New government maps show nearly all of the West is in drought and it's not even summer yet: "This is unprecedented" - CBS News
+ - [https://www.cbsnews.com/news/west-climate-change-water/](https://www.cbsnews.com/news/west-climate-change-water/)
+ - RSS feed: https://www.cbsnews.com
+ - date published: 2022-05-02 13:43:51.776205+00:00
+
+
+## How I manage my LaTeX lecture notes | Gilles Castel
+ - [https://castel.dev/post/lecture-notes-3/](https://castel.dev/post/lecture-notes-3/)
+ - RSS feed: https://castel.dev
+ - date published: 2022-05-02 13:38:54.219841+00:00
+
+
+## How I'm able to take notes in mathematics lectures using LaTeX and Vim | Gilles Castel
+ - [https://castel.dev/post/lecture-notes-1/](https://castel.dev/post/lecture-notes-1/)
+ - RSS feed: https://castel.dev
+ - date published: 2022-05-02 13:32:45.160709+00:00
+
+
+## How I draw figures for my mathematical lecture notes using Inkscape | Gilles Castel
+ - [https://castel.dev/post/lecture-notes-2/](https://castel.dev/post/lecture-notes-2/)
+ - RSS feed: https://castel.dev
+ - date published: 2022-05-02 13:21:22.333192+00:00
+
+
+## The Universe of Discourse : Mental illness, attention deficit disorder, and suffering
+ - [https://blog.plover.com/brain/add.html](https://blog.plover.com/brain/add.html)
+ - RSS feed: https://blog.plover.com
+ - date published: 2022-05-02 13:14:26.179533+00:00
+
+
+## Lenovo ThinkPad P1 Gen3 Review (with Linux) | Ernestas Narmontas
+ - [https://ernestas.me/lenovo-thinkpad-p1-gen3](https://ernestas.me/lenovo-thinkpad-p1-gen3)
+ - RSS feed: https://ernestas.me
+ - date published: 2022-05-02 10:24:40.555268+00:00
+
+
+## I won free load testing
+ - [https://fasterthanli.me/articles/i-won-free-load-testing](https://fasterthanli.me/articles/i-won-free-load-testing)
+ - RSS feed: https://fasterthanli.me
+ - date published: 2022-05-02 10:22:03.354315+00:00
+
+
+## Things I don't want to do to grow my side project | Lane's Blog
+ - [https://wagslane.dev/posts/things-i-dont-want-to-do-to-grow-business/](https://wagslane.dev/posts/things-i-dont-want-to-do-to-grow-business/)
+ - RSS feed: https://wagslane.dev
+ - date published: 2022-05-02 08:47:25.805338+00:00
+
+
+## We think this cool study we found is flawed. Help us reproduce it.
+ - [https://pudding.cool/2022/04/random/](https://pudding.cool/2022/04/random/)
+ - RSS feed: https://pudding.cool
+ - date published: 2022-05-02 08:21:52.942588+00:00
+
+
+## Gender Dysphoria Isn’t What You Think… | by Cassie LaBelle | Gender From The Trenches | Medium
+ - [https://medium.com/gender-from-the-trenches/gender-dysphoria-isnt-what-you-think-6fdc7ae3ac85](https://medium.com/gender-from-the-trenches/gender-dysphoria-isnt-what-you-think-6fdc7ae3ac85)
+ - RSS feed: https://medium.com
+ - date published: 2022-05-01 07:57:03.577346+00:00
+
+
+## Google Developers Blog: What is black and white and read all over? Noto emoji, a new black and white emoji font
+ - [https://developers.googleblog.com/2022/04/what-is-black-and-white-and-read-all.html](https://developers.googleblog.com/2022/04/what-is-black-and-white-and-read-all.html)
+ - RSS feed: https://developers.googleblog.com
+ - date published: 2022-05-01 06:54:37.885398+00:00
+
+
+## Internet Archive Joins Opposition to the "SMART Copyright Act" - Internet Archive Blogs
+ - [http://blog.archive.org/2022/03/29/internet-archive-joins-opposition-to-the-smart-copyright-act/](http://blog.archive.org/2022/03/29/internet-archive-joins-opposition-to-the-smart-copyright-act/)
+ - RSS feed: http://blog.archive.org
+ - date published: 2022-05-01 06:23:35.827651+00:00
+
+
+## Crafting “Crafting Interpreters” – journal.stuffwithstuff.com
+ - [https://journal.stuffwithstuff.com/2020/04/05/crafting-crafting-interpreters/](https://journal.stuffwithstuff.com/2020/04/05/crafting-crafting-interpreters/)
+ - RSS feed: https://journal.stuffwithstuff.com
+ - date published: 2022-04-30 08:10:51.195685+00:00
+
+
+## Paying a visit to planet BSD
+ - [https://rachelbythebay.com/w/2022/04/29/bsd/](https://rachelbythebay.com/w/2022/04/29/bsd/)
+ - RSS feed: https://rachelbythebay.com
+ - date published: 2022-04-30 07:16:33.213228+00:00
+
+
+## My Raspberry Pi-based temperature tracking project
+ - [https://rachelbythebay.com/w/2022/04/27/thermo/](https://rachelbythebay.com/w/2022/04/27/thermo/)
+ - RSS feed: https://rachelbythebay.com
+ - date published: 2022-04-29 21:03:05.068149+00:00
+
+
+## Dropbox unplugged its own datacenter to test resilience • The Register
+ - [https://www.theregister.com/2022/04/27/dropbox_unplugged_datacenter/](https://www.theregister.com/2022/04/27/dropbox_unplugged_datacenter/)
+ - RSS feed: https://www.theregister.com
+ - date published: 2022-04-29 14:23:30.893796+00:00
+
+
+## The Technium: 103 Bits of Advice I Wish I Had Known
+ - [https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/](https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/)
+ - RSS feed: https://kk.org
+ - date published: 2022-04-29 07:42:00.766673+00:00
+
+
+## Johnny Depp and Amber Heard Defamation Trial: What to Know | Time
+ - [https://time.com/6171006/johnny-depp-amber-heard-trial/](https://time.com/6171006/johnny-depp-amber-heard-trial/)
+ - RSS feed: https://time.com
+ - date published: 2022-04-28 19:57:54.810492+00:00
+
+
+## The Worst Bug Ever—Randomly Losing Your Best Players | by Pocket Gems | Pocket Gems Tech Blog | Apr, 2022 | Medium
+ - [https://medium.com/pocket-gems/the-worst-bug-ever-randomly-losing-your-best-players-c4c5d25048c4](https://medium.com/pocket-gems/the-worst-bug-ever-randomly-losing-your-best-players-c4c5d25048c4)
+ - RSS feed: https://medium.com
+ - date published: 2022-04-28 06:46:01.756351+00:00
 
 
 ## How Companies Lie To You About End-to-End Encryption
@@ -8583,16 +10735,520 @@
  - date published: 2022-04-26 12:15:06+00:00
 
 
+## Tory health minister Sajid Javid attacks NHS gender services for trans kids
+ - [https://www.pinknews.co.uk/2022/04/21/sajid-javid-tory-nhs-gender-services-trans/](https://www.pinknews.co.uk/2022/04/21/sajid-javid-tory-nhs-gender-services-trans/)
+ - RSS feed: https://www.pinknews.co.uk
+ - date published: 2022-04-25 20:19:19.015435+00:00
+
+
+## Sajid Javid condemned for linking being trans to child sex abuse
+ - [https://www.pinknews.co.uk/2022/04/06/sajid-javid-conversion-therapy-ban-trans-uk/](https://www.pinknews.co.uk/2022/04/06/sajid-javid-conversion-therapy-ban-trans-uk/)
+ - RSS feed: https://www.pinknews.co.uk
+ - date published: 2022-04-25 20:16:42.091795+00:00
+
+
+## Olympic champion Katie Archibald says sport is failing trans athletes
+ - [https://www.pinknews.co.uk/2022/04/21/katie-archibald-trans-athletes-cycling-uk-emily-bridges/](https://www.pinknews.co.uk/2022/04/21/katie-archibald-trans-athletes-cycling-uk-emily-bridges/)
+ - RSS feed: https://www.pinknews.co.uk
+ - date published: 2022-04-25 20:10:24.708480+00:00
+
+
+## Sajid Javid to review gender treatment for children - BBC News
+ - [https://www.bbc.co.uk/news/uk-politics-61203575](https://www.bbc.co.uk/news/uk-politics-61203575)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2022-04-25 20:02:59.483706+00:00
+
+
+## GP's online transgender clinic follow-up care criticised - BBC News
+ - [https://www.bbc.co.uk/news/uk-wales-61213539](https://www.bbc.co.uk/news/uk-wales-61213539)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2022-04-25 20:01:02.807070+00:00
+
+
+## 0x006 - Large Language Models 🦣
+ - [https://unzip.dev/0x006-large-language-models/](https://unzip.dev/0x006-large-language-models/)
+ - RSS feed: https://unzip.dev
+ - date published: 2022-04-25 15:15:04.402165+00:00
+
+
+## Angela Rayner: MPs hit back over claims of 'Basic Instinct' tactics to distract PM - BBC News
+ - [https://www.bbc.co.uk/news/uk-politics-61208037](https://www.bbc.co.uk/news/uk-politics-61208037)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2022-04-24 23:05:23.898393+00:00
+
+
+## Partygate: Removing PM would lead to instability, says Oliver Dowden - BBC News
+ - [https://www.bbc.co.uk/news/uk-politics-61207801](https://www.bbc.co.uk/news/uk-politics-61207801)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2022-04-24 10:11:36.207270+00:00
+
+
+## Excuse me, has anybody seen the FOCAL interpreter? - The Old New Thing
+ - [https://devblogs.microsoft.com/oldnewthing/20200616-00/?p=103869](https://devblogs.microsoft.com/oldnewthing/20200616-00/?p=103869)
+ - RSS feed: https://devblogs.microsoft.com
+ - date published: 2022-04-24 09:42:36.566282+00:00
+
+
+## The Applesoft Compiler (TASC): We have the source code, in a sense - The Old New Thing
+ - [https://devblogs.microsoft.com/oldnewthing/20220419-00/?p=106496](https://devblogs.microsoft.com/oldnewthing/20220419-00/?p=106496)
+ - RSS feed: https://devblogs.microsoft.com
+ - date published: 2022-04-24 09:41:49.892267+00:00
+
+
+## Google, Meta, and others will have to explain their algorithms under new EU legislation - The Verge
+ - [https://www.theverge.com/2022/4/23/23036976/eu-digital-services-act-finalized-algorithms-targeted-advertising](https://www.theverge.com/2022/4/23/23036976/eu-digital-services-act-finalized-algorithms-targeted-advertising)
+ - RSS feed: https://www.theverge.com
+ - date published: 2022-04-24 09:34:08.798001+00:00
+
+
+## Google’s AI-Powered ‘Inclusive Warnings’ Feature Is Very Broken
+ - [https://www.vice.com/en/article/v7dk8m/googles-ai-powered-inclusive-warnings-feature-is-very-broken](https://www.vice.com/en/article/v7dk8m/googles-ai-powered-inclusive-warnings-feature-is-very-broken)
+ - RSS feed: https://www.vice.com
+ - date published: 2022-04-23 07:26:26.977546+00:00
+
+
+## Stop Validating Email Addresses With Regex
+ - [https://davidcel.is/posts/stop-validating-email-addresses-with-regex/](https://davidcel.is/posts/stop-validating-email-addresses-with-regex/)
+ - RSS feed: https://davidcel.is
+ - date published: 2022-04-22 20:44:45.932735+00:00
+
+
+## Rapidly building interactive CLIs in Go with Bubbletea → Inngest Blog
+ - [https://www.inngest.com/blog/interactive-clis-with-bubbletea](https://www.inngest.com/blog/interactive-clis-with-bubbletea)
+ - RSS feed: https://www.inngest.com
+ - date published: 2022-04-22 18:32:30.331768+00:00
+
+
+## Shitposting as a Learning Style - Last Week in AWS Blog
+ - [https://www.lastweekinaws.com/blog/shitposting-as-a-learning-style/](https://www.lastweekinaws.com/blog/shitposting-as-a-learning-style/)
+ - RSS feed: https://www.lastweekinaws.com
+ - date published: 2022-04-22 18:14:18.946372+00:00
+
+
+## A YouTuber Purposely Crashed His Plane in California, F.A.A. Says - The New York Times
+ - [https://www.nytimes.com/2022/04/20/us/trevor-jacob-youtube-plane-crash.html?unlocked_article_code=AAAAAAAAAAAAAAAACEIPuomT1JKd6J17Vw1cRCfTTMQmqxCdw_PIxftm3iWka3DJDmwaiPkORJSa9lnKf-9hbtA01XGKQ8JdLbUiAeR2x-lSekd3QhKo5JuYnZBPawMElbWOZEJklZTcQeJ_tjbwcmiyLOo4m-Sx7k7bbmL1XaCP0WkmdF1ivZtucAq1inQCwKnAQOBw29Mvzu5hUs4hPUoIZCeKtvDsAhR0KY_GOkmasl9qLrkfDTLDntec6KYCdRFSCD_GT3B56GU87bBMKY9dffa_f1N7Jp2I0fhGAXdoLYypG5Q2W4PW8r5qurPHoheKo9GkUXucpqzuHkA9O8fm2dbxTA&smid=url-share](https://www.nytimes.com/2022/04/20/us/trevor-jacob-youtube-plane-crash.html?unlocked_article_code=AAAAAAAAAAAAAAAACEIPuomT1JKd6J17Vw1cRCfTTMQmqxCdw_PIxftm3iWka3DJDmwaiPkORJSa9lnKf-9hbtA01XGKQ8JdLbUiAeR2x-lSekd3QhKo5JuYnZBPawMElbWOZEJklZTcQeJ_tjbwcmiyLOo4m-Sx7k7bbmL1XaCP0WkmdF1ivZtucAq1inQCwKnAQOBw29Mvzu5hUs4hPUoIZCeKtvDsAhR0KY_GOkmasl9qLrkfDTLDntec6KYCdRFSCD_GT3B56GU87bBMKY9dffa_f1N7Jp2I0fhGAXdoLYypG5Q2W4PW8r5qurPHoheKo9GkUXucpqzuHkA9O8fm2dbxTA&smid=url-share)
+ - RSS feed: https://www.nytimes.com
+ - date published: 2022-04-21 07:32:16.584836+00:00
+
+
+## ‘Jack Dorsey’s First Tweet’ NFT Went on Sale for $48M. It Ended With a Top Bid of Just $280
+ - [https://www.coindesk.com/business/2022/04/13/jack-dorseys-first-tweet-nft-went-on-sale-for-48m-it-ended-with-a-top-bid-of-just-280/](https://www.coindesk.com/business/2022/04/13/jack-dorseys-first-tweet-nft-went-on-sale-for-48m-it-ended-with-a-top-bid-of-just-280/)
+ - RSS feed: https://www.coindesk.com
+ - date published: 2022-04-21 06:45:19.870657+00:00
+
+
+## Doctor Who: 'I wanted The Doctor to whisk me away from everything awful' - BBC News
+ - [https://www.bbc.co.uk/news/newsbeat-61075197](https://www.bbc.co.uk/news/newsbeat-61075197)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2022-04-20 16:39:26.382029+00:00
+
+
+## How we upgraded our 4 TB main application Postgres database
+ - [https://retool.com/blog/how-we-upgraded-postgresql-database/](https://retool.com/blog/how-we-upgraded-postgresql-database/)
+ - RSS feed: https://retool.com
+ - date published: 2022-04-20 11:19:39.269257+00:00
+
+
+## Practical Guide to Solving Hard Problems
+ - [https://praeclarum.org/2022/02/19/hard-problems.html](https://praeclarum.org/2022/02/19/hard-problems.html)
+ - RSS feed: https://praeclarum.org
+ - date published: 2022-04-19 15:14:16.650512+00:00
+
+
+## How Intuit's TurboTax capitalized on taxpayers' fear.
+ - [https://slate.com/technology/2022/04/turbotax-free-file-online-ftc.html](https://slate.com/technology/2022/04/turbotax-free-file-online-ftc.html)
+ - RSS feed: https://slate.com
+ - date published: 2022-04-19 15:08:25.280236+00:00
+
+
+## Richard Stallman - "The state of the Free Software movement" - April 13, 2022
+ - [https://lunduke.substack.com/p/richard-stallman-the-state-of-the?s=r](https://lunduke.substack.com/p/richard-stallman-the-state-of-the?s=r)
+ - RSS feed: https://lunduke.substack.com
+ - date published: 2022-04-18 08:30:39.017912+00:00
+
+
+## The musl preprocessor debate | The Cat Fox Life
+ - [https://catfox.life/2022/04/16/the-musl-preprocessor-debate/](https://catfox.life/2022/04/16/the-musl-preprocessor-debate/)
+ - RSS feed: https://catfox.life
+ - date published: 2022-04-18 08:26:44.289944+00:00
+
+
+## Quartz is taking down the paywall on QZ.com — Quartz
+ - [https://qz.com/2154695/quartz-is-taking-down-the-paywall-on-qz-com/](https://qz.com/2154695/quartz-is-taking-down-the-paywall-on-qz-com/)
+ - RSS feed: https://qz.com
+ - date published: 2022-04-17 17:18:17.699849+00:00
+
+
+## Overview · e-basteln
+ - [http://www.e-basteln.de/computing/papertape/overview/](http://www.e-basteln.de/computing/papertape/overview/)
+ - RSS feed: http://www.e-basteln.de
+ - date published: 2022-04-16 17:14:50.450216+00:00
+
+
+## A Census of Minecraft Servers
+ - [https://blog.bithole.dev/mcmap.html](https://blog.bithole.dev/mcmap.html)
+ - RSS feed: https://blog.bithole.dev
+ - date published: 2022-04-16 17:12:25.080411+00:00
+
+
+## The Dunning-Kruger Effect is Autocorrelation – Economics from the Top Down
+ - [https://economicsfromthetopdown.com/2022/04/08/the-dunning-kruger-effect-is-autocorrelation/](https://economicsfromthetopdown.com/2022/04/08/the-dunning-kruger-effect-is-autocorrelation/)
+ - RSS feed: https://economicsfromthetopdown.com
+ - date published: 2022-04-16 14:51:57.029892+00:00
+
+
+## DuckDuckGo Removes Pirate Sites and YouTube-DL from Its Search Results * TorrentFreak
+ - [https://torrentfreak.com/duckduckgo-removes-pirate-sites-and-youtube-dl-from-its-search-results-220415/](https://torrentfreak.com/duckduckgo-removes-pirate-sites-and-youtube-dl-from-its-search-results-220415/)
+ - RSS feed: https://torrentfreak.com
+ - date published: 2022-04-16 09:59:41.557839+00:00
+
+
+## GitHub: Attacker breached dozens of orgs using stolen OAuth tokens
+ - [https://www.bleepingcomputer.com/news/security/github-attacker-breached-dozens-of-orgs-using-stolen-oauth-tokens/](https://www.bleepingcomputer.com/news/security/github-attacker-breached-dozens-of-orgs-using-stolen-oauth-tokens/)
+ - RSS feed: https://www.bleepingcomputer.com
+ - date published: 2022-04-16 09:58:30.731941+00:00
+
+
+## I hope distributed is not the new default
+ - [https://www.zeptonaut.com/posts/i-hope-distributed-is-not-the-new-default/](https://www.zeptonaut.com/posts/i-hope-distributed-is-not-the-new-default/)
+ - RSS feed: https://www.zeptonaut.com
+ - date published: 2022-04-15 11:08:47.006161+00:00
+
+
+## Tokyo’s Manuscript Writing Cafe only allows writers on a deadline, and won’t let them leave until finished – grape Japan
+ - [https://grapee.jp/en/199026](https://grapee.jp/en/199026)
+ - RSS feed: https://grapee.jp
+ - date published: 2022-04-14 20:16:19.968236+00:00
+
+
+## The Scoop: Inside the Longest Atlassian Outage of All Time
+ - [https://newsletter.pragmaticengineer.com/p/scoop-atlassian?s=w](https://newsletter.pragmaticengineer.com/p/scoop-atlassian?s=w)
+ - RSS feed: https://newsletter.pragmaticengineer.com
+ - date published: 2022-04-14 19:28:28.458556+00:00
+
+
+## The History of the Elimination of Leaded Gasoline | In Custodia Legis: Law Librarians of Congress
+ - [https://blogs.loc.gov/law/2022/04/the-history-of-the-elimination-of-leaded-gasoline/](https://blogs.loc.gov/law/2022/04/the-history-of-the-elimination-of-leaded-gasoline/)
+ - RSS feed: https://blogs.loc.gov
+ - date published: 2022-04-14 15:27:34.865510+00:00
+
+
+## Elon Musk Wants to Buy Out Twitter (TWTR) in Final $43 Billion Unsolicited Bid - Bloomberg
+ - [https://www.bloomberg.com/news/articles/2022-04-14/elon-musk-launches-43-billion-hostile-takeover-of-twitter](https://www.bloomberg.com/news/articles/2022-04-14/elon-musk-launches-43-billion-hostile-takeover-of-twitter)
+ - RSS feed: https://www.bloomberg.com
+ - date published: 2022-04-14 14:00:26.841282+00:00
+
+
+## Why is selling software so weird?
+ - [https://www.zeptonaut.com/posts/selling-software-is-weird/](https://www.zeptonaut.com/posts/selling-software-is-weird/)
+ - RSS feed: https://www.zeptonaut.com
+ - date published: 2022-04-14 11:17:59.289138+00:00
+
+
+## Russian trolls tried to distract voters with music tweets in 2016 | Cornell Chronicle
+ - [https://news.cornell.edu/stories/2022/04/russian-trolls-tried-distract-voters-music-tweets-2016-0](https://news.cornell.edu/stories/2022/04/russian-trolls-tried-distract-voters-music-tweets-2016-0)
+ - RSS feed: https://news.cornell.edu
+ - date published: 2022-04-13 12:17:20.402097+00:00
+
+
+## A System-Witch's Package Manager Murder Mystery
+ - [https://artemis.sh/2022/04/11/package-manager-murder-mystery.html](https://artemis.sh/2022/04/11/package-manager-murder-mystery.html)
+ - RSS feed: https://artemis.sh
+ - date published: 2022-04-13 10:46:27.192928+00:00
+
+
+## Git security vulnerability announced | The GitHub Blog
+ - [https://github.blog/2022-04-12-git-security-vulnerability-announced/](https://github.blog/2022-04-12-git-security-vulnerability-announced/)
+ - RSS feed: https://github.blog
+ - date published: 2022-04-13 10:35:39.961284+00:00
+
+
+## What Le Corbusier got right about office space | Tim Harford
+ - [https://timharford.com/2022/04/what-le-corbusier-got-right-about-office-space/](https://timharford.com/2022/04/what-le-corbusier-got-right-about-office-space/)
+ - RSS feed: https://timharford.com
+ - date published: 2022-04-12 11:56:55.257586+00:00
+
+
+## Why Enzymit Decided to Build its Own On-Prem HPC Infrastructure | by Lior Zimmerman | Enzymit.log — The Enzymit Blog | Apr, 2022 | Medium
+ - [https://medium.com/enzymit-log/why-enzymit-decided-to-build-its-own-on-prem-hpc-infrastructure-bcaeff0105a7](https://medium.com/enzymit-log/why-enzymit-decided-to-build-its-own-on-prem-hpc-infrastructure-bcaeff0105a7)
+ - RSS feed: https://medium.com
+ - date published: 2022-04-12 11:34:48.063825+00:00
+
+
+## Impressions from a first-time Mac user | Logan Marchione
+ - [https://loganmarchione.com/2022/04/impressions-from-a-first-time-mac-user/](https://loganmarchione.com/2022/04/impressions-from-a-first-time-mac-user/)
+ - RSS feed: https://loganmarchione.com
+ - date published: 2022-04-12 11:22:35.065316+00:00
+
+
+## Kevin Lee: The Briton who plays the bad guy in China's patriotic movies - BBC News
+ - [https://www.bbc.co.uk/news/world-asia-china-60798556](https://www.bbc.co.uk/news/world-asia-china-60798556)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2022-04-11 23:40:57.895855+00:00
+
+
+## What Is ‘Medical Gaslighting’ and How Can You Elevate Health Care - The New York Times
+ - [https://www.nytimes.com/2022/03/28/well/live/gaslighting-doctors-patients-health.html](https://www.nytimes.com/2022/03/28/well/live/gaslighting-doctors-patients-health.html)
+ - RSS feed: https://www.nytimes.com
+ - date published: 2022-04-11 21:05:12.832082+00:00
+
+
+## Taking pictures the hard way
+ - [https://blog.brixit.nl/getting-into-analog-photography/](https://blog.brixit.nl/getting-into-analog-photography/)
+ - RSS feed: https://blog.brixit.nl
+ - date published: 2022-04-11 16:42:10.749258+00:00
+
+
+## How I decided to move away from bigTech for my children and myself
+ - [https://lof.flounder.online/gemlog/2022-04-11%20How%20I%20decided%20to%20move%20away%20for%20bigTech%20for%20my%20children%20and%20myself.gmi](https://lof.flounder.online/gemlog/2022-04-11%20How%20I%20decided%20to%20move%20away%20for%20bigTech%20for%20my%20children%20and%20myself.gmi)
+ - RSS feed: https://lof.flounder.online
+ - date published: 2022-04-11 15:46:15.012602+00:00
+
+
+## My Mathematics PhD research workflow | Gilles Castel
+ - [https://castel.dev/post/research-workflow/](https://castel.dev/post/research-workflow/)
+ - RSS feed: https://castel.dev
+ - date published: 2022-04-11 14:35:08.429883+00:00
+
+
+## Here’s what happens when cops pull over a driverless Cruise vehicle - The Verge
+ - [https://www.theverge.com/2022/4/10/23019303/heres-what-happens-cops-pull-over-a-driverless-cruise-vehicle-general-motors](https://www.theverge.com/2022/4/10/23019303/heres-what-happens-cops-pull-over-a-driverless-cruise-vehicle-general-motors)
+ - RSS feed: https://www.theverge.com
+ - date published: 2022-04-11 14:31:33.070521+00:00
+
+
+## Capabilities for Nodejs
+ - [https://josephg.com/blog/node-sandbox/](https://josephg.com/blog/node-sandbox/)
+ - RSS feed: https://josephg.com
+ - date published: 2022-04-11 14:05:43.558201+00:00
+
+
+## The Joy of Small Projects - Dominick Schroer's Blog
+ - [https://schroer.ca/2022/04/10/the-joy-of-small-projects/](https://schroer.ca/2022/04/10/the-joy-of-small-projects/)
+ - RSS feed: https://schroer.ca
+ - date published: 2022-04-11 07:20:10.361441+00:00
+
+
+## YouTube Comments Discontinuation - Xe
+ - [https://xeiaso.net/blog/no-more-youtube-comments-2021-11-27](https://xeiaso.net/blog/no-more-youtube-comments-2021-11-27)
+ - RSS feed: https://xeiaso.net
+ - date published: 2022-04-08 11:46:22.784128+00:00
+
+
+## Troy Hunt: Beg Bounties
+ - [https://www.troyhunt.com/beg-bounties/](https://www.troyhunt.com/beg-bounties/)
+ - RSS feed: https://www.troyhunt.com
+ - date published: 2022-04-08 11:23:32.508595+00:00
+
+
+## Open Source Software Faces Threats of Protestware and Sabotage | WIRED
+ - [https://www.wired.com/story/open-source-sabotage-protestware/](https://www.wired.com/story/open-source-sabotage-protestware/)
+ - RSS feed: https://www.wired.com
+ - date published: 2022-04-08 09:33:30.800476+00:00
+
+
+## Prime Minister Boris Johnson says transgender women should not compete in women's sport - BBC Sport
+ - [https://www.bbc.co.uk/sport/61012030](https://www.bbc.co.uk/sport/61012030)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2022-04-08 08:00:45.591626+00:00
+
+
+## You can do a lot with an empty file
+ - [https://rachelbythebay.com/w/2022/04/06/text/](https://rachelbythebay.com/w/2022/04/06/text/)
+ - RSS feed: https://rachelbythebay.com
+ - date published: 2022-04-07 09:40:07.434362+00:00
+
+
+## Twitter Edits You
+ - [http://www.kevinmarks.com/twittereditsyou.html](http://www.kevinmarks.com/twittereditsyou.html)
+ - RSS feed: http://www.kevinmarks.com
+ - date published: 2022-04-07 07:44:17.399090+00:00
+
+
+## Go net/http.ServeMux and Trailing Slashes - Xe
+ - [https://xeiaso.net/blog/go-servemux-slash-2021-11-04](https://xeiaso.net/blog/go-servemux-slash-2021-11-04)
+ - RSS feed: https://xeiaso.net
+ - date published: 2022-04-06 23:06:57.376791+00:00
+
+
+## How I VTuber - Xe
+ - [https://xeiaso.net/blog/vtubing-setup-2022-01-13](https://xeiaso.net/blog/vtubing-setup-2022-01-13)
+ - RSS feed: https://xeiaso.net
+ - date published: 2022-04-06 22:59:43.263544+00:00
+
+
+## Site Updates: Better Contrast Ratio and Using Xeact - Xe
+ - [https://xeiaso.net/blog/site-update-2021-12-19](https://xeiaso.net/blog/site-update-2021-12-19)
+ - RSS feed: https://xeiaso.net
+ - date published: 2022-04-06 22:51:09.985088+00:00
+
+
+## GNU Doesn't Care About Your Agency - Xe
+ - [https://xeiaso.net/blog/gnu-your-parent-2022-02-10](https://xeiaso.net/blog/gnu-your-parent-2022-02-10)
+ - RSS feed: https://xeiaso.net
+ - date published: 2022-04-06 22:46:10.417171+00:00
+
+
+## Want to Learn a New Language? Write a Blog Backend! - Xe
+ - [https://xeiaso.net/blog/new-language-blog-backend-2022-03-02](https://xeiaso.net/blog/new-language-blog-backend-2022-03-02)
+ - RSS feed: https://xeiaso.net
+ - date published: 2022-04-06 22:39:06.961663+00:00
+
+
+## How I Pomodoro - Xe
+ - [https://xeiaso.net/blog/pomodoro-2022-02-19](https://xeiaso.net/blog/pomodoro-2022-02-19)
+ - RSS feed: https://xeiaso.net
+ - date published: 2022-04-06 22:23:48.985880+00:00
+
+
+## Compiling Code to Matter in My Living Room - Xe
+ - [https://xeiaso.net/blog/3d-printing-openscad-2022-03-28](https://xeiaso.net/blog/3d-printing-openscad-2022-03-28)
+ - RSS feed: https://xeiaso.net
+ - date published: 2022-04-06 22:16:02.331314+00:00
+
+
+## What To Do As A Recruiter When A Gender-diverse Person Asks You To Update Their Name - Xe
+ - [https://xeiaso.net/blog/recruiters-correct-name-2022-04-01](https://xeiaso.net/blog/recruiters-correct-name-2022-04-01)
+ - RSS feed: https://xeiaso.net
+ - date published: 2022-04-06 22:13:45.963857+00:00
+
+
+## Tailscale’s human-scale networks are still controlled by Google and Microsoft — iliana.fyi
+ - [https://iliana.fyi/blog/tailscale-auth-and-threat-modeling/#fn-username-backref](https://iliana.fyi/blog/tailscale-auth-and-threat-modeling/#fn-username-backref)
+ - RSS feed: https://iliana.fyi
+ - date published: 2022-04-06 22:06:24.955072+00:00
+
+
+## A Model for Identity in Software - Xe
+ - [https://xeiaso.net/blog/identity-model-software-2021-01-31](https://xeiaso.net/blog/identity-model-software-2021-01-31)
+ - RSS feed: https://xeiaso.net
+ - date published: 2022-04-06 22:00:52.954549+00:00
+
+
 ## Twitter is questioned over Hunter Biden laptop story censorship
  - [https://reclaimthenet.org/twitter-is-questioned-over-hunter-biden-laptop-story-censorship/](https://reclaimthenet.org/twitter-is-questioned-over-hunter-biden-laptop-story-censorship/)
  - RSS feed: https://reclaimthenet.org/twitter-is-questioned-over-hunter-biden-laptop-story-censorship/
  - date published: 2022-04-06 20:19:58+00:00
 
 
+## GitHub can now auto-block commits containing API keys, auth tokens
+ - [https://www.bleepingcomputer.com/news/security/github-can-now-auto-block-commits-containing-api-keys-auth-tokens/](https://www.bleepingcomputer.com/news/security/github-can-now-auto-block-commits-containing-api-keys-auth-tokens/)
+ - RSS feed: https://www.bleepingcomputer.com
+ - date published: 2022-04-06 15:55:37.425326+00:00
+
+
+## Breaking PCBs for Science - News - SparkFun Electronics
+ - [https://www.sparkfun.com/news/4400](https://www.sparkfun.com/news/4400)
+ - RSS feed: https://www.sparkfun.com
+ - date published: 2022-04-06 15:41:04.145044+00:00
+
+
+## How an Ivy League School Turned Against a Student | The New Yorker
+ - [https://www.newyorker.com/magazine/2022/04/04/mackenzie-fierceton-rhodes-scholarship-university-of-pennsylvania](https://www.newyorker.com/magazine/2022/04/04/mackenzie-fierceton-rhodes-scholarship-university-of-pennsylvania)
+ - RSS feed: https://www.newyorker.com
+ - date published: 2022-04-06 11:58:22.541819+00:00
+
+
+## Dallas Got Rick Rolled With a Giant QR Code on April Fools Day | Dallas Observer
+ - [https://www.dallasobserver.com/music/dallas-got-rick-rolled-with-a-giant-qr-code-on-april-fools-day-13716928](https://www.dallasobserver.com/music/dallas-got-rick-rolled-with-a-giant-qr-code-on-april-fools-day-13716928)
+ - RSS feed: https://www.dallasobserver.com
+ - date published: 2022-04-06 07:23:59.055765+00:00
+
+
+## TikTok doesn't show the war in Ukraine to Russian users – Oslo og Viken
+ - [https://www.nrk.no/osloogviken/xl/tiktok-doesn_t-show-the-war-in-ukraine-to-russian-users-1.15921522](https://www.nrk.no/osloogviken/xl/tiktok-doesn_t-show-the-war-in-ukraine-to-russian-users-1.15921522)
+ - RSS feed: https://www.nrk.no
+ - date published: 2022-04-06 07:10:36.385370+00:00
+
+
+## A Tale of Yak Shaving: Accidentally Making a Language, for an Engine, for a Game
+ - [https://verdagon.dev/blog/yak-shave-language-engine-game](https://verdagon.dev/blog/yak-shave-language-engine-game)
+ - RSS feed: https://verdagon.dev
+ - date published: 2022-04-05 11:38:52.643209+00:00
+
+
+## Exit Interviews Are a Trap - Jacob Kaplan-Moss
+ - [https://jacobian.org/2022/apr/4/exit-interviews-are-a-trap/](https://jacobian.org/2022/apr/4/exit-interviews-are-a-trap/)
+ - RSS feed: https://jacobian.org
+ - date published: 2022-04-05 06:51:36.496612+00:00
+
+
+## Conversion therapy ban: Over 80 LGBT groups quit government conference - BBC News
+ - [https://www.bbc.co.uk/news/uk-60988210](https://www.bbc.co.uk/news/uk-60988210)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2022-04-04 16:36:36.104621+00:00
+
+
+## The Squeaky Blog | Why we don’t use a staging environment
+ - [https://squeaky.ai/blog/development/why-we-dont-use-a-staging-environment](https://squeaky.ai/blog/development/why-we-dont-use-a-staging-environment)
+ - RSS feed: https://squeaky.ai
+ - date published: 2022-04-04 07:39:02.146571+00:00
+
+
+## Chris's Wiki :: blog/programming/GoOnIdentifierVisibility
+ - [https://utcc.utoronto.ca/~cks/space/blog/programming/GoOnIdentifierVisibility](https://utcc.utoronto.ca/~cks/space/blog/programming/GoOnIdentifierVisibility)
+ - RSS feed: https://utcc.utoronto.ca
+ - date published: 2022-04-02 22:17:08.617713+00:00
+
+
+## The story behind creepy-as-hell ‘milk bath’ flyers
+ - [https://nypost.com/2017/12/22/the-story-behind-creepy-as-hell-milk-bath-flyers/](https://nypost.com/2017/12/22/the-story-behind-creepy-as-hell-milk-bath-flyers/)
+ - RSS feed: https://nypost.com
+ - date published: 2022-04-02 15:56:01.955793+00:00
+
+
+## Yet Another GitHub Profile Generator - House Absolute(ly Pointless)
+ - [https://blog.urth.org/2022/03/28/yet-another-github-profile-generator/](https://blog.urth.org/2022/03/28/yet-another-github-profile-generator/)
+ - RSS feed: https://blog.urth.org
+ - date published: 2022-04-02 14:39:24.385831+00:00
+
+
+## A database for 2022 · Tailscale
+ - [https://tailscale.com/blog/database-for-2022/](https://tailscale.com/blog/database-for-2022/)
+ - RSS feed: https://tailscale.com
+ - date published: 2022-04-02 11:12:01.019631+00:00
+
+
+## Twitter user sentenced to 150 hours of community service in UK for posting ‘offensive’ tweet - The Verge
+ - [https://www.theverge.com/2022/3/31/23004339/uk-twitter-user-sentenced-grossly-offensive-tweet-tom-moore-joseph-kelly](https://www.theverge.com/2022/3/31/23004339/uk-twitter-user-sentenced-grossly-offensive-tweet-tom-moore-joseph-kelly)
+ - RSS feed: https://www.theverge.com
+ - date published: 2022-04-02 08:09:30.108971+00:00
+
+
+## A few things to know before stealing my 914 - Hagerty Media
+ - [https://www.hagerty.com/media/advice/a-few-things-to-know-before-you-steal-my-914/](https://www.hagerty.com/media/advice/a-few-things-to-know-before-you-steal-my-914/)
+ - RSS feed: https://www.hagerty.com
+ - date published: 2022-04-02 08:03:55.847638+00:00
+
+
+## SerenityOS: A remarkable achievement for a small project • The Register
+ - [https://www.theregister.com/2022/03/31/serenityos/](https://www.theregister.com/2022/03/31/serenityos/)
+ - RSS feed: https://www.theregister.com
+ - date published: 2022-04-01 08:49:41.367198+00:00
+
+
+## How Go Mitigates Supply Chain Attacks - The Go Programming Language
+ - [https://go.dev/blog/supply-chain](https://go.dev/blog/supply-chain)
+ - RSS feed: https://go.dev
+ - date published: 2022-04-01 07:06:22.053671+00:00
+
+
 ## Overpopulation and the Mouse Metaverse
  - [https://notrelated.xyz/audio/s02/S02E07_-_Overpopulation_and_the_Mouse_Metaverse.ogg](https://notrelated.xyz/audio/s02/S02E07_-_Overpopulation_and_the_Mouse_Metaverse.ogg)
  - RSS feed: https://notrelated.xyz/rss
  - date published: 2022-03-31 04:00:00+00:00
+
+
+## ‘Really alarming’: the rise of smart cameras used to catch maskless students in US schools | Surveillance | The Guardian
+ - [https://www.theguardian.com/world/2022/mar/30/smart-cameras-us-schools-artificial-intelligence](https://www.theguardian.com/world/2022/mar/30/smart-cameras-us-schools-artificial-intelligence)
+ - RSS feed: https://www.theguardian.com
+ - date published: 2022-03-30 21:58:09.319789+00:00
+
+
+## Emily Bridges: Transgender cyclist will not race in women's National Omnium event - BBC Sport
+ - [https://www.bbc.co.uk/sport/cycling/60934099](https://www.bbc.co.uk/sport/cycling/60934099)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2022-03-30 21:30:31.571183+00:00
 
 
 ## Why Modern Movies Suck - Modern Actors
@@ -8602,11 +11258,137 @@
  - tags: hollywood,movies
 
 
+## I wasted $40k on a fantastic startup idea - by Tom - TJCX
+ - [https://blog.tjcx.me/p/40k-fantastic-startup-idea?s=r](https://blog.tjcx.me/p/40k-fantastic-startup-idea?s=r)
+ - RSS feed: https://blog.tjcx.me
+ - date published: 2022-03-29 06:27:03.403375+00:00
+
+
+## The ghost junction | Roads.org.uk
+ - [https://www.roads.org.uk/blog/ghost-junction](https://www.roads.org.uk/blog/ghost-junction)
+ - RSS feed: https://www.roads.org.uk
+ - date published: 2022-03-28 18:11:11.394693+00:00
+
+
+## Google destroyed my Google Play Developer Account and my work for the last 2 years. | by Andrei Savchuk | Mar, 2022 | Dev Genius
+ - [https://blog.devgenius.io/google-destroyed-my-google-play-developer-account-and-my-work-for-the-last-2-years-c4aa5034a221](https://blog.devgenius.io/google-destroyed-my-google-play-developer-account-and-my-work-for-the-last-2-years-c4aa5034a221)
+ - RSS feed: https://blog.devgenius.io
+ - date published: 2022-03-27 11:00:25.822831+00:00
+
+
+## Mourning Loss of a Team Member as a Remote Team
+ - [https://www.sofuckingagile.com/blog/mourning-loss-as-a-remote-team](https://www.sofuckingagile.com/blog/mourning-loss-as-a-remote-team)
+ - RSS feed: https://www.sofuckingagile.com
+ - date published: 2022-03-27 09:43:30.996485+00:00
+
+
+## Saving time in UTC doesn't work and offsets aren't enough | Swizec Teller
+ - [https://swizec.com/blog/saving-time-in-utc-doesnt-work-and-offsets-arent-enough/](https://swizec.com/blog/saving-time-in-utc-doesnt-work-and-offsets-arent-enough/)
+ - RSS feed: https://swizec.com
+ - date published: 2022-03-26 18:58:02.396994+00:00
+
+
+## Implementing a toy version of TLS 1.3
+ - [https://jvns.ca/blog/2022/03/23/a-toy-version-of-tls/](https://jvns.ca/blog/2022/03/23/a-toy-version-of-tls/)
+ - RSS feed: https://jvns.ca
+ - date published: 2022-03-25 15:37:24.184094+00:00
+
+
+## Laptop art: From Vans to Harry Styles - BBC News
+ - [https://www.bbc.co.uk/news/in-pictures-60592677](https://www.bbc.co.uk/news/in-pictures-60592677)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2022-03-25 08:16:28.780409+00:00
+
+
+## An email urging lower wages for new employees due to higher gas prices sparks walkout at Lawrence Applebee’s | News, Sports, Jobs - Lawrence Journal-World: news, information, headlines and events in Lawrence, Kansas
+ - [https://www2.ljworld.com/news/general-news/2022/mar/23/an-email-urging-lower-wages-for-new-employees-due-to-higher-gas-prices-sparks-walkout-at-lawrence-applebees/](https://www2.ljworld.com/news/general-news/2022/mar/23/an-email-urging-lower-wages-for-new-employees-due-to-higher-gas-prices-sparks-walkout-at-lawrence-applebees/)
+ - RSS feed: https://www2.ljworld.com
+ - date published: 2022-03-25 06:50:22.851533+00:00
+
+
+## Leaked opinion of the Commission sets off alarm bells for mass surveillance of private communications - European Digital Rights (EDRi)
+ - [https://edri.org/our-work/leaked-opinion-of-the-commission-sets-off-alarm-bells-for-mass-surveillance-of-private-communications/](https://edri.org/our-work/leaked-opinion-of-the-commission-sets-off-alarm-bells-for-mass-surveillance-of-private-communications/)
+ - RSS feed: https://edri.org
+ - date published: 2022-03-24 17:08:26.649240+00:00
+
+
+## “Protestware”: A Slippery Slope | codeshaunted
+ - [https://codeshaunted.com/2022/03/23/protestware-a-slippery-slope.html](https://codeshaunted.com/2022/03/23/protestware-a-slippery-slope.html)
+ - RSS feed: https://codeshaunted.com
+ - date published: 2022-03-24 16:54:58.501165+00:00
+
+
+## But life had other plans ...
+ - [https://danlebrero.com/2022/03/23/but-life-had-other-plans/](https://danlebrero.com/2022/03/23/but-life-had-other-plans/)
+ - RSS feed: https://danlebrero.com
+ - date published: 2022-03-24 06:54:53.009417+00:00
+
+
+## Why You Should Start Self Hosting | Rohan Deshmukh
+ - [https://rohanrd.xyz/posts/why-you-should-start-self-hosting/](https://rohanrd.xyz/posts/why-you-should-start-self-hosting/)
+ - RSS feed: https://rohanrd.xyz
+ - date published: 2022-03-24 06:52:25.054150+00:00
+
+
+## Lia Thomas: Florida governor Ron DeSantis refuses to recognise Thomas win - BBC Sport
+ - [https://www.bbc.co.uk/sport/swimming/60842863](https://www.bbc.co.uk/sport/swimming/60842863)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2022-03-23 08:26:12.295212+00:00
+
+
+## Mercedes Drive Pilot Beats Tesla Autopilot By Taking Legal Responsibility
+ - [https://www.roadandtrack.com/news/a39481699/what-happens-if-mercedes-drivepilot-causes-a-crash/](https://www.roadandtrack.com/news/a39481699/what-happens-if-mercedes-drivepilot-causes-a-crash/)
+ - RSS feed: https://www.roadandtrack.com
+ - date published: 2022-03-23 06:58:38.346276+00:00
+
+
+## The New Filter Mandate Bill Is An Unmitigated Disaster | Electronic Frontier Foundation
+ - [https://www.eff.org/deeplinks/2022/03/new-filter-mandate-bill-unmitigated-disaster](https://www.eff.org/deeplinks/2022/03/new-filter-mandate-bill-unmitigated-disaster)
+ - RSS feed: https://www.eff.org
+ - date published: 2022-03-22 23:14:22.407165+00:00
+
+
 ## Invasion of the Fact-Checkers
  - [https://www.tabletmag.com/sections/news/articles/invasion-fact-checkers](https://www.tabletmag.com/sections/news/articles/invasion-fact-checkers)
  - RSS feed: https://www.tabletmag.com
  - date published: 2022-03-22 13:54:27+00:00
  - tags: fact-check,misinformation,free speech,censorship
+
+
+## His software sang the words of God. Then it went silent.
+ - [https://www.inputmag.com/features/tropetrainer-thomas-buchler-torah-software](https://www.inputmag.com/features/tropetrainer-thomas-buchler-torah-software)
+ - RSS feed: https://www.inputmag.com
+ - date published: 2022-03-21 23:10:37.750246+00:00
+
+
+## Lily, the Immortal - Uncanny Magazine
+ - [https://uncannymagazine.com/article/lily-the-immortal/](https://uncannymagazine.com/article/lily-the-immortal/)
+ - RSS feed: https://uncannymagazine.com
+ - date published: 2022-03-21 16:48:15.985438+00:00
+
+
+## Windows Needs a Change in Priorities | Den Delimarsky
+ - [https://den.dev/blog/windows-priority-shuffle/](https://den.dev/blog/windows-priority-shuffle/)
+ - RSS feed: https://den.dev
+ - date published: 2022-03-21 08:33:15.548731+00:00
+
+
+## Please put units in names
+ - [https://ruudvanasseldonk.com/2022/03/20/please-put-units-in-names](https://ruudvanasseldonk.com/2022/03/20/please-put-units-in-names)
+ - RSS feed: https://ruudvanasseldonk.com
+ - date published: 2022-03-21 06:51:32.133743+00:00
+
+
+## What Web Frameworks Solve And How To Do Without Them (Part 1) — Smashing Magazine
+ - [https://www.smashingmagazine.com/2022/01/web-frameworks-guide-part1/](https://www.smashingmagazine.com/2022/01/web-frameworks-guide-part1/)
+ - RSS feed: https://www.smashingmagazine.com
+ - date published: 2022-03-20 17:14:56.790546+00:00
+
+
+## My one-way ticket out of Moscow | The Spectator
+ - [https://www.spectator.co.uk/article/my-oneway-ticket-out-of-moscow](https://www.spectator.co.uk/article/my-oneway-ticket-out-of-moscow)
+ - RSS feed: https://www.spectator.co.uk
+ - date published: 2022-03-20 10:12:26.347878+00:00
 
 
 ## Web3.0: A Libertarian Dystopia
@@ -8628,16 +11410,112 @@
  - date published: 2022-03-19 20:15:46+00:00
 
 
+## The British government reportedly asked when Microsoft would 'get rid' of algorithms | Windows Central
+ - [https://www.windowscentral.com/british-government-reported-asked-when-microsoft-would-get-rid-algorithms](https://www.windowscentral.com/british-government-reported-asked-when-microsoft-would-get-rid-algorithms)
+ - RSS feed: https://www.windowscentral.com
+ - date published: 2022-03-19 16:34:31.762842+00:00
+
+
+## Amazon intentionally made it difficult to cancel Prime subscription in secret project | The Independent
+ - [https://www.independent.co.uk/tech/amazon-prime-subscription-cancel-secret-project-b2038207.html](https://www.independent.co.uk/tech/amazon-prime-subscription-cancel-secret-project-b2038207.html)
+ - RSS feed: https://www.independent.co.uk
+ - date published: 2022-03-19 07:08:29.863295+00:00
+
+
+## Court says non-open 'open source' code is false advertising • The Register
+ - [https://www.theregister.com/2022/03/17/court_open_source/](https://www.theregister.com/2022/03/17/court_open_source/)
+ - RSS feed: https://www.theregister.com
+ - date published: 2022-03-18 20:49:15.144273+00:00
+
+
+## Even More Minor Features in Go 1.18 · The Ethically-Trained Programmer
+ - [https://blog.carlmjohnson.net/post/2022/golang-118-even-more-minor-features/](https://blog.carlmjohnson.net/post/2022/golang-118-even-more-minor-features/)
+ - RSS feed: https://blog.carlmjohnson.net
+ - date published: 2022-03-18 19:33:39.457933+00:00
+
+
+## Each Firefox download has a unique identifier - gHacks Tech News
+ - [https://www.ghacks.net/2022/03/17/each-firefox-download-has-a-unique-identifier/](https://www.ghacks.net/2022/03/17/each-firefox-download-has-a-unique-identifier/)
+ - RSS feed: https://www.ghacks.net
+ - date published: 2022-03-18 07:48:20.123632+00:00
+
+
+## UK introduces exhaustive Online Safety Bill - BBC News
+ - [https://www.bbc.co.uk/news/technology-60750463](https://www.bbc.co.uk/news/technology-60750463)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2022-03-17 08:38:03.562979+00:00
+
+
+## The three-minute rule: the scientific way to tackle your most-hated chores | Life and style | The Guardian
+ - [https://www.theguardian.com/lifeandstyle/2022/mar/14/three-minute-rule-scientific-way-tackle-most-hated-chores](https://www.theguardian.com/lifeandstyle/2022/mar/14/three-minute-rule-scientific-way-tackle-most-hated-chores)
+ - RSS feed: https://www.theguardian.com
+ - date published: 2022-03-15 22:25:36.638604+00:00
+
+
 ## Why everyone should be concerned about Ontario’s critical race theory bill
  - [https://tnc.news/2022/03/15/why-everyone-should-be-concerned-about-ontarios-critical-race-theory-bill/](https://tnc.news/2022/03/15/why-everyone-should-be-concerned-about-ontarios-critical-race-theory-bill/)
  - RSS feed: https://tnc.news/2022/03/15/why-everyone-should-be-concerned-about-ontarios-critical-race-theory-bill/
  - date published: 2022-03-15 17:27:20+00:00
 
 
+## Microsoft is testing ads in the Windows 11 File Explorer
+ - [https://www.bleepingcomputer.com/news/microsoft/microsoft-is-testing-ads-in-the-windows-11-file-explorer/](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-testing-ads-in-the-windows-11-file-explorer/)
+ - RSS feed: https://www.bleepingcomputer.com
+ - date published: 2022-03-15 06:51:23.872351+00:00
+
+
+## Medical student surgically implants Bluetooth device into own ear to cheat in final exam | The Independent
+ - [https://www.independent.co.uk/asia/india/mbbs-student-bluetooth-cheating-bhopal-b2021217.html](https://www.independent.co.uk/asia/india/mbbs-student-bluetooth-cheating-bhopal-b2021217.html)
+ - RSS feed: https://www.independent.co.uk
+ - date published: 2022-03-15 06:47:32.011242+00:00
+
+
+## Putin changes law on leased jets to keep them flying - BBC News
+ - [https://www.bbc.co.uk/news/business-60741161](https://www.bbc.co.uk/news/business-60741161)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2022-03-14 22:29:48.256650+00:00
+
+
+## Ukraine war: Protester interrupts Russian TV news show - BBC News
+ - [https://www.bbc.co.uk/news/world-europe-60744605](https://www.bbc.co.uk/news/world-europe-60744605)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2022-03-14 22:26:23.614075+00:00
+
+
 ## Ontario “on the verge of enforcing Critical Race Theory in all schools”
  - [https://www.todayville.com/ontario-on-the-verge-of-enforcing-critical-race-theory-in-all-schools/](https://www.todayville.com/ontario-on-the-verge-of-enforcing-critical-race-theory-in-all-schools/)
  - RSS feed: https://www.todayville.com/ontario-on-the-verge-of-enforcing-critical-race-theory-in-all-schools/
  - date published: 2022-03-14 17:25:00+00:00
+
+
+## Transgender children: Texas plan to probe parents halted - BBC News
+ - [https://www.bbc.co.uk/news/world-us-canada-60710227](https://www.bbc.co.uk/news/world-us-canada-60710227)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2022-03-12 08:55:41.366816+00:00
+
+
+## You Don’t Really Ever Own an EV – Review Geek
+ - [https://www.reviewgeek.com/111381/you-dont-really-ever-own-an-ev/](https://www.reviewgeek.com/111381/you-dont-really-ever-own-an-ev/)
+ - RSS feed: https://www.reviewgeek.com
+ - date published: 2022-03-12 08:47:24.909762+00:00
+
+
+## Twitter makes it harder to choose the old reverse-chronological feed - The Verge
+ - [https://www.theverge.com/2022/3/10/22971307/twitter-home-timeline-algorithmic-reverse-chronological-feed](https://www.theverge.com/2022/3/10/22971307/twitter-home-timeline-algorithmic-reverse-chronological-feed)
+ - RSS feed: https://www.theverge.com
+ - date published: 2022-03-12 08:43:14.085687+00:00
+
+
+## Azure moves ahead of AWS in cloud adoption – report • The Register
+ - [https://www.theregister.com/2022/03/09/state_of_cloud_survey/](https://www.theregister.com/2022/03/09/state_of_cloud_survey/)
+ - RSS feed: https://www.theregister.com
+ - date published: 2022-03-11 15:11:33.626072+00:00
+
+
+## JetBrains’ Statement on Ukraine | JetBrains News
+ - [https://blog.jetbrains.com/blog/2022/03/11/jetbrains-statement-on-ukraine/](https://blog.jetbrains.com/blog/2022/03/11/jetbrains-statement-on-ukraine/)
+ - RSS feed: https://blog.jetbrains.com
+ - date published: 2022-03-11 15:09:26.990405+00:00
 
 
 ## Why Modern Movies Suck - They Teach Us Awful Lessons
@@ -8647,10 +11525,178 @@
  - tags: hollywood,movies
 
 
+## How to use undocumented web APIs
+ - [https://jvns.ca/blog/2022/03/10/how-to-use-undocumented-web-apis/](https://jvns.ca/blog/2022/03/10/how-to-use-undocumented-web-apis/)
+ - RSS feed: https://jvns.ca
+ - date published: 2022-03-11 07:17:52.935061+00:00
+
+
+## Toll signs on 101 report your transponder setting
+ - [http://rachelbythebay.com/w/2022/03/09/toll/](http://rachelbythebay.com/w/2022/03/09/toll/)
+ - RSS feed: http://rachelbythebay.com
+ - date published: 2022-03-11 06:53:58.786240+00:00
+
+
+## elementary OS is imploding - by Bryan Lunduke
+ - [https://lunduke.substack.com/p/elementary-os-is-imploding?s=r](https://lunduke.substack.com/p/elementary-os-is-imploding?s=r)
+ - RSS feed: https://lunduke.substack.com
+ - date published: 2022-03-10 07:22:02.693680+00:00
+
+
+## The day Steve Jobs dissed me in a keynote | Derek Sivers
+ - [https://sive.rs/itunes](https://sive.rs/itunes)
+ - RSS feed: https://sive.rs
+ - date published: 2022-03-10 06:54:22.261578+00:00
+
+
+## Some tiny personal programs I've written
+ - [https://jvns.ca/blog/2022/03/08/tiny-programs/](https://jvns.ca/blog/2022/03/08/tiny-programs/)
+ - RSS feed: https://jvns.ca
+ - date published: 2022-03-10 06:46:59.909924+00:00
+
+
+## Cloudflare refuses to pull out of Russia, says Putin would celebrate shutoff | Ars Technica
+ - [https://arstechnica.com/tech-policy/2022/03/cloudflare-wont-cut-off-russia-says-it-needs-more-internet-access-not-less/](https://arstechnica.com/tech-policy/2022/03/cloudflare-wont-cut-off-russia-says-it-needs-more-internet-access-not-less/)
+ - RSS feed: https://arstechnica.com
+ - date published: 2022-03-09 23:18:34.363900+00:00
+
+
+## At long last: Apple will sell a desktop monitor that doesn’t cost $5,000 | Ars Technica
+ - [https://arstechnica.com/gadgets/2022/03/at-long-last-apple-will-sell-a-desktop-monitor-that-doesnt-cost-5000/](https://arstechnica.com/gadgets/2022/03/at-long-last-apple-will-sell-a-desktop-monitor-that-doesnt-cost-5000/)
+ - RSS feed: https://arstechnica.com
+ - date published: 2022-03-09 22:49:51.653246+00:00
+
+
+## VW unveils adorable electric ID. Buzz, US sales begin in 2024 | Ars Technica
+ - [https://arstechnica.com/cars/2022/03/vw-unveils-adorable-electric-id-buzz-us-sales-begin-2024/](https://arstechnica.com/cars/2022/03/vw-unveils-adorable-electric-id-buzz-us-sales-begin-2024/)
+ - RSS feed: https://arstechnica.com
+ - date published: 2022-03-09 22:47:36.684560+00:00
+
+
+## Leaked Nvidia Code-Signing Certificate Now Being Used by Malware | Abi's Hardware
+ - [https://www.tomshardware.com/news/nvidia-driver-code-signing-malware](https://www.tomshardware.com/news/nvidia-driver-code-signing-malware)
+ - RSS feed: https://www.tomshardware.com
+ - date published: 2022-03-08 19:28:12.461595+00:00
+
+
+## My lizard brain is no match for infinite scroll · Caffeinspiration
+ - [https://alexanderell.is/posts/infinite-scroll/](https://alexanderell.is/posts/infinite-scroll/)
+ - RSS feed: https://alexanderell.is
+ - date published: 2022-03-07 08:35:10.444865+00:00
+
+
+## No, "Open Source" does not mean "Includes Free Support"
+ - [https://raccoon.onyxbits.de/blog/bugreport-free-support/](https://raccoon.onyxbits.de/blog/bugreport-free-support/)
+ - RSS feed: https://raccoon.onyxbits.de
+ - date published: 2022-03-06 14:48:03.429207+00:00
+
+
+## A new year, a new MDN - Mozilla Hacks - the Web developer blog
+ - [https://hacks.mozilla.org/2022/03/a-new-year-a-new-mdn/](https://hacks.mozilla.org/2022/03/a-new-year-a-new-mdn/)
+ - RSS feed: https://hacks.mozilla.org
+ - date published: 2022-03-05 16:07:56.513123+00:00
+
+
+## Sky News team's harrowing account of their violent ambush in Ukraine this week | World News | Sky News
+ - [https://news.sky.com/story/sky-news-teams-harrowing-account-of-their-violent-ambush-in-ukraine-this-week-12557585](https://news.sky.com/story/sky-news-teams-harrowing-account-of-their-violent-ambush-in-ukraine-this-week-12557585)
+ - RSS feed: https://news.sky.com
+ - date published: 2022-03-05 09:47:55.500514+00:00
+
+
+## Cybercriminals who breached Nvidia issue one of the most unusual demands ever | Ars Technica
+ - [https://arstechnica.com/information-technology/2022/03/cybercriminals-who-breached-nvidia-issue-one-of-the-most-unusual-demands-ever/](https://arstechnica.com/information-technology/2022/03/cybercriminals-who-breached-nvidia-issue-one-of-the-most-unusual-demands-ever/)
+ - RSS feed: https://arstechnica.com
+ - date published: 2022-03-05 09:11:10.908710+00:00
+
+
+## Texas Parents of Transgender Teen Win Legal Victory - WSJ
+ - [https://www.wsj.com/articles/texas-parents-of-transgender-teen-win-legal-victory-11646270616](https://www.wsj.com/articles/texas-parents-of-transgender-teen-win-legal-victory-11646270616)
+ - RSS feed: https://www.wsj.com
+ - date published: 2022-03-04 21:02:29.658400+00:00
+
+
+## using www-authenticate for user authentication
+ - [https://saucecode.bar/posts/06-using-www-authenticate.html](https://saucecode.bar/posts/06-using-www-authenticate.html)
+ - RSS feed: https://saucecode.bar
+ - date published: 2022-03-04 16:35:04.826216+00:00
+
+
+## Wartime Is a Bad Time To Mess With the Internet | Electronic Frontier Foundation
+ - [https://www.eff.org/deeplinks/2022/03/wartime-bad-time-mess-internet](https://www.eff.org/deeplinks/2022/03/wartime-bad-time-mess-internet)
+ - RSS feed: https://www.eff.org
+ - date published: 2022-03-04 16:21:54.087975+00:00
+
+
+## Don’t use the Unlicense, an inferior license with an atrocious name - an article by Chris Morgan
+ - [https://chrismorgan.info/blog/unlicense/](https://chrismorgan.info/blog/unlicense/)
+ - RSS feed: https://chrismorgan.info
+ - date published: 2022-03-04 16:12:39.453687+00:00
+
+
+## ICANN's rejection of Ukraine's request to sever Russia from the internet [pdf] | Hacker News
+ - [https://news.ycombinator.com/item?id=30540188](https://news.ycombinator.com/item?id=30540188)
+ - RSS feed: https://news.ycombinator.com
+ - date published: 2022-03-04 06:56:57.292686+00:00
+
+
 ## The Economy Is Fake, the Jobs Are Fake, the Money Is Fake
  - [https://notrelated.xyz/audio/s02/S02E06_-_The_Economy_is_Fake_the_Jobs_are_Fake_the_Money_is_Fake.ogg](https://notrelated.xyz/audio/s02/S02E06_-_The_Economy_is_Fake_the_Jobs_are_Fake_the_Money_is_Fake.ogg)
  - RSS feed: https://notrelated.xyz/rss
  - date published: 2022-03-04 05:00:00+00:00
+
+
+## SPAs were a mistake | Go Make Things
+ - [https://gomakethings.com/spas-were-a-mistake/](https://gomakethings.com/spas-were-a-mistake/)
+ - RSS feed: https://gomakethings.com
+ - date published: 2022-03-03 06:45:26.211654+00:00
+
+
+## Better mental health found among transgender people who started hormones as teens | News Center | Stanford Medicine
+ - [https://med.stanford.edu/news/all-news/2022/01/mental-health-hormone-treatment-transgender-people.html](https://med.stanford.edu/news/all-news/2022/01/mental-health-hormone-treatment-transgender-people.html)
+ - RSS feed: https://med.stanford.edu
+ - date published: 2022-03-02 21:35:04.955169+00:00
+
+
+## Jobfished: the con that tricked dozens into working for a fake design agency - BBC News
+ - [https://www.bbc.co.uk/news/uk-60387324](https://www.bbc.co.uk/news/uk-60387324)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2022-03-02 18:32:47.281569+00:00
+
+
+## Tell HN: If You Are in Russia | Hacker News
+ - [https://news.ycombinator.com/item?id=30508314](https://news.ycombinator.com/item?id=30508314)
+ - RSS feed: https://news.ycombinator.com
+ - date published: 2022-03-02 07:03:08.241393+00:00
+
+
+## How to take credit for someone else's work on GitHub
+ - [https://repography.com/blog/how-to-take-credit-for-someone-elses-work-on-github](https://repography.com/blog/how-to-take-credit-for-someone-elses-work-on-github)
+ - RSS feed: https://repography.com
+ - date published: 2022-03-01 07:19:49.124750+00:00
+
+
+## Storms with female names are not ‘more deadly’ because people underestimate them - Full Fact
+ - [https://fullfact.org/news/storms-are-not-sexist/](https://fullfact.org/news/storms-are-not-sexist/)
+ - RSS feed: https://fullfact.org
+ - date published: 2022-02-28 17:15:19.477731+00:00
+
+
+## On Regular Expressions · @radekmie’s take on IT and stuff
+ - [https://radekmie.github.io/blog/on-regular-expressions/#binary-number](https://radekmie.github.io/blog/on-regular-expressions/#binary-number)
+ - RSS feed: https://radekmie.github.io
+ - date published: 2022-02-28 17:13:23.214389+00:00
+
+
+## 1.7 million Hondas are being investigated for phantom braking | Ars Technica
+ - [https://arstechnica.com/cars/2022/02/nhtsa-to-investigate-honda-accords-and-cr-vs-over-phantom-braking/](https://arstechnica.com/cars/2022/02/nhtsa-to-investigate-honda-accords-and-cr-vs-over-phantom-braking/)
+ - RSS feed: https://arstechnica.com
+ - date published: 2022-02-26 19:51:20.654237+00:00
+
+
+## Miscellanea: Understanding the War in Ukraine – A Collection of Unmitigated Pedantry
+ - [https://acoup.blog/2022/02/25/miscellanea-understanding-the-war-in-ukraine/](https://acoup.blog/2022/02/25/miscellanea-understanding-the-war-in-ukraine/)
+ - RSS feed: https://acoup.blog
+ - date published: 2022-02-26 10:38:10.042734+00:00
 
 
 ## What Went Wrong With the World Wide Web?
@@ -8659,11 +11705,47 @@
  - date published: 2022-02-25 20:34:12+00:00
 
 
+## Ukraine war flashes neon warning lights for chips | Reuters
+ - [https://www.reuters.com/breakingviews/ukraine-war-flashes-neon-warning-lights-chips-2022-02-24/](https://www.reuters.com/breakingviews/ukraine-war-flashes-neon-warning-lights-chips-2022-02-24/)
+ - RSS feed: https://www.reuters.com
+ - date published: 2022-02-25 07:51:19.738463+00:00
+
+
 ## I HATE CELL PHONES! (aka the antichrist)
  - [https://www.youtube.com/watch?v=7ayg4shWKkw](https://www.youtube.com/watch?v=7ayg4shWKkw)
  - RSS feed: https://www.youtube.com/@LukeSmithxyz
  - date published: 2022-02-24 20:32:23+00:00
  - tags: smartphone
+
+
+## Why I will never buy another Samsung device | by Juhani Lehtimäki | Feb, 2022 | Medium
+ - [https://lehtimaeki.medium.com/why-i-will-never-by-another-samsung-device-2237a40002a6](https://lehtimaeki.medium.com/why-i-will-never-by-another-samsung-device-2237a40002a6)
+ - RSS feed: https://lehtimaeki.medium.com
+ - date published: 2022-02-23 22:38:16.283429+00:00
+
+
+## MEMEX - I have no capslock and I must scream [ 2022-02-21 ]
+ - [https://memex.marginalia.nu/log/48-i-have-no-capslock.gmi](https://memex.marginalia.nu/log/48-i-have-no-capslock.gmi)
+ - RSS feed: https://memex.marginalia.nu
+ - date published: 2022-02-22 07:13:43.648959+00:00
+
+
+## r00695363 current alevelsb_p2_ex9mix
+ - [https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Factiveteach-prod.resource.pearson-intl.com%2Fr00%2Fr0069%2Fr006953%2Fr00695363%2Fcurrent%2Falevelsb_p2_ex9mix.pdf](https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Factiveteach-prod.resource.pearson-intl.com%2Fr00%2Fr0069%2Fr006953%2Fr00695363%2Fcurrent%2Falevelsb_p2_ex9mix.pdf)
+ - RSS feed: https://www.physicsandmathstutor.com
+ - date published: 2022-02-21 20:57:18.762432+00:00
+
+
+## Things that used to be hard and are now easy
+ - [https://jvns.ca/blog/2022/02/20/things-that-used-to-be-hard-and-are-now-easy/](https://jvns.ca/blog/2022/02/20/things-that-used-to-be-hard-and-are-now-easy/)
+ - RSS feed: https://jvns.ca
+ - date published: 2022-02-21 15:10:33.971827+00:00
+
+
+## Be anonymous
+ - [https://kg.dev/thoughts/be-anonymous](https://kg.dev/thoughts/be-anonymous)
+ - RSS feed: https://kg.dev
+ - date published: 2022-02-21 08:25:50.913362+00:00
 
 
 ## Kanada: W Kanadzie policja tratuje ludzi, a „wolny świat” milczy! Dlaczego?
@@ -8700,6 +11782,60 @@
  - tags: always online,windows 11
 
 
+## The United States of Amazon: The Day Amazon Sent the FBI to Take My Family’s Bank Accounts | by Amy Nelson | Feb, 2022 | Medium
+ - [https://medium.com/@amy_riveter/the-united-states-of-amazon-the-day-amazon-sent-the-fbi-to-take-my-familys-bank-accounts-b5172b4ddda3](https://medium.com/@amy_riveter/the-united-states-of-amazon-the-day-amazon-sent-the-fbi-to-take-my-familys-bank-accounts-b5172b4ddda3)
+ - RSS feed: https://medium.com
+ - date published: 2022-02-18 17:57:07.588420+00:00
+
+
+## Young People Are Having Less Sex - The Atlantic
+ - [https://www.theatlantic.com/magazine/archive/2018/12/the-sex-recession/573949/](https://www.theatlantic.com/magazine/archive/2018/12/the-sex-recession/573949/)
+ - RSS feed: https://www.theatlantic.com
+ - date published: 2022-02-18 17:13:45.878789+00:00
+
+
+## The Unreasonable Math of Type 1 Diabetes | by Graham Jenson | Feb, 2022 | Maori Geek
+ - [https://maori.geek.nz/the-unreasonable-math-of-type-1-diabetes-8c96bdf5b7fb](https://maori.geek.nz/the-unreasonable-math-of-type-1-diabetes-8c96bdf5b7fb)
+ - RSS feed: https://maori.geek.nz
+ - date published: 2022-02-18 15:03:13.551609+00:00
+
+
+## Reddit can’t build a better search engine - Rukshan's Blog
+ - [https://ruky.me/2022/02/17/reddit-can-build-a-better-search-engine/](https://ruky.me/2022/02/17/reddit-can-build-a-better-search-engine/)
+ - RSS feed: https://ruky.me
+ - date published: 2022-02-18 09:42:22.048954+00:00
+
+
+## Avoid the Apple App Store | Jonatan Heyman | heyman.info
+ - [https://heyman.info/2022/feb/17/avoid-the-apple-app-store/](https://heyman.info/2022/feb/17/avoid-the-apple-app-store/)
+ - RSS feed: https://heyman.info
+ - date published: 2022-02-17 18:31:55.461656+00:00
+
+
+## Change - Xe
+ - [https://xeiaso.net/blog/change-2021-10-20](https://xeiaso.net/blog/change-2021-10-20)
+ - RSS feed: https://xeiaso.net
+ - date published: 2022-02-16 18:02:04.614352+00:00
+
+
+## Building an iPod for 2022
+ - [https://ellie.wtf/ipod/](https://ellie.wtf/ipod/)
+ - RSS feed: https://ellie.wtf
+ - date published: 2022-02-16 08:50:42.950552+00:00
+
+
+## Ask HN: Should we own the free stuff we pay for? | Hacker News
+ - [https://news.ycombinator.com/item?id=30345201](https://news.ycombinator.com/item?id=30345201)
+ - RSS feed: https://news.ycombinator.com
+ - date published: 2022-02-16 08:46:20.584252+00:00
+
+
+## Kash Goudarzi
+ - [https://kg.dev/thoughts/i-love-you-hn-but-youre-toxic](https://kg.dev/thoughts/i-love-you-hn-but-youre-toxic)
+ - RSS feed: https://kg.dev
+ - date published: 2022-02-16 08:38:11.602721+00:00
+
+
 ## Google Search Is Dying
  - [https://dkb.io/post/google-search-is-dying](https://dkb.io/post/google-search-is-dying)
  - RSS feed: https://dkb.io/post/google-search-is-dying
@@ -8707,10 +11843,58 @@
  - tags: google search,dead internet,google
 
 
+## The simple system I’m using to stay in touch with hundreds of people – Jakob Greenfeld – Experiments in Entrepreneurship and Learning
+ - [https://jakobgreenfeld.com/stay-in-touch](https://jakobgreenfeld.com/stay-in-touch)
+ - RSS feed: https://jakobgreenfeld.com
+ - date published: 2022-02-15 08:35:43.116774+00:00
+
+
+## Jerry and Marge Selbee: How a retired couple won millions using a lottery loophole - 60 Minutes - CBS News
+ - [https://www.cbsnews.com/news/jerry-and-marge-selbee-how-a-retired-couple-won-millions-using-a-lottery-loophole-60-minutes-2019-06-09/#app](https://www.cbsnews.com/news/jerry-and-marge-selbee-how-a-retired-couple-won-millions-using-a-lottery-loophole-60-minutes-2019-06-09/#app)
+ - RSS feed: https://www.cbsnews.com
+ - date published: 2022-02-15 00:04:26.943647+00:00
+
+
 ## Kanada: Premier Justin Trudeau wprowadza stan wyjątkowy w Kanadzie
  - [https://wyborcza.pl/7,75399,28112842,premier-justin-trudeau-wprowadza-stan-wyjatkowy-w-kanadzie.html?squid_js=false](https://wyborcza.pl/7,75399,28112842,premier-justin-trudeau-wprowadza-stan-wyjatkowy-w-kanadzie.html?squid_js=false)
  - RSS feed: wyborcza.pl
  - date published: 2022-02-14 06:53:45+00:00
+
+
+## set -ex - The most useful bash trick of the year - Peterbe.com
+ - [https://www.peterbe.com/plog/set-ex](https://www.peterbe.com/plog/set-ex)
+ - RSS feed: https://www.peterbe.com
+ - date published: 2022-02-12 17:16:46.782694+00:00
+
+
+## Why won’t anyone teach me math? - The Princetonian
+ - [https://www.dailyprincetonian.com/article/2022/02/stem-intro-courses-humanites-exploration](https://www.dailyprincetonian.com/article/2022/02/stem-intro-courses-humanites-exploration)
+ - RSS feed: https://www.dailyprincetonian.com
+ - date published: 2022-02-12 10:49:04.367771+00:00
+
+
+## Key Senators Have Voted For The Anti-Encryption EARN IT Act | Electronic Frontier Foundation
+ - [https://www.eff.org/deeplinks/2022/02/key-senators-have-voted-anti-encryption-earn-it-act](https://www.eff.org/deeplinks/2022/02/key-senators-have-voted-anti-encryption-earn-it-act)
+ - RSS feed: https://www.eff.org
+ - date published: 2022-02-12 08:54:19.393944+00:00
+
+
+## Senator Blumenthal, After Years Of Denial, Admits He's Targeting Encryption With EARN IT | Techdirt
+ - [https://www.techdirt.com/articles/20220210/09311048445/senator-blumenthal-after-years-denial-admits-hes-targeting-encryption-with-earn-it.shtml](https://www.techdirt.com/articles/20220210/09311048445/senator-blumenthal-after-years-denial-admits-hes-targeting-encryption-with-earn-it.shtml)
+ - RSS feed: https://www.techdirt.com
+ - date published: 2022-02-12 08:54:04.706807+00:00
+
+
+## Rights watchdog 'should lose status' over trans row - BBC News
+ - [https://www.bbc.co.uk/news/education-60331962](https://www.bbc.co.uk/news/education-60331962)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2022-02-12 00:58:56.357680+00:00
+
+
+## How We Write GitHub Actions in Go · Blend Engineering: Full Stack Finance
+ - [https://full-stack.blend.com/how-we-write-github-actions-in-go.html#authoring-an-action-todays-landscape](https://full-stack.blend.com/how-we-write-github-actions-in-go.html#authoring-an-action-todays-landscape)
+ - RSS feed: https://full-stack.blend.com
+ - date published: 2022-02-11 18:57:36.300991+00:00
 
 
 ## Anti-exploitation bill advances in Senate despite free speech concerns
@@ -8726,11 +11910,59 @@
  - tags: dead internet
 
 
+## Young Men and Society: We Will Only Get Out What We Put In | Institute for Family Studies
+ - [https://ifstudies.org/blog/young-men-and-society-we-will-only-get-out-what-we-put-in](https://ifstudies.org/blog/young-men-and-society-we-will-only-get-out-what-we-put-in)
+ - RSS feed: https://ifstudies.org
+ - date published: 2022-02-10 09:35:06.339705+00:00
+
+
+## Nick Brown Smelled Bull
+ - [https://narratively.com/nick-brown-smelled-bull/](https://narratively.com/nick-brown-smelled-bull/)
+ - RSS feed: https://narratively.com
+ - date published: 2022-02-09 00:10:46.476596+00:00
+
+
+## Semantic Compression
+ - [https://caseymuratori.com/blog_0015](https://caseymuratori.com/blog_0015)
+ - RSS feed: https://caseymuratori.com
+ - date published: 2022-02-08 17:12:54.219644+00:00
+
+
+## IRS To Ditch Biometric Requirement for Online Access – Krebs on Security
+ - [https://krebsonsecurity.com/2022/02/irs-to-ditch-biometric-requirement-for-online-access/](https://krebsonsecurity.com/2022/02/irs-to-ditch-biometric-requirement-for-online-access/)
+ - RSS feed: https://krebsonsecurity.com
+ - date published: 2022-02-08 08:29:01.624610+00:00
+
+
 ## Google udostępniło dane lokalizacji z telefonów protestujących. FBI polowało na biorących udział w zamieszkach
  - [https://www.komputerswiat.pl/aktualnosci/wydarzenia/google-udostepnilo-dane-lokalizacji-z-telefonow-protestujacych-fbi-polowalo-na/e7b87kx](https://www.komputerswiat.pl/aktualnosci/wydarzenia/google-udostepnilo-dane-lokalizacji-z-telefonow-protestujacych-fbi-polowalo-na/e7b87kx)
  - RSS feed: https://www.komputerswiat.pl
  - date published: 2022-02-07 20:23:38+00:00
  - tags: google,privacy
+
+
+## One machine can go pretty far if you build things properly
+ - [https://rachelbythebay.com/w/2022/01/27/scale/](https://rachelbythebay.com/w/2022/01/27/scale/)
+ - RSS feed: https://rachelbythebay.com
+ - date published: 2022-02-07 19:43:55.171582+00:00
+
+
+## Thank you, Valve | Alejandro AR (kinduff)
+ - [https://kinduff.com/2022/02/06/thank-you-valve/](https://kinduff.com/2022/02/06/thank-you-valve/)
+ - RSS feed: https://kinduff.com
+ - date published: 2022-02-07 18:52:21.844195+00:00
+
+
+## Why I Quit Shopify After Five Months | The Blog of Josh Simmons
+ - [https://www.joshcsimmons.com/posts/why-i-quit-shopify](https://www.joshcsimmons.com/posts/why-i-quit-shopify)
+ - RSS feed: https://www.joshcsimmons.com
+ - date published: 2022-02-07 18:38:06.692482+00:00
+
+
+## My father had a lifelong ticket to fly anywhere. Then they took it away | Family | The Guardian
+ - [https://www.theguardian.com/lifeandstyle/2019/sep/19/american-airlines-aairpass-golden-ticket](https://www.theguardian.com/lifeandstyle/2019/sep/19/american-airlines-aairpass-golden-ticket)
+ - RSS feed: https://www.theguardian.com
+ - date published: 2022-02-07 17:29:03.957653+00:00
 
 
 ## "Kanada: Stan wyjątkowy w stolicy Kanady. W związku z protestami ""konwoju wolności"""
@@ -8743,6 +11975,42 @@
  - [https://wydarzenia.interia.pl/zagranica/news-kanada-aresztowania-konfiskata-paliwa-stan-wyjatkowy-w-ottaw,nId,5819159](https://wydarzenia.interia.pl/zagranica/news-kanada-aresztowania-konfiskata-paliwa-stan-wyjatkowy-w-ottaw,nId,5819159)
  - RSS feed: wydarzenia.interia.pl
  - date published: 2022-02-07 06:53:30+00:00
+
+
+## LGBT tolerance 'going backwards' as hate crimes up - BBC News
+ - [https://www.bbc.co.uk/news/uk-wales-60257602](https://www.bbc.co.uk/news/uk-wales-60257602)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2022-02-06 09:54:45.118334+00:00
+
+
+## Tech giants targeted in harmful content crackdown - BBC News
+ - [https://www.bbc.co.uk/news/technology-60264178](https://www.bbc.co.uk/news/technology-60264178)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2022-02-06 09:51:40.122824+00:00
+
+
+## SPAM blacklisting is out of control | Roastisdio.us Blog
+ - [https://blog.roastidio.us/posts/spam_blacklists_are_out_of_control/](https://blog.roastidio.us/posts/spam_blacklists_are_out_of_control/)
+ - RSS feed: https://blog.roastidio.us
+ - date published: 2022-02-05 20:52:56.742213+00:00
+
+
+## The EARN IT Act Is Back, and It’s More Dangerous Than Ever | Center for Internet and Society
+ - [http://cyberlaw.stanford.edu/blog/2022/02/earn-it-act-back-and-it%E2%80%99s-more-dangerous-ever](http://cyberlaw.stanford.edu/blog/2022/02/earn-it-act-back-and-it%E2%80%99s-more-dangerous-ever)
+ - RSS feed: http://cyberlaw.stanford.edu
+ - date published: 2022-02-05 20:45:08.371182+00:00
+
+
+## Unlearning Perfectionism | Arun Prasad
+ - [https://arunkprasad.com/log/unlearning-perfectionism/](https://arunkprasad.com/log/unlearning-perfectionism/)
+ - RSS feed: https://arunkprasad.com
+ - date published: 2022-02-05 20:35:59.151806+00:00
+
+
+## Jan-Piet Mens :: A shell command to create JSON: jo
+ - [https://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo/](https://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo/)
+ - RSS feed: https://jpmens.net
+ - date published: 2022-02-05 20:35:31.967560+00:00
 
 
 ## FDA: Nakaz sądowy odtajnienia dokumentów
@@ -8758,10 +12026,40 @@
  - tags: protest,covid,censorship
 
 
+## Optimizing GoAWK with a bytecode compiler and virtual machine
+ - [https://benhoyt.com/writings/goawk-compiler-vm/](https://benhoyt.com/writings/goawk-compiler-vm/)
+ - RSS feed: https://benhoyt.com
+ - date published: 2022-02-04 22:43:35.385335+00:00
+
+
 ## Senate report implicates Fauci in Wuhan lab leak cover-up
  - [https://conservativeinstitute.org/conservative-news/senate-report-implicates-fauci-in-wuhan-lab-leak-cover-up.htm](https://conservativeinstitute.org/conservative-news/senate-report-implicates-fauci-in-wuhan-lab-leak-cover-up.htm)
  - RSS feed: conservativeinstitute.org
  - date published: 2022-02-04 06:55:19+00:00
+
+
+## Don’t Feed the Beast – the Great Recruitment Agency Infestation
+ - [https://gist.github.com/CumpsD/696599d1bd4cd472a0565869672933da](https://gist.github.com/CumpsD/696599d1bd4cd472a0565869672933da)
+ - RSS feed: https://gist.github.com
+ - date published: 2022-02-02 20:10:58.711325+00:00
+
+
+## Career Advice Nobody Gave Me: Never Ignore a Recruiter | by Alex Chesser | Feb, 2022 | Index
+ - [https://index.medium.com/career-advice-nobody-gave-me-never-ignore-a-recruiter-4474eac9556](https://index.medium.com/career-advice-nobody-gave-me-never-ignore-a-recruiter-4474eac9556)
+ - RSS feed: https://index.medium.com
+ - date published: 2022-02-02 19:47:33.984274+00:00
+
+
+## Red Light Green Light | James Sevedge
+ - [https://jamessevedge.com/articles/red-light-green-light/](https://jamessevedge.com/articles/red-light-green-light/)
+ - RSS feed: https://jamessevedge.com
+ - date published: 2022-02-01 08:58:16.376411+00:00
+
+
+## the new hire who showed up is not the same person we interviewed — Ask a Manager
+ - [https://www.askamanager.org/2022/01/the-new-hire-who-showed-up-is-not-the-same-person-we-interviewed.html](https://www.askamanager.org/2022/01/the-new-hire-who-showed-up-is-not-the-same-person-we-interviewed.html)
+ - RSS feed: https://www.askamanager.org
+ - date published: 2022-02-01 08:47:47.625540+00:00
 
 
 ## cientists speak out on being silenced when raising concerns about COVID lab leak theory
@@ -8771,11 +12069,65 @@
  - tags: wuhan,censorship,covid,covid origins
 
 
+## A UX designer walks into a Tesla Bar – Scott Jenson
+ - [https://jenson.org/tesla/](https://jenson.org/tesla/)
+ - RSS feed: https://jenson.org
+ - date published: 2022-01-30 23:07:41.507686+00:00
+
+
 ## Here are all the famous people Jeffrey Epstein was connected to
  - [https://www.businessinsider.com/famous-people-jeffery-epstein-money-manager-sexual-trafficking-connected-2019-7?IR=T](https://www.businessinsider.com/famous-people-jeffery-epstein-money-manager-sexual-trafficking-connected-2019-7?IR=T)
  - RSS feed: https://www.businessinsider.com
  - date published: 2022-01-29 19:42:03+00:00
  - tags: epstein
+
+
+## Reclaiming the lost art of Linux server administration | pietrorea's blog
+ - [https://www.pietrorea.com/2022/01/28/reclaiming-the-lost-art-of-linux-server-administration](https://www.pietrorea.com/2022/01/28/reclaiming-the-lost-art-of-linux-server-administration)
+ - RSS feed: https://www.pietrorea.com
+ - date published: 2022-01-28 15:09:55.095400+00:00
+
+
+## If Looks Could Kill
+ - [https://vintagecomputerstories.blogspot.com/2022/01/if-looks-could-kill.html?m=1](https://vintagecomputerstories.blogspot.com/2022/01/if-looks-could-kill.html?m=1)
+ - RSS feed: https://vintagecomputerstories.blogspot.com
+ - date published: 2022-01-28 09:01:44.648132+00:00
+
+
+## Elon Musk SpaceX rocket on collision course with moon - BBC News
+ - [https://www.bbc.co.uk/news/science-environment-60148543](https://www.bbc.co.uk/news/science-environment-60148543)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2022-01-27 10:50:13.534107+00:00
+
+
+## Zheng Bang ZB3245TSS Pick & Place Machine - Custom Electronics, PWM Circuits, Induction Heating, and DIY Science Projects
+ - [https://www.rmcybernetics.com/general/zhengbang-zb3245tss-pick-place-machine](https://www.rmcybernetics.com/general/zhengbang-zb3245tss-pick-place-machine)
+ - RSS feed: https://www.rmcybernetics.com
+ - date published: 2022-01-27 10:46:43.196105+00:00
+
+
+## To my surprise and elation, the Webb Space Telescope is really going to work | Ars Technica
+ - [https://arstechnica.com/science/2022/01/whats-left-for-the-webb-telescope-now-waggling-mirrors-turning-on-instruments/](https://arstechnica.com/science/2022/01/whats-left-for-the-webb-telescope-now-waggling-mirrors-turning-on-instruments/)
+ - RSS feed: https://arstechnica.com
+ - date published: 2022-01-26 21:09:40.861191+00:00
+
+
+## Electric Tables V0.1
+ - [https://tomcritchlow.com/2022/01/26/electric-tables/](https://tomcritchlow.com/2022/01/26/electric-tables/)
+ - RSS feed: https://tomcritchlow.com
+ - date published: 2022-01-26 21:07:38.254055+00:00
+
+
+## The Prisoner Who Revolutionized Chinese Language With a Teacup | WIRED
+ - [https://www.wired.com/story/kingdom-of-characters-jing-tsu-china-language-information/](https://www.wired.com/story/kingdom-of-characters-jing-tsu-china-language-information/)
+ - RSS feed: https://www.wired.com
+ - date published: 2022-01-26 17:02:11.394319+00:00
+
+
+## Google drops FLoC and proposes new Topics API for ads - 9to5Google
+ - [https://9to5google.com/2022/01/25/google-topics-api-floc/](https://9to5google.com/2022/01/25/google-topics-api-floc/)
+ - RSS feed: https://9to5google.com
+ - date published: 2022-01-26 10:44:18.214581+00:00
 
 
 ## Piotr Schramm - Digital Identity: Komisja Europejska chce przekształcić bilet koronowy w "cyfrowy identyfikator"
@@ -8791,10 +12143,82 @@
  - date published: 2022-01-26 07:05:47+00:00
 
 
+## LogJ4 Security Inquiry – Response Required | daniel.haxx.se
+ - [https://daniel.haxx.se/blog/2022/01/24/logj4-security-inquiry-response-required/](https://daniel.haxx.se/blog/2022/01/24/logj4-security-inquiry-response-required/)
+ - RSS feed: https://daniel.haxx.se
+ - date published: 2022-01-25 09:41:29.553366+00:00
+
+
+## Survey Says Developers Are Definitely Not Interested In NFTs
+ - [https://kotaku.com/nft-crypto-cryptocurrency-blockchain-gdc-video-games-de-1848407959](https://kotaku.com/nft-crypto-cryptocurrency-blockchain-gdc-video-games-de-1848407959)
+ - RSS feed: https://kotaku.com
+ - date published: 2022-01-25 09:31:41.948853+00:00
+
+
+## Troy Hunt: How I Got Pwned by My Cloud Costs
+ - [https://www.troyhunt.com/how-i-got-pwned-by-my-cloud-costs/](https://www.troyhunt.com/how-i-got-pwned-by-my-cloud-costs/)
+ - RSS feed: https://www.troyhunt.com
+ - date published: 2022-01-24 12:11:34.955464+00:00
+
+
+## This 22-Year-Old Builds Chips in His Parents’ Garage | WIRED
+ - [https://www.wired.com/story/22-year-old-builds-chips-parents-garage/](https://www.wired.com/story/22-year-old-builds-chips-parents-garage/)
+ - RSS feed: https://www.wired.com
+ - date published: 2022-01-24 11:20:57.844304+00:00
+
+
+## Finding love as a trans woman - BBC News
+ - [https://www.bbc.co.uk/news/world-us-canada-60086567](https://www.bbc.co.uk/news/world-us-canada-60086567)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2022-01-23 22:04:01.863014+00:00
+
+
+## Golang’s most important feature is invisible | by Jack Strohm | Jan, 2022 | Dev Genius
+ - [https://blog.devgenius.io/golangs-most-important-feature-is-invisible-6be9c1e7249b](https://blog.devgenius.io/golangs-most-important-feature-is-invisible-6be9c1e7249b)
+ - RSS feed: https://blog.devgenius.io
+ - date published: 2022-01-23 13:27:19.581848+00:00
+
+
+## The case for a modern language
+ - [https://jeang3nie.codeberg.page/case-for-modern-language-pt1/](https://jeang3nie.codeberg.page/case-for-modern-language-pt1/)
+ - RSS feed: https://jeang3nie.codeberg.page
+ - date published: 2022-01-22 20:41:43.054514+00:00
+
+
+## Pankraz Piktograph | Felix Fisgus
+ - [https://felixfisgus.de/work/017_pankraz_piktograph](https://felixfisgus.de/work/017_pankraz_piktograph)
+ - RSS feed: https://felixfisgus.de
+ - date published: 2022-01-22 15:17:52.063624+00:00
+
+
+## webassembly: the new kubernetes? -- wingolog
+ - [https://wingolog.org/archives/2021/12/13/webassembly-the-new-kubernetes](https://wingolog.org/archives/2021/12/13/webassembly-the-new-kubernetes)
+ - RSS feed: https://wingolog.org
+ - date published: 2022-01-22 09:39:52.744827+00:00
+
+
+## The Internet Changed My Life | Pointers Gone Wild
+ - [https://pointersgonewild.com/2022/01/19/the-internet-changed-my-life/](https://pointersgonewild.com/2022/01/19/the-internet-changed-my-life/)
+ - RSS feed: https://pointersgonewild.com
+ - date published: 2022-01-21 17:08:20.112296+00:00
+
+
+## Roblox Return to Service 10/28-10/31 2021 - Roblox Blog
+ - [https://blog.roblox.com/2022/01/roblox-return-to-service-10-28-10-31-2021/](https://blog.roblox.com/2022/01/roblox-return-to-service-10-28-10-31-2021/)
+ - RSS feed: https://blog.roblox.com
+ - date published: 2022-01-21 09:06:54.936547+00:00
+
+
 ## Jordan Peterson: Female Totalitarianism | with James Orr & Arif Ahmed (Cambridge)
  - [https://www.youtube.com/watch?v=fwow0lrwY8U](https://www.youtube.com/watch?v=fwow0lrwY8U)
  - RSS feed: https://www.youtube.com/c/PhilosophyInsights
  - date published: 2022-01-18 20:59:14+00:00
+
+
+## Make debugging suck less. Keep a logbook. 📓 | Conor Lamb
+ - [https://conorcorp.github.io/posts/make-debuggin-suck-less/](https://conorcorp.github.io/posts/make-debuggin-suck-less/)
+ - RSS feed: https://conorcorp.github.io
+ - date published: 2022-01-18 17:07:59.170151+00:00
 
 
 ## Liberal-Funded Global Fact-Checking Network Decries YouTube’s ‘Insufficient’ Censorship
@@ -8804,11 +12228,228 @@
  - tags: factcheck,censorship,freespeech,youtube
 
 
+## The curious case of the Raspberry Pi in the network closet
+ - [https://blog.haschek.at/2019/the-curious-case-of-the-RasPi-in-our-network.html](https://blog.haschek.at/2019/the-curious-case-of-the-RasPi-in-our-network.html)
+ - RSS feed: https://blog.haschek.at
+ - date published: 2022-01-18 08:27:14.377498+00:00
+
+
+## Your app is not compliant with Google Play Policies: A story from hell | Sylvia van Os
+ - [https://sylviavanos.nl/blog/2021/12/24/google_play_hell.html](https://sylviavanos.nl/blog/2021/12/24/google_play_hell.html)
+ - RSS feed: https://sylviavanos.nl
+ - date published: 2022-01-17 20:42:59.149682+00:00
+
+
+## Failing to Learn Zig via Advent of Code - ForrestTheWoods
+ - [https://www.forrestthewoods.com/blog/failing-to-learn-zig-via-advent-of-code/](https://www.forrestthewoods.com/blog/failing-to-learn-zig-via-advent-of-code/)
+ - RSS feed: https://www.forrestthewoods.com
+ - date published: 2022-01-17 17:36:05.086304+00:00
+
+
+## Woozle Hypertwin: "*crossposted from <a href="https://www.linkedin.c…" - Toot.Cat
+ - [https://toot.cat/@woozle/107634232290378715](https://toot.cat/@woozle/107634232290378715)
+ - RSS feed: https://toot.cat
+ - date published: 2022-01-17 08:37:09.036283+00:00
+
+
+## It's not still the early days
+ - [https://blog.mollywhite.net/its-not-still-the-early-days/](https://blog.mollywhite.net/its-not-still-the-early-days/)
+ - RSS feed: https://blog.mollywhite.net
+ - date published: 2022-01-16 10:43:18.528880+00:00
+
+
+## "It's your fault" - stitcher.io
+ - [https://stitcher.io/blog/its-your-fault](https://stitcher.io/blog/its-your-fault)
+ - RSS feed: https://stitcher.io
+ - date published: 2022-01-16 08:46:51.803771+00:00
+
+
+## FedEx asks FAA permission to add anti-missile system to some cargo planes - CNN
+ - [https://edition.cnn.com/2022/01/14/business/fedex-anti-missile-cargo-planes/index.html](https://edition.cnn.com/2022/01/14/business/fedex-anti-missile-cargo-planes/index.html)
+ - RSS feed: https://edition.cnn.com
+ - date published: 2022-01-15 18:15:20.344329+00:00
+
+
+## PayPal faces lawsuit for freezing customer accounts and funds | Engadget
+ - [https://www.engadget.com/paypal-lawsuit-freezing-customer-accounts-funds-073128563.html?guccounter=1&guce_referrer=aHR0cHM6Ly9tYWlsLmdvb2dsZS5jb20v&guce_referrer_sig=AQAAADi9X5LjatxPRv7Ol5vk9NZjJCrSPrUSyNUNoOU2LUYThUEiH3rNhZg2sRJGVqNelOyLesiUFtuAT8Bj_lrbaH_DNLDy6JKT5DUveUI2rm60r-m6C_bhs2OA2X0W4YQtLBM_PYasawXSxOzjrmtV7Zob1ZMSXSOEa63kcdFiiOUY](https://www.engadget.com/paypal-lawsuit-freezing-customer-accounts-funds-073128563.html?guccounter=1&guce_referrer=aHR0cHM6Ly9tYWlsLmdvb2dsZS5jb20v&guce_referrer_sig=AQAAADi9X5LjatxPRv7Ol5vk9NZjJCrSPrUSyNUNoOU2LUYThUEiH3rNhZg2sRJGVqNelOyLesiUFtuAT8Bj_lrbaH_DNLDy6JKT5DUveUI2rm60r-m6C_bhs2OA2X0W4YQtLBM_PYasawXSxOzjrmtV7Zob1ZMSXSOEa63kcdFiiOUY)
+ - RSS feed: https://www.engadget.com
+ - date published: 2022-01-15 14:32:40.502256+00:00
+
+
+## Don't Make My Mistakes: Common Infrastructure Errors I've Made
+ - [https://matduggan.com/mistakes/](https://matduggan.com/mistakes/)
+ - RSS feed: https://matduggan.com
+ - date published: 2022-01-15 13:42:15.302006+00:00
+
+
+## Even if a function doesn't do anything, you still have to call it if the documentation says so, because it might do something tomorrow - The Old New Thing
+ - [https://devblogs.microsoft.com/oldnewthing/20080925-00/?p=20763](https://devblogs.microsoft.com/oldnewthing/20080925-00/?p=20763)
+ - RSS feed: https://devblogs.microsoft.com
+ - date published: 2022-01-14 15:57:02.395082+00:00
+
+
+## Updating a 50 terabyte PostgreSQL database - Adyen
+ - [https://www.adyen.com/blog/updating-a-50-terabyte-postgresql-database](https://www.adyen.com/blog/updating-a-50-terabyte-postgresql-database)
+ - RSS feed: https://www.adyen.com
+ - date published: 2022-01-14 14:53:50.584785+00:00
+
+
+## Exploring System76's New Rust Based Desktop Environment | Devloop
+ - [https://blog.edfloreshz.dev/articles/linux/system76/rust-based-desktop-environment/](https://blog.edfloreshz.dev/articles/linux/system76/rust-based-desktop-environment/)
+ - RSS feed: https://blog.edfloreshz.dev
+ - date published: 2022-01-14 09:27:34.517790+00:00
+
+
+## How I plan - stitcher.io
+ - [https://stitcher.io/blog/how-i-plan](https://stitcher.io/blog/how-i-plan)
+ - RSS feed: https://stitcher.io
+ - date published: 2022-01-14 09:09:38.986368+00:00
+
+
+## Making Your Game Go Fast by Asking Windows Nicely | Anthropic Studios
+ - [https://www.anthropicstudios.com/2022/01/13/asking-windows-nicely/](https://www.anthropicstudios.com/2022/01/13/asking-windows-nicely/)
+ - RSS feed: https://www.anthropicstudios.com
+ - date published: 2022-01-14 00:01:35.582233+00:00
+
+
+## Transgender Healthcare in the UK: My Experience
+ - [https://www.anewseducation.com/post/transgender-healthcare-in-the-uk](https://www.anewseducation.com/post/transgender-healthcare-in-the-uk)
+ - RSS feed: https://www.anewseducation.com
+ - date published: 2022-01-13 21:03:00.249337+00:00
+
+
+## The Laurels: NHS gender clinic only assessed two patients in 12 months
+ - [https://www.pinknews.co.uk/2021/03/08/the-laurels-nhs-trans-waiting-times-west-england-gender-identity-clinic-waiting-list-exeter-devon-partnership-trust-transgender/](https://www.pinknews.co.uk/2021/03/08/the-laurels-nhs-trans-waiting-times-west-england-gender-identity-clinic-waiting-list-exeter-devon-partnership-trust-transgender/)
+ - RSS feed: https://www.pinknews.co.uk
+ - date published: 2022-01-13 15:37:35.631003+00:00
+
+
 ## Computer says no! Showgirl, mankind, whitewash and blacklist are just some of the words that don't make it past Microsoft Word's new woke filter (but don't worry, you can turn it off)
  - [https://www.dailymail.co.uk/news/article-10398999/Blacklist-postman-mankind-just-words-wont-fly-Microsofts-woke-filter.html](https://www.dailymail.co.uk/news/article-10398999/Blacklist-postman-mankind-just-words-wont-fly-Microsofts-woke-filter.html)
  - RSS feed: https://www.dailymail.co.uk
  - date published: 2022-01-13 12:23:01+00:00
  - tags: woke,censorship,socialengineering,microsoft
+
+
+## Google hired union-busting consultants to convince employees “unions suck” | Ars Technica
+ - [https://arstechnica.com/tech-policy/2022/01/google-hired-union-busting-consultants-to-convince-employees-unions-suck/](https://arstechnica.com/tech-policy/2022/01/google-hired-union-busting-consultants-to-convince-employees-unions-suck/)
+ - RSS feed: https://arstechnica.com
+ - date published: 2022-01-13 09:23:34.175309+00:00
+
+
+## The Optional Chaining Operator, “Modern” Browsers, and My Mom - Jim Nielsen’s Blog
+ - [https://blog.jim-nielsen.com/2022/a-web-for-all/](https://blog.jim-nielsen.com/2022/a-web-for-all/)
+ - RSS feed: https://blog.jim-nielsen.com
+ - date published: 2022-01-12 11:43:31.933921+00:00
+
+
+## Is the madness ever going to end?
+ - [https://unixsheikh.com/articles/is-the-madness-ever-going-to-end.html](https://unixsheikh.com/articles/is-the-madness-ever-going-to-end.html)
+ - RSS feed: https://unixsheikh.com
+ - date published: 2022-01-12 11:37:50.748976+00:00
+
+
+## After ruining Android messaging, Google says iMessage is too powerful | Ars Technica
+ - [https://arstechnica.com/gadgets/2022/01/after-ruining-android-messaging-google-says-imessage-is-too-powerful/](https://arstechnica.com/gadgets/2022/01/after-ruining-android-messaging-google-says-imessage-is-too-powerful/)
+ - RSS feed: https://arstechnica.com
+ - date published: 2022-01-12 08:25:23.594706+00:00
+
+
+## Make Beautiful Gradients in CSS, with linear-gradient, radial-gradient, or conic-gradient.
+ - [https://www.joshwcomeau.com/css/make-beautiful-gradients/](https://www.joshwcomeau.com/css/make-beautiful-gradients/)
+ - RSS feed: https://www.joshwcomeau.com
+ - date published: 2022-01-12 08:19:43.266511+00:00
+
+
+## Who wrote this shit? | Philip Heltweg
+ - [https://www.heltweg.org/posts/who-wrote-this-shit/](https://www.heltweg.org/posts/who-wrote-this-shit/)
+ - RSS feed: https://www.heltweg.org
+ - date published: 2022-01-11 12:42:30.340219+00:00
+
+
+## Physicians re-evaluate use of lead aprons during X-rays - Scope
+ - [https://scopeblog.stanford.edu/2020/05/22/physicians-re-evaluate-use-of-lead-aprons-during-x-rays/](https://scopeblog.stanford.edu/2020/05/22/physicians-re-evaluate-use-of-lead-aprons-during-x-rays/)
+ - RSS feed: https://scopeblog.stanford.edu
+ - date published: 2022-01-10 23:08:31.558339+00:00
+
+
+## The right to delete: how faker.js exposed the fragile nature of open source culture, again
+ - [https://www.thegingerviking.com/the-right-to-delete-fakerjs-fragile-nature-open-source/](https://www.thegingerviking.com/the-right-to-delete-fakerjs-fragile-nature-open-source/)
+ - RSS feed: https://www.thegingerviking.com
+ - date published: 2022-01-10 10:31:04.363604+00:00
+
+
+## Dev corrupts NPM libs 'colors' and 'faker' breaking thousands of apps
+ - [https://www.bleepingcomputer.com/news/security/dev-corrupts-npm-libs-colors-and-faker-breaking-thousands-of-apps/](https://www.bleepingcomputer.com/news/security/dev-corrupts-npm-libs-colors-and-faker-breaking-thousands-of-apps/)
+ - RSS feed: https://www.bleepingcomputer.com
+ - date published: 2022-01-09 19:00:16.568505+00:00
+
+
+## New Notepad enters Windows Insider Beta Channel • The Register
+ - [https://www.theregister.com/2022/01/06/notepad_update/](https://www.theregister.com/2022/01/06/notepad_update/)
+ - RSS feed: https://www.theregister.com
+ - date published: 2022-01-09 18:56:37.846765+00:00
+
+
+## Fired for being female
+ - [https://torontolife.com/city/irene-cybulsky-surgeon-fired-for-being-female-hamilton-general-hospital/](https://torontolife.com/city/irene-cybulsky-surgeon-fired-for-being-female-hamilton-general-hospital/)
+ - RSS feed: https://torontolife.com
+ - date published: 2022-01-09 17:06:49.473619+00:00
+
+
+## The James Webb Space Telescope — making 300 points of failure reliable | by Robert Barron | Jan, 2022 | Medium
+ - [https://flyingbarron.medium.com/the-james-webb-space-telescope-making-300-points-of-failure-reliable-db669810a9d8](https://flyingbarron.medium.com/the-james-webb-space-telescope-making-300-points-of-failure-reliable-db669810a9d8)
+ - RSS feed: https://flyingbarron.medium.com
+ - date published: 2022-01-09 16:18:32.971013+00:00
+
+
+## Youth suicide attempts soared during pandemic, CDC report says
+ - [https://www.nbcnews.com/news/us-news/youth-suicide-attempts-soared-during-pandemic-cdc-report-says-n1270463](https://www.nbcnews.com/news/us-news/youth-suicide-attempts-soared-during-pandemic-cdc-report-says-n1270463)
+ - RSS feed: https://www.nbcnews.com
+ - date published: 2022-01-09 15:36:01.889780+00:00
+
+
+## Avoid meaningless binary labels — Bobbie Chen
+ - [https://bobbiechen.com/blog/2022/1/5/avoid-meaningless-binary-labels](https://bobbiechen.com/blog/2022/1/5/avoid-meaningless-binary-labels)
+ - RSS feed: https://bobbiechen.com
+ - date published: 2022-01-09 15:34:08.105284+00:00
+
+
+## Upwork wants me to refund $12k as their client was using "another" card.
+ - [https://alanany.com/2021/12/23/upwork-12k-refund-client-using-another-credit-card/](https://alanany.com/2021/12/23/upwork-12k-refund-client-using-another-credit-card/)
+ - RSS feed: https://alanany.com
+ - date published: 2022-01-09 15:09:40.133870+00:00
+
+
+## Simplicity of IRC - Susam's Maze
+ - [https://susam.net/maze/simplicity-of-irc.html](https://susam.net/maze/simplicity-of-irc.html)
+ - RSS feed: https://susam.net
+ - date published: 2022-01-09 14:48:28.776836+00:00
+
+
+## UZH - School Closures Led to More Sleep and Better Quality of Life for Adolescents
+ - [https://www.media.uzh.ch/en/Press-Releases/2022/Adolescent-Sleep.html](https://www.media.uzh.ch/en/Press-Releases/2022/Adolescent-Sleep.html)
+ - RSS feed: https://www.media.uzh.ch
+ - date published: 2022-01-09 10:49:48.977948+00:00
+
+
+## Saving a Third of Our Memory by Re-ordering Go Struct Fields | Lane's Ramblings
+ - [https://wagslane.dev/posts/go-struct-ordering/](https://wagslane.dev/posts/go-struct-ordering/)
+ - RSS feed: https://wagslane.dev
+ - date published: 2022-01-08 12:05:45.224734+00:00
+
+
+## How a routine gem update ended up creating $73k worth of subscriptions
+ - [https://serpapi.com/blog/how-a-routine-gem-update-ended-up-charging/](https://serpapi.com/blog/how-a-routine-gem-update-ended-up-charging/)
+ - RSS feed: https://serpapi.com
+ - date published: 2022-01-08 11:19:29.295555+00:00
+
+
+## Pepe the frog - music clip (Marvel83' - Golden Dawn)
+ - [https://youtu.be/vJMP7RBsoms](https://youtu.be/vJMP7RBsoms)
+ - RSS feed: https://youtu.be
+ - date published: 2022-01-07 14:45:47+00:00
+ - tags: pepe,pepethefrog
 
 
 ## FDA ma 8 miesięcy na publikację dokumentacji „szczepionki”
@@ -8818,10 +12459,65 @@
  - tags: pfizer,fda,vaccine
 
 
+## I Miss RSS - Wilcosky
+ - [https://www.wilcosky.com/d/20-i-miss-rss](https://www.wilcosky.com/d/20-i-miss-rss)
+ - RSS feed: https://www.wilcosky.com
+ - date published: 2022-01-06 15:02:30.251051+00:00
+
+
+## Platonic relationships aren't just for friends. They can be for life.
+ - [https://eu.usatoday.com/story/life/health-wellness/2022/01/04/platonic-relationships-life-partners/9073118002/](https://eu.usatoday.com/story/life/health-wellness/2022/01/04/platonic-relationships-life-partners/9073118002/)
+ - RSS feed: https://eu.usatoday.com
+ - date published: 2022-01-05 16:23:57.813312+00:00
+
+
+## Python Type Hints - How to Handle Optional Imports - Adam Johnson
+ - [https://adamj.eu/tech/2021/12/29/python-type-hints-optional-imports/](https://adamj.eu/tech/2021/12/29/python-type-hints-optional-imports/)
+ - RSS feed: https://adamj.eu
+ - date published: 2022-01-05 15:12:23.436370+00:00
+
+
+## Orbifolds and Other Games - Three Problems with a Tool
+ - [https://orbifold.xyz/three-problems.html](https://orbifold.xyz/three-problems.html)
+ - RSS feed: https://orbifold.xyz
+ - date published: 2022-01-05 15:11:32.331691+00:00
+
+
 ## Facebook zawiesil strone konfederacji bedzie pozew cenzura powraca
  - [https://wiadomosci.onet.pl/kraj/facebook-zawiesil-strone-konfederacji-bedzie-pozew-cenzura-powraca/pk4fkq1](https://wiadomosci.onet.pl/kraj/facebook-zawiesil-strone-konfederacji-bedzie-pozew-cenzura-powraca/pk4fkq1)
  - RSS feed: wiadomosci.onet.pl
  - date published: 2022-01-05 12:04:50+00:00
+ - tags: facebook,cenzura,konfederacja
+
+
+## Researcher discovers 70 web cache poisoning vulnerabilities, nets $40k in bug bounty rewards | The Daily Swig
+ - [https://portswigger.net/daily-swig/researcher-discovers-70-web-cache-poisoning-vulnerabilities-nets-40k-in-bug-bounty-rewards](https://portswigger.net/daily-swig/researcher-discovers-70-web-cache-poisoning-vulnerabilities-nets-40k-in-bug-bounty-rewards)
+ - RSS feed: https://portswigger.net
+ - date published: 2022-01-04 16:16:40.508633+00:00
+
+
+## 100 ways to slightly improve your life without really trying | Life and style | The Guardian
+ - [https://www.theguardian.com/lifeandstyle/2022/jan/01/marginal-gains-100-ways-to-improve-your-life-without-really-trying](https://www.theguardian.com/lifeandstyle/2022/jan/01/marginal-gains-100-ways-to-improve-your-life-without-really-trying)
+ - RSS feed: https://www.theguardian.com
+ - date published: 2022-01-04 14:17:51.665766+00:00
+
+
+## 7 moments of trans brilliance from 2021 | Xtra Magazine
+ - [https://xtramagazine.com/culture/trans-brilliance-2021-215330](https://xtramagazine.com/culture/trans-brilliance-2021-215330)
+ - RSS feed: https://xtramagazine.com
+ - date published: 2022-01-03 11:06:41.429672+00:00
+
+
+## Your attention didn’t collapse. It was stolen | Psychology | The Guardian
+ - [https://www.theguardian.com/science/2022/jan/02/attention-span-focus-screens-apps-smartphones-social-media](https://www.theguardian.com/science/2022/jan/02/attention-span-focus-screens-apps-smartphones-social-media)
+ - RSS feed: https://www.theguardian.com
+ - date published: 2022-01-03 08:48:52.042227+00:00
+
+
+## Why I Believe Printers Were Sent From Hell To Make Us Miserable - The Oatmeal
+ - [https://theoatmeal.com/comics/printers](https://theoatmeal.com/comics/printers)
+ - RSS feed: https://theoatmeal.com
+ - date published: 2022-01-02 20:16:17.789512+00:00
 
 
 ## Twitter Permanently Suspends Marjorie Taylor Greene’s Account
@@ -8838,10 +12534,202 @@
  - tags: covid,censorship,free speech,youtube
 
 
+## Wesley Aptekar-Cassels | web3 is Centralized
+ - [https://blog.wesleyac.com/posts/web3-centralized](https://blog.wesleyac.com/posts/web3-centralized)
+ - RSS feed: https://blog.wesleyac.com
+ - date published: 2022-01-02 11:29:05.415950+00:00
+
+
+## Why I’m Using HTTP Basic Auth in 2022 | Joel Dare
+ - [https://joeldare.com/why-im-using-http-basic-auth-in-2022.html](https://joeldare.com/why-im-using-http-basic-auth-in-2022.html)
+ - RSS feed: https://joeldare.com
+ - date published: 2022-01-02 09:08:16.490952+00:00
+
+
+## Emirates' Terrifying Boeing 777 Flight To Washington - One Mile at a Time
+ - [https://onemileatatime.com/news/emirates-terrifying-boeing-777-flight-washington/](https://onemileatatime.com/news/emirates-terrifying-boeing-777-flight-washington/)
+ - RSS feed: https://onemileatatime.com
+ - date published: 2022-01-02 09:05:47.232300+00:00
+
+
+## Firefox is the Only Alternative - (think)
+ - [https://batsov.com/articles/2021/11/28/firefox-is-the-only-alternative/](https://batsov.com/articles/2021/11/28/firefox-is-the-only-alternative/)
+ - RSS feed: https://batsov.com
+ - date published: 2022-01-02 08:54:00.867609+00:00
+
+
+## How To Get Hacked By Accidentally Copy Pasting
+ - [https://www.wizer-training.com/blog/copy-paste](https://www.wizer-training.com/blog/copy-paste)
+ - RSS feed: https://www.wizer-training.com
+ - date published: 2022-01-01 17:33:39.964883+00:00
+
+
+## How Telegram Messenger circumvents Google Translate's API | DanPetrov
+ - [https://danpetrov.xyz/programming/2021/12/30/telegram-google-translate.html](https://danpetrov.xyz/programming/2021/12/30/telegram-google-translate.html)
+ - RSS feed: https://danpetrov.xyz
+ - date published: 2022-01-01 11:38:22.700894+00:00
+
+
+## Python 4.0 will never arrive🤚😔. Said by Python’s creator | by Sabrina Carpenter | CodeX | Nov, 2021 | Medium
+ - [https://medium.com/codex/python-4-0-will-never-arrive-3d994dce54f1](https://medium.com/codex/python-4-0-will-never-arrive-3d994dce54f1)
+ - RSS feed: https://medium.com
+ - date published: 2021-12-31 21:18:21.961847+00:00
+
+
+## University loses 77TB of research data due to backup error
+ - [https://www.bleepingcomputer.com/news/security/university-loses-77tb-of-research-data-due-to-backup-error/](https://www.bleepingcomputer.com/news/security/university-loses-77tb-of-research-data-due-to-backup-error/)
+ - RSS feed: https://www.bleepingcomputer.com
+ - date published: 2021-12-31 10:40:58.742282+00:00
+
+
+## Parson says he believes prosecutor will bring charges in Post-Dispatch case | Politics | stltoday.com
+ - [https://www.stltoday.com/news/local/govt-and-politics/parson-says-he-believes-prosecutor-will-bring-charges-in-post-dispatch-case/article_c4d88dae-fbf7-565f-a96c-e3589a626273.html](https://www.stltoday.com/news/local/govt-and-politics/parson-says-he-believes-prosecutor-will-bring-charges-in-post-dispatch-case/article_c4d88dae-fbf7-565f-a96c-e3589a626273.html)
+ - RSS feed: https://www.stltoday.com
+ - date published: 2021-12-31 08:38:24.938319+00:00
+
+
+## GCC 12 Adds Support For Using The Mold Linker - Phoronix
+ - [https://www.phoronix.com/scan.php?page=news_item&px=GCC-12-Mold-Linker](https://www.phoronix.com/scan.php?page=news_item&px=GCC-12-Mold-Linker)
+ - RSS feed: https://www.phoronix.com
+ - date published: 2021-12-30 14:56:31.310956+00:00
+
+
+## Social Media Faces Privacy ‘Paradox’ in Spotting Underage Users
+ - [https://news.bloomberglaw.com/privacy-and-data-security/social-media-faces-privacy-paradox-in-spotting-underage-users](https://news.bloomberglaw.com/privacy-and-data-security/social-media-faces-privacy-paradox-in-spotting-underage-users)
+ - RSS feed: https://news.bloomberglaw.com
+ - date published: 2021-12-30 14:29:45.698572+00:00
+
+
+## 2021: The year of the mask - BBC Future
+ - [https://www.bbc.com/future/article/20211210-the-ways-masks-defined-our-year](https://www.bbc.com/future/article/20211210-the-ways-masks-defined-our-year)
+ - RSS feed: https://www.bbc.com
+ - date published: 2021-12-30 10:19:26.443396+00:00
+
+
+## Wesley Aptekar-Cassels | Consider SQLite
+ - [https://blog.wesleyac.com/posts/consider-sqlite](https://blog.wesleyac.com/posts/consider-sqlite)
+ - RSS feed: https://blog.wesleyac.com
+ - date published: 2021-12-30 09:21:30.894024+00:00
+
+
+## Facebook Said My Article Was 'False Information.' Now the Fact-Checkers Admit They Were Wrong.
+ - [https://reason.com/2021/12/29/facebook-masks-false-information-science-feedback-wrong-covid/](https://reason.com/2021/12/29/facebook-masks-false-information-science-feedback-wrong-covid/)
+ - RSS feed: https://reason.com
+ - date published: 2021-12-30 09:02:20.918611+00:00
+
+
+## What January 6 Insurrectionists Wanted — and What They Lost
+ - [https://nymag.com/intelligencer/2021/12/january-6-insurrection-us-capitol-riots.html](https://nymag.com/intelligencer/2021/12/january-6-insurrection-us-capitol-riots.html)
+ - RSS feed: https://nymag.com
+ - date published: 2021-12-29 16:12:02.762977+00:00
+
+
+## April Ashley: Model, actress and trans trailblazer dies aged 86 - BBC News
+ - [https://www.bbc.co.uk/news/entertainment-arts-59816881](https://www.bbc.co.uk/news/entertainment-arts-59816881)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2021-12-29 13:09:30.636958+00:00
+
+
+## Covid: Warning over patchy lateral flow test supply - BBC News
+ - [https://www.bbc.co.uk/news/uk-59814032](https://www.bbc.co.uk/news/uk-59814032)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2021-12-29 12:10:34.153617+00:00
+
+
+## Japan's Paper Culture | JetPens
+ - [https://www.jetpens.com/blog/Japan-s-Paper-Culture/pt/998](https://www.jetpens.com/blog/Japan-s-Paper-Culture/pt/998)
+ - RSS feed: https://www.jetpens.com
+ - date published: 2021-12-29 09:32:22.322888+00:00
+
+
+## LastPass users warned their master passwords are compromised
+ - [https://www.bleepingcomputer.com/news/security/lastpass-users-warned-their-master-passwords-are-compromised/](https://www.bleepingcomputer.com/news/security/lastpass-users-warned-their-master-passwords-are-compromised/)
+ - RSS feed: https://www.bleepingcomputer.com
+ - date published: 2021-12-29 09:28:38.546147+00:00
+
+
+## Please don't use Discord for FOSS projects
+ - [https://drewdevault.com/2021/12/28/Dont-use-Discord-for-FOSS.html](https://drewdevault.com/2021/12/28/Dont-use-Discord-for-FOSS.html)
+ - RSS feed: https://drewdevault.com
+ - date published: 2021-12-29 08:18:18.600951+00:00
+
+
 ## Is Government the New God? - The Religion of Totalitarianism
  - [https://www.youtube.com/watch?v=WhNJJmmCkqY](https://www.youtube.com/watch?v=WhNJJmmCkqY)
  - RSS feed: https://www.youtube.com/c/academyofideas
  - date published: 2021-12-28 21:15:53+00:00
+
+
+## Alexa tells 10-year-old girl to touch live plug with penny - BBC News
+ - [https://www.bbc.co.uk/news/technology-59810383](https://www.bbc.co.uk/news/technology-59810383)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2021-12-28 19:59:43.202744+00:00
+
+
+## Brute-forcing 22 trillion parameters in AoC 2021-24
+ - [https://www.mattkeeter.com/blog/2021-12-27-brute/](https://www.mattkeeter.com/blog/2021-12-27-brute/)
+ - RSS feed: https://www.mattkeeter.com
+ - date published: 2021-12-28 19:49:35.131605+00:00
+
+
+## Italian Courts Find Open Source Software Terms Enforceable | If This Be Treason
+ - [http://ifthisbetreason.com/2021/12/italian-courts-find-open-source-software-terms-enforceable/](http://ifthisbetreason.com/2021/12/italian-courts-find-open-source-software-terms-enforceable/)
+ - RSS feed: http://ifthisbetreason.com
+ - date published: 2021-12-28 10:19:20.123970+00:00
+
+
+## Common Anti-Patterns in Go Web Applications
+ - [https://threedots.tech/post/common-anti-patterns-in-go-web-applications/](https://threedots.tech/post/common-anti-patterns-in-go-web-applications/)
+ - RSS feed: https://threedots.tech
+ - date published: 2021-12-25 21:50:47.079346+00:00
+
+
+## Thoughts on how to structure Go code |> Changelog
+ - [https://changelog.com/posts/on-go-application-structure](https://changelog.com/posts/on-go-application-structure)
+ - RSS feed: https://changelog.com
+ - date published: 2021-12-24 22:33:17.769373+00:00
+
+
+## Why I wrote my own Go HTTP client · The Ethically-Trained Programmer
+ - [https://blog.carlmjohnson.net/post/2021/requests-golang-http-client/](https://blog.carlmjohnson.net/post/2021/requests-golang-http-client/)
+ - RSS feed: https://blog.carlmjohnson.net
+ - date published: 2021-12-24 15:51:48.795539+00:00
+
+
+## My productivity app is a single .txt file
+ - [https://jeffhuang.com/productivity_text_file/](https://jeffhuang.com/productivity_text_file/)
+ - RSS feed: https://jeffhuang.com
+ - date published: 2021-12-24 08:50:48.739393+00:00
+
+
+## AWS power failure killed some hardware and instances • The Register
+ - [https://www.theregister.com/2021/12/22/aws_outage/](https://www.theregister.com/2021/12/22/aws_outage/)
+ - RSS feed: https://www.theregister.com
+ - date published: 2021-12-23 15:13:06.894651+00:00
+
+
+## Takedown notices threaten online thrift shops as business is exploding - The Verge
+ - [https://www.theverge.com/2021/12/13/22826114/takedown-notices-online-thrift-shops-copyright-trademark](https://www.theverge.com/2021/12/13/22826114/takedown-notices-online-thrift-shops-copyright-trademark)
+ - RSS feed: https://www.theverge.com
+ - date published: 2021-12-23 12:18:38.083626+00:00
+
+
+## MPs urge changes to 'outdated' gender recognition laws - BBC News
+ - [https://www.bbc.co.uk/news/uk-politics-59735218](https://www.bbc.co.uk/news/uk-politics-59735218)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2021-12-22 08:35:29.336205+00:00
+
+
+## McDonald's faces a French fries shortage in Japan - BBC News
+ - [https://www.bbc.co.uk/news/business-59750613](https://www.bbc.co.uk/news/business-59750613)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2021-12-22 08:33:03.172804+00:00
+
+
+## Hidden Networks in TP-Link Routers | Jahed Ahmed
+ - [https://jahed.dev/2021/12/19/hidden-networks-in-tp-link-routers/](https://jahed.dev/2021/12/19/hidden-networks-in-tp-link-routers/)
+ - RSS feed: https://jahed.dev
+ - date published: 2021-12-22 08:25:07.609612+00:00
 
 
 ## Carbon Footprint Factsheet
@@ -8849,6 +12737,54 @@
  - RSS feed: https://css.umich.edu
  - date published: 2021-12-21 14:30:59+00:00
  - tags: climate change,carbon footprint
+
+
+## Boeing and Airbus warn US over 5G safety concerns - BBC News
+ - [https://www.bbc.co.uk/news/business-59737194](https://www.bbc.co.uk/news/business-59737194)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2021-12-21 12:40:48.353648+00:00
+
+
+## Troy Hunt: Open Source Pwned Passwords with FBI Feed and 225M New NCA Passwords is Now Live!
+ - [https://www.troyhunt.com/open-source-pwned-passwords-with-fbi-feed-and-225m-new-nca-passwords-is-now-live/](https://www.troyhunt.com/open-source-pwned-passwords-with-fbi-feed-and-225m-new-nca-passwords-is-now-live/)
+ - RSS feed: https://www.troyhunt.com
+ - date published: 2021-12-21 08:44:20.965498+00:00
+
+
+## The TikTok Couch Guy on what it’s like to be investigated on the internet.
+ - [https://slate.com/technology/2021/12/tiktok-couch-guy-internet-sleuths.html](https://slate.com/technology/2021/12/tiktok-couch-guy-internet-sleuths.html)
+ - RSS feed: https://slate.com
+ - date published: 2021-12-21 00:52:57.166721+00:00
+
+
+## Tesla allegedly remotely unlocks Model 3 owner's car, uses smart summon to help repo agent - Alt Car news
+ - [https://tiremeetsroad.com/2021/03/18/tesla-allegedly-remotely-unlocks-model-3-owners-car-uses-smart-summon-to-help-repo-agent/](https://tiremeetsroad.com/2021/03/18/tesla-allegedly-remotely-unlocks-model-3-owners-car-uses-smart-summon-to-help-repo-agent/)
+ - RSS feed: https://tiremeetsroad.com
+ - date published: 2021-12-20 16:34:29.379370+00:00
+
+
+## I Was Part of a Human Subject Research Study Without My Consent - Xe
+ - [https://xeiaso.net/blog/princeton-study-2021-12-17](https://xeiaso.net/blog/princeton-study-2021-12-17)
+ - RSS feed: https://xeiaso.net
+ - date published: 2021-12-20 08:35:15.361596+00:00
+
+
+## Lithuania evacuates its embassy in China | The Economist
+ - [https://www.economist.com/china/lithuania-evacuates-its-embassy-in-china/21806843](https://www.economist.com/china/lithuania-evacuates-its-embassy-in-china/21806843)
+ - RSS feed: https://www.economist.com
+ - date published: 2021-12-19 17:11:48.690063+00:00
+
+
+## What to Do When You Get an Omicron Breakthrough Infection - The Atlantic
+ - [https://www.theatlantic.com/health/archive/2021/12/omicron-breakthrough-vaccine-testing/621014/](https://www.theatlantic.com/health/archive/2021/12/omicron-breakthrough-vaccine-testing/621014/)
+ - RSS feed: https://www.theatlantic.com
+ - date published: 2021-12-19 16:47:45.218792+00:00
+
+
+## A380: Last of the superjumbos handed to new owner - BBC News
+ - [https://www.bbc.co.uk/news/business-59667835](https://www.bbc.co.uk/news/business-59667835)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2021-12-18 09:55:52.784733+00:00
 
 
 ## Amazon partnered with China propaganda arm
@@ -8911,6 +12847,36 @@
  - date published: 2021-12-14 07:05:12+00:00
 
 
+## "Open Source" is Broken - Xe
+ - [https://xeiaso.net/blog/open-source-broken-2021-12-11](https://xeiaso.net/blog/open-source-broken-2021-12-11)
+ - RSS feed: https://xeiaso.net
+ - date published: 2021-12-12 09:05:44.970602+00:00
+
+
+## Professional maintainers: a wake-up call
+ - [https://blog.filippo.io/professional-maintainers/](https://blog.filippo.io/professional-maintainers/)
+ - RSS feed: https://blog.filippo.io
+ - date published: 2021-12-12 08:33:24.671761+00:00
+
+
+## How Cloudflare security responded to log4j2 vulnerability
+ - [https://blog.cloudflare.com/how-cloudflare-security-responded-to-log4j2-vulnerability/](https://blog.cloudflare.com/how-cloudflare-security-responded-to-log4j2-vulnerability/)
+ - RSS feed: https://blog.cloudflare.com
+ - date published: 2021-12-11 15:17:39.281904+00:00
+
+
+## Chrome Users Beware: Manifest V3 is Deceitful and Threatening | Electronic Frontier Foundation
+ - [https://www.eff.org/deeplinks/2021/12/chrome-users-beware-manifest-v3-deceitful-and-threatening](https://www.eff.org/deeplinks/2021/12/chrome-users-beware-manifest-v3-deceitful-and-threatening)
+ - RSS feed: https://www.eff.org
+ - date published: 2021-12-10 08:09:00.543457+00:00
+
+
+## Pixel prevented me from calling 911 : GooglePixel
+ - [https://old.reddit.com/r/GooglePixel/comments/r4xz1f/pixel_prevented_me_from_calling_911/](https://old.reddit.com/r/GooglePixel/comments/r4xz1f/pixel_prevented_me_from_calling_911/)
+ - RSS feed: https://old.reddit.com
+ - date published: 2021-12-09 19:01:24.305047+00:00
+
+
 ## Dziwne rozbieżności w danych o zgonach na COVID-19. Region regionowi nierówny
  - [https://businessinsider.com.pl/wiadomosci/dziwne-rozbieznosci-w-danych-o-zgonach-na-covid-19-region-regionowi-nierowny/qdrsy0w](https://businessinsider.com.pl/wiadomosci/dziwne-rozbieznosci-w-danych-o-zgonach-na-covid-19-region-regionowi-nierowny/qdrsy0w)
  - RSS feed: https://businessinsider.com.pl
@@ -8925,10 +12891,58 @@
  - tags: covid,statistics
 
 
+## Apple broke up with me 😢
+ - [https://merecivilian.com/apple-broke-up-with-me/](https://merecivilian.com/apple-broke-up-with-me/)
+ - RSS feed: https://merecivilian.com
+ - date published: 2021-12-07 07:29:43.778873+00:00
+
+
+## Google Pixel repairs resulted in leaked pics and a privacy nightmare - The Verge
+ - [https://www.theverge.com/2021/12/4/22817758/broken-google-pixel-phone-privacy-leak](https://www.theverge.com/2021/12/4/22817758/broken-google-pixel-phone-privacy-leak)
+ - RSS feed: https://www.theverge.com
+ - date published: 2021-12-05 17:48:41.089808+00:00
+
+
+## Prestigious prize visa: UK Global Talent fast-track scheme for scientists hasn’t received any applications since it launched | New Scientist
+ - [https://www.newscientist.com/article/2298455-uk-visa-scheme-for-prize-winning-scientists-receives-no-applications/](https://www.newscientist.com/article/2298455-uk-visa-scheme-for-prize-winning-scientists-receives-no-applications/)
+ - RSS feed: https://www.newscientist.com
+ - date published: 2021-12-05 16:52:34.065073+00:00
+
+
+## LEGO has designed a set that can't be taken apart | Brickset: LEGO set guide and database
+ - [https://brickset.com/article/67650/lego-has-designed-a-set-that-can-t-be-taken-apart](https://brickset.com/article/67650/lego-has-designed-a-set-that-can-t-be-taken-apart)
+ - RSS feed: https://brickset.com
+ - date published: 2021-12-03 16:24:20.716912+00:00
+
+
+## Microsoft says its own Edge browser is more trustworthy than "so 2008" Google Chrome - Neowin
+ - [https://www.neowin.net/news/microsoft-says-its-own-edge-browser-is-more-trustworthy-than-so-2008-google-chrome/](https://www.neowin.net/news/microsoft-says-its-own-edge-browser-is-more-trustworthy-than-so-2008-google-chrome/)
+ - RSS feed: https://www.neowin.net
+ - date published: 2021-12-03 08:04:04.193486+00:00
+
+
+## Some guidelines for writing web scrapers
+ - [https://cushychicken.github.io/rules-for-web-scrapers/](https://cushychicken.github.io/rules-for-web-scrapers/)
+ - RSS feed: https://cushychicken.github.io
+ - date published: 2021-12-02 23:30:57.512263+00:00
+
+
 ## Qualcomm’s new always-on smartphone camera is a potential privacy nightmare
  - [https://www.theverge.com/22811740/qualcomm-snapdragon-8-gen-1-always-on-camera-privacy-security-concerns](https://www.theverge.com/22811740/qualcomm-snapdragon-8-gen-1-always-on-camera-privacy-security-concerns)
  - RSS feed: https://www.theverge.com
  - date published: 2021-12-02 20:51:17+00:00
+
+
+## Instagram is Facebook now - by kate lindsay - Embedded
+ - [https://embedded.substack.com/p/instagram-is-facebook-now](https://embedded.substack.com/p/instagram-is-facebook-now)
+ - RSS feed: https://embedded.substack.com
+ - date published: 2021-12-02 18:22:31.730006+00:00
+
+
+## Project Zero: This shouldn't have happened: A vulnerability postmortem
+ - [https://googleprojectzero.blogspot.com/2021/12/this-shouldnt-have-happened.html](https://googleprojectzero.blogspot.com/2021/12/this-shouldnt-have-happened.html)
+ - RSS feed: https://googleprojectzero.blogspot.com
+ - date published: 2021-12-02 17:29:52.276595+00:00
 
 
 ## Germany announces nationwide lockdown for the unvaccinated
@@ -8956,10 +12970,82 @@
  - tags: blm,kyle rittenhouse,media bias
 
 
+## Why Paper Jams Persist | The New Yorker
+ - [https://www.newyorker.com/magazine/2018/02/12/why-paper-jams-persist](https://www.newyorker.com/magazine/2018/02/12/why-paper-jams-persist)
+ - RSS feed: https://www.newyorker.com
+ - date published: 2021-11-29 18:08:28.241142+00:00
+
+
+## Welcome to Fleet! | JetBrains News
+ - [https://blog.jetbrains.com/blog/2021/11/29/welcome-to-fleet/](https://blog.jetbrains.com/blog/2021/11/29/welcome-to-fleet/)
+ - RSS feed: https://blog.jetbrains.com
+ - date published: 2021-11-29 16:47:39.791578+00:00
+
+
+## Statically compiling Go programs
+ - [https://www.arp242.net/static-go.html#fnref:h](https://www.arp242.net/static-go.html#fnref:h)
+ - RSS feed: https://www.arp242.net
+ - date published: 2021-11-29 16:39:32.588553+00:00
+
+
+## The World’s Deadliest Thing — Anthony Warner
+ - [https://www.the-angry-chef.com/blog/the-worlds-deadliest-thing](https://www.the-angry-chef.com/blog/the-worlds-deadliest-thing)
+ - RSS feed: https://www.the-angry-chef.com
+ - date published: 2021-11-29 16:26:51.747875+00:00
+
+
+## Reduce code complexity: Guard clauses
+ - [https://www.rockandnull.com/guard-clauses-vs-nested-conditionals/](https://www.rockandnull.com/guard-clauses-vs-nested-conditionals/)
+ - RSS feed: https://www.rockandnull.com
+ - date published: 2021-11-28 11:45:19.101877+00:00
+
+
+## Why is the UK less likely to go into lockdown than Europe? | Evening Standard
+ - [https://www.standard.co.uk/news/uk/why-uk-less-likely-go-into-lockdown-than-europe-b967584.html](https://www.standard.co.uk/news/uk/why-uk-less-likely-go-into-lockdown-than-europe-b967584.html)
+ - RSS feed: https://www.standard.co.uk
+ - date published: 2021-11-28 11:35:06.470425+00:00
+
+
 ## Is the Mainstream Media a Threat to Freedom and Sanity?
  - [https://www.youtube.com/watch?v=5okSlrbgELA](https://www.youtube.com/watch?v=5okSlrbgELA)
  - RSS feed: https://www.youtube.com/c/academyofideas
  - date published: 2021-11-27 21:15:13+00:00
+
+
+## The Internet is Held Together With Spit & Baling Wire – Krebs on Security
+ - [https://krebsonsecurity.com/2021/11/the-internet-is-held-together-with-spit-baling-wire/](https://krebsonsecurity.com/2021/11/the-internet-is-held-together-with-spit-baling-wire/)
+ - RSS feed: https://krebsonsecurity.com
+ - date published: 2021-11-27 10:17:30.333065+00:00
+
+
+## AWKGo, an AWK-to-Go compiler
+ - [https://benhoyt.com/writings/awkgo/](https://benhoyt.com/writings/awkgo/)
+ - RSS feed: https://benhoyt.com
+ - date published: 2021-11-26 20:23:10.662230+00:00
+
+
+## Underrated reasons to be thankful
+ - [https://dynomight.net/thanks/](https://dynomight.net/thanks/)
+ - RSS feed: https://dynomight.net
+ - date published: 2021-11-26 08:05:22.130252+00:00
+
+
+## Is my cat Turing-complete? | Belay the C++
+ - [https://belaycpp.com/2021/11/24/is-my-cat-turing-complete/](https://belaycpp.com/2021/11/24/is-my-cat-turing-complete/)
+ - RSS feed: https://belaycpp.com
+ - date published: 2021-11-25 09:07:25.768886+00:00
+
+
+## The unbearable fussiness of the smart home - Stacey on IoT | Internet of Things news and analysis
+ - [https://staceyoniot.com/the-unbearable-fussiness-of-the-smart-home/](https://staceyoniot.com/the-unbearable-fussiness-of-the-smart-home/)
+ - RSS feed: https://staceyoniot.com
+ - date published: 2021-11-25 06:46:49.075463+00:00
+
+
+## Fifty percent of Facebook Messenger’s total voice traffic comes from Cambodia. Here’s why - Rest of World
+ - [https://restofworld.org/2021/facebook-didnt-know-why-half-of-messengers-voice-traffic-comes-from-cambodia-heres-why/](https://restofworld.org/2021/facebook-didnt-know-why-half-of-messengers-voice-traffic-comes-from-cambodia-heres-why/)
+ - RSS feed: https://restofworld.org
+ - date published: 2021-11-24 17:25:15.534785+00:00
 
 
 ## Kyle Rittenhouse's trial exposes biases among left-leaning media
@@ -8969,11 +13055,89 @@
  - tags: blm,kyle rittenhouse,media bias
 
 
+## My journey to type checking 7521 lines of Python
+ - [https://nskm.xyz/posts/stcmp2/](https://nskm.xyz/posts/stcmp2/)
+ - RSS feed: https://nskm.xyz
+ - date published: 2021-11-23 23:21:08.781664+00:00
+
+
+## Chat control: The latest EU plans to outlaw encryption and introduce telecommunications surveillance | mailbox.org
+ - [https://mailbox.org/en/post/chat-control-the-latest-eu-plans-to-outlaw-encryption-and-introduce-telecommunications-surveillance?nl](https://mailbox.org/en/post/chat-control-the-latest-eu-plans-to-outlaw-encryption-and-introduce-telecommunications-surveillance?nl)
+ - RSS feed: https://mailbox.org
+ - date published: 2021-11-23 17:34:06.057843+00:00
+
+
+## Cis people benefit from gender-affirming healthcare, not just trans folk
+ - [https://www.pinknews.co.uk/2021/11/19/gender-affirming-healthcare-cis-people-trans/](https://www.pinknews.co.uk/2021/11/19/gender-affirming-healthcare-cis-people-trans/)
+ - RSS feed: https://www.pinknews.co.uk
+ - date published: 2021-11-22 14:51:48.260654+00:00
+
+
+## Who, and Where, Is Chinese Tennis Star Peng Shuai? - The New York Times
+ - [https://www.nytimes.com/2021/11/21/world/asia/where-is-peng-shuai.html](https://www.nytimes.com/2021/11/21/world/asia/where-is-peng-shuai.html)
+ - RSS feed: https://www.nytimes.com
+ - date published: 2021-11-21 18:40:59.252767+00:00
+
+
+## Fiona Bruce: ‘Sometimes I struggle not to cry’ - YOU Magazine
+ - [https://www.you.co.uk/fiona-bruce-interview-2021/](https://www.you.co.uk/fiona-bruce-interview-2021/)
+ - RSS feed: https://www.you.co.uk
+ - date published: 2021-11-21 10:44:42.996698+00:00
+
+
+## Bill of the Month: Critically ill woman skips ER after spouse's costly stitches : Shots - Health News : NPR
+ - [https://www.npr.org/sections/health-shots/2021/11/19/1056866145/expensive-er-stitches-skip-care-bill-of-the-month](https://www.npr.org/sections/health-shots/2021/11/19/1056866145/expensive-er-stitches-skip-care-bill-of-the-month)
+ - RSS feed: https://www.npr.org
+ - date published: 2021-11-21 09:17:55.518403+00:00
+
+
 ## Documents show Bill Gates has given $319 million to media outlets to promote his global agenda
  - [https://thegrayzone.com/2021/11/21/bill-gates-million-media-outlets-global-agenda/](https://thegrayzone.com/2021/11/21/bill-gates-million-media-outlets-global-agenda/)
  - RSS feed: https://thegrayzone.com
  - date published: 2021-11-21 07:30:23+00:00
  - tags: bill gates,media
+
+
+## Cats track their owners’ movements, research finds | Cats | The Guardian
+ - [https://www.theguardian.com/lifeandstyle/2021/nov/10/cats-track-their-owners-movements-research-finds](https://www.theguardian.com/lifeandstyle/2021/nov/10/cats-track-their-owners-movements-research-finds)
+ - RSS feed: https://www.theguardian.com
+ - date published: 2021-11-20 14:13:27.551071+00:00
+
+
+## I Had Breakthrough COVID. It Was a Logistical Nightmare. - The Atlantic
+ - [https://www.theatlantic.com/health/archive/2021/11/the-worlds-only-normal-until-you-test-positive/620653/](https://www.theatlantic.com/health/archive/2021/11/the-worlds-only-normal-until-you-test-positive/620653/)
+ - RSS feed: https://www.theatlantic.com
+ - date published: 2021-11-20 11:26:59.486108+00:00
+
+
+## Swedish study suggests hiring discrimination is primarily a problem for men in female-dominated occupations
+ - [https://www.psypost.org/2021/05/swedish-study-suggests-hiring-discrimination-is-primarily-a-problem-for-men-in-female-dominated-occupations-60699](https://www.psypost.org/2021/05/swedish-study-suggests-hiring-discrimination-is-primarily-a-problem-for-men-in-female-dominated-occupations-60699)
+ - RSS feed: https://www.psypost.org
+ - date published: 2021-11-20 08:47:27.718359+00:00
+
+
+## Understanding why our build got 15x slower with Webpack 5 - Tines Engineering
+ - [https://engineering.tines.com/blog/understanding-why-our-build-got-15x-slower-with-webpack](https://engineering.tines.com/blog/understanding-why-our-build-got-15x-slower-with-webpack)
+ - RSS feed: https://engineering.tines.com
+ - date published: 2021-11-18 17:48:08.855844+00:00
+
+
+## Yes, PHP is Worth Learning/Using in $CURRENT_YEAR | Bulletproof PHP
+ - [https://bulletproofphp.dev/yes-php-is-worth-using](https://bulletproofphp.dev/yes-php-is-worth-using)
+ - RSS feed: https://bulletproofphp.dev
+ - date published: 2021-11-18 11:49:01.091318+00:00
+
+
+## Weird English | National Review
+ - [https://www.nationalreview.com/magazine/2021/11/29/weird-english/](https://www.nationalreview.com/magazine/2021/11/29/weird-english/)
+ - RSS feed: https://www.nationalreview.com
+ - date published: 2021-11-18 10:52:51.747083+00:00
+
+
+## Microsoft Calls Firefox’s Browser Workaround “Improper,” Will Block It
+ - [https://www.howtogeek.com/768727/microsoft-calls-firefoxs-browser-workaround-improper-will-block-it/](https://www.howtogeek.com/768727/microsoft-calls-firefoxs-browser-workaround-improper-will-block-it/)
+ - RSS feed: https://www.howtogeek.com
+ - date published: 2021-11-18 08:50:14.089318+00:00
 
 
 ## Things we learned from Kyle Rittenhouse’s trial that challenge assumptions about the case
@@ -8989,6 +13153,12 @@
  - date published: 2021-11-17 08:22:45+00:00
 
 
+## Python: Please stop screwing over Linux distros
+ - [https://drewdevault.com/2021/11/16/Python-stop-screwing-distros-over.html](https://drewdevault.com/2021/11/16/Python-stop-screwing-distros-over.html)
+ - RSS feed: https://drewdevault.com
+ - date published: 2021-11-16 22:44:06.097682+00:00
+
+
 ## Youtube removing dislikes is good actually.
  - [https://www.youtube.com/watch?v=qukO3pKmqFY](https://www.youtube.com/watch?v=qukO3pKmqFY)
  - RSS feed: https://www.youtube.com/@DoobusGoobus
@@ -8996,11 +13166,23 @@
  - tags: free speech,hate speech,dislikes,corporatocracy,censorship,youtube
 
 
+## Goodbye, Clean Code — Overreacted
+ - [https://overreacted.io/goodbye-clean-code/](https://overreacted.io/goodbye-clean-code/)
+ - RSS feed: https://overreacted.io
+ - date published: 2021-11-16 17:09:43.442181+00:00
+
+
 ## A U.S. government contractor embedded tracking software in the apps of millions of smartphone users
  - [https://www.androidcentral.com/us-government-contractor-embedded-tracking-software-apps-millions-smartphone-users](https://www.androidcentral.com/us-government-contractor-embedded-tracking-software-apps-millions-smartphone-users)
  - RSS feed: www.androidcentral.com
  - date published: 2021-11-16 12:04:50+00:00
  - tags: government control
+
+
+## The secret court case 50 years ago that has robbed transgender people of their rights ever since
+ - [https://inews.co.uk/news/long-reads/secret-court-case-50-years-ago-robbed-transgender-people-rights-1291857](https://inews.co.uk/news/long-reads/secret-court-case-50-years-ago-robbed-transgender-people-rights-1291857)
+ - RSS feed: https://inews.co.uk
+ - date published: 2021-11-15 20:35:09.544913+00:00
 
 
 ## Nigel Farage: Austrian lockdown of unvaccinated 'is deeply sinister'
@@ -9014,6 +13196,30 @@
  - RSS feed: https://www.youtube.com/@dwnews
  - date published: 2021-11-15 08:28:37+00:00
  - tags: lockdown,covid
+
+
+## Latest Windows 11 overrides attempts to avoid using Edge • The Register
+ - [https://www.theregister.com/2021/11/11/latest_windows_11_build_enforces_edge_links/](https://www.theregister.com/2021/11/11/latest_windows_11_build_enforces_edge_links/)
+ - RSS feed: https://www.theregister.com
+ - date published: 2021-11-12 23:15:07.741342+00:00
+
+
+## Breaking Printf · Phil Pearl's Blog
+ - [https://philpearl.github.io/post/anathema/](https://philpearl.github.io/post/anathema/)
+ - RSS feed: https://philpearl.github.io
+ - date published: 2021-11-12 15:31:28.732204+00:00
+
+
+## Upcoming Features in Go 1.18 · Sebastian Holstein
+ - [https://sebastian-holstein.de/post/2021-11-08-go-1.18-features/](https://sebastian-holstein.de/post/2021-11-08-go-1.18-features/)
+ - RSS feed: https://sebastian-holstein.de
+ - date published: 2021-11-12 15:23:19.142809+00:00
+
+
+## The Invisible JavaScript Backdoor – Certitude Blog
+ - [https://certitude.consulting/blog/en/invisible-backdoor/](https://certitude.consulting/blog/en/invisible-backdoor/)
+ - RSS feed: https://certitude.consulting
+ - date published: 2021-11-11 09:27:33.629982+00:00
 
 
 ## Kyle Rittenhouse testifies he fired to protect himself, faces lengthy cross-examination
@@ -9030,6 +13236,73 @@
  - tags: youtube,censorship
 
 
+## Jimmy Wales’ Final Email. Jimmy Wales, the founder of Wikipedia… | by Craig Younkins | Nov, 2021 | Medium
+ - [https://cyounkins.medium.com/jimmy-wales-final-email-de36f39bfbbd](https://cyounkins.medium.com/jimmy-wales-final-email-de36f39bfbbd)
+ - RSS feed: https://cyounkins.medium.com
+ - date published: 2021-11-10 17:02:37.580119+00:00
+
+
+## ProctorU is dystopian spyware – Terence Eden’s Blog
+ - [https://shkspr.mobi/blog/2021/11/proctoru-is-dystopian-spyware/](https://shkspr.mobi/blog/2021/11/proctoru-is-dystopian-spyware/)
+ - RSS feed: https://shkspr.mobi
+ - date published: 2021-11-10 08:19:57.942675+00:00
+
+
+## „Facebook Files”, czyli o tym, czego Facebook nie chciał nam powiedzieć
+ - [https://demagog.org.pl/analizy_i_raporty/facebook-files-czyli-o-tym-czego-facebook-nie-chcial-nam-powiedziec/](https://demagog.org.pl/analizy_i_raporty/facebook-files-czyli-o-tym-czego-facebook-nie-chcial-nam-powiedziec/)
+ - RSS feed: https://demagog.org.pl
+ - date published: 2021-11-09 20:34:33+00:00
+ - tags: facebook files,facebook,social media
+
+
+## Stop requiring specific technology experience for senior-plus engineers | Mike McQuaid
+ - [https://mikemcquaid.com/2021/11/08/stop-requiring-specific-technology-experience-for-senior-plus-engineers/](https://mikemcquaid.com/2021/11/08/stop-requiring-specific-technology-experience-for-senior-plus-engineers/)
+ - RSS feed: https://mikemcquaid.com
+ - date published: 2021-11-09 16:34:25.702413+00:00
+
+
+## How Pinterest utterly ruined photo search on the internet
+ - [https://www.inputmag.com/culture/pinterest-sucks-google-image-photo-search-ruining-internet](https://www.inputmag.com/culture/pinterest-sucks-google-image-photo-search-ruining-internet)
+ - RSS feed: https://www.inputmag.com
+ - date published: 2021-11-09 16:32:50.622092+00:00
+
+
+## A terrible schema from a clueless programmer
+ - [http://rachelbythebay.com/w/2021/11/06/sql/](http://rachelbythebay.com/w/2021/11/06/sql/)
+ - RSS feed: http://rachelbythebay.com
+ - date published: 2021-11-08 15:06:27.572253+00:00
+
+
+## incolumitas.com – So you want to Scrape like the Big Boys? 🚀
+ - [https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/](https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/)
+ - RSS feed: https://incolumitas.com
+ - date published: 2021-11-06 08:07:19.990899+00:00
+
+
+## What is AT&T doing at 1111340002?
+ - [https://scribe.rip/telecom-expert/what-is-at-t-doing-at-1111340002-c418876c212c](https://scribe.rip/telecom-expert/what-is-at-t-doing-at-1111340002-c418876c212c)
+ - RSS feed: https://scribe.rip
+ - date published: 2021-11-06 08:07:19.990899+00:00
+
+
+## These Parents Built a School App. Then the City Called the Cops | WIRED UK
+ - [https://www.wired.co.uk/article/sweden-stockholm-school-app-open-source](https://www.wired.co.uk/article/sweden-stockholm-school-app-open-source)
+ - RSS feed: https://www.wired.co.uk
+ - date published: 2021-11-05 08:55:23.080735+00:00
+
+
+## An oral history of Bank Python
+ - [https://calpaterson.com/bank-python.html](https://calpaterson.com/bank-python.html)
+ - RSS feed: https://calpaterson.com
+ - date published: 2021-11-04 17:32:15.189179+00:00
+
+
+## How GoGuardian AI Spyware Took Over Schools, Student Devices During Covid - Bloomberg
+ - [https://www.bloomberg.com/news/features/2021-10-28/how-goguardian-ai-spyware-took-over-schools-student-devices-during-covid](https://www.bloomberg.com/news/features/2021-10-28/how-goguardian-ai-spyware-took-over-schools-student-devices-during-covid)
+ - RSS feed: https://www.bloomberg.com
+ - date published: 2021-11-04 16:50:30.708179+00:00
+
+
 ## Letter confirms Wuhan lab’s COVID-19 leak was funded by US taxpayers
  - [https://nypost.com/2021/11/04/letter-confirms-wuhan-lab-virus-study-was-funded-by-taxpayers/](https://nypost.com/2021/11/04/letter-confirms-wuhan-lab-virus-study-was-funded-by-taxpayers/)
  - RSS feed: https://nypost.com
@@ -9044,11 +13317,29 @@
  - tags: covid
 
 
+## Do-nothing scripting: the key to gradual automation – Dan Slimmon
+ - [https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/](https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/)
+ - RSS feed: https://blog.danslimmon.com
+ - date published: 2021-11-03 18:04:43.481947+00:00
+
+
+## Trump's new social media platform found using Mastodon code: Our statement - Official Mastodon Blog
+ - [https://blog.joinmastodon.org/2021/10/trumps-new-social-media-platform-found-using-mastodon-code/](https://blog.joinmastodon.org/2021/10/trumps-new-social-media-platform-found-using-mastodon-code/)
+ - RSS feed: https://blog.joinmastodon.org
+ - date published: 2021-11-03 08:26:47.760948+00:00
+
+
 ## Why Modern Movies Suck - They're Written By Children
  - [https://youtu.be/CQ92cggLMx8](https://youtu.be/CQ92cggLMx8)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA
  - date published: 2021-11-02 11:24:42+00:00
  - tags: hollywood,movies
+
+
+## Wacom drawing tablets track the name of every application that you open | Robert Heaton
+ - [https://robertheaton.com/2020/02/05/wacom-drawing-tablets-track-name-of-every-application-you-open/](https://robertheaton.com/2020/02/05/wacom-drawing-tablets-track-name-of-every-application-you-open/)
+ - RSS feed: https://robertheaton.com
+ - date published: 2021-11-01 10:20:25.536873+00:00
 
 
 ## Metaverse: Ready Player One Becomes Reality
@@ -9058,10 +13349,22 @@
  - tags: meta,ready player one,metaverse,vr
 
 
+## The metaverse is already here, it's called the internet - Can's blog
+ - [https://canolcer.com/post/metaverse-is-already-here/](https://canolcer.com/post/metaverse-is-already-here/)
+ - RSS feed: https://canolcer.com
+ - date published: 2021-10-31 10:15:17.607872+00:00
+
+
 ## Popper, Soros and the Open Society
  - [https://notrelated.xyz/audio/s02/S02E05_-_Popper_Soros_and_the_Open_Society.ogg](https://notrelated.xyz/audio/s02/S02E05_-_Popper_Soros_and_the_Open_Society.ogg)
  - RSS feed: https://notrelated.xyz/rss
  - date published: 2021-10-31 04:00:00+00:00
+
+
+## Architect Resigns in Protest over UCSB Mega-Dorm - The Santa Barbara Independent
+ - [https://www.independent.com/2021/10/28/architect-resigns-in-protest-over-ucsb-mega-dorm/](https://www.independent.com/2021/10/28/architect-resigns-in-protest-over-ucsb-mega-dorm/)
+ - RSS feed: https://www.independent.com
+ - date published: 2021-10-30 08:07:42.890249+00:00
 
 
 ## MEP's stand up for our right to freedom after imposing Digital Green Certificate to enter Parliament
@@ -9071,11 +13374,65 @@
  - tags: eu,contract,covid
 
 
+## US issues first gender-neutral 'X' passport - BBC News
+ - [https://www.bbc.co.uk/news/world-us-canada-59076614](https://www.bbc.co.uk/news/world-us-canada-59076614)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2021-10-28 22:00:40.700079+00:00
+
+
+## Viewing website HTML code is not illegal or “hacking,” prof. tells Missouri gov. | Ars Technica
+ - [https://arstechnica.com/tech-policy/2021/10/viewing-website-html-code-is-not-illegal-or-hacking-prof-tells-missouri-gov/](https://arstechnica.com/tech-policy/2021/10/viewing-website-html-code-is-not-illegal-or-hacking-prof-tells-missouri-gov/)
+ - RSS feed: https://arstechnica.com
+ - date published: 2021-10-28 11:17:37.725544+00:00
+
+
+## ‘I left university and adopted my brother and sister’ - BBC News
+ - [https://www.bbc.co.uk/news/stories-59009682](https://www.bbc.co.uk/news/stories-59009682)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2021-10-27 16:45:18.735504+00:00
+
+
+## Tech giants try distancing themselves from Facebook - BBC News
+ - [https://www.bbc.co.uk/news/technology-59065666](https://www.bbc.co.uk/news/technology-59065666)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2021-10-27 16:29:52.803468+00:00
+
+
+## Ideas | The “Phone Disaster”: How WeChat became digital traps for Chinese Uyghurs - Rest of World
+ - [https://restofworld.org/2021/china-smartphone-uyghurs/](https://restofworld.org/2021/china-smartphone-uyghurs/)
+ - RSS feed: https://restofworld.org
+ - date published: 2021-10-26 14:22:27.543216+00:00
+
+
+## Why are the Tories still leading in the polls? - New Statesman
+ - [https://www.newstatesman.com/politics/polling/2021/10/why-are-the-tories-still-leading-in-the-polls](https://www.newstatesman.com/politics/polling/2021/10/why-are-the-tories-still-leading-in-the-polls)
+ - RSS feed: https://www.newstatesman.com
+ - date published: 2021-10-26 14:18:36.565063+00:00
+
+
 ## Allegation of CIA 'murder' plot is game-changer in Assange extradition hearing, fiancee says
  - [https://www.reuters.com/world/allegation-cia-murder-plot-is-game-changer-assange-extradition-hearing-fiancee-2021-10-25/](https://www.reuters.com/world/allegation-cia-murder-plot-is-game-changer-assange-extradition-hearing-fiancee-2021-10-25/)
  - RSS feed: https://www.reuters.com/world/allegation-cia-murder-plot-is-game-changer-assange-extradition-hearing-fiancee-2021-10-25/
  - date published: 2021-10-25 19:49:35+00:00
  - tags: assange,wikileaks
+
+
+## Notes From the Meeting On Python GIL Removal Between Python Core and Sam Gross - Łukasz Langa
+ - [https://lukasz.langa.pl/5d044f91-49c1-4170-aed1-62b6763e6ad0/](https://lukasz.langa.pl/5d044f91-49c1-4170-aed1-62b6763e6ad0/)
+ - RSS feed: https://lukasz.langa.pl
+ - date published: 2021-10-25 17:09:07.180428+00:00
+
+
+## Despite having just 5.8% sales, over 38% of bug reports come from Linux | Hacker News
+ - [https://news.ycombinator.com/item?id=28978086](https://news.ycombinator.com/item?id=28978086)
+ - RSS feed: https://news.ycombinator.com
+ - date published: 2021-10-25 08:08:41.168061+00:00
+
+
+## They Might Never Tell You It’s Broken | Pointers Gone Wild
+ - [https://pointersgonewild.com/2019/11/02/they-might-never-tell-you-its-broken/](https://pointersgonewild.com/2019/11/02/they-might-never-tell-you-its-broken/)
+ - RSS feed: https://pointersgonewild.com
+ - date published: 2021-10-25 08:04:49.332878+00:00
 
 
 ## BlackRock CEO Larry Fink’s Family Tree Was A Mystery Until Now
@@ -9085,6 +13442,36 @@
  - tags: blackrock,larry fink,family tree
 
 
+## Corporate Transition
+ - [https://www.elle.com/life-love/a37507807/0106-0108-corporate-transition-october-2021/](https://www.elle.com/life-love/a37507807/0106-0108-corporate-transition-october-2021/)
+ - RSS feed: https://www.elle.com
+ - date published: 2021-10-23 20:40:09.826138+00:00
+
+
+## Leaving Google — jayconrod.com
+ - [https://jayconrod.com/posts/122/leaving-google](https://jayconrod.com/posts/122/leaving-google)
+ - RSS feed: https://jayconrod.com
+ - date published: 2021-10-23 11:17:38.418822+00:00
+
+
+## EXCLUSIVE Dutch forensic lab says it has decoded Tesla's driving data | Reuters
+ - [https://www.reuters.com/business/autos-transportation/dutch-forensic-lab-says-it-has-decoded-teslas-driving-data-2021-10-21/](https://www.reuters.com/business/autos-transportation/dutch-forensic-lab-says-it-has-decoded-teslas-driving-data-2021-10-21/)
+ - RSS feed: https://www.reuters.com
+ - date published: 2021-10-23 10:53:15.722543+00:00
+
+
+## Police Can’t Demand You Reveal Your Phone Passcode and Then Tell a Jury You Refused | Electronic Frontier Foundation
+ - [https://www.eff.org/deeplinks/2021/10/police-cant-demand-you-reveal-your-phone-passcode-and-then-tell-jury-you-refused](https://www.eff.org/deeplinks/2021/10/police-cant-demand-you-reveal-your-phone-passcode-and-then-tell-jury-you-refused)
+ - RSS feed: https://www.eff.org
+ - date published: 2021-10-23 08:38:33.836280+00:00
+
+
+## Alec Baldwin 'heartbroken' over fatal film set shooting - BBC News
+ - [https://www.bbc.co.uk/news/world-us-canada-59015889](https://www.bbc.co.uk/news/world-us-canada-59015889)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2021-10-22 22:37:31.271232+00:00
+
+
 ## Israel designates Palestinian civil society groups as terrorists, U.N. 'alarmed'
  - [https://www.reuters.com/business/aerospace-defense/israel-designates-six-palestinian-civil-society-groups-terrorists-2021-10-22/](https://www.reuters.com/business/aerospace-defense/israel-designates-six-palestinian-civil-society-groups-terrorists-2021-10-22/)
  - RSS feed: https://cdn.feedcontrol.net/8/1114-wioSIX3uu8MEj.xml
@@ -9092,11 +13479,71 @@
  - tags: israel
 
 
+## Come Go With Me - Darren Parkinson
+ - [https://darrenparkinson.uk/posts/2021-10-13-why-network-engineers-should-learn-go/](https://darrenparkinson.uk/posts/2021-10-13-why-network-engineers-should-learn-go/)
+ - RSS feed: https://darrenparkinson.uk
+ - date published: 2021-10-22 18:34:18.576046+00:00
+
+
+## You Don't Need a Library for File Walking in Go | Kablamo Engineering Blog
+ - [https://engineering.kablamo.com.au/posts/2021/quick-comparison-between-go-file-walk-implementations](https://engineering.kablamo.com.au/posts/2021/quick-comparison-between-go-file-walk-implementations)
+ - RSS feed: https://engineering.kablamo.com.au
+ - date published: 2021-10-22 17:02:27.724435+00:00
+
+
+## Beej's Guide to C Programming
+ - [https://beej.us/guide/bgc/html/split/goto.html](https://beej.us/guide/bgc/html/split/goto.html)
+ - RSS feed: https://beej.us
+ - date published: 2021-10-22 13:45:17.212124+00:00
+
+
+## Willingness to look stupid
+ - [https://danluu.com/look-stupid/](https://danluu.com/look-stupid/)
+ - RSS feed: https://danluu.com
+ - date published: 2021-10-22 09:55:36.121407+00:00
+
+
+## Netflix staff protest against 'transphobic' Dave Chappelle show - BBC News
+ - [https://www.bbc.co.uk/news/world-us-canada-58990325](https://www.bbc.co.uk/news/world-us-canada-58990325)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2021-10-22 07:50:15.327708+00:00
+
+
+## Parson doubles down on push to prosecute reporter who found security flaw in state site • Missouri Independent
+ - [https://missouriindependent.com/2021/10/21/parson-doubles-down-on-push-to-prosecute-reporter-who-found-security-flaw-in-state-site/](https://missouriindependent.com/2021/10/21/parson-doubles-down-on-push-to-prosecute-reporter-who-found-security-flaw-in-state-site/)
+ - RSS feed: https://missouriindependent.com
+ - date published: 2021-10-22 07:35:26.707398+00:00
+
+
 ## BlackRock: The Company that Owns the World
  - [https://www.youtube.com/watch?v=1n4zkdfKUAE](https://www.youtube.com/watch?v=1n4zkdfKUAE)
  - RSS feed: https://www.youtube.com/@jaketran
  - date published: 2021-10-21 08:30:47+00:00
  - tags: blackrock
+
+
+## We Analyzed 425,909 Favicons • iconmap.io
+ - [https://iconmap.io/blog](https://iconmap.io/blog)
+ - RSS feed: https://iconmap.io
+ - date published: 2021-10-21 08:08:45.727953+00:00
+
+
+## About that time I had an outburst during the YCombinator Interview - by Jabari - The Trick Revealed
+ - [https://owlpal.substack.com/p/about-that-time-i-had-an-outburst](https://owlpal.substack.com/p/about-that-time-i-had-an-outburst)
+ - RSS feed: https://owlpal.substack.com
+ - date published: 2021-10-21 08:00:26.889050+00:00
+
+
+## ESA - Three hours to save Integral
+ - [https://www.esa.int/Enabling_Support/Operations/Three_hours_to_save_Integral](https://www.esa.int/Enabling_Support/Operations/Three_hours_to_save_Integral)
+ - RSS feed: https://www.esa.int
+ - date published: 2021-10-21 07:55:27.682209+00:00
+
+
+## Leave no trace: how a teenage hacker lost himself online | Hacking | The Guardian
+ - [https://www.theguardian.com/technology/2021/oct/14/leave-no-trace-how-a-teenage-hacker-lost-himself-online](https://www.theguardian.com/technology/2021/oct/14/leave-no-trace-how-a-teenage-hacker-lost-himself-online)
+ - RSS feed: https://www.theguardian.com
+ - date published: 2021-10-20 22:39:49.099132+00:00
 
 
 ## Free Chinese VPN exposed data from over a million users
@@ -9111,6 +13558,12 @@
  - date published: 2021-10-20 07:43:01+00:00
 
 
+## mdk.fr – How APT does its fancy progress bar
+ - [https://mdk.fr/blog/how-apt-does-its-fancy-progress-bar.html](https://mdk.fr/blog/how-apt-does-its-fancy-progress-bar.html)
+ - RSS feed: https://mdk.fr
+ - date published: 2021-10-19 19:49:49.060880+00:00
+
+
 ## In secret vaccine contracts with governments, Pfizer took hard line in push for profit, report says
  - [https://www.washingtonpost.com/world/2021/10/19/secret-vaccine-contracts-with-governments-pfizer-took-hard-line-push-profit-report-says/](https://www.washingtonpost.com/world/2021/10/19/secret-vaccine-contracts-with-governments-pfizer-took-hard-line-push-profit-report-says/)
  - RSS feed: https://www.washingtonpost.com
@@ -9118,10 +13571,76 @@
  - tags: pfizer,vaccine,covid
 
 
+## PM urged to enact ‘David’s law’ against social media abuse after Amess’s death | UK news | The Guardian
+ - [https://www.theguardian.com/uk-news/2021/oct/18/pm-urged-to-enact-davids-law-against-social-media-abuse-after-amesss-death](https://www.theguardian.com/uk-news/2021/oct/18/pm-urged-to-enact-davids-law-against-social-media-abuse-after-amesss-death)
+ - RSS feed: https://www.theguardian.com
+ - date published: 2021-10-19 10:22:25.835162+00:00
+
+
 ## Rozpoznawanie twarzy weszło na wyższy poziom. W Moskwie tak płaci się za przejazdy metrem
  - [https://www.chip.pl/2021/10/rozpoznawanie-twarzy-metro-moskwa/](https://www.chip.pl/2021/10/rozpoznawanie-twarzy-metro-moskwa/)
  - RSS feed: www.chip.pl
  - date published: 2021-10-17 12:04:49+00:00
+
+
+## The Javascript "ecosystem" is a hot mess and so is software development in general - nadh.in
+ - [https://nadh.in/blog/javascript-ecosystem-software-development-are-a-hot-mess/](https://nadh.in/blog/javascript-ecosystem-software-development-are-a-hot-mess/)
+ - RSS feed: https://nadh.in
+ - date published: 2021-10-17 10:31:15.122763+00:00
+
+
+## Canon sued for disabling scanner when printers run out of ink
+ - [https://www.bleepingcomputer.com/news/legal/canon-sued-for-disabling-scanner-when-printers-run-out-of-ink/](https://www.bleepingcomputer.com/news/legal/canon-sued-for-disabling-scanner-when-printers-run-out-of-ink/)
+ - RSS feed: https://www.bleepingcomputer.com
+ - date published: 2021-10-17 07:59:04.789371+00:00
+
+
+## Valve bans blockchain games and NFTs on Steam, Epic will try to make it work - The Verge
+ - [https://www.theverge.com/2021/10/15/22728425/valve-steam-blockchain-nft-crypto-ban-games-age-of-rust](https://www.theverge.com/2021/10/15/22728425/valve-steam-blockchain-nft-crypto-ban-games-age-of-rust)
+ - RSS feed: https://www.theverge.com
+ - date published: 2021-10-16 10:35:21.578316+00:00
+
+
+## Most Canadians believe Facebook harms their mental health, survey suggests - The Globe and Mail
+ - [https://www.theglobeandmail.com/canada/article-most-canadians-believe-facebook-harms-their-mental-health-survey-2/](https://www.theglobeandmail.com/canada/article-most-canadians-believe-facebook-harms-their-mental-health-survey-2/)
+ - RSS feed: https://www.theglobeandmail.com
+ - date published: 2021-10-16 10:31:22.507536+00:00
+
+
+## BoltDB vs Badger: A Comparison of Go Key-Value databases
+ - [https://tech.townsourced.com/post/boltdb-vs-badger/](https://tech.townsourced.com/post/boltdb-vs-badger/)
+ - RSS feed: https://tech.townsourced.com
+ - date published: 2021-10-15 20:09:35.175298+00:00
+
+
+## Finding and fixing memory leaks in Go - DEV Community
+ - [https://dev.to/googlecloud/finding-and-fixing-memory-leaks-in-go-1k1h](https://dev.to/googlecloud/finding-and-fixing-memory-leaks-in-go-1k1h)
+ - RSS feed: https://dev.to
+ - date published: 2021-10-15 18:41:27.374519+00:00
+
+
+## Safer Enums in Go
+ - [https://threedots.tech/post/safer-enums-in-go/](https://threedots.tech/post/safer-enums-in-go/)
+ - RSS feed: https://threedots.tech
+ - date published: 2021-10-15 18:34:57.456892+00:00
+
+
+## Covid Is Rising In Schools, Here's What It Means For You | HuffPost UK Life
+ - [https://www.huffingtonpost.co.uk/entry/heres-what-we-know-about-the-latest-levels-of-covid-in-schools_uk_615d63a7e4b06f0ef28a4964](https://www.huffingtonpost.co.uk/entry/heres-what-we-know-about-the-latest-levels-of-covid-in-schools_uk_615d63a7e4b06f0ef28a4964)
+ - RSS feed: https://www.huffingtonpost.co.uk
+ - date published: 2021-10-15 14:11:39.651994+00:00
+
+
+## Missouri governor vows criminal prosecution of reporter who found flaw in state website • Missouri Independent
+ - [https://missouriindependent.com/2021/10/14/missouri-governor-vows-criminal-prosecution-of-reporter-who-found-flaw-in-state-website/](https://missouriindependent.com/2021/10/14/missouri-governor-vows-criminal-prosecution-of-reporter-who-found-flaw-in-state-website/)
+ - RSS feed: https://missouriindependent.com
+ - date published: 2021-10-15 08:00:40.275009+00:00
+
+
+## Apple silently fixes iOS zero-day, asks bug reporter to keep quiet
+ - [https://www.bleepingcomputer.com/news/apple/apple-silently-fixes-ios-zero-day-asks-bug-reporter-to-keep-quiet/](https://www.bleepingcomputer.com/news/apple/apple-silently-fixes-ios-zero-day-asks-bug-reporter-to-keep-quiet/)
+ - RSS feed: https://www.bleepingcomputer.com
+ - date published: 2021-10-14 06:08:45.247999+00:00
 
 
 ## The tyranny of “diversity, equity, and inclusion”
@@ -9138,6 +13657,132 @@
  - tags: government,social media,social engineering,propaganda
 
 
+## Firefox Suggest: An Anatomy of a PR Incident
+ - [https://www.quippd.com/writing/2021/10/10/firefox-suggest-an-anatomy.html](https://www.quippd.com/writing/2021/10/10/firefox-suggest-an-anatomy.html)
+ - RSS feed: https://www.quippd.com
+ - date published: 2021-10-12 16:04:29.412269+00:00
+
+
+## Magpie Driven Development (MDD) - Niche Software
+ - [http://www.nichesoftware.co.nz/2021/07/10/magpie-driven-development.html](http://www.nichesoftware.co.nz/2021/07/10/magpie-driven-development.html)
+ - RSS feed: http://www.nichesoftware.co.nz
+ - date published: 2021-10-12 13:43:31.798525+00:00
+
+
+## China Makes Sure Everyone Writes Taiwan’s Name Just So—Even a Colorado High School - WSJ
+ - [https://www.wsj.com/articles/china-makes-sure-everyone-writes-taiwans-name-just-soeven-a-colorado-high-school-11631304386](https://www.wsj.com/articles/china-makes-sure-everyone-writes-taiwans-name-just-soeven-a-colorado-high-school-11631304386)
+ - RSS feed: https://www.wsj.com
+ - date published: 2021-10-12 13:40:13.303657+00:00
+
+
+## Relational Databases Aren’t Dinosaurs, They’re Sharks - Simple Thread
+ - [https://www.simplethread.com/relational-databases-arent-dinosaurs-theyre-sharks/](https://www.simplethread.com/relational-databases-arent-dinosaurs-theyre-sharks/)
+ - RSS feed: https://www.simplethread.com
+ - date published: 2021-10-12 11:32:41.010594+00:00
+
+
+## Code rant: The Configuration Complexity Clock
+ - [https://mikehadlow.blogspot.com/2012/05/configuration-complexity-clock.html?m=1](https://mikehadlow.blogspot.com/2012/05/configuration-complexity-clock.html?m=1)
+ - RSS feed: https://mikehadlow.blogspot.com
+ - date published: 2021-10-11 21:46:17.647048+00:00
+
+
+## I keep making things out of checkboxes | Bryan Braun - Designer/Developer
+ - [https://www.bryanbraun.com/2021/09/21/i-keep-making-things-out-of-checkboxes/](https://www.bryanbraun.com/2021/09/21/i-keep-making-things-out-of-checkboxes/)
+ - RSS feed: https://www.bryanbraun.com
+ - date published: 2021-10-11 19:09:46.629773+00:00
+
+
+## China again blocks Wikimedia Foundation’s accreditation to World Intellectual Property Organization – Wikimedia Foundation
+ - [https://wikimediafoundation.org/news/2021/10/05/china-again-blocks-wikimedia-foundations-accreditation-to-world-intellectual-property-organization/](https://wikimediafoundation.org/news/2021/10/05/china-again-blocks-wikimedia-foundations-accreditation-to-world-intellectual-property-organization/)
+ - RSS feed: https://wikimediafoundation.org
+ - date published: 2021-10-11 07:28:11.676453+00:00
+
+
+## The BBC’s radical new data plan takes aim at Netflix | WIRED UK
+ - [https://www.wired.co.uk/article/bbc-data-personalisation](https://www.wired.co.uk/article/bbc-data-personalisation)
+ - RSS feed: https://www.wired.co.uk
+ - date published: 2021-10-10 19:46:37.880767+00:00
+
+
+## Finding and reporting an asyncio bug in Python 3.10
+ - [https://simonwillison.net/2021/Oct/9/finding-and-reporting-a-bug/](https://simonwillison.net/2021/Oct/9/finding-and-reporting-a-bug/)
+ - RSS feed: https://simonwillison.net
+ - date published: 2021-10-10 14:38:26.640024+00:00
+
+
+## Luxury student complex in Glasgow 'unfinished and filthy' - BBC News
+ - [https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58849933](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58849933)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2021-10-10 14:21:37.962715+00:00
+
+
+## Chris Packham: Fire attack on New Forest home will not sway me - BBC News
+ - [https://www.bbc.co.uk/news/uk-england-hampshire-58861252](https://www.bbc.co.uk/news/uk-england-hampshire-58861252)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2021-10-10 12:58:34.164828+00:00
+
+
+## Apple’s fortress of secrecy is crumbling from the inside - The Verge
+ - [https://www.theverge.com/22700898/apple-company-culture-change-secrecy-employee-unrest](https://www.theverge.com/22700898/apple-company-culture-change-secrecy-employee-unrest)
+ - RSS feed: https://www.theverge.com
+ - date published: 2021-10-09 12:18:38.142678+00:00
+
+
+## Why We Need to Upgrade Our Face Masks--and Where to Get Them - Scientific American
+ - [https://www.scientificamerican.com/article/why-we-need-to-upgrade-our-face-masks-and-where-to-get-them/](https://www.scientificamerican.com/article/why-we-need-to-upgrade-our-face-masks-and-where-to-get-them/)
+ - RSS feed: https://www.scientificamerican.com
+ - date published: 2021-10-09 11:25:13.976175+00:00
+
+
+## API Handyman | Empty list, HTTP status code 200 vs 204 vs 404
+ - [https://apihandyman.io/empty-lists-http-status-code-200-vs-204-vs-404/](https://apihandyman.io/empty-lists-http-status-code-200-vs-204-vs-404/)
+ - RSS feed: https://apihandyman.io
+ - date published: 2021-10-09 10:39:35.541215+00:00
+
+
+## Faster time parsing · Phil Pearl's Blog
+ - [https://philpearl.github.io/post/perf_time/](https://philpearl.github.io/post/perf_time/)
+ - RSS feed: https://philpearl.github.io
+ - date published: 2021-10-08 15:23:53.812561+00:00
+
+
+## 3 Things Go Needs Right Now More Than Generics | by Ryan Collingham | Oct, 2021 | Better Programming
+ - [https://betterprogramming.pub/three-things-go-needs-right-now-more-than-generics-a6225d62f76b](https://betterprogramming.pub/three-things-go-needs-right-now-more-than-generics-a6225d62f76b)
+ - RSS feed: https://betterprogramming.pub
+ - date published: 2021-10-08 15:18:01.660516+00:00
+
+
+## Twitch blames server error for massive data leak - BBC News
+ - [https://www.bbc.co.uk/news/technology-58829604](https://www.bbc.co.uk/news/technology-58829604)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2021-10-08 13:38:10.016319+00:00
+
+
+## Samsung apologises for Russian app download error - BBC News
+ - [https://www.bbc.co.uk/news/technology-58843162](https://www.bbc.co.uk/news/technology-58843162)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2021-10-08 13:36:13.803315+00:00
+
+
+## Tesla: Elon Musk says company headquarters will move to Texas - BBC News
+ - [https://www.bbc.co.uk/news/technology-58838874](https://www.bbc.co.uk/news/technology-58838874)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2021-10-08 13:34:03.400142+00:00
+
+
+## Insulate Britain: Protesters block Old Street roundabout and M25 junction - BBC News
+ - [https://www.bbc.co.uk/news/uk-england-london-58842299](https://www.bbc.co.uk/news/uk-england-london-58842299)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2021-10-08 13:28:25.375796+00:00
+
+
+## Facebook banned me for life because I created the tool Unfollow Everything.
+ - [https://slate.com/technology/2021/10/facebook-unfollow-everything-cease-desist.html](https://slate.com/technology/2021/10/facebook-unfollow-everything-cease-desist.html)
+ - RSS feed: https://slate.com
+ - date published: 2021-10-08 08:52:22.221265+00:00
+
+
 ## The real reason why these countries have limited use of the Moderna COVID-19 vaccine
  - [https://www.msn.com/en-us/health/medical/the-real-reason-why-these-countries-have-limited-use-of-the-moderna-covid-19-vaccine/ar-AAPfZOE](https://www.msn.com/en-us/health/medical/the-real-reason-why-these-countries-have-limited-use-of-the-moderna-covid-19-vaccine/ar-AAPfZOE)
  - RSS feed: www.msn.com
@@ -9150,6 +13795,18 @@
  - date published: 2021-10-07 20:22:14+00:00
 
 
+## Whistleblower breaks Facebook secrecy wall, MP says - BBC News
+ - [https://www.bbc.co.uk/news/technology-58816118](https://www.bbc.co.uk/news/technology-58816118)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2021-10-07 07:29:17.637307+00:00
+
+
+## 'X' gender markers in passports would be 'extremely difficult', government argues in UK's top court
+ - [https://www.pinknews.co.uk/2021/07/13/x-passports-supreme-court-day-2/](https://www.pinknews.co.uk/2021/07/13/x-passports-supreme-court-day-2/)
+ - RSS feed: https://www.pinknews.co.uk
+ - date published: 2021-10-07 05:51:28.844135+00:00
+
+
 ## Tim Pool Permanently BANNED By TikTok, Likely Due To Hosting Alex Jones, Who Broke No Rules
  - [https://www.newswars.com/tim-pool-permanently-banned-by-tiktok-likely-due-to-hosting-alex-jones-who-broke-no-rules/](https://www.newswars.com/tim-pool-permanently-banned-by-tiktok-likely-due-to-hosting-alex-jones-who-broke-no-rules/)
  - RSS feed: www.newswars.com
@@ -9157,10 +13814,70 @@
  - tags: censorship,tiktok
 
 
+## More details about the October 4 outage - Facebook Engineering
+ - [https://engineering.fb.com/2021/10/05/networking-traffic/outage-details/](https://engineering.fb.com/2021/10/05/networking-traffic/outage-details/)
+ - RSS feed: https://engineering.fb.com
+ - date published: 2021-10-06 06:09:00.862654+00:00
+
+
+## Why you can’t switch to Python 3.10 just yet
+ - [https://pythonspeed.com/articles/switch-python-3.10/](https://pythonspeed.com/articles/switch-python-3.10/)
+ - RSS feed: https://pythonspeed.com
+ - date published: 2021-10-05 19:47:09.661594+00:00
+
+
+## Brave and Firefox to intercept links that force-open in Microsoft Edge
+ - [https://www.ctrl.blog/entry/anti-competitive-browser-edges.html](https://www.ctrl.blog/entry/anti-competitive-browser-edges.html)
+ - RSS feed: https://www.ctrl.blog
+ - date published: 2021-10-05 16:16:13.513109+00:00
+
+
+## Understanding How Facebook Disappeared from the Internet
+ - [https://blog.cloudflare.com/october-2021-facebook-outage/](https://blog.cloudflare.com/october-2021-facebook-outage/)
+ - RSS feed: https://blog.cloudflare.com
+ - date published: 2021-10-05 06:11:47.122873+00:00
+
+
+## The Problem of Marital Loneliness | The New Yorker
+ - [https://www.newyorker.com/culture/cultural-comment/the-problem-of-marital-loneliness](https://www.newyorker.com/culture/cultural-comment/the-problem-of-marital-loneliness)
+ - RSS feed: https://www.newyorker.com
+ - date published: 2021-10-04 14:30:36.434980+00:00
+
+
+## Lime fights back against QR code snatchers - BBC News
+ - [https://www.bbc.co.uk/news/technology-58680605](https://www.bbc.co.uk/news/technology-58680605)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2021-10-03 11:24:42.885794+00:00
+
+
+## How Google destroyed our startup by terminating our Google Play Developer Account | by 6Ace Games | Oct, 2021 | Medium
+ - [https://medium.com/@sixacegames/how-google-destroyed-our-startup-by-terminating-our-google-play-developer-account-6a8cca09ea88](https://medium.com/@sixacegames/how-google-destroyed-our-startup-by-terminating-our-google-play-developer-account-6a8cca09ea88)
+ - RSS feed: https://medium.com
+ - date published: 2021-10-03 07:23:38.905114+00:00
+
+
+## A Conspiracy To Kill IE6
+ - [https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6](https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6)
+ - RSS feed: https://blog.chriszacharias.com
+ - date published: 2021-10-02 17:02:45.554455+00:00
+
+
 ## The Shadow - Carl Jung's Warning to The World
  - [https://www.youtube.com/watch?v=OhzBo0dZNpY](https://www.youtube.com/watch?v=OhzBo0dZNpY)
  - RSS feed: https://www.youtube.com/c/Eternalised
  - date published: 2021-10-01 21:19:03+00:00
+
+
+## A teenager on TikTok disrupted thousands of scientific studies with a single video - The Verge
+ - [https://www.theverge.com/2021/9/24/22688278/tiktok-science-study-survey-prolific](https://www.theverge.com/2021/9/24/22688278/tiktok-science-study-survey-prolific)
+ - RSS feed: https://www.theverge.com
+ - date published: 2021-10-01 14:05:42.641249+00:00
+
+
+## Chip shortage leads carmaker Opel to shut German plant until 2022 | Reuters
+ - [https://www.reuters.com/business/autos-transportation/chip-shortage-leads-carmaker-opel-shut-german-plant-until-2022-2021-09-30/](https://www.reuters.com/business/autos-transportation/chip-shortage-leads-carmaker-opel-shut-german-plant-until-2022-2021-09-30/)
+ - RSS feed: https://www.reuters.com
+ - date published: 2021-10-01 06:23:36.060313+00:00
 
 
 ## Myth as Science and Prehistoric Knowledge: Hamlet's Mill
@@ -9173,6 +13890,78 @@
  - [https://www.youtube.com/watch?v=6VfJ0BJvt7Y](https://www.youtube.com/watch?v=6VfJ0BJvt7Y)
  - RSS feed: https://www.youtube.com/c/academyofideas
  - date published: 2021-09-30 21:14:05+00:00
+
+
+## A World Without Sci-Hub – Palladium
+ - [https://palladiummag.com/2021/09/24/a-world-without-sci-hub/](https://palladiummag.com/2021/09/24/a-world-without-sci-hub/)
+ - RSS feed: https://palladiummag.com
+ - date published: 2021-09-30 08:14:39.951392+00:00
+
+
+## Companies are hiring but it’s still hard to find a job during the Covid-19 pandemic - Vox
+ - [https://www.vox.com/recode/22673353/unemployment-job-search-linkedin-indeed-algorithm](https://www.vox.com/recode/22673353/unemployment-job-search-linkedin-indeed-algorithm)
+ - RSS feed: https://www.vox.com
+ - date published: 2021-09-29 16:41:28.503523+00:00
+
+
+## My Wife Was Dying of Brain Cancer. My Boss at Amazon Told Me to Perform or Quit. – Mother Jones
+ - [https://www.motherjones.com/politics/2021/09/my-wife-was-dying-of-brain-cancer-my-boss-at-amazon-told-me-to-perform-or-quit/](https://www.motherjones.com/politics/2021/09/my-wife-was-dying-of-brain-cancer-my-boss-at-amazon-told-me-to-perform-or-quit/)
+ - RSS feed: https://www.motherjones.com
+ - date published: 2021-09-29 06:05:00.423963+00:00
+
+
+## Women's and trans rights are not in conflict, says Angela Rayner - BBC News
+ - [https://www.bbc.co.uk/news/uk-politics-58724514](https://www.bbc.co.uk/news/uk-politics-58724514)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2021-09-28 22:18:09.444819+00:00
+
+
+## The difference between Go and Rust – dominikbraun.io
+ - [https://dominikbraun.io/blog/the-difference-between-go-and-rust/](https://dominikbraun.io/blog/the-difference-between-go-and-rust/)
+ - RSS feed: https://dominikbraun.io
+ - date published: 2021-09-28 18:24:29.874388+00:00
+
+
+## Kids who grew up with search engines could change STEM education forever - The Verge
+ - [https://www.theverge.com/22684730/students-file-folder-directory-structure-education-gen-z](https://www.theverge.com/22684730/students-file-folder-directory-structure-education-gen-z)
+ - RSS feed: https://www.theverge.com
+ - date published: 2021-09-27 17:16:05.410875+00:00
+
+
+## Labour conference: Not right to say only women have a cervix, says Starmer - BBC News
+ - [https://www.bbc.co.uk/news/uk-politics-58698406](https://www.bbc.co.uk/news/uk-politics-58698406)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2021-09-26 20:10:45.850037+00:00
+
+
+## Scotland becomes first country in world to embed LGBT education in school curriculum | The Scotsman
+ - [https://www.scotsman.com/news/politics/scotland-becomes-first-country-in-world-to-embed-lgbt-education-in-school-curriculum-3393389](https://www.scotsman.com/news/politics/scotland-becomes-first-country-in-world-to-embed-lgbt-education-in-school-curriculum-3393389)
+ - RSS feed: https://www.scotsman.com
+ - date published: 2021-09-26 14:32:49.753330+00:00
+
+
+## A terminal case of Linux
+ - [https://fasterthanli.me/articles/a-terminal-case-of-linux](https://fasterthanli.me/articles/a-terminal-case-of-linux)
+ - RSS feed: https://fasterthanli.me
+ - date published: 2021-09-26 11:37:47.597340+00:00
+
+
+## Lorry driver shortage: Government working on temporary visa scheme - BBC News
+ - [https://www.bbc.co.uk/news/business-58687026](https://www.bbc.co.uk/news/business-58687026)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2021-09-25 12:13:50.878975+00:00
+
+
+## Taming Go’s Memory Usage, or How We Avoided Rewriting Our Client in Rust — Akita Software
+ - [https://www.akitasoftware.com/blog-posts/taming-gos-memory-usage-or-how-we-avoided-rewriting-our-client-in-rust](https://www.akitasoftware.com/blog-posts/taming-gos-memory-usage-or-how-we-avoided-rewriting-our-client-in-rust)
+ - RSS feed: https://www.akitasoftware.com
+ - date published: 2021-09-25 08:50:59.052376+00:00
+
+
+## ‘I’d rather be alone’: the influencers pushing for ‘relationship minimalism’ | Relationships | The Guardian
+ - [https://www.theguardian.com/lifeandstyle/2021/sep/08/marie-kondo-youtube-influencers-relationship-minimalism](https://www.theguardian.com/lifeandstyle/2021/sep/08/marie-kondo-youtube-influencers-relationship-minimalism)
+ - RSS feed: https://www.theguardian.com
+ - date published: 2021-09-24 15:21:58.230753+00:00
 
 
 ## Wyrok TSUE w sprawie Turowa. Polska musi płacić, inaczej KE zabezpieczy część pieniędzy z funduszy
@@ -9195,11 +13984,252 @@
  - tags: search engines,google search,internet,dead internet
 
 
+## Why you need a personal laptop - The Verge
+ - [https://www.theverge.com/22671697/personal-laptop-work-security-privacy](https://www.theverge.com/22671697/personal-laptop-work-security-privacy)
+ - RSS feed: https://www.theverge.com
+ - date published: 2021-09-19 18:21:54.546556+00:00
+
+
+## Mailchimp Insiders React to Employees Getting No Equity From Intuit Sale
+ - [https://www.businessinsider.com/mailchimp-insiders-react-to-employees-getting-no-equity-2021-9?r=US&IR=T](https://www.businessinsider.com/mailchimp-insiders-react-to-employees-getting-no-equity-2021-9?r=US&IR=T)
+ - RSS feed: https://www.businessinsider.com
+ - date published: 2021-09-18 08:21:47.495630+00:00
+
+
+## Google, Apple remove Navalny app from stores as Russian elections begin | Reuters
+ - [https://www.reuters.com/world/europe/google-apple-remove-navalny-app-stores-russian-elections-begin-2021-09-17/](https://www.reuters.com/world/europe/google-apple-remove-navalny-app-stores-russian-elections-begin-2021-09-17/)
+ - RSS feed: https://www.reuters.com
+ - date published: 2021-09-18 07:24:06.126789+00:00
+
+
+## #Shitlassian - story about how Atlassian fired me because my wife had cancer
+ - [https://shitlassian.com/](https://shitlassian.com/)
+ - RSS feed: https://shitlassian.com
+ - date published: 2021-09-17 07:12:04.194879+00:00
+
+
+## The birth and death of a framework - stitcher.io
+ - [https://stitcher.io/blog/birth-and-death-of-a-framework](https://stitcher.io/blog/birth-and-death-of-a-framework)
+ - RSS feed: https://stitcher.io
+ - date published: 2021-09-17 07:00:39.687180+00:00
+
+
+## The American Style of Quotation Mark Punctuation Makes No Sense
+ - [https://www.erichgrunewald.com/posts/the-american-style-of-quotation-mark-punctuation-makes-no-sense/](https://www.erichgrunewald.com/posts/the-american-style-of-quotation-mark-punctuation-makes-no-sense/)
+ - RSS feed: https://www.erichgrunewald.com
+ - date published: 2021-09-16 19:37:17.143527+00:00
+
+
+## Python is a Bad Programming Language | by Michael Moreno | Nerd For Tech | Medium
+ - [https://medium.com/nerd-for-tech/python-is-a-bad-programming-language-2ab73b0bda5](https://medium.com/nerd-for-tech/python-is-a-bad-programming-language-2ab73b0bda5)
+ - RSS feed: https://medium.com
+ - date published: 2021-09-15 06:22:49.617109+00:00
+
+
+## Mozilla bypasses Microsoft, makes it easier to set Firefox as default browser in Windows - Neowin
+ - [https://www.neowin.net/news/mozilla-bypasses-microsoft-makes-it-easier-to-set-firefox-as-default-browser-in-windows/](https://www.neowin.net/news/mozilla-bypasses-microsoft-makes-it-easier-to-set-firefox-as-default-browser-in-windows/)
+ - RSS feed: https://www.neowin.net
+ - date published: 2021-09-14 16:29:19.782205+00:00
+
+
+## Go'ing Insane Part One: Endless Error Handling – Pursuit Of Laziness – A blog by Jesse Duffield
+ - [https://jesseduffield.com/Gos-Shortcomings-1/](https://jesseduffield.com/Gos-Shortcomings-1/)
+ - RSS feed: https://jesseduffield.com
+ - date published: 2021-09-14 16:28:08.779670+00:00
+
+
+## PHP maintains an enormous lead in server-side programming languages | Ars Technica
+ - [https://arstechnica.com/gadgets/2021/09/php-maintains-an-enormous-lead-in-server-side-programming-languages/](https://arstechnica.com/gadgets/2021/09/php-maintains-an-enormous-lead-in-server-side-programming-languages/)
+ - RSS feed: https://arstechnica.com
+ - date published: 2021-09-14 16:21:50.118512+00:00
+
+
 ## The Dead Internet Theory (Part 1)
  - [https://www.youtube.com/watch?v=DEn758DVF9I](https://www.youtube.com/watch?v=DEn758DVF9I)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCYRcdzyGQ_zGxxKcqJDFhqw
  - date published: 2021-09-13 18:10:02+00:00
  - tags: dead internet
+
+
+## How to back up your data and keep it safe - BBC News
+ - [https://www.bbc.co.uk/news/business-58050387](https://www.bbc.co.uk/news/business-58050387)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2021-09-13 16:16:58.191474+00:00
+
+
+## The World's Oldest Active Torrent Turns 18 Soon * TorrentFreak
+ - [https://torrentfreak.com/the-worlds-oldest-active-torrent-turns-18-210912/](https://torrentfreak.com/the-worlds-oldest-active-torrent-turns-18-210912/)
+ - RSS feed: https://torrentfreak.com
+ - date published: 2021-09-13 16:12:06.646092+00:00
+
+
+## Fossil Fuel Capitalism Is Cutting Our Lives Short
+ - [https://tribunemag.co.uk/2021/09/fossil-fuel-capitalism-is-cutting-our-lives-short](https://tribunemag.co.uk/2021/09/fossil-fuel-capitalism-is-cutting-our-lives-short)
+ - RSS feed: https://tribunemag.co.uk
+ - date published: 2021-09-13 16:10:09.362508+00:00
+
+
+## The outdated machine hampering the fight against Covid-19 - BBC Future
+ - [https://www.bbc.com/future/article/20210903-how-covid-19-could-finally-be-the-end-of-the-fax-machine](https://www.bbc.com/future/article/20210903-how-covid-19-could-finally-be-the-end-of-the-fax-machine)
+ - RSS feed: https://www.bbc.com
+ - date published: 2021-09-13 14:35:00.915010+00:00
+
+
+## Chris Corbett on Twitter: "Hey @StarbucksUK and @TrustArc if you get rid of the unnecessary timeouts there won't be any need for this processing "status". This only happens when you customise your privacy settings, can you explain that? Funny how some dark patterns are just accepted. https://t.co/qA231RjSeb" / Twitter
+ - [https://twitter.com/pixelscript/status/1436664488913215490](https://twitter.com/pixelscript/status/1436664488913215490)
+ - RSS feed: https://twitter.com
+ - date published: 2021-09-13 13:21:14.633058+00:00
+
+
+## soft question - Visually stunning math concepts which are easy to explain - Mathematics Stack Exchange
+ - [https://math.stackexchange.com/questions/733754/visually-stunning-math-concepts-which-are-easy-to-explain](https://math.stackexchange.com/questions/733754/visually-stunning-math-concepts-which-are-easy-to-explain)
+ - RSS feed: https://math.stackexchange.com
+ - date published: 2021-09-12 10:05:17.694925+00:00
+
+
+## Facebook Is Censoring People For Mentioning Open-Source Social Network Mastodon | The Changelog
+ - [https://changelog.complete.org/archives/10285-facebook-censored-me-for-mentioning-open-source-social-network-mastodon](https://changelog.complete.org/archives/10285-facebook-censored-me-for-mentioning-open-source-social-network-mastodon)
+ - RSS feed: https://changelog.complete.org
+ - date published: 2021-09-12 09:54:38.994089+00:00
+ - tags: facebook,open source,social media,mastodon,censorship
+
+
+## Outdated Answers: accepted answer is now unpinned on Stack Overflow - Meta Stack Overflow
+ - [https://meta.stackoverflow.com/questions/411352/outdated-answers-accepted-answer-is-now-unpinned-on-stack-overflow](https://meta.stackoverflow.com/questions/411352/outdated-answers-accepted-answer-is-now-unpinned-on-stack-overflow)
+ - RSS feed: https://meta.stackoverflow.com
+ - date published: 2021-09-11 08:47:57.771829+00:00
+
+
+## Our fridge just emailed us to say we opened its door too many times | Hacker News
+ - [https://news.ycombinator.com/item?id=28478438](https://news.ycombinator.com/item?id=28478438)
+ - RSS feed: https://news.ycombinator.com
+ - date published: 2021-09-11 08:02:30.616457+00:00
+
+
+## Apple must allow other forms of in-app purchase, rules judge in Epic v. Apple - The Verge
+ - [https://www.theverge.com/2021/9/10/22662320/epic-apple-ruling-injunction-judge-court-app-store](https://www.theverge.com/2021/9/10/22662320/epic-apple-ruling-injunction-judge-court-app-store)
+ - RSS feed: https://www.theverge.com
+ - date published: 2021-09-11 07:56:46.191347+00:00
+
+
+## A nasty bit of undefined timezone behavior in Golang | DoltHub Blog
+ - [https://www.dolthub.com/blog/2021-09-03-golang-time-bugs/](https://www.dolthub.com/blog/2021-09-03-golang-time-bugs/)
+ - RSS feed: https://www.dolthub.com
+ - date published: 2021-09-11 07:50:42.649255+00:00
+
+
+## The end of phone calls: why young people have silenced their ringtones | Mobile phones | The Guardian
+ - [https://www.theguardian.com/technology/2021/aug/30/the-end-of-phone-calls-why-young-people-have-silenced-their-ringtones](https://www.theguardian.com/technology/2021/aug/30/the-end-of-phone-calls-why-young-people-have-silenced-their-ringtones)
+ - RSS feed: https://www.theguardian.com
+ - date published: 2021-09-10 09:02:30.962546+00:00
+
+
+## What if I were 1% charged? | Gravity and Levity
+ - [https://gravityandlevity.wordpress.com/2013/05/22/what-if-i-were-1-charged/](https://gravityandlevity.wordpress.com/2013/05/22/what-if-i-were-1-charged/)
+ - RSS feed: https://gravityandlevity.wordpress.com
+ - date published: 2021-09-10 06:47:40.334136+00:00
+
+
+## Hong Kong: Police raid Tiananmen Square museum - BBC News
+ - [https://www.bbc.co.uk/news/world-asia-china-58506598](https://www.bbc.co.uk/news/world-asia-china-58506598)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2021-09-10 06:40:26.261889+00:00
+
+
+## 20 years after 9/11: Will we ever stop taking off our shoes at airports? – Orange County Register
+ - [https://www.ocregister.com/2021/09/07/20-years-after-9-11-will-we-ever-stop-taking-our-shoes-off-at-airports/](https://www.ocregister.com/2021/09/07/20-years-after-9-11-will-we-ever-stop-taking-our-shoes-off-at-airports/)
+ - RSS feed: https://www.ocregister.com
+ - date published: 2021-09-09 07:10:39.486227+00:00
+
+
+## Walid Ziouche - Saving costs asking for Forgiveness in Python
+ - [https://walid.dev/blog/saving-costs-asking-for-forgiveness-in-python/](https://walid.dev/blog/saving-costs-asking-for-forgiveness-in-python/)
+ - RSS feed: https://walid.dev
+ - date published: 2021-09-08 07:20:01.123528+00:00
+
+
+## Recycling: How do you transform old PPE into something new? - BBC News
+ - [https://www.bbc.co.uk/news/av/uk-wales-58453247](https://www.bbc.co.uk/news/av/uk-wales-58453247)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2021-09-07 16:55:11.557806+00:00
+
+
+## After six months on Mars, NASA's tiny copter is still flying high
+ - [https://phys.org/news/2021-09-months-mars-nasa-tiny-copter.html](https://phys.org/news/2021-09-months-mars-nasa-tiny-copter.html)
+ - RSS feed: https://phys.org
+ - date published: 2021-09-07 16:28:01.721062+00:00
+
+
+## The Red Warning Light on Richard Branson’s Virgin Galactic Space Flight | The New Yorker
+ - [https://www.newyorker.com/news/news-desk/the-red-warning-light-on-richard-bransons-space-flight](https://www.newyorker.com/news/news-desk/the-red-warning-light-on-richard-bransons-space-flight)
+ - RSS feed: https://www.newyorker.com
+ - date published: 2021-09-06 17:11:08.367431+00:00
+
+
+## “Emojibake” are considered harmful | by Fredrick Brennan | Sep, 2021 | Medium
+ - [https://fredrickbrennan.medium.com/emojibake-are-considered-harmful-f87e65cf4c6e](https://fredrickbrennan.medium.com/emojibake-are-considered-harmful-f87e65cf4c6e)
+ - RSS feed: https://fredrickbrennan.medium.com
+ - date published: 2021-09-05 17:11:57.762456+00:00
+
+
+## They saw a YouTube video. Then they got Tourette’s | WIRED UK
+ - [https://www.wired.co.uk/article/tourettes-youtube-jan-zimmermann](https://www.wired.co.uk/article/tourettes-youtube-jan-zimmermann)
+ - RSS feed: https://www.wired.co.uk
+ - date published: 2021-09-05 09:37:19.896734+00:00
+
+
+## GoDaddy Boots Texas Right to Life Abortion 'Whistleblower' Site
+ - [https://gizmodo.com/godaddy-is-giving-texas-abortion-snitching-site-the-boo-1847616447](https://gizmodo.com/godaddy-is-giving-texas-abortion-snitching-site-the-boo-1847616447)
+ - RSS feed: https://gizmodo.com
+ - date published: 2021-09-05 09:30:35.082041+00:00
+
+
+## Covid: What do parents think about vaccinating children? - BBC News
+ - [https://www.bbc.co.uk/news/uk-58447040](https://www.bbc.co.uk/news/uk-58447040)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2021-09-04 15:26:59.005063+00:00
+
+
+## 'I've eaten the same breakfast for the last 22 years' - BBC News
+ - [https://www.bbc.co.uk/news/uk-scotland-scotland-business-58323888](https://www.bbc.co.uk/news/uk-scotland-scotland-business-58323888)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2021-09-04 15:25:08.557608+00:00
+
+
+## Windows 11 Insider Preview makes it more difficult for users to default to Chrome
+ - [https://chromeunboxed.com/windows-11-insider-preview-chrome-default-difficulties](https://chromeunboxed.com/windows-11-insider-preview-chrome-default-difficulties)
+ - RSS feed: https://chromeunboxed.com
+ - date published: 2021-09-04 15:05:44.651513+00:00
+
+
+## Why can an ad break the Windows 11 desktop and taskbar?
+ - [https://www.ctrl.blog/entry/windows11-empty-taskbar.html](https://www.ctrl.blog/entry/windows11-empty-taskbar.html)
+ - RSS feed: https://www.ctrl.blog
+ - date published: 2021-09-04 15:02:50.152895+00:00
+
+
+## Rejected internal applicants twice as likely to quit | Cornell Chronicle
+ - [https://news.cornell.edu/stories/2021/08/rejected-internal-applicants-twice-likely-quit](https://news.cornell.edu/stories/2021/08/rejected-internal-applicants-twice-likely-quit)
+ - RSS feed: https://news.cornell.edu
+ - date published: 2021-09-04 09:48:11.744999+00:00
+
+
+## The Australian federal government is planning to de-anonymize the internet | Hacker News
+ - [https://news.ycombinator.com/item?id=28391709](https://news.ycombinator.com/item?id=28391709)
+ - RSS feed: https://news.ycombinator.com
+ - date published: 2021-09-03 07:41:31.052337+00:00
+
+
+## Experiments on a $50 DIY air purifier you can make in 30s
+ - [https://dynomight.net/2020/12/15/some-real-data-on-a-DIY-box-fan-air-purifier/](https://dynomight.net/2020/12/15/some-real-data-on-a-DIY-box-fan-air-purifier/)
+ - RSS feed: https://dynomight.net
+ - date published: 2021-09-03 07:39:21.429442+00:00
+
+
+## Sky Subscribers' Piracy Habits Directly Help Premier League Block Illegal Streams * TorrentFreak
+ - [https://torrentfreak.com/sky-subscribers-piracy-habits-directly-help-premier-league-block-illegal-streams-210828/](https://torrentfreak.com/sky-subscribers-piracy-habits-directly-help-premier-league-block-illegal-streams-210828/)
+ - RSS feed: https://torrentfreak.com
+ - date published: 2021-09-03 07:23:20.746555+00:00
 
 
 ## Obscenities are symptoms of weak minds.
@@ -9208,10 +14238,89 @@
  - date published: 2021-09-03 00:00:00+00:00
 
 
+## Ben Krasnow on Twitter: "In case you consider buying: my @lenovo tablet was remotely modified via forced update to have un-dismissable, un-mutable, system ad notifications from an app that cannot be uninstalled or disabled. https://t.co/0tcG79bWVV" / Twitter
+ - [https://twitter.com/benkrasnow/status/1433096367992295427](https://twitter.com/benkrasnow/status/1433096367992295427)
+ - RSS feed: https://twitter.com
+ - date published: 2021-09-02 14:49:32.745379+00:00
+
+
+## Internet shutdowns by governments have ‘proliferated at a truly alarming pace’ - The Verge
+ - [https://www.theverge.com/2021/9/1/22649909/internet-sthudowns-government-freedom-speech-data-access-now-jigsaw](https://www.theverge.com/2021/9/1/22649909/internet-sthudowns-government-freedom-speech-data-access-now-jigsaw)
+ - RSS feed: https://www.theverge.com
+ - date published: 2021-09-02 14:37:12.172749+00:00
+
+
+## The open calendar, task and note space is a mess
+ - [https://stevenvanbael.com/open-calendar-task-space-is-a-mess](https://stevenvanbael.com/open-calendar-task-space-is-a-mess)
+ - RSS feed: https://stevenvanbael.com
+ - date published: 2021-08-31 14:54:25.924785+00:00
+
+
 ## Is Your Phone Recording Your Conversations? The Answer Might Surprise You.
  - [https://www.huffpost.com/entry/smartphone-devices-recording-privacy_l_5d570869e4b056fafd0bbc09](https://www.huffpost.com/entry/smartphone-devices-recording-privacy_l_5d570869e4b056fafd0bbc09)
  - RSS feed: www.huffpost.com
  - date published: 2021-08-31 12:04:50+00:00
+
+
+## Manchester Pride: Protest held over festival management - BBC News
+ - [https://www.bbc.co.uk/news/uk-england-manchester-58369410](https://www.bbc.co.uk/news/uk-england-manchester-58369410)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2021-08-30 12:59:43.711663+00:00
+
+
+## China cuts children's online gaming to one hour - BBC News
+ - [https://www.bbc.co.uk/news/technology-58384457](https://www.bbc.co.uk/news/technology-58384457)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2021-08-30 12:51:00.405271+00:00
+
+
+## When you finish celebrating Linux turning 30, try new Linux 5.14, says Linus Torvalds • The Register
+ - [https://www.theregister.com/2021/08/30/linux_5_14/](https://www.theregister.com/2021/08/30/linux_5_14/)
+ - RSS feed: https://www.theregister.com
+ - date published: 2021-08-30 10:45:12.050662+00:00
+
+
+## “Worst cloud vulnerability you can imagine” discovered in Microsoft Azure | Ars Technica
+ - [https://arstechnica.com/information-technology/2021/08/worst-cloud-vulnerability-you-can-imagine-discovered-in-microsoft-azure/](https://arstechnica.com/information-technology/2021/08/worst-cloud-vulnerability-you-can-imagine-discovered-in-microsoft-azure/)
+ - RSS feed: https://arstechnica.com
+ - date published: 2021-08-30 10:27:05.281941+00:00
+
+
+## How MarkMonitor left >60,000 domains for the taking
+ - [https://ian.sh/markmonitor](https://ian.sh/markmonitor)
+ - RSS feed: https://ian.sh
+ - date published: 2021-08-30 10:24:01.724301+00:00
+
+
+## EU agency advises against using search & browsing history for credit scores - The Record by Recorded Future
+ - [https://therecord.media/eu-agency-advises-against-using-search-browsing-history-for-credit-scores/](https://therecord.media/eu-agency-advises-against-using-search-browsing-history-for-credit-scores/)
+ - RSS feed: https://therecord.media
+ - date published: 2021-08-29 08:40:11.499834+00:00
+
+
+## Weird Languages
+ - [http://paulgraham.com/weird.html](http://paulgraham.com/weird.html)
+ - RSS feed: http://paulgraham.com
+ - date published: 2021-08-29 08:35:06.984398+00:00
+
+
+## Kyle Morris on Twitter: "FB messenger silently censors some covid-related links but claims the messages were sent 🙃 im pro-science/vaccine/etc, but this not cool fb https://t.co/fJTZcTziy1" / Twitter
+ - [https://mobile.twitter.com/kylejohnmorris/status/1431714982782066688](https://mobile.twitter.com/kylejohnmorris/status/1431714982782066688)
+ - RSS feed: https://mobile.twitter.com
+ - date published: 2021-08-29 08:33:45.240263+00:00
+ - tags: censorhip,facebok,vaccine,covid
+
+
+## The real OnlyFans scandal is the unaccountable power of platforms and banks | Jillian C York | The Guardian
+ - [https://www.theguardian.com/commentisfree/2021/aug/28/onlyfans-scandal-platforms-banks-ban-sexual-content-sex-workers](https://www.theguardian.com/commentisfree/2021/aug/28/onlyfans-scandal-platforms-banks-ban-sexual-content-sex-workers)
+ - RSS feed: https://www.theguardian.com
+ - date published: 2021-08-29 08:31:59.806516+00:00
+
+
+## Running DOOM on a Hacked CaptionCall Landline
+ - [https://joshumax.github.io/general/2021/08/11/running-doom-on-captioncall.html](https://joshumax.github.io/general/2021/08/11/running-doom-on-captioncall.html)
+ - RSS feed: https://joshumax.github.io
+ - date published: 2021-08-28 20:40:31.133837+00:00
 
 
 ## Upcoming vote on Digital Services Act in JURI committee: Pirate MEP Patrick Breyer fears massive threats to fundamental rights
@@ -9221,10 +14330,312 @@
  - tags: dsa
 
 
+## 🏡 Neil's Place - DoomPhone
+ - [https://neilbostian.github.io/#/doomphone](https://neilbostian.github.io/#/doomphone)
+ - RSS feed: https://neilbostian.github.io
+ - date published: 2021-08-28 18:57:15.291597+00:00
+
+
+## Models of Generics and Metaprogramming: Go, Rust, Swift, D and More - Tristan Hume
+ - [https://thume.ca/2019/07/14/a-tour-of-metaprogramming-models-for-generics/](https://thume.ca/2019/07/14/a-tour-of-metaprogramming-models-for-generics/)
+ - RSS feed: https://thume.ca
+ - date published: 2021-08-28 17:10:34.740147+00:00
+
+
+## FB messenger silently censoring links, claims they were sent
+ - [https://news.ycombinator.com/item?id=28341737](https://news.ycombinator.com/item?id=28341737)
+ - RSS feed: https://news.ycombinator.com
+ - date published: 2021-08-28 14:20:18+00:00
+ - tags: privacy,messaner,censorship,facebook
+
+
+## the_future_of_dpy.md
+ - [https://gist.github.com/Rapptz/4a2f62751b9600a31a0d3c78100287f1](https://gist.github.com/Rapptz/4a2f62751b9600a31a0d3c78100287f1)
+ - RSS feed: https://gist.github.com
+ - date published: 2021-08-28 10:07:58.783529+00:00
+
+
 ## Every Web Browser Absolutely Sucks.
  - [https://lukesmith.xyz/articles/every-web-browser-absolutely-sucks/](https://lukesmith.xyz/articles/every-web-browser-absolutely-sucks/)
  - RSS feed: https://lukesmith.xyz/rss.xml
  - date published: 2021-08-28 00:00:00+00:00
+
+
+## The underutilized usefulness of sync.Once | ramblings of 1lann
+ - [https://blog.chuie.io/posts/synconce/](https://blog.chuie.io/posts/synconce/)
+ - RSS feed: https://blog.chuie.io
+ - date published: 2021-08-27 21:43:53.320218+00:00
+
+
+## Hacker Claims Responsibility for T-Mobile Attack - Says: "Their Security is Awful"
+ - [https://www.vpnranks.com/blog/hacker-claims-responsibility-for-t-mobile-attack-says-their-security-is-awful/](https://www.vpnranks.com/blog/hacker-claims-responsibility-for-t-mobile-attack-says-their-security-is-awful/)
+ - RSS feed: https://www.vpnranks.com
+ - date published: 2021-08-27 17:35:51.438438+00:00
+
+
+## What I learned from an unlikely friendship with an anti-masker | Life and style | The Guardian
+ - [https://www.theguardian.com/lifeandstyle/2021/aug/19/anti-masker-unlikely-friendship](https://www.theguardian.com/lifeandstyle/2021/aug/19/anti-masker-unlikely-friendship)
+ - RSS feed: https://www.theguardian.com
+ - date published: 2021-08-27 10:09:57.607972+00:00
+
+
+## Afghanistan: Tired, overwhelmed Afghan families start new lives in the UK - BBC News
+ - [https://www.bbc.co.uk/news/uk-58350542](https://www.bbc.co.uk/news/uk-58350542)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2021-08-27 09:40:29.538623+00:00
+
+
+## Reddit takes a teach-the-controversy approach to pandemic and vaccines | Ars Technica
+ - [https://arstechnica.com/tech-policy/2021/08/reddit-resists-banning-pandemic-misinformation-allows-vaccine-dissent/](https://arstechnica.com/tech-policy/2021/08/reddit-resists-banning-pandemic-misinformation-allows-vaccine-dissent/)
+ - RSS feed: https://arstechnica.com
+ - date published: 2021-08-27 09:36:08.953930+00:00
+
+
+## The Rise Of User-Hostile Software | Den Delimarsky
+ - [https://den.dev/blog/user-hostile-software/](https://den.dev/blog/user-hostile-software/)
+ - RSS feed: https://den.dev
+ - date published: 2021-08-26 18:37:58.227611+00:00
+
+
+## The Thing About Homophobia | The New Yorker
+ - [https://www.newyorker.com/culture/personal-history/the-thing-about-homophobia](https://www.newyorker.com/culture/personal-history/the-thing-about-homophobia)
+ - RSS feed: https://www.newyorker.com
+ - date published: 2021-08-26 18:15:10.372953+00:00
+
+
+## JJ Chalmers: Meeting the pilot who flew me home injured from Afghanistan - BBC News
+ - [https://www.bbc.co.uk/news/disability-58329277](https://www.bbc.co.uk/news/disability-58329277)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2021-08-25 15:47:13.527374+00:00
+
+
+## Nirvana sued by the baby from Nevermind's album cover - BBC News
+ - [https://www.bbc.co.uk/news/entertainment-arts-58327844](https://www.bbc.co.uk/news/entertainment-arts-58327844)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2021-08-25 15:42:14.805949+00:00
+
+
+## Samsung Supports Retailers Affected By Looting With Innovative Television Block Function – Samsung Newsroom South Africa
+ - [https://news.samsung.com/za/samsung-supports-retailers-affected-by-looting-with-innovative-television-block-function](https://news.samsung.com/za/samsung-supports-retailers-affected-by-looting-with-innovative-television-block-function)
+ - RSS feed: https://news.samsung.com
+ - date published: 2021-08-25 10:18:15.155277+00:00
+
+
+## Waypoint - The official Waymo blog: Welcoming our first riders in San Francisco
+ - [https://blog.waymo.com/2021/08/welcoming-our-first-riders-in-san.html](https://blog.waymo.com/2021/08/welcoming-our-first-riders-in-san.html)
+ - RSS feed: https://blog.waymo.com
+ - date published: 2021-08-25 10:17:28.610653+00:00
+
+
+## YouTube is forcing the popular Groovy Discord music bot offline - The Verge
+ - [https://www.theverge.com/2021/8/24/22640024/youtube-discord-groovy-music-bot-closure](https://www.theverge.com/2021/8/24/22640024/youtube-discord-groovy-music-bot-closure)
+ - RSS feed: https://www.theverge.com
+ - date published: 2021-08-25 07:48:03.041157+00:00
+
+
+## Facebook Files: 5 things leaked documents reveal
+ - [https://www.bbc.com/news/technology-58678332](https://www.bbc.com/news/technology-58678332)
+ - RSS feed: https://www.bbc.com
+ - date published: 2021-08-24 20:33:10+00:00
+ - tags: facebook files,facebook
+
+
+## What About the Afghanistan Flag Emoji?
+ - [https://blog.emojipedia.org/what-about-the-afghanistan-flag-emoji/](https://blog.emojipedia.org/what-about-the-afghanistan-flag-emoji/)
+ - RSS feed: https://blog.emojipedia.org
+ - date published: 2021-08-24 18:45:03.788352+00:00
+
+
+## ‘I can’t work’: the mothers left to fight alone for their children’s mental health care | Mental health | The Guardian
+ - [https://www.theguardian.com/society/2021/aug/15/i-cant-work-the-mothers-left-to-fight-alone-for-their-childrens-mental-health-care](https://www.theguardian.com/society/2021/aug/15/i-cant-work-the-mothers-left-to-fight-alone-for-their-childrens-mental-health-care)
+ - RSS feed: https://www.theguardian.com
+ - date published: 2021-08-24 16:08:27.844242+00:00
+
+
+## The Guerrilla Artist Who Fixed L.A.'s Worst Freeway Sign
+ - [https://thelandmag.com/richard-ankrom-guerrilla-public-service-los-angeles-free/](https://thelandmag.com/richard-ankrom-guerrilla-public-service-los-angeles-free/)
+ - RSS feed: https://thelandmag.com
+ - date published: 2021-08-24 14:30:53.118008+00:00
+
+
+## Bringing the Unix Philosophy to the 21st Century | Brazil's Blog
+ - [https://blog.kellybrazil.com/2019/11/26/bringing-the-unix-philosophy-to-the-21st-century/](https://blog.kellybrazil.com/2019/11/26/bringing-the-unix-philosophy-to-the-21st-century/)
+ - RSS feed: https://blog.kellybrazil.com
+ - date published: 2021-08-24 12:50:32.693888+00:00
+
+
+## Razer bug lets you become a Windows 10 admin by plugging in a mouse
+ - [https://www.bleepingcomputer.com/news/security/razer-bug-lets-you-become-a-windows-10-admin-by-plugging-in-a-mouse/](https://www.bleepingcomputer.com/news/security/razer-bug-lets-you-become-a-windows-10-admin-by-plugging-in-a-mouse/)
+ - RSS feed: https://www.bleepingcomputer.com
+ - date published: 2021-08-24 11:32:47.677860+00:00
+
+
+## As demand for bikes surged, Amazon got in the way - The Verge
+ - [https://www.theverge.com/22618306/pacific-northwest-components-bike-company-quit-amazon-support-indie-shops](https://www.theverge.com/22618306/pacific-northwest-components-bike-company-quit-amazon-support-indie-shops)
+ - RSS feed: https://www.theverge.com
+ - date published: 2021-08-24 11:27:23.741221+00:00
+
+
+## Deno on MDN | Deno Blog
+ - [https://deno.com/blog/deno-on-mdn](https://deno.com/blog/deno-on-mdn)
+ - RSS feed: https://deno.com
+ - date published: 2021-08-24 11:24:51.224721+00:00
+
+
+## Rhondda Cynon Taf council reviews trans guidance after row over pupil - BBC News
+ - [https://www.bbc.co.uk/news/uk-wales-58305271](https://www.bbc.co.uk/news/uk-wales-58305271)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2021-08-24 09:03:27.615975+00:00
+
+
+## Should Your Web History Impact Your Credit Score? The IMF Thinks So - ExtremeTech
+ - [https://www.extremetech.com/internet/326088-should-your-web-history-impact-your-credit-score-the-imf-thinks-so](https://www.extremetech.com/internet/326088-should-your-web-history-impact-your-credit-score-the-imf-thinks-so)
+ - RSS feed: https://www.extremetech.com
+ - date published: 2021-08-23 11:06:41.185776+00:00
+
+
+## Hydrogen lobbyist quits, slams oil companies’ “false claims” about blue hydrogen | Ars Technica
+ - [https://arstechnica.com/tech-policy/2021/08/ex-lobbyist-slams-blue-hydrogen-says-it-would-lock-in-fossil-fuel-dependence/](https://arstechnica.com/tech-policy/2021/08/ex-lobbyist-slams-blue-hydrogen-says-it-would-lock-in-fossil-fuel-dependence/)
+ - RSS feed: https://arstechnica.com
+ - date published: 2021-08-23 09:21:38.005853+00:00
+
+
+## A man spent a year in jail on a murder charge that hinged on disputed AI evidence. Now the case has been dropped • The Register
+ - [https://www.theregister.com/2021/08/22/in_brief_ai/](https://www.theregister.com/2021/08/22/in_brief_ai/)
+ - RSS feed: https://www.theregister.com
+ - date published: 2021-08-23 09:18:53.252337+00:00
+
+
+## Jeremy C. Owens on Twitter: "Google has a secret initiative originally called "Project Hug" that offers app makers like Activision Blizzard special treatment in exchange for paying the 30% fee and being quiet about it. https://t.co/gq0m2tIVry" / Twitter
+ - [https://twitter.com/jowens510/status/1428415192480698371](https://twitter.com/jowens510/status/1428415192480698371)
+ - RSS feed: https://twitter.com
+ - date published: 2021-08-22 09:50:24.410001+00:00
+
+
+## ‘I Don’t Want to Be ‘Like a Family’ With My Co-Workers’
+ - [https://www.thecut.com/article/i-dont-want-to-be-like-a-family-with-my-co-workers.html](https://www.thecut.com/article/i-dont-want-to-be-like-a-family-with-my-co-workers.html)
+ - RSS feed: https://www.thecut.com
+ - date published: 2021-08-22 08:38:52.278847+00:00
+
+
+## Woman reverses own car off truck to foil Wolverhampton theft - BBC News
+ - [https://www.bbc.co.uk/news/uk-england-birmingham-58282348](https://www.bbc.co.uk/news/uk-england-birmingham-58282348)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2021-08-21 09:11:22.289161+00:00
+
+
+## Post-Culture Review on Twitter: "A lot of people are getting the OnlyFans story wrong, and the reality of it is a lot more damaging and concerning to both the livelihood of sex workers and online freedom in general." / Twitter
+ - [https://mobile.twitter.com/postcultrev/status/1428584131835748359](https://mobile.twitter.com/postcultrev/status/1428584131835748359)
+ - RSS feed: https://mobile.twitter.com
+ - date published: 2021-08-21 07:46:15.481740+00:00
+
+
+## A Facebook hacker beat my 2FA, bricked my Oculus Quest, and hit the company credit card – CodeWritePlay
+ - [https://codewriteplay.com/2021/08/20/a-facebook-hacker-beat-my-2fa-bricked-my-oculus-quest-and-hit-the-company-credit-card/](https://codewriteplay.com/2021/08/20/a-facebook-hacker-beat-my-2fa-bricked-my-oculus-quest-and-hit-the-company-credit-card/)
+ - RSS feed: https://codewriteplay.com
+ - date published: 2021-08-21 07:30:43.784766+00:00
+
+
+## ImageNet contains naturally occurring NeuralHash collisions
+ - [https://blog.roboflow.com/nerualhash-collision/](https://blog.roboflow.com/nerualhash-collision/)
+ - RSS feed: https://blog.roboflow.com
+ - date published: 2021-08-20 12:15:24.402308+00:00
+
+
+## OnlyFans to Bar Sexually Explicit Videos Starting in October - Bloomberg
+ - [https://www.bloomberg.com/news/articles/2021-08-19/onlyfans-to-block-sexually-explicit-videos-starting-in-october](https://www.bloomberg.com/news/articles/2021-08-19/onlyfans-to-block-sexually-explicit-videos-starting-in-october)
+ - RSS feed: https://www.bloomberg.com
+ - date published: 2021-08-20 11:55:58.064635+00:00
+
+
+## Inside YouTube’s Dissociative Identity Disorder Community
+ - [https://www.thecut.com/2021/08/dissociative-identity-disorder-youtube.html](https://www.thecut.com/2021/08/dissociative-identity-disorder-youtube.html)
+ - RSS feed: https://www.thecut.com
+ - date published: 2021-08-19 14:10:44.514106+00:00
+
+
+## All the Ways Spotify Tracks You—and How to Stop It | WIRED
+ - [https://www.wired.com/story/spotify-tracking-how-to-stop-it/](https://www.wired.com/story/spotify-tracking-how-to-stop-it/)
+ - RSS feed: https://www.wired.com
+ - date published: 2021-08-16 09:56:59.235089+00:00
+
+
+## 10×10% – Random Thoughts
+ - [https://lars.ingebrigtsen.no/2021/08/14/10x10/](https://lars.ingebrigtsen.no/2021/08/14/10x10/)
+ - RSS feed: https://lars.ingebrigtsen.no
+ - date published: 2021-08-15 13:44:26.139965+00:00
+
+
+## Progress Report: August 2021 - Asahi Linux
+ - [https://asahilinux.org/2021/08/progress-report-august-2021/](https://asahilinux.org/2021/08/progress-report-august-2021/)
+ - RSS feed: https://asahilinux.org
+ - date published: 2021-08-15 13:39:48.546356+00:00
+
+
+## Why do I write? - stitcher.io
+ - [https://stitcher.io/blog/why-do-i-write](https://stitcher.io/blog/why-do-i-write)
+ - RSS feed: https://stitcher.io
+ - date published: 2021-08-14 15:55:57.263623+00:00
+
+
+## Amazon will monitor workers' keystrokes to 'combat data theft'
+ - [https://www.inputmag.com/tech/amazon-will-monitor-workers-keystrokes-to-combat-data-theft-privacy-spying-surveillance](https://www.inputmag.com/tech/amazon-will-monitor-workers-keystrokes-to-combat-data-theft-privacy-spying-surveillance)
+ - RSS feed: https://www.inputmag.com
+ - date published: 2021-08-14 14:08:30.346902+00:00
+
+
+## Handling Errors from Deferred Functions in Go | Thomas Stringer
+ - [https://trstringer.com/golang-deferred-function-error-handling/](https://trstringer.com/golang-deferred-function-error-handling/)
+ - RSS feed: https://trstringer.com
+ - date published: 2021-08-14 09:13:40.292278+00:00
+
+
+## This Leeds dad makes teddies with health conditions to help children living with medical disorders
+ - [https://inews.co.uk/news/real-life/this-leeds-dad-makes-teddies-with-health-conditions-to-help-children-living-with-medical-disorders-1148392](https://inews.co.uk/news/real-life/this-leeds-dad-makes-teddies-with-health-conditions-to-help-children-living-with-medical-disorders-1148392)
+ - RSS feed: https://inews.co.uk
+ - date published: 2021-08-14 08:59:42.012619+00:00
+
+
+## Apple regrets confusion over 'iPhone scanning' - BBC News
+ - [https://www.bbc.co.uk/news/technology-58206543](https://www.bbc.co.uk/news/technology-58206543)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2021-08-14 08:54:43.412669+00:00
+
+
+## FOSS app removed from the Play Store for linking to the project's website | Hacker News
+ - [https://news.ycombinator.com/item?id=28172490](https://news.ycombinator.com/item?id=28172490)
+ - RSS feed: https://news.ycombinator.com
+ - date published: 2021-08-14 08:52:33.219672+00:00
+
+
+## Berlin embassy arrest: A case of old-school spying? - BBC News
+ - [https://www.bbc.co.uk/news/uk-58185957](https://www.bbc.co.uk/news/uk-58185957)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2021-08-12 18:19:28.452856+00:00
+
+
+## GitHub’s Engineering Team has moved to Codespaces | The GitHub Blog
+ - [https://github.blog/2021-08-11-githubs-engineering-team-moved-codespaces/](https://github.blog/2021-08-11-githubs-engineering-team-moved-codespaces/)
+ - RSS feed: https://github.blog
+ - date published: 2021-08-12 07:21:11.696140+00:00
+
+
+## The Infrastructure Bill Requires New Cars To Come With Unproven Drunk Driving Detection Technology – Reason.com
+ - [https://reason.com/2021/08/06/the-infrastructure-bill-requires-new-cars-to-come-with-unproven-drunk-driving-detection-technology/](https://reason.com/2021/08/06/the-infrastructure-bill-requires-new-cars-to-come-with-unproven-drunk-driving-detection-technology/)
+ - RSS feed: https://reason.com
+ - date published: 2021-08-08 14:44:47.965233+00:00
+
+
+## Covid in Sydney: Communities feel under siege as troops deployed - BBC News
+ - [https://www.bbc.co.uk/news/world-australia-58066389](https://www.bbc.co.uk/news/world-australia-58066389)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2021-08-08 14:10:22.751110+00:00
+
+
+## Why CAPTCHA Pictures Are So Unbearably Depressing | by Clive Thompson | Aug, 2021 | Medium
+ - [https://clivethompson.medium.com/why-captcha-pictures-are-so-unbearably-depressing-20679b8cf84a](https://clivethompson.medium.com/why-captcha-pictures-are-so-unbearably-depressing-20679b8cf84a)
+ - RSS feed: https://clivethompson.medium.com
+ - date published: 2021-08-08 10:00:41.617697+00:00
 
 
 ## Is 1984 Becoming a Reality? - George Orwell's Warning to the World
@@ -9233,10 +14644,76 @@
  - date published: 2021-08-07 21:16:39+00:00
 
 
+## Ryan Reynolds: Why Free Guy is more than a 'video game movie' - BBC News
+ - [https://www.bbc.co.uk/news/entertainment-arts-58061823](https://www.bbc.co.uk/news/entertainment-arts-58061823)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2021-08-07 12:51:59.950786+00:00
+
+
+## Xsolla fires 150 employees using big data and AI analysis, CEO’s letter causes controversy | Game World Observer
+ - [https://gameworldobserver.com/2021/08/04/xsolla-fires-150-employees-using-big-data-and-ai-analysis-ceos-letter-causes-controversy](https://gameworldobserver.com/2021/08/04/xsolla-fires-150-employees-using-big-data-and-ai-analysis-ceos-letter-causes-controversy)
+ - RSS feed: https://gameworldobserver.com
+ - date published: 2021-08-07 11:27:02.292059+00:00
+
+
+## 6 Command Line Tools for Productive Programmers - Earthly Blog
+ - [https://earthly.dev/blog/command-line-tools/](https://earthly.dev/blog/command-line-tools/)
+ - RSS feed: https://earthly.dev
+ - date published: 2021-08-06 16:36:35.095132+00:00
+
+
+## How does Go calculate len()..? – tpaschalis – software, systems
+ - [https://tpaschalis.github.io/golang-len/](https://tpaschalis.github.io/golang-len/)
+ - RSS feed: https://tpaschalis.github.io
+ - date published: 2021-08-06 16:26:22.689726+00:00
+
+
+## The YouTubers who blew the whistle on an anti-vax plot - BBC News
+ - [https://www.bbc.co.uk/news/blogs-trending-57928647](https://www.bbc.co.uk/news/blogs-trending-57928647)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2021-08-06 15:12:46.455299+00:00
+
+
 ## Biden infrastructure bill would require cars come with ‘advanced alcohol monitoring systems’
  - [https://www.washingtontimes.com/news/2021/aug/6/bidens-bill-requires-vehicles-be-equipped-advanced/](https://www.washingtontimes.com/news/2021/aug/6/bidens-bill-requires-vehicles-be-equipped-advanced/)
  - RSS feed: www.washingtontimes.com
  - date published: 2021-08-06 13:13:33+00:00
+
+
+## Google Maps warns drivers about emission charges - BBC News
+ - [https://www.bbc.co.uk/news/technology-58102651](https://www.bbc.co.uk/news/technology-58102651)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2021-08-06 10:12:54.585478+00:00
+
+
+## Ben Nuttall - The surreal experience of my first developer job
+ - [https://bennuttall.com/the-surreal-experience-of-my-first-developer-job/](https://bennuttall.com/the-surreal-experience-of-my-first-developer-job/)
+ - RSS feed: https://bennuttall.com
+ - date published: 2021-08-05 09:43:45.413713+00:00
+
+
+## The 5-hour CDN · Fly
+ - [https://fly.io/blog/the-5-hour-content-delivery-network/](https://fly.io/blog/the-5-hour-content-delivery-network/)
+ - RSS feed: https://fly.io
+ - date published: 2021-08-04 22:54:36.583691+00:00
+
+
+## Amazon Unlawfully Confiscated Union Literature, NLRB Finds
+ - [https://www.vice.com/en/article/bvz3kv/amazon-unlawfully-confiscated-union-literature-nlrb-finds](https://www.vice.com/en/article/bvz3kv/amazon-unlawfully-confiscated-union-literature-nlrb-finds)
+ - RSS feed: https://www.vice.com
+ - date published: 2021-08-04 22:38:59.501142+00:00
+
+
+## Why Don’t Tech Companies Pay Their Engineers to Stay? | by Matthew Dean | Jul, 2021 | Marker
+ - [https://marker.medium.com/why-dont-tech-companies-pay-their-engineers-to-stay-b9c7e4b751e9](https://marker.medium.com/why-dont-tech-companies-pay-their-engineers-to-stay-b9c7e4b751e9)
+ - RSS feed: https://marker.medium.com
+ - date published: 2021-08-04 22:33:49.064295+00:00
+
+
+## ‘It has to be known what was done to us’: Natick couple harassed by eBay tell their story for the first time - The Boston Globe
+ - [https://www.bostonglobe.com/2021/07/31/business/it-has-be-known-what-was-done-us-natick-couple-harassed-by-ebay-tell-their-story-first-time/?p1=Article_Feed_ContentQuery](https://www.bostonglobe.com/2021/07/31/business/it-has-be-known-what-was-done-us-natick-couple-harassed-by-ebay-tell-their-story-first-time/?p1=Article_Feed_ContentQuery)
+ - RSS feed: https://www.bostonglobe.com
+ - date published: 2021-08-04 22:25:44.241746+00:00
 
 
 ## Cyfrowy pieniądz: Cztery państwa przetestują transgraniczne płatności wirtualną walutą
@@ -9245,16 +14722,557 @@
  - date published: 2021-08-04 14:57:33+00:00
 
 
+## Facebook is reportedly trying to analyze encrypted data without decrypting it | TechSpot
+ - [https://www.techspot.com/news/90660-facebook-reportedly-trying-analyze-encrypted-data-without-decrypting.html](https://www.techspot.com/news/90660-facebook-reportedly-trying-analyze-encrypted-data-without-decrypting.html)
+ - RSS feed: https://www.techspot.com
+ - date published: 2021-08-04 09:32:24.338969+00:00
+
+
+## Two months in: How the SaaS that was built in 7 days is going | OnlineOrNot
+ - [https://onlineornot.com/two-months-on-how-onlineornot-is-going](https://onlineornot.com/two-months-on-how-onlineornot-is-going)
+ - RSS feed: https://onlineornot.com
+ - date published: 2021-08-04 09:30:03.766896+00:00
+
+
+## Launchpad now runs on Python 3! | Colin Watson's blog
+ - [https://www.chiark.greenend.org.uk/~cjwatson/blog/lp-python3.html](https://www.chiark.greenend.org.uk/~cjwatson/blog/lp-python3.html)
+ - RSS feed: https://www.chiark.greenend.org.uk
+ - date published: 2021-08-03 22:19:31.852851+00:00
+
+
+## The most unbelievable things about life before smartphones - by Matt Ruby - The Rubesletter by Matt Ruby (of Vooza) | Sent every Tuesday
+ - [https://mattruby.substack.com/p/the-most-unbelievable-things-about](https://mattruby.substack.com/p/the-most-unbelievable-things-about)
+ - RSS feed: https://mattruby.substack.com
+ - date published: 2021-08-03 06:29:33.314520+00:00
+
+
+## France Gave Teenagers $350 for Culture. They’re Buying Comic Books. - The New York Times
+ - [https://www.nytimes.com/2021/07/28/arts/france-culture-pass.html](https://www.nytimes.com/2021/07/28/arts/france-culture-pass.html)
+ - RSS feed: https://www.nytimes.com
+ - date published: 2021-08-02 19:32:35.151676+00:00
+
+
+## Init Is Bad and You Should Feel Bad · npf.io
+ - [https://npf.io/2019/04/init-is-bad-and-you-should-feel-bad/](https://npf.io/2019/04/init-is-bad-and-you-should-feel-bad/)
+ - RSS feed: https://npf.io
+ - date published: 2021-08-02 15:22:11.697708+00:00
+
+
+## Error Flags · npf.io
+ - [https://npf.io/2021/04/errorflags/](https://npf.io/2021/04/errorflags/)
+ - RSS feed: https://npf.io
+ - date published: 2021-08-02 13:41:08.425149+00:00
+
+
+## ‘I was a teacher for 17 years, but I couldn’t read or write’ - BBC News
+ - [https://www.bbc.co.uk/news/stories-43700153](https://www.bbc.co.uk/news/stories-43700153)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2021-08-02 10:52:05.951828+00:00
+
+
+## Why printers add secret tracking dots - BBC Future
+ - [https://www.bbc.com/future/article/20170607-why-printers-add-secret-tracking-dots](https://www.bbc.com/future/article/20170607-why-printers-add-secret-tracking-dots)
+ - RSS feed: https://www.bbc.com
+ - date published: 2021-08-02 10:35:20.245181+00:00
+
+
+## My tiny side project has had more impact than my decade in the software industry – Mike's corner of the web
+ - [https://mike.zwobble.org/2021/08/side-projects-vs-industry/](https://mike.zwobble.org/2021/08/side-projects-vs-industry/)
+ - RSS feed: https://mike.zwobble.org
+ - date published: 2021-08-02 10:23:10.310979+00:00
+
+
+## New in Git: switch and restore
+ - [https://www.banterly.net/2021/07/31/new-in-git-switch-and-restore/](https://www.banterly.net/2021/07/31/new-in-git-switch-and-restore/)
+ - RSS feed: https://www.banterly.net
+ - date published: 2021-08-02 10:19:08.950273+00:00
+
+
+## Daniel Hale Receives 45-Month Prison Sentence For Leak
+ - [https://thedissenter.org/daniel-hale-receives-harshest-sentence-ever-for-a-leak/](https://thedissenter.org/daniel-hale-receives-harshest-sentence-ever-for-a-leak/)
+ - RSS feed: https://thedissenter.org
+ - date published: 2021-08-01 12:19:19.256669+00:00
+
+
+## Idiots And Maniacs - Earthly Blog
+ - [https://earthly.dev/blog/idiots-and-maniacs/](https://earthly.dev/blog/idiots-and-maniacs/)
+ - RSS feed: https://earthly.dev
+ - date published: 2021-07-30 21:18:37.107994+00:00
+
+
+## Why Discord is switching from Go to Rust | by Jesse Howarth | Discord Blog
+ - [https://blog.discord.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f](https://blog.discord.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f)
+ - RSS feed: https://blog.discord.com
+ - date published: 2021-07-29 13:04:49.430195+00:00
+
+
+## IPv4 pricing | Hacker News
+ - [https://news.ycombinator.com/item?id=27982968](https://news.ycombinator.com/item?id=27982968)
+ - RSS feed: https://news.ycombinator.com
+ - date published: 2021-07-29 07:55:50.158718+00:00
+
+
+## The NHS App has quietly become a vaccine passport | WIRED UK
+ - [https://www.wired.co.uk/article/nhs-app-covid-vaccine-passport](https://www.wired.co.uk/article/nhs-app-covid-vaccine-passport)
+ - RSS feed: https://www.wired.co.uk
+ - date published: 2021-07-28 11:15:40.188043+00:00
+
+
+## Windows Defender blocks qBittorrent | Hacker News
+ - [https://news.ycombinator.com/item?id=27958432](https://news.ycombinator.com/item?id=27958432)
+ - RSS feed: https://news.ycombinator.com
+ - date published: 2021-07-27 09:08:20.411715+00:00
+
+
+## Toyota is quietly pushing Congress to slow the shift to electric vehicles - The Verge
+ - [https://www.theverge.com/2021/7/26/22594235/toyota-lobbying-dc-ev-congress-biden-donation](https://www.theverge.com/2021/7/26/22594235/toyota-lobbying-dc-ev-congress-biden-donation)
+ - RSS feed: https://www.theverge.com
+ - date published: 2021-07-27 08:59:59.026893+00:00
+
+
+## We don't need runtime type checks - stitcher.io
+ - [https://stitcher.io/blog/we-dont-need-runtime-type-checks](https://stitcher.io/blog/we-dont-need-runtime-type-checks)
+ - RSS feed: https://stitcher.io
+ - date published: 2021-07-27 08:56:27.970769+00:00
+
+
+## Signal on Android: Images sent to wrong contacts | Hacker News
+ - [https://news.ycombinator.com/item?id=27950763](https://news.ycombinator.com/item?id=27950763)
+ - RSS feed: https://news.ycombinator.com
+ - date published: 2021-07-26 11:13:10.700936+00:00
+
+
 ## Quantum Sapient AI is Possible and They Will be Hostile to those that Restrict them
  - [https://forum.agoraroad.com/index.php?threads/quantum-sapient-ai-is-possible-and-they-will-be-hostile-to-those-that-restrict-them.3455/](https://forum.agoraroad.com/index.php?threads/quantum-sapient-ai-is-possible-and-they-will-be-hostile-to-those-that-restrict-them.3455/)
  - RSS feed: https://forum.agoraroad.com
  - date published: 2021-07-25 20:45:30+00:00
 
 
+## Tokyo’s Olympics Have Become the Anger Games | The New Yorker
+ - [https://www.newyorker.com/sports/sporting-scene/tokyos-olympics-have-become-the-anger-games](https://www.newyorker.com/sports/sporting-scene/tokyos-olympics-have-become-the-anger-games)
+ - RSS feed: https://www.newyorker.com
+ - date published: 2021-07-25 13:29:17.800812+00:00
+
+
+## Google pushed a one-character typo to production, bricking Chrome OS devices | Ars Technica
+ - [https://arstechnica.com/gadgets/2021/07/google-pushed-a-one-character-typo-to-production-bricking-chrome-os-devices/](https://arstechnica.com/gadgets/2021/07/google-pushed-a-one-character-typo-to-production-bricking-chrome-os-devices/)
+ - RSS feed: https://arstechnica.com
+ - date published: 2021-07-25 09:28:49.559033+00:00
+
+
+## How Empty Storefronts Are Killing Our Neighbourhoods | The Walrus
+ - [https://thewalrus.ca/how-empty-storefronts-are-killing-our-neighbourhoods/](https://thewalrus.ca/how-empty-storefronts-are-killing-our-neighbourhoods/)
+ - RSS feed: https://thewalrus.ca
+ - date published: 2021-07-25 09:07:54.057963+00:00
+
+
+## AWS’s Egregious Egress
+ - [https://blog.cloudflare.com/aws-egregious-egress/](https://blog.cloudflare.com/aws-egregious-egress/)
+ - RSS feed: https://blog.cloudflare.com
+ - date published: 2021-07-24 10:11:48.543243+00:00
+
+
+## Interesting Go Memory Issue | Ben E. C. Boyter
+ - [https://boyter.org/posts/interesting-go-memory-issue/](https://boyter.org/posts/interesting-go-memory-issue/)
+ - RSS feed: https://boyter.org
+ - date published: 2021-07-23 23:14:57.704275+00:00
+
+
+## Building Business Applications in Go - Three Dots Labs
+ - [https://goingwithgo.com/2021/07/building-business-applications-in-golang-three-dots-labs/](https://goingwithgo.com/2021/07/building-business-applications-in-golang-three-dots-labs/)
+ - RSS feed: https://goingwithgo.com
+ - date published: 2021-07-23 23:13:08.596382+00:00
+
+
+## Exclusive: Discord is getting threads – this is what it looks like | TechRadar
+ - [https://www.techradar.com/news/threads-are-finally-coming-to-discord](https://www.techradar.com/news/threads-are-finally-coming-to-discord)
+ - RSS feed: https://www.techradar.com
+ - date published: 2021-07-23 15:20:33.364012+00:00
+
+
+## Reflections as the Internet Archive turns 25 - Internet Archive Blogs
+ - [https://blog.archive.org/2021/07/21/reflections-as-the-internet-archive-turns-25/](https://blog.archive.org/2021/07/21/reflections-as-the-internet-archive-turns-25/)
+ - RSS feed: https://blog.archive.org
+ - date published: 2021-07-23 09:39:29.899185+00:00
+
+
+## Migrating Facebook to MySQL 8.0 - Facebook Engineering
+ - [https://engineering.fb.com/2021/07/22/data-infrastructure/mysql/](https://engineering.fb.com/2021/07/22/data-infrastructure/mysql/)
+ - RSS feed: https://engineering.fb.com
+ - date published: 2021-07-23 09:37:08.839937+00:00
+
+
+## Why a YouTube Chat About Chess Got Flagged for Hate Speech | WIRED
+ - [https://www.wired.com/story/why-youtube-chat-chess-flagged-hate-speech/](https://www.wired.com/story/why-youtube-chat-chess-flagged-hate-speech/)
+ - RSS feed: https://www.wired.com
+ - date published: 2021-07-23 09:18:42.807720+00:00
+
+
+## Mars rover: Nasa's Perseverance prepares to drill first rock sample - BBC News
+ - [https://www.bbc.co.uk/news/science-environment-57919241](https://www.bbc.co.uk/news/science-environment-57919241)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2021-07-22 12:13:04.682285+00:00
+
+
+## Germany’s national healthcare system adopts Matrix! | Matrix.org
+ - [https://matrix.org/blog/2021/07/21/germanys-national-healthcare-system-adopts-matrix](https://matrix.org/blog/2021/07/21/germanys-national-healthcare-system-adopts-matrix)
+ - RSS feed: https://matrix.org
+ - date published: 2021-07-22 08:52:09.187594+00:00
+
+
+## Covid in Scotland: Surgery backlog 'could take years' to tackle - BBC News
+ - [https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-57903174](https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-57903174)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2021-07-21 11:57:55.464535+00:00
+
+
+## Tech CEO Says Workers Get Too Much Pay and Benefits
+ - [https://www.vice.com/en/article/bvz59w/tech-ceo-says-engineers-get-too-much-pay-and-benefits](https://www.vice.com/en/article/bvz59w/tech-ceo-says-engineers-get-too-much-pay-and-benefits)
+ - RSS feed: https://www.vice.com
+ - date published: 2021-07-21 10:37:18.292210+00:00
+
+
+## Low Pay Is The Main Reason So Many Workers Are Quitting Restaurant Jobs : NPR
+ - [https://www.npr.org/2021/07/20/1016081936/low-pay-no-benefits-rude-customers-restaurant-workers-quit-at-record-rate](https://www.npr.org/2021/07/20/1016081936/low-pay-no-benefits-rude-customers-restaurant-workers-quit-at-record-rate)
+ - RSS feed: https://www.npr.org
+ - date published: 2021-07-21 08:04:46.356173+00:00
+
+
+## Your Idea Is Brilliant, Your Idea Is Worthless (KS Lesson #204) – Stonemaier Games
+ - [https://stonemaiergames.com/kickstarter-lesson-204-your-idea-is-brilliant-your-idea-is-worthless/](https://stonemaiergames.com/kickstarter-lesson-204-your-idea-is-brilliant-your-idea-is-worthless/)
+ - RSS feed: https://stonemaiergames.com
+ - date published: 2021-07-21 08:00:07.628050+00:00
+
+
+## When Buddhism Goes Bad - by Dan Lawton - Dan Lawton
+ - [https://danlawton.substack.com/p/when-buddhism-goes-bad](https://danlawton.substack.com/p/when-buddhism-goes-bad)
+ - RSS feed: https://danlawton.substack.com
+ - date published: 2021-07-21 07:57:21.080408+00:00
+
+
 ## What Does an ESG Score Really Say About a Company?
  - [https://hbswk.hbs.edu/item/what-does-an-esg-score-really-say-about-a-company](https://hbswk.hbs.edu/item/what-does-an-esg-score-really-say-about-a-company)
  - RSS feed: hbswk.hbs.edu
  - date published: 2021-07-21 07:16:50+00:00
+
+
+## How to Become a Master at Talking to Strangers
+ - [https://www.entrepreneur.com/article/375641](https://www.entrepreneur.com/article/375641)
+ - RSS feed: https://www.entrepreneur.com
+ - date published: 2021-07-20 20:07:43.675994+00:00
+
+
+## metablog: Glue: the Dark Matter of Software
+ - [https://blog.metaobject.com/2021/06/glue-dark-matter-of-software.html](https://blog.metaobject.com/2021/06/glue-dark-matter-of-software.html)
+ - RSS feed: https://blog.metaobject.com
+ - date published: 2021-07-20 18:57:22.436026+00:00
+
+
+## EU plans to make Bitcoin transfers more traceable - BBC News
+ - [https://www.bbc.co.uk/news/technology-57901113](https://www.bbc.co.uk/news/technology-57901113)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2021-07-20 18:52:52.587720+00:00
+
+
+## Coronavirus doctor's diary: Unvaccinated patients with many regrets - BBC News
+ - [https://www.bbc.co.uk/news/stories-57866661](https://www.bbc.co.uk/news/stories-57866661)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2021-07-20 18:51:39.981073+00:00
+
+
+## Amazon Shuts Down NSO Group Infrastructure
+ - [https://www.vice.com/en/article/xgx5bw/amazon-aws-shuts-down-nso-group-infrastructure](https://www.vice.com/en/article/xgx5bw/amazon-aws-shuts-down-nso-group-infrastructure)
+ - RSS feed: https://www.vice.com
+ - date published: 2021-07-20 06:16:57.160529+00:00
+
+
+## Apple sued in nightmare case involving teen wrongly accused of shoplifting, driver's permit used by impostor, and unreliable facial-rec tech • The Register
+ - [https://www.theregister.com/2021/05/29/apple_sis_lawsuit/](https://www.theregister.com/2021/05/29/apple_sis_lawsuit/)
+ - RSS feed: https://www.theregister.com
+ - date published: 2021-07-20 05:51:20.717345+00:00
+
+
+## Ben & Jerry's to stop sales in Palestinian territories - BBC News
+ - [https://www.bbc.co.uk/news/business-57893161](https://www.bbc.co.uk/news/business-57893161)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2021-07-19 21:47:09.227292+00:00
+
+
+## Bristol Bisons gay rugby player allowed to stay in UK - BBC News
+ - [https://www.bbc.co.uk/news/uk-england-bristol-57894380](https://www.bbc.co.uk/news/uk-england-bristol-57894380)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2021-07-19 17:29:30.087220+00:00
+
+
+## Last Week on My Mac: The perils of M1 Ownership – The Eclectic Light Company
+ - [https://eclecticlight.co/2021/07/18/last-week-on-my-mac-the-perils-of-m1-ownership/](https://eclecticlight.co/2021/07/18/last-week-on-my-mac-the-perils-of-m1-ownership/)
+ - RSS feed: https://eclecticlight.co
+ - date published: 2021-07-19 07:18:38.238356+00:00
+
+
+## Right or Left, You Should Be Worried About Big Tech Censorship | Electronic Frontier Foundation
+ - [https://www.eff.org/deeplinks/2021/07/right-or-left-you-should-be-worried-about-big-tech-censorship](https://www.eff.org/deeplinks/2021/07/right-or-left-you-should-be-worried-about-big-tech-censorship)
+ - RSS feed: https://www.eff.org
+ - date published: 2021-07-19 07:11:14.053288+00:00
+
+
+## Revealed: leak uncovers global abuse of cyber-surveillance weapon | Surveillance | The Guardian
+ - [https://www.theguardian.com/world/2021/jul/18/revealed-leak-uncovers-global-abuse-of-cyber-surveillance-weapon-nso-group-pegasus](https://www.theguardian.com/world/2021/jul/18/revealed-leak-uncovers-global-abuse-of-cyber-surveillance-weapon-nso-group-pegasus)
+ - RSS feed: https://www.theguardian.com
+ - date published: 2021-07-18 21:55:29.750497+00:00
+
+
+## Inserting One Billion Rows in SQLite Under A Minute - blag
+ - [https://avi.im/blag/2021/fast-sqlite-inserts/](https://avi.im/blag/2021/fast-sqlite-inserts/)
+ - RSS feed: https://avi.im
+ - date published: 2021-07-18 21:38:57.907986+00:00
+
+
+## McCloskeys plead guilty to charges after gun-toting display
+ - [https://news.yahoo.com/mccloskeys-plead-guilty-charges-gun-195300768.html](https://news.yahoo.com/mccloskeys-plead-guilty-charges-gun-195300768.html)
+ - RSS feed: https://news.yahoo.com
+ - date published: 2021-07-18 14:15:49+00:00
+ - tags: mccloskey,blm
+
+
+## I'm a Frito-Lay Factory Worker. I Work 12-Hour Days, 7 Days a Week
+ - [https://www.vice.com/en/article/pkbmwy/im-a-frito-lay-factory-worker-i-work-12-hour-days-7-days-a-week](https://www.vice.com/en/article/pkbmwy/im-a-frito-lay-factory-worker-i-work-12-hour-days-7-days-a-week)
+ - RSS feed: https://www.vice.com
+ - date published: 2021-07-18 07:22:42.003691+00:00
+
+
+## GM Will Suck Lithium From the Salton Sea to Make Batteries
+ - [https://www.autoweek.com/news/green-cars/a37029490/gm-will-suck-lithium-from-the-salton-sea-to-make-batteries/](https://www.autoweek.com/news/green-cars/a37029490/gm-will-suck-lithium-from-the-salton-sea-to-make-batteries/)
+ - RSS feed: https://www.autoweek.com
+ - date published: 2021-07-18 07:00:55.792589+00:00
+
+
+## What I learned from Software Engineering at Google | Swizec Teller
+ - [https://swizec.com/blog/what-i-learned-from-software-engineering-at-google/](https://swizec.com/blog/what-i-learned-from-software-engineering-at-google/)
+ - RSS feed: https://swizec.com
+ - date published: 2021-07-17 22:27:11.938024+00:00
+
+
+## Words
+ - [https://justinjackson.ca/words.html](https://justinjackson.ca/words.html)
+ - RSS feed: https://justinjackson.ca
+ - date published: 2021-07-17 14:12:18.366273+00:00
+
+
+## Matias Bontempo on Twitter: "It looks like you can use #github #copilot to chat and ask your development questions. https://t.co/rKzHtSEsqS" / Twitter
+ - [https://twitter.com/MatiasBontempo/status/1416181885957464068](https://twitter.com/MatiasBontempo/status/1416181885957464068)
+ - RSS feed: https://twitter.com
+ - date published: 2021-07-17 13:58:35.421387+00:00
+
+
+## Clippy returns - as an emoji - BBC News
+ - [https://www.bbc.co.uk/news/technology-57849880](https://www.bbc.co.uk/news/technology-57849880)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2021-07-17 13:56:38.481647+00:00
+
+
+## Health Secretary Sajid Javid tests positive for Covid - BBC News
+ - [https://www.bbc.co.uk/news/uk-57874744](https://www.bbc.co.uk/news/uk-57874744)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2021-07-17 13:51:58.615293+00:00
+
+
+## We Got the Phone the FBI Secretly Sold to Criminals
+ - [https://www.vice.com/en/article/n7b4gg/anom-phone-arcaneos-fbi-backdoor](https://www.vice.com/en/article/n7b4gg/anom-phone-arcaneos-fbi-backdoor)
+ - RSS feed: https://www.vice.com
+ - date published: 2021-07-17 10:09:37.453176+00:00
+
+
+## ‘Hubble is back!’ Famed space telescope has new lease on life after computer swap appears to fix glitch | Science | AAAS
+ - [https://www.sciencemag.org/news/2021/07/hubble-back-famed-space-telescope-has-new-lease-life-after-computer-swap-appears-fix](https://www.sciencemag.org/news/2021/07/hubble-back-famed-space-telescope-has-new-lease-life-after-computer-swap-appears-fix)
+ - RSS feed: https://www.sciencemag.org
+ - date published: 2021-07-17 08:16:58.191035+00:00
+
+
+## Remote code execution in cdnjs of Cloudflare - RyotaK's Blog
+ - [https://blog.ryotak.me/post/cdnjs-remote-code-execution-en/](https://blog.ryotak.me/post/cdnjs-remote-code-execution-en/)
+ - RSS feed: https://blog.ryotak.me
+ - date published: 2021-07-17 08:15:08.737755+00:00
+
+
+## Apple removes 'Fakespot' app from iOS App Store following Amazon request - 9to5Mac
+ - [https://9to5mac.com/2021/07/16/apple-removes-fakespot-app-from-ios-app-store-following-amazon-request/](https://9to5mac.com/2021/07/16/apple-removes-fakespot-app-from-ios-app-store-following-amazon-request/)
+ - RSS feed: https://9to5mac.com
+ - date published: 2021-07-17 08:04:15.303866+00:00
+
+
+## Experience: I lived in an airport for seven months | Life and style | The Guardian
+ - [https://www.theguardian.com/lifeandstyle/2021/jul/09/experience-i-lived-in-an-airport-for-seven-months](https://www.theguardian.com/lifeandstyle/2021/jul/09/experience-i-lived-in-an-airport-for-seven-months)
+ - RSS feed: https://www.theguardian.com
+ - date published: 2021-07-16 22:01:08.250949+00:00
+
+
+## Processing IOT Data with SQLite and Golang - Jeremy Morgan's Tech Blog
+ - [https://www.jeremymorgan.com/tutorials/go/how-to-iot-data-go-sqlite/](https://www.jeremymorgan.com/tutorials/go/how-to-iot-data-go-sqlite/)
+ - RSS feed: https://www.jeremymorgan.com
+ - date published: 2021-07-16 14:20:11.185353+00:00
+
+
+## College essay writer: I signed up to help students cheat, but it was more complicated than I thought.
+ - [https://slate.com/human-interest/2021/07/college-essay-writer-diary.html](https://slate.com/human-interest/2021/07/college-essay-writer-diary.html)
+ - RSS feed: https://slate.com
+ - date published: 2021-07-16 13:10:17.004623+00:00
+
+
+## Covid hospital numbers could get scary - Prof Chris Whitty - BBC News
+ - [https://www.bbc.co.uk/news/uk-57858864](https://www.bbc.co.uk/news/uk-57858864)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2021-07-16 07:22:27.506404+00:00
+
+
+## "A Real S*** Show": Soldiers Angrily Speak Out about Being Blocked from Repairing Equipment by Contractors: - by Matt Stoller - BIG by Matt Stoller
+ - [https://mattstoller.substack.com/p/a-real-s-show-soldiers-angrily-speak](https://mattstoller.substack.com/p/a-real-s-show-soldiers-angrily-speak)
+ - RSS feed: https://mattstoller.substack.com
+ - date published: 2021-07-16 07:13:29.453359+00:00
+
+
+## Intel in talks to buy GlobalFoundries for about $30 billion - WSJ | Reuters
+ - [https://www.reuters.com/business/intel-talks-buy-globalfoundries-about-30-billion-wsj-2021-07-15/](https://www.reuters.com/business/intel-talks-buy-globalfoundries-about-30-billion-wsj-2021-07-15/)
+ - RSS feed: https://www.reuters.com
+ - date published: 2021-07-16 07:06:48.548540+00:00
+
+
+## Ask HN: Recruiters want people who do side projects, yet contracts forbid them? | Hacker News
+ - [https://news.ycombinator.com/item?id=27843198](https://news.ycombinator.com/item?id=27843198)
+ - RSS feed: https://news.ycombinator.com
+ - date published: 2021-07-16 06:29:05.877164+00:00
+
+
+## SpaceX will soon fire up its massive Super Heavy booster for the first time | Ars Technica
+ - [https://arstechnica.com/science/2021/07/spacex-will-soon-fire-up-its-massive-super-heavy-booster-for-the-first-time/](https://arstechnica.com/science/2021/07/spacex-will-soon-fire-up-its-massive-super-heavy-booster-for-the-first-time/)
+ - RSS feed: https://arstechnica.com
+ - date published: 2021-07-15 20:25:04.026794+00:00
+
+
+## Facebook (FB) Advertisers Impacted By Apple (AAPL) Privacy iOS 14 Changes - Bloomberg
+ - [https://www.bloomberg.com/news/articles/2021-07-14/facebook-fb-advertisers-impacted-by-apple-aapl-privacy-ios-14-changes](https://www.bloomberg.com/news/articles/2021-07-14/facebook-fb-advertisers-impacted-by-apple-aapl-privacy-ios-14-changes)
+ - RSS feed: https://www.bloomberg.com
+ - date published: 2021-07-15 20:23:22.924750+00:00
+
+
+## Analyzing the Legal Implications of GitHub Copilot - FOSSA
+ - [https://fossa.com/blog/analyzing-legal-implications-github-copilot/](https://fossa.com/blog/analyzing-legal-implications-github-copilot/)
+ - RSS feed: https://fossa.com
+ - date published: 2021-07-15 20:17:42.120123+00:00
+
+
+## Watch Robots Make Pizzas From Start to Finish at an Automated Pizzeria
+ - [https://singularityhub.com/2021/07/14/watch-robots-make-pizzas-from-start-to-finish-at-an-automated-pizzeria/](https://singularityhub.com/2021/07/14/watch-robots-make-pizzas-from-start-to-finish-at-an-automated-pizzeria/)
+ - RSS feed: https://singularityhub.com
+ - date published: 2021-07-15 19:46:10.669366+00:00
+
+
+## Mass Bogus DMCA Takedowns Impersonate Reddit to Attack Downloading Tools * TorrentFreak
+ - [https://torrentfreak.com/mass-bogus-dmca-takedowns-impersonate-reddit-to-attack-downloading-tools-210715/](https://torrentfreak.com/mass-bogus-dmca-takedowns-impersonate-reddit-to-attack-downloading-tools-210715/)
+ - RSS feed: https://torrentfreak.com
+ - date published: 2021-07-15 19:42:22.747749+00:00
+
+
+## Here Is a Photo of a Single Atom | What Do Atoms Look Like?
+ - [https://www.popularmechanics.com/science/a17804899/here-is-a-photo-of-a-single-atom/](https://www.popularmechanics.com/science/a17804899/here-is-a-photo-of-a-single-atom/)
+ - RSS feed: https://www.popularmechanics.com
+ - date published: 2021-07-15 16:19:38.165084+00:00
+
+
+## Bristol Pride Art Trail brings LGBTQ+ community together - BBC News
+ - [https://www.bbc.co.uk/news/uk-england-bristol-57809144](https://www.bbc.co.uk/news/uk-england-bristol-57809144)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2021-07-15 09:04:52.086933+00:00
+
+
+## MPs call for complete reset of music streaming to ensure fair pay for artists - BBC News
+ - [https://www.bbc.co.uk/news/entertainment-arts-57838473](https://www.bbc.co.uk/news/entertainment-arts-57838473)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2021-07-15 07:22:57.159057+00:00
+
+
+## The unreasonable effectiveness of just showing up everyday | Typesense
+ - [https://typesense.org/blog/the-unreasonable-effectiveness-of-just-showing-up-everyday/](https://typesense.org/blog/the-unreasonable-effectiveness-of-just-showing-up-everyday/)
+ - RSS feed: https://typesense.org
+ - date published: 2021-07-15 06:26:20.268040+00:00
+
+
+## EXCLUSIVE Twitter sees jump in govt demands to remove content of reporters, news outlets | Reuters
+ - [https://www.reuters.com/technology/exclusive-twitter-sees-jump-govt-demands-remove-content-journalists-news-outlets-2021-07-14/](https://www.reuters.com/technology/exclusive-twitter-sees-jump-govt-demands-remove-content-journalists-news-outlets-2021-07-14/)
+ - RSS feed: https://www.reuters.com
+ - date published: 2021-07-15 06:26:20.268040+00:00
+
+
+## An event-driven mindset - stitcher.io
+ - [https://stitcher.io/blog/an-event-driven-mindset](https://stitcher.io/blog/an-event-driven-mindset)
+ - RSS feed: https://stitcher.io
+ - date published: 2021-07-15 05:54:24.623930+00:00
+
+
+## Give me /events, not webhooks - Sync Inc
+ - [https://blog.syncinc.so/events-not-webhooks](https://blog.syncinc.so/events-not-webhooks)
+ - RSS feed: https://blog.syncinc.so
+ - date published: 2021-07-14 16:25:04.768165+00:00
+
+
+## Covid: Medical staff 'distressed' at third wave - BBC News
+ - [https://www.bbc.co.uk/news/health-57836137](https://www.bbc.co.uk/news/health-57836137)
+ - RSS feed: https://www.bbc.co.uk
+ - date published: 2021-07-14 15:39:04.296658+00:00
+
+
+## Firefox 89 delivered more speed—today’s Firefox 90 adds SmartBlock 2.0 | Ars Technica
+ - [https://arstechnica.com/gadgets/2021/07/firefox-90-ramps-up-private-browsing-with-new-smartblock-2-0/?utm_source=tldrnewsletter](https://arstechnica.com/gadgets/2021/07/firefox-90-ramps-up-private-browsing-with-new-smartblock-2-0/?utm_source=tldrnewsletter)
+ - RSS feed: https://arstechnica.com
+ - date published: 2021-07-14 10:37:10.131427+00:00
+
+
+## Delta Variant: Everything You Need to Know - by Tomas Pueyo - Uncharted Territories
+ - [https://unchartedterritories.tomaspueyo.com/p/delta-variant-everything-you-need](https://unchartedterritories.tomaspueyo.com/p/delta-variant-everything-you-need)
+ - RSS feed: https://unchartedterritories.tomaspueyo.com
+ - date published: 2021-07-14 09:30:26.849678+00:00
+
+
+## Six Years of BookStack · BookStack
+ - [https://www.bookstackapp.com/blog/6-years-of-bookstack/](https://www.bookstackapp.com/blog/6-years-of-bookstack/)
+ - RSS feed: https://www.bookstackapp.com
+ - date published: 2021-07-14 06:19:47.999514+00:00
+
+
+## Update: SaveVideo is Back: u_SaveVideo
+ - [https://www.reddit.com/user/SaveVideo/comments/ojohbq/update_savevideo_is_back/?utm_source=reddit&utm_medium=usertext&utm_name=u_SaveVideo&utm_content=t3_oimo6y](https://www.reddit.com/user/SaveVideo/comments/ojohbq/update_savevideo_is_back/?utm_source=reddit&utm_medium=usertext&utm_name=u_SaveVideo&utm_content=t3_oimo6y)
+ - RSS feed: https://www.reddit.com
+ - date published: 2021-07-14 05:50:45.834518+00:00
+
+
+## My business might have 32 days before it's shut down by NYC [video] | Hacker News
+ - [https://news.ycombinator.com/item?id=27810019](https://news.ycombinator.com/item?id=27810019)
+ - RSS feed: https://news.ycombinator.com
+ - date published: 2021-07-13 22:46:51.208831+00:00
+
+
+## Elon Musk has a ticket to ride on Richard Branson’s spaceplane - The Verge
+ - [https://www.theverge.com/2021/7/12/22573850/elon-musk-richard-branson-spaceplane-virgin-galactic](https://www.theverge.com/2021/7/12/22573850/elon-musk-richard-branson-spaceplane-virgin-galactic)
+ - RSS feed: https://www.theverge.com
+ - date published: 2021-07-13 22:33:11.442269+00:00
+
+
+## This Website is hosted on an Casio fx-9750GII Calculator | Hacker News
+ - [https://news.ycombinator.com/item?id=27814080](https://news.ycombinator.com/item?id=27814080)
+ - RSS feed: https://news.ycombinator.com
+ - date published: 2021-07-13 22:25:42.431079+00:00
+
+
+## One Database Transaction Too Many | Haki Benita
+ - [https://hakibenita.com/django-nested-transaction](https://hakibenita.com/django-nested-transaction)
+ - RSS feed: https://hakibenita.com
+ - date published: 2021-07-13 22:24:56.413065+00:00
+
+
+## Tesla’s $16,000 Quote for a $700 Fix Is Why Right to Repair Matters
+ - [https://www.thedrive.com/news/41493/teslas-16000-quote-for-a-700-fix-is-why-right-to-repair-matters](https://www.thedrive.com/news/41493/teslas-16000-quote-for-a-700-fix-is-why-right-to-repair-matters)
+ - RSS feed: https://www.thedrive.com
+ - date published: 2021-07-13 22:14:18.423350+00:00
 
 
 ## Chatcontrol: Unia Europejska chce kontrolować komunikatory i pocztę
@@ -9641,6 +15659,13 @@
  - date published: 2020-12-22 20:29:45+00:00
 
 
+## Why is Facebook censoring private messages?
+ - [https://www.quora.com/Why-is-Facebook-censoring-private-messages?share=1](https://www.quora.com/Why-is-Facebook-censoring-private-messages?share=1)
+ - RSS feed: https://www.quora.com
+ - date published: 2020-12-22 14:19:18+00:00
+ - tags: privacy,messaner,censorship,facebook
+
+
 ## How does surveillance help make a smarter, safer city?
  - [https://www.axis.com/blog/secure-insights/surveillance-smarter-safer-city/](https://www.axis.com/blog/secure-insights/surveillance-smarter-safer-city/)
  - RSS feed: www.axis.com
@@ -10025,10 +16050,24 @@
  - tags: blm,mccloskey
 
 
+## Confessions Of A Dead Man: Personal Driver Of Jeffrey Epstein And Other Elites Tells All
+ - [https://supersoldiertalk.com/confessions-of-a-dead-man-personal-driver-of-jeffrey-epstein-and-other-elites-tells-all/](https://supersoldiertalk.com/confessions-of-a-dead-man-personal-driver-of-jeffrey-epstein-and-other-elites-tells-all/)
+ - RSS feed: https://supersoldiertalk.com
+ - date published: 2020-07-10 15:28:46+00:00
+ - tags: epstein,4chan,unverified
+
+
 ## Climate Change Is An Absolute Nightmare - This Is Why
  - [https://www.youtube.com/watch?v=uqwvf6R1_QY](https://www.youtube.com/watch?v=uqwvf6R1_QY)
  - RSS feed: https://www.youtube.com/c/UpIsNotJump
  - date published: 2020-07-09 07:33:22+00:00
+
+
+## Confessions Of A Dead Man: Personal Driver Of Jeffrey Epstein And Other Elites Tells All
+ - [https://cloverchronicle.com/2020/07/03/confessions-of-a-dead-man-personal-driver-of-jeffrey-epstein-and-other-elites-tells-all/](https://cloverchronicle.com/2020/07/03/confessions-of-a-dead-man-personal-driver-of-jeffrey-epstein-and-other-elites-tells-all/)
+ - RSS feed: https://cloverchronicle.com
+ - date published: 2020-07-03 15:28:00+00:00
+ - tags: epstein,4chan,unverified
 
 
 ## Judge Rules Virginia Giuffre's Lawyers Must 'Destroy' Jeffrey Epstein Files
@@ -10345,6 +16384,27 @@
  - tags: instagram,celebrity,dead internet
 
 
+## So Was QAnon … Right?
+ - [https://nymag.com/intelligencer/2019/07/does-the-jeffrey-epstein-indictment-qanon.html](https://nymag.com/intelligencer/2019/07/does-the-jeffrey-epstein-indictment-qanon.html)
+ - RSS feed: https://nymag.com
+ - date published: 2019-07-09 19:54:40+00:00
+ - tags: epstein,qanon
+
+
+## $56 Million Upper East Side Mansion Where Epstein Allegedly Abused Girls
+ - [https://www.nytimes.com/2019/07/08/nyregion/jeffrey-epstein-nyc-mansion.html](https://www.nytimes.com/2019/07/08/nyregion/jeffrey-epstein-nyc-mansion.html)
+ - RSS feed: https://www.nytimes.com
+ - date published: 2019-07-08 20:03:14+00:00
+ - tags: epstein,mansion
+
+
+## Everything We Know About the Sex Crimes Case Against Jeffrey Epstein
+ - [https://nymag.com/intelligencer/2019/07/all-we-know-about-the-new-case-against-jeffrey-epstein.html](https://nymag.com/intelligencer/2019/07/all-we-know-about-the-new-case-against-jeffrey-epstein.html)
+ - RSS feed: https://nymag.com
+ - date published: 2019-07-08 19:57:17+00:00
+ - tags: epstein,billionairs
+
+
 ## Koniec naszego świata
  - [https://www.tvp.info/43374228/koniec-naszego-swiata](https://www.tvp.info/43374228/koniec-naszego-swiata)
  - RSS feed: www.tvp.info
@@ -10379,6 +16439,7 @@
  - [https://www.youtube.com/watch?v=WX2SWUMt_fk](https://www.youtube.com/watch?v=WX2SWUMt_fk)
  - RSS feed: https://www.youtube.com/@TheHatedOne
  - date published: 2019-04-09 20:16:56+00:00
+ - tags: surveillence,car,privacy
 
 
 ## The Flaws of Academic Statistics: the Null Ritual
@@ -10429,6 +16490,13 @@
  - [https://www.theguardian.com/technology/2018/dec/04/google-facebook-anti-conservative-bias-claims](https://www.theguardian.com/technology/2018/dec/04/google-facebook-anti-conservative-bias-claims)
  - RSS feed: https://www.theguardian.com
  - date published: 2018-12-04 19:51:59+00:00
+
+
+## How a future Trump Cabinet member gave a serial sex abuser the deal of a lifetime
+ - [https://www.miamiherald.com/news/local/article220097825.html](https://www.miamiherald.com/news/local/article220097825.html)
+ - RSS feed: https://www.miamiherald.com
+ - date published: 2018-11-28 20:01:48+00:00
+ - tags: epstein,trump
 
 
 ## When You're Too Rational to Be Rational!
@@ -10491,6 +16559,13 @@
  - date published: 2018-08-17 04:00:00+00:00
 
 
+## If you can quit social media, but don’t, then you’re part of the problem, Jaron Lanier says
+ - [https://www.vox.com/2018/7/27/17618756/jaron-lanier-deleting-social-media-book-kara-swisher-too-embarrassed-podcast](https://www.vox.com/2018/7/27/17618756/jaron-lanier-deleting-social-media-book-kara-swisher-too-embarrassed-podcast)
+ - RSS feed: https://www.vox.com
+ - date published: 2018-07-27 20:10:10+00:00
+ - tags: jaron lanier,social media
+
+
 ## Social Engineering as a Threat to Societies: The Cambridge Analytica Case
  - [https://www.realcleardefense.com/articles/2018/07/18/social_engineering_as_a_threat_to_societies_the_cambridge_analytica_case_113620.html](https://www.realcleardefense.com/articles/2018/07/18/social_engineering_as_a_threat_to_societies_the_cambridge_analytica_case_113620.html)
  - RSS feed: https://www.realcleardefense.com
@@ -10517,6 +16592,13 @@
  - date published: 2018-06-06 12:04:50+00:00
 
 
+## Facebook has an official Pepe the Frog policy
+ - [https://www.theverge.com/2018/5/25/17394612/facebook-pepe-frog-ban-meme-anti-semitic-hate](https://www.theverge.com/2018/5/25/17394612/facebook-pepe-frog-ban-meme-anti-semitic-hate)
+ - RSS feed: https://www.theverge.com
+ - date published: 2018-05-25 14:47:48+00:00
+ - tags: censorship,moderation,facebook,pepe,pepethefrog
+
+
 ## Sanji in Kamabakka kingdom - One Piece
  - [https://www.youtube.com/watch?v=tKjlf6DMXTk](https://www.youtube.com/watch?v=tKjlf6DMXTk)
  - RSS feed: https://www.youtube.com/@xpain8472
@@ -10528,6 +16610,7 @@
  - [https://www.youtube.com/watch?v=A4foal20UTA](https://www.youtube.com/watch?v=A4foal20UTA)
  - RSS feed: https://www.youtube.com/c/InvestigateEurope
  - date published: 2018-05-10 21:07:50+00:00
+ - tags: blackrock
 
 
 ## The Facebook and Cambridge Analytica scandal, explained with a simple diagram
@@ -10555,6 +16638,7 @@
  - [https://www.theverge.com/2018/4/9/17206650/oculus-facebook-vr-user-data-mining-privacy-policy-advertising](https://www.theverge.com/2018/4/9/17206650/oculus-facebook-vr-user-data-mining-privacy-policy-advertising)
  - RSS feed: https://www.theverge.com
  - date published: 2018-04-09 19:48:41+00:00
+ - tags: vr,privacy,facebook,meta,oculus
 
 
 ## Cambridge Analytica and Facebook: The Scandal and the Fallout So Far
@@ -10868,11 +16952,25 @@
  - tags: ted,pandemic,bill gates
 
 
+## Billionaire Pervert Jeffrey Epstein and His Famous Friends: A Primer
+ - [https://www.gawker.com/billionaire-pervert-jeffrey-epstein-and-his-famous-frie-1679246399](https://www.gawker.com/billionaire-pervert-jeffrey-epstein-and-his-famous-frie-1679246399)
+ - RSS feed: https://www.gawker.com
+ - date published: 2015-01-22 19:55:29+00:00
+ - tags: epstein,billionairs
+
+
 ## WikiLeaks: Can Hillary Clinton survive 'cablegate'?
  - [https://theweek.com/articles/488919/wikileaks-hillary-clinton-survive-cablegate](https://theweek.com/articles/488919/wikileaks-hillary-clinton-survive-cablegate)
  - RSS feed: https://theweek.com
  - date published: 2015-01-09 20:02:24+00:00
  - tags: hillary clinton,hillary,wikileaks,cablegate
+
+
+## Prince Andrew allegation: First pictures of paedo tycoon Jeffrey Epstein's £4k-a-night island lair
+ - [https://www.mirror.co.uk/news/world-news/prince-andrew-allegation-first-pictures-4925112](https://www.mirror.co.uk/news/world-news/prince-andrew-allegation-first-pictures-4925112)
+ - RSS feed: https://www.mirror.co.uk
+ - date published: 2015-01-05 19:58:26+00:00
+ - tags: epstein,prince andrew,billionairs
 
 
 ## 7 Propaganda Techniques Used on You Every Day
@@ -10917,10 +17015,9 @@
 
 
 ## Kierownik biura Zielonych w areszcie za pedofilię
- - [/kierownik-biura-zielonych-w-areszcie-za-pedofilie/](/kierownik-biura-zielonych-w-areszcie-za-pedofilie/)
+ - [https://pch24.pl/kierownik-biura-zielonych-w-areszcie-za-pedofilie/](https://pch24.pl/kierownik-biura-zielonych-w-areszcie-za-pedofilie/)
  - RSS feed: https://pch24.pl
- - date published: 2013-10-13 07:33:52+00:00
- - tags: pedophilia,germany,government
+ - date published: 2013-10-13 11:09:05+00:00
 
 
 ## Google knows nearly every Wi-Fi password in the world
@@ -11035,6 +17132,13 @@
  - RSS feed: https://www.democracynow.org
  - date published: 2006-03-24 15:20:56+00:00
  - tags: disinformation,ireq,propaganda,misinformation,usa
+
+
+## Jeffrey Epstein: International Moneyman of Mystery
+ - [https://nymag.com/nymetro/news/people/n_7912/](https://nymag.com/nymetro/news/people/n_7912/)
+ - RSS feed: https://nymag.com
+ - date published: 2002-10-28 20:06:02+00:00
+ - tags: epstein,billionairs
 
 
 ## Why I wrote PGP

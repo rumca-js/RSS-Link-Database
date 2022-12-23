@@ -107,6 +107,7 @@
  - [https://ithardware.pl/aktualnosci/facebook_oferuje_rzadom_platforme_do_zglaszania_tresci_do_ocenzurowania-24672.html](https://ithardware.pl/aktualnosci/facebook_oferuje_rzadom_platforme_do_zglaszania_tresci_do_ocenzurowania-24672.html)
  - RSS feed: https://ithardware.pl/feed
  - date published: 2022-12-04 13:56:40+00:00
+ - tags: censorship,moderation,facebook,government
 
 
 ## Google i Facebook muszą dzielić się wpływami z lokalnymi wydawcami
@@ -481,6 +482,7 @@
  - [https://www.polsatnews.pl/wiadomosc/2022-10-24/usa-odmowila-upieczenia-tortu-na-slub-homoseksualnej-pary-sad-przyznal-jej-racje/](https://www.polsatnews.pl/wiadomosc/2022-10-24/usa-odmowila-upieczenia-tortu-na-slub-homoseksualnej-pary-sad-przyznal-jej-racje/)
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-24 13:27:00+00:00
+ - tags: lgbt
 
 
 ## Kradną drewno, wycinają drzewa. Za "darmowy" opał mogą surowo zapłacić
@@ -547,6 +549,7 @@
  - [https://tvn24.pl/swiat/kanada-zakazala-sprzedazy-i-kupna-broni-krotkiej-6174876?source=rss](https://tvn24.pl/swiat/kanada-zakazala-sprzedazy-i-kupna-broni-krotkiej-6174876?source=rss)
  - RSS feed: https://tvn24.pl/najnowsze.xml
  - date published: 2022-10-22 03:38:18+00:00
+ - tags: gun control,guns,canada,gun
 
 
 ## Szwedzi raportują: Zaczęło się dziać u nas coś dziwnego
@@ -619,6 +622,7 @@
  - [https://wydarzenia.interia.pl/zagranica/news-aktywistki-oblaly-zupa-slynne-dzielo-van-gogha,nId,6347907](https://wydarzenia.interia.pl/zagranica/news-aktywistki-oblaly-zupa-slynne-dzielo-van-gogha,nId,6347907)
  - RSS feed: https://wydarzenia.interia.pl/feed
  - date published: 2022-10-14 13:39:40+00:00
+ - tags: climate change,activism,woke
 
 
 ## "Rodzice dopłacą do lekcji albo będą musieli odbierać dzieci ze szkoły o 13". Co z darmową edukacją w Polsce?
@@ -1289,12 +1293,6 @@
  - date published: 2022-09-17 18:26:01+00:00
 
 
-## Facebook szpieguje prywatne wiadomości i przekazuje dane fbi
- - [https://www.wykop.pl/link/6821099/facebook-szpieguje-prywatne-wiadomosci-i-przekazuje-dane-fbi/](https://www.wykop.pl/link/6821099/facebook-szpieguje-prywatne-wiadomosci-i-przekazuje-dane-fbi/)
- - RSS feed: https://www.wykop.pl/rss/index.xml/
- - date published: 2022-09-17 17:33:01+00:00
-
-
 ## Transpłciowy pedofil chciał uprawiać seks z rocznym dzieckiem.
  - [https://www.wykop.pl/link/6821243/transplciowy-pedofil-chcial-uprawiac-seks-z-rocznym-dzieckiem/](https://www.wykop.pl/link/6821243/transplciowy-pedofil-chcial-uprawiac-seks-z-rocznym-dzieckiem/)
  - RSS feed: https://www.wykop.pl/rss/index.xml/
@@ -1658,6 +1656,12 @@
  - date published: 2022-08-29 08:37:40.696185+00:00
 
 
+## André Staltz - Time Till Open Source Alternative
+ - [https://staltz.com/time-till-open-source-alternative.html](https://staltz.com/time-till-open-source-alternative.html)
+ - RSS feed: https://staltz.com
+ - date published: 2022-08-28 22:07:34.527841+00:00
+
+
 ## Poszkodowani mogą dostać kilkanaście centów — Meta proponuje ugodę za zbieranie danych
  - [https://android.com.pl/tech/508549-pozew-zbiorowy-meta-facebook-ugoda/](https://android.com.pl/tech/508549-pozew-zbiorowy-meta-facebook-ugoda/)
  - RSS feed: android.com.pl
@@ -1706,11 +1710,29 @@
  - date published: 2022-07-19 20:47:02+00:00
 
 
+## How I went about learning Rust - Eli Bendersky's website
+ - [https://eli.thegreenplace.net/2022/how-i-went-about-learning-rust/](https://eli.thegreenplace.net/2022/how-i-went-about-learning-rust/)
+ - RSS feed: https://eli.thegreenplace.net
+ - date published: 2022-07-16 09:12:52.097611+00:00
+
+
 ## Dodatki covidowe, czyli górka pieniędzy, na którą nikt nie patrzył
  - [https://wiadomosci.wp.pl/dodatki-covidowe-czyli-gorka-pieniedzy-na-ktora-nikt-nie-patrzyl-6770982795336672a](https://wiadomosci.wp.pl/dodatki-covidowe-czyli-gorka-pieniedzy-na-ktora-nikt-nie-patrzyl-6770982795336672a)
  - RSS feed: wiadomosci.wp.pl
  - date published: 2022-05-20 07:01:17+00:00
  - tags: covid
+
+
+## Stop Validating Email Addresses With Regex
+ - [https://davidcel.is/posts/stop-validating-email-addresses-with-regex/](https://davidcel.is/posts/stop-validating-email-addresses-with-regex/)
+ - RSS feed: https://davidcel.is
+ - date published: 2022-04-22 20:44:45.932735+00:00
+
+
+## Chris's Wiki :: blog/programming/GoOnIdentifierVisibility
+ - [https://utcc.utoronto.ca/~cks/space/blog/programming/GoOnIdentifierVisibility](https://utcc.utoronto.ca/~cks/space/blog/programming/GoOnIdentifierVisibility)
+ - RSS feed: https://utcc.utoronto.ca
+ - date published: 2022-04-02 22:17:08.617713+00:00
 
 
 ## Google udostępniło dane lokalizacji z telefonów protestujących. FBI polowało na biorących udział w zamieszkach
@@ -1743,6 +1765,13 @@
  - [https://wiadomosci.onet.pl/kraj/facebook-zawiesil-strone-konfederacji-bedzie-pozew-cenzura-powraca/pk4fkq1](https://wiadomosci.onet.pl/kraj/facebook-zawiesil-strone-konfederacji-bedzie-pozew-cenzura-powraca/pk4fkq1)
  - RSS feed: wiadomosci.onet.pl
  - date published: 2022-01-05 12:04:50+00:00
+ - tags: facebook,cenzura,konfederacja
+
+
+## Common Anti-Patterns in Go Web Applications
+ - [https://threedots.tech/post/common-anti-patterns-in-go-web-applications/](https://threedots.tech/post/common-anti-patterns-in-go-web-applications/)
+ - RSS feed: https://threedots.tech
+ - date published: 2021-12-25 21:50:47.079346+00:00
 
 
 ## Cyfrowy pieniądz: NBP pracuje nad cyfrowym pieniądzem banku centralnego
@@ -1771,11 +1800,24 @@
  - date published: 2021-12-01 12:04:49+00:00
 
 
+## „Facebook Files”, czyli o tym, czego Facebook nie chciał nam powiedzieć
+ - [https://demagog.org.pl/analizy_i_raporty/facebook-files-czyli-o-tym-czego-facebook-nie-chcial-nam-powiedziec/](https://demagog.org.pl/analizy_i_raporty/facebook-files-czyli-o-tym-czego-facebook-nie-chcial-nam-powiedziec/)
+ - RSS feed: https://demagog.org.pl
+ - date published: 2021-11-09 20:34:33+00:00
+ - tags: facebook files,facebook,social media
+
+
 ## Dodatki covidowe dla medyków
  - [https://www.nfz.gov.pl/aktualnosci/aktualnosci-centrali/dodatki-covidowe-dla-medykow-nowe-zasady-rozliczania,8084.html?](https://www.nfz.gov.pl/aktualnosci/aktualnosci-centrali/dodatki-covidowe-dla-medykow-nowe-zasady-rozliczania,8084.html?)
  - RSS feed: www.nfz.gov.pl
  - date published: 2021-11-04 07:02:58+00:00
  - tags: covid
+
+
+## Safer Enums in Go
+ - [https://threedots.tech/post/safer-enums-in-go/](https://threedots.tech/post/safer-enums-in-go/)
+ - RSS feed: https://threedots.tech
+ - date published: 2021-10-15 18:34:57.456892+00:00
 
 
 ## Australia. Rząd chce zakazać anonimowych komentarzy. Media społecznościowe to "pałac tchórzy"
@@ -1788,6 +1830,18 @@
  - [https://www.onet.pl/informacje/onetwiadomosci/kara-za-kopalnie-w-turowie-polska-musi-placic-jakie-dzialania-moze-podjac-ke/yw3yp46,79cfc278](https://www.onet.pl/informacje/onetwiadomosci/kara-za-kopalnie-w-turowie-polska-musi-placic-jakie-dzialania-moze-podjac-ke/yw3yp46,79cfc278)
  - RSS feed: www.onet.pl
  - date published: 2021-09-23 06:58:09+00:00
+
+
+## Progress Report: August 2021 - Asahi Linux
+ - [https://asahilinux.org/2021/08/progress-report-august-2021/](https://asahilinux.org/2021/08/progress-report-august-2021/)
+ - RSS feed: https://asahilinux.org
+ - date published: 2021-08-15 13:39:48.546356+00:00
+
+
+## How does Go calculate len()..? – tpaschalis – software, systems
+ - [https://tpaschalis.github.io/golang-len/](https://tpaschalis.github.io/golang-len/)
+ - RSS feed: https://tpaschalis.github.io
+ - date published: 2021-08-06 16:26:22.689726+00:00
 
 
 ## Cyfrowy pieniądz: Cztery państwa przetestują transgraniczne płatności wirtualną walutą
@@ -1992,10 +2046,9 @@
 
 
 ## Kierownik biura Zielonych w areszcie za pedofilię
- - [/kierownik-biura-zielonych-w-areszcie-za-pedofilie/](/kierownik-biura-zielonych-w-areszcie-za-pedofilie/)
+ - [https://pch24.pl/kierownik-biura-zielonych-w-areszcie-za-pedofilie/](https://pch24.pl/kierownik-biura-zielonych-w-areszcie-za-pedofilie/)
  - RSS feed: https://pch24.pl
- - date published: 2013-10-13 07:33:52+00:00
- - tags: pedophilia,germany,government
+ - date published: 2013-10-13 11:09:05+00:00
 
 
 ## Aaron Russo: Demokracja to to samo co NIEWOLNICTWO (Wywiad z 2007r. ) (Napisy PL)
