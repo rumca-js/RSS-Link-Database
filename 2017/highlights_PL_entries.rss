@@ -1,0 +1,21 @@
+
+<?xml version="1.0" encoding="UTF-8" ?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+        xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+        xmlns:webfeeds="http://webfeeds.org/rss/1.0"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
+<channel>
+  <title>RSS history</title>
+  <atom:link href="https://ithardware.pl/feed" rel="self" type="application/rss+xml" />
+  <link>https://renegat0x0.ddns.net/</link>
+  <description>RSS archive</description>
+  <language>en-US</language>
+<item><title>![CDATA[ILE JEST WARTA TWOJA PRYWATNOŚĆ?]]</title><description>![CDATA[ILE JEST WARTA TWOJA PRYWATNOŚĆ?]]</description><pubDate>2017-10-02 20:36:30+00:00</pubDate><link>https://www.youtube.com/watch?v=qk3HNcNOqRA</link></item><guid isPermaLink="false">https://www.youtube.com/watch?v=qk3HNcNOqRA</guid>
+<item><title>![CDATA[Opozycja nie obroni sądów przed PiS. Ma niewielkie pole manewru]]</title><description>![CDATA[]]</description><pubDate>2017-07-14 07:09:53+00:00</pubDate><link>https://www.polityka.pl/tygodnikpolityka/kraj/1712492,1,opozycja-nie-obroni-sadow-przed-pis-ma-niewielkie-pole-manewru.read</link></item><guid isPermaLink="false">https://www.polityka.pl/tygodnikpolityka/kraj/1712492,1,opozycja-nie-obroni-sadow-przed-pis-ma-niewielkie-pole-manewru.read</guid>
+<item><title>![CDATA[Kanclerz Merkel zapomniała, co Niemcy robią z mediami w Polsce]]</title><description>![CDATA[Kanclerz Merkel zapomniała, co Niemcy robią z mediami w Polsce]]</description><pubDate>2017-02-08 11:57:10+00:00</pubDate><link>https://spidersweb.pl/2017/02/niemieckie-media-w-polsce.html</link></item><guid isPermaLink="false">https://spidersweb.pl/2017/02/niemieckie-media-w-polsce.html</guid>
+<item><title>![CDATA[Przeczywistość: Pizzagate]]</title><description>![CDATA[Przeczywistość: Pizzagate]]</description><pubDate>2017-02-01 19:51:40+00:00</pubDate><link>http://przeczywistosc.pl/pizzagate/</link></item><guid isPermaLink="false">http://przeczywistosc.pl/pizzagate/</guid>
+</channel></rss>

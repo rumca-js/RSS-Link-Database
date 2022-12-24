@@ -1,0 +1,132 @@
+## Common Anti-Patterns in Go Web Applications
+ - [https://threedots.tech/post/common-anti-patterns-in-go-web-applications/](https://threedots.tech/post/common-anti-patterns-in-go-web-applications/)
+ - RSS feed: https://threedots.tech
+ - date published: 2021-12-25 21:50:47.079346+00:00
+
+
+## Cyfrowy pieniądz: NBP pracuje nad cyfrowym pieniądzem banku centralnego
+ - [https://www.wirtualnemedia.pl/artykul/nbp-cyfrowy-pieniadz-banku-centralnego](https://www.wirtualnemedia.pl/artykul/nbp-cyfrowy-pieniadz-banku-centralnego)
+ - RSS feed: www.wirtualnemedia.pl
+ - date published: 2021-12-16 14:57:42+00:00
+
+
+## Dziwne rozbieżności w danych o zgonach na COVID-19. Region regionowi nierówny
+ - [https://businessinsider.com.pl/wiadomosci/dziwne-rozbieznosci-w-danych-o-zgonach-na-covid-19-region-regionowi-nierowny/qdrsy0w](https://businessinsider.com.pl/wiadomosci/dziwne-rozbieznosci-w-danych-o-zgonach-na-covid-19-region-regionowi-nierowny/qdrsy0w)
+ - RSS feed: https://businessinsider.com.pl
+ - date published: 2021-12-08 13:34:39+00:00
+ - tags: covid,statistics
+
+
+## Coś dziwnego wychodzi z danych o zgonach na COVID-19. Różne województwa jak różne światy [WYKRES DNIA]
+ - [/next/7,173953,27885941,cos-dziwnego-wychodzi-z-danych-o-zgonach-na-covid-19-rozne.html](/next/7,173953,27885941,cos-dziwnego-wychodzi-z-danych-o-zgonach-na-covid-19-rozne.html)
+ - RSS feed: https://next.gazeta.pl
+ - date published: 2021-12-07 13:36:27+00:00
+ - tags: covid,statistics
+
+
+## Jaki szyfrowany komunikator wybrać? Lista współpracy z FBI może pomóc w podjęciu decyzji
+ - [https://geekweek.interia.pl/technologia/news-jaki-szyfrowany-komunikator-wybrac-lista-wspolpracy-z-fbi-mo,nId,5679869](https://geekweek.interia.pl/technologia/news-jaki-szyfrowany-komunikator-wybrac-lista-wspolpracy-z-fbi-mo,nId,5679869)
+ - RSS feed: geekweek.interia.pl
+ - date published: 2021-12-01 12:04:49+00:00
+
+
+## „Facebook Files”, czyli o tym, czego Facebook nie chciał nam powiedzieć
+ - [https://demagog.org.pl/analizy_i_raporty/facebook-files-czyli-o-tym-czego-facebook-nie-chcial-nam-powiedziec/](https://demagog.org.pl/analizy_i_raporty/facebook-files-czyli-o-tym-czego-facebook-nie-chcial-nam-powiedziec/)
+ - RSS feed: https://demagog.org.pl
+ - date published: 2021-11-09 20:34:33+00:00
+ - tags: facebook files,facebook,social media
+
+
+## Dodatki covidowe dla medyków
+ - [https://www.nfz.gov.pl/aktualnosci/aktualnosci-centrali/dodatki-covidowe-dla-medykow-nowe-zasady-rozliczania,8084.html?](https://www.nfz.gov.pl/aktualnosci/aktualnosci-centrali/dodatki-covidowe-dla-medykow-nowe-zasady-rozliczania,8084.html?)
+ - RSS feed: www.nfz.gov.pl
+ - date published: 2021-11-04 07:02:58+00:00
+ - tags: covid
+
+
+## Safer Enums in Go
+ - [https://threedots.tech/post/safer-enums-in-go/](https://threedots.tech/post/safer-enums-in-go/)
+ - RSS feed: https://threedots.tech
+ - date published: 2021-10-15 18:34:57.456892+00:00
+
+
+## Australia. Rząd chce zakazać anonimowych komentarzy. Media społecznościowe to "pałac tchórzy"
+ - [https://www.polsatnews.pl/wiadomosc/2021-10-07/australia-rzad-chce-zakazac-anonimowych-komentarzy-media-spolecznosciowe-to-palac-tchorzy/](https://www.polsatnews.pl/wiadomosc/2021-10-07/australia-rzad-chce-zakazac-anonimowych-komentarzy-media-spolecznosciowe-to-palac-tchorzy/)
+ - RSS feed: https://www.polsatnews.pl
+ - date published: 2021-10-07 20:22:14+00:00
+
+
+## Wyrok TSUE w sprawie Turowa. Polska musi płacić, inaczej KE zabezpieczy część pieniędzy z funduszy
+ - [https://www.onet.pl/informacje/onetwiadomosci/kara-za-kopalnie-w-turowie-polska-musi-placic-jakie-dzialania-moze-podjac-ke/yw3yp46,79cfc278](https://www.onet.pl/informacje/onetwiadomosci/kara-za-kopalnie-w-turowie-polska-musi-placic-jakie-dzialania-moze-podjac-ke/yw3yp46,79cfc278)
+ - RSS feed: www.onet.pl
+ - date published: 2021-09-23 06:58:09+00:00
+
+
+## Progress Report: August 2021 - Asahi Linux
+ - [https://asahilinux.org/2021/08/progress-report-august-2021/](https://asahilinux.org/2021/08/progress-report-august-2021/)
+ - RSS feed: https://asahilinux.org
+ - date published: 2021-08-15 13:39:48.546356+00:00
+
+
+## How does Go calculate len()..? – tpaschalis – software, systems
+ - [https://tpaschalis.github.io/golang-len/](https://tpaschalis.github.io/golang-len/)
+ - RSS feed: https://tpaschalis.github.io
+ - date published: 2021-08-06 16:26:22.689726+00:00
+
+
+## Cyfrowy pieniądz: Cztery państwa przetestują transgraniczne płatności wirtualną walutą
+ - [https://whatnext.pl/540012-transgraniczne-platnosci-wirtualna-waluta/](https://whatnext.pl/540012-transgraniczne-platnosci-wirtualna-waluta/)
+ - RSS feed: whatnext.pl
+ - date published: 2021-08-04 14:57:33+00:00
+
+
+## Chatcontrol: Unia Europejska chce kontrolować komunikatory i pocztę
+ - [https://www.telepolis.pl/wiadomosci/wydarzenia/chatcontrol-unia-europejska-chce-kontrolowac-komunikatory-i-poczte](https://www.telepolis.pl/wiadomosci/wydarzenia/chatcontrol-unia-europejska-chce-kontrolowac-komunikatory-i-poczte)
+ - RSS feed: www.telepolis.pl
+ - date published: 2021-07-09 12:57:59+00:00
+
+
+## Prezydent Estonii w Polsat News: nie powinniśmy wracać do świata sprzed pandemii
+ - [https://www.polsatnews.pl/wiadomosc/2021-05-05/prezydent-estonii-w-polsat-news-nie-powinnismy-wracac-do-swiata-sprzed-pandemii/](https://www.polsatnews.pl/wiadomosc/2021-05-05/prezydent-estonii-w-polsat-news-nie-powinnismy-wracac-do-swiata-sprzed-pandemii/)
+ - RSS feed: www.polsatnews.pl
+ - date published: 2021-05-05 07:26:08+00:00
+
+
+## Cyfrowy juan to śledzona i scentralizowana waluta Chin, która zastępuje fizyczne pieniądze
+ - [https://ithardware.pl/aktualnosci/cyfrowy_juan_to_cyfrowa_sledzona_i_scentralizowana_waluta_chin_ktora_zastapi_fizyczne_pieniadze-15649.html](https://ithardware.pl/aktualnosci/cyfrowy_juan_to_cyfrowa_sledzona_i_scentralizowana_waluta_chin_ktora_zastapi_fizyczne_pieniadze-15649.html)
+ - RSS feed: https://ithardware.pl
+ - date published: 2021-04-07 08:20:36+00:00
+
+
+## Przez niemal pół wieku w Niemczech funkcjonował ruch dążący do legalizacji pedofilii. Wstrząsający raport
+ - [https://wiez.pl/2021/03/15/przez-niemal-pol-wieku-w-niemczech-funkcjonowal-ruch-dazacy-do-legalizacji-pedofilii-wstrzasajacy-raport/](https://wiez.pl/2021/03/15/przez-niemal-pol-wieku-w-niemczech-funkcjonowal-ruch-dazacy-do-legalizacji-pedofilii-wstrzasajacy-raport/)
+ - RSS feed: https://wiez.pl
+ - date published: 2021-03-15 07:33:08+00:00
+ - tags: pedophilia,germany,government,kentler
+
+
+## Ilu lekarzy faktycznie jest już zaszczepionych?
+ - [https://www.medonet.pl/porozmawiajmyoszczepionce/szczepionka-na-covid-19,szczepienia-na-covid-19--ilu-lekarzy-jest-juz-zaszczepionych--sprzeczne-dane,artykul,41949295.html](https://www.medonet.pl/porozmawiajmyoszczepionce/szczepionka-na-covid-19,szczepienia-na-covid-19--ilu-lekarzy-jest-juz-zaszczepionych--sprzeczne-dane,artykul,41949295.html)
+ - RSS feed: www.medonet.pl
+ - date published: 2021-03-05 07:12:01+00:00
+ - tags: covid lie,covid
+
+
+## Dodatki COVIDowe: mamy listę szpitali z konkretnymi kwotami
+ - [https://cowzdrowiu.pl/aktualnosci/post/dodatki-covidowe-mamy-liste-szpitali-z-konkretnymi-kwotami](https://cowzdrowiu.pl/aktualnosci/post/dodatki-covidowe-mamy-liste-szpitali-z-konkretnymi-kwotami)
+ - RSS feed: cowzdrowiu.pl
+ - date published: 2021-03-02 07:02:12+00:00
+ - tags: covid
+
+
+## Rząd nowelizuje ustawę o cyberbezpieczeństwie. Będzie mógł wyłączać serwisy internetowe bez uzasadnienia
+ - [https://www.komputerswiat.pl/aktualnosci/internet/rzad-nowelizuje-ustawe-o-cyberbezpieczenstwie-bedzie-mogl-wylaczac-serwisy/wnhl9hg](https://www.komputerswiat.pl/aktualnosci/internet/rzad-nowelizuje-ustawe-o-cyberbezpieczenstwie-bedzie-mogl-wylaczac-serwisy/wnhl9hg)
+ - RSS feed: www.komputerswiat.pl
+ - date published: 2021-01-29 13:08:11+00:00
+
+
+## "Economist": Świat nie może pozwolić oligopolom technologicznym na przejęcie kontroli nad podstawowymi swobodami
+ - [https://www.bankier.pl/wiadomosc/Economist-Swiat-nie-moze-pozwolic-oligopolom-technologicznym-na-przejecie-kontroli-nad-podstawowymi-swobodami-8038414.html](https://www.bankier.pl/wiadomosc/Economist-Swiat-nie-moze-pozwolic-oligopolom-technologicznym-na-przejecie-kontroli-nad-podstawowymi-swobodami-8038414.html)
+ - RSS feed: https://www.bankier.pl
+ - date published: 2021-01-16 20:15:49+00:00
+

@@ -1,0 +1,241 @@
+## YouTube says it has ‘no obligation’ to host anyone’s video
+ - [https://www.theverge.com/2019/11/11/20955864/youtube-terms-of-service-update-terminations-children-content-ftc](https://www.theverge.com/2019/11/11/20955864/youtube-terms-of-service-update-terminations-children-content-ftc)
+ - RSS feed: https://www.theverge.com
+ - date published: 2019-11-11 19:57:35+00:00
+
+
+## Blizzard, Hearthstone and the Hong Kong protests: What you need to know
+ - [https://www.cnet.com/culture/blizzard-hearthstone-and-the-hong-kong-protests-heres-what-you-need-to-know/](https://www.cnet.com/culture/blizzard-hearthstone-and-the-hong-kong-protests-heres-what-you-need-to-know/)
+ - RSS feed: https://www.cnet.com
+ - date published: 2019-11-05 12:09:42+00:00
+ - tags: china,blizzard,censorship
+
+
+## The Farmer Who Took On One Of The World’s Biggest Chemical Corporations
+ - [https://www.sciencefriday.com/articles/dupont-bilott-book-exposure/](https://www.sciencefriday.com/articles/dupont-bilott-book-exposure/)
+ - RSS feed: www.sciencefriday.com
+ - date published: 2019-11-01 14:39:52+00:00
+
+
+## Edward Snowden: How Your Cell Phone Spies on You
+ - [https://www.youtube.com/watch?v=VFns39RXPrU](https://www.youtube.com/watch?v=VFns39RXPrU)
+ - RSS feed: https://www.youtube.com/@JREClips
+ - date published: 2019-10-23 19:56:19+00:00
+ - tags: smartphone,snowden,privacy
+
+
+## Smart City: How do you live in a Smart City? | Future Smart City Projects | Surveillance or Utopia?
+ - [https://www.youtube.com/watch?v=VRRPy-yEKRM](https://www.youtube.com/watch?v=VRRPy-yEKRM)
+ - RSS feed: https://www.youtube.com/@DWShift
+ - date published: 2019-10-22 19:55:30+00:00
+
+
+## Event 201, a pandemic exercise to illustrate preparedness efforts
+ - [https://www.centerforhealthsecurity.org/our-work/exercises/event201/](https://www.centerforhealthsecurity.org/our-work/exercises/event201/)
+ - RSS feed: https://www.centerforhealthsecurity.org
+ - date published: 2019-10-18 07:29:13+00:00
+ - tags: event 201,pandemic,bill gates
+
+
+## NSA: A Declassified Court Ruling Shows How the FBI Abused NSA Mass Surveillance Data
+ - [https://theintercept.com/2019/10/10/fbi-nsa-mass-surveillance-abuse/](https://theintercept.com/2019/10/10/fbi-nsa-mass-surveillance-abuse/)
+ - RSS feed: theintercept.com
+ - date published: 2019-10-10 13:37:51+00:00
+
+
+## Google pulls Hong Kong protest game for violating rules against ‘capitalizing on sensitive events’
+ - [https://www.theverge.com/2019/10/10/20908034/google-hong-kong-protest-game-play-store-removed-rules](https://www.theverge.com/2019/10/10/20908034/google-hong-kong-protest-game-play-store-removed-rules)
+ - RSS feed: https://www.theverge.com
+ - date published: 2019-10-10 12:10:31+00:00
+ - tags: hong kong,china,censorship,google
+
+
+## Revealed: the 20 firms behind a third of all carbon emissions
+ - [https://www.theguardian.com/environment/2019/oct/09/revealed-20-firms-third-carbon-emissions](https://www.theguardian.com/environment/2019/oct/09/revealed-20-firms-third-carbon-emissions)
+ - RSS feed: https://www.theguardian.com
+ - date published: 2019-10-09 14:34:31+00:00
+ - tags: climate change,carbon footprint,carbon emissions
+
+
+## The Cave Rescuer Suing Elon Musk Claims The Tesla CEO Fabricated Pedophilia Claims Against Him
+ - [https://www.buzzfeednews.com/article/ryanmac/unsworth-reply-elon-musk-fucking-idiot](https://www.buzzfeednews.com/article/ryanmac/unsworth-reply-elon-musk-fucking-idiot)
+ - RSS feed: https://www.buzzfeednews.com
+ - date published: 2019-10-08 12:21:11+00:00
+ - tags: billionaires,lie,musk
+
+
+## One of America’s biggest gaming companies is acting as China’s censor
+ - [https://www.vox.com/2019/10/8/20904433/blizzard-hong-kong-hearthstone-blitzchung](https://www.vox.com/2019/10/8/20904433/blizzard-hong-kong-hearthstone-blitzchung)
+ - RSS feed: https://www.vox.com
+ - date published: 2019-10-08 12:08:47+00:00
+ - tags: china,blizzard,censorship
+
+
+## Efekt Snowdena - czy nasza prywatność w Internecie JEST BEZPIECZNA? [TOPOWA DYCHA]
+ - [https://www.youtube.com/watch?v=f7_IX9NtjnI](https://www.youtube.com/watch?v=f7_IX9NtjnI)
+ - RSS feed: https://www.youtube.com/@topowadycha
+ - date published: 2019-09-26 20:37:58+00:00
+ - tags: snowden,privacy,internet
+
+
+## Why Tesla is a Privacy Nightmare
+ - [https://www.youtube.com/watch?v=Qjkt3X2WLrw](https://www.youtube.com/watch?v=Qjkt3X2WLrw)
+ - RSS feed: https://www.youtube.com/@Techlore
+ - date published: 2019-09-09 20:34:52+00:00
+
+
+## Axel Springer w rękach Amerykanów. Miliarder kupił większość akcji
+ - [https://dorzeczy.pl/ekonomia/112043/Axel-Springer-w-rekach-Amerykanow-Miliarder-kupil-wiekszosc-akcji.html](https://dorzeczy.pl/ekonomia/112043/Axel-Springer-w-rekach-Amerykanow-Miliarder-kupil-wiekszosc-akcji.html)
+ - RSS feed: https://dorzeczy.pl
+ - date published: 2019-08-27 11:58:25+00:00
+ - tags: media,axel springer
+
+
+## Francja pierwszym krajem w Europie, który wprowadzi system masowej inwigilacji ludzi
+ - [https://www.geekweek.pl/news/2019-10-07/francja-pierwszym-krajem-w-europie-ktory-wprowadzi-masowy-system-inwigilacji-ludzi/](https://www.geekweek.pl/news/2019-10-07/francja-pierwszym-krajem-w-europie-ktory-wprowadzi-masowy-system-inwigilacji-ludzi/)
+ - RSS feed: www.geekweek.pl
+ - date published: 2019-08-24 13:09:09+00:00
+
+
+## Your Siri Recordings are Analyzed by Actual Humans Contracted by Apple!
+ - [https://www.digitalinformationworld.com/2019/08/contractors-hear-private-recordings-apple-siri.html](https://www.digitalinformationworld.com/2019/08/contractors-hear-private-recordings-apple-siri.html)
+ - RSS feed: www.digitalinformationworld.com
+ - date published: 2019-08-24 12:04:50+00:00
+
+
+## Jeffrey Epstein Donations to M.I.T. Will Be Focus of University Inquiry
+ - [https://www.nytimes.com/2019/08/22/business/epstein-mit-media-lab.html](https://www.nytimes.com/2019/08/22/business/epstein-mit-media-lab.html)
+ - RSS feed: https://www.nytimes.com
+ - date published: 2019-08-22 12:18:53+00:00
+ - tags: donations,money,epstein,mit
+
+
+## Haunting photos show Jeffrey Epstein’s ‘Pedophile Island’ in the Caribbean
+ - [https://nypost.com/2019/08/15/haunting-photos-show-jeffrey-epsteins-pedophile-island-in-the-caribbean/#1](https://nypost.com/2019/08/15/haunting-photos-show-jeffrey-epsteins-pedophile-island-in-the-caribbean/#1)
+ - RSS feed: https://nypost.com
+ - date published: 2019-08-15 08:26:20+00:00
+ - tags: pedophile,island,secret societies,epstein
+
+
+## A HIDDEN LIFE - official trailer for Franz Jägerstätter
+ - [https://www.youtube.com/watch?v=qJXmdY4lVR0](https://www.youtube.com/watch?v=qJXmdY4lVR0)
+ - RSS feed: https://www.youtube.com/@searchlightpictures
+ - date published: 2019-08-13 10:18:41+00:00
+
+
+## Jeffrey Epstein feared cellmate, a muscle-bound ex-cop charged in murder who was moved before financier's death: report
+ - [https://www.foxnews.com/us/jeffrey-epstein-former-cellmate-apparent-suicide-attempt](https://www.foxnews.com/us/jeffrey-epstein-former-cellmate-apparent-suicide-attempt)
+ - RSS feed: https://www.foxnews.com
+ - date published: 2019-08-12 12:17:45+00:00
+ - tags: epstein,prison cell
+
+
+## Death of Jeffrey Epstein
+ - [https://en.wikipedia.org/wiki/Death_of_Jeffrey_Epstein](https://en.wikipedia.org/wiki/Death_of_Jeffrey_Epstein)
+ - RSS feed: https://en.wikipedia.org
+ - date published: 2019-08-10 19:36:32+00:00
+ - tags: epstein
+
+
+## Instagram: Why paying for followers and likes is bad news for real fans
+ - [https://www.bbc.com/news/newsbeat-48952123](https://www.bbc.com/news/newsbeat-48952123)
+ - RSS feed: https://www.bbc.com
+ - date published: 2019-07-13 11:20:17+00:00
+ - tags: instagram,celebrity,dead internet
+
+
+## So Was QAnon … Right?
+ - [https://nymag.com/intelligencer/2019/07/does-the-jeffrey-epstein-indictment-qanon.html](https://nymag.com/intelligencer/2019/07/does-the-jeffrey-epstein-indictment-qanon.html)
+ - RSS feed: https://nymag.com
+ - date published: 2019-07-09 19:54:40+00:00
+ - tags: epstein,qanon
+
+
+## $56 Million Upper East Side Mansion Where Epstein Allegedly Abused Girls
+ - [https://www.nytimes.com/2019/07/08/nyregion/jeffrey-epstein-nyc-mansion.html](https://www.nytimes.com/2019/07/08/nyregion/jeffrey-epstein-nyc-mansion.html)
+ - RSS feed: https://www.nytimes.com
+ - date published: 2019-07-08 20:03:14+00:00
+ - tags: epstein,mansion
+
+
+## Everything We Know About the Sex Crimes Case Against Jeffrey Epstein
+ - [https://nymag.com/intelligencer/2019/07/all-we-know-about-the-new-case-against-jeffrey-epstein.html](https://nymag.com/intelligencer/2019/07/all-we-know-about-the-new-case-against-jeffrey-epstein.html)
+ - RSS feed: https://nymag.com
+ - date published: 2019-07-08 19:57:17+00:00
+ - tags: epstein,billionairs
+
+
+## Koniec naszego świata
+ - [https://www.tvp.info/43374228/koniec-naszego-swiata](https://www.tvp.info/43374228/koniec-naszego-swiata)
+ - RSS feed: www.tvp.info
+ - date published: 2019-07-06 07:21:17+00:00
+
+
+## The Terrifying Potential of the 5G Network
+ - [https://www.newyorker.com/news/annals-of-communications/the-terrifying-potential-of-the-5g-network](https://www.newyorker.com/news/annals-of-communications/the-terrifying-potential-of-the-5g-network)
+ - RSS feed: www.newyorker.com
+ - date published: 2019-04-26 13:05:08+00:00
+
+
+## Giorgia Meloni's electrifying speech at the World Congress of Families, English subtitles
+ - [https://www.youtube.com/watch?v=y_Z1LClnhsk](https://www.youtube.com/watch?v=y_Z1LClnhsk)
+ - RSS feed: https://www.youtube.com/watch?v=y_Z1LClnhsk
+ - date published: 2019-04-17 20:53:10+00:00
+
+
+## Apple Is Not Your Friend - The Facebook Feud
+ - [https://www.youtube.com/watch?v=y8SjmcVJOjw](https://www.youtube.com/watch?v=y8SjmcVJOjw)
+ - RSS feed: https://www.youtube.com/@TheHatedOne
+ - date published: 2019-04-16 20:17:46+00:00
+
+
+## Amazon employees are listening to what you say to Alexa — here's how to stop them
+ - [https://www.cnbc.com/2019/04/11/how-to-stop-amazon-from-listening-to-what-you-say-to-alexa.html](https://www.cnbc.com/2019/04/11/how-to-stop-amazon-from-listening-to-what-you-say-to-alexa.html)
+ - RSS feed: https://www.cnbc.com
+ - date published: 2019-04-11 20:49:08+00:00
+
+
+## Your Car Is a Better Spy than Facebook
+ - [https://www.youtube.com/watch?v=WX2SWUMt_fk](https://www.youtube.com/watch?v=WX2SWUMt_fk)
+ - RSS feed: https://www.youtube.com/@TheHatedOne
+ - date published: 2019-04-09 20:16:56+00:00
+ - tags: surveillence,car,privacy
+
+
+## The Flaws of Academic Statistics: the Null Ritual
+ - [https://notrelated.xyz/audio/s01/S01E08_-_The_Flaws_of_Academic_Statistics_the_Null_Ritual.mp3](https://notrelated.xyz/audio/s01/S01E08_-_The_Flaws_of_Academic_Statistics_the_Null_Ritual.mp3)
+ - RSS feed: https://notrelated.xyz/rss
+ - date published: 2019-03-13 04:00:00+00:00
+
+
+## Revealed: Facebook’s global lobbying against data privacy laws
+ - [https://www.theguardian.com/technology/2019/mar/02/facebook-global-lobbying-campaign-against-data-privacy-laws-investment](https://www.theguardian.com/technology/2019/mar/02/facebook-global-lobbying-campaign-against-data-privacy-laws-investment)
+ - RSS feed: https://www.theguardian.com
+ - date published: 2019-03-02 19:52:57+00:00
+
+
+## We're Numb to Data Privacy Abuse | Joe Rogan & Bill Ottman
+ - [https://www.youtube.com/watch?v=5WD3azvYYWs](https://www.youtube.com/watch?v=5WD3azvYYWs)
+ - RSS feed: https://www.youtube.com/@JREClips
+ - date published: 2019-02-20 20:54:35+00:00
+ - tags: privacy
+
+
+## Sektor finansowy ogrywa demokrację, możemy się obudzić w świecie zamieszek i rewolucji
+ - [https://next.gazeta.pl/next/7,151003,24456145,sektor-finansowy-ogrywa-demokracje-mozemy-sie-obudzic-w-swiecie.html](https://next.gazeta.pl/next/7,151003,24456145,sektor-finansowy-ogrywa-demokracje-mozemy-sie-obudzic-w-swiecie.html)
+ - RSS feed: next.gazeta.pl
+ - date published: 2019-02-15 07:12:55+00:00
+
+
+## Zabiją nas wszystkich
+ - [https://www.smyku.pl/texts/zabija-nas-wszystkich.html](https://www.smyku.pl/texts/zabija-nas-wszystkich.html)
+ - RSS feed: www.smyku.pl
+ - date published: 2019-01-26 07:23:00+00:00
+
+
+## For Owners of Amazon’s Ring Security Cameras, Strangers May Have Been Watching Too
+ - [https://theintercept.com/2019/01/10/amazon-ring-security-camera/](https://theintercept.com/2019/01/10/amazon-ring-security-camera/)
+ - RSS feed: https://theintercept.com
+ - date published: 2019-01-10 12:17:38+00:00
+ - tags: iot,privacy,amazon,tracking
+

@@ -1,0 +1,31 @@
+## Efekt Snowdena - czy nasza prywatność w Internecie JEST BEZPIECZNA? [TOPOWA DYCHA]
+ - [https://www.youtube.com/watch?v=f7_IX9NtjnI](https://www.youtube.com/watch?v=f7_IX9NtjnI)
+ - RSS feed: https://www.youtube.com/@topowadycha
+ - date published: 2019-09-26 20:37:58+00:00
+ - tags: snowden,privacy,internet
+
+
+## Axel Springer w rękach Amerykanów. Miliarder kupił większość akcji
+ - [https://dorzeczy.pl/ekonomia/112043/Axel-Springer-w-rekach-Amerykanow-Miliarder-kupil-wiekszosc-akcji.html](https://dorzeczy.pl/ekonomia/112043/Axel-Springer-w-rekach-Amerykanow-Miliarder-kupil-wiekszosc-akcji.html)
+ - RSS feed: https://dorzeczy.pl
+ - date published: 2019-08-27 11:58:25+00:00
+ - tags: media,axel springer
+
+
+## Francja pierwszym krajem w Europie, który wprowadzi system masowej inwigilacji ludzi
+ - [https://www.geekweek.pl/news/2019-10-07/francja-pierwszym-krajem-w-europie-ktory-wprowadzi-masowy-system-inwigilacji-ludzi/](https://www.geekweek.pl/news/2019-10-07/francja-pierwszym-krajem-w-europie-ktory-wprowadzi-masowy-system-inwigilacji-ludzi/)
+ - RSS feed: www.geekweek.pl
+ - date published: 2019-08-24 13:09:09+00:00
+
+
+## Koniec naszego świata
+ - [https://www.tvp.info/43374228/koniec-naszego-swiata](https://www.tvp.info/43374228/koniec-naszego-swiata)
+ - RSS feed: www.tvp.info
+ - date published: 2019-07-06 07:21:17+00:00
+
+
+## Zabiją nas wszystkich
+ - [https://www.smyku.pl/texts/zabija-nas-wszystkich.html](https://www.smyku.pl/texts/zabija-nas-wszystkich.html)
+ - RSS feed: www.smyku.pl
+ - date published: 2019-01-26 07:23:00+00:00
+
