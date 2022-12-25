@@ -1,3 +1,22 @@
+## Lessons from COVID require tough questions
+ - [http://www.msn.com/en-us/news/politics/lessons-from-covid-require-tough-questions/ar-AA15D1Qo?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/lessons-from-covid-require-tough-questions/ar-AA15D1Qo?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-24 13:11:57.003724+00:00
+
+
+## Crisis in Venezuela
+ - [https://en.m.wikipedia.org/wiki/Crisis_in_Venezuela](https://en.m.wikipedia.org/wiki/Crisis_in_Venezuela)
+ - RSS feed: 
+ - date published: 2022-12-24 10:59:41+00:00
+ - tags: all time,crisis,venezuela
+
+
+## Tunisia's political experiment threatens economic collapse
+ - [http://www.msn.com/en-us/news/world/tunisia-s-political-experiment-threatens-economic-collapse/ar-AA15COmB?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/tunisia-s-political-experiment-threatens-economic-collapse/ar-AA15COmB?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-24 10:11:46.917902+00:00
+
+
 ## Keeping Apple Accountable Globally
  - [https://applecensorship.com/](https://applecensorship.com/)
  - RSS feed: https://applecensorship.com
@@ -922,12 +941,6 @@
  - date published: 2022-12-11 16:10:27+00:00
 
 
-## Elon Musk slaughters another progressive sacred cow, declares his new preferred anti-Fauci pronouns
- - [https://www.louderwithcrowder.com/elon-musk-fauci](https://www.louderwithcrowder.com/elon-musk-fauci)
- - RSS feed: http://louderwithcrowder.com/feed/
- - date published: 2022-12-11 13:43:32+00:00
-
-
 ## Twitter Files reveal Trump ban came after Michelle Obama, others pressured the company
  - [https://www.foxnews.com/politics/twitter-files-reveal-trump-ban-came-after-michelle-obama-others-pressured-company](https://www.foxnews.com/politics/twitter-files-reveal-trump-ban-came-after-michelle-obama-others-pressured-company)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
@@ -1398,6 +1411,7 @@
  - [https://arstechnica.com/?p=1901752](https://arstechnica.com/?p=1901752)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-12-02 20:57:15+00:00
+ - tags: russia,malware,hackers,virus
 
 
 ## Ubuntu's Snap performs application updates without user consent
@@ -1410,6 +1424,7 @@
  - [https://www.dailymail.co.uk/news/article-11490637/Republicans-war-Bidens-401k-ESG-cancer.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11490637/Republicans-war-Bidens-401k-ESG-cancer.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-12-02 17:03:30+00:00
+ - tags: esg,blackrock
 
 
 ## FBI met weekly with Big Tech ahead of the 2020 election, agent testifies
@@ -2437,6 +2452,13 @@
  - date published: 2022-11-07 08:30:02+00:00
 
 
+## Who is robbing Lebanon’s banks? – podcast
+ - [https://www.theguardian.com/news/audio/2022/nov/07/who-is-robbing-lebanons-banks-podcast](https://www.theguardian.com/news/audio/2022/nov/07/who-is-robbing-lebanons-banks-podcast)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-11-07 03:00:36+00:00
+ - tags: bank,lebanon,crisis
+
+
 ## Amazon will put off users with its new fee for choosing music on Alexa, consumer watchdog warns
  - [https://www.dailymail.co.uk/news/article-11396843/Amazon-users-new-fee-choosing-music-Alexa-consumer-watchdog-warns.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11396843/Amazon-users-new-fee-choosing-music-Alexa-consumer-watchdog-warns.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
@@ -2682,6 +2704,7 @@
  - [https://www.cnn.com/2022/11/02/opinions/kanye-west-antisemitic-comments-carter/index.html](https://www.cnn.com/2022/11/02/opinions/kanye-west-antisemitic-comments-carter/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-02 19:47:04+00:00
+ - tags: nazi,kanye west
 
 
 ## Americans by wide margins want race kept OUT of college admissions, says poll
@@ -5577,6 +5600,13 @@
  - [https://arstechnica.com/?p=1883762](https://arstechnica.com/?p=1883762)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-22 18:01:45+00:00
+
+
+## Lebanon's banks to stay shut indefinitely
+ - [https://www.cnn.com/2022/09/22/asia/lebanon-banks-shut-holdups-intl/index.html](https://www.cnn.com/2022/09/22/asia/lebanon-banks-shut-holdups-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-09-22 16:30:34+00:00
+ - tags: bank,lebanon,crisis
 
 
 ## Fed in 'Full Recession-Creating Mode' Comes Under Fire for Another Interest Rate Hike | "Raising interest rates puts the burden of fighting inflation on low-wage workers," notes former Labor Secretary Robert Reich. "For once, let's take aim at an actual driver of inflation: corporate profits."

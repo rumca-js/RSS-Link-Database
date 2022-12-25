@@ -316,6 +316,7 @@
  - [https://ithardware.pl/aktualnosci/wiekszosc_projektow_biznesowych_metaverse_zniknie_do_2025_r-24071.html](https://ithardware.pl/aktualnosci/wiekszosc_projektow_biznesowych_metaverse_zniknie_do_2025_r-24071.html)
  - RSS feed: https://ithardware.pl/feed
  - date published: 2022-10-30 13:24:20+00:00
+ - tags: zuckerberg,meta,facebook,vr,metaverse
 
 
 ## Powtórka z wielkiej recesji? W USA słabnie optymizm co do losów przyszłego pokolenia

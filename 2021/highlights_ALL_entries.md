@@ -493,6 +493,7 @@
  - [https://mailbox.org/en/post/chat-control-the-latest-eu-plans-to-outlaw-encryption-and-introduce-telecommunications-surveillance?nl](https://mailbox.org/en/post/chat-control-the-latest-eu-plans-to-outlaw-encryption-and-introduce-telecommunications-surveillance?nl)
  - RSS feed: https://mailbox.org
  - date published: 2021-11-23 17:34:06.057843+00:00
+ - tags: privacy,surveillance,chatcontrol
 
 
 ## Cis people benefit from gender-affirming healthcare, not just trans folk
@@ -2708,12 +2709,14 @@
  - [https://www.telepolis.pl/wiadomosci/wydarzenia/chatcontrol-unia-europejska-chce-kontrolowac-komunikatory-i-poczte](https://www.telepolis.pl/wiadomosci/wydarzenia/chatcontrol-unia-europejska-chce-kontrolowac-komunikatory-i-poczte)
  - RSS feed: www.telepolis.pl
  - date published: 2021-07-09 12:57:59+00:00
+ - tags: privacy,security,chatcontrol
 
 
 ## Chatcontrol: EU Parliament approves mass surveillance of private communications
  - [https://european-pirateparty.eu/parliament-approves-chatcontrol/](https://european-pirateparty.eu/parliament-approves-chatcontrol/)
  - RSS feed: european-pirateparty.eu
  - date published: 2021-07-06 12:55:03+00:00
+ - tags: privacy,surveillance,chatcontrol
 
 
 ## A Remarkable Silence: Media Blackout After Key Witness Against Assange Admits Lying
