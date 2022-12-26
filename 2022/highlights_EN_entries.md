@@ -1,7 +1,64 @@
+## The FBI was the primary link between the intelligence community and Twitter
+ - [https://threadreaderapp.com/thread/1606701397109796866.html](https://threadreaderapp.com/thread/1606701397109796866.html)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-25 18:07:13+00:00
+ - tags: moderation,fbi,censorship,twitter
+
+
+## Oligopoly Everywhere
+ - [https://experimentalhistory.substack.com/p/oligopoly-everywhere](https://experimentalhistory.substack.com/p/oligopoly-everywhere)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-25 16:27:31+00:00
+ - tags: corporatocracy,oligopoly
+
+
+## The FBI won’t name other social media companies it pays
+ - [https://reclaimthenet.org/the-fbi-wont-name-other-social-media-companies-it-pays/](https://reclaimthenet.org/the-fbi-wont-name-other-social-media-companies-it-pays/)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2022-12-25 15:23:08+00:00
+ - tags: moderation,tracking,fbi,privacy,social media
+
+
+## DuckDuckGo now blocks Google sign-in pop-ups on all sites
+ - [https://www.bleepingcomputer.com/news/security/duckduckgo-now-blocks-google-sign-in-pop-ups-on-all-sites/](https://www.bleepingcomputer.com/news/security/duckduckgo-now-blocks-google-sign-in-pop-ups-on-all-sites/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-25 14:50:00+00:00
+ - tags: privacy,tracking,duckduckgo,google
+
+
+## China's top health body stops publishing daily Covid case figures as infections soar
+ - [https://www.cnn.com/2022/12/25/asia/china-covid-cases-publishing-nhc-intl/index.html](https://www.cnn.com/2022/12/25/asia/china-covid-cases-publishing-nhc-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-25 14:44:44+00:00
+ - tags: china,covid,zerocovid
+
+
+## Tech Journalism Doesn’t Know What to Do with Mastodon
+ - [https://worldhistory.medium.com/tech-journalism-doesnt-know-what-to-do-with-mastodon-df1309f088a0](https://worldhistory.medium.com/tech-journalism-doesnt-know-what-to-do-with-mastodon-df1309f088a0)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-25 13:23:42+00:00
+ - tags: mastodon,twitter
+
+
+## Twitter Data Breach: Data of 400M Users Up for Sale on Dark Web
+ - [https://thecyberexpress.com/twitter-data-breach-400-million-users-for-sale/](https://thecyberexpress.com/twitter-data-breach-400-million-users-for-sale/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-24 18:23:24+00:00
+ - tags: twitter,privacy,leak
+
+
+## Why Marvel Is Collapsing: The Coming Marvel Crisis
+ - [https://www.youtube.com/watch?v=uQFWlrfhe8M](https://www.youtube.com/watch?v=uQFWlrfhe8M)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCmFeOdJI3IXgTBDzqBLD8qg
+ - date published: 2022-12-24 18:21:46+00:00
+ - tags: disney,marvel,crisis
+
+
 ## Lessons from COVID require tough questions
  - [http://www.msn.com/en-us/news/politics/lessons-from-covid-require-tough-questions/ar-AA15D1Qo?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/lessons-from-covid-require-tough-questions/ar-AA15D1Qo?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-24 13:11:57.003724+00:00
+ - tags: covid,lockdown
 
 
 ## Crisis in Venezuela
@@ -93,6 +150,7 @@
  - [https://gizmodo.com/google-bing-fbi-ad-blocker-scam-ads-1849923478](https://gizmodo.com/google-bing-fbi-ad-blocker-scam-ads-1849923478)
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-12-22 18:16:13+00:00
+ - tags: fbi,tracking,privacy
 
 
 ## Don't Call Yourself a Programmer, and Other Career Advice (2011)
@@ -134,6 +192,13 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-22 08:28:34+00:00
  - tags: money,society,billionaires
+
+
+## Marketing CEO explains how some news, tech corporations are committing 'business suicide'
+ - [https://www.foxnews.com/media/marketing-ceo-explains-news-tech-corporations-committing-business-suicide](https://www.foxnews.com/media/marketing-ceo-explains-news-tech-corporations-committing-business-suicide)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-22 07:00:03+00:00
+ - tags: broke,woke,go woke go broke
 
 
 ## Rasberry Pi 5 pushed back to make more Pi for everyone

@@ -852,6 +852,13 @@
  - date published: 2021-10-19 10:22:25.835162+00:00
 
 
+## ESG: Woke to Broke
+ - [https://www.youtube.com/watch?v=O-tJNuHqHW8](https://www.youtube.com/watch?v=O-tJNuHqHW8)
+ - RSS feed: https://www.youtube.com
+ - date published: 2021-10-18 23:11:12+00:00
+ - tags: blackrock,woke,climate change,esg
+
+
 ## Canon sued for disabling scanner when printers run out of ink
  - [https://www.bleepingcomputer.com/news/legal/canon-sued-for-disabling-scanner-when-printers-run-out-of-ink/](https://www.bleepingcomputer.com/news/legal/canon-sued-for-disabling-scanner-when-printers-run-out-of-ink/)
  - RSS feed: https://www.bleepingcomputer.com

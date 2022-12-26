@@ -31,6 +31,13 @@
  - date published: 2015-08-24 12:45:42+00:00
 
 
+## The manipulation of the American mind: Edward Bernays and the birth of public relations
+ - [https://theconversation.com/the-manipulation-of-the-american-mind-edward-bernays-and-the-birth-of-public-relations-44393](https://theconversation.com/the-manipulation-of-the-american-mind-edward-bernays-and-the-birth-of-public-relations-44393)
+ - RSS feed: https://theconversation.com
+ - date published: 2015-07-09 11:40:48+00:00
+ - tags: propaganda,pr,america
+
+
 ## 4 reasons YouTube still doesn't make a profit
  - [https://www.cbsnews.com/news/4-reasons-youtube-still-doesnt-make-a-profit/](https://www.cbsnews.com/news/4-reasons-youtube-still-doesnt-make-a-profit/)
  - RSS feed: www.cbsnews.com

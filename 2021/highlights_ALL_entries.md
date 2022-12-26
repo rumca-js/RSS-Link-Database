@@ -1006,6 +1006,13 @@
  - date published: 2021-10-19 10:22:25.835162+00:00
 
 
+## ESG: Woke to Broke
+ - [https://www.youtube.com/watch?v=O-tJNuHqHW8](https://www.youtube.com/watch?v=O-tJNuHqHW8)
+ - RSS feed: https://www.youtube.com
+ - date published: 2021-10-18 23:11:12+00:00
+ - tags: blackrock,woke,climate change,esg
+
+
 ## Rozpoznawanie twarzy weszło na wyższy poziom. W Moskwie tak płaci się za przejazdy metrem
  - [https://www.chip.pl/2021/10/rozpoznawanie-twarzy-metro-moskwa/](https://www.chip.pl/2021/10/rozpoznawanie-twarzy-metro-moskwa/)
  - RSS feed: www.chip.pl
