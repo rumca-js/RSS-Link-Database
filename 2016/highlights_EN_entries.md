@@ -52,6 +52,13 @@
  - tags: blackrock,larry fink,esg
 
 
+## A Clockwork Orange - What it all Meant
+ - [https://www.youtube.com/watch?v=ZvK9PEcqiLo](https://www.youtube.com/watch?v=ZvK9PEcqiLo)
+ - RSS feed: https://www.youtube.com
+ - date published: 2016-09-07 20:37:13+00:00
+ - tags: clockwork orange,movies
+
+
 ## Gates, Rockefeller and WHO: Concealing the Charade of Polio Eradication
  - [https://www.naturalblaze.com/2016/09/gates-rockefeller-who-vaccines.html](https://www.naturalblaze.com/2016/09/gates-rockefeller-who-vaccines.html)
  - RSS feed: https://www.naturalblaze.com
@@ -71,6 +78,13 @@
  - RSS feed: https://theintercept.com
  - date published: 2016-07-06 14:53:00+00:00
  - tags: downing street memo,iraq,george bush,tony blair
+
+
+## Spirited Away and The Prostitution Theory
+ - [https://sites.psu.edu/angelapassion/2016/07/02/spirited-away/](https://sites.psu.edu/angelapassion/2016/07/02/spirited-away/)
+ - RSS feed: https://sites.psu.edu
+ - date published: 2016-07-02 20:42:05+00:00
+ - tags: spirited away,movies
 
 
 ## Social Autopsy! - Ending Anonymity Online [BAD IDEA]

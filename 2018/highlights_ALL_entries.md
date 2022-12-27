@@ -8,6 +8,7 @@
  - [https://www.theguardian.com/technology/2018/dec/04/google-facebook-anti-conservative-bias-claims](https://www.theguardian.com/technology/2018/dec/04/google-facebook-anti-conservative-bias-claims)
  - RSS feed: https://www.theguardian.com
  - date published: 2018-12-04 19:51:59+00:00
+ - tags: google,censorship,facebook
 
 
 ## How a future Trump Cabinet member gave a serial sex abuser the deal of a lifetime
@@ -15,6 +16,13 @@
  - RSS feed: https://www.miamiherald.com
  - date published: 2018-11-28 20:01:48+00:00
  - tags: epstein,trump
+
+
+## Eyes Wide Shut - What it all Meant
+ - [https://www.youtube.com/watch?v=aXwy7M7Udmg](https://www.youtube.com/watch?v=aXwy7M7Udmg)
+ - RSS feed: https://www.youtube.com
+ - date published: 2018-11-17 20:36:02+00:00
+ - tags: eyes wide shut,movies
 
 
 ## When You're Too Rational to Be Rational!
@@ -29,10 +37,31 @@
  - date published: 2018-10-23 12:04:50+00:00
 
 
+## Thousands Of Swedes Are Inserting Microchips Under Their Skin
+ - [https://www.npr.org/2018/10/22/658808705/thousands-of-swedes-are-inserting-microchips-under-their-skin](https://www.npr.org/2018/10/22/658808705/thousands-of-swedes-are-inserting-microchips-under-their-skin)
+ - RSS feed: https://www.npr.org
+ - date published: 2018-10-22 19:59:32+00:00
+ - tags: microchips,chip,sweden
+
+
+## A Clockwork Orange - Film Analysis & Meaning [Full HD]
+ - [https://www.youtube.com/watch?v=dOvP58ioBRc](https://www.youtube.com/watch?v=dOvP58ioBRc)
+ - RSS feed: https://www.youtube.com
+ - date published: 2018-10-13 20:37:55+00:00
+ - tags: clockwork orange,movies
+
+
 ## The Agricultural Revolution Has Been A Disaster for the Human Race.
  - [https://notrelated.xyz/audio/s01/S01E05_-_The_Agricultural_Revolution_Has_Been_a_Disaster_for_the_Human_Race.mp3](https://notrelated.xyz/audio/s01/S01E05_-_The_Agricultural_Revolution_Has_Been_a_Disaster_for_the_Human_Race.mp3)
  - RSS feed: https://notrelated.xyz/rss
  - date published: 2018-10-08 04:00:00+00:00
+
+
+## John Carpenter’s ‘They Live’ Was Supposed to Be a Warning. We Didn’t Heed It. We Didn’t Even Understand It.
+ - [https://www.theringer.com/movies/2018/10/4/17933020/they-live-john-carpenter-america-donald-trump](https://www.theringer.com/movies/2018/10/4/17933020/they-live-john-carpenter-america-donald-trump)
+ - RSS feed: https://www.theringer.com
+ - date published: 2018-10-04 20:28:53+00:00
+ - tags: carpenter,they live
 
 
 ## Alan Keyes: Best argument against gay marriage
@@ -57,6 +86,27 @@
  - [https://notrelated.xyz/audio/s01/S01E02_-_Capitalism_Socialism_and_Democracy.mp3](https://notrelated.xyz/audio/s01/S01E02_-_Capitalism_Socialism_and_Democracy.mp3)
  - RSS feed: https://notrelated.xyz/rss
  - date published: 2018-09-01 04:00:00+00:00
+
+
+## Symbolism & Propaganda in Popular Culture
+ - [https://www.youtube.com/watch?v=soh-3jiHq4s](https://www.youtube.com/watch?v=soh-3jiHq4s)
+ - RSS feed: https://www.youtube.com
+ - date published: 2018-08-31 20:44:15+00:00
+ - tags: symbolism,movies,propaganda
+
+
+## Memento Movie Ending... Explained
+ - [https://www.youtube.com/watch?v=0tBz3_JIOpk](https://www.youtube.com/watch?v=0tBz3_JIOpk)
+ - RSS feed: https://www.youtube.com
+ - date published: 2018-08-31 20:26:04+00:00
+ - tags: memento,nolan,movies
+
+
+## Fans Have a Dark Theory Behind the Story of Totoro
+ - [https://nextshark.com/fans-dark-theory-behind-story-totoro/](https://nextshark.com/fans-dark-theory-behind-story-totoro/)
+ - RSS feed: https://nextshark.com
+ - date published: 2018-08-28 20:42:34+00:00
+ - tags: movies,totoro
 
 
 ## Rotten Tomatoes Adds 200 Critics as It Tries to Be More Inclusive
@@ -115,6 +165,13 @@
  - RSS feed: https://www.theverge.com
  - date published: 2018-05-25 14:47:48+00:00
  - tags: censorship,moderation,facebook,pepe,pepethefrog
+
+
+## All the Rage in Sweden: Embedding Microchips Under Your Skin
+ - [https://futurism.com/sweden-microchip-trend](https://futurism.com/sweden-microchip-trend)
+ - RSS feed: https://futurism.com
+ - date published: 2018-05-14 19:58:46+00:00
+ - tags: microchips,chip,sweden
 
 
 ## Sanji in Kamabakka kingdom - One Piece
@@ -184,4 +241,11 @@
  - [https://www.csoonline.com/article/3248825/security/skygofree-powerful-android-spyware-with-advanced-surveillance-tools.html](https://www.csoonline.com/article/3248825/security/skygofree-powerful-android-spyware-with-advanced-surveillance-tools.html)
  - RSS feed: www.csoonline.com
  - date published: 2018-01-18 06:47:39+00:00
+
+
+## Prometheus Script Reveals TRUTH about Engineers, Black Goo and Deacon
+ - [https://www.youtube.com/watch?v=3ONSFeRy9iQ](https://www.youtube.com/watch?v=3ONSFeRy9iQ)
+ - RSS feed: https://www.youtube.com
+ - date published: 2018-01-10 20:22:32+00:00
+ - tags: movies,prometheus
 

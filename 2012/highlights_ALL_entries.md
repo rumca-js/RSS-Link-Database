@@ -1,3 +1,10 @@
+## Alien: A Film Franchise Based Entirely on Rape
+ - [https://www.cracked.com/article_18932_alien-film-franchise-based-entirely-rape.html](https://www.cracked.com/article_18932_alien-film-franchise-based-entirely-rape.html)
+ - RSS feed: https://www.cracked.com
+ - date published: 2012-12-26 20:26:45+00:00
+ - tags: alien,movies
+
+
 ## The funders of climate disinformation
  - [https://www.campaigncc.org/climate_change/sceptics/funders](https://www.campaigncc.org/climate_change/sceptics/funders)
  - RSS feed: https://www.campaigncc.org/climate_change/sceptics/funders
@@ -18,9 +25,23 @@
  - tags: media,propaganda,corporations,corporatocracy,government
 
 
+## Berlusconi’s ‘bunga bunga’ women testify at his trial
+ - [https://edition.cnn.com/2012/04/16/world/europe/italy-berlusconi-trial/index.html](https://edition.cnn.com/2012/04/16/world/europe/italy-berlusconi-trial/index.html)
+ - RSS feed: https://edition.cnn.com
+ - date published: 2012-04-16 20:35:25+00:00
+ - tags: bunga bunga,berlusconi,politicians,bilionaries
+
+
 ## The flip side to Bill Gates' charity billions
  - [https://newint.org/features/2012/04/01/bill-gates-charitable-giving-ethics](https://newint.org/features/2012/04/01/bill-gates-charitable-giving-ethics)
  - RSS feed: https://newint.org
  - date published: 2012-04-01 07:26:35+00:00
  - tags: bill gates
+
+
+## Regend University Of Law: Don't Talk to the Police
+ - [https://www.youtube.com/watch?v=d-7o9xYp7eE](https://www.youtube.com/watch?v=d-7o9xYp7eE)
+ - RSS feed: https://www.youtube.com
+ - date published: 2012-03-20 20:09:05+00:00
+ - tags: university,law,police
 

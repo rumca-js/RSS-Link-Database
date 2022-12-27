@@ -106,6 +106,27 @@
  - date published: 2021-12-28 10:19:20.123970+00:00
 
 
+## Grievance studies affair
+ - [https://en.wikipedia.org/wiki/Grievance_studies_affair](https://en.wikipedia.org/wiki/Grievance_studies_affair)
+ - RSS feed: https://en.wikipedia.org
+ - date published: 2021-12-26 20:04:14+00:00
+ - tags: science,grievance,sokal
+
+
+## Sokal affair
+ - [https://en.wikipedia.org/wiki/Sokal_affair](https://en.wikipedia.org/wiki/Sokal_affair)
+ - RSS feed: https://en.wikipedia.org
+ - date published: 2021-12-26 20:03:05+00:00
+ - tags: science,sokal affair,sokal
+
+
+## Bohemian Grove
+ - [https://en.m.wikipedia.org/wiki/Bohemian_Grove](https://en.m.wikipedia.org/wiki/Bohemian_Grove)
+ - RSS feed: https://en.m.wikipedia.org
+ - date published: 2021-12-26 20:00:22+00:00
+ - tags: bohemian grove,secret societies
+
+
 ## Common Anti-Patterns in Go Web Applications
  - [https://threedots.tech/post/common-anti-patterns-in-go-web-applications/](https://threedots.tech/post/common-anti-patterns-in-go-web-applications/)
  - RSS feed: https://threedots.tech
@@ -238,7 +259,7 @@
  - [https://www.independent.co.uk/news/world/americas/us-politics/vaccine-covid-fauci-deaths-b1808878.html](https://www.independent.co.uk/news/world/americas/us-politics/vaccine-covid-fauci-deaths-b1808878.html)
  - RSS feed: https://www.independent.co.uk
  - date published: 2021-12-16 11:35:36+00:00
- - tags: transmission,covid,vaccine
+ - tags: transmission,covid lie,vaccine,covid
 
 
 ## Joe Biden said in July that if you get vaccinated, you will not get COVID
@@ -593,6 +614,13 @@
  - RSS feed: https://www.youtube.com/@DoobusGoobus
  - date published: 2021-11-16 20:30:47+00:00
  - tags: free speech,hate speech,dislikes,corporatocracy,censorship,youtube
+
+
+## Pfizer, BioNTech and Moderna making $1,000 profit every second while world’s poorest countries remain largely unvaccinated
+ - [https://reliefweb.int/report/world/pfizer-biontech-and-moderna-making-1000-profit-every-second-while-world-s-poorest](https://reliefweb.int/report/world/pfizer-biontech-and-moderna-making-1000-profit-every-second-while-world-s-poorest)
+ - RSS feed: https://reliefweb.int
+ - date published: 2021-11-16 18:45:13+00:00
+ - tags: covid,money
 
 
 ## Goodbye, Clean Code — Overreacted
@@ -1698,6 +1726,13 @@
  - date published: 2021-08-31 12:04:50+00:00
 
 
+## CPS talking to Lyft, Uber after bus drivers quit over vaccine mandate
+ - [https://chicago.suntimes.com/education/2021/8/30/22648862/cps-school-bus-driver-vaccine-mandate-uber-lyft-lightfoot-public-schools](https://chicago.suntimes.com/education/2021/8/30/22648862/cps-school-bus-driver-vaccine-mandate-uber-lyft-lightfoot-public-schools)
+ - RSS feed: https://chicago.suntimes.com
+ - date published: 2021-08-30 21:44:17+00:00
+ - tags: vaccine,mandates,covid
+
+
 ## Manchester Pride: Protest held over festival management - BBC News
  - [https://www.bbc.co.uk/news/uk-england-manchester-58369410](https://www.bbc.co.uk/news/uk-england-manchester-58369410)
  - RSS feed: https://www.bbc.co.uk
@@ -2237,6 +2272,13 @@
  - date published: 2021-07-30 21:18:37.107994+00:00
 
 
+## THE GREEN KNIGHT Ending Explained!
+ - [https://www.youtube.com/watch?v=9mntL7atEHg](https://www.youtube.com/watch?v=9mntL7atEHg)
+ - RSS feed: https://www.youtube.com
+ - date published: 2021-07-30 20:43:21+00:00
+ - tags: green knight,movies
+
+
 ## Why Discord is switching from Go to Rust | by Jesse Howarth | Discord Blog
  - [https://blog.discord.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f](https://blog.discord.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f)
  - RSS feed: https://blog.discord.com
@@ -2253,6 +2295,13 @@
  - [https://www.wired.co.uk/article/nhs-app-covid-vaccine-passport](https://www.wired.co.uk/article/nhs-app-covid-vaccine-passport)
  - RSS feed: https://www.wired.co.uk
  - date published: 2021-07-28 11:15:40.188043+00:00
+
+
+## Dopóki się nie zaszczepicie, rząd powinien wam odebrać cały smak życia
+ - [https://wyborcza.pl/7,75968,27376053,niech-szlag-trafi-wasze-biznesy.html?disableRedirects=true](https://wyborcza.pl/7,75968,27376053,niech-szlag-trafi-wasze-biznesy.html?disableRedirects=true)
+ - RSS feed: https://wyborcza.pl
+ - date published: 2021-07-27 21:53:56+00:00
+ - tags: vaccine,propaganda,covid
 
 
 ## Windows Defender blocks qBittorrent | Hacker News
@@ -2712,6 +2761,13 @@
  - date published: 2021-07-13 22:14:18.423350+00:00
 
 
+## Zostałem szczepionkowym rasistą. „Ludzie w pełni zaszczepieni powinni mieć specjalne przywileje”
+ - [https://www.wprost.pl/kraj/10467413/zostalem-szczepionkowym-rasista-zaszczepieni-powinni-miec-przywileje.html](https://www.wprost.pl/kraj/10467413/zostalem-szczepionkowym-rasista-zaszczepieni-powinni-miec-przywileje.html)
+ - RSS feed: https://www.wprost.pl
+ - date published: 2021-07-09 21:53:19+00:00
+ - tags: vaccine,propaganda,covid
+
+
 ## Chatcontrol: Unia Europejska chce kontrolować komunikatory i pocztę
  - [https://www.telepolis.pl/wiadomosci/wydarzenia/chatcontrol-unia-europejska-chce-kontrolowac-komunikatory-i-poczte](https://www.telepolis.pl/wiadomosci/wydarzenia/chatcontrol-unia-europejska-chce-kontrolowac-komunikatory-i-poczte)
  - RSS feed: www.telepolis.pl
@@ -2726,6 +2782,13 @@
  - tags: privacy,surveillance,chatcontrol
 
 
+## Rząd nakazał przedsiębiorcom segregację na szczepionych i nieszczepionych, ale zapomniał powiedzieć, jak mają to robić
+ - [https://panoptykon.org/zaszczepieni-ponad-limitami](https://panoptykon.org/zaszczepieni-ponad-limitami)
+ - RSS feed: https://panoptykon.org
+ - date published: 2021-07-01 21:43:26+00:00
+ - tags: vaccine,big brother,government,covid
+
+
 ## A Remarkable Silence: Media Blackout After Key Witness Against Assange Admits Lying
  - [https://www.medialens.org/2021/a-remarkable-silence-media-blackout-after-key-witness-against-assange-admits-lying/](https://www.medialens.org/2021/a-remarkable-silence-media-blackout-after-key-witness-against-assange-admits-lying/)
  - RSS feed: www.medialens.org
@@ -2736,6 +2799,13 @@
  - [https://forum.agoraroad.com/index.php?threads/corporations-are-the-reason-why-we-have-a-alt-right-alt-left-war.3387/](https://forum.agoraroad.com/index.php?threads/corporations-are-the-reason-why-we-have-a-alt-right-alt-left-war.3387/)
  - RSS feed: forum.agoraroad.com
  - date published: 2021-06-26 12:04:49+00:00
+
+
+## Is Jesus Historical? What Do The Romans Say About Him?
+ - [https://www.youtube.com/watch?v=A41Tm5FDKns](https://www.youtube.com/watch?v=A41Tm5FDKns)
+ - RSS feed: https://www.youtube.com
+ - date published: 2021-06-24 20:17:29+00:00
+ - tags: history,bible,jesus
 
 
 ## Pfizer, Moderna COVID-19 vaccines will get label warning over rare heart risk, FDA says
@@ -2749,6 +2819,20 @@
  - [https://techcrunch.com/2020/11/11/google-cuts-back-on-its-free-storage-get-ready-to-pay-up/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAACdLcrCWM2hkskLPBjz6O0aLKgR7zzifHK646vqnhzHMh7oPzacUJpv2rga3iBuuEWs6JtqVwz2EypbE6t283SMwj1JrBP_4ERvFENTEAuT8J6I6XKueZHtmSDfzezgeM87A-7E7PPSM6O8zhavQ6tf3fIcGJX44bDOcX3l3BSqj](https://techcrunch.com/2020/11/11/google-cuts-back-on-its-free-storage-get-ready-to-pay-up/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAACdLcrCWM2hkskLPBjz6O0aLKgR7zzifHK646vqnhzHMh7oPzacUJpv2rga3iBuuEWs6JtqVwz2EypbE6t283SMwj1JrBP_4ERvFENTEAuT8J6I6XKueZHtmSDfzezgeM87A-7E7PPSM6O8zhavQ6tf3fIcGJX44bDOcX3l3BSqj)
  - RSS feed: techcrunch.com
  - date published: 2021-06-24 12:04:50+00:00
+
+
+## Even creepier COVID tracking: Google silently pushed app to users’ phones [Updated]
+ - [https://arstechnica.com/gadgets/2021/06/even-creepier-covid-tracking-google-silently-pushed-app-to-users-phones/](https://arstechnica.com/gadgets/2021/06/even-creepier-covid-tracking-google-silently-pushed-app-to-users-phones/)
+ - RSS feed: https://arstechnica.com
+ - date published: 2021-06-21 21:26:16+00:00
+ - tags: privacy,tracking,covid
+
+
+## Kiedy WHO zmieniła definicję odporności stada? Zmiana treści definicji terminu Odporność Stadna. [listopad 2020]
+ - [https://pubmedinfo.org/2021/06/16/kiedy-who-zmienila-definicje-odpornosci-stada/](https://pubmedinfo.org/2021/06/16/kiedy-who-zmienila-definicje-odpornosci-stada/)
+ - RSS feed: https://pubmedinfo.org
+ - date published: 2021-06-16 22:12:17+00:00
+ - tags: who,herd imunity,covid
 
 
 ## He authorized Moderna's vaccine 6 months ago. Now, ex-FDA chief Hahn joins biotech's backer
@@ -2816,6 +2900,20 @@
  - tags: bill gates,epsteini
 
 
+## Spirited Away - Why Work Is Toxic
+ - [https://www.youtube.com/watch?v=tkxR1TcG4n4](https://www.youtube.com/watch?v=tkxR1TcG4n4)
+ - RSS feed: https://www.youtube.com
+ - date published: 2021-05-21 20:40:27+00:00
+ - tags: spirited away,movies
+
+
+## World Economic Forum Urges Companies To Fire Unvaccinated Employees As Part of ‘Jobs Reset,’ Deletes Tweet After Backlash
+ - [https://nationalfile.com/world-economic-forum-urges-companies-to-fire-unvaccinated-employees-as-part-of-jobs-reset-deletes-tweet-after-backlash/](https://nationalfile.com/world-economic-forum-urges-companies-to-fire-unvaccinated-employees-as-part-of-jobs-reset-deletes-tweet-after-backlash/)
+ - RSS feed: https://nationalfile.com
+ - date published: 2021-05-18 22:10:14+00:00
+ - tags: vaccine,mandates,wef
+
+
 ## Huge Eufy privacy breach shows live and recorded cam feeds to strangers [U: Statement]
  - [https://9to5mac.com/2021/05/17/huge-eufy-privacy-breach/](https://9to5mac.com/2021/05/17/huge-eufy-privacy-breach/)
  - RSS feed: https://9to5mac.com
@@ -2834,6 +2932,13 @@
  - RSS feed: https://thehill.com
  - date published: 2021-05-16 09:06:10+00:00
  - tags: fauci,transmission,covid
+
+
+## Chinese document discussing weaponising coronaviruses provides 'chilling' informati
+ - [https://www.youtube.com/watch?v=kuKPBur_TiI](https://www.youtube.com/watch?v=kuKPBur_TiI)
+ - RSS feed: https://www.youtube.com
+ - date published: 2021-05-09 21:15:57+00:00
+ - tags: china,weapon,covid
 
 
 ## EU signs deal with Pfizer for up to 1.8 billion COVID vaccine doses
@@ -2886,6 +2991,13 @@
  - tags: terreg,censorship
 
 
+## Why Google Should Stop Logging Contact-Tracing Data
+ - [https://blog.appcensus.io/2021/04/27/why-google-should-stop-logging-contact-tracing-data/](https://blog.appcensus.io/2021/04/27/why-google-should-stop-logging-contact-tracing-data/)
+ - RSS feed: https://blog.appcensus.io
+ - date published: 2021-04-27 21:23:22+00:00
+ - tags: tracking,google,covid
+
+
 ## Apple Is Terrible for Your Privacy
  - [https://www.youtube.com/watch?v=r38Epj6ldKU](https://www.youtube.com/watch?v=r38Epj6ldKU)
  - RSS feed: https://www.youtube.com/@TheHatedOne
@@ -2906,10 +3018,31 @@
  - tags: terreg,censorship
 
 
+## CNN staffer tells Project Veritas network played up COVID-19 death toll for ratings
+ - [https://nypost.com/2021/04/14/cnn-staffer-tells-project-veritas-network-played-up-covid-19-death-toll-for-ratings/](https://nypost.com/2021/04/14/cnn-staffer-tells-project-veritas-network-played-up-covid-19-death-toll-for-ratings/)
+ - RSS feed: https://nypost.com
+ - date published: 2021-04-14 21:42:08+00:00
+ - tags: cnn,media,covid lie,covid
+
+
+## Dyrektor CNN: Nakręcaliśmy zgony covidowe dla zwiększenia ratingów
+ - [https://www.tvp.info/53301671/nagrania-dyrektora-cnn-charlie-chester-mowi-o-nakrecaniu-zgonow-na-covid-19-ujawnione-nagrania-donald-trump-i-epidemia-koronawirusa-w-usa](https://www.tvp.info/53301671/nagrania-dyrektora-cnn-charlie-chester-mowi-o-nakrecaniu-zgonow-na-covid-19-ujawnione-nagrania-donald-trump-i-epidemia-koronawirusa-w-usa)
+ - RSS feed: https://www.tvp.info
+ - date published: 2021-04-14 21:41:09+00:00
+ - tags: media,covid lie,covid
+
+
 ## Why Did the Johnson & Johnson Vaccine Get Suspended and What Comes Next?
  - [https://nationalinterest.org/blog/coronavirus/why-did-johnson-johnson-vaccine-get-suspended-and-what-comes-next-182682](https://nationalinterest.org/blog/coronavirus/why-did-johnson-johnson-vaccine-get-suspended-and-what-comes-next-182682)
  - RSS feed: nationalinterest.org
  - date published: 2021-04-13 07:20:43+00:00
+
+
+## NHS Covid-19 app update blocked for breaking Apple and Google's rules
+ - [https://www.bbc.com/news/technology-56713017](https://www.bbc.com/news/technology-56713017)
+ - RSS feed: https://www.bbc.com
+ - date published: 2021-04-12 21:45:08+00:00
+ - tags: nhs,tracking,google,apple,covid
 
 
 ## Why is Corporate Virtue in the Eye of the Beholder? The Case of ESG Ratings
@@ -2922,6 +3055,13 @@
  - [https://ithardware.pl/aktualnosci/cyfrowy_juan_to_cyfrowa_sledzona_i_scentralizowana_waluta_chin_ktora_zastapi_fizyczne_pieniadze-15649.html](https://ithardware.pl/aktualnosci/cyfrowy_juan_to_cyfrowa_sledzona_i_scentralizowana_waluta_chin_ktora_zastapi_fizyczne_pieniadze-15649.html)
  - RSS feed: https://ithardware.pl
  - date published: 2021-04-07 08:20:36+00:00
+
+
+## W 2018 r. dyplomaci ostrzegali przed eksperymentami z koronawirusem w Wuhan. Nikt ich nie słuchał
+ - [https://wiadomosci.onet.pl/politico/koronawirus-w-2018-r-dyplomaci-ostrzegali-przed-eksperymentami-w-wuhan/y6ywbv9](https://wiadomosci.onet.pl/politico/koronawirus-w-2018-r-dyplomaci-ostrzegali-przed-eksperymentami-w-wuhan/y6ywbv9)
+ - RSS feed: https://wiadomosci.onet.pl
+ - date published: 2021-03-30 19:07:46+00:00
+ - tags: censorship,covid,wuhan
 
 
 ## YouTube Channel Deletion
@@ -2942,6 +3082,13 @@
  - RSS feed: https://www.youtube.com/c/Coffeezilla
  - date published: 2021-03-21 20:51:19+00:00
  - tags: bill gates,epstein
+
+
+## Pfizer CEO Bourla’s Pay Climbed 17% to $21 Million in 2020
+ - [https://www.bloomberg.com/news/articles/2021-03-12/pfizer-ceo-bourla-s-pay-climbed-17-to-21-million-in-2020](https://www.bloomberg.com/news/articles/2021-03-12/pfizer-ceo-bourla-s-pay-climbed-17-to-21-million-in-2020)
+ - RSS feed: https://www.bloomberg.com
+ - date published: 2021-03-21 18:27:24+00:00
+ - tags: pfizer,money,covid
 
 
 ## Przez niemal pół wieku w Niemczech funkcjonował ruch dążący do legalizacji pedofilii. Wstrząsający raport
@@ -2991,6 +3138,13 @@
  - tags: corporatocracy,varoufakis,technofeudalism,capitalism
 
 
+## Moment Biden COVID adviser is UNABLE to explain why lockdown-loving California isn't doing better than open-all-hours Florida
+ - [https://www.dailymail.co.uk/news/article-9272929/Biden-COVID-adviser-explain-closed-California-isnt-doing-better-open-Florida.html](https://www.dailymail.co.uk/news/article-9272929/Biden-COVID-adviser-explain-closed-California-isnt-doing-better-open-Florida.html)
+ - RSS feed: https://www.dailymail.co.uk
+ - date published: 2021-02-18 21:28:10+00:00
+ - tags: lockdown,california,biden,florida,covid
+
+
 ## Social Media as Social Control.
  - [https://www.youtube.com/watch?v=4ZCuAbjdfsg](https://www.youtube.com/watch?v=4ZCuAbjdfsg)
  - RSS feed: https://www.youtube.com/@LukeSmithxyz
@@ -3002,6 +3156,27 @@
  - [https://lukesmith.xyz/articles/veganism-is-the-pinnacle-of-bugmanism/](https://lukesmith.xyz/articles/veganism-is-the-pinnacle-of-bugmanism/)
  - RSS feed: https://lukesmith.xyz/rss.xml
  - date published: 2021-02-11 00:00:00+00:00
+
+
+## German ministry hired scientists to induce corona fear
+ - [https://cceit.com/german-ministry-hired-scientists-to-induce-corona-fear/](https://cceit.com/german-ministry-hired-scientists-to-induce-corona-fear/)
+ - RSS feed: https://cceit.com
+ - date published: 2021-02-10 21:14:43+00:00
+ - tags: germany,lockdown,covid
+
+
+## Germany Hired Scientists To Develop Fake Coronavirus Model To Justify Strict Lockdown
+ - [https://greatgameindia.com/germany-hired-scientists-fake-coronavirus-model/](https://greatgameindia.com/germany-hired-scientists-fake-coronavirus-model/)
+ - RSS feed: https://greatgameindia.com
+ - date published: 2021-02-09 21:14:12+00:00
+ - tags: germany,lockdown,covid
+
+
+## "Kanadyjczycy są aresztowani i wywożeni". Prawnicy reagują na koronawirusowe restrykcje
+ - [https://www.polsatnews.pl/wiadomosc/2021-02-04/kanadyjczycy-sa-aresztowani-i-wywozeni-prawnicy-reaguja-na-koronawirusowe-restrykcje](https://www.polsatnews.pl/wiadomosc/2021-02-04/kanadyjczycy-sa-aresztowani-i-wywozeni-prawnicy-reaguja-na-koronawirusowe-restrykcje)
+ - RSS feed: https://www.polsatnews.pl
+ - date published: 2021-02-04 21:35:56+00:00
+ - tags: canada,covid
 
 
 ## Esteemed Academic Conference on Dangers of Censorship — Reportedly Censored by YouTube
@@ -3046,6 +3221,13 @@
  - [https://www.bankier.pl/wiadomosc/Economist-Swiat-nie-moze-pozwolic-oligopolom-technologicznym-na-przejecie-kontroli-nad-podstawowymi-swobodami-8038414.html](https://www.bankier.pl/wiadomosc/Economist-Swiat-nie-moze-pozwolic-oligopolom-technologicznym-na-przejecie-kontroli-nad-podstawowymi-swobodami-8038414.html)
  - RSS feed: https://www.bankier.pl
  - date published: 2021-01-16 20:15:49+00:00
+
+
+## COVID Lockdowns May Have No Clear Benefit vs Other Voluntary Measures, International Study Shows
+ - [https://www.newsweek.com/covid-lockdowns-have-no-clear-benefit-vs-other-voluntary-measures-international-study-shows-1561656?amp=1&__twitter_impression=true](https://www.newsweek.com/covid-lockdowns-have-no-clear-benefit-vs-other-voluntary-measures-international-study-shows-1561656?amp=1&__twitter_impression=true)
+ - RSS feed: https://www.newsweek.com
+ - date published: 2021-01-14 21:27:14+00:00
+ - tags: lockdown,covid
 
 
 ## Twitter permanently suspends President Donald Trump

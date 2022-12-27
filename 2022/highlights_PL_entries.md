@@ -1,3 +1,9 @@
+## 71 chińskich samolotów bojowych i siedem okrętów aktywnych w rejonie Tajwanu
+ - [https://forsal.pl/swiat/artykuly/8617866,tajwan-71-chinskich-samolotow-bojowych-i-siedem-okretow-aktywnych-w-rejonie-tajwanu.html](https://forsal.pl/swiat/artykuly/8617866,tajwan-71-chinskich-samolotow-bojowych-i-siedem-okretow-aktywnych-w-rejonie-tajwanu.html)
+ - RSS feed: https://forsal.pl/.feed
+ - date published: 2022-12-26 08:04:09+00:00
+
+
 ## Raport: Apple cenzuruje aplikacje na każde żądanie Chin i Rosji, by nie stracić rynków
  - [https://ithardware.pl/aktualnosci/raport_apple_cenzuruje_aplikacje_na_kazde_zadanie_chin_i_rosji_by_nie_stracic_rynkow-25014.html](https://ithardware.pl/aktualnosci/raport_apple_cenzuruje_aplikacje_na_kazde_zadanie_chin_i_rosji_by_nie_stracic_rynkow-25014.html)
  - RSS feed: https://ithardware.pl/feed
@@ -1725,6 +1731,13 @@
  - date published: 2022-08-07 14:58:22+00:00
 
 
+## Kafka i lalka
+ - [https://kempinsky.pl/kafka-i-lalka/](https://kempinsky.pl/kafka-i-lalka/)
+ - RSS feed: https://kempinsky.pl
+ - date published: 2022-07-28 20:01:02+00:00
+ - tags: kafka,franz kafka
+
+
 ## Ukraina bezgotówkowa i wspierana całkowicie przez AI. "Niezniszczalny cyfrowo europejski Izrael"
  - [https://ithardware.pl/aktualnosci/ukraina_bezgotowkowa_i_wspierana_calkowicie_przez_ai_niezniszczalny_cyfrowo_europejski_izrael-22328.html](https://ithardware.pl/aktualnosci/ukraina_bezgotowkowa_i_wspierana_calkowicie_przez_ai_niezniszczalny_cyfrowo_europejski_izrael-22328.html)
  - RSS feed: https://ithardware.pl
@@ -1773,6 +1786,13 @@
  - [https://wydarzenia.interia.pl/zagranica/news-kanada-aresztowania-konfiskata-paliwa-stan-wyjatkowy-w-ottaw,nId,5819159](https://wydarzenia.interia.pl/zagranica/news-kanada-aresztowania-konfiskata-paliwa-stan-wyjatkowy-w-ottaw,nId,5819159)
  - RSS feed: wydarzenia.interia.pl
  - date published: 2022-02-07 06:53:30+00:00
+
+
+## Pracownicy rzeszowskiego szpitala przeciwko obowiązkowi szczepień. Gotowi są odejść z pracy
+ - [https://pch24.pl/pracownicy-rzeszowskiego-szpitala-przeciwko-obowiazkowi-szczepien-gotowi-sa-odejsc-z-pracy/](https://pch24.pl/pracownicy-rzeszowskiego-szpitala-przeciwko-obowiazkowi-szczepien-gotowi-sa-odejsc-z-pracy/)
+ - RSS feed: https://pch24.pl
+ - date published: 2022-01-28 21:54:49+00:00
+ - tags: vaccine,mandates,covid
 
 
 ## FDA ma 8 miesięcy na publikację dokumentacji „szczepionki”

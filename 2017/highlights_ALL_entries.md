@@ -11,11 +11,25 @@
  - date published: 2017-11-21 20:37:18+00:00
 
 
+## Who Created Engineers ? Origins Explained || Theories
+ - [https://www.youtube.com/watch?v=kSp07bwW1tA](https://www.youtube.com/watch?v=kSp07bwW1tA)
+ - RSS feed: https://www.youtube.com
+ - date published: 2017-11-15 20:23:24+00:00
+ - tags: movies,prometheus
+
+
 ## Fake “Flat Earth” Conspiracy Finally Outed As C.I.A. Psyop
  - [https://themillenniumreport.com/2017/11/fake-flat-earth-conspiracy-finally-outed-as-cia-psyop/](https://themillenniumreport.com/2017/11/fake-flat-earth-conspiracy-finally-outed-as-cia-psyop/)
  - RSS feed: https://themillenniumreport.com
  - date published: 2017-11-06 14:57:08+00:00
  - tags: funny,conspiracytheory,flatearth,cia,deep state
+
+
+## More Human than Human - A Blade Runner Analysis
+ - [https://www.youtube.com/watch?v=gcQk3qM3Ok0](https://www.youtube.com/watch?v=gcQk3qM3Ok0)
+ - RSS feed: https://www.youtube.com
+ - date published: 2017-11-03 20:20:52+00:00
+ - tags: blade runner,movies
 
 
 ## UK Politicians Call 'Fake News' On Stories They Don't Like, Aping Donald Trump
@@ -25,11 +39,25 @@
  - tags: trump,disinformation,uk,fakenews
 
 
+## Eye Symbolism in Blade Runner 2049 Explained || Hidden Messages Analysis
+ - [https://www.youtube.com/watch?v=jRSZd8xYaL4](https://www.youtube.com/watch?v=jRSZd8xYaL4)
+ - RSS feed: https://www.youtube.com
+ - date published: 2017-10-22 20:18:50+00:00
+ - tags: blade runner,symbolism,movies
+
+
 ## USA: Hurricane Harvey Victims Told: Boycott Israel and You Won’t Get Aid Donations
  - [https://www.palestinechronicle.com/hurricane-harvey-victims-told-boycott-israel-and-you-wont-get-aid-donations/](https://www.palestinechronicle.com/hurricane-harvey-victims-told-boycott-israel-and-you-wont-get-aid-donations/)
  - RSS feed: www.palestinechronicle.com
  - date published: 2017-10-21 12:52:50+00:00
  - tags: israel
+
+
+## Blade Runner 2049: Do Memories Make Us Human? – Wisecrack Quick Take
+ - [https://www.youtube.com/watch?v=VqDO9LyvXPQ](https://www.youtube.com/watch?v=VqDO9LyvXPQ)
+ - RSS feed: https://www.youtube.com
+ - date published: 2017-10-13 20:19:38+00:00
+ - tags: blade runner,movies
 
 
 ## What Facebook Did to American Democracy
@@ -49,6 +77,13 @@
  - [https://www.youtube.com/watch?v=tlTKTTt47WE](https://www.youtube.com/watch?v=tlTKTTt47WE)
  - RSS feed: https://www.youtube.com/c/inanutshell
  - date published: 2017-09-21 07:46:14+00:00
+
+
+## Ridley Scott Tells the REAL REASON Why David Hates Humans and Engineers
+ - [https://www.youtube.com/watch?v=UsEs1PwpU8Y](https://www.youtube.com/watch?v=UsEs1PwpU8Y)
+ - RSS feed: https://www.youtube.com
+ - date published: 2017-09-09 20:24:09+00:00
+ - tags: movies,prometheus
 
 
 ## Dennis Meadows Interview p4/4 (A 'peaceful collapse' & many revolutions...)
@@ -114,6 +149,13 @@
  - [https://www.theverge.com/2017/6/23/15862492/google-gmail-advertising-targeting-privacy-coud-business](https://www.theverge.com/2017/6/23/15862492/google-gmail-advertising-targeting-privacy-coud-business)
  - RSS feed: www.theverge.com
  - date published: 2017-06-23 12:04:50+00:00
+
+
+## Intel Chief Says He Cannot Reveal How Many Americans the NSA Spied On Because He Cannot Count Them All
+ - [https://gizmodo.com/intel-chief-says-he-cannot-reveal-how-many-americans-th-1796058363](https://gizmodo.com/intel-chief-says-he-cannot-reveal-how-many-americans-th-1796058363)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2017-06-13 16:33:00+00:00
+ - tags: surveillance,nsa
 
 
 ## No one went to prison after 2008 financial crisis — and the fault lies with us

@@ -52,6 +52,13 @@
  - tags: blackrock,larry fink,esg
 
 
+## A Clockwork Orange - What it all Meant
+ - [https://www.youtube.com/watch?v=ZvK9PEcqiLo](https://www.youtube.com/watch?v=ZvK9PEcqiLo)
+ - RSS feed: https://www.youtube.com
+ - date published: 2016-09-07 20:37:13+00:00
+ - tags: clockwork orange,movies
+
+
 ## Chrome ignoruje ustawienia prywatności
  - [https://teamquest.pl/blog/1698_chrome-ignoruje-ustawienia-prywatnosci](https://teamquest.pl/blog/1698_chrome-ignoruje-ustawienia-prywatnosci)
  - RSS feed: teamquest.pl
@@ -77,6 +84,13 @@
  - RSS feed: https://theintercept.com
  - date published: 2016-07-06 14:53:00+00:00
  - tags: downing street memo,iraq,george bush,tony blair
+
+
+## Spirited Away and The Prostitution Theory
+ - [https://sites.psu.edu/angelapassion/2016/07/02/spirited-away/](https://sites.psu.edu/angelapassion/2016/07/02/spirited-away/)
+ - RSS feed: https://sites.psu.edu
+ - date published: 2016-07-02 20:42:05+00:00
+ - tags: spirited away,movies
 
 
 ## Social Autopsy! - Ending Anonymity Online [BAD IDEA]

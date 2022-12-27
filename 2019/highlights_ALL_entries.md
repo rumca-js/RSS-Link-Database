@@ -1,3 +1,16 @@
+## Spirited Away Revealed: The Real Mythology & Folklore Explained!
+ - [https://www.youtube.com/watch?v=GRVpWwMXrl8](https://www.youtube.com/watch?v=GRVpWwMXrl8)
+ - RSS feed: https://www.youtube.com
+ - date published: 2019-11-16 20:41:30+00:00
+
+
+## Jonathan Pageau: The Surprising Symbolism of 666
+ - [https://www.youtube.com/watch?v=qM_kQjpAK6g](https://www.youtube.com/watch?v=qM_kQjpAK6g)
+ - RSS feed: https://www.youtube.com
+ - date published: 2019-11-14 20:16:44+00:00
+ - tags: pageau,666
+
+
 ## YouTube says it has ‘no obligation’ to host anyone’s video
  - [https://www.theverge.com/2019/11/11/20955864/youtube-terms-of-service-update-terminations-children-content-ftc](https://www.theverge.com/2019/11/11/20955864/youtube-terms-of-service-update-terminations-children-content-ftc)
  - RSS feed: https://www.theverge.com
@@ -50,6 +63,13 @@
  - tags: hong kong,china,censorship,google
 
 
+## How The Joker Smashes Our Political Narratives
+ - [https://www.youtube.com/watch?v=H74BbcTs6xs](https://www.youtube.com/watch?v=H74BbcTs6xs)
+ - RSS feed: https://www.youtube.com
+ - date published: 2019-10-09 20:45:08+00:00
+ - tags: joker,movies
+
+
 ## Revealed: the 20 firms behind a third of all carbon emissions
  - [https://www.theguardian.com/environment/2019/oct/09/revealed-20-firms-third-carbon-emissions](https://www.theguardian.com/environment/2019/oct/09/revealed-20-firms-third-carbon-emissions)
  - RSS feed: https://www.theguardian.com
@@ -69,6 +89,13 @@
  - RSS feed: https://www.vox.com
  - date published: 2019-10-08 12:08:47+00:00
  - tags: china,blizzard,censorship
+
+
+## Eyes Wide Shut and the Moral Bankruptcy of the American Elite
+ - [https://lawliberty.org/eyes-wide-shut-and-the-moral-bankruptcy-of-the-american-elite/](https://lawliberty.org/eyes-wide-shut-and-the-moral-bankruptcy-of-the-american-elite/)
+ - RSS feed: https://lawliberty.org
+ - date published: 2019-10-04 20:29:42+00:00
+ - tags: bilionaires,epstein,eyes wide shut
 
 
 ## Efekt Snowdena - czy nasza prywatność w Internecie JEST BEZPIECZNA? [TOPOWA DYCHA]
@@ -137,11 +164,25 @@
  - tags: epstein
 
 
+## Ben Shapiro Vs Climate Change | UBC Talk
+ - [https://www.youtube.com/watch?v=wRk1p8Lzwvo](https://www.youtube.com/watch?v=wRk1p8Lzwvo)
+ - RSS feed: https://www.youtube.com
+ - date published: 2019-07-27 14:40:12+00:00
+ - tags: climate change,science,ben shapiro
+
+
 ## Instagram: Why paying for followers and likes is bad news for real fans
  - [https://www.bbc.com/news/newsbeat-48952123](https://www.bbc.com/news/newsbeat-48952123)
  - RSS feed: https://www.bbc.com
  - date published: 2019-07-13 11:20:17+00:00
  - tags: instagram,celebrity,dead internet
+
+
+## In 'Eyes Wide Shut' Stanley Kubrick Captured Horrors of Jeffrey Epstein Era
+ - [https://www.newsweek.com/eyes-wide-shut-missing-footage-epstein-kubrick-death-1449108](https://www.newsweek.com/eyes-wide-shut-missing-footage-epstein-kubrick-death-1449108)
+ - RSS feed: https://www.newsweek.com
+ - date published: 2019-07-12 20:30:36+00:00
+ - tags: kubrick,bilionaires,epstein,eyes wide shut
 
 
 ## So Was QAnon … Right?
@@ -189,6 +230,13 @@
  - date published: 2019-04-16 20:17:46+00:00
 
 
+## The List of All U.S Colleges With a Gender Studies/Gender and Sexuality Studies Major
+ - [https://blog.collegevine.com/the-list-of-all-u-s-colleges-with-a-gender-studies-gender-and-sexuality-studies-major/](https://blog.collegevine.com/the-list-of-all-u-s-colleges-with-a-gender-studies-gender-and-sexuality-studies-major/)
+ - RSS feed: https://blog.collegevine.com
+ - date published: 2019-04-16 20:07:17+00:00
+ - tags: universities,scienceisdead,gender
+
+
 ## Amazon employees are listening to what you say to Alexa — here's how to stop them
  - [https://www.cnbc.com/2019/04/11/how-to-stop-amazon-from-listening-to-what-you-say-to-alexa.html](https://www.cnbc.com/2019/04/11/how-to-stop-amazon-from-listening-to-what-you-say-to-alexa.html)
  - RSS feed: https://www.cnbc.com
@@ -214,6 +262,13 @@
  - date published: 2019-03-02 19:52:57+00:00
 
 
+## Sweden sees microchip implant revolution | Al Jazeera English
+ - [https://www.youtube.com/watch?v=dl_gemn9a9E](https://www.youtube.com/watch?v=dl_gemn9a9E)
+ - RSS feed: https://www.youtube.com
+ - date published: 2019-02-21 19:57:15+00:00
+ - tags: chip,sweden
+
+
 ## We're Numb to Data Privacy Abuse | Joe Rogan & Bill Ottman
  - [https://www.youtube.com/watch?v=5WD3azvYYWs](https://www.youtube.com/watch?v=5WD3azvYYWs)
  - RSS feed: https://www.youtube.com/@JREClips
@@ -231,6 +286,13 @@
  - [https://www.smyku.pl/texts/zabija-nas-wszystkich.html](https://www.smyku.pl/texts/zabija-nas-wszystkich.html)
  - RSS feed: www.smyku.pl
  - date published: 2019-01-26 07:23:00+00:00
+
+
+## The Media Needs to Keep You Angry. Don't Feed Into It
+ - [https://fee.org/articles/the-media-needs-to-keep-you-angry-dont-feed-into-it/?fbclid=IwAR3cpG5JJHpYJc0Z759ZUzHGh7WQtxueg4cIJlxPWAPuUqqsCuP3yMxwduo](https://fee.org/articles/the-media-needs-to-keep-you-angry-dont-feed-into-it/?fbclid=IwAR3cpG5JJHpYJc0Z759ZUzHGh7WQtxueg4cIJlxPWAPuUqqsCuP3yMxwduo)
+ - RSS feed: https://fee.org
+ - date published: 2019-01-23 19:56:16+00:00
+ - tags: social media,manipulation
 
 
 ## For Owners of Amazon’s Ring Security Cameras, Strangers May Have Been Watching Too

@@ -24,6 +24,13 @@
  - date published: 2019-07-06 07:21:17+00:00
 
 
+## Sweden sees microchip implant revolution | Al Jazeera English
+ - [https://www.youtube.com/watch?v=dl_gemn9a9E](https://www.youtube.com/watch?v=dl_gemn9a9E)
+ - RSS feed: https://www.youtube.com
+ - date published: 2019-02-21 19:57:15+00:00
+ - tags: chip,sweden
+
+
 ## Zabiją nas wszystkich
  - [https://www.smyku.pl/texts/zabija-nas-wszystkich.html](https://www.smyku.pl/texts/zabija-nas-wszystkich.html)
  - RSS feed: www.smyku.pl

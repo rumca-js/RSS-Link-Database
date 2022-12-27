@@ -1,3 +1,61 @@
+## Victor Davis Hanson - How COVID Lockdowns Killed Small Businesses | Highlights Ep.38
+ - [https://www.youtube.com/watch?v=-CucAwH3YQY](https://www.youtube.com/watch?v=-CucAwH3YQY)
+ - RSS feed: https://www.youtube.com
+ - date published: 2022-12-26 21:56:39+00:00
+ - tags: lockdown,covid
+
+
+## Antikythera mechanism
+ - [https://en.wikipedia.org/wiki/Antikythera_mechanism](https://en.wikipedia.org/wiki/Antikythera_mechanism)
+ - RSS feed: https://en.wikipedia.org
+ - date published: 2022-12-26 19:54:57+00:00
+ - tags: antikythera,ancient
+
+
+## Twitter suppressed covid information from doctors and experts
+ - [https://www.dailymail.co.uk/news/article-11574573/Twitter-suppressed-covid-information-doctors-experts.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11574573/Twitter-suppressed-covid-information-doctors-experts.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-26 15:14:28+00:00
+ - tags: misinformation,censorship,covid,disinformation,big brother
+
+
+## Elon Musk Says ‘Almost Every Conspiracy Theory That People Had About Twitter Turned Out to Be True’
+ - [https://www.theepochtimes.com/elon-musk-says-almost-every-conspiracy-theory-that-people-had-about-twitter-turned-out-to-be-true_4945425.html](https://www.theepochtimes.com/elon-musk-says-almost-every-conspiracy-theory-that-people-had-about-twitter-turned-out-to-be-true_4945425.html)
+ - RSS feed: https://www.theepochtimes.com/c-tech/feed/
+ - date published: 2022-12-26 14:19:18+00:00
+
+
+## 1400 scientists declare: There is no climate emergency
+ - [https://clintel.org/](https://clintel.org/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-26 12:58:24+00:00
+ - tags: climate change,science
+
+
+## FBI Gaslights America Over Twitter Files | Opinion
+ - [https://www.newsweek.com/fbi-gaslights-america-over-twitter-files-opinion-1769352](https://www.newsweek.com/fbi-gaslights-america-over-twitter-files-opinion-1769352)
+ - RSS feed: https://www.newsweek.com/rss
+ - date published: 2022-12-26 11:00:01+00:00
+
+
+## China stages big military incursion, Taiwan says
+ - [https://www.bbc.co.uk/news/world-asia-64094261?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-64094261?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-12-26 09:54:29+00:00
+
+
+## I Disapprove of What You Say, but Will Defend Your Right to Say It (2015)
+ - [https://quoteinvestigator.com/2015/06/01/defend-say/](https://quoteinvestigator.com/2015/06/01/defend-say/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-25 21:38:10+00:00
+
+
+## Big Tech Is Eliminating Human and Civil Rights by Proxy: Security Expert
+ - [https://www.theepochtimes.com/big-tech-is-eliminating-human-and-civil-rights-by-proxy-security-expert_4940278.html](https://www.theepochtimes.com/big-tech-is-eliminating-human-and-civil-rights-by-proxy-security-expert_4940278.html)
+ - RSS feed: https://www.theepochtimes.com/c-tech/feed/
+ - date published: 2022-12-25 19:33:38+00:00
+
+
 ## The FBI was the primary link between the intelligence community and Twitter
  - [https://threadreaderapp.com/thread/1606701397109796866.html](https://threadreaderapp.com/thread/1606701397109796866.html)
  - RSS feed: https://hnrss.org/frontpage
@@ -79,6 +137,12 @@
  - RSS feed: https://applecensorship.com
  - date published: 2022-12-23 20:27:17+00:00
  - tags: apple,privacy,censorship
+
+
+## Lawmakers Express Outrage That TikTok Spied On Journalists
+ - [https://www.forbes.com/sites/emilybaker-white/2022/12/23/lawmakers-outrage-tiktok-spied-on-journalists/](https://www.forbes.com/sites/emilybaker-white/2022/12/23/lawmakers-outrage-tiktok-spied-on-journalists/)
+ - RSS feed: https://www.forbes.com/innovation/feed2
+ - date published: 2022-12-23 19:57:15+00:00
 
 
 ## Facebook parent Meta agrees to pay $725 million to settle Cambridge Analytica suit
@@ -1124,6 +1188,13 @@
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q
  - date published: 2022-12-08 20:36:56+00:00
  - tags: climate change
+
+
+## Emails show Wuhan lab collaborator played central role in public messaging about COVID-19 origins
+ - [https://usrtk.org/covid-19-origins/emails-show-wuhan-lab-collaborator-played-central-role-in-public-messaging-about-covid-19-origins/](https://usrtk.org/covid-19-origins/emails-show-wuhan-lab-collaborator-played-central-role-in-public-messaging-about-covid-19-origins/)
+ - RSS feed: https://usrtk.org
+ - date published: 2022-12-08 19:05:34+00:00
+ - tags: covid,wuhan,daszak,lableak
 
 
 ## You are being LIED to about inflation (here's the REAL cause)
@@ -2215,6 +2286,12 @@
  - tags: russia,gates,who
 
 
+## Myocarditis Risk From COVID-19 Vaccines Up To 3 times Higher From Moderna Than Pfizer: Study
+ - [https://www.dailywire.com/news/myocarditis-risk-from-covid-19-vaccines-up-to-3-times-higher-from-moderna-than-pfizer-study](https://www.dailywire.com/news/myocarditis-risk-from-covid-19-vaccines-up-to-3-times-higher-from-moderna-than-pfizer-study)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-11-13 18:41:38+00:00
+
+
 ## Source code is not enough
  - [https://fuzzypixelz.com/blog/source-code-is-not-enough/](https://fuzzypixelz.com/blog/source-code-is-not-enough/)
  - RSS feed: https://hnrss.org/frontpage
@@ -3236,6 +3313,13 @@
  - tags: climate change,all time,peterson,environmentalism
 
 
+## Conduct probe exonerates scientist accused of obscuring pandemic’s origin
+ - [https://www.science.org/content/article/nam-exonerates-daszak](https://www.science.org/content/article/nam-exonerates-daszak)
+ - RSS feed: https://www.science.org
+ - date published: 2022-10-28 19:10:24+00:00
+ - tags: wuhan,covid,daszak
+
+
 ## Elon Musk says Twitter will have a ‘content moderation council’
  - [https://www.theverge.com/2022/10/28/23428792/elon-musk-twitter-content-moderation-council-trump](https://www.theverge.com/2022/10/28/23428792/elon-musk-twitter-content-moderation-council-trump)
  - RSS feed: https://www.theverge.com/rss/index.xml
@@ -4041,6 +4125,13 @@
  - [https://theintercept.com/2022/10/21/economy-wealth-pandemic-inflation/](https://theintercept.com/2022/10/21/economy-wealth-pandemic-inflation/)
  - RSS feed: https://theintercept.com/feed/?lang=en
  - date published: 2022-10-21 18:43:15+00:00
+
+
+## Fauci’s agency admits it funded gain-of-function work in Wuhan: What else are they keeping from us?
+ - [https://nypost.com/2021/10/21/faucis-agency-admits-it-funded-gain-of-function-work-in-wuhan-what-else-are-they-keeping-from-us/](https://nypost.com/2021/10/21/faucis-agency-admits-it-funded-gain-of-function-work-in-wuhan-what-else-are-they-keeping-from-us/)
+ - RSS feed: https://nypost.com
+ - date published: 2022-10-21 18:09:51+00:00
+ - tags: covid,wuhan,fauci
 
 
 ## YouTube Hikes Price of Family Plans     - CNET
@@ -7790,6 +7881,13 @@
  - date published: 2022-07-29 11:13:47.193167+00:00
 
 
+## The Truman Show Tried To Warn You
+ - [https://www.youtube.com/watch?v=cHdp4iGjVUs](https://www.youtube.com/watch?v=cHdp4iGjVUs)
+ - RSS feed: https://www.youtube.com
+ - date published: 2022-07-28 20:39:02+00:00
+ - tags: truman show,movies
+
+
 ## ‘Embrace the chaos’: a history of Uber’s rapid expansion and fall from favour
  - [https://www.theguardian.com/news/2022/jul/15/embrace-the-chaos-a-history-of-ubers-rapid-expansion-and-fall-from-favour](https://www.theguardian.com/news/2022/jul/15/embrace-the-chaos-a-history-of-ubers-rapid-expansion-and-fall-from-favour)
  - RSS feed: https://www.theguardian.com/international/rss
@@ -9336,6 +9434,13 @@
  - date published: 2022-04-04 07:39:02.146571+00:00
 
 
+## Jordan Peterson: Revenge DESTROYS Societies | Jordan Peterson on God "NOT" Punishing Cain
+ - [https://www.youtube.com/watch?v=PAyBzKybskE](https://www.youtube.com/watch?v=PAyBzKybskE)
+ - RSS feed: https://www.youtube.com
+ - date published: 2022-04-03 20:15:08+00:00
+ - tags: bible,peterson
+
+
 ## The story behind creepy-as-hell ‘milk bath’ flyers
  - [https://nypost.com/2017/12/22/the-story-behind-creepy-as-hell-milk-bath-flyers/](https://nypost.com/2017/12/22/the-story-behind-creepy-as-hell-milk-bath-flyers/)
  - RSS feed: https://nypost.com
@@ -9555,6 +9660,13 @@
  - date published: 2022-03-18 20:49:15.144273+00:00
 
 
+## Pfizer CEO Albert Bourla received $24.3 million in total compensation for 2021
+ - [https://www.cnbc.com/2022/03/18/pfizer-ceo-albert-bourla-received-24point3-million-in-total-compensation-for-2021.html](https://www.cnbc.com/2022/03/18/pfizer-ceo-albert-bourla-received-24point3-million-in-total-compensation-for-2021.html)
+ - RSS feed: https://www.cnbc.com
+ - date published: 2022-03-18 18:28:27+00:00
+ - tags: pfizer,covid,money
+
+
 ## Each Firefox download has a unique identifier - gHacks Tech News
  - [https://www.ghacks.net/2022/03/17/each-firefox-download-has-a-unique-identifier/](https://www.ghacks.net/2022/03/17/each-firefox-download-has-a-unique-identifier/)
  - RSS feed: https://www.ghacks.net
@@ -9565,6 +9677,13 @@
  - [https://www.bbc.co.uk/news/technology-60750463](https://www.bbc.co.uk/news/technology-60750463)
  - RSS feed: https://www.bbc.co.uk
  - date published: 2022-03-17 08:38:03.562979+00:00
+
+
+## Evidence based medicine has been corrupted by corporate interests, failed regulation, and commercialisation of academia, argue these authors
+ - [https://www.bmj.com/content/376/bmj.o702](https://www.bmj.com/content/376/bmj.o702)
+ - RSS feed: https://www.bmj.com
+ - date published: 2022-03-16 21:58:08+00:00
+ - tags: science,oligopoly,corporations,corporatocracy
 
 
 ## The three-minute rule: the scientific way to tackle your most-hated chores | Life and style | The Guardian
@@ -9939,6 +10058,13 @@
  - date published: 2022-02-15 00:04:26.943647+00:00
 
 
+## Jordan Peterson: To Be Enlightened, You MUST Understand What EVIL Is | Jordan Peterson's Mind-Blowing SPEECH
+ - [https://www.youtube.com/watch?v=_vBRGWoK6_4](https://www.youtube.com/watch?v=_vBRGWoK6_4)
+ - RSS feed: https://www.youtube.com
+ - date published: 2022-02-12 20:14:23+00:00
+ - tags: bible,peterson
+
+
 ## set -ex - The most useful bash trick of the year - Peterbe.com
  - [https://www.peterbe.com/plog/set-ex](https://www.peterbe.com/plog/set-ex)
  - RSS feed: https://www.peterbe.com
@@ -10059,6 +10185,7 @@
  - [https://conservativeinstitute.org/conservative-news/senate-report-implicates-fauci-in-wuhan-lab-leak-cover-up.htm](https://conservativeinstitute.org/conservative-news/senate-report-implicates-fauci-in-wuhan-lab-leak-cover-up.htm)
  - RSS feed: conservativeinstitute.org
  - date published: 2022-02-04 06:55:19+00:00
+ - tags: wuhan,lableak,fauci
 
 
 ## Don’t Feed the Beast – the Great Recruitment Agency Infestation
@@ -10154,6 +10281,13 @@
  - date published: 2022-01-26 07:05:47+00:00
 
 
+## Jordan Peterson's Realization About the Bible
+ - [https://www.youtube.com/watch?v=Vt9K6kmpx44](https://www.youtube.com/watch?v=Vt9K6kmpx44)
+ - RSS feed: https://www.youtube.com
+ - date published: 2022-01-25 20:12:15+00:00
+ - tags: bible,peterson
+
+
 ## LogJ4 Security Inquiry – Response Required | daniel.haxx.se
  - [https://daniel.haxx.se/blog/2022/01/24/logj4-security-inquiry-response-required/](https://daniel.haxx.se/blog/2022/01/24/logj4-security-inquiry-response-required/)
  - RSS feed: https://daniel.haxx.se
@@ -10164,6 +10298,13 @@
  - [https://kotaku.com/nft-crypto-cryptocurrency-blockchain-gdc-video-games-de-1848407959](https://kotaku.com/nft-crypto-cryptocurrency-blockchain-gdc-video-games-de-1848407959)
  - RSS feed: https://kotaku.com
  - date published: 2022-01-25 09:31:41.948853+00:00
+
+
+## Emails reveal scientists suspected COVID leaked from Wuhan lab – then quickly censored themselves
+ - [https://nypost.com/2022/01/24/emails-reveal-suspected-covid-leaked-from-a-wuhan-lab-then-censored-themselves/](https://nypost.com/2022/01/24/emails-reveal-suspected-covid-leaked-from-a-wuhan-lab-then-censored-themselves/)
+ - RSS feed: https://nypost.com
+ - date published: 2022-01-24 21:48:29+00:00
+ - tags: wuhan,fauci,covid
 
 
 ## Troy Hunt: How I Got Pwned by My Cloud Costs

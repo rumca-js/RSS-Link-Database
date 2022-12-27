@@ -80,11 +80,32 @@
  - date published: 2021-08-04 14:57:33+00:00
 
 
+## Zostałem szczepionkowym rasistą. „Ludzie w pełni zaszczepieni powinni mieć specjalne przywileje”
+ - [https://www.wprost.pl/kraj/10467413/zostalem-szczepionkowym-rasista-zaszczepieni-powinni-miec-przywileje.html](https://www.wprost.pl/kraj/10467413/zostalem-szczepionkowym-rasista-zaszczepieni-powinni-miec-przywileje.html)
+ - RSS feed: https://www.wprost.pl
+ - date published: 2021-07-09 21:53:19+00:00
+ - tags: vaccine,propaganda,covid
+
+
 ## Chatcontrol: Unia Europejska chce kontrolować komunikatory i pocztę
  - [https://www.telepolis.pl/wiadomosci/wydarzenia/chatcontrol-unia-europejska-chce-kontrolowac-komunikatory-i-poczte](https://www.telepolis.pl/wiadomosci/wydarzenia/chatcontrol-unia-europejska-chce-kontrolowac-komunikatory-i-poczte)
  - RSS feed: www.telepolis.pl
  - date published: 2021-07-09 12:57:59+00:00
  - tags: privacy,security,chatcontrol
+
+
+## Rząd nakazał przedsiębiorcom segregację na szczepionych i nieszczepionych, ale zapomniał powiedzieć, jak mają to robić
+ - [https://panoptykon.org/zaszczepieni-ponad-limitami](https://panoptykon.org/zaszczepieni-ponad-limitami)
+ - RSS feed: https://panoptykon.org
+ - date published: 2021-07-01 21:43:26+00:00
+ - tags: vaccine,big brother,government,covid
+
+
+## Kiedy WHO zmieniła definicję odporności stada? Zmiana treści definicji terminu Odporność Stadna. [listopad 2020]
+ - [https://pubmedinfo.org/2021/06/16/kiedy-who-zmienila-definicje-odpornosci-stada/](https://pubmedinfo.org/2021/06/16/kiedy-who-zmienila-definicje-odpornosci-stada/)
+ - RSS feed: https://pubmedinfo.org
+ - date published: 2021-06-16 22:12:17+00:00
+ - tags: who,herd imunity,covid
 
 
 ## Prezydent Estonii w Polsat News: nie powinniśmy wracać do świata sprzed pandemii
@@ -93,10 +114,24 @@
  - date published: 2021-05-05 07:26:08+00:00
 
 
+## Dyrektor CNN: Nakręcaliśmy zgony covidowe dla zwiększenia ratingów
+ - [https://www.tvp.info/53301671/nagrania-dyrektora-cnn-charlie-chester-mowi-o-nakrecaniu-zgonow-na-covid-19-ujawnione-nagrania-donald-trump-i-epidemia-koronawirusa-w-usa](https://www.tvp.info/53301671/nagrania-dyrektora-cnn-charlie-chester-mowi-o-nakrecaniu-zgonow-na-covid-19-ujawnione-nagrania-donald-trump-i-epidemia-koronawirusa-w-usa)
+ - RSS feed: https://www.tvp.info
+ - date published: 2021-04-14 21:41:09+00:00
+ - tags: media,covid lie,covid
+
+
 ## Cyfrowy juan to śledzona i scentralizowana waluta Chin, która zastępuje fizyczne pieniądze
  - [https://ithardware.pl/aktualnosci/cyfrowy_juan_to_cyfrowa_sledzona_i_scentralizowana_waluta_chin_ktora_zastapi_fizyczne_pieniadze-15649.html](https://ithardware.pl/aktualnosci/cyfrowy_juan_to_cyfrowa_sledzona_i_scentralizowana_waluta_chin_ktora_zastapi_fizyczne_pieniadze-15649.html)
  - RSS feed: https://ithardware.pl
  - date published: 2021-04-07 08:20:36+00:00
+
+
+## W 2018 r. dyplomaci ostrzegali przed eksperymentami z koronawirusem w Wuhan. Nikt ich nie słuchał
+ - [https://wiadomosci.onet.pl/politico/koronawirus-w-2018-r-dyplomaci-ostrzegali-przed-eksperymentami-w-wuhan/y6ywbv9](https://wiadomosci.onet.pl/politico/koronawirus-w-2018-r-dyplomaci-ostrzegali-przed-eksperymentami-w-wuhan/y6ywbv9)
+ - RSS feed: https://wiadomosci.onet.pl
+ - date published: 2021-03-30 19:07:46+00:00
+ - tags: censorship,covid,wuhan
 
 
 ## Przez niemal pół wieku w Niemczech funkcjonował ruch dążący do legalizacji pedofilii. Wstrząsający raport
@@ -118,6 +153,13 @@
  - RSS feed: cowzdrowiu.pl
  - date published: 2021-03-02 07:02:12+00:00
  - tags: covid
+
+
+## "Kanadyjczycy są aresztowani i wywożeni". Prawnicy reagują na koronawirusowe restrykcje
+ - [https://www.polsatnews.pl/wiadomosc/2021-02-04/kanadyjczycy-sa-aresztowani-i-wywozeni-prawnicy-reaguja-na-koronawirusowe-restrykcje](https://www.polsatnews.pl/wiadomosc/2021-02-04/kanadyjczycy-sa-aresztowani-i-wywozeni-prawnicy-reaguja-na-koronawirusowe-restrykcje)
+ - RSS feed: https://www.polsatnews.pl
+ - date published: 2021-02-04 21:35:56+00:00
+ - tags: canada,covid
 
 
 ## Rząd nowelizuje ustawę o cyberbezpieczeństwie. Będzie mógł wyłączać serwisy internetowe bez uzasadnienia

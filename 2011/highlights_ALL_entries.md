@@ -5,6 +5,27 @@
  - tags: nigeria,pfizer,vaccine
 
 
+## Na czym polegał rytuał "bunga-bunga"?
+ - [https://wiadomosci.wp.pl/na-czym-polegal-rytual-bunga-bunga-6037856224035969a](https://wiadomosci.wp.pl/na-czym-polegal-rytual-bunga-bunga-6037856224035969a)
+ - RSS feed: https://wiadomosci.wp.pl
+ - date published: 2011-06-28 20:31:16+00:00
+ - tags: bunga bunga,berlusconi
+
+
+## Basta Bunga Bunga
+ - [https://www.newyorker.com/magazine/2011/06/06/basta-bunga-bunga](https://www.newyorker.com/magazine/2011/06/06/basta-bunga-bunga)
+ - RSS feed: https://www.newyorker.com
+ - date published: 2011-06-06 20:34:27+00:00
+ - tags: bunga bunga,berlusconi,politicians,bilionaries
+
+
+## The Berlusconi in Us All: Bunga Bunga's Real Meaning
+ - [https://www.theatlantic.com/international/archive/2011/04/the-berlusconi-in-us-all-bunga-bungas-real-meaning/236871/](https://www.theatlantic.com/international/archive/2011/04/the-berlusconi-in-us-all-bunga-bungas-real-meaning/236871/)
+ - RSS feed: https://www.theatlantic.com
+ - date published: 2011-04-06 20:33:30+00:00
+ - tags: bunga bunga,berlusconi
+
+
 ## Microsoft co-founder lays bare his battles with Bill Gates
  - [https://www.theguardian.com/technology/2011/mar/30/microsoft-paul-allen-bill-gates](https://www.theguardian.com/technology/2011/mar/30/microsoft-paul-allen-bill-gates)
  - RSS feed: https://www.theguardian.com

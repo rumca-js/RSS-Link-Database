@@ -37,6 +37,13 @@
  - date published: 2015-08-24 12:45:42+00:00
 
 
+## Memento Explanation by Christopher Nolan - True Genius - Must Watch
+ - [https://www.youtube.com/watch?v=67e_jl4flpE](https://www.youtube.com/watch?v=67e_jl4flpE)
+ - RSS feed: https://www.youtube.com
+ - date published: 2015-08-12 20:25:02+00:00
+ - tags: memento,nolan,movies
+
+
 ## The manipulation of the American mind: Edward Bernays and the birth of public relations
  - [https://theconversation.com/the-manipulation-of-the-american-mind-edward-bernays-and-the-birth-of-public-relations-44393](https://theconversation.com/the-manipulation-of-the-american-mind-edward-bernays-and-the-birth-of-public-relations-44393)
  - RSS feed: https://theconversation.com

@@ -1,7 +1,21 @@
+## Hiszpania: Rodzina odmówi zaszczepienia seniora? Może stracić nad nim opiekę
+ - [https://www.rmf24.pl/raporty/raport-koronawirus-z-chin/europa/news-hiszpania-rodzina-odmowi-zaszczepienia-seniora-moze-stracic-,nId,4957585](https://www.rmf24.pl/raporty/raport-koronawirus-z-chin/europa/news-hiszpania-rodzina-odmowi-zaszczepienia-seniora-moze-stracic-,nId,4957585)
+ - RSS feed: https://www.rmf24.pl
+ - date published: 2020-12-30 22:08:28+00:00
+ - tags: spain,vaccine,covid
+
+
 ## Netflix usuwa więcej niż kiedykolwiek. Zniknie 129 tytułów, w tym „Harry Potter” i „Władca Pierścien
  - [https://spidersweb.pl/rozrywka/2020/12/25/netflix-grudzien-2020-harry-potter-przyjaciele-usuwane-31-grudnia](https://spidersweb.pl/rozrywka/2020/12/25/netflix-grudzien-2020-harry-potter-przyjaciele-usuwane-31-grudnia)
  - RSS feed: spidersweb.pl
  - date published: 2020-12-25 12:04:50+00:00
+
+
+## Hiszpania: powstanie rejestr osób, które odmówią szczepienia przeciwko COVID-19
+ - [https://www.wnp.pl/rynki-zagraniczne/hiszpania-powstanie-rejestr-osob-ktore-odmowia-szczepienia-przeciwko-covid-19,439531.html](https://www.wnp.pl/rynki-zagraniczne/hiszpania-powstanie-rejestr-osob-ktore-odmowia-szczepienia-przeciwko-covid-19,439531.html)
+ - RSS feed: https://www.wnp.pl
+ - date published: 2020-12-21 22:02:51+00:00
+ - tags: spain,vaccine,covid
 
 
 ## Izraleskie firmy zlokalizują każdego smartfona do 1 metra. Wykorzystując reklamy.
@@ -26,6 +40,7 @@
  - [https://www.bankier.pl/wiadomosc/Ekspert-Rzad-w-ustawie-o-cyberbezpieczenstwie-wprowadza-cenzure-internetu-7964382.html](https://www.bankier.pl/wiadomosc/Ekspert-Rzad-w-ustawie-o-cyberbezpieczenstwie-wprowadza-cenzure-internetu-7964382.html)
  - RSS feed: www.bankier.pl
  - date published: 2020-09-18 07:03:50+00:00
+ - tags: free speech,censorship,government
 
 
 ## Chińscy hakerzy latami kontrolowali systemy TeamViewera – i nie tylko

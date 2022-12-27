@@ -4,6 +4,13 @@
  - date published: 2020-12-30 07:29:04+00:00
 
 
+## UK: Only 377 people under 60 without preexisting conditions have died of COVID in Eng.
+ - [https://twitter.com/Fox_Claire/status/1342847212208984065](https://twitter.com/Fox_Claire/status/1342847212208984065)
+ - RSS feed: https://twitter.com
+ - date published: 2020-12-26 21:03:33+00:00
+ - tags: lockdown,covid
+
+
 ## Was 2020 A Simulation? (Science & Math of the Simulation Theory)
  - [https://www.youtube.com/watch?v=c9p9NE4Pji0](https://www.youtube.com/watch?v=c9p9NE4Pji0)
  - RSS feed: https://www.youtube.com/c/VentureCity
@@ -23,6 +30,13 @@
  - date published: 2020-12-23 06:49:58+00:00
 
 
+## Coronavirus French Law Would Ban People Who Don’t Get COVID Vaccine From Using Public Transport
+ - [https://summit.news/2020/12/22/french-law-would-ban-people-who-dont-get-covid-vaccine-from-using-public-transport/](https://summit.news/2020/12/22/french-law-would-ban-people-who-dont-get-covid-vaccine-from-using-public-transport/)
+ - RSS feed: https://summit.news
+ - date published: 2020-12-22 22:07:50+00:00
+ - tags: vaccine,mandates,france,covid
+
+
 ## The Great Google Crash: The World’s Dependency Revealed
  - [https://www.youtube.com/watch?v=vJ1cfb-5pHQ](https://www.youtube.com/watch?v=vJ1cfb-5pHQ)
  - RSS feed: https://www.youtube.com/coldfusion
@@ -40,6 +54,12 @@
  - [https://www.axis.com/blog/secure-insights/surveillance-smarter-safer-city/](https://www.axis.com/blog/secure-insights/surveillance-smarter-safer-city/)
  - RSS feed: www.axis.com
  - date published: 2020-12-21 12:04:50+00:00
+
+
+## WHO (finally) admits PCR tests create false positives
+ - [https://off-guardian.org/2020/12/18/who-finally-admits-pcr-tests-create-false-positives/](https://off-guardian.org/2020/12/18/who-finally-admits-pcr-tests-create-false-positives/)
+ - RSS feed: https://off-guardian.org
+ - date published: 2020-12-18 21:59:35+00:00
 
 
 ## Americans Can't Sue Pfizer, Moderna In Case of Covid-19 Vaccine Side Effects, Here's Why
@@ -105,10 +125,18 @@
  - tags: uyghur,china,genocide,hypocrisy
 
 
+## Coronavirus vaccine: Pfizer given protection from legal action by UK government
+ - [https://www.independent.co.uk/news/health/coronavirus-pfizer-vaccine-legal-indemnity-safety-ministers-b1765124.html](https://www.independent.co.uk/news/health/coronavirus-pfizer-vaccine-legal-indemnity-safety-ministers-b1765124.html)
+ - RSS feed: https://www.independent.co.uk
+ - date published: 2020-12-02 22:05:32+00:00
+ - tags: pfizer,uk,nop,covid
+
+
 ## Lekarz: Strategia testowania i izolowania jest samobójcza
  - [https://tarnogorski.info/pilne-kierownik-oddzia/](https://tarnogorski.info/pilne-kierownik-oddzia/)
  - RSS feed: tarnogorski.info
  - date published: 2020-11-29 07:28:13+00:00
+ - tags: lockdown,covid
 
 
 ## WikiLeaks 'Cablegate' 10 years on
@@ -307,6 +335,13 @@
  - date published: 2020-08-06 06:47:11+00:00
 
 
+## Victoria Police arrest James Bartolo for online support of anti-lockdown protests
+ - [https://www.abc.net.au/news/2020-09-04/victoria-police-arrest-fourth-person-for-supporting-protests/12630904](https://www.abc.net.au/news/2020-09-04/victoria-police-arrest-fourth-person-for-supporting-protests/12630904)
+ - RSS feed: https://www.abc.net.au
+ - date published: 2020-08-04 21:08:09+00:00
+ - tags: lockdown,covid
+
+
 ## Beware of find-my-phone, Wi-Fi, and Bluetooth, NSA tells mobile users
  - [https://arstechnica.com/tech-policy/2020/08/beware-of-find-my-phone-wi-fi-and-bluetooth-nsa-tells-mobile-users/](https://arstechnica.com/tech-policy/2020/08/beware-of-find-my-phone-wi-fi-and-bluetooth-nsa-tells-mobile-users/)
  - RSS feed: https://arstechnica.com
@@ -419,6 +454,13 @@
  - tags: pedophilia,berlin,government
 
 
+## Christopher Columbus statues are being beheaded and torn down during Black Lives Matter protests
+ - [https://www.insider.com/christopher-columbus-statues-vandalized-during-protests-2020-6](https://www.insider.com/christopher-columbus-statues-vandalized-during-protests-2020-6)
+ - RSS feed: https://www.insider.com
+ - date published: 2020-06-11 20:11:27+00:00
+ - tags: protest,culture,blm,black lives matter
+
+
 ## 'Big concerns' over Gates foundation's potential to become largest WHO donor
  - [https://www.devex.com/news/big-concerns-over-gates-foundation-s-potential-to-become-largest-who-donor-97377](https://www.devex.com/news/big-concerns-over-gates-foundation-s-potential-to-become-largest-who-donor-97377)
  - RSS feed: https://www.devex.com
@@ -449,6 +491,7 @@
  - [https://www.youtube.com/watch?v=ut-zGHLAVLI](https://www.youtube.com/watch?v=ut-zGHLAVLI)
  - RSS feed: https://www.youtube.com/c/KyleHillScience
  - date published: 2020-05-28 21:22:21+00:00
+ - tags: roko basilisk
 
 
 ## Początki: Ameryka finansowała laboratorium w Wuchan. Why Would the US Have Funded the Controversial Wuhan Lab?
@@ -462,6 +505,13 @@
  - [https://lukesmith.xyz/articles/politics-matters-most-to-slaves/](https://lukesmith.xyz/articles/politics-matters-most-to-slaves/)
  - RSS feed: https://lukesmith.xyz/rss.xml
  - date published: 2020-05-09 00:00:00+00:00
+
+
+## U.S. Field Hospitals Stand Down, Most Without Treating Any COVID-19 Patients
+ - [https://www.npr.org/2020/05/07/851712311/u-s-field-hospitals-stand-down-most-without-treating-any-covid-19-patients?t=1609407487809](https://www.npr.org/2020/05/07/851712311/u-s-field-hospitals-stand-down-most-without-treating-any-covid-19-patients?t=1609407487809)
+ - RSS feed: https://www.npr.org
+ - date published: 2020-05-07 21:04:58+00:00
+ - tags: lockdown,covid
 
 
 ## Amazon uses data from third-party sellers to develop its own products, WSJ investigation finds
@@ -487,6 +537,13 @@
  - [https://www.ft.com/content/19d90308-6858-11ea-a3c9-1fe6fedcca75#comments-anchor](https://www.ft.com/content/19d90308-6858-11ea-a3c9-1fe6fedcca75#comments-anchor)
  - RSS feed: https://www.ft.com/world?format=rss
  - date published: 2020-03-20 14:11:41+00:00
+
+
+## An assistant professor says he was fired because he dared to talk about human population variation and got slandered as a eugenicist.
+ - [https://www.insidehighered.com/news/2020/03/12/assistant-professor-says-hes-been-fired-because-he-dared-talk-about-human-population](https://www.insidehighered.com/news/2020/03/12/assistant-professor-says-hes-been-fired-because-he-dared-talk-about-human-population)
+ - RSS feed: https://www.insidehighered.com
+ - date published: 2020-03-12 20:05:49+00:00
+ - tags: scienceisdead,iq,science
 
 
 ## Your smart speaker could be listening in on your conversations by accident
