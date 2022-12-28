@@ -1,3 +1,21 @@
+## Największe holenderskie banki wprowadziły opłaty na pokrycie kosztów kontroli prania pieniędzy
+ - [https://forsal.pl/biznes/bankowosc/artykuly/8618385,holandia-banki-oplaty-kontrola-prania-pieniedzy.html](https://forsal.pl/biznes/bankowosc/artykuly/8618385,holandia-banki-oplaty-kontrola-prania-pieniedzy.html)
+ - RSS feed: https://forsal.pl/.feed
+ - date published: 2022-12-27 10:26:07+00:00
+
+
+## Śmierć prasy coraz bliżej. "Tego trendu nie da się już odwrócić"
+ - [https://www.bankier.pl/wiadomosc/Smierc-prasy-coraz-blizej-Tego-trendu-nie-da-sie-juz-odwrocic-8462789.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Smierc-prasy-coraz-blizej-Tego-trendu-nie-da-sie-juz-odwrocic-8462789.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2022-12-27 10:15:00+00:00
+
+
+## Izraelska firma oferuje hackowanie kamer CCTV. Dostęp do feedów, zmiana feedów, dostęp do nagrań…
+ - [https://sekurak.pl/izraelska-firma-oferuje-hackowanie-kamer-cctv-dostep-do-feedow-zmiana-feedow-dostep-do-nagran/](https://sekurak.pl/izraelska-firma-oferuje-hackowanie-kamer-cctv-dostep-do-feedow-zmiana-feedow-dostep-do-nagran/)
+ - RSS feed: https://sekurak.pl/rss
+ - date published: 2022-12-27 09:01:01+00:00
+
+
 ## 71 chińskich samolotów bojowych i siedem okrętów aktywnych w rejonie Tajwanu
  - [https://forsal.pl/swiat/artykuly/8617866,tajwan-71-chinskich-samolotow-bojowych-i-siedem-okretow-aktywnych-w-rejonie-tajwanu.html](https://forsal.pl/swiat/artykuly/8617866,tajwan-71-chinskich-samolotow-bojowych-i-siedem-okretow-aktywnych-w-rejonie-tajwanu.html)
  - RSS feed: https://forsal.pl/.feed

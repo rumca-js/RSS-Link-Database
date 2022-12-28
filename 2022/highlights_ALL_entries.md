@@ -1,8 +1,43 @@
-## Victor Davis Hanson - How COVID Lockdowns Killed Small Businesses | Highlights Ep.38
- - [https://www.youtube.com/watch?v=-CucAwH3YQY](https://www.youtube.com/watch?v=-CucAwH3YQY)
- - RSS feed: https://www.youtube.com
- - date published: 2022-12-26 21:56:39+00:00
- - tags: lockdown,covid
+## Republican George Santos admits lying on his CV
+ - [https://www.bbc.co.uk/news/world-us-canada-64102086?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-64102086?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-12-27 14:37:25+00:00
+
+
+## The BBC spent more than £7MILLION on new logos: Cost of 'modern' rebranding is revealed
+ - [https://www.dailymail.co.uk/news/article-11576223/The-BBC-spent-7MILLION-new-logos-Cost-modern-rebranding-revealed.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11576223/The-BBC-spent-7MILLION-new-logos-Cost-modern-rebranding-revealed.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-27 10:51:38+00:00
+
+
+## Największe holenderskie banki wprowadziły opłaty na pokrycie kosztów kontroli prania pieniędzy
+ - [https://forsal.pl/biznes/bankowosc/artykuly/8618385,holandia-banki-oplaty-kontrola-prania-pieniedzy.html](https://forsal.pl/biznes/bankowosc/artykuly/8618385,holandia-banki-oplaty-kontrola-prania-pieniedzy.html)
+ - RSS feed: https://forsal.pl/.feed
+ - date published: 2022-12-27 10:26:07+00:00
+
+
+## Śmierć prasy coraz bliżej. "Tego trendu nie da się już odwrócić"
+ - [https://www.bankier.pl/wiadomosc/Smierc-prasy-coraz-blizej-Tego-trendu-nie-da-sie-juz-odwrocic-8462789.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Smierc-prasy-coraz-blizej-Tego-trendu-nie-da-sie-juz-odwrocic-8462789.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2022-12-27 10:15:00+00:00
+
+
+## GOP’s `anti-woke' crusade splits corporate America
+ - [http://www.msn.com/en-us/news/politics/gop-s-anti-woke-crusade-splits-corporate-america/ar-AA15Hgzs?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/gop-s-anti-woke-crusade-splits-corporate-america/ar-AA15Hgzs?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-27 10:01:03.840567+00:00
+
+
+## Izraelska firma oferuje hackowanie kamer CCTV. Dostęp do feedów, zmiana feedów, dostęp do nagrań…
+ - [https://sekurak.pl/izraelska-firma-oferuje-hackowanie-kamer-cctv-dostep-do-feedow-zmiana-feedow-dostep-do-nagran/](https://sekurak.pl/izraelska-firma-oferuje-hackowanie-kamer-cctv-dostep-do-feedow-zmiana-feedow-dostep-do-nagran/)
+ - RSS feed: https://sekurak.pl/rss
+ - date published: 2022-12-27 09:01:01+00:00
+
+
+## Rachel Levine ripped for demanding censorship of 'misinformation' on 'gender-affirming care' for kids
+ - [https://www.foxnews.com/media/rachel-levine-ripped-demanding-censorship-misinformation-gender-affirming-care-kids](https://www.foxnews.com/media/rachel-levine-ripped-demanding-censorship-misinformation-gender-affirming-care-kids)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-12-26 23:00:18+00:00
 
 
 ## Antikythera mechanism
@@ -42,6 +77,13 @@
  - [https://www.bbc.co.uk/news/world-asia-64094261?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-64094261?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-26 09:54:29+00:00
+
+
+## “Woke” Investors Funding China’s Human Rights Abuses
+ - [https://www.youtube.com/watch?v=_zcA3rtywXQ](https://www.youtube.com/watch?v=_zcA3rtywXQ)
+ - RSS feed: https://www.youtube.com
+ - date published: 2022-12-26 08:29:18+00:00
+ - tags: hypocrisy,esg,china,woke
 
 
 ## 71 chińskich samolotów bojowych i siedem okrętów aktywnych w rejonie Tajwanu
@@ -221,6 +263,12 @@
  - RSS feed: https://applecensorship.com
  - date published: 2022-12-22 20:29:35+00:00
  - tags: apple,censorship
+
+
+## New report shows extent of Apple’s censorship for China and Russia’s governments
+ - [https://reclaimthenet.org/thousands-of-apps-unavailable-hong-kong-russia/](https://reclaimthenet.org/thousands-of-apps-unavailable-hong-kong-russia/)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2022-12-22 20:04:36+00:00
 
 
 ## Spain passes law allowing children 16 and over to change legally registered gender without medical supervision
@@ -599,6 +647,13 @@
  - RSS feed: https://forsal.pl/.feed
  - date published: 2022-12-18 09:57:31+00:00
  - tags: musk,billionaires
+
+
+## Ethiopia Obtains Phone-hacking Tech From Israeli Firm Cellebrite
+ - [https://www.haaretz.com/israel-news/security-aviation/2022-12-18/ty-article/.premium/ethiopian-police-obtain-phone-hacking-technology-from-israeli-firm-cellebrite/00000185-2556-defc-ab97-2d77e1a10000](https://www.haaretz.com/israel-news/security-aviation/2022-12-18/ty-article/.premium/ethiopian-police-obtain-phone-hacking-technology-from-israeli-firm-cellebrite/00000185-2556-defc-ab97-2d77e1a10000)
+ - RSS feed: https://www.haaretz.com
+ - date published: 2022-12-18 09:35:43+00:00
+ - tags: cellebrite,privacy,tracking,israel,surveillance
 
 
 ## My Thoughts on 2022 and the Woke Hollywood Machine
@@ -1734,6 +1789,13 @@
  - RSS feed: https://forsal.pl/.feed
  - date published: 2022-12-02 08:26:02+00:00
  - tags: news,facebook,google
+
+
+## When Will the Left Condemn Solar-Energy Slavery?
+ - [https://www.nationalreview.com/2022/12/when-will-the-left-condemn-solar-energy-slavery/](https://www.nationalreview.com/2022/12/when-will-the-left-condemn-solar-energy-slavery/)
+ - RSS feed: https://www.nationalreview.com
+ - date published: 2022-12-02 08:20:31+00:00
+ - tags: co2,climate change,slavery
 
 
 ## Is Our Digital Future At Risk Because Of The Gen Z Skills Gap?
@@ -12232,6 +12294,13 @@
  - [https://wyborcza.pl/7,75399,28112842,premier-justin-trudeau-wprowadza-stan-wyjatkowy-w-kanadzie.html?squid_js=false](https://wyborcza.pl/7,75399,28112842,premier-justin-trudeau-wprowadza-stan-wyjatkowy-w-kanadzie.html?squid_js=false)
  - RSS feed: wyborcza.pl
  - date published: 2022-02-14 06:53:45+00:00
+
+
+## Victor Davis Hanson - How COVID Lockdowns Killed Small Businesses | Highlights Ep.38
+ - [https://www.youtube.com/watch?v=-CucAwH3YQY](https://www.youtube.com/watch?v=-CucAwH3YQY)
+ - RSS feed: https://www.youtube.com
+ - date published: 2022-02-13 21:56:39+00:00
+ - tags: lockdown,covid
 
 
 ## Jordan Peterson: To Be Enlightened, You MUST Understand What EVIL Is | Jordan Peterson's Mind-Blowing SPEECH

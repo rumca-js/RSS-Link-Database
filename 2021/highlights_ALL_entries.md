@@ -2914,6 +2914,13 @@
  - tags: vaccine,mandates,wef
 
 
+## Bill Gates reportedly hoped Jeffrey Epstein would help him win a Nobel
+ - [https://nypost.com/2021/05/18/bill-gates-hoped-epstein-would-help-him-win-a-nobel-report/](https://nypost.com/2021/05/18/bill-gates-hoped-epstein-would-help-him-win-a-nobel-report/)
+ - RSS feed: https://nypost.com
+ - date published: 2021-05-18 15:59:39+00:00
+ - tags: gates,epstein,nobel
+
+
 ## Huge Eufy privacy breach shows live and recorded cam feeds to strangers [U: Statement]
  - [https://9to5mac.com/2021/05/17/huge-eufy-privacy-breach/](https://9to5mac.com/2021/05/17/huge-eufy-privacy-breach/)
  - RSS feed: https://9to5mac.com
@@ -2946,6 +2953,13 @@
  - RSS feed: https://nypost.com
  - date published: 2021-05-08 07:40:19+00:00
  - tags: pfizer,vaccine,covid
+
+
+## Report: China emissions exceed all developed nations combined
+ - [https://www.bbc.com/news/world-asia-57018837](https://www.bbc.com/news/world-asia-57018837)
+ - RSS feed: https://www.bbc.com
+ - date published: 2021-05-07 08:02:06+00:00
+ - tags: co2,climate change,pollution
 
 
 ## Modern "Freedom" Means Being a Slave to Impulses
@@ -3129,6 +3143,13 @@
  - RSS feed: https://nypost.com
  - date published: 2021-02-27 07:34:00+00:00
  - tags: bill gates,farmland
+
+
+## Rand Paul questions Rachel Levine on gender-affirming care for minors
+ - [https://www.youtube.com/watch?v=Krf0Cm-FKro](https://www.youtube.com/watch?v=Krf0Cm-FKro)
+ - RSS feed: https://www.youtube.com
+ - date published: 2021-02-25 08:33:35+00:00
+ - tags: gender,rand paul,rachel levine
 
 
 ## Yanis Varoufakis: Capitalism has become 'techno-feudalism' | UpFront

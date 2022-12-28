@@ -151,6 +151,13 @@
  - tags: uyghur,china,genocide,hypocrisy
 
 
+## A green wave of ESG is poised to break over China
+ - [https://www.weforum.org/agenda/2020/12/green-wave-of-esg-investment-is-breaking-in-china/](https://www.weforum.org/agenda/2020/12/green-wave-of-esg-investment-is-breaking-in-china/)
+ - RSS feed: https://www.weforum.org
+ - date published: 2020-12-04 08:11:34+00:00
+ - tags: esg,china
+
+
 ## Urząd będzie blokował strony internetowe. Kolejna granica przekroczona
  - [https://www.money.pl/gospodarka/urzad-bedzie-blokowal-strony-internetowe-kolejna-granica-przekroczona-6582516203985472a.html](https://www.money.pl/gospodarka/urzad-bedzie-blokowal-strony-internetowe-kolejna-granica-przekroczona-6582516203985472a.html)
  - RSS feed: www.money.pl

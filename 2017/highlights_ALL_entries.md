@@ -158,6 +158,13 @@
  - tags: surveillance,nsa
 
 
+## China has fished itself out of its own waters, so Chinese fishermen are now sticking their rods in other nations’ seas
+ - [https://qz.com/948980/china-has-fished-itself-out-of-its-own-waters-so-chinese-fishermen-are-now-sticking-their-rods-in-other-nations-seas](https://qz.com/948980/china-has-fished-itself-out-of-its-own-waters-so-chinese-fishermen-are-now-sticking-their-rods-in-other-nations-seas)
+ - RSS feed: https://qz.com
+ - date published: 2017-04-04 08:22:53+00:00
+ - tags: china,climate change,pollution
+
+
 ## No one went to prison after 2008 financial crisis — and the fault lies with us
  - [https://www.dallasnews.com/business/personal-finance/2017/02/13/no-one-went-to-prison-after-2008-financial-crisis-and-the-fault-lies-with-us/](https://www.dallasnews.com/business/personal-finance/2017/02/13/no-one-went-to-prison-after-2008-financial-crisis-and-the-fault-lies-with-us/)
  - RSS feed: https://www.dallasnews.com

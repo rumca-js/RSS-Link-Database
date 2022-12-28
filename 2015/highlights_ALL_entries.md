@@ -78,6 +78,13 @@
  - tags: epstein,billionairs
 
 
+## Chinese Cancer Villages Show The High Human Cost Of Industrialization
+ - [https://allthatsinteresting.com/chinese-cancer-villages](https://allthatsinteresting.com/chinese-cancer-villages)
+ - RSS feed: https://allthatsinteresting.com
+ - date published: 2015-01-22 08:04:30+00:00
+ - tags: co2,climate change,pollution
+
+
 ## WikiLeaks: Can Hillary Clinton survive 'cablegate'?
  - [https://theweek.com/articles/488919/wikileaks-hillary-clinton-survive-cablegate](https://theweek.com/articles/488919/wikileaks-hillary-clinton-survive-cablegate)
  - RSS feed: https://theweek.com

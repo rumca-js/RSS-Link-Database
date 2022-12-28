@@ -66,6 +66,13 @@
  - tags: rockefeller,gates,who
 
 
+## Coal Burning Causes the Most Air Pollution Deaths in China, Study Finds
+ - [https://www.nytimes.com/2016/08/18/world/asia/china-coal-health-smog-pollution.html](https://www.nytimes.com/2016/08/18/world/asia/china-coal-health-smog-pollution.html)
+ - RSS feed: https://www.nytimes.com
+ - date published: 2016-08-18 07:59:12+00:00
+ - tags: co2,climate change,pollution
+
+
 ## The Left’s New Weapon: ‘Diversity and Inclusion’
  - [https://www.lifezette.com/2016/07/lefts-new-weapon-diversity-inclusion/](https://www.lifezette.com/2016/07/lefts-new-weapon-diversity-inclusion/)
  - RSS feed: https://www.lifezette.com
