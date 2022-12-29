@@ -1,3 +1,35 @@
+## Mastodon founder says investors lining up since Elon Musk’s Twitter takeover
+ - [https://www.theguardian.com/technology/2022/dec/28/mastodon-founder-elon-musk-twitter-takeover](https://www.theguardian.com/technology/2022/dec/28/mastodon-founder-elon-musk-twitter-takeover)
+ - RSS feed: https://www.theguardian.com/international/rss
+ - date published: 2022-12-28 16:47:56+00:00
+ - tags: mastodon,free speech,censorship,moderation,twitter
+
+
+## Zelenskyy, BlackRock CEO Fink agree to coordinate Ukraine investment
+ - [https://www.cnbc.com/2022/12/28/zelenskyy-blackrock-ceo-fink-agree-to-coordinate-ukraine-investment.html](https://www.cnbc.com/2022/12/28/zelenskyy-blackrock-ceo-fink-agree-to-coordinate-ukraine-investment.html)
+ - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
+ - date published: 2022-12-28 11:54:37+00:00
+ - tags: war,zelensky,blackrock,ukraine
+
+
+## Epidemia grypy odbija się na firmach. Rekordowa liczba zwolnień lekarskich
+ - [https://businessinsider.com.pl/wiadomosci/epidemia-grypy-odbija-sie-na-firmach-rekordowa-liczba-zwolnien/2v5vnck](https://businessinsider.com.pl/wiadomosci/epidemia-grypy-odbija-sie-na-firmach-rekordowa-liczba-zwolnien/2v5vnck)
+ - RSS feed: https://businessinsider.com.pl/.feed
+ - date published: 2022-12-28 06:30:27+00:00
+
+
+## Change These 5 Google Home Settings ASAP
+ - [http://www.msn.com/en-us/news/technology/change-these-5-google-home-settings-asap/ar-AATb76i?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/change-these-5-google-home-settings-asap/ar-AATb76i?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-28 01:15:14.652543+00:00
+
+
+## Transgender pansexuality Australian Human Rights Commission video slammed as woke gender ideology
+ - [https://www.dailymail.co.uk/news/article-11577527/Transgender-pansexuality-Australian-Human-Rights-Commission-video-slammed-woke-gender-ideology.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11577527/Transgender-pansexuality-Australian-Human-Rights-Commission-video-slammed-woke-gender-ideology.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-27 23:59:01+00:00
+
+
 ## Republican George Santos admits lying on his CV
  - [https://www.bbc.co.uk/news/world-us-canada-64102086?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-64102086?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
@@ -2605,6 +2637,7 @@
  - [https://gizmodo.com/billionaires-are-funding-climate-destruction-1849753810](https://gizmodo.com/billionaires-are-funding-climate-destruction-1849753810)
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-11-07 20:44:25+00:00
+ - tags: billionaires,climate change
 
 
 ## Your Organization should run its own Mastodon server
@@ -2915,6 +2948,7 @@
  - [https://gizmodo.com/coca-cola-sponsor-cop27-climate-change-1849716645](https://gizmodo.com/coca-cola-sponsor-cop27-climate-change-1849716645)
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-11-02 17:57:00+00:00
+ - tags: coca-cola,pollution,climate change
 
 
 ## White House is forced to DELETE tweet claiming Biden gave seniors a record boost in Social Security
@@ -3563,6 +3597,7 @@
  - [https://www.forbes.com/sites/davidbressan/2022/10/27/the-scientists-warning-climate-change-has-pushed-earth-to-code-red/](https://www.forbes.com/sites/davidbressan/2022/10/27/the-scientists-warning-climate-change-has-pushed-earth-to-code-red/)
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-10-27 11:10:19+00:00
+ - tags: science,pollution,climate change
 
 
 ## 'Israel's actions against Palestinians must be recognized as equivalent to the crime of apartheid'
@@ -3834,6 +3869,7 @@
  - [https://www.maddyness.com/uk/2022/10/24/dont-let-the-great-esg-self-deception-infect-climate-tech-investing/](https://www.maddyness.com/uk/2022/10/24/dont-let-the-great-esg-self-deception-infect-climate-tech-investing/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-10-25 08:18:14+00:00
+ - tags: esg,pollution,climate change
 
 
 ## Is It Time To Put Biodiversity On Your ESG To-Do List?
@@ -6680,6 +6716,7 @@
  - [https://www.theguardian.com/science/2022/sep/10/cancer-breakthrough-is-a-wake-up-call-on-danger-of-air-pollution](https://www.theguardian.com/science/2022/sep/10/cancer-breakthrough-is-a-wake-up-call-on-danger-of-air-pollution)
  - RSS feed: www.theguardian.com
  - date published: 2022-09-10 16:12:36+00:00
+ - tags: pollution,cancer,climate change
 
 
 ## Miliony dawek zalegają w magazynach, a Polska kupuje nowe
@@ -8433,6 +8470,13 @@
  - date published: 2022-06-13 06:51:01.597070+00:00
 
 
+## ‘What is a woman?’ exposes the lunacy of pro-trans extremism
+ - [https://nypost.com/2022/06/12/what-is-a-woman-exposes-the-lunacy-of-pro-trans-extremism/](https://nypost.com/2022/06/12/what-is-a-woman-exposes-the-lunacy-of-pro-trans-extremism/)
+ - RSS feed: https://nypost.com
+ - date published: 2022-06-12 13:58:57+00:00
+ - tags: extremism,propaganda,feminism,sjw
+
+
 ## AirPlay network disaster
  - [https://mnpn.github.io/blog/airplay-network-disaster](https://mnpn.github.io/blog/airplay-network-disaster)
  - RSS feed: https://mnpn.github.io
@@ -8691,6 +8735,13 @@
  - [https://xeiaso.net/blog/we-have-go-2](https://xeiaso.net/blog/we-have-go-2)
  - RSS feed: https://xeiaso.net
  - date published: 2022-05-25 07:25:02.493514+00:00
+
+
+## At Davos, are leaders’ private jets and limos actually hurting climate-change efforts?
+ - [https://www.marketwatch.com/story/at-davos-are-leaders-private-jets-and-limos-actually-hurting-climate-change-efforts-11653414210](https://www.marketwatch.com/story/at-davos-are-leaders-private-jets-and-limos-actually-hurting-climate-change-efforts-11653414210)
+ - RSS feed: https://www.marketwatch.com
+ - date published: 2022-05-24 18:32:12+00:00
+ - tags: climate change,hypocrisy,wef,davos
 
 
 ## My Stance on Toxicity About Programming Languages - Xe

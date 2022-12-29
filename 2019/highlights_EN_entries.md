@@ -1,3 +1,10 @@
+## Dark Waters - movie
+ - [https://en.m.wikipedia.org/wiki/Dark_Waters_(2019_film)](https://en.m.wikipedia.org/wiki/Dark_Waters_(2019_film))
+ - RSS feed: https://en.m.wikipedia.org
+ - date published: 2019-12-28 18:17:56+00:00
+ - tags: dupoint,movies,pollution,climate change
+
+
 ## Spirited Away Revealed: The Real Mythology & Folklore Explained!
  - [https://www.youtube.com/watch?v=GRVpWwMXrl8](https://www.youtube.com/watch?v=GRVpWwMXrl8)
  - RSS feed: https://www.youtube.com
@@ -98,10 +105,24 @@
  - tags: bilionaires,epstein,eyes wide shut
 
 
+## The Green Swindlers Behind Greta Thunberg
+ - [https://greenjihad.com/2019/09/29/the-green-swindlers-behind-greta-thunberg/](https://greenjihad.com/2019/09/29/the-green-swindlers-behind-greta-thunberg/)
+ - RSS feed: https://greenjihad.com
+ - date published: 2019-09-29 20:06:07+00:00
+ - tags: greta,corporatocracy,thunberg,climate change
+
+
 ## Why Tesla is a Privacy Nightmare
  - [https://www.youtube.com/watch?v=Qjkt3X2WLrw](https://www.youtube.com/watch?v=Qjkt3X2WLrw)
  - RSS feed: https://www.youtube.com/@Techlore
  - date published: 2019-09-09 20:34:52+00:00
+
+
+## SWEDISH PR GURU RAISED MILLIONS BY HELPING MAKE GRETA THUNBERG A CLIMATE CELEBRITY
+ - [https://pluralist.com/ingmar-rentzhog-greta-thunberg/](https://pluralist.com/ingmar-rentzhog-greta-thunberg/)
+ - RSS feed: https://pluralist.com
+ - date published: 2019-08-25 19:03:53+00:00
+ - tags: greta,corporatocracy,thunberg,climate change
 
 
 ## Jeffrey Epstein Donations to M.I.T. Will Be Focus of University Inquiry
@@ -109,6 +130,13 @@
  - RSS feed: https://www.nytimes.com
  - date published: 2019-08-22 12:18:53+00:00
  - tags: donations,money,epstein,mit
+
+
+## Greta Thunberg and the plot to forge a climate warrior
+ - [https://www.thetimes.co.uk/article/greta-thunberg-and-the-plot-to-forge-a-climate-warrior-9blhz9mjv?region=global](https://www.thetimes.co.uk/article/greta-thunberg-and-the-plot-to-forge-a-climate-warrior-9blhz9mjv?region=global)
+ - RSS feed: https://www.thetimes.co.uk
+ - date published: 2019-08-18 20:04:55+00:00
+ - tags: greta,corporatocracy,thunberg,climate change
 
 
 ## Haunting photos show Jeffrey Epstein’s ‘Pedophile Island’ in the Caribbean
@@ -228,6 +256,13 @@
  - RSS feed: https://www.youtube.com/@JREClips
  - date published: 2019-02-20 20:54:35+00:00
  - tags: privacy
+
+
+## WEF defends jet-setting elites amid climate change agenda
+ - [https://www.cnbc.com/2019/01/25/wef-defends-jet-setting-elites-amid-climate-change-agenda.html](https://www.cnbc.com/2019/01/25/wef-defends-jet-setting-elites-amid-climate-change-agenda.html)
+ - RSS feed: https://www.cnbc.com
+ - date published: 2019-01-25 18:30:56+00:00
+ - tags: hypocrisy,wef,climate change
 
 
 ## The Media Needs to Keep You Angry. Don't Feed Into It

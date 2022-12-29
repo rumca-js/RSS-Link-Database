@@ -1,3 +1,17 @@
+## Dark Waters - movie
+ - [https://en.m.wikipedia.org/wiki/Dark_Waters_(2019_film)](https://en.m.wikipedia.org/wiki/Dark_Waters_(2019_film))
+ - RSS feed: https://en.m.wikipedia.org
+ - date published: 2019-12-28 18:17:56+00:00
+ - tags: dupoint,movies,pollution,climate change
+
+
+## “El Confidencial”: Strajki klimatyczne i wielki biznes. Za Gretą Thunberg stoją duże koncerny i fundusze
+ - [https://forsal.pl/artykuly/1443406,el-confidencial-strajki-klimatyczne-i-wielki-biznes-za-greta-thunberg-stoja-duze-koncerny-i-fundusze.html](https://forsal.pl/artykuly/1443406,el-confidencial-strajki-klimatyczne-i-wielki-biznes-za-greta-thunberg-stoja-duze-koncerny-i-fundusze.html)
+ - RSS feed: https://forsal.pl
+ - date published: 2019-12-06 18:52:18+00:00
+ - tags: greta,corporatocracy,thunberg,climate change
+
+
 ## Spirited Away Revealed: The Real Mythology & Folklore Explained!
  - [https://www.youtube.com/watch?v=GRVpWwMXrl8](https://www.youtube.com/watch?v=GRVpWwMXrl8)
  - RSS feed: https://www.youtube.com
@@ -98,6 +112,13 @@
  - tags: bilionaires,epstein,eyes wide shut
 
 
+## The Green Swindlers Behind Greta Thunberg
+ - [https://greenjihad.com/2019/09/29/the-green-swindlers-behind-greta-thunberg/](https://greenjihad.com/2019/09/29/the-green-swindlers-behind-greta-thunberg/)
+ - RSS feed: https://greenjihad.com
+ - date published: 2019-09-29 20:06:07+00:00
+ - tags: greta,corporatocracy,thunberg,climate change
+
+
 ## Efekt Snowdena - czy nasza prywatność w Internecie JEST BEZPIECZNA? [TOPOWA DYCHA]
  - [https://www.youtube.com/watch?v=f7_IX9NtjnI](https://www.youtube.com/watch?v=f7_IX9NtjnI)
  - RSS feed: https://www.youtube.com/@topowadycha
@@ -118,6 +139,13 @@
  - tags: media,axel springer
 
 
+## SWEDISH PR GURU RAISED MILLIONS BY HELPING MAKE GRETA THUNBERG A CLIMATE CELEBRITY
+ - [https://pluralist.com/ingmar-rentzhog-greta-thunberg/](https://pluralist.com/ingmar-rentzhog-greta-thunberg/)
+ - RSS feed: https://pluralist.com
+ - date published: 2019-08-25 19:03:53+00:00
+ - tags: greta,corporatocracy,thunberg,climate change
+
+
 ## Francja pierwszym krajem w Europie, który wprowadzi system masowej inwigilacji ludzi
  - [https://www.geekweek.pl/news/2019-10-07/francja-pierwszym-krajem-w-europie-ktory-wprowadzi-masowy-system-inwigilacji-ludzi/](https://www.geekweek.pl/news/2019-10-07/francja-pierwszym-krajem-w-europie-ktory-wprowadzi-masowy-system-inwigilacji-ludzi/)
  - RSS feed: www.geekweek.pl
@@ -135,6 +163,27 @@
  - RSS feed: https://www.nytimes.com
  - date published: 2019-08-22 12:18:53+00:00
  - tags: donations,money,epstein,mit
+
+
+## Oskarżenia pod adresem Grety Thunberg. „Stoją za nią PR-owcy i koncerny”
+ - [https://energetyka24.com/klimat/oskarzenia-pod-adresem-grety-thunberg-stoja-za-nia-pr-owcy-i-koncerny](https://energetyka24.com/klimat/oskarzenia-pod-adresem-grety-thunberg-stoja-za-nia-pr-owcy-i-koncerny)
+ - RSS feed: https://energetyka24.com
+ - date published: 2019-08-20 18:56:06+00:00
+ - tags: greta,corporatocracy,thunberg,climate change
+
+
+## Václav Klaus o Grecie Thunberg: "To całkowite szaleństwo naszych czasów!"
+ - [http://www.strefax.info/2019/08/vaclav-klaus-o-grecie-thunberg-to.html](http://www.strefax.info/2019/08/vaclav-klaus-o-grecie-thunberg-to.html)
+ - RSS feed: http://www.strefax.info
+ - date published: 2019-08-19 18:54:07+00:00
+ - tags: greta,corporatocracy,thunberg,climate change
+
+
+## Greta Thunberg and the plot to forge a climate warrior
+ - [https://www.thetimes.co.uk/article/greta-thunberg-and-the-plot-to-forge-a-climate-warrior-9blhz9mjv?region=global](https://www.thetimes.co.uk/article/greta-thunberg-and-the-plot-to-forge-a-climate-warrior-9blhz9mjv?region=global)
+ - RSS feed: https://www.thetimes.co.uk
+ - date published: 2019-08-18 20:04:55+00:00
+ - tags: greta,corporatocracy,thunberg,climate change
 
 
 ## Haunting photos show Jeffrey Epstein’s ‘Pedophile Island’ in the Caribbean
@@ -286,6 +335,13 @@
  - [https://www.smyku.pl/texts/zabija-nas-wszystkich.html](https://www.smyku.pl/texts/zabija-nas-wszystkich.html)
  - RSS feed: www.smyku.pl
  - date published: 2019-01-26 07:23:00+00:00
+
+
+## WEF defends jet-setting elites amid climate change agenda
+ - [https://www.cnbc.com/2019/01/25/wef-defends-jet-setting-elites-amid-climate-change-agenda.html](https://www.cnbc.com/2019/01/25/wef-defends-jet-setting-elites-amid-climate-change-agenda.html)
+ - RSS feed: https://www.cnbc.com
+ - date published: 2019-01-25 18:30:56+00:00
+ - tags: hypocrisy,wef,climate change
 
 
 ## The Media Needs to Keep You Angry. Don't Feed Into It

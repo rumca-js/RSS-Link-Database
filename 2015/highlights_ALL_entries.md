@@ -1,3 +1,10 @@
+## Paris Agreement
+ - [https://en.wikipedia.org/wiki/Paris_Agreement](https://en.wikipedia.org/wiki/Paris_Agreement)
+ - RSS feed: https://en.wikipedia.org
+ - date published: 2015-12-28 20:09:12+00:00
+ - tags: climate change
+
+
 ## Prezydent Kennedy o tajnych stowarzyszeniach i światowym spisku
  - [https://www.youtube.com/watch?v=HwpgfgAbxYM](https://www.youtube.com/watch?v=HwpgfgAbxYM)
  - RSS feed: https://www.youtube.com/@quidestveritas4570

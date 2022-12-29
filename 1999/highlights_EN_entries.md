@@ -11,9 +11,3 @@
  - date published: 1999-12-28 18:10:17+00:00
  - tags: example,pollution,billot
 
-
-## Why I wrote PGP
- - [https://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html](https://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html)
- - RSS feed: www.philzimmermann.com
- - date published: 1999-09-08 19:26:27+00:00
-

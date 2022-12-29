@@ -1,3 +1,10 @@
+## “El Confidencial”: Strajki klimatyczne i wielki biznes. Za Gretą Thunberg stoją duże koncerny i fundusze
+ - [https://forsal.pl/artykuly/1443406,el-confidencial-strajki-klimatyczne-i-wielki-biznes-za-greta-thunberg-stoja-duze-koncerny-i-fundusze.html](https://forsal.pl/artykuly/1443406,el-confidencial-strajki-klimatyczne-i-wielki-biznes-za-greta-thunberg-stoja-duze-koncerny-i-fundusze.html)
+ - RSS feed: https://forsal.pl
+ - date published: 2019-12-06 18:52:18+00:00
+ - tags: greta,corporatocracy,thunberg,climate change
+
+
 ## Efekt Snowdena - czy nasza prywatność w Internecie JEST BEZPIECZNA? [TOPOWA DYCHA]
  - [https://www.youtube.com/watch?v=f7_IX9NtjnI](https://www.youtube.com/watch?v=f7_IX9NtjnI)
  - RSS feed: https://www.youtube.com/@topowadycha
@@ -16,6 +23,13 @@
  - [https://www.geekweek.pl/news/2019-10-07/francja-pierwszym-krajem-w-europie-ktory-wprowadzi-masowy-system-inwigilacji-ludzi/](https://www.geekweek.pl/news/2019-10-07/francja-pierwszym-krajem-w-europie-ktory-wprowadzi-masowy-system-inwigilacji-ludzi/)
  - RSS feed: www.geekweek.pl
  - date published: 2019-08-24 13:09:09+00:00
+
+
+## Oskarżenia pod adresem Grety Thunberg. „Stoją za nią PR-owcy i koncerny”
+ - [https://energetyka24.com/klimat/oskarzenia-pod-adresem-grety-thunberg-stoja-za-nia-pr-owcy-i-koncerny](https://energetyka24.com/klimat/oskarzenia-pod-adresem-grety-thunberg-stoja-za-nia-pr-owcy-i-koncerny)
+ - RSS feed: https://energetyka24.com
+ - date published: 2019-08-20 18:56:06+00:00
+ - tags: greta,corporatocracy,thunberg,climate change
 
 
 ## Koniec naszego świata

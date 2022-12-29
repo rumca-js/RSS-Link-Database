@@ -413,6 +413,7 @@
  - [https://www.youtube.com/watch?v=uqwvf6R1_QY](https://www.youtube.com/watch?v=uqwvf6R1_QY)
  - RSS feed: https://www.youtube.com/c/UpIsNotJump
  - date published: 2020-07-09 07:33:22+00:00
+ - tags: science,pollution,climate change
 
 
 ## Confessions Of A Dead Man: Personal Driver Of Jeffrey Epstein And Other Elites Tells All
@@ -577,6 +578,20 @@
  - RSS feed: https://en.wikipedia.org
  - date published: 2020-01-16 11:26:30+00:00
  - tags: history,covid
+
+
+## Facebook Glitch Reveals Greta Thunberg’s Posts Are Written by Her Father: Report
+ - [https://www.thegatewaypundit.com/2020/01/facebook-glitch-reveals-greta-thunbergs-posts-are-written-by-her-father-report/](https://www.thegatewaypundit.com/2020/01/facebook-glitch-reveals-greta-thunbergs-posts-are-written-by-her-father-report/)
+ - RSS feed: https://www.thegatewaypundit.com
+ - date published: 2020-01-14 19:00:28+00:00
+ - tags: hypocrisy,climate change,greta,corporatocracy,thunberg
+
+
+## Facebook Glitch Reveals Father, Activist Behind Greta Thunberg’s Facebook Page. Greta Responds.
+ - [https://www.dailywire.com/news/facebook-glitch-reveals-father-activist-behind-greta-thunbergs-facebook-page-greta-responds](https://www.dailywire.com/news/facebook-glitch-reveals-father-activist-behind-greta-thunbergs-facebook-page-greta-responds)
+ - RSS feed: https://www.dailywire.com
+ - date published: 2020-01-13 19:01:16+00:00
+ - tags: greta,corporatocracy,thunberg,climate change
 
 
 ## Ring Fired Employees for Watching Customer Videos
