@@ -153,6 +153,13 @@
  - tags: china,climate change,pollution
 
 
+## Noam Chomsky - The 5 Filters of the Mass Media Machine
+ - [https://www.youtube.com/watch?v=34LGPIXvU5M](https://www.youtube.com/watch?v=34LGPIXvU5M)
+ - RSS feed: https://www.youtube.com
+ - date published: 2017-03-02 21:06:22+00:00
+ - tags: chomsky,propaganda,all time
+
+
 ## No one went to prison after 2008 financial crisis — and the fault lies with us
  - [https://www.dallasnews.com/business/personal-finance/2017/02/13/no-one-went-to-prison-after-2008-financial-crisis-and-the-fault-lies-with-us/](https://www.dallasnews.com/business/personal-finance/2017/02/13/no-one-went-to-prison-after-2008-financial-crisis-and-the-fault-lies-with-us/)
  - RSS feed: https://www.dallasnews.com

@@ -1,3 +1,16 @@
+## Pandemia się dla nich nie skończyła. Większość Niemców chce utrzymania restrykcji covidowych
+ - [https://forsal.pl/lifestyle/zdrowie/artykuly/8621235,niemcy-restrykcje-covidowe-sondaz.html](https://forsal.pl/lifestyle/zdrowie/artykuly/8621235,niemcy-restrykcje-covidowe-sondaz.html)
+ - RSS feed: https://forsal.pl/.feed
+ - date published: 2022-12-29 16:23:33+00:00
+
+
+## Allegro ma, delikatnie mówiąc, prze***ane. UOKiK wymierzy spółce ponad 210 mln zł kary
+ - [https://www.chip.pl/2022/12/allegro-uokik-kary-210-mln-zl](https://www.chip.pl/2022/12/allegro-uokik-kary-210-mln-zl)
+ - RSS feed: https://www.chip.pl/feed
+ - date published: 2022-12-29 14:10:31+00:00
+ - tags: amazon,allegro,monopoly
+
+
 ## Największe holenderskie banki wprowadziły opłaty na pokrycie kosztów kontroli prania pieniędzy
  - [https://forsal.pl/biznes/bankowosc/artykuly/8618385,holandia-banki-oplaty-kontrola-prania-pieniedzy.html](https://forsal.pl/biznes/bankowosc/artykuly/8618385,holandia-banki-oplaty-kontrola-prania-pieniedzy.html)
  - RSS feed: https://forsal.pl/.feed
@@ -1773,6 +1786,13 @@
  - RSS feed: wiadomosci.wp.pl
  - date published: 2022-05-20 07:01:17+00:00
  - tags: covid
+
+
+## Crypto CEO Accidentally Describes Ponzi Scheme
+ - [https://www.youtube.com/watch?v=C6nAxiym9oc](https://www.youtube.com/watch?v=C6nAxiym9oc)
+ - RSS feed: https://www.youtube.com
+ - date published: 2022-04-26 14:14:07+00:00
+ - tags: fraud,ftx,ponzie,crypto,coffeezilla
 
 
 ## Stop Validating Email Addresses With Regex

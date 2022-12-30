@@ -2502,6 +2502,13 @@
  - tags: privacy,tracking,covid
 
 
+## Fauci Doubles Down: People Who Criticize Me Are ‘Actually Criticizing Science’
+ - [https://www.breitbart.com/science/2021/06/21/fauci-doubles-down-people-who-criticize-me-are-actually-criticizing-science/](https://www.breitbart.com/science/2021/06/21/fauci-doubles-down-people-who-criticize-me-are-actually-criticizing-science/)
+ - RSS feed: https://www.breitbart.com
+ - date published: 2021-06-21 17:24:57+00:00
+ - tags: science,fauci,covid
+
+
 ## He authorized Moderna's vaccine 6 months ago. Now, ex-FDA chief Hahn joins biotech's backer
  - [https://www.fiercebiotech.com/biotech/six-months-after-granting-moderna-covid-19-eua-ex-fda-commish-joins-biotech-s-founding](https://www.fiercebiotech.com/biotech/six-months-after-granting-moderna-covid-19-eua-ex-fda-commish-joins-biotech-s-founding)
  - RSS feed: www.fiercebiotech.com

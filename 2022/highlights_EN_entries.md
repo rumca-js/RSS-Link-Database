@@ -1,8 +1,35 @@
+## Elon Musk slams Fauci for infamous 'I am science' quote that refuted all criticism of COVID policy
+ - [https://www.dailymail.co.uk/news/article-11582583/Elon-Musk-slams-Fauci-infamous-science-quote-refuted-criticism-COVID-policy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11582583/Elon-Musk-slams-Fauci-infamous-science-quote-refuted-criticism-COVID-policy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-29 17:05:56+00:00
+
+
+## Google Probably Knows Where You Went for the Holidays. Here's How to Stop It
+ - [http://www.msn.com/en-us/news/technology/google-probably-knows-where-you-went-for-the-holidays-here-s-how-to-stop-it/ar-AAM5YFv?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/google-probably-knows-where-you-went-for-the-holidays-here-s-how-to-stop-it/ar-AAM5YFv?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-29 09:21:12.403807+00:00
+ - tags: tracking,privacy,google
+
+
+## ESG Is Not About Ethical Standards And Ethical Values
+ - [https://www.forbes.com/sites/bobeccles/2022/12/29/esg-is-not-about-ethical-standards-and-ethical-values/](https://www.forbes.com/sites/bobeccles/2022/12/29/esg-is-not-about-ethical-standards-and-ethical-values/)
+ - RSS feed: https://www.forbes.com/innovation/feed2
+ - date published: 2022-12-29 07:16:59+00:00
+ - tags: esg,blackrock
+
+
 ## Mastodon founder says investors lining up since Elon Musk’s Twitter takeover
  - [https://www.theguardian.com/technology/2022/dec/28/mastodon-founder-elon-musk-twitter-takeover](https://www.theguardian.com/technology/2022/dec/28/mastodon-founder-elon-musk-twitter-takeover)
  - RSS feed: https://www.theguardian.com/international/rss
  - date published: 2022-12-28 16:47:56+00:00
  - tags: mastodon,free speech,censorship,moderation,twitter
+
+
+## Facebook addiction increases depression severity among already depressed people
+ - [https://www.psypost.org/2022/12/facebook-addiction-increases-depression-severity-among-people-who-are-already-depressed-64586](https://www.psypost.org/2022/12/facebook-addiction-increases-depression-severity-among-people-who-are-already-depressed-64586)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-28 13:39:31+00:00
+ - tags: social media,facebook,depression,meta
 
 
 ## Zelenskyy, BlackRock CEO Fink agree to coordinate Ukraine investment
@@ -24,6 +51,13 @@
  - date published: 2022-12-28 01:15:14.652543+00:00
 
 
+## US military biometric capture devices loaded with data were sold on eBay
+ - [https://www.theverge.com/2022/12/27/23528338/us-military-biometric-devices-fingerprints-pictures-iris-scans-afghanistan](https://www.theverge.com/2022/12/27/23528338/us-military-biometric-devices-fingerprints-pictures-iris-scans-afghanistan)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2022-12-28 00:21:14+00:00
+ - tags: data,leak,privacy
+
+
 ## Transgender pansexuality Australian Human Rights Commission video slammed as woke gender ideology
  - [https://www.dailymail.co.uk/news/article-11577527/Transgender-pansexuality-Australian-Human-Rights-Commission-video-slammed-woke-gender-ideology.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11577527/Transgender-pansexuality-Australian-Human-Rights-Commission-video-slammed-woke-gender-ideology.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
@@ -34,6 +68,12 @@
  - [https://www.bbc.co.uk/news/world-us-canada-64102086?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-64102086?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-12-27 14:37:25+00:00
+
+
+## Top Biden Official Pushed Big Tech To Censor ‘Misinformation’ On Trans ‘Care’ For Minors, Video Shows
+ - [https://www.dailywire.com/news/top-biden-official-pushed-big-tech-to-censor-misinformation-on-trans-care-for-minors-video-shows](https://www.dailywire.com/news/top-biden-official-pushed-big-tech-to-censor-misinformation-on-trans-care-for-minors-video-shows)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-27 10:53:51+00:00
 
 
 ## The BBC spent more than £7MILLION on new logos: Cost of 'modern' rebranding is revealed
@@ -1273,6 +1313,13 @@
  - tags: politics,inflation,all time,economy
 
 
+## Coffeezilla claims FTX founder Sam Bankman-Fried admitted “fraud” in interview
+ - [https://www.dexerto.com/entertainment/coffeezilla-claims-ftx-founder-sam-bankman-fried-admitted-fraud-in-interview-2005507/](https://www.dexerto.com/entertainment/coffeezilla-claims-ftx-founder-sam-bankman-fried-admitted-fraud-in-interview-2005507/)
+ - RSS feed: https://www.dexerto.com
+ - date published: 2022-12-08 14:11:59+00:00
+ - tags: fraud,ftx,ponzie,crypto,coffeezilla
+
+
 ## How Kurzgesagt Cooks Propaganda For Billionaires
  - [https://www.youtube.com/watch?v=HjHMoNGqQTI](https://www.youtube.com/watch?v=HjHMoNGqQTI)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCjr2bPAyPV7t35MvcgT3W8Q
@@ -1449,6 +1496,13 @@
  - [https://www.theepochtimes.com/meta-threatens-to-pull-all-news-from-platform-if-congress-passes-media-big-tech-bargaining-bill_4905966.html](https://www.theepochtimes.com/meta-threatens-to-pull-all-news-from-platform-if-congress-passes-media-big-tech-bargaining-bill_4905966.html)
  - RSS feed: https://www.theepochtimes.com/c-tech/feed/
  - date published: 2022-12-06 06:35:08+00:00
+
+
+## Elon Musk says PayPal is moving in the “direction of social credit”
+ - [https://reclaimthenet.org/elon-musk-elon-musk-social-credit/](https://reclaimthenet.org/elon-musk-elon-musk-social-credit/)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2022-12-05 19:44:43+00:00
+ - tags: paypal,social credit,big brother
 
 
 ## Ben Shapiro: Twitter Files Show 2020 Was Rigged (Not Stolen), But Trump Is Hurting Himself
@@ -1883,6 +1937,12 @@
  - date published: 2022-11-27 22:55:46+00:00
 
 
+## Florida AG says it’s ‘not rocket science’ why so many Americans are flocking to Sunshine State
+ - [https://www.foxnews.com/politics/florida-ag-not-rocket-science-why-americans-flocking-sunshine-state](https://www.foxnews.com/politics/florida-ag-not-rocket-science-why-americans-flocking-sunshine-state)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2022-11-27 18:44:55+00:00
+
+
 ## Mastodon: Servers, Good and Bad
  - [https://nedbatchelder.com/blog/202211/mastodon_servers_good_and_bad.html](https://nedbatchelder.com/blog/202211/mastodon_servers_good_and_bad.html)
  - RSS feed: https://hnrss.org/frontpage
@@ -1956,6 +2016,12 @@
  - [https://www.dailywire.com/news/animated-gay-teen-romance-film-is-woke-disneys-latest-box-office-bomb](https://www.dailywire.com/news/animated-gay-teen-romance-film-is-woke-disneys-latest-box-office-bomb)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-26 11:42:23+00:00
+
+
+## The Science for Determining Climate-Change Damage Is Unsettled
+ - [https://www.wsj.com/articles/the-science-for-determining-climate-change-damage-is-unsettled-11669436469](https://www.wsj.com/articles/the-science-for-determining-climate-change-damage-is-unsettled-11669436469)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+ - date published: 2022-11-26 10:30:00+00:00
 
 
 ## Site Update: Version 3.0 - Xe Iaso
@@ -2806,6 +2872,13 @@
  - tags: vpn,google
 
 
+## AstraZeneca patients data exposed for over a year due to password snafu
+ - [https://techcrunch.com/2022/11/03/astrazeneca-passwords-exposed-patient-data/](https://techcrunch.com/2022/11/03/astrazeneca-passwords-exposed-patient-data/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-11-04 12:53:39+00:00
+ - tags: leak,astrazeneca,privacy
+
+
 ## Organizing 1,700 Resistors in a Ring Binder
  - [https://madebynathan.com/posts/2022-10-30-e24-resistor-pack-ring-binder/#what-are-resistors](https://madebynathan.com/posts/2022-10-30-e24-resistor-pack-ring-binder/#what-are-resistors)
  - RSS feed: https://madebynathan.com
@@ -3206,6 +3279,13 @@
  - date published: 2022-10-31 13:25:33+00:00
 
 
+## Massive pandemic relief fraud has Congress eyeing digital IDs
+ - [https://arstechnica.com/?p=1893288](https://arstechnica.com/?p=1893288)
+ - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
+ - date published: 2022-10-31 13:00:14+00:00
+ - tags: fraud,digital id,pandemic,covid
+
+
 ## World jobs boom halted by Ukraine war and recession risk, says ILO
  - [https://www.theguardian.com/business/2022/oct/31/world-jobs-ukraine-war-recession-ilo-covid-pandemic](https://www.theguardian.com/business/2022/oct/31/world-jobs-ukraine-war-recession-ilo-covid-pandemic)
  - RSS feed: https://www.theguardian.com/international/rss
@@ -3350,7 +3430,7 @@
  - [https://www.cnet.com/culture/entertainment/netflixs-password-sharing-crackdown-is-coming/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/netflixs-password-sharing-crackdown-is-coming/#ftag=CADf328eec)
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-29 14:24:49+00:00
- - tags: streaming,netflix,ad business
+ - tags: netflix,ad business,streaming
 
 
 ## Twitter could split into strands allowing users to stage rows, Elon Musk says
@@ -3548,6 +3628,12 @@
  - [https://www.dailywire.com/news/fbi-whistleblower-leaks-document-to-project-veritas-showing-agency-allegedly-labeling-misinformation-under-election-crimes](https://www.dailywire.com/news/fbi-whistleblower-leaks-document-to-project-veritas-showing-agency-allegedly-labeling-misinformation-under-election-crimes)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-27 17:18:42+00:00
+
+
+## No, PayPal Didn’t Bring Back Its $2,500 Misinformation Penalty, But They Still May Fine You For Other Concerning Reasons
+ - [https://www.dailywire.com/news/no-paypal-didnt-bring-back-its-2500-misinformation-penalty-but-they-still-may-fine-you-for-other-concerning-reasons](https://www.dailywire.com/news/no-paypal-didnt-bring-back-its-2500-misinformation-penalty-but-they-still-may-fine-you-for-other-concerning-reasons)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-10-27 17:04:08+00:00
 
 
 ## Followers of QAnon Satanic pedophile elite theory JUMPED 5% this year to 49 million
@@ -4368,6 +4454,12 @@
  - date published: 2022-10-18 16:57:52+00:00
 
 
+## Moderna CEO Splits With CDC On COVID Booster Shots For Healthy Folks Under 50
+ - [https://www.dailywire.com/news/moderna-ceo-splits-with-cdc-on-covid-booster-shots-for-healthy-folks-under-50](https://www.dailywire.com/news/moderna-ceo-splits-with-cdc-on-covid-booster-shots-for-healthy-folks-under-50)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-10-18 14:36:23+00:00
+
+
 ## Tim Allen Trolls ‘Wokees,’ Asks The Question Everyone Is Wondering About This Group
  - [https://www.dailywire.com/news/tim-allen-trolls-wokees-asks-the-question-everyone-is-wondering-about-this-group](https://www.dailywire.com/news/tim-allen-trolls-wokees-asks-the-question-everyone-is-wondering-about-this-group)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
@@ -4637,6 +4729,12 @@
  - date published: 2022-10-11 11:45:00+00:00
 
 
+## PayPal CEO’s Interview With World Economic Forum Could Suggest Mentality Behind Backtracked ‘Misinformation’ Penalty
+ - [https://www.dailywire.com/news/paypal-ceos-interview-with-world-economic-forum-could-suggest-mentality-behind-backtracked-misinformation-penalty](https://www.dailywire.com/news/paypal-ceos-interview-with-world-economic-forum-could-suggest-mentality-behind-backtracked-misinformation-penalty)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-10-11 11:34:10+00:00
+
+
 ## Elon Musk reveals he has spoken to Kanye West and 'expressed concerns' over his anti-Semitic tweets
  - [https://www.dailymail.co.uk/news/article-11302099/Elon-Musk-reveals-spoken-Kanye-West-expressed-concerns-anti-Semitic-tweets.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11302099/Elon-Musk-reveals-spoken-Kanye-West-expressed-concerns-anti-Semitic-tweets.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
@@ -4713,6 +4811,12 @@
  - [https://www.bbc.co.uk/news/entertainment-arts-63198991?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/entertainment-arts-63198991?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-10 10:41:46+00:00
+
+
+## BREAKING: PayPal Stock Plummets After Daily Wire Report Exposes Shocking ‘Misinformation’ Policy
+ - [https://www.dailywire.com/news/breaking-paypal-stock-plummets-after-daily-wire-report-exposes-shocking-misinformation-policy](https://www.dailywire.com/news/breaking-paypal-stock-plummets-after-daily-wire-report-exposes-shocking-misinformation-policy)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-10-10 09:59:33+00:00
 
 
 ## 12,000 Facebook employees, 15% of its workforce, may lose jobs amid quiet layoff
@@ -5753,6 +5857,12 @@
  - tags: censorship,youtube,covid
 
 
+## Jack Dee closes Paypal account after online payments giant cancels Free Speech Union
+ - [https://www.dailymail.co.uk/news/article-11242183/Jack-Dee-closes-Paypal-account-online-payments-giant-cancels-Free-Speech-Union.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11242183/Jack-Dee-closes-Paypal-account-online-payments-giant-cancels-Free-Speech-Union.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-09-23 08:40:28+00:00
+
+
 ## Ukraine war: Russians flee to border after military call-up - BBC News
  - [https://www.bbc.com/news/world-europe-62996212](https://www.bbc.com/news/world-europe-62996212)
  - RSS feed: https://www.bbc.com
@@ -5953,6 +6063,12 @@
  - [https://www.cnn.com/2022/09/21/world/coronavirus-newsletter-intl-07-21-22/index.html](https://www.cnn.com/2022/09/21/world/coronavirus-newsletter-intl-07-21-22/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-21 11:55:17+00:00
+
+
+## PayPal Demonetises the Daily Sceptic
+ - [https://dailysceptic.org/2022/09/21/paypal-demonetises-the-daily-sceptic/](https://dailysceptic.org/2022/09/21/paypal-demonetises-the-daily-sceptic/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-09-21 11:33:32+00:00
 
 
 ## FBI Suspends Whistleblower Who Criticized Bureau’s Handling Of January 6 Investigations: Report
@@ -10534,6 +10650,13 @@
  - [https://www.adyen.com/blog/updating-a-50-terabyte-postgresql-database](https://www.adyen.com/blog/updating-a-50-terabyte-postgresql-database)
  - RSS feed: https://www.adyen.com
  - date published: 2022-01-14 14:53:50.584785+00:00
+
+
+## North Korea hackers stole $400m of cryptocurrency in 2021, report says
+ - [https://www.bbc.com/news/business-59990477](https://www.bbc.com/news/business-59990477)
+ - RSS feed: https://www.bbc.com
+ - date published: 2022-01-14 13:52:04+00:00
+ - tags: hackers,north korea,crypto
 
 
 ## How I plan - stitcher.io
