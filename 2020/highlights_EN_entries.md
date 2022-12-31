@@ -56,6 +56,13 @@
  - date published: 2020-12-21 12:04:50+00:00
 
 
+## Anti-lockdown protesters arrested as hundreds gather in central London just hours before tier 4 announcement
+ - [https://www.independent.co.uk/news/uk/anti-lockdown-protest-arrest-police-tier-4-b1776545.html](https://www.independent.co.uk/news/uk/anti-lockdown-protest-arrest-police-tier-4-b1776545.html)
+ - RSS feed: https://www.independent.co.uk
+ - date published: 2020-12-20 10:16:49+00:00
+ - tags: uk,london,protest,england,lockdown,covid
+
+
 ## WHO (finally) admits PCR tests create false positives
  - [https://off-guardian.org/2020/12/18/who-finally-admits-pcr-tests-create-false-positives/](https://off-guardian.org/2020/12/18/who-finally-admits-pcr-tests-create-false-positives/)
  - RSS feed: https://off-guardian.org
@@ -130,6 +137,13 @@
  - RSS feed: https://www.weforum.org
  - date published: 2020-12-04 08:11:34+00:00
  - tags: esg,china
+
+
+## Journalists across EU face wave of attacks covering anti-lockdown protests
+ - [https://ipi.media/journalists-across-eu-face-wave-of-attacks-covering-anti-lockdown-protests/](https://ipi.media/journalists-across-eu-face-wave-of-attacks-covering-anti-lockdown-protests/)
+ - RSS feed: https://ipi.media
+ - date published: 2020-12-03 10:13:24+00:00
+ - tags: lockdown,covid,mainstream media,protest
 
 
 ## Coronavirus vaccine: Pfizer given protection from legal action by UK government

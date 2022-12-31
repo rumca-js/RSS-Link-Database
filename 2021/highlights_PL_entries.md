@@ -114,6 +114,13 @@
  - date published: 2021-05-05 07:26:08+00:00
 
 
+## „Nie szczepisz się, nie pracujesz z ludźmi”. Dyrektor UCK wzywa do wprowadzenia szczepionkowych sankcji
+ - [https://m.pch24.pl/nie-szczepisz-sie-nie-pracujesz-z-ludzmi-lekarz-wzywa-do-wprowadzenia-szczepionkowych-sankcji/](https://m.pch24.pl/nie-szczepisz-sie-nie-pracujesz-z-ludzmi-lekarz-wzywa-do-wprowadzenia-szczepionkowych-sankcji/)
+ - RSS feed: https://m.pch24.pl
+ - date published: 2021-04-17 14:11:45+00:00
+ - tags: mandates,covid,vaccine
+
+
 ## Dyrektor CNN: Nakręcaliśmy zgony covidowe dla zwiększenia ratingów
  - [https://www.tvp.info/53301671/nagrania-dyrektora-cnn-charlie-chester-mowi-o-nakrecaniu-zgonow-na-covid-19-ujawnione-nagrania-donald-trump-i-epidemia-koronawirusa-w-usa](https://www.tvp.info/53301671/nagrania-dyrektora-cnn-charlie-chester-mowi-o-nakrecaniu-zgonow-na-covid-19-ujawnione-nagrania-donald-trump-i-epidemia-koronawirusa-w-usa)
  - RSS feed: https://www.tvp.info
@@ -141,6 +148,13 @@
  - tags: pedophilia,germany,government,kentler
 
 
+## WHO odrzuca planowane unijne paszporty szczepień
+ - [https://www.dw.com/pl/who-odrzuca-planowane-unijne-paszporty-szczepie%C5%84/a-56793688](https://www.dw.com/pl/who-odrzuca-planowane-unijne-paszporty-szczepie%C5%84/a-56793688)
+ - RSS feed: https://www.dw.com
+ - date published: 2021-03-06 14:06:37+00:00
+ - tags: who,vaccine,passport,covid,digital id
+
+
 ## Ilu lekarzy faktycznie jest już zaszczepionych?
  - [https://www.medonet.pl/porozmawiajmyoszczepionce/szczepionka-na-covid-19,szczepienia-na-covid-19--ilu-lekarzy-jest-juz-zaszczepionych--sprzeczne-dane,artykul,41949295.html](https://www.medonet.pl/porozmawiajmyoszczepionce/szczepionka-na-covid-19,szczepienia-na-covid-19--ilu-lekarzy-jest-juz-zaszczepionych--sprzeczne-dane,artykul,41949295.html)
  - RSS feed: www.medonet.pl
@@ -155,6 +169,13 @@
  - tags: covid
 
 
+## Segregacja sanitarna na świecie. W Izraelu działa od tygodnia, a w innych krajach?
+ - [https://naszapolska.pl/2021/02/28/segregacja-sanitarna-na-swiecie-w-izraelu-dziala-od-tygodnia-a-w-innych-krajach/](https://naszapolska.pl/2021/02/28/segregacja-sanitarna-na-swiecie-w-izraelu-dziala-od-tygodnia-a-w-innych-krajach/)
+ - RSS feed: https://naszapolska.pl
+ - date published: 2021-02-28 14:05:08+00:00
+ - tags: israel,covid,vaccine,segregation,mandates
+
+
 ## "Kanadyjczycy są aresztowani i wywożeni". Prawnicy reagują na koronawirusowe restrykcje
  - [https://www.polsatnews.pl/wiadomosc/2021-02-04/kanadyjczycy-sa-aresztowani-i-wywozeni-prawnicy-reaguja-na-koronawirusowe-restrykcje](https://www.polsatnews.pl/wiadomosc/2021-02-04/kanadyjczycy-sa-aresztowani-i-wywozeni-prawnicy-reaguja-na-koronawirusowe-restrykcje)
  - RSS feed: https://www.polsatnews.pl
@@ -162,10 +183,31 @@
  - tags: canada,covid
 
 
+## "Kanadyjczycy są aresztowani i wywożeni". Prawnicy reagują na koronawirusowe restrykcje
+ - [https://www.polsatnews.pl/wiadomosc/2021-02-04/kanadyjczycy-sa-aresztowani-i-wywozeni-prawnicy-reaguja-na-koronawirusowe-restrykcje/](https://www.polsatnews.pl/wiadomosc/2021-02-04/kanadyjczycy-sa-aresztowani-i-wywozeni-prawnicy-reaguja-na-koronawirusowe-restrykcje/)
+ - RSS feed: https://www.polsatnews.pl
+ - date published: 2021-02-04 14:13:23+00:00
+ - tags: isolation,covid,canada,vaccine
+
+
+## Rada Europy - "Brak obowiązku szczepienia!"
+ - [https://www.p-tv.nl/wiadomosci/306,rada-europy-brak-obowiazku-szczepienia](https://www.p-tv.nl/wiadomosci/306,rada-europy-brak-obowiazku-szczepienia)
+ - RSS feed: https://www.p-tv.nl
+ - date published: 2021-02-03 14:03:36+00:00
+ - tags: vaccine,segregation,mandates,covid
+
+
 ## Rząd nowelizuje ustawę o cyberbezpieczeństwie. Będzie mógł wyłączać serwisy internetowe bez uzasadnienia
  - [https://www.komputerswiat.pl/aktualnosci/internet/rzad-nowelizuje-ustawe-o-cyberbezpieczenstwie-bedzie-mogl-wylaczac-serwisy/wnhl9hg](https://www.komputerswiat.pl/aktualnosci/internet/rzad-nowelizuje-ustawe-o-cyberbezpieczenstwie-bedzie-mogl-wylaczac-serwisy/wnhl9hg)
  - RSS feed: www.komputerswiat.pl
  - date published: 2021-01-29 13:08:11+00:00
+
+
+## Niemcy: Złamiesz kwarantannę - trafisz do obozu
+ - [https://www.rp.pl/swiat/art8695031-niemcy-zlamiesz-kwarantanne-trafisz-do-obozu](https://www.rp.pl/swiat/art8695031-niemcy-zlamiesz-kwarantanne-trafisz-do-obozu)
+ - RSS feed: https://www.rp.pl
+ - date published: 2021-01-21 14:12:34+00:00
+ - tags: vaccine,camps,germany
 
 
 ## "Economist": Świat nie może pozwolić oligopolom technologicznym na przejęcie kontroli nad podstawowymi swobodami

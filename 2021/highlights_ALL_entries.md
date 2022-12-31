@@ -287,13 +287,20 @@
  - [https://www.pokoleniex.com/swiat/2021/12/14/pierwsze-poufne-dokumenty-pfizera-ujawnione-z-nakazu-sadowego](https://www.pokoleniex.com/swiat/2021/12/14/pierwsze-poufne-dokumenty-pfizera-ujawnione-z-nakazu-sadowego)
  - RSS feed: https://www.pokoleniex.com
  - date published: 2021-12-14 11:33:54+00:00
- - tags: pfizer,fda,vaccine
+ - tags: covid,pfizer,fda,vaccine
 
 
 ## "Pierwsze ""poufne"" dokumenty Pfizera ujawnione z nakazu sądowego"
  - [https://www.pokoleniex.com/swiat/2021/12/14/pierwsze-poufne-dokumenty-pfizera-ujawnione-z-nakazu-sadowego/](https://www.pokoleniex.com/swiat/2021/12/14/pierwsze-poufne-dokumenty-pfizera-ujawnione-z-nakazu-sadowego/)
  - RSS feed: www.pokoleniex.com
  - date published: 2021-12-14 07:05:12+00:00
+
+
+## The price of ‘freedom’: How anti-lockdown protest leaders make money from the movement
+ - [https://www.smh.com.au/national/the-price-of-freedom-how-anti-lockdown-protest-leaders-make-money-from-the-movement-20211130-p59de5.html](https://www.smh.com.au/national/the-price-of-freedom-how-anti-lockdown-protest-leaders-make-money-from-the-movement-20211130-p59de5.html)
+ - RSS feed: https://www.smh.com.au
+ - date published: 2021-12-12 10:00:50+00:00
+ - tags: australia,lockdown,covid,money
 
 
 ## "Open Source" is Broken - Xe
@@ -1989,6 +1996,13 @@
  - date published: 2021-08-22 08:38:52.278847+00:00
 
 
+## Australia anti-lockdown rallies: protesters violently clash with police in Melbourne
+ - [https://www.theguardian.com/australia-news/2021/aug/21/australia-anti-lockdown-rallies-protesters-violently-clash-with-police-in-melbourne](https://www.theguardian.com/australia-news/2021/aug/21/australia-anti-lockdown-rallies-protesters-violently-clash-with-police-in-melbourne)
+ - RSS feed: https://www.theguardian.com
+ - date published: 2021-08-21 10:15:58+00:00
+ - tags: australia,lockdown,covid,protest
+
+
 ## Woman reverses own car off truck to foil Wolverhampton theft - BBC News
  - [https://www.bbc.co.uk/news/uk-england-birmingham-58282348](https://www.bbc.co.uk/news/uk-england-birmingham-58282348)
  - RSS feed: https://www.bbc.co.uk
@@ -2918,7 +2932,7 @@
  - [https://nationalfile.com/world-economic-forum-urges-companies-to-fire-unvaccinated-employees-as-part-of-jobs-reset-deletes-tweet-after-backlash/](https://nationalfile.com/world-economic-forum-urges-companies-to-fire-unvaccinated-employees-as-part-of-jobs-reset-deletes-tweet-after-backlash/)
  - RSS feed: https://nationalfile.com
  - date published: 2021-05-18 22:10:14+00:00
- - tags: vaccine,mandates,wef
+ - tags: mandates,covid,wef,vaccine
 
 
 ## Bill Gates reportedly hoped Jeffrey Epstein would help him win a Nobel
@@ -3039,6 +3053,13 @@
  - tags: terreg,censorship
 
 
+## „Nie szczepisz się, nie pracujesz z ludźmi”. Dyrektor UCK wzywa do wprowadzenia szczepionkowych sankcji
+ - [https://m.pch24.pl/nie-szczepisz-sie-nie-pracujesz-z-ludzmi-lekarz-wzywa-do-wprowadzenia-szczepionkowych-sankcji/](https://m.pch24.pl/nie-szczepisz-sie-nie-pracujesz-z-ludzmi-lekarz-wzywa-do-wprowadzenia-szczepionkowych-sankcji/)
+ - RSS feed: https://m.pch24.pl
+ - date published: 2021-04-17 14:11:45+00:00
+ - tags: mandates,covid,vaccine
+
+
 ## CNN staffer tells Project Veritas network played up COVID-19 death toll for ratings
  - [https://nypost.com/2021/04/14/cnn-staffer-tells-project-veritas-network-played-up-covid-19-death-toll-for-ratings/](https://nypost.com/2021/04/14/cnn-staffer-tells-project-veritas-network-played-up-covid-19-death-toll-for-ratings/)
  - RSS feed: https://nypost.com
@@ -3053,6 +3074,13 @@
  - tags: media,covid lie,covid
 
 
+## Zaszczepieni preparatami mRNA bardziej podatni na inne warianty wirusa? Badania z Izraela niepokoją. Za wcześnie na picie szampana
+ - [https://wpolityce.pl/spoleczenstwo/546883-badania-z-izraela-niepokoja-za-wczesnie-na-picie-szampana](https://wpolityce.pl/spoleczenstwo/546883-badania-z-izraela-niepokoja-za-wczesnie-na-picie-szampana)
+ - RSS feed: https://wpolityce.pl
+ - date published: 2021-04-13 14:07:37+00:00
+ - tags: israel,vaccine,pfizer,covid,mrna
+
+
 ## Why Did the Johnson & Johnson Vaccine Get Suspended and What Comes Next?
  - [https://nationalinterest.org/blog/coronavirus/why-did-johnson-johnson-vaccine-get-suspended-and-what-comes-next-182682](https://nationalinterest.org/blog/coronavirus/why-did-johnson-johnson-vaccine-get-suspended-and-what-comes-next-182682)
  - RSS feed: nationalinterest.org
@@ -3064,6 +3092,13 @@
  - RSS feed: https://www.bbc.com
  - date published: 2021-04-12 21:45:08+00:00
  - tags: nhs,tracking,google,apple,covid
+
+
+## Boris Johnson is a creeping dictator – we need to stop him in his tracks
+ - [https://metro.co.uk/2021/04/12/boris-johnson-is-a-creeping-dictator-we-need-to-stop-him-14382294/amp/?__twitter_impression=true](https://metro.co.uk/2021/04/12/boris-johnson-is-a-creeping-dictator-we-need-to-stop-him-14382294/amp/?__twitter_impression=true)
+ - RSS feed: https://metro.co.uk
+ - date published: 2021-04-12 14:08:39+00:00
+ - tags: digital id,passport,covid
 
 
 ## Why is Corporate Virtue in the Eye of the Beholder? The Case of ESG Ratings
@@ -3085,10 +3120,24 @@
  - tags: censorship,covid,wuhan
 
 
+## How U.S. media lost the trust of the public
+ - [https://www.cbc.ca/news/world/media-distrust-big-news-1.5965622](https://www.cbc.ca/news/world/media-distrust-big-news-1.5965622)
+ - RSS feed: https://www.cbc.ca
+ - date published: 2021-03-28 10:08:44+00:00
+ - tags: disinformation,covid,mainstream media,misinformation
+
+
 ## YouTube Channel Deletion
  - [https://lukesmith.xyz/updates/deletion/](https://lukesmith.xyz/updates/deletion/)
  - RSS feed: https://lukesmith.xyz/rss.xml
  - date published: 2021-03-26 00:00:00+00:00
+
+
+## Lockdown, zakaz spotkań i godzina policyjna. Jakie obostrzenia obowiązują w innych krajach Europy?
+ - [https://next.gazeta.pl/next/7,151003,26916907,lockdown-zakaz-spotkan-i-godzina-policyjna-jakie-obostrzenia.html](https://next.gazeta.pl/next/7,151003,26916907,lockdown-zakaz-spotkan-i-godzina-policyjna-jakie-obostrzenia.html)
+ - RSS feed: https://next.gazeta.pl
+ - date published: 2021-03-25 14:09:30+00:00
+ - tags: restrictions,lockdown,curfew
 
 
 ## TERREG: Free Speech Advocates Urge EU Legislators to Vote 'No' to Automated Censorship Online
@@ -3131,6 +3180,13 @@
  - date published: 2021-03-10 07:14:20+00:00
 
 
+## WHO odrzuca planowane unijne paszporty szczepień
+ - [https://www.dw.com/pl/who-odrzuca-planowane-unijne-paszporty-szczepie%C5%84/a-56793688](https://www.dw.com/pl/who-odrzuca-planowane-unijne-paszporty-szczepie%C5%84/a-56793688)
+ - RSS feed: https://www.dw.com
+ - date published: 2021-03-06 14:06:37+00:00
+ - tags: who,vaccine,passport,covid,digital id
+
+
 ## Ilu lekarzy faktycznie jest już zaszczepionych?
  - [https://www.medonet.pl/porozmawiajmyoszczepionce/szczepionka-na-covid-19,szczepienia-na-covid-19--ilu-lekarzy-jest-juz-zaszczepionych--sprzeczne-dane,artykul,41949295.html](https://www.medonet.pl/porozmawiajmyoszczepionce/szczepionka-na-covid-19,szczepienia-na-covid-19--ilu-lekarzy-jest-juz-zaszczepionych--sprzeczne-dane,artykul,41949295.html)
  - RSS feed: www.medonet.pl
@@ -3143,6 +3199,13 @@
  - RSS feed: cowzdrowiu.pl
  - date published: 2021-03-02 07:02:12+00:00
  - tags: covid
+
+
+## Segregacja sanitarna na świecie. W Izraelu działa od tygodnia, a w innych krajach?
+ - [https://naszapolska.pl/2021/02/28/segregacja-sanitarna-na-swiecie-w-izraelu-dziala-od-tygodnia-a-w-innych-krajach/](https://naszapolska.pl/2021/02/28/segregacja-sanitarna-na-swiecie-w-izraelu-dziala-od-tygodnia-a-w-innych-krajach/)
+ - RSS feed: https://naszapolska.pl
+ - date published: 2021-02-28 14:05:08+00:00
+ - tags: israel,covid,vaccine,segregation,mandates
 
 
 ## The real reason why Bill Gates is now the US’ biggest farmland owner
@@ -3207,6 +3270,20 @@
  - tags: canada,covid
 
 
+## "Kanadyjczycy są aresztowani i wywożeni". Prawnicy reagują na koronawirusowe restrykcje
+ - [https://www.polsatnews.pl/wiadomosc/2021-02-04/kanadyjczycy-sa-aresztowani-i-wywozeni-prawnicy-reaguja-na-koronawirusowe-restrykcje/](https://www.polsatnews.pl/wiadomosc/2021-02-04/kanadyjczycy-sa-aresztowani-i-wywozeni-prawnicy-reaguja-na-koronawirusowe-restrykcje/)
+ - RSS feed: https://www.polsatnews.pl
+ - date published: 2021-02-04 14:13:23+00:00
+ - tags: isolation,covid,canada,vaccine
+
+
+## Rada Europy - "Brak obowiązku szczepienia!"
+ - [https://www.p-tv.nl/wiadomosci/306,rada-europy-brak-obowiazku-szczepienia](https://www.p-tv.nl/wiadomosci/306,rada-europy-brak-obowiazku-szczepienia)
+ - RSS feed: https://www.p-tv.nl
+ - date published: 2021-02-03 14:03:36+00:00
+ - tags: vaccine,segregation,mandates,covid
+
+
 ## Esteemed Academic Conference on Dangers of Censorship — Reportedly Censored by YouTube
  - [https://thefreethoughtproject.com/censorship-conference-dangers-censored-by-youtube](https://thefreethoughtproject.com/censorship-conference-dangers-censored-by-youtube)
  - RSS feed: thefreethoughtproject.com
@@ -3223,6 +3300,13 @@
  - [https://lukesmith.xyz/articles/why-its-bad-to-have-high-gdp/](https://lukesmith.xyz/articles/why-its-bad-to-have-high-gdp/)
  - RSS feed: https://lukesmith.xyz/rss.xml
  - date published: 2021-01-22 00:00:00+00:00
+
+
+## Niemcy: Złamiesz kwarantannę - trafisz do obozu
+ - [https://www.rp.pl/swiat/art8695031-niemcy-zlamiesz-kwarantanne-trafisz-do-obozu](https://www.rp.pl/swiat/art8695031-niemcy-zlamiesz-kwarantanne-trafisz-do-obozu)
+ - RSS feed: https://www.rp.pl
+ - date published: 2021-01-21 14:12:34+00:00
+ - tags: vaccine,camps,germany
 
 
 ## Facebook Gives FBI Private Messages of Capitol Hill Protesters
@@ -3256,6 +3340,13 @@
  - RSS feed: https://www.newsweek.com
  - date published: 2021-01-14 21:27:14+00:00
  - tags: lockdown,covid
+
+
+## Covid in Scotland: Police warn against lockdown protest
+ - [https://www.bbc.com/news/uk-scotland-edinburgh-east-fife-55601318](https://www.bbc.com/news/uk-scotland-edinburgh-east-fife-55601318)
+ - RSS feed: https://www.bbc.com
+ - date published: 2021-01-09 10:20:09+00:00
+ - tags: protests,covid,lockdown,scotland
 
 
 ## Twitter permanently suspends President Donald Trump

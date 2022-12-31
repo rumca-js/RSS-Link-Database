@@ -80,7 +80,7 @@
  - [https://transparencyreport.google.com/user-data/overview?user_requests_report_period=authority:PL](https://transparencyreport.google.com/user-data/overview?user_requests_report_period=authority:PL)
  - RSS feed: https://transparencyreport.google.com/user-data/overview?user_requests_report_period=authority:PL
  - date published: 2022-12-21 18:41:30+00:00
- - tags: moderation,privacy,tracking
+ - tags: surveillence,tracking,privacy,moderation
 
 
 ## FBI zapłaciło Twitterowi 3,4 mln USD za nazywanie historii Huntera Bidena rosyjską dezinformacją
@@ -723,7 +723,7 @@
  - [https://www.youtube.com/watch?v=LdVgb8Q8BRY](https://www.youtube.com/watch?v=LdVgb8Q8BRY)
  - RSS feed: https://www.youtube.com/@slavc5287
  - date published: 2022-10-10 07:58:32+00:00
- - tags: wef,morawiecki,davos,schwab
+ - tags: nwo,morawiecki,schwab,davos,wef
 
 
 ## Zanieczyszczenie mikroplastikiem to problem na skalę globalną. Wpływa na równowagę międzygatunkową zooplanktonu
@@ -1801,6 +1801,13 @@
  - date published: 2022-04-22 20:44:45.932735+00:00
 
 
+## Zwolnienie pracownika za brak szczepienia na COVID-19
+ - [https://poradnikprzedsiebiorcy.pl/-zwolnienie-pracownika-za-brak-szczepienia-na-covid-19](https://poradnikprzedsiebiorcy.pl/-zwolnienie-pracownika-za-brak-szczepienia-na-covid-19)
+ - RSS feed: https://poradnikprzedsiebiorcy.pl
+ - date published: 2022-04-07 14:10:51+00:00
+ - tags: vaccine,mandates,covid
+
+
 ## Chris's Wiki :: blog/programming/GoOnIdentifierVisibility
  - [https://utcc.utoronto.ca/~cks/space/blog/programming/GoOnIdentifierVisibility](https://utcc.utoronto.ca/~cks/space/blog/programming/GoOnIdentifierVisibility)
  - RSS feed: https://utcc.utoronto.ca
@@ -1837,7 +1844,7 @@
  - [https://legaartis.pl/blog/2022/01/07/fda-ma-8-miesiecy-na-publikacje-dokumentacji-szczepionki/](https://legaartis.pl/blog/2022/01/07/fda-ma-8-miesiecy-na-publikacje-dokumentacji-szczepionki/)
  - RSS feed: legaartis.pl
  - date published: 2022-01-07 07:04:39+00:00
- - tags: pfizer,fda,vaccine
+ - tags: covid,pfizer,fda,vaccine
 
 
 ## Facebook zawiesil strone konfederacji bedzie pozew cenzura powraca

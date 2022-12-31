@@ -12,6 +12,13 @@
  - tags: climate change,carbon footprint,carbon emissions
 
 
+## Australia protests: People march against vaccine mandate; demand removal of Victorian Premier Daniel Andrews
+ - [https://www.wionews.com/world/australia-protests-people-march-against-vaccine-mandate-demand-removal-of-victorian-premier-daniel-andrews-432299](https://www.wionews.com/world/australia-protests-people-march-against-vaccine-mandate-demand-removal-of-victorian-premier-daniel-andrews-432299)
+ - RSS feed: https://www.wionews.com
+ - date published: 2012-11-27 10:02:45+00:00
+ - tags: australia,lockdown,covid,protest
+
+
 ## Giving In to the Surveillance State
  - [https://www.nytimes.com/2012/08/23/opinion/whos-watching-the-nsa-watchers.html](https://www.nytimes.com/2012/08/23/opinion/whos-watching-the-nsa-watchers.html)
  - RSS feed: www.nytimes.com

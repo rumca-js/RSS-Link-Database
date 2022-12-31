@@ -1,7 +1,84 @@
+## Google to pay Indiana $20 million to resolve privacy suit
+ - [https://abcnews.go.com/Business/wireStory/google-pay-indiana-20-million-resolve-privacy-suit-95988766](https://abcnews.go.com/Business/wireStory/google-pay-indiana-20-million-resolve-privacy-suit-95988766)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2022-12-30 21:14:51+00:00
+ - tags: privacy,google,tracking
+
+
+## WEF plans to issue guardrails on Metaverse creation
+ - [https://reclaimthenet.org/wef-plans-to-issue-guardrails-on-metaverse-creation/](https://reclaimthenet.org/wef-plans-to-issue-guardrails-on-metaverse-creation/)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2022-12-30 19:37:55+00:00
+ - tags: digital id,wef,metaverse
+
+
+## Google will pay $9.5 million to settle Washington DC AG's location-tracking lawsuit
+ - [https://www.engadget.com/google-washington-dc-ag-location-tracking-settlement-192244812.html?src=rss](https://www.engadget.com/google-washington-dc-ag-location-tracking-settlement-192244812.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2022-12-30 19:22:44+00:00
+ - tags: google,location,tracking
+
+
+## The Twitter Files Reveal That Intentions Don't Matter When It Comes to Suppressing Speech | Opinion
+ - [https://www.newsweek.com/twitter-files-reveal-that-intentions-dont-matter-when-it-comes-suppressing-speech-opinion-1770192](https://www.newsweek.com/twitter-files-reveal-that-intentions-dont-matter-when-it-comes-suppressing-speech-opinion-1770192)
+ - RSS feed: https://www.newsweek.com/rss
+ - date published: 2022-12-30 11:59:21+00:00
+ - tags: censorship,twitter files,moderation,free speech,twitter
+
+
+## Google Home speakers could have been hijacked to spy on your conversations
+ - [https://www.techradar.com/news/google-home-speakers-could-have-been-hijacked-to-spy-on-your-conversations](https://www.techradar.com/news/google-home-speakers-could-have-been-hijacked-to-spy-on-your-conversations)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2022-12-30 11:01:38+00:00
+ - tags: google,privacy,hacker
+
+
+## BBC is 'warping modern Britain' by allowing 'woke viewpoints' in dramas, report warns
+ - [https://www.dailymail.co.uk/news/article-11585077/BBC-warping-modern-Britain-allowing-woke-viewpoints-dramas-report-warns.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11585077/BBC-warping-modern-Britain-allowing-woke-viewpoints-dramas-report-warns.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-12-30 10:25:53+00:00
+
+
+## Szczecin coraz szybciej rozwija się po drugiej stronie granicy. Czy to już polsko-niemiecka aglomeracja?
+ - [https://businessinsider.com.pl/gospodarka/czy-szczecin-staje-sie-polsko-niemiecka-aglomeracja/txd3v7x](https://businessinsider.com.pl/gospodarka/czy-szczecin-staje-sie-polsko-niemiecka-aglomeracja/txd3v7x)
+ - RSS feed: https://businessinsider.com.pl/.feed
+ - date published: 2022-12-30 05:00:00+00:00
+
+
+## Hackers abuse Google Ads to spread malware in legit software
+ - [https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-to-spread-malware-in-legit-software/](https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-to-spread-malware-in-legit-software/)
+ - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
+ - date published: 2022-12-30 05:00:00+00:00
+
+
+## Privacy Is OK
+ - [https://www.tbray.org/ongoing/When/202x/2022/12/29/Privacy-is-OK](https://www.tbray.org/ongoing/When/202x/2022/12/29/Privacy-is-OK)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-29 21:07:20+00:00
+
+
+## Banned by Face Recognition?
+ - [https://www.youtube.com/watch?v=jWBTnrkz6lY](https://www.youtube.com/watch?v=jWBTnrkz6lY)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCFLFc8Lpbwt4jPtY1_Ai5yA
+ - date published: 2022-12-29 17:29:08+00:00
+
+
 ## Elon Musk slams Fauci for infamous 'I am science' quote that refuted all criticism of COVID policy
  - [https://www.dailymail.co.uk/news/article-11582583/Elon-Musk-slams-Fauci-infamous-science-quote-refuted-criticism-COVID-policy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11582583/Elon-Musk-slams-Fauci-infamous-science-quote-refuted-criticism-COVID-policy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-12-29 17:05:56+00:00
+
+
+## Giving Up on Privacy
+ - [https://www.jefftk.com/p/giving-up-on-privacy](https://www.jefftk.com/p/giving-up-on-privacy)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-29 14:43:54+00:00
+
+
+## Why hasn’t pandemic aid fraud become a bigger scandal?
+ - [http://www.msn.com/en-us/news/politics/why-hasn-t-pandemic-aid-fraud-become-a-bigger-scandal/ar-AA15LTA0?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/why-hasn-t-pandemic-aid-fraud-become-a-bigger-scandal/ar-AA15LTA0?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2022-12-29 13:21:28.213916+00:00
 
 
 ## Google Probably Knows Where You Went for the Holidays. Here's How to Stop It
@@ -30,6 +107,13 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-28 13:39:31+00:00
  - tags: social media,facebook,depression,meta
+
+
+## Watch: Klaus Schwab's alarming comments on 'revolutionizing global education' even has Elon Musk shocked
+ - [https://www.louderwithcrowder.com/klaus-schwab-education](https://www.louderwithcrowder.com/klaus-schwab-education)
+ - RSS feed: http://louderwithcrowder.com/feed/
+ - date published: 2022-12-28 13:02:15+00:00
+ - tags: nwo,wef,propaganda
 
 
 ## Zelenskyy, BlackRock CEO Fink agree to coordinate Ukraine investment
@@ -99,6 +183,13 @@
  - RSS feed: https://en.wikipedia.org
  - date published: 2022-12-26 19:54:57+00:00
  - tags: antikythera,ancient
+
+
+## Police in Australia Ask People to Snitch On ‘Conspiracy Theorist’ Neighbors
+ - [https://www.theepochtimes.com/police-in-australia-ask-people-to-snitch-on-conspiracy-theorist-neighbors_4945846.html](https://www.theepochtimes.com/police-in-australia-ask-people-to-snitch-on-conspiracy-theorist-neighbors_4945846.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2022-12-26 17:59:56+00:00
+ - tags: covid,big brother,misinformation
 
 
 ## Twitter suppressed covid information from doctors and experts
@@ -463,6 +554,12 @@
  - [https://www.foxnews.com/politics/george-soros-nonprofits-dished-tens-millions-anti-police-groups-initiatives-2021-tax-forms-show](https://www.foxnews.com/politics/george-soros-nonprofits-dished-tens-millions-anti-police-groups-initiatives-2021-tax-forms-show)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-21 07:00:07+00:00
+
+
+## Twitter secretly boosted US military propaganda: Investigation
+ - [https://www.aljazeera.com/economy/2022/12/21/twitter-secretly-boosted-us-military-propaganda-investigation](https://www.aljazeera.com/economy/2022/12/21/twitter-secretly-boosted-us-military-propaganda-investigation)
+ - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
+ - date published: 2022-12-21 03:05:06+00:00
 
 
 ## Twitter colluded with Pentagon to run network of fake accounts around the world
@@ -975,6 +1072,13 @@
  - tags: jack dorsey,twitter,twitter files,censorship
 
 
+## Report: Apple plans to support sideloading and third-party app stores by 2024
+ - [https://arstechnica.com/?p=1904133](https://arstechnica.com/?p=1904133)
+ - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
+ - date published: 2022-12-13 22:13:20+00:00
+ - tags: apple,platforms
+
+
 ## Indian citizens that don’t link account numbers to Digital ID will soon face financial blacklisting
  - [https://reclaimthenet.org/india-digital-id-account-link/](https://reclaimthenet.org/india-digital-id-account-link/)
  - RSS feed: https://reclaimthenet.org/feed/
@@ -1452,6 +1556,12 @@
  - RSS feed: https://reclaimthenet.org/feed/
  - date published: 2022-12-06 19:00:48+00:00
  - tags: white house,propaganda,censorship,lie,hunter biden
+
+
+## ‘Do Not Believe A Word Of It’: Detransitioned Navy SEAL Says CNN Used Him As Trans Propaganda
+ - [https://www.dailywire.com/news/do-not-believe-a-word-of-it-detransitioned-navy-seal-says-cnn-used-him-as-trans-propaganda](https://www.dailywire.com/news/do-not-believe-a-word-of-it-detransitioned-navy-seal-says-cnn-used-him-as-trans-propaganda)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-06 18:05:09+00:00
 
 
 ## Meta vows to boycott US news outlets on Facebook if Dem-sponsored ad revenue bill is signed into law
@@ -2298,6 +2408,7 @@
  - [https://www.dailywire.com/news/why-is-super-creep-klaus-schwab-even-at-the-g-20-summit](https://www.dailywire.com/news/why-is-super-creep-klaus-schwab-even-at-the-g-20-summit)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-16 18:13:43+00:00
+ - tags: schwab,wef,nwo,g20
 
 
 ## FBI is 'extremely concerned' about China's influence through TikTok on U.S. users
@@ -2876,7 +2987,7 @@
  - [https://techcrunch.com/2022/11/03/astrazeneca-passwords-exposed-patient-data/](https://techcrunch.com/2022/11/03/astrazeneca-passwords-exposed-patient-data/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-04 12:53:39+00:00
- - tags: leak,astrazeneca,privacy
+ - tags: privacy,astrazeneca,leak,covid
 
 
 ## Organizing 1,700 Resistors in a Ring Binder
@@ -4384,7 +4495,7 @@
  - [https://arstechnica.com/?p=1891666](https://arstechnica.com/?p=1891666)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-20 19:31:25+00:00
- - tags: vaccine,censorship,moderation,facebook
+ - tags: censorship,moderation,facebook,vaccine,covid
 
 
 ## Saudis Sought Oil Production Cut So Deep It Surprised Even Russia
@@ -9676,6 +9787,13 @@
  - date published: 2022-04-02 08:03:55.847638+00:00
 
 
+## Doctors suspended over anti-vax claims win court appeals
+ - [https://www.rnz.co.nz/news/national/464442/doctors-suspended-over-anti-vax-claims-win-court-appeals](https://www.rnz.co.nz/news/national/464442/doctors-suspended-over-anti-vax-claims-win-court-appeals)
+ - RSS feed: https://www.rnz.co.nz
+ - date published: 2022-04-01 09:54:12+00:00
+ - tags: covid,science,vantivax
+
+
 ## SerenityOS: A remarkable achievement for a small project • The Register
  - [https://www.theregister.com/2022/03/31/serenityos/](https://www.theregister.com/2022/03/31/serenityos/)
  - RSS feed: https://www.theregister.com
@@ -10403,7 +10521,7 @@
  - [https://conservativeinstitute.org/conservative-news/senate-report-implicates-fauci-in-wuhan-lab-leak-cover-up.htm](https://conservativeinstitute.org/conservative-news/senate-report-implicates-fauci-in-wuhan-lab-leak-cover-up.htm)
  - RSS feed: conservativeinstitute.org
  - date published: 2022-02-04 06:55:19+00:00
- - tags: wuhan,lableak,fauci
+ - tags: lableak,wuhan,fauci,covid
 
 
 ## Don’t Feed the Beast – the Great Recruitment Agency Infestation
@@ -10688,6 +10806,13 @@
  - RSS feed: https://www.dailymail.co.uk
  - date published: 2022-01-13 12:23:01+00:00
  - tags: woke,censorship,socialengineering,microsoft
+
+
+## Mainstream media resorts to shaming, insulting unvaccinated Americans as COVID surges
+ - [https://www.foxnews.com/media/mainstream-media-insulting-unvaccinated-americans-covid](https://www.foxnews.com/media/mainstream-media-insulting-unvaccinated-americans-covid)
+ - RSS feed: https://www.foxnews.com
+ - date published: 2022-01-13 10:05:24+00:00
+ - tags: covid,antivax,covid shaming
 
 
 ## Google hired union-busting consultants to convince employees “unions suck” | Ars Technica

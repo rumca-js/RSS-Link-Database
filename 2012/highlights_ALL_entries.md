@@ -12,6 +12,13 @@
  - tags: climate change,carbon footprint,carbon emissions
 
 
+## Australia protests: People march against vaccine mandate; demand removal of Victorian Premier Daniel Andrews
+ - [https://www.wionews.com/world/australia-protests-people-march-against-vaccine-mandate-demand-removal-of-victorian-premier-daniel-andrews-432299](https://www.wionews.com/world/australia-protests-people-march-against-vaccine-mandate-demand-removal-of-victorian-premier-daniel-andrews-432299)
+ - RSS feed: https://www.wionews.com
+ - date published: 2012-11-27 10:02:45+00:00
+ - tags: australia,lockdown,covid,protest
+
+
 ## Decline of bees forces China’s apple farmers to pollinate by hand
  - [https://chinadialogue.net/en/food/5193-decline-of-bees-forces-china-s-apple-farmers-to-pollinate-by-hand/](https://chinadialogue.net/en/food/5193-decline-of-bees-forces-china-s-apple-farmers-to-pollinate-by-hand/)
  - RSS feed: https://chinadialogue.net

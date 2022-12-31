@@ -252,6 +252,13 @@
  - tags: moderation,germany,censorship,extremism
 
 
+## The price of ‘freedom’: How anti-lockdown protest leaders make money from the movement
+ - [https://www.smh.com.au/national/the-price-of-freedom-how-anti-lockdown-protest-leaders-make-money-from-the-movement-20211130-p59de5.html](https://www.smh.com.au/national/the-price-of-freedom-how-anti-lockdown-protest-leaders-make-money-from-the-movement-20211130-p59de5.html)
+ - RSS feed: https://www.smh.com.au
+ - date published: 2021-12-12 10:00:50+00:00
+ - tags: australia,lockdown,covid,money
+
+
 ## "Open Source" is Broken - Xe
  - [https://xeiaso.net/blog/open-source-broken-2021-12-11](https://xeiaso.net/blog/open-source-broken-2021-12-11)
  - RSS feed: https://xeiaso.net
@@ -1757,6 +1764,13 @@
  - date published: 2021-08-22 08:38:52.278847+00:00
 
 
+## Australia anti-lockdown rallies: protesters violently clash with police in Melbourne
+ - [https://www.theguardian.com/australia-news/2021/aug/21/australia-anti-lockdown-rallies-protesters-violently-clash-with-police-in-melbourne](https://www.theguardian.com/australia-news/2021/aug/21/australia-anti-lockdown-rallies-protesters-violently-clash-with-police-in-melbourne)
+ - RSS feed: https://www.theguardian.com
+ - date published: 2021-08-21 10:15:58+00:00
+ - tags: australia,lockdown,covid,protest
+
+
 ## Woman reverses own car off truck to foil Wolverhampton theft - BBC News
  - [https://www.bbc.co.uk/news/uk-england-birmingham-58282348](https://www.bbc.co.uk/news/uk-england-birmingham-58282348)
  - RSS feed: https://www.bbc.co.uk
@@ -2585,7 +2599,7 @@
  - [https://nationalfile.com/world-economic-forum-urges-companies-to-fire-unvaccinated-employees-as-part-of-jobs-reset-deletes-tweet-after-backlash/](https://nationalfile.com/world-economic-forum-urges-companies-to-fire-unvaccinated-employees-as-part-of-jobs-reset-deletes-tweet-after-backlash/)
  - RSS feed: https://nationalfile.com
  - date published: 2021-05-18 22:10:14+00:00
- - tags: vaccine,mandates,wef
+ - tags: mandates,covid,wef,vaccine
 
 
 ## Bill Gates reportedly hoped Jeffrey Epstein would help him win a Nobel
@@ -2710,6 +2724,13 @@
  - [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3793804](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3793804)
  - RSS feed: papers.ssrn.com
  - date published: 2021-04-12 07:18:11+00:00
+
+
+## How U.S. media lost the trust of the public
+ - [https://www.cbc.ca/news/world/media-distrust-big-news-1.5965622](https://www.cbc.ca/news/world/media-distrust-big-news-1.5965622)
+ - RSS feed: https://www.cbc.ca
+ - date published: 2021-03-28 10:08:44+00:00
+ - tags: disinformation,covid,mainstream media,misinformation
 
 
 ## YouTube Channel Deletion
@@ -2843,6 +2864,13 @@
  - RSS feed: https://www.newsweek.com
  - date published: 2021-01-14 21:27:14+00:00
  - tags: lockdown,covid
+
+
+## Covid in Scotland: Police warn against lockdown protest
+ - [https://www.bbc.com/news/uk-scotland-edinburgh-east-fife-55601318](https://www.bbc.com/news/uk-scotland-edinburgh-east-fife-55601318)
+ - RSS feed: https://www.bbc.com
+ - date published: 2021-01-09 10:20:09+00:00
+ - tags: protests,covid,lockdown,scotland
 
 
 ## Twitter permanently suspends President Donald Trump
