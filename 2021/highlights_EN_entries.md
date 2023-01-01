@@ -2927,6 +2927,14 @@
  - tags: privacy,surveillance,chatcontrol
 
 
+## The Meaning of Pride ft. Drag Queen Nina West
+ - [https://www.youtube.com/watch?v=Xprabkl1LD4](https://www.youtube.com/watch?v=Xprabkl1LD4)
+ - RSS feed: https://www.youtube.com
+ - date published: 2021-07-05 22:29:19+00:00
+ - user: rumpel
+ - tags: sexualisation,kids,lgbt
+
+
 ## A Remarkable Silence: Media Blackout After Key Witness Against Assange Admits Lying
  - [https://www.medialens.org/2021/a-remarkable-silence-media-blackout-after-key-witness-against-assange-admits-lying/](https://www.medialens.org/2021/a-remarkable-silence-media-blackout-after-key-witness-against-assange-admits-lying/)
  - RSS feed: www.medialens.org
@@ -3032,6 +3040,14 @@
  - date published: 2021-05-31 11:51:40+00:00
  - user: None
  - tags: surveillence,merkel
+
+
+## 'Blue's Clues' releases LGBTQ-themed sing-along video for Pride Month
+ - [https://www.today.com/popculture/blue-s-clues-releases-lgbtq-themed-sing-along-video-pride-t220295](https://www.today.com/popculture/blue-s-clues-releases-lgbtq-themed-sing-along-video-pride-t220295)
+ - RSS feed: https://www.today.com
+ - date published: 2021-05-29 22:28:41+00:00
+ - user: rumpel
+ - tags: sexualisation,kids,lgbt
 
 
 ## The Takeover has Already Begun - A Secret Video Reveals All by @RICHARD GRANNON

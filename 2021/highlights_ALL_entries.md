@@ -3298,6 +3298,22 @@
  - tags: privacy,surveillance,chatcontrol
 
 
+## The Meaning of Pride ft. Drag Queen Nina West
+ - [https://www.youtube.com/watch?v=Xprabkl1LD4](https://www.youtube.com/watch?v=Xprabkl1LD4)
+ - RSS feed: https://www.youtube.com
+ - date published: 2021-07-05 22:29:19+00:00
+ - user: rumpel
+ - tags: sexualisation,kids,lgbt
+
+
+## Hiszpania: zmiana płci od 14 roku życia bez ograniczeń
+ - [https://portal-polski.pl/hiszpania-zmiana-plci-od-14-roku-zycia-bez-ograniczen/7199/](https://portal-polski.pl/hiszpania-zmiana-plci-od-14-roku-zycia-bez-ograniczen/7199/)
+ - RSS feed: https://portal-polski.pl
+ - date published: 2021-07-01 22:27:07+00:00
+ - user: rumpel
+ - tags: kids,trans,spain,gender,bigbrother,lgbt
+
+
 ## Nowe prawo dot. LGBT w Hiszpanii. Musisz udowodnić niewinność
  - [https://niezalezna.pl/401854-nowe-prawo-dot-lgbt-w-hiszpanii-musisz-udowodnic-niewinnosc](https://niezalezna.pl/401854-nowe-prawo-dot-lgbt-w-hiszpanii-musisz-udowodnic-niewinnosc)
  - RSS feed: https://niezalezna.pl
@@ -3434,6 +3450,14 @@
  - date published: 2021-05-31 11:51:40+00:00
  - user: None
  - tags: surveillence,merkel
+
+
+## 'Blue's Clues' releases LGBTQ-themed sing-along video for Pride Month
+ - [https://www.today.com/popculture/blue-s-clues-releases-lgbtq-themed-sing-along-video-pride-t220295](https://www.today.com/popculture/blue-s-clues-releases-lgbtq-themed-sing-along-video-pride-t220295)
+ - RSS feed: https://www.today.com
+ - date published: 2021-05-29 22:28:41+00:00
+ - user: rumpel
+ - tags: sexualisation,kids,lgbt
 
 
 ## The Takeover has Already Begun - A Secret Video Reveals All by @RICHARD GRANNON
@@ -3585,6 +3609,14 @@
  - RSS feed: https://lukesmith.xyz/rss.xml
  - date published: 2021-05-04 00:00:00+00:00
  - user: None
+
+
+## Dania: Nagi uczestnik programu telewizyjnego dla dzieci skazany za pedofilię
+ - [https://www.wnp.pl/rynki-zagraniczne/dania-nagi-uczestnik-programu-telewizyjnego-dla-dzieci-skazany-za-pedofilie,466308.html](https://www.wnp.pl/rynki-zagraniczne/dania-nagi-uczestnik-programu-telewizyjnego-dla-dzieci-skazany-za-pedofilie,466308.html)
+ - RSS feed: https://www.wnp.pl
+ - date published: 2021-04-30 22:23:58+00:00
+ - user: rumpel
+ - tags: sexualisation,kids,paedophilia
 
 
 ## TERREG: European Parliament confirms new online censorship powers
