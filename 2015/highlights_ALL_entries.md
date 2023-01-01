@@ -36,6 +36,14 @@
  - tags: corporatocracy,chomsky,all time,propaganda
 
 
+## Secret 'dark net' operation saves scores of children from abuse; ringleader Shannon McCoole behind bars after police take over child porn site
+ - [https://www.abc.net.au/news/2015-08-26/secret-anti-paedophile-operation-saves-children-from-abuse/6720304](https://www.abc.net.au/news/2015-08-26/secret-anti-paedophile-operation-saves-children-from-abuse/6720304)
+ - RSS feed: https://www.abc.net.au
+ - date published: 2015-08-26 21:31:58+00:00
+ - user: rumpel
+ - tags: australia,paedophile
+
+
 ## How the American government is trying to control what you think - The Washington Post
  - [https://www.washingtonpost.com/posteverything/wp/2015/09/24/the-new-propaganda-how-the-american-government-is-trying-to-control-what-you-think/](https://www.washingtonpost.com/posteverything/wp/2015/09/24/the-new-propaganda-how-the-american-government-is-trying-to-control-what-you-think/)
  - RSS feed: https://www.washingtonpost.com
@@ -72,6 +80,14 @@
  - RSS feed: www.cbsnews.com
  - date published: 2015-05-27 12:04:50+00:00
  - user: None
+
+
+## My father was gay. Yet I oppose legalizing same-sex marriage.
+ - [https://www.chicagotribune.com/news/ct-gay-marriage-canada-oppose-perspec-0422-jm-20150421-story.html](https://www.chicagotribune.com/news/ct-gay-marriage-canada-oppose-perspec-0422-jm-20150421-story.html)
+ - RSS feed: https://www.chicagotribune.com
+ - date published: 2015-04-22 20:47:17+00:00
+ - user: rumpel
+ - tags: lgbt,dawn stefanowicz
 
 
 ## Slavoj Žižek: Political Correctness is a More Dangerous Form of Totalitarianism | Big Think

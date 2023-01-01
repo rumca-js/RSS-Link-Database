@@ -161,6 +161,14 @@
  - tags: esg,china
 
 
+## Eton was right to sack teacher Will Knowland
+ - [https://www.spectator.co.uk/article/eton-was-right-to-sack-will-knowland/](https://www.spectator.co.uk/article/eton-was-right-to-sack-will-knowland/)
+ - RSS feed: https://www.spectator.co.uk
+ - date published: 2020-12-03 20:33:35+00:00
+ - user: rumpel
+ - tags: feminism,patriarchy,censorship,gender,inequality
+
+
 ## Journalists across EU face wave of attacks covering anti-lockdown protests
  - [https://ipi.media/journalists-across-eu-face-wave-of-attacks-covering-anti-lockdown-protests/](https://ipi.media/journalists-across-eu-face-wave-of-attacks-covering-anti-lockdown-protests/)
  - RSS feed: https://ipi.media
@@ -175,6 +183,14 @@
  - date published: 2020-12-02 22:05:32+00:00
  - user: rumpel
  - tags: pfizer,uk,nop,covid
+
+
+## Star-studded Time’s Up charities spent big on salaries, little on helping victims
+ - [https://nypost.com/2020/11/28/star-studded-times-up-charities-spent-big-on-salaries-not-victims/](https://nypost.com/2020/11/28/star-studded-times-up-charities-spent-big-on-salaries-not-victims/)
+ - RSS feed: https://nypost.com
+ - date published: 2020-11-28 20:25:51+00:00
+ - user: rumpel
+ - tags: feminism,discrimination,hypocrisy
 
 
 ## WikiLeaks 'Cablegate' 10 years on
@@ -241,6 +257,14 @@
  - RSS feed: www.theregister.com
  - date published: 2020-11-14 12:04:50+00:00
  - user: None
+
+
+## Netherlands uncovers network helping Ugandan asylum seekers fake being gay
+ - [https://www.reuters.com/article/us-netherlands-lgbt-asylum-trfn-idUSKBN27L29M](https://www.reuters.com/article/us-netherlands-lgbt-asylum-trfn-idUSKBN27L29M)
+ - RSS feed: https://www.reuters.com
+ - date published: 2020-11-05 21:05:40+00:00
+ - user: rumpel
+ - tags: gay,lgbt,inequality,netherlands
 
 
 ## Twitter censors Trump’s tweets about ‘disappearing’ ballots
@@ -332,11 +356,35 @@
  - user: None
 
 
+## Norway will prioritise lesbian, gay, bisexual and transgender refugees
+ - [https://www.euronews.com/2020/07/09/norway-will-prioritise-lesbian-gay-bisexual-and-transgender-refugees](https://www.euronews.com/2020/07/09/norway-will-prioritise-lesbian-gay-bisexual-and-transgender-refugees)
+ - RSS feed: https://www.euronews.com
+ - date published: 2020-09-07 21:01:23+00:00
+ - user: rumpel
+ - tags: norway,lgbt,inequality
+
+
 ## Hedonism, Asceticism and the Hermetic Answer
  - [https://lukesmith.xyz/articles/hedonism-asceticism-and-the-hermetic-answer/](https://lukesmith.xyz/articles/hedonism-asceticism-and-the-hermetic-answer/)
  - RSS feed: https://lukesmith.xyz/rss.xml
  - date published: 2020-09-03 00:00:00+00:00
  - user: None
+
+
+## California Acts to Increase LGBT, Racial Diversity on Corporate Boards
+ - [https://southfloridagaynews.com/National/california-acts-to-increase-lgbt-racial-diversity-on-corporate-boards.html](https://southfloridagaynews.com/National/california-acts-to-increase-lgbt-racial-diversity-on-corporate-boards.html)
+ - RSS feed: https://southfloridagaynews.com
+ - date published: 2020-09-02 21:12:40+00:00
+ - user: rumpel
+ - tags: lgbt,inequality
+
+
+## Academics Are Really, Really Worried About Their Freedom
+ - [https://www.theatlantic.com/ideas/archive/2020/09/academics-are-really-really-worried-about-their-freedom/615724/](https://www.theatlantic.com/ideas/archive/2020/09/academics-are-really-really-worried-about-their-freedom/615724/)
+ - RSS feed: https://www.theatlantic.com
+ - date published: 2020-09-01 22:02:49+00:00
+ - user: rumpel
+ - tags: race,woke,science,cancel culture,censorship
 
 
 ## Google stifles growing YouTube competitor LBRY by banning it from Play Store for pedantic reasons
@@ -366,6 +414,14 @@
  - date published: 2020-08-21 12:51:44+00:00
  - user: None
  - tags: israel
+
+
+## Goodyear employees say new zero-tolerance policy from Akron HQ is discriminatory
+ - [https://www.cleveland19.com/2020/08/18/goodyear-employees-say-new-zero-tolerance-policy-akron-hq-is-discriminatory/](https://www.cleveland19.com/2020/08/18/goodyear-employees-say-new-zero-tolerance-policy-akron-hq-is-discriminatory/)
+ - RSS feed: https://www.cleveland19.com
+ - date published: 2020-08-19 21:11:08+00:00
+ - user: rumpel
+ - tags: politics,lgbt,inequality
 
 
 ## New P2P botnet infects SSH servers all over the world
@@ -433,12 +489,28 @@
  - user: None
 
 
+## Paedophile Labour councillor who worked in children's home walks free despite being caught with over one million child porn images including 12-year-old girls being raped
+ - [https://www.dailymail.co.uk/news/article-8568833/Paedophile-Labour-councillor-worked-childrens-home-walks-free.html](https://www.dailymail.co.uk/news/article-8568833/Paedophile-Labour-councillor-worked-childrens-home-walks-free.html)
+ - RSS feed: https://www.dailymail.co.uk
+ - date published: 2020-07-28 21:09:04+00:00
+ - user: rumpel
+ - tags: inequality,lgbt,paedophilia
+
+
 ## Legal Docs: St. Louis Prosecutor Tampered With Evidence In McCloskey Gun Case
  - [https://thefederalist.com/2020/07/23/legal-docs-st-louis-prosecutor-tampered-with-evidence-in-mccloskey-gun-case](https://thefederalist.com/2020/07/23/legal-docs-st-louis-prosecutor-tampered-with-evidence-in-mccloskey-gun-case)
  - RSS feed: https://thefederalist.com
  - date published: 2020-07-23 08:17:09+00:00
  - user: None
  - tags: blm,mccloskey
+
+
+## Gunmen Kill 18 Wedding Guests in Northern Nigeria
+ - [https://www.thedefensepost.com/2020/07/21/gunmen-wedding-nigeria/](https://www.thedefensepost.com/2020/07/21/gunmen-wedding-nigeria/)
+ - RSS feed: https://www.thedefensepost.com
+ - date published: 2020-07-21 21:04:07+00:00
+ - user: rumpel
+ - tags: nigeria,christianophobia
 
 
 ## The hypocrisy of the Black Lives Matter Movement
@@ -539,7 +611,7 @@
  - RSS feed: https://www.dw.com
  - date published: 2020-06-15 07:31:10+00:00
  - user: None
- - tags: pedophilia,berlin,government
+ - tags: berlin,government,paedophilia
 
 
 ## Christopher Columbus statues are being beheaded and torn down during Black Lives Matter protests

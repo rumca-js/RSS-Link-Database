@@ -1,3 +1,11 @@
+## USA: 15 lat więzienia za spalenie flagi LGBT
+ - [https://www.rp.pl/przestepczosc/art973621-usa-15-lat-wiezienia-za-spalenie-flagi-lgbt](https://www.rp.pl/przestepczosc/art973621-usa-15-lat-wiezienia-za-spalenie-flagi-lgbt)
+ - RSS feed: https://www.rp.pl
+ - date published: 2019-12-20 20:52:09+00:00
+ - user: rumpel
+ - tags: lgbt,inequality,america
+
+
 ## “El Confidencial”: Strajki klimatyczne i wielki biznes. Za Gretą Thunberg stoją duże koncerny i fundusze
  - [https://forsal.pl/artykuly/1443406,el-confidencial-strajki-klimatyczne-i-wielki-biznes-za-greta-thunberg-stoja-duze-koncerny-i-fundusze.html](https://forsal.pl/artykuly/1443406,el-confidencial-strajki-klimatyczne-i-wielki-biznes-za-greta-thunberg-stoja-duze-koncerny-i-fundusze.html)
  - RSS feed: https://forsal.pl
@@ -12,6 +20,14 @@
  - date published: 2019-09-26 20:37:58+00:00
  - user: None
  - tags: snowden,privacy,internet
+
+
+## Orwell w Hiszpanii
+ - [https://www.rp.pl/opinie-polityczno-spoleczne/art9229671-orwell-w-hiszpanii](https://www.rp.pl/opinie-polityczno-spoleczne/art9229671-orwell-w-hiszpanii)
+ - RSS feed: https://www.rp.pl
+ - date published: 2019-08-28 21:39:25+00:00
+ - user: rumpel
+ - tags: feminism,spain
 
 
 ## Axel Springer w rękach Amerykanów. Miliarder kupił większość akcji
@@ -37,6 +53,14 @@
  - tags: greta,corporatocracy,thunberg,climate change
 
 
+## Akcja "Żywa Książka" budzi sprzeciw Ordo Iuris. "Pod pozorem lekcji tolerancji oswaja się ludzi z agendą LGBT"
+ - [https://wiadomosci.dziennik.pl/wydarzenia/artykuly/602791,zywa-ksiazka-ordo-iuris-lgbt-kontrowersje.html](https://wiadomosci.dziennik.pl/wydarzenia/artykuly/602791,zywa-ksiazka-ordo-iuris-lgbt-kontrowersje.html)
+ - RSS feed: https://wiadomosci.dziennik.pl
+ - date published: 2019-07-17 22:15:14+00:00
+ - user: rumpel
+ - tags: libraryreading,sexualisation,kids,lgbt
+
+
 ## Koniec naszego świata
  - [https://www.tvp.info/43374228/koniec-naszego-swiata](https://www.tvp.info/43374228/koniec-naszego-swiata)
  - RSS feed: www.tvp.info
@@ -57,4 +81,12 @@
  - RSS feed: www.smyku.pl
  - date published: 2019-01-26 07:23:00+00:00
  - user: None
+
+
+## Desmond Napoles "Child Drag Queen" Exploited By Adults
+ - [https://www.youtube.com/watch?v=UEgA8kHuYvs](https://www.youtube.com/watch?v=UEgA8kHuYvs)
+ - RSS feed: https://www.youtube.com
+ - date published: 2019-01-04 21:28:23+00:00
+ - user: rumpel
+ - tags: children,sexualisation,lgbt
 

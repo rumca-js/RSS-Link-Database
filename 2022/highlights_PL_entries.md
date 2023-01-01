@@ -566,6 +566,14 @@
  - user: None
 
 
+## Debata w NIK: Bilans pandemii - puste łóżka covidowe, brak wytycznych
+ - [https://cowzdrowiu.pl/aktualnosci/post/debata-w-nik-bilans-pandemii-puste-lozka-covidowe-brak-wytycznych](https://cowzdrowiu.pl/aktualnosci/post/debata-w-nik-bilans-pandemii-puste-lozka-covidowe-brak-wytycznych)
+ - RSS feed: https://cowzdrowiu.pl
+ - date published: 2022-10-25 11:22:28+00:00
+ - user: rumpel
+ - tags: covid,hospital
+
+
 ## Rodzice oburzeni. Pierwsze niemieckie miasto z taką regulacją
  - [https://www.wykop.pl/link/6873985/rodzice-oburzeni-pierwsze-niemieckie-miasto-z-taka-regulacja/](https://www.wykop.pl/link/6873985/rodzice-oburzeni-pierwsze-niemieckie-miasto-z-taka-regulacja/)
  - RSS feed: https://www.wykop.pl/rss/index.xml/
@@ -734,6 +742,14 @@
  - RSS feed: https://tvn24.pl/najnowsze.xml
  - date published: 2022-10-21 14:45:13+00:00
  - user: None
+
+
+## Depopulation Is Causing Economic Collapse And Is Going To Get Substantially Worse
+ - [https://www.youtube.com/watch?v=m7rmirduyZw](https://www.youtube.com/watch?v=m7rmirduyZw)
+ - RSS feed: https://www.youtube.com
+ - date published: 2022-10-20 16:26:52+00:00
+ - user: rumpel
+ - tags: population,depopulation
 
 
 ## Telegram ukarany w Niemczech za odmowę wprowadzenia cenzury
@@ -2109,6 +2125,14 @@
  - RSS feed: https://utcc.utoronto.ca
  - date published: 2022-04-02 22:17:08.617713+00:00
  - user: Thomas Pain
+
+
+## Szpitale tymczasowe kosztowały setki milionów złotych. Teraz czekają na zamknięcie
+ - [https://www.money.pl/gospodarka/szpitale-tymczasowe-kosztowaly-setki-milionow-zlotych-teraz-czekaja-na-zamkniecie-6744796203420224a.html](https://www.money.pl/gospodarka/szpitale-tymczasowe-kosztowaly-setki-milionow-zlotych-teraz-czekaja-na-zamkniecie-6744796203420224a.html)
+ - RSS feed: https://www.money.pl
+ - date published: 2022-03-08 11:21:16+00:00
+ - user: rumpel
+ - tags: covid,hospital
 
 
 ## Google udostępniło dane lokalizacji z telefonów protestujących. FBI polowało na biorących udział w zamieszkach

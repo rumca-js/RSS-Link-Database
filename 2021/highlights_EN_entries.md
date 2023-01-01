@@ -181,6 +181,7 @@
  - RSS feed: https://www.bbc.co.uk
  - date published: 2021-12-22 08:35:29.336205+00:00
  - user: Thomas Pain
+ - tags: law,trans,gender
 
 
 ## McDonald's faces a French fries shortage in Japan - BBC News
@@ -496,6 +497,7 @@
  - RSS feed: https://www.pinknews.co.uk
  - date published: 2021-11-22 14:51:48.260654+00:00
  - user: Thomas Pain
+ - tags: trans,gender
 
 
 ## Who, and Where, Is Chinese Tennis Star Peng Shuai? - The New York Times
@@ -546,6 +548,14 @@
  - RSS feed: https://www.psypost.org
  - date published: 2021-11-20 08:47:27.718359+00:00
  - user: Thomas Pain
+
+
+## ‘The algorithm has primacy over media … over each of us, and it controls what we do’
+ - [https://hls.harvard.edu/today/the-algorithm-has-primacy-over-media-over-each-of-us-and-it-controls-what-we-do/](https://hls.harvard.edu/today/the-algorithm-has-primacy-over-media-over-each-of-us-and-it-controls-what-we-do/)
+ - RSS feed: https://hls.harvard.edu
+ - date published: 2021-11-18 20:12:44+00:00
+ - user: rumpel
+ - tags: bigtech,elites,algorithm,media
 
 
 ## Understanding why our build got 15x slower with Webpack 5 - Tines Engineering
@@ -823,6 +833,14 @@
  - user: Thomas Pain
 
 
+## Italy’s disputed homophobia bill defeated in Senate
+ - [https://cruxnow.com/church-in-europe/2021/10/italys-disputed-homophobia-bill-defeated-in-senate](https://cruxnow.com/church-in-europe/2021/10/italys-disputed-homophobia-bill-defeated-in-senate)
+ - RSS feed: https://cruxnow.com
+ - date published: 2021-10-29 22:00:47+00:00
+ - user: rumpel
+ - tags: inequality,italy,lgbt
+
+
 ## MEP's stand up for our right to freedom after imposing Digital Green Certificate to enter Parliament
  - [https://www.youtube.com/watch?v=lEkvD5To02U](https://www.youtube.com/watch?v=lEkvD5To02U)
  - RSS feed: https://www.youtube.com/@AnthonyStabourlos
@@ -836,6 +854,7 @@
  - RSS feed: https://www.bbc.co.uk
  - date published: 2021-10-28 22:00:40.700079+00:00
  - user: Thomas Pain
+ - tags: woke,trans,uk,gender
 
 
 ## Viewing website HTML code is not illegal or “hacking,” prof. tells Missouri gov. | Ars Technica
@@ -1044,6 +1063,14 @@
  - RSS feed: https://www.bleepingcomputer.com
  - date published: 2021-10-17 07:59:04.789371+00:00
  - user: Thomas Pain
+
+
+## Female Spanish thriller writer Carmen Mola revealed to be three men
+ - [https://www.theguardian.com/books/2021/oct/16/female-spanish-thriller-writer-carmen-mola-revealed-to-be-three-men](https://www.theguardian.com/books/2021/oct/16/female-spanish-thriller-writer-carmen-mola-revealed-to-be-three-men)
+ - RSS feed: https://www.theguardian.com
+ - date published: 2021-10-16 20:30:23+00:00
+ - user: rumpel
+ - tags: feminism,discrimination,trolling,inequality
 
 
 ## Valve bans blockchain games and NFTs on Steam, Epic will try to make it work - The Verge
@@ -1263,6 +1290,7 @@
  - RSS feed: https://www.pinknews.co.uk
  - date published: 2021-10-07 05:51:28.844135+00:00
  - user: Thomas Pain
+ - tags: bigbrother,uk,gender
 
 
 ## Tim Pool Permanently BANNED By TikTok, Likely Due To Hosting Alex Jones, Who Broke No Rules
@@ -1299,6 +1327,14 @@
  - RSS feed: https://blog.cloudflare.com
  - date published: 2021-10-05 06:11:47.122873+00:00
  - user: Thomas Pain
+
+
+## Trans, non-binary server awarded $30,000 in employment dispute over pronouns
+ - [https://www.independent.co.uk/news/world/americas/canadian-tribunal-transgender-nonbinary-restaurant-worker-pronouns-b1931972.html](https://www.independent.co.uk/news/world/americas/canadian-tribunal-transgender-nonbinary-restaurant-worker-pronouns-b1931972.html)
+ - RSS feed: https://www.independent.co.uk
+ - date published: 2021-10-04 21:54:58+00:00
+ - user: rumpel
+ - tags: inequality,bigbrother,lgbt,trans
 
 
 ## The Problem of Marital Loneliness | The New Yorker
@@ -2959,6 +2995,14 @@
  - tags: covid,covid lie,fauci
 
 
+## A Virginia Teacher Was Put On Leave After Opposing New Rights For Trans Students
+ - [https://www.npr.org/2021/06/02/1002479412/a-virginia-teacher-was-put-on-leave-after-opposing-a-new-policy-for-trans-studen](https://www.npr.org/2021/06/02/1002479412/a-virginia-teacher-was-put-on-leave-after-opposing-a-new-policy-for-trans-studen)
+ - RSS feed: https://www.npr.org
+ - date published: 2021-06-02 21:17:09+00:00
+ - user: rumpel
+ - tags: lgbt,gender,intolerance,america
+
+
 ## We Now Know Why Facebook May Have Censored the Lab Leak Theory
  - [https://townhall.com/tipsheet/katiepavlich/2021/06/02/we-now-know-why-facebook-may-have-censored-the-lab-leak-theory-n2590360](https://townhall.com/tipsheet/katiepavlich/2021/06/02/we-now-know-why-facebook-may-have-censored-the-lab-leak-theory-n2590360)
  - RSS feed: townhall.com
@@ -3051,6 +3095,14 @@
  - tags: fauci,transmission,covid
 
 
+## Neuroscience Professor Removed From APA Discussion After Saying There Are Only Two Sexes
+ - [https://www.newsweek.com/neuroscience-professor-removed-apa-discussion-after-saying-there-are-only-two-genders-1591697](https://www.newsweek.com/neuroscience-professor-removed-apa-discussion-after-saying-there-are-only-two-genders-1591697)
+ - RSS feed: https://www.newsweek.com
+ - date published: 2021-05-14 20:54:35+00:00
+ - user: rumpel
+ - tags: intolerance,gender
+
+
 ## Chinese document discussing weaponising coronaviruses provides 'chilling' informati
  - [https://www.youtube.com/watch?v=kuKPBur_TiI](https://www.youtube.com/watch?v=kuKPBur_TiI)
  - RSS feed: https://www.youtube.com
@@ -3133,12 +3185,28 @@
  - user: None
 
 
+## Richard Dawkins loses ‘humanist of the year’ title over trans comments
+ - [https://www.theguardian.com/books/2021/apr/20/richard-dawkins-loses-humanist-of-the-year-trans-comments?CMP=fb_gu](https://www.theguardian.com/books/2021/apr/20/richard-dawkins-loses-humanist-of-the-year-trans-comments?CMP=fb_gu)
+ - RSS feed: https://www.theguardian.com
+ - date published: 2021-04-21 22:05:57+00:00
+ - user: rumpel
+ - tags: intolerance,censorship,lgbt,trans
+
+
 ## TERREG: Controversial EU anti-terror Internet regulation TERREG about to be adopted
  - [https://www.patrick-breyer.de/en/controversial-eu-anti-terror-internet-regulation-terreg-about-to-be-adopted/](https://www.patrick-breyer.de/en/controversial-eu-anti-terror-internet-regulation-terreg-about-to-be-adopted/)
  - RSS feed: www.patrick-breyer.de
  - date published: 2021-04-20 13:00:57+00:00
  - user: None
  - tags: terreg,censorship
+
+
+## Shock Video: Children Being Paraded Across The Stage Urging Them To Pose For Cash At A Los Angeles Drag Club In The Middle Of The Night
+ - [https://defiantamerica.com/shock-video-children-being-paraded-across-the-stage-urging-them-to-pose-for-cash-at-a-los-angeles-drag-club-in-the-middle-of-the-night/](https://defiantamerica.com/shock-video-children-being-paraded-across-the-stage-urging-them-to-pose-for-cash-at-a-los-angeles-drag-club-in-the-middle-of-the-night/)
+ - RSS feed: https://defiantamerica.com
+ - date published: 2021-04-19 22:15:58+00:00
+ - user: rumpel
+ - tags: sexualisation,kids,lgbt
 
 
 ## CNN staffer tells Project Veritas network played up COVID-19 death toll for ratings
@@ -3353,4 +3421,12 @@
  - date published: 2021-01-05 20:44:59+00:00
  - user: None
  - tags: dead internet,all time
+
+
+## House introduces gender-neutral language in new rules for Congress
+ - [https://thehill.com/changing-america/respect/diversity-inclusion/532518-house-introduces-gender-neutral-language-in-new](https://thehill.com/changing-america/respect/diversity-inclusion/532518-house-introduces-gender-neutral-language-in-new)
+ - RSS feed: https://thehill.com
+ - date published: 2021-01-04 21:53:34+00:00
+ - user: rumpel
+ - tags: gender,pronouns,lgbt,social engineering
 

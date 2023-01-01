@@ -5,6 +5,14 @@
  - user: None
 
 
+## Why the Left Think They are Better | Peter Hitchens
+ - [https://www.youtube.com/watch?v=8qCHRYMe66g](https://www.youtube.com/watch?v=8qCHRYMe66g)
+ - RSS feed: https://www.youtube.com
+ - date published: 2018-12-11 21:34:27+00:00
+ - user: rumpel
+ - tags: ideology,propaganda,theleft,sjw
+
+
 ## Are Google and Facebook really suppressing conservative politics?
  - [https://www.theguardian.com/technology/2018/dec/04/google-facebook-anti-conservative-bias-claims](https://www.theguardian.com/technology/2018/dec/04/google-facebook-anti-conservative-bias-claims)
  - RSS feed: https://www.theguardian.com
@@ -34,6 +42,14 @@
  - RSS feed: https://notrelated.xyz/rss
  - date published: 2018-11-16 05:00:00+00:00
  - user: None
+
+
+## Joe Rogan - Exposing Social Justice with Peter Boghossian & James Lindsay
+ - [https://www.youtube.com/watch?v=OlqU_JMTzd4](https://www.youtube.com/watch?v=OlqU_JMTzd4)
+ - RSS feed: https://www.youtube.com
+ - date published: 2018-10-30 20:27:37+00:00
+ - user: rumpel
+ - tags: sjw,feminism,rogan,lgbt,woke
 
 
 ## 'City of surveillance': privacy expert quits Toronto's smart-city project
@@ -79,6 +95,7 @@
  - RSS feed: https://www.youtube.com/watch?v=dn6x_9CLTB4
  - date published: 2018-10-04 17:01:34+00:00
  - user: None
+ - tags: culture,keyes,christianophobia,lgbt
 
 
 ## Democracy: Rule of the NPCs
@@ -263,6 +280,14 @@
  - date published: 2018-03-17 11:11:42+00:00
  - user: None
  - tags: trump,propaganda,facebook,censorship,cambridge analytica
+
+
+## Young Catholics vs LGBT Bullies in the Netherlands
+ - [https://www.youtube.com/watch?v=47gQDbTaWqA](https://www.youtube.com/watch?v=47gQDbTaWqA)
+ - RSS feed: https://www.youtube.com
+ - date published: 2018-03-14 20:40:28+00:00
+ - user: rumpel
+ - tags: lgbt,intolerance,christianophobia
 
 
 ## UN blames Facebook for spreading hate speech in possible Myanmar genocide of Rohingya Muslims

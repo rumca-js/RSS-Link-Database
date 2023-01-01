@@ -198,6 +198,14 @@
  - user: None
 
 
+## Eton was right to sack teacher Will Knowland
+ - [https://www.spectator.co.uk/article/eton-was-right-to-sack-will-knowland/](https://www.spectator.co.uk/article/eton-was-right-to-sack-will-knowland/)
+ - RSS feed: https://www.spectator.co.uk
+ - date published: 2020-12-03 20:33:35+00:00
+ - user: rumpel
+ - tags: feminism,patriarchy,censorship,gender,inequality
+
+
 ## Journalists across EU face wave of attacks covering anti-lockdown protests
  - [https://ipi.media/journalists-across-eu-face-wave-of-attacks-covering-anti-lockdown-protests/](https://ipi.media/journalists-across-eu-face-wave-of-attacks-covering-anti-lockdown-protests/)
  - RSS feed: https://ipi.media
@@ -214,6 +222,14 @@
  - tags: pfizer,uk,nop,covid
 
 
+## Time's Up charities set up by celebrities as part of Me Too movement spent $1.4m on salaries including $157k on conferences at luxury resorts
+ - [https://www.dailymail.co.uk/news/article-8997707/Times-organization-raised-3-6m-2018-cash-went-salaries-not-victims.html](https://www.dailymail.co.uk/news/article-8997707/Times-organization-raised-3-6m-2018-cash-went-salaries-not-victims.html)
+ - RSS feed: https://www.dailymail.co.uk
+ - date published: 2020-11-29 20:26:43+00:00
+ - user: rumpel
+ - tags: feminism,discrimination,hypocrisy
+
+
 ## Lekarz: Strategia testowania i izolowania jest samobójcza
  - [https://tarnogorski.info/pilne-kierownik-oddzia/](https://tarnogorski.info/pilne-kierownik-oddzia/)
  - RSS feed: tarnogorski.info
@@ -222,12 +238,28 @@
  - tags: lockdown,covid
 
 
+## Star-studded Time’s Up charities spent big on salaries, little on helping victims
+ - [https://nypost.com/2020/11/28/star-studded-times-up-charities-spent-big-on-salaries-not-victims/](https://nypost.com/2020/11/28/star-studded-times-up-charities-spent-big-on-salaries-not-victims/)
+ - RSS feed: https://nypost.com
+ - date published: 2020-11-28 20:25:51+00:00
+ - user: rumpel
+ - tags: feminism,discrimination,hypocrisy
+
+
 ## WikiLeaks 'Cablegate' 10 years on
  - [https://www.dw.com/en/wikileaks-cablegate-10-years-on-an-unvarnished-look-at-us-foreign-policy/a-55755239](https://www.dw.com/en/wikileaks-cablegate-10-years-on-an-unvarnished-look-at-us-foreign-policy/a-55755239)
  - RSS feed: https://www.dw.com
  - date published: 2020-11-28 20:05:21+00:00
  - user: None
  - tags: cablegate,hillary clinton,assange,wikileaks
+
+
+## New Jersey Starbucks barista claims she was fired for refusing to wear a Pride T-shirt because of her religious beliefs
+ - [https://www.dailymail.co.uk/news/article-8993007/New-Jersey-Starbucks-barista-claims-fired-refusing-wear-Pride-T-shirt.html](https://www.dailymail.co.uk/news/article-8993007/New-Jersey-Starbucks-barista-claims-fired-refusing-wear-Pride-T-shirt.html)
+ - RSS feed: https://www.dailymail.co.uk
+ - date published: 2020-11-27 22:05:08+00:00
+ - user: rumpel
+ - tags: intolerance,america,lgbt
 
 
 ## How Does China's Social Credit System Work?
@@ -288,6 +320,22 @@
  - user: None
 
 
+## Norway outlaws hate speech against trans people
+ - [https://news.trust.org/item/20201110191107-tecjt/](https://news.trust.org/item/20201110191107-tecjt/)
+ - RSS feed: https://news.trust.org
+ - date published: 2020-11-10 22:01:46+00:00
+ - user: rumpel
+ - tags: norway,hate speech,lgbt,trans
+
+
+## Netherlands uncovers network helping Ugandan asylum seekers fake being gay
+ - [https://www.reuters.com/article/us-netherlands-lgbt-asylum-trfn-idUSKBN27L29M](https://www.reuters.com/article/us-netherlands-lgbt-asylum-trfn-idUSKBN27L29M)
+ - RSS feed: https://www.reuters.com
+ - date published: 2020-11-05 21:05:40+00:00
+ - user: rumpel
+ - tags: gay,lgbt,inequality,netherlands
+
+
 ## Twitter censors Trump’s tweets about ‘disappearing’ ballots
  - [https://nypost.com/2020/11/04/twitter-censors-trumps-tweets-about-disappearing-ballots/](https://nypost.com/2020/11/04/twitter-censors-trumps-tweets-about-disappearing-ballots/)
  - RSS feed: nypost.com
@@ -318,6 +366,14 @@
  - tags: dsa
 
 
+## Artykuł o „Margot” na Wikipedii z najwyższym poziomem ochrony. Tylko nieliczni mogą zmieniać treść
+ - [https://www.tvp.info/50178233/artykul-o-margot-na-anglojezycznej-wikipedii-z-najwyzszym-poziomem-ochrony-tylko-nieliczni-moga-ingerowac-w-tresc-wieszwiecej](https://www.tvp.info/50178233/artykul-o-margot-na-anglojezycznej-wikipedii-z-najwyzszym-poziomem-ochrony-tylko-nieliczni-moga-ingerowac-w-tresc-wieszwiecej)
+ - RSS feed: https://www.tvp.info
+ - date published: 2020-10-04 21:09:53+00:00
+ - user: rumpel
+ - tags: lgbt,inequality,margot
+
+
 ## Dr Martin Feeley: I lost my job for speaking out
  - [https://www.independent.ie/world-news/coronavirus/i-lost-my-job-for-speaking-out-but-i-have-no-regrets-dr-martin-feeley-on-his-coronavirus-views-39585808.html](https://www.independent.ie/world-news/coronavirus/i-lost-my-job-for-speaking-out-but-i-have-no-regrets-dr-martin-feeley-on-his-coronavirus-views-39585808.html)
  - RSS feed: www.independent.ie
@@ -345,6 +401,14 @@
  - date published: 2020-09-30 13:08:38+00:00
  - user: None
  - tags: government,government control,freedom
+
+
+## Louisiana man, 36, is arrested when Florida parents discover he has been living in their 15-year-old daughter's closet for more than a MONTH
+ - [https://www.dailymail.co.uk/news/article-8789849/Louisiana-man-living-15-year-old-Florida-girls-closet-MONTH.html](https://www.dailymail.co.uk/news/article-8789849/Louisiana-man-living-15-year-old-Florida-girls-closet-MONTH.html)
+ - RSS feed: https://www.dailymail.co.uk
+ - date published: 2020-09-30 13:06:20+00:00
+ - user: rumpel
+ - tags: vrchat,vr
 
 
 ## Carbon emissions of richest 1 percent more than double the emissions of the poorest half of humanity
@@ -377,6 +441,14 @@
  - user: None
 
 
+## The Patriarchy Paradox
+ - [https://www.youtube.com/watch?v=wTHgMxQEoPI](https://www.youtube.com/watch?v=wTHgMxQEoPI)
+ - RSS feed: https://www.youtube.com
+ - date published: 2020-09-19 20:37:21+00:00
+ - user: rumpel
+ - tags: feminism,gender,patriarchy,inequality
+
+
 ## Ekspert: Rząd w ustawie o cyberbezpieczeństwie wprowadza cenzurę internetu
  - [https://www.bankier.pl/wiadomosc/Ekspert-Rzad-w-ustawie-o-cyberbezpieczenstwie-wprowadza-cenzure-internetu-7964382.html](https://www.bankier.pl/wiadomosc/Ekspert-Rzad-w-ustawie-o-cyberbezpieczenstwie-wprowadza-cenzure-internetu-7964382.html)
  - RSS feed: www.bankier.pl
@@ -399,11 +471,35 @@
  - user: None
 
 
+## Norway will prioritise lesbian, gay, bisexual and transgender refugees
+ - [https://www.euronews.com/2020/07/09/norway-will-prioritise-lesbian-gay-bisexual-and-transgender-refugees](https://www.euronews.com/2020/07/09/norway-will-prioritise-lesbian-gay-bisexual-and-transgender-refugees)
+ - RSS feed: https://www.euronews.com
+ - date published: 2020-09-07 21:01:23+00:00
+ - user: rumpel
+ - tags: norway,lgbt,inequality
+
+
 ## Hedonism, Asceticism and the Hermetic Answer
  - [https://lukesmith.xyz/articles/hedonism-asceticism-and-the-hermetic-answer/](https://lukesmith.xyz/articles/hedonism-asceticism-and-the-hermetic-answer/)
  - RSS feed: https://lukesmith.xyz/rss.xml
  - date published: 2020-09-03 00:00:00+00:00
  - user: None
+
+
+## California Acts to Increase LGBT, Racial Diversity on Corporate Boards
+ - [https://southfloridagaynews.com/National/california-acts-to-increase-lgbt-racial-diversity-on-corporate-boards.html](https://southfloridagaynews.com/National/california-acts-to-increase-lgbt-racial-diversity-on-corporate-boards.html)
+ - RSS feed: https://southfloridagaynews.com
+ - date published: 2020-09-02 21:12:40+00:00
+ - user: rumpel
+ - tags: lgbt,inequality
+
+
+## Academics Are Really, Really Worried About Their Freedom
+ - [https://www.theatlantic.com/ideas/archive/2020/09/academics-are-really-really-worried-about-their-freedom/615724/](https://www.theatlantic.com/ideas/archive/2020/09/academics-are-really-really-worried-about-their-freedom/615724/)
+ - RSS feed: https://www.theatlantic.com
+ - date published: 2020-09-01 22:02:49+00:00
+ - user: rumpel
+ - tags: race,woke,science,cancel culture,censorship
 
 
 ## The huge change coming to how you claim government benefits: Aussies will use new $250million facial recognition to access services
@@ -440,6 +536,14 @@
  - date published: 2020-08-21 12:51:44+00:00
  - user: None
  - tags: israel
+
+
+## Goodyear employees say new zero-tolerance policy from Akron HQ is discriminatory
+ - [https://www.cleveland19.com/2020/08/18/goodyear-employees-say-new-zero-tolerance-policy-akron-hq-is-discriminatory/](https://www.cleveland19.com/2020/08/18/goodyear-employees-say-new-zero-tolerance-policy-akron-hq-is-discriminatory/)
+ - RSS feed: https://www.cleveland19.com
+ - date published: 2020-08-19 21:11:08+00:00
+ - user: rumpel
+ - tags: politics,lgbt,inequality
 
 
 ## New P2P botnet infects SSH servers all over the world
@@ -507,11 +611,35 @@
  - user: None
 
 
+## Paedophile Labour councillor who worked in children's home walks free despite being caught with over one million child porn images including 12-year-old girls being raped
+ - [https://www.dailymail.co.uk/news/article-8568833/Paedophile-Labour-councillor-worked-childrens-home-walks-free.html](https://www.dailymail.co.uk/news/article-8568833/Paedophile-Labour-councillor-worked-childrens-home-walks-free.html)
+ - RSS feed: https://www.dailymail.co.uk
+ - date published: 2020-07-28 21:09:04+00:00
+ - user: rumpel
+ - tags: inequality,lgbt,paedophilia
+
+
 ## Globaliści planują Wielki Reset
  - [https://independenttrader.pl/globalisci-planuja-wielki-reset.html](https://independenttrader.pl/globalisci-planuja-wielki-reset.html)
  - RSS feed: independenttrader.pl
  - date published: 2020-07-28 07:48:25+00:00
  - user: None
+
+
+## Dziennikarka Do Rzeczy: kobieta, która złoży zawiadomienie o byciu ofiarą przemocy, może łatwo się wzbogacić
+ - [https://www.donald.pl/artykuly/kAQZehtP/dziennikarka-do-rzeczy-kobieta-ktora-zlozy-zawiadomienie-o-byciu-ofiara-przemocy-moze-latwo-sie-wzbogacic](https://www.donald.pl/artykuly/kAQZehtP/dziennikarka-do-rzeczy-kobieta-ktora-zlozy-zawiadomienie-o-byciu-ofiara-przemocy-moze-latwo-sie-wzbogacic)
+ - RSS feed: https://www.donald.pl
+ - date published: 2020-07-27 20:19:25+00:00
+ - user: rumpel
+ - tags: feminism,discrimination,poland
+
+
+## Kobiety są zdecydowanym beneficjentem systemu, w przeciwieństwie do mężczyzn
+ - [https://obserwatorgospodarczy.pl/2020/07/27/kobiety-sa-zdecydowanym-beneficjentem-systemu-w-przeciwienstwie-do-mezczyzn/](https://obserwatorgospodarczy.pl/2020/07/27/kobiety-sa-zdecydowanym-beneficjentem-systemu-w-przeciwienstwie-do-mezczyzn/)
+ - RSS feed: https://obserwatorgospodarczy.pl
+ - date published: 2020-07-27 20:17:28+00:00
+ - user: rumpel
+ - tags: feminism,discrimination,poland
 
 
 ## Instagram podgląda użytkowników podczas przeglądania treści w portalu?
@@ -542,6 +670,22 @@
  - date published: 2020-07-23 08:17:09+00:00
  - user: None
  - tags: blm,mccloskey
+
+
+## Poll: 62% of Americans Say They Have Political Views They’re Afraid to Share
+ - [https://www.cato.org/publications/survey-reports/poll-62-americans-say-they-have-political-views-theyre-afraid-share#introduction](https://www.cato.org/publications/survey-reports/poll-62-americans-say-they-have-political-views-theyre-afraid-share#introduction)
+ - RSS feed: https://www.cato.org
+ - date published: 2020-07-22 20:48:33+00:00
+ - user: rumpel
+ - tags: politics,intolerance,america
+
+
+## Gunmen Kill 18 Wedding Guests in Northern Nigeria
+ - [https://www.thedefensepost.com/2020/07/21/gunmen-wedding-nigeria/](https://www.thedefensepost.com/2020/07/21/gunmen-wedding-nigeria/)
+ - RSS feed: https://www.thedefensepost.com
+ - date published: 2020-07-21 21:04:07+00:00
+ - user: rumpel
+ - tags: nigeria,christianophobia
 
 
 ## The hypocrisy of the Black Lives Matter Movement
@@ -607,6 +751,14 @@
  - tags: science,pollution,climate change
 
 
+## Norwegia priorytetowo przyjmie uchodźców LGBT+ - Noizz
+ - [https://noizz.pl/lgbt/norwegia-priorytetowo-przyjmie-uchodzcow-lgbt/zzy65sy](https://noizz.pl/lgbt/norwegia-priorytetowo-przyjmie-uchodzcow-lgbt/zzy65sy)
+ - RSS feed: https://noizz.pl
+ - date published: 2020-07-07 21:00:09+00:00
+ - user: rumpel
+ - tags: lgbt,inequality
+
+
 ## Confessions Of A Dead Man: Personal Driver Of Jeffrey Epstein And Other Elites Tells All
  - [https://cloverchronicle.com/2020/07/03/confessions-of-a-dead-man-personal-driver-of-jeffrey-epstein-and-other-elites-tells-all/](https://cloverchronicle.com/2020/07/03/confessions-of-a-dead-man-personal-driver-of-jeffrey-epstein-and-other-elites-tells-all/)
  - RSS feed: https://cloverchronicle.com
@@ -657,7 +809,15 @@
  - RSS feed: https://www.rp.pl
  - date published: 2020-06-26 07:32:08+00:00
  - user: None
- - tags: pedophilia,germany,government,kentler
+ - tags: kentler,germany,government,paedophilia
+
+
+## Przez 30 lat Berlin udostępniał dzieci pedofilom. Nazywano to "eksperymentem Kentlera" [RAPORT]
+ - [https://wiadomosci.dziennik.pl/swiat/artykuly/7746506,berlin-dzieci-bezdomne-pedofile-eksperyment-helmut-kentler-pornografia-dziecieca.html](https://wiadomosci.dziennik.pl/swiat/artykuly/7746506,berlin-dzieci-bezdomne-pedofile-eksperyment-helmut-kentler-pornografia-dziecieca.html)
+ - RSS feed: https://wiadomosci.dziennik.pl
+ - date published: 2020-06-18 22:18:53+00:00
+ - user: rumpel
+ - tags: germany,kentler,paedophilia
 
 
 ## Berlin authorities placed children with pedophiles
@@ -665,7 +825,7 @@
  - RSS feed: https://www.dw.com
  - date published: 2020-06-15 07:31:10+00:00
  - user: None
- - tags: pedophilia,berlin,government
+ - tags: berlin,government,paedophilia
 
 
 ## Christopher Columbus statues are being beheaded and torn down during Black Lives Matter protests

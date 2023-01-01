@@ -50,6 +50,22 @@
  - user: None
 
 
+## Artykuł o „Margot” na Wikipedii z najwyższym poziomem ochrony. Tylko nieliczni mogą zmieniać treść
+ - [https://www.tvp.info/50178233/artykul-o-margot-na-anglojezycznej-wikipedii-z-najwyzszym-poziomem-ochrony-tylko-nieliczni-moga-ingerowac-w-tresc-wieszwiecej](https://www.tvp.info/50178233/artykul-o-margot-na-anglojezycznej-wikipedii-z-najwyzszym-poziomem-ochrony-tylko-nieliczni-moga-ingerowac-w-tresc-wieszwiecej)
+ - RSS feed: https://www.tvp.info
+ - date published: 2020-10-04 21:09:53+00:00
+ - user: rumpel
+ - tags: lgbt,inequality,margot
+
+
+## The Patriarchy Paradox
+ - [https://www.youtube.com/watch?v=wTHgMxQEoPI](https://www.youtube.com/watch?v=wTHgMxQEoPI)
+ - RSS feed: https://www.youtube.com
+ - date published: 2020-09-19 20:37:21+00:00
+ - user: rumpel
+ - tags: feminism,gender,patriarchy,inequality
+
+
 ## Ekspert: Rząd w ustawie o cyberbezpieczeństwie wprowadza cenzurę internetu
  - [https://www.bankier.pl/wiadomosc/Ekspert-Rzad-w-ustawie-o-cyberbezpieczenstwie-wprowadza-cenzure-internetu-7964382.html](https://www.bankier.pl/wiadomosc/Ekspert-Rzad-w-ustawie-o-cyberbezpieczenstwie-wprowadza-cenzure-internetu-7964382.html)
  - RSS feed: www.bankier.pl
@@ -63,6 +79,22 @@
  - RSS feed: zaufanatrzeciastrona.pl
  - date published: 2020-09-16 06:49:35+00:00
  - user: None
+
+
+## Dziennikarka Do Rzeczy: kobieta, która złoży zawiadomienie o byciu ofiarą przemocy, może łatwo się wzbogacić
+ - [https://www.donald.pl/artykuly/kAQZehtP/dziennikarka-do-rzeczy-kobieta-ktora-zlozy-zawiadomienie-o-byciu-ofiara-przemocy-moze-latwo-sie-wzbogacic](https://www.donald.pl/artykuly/kAQZehtP/dziennikarka-do-rzeczy-kobieta-ktora-zlozy-zawiadomienie-o-byciu-ofiara-przemocy-moze-latwo-sie-wzbogacic)
+ - RSS feed: https://www.donald.pl
+ - date published: 2020-07-27 20:19:25+00:00
+ - user: rumpel
+ - tags: feminism,discrimination,poland
+
+
+## Kobiety są zdecydowanym beneficjentem systemu, w przeciwieństwie do mężczyzn
+ - [https://obserwatorgospodarczy.pl/2020/07/27/kobiety-sa-zdecydowanym-beneficjentem-systemu-w-przeciwienstwie-do-mezczyzn/](https://obserwatorgospodarczy.pl/2020/07/27/kobiety-sa-zdecydowanym-beneficjentem-systemu-w-przeciwienstwie-do-mezczyzn/)
+ - RSS feed: https://obserwatorgospodarczy.pl
+ - date published: 2020-07-27 20:17:28+00:00
+ - user: rumpel
+ - tags: feminism,discrimination,poland
 
 
 ## Instagram podgląda użytkowników podczas przeglądania treści w portalu?
@@ -86,12 +118,28 @@
  - user: None
 
 
+## Norwegia priorytetowo przyjmie uchodźców LGBT+ - Noizz
+ - [https://noizz.pl/lgbt/norwegia-priorytetowo-przyjmie-uchodzcow-lgbt/zzy65sy](https://noizz.pl/lgbt/norwegia-priorytetowo-przyjmie-uchodzcow-lgbt/zzy65sy)
+ - RSS feed: https://noizz.pl
+ - date published: 2020-07-07 21:00:09+00:00
+ - user: rumpel
+ - tags: lgbt,inequality
+
+
 ## Eksperyment Kentlera. Jak w Niemczech przekazywano dzieci pedofilom
  - [https://www.rp.pl/spoleczenstwo/art654161-eksperyment-kentlera-jak-w-niemczech-przekazywano-dzieci-pedofilom](https://www.rp.pl/spoleczenstwo/art654161-eksperyment-kentlera-jak-w-niemczech-przekazywano-dzieci-pedofilom)
  - RSS feed: https://www.rp.pl
  - date published: 2020-06-26 07:32:08+00:00
  - user: None
- - tags: pedophilia,germany,government,kentler
+ - tags: kentler,germany,government,paedophilia
+
+
+## Przez 30 lat Berlin udostępniał dzieci pedofilom. Nazywano to "eksperymentem Kentlera" [RAPORT]
+ - [https://wiadomosci.dziennik.pl/swiat/artykuly/7746506,berlin-dzieci-bezdomne-pedofile-eksperyment-helmut-kentler-pornografia-dziecieca.html](https://wiadomosci.dziennik.pl/swiat/artykuly/7746506,berlin-dzieci-bezdomne-pedofile-eksperyment-helmut-kentler-pornografia-dziecieca.html)
+ - RSS feed: https://wiadomosci.dziennik.pl
+ - date published: 2020-06-18 22:18:53+00:00
+ - user: rumpel
+ - tags: germany,kentler,paedophilia
 
 
 ## Jest afera. Każdy smartfon Xiaomi to podobno „backdoor z funkcjonalnością telefonu”

@@ -66,6 +66,14 @@
  - tags: covid
 
 
+## Słynna hiszpańska autorka bestsellerów okazała się trzema mężczyznami
+ - [https://plotkibiznesowe.pl/2021/10/18/slynna-hiszpanska-autorka-bestsellerow-okazala-sie-trzema-mezczyznami/](https://plotkibiznesowe.pl/2021/10/18/slynna-hiszpanska-autorka-bestsellerow-okazala-sie-trzema-mezczyznami/)
+ - RSS feed: https://plotkibiznesowe.pl
+ - date published: 2021-10-18 20:31:39+00:00
+ - user: rumpel
+ - tags: feminism,discrimination,trolling,inequality
+
+
 ## Safer Enums in Go
  - [https://threedots.tech/post/safer-enums-in-go/](https://threedots.tech/post/safer-enums-in-go/)
  - RSS feed: https://threedots.tech
@@ -147,6 +155,22 @@
  - user: None
 
 
+## Dania: Nagi uczestnik programu telewizyjnego dla dzieci skazany za pedofilię
+ - [https://www.wnp.pl/rynki-zagraniczne/dania-nagi-uczestnik-programu-telewizyjnego-dla-dzieci-skazany-za-pedofilie,466308.html](https://www.wnp.pl/rynki-zagraniczne/dania-nagi-uczestnik-programu-telewizyjnego-dla-dzieci-skazany-za-pedofilie,466308.html)
+ - RSS feed: https://www.wnp.pl
+ - date published: 2021-04-30 22:23:58+00:00
+ - user: rumpel
+ - tags: sexualisation,kids,paedophilia
+
+
+## Gwałt po nowemu. O zgubnych konsekwencjach lewicowego paradygmatu
+ - [https://klubjagiellonski.pl/2021/04/27/gwalt-po-nowemu-o-zgubnych-konsekwencjach-lewicowego-paradygmatu-polemika/](https://klubjagiellonski.pl/2021/04/27/gwalt-po-nowemu-o-zgubnych-konsekwencjach-lewicowego-paradygmatu-polemika/)
+ - RSS feed: https://klubjagiellonski.pl
+ - date published: 2021-04-27 20:24:07+00:00
+ - user: rumpel
+ - tags: feminism,discrimination,poland,rape
+
+
 ## „Nie szczepisz się, nie pracujesz z ludźmi”. Dyrektor UCK wzywa do wprowadzenia szczepionkowych sankcji
  - [https://m.pch24.pl/nie-szczepisz-sie-nie-pracujesz-z-ludzmi-lekarz-wzywa-do-wprowadzenia-szczepionkowych-sankcji/](https://m.pch24.pl/nie-szczepisz-sie-nie-pracujesz-z-ludzmi-lekarz-wzywa-do-wprowadzenia-szczepionkowych-sankcji/)
  - RSS feed: https://m.pch24.pl
@@ -183,7 +207,7 @@
  - RSS feed: https://wiez.pl
  - date published: 2021-03-15 07:33:08+00:00
  - user: None
- - tags: pedophilia,germany,government,kentler
+ - tags: kentler,germany,government,paedophilia
 
 
 ## WHO odrzuca planowane unijne paszporty szczepień
@@ -255,6 +279,14 @@
  - date published: 2021-01-21 14:12:34+00:00
  - user: rumpel
  - tags: vaccine,camps,germany
+
+
+## Szpitale tymczasowe kosztowały ponad 500 mln zł. Dlaczego stoją puste?
+ - [https://www.medonet.pl/koronawirus/koronawirus-w-polsce,szpitale-tymczasowe-kosztowaly-ponad-500-mln-zlotych--dlaczego-stoja-puste-,artykul,98771495.html](https://www.medonet.pl/koronawirus/koronawirus-w-polsce,szpitale-tymczasowe-kosztowaly-ponad-500-mln-zlotych--dlaczego-stoja-puste-,artykul,98771495.html)
+ - RSS feed: https://www.medonet.pl
+ - date published: 2021-01-21 11:18:28+00:00
+ - user: rumpel
+ - tags: covid,hospital
 
 
 ## "Economist": Świat nie może pozwolić oligopolom technologicznym na przejęcie kontroli nad podstawowymi swobodami

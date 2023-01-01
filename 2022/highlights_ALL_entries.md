@@ -1,3 +1,10 @@
+## Appeals court rules against transgender man in bathroom case
+ - [https://abcnews.go.com/US/wireStory/appeals-court-rules-transgender-man-bathroom-case-96020070](https://abcnews.go.com/US/wireStory/appeals-court-rules-transgender-man-bathroom-case-96020070)
+ - RSS feed: http://feeds.abcnews.com/abcnews/topstories
+ - date published: 2022-12-31 23:36:47+00:00
+ - user: rumpel
+
+
 ## You Don’t Have to be a Conspiracy Theorist to be Worried About the World Economic Forum
  - [https://dailysceptic.org/2022/12/31/you-dont-have-to-be-a-conspiracy-theorist-to-be-worried-about-the-world-economic-forum/](https://dailysceptic.org/2022/12/31/you-dont-have-to-be-a-conspiracy-theorist-to-be-worried-about-the-world-economic-forum/)
  - RSS feed: https://dailysceptic.org/feed/
@@ -48,6 +55,14 @@
  - date published: 2022-12-30 19:22:44+00:00
  - user: rumpel
  - tags: google,location,tracking
+
+
+## Anger as EU project sees Police Scotland rebrand paedophiles as 'Minor-Attracted People'
+ - [https://www.scottishdailyexpress.co.uk/news/scottish-news/anger-eu-project-sees-police-28841534](https://www.scottishdailyexpress.co.uk/news/scottish-news/anger-eu-project-sees-police-28841534)
+ - RSS feed: https://www.scottishdailyexpress.co.uk
+ - date published: 2022-12-30 16:57:30+00:00
+ - user: rumpel
+ - tags: scotland,woke,bigbrother,paedophilia
 
 
 ## The Twitter Files Reveal That Intentions Don't Matter When It Comes to Suppressing Speech | Opinion
@@ -219,6 +234,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-12-27 23:59:01+00:00
  - user: rumpel
+ - tags: woke,australia,gender
 
 
 ## Republican George Santos admits lying on his CV
@@ -275,6 +291,7 @@
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-26 23:00:18+00:00
  - user: rumpel
+ - tags: rachel lavine,misinformation,gender
 
 
 ## Antikythera mechanism
@@ -290,7 +307,7 @@
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-26 17:59:56+00:00
  - user: rumpel
- - tags: covid,big brother,misinformation
+ - tags: misinformation,polarisation,conspiracy theory,covid,big brother
 
 
 ## Twitter suppressed covid information from doctors and experts
@@ -407,6 +424,14 @@
  - tags: mastodon,twitter
 
 
+## Hollywood Lost More Than $500 Billion in Market Value in 2022
+ - [https://www.breitbart.com/entertainment/2022/12/25/hollywood-lost-more-than-500-billion-in-market-value-in-2022/](https://www.breitbart.com/entertainment/2022/12/25/hollywood-lost-more-than-500-billion-in-market-value-in-2022/)
+ - RSS feed: https://www.breitbart.com
+ - date published: 2022-12-25 13:14:44+00:00
+ - user: rumpel
+ - tags: woke,disney,netflix,hollywood
+
+
 ## Twitter Data Breach: Data of 400M Users Up for Sale on Dark Web
  - [https://thecyberexpress.com/twitter-data-breach-400-million-users-for-sale/](https://thecyberexpress.com/twitter-data-breach-400-million-users-for-sale/)
  - RSS feed: https://hnrss.org/frontpage
@@ -521,6 +546,14 @@
  - user: rumpel
 
 
+## Spain passes law to allow people over 16 to change legal gender without medical approval
+ - [https://nypost.com/2022/12/22/spain-law-allows-teens-to-change-legal-gender-without-medical-approval/](https://nypost.com/2022/12/22/spain-law-allows-teens-to-change-legal-gender-without-medical-approval/)
+ - RSS feed: https://nypost.com
+ - date published: 2022-12-22 22:26:23+00:00
+ - user: rumpel
+ - tags: bigbrother,lgbt,trans
+
+
 ## TikTok cops to running “covert surveillance campaign” on Western journalists
  - [https://arstechnica.com/?p=1906558](https://arstechnica.com/?p=1906558)
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
@@ -556,6 +589,7 @@
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-22 19:32:23+00:00
  - user: rumpel
+ - tags: bigbrother,gender,spain
 
 
 ## Lesbian Says She Faces Jail for Trans Remarks But Her Critics Say Otherwise
@@ -2144,7 +2178,7 @@
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-04 21:02:54.568991+00:00
  - user: None
- - tags: lgbt,gender,propaganda,trans,government
+ - tags: bigbrother,government,lgbt,gender,propaganda,trans
 
 
 ## Former Twitter censor stands by decision to ban satire site Babylon Bee – “not funny,” “dangerous”
@@ -2937,6 +2971,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-22 00:19:12+00:00
  - user: None
+ - tags: trans,gender
 
 
 ## Judge rules Jen Psaki must be deposed in lawsuit over alleged 'collusion' with Big Tech to censor speech
@@ -2959,6 +2994,7 @@
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-11-21 07:00:37+00:00
  - user: None
+ - tags: bigbrother,trans,woke,gender
 
 
 ## FCC to require ISPs to display broadband “nutrition label”
@@ -3147,6 +3183,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-15 16:28:34+00:00
  - user: None
+ - tags: privacy,disney,tracking,ads
 
 
 ## The scary truth about AI copyright is nobody knows what will happen next
@@ -3791,6 +3828,7 @@
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-11-04 18:01:52+00:00
  - user: None
+ - tags: woke,gender,pronouns,school
 
 
 ## Newsom sued over COVID ‘misinformation’ law that doctors say tramples First Amendment rights
@@ -4588,6 +4626,7 @@
  - RSS feed: http://www.reddit.com/r/news/.rss
  - date published: 2022-10-29 16:09:13+00:00
  - user: None
+ - tags: minors,trans,gender
 
 
 ## Digital Government Is No Longer An Option, It Is An Imperative
@@ -5046,6 +5085,7 @@
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-10-26 15:38:10+00:00
  - user: None
+ - tags: woke,language,gender
 
 
 ## The Fed Likes to Tout Its Independence. So Why Are Big Banks Lobbying It?
@@ -5333,6 +5373,14 @@
  - RSS feed: https://tvn24.pl/najnowsze.xml
  - date published: 2022-10-25 11:42:10+00:00
  - user: None
+
+
+## Debata w NIK: Bilans pandemii - puste łóżka covidowe, brak wytycznych
+ - [https://cowzdrowiu.pl/aktualnosci/post/debata-w-nik-bilans-pandemii-puste-lozka-covidowe-brak-wytycznych](https://cowzdrowiu.pl/aktualnosci/post/debata-w-nik-bilans-pandemii-puste-lozka-covidowe-brak-wytycznych)
+ - RSS feed: https://cowzdrowiu.pl
+ - date published: 2022-10-25 11:22:28+00:00
+ - user: rumpel
+ - tags: covid,hospital
 
 
 ## Australia's debt is set balloon past $1trillion with no end in sight as costs climb for NDIS
@@ -6033,6 +6081,14 @@
  - user: None
 
 
+## Depopulation Is Causing Economic Collapse And Is Going To Get Substantially Worse
+ - [https://www.youtube.com/watch?v=m7rmirduyZw](https://www.youtube.com/watch?v=m7rmirduyZw)
+ - RSS feed: https://www.youtube.com
+ - date published: 2022-10-20 16:26:52+00:00
+ - user: rumpel
+ - tags: population,depopulation
+
+
 ## How Liz Truss ended up as the shortest-serving Prime Minister in UK
  - [https://www.dailymail.co.uk/news/article-11336527/How-Liz-Truss-ended-shortest-serving-Prime-Minister-UK.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11336527/How-Liz-Truss-ended-shortest-serving-Prime-Minister-UK.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
@@ -6102,6 +6158,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-10-19 12:41:04+00:00
  - user: None
+ - tags: trans,gender,christianophobia
 
 
 ## Media: Putin wprowadza stan wojenny w anektowanych obwodach
@@ -6774,6 +6831,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-10-08 03:49:19+00:00
  - user: None
+ - tags: woke,trans,musk,gender
 
 
 ## Democrats are operating a series of 51 'fake news' sites pushing left-wing stories in toss-up states
@@ -6802,6 +6860,7 @@
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-07 20:45:11+00:00
  - user: None
+ - tags: inequality,gender,hate,google
 
 
 ## Poznań Game Arena już pierwszego dnia przyciągnęła tłumy
@@ -6935,6 +6994,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-10-06 11:00:52+00:00
  - user: None
+ - tags: trans,gender,hate
 
 
 ## Wielka Brytania: Lista zakazanych zwrotów w nowym poradniku. Odradza mówić "panie i panowie"
@@ -8169,6 +8229,7 @@
  - RSS feed: https://www.thecollegefix.com/
  - date published: 2022-09-25 15:37:48+00:00
  - user: None
+ - tags: woke,trans,gender,science
 
 
 ## Satanic Temple files federal lawsuit challenging Indiana's near-total abortion ban
@@ -9479,6 +9540,7 @@
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-14 19:28:12+00:00
  - user: None
+ - tags: woke,trans,gender,school
 
 
 ## Discord revolutionizes online conversations with... forums
@@ -10347,6 +10409,7 @@
  - RSS feed: http://louderwithcrowder.com/feed/
  - date published: 2022-09-06 14:35:25+00:00
  - user: None
+ - tags: woke,gender,pronouns,school
 
 
 ## Node.js creator Ryan Dahl urges Oracle to release JavaScript trademark • DEVCLASS
@@ -10468,6 +10531,7 @@
  - RSS feed: http://louderwithcrowder.com/feed/
  - date published: 2022-09-05 12:57:45+00:00
  - user: None
+ - tags: woke,gender,pronouns,school
 
 
 ## I didn’t want it anywhere near me: how the Apple AirTag became a stalker's gift
@@ -11377,6 +11441,14 @@
  - RSS feed: https://www.vibilagare.se
  - date published: 2022-08-18 06:34:01.111345+00:00
  - user: Thomas Pain
+
+
+## University Professor Explains Surprising Ties Between Abortion and ‘LGBT’ Identity
+ - [https://dailycitizen.focusonthefamily.com/university-professor-explains-surprising-ties-between-abortion-and-lgbt-identity/](https://dailycitizen.focusonthefamily.com/university-professor-explains-surprising-ties-between-abortion-and-lgbt-identity/)
+ - RSS feed: https://dailycitizen.focusonthefamily.com
+ - date published: 2022-08-17 20:45:33+00:00
+ - user: rumpel
+ - tags: lgbt,abortion
 
 
 ## Why McDonald's McPlant Became a McFlop | Bon Appétit
@@ -13405,6 +13477,7 @@
  - RSS feed: https://www.bbc.co.uk
  - date published: 2022-04-25 20:01:02.807070+00:00
  - user: Thomas Pain
+ - tags: trans,gender
 
 
 ## 0x006 - Large Language Models 🦣
@@ -13742,6 +13815,7 @@
  - RSS feed: https://www.bbc.co.uk
  - date published: 2022-04-08 08:00:45.591626+00:00
  - user: Thomas Pain
+ - tags: women,trans,gender,sports
 
 
 ## Zwolnienie pracownika za brak szczepienia na COVID-19
@@ -14413,6 +14487,14 @@
  - user: Thomas Pain
 
 
+## Szpitale tymczasowe kosztowały setki milionów złotych. Teraz czekają na zamknięcie
+ - [https://www.money.pl/gospodarka/szpitale-tymczasowe-kosztowaly-setki-milionow-zlotych-teraz-czekaja-na-zamkniecie-6744796203420224a.html](https://www.money.pl/gospodarka/szpitale-tymczasowe-kosztowaly-setki-milionow-zlotych-teraz-czekaja-na-zamkniecie-6744796203420224a.html)
+ - RSS feed: https://www.money.pl
+ - date published: 2022-03-08 11:21:16+00:00
+ - user: rumpel
+ - tags: covid,hospital
+
+
 ## My lizard brain is no match for infinite scroll · Caffeinspiration
  - [https://alexanderell.is/posts/infinite-scroll/](https://alexanderell.is/posts/infinite-scroll/)
  - RSS feed: https://alexanderell.is
@@ -14453,6 +14535,7 @@
  - RSS feed: https://www.wsj.com
  - date published: 2022-03-04 21:02:29.658400+00:00
  - user: Thomas Pain
+ - tags: trans,gender,texas
 
 
 ## using www-authenticate for user authentication
@@ -15329,6 +15412,7 @@
  - RSS feed: https://www.anewseducation.com
  - date published: 2022-01-13 21:03:00.249337+00:00
  - user: Thomas Pain
+ - tags: trans,uk,gender
 
 
 ## The Laurels: NHS gender clinic only assessed two patients in 12 months

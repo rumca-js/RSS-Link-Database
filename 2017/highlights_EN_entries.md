@@ -1,3 +1,11 @@
+## Partisans, Wielding Money, Begin Seeking to Exploit Harassment Claims
+ - [https://www.nytimes.com/2017/12/31/us/politics/sexual-harassment-politics-partisanship.html](https://www.nytimes.com/2017/12/31/us/politics/sexual-harassment-politics-partisanship.html)
+ - RSS feed: https://www.nytimes.com
+ - date published: 2017-12-31 20:07:28+00:00
+ - user: rumpel
+ - tags: media matters,media
+
+
 ## Is flat earth theory just a myth created by CIA in one of their covert operations?
  - [https://www.quora.com/Is-flat-earth-theory-just-a-myth-created-by-CIA-in-one-of-their-covert-operations](https://www.quora.com/Is-flat-earth-theory-just-a-myth-created-by-CIA-in-one-of-their-covert-operations)
  - RSS feed: https://www.quora.com
@@ -82,6 +90,14 @@
  - RSS feed: https://www.youtube.com/c/inanutshell
  - date published: 2017-09-21 07:46:14+00:00
  - user: None
+
+
+## Jordan Peterson: Why You Won't Have a Career
+ - [https://www.youtube.com/watch?v=Zy4a8T45GiQ](https://www.youtube.com/watch?v=Zy4a8T45GiQ)
+ - RSS feed: https://www.youtube.com
+ - date published: 2017-09-18 20:18:08+00:00
+ - user: rumpel
+ - tags: feminism,peterson
 
 
 ## Ridley Scott Tells the REAL REASON Why David Hates Humans and Engineers
@@ -197,6 +213,14 @@
  - RSS feed: https://www.dallasnews.com
  - date published: 2017-02-13 09:46:55+00:00
  - user: None
+
+
+## Media Matters Says It Is Secretly Working with Facebook to Fight ‘Fake News’
+ - [https://freebeacon.com/politics/media-matters-says-secretly-working-facebook-fight-fake-news/](https://freebeacon.com/politics/media-matters-says-secretly-working-facebook-fight-fake-news/)
+ - RSS feed: https://freebeacon.com
+ - date published: 2017-01-26 20:14:15+00:00
+ - user: rumpel
+ - tags: misinformation,facebook,disinformation,media,fakenews,media matters
 
 
 ## Selfie app Meitu allegedly leaks data to Chinese government

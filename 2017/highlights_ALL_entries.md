@@ -1,9 +1,25 @@
+## Partisans, Wielding Money, Begin Seeking to Exploit Harassment Claims
+ - [https://www.nytimes.com/2017/12/31/us/politics/sexual-harassment-politics-partisanship.html](https://www.nytimes.com/2017/12/31/us/politics/sexual-harassment-politics-partisanship.html)
+ - RSS feed: https://www.nytimes.com
+ - date published: 2017-12-31 20:07:28+00:00
+ - user: rumpel
+ - tags: media matters,media
+
+
 ## Is flat earth theory just a myth created by CIA in one of their covert operations?
  - [https://www.quora.com/Is-flat-earth-theory-just-a-myth-created-by-CIA-in-one-of-their-covert-operations](https://www.quora.com/Is-flat-earth-theory-just-a-myth-created-by-CIA-in-one-of-their-covert-operations)
  - RSS feed: https://www.quora.com
  - date published: 2017-12-21 15:00:51+00:00
  - user: None
  - tags: funny,conspiracytheory,flatearth,cia,deep state
+
+
+## Amerykańska wojna opiumowa
+ - [https://www.parkiet.com/gospodarka-swiatowa/art20557591-amerykanska-wojna-opiumowa](https://www.parkiet.com/gospodarka-swiatowa/art20557591-amerykanska-wojna-opiumowa)
+ - RSS feed: https://www.parkiet.com
+ - date published: 2017-12-18 16:54:37+00:00
+ - user: rumpel
+ - tags: war,drugs,china,america
 
 
 ## 10 Reasons You Should Be AFRAID of GOOGLE
@@ -77,6 +93,14 @@
  - tags: election,facebook,privacy
 
 
+## Jordan Peterson - Gay Marriage
+ - [https://www.youtube.com/watch?v=4jef2C4T1_A](https://www.youtube.com/watch?v=4jef2C4T1_A)
+ - RSS feed: https://www.youtube.com
+ - date published: 2017-10-04 20:58:00+00:00
+ - user: rumpel
+ - tags: lgbt,peterson,homosexual,gay
+
+
 ## ILE JEST WARTA TWOJA PRYWATNOŚĆ?
  - [https://www.youtube.com/watch?v=qk3HNcNOqRA](https://www.youtube.com/watch?v=qk3HNcNOqRA)
  - RSS feed: https://www.youtube.com/ToJuzJutro
@@ -89,6 +113,14 @@
  - RSS feed: https://www.youtube.com/c/inanutshell
  - date published: 2017-09-21 07:46:14+00:00
  - user: None
+
+
+## Jordan Peterson: Why You Won't Have a Career
+ - [https://www.youtube.com/watch?v=Zy4a8T45GiQ](https://www.youtube.com/watch?v=Zy4a8T45GiQ)
+ - RSS feed: https://www.youtube.com
+ - date published: 2017-09-18 20:18:08+00:00
+ - user: rumpel
+ - tags: feminism,peterson
 
 
 ## Ridley Scott Tells the REAL REASON Why David Hates Humans and Engineers
@@ -227,6 +259,14 @@
  - date published: 2017-02-01 19:51:40+00:00
  - user: None
  - tags: pizzagate
+
+
+## Media Matters Says It Is Secretly Working with Facebook to Fight ‘Fake News’
+ - [https://freebeacon.com/politics/media-matters-says-secretly-working-facebook-fight-fake-news/](https://freebeacon.com/politics/media-matters-says-secretly-working-facebook-fight-fake-news/)
+ - RSS feed: https://freebeacon.com
+ - date published: 2017-01-26 20:14:15+00:00
+ - user: rumpel
+ - tags: misinformation,facebook,disinformation,media,fakenews,media matters
 
 
 ## Selfie app Meitu allegedly leaks data to Chinese government

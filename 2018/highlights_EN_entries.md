@@ -5,6 +5,14 @@
  - user: None
 
 
+## Why the Left Think They are Better | Peter Hitchens
+ - [https://www.youtube.com/watch?v=8qCHRYMe66g](https://www.youtube.com/watch?v=8qCHRYMe66g)
+ - RSS feed: https://www.youtube.com
+ - date published: 2018-12-11 21:34:27+00:00
+ - user: rumpel
+ - tags: ideology,propaganda,theleft,sjw
+
+
 ## Are Google and Facebook really suppressing conservative politics?
  - [https://www.theguardian.com/technology/2018/dec/04/google-facebook-anti-conservative-bias-claims](https://www.theguardian.com/technology/2018/dec/04/google-facebook-anti-conservative-bias-claims)
  - RSS feed: https://www.theguardian.com
@@ -79,6 +87,7 @@
  - RSS feed: https://www.youtube.com/watch?v=dn6x_9CLTB4
  - date published: 2018-10-04 17:01:34+00:00
  - user: None
+ - tags: culture,keyes,christianophobia,lgbt
 
 
 ## Democracy: Rule of the NPCs

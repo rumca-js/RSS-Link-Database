@@ -6,6 +6,14 @@
  - tags: cambridge analytica
 
 
+## Media Matters Receives $1 Million From George Soros
+ - [https://philanthropynewsdigest.org/news/media-matters-receives-1-million-from-george-soros](https://philanthropynewsdigest.org/news/media-matters-receives-1-million-from-george-soros)
+ - RSS feed: https://philanthropynewsdigest.org
+ - date published: 2010-10-22 20:10:27+00:00
+ - user: rumpel
+ - tags: george soros,media matters,media
+
+
 ## Dennis Meadows: Limiting Growth to Save the World
  - [https://ourworld.unu.edu/en/dennis-meadows-limiting-growth-to-save-the-world](https://ourworld.unu.edu/en/dennis-meadows-limiting-growth-to-save-the-world)
  - RSS feed: https://ourworld.unu.edu

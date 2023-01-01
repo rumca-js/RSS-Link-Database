@@ -6,6 +6,30 @@
  - tags: dupoint,movies,pollution,climate change
 
 
+## USA: 15 lat więzienia za spalenie flagi LGBT
+ - [https://www.rp.pl/przestepczosc/art973621-usa-15-lat-wiezienia-za-spalenie-flagi-lgbt](https://www.rp.pl/przestepczosc/art973621-usa-15-lat-wiezienia-za-spalenie-flagi-lgbt)
+ - RSS feed: https://www.rp.pl
+ - date published: 2019-12-20 20:52:09+00:00
+ - user: rumpel
+ - tags: lgbt,inequality,america
+
+
+## Fifteen years in Iowa jail for burning pride flag
+ - [https://www.bbc.com/news/world-us-canada-50861259](https://www.bbc.com/news/world-us-canada-50861259)
+ - RSS feed: https://www.bbc.com
+ - date published: 2019-12-19 20:53:18+00:00
+ - user: rumpel
+ - tags: lgbt,inequality
+
+
+## New York public school rejects student Christian club, OKs LGBT Pride Club
+ - [https://www.christianpost.com/news/new-york-public-school-rejects-student-christian-club-oks-lgbt-pride-club.html?fbclid=IwAR0XGOCi2lUIsLetSjnCZN91O05rCeaWGsR0z2E5dBtfH_E-2OEFqVqi3eA](https://www.christianpost.com/news/new-york-public-school-rejects-student-christian-club-oks-lgbt-pride-club.html?fbclid=IwAR0XGOCi2lUIsLetSjnCZN91O05rCeaWGsR0z2E5dBtfH_E-2OEFqVqi3eA)
+ - RSS feed: https://www.christianpost.com
+ - date published: 2019-12-12 21:08:10+00:00
+ - user: rumpel
+ - tags: lgbt,christianophobia,newyork,inequality
+
+
 ## “El Confidencial”: Strajki klimatyczne i wielki biznes. Za Gretą Thunberg stoją duże koncerny i fundusze
  - [https://forsal.pl/artykuly/1443406,el-confidencial-strajki-klimatyczne-i-wielki-biznes-za-greta-thunberg-stoja-duze-koncerny-i-fundusze.html](https://forsal.pl/artykuly/1443406,el-confidencial-strajki-klimatyczne-i-wielki-biznes-za-greta-thunberg-stoja-duze-koncerny-i-fundusze.html)
  - RSS feed: https://forsal.pl
@@ -34,6 +58,14 @@
  - RSS feed: https://www.theverge.com
  - date published: 2019-11-11 19:57:35+00:00
  - user: None
+
+
+## 79-Year-Old Man Beat on New York Subway for Preaching Gospel
+ - [https://www.christianheadlines.com/contributors/mikaela-matthews/79-year-old-man-beat-on-new-york-subway-for-preaching-gospel.html](https://www.christianheadlines.com/contributors/mikaela-matthews/79-year-old-man-beat-on-new-york-subway-for-preaching-gospel.html)
+ - RSS feed: https://www.christianheadlines.com
+ - date published: 2019-11-05 20:56:43+00:00
+ - user: rumpel
+ - tags: lgbt,trans,intolerance
 
 
 ## Blizzard, Hearthstone and the Hong Kong protests: What you need to know
@@ -152,6 +184,22 @@
  - user: None
 
 
+## LGBTQ Comedians Respond to Dave Chappelle’s ‘Sticks and Stones’
+ - [https://www.thewrap.com/lgbtq-comedians-respond-to-dave-chappelles-sticks-and-stones/](https://www.thewrap.com/lgbtq-comedians-respond-to-dave-chappelles-sticks-and-stones/)
+ - RSS feed: https://www.thewrap.com
+ - date published: 2019-09-05 20:03:27+00:00
+ - user: rumpel
+ - tags: woke,lgbt,comedy
+
+
+## Orwell w Hiszpanii
+ - [https://www.rp.pl/opinie-polityczno-spoleczne/art9229671-orwell-w-hiszpanii](https://www.rp.pl/opinie-polityczno-spoleczne/art9229671-orwell-w-hiszpanii)
+ - RSS feed: https://www.rp.pl
+ - date published: 2019-08-28 21:39:25+00:00
+ - user: rumpel
+ - tags: feminism,spain
+
+
 ## Axel Springer w rękach Amerykanów. Miliarder kupił większość akcji
  - [https://dorzeczy.pl/ekonomia/112043/Axel-Springer-w-rekach-Amerykanow-Miliarder-kupil-wiekszosc-akcji.html](https://dorzeczy.pl/ekonomia/112043/Axel-Springer-w-rekach-Amerykanow-Miliarder-kupil-wiekszosc-akcji.html)
  - RSS feed: https://dorzeczy.pl
@@ -219,7 +267,7 @@
  - RSS feed: https://nypost.com
  - date published: 2019-08-15 08:26:20+00:00
  - user: None
- - tags: pedophile,island,secret societies,epstein
+ - tags: island,secret societies,epstein,paedophilia
 
 
 ## A HIDDEN LIFE - official trailer for Franz Jägerstätter
@@ -251,6 +299,22 @@
  - date published: 2019-07-27 14:40:12+00:00
  - user: rumpel
  - tags: climate change,science,ben shapiro
+
+
+## Public Library Deletes Pictures Of Drag Queens Fondling Children At Story Hour
+ - [https://thefederalist.com/2019/07/22/public-library-deletes-pictures-drag-queens-fondling-children-story-hour/](https://thefederalist.com/2019/07/22/public-library-deletes-pictures-drag-queens-fondling-children-story-hour/)
+ - RSS feed: https://thefederalist.com
+ - date published: 2019-07-22 22:12:22+00:00
+ - user: rumpel
+ - tags: kids,lgbt
+
+
+## Akcja "Żywa Książka" budzi sprzeciw Ordo Iuris. "Pod pozorem lekcji tolerancji oswaja się ludzi z agendą LGBT"
+ - [https://wiadomosci.dziennik.pl/wydarzenia/artykuly/602791,zywa-ksiazka-ordo-iuris-lgbt-kontrowersje.html](https://wiadomosci.dziennik.pl/wydarzenia/artykuly/602791,zywa-ksiazka-ordo-iuris-lgbt-kontrowersje.html)
+ - RSS feed: https://wiadomosci.dziennik.pl
+ - date published: 2019-07-17 22:15:14+00:00
+ - user: rumpel
+ - tags: libraryreading,sexualisation,kids,lgbt
 
 
 ## Instagram: Why paying for followers and likes is bad news for real fans
@@ -300,6 +364,22 @@
  - user: None
 
 
+## Report: Facebook Bans The Word “Honk”
+ - [https://boundingintocomics.com/2019/06/11/report-facebook-bans-the-word-honk/](https://boundingintocomics.com/2019/06/11/report-facebook-bans-the-word-honk/)
+ - RSS feed: https://boundingintocomics.com
+ - date published: 2019-06-11 22:09:15+00:00
+ - user: rumpel
+ - tags: facebook,censorship
+
+
+## Pre-teen “Drag Kids” highlight just how fast our culture has crumbled
+ - [https://thebridgehead.ca/2019/04/30/pre-teen-drag-kids-highlight-just-how-fast-our-culture-has-crumbled](https://thebridgehead.ca/2019/04/30/pre-teen-drag-kids-highlight-just-how-fast-our-culture-has-crumbled)
+ - RSS feed: https://thebridgehead.ca
+ - date published: 2019-04-30 22:11:33+00:00
+ - user: rumpel
+ - tags: kids,drag,canada,lgbt
+
+
 ## The Terrifying Potential of the 5G Network
  - [https://www.newyorker.com/news/annals-of-communications/the-terrifying-potential-of-the-5g-network](https://www.newyorker.com/news/annals-of-communications/the-terrifying-potential-of-the-5g-network)
  - RSS feed: www.newyorker.com
@@ -342,6 +422,14 @@
  - date published: 2019-04-09 20:16:56+00:00
  - user: None
  - tags: surveillence,car,privacy
+
+
+## Sex offender volunteered at library 3 times
+ - [https://abc13.com/drag-queen-story-time-sex-offender-houston-public-library/5203743/](https://abc13.com/drag-queen-story-time-sex-offender-houston-public-library/5203743/)
+ - RSS feed: https://abc13.com
+ - date published: 2019-03-19 22:14:03+00:00
+ - user: rumpel
+ - tags: libraryreading,sexualisation,kids,lgbt
 
 
 ## The Flaws of Academic Statistics: the Null Ritual
@@ -410,4 +498,12 @@
  - date published: 2019-01-10 12:17:38+00:00
  - user: None
  - tags: iot,privacy,amazon,tracking
+
+
+## Desmond Napoles "Child Drag Queen" Exploited By Adults
+ - [https://www.youtube.com/watch?v=UEgA8kHuYvs](https://www.youtube.com/watch?v=UEgA8kHuYvs)
+ - RSS feed: https://www.youtube.com
+ - date published: 2019-01-04 21:28:23+00:00
+ - user: rumpel
+ - tags: children,sexualisation,lgbt
 
