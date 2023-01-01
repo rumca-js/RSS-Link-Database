@@ -2,6 +2,7 @@
  - [https://www.bbc.com/news/world-africa-14493277](https://www.bbc.com/news/world-africa-14493277)
  - RSS feed: https://www.bbc.com
  - date published: 2011-08-11 20:58:19+00:00
+ - user: rumpel
  - tags: nigeria,pfizer,vaccine
 
 
@@ -9,6 +10,7 @@
  - [https://www.newyorker.com/magazine/2011/06/06/basta-bunga-bunga](https://www.newyorker.com/magazine/2011/06/06/basta-bunga-bunga)
  - RSS feed: https://www.newyorker.com
  - date published: 2011-06-06 20:34:27+00:00
+ - user: rumpel
  - tags: bunga bunga,berlusconi,politicians,bilionaries
 
 
@@ -16,6 +18,7 @@
  - [https://www.theatlantic.com/international/archive/2011/04/the-berlusconi-in-us-all-bunga-bungas-real-meaning/236871/](https://www.theatlantic.com/international/archive/2011/04/the-berlusconi-in-us-all-bunga-bungas-real-meaning/236871/)
  - RSS feed: https://www.theatlantic.com
  - date published: 2011-04-06 20:33:30+00:00
+ - user: rumpel
  - tags: bunga bunga,berlusconi
 
 
@@ -23,6 +26,7 @@
  - [https://www.theguardian.com/technology/2011/mar/30/microsoft-paul-allen-bill-gates](https://www.theguardian.com/technology/2011/mar/30/microsoft-paul-allen-bill-gates)
  - RSS feed: https://www.theguardian.com
  - date published: 2011-03-30 07:24:44+00:00
+ - user: None
  - tags: paul allen,bill gates
 
 
@@ -30,5 +34,6 @@
  - [https://www.theguardian.com/technology/2011/mar/17/us-spy-operation-social-networks](https://www.theguardian.com/technology/2011/mar/17/us-spy-operation-social-networks)
  - RSS feed: https://www.theguardian.com
  - date published: 2011-03-17 15:28:40+00:00
+ - user: None
  - tags: disinformation,misinformation,factcheck,government,fakenews
 

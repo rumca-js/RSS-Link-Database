@@ -2,6 +2,7 @@
  - [https://en.m.wikipedia.org/wiki/Dark_Waters_(2019_film)](https://en.m.wikipedia.org/wiki/Dark_Waters_(2019_film))
  - RSS feed: https://en.m.wikipedia.org
  - date published: 2019-12-28 18:17:56+00:00
+ - user: rumpel
  - tags: dupoint,movies,pollution,climate change
 
 
@@ -9,12 +10,14 @@
  - [https://www.youtube.com/watch?v=GRVpWwMXrl8](https://www.youtube.com/watch?v=GRVpWwMXrl8)
  - RSS feed: https://www.youtube.com
  - date published: 2019-11-16 20:41:30+00:00
+ - user: rumpel
 
 
 ## Jonathan Pageau: The Surprising Symbolism of 666
  - [https://www.youtube.com/watch?v=qM_kQjpAK6g](https://www.youtube.com/watch?v=qM_kQjpAK6g)
  - RSS feed: https://www.youtube.com
  - date published: 2019-11-14 20:16:44+00:00
+ - user: rumpel
  - tags: pageau,666
 
 
@@ -22,12 +25,14 @@
  - [https://www.theverge.com/2019/11/11/20955864/youtube-terms-of-service-update-terminations-children-content-ftc](https://www.theverge.com/2019/11/11/20955864/youtube-terms-of-service-update-terminations-children-content-ftc)
  - RSS feed: https://www.theverge.com
  - date published: 2019-11-11 19:57:35+00:00
+ - user: None
 
 
 ## Blizzard, Hearthstone and the Hong Kong protests: What you need to know
  - [https://www.cnet.com/culture/blizzard-hearthstone-and-the-hong-kong-protests-heres-what-you-need-to-know/](https://www.cnet.com/culture/blizzard-hearthstone-and-the-hong-kong-protests-heres-what-you-need-to-know/)
  - RSS feed: https://www.cnet.com
  - date published: 2019-11-05 12:09:42+00:00
+ - user: None
  - tags: china,blizzard,censorship
 
 
@@ -35,12 +40,14 @@
  - [https://www.sciencefriday.com/articles/dupont-bilott-book-exposure/](https://www.sciencefriday.com/articles/dupont-bilott-book-exposure/)
  - RSS feed: www.sciencefriday.com
  - date published: 2019-11-01 14:39:52+00:00
+ - user: None
 
 
 ## Edward Snowden: How Your Cell Phone Spies on You
  - [https://www.youtube.com/watch?v=VFns39RXPrU](https://www.youtube.com/watch?v=VFns39RXPrU)
  - RSS feed: https://www.youtube.com/@JREClips
  - date published: 2019-10-23 19:56:19+00:00
+ - user: None
  - tags: smartphone,snowden,privacy
 
 
@@ -48,12 +55,14 @@
  - [https://www.youtube.com/watch?v=VRRPy-yEKRM](https://www.youtube.com/watch?v=VRRPy-yEKRM)
  - RSS feed: https://www.youtube.com/@DWShift
  - date published: 2019-10-22 19:55:30+00:00
+ - user: None
 
 
 ## Event 201, a pandemic exercise to illustrate preparedness efforts
  - [https://www.centerforhealthsecurity.org/our-work/exercises/event201/](https://www.centerforhealthsecurity.org/our-work/exercises/event201/)
  - RSS feed: https://www.centerforhealthsecurity.org
  - date published: 2019-10-18 07:29:13+00:00
+ - user: None
  - tags: event 201,pandemic,bill gates
 
 
@@ -61,12 +70,14 @@
  - [https://theintercept.com/2019/10/10/fbi-nsa-mass-surveillance-abuse/](https://theintercept.com/2019/10/10/fbi-nsa-mass-surveillance-abuse/)
  - RSS feed: theintercept.com
  - date published: 2019-10-10 13:37:51+00:00
+ - user: None
 
 
 ## Google pulls Hong Kong protest game for violating rules against ‘capitalizing on sensitive events’
  - [https://www.theverge.com/2019/10/10/20908034/google-hong-kong-protest-game-play-store-removed-rules](https://www.theverge.com/2019/10/10/20908034/google-hong-kong-protest-game-play-store-removed-rules)
  - RSS feed: https://www.theverge.com
  - date published: 2019-10-10 12:10:31+00:00
+ - user: None
  - tags: hong kong,china,censorship,google
 
 
@@ -74,6 +85,7 @@
  - [https://www.youtube.com/watch?v=H74BbcTs6xs](https://www.youtube.com/watch?v=H74BbcTs6xs)
  - RSS feed: https://www.youtube.com
  - date published: 2019-10-09 20:45:08+00:00
+ - user: rumpel
  - tags: joker,movies
 
 
@@ -81,6 +93,7 @@
  - [https://www.theguardian.com/environment/2019/oct/09/revealed-20-firms-third-carbon-emissions](https://www.theguardian.com/environment/2019/oct/09/revealed-20-firms-third-carbon-emissions)
  - RSS feed: https://www.theguardian.com
  - date published: 2019-10-09 14:34:31+00:00
+ - user: None
  - tags: climate change,carbon footprint,carbon emissions
 
 
@@ -88,6 +101,7 @@
  - [https://www.buzzfeednews.com/article/ryanmac/unsworth-reply-elon-musk-fucking-idiot](https://www.buzzfeednews.com/article/ryanmac/unsworth-reply-elon-musk-fucking-idiot)
  - RSS feed: https://www.buzzfeednews.com
  - date published: 2019-10-08 12:21:11+00:00
+ - user: None
  - tags: billionaires,lie,musk
 
 
@@ -95,6 +109,7 @@
  - [https://www.vox.com/2019/10/8/20904433/blizzard-hong-kong-hearthstone-blitzchung](https://www.vox.com/2019/10/8/20904433/blizzard-hong-kong-hearthstone-blitzchung)
  - RSS feed: https://www.vox.com
  - date published: 2019-10-08 12:08:47+00:00
+ - user: None
  - tags: china,blizzard,censorship
 
 
@@ -102,6 +117,7 @@
  - [https://lawliberty.org/eyes-wide-shut-and-the-moral-bankruptcy-of-the-american-elite/](https://lawliberty.org/eyes-wide-shut-and-the-moral-bankruptcy-of-the-american-elite/)
  - RSS feed: https://lawliberty.org
  - date published: 2019-10-04 20:29:42+00:00
+ - user: rumpel
  - tags: bilionaires,epstein,eyes wide shut
 
 
@@ -109,6 +125,7 @@
  - [https://greenjihad.com/2019/09/29/the-green-swindlers-behind-greta-thunberg/](https://greenjihad.com/2019/09/29/the-green-swindlers-behind-greta-thunberg/)
  - RSS feed: https://greenjihad.com
  - date published: 2019-09-29 20:06:07+00:00
+ - user: rumpel
  - tags: greta,corporatocracy,thunberg,climate change
 
 
@@ -116,12 +133,14 @@
  - [https://www.youtube.com/watch?v=Qjkt3X2WLrw](https://www.youtube.com/watch?v=Qjkt3X2WLrw)
  - RSS feed: https://www.youtube.com/@Techlore
  - date published: 2019-09-09 20:34:52+00:00
+ - user: None
 
 
 ## SWEDISH PR GURU RAISED MILLIONS BY HELPING MAKE GRETA THUNBERG A CLIMATE CELEBRITY
  - [https://pluralist.com/ingmar-rentzhog-greta-thunberg/](https://pluralist.com/ingmar-rentzhog-greta-thunberg/)
  - RSS feed: https://pluralist.com
  - date published: 2019-08-25 19:03:53+00:00
+ - user: rumpel
  - tags: greta,corporatocracy,thunberg,climate change
 
 
@@ -129,6 +148,7 @@
  - [https://www.nytimes.com/2019/08/22/business/epstein-mit-media-lab.html](https://www.nytimes.com/2019/08/22/business/epstein-mit-media-lab.html)
  - RSS feed: https://www.nytimes.com
  - date published: 2019-08-22 12:18:53+00:00
+ - user: None
  - tags: donations,money,epstein,mit
 
 
@@ -136,6 +156,7 @@
  - [https://www.thetimes.co.uk/article/greta-thunberg-and-the-plot-to-forge-a-climate-warrior-9blhz9mjv?region=global](https://www.thetimes.co.uk/article/greta-thunberg-and-the-plot-to-forge-a-climate-warrior-9blhz9mjv?region=global)
  - RSS feed: https://www.thetimes.co.uk
  - date published: 2019-08-18 20:04:55+00:00
+ - user: rumpel
  - tags: greta,corporatocracy,thunberg,climate change
 
 
@@ -143,6 +164,7 @@
  - [https://nypost.com/2019/08/15/haunting-photos-show-jeffrey-epsteins-pedophile-island-in-the-caribbean/#1](https://nypost.com/2019/08/15/haunting-photos-show-jeffrey-epsteins-pedophile-island-in-the-caribbean/#1)
  - RSS feed: https://nypost.com
  - date published: 2019-08-15 08:26:20+00:00
+ - user: None
  - tags: pedophile,island,secret societies,epstein
 
 
@@ -150,12 +172,14 @@
  - [https://www.youtube.com/watch?v=qJXmdY4lVR0](https://www.youtube.com/watch?v=qJXmdY4lVR0)
  - RSS feed: https://www.youtube.com/@searchlightpictures
  - date published: 2019-08-13 10:18:41+00:00
+ - user: None
 
 
 ## Jeffrey Epstein feared cellmate, a muscle-bound ex-cop charged in murder who was moved before financier's death: report
  - [https://www.foxnews.com/us/jeffrey-epstein-former-cellmate-apparent-suicide-attempt](https://www.foxnews.com/us/jeffrey-epstein-former-cellmate-apparent-suicide-attempt)
  - RSS feed: https://www.foxnews.com
  - date published: 2019-08-12 12:17:45+00:00
+ - user: None
  - tags: epstein,prison cell
 
 
@@ -163,6 +187,7 @@
  - [https://en.wikipedia.org/wiki/Death_of_Jeffrey_Epstein](https://en.wikipedia.org/wiki/Death_of_Jeffrey_Epstein)
  - RSS feed: https://en.wikipedia.org
  - date published: 2019-08-10 19:36:32+00:00
+ - user: None
  - tags: epstein
 
 
@@ -170,6 +195,7 @@
  - [https://www.youtube.com/watch?v=wRk1p8Lzwvo](https://www.youtube.com/watch?v=wRk1p8Lzwvo)
  - RSS feed: https://www.youtube.com
  - date published: 2019-07-27 14:40:12+00:00
+ - user: rumpel
  - tags: climate change,science,ben shapiro
 
 
@@ -177,6 +203,7 @@
  - [https://www.bbc.com/news/newsbeat-48952123](https://www.bbc.com/news/newsbeat-48952123)
  - RSS feed: https://www.bbc.com
  - date published: 2019-07-13 11:20:17+00:00
+ - user: None
  - tags: instagram,celebrity,dead internet
 
 
@@ -184,6 +211,7 @@
  - [https://www.newsweek.com/eyes-wide-shut-missing-footage-epstein-kubrick-death-1449108](https://www.newsweek.com/eyes-wide-shut-missing-footage-epstein-kubrick-death-1449108)
  - RSS feed: https://www.newsweek.com
  - date published: 2019-07-12 20:30:36+00:00
+ - user: rumpel
  - tags: kubrick,bilionaires,epstein,eyes wide shut
 
 
@@ -191,6 +219,7 @@
  - [https://nymag.com/intelligencer/2019/07/does-the-jeffrey-epstein-indictment-qanon.html](https://nymag.com/intelligencer/2019/07/does-the-jeffrey-epstein-indictment-qanon.html)
  - RSS feed: https://nymag.com
  - date published: 2019-07-09 19:54:40+00:00
+ - user: rumpel
  - tags: epstein,qanon
 
 
@@ -198,6 +227,7 @@
  - [https://www.nytimes.com/2019/07/08/nyregion/jeffrey-epstein-nyc-mansion.html](https://www.nytimes.com/2019/07/08/nyregion/jeffrey-epstein-nyc-mansion.html)
  - RSS feed: https://www.nytimes.com
  - date published: 2019-07-08 20:03:14+00:00
+ - user: rumpel
  - tags: epstein,mansion
 
 
@@ -205,6 +235,7 @@
  - [https://nymag.com/intelligencer/2019/07/all-we-know-about-the-new-case-against-jeffrey-epstein.html](https://nymag.com/intelligencer/2019/07/all-we-know-about-the-new-case-against-jeffrey-epstein.html)
  - RSS feed: https://nymag.com
  - date published: 2019-07-08 19:57:17+00:00
+ - user: rumpel
  - tags: epstein,billionairs
 
 
@@ -212,30 +243,35 @@
  - [https://www.newyorker.com/news/annals-of-communications/the-terrifying-potential-of-the-5g-network](https://www.newyorker.com/news/annals-of-communications/the-terrifying-potential-of-the-5g-network)
  - RSS feed: www.newyorker.com
  - date published: 2019-04-26 13:05:08+00:00
+ - user: None
 
 
 ## Giorgia Meloni's electrifying speech at the World Congress of Families, English subtitles
  - [https://www.youtube.com/watch?v=y_Z1LClnhsk](https://www.youtube.com/watch?v=y_Z1LClnhsk)
  - RSS feed: https://www.youtube.com/watch?v=y_Z1LClnhsk
  - date published: 2019-04-17 20:53:10+00:00
+ - user: None
 
 
 ## Apple Is Not Your Friend - The Facebook Feud
  - [https://www.youtube.com/watch?v=y8SjmcVJOjw](https://www.youtube.com/watch?v=y8SjmcVJOjw)
  - RSS feed: https://www.youtube.com/@TheHatedOne
  - date published: 2019-04-16 20:17:46+00:00
+ - user: None
 
 
 ## Amazon employees are listening to what you say to Alexa — here's how to stop them
  - [https://www.cnbc.com/2019/04/11/how-to-stop-amazon-from-listening-to-what-you-say-to-alexa.html](https://www.cnbc.com/2019/04/11/how-to-stop-amazon-from-listening-to-what-you-say-to-alexa.html)
  - RSS feed: https://www.cnbc.com
  - date published: 2019-04-11 20:49:08+00:00
+ - user: None
 
 
 ## Your Car Is a Better Spy than Facebook
  - [https://www.youtube.com/watch?v=WX2SWUMt_fk](https://www.youtube.com/watch?v=WX2SWUMt_fk)
  - RSS feed: https://www.youtube.com/@TheHatedOne
  - date published: 2019-04-09 20:16:56+00:00
+ - user: None
  - tags: surveillence,car,privacy
 
 
@@ -243,18 +279,21 @@
  - [https://notrelated.xyz/audio/s01/S01E08_-_The_Flaws_of_Academic_Statistics_the_Null_Ritual.mp3](https://notrelated.xyz/audio/s01/S01E08_-_The_Flaws_of_Academic_Statistics_the_Null_Ritual.mp3)
  - RSS feed: https://notrelated.xyz/rss
  - date published: 2019-03-13 04:00:00+00:00
+ - user: None
 
 
 ## Revealed: Facebook’s global lobbying against data privacy laws
  - [https://www.theguardian.com/technology/2019/mar/02/facebook-global-lobbying-campaign-against-data-privacy-laws-investment](https://www.theguardian.com/technology/2019/mar/02/facebook-global-lobbying-campaign-against-data-privacy-laws-investment)
  - RSS feed: https://www.theguardian.com
  - date published: 2019-03-02 19:52:57+00:00
+ - user: None
 
 
 ## We're Numb to Data Privacy Abuse | Joe Rogan & Bill Ottman
  - [https://www.youtube.com/watch?v=5WD3azvYYWs](https://www.youtube.com/watch?v=5WD3azvYYWs)
  - RSS feed: https://www.youtube.com/@JREClips
  - date published: 2019-02-20 20:54:35+00:00
+ - user: None
  - tags: privacy
 
 
@@ -262,6 +301,7 @@
  - [https://www.cnbc.com/2019/01/25/wef-defends-jet-setting-elites-amid-climate-change-agenda.html](https://www.cnbc.com/2019/01/25/wef-defends-jet-setting-elites-amid-climate-change-agenda.html)
  - RSS feed: https://www.cnbc.com
  - date published: 2019-01-25 18:30:56+00:00
+ - user: rumpel
  - tags: hypocrisy,wef,climate change
 
 
@@ -269,6 +309,7 @@
  - [https://fee.org/articles/the-media-needs-to-keep-you-angry-dont-feed-into-it/?fbclid=IwAR3cpG5JJHpYJc0Z759ZUzHGh7WQtxueg4cIJlxPWAPuUqqsCuP3yMxwduo](https://fee.org/articles/the-media-needs-to-keep-you-angry-dont-feed-into-it/?fbclid=IwAR3cpG5JJHpYJc0Z759ZUzHGh7WQtxueg4cIJlxPWAPuUqqsCuP3yMxwduo)
  - RSS feed: https://fee.org
  - date published: 2019-01-23 19:56:16+00:00
+ - user: rumpel
  - tags: social media,manipulation
 
 
@@ -276,5 +317,6 @@
  - [https://theintercept.com/2019/01/10/amazon-ring-security-camera/](https://theintercept.com/2019/01/10/amazon-ring-security-camera/)
  - RSS feed: https://theintercept.com
  - date published: 2019-01-10 12:17:38+00:00
+ - user: None
  - tags: iot,privacy,amazon,tracking
 
