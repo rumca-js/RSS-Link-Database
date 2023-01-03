@@ -2935,6 +2935,14 @@
  - tags: sexualisation,kids,lgbt
 
 
+## Coke Faces Down Most Serious Backlash Yet For Their “Woke” Agenda
+ - [https://www.redvoicemedia.com/2021/07/coke-faces-down-most-serious-backlash-yet-for-their-woke-agenda/](https://www.redvoicemedia.com/2021/07/coke-faces-down-most-serious-backlash-yet-for-their-woke-agenda/)
+ - RSS feed: https://www.redvoicemedia.com
+ - date published: 2021-07-02 09:10:14+00:00
+ - user: rumpel
+ - tags: gowokegobroke,woke,coke
+
+
 ## A Remarkable Silence: Media Blackout After Key Witness Against Assange Admits Lying
  - [https://www.medialens.org/2021/a-remarkable-silence-media-blackout-after-key-witness-against-assange-admits-lying/](https://www.medialens.org/2021/a-remarkable-silence-media-blackout-after-key-witness-against-assange-admits-lying/)
  - RSS feed: www.medialens.org
@@ -3117,6 +3125,14 @@
  - date published: 2021-05-14 20:54:35+00:00
  - user: rumpel
  - tags: intolerance,gender
+
+
+## GET WOKE, GO BROKE: Disney revenue PLUMMETS after woke corporate culture revealed
+ - [https://thepostmillennial.com/get-woke-go-broke-disney-revenues-plummet-after-woke-corporate-culture-revealed](https://thepostmillennial.com/get-woke-go-broke-disney-revenues-plummet-after-woke-corporate-culture-revealed)
+ - RSS feed: https://thepostmillennial.com
+ - date published: 2021-05-14 09:08:30+00:00
+ - user: rumpel
+ - tags: gowokegobroke,woke,disney
 
 
 ## Chinese document discussing weaponising coronaviruses provides 'chilling' informati

@@ -14,6 +14,14 @@
  - tags: greta,corporatocracy,thunberg,climate change
 
 
+## W jakim stopniu brak ojca wpływa na życie dziecka?
+ - [http://www.silaojca.pl/w-jakim-stopniu-brak-ojca-wplywa-na-zycie-dziecka/](http://www.silaojca.pl/w-jakim-stopniu-brak-ojca-wplywa-na-zycie-dziecka/)
+ - RSS feed: http://www.silaojca.pl
+ - date published: 2019-10-02 08:36:52+00:00
+ - user: rumpel
+ - tags: family,fatherlessness
+
+
 ## Efekt Snowdena - czy nasza prywatność w Internecie JEST BEZPIECZNA? [TOPOWA DYCHA]
  - [https://www.youtube.com/watch?v=f7_IX9NtjnI](https://www.youtube.com/watch?v=f7_IX9NtjnI)
  - RSS feed: https://www.youtube.com/@topowadycha
@@ -51,6 +59,14 @@
  - date published: 2019-08-20 18:56:06+00:00
  - user: rumpel
  - tags: greta,corporatocracy,thunberg,climate change
+
+
+## MAN, I FEEL LIKE A WOMAN: Walsh absolutely wrecks entire transgender argument
+ - [https://www.youtube.com/watch?v=J0a0fllObFk](https://www.youtube.com/watch?v=J0a0fllObFk)
+ - RSS feed: https://www.youtube.com
+ - date published: 2019-07-30 08:48:08+00:00
+ - user: rumpel
+ - tags: trans,gender,woke,lgbt
 
 
 ## Akcja "Żywa Książka" budzi sprzeciw Ordo Iuris. "Pod pozorem lekcji tolerancji oswaja się ludzi z agendą LGBT"

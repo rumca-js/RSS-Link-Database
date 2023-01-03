@@ -4,3 +4,11 @@
  - date published: 2015-12-15 08:19:46+00:00
  - user: None
 
+
+## Szwecja a ustawa o przymusowej opiece państwa nad dziećmi
+ - [https://www.rp.pl/Rodzina/307269961-Szwecja-a-ustawa-o-przymusowej-opiece-panstwa-nad-dziecmi.html](https://www.rp.pl/Rodzina/307269961-Szwecja-a-ustawa-o-przymusowej-opiece-panstwa-nad-dziecmi.html)
+ - RSS feed: https://www.rp.pl
+ - date published: 2015-07-26 08:54:11+00:00
+ - user: rumpel
+ - tags: kids,bigbrother,sweden
+

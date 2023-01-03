@@ -432,6 +432,14 @@
  - user: Thomas Pain
 
 
+## Canada too quick to treat gender dysphoria in minors with hormones, surgery: critics
+ - [https://nationalpost.com/news/canada/canada-transgender-treatment](https://nationalpost.com/news/canada/canada-transgender-treatment)
+ - RSS feed: https://nationalpost.com
+ - date published: 2021-12-03 08:49:22+00:00
+ - user: rumpel
+ - tags: kids,canada,lgbt,trans
+
+
 ## Microsoft says its own Edge browser is more trustworthy than "so 2008" Google Chrome - Neowin
  - [https://www.neowin.net/news/microsoft-says-its-own-edge-browser-is-more-trustworthy-than-so-2008-google-chrome/](https://www.neowin.net/news/microsoft-says-its-own-edge-browser-is-more-trustworthy-than-so-2008-google-chrome/)
  - RSS feed: https://www.neowin.net
@@ -3306,6 +3314,14 @@
  - tags: sexualisation,kids,lgbt
 
 
+## Coke Faces Down Most Serious Backlash Yet For Their “Woke” Agenda
+ - [https://www.redvoicemedia.com/2021/07/coke-faces-down-most-serious-backlash-yet-for-their-woke-agenda/](https://www.redvoicemedia.com/2021/07/coke-faces-down-most-serious-backlash-yet-for-their-woke-agenda/)
+ - RSS feed: https://www.redvoicemedia.com
+ - date published: 2021-07-02 09:10:14+00:00
+ - user: rumpel
+ - tags: gowokegobroke,woke,coke
+
+
 ## Hiszpania: zmiana płci od 14 roku życia bez ograniczeń
  - [https://portal-polski.pl/hiszpania-zmiana-plci-od-14-roku-zycia-bez-ograniczen/7199/](https://portal-polski.pl/hiszpania-zmiana-plci-od-14-roku-zycia-bez-ograniczen/7199/)
  - RSS feed: https://portal-polski.pl
@@ -3543,6 +3559,22 @@
  - date published: 2021-05-14 20:54:35+00:00
  - user: rumpel
  - tags: intolerance,gender
+
+
+## GET WOKE, GO BROKE: Disney revenue PLUMMETS after woke corporate culture revealed
+ - [https://thepostmillennial.com/get-woke-go-broke-disney-revenues-plummet-after-woke-corporate-culture-revealed](https://thepostmillennial.com/get-woke-go-broke-disney-revenues-plummet-after-woke-corporate-culture-revealed)
+ - RSS feed: https://thepostmillennial.com
+ - date published: 2021-05-14 09:08:30+00:00
+ - user: rumpel
+ - tags: gowokegobroke,woke,disney
+
+
+## Rodzice twierdzą, że ich 4-letnie dziecko jest transpłciowe [WIDEO]
+ - [https://medianarodowe.com/2021/05/12/szalenstwo-postepu-rodzice-twierdza-ze-ich-4-letnie-dziecko-jest-transplciowe-wideo/](https://medianarodowe.com/2021/05/12/szalenstwo-postepu-rodzice-twierdza-ze-ich-4-letnie-dziecko-jest-transplciowe-wideo/)
+ - RSS feed: https://medianarodowe.com
+ - date published: 2021-05-12 08:59:27+00:00
+ - user: rumpel
+ - tags: trans,family,lgbt
 
 
 ## Chinese document discussing weaponising coronaviruses provides 'chilling' informati

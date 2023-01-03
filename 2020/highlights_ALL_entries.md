@@ -43,6 +43,14 @@
  - tags: who,covid
 
 
+## Writer Defends New Netflix Drama Bridgerton for Depicting Queen Charlotte as Black
+ - [https://people.com/royals/writer-of-new-netflix-drama-bridgerton-defends-depicting-queen-charlotte-as-black/](https://people.com/royals/writer-of-new-netflix-drama-bridgerton-defends-depicting-queen-charlotte-as-black/)
+ - RSS feed: https://people.com
+ - date published: 2020-12-23 09:06:00+00:00
+ - user: rumpel
+ - tags: woke,netflix
+
+
 ## Zoom Shared US User Data With Beijing
  - [https://www.ntd.com/zoom-shared-us-user-data-with-beijing_544087.html](https://www.ntd.com/zoom-shared-us-user-data-with-beijing_544087.html)
  - RSS feed: www.ntd.com
@@ -320,12 +328,28 @@
  - user: None
 
 
+## Are Babies Really Being Sold to Gay Couples in a Brussels Child Fair?
+ - [https://www.albawaba.com/node/are-babies-really-being-sold-gay-couples-brussels-child-fair-1392439](https://www.albawaba.com/node/are-babies-really-being-sold-gay-couples-brussels-child-fair-1392439)
+ - RSS feed: https://www.albawaba.com
+ - date published: 2020-11-12 08:45:01+00:00
+ - user: rumpel
+ - tags: kids,lgbt,surrogacy
+
+
 ## Norway outlaws hate speech against trans people
  - [https://news.trust.org/item/20201110191107-tecjt/](https://news.trust.org/item/20201110191107-tecjt/)
  - RSS feed: https://news.trust.org
  - date published: 2020-11-10 22:01:46+00:00
  - user: rumpel
  - tags: norway,hate speech,lgbt,trans
+
+
+## Targi dla gejów. „Handel dziećmi będzie uchodzić za prawo człowieka”
+ - [https://www.tvp.info/50701017/homoseksualisci-moga-kupic-dzieci-trwaja-miedzynarodowe-targi](https://www.tvp.info/50701017/homoseksualisci-moga-kupic-dzieci-trwaja-miedzynarodowe-targi)
+ - RSS feed: https://www.tvp.info
+ - date published: 2020-11-07 08:46:55+00:00
+ - user: rumpel
+ - tags: kids,lgbt,surrogacy
 
 
 ## Netherlands uncovers network helping Ugandan asylum seekers fake being gay
@@ -409,6 +433,14 @@
  - date published: 2020-09-30 13:06:20+00:00
  - user: rumpel
  - tags: vrchat,vr
+
+
+## Dzieci odebrane Polce przez Jugendamt zostaną na razie u muzułmanów
+ - [https://wiadomosci.dziennik.pl/swiat/artykuly/7802606,jugendamt-polka-dzieci-rodzina-muzulmanie-niemcy.html](https://wiadomosci.dziennik.pl/swiat/artykuly/7802606,jugendamt-polka-dzieci-rodzina-muzulmanie-niemcy.html)
+ - RSS feed: https://wiadomosci.dziennik.pl
+ - date published: 2020-09-21 08:55:52+00:00
+ - user: rumpel
+ - tags: kids,bigbrother,germany
 
 
 ## Carbon emissions of richest 1 percent more than double the emissions of the poorest half of humanity
@@ -649,6 +681,14 @@
  - user: None
 
 
+## INSANE: Netflix Pushes Trans Propaganda On KIDS Show; Shapiro Responds
+ - [https://www.youtube.com/watch?v=HxbOM6swuTg](https://www.youtube.com/watch?v=HxbOM6swuTg)
+ - RSS feed: https://www.youtube.com
+ - date published: 2020-07-27 09:07:25+00:00
+ - user: rumpel
+ - tags: woke,netflix
+
+
 ## Obowiązkowe zajęcia z lewackiej ideologii dla studentów z Kalifornii. "Uczelnia chce się przypodobać"
  - [https://niezalezna.pl/342733-obowiazkowe-zajecia-z-lewackiej-ideologii-dla-studentow-z-kalifornii-zmieniono-priorytety](https://niezalezna.pl/342733-obowiazkowe-zajecia-z-lewackiej-ideologii-dla-studentow-z-kalifornii-zmieniono-priorytety)
  - RSS feed: https://niezalezna.pl
@@ -725,6 +765,14 @@
  - date published: 2020-07-17 06:53:56+00:00
  - user: None
  - tags: twitter,censorship
+
+
+## New BAFTA Gaming Standards are INSANE
+ - [https://www.youtube.com/watch?v=dw9lmEp7Q6E](https://www.youtube.com/watch?v=dw9lmEp7Q6E)
+ - RSS feed: https://www.youtube.com
+ - date published: 2020-07-14 09:01:59+00:00
+ - user: rumpel
+ - tags: woke,lgbt,inequality,bafta
 
 
 ## McCloskey case: Police seize gun at home of St. Louis couple who pointed weapons at protesters
@@ -851,6 +899,14 @@
  - user: None
 
 
+## The 10 Commitments Companies Must Make to Advance Racial Justice
+ - [https://hbr.org/2020/06/the-10-commitments-companies-must-make-to-advance-racial-justice](https://hbr.org/2020/06/the-10-commitments-companies-must-make-to-advance-racial-justice)
+ - RSS feed: https://hbr.org
+ - date published: 2020-06-04 09:12:09+00:00
+ - user: rumpel
+ - tags: woke,racial
+
+
 ## Blizzard Called Out For BLM Protest Support After Blitzchung Hong Kong Controversy
  - [https://screenrant.com/blizzard-protest-blackout-black-lives-matter-hong-kong/](https://screenrant.com/blizzard-protest-blackout-black-lives-matter-hong-kong/)
  - RSS feed: https://screenrant.com
@@ -961,6 +1017,14 @@
  - date published: 2020-02-17 20:52:51+00:00
  - user: None
  - tags: youtube,dead internet
+
+
+## Texas mother trying to transition her seven-year-old son into a girl loses in court as judge orders her to share custody with ex-husband who says boy is just 'confused'
+ - [https://www.dailymail.co.uk/news/article-7950655/Mother-trying-transition-son-girl-loses-court-judge-orders-parents-joint-custody.html](https://www.dailymail.co.uk/news/article-7950655/Mother-trying-transition-son-girl-loses-court-judge-orders-parents-joint-custody.html)
+ - RSS feed: https://www.dailymail.co.uk
+ - date published: 2020-01-31 08:51:05+00:00
+ - user: rumpel
+ - tags: trans,family,america,lgbt
 
 
 ## The Secretive Company That Might End Privacy as We Know It - The New York Times

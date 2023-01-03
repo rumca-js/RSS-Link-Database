@@ -46,6 +46,14 @@
  - tags: god,science,religion
 
 
+## Mozilla CEO resigns, opposition to gay marriage drew fire
+ - [https://www.reuters.com/article/us-mozilla-ceo-resignation/mozilla-ceo-resigns-opposition-to-gay-marriage-drew-fire-idUSBREA321Y320140403](https://www.reuters.com/article/us-mozilla-ceo-resignation/mozilla-ceo-resigns-opposition-to-gay-marriage-drew-fire-idUSBREA321Y320140403)
+ - RSS feed: https://www.reuters.com
+ - date published: 2014-04-03 09:11:24+00:00
+ - user: rumpel
+ - tags: intolerance,woke,mozilla
+
+
 ## Dyskryminacja płciowa: Wystarczy być kobietą, by dostać dodatkowe punkty
  - [https://forsal.pl/artykuly/771848,dyskryminacja-plciowa-wystarczy-byc-kobieta-by-dostac-dodatkowe-punkty.html](https://forsal.pl/artykuly/771848,dyskryminacja-plciowa-wystarczy-byc-kobieta-by-dostac-dodatkowe-punkty.html)
  - RSS feed: https://forsal.pl

@@ -192,6 +192,14 @@
  - tags: google,google memo,james damore
 
 
+## SZWECJA: Terroryści są dobrymi rodzicami! Polakom zabiorą dzieci za nadopiekuńczość
+ - [https://newsbook.pl/2017/08/05/szwecja-terrorysci-moga-byc-dobrymi-rodzicami-polakom-zabiora-dzieci-za-nadopiekunczosc](https://newsbook.pl/2017/08/05/szwecja-terrorysci-moga-byc-dobrymi-rodzicami-polakom-zabiora-dzieci-za-nadopiekunczosc)
+ - RSS feed: https://newsbook.pl
+ - date published: 2017-08-05 08:54:59+00:00
+ - user: rumpel
+ - tags: kids,bigbrother,sweden
+
+
 ## Opozycja nie obroni sądów przed PiS. Ma niewielkie pole manewru
  - [https://www.polityka.pl/tygodnikpolityka/kraj/1712492,1,opozycja-nie-obroni-sadow-przed-pis-ma-niewielkie-pole-manewru.read](https://www.polityka.pl/tygodnikpolityka/kraj/1712492,1,opozycja-nie-obroni-sadow-przed-pis-ma-niewielkie-pole-manewru.read)
  - RSS feed: www.polityka.pl
@@ -212,6 +220,14 @@
  - date published: 2017-06-21 20:04:20+00:00
  - user: rumpel
  - tags: police,nogo,sweden
+
+
+## „Powody zabierania rodzicom ich dzieci w Niemczech są absurdalne”
+ - [https://www.polskieradio.pl/130/5925/Artykul/1779858,Powody-zabierania-rodzicom-ich-dzieci-w-Niemczech-sa-absurdalne](https://www.polskieradio.pl/130/5925/Artykul/1779858,Powody-zabierania-rodzicom-ich-dzieci-w-Niemczech-sa-absurdalne)
+ - RSS feed: https://www.polskieradio.pl
+ - date published: 2017-06-21 08:57:38+00:00
+ - user: rumpel
+ - tags: bigbrother,germany
 
 
 ## Intel Chief Says He Cannot Reveal How Many Americans the NSA Spied On Because He Cannot Count Them All
@@ -274,4 +290,12 @@
  - RSS feed: www.bitdefender.com
  - date published: 2017-01-25 12:04:50+00:00
  - user: None
+
+
+## Having babies really does change women's brains
+ - [https://www.abc.net.au/news/2017-01-07/having-babies-changes-womens-brains/8165466](https://www.abc.net.au/news/2017-01-07/having-babies-changes-womens-brains/8165466)
+ - RSS feed: https://www.abc.net.au
+ - date published: 2017-01-06 08:38:05+00:00
+ - user: rumpel
+ - tags: family,science
 

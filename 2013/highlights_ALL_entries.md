@@ -44,6 +44,14 @@
  - user: None
 
 
+## J'ai été élevé par deux femmes
+ - [https://www.lefigaro.fr/mon-figaro/2013/01/09/10001-20130109ARTFIG00644-j-ai-ete-eleve-par-deux-femmes.php](https://www.lefigaro.fr/mon-figaro/2013/01/09/10001-20130109ARTFIG00644-j-ai-ete-eleve-par-deux-femmes.php)
+ - RSS feed: https://www.lefigaro.fr
+ - date published: 2013-09-01 08:53:21+00:00
+ - user: rumpel
+ - tags: culture,lgbt
+
+
 ## MIT releases report on its actions in the Aaron Swartz case
  - [https://news.mit.edu/2013/mit-releases-swartz-report-0730](https://news.mit.edu/2013/mit-releases-swartz-report-0730)
  - RSS feed: https://news.mit.edu
@@ -57,6 +65,14 @@
  - RSS feed: micahflee.com
  - date published: 2013-07-11 12:04:49+00:00
  - user: None
+
+
+## Francuski dziennik „Le Figaro” opublikował wyznania mężczyzny wychowanego przez dwie lesbijki. Ukazują one osobisty i intymny dramat człowieka liczącego dzisiaj 66 lat.
+ - [https://pch24.pl/mezczyzna-wychowany-przez-lesbijki-to-gwalt-przeciw-mojej-naturze/](https://pch24.pl/mezczyzna-wychowany-przez-lesbijki-to-gwalt-przeciw-mojej-naturze/)
+ - RSS feed: https://pch24.pl
+ - date published: 2013-01-15 08:52:33+00:00
+ - user: rumpel
+ - tags: culture,lgbt
 
 
 ## Internet Activist, a Creator of RSS, Is Dead at 26, Apparently a Suicide

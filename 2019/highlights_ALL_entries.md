@@ -83,6 +83,14 @@
  - user: None
 
 
+## W Norwegii urzędnicy zabrali Polce dziecko, bo zobaczyli na stole szampana. Czy mogą teraz odpowiadać przed polskim sądem?
+ - [https://bezprawnik.pl/przed-polskim-sadem-barnevernet-norwegia](https://bezprawnik.pl/przed-polskim-sadem-barnevernet-norwegia)
+ - RSS feed: https://bezprawnik.pl
+ - date published: 2019-10-24 08:56:59+00:00
+ - user: rumpel
+ - tags: norway,bigbrother
+
+
 ## Edward Snowden: How Your Cell Phone Spies on You
  - [https://www.youtube.com/watch?v=VFns39RXPrU](https://www.youtube.com/watch?v=VFns39RXPrU)
  - RSS feed: https://www.youtube.com/@JREClips
@@ -159,6 +167,14 @@
  - date published: 2019-10-04 20:29:42+00:00
  - user: rumpel
  - tags: bilionaires,epstein,eyes wide shut
+
+
+## W jakim stopniu brak ojca wpływa na życie dziecka?
+ - [http://www.silaojca.pl/w-jakim-stopniu-brak-ojca-wplywa-na-zycie-dziecka/](http://www.silaojca.pl/w-jakim-stopniu-brak-ojca-wplywa-na-zycie-dziecka/)
+ - RSS feed: http://www.silaojca.pl
+ - date published: 2019-10-02 08:36:52+00:00
+ - user: rumpel
+ - tags: family,fatherlessness
 
 
 ## The Green Swindlers Behind Greta Thunberg
@@ -238,6 +254,14 @@
  - tags: donations,money,epstein,mit
 
 
+## Get Woke Go Broke: Gillette Backflips After $12 Billion Toxic Masculinity Disaster — Hopes to Lure Sexist Pigs Back with New Ad Campaign
+ - [https://www.thegatewaypundit.com/2019/08/get-woke-go-broke-gillette-backflips-after-12-billion-toxic-masculinity-disaster-hopes-to-lure-sexist-pigs-back-with-new-ad-campaign/](https://www.thegatewaypundit.com/2019/08/get-woke-go-broke-gillette-backflips-after-12-billion-toxic-masculinity-disaster-hopes-to-lure-sexist-pigs-back-with-new-ad-campaign/)
+ - RSS feed: https://www.thegatewaypundit.com
+ - date published: 2019-08-22 09:09:32+00:00
+ - user: rumpel
+ - tags: gowokegobroke,woke,gillette
+
+
 ## Oskarżenia pod adresem Grety Thunberg. „Stoją za nią PR-owcy i koncerny”
  - [https://energetyka24.com/klimat/oskarzenia-pod-adresem-grety-thunberg-stoja-za-nia-pr-owcy-i-koncerny](https://energetyka24.com/klimat/oskarzenia-pod-adresem-grety-thunberg-stoja-za-nia-pr-owcy-i-koncerny)
  - RSS feed: https://energetyka24.com
@@ -291,6 +315,14 @@
  - date published: 2019-08-10 19:36:32+00:00
  - user: None
  - tags: epstein
+
+
+## MAN, I FEEL LIKE A WOMAN: Walsh absolutely wrecks entire transgender argument
+ - [https://www.youtube.com/watch?v=J0a0fllObFk](https://www.youtube.com/watch?v=J0a0fllObFk)
+ - RSS feed: https://www.youtube.com
+ - date published: 2019-07-30 08:48:08+00:00
+ - user: rumpel
+ - tags: trans,gender,woke,lgbt
 
 
 ## Ben Shapiro Vs Climate Change | UBC Talk
@@ -422,6 +454,14 @@
  - date published: 2019-04-09 20:16:56+00:00
  - user: None
  - tags: surveillence,car,privacy
+
+
+## End the transgender 'unregulated live experiment on children' say whistleblowing workers who have quit clinic treating patients as young as THREE
+ - [https://www.dailymail.co.uk/news/article-6897269/Workers-transgender-clinic-quit-concerns-unregulated-live-experiments-children.html](https://www.dailymail.co.uk/news/article-6897269/Workers-transgender-clinic-quit-concerns-unregulated-live-experiments-children.html)
+ - RSS feed: https://www.dailymail.co.uk
+ - date published: 2019-04-08 08:58:27+00:00
+ - user: rumpel
+ - tags: trans,family,lgbt,woke
 
 
 ## Sex offender volunteered at library 3 times

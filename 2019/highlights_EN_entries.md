@@ -59,6 +59,14 @@
  - user: None
 
 
+## W Norwegii urzędnicy zabrali Polce dziecko, bo zobaczyli na stole szampana. Czy mogą teraz odpowiadać przed polskim sądem?
+ - [https://bezprawnik.pl/przed-polskim-sadem-barnevernet-norwegia](https://bezprawnik.pl/przed-polskim-sadem-barnevernet-norwegia)
+ - RSS feed: https://bezprawnik.pl
+ - date published: 2019-10-24 08:56:59+00:00
+ - user: rumpel
+ - tags: norway,bigbrother
+
+
 ## Edward Snowden: How Your Cell Phone Spies on You
  - [https://www.youtube.com/watch?v=VFns39RXPrU](https://www.youtube.com/watch?v=VFns39RXPrU)
  - RSS feed: https://www.youtube.com/@JREClips
@@ -174,6 +182,14 @@
  - date published: 2019-08-22 12:18:53+00:00
  - user: None
  - tags: donations,money,epstein,mit
+
+
+## Get Woke Go Broke: Gillette Backflips After $12 Billion Toxic Masculinity Disaster — Hopes to Lure Sexist Pigs Back with New Ad Campaign
+ - [https://www.thegatewaypundit.com/2019/08/get-woke-go-broke-gillette-backflips-after-12-billion-toxic-masculinity-disaster-hopes-to-lure-sexist-pigs-back-with-new-ad-campaign/](https://www.thegatewaypundit.com/2019/08/get-woke-go-broke-gillette-backflips-after-12-billion-toxic-masculinity-disaster-hopes-to-lure-sexist-pigs-back-with-new-ad-campaign/)
+ - RSS feed: https://www.thegatewaypundit.com
+ - date published: 2019-08-22 09:09:32+00:00
+ - user: rumpel
+ - tags: gowokegobroke,woke,gillette
 
 
 ## Greta Thunberg and the plot to forge a climate warrior
@@ -321,6 +337,14 @@
  - date published: 2019-04-09 20:16:56+00:00
  - user: None
  - tags: surveillence,car,privacy
+
+
+## End the transgender 'unregulated live experiment on children' say whistleblowing workers who have quit clinic treating patients as young as THREE
+ - [https://www.dailymail.co.uk/news/article-6897269/Workers-transgender-clinic-quit-concerns-unregulated-live-experiments-children.html](https://www.dailymail.co.uk/news/article-6897269/Workers-transgender-clinic-quit-concerns-unregulated-live-experiments-children.html)
+ - RSS feed: https://www.dailymail.co.uk
+ - date published: 2019-04-08 08:58:27+00:00
+ - user: rumpel
+ - tags: trans,family,lgbt,woke
 
 
 ## Sex offender volunteered at library 3 times

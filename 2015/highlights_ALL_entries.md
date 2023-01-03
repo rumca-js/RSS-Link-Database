@@ -67,6 +67,14 @@
  - tags: memento,nolan,movies
 
 
+## Szwecja a ustawa o przymusowej opiece państwa nad dziećmi
+ - [https://www.rp.pl/Rodzina/307269961-Szwecja-a-ustawa-o-przymusowej-opiece-panstwa-nad-dziecmi.html](https://www.rp.pl/Rodzina/307269961-Szwecja-a-ustawa-o-przymusowej-opiece-panstwa-nad-dziecmi.html)
+ - RSS feed: https://www.rp.pl
+ - date published: 2015-07-26 08:54:11+00:00
+ - user: rumpel
+ - tags: kids,bigbrother,sweden
+
+
 ## The manipulation of the American mind: Edward Bernays and the birth of public relations
  - [https://theconversation.com/the-manipulation-of-the-american-mind-edward-bernays-and-the-birth-of-public-relations-44393](https://theconversation.com/the-manipulation-of-the-american-mind-edward-bernays-and-the-birth-of-public-relations-44393)
  - RSS feed: https://theconversation.com

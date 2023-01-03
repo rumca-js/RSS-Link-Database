@@ -43,6 +43,14 @@
  - tags: lockdown,covid
 
 
+## Targi dla gejów. „Handel dziećmi będzie uchodzić za prawo człowieka”
+ - [https://www.tvp.info/50701017/homoseksualisci-moga-kupic-dzieci-trwaja-miedzynarodowe-targi](https://www.tvp.info/50701017/homoseksualisci-moga-kupic-dzieci-trwaja-miedzynarodowe-targi)
+ - RSS feed: https://www.tvp.info
+ - date published: 2020-11-07 08:46:55+00:00
+ - user: rumpel
+ - tags: kids,lgbt,surrogacy
+
+
 ## Jak facebook amazon monopolizują dane osobowe. Giganty technologiczne i nowy porządek świata.WWR#112
  - [https://www.youtube.com/watch?v=PbqLcEsm1qE](https://www.youtube.com/watch?v=PbqLcEsm1qE)
  - RSS feed: https://www.youtube.com/@wolnoscwremonciewei
@@ -56,6 +64,14 @@
  - date published: 2020-10-04 21:09:53+00:00
  - user: rumpel
  - tags: lgbt,inequality,margot
+
+
+## Dzieci odebrane Polce przez Jugendamt zostaną na razie u muzułmanów
+ - [https://wiadomosci.dziennik.pl/swiat/artykuly/7802606,jugendamt-polka-dzieci-rodzina-muzulmanie-niemcy.html](https://wiadomosci.dziennik.pl/swiat/artykuly/7802606,jugendamt-polka-dzieci-rodzina-muzulmanie-niemcy.html)
+ - RSS feed: https://wiadomosci.dziennik.pl
+ - date published: 2020-09-21 08:55:52+00:00
+ - user: rumpel
+ - tags: kids,bigbrother,germany
 
 
 ## The Patriarchy Paradox
@@ -102,6 +118,14 @@
  - RSS feed: ithardware.pl
  - date published: 2020-07-27 12:04:49+00:00
  - user: None
+
+
+## Obowiązkowe zajęcia z lewackiej ideologii dla studentów z Kalifornii. "Uczelnia chce się przypodobać"
+ - [https://niezalezna.pl/342733-obowiazkowe-zajecia-z-lewackiej-ideologii-dla-studentow-z-kalifornii-zmieniono-priorytety](https://niezalezna.pl/342733-obowiazkowe-zajecia-z-lewackiej-ideologii-dla-studentow-z-kalifornii-zmieniono-priorytety)
+ - RSS feed: https://niezalezna.pl
+ - date published: 2020-07-25 20:08:11+00:00
+ - user: rumpel
+ - tags: scienceisdead,universities,left,propaganda
 
 
 ## Google przeprowadza czystkę w swojej wyszukiwarce usuwając wszystkie treści prawicowe

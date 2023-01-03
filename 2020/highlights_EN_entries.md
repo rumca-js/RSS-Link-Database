@@ -28,6 +28,14 @@
  - tags: who,covid
 
 
+## Writer Defends New Netflix Drama Bridgerton for Depicting Queen Charlotte as Black
+ - [https://people.com/royals/writer-of-new-netflix-drama-bridgerton-defends-depicting-queen-charlotte-as-black/](https://people.com/royals/writer-of-new-netflix-drama-bridgerton-defends-depicting-queen-charlotte-as-black/)
+ - RSS feed: https://people.com
+ - date published: 2020-12-23 09:06:00+00:00
+ - user: rumpel
+ - tags: woke,netflix
+
+
 ## Zoom Shared US User Data With Beijing
  - [https://www.ntd.com/zoom-shared-us-user-data-with-beijing_544087.html](https://www.ntd.com/zoom-shared-us-user-data-with-beijing_544087.html)
  - RSS feed: www.ntd.com
@@ -497,6 +505,14 @@
  - tags: inequality,lgbt,paedophilia
 
 
+## INSANE: Netflix Pushes Trans Propaganda On KIDS Show; Shapiro Responds
+ - [https://www.youtube.com/watch?v=HxbOM6swuTg](https://www.youtube.com/watch?v=HxbOM6swuTg)
+ - RSS feed: https://www.youtube.com
+ - date published: 2020-07-27 09:07:25+00:00
+ - user: rumpel
+ - tags: woke,netflix
+
+
 ## Legal Docs: St. Louis Prosecutor Tampered With Evidence In McCloskey Gun Case
  - [https://thefederalist.com/2020/07/23/legal-docs-st-louis-prosecutor-tampered-with-evidence-in-mccloskey-gun-case](https://thefederalist.com/2020/07/23/legal-docs-st-louis-prosecutor-tampered-with-evidence-in-mccloskey-gun-case)
  - RSS feed: https://thefederalist.com
@@ -535,6 +551,14 @@
  - date published: 2020-07-19 19:38:39+00:00
  - user: None
  - tags: epstein
+
+
+## New BAFTA Gaming Standards are INSANE
+ - [https://www.youtube.com/watch?v=dw9lmEp7Q6E](https://www.youtube.com/watch?v=dw9lmEp7Q6E)
+ - RSS feed: https://www.youtube.com
+ - date published: 2020-07-14 09:01:59+00:00
+ - user: rumpel
+ - tags: woke,lgbt,inequality,bafta
 
 
 ## McCloskey case: Police seize gun at home of St. Louis couple who pointed weapons at protesters
@@ -733,6 +757,14 @@
  - date published: 2020-02-17 20:52:51+00:00
  - user: None
  - tags: youtube,dead internet
+
+
+## Texas mother trying to transition her seven-year-old son into a girl loses in court as judge orders her to share custody with ex-husband who says boy is just 'confused'
+ - [https://www.dailymail.co.uk/news/article-7950655/Mother-trying-transition-son-girl-loses-court-judge-orders-parents-joint-custody.html](https://www.dailymail.co.uk/news/article-7950655/Mother-trying-transition-son-girl-loses-court-judge-orders-parents-joint-custody.html)
+ - RSS feed: https://www.dailymail.co.uk
+ - date published: 2020-01-31 08:51:05+00:00
+ - user: rumpel
+ - tags: trans,family,america,lgbt
 
 
 ## The Secretive Company That Might End Privacy as We Know It - The New York Times

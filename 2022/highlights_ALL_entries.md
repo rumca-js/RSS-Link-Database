@@ -677,6 +677,14 @@
  - user: rumpel
 
 
+## BlackRock Chairman: “We’re In A New World Order”
+ - [https://thewashingtonstandard.com/blackrock-chairman-were-in-a-new-world-order/](https://thewashingtonstandard.com/blackrock-chairman-were-in-a-new-world-order/)
+ - RSS feed: https://thewashingtonstandard.com
+ - date published: 2022-12-21 22:05:45+00:00
+ - user: rumpel
+ - tags: nwo,blackrock
+
+
 ## Manufacturing Consent
  - [https://en.wikipedia.org/wiki/Manufacturing_Consent](https://en.wikipedia.org/wiki/Manufacturing_Consent)
  - RSS feed: https://en.wikipedia.org
@@ -829,6 +837,14 @@
  - date published: 2022-12-20 22:38:27+00:00
  - user: None
  - tags: free speech,censorship,twitter; twitter files,fbi
+
+
+## New Tolerance Campaign Announces 2022 “Worst of the Woke” Awards
+ - [https://newtolerance.org/new-tolerance-campaign-announces-2022-worst-of-the-woke-awards/](https://newtolerance.org/new-tolerance-campaign-announces-2022-worst-of-the-woke-awards/)
+ - RSS feed: https://newtolerance.org
+ - date published: 2022-12-20 22:29:25+00:00
+ - user: rumpel
+ - tags: woke
 
 
 ## Documents Show Zuckerberg Knew of Cambridge Analytica Earlier Than He Admitted
@@ -15700,6 +15716,14 @@
  - RSS feed: https://batsov.com
  - date published: 2022-01-02 08:54:00.867609+00:00
  - user: Thomas Pain
+
+
+## The Extent of Fatherlessness
+ - [https://fathers.com/the-extent-of-fatherlessness/](https://fathers.com/the-extent-of-fatherlessness/)
+ - RSS feed: https://fathers.com
+ - date published: 2022-01-02 08:35:34+00:00
+ - user: rumpel
+ - tags: family,fatherlessness
 
 
 ## How To Get Hacked By Accidentally Copy Pasting
