@@ -3,6 +3,7 @@
  - RSS feed: https://www.youtube.com/@quidestveritas4570
  - date published: 2015-12-15 08:19:46+00:00
  - user: None
+ - tags: kennedy,nwo,conspiracy theory
 
 
 ## Szwecja a ustawa o przymusowej opiece państwa nad dziećmi

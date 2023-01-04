@@ -11,6 +11,7 @@
  - RSS feed: summit.news
  - date published: 2020-12-30 07:29:04+00:00
  - user: None
+ - tags: bigbrother,covid
 
 
 ## UK: Only 377 people under 60 without preexisting conditions have died of COVID in Eng.
@@ -26,6 +27,7 @@
  - RSS feed: https://www.youtube.com/c/VentureCity
  - date published: 2020-12-26 07:46:46+00:00
  - user: None
+ - tags: science,psychology,simulation
 
 
 ## Netflix usuwa więcej niż kiedykolwiek. Zniknie 129 tytułów, w tym „Harry Potter” i „Władca Pierścien
@@ -33,6 +35,7 @@
  - RSS feed: spidersweb.pl
  - date published: 2020-12-25 12:04:50+00:00
  - user: None
+ - tags: youllownnothing,netflix,subscription
 
 
 ## WHO Deletes Naturally Acquired Immunity from Its Website
@@ -56,6 +59,7 @@
  - RSS feed: www.ntd.com
  - date published: 2020-12-23 06:49:58+00:00
  - user: None
+ - tags: leak,china,privacy,zoom
 
 
 ## Coronavirus French Law Would Ban People Who Don’t Get COVID Vaccine From Using Public Transport
@@ -71,6 +75,7 @@
  - RSS feed: https://www.youtube.com/coldfusion
  - date published: 2020-12-22 20:29:45+00:00
  - user: None
+ - tags: google,bigtech
 
 
 ## Why is Facebook censoring private messages?
@@ -86,7 +91,7 @@
  - RSS feed: https://www.wnp.pl
  - date published: 2020-12-21 22:02:51+00:00
  - user: rumpel
- - tags: spain,vaccine,covid
+ - tags: covid,surveillance,spain,vaccine
 
 
 ## How does surveillance help make a smarter, safer city?
@@ -94,6 +99,7 @@
  - RSS feed: www.axis.com
  - date published: 2020-12-21 12:04:50+00:00
  - user: None
+ - tags: smart cirty,privacy
 
 
 ## Anti-lockdown protesters arrested as hundreds gather in central London just hours before tier 4 announcement
@@ -109,6 +115,7 @@
  - RSS feed: https://off-guardian.org
  - date published: 2020-12-18 21:59:35+00:00
  - user: rumpel
+ - tags: covid,testing
 
 
 ## Americans Can't Sue Pfizer, Moderna In Case of Covid-19 Vaccine Side Effects, Here's Why
@@ -124,6 +131,7 @@
  - RSS feed: bezprawnik.pl
  - date published: 2020-12-18 13:07:40+00:00
  - user: None
+ - tags: surveillance,privacy,terrorism
 
 
 ## You can’t sue Pfizer or Moderna if you have severe Covid vaccine side effects. The government likely won't compensate you for damages either
@@ -139,6 +147,7 @@
  - RSS feed: www.androidowy.pl
  - date published: 2020-12-12 12:04:50+00:00
  - user: None
+ - tags: ads,tracking,israel,privacy
 
 
 ## Command Line Bibles
@@ -181,6 +190,7 @@
  - RSS feed: thenewdaily.com.au
  - date published: 2020-12-10 13:10:45+00:00
  - user: None
+ - tags: bigbrother,surveillence,privacy
 
 
 ## The American Companies Enabling China’s Uyghur Genocide
@@ -204,6 +214,7 @@
  - RSS feed: www.money.pl
  - date published: 2020-12-04 07:04:19+00:00
  - user: None
+ - tags: censorship,bigbrother,freedom,internet
 
 
 ## Eton was right to sack teacher Will Knowland
@@ -275,6 +286,7 @@
  - RSS feed: https://www.youtube.com/@laowhy86
  - date published: 2020-11-26 21:00:47+00:00
  - user: None
+ - tags: social credit,china
 
 
 ## "A grave mistake", Kenney apologizes for lockdown
@@ -282,6 +294,7 @@
  - RSS feed: https://www.youtube.com/@calgaryherald
  - date published: 2020-11-25 08:43:31+00:00
  - user: None
+ - tags: covid,lockdown
 
 
 ## Post-lockdown SARS-CoV-2 nucleic acid screening in nearly ten million residents of Wuhan, China
@@ -297,6 +310,7 @@
  - RSS feed: https://www.howtogeek.com
  - date published: 2020-11-18 15:23:40+00:00
  - user: None
+ - tags: apple,tracking,privacy
 
 
 ## Why Smart Cities Threaten Citizens’ Right to Privacy
@@ -304,6 +318,7 @@
  - RSS feed: www.urbanet.info
  - date published: 2020-11-18 12:04:50+00:00
  - user: None
+ - tags: smart cirty,privacy
 
 
 ## Turn Off Gmail's 'Smart' Features to Avoid Tracking
@@ -319,6 +334,7 @@
  - RSS feed: https://arstechnica.com
  - date published: 2020-11-16 20:12:04+00:00
  - user: None
+ - tags: apple,mac,tracking,privacy
 
 
 ## New lawsuit: Why do Android phones mysteriously exchange 260MB a month with Google via cellular data when they're not even in use?
@@ -365,6 +381,7 @@
  - RSS feed: nypost.com
  - date published: 2020-11-04 06:58:00+00:00
  - user: None
+ - tags: censorship,twitter,trump
 
 
 ## The Heinous Background of WHO Director-General Tedros Adhanom Ghebreyesus
@@ -403,6 +420,7 @@
  - RSS feed: www.independent.ie
  - date published: 2020-10-04 07:26:41+00:00
  - user: None
+ - tags: covid,freedom
 
 
 ## Bipartisan bill would give Israel a veto on Middle East arms sales
@@ -471,6 +489,7 @@
  - RSS feed: www.aier.org
  - date published: 2020-09-20 06:39:30+00:00
  - user: None
+ - tags: covid,freedom
 
 
 ## The Patriarchy Paradox
@@ -501,6 +520,7 @@
  - RSS feed: wco.pl
  - date published: 2020-09-09 07:24:46+00:00
  - user: None
+ - tags: covid,cancer
 
 
 ## Norway will prioritise lesbian, gay, bisexual and transgender refugees
@@ -539,6 +559,7 @@
  - RSS feed: https://www.dailymail.co.uk
  - date published: 2020-08-29 20:08:11+00:00
  - user: None
+ - tags: bigbrother,privacy,biometric
 
 
 ## Google stifles growing YouTube competitor LBRY by banning it from Play Store for pedantic reasons
@@ -553,6 +574,7 @@
  - RSS feed: https://arstechnica.com
  - date published: 2020-08-25 20:06:39+00:00
  - user: None
+ - tags: google,dark design,privacy
 
 
 ## Początki: Teoria wycieku z Wuhan https://en.wikipedia.org/wiki/COVID-19_lab_leak_theory
@@ -560,6 +582,7 @@
  - RSS feed: en.wikipedia.org
  - date published: 2020-08-25 06:52:20+00:00
  - user: None
+ - tags: covid,lableak
 
 
 ## US tells Kenya to publicly support Israel or forget free trade deal
@@ -567,7 +590,7 @@
  - RSS feed: www.theeastafrican.co.ke
  - date published: 2020-08-21 12:51:44+00:00
  - user: None
- - tags: israel
+ - tags: us,israel
 
 
 ## Goodyear employees say new zero-tolerance policy from Akron HQ is discriminatory
@@ -583,6 +606,7 @@
  - RSS feed: https://arstechnica.com
  - date published: 2020-08-19 20:04:48+00:00
  - user: None
+ - tags: virus,botnet
 
 
 ## NSA and FBI warn that new Linux malware threatens national security
@@ -590,6 +614,7 @@
  - RSS feed: arstechnica.com
  - date published: 2020-08-13 06:48:38+00:00
  - user: None
+ - tags: linux,fbi,malware,nsa
 
 
 ## Why your 'Carbon Footprint' Is A Lie | Climate Town
@@ -627,6 +652,7 @@
  - RSS feed: https://arstechnica.com
  - date published: 2020-08-04 20:05:35+00:00
  - user: None
+ - tags: bigbrother,surveillence,nsa,privacy
 
 
 ## Google Home might be listening to more than just wake words after secret update
@@ -634,6 +660,7 @@
  - RSS feed: www.techradar.com
  - date published: 2020-08-04 12:04:50+00:00
  - user: None
+ - tags: privacy,iot,google
 
 
 ## Stoicism and Christianity: Trust the Logos!
@@ -656,6 +683,7 @@
  - RSS feed: independenttrader.pl
  - date published: 2020-07-28 07:48:25+00:00
  - user: None
+ - tags: global reset,elites,wef
 
 
 ## Dziennikarka Do Rzeczy: kobieta, która złoży zawiadomienie o byciu ofiarą przemocy, może łatwo się wzbogacić
@@ -702,6 +730,7 @@
  - RSS feed: zmianynaziemi.pl
  - date published: 2020-07-24 06:55:51+00:00
  - user: None
+ - tags: censorship,google
 
 
 ## Legal Docs: St. Louis Prosecutor Tampered With Evidence In McCloskey Gun Case
@@ -752,11 +781,12 @@
  - tags: epstein
 
 
-## Google Google: koniec z zarabianiem na teoriach spiskowych!
+## Google: koniec z zarabianiem na teoriach spiskowych!
  - [https://www.tabletowo.pl/google-koniec-z-zarabianiem-na-teoriach-spiskowych](https://www.tabletowo.pl/google-koniec-z-zarabianiem-na-teoriach-spiskowych)
  - RSS feed: www.tabletowo.pl
  - date published: 2020-07-18 06:56:37+00:00
- - user: None
+ - user: rumpel
+ - tags: misinformation,google,conspiracy theory
 
 
 ## Atak hakerów na Twittera pokazał, że... cenzuruje on użytkowników!
@@ -823,11 +853,12 @@
  - tags: epstein
 
 
-## This article is more than 2 years old YouTube bans David Duke and other US far-right users
+## YouTube bans David Duke and other US far-right users
  - [https://www.theguardian.com/technology/2020/jun/30/youtube-bans-david-duke-and-other-us-far-right-users](https://www.theguardian.com/technology/2020/jun/30/youtube-bans-david-duke-and-other-us-far-right-users)
  - RSS feed: https://www.theguardian.com
  - date published: 2020-06-30 20:01:50+00:00
- - user: None
+ - user: rumpel
+ - tags: censorship,youtube
 
 
 ## What is the real goal of the ‘Stop Hate for Profit’ campaign against Facebook? Hint: it has nothing to do with ‘hate speech’
@@ -843,6 +874,7 @@
  - RSS feed: twitter.com
  - date published: 2020-06-29 06:52:34+00:00
  - user: None
+ - tags: inequality,reddit,hate speech
 
 
 ## Almost 300 Windows 10 executables vulnerable to DLL hijacking
@@ -850,6 +882,7 @@
  - RSS feed: www.bleepingcomputer.com
  - date published: 2020-06-27 06:48:07+00:00
  - user: None
+ - tags: windows,hacker
 
 
 ## Eksperyment Kentlera. Jak w Niemczech przekazywano dzieci pedofilom
@@ -958,6 +991,7 @@
  - RSS feed: www.benchmark.pl
  - date published: 2020-05-01 12:04:50+00:00
  - user: None
+ - tags: tracking,xiaomi,privacy,surveillence
 
 
 ## Amazon uses data from third-party sellers to develop its own products, WSJ investigation finds
@@ -965,6 +999,7 @@
  - RSS feed: www.cnbc.com
  - date published: 2020-04-23 14:07:06+00:00
  - user: None
+ - tags: monopoly,amazon
 
 
 ## Początki: Wuhan lab says there's no way coronavirus originated there. Here's the science.
@@ -980,6 +1015,7 @@
  - RSS feed: trojmiasto.wyborcza.pl
  - date published: 2020-03-27 07:52:59+00:00
  - user: None
+ - tags: censorship,covid,poland
 
 
 ## NYC's Footprint Amid The COVID-19 Outbreak
@@ -987,6 +1023,7 @@
  - RSS feed: https://www.youtube.com/@TectonixGEO
  - date published: 2020-03-26 20:00:02+00:00
  - user: None
+ - tags: covid,tracking
 
 
 ## Yuval Noah Harari: the world after coronavirus | Free to read
@@ -1009,6 +1046,7 @@
  - RSS feed: https://www.techradar.com
  - date published: 2020-02-26 20:50:35+00:00
  - user: None
+ - tags: privacy,iot,smart
 
 
 ## Why YOUTUBE is DYING (Creatively and Artistically)

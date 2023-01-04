@@ -3,7 +3,7 @@
  - RSS feed: https://bb-i.blog
  - date published: 1990-09-02 08:19:56+00:00
  - user: None
- - tags: fozz
+ - tags: afera,scandal,fozz,falzmann,all time
 
 
 ## Wiadomości     Artykuły     Kultura     Nauka     Wojsko     Rekonstrukcje     Publicystyka     Recenzje     Video     Forum     Redakcja  Afera FOZZ – „matka wszystkich afer”
@@ -11,7 +11,7 @@
  - RSS feed: https://historia.org.pl
  - date published: 1990-09-02 08:19:56+00:00
  - user: None
- - tags: fozz
+ - tags: fozz,afera,falzmann,scandal
 
 
 ## „Rozkodował model rabowania Polski”. Tajemnice śmierci Michała Falzmanna
@@ -19,4 +19,5 @@
  - RSS feed: https://www.tvp.info
  - date published: 1990-09-02 08:19:56+00:00
  - user: None
+ - tags: afera,scandal,fozz,falzmann,all time
 

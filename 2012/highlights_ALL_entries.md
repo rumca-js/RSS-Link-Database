@@ -58,7 +58,7 @@
  - RSS feed: https://newint.org
  - date published: 2012-04-01 07:26:35+00:00
  - user: None
- - tags: bill gates
+ - tags: bill gates,billionaires,charity
 
 
 ## Regend University Of Law: Don't Talk to the Police

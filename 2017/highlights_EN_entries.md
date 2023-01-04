@@ -169,11 +169,20 @@
  - tags: google,google memo,james damore
 
 
+## SUFFERING IN SILENCE Linkin Park singer Chester Bennington revealed horrific child abuse was behind his substance abuse issues
+ - [https://www.thesun.co.uk/tvandshowbiz/4064403/linkin-park-singer-chester-bennington-revealed-horrific-child-abuse-was-behind-substance-abuse-issues/](https://www.thesun.co.uk/tvandshowbiz/4064403/linkin-park-singer-chester-bennington-revealed-horrific-child-abuse-was-behind-substance-abuse-issues/)
+ - RSS feed: https://www.thesun.co.uk
+ - date published: 2017-07-20 21:17:39+00:00
+ - user: rumpel
+ - tags: paedophilia,linkin park,chester bennington
+
+
 ## Google will stop scanning your Gmail messages to sell targeted ads
  - [https://www.theverge.com/2017/6/23/15862492/google-gmail-advertising-targeting-privacy-coud-business](https://www.theverge.com/2017/6/23/15862492/google-gmail-advertising-targeting-privacy-coud-business)
  - RSS feed: www.theverge.com
  - date published: 2017-06-23 12:04:50+00:00
  - user: None
+ - tags: gmail,google,privacy
 
 
 ## Are There No-Go Zones in Sweden? Police Identify Dozens of 'Vulnerable Areas' Rife With Criminality

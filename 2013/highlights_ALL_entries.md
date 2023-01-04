@@ -67,6 +67,30 @@
  - user: None
 
 
+## The Ugliest Open Secret Of German Politics: Pedophiles In The Green Party's Past
+ - [https://worldcrunch.com/culture-society/the-ugliest-open-secret-of-german-politics-pedophiles-in-the-green-party039s-past](https://worldcrunch.com/culture-society/the-ugliest-open-secret-of-german-politics-pedophiles-in-the-green-party039s-past)
+ - RSS feed: https://worldcrunch.com
+ - date published: 2013-05-23 20:57:26+00:00
+ - user: rumpel
+ - tags: paedophilia,germany,lgbt
+
+
+## Green party in Germany to investigate backing for paedophiles in 80s
+ - [https://www.theguardian.com/world/2013/may/14/green-party-germany-paedophiles-80s](https://www.theguardian.com/world/2013/may/14/green-party-germany-paedophiles-80s)
+ - RSS feed: https://www.theguardian.com
+ - date published: 2013-05-14 20:58:23+00:00
+ - user: rumpel
+ - tags: paedophilia,germany
+
+
+## Daniel Cohn-Bendit and the 1968 Revolution: Paedophilia as Part of their Political Agenda
+ - [https://c-fam.org/turtle_bay/daniel-cohn-bendit-and-the-1968-revolution-paedophilia-as-part-of-their-political-agenda/](https://c-fam.org/turtle_bay/daniel-cohn-bendit-and-the-1968-revolution-paedophilia-as-part-of-their-political-agenda/)
+ - RSS feed: https://c-fam.org
+ - date published: 2013-04-21 21:03:18+00:00
+ - user: rumpel
+ - tags: paedophilia,lgbt,daniel cohn-bendit
+
+
 ## Francuski dziennik „Le Figaro” opublikował wyznania mężczyzny wychowanego przez dwie lesbijki. Ukazują one osobisty i intymny dramat człowieka liczącego dzisiaj 66 lat.
  - [https://pch24.pl/mezczyzna-wychowany-przez-lesbijki-to-gwalt-przeciw-mojej-naturze/](https://pch24.pl/mezczyzna-wychowany-przez-lesbijki-to-gwalt-przeciw-mojej-naturze/)
  - RSS feed: https://pch24.pl

@@ -58,6 +58,7 @@
  - RSS feed: https://www.theverge.com
  - date published: 2019-11-11 19:57:35+00:00
  - user: None
+ - tags: youllownnothing,youtube,subscription
 
 
 ## 79-Year-Old Man Beat on New York Subway for Preaching Gospel
@@ -484,6 +485,7 @@
  - RSS feed: https://www.theguardian.com
  - date published: 2019-03-02 19:52:57+00:00
  - user: None
+ - tags: meta,privacy,facebook
 
 
 ## Sweden sees microchip implant revolution | Al Jazeera English
@@ -514,6 +516,7 @@
  - RSS feed: www.smyku.pl
  - date published: 2019-01-26 07:23:00+00:00
  - user: None
+ - tags: right-wing conspiracy,conspiracy theory
 
 
 ## WEF defends jet-setting elites amid climate change agenda

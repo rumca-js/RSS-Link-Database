@@ -13,3 +13,11 @@
  - user: None
  - tags: population,depopulation
 
+
+## How radicals tried to sexually ‘liberate’ children
+ - [https://ionainstitute.ie/how-radicals-tried-to-sexually-liberate-children/](https://ionainstitute.ie/how-radicals-tried-to-sexually-liberate-children/)
+ - RSS feed: https://ionainstitute.ie
+ - date published: 2010-08-05 21:04:24+00:00
+ - user: rumpel
+ - tags: kids,paedophilia,lgbt
+

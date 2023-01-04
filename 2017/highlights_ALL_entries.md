@@ -106,6 +106,7 @@
  - RSS feed: https://www.youtube.com/ToJuzJutro
  - date published: 2017-10-02 20:36:30+00:00
  - user: None
+ - tags: privacy
 
 
 ## Is Reality Real? The Simulation Argument
@@ -200,6 +201,14 @@
  - tags: kids,bigbrother,sweden
 
 
+## SUFFERING IN SILENCE Linkin Park singer Chester Bennington revealed horrific child abuse was behind his substance abuse issues
+ - [https://www.thesun.co.uk/tvandshowbiz/4064403/linkin-park-singer-chester-bennington-revealed-horrific-child-abuse-was-behind-substance-abuse-issues/](https://www.thesun.co.uk/tvandshowbiz/4064403/linkin-park-singer-chester-bennington-revealed-horrific-child-abuse-was-behind-substance-abuse-issues/)
+ - RSS feed: https://www.thesun.co.uk
+ - date published: 2017-07-20 21:17:39+00:00
+ - user: rumpel
+ - tags: paedophilia,linkin park,chester bennington
+
+
 ## Opozycja nie obroni sądów przed PiS. Ma niewielkie pole manewru
  - [https://www.polityka.pl/tygodnikpolityka/kraj/1712492,1,opozycja-nie-obroni-sadow-przed-pis-ma-niewielkie-pole-manewru.read](https://www.polityka.pl/tygodnikpolityka/kraj/1712492,1,opozycja-nie-obroni-sadow-przed-pis-ma-niewielkie-pole-manewru.read)
  - RSS feed: www.polityka.pl
@@ -212,6 +221,7 @@
  - RSS feed: www.theverge.com
  - date published: 2017-06-23 12:04:50+00:00
  - user: None
+ - tags: gmail,google,privacy
 
 
 ## Are There No-Go Zones in Sweden? Police Identify Dozens of 'Vulnerable Areas' Rife With Criminality
@@ -274,7 +284,7 @@
  - RSS feed: http://przeczywistosc.pl
  - date published: 2017-02-01 19:51:40+00:00
  - user: None
- - tags: pizzagate
+ - tags: pizzagate,paedophilia
 
 
 ## Media Matters Says It Is Secretly Working with Facebook to Fight ‘Fake News’

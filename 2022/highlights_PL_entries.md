@@ -1,3 +1,11 @@
+## Śledczy pracują na terenie dawnej Zatoki Sztuki. Co przez lata działo się w murach tego budynku?
+ - [https://dziennikbaltycki.pl/sledczy-pracuja-na-terenie-dawnej-zatoki-sztuki-co-przez-lata-dzialo-sie-w-murach-tego-budynku/ar/c1-17161655](https://dziennikbaltycki.pl/sledczy-pracuja-na-terenie-dawnej-zatoki-sztuki-co-przez-lata-dzialo-sie-w-murach-tego-budynku/ar/c1-17161655)
+ - RSS feed: https://dziennikbaltycki.pl
+ - date published: 2022-12-29 21:15:24+00:00
+ - user: rumpel
+ - tags: zatoka sztuki,paedophilia,elites
+
+
 ## Pandemia się dla nich nie skończyła. Większość Niemców chce utrzymania restrykcji covidowych
  - [https://forsal.pl/lifestyle/zdrowie/artykuly/8621235,niemcy-restrykcje-covidowe-sondaz.html](https://forsal.pl/lifestyle/zdrowie/artykuly/8621235,niemcy-restrykcje-covidowe-sondaz.html)
  - RSS feed: https://forsal.pl/.feed
@@ -32,6 +40,7 @@
  - RSS feed: https://sekurak.pl/rss
  - date published: 2022-12-27 09:01:01+00:00
  - user: rumpel
+ - tags: israel,hacker
 
 
 ## 71 chińskich samolotów bojowych i siedem okrętów aktywnych w rejonie Tajwanu
@@ -183,6 +192,7 @@
  - RSS feed: https://www.chip.pl/feed
  - date published: 2022-12-06 04:10:17+00:00
  - user: None
+ - tags: atom,china
 
 
 ## Facebook oferuje rządom platformę do zgłaszania treści do ocenzurowania
@@ -273,6 +283,7 @@
  - RSS feed: https://www.wykop.pl/rss/index.xml/
  - date published: 2022-11-08 07:25:02+00:00
  - user: None
+ - tags: france,church
 
 
 ## Ameryka jedzie na rezerwie
@@ -366,6 +377,7 @@
  - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
  - date published: 2022-11-02 04:14:00+00:00
  - user: None
+ - tags: columbia,venesuela
 
 
 ## Koreańczycy zbudują elektrownię atomową w Polsce. "Budują w budżecie i w terminie"
@@ -452,6 +464,7 @@
  - RSS feed: https://tvn24.pl/najnowsze.xml
  - date published: 2022-10-27 11:32:18+00:00
  - user: None
+ - tags: china,abortion
 
 
 ## YouTube na minusie. Coraz większy kawałek tortu dla TikToka
@@ -501,6 +514,7 @@
  - RSS feed: https://www.wykop.pl/rss/index.xml/
  - date published: 2022-10-26 15:27:02+00:00
  - user: None
+ - tags: poland
 
 
 ## Ważna deklaracja KEP. Kościół otwiera się na kobiety
@@ -757,6 +771,7 @@
  - RSS feed: https://ithardware.pl/feed
  - date published: 2022-10-20 12:39:40+00:00
  - user: None
+ - tags: telegram,censorship,germany
 
 
 ## Wielka Brytania: Posłowie siłą zaciągani na głosowanie
@@ -778,6 +793,7 @@
  - RSS feed: https://tvn24.pl/najnowsze.xml
  - date published: 2022-10-19 14:58:24+00:00
  - user: None
+ - tags: pfizer,vaccine
 
 
 ## Media: Putin wprowadza stan wojenny w anektowanych obwodach
@@ -1054,6 +1070,7 @@
  - RSS feed: https://www.wykop.pl/rss/index.xml/
  - date published: 2022-10-04 20:10:01+00:00
  - user: None
+ - tags: covid,global reset,war,crisis,russia
 
 
 ## Przedszkola dla gejów i lesbijek w Berlinie. W zarządzie "adwokat pedofilów"
@@ -1061,6 +1078,7 @@
  - RSS feed: https://www.wykop.pl/rss/index.xml/
  - date published: 2022-10-04 19:51:01+00:00
  - user: None
+ - tags: paedophilia,germany,lgbt
 
 
 ## Przedszkole LGBT w Berlinie. Kontrowersyjna postać w zarządzie
@@ -1075,6 +1093,14 @@
  - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
  - date published: 2022-10-04 11:45:00+00:00
  - user: None
+
+
+## Berlin: Wkrótce otwarcie przedszkola LGBT. W zarządzie "adwokat pedofilów"
+ - [https://wydarzenia.interia.pl/zagranica/news-berlin-wkrotce-otwarcie-przedszkola-lgbt-w-zarzadzie-adwokat,nId,6326318](https://wydarzenia.interia.pl/zagranica/news-berlin-wkrotce-otwarcie-przedszkola-lgbt-w-zarzadzie-adwokat,nId,6326318)
+ - RSS feed: https://wydarzenia.interia.pl/feed
+ - date published: 2022-10-04 10:48:08+00:00
+ - user: rumpel
+ - tags: paedophilia,germany,lgbt
 
 
 ## Media: Wielka Brytania wprowadzi zakaz azylu dla migrantów nielegalnie przekraczających kanał La Manche
@@ -1208,6 +1234,7 @@
  - RSS feed: https://www.wykop.pl/rss/index.xml/
  - date published: 2022-09-29 03:16:01+00:00
  - user: None
+ - tags: booster,covid,fda
 
 
 ## Niemcy ze wschodu wątpią w demokrację. "Trudno cokolwiek zrozumieć"
@@ -1558,6 +1585,7 @@
  - RSS feed: https://www.wykop.pl/rss/index.xml/
  - date published: 2022-09-18 12:58:02+00:00
  - user: None
+ - tags: poland,church
 
 
 ## Do 2070 roku chrześcijan w USA może być mniej niż połowa. Prognozy analityków
@@ -1642,6 +1670,7 @@
  - RSS feed: https://www.wykop.pl/rss/index.xml/
  - date published: 2022-09-16 06:26:01+00:00
  - user: None
+ - tags: atom,climate change
 
 
 ## Koniec darmowych dostaw? E-zwroty są zbyt kosztowne
@@ -2148,6 +2177,7 @@
  - RSS feed: tvn24.pl
  - date published: 2022-02-07 06:53:49+00:00
  - user: None
+ - tags: freedom convoy,covid,canada
 
 
 ## Kanada: Aresztowania, konfiskata paliwa. Stan wyjątkowy w Ottawie

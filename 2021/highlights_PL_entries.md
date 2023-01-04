@@ -114,6 +114,7 @@
  - RSS feed: whatnext.pl
  - date published: 2021-08-04 14:57:33+00:00
  - user: None
+ - tags: cbdc
 
 
 ## Zostałem szczepionkowym rasistą. „Ludzie w pełni zaszczepieni powinni mieć specjalne przywileje”
@@ -287,6 +288,7 @@
  - RSS feed: www.komputerswiat.pl
  - date published: 2021-01-29 13:08:11+00:00
  - user: None
+ - tags: bigbrother,surveillence,privacy
 
 
 ## Niemcy: Złamiesz kwarantannę - trafisz do obozu
@@ -310,4 +312,5 @@
  - RSS feed: https://www.bankier.pl
  - date published: 2021-01-16 20:15:49+00:00
  - user: None
+ - tags: olygopoly,freedom,bigtech
 

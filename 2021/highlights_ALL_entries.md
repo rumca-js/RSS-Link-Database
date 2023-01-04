@@ -504,6 +504,14 @@
  - tags: blm,kyle rittenhouse,media bias
 
 
+## Bizarre Conspiracy Theory That Linkin Park's Chester Bennington Was Murdered Tied To Ghislaine Maxwell
+ - [https://www.yourtango.com/news/chester-bennington-conspiracy-theory-chris-cornell-john-podesta-pizzagate-ghislaine-maxwell](https://www.yourtango.com/news/chester-bennington-conspiracy-theory-chris-cornell-john-podesta-pizzagate-ghislaine-maxwell)
+ - RSS feed: https://www.yourtango.com
+ - date published: 2021-11-29 21:24:58+00:00
+ - user: rumpel
+ - tags: paedophilia,ghislaine,chester bennington,conspiracy theory,linkin park
+
+
 ## Why Paper Jams Persist | The New Yorker
  - [https://www.newyorker.com/magazine/2018/02/12/why-paper-jams-persist](https://www.newyorker.com/magazine/2018/02/12/why-paper-jams-persist)
  - RSS feed: https://www.newyorker.com
@@ -725,6 +733,7 @@
  - RSS feed: https://www.youtube.com/@UnHerd
  - date published: 2021-11-17 08:22:45+00:00
  - user: None
+ - tags: lockdown,austria
 
 
 ## Python: Please stop screwing over Linux distros
@@ -777,6 +786,7 @@
  - RSS feed: https://www.youtube.com/watch?v=7AZSkF9fNRM
  - date published: 2021-11-15 08:41:06+00:00
  - user: None
+ - tags: bigbrother,covid,lockdown
 
 
 ## Thousands protest Austria's COVID lockdown for the unvaccinated | DW News
@@ -1470,6 +1480,7 @@
  - RSS feed: https://www.bbc.co.uk
  - date published: 2021-10-08 13:38:10.016319+00:00
  - user: Thomas Pain
+ - tags: twitch,leak
 
 
 ## Samsung apologises for Russian app download error - BBC News
@@ -1498,6 +1509,7 @@
  - RSS feed: https://slate.com
  - date published: 2021-10-08 08:52:22.221265+00:00
  - user: Thomas Pain
+ - tags: censorship,facebook
 
 
 ## The real reason why these countries have limited use of the Moderna COVID-19 vaccine
@@ -1740,7 +1752,7 @@
  - RSS feed: https://www.youtube.com/@LukeSmithxyz
  - date published: 2021-09-20 20:33:11+00:00
  - user: None
- - tags: search engines,google search,internet,dead internet
+ - tags: algorithm,internet,search engines,dead internet,google search
 
 
 ## Why you need a personal laptop - The Verge
@@ -2052,6 +2064,7 @@
  - RSS feed: https://www.theverge.com
  - date published: 2021-09-02 14:37:12.172749+00:00
  - user: Thomas Pain
+ - tags: censorship,bigbrother,government
 
 
 ## The open calendar, task and note space is a mess
@@ -2280,7 +2293,7 @@
  - RSS feed: https://www.bbc.com
  - date published: 2021-08-24 20:33:10+00:00
  - user: rumpel
- - tags: facebook files,facebook
+ - tags: inequality,celebrities,facebook,facebook files
 
 
 ## What About the Afghanistan Flag Emoji?
@@ -2619,6 +2632,7 @@
  - RSS feed: whatnext.pl
  - date published: 2021-08-04 14:57:33+00:00
  - user: None
+ - tags: cbdc
 
 
 ## Facebook is reportedly trying to analyze encrypted data without decrypting it | TechSpot
@@ -3140,6 +3154,7 @@
  - RSS feed: https://www.bloomberg.com
  - date published: 2021-07-15 20:23:22.924750+00:00
  - user: Thomas Pain
+ - tags: apple,privacy,facebook
 
 
 ## Analyzing the Legal Implications of GitHub Copilot - FOSSA
@@ -3351,6 +3366,7 @@
  - RSS feed: www.medialens.org
  - date published: 2021-07-01 12:04:49+00:00
  - user: None
+ - tags: wikileaks,assange
 
 
 ## Corporations are the reason why we have a alt-right alt-left war.
@@ -3381,6 +3397,7 @@
  - RSS feed: techcrunch.com
  - date published: 2021-06-24 12:04:50+00:00
  - user: None
+ - tags: youwillownnothing,subscription,google
 
 
 ## Even creepier COVID tracking: Google silently pushed app to users’ phones [Updated]
@@ -3421,6 +3438,14 @@
  - user: None
 
 
+## Anyone remember that Danish TV show pairing children with naked adults?
+ - [https://www.mumsnet.com/talk/womens_rights/4282164-Anyone-remember-that-Danish-TV-show-pairing-children-with-naked-adults](https://www.mumsnet.com/talk/womens_rights/4282164-Anyone-remember-that-Danish-TV-show-pairing-children-with-naked-adults)
+ - RSS feed: https://www.mumsnet.com
+ - date published: 2021-06-07 22:21:55+00:00
+ - user: rumpel
+ - tags: sexualisation,kids,lgbt
+
+
 ## What Fauci's EXPOSED Emails REVEAL
  - [https://www.youtube.com/watch?v=2YmpRI9KDh8](https://www.youtube.com/watch?v=2YmpRI9KDh8)
  - RSS feed: https://www.youtube.com/c/BenShapiro
@@ -3442,6 +3467,7 @@
  - RSS feed: townhall.com
  - date published: 2021-06-02 06:52:01+00:00
  - user: None
+ - tags: censorship,lableak,facebook
 
 
 ## Digital Identity: EU to lay out plans for Europe-wide digital identity wallet
@@ -3613,6 +3639,7 @@
  - RSS feed: www.grunge.com
  - date published: 2021-05-05 12:04:50+00:00
  - user: None
+ - tags: censorship,facebook
 
 
 ## Prezydent Estonii w Polsat News: nie powinniśmy wracać do świata sprzed pandemii
@@ -3680,6 +3707,7 @@
  - RSS feed: https://www.youtube.com/@TheHatedOne
  - date published: 2021-04-26 20:18:31+00:00
  - user: None
+ - tags: apple,privacy
 
 
 ## Richard Dawkins loses ‘humanist of the year’ title over trans comments
@@ -3751,6 +3779,7 @@
  - RSS feed: nationalinterest.org
  - date published: 2021-04-13 07:20:43+00:00
  - user: None
+ - tags: covid,vaccine
 
 
 ## NHS Covid-19 app update blocked for breaking Apple and Google's rules
@@ -3859,6 +3888,7 @@
  - RSS feed: https://youtu.be/Dum0bqWfiGw
  - date published: 2021-03-12 20:26:11+00:00
  - user: None
+ - tags: propaganda,youtube
 
 
 ## Printed to Death: Dollar Due to Crash in 2021
@@ -3992,6 +4022,7 @@
  - RSS feed: thefreethoughtproject.com
  - date published: 2021-02-01 12:25:54+00:00
  - user: None
+ - tags: censorship,youtube
 
 
 ## Rząd nowelizuje ustawę o cyberbezpieczeństwie. Będzie mógł wyłączać serwisy internetowe bez uzasadnienia
@@ -3999,6 +4030,7 @@
  - RSS feed: www.komputerswiat.pl
  - date published: 2021-01-29 13:08:11+00:00
  - user: None
+ - tags: bigbrother,surveillence,privacy
 
 
 ## Why It's Bad to Have High GDP
@@ -4021,6 +4053,7 @@
  - RSS feed: www.breitbart.com
  - date published: 2021-01-21 12:26:49+00:00
  - user: None
+ - tags: surveillence,facebook,election
 
 
 ## Szpitale tymczasowe kosztowały ponad 500 mln zł. Dlaczego stoją puste?
@@ -4052,6 +4085,7 @@
  - RSS feed: https://www.bankier.pl
  - date published: 2021-01-16 20:15:49+00:00
  - user: None
+ - tags: olygopoly,freedom,bigtech
 
 
 ## COVID Lockdowns May Have No Clear Benefit vs Other Voluntary Measures, International Study Shows
@@ -4075,6 +4109,7 @@
  - RSS feed: www.nbcnews.com
  - date published: 2021-01-08 12:04:50+00:00
  - user: None
+ - tags: censorship,twitter,trump
 
 
 ## Dead Internet Theory: Most of the Internet is Fake
@@ -4082,7 +4117,7 @@
  - RSS feed: https://forum.agoraroad.com
  - date published: 2021-01-05 20:44:59+00:00
  - user: None
- - tags: dead internet,all time
+ - tags: dead internet,algorithm,all time
 
 
 ## House introduces gender-neutral language in new rules for Congress

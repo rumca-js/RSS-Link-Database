@@ -3,6 +3,7 @@
  - RSS feed: teamquest.pl
  - date published: 2016-08-24 12:04:50+00:00
  - user: None
+ - tags: chrome,google,privacy
 
 
 ## Plan Coudenhove-Kalergi - ludobójstwo narodów Europy

@@ -6,11 +6,12 @@
  - tags: climate change
 
 
-## Początki: W Laboratoriach w Wuchan tworzono chimery wirusów nietoperzy w 2015
+## A SARS-like cluster of circulating bat coronaviruses shows potential for human emergence
  - [https://www.nature.com/articles/nm.3985](https://www.nature.com/articles/nm.3985)
  - RSS feed: www.nature.com
  - date published: 2015-11-09 06:52:24+00:00
- - user: None
+ - user: rumpel
+ - tags: wuhan,covid
 
 
 ## How to Control What People Do | Propaganda - EDWARD BERNAYS | Animated Book Summary
@@ -73,6 +74,7 @@
  - RSS feed: www.cbsnews.com
  - date published: 2015-05-27 12:04:50+00:00
  - user: None
+ - tags: youtube,algorithm
 
 
 ## My father was gay. Yet I oppose legalizing same-sex marriage.

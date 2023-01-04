@@ -105,7 +105,7 @@
  - RSS feed: https://sites.psu.edu
  - date published: 2016-07-02 20:42:05+00:00
  - user: rumpel
- - tags: spirited away,movies
+ - tags: movies,spirited away,conspiracy theory
 
 
 ## Social Autopsy! - Ending Anonymity Online [BAD IDEA]
@@ -137,7 +137,7 @@
  - RSS feed: https://news.yahoo.com
  - date published: 2016-02-23 11:48:12+00:00
  - user: None
- - tags: merkel,surveillance,wikileaks
+ - tags: merkel,wikileaks,surveillance,all time
 
 
 ## Aaron Swartz Biographer Justin Peters: "Aaron Died for Nothing."

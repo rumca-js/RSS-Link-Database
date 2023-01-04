@@ -19,6 +19,7 @@
  - RSS feed: https://www.youtube.com/ToJuzJutro
  - date published: 2017-10-02 20:36:30+00:00
  - user: None
+ - tags: privacy
 
 
 ## SZWECJA: Terroryści są dobrymi rodzicami! Polakom zabiorą dzieci za nadopiekuńczość
@@ -57,5 +58,5 @@
  - RSS feed: http://przeczywistosc.pl
  - date published: 2017-02-01 19:51:40+00:00
  - user: None
- - tags: pizzagate
+ - tags: pizzagate,paedophilia
 

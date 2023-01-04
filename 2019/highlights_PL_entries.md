@@ -97,6 +97,7 @@
  - RSS feed: www.smyku.pl
  - date published: 2019-01-26 07:23:00+00:00
  - user: None
+ - tags: right-wing conspiracy,conspiracy theory
 
 
 ## Desmond Napoles "Child Drag Queen" Exploited By Adults

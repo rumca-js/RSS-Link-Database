@@ -57,6 +57,7 @@
  - RSS feed: www.theguardian.com
  - date published: 2018-10-23 12:04:50+00:00
  - user: None
+ - tags: smart city,surveillence,privacy
 
 
 ## Thousands Of Swedes Are Inserting Microchips Under Their Skin
@@ -148,6 +149,7 @@
  - RSS feed: www.nytimes.com
  - date published: 2018-08-28 08:49:46+00:00
  - user: None
+ - tags: inequality,woke,rotten tomatoes,inclusive
 
 
 ## The Origin of Consciousness in the Breakdown of the Bicameral Mind
@@ -193,6 +195,7 @@
  - RSS feed: https://www.bbc.com
  - date published: 2018-06-15 19:50:48+00:00
  - user: None
+ - tags: science,ai
 
 
 ## Facebook confirms data-sharing agreements with Chinese firms
@@ -200,6 +203,7 @@
  - RSS feed: www.bbc.com
  - date published: 2018-06-06 12:04:50+00:00
  - user: None
+ - tags: meta,china,privacy,facebook
 
 
 ## Facebook has an official Pepe the Frog policy
@@ -231,7 +235,7 @@
  - RSS feed: https://www.youtube.com/c/InvestigateEurope
  - date published: 2018-05-10 21:07:50+00:00
  - user: None
- - tags: blackrock
+ - tags: all time,blackrock
 
 
 ## The Facebook and Cambridge Analytica scandal, explained with a simple diagram

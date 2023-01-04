@@ -3,4 +3,5 @@
  - RSS feed: https://www.youtube.com/@prof.piotrjaroszynski
  - date published: 1980-12-15 08:26:37+00:00
  - user: None
+ - tags: propaganda,bezmienow,all time,bezimienow,russia
 

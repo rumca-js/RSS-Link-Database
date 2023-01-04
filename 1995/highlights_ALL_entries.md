@@ -3,7 +3,7 @@
  - RSS feed: http://ted-manifesto.prv.pl/
  - date published: 1995-12-16 07:23:07+00:00
  - user: None
- - tags: unabomber,ted kaczynski
+ - tags: unabomber,ted kaczynski,all time
 
 
 ## Text of Unabomber Manifesto
@@ -11,5 +11,5 @@
  - RSS feed: https://archive.nytimes.com
  - date published: 1995-12-16 07:22:15+00:00
  - user: None
- - tags: unabomber,ted kaczynski
+ - tags: unabomber,ted kaczynski,all time
 

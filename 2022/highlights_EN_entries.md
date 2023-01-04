@@ -3,6 +3,7 @@
  - RSS feed: http://feeds.abcnews.com/abcnews/topstories
  - date published: 2022-12-31 23:36:47+00:00
  - user: rumpel
+ - tags: gender,trans
 
 
 ## You Don’t Have to be a Conspiracy Theorist to be Worried About the World Economic Forum
@@ -100,6 +101,7 @@
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-12-30 05:00:00+00:00
  - user: rumpel
+ - tags: malware,ads,google,hacker
 
 
 ## Privacy Is OK
@@ -107,6 +109,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-29 21:07:20+00:00
  - user: rumpel
+ - tags: bigbrother,tracking,privacy,anonymity
 
 
 ## Banned by Face Recognition?
@@ -222,13 +225,6 @@
  - tags: woke,australia,gender
 
 
-## Republican George Santos admits lying on his CV
- - [https://www.bbc.co.uk/news/world-us-canada-64102086?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-64102086?at_medium=RSS&at_campaign=KARANGA)
- - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
- - date published: 2022-12-27 14:37:25+00:00
- - user: rumpel
-
-
 ## Top Biden Official Pushed Big Tech To Censor ‘Misinformation’ On Trans ‘Care’ For Minors, Video Shows
  - [https://www.dailywire.com/news/top-biden-official-pushed-big-tech-to-censor-misinformation-on-trans-care-for-minors-video-shows](https://www.dailywire.com/news/top-biden-official-pushed-big-tech-to-censor-misinformation-on-trans-care-for-minors-video-shows)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
@@ -302,6 +298,7 @@
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2022-12-26 11:00:01+00:00
  - user: rumpel
+ - tags: bigbrother,fbi,twitter; twitter files
 
 
 ## China stages big military incursion, Taiwan says
@@ -331,6 +328,7 @@
  - RSS feed: https://www.theepochtimes.com/c-tech/feed/
  - date published: 2022-12-25 19:33:38+00:00
  - user: rumpel
+ - tags: censorship,bigbrothercollusion,censorshiplaundering,bigtech,surveillence
 
 
 ## The FBI was the primary link between the intelligence community and Twitter
@@ -354,7 +352,7 @@
  - RSS feed: https://reclaimthenet.org/feed/
  - date published: 2022-12-25 15:23:08+00:00
  - user: rumpel
- - tags: moderation,tracking,fbi,privacy,social media
+ - tags: social media,privacy,tracking,bigbrother,moderation,fbi
 
 
 ## DuckDuckGo now blocks Google sign-in pop-ups on all sites
@@ -1596,6 +1594,7 @@
  - RSS feed: https://reclaimthenet.org/feed/
  - date published: 2022-12-10 16:53:55+00:00
  - user: None
+ - tags: bigbrother,fbi,twitter; twitter files
 
 
 ## Jack Dorsey told Congress under oath Twitter was not shadow-banning
@@ -1718,7 +1717,7 @@
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC9lKBRxxsDIarUmNaPe0h0Q
  - date published: 2022-12-08 14:30:52+00:00
  - user: None
- - tags: politics,inflation,all time,economy
+ - tags: inflation,politics,economy
 
 
 ## Coffeezilla claims FTX founder Sam Bankman-Fried admitted “fraud” in interview
@@ -1843,6 +1842,7 @@
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-07 14:26:54+00:00
  - user: None
+ - tags: crisis,uk,great reset,food
 
 
 ## Meta’s behavioral ads will finally face GDPR privacy reckoning in January
@@ -1917,6 +1917,7 @@
  - RSS feed: https://www.engadget.com/rss.xml
  - date published: 2022-12-06 17:20:15+00:00
  - user: None
+ - tags: meta,ads
 
 
 ## George Soros can influence global media with ties to at least 253 organizations, study finds
@@ -2067,6 +2068,7 @@
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-04 08:02:07.377169+00:00
  - user: None
+ - tags: wuhan,lableak,fauci
 
 
 ## Apple to move 40-45% iPhone production to India
@@ -2097,6 +2099,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-03 19:58:35+00:00
  - user: None
+ - tags: winter,blackouts,france
 
 
 ## “The First Amendment isn’t absolute” – Twitter files show Democrat staffers wanted more censorship
@@ -2104,6 +2107,7 @@
  - RSS feed: https://reclaimthenet.org/feed/
  - date published: 2022-12-03 19:04:18+00:00
  - user: None
+ - tags: censorship,twitter,twitter files
 
 
 ## Ex-Twitter Executive: Elon Musk Is Putting Us ‘In Harm’s Way’ By Showing How We Censored Content
@@ -2339,6 +2343,7 @@
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-11-29 16:35:00+00:00
  - user: None
+ - tags: covid,misinformation,twitter
 
 
 ## Deep Fake Zuckerberg Thanks Democrats for Their Service and Inaction on Antitrust
@@ -2347,6 +2352,14 @@
  - date published: 2022-11-29 16:00:00+00:00
  - user: None
  - tags: corporatocracy,antitrust,technofeudalism,zuckerberg
+
+
+## Google and YouTube are investing to fight misinformation
+ - [https://mashable.com/article/google-youtube-fact-checking-misinformation](https://mashable.com/article/google-youtube-fact-checking-misinformation)
+ - RSS feed: https://mashable.com
+ - date published: 2022-11-29 15:15:41+00:00
+ - user: rumpel
+ - tags: censorship,google,misinformation,algorithms,youtube,moderation
 
 
 ## Brazilian ‘protest’ video flagged as misinformation
@@ -2392,6 +2405,7 @@
  - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
  - date published: 2022-11-29 04:02:00+00:00
  - user: None
+ - tags: apple,china
 
 
 ## Elon Musk Denounces ESG as the ‘Devil Incarnate’
@@ -2453,6 +2467,7 @@
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-27 22:55:46+00:00
  - user: None
+ - tags: disney,woke,strange world
 
 
 ## Florida AG says it’s ‘not rocket science’ why so many Americans are flocking to Sunshine State
@@ -2516,6 +2531,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-26 17:28:46+00:00
  - user: None
+ - tags: tracking,privacy,email
 
 
 ## Former CEO says he considered suicide after suffering 'social terrorism' from co-workers for views
@@ -2606,6 +2622,7 @@
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-11-24 19:05:58+00:00
  - user: None
+ - tags: france,abortion
 
 
 ## The biggest threat to our financial freedom - CBDC
@@ -2658,6 +2675,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-23 09:33:40+00:00
  - user: None
+ - tags: algorithm,voiceassistant,bigtech
 
 
 ## WikiLeaks is struggling to stay online as millions of documents disappear
@@ -2688,6 +2706,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-22 12:51:59+00:00
  - user: None
+ - tags: movies,tarantino,marvel
 
 
 ## Mycroft – open source voice assistant
@@ -2740,6 +2759,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-21 09:28:40+00:00
  - user: None
+ - tags: musk,alexjones,moderation,social media
 
 
 ## Pentagon promotes critical race theory, gender identity 'insanity': GOP report
@@ -2988,6 +3008,7 @@
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-11-14 16:43:47+00:00
  - user: None
+ - tags: privacy,google,tracking
 
 
 ## Amazon Reportedly Plans To Cut 10,000 Jobs—Here Are The Biggest U.S. Layoffs This Year
@@ -3302,6 +3323,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-08 17:00:33+00:00
  - user: None
+ - tags: meta,facebook
 
 
 ## British Universities Told to Teach That Math Is Racist
@@ -3753,6 +3775,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-02 15:20:01+00:00
  - user: None
+ - tags: censorship,disinformation,facebook
 
 
 ## Lockdowns: The Great Gaslighting
@@ -3927,6 +3950,7 @@
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-11-01 06:00:17+00:00
  - user: None
+ - tags: censorship,biden,covid,media
 
 
 ## One year after the Facebook Files: 'When power is highly concentrated, whistleblowers need to be encouraged and protected'
@@ -3985,6 +4009,7 @@
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-31 16:14:00+00:00
  - user: None
+ - tags: apple,mac
 
 
 ## Twitter Blows Up At Professor After Demanding ‘Pandemic Amnesty’ in Atlantic Op-Ed
@@ -3992,6 +4017,7 @@
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-31 14:53:53+00:00
  - user: None
+ - tags: twitter,pandemic amnesty
 
 
 ## Various site updates - Xe
@@ -4006,6 +4032,7 @@
  - RSS feed: https://nypost.com
  - date published: 2022-10-31 13:27:01+00:00
  - user: None
+ - tags: censorship,bigbrother,covid,california
 
 
 ## To understand China you need to understand whiteness, yet it's missing from the conversation
@@ -4042,6 +4069,7 @@
  - RSS feed: https://www.theguardian.com/international/rss
  - date published: 2022-10-31 10:00:52+00:00
  - user: None
+ - tags: climate change,africa
 
 
 ## Why the App Store’s tone-deaf gambling ads make me worry about Apple
@@ -4063,6 +4091,7 @@
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-10-31 06:00:11+00:00
  - user: None
+ - tags: uk,christianophobia
 
 
 ## Using AI to compress audio files for quick and easy sharing
@@ -4091,6 +4120,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-10-30 18:39:30+00:00
  - user: None
+ - tags: islam,uk
 
 
 ## China braces for wave of workers fleeing iPhone factory in Covid-hit Zhengzhou
@@ -4126,6 +4156,7 @@
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-10-30 09:02:34+00:00
  - user: None
+ - tags: covid,mandates,vaccine
 
 
 ## Giza virtual trip in pyramid
@@ -4156,6 +4187,7 @@
  - RSS feed: http://louderwithcrowder.com/feed/
  - date published: 2022-10-29 21:14:04+00:00
  - user: None
+ - tags: censorship,crowder,twitter,musk,youtube
 
 
 ## AdGuardHome: Network-wide ads and trackers blocking DNS server
@@ -4214,6 +4246,7 @@
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-10-29 08:31:24+00:00
  - user: None
+ - tags: covid,masks
 
 
 ## China's zero-Covid policy no longer about health... It's about power and mass surveillance
@@ -4252,6 +4285,7 @@
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-28 18:43:44+00:00
  - user: None
+ - tags: musk,twitter,moderation
 
 
 ## Google ‘targeting Senate’ after study shows ‘search bias’ doesn’t impact House, Media Research Center says
@@ -4330,6 +4364,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-10-28 07:21:00+00:00
  - user: None
+ - tags: markdown,programming
 
 
 ## After PayPal Revokes Controversial Misinformation Policy, Major Concerns Remain Over $2,500 Fine
@@ -4443,6 +4478,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-10-27 15:39:43+00:00
  - user: None
+ - tags: digital id,surveillance,biometric
 
 
 ## Diem – Facebook open source Cryptocurrency written in Rust
@@ -4530,6 +4566,7 @@
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-26 22:40:37+00:00
  - user: None
+ - tags: metaverse,zuckerberg
 
 
 ## Facebook Segments Ads by Race and Age Based on Photos Whether Advertisers Want It or Not, Study Says
@@ -4552,6 +4589,7 @@
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-26 18:06:39+00:00
  - user: None
+ - tags: covid,immunity gap
 
 
 ## Google profits plummet 27 percent in Q3 2022 earnings report
@@ -4791,6 +4829,7 @@
  - RSS feed: www.aljazeera.com
  - date published: 2022-10-25 12:03:02+00:00
  - user: None
+ - tags: diversity,israel,inequality,inclusion,lgbt
 
 
 ## Australia's debt is set balloon past $1trillion with no end in sight as costs climb for NDIS
@@ -4926,6 +4965,7 @@
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-10-24 16:00:58+00:00
  - user: None
+ - tags: paedophilia,california,lgbt
 
 
 ## Netflix-Ubisoft, Disney-Nintendo And The Nightmare Media Mergers We Don’t Need
@@ -5033,6 +5073,7 @@
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-23 16:12:32+00:00
  - user: None
+ - tags: canada,facebook
 
 
 ## China Could Invade Taiwan Within The Next Year, Top U.S. Navy Officer Warns
@@ -5054,6 +5095,7 @@
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-10-22 22:31:18+00:00
  - user: None
+ - tags: propaganda,america,race,indoctrination
 
 
 ## The Raspberry Pi 400 in My Bedroom
@@ -5069,6 +5111,7 @@
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-10-22 19:40:13+00:00
  - user: None
+ - tags: censorship,bigtech,fauci
 
 
 ## 3-3 Natural Deduction | BookStack
@@ -5154,6 +5197,7 @@
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-10-21 21:57:34+00:00
  - user: None
+ - tags: kids,covid,vaccine
 
 
 ## Elon Musk Predicts How Long Global Recession Will Last
@@ -5233,6 +5277,7 @@
  - RSS feed: http://www.reddit.com/r/news/.rss
  - date published: 2022-10-21 17:26:12+00:00
  - user: None
+ - tags: misinformation,facebook,tiktok
 
 
 ## Google sued for collecting biometric data without consent
@@ -5240,6 +5285,7 @@
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-21 17:08:49+00:00
  - user: None
+ - tags: privacy,google,biometric,tracking
 
 
 ## People turn their backs on traditional greetings including 'good morning'
@@ -5261,6 +5307,7 @@
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-21 16:04:33+00:00
  - user: None
+ - tags: youwillownnothing,subscription
 
 
 ## US might bail Musk out by blocking Twitter deal over national security
@@ -5355,6 +5402,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-10-19 23:02:42+00:00
  - user: None
+ - tags: covid,lockdowns,australia
 
 
 ## Christian doctor sues hospital claiming they fired her when she asked not to use transgender pronoun
@@ -5398,6 +5446,7 @@
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-18 14:36:23+00:00
  - user: rumpel
+ - tags: booster,moderna,vaccine,covid
 
 
 ## Tim Allen Trolls ‘Wokees,’ Asks The Question Everyone Is Wondering About This Group
@@ -5412,6 +5461,7 @@
  - RSS feed: https://www.youtube.com/c/KiraTV1
  - date published: 2022-10-18 09:56:36+00:00
  - user: None
+ - tags: jake tran,social media
 
 
 ## Get Woke, Go Broke: BlackRock Stock Downgraded Over Risk From ESG Investing
@@ -5449,6 +5499,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-10-17 08:54:32+00:00
  - user: None
+ - tags: blm,hypocrisy,race
 
 
 ## Christian childcare teacher who refused to read LGBT books to kids sues after being fired: 'Blatantly illegal'
@@ -5500,6 +5551,7 @@
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-10-14 13:39:32+00:00
  - user: None
+ - tags: sjw,climate change
 
 
 ## Train Travel in the UK: A Foreigner's Perspective - Paliparan
@@ -5544,6 +5596,7 @@
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-14 10:13:32+00:00
  - user: None
+ - tags: inequality,feminism,california
 
 
 ## Posts mislead on Pfizer COVID vaccine’s impact on transmission
@@ -6056,6 +6109,7 @@
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-10-05 14:11:41+00:00
  - user: None
+ - tags: woke,spain
 
 
 ## I'm a professional baker and the butter shortage has me worried
@@ -6098,6 +6152,14 @@
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-10-04 20:56:00+00:00
  - user: None
+
+
+## LGBT-friendly day-care centres accused of having pedophile on the board
+ - [https://cne.news/artikel/1790-lgbt-friendly-day-care-centres-accused-of-having-pedophile-on-the-board](https://cne.news/artikel/1790-lgbt-friendly-day-care-centres-accused-of-having-pedophile-on-the-board)
+ - RSS feed: https://cne.news
+ - date published: 2022-10-04 20:54:04+00:00
+ - user: rumpel
+ - tags: paedophilia,germany,lgbt
 
 
 ## Debian Linux accepts proprietary firmware in major policy change
@@ -6182,6 +6244,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-10-04 10:40:36+00:00
  - user: None
+ - tags: crisis,uk
 
 
 ## Far-right enters Europe's mainstream: How voters are rejecting left-wing, elitist politicians
@@ -6365,6 +6428,7 @@
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-30 23:08:42+00:00
  - user: None
+ - tags: covid,immunity gap
 
 
 ## Twitch begins testing paid ‘Elevated Chat’ feature
@@ -6386,6 +6450,7 @@
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-09-30 19:41:44+00:00
  - user: None
+ - tags: woke,blizzard,lgbt
 
 
 ## Amazon Makes Creepy Surveillance Robot Even Creepier With Yet More Ring Integration
@@ -6674,6 +6739,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-27 14:03:31+00:00
  - user: None
+ - tags: apple,privacy,iphone
 
 
 ## Russian men 'call Ukraine to surrender BEFORE being drafted'
@@ -7171,6 +7237,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-22 13:09:43+00:00
  - user: None
+ - tags: privacy laundering,privacy,bigtech,bigbrother,surveillence
 
 
 ## Meta aims to slash costs by at least 10% within MONTHS by nudging out staff
@@ -7837,6 +7904,7 @@
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-14 16:54:22+00:00
  - user: None
+ - tags: censorship,moderation,bigtech
 
 
 ## TikTok search results are reportedly swarming with misinformation
@@ -7858,6 +7926,7 @@
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-14 13:38:37+00:00
  - user: None
+ - tags: mozilla,surveillence,bigtech,duckduckgo
 
 
 ## 'It’s f***ed up': Jake Paul DROPS BOMBS about Big Tech working with White House to censor Americans
@@ -8104,6 +8173,7 @@
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-12 04:00:00+00:00
  - user: None
+ - tags: linux malware
 
 
 ## Old School Unix Administration (My Next Homelab Generation) — scholz.ruhr
@@ -8183,6 +8253,7 @@
  - RSS feed: http://louderwithcrowder.com/feed/
  - date published: 2022-09-10 14:00:15+00:00
  - user: None
+ - tags: censorship,bigbrother,government,corporatocracy
 
 
 ## FBI Hiding Potentially Explosive Records On Jeffrey Epstein, Internet Sleuth Claims After FOIA Denial
@@ -8190,6 +8261,7 @@
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-10 09:48:01+00:00
  - user: None
+ - tags: epstein,bigbrother,fbi
 
 
 ## Hackers can now sneak malware into the GIFs you share
@@ -8388,6 +8460,7 @@
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-07 15:36:58+00:00
  - user: None
+ - tags: netflix,lgbt
 
 
 ## Twitter rips Gavin Newsom for power conservation push after electric vehicle mandate: 'Destroying the state'
@@ -8782,6 +8855,7 @@
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-02 20:19:08+00:00
  - user: None
+ - tags: censorship,moderation,google
 
 
 ## YouTube algorithm pushed election fraud claims to Trump supporters, report says
@@ -9245,6 +9319,7 @@
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg
  - date published: 2022-08-20 18:07:46+00:00
  - user: None
+ - tags: wef,dead internet,google
 
 
 ## It wasn't for nothing - Grasping gexps
@@ -10034,6 +10109,7 @@
  - RSS feed: https://www.theverge.com
  - date published: 2022-06-26 07:25:04.414261+00:00
  - user: Thomas Pain
+ - tags: google,abortion
 
 
 ## Starting in 2023, Windows 11 will require new laptops to have a front webcam
@@ -10405,6 +10481,14 @@
  - user: Thomas Pain
 
 
+## 2022 Russian businessmen mystery deaths
+ - [https://en.wikipedia.org/wiki/2022_Russian_businessmen_mystery_deaths](https://en.wikipedia.org/wiki/2022_Russian_businessmen_mystery_deaths)
+ - RSS feed: https://en.wikipedia.org
+ - date published: 2022-06-03 08:01:38+00:00
+ - user: rumpel
+ - tags: war,oil,russia,oligarchs
+
+
 ## A Letter to Discord for not Supporting the Linux Desktop | TheEvilSkeleton
  - [https://theevilskeleton.gitlab.io/2022/05/29/a-letter-to-discord-for-not-supporting-the-linux-desktop.html](https://theevilskeleton.gitlab.io/2022/05/29/a-letter-to-discord-for-not-supporting-the-linux-desktop.html)
  - RSS feed: https://theevilskeleton.gitlab.io
@@ -10417,6 +10501,7 @@
  - RSS feed: https://fortune.com
  - date published: 2022-06-02 15:59:39.265394+00:00
  - user: Thomas Pain
+ - tags: hypocrisy,lgbt
 
 
 ## Using a catch-all domain is a mistake — ⍻
@@ -11019,6 +11104,7 @@
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCjr2bPAyPV7t35MvcgT3W8Q
  - date published: 2022-04-26 12:15:06+00:00
  - user: None
+ - tags: encryption,bigtech,privacy
 
 
 ## Tory health minister Sajid Javid attacks NHS gender services for trans kids
@@ -11118,6 +11204,14 @@
  - RSS feed: https://www.coindesk.com
  - date published: 2022-04-21 06:45:19.870657+00:00
  - user: Thomas Pain
+
+
+## Netflix stock plunges 35% in company's worst day since 2004: Streaming giant loses $54 BILLION in value after shedding 200,000 subscribers in first quarter as viewers complain there's 'nothing to watch'
+ - [https://www.dailymail.co.uk/news/article-10735417/Netflix-track-BIGGEST-stock-drop-decade.html](https://www.dailymail.co.uk/news/article-10735417/Netflix-track-BIGGEST-stock-drop-decade.html)
+ - RSS feed: https://www.dailymail.co.uk
+ - date published: 2022-04-20 18:26:25+00:00
+ - user: rumpel
+ - tags: youllownnothing,netflix,subscription
 
 
 ## Doctor Who: 'I wanted The Doctor to whisk me away from everything awful' - BBC News
@@ -11514,6 +11608,7 @@
  - RSS feed: https://www.theverge.com
  - date published: 2022-04-02 08:09:30.108971+00:00
  - user: Thomas Pain
+ - tags: twitter,hate speech
 
 
 ## A few things to know before stealing my 914 - Hagerty Media
@@ -11728,6 +11823,7 @@
  - RSS feed: https://expose-news.com
  - date published: 2022-03-19 20:15:46+00:00
  - user: None
+ - tags: genocide,kalergi
 
 
 ## The Coudenhove-Kalergi Plan – The Genocide of the Peoples of Europe
@@ -11735,6 +11831,7 @@
  - RSS feed: https://www.nutritruth.org
  - date published: 2022-03-19 20:15:46+00:00
  - user: None
+ - tags: kalerg,genocide,depopulation
 
 
 ## The British government reportedly asked when Microsoft would 'get rid' of algorithms | Windows Central
@@ -11742,6 +11839,7 @@
  - RSS feed: https://www.windowscentral.com
  - date published: 2022-03-19 16:34:31.762842+00:00
  - user: Thomas Pain
+ - tags: uk,microsoft,algorithms
 
 
 ## Amazon intentionally made it difficult to cancel Prime subscription in secret project | The Independent
@@ -12119,6 +12217,7 @@
  - RSS feed: www.prokapitalizm.pl
  - date published: 2022-02-20 06:51:15+00:00
  - user: None
+ - tags: freedom convoy,covid,canada
 
 
 ## Tesla’s 3-6-9 and Vortex Math: Is this really the key to the universe?
@@ -12213,7 +12312,7 @@
  - RSS feed: https://dkb.io/post/google-search-is-dying
  - date published: 2022-02-15 15:45:06+00:00
  - user: None
- - tags: google search,dead internet,google
+ - tags: google search,dead internet,algorithm,google
 
 
 ## Jerry and Marge Selbee: How a retired couple won millions using a lottery loophole - 60 Minutes - CBS News
@@ -12488,6 +12587,7 @@
  - RSS feed: aaronsiri.substack.com
  - date published: 2022-01-26 07:05:47+00:00
  - user: None
+ - tags: pfizer,covid,fda,vaccine
 
 
 ## Jordan Peterson's Realization About the Bible

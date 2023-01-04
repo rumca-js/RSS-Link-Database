@@ -42,6 +42,7 @@
  - RSS feed: https://www.theverge.com
  - date published: 2019-11-11 19:57:35+00:00
  - user: None
+ - tags: youllownnothing,youtube,subscription
 
 
 ## Blizzard, Hearthstone and the Hong Kong protests: What you need to know
@@ -367,6 +368,7 @@
  - RSS feed: https://www.theguardian.com
  - date published: 2019-03-02 19:52:57+00:00
  - user: None
+ - tags: meta,privacy,facebook
 
 
 ## We're Numb to Data Privacy Abuse | Joe Rogan & Bill Ottman

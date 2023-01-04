@@ -11,6 +11,7 @@
  - RSS feed: spidersweb.pl
  - date published: 2020-12-25 12:04:50+00:00
  - user: None
+ - tags: youllownnothing,netflix,subscription
 
 
 ## Hiszpania: powstanie rejestr osób, które odmówią szczepienia przeciwko COVID-19
@@ -18,7 +19,7 @@
  - RSS feed: https://www.wnp.pl
  - date published: 2020-12-21 22:02:51+00:00
  - user: rumpel
- - tags: spain,vaccine,covid
+ - tags: covid,surveillance,spain,vaccine
 
 
 ## Izraleskie firmy zlokalizują każdego smartfona do 1 metra. Wykorzystując reklamy.
@@ -26,6 +27,7 @@
  - RSS feed: www.androidowy.pl
  - date published: 2020-12-12 12:04:50+00:00
  - user: None
+ - tags: ads,tracking,israel,privacy
 
 
 ## Urząd będzie blokował strony internetowe. Kolejna granica przekroczona
@@ -33,6 +35,7 @@
  - RSS feed: www.money.pl
  - date published: 2020-12-04 07:04:19+00:00
  - user: None
+ - tags: censorship,bigbrother,freedom,internet
 
 
 ## Lekarz: Strategia testowania i izolowania jest samobójcza
@@ -133,13 +136,15 @@
  - RSS feed: zmianynaziemi.pl
  - date published: 2020-07-24 06:55:51+00:00
  - user: None
+ - tags: censorship,google
 
 
-## Google Google: koniec z zarabianiem na teoriach spiskowych!
+## Google: koniec z zarabianiem na teoriach spiskowych!
  - [https://www.tabletowo.pl/google-koniec-z-zarabianiem-na-teoriach-spiskowych](https://www.tabletowo.pl/google-koniec-z-zarabianiem-na-teoriach-spiskowych)
  - RSS feed: www.tabletowo.pl
  - date published: 2020-07-18 06:56:37+00:00
- - user: None
+ - user: rumpel
+ - tags: misinformation,google,conspiracy theory
 
 
 ## Norwegia priorytetowo przyjmie uchodźców LGBT+ - Noizz
@@ -171,4 +176,5 @@
  - RSS feed: www.benchmark.pl
  - date published: 2020-05-01 12:04:50+00:00
  - user: None
+ - tags: tracking,xiaomi,privacy,surveillence
 
