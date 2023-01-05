@@ -577,11 +577,11 @@
  - tags: google,dark design,privacy
 
 
-## Początki: Teoria wycieku z Wuhan https://en.wikipedia.org/wiki/COVID-19_lab_leak_theory
+## COVID-19 lab leak theory
  - [https://en.wikipedia.org/wiki/COVID-19_lab_leak_theory](https://en.wikipedia.org/wiki/COVID-19_lab_leak_theory)
  - RSS feed: en.wikipedia.org
  - date published: 2020-08-25 06:52:20+00:00
- - user: None
+ - user: rumpel
  - tags: covid,lableak
 
 
@@ -963,11 +963,11 @@
  - tags: roko basilisk
 
 
-## Początki: Ameryka finansowała laboratorium w Wuchan. Why Would the US Have Funded the Controversial Wuhan Lab?
+## Why Would the US Have Funded the Controversial Wuhan Lab?
  - [https://thediplomat.com/2020/05/why-would-the-us-have-funded-the-controversial-wuhan-lab/](https://thediplomat.com/2020/05/why-would-the-us-have-funded-the-controversial-wuhan-lab/)
  - RSS feed: thediplomat.com
  - date published: 2020-05-13 06:52:14+00:00
- - user: None
+ - user: rumpel
  - tags: wuhan,covid,covid origins
 
 
@@ -1002,11 +1002,11 @@
  - tags: monopoly,amazon
 
 
-## Początki: Wuhan lab says there's no way coronavirus originated there. Here's the science.
+## Wuhan lab says there's no way coronavirus originated there. Here's the science.
  - [https://www.livescience.com/coronavirus-wuhan-lab-complicated-origins.html](https://www.livescience.com/coronavirus-wuhan-lab-complicated-origins.html)
  - RSS feed: www.livescience.com
  - date published: 2020-04-18 06:52:28+00:00
- - user: None
+ - user: rumpel
  - tags: wuhan,covid,covid origins
 
 

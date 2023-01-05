@@ -245,7 +245,7 @@
  - RSS feed: https://thefederalist.com
  - date published: 2019-07-22 22:12:22+00:00
  - user: rumpel
- - tags: kids,lgbt
+ - tags: kids,lgbt,indoctrination
 
 
 ## Instagram: Why paying for followers and likes is bad news for real fans
@@ -301,7 +301,7 @@
  - RSS feed: https://thebridgehead.ca
  - date published: 2019-04-30 22:11:33+00:00
  - user: rumpel
- - tags: kids,drag,canada,lgbt
+ - tags: kids,canada,indoctrination,lgbt,drag
 
 
 ## The Terrifying Potential of the 5G Network

@@ -568,6 +568,14 @@
  - user: Thomas Pain
 
 
+## Australia protests: People march against vaccine mandate; demand removal of Victorian Premier Daniel Andrews
+ - [https://www.wionews.com/world/australia-protests-people-march-against-vaccine-mandate-demand-removal-of-victorian-premier-daniel-andrews-432299](https://www.wionews.com/world/australia-protests-people-march-against-vaccine-mandate-demand-removal-of-victorian-premier-daniel-andrews-432299)
+ - RSS feed: https://www.wionews.com
+ - date published: 2021-11-27 10:02:45+00:00
+ - user: rumpel
+ - tags: australia,lockdown,covid,protest
+
+
 ## AWKGo, an AWK-to-Go compiler
  - [https://benhoyt.com/writings/awkgo/](https://benhoyt.com/writings/awkgo/)
  - RSS feed: https://benhoyt.com
@@ -1683,6 +1691,14 @@
  - user: Thomas Pain
 
 
+## The Dead Internet Theory (Part 2)
+ - [https://www.youtube.com/watch?v=6FtPvDGrpkA](https://www.youtube.com/watch?v=6FtPvDGrpkA)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCYRcdzyGQ_zGxxKcqJDFhqw
+ - date published: 2021-09-28 18:11:10+00:00
+ - user: rumpel
+ - tags: dead internet
+
+
 ## Kids who grew up with search engines could change STEM education forever - The Verge
  - [https://www.theverge.com/22684730/students-file-folder-directory-structure-education-gen-z](https://www.theverge.com/22684730/students-file-folder-directory-structure-education-gen-z)
  - RSS feed: https://www.theverge.com
@@ -2748,6 +2764,14 @@
  - user: Thomas Pain
 
 
+## Ponad 750 mln zł wydane na energetykę jądrową. Elektrowni brak
+ - [https://biznes.trojmiasto.pl/Ponad-750-mln-zl-wydane-na-energetyke-jadrowa-Elektrowni-brak-n158212.html](https://biznes.trojmiasto.pl/Ponad-750-mln-zl-wydane-na-energetyke-jadrowa-Elektrowni-brak-n158212.html)
+ - RSS feed: https://biznes.trojmiasto.pl
+ - date published: 2021-07-28 14:38:59+00:00
+ - user: rumpel
+ - tags: atom,poland
+
+
 ## The NHS App has quietly become a vaccine passport | WIRED UK
  - [https://www.wired.co.uk/article/nhs-app-covid-vaccine-passport](https://www.wired.co.uk/article/nhs-app-covid-vaccine-passport)
  - RSS feed: https://www.wired.co.uk
@@ -3326,7 +3350,7 @@
  - RSS feed: https://www.youtube.com
  - date published: 2021-07-05 22:29:19+00:00
  - user: rumpel
- - tags: sexualisation,kids,lgbt
+ - tags: kids,lgbt,indoctrination,sexualisation
 
 
 ## Coke Faces Down Most Serious Backlash Yet For Their “Woke” Agenda
@@ -3443,7 +3467,15 @@
  - RSS feed: https://www.mumsnet.com
  - date published: 2021-06-07 22:21:55+00:00
  - user: rumpel
- - tags: sexualisation,kids,lgbt
+ - tags: kids,lgbt,indoctrination,sexualisation
+
+
+## Who is Peter Daszak, the nonprofit exec who sent taxpayer money to Wuhan lab?
+ - [https://nypost.com/2021/06/04/who-is-peter-daszak-exec-who-sent-taxpayer-money-to-wuhan-lab/](https://nypost.com/2021/06/04/who-is-peter-daszak-exec-who-sent-taxpayer-money-to-wuhan-lab/)
+ - RSS feed: https://nypost.com
+ - date published: 2021-06-04 07:17:33+00:00
+ - user: rumpel
+ - tags: wuhan,covid,daszak,covid origins,lableak
 
 
 ## What Fauci's EXPOSED Emails REVEAL
@@ -3454,12 +3486,28 @@
  - tags: covid,covid lie,fauci
 
 
+## The Lab-Leak Theory: Inside the Fight to Uncover COVID-19’s Origins
+ - [https://www.vanityfair.com/news/2021/06/the-lab-leak-theory-inside-the-fight-to-uncover-covid-19s-origins](https://www.vanityfair.com/news/2021/06/the-lab-leak-theory-inside-the-fight-to-uncover-covid-19s-origins)
+ - RSS feed: https://www.vanityfair.com
+ - date published: 2021-06-03 07:19:42+00:00
+ - user: rumpel
+ - tags: wuhan,covid,lableak
+
+
 ## A Virginia Teacher Was Put On Leave After Opposing New Rights For Trans Students
  - [https://www.npr.org/2021/06/02/1002479412/a-virginia-teacher-was-put-on-leave-after-opposing-a-new-policy-for-trans-studen](https://www.npr.org/2021/06/02/1002479412/a-virginia-teacher-was-put-on-leave-after-opposing-a-new-policy-for-trans-studen)
  - RSS feed: https://www.npr.org
  - date published: 2021-06-02 21:17:09+00:00
  - user: rumpel
  - tags: lgbt,gender,intolerance,america
+
+
+## Fauci was warned that COVID-19 may have been ‘engineered,’ emails show
+ - [https://nypost.com/2021/06/02/fauci-was-warned-that-covid-may-have-been-engineered-emails/](https://nypost.com/2021/06/02/fauci-was-warned-that-covid-may-have-been-engineered-emails/)
+ - RSS feed: https://nypost.com
+ - date published: 2021-06-02 07:23:57+00:00
+ - user: rumpel
+ - tags: covid,leak,email,fauci
 
 
 ## We Now Know Why Facebook May Have Censored the Lab Leak Theory
@@ -3499,7 +3547,7 @@
  - RSS feed: https://www.today.com
  - date published: 2021-05-29 22:28:41+00:00
  - user: rumpel
- - tags: sexualisation,kids,lgbt
+ - tags: kids,lgbt,indoctrination,sexualisation
 
 
 ## The Takeover has Already Begun - A Secret Video Reveals All by @RICHARD GRANNON
@@ -3514,6 +3562,14 @@
  - RSS feed: https://www.bbc.com
  - date published: 2021-05-27 20:19:38+00:00
  - user: None
+
+
+## Fauci admits ‘modest’ NIH funding of Wuhan lab but denies ‘gain of function
+ - [https://nypost.com/2021/05/25/fauci-admits-nih-funding-of-wuhan-lab-denies-gain-of-function/](https://nypost.com/2021/05/25/fauci-admits-nih-funding-of-wuhan-lab-denies-gain-of-function/)
+ - RSS feed: https://nypost.com
+ - date published: 2021-05-25 07:18:24+00:00
+ - user: rumpel
+ - tags: wuhan,lableak,fauci
 
 
 ## Saagar Enjeti: Epstein Guards ADMIT Faking Records As Bill Gates Revelations Continue
@@ -3593,6 +3649,14 @@
  - date published: 2021-05-14 09:08:30+00:00
  - user: rumpel
  - tags: gowokegobroke,woke,disney
+
+
+## Scientist call to investigate the origins of COVID-19
+ - [https://www.science.org/doi/10.1126/science.abj0016](https://www.science.org/doi/10.1126/science.abj0016)
+ - RSS feed: https://www.science.org
+ - date published: 2021-05-14 07:21:19+00:00
+ - user: rumpel
+ - tags: wuhan,covid,lableak
 
 
 ## Rodzice twierdzą, że ich 4-letnie dziecko jest transpłciowe [WIDEO]
@@ -3675,7 +3739,7 @@
  - RSS feed: https://www.wnp.pl
  - date published: 2021-04-30 22:23:58+00:00
  - user: rumpel
- - tags: sexualisation,kids,paedophilia
+ - tags: kids,indoctrination,paedophilia,sexualisation
 
 
 ## TERREG: European Parliament confirms new online censorship powers
@@ -3739,7 +3803,7 @@
  - RSS feed: https://defiantamerica.com
  - date published: 2021-04-19 22:15:58+00:00
  - user: rumpel
- - tags: sexualisation,kids,lgbt
+ - tags: kids,lgbt,indoctrination,sexualisation
 
 
 ## „Nie szczepisz się, nie pracujesz z ludźmi”. Dyrektor UCK wzywa do wprowadzenia szczepionkowych sankcji
@@ -3991,6 +4055,14 @@
  - date published: 2021-02-09 21:14:12+00:00
  - user: rumpel
  - tags: germany,lockdown,covid
+
+
+## WHO says COVID-19 unlikely to have leaked from China lab
+ - [https://nypost.com/2021/02/09/who-team-coronavirus-unlikely-to-have-leaked-from-china-lab/](https://nypost.com/2021/02/09/who-team-coronavirus-unlikely-to-have-leaked-from-china-lab/)
+ - RSS feed: https://nypost.com
+ - date published: 2021-02-09 07:26:42+00:00
+ - user: rumpel
+ - tags: wuhan,covid,who,lableak
 
 
 ## "Kanadyjczycy są aresztowani i wywożeni". Prawnicy reagują na koronawirusowe restrykcje

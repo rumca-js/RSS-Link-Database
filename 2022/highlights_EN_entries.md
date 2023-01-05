@@ -267,7 +267,7 @@
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-26 17:59:56+00:00
  - user: rumpel
- - tags: misinformation,polarisation,conspiracy theory,covid,big brother
+ - tags: covid,bigbrother,conspiracy theory,misinformation,polarisation
 
 
 ## Twitter suppressed covid information from doctors and experts
@@ -439,6 +439,22 @@
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-12-23 19:57:15+00:00
  - user: rumpel
+
+
+## Dr. Robert Malone Tells Ben Shapiro COVID Vaccines Are Unsafe For All Age Groups
+ - [https://www.dailywire.com/news/dr-robert-malone-tells-ben-shapiro-covid-vaccines-are-unsafe-for-all-age-groups](https://www.dailywire.com/news/dr-robert-malone-tells-ben-shapiro-covid-vaccines-are-unsafe-for-all-age-groups)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2022-12-23 18:54:53+00:00
+ - user: rumpel
+ - tags: censorship,vaccine,covid
+
+
+## Guelph Prof. Sues University, Faculty for $3M After Long Feud on COVID Vaccines
+ - [https://www.theepochtimes.com/guelph-prof-sues-university-faculty-for-3m-after-long-feud-on-covid-vaccines_4942622.html](https://www.theepochtimes.com/guelph-prof-sues-university-faculty-for-3m-after-long-feud-on-covid-vaccines_4942622.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2022-12-23 17:37:59+00:00
+ - user: rumpel
+ - tags: censorship,vaccine,covid
 
 
 ## Facebook parent Meta agrees to pay $725 million to settle Cambridge Analytica suit
@@ -2633,6 +2649,14 @@
  - tags: cdbc
 
 
+## Why You Should Consider Using DuckDuckGo as Your Search Engine
+ - [https://www.makeuseof.com/why-consider-duckduckgo/](https://www.makeuseof.com/why-consider-duckduckgo/)
+ - RSS feed: https://www.makeuseof.com
+ - date published: 2022-11-24 08:42:39+00:00
+ - user: None
+ - tags: privacy,tracking,duckduckgo
+
+
 ## Videolan: Google refuses to take down or unlist domains with tons of malware
  - [https://twitter.com/videolan/status/1595524698351230981](https://twitter.com/videolan/status/1595524698351230981)
  - RSS feed: https://hnrss.org/frontpage
@@ -4094,6 +4118,14 @@
  - tags: uk,christianophobia
 
 
+## Five Good Things About RISC-V
+ - [https://codasip.com/2022/09/22/5-good-things-about-risc-v/](https://codasip.com/2022/09/22/5-good-things-about-risc-v/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-10-31 05:43:12+00:00
+ - user: rumpel
+ - tags: risc
+
+
 ## Using AI to compress audio files for quick and easy sharing
  - [https://ai.facebook.com/blog/ai-powered-audio-compression-technique/](https://ai.facebook.com/blog/ai-powered-audio-compression-technique/)
  - RSS feed: https://hnrss.org/frontpage
@@ -4436,6 +4468,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-10-27 20:44:28+00:00
  - user: None
+ - tags: google,ads
 
 
 ## Democrats wondering 'why we suck' as they face possible midterm losses: Politico column
@@ -5537,6 +5570,14 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-10-15 16:22:22+00:00
  - user: None
+
+
+## Advertising is killing Tech Journalism
+ - [https://lunduke.substack.com/p/advertising-is-killing-tech-journalism](https://lunduke.substack.com/p/advertising-is-killing-tech-journalism)
+ - RSS feed: https://lunduke.substack.com
+ - date published: 2022-10-15 11:26:41+00:00
+ - user: rumpel
+ - tags: ads
 
 
 ## J.K. Rowling not worried about losing woke fans, says cash rolling in takes away the 'pain'
@@ -6887,6 +6928,7 @@
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-26 04:00:00+00:00
  - user: None
+ - tags: google,ads
 
 
 ## James Stanley - Solving Protohackers with Fly.io
@@ -9069,14 +9111,6 @@
  - user: Thomas Pain
 
 
-## The Dead Internet Theory (Part 2)
- - [https://www.youtube.com/watch?v=6FtPvDGrpkA](https://www.youtube.com/watch?v=6FtPvDGrpkA)
- - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCYRcdzyGQ_zGxxKcqJDFhqw
- - date published: 2022-08-28 18:11:10+00:00
- - user: None
- - tags: dead internet
-
-
 ## Ghana Bans A Delta Boeing 767 (Yes, Just One) - One Mile at a Time
  - [https://onemileatatime.com/news/ghana-bans-delta-boeing-767/](https://onemileatatime.com/news/ghana-bans-delta-boeing-767/)
  - RSS feed: https://onemileatatime.com
@@ -9963,6 +9997,13 @@
  - user: Thomas Pain
 
 
+## OPPO was banned in Germany along with OnePlus
+ - [https://en.oppohub.it/oppo-was-banned-in-germany-together-with-oneplus/](https://en.oppohub.it/oppo-was-banned-in-germany-together-with-oneplus/)
+ - RSS feed: https://en.oppohub.it
+ - date published: 2022-07-09 20:41:15+00:00
+ - user: None
+
+
 ## Why DRY is the most over-rated programming principle | Thoughts on Software
  - [https://gordonc.bearblog.dev/dry-most-over-rated-programming-principle/](https://gordonc.bearblog.dev/dry-most-over-rated-programming-principle/)
  - RSS feed: https://gordonc.bearblog.dev
@@ -10474,6 +10515,14 @@
  - user: Thomas Pain
 
 
+## Matt Walsh Revisits His What Is A Woman Interview With Dr. Forcier
+ - [https://www.youtube.com/watch?v=zdDB8wU73NA](https://www.youtube.com/watch?v=zdDB8wU73NA)
+ - RSS feed: https://www.youtube.com
+ - date published: 2022-06-03 12:30:46+00:00
+ - user: rumpel
+ - tags: whatisawoman,lgbt,gender
+
+
 ## Europe's hope to scan devices for unlawful files criticized • The Register
  - [https://www.theregister.com/2022/06/02/eu_child_protection/?td=keepreading-top](https://www.theregister.com/2022/06/02/eu_child_protection/?td=keepreading-top)
  - RSS feed: https://www.theregister.com
@@ -10772,6 +10821,14 @@
  - date published: 2022-05-15 13:48:10+00:00
  - user: None
  - tags: population,wef,depopulation
+
+
+## OFFICIAL TRAILER: "WHAT IS A WOMAN?"
+ - [https://www.youtube.com/watch?v=42ivIRd9N8E](https://www.youtube.com/watch?v=42ivIRd9N8E)
+ - RSS feed: https://www.youtube.com
+ - date published: 2022-05-14 12:29:42+00:00
+ - user: rumpel
+ - tags: whatisawoman,lgbt,gender
 
 
 ## Rosenzweig – The Apple GPU and the Impossible Bug
@@ -11905,6 +11962,7 @@
  - RSS feed: https://www.bleepingcomputer.com
  - date published: 2022-03-15 06:51:23.872351+00:00
  - user: Thomas Pain
+ - tags: windows,microsoft,ads
 
 
 ## Medical student surgically implants Bluetooth device into own ear to cheat in final exam | The Independent
@@ -12312,7 +12370,7 @@
  - RSS feed: https://dkb.io/post/google-search-is-dying
  - date published: 2022-02-15 15:45:06+00:00
  - user: None
- - tags: google search,dead internet,algorithm,google
+ - tags: dead internet,google,algorithm,google search,ads
 
 
 ## Jerry and Marge Selbee: How a retired couple won millions using a lottery loophole - 60 Minutes - CBS News

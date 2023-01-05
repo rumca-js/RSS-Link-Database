@@ -132,6 +132,14 @@
  - tags: movies,prometheus
 
 
+## Joe Rogan - James Damore on the Backlash from the Google Memo Controversy
+ - [https://www.youtube.com/watch?v=VIW2OBOzu7Y](https://www.youtube.com/watch?v=VIW2OBOzu7Y)
+ - RSS feed: https://www.youtube.com
+ - date published: 2017-09-06 12:36:58+00:00
+ - user: rumpel
+ - tags: google,damore,rogan,feminism
+
+
 ## Dennis Meadows Interview p4/4 (A 'peaceful collapse' & many revolutions...)
  - [https://www.youtube.com/watch?v=Dbo6uvJBtZg](https://www.youtube.com/watch?v=Dbo6uvJBtZg)
  - RSS feed: https://www.youtube.com/@WeLoveEarth
@@ -190,7 +198,7 @@
  - RSS feed: https://www.businessinsider.com
  - date published: 2017-08-09 14:56:41+00:00
  - user: rumpel
- - tags: google,google memo,james damore
+ - tags: inequality,feminism,google,damore
 
 
 ## SZWECJA: Terroryści są dobrymi rodzicami! Polakom zabiorą dzieci za nadopiekuńczość
@@ -300,6 +308,14 @@
  - RSS feed: www.bitdefender.com
  - date published: 2017-01-25 12:04:50+00:00
  - user: None
+
+
+## Fact Sheet: Activity at the Wuhan Institute of Virology
+ - [https://2017-2021.state.gov/fact-sheet-activity-at-the-wuhan-institute-of-virology/index.html](https://2017-2021.state.gov/fact-sheet-activity-at-the-wuhan-institute-of-virology/index.html)
+ - RSS feed: https://2017-2021.state.gov
+ - date published: 2017-01-20 07:25:32+00:00
+ - user: rumpel
+ - tags: wuhan,covid,usa,covid origins,gainoffunction
 
 
 ## Having babies really does change women's brains

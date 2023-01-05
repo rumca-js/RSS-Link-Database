@@ -117,6 +117,14 @@
  - tags: cbdc
 
 
+## Ponad 750 mln zł wydane na energetykę jądrową. Elektrowni brak
+ - [https://biznes.trojmiasto.pl/Ponad-750-mln-zl-wydane-na-energetyke-jadrowa-Elektrowni-brak-n158212.html](https://biznes.trojmiasto.pl/Ponad-750-mln-zl-wydane-na-energetyke-jadrowa-Elektrowni-brak-n158212.html)
+ - RSS feed: https://biznes.trojmiasto.pl
+ - date published: 2021-07-28 14:38:59+00:00
+ - user: rumpel
+ - tags: atom,poland
+
+
 ## Zostałem szczepionkowym rasistą. „Ludzie w pełni zaszczepieni powinni mieć specjalne przywileje”
  - [https://www.wprost.pl/kraj/10467413/zostalem-szczepionkowym-rasista-zaszczepieni-powinni-miec-przywileje.html](https://www.wprost.pl/kraj/10467413/zostalem-szczepionkowym-rasista-zaszczepieni-powinni-miec-przywileje.html)
  - RSS feed: https://www.wprost.pl
@@ -177,7 +185,7 @@
  - RSS feed: https://www.wnp.pl
  - date published: 2021-04-30 22:23:58+00:00
  - user: rumpel
- - tags: sexualisation,kids,paedophilia
+ - tags: kids,indoctrination,paedophilia,sexualisation
 
 
 ## Gwałt po nowemu. O zgubnych konsekwencjach lewicowego paradygmatu

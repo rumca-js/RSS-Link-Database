@@ -339,7 +339,7 @@
  - RSS feed: https://thefederalist.com
  - date published: 2019-07-22 22:12:22+00:00
  - user: rumpel
- - tags: kids,lgbt
+ - tags: kids,lgbt,indoctrination
 
 
 ## Akcja "Żywa Książka" budzi sprzeciw Ordo Iuris. "Pod pozorem lekcji tolerancji oswaja się ludzi z agendą LGBT"
@@ -347,7 +347,7 @@
  - RSS feed: https://wiadomosci.dziennik.pl
  - date published: 2019-07-17 22:15:14+00:00
  - user: rumpel
- - tags: libraryreading,sexualisation,kids,lgbt
+ - tags: kids,sexualisation,libraryreading,lgbt,indoctrination
 
 
 ## Instagram: Why paying for followers and likes is bad news for real fans
@@ -410,7 +410,7 @@
  - RSS feed: https://thebridgehead.ca
  - date published: 2019-04-30 22:11:33+00:00
  - user: rumpel
- - tags: kids,drag,canada,lgbt
+ - tags: kids,canada,indoctrination,lgbt,drag
 
 
 ## The Terrifying Potential of the 5G Network
@@ -463,6 +463,14 @@
  - date published: 2019-04-08 08:58:27+00:00
  - user: rumpel
  - tags: trans,family,lgbt,woke
+
+
+## Elektrownia atomowa. Państwowa spółka pochłonęła już prawie pół miliarda złotych
+ - [https://www.money.pl/gospodarka/elektrownia-atomowa-panstwowa-spolka-pochlonela-juz-prawie-pol-miliarda-zlotych-6364261429319809a.html](https://www.money.pl/gospodarka/elektrownia-atomowa-panstwowa-spolka-pochlonela-juz-prawie-pol-miliarda-zlotych-6364261429319809a.html)
+ - RSS feed: https://www.money.pl
+ - date published: 2019-03-28 14:36:51+00:00
+ - user: rumpel
+ - tags: atom,poland
 
 
 ## Sex offender volunteered at library 3 times

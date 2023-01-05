@@ -158,6 +158,14 @@
  - user: None
 
 
+## What are the most pressing world problems?
+ - [https://80000hours.org/problem-profiles/](https://80000hours.org/problem-profiles/)
+ - RSS feed: https://80000hours.org
+ - date published: 2018-08-04 17:15:30+00:00
+ - user: rumpel
+ - tags: crisis,climate change
+
+
 ## If you can quit social media, but don’t, then you’re part of the problem, Jaron Lanier says
  - [https://www.vox.com/2018/7/27/17618756/jaron-lanier-deleting-social-media-book-kara-swisher-too-embarrassed-podcast](https://www.vox.com/2018/7/27/17618756/jaron-lanier-deleting-social-media-book-kara-swisher-too-embarrassed-podcast)
  - RSS feed: https://www.vox.com
@@ -243,7 +251,7 @@
  - RSS feed: www.zdnet.com
  - date published: 2018-04-10 06:43:44+00:00
  - user: None
- - tags: internet,adeconomy
+ - tags: ads,adeconomy,internet
 
 
 ## How much VR user data is Oculus giving to Facebook?
@@ -262,12 +270,28 @@
  - tags: cambridge analytica
 
 
+## Dr. Jordan Peterson on the James Damore Memo
+ - [https://www.youtube.com/watch?v=PRYvqrWcmmE](https://www.youtube.com/watch?v=PRYvqrWcmmE)
+ - RSS feed: https://www.youtube.com
+ - date published: 2018-04-03 12:35:07+00:00
+ - user: rumpel
+ - tags: inequality,google,damore,peterson,feminism
+
+
 ## Revealed: 50 million Facebook profiles harvested for Cambridge Analytica in major data breach
  - [https://www.theguardian.com/news/2018/mar/17/cambridge-analytica-facebook-influence-us-election](https://www.theguardian.com/news/2018/mar/17/cambridge-analytica-facebook-influence-us-election)
  - RSS feed: https://www.theguardian.com
  - date published: 2018-03-17 11:11:42+00:00
  - user: None
  - tags: trump,propaganda,facebook,censorship,cambridge analytica
+
+
+## These Are The Concerns Slowly Killing Ad-Tech
+ - [https://readwrite.com/concerns-slowly-killing-ad-tech/](https://readwrite.com/concerns-slowly-killing-ad-tech/)
+ - RSS feed: https://readwrite.com
+ - date published: 2018-03-14 11:27:13+00:00
+ - user: rumpel
+ - tags: ads
 
 
 ## UN blames Facebook for spreading hate speech in possible Myanmar genocide of Rohingya Muslims

@@ -74,7 +74,7 @@
  - RSS feed: https://wiadomosci.dziennik.pl
  - date published: 2019-07-17 22:15:14+00:00
  - user: rumpel
- - tags: libraryreading,sexualisation,kids,lgbt
+ - tags: kids,sexualisation,libraryreading,lgbt,indoctrination
 
 
 ## Koniec naszego świata
@@ -82,6 +82,14 @@
  - RSS feed: www.tvp.info
  - date published: 2019-07-06 07:21:17+00:00
  - user: None
+
+
+## Elektrownia atomowa. Państwowa spółka pochłonęła już prawie pół miliarda złotych
+ - [https://www.money.pl/gospodarka/elektrownia-atomowa-panstwowa-spolka-pochlonela-juz-prawie-pol-miliarda-zlotych-6364261429319809a.html](https://www.money.pl/gospodarka/elektrownia-atomowa-panstwowa-spolka-pochlonela-juz-prawie-pol-miliarda-zlotych-6364261429319809a.html)
+ - RSS feed: https://www.money.pl
+ - date published: 2019-03-28 14:36:51+00:00
+ - user: rumpel
+ - tags: atom,poland
 
 
 ## Sweden sees microchip implant revolution | Al Jazeera English
