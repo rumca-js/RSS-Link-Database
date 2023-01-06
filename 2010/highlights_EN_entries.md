@@ -29,3 +29,11 @@
  - user: rumpel
  - tags: kids,paedophilia,lgbt
 
+
+## Singletons Considered Harmful
+ - [https://kentonshouse.com/singletons](https://kentonshouse.com/singletons)
+ - RSS feed: https://kentonshouse.com
+ - date published: 2010-01-05 10:07:14+00:00
+ - user: rumpel
+ - tags: programming,singleton,design patterns
+

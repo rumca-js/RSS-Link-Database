@@ -95,6 +95,14 @@
  - user: None
 
 
+## Z Facebooka zniknęło tysiące postów, dotyczących styczniowego ataku na Kongres USA
+ - [https://www.onet.pl/informacje/onetwiadomosci/z-facebooka-zniknelo-tysiace-postow-dotyczacych-styczniowego-ataku-na-kongres-usa/04f4jlp,79cfc278](https://www.onet.pl/informacje/onetwiadomosci/z-facebooka-zniknelo-tysiace-postow-dotyczacych-styczniowego-ataku-na-kongres-usa/04f4jlp,79cfc278)
+ - RSS feed: https://www.onet.pl
+ - date published: 2021-09-01 12:58:18+00:00
+ - user: rumpel
+ - tags: jan6,facebook
+
+
 ## Progress Report: August 2021 - Asahi Linux
  - [https://asahilinux.org/2021/08/progress-report-august-2021/](https://asahilinux.org/2021/08/progress-report-august-2021/)
  - RSS feed: https://asahilinux.org
@@ -163,6 +171,14 @@
  - date published: 2021-06-16 22:12:17+00:00
  - user: rumpel
  - tags: who,herd imunity,covid
+
+
+## Facebook zakazuje sceptycyzmu wobec szczepień przeciw COVID-19
+ - [https://ithardware.pl/aktualnosci/facebook_zakazuje_sceptycyzmu_wobec_szczepien_przeciw_covid_19-16200.html](https://ithardware.pl/aktualnosci/facebook_zakazuje_sceptycyzmu_wobec_szczepien_przeciw_covid_19-16200.html)
+ - RSS feed: https://ithardware.pl
+ - date published: 2021-05-16 13:02:46+00:00
+ - user: rumpel
+ - tags: covid,misinformation,censorship,vaccine,moderation,facebook
 
 
 ## Rodzice twierdzą, że ich 4-letnie dziecko jest transpłciowe [WIDEO]
@@ -321,4 +337,12 @@
  - date published: 2021-01-16 20:15:49+00:00
  - user: None
  - tags: olygopoly,freedom,bigtech
+
+
+## Władzę nad światem przejmuje Big Tech. Czy to już koniec wolności słowa?
+ - [https://geekweek.interia.pl/styl-zycia/news-wladze-nad-swiatem-przejmuje-big-tech-czy-to-juz-koniec-woln,nId,5547055](https://geekweek.interia.pl/styl-zycia/news-wladze-nad-swiatem-przejmuje-big-tech-czy-to-juz-koniec-woln,nId,5547055)
+ - RSS feed: https://geekweek.interia.pl
+ - date published: 2021-01-11 13:17:34+00:00
+ - user: rumpel
+ - tags: democracy,bigtech,freedom,bigbrother,censorship,moderation
 

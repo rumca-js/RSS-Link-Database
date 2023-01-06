@@ -99,6 +99,14 @@
  - tags: culture,keyes,christianophobia,lgbt
 
 
+## How to Remove Elements from an Associative Container in C++
+ - [https://www.fluentcpp.com/2018/09/21/remove-elements-associative-container-cpp/](https://www.fluentcpp.com/2018/09/21/remove-elements-associative-container-cpp/)
+ - RSS feed: https://www.fluentcpp.com
+ - date published: 2018-09-21 13:29:42+00:00
+ - user: rumpel
+ - tags: c++,programming
+
+
 ## Democracy: Rule of the NPCs
  - [https://notrelated.xyz/audio/s01/S01E04_-_Democracy_Rule_of_the_NPCs.mp3](https://notrelated.xyz/audio/s01/S01E04_-_Democracy_Rule_of_the_NPCs.mp3)
  - RSS feed: https://notrelated.xyz/rss
@@ -182,12 +190,28 @@
  - tags: jaron lanier,social media
 
 
+## How to give IT project estimates—and when not to estimate at all
+ - [https://www.hpe.com/us/en/insights/articles/how-to-give-it-project-estimates-and-when-not-to-estimate-at-all-1807.html](https://www.hpe.com/us/en/insights/articles/how-to-give-it-project-estimates-and-when-not-to-estimate-at-all-1807.html)
+ - RSS feed: https://www.hpe.com
+ - date published: 2018-07-19 09:12:04+00:00
+ - user: rumpel
+ - tags: managment,programming,estimate
+
+
 ## Social Engineering as a Threat to Societies: The Cambridge Analytica Case
  - [https://www.realcleardefense.com/articles/2018/07/18/social_engineering_as_a_threat_to_societies_the_cambridge_analytica_case_113620.html](https://www.realcleardefense.com/articles/2018/07/18/social_engineering_as_a_threat_to_societies_the_cambridge_analytica_case_113620.html)
  - RSS feed: https://www.realcleardefense.com
  - date published: 2018-07-18 13:25:21+00:00
  - user: None
  - tags: cambridge analityca,social engineering
+
+
+## Why is Python so slow?
+ - [https://medium.com/hackernoon/why-is-python-so-slow-e5074b6fe55b](https://medium.com/hackernoon/why-is-python-so-slow-e5074b6fe55b)
+ - RSS feed: https://medium.com
+ - date published: 2018-07-16 10:07:45+00:00
+ - user: rumpel
+ - tags: programming,python
 
 
 ## Is your phone WATCHING you? Apps aren't secretly listening to your private conversations but some will record video of everything you do
@@ -262,6 +286,14 @@
  - tags: who,bill gates
 
 
+## 11 signs you’re writing great code
+ - [https://www.infoworld.com/article/3268310/application-development/11-signs-youre-writing-great-code.html](https://www.infoworld.com/article/3268310/application-development/11-signs-youre-writing-great-code.html)
+ - RSS feed: https://www.infoworld.com
+ - date published: 2018-04-12 10:01:48+00:00
+ - user: rumpel
+ - tags: programming,clean code
+
+
 ## Mozilla: The ad economy is broken and it's making the internet sick
  - [https://www.zdnet.com/article/mozilla-the-ad-economy-is-broken-and-its-making-the-internet-sick/](https://www.zdnet.com/article/mozilla-the-ad-economy-is-broken-and-its-making-the-internet-sick/)
  - RSS feed: www.zdnet.com
@@ -292,6 +324,14 @@
  - date published: 2018-04-03 12:35:07+00:00
  - user: rumpel
  - tags: inequality,google,damore,peterson,feminism
+
+
+## Recommended compiler and linker flags for GCC
+ - [https://developers.redhat.com/blog/2018/03/21/compiler-and-linker-flags-gcc/](https://developers.redhat.com/blog/2018/03/21/compiler-and-linker-flags-gcc/)
+ - RSS feed: https://developers.redhat.com
+ - date published: 2018-03-21 13:26:10+00:00
+ - user: rumpel
+ - tags: programming,gcc
 
 
 ## Revealed: 50 million Facebook profiles harvested for Cambridge Analytica in major data breach
@@ -339,4 +379,28 @@
  - date published: 2018-01-10 20:22:32+00:00
  - user: rumpel
  - tags: movies,prometheus
+
+
+## Why the C Language Will Never Stop You from Making Mistakes
+ - [https://thephd.dev/your-c-compiler-and-standard-library-will-not-help-you](https://thephd.dev/your-c-compiler-and-standard-library-will-not-help-you)
+ - RSS feed: https://thephd.dev
+ - date published: 2018-01-05 13:31:08+00:00
+ - user: rumpel
+ - tags: ansic,programming
+
+
+## Null Is Evil. What’s the Best Alternative? Null.
+ - [https://blog.ndepend.com/null-evil/](https://blog.ndepend.com/null-evil/)
+ - RSS feed: https://blog.ndepend.com
+ - date published: 2018-01-05 10:00:27+00:00
+ - user: rumpel
+ - tags: programming,design patterns
+
+
+## niePatenty - Maciej Drozdowski
+ - [http://www.cs.put.poznan.pl/mdrozdowski/txt/niePatenty.pdf](http://www.cs.put.poznan.pl/mdrozdowski/txt/niePatenty.pdf)
+ - RSS feed: http://www.cs.put.poznan.pl
+ - date published: 2018-01-05 09:05:09+00:00
+ - user: rumpel
+ - tags: patents,programming,corporations
 

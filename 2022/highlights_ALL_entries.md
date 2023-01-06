@@ -11,6 +11,7 @@
  - RSS feed: https://dailysceptic.org/feed/
  - date published: 2022-12-31 19:00:00+00:00
  - user: rumpel
+ - tags: wef,conspiracy theory
 
 
 ## U.S. universities, rich in data, struggle to capture its value, study finds
@@ -25,6 +26,7 @@
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-12-31 15:30:00+00:00
  - user: rumpel
+ - tags: anonymity,blog,privacy
 
 
 ## Louis Rossmann discusses NY's butchering of right to repair [video]
@@ -87,6 +89,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-12-30 10:25:53+00:00
  - user: rumpel
+ - tags: woke,uk
 
 
 ## Szczecin coraz szybciej rozwija się po drugiej stronie granicy. Czy to już polsko-niemiecka aglomeracja?
@@ -125,6 +128,7 @@
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCFLFc8Lpbwt4jPtY1_Ai5yA
  - date published: 2022-12-29 17:29:08+00:00
  - user: rumpel
+ - tags: face recognition,corporatocracy,tech feudalism
 
 
 ## Elon Musk slams Fauci for infamous 'I am science' quote that refuted all criticism of COVID policy
@@ -132,6 +136,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-12-29 17:05:56+00:00
  - user: rumpel
+ - tags: fauci,covid,musk
 
 
 ## Pandemia się dla nich nie skończyła. Większość Niemców chce utrzymania restrykcji covidowych
@@ -146,6 +151,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-29 14:43:54+00:00
  - user: rumpel
+ - tags: privacy
 
 
 ## Allegro ma, delikatnie mówiąc, prze***ane. UOKiK wymierzy spółce ponad 210 mln zł kary
@@ -359,6 +365,14 @@
  - date published: 2022-12-26 08:29:18+00:00
  - user: rumpel
  - tags: hypocrisy,esg,china,woke
+
+
+## Rogue antibody and mystery pathogen behind AstraZeneca blood clots: study
+ - [https://www.smh.com.au/national/rogue-antibody-and-mystery-pathogen-behind-astrazeneca-blood-clots-study-20221223-p5c8gl.html](https://www.smh.com.au/national/rogue-antibody-and-mystery-pathogen-behind-astrazeneca-blood-clots-study-20221223-p5c8gl.html)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-26 08:04:35+00:00
+ - user: rumpel
+ - tags: astrazeneca,vaccine,covid
 
 
 ## 71 chińskich samolotów bojowych i siedem okrętów aktywnych w rejonie Tajwanu
@@ -844,6 +858,7 @@
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-21 03:05:06+00:00
  - user: rumpel
+ - tags: bigbrother,inequality,twitter,propaganda
 
 
 ## Twitter colluded with Pentagon to run network of fake accounts around the world
@@ -1358,6 +1373,7 @@
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-12-15 20:00:00+00:00
  - user: None
+ - tags: maps,bigtech
 
 
 ## Israel to introduce sweeping online censorship law
@@ -1389,6 +1405,7 @@
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-15 17:46:00+00:00
  - user: None
+ - tags: tiktok,china,moderation
 
 
 ## BlackRock Executive Grilled By Texas Lawmakers Over ESG And Climate Agendas
@@ -1420,7 +1437,7 @@
  - RSS feed: http://www.aljazeera.com/xml/rss/all.xml
  - date published: 2022-12-14 18:48:46+00:00
  - user: None
- - tags: politics
+ - tags: crisis,politics
 
 
 ## YouTube moderation bots will start issuing warnings, 24-hour bans
@@ -1436,7 +1453,7 @@
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-12-14 17:15:00+00:00
  - user: None
- - tags: money,government,control
+ - tags: money,bigbrother,control,government
 
 
 ## Privacy concerns are raised over Chinese surveillance companies’ access to UK business crime data
@@ -1460,6 +1477,7 @@
  - RSS feed: https://forsal.pl/.feed
  - date published: 2022-12-14 07:46:40+00:00
  - user: None
+ - tags: usa,war,china
 
 
 ## Produktywni ludzie nie sprawdzają ciągle smartfona. Oto co robią zamiast tego
@@ -1468,13 +1486,6 @@
  - date published: 2022-12-14 05:41:00+00:00
  - user: None
  - tags: smartphone
-
-
-## Biden signs gay marriage law, calls it 'a blow against hate'
- - [https://www.reddit.com/r/news/comments/zlifx0/biden_signs_gay_marriage_law_calls_it_a_blow/](https://www.reddit.com/r/news/comments/zlifx0/biden_signs_gay_marriage_law_calls_it_a_blow/)
- - RSS feed: http://www.reddit.com/r/news/.rss
- - date published: 2022-12-14 05:21:08+00:00
- - user: None
 
 
 ## Ex-Twitter CEO Jack Dorsey insists there was 'no ill intent or hidden agendas' amid fallout from Twitter Files
@@ -1507,13 +1518,6 @@
  - date published: 2022-12-13 17:44:34+00:00
  - user: None
  - tags: propaganda,ideology,gender
-
-
-## This will DESTROY Mark Zuckerberg & Facebook
- - [https://www.youtube.com/watch?v=EHKVkRBG7QE](https://www.youtube.com/watch?v=EHKVkRBG7QE)
- - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCoOjH8D2XAgjzQlneM2W0EQ
- - date published: 2022-12-13 16:15:00+00:00
- - user: None
 
 
 ## WordPress debated taking down the New York Post Hunter Biden story
@@ -1794,6 +1798,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-10 09:57:08+00:00
  - user: None
+ - tags: politics,religion,discusion,psychology
 
 
 ## Hunter Biden sells more paintings for up to $225,000 to anonymous buyers
@@ -1947,6 +1952,7 @@
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2022-12-08 10:33:36+00:00
  - user: None
+ - tags: youwillownnothing,digital money,cdbd
 
 
 ## BlackRock says get ready for a recession unlike any other and 'what worked in the past won't work now'
@@ -1962,6 +1968,7 @@
  - RSS feed: https://forsal.pl/.feed
  - date published: 2022-12-08 07:19:57+00:00
  - user: None
+ - tags: carbon,uk,climate change
 
 
 ## Kirk Cameron banned from hosting readings of Christian children's book at 50 public libraries
@@ -2032,6 +2039,7 @@
  - RSS feed: https://www.chip.pl/feed
  - date published: 2022-12-07 15:00:00+00:00
  - user: None
+ - tags: poland,epuap
 
 
 ## Fauci deposition: Fauci says no one from his office pushed for social media censorship. Documents show they did.
@@ -2055,6 +2063,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-07 11:36:18+00:00
  - user: None
+ - tags: privacy,gdpr,facebook,meta,ads
 
 
 ## China to Stop Welding Homes Shut as Covid Precaution After Protests
@@ -2062,6 +2071,7 @@
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-12-07 11:00:00+00:00
  - user: None
+ - tags: china,covid
 
 
 ## Don’t Let Your Mortgage Servicer “BlackRock” You with Verint’s Scary ESG Survey + BlackRock Under Fire
@@ -2176,6 +2186,7 @@
  - RSS feed: https://reclaimthenet.org/feed/
  - date published: 2022-12-05 17:55:44+00:00
  - user: None
+ - tags: media,bigtech,newzealand
 
 
 ## Meta is expanding its use of AI face scanning to verify users’ age on Facebook Dating
@@ -2761,6 +2772,7 @@
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-11-27 02:19:10+00:00
  - user: None
+ - tags: china,zerocovid,covid
 
 
 ## Stalkers are using Amazon Alexa devices to terrorise victims, experts warn
@@ -2821,6 +2833,7 @@
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-26 11:42:23+00:00
  - user: None
+ - tags: disney,lgbt,woke
 
 
 ## The Science for Determining Climate-Change Damage Is Unsettled
@@ -3010,6 +3023,7 @@
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-11-22 07:00:11+00:00
  - user: None
+ - tags: tolerance,inequality,hollywood,woke
 
 
 ## Disney properties pushed progressive rhetoric at every turn, from spat with DeSantis to 'The View'
@@ -3085,6 +3099,7 @@
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-20 15:48:31+00:00
  - user: None
+ - tags: trump,censorship,moderation,musk
 
 
 ## You cannot find me on Mastodon - stitcher.io
@@ -3106,6 +3121,7 @@
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-18 18:49:17+00:00
  - user: None
+ - tags: surveillance,privacy,tiktok,china
 
 
 ## Forget the Metaverse, Zuck Says WhatsApp Could Be the Real Money Machine
@@ -3120,7 +3136,7 @@
  - RSS feed: https://www.theguardian.com/international/rss
  - date published: 2022-11-18 15:12:55+00:00
  - user: None
- - tags: woke
+ - tags: distopian,woke,lgbt
 
 
 ## Members fear Society of Authors has been 'lost' to cancel culture amid JK Rowling row
@@ -3185,6 +3201,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-16 21:32:12+00:00
  - user: None
+ - tags: bigbrother,censorship,trump
 
 
 ## Why Is Super Creep Klaus Schwab Even At The G-20 Summit?
@@ -3222,6 +3239,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-15 23:18:16+00:00
  - user: None
+ - tags: internet,youwillownnothing,digital
 
 
 ## Universities courses from computing to classics are told to 'decolonise' by degrees watchdog
@@ -3253,6 +3271,7 @@
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-11-15 15:00:00+00:00
  - user: None
+ - tags: copyright,law
 
 
 ## US government apps found using Russian code
@@ -3260,6 +3279,7 @@
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-11-15 14:59:50+00:00
  - user: None
+ - tags: hacker,russia,america,bigbrother
 
 
 ## Republican states take on 'treasonous' and 'woke' green firms
@@ -3350,6 +3370,7 @@
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-11-13 18:41:38+00:00
  - user: rumpel
+ - tags: myocarditis,moderna,vaccine,pfizer,covid
 
 
 ## Source code is not enough
@@ -3579,6 +3600,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-09 22:13:42+00:00
  - user: None
+ - tags: zuckerberg,meta,vr,metaverse
 
 
 ## Doom Eternal composer breaks silence over clash with id Software: 'I never quit Doom. I quit a toxic client'
@@ -3607,6 +3629,7 @@
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-11-09 10:00:23+00:00
  - user: None
+ - tags: smartphone
 
 
 ## President Xi dons army fatigues after announcing China will be focusing on preparations for war
@@ -3642,6 +3665,7 @@
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q
  - date published: 2022-11-08 21:28:11+00:00
  - user: None
+ - tags: peterson,woke,climate change
 
 
 ## The Lie That Facebook Sold You
@@ -3703,6 +3727,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-08 00:25:04+00:00
  - user: None
+ - tags: blm,racism,scienceisdead
 
 
 ## Liderzy swiatowi, apelujacy o ograniczenie spozycia miesa i walke...
@@ -3754,6 +3779,7 @@
  - RSS feed: https://www.theguardian.com/international/rss
  - date published: 2022-11-07 08:30:02+00:00
  - user: None
+ - tags: climate change
 
 
 ## Who is robbing Lebanon’s banks? – podcast
@@ -3799,6 +3825,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-05 21:26:27+00:00
  - user: None
+ - tags: openstreetmap
 
 
 ## Microsoft sued for open-source piracy through GitHub Copilot
@@ -3864,6 +3891,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-05 02:32:06+00:00
  - user: None
+ - tags: twitter,musk
 
 
 ## W zrównoważonej przyszłości nie ma miejsca na prywatne samochody osobowe
@@ -3916,6 +3944,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-04 17:03:34+00:00
  - user: None
+ - tags: surveillance,bigbrother,uk
 
 
 ## Use RSS for privacy and efficiency
@@ -4175,6 +4204,7 @@
  - RSS feed: https://brownstone.org
  - date published: 2022-11-02 15:04:47+00:00
  - user: None
+ - tags: covid,lockdown
 
 
 ## Cenzura na oficjalnym profilu Poznania na Facebooku? Mamy odpowiedź miasta
@@ -4276,6 +4306,7 @@
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-02 04:00:00+00:00
  - user: None
+ - tags: machine learning,science,ai
 
 
 ## New York Magazine writer admits media 'afraid' to criticize the left on COVID, Black Lives Matter
@@ -4298,6 +4329,7 @@
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA
  - date published: 2022-11-01 22:24:57+00:00
  - user: None
+ - tags: digital dementia
 
 
 ## You Really Don't Want the Government to Be Your Content Moderator
@@ -4305,6 +4337,7 @@
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-11-01 21:20:00+00:00
  - user: None
+ - tags: bigbrother,misinformation,censorship,disinformation,surveillance
 
 
 ## Elon Musk says Twitter Blue will cost $8 and be required for verification
@@ -4319,6 +4352,7 @@
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-11-01 16:00:00+00:00
  - user: None
+ - tags: car sharing,subscription model,you will own nothing
 
 
 ## Lockdown Tyrants Want ‘Pandemic Amnesty.’ Conservatives Flood Social Media With Reminders Of What They Did.
@@ -4350,19 +4384,13 @@
  - RSS feed: https://youtu.be/U_c7CcVspfI
  - date published: 2022-11-01 10:22:59+00:00
  - user: None
+ - tags: science,woke
 
 
 ## ARM to prohibit proximity of CPU w 3rd-party modules in one chip
  - [https://www.ryzencpu.com/2022/10/arm-will-prohibit-proximity-of-its-cpu.html](https://www.ryzencpu.com/2022/10/arm-will-prohibit-proximity-of-its-cpu.html)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-01 10:11:25+00:00
- - user: None
-
-
-## RIP Google Hangouts, Google’s last, best chance to compete with iMessage
- - [https://arstechnica.com/?p=1891674](https://arstechnica.com/?p=1891674)
- - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
- - date published: 2022-11-01 10:00:33+00:00
  - user: None
 
 
@@ -4378,6 +4406,7 @@
  - RSS feed: https://teleshow.wp.pl
  - date published: 2022-11-01 08:18:37+00:00
  - user: None
+ - tags: owsiak,wielka orkiestra
 
 
 ## FB and Twitter have special portals for the government to take down content
@@ -4423,6 +4452,7 @@
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-01 02:27:57+00:00
  - user: None
+ - tags: privacy,ads,big tech
 
 
 ## Big Tech Worked Closely With The FBI And DHS To Police ‘Disinformation’
@@ -4521,13 +4551,6 @@
  - user: None
 
 
-## Inflation isn't going anywhere. Just look at the latest data from Europe
- - [https://www.cnn.com/2022/10/31/economy/europe-inflation/index.html](https://www.cnn.com/2022/10/31/economy/europe-inflation/index.html)
- - RSS feed: http://rss.cnn.com/rss/edition.rss
- - date published: 2022-10-31 11:41:20+00:00
- - user: None
-
-
 ## Two-thirds of US money for fossil fuel pours into Africa despite climate goals
  - [https://www.theguardian.com/environment/2022/oct/31/two-thirds-of-us-money-for-fossil-fuel-pours-into-africa-despite-climate-goals](https://www.theguardian.com/environment/2022/oct/31/two-thirds-of-us-money-for-fossil-fuel-pours-into-africa-despite-climate-goals)
  - RSS feed: https://www.theguardian.com/international/rss
@@ -4622,6 +4645,7 @@
  - RSS feed: https://www.theguardian.com/international/rss
  - date published: 2022-10-30 10:54:30+00:00
  - user: None
+ - tags: moderation,twitter
 
 
 ## Twitter deal may signal point when the ‘everything bubble’ bursts
@@ -4689,6 +4713,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-10-29 20:29:38+00:00
  - user: None
+ - tags: tracking,ads,privacy
 
 
 ## Kanye doubles-down on anti-Semitic claims by sharing SPREADSHEET filled with names of Jewish execs
@@ -4740,6 +4765,7 @@
  - RSS feed: https://nltimes.nl
  - date published: 2022-10-29 12:13:44+00:00
  - user: None
+ - tags: lgbt,netherlands,woke
 
 
 ## #COVIDIsAirborne #BringBackMasks Trend, Questioning CDC Director’s Tweet on Covid-19 Precautions
@@ -4808,6 +4834,7 @@
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-10-28 16:30:00+00:00
  - user: None
+ - tags: surveillance,iran,bigbrother
 
 
 ## If You're Deleting Twitter, Archive Your Tweets and DMs First     - CNET
@@ -4830,6 +4857,7 @@
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-10-28 13:11:25+00:00
  - user: None
+ - tags: bigbrother,europe
 
 
 ## Researchers Say Environmentally Conscious Shoppers Don’t Bring Reusable Bags To The Store
@@ -4865,6 +4893,7 @@
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-10-28 09:22:30+00:00
  - user: None
+ - tags: zuckerberg,meta,vr,metaverse
 
 
 ## Why Is Markdown Popular?
@@ -5002,6 +5031,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-10-27 14:25:32+00:00
  - user: None
+ - tags: programming,crypto
 
 
 ## Google Kills Chrome For Millions Of Windows Users
@@ -5049,13 +5079,6 @@
  - tags: science,pollution,climate change
 
 
-## YouTube na minusie. Coraz większy kawałek tortu dla TikToka
- - [https://www.bankier.pl/wiadomosc/YouTube-na-minusie-Przychody-z-reklam-spadly-8429745.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/YouTube-na-minusie-Przychody-z-reklam-spadly-8429745.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
- - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
- - date published: 2022-10-27 10:00:00+00:00
- - user: None
-
-
 ## Pełna cyfryzacja recept staje się faktem. Dane nie pozostawiają wątpliwości
  - [https://www.bankier.pl/wiadomosc/Pelna-cyfryzacja-recept-staje-sie-faktem-Dane-nie-pozostawiaja-watpliwosci-8429787.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Pelna-cyfryzacja-recept-staje-sie-faktem-Dane-nie-pozostawiaja-watpliwosci-8429787.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
@@ -5097,6 +5120,7 @@
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-10-27 08:38:29+00:00
  - user: None
+ - tags: fake,moderation,linkedin
 
 
 ## Służby biją na alarm. Strach przed planami Chin
@@ -5151,13 +5175,6 @@
  - tags: covid,immunity gap
 
 
-## Google profits plummet 27 percent in Q3 2022 earnings report
- - [https://arstechnica.com/gadgets/2022/10/google-profits-plummet-27-percent-in-q3-2022-earnings-report/](https://arstechnica.com/gadgets/2022/10/google-profits-plummet-27-percent-in-q3-2022-earnings-report/)
- - RSS feed: https://hnrss.org/frontpage
- - date published: 2022-10-26 17:37:44+00:00
- - user: None
-
-
 ## Tell HN: Meta is using my 2FA to call and sell me
  - [https://news.ycombinator.com/item?id=33346568](https://news.ycombinator.com/item?id=33346568)
  - RSS feed: https://hnrss.org/frontpage
@@ -5170,6 +5187,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-10-26 16:20:46+00:00
  - user: None
+ - tags: dystopia,digital dementia
 
 
 ## Cambridge University draws criticism for 'woke' gender-neutral German curriculum
@@ -5185,13 +5203,7 @@
  - RSS feed: https://theintercept.com/feed/?lang=en
  - date published: 2022-10-26 15:30:26+00:00
  - user: None
-
-
-## Telewizory 8K znikną ze sklepowych półek w Europie?
- - [https://www.chip.pl/2022/10/telewizory-8k-znikna-ze-sklepowych-polek-w-europie](https://www.chip.pl/2022/10/telewizory-8k-znikna-ze-sklepowych-polek-w-europie)
- - RSS feed: https://www.chip.pl/feed
- - date published: 2022-10-26 15:30:00+00:00
- - user: None
+ - tags: fed,bigbanks,banksters
 
 
 ## 71% Polaków ocenia życie w kraju jako szkodliwe a 8 mln choruje psychicznie
@@ -5207,6 +5219,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-10-26 15:19:17+00:00
  - user: None
+ - tags: tracking,intel management engine,surveillance
 
 
 ## Trans comic's naked piano skit sparks nearly 1,500 Ofcom complaints
@@ -5214,13 +5227,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-10-26 14:38:41+00:00
  - user: None
-
-
-## As James Gunn Takes Over, The Future Of DC Movies, TV And Animation Suddenly Seems A Little Brighter
- - [https://www.forbes.com/sites/erikkain/2022/10/26/as-james-gunn-takes-over-the-future-of-dc-movies-tv-and-animation-suddenly-seems-a-little-brighter/](https://www.forbes.com/sites/erikkain/2022/10/26/as-james-gunn-takes-over-the-future-of-dc-movies-tv-and-animation-suddenly-seems-a-little-brighter/)
- - RSS feed: https://www.forbes.com/innovation/feed2
- - date published: 2022-10-26 14:38:27+00:00
- - user: None
+ - tags: trans,censorship,lgbt
 
 
 ## App Store developers aren’t happy with gambling app ads appearing beneath their listings
@@ -5237,13 +5244,6 @@
  - user: None
 
 
-## Europe now has so much natural gas that prices just dipped below zero
- - [https://www.cnn.com/2022/10/26/energy/europe-natural-gas-prices-plunge/index.html](https://www.cnn.com/2022/10/26/energy/europe-natural-gas-prices-plunge/index.html)
- - RSS feed: http://rss.cnn.com/rss/edition.rss
- - date published: 2022-10-26 14:03:04+00:00
- - user: None
-
-
 ## Only 42% of Americans think today's youth will have a better life than their parents
  - [https://www.dailymail.co.uk/news/article-11356183/Only-42-Americans-think-todays-youth-better-life-parents.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11356183/Only-42-Americans-think-todays-youth-better-life-parents.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
@@ -5256,6 +5256,7 @@
  - RSS feed: https://wydarzenia.interia.pl/feed
  - date published: 2022-10-26 12:41:09+00:00
  - user: None
+ - tags: poland,church
 
 
 ## Amazon scraps secret AI recruiting tool that showed bias against women
@@ -5263,6 +5264,7 @@
  - RSS feed: https://www.reuters.com
  - date published: 2022-10-26 12:22:22+00:00
  - user: None
+ - tags: amazon,science,inequality
 
 
 ## Były prezes chińskiego państwowego banku aresztowany
@@ -5305,6 +5307,7 @@
  - RSS feed: https://edition.cnn.com
  - date published: 2022-10-26 07:52:21+00:00
  - user: None
+ - tags: autonomous vehicles,self-driving
 
 
 ## W Chinach w internecie dozwolone tylko pozytywne komentarze o Xi i zjeździe partii
@@ -5312,6 +5315,7 @@
  - RSS feed: https://tvn24.pl/najnowsze.xml
  - date published: 2022-10-26 06:36:17+00:00
  - user: None
+ - tags: social media,china,censorship
 
 
 ## "Zweryfikowaliśmy. Połowa telefonów nie była odbierana". Jak dodzwonić się do przychodni
@@ -5504,6 +5508,7 @@
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-10-25 07:58:20+00:00
  - user: None
+ - tags: esg
 
 
 ## Rust in Linux kernel is just a beginning
@@ -5539,6 +5544,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-10-25 01:38:37+00:00
  - user: None
+ - tags: potter,fiennes,woke
 
 
 ## Ivermectin — a drug once touted as a Covid treatment by conservatives — doesn't improve recovery much, clinical trial finds
@@ -5581,6 +5587,7 @@
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-10-24 21:19:21+00:00
  - user: None
+ - tags: lableak,zuckerberg,fauci,misinformation,covid
 
 
 ## END of Human PROGRESS is NOW
@@ -5596,6 +5603,7 @@
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-24 19:35:27+00:00
  - user: None
+ - tags: hawei,spies,china
 
 
 ## EU formally adopts law requiring Apple to support USB-C chargers
@@ -5633,6 +5641,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-10-24 14:45:28+00:00
  - user: None
+ - tags: sideeffects,covid,pandemic,lockdown
 
 
 ## Mołdawia ma problem z prądem. Położona w prorosyjskim Naddniestrzu elektrownia zredukowała dostawy
@@ -5711,6 +5720,7 @@
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-24 13:12:09+00:00
  - user: None
+ - tags: malware,github,hacker
 
 
 ## A single chip has managed to transfer the entire internet's traffic in a single second
@@ -5718,6 +5728,7 @@
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-10-24 12:38:51+00:00
  - user: None
+ - tags: hardware
 
 
 ## Our buildings are making us sick
@@ -5725,6 +5736,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-10-24 12:35:45+00:00
  - user: None
+ - tags: health
 
 
 ## Hackers steal 50GB data, thousands of emails from Iranian nuclear facilities
@@ -5732,13 +5744,7 @@
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-24 12:30:04+00:00
  - user: None
-
-
-## This TikTok account is testing weird thermal paste patterns so you don't have to
- - [https://www.pcgamer.com/this-tiktok-account-is-testing-weird-thermal-paste-patterns-so-you-dont-have-to](https://www.pcgamer.com/this-tiktok-account-is-testing-weird-thermal-paste-patterns-so-you-dont-have-to)
- - RSS feed: http://www.pcgamer.com/rss
- - date published: 2022-10-24 12:19:17+00:00
- - user: None
+ - tags: leak,hackers
 
 
 ## Ads nearly ruined the iPhone's App Store, and Apple's about to add more of them
@@ -5746,6 +5752,7 @@
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-24 10:52:32+00:00
  - user: None
+ - tags: apple,ads
 
 
 ## Kradną drewno, wycinają drzewa. Za "darmowy" opał mogą surowo zapłacić
@@ -5776,18 +5783,12 @@
  - user: None
 
 
-## Bankomaty na celowniku gangów. "Mogą spowodować nawet zawalenie się budynków"
- - [https://tvn24.pl/swiat/przestepcy-i-gangi-wysadzaja-bankomaty-z-pieniedzmi-uzywaja-materialow-wybuchowych-europol-ostrzega-6176503?source=rss](https://tvn24.pl/swiat/przestepcy-i-gangi-wysadzaja-bankomaty-z-pieniedzmi-uzywaja-materialow-wybuchowych-europol-ostrzega-6176503?source=rss)
- - RSS feed: https://tvn24.pl/wiadomosci-z-kraju,3.xml
- - date published: 2022-10-24 06:04:02+00:00
- - user: None
-
-
 ## Lawsuit reveals vast censorship scheme by Big Tech and the federal government
  - [https://nypost.com/2022/10/23/lawsuit-reveals-vast-censorship-scheme-by-big-tech-and-the-federal-government/](https://nypost.com/2022/10/23/lawsuit-reveals-vast-censorship-scheme-by-big-tech-and-the-federal-government/)
  - RSS feed: https://nypost.com/2022/10/23/lawsuit-reveals-vast-censorship-scheme-by-big-tech-and-the-federal-government/
  - date published: 2022-10-23 20:17:14+00:00
  - user: None
+ - tags: bigbrother,censorship,bigtech
 
 
 ## New York judge rules voting by mail due to COVID fears is unconstitutional
@@ -5825,6 +5826,7 @@
  - RSS feed: http://www.reddit.com/r/politics/.rss
  - date published: 2022-10-23 13:17:42+00:00
  - user: None
+ - tags: social engineering,propaganda,extremism
 
 
 ## Chińskie procesory graficzne Biren nie zostaną wyprodukowane przez TSMC. Powodem są ograniczenia USA
@@ -5913,6 +5915,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-10-22 15:12:53+00:00
  - user: None
+ - tags: biden,fauci,covid,social media
 
 
 ## Republicans sue Google over ‘discriminatory’ spam filtering practices
@@ -5920,6 +5923,7 @@
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-22 14:46:53+00:00
  - user: None
+ - tags: google,algorithms,censorship
 
 
 ## Wybory w Chinach. Xi zerwał z niepisanym limitem wieku i pozostał w kluczowym organie partii
@@ -5927,13 +5931,7 @@
  - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
  - date published: 2022-10-22 09:35:00+00:00
  - user: None
-
-
-## Eksperci: Xi Jinping dąży do zmiany porządku świata
- - [https://wydarzenia.interia.pl/zagranica/news-eksperci-xi-jinping-dazy-do-zmiany-porzadku-swiata,nId,6364035](https://wydarzenia.interia.pl/zagranica/news-eksperci-xi-jinping-dazy-do-zmiany-porzadku-swiata,nId,6364035)
- - RSS feed: https://wydarzenia.interia.pl/feed
- - date published: 2022-10-22 08:08:52+00:00
- - user: None
+ - tags: jinping,socialism,china
 
 
 ## RISC in 2022
@@ -5941,6 +5939,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-10-22 06:02:48+00:00
  - user: None
+ - tags: riscv
 
 
 ## Comparing Floating-Point Numbers Is Tricky
@@ -5999,6 +5998,7 @@
  - RSS feed: http://www.reddit.com/r/news/.rss
  - date published: 2022-10-21 20:21:09+00:00
  - user: None
+ - tags: vaccine,pfizer covid
 
 
 ## ProjectM: LGPL Reimplementation of Ryan Geiss' Milkdrop from Winamp/Kodi
@@ -6082,13 +6082,6 @@
  - tags: privacy,google,biometric,tracking
 
 
-## Doradca Trumpa, Steve Bannon, skazany na cztery miesiące więzienia
- - [https://www.bankier.pl/wiadomosc/Doradca-Trumpa-Steve-Bannon-skazany-na-cztery-miesiace-wiezienia-8427065.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Doradca-Trumpa-Steve-Bannon-skazany-na-cztery-miesiace-wiezienia-8427065.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
- - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
- - date published: 2022-10-21 17:06:00+00:00
- - user: None
-
-
 ## People turn their backs on traditional greetings including 'good morning'
  - [https://www.dailymail.co.uk/news/article-11341407/People-turn-backs-traditional-greetings-including-good-morning.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11341407/People-turn-backs-traditional-greetings-including-good-morning.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
@@ -6137,6 +6130,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-10-21 15:01:37+00:00
  - user: None
+ - tags: covid
 
 
 ## Coraz większa dziura w publicznych finansach. "To niestety dopiero początek"
@@ -6376,6 +6370,14 @@
  - user: None
 
 
+## Compiler Explorer
+ - [https://godbolt.org/](https://godbolt.org/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-10-16 15:50:51+00:00
+ - user: rumpel
+ - tags: tool,programming,compiler
+
+
 ## HOW CBDCs TAKE AWAY OUR FREEDOMS ft Nigel Farage
  - [https://www.youtube.com/watch?v=N8t7npjutik](https://www.youtube.com/watch?v=N8t7npjutik)
  - RSS feed: https://www.youtube.com/@LayahHeilpern
@@ -6426,6 +6428,7 @@
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-10-14 15:52:34+00:00
  - user: None
+ - tags: rowling,woke
 
 
 ## Aktywistki oblały zupą słynne dzieło van Gogha
@@ -6478,6 +6481,7 @@
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-14 10:53:15+00:00
  - user: None
+ - tags: protests,china,censorship
 
 
 ## Meta's VR legs video wasn't what it seemed
@@ -6538,6 +6542,7 @@
  - RSS feed: https://www.gamespot.com/feeds/mashup
  - date published: 2022-10-13 14:42:00+00:00
  - user: None
+ - tags: art,movies
 
 
 ## Google Gives OK for Truth Social on Play Store
@@ -6545,6 +6550,7 @@
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-10-13 14:25:00+00:00
  - user: None
+ - tags: playstore,google,moderation,censorship
 
 
 ## Back to the office? Don't expect to be more productive when you get there
@@ -6609,6 +6615,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-10-12 09:02:29+00:00
  - user: None
+ - tags: wikipedia
 
 
 ## Dr. Phil speaks out on the dangers of cancel culture and censorship
@@ -6624,6 +6631,7 @@
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-11 20:02:47+00:00
  - user: None
+ - tags: facebook,zuckerberg,monopoly,corporatocracy,apple
 
 
 ## After COVID-19 cases tripled over the holiday, Chinese cities are imposing fresh lockdowns
@@ -6688,6 +6696,7 @@
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-11 11:34:10+00:00
  - user: rumpel
+ - tags: free speech,misinformation,paypal
 
 
 ## Elon Musk reveals he has spoken to Kanye West and 'expressed concerns' over his anti-Semitic tweets
@@ -6723,6 +6732,7 @@
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-10-10 19:08:00+00:00
  - user: None
+ - tags: california,crisis
 
 
 ## Biden’s Army Secretary: We’re Not Woke — We Just Have Diversity, Equity, And Inclusion
@@ -6737,6 +6747,7 @@
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-10-10 18:45:00+00:00
  - user: None
+ - tags: free speech,misinformation,censorship,paypal
 
 
 ## ‘Beware The ‘Wokes’’: ‘Monty Python Alum’ Defends New Show Tackling ‘Cancel Culture’ And New ‘Authoritarians’
@@ -6744,6 +6755,7 @@
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-10 17:40:55+00:00
  - user: None
+ - tags: woke,cancel culture,censorship
 
 
 ## You Should Probably Reset Your Facebook Password Today
@@ -6779,6 +6791,7 @@
  - RSS feed: https://ithardware.pl/feed
  - date published: 2022-10-10 11:20:10+00:00
  - user: None
+ - tags: microsoft,subscription
 
 
 ## Kanye West's Twitter and Instagram accounts locked over anti-Semitism
@@ -6800,6 +6813,7 @@
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-10 09:59:33+00:00
  - user: rumpel
+ - tags: free speech,misinformation,censorship,paypal
 
 
 ## Morawiecki zapowiedział aktywny udział PL w 4-tej rewolucji Schwaba
@@ -6829,6 +6843,7 @@
  - RSS feed: https://tvn24.pl/najnowsze.xml
  - date published: 2022-10-09 07:15:00+00:00
  - user: None
+ - tags: pollution,climate change
 
 
 ## Fiskus zagląda do kont bankowych. Rzecznik Praw Obywatelskich jest...
@@ -6921,6 +6936,7 @@
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-08 18:54:46+00:00
  - user: None
+ - tags: free speech,misinformation,censorship,paypal
 
 
 ## Florida Surgeon General recommends against mRNA vaccines for males aged 18-39
@@ -6928,6 +6944,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-10-08 15:01:24+00:00
  - user: None
+ - tags: covid,vaccine,mrna
 
 
 ## Rosja twierdziła, że most Krymski jest "niezniszczalny"
@@ -6942,6 +6959,7 @@
  - RSS feed: https://ithardware.pl/feed
  - date published: 2022-10-08 09:01:50+00:00
  - user: None
+ - tags: digital money,cdbc
 
 
 ## Elon Musk blames woke colleges for turning his transgender daughter Vivian, 18, against him
@@ -6971,6 +6989,7 @@
  - RSS feed: https://ithardware.pl/feed
  - date published: 2022-10-07 21:30:00+00:00
  - user: None
+ - tags: google,chrome,hacker
 
 
 ## Google Removes Gender Clinic Map, Citing ‘Harassment’ Violation
@@ -7007,6 +7026,7 @@
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-10-07 19:02:27+00:00
  - user: None
+ - tags: new york,migrant,migration,crisis
 
 
 ## Lifetime Access To 10TB Of Cloud Storage For $70
@@ -7035,6 +7055,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-10-07 16:52:49+00:00
  - user: None
+ - tags: genz,lgbt
 
 
 ## Comic Con returns to New York City with mask mandate STILL in place
@@ -7063,6 +7084,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-10-07 05:39:48+00:00
  - user: None
+ - tags: backup
 
 
 ## Meta’s flagship metaverse app is too buggy and employees are barely using it, says exec in charge
@@ -7070,20 +7092,7 @@
  - RSS feed: http://www.reddit.com/.rss
  - date published: 2022-10-07 01:31:40+00:00
  - user: None
-
-
-## Samsung's profit drops for the first time in 3 years
- - [https://www.zdnet.com/article/samsungs-profit-drops-for-the-first-time-in-3-years/#ftag=RSSbaffb68](https://www.zdnet.com/article/samsungs-profit-drops-for-the-first-time-in-3-years/#ftag=RSSbaffb68)
- - RSS feed: http://www.zdnet.com/news/rss.xml
- - date published: 2022-10-07 00:16:22+00:00
- - user: None
-
-
-## GE is laying off 20% of its workforce devoted to onshore wind power
- - [https://www.cnbc.com/2022/10/06/ge-layoff-20percent-of-onshore-wind-workforce-hundreds-of-jobs.html](https://www.cnbc.com/2022/10/06/ge-layoff-20percent-of-onshore-wind-workforce-hundreds-of-jobs.html)
- - RSS feed: https://hnrss.org/frontpage
- - date published: 2022-10-06 16:10:29+00:00
- - user: None
+ - tags: meta,horizon
 
 
 ## Man, in his 60s, is arrested over racist WhatsApp group chat involving former and serving Met cops
@@ -7098,6 +7107,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-10-06 14:36:04+00:00
  - user: None
+ - tags: blm,portland,woke
 
 
 ## *** przedstawił ustawę, która ma zapewnić dzieciom bezpieczeństwo w internecie
@@ -7120,6 +7130,7 @@
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-06 08:15:00+00:00
  - user: None
+ - tags: social engineering,inequality,woke,lgbt
 
 
 ## Zauważyli zmianę w podejściu Chin. Jedna rzecz dla Pekinu "całkowicie niedopuszczalna"
@@ -7162,6 +7173,7 @@
  - RSS feed: http://www.reddit.com/r/news/.rss
  - date published: 2022-10-06 00:32:03+00:00
  - user: None
+ - tags: amazon,monopoly
 
 
 ## UK Government debt outlook is cut from 'stable' to 'NEGATIVE'
@@ -7171,18 +7183,12 @@
  - user: None
 
 
-## Games Workshop is giving away two custom Warhammer gaming PCs
- - [https://www.pcgamer.com/games-workshop-is-giving-away-two-custom-warhammer-gaming-pcs](https://www.pcgamer.com/games-workshop-is-giving-away-two-custom-warhammer-gaming-pcs)
- - RSS feed: http://www.pcgamer.com/rss
- - date published: 2022-10-05 22:53:49+00:00
- - user: None
-
-
 ## Google will pay Arizona $85 million over illegally tracking Android users
  - [https://www.engadget.com/google-arizona-user-tracking-suit-85-million-191649436.html?src=rss](https://www.engadget.com/google-arizona-user-tracking-suit-85-million-191649436.html?src=rss)
  - RSS feed: https://www.engadget.com/rss.xml
  - date published: 2022-10-05 19:16:49+00:00
  - user: None
+ - tags: google,privacy,tracking arizona
 
 
 ## LibSQL is an open source, open contribution fork of SQLite
@@ -7343,13 +7349,6 @@
  - user: None
 
 
-## Majority of Catholics DON'T want Biden's re-election - but also don't want Trump on the ballot
- - [https://www.dailymail.co.uk/news/article-11279877/Majority-Catholics-DONT-want-Bidens-election-dont-want-Trump-ballot.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11279877/Majority-Catholics-DONT-want-Bidens-election-dont-want-Trump-ballot.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - RSS feed: https://www.dailymail.co.uk/news/index.rss
- - date published: 2022-10-04 17:33:31+00:00
- - user: None
-
-
 ## Church-sponsored LGBTQ pride event promotes ‘kid’s activities,’ ‘drag shows’
  - [https://www.foxnews.com/politics/church-sponsored-lgbtq-pride-event-promotes-kids-activities-drag-shows](https://www.foxnews.com/politics/church-sponsored-lgbtq-pride-event-promotes-kids-activities-drag-shows)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
@@ -7369,6 +7368,7 @@
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-04 14:04:00+00:00
  - user: None
+ - tags: berlin,lgbt
 
 
 ## PC gamers are finally dropping the Windows 11 hate
@@ -7491,6 +7491,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-10-03 18:11:01+00:00
  - user: None
+ - tags: raspberry,crisis
 
 
 ## Nie uciekniemy przed cyfrowym złotym. Banki już się przygotowują
@@ -7547,6 +7548,7 @@
  - RSS feed: http://www.reddit.com/r/politics/.rss
  - date published: 2022-10-03 00:13:41+00:00
  - user: None
+ - tags: trans,california,lgbt
 
 
 ## Software engineering practices
@@ -7582,6 +7584,7 @@
  - RSS feed: https://www.wykop.pl/rss/index.xml/
  - date published: 2022-10-02 03:45:01+00:00
  - user: None
+ - tags: sweden,vaccine,covid
 
 
 ## Outdated vs. Complete
@@ -7701,6 +7704,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-30 23:53:09+00:00
  - user: None
+ - tags: father,family
 
 
 ## COVID may have pushed a leading seasonal flu strain to extinction
@@ -7752,6 +7756,7 @@
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-30 18:04:24+00:00
  - user: None
+ - tags: hacker,northkorea,open source
 
 
 ## Google Adsense/Admob blocks you for life if you use it before you're 18
@@ -8970,6 +8975,7 @@
  - RSS feed: https://ithardware.pl/feed
  - date published: 2022-09-21 09:24:10+00:00
  - user: None
+ - tags: misinformation,control,surveillence,disinformation,usa,bigbrother
 
 
 ## Why is Canada euthanising the poor?
@@ -9310,6 +9316,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-17 13:46:52+00:00
  - user: None
+ - tags: propaganda,woke
 
 
 ## USA: Wiceszef CIA: przywódca ChRL chce, by wojsko było w stanie zająć...
@@ -10976,6 +10983,7 @@
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-02 19:20:59+00:00
  - user: None
+ - tags: youtube,misinformation
 
 
 ## Ponad 50% Amerykanów korzysta z iPhona. Jak Apple stało się gigantem na rynku smartfonów?
@@ -14603,6 +14611,14 @@
  - user: Thomas Pain
 
 
+## Facebook allows war posts urging violence against Russian invaders
+ - [https://www.reuters.com/world/europe/exclusive-facebook-instagram-temporarily-allow-calls-violence-against-russians-2022-03-10/](https://www.reuters.com/world/europe/exclusive-facebook-instagram-temporarily-allow-calls-violence-against-russians-2022-03-10/)
+ - RSS feed: https://www.reuters.com
+ - date published: 2022-03-11 12:47:54+00:00
+ - user: rumpel
+ - tags: censorship,hatespeech,inequality,meta,moderation,facebook
+
+
 ## Why Modern Movies Suck - They Teach Us Awful Lessons
  - [https://youtu.be/Dnuqp4_K7ik](https://youtu.be/Dnuqp4_K7ik)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA
@@ -14828,6 +14844,7 @@
  - RSS feed: https://www.youtube.com/@LukeSmithxyz
  - date published: 2022-02-25 20:34:12+00:00
  - user: None
+ - tags: programming,internet
 
 
 ## Ukraine war flashes neon warning lights for chips | Reuters
@@ -15470,6 +15487,14 @@
  - user: Thomas Pain
 
 
+## Facebook versus the BMJ: when fact checking goes wrong
+ - [https://www.bmj.com/content/376/bmj.o95](https://www.bmj.com/content/376/bmj.o95)
+ - RSS feed: https://www.bmj.com
+ - date published: 2022-01-19 12:53:33+00:00
+ - user: rumpel
+ - tags: censorship,science,factcheck,facebook,bmj
+
+
 ## Jordan Peterson: Female Totalitarianism | with James Orr & Arif Ahmed (Cambridge)
  - [https://www.youtube.com/watch?v=fwow0lrwY8U](https://www.youtube.com/watch?v=fwow0lrwY8U)
  - RSS feed: https://www.youtube.com/c/PhilosophyInsights
@@ -15826,6 +15851,14 @@
  - RSS feed: https://www.theguardian.com
  - date published: 2022-01-04 14:17:51.665766+00:00
  - user: Thomas Pain
+
+
+## Jak informuje pkwp.org Facebook zmniejszył zasięgi akcji ukazującej problem gwałconych chrześcijanek w państwach islamskich. Zablokowano petycję w ich obronie.
+ - [https://obywatelenieba.pl/2022/01/04/facebook-przeciw-przesladowanym-chrzescijankom/](https://obywatelenieba.pl/2022/01/04/facebook-przeciw-przesladowanym-chrzescijankom/)
+ - RSS feed: https://obywatelenieba.pl
+ - date published: 2022-01-04 12:51:29+00:00
+ - user: rumpel
+ - tags: hipocrisy,inequality,christianophobia,feminism,facebook
 
 
 ## 7 moments of trans brilliance from 2021 | Xtra Magazine

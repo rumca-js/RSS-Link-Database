@@ -76,6 +76,14 @@
  - tags: rss,aaron swartz
 
 
+## Unix philosophy
+ - [https://en.wikipedia.org/wiki/Unix_philosophy](https://en.wikipedia.org/wiki/Unix_philosophy)
+ - RSS feed: https://en.wikipedia.org
+ - date published: 2013-01-05 13:56:21+00:00
+ - user: rumpel
+ - tags: linux,programming,unix
+
+
 ## Aaron Swartz: hacker, genius… martyr?
  - [https://www.theguardian.com/technology/2013/jun/02/aaron-swartz-hacker-genius-martyr-girlfriend-interview](https://www.theguardian.com/technology/2013/jun/02/aaron-swartz-hacker-genius-martyr-girlfriend-interview)
  - RSS feed: https://www.theguardian.com

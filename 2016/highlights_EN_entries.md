@@ -13,6 +13,14 @@
  - tags: billionaires,facebook,soros,george soros,fakenews,fact-checker
 
 
+## Dissecting the #PizzaGate Conspiracy Theories
+ - [https://www.nytimes.com/interactive/2016/12/10/business/media/pizzagate.html](https://www.nytimes.com/interactive/2016/12/10/business/media/pizzagate.html)
+ - RSS feed: https://www.nytimes.com
+ - date published: 2016-12-10 08:16:54+00:00
+ - user: rumpel
+ - tags: conspiracy theory,pizzagate,paedophilia
+
+
 ## Why Socrates Hated Democracy
  - [https://www.youtube.com/watch?v=fLJBzhcSWTk](https://www.youtube.com/watch?v=fLJBzhcSWTk)
  - RSS feed: https://www.youtube.com/c/theschooloflifetv
@@ -60,6 +68,14 @@
  - tags: blackrock,larry fink,esg
 
 
+## CppCon 2016: Jason Turner “Rich Code for Tiny Computers: A Simple Commodore 64 Game in C++17”
+ - [https://www.youtube.com/watch?v=zBkNBP00wJE](https://www.youtube.com/watch?v=zBkNBP00wJE)
+ - RSS feed: https://www.youtube.com
+ - date published: 2016-09-24 13:32:10+00:00
+ - user: rumpel
+ - tags: c++,programming
+
+
 ## A Clockwork Orange - What it all Meant
  - [https://www.youtube.com/watch?v=ZvK9PEcqiLo](https://www.youtube.com/watch?v=ZvK9PEcqiLo)
  - RSS feed: https://www.youtube.com
@@ -74,6 +90,14 @@
  - date published: 2016-08-23 18:45:41+00:00
  - user: rumpel
  - tags: rockefeller,gates,who
+
+
+## The Exceptional Beauty of Doom 3's Source Code
+ - [https://kotaku.com/the-exceptional-beauty-of-doom-3s-source-code-5975610](https://kotaku.com/the-exceptional-beauty-of-doom-3s-source-code-5975610)
+ - RSS feed: https://kotaku.com
+ - date published: 2016-08-22 09:54:50+00:00
+ - user: rumpel
+ - tags: doom3,programming,games
 
 
 ## Coal Burning Causes the Most Air Pollution Deaths in China, Study Finds
@@ -130,6 +154,14 @@
  - date published: 2016-03-22 16:38:36+00:00
  - user: None
  - tags: socialism,central planning,america
+
+
+## Running a Buffer Overflow Attack - Computerphile
+ - [https://www.youtube.com/watch?v=1S0aBV-Waeo](https://www.youtube.com/watch?v=1S0aBV-Waeo)
+ - RSS feed: https://www.youtube.com
+ - date published: 2016-03-02 10:02:31+00:00
+ - user: rumpel
+ - tags: hacker,programming,bufferoverflow
 
 
 ## US surveillance of Merkel wider than thought: WikiLeaks

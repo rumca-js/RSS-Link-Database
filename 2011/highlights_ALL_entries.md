@@ -1,3 +1,11 @@
+## More shell, less egg
+ - [http://www.leancrew.com/all-this/2011/12/more-shell-less-egg/](http://www.leancrew.com/all-this/2011/12/more-shell-less-egg/)
+ - RSS feed: http://www.leancrew.com
+ - date published: 2011-12-04 13:57:34+00:00
+ - user: rumpel
+ - tags: scripting,linux,shell,programming
+
+
 ## Pfizer: Nigeria drug trial victims get compensation
  - [https://www.bbc.com/news/world-africa-14493277](https://www.bbc.com/news/world-africa-14493277)
  - RSS feed: https://www.bbc.com

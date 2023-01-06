@@ -38,6 +38,14 @@
  - tags: youllownnothing,netflix,subscription
 
 
+## A Complete Guide to LLVM for Programming Language Creators
+ - [https://mukulrathi.co.uk/create-your-own-programming-language/llvm-ir-cpp-api-tutorial/](https://mukulrathi.co.uk/create-your-own-programming-language/llvm-ir-cpp-api-tutorial/)
+ - RSS feed: https://mukulrathi.co.uk
+ - date published: 2020-12-24 10:04:32+00:00
+ - user: rumpel
+ - tags: llvm,programming
+
+
 ## WHO Deletes Naturally Acquired Immunity from Its Website
  - [https://www.aier.org/article/who-deletes-naturally-acquired-immunity-from-its-website/](https://www.aier.org/article/who-deletes-naturally-acquired-immunity-from-its-website/)
  - RSS feed: https://www.aier.org
@@ -305,6 +313,14 @@
  - tags: wuhan,transmission,covid
 
 
+## Odcinek #5 - Życie bez Google
+ - [https://www.midline.pl/odcinek-5-zycie-bez-google/](https://www.midline.pl/odcinek-5-zycie-bez-google/)
+ - RSS feed: https://www.midline.pl
+ - date published: 2020-11-20 10:03:17+00:00
+ - user: rumpel
+ - tags: google
+
+
 ## Does Apple Track Every Mac App You Run? OCSP Explained
  - [https://www.howtogeek.com/701176/does-apple-track-every-mac-app-you-run-ocsp-explained/](https://www.howtogeek.com/701176/does-apple-track-every-mac-app-you-run-ocsp-explained/)
  - RSS feed: https://www.howtogeek.com
@@ -397,6 +413,14 @@
  - RSS feed: https://www.youtube.com/@wolnoscwremonciewei
  - date published: 2020-10-15 20:09:58+00:00
  - user: None
+
+
+## Facebook to ban ads discouraging vaccination
+ - [https://www.theguardian.com/technology/2020/oct/13/facebook-vaccine-ads-ban](https://www.theguardian.com/technology/2020/oct/13/facebook-vaccine-ads-ban)
+ - RSS feed: https://www.theguardian.com
+ - date published: 2020-10-13 13:18:42+00:00
+ - user: rumpel
+ - tags: censorship,facebook,meta,vaccine,moderation
 
 
 ## EU's Digital Service Act will force makers to allow you to uninstall bloatware
@@ -585,6 +609,14 @@
  - tags: covid,lableak
 
 
+## Enough with the Linux security FUD
+ - [https://www.zdnet.com/article/enough-with-the-linux-security-fud/](https://www.zdnet.com/article/enough-with-the-linux-security-fud/)
+ - RSS feed: https://www.zdnet.com
+ - date published: 2020-08-24 13:58:32+00:00
+ - user: rumpel
+ - tags: security,linux,administration
+
+
 ## US tells Kenya to publicly support Israel or forget free trade deal
  - [https://www.theeastafrican.co.ke/tea/news/east-africa/us-tells-kenya-to-support-israel-or-forget-free-trade-deal-2304192](https://www.theeastafrican.co.ke/tea/news/east-africa/us-tells-kenya-to-support-israel-or-forget-free-trade-deal-2304192)
  - RSS feed: www.theeastafrican.co.ke
@@ -607,6 +639,14 @@
  - date published: 2020-08-19 20:04:48+00:00
  - user: None
  - tags: virus,botnet
+
+
+## Write Code as If You Had to Support It for the Rest of Your Life
+ - [https://medium.com/oreillymedia/write-code-as-if-you-had-to-support-it-for-the-rest-of-your-life-a707d3442f1a](https://medium.com/oreillymedia/write-code-as-if-you-had-to-support-it-for-the-rest-of-your-life-a707d3442f1a)
+ - RSS feed: https://medium.com
+ - date published: 2020-08-17 09:59:59+00:00
+ - user: rumpel
+ - tags: programming,clean code
 
 
 ## NSA and FBI warn that new Linux malware threatens national security
@@ -637,6 +677,14 @@
  - RSS feed: www.tomshardware.com
  - date published: 2020-08-06 06:47:11+00:00
  - user: None
+
+
+## 6 ways to improve your debugging skills
+ - [https://www.functionize.com/blog/6-ways-to-improve-your-debugging-skills/](https://www.functionize.com/blog/6-ways-to-improve-your-debugging-skills/)
+ - RSS feed: https://www.functionize.com
+ - date published: 2020-08-05 09:57:01+00:00
+ - user: rumpel
+ - tags: programming,debugging
 
 
 ## Victoria Police arrest James Bartolo for online support of anti-lockdown protests
@@ -877,6 +925,14 @@
  - tags: inequality,reddit,hate speech
 
 
+## It's probably time to stop recommending Clean Code
+ - [https://qntm.org/clean](https://qntm.org/clean)
+ - RSS feed: https://qntm.org
+ - date published: 2020-06-28 09:56:27+00:00
+ - user: rumpel
+ - tags: managment,programming,clean code
+
+
 ## Almost 300 Windows 10 executables vulnerable to DLL hijacking
  - [https://www.bleepingcomputer.com/news/security/almost-300-windows-10-executables-vulnerable-to-dll-hijacking/](https://www.bleepingcomputer.com/news/security/almost-300-windows-10-executables-vulnerable-to-dll-hijacking/)
  - RSS feed: www.bleepingcomputer.com
@@ -923,6 +979,14 @@
  - date published: 2020-06-05 13:47:07+00:00
  - user: rumpel
  - tags: donors,foundation,bill gates,who
+
+
+## Programming 'language': Brain scans reveal coding uses same regions as speech
+ - [https://medicalxpress.com/news/2020-06-language-brain-scans-reveal-coding.html](https://medicalxpress.com/news/2020-06-language-brain-scans-reveal-coding.html)
+ - RSS feed: https://medicalxpress.com
+ - date published: 2020-06-05 09:53:34+00:00
+ - user: rumpel
+ - tags: science,programming
 
 
 ## Against Method and For 'Pseudoscience'
@@ -1010,6 +1074,14 @@
  - tags: wuhan,covid,covid origins
 
 
+## Are You a Slave to your Software Knowledge?
+ - [https://sagegerard.com/stop-learning-so-much.html](https://sagegerard.com/stop-learning-so-much.html)
+ - RSS feed: https://sagegerard.com
+ - date published: 2020-03-31 09:10:22+00:00
+ - user: rumpel
+ - tags: science,programming,knowledge
+
+
 ## Ministerstwo Zdrowia zakazuje lekarzom mówić o koronawirusie
  - [https://trojmiasto.wyborcza.pl/trojmiasto/7,35612,25825997,ministerstwo-zdrowia-zakazuje-lekarzom-mowic-o-koronawirusie.html?squid_js=false](https://trojmiasto.wyborcza.pl/trojmiasto/7,35612,25825997,ministerstwo-zdrowia-zakazuje-lekarzom-mowic-o-koronawirusie.html?squid_js=false)
  - RSS feed: trojmiasto.wyborcza.pl
@@ -1055,6 +1127,22 @@
  - date published: 2020-02-17 20:52:51+00:00
  - user: None
  - tags: youtube,dead internet
+
+
+## Facebook, Amazon, Google and more met with WHO to figure out how to stop coronavirus misinformation
+ - [https://www.cnbc.com/2020/02/14/facebook-google-amazon-met-with-who-to-talk-coronavirus-misinformation.html](https://www.cnbc.com/2020/02/14/facebook-google-amazon-met-with-who-to-talk-coronavirus-misinformation.html)
+ - RSS feed: https://www.cnbc.com
+ - date published: 2020-02-14 13:01:29+00:00
+ - user: rumpel
+ - tags: misinformation,covid,who,censorship,amazon,google,facebook
+
+
+## Becoming a Technical Leader
+ - [https://www.linkedin.com/pulse/becoming-technical-leader-michael-vanhoutte/](https://www.linkedin.com/pulse/becoming-technical-leader-michael-vanhoutte/)
+ - RSS feed: https://www.linkedin.com
+ - date published: 2020-02-12 09:13:20+00:00
+ - user: rumpel
+ - tags: leader,managment,programming
 
 
 ## Texas mother trying to transition her seven-year-old son into a girl loses in court as judge orders her to share custody with ex-husband who says boy is just 'confused'
@@ -1118,4 +1206,12 @@
  - date published: 2020-01-02 14:33:49+00:00
  - user: None
  - tags: climate change,carbon footprint
+
+
+## 80-characters-per-line limits should be terminal, says Linux kernel chief Linus Torvalds
+ - [https://www.theregister.com/2020/06/01/linux_5_7/](https://www.theregister.com/2020/06/01/linux_5_7/)
+ - RSS feed: https://www.theregister.com
+ - date published: 2020-01-01 13:56:53+00:00
+ - user: rumpel
+ - tags: torvalds,linux,kernel
 

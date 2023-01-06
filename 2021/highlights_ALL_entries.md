@@ -2083,6 +2083,14 @@
  - tags: censorship,bigbrother,government
 
 
+## Z Facebooka zniknęło tysiące postów, dotyczących styczniowego ataku na Kongres USA
+ - [https://www.onet.pl/informacje/onetwiadomosci/z-facebooka-zniknelo-tysiace-postow-dotyczacych-styczniowego-ataku-na-kongres-usa/04f4jlp,79cfc278](https://www.onet.pl/informacje/onetwiadomosci/z-facebooka-zniknelo-tysiace-postow-dotyczacych-styczniowego-ataku-na-kongres-usa/04f4jlp,79cfc278)
+ - RSS feed: https://www.onet.pl
+ - date published: 2021-09-01 12:58:18+00:00
+ - user: rumpel
+ - tags: jan6,facebook
+
+
 ## The open calendar, task and note space is a mess
  - [https://stevenvanbael.com/open-calendar-task-space-is-a-mess](https://stevenvanbael.com/open-calendar-task-space-is-a-mess)
  - RSS feed: https://stevenvanbael.com
@@ -3619,6 +3627,14 @@
  - user: None
 
 
+## Facebook zakazuje sceptycyzmu wobec szczepień przeciw COVID-19
+ - [https://ithardware.pl/aktualnosci/facebook_zakazuje_sceptycyzmu_wobec_szczepien_przeciw_covid_19-16200.html](https://ithardware.pl/aktualnosci/facebook_zakazuje_sceptycyzmu_wobec_szczepien_przeciw_covid_19-16200.html)
+ - RSS feed: https://ithardware.pl
+ - date published: 2021-05-16 13:02:46+00:00
+ - user: rumpel
+ - tags: covid,misinformation,censorship,vaccine,moderation,facebook
+
+
 ## Fauci: the vaccinated stop viral transmission, no need for masks
  - [https://totalityofevidence.com/timeline/fauci-the-vaccinated-stop-viral-transmission/](https://totalityofevidence.com/timeline/fauci-the-vaccinated-stop-viral-transmission/)
  - RSS feed: https://totalityofevidence.com
@@ -3703,7 +3719,7 @@
  - RSS feed: www.grunge.com
  - date published: 2021-05-05 12:04:50+00:00
  - user: None
- - tags: censorship,facebook
+ - tags: jan6,censorship,facebook
 
 
 ## Prezydent Estonii w Polsat News: nie powinniśmy wracać do świata sprzed pandemii
@@ -3867,6 +3883,14 @@
  - RSS feed: papers.ssrn.com
  - date published: 2021-04-12 07:18:11+00:00
  - user: None
+
+
+## Facebook does not plan to notify half-billion users affected by data leak
+ - [https://www.reuters.com/article/us-facebook-data-leak/facebook-does-not-plan-to-notify-half-billion-users-affected-by-data-leak-idUSKBN2BU2ZY](https://www.reuters.com/article/us-facebook-data-leak/facebook-does-not-plan-to-notify-half-billion-users-affected-by-data-leak-idUSKBN2BU2ZY)
+ - RSS feed: https://www.reuters.com
+ - date published: 2021-04-07 13:04:35+00:00
+ - user: rumpel
+ - tags: leak,meta,facebook,censorship
 
 
 ## Cyfrowy juan to śledzona i scentralizowana waluta Chin, która zastępuje fizyczne pieniądze
@@ -4097,6 +4121,14 @@
  - tags: censorship,youtube
 
 
+## The Coup We Are Not Talking About
+ - [https://www.nytimes.com/2021/01/29/opinion/sunday/facebook-surveillance-society-technology.html](https://www.nytimes.com/2021/01/29/opinion/sunday/facebook-surveillance-society-technology.html)
+ - RSS feed: https://www.nytimes.com
+ - date published: 2021-01-29 13:12:13+00:00
+ - user: rumpel
+ - tags: social media,bigbrother,censorship,surveillance,moderation
+
+
 ## Rząd nowelizuje ustawę o cyberbezpieczeństwie. Będzie mógł wyłączać serwisy internetowe bez uzasadnienia
  - [https://www.komputerswiat.pl/aktualnosci/internet/rzad-nowelizuje-ustawe-o-cyberbezpieczenstwie-bedzie-mogl-wylaczac-serwisy/wnhl9hg](https://www.komputerswiat.pl/aktualnosci/internet/rzad-nowelizuje-ustawe-o-cyberbezpieczenstwie-bedzie-mogl-wylaczac-serwisy/wnhl9hg)
  - RSS feed: www.komputerswiat.pl
@@ -4168,6 +4200,38 @@
  - tags: lockdown,covid
 
 
+## How Facebook and Twitter decided to take down Trump's accounts
+ - [https://www.nbcnews.com/tech/tech-news/how-facebook-twitter-decided-take-down-trump-s-accounts-n1254317](https://www.nbcnews.com/tech/tech-news/how-facebook-twitter-decided-take-down-trump-s-accounts-n1254317)
+ - RSS feed: https://www.nbcnews.com
+ - date published: 2021-01-14 13:13:13+00:00
+ - user: rumpel
+ - tags: twitter,bigbrother,censorship,facebook,collusion,extremism,jan6,moderation
+
+
+## Cyberfaszyzm
+ - [https://polityko.com/2021/01/13/cyberfaszyzm/](https://polityko.com/2021/01/13/cyberfaszyzm/)
+ - RSS feed: https://polityko.com
+ - date published: 2021-01-13 13:15:58+00:00
+ - user: rumpel
+ - tags: privacy,bigtech,bigbrother,censorship,surveillance,hunter biden
+
+
+## Doctor’s Death After Covid Vaccine Is Being Investigated
+ - [https://www.nytimes.com/2021/01/12/health/covid-vaccine-death.html](https://www.nytimes.com/2021/01/12/health/covid-vaccine-death.html)
+ - RSS feed: https://www.nytimes.com
+ - date published: 2021-01-12 13:00:20+00:00
+ - user: rumpel
+ - tags: covid,vaccine,pfizer
+
+
+## Władzę nad światem przejmuje Big Tech. Czy to już koniec wolności słowa?
+ - [https://geekweek.interia.pl/styl-zycia/news-wladze-nad-swiatem-przejmuje-big-tech-czy-to-juz-koniec-woln,nId,5547055](https://geekweek.interia.pl/styl-zycia/news-wladze-nad-swiatem-przejmuje-big-tech-czy-to-juz-koniec-woln,nId,5547055)
+ - RSS feed: https://geekweek.interia.pl
+ - date published: 2021-01-11 13:17:34+00:00
+ - user: rumpel
+ - tags: democracy,bigtech,freedom,bigbrother,censorship,moderation
+
+
 ## Covid in Scotland: Police warn against lockdown protest
  - [https://www.bbc.com/news/uk-scotland-edinburgh-east-fife-55601318](https://www.bbc.com/news/uk-scotland-edinburgh-east-fife-55601318)
  - RSS feed: https://www.bbc.com
@@ -4181,7 +4245,7 @@
  - RSS feed: www.nbcnews.com
  - date published: 2021-01-08 12:04:50+00:00
  - user: None
- - tags: censorship,twitter,trump
+ - tags: twitter,jan6,censorship,trump
 
 
 ## Dead Internet Theory: Most of the Internet is Fake

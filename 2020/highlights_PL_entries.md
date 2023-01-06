@@ -46,6 +46,14 @@
  - tags: lockdown,covid
 
 
+## Odcinek #5 - Życie bez Google
+ - [https://www.midline.pl/odcinek-5-zycie-bez-google/](https://www.midline.pl/odcinek-5-zycie-bez-google/)
+ - RSS feed: https://www.midline.pl
+ - date published: 2020-11-20 10:03:17+00:00
+ - user: rumpel
+ - tags: google
+
+
 ## Targi dla gejów. „Handel dziećmi będzie uchodzić za prawo człowieka”
  - [https://www.tvp.info/50701017/homoseksualisci-moga-kupic-dzieci-trwaja-miedzynarodowe-targi](https://www.tvp.info/50701017/homoseksualisci-moga-kupic-dzieci-trwaja-miedzynarodowe-targi)
  - RSS feed: https://www.tvp.info

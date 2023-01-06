@@ -149,6 +149,7 @@
  - RSS feed: https://forsal.pl/.feed
  - date published: 2022-12-14 07:46:40+00:00
  - user: None
+ - tags: usa,war,china
 
 
 ## "Uroczyste obchody" zamiast Bożego Narodzenia. Wytyczne dla brytyjskich urzędników
@@ -178,6 +179,7 @@
  - RSS feed: https://forsal.pl/.feed
  - date published: 2022-12-08 07:19:57+00:00
  - user: None
+ - tags: carbon,uk,climate change
 
 
 ## ePUAP do zaorania. Wszystkie sprawy urzędowe załatwisz przez telefon i aplikację mObywatel
@@ -185,6 +187,7 @@
  - RSS feed: https://www.chip.pl/feed
  - date published: 2022-12-07 15:00:00+00:00
  - user: None
+ - tags: poland,epuap
 
 
 ## W Chinach powstaje atomowa wyspa. Prace już trwają
@@ -393,6 +396,7 @@
  - RSS feed: https://teleshow.wp.pl
  - date published: 2022-11-01 08:18:37+00:00
  - user: None
+ - tags: owsiak,wielka orkiestra
 
 
 ## MFW: Inflacja w Polsce w 2023 będzie drugą najwyższą w Europie po Turcji
@@ -467,13 +471,6 @@
  - tags: china,abortion
 
 
-## YouTube na minusie. Coraz większy kawałek tortu dla TikToka
- - [https://www.bankier.pl/wiadomosc/YouTube-na-minusie-Przychody-z-reklam-spadly-8429745.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/YouTube-na-minusie-Przychody-z-reklam-spadly-8429745.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
- - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
- - date published: 2022-10-27 10:00:00+00:00
- - user: None
-
-
 ## Pełna cyfryzacja recept staje się faktem. Dane nie pozostawiają wątpliwości
  - [https://www.bankier.pl/wiadomosc/Pelna-cyfryzacja-recept-staje-sie-faktem-Dane-nie-pozostawiaja-watpliwosci-8429787.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Pelna-cyfryzacja-recept-staje-sie-faktem-Dane-nie-pozostawiaja-watpliwosci-8429787.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
@@ -502,13 +499,6 @@
  - user: None
 
 
-## Telewizory 8K znikną ze sklepowych półek w Europie?
- - [https://www.chip.pl/2022/10/telewizory-8k-znikna-ze-sklepowych-polek-w-europie](https://www.chip.pl/2022/10/telewizory-8k-znikna-ze-sklepowych-polek-w-europie)
- - RSS feed: https://www.chip.pl/feed
- - date published: 2022-10-26 15:30:00+00:00
- - user: None
-
-
 ## 71% Polaków ocenia życie w kraju jako szkodliwe a 8 mln choruje psychicznie
  - [https://www.wykop.pl/link/6876599/71-polakow-ocenia-zycie-w-kraju-jako-szkodliwe-a-8-mln-choruje-psychicznie/](https://www.wykop.pl/link/6876599/71-polakow-ocenia-zycie-w-kraju-jako-szkodliwe-a-8-mln-choruje-psychicznie/)
  - RSS feed: https://www.wykop.pl/rss/index.xml/
@@ -522,6 +512,7 @@
  - RSS feed: https://wydarzenia.interia.pl/feed
  - date published: 2022-10-26 12:41:09+00:00
  - user: None
+ - tags: poland,church
 
 
 ## Były prezes chińskiego państwowego banku aresztowany
@@ -557,6 +548,7 @@
  - RSS feed: https://tvn24.pl/najnowsze.xml
  - date published: 2022-10-26 06:36:17+00:00
  - user: None
+ - tags: social media,china,censorship
 
 
 ## "Zweryfikowaliśmy. Połowa telefonów nie była odbierana". Jak dodzwonić się do przychodni
@@ -673,13 +665,6 @@
  - user: None
 
 
-## Bankomaty na celowniku gangów. "Mogą spowodować nawet zawalenie się budynków"
- - [https://tvn24.pl/swiat/przestepcy-i-gangi-wysadzaja-bankomaty-z-pieniedzmi-uzywaja-materialow-wybuchowych-europol-ostrzega-6176503?source=rss](https://tvn24.pl/swiat/przestepcy-i-gangi-wysadzaja-bankomaty-z-pieniedzmi-uzywaja-materialow-wybuchowych-europol-ostrzega-6176503?source=rss)
- - RSS feed: https://tvn24.pl/wiadomosci-z-kraju,3.xml
- - date published: 2022-10-24 06:04:02+00:00
- - user: None
-
-
 ## Chińskie procesory graficzne Biren nie zostaną wyprodukowane przez TSMC. Powodem są ograniczenia USA
  - [https://ithardware.pl/aktualnosci/chinskie_procesory_graficzne_biren_nie_zostana_wyprodukowane_przez_tsmc_powodem_sa_ograniczenia_usa-23980.html](https://ithardware.pl/aktualnosci/chinskie_procesory_graficzne_biren_nie_zostana_wyprodukowane_przez_tsmc_powodem_sa_ograniczenia_usa-23980.html)
  - RSS feed: https://ithardware.pl/feed
@@ -699,13 +684,7 @@
  - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
  - date published: 2022-10-22 09:35:00+00:00
  - user: None
-
-
-## Eksperci: Xi Jinping dąży do zmiany porządku świata
- - [https://wydarzenia.interia.pl/zagranica/news-eksperci-xi-jinping-dazy-do-zmiany-porzadku-swiata,nId,6364035](https://wydarzenia.interia.pl/zagranica/news-eksperci-xi-jinping-dazy-do-zmiany-porzadku-swiata,nId,6364035)
- - RSS feed: https://wydarzenia.interia.pl/feed
- - date published: 2022-10-22 08:08:52+00:00
- - user: None
+ - tags: jinping,socialism,china
 
 
 ## Płatność kartą na bazarze i w toalecie? Tego chcą Polacy
@@ -734,13 +713,6 @@
  - [https://www.wykop.pl/link/6869877/szwedzi-raportuja-zaczelo-sie-dziac-u-nas-cos-dziwnego/](https://www.wykop.pl/link/6869877/szwedzi-raportuja-zaczelo-sie-dziac-u-nas-cos-dziwnego/)
  - RSS feed: https://www.wykop.pl/rss/index.xml/
  - date published: 2022-10-21 19:23:01+00:00
- - user: None
-
-
-## Doradca Trumpa, Steve Bannon, skazany na cztery miesiące więzienia
- - [https://www.bankier.pl/wiadomosc/Doradca-Trumpa-Steve-Bannon-skazany-na-cztery-miesiace-wiezienia-8427065.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Doradca-Trumpa-Steve-Bannon-skazany-na-cztery-miesiace-wiezienia-8427065.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
- - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
- - date published: 2022-10-21 17:06:00+00:00
  - user: None
 
 
@@ -858,6 +830,7 @@
  - RSS feed: https://ithardware.pl/feed
  - date published: 2022-10-10 11:20:10+00:00
  - user: None
+ - tags: microsoft,subscription
 
 
 ## Lufthansa zakazuje AirTagów. Pasażerowie ośmieszają przewoźnika, samemu namierzając zagubiony bagaż
@@ -880,6 +853,7 @@
  - RSS feed: https://tvn24.pl/najnowsze.xml
  - date published: 2022-10-09 07:15:00+00:00
  - user: None
+ - tags: pollution,climate change
 
 
 ## Fiskus zagląda do kont bankowych. Rzecznik Praw Obywatelskich jest...
@@ -958,6 +932,7 @@
  - RSS feed: https://ithardware.pl/feed
  - date published: 2022-10-08 09:01:50+00:00
  - user: None
+ - tags: digital money,cdbc
 
 
 ## Google Chrome to nie tylko najpopularniejsza przeglądarka, ale też najbardziej podatna na ataki
@@ -965,6 +940,7 @@
  - RSS feed: https://ithardware.pl/feed
  - date published: 2022-10-07 21:30:00+00:00
  - user: None
+ - tags: google,chrome,hacker
 
 
 ## Poznań Game Arena już pierwszego dnia przyciągnęła tłumy
@@ -1000,6 +976,7 @@
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-06 08:15:00+00:00
  - user: None
+ - tags: social engineering,inequality,woke,lgbt
 
 
 ## Zauważyli zmianę w podejściu Chin. Jedna rzecz dla Pekinu "całkowicie niedopuszczalna"
@@ -1086,6 +1063,7 @@
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-04 14:04:00+00:00
  - user: None
+ - tags: berlin,lgbt
 
 
 ## Wielka Brytania testuje czterodniowy tydzień pracy. Oto pierwsze wnioski
@@ -1164,6 +1142,7 @@
  - RSS feed: https://www.wykop.pl/rss/index.xml/
  - date published: 2022-10-02 03:45:01+00:00
  - user: None
+ - tags: sweden,vaccine,covid
 
 
 ## Polski rząd szykuje się do ucieczki? Zastępca Kamińskiego: Kampania mająca na celu wytworzenie paniki
@@ -1522,6 +1501,7 @@
  - RSS feed: https://ithardware.pl/feed
  - date published: 2022-09-21 09:24:10+00:00
  - user: None
+ - tags: misinformation,control,surveillence,disinformation,usa,bigbrother
 
 
 ## Pod presją USA tureckie banki odcinają rosyjski system płatności Mir
@@ -2217,4 +2197,12 @@
  - date published: 2022-01-05 12:04:50+00:00
  - user: None
  - tags: facebook,cenzura,konfederacja
+
+
+## Jak informuje pkwp.org Facebook zmniejszył zasięgi akcji ukazującej problem gwałconych chrześcijanek w państwach islamskich. Zablokowano petycję w ich obronie.
+ - [https://obywatelenieba.pl/2022/01/04/facebook-przeciw-przesladowanym-chrzescijankom/](https://obywatelenieba.pl/2022/01/04/facebook-przeciw-przesladowanym-chrzescijankom/)
+ - RSS feed: https://obywatelenieba.pl
+ - date published: 2022-01-04 12:51:29+00:00
+ - user: rumpel
+ - tags: hipocrisy,inequality,christianophobia,feminism,facebook
 

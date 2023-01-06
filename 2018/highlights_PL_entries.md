@@ -13,3 +13,11 @@
  - user: rumpel
  - tags: lgbt,intolerance,christianophobia
 
+
+## niePatenty - Maciej Drozdowski
+ - [http://www.cs.put.poznan.pl/mdrozdowski/txt/niePatenty.pdf](http://www.cs.put.poznan.pl/mdrozdowski/txt/niePatenty.pdf)
+ - RSS feed: http://www.cs.put.poznan.pl
+ - date published: 2018-01-05 09:05:09+00:00
+ - user: rumpel
+ - tags: patents,programming,corporations
+

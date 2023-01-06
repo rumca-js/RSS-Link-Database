@@ -117,6 +117,14 @@
  - tags: ted,pandemic,bill gates
 
 
+## What’s with the 50/72 rule?
+ - [https://preslav.me/2015/02/21/what-s-with-the-50-72-rule/](https://preslav.me/2015/02/21/what-s-with-the-50-72-rule/)
+ - RSS feed: https://preslav.me
+ - date published: 2015-02-21 09:57:43+00:00
+ - user: rumpel
+ - tags: programming,git
+
+
 ## Billionaire Pervert Jeffrey Epstein and His Famous Friends: A Primer
  - [https://www.gawker.com/billionaire-pervert-jeffrey-epstein-and-his-famous-frie-1679246399](https://www.gawker.com/billionaire-pervert-jeffrey-epstein-and-his-famous-frie-1679246399)
  - RSS feed: https://www.gawker.com
@@ -147,4 +155,12 @@
  - date published: 2015-01-05 19:58:26+00:00
  - user: rumpel
  - tags: epstein,prince andrew,billionairs
+
+
+## Robustness principle
+ - [https://en.wikipedia.org/wiki/Robustness_principle](https://en.wikipedia.org/wiki/Robustness_principle)
+ - RSS feed: https://en.wikipedia.org
+ - date published: 2015-01-05 09:52:19+00:00
+ - user: rumpel
+ - tags: programming,robustness
 

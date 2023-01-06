@@ -14,6 +14,14 @@
  - tags: funny,conspiracytheory,flatearth,cia,deep state
 
 
+## Avoid getters and setters whenever possible
+ - [https://dev.to/scottshipp/avoid-getters-and-setters-whenever-possible-c8m](https://dev.to/scottshipp/avoid-getters-and-setters-whenever-possible-c8m)
+ - RSS feed: https://dev.to
+ - date published: 2017-12-08 10:06:42+00:00
+ - user: rumpel
+ - tags: programming,design patterns
+
+
 ## 10 Reasons You Should Be AFRAID of GOOGLE
  - [https://www.youtube.com/watch?v=WWDmelZxgoI](https://www.youtube.com/watch?v=WWDmelZxgoI)
  - RSS feed: https://www.youtube.com/@ToptenzNettop10

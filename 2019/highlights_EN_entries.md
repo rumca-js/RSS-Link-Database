@@ -22,6 +22,22 @@
  - tags: lgbt,christianophobia,newyork,inequality
 
 
+## Top 25 Most Dangerous Vulnerabilities Refreshed After 8 Years
+ - [https://www.bleepingcomputer.com/news/security/top-25-most-dangerous-vulnerabilities-refreshed-after-8-years/](https://www.bleepingcomputer.com/news/security/top-25-most-dangerous-vulnerabilities-refreshed-after-8-years/)
+ - RSS feed: https://www.bleepingcomputer.com
+ - date published: 2019-11-27 09:09:31+00:00
+ - user: rumpel
+ - tags: vulnerabilities,leak,hackers
+
+
+## How to keep employees happy: LinkedIn study reveals three factors
+ - [https://www.techrepublic.com/article/how-to-keep-employees-happy-linkedin-study-reveals-three-factors/](https://www.techrepublic.com/article/how-to-keep-employees-happy-linkedin-study-reveals-three-factors/)
+ - RSS feed: https://www.techrepublic.com
+ - date published: 2019-11-21 09:13:58+00:00
+ - user: rumpel
+ - tags: managment,programming,it
+
+
 ## Spirited Away Revealed: The Real Mythology & Folklore Explained!
  - [https://www.youtube.com/watch?v=GRVpWwMXrl8](https://www.youtube.com/watch?v=GRVpWwMXrl8)
  - RSS feed: https://www.youtube.com
@@ -146,6 +162,14 @@
  - tags: bilionaires,epstein,eyes wide shut
 
 
+## Playing more video games could increase creative thinking at work
+ - [https://www.weforum.org/agenda/2019/09/gamification-revolutionise-creative-thinking](https://www.weforum.org/agenda/2019/09/gamification-revolutionise-creative-thinking)
+ - RSS feed: https://www.weforum.org
+ - date published: 2019-09-30 09:12:44+00:00
+ - user: rumpel
+ - tags: programming,work,games
+
+
 ## The Green Swindlers Behind Greta Thunberg
  - [https://greenjihad.com/2019/09/29/the-green-swindlers-behind-greta-thunberg/](https://greenjihad.com/2019/09/29/the-green-swindlers-behind-greta-thunberg/)
  - RSS feed: https://greenjihad.com
@@ -167,6 +191,14 @@
  - date published: 2019-09-05 20:03:27+00:00
  - user: rumpel
  - tags: woke,lgbt,comedy
+
+
+## Our journey to type checking 4 million lines of Python
+ - [https://dropbox.tech/application/our-journey-to-type-checking-4-million-lines-of-python](https://dropbox.tech/application/our-journey-to-type-checking-4-million-lines-of-python)
+ - RSS feed: https://dropbox.tech
+ - date published: 2019-09-05 10:08:30+00:00
+ - user: rumpel
+ - tags: programming,python
 
 
 ## SWEDISH PR GURU RAISED MILLIONS BY HELPING MAKE GRETA THUNBERG A CLIMATE CELEBRITY
@@ -191,6 +223,14 @@
  - date published: 2019-08-22 09:09:32+00:00
  - user: rumpel
  - tags: gowokegobroke,woke,gillette
+
+
+## Why Are So Many Developers Hating on Object-Oriented Programming?
+ - [https://thenewstack.io/why-are-so-many-developers-hating-on-object-oriented-programming/](https://thenewstack.io/why-are-so-many-developers-hating-on-object-oriented-programming/)
+ - RSS feed: https://thenewstack.io
+ - date published: 2019-08-21 10:01:11+00:00
+ - user: rumpel
+ - tags: programming,objectoriented,design patterns
 
 
 ## Greta Thunberg and the plot to forge a climate warrior
@@ -232,6 +272,14 @@
  - tags: epstein
 
 
+## Harvard Just Discovered That PowerPoint Is Worse Than Useless
+ - [https://www.inc.com/geoffrey-james/harvard-just-discovered-that-powerpoint-is-worse-than-useless.html](https://www.inc.com/geoffrey-james/harvard-just-discovered-that-powerpoint-is-worse-than-useless.html)
+ - RSS feed: https://www.inc.com
+ - date published: 2019-08-09 07:56:07+00:00
+ - user: rumpel
+ - tags: programming,powerpoint
+
+
 ## Ben Shapiro Vs Climate Change | UBC Talk
  - [https://www.youtube.com/watch?v=wRk1p8Lzwvo](https://www.youtube.com/watch?v=wRk1p8Lzwvo)
  - RSS feed: https://www.youtube.com
@@ -246,6 +294,14 @@
  - date published: 2019-07-22 22:12:22+00:00
  - user: rumpel
  - tags: kids,lgbt,indoctrination
+
+
+## Why you should stop working so hard.
+ - [https://www.youtube.com/watch?v=NglDal-ycjU](https://www.youtube.com/watch?v=NglDal-ycjU)
+ - RSS feed: https://www.youtube.com
+ - date published: 2019-07-17 09:14:31+00:00
+ - user: rumpel
+ - tags: managment,programming,it
 
 
 ## Instagram: Why paying for followers and likes is bad news for real fans
@@ -294,6 +350,14 @@
  - date published: 2019-06-11 22:09:15+00:00
  - user: rumpel
  - tags: facebook,censorship
+
+
+## The culture war at the heart of open source
+ - [https://words.steveklabnik.com/the-culture-war-at-the-heart-of-open-source](https://words.steveklabnik.com/the-culture-war-at-the-heart-of-open-source)
+ - RSS feed: https://words.steveklabnik.com
+ - date published: 2019-05-26 13:59:11+00:00
+ - user: rumpel
+ - tags: open source
 
 
 ## Pre-teen “Drag Kids” highlight just how fast our culture has crumbled
@@ -395,10 +459,58 @@
  - tags: social media,manipulation
 
 
+## Is C++ fast?
+ - [https://zeux.io/2019/01/17/is-c-fast/](https://zeux.io/2019/01/17/is-c-fast/)
+ - RSS feed: https://zeux.io
+ - date published: 2019-01-17 13:23:59+00:00
+ - user: rumpel
+ - tags: c++,programming
+
+
 ## For Owners of Amazon’s Ring Security Cameras, Strangers May Have Been Watching Too
  - [https://theintercept.com/2019/01/10/amazon-ring-security-camera/](https://theintercept.com/2019/01/10/amazon-ring-security-camera/)
  - RSS feed: https://theintercept.com
  - date published: 2019-01-10 12:17:38+00:00
  - user: None
  - tags: iot,privacy,amazon,tracking
+
+
+## Inheritance — What your mother never told you
+ - [https://isocpp.org/wiki/faq/strange-inheritance](https://isocpp.org/wiki/faq/strange-inheritance)
+ - RSS feed: https://isocpp.org
+ - date published: 2019-01-05 13:27:19+00:00
+ - user: rumpel
+ - tags: c++,programming
+
+
+## C++ Coding Standards - Book Home Page
+ - [http://www.gotw.ca/publications/c++cs.htm](http://www.gotw.ca/publications/c++cs.htm)
+ - RSS feed: http://www.gotw.ca
+ - date published: 2019-01-05 13:26:49+00:00
+ - user: rumpel
+ - tags: c++,programming
+
+
+## Criticism of C++
+ - [https://en.wikipedia.org/wiki/Criticism_of_C%2B%2B](https://en.wikipedia.org/wiki/Criticism_of_C%2B%2B)
+ - RSS feed: https://en.wikipedia.org
+ - date published: 2019-01-05 13:25:45+00:00
+ - user: rumpel
+ - tags: c++,programming
+
+
+## c++ Initialization
+ - [https://en.cppreference.com/w/cpp/language/initialization](https://en.cppreference.com/w/cpp/language/initialization)
+ - RSS feed: https://en.cppreference.com
+ - date published: 2019-01-05 13:25:12+00:00
+ - user: rumpel
+ - tags: c++,programming
+
+
+## What’s the “static initialization order ‘fiasco’ (problem)”?
+ - [https://isocpp.org/wiki/faq/ctors#static-init-order](https://isocpp.org/wiki/faq/ctors#static-init-order)
+ - RSS feed: https://isocpp.org
+ - date published: 2019-01-05 13:24:27+00:00
+ - user: rumpel
+ - tags: c++,programming
 
