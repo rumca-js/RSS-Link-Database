@@ -44,6 +44,14 @@
  - tags: privacy,google,tracking
 
 
+## BlackRock Plots to Buy Ukraine
+ - [https://www.theamericanconservative.com/blackrock-plots-to-buy-ukraine/](https://www.theamericanconservative.com/blackrock-plots-to-buy-ukraine/)
+ - RSS feed: https://www.theamericanconservative.com
+ - date published: 2022-12-30 20:55:22+00:00
+ - user: rumpel
+ - tags: blackrock,war,ukraine
+
+
 ## WEF plans to issue guardrails on Metaverse creation
  - [https://reclaimthenet.org/wef-plans-to-issue-guardrails-on-metaverse-creation/](https://reclaimthenet.org/wef-plans-to-issue-guardrails-on-metaverse-creation/)
  - RSS feed: https://reclaimthenet.org/feed/
@@ -2874,6 +2882,14 @@
  - tags: google search,internet,dead internet
 
 
+## "Tantura" Exposes the Lie at the Heart of Israel's Founding Myth
+ - [https://theintercept.com/2022/11/25/tantura-movie-israel-palestine/](https://theintercept.com/2022/11/25/tantura-movie-israel-palestine/)
+ - RSS feed: https://theintercept.com/feed/?lang=en
+ - date published: 2022-11-25 11:00:32+00:00
+ - user: rumpel
+ - tags: israel
+
+
 ## Chińskie kamery zakazane w USA i Wielkiej Brytanii. Są zamontowane w pięciu polskich ministerstwach
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29182047,chinskie-kamery-zakazane-w-usa-i-wielkiej-brytanii-sa-zamontowane.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29182047,chinskie-kamery-zakazane-w-usa-i-wielkiej-brytanii-sa-zamontowane.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
  - RSS feed: http://wiadomosci.gazeta.pl/pub/rss/wiadomosci_kraj.htm
@@ -3158,6 +3174,14 @@
  - RSS feed: https://www.electoral-reform.org.uk
  - date published: 2022-11-18 11:24:38.830075+00:00
  - user: Thomas Pain
+
+
+## Call of Duty is a Government Psyop: These Documents Prove It
+ - [https://www.mintpressnews.com/call-of-duty-is-a-government-psyop-these-documents-prove-it/282781/](https://www.mintpressnews.com/call-of-duty-is-a-government-psyop-these-documents-prove-it/282781/)
+ - RSS feed: https://www.mintpressnews.com
+ - date published: 2022-11-18 08:19:45+00:00
+ - user: rumpel
+ - tags: games,propaganda,bigbrother
 
 
 ## End of an Era: Facebook Takes Sexuality, Religion, Address, and Politics Off of Your Profile
@@ -6836,6 +6860,14 @@
  - RSS feed: https://www.them.us
  - date published: 2022-10-09 17:51:47.593659+00:00
  - user: Thomas Pain
+
+
+## Why CBDCs may be a threat to you (and your privacy): The Evil Plan
+ - [https://cryptobullsclub.com/cbdc-a-threat-you-privacy/](https://cryptobullsclub.com/cbdc-a-threat-you-privacy/)
+ - RSS feed: https://cryptobullsclub.com
+ - date published: 2022-10-09 10:44:34+00:00
+ - user: rumpel
+ - tags: surveillance,cdbc,privacy
 
 
 ## Zanieczyszczenie mikroplastikiem to problem na skalę globalną. Wpływa na równowagę międzygatunkową zooplanktonu
@@ -12594,6 +12626,14 @@
  - user: Thomas Pain
 
 
+## The Top 10 Scariest Things to Come Out of the World Economic Forum (WEF)
+ - [https://www.globalresearch.ca/top-10-scariest-things-come-out-wef/5783410](https://www.globalresearch.ca/top-10-scariest-things-come-out-wef/5783410)
+ - RSS feed: https://www.globalresearch.ca
+ - date published: 2022-06-19 18:08:11+00:00
+ - user: rumpel
+ - tags: wef,global reset,dystopian
+
+
 ## Pop-ups are dead, long live pop-ups: or, the bait-and-switch hidden in today’s cookie announcement – Hi, I'm Heather Burns
  - [https://webdevlaw.uk/2022/06/17/data-reform-bill-cookie-popups/](https://webdevlaw.uk/2022/06/17/data-reform-bill-cookie-popups/)
  - RSS feed: https://webdevlaw.uk
@@ -12970,6 +13010,14 @@
  - RSS feed: https://www.breck-mckye.com
  - date published: 2022-05-30 21:07:00.874723+00:00
  - user: Thomas Pain
+
+
+## WEF Issues Threat To Brazil After Bolsonaro Refuses To Sign WHO Pandemic Treaty
+ - [https://www.libertyplanets.com/articles/wef-issues-threat-to-brazil-after-bolsonaro-refuses-to-sign-who-pandemic-treaty/](https://www.libertyplanets.com/articles/wef-issues-threat-to-brazil-after-bolsonaro-refuses-to-sign-who-pandemic-treaty/)
+ - RSS feed: https://www.libertyplanets.com
+ - date published: 2022-05-30 18:01:48+00:00
+ - user: rumpel
+ - tags: who,pandemic,bigbrother,corporatocracy,covid,wef
 
 
 ## Big Tech talks up privacy while trying to kill privacy laws • The Register
@@ -14315,6 +14363,14 @@
  - user: Thomas Pain
 
 
+## BlackRock's Fink says Russia-Ukraine crisis could accelerate digital currencies
+ - [https://www.reuters.com/technology/blackrocks-fink-says-russia-ukraine-crisis-could-accelerate-digital-currencies-2022-03-24/](https://www.reuters.com/technology/blackrocks-fink-says-russia-ukraine-crisis-could-accelerate-digital-currencies-2022-03-24/)
+ - RSS feed: https://www.reuters.com
+ - date published: 2022-03-25 21:11:37+00:00
+ - user: rumpel
+ - tags: digital currency,blackrock,cbdc,crisis,war,ukraine
+
+
 ## Implementing a toy version of TLS 1.3
  - [https://jvns.ca/blog/2022/03/23/a-toy-version-of-tls/](https://jvns.ca/blog/2022/03/23/a-toy-version-of-tls/)
  - RSS feed: https://jvns.ca
@@ -15471,6 +15527,14 @@
  - RSS feed: https://wingolog.org
  - date published: 2022-01-22 09:39:52.744827+00:00
  - user: Thomas Pain
+
+
+## Stakeholder capitalism and ESG—the road to socialism
+ - [https://fraserinstitute.org/article/stakeholder-capitalism-and-esg-the-road-to-socialism](https://fraserinstitute.org/article/stakeholder-capitalism-and-esg-the-road-to-socialism)
+ - RSS feed: https://fraserinstitute.org
+ - date published: 2022-01-21 21:40:33+00:00
+ - user: rumpel
+ - tags: blackrock,socialism,csr,corporate social responsibility,esg
 
 
 ## The Internet Changed My Life | Pointers Gone Wild

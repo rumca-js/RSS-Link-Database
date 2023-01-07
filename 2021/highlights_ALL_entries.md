@@ -965,6 +965,14 @@
  - tags: hollywood,movies
 
 
+## Central Bank Digital Currencies Explained
+ - [https://m.youtube.com/watch?v=0u8eZcPnWeU](https://m.youtube.com/watch?v=0u8eZcPnWeU)
+ - RSS feed: https://m.youtube.com
+ - date published: 2021-11-01 10:40:04+00:00
+ - user: rumpel
+ - tags: surveillance,privacy,propaganda,cbdc
+
+
 ## Wacom drawing tablets track the name of every application that you open | Robert Heaton
  - [https://robertheaton.com/2020/02/05/wacom-drawing-tablets-track-name-of-every-application-you-open/](https://robertheaton.com/2020/02/05/wacom-drawing-tablets-track-name-of-every-application-you-open/)
  - RSS feed: https://robertheaton.com
@@ -1339,6 +1347,14 @@
  - RSS feed: https://www.huffingtonpost.co.uk
  - date published: 2021-10-15 14:11:39.651994+00:00
  - user: Thomas Pain
+
+
+## CBDCs: How Dangerous ARE They?
+ - [https://hackernoon.com/cbdcs-how-dangerous-are-they](https://hackernoon.com/cbdcs-how-dangerous-are-they)
+ - RSS feed: https://hackernoon.com
+ - date published: 2021-10-15 10:47:45+00:00
+ - user: rumpel
+ - tags: surveillance,privacy,cbdc
 
 
 ## Missouri governor vows criminal prosecution of reporter who found flaw in state website • Missouri Independent
@@ -2327,6 +2343,14 @@
  - user: Thomas Pain
 
 
+## Conspiracy theories aside, there is something fishy about the Great Reset
+ - [https://www.resilience.org/stories/2021-08-24/conspiracy-theories-aside-there-is-something-fishy-about-the-great-reset/](https://www.resilience.org/stories/2021-08-24/conspiracy-theories-aside-there-is-something-fishy-about-the-great-reset/)
+ - RSS feed: https://www.resilience.org
+ - date published: 2021-08-24 18:18:59+00:00
+ - user: rumpel
+ - tags: technofeudalism,wef,corporatocracy,democracy
+
+
 ## ‘I can’t work’: the mothers left to fight alone for their children’s mental health care | Mental health | The Guardian
  - [https://www.theguardian.com/society/2021/aug/15/i-cant-work-the-mothers-left-to-fight-alone-for-their-childrens-mental-health-care](https://www.theguardian.com/society/2021/aug/15/i-cant-work-the-mothers-left-to-fight-alone-for-their-childrens-mental-health-care)
  - RSS feed: https://www.theguardian.com
@@ -3031,6 +3055,7 @@
  - RSS feed: https://www.theguardian.com
  - date published: 2021-07-18 21:55:29.750497+00:00
  - user: Thomas Pain
+ - tags: surveillence,bigbrother,privacy,israel,pegasus
 
 
 ## Inserting One Billion Rows in SQLite Under A Minute - blag
