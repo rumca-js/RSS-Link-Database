@@ -939,6 +939,14 @@
  - tags: epstein,prison cell
 
 
+## Why Stakeholder Capitalism Will Fail
+ - [https://www.forbes.com/sites/stevedenning/2020/01/05/why-stakeholder-capitalism-will-fail/](https://www.forbes.com/sites/stevedenning/2020/01/05/why-stakeholder-capitalism-will-fail/)
+ - RSS feed: https://www.forbes.com
+ - date published: 2020-01-05 08:54:26+00:00
+ - user: rumpel
+ - tags: stakeholder capitalism,wef,esg
+
+
 ## Who’s Really Responsible for Climate Change?
  - [https://harvardpolitics.com/climate-change-responsibility/](https://harvardpolitics.com/climate-change-responsibility/)
  - RSS feed: https://harvardpolitics.com

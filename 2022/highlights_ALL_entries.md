@@ -1666,7 +1666,7 @@
  - RSS feed: https://en.wikipedia.org
  - date published: 2022-12-11 20:58:07+00:00
  - user: None
- - tags: surveillance,all time
+ - tags: surveillance,bigbrother,all time
 
 
 ## Global surveillance disclosures (2013–present)

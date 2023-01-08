@@ -33,7 +33,7 @@
  - RSS feed: https://www.rutherford.org
  - date published: 2016-11-21 15:16:47+00:00
  - user: None
- - tags: disinformation,misinformation,factcheck,government,all time,fakenews
+ - tags: government,fakenews,factcheck,misinformation,bigbrother,all time,disinformation
 
 
 ## How Teens In The Balkans Are Duping Trump Supporters With Fake News
@@ -185,7 +185,7 @@
  - RSS feed: https://news.yahoo.com
  - date published: 2016-02-23 11:48:12+00:00
  - user: None
- - tags: merkel,wikileaks,surveillance,all time
+ - tags: surveillance,merkel,wikileaks,bigbrother,all time
 
 
 ## Aaron Swartz Biographer Justin Peters: "Aaron Died for Nothing."
