@@ -129,7 +129,7 @@
  - RSS feed: https://en.wikipedia.org
  - date published: 2021-12-26 20:04:14+00:00
  - user: rumpel
- - tags: science,grievance,sokal
+ - tags: scienceisdead,sokal,grievance,science
 
 
 ## Sokal affair
@@ -137,7 +137,7 @@
  - RSS feed: https://en.wikipedia.org
  - date published: 2021-12-26 20:03:05+00:00
  - user: rumpel
- - tags: science,sokal affair,sokal
+ - tags: sokal affair,sokal,science,scienceisdead
 
 
 ## Bohemian Grove
@@ -3470,7 +3470,7 @@
  - RSS feed: https://www.breitbart.com
  - date published: 2021-06-21 17:24:57+00:00
  - user: rumpel
- - tags: science,fauci,covid
+ - tags: scienceisdead,covid,science,fauci
 
 
 ## Kiedy WHO zmieniła definicję odporności stada? Zmiana treści definicji terminu Odporność Stadna. [listopad 2020]
@@ -4095,7 +4095,7 @@
  - RSS feed: https://cceit.com
  - date published: 2021-02-10 21:14:43+00:00
  - user: rumpel
- - tags: germany,lockdown,covid
+ - tags: germany,covid,lockdown,scienceisdead
 
 
 ## Germany Hired Scientists To Develop Fake Coronavirus Model To Justify Strict Lockdown

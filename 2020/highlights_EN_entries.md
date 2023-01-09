@@ -441,7 +441,7 @@
  - RSS feed: https://www.theatlantic.com
  - date published: 2020-09-01 22:02:49+00:00
  - user: rumpel
- - tags: race,woke,science,cancel culture,censorship
+ - tags: woke,science,cancel culture,censorship,scienceisdead,race
 
 
 ## Google stifles growing YouTube competitor LBRY by banning it from Play Store for pedantic reasons

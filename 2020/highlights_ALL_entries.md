@@ -583,7 +583,7 @@
  - RSS feed: https://www.theatlantic.com
  - date published: 2020-09-01 22:02:49+00:00
  - user: rumpel
- - tags: race,woke,science,cancel culture,censorship
+ - tags: woke,science,cancel culture,censorship,scienceisdead,race
 
 
 ## The huge change coming to how you claim government benefits: Aussies will use new $250million facial recognition to access services

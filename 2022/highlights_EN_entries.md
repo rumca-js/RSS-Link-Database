@@ -100,6 +100,14 @@
  - tags: woke,uk
 
 
+## Jonathan Haidt on the ‘National Crisis’ of Gen Z
+ - [https://www.wsj.com/articles/the-national-crisis-of-generation-z-jonathan-haidt-social-media-performance-anxiety-fragility-gap-childhood-11672401345](https://www.wsj.com/articles/the-national-crisis-of-generation-z-jonathan-haidt-social-media-performance-anxiety-fragility-gap-childhood-11672401345)
+ - RSS feed: https://www.wsj.com
+ - date published: 2022-12-30 09:09:58+00:00
+ - user: rumpel
+ - tags: cancel culture,victimhood,social media
+
+
 ## Szczecin coraz szybciej rozwija się po drugiej stronie granicy. Czy to już polsko-niemiecka aglomeracja?
  - [https://businessinsider.com.pl/gospodarka/czy-szczecin-staje-sie-polsko-niemiecka-aglomeracja/txd3v7x](https://businessinsider.com.pl/gospodarka/czy-szczecin-staje-sie-polsko-niemiecka-aglomeracja/txd3v7x)
  - RSS feed: https://businessinsider.com.pl/.feed
@@ -304,7 +312,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-26 12:58:24+00:00
  - user: rumpel
- - tags: climate change,science
+ - tags: scienceisdead,science,climate change
 
 
 ## FBI Gaslights America Over Twitter Files | Opinion
@@ -2862,6 +2870,14 @@
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCtZO3K2p8mqFwiKWb9k7fXA
  - date published: 2022-11-20 10:49:37+00:00
  - user: None
+
+
+## Jeffrey Sachs Presents Evidence of Possible Lab Origin of Covid-19
+ - [https://theintercept.com/2022/05/19/covid-lab-leak-evidence-jeffrey-sachs/](https://theintercept.com/2022/05/19/covid-lab-leak-evidence-jeffrey-sachs/)
+ - RSS feed: https://theintercept.com
+ - date published: 2022-11-19 13:39:08+00:00
+ - user: rumpel
+ - tags: covid,lableak,jeffrey sachs
 
 
 ## Is TikTok Really A National Security Threat?
@@ -12024,7 +12040,7 @@
  - RSS feed: https://www.bmj.com
  - date published: 2022-03-16 21:58:08+00:00
  - user: rumpel
- - tags: science,oligopoly,corporations,corporatocracy
+ - tags: science,corporatocracy,scienceisdead,oligopoly,corporations
 
 
 ## The three-minute rule: the scientific way to tackle your most-hated chores | Life and style | The Guardian
@@ -12840,7 +12856,7 @@
  - RSS feed: https://www.bmj.com
  - date published: 2022-01-19 12:53:33+00:00
  - user: rumpel
- - tags: censorship,science,factcheck,facebook,bmj
+ - tags: science,facebook,censorship,factcheck,scienceisdead,bmj
 
 
 ## Jordan Peterson: Female Totalitarianism | with James Orr & Arif Ahmed (Cambridge)
