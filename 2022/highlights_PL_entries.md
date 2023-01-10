@@ -126,7 +126,7 @@
  - RSS feed: https://forsal.pl/.feed
  - date published: 2022-12-18 09:57:31+00:00
  - user: None
- - tags: musk,billionaires
+ - tags: billionaires,musk,elites
 
 
 ## W razie ataku na Tajwan świat będzie zgubiony. Przeniesienie produkcji mikroczipów do USA nas nie uratuje

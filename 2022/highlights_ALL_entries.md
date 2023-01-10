@@ -34,6 +34,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-31 02:31:29+00:00
  - user: rumpel
+ - tags: rossmann,right to repair
 
 
 ## Google to pay Indiana $20 million to resolve privacy suit
@@ -705,7 +706,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-22 08:28:34+00:00
  - user: None
- - tags: money,society,billionaires
+ - tags: money,society,elites,billionaires
 
 
 ## Marketing CEO explains how some news, tech corporations are committing 'business suicide'
@@ -1093,7 +1094,7 @@
  - RSS feed: https://forsal.pl/.feed
  - date published: 2022-12-18 09:57:31+00:00
  - user: None
- - tags: musk,billionaires
+ - tags: billionaires,musk,elites
 
 
 ## Ethiopia Obtains Phone-hacking Tech From Israeli Firm Cellebrite
@@ -1945,7 +1946,7 @@
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCjr2bPAyPV7t35MvcgT3W8Q
  - date published: 2022-12-08 13:14:27+00:00
  - user: None
- - tags: propaganda,bill gates,billionaires
+ - tags: bill gates,propaganda,elites,billionaires
 
 
 ## Amazon, Google, Microsoft and Oracle will share the Pentagon's $9 billion cloud contract
@@ -2156,7 +2157,7 @@
  - RSS feed: https://www.foxnews.com
  - date published: 2022-12-06 13:53:09+00:00
  - user: rumpel
- - tags: k george soros,soros,billionaires,media
+ - tags: k george soros,billionaires,elites,media,soros
 
 
 ## Gmail creator predicts total disruption for Google as chatbot ChatGPT challenges tech giant monopoly
@@ -3782,7 +3783,7 @@
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-11-07 20:44:25+00:00
  - user: None
- - tags: billionaires,climate change
+ - tags: billionaires,climate change,elites
 
 
 ## Your Organization should run its own Mastodon server
@@ -4737,7 +4738,7 @@
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-10-30 03:49:00+00:00
  - user: None
- - tags: billionaires,politics,bill gates,elon musk
+ - tags: billionaires,bill gates,politics,elites,elon musk
 
 
 ## YouTube suspended Louder with Crowder for our episode about Elon Musk's Twitter takeover
@@ -12267,6 +12268,14 @@
  - user: Thomas Pain
 
 
+## Arctic Sea Ice Melting Over the Years | 2000-2022 Time-lapse
+ - [https://www.youtube.com/watch?v=UvEhfYZbiKM](https://www.youtube.com/watch?v=UvEhfYZbiKM)
+ - RSS feed: https://www.youtube.com
+ - date published: 2022-07-13 14:34:41+00:00
+ - user: rumpel
+ - tags: climate change
+
+
 ## The hardest technical solutions are right in front of your face.
  - [https://lukesmith.xyz/articles/obvious-technical-solutions/](https://lukesmith.xyz/articles/obvious-technical-solutions/)
  - RSS feed: https://lukesmith.xyz/rss.xml
@@ -12314,6 +12323,7 @@
  - RSS feed: https://www.theguardian.com
  - date published: 2022-07-11 08:38:22.476657+00:00
  - user: Thomas Pain
+ - tags: bigbrother,lobbying,law,bigtech,uber,leak
 
 
 ## Why the world needs a non-profit search engine
@@ -12398,7 +12408,7 @@
  - RSS feed: https://thepulse.one
  - date published: 2022-07-05 22:48:07+00:00
  - user: rumpel
- - tags: sex trafficking,epstein,ghislaine,elite,billionaires
+ - tags: sex trafficking,ghislaine,billionaires,elites,epstein,elite
 
 
 ## Today’s Robotic Surgery Turns Surgical Trainees Into Spectators - IEEE Spectrum
@@ -12490,6 +12500,14 @@
  - RSS feed: https://www.projectgus.com
  - date published: 2022-06-29 16:31:19.627645+00:00
  - user: Thomas Pain
+
+
+## 0.5 billion, and it's permanent.
+ - [https://ramapascala.substack.com/p/05-billion-and-its-permanent](https://ramapascala.substack.com/p/05-billion-and-its-permanent)
+ - RSS feed: https://ramapascala.substack.com
+ - date published: 2022-06-29 11:54:47+00:00
+ - user: rumpel
+ - tags: climate change,all time,pollution
 
 
 ## Inside the secret, often bizarre world that decides what porn you see
@@ -12640,6 +12658,14 @@
  - RSS feed: https://mullvad.net
  - date published: 2022-06-20 19:04:24.912447+00:00
  - user: Thomas Pain
+
+
+## ‘The situation is serious’: Germany plans to fire up coal plants as Russia throttles gas supplies
+ - [https://www.cnbc.com/2022/06/20/ukraine-war-germany-turns-to-coal-as-russia-throttles-gas-supplies.html](https://www.cnbc.com/2022/06/20/ukraine-war-germany-turns-to-coal-as-russia-throttles-gas-supplies.html)
+ - RSS feed: https://www.cnbc.com
+ - date published: 2022-06-20 13:01:44+00:00
+ - user: rumpel
+ - tags: climate change,co2,germany
 
 
 ## The Top 10 Scariest Things to Come Out of the World Economic Forum (WEF)

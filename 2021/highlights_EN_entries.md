@@ -952,7 +952,7 @@
  - RSS feed: https://www.coreysdigs.com
  - date published: 2021-10-25 07:40:48+00:00
  - user: None
- - tags: blackrock,larry fink,family tree
+ - tags: elites,blackrock,family tree,larry fink
 
 
 ## Corporate Transition
@@ -3354,6 +3354,14 @@
  - date published: 2021-04-19 22:15:58+00:00
  - user: rumpel
  - tags: kids,lgbt,indoctrination,sexualisation
+
+
+## The Anthropocene: Where on Earth are we Going? (Full)
+ - [https://www.youtube.com/watch?v=HvD0TgE34HA](https://www.youtube.com/watch?v=HvD0TgE34HA)
+ - RSS feed: https://www.youtube.com
+ - date published: 2021-04-15 07:28:02+00:00
+ - user: rumpel
+ - tags: global warning,climate change,all time
 
 
 ## CNN staffer tells Project Veritas network played up COVID-19 death toll for ratings

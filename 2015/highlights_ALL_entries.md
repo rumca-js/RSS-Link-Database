@@ -38,6 +38,14 @@
  - tags: corporatocracy,chomsky,all time,propaganda
 
 
+## Why is Ukraine the West's Fault? Featuring John Mearsheimer
+ - [https://www.youtube.com/watch?v=JrMiSQAGOS4&t=2628s](https://www.youtube.com/watch?v=JrMiSQAGOS4&t=2628s)
+ - RSS feed: https://www.youtube.com
+ - date published: 2015-09-25 20:42:33+00:00
+ - user: rumpel
+ - tags: war,all time,ukraine
+
+
 ## Secret 'dark net' operation saves scores of children from abuse; ringleader Shannon McCoole behind bars after police take over child porn site
  - [https://www.abc.net.au/news/2015-08-26/secret-anti-paedophile-operation-saves-children-from-abuse/6720304](https://www.abc.net.au/news/2015-08-26/secret-anti-paedophile-operation-saves-children-from-abuse/6720304)
  - RSS feed: https://www.abc.net.au
@@ -130,7 +138,7 @@
  - RSS feed: https://www.gawker.com
  - date published: 2015-01-22 19:55:29+00:00
  - user: rumpel
- - tags: epstein,billionairs
+ - tags: billionairs,epstein,elites
 
 
 ## Chinese Cancer Villages Show The High Human Cost Of Industrialization
@@ -154,7 +162,7 @@
  - RSS feed: https://www.mirror.co.uk
  - date published: 2015-01-05 19:58:26+00:00
  - user: rumpel
- - tags: epstein,prince andrew,billionairs
+ - tags: billionairs,epstein,prince andrew,elites
 
 
 ## Robustness principle

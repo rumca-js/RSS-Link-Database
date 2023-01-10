@@ -485,6 +485,14 @@
  - tags: vrchat,vr
 
 
+## Cold comfort: The sun is cooling; doesn't mean there'll be no global warming
+ - [https://www.downtoearth.org.in/news/science-technology/cold-comfort-the-sun-is-cooling-doesn-t-mean-there-ll-be-no-global-warming-73488](https://www.downtoearth.org.in/news/science-technology/cold-comfort-the-sun-is-cooling-doesn-t-mean-there-ll-be-no-global-warming-73488)
+ - RSS feed: https://www.downtoearth.org.in
+ - date published: 2020-09-23 14:32:51+00:00
+ - user: rumpel
+ - tags: co2,climate change,global warming
+
+
 ## Dzieci odebrane Polce przez Jugendamt zostaną na razie u muzułmanów
  - [https://wiadomosci.dziennik.pl/swiat/artykuly/7802606,jugendamt-polka-dzieci-rodzina-muzulmanie-niemcy.html](https://wiadomosci.dziennik.pl/swiat/artykuly/7802606,jugendamt-polka-dzieci-rodzina-muzulmanie-niemcy.html)
  - RSS feed: https://wiadomosci.dziennik.pl
@@ -545,6 +553,14 @@
  - RSS feed: zaufanatrzeciastrona.pl
  - date published: 2020-09-16 06:49:35+00:00
  - user: None
+
+
+## Netflix Defends ‘Cuties’ as ‘Social Commentary’ Against Sexualization of Young Children
+ - [https://variety.com/2020/digital/news/netflix-defends-cuties-against-sexualization-young-girls-1234766347/](https://variety.com/2020/digital/news/netflix-defends-cuties-against-sexualization-young-girls-1234766347/)
+ - RSS feed: https://variety.com
+ - date published: 2020-09-10 08:25:33+00:00
+ - user: rumpel
+ - tags: woke,cuties,netflix,kids,sexualization
 
 
 ## Rak jest groźniejszy niż koronawirus!
@@ -1082,6 +1098,22 @@
  - tags: wuhan,covid,covid origins
 
 
+## Bodies are being left in the streets in an overwhelmed Ecuadorian city
+ - [https://edition.cnn.com/2020/04/03/americas/guayaquil-ecuador-overwhelmed-coronavirus-intl/index.html](https://edition.cnn.com/2020/04/03/americas/guayaquil-ecuador-overwhelmed-coronavirus-intl/index.html)
+ - RSS feed: https://edition.cnn.com
+ - date published: 2020-04-03 07:26:22+00:00
+ - user: rumpel
+ - tags: covid,wuhan,propaganda,lableak,panic
+
+
+## Misused photo of migrants’ coffins used to cast doubt on Covid-19 in Italy
+ - [https://observers.france24.com/en/europe/20220106-debunked-covid-19-migrant-coffins-documentary-bergamo](https://observers.france24.com/en/europe/20220106-debunked-covid-19-migrant-coffins-documentary-bergamo)
+ - RSS feed: https://observers.france24.com
+ - date published: 2020-04-01 07:43:17+00:00
+ - user: rumpel
+ - tags: covid,wuhan,propaganda,lableak,panic
+
+
 ## Are You a Slave to your Software Knowledge?
  - [https://sagegerard.com/stop-learning-so-much.html](https://sagegerard.com/stop-learning-so-much.html)
  - RSS feed: https://sagegerard.com
@@ -1161,6 +1193,30 @@
  - tags: trans,family,america,lgbt
 
 
+## Coronavirus Outbreak: Man lies dead on a street in China
+ - [https://www.youtube.com/watch?v=CYKeefzKGOI](https://www.youtube.com/watch?v=CYKeefzKGOI)
+ - RSS feed: https://www.youtube.com
+ - date published: 2020-01-31 07:48:27+00:00
+ - user: rumpel
+ - tags: covid,wuhan,propaganda,lableak,panic
+
+
+## A man lies dead in the street: the image that captures the Wuhan coronavirus crisis
+ - [https://www.theguardian.com/world/2020/jan/31/a-man-lies-dead-in-the-street-the-image-that-captures-the-wuhan-coronavirus-crisis](https://www.theguardian.com/world/2020/jan/31/a-man-lies-dead-in-the-street-the-image-that-captures-the-wuhan-coronavirus-crisis)
+ - RSS feed: https://www.theguardian.com
+ - date published: 2020-01-31 07:24:23+00:00
+ - user: rumpel
+ - tags: covid,wuhan,propaganda,lableak,panic
+
+
+## Disturbing Footages Show People Collapsing in Virus-Hit Chinese City of Wuhan
+ - [https://www.tasnimnews.com/en/news/2020/01/24/2188257/disturbing-footages-show-people-collapsing-in-virus-hit-chinese-city-of-wuhan](https://www.tasnimnews.com/en/news/2020/01/24/2188257/disturbing-footages-show-people-collapsing-in-virus-hit-chinese-city-of-wuhan)
+ - RSS feed: https://www.tasnimnews.com
+ - date published: 2020-01-24 07:54:11+00:00
+ - user: rumpel
+ - tags: covid,wuhan,propaganda,lableak,panic
+
+
 ## The Secretive Company That Might End Privacy as We Know It - The New York Times
  - [https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html](https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html)
  - RSS feed: https://www.nytimes.com
@@ -1198,6 +1254,14 @@
  - date published: 2020-01-08 12:16:22+00:00
  - user: None
  - tags: iot,privacy,amazon,tracking
+
+
+## New Virus Discovered by Chinese Scientists Investigating Pneumonia Outbreak
+ - [https://www.wsj.com/articles/new-virus-discovered-by-chinese-scientists-investigating-pneumonia-outbreak-11578485668?mod=article_inline](https://www.wsj.com/articles/new-virus-discovered-by-chinese-scientists-investigating-pneumonia-outbreak-11578485668?mod=article_inline)
+ - RSS feed: https://www.wsj.com
+ - date published: 2020-01-08 07:50:34+00:00
+ - user: rumpel
+ - tags: covid origins,covid,lableak,panic
 
 
 ## A Look Inside Jeffrey Epstein’s Prison Cell

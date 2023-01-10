@@ -143,7 +143,7 @@
  - RSS feed: https://www.buzzfeednews.com
  - date published: 2019-10-08 12:21:11+00:00
  - user: None
- - tags: billionaires,lie,musk
+ - tags: billionaires,musk,lie,elites
 
 
 ## One of America’s biggest gaming companies is acting as China’s censor
@@ -341,7 +341,7 @@
  - RSS feed: https://nymag.com
  - date published: 2019-07-08 19:57:17+00:00
  - user: rumpel
- - tags: epstein,billionairs
+ - tags: billionairs,epstein,elites
 
 
 ## Report: Facebook Bans The Word “Honk”

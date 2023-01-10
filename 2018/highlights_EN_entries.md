@@ -270,6 +270,14 @@
  - tags: who,bill gates
 
 
+## Ancient Forest Home of Squatter Communities Is Doomed by Coal
+ - [https://www.nationalgeographic.com/science/article/hambach-forest-germany-logging-coal-conservation-science](https://www.nationalgeographic.com/science/article/hambach-forest-germany-logging-coal-conservation-science)
+ - RSS feed: https://www.nationalgeographic.com
+ - date published: 2018-04-13 14:18:44+00:00
+ - user: rumpel
+ - tags: co2,climate change,germany
+
+
 ## 11 signs you’re writing great code
  - [https://www.infoworld.com/article/3268310/application-development/11-signs-youre-writing-great-code.html](https://www.infoworld.com/article/3268310/application-development/11-signs-youre-writing-great-code.html)
  - RSS feed: https://www.infoworld.com
@@ -340,6 +348,14 @@
  - date published: 2018-03-13 11:23:25+00:00
  - user: None
  - tags: hate speech,myanmar,facebook,privacy
+
+
+## Elon Musk's family once owned an emerald mine in Zambia — here's the fascinating story of how they came to own it
+ - [https://www.businessinsider.co.za/how-elon-musks-family-came-to-own-an-emerald-mine-2018-2](https://www.businessinsider.co.za/how-elon-musks-family-came-to-own-an-emerald-mine-2018-2)
+ - RSS feed: https://www.businessinsider.co.za
+ - date published: 2018-02-28 15:50:37+00:00
+ - user: rumpel
+ - tags: elon musk,elites,billionaires
 
 
 ## Skygofree: Powerful Android spyware with advanced surveillance tools

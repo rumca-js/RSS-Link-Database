@@ -10,7 +10,7 @@
  - RSS feed: https://www.dailymail.co.uk
  - date published: 2016-12-16 13:56:18+00:00
  - user: None
- - tags: billionaires,facebook,soros,george soros,fakenews,fact-checker
+ - tags: george soros,fact-checker,billionaires,elites,facebook,fakenews,soros
 
 
 ## Dissecting the #PizzaGate Conspiracy Theories
