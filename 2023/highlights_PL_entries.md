@@ -49,7 +49,7 @@
  - RSS feed: https://zaimki.pl
  - date published: 2023-01-01 22:08:10+00:00
  - user: rumpel
- - tags: gender,pronouns,social engineering
+ - tags: gender,pronouns,social engineering,newspeak
 
 
 ## Mikroplastiki to poważny problem, ale ten filtr go rozwiąże

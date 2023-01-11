@@ -323,7 +323,7 @@
  - RSS feed: https://www.theverge.com
  - date published: 2018-04-09 19:48:41+00:00
  - user: None
- - tags: vr,privacy,facebook,meta,oculus
+ - tags: oculus,virtual reality,facebook,privacy,meta
 
 
 ## Cambridge Analytica and Facebook: The Scandal and the Fallout So Far

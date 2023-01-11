@@ -482,7 +482,7 @@
  - RSS feed: https://www.dailymail.co.uk
  - date published: 2020-09-30 13:06:20+00:00
  - user: rumpel
- - tags: vrchat,vr
+ - tags: virtual reality,vrchat
 
 
 ## Cold comfort: The sun is cooling; doesn't mean there'll be no global warming

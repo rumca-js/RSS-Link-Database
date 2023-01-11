@@ -692,6 +692,14 @@
  - user: Thomas Pain
 
 
+## It’s Time To Break Up With Our Gas Stoves | Climate Town
+ - [https://www.youtube.com/watch?v=hX2aZUav-54](https://www.youtube.com/watch?v=hX2aZUav-54)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCuVLG9pThvBABcYCm7pkNkA
+ - date published: 2021-11-18 21:16:55+00:00
+ - user: rumpel
+ - tags: climate change
+
+
 ## ‘The algorithm has primacy over media … over each of us, and it controls what we do’
  - [https://hls.harvard.edu/today/the-algorithm-has-primacy-over-media-over-each-of-us-and-it-controls-what-we-do/](https://hls.harvard.edu/today/the-algorithm-has-primacy-over-media-over-each-of-us-and-it-controls-what-we-do/)
  - RSS feed: https://hls.harvard.edu
@@ -985,7 +993,7 @@
  - RSS feed: https://www.youtube.com/@TheDaveCullenShow
  - date published: 2021-10-31 20:35:51+00:00
  - user: None
- - tags: meta,ready player one,metaverse,vr
+ - tags: virtual reality,metaverse,meta,ready player one
 
 
 ## The metaverse is already here, it's called the internet - Can's blog
@@ -1606,7 +1614,7 @@
  - RSS feed: https://www.independent.co.uk
  - date published: 2021-10-04 21:54:58+00:00
  - user: rumpel
- - tags: inequality,bigbrother,lgbt,trans
+ - tags: trans,lgbt,inequality,newspeak,bigbrother
 
 
 ## The Problem of Marital Loneliness | The New Yorker
@@ -4294,5 +4302,5 @@
  - RSS feed: https://thehill.com
  - date published: 2021-01-04 21:53:34+00:00
  - user: rumpel
- - tags: gender,pronouns,lgbt,social engineering
+ - tags: lgbt,newspeak,pronouns,gender,social engineering
 

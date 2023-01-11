@@ -955,7 +955,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-12-20 13:54:37+00:00
  - user: None
- - tags: woke,stanford,socialengineering
+ - tags: socialengineering,newspeak,stanford,woke
 
 
 ## China’s Covid Death Reports Spread as Doubts Grow About Official Virus Data
@@ -1142,7 +1142,7 @@
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-17 21:43:05+00:00
  - user: None
- - tags: meta,carmack,vr
+ - tags: virtual reality,meta,carmack
 
 
 ## Norwegian filmmaker faces jail for Facebook post saying men can’t be a lesbian
@@ -3641,7 +3641,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-09 22:13:42+00:00
  - user: None
- - tags: zuckerberg,meta,vr,metaverse
+ - tags: zuckerberg,metaverse,meta,virtual reality
 
 
 ## Doom Eternal composer breaks silence over clash with id Software: 'I never quit Doom. I quit a toxic client'
@@ -3962,7 +3962,7 @@
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-11-04 18:01:52+00:00
  - user: None
- - tags: woke,gender,pronouns,school
+ - tags: woke,newspeak,gender,pronouns,school
 
 
 ## Newsom sued over COVID ‘misinformation’ law that doctors say tramples First Amendment rights
@@ -4156,7 +4156,7 @@
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA
  - date published: 2022-11-02 20:15:25+00:00
  - user: None
- - tags: vr,meta
+ - tags: virtual reality,meta
 
 
 ## Facebook's Going Back to Only Using Algorithms to Curate Its News Tab
@@ -4347,7 +4347,7 @@
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-02 04:00:00+00:00
  - user: None
- - tags: machine learning,science,ai
+ - tags: science,machine learning,artificial intelligence
 
 
 ## New York Magazine writer admits media 'afraid' to criticize the left on COVID, Black Lives Matter
@@ -4671,7 +4671,7 @@
  - RSS feed: https://ithardware.pl/feed
  - date published: 2022-10-30 13:24:20+00:00
  - user: None
- - tags: zuckerberg,meta,facebook,vr,metaverse
+ - tags: zuckerberg,metaverse,virtual reality,facebook,meta
 
 
 ## PS4/PS5 exploit that is “essentially unpatchable”
@@ -4934,7 +4934,7 @@
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-10-28 09:22:30+00:00
  - user: None
- - tags: zuckerberg,meta,vr,metaverse
+ - tags: zuckerberg,metaverse,meta,virtual reality
 
 
 ## Why Is Markdown Popular?
@@ -5236,7 +5236,7 @@
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-10-26 15:38:10+00:00
  - user: None
- - tags: woke,language,gender
+ - tags: language,gender,newspeak,woke
 
 
 ## The Fed Likes to Tout Its Independence. So Why Are Big Banks Lobbying It?
@@ -6298,7 +6298,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-10-19 12:41:04+00:00
  - user: None
- - tags: trans,gender,christianophobia
+ - tags: trans,gender,newspeak,christianophobia
 
 
 ## Media: Putin wprowadza stan wojenny w anektowanych obwodach
@@ -10617,7 +10617,7 @@
  - RSS feed: http://louderwithcrowder.com/feed/
  - date published: 2022-09-06 14:35:25+00:00
  - user: None
- - tags: woke,gender,pronouns,school
+ - tags: woke,newspeak,gender,pronouns,school
 
 
 ## Node.js creator Ryan Dahl urges Oracle to release JavaScript trademark • DEVCLASS

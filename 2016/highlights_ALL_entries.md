@@ -140,6 +140,14 @@
  - tags: movies,spirited away,conspiracy theory
 
 
+## Marshall McLuhan 1977 Interview - Violence as a Quest for Identity
+ - [https://www.youtube.com/watch?v=ULI3x8WIxus](https://www.youtube.com/watch?v=ULI3x8WIxus)
+ - RSS feed: https://www.youtube.com
+ - date published: 2016-06-05 13:07:32+00:00
+ - user: rumpel
+ - tags: surveillence,mcluhan,identity
+
+
 ## Social Autopsy! - Ending Anonymity Online [BAD IDEA]
  - [https://www.youtube.com/watch?v=6SARo5HtjkQ](https://www.youtube.com/watch?v=6SARo5HtjkQ)
  - RSS feed: https://www.youtube.com/@ChrisRayGun

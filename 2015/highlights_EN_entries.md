@@ -35,7 +35,7 @@
  - RSS feed: https://www.youtube.com
  - date published: 2015-09-25 20:42:33+00:00
  - user: rumpel
- - tags: war,all time,ukraine
+ - tags: ukraine,all time,lecture,war
 
 
 ## Secret 'dark net' operation saves scores of children from abuse; ringleader Shannon McCoole behind bars after police take over child porn site

@@ -425,7 +425,7 @@
  - RSS feed: https://ithardware.pl/feed
  - date published: 2022-10-30 13:24:20+00:00
  - user: None
- - tags: zuckerberg,meta,facebook,vr,metaverse
+ - tags: zuckerberg,metaverse,virtual reality,facebook,meta
 
 
 ## Powtórka z wielkiej recesji? W USA słabnie optymizm co do losów przyszłego pokolenia

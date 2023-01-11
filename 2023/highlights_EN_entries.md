@@ -1,9 +1,65 @@
+## UK: Excess deaths in 2022 among worst in 50 years
+ - [https://www.bbc.co.uk/news/health-64209221](https://www.bbc.co.uk/news/health-64209221)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-01-10 11:58:34+00:00
+ - user: rumpel
+ - tags: scienceisdead,covid,vaccine
+
+
+## Tucker Carlson slams Biden administration after lawsuit reveals it censored his show
+ - [https://www.dailymail.co.uk/news/article-11617803/Tucker-Carlson-slams-Biden-administration-lawsuit-reveals-censored-show.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11617803/Tucker-Carlson-slams-Biden-administration-lawsuit-reveals-censored-show.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-01-10 07:14:56+00:00
+ - user: rumpel
+ - tags: facebook,meta,moderation,censorship
+
+
+## Show HN: Ecode – A minimalist and fast open-source code editor
+ - [https://github.com/SpartanJ/ecode](https://github.com/SpartanJ/ecode)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-01-10 05:21:10+00:00
+ - user: rumpel
+ - tags: programming,tools
+
+
+## The mistake that killed Japan’s software industry
+ - [https://www.disruptingjapan.com/the-forgotten-mistake-that-killed-japans-software-industry/](https://www.disruptingjapan.com/the-forgotten-mistake-that-killed-japans-software-industry/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-01-10 04:51:37+00:00
+ - user: rumpel
+ - tags: programming,japan,history
+
+
+## AI-powered lawyer will be first of its kind to represent defendant in court
+ - [https://www.cbsnews.com/news/ai-powered-robot-lawyer-takes-its-first-court-case/](https://www.cbsnews.com/news/ai-powered-robot-lawyer-takes-its-first-court-case/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-01-10 03:56:25+00:00
+ - user: rumpel
+ - tags: artificial intelligence
+
+
+## Microsoft’s new AI can simulate anyone’s voice with 3 seconds of audio
+ - [https://arstechnica.com/?p=1908618](https://arstechnica.com/?p=1908618)
+ - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
+ - date published: 2023-01-09 22:15:19+00:00
+ - user: rumpel
+ - tags: microsoft,artificial intelligence
+
+
 ## Monroe Doctrine
  - [https://en.wikipedia.org/wiki/Monroe_Doctrine](https://en.wikipedia.org/wiki/Monroe_Doctrine)
  - RSS feed: https://en.wikipedia.org
  - date published: 2023-01-09 21:01:12+00:00
  - user: rumpel
  - tags: america,war
+
+
+## CDC publishes language guidelines
+ - [https://reclaimthenet.org/cdc-newspeak/](https://reclaimthenet.org/cdc-newspeak/)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2023-01-09 20:12:54+00:00
+ - user: rumpel
+ - tags: newspeak,orwell,woke
 
 
 ## Adobe is almost definitely using your content to train AI
@@ -43,7 +99,7 @@
  - RSS feed: https://dailysceptic.org/feed/
  - date published: 2023-01-08 15:17:58+00:00
  - user: rumpel
- - tags: kids,trans,gender
+ - tags: woke,trans,kids,gender
 
 
 ## Jordan Peterson releases Ontario College's complaints against him, it's basically a promo for Jordan's Twitter
@@ -86,6 +142,14 @@
  - tags: woke,trans
 
 
+## How secure are RISC-V chips?
+ - [https://semiengineering.com/how-secure-are-risc-v-chips/](https://semiengineering.com/how-secure-are-risc-v-chips/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-01-07 17:52:08+00:00
+ - user: rumpel
+ - tags: riscv
+
+
 ## UK police forces spend £66,000 on LGBT rainbow cars, shoelaces and flags
  - [https://www.telegraph.co.uk/news/2023/01/07/uk-police-forces-spend-66000-lgbt-rainbow-cars-shoelaces-flags/](https://www.telegraph.co.uk/news/2023/01/07/uk-police-forces-spend-66000-lgbt-rainbow-cars-shoelaces-flags/)
  - RSS feed: https://www.telegraph.co.uk
@@ -94,12 +158,20 @@
  - tags: lgbt,uk,inequality,woke,propaganda
 
 
+## The creator economy: the top 1% and everyone else
+ - [https://therationalist.substack.com/p/the-creator-economy-the-top-1-and](https://therationalist.substack.com/p/the-creator-economy-the-top-1-and)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-01-07 13:22:53+00:00
+ - user: rumpel
+ - tags: internet,creator,success
+
+
 ## Media społecznościowe stworzyły pokolenie "przewrażliwionych dzieci". To zagraża kapitalizmowi
  - [https://businessinsider.com.pl/lifestyle/media-spolecznosciowe-stworzyly-pokolenie-przewrazliwionych-dzieci-to-zagraza/kggs4w4](https://businessinsider.com.pl/lifestyle/media-spolecznosciowe-stworzyly-pokolenie-przewrazliwionych-dzieci-to-zagraza/kggs4w4)
  - RSS feed: https://businessinsider.com.pl/.feed
  - date published: 2023-01-07 12:30:00+00:00
  - user: rumpel
- - tags: social media
+ - tags: newspeak,social media
 
 
 ## Satanic Pedophile Ring Shut Victims In oven, Forced Them To Kill Animals & Filmed Them Being Gang Raped
@@ -214,6 +286,15 @@
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2023-01-05 15:55:58+00:00
  - user: rumpel
+ - tags: gender,scienceisdead,science,woke
+
+
+## ‘Disruptive’ science has declined
+ - [https://www.nature.com/articles/d41586-022-04577-5](https://www.nature.com/articles/d41586-022-04577-5)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-01-05 15:39:37+00:00
+ - user: rumpel
+ - tags: scienceisdead
 
 
 ## Control Your Tech Before It Controls You
@@ -269,6 +350,7 @@
  - RSS feed: https://www.engadget.com/rss.xml
  - date published: 2023-01-04 21:17:50+00:00
  - user: rumpel
+ - tags: privacy
 
 
 ## Louis Rossmann fought for THIS!?
