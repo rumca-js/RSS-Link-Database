@@ -194,6 +194,14 @@
  - tags: family,fatherlessness
 
 
+## Who is Bishop McCarrick and what are his crimes?
+ - [https://www.irishcentral.com/news/bishop-mccarrick-crimes](https://www.irishcentral.com/news/bishop-mccarrick-crimes)
+ - RSS feed: https://www.irishcentral.com
+ - date published: 2019-09-30 15:33:50+00:00
+ - user: rumpel
+ - tags: church scandal
+
+
 ## Playing more video games could increase creative thinking at work
  - [https://www.weforum.org/agenda/2019/09/gamification-revolutionise-creative-thinking](https://www.weforum.org/agenda/2019/09/gamification-revolutionise-creative-thinking)
  - RSS feed: https://www.weforum.org

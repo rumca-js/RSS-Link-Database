@@ -55,7 +55,7 @@
  - RSS feed: https://ithardware.pl/feed
  - date published: 2022-12-23 09:35:20+00:00
  - user: rumpel
- - tags: apple,russia,china,censorship
+ - tags: surveillance,censorship,apple,russia,china
 
 
 ## Zanim kupisz samochód elektryczny, przejedź się nim zimą. Wpis spod ładowarki
@@ -1005,6 +1005,14 @@
  - RSS feed: https://wydarzenia.interia.pl/feed
  - date published: 2022-10-05 17:06:55+00:00
  - user: None
+
+
+## Wtedy po raz pierwszy nie stanął w prawdzie. Abp Jędraszewski a sprawa abp. Paetza
+ - [https://wiez.pl/2022/10/05/jedraszewski-nie-stanal-w-prawdzie/](https://wiez.pl/2022/10/05/jedraszewski-nie-stanal-w-prawdzie/)
+ - RSS feed: https://wiez.pl
+ - date published: 2022-10-05 15:35:05+00:00
+ - user: rumpel
+ - tags: poland,church scandal
 
 
 ## Czechy wprowadziły ceny maksymalne na energię elektryczną i gaz

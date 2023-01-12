@@ -291,7 +291,7 @@
  - RSS feed: www.zdnet.com
  - date published: 2018-04-10 06:43:44+00:00
  - user: None
- - tags: ads,adeconomy,internet
+ - tags: internet,ads,all time,adeconomy
 
 
 ## How much VR user data is Oculus giving to Facebook?

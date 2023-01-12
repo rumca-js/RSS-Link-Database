@@ -1147,7 +1147,7 @@
  - RSS feed: https://hackernoon.com
  - date published: 2021-10-15 10:47:45+00:00
  - user: rumpel
- - tags: surveillance,privacy,cbdc
+ - tags: cbdc,privacy,all time,surveillance
 
 
 ## Missouri governor vows criminal prosecution of reporter who found flaw in state website • Missouri Independent
@@ -3456,6 +3456,14 @@
  - date published: 2021-03-12 20:26:11+00:00
  - user: None
  - tags: propaganda,youtube
+
+
+## A man lives in a society where citizens police each other with their mobile phones. | Utopia
+ - [https://www.youtube.com/watch?v=vJYaXy5mmA8](https://www.youtube.com/watch?v=vJYaXy5mmA8)
+ - RSS feed: https://www.youtube.com
+ - date published: 2021-03-12 15:09:15+00:00
+ - user: rumpel
+ - tags: digital id,orwell,bigbrother,surveillence,utopia
 
 
 ## Printed to Death: Dollar Due to Crash in 2021

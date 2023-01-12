@@ -178,7 +178,7 @@
  - RSS feed: https://ithardware.pl
  - date published: 2021-05-16 13:02:46+00:00
  - user: rumpel
- - tags: covid,misinformation,censorship,vaccine,moderation,facebook
+ - tags: censorship,covid,moderation,vaccine,propaganda,facebook,misinformation
 
 
 ## Rodzice twierdzą, że ich 4-letnie dziecko jest transpłciowe [WIDEO]

@@ -1,3 +1,27 @@
+## Lying for a Climate Crusade
+ - [https://cremieux.substack.com/p/lying-for-climate-crusading](https://cremieux.substack.com/p/lying-for-climate-crusading)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-01-11 14:52:23+00:00
+ - user: rumpel
+ - tags: climate change,sjw,fake activism,scienceisdead
+
+
+## Django Styleguide
+ - [https://github.com/HackSoftware/Django-Styleguide](https://github.com/HackSoftware/Django-Styleguide)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-01-11 12:31:52+00:00
+ - user: rumpel
+ - tags: programming,django
+
+
+## Clever code considered harmful
+ - [https://www.joshwcomeau.com/career/clever-code-considered-harmful/](https://www.joshwcomeau.com/career/clever-code-considered-harmful/)
+ - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
+ - date published: 2023-01-11 05:00:00+00:00
+ - user: rumpel
+ - tags: clean code,programming
+
+
 ## UK: Excess deaths in 2022 among worst in 50 years
  - [https://www.bbc.co.uk/news/health-64209221](https://www.bbc.co.uk/news/health-64209221)
  - RSS feed: https://hnrss.org/frontpage
@@ -218,6 +242,14 @@
  - date published: 2023-01-06 11:00:48+00:00
  - user: rumpel
  - tags: antisemitism,israel,censorship,america
+
+
+## Six Hardest Truths of 2023
+ - [https://www.youtube.com/watch?v=oknQHbKFTZE](https://www.youtube.com/watch?v=oknQHbKFTZE)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg
+ - date published: 2023-01-06 07:49:05+00:00
+ - user: rumpel
+ - tags: future,civilisation
 
 
 ## Desperate father pleads with his pediatrician wife NOT to chemically castrate their son, 9

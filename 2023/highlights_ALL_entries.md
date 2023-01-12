@@ -1,3 +1,67 @@
+## Policja znowu kupuje izraelską technologię szpiegowską Cellebrite
+ - [https://tvn24.pl/polska/policja-znowu-kupuje-cellebrite-czym-jest-ta-izraelska-technologia-szpiegowska-6624777?source=rss](https://tvn24.pl/polska/policja-znowu-kupuje-cellebrite-czym-jest-ta-izraelska-technologia-szpiegowska-6624777?source=rss)
+ - RSS feed: https://tvn24.pl/najwazniejsze.xml
+ - date published: 2023-01-11 16:08:10+00:00
+ - user: rumpel
+ - tags: poland,cellebrite,surveillence,privacy
+
+
+## Szokujące ustalenia prokuratury w sprawie księdza pedofila. Gdyby bp Skworc reagował, udałoby się uniknąć wielu dramatów
+ - [https://www.onet.pl/informacje/onetwiadomosci/szokujace-ustalenia-prokuratury-w-sprawie-ksiedza-pedofila-nie-poniosl-kary/yns502l,79cfc278](https://www.onet.pl/informacje/onetwiadomosci/szokujace-ustalenia-prokuratury-w-sprawie-ksiedza-pedofila-nie-poniosl-kary/yns502l,79cfc278)
+ - RSS feed: https://www.onet.pl
+ - date published: 2023-01-11 15:32:06+00:00
+ - user: rumpel
+ - tags: church scandal
+
+
+## Lying for a Climate Crusade
+ - [https://cremieux.substack.com/p/lying-for-climate-crusading](https://cremieux.substack.com/p/lying-for-climate-crusading)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-01-11 14:52:23+00:00
+ - user: rumpel
+ - tags: climate change,sjw,fake activism,scienceisdead
+
+
+## Karcher przyznał się do zawyżania cen sprzętu w Polsce przez ponad 20 lat - Instalki.pl
+ - [https://www.instalki.pl/aktualnosci/hardware/57669-karcher-przyznal-sie-do-zawyzania-cen-sprzetu-w-polsce-przez-ponad-20-lat.html](https://www.instalki.pl/aktualnosci/hardware/57669-karcher-przyznal-sie-do-zawyzania-cen-sprzetu-w-polsce-przez-ponad-20-lat.html)
+ - RSS feed: https://www.instalki.pl
+ - date published: 2023-01-11 14:01:12.536383+00:00
+ - user: rumpel
+ - tags: corruption,monopoly
+
+
+## Polski rząd poszerza możliwość elektronicznej inwigilacji obywateli wbrew prawu UE - Instalki.pl
+ - [https://www.instalki.pl/aktualnosci/bezpieczenstwo/57671-inwigilacja-internet-suzby-polska-ue-prawo.html](https://www.instalki.pl/aktualnosci/bezpieczenstwo/57671-inwigilacja-internet-suzby-polska-ue-prawo.html)
+ - RSS feed: https://www.instalki.pl
+ - date published: 2023-01-11 14:01:11.645010+00:00
+ - user: rumpel
+ - tags: surveillance,poland
+
+
+## Zawartość „chmury”, komunikatorów, usunięte treści. Nowa policyjna broń w walce z przestępczością?
+ - [https://www.rmf24.pl/fakty/news-zawartosc-chmury-komunikatorow-usuniete-tresci-nowa-policyjn,nId,6527601#crp_state=1](https://www.rmf24.pl/fakty/news-zawartosc-chmury-komunikatorow-usuniete-tresci-nowa-policyjn,nId,6527601#crp_state=1)
+ - RSS feed: https://www.rmf24.pl
+ - date published: 2023-01-11 13:12:54+00:00
+ - user: rumpel
+ - tags: moderation,surveillence,subscription,privacy,misinformation
+
+
+## Django Styleguide
+ - [https://github.com/HackSoftware/Django-Styleguide](https://github.com/HackSoftware/Django-Styleguide)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-01-11 12:31:52+00:00
+ - user: rumpel
+ - tags: programming,django
+
+
+## Clever code considered harmful
+ - [https://www.joshwcomeau.com/career/clever-code-considered-harmful/](https://www.joshwcomeau.com/career/clever-code-considered-harmful/)
+ - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
+ - date published: 2023-01-11 05:00:00+00:00
+ - user: rumpel
+ - tags: clean code,programming
+
+
 ## UK: Excess deaths in 2022 among worst in 50 years
  - [https://www.bbc.co.uk/news/health-64209221](https://www.bbc.co.uk/news/health-64209221)
  - RSS feed: https://hnrss.org/frontpage
@@ -249,6 +313,14 @@
  - date published: 2023-01-06 09:02:21+00:00
  - user: rumpel
  - tags: israel,christianophobia
+
+
+## Six Hardest Truths of 2023
+ - [https://www.youtube.com/watch?v=oknQHbKFTZE](https://www.youtube.com/watch?v=oknQHbKFTZE)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg
+ - date published: 2023-01-06 07:49:05+00:00
+ - user: rumpel
+ - tags: future,civilisation
 
 
 ## Desperate father pleads with his pediatrician wife NOT to chemically castrate their son, 9

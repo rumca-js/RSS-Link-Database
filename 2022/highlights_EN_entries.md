@@ -1968,6 +1968,14 @@
  - tags: k george soros,billionaires,elites,media,soros
 
 
+## Report: Climate Lockdowns Being Tested in UK as Oxford County Councillors to Introduce Trial in 2024
+ - [https://yournews.com/2022/12/06/2467541/report-climate-lockdowns-being-tested-in-uk-as-oxford-county/](https://yournews.com/2022/12/06/2467541/report-climate-lockdowns-being-tested-in-uk-as-oxford-county/)
+ - RSS feed: https://yournews.com
+ - date published: 2022-12-06 12:43:29+00:00
+ - user: rumpel
+ - tags: climate change,lockdown
+
+
 ## Gmail creator predicts total disruption for Google as chatbot ChatGPT challenges tech giant monopoly
  - [http://www.msn.com/en-us/news/technology/gmail-creator-predicts-total-disruption-for-google-as-chatbot-chatgpt-challenges-tech-giant-monopoly/ar-AA14Xtpn?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/gmail-creator-predicts-total-disruption-for-google-as-chatbot-chatgpt-challenges-tech-giant-monopoly/ar-AA14Xtpn?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
@@ -2379,6 +2387,14 @@
  - tags: zerocovid,censorship,china
 
 
+## Show HN: SinglePage – Quickly and anonymously publish a page to the web
+ - [https://singlepage.cc/](https://singlepage.cc/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-11-29 20:14:31+00:00
+ - user: rumpel
+ - tags: internet,programming,hosting
+
+
 ## Twitter Quietly Removes Its Covid-19 Misinformation Policy
  - [https://gizmodo.com/twitter-misinformation-covid-19-elon-musk-1849830635](https://gizmodo.com/twitter-misinformation-covid-19-elon-musk-1849830635)
  - RSS feed: https://gizmodo.com/rss
@@ -2697,6 +2713,14 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-24 05:09:28+00:00
  - user: None
+
+
+## New Visa Card Features Personal Carbon Emissions Tracker
+ - [https://www.theepochtimes.com/new-visa-card-features-personal-carbon-emissions-tracker_4881506.html](https://www.theepochtimes.com/new-visa-card-features-personal-carbon-emissions-tracker_4881506.html)
+ - RSS feed: https://www.theepochtimes.com/c-tech/feed/
+ - date published: 2022-11-24 03:17:29+00:00
+ - user: rumpel
+ - tags: carbon footprint,climate change
 
 
 ## Zero-Covid China asks: Is World Cup on another planet?
@@ -3394,14 +3418,6 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-09 01:06:29+00:00
  - user: None
-
-
-## While Failing to Save the Planet
- - [https://www.youtube.com/watch?v=NIMLW2RundY](https://www.youtube.com/watch?v=NIMLW2RundY)
- - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q
- - date published: 2022-11-08 21:28:11+00:00
- - user: None
- - tags: peterson,woke,climate change
 
 
 ## The Lie That Facebook Sold You
@@ -4336,6 +4352,14 @@
  - tags: lgbt,netherlands,woke
 
 
+## 'Zero Emissions' from Electric Vehicles? Here's Why That Claim Has Zero Basis
+ - [https://www.realclearinvestigations.com/articles/2022/10/27/zero_emissions_from_electric_vehicles_heres_why_that_claim_has_zero_basis_860938.html](https://www.realclearinvestigations.com/articles/2022/10/27/zero_emissions_from_electric_vehicles_heres_why_that_claim_has_zero_basis_860938.html)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-10-29 09:48:25+00:00
+ - user: rumpel
+ - tags: climate change,electric vehicles
+
+
 ## #COVIDIsAirborne #BringBackMasks Trend, Questioning CDC Director’s Tweet on Covid-19 Precautions
  - [https://www.forbes.com/sites/brucelee/2022/10/29/covidisairborne-bringbackmasks-trend-questioning-cdc-directors-tweet-on-covid-19-precautions/](https://www.forbes.com/sites/brucelee/2022/10/29/covidisairborne-bringbackmasks-trend-questioning-cdc-directors-tweet-on-covid-19-precautions/)
  - RSS feed: https://www.forbes.com/innovation/feed2
@@ -4752,6 +4776,14 @@
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-10-26 14:03:35+00:00
  - user: None
+
+
+## The only way of being anonymous in Sweden is illegal
+ - [https://commit.pizza/2022/10/16/the-only-way-of-being-anonymous-in-sweden-is-illegal/](https://commit.pizza/2022/10/16/the-only-way-of-being-anonymous-in-sweden-is-illegal/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-10-26 13:50:50+00:00
+ - user: rumpel
+ - tags: law,anonymity,privacy
 
 
 ## Only 42% of Americans think today's youth will have a better life than their parents
@@ -8429,6 +8461,14 @@
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-09 16:04:08+00:00
  - user: None
+
+
+## Companies are buying large numbers of carbon offsets that don’t cut emissions
+ - [https://www.wsj.com/articles/renewables-carbon-credits-do-not-cut-emissions-united-nations-verra-gold-standard-11662644900](https://www.wsj.com/articles/renewables-carbon-credits-do-not-cut-emissions-united-nations-verra-gold-standard-11662644900)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-09-09 16:01:08+00:00
+ - user: rumpel
+ - tags: carbon,climate change,emissions
 
 
 ## Ask HN: Why do we need central bank digital currency (CBDC)?
@@ -12505,7 +12545,7 @@
  - RSS feed: https://dkb.io/post/google-search-is-dying
  - date published: 2022-02-15 15:45:06+00:00
  - user: None
- - tags: dead internet,google,algorithm,google search,ads
+ - tags: ads,google search,all time,dead internet,google,algorithm
 
 
 ## Jerry and Marge Selbee: How a retired couple won millions using a lottery loophole - 60 Minutes - CBS News

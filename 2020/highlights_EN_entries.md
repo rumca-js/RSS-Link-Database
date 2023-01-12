@@ -897,7 +897,7 @@
  - RSS feed: https://www.youtube.com/@JoshStrifeHayes
  - date published: 2020-02-17 20:52:51+00:00
  - user: None
- - tags: youtube,dead internet
+ - tags: all time,dead internet,youtube
 
 
 ## Facebook, Amazon, Google and more met with WHO to figure out how to stop coronavirus misinformation
