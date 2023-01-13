@@ -2219,6 +2219,14 @@
  - tags: government,big tech,election,censorship
 
 
+## The reasons search seems to be getting worse
+ - [https://seths.blog/2022/12/the-reasons-search-is-getting-worse/](https://seths.blog/2022/12/the-reasons-search-is-getting-worse/)
+ - RSS feed: https://seths.blog
+ - date published: 2022-12-02 14:33:55+00:00
+ - user: rumpel
+ - tags: dead internet,google,search engine
+
+
 ## Smartphones wiped out 97% of the compact camera market
  - [https://asia.nikkei.com/Business/Business-trends/Panasonic-Nikon-quit-developing-low-end-compact-digital-cameras](https://asia.nikkei.com/Business/Business-trends/Panasonic-Nikon-quit-developing-low-end-compact-digital-cameras)
  - RSS feed: https://hnrss.org/frontpage
@@ -4565,13 +4573,6 @@
  - [https://www.foxnews.com/media/democrats-wondering-why-we-suck-they-face-possible-midterm-losses-politico-column](https://www.foxnews.com/media/democrats-wondering-why-we-suck-they-face-possible-midterm-losses-politico-column)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-10-27 18:00:34+00:00
- - user: None
-
-
-## CatholicVote dumps $2 million into blocking Catholic Dems from office: 'Clearing out the trash'
- - [https://www.foxnews.com/politics/catholicvote-dumps-2-million-blocking-catholic-dems-office-clearing-trash](https://www.foxnews.com/politics/catholicvote-dumps-2-million-blocking-catholic-dems-office-clearing-trash)
- - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
- - date published: 2022-10-27 17:24:25+00:00
  - user: None
 
 
@@ -7291,13 +7292,6 @@
  - [https://www.dailymail.co.uk/news/article-11241193/Inside-billionaires-doomsday-bunkers-Secret-subterranean-palaces-food-five-years.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11241193/Inside-billionaires-doomsday-bunkers-Secret-subterranean-palaces-food-five-years.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-22 23:22:22+00:00
- - user: None
-
-
-## Catholic Biden suggests his CHURCH believes in exceptions for rape or incest for abortion
- - [https://www.dailymail.co.uk/news/article-11241075/Catholic-Biden-suggests-CHURCH-believes-exceptions-rape-incest-abortion.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11241075/Catholic-Biden-suggests-CHURCH-believes-exceptions-rape-incest-abortion.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - RSS feed: https://www.dailymail.co.uk/news/index.rss
- - date published: 2022-09-22 22:41:37+00:00
  - user: None
 
 

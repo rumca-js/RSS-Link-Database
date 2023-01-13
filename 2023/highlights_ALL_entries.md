@@ -1,3 +1,62 @@
+## Ursula von der Leyen ma być przesłuchiwana w PE. Chodzi o szczepionki
+ - [https://www.rmf24.pl/raporty/raport-program-szczepien-przeciw-covid/news-ursula-von-der-leyen-ma-byc-przesluchiwana-w-pe-chodzi-o-szc,nId,6530045#crp_state=1](https://www.rmf24.pl/raporty/raport-program-szczepien-przeciw-covid/news-ursula-von-der-leyen-ma-byc-przesluchiwana-w-pe-chodzi-o-szc,nId,6530045#crp_state=1)
+ - RSS feed: https://www.rmf24.pl
+ - date published: 2023-01-12 22:03:51+00:00
+ - user: rumpel
+ - tags: corruption,vaccine,covid
+
+
+## ExxonMobil accurately predicted climate change while publicly dismissing it
+ - [https://www.theverge.com/23550834/exxonmobil-climate-change-predictions-shockingly-accurate](https://www.theverge.com/23550834/exxonmobil-climate-change-predictions-shockingly-accurate)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-01-12 19:00:00+00:00
+ - user: rumpel
+
+
+## Own Your Data
+ - [https://yourdigitalrights.org](https://yourdigitalrights.org)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-01-12 18:57:01+00:00
+ - user: rumpel
+
+
+## Czy i statki będą na prąd? | Niezalezna.pl
+ - [https://niezalezna.pl/471243-czy-i-statki-beda-na-prad](https://niezalezna.pl/471243-czy-i-statki-beda-na-prad)
+ - RSS feed: https://niezalezna.pl/
+ - date published: 2023-01-12 16:10:06.053921+00:00
+ - user: rumpel
+
+
+## The Hidden Consequences Of The Plastic Pollution Crisis
+ - [https://www.forbes.com/sites/mariannelehnis/2023/01/12/the-hidden-consequences-of-the-plastic-pollution-crisis/](https://www.forbes.com/sites/mariannelehnis/2023/01/12/the-hidden-consequences-of-the-plastic-pollution-crisis/)
+ - RSS feed: https://www.forbes.com/innovation/feed2
+ - date published: 2023-01-12 16:07:12+00:00
+ - user: rumpel
+
+
+## YouTube's new profanity rules are punishing creators retroactively, and they're furious
+ - [https://www.pcgamer.com/youtubes-new-profanity-rules-are-punishing-creators-retroactively-and-theyre-furious](https://www.pcgamer.com/youtubes-new-profanity-rules-are-punishing-creators-retroactively-and-theyre-furious)
+ - RSS feed: http://www.pcgamer.com/rss
+ - date published: 2023-01-12 13:00:50+00:00
+ - user: rumpel
+
+
+## Zutylizowany COVID-19. W europejskich magazynach leży ok. 430 mln dawek szczepionek
+ - [https://forsal.pl/lifestyle/zdrowie/artykuly/8633471,zutylizowany-covid-19-w-magazynach-lezy-430-mln-dawek-szczepionek.html](https://forsal.pl/lifestyle/zdrowie/artykuly/8633471,zutylizowany-covid-19-w-magazynach-lezy-430-mln-dawek-szczepionek.html)
+ - RSS feed: https://forsal.pl/.feed
+ - date published: 2023-01-12 07:17:41+00:00
+ - user: rumpel
+ - tags: vaccine,covid
+
+
+## JPMorgan Honcho ‘May Have Been Involved’ in Epstein Sex Ring, Lawsuit Alleges
+ - [http://www.msn.com/en-us/news/crime/jpmorgan-honcho-may-have-been-involved-in-epstein-sex-ring-lawsuit-alleges/ar-AA16edBA?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/crime/jpmorgan-honcho-may-have-been-involved-in-epstein-sex-ring-lawsuit-alleges/ar-AA16edBA?li=BBnbcA1&srcref=rss)
+ - RSS feed: http://www.msn.com/rss/news.aspx
+ - date published: 2023-01-11 20:02:43.857380+00:00
+ - user: rumpel
+ - tags: epstein,jpmorgan
+
+
 ## Policja znowu kupuje izraelską technologię szpiegowską Cellebrite
  - [https://tvn24.pl/polska/policja-znowu-kupuje-cellebrite-czym-jest-ta-izraelska-technologia-szpiegowska-6624777?source=rss](https://tvn24.pl/polska/policja-znowu-kupuje-cellebrite-czym-jest-ta-izraelska-technologia-szpiegowska-6624777?source=rss)
  - RSS feed: https://tvn24.pl/najwazniejsze.xml
@@ -126,6 +185,14 @@
  - tags: newspeak,orwell,woke
 
 
+## Lizzo says cancel culture has become 'misused and misdirected'
+ - [https://www.cnn.com/2023/01/09/entertainment/lizzo-cancel-culture/index.html](https://www.cnn.com/2023/01/09/entertainment/lizzo-cancel-culture/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2023-01-09 15:55:11+00:00
+ - user: rumpel
+ - tags: woke,cancel culture,censorship
+
+
 ## Adobe is almost definitely using your content to train AI
  - [https://www.techradar.com/news/adobe-is-almost-definitely-using-your-content-to-train-ai](https://www.techradar.com/news/adobe-is-almost-definitely-using-your-content-to-train-ai)
  - RSS feed: https://www.techradar.com/rss
@@ -140,14 +207,6 @@
  - date published: 2023-01-09 14:19:19+00:00
  - user: rumpel
  - tags: co2,climate change,germany
-
-
-## Why Big Tech Is Collapsing: The Coming Big Tech Crisis
- - [https://www.youtube.com/watch?v=2T9s62BbwCg](https://www.youtube.com/watch?v=2T9s62BbwCg)
- - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCmFeOdJI3IXgTBDzqBLD8qg
- - date published: 2023-01-08 21:22:16+00:00
- - user: rumpel
- - tags: big tech,crisis
 
 
 ## Ex-Virginia Tech soccer player allegedly benched for refusing to kneel gets $100K settlement: attorney
@@ -289,6 +348,14 @@
  - RSS feed: https://www.instalki.pl
  - date published: 2023-01-06 20:08:36.080047+00:00
  - user: rumpel
+
+
+## Poland increasingly turns its back on the Catholic Church
+ - [https://www.lemonde.fr/en/international/article/2023/01/06/poland-increasingly-turns-its-back-on-the-catholic-church_6010548_4.html](https://www.lemonde.fr/en/international/article/2023/01/06/poland-increasingly-turns-its-back-on-the-catholic-church_6010548_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-01-06 11:09:51+00:00
+ - user: rumpel
+ - tags: church,poland
 
 
 ## Harvard blocks role for former Human Rights Watch head over Israel criticism
@@ -454,6 +521,14 @@
  - date published: 2023-01-04 21:17:50+00:00
  - user: rumpel
  - tags: privacy
+
+
+## Rep. Adam Schiff’s office asked Twitter to ban New York Post columnist Paul Sperry — Twitter Files
+ - [https://reclaimthenet.org/adam-schiff-twitter-ban-paul-sperry/](https://reclaimthenet.org/adam-schiff-twitter-ban-paul-sperry/)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2023-01-04 19:26:14+00:00
+ - user: rumpel
+ - tags: twitter files
 
 
 ## Louis Rossmann fought for THIS!?

@@ -1,3 +1,18 @@
+## Czy i statki będą na prąd? | Niezalezna.pl
+ - [https://niezalezna.pl/471243-czy-i-statki-beda-na-prad](https://niezalezna.pl/471243-czy-i-statki-beda-na-prad)
+ - RSS feed: https://niezalezna.pl/
+ - date published: 2023-01-12 16:10:06.053921+00:00
+ - user: rumpel
+
+
+## Zutylizowany COVID-19. W europejskich magazynach leży ok. 430 mln dawek szczepionek
+ - [https://forsal.pl/lifestyle/zdrowie/artykuly/8633471,zutylizowany-covid-19-w-magazynach-lezy-430-mln-dawek-szczepionek.html](https://forsal.pl/lifestyle/zdrowie/artykuly/8633471,zutylizowany-covid-19-w-magazynach-lezy-430-mln-dawek-szczepionek.html)
+ - RSS feed: https://forsal.pl/.feed
+ - date published: 2023-01-12 07:17:41+00:00
+ - user: rumpel
+ - tags: vaccine,covid
+
+
 ## Policja znowu kupuje izraelską technologię szpiegowską Cellebrite
  - [https://tvn24.pl/polska/policja-znowu-kupuje-cellebrite-czym-jest-ta-izraelska-technologia-szpiegowska-6624777?source=rss](https://tvn24.pl/polska/policja-znowu-kupuje-cellebrite-czym-jest-ta-izraelska-technologia-szpiegowska-6624777?source=rss)
  - RSS feed: https://tvn24.pl/najwazniejsze.xml
