@@ -1,0 +1,19 @@
+
+<?xml version="1.0" encoding="UTF-8" ?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+        xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+        xmlns:webfeeds="http://webfeeds.org/rss/1.0"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
+<channel>
+  <title>RSS history</title>
+  <atom:link href="https://ithardware.pl/feed" rel="self" type="application/rss+xml" />
+  <link>https://renegat0x0.ddns.net/</link>
+  <description>RSS archive</description>
+  <language>en-US</language>
+<item><title>![CDATA[The case of the 500-mile email]]</title><description>![CDATA[The case of the 500-mile email]]</description><pubDate>2002-11-24 09:11:06+00:00</pubDate><link>https://www.ibiblio.org/harris/500milemail.html</link></item><guid isPermaLink="false">https://www.ibiblio.org/harris/500milemail.html</guid>
+<item><title>![CDATA[Jeffrey Epstein: International Moneyman of Mystery]]</title><description>![CDATA[Jeffrey Epstein: International Moneyman of Mystery]]</description><pubDate>2002-10-28 20:06:02+00:00</pubDate><link>https://nymag.com/nymetro/news/people/n_7912/</link></item><guid isPermaLink="false">https://nymag.com/nymetro/news/people/n_7912/</guid>
+</channel></rss>

@@ -1,0 +1,21 @@
+
+<?xml version="1.0" encoding="UTF-8" ?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+        xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+        xmlns:webfeeds="http://webfeeds.org/rss/1.0"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
+<channel>
+  <title>RSS history</title>
+  <atom:link href="https://ithardware.pl/feed" rel="self" type="application/rss+xml" />
+  <link>https://renegat0x0.ddns.net/</link>
+  <description>RSS archive</description>
+  <language>en-US</language>
+<item><title>![CDATA[Niemcy są "zielone" tylko w teorii? Należąca do RWE kopalnia chce wyciąć las, który ma 12 tys. lat]]</title><description>![CDATA[Niemcy są "zielone" tylko w teorii? Należąca do RWE kopalnia chce wyciąć las, który ma 12 tys. lat]]</description><pubDate>2018-12-05 14:17:58+00:00</pubDate><link>https://forsal.pl/artykuly/1376241,las-w-hambach-nalezaca-do-rwe-kopalnia-chce-wyciac-las-ktory-ma-12-tys-lat.html</link></item><guid isPermaLink="false">https://forsal.pl/artykuly/1376241,las-w-hambach-nalezaca-do-rwe-kopalnia-chce-wyciac-las-ktory-ma-12-tys-lat.html</guid>
+<item><title>![CDATA[Joe Rogan - Exposing Social Justice with Peter Boghossian & James Lindsay]]</title><description>![CDATA[Joe Rogan - Exposing Social Justice with Peter Boghossian & James Lindsay]]</description><pubDate>2018-10-30 20:27:37+00:00</pubDate><link>https://www.youtube.com/watch?v=OlqU_JMTzd4</link></item><guid isPermaLink="false">https://www.youtube.com/watch?v=OlqU_JMTzd4</guid>
+<item><title>![CDATA[Young Catholics vs LGBT Bullies in the Netherlands]]</title><description>![CDATA[Young Catholics vs LGBT Bullies in the Netherlands]]</description><pubDate>2018-03-14 20:40:28+00:00</pubDate><link>https://www.youtube.com/watch?v=47gQDbTaWqA</link></item><guid isPermaLink="false">https://www.youtube.com/watch?v=47gQDbTaWqA</guid>
+<item><title>![CDATA[niePatenty - Maciej Drozdowski]]</title><description>![CDATA[niePatenty - Maciej Drozdowski]]</description><pubDate>2018-01-05 09:05:09+00:00</pubDate><link>http://www.cs.put.poznan.pl/mdrozdowski/txt/niePatenty.pdf</link></item><guid isPermaLink="false">http://www.cs.put.poznan.pl/mdrozdowski/txt/niePatenty.pdf</guid>
+</channel></rss>
