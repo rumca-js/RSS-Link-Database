@@ -1,3 +1,27 @@
+## How Police Exploited the Capitol Riot’s Digital Records
+ - [https://spectrum.ieee.org/capitol-riot](https://spectrum.ieee.org/capitol-riot)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-01-14 12:29:07+00:00
+ - user: rumpel
+ - tags: jan6,surveillance,privacy
+
+
+## Beautiful Soup: Build a Web Scraper With Python – Real Python
+ - [https://realpython.com/beautiful-soup-web-scraper-python/](https://realpython.com/beautiful-soup-web-scraper-python/)
+ - RSS feed: https://realpython.com
+ - date published: 2023-01-14 10:27:20+00:00
+ - user: rumpel
+ - tags: programming,webscraping,python
+
+
+## Routine vaccinations drop among U.S. kindergartners for the third year in a row
+ - [https://www.statnews.com/2023/01/12/routine-vaccinations-kindergartners/](https://www.statnews.com/2023/01/12/routine-vaccinations-kindergartners/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-01-14 10:21:59+00:00
+ - user: rumpel
+ - tags: vaccine
+
+
 ## Pierwsze odszkodowania za NOP-y już wypłacone. Kwota robi wrażenie
  - [https://businessinsider.com.pl/wiadomosci/pierwsze-odszkodowania-za-nop-y-juz-wyplacone-kwota-robi-wrazenie/p79g6te](https://businessinsider.com.pl/wiadomosci/pierwsze-odszkodowania-za-nop-y-juz-wyplacone-kwota-robi-wrazenie/p79g6te)
  - RSS feed: https://businessinsider.com.pl/.feed
@@ -22,12 +46,28 @@
  - tags: meta,privacy,surveillance,facebook
 
 
+## Why Modern Movies Suck - They Can't Write Men (Part 1)
+ - [https://www.youtube.com/watch?v=tUWe11I_7Oo](https://www.youtube.com/watch?v=tUWe11I_7Oo)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA
+ - date published: 2023-01-13 23:00:02+00:00
+ - user: rumpel
+ - tags: woke,feminism,propaganda
+
+
 ## GitHub – pi-hole/pi-hole: A black hole for Internet advertisements
  - [https://github.com/pi-hole/pi-hole](https://github.com/pi-hole/pi-hole)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2023-01-13 22:22:31+00:00
  - user: rumpel
  - tags: raspberry,digital bunker,smarthome
+
+
+## Private jet emissions sky-high at Davos, group says
+ - [https://thehill.com/policy/equilibrium-sustainability/3812793-private-jet-emissions-sky-high-at-davos-group-says/](https://thehill.com/policy/equilibrium-sustainability/3812793-private-jet-emissions-sky-high-at-davos-group-says/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-01-13 22:20:10+00:00
+ - user: rumpel
+ - tags: davos,climate change,hypocrisy,wef
 
 
 ## Google warns court against changing liability shield for internet companies
@@ -67,7 +107,7 @@
  - RSS feed: https://archive.org
  - date published: 2023-01-13 14:35:11+00:00
  - user: rumpel
- - tags: internet
+ - tags: internet,archive
 
 
 ## The Satanic Temple - Wikipedia
@@ -163,6 +203,14 @@
  - date published: 2023-01-12 18:57:01+00:00
  - user: rumpel
  - tags: surveillence,privacy
+
+
+## Vast majority of Brazilians condemn riots as more than 2,000 held by police
+ - [https://www.cnn.com/2023/01/12/americas/brazil-riots-condemned-polling-intl/index.html](https://www.cnn.com/2023/01/12/americas/brazil-riots-condemned-polling-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2023-01-12 16:48:09+00:00
+ - user: rumpel
+ - tags: brazil,government,jan6
 
 
 ## Czy i statki będą na prąd? | Niezalezna.pl
@@ -295,6 +343,14 @@
  - date published: 2023-01-11 05:00:00+00:00
  - user: rumpel
  - tags: clean code,programming
+
+
+## Brazil riots trigger widespread content bans on Facebook, YouTube
+ - [https://arstechnica.com/?p=1908844](https://arstechnica.com/?p=1908844)
+ - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
+ - date published: 2023-01-10 17:44:21+00:00
+ - user: rumpel
+ - tags: brazil,moderation,facebook,youtube
 
 
 ## UK: Excess deaths in 2022 among worst in 50 years

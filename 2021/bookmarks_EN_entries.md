@@ -1858,6 +1858,14 @@
  - tags: censorship,bigbrother,government
 
 
+## Thousands of posts around January 6 riots go missing from Facebook transparency tool – POLITICO
+ - [https://www.politico.eu/article/facebook-crowdtangle-data-january-6-capitol-hill-riots-transparency/](https://www.politico.eu/article/facebook-crowdtangle-data-january-6-capitol-hill-riots-transparency/)
+ - RSS feed: https://www.politico.eu
+ - date published: 2021-08-31 22:20:41+00:00
+ - user: rumpel
+ - tags: jan6,facebook
+
+
 ## Is Your Phone Recording Your Conversations? The Answer Might Surprise You.
  - [https://www.huffpost.com/entry/smartphone-devices-recording-privacy_l_5d570869e4b056fafd0bbc09](https://www.huffpost.com/entry/smartphone-devices-recording-privacy_l_5d570869e4b056fafd0bbc09)
  - RSS feed: www.huffpost.com

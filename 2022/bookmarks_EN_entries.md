@@ -6219,7 +6219,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-10-07 05:39:48+00:00
  - user: None
- - tags: backup
+ - tags: backup,archive
 
 
 ## Meta’s flagship metaverse app is too buggy and employees are barely using it, says exec in charge
@@ -9347,7 +9347,7 @@
  - RSS feed: https://www.scrapingbee.com
  - date published: 2022-08-25 08:39:50+00:00
  - user: rumpel
- - tags: webscraping,programming
+ - tags: programming,webscraping,python
 
 
 ## Zbigniew Brzeziński Obawia się Globalnego Przebudzenia
