@@ -1,9 +1,31 @@
+## Samochody elektryczne to poważne zagrożenie dla innych pojazdów. O tym się nie mówi - Instalki.pl
+ - [https://www.instalki.pl/aktualnosci/technika/57737-samochody-elektryczne-masa-zagrozenie-dla-innych-pojazdow.html](https://www.instalki.pl/aktualnosci/technika/57737-samochody-elektryczne-masa-zagrozenie-dla-innych-pojazdow.html)
+ - RSS feed: https://www.instalki.pl
+ - date published: 2023-01-15 12:31:43.878419+00:00
+ - user: rumpel
+
+
+## Coraz więcej krajów zakazuje smartfonów w szkołach. Za ich używanie grożą poważne kary
+ - [https://forsal.pl/lifestyle/edukacja/artykuly/8635874,smartfon-w-szkole-zakaz-kraje-europy-powazne-kary.html](https://forsal.pl/lifestyle/edukacja/artykuly/8635874,smartfon-w-szkole-zakaz-kraje-europy-powazne-kary.html)
+ - RSS feed: https://forsal.pl/.feed
+ - date published: 2023-01-15 07:42:27+00:00
+ - user: rumpel
+
+
 ## Ursula von der Leyen ma być przesłuchiwana w PE. Chodzi o szczepionki
  - [https://www.rmf24.pl/raporty/raport-program-szczepien-przeciw-covid/news-ursula-von-der-leyen-ma-byc-przesluchiwana-w-pe-chodzi-o-szc,nId,6530045#crp_state=1](https://www.rmf24.pl/raporty/raport-program-szczepien-przeciw-covid/news-ursula-von-der-leyen-ma-byc-przesluchiwana-w-pe-chodzi-o-szc,nId,6530045#crp_state=1)
  - RSS feed: https://www.rmf24.pl
  - date published: 2023-01-12 22:03:51+00:00
  - user: rumpel
  - tags: corruption,vaccine,covid
+
+
+## Niepokojące wyniki sondażu CBOS. Blisko 70 proc. młodych Polek nie chce mieć dzieci – Wprost
+ - [https://www.wprost.pl/kraj/11043208/niepokojace-wyniki-sondazu-cbos-blisko-70-proc-mlodych-polek-nie-chce-miec-dzieci.html](https://www.wprost.pl/kraj/11043208/niepokojace-wyniki-sondazu-cbos-blisko-70-proc-mlodych-polek-nie-chce-miec-dzieci.html)
+ - RSS feed: https://www.wprost.pl
+ - date published: 2023-01-12 22:02:03+00:00
+ - user: rumpel
+ - tags: poland,feminism
 
 
 ## Czy i statki będą na prąd? | Niezalezna.pl

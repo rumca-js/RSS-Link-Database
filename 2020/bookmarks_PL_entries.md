@@ -6,6 +6,14 @@
  - tags: spain,vaccine,covid
 
 
+## Prof. Horban: Zaszczepieni na Covid-19 nie będą zarażali, bo nie będą zakażeni - RMF 24
+ - [https://www.rmf24.pl/raporty/raport-koronawirus-z-chin/najnowsze-fakty/news-prof-horban-zaszczepieni-na-covid-19-nie-beda-zarazali-bo-ni,nId,4953501#crp_state=1](https://www.rmf24.pl/raporty/raport-koronawirus-z-chin/najnowsze-fakty/news-prof-horban-zaszczepieni-na-covid-19-nie-beda-zarazali-bo-ni,nId,4953501#crp_state=1)
+ - RSS feed: https://www.rmf24.pl
+ - date published: 2020-12-28 10:51:20+00:00
+ - user: rumpel
+ - tags: transmission,covid
+
+
 ## Netflix usuwa więcej niż kiedykolwiek. Zniknie 129 tytułów, w tym „Harry Potter” i „Władca Pierścien
  - [https://spidersweb.pl/rozrywka/2020/12/25/netflix-grudzien-2020-harry-potter-przyjaciele-usuwane-31-grudnia](https://spidersweb.pl/rozrywka/2020/12/25/netflix-grudzien-2020-harry-potter-przyjaciele-usuwane-31-grudnia)
  - RSS feed: spidersweb.pl

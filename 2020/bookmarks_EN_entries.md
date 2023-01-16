@@ -908,6 +908,14 @@
  - tags: privacy,iot,smart
 
 
+## Sophie Lewis Is Reviving the Case for Abolishing the Family
+ - [https://www.vice.com/en/article/qjdzwb/sophie-lewis-feminist-abolishing-the-family-full-surrogacy-now](https://www.vice.com/en/article/qjdzwb/sophie-lewis-feminist-abolishing-the-family-full-surrogacy-now)
+ - RSS feed: https://www.vice.com
+ - date published: 2020-02-21 21:54:24+00:00
+ - user: rumpel
+ - tags: feminism,family,christianophobia
+
+
 ## Why YOUTUBE is DYING (Creatively and Artistically)
  - [https://www.youtube.com/watch?v=Ln1qbgZz_TQ](https://www.youtube.com/watch?v=Ln1qbgZz_TQ)
  - RSS feed: https://www.youtube.com/@JoshStrifeHayes

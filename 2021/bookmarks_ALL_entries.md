@@ -190,6 +190,14 @@
  - user: Thomas Pain
 
 
+## Prof. Horban: Nadciąga prawdziwe tsunami
+ - [https://www.tvp.info/57595618/koronawirus-prof-horban-nadciaga-prawdziwe-tsunami](https://www.tvp.info/57595618/koronawirus-prof-horban-nadciaga-prawdziwe-tsunami)
+ - RSS feed: https://www.tvp.info
+ - date published: 2021-12-23 11:02:46+00:00
+ - user: rumpel
+ - tags: propaganda,covid
+
+
 ## MPs urge changes to 'outdated' gender recognition laws - BBC News
  - [https://www.bbc.co.uk/news/uk-politics-59735218](https://www.bbc.co.uk/news/uk-politics-59735218)
  - RSS feed: https://www.bbc.co.uk
@@ -627,6 +635,14 @@
  - user: Thomas Pain
 
 
+## Prof. Matyja: Świąt nie będzie. Będziemy chodzili na pogrzeby - o2 - Serce Internetu
+ - [https://www.o2.pl/informacje/prof-matyja-swiat-nie-bedzie-bedziemy-chodzili-na-pogrzeby-6708295404051392a](https://www.o2.pl/informacje/prof-matyja-swiat-nie-bedzie-bedziemy-chodzili-na-pogrzeby-6708295404051392a)
+ - RSS feed: https://www.o2.pl
+ - date published: 2021-11-24 11:04:26+00:00
+ - user: rumpel
+ - tags: propaganda,covid
+
+
 ## Kyle Rittenhouse's trial exposes biases among left-leaning media
  - [https://news.yahoo.com/kyle-rittenhouses-trial-exposes-biases-205230938.html](https://news.yahoo.com/kyle-rittenhouses-trial-exposes-biases-205230938.html)
  - RSS feed: https://news.yahoo.com
@@ -758,6 +774,14 @@
  - date published: 2021-11-18 08:10:08+00:00
  - user: None
  - tags: kyle rittenhouse
+
+
+## Rekord czwartej fali. Dr Grzesiowski: Jak nie będzie ograniczeń, wymrze 10 proc. społeczeństwa w wieku 50+
+ - [https://warszawa.wyborcza.pl/warszawa/7,54420,27815584,dr-grzesiowski-jesli-rzad-nie-zmieni-strategii-epidemia-sie.html](https://warszawa.wyborcza.pl/warszawa/7,54420,27815584,dr-grzesiowski-jesli-rzad-nie-zmieni-strategii-epidemia-sie.html)
+ - RSS feed: https://warszawa.wyborcza.pl
+ - date published: 2021-11-17 10:59:29+00:00
+ - user: rumpel
+ - tags: propaganda,covid
 
 
 ## Freddie Sayers investigates Austria's lockdown of the unvaccinated
@@ -1039,6 +1063,14 @@
  - date published: 2021-10-29 22:00:47+00:00
  - user: rumpel
  - tags: inequality,italy,lgbt
+
+
+## Streaming’s dirty secret: how viewing Netflix top 10 creates vast quantity of CO2 | TV streaming | The Guardian
+ - [https://www.theguardian.com/tv-and-radio/2021/oct/29/streamings-dirty-secret-how-viewing-netflix-top-10-creates-vast-quantity-of-co2](https://www.theguardian.com/tv-and-radio/2021/oct/29/streamings-dirty-secret-how-viewing-netflix-top-10-creates-vast-quantity-of-co2)
+ - RSS feed: https://www.theguardian.com
+ - date published: 2021-10-29 08:40:19+00:00
+ - user: rumpel
+ - tags: carbon emissions,netflix,youtube,climate change
 
 
 ## MEP's stand up for our right to freedom after imposing Digital Green Certificate to enter Parliament

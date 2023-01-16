@@ -883,6 +883,14 @@
  - tags: inequality,italy,lgbt
 
 
+## Streaming’s dirty secret: how viewing Netflix top 10 creates vast quantity of CO2 | TV streaming | The Guardian
+ - [https://www.theguardian.com/tv-and-radio/2021/oct/29/streamings-dirty-secret-how-viewing-netflix-top-10-creates-vast-quantity-of-co2](https://www.theguardian.com/tv-and-radio/2021/oct/29/streamings-dirty-secret-how-viewing-netflix-top-10-creates-vast-quantity-of-co2)
+ - RSS feed: https://www.theguardian.com
+ - date published: 2021-10-29 08:40:19+00:00
+ - user: rumpel
+ - tags: carbon emissions,netflix,youtube,climate change
+
+
 ## MEP's stand up for our right to freedom after imposing Digital Green Certificate to enter Parliament
  - [https://www.youtube.com/watch?v=lEkvD5To02U](https://www.youtube.com/watch?v=lEkvD5To02U)
  - RSS feed: https://www.youtube.com/@AnthonyStabourlos

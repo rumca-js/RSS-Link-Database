@@ -2761,7 +2761,7 @@
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-24 00:25:02+00:00
  - user: None
- - tags: china,covid,qatar,covid lie
+ - tags: china,scienceisdead,covid lie,propaganda,qatar,covid
 
 
 ## Interconnected, a blog by Matt Webb
@@ -3813,6 +3813,14 @@
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-11-03 12:00:00+00:00
  - user: None
+
+
+## Opinion | The New Covid Boosters Are Incredible, and Everyone Should Get One - The New York Times
+ - [https://www.nytimes.com/2022/11/03/opinion/covid-booster-vaccine-poverty.html](https://www.nytimes.com/2022/11/03/opinion/covid-booster-vaccine-poverty.html)
+ - RSS feed: https://www.nytimes.com
+ - date published: 2022-11-03 10:56:59+00:00
+ - user: rumpel
+ - tags: propaganda,covid
 
 
 ## How to download your Twitter data
@@ -5237,14 +5245,6 @@
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-23 14:13:26+00:00
  - user: None
-
-
-## We Need to Stop Calling Far-Right Extremists ‘Conservatives’
- - [https://www.reddit.com/r/politics/comments/ybhht0/we_need_to_stop_calling_farright_extremists/](https://www.reddit.com/r/politics/comments/ybhht0/we_need_to_stop_calling_farright_extremists/)
- - RSS feed: http://www.reddit.com/r/politics/.rss
- - date published: 2022-10-23 13:17:42+00:00
- - user: None
- - tags: social engineering,propaganda,extremism
 
 
 ## Elite NYC private schools make parents sign 'anti-racist' commitment, attend 'anti-racist training'
@@ -9000,6 +9000,14 @@
  - user: None
 
 
+## Financial Regulation: Between Policy and Politics
+ - [https://m.youtube.com/watch?time_continue=871&v=RotcD7OREP4](https://m.youtube.com/watch?time_continue=871&v=RotcD7OREP4)
+ - RSS feed: https://m.youtube.com
+ - date published: 2022-09-03 11:23:41+00:00
+ - user: rumpel
+ - tags: digital money,cbdc,bigbrother
+
+
 ## IMDB deleted all negative user reviews for The Rings of Power
  - [https://old.reddit.com/r/lotr/comments/x46870/imdb_have_deleted_all_the_negative_reviews_for/](https://old.reddit.com/r/lotr/comments/x46870/imdb_have_deleted_all_the_negative_reviews_for/)
  - RSS feed: https://hnrss.org/frontpage
@@ -12487,6 +12495,14 @@
  - date published: 2022-02-21 08:25:50.913362+00:00
  - user: Thomas Pain
  - tags: privacy,tracking,anonymity
+
+
+## Mask Mandates Are Illogical. So What?
+ - [https://www.msn.com/en-us/news/us/mask-mandates-are-illogical-so-what/ar-AAU5Ir5](https://www.msn.com/en-us/news/us/mask-mandates-are-illogical-so-what/ar-AAU5Ir5)
+ - RSS feed: https://www.msn.com
+ - date published: 2022-02-20 11:13:19+00:00
+ - user: rumpel
+ - tags: masks,scienceisdead,covid
 
 
 ## Kanada: W Kanadzie policja tratuje ludzi, a „wolny świat” milczy! Dlaczego?

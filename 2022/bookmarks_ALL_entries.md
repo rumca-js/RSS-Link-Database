@@ -3015,7 +3015,7 @@
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2022-11-24 00:25:02+00:00
  - user: None
- - tags: china,covid,qatar,covid lie
+ - tags: china,scienceisdead,covid lie,propaganda,qatar,covid
 
 
 ## Interconnected, a blog by Matt Webb
@@ -4170,6 +4170,14 @@
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-11-03 12:00:00+00:00
  - user: None
+
+
+## Opinion | The New Covid Boosters Are Incredible, and Everyone Should Get One - The New York Times
+ - [https://www.nytimes.com/2022/11/03/opinion/covid-booster-vaccine-poverty.html](https://www.nytimes.com/2022/11/03/opinion/covid-booster-vaccine-poverty.html)
+ - RSS feed: https://www.nytimes.com
+ - date published: 2022-11-03 10:56:59+00:00
+ - user: rumpel
+ - tags: propaganda,covid
 
 
 ## How to download your Twitter data
@@ -5854,14 +5862,6 @@
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-23 14:13:26+00:00
  - user: None
-
-
-## We Need to Stop Calling Far-Right Extremists ‘Conservatives’
- - [https://www.reddit.com/r/politics/comments/ybhht0/we_need_to_stop_calling_farright_extremists/](https://www.reddit.com/r/politics/comments/ybhht0/we_need_to_stop_calling_farright_extremists/)
- - RSS feed: http://www.reddit.com/r/politics/.rss
- - date published: 2022-10-23 13:17:42+00:00
- - user: None
- - tags: social engineering,propaganda,extremism
 
 
 ## Chińskie procesory graficzne Biren nie zostaną wyprodukowane przez TSMC. Powodem są ograniczenia USA
@@ -10816,6 +10816,14 @@
  - user: None
 
 
+## Financial Regulation: Between Policy and Politics
+ - [https://m.youtube.com/watch?time_continue=871&v=RotcD7OREP4](https://m.youtube.com/watch?time_continue=871&v=RotcD7OREP4)
+ - RSS feed: https://m.youtube.com
+ - date published: 2022-09-03 11:23:41+00:00
+ - user: rumpel
+ - tags: digital money,cbdc,bigbrother
+
+
 ## Służby PiS chcą zablokować stronę publikującą maile ze skrzynki Dworczyka
  - [https://www.wykop.pl/link/6802629/sluzby-pis-chca-zablokowac-strone-publikujaca-maile-ze-skrzynki-dworczyka/](https://www.wykop.pl/link/6802629/sluzby-pis-chca-zablokowac-strone-publikujaca-maile-ze-skrzynki-dworczyka/)
  - RSS feed: https://www.wykop.pl/rss/index.xml/
@@ -14852,6 +14860,14 @@
  - tags: privacy,tracking,anonymity
 
 
+## Mask Mandates Are Illogical. So What?
+ - [https://www.msn.com/en-us/news/us/mask-mandates-are-illogical-so-what/ar-AAU5Ir5](https://www.msn.com/en-us/news/us/mask-mandates-are-illogical-so-what/ar-AAU5Ir5)
+ - RSS feed: https://www.msn.com
+ - date published: 2022-02-20 11:13:19+00:00
+ - user: rumpel
+ - tags: masks,scienceisdead,covid
+
+
 ## Kanada: W Kanadzie policja tratuje ludzi, a „wolny świat” milczy! Dlaczego?
  - [https://www.prokapitalizm.pl/w-kanadzie-policja-tratuje-ludzi-a-wolny-swiat-milczy-dlaczego/](https://www.prokapitalizm.pl/w-kanadzie-policja-tratuje-ludzi-a-wolny-swiat-milczy-dlaczego/)
  - RSS feed: www.prokapitalizm.pl
@@ -15616,6 +15632,14 @@
  - tags: woke,censorship,socialengineering,microsoft
 
 
+## Dr Sutkowski:  za 2-3 tygodnie będzie armagedon. "Kroczymy doliną śmierci"
+ - [https://www.rynekzdrowia.pl/Polityka-zdrowotna/Dr-Sutkowski-za-2-3-tygodnie-bedzie-armagedon-Kroczymy-dolina-smierci,228581,14.html](https://www.rynekzdrowia.pl/Polityka-zdrowotna/Dr-Sutkowski-za-2-3-tygodnie-bedzie-armagedon-Kroczymy-dolina-smierci,228581,14.html)
+ - RSS feed: https://www.rynekzdrowia.pl
+ - date published: 2022-01-13 11:07:40+00:00
+ - user: rumpel
+ - tags: propaganda,covid
+
+
 ## Mainstream media resorts to shaming, insulting unvaccinated Americans as COVID surges
  - [https://www.foxnews.com/media/mainstream-media-insulting-unvaccinated-americans-covid](https://www.foxnews.com/media/mainstream-media-insulting-unvaccinated-americans-covid)
  - RSS feed: https://www.foxnews.com
@@ -15763,6 +15787,14 @@
  - date published: 2022-01-07 14:45:47+00:00
  - user: rumpel
  - tags: pepe,pepethefrog
+
+
+## Omikron to nawet 200 tys. zakażeń dziennie. Dr Grzesiowski: tsunami, armagedon | Wiadomości Radio ZET
+ - [https://wiadomosci.radiozet.pl/Polska/Omikron-to-nawet-200-tys.-zakazen-dziennie.-Dr-Grzesiowski-tsunami-armagedon](https://wiadomosci.radiozet.pl/Polska/Omikron-to-nawet-200-tys.-zakazen-dziennie.-Dr-Grzesiowski-tsunami-armagedon)
+ - RSS feed: https://wiadomosci.radiozet.pl
+ - date published: 2022-01-07 11:05:59+00:00
+ - user: rumpel
+ - tags: propaganda,covid
 
 
 ## FDA ma 8 miesięcy na publikację dokumentacji „szczepionki”

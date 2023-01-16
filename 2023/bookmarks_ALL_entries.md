@@ -1,3 +1,47 @@
+## NYPD can use more than 15,000 cameras to track people using facial recognition
+ - [https://www.amnesty.org/en/latest/news/2021/06/scale-new-york-police-facial-recognition-revealed/](https://www.amnesty.org/en/latest/news/2021/06/scale-new-york-police-facial-recognition-revealed/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-01-15 17:15:17+00:00
+ - user: rumpel
+ - tags: bigbrother,facialrecognition,surveillence
+
+
+## Climate Activism Isn't About the Planet. It's About the Boredom of the Bourgeoisie | Opinion
+ - [https://www.newsweek.com/climate-activism-isnt-about-planet-its-about-boredom-bourgeoisie-opinion-1773846](https://www.newsweek.com/climate-activism-isnt-about-planet-its-about-boredom-bourgeoisie-opinion-1773846)
+ - RSS feed: https://www.newsweek.com/rss
+ - date published: 2023-01-15 13:00:01+00:00
+ - user: rumpel
+
+
+## I'm Shadow Banned by DuckDuckGo (and Bing)
+ - [https://daverupert.com/2023/01/shadow-banned-by-duckduckgo-and-bing/](https://daverupert.com/2023/01/shadow-banned-by-duckduckgo-and-bing/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-01-15 12:39:16+00:00
+ - user: rumpel
+ - tags: shadowban,duckduckgo,censorship,bing
+
+
+## Samochody elektryczne to poważne zagrożenie dla innych pojazdów. O tym się nie mówi - Instalki.pl
+ - [https://www.instalki.pl/aktualnosci/technika/57737-samochody-elektryczne-masa-zagrozenie-dla-innych-pojazdow.html](https://www.instalki.pl/aktualnosci/technika/57737-samochody-elektryczne-masa-zagrozenie-dla-innych-pojazdow.html)
+ - RSS feed: https://www.instalki.pl
+ - date published: 2023-01-15 12:31:43.878419+00:00
+ - user: rumpel
+
+
+## Coraz więcej krajów zakazuje smartfonów w szkołach. Za ich używanie grożą poważne kary
+ - [https://forsal.pl/lifestyle/edukacja/artykuly/8635874,smartfon-w-szkole-zakaz-kraje-europy-powazne-kary.html](https://forsal.pl/lifestyle/edukacja/artykuly/8635874,smartfon-w-szkole-zakaz-kraje-europy-powazne-kary.html)
+ - RSS feed: https://forsal.pl/.feed
+ - date published: 2023-01-15 07:42:27+00:00
+ - user: rumpel
+
+
+## SQLite: 35% Faster Than the Filesystem
+ - [https://www.sqlite.org/fasterthanfs.html](https://www.sqlite.org/fasterthanfs.html)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-01-15 07:18:20+00:00
+ - user: rumpel
+
+
 ## How Police Exploited the Capitol Riot’s Digital Records
  - [https://spectrum.ieee.org/capitol-riot](https://spectrum.ieee.org/capitol-riot)
  - RSS feed: https://hnrss.org/frontpage
@@ -174,12 +218,28 @@
  - tags: digital bunker,nas,smarthome,local cloud,programming
 
 
+## U.S. FDA, CDC see early signal of possible Pfizer bivalent COVID shot link to stroke | Reuters
+ - [https://www.reuters.com/business/healthcare-pharmaceuticals/us-says-pfizers-bivalent-covid-shot-may-be-linked-stroke-older-adults-2023-01-13/](https://www.reuters.com/business/healthcare-pharmaceuticals/us-says-pfizers-bivalent-covid-shot-may-be-linked-stroke-older-adults-2023-01-13/)
+ - RSS feed: https://www.reuters.com
+ - date published: 2023-01-13 09:13:42+00:00
+ - user: rumpel
+ - tags: pfizer,vaccine,covid
+
+
 ## Ursula von der Leyen ma być przesłuchiwana w PE. Chodzi o szczepionki
  - [https://www.rmf24.pl/raporty/raport-program-szczepien-przeciw-covid/news-ursula-von-der-leyen-ma-byc-przesluchiwana-w-pe-chodzi-o-szc,nId,6530045#crp_state=1](https://www.rmf24.pl/raporty/raport-program-szczepien-przeciw-covid/news-ursula-von-der-leyen-ma-byc-przesluchiwana-w-pe-chodzi-o-szc,nId,6530045#crp_state=1)
  - RSS feed: https://www.rmf24.pl
  - date published: 2023-01-12 22:03:51+00:00
  - user: rumpel
  - tags: corruption,vaccine,covid
+
+
+## Niepokojące wyniki sondażu CBOS. Blisko 70 proc. młodych Polek nie chce mieć dzieci – Wprost
+ - [https://www.wprost.pl/kraj/11043208/niepokojace-wyniki-sondazu-cbos-blisko-70-proc-mlodych-polek-nie-chce-miec-dzieci.html](https://www.wprost.pl/kraj/11043208/niepokojace-wyniki-sondazu-cbos-blisko-70-proc-mlodych-polek-nie-chce-miec-dzieci.html)
+ - RSS feed: https://www.wprost.pl
+ - date published: 2023-01-12 22:02:03+00:00
+ - user: rumpel
+ - tags: poland,feminism
 
 
 ## Meta alleges surveillance firm collected data on 600,000 users via fake accounts
@@ -248,6 +308,22 @@
  - date published: 2023-01-12 09:47:55+00:00
  - user: rumpel
  - tags: elite,twitter,musk,billionaires
+
+
+## Studies Suggest The Bivalent COVID Booster Is No More Effective Than Original Vaccine
+ - [https://www.msn.com/en-us/health/health-news/studies-suggest-the-bivalent-covid-booster-is-no-more-effective-than-original-vaccine/ar-AA16h7ye](https://www.msn.com/en-us/health/health-news/studies-suggest-the-bivalent-covid-booster-is-no-more-effective-than-original-vaccine/ar-AA16h7ye)
+ - RSS feed: https://www.msn.com
+ - date published: 2023-01-12 09:19:46+00:00
+ - user: rumpel
+ - tags: vaccine,covid
+
+
+## Praca jak każda inna. "Bardzo bym sobie życzyła, żeby oddemonizować ten sex work w Polsce"
+ - [https://weekend.gazeta.pl/weekend/7,177334,29350456,praca-jak-kazda-inna-bardzo-bym-sobie-zyczyla-zeby-oddemonizowac.html](https://weekend.gazeta.pl/weekend/7,177334,29350456,praca-jak-kazda-inna-bardzo-bym-sobie-zyczyla-zeby-oddemonizowac.html)
+ - RSS feed: https://weekend.gazeta.pl
+ - date published: 2023-01-12 09:03:58+00:00
+ - user: rumpel
+ - tags: antisocial,feminism,sexualization
 
 
 ## Zutylizowany COVID-19. W europejskich magazynach leży ok. 430 mln dawek szczepionek

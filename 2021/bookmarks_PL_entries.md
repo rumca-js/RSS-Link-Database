@@ -5,6 +5,14 @@
  - user: Thomas Pain
 
 
+## Prof. Horban: Nadciąga prawdziwe tsunami
+ - [https://www.tvp.info/57595618/koronawirus-prof-horban-nadciaga-prawdziwe-tsunami](https://www.tvp.info/57595618/koronawirus-prof-horban-nadciaga-prawdziwe-tsunami)
+ - RSS feed: https://www.tvp.info
+ - date published: 2021-12-23 11:02:46+00:00
+ - user: rumpel
+ - tags: propaganda,covid
+
+
 ## Cyfrowy pieniądz: NBP pracuje nad cyfrowym pieniądzem banku centralnego
  - [https://www.wirtualnemedia.pl/artykul/nbp-cyfrowy-pieniadz-banku-centralnego](https://www.wirtualnemedia.pl/artykul/nbp-cyfrowy-pieniadz-banku-centralnego)
  - RSS feed: www.wirtualnemedia.pl
@@ -48,6 +56,22 @@
  - RSS feed: geekweek.interia.pl
  - date published: 2021-12-01 12:04:49+00:00
  - user: None
+
+
+## Prof. Matyja: Świąt nie będzie. Będziemy chodzili na pogrzeby - o2 - Serce Internetu
+ - [https://www.o2.pl/informacje/prof-matyja-swiat-nie-bedzie-bedziemy-chodzili-na-pogrzeby-6708295404051392a](https://www.o2.pl/informacje/prof-matyja-swiat-nie-bedzie-bedziemy-chodzili-na-pogrzeby-6708295404051392a)
+ - RSS feed: https://www.o2.pl
+ - date published: 2021-11-24 11:04:26+00:00
+ - user: rumpel
+ - tags: propaganda,covid
+
+
+## Rekord czwartej fali. Dr Grzesiowski: Jak nie będzie ograniczeń, wymrze 10 proc. społeczeństwa w wieku 50+
+ - [https://warszawa.wyborcza.pl/warszawa/7,54420,27815584,dr-grzesiowski-jesli-rzad-nie-zmieni-strategii-epidemia-sie.html](https://warszawa.wyborcza.pl/warszawa/7,54420,27815584,dr-grzesiowski-jesli-rzad-nie-zmieni-strategii-epidemia-sie.html)
+ - RSS feed: https://warszawa.wyborcza.pl
+ - date published: 2021-11-17 10:59:29+00:00
+ - user: rumpel
+ - tags: propaganda,covid
 
 
 ## „Facebook Files”, czyli o tym, czego Facebook nie chciał nam powiedzieć
