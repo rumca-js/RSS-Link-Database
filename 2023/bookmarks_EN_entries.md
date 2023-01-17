@@ -1,3 +1,27 @@
+## The Internet Has Died
+ - [https://www.youtube.com/watch?v=kL8rHf_idt0](https://www.youtube.com/watch?v=kL8rHf_idt0)
+ - RSS feed: http://www.youtube.com/feeds/videos.xml?channel_id=UCRlICXvO4XR4HMeEB9JjDlA
+ - date published: 2023-01-16 17:21:03+00:00
+ - user: rumpel
+ - tags: algorithms,dead internet,youtube
+
+
+## YouTube Doesn't “Get It”
+ - [https://news.ycombinator.com/item?id=34402292](https://news.ycombinator.com/item?id=34402292)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-01-16 16:31:03+00:00
+ - user: rumpel
+ - tags: algorithms,dead internet,youtube
+
+
+## The global health-care collapse
+ - [https://www.economist.com/finance-and-economics/2023/01/15/the-global-health-care-collapse](https://www.economist.com/finance-and-economics/2023/01/15/the-global-health-care-collapse)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-01-15 22:33:46+00:00
+ - user: rumpel
+ - tags: healthcare,covid
+
+
 ## NYPD can use more than 15,000 cameras to track people using facial recognition
  - [https://www.amnesty.org/en/latest/news/2021/06/scale-new-york-police-facial-recognition-revealed/](https://www.amnesty.org/en/latest/news/2021/06/scale-new-york-police-facial-recognition-revealed/)
  - RSS feed: https://hnrss.org/frontpage
@@ -273,6 +297,14 @@
  - tags: elite,twitter,musk,billionaires
 
 
+## Roomba testers feel misled after intimate images ended up on Facebook
+ - [https://www.technologyreview.com/2023/01/10/1066500/roomba-irobot-robot-vacuum-beta-product-testers-consent-agreement-misled/](https://www.technologyreview.com/2023/01/10/1066500/roomba-irobot-robot-vacuum-beta-product-testers-consent-agreement-misled/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-01-12 09:21:56+00:00
+ - user: rumpel
+ - tags: facebook,privacy,roomba
+
+
 ## Studies Suggest The Bivalent COVID Booster Is No More Effective Than Original Vaccine
  - [https://www.msn.com/en-us/health/health-news/studies-suggest-the-bivalent-covid-booster-is-no-more-effective-than-original-vaccine/ar-AA16h7ye](https://www.msn.com/en-us/health/health-news/studies-suggest-the-bivalent-covid-booster-is-no-more-effective-than-original-vaccine/ar-AA16h7ye)
  - RSS feed: https://www.msn.com
@@ -501,7 +533,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2023-01-07 13:22:53+00:00
  - user: rumpel
- - tags: internet,creator,success
+ - tags: creativ,internet,success,creator
 
 
 ## Media społecznościowe stworzyły pokolenie "przewrażliwionych dzieci". To zagraża kapitalizmowi
@@ -752,7 +784,7 @@
  - RSS feed: https://chriscoyier.net
  - date published: 2023-01-04 11:45:48+00:00
  - user: rumpel
- - tags: web,darkdesign,programming,internet
+ - tags: web,webapp,pwa,internet,programming,darkdesign
 
 
 ## FDA to expand availability of abortion pills

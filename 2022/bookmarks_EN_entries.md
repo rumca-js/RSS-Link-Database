@@ -6967,6 +6967,14 @@
  - user: None
 
 
+## PayPal reinstates Free Speech Union accounts after being accused of ‘politically motivated’ ban
+ - [https://www.telegraph.co.uk/politics/2022/09/27/paypal-reinstates-free-speech-union-accounts-accused-politically/](https://www.telegraph.co.uk/politics/2022/09/27/paypal-reinstates-free-speech-union-accounts-accused-politically/)
+ - RSS feed: https://www.telegraph.co.uk
+ - date published: 2022-09-27 08:30:52+00:00
+ - user: rumpel
+ - tags: censorship,paypal,freespeech
+
+
 ## Microsoft tells companies to “re-recruit” employees to their positions
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59012](https://www.codeproject.com/script/News/View.aspx?nwid=59012)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
@@ -11720,6 +11728,14 @@
  - user: Thomas Pain
 
 
+## Almost $8M of 'Freedom Convoy' donations still unaccounted for, documents show | CBC News
+ - [https://www.cbc.ca/news/canada/ottawa/freedom-convoy-donations-1.6410105](https://www.cbc.ca/news/canada/ottawa/freedom-convoy-donations-1.6410105)
+ - RSS feed: https://www.cbc.ca
+ - date published: 2022-04-07 08:33:50+00:00
+ - user: rumpel
+ - tags: protest,censorship,freedomconvoy,covid
+
+
 ## Twitter Edits You
  - [http://www.kevinmarks.com/twittereditsyou.html](http://www.kevinmarks.com/twittereditsyou.html)
  - RSS feed: http://www.kevinmarks.com
@@ -12763,7 +12779,7 @@
  - RSS feed: www.bizpacreview.com
  - date published: 2022-02-05 06:41:16+00:00
  - user: None
- - tags: protest,covid,censorship
+ - tags: protest,gofundme,censorship,covid
 
 
 ## Senate report implicates Fauci in Wuhan lab leak cover-up
@@ -13013,6 +13029,14 @@
  - date published: 2022-01-18 13:58:30+00:00
  - user: None
  - tags: factcheck,censorship,freespeech,youtube
+
+
+## The pandemic’s true death toll: millions more than official counts
+ - [https://www.nature.com/articles/d41586-022-00104-8](https://www.nature.com/articles/d41586-022-00104-8)
+ - RSS feed: https://www.nature.com
+ - date published: 2022-01-18 09:45:12+00:00
+ - user: rumpel
+ - tags: scienceisdead,covid,lockdown,collateraldeaths,deathtoll
 
 
 ## The curious case of the Raspberry Pi in the network closet

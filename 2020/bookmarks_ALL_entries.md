@@ -618,6 +618,14 @@
  - tags: bigbrother,privacy,biometric
 
 
+## The Social Dilemma | Official Trailer | NetflixThe Social Dilemma | Official Trailer | Netflix
+ - [https://www.youtube.com/watch?v=uaaC57tcci0](https://www.youtube.com/watch?v=uaaC57tcci0)
+ - RSS feed: https://www.youtube.com
+ - date published: 2020-08-27 08:41:27+00:00
+ - user: rumpel
+ - tags: digitaldementia,social media,social dilemma,society
+
+
 ## Google stifles growing YouTube competitor LBRY by banning it from Play Store for pedantic reasons
  - [https://reclaimthenet.org/google-bans-lbry/](https://reclaimthenet.org/google-bans-lbry/)
  - RSS feed: https://reclaimthenet.org

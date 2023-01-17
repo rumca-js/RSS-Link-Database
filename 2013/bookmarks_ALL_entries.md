@@ -11,6 +11,7 @@
  - RSS feed: https://www.theverge.com/2013/12/20/5231006/nsa-paid-10-million-for-a-back-door-into-rsa-encryption-according-to
  - date published: 2013-12-20 17:23:06+00:00
  - user: None
+ - tags: surveillence,privacy,bigbrother,nsa
 
 
 ## The Fountain Explained - A Theory/Explanation on the Plot of The Fountain

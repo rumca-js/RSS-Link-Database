@@ -61,6 +61,14 @@
  - tags: pageau,666
 
 
+## Facebook has shut down 5.4 billion fake accounts this year, but millions likely remain | CNN Business
+ - [https://edition.cnn.com/2019/11/13/tech/facebook-fake-accounts/index.html](https://edition.cnn.com/2019/11/13/tech/facebook-fake-accounts/index.html)
+ - RSS feed: https://edition.cnn.com
+ - date published: 2019-11-13 21:39:19+00:00
+ - user: rumpel
+ - tags: facebook,dead internet,bots
+
+
 ## GitHub Arctic Code Vault
  - [https://www.youtube.com/watch?v=fzI9FNjXQ0o](https://www.youtube.com/watch?v=fzI9FNjXQ0o)
  - RSS feed: https://www.youtube.com

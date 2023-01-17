@@ -283,7 +283,7 @@
  - RSS feed: https://www.youtube.com/@700Club-official
  - date published: 2021-12-15 08:25:46+00:00
  - user: None
- - tags: covid,freedom
+ - tags: lockdown,freedom,covid
 
 
 ## Politician says Germany should ban Telegram unless it tackles extremist content
