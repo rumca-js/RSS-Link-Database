@@ -1,3 +1,50 @@
+## Blocking Scotland’s gender bill is no anti-woke crusade. But it’s not a democratic outrage either | Martin Kettle
+ - [https://www.theguardian.com/commentisfree/2023/jan/17/blocking-scotland-gender-recognition-bill-rishi-sunak](https://www.theguardian.com/commentisfree/2023/jan/17/blocking-scotland-gender-recognition-bill-rishi-sunak)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-01-17 16:32:18+00:00
+ - user: rumpel
+
+
+## The FBI Identified a Tor User
+ - [https://www.schneier.com/blog/archives/2023/01/the-fbi-identified-a-tor-user.html](https://www.schneier.com/blog/archives/2023/01/the-fbi-identified-a-tor-user.html)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-01-17 13:24:59+00:00
+ - user: rumpel
+ - tags: tor,surveillance,fbi
+
+
+## Banks still investing heavily in fossil fuels despite net zero pledges – study
+ - [https://www.theguardian.com/environment/2023/jan/17/banks-still-investing-heavily-in-fossil-fuels-despite-net-zero-pledges-study](https://www.theguardian.com/environment/2023/jan/17/banks-still-investing-heavily-in-fossil-fuels-despite-net-zero-pledges-study)
+ - RSS feed: https://www.theguardian.com/world/rss
+ - date published: 2023-01-17 06:00:07+00:00
+ - user: rumpel
+ - tags: climate change,net zero,hypocrisy
+
+
+## Study suggests US freshwater fish highly contaminated with 'forever chemicals'
+ - [https://thehill.com/policy/equilibrium-sustainability/3815490-study-suggests-us-freshwater-fish-highly-contaminated-with-forever-chemicals/](https://thehill.com/policy/equilibrium-sustainability/3815490-study-suggests-us-freshwater-fish-highly-contaminated-with-forever-chemicals/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-01-17 05:01:00+00:00
+ - user: rumpel
+ - tags: pollution
+
+
+## China records first population decline in 60 years
+ - [https://www.cnn.com/2023/01/16/economy/china-population-decline-sixty-years-intl-hnk/index.html](https://www.cnn.com/2023/01/16/economy/china-population-decline-sixty-years-intl-hnk/index.html)
+ - RSS feed: http://rss.cnn.com/rss/cnn_world.rss
+ - date published: 2023-01-17 04:15:48+00:00
+ - user: rumpel
+ - tags: population,depopulation
+
+
+## Quitting the rat race
+ - [https://seanbarry.dev/posts/quitting-the-rat-race/](https://seanbarry.dev/posts/quitting-the-rat-race/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-01-16 23:08:09+00:00
+ - user: rumpel
+ - tags: psychology,ratrace,society
+
+
 ## The Internet Has Died
  - [https://www.youtube.com/watch?v=kL8rHf_idt0](https://www.youtube.com/watch?v=kL8rHf_idt0)
  - RSS feed: http://www.youtube.com/feeds/videos.xml?channel_id=UCRlICXvO4XR4HMeEB9JjDlA
@@ -27,7 +74,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2023-01-15 17:15:17+00:00
  - user: rumpel
- - tags: bigbrother,facialrecognition,surveillence
+ - tags: surveillance,facialrecognition,bigbrother
 
 
 ## Climate Activism Isn't About the Planet. It's About the Boredom of the Bourgeoisie | Opinion
@@ -156,6 +203,14 @@
  - tags: climate change,wef,davos
 
 
+## India lets banks use face recognition, iris scan for some transactions - sources | Reuters
+ - [https://www.reuters.com/world/india/india-lets-banks-use-face-recognition-iris-scan-some-transactions-sources-2023-01-13/](https://www.reuters.com/world/india/india-lets-banks-use-face-recognition-iris-scan-some-transactions-sources-2023-01-13/)
+ - RSS feed: https://www.reuters.com
+ - date published: 2023-01-13 17:01:29+00:00
+ - user: rumpel
+ - tags: facial recognition,surveillance,bigbrother,india,corporatocracy,biometric
+
+
 ## Internet Archive: Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine
  - [https://archive.org/](https://archive.org/)
  - RSS feed: https://archive.org
@@ -256,7 +311,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2023-01-12 18:57:01+00:00
  - user: rumpel
- - tags: surveillence,privacy
+ - tags: surveillance,privacy
 
 
 ## Vast majority of Brazilians condemn riots as more than 2,000 held by police
@@ -279,7 +334,7 @@
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2023-01-12 14:17:41+00:00
  - user: rumpel
- - tags: apple,bigtech,surveillence,censorship
+ - tags: apple,surveillance,censorship,bigtech
 
 
 ## YouTube's new profanity rules are punishing creators retroactively, and they're furious
@@ -328,6 +383,14 @@
  - user: rumpel
 
 
+## Data Doesn’t Support New COVID-19 Booster Shots for Most | Time
+ - [https://time.com/6246525/bivalent-booster-not-very-effective-paul-offit/](https://time.com/6246525/bivalent-booster-not-very-effective-paul-offit/)
+ - RSS feed: https://time.com
+ - date published: 2023-01-11 20:45:10+00:00
+ - user: rumpel
+ - tags: fda,covid booster,covid
+
+
 ## JPMorgan Honcho ‘May Have Been Involved’ in Epstein Sex Ring, Lawsuit Alleges
  - [http://www.msn.com/en-us/news/crime/jpmorgan-honcho-may-have-been-involved-in-epstein-sex-ring-lawsuit-alleges/ar-AA16edBA?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/crime/jpmorgan-honcho-may-have-been-involved-in-epstein-sex-ring-lawsuit-alleges/ar-AA16edBA?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
@@ -342,6 +405,14 @@
  - date published: 2023-01-11 14:52:23+00:00
  - user: rumpel
  - tags: climate change,sjw,fake activism,scienceisdead
+
+
+## Iran to use facial recognition to identify women without hijabs
+ - [https://arstechnica.com/?p=1909128](https://arstechnica.com/?p=1909128)
+ - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
+ - date published: 2023-01-11 14:30:34+00:00
+ - user: rumpel
+ - tags: surveillance,bigbrother
 
 
 ## FDA vaccine advisers 'disappointed' and 'angry' that early data about new Covid-19 booster shot wasn't presented for review last year | CNN
@@ -376,12 +447,28 @@
  - tags: brazil,moderation,facebook,youtube
 
 
+## Facial recognition leads to week-long wrongful imprisonment | TechSpot
+ - [https://www.techspot.com/news/97215-facial-recognition-leads-week-long-wrongful-imprisonment.html](https://www.techspot.com/news/97215-facial-recognition-leads-week-long-wrongful-imprisonment.html)
+ - RSS feed: https://www.techspot.com
+ - date published: 2023-01-10 16:51:05+00:00
+ - user: rumpel
+ - tags: surveillance,america
+
+
 ## UK: Excess deaths in 2022 among worst in 50 years
  - [https://www.bbc.co.uk/news/health-64209221](https://www.bbc.co.uk/news/health-64209221)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2023-01-10 11:58:34+00:00
  - user: rumpel
  - tags: scienceisdead,covid,vaccine
+
+
+## U.S. Carbon Emissions Grew in 2022, Even As Renewables Surpassed Coal
+ - [https://www.nytimes.com/2023/01/10/climate/us-carbon-emissions-2022.html](https://www.nytimes.com/2023/01/10/climate/us-carbon-emissions-2022.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ - date published: 2023-01-10 09:00:08+00:00
+ - user: rumpel
+ - tags: carbon,climate change
 
 
 ## Show HN: Ecode – A minimalist and fast open-source code editor
@@ -641,7 +728,7 @@
  - RSS feed: https://www.wired.com/feed/category/business/latest/rss
  - date published: 2023-01-05 22:46:27+00:00
  - user: rumpel
- - tags: surveillence,ads,bigbrother,corporatocracy,gdpr
+ - tags: surveillance,bigbrother,gdpr,corporatocracy,ads
 
 
 ## I Migrated from a Postgres Cluster to Distributed SQLite with LiteFS
@@ -800,7 +887,7 @@
  - RSS feed: https://www.ft.com/world?format=rss
  - date published: 2023-01-04 01:00:33+00:00
  - user: rumpel
- - tags: surveillence,china,esg,censorship
+ - tags: esg,china,survaillence,censorship
 
 
 ## Apple and Amazon lost a 'staggering' $800 billion in market cap in 2022. Here's what that looks like

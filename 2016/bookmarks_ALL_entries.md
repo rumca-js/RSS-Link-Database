@@ -153,7 +153,7 @@
  - RSS feed: https://www.youtube.com
  - date published: 2016-06-05 13:07:32+00:00
  - user: rumpel
- - tags: surveillence,mcluhan,identity
+ - tags: surveillance,mcluhan,identity
 
 
 ## Social Autopsy! - Ending Anonymity Online [BAD IDEA]

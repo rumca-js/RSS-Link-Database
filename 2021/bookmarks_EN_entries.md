@@ -263,6 +263,14 @@
  - tags: china,amazon,censorship
 
 
+## The WHO has a worrisome reliance on the Bill & Melinda Gates Foundation
+ - [https://qz.com/2102889/the-who-is-too-dependent-on-gates-foundation-donations](https://qz.com/2102889/the-who-is-too-dependent-on-gates-foundation-donations)
+ - RSS feed: https://qz.com
+ - date published: 2021-12-16 20:34:57+00:00
+ - user: rumpel
+ - tags: gates foundation,bill gates,covid,who
+
+
 ## The 6 Companies That Own (Almost) All Media [INFOGRAPHIC]
  - [https://www.webfx.com/blog/internet/the-6-companies-that-own-almost-all-media-infographic/](https://www.webfx.com/blog/internet/the-6-companies-that-own-almost-all-media-infographic/)
  - RSS feed: https://www.webfx.com
@@ -716,6 +724,14 @@
  - user: Thomas Pain
 
 
+## Australia’s only working carbon capture and storage project fails to meet target | Western Australia | The Guardian
+ - [https://www.theguardian.com/australia-news/2021/nov/12/australias-only-working-carbon-capture-and-storage-project-fails-to-meet-target](https://www.theguardian.com/australia-news/2021/nov/12/australias-only-working-carbon-capture-and-storage-project-fails-to-meet-target)
+ - RSS feed: https://www.theguardian.com
+ - date published: 2021-11-12 13:36:49+00:00
+ - user: rumpel
+ - tags: carbon capture,propaganda,scienceisdead,climate change
+
+
 ## The Invisible JavaScript Backdoor – Certitude Blog
  - [https://certitude.consulting/blog/en/invisible-backdoor/](https://certitude.consulting/blog/en/invisible-backdoor/)
  - RSS feed: https://certitude.consulting
@@ -743,6 +759,14 @@
  - RSS feed: https://shkspr.mobi
  - date published: 2021-11-10 08:19:57.942675+00:00
  - user: Thomas Pain
+
+
+## Climate change: What are the big polluters doing to cut carbon emissions?
+ - [https://www.bbc.co.uk/news/58956714?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/58956714?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2021-11-09 17:45:34+00:00
+ - user: rumpel
+ - tags: carbon emissions,climate change
 
 
 ## Stop requiring specific technology experience for senior-plus engineers | Mike McQuaid
@@ -1773,6 +1797,14 @@
  - user: Thomas Pain
 
 
+## The Paradox of Virtue Signaling | Psychology Today
+ - [https://www.psychologytoday.com/us/blog/ethically-speaking/202109/the-paradox-of-virtue-signaling](https://www.psychologytoday.com/us/blog/ethically-speaking/202109/the-paradox-of-virtue-signaling)
+ - RSS feed: https://www.psychologytoday.com
+ - date published: 2021-09-06 13:33:32+00:00
+ - user: rumpel
+ - tags: blm,propaganda,hypocrisy,lgbt,virtue signaling
+
+
 ## “Emojibake” are considered harmful | by Fredrick Brennan | Sep, 2021 | Medium
  - [https://fredrickbrennan.medium.com/emojibake-are-considered-harmful-f87e65cf4c6e](https://fredrickbrennan.medium.com/emojibake-are-considered-harmful-f87e65cf4c6e)
  - RSS feed: https://fredrickbrennan.medium.com
@@ -1827,7 +1859,7 @@
  - RSS feed: https://news.ycombinator.com
  - date published: 2021-09-03 07:41:31.052337+00:00
  - user: Thomas Pain
- - tags: privacy,surveillence,australia,bigbrother,anonymity
+ - tags: surveillance,anonymity,bigbrother,privacy,australia
 
 
 ## Experiments on a $50 DIY air purifier you can make in 30s
@@ -2457,6 +2489,14 @@
  - user: Thomas Pain
 
 
+## Virtue Signaling: What Is It and Why Is It So Dangerous?
+ - [https://www.realclearenergy.org/articles/2021/08/02/virtue_signaling_what_is_it_and_why_is_it_so_dangerous_788208.html](https://www.realclearenergy.org/articles/2021/08/02/virtue_signaling_what_is_it_and_why_is_it_so_dangerous_788208.html)
+ - RSS feed: https://www.realclearenergy.org
+ - date published: 2021-08-02 13:30:15+00:00
+ - user: rumpel
+ - tags: blm,propaganda,hypocrisy,lgbt,virtue signaling
+
+
 ## ‘I was a teacher for 17 years, but I couldn’t read or write’ - BBC News
  - [https://www.bbc.co.uk/news/stories-43700153](https://www.bbc.co.uk/news/stories-43700153)
  - RSS feed: https://www.bbc.co.uk
@@ -2743,7 +2783,7 @@
  - RSS feed: https://www.theguardian.com
  - date published: 2021-07-18 21:55:29.750497+00:00
  - user: Thomas Pain
- - tags: surveillence,bigbrother,privacy,israel,pegasus
+ - tags: israel,surveillance,pegasus,bigbrother,privacy
 
 
 ## McCloskeys plead guilty to charges after gun-toting display
@@ -3184,7 +3224,7 @@
  - RSS feed: https://www.reuters.com
  - date published: 2021-05-31 11:51:40+00:00
  - user: None
- - tags: surveillence,merkel
+ - tags: surveillance,merkel
 
 
 ## 'Blue's Clues' releases LGBTQ-themed sing-along video for Pride Month
@@ -3511,7 +3551,7 @@
  - RSS feed: https://www.youtube.com
  - date published: 2021-03-12 15:09:15+00:00
  - user: rumpel
- - tags: digital id,orwell,bigbrother,surveillence,utopia
+ - tags: surveillance,orwell,bigbrother,utopia,digital id
 
 
 ## Printed to Death: Dollar Due to Crash in 2021
@@ -3527,6 +3567,14 @@
  - date published: 2021-02-27 07:34:00+00:00
  - user: None
  - tags: bill gates,farmland
+
+
+## Mark Carney’s ‘net-zero’ firm has billions in coal and oil sands projects - Unearthed
+ - [https://unearthed.greenpeace.org/2021/02/26/mark-carney-brookfield-net-zero-cop-fossil-fuel-coal-oil-gas/](https://unearthed.greenpeace.org/2021/02/26/mark-carney-brookfield-net-zero-cop-fossil-fuel-coal-oil-gas/)
+ - RSS feed: https://unearthed.greenpeace.org
+ - date published: 2021-02-26 12:45:24+00:00
+ - user: rumpel
+ - tags: banksters,corporatocracy,net zero,climate change
 
 
 ## Rand Paul questions Rachel Levine on gender-affirming care for minors
@@ -3608,6 +3656,14 @@
  - tags: social media,bigbrother,censorship,surveillance,moderation
 
 
+## Why using fear to promote COVID-19 vaccination and mask wearing could backfire
+ - [https://theconversation.com/why-using-fear-to-promote-covid-19-vaccination-and-mask-wearing-could-backfire-153865](https://theconversation.com/why-using-fear-to-promote-covid-19-vaccination-and-mask-wearing-could-backfire-153865)
+ - RSS feed: https://theconversation.com
+ - date published: 2021-01-28 08:57:02+00:00
+ - user: rumpel
+ - tags: covid,propaganda,fear
+
+
 ## Why It's Bad to Have High GDP
  - [https://lukesmith.xyz/articles/why-its-bad-to-have-high-gdp/](https://lukesmith.xyz/articles/why-its-bad-to-have-high-gdp/)
  - RSS feed: https://lukesmith.xyz/rss.xml
@@ -3620,7 +3676,7 @@
  - RSS feed: www.breitbart.com
  - date published: 2021-01-21 12:26:49+00:00
  - user: None
- - tags: surveillence,facebook,election
+ - tags: surveillance,election,facebook
 
 
 ## Does the West Actually Care About the Uighur Genocide in China or Is It a Handy Excuse for Conflict?

@@ -336,7 +336,7 @@
  - RSS feed: www.komputerswiat.pl
  - date published: 2021-01-29 13:08:11+00:00
  - user: None
- - tags: bigbrother,surveillence,privacy
+ - tags: surveillance,bigbrother,privacy
 
 
 ## Niemcy: Złamiesz kwarantannę - trafisz do obozu

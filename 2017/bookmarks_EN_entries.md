@@ -22,6 +22,14 @@
  - tags: programming,design patterns
 
 
+## Happiness
+ - [https://youtu.be/e9dZQelULDk](https://youtu.be/e9dZQelULDk)
+ - RSS feed: https://youtu.be
+ - date published: 2017-11-25 07:18:36+00:00
+ - user: rumpel
+ - tags: society,art,population,psychology
+
+
 ## 10 Reasons You Should Be AFRAID of GOOGLE
  - [https://www.youtube.com/watch?v=WWDmelZxgoI](https://www.youtube.com/watch?v=WWDmelZxgoI)
  - RSS feed: https://www.youtube.com/@ToptenzNettop10

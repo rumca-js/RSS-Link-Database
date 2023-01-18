@@ -574,7 +574,7 @@
  - RSS feed: https://www.youtube.com/@TheHatedOne
  - date published: 2019-04-09 20:16:56+00:00
  - user: None
- - tags: surveillence,car,privacy
+ - tags: surveillance,car,privacy
 
 
 ## End the transgender 'unregulated live experiment on children' say whistleblowing workers who have quit clinic treating patients as young as THREE

@@ -3,7 +3,7 @@
  - RSS feed: https://en.wikipedia.org
  - date published: 2013-12-21 14:41:21+00:00
  - user: None
- - tags: five-eyes,surveillence,nsa
+ - tags: survaillence,nsa,five-eyes
 
 
 ## NSA paid $10 million to put its backdoor in RSA encryption, according to Reuters report
@@ -11,7 +11,7 @@
  - RSS feed: https://www.theverge.com/2013/12/20/5231006/nsa-paid-10-million-for-a-back-door-into-rsa-encryption-according-to
  - date published: 2013-12-20 17:23:06+00:00
  - user: None
- - tags: surveillence,privacy,bigbrother,nsa
+ - tags: surveillance,nsa,bigbrother,privacy
 
 
 ## The Fountain Explained - A Theory/Explanation on the Plot of The Fountain
@@ -27,7 +27,7 @@
  - RSS feed: https://www.zdnet.com
  - date published: 2013-11-20 14:40:44+00:00
  - user: None
- - tags: five-eyes,surveillence,nsa
+ - tags: surveillance,nsa,five-eyes
 
 
 ## Google knows nearly every Wi-Fi password in the world

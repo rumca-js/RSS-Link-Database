@@ -214,7 +214,15 @@
  - RSS feed: thenewdaily.com.au
  - date published: 2020-12-10 13:10:45+00:00
  - user: None
- - tags: bigbrother,surveillence,privacy
+ - tags: surveillance,bigbrother,privacy
+
+
+## Sci-fi surveillance: Europe's secretive push into biometric technology
+ - [https://www.theguardian.com/world/2020/dec/10/sci-fi-surveillance-europes-secretive-push-into-biometric-technology](https://www.theguardian.com/world/2020/dec/10/sci-fi-surveillance-europes-secretive-push-into-biometric-technology)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2020-12-10 13:00:02+00:00
+ - user: rumpel
+ - tags: surveillance,corporatocracy,bigbrother,biometric
 
 
 ## The American Companies Enabling China’s Uyghur Genocide
@@ -493,6 +501,14 @@
  - tags: virtual reality,vrchat
 
 
+## On climate change, Exxon, BP, Shell, and other top oil companies have a long way to go - Vox
+ - [https://www.vox.com/energy-and-environment/2020/9/25/21452055/climate-change-exxon-bp-shell-total-chevron-oil-gas](https://www.vox.com/energy-and-environment/2020/9/25/21452055/climate-change-exxon-bp-shell-total-chevron-oil-gas)
+ - RSS feed: https://www.vox.com
+ - date published: 2020-09-25 12:49:31+00:00
+ - user: rumpel
+ - tags: propaganda,scienceisdead,climate change,media manipulation
+
+
 ## Cold comfort: The sun is cooling; doesn't mean there'll be no global warming
  - [https://www.downtoearth.org.in/news/science-technology/cold-comfort-the-sun-is-cooling-doesn-t-mean-there-ll-be-no-global-warming-73488](https://www.downtoearth.org.in/news/science-technology/cold-comfort-the-sun-is-cooling-doesn-t-mean-there-ll-be-no-global-warming-73488)
  - RSS feed: https://www.downtoearth.org.in
@@ -748,7 +764,7 @@
  - RSS feed: https://arstechnica.com
  - date published: 2020-08-04 20:05:35+00:00
  - user: None
- - tags: bigbrother,surveillence,nsa,privacy
+ - tags: privacy,surveillance,bigbrother,nsa
 
 
 ## Google Home might be listening to more than just wake words after secret update
@@ -1013,6 +1029,14 @@
  - tags: germany,kentler,paedophilia
 
 
+## John Oliver on police use of facial recognition: 'We’re about to cross a major line'
+ - [https://www.theguardian.com/culture/2020/jun/15/john-oliver-police-use-facial-recognition](https://www.theguardian.com/culture/2020/jun/15/john-oliver-police-use-facial-recognition)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2020-06-15 16:20:35+00:00
+ - user: rumpel
+ - tags: surveillance,facialrecognition,bigbrother
+
+
 ## Berlin authorities placed children with pedophiles
  - [https://www.dw.com/en/berlin-authorities-placed-children-with-pedophiles-for-30-years/a-53814208](https://www.dw.com/en/berlin-authorities-placed-children-with-pedophiles-for-30-years/a-53814208)
  - RSS feed: https://www.dw.com
@@ -1111,7 +1135,7 @@
  - RSS feed: www.benchmark.pl
  - date published: 2020-05-01 12:04:50+00:00
  - user: None
- - tags: tracking,xiaomi,privacy,surveillence
+ - tags: xiaomi,surveillance,privacy,tracking
 
 
 ## Amazon uses data from third-party sellers to develop its own products, WSJ investigation finds
@@ -1286,6 +1310,14 @@
  - date published: 2020-01-13 19:01:16+00:00
  - user: rumpel
  - tags: greta,corporatocracy,thunberg,climate change
+
+
+## Anger over use of facial recognition at south Wales football derby
+ - [https://www.theguardian.com/technology/2020/jan/12/anger-over-use-facial-recognition-south-wales-football-derby-cardiff-swansea](https://www.theguardian.com/technology/2020/jan/12/anger-over-use-facial-recognition-south-wales-football-derby-cardiff-swansea)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2020-01-12 14:05:26+00:00
+ - user: rumpel
+ - tags: surveillance,facialrecognition,bigbrother
 
 
 ## Ring Fired Employees for Watching Customer Videos

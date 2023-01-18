@@ -102,7 +102,7 @@
  - RSS feed: https://transparencyreport.google.com/user-data/overview?user_requests_report_period=authority:PL
  - date published: 2022-12-21 18:41:30+00:00
  - user: None
- - tags: surveillence,tracking,privacy,moderation
+ - tags: surveillance,moderation,privacy,tracking
 
 
 ## FBI zapłaciło Twitterowi 3,4 mln USD za nazywanie historii Huntera Bidena rosyjską dezinformacją
@@ -1343,7 +1343,7 @@
  - RSS feed: https://ithardware.pl/feed
  - date published: 2022-09-21 09:24:10+00:00
  - user: None
- - tags: misinformation,control,surveillence,disinformation,usa,bigbrother
+ - tags: usa,surveillance,disinformation,bigbrother,misinformation,control
 
 
 ## Pod presją USA tureckie banki odcinają rosyjski system płatności Mir

@@ -192,5 +192,5 @@
  - RSS feed: www.benchmark.pl
  - date published: 2020-05-01 12:04:50+00:00
  - user: None
- - tags: tracking,xiaomi,privacy,surveillence
+ - tags: xiaomi,surveillance,privacy,tracking
 

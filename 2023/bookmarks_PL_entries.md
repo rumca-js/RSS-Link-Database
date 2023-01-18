@@ -1,3 +1,19 @@
+## Skończył się boom na streaming. Konkurenci Netflixa nadal palą ogromne ilości gotówki
+ - [https://forsal.pl/biznes/media/artykuly/8634619,koniec-boomu-na-rynku-streamingowym.html](https://forsal.pl/biznes/media/artykuly/8634619,koniec-boomu-na-rynku-streamingowym.html)
+ - RSS feed: https://forsal.pl/.feed
+ - date published: 2023-01-17 05:31:39+00:00
+ - user: rumpel
+ - tags: netflix,youllownnothing,streaming
+
+
+## W Hiszpanii przybywa więcej imigrantów, niż rodzi się dzieci
+ - [https://forsal.pl/swiat/aktualnosci/artykuly/8637768,hiszpania-imigranci-demografia.html](https://forsal.pl/swiat/aktualnosci/artykuly/8637768,hiszpania-imigranci-demografia.html)
+ - RSS feed: https://forsal.pl/.feed
+ - date published: 2023-01-16 17:15:57+00:00
+ - user: rumpel
+ - tags: spain,immigration
+
+
 ## Samochody elektryczne to poważne zagrożenie dla innych pojazdów. O tym się nie mówi - Instalki.pl
  - [https://www.instalki.pl/aktualnosci/technika/57737-samochody-elektryczne-masa-zagrozenie-dla-innych-pojazdow.html](https://www.instalki.pl/aktualnosci/technika/57737-samochody-elektryczne-masa-zagrozenie-dla-innych-pojazdow.html)
  - RSS feed: https://www.instalki.pl
@@ -48,7 +64,7 @@
  - RSS feed: https://tvn24.pl/najwazniejsze.xml
  - date published: 2023-01-11 16:08:10+00:00
  - user: rumpel
- - tags: poland,cellebrite,surveillence,privacy
+ - tags: privacy,poland,cellebrite,surveillance
 
 
 ## Szokujące ustalenia prokuratury w sprawie księdza pedofila. Gdyby bp Skworc reagował, udałoby się uniknąć wielu dramatów
@@ -80,7 +96,7 @@
  - RSS feed: https://www.rmf24.pl
  - date published: 2023-01-11 13:12:54+00:00
  - user: rumpel
- - tags: moderation,surveillence,subscription,privacy,misinformation
+ - tags: surveillance,subscription,misinformation,moderation,privacy
 
 
 ## Dyskryminacja klasowa nadal jest faktem. Stała się paliwem dla populistów

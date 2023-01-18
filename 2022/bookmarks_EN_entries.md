@@ -367,7 +367,7 @@
  - RSS feed: https://www.theepochtimes.com/c-tech/feed/
  - date published: 2022-12-25 19:33:38+00:00
  - user: rumpel
- - tags: censorship,bigbrothercollusion,censorshiplaundering,bigtech,surveillence
+ - tags: surveillance,censorshiplaundering,bigtech,bigbrothercollusion,censorship
 
 
 ## The FBI was the primary link between the intelligence community and Twitter
@@ -4235,6 +4235,14 @@
  - user: None
 
 
+## UK police fail to use facial recognition ethically and legally, study finds
+ - [https://www.engadget.com/uk-police-fail-to-use-facial-recognition-ethically-and-legally-researchers-say-082039619.html?src=rss](https://www.engadget.com/uk-police-fail-to-use-facial-recognition-ethically-and-legally-researchers-say-082039619.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2022-10-31 08:20:39+00:00
+ - user: rumpel
+ - tags: surveillance,facialrecognition,bigbrother
+
+
 ## 'Simply being a Christian is enough to get you arrested' in Iran: British government report
  - [https://www.foxnews.com/world/simply-being-a-christian-enough-get-you-arrested-iran-british-government-report](https://www.foxnews.com/world/simply-being-a-christian-enough-get-you-arrested-iran-british-government-report)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
@@ -5269,6 +5277,14 @@
  - date published: 2022-10-22 19:40:13+00:00
  - user: None
  - tags: censorship,bigtech,fauci
+
+
+## Business racing to use facial recognition technology, raising concerns the law is too slow to catch up
+ - [https://www.theguardian.com/world/2022/oct/23/business-racing-to-use-facial-recognition-technology-raising-concerns-the-law-is-too-slow-to-catch-up](https://www.theguardian.com/world/2022/oct/23/business-racing-to-use-facial-recognition-technology-raising-concerns-the-law-is-too-slow-to-catch-up)
+ - RSS feed: https://www.theguardian.com/world/rss
+ - date published: 2022-10-22 19:00:17+00:00
+ - user: rumpel
+ - tags: surveillance,facialrecognition,bigbrother
 
 
 ## 3-3 Natural Deduction | BookStack
@@ -7429,7 +7445,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-22 13:09:43+00:00
  - user: None
- - tags: privacy laundering,privacy,bigtech,bigbrother,surveillence
+ - tags: surveillance,bigbrother,bigtech,privacy,privacy laundering
 
 
 ## Meta aims to slash costs by at least 10% within MONTHS by nudging out staff
@@ -8119,7 +8135,7 @@
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-14 13:38:37+00:00
  - user: None
- - tags: mozilla,surveillence,bigtech,duckduckgo
+ - tags: surveillance,duckduckgo,mozilla,bigtech
 
 
 ## 'It’s f***ed up': Jake Paul DROPS BOMBS about Big Tech working with White House to censor Americans
@@ -9145,6 +9161,14 @@
  - user: None
 
 
+## The dirty "Net Zero" carbon myth (that everyone believes)
+ - [https://www.youtube.com/watch?v=WaLGsZseL3w](https://www.youtube.com/watch?v=WaLGsZseL3w)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC9lKBRxxsDIarUmNaPe0h0Q
+ - date published: 2022-09-01 15:02:17+00:00
+ - user: rumpel
+ - tags: corporatocracy,net zero,climate change
+
+
 ## Things not available when someone blocks all cookies
  - [https://blog.tomayac.com/2022/08/30/things-not-available-when-someone-blocks-all-cookies/](https://blog.tomayac.com/2022/08/30/things-not-available-when-someone-blocks-all-cookies/)
  - RSS feed: https://blog.tomayac.com
@@ -9305,6 +9329,14 @@
  - RSS feed: https://xeiaso.net
  - date published: 2022-08-27 08:02:01.919897+00:00
  - user: Thomas Pain
+
+
+## LGBTQ+ Pride: Firms accused of 'rainbow-washing'
+ - [https://www.bbc.co.uk/news/uk-wales-62597165?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-wales-62597165?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-08-27 06:57:52+00:00
+ - user: rumpel
+ - tags: lgbt,inequality,hypocrisy
 
 
 ## How I used Go to make my radio auto-switch to AUX-IN when a Raspi plays music · Applied Go
@@ -9623,7 +9655,7 @@
  - RSS feed: https://nypost.com
  - date published: 2022-08-14 20:36:44+00:00
  - user: rumpel
- - tags: surveillence,election,facebook,privacy
+ - tags: surveillance,election,privacy,facebook
 
 
 ## How I Hacked my Car Part 3: Making Software :: Programming With Style
@@ -9953,6 +9985,14 @@
  - RSS feed: https://alexcabal.com
  - date published: 2022-07-25 08:11:37.763525+00:00
  - user: Thomas Pain
+
+
+## The secret mission to save LGBT Afghans
+ - [https://www.bbc.co.uk/news/uk-62194995?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-62194995?at_medium=RSS&at_campaign=KARANGA)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2022-07-24 23:50:34+00:00
+ - user: rumpel
+ - tags: lgbt,inequality
 
 
 ## How a Clip From Stray Got Me Banned From Twitter
@@ -12929,6 +12969,14 @@
  - tags: wuhan,fauci,covid
 
 
+## Shell CCS facility in Canada emits more than it captures, study says
+ - [https://www.cnbc.com/2022/01/24/shell-ccs-facility-in-canada-emits-more-than-it-captures-study-says.html](https://www.cnbc.com/2022/01/24/shell-ccs-facility-in-canada-emits-more-than-it-captures-study-says.html)
+ - RSS feed: https://www.cnbc.com
+ - date published: 2022-01-24 13:34:47+00:00
+ - user: rumpel
+ - tags: propaganda,scienceisdead,climate change
+
+
 ## Troy Hunt: How I Got Pwned by My Cloud Costs
  - [https://www.troyhunt.com/how-i-got-pwned-by-my-cloud-costs/](https://www.troyhunt.com/how-i-got-pwned-by-my-cloud-costs/)
  - RSS feed: https://www.troyhunt.com
@@ -13272,6 +13320,14 @@
  - RSS feed: https://www.media.uzh.ch
  - date published: 2022-01-09 10:49:48.977948+00:00
  - user: Thomas Pain
+
+
+## Journalists in Europe are getting attacked for covering anti-lockdown, anti-vaccine protests
+ - [https://theprint.in/world/journalists-in-europe-are-getting-attacked-for-covering-anti-lockdown-anti-vaccine-protests/797005/](https://theprint.in/world/journalists-in-europe-are-getting-attacked-for-covering-anti-lockdown-anti-vaccine-protests/797005/)
+ - RSS feed: https://theprint.in
+ - date published: 2022-01-08 20:49:56+00:00
+ - user: rumpel
+ - tags: media,lockdown,bigbrother,covid
 
 
 ## Saving a Third of Our Memory by Re-ordering Go Struct Fields | Lane's Ramblings

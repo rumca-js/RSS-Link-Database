@@ -174,7 +174,15 @@
  - RSS feed: thenewdaily.com.au
  - date published: 2020-12-10 13:10:45+00:00
  - user: None
- - tags: bigbrother,surveillence,privacy
+ - tags: surveillance,bigbrother,privacy
+
+
+## Sci-fi surveillance: Europe's secretive push into biometric technology
+ - [https://www.theguardian.com/world/2020/dec/10/sci-fi-surveillance-europes-secretive-push-into-biometric-technology](https://www.theguardian.com/world/2020/dec/10/sci-fi-surveillance-europes-secretive-push-into-biometric-technology)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2020-12-10 13:00:02+00:00
+ - user: rumpel
+ - tags: surveillance,corporatocracy,bigbrother,biometric
 
 
 ## The American Companies Enabling China’s Uyghur Genocide
@@ -372,6 +380,14 @@
  - date published: 2020-09-30 13:08:38+00:00
  - user: None
  - tags: government,government control,freedom
+
+
+## On climate change, Exxon, BP, Shell, and other top oil companies have a long way to go - Vox
+ - [https://www.vox.com/energy-and-environment/2020/9/25/21452055/climate-change-exxon-bp-shell-total-chevron-oil-gas](https://www.vox.com/energy-and-environment/2020/9/25/21452055/climate-change-exxon-bp-shell-total-chevron-oil-gas)
+ - RSS feed: https://www.vox.com
+ - date published: 2020-09-25 12:49:31+00:00
+ - user: rumpel
+ - tags: propaganda,scienceisdead,climate change,media manipulation
 
 
 ## Cold comfort: The sun is cooling; doesn't mean there'll be no global warming
@@ -590,7 +606,7 @@
  - RSS feed: https://arstechnica.com
  - date published: 2020-08-04 20:05:35+00:00
  - user: None
- - tags: bigbrother,surveillence,nsa,privacy
+ - tags: privacy,surveillance,bigbrother,nsa
 
 
 ## Google Home might be listening to more than just wake words after secret update
@@ -758,6 +774,14 @@
  - date published: 2020-06-27 06:48:07+00:00
  - user: None
  - tags: windows,hacker
+
+
+## John Oliver on police use of facial recognition: 'We’re about to cross a major line'
+ - [https://www.theguardian.com/culture/2020/jun/15/john-oliver-police-use-facial-recognition](https://www.theguardian.com/culture/2020/jun/15/john-oliver-police-use-facial-recognition)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2020-06-15 16:20:35+00:00
+ - user: rumpel
+ - tags: surveillance,facialrecognition,bigbrother
 
 
 ## Berlin authorities placed children with pedophiles
@@ -1009,6 +1033,14 @@
  - date published: 2020-01-13 19:01:16+00:00
  - user: rumpel
  - tags: greta,corporatocracy,thunberg,climate change
+
+
+## Anger over use of facial recognition at south Wales football derby
+ - [https://www.theguardian.com/technology/2020/jan/12/anger-over-use-facial-recognition-south-wales-football-derby-cardiff-swansea](https://www.theguardian.com/technology/2020/jan/12/anger-over-use-facial-recognition-south-wales-football-derby-cardiff-swansea)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2020-01-12 14:05:26+00:00
+ - user: rumpel
+ - tags: surveillance,facialrecognition,bigbrother
 
 
 ## Ring Fired Employees for Watching Customer Videos
