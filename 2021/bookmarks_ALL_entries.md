@@ -162,6 +162,14 @@
  - user: Thomas Pain
 
 
+## Gaming's Third Greatest Scam: Good Graphics.
+ - [https://www.youtube.com/watch?v=L-A5QrhZtGU](https://www.youtube.com/watch?v=L-A5QrhZtGU)
+ - RSS feed: https://www.youtube.com
+ - date published: 2021-12-24 20:59:59+00:00
+ - user: rumpel
+ - tags: graphics,gaming
+
+
 ## Why I wrote my own Go HTTP client · The Ethically-Trained Programmer
  - [https://blog.carlmjohnson.net/post/2021/requests-golang-http-client/](https://blog.carlmjohnson.net/post/2021/requests-golang-http-client/)
  - RSS feed: https://blog.carlmjohnson.net
@@ -1616,18 +1624,19 @@
  - tags: censorship,facebook
 
 
-## The real reason why these countries have limited use of the Moderna COVID-19 vaccine
- - [https://www.msn.com/en-us/health/medical/the-real-reason-why-these-countries-have-limited-use-of-the-moderna-covid-19-vaccine/ar-AAPfZOE](https://www.msn.com/en-us/health/medical/the-real-reason-why-these-countries-have-limited-use-of-the-moderna-covid-19-vaccine/ar-AAPfZOE)
- - RSS feed: www.msn.com
- - date published: 2021-10-08 07:19:40+00:00
- - user: None
-
-
 ## Australia. Rząd chce zakazać anonimowych komentarzy. Media społecznościowe to "pałac tchórzy"
  - [https://www.polsatnews.pl/wiadomosc/2021-10-07/australia-rzad-chce-zakazac-anonimowych-komentarzy-media-spolecznosciowe-to-palac-tchorzy/](https://www.polsatnews.pl/wiadomosc/2021-10-07/australia-rzad-chce-zakazac-anonimowych-komentarzy-media-spolecznosciowe-to-palac-tchorzy/)
  - RSS feed: https://www.polsatnews.pl
  - date published: 2021-10-07 20:22:14+00:00
  - user: None
+
+
+## Finland joins Sweden and Denmark in limiting Moderna COVID-19 vaccine
+ - [https://www.reuters.com/world/europe/finland-pauses-use-moderna-covid-19-vaccine-young-men-2021-10-07/](https://www.reuters.com/world/europe/finland-pauses-use-moderna-covid-19-vaccine-young-men-2021-10-07/)
+ - RSS feed: https://www.reuters.com
+ - date published: 2021-10-07 16:31:39+00:00
+ - user: rumpel
+ - tags: covid,vaccine,moderna
 
 
 ## Whistleblower breaks Facebook secrecy wall, MP says - BBC News
@@ -2692,6 +2701,7 @@
  - RSS feed: https://www.youtube.com/c/academyofideas
  - date published: 2021-08-07 21:16:39+00:00
  - user: None
+ - tags: orwell
 
 
 ## Ryan Reynolds: Why Free Guy is more than a 'video game movie' - BBC News
@@ -2992,6 +3002,14 @@
  - RSS feed: https://blog.cloudflare.com
  - date published: 2021-07-24 10:11:48.543243+00:00
  - user: Thomas Pain
+
+
+## Australia Covid: Arrests at anti-lockdown protests
+ - [https://www.bbc.co.uk/news/world-australia-57952516](https://www.bbc.co.uk/news/world-australia-57952516)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2021-07-24 07:02:04+00:00
+ - user: rumpel
+ - tags: covid,lockdown
 
 
 ## Interesting Go Memory Issue | Ben E. C. Boyter
@@ -3715,6 +3733,7 @@
  - RSS feed: https://www.bbc.com
  - date published: 2021-05-27 20:19:38+00:00
  - user: None
+ - tags: microsoft,surveillance,bigtech,orwell
 
 
 ## Fauci admits ‘modest’ NIH funding of Wuhan lab but denies ‘gain of function
@@ -4455,4 +4474,12 @@
  - date published: 2021-01-04 21:53:34+00:00
  - user: rumpel
  - tags: lgbt,newspeak,pronouns,gender,social engineering
+
+
+## Why am I so Anti-Video Gaymes?
+ - [https://www.youtube.com/watch?v=L5xd5yejPBE](https://www.youtube.com/watch?v=L5xd5yejPBE)
+ - RSS feed: https://www.youtube.com
+ - date published: 2021-01-01 20:58:00+00:00
+ - user: rumpel
+ - tags: games,luke smith
 

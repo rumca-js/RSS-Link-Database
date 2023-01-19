@@ -38,6 +38,14 @@
  - tags: bunga bunga,berlusconi,politicians,bilionaries
 
 
+## The Myth of U.S. Democracy and the Reality of U.S. Corporatocracy
+ - [https://www.huffpost.com/entry/the-myth-of-us-democracy-corporatocracy_b_836573](https://www.huffpost.com/entry/the-myth-of-us-democracy-corporatocracy_b_836573)
+ - RSS feed: https://www.huffpost.com
+ - date published: 2011-05-25 21:02:25+00:00
+ - user: rumpel
+ - tags: corporatocracy,oligopoly,billionaires,elites
+
+
 ## The Berlusconi in Us All: Bunga Bunga's Real Meaning
  - [https://www.theatlantic.com/international/archive/2011/04/the-berlusconi-in-us-all-bunga-bungas-real-meaning/236871/](https://www.theatlantic.com/international/archive/2011/04/the-berlusconi-in-us-all-bunga-bungas-real-meaning/236871/)
  - RSS feed: https://www.theatlantic.com

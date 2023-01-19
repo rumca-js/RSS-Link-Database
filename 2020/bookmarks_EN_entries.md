@@ -241,6 +241,14 @@
  - tags: cablegate,hillary clinton,assange,wikileaks
 
 
+## You Own Nothing: The True Cost of Digital Media
+ - [https://www.youtube.com/watch?v=iSGu_P185s4](https://www.youtube.com/watch?v=iSGu_P185s4)
+ - RSS feed: https://www.youtube.com
+ - date published: 2020-11-27 20:54:09+00:00
+ - user: rumpel
+ - tags: digital media,youwillownnothing,subscription
+
+
 ## How Does China's Social Credit System Work?
  - [https://www.youtube.com/watch?v=PVkWokLqPOg](https://www.youtube.com/watch?v=PVkWokLqPOg)
  - RSS feed: https://www.youtube.com/@laowhy86
@@ -476,6 +484,14 @@
  - tags: woke,science,cancel culture,censorship,scienceisdead,race
 
 
+## Coronavirus sceptics, conspiracy theorists and anti-vaxxers protest in London
+ - [https://www.theguardian.com/world/2020/aug/29/coronavirus-sceptics-conspiracy-theorists-anti-vaxxers-protest-london](https://www.theguardian.com/world/2020/aug/29/coronavirus-sceptics-conspiracy-theorists-anti-vaxxers-protest-london)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2020-08-29 15:12:08+00:00
+ - user: rumpel
+ - tags: covid,mediamisleadingtitle,protest,lockdown
+
+
 ## The Social Dilemma | Official Trailer | NetflixThe Social Dilemma | Official Trailer | Netflix
  - [https://www.youtube.com/watch?v=uaaC57tcci0](https://www.youtube.com/watch?v=uaaC57tcci0)
  - RSS feed: https://www.youtube.com
@@ -489,6 +505,7 @@
  - RSS feed: https://reclaimthenet.org
  - date published: 2020-08-25 20:07:21+00:00
  - user: None
+ - tags: monopoly,google,corporatocracy
 
 
 ## Unredacted suit shows Google’s own engineers confused by privacy settings

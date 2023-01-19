@@ -169,6 +169,7 @@
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-29 13:21:28.213916+00:00
  - user: rumpel
+ - tags: covid,fraud,pandmic
 
 
 ## Croatia braces for major logistical challenge of changing currencies
@@ -254,6 +255,14 @@
  - date published: 2022-12-27 23:59:01+00:00
  - user: rumpel
  - tags: woke,australia,gender
+
+
+## Scheduled to Die: The Rise of Canada’s Assisted Suicide Program
+ - [https://www.thefp.com/p/scheduled-to-die-the-rise-of-canadas](https://www.thefp.com/p/scheduled-to-die-the-rise-of-canadas)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-12-27 16:01:08+00:00
+ - user: rumpel
+ - tags: depopulation,canada
 
 
 ## Top Biden Official Pushed Big Tech To Censor ‘Misinformation’ On Trans ‘Care’ For Minors, Video Shows
@@ -562,6 +571,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-12-22 20:39:59+00:00
  - user: rumpel
+ - tags: disney,woke,gowokegobroke
 
 
 ## The fundamental rights of millions are impacted when Apple does business with authoritarian regimes
@@ -746,6 +756,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-21 13:41:43+00:00
  - user: rumpel
+ - tags: vaccine,covid,pfizer
 
 
 ## UK says sharing Netflix passwords could be illegal
@@ -887,6 +898,7 @@
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-19 15:10:57+00:00
  - user: None
+ - tags: twitter; twitter files,fbi
 
 
 ## Tell HN: Google Maps location data is used for GeoIP updates
@@ -1694,6 +1706,7 @@
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCmFeOdJI3IXgTBDzqBLD8qg
  - date published: 2022-12-10 02:21:12+00:00
  - user: None
+ - tags: tencent,china,corporatocracy
 
 
 ## BlackRock CEO Larry Fink is called to quit by pension chief over ESG obsession
@@ -1747,6 +1760,14 @@
  - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
  - date published: 2022-12-09 00:07:24+00:00
  - user: None
+
+
+## Australian COVID Measures Led to Lowest Elective Surgery Numbers in a Decade
+ - [https://www.theepochtimes.com/australian-covid-measures-led-to-lowest-elective-surgery-numbers-in-a-decade_4908265.html](https://www.theepochtimes.com/australian-covid-measures-led-to-lowest-elective-surgery-numbers-in-a-decade_4908265.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2022-12-08 23:54:01+00:00
+ - user: rumpel
+ - tags: covid,collateraldeaths
 
 
 ## The Great Climate Con | Alex Epstein | #312
@@ -2936,6 +2957,7 @@
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCtZO3K2p8mqFwiKWb9k7fXA
  - date published: 2022-11-20 10:49:37+00:00
  - user: None
+ - tags: internet,splinternet,balkanisation
 
 
 ## Jeffrey Sachs Presents Evidence of Possible Lab Origin of Covid-19
@@ -3063,6 +3085,14 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-16 13:05:11+00:00
  - user: None
+
+
+## Covid Australia: ABC's Dr Norman Swan's huge mistakes about the pandemic
+ - [https://www.dailymail.co.uk/news/article-11432117/Covid-Australia-ABCs-Dr-Norman-Swans-huge-mistakes-pandemic.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11432117/Covid-Australia-ABCs-Dr-Norman-Swans-huge-mistakes-pandemic.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2022-11-16 03:04:29+00:00
+ - user: rumpel
+ - tags: covid,fear,propaganda
 
 
 ## Digital Books wear out faster than Physical Books
@@ -3823,13 +3853,6 @@
  - tags: propaganda,covid
 
 
-## How to download your Twitter data
- - [https://www.pcworld.com/article/1368195/how-to-download-your-twitter-data.html](https://www.pcworld.com/article/1368195/how-to-download-your-twitter-data.html)
- - RSS feed: https://www.pcworld.com/index.rss
- - date published: 2022-11-03 10:30:00+00:00
- - user: None
-
-
 ## TikTok says staff in China can access UK and EU user data
  - [https://www.bbc.co.uk/news/business-63494951?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63494951?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/technology/rss.xml
@@ -4128,6 +4151,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-01 04:25:25+00:00
  - user: None
+ - tags: raspberry
 
 
 ## Big Tech Earnings Put Advertising, Privacy, And User Experience In Focus
@@ -4384,6 +4408,7 @@
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-10-29 14:30:20+00:00
  - user: None
+ - tags: big tech,smartcity,digital government
 
 
 ## Netflix's Password Sharing Crackdown Is Coming     - CNET
@@ -4479,13 +4504,6 @@
  - tags: surveillance,iran,bigbrother
 
 
-## If You're Deleting Twitter, Archive Your Tweets and DMs First     - CNET
- - [https://www.cnet.com/tech/services-and-software/if-youre-deleting-twitter-archive-your-tweets-and-dms-first/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/if-youre-deleting-twitter-archive-your-tweets-and-dms-first/#ftag=CADf328eec)
- - RSS feed: https://www.cnet.com/rss/all/
- - date published: 2022-10-28 16:20:03+00:00
- - user: None
-
-
 ## COVID-19 pandemic 'likely' originated with Chinese lab leak, Senate Republican report finds
  - [https://www.foxnews.com/politics/covid-19-pandemic-likely-originated-chinese-lab-leak-senate-republican-report-finds](https://www.foxnews.com/politics/covid-19-pandemic-likely-originated-chinese-lab-leak-senate-republican-report-finds)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
@@ -4573,6 +4591,7 @@
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-10-28 01:52:05+00:00
  - user: None
+ - tags: billionaires,elites,twitter,twitter files
 
 
 ## Foreign investors are pulling out quickly: China's economy is looking bleak/A major purge is coming
@@ -4667,6 +4686,7 @@
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-10-27 12:19:54+00:00
  - user: None
+ - tags: privacy,monopoly,google,chrome,ads
 
 
 ## US Citizens Were Given Secret Covid “decree violation” Scores
@@ -4899,6 +4919,7 @@
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-10-26 03:00:10+00:00
  - user: None
+ - tags: russia,war,france,spy
 
 
 ## Chinese students filmed shouting at Japanese student, blocking his presentation on Taiwan at a UK university
@@ -4919,13 +4940,6 @@
  - [https://biztoc.com/p/8ywu3duf?ref=rss&rd=1](https://biztoc.com/p/8ywu3duf?ref=rss&rd=1)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-25 23:00:00+00:00
- - user: None
-
-
-## Google Quietly Added HEVC Support in Chrome
- - [https://bitmovin.com/google-adds-hevc-support-chrome/](https://bitmovin.com/google-adds-hevc-support-chrome/)
- - RSS feed: https://hnrss.org/frontpage
- - date published: 2022-10-25 22:32:47+00:00
  - user: None
 
 
@@ -5078,6 +5092,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-10-25 00:44:03+00:00
  - user: None
+ - tags: linux
 
 
 ## “The Truth Matters” : Matt Walsh Speaks At UW-Madison
@@ -5130,6 +5145,7 @@
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-24 16:32:44+00:00
  - user: None
+ - tags: games
 
 
 ## California school broadcasts sexually explicit books, some covering 'pedophiles,' kink and pornographic images
@@ -5367,6 +5383,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-10-22 06:00:43+00:00
  - user: None
+ - tags: programming,floating-point
 
 
 ## ‘Battle Of Good Vs. Evil’: Read Matt Walsh’s Full Speech Delivered At The ‘Rally To End Child Mutilation’
@@ -5485,6 +5502,7 @@
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-10-21 17:01:34+00:00
  - user: None
+ - tags: orwell
 
 
 ## New Jersey Bill Could Ban In-Car Subscriptions     - CNET
@@ -6007,6 +6025,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-10-10 23:31:37+00:00
  - user: None
+ - tags: dogmat,scienceisdead,science
 
 
 ## This California City Is Rapidly Running Out of Water
@@ -6281,6 +6300,7 @@
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-10-06 04:00:00+00:00
  - user: None
+ - tags: linux
 
 
 ## Amazon suspends at least 50 workers after fire protest
@@ -6468,6 +6488,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-10-04 06:39:56+00:00
  - user: None
+ - tags: bigbrother,government,censorship
 
 
 ## CEOs are preparing for a recession, and they don't think it will be short
@@ -6706,6 +6727,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-29 23:59:46+00:00
  - user: None
+ - tags: social media,bigtech,social control
 
 
 ## Trans charity probed after claims it sent breast-flattening devices to girls behind parents' backs
@@ -7003,6 +7025,7 @@
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-27 04:00:00+00:00
  - user: None
+ - tags: debug,performance,programming,c++
 
 
 ## China's secret plot to make Australia dependent on it for electric cars as it is for everything else
@@ -7173,6 +7196,7 @@
  - RSS feed: https://www.businessinsider.com
  - date published: 2022-09-24 20:43:07+00:00
  - user: None
+ - tags: youwillownnothing,subscription
 
 
 ## Bill Gates says political polarization 'may bring it all to an end' and could even lead to a civil war
@@ -7188,6 +7212,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-24 17:04:50+00:00
  - user: None
+ - tags: laptop,linux
 
 
 ## Universal settles after Despicable Me character 'made racist OK symbol while stood next to children'
@@ -7372,6 +7397,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-22 21:57:24+00:00
  - user: None
+ - tags: corporatocracy,freedom,censorship,paypal,freespeech
 
 
 ## Meta’s Own Commissioned Report Says It Harmed Palestinian Human Rights
@@ -7637,6 +7663,7 @@
  - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
  - date published: 2022-09-19 19:13:41+00:00
  - user: None
+ - tags: social media,bigtech,polarization,social control
 
 
 ## James Cameron says he knows what led to the downfall of 3D TVs
@@ -7935,6 +7962,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-15 22:47:43+00:00
  - user: None
+ - tags: ads,youtube,subscription
 
 
 ## EU lawmakers declare that Hungary is no longer a democracy
@@ -8050,13 +8078,6 @@
  - user: None
 
 
-## Google employees alarmed that the company suddenly expects them to do work
- - [https://futurism.com/the-byte/google-employees-work-mandate](https://futurism.com/the-byte/google-employees-work-mandate)
- - RSS feed: https://hnrss.org/frontpage
- - date published: 2022-09-14 23:12:57+00:00
- - user: None
-
-
 ## Google is finally rolling out Play Store reviews tailored to your device
  - [https://www.theverge.com/2022/9/14/23353784/google-play-store-device-type-specific-reviews](https://www.theverge.com/2022/9/14/23353784/google-play-store-device-type-specific-reviews)
  - RSS feed: https://www.theverge.com/rss/index.xml
@@ -8150,6 +8171,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-14 12:02:00+00:00
  - user: None
+ - tags: privacy
 
 
 ## Google loses appeal over record EU anti-trust Android fine
@@ -8164,6 +8186,7 @@
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-14 04:00:00+00:00
  - user: None
+ - tags: google,artificial intelligence
 
 
 ## KFC secret recipe: Uproar after additive in fried chicken seasoning is exposed
@@ -8220,6 +8243,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-13 16:25:25+00:00
  - user: None
+ - tags: facebook,dead internet
 
 
 ## 'Woke' Department of Defense equity chief writes anti-White posts: 'Exhausted with these white folx'
@@ -8564,6 +8588,7 @@
  - RSS feed: https://www.digitaltrends.com/news/rss
  - date published: 2022-09-09 10:30:55.970530+00:00
  - user: None
+ - tags: privacy,bigtech,social media,surveillance,internet
 
 
 ## BookStack Release v22.09 · BookStack
@@ -9124,6 +9149,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-02 07:27:13+00:00
  - user: None
+ - tags: play store,bigtech,social media,google,censorship
 
 
 ## China Locks Down Chengdu as Covid Cases Rise
@@ -9403,6 +9429,7 @@
  - RSS feed: bomega.pl
  - date published: 2022-08-24 12:50:55.802328+00:00
  - user: None
+ - tags: conspiracy theory,feudalism,brzezinski
 
 
 ## ShadowGate – A Banned Documentary Covering The Deep State Coup
@@ -9459,6 +9486,7 @@
  - RSS feed: nymag.com
  - date published: 2022-08-24 12:04:49.992823+00:00
  - user: None
+ - tags: bots,dead internet
 
 
 ## Google Quickly Resets, Screens Results for ‘Mass Formation Psychosis’ After Bombshell Dr. Malone, Joe Rogan Interview
@@ -10335,13 +10363,6 @@
  - user: Thomas Pain
 
 
-## The future of privacy rights in a post-Roe world
- - [https://www.axios.com/2022/06/29/privacy-right-roe-v-wade-dobbs-v-jackson-online-data](https://www.axios.com/2022/06/29/privacy-right-roe-v-wade-dobbs-v-jackson-online-data)
- - RSS feed: https://www.axios.com
- - date published: 2022-06-29 17:34:56.362739+00:00
- - user: Thomas Pain
-
-
 ## BMW F Series Gear Selector, Part Two: Breakthrough – Project Gus
  - [https://www.projectgus.com/2022/06/bmw-f-series-gear-selector-part-two-breakthrough/](https://www.projectgus.com/2022/06/bmw-f-series-gear-selector-part-two-breakthrough/)
  - RSS feed: https://www.projectgus.com
@@ -10354,7 +10375,7 @@
  - RSS feed: https://ramapascala.substack.com
  - date published: 2022-06-29 11:54:47+00:00
  - user: rumpel
- - tags: climate change,all time,pollution
+ - tags: climate change,pollution
 
 
 ## Inside the secret, often bizarre world that decides what porn you see
@@ -11263,6 +11284,7 @@
  - RSS feed: https://www.youtube.com/@eBuzzCentral
  - date published: 2022-05-04 20:25:51+00:00
  - user: None
+ - tags: windows,subscription
 
 
 ## Slime mold
@@ -12215,6 +12237,14 @@
  - date published: 2022-03-16 21:58:08+00:00
  - user: rumpel
  - tags: science,corporatocracy,scienceisdead,oligopoly,corporations
+
+
+## How I survived a DDoS attack
+ - [https://www.youtube.com/watch?v=VPcYMgTYQs0](https://www.youtube.com/watch?v=VPcYMgTYQs0)
+ - RSS feed: https://www.youtube.com
+ - date published: 2022-03-16 20:52:52+00:00
+ - user: rumpel
+ - tags: hacker,programming,ddos
 
 
 ## The three-minute rule: the scientific way to tackle your most-hated chores | Life and style | The Guardian

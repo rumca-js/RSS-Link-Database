@@ -67,6 +67,7 @@
  - RSS feed: www.reuters.com
  - date published: 2015-08-24 12:45:42+00:00
  - user: None
+ - tags: privacy,surveillence,nsa,bigbrother
 
 
 ## Memento Explanation by Christopher Nolan - True Genius - Must Watch

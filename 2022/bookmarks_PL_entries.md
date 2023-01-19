@@ -102,7 +102,7 @@
  - RSS feed: https://transparencyreport.google.com/user-data/overview?user_requests_report_period=authority:PL
  - date published: 2022-12-21 18:41:30+00:00
  - user: None
- - tags: surveillance,moderation,privacy,tracking
+ - tags: moderation,privacy,all time,surveillance,tracking
 
 
 ## FBI zapłaciło Twitterowi 3,4 mln USD za nazywanie historii Huntera Bidena rosyjską dezinformacją
@@ -419,6 +419,7 @@
  - RSS feed: https://wydarzenia.interia.pl/feed
  - date published: 2022-10-30 08:43:22+00:00
  - user: None
+ - tags: liz truss,smartphones,security,politics,spy
 
 
 ## Chiny znów objęły lockdownem ponad 200 mln osób. Winne: nowe warianty COVID-19
@@ -483,13 +484,6 @@
  - [https://www.bankier.pl/wiadomosc/Byly-prezes-chinskiego-panstwowego-banku-aresztowany-8429176.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Byly-prezes-chinskiego-panstwowego-banku-aresztowany-8429176.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
  - date published: 2022-10-26 11:25:00+00:00
- - user: None
-
-
-## Niemcy: 4000 euro kary za użycie symbolu "Z"
- - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-niemcy-4000-euro-kary-za-uzycie-symbolu-z,nId,6371783](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-niemcy-4000-euro-kary-za-uzycie-symbolu-z,nId,6371783)
- - RSS feed: https://wydarzenia.interia.pl/feed
- - date published: 2022-10-26 10:06:46+00:00
  - user: None
 
 
@@ -1677,6 +1671,7 @@
  - RSS feed: https://www.wykop.pl/rss/index.xml/
  - date published: 2022-09-05 15:41:01+00:00
  - user: None
+ - tags: climate change,electric vehicles
 
 
 ## Cloudflare się ugiął i usunął hejterskie forum, ale trochę żałuje
@@ -1733,6 +1728,7 @@
  - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
  - date published: 2022-09-03 17:00:00+00:00
  - user: None
+ - tags: malware,google,play store
 
 
 ## Samsung znów został zhakowany. Firma potwierdza przejęcie danych
@@ -1944,7 +1940,7 @@
  - RSS feed: https://www.instalki.pl
  - date published: 2022-02-06 21:31:13+00:00
  - user: rumpel
- - tags: wrongthink,bigbrother,google,maps
+ - tags: wrongthink,google,corporatocracy,maps
 
 
 ## Pracownicy rzeszowskiego szpitala przeciwko obowiązkowi szczepień. Gotowi są odejść z pracy

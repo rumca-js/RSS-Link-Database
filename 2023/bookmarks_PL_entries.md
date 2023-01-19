@@ -28,6 +28,14 @@
  - user: rumpel
 
 
+## Pierwsze odszkodowania za NOP-y już wypłacone. Kwota robi wrażenie
+ - [https://businessinsider.com.pl/wiadomosci/pierwsze-odszkodowania-za-nop-y-juz-wyplacone-kwota-robi-wrazenie/p79g6te](https://businessinsider.com.pl/wiadomosci/pierwsze-odszkodowania-za-nop-y-juz-wyplacone-kwota-robi-wrazenie/p79g6te)
+ - RSS feed: https://businessinsider.com.pl/.feed
+ - date published: 2023-01-14 06:34:11+00:00
+ - user: rumpel
+ - tags: vaccine,covid
+
+
 ## Ursula von der Leyen ma być przesłuchiwana w PE. Chodzi o szczepionki
  - [https://www.rmf24.pl/raporty/raport-program-szczepien-przeciw-covid/news-ursula-von-der-leyen-ma-byc-przesluchiwana-w-pe-chodzi-o-szc,nId,6530045#crp_state=1](https://www.rmf24.pl/raporty/raport-program-szczepien-przeciw-covid/news-ursula-von-der-leyen-ma-byc-przesluchiwana-w-pe-chodzi-o-szc,nId,6530045#crp_state=1)
  - RSS feed: https://www.rmf24.pl
@@ -49,6 +57,15 @@
  - RSS feed: https://niezalezna.pl/
  - date published: 2023-01-12 16:10:06.053921+00:00
  - user: rumpel
+ - tags: climate change,carbon footprint
+
+
+## Praca jak każda inna. "Bardzo bym sobie życzyła, żeby oddemonizować ten sex work w Polsce"
+ - [https://weekend.gazeta.pl/weekend/7,177334,29350456,praca-jak-kazda-inna-bardzo-bym-sobie-zyczyla-zeby-oddemonizowac.html](https://weekend.gazeta.pl/weekend/7,177334,29350456,praca-jak-kazda-inna-bardzo-bym-sobie-zyczyla-zeby-oddemonizowac.html)
+ - RSS feed: https://weekend.gazeta.pl
+ - date published: 2023-01-12 09:03:58+00:00
+ - user: rumpel
+ - tags: antisocial,feminism,sexualization
 
 
 ## Zutylizowany COVID-19. W europejskich magazynach leży ok. 430 mln dawek szczepionek
@@ -105,6 +122,14 @@
  - date published: 2023-01-08 07:00:00+00:00
  - user: rumpel
  - tags: socialism,inequality
+
+
+## Media społecznościowe stworzyły pokolenie "przewrażliwionych dzieci". To zagraża kapitalizmowi
+ - [https://businessinsider.com.pl/lifestyle/media-spolecznosciowe-stworzyly-pokolenie-przewrazliwionych-dzieci-to-zagraza/kggs4w4](https://businessinsider.com.pl/lifestyle/media-spolecznosciowe-stworzyly-pokolenie-przewrazliwionych-dzieci-to-zagraza/kggs4w4)
+ - RSS feed: https://businessinsider.com.pl/.feed
+ - date published: 2023-01-07 12:30:00+00:00
+ - user: rumpel
+ - tags: newspeak,social media
 
 
 ## Masz radio w aucie? Musisz płacić abonament RTV. W 2023 wzrosły kary - Instalki.pl

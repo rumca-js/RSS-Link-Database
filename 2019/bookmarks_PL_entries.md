@@ -51,6 +51,7 @@
  - RSS feed: www.geekweek.pl
  - date published: 2019-08-24 13:09:09+00:00
  - user: None
+ - tags: india,bigbrother,corporatocracy,biometric,surveillance,facial recognition
 
 
 ## Oskarżenia pod adresem Grety Thunberg. „Stoją za nią PR-owcy i koncerny”

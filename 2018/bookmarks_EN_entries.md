@@ -387,6 +387,7 @@
  - RSS feed: www.csoonline.com
  - date published: 2018-01-18 06:47:39+00:00
  - user: None
+ - tags: privacy,skygofree,google,surveillence,android
 
 
 ## Prometheus Script Reveals TRUTH about Engineers, Black Goo and Deacon

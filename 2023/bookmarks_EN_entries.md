@@ -1,8 +1,64 @@
+## Scientists are getting eerily good at using WiFi to 'see' people through walls in detail
+ - [https://www.vice.com/en/article/y3p7xj/scientists-are-getting-eerily-good-at-using-wifi-to-see-people-through-walls-in-detail](https://www.vice.com/en/article/y3p7xj/scientists-are-getting-eerily-good-at-using-wifi-to-see-people-through-walls-in-detail)
+ - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
+ - date published: 2023-01-19 05:00:00+00:00
+ - user: rumpel
+ - tags: privacy,digital bunker,security,smarthome
+
+
+## New York City to provide free abortion pills at four clinics
+ - [https://www.theguardian.com/us-news/2023/jan/18/new-york-city-provides-free-abortion-pills-clinics](https://www.theguardian.com/us-news/2023/jan/18/new-york-city-provides-free-abortion-pills-clinics)
+ - RSS feed: https://www.theguardian.com/world/rss
+ - date published: 2023-01-18 17:49:12+00:00
+ - user: rumpel
+ - tags: depopulation
+
+
+## Everyone hates Velma the lesbian detective. Is she really an insult to Scooby-Doo fans? | Arwa Mahdawi
+ - [https://www.theguardian.com/commentisfree/2023/jan/18/velma-lesbian-detective-scooby-doo-fans-hate](https://www.theguardian.com/commentisfree/2023/jan/18/velma-lesbian-detective-scooby-doo-fans-hate)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-01-18 07:00:38+00:00
+ - user: rumpel
+ - tags: lgbt,woke,hate speech,movies,racism
+
+
+## Stop feeding the hype and start resisting
+ - [https://irisvanrooijcogsci.com/2023/01/14/stop-feeding-the-hype-and-start-resisting/](https://irisvanrooijcogsci.com/2023/01/14/stop-feeding-the-hype-and-start-resisting/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-01-18 05:36:56+00:00
+ - user: rumpel
+ - tags: artificial intelligence,big tech,billionaires
+
+
+## The Art of Knowing When to Quit
+ - [https://blog.jim-nielsen.com/2023/art-of-knowing-when-to-quit/](https://blog.jim-nielsen.com/2023/art-of-knowing-when-to-quit/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-01-17 23:04:06+00:00
+ - user: rumpel
+ - tags: psychology
+
+
+## SNP's alleged private car ban criticised worldwide for 'freedom' killing agenda - Scottish Daily Express
+ - [https://www.scottishdailyexpress.co.uk/news/politics/snps-alleged-private-car-ban-28981118](https://www.scottishdailyexpress.co.uk/news/politics/snps-alleged-private-car-ban-28981118)
+ - RSS feed: https://www.scottishdailyexpress.co.uk
+ - date published: 2023-01-17 21:08:35+00:00
+ - user: rumpel
+ - tags: climate change,scotland,freedom
+
+
 ## Blocking Scotland’s gender bill is no anti-woke crusade. But it’s not a democratic outrage either | Martin Kettle
  - [https://www.theguardian.com/commentisfree/2023/jan/17/blocking-scotland-gender-recognition-bill-rishi-sunak](https://www.theguardian.com/commentisfree/2023/jan/17/blocking-scotland-gender-recognition-bill-rishi-sunak)
  - RSS feed: https://www.theguardian.com/rss
  - date published: 2023-01-17 16:32:18+00:00
  - user: rumpel
+
+
+## TAPES: We Investigated a Suburban LGBTQ Pedophile Ring. Here's What We Found.
+ - [https://townhall.com/tipsheet/miacathell/2023/01/17/zulock-case-pt-1-n2618219](https://townhall.com/tipsheet/miacathell/2023/01/17/zulock-case-pt-1-n2618219)
+ - RSS feed: https://townhall.com
+ - date published: 2023-01-17 16:12:51+00:00
+ - user: rumpel
+ - tags: lgbt,paedophilia
 
 
 ## The FBI Identified a Tor User
@@ -82,6 +138,7 @@
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2023-01-15 13:00:01+00:00
  - user: rumpel
+ - tags: billionaires,climate change,carbon footprint
 
 
 ## I'm Shadow Banned by DuckDuckGo (and Bing)
@@ -97,6 +154,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2023-01-15 07:18:20+00:00
  - user: rumpel
+ - tags: sqlite,programming
 
 
 ## How Police Exploited the Capitol Riot’s Digital Records
@@ -121,14 +179,6 @@
  - date published: 2023-01-14 10:21:59+00:00
  - user: rumpel
  - tags: vaccine
-
-
-## Pierwsze odszkodowania za NOP-y już wypłacone. Kwota robi wrażenie
- - [https://businessinsider.com.pl/wiadomosci/pierwsze-odszkodowania-za-nop-y-juz-wyplacone-kwota-robi-wrazenie/p79g6te](https://businessinsider.com.pl/wiadomosci/pierwsze-odszkodowania-za-nop-y-juz-wyplacone-kwota-robi-wrazenie/p79g6te)
- - RSS feed: https://businessinsider.com.pl/.feed
- - date published: 2023-01-14 06:34:11+00:00
- - user: rumpel
- - tags: vaccine,covid
 
 
 ## TikTok Fined $5.4 Million by French Regulator for Violating Cookie Laws
@@ -368,14 +418,6 @@
  - tags: vaccine,covid
 
 
-## Praca jak każda inna. "Bardzo bym sobie życzyła, żeby oddemonizować ten sex work w Polsce"
- - [https://weekend.gazeta.pl/weekend/7,177334,29350456,praca-jak-kazda-inna-bardzo-bym-sobie-zyczyla-zeby-oddemonizowac.html](https://weekend.gazeta.pl/weekend/7,177334,29350456,praca-jak-kazda-inna-bardzo-bym-sobie-zyczyla-zeby-oddemonizowac.html)
- - RSS feed: https://weekend.gazeta.pl
- - date published: 2023-01-12 09:03:58+00:00
- - user: rumpel
- - tags: antisocial,feminism,sexualization
-
-
 ## US carbon emissions grew in 2022, even as renewables surpassed coal
  - [https://www.reddit.com/r/news/comments/109q9sj/us_carbon_emissions_grew_in_2022_even_as/](https://www.reddit.com/r/news/comments/109q9sj/us_carbon_emissions_grew_in_2022_even_as/)
  - RSS feed: http://www.reddit.com/r/news/.rss
@@ -437,6 +479,14 @@
  - date published: 2023-01-11 05:00:00+00:00
  - user: rumpel
  - tags: clean code,programming
+
+
+## ‘Twitter Files’ Exposes Pfizer Official's Role in Censoring COVID Speech
+ - [https://www.dailysignal.com/2023/01/10/twitter-files-unveils-how-pfizer-official-colluded-with-big-tech-to-censor-speech-on-covid-19/](https://www.dailysignal.com/2023/01/10/twitter-files-unveils-how-pfizer-official-colluded-with-big-tech-to-censor-speech-on-covid-19/)
+ - RSS feed: https://www.dailysignal.com
+ - date published: 2023-01-10 21:13:07+00:00
+ - user: rumpel
+ - tags: censorship,pfizer,bigtech,twitter files,twitter
 
 
 ## Brazil riots trigger widespread content bans on Facebook, YouTube
@@ -508,7 +558,7 @@
  - RSS feed: https://en.wikipedia.org
  - date published: 2023-01-09 21:01:12+00:00
  - user: rumpel
- - tags: america,war
+ - tags: war,politics,america
 
 
 ## CDC publishes language guidelines
@@ -517,6 +567,13 @@
  - date published: 2023-01-09 20:12:54+00:00
  - user: rumpel
  - tags: newspeak,orwell,woke
+
+
+## The White House Covid Censorship Machine
+ - [https://dailysceptic.org/2023/01/09/the-white-house-covid-censorship-machine/](https://dailysceptic.org/2023/01/09/the-white-house-covid-censorship-machine/)
+ - RSS feed: https://dailysceptic.org/feed/
+ - date published: 2023-01-09 17:00:00+00:00
+ - user: rumpel
 
 
 ## Lizzo says cancel culture has become 'misused and misdirected'
@@ -541,6 +598,14 @@
  - date published: 2023-01-09 14:19:19+00:00
  - user: rumpel
  - tags: co2,climate change,germany
+
+
+## The White House Covid Censorship Machine - WSJ
+ - [https://www.wsj.com/articles/white-house-covid-censorship-machine-social-media-facebook-meta-executive-rob-flaherty-free-speech-google-11673203704](https://www.wsj.com/articles/white-house-covid-censorship-machine-social-media-facebook-meta-executive-rob-flaherty-free-speech-google-11673203704)
+ - RSS feed: https://www.wsj.com
+ - date published: 2023-01-08 16:23:11+00:00
+ - user: rumpel
+ - tags: social media,bigbrother,censorship
 
 
 ## Ex-Virginia Tech soccer player allegedly benched for refusing to kneel gets $100K settlement: attorney
@@ -623,14 +688,6 @@
  - tags: creativ,internet,success,creator
 
 
-## Media społecznościowe stworzyły pokolenie "przewrażliwionych dzieci". To zagraża kapitalizmowi
- - [https://businessinsider.com.pl/lifestyle/media-spolecznosciowe-stworzyly-pokolenie-przewrazliwionych-dzieci-to-zagraza/kggs4w4](https://businessinsider.com.pl/lifestyle/media-spolecznosciowe-stworzyly-pokolenie-przewrazliwionych-dzieci-to-zagraza/kggs4w4)
- - RSS feed: https://businessinsider.com.pl/.feed
- - date published: 2023-01-07 12:30:00+00:00
- - user: rumpel
- - tags: newspeak,social media
-
-
 ## Satanic Pedophile Ring Shut Victims In oven, Forced Them To Kill Animals & Filmed Them Being Gang Raped
  - [https://ussanews.com/2023/01/07/satanic-pedophile-ring-shut-victims-in-oven-forced-them-to-kill-animals-filmed-them-being-gang-raped/](https://ussanews.com/2023/01/07/satanic-pedophile-ring-shut-victims-in-oven-forced-them-to-kill-animals-filmed-them-being-gang-raped/)
  - RSS feed: https://ussanews.com
@@ -644,6 +701,7 @@
  - RSS feed: https://www.theguardian.com/international/rss
  - date published: 2023-01-07 05:38:26+00:00
  - user: rumpel
+ - tags: antgroup,china,socialism,jackma
 
 
 ## China suspends social media accounts of COVID policy critics
@@ -879,7 +937,7 @@
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2023-01-04 02:54:06.208295+00:00
  - user: rumpel
- - tags: america,fda,abortion
+ - tags: depopulation,fda,abortion,america
 
 
 ## China ESG reckoning looms for investors

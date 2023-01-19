@@ -14,6 +14,14 @@
  - tags: government,socialengineering,propaganda
 
 
+## Citizenfour Official Trailer 1 (2014) - Edward Snowden Documentary HD
+ - [https://www.youtube.com/watch?v=XiGwAvd5mvM](https://www.youtube.com/watch?v=XiGwAvd5mvM)
+ - RSS feed: https://www.youtube.com
+ - date published: 2014-10-10 20:56:29+00:00
+ - user: rumpel
+ - tags: bigbrother,citizenfour,surveillance,snowden
+
+
 ## 2030: Privacy's Dead. What happens next?
  - [https://www.youtube.com/watch?v=_kBlH-DQsEg](https://www.youtube.com/watch?v=_kBlH-DQsEg)
  - RSS feed: https://www.youtube.com/@TomScottGo

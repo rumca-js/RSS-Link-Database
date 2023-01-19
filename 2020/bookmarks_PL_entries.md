@@ -114,6 +114,7 @@
  - RSS feed: zaufanatrzeciastrona.pl
  - date published: 2020-09-16 06:49:35+00:00
  - user: None
+ - tags: surveillance,china,privacy,teamviewer
 
 
 ## Dziennikarka Do Rzeczy: kobieta, która złoży zawiadomienie o byciu ofiarą przemocy, może łatwo się wzbogacić
@@ -137,6 +138,7 @@
  - RSS feed: ithardware.pl
  - date published: 2020-07-27 12:04:49+00:00
  - user: None
+ - tags: privacy,instagram
 
 
 ## Obowiązkowe zajęcia z lewackiej ideologii dla studentów z Kalifornii. "Uczelnia chce się przypodobać"

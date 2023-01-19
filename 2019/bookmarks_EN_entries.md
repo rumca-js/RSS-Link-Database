@@ -128,7 +128,7 @@
  - RSS feed: https://www.centerforhealthsecurity.org
  - date published: 2019-10-18 07:29:13+00:00
  - user: None
- - tags: event 201,pandemic,bill gates
+ - tags: event 201,pandemic,bill gates,covid
 
 
 ## NSA: A Declassified Court Ruling Shows How the FBI Abused NSA Mass Surveillance Data
@@ -450,6 +450,7 @@
  - RSS feed: https://www.cnbc.com
  - date published: 2019-04-11 20:49:08+00:00
  - user: None
+ - tags: privacy,iot,amazon
 
 
 ## Your Car Is a Better Spy than Facebook

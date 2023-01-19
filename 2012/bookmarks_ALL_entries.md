@@ -27,6 +27,7 @@
  - RSS feed: www.nytimes.com
  - date published: 2012-08-22 19:26:27+00:00
  - user: None
+ - tags: surveillance,bigbrother,nsa,privacy
 
 
 ## These 6 Corporations Control 90% Of The Media In America

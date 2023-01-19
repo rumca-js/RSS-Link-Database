@@ -155,6 +155,14 @@
  - user: Thomas Pain
 
 
+## Gaming's Third Greatest Scam: Good Graphics.
+ - [https://www.youtube.com/watch?v=L-A5QrhZtGU](https://www.youtube.com/watch?v=L-A5QrhZtGU)
+ - RSS feed: https://www.youtube.com
+ - date published: 2021-12-24 20:59:59+00:00
+ - user: rumpel
+ - tags: graphics,gaming
+
+
 ## My productivity app is a single .txt file
  - [https://jeffhuang.com/productivity_text_file/](https://jeffhuang.com/productivity_text_file/)
  - RSS feed: https://jeffhuang.com
@@ -1362,6 +1370,14 @@
  - tags: censorship,facebook
 
 
+## Finland joins Sweden and Denmark in limiting Moderna COVID-19 vaccine
+ - [https://www.reuters.com/world/europe/finland-pauses-use-moderna-covid-19-vaccine-young-men-2021-10-07/](https://www.reuters.com/world/europe/finland-pauses-use-moderna-covid-19-vaccine-young-men-2021-10-07/)
+ - RSS feed: https://www.reuters.com
+ - date published: 2021-10-07 16:31:39+00:00
+ - user: rumpel
+ - tags: covid,vaccine,moderna
+
+
 ## Whistleblower breaks Facebook secrecy wall, MP says - BBC News
  - [https://www.bbc.co.uk/news/technology-58816118](https://www.bbc.co.uk/news/technology-58816118)
  - RSS feed: https://www.bbc.co.uk
@@ -2360,6 +2376,7 @@
  - RSS feed: https://www.youtube.com/c/academyofideas
  - date published: 2021-08-07 21:16:39+00:00
  - user: None
+ - tags: orwell
 
 
 ## Ryan Reynolds: Why Free Guy is more than a 'video game movie' - BBC News
@@ -2615,6 +2632,14 @@
  - RSS feed: https://blog.cloudflare.com
  - date published: 2021-07-24 10:11:48.543243+00:00
  - user: Thomas Pain
+
+
+## Australia Covid: Arrests at anti-lockdown protests
+ - [https://www.bbc.co.uk/news/world-australia-57952516](https://www.bbc.co.uk/news/world-australia-57952516)
+ - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
+ - date published: 2021-07-24 07:02:04+00:00
+ - user: rumpel
+ - tags: covid,lockdown
 
 
 ## Interesting Go Memory Issue | Ben E. C. Boyter
@@ -3247,6 +3272,7 @@
  - RSS feed: https://www.bbc.com
  - date published: 2021-05-27 20:19:38+00:00
  - user: None
+ - tags: microsoft,surveillance,bigtech,orwell
 
 
 ## Fauci admits ‘modest’ NIH funding of Wuhan lab but denies ‘gain of function
@@ -3757,4 +3783,12 @@
  - date published: 2021-01-04 21:53:34+00:00
  - user: rumpel
  - tags: lgbt,newspeak,pronouns,gender,social engineering
+
+
+## Why am I so Anti-Video Gaymes?
+ - [https://www.youtube.com/watch?v=L5xd5yejPBE](https://www.youtube.com/watch?v=L5xd5yejPBE)
+ - RSS feed: https://www.youtube.com
+ - date published: 2021-01-01 20:58:00+00:00
+ - user: rumpel
+ - tags: games,luke smith
 

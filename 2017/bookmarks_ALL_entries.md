@@ -43,6 +43,7 @@
  - RSS feed: https://www.youtube.com/@ToptenzNettop10
  - date published: 2017-11-21 20:37:18+00:00
  - user: None
+ - tags: bigtech,google,monopoly,corporatocracy,power
 
 
 ## Who Created Engineers ? Origins Explained || Theories
@@ -106,7 +107,7 @@
  - RSS feed: https://www.theatlantic.com
  - date published: 2017-10-12 11:16:55+00:00
  - user: None
- - tags: election,facebook,privacy
+ - tags: facebook,democracy,election,corporatocracy,privacy,social media
 
 
 ## Jordan Peterson - Gay Marriage
@@ -169,6 +170,7 @@
  - RSS feed: www.independent.co.uk
  - date published: 2017-09-04 12:04:50+00:00
  - user: None
+ - tags: bigtech,social media,subscription
 
 
 ## What Most People Don't Know About The Illuminati
@@ -184,6 +186,7 @@
  - RSS feed: www.spokesman.com
  - date published: 2017-08-26 08:48:53+00:00
  - user: None
+ - tags: censorship,orwell
 
 
 ## NSA: Egregious Cases Of US Government Employees Abusing Databases To Spy On Americans
@@ -191,6 +194,7 @@
  - RSS feed: www.businessinsider.com
  - date published: 2017-08-24 13:37:57+00:00
  - user: None
+ - tags: privacy,surveillence,nsa,bigbrother
 
 
 ## The Actual Science of James Damore’s Google Memo
@@ -301,6 +305,7 @@
  - RSS feed: https://www.dallasnews.com
  - date published: 2017-02-13 09:46:55+00:00
  - user: None
+ - tags: corruption,manufacturedconsent,politics,billionaires
 
 
 ## Kanclerz Merkel zapomniała, co Niemcy robią z mediami w Polsce
@@ -332,6 +337,7 @@
  - RSS feed: www.bitdefender.com
  - date published: 2017-01-25 12:04:50+00:00
  - user: None
+ - tags: bigbrother,leak,china,surveillance,meitu
 
 
 ## Fact Sheet: Activity at the Wuhan Institute of Virology

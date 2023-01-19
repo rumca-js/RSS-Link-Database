@@ -11,6 +11,7 @@
  - RSS feed: www.cda.pl
  - date published: 2007-09-01 07:05:00+00:00
  - user: None
+ - tags: conspiracy theory,aaron russo
 
 
 ## Aaron Russo Interview
@@ -18,4 +19,5 @@
  - RSS feed: www.youtube.com
  - date published: 2007-09-01 07:01:37+00:00
  - user: None
+ - tags: conspiracy theory,aaron russo
 
