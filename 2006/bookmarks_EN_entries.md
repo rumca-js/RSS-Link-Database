@@ -11,5 +11,5 @@
  - RSS feed: https://www.democracynow.org
  - date published: 2006-03-24 15:20:56+00:00
  - user: None
- - tags: disinformation,ireq,propaganda,misinformation,usa
+ - tags: psyop,usa,ireq,disinformation,misinformation,propaganda
 

@@ -695,7 +695,7 @@
  - RSS feed: https://en.wikipedia.org
  - date published: 2022-12-21 20:14:16+00:00
  - user: None
- - tags: all time,propaganda,chomsky
+ - tags: social media,chomsky,propaganda,all time
 
 
 ## Milgram experiment
@@ -1320,7 +1320,7 @@
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UChvithwOECK5g_19TjldMKw
  - date published: 2022-12-15 16:30:10+00:00
  - user: None
- - tags: china,propaganda
+ - tags: psyop,china,propaganda
 
 
 ## Republicans demand Twitter and Facebook provide government communications
@@ -1800,14 +1800,6 @@
  - date published: 2022-12-08 14:11:59+00:00
  - user: rumpel
  - tags: fraud,ftx,ponzie,crypto,coffeezilla
-
-
-## How Kurzgesagt Cooks Propaganda For Billionaires
- - [https://www.youtube.com/watch?v=HjHMoNGqQTI](https://www.youtube.com/watch?v=HjHMoNGqQTI)
- - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCjr2bPAyPV7t35MvcgT3W8Q
- - date published: 2022-12-08 13:14:27+00:00
- - user: None
- - tags: bill gates,propaganda,elites,billionaires
 
 
 ## Amazon, Google, Microsoft and Oracle will share the Pentagon's $9 billion cloud contract
@@ -2836,6 +2828,7 @@
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug
  - date published: 2022-11-22 18:45:10+00:00
  - user: None
+ - tags: planned economy,china
 
 
 ## How Bill C-11 Could Open the Door to State-Controlled Media: Peter Menzies in the Epoch Times
@@ -3017,7 +3010,7 @@
  - RSS feed: https://www.mintpressnews.com
  - date published: 2022-11-18 08:19:45+00:00
  - user: rumpel
- - tags: games,propaganda,bigbrother
+ - tags: psyop,bigbrother,games,propaganda
 
 
 ## End of an Era: Facebook Takes Sexuality, Religion, Address, and Politics Off of Your Profile
@@ -4369,7 +4362,7 @@
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2022-10-30 03:49:00+00:00
  - user: None
- - tags: billionaires,bill gates,politics,elites,elon musk
+ - tags: elite,bill gates,billionaires,politics,elites,elon musk
 
 
 ## YouTube suspended Louder with Crowder for our episode about Elon Musk's Twitter takeover
@@ -4663,6 +4656,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-10-27 16:32:31+00:00
  - user: None
+ - tags: disinformation,conspiracy theory,misinformation,qanon
 
 
 ## The rise of biodigital surveillance
@@ -7035,13 +7029,6 @@
  - user: None
 
 
-## Cuba Approves Same-Sex Marriage in Historic Vote
- - [https://www.nytimes.com/2022/09/26/world/americas/cuba-same-sex-marriage-adoption.html](https://www.nytimes.com/2022/09/26/world/americas/cuba-same-sex-marriage-adoption.html)
- - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
- - date published: 2022-09-27 00:40:59+00:00
- - user: None
-
-
 ## Brazil cost of living: The food delivery riders who can't afford to eat
  - [https://www.bbc.co.uk/news/world-latin-america-63036839?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-latin-america-63036839?at_medium=RSS&at_campaign=KARANGA)
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
@@ -7174,13 +7161,6 @@
  - [https://www.foxnews.com/us/texas-republican-represents-border-communities-issues-warning-migrant-surge-no-end-sight](https://www.foxnews.com/us/texas-republican-represents-border-communities-issues-warning-migrant-surge-no-end-sight)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-25 06:27:29+00:00
- - user: None
-
-
-## Cubans to decide on same-sex marriage in national referendum
- - [https://www.cnn.com/2022/09/25/americas/cuba-family-code-referendum-intl-latam/index.html](https://www.cnn.com/2022/09/25/americas/cuba-family-code-referendum-intl-latam/index.html)
- - RSS feed: http://rss.cnn.com/rss/edition.rss
- - date published: 2022-09-25 04:32:48+00:00
  - user: None
 
 
@@ -8104,7 +8084,7 @@
  - RSS feed: https://www.politico.com
  - date published: 2022-09-14 20:25:38+00:00
  - user: None
- - tags: billionaires,covid,bill gates
+ - tags: elite,bill gates,billionaires,manufactured consent,covid
 
 
 ## California is suing Amazon alleging the company contributed to high costs of products state-wide
@@ -9486,7 +9466,7 @@
  - RSS feed: nymag.com
  - date published: 2022-08-24 12:04:49.992823+00:00
  - user: None
- - tags: bots,dead internet
+ - tags: dead internet,internet,bots
 
 
 ## Google Quickly Resets, Screens Results for ‘Mass Formation Psychosis’ After Bombshell Dr. Malone, Joe Rogan Interview
@@ -10450,6 +10430,14 @@
  - tags: github,open source,copilot
 
 
+## Operation Northwoods, The U.S. False Flag Plot To Incite A War With Cuba
+ - [https://allthatsinteresting.com/operation-northwoods](https://allthatsinteresting.com/operation-northwoods)
+ - RSS feed: https://allthatsinteresting.com
+ - date published: 2022-06-24 09:25:39+00:00
+ - user: rumpel
+ - tags: operation northwoods,cuba,bigbrother,911,all time
+
+
 ## Observations on 6 years of journaling | ᕕ( ᐛ )ᕗ Herman's blog
  - [https://herman.bearblog.dev/years-of-journaling/](https://herman.bearblog.dev/years-of-journaling/)
  - RSS feed: https://herman.bearblog.dev
@@ -10842,6 +10830,14 @@
  - RSS feed: https://www.nytimes.com
  - date published: 2022-06-01 19:35:42.937097+00:00
  - user: Thomas Pain
+
+
+## The Top Ten Creepiest and Most Dystopian Things Pushed by the World Economic Forum (WEF) - Global ResearchGlobal Research - Centre for Research on Globalization
+ - [https://www.globalresearch.ca/top-10-creepiest-most-dystopian-things-pushed-world-economic-forum-wef/5782636](https://www.globalresearch.ca/top-10-creepiest-most-dystopian-things-pushed-world-economic-forum-wef/5782636)
+ - RSS feed: https://www.globalresearch.ca
+ - date published: 2022-06-01 14:55:51+00:00
+ - user: rumpel
+ - tags: corporatocracy,wef,klaus schwab,dystopia
 
 
 ## Tulsi Gabbard On WEF ‘Great Reset’ Agenda: ‘Must Be Condemned By Us All’
@@ -12176,7 +12172,7 @@
  - RSS feed: https://expose-news.com
  - date published: 2022-03-19 20:15:46+00:00
  - user: None
- - tags: genocide,kalergi
+ - tags: immigration,conspiracy theory,kalergi,genocide
 
 
 ## The Coudenhove-Kalergi Plan – The Genocide of the Peoples of Europe
@@ -12184,7 +12180,7 @@
  - RSS feed: https://www.nutritruth.org
  - date published: 2022-03-19 20:15:46+00:00
  - user: None
- - tags: kalerg,genocide,depopulation
+ - tags: immigration,depopulation,genocide,kalerg
 
 
 ## The British government reportedly asked when Microsoft would 'get rid' of algorithms | Windows Central
@@ -12605,6 +12601,14 @@
  - date published: 2022-02-19 13:54:53+00:00
  - user: None
  - tags: math,vortex math
+
+
+## Jean-Luc Brunel: Epstein associate found dead in Paris prison cell - BBC News
+ - [https://www.bbc.com/news/world-europe-60443518](https://www.bbc.com/news/world-europe-60443518)
+ - RSS feed: https://www.bbc.com
+ - date published: 2022-02-19 11:21:46+00:00
+ - user: rumpel
+ - tags: billionairs,epstein,elites
 
 
 ## Kanada: Ottawa Police Chief says police will come after protesters for months to come
@@ -13077,6 +13081,14 @@
  - RSS feed: https://blog.roblox.com
  - date published: 2022-01-21 09:06:54.936547+00:00
  - user: Thomas Pain
+
+
+## How Facebook took over the internet in Africa – and changed everything | Facebook | The Guardian
+ - [https://www.theguardian.com/technology/2022/jan/20/facebook-second-life-the-unstoppable-rise-of-the-tech-company-in-africa](https://www.theguardian.com/technology/2022/jan/20/facebook-second-life-the-unstoppable-rise-of-the-tech-company-in-africa)
+ - RSS feed: https://www.theguardian.com
+ - date published: 2022-01-20 10:39:04+00:00
+ - user: rumpel
+ - tags: corporatocracy,internet,africa,monopoly
 
 
 ## Facebook versus the BMJ: when fact checking goes wrong

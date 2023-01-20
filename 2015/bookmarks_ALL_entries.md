@@ -35,7 +35,7 @@
  - RSS feed: https://www.youtube.com/watch?v=tTBWfkE7BXU
  - date published: 2015-10-15 16:13:28+00:00
  - user: None
- - tags: corporatocracy,chomsky,all time,propaganda
+ - tags: chomsky,social media,corporatocracy,propaganda,all time
 
 
 ## Why is Ukraine the West's Fault? Featuring John Mearsheimer

@@ -169,7 +169,7 @@
  - RSS feed: www.rodaknet.com
  - date published: 2016-04-05 07:24:17+00:00
  - user: None
- - tags: conspiracy theory,right-wing conspiracy
+ - tags: conspiracy theory,depopulation,funny,immigration,kalergi
 
 
 ## Photographer Captures Bee-less Dystopia in China (PHOTOS)

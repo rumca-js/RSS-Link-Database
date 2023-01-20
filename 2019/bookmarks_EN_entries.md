@@ -22,6 +22,14 @@
  - tags: lgbt,christianophobia,newyork,inequality
 
 
+## The utopian 1920s scheme for five global superstates - Big Think
+ - [https://bigthink.com/strange-maps/coudenhove-kalergi-map/](https://bigthink.com/strange-maps/coudenhove-kalergi-map/)
+ - RSS feed: https://bigthink.com
+ - date published: 2019-12-12 10:19:51+00:00
+ - user: rumpel
+ - tags: european union,kalergi
+
+
 ## The Untold Truth Of The Satanic Temple
  - [https://www.grunge.com/132693/the-untold-truth-of-the-satanic-temple/](https://www.grunge.com/132693/the-untold-truth-of-the-satanic-temple/)
  - RSS feed: https://www.grunge.com
@@ -36,6 +44,14 @@
  - date published: 2019-11-27 09:09:31+00:00
  - user: rumpel
  - tags: vulnerabilities,leak,hackers
+
+
+## He invented the web. Now he's warning of a looming 'digital dystopia'
+ - [https://www.cnn.com/2019/11/25/tech/berners-lee-web-safer-plan-scli-intl/index.html](https://www.cnn.com/2019/11/25/tech/berners-lee-web-safer-plan-scli-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2019-11-25 12:39:10+00:00
+ - user: rumpel
+ - tags: bigtech,internet,tim berners-lee,surveillance,privacy,all time,dystopia
 
 
 ## How to keep employees happy: LinkedIn study reveals three factors

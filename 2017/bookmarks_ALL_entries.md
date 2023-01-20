@@ -59,7 +59,7 @@
  - RSS feed: https://themillenniumreport.com
  - date published: 2017-11-06 14:57:08+00:00
  - user: None
- - tags: funny,conspiracytheory,flatearth,cia,deep state
+ - tags: psyop,conspiracytheory,flatearth,funny,cia,deep state
 
 
 ## More Human than Human - A Blade Runner Analysis
@@ -297,7 +297,7 @@
  - RSS feed: https://www.youtube.com
  - date published: 2017-03-02 21:06:22+00:00
  - user: rumpel
- - tags: chomsky,propaganda,all time
+ - tags: social media,chomsky,propaganda,all time
 
 
 ## No one went to prison after 2008 financial crisis — and the fault lies with us

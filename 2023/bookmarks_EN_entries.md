@@ -1,3 +1,27 @@
+## Online pharmacies selling abortion pills send fingerprints to Google Analytics
+ - [https://www.propublica.org/article/websites-selling-abortion-pills-share-sensitive-data-with-google](https://www.propublica.org/article/websites-selling-abortion-pills-share-sensitive-data-with-google)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-01-19 16:24:21+00:00
+ - user: rumpel
+ - tags: google,bigtech,privacy
+
+
+## The Linux Foundation wants to set up its own open source metaverse
+ - [https://www.techradar.com/news/the-linux-foundation-wants-to-set-up-its-own-open-source-metaverse](https://www.techradar.com/news/the-linux-foundation-wants-to-set-up-its-own-open-source-metaverse)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2023-01-19 16:08:10+00:00
+ - user: rumpel
+ - tags: linux,opensource,metaverse
+
+
+## Richard von Coudenhove-Kalergi - Wikipedia
+ - [https://en.wikipedia.org/wiki/Richard_von_Coudenhove-Kalergi](https://en.wikipedia.org/wiki/Richard_von_Coudenhove-Kalergi)
+ - RSS feed: https://en.wikipedia.org
+ - date published: 2023-01-19 10:18:54+00:00
+ - user: rumpel
+ - tags: immigration,conspiracy theory,depopulation,kalergi
+
+
 ## Scientists are getting eerily good at using WiFi to 'see' people through walls in detail
  - [https://www.vice.com/en/article/y3p7xj/scientists-are-getting-eerily-good-at-using-wifi-to-see-people-through-walls-in-detail](https://www.vice.com/en/article/y3p7xj/scientists-are-getting-eerily-good-at-using-wifi-to-see-people-through-walls-in-detail)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
@@ -106,7 +130,7 @@
  - RSS feed: http://www.youtube.com/feeds/videos.xml?channel_id=UCRlICXvO4XR4HMeEB9JjDlA
  - date published: 2023-01-16 17:21:03+00:00
  - user: rumpel
- - tags: algorithms,dead internet,youtube
+ - tags: youtube,dead internet,all time,algorithms
 
 
 ## YouTube Doesn't “Get It”
@@ -138,7 +162,7 @@
  - RSS feed: https://www.newsweek.com/rss
  - date published: 2023-01-15 13:00:01+00:00
  - user: rumpel
- - tags: billionaires,climate change,carbon footprint
+ - tags: billionaires,elite,climate change,carbon footprint
 
 
 ## I'm Shadow Banned by DuckDuckGo (and Bing)
