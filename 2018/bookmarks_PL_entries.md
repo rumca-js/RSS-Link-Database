@@ -3,7 +3,7 @@
  - RSS feed: https://forsal.pl
  - date published: 2018-12-05 14:17:58+00:00
  - user: rumpel
- - tags: co2,climate change,germany
+ - tags: germany,co2,climate drama,climate change
 
 
 ## Joe Rogan - Exposing Social Justice with Peter Boghossian & James Lindsay

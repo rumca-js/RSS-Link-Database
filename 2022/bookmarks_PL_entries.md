@@ -179,7 +179,7 @@
  - RSS feed: https://forsal.pl/.feed
  - date published: 2022-12-08 07:19:57+00:00
  - user: None
- - tags: carbon,uk,climate change
+ - tags: climate drama,uk,climate change,carbon
 
 
 ## ePUAP do zaorania. Wszystkie sprawy urzędowe załatwisz przez telefon i aplikację mObywatel
@@ -303,13 +303,6 @@
  - user: None
 
 
-## W zrównoważonej przyszłości nie ma miejsca na prywatne samochody osobowe
- - [https://www.wykop.pl/link/6887747/w-zrownowazonej-przyszlosci-nie-ma-miejsca-na-prywatne-samochody-osobowe/](https://www.wykop.pl/link/6887747/w-zrownowazonej-przyszlosci-nie-ma-miejsca-na-prywatne-samochody-osobowe/)
- - RSS feed: https://www.wykop.pl/rss/index.xml/
- - date published: 2022-11-04 22:19:01+00:00
- - user: None
-
-
 ## Apple jest wart więcej niż Google, Facebook i Amazon razem wzięte. Jeśli to nie jest monopol, to nie wiem, co nim jest
  - [https://www.chip.pl/2022/11/apple-monopol-2022](https://www.chip.pl/2022/11/apple-monopol-2022)
  - RSS feed: https://www.chip.pl/feed
@@ -324,13 +317,6 @@
  - date published: 2022-11-04 07:56:34+00:00
  - user: None
  - tags: subscription,car sharing,subscription model,you will own nothing
-
-
-## Niemcy wzywają obywateli do opuszczenia Iranu
- - [https://www.bankier.pl/wiadomosc/Niemcy-wzywaja-obywateli-do-opuszczenia-Iranu-8433266.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Niemcy-wzywaja-obywateli-do-opuszczenia-Iranu-8433266.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
- - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
- - date published: 2022-11-03 12:13:00+00:00
- - user: None
 
 
 ## Cenzura na oficjalnym profilu Poznania na Facebooku? Mamy odpowiedź miasta
@@ -686,7 +672,7 @@
  - RSS feed: https://wydarzenia.interia.pl/feed
  - date published: 2022-10-14 13:39:40+00:00
  - user: None
- - tags: climate change,activism,woke
+ - tags: climate drama,climate change,woke,activism
 
 
 ## "Rodzice dopłacą do lekcji albo będą musieli odbierać dzieci ze szkoły o 13". Co z darmową edukacją w Polsce?
@@ -1828,6 +1814,7 @@
  - RSS feed: cyberdefence24.pl
  - date published: 2022-08-23 16:49:17+00:00
  - user: None
+ - tags: medical data,monopoly,amazon
 
 
 ## Oczywiście wiesz, że przeglądarki w TikTok, Instagram, Facebook działają jak keylogger?

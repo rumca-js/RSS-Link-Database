@@ -101,6 +101,14 @@
  - tags: youtube,youllownnothing,monopoly,subscription,censorship
 
 
+## 79-Year-Old Man Beat on New York Subway for Preaching Gospel
+ - [https://www.christianheadlines.com/contributors/mikaela-matthews/79-year-old-man-beat-on-new-york-subway-for-preaching-gospel.html](https://www.christianheadlines.com/contributors/mikaela-matthews/79-year-old-man-beat-on-new-york-subway-for-preaching-gospel.html)
+ - RSS feed: https://www.christianheadlines.com
+ - date published: 2019-11-05 20:56:43+00:00
+ - user: rumpel
+ - tags: lgbt,trans,intolerance
+
+
 ## Blizzard, Hearthstone and the Hong Kong protests: What you need to know
  - [https://www.cnet.com/culture/blizzard-hearthstone-and-the-hong-kong-protests-heres-what-you-need-to-know/](https://www.cnet.com/culture/blizzard-hearthstone-and-the-hong-kong-protests-heres-what-you-need-to-know/)
  - RSS feed: https://www.cnet.com
@@ -178,6 +186,14 @@
  - tags: climate change,carbon footprint,carbon emissions
 
 
+## 'Alexa, are you invading my privacy?' – the dark side of our voice assistants
+ - [https://www.theguardian.com/technology/2019/oct/09/alexa-are-you-invading-my-privacy-the-dark-side-of-our-voice-assistants](https://www.theguardian.com/technology/2019/oct/09/alexa-are-you-invading-my-privacy-the-dark-side-of-our-voice-assistants)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2019-10-09 05:00:41+00:00
+ - user: rumpel
+ - tags: orwell,privacy,smartdevice,iot,surveillance
+
+
 ## The Cave Rescuer Suing Elon Musk Claims The Tesla CEO Fabricated Pedophilia Claims Against Him
  - [https://www.buzzfeednews.com/article/ryanmac/unsworth-reply-elon-musk-fucking-idiot](https://www.buzzfeednews.com/article/ryanmac/unsworth-reply-elon-musk-fucking-idiot)
  - RSS feed: https://www.buzzfeednews.com
@@ -192,6 +208,14 @@
  - date published: 2019-10-08 12:08:47+00:00
  - user: None
  - tags: china,blizzard,censorship
+
+
+## 'We are hurtling towards a surveillance state’: the rise of facial recognition technology
+ - [https://www.theguardian.com/technology/2019/oct/05/facial-recognition-technology-hurtling-towards-surveillance-state](https://www.theguardian.com/technology/2019/oct/05/facial-recognition-technology-hurtling-towards-surveillance-state)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2019-10-05 09:00:43+00:00
+ - user: rumpel
+ - tags: biometric,facial recognition,india,surveillance,bigbrother,corporatocracy
 
 
 ## Eyes Wide Shut and the Moral Bankruptcy of the American Elite
@@ -262,7 +286,14 @@
  - RSS feed: https://pluralist.com
  - date published: 2019-08-25 19:03:53+00:00
  - user: rumpel
- - tags: greta,corporatocracy,thunberg,climate change
+ - tags: corporatocracy,thunberg,climate change,climate drama,greta
+
+
+## Your Siri Recordings are Analyzed by Actual Humans Contracted by Apple!
+ - [https://www.digitalinformationworld.com/2019/08/contractors-hear-private-recordings-apple-siri.html](https://www.digitalinformationworld.com/2019/08/contractors-hear-private-recordings-apple-siri.html)
+ - RSS feed: www.digitalinformationworld.com
+ - date published: 2019-08-24 12:04:50+00:00
+ - user: rumpel
 
 
 ## Jeffrey Epstein Donations to M.I.T. Will Be Focus of University Inquiry
@@ -305,6 +336,14 @@
  - tags: black mass,satanic temple
 
 
+## Privacy campaigners warn of UK facial recognition 'epidemic'
+ - [https://www.theguardian.com/technology/2019/aug/16/privacy-campaigners-uk-facial-recognition-epidemic](https://www.theguardian.com/technology/2019/aug/16/privacy-campaigners-uk-facial-recognition-epidemic)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2019-08-16 11:49:03+00:00
+ - user: rumpel
+ - tags: privacy,biometric,facial recognition,india,surveillance,bigbrother,corporatocracy
+
+
 ## Haunting photos show Jeffrey Epstein’s ‘Pedophile Island’ in the Caribbean
  - [https://nypost.com/2019/08/15/haunting-photos-show-jeffrey-epsteins-pedophile-island-in-the-caribbean/#1](https://nypost.com/2019/08/15/haunting-photos-show-jeffrey-epsteins-pedophile-island-in-the-caribbean/#1)
  - RSS feed: https://nypost.com
@@ -344,12 +383,28 @@
  - tags: programming,powerpoint
 
 
+## Free speech and privacy on the wane across the world
+ - [https://www.theguardian.com/global-development/2019/aug/08/free-speech-and-privacy-on-the-wane-across-the-world](https://www.theguardian.com/global-development/2019/aug/08/free-speech-and-privacy-on-the-wane-across-the-world)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2019-08-08 06:00:14+00:00
+ - user: rumpel
+ - tags: privacy,censorship,surveillance,free speech
+
+
 ## Ben Shapiro Vs Climate Change | UBC Talk
  - [https://www.youtube.com/watch?v=wRk1p8Lzwvo](https://www.youtube.com/watch?v=wRk1p8Lzwvo)
  - RSS feed: https://www.youtube.com
  - date published: 2019-07-27 14:40:12+00:00
  - user: rumpel
  - tags: climate change,science,ben shapiro
+
+
+## Google privacy lawsuit: Tech giant to pay $13 million over Street View data collection | CNN Business
+ - [https://edition.cnn.com/2019/07/22/tech/google-street-view-privacy-lawsuit-settlement/index.html](https://edition.cnn.com/2019/07/22/tech/google-street-view-privacy-lawsuit-settlement/index.html)
+ - RSS feed: https://edition.cnn.com
+ - date published: 2019-07-25 08:49:32+00:00
+ - user: rumpel
+ - tags: google,privacy,street,surveillance
 
 
 ## Public Library Deletes Pictures Of Drag Queens Fondling Children At Story Hour
@@ -382,6 +437,14 @@
  - date published: 2019-07-12 20:30:36+00:00
  - user: rumpel
  - tags: kubrick,bilionaires,epstein,eyes wide shut
+
+
+## How online surveillance is killing private conversations
+ - [https://www.theguardian.com/world/2019/jul/11/can-we-talk-in-confidence-the-death-of-candour-in-the-age-of-surveillance](https://www.theguardian.com/world/2019/jul/11/can-we-talk-in-confidence-the-death-of-candour-in-the-age-of-surveillance)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2019-07-11 05:00:51+00:00
+ - user: rumpel
+ - tags: surveillence,bitech,privacy
 
 
 ## So Was QAnon … Right?
@@ -461,6 +524,14 @@
  - user: None
 
 
+## The List of All U.S Colleges With a Gender Studies/Gender and Sexuality Studies Major
+ - [https://blog.collegevine.com/the-list-of-all-u-s-colleges-with-a-gender-studies-gender-and-sexuality-studies-major/](https://blog.collegevine.com/the-list-of-all-u-s-colleges-with-a-gender-studies-gender-and-sexuality-studies-major/)
+ - RSS feed: https://blog.collegevine.com
+ - date published: 2019-04-16 20:07:17+00:00
+ - user: rumpel
+ - tags: universities,scienceisdead,gender
+
+
 ## Amazon employees are listening to what you say to Alexa — here's how to stop them
  - [https://www.cnbc.com/2019/04/11/how-to-stop-amazon-from-listening-to-what-you-say-to-alexa.html](https://www.cnbc.com/2019/04/11/how-to-stop-amazon-from-listening-to-what-you-say-to-alexa.html)
  - RSS feed: https://www.cnbc.com
@@ -508,12 +579,28 @@
  - tags: meta,privacy,facebook
 
 
+## Lawyer slams 'ridiculous' case which saw teen prosecuted for Instagramming N-word rap lyrics - Liverpool Echo
+ - [https://www.liverpoolecho.co.uk/news/liverpool-news/teen-prosecuted-n-word-rap-15874476](https://www.liverpoolecho.co.uk/news/liverpool-news/teen-prosecuted-n-word-rap-15874476)
+ - RSS feed: https://www.liverpoolecho.co.uk
+ - date published: 2019-02-22 09:33:04+00:00
+ - user: rumpel
+ - tags: privacy,racism,censorship,free speech,bigbrother
+
+
 ## We're Numb to Data Privacy Abuse | Joe Rogan & Bill Ottman
  - [https://www.youtube.com/watch?v=5WD3azvYYWs](https://www.youtube.com/watch?v=5WD3azvYYWs)
  - RSS feed: https://www.youtube.com/@JREClips
  - date published: 2019-02-20 20:54:35+00:00
  - user: None
  - tags: privacy
+
+
+## Facebook was 'willing to override' users' privacy setting to share their data
+ - [https://www.cnn.com/2019/02/17/tech/facebook-fake-news-disinformation-report/index.html](https://www.cnn.com/2019/02/17/tech/facebook-fake-news-disinformation-report/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2019-02-18 10:10:15+00:00
+ - user: rumpel
+ - tags: privacy,facebook,bigtech
 
 
 ## WEF defends jet-setting elites amid climate change agenda
@@ -545,7 +632,7 @@
  - RSS feed: https://theintercept.com
  - date published: 2019-01-10 12:17:38+00:00
  - user: None
- - tags: iot,privacy,amazon,tracking
+ - tags: privacy,tracking,iot,amazon,bigtech
 
 
 ## Inheritance — What your mother never told you

@@ -3,7 +3,7 @@
  - RSS feed: https://en.wikipedia.org
  - date published: 2015-12-28 20:09:12+00:00
  - user: rumpel
- - tags: climate change
+ - tags: climate science,climate change
 
 
 ## Prezydent Kennedy o tajnych stowarzyszeniach i światowym spisku
@@ -59,7 +59,7 @@
  - RSS feed: https://www.washingtonpost.com
  - date published: 2015-08-24 15:18:52+00:00
  - user: None
- - tags: government,socialengineering,propaganda
+ - tags: socialengineering,propaganda,government,bigbrother
 
 
 ## NSA staff used spy tools on spouses, ex-lovers: watchdog

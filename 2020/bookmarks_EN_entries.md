@@ -225,6 +225,14 @@
  - tags: pfizer,uk,nop,covid
 
 
+## Time's Up charities set up by celebrities as part of Me Too movement spent $1.4m on salaries including $157k on conferences at luxury resorts
+ - [https://www.dailymail.co.uk/news/article-8997707/Times-organization-raised-3-6m-2018-cash-went-salaries-not-victims.html](https://www.dailymail.co.uk/news/article-8997707/Times-organization-raised-3-6m-2018-cash-went-salaries-not-victims.html)
+ - RSS feed: https://www.dailymail.co.uk
+ - date published: 2020-11-29 20:26:43+00:00
+ - user: rumpel
+ - tags: feminism,discrimination,hypocrisy
+
+
 ## Star-studded Time’s Up charities spent big on salaries, little on helping victims
  - [https://nypost.com/2020/11/28/star-studded-times-up-charities-spent-big-on-salaries-not-victims/](https://nypost.com/2020/11/28/star-studded-times-up-charities-spent-big-on-salaries-not-victims/)
  - RSS feed: https://nypost.com
@@ -239,6 +247,14 @@
  - date published: 2020-11-28 20:05:21+00:00
  - user: None
  - tags: cablegate,hillary clinton,assange,wikileaks
+
+
+## New Jersey Starbucks barista claims she was fired for refusing to wear a Pride T-shirt because of her religious beliefs
+ - [https://www.dailymail.co.uk/news/article-8993007/New-Jersey-Starbucks-barista-claims-fired-refusing-wear-Pride-T-shirt.html](https://www.dailymail.co.uk/news/article-8993007/New-Jersey-Starbucks-barista-claims-fired-refusing-wear-Pride-T-shirt.html)
+ - RSS feed: https://www.dailymail.co.uk
+ - date published: 2020-11-27 22:05:08+00:00
+ - user: rumpel
+ - tags: intolerance,america,lgbt
 
 
 ## You Own Nothing: The True Cost of Digital Media
@@ -320,6 +336,14 @@
  - tags: kids,lgbt,surrogacy
 
 
+## Norway outlaws hate speech against trans people
+ - [https://news.trust.org/item/20201110191107-tecjt/](https://news.trust.org/item/20201110191107-tecjt/)
+ - RSS feed: https://news.trust.org
+ - date published: 2020-11-10 22:01:46+00:00
+ - user: rumpel
+ - tags: norway,hate speech,lgbt,trans
+
+
 ## Netherlands uncovers network helping Ugandan asylum seekers fake being gay
  - [https://www.reuters.com/article/us-netherlands-lgbt-asylum-trfn-idUSKBN27L29M](https://www.reuters.com/article/us-netherlands-lgbt-asylum-trfn-idUSKBN27L29M)
  - RSS feed: https://www.reuters.com
@@ -395,7 +419,15 @@
  - RSS feed: www.privateinternetaccess.com
  - date published: 2020-09-30 13:08:38+00:00
  - user: None
- - tags: government,government control,freedom
+ - tags: freedom,government,surveillance,bigbrother
+
+
+## Louisiana man, 36, is arrested when Florida parents discover he has been living in their 15-year-old daughter's closet for more than a MONTH
+ - [https://www.dailymail.co.uk/news/article-8789849/Louisiana-man-living-15-year-old-Florida-girls-closet-MONTH.html](https://www.dailymail.co.uk/news/article-8789849/Louisiana-man-living-15-year-old-Florida-girls-closet-MONTH.html)
+ - RSS feed: https://www.dailymail.co.uk
+ - date published: 2020-09-30 13:06:20+00:00
+ - user: rumpel
+ - tags: virtual reality,vrchat
 
 
 ## On climate change, Exxon, BP, Shell, and other top oil companies have a long way to go - Vox
@@ -419,7 +451,7 @@
  - RSS feed: https://www.oxfam.org
  - date published: 2020-09-21 07:50:21+00:00
  - user: None
- - tags: climate change,carbon footprint,carbon emissions
+ - tags: climate change,climate science,carbon footprint,climate drama,carbon emissions
 
 
 ## Gates Foundation funds Facebook fact-checkers that defend it from allegations
@@ -490,6 +522,14 @@
  - date published: 2020-09-01 22:02:49+00:00
  - user: rumpel
  - tags: woke,science,cancel culture,censorship,scienceisdead,race
+
+
+## The huge change coming to how you claim government benefits: Aussies will use new $250million facial recognition to access services
+ - [https://www.dailymail.co.uk/news/article-8783517/Australian-government-introduces-250million-facial-recognition-access-Centrelink-benefits-dole.html](https://www.dailymail.co.uk/news/article-8783517/Australian-government-introduces-250million-facial-recognition-access-Centrelink-benefits-dole.html)
+ - RSS feed: https://www.dailymail.co.uk
+ - date published: 2020-08-29 20:08:11+00:00
+ - user: rumpel
+ - tags: biometric,bigbrother,facial recognition,privacy
 
 
 ## Coronavirus sceptics, conspiracy theorists and anti-vaxxers protest in London
@@ -782,7 +822,7 @@
  - RSS feed: https://www.rt.com
  - date published: 2020-06-29 12:14:35+00:00
  - user: None
- - tags: hypocrisy,propaganda,facebook,stophateforprofit,censorship,hate speech,free speech,freespeech
+ - tags: propaganda,censorship,facebook,hate speech,free speech,hypocrisy,stophateforprofit
 
 
 ## "Reddit will allow racist hate speech directed at ""majority"" populations and conservatives"
@@ -854,6 +894,14 @@
  - RSS feed: https://notrelated.xyz/rss
  - date published: 2020-06-05 04:00:00+00:00
  - user: None
+
+
+## The 10 Commitments Companies Must Make to Advance Racial Justice
+ - [https://hbr.org/2020/06/the-10-commitments-companies-must-make-to-advance-racial-justice](https://hbr.org/2020/06/the-10-commitments-companies-must-make-to-advance-racial-justice)
+ - RSS feed: https://hbr.org
+ - date published: 2020-06-04 09:12:09+00:00
+ - user: rumpel
+ - tags: racism,inequality,racial,indoctrination,woke
 
 
 ## Blizzard Called Out For BLM Protest Support After Blitzchung Hong Kong Controversy
@@ -1113,7 +1161,7 @@
  - RSS feed: https://harvardpolitics.com
  - date published: 2020-01-02 14:33:49+00:00
  - user: None
- - tags: climate change,carbon footprint
+ - tags: climate science,carbon footprint,climate change
 
 
 ## 80-characters-per-line limits should be terminal, says Linux kernel chief Linus Torvalds

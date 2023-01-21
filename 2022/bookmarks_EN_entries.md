@@ -456,7 +456,7 @@
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-24 16:37:37+00:00
  - user: rumpel
- - tags: electric vehicles,climate change
+ - tags: electric vehicles,climate drama,climate change
 
 
 ## Lessons from COVID require tough questions
@@ -1047,6 +1047,7 @@
  - RSS feed: https://reclaimthenet.org/feed/
  - date published: 2022-12-17 19:41:42+00:00
  - user: rumpel
+ - tags: norway,lgbt,facebook,woke,censorship
 
 
 ## Liberal networks previously unbothered by Twitter censorship cry foul over Musk suspending journalists
@@ -2005,14 +2006,6 @@
  - tags: k george soros,billionaires,elites,media,soros
 
 
-## Report: Climate Lockdowns Being Tested in UK as Oxford County Councillors to Introduce Trial in 2024
- - [https://yournews.com/2022/12/06/2467541/report-climate-lockdowns-being-tested-in-uk-as-oxford-county/](https://yournews.com/2022/12/06/2467541/report-climate-lockdowns-being-tested-in-uk-as-oxford-county/)
- - RSS feed: https://yournews.com
- - date published: 2022-12-06 12:43:29+00:00
- - user: rumpel
- - tags: climate change,lockdown
-
-
 ## Gmail creator predicts total disruption for Google as chatbot ChatGPT challenges tech giant monopoly
  - [http://www.msn.com/en-us/news/technology/gmail-creator-predicts-total-disruption-for-google-as-chatbot-chatgpt-challenges-tech-giant-monopoly/ar-AA14Xtpn?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/gmail-creator-predicts-total-disruption-for-google-as-chatbot-chatgpt-challenges-tech-giant-monopoly/ar-AA14Xtpn?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
@@ -2551,6 +2544,13 @@
  - tags: culture wars,covid,lockdown,covid hysteria
 
 
+## BSAG » Hold me closer, tiny keyboard
+ - [https://www.rousette.org.uk/archives/hold-me-closer-tiny-keyboard/](https://www.rousette.org.uk/archives/hold-me-closer-tiny-keyboard/)
+ - RSS feed: https://www.rousette.org.uk
+ - date published: 2022-11-28 10:29:05+00:00
+ - user: Thomas Pain
+
+
 ## Elimination of programmers
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59633](https://www.codeproject.com/script/News/View.aspx?nwid=59633)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
@@ -2563,6 +2563,7 @@
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-28 05:00:00+00:00
  - user: None
+ - tags: digital dementia,psychology,smartphone
 
 
 ## Disney’s ‘Strange World’ On Track To Lose $100 Million
@@ -2936,6 +2937,14 @@
  - date published: 2022-11-20 15:48:31+00:00
  - user: None
  - tags: trump,censorship,moderation,musk
+
+
+## Amazon Is Gutting Its Voice-Assistant Alexa
+ - [https://www.businessinsider.com/amazon-alexa-job-layoffs-rise-and-fall-2022-11](https://www.businessinsider.com/amazon-alexa-job-layoffs-rise-and-fall-2022-11)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-11-20 13:58:41+00:00
+ - user: rumpel
+ - tags: voice assistant,alexa
 
 
 ## You cannot find me on Mastodon - stitcher.io
@@ -3415,7 +3424,7 @@
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-11-11 00:15:55+00:00
  - user: None
- - tags: climate change,carbon footprint,carbon emissions
+ - tags: carbon footprint,carbon emissions,carbon science,climate change
 
 
 ## GitHub stars won't pay your rent
@@ -3851,6 +3860,7 @@
  - RSS feed: http://feeds.bbci.co.uk/news/technology/rss.xml
  - date published: 2022-11-03 05:05:36+00:00
  - user: None
+ - tags: security,china,tiktok
 
 
 ## FBI official tied to suppressing Hunter laptop story STILL involved in briefing Facebook and Twitter
@@ -3874,6 +3884,7 @@
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-11-02 19:50:00+00:00
  - user: None
+ - tags: algorithms,facebook
 
 
 ## The damage Kanye West is doing is devastating
@@ -3896,6 +3907,7 @@
  - RSS feed: https://www.theguardian.com/international/rss
  - date published: 2022-11-02 18:50:10+00:00
  - user: None
+ - tags: bigtech,zuckerberg,metaverse
 
 
 ## At least 6% of global fishing ‘probably illegal’ as ships turn off tracking devices
@@ -4432,7 +4444,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-10-29 09:48:25+00:00
  - user: rumpel
- - tags: climate change,electric vehicles
+ - tags: electric vehicles,climate science,climate change
 
 
 ## #COVIDIsAirborne #BringBackMasks Trend, Questioning CDC Director’s Tweet on Covid-19 Precautions
@@ -4862,7 +4874,7 @@
  - RSS feed: https://www.reuters.com
  - date published: 2022-10-26 12:22:22+00:00
  - user: None
- - tags: amazon,science,inequality
+ - tags: inequality,science,amazon,artificial intelligence
 
 
 ## Chinese stock markets plunge as Xi Jinping begins third term as leader
@@ -5573,6 +5585,14 @@
  - user: None
 
 
+## Amazon faces $1B lawsuit in UK for 'favouring its own products'
+ - [https://www.reuters.com/business/retail-consumer/amazon-faces-1-bln-lawsuit-uk-favouring-its-own-products-2022-10-20/](https://www.reuters.com/business/retail-consumer/amazon-faces-1-bln-lawsuit-uk-favouring-its-own-products-2022-10-20/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-10-20 12:17:09+00:00
+ - user: rumpel
+ - tags: bigtech,monopoly,amazon
+
+
 ## Wikipedia Tells Users To Be More Specific When Searching '2022 UK Government Crisis'
  - [https://gizmodo.com/wikipedia-liz-truss-resign-specific-2022-uk-govt-crisis-1849680468](https://gizmodo.com/wikipedia-liz-truss-resign-specific-2022-uk-govt-crisis-1849680468)
  - RSS feed: https://gizmodo.com/rss
@@ -5609,13 +5629,6 @@
  - date published: 2022-10-19 12:41:04+00:00
  - user: None
  - tags: trans,gender,newspeak,christianophobia
-
-
-## How Faithful Is Amazon’s Rings of Power to JRR Tolkien’s Books?
- - [https://middle-earth.xenite.org/how-faithful-is-amazons-rings-of-power-to-j-r-r-tolkiens-books/](https://middle-earth.xenite.org/how-faithful-is-amazons-rings-of-power-to-j-r-r-tolkiens-books/)
- - RSS feed: https://hnrss.org/frontpage
- - date published: 2022-10-19 08:55:09+00:00
- - user: None
 
 
 ## Hackers Threaten to Release Medical Info of Australian Actors, Politicians, Activists, and More
@@ -5828,6 +5841,14 @@
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-10-13 19:14:00+00:00
  - user: None
+
+
+## Regulators of Facebook, Google and Amazon Also Invest in the Companies’ Stocks
+ - [https://www.wsj.com/articles/the-regulators-of-facebook-google-and-amazon-also-invest-in-the-companies-stocks-11665670207](https://www.wsj.com/articles/the-regulators-of-facebook-google-and-amazon-also-invest-in-the-companies-stocks-11665670207)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-10-13 16:10:02+00:00
+ - user: rumpel
+ - tags: manufactured consent,facebook,amazon,google,bigtech,bigbrother
 
 
 ## California mom wows internet with blistering speech branding woke school board 'groomers and pimps'
@@ -6064,13 +6085,6 @@
  - [https://www.zdnet.com/article/workers-are-refusing-to-return-to-the-office-and-they-are-ready-to-face-the-consequences/#ftag=RSSbaffb68](https://www.zdnet.com/article/workers-are-refusing-to-return-to-the-office-and-they-are-ready-to-face-the-consequences/#ftag=RSSbaffb68)
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-10 14:55:54+00:00
- - user: None
-
-
-## Amazon will invest €1 billion to electrify its delivery fleet in Europe
- - [https://www.theverge.com/2022/10/10/23396499/amazon-electric-delivery-vehicle-europe-investment](https://www.theverge.com/2022/10/10/23396499/amazon-electric-delivery-vehicle-europe-investment)
- - RSS feed: https://www.theverge.com/rss/index.xml
- - date published: 2022-10-10 14:33:52+00:00
  - user: None
 
 
@@ -6477,6 +6491,14 @@
  - user: None
 
 
+## When A Brand Becomes More Popular Than The Meaning Of The Word In Google
+ - [https://www.seroundtable.com/brand-over-meaning-google-34170.html](https://www.seroundtable.com/brand-over-meaning-google-34170.html)
+ - RSS feed: https://www.seroundtable.com
+ - date published: 2022-10-04 08:51:49+00:00
+ - user: Thomas Pain
+ - tags: algorithms,dead internet,google
+
+
 ## VideoLAN has issued a legal notice to Indian Gov for banning their website
  - [https://internetfreedom.in/videolan-issued-legal-notice-to-dot-and-meity-for-banning-their-website-in-india/](https://internetfreedom.in/videolan-issued-legal-notice-to-dot-and-meity-for-banning-their-website-in-india/)
  - RSS feed: https://hnrss.org/frontpage
@@ -6562,6 +6584,13 @@
  - [https://xeiaso.net/blog/prompt-engineering](https://xeiaso.net/blog/prompt-engineering)
  - RSS feed: https://xeiaso.net
  - date published: 2022-10-02 09:53:11.662631+00:00
+ - user: Thomas Pain
+
+
+## Outdated vs. Complete
+ - [https://vivqu.com/blog/2022/09/25/outdated-apps/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav](https://vivqu.com/blog/2022/09/25/outdated-apps/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
+ - RSS feed: https://vivqu.com
+ - date published: 2022-10-01 22:31:16+00:00
  - user: Thomas Pain
 
 
@@ -6773,6 +6802,14 @@
  - user: None
 
 
+## YouTube Says Giorgia Meloni Video Was Removed in Error, Restores It After Inquiry
+ - [https://news.yahoo.com/youtube-removes-incoming-italian-prime-191944852.html](https://news.yahoo.com/youtube-removes-incoming-italian-prime-191944852.html)
+ - RSS feed: news.yahoo.com
+ - date published: 2022-09-29 07:16:54+00:00
+ - user: rumpel
+ - tags: meloni,censorship,youtube
+
+
 ## 78% of business professionals are up for meetings in the metaverse
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59039](https://www.codeproject.com/script/News/View.aspx?nwid=59039)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
@@ -6900,6 +6937,14 @@
  - user: None
 
 
+## COVID-19 Vaccine mRNAs Found In Vaccinated Women’s Breast Milk: STUDY | The Daily Caller
+ - [https://dailycaller.com/2022/09/27/covid-19-coronavirus-vaccine-mrna-breastfeeding-breastmilk-pregnant-women/](https://dailycaller.com/2022/09/27/covid-19-coronavirus-vaccine-mrna-breastfeeding-breastmilk-pregnant-women/)
+ - RSS feed: https://dailycaller.com
+ - date published: 2022-09-27 21:12:04+00:00
+ - user: rumpel
+ - tags: vaccine,mrna,covid
+
+
 ## Netflix Faces Another Massive Subscription Loss: Report
  - [https://www.dailywire.com/news/netflix-faces-another-massive-subscription-loss-report](https://www.dailywire.com/news/netflix-faces-another-massive-subscription-loss-report)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
@@ -7004,7 +7049,7 @@
  - RSS feed: https://www.telegraph.co.uk
  - date published: 2022-09-27 08:30:52+00:00
  - user: rumpel
- - tags: censorship,paypal,freespeech
+ - tags: paypal,censorship,free speech
 
 
 ## Microsoft tells companies to “re-recruit” employees to their positions
@@ -7119,6 +7164,14 @@
  - RSS feed: https://incoherency.co.uk
  - date published: 2022-09-25 22:27:13.848228+00:00
  - user: Thomas Pain
+
+
+## Gender activists push to bar anthropologists from identifying human remains as ‘male’ or ‘female’
+ - [https://www.thecollegefix.com/gender-activists-push-to-bar-anthropologists-from-identifying-human-remains-as-male-or-female/](https://www.thecollegefix.com/gender-activists-push-to-bar-anthropologists-from-identifying-human-remains-as-male-or-female/)
+ - RSS feed: https://www.thecollegefix.com/
+ - date published: 2022-09-25 15:37:48+00:00
+ - user: rumpel
+ - tags: woke,trans,gender,science
 
 
 ## Satanic Temple files federal lawsuit challenging Indiana's near-total abortion ban
@@ -7321,6 +7374,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-23 08:40:28+00:00
  - user: rumpel
+ - tags: paypal,misinformation,censorship,free speech
 
 
 ## Ukraine war: Russians flee to border after military call-up - BBC News
@@ -7377,7 +7431,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-22 21:57:24+00:00
  - user: None
- - tags: corporatocracy,freedom,censorship,paypal,freespeech
+ - tags: paypal,censorship,free speech,freedom,corporatocracy
 
 
 ## Meta’s Own Commissioned Report Says It Harmed Palestinian Human Rights
@@ -7857,7 +7911,7 @@
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-17 03:15:56+00:00
  - user: None
- - tags: twitter,censorship,free speech
+ - tags: censorship,free speech,monopoly,corporatocracy,twitter
 
 
 ## “The Suck” (Learning Anything by Writing It Out by Hand)
@@ -8188,6 +8242,14 @@
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-14 00:00:14+00:00
  - user: None
+
+
+## Automating a Reading List - Zanshin.net
+ - [https://zanshin.net/2022/09/11/automating-a-reading-list/](https://zanshin.net/2022/09/11/automating-a-reading-list/)
+ - RSS feed: https://zanshin.net
+ - date published: 2022-09-13 23:53:24+00:00
+ - user: Thomas Pain
+ - tags: database,digital bunker,knowledgebase,autonomy
 
 
 ## China's Xi to meet Putin in first foreign trip since pandemic
@@ -8531,7 +8593,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-09 16:01:08+00:00
  - user: rumpel
- - tags: carbon,climate change,emissions
+ - tags: emissions,climate drama,climate change,carbon
 
 
 ## Ask HN: Why do we need central bank digital currency (CBDC)?
@@ -9129,7 +9191,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-02 07:27:13+00:00
  - user: None
- - tags: play store,bigtech,social media,google,censorship
+ - tags: play store,monopoly,social media,censorship,google,bigtech
 
 
 ## China Locks Down Chengdu as Covid Cases Rise
@@ -9203,6 +9265,13 @@
  - user: Thomas Pain
 
 
+## Visual Studio Code is designed to fracture
+ - [https://ghuntley.com/fracture/](https://ghuntley.com/fracture/)
+ - RSS feed: https://ghuntley.com
+ - date published: 2022-08-31 11:23:48+00:00
+ - user: Thomas Pain
+
+
 ## apt_key deprecated in Debian/Ubuntu - how to fix in Ansible | Jeff Geerling
  - [https://www.jeffgeerling.com/blog/2022/aptkey-deprecated-debianubuntu-how-fix-ansible](https://www.jeffgeerling.com/blog/2022/aptkey-deprecated-debianubuntu-how-fix-ansible)
  - RSS feed: https://www.jeffgeerling.com
@@ -9229,6 +9298,13 @@
  - RSS feed: bgr.com
  - date published: 2022-08-31 06:46:36+00:00
  - user: None
+
+
+## 4.2 Gigabytes, or: How to Draw Anything - ⌨️🤷🏻‍♂️📷
+ - [https://andys.page/posts/how-to-draw/#](https://andys.page/posts/how-to-draw/#)
+ - RSS feed: https://andys.page
+ - date published: 2022-08-30 21:26:31+00:00
+ - user: Thomas Pain
 
 
 ## Stable Diffusion is a really big deal
@@ -9543,6 +9619,13 @@
  - tags: covid,bill gates,media
 
 
+## Silent crisis of soaring excess deaths gripping Britain is only tip of the iceberg
+ - [https://uk.news.yahoo.com/silent-crisis-soaring-excess-deaths-203000290.html](https://uk.news.yahoo.com/silent-crisis-soaring-excess-deaths-203000290.html)
+ - RSS feed: https://uk.news.yahoo.com
+ - date published: 2022-08-22 08:08:15+00:00
+ - user: Thomas Pain
+
+
 ## Nobody Wants to Teach Anymore. Everyone should know why. | by Jessica Wildfire | Aug, 2022 | Medium
  - [https://jessicalexicus.medium.com/nobody-wants-to-teach-anymore-66f09b877b11](https://jessicalexicus.medium.com/nobody-wants-to-teach-anymore-66f09b877b11)
  - RSS feed: https://jessicalexicus.medium.com
@@ -9591,6 +9674,14 @@
  - RSS feed: https://vadimkravcenko.com
  - date published: 2022-08-18 14:06:01.265682+00:00
  - user: Thomas Pain
+
+
+## Physical buttons outperform touchscreens in new cars, test finds | Vi Bilägare
+ - [https://www.vibilagare.se/nyheter/physical-buttons-outperform-touchscreens-new-cars-test-finds](https://www.vibilagare.se/nyheter/physical-buttons-outperform-touchscreens-new-cars-test-finds)
+ - RSS feed: https://www.vibilagare.se
+ - date published: 2022-08-18 06:34:01+00:00
+ - user: Thomas Pain
+ - tags: hardware
 
 
 ## University Professor Explains Surprising Ties Between Abortion and ‘LGBT’ Identity
@@ -9650,6 +9741,20 @@
  - user: Thomas Pain
 
 
+## blog: A robots.txt Problem
+ - [http://avodonosov.blogspot.com/2022/08/a-robotstxt-problem.html](http://avodonosov.blogspot.com/2022/08/a-robotstxt-problem.html)
+ - RSS feed: http://avodonosov.blogspot.com
+ - date published: 2022-08-16 12:06:30+00:00
+ - user: Thomas Pain
+
+
+## How Discord Supercharges Network Disks for Extreme Low Latency
+ - [https://discord.com/blog/how-discord-supercharges-network-disks-for-extreme-low-latency](https://discord.com/blog/how-discord-supercharges-network-disks-for-extreme-low-latency)
+ - RSS feed: https://discord.com
+ - date published: 2022-08-15 20:09:37+00:00
+ - user: Thomas Pain
+
+
 ## YES, They Really Are *Deleting* the Internet And it’s WAY Worse Than You Think
  - [https://www.youtube.com/watch?v=8O_NvPpbsbw](https://www.youtube.com/watch?v=8O_NvPpbsbw)
  - RSS feed: https://www.youtube.com/@BrightInsight
@@ -9702,6 +9807,13 @@
  - user: Thomas Pain
 
 
+## Arrest of suspected developer of Tornado Cash - FIOD
+ - [https://www.fiod.nl/arrest-of-suspected-developer-of-tornado-cash/](https://www.fiod.nl/arrest-of-suspected-developer-of-tornado-cash/)
+ - RSS feed: https://www.fiod.nl
+ - date published: 2022-08-13 09:47:01+00:00
+ - user: Thomas Pain
+
+
 ## Sustainable Debt Slavery
  - [https://unlimitedhangout.com/2022/09/investigative-reports/sustainable-debt-slavery/](https://unlimitedhangout.com/2022/09/investigative-reports/sustainable-debt-slavery/)
  - RSS feed: https://unlimitedhangout.com
@@ -9749,6 +9861,13 @@
  - [https://mina.naguib.ca/blog/2012/10/22/the-little-ssh-that-sometimes-couldnt.html](https://mina.naguib.ca/blog/2012/10/22/the-little-ssh-that-sometimes-couldnt.html)
  - RSS feed: https://mina.naguib.ca
  - date published: 2022-08-10 23:04:26.999772+00:00
+ - user: Thomas Pain
+
+
+## The Story of Mel
+ - [https://www.cs.utah.edu/~elb/folklore/mel.html](https://www.cs.utah.edu/~elb/folklore/mel.html)
+ - RSS feed: https://www.cs.utah.edu
+ - date published: 2022-08-10 13:08:53+00:00
  - user: Thomas Pain
 
 
@@ -9860,6 +9979,14 @@
  - user: Thomas Pain
 
 
+## Crimes with Python's Pattern Matching • Hillel Wayne
+ - [https://www.hillelwayne.com/post/python-abc/](https://www.hillelwayne.com/post/python-abc/)
+ - RSS feed: https://www.hillelwayne.com
+ - date published: 2022-08-03 21:48:07+00:00
+ - user: Thomas Pain
+ - tags: python,programming
+
+
 ## Please stop citing TIOBE
  - [https://web.archive.org/web/20220802174107/https://blog.nindalf.com/posts/stop-citing-tiobe/](https://web.archive.org/web/20220802174107/https://blog.nindalf.com/posts/stop-citing-tiobe/)
  - RSS feed: https://web.archive.org
@@ -9878,6 +10005,13 @@
  - [https://www.mentalfloss.com/article/626991/overexposed-history-fotomat](https://www.mentalfloss.com/article/626991/overexposed-history-fotomat)
  - RSS feed: https://www.mentalfloss.com
  - date published: 2022-08-03 10:58:23.872114+00:00
+ - user: Thomas Pain
+
+
+## How I Used DALL·E 2 to Generate The Logo for OctoSQL | Jacob Martin
+ - [https://jacobmartins.com/posts/how-i-used-dalle2-to-generate-the-logo-for-octosql/](https://jacobmartins.com/posts/how-i-used-dalle2-to-generate-the-logo-for-octosql/)
+ - RSS feed: https://jacobmartins.com
+ - date published: 2022-08-03 09:18:32+00:00
  - user: Thomas Pain
 
 
@@ -9922,6 +10056,7 @@
  - RSS feed: https://blog.lidskialf.net
  - date published: 2022-07-31 17:51:02.419885+00:00
  - user: Thomas Pain
+ - tags: programming,kindle,hardware,amazon
 
 
 ## Page Weight Matters
@@ -10003,6 +10138,14 @@
  - tags: lgbt,inequality
 
 
+## Report: Google is spying on competing apps on Android to give its own services a boost
+ - [https://mspoweruser.com/report-google-is-spying-on-competing-apps-on-android-to-give-its-own-services-a-boost](https://mspoweruser.com/report-google-is-spying-on-competing-apps-on-android-to-give-its-own-services-a-boost)
+ - RSS feed: mspoweruser.com
+ - date published: 2022-07-24 12:04:49+00:00
+ - user: rumpel
+ - tags: google,bigtech,monopoly,spying
+
+
 ## How a Clip From Stray Got Me Banned From Twitter
  - [https://www.fanbyte.com/features/how-a-clip-from-stray-got-me-banned-from-twitter/](https://www.fanbyte.com/features/how-a-clip-from-stray-got-me-banned-from-twitter/)
  - RSS feed: https://www.fanbyte.com
@@ -10028,6 +10171,20 @@
  - [https://www.theregister.com/2022/07/22/british_encryption_scanning/](https://www.theregister.com/2022/07/22/british_encryption_scanning/)
  - RSS feed: https://www.theregister.com
  - date published: 2022-07-22 20:10:14.373823+00:00
+ - user: Thomas Pain
+
+
+## Spf13 google | spf13
+ - [https://spf13.com/p/spf13-google/](https://spf13.com/p/spf13-google/)
+ - RSS feed: https://spf13.com
+ - date published: 2022-07-22 14:47:10+00:00
+ - user: Thomas Pain
+
+
+## I Regret my $46k Website Redesign · mtlynch.io
+ - [https://mtlynch.io/tinypilot-redesign/](https://mtlynch.io/tinypilot-redesign/)
+ - RSS feed: https://mtlynch.io
+ - date published: 2022-07-22 08:23:25+00:00
  - user: Thomas Pain
 
 
@@ -10066,6 +10223,13 @@
  - user: Thomas Pain
 
 
+## The Pneumatic Clocks of Paris | Amusing Planet
+ - [https://www.amusingplanet.com/2022/02/the-pneumatic-clocks-of-paris.html](https://www.amusingplanet.com/2022/02/the-pneumatic-clocks-of-paris.html)
+ - RSS feed: https://www.amusingplanet.com
+ - date published: 2022-07-18 12:45:08+00:00
+ - user: Thomas Pain
+
+
 ## Denmark bans Google Workspace over GDPR non-compliance
  - [https://techmonitor.ai/policy/privacy-and-data-protection/denmark-google-ban-workspace-chromebook-gdpr](https://techmonitor.ai/policy/privacy-and-data-protection/denmark-google-ban-workspace-chromebook-gdpr)
  - RSS feed: https://techmonitor.ai
@@ -10078,7 +10242,7 @@
  - RSS feed: https://kanekoa.substack.com
  - date published: 2022-07-17 22:50:53+00:00
  - user: rumpel
- - tags: great new deal,gnd,climate change
+ - tags: climate change,gnd,climate drama,great new deal
 
 
 ## Scratch is a big deal | Bryan Braun - Frontend Developer
@@ -10235,6 +10399,7 @@
  - RSS feed: https://en.oppohub.it
  - date published: 2022-07-09 20:41:15+00:00
  - user: None
+ - tags: china,germany,trade wars
 
 
 ## Why DRY is the most over-rated programming principle | Thoughts on Software
@@ -10284,6 +10449,13 @@
  - [https://www.bbc.co.uk/news/world-africa-61826273](https://www.bbc.co.uk/news/world-africa-61826273)
  - RSS feed: https://www.bbc.co.uk
  - date published: 2022-07-04 19:01:48.335883+00:00
+ - user: Thomas Pain
+
+
+## It's Quite Hard to Lose a Duolingo Streak
+ - [https://leejo.github.io/2022/07/03/duolingo_streak/](https://leejo.github.io/2022/07/03/duolingo_streak/)
+ - RSS feed: https://leejo.github.io
+ - date published: 2022-07-03 21:23:41+00:00
  - user: Thomas Pain
 
 
@@ -10355,7 +10527,7 @@
  - RSS feed: https://ramapascala.substack.com
  - date published: 2022-06-29 11:54:47+00:00
  - user: rumpel
- - tags: climate change,pollution
+ - tags: pollution,climate science,climate change
 
 
 ## Inside the secret, often bizarre world that decides what porn you see
@@ -10419,6 +10591,13 @@
  - [https://www.bejarano.io/sms-phishing/](https://www.bejarano.io/sms-phishing/)
  - RSS feed: https://www.bejarano.io
  - date published: 2022-06-25 09:00:54.556145+00:00
+ - user: Thomas Pain
+
+
+## Surprising result while transpiling C to Go - Fabrice Aneche
+ - [https://blog.nobugware.com/post/2022/surprising-result-while-transpiling-go/](https://blog.nobugware.com/post/2022/surprising-result-while-transpiling-go/)
+ - RSS feed: https://blog.nobugware.com
+ - date published: 2022-06-24 14:19:41+00:00
  - user: Thomas Pain
 
 
@@ -10486,6 +10665,14 @@
  - RSS feed: https://arstechnica.com
  - date published: 2022-06-22 08:40:54.635796+00:00
  - user: Thomas Pain
+
+
+## One year as a solo dev building open-source data tools without funding
+ - [https://datastation.multiprocess.io/blog/2022-06-11-year-in-review.html](https://datastation.multiprocess.io/blog/2022-06-11-year-in-review.html)
+ - RSS feed: https://datastation.multiprocess.io
+ - date published: 2022-06-21 17:16:41+00:00
+ - user: Thomas Pain
+ - tags: open source,monetization
 
 
 ## Cloudflare outage on June 21, 2022
@@ -10646,6 +10833,13 @@
  - user: Thomas Pain
 
 
+## If OpenSSL were a GUI
+ - [https://smallstep.com/blog/if-openssl-were-a-gui/](https://smallstep.com/blog/if-openssl-were-a-gui/)
+ - RSS feed: https://smallstep.com
+ - date published: 2022-06-11 08:40:14+00:00
+ - user: Thomas Pain
+
+
 ## Cooling the tube – Engineering heat out of the Underground
  - [https://www.ianvisits.co.uk/articles/cooling-the-tube-engineering-heat-out-of-the-underground-20873/](https://www.ianvisits.co.uk/articles/cooling-the-tube-engineering-heat-out-of-the-underground-20873/)
  - RSS feed: https://www.ianvisits.co.uk
@@ -10671,6 +10865,13 @@
  - [https://shkspr.mobi/blog/2022/06/ive-locked-myself-out-of-my-digital-life/](https://shkspr.mobi/blog/2022/06/ive-locked-myself-out-of-my-digital-life/)
  - RSS feed: https://shkspr.mobi
  - date published: 2022-06-08 05:56:41.312238+00:00
+ - user: Thomas Pain
+
+
+## I Built a Ruby Parser | My Point of View
+ - [https://mpov.timmorgan.org/i-built-a-ruby-parser/](https://mpov.timmorgan.org/i-built-a-ruby-parser/)
+ - RSS feed: https://mpov.timmorgan.org
+ - date published: 2022-06-07 09:21:34+00:00
  - user: Thomas Pain
 
 
@@ -10773,6 +10974,13 @@
  - user: Thomas Pain
 
 
+## Dangerous Gift
+ - [https://www.tbray.org/ongoing/When/202x/2022/06/02/Dangerous-Gift](https://www.tbray.org/ongoing/When/202x/2022/06/02/Dangerous-Gift)
+ - RSS feed: https://www.tbray.org
+ - date published: 2022-06-04 08:39:45+00:00
+ - user: Thomas Pain
+
+
 ## Matt Walsh Revisits His What Is A Woman Interview With Dr. Forcier
  - [https://www.youtube.com/watch?v=zdDB8wU73NA](https://www.youtube.com/watch?v=zdDB8wU73NA)
  - RSS feed: https://www.youtube.com
@@ -10816,6 +11024,14 @@
  - RSS feed: https://www.notcheckmark.com
  - date published: 2022-06-02 09:10:19.226893+00:00
  - user: Thomas Pain
+
+
+## Gmail accepts forged YouTube emails
+ - [https://john-millikin.com/gmail-accepts-forged-youtube-emails#ref:1](https://john-millikin.com/gmail-accepts-forged-youtube-emails#ref:1)
+ - RSS feed: https://john-millikin.com
+ - date published: 2022-06-02 08:44:36+00:00
+ - user: Thomas Pain
+ - tags: security,gmail,youtube,email
 
 
 ## Taiwan Restricts Russia, Belarus to CPUs Under 25 MHz Frequency | Tom's Hardware
@@ -10862,6 +11078,13 @@
  - user: Thomas Pain
 
 
+## A decade of dotfiles
+ - [https://evanhahn.com/a-decade-of-dotfiles/](https://evanhahn.com/a-decade-of-dotfiles/)
+ - RSS feed: https://evanhahn.com
+ - date published: 2022-05-31 06:54:09+00:00
+ - user: Thomas Pain
+
+
 ## Why is Front-End Development So Unstable?
  - [https://www.breck-mckye.com/blog/2018/05/why-is-front-end-development-so-unstable/](https://www.breck-mckye.com/blog/2018/05/why-is-front-end-development-so-unstable/)
  - RSS feed: https://www.breck-mckye.com
@@ -10903,6 +11126,14 @@
  - RSS feed: https://xeiaso.net
  - date published: 2022-05-29 14:44:38.499095+00:00
  - user: Thomas Pain
+
+
+## Building a Budget Homelab NAS Server (2022 Edition) · mtlynch.io
+ - [https://mtlynch.io/budget-nas/](https://mtlynch.io/budget-nas/)
+ - RSS feed: https://mtlynch.io
+ - date published: 2022-05-29 14:02:45+00:00
+ - user: Thomas Pain
+ - tags: nas,digital bunker,homelab
 
 
 ## I'm Retiring From the Engineering Profession
@@ -10967,7 +11198,21 @@
  - RSS feed: https://www.marketwatch.com
  - date published: 2022-05-24 18:32:12+00:00
  - user: rumpel
- - tags: climate change,hypocrisy,wef,davos
+ - tags: climate change,hypocrisy,wef,climate drama,davos
+
+
+## Memory safety for SerenityOS – Andreas Kling – I like computers!
+ - [https://awesomekling.github.io/Memory-safety-for-SerenityOS/](https://awesomekling.github.io/Memory-safety-for-SerenityOS/)
+ - RSS feed: https://awesomekling.github.io
+ - date published: 2022-05-24 09:00:04+00:00
+ - user: Thomas Pain
+
+
+## How Uber Uses Zig - Motiejus Jakštys Public Record
+ - [https://jakstys.lt/2022/how-uber-uses-zig/#fnref:1](https://jakstys.lt/2022/how-uber-uses-zig/#fnref:1)
+ - RSS feed: https://jakstys.lt
+ - date published: 2022-05-24 08:00:05+00:00
+ - user: Thomas Pain
 
 
 ## My Stance on Toxicity About Programming Languages - Xe
@@ -11009,6 +11254,13 @@
  - [https://blog.mollywhite.net/predatory-community/#fnref:fn1](https://blog.mollywhite.net/predatory-community/#fnref:fn1)
  - RSS feed: https://blog.mollywhite.net
  - date published: 2022-05-21 07:52:06.649721+00:00
+ - user: Thomas Pain
+
+
+## GOV.UK drops jQuery from their front end.
+ - [https://web.dev/gov-uk-drops-jquery/](https://web.dev/gov-uk-drops-jquery/)
+ - RSS feed: https://web.dev
+ - date published: 2022-05-20 07:09:31+00:00
  - user: Thomas Pain
 
 
@@ -11177,6 +11429,13 @@
  - user: Thomas Pain
 
 
+## I'm All-In on Server-Side SQLite · Fly
+ - [https://fly.io/blog/all-in-on-sqlite-litestream/](https://fly.io/blog/all-in-on-sqlite-litestream/)
+ - RSS feed: https://fly.io
+ - date published: 2022-05-10 05:59:27+00:00
+ - user: Thomas Pain
+
+
 ## Only Microsoft can give open source the gift of NTFS • The Register
  - [https://www.theregister.com/2022/05/09/only_microsoft_can_give_open/](https://www.theregister.com/2022/05/09/only_microsoft_can_give_open/)
  - RSS feed: https://www.theregister.com
@@ -11205,6 +11464,13 @@
  - user: Thomas Pain
 
 
+## Lessons learned from the recent job hunt · Jamie Tanna | Software Engineer
+ - [https://www.jvt.me/posts/2022/05/02/lessons-learned-job-hunt/](https://www.jvt.me/posts/2022/05/02/lessons-learned-job-hunt/)
+ - RSS feed: https://www.jvt.me
+ - date published: 2022-05-08 15:52:03+00:00
+ - user: Thomas Pain
+
+
 ## Site Update: Axum - Xe
  - [https://xeiaso.net/blog/site-update-axum-2022-03-21](https://xeiaso.net/blog/site-update-axum-2022-03-21)
  - RSS feed: https://xeiaso.net
@@ -11226,6 +11492,13 @@
  - user: Thomas Pain
 
 
+## Unix command line conventions over time
+ - [https://blog.liw.fi/posts/2022/05/07/unix-cli/](https://blog.liw.fi/posts/2022/05/07/unix-cli/)
+ - RSS feed: https://blog.liw.fi
+ - date published: 2022-05-08 08:01:25+00:00
+ - user: Thomas Pain
+
+
 ## Apple's Director of Machine Learning Resigns Due to Return to Office Work - MacRumors
  - [https://www.macrumors.com/2022/05/07/apple-director-of-machine-learning-resigns/](https://www.macrumors.com/2022/05/07/apple-director-of-machine-learning-resigns/)
  - RSS feed: https://www.macrumors.com
@@ -11238,6 +11511,7 @@
  - RSS feed: https://www.nytimes.com
  - date published: 2022-05-08 06:59:02.741911+00:00
  - user: Thomas Pain
+ - tags: bigtech,amazon
 
 
 ## Your Phone May Soon Replace Many of Your Passwords – Krebs on Security
@@ -11281,6 +11555,13 @@
  - date published: 2022-05-04 20:25:51+00:00
  - user: None
  - tags: windows,subscription
+
+
+## Writing a Book for O'Reilly - Party One
+ - [https://www.thecodepainter.co.uk/blog/20220503/writeabook01](https://www.thecodepainter.co.uk/blog/20220503/writeabook01)
+ - RSS feed: https://www.thecodepainter.co.uk
+ - date published: 2022-05-04 19:10:34+00:00
+ - user: Thomas Pain
 
 
 ## Slime mold
@@ -11382,10 +11663,24 @@
  - user: Thomas Pain
 
 
+## Google Developers Blog: What is black and white and read all over? Noto emoji, a new black and white emoji font
+ - [https://developers.googleblog.com/2022/04/what-is-black-and-white-and-read-all.html](https://developers.googleblog.com/2022/04/what-is-black-and-white-and-read-all.html)
+ - RSS feed: https://developers.googleblog.com
+ - date published: 2022-05-01 06:54:37+00:00
+ - user: Thomas Pain
+
+
 ## Internet Archive Joins Opposition to the "SMART Copyright Act" - Internet Archive Blogs
  - [http://blog.archive.org/2022/03/29/internet-archive-joins-opposition-to-the-smart-copyright-act/](http://blog.archive.org/2022/03/29/internet-archive-joins-opposition-to-the-smart-copyright-act/)
  - RSS feed: http://blog.archive.org
  - date published: 2022-05-01 06:23:35.827651+00:00
+ - user: Thomas Pain
+
+
+## Crafting “Crafting Interpreters” – journal.stuffwithstuff.com
+ - [https://journal.stuffwithstuff.com/2020/04/05/crafting-crafting-interpreters/](https://journal.stuffwithstuff.com/2020/04/05/crafting-crafting-interpreters/)
+ - RSS feed: https://journal.stuffwithstuff.com
+ - date published: 2022-04-30 08:10:51+00:00
  - user: Thomas Pain
 
 
@@ -11524,6 +11819,13 @@
  - user: Thomas Pain
 
 
+## Rapidly building interactive CLIs in Go with Bubbletea → Inngest Blog
+ - [https://www.inngest.com/blog/interactive-clis-with-bubbletea](https://www.inngest.com/blog/interactive-clis-with-bubbletea)
+ - RSS feed: https://www.inngest.com
+ - date published: 2022-04-22 18:32:30+00:00
+ - user: Thomas Pain
+
+
 ## Shitposting as a Learning Style - Last Week in AWS Blog
  - [https://www.lastweekinaws.com/blog/shitposting-as-a-learning-style/](https://www.lastweekinaws.com/blog/shitposting-as-a-learning-style/)
  - RSS feed: https://www.lastweekinaws.com
@@ -11550,6 +11852,13 @@
  - [https://www.bbc.co.uk/news/newsbeat-61075197](https://www.bbc.co.uk/news/newsbeat-61075197)
  - RSS feed: https://www.bbc.co.uk
  - date published: 2022-04-20 16:39:26.382029+00:00
+ - user: Thomas Pain
+
+
+## How we upgraded our 4 TB main application Postgres database
+ - [https://retool.com/blog/how-we-upgraded-postgresql-database/](https://retool.com/blog/how-we-upgraded-postgresql-database/)
+ - RSS feed: https://retool.com
+ - date published: 2022-04-20 11:19:39+00:00
  - user: Thomas Pain
 
 
@@ -11638,6 +11947,13 @@
  - user: Thomas Pain
 
 
+## Tokyo’s Manuscript Writing Cafe only allows writers on a deadline, and won’t let them leave until finished – grape Japan
+ - [https://grapee.jp/en/199026](https://grapee.jp/en/199026)
+ - RSS feed: https://grapee.jp
+ - date published: 2022-04-14 20:16:19+00:00
+ - user: Thomas Pain
+
+
 ## The Scoop: Inside the Longest Atlassian Outage of All Time
  - [https://newsletter.pragmaticengineer.com/p/scoop-atlassian?s=w](https://newsletter.pragmaticengineer.com/p/scoop-atlassian?s=w)
  - RSS feed: https://newsletter.pragmaticengineer.com
@@ -11670,6 +11986,13 @@
  - [https://news.cornell.edu/stories/2022/04/russian-trolls-tried-distract-voters-music-tweets-2016-0](https://news.cornell.edu/stories/2022/04/russian-trolls-tried-distract-voters-music-tweets-2016-0)
  - RSS feed: https://news.cornell.edu
  - date published: 2022-04-13 12:17:20.402097+00:00
+ - user: Thomas Pain
+
+
+## A System-Witch's Package Manager Murder Mystery
+ - [https://artemis.sh/2022/04/11/package-manager-murder-mystery.html](https://artemis.sh/2022/04/11/package-manager-murder-mystery.html)
+ - RSS feed: https://artemis.sh
+ - date published: 2022-04-13 10:46:27+00:00
  - user: Thomas Pain
 
 
@@ -11740,6 +12063,13 @@
  - [https://www.theverge.com/2022/4/10/23019303/heres-what-happens-cops-pull-over-a-driverless-cruise-vehicle-general-motors](https://www.theverge.com/2022/4/10/23019303/heres-what-happens-cops-pull-over-a-driverless-cruise-vehicle-general-motors)
  - RSS feed: https://www.theverge.com
  - date published: 2022-04-11 14:31:33.070521+00:00
+ - user: Thomas Pain
+
+
+## Capabilities for Nodejs
+ - [https://josephg.com/blog/node-sandbox/](https://josephg.com/blog/node-sandbox/)
+ - RSS feed: https://josephg.com
+ - date published: 2022-04-11 14:05:43+00:00
  - user: Thomas Pain
 
 
@@ -11857,6 +12187,13 @@
  - user: Thomas Pain
 
 
+## Tailscale’s human-scale networks are still controlled by Google and Microsoft — iliana.fyi
+ - [https://iliana.fyi/blog/tailscale-auth-and-threat-modeling/#fn-username-backref](https://iliana.fyi/blog/tailscale-auth-and-threat-modeling/#fn-username-backref)
+ - RSS feed: https://iliana.fyi
+ - date published: 2022-04-06 22:06:24+00:00
+ - user: Thomas Pain
+
+
 ## A Model for Identity in Software - Xe
  - [https://xeiaso.net/blog/identity-model-software-2021-01-31](https://xeiaso.net/blog/identity-model-software-2021-01-31)
  - RSS feed: https://xeiaso.net
@@ -11899,6 +12236,27 @@
  - user: Thomas Pain
 
 
+## TikTok doesn't show the war in Ukraine to Russian users – Oslo og Viken
+ - [https://www.nrk.no/osloogviken/xl/tiktok-doesn_t-show-the-war-in-ukraine-to-russian-users-1.15921522](https://www.nrk.no/osloogviken/xl/tiktok-doesn_t-show-the-war-in-ukraine-to-russian-users-1.15921522)
+ - RSS feed: https://www.nrk.no
+ - date published: 2022-04-06 07:10:36+00:00
+ - user: Thomas Pain
+
+
+## A Tale of Yak Shaving: Accidentally Making a Language, for an Engine, for a Game
+ - [https://verdagon.dev/blog/yak-shave-language-engine-game](https://verdagon.dev/blog/yak-shave-language-engine-game)
+ - RSS feed: https://verdagon.dev
+ - date published: 2022-04-05 11:38:52+00:00
+ - user: Thomas Pain
+
+
+## Exit Interviews Are a Trap - Jacob Kaplan-Moss
+ - [https://jacobian.org/2022/apr/4/exit-interviews-are-a-trap/](https://jacobian.org/2022/apr/4/exit-interviews-are-a-trap/)
+ - RSS feed: https://jacobian.org
+ - date published: 2022-04-05 06:51:36+00:00
+ - user: Thomas Pain
+
+
 ## Black Lives Matter Secretly Bought a $6 Million House
  - [https://nymag.com/intelligencer/2022/04/black-lives-matter-6-million-dollar-house.html](https://nymag.com/intelligencer/2022/04/black-lives-matter-6-million-dollar-house.html)
  - RSS feed: https://nymag.com
@@ -11933,6 +12291,13 @@
  - [https://nypost.com/2017/12/22/the-story-behind-creepy-as-hell-milk-bath-flyers/](https://nypost.com/2017/12/22/the-story-behind-creepy-as-hell-milk-bath-flyers/)
  - RSS feed: https://nypost.com
  - date published: 2022-04-02 15:56:01.955793+00:00
+ - user: Thomas Pain
+
+
+## Yet Another GitHub Profile Generator - House Absolute(ly Pointless)
+ - [https://blog.urth.org/2022/03/28/yet-another-github-profile-generator/](https://blog.urth.org/2022/03/28/yet-another-github-profile-generator/)
+ - RSS feed: https://blog.urth.org
+ - date published: 2022-04-02 14:39:24+00:00
  - user: Thomas Pain
 
 
@@ -12102,6 +12467,14 @@
  - tags: raspberry,digital bunker,smarthome,selfhost
 
 
+## Judge Jackson Refuses to Define ‘Woman’ during Confirmation Hearing: ‘I’m Not a Biologist’
+ - [https://news.yahoo.com/judge-jackson-refuses-define-woman-122717280.html](https://news.yahoo.com/judge-jackson-refuses-define-woman-122717280.html)
+ - RSS feed: https://news.yahoo.com
+ - date published: 2022-03-23 22:43:23+00:00
+ - user: rumpel
+ - tags: feminism,propaganda,whatisawoman
+
+
 ## Lia Thomas: Florida governor Ron DeSantis refuses to recognise Thomas win - BBC Sport
  - [https://www.bbc.co.uk/sport/swimming/60842863](https://www.bbc.co.uk/sport/swimming/60842863)
  - RSS feed: https://www.bbc.co.uk
@@ -12152,6 +12525,21 @@
  - user: Thomas Pain
 
 
+## Please put units in names
+ - [https://ruudvanasseldonk.com/2022/03/20/please-put-units-in-names](https://ruudvanasseldonk.com/2022/03/20/please-put-units-in-names)
+ - RSS feed: https://ruudvanasseldonk.com
+ - date published: 2022-03-21 06:51:32+00:00
+ - user: Thomas Pain
+ - tags: design patterns,programming
+
+
+## What Web Frameworks Solve And How To Do Without Them (Part 1) — Smashing Magazine
+ - [https://www.smashingmagazine.com/2022/01/web-frameworks-guide-part1/](https://www.smashingmagazine.com/2022/01/web-frameworks-guide-part1/)
+ - RSS feed: https://www.smashingmagazine.com
+ - date published: 2022-03-20 17:14:56+00:00
+ - user: Thomas Pain
+
+
 ## My one-way ticket out of Moscow | The Spectator
  - [https://www.spectator.co.uk/article/my-oneway-ticket-out-of-moscow](https://www.spectator.co.uk/article/my-oneway-ticket-out-of-moscow)
  - RSS feed: https://www.spectator.co.uk
@@ -12196,12 +12584,20 @@
  - RSS feed: https://www.independent.co.uk
  - date published: 2022-03-19 07:08:29.863295+00:00
  - user: Thomas Pain
+ - tags: bigtech,dark design,amazon
 
 
 ## Court says non-open 'open source' code is false advertising • The Register
  - [https://www.theregister.com/2022/03/17/court_open_source/](https://www.theregister.com/2022/03/17/court_open_source/)
  - RSS feed: https://www.theregister.com
  - date published: 2022-03-18 20:49:15.144273+00:00
+ - user: Thomas Pain
+
+
+## Even More Minor Features in Go 1.18 · The Ethically-Trained Programmer
+ - [https://blog.carlmjohnson.net/post/2022/golang-118-even-more-minor-features/](https://blog.carlmjohnson.net/post/2022/golang-118-even-more-minor-features/)
+ - RSS feed: https://blog.carlmjohnson.net
+ - date published: 2022-03-18 19:33:39+00:00
  - user: Thomas Pain
 
 
@@ -12464,6 +12860,13 @@
  - user: Thomas Pain
 
 
+## Don’t use the Unlicense, an inferior license with an atrocious name - an article by Chris Morgan
+ - [https://chrismorgan.info/blog/unlicense/](https://chrismorgan.info/blog/unlicense/)
+ - RSS feed: https://chrismorgan.info
+ - date published: 2022-03-04 16:12:39+00:00
+ - user: Thomas Pain
+
+
 ## ICANN's rejection of Ukraine's request to sever Russia from the internet [pdf] | Hacker News
  - [https://news.ycombinator.com/item?id=30540188](https://news.ycombinator.com/item?id=30540188)
  - RSS feed: https://news.ycombinator.com
@@ -12499,10 +12902,24 @@
  - user: Thomas Pain
 
 
+## How to take credit for someone else's work on GitHub
+ - [https://repography.com/blog/how-to-take-credit-for-someone-elses-work-on-github](https://repography.com/blog/how-to-take-credit-for-someone-elses-work-on-github)
+ - RSS feed: https://repography.com
+ - date published: 2022-03-01 07:19:49+00:00
+ - user: Thomas Pain
+
+
 ## Storms with female names are not ‘more deadly’ because people underestimate them - Full Fact
  - [https://fullfact.org/news/storms-are-not-sexist/](https://fullfact.org/news/storms-are-not-sexist/)
  - RSS feed: https://fullfact.org
  - date published: 2022-02-28 17:15:19.477731+00:00
+ - user: Thomas Pain
+
+
+## On Regular Expressions · @radekmie’s take on IT and stuff
+ - [https://radekmie.github.io/blog/on-regular-expressions/#binary-number](https://radekmie.github.io/blog/on-regular-expressions/#binary-number)
+ - RSS feed: https://radekmie.github.io
+ - date published: 2022-02-28 17:13:23+00:00
  - user: Thomas Pain
 
 
@@ -12593,6 +13010,14 @@
  - date published: 2022-02-20 06:51:15+00:00
  - user: None
  - tags: freedom convoy,covid,canada
+
+
+## Jeffrey Epstein's pimp Jean-Luc Brunel 'hangs himself alone in Paris jail with no CCTV
+ - [https://www.dailymail.co.uk/news/article-10530247/Jeffrey-Epsteins-friend-Jean-Luc-Brunel-prison-suicide.html](https://www.dailymail.co.uk/news/article-10530247/Jeffrey-Epsteins-friend-Jean-Luc-Brunel-prison-suicide.html)
+ - RSS feed: https://www.dailymail.co.uk/news/article-10530247/Jeffrey-Epsteins-friend-Jean-Luc-Brunel-prison-suicide.html
+ - date published: 2022-02-19 19:44:45+00:00
+ - user: rumpel
+ - tags: epstein
 
 
 ## Tesla’s 3-6-9 and Vortex Math: Is this really the key to the universe?
@@ -12698,6 +13123,13 @@
  - tags: ads,google search,all time,dead internet,google,algorithm
 
 
+## The simple system I’m using to stay in touch with hundreds of people – Jakob Greenfeld – Experiments in Entrepreneurship and Learning
+ - [https://jakobgreenfeld.com/stay-in-touch](https://jakobgreenfeld.com/stay-in-touch)
+ - RSS feed: https://jakobgreenfeld.com
+ - date published: 2022-02-15 08:35:43+00:00
+ - user: Thomas Pain
+
+
 ## Jerry and Marge Selbee: How a retired couple won millions using a lottery loophole - 60 Minutes - CBS News
  - [https://www.cbsnews.com/news/jerry-and-marge-selbee-how-a-retired-couple-won-millions-using-a-lottery-loophole-60-minutes-2019-06-09/#app](https://www.cbsnews.com/news/jerry-and-marge-selbee-how-a-retired-couple-won-millions-using-a-lottery-loophole-60-minutes-2019-06-09/#app)
  - RSS feed: https://www.cbsnews.com
@@ -12756,11 +13188,19 @@
  - user: Thomas Pain
 
 
+## How We Write GitHub Actions in Go · Blend Engineering: Full Stack Finance
+ - [https://full-stack.blend.com/how-we-write-github-actions-in-go.html#authoring-an-action-todays-landscape](https://full-stack.blend.com/how-we-write-github-actions-in-go.html#authoring-an-action-todays-landscape)
+ - RSS feed: https://full-stack.blend.com
+ - date published: 2022-02-11 18:57:36+00:00
+ - user: Thomas Pain
+
+
 ## Anti-exploitation bill advances in Senate despite free speech concerns
  - [https://www.theverge.com/2022/2/10/22927346/earn-it-act-markup-senate-judiciary-section-230-csam-non-consensual-porn](https://www.theverge.com/2022/2/10/22927346/earn-it-act-markup-senate-judiciary-section-230-csam-non-consensual-porn)
  - RSS feed: https://www.theverge.com
  - date published: 2022-02-10 20:25:15+00:00
  - user: None
+ - tags: bigbrother,censorship,free speech
 
 
 ## The Dead Internet Theory (Part 3)
@@ -12785,6 +13225,13 @@
  - user: Thomas Pain
 
 
+## Semantic Compression
+ - [https://caseymuratori.com/blog_0015](https://caseymuratori.com/blog_0015)
+ - RSS feed: https://caseymuratori.com
+ - date published: 2022-02-08 17:12:54+00:00
+ - user: Thomas Pain
+
+
 ## IRS To Ditch Biometric Requirement for Online Access – Krebs on Security
  - [https://krebsonsecurity.com/2022/02/irs-to-ditch-biometric-requirement-for-online-access/](https://krebsonsecurity.com/2022/02/irs-to-ditch-biometric-requirement-for-online-access/)
  - RSS feed: https://krebsonsecurity.com
@@ -12796,6 +13243,13 @@
  - [https://rachelbythebay.com/w/2022/01/27/scale/](https://rachelbythebay.com/w/2022/01/27/scale/)
  - RSS feed: https://rachelbythebay.com
  - date published: 2022-02-07 19:43:55.171582+00:00
+ - user: Thomas Pain
+
+
+## Thank you, Valve | Alejandro AR (kinduff)
+ - [https://kinduff.com/2022/02/06/thank-you-valve/](https://kinduff.com/2022/02/06/thank-you-valve/)
+ - RSS feed: https://kinduff.com
+ - date published: 2022-02-07 18:52:21+00:00
  - user: Thomas Pain
 
 
@@ -12848,12 +13302,26 @@
  - user: Thomas Pain
 
 
+## Jan-Piet Mens :: A shell command to create JSON: jo
+ - [https://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo/](https://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo/)
+ - RSS feed: https://jpmens.net
+ - date published: 2022-02-05 20:35:31+00:00
+ - user: Thomas Pain
+
+
 ## ‘Beginning of the end’: GoFundMe faces avalanche of backlash after yanking Freedom Convoy campaign
  - [https://www.bizpacreview.com/2022/02/05/beginning-of-the-end-gofundme-faces-avalanche-of-backlash-after-yanking-freedom-convoy-campaign-1197369/](https://www.bizpacreview.com/2022/02/05/beginning-of-the-end-gofundme-faces-avalanche-of-backlash-after-yanking-freedom-convoy-campaign-1197369/)
  - RSS feed: www.bizpacreview.com
  - date published: 2022-02-05 06:41:16+00:00
  - user: None
  - tags: protest,gofundme,censorship,covid
+
+
+## Optimizing GoAWK with a bytecode compiler and virtual machine
+ - [https://benhoyt.com/writings/goawk-compiler-vm/](https://benhoyt.com/writings/goawk-compiler-vm/)
+ - RSS feed: https://benhoyt.com
+ - date published: 2022-02-04 22:43:35+00:00
+ - user: Thomas Pain
 
 
 ## Senate report implicates Fauci in Wuhan lab leak cover-up
@@ -12913,6 +13381,20 @@
  - date published: 2022-01-29 19:42:03+00:00
  - user: None
  - tags: epstein
+
+
+## Reclaiming the lost art of Linux server administration | pietrorea's blog
+ - [https://www.pietrorea.com/2022/01/28/reclaiming-the-lost-art-of-linux-server-administration](https://www.pietrorea.com/2022/01/28/reclaiming-the-lost-art-of-linux-server-administration)
+ - RSS feed: https://www.pietrorea.com
+ - date published: 2022-01-28 15:09:55+00:00
+ - user: Thomas Pain
+
+
+## If Looks Could Kill
+ - [https://vintagecomputerstories.blogspot.com/2022/01/if-looks-could-kill.html?m=1](https://vintagecomputerstories.blogspot.com/2022/01/if-looks-could-kill.html?m=1)
+ - RSS feed: https://vintagecomputerstories.blogspot.com
+ - date published: 2022-01-28 09:01:44+00:00
+ - user: Thomas Pain
 
 
 ## Elon Musk SpaceX rocket on collision course with moon - BBC News
@@ -13061,6 +13543,13 @@
  - user: Thomas Pain
 
 
+## webassembly: the new kubernetes? -- wingolog
+ - [https://wingolog.org/archives/2021/12/13/webassembly-the-new-kubernetes](https://wingolog.org/archives/2021/12/13/webassembly-the-new-kubernetes)
+ - RSS feed: https://wingolog.org
+ - date published: 2022-01-22 09:39:52+00:00
+ - user: Thomas Pain
+
+
 ## Stakeholder capitalism and ESG—the road to socialism
  - [https://fraserinstitute.org/article/stakeholder-capitalism-and-esg-the-road-to-socialism](https://fraserinstitute.org/article/stakeholder-capitalism-and-esg-the-road-to-socialism)
  - RSS feed: https://fraserinstitute.org
@@ -13118,7 +13607,7 @@
  - RSS feed: https://www.newsbusters.org
  - date published: 2022-01-18 13:58:30+00:00
  - user: None
- - tags: factcheck,censorship,freespeech,youtube
+ - tags: factcheck,youtube,censorship,free speech
 
 
 ## The pandemic’s true death toll: millions more than official counts
@@ -13147,6 +13636,13 @@
  - [https://www.forrestthewoods.com/blog/failing-to-learn-zig-via-advent-of-code/](https://www.forrestthewoods.com/blog/failing-to-learn-zig-via-advent-of-code/)
  - RSS feed: https://www.forrestthewoods.com
  - date published: 2022-01-17 17:36:05.086304+00:00
+ - user: Thomas Pain
+
+
+## Why isn't there a universal data-format for résumés?
+ - [https://toot.cat/@woozle/107634232290378715](https://toot.cat/@woozle/107634232290378715)
+ - RSS feed: https://toot.cat
+ - date published: 2022-01-17 08:37:09+00:00
  - user: Thomas Pain
 
 
@@ -13205,6 +13701,13 @@
  - date published: 2022-01-14 13:52:04+00:00
  - user: rumpel
  - tags: hackers,north korea,crypto
+
+
+## Exploring System76's New Rust Based Desktop Environment | Devloop
+ - [https://blog.edfloreshz.dev/articles/linux/system76/rust-based-desktop-environment/](https://blog.edfloreshz.dev/articles/linux/system76/rust-based-desktop-environment/)
+ - RSS feed: https://blog.edfloreshz.dev
+ - date published: 2022-01-14 09:27:34+00:00
+ - user: Thomas Pain
 
 
 ## How I plan - stitcher.io
@@ -13285,6 +13788,14 @@
  - RSS feed: https://www.joshwcomeau.com
  - date published: 2022-01-12 08:19:43.266511+00:00
  - user: Thomas Pain
+
+
+## Who wrote this shit? | Philip Heltweg
+ - [https://www.heltweg.org/posts/who-wrote-this-shit/](https://www.heltweg.org/posts/who-wrote-this-shit/)
+ - RSS feed: https://www.heltweg.org
+ - date published: 2022-01-11 12:42:30+00:00
+ - user: Thomas Pain
+ - tags: programming,culture
 
 
 ## Physicians re-evaluate use of lead aprons during X-rays - Scope
@@ -13398,6 +13909,20 @@
  - [https://www.wilcosky.com/d/20-i-miss-rss](https://www.wilcosky.com/d/20-i-miss-rss)
  - RSS feed: https://www.wilcosky.com
  - date published: 2022-01-06 15:02:30.251051+00:00
+ - user: Thomas Pain
+
+
+## Platonic relationships aren't just for friends. They can be for life.
+ - [https://eu.usatoday.com/story/life/health-wellness/2022/01/04/platonic-relationships-life-partners/9073118002/](https://eu.usatoday.com/story/life/health-wellness/2022/01/04/platonic-relationships-life-partners/9073118002/)
+ - RSS feed: https://eu.usatoday.com
+ - date published: 2022-01-05 16:23:57+00:00
+ - user: Thomas Pain
+
+
+## Python Type Hints - How to Handle Optional Imports - Adam Johnson
+ - [https://adamj.eu/tech/2021/12/29/python-type-hints-optional-imports/](https://adamj.eu/tech/2021/12/29/python-type-hints-optional-imports/)
+ - RSS feed: https://adamj.eu
+ - date published: 2022-01-05 15:12:23+00:00
  - user: Thomas Pain
 
 

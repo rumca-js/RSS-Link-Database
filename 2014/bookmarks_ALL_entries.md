@@ -1,3 +1,11 @@
+## Can Google be trusted?
+ - [http://edition.cnn.com/2014/11/10/opinion/google-new-mission-statement/index.html?eref=edition](http://edition.cnn.com/2014/11/10/opinion/google-new-mission-statement/index.html?eref=edition)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2014-11-10 14:48:05+00:00
+ - user: rumpel
+ - tags: bigtech,corporatocracy,google
+
+
 ## 5 facts about evolution and religion
  - [https://www.pewresearch.org/fact-tank/2014/10/30/5-facts-about-evolution-and-religion/](https://www.pewresearch.org/fact-tank/2014/10/30/5-facts-about-evolution-and-religion/)
  - RSS feed: https://www.pewresearch.org
@@ -19,7 +27,7 @@
  - RSS feed: https://www.youtube.com
  - date published: 2014-10-10 20:56:29+00:00
  - user: rumpel
- - tags: bigbrother,citizenfour,surveillance,snowden
+ - tags: citizenfour,snowden,surveillance,privacy,bigbrother
 
 
 ## 2030: Privacy's Dead. What happens next?
@@ -38,12 +46,20 @@
  - tags: pervert's guide,carpenter,they live
 
 
+## U.S rules on cell phone privacy
+ - [http://edition.cnn.com/2014/06/25/justice/supreme-court-cell-phones/index.html?eref=edition](http://edition.cnn.com/2014/06/25/justice/supreme-court-cell-phones/index.html?eref=edition)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2014-06-26 00:27:38+00:00
+ - user: rumpel
+ - tags: law,freedom,privacy
+
+
 ## Facebook Could Decide an Election Without Anyone Ever Finding Out
  - [https://newrepublic.com/article/117878/information-fiduciary-solution-facebook-digital-gerrymandering](https://newrepublic.com/article/117878/information-fiduciary-solution-facebook-digital-gerrymandering)
  - RSS feed: https://newrepublic.com
  - date published: 2014-06-02 11:14:27+00:00
  - user: None
- - tags: election,facebook,privacy
+ - tags: corporatocracy,election,privacy,facebook
 
 
 ## Why Science Does Not Disprove God

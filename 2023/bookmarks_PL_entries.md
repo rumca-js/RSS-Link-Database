@@ -14,6 +14,14 @@
  - tags: spain,immigration
 
 
+## Telewizor odmówi ci wyświetlenia danej treści. Nie, to nie żart         - TELEPOLIS.PL
+ - [https://www.telepolis.pl/tech/sprzet/telewizory-sony-zabezpieczenie-piractwo](https://www.telepolis.pl/tech/sprzet/telewizory-sony-zabezpieczenie-piractwo)
+ - RSS feed: https://www.telepolis.pl
+ - date published: 2023-01-16 06:47:16+00:00
+ - user: rumpel
+ - tags: sony,censorship,youllownnothing,moderation
+
+
 ## Samochody elektryczne to poważne zagrożenie dla innych pojazdów. O tym się nie mówi - Instalki.pl
  - [https://www.instalki.pl/aktualnosci/technika/57737-samochody-elektryczne-masa-zagrozenie-dla-innych-pojazdow.html](https://www.instalki.pl/aktualnosci/technika/57737-samochody-elektryczne-masa-zagrozenie-dla-innych-pojazdow.html)
  - RSS feed: https://www.instalki.pl

@@ -3,5 +3,13 @@
  - RSS feed: https://en.wikipedia.org
  - date published: 2008-12-28 20:08:22+00:00
  - user: rumpel
- - tags: climate change
+ - tags: climate science,climate change
+
+
+## Is Google Making Us Stupid? - The Atlantic
+ - [https://www.theatlantic.com/magazine/archive/2008/07/is-google-making-us-stupid/306868/](https://www.theatlantic.com/magazine/archive/2008/07/is-google-making-us-stupid/306868/)
+ - RSS feed: https://www.theatlantic.com
+ - date published: 2008-07-20 11:33:08+00:00
+ - user: rumpel
+ - tags: psychology,future,digital dementia,google
 

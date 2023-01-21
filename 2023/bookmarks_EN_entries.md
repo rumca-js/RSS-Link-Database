@@ -1,3 +1,42 @@
+## The CIA's Plot To Assassinate Julian Assange
+ - [https://www.youtube.com/watch?v=KvewuoL2VcY](https://www.youtube.com/watch?v=KvewuoL2VcY)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCmFeOdJI3IXgTBDzqBLD8qg
+ - date published: 2023-01-20 19:39:06+00:00
+ - user: rumpel
+ - tags: wikileaks,cia,assange
+
+
+## Meta, Twitter, Microsoft and others urge Supreme Court not to allow lawsuits against tech algorithms
+ - [https://www.cnn.com/2023/01/20/tech/meta-microsoft-google-supreme-court-tech-algorithms/index.html](https://www.cnn.com/2023/01/20/tech/meta-microsoft-google-supreme-court-tech-algorithms/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2023-01-20 14:07:43+00:00
+ - user: rumpel
+
+
+## How to destroy a certificate authority in one month
+ - [https://cohost.org/arborelia/post/868933-how-to-destroy-a-cer](https://cohost.org/arborelia/post/868933-how-to-destroy-a-cer)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-01-19 22:43:11+00:00
+ - user: rumpel
+ - tags: internet,programming
+
+
+## Twitter officially bans third-party clients with new developer rules
+ - [https://www.theverge.com/2023/1/19/23562947/twitter-third-party-client-tweetbot-twitterific-ban-rules](https://www.theverge.com/2023/1/19/23562947/twitter-third-party-client-tweetbot-twitterific-ban-rules)
+ - RSS feed: https://www.theverge.com/rss/index.xml
+ - date published: 2023-01-19 22:23:16+00:00
+ - user: rumpel
+ - tags: subscription,twitter
+
+
+## Israel Ministry of Health Finds Pfizer Agreement After Claiming It Couldn’t Be Located
+ - [https://www.theepochtimes.com/israel-ministry-of-health-finds-pfizer-agreement-after-claiming-it-couldnt-be-located_4996166.html](https://www.theepochtimes.com/israel-ministry-of-health-finds-pfizer-agreement-after-claiming-it-couldnt-be-located_4996166.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2023-01-19 18:41:15+00:00
+ - user: rumpel
+ - tags: pfizer,israel,covid
+
+
 ## Online pharmacies selling abortion pills send fingerprints to Google Analytics
  - [https://www.propublica.org/article/websites-selling-abortion-pills-share-sensitive-data-with-google](https://www.propublica.org/article/websites-selling-abortion-pills-share-sensitive-data-with-google)
  - RSS feed: https://hnrss.org/frontpage
@@ -67,7 +106,7 @@
  - RSS feed: https://www.scottishdailyexpress.co.uk
  - date published: 2023-01-17 21:08:35+00:00
  - user: rumpel
- - tags: climate change,scotland,freedom
+ - tags: freedom,climate drama,climate change,scotland
 
 
 ## Blocking Scotland’s gender bill is no anti-woke crusade. But it’s not a democratic outrage either | Martin Kettle
@@ -98,7 +137,7 @@
  - RSS feed: https://www.theguardian.com/world/rss
  - date published: 2023-01-17 06:00:07+00:00
  - user: rumpel
- - tags: climate change,net zero,hypocrisy
+ - tags: climate change,climate science,hypocrisy,climate drama,net zero
 
 
 ## Study suggests US freshwater fish highly contaminated with 'forever chemicals'
@@ -181,6 +220,14 @@
  - tags: sqlite,programming
 
 
+## Dr. Leana Wen writes that COVID deaths are being overcounted
+ - [https://nypost.com/2023/01/14/dr-leana-wen-writes-that-covid-deaths-are-being-overcounted/](https://nypost.com/2023/01/14/dr-leana-wen-writes-that-covid-deaths-are-being-overcounted/)
+ - RSS feed: https://nypost.com
+ - date published: 2023-01-14 21:05:24+00:00
+ - user: rumpel
+ - tags: scienceisdead,statistics,covid,propaganda
+
+
 ## How Police Exploited the Capitol Riot’s Digital Records
  - [https://spectrum.ieee.org/capitol-riot](https://spectrum.ieee.org/capitol-riot)
  - RSS feed: https://hnrss.org/frontpage
@@ -242,7 +289,7 @@
  - RSS feed: https://thehill.com/news/feed/
  - date published: 2023-01-13 22:20:10+00:00
  - user: rumpel
- - tags: davos,climate change,hypocrisy,wef
+ - tags: climate change,hypocrisy,wef,climate drama,davos
 
 
 ## Google warns court against changing liability shield for internet companies
@@ -274,7 +321,7 @@
  - RSS feed: https://www.tagesanzeiger.ch
  - date published: 2023-01-13 18:23:54+00:00
  - user: rumpel
- - tags: climate change,wef,davos
+ - tags: wef,climate drama,climate change,davos
 
 
 ## India lets banks use face recognition, iris scan for some transactions - sources | Reuters
@@ -378,6 +425,7 @@
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2023-01-12 19:00:00+00:00
  - user: rumpel
+ - tags: climate science,scienceisdead,climate change
 
 
 ## Own Your Data
@@ -416,6 +464,7 @@
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2023-01-12 13:00:50+00:00
  - user: rumpel
+ - tags: subscription,youllownnothing,youtube
 
 
 ## Elon Musk breaks world record for ‘worst loss of fortune,’ Guinness says
@@ -542,7 +591,7 @@
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2023-01-10 09:00:08+00:00
  - user: rumpel
- - tags: carbon,climate change
+ - tags: climate science,climate drama,climate change,carbon
 
 
 ## Show HN: Ecode – A minimalist and fast open-source code editor
@@ -741,7 +790,7 @@
  - RSS feed: https://www.lemonde.fr/en/rss/une.xml
  - date published: 2023-01-07 03:56:10+00:00
  - user: rumpel
- - tags: carbon footprint,esg,climate change
+ - tags: climate change,climate drama,carbon footprint,esg
 
 
 ## Physical buttons outperform touchscreens in new cars, test finds (2022)
@@ -833,7 +882,7 @@
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
  - date published: 2023-01-05 17:00:25+00:00
  - user: rumpel
- - tags: bigbrother,censorship,woke
+ - tags: bigbrother,censorship,woke,free speech
 
 
 ## No Biological Evidence For ‘Gender Identity’ Exists, Group Of Scientists, Researchers Says

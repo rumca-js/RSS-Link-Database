@@ -163,6 +163,14 @@
  - tags: graphics,gaming
 
 
+## Why I wrote my own Go HTTP client · The Ethically-Trained Programmer
+ - [https://blog.carlmjohnson.net/post/2021/requests-golang-http-client/](https://blog.carlmjohnson.net/post/2021/requests-golang-http-client/)
+ - RSS feed: https://blog.carlmjohnson.net
+ - date published: 2021-12-24 15:51:48+00:00
+ - user: Thomas Pain
+ - tags: cleancode,go,programming
+
+
 ## My productivity app is a single .txt file
  - [https://jeffhuang.com/productivity_text_file/](https://jeffhuang.com/productivity_text_file/)
  - RSS feed: https://jeffhuang.com
@@ -211,7 +219,7 @@
  - RSS feed: https://css.umich.edu
  - date published: 2021-12-21 14:30:59+00:00
  - user: None
- - tags: climate change,carbon footprint
+ - tags: climate science,carbon footprint,climate change
 
 
 ## Boeing and Airbus warn US over 5G safety concerns - BBC News
@@ -232,6 +240,13 @@
  - [https://slate.com/technology/2021/12/tiktok-couch-guy-internet-sleuths.html](https://slate.com/technology/2021/12/tiktok-couch-guy-internet-sleuths.html)
  - RSS feed: https://slate.com
  - date published: 2021-12-21 00:52:57.166721+00:00
+ - user: Thomas Pain
+
+
+## Tesla allegedly remotely unlocks Model 3 owner's car, uses smart summon to help repo agent - Alt Car news
+ - [https://tiremeetsroad.com/2021/03/18/tesla-allegedly-remotely-unlocks-model-3-owners-car-uses-smart-summon-to-help-repo-agent/](https://tiremeetsroad.com/2021/03/18/tesla-allegedly-remotely-unlocks-model-3-owners-car-uses-smart-summon-to-help-repo-agent/)
+ - RSS feed: https://tiremeetsroad.com
+ - date published: 2021-12-20 16:34:29+00:00
  - user: Thomas Pain
 
 
@@ -381,6 +396,14 @@
  - user: Thomas Pain
 
 
+## Canada too quick to treat gender dysphoria in minors with hormones, surgery: critics
+ - [https://nationalpost.com/news/canada/canada-transgender-treatment](https://nationalpost.com/news/canada/canada-transgender-treatment)
+ - RSS feed: https://nationalpost.com
+ - date published: 2021-12-03 08:49:22+00:00
+ - user: rumpel
+ - tags: kids,canada,lgbt,trans
+
+
 ## Microsoft says its own Edge browser is more trustworthy than "so 2008" Google Chrome - Neowin
  - [https://www.neowin.net/news/microsoft-says-its-own-edge-browser-is-more-trustworthy-than-so-2008-google-chrome/](https://www.neowin.net/news/microsoft-says-its-own-edge-browser-is-more-trustworthy-than-so-2008-google-chrome/)
  - RSS feed: https://www.neowin.net
@@ -406,6 +429,13 @@
  - [https://embedded.substack.com/p/instagram-is-facebook-now](https://embedded.substack.com/p/instagram-is-facebook-now)
  - RSS feed: https://embedded.substack.com
  - date published: 2021-12-02 18:22:31.730006+00:00
+ - user: Thomas Pain
+
+
+## Project Zero: This shouldn't have happened: A vulnerability postmortem
+ - [https://googleprojectzero.blogspot.com/2021/12/this-shouldnt-have-happened.html](https://googleprojectzero.blogspot.com/2021/12/this-shouldnt-have-happened.html)
+ - RSS feed: https://googleprojectzero.blogspot.com
+ - date published: 2021-12-02 17:29:52+00:00
  - user: Thomas Pain
 
 
@@ -496,6 +526,13 @@
  - tags: australia,lockdown,covid,protest
 
 
+## AWKGo, an AWK-to-Go compiler
+ - [https://benhoyt.com/writings/awkgo/](https://benhoyt.com/writings/awkgo/)
+ - RSS feed: https://benhoyt.com
+ - date published: 2021-11-26 20:23:10+00:00
+ - user: Thomas Pain
+
+
 ## Underrated reasons to be thankful
  - [https://dynomight.net/thanks/](https://dynomight.net/thanks/)
  - RSS feed: https://dynomight.net
@@ -522,6 +559,22 @@
  - RSS feed: https://restofworld.org
  - date published: 2021-11-24 17:25:15.534785+00:00
  - user: Thomas Pain
+
+
+## Kyle Rittenhouse's trial exposes biases among left-leaning media
+ - [https://news.yahoo.com/kyle-rittenhouses-trial-exposes-biases-205230938.html](https://news.yahoo.com/kyle-rittenhouses-trial-exposes-biases-205230938.html)
+ - RSS feed: https://news.yahoo.com
+ - date published: 2021-11-24 08:13:59+00:00
+ - user: rumpel
+ - tags: blm,kyle rittenhouse,media bias
+
+
+## My journey to type checking 7521 lines of Python
+ - [https://nskm.xyz/posts/stcmp2/](https://nskm.xyz/posts/stcmp2/)
+ - RSS feed: https://nskm.xyz
+ - date published: 2021-11-23 23:21:08+00:00
+ - user: Thomas Pain
+ - tags: python,programming
 
 
 ## Chat control: The latest EU plans to outlaw encryption and introduce telecommunications surveillance | mailbox.org
@@ -747,6 +800,14 @@
  - user: Thomas Pain
 
 
+## Kyle Rittenhouse testifies he fired to protect himself, faces lengthy cross-examination
+ - [https://news.yahoo.com/kyle-rittenhouse-testifies-fired-protect-021041600.html](https://news.yahoo.com/kyle-rittenhouse-testifies-fired-protect-021041600.html)
+ - RSS feed: https://news.yahoo.com
+ - date published: 2021-11-11 08:11:43+00:00
+ - user: rumpel
+ - tags: blm,kyle rittenhouse
+
+
 ## YouTube gives dislikes the thumbs-down, hides public counts
  - [https://www.theverge.com/2021/11/10/22773299/youtube-dislike-button-hide-public-count-numbers-small-creator-protection](https://www.theverge.com/2021/11/10/22773299/youtube-dislike-button-hide-public-count-numbers-small-creator-protection)
  - RSS feed: https://www.theverge.com
@@ -774,7 +835,7 @@
  - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
  - date published: 2021-11-09 17:45:34+00:00
  - user: rumpel
- - tags: carbon emissions,climate change
+ - tags: climate drama,carbon emissions,climate change
 
 
 ## Stop requiring specific technology experience for senior-plus engineers | Mike McQuaid
@@ -863,6 +924,14 @@
  - tags: hollywood,movies
 
 
+## In COVID-19 Vaccinated People, Those with Prior Infection Likely to Have More Antibodies
+ - [https://www.hopkinsmedicine.org/news/newsroom/news-releases/in-covid-19-vaccinated-people-those-with-prior-infection-likely-to-have-more-antibodies](https://www.hopkinsmedicine.org/news/newsroom/news-releases/in-covid-19-vaccinated-people-those-with-prior-infection-likely-to-have-more-antibodies)
+ - RSS feed: https://www.hopkinsmedicine.org
+ - date published: 2021-11-01 21:14:18+00:00
+ - user: rumpel
+ - tags: vaccine,covid
+
+
 ## Central Bank Digital Currencies Explained
  - [https://m.youtube.com/watch?v=0u8eZcPnWeU](https://m.youtube.com/watch?v=0u8eZcPnWeU)
  - RSS feed: https://m.youtube.com
@@ -920,7 +989,7 @@
  - RSS feed: https://www.theguardian.com
  - date published: 2021-10-29 08:40:19+00:00
  - user: rumpel
- - tags: carbon emissions,netflix,youtube,climate change
+ - tags: netflix,climate change,climate drama,carbon emissions,youtube
 
 
 ## MEP's stand up for our right to freedom after imposing Digital Green Certificate to enter Parliament
@@ -1061,6 +1130,27 @@
  - user: Thomas Pain
 
 
+## You Don't Need a Library for File Walking in Go | Kablamo Engineering Blog
+ - [https://engineering.kablamo.com.au/posts/2021/quick-comparison-between-go-file-walk-implementations](https://engineering.kablamo.com.au/posts/2021/quick-comparison-between-go-file-walk-implementations)
+ - RSS feed: https://engineering.kablamo.com.au
+ - date published: 2021-10-22 17:02:27+00:00
+ - user: Thomas Pain
+
+
+## Beej's Guide to C Programming
+ - [https://beej.us/guide/bgc/html/split/goto.html](https://beej.us/guide/bgc/html/split/goto.html)
+ - RSS feed: https://beej.us
+ - date published: 2021-10-22 13:45:17+00:00
+ - user: Thomas Pain
+
+
+## Willingness to look stupid
+ - [https://danluu.com/look-stupid/](https://danluu.com/look-stupid/)
+ - RSS feed: https://danluu.com
+ - date published: 2021-10-22 09:55:36+00:00
+ - user: Thomas Pain
+
+
 ## Netflix staff protest against 'transphobic' Dave Chappelle show - BBC News
  - [https://www.bbc.co.uk/news/world-us-canada-58990325](https://www.bbc.co.uk/news/world-us-canada-58990325)
  - RSS feed: https://www.bbc.co.uk
@@ -1125,6 +1215,13 @@
  - user: None
 
 
+## mdk.fr – How APT does its fancy progress bar
+ - [https://mdk.fr/blog/how-apt-does-its-fancy-progress-bar.html](https://mdk.fr/blog/how-apt-does-its-fancy-progress-bar.html)
+ - RSS feed: https://mdk.fr
+ - date published: 2021-10-19 19:49:49+00:00
+ - user: Thomas Pain
+
+
 ## PM urged to enact ‘David’s law’ against social media abuse after Amess’s death | UK news | The Guardian
  - [https://www.theguardian.com/uk-news/2021/oct/18/pm-urged-to-enact-davids-law-against-social-media-abuse-after-amesss-death](https://www.theguardian.com/uk-news/2021/oct/18/pm-urged-to-enact-davids-law-against-social-media-abuse-after-amesss-death)
  - RSS feed: https://www.theguardian.com
@@ -1138,6 +1235,14 @@
  - date published: 2021-10-18 23:11:12+00:00
  - user: rumpel
  - tags: blackrock,woke,climate change,esg
+
+
+## The Javascript "ecosystem" is a hot mess and so is software development in general - nadh.in
+ - [https://nadh.in/blog/javascript-ecosystem-software-development-are-a-hot-mess/](https://nadh.in/blog/javascript-ecosystem-software-development-are-a-hot-mess/)
+ - RSS feed: https://nadh.in
+ - date published: 2021-10-17 10:31:15+00:00
+ - user: Thomas Pain
+ - tags: programming,javascript
 
 
 ## Canon sued for disabling scanner when printers run out of ink
@@ -1225,7 +1330,7 @@
  - RSS feed: https://icdt.ir/en/media-cognitive-warfare-and-one-world-government-social-engineering/
  - date published: 2021-10-13 13:03:47+00:00
  - user: None
- - tags: government,social media,social engineering,propaganda
+ - tags: government,social engineering,bigbrother,propaganda,social media
 
 
 ## Firefox Suggest: An Anatomy of a PR Incident
@@ -1253,6 +1358,13 @@
  - [https://www.simplethread.com/relational-databases-arent-dinosaurs-theyre-sharks/](https://www.simplethread.com/relational-databases-arent-dinosaurs-theyre-sharks/)
  - RSS feed: https://www.simplethread.com
  - date published: 2021-10-12 11:32:41.010594+00:00
+ - user: Thomas Pain
+
+
+## Code rant: The Configuration Complexity Clock
+ - [https://mikehadlow.blogspot.com/2012/05/configuration-complexity-clock.html?m=1](https://mikehadlow.blogspot.com/2012/05/configuration-complexity-clock.html?m=1)
+ - RSS feed: https://mikehadlow.blogspot.com
+ - date published: 2021-10-11 21:46:17+00:00
  - user: Thomas Pain
 
 
@@ -1543,6 +1655,14 @@
  - tags: dead internet
 
 
+## CIA officials under Trump discussed assassinating Julian Assange – report | Julian Assange | The Guardian
+ - [https://www.theguardian.com/media/2021/sep/27/senior-cia-officials-trump-discussed-assassinating-julian-assange](https://www.theguardian.com/media/2021/sep/27/senior-cia-officials-trump-discussed-assassinating-julian-assange)
+ - RSS feed: https://www.theguardian.com
+ - date published: 2021-09-27 21:26:41+00:00
+ - user: rumpel
+ - tags: wikileaks,cia,assange
+
+
 ## Kids who grew up with search engines could change STEM education forever - The Verge
  - [https://www.theverge.com/22684730/students-file-folder-directory-structure-education-gen-z](https://www.theverge.com/22684730/students-file-folder-directory-structure-education-gen-z)
  - RSS feed: https://www.theverge.com
@@ -1664,6 +1784,13 @@
  - user: Thomas Pain
 
 
+## Go'ing Insane Part One: Endless Error Handling – Pursuit Of Laziness – A blog by Jesse Duffield
+ - [https://jesseduffield.com/Gos-Shortcomings-1/](https://jesseduffield.com/Gos-Shortcomings-1/)
+ - RSS feed: https://jesseduffield.com
+ - date published: 2021-09-14 16:28:08+00:00
+ - user: Thomas Pain
+
+
 ## PHP maintains an enormous lead in server-side programming languages | Ars Technica
  - [https://arstechnica.com/gadgets/2021/09/php-maintains-an-enormous-lead-in-server-side-programming-languages/](https://arstechnica.com/gadgets/2021/09/php-maintains-an-enormous-lead-in-server-side-programming-languages/)
  - RSS feed: https://arstechnica.com
@@ -1755,6 +1882,14 @@
  - RSS feed: https://www.dolthub.com
  - date published: 2021-09-11 07:50:42.649255+00:00
  - user: Thomas Pain
+
+
+## How 9/11 led the US to forever wars, eroded rights – and insurrection | September 11 2001 | The Guardian
+ - [https://www.theguardian.com/us-news/2021/sep/10/september-11-us-reaction-forever-wars-rights-insurrection](https://www.theguardian.com/us-news/2021/sep/10/september-11-us-reaction-forever-wars-rights-insurrection)
+ - RSS feed: https://www.theguardian.com
+ - date published: 2021-09-10 21:32:03+00:00
+ - user: rumpel
+ - tags: 911,bigbrother,america
 
 
 ## The end of phone calls: why young people have silenced their ringtones | Mobile phones | The Guardian
@@ -1856,6 +1991,14 @@
  - user: Thomas Pain
 
 
+## Windows 11 Insider Preview makes it more difficult for users to default to Chrome
+ - [https://chromeunboxed.com/windows-11-insider-preview-chrome-default-difficulties](https://chromeunboxed.com/windows-11-insider-preview-chrome-default-difficulties)
+ - RSS feed: https://chromeunboxed.com
+ - date published: 2021-09-04 15:05:44+00:00
+ - user: Thomas Pain
+ - tags: dark design,windows
+
+
 ## Why can an ad break the Windows 11 desktop and taskbar?
  - [https://www.ctrl.blog/entry/windows11-empty-taskbar.html](https://www.ctrl.blog/entry/windows11-empty-taskbar.html)
  - RSS feed: https://www.ctrl.blog
@@ -1922,6 +2065,13 @@
  - tags: jan6,facebook
 
 
+## The open calendar, task and note space is a mess
+ - [https://stevenvanbael.com/open-calendar-task-space-is-a-mess](https://stevenvanbael.com/open-calendar-task-space-is-a-mess)
+ - RSS feed: https://stevenvanbael.com
+ - date published: 2021-08-31 14:54:25+00:00
+ - user: Thomas Pain
+
+
 ## Is Your Phone Recording Your Conversations? The Answer Might Surprise You.
  - [https://www.huffpost.com/entry/smartphone-devices-recording-privacy_l_5d570869e4b056fafd0bbc09](https://www.huffpost.com/entry/smartphone-devices-recording-privacy_l_5d570869e4b056fafd0bbc09)
  - RSS feed: www.huffpost.com
@@ -1976,6 +2126,13 @@
  - [https://therecord.media/eu-agency-advises-against-using-search-browsing-history-for-credit-scores/](https://therecord.media/eu-agency-advises-against-using-search-browsing-history-for-credit-scores/)
  - RSS feed: https://therecord.media
  - date published: 2021-08-29 08:40:11.499834+00:00
+ - user: Thomas Pain
+
+
+## Weird Languages
+ - [http://paulgraham.com/weird.html](http://paulgraham.com/weird.html)
+ - RSS feed: http://paulgraham.com
+ - date published: 2021-08-29 08:35:06+00:00
  - user: Thomas Pain
 
 
@@ -2045,6 +2202,13 @@
  - user: None
 
 
+## The underutilized usefulness of sync.Once | ramblings of 1lann
+ - [https://blog.chuie.io/posts/synconce/](https://blog.chuie.io/posts/synconce/)
+ - RSS feed: https://blog.chuie.io
+ - date published: 2021-08-27 21:43:53+00:00
+ - user: Thomas Pain
+
+
 ## Hacker Claims Responsibility for T-Mobile Attack - Says: "Their Security is Awful"
  - [https://www.vpnranks.com/blog/hacker-claims-responsibility-for-t-mobile-attack-says-their-security-is-awful/](https://www.vpnranks.com/blog/hacker-claims-responsibility-for-t-mobile-attack-says-their-security-is-awful/)
  - RSS feed: https://www.vpnranks.com
@@ -2105,6 +2269,13 @@
  - [https://news.samsung.com/za/samsung-supports-retailers-affected-by-looting-with-innovative-television-block-function](https://news.samsung.com/za/samsung-supports-retailers-affected-by-looting-with-innovative-television-block-function)
  - RSS feed: https://news.samsung.com
  - date published: 2021-08-25 10:18:15.155277+00:00
+ - user: Thomas Pain
+
+
+## Waypoint - The official Waymo blog: Welcoming our first riders in San Francisco
+ - [https://blog.waymo.com/2021/08/welcoming-our-first-riders-in-san.html](https://blog.waymo.com/2021/08/welcoming-our-first-riders-in-san.html)
+ - RSS feed: https://blog.waymo.com
+ - date published: 2021-08-25 10:17:28+00:00
  - user: Thomas Pain
 
 
@@ -2298,6 +2469,7 @@
  - RSS feed: https://www.inputmag.com
  - date published: 2021-08-14 14:08:30.346902+00:00
  - user: Thomas Pain
+ - tags: amazon,surveillance
 
 
 ## Handling Errors from Deferred Functions in Go | Thomas Stringer
@@ -2436,6 +2608,13 @@
  - user: Thomas Pain
 
 
+## The 5-hour CDN · Fly
+ - [https://fly.io/blog/the-5-hour-content-delivery-network/](https://fly.io/blog/the-5-hour-content-delivery-network/)
+ - RSS feed: https://fly.io
+ - date published: 2021-08-04 22:54:36+00:00
+ - user: Thomas Pain
+
+
 ## Amazon Unlawfully Confiscated Union Literature, NLRB Finds
  - [https://www.vice.com/en/article/bvz3kv/amazon-unlawfully-confiscated-union-literature-nlrb-finds](https://www.vice.com/en/article/bvz3kv/amazon-unlawfully-confiscated-union-literature-nlrb-finds)
  - RSS feed: https://www.vice.com
@@ -2528,6 +2707,14 @@
  - user: Thomas Pain
 
 
+## My tiny side project has had more impact than my decade in the software industry – Mike's corner of the web
+ - [https://mike.zwobble.org/2021/08/side-projects-vs-industry/](https://mike.zwobble.org/2021/08/side-projects-vs-industry/)
+ - RSS feed: https://mike.zwobble.org
+ - date published: 2021-08-02 10:23:10+00:00
+ - user: Thomas Pain
+ - tags: open source,monetization
+
+
 ## New in Git: switch and restore
  - [https://www.banterly.net/2021/07/31/new-in-git-switch-and-restore/](https://www.banterly.net/2021/07/31/new-in-git-switch-and-restore/)
  - RSS feed: https://www.banterly.net
@@ -2555,6 +2742,13 @@
  - date published: 2021-07-30 20:43:21+00:00
  - user: rumpel
  - tags: green knight,movies
+
+
+## Why Discord is switching from Go to Rust | by Jesse Howarth | Discord Blog
+ - [https://blog.discord.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f](https://blog.discord.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f)
+ - RSS feed: https://blog.discord.com
+ - date published: 2021-07-29 13:04:49+00:00
+ - user: Thomas Pain
 
 
 ## IPv4 pricing | Hacker News
@@ -2747,6 +2941,13 @@
  - user: Thomas Pain
 
 
+## metablog: Glue: the Dark Matter of Software
+ - [https://blog.metaobject.com/2021/06/glue-dark-matter-of-software.html](https://blog.metaobject.com/2021/06/glue-dark-matter-of-software.html)
+ - RSS feed: https://blog.metaobject.com
+ - date published: 2021-07-20 18:57:22+00:00
+ - user: Thomas Pain
+
+
 ## EU plans to make Bitcoin transfers more traceable - BBC News
  - [https://www.bbc.co.uk/news/technology-57901113](https://www.bbc.co.uk/news/technology-57901113)
  - RSS feed: https://www.bbc.co.uk
@@ -2809,6 +3010,13 @@
  - date published: 2021-07-18 21:55:29.750497+00:00
  - user: Thomas Pain
  - tags: israel,surveillance,pegasus,bigbrother,privacy
+
+
+## Inserting One Billion Rows in SQLite Under A Minute - blag
+ - [https://avi.im/blag/2021/fast-sqlite-inserts/](https://avi.im/blag/2021/fast-sqlite-inserts/)
+ - RSS feed: https://avi.im
+ - date published: 2021-07-18 21:38:57+00:00
+ - user: Thomas Pain
 
 
 ## McCloskeys plead guilty to charges after gun-toting display
@@ -2882,6 +3090,13 @@
  - user: Thomas Pain
 
 
+## Remote code execution in cdnjs of Cloudflare - RyotaK's Blog
+ - [https://blog.ryotak.me/post/cdnjs-remote-code-execution-en/](https://blog.ryotak.me/post/cdnjs-remote-code-execution-en/)
+ - RSS feed: https://blog.ryotak.me
+ - date published: 2021-07-17 08:15:08+00:00
+ - user: Thomas Pain
+
+
 ## Apple removes 'Fakespot' app from iOS App Store following Amazon request - 9to5Mac
  - [https://9to5mac.com/2021/07/16/apple-removes-fakespot-app-from-ios-app-store-following-amazon-request/](https://9to5mac.com/2021/07/16/apple-removes-fakespot-app-from-ios-app-store-following-amazon-request/)
  - RSS feed: https://9to5mac.com
@@ -2893,6 +3108,13 @@
  - [https://www.theguardian.com/lifeandstyle/2021/jul/09/experience-i-lived-in-an-airport-for-seven-months](https://www.theguardian.com/lifeandstyle/2021/jul/09/experience-i-lived-in-an-airport-for-seven-months)
  - RSS feed: https://www.theguardian.com
  - date published: 2021-07-16 22:01:08.250949+00:00
+ - user: Thomas Pain
+
+
+## Processing IOT Data with SQLite and Golang - Jeremy Morgan's Tech Blog
+ - [https://www.jeremymorgan.com/tutorials/go/how-to-iot-data-go-sqlite/](https://www.jeremymorgan.com/tutorials/go/how-to-iot-data-go-sqlite/)
+ - RSS feed: https://www.jeremymorgan.com
+ - date published: 2021-07-16 14:20:11+00:00
  - user: Thomas Pain
 
 
@@ -2992,6 +3214,13 @@
  - [https://www.reuters.com/technology/exclusive-twitter-sees-jump-govt-demands-remove-content-journalists-news-outlets-2021-07-14/](https://www.reuters.com/technology/exclusive-twitter-sees-jump-govt-demands-remove-content-journalists-news-outlets-2021-07-14/)
  - RSS feed: https://www.reuters.com
  - date published: 2021-07-15 06:26:20.268040+00:00
+ - user: Thomas Pain
+
+
+## The unreasonable effectiveness of just showing up everyday | Typesense
+ - [https://typesense.org/blog/the-unreasonable-effectiveness-of-just-showing-up-everyday/](https://typesense.org/blog/the-unreasonable-effectiveness-of-just-showing-up-everyday/)
+ - RSS feed: https://typesense.org
+ - date published: 2021-07-15 06:26:20+00:00
  - user: Thomas Pain
 
 
@@ -3233,7 +3462,7 @@
  - RSS feed: www.nfcw.com
  - date published: 2021-06-01 12:59:16+00:00
  - user: None
- - tags: digital identity,government control,digital passport
+ - tags: digital identity,government control,bigbrother,privacy,digital passport
 
 
 ## Why are people talking about Dr Anthony Fauci's emails?
@@ -3383,7 +3612,7 @@
  - RSS feed: https://www.bbc.com
  - date published: 2021-05-07 08:02:06+00:00
  - user: rumpel
- - tags: co2,climate change,pollution
+ - tags: pollution,climate science,co2,climate change
 
 
 ## Modern "Freedom" Means Being a Slave to Impulses
@@ -3452,6 +3681,14 @@
  - date published: 2021-04-21 22:05:57+00:00
  - user: rumpel
  - tags: intolerance,censorship,lgbt,trans
+
+
+## Leaked EU-Pfizer contract shows price for COVID vaccines set at 15.5 euros per dose
+ - [https://finance.yahoo.com/news/leaked-eu-pfizer-contract-shows-123021585.html](https://finance.yahoo.com/news/leaked-eu-pfizer-contract-shows-123021585.html)
+ - RSS feed: https://finance.yahoo.com
+ - date published: 2021-04-21 07:42:09+00:00
+ - user: rumpel
+ - tags: pfizer,contract,covid
 
 
 ## TERREG: Controversial EU anti-terror Internet regulation TERREG about to be adopted
@@ -3545,7 +3782,7 @@
  - RSS feed: www.liberties.eu
  - date published: 2021-03-25 13:00:34+00:00
  - user: None
- - tags: terreg,censorship
+ - tags: terreg,moderation,censorship,free speech
 
 
 ## Bill Gates Won't Stop Lying About Epstein Connections

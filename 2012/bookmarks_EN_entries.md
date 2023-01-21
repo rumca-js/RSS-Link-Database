@@ -14,6 +14,14 @@
  - tags: climate change,carbon footprint,carbon emissions
 
 
+## Decline of bees forces China’s apple farmers to pollinate by hand
+ - [https://chinadialogue.net/en/food/5193-decline-of-bees-forces-china-s-apple-farmers-to-pollinate-by-hand/](https://chinadialogue.net/en/food/5193-decline-of-bees-forces-china-s-apple-farmers-to-pollinate-by-hand/)
+ - RSS feed: https://chinadialogue.net
+ - date published: 2012-10-02 18:06:03+00:00
+ - user: rumpel
+ - tags: china,pollution,bees
+
+
 ## Giving In to the Surveillance State
  - [https://www.nytimes.com/2012/08/23/opinion/whos-watching-the-nsa-watchers.html](https://www.nytimes.com/2012/08/23/opinion/whos-watching-the-nsa-watchers.html)
  - RSS feed: www.nytimes.com

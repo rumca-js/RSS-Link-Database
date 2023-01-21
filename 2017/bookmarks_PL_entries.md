@@ -50,7 +50,7 @@
  - RSS feed: https://spidersweb.pl
  - date published: 2017-02-08 11:57:10+00:00
  - user: None
- - tags: media,government,control
+ - tags: government,control,media,bigbrother
 
 
 ## Przeczywistość: Pizzagate

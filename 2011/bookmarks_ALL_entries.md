@@ -67,5 +67,5 @@
  - RSS feed: https://www.theguardian.com
  - date published: 2011-03-17 15:28:40+00:00
  - user: None
- - tags: government,social media,fakenews,factcheck,misinformation,propaganda,disinformation
+ - tags: fakenews,government,disinformation,bigbrother,misinformation,propaganda,factcheck,social media
 

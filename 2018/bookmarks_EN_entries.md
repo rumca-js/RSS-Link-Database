@@ -113,6 +113,14 @@
  - user: None
 
 
+## Bannon falls victim to free speech storm
+ - [https://www.cnn.com/2018/09/08/uk/free-speech-bannon-universities-opinion-intl/index.html](https://www.cnn.com/2018/09/08/uk/free-speech-bannon-universities-opinion-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2018-09-08 16:15:27+00:00
+ - user: rumpel
+ - tags: censorship,free speech
+
+
 ## Jack Dorsey to Congress: 'Twitter does not use political ideology'
  - [https://www.cnbc.com/2018/09/04/jack-dorsey-to-congress-full-written-testimony-on-political-bias.html](https://www.cnbc.com/2018/09/04/jack-dorsey-to-congress-full-written-testimony-on-political-bias.html)
  - RSS feed: https://www.cnbc.com
@@ -167,6 +175,14 @@
  - user: None
 
 
+## Google's data collection is hard to escape, study claims
+ - [http://money.cnn.com/2018/08/21/technology/google-data-collection/index.html](http://money.cnn.com/2018/08/21/technology/google-data-collection/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2018-08-21 04:26:57+00:00
+ - user: rumpel
+ - tags: bigtech,privacy,surveillance,google
+
+
 ## An Introduction to Not Related! and to Luke Smith
  - [https://notrelated.xyz/audio/s01/S01E00_-_Not_Related_Introduction_and_on_Luke_Smith.mp3](https://notrelated.xyz/audio/s01/S01E00_-_Not_Related_Introduction_and_on_Luke_Smith.mp3)
  - RSS feed: https://notrelated.xyz/rss
@@ -214,6 +230,14 @@
  - tags: programming,python
 
 
+## Is your phone WATCHING you? Apps aren't secretly listening to your private conversations but some will record video of everything you do
+ - [https://www.dailymail.co.uk/sciencetech/article-5916671/Your-smartphone-NOT-listening-does-record-video-do.html](https://www.dailymail.co.uk/sciencetech/article-5916671/Your-smartphone-NOT-listening-does-record-video-do.html)
+ - RSS feed: www.dailymail.co.uk
+ - date published: 2018-07-04 12:04:50+00:00
+ - user: rumpel
+ - tags: bigtech,security,privacy
+
+
 ## How the Gorgon gas plant could wipe out a year's worth of Australia's solar emissions savings - ABC News
  - [https://www.abc.net.au/news/2018-06-21/gorgon-gas-plant-wiping-out-a-year-of-solar-emission-savings/9890386](https://www.abc.net.au/news/2018-06-21/gorgon-gas-plant-wiping-out-a-year-of-solar-emission-savings/9890386)
  - RSS feed: https://www.abc.net.au
@@ -244,6 +268,14 @@
  - date published: 2018-05-25 14:47:48+00:00
  - user: rumpel
  - tags: censorship,moderation,facebook,pepe,pepethefrog
+
+
+## Revealed: Ecuador spent millions on spy operation for Julian Assange
+ - [https://www.theguardian.com/world/2018/may/15/revealed-ecuador-spent-millions-julian-assange-spy-operation-embassy-london](https://www.theguardian.com/world/2018/may/15/revealed-ecuador-spent-millions-julian-assange-spy-operation-embassy-london)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2018-05-15 16:00:13+00:00
+ - user: rumpel
+ - tags: wikileaks,spying,assange,politics
 
 
 ## All the Rage in Sweden: Embedding Microchips Under Your Skin
@@ -340,6 +372,14 @@
  - date published: 2018-04-03 12:35:07+00:00
  - user: rumpel
  - tags: inequality,google,damore,peterson,feminism
+
+
+## Why have we given up our privacy to Facebook and other sites so willingly?
+ - [https://www.theguardian.com/uk-news/2018/mar/21/why-have-we-given-up-our-privacy-to-facebook-and-other-sites-so-willingly](https://www.theguardian.com/uk-news/2018/mar/21/why-have-we-given-up-our-privacy-to-facebook-and-other-sites-so-willingly)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2018-03-21 17:43:48+00:00
+ - user: rumpel
+ - tags: cambridge analytica,meta,privacy,tracking,facebook
 
 
 ## Recommended compiler and linker flags for GCC

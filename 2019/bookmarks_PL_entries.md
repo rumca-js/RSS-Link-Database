@@ -62,6 +62,14 @@
  - tags: greta,corporatocracy,thunberg,climate change
 
 
+## Václav Klaus o Grecie Thunberg: "To całkowite szaleństwo naszych czasów!"
+ - [http://www.strefax.info/2019/08/vaclav-klaus-o-grecie-thunberg-to.html](http://www.strefax.info/2019/08/vaclav-klaus-o-grecie-thunberg-to.html)
+ - RSS feed: http://www.strefax.info
+ - date published: 2019-08-19 18:54:07+00:00
+ - user: rumpel
+ - tags: greta,corporatocracy,thunberg,climate change
+
+
 ## MAN, I FEEL LIKE A WOMAN: Walsh absolutely wrecks entire transgender argument
  - [https://www.youtube.com/watch?v=J0a0fllObFk](https://www.youtube.com/watch?v=J0a0fllObFk)
  - RSS feed: https://www.youtube.com

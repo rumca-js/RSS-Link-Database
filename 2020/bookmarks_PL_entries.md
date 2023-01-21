@@ -165,6 +165,14 @@
  - tags: misinformation,google,conspiracy theory
 
 
+## Atak hakerów na Twittera pokazał, że... cenzuruje on użytkowników!
+ - [https://niezalezna.pl/341246-atak-hakerow-na-twittera-pokazal-ze-cenzuruje-on-uzytkownikow](https://niezalezna.pl/341246-atak-hakerow-na-twittera-pokazal-ze-cenzuruje-on-uzytkownikow)
+ - RSS feed: niezalezna.pl
+ - date published: 2020-07-17 06:53:56+00:00
+ - user: rumpel
+ - tags: twitter,censorship
+
+
 ## Norwegia priorytetowo przyjmie uchodźców LGBT+ - Noizz
  - [https://noizz.pl/lgbt/norwegia-priorytetowo-przyjmie-uchodzcow-lgbt/zzy65sy](https://noizz.pl/lgbt/norwegia-priorytetowo-przyjmie-uchodzcow-lgbt/zzy65sy)
  - RSS feed: https://noizz.pl
@@ -178,7 +186,7 @@
  - RSS feed: https://www.rp.pl
  - date published: 2020-06-26 07:32:08+00:00
  - user: None
- - tags: kentler,germany,government,paedophilia
+ - tags: government,kentler,paedophilia,germany,bigbrother
 
 
 ## Przez 30 lat Berlin udostępniał dzieci pedofilom. Nazywano to "eksperymentem Kentlera" [RAPORT]

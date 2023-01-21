@@ -1,9 +1,25 @@
+## CIA launches task force to assess impact of U.S. cables' exposure by WikiLeaks
+ - [https://www.washingtonpost.com/wp-dyn/content/article/2010/12/21/AR2010122104599.html?hpid=topnews](https://www.washingtonpost.com/wp-dyn/content/article/2010/12/21/AR2010122104599.html?hpid=topnews)
+ - RSS feed: https://www.washingtonpost.com
+ - date published: 2010-12-21 21:36:34+00:00
+ - user: rumpel
+ - tags: wikileaks,cia,assange
+
+
 ## Facebook–Cambridge Analytica data scandal
  - [https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal](https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal)
  - RSS feed: https://en.wikipedia.org
  - date published: 2010-12-11 20:40:21+00:00
  - user: None
  - tags: cambridge analytica
+
+
+## Amazon servers cut off WikiLeaks
+ - [http://edition.cnn.com/2010/US/12/01/wikileaks.amazon/index.html?eref=edition](http://edition.cnn.com/2010/US/12/01/wikileaks.amazon/index.html?eref=edition)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2010-12-02 03:49:13+00:00
+ - user: rumpel
+ - tags: wikileaks,bigtech,deplatform,amazon
 
 
 ## Media Matters Receives $1 Million From George Soros
@@ -28,6 +44,22 @@
  - date published: 2010-08-05 21:04:24+00:00
  - user: rumpel
  - tags: kids,paedophilia,lgbt
+
+
+## Afghanistan war logs: Massive leak of secret files exposes truth of occupation | Afghanistan: the war logs | The Guardian
+ - [https://www.theguardian.com/world/2010/jul/25/afghanistan-war-logs-military-leaks](https://www.theguardian.com/world/2010/jul/25/afghanistan-war-logs-military-leaks)
+ - RSS feed: https://www.theguardian.com
+ - date published: 2010-07-25 21:33:58+00:00
+ - user: rumpel
+ - tags: war,afganistan,bigbrother,leak,america
+
+
+## Google mistakenly collected WiFi data on unsecured networks - May. 14, 2010
+ - [https://money.cnn.com/2010/05/14/technology/Google_mistaken_wifi_collection/index.htm](https://money.cnn.com/2010/05/14/technology/Google_mistaken_wifi_collection/index.htm)
+ - RSS feed: https://money.cnn.com
+ - date published: 2010-05-14 08:48:45+00:00
+ - user: rumpel
+ - tags: privacy,google,streets,surveillance
 
 
 ## Singletons Considered Harmful

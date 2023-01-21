@@ -189,6 +189,14 @@
  - tags: censorship,orwell
 
 
+## Court rules privacy a 'fundamental right' in landmark case
+ - [http://www.cnn.com/2017/08/24/asia/indian-court-right-to-privacy/index.html](http://www.cnn.com/2017/08/24/asia/indian-court-right-to-privacy/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2017-08-25 02:03:01+00:00
+ - user: rumpel
+ - tags: freedom,privacy,bigbrother
+
+
 ## NSA: Egregious Cases Of US Government Employees Abusing Databases To Spy On Americans
  - [https://www.businessinsider.com/how-nsa-can-abuse-data-on-americans-2013-7?IR=T](https://www.businessinsider.com/how-nsa-can-abuse-data-on-americans-2013-7?IR=T)
  - RSS feed: www.businessinsider.com
@@ -245,11 +253,27 @@
  - tags: paedophilia,linkin park,chester bennington
 
 
+## Vault 7: new WikiLeaks dump details Android SMS snooping malware – Naked Security
+ - [https://nakedsecurity.sophos.com/2017/07/14/vault-7-new-wikileaks-dump-details-android-sms-snooping-malware/](https://nakedsecurity.sophos.com/2017/07/14/vault-7-new-wikileaks-dump-details-android-sms-snooping-malware/)
+ - RSS feed: https://nakedsecurity.sophos.com
+ - date published: 2017-07-14 21:47:09+00:00
+ - user: rumpel
+ - tags: wikileaks,cia,trojan,assange,malware,bigbrother
+
+
 ## Opozycja nie obroni sądów przed PiS. Ma niewielkie pole manewru
  - [https://www.polityka.pl/tygodnikpolityka/kraj/1712492,1,opozycja-nie-obroni-sadow-przed-pis-ma-niewielkie-pole-manewru.read](https://www.polityka.pl/tygodnikpolityka/kraj/1712492,1,opozycja-nie-obroni-sadow-przed-pis-ma-niewielkie-pole-manewru.read)
  - RSS feed: www.polityka.pl
  - date published: 2017-07-14 07:09:53+00:00
  - user: None
+
+
+## EU slaps Google with record $2.7B fine for search manipulation
+ - [http://money.cnn.com/2017/06/27/technology/business/google-eu-antitrust-fine/index.html](http://money.cnn.com/2017/06/27/technology/business/google-eu-antitrust-fine/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2017-06-27 13:24:36+00:00
+ - user: rumpel
+ - tags: manipulation,fine,google,algorithms,bigtech
 
 
 ## Google will stop scanning your Gmail messages to sell targeted ads
@@ -292,6 +316,46 @@
  - tags: china,climate change,pollution
 
 
+## What is the WikiLeaks Vault 7 release about CIA TV snooping powers and what is the Weeping Angel virus Samsung hack? | The Sun
+ - [https://www.thesun.co.uk/news/3037357/wikileaks-vault-7-samsung-tv-weeping-angel-cia/](https://www.thesun.co.uk/news/3037357/wikileaks-vault-7-samsung-tv-weeping-angel-cia/)
+ - RSS feed: https://www.thesun.co.uk
+ - date published: 2017-03-09 21:48:33+00:00
+ - user: rumpel
+ - tags: wikileaks,cia,vault7,malware
+
+
+## Security experts say 'Vault 7' leak describes common, public hacks
+ - [https://money.cnn.com/2017/03/09/technology/cia-smart-tv-wikileaks-public-hacks/](https://money.cnn.com/2017/03/09/technology/cia-smart-tv-wikileaks-public-hacks/)
+ - RSS feed: https://money.cnn.com
+ - date published: 2017-03-09 08:46:05+00:00
+ - user: rumpel
+ - tags: smarttv,privacy,iot,tracking
+
+
+## FBI: 'No such thing as absolute privacy'
+ - [http://www.cnn.com/2017/03/08/politics/james-comey-privacy-cybersecurity/index.html](http://www.cnn.com/2017/03/08/politics/james-comey-privacy-cybersecurity/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2017-03-09 07:26:07+00:00
+ - user: rumpel
+ - tags: surveillance,privacy,fbi
+
+
+## Vault 7: CIA Borrowed Code from Public Malware
+ - [https://www.bleepingcomputer.com/news/security/vault-7-cia-borrowed-code-from-public-malware/](https://www.bleepingcomputer.com/news/security/vault-7-cia-borrowed-code-from-public-malware/)
+ - RSS feed: https://www.bleepingcomputer.com
+ - date published: 2017-03-08 21:45:34+00:00
+ - user: rumpel
+ - tags: wikileaks,cia,vault7,malware
+
+
+## WikiLeaks Releases Trove of Alleged C.I.A. Hacking Documents - The New York Times
+ - [https://www.nytimes.com/2017/03/07/world/europe/wikileaks-cia-hacking.html](https://www.nytimes.com/2017/03/07/world/europe/wikileaks-cia-hacking.html)
+ - RSS feed: https://www.nytimes.com
+ - date published: 2017-03-07 21:41:31+00:00
+ - user: rumpel
+ - tags: wikileaks,cia,trojan,assange,malware,bigbrother
+
+
 ## Noam Chomsky - The 5 Filters of the Mass Media Machine
  - [https://www.youtube.com/watch?v=34LGPIXvU5M](https://www.youtube.com/watch?v=34LGPIXvU5M)
  - RSS feed: https://www.youtube.com
@@ -313,7 +377,7 @@
  - RSS feed: https://spidersweb.pl
  - date published: 2017-02-08 11:57:10+00:00
  - user: None
- - tags: media,government,control
+ - tags: government,control,media,bigbrother
 
 
 ## Przeczywistość: Pizzagate

@@ -202,6 +202,14 @@
  - tags: climate change,carbon footprint,carbon emissions
 
 
+## 'Alexa, are you invading my privacy?' – the dark side of our voice assistants
+ - [https://www.theguardian.com/technology/2019/oct/09/alexa-are-you-invading-my-privacy-the-dark-side-of-our-voice-assistants](https://www.theguardian.com/technology/2019/oct/09/alexa-are-you-invading-my-privacy-the-dark-side-of-our-voice-assistants)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2019-10-09 05:00:41+00:00
+ - user: rumpel
+ - tags: orwell,privacy,smartdevice,iot,surveillance
+
+
 ## The Cave Rescuer Suing Elon Musk Claims The Tesla CEO Fabricated Pedophilia Claims Against Him
  - [https://www.buzzfeednews.com/article/ryanmac/unsworth-reply-elon-musk-fucking-idiot](https://www.buzzfeednews.com/article/ryanmac/unsworth-reply-elon-musk-fucking-idiot)
  - RSS feed: https://www.buzzfeednews.com
@@ -216,6 +224,14 @@
  - date published: 2019-10-08 12:08:47+00:00
  - user: None
  - tags: china,blizzard,censorship
+
+
+## 'We are hurtling towards a surveillance state’: the rise of facial recognition technology
+ - [https://www.theguardian.com/technology/2019/oct/05/facial-recognition-technology-hurtling-towards-surveillance-state](https://www.theguardian.com/technology/2019/oct/05/facial-recognition-technology-hurtling-towards-surveillance-state)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2019-10-05 09:00:43+00:00
+ - user: rumpel
+ - tags: biometric,facial recognition,india,surveillance,bigbrother,corporatocracy
 
 
 ## Eyes Wide Shut and the Moral Bankruptcy of the American Elite
@@ -318,7 +334,7 @@
  - RSS feed: https://pluralist.com
  - date published: 2019-08-25 19:03:53+00:00
  - user: rumpel
- - tags: greta,corporatocracy,thunberg,climate change
+ - tags: corporatocracy,thunberg,climate change,climate drama,greta
 
 
 ## Francja pierwszym krajem w Europie, który wprowadzi system masowej inwigilacji ludzi
@@ -333,7 +349,7 @@
  - [https://www.digitalinformationworld.com/2019/08/contractors-hear-private-recordings-apple-siri.html](https://www.digitalinformationworld.com/2019/08/contractors-hear-private-recordings-apple-siri.html)
  - RSS feed: www.digitalinformationworld.com
  - date published: 2019-08-24 12:04:50+00:00
- - user: None
+ - user: rumpel
 
 
 ## Jeffrey Epstein Donations to M.I.T. Will Be Focus of University Inquiry
@@ -392,6 +408,14 @@
  - tags: black mass,satanic temple
 
 
+## Privacy campaigners warn of UK facial recognition 'epidemic'
+ - [https://www.theguardian.com/technology/2019/aug/16/privacy-campaigners-uk-facial-recognition-epidemic](https://www.theguardian.com/technology/2019/aug/16/privacy-campaigners-uk-facial-recognition-epidemic)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2019-08-16 11:49:03+00:00
+ - user: rumpel
+ - tags: privacy,biometric,facial recognition,india,surveillance,bigbrother,corporatocracy
+
+
 ## Haunting photos show Jeffrey Epstein’s ‘Pedophile Island’ in the Caribbean
  - [https://nypost.com/2019/08/15/haunting-photos-show-jeffrey-epsteins-pedophile-island-in-the-caribbean/#1](https://nypost.com/2019/08/15/haunting-photos-show-jeffrey-epsteins-pedophile-island-in-the-caribbean/#1)
  - RSS feed: https://nypost.com
@@ -431,6 +455,14 @@
  - tags: programming,powerpoint
 
 
+## Free speech and privacy on the wane across the world
+ - [https://www.theguardian.com/global-development/2019/aug/08/free-speech-and-privacy-on-the-wane-across-the-world](https://www.theguardian.com/global-development/2019/aug/08/free-speech-and-privacy-on-the-wane-across-the-world)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2019-08-08 06:00:14+00:00
+ - user: rumpel
+ - tags: privacy,censorship,surveillance,free speech
+
+
 ## MAN, I FEEL LIKE A WOMAN: Walsh absolutely wrecks entire transgender argument
  - [https://www.youtube.com/watch?v=J0a0fllObFk](https://www.youtube.com/watch?v=J0a0fllObFk)
  - RSS feed: https://www.youtube.com
@@ -445,6 +477,14 @@
  - date published: 2019-07-27 14:40:12+00:00
  - user: rumpel
  - tags: climate change,science,ben shapiro
+
+
+## Google privacy lawsuit: Tech giant to pay $13 million over Street View data collection | CNN Business
+ - [https://edition.cnn.com/2019/07/22/tech/google-street-view-privacy-lawsuit-settlement/index.html](https://edition.cnn.com/2019/07/22/tech/google-street-view-privacy-lawsuit-settlement/index.html)
+ - RSS feed: https://edition.cnn.com
+ - date published: 2019-07-25 08:49:32+00:00
+ - user: rumpel
+ - tags: google,privacy,street,surveillance
 
 
 ## Public Library Deletes Pictures Of Drag Queens Fondling Children At Story Hour
@@ -485,6 +525,14 @@
  - date published: 2019-07-12 20:30:36+00:00
  - user: rumpel
  - tags: kubrick,bilionaires,epstein,eyes wide shut
+
+
+## How online surveillance is killing private conversations
+ - [https://www.theguardian.com/world/2019/jul/11/can-we-talk-in-confidence-the-death-of-candour-in-the-age-of-surveillance](https://www.theguardian.com/world/2019/jul/11/can-we-talk-in-confidence-the-death-of-candour-in-the-age-of-surveillance)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2019-07-11 05:00:51+00:00
+ - user: rumpel
+ - tags: surveillence,bitech,privacy
 
 
 ## So Was QAnon … Right?
@@ -634,6 +682,14 @@
  - tags: meta,privacy,facebook
 
 
+## Lawyer slams 'ridiculous' case which saw teen prosecuted for Instagramming N-word rap lyrics - Liverpool Echo
+ - [https://www.liverpoolecho.co.uk/news/liverpool-news/teen-prosecuted-n-word-rap-15874476](https://www.liverpoolecho.co.uk/news/liverpool-news/teen-prosecuted-n-word-rap-15874476)
+ - RSS feed: https://www.liverpoolecho.co.uk
+ - date published: 2019-02-22 09:33:04+00:00
+ - user: rumpel
+ - tags: privacy,racism,censorship,free speech,bigbrother
+
+
 ## Sweden sees microchip implant revolution | Al Jazeera English
  - [https://www.youtube.com/watch?v=dl_gemn9a9E](https://www.youtube.com/watch?v=dl_gemn9a9E)
  - RSS feed: https://www.youtube.com
@@ -648,6 +704,14 @@
  - date published: 2019-02-20 20:54:35+00:00
  - user: None
  - tags: privacy
+
+
+## Facebook was 'willing to override' users' privacy setting to share their data
+ - [https://www.cnn.com/2019/02/17/tech/facebook-fake-news-disinformation-report/index.html](https://www.cnn.com/2019/02/17/tech/facebook-fake-news-disinformation-report/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2019-02-18 10:10:15+00:00
+ - user: rumpel
+ - tags: privacy,facebook,bigtech
 
 
 ## Sektor finansowy ogrywa demokrację, możemy się obudzić w świecie zamieszek i rewolucji
@@ -694,7 +758,7 @@
  - RSS feed: https://theintercept.com
  - date published: 2019-01-10 12:17:38+00:00
  - user: None
- - tags: iot,privacy,amazon,tracking
+ - tags: privacy,tracking,iot,amazon,bigtech
 
 
 ## Solving the Diamond Problem with Virtual Inheritance

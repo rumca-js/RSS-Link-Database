@@ -506,7 +506,7 @@
  - RSS feed: www.privateinternetaccess.com
  - date published: 2020-09-30 13:08:38+00:00
  - user: None
- - tags: government,government control,freedom
+ - tags: freedom,government,surveillance,bigbrother
 
 
 ## Louisiana man, 36, is arrested when Florida parents discover he has been living in their 15-year-old daughter's closet for more than a MONTH
@@ -546,7 +546,7 @@
  - RSS feed: https://www.oxfam.org
  - date published: 2020-09-21 07:50:21+00:00
  - user: None
- - tags: climate change,carbon footprint,carbon emissions
+ - tags: climate change,climate science,carbon footprint,climate drama,carbon emissions
 
 
 ## Gates Foundation funds Facebook fact-checkers that defend it from allegations
@@ -647,8 +647,8 @@
  - [https://www.dailymail.co.uk/news/article-8783517/Australian-government-introduces-250million-facial-recognition-access-Centrelink-benefits-dole.html](https://www.dailymail.co.uk/news/article-8783517/Australian-government-introduces-250million-facial-recognition-access-Centrelink-benefits-dole.html)
  - RSS feed: https://www.dailymail.co.uk
  - date published: 2020-08-29 20:08:11+00:00
- - user: None
- - tags: bigbrother,privacy,biometric
+ - user: rumpel
+ - tags: biometric,bigbrother,facial recognition,privacy
 
 
 ## Coronavirus sceptics, conspiracy theorists and anti-vaxxers protest in London
@@ -932,7 +932,7 @@
  - [https://niezalezna.pl/341246-atak-hakerow-na-twittera-pokazal-ze-cenzuruje-on-uzytkownikow](https://niezalezna.pl/341246-atak-hakerow-na-twittera-pokazal-ze-cenzuruje-on-uzytkownikow)
  - RSS feed: niezalezna.pl
  - date published: 2020-07-17 06:53:56+00:00
- - user: None
+ - user: rumpel
  - tags: twitter,censorship
 
 
@@ -1021,7 +1021,7 @@
  - RSS feed: https://www.rt.com
  - date published: 2020-06-29 12:14:35+00:00
  - user: None
- - tags: hypocrisy,propaganda,facebook,stophateforprofit,censorship,hate speech,free speech,freespeech
+ - tags: propaganda,censorship,facebook,hate speech,free speech,hypocrisy,stophateforprofit
 
 
 ## "Reddit will allow racist hate speech directed at ""majority"" populations and conservatives"
@@ -1053,7 +1053,7 @@
  - RSS feed: https://www.rp.pl
  - date published: 2020-06-26 07:32:08+00:00
  - user: None
- - tags: kentler,germany,government,paedophilia
+ - tags: government,kentler,paedophilia,germany,bigbrother
 
 
 ## Przez 30 lat Berlin udostępniał dzieci pedofilom. Nazywano to "eksperymentem Kentlera" [RAPORT]
@@ -1116,7 +1116,7 @@
  - RSS feed: https://hbr.org
  - date published: 2020-06-04 09:12:09+00:00
  - user: rumpel
- - tags: woke,racial
+ - tags: racism,inequality,racial,indoctrination,woke
 
 
 ## Blizzard Called Out For BLM Protest Support After Blitzchung Hong Kong Controversy
@@ -1392,7 +1392,7 @@
  - RSS feed: https://harvardpolitics.com
  - date published: 2020-01-02 14:33:49+00:00
  - user: None
- - tags: climate change,carbon footprint
+ - tags: climate science,carbon footprint,climate change
 
 
 ## 80-characters-per-line limits should be terminal, says Linux kernel chief Linus Torvalds

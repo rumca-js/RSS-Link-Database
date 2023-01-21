@@ -51,6 +51,13 @@
  - tags: covid,statistics
 
 
+## Po szczepieniach możesz mieć większą szansę na ponowne infekcje COVID
+ - [https://www.yahoo.com/lifestyle/youre-3-times-more-likely-171053710.html](https://www.yahoo.com/lifestyle/youre-3-times-more-likely-171053710.html)
+ - RSS feed: www.yahoo.com
+ - date published: 2021-12-02 07:49:45+00:00
+ - user: rumpel
+
+
 ## Jaki szyfrowany komunikator wybrać? Lista współpracy z FBI może pomóc w podjęciu decyzji
  - [https://geekweek.interia.pl/technologia/news-jaki-szyfrowany-komunikator-wybrac-lista-wspolpracy-z-fbi-mo,nId,5679869](https://geekweek.interia.pl/technologia/news-jaki-szyfrowany-komunikator-wybrac-lista-wspolpracy-z-fbi-mo,nId,5679869)
  - RSS feed: geekweek.interia.pl
@@ -154,7 +161,15 @@
  - RSS feed: https://biznes.trojmiasto.pl
  - date published: 2021-07-28 14:38:59+00:00
  - user: rumpel
- - tags: poland,climate change,atom
+ - tags: atom,climate drama,climate change,poland
+
+
+## Dopóki się nie zaszczepicie, rząd powinien wam odebrać cały smak życia
+ - [https://wyborcza.pl/7,75968,27376053,niech-szlag-trafi-wasze-biznesy.html?disableRedirects=true](https://wyborcza.pl/7,75968,27376053,niech-szlag-trafi-wasze-biznesy.html?disableRedirects=true)
+ - RSS feed: https://wyborcza.pl
+ - date published: 2021-07-27 21:53:56+00:00
+ - user: rumpel
+ - tags: vaccine,propaganda,covid
 
 
 ## Zostałem szczepionkowym rasistą. „Ludzie w pełni zaszczepieni powinni mieć specjalne przywileje”
