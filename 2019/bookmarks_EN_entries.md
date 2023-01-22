@@ -67,6 +67,7 @@
  - RSS feed: https://www.youtube.com
  - date published: 2019-11-16 20:41:30+00:00
  - user: rumpel
+ - tags: spirited away,anime,japan
 
 
 ## Jonathan Pageau: The Surprising Symbolism of 666
@@ -124,14 +125,6 @@
  - user: None
 
 
-## W Norwegii urzędnicy zabrali Polce dziecko, bo zobaczyli na stole szampana. Czy mogą teraz odpowiadać przed polskim sądem?
- - [https://bezprawnik.pl/przed-polskim-sadem-barnevernet-norwegia](https://bezprawnik.pl/przed-polskim-sadem-barnevernet-norwegia)
- - RSS feed: https://bezprawnik.pl
- - date published: 2019-10-24 08:56:59+00:00
- - user: rumpel
- - tags: norway,bigbrother
-
-
 ## Edward Snowden: How Your Cell Phone Spies on You
  - [https://www.youtube.com/watch?v=VFns39RXPrU](https://www.youtube.com/watch?v=VFns39RXPrU)
  - RSS feed: https://www.youtube.com/@JREClips
@@ -145,6 +138,7 @@
  - RSS feed: https://www.youtube.com/@DWShift
  - date published: 2019-10-22 19:55:30+00:00
  - user: None
+ - tags: smart city,privacy,surveillance
 
 
 ## Event 201, a pandemic exercise to illustrate preparedness efforts
@@ -160,6 +154,7 @@
  - RSS feed: theintercept.com
  - date published: 2019-10-10 13:37:51+00:00
  - user: None
+ - tags: privacy,nsa,surveillance,fbi,bigbrother
 
 
 ## Google pulls Hong Kong protest game for violating rules against ‘capitalizing on sensitive events’
@@ -352,11 +347,20 @@
  - tags: island,secret societies,epstein,paedophilia
 
 
+## Volkswagen and Philadelphia ads banned for gender stereotypes
+ - [https://www.cnn.com/2019/08/14/media/uk-adverts-banned-gender-stereotypes-scli-gbr-intl/index.html](https://www.cnn.com/2019/08/14/media/uk-adverts-banned-gender-stereotypes-scli-gbr-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2019-08-14 11:27:26+00:00
+ - user: rumpel
+ - tags: social engineering,woke
+
+
 ## A HIDDEN LIFE - official trailer for Franz Jägerstätter
  - [https://www.youtube.com/watch?v=qJXmdY4lVR0](https://www.youtube.com/watch?v=qJXmdY4lVR0)
  - RSS feed: https://www.youtube.com/@searchlightpictures
  - date published: 2019-08-13 10:18:41+00:00
- - user: None
+ - user: rumpel
+ - tags: example,jagerstatter
 
 
 ## Jeffrey Epstein feared cellmate, a muscle-bound ex-cop charged in murder who was moved before financier's death: report
@@ -471,6 +475,14 @@
  - tags: billionairs,epstein,elites
 
 
+## Sexist commercials now banned in UK
+ - [https://www.cnn.com/2019/06/14/media/uk-gender-stereotypes-advertising-ban-scli-gbr-intl/index.html](https://www.cnn.com/2019/06/14/media/uk-gender-stereotypes-advertising-ban-scli-gbr-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2019-06-14 11:32:55+00:00
+ - user: rumpel
+ - tags: social engineering,stereotypes,woke
+
+
 ## Report: Facebook Bans The Word “Honk”
  - [https://boundingintocomics.com/2019/06/11/report-facebook-bans-the-word-honk/](https://boundingintocomics.com/2019/06/11/report-facebook-bans-the-word-honk/)
  - RSS feed: https://boundingintocomics.com
@@ -515,6 +527,7 @@
  - RSS feed: https://www.youtube.com/watch?v=y_Z1LClnhsk
  - date published: 2019-04-17 20:53:10+00:00
  - user: None
+ - tags: feminism,gender,inequality
 
 
 ## Apple Is Not Your Friend - The Facebook Feud

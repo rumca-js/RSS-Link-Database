@@ -35,6 +35,7 @@
  - RSS feed: www.computerworld.com
  - date published: 2013-09-15 12:04:50+00:00
  - user: None
+ - tags: google,wifi,bigtech,corporatocracy,privacy
 
 
 ## MIT releases report on its actions in the Aaron Swartz case

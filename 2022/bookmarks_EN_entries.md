@@ -726,6 +726,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-12-21 19:42:59+00:00
  - user: None
+ - tags: california,paedophilia,america
 
 
 ## Operant conditioning chamber
@@ -1756,13 +1757,6 @@
  - tags: twitter,twitter files
 
 
-## Apple supplier Foxconn reportedly helped persuade China to loosen Covid rules
- - [https://www.cnbc.com/2022/12/08/apple-supplier-foxconn-helped-convince-china-to-loosen-covid-rules-report.html](https://www.cnbc.com/2022/12/08/apple-supplier-foxconn-helped-convince-china-to-loosen-covid-rules-report.html)
- - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
- - date published: 2022-12-09 00:07:24+00:00
- - user: None
-
-
 ## Australian COVID Measures Led to Lowest Elective Surgery Numbers in a Decade
  - [https://www.theepochtimes.com/australian-covid-measures-led-to-lowest-elective-surgery-numbers-in-a-decade_4908265.html](https://www.theepochtimes.com/australian-covid-measures-led-to-lowest-elective-surgery-numbers-in-a-decade_4908265.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
@@ -2340,6 +2334,7 @@
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-01 15:34:16.902708+00:00
  - user: None
+ - tags: feminism,climate change,meghan merkle
 
 
 ## Jordan Peterson: social credit systems in West "highly probable" thanks to our Covid response
@@ -2676,6 +2671,7 @@
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-26 10:30:00+00:00
  - user: rumpel
+ - tags: science,climate change,scienceisdead
 
 
 ## Site Update: Version 3.0 - Xe Iaso
@@ -2899,7 +2895,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-21 09:28:40+00:00
  - user: None
- - tags: musk,alexjones,moderation,social media
+ - tags: moderation,alexjones,deplatform,social media,musk
 
 
 ## Pentagon promotes critical race theory, gender identity 'insanity': GOP report
@@ -3983,6 +3979,7 @@
  - RSS feed: https://www.theguardian.com/international/rss
  - date published: 2022-11-02 11:31:16+00:00
  - user: None
+ - tags: china,bigbrother,clebrities,social credit
 
 
 ## Anti-Woke YouTube Competitor Rumble Tells France Au Revoir Over Censorship Demands
@@ -5903,6 +5900,14 @@
  - user: None
 
 
+## Alex Jones to pay $965M to Sandy Hook victims
+ - [https://www.bbc.co.uk/news/world-us-canada-63237092](https://www.bbc.co.uk/news/world-us-canada-63237092)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-10-12 19:58:51+00:00
+ - user: rumpel
+ - tags: misinformation,alex jones
+
+
 ## BREAKING: European Parliament MEP calls EU Covid vaccine purchases “biggest CORRUPTION SCANDAL in history”
  - [https://euroweeklynews.com/2022/10/12/breaking-european-parliaments-mislav-kolakusic-calls-eus-covid-vaccine-purchases-biggest-corruption-scandal-in-history/](https://euroweeklynews.com/2022/10/12/breaking-european-parliaments-mislav-kolakusic-calls-eus-covid-vaccine-purchases-biggest-corruption-scandal-in-history/)
  - RSS feed: https://euroweeklynews.com
@@ -7166,6 +7171,14 @@
  - user: Thomas Pain
 
 
+## A Ponzi scheme by any other name: the bursting of China’s property bubble | Chinese economy | The Guardian
+ - [https://www.theguardian.com/business/2022/sep/25/china-property-bubble-evergrande-group](https://www.theguardian.com/business/2022/sep/25/china-property-bubble-evergrande-group)
+ - RSS feed: https://www.theguardian.com
+ - date published: 2022-09-25 20:38:53+00:00
+ - user: rumpel
+ - tags: china,economy,crisis,ponzi scheme
+
+
 ## Gender activists push to bar anthropologists from identifying human remains as ‘male’ or ‘female’
  - [https://www.thecollegefix.com/gender-activists-push-to-bar-anthropologists-from-identifying-human-remains-as-male-or-female/](https://www.thecollegefix.com/gender-activists-push-to-bar-anthropologists-from-identifying-human-remains-as-male-or-female/)
  - RSS feed: https://www.thecollegefix.com/
@@ -7192,13 +7205,6 @@
  - [https://support.google.com/photos/thread/180787712/corrupted-photos?hl=en](https://support.google.com/photos/thread/180787712/corrupted-photos?hl=en)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 12:15:58+00:00
- - user: None
-
-
-## Nancy Pelosi is BOOED during surprise visit to New York City festival
- - [https://www.dailymail.co.uk/news/article-11247827/Nancy-Pelosi-BOOED-surprise-visit-New-York-City-festival.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11247827/Nancy-Pelosi-BOOED-surprise-visit-New-York-City-festival.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - RSS feed: https://www.dailymail.co.uk/news/index.rss
- - date published: 2022-09-25 12:14:54+00:00
  - user: None
 
 
@@ -7330,6 +7336,7 @@
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-23 18:34:04+00:00
  - user: None
+ - tags: google,monopoly,oligopoly,mozilla,operating system,apple
 
 
 ## TikTok rolls out comment 'dislike' button to all users
@@ -7402,13 +7409,6 @@
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58974](https://www.codeproject.com/script/News/View.aspx?nwid=58974)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-23 04:00:00+00:00
- - user: None
-
-
-## CDC Director Rochelle Walensky REFUSES to agree with Biden's claim the COVID pandemic is over
- - [https://www.dailymail.co.uk/news/article-11241535/CDC-Director-Rochelle-Walensky-REFUSES-agree-Bidens-claim-COVID-pandemic-over.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11241535/CDC-Director-Rochelle-Walensky-REFUSES-agree-Bidens-claim-COVID-pandemic-over.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - RSS feed: https://www.dailymail.co.uk/news/index.rss
- - date published: 2022-09-23 02:38:31+00:00
  - user: None
 
 
@@ -7612,6 +7612,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-21 11:33:32+00:00
  - user: rumpel
+ - tags: censorship,paypal,daily sceptic,moderation
 
 
 ## FBI Suspends Whistleblower Who Criticized Bureau’s Handling Of January 6 Investigations: Report
@@ -7633,6 +7634,7 @@
  - RSS feed: https://www.engadget.com/rss.xml
  - date published: 2022-09-21 08:49:13+00:00
  - user: None
+ - tags: privacy,google
 
 
 ## Zuckerberg's fortune falls by $71 billion so far this year as Facebook founder's net worth halves
@@ -7769,6 +7771,7 @@
  - RSS feed: https://www.youtube.com/c/TheLinuxExperiment
  - date published: 2022-09-19 07:21:33+00:00
  - user: None
+ - tags: ads,google,corporatocracy
 
 
 ## Google removed our website from search because it uses YouTube-dl
@@ -8039,6 +8042,7 @@
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-15 16:39:52+00:00
  - user: None
+ - tags: etherum,crypto,all time
 
 
 ## Is TikTok’s time running out?
@@ -9564,6 +9568,7 @@
  - RSS feed: foreignpolicy.com
  - date published: 2022-08-24 12:04:49.880646+00:00
  - user: None
+ - tags: smart city,privacy,surveillance
 
 
 ## YouTube Suspends Steven Crowder’s Show Alleging ‘Misinformation’ In Kari Lake Interview
@@ -13593,6 +13598,7 @@
  - RSS feed: https://www.youtube.com/c/PhilosophyInsights
  - date published: 2022-01-18 20:59:14+00:00
  - user: None
+ - tags: totalitarianism,woke
 
 
 ## Make debugging suck less. Keep a logbook. 📓 | Conor Lamb

@@ -424,6 +424,14 @@
  - tags: gay,lgbt,inequality,netherlands
 
 
+## Deconstructing the Lebanese central bank’s Ponzi scheme | The Economist
+ - [https://www.economist.com/finance-and-economics/2020/11/05/deconstructing-the-lebanese-central-banks-ponzi-scheme](https://www.economist.com/finance-and-economics/2020/11/05/deconstructing-the-lebanese-central-banks-ponzi-scheme)
+ - RSS feed: https://www.economist.com
+ - date published: 2020-11-05 20:45:57+00:00
+ - user: rumpel
+ - tags: lebanon,ponzi scheme
+
+
 ## Twitter censors Trump’s tweets about ‘disappearing’ ballots
  - [https://nypost.com/2020/11/04/twitter-censors-trumps-tweets-about-disappearing-ballots/](https://nypost.com/2020/11/04/twitter-censors-trumps-tweets-about-disappearing-ballots/)
  - RSS feed: nypost.com
@@ -453,6 +461,7 @@
  - RSS feed: https://www.youtube.com/@wolnoscwremonciewei
  - date published: 2020-10-15 20:09:58+00:00
  - user: None
+ - tags: facebook,privacy,corporatocracy
 
 
 ## Facebook to ban ads discouraging vaccination
@@ -499,6 +508,7 @@
  - RSS feed: https://www.youtube.com/c/dailyMOTIVATIONcontact
  - date published: 2020-10-01 21:01:54+00:00
  - user: None
+ - tags: brave new world,aldous huxley
 
 
 ## French bar owners arrested for offering free WiFi but not keeping logs

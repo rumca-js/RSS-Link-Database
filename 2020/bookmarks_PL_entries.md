@@ -75,6 +75,7 @@
  - RSS feed: https://www.youtube.com/@wolnoscwremonciewei
  - date published: 2020-10-15 20:09:58+00:00
  - user: None
+ - tags: facebook,privacy,corporatocracy
 
 
 ## Artykuł o „Margot” na Wikipedii z najwyższym poziomem ochrony. Tylko nieliczni mogą zmieniać treść

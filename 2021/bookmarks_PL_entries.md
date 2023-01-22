@@ -124,6 +124,7 @@
  - RSS feed: www.onet.pl
  - date published: 2021-09-23 06:58:09+00:00
  - user: None
+ - tags: poland,turow
 
 
 ## Z Facebooka zniknęło tysiące postów, dotyczących styczniowego ataku na Kongres USA

@@ -34,6 +34,7 @@
  - RSS feed: https://forsal.pl/.feed
  - date published: 2023-01-15 07:42:27+00:00
  - user: rumpel
+ - tags: digital dementia,smartphone
 
 
 ## Pierwsze odszkodowania za NOP-y już wypłacone. Kwota robi wrażenie

@@ -54,6 +54,14 @@
  - user: Thomas Pain
 
 
+## China Is Running Out of Water and That’s Scary for Asia
+ - [https://www.bloomberg.com/opinion/articles/2021-12-29/china-s-water-shortage-is-scary-for-india-thailand-vietnam](https://www.bloomberg.com/opinion/articles/2021-12-29/china-s-water-shortage-is-scary-for-india-thailand-vietnam)
+ - RSS feed: https://www.bloomberg.com
+ - date published: 2021-12-29 20:39:33+00:00
+ - user: rumpel
+ - tags: pollution,china,climate change
+
+
 ## What January 6 Insurrectionists Wanted — and What They Lost
  - [https://nymag.com/intelligencer/2021/12/january-6-insurrection-us-capitol-riots.html](https://nymag.com/intelligencer/2021/12/january-6-insurrection-us-capitol-riots.html)
  - RSS feed: https://nymag.com
@@ -1665,14 +1673,6 @@
  - tags: bigbrother,uk,gender
 
 
-## Tim Pool Permanently BANNED By TikTok, Likely Due To Hosting Alex Jones, Who Broke No Rules
- - [https://www.newswars.com/tim-pool-permanently-banned-by-tiktok-likely-due-to-hosting-alex-jones-who-broke-no-rules/](https://www.newswars.com/tim-pool-permanently-banned-by-tiktok-likely-due-to-hosting-alex-jones-who-broke-no-rules/)
- - RSS feed: www.newswars.com
- - date published: 2021-10-06 12:04:50+00:00
- - user: None
- - tags: censorship,tiktok
-
-
 ## More details about the October 4 outage - Facebook Engineering
  - [https://engineering.fb.com/2021/10/05/networking-traffic/outage-details/](https://engineering.fb.com/2021/10/05/networking-traffic/outage-details/)
  - RSS feed: https://engineering.fb.com
@@ -1885,6 +1885,7 @@
  - RSS feed: www.onet.pl
  - date published: 2021-09-23 06:58:09+00:00
  - user: None
+ - tags: poland,turow
 
 
 ## Fast Fashion Is Hot Garbage | Climate Town
@@ -2260,6 +2261,7 @@
  - RSS feed: www.huffpost.com
  - date published: 2021-08-31 12:04:50+00:00
  - user: None
+ - tags: security,privacy,smartphone,surveillance
 
 
 ## CPS talking to Lyft, Uber after bus drivers quit over vaccine mandate
@@ -3146,6 +3148,7 @@
  - RSS feed: hbswk.hbs.edu
  - date published: 2021-07-21 07:16:50+00:00
  - user: None
+ - tags: esg,blackrock
 
 
 ## How to Become a Master at Talking to Strangers
@@ -3216,6 +3219,7 @@
  - RSS feed: https://www.eff.org
  - date published: 2021-07-19 07:11:14.053288+00:00
  - user: Thomas Pain
+ - tags: censorship,bigtech,surveillance
 
 
 ## Revealed: leak uncovers global abuse of cyber-surveillance weapon | Surveillance | The Guardian

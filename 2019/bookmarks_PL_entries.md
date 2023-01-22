@@ -14,6 +14,14 @@
  - tags: greta,corporatocracy,thunberg,climate change
 
 
+## W Norwegii urzędnicy zabrali Polce dziecko, bo zobaczyli na stole szampana. Czy mogą teraz odpowiadać przed polskim sądem?
+ - [https://bezprawnik.pl/przed-polskim-sadem-barnevernet-norwegia](https://bezprawnik.pl/przed-polskim-sadem-barnevernet-norwegia)
+ - RSS feed: https://bezprawnik.pl
+ - date published: 2019-10-24 08:56:59+00:00
+ - user: rumpel
+ - tags: norway,bigbrother
+
+
 ## W jakim stopniu brak ojca wpływa na życie dziecka?
  - [http://www.silaojca.pl/w-jakim-stopniu-brak-ojca-wplywa-na-zycie-dziecka/](http://www.silaojca.pl/w-jakim-stopniu-brak-ojca-wplywa-na-zycie-dziecka/)
  - RSS feed: http://www.silaojca.pl

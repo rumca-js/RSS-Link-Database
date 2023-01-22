@@ -1185,13 +1185,6 @@
  - user: None
 
 
-## Sasin sprowadza WIG20 na dno
- - [https://www.bankier.pl/wiadomosc/Sasin-sprowadza-WIG20-na-dno-8411734.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Sasin-sprowadza-WIG20-na-dno-8411734.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
- - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
- - date published: 2022-09-26 08:10:00+00:00
- - user: None
-
-
 ## Niemcy rozszerzają kontrole na granicach. Boją się powtórki z 2015 roku
  - [https://wydarzenia.interia.pl/zagranica/news-niemcy-rozszerzaja-kontrole-na-granicach-boja-sie-powtorki-z,nId,6309206](https://wydarzenia.interia.pl/zagranica/news-niemcy-rozszerzaja-kontrole-na-granicach-boja-sie-powtorki-z,nId,6309206)
  - RSS feed: https://wydarzenia.interia.pl/feed
@@ -1467,6 +1460,7 @@
  - RSS feed: https://ithardware.pl/feed
  - date published: 2022-09-14 10:57:30+00:00
  - user: None
+ - tags: china
 
 
 ## Szpital otrzymał symulacje opłat za prąd. Mają wzrosnąć o 500%. Co dalej?
@@ -1509,6 +1503,7 @@
  - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
  - date published: 2022-09-13 08:16:00+00:00
  - user: None
+ - tags: china,bigbrother,media
 
 
 ## Google zmienia zasady udostępniania ocen i recenzji w Play Store
@@ -1672,6 +1667,7 @@
  - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
  - date published: 2022-09-04 17:00:00+00:00
  - user: None
+ - tags: sustainable growth,macron,wef,france
 
 
 ## Koronawirus skrócił średnią długość życia Amerykanów. To największy spadek od niemal 100 lat
@@ -1772,6 +1768,7 @@
  - RSS feed: m.wirtualnemedia.pl
  - date published: 2022-08-29 08:37:40.696185+00:00
  - user: None
+ - tags: karl may,censorship,woke
 
 
 ## André Staltz - Time Till Open Source Alternative
@@ -1829,6 +1826,7 @@
  - RSS feed: dorzeczy.pl
  - date published: 2022-08-07 14:58:22+00:00
  - user: None
+ - tags: digital money,social score
 
 
 ## Kafka i lalka

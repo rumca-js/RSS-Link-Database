@@ -1,3 +1,35 @@
+## Big Pharma Greed’s Knows No Bounds
+ - [https://www.thenation.com/article/economy/big-pharma-greed-knows-no-bounds/](https://www.thenation.com/article/economy/big-pharma-greed-knows-no-bounds/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-01-21 18:04:27+00:00
+ - user: rumpel
+ - tags: vaccine,moderna,covid
+
+
+## You don't have to engage with people on the Internet
+ - [https://xeiaso.net/blog/lesson-online-feedback](https://xeiaso.net/blog/lesson-online-feedback)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-01-21 00:42:24+00:00
+ - user: rumpel
+ - tags: social media,internet
+
+
+## WEF speaker touts tech that allows your boss to monitor your brain activity
+ - [https://www.lifesitenews.com/news/world-economic-forum-speaker-touts-technology-that-allows-your-boss-to-monitor-your-brain-activity/](https://www.lifesitenews.com/news/world-economic-forum-speaker-touts-technology-that-allows-your-boss-to-monitor-your-brain-activity/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-01-20 22:15:39+00:00
+ - user: rumpel
+ - tags: dystopia,wef
+
+
+## U.S. ‘No Fly List’ Leaks After Being Left in an Unsecured Airline Server
+ - [https://www.vice.com/en/article/93a4p5/us-no-fly-list-leaks-after-being-left-in-an-unsecured-airline-server](https://www.vice.com/en/article/93a4p5/us-no-fly-list-leaks-after-being-left-in-an-unsecured-airline-server)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-01-20 21:48:47+00:00
+ - user: rumpel
+ - tags: airline,leak,surveillance
+
+
 ## The CIA's Plot To Assassinate Julian Assange
  - [https://www.youtube.com/watch?v=KvewuoL2VcY](https://www.youtube.com/watch?v=KvewuoL2VcY)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCmFeOdJI3IXgTBDzqBLD8qg
@@ -6,11 +38,35 @@
  - tags: wikileaks,cia,assange
 
 
+## Towards a Reproducible F-Droid
+ - [https://f-droid.org/2023/01/15/towards-a-reproducible-fdroid.html](https://f-droid.org/2023/01/15/towards-a-reproducible-fdroid.html)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-01-20 18:08:50+00:00
+ - user: rumpel
+ - tags: f-droid,android
+
+
+## Ask HN: Google spam filter getting worse?
+ - [https://news.ycombinator.com/item?id=34455854](https://news.ycombinator.com/item?id=34455854)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-01-20 16:50:27+00:00
+ - user: rumpel
+ - tags: dead internet,google
+
+
 ## Meta, Twitter, Microsoft and others urge Supreme Court not to allow lawsuits against tech algorithms
  - [https://www.cnn.com/2023/01/20/tech/meta-microsoft-google-supreme-court-tech-algorithms/index.html](https://www.cnn.com/2023/01/20/tech/meta-microsoft-google-supreme-court-tech-algorithms/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2023-01-20 14:07:43+00:00
  - user: rumpel
+
+
+## 300+ models of MSI motherboards have Secure Boot turned off. Is yours affected? | Ars Technica
+ - [https://arstechnica.com/information-technology/2023/01/300-models-of-msi-motherboards-have-secure-boot-turned-off-is-yours-affected/](https://arstechnica.com/information-technology/2023/01/300-models-of-msi-motherboards-have-secure-boot-turned-off-is-yours-affected/)
+ - RSS feed: https://arstechnica.com
+ - date published: 2023-01-20 08:33:09+00:00
+ - user: rumpel
+ - tags: msi,secure boot
 
 
 ## How to destroy a certificate authority in one month
@@ -212,6 +268,14 @@
  - tags: healthcare,covid
 
 
+## NSA asks Congress to let it get on with that warrantless data harvesting, again
+ - [https://www.theregister.com/2023/01/14/in_brief_security/](https://www.theregister.com/2023/01/14/in_brief_security/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-01-15 19:06:51+00:00
+ - user: rumpel
+ - tags: nsa,surveillance,privacy
+
+
 ## NYPD can use more than 15,000 cameras to track people using facial recognition
  - [https://www.amnesty.org/en/latest/news/2021/06/scale-new-york-police-facial-recognition-revealed/](https://www.amnesty.org/en/latest/news/2021/06/scale-new-york-police-facial-recognition-revealed/)
  - RSS feed: https://hnrss.org/frontpage
@@ -248,6 +312,7 @@
  - RSS feed: https://forsal.pl/.feed
  - date published: 2023-01-15 07:42:27+00:00
  - user: rumpel
+ - tags: digital dementia,smartphone
 
 
 ## SQLite: 35% Faster Than the Filesystem
@@ -742,6 +807,14 @@
  - date published: 2023-01-10 03:56:25+00:00
  - user: rumpel
  - tags: artificial intelligence
+
+
+## Old Man Yells at Cloud: Technology has gotten objectively worse
+ - [https://www.jonandnic.com/2023/01/08/old-man-yells-at-cloud/](https://www.jonandnic.com/2023/01/08/old-man-yells-at-cloud/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-01-10 01:58:53+00:00
+ - user: rumpel
+ - tags: algorithms,dead internet,techconcerns,subscription
 
 
 ## Microsoft’s new AI can simulate anyone’s voice with 3 seconds of audio

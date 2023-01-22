@@ -801,6 +801,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-12-21 19:42:59+00:00
  - user: None
+ - tags: california,paedophilia,america
 
 
 ## Klatka Skinnera
@@ -1932,13 +1933,6 @@
  - tags: twitter,twitter files
 
 
-## Apple supplier Foxconn reportedly helped persuade China to loosen Covid rules
- - [https://www.cnbc.com/2022/12/08/apple-supplier-foxconn-helped-convince-china-to-loosen-covid-rules-report.html](https://www.cnbc.com/2022/12/08/apple-supplier-foxconn-helped-convince-china-to-loosen-covid-rules-report.html)
- - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
- - date published: 2022-12-09 00:07:24+00:00
- - user: None
-
-
 ## Australian COVID Measures Led to Lowest Elective Surgery Numbers in a Decade
  - [https://www.theepochtimes.com/australian-covid-measures-led-to-lowest-elective-surgery-numbers-in-a-decade_4908265.html](https://www.theepochtimes.com/australian-covid-measures-led-to-lowest-elective-surgery-numbers-in-a-decade_4908265.html)
  - RSS feed: https://www.theepochtimes.com/c-world/feed/
@@ -2564,6 +2558,7 @@
  - RSS feed: http://www.msn.com/rss/news.aspx
  - date published: 2022-12-01 15:34:16.902708+00:00
  - user: None
+ - tags: feminism,climate change,meghan merkle
 
 
 ## Jordan Peterson: social credit systems in West "highly probable" thanks to our Covid response
@@ -2907,6 +2902,7 @@
  - RSS feed: https://feeds.a.dj.com/rss/RSSWorldNews.xml
  - date published: 2022-11-26 10:30:00+00:00
  - user: rumpel
+ - tags: science,climate change,scienceisdead
 
 
 ## Site Update: Version 3.0 - Xe Iaso
@@ -3146,7 +3142,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-21 09:28:40+00:00
  - user: None
- - tags: musk,alexjones,moderation,social media
+ - tags: moderation,alexjones,deplatform,social media,musk
 
 
 ## Pentagon promotes critical race theory, gender identity 'insanity': GOP report
@@ -4327,6 +4323,7 @@
  - RSS feed: https://www.theguardian.com/international/rss
  - date published: 2022-11-02 11:31:16+00:00
  - user: None
+ - tags: china,bigbrother,clebrities,social credit
 
 
 ## Anti-Woke YouTube Competitor Rumble Tells France Au Revoir Over Censorship Demands
@@ -6624,6 +6621,14 @@
  - user: None
 
 
+## Alex Jones to pay $965M to Sandy Hook victims
+ - [https://www.bbc.co.uk/news/world-us-canada-63237092](https://www.bbc.co.uk/news/world-us-canada-63237092)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-10-12 19:58:51+00:00
+ - user: rumpel
+ - tags: misinformation,alex jones
+
+
 ## BREAKING: European Parliament MEP calls EU Covid vaccine purchases “biggest CORRUPTION SCANDAL in history”
  - [https://euroweeklynews.com/2022/10/12/breaking-european-parliaments-mislav-kolakusic-calls-eus-covid-vaccine-purchases-biggest-corruption-scandal-in-history/](https://euroweeklynews.com/2022/10/12/breaking-european-parliaments-mislav-kolakusic-calls-eus-covid-vaccine-purchases-biggest-corruption-scandal-in-history/)
  - RSS feed: https://euroweeklynews.com
@@ -8354,13 +8359,6 @@
  - user: None
 
 
-## Sasin sprowadza WIG20 na dno
- - [https://www.bankier.pl/wiadomosc/Sasin-sprowadza-WIG20-na-dno-8411734.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Sasin-sprowadza-WIG20-na-dno-8411734.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
- - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
- - date published: 2022-09-26 08:10:00+00:00
- - user: None
-
-
 ## Niemcy rozszerzają kontrole na granicach. Boją się powtórki z 2015 roku
  - [https://wydarzenia.interia.pl/zagranica/news-niemcy-rozszerzaja-kontrole-na-granicach-boja-sie-powtorki-z,nId,6309206](https://wydarzenia.interia.pl/zagranica/news-niemcy-rozszerzaja-kontrole-na-granicach-boja-sie-powtorki-z,nId,6309206)
  - RSS feed: https://wydarzenia.interia.pl/feed
@@ -8381,6 +8379,14 @@
  - RSS feed: https://incoherency.co.uk
  - date published: 2022-09-25 22:27:13.848228+00:00
  - user: Thomas Pain
+
+
+## A Ponzi scheme by any other name: the bursting of China’s property bubble | Chinese economy | The Guardian
+ - [https://www.theguardian.com/business/2022/sep/25/china-property-bubble-evergrande-group](https://www.theguardian.com/business/2022/sep/25/china-property-bubble-evergrande-group)
+ - RSS feed: https://www.theguardian.com
+ - date published: 2022-09-25 20:38:53+00:00
+ - user: rumpel
+ - tags: china,economy,crisis,ponzi scheme
 
 
 ## Gender activists push to bar anthropologists from identifying human remains as ‘male’ or ‘female’
@@ -8416,13 +8422,6 @@
  - [https://support.google.com/photos/thread/180787712/corrupted-photos?hl=en](https://support.google.com/photos/thread/180787712/corrupted-photos?hl=en)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-25 12:15:58+00:00
- - user: None
-
-
-## Nancy Pelosi is BOOED during surprise visit to New York City festival
- - [https://www.dailymail.co.uk/news/article-11247827/Nancy-Pelosi-BOOED-surprise-visit-New-York-City-festival.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11247827/Nancy-Pelosi-BOOED-surprise-visit-New-York-City-festival.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - RSS feed: https://www.dailymail.co.uk/news/index.rss
- - date published: 2022-09-25 12:14:54+00:00
  - user: None
 
 
@@ -8610,6 +8609,7 @@
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-09-23 18:34:04+00:00
  - user: None
+ - tags: google,monopoly,oligopoly,mozilla,operating system,apple
 
 
 ## TikTok rolls out comment 'dislike' button to all users
@@ -8689,13 +8689,6 @@
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58974](https://www.codeproject.com/script/News/View.aspx?nwid=58974)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-09-23 04:00:00+00:00
- - user: None
-
-
-## CDC Director Rochelle Walensky REFUSES to agree with Biden's claim the COVID pandemic is over
- - [https://www.dailymail.co.uk/news/article-11241535/CDC-Director-Rochelle-Walensky-REFUSES-agree-Bidens-claim-COVID-pandemic-over.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11241535/CDC-Director-Rochelle-Walensky-REFUSES-agree-Bidens-claim-COVID-pandemic-over.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - RSS feed: https://www.dailymail.co.uk/news/index.rss
- - date published: 2022-09-23 02:38:31+00:00
  - user: None
 
 
@@ -8948,6 +8941,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-21 11:33:32+00:00
  - user: rumpel
+ - tags: censorship,paypal,daily sceptic,moderation
 
 
 ## FBI Suspends Whistleblower Who Criticized Bureau’s Handling Of January 6 Investigations: Report
@@ -8977,6 +8971,7 @@
  - RSS feed: https://www.engadget.com/rss.xml
  - date published: 2022-09-21 08:49:13+00:00
  - user: None
+ - tags: privacy,google
 
 
 ## Pod presją USA tureckie banki odcinają rosyjski system płatności Mir
@@ -9148,6 +9143,7 @@
  - RSS feed: https://www.youtube.com/c/TheLinuxExperiment
  - date published: 2022-09-19 07:21:33+00:00
  - user: None
+ - tags: ads,google,corporatocracy
 
 
 ## Google removed our website from search because it uses YouTube-dl
@@ -9504,6 +9500,7 @@
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-15 16:39:52+00:00
  - user: None
+ - tags: etherum,crypto,all time
 
 
 ## Afera respiratorowa. Brak chętnych na zakup sprzętu
@@ -9693,6 +9690,7 @@
  - RSS feed: https://ithardware.pl/feed
  - date published: 2022-09-14 10:57:30+00:00
  - user: None
+ - tags: china
 
 
 ## Google loses appeal over record EU anti-trust Android fine
@@ -9872,6 +9870,7 @@
  - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
  - date published: 2022-09-13 08:16:00+00:00
  - user: None
+ - tags: china,bigbrother,media
 
 
 ## NHS cancels thousands of appointments because of Queen’s funeral | openDemocracy
@@ -10723,6 +10722,7 @@
  - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
  - date published: 2022-09-04 17:00:00+00:00
  - user: None
+ - tags: sustainable growth,macron,wef,france
 
 
 ## 22,000 smart thermostats in Colorado locked over ‘energy emergency’
@@ -11175,6 +11175,7 @@
  - RSS feed: m.wirtualnemedia.pl
  - date published: 2022-08-29 08:37:40.696185+00:00
  - user: None
+ - tags: karl may,censorship,woke
 
 
 ## It's Now Illegal for Anyone Under 21 to Buy Canned Whipped Cream in NY
@@ -11412,6 +11413,7 @@
  - RSS feed: foreignpolicy.com
  - date published: 2022-08-24 12:04:49.880646+00:00
  - user: None
+ - tags: smart city,privacy,surveillance
 
 
 ## YouTube Suspends Steven Crowder’s Show Alleging ‘Misinformation’ In Kari Lake Interview
@@ -11767,6 +11769,7 @@
  - RSS feed: dorzeczy.pl
  - date published: 2022-08-07 14:58:22+00:00
  - user: None
+ - tags: digital money,social score
 
 
 ## Cramming 'Papers, Please' Onto Phones | Development Logs by Lucas Pope
@@ -15095,6 +15098,7 @@
  - RSS feed: wyborcza.pl
  - date published: 2022-02-14 06:53:45+00:00
  - user: None
+ - tags: covid,freedom convoy,lockdown,canada
 
 
 ## Victor Davis Hanson - How COVID Lockdowns Killed Small Businesses | Highlights Ep.38
@@ -15600,6 +15604,7 @@
  - RSS feed: https://www.youtube.com/c/PhilosophyInsights
  - date published: 2022-01-18 20:59:14+00:00
  - user: None
+ - tags: totalitarianism,woke
 
 
 ## Make debugging suck less. Keep a logbook. 📓 | Conor Lamb
