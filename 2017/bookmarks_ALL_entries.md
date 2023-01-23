@@ -245,6 +245,14 @@
  - tags: kids,bigbrother,sweden
 
 
+## Joe Rogan & Ben Shapiro on the Transgender Movement, Men vs. Women in Sports
+ - [https://www.youtube.com/watch?v=IdjdNgvF42o](https://www.youtube.com/watch?v=IdjdNgvF42o)
+ - RSS feed: https://www.youtube.com
+ - date published: 2017-08-03 22:21:57+00:00
+ - user: rumpel
+ - tags: ben shapiro,joe rogan,woke,trans
+
+
 ## SUFFERING IN SILENCE Linkin Park singer Chester Bennington revealed horrific child abuse was behind his substance abuse issues
  - [https://www.thesun.co.uk/tvandshowbiz/4064403/linkin-park-singer-chester-bennington-revealed-horrific-child-abuse-was-behind-substance-abuse-issues/](https://www.thesun.co.uk/tvandshowbiz/4064403/linkin-park-singer-chester-bennington-revealed-horrific-child-abuse-was-behind-substance-abuse-issues/)
  - RSS feed: https://www.thesun.co.uk
@@ -266,6 +274,14 @@
  - RSS feed: www.polityka.pl
  - date published: 2017-07-14 07:09:53+00:00
  - user: None
+
+
+## 'NotPetya' malware attacks could warrant retaliation, says Nato researcher
+ - [https://www.theguardian.com/technology/2017/jul/03/notpetya-malware-attacks-ukraine-warrant-retaliation-nato-researcher-tomas-minarik](https://www.theguardian.com/technology/2017/jul/03/notpetya-malware-attacks-ukraine-warrant-retaliation-nato-researcher-tomas-minarik)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2017-07-03 12:34:43+00:00
+ - user: rumpel
+ - tags: virus,notpetya
 
 
 ## EU slaps Google with record $2.7B fine for search manipulation
@@ -306,6 +322,22 @@
  - date published: 2017-06-13 16:33:00+00:00
  - user: rumpel
  - tags: surveillance,nsa
+
+
+## 'Accidental hero' who halted cyber-attack is English blogger aged 22 | Cybercrime | The Guardian
+ - [https://www.theguardian.com/technology/2017/may/15/accidental-hero-who-halted-cyber-attack-is-22-year-old-english-blogger](https://www.theguardian.com/technology/2017/may/15/accidental-hero-who-halted-cyber-attack-is-22-year-old-english-blogger)
+ - RSS feed: https://www.theguardian.com
+ - date published: 2017-05-15 21:54:58+00:00
+ - user: rumpel
+ - tags: virus,wannacry
+
+
+## The dirty tricks that demonise George Soros | Nick Cohen
+ - [https://www.theguardian.com/commentisfree/2017/apr/15/dirty-tricks-demonise-george-soros](https://www.theguardian.com/commentisfree/2017/apr/15/dirty-tricks-demonise-george-soros)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2017-04-15 23:05:15+00:00
+ - user: rumpel
+ - tags: george soros
 
 
 ## China has fished itself out of its own waters, so Chinese fishermen are now sticking their rods in other nations’ seas

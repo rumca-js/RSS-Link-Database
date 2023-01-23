@@ -44,6 +44,14 @@
  - user: None
 
 
+## Facebook reportedly discredited critics by linking them to George Soros
+ - [https://www.theguardian.com/technology/2018/nov/14/facebook-george-soros-pr-firm-discredit-critics-crisis](https://www.theguardian.com/technology/2018/nov/14/facebook-george-soros-pr-firm-discredit-critics-crisis)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2018-11-15 03:25:19+00:00
+ - user: rumpel
+ - tags: george soros,facebook,propaganda,misinformation
+
+
 ## 'City of surveillance': privacy expert quits Toronto's smart-city project
  - [https://www.theguardian.com/world/2018/oct/23/toronto-smart-city-surveillance-ann-cavoukian-resigns-privacy](https://www.theguardian.com/world/2018/oct/23/toronto-smart-city-surveillance-ann-cavoukian-resigns-privacy)
  - RSS feed: www.theguardian.com
@@ -428,6 +436,14 @@
  - date published: 2018-02-28 15:50:37+00:00
  - user: rumpel
  - tags: elon musk,elites,billionaires
+
+
+## White House blasts Russia for NotPetya cyberattack
+ - [https://www.cnn.com/2018/02/15/politics/white-house-russia-notpetya/index.html](https://www.cnn.com/2018/02/15/politics/white-house-russia-notpetya/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2018-02-15 22:28:54+00:00
+ - user: rumpel
+ - tags: virus,notpetya
 
 
 ## Skygofree: Powerful Android spyware with advanced surveillance tools

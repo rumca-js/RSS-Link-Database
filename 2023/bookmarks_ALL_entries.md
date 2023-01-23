@@ -1,9 +1,25 @@
+## AI is in danger of being swallowed up by copyright law
+ - [https://heathermeeker.com/2023/01/19/is-copyright-eating-ai/](https://heathermeeker.com/2023/01/19/is-copyright-eating-ai/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-01-21 19:18:01+00:00
+ - user: rumpel
+ - tags: artificial intelligence
+
+
 ## Big Pharma Greed’s Knows No Bounds
  - [https://www.thenation.com/article/economy/big-pharma-greed-knows-no-bounds/](https://www.thenation.com/article/economy/big-pharma-greed-knows-no-bounds/)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2023-01-21 18:04:27+00:00
  - user: rumpel
  - tags: vaccine,moderna,covid
+
+
+## Smutny film o Armenii. Co doprowadziło ją do upadku?
+ - [https://m.youtube.com/watch?v=SljlG-2d7G0](https://m.youtube.com/watch?v=SljlG-2d7G0)
+ - RSS feed: https://m.youtube.com
+ - date published: 2023-01-21 11:41:09+00:00
+ - user: rumpel
+ - tags: crysis,armenia
 
 
 ## You don't have to engage with people on the Internet
@@ -163,6 +179,14 @@
  - date published: 2023-01-17 21:08:35+00:00
  - user: rumpel
  - tags: freedom,climate drama,climate change,scotland
+
+
+## George Soros tied to at least 54 influential media figures through groups funded by liberal billionaire: study
+ - [https://www.foxnews.com/media/george-soros-tied-54-influential-media-figures-through-groups-funded-liberal-billionaire-study](https://www.foxnews.com/media/george-soros-tied-54-influential-media-figures-through-groups-funded-liberal-billionaire-study)
+ - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
+ - date published: 2023-01-17 20:30:34+00:00
+ - user: rumpel
+ - tags: george soros
 
 
 ## Blocking Scotland’s gender bill is no anti-woke crusade. But it’s not a democratic outrage either | Martin Kettle
@@ -521,6 +545,14 @@
  - date published: 2023-01-13 09:13:42+00:00
  - user: rumpel
  - tags: pfizer,vaccine,covid
+
+
+## Joe Rogan: George Soros Is An Evil Villain From a Batman Movie!! Pushing EXTREME Far LEFT Agenda!
+ - [https://www.youtube.com/watch?v=UIoL031dWNw](https://www.youtube.com/watch?v=UIoL031dWNw)
+ - RSS feed: https://www.youtube.com
+ - date published: 2023-01-12 22:10:43+00:00
+ - user: rumpel
+ - tags: george soros,billionaires,elites
 
 
 ## Ursula von der Leyen ma być przesłuchiwana w PE. Chodzi o szczepionki

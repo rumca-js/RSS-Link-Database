@@ -30,6 +30,14 @@
  - tags: chomsky,social media,corporatocracy,propaganda,all time
 
 
+## The Website Obesity Crisis
+ - [https://idlewords.com/talks/website_obesity.htm](https://idlewords.com/talks/website_obesity.htm)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2015-10-09 15:10:49+00:00
+ - user: rumpel
+ - tags: internet,webdev
+
+
 ## Why is Ukraine the West's Fault? Featuring John Mearsheimer
  - [https://www.youtube.com/watch?v=JrMiSQAGOS4&t=2628s](https://www.youtube.com/watch?v=JrMiSQAGOS4&t=2628s)
  - RSS feed: https://www.youtube.com

@@ -680,6 +680,7 @@
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-21 22:10:48+00:00
  - user: rumpel
+ - tags: george soros
 
 
 ## BlackRock Chairman: “We’re In A New World Order”
@@ -789,6 +790,7 @@
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-12-21 07:00:07+00:00
  - user: rumpel
+ - tags: george soros
 
 
 ## Twitter secretly boosted US military propaganda: Investigation
@@ -1371,6 +1373,14 @@
  - date published: 2022-12-14 12:35:22.164363+00:00
  - user: None
  - tags: social media,hate speech,meta,facebook
+
+
+## '1984,' George Orwell's novel of repression, tops Russian bestseller lists
+ - [https://www.cnn.com/style/article/orwell-1984-russian-bestseller-scli-intl/index.html](https://www.cnn.com/style/article/orwell-1984-russian-bestseller-scli-intl/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-12-14 12:19:21+00:00
+ - user: rumpel
+ - tags: war,russia,orwell
 
 
 ## Produktywni ludzie nie sprawdzają ciągle smartfona. Oto co robią zamiast tego

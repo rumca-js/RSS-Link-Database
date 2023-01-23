@@ -475,6 +475,14 @@
  - tags: billionairs,epstein,elites
 
 
+## CBC Accused of Sexualizing Children After Promoting ‘Drag Kids’ Documentary – Summit News
+ - [https://summit.news/2019/07/05/cbc-accused-of-sexualizing-children-after-promoting-drag-kids-documentary/](https://summit.news/2019/07/05/cbc-accused-of-sexualizing-children-after-promoting-drag-kids-documentary/)
+ - RSS feed: https://summit.news
+ - date published: 2019-07-05 08:18:45+00:00
+ - user: rumpel
+ - tags: sexualization,children
+
+
 ## Sexist commercials now banned in UK
  - [https://www.cnn.com/2019/06/14/media/uk-gender-stereotypes-advertising-ban-scli-gbr-intl/index.html](https://www.cnn.com/2019/06/14/media/uk-gender-stereotypes-advertising-ban-scli-gbr-intl/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss

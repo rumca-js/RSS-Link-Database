@@ -3350,6 +3350,14 @@
  - user: None
 
 
+## What Started the Cultural Fixation on Gender?
+ - [https://www.youtube.com/watch?v=OHE442ISkUU](https://www.youtube.com/watch?v=OHE442ISkUU)
+ - RSS feed: https://www.youtube.com
+ - date published: 2021-06-25 22:14:30+00:00
+ - user: rumpel
+ - tags: joe rogan,virtue signalling,woke,white privilage,gender
+
+
 ## Is Jesus Historical? What Do The Romans Say About Him?
  - [https://www.youtube.com/watch?v=A41Tm5FDKns](https://www.youtube.com/watch?v=A41Tm5FDKns)
  - RSS feed: https://www.youtube.com
