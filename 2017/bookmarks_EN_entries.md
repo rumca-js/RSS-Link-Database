@@ -269,6 +269,14 @@
  - tags: police,nogo,sweden
 
 
+## WannaCry ransomware attack 'linked to North Korea'
+ - [https://www.theguardian.com/technology/2017/jun/16/wannacry-ransomware-attack-linked-north-korea-lazarus-group](https://www.theguardian.com/technology/2017/jun/16/wannacry-ransomware-attack-linked-north-korea-lazarus-group)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2017-06-16 13:24:45+00:00
+ - user: rumpel
+ - tags: virus,wannacry
+
+
 ## Intel Chief Says He Cannot Reveal How Many Americans the NSA Spied On Because He Cannot Count Them All
  - [https://gizmodo.com/intel-chief-says-he-cannot-reveal-how-many-americans-th-1796058363](https://gizmodo.com/intel-chief-says-he-cannot-reveal-how-many-americans-th-1796058363)
  - RSS feed: https://gizmodo.com/rss
@@ -281,6 +289,14 @@
  - [https://www.theguardian.com/technology/2017/may/15/accidental-hero-who-halted-cyber-attack-is-22-year-old-english-blogger](https://www.theguardian.com/technology/2017/may/15/accidental-hero-who-halted-cyber-attack-is-22-year-old-english-blogger)
  - RSS feed: https://www.theguardian.com
  - date published: 2017-05-15 21:54:58+00:00
+ - user: rumpel
+ - tags: virus,wannacry
+
+
+## Ransomware 'WannaCry' attack explained
+ - [http://www.cnn.com/videos/cnnmoney/2017/05/13/ransomware-wannacry-attack-explained.cnn](http://www.cnn.com/videos/cnnmoney/2017/05/13/ransomware-wannacry-attack-explained.cnn)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2017-05-13 14:33:58+00:00
  - user: rumpel
  - tags: virus,wannacry
 

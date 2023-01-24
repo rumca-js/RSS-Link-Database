@@ -1,3 +1,11 @@
+## de🔸digger find public files in Google Drive
+ - [https://www.dedigger.com/](https://www.dedigger.com/)
+ - RSS feed: https://www.dedigger.com
+ - date published: 2023-01-23 14:20:43+00:00
+ - user: rumpel
+ - tags: google,noprivacy
+
+
 ## AI is in danger of being swallowed up by copyright law
  - [https://heathermeeker.com/2023/01/19/is-copyright-eating-ai/](https://heathermeeker.com/2023/01/19/is-copyright-eating-ai/)
  - RSS feed: https://hnrss.org/frontpage
@@ -11,7 +19,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2023-01-21 18:04:27+00:00
  - user: rumpel
- - tags: vaccine,moderna,covid
+ - tags: corporatocracy,covid,moderna,vaccine,profit,bigpfarma
 
 
 ## You don't have to engage with people on the Internet
@@ -52,6 +60,14 @@
  - date published: 2023-01-20 18:08:50+00:00
  - user: rumpel
  - tags: f-droid,android
+
+
+## The Facebook Files: How The CDC Colluded With Meta To Suppress ‘Misinformation’
+ - [https://www.dailywire.com/news/the-facebook-files-how-the-cdc-colluded-with-meta-to-suppress-misinformation](https://www.dailywire.com/news/the-facebook-files-how-the-cdc-colluded-with-meta-to-suppress-misinformation)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-01-20 18:05:35+00:00
+ - user: rumpel
+ - tags: facebook,censorship,misinformation,covid
 
 
 ## Ask HN: Google spam filter getting worse?
@@ -179,6 +195,14 @@
  - date published: 2023-01-17 20:30:34+00:00
  - user: rumpel
  - tags: george soros
+
+
+## Transgender woman 'raped two females with HER penis' | The Scottish Sun
+ - [https://www.thescottishsun.co.uk/news/10077552/transgender-woman-rape/](https://www.thescottishsun.co.uk/news/10077552/transgender-woman-rape/)
+ - RSS feed: https://www.thescottishsun.co.uk
+ - date published: 2023-01-17 16:32:36+00:00
+ - user: rumpel
+ - tags: gender,woke,trans
 
 
 ## Blocking Scotland’s gender bill is no anti-woke crusade. But it’s not a democratic outrage either | Martin Kettle

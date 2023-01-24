@@ -1046,6 +1046,14 @@
  - tags: all time,dead internet,youtube
 
 
+## UK police deny responsibility for poster urging parents to report kids for using Kali Linux | ZDNET
+ - [https://www.zdnet.com/article/uk-police-distance-themselves-from-poster-warning-parents-to-report-kids-for-using-kali-linux/](https://www.zdnet.com/article/uk-police-distance-themselves-from-poster-warning-parents-to-report-kids-for-using-kali-linux/)
+ - RSS feed: https://www.zdnet.com
+ - date published: 2020-02-14 21:03:32+00:00
+ - user: rumpel
+ - tags: linux,misinformation
+
+
 ## Facebook, Amazon, Google and more met with WHO to figure out how to stop coronavirus misinformation
  - [https://www.cnbc.com/2020/02/14/facebook-google-amazon-met-with-who-to-talk-coronavirus-misinformation.html](https://www.cnbc.com/2020/02/14/facebook-google-amazon-met-with-who-to-talk-coronavirus-misinformation.html)
  - RSS feed: https://www.cnbc.com

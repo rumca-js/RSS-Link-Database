@@ -286,6 +286,14 @@
  - tags: censorship,moderation,facebook,pepe,pepethefrog
 
 
+## Jordan Peterson calmly dismantles feminism infront of two feminists
+ - [https://www.youtube.com/watch?v=Ddzf9Mm4hdY](https://www.youtube.com/watch?v=Ddzf9Mm4hdY)
+ - RSS feed: https://www.youtube.com
+ - date published: 2018-05-17 16:37:30+00:00
+ - user: rumpel
+ - tags: feminism,peterson
+
+
 ## Revealed: Ecuador spent millions on spy operation for Julian Assange
  - [https://www.theguardian.com/world/2018/may/15/revealed-ecuador-spent-millions-julian-assange-spy-operation-embassy-london](https://www.theguardian.com/world/2018/may/15/revealed-ecuador-spent-millions-julian-assange-spy-operation-embassy-london)
  - RSS feed: https://www.theguardian.com/rss
@@ -452,6 +460,14 @@
  - date published: 2018-01-18 06:47:39+00:00
  - user: None
  - tags: privacy,skygofree,google,surveillence,android
+
+
+## Jordan Peterson debate on the gender pay gap, campus protests and postmodernism
+ - [https://www.youtube.com/watch?v=aMcjxSThD54](https://www.youtube.com/watch?v=aMcjxSThD54)
+ - RSS feed: https://www.youtube.com
+ - date published: 2018-01-16 16:34:58+00:00
+ - user: rumpel
+ - tags: feminism,inequality,peterson,cathy newman
 
 
 ## Prometheus Script Reveals TRUTH about Engineers, Black Goo and Deacon

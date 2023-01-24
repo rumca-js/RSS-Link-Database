@@ -1,3 +1,11 @@
+## "Nie szczep się". Lekarze zniechęcający do szczepień mogą ponieść karę za swoją postawę
+ - [https://www.bankier.pl/wiadomosc/Nie-szczep-sie-Lekarze-zniechecajacy-do-szczepien-moga-poniesc-kare-za-swoja-postawe-8476698.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Nie-szczep-sie-Lekarze-zniechecajacy-do-szczepien-moga-poniesc-kare-za-swoja-postawe-8476698.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2023-01-23 12:40:00+00:00
+ - user: rumpel
+ - tags: censorship,moderation,covid,vaccine
+
+
 ## Smutny film o Armenii. Co doprowadziło ją do upadku?
  - [https://m.youtube.com/watch?v=SljlG-2d7G0](https://m.youtube.com/watch?v=SljlG-2d7G0)
  - RSS feed: https://m.youtube.com

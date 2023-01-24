@@ -30,6 +30,14 @@
  - tags: citizenfour,snowden,surveillance,privacy,bigbrother
 
 
+## The Internet Slowdown protest for net neutrality needs to target regulators
+ - [http://www.theguardian.com/commentisfree/2014/sep/10/internet-slowdown-protest-net-neutrality-fcc-regulators](http://www.theguardian.com/commentisfree/2014/sep/10/internet-slowdown-protest-net-neutrality-fcc-regulators)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2014-09-10 11:50:59+00:00
+ - user: rumpel
+ - tags: net neutrality,power,politics,bigtech
+
+
 ## 2030: Privacy's Dead. What happens next?
  - [https://www.youtube.com/watch?v=_kBlH-DQsEg](https://www.youtube.com/watch?v=_kBlH-DQsEg)
  - RSS feed: https://www.youtube.com/@TomScottGo

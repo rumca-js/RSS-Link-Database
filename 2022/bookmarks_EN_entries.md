@@ -1367,6 +1367,14 @@
  - tags: censorship,privacy,china
 
 
+## “Pure and deadly greed”: Lawmakers slam Pfizer’s 400% price hike on COVID shots
+ - [https://arstechnica.com/?p=1904335](https://arstechnica.com/?p=1904335)
+ - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
+ - date published: 2022-12-14 13:57:38+00:00
+ - user: rumpel
+ - tags: vaccine,covid
+
+
 ## Meta Accused in Lawsuit of Amplifying Hate Speech in Africa
  - [http://www.msn.com/en-us/news/world/meta-accused-in-lawsuit-of-amplifying-hate-speech-in-africa/ar-AA15fjbi?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/meta-accused-in-lawsuit-of-amplifying-hate-speech-in-africa/ar-AA15fjbi?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
@@ -12851,14 +12859,6 @@
  - RSS feed: https://arstechnica.com
  - date published: 2022-03-05 09:11:10.908710+00:00
  - user: Thomas Pain
-
-
-## Texas Parents of Transgender Teen Win Legal Victory - WSJ
- - [https://www.wsj.com/articles/texas-parents-of-transgender-teen-win-legal-victory-11646270616](https://www.wsj.com/articles/texas-parents-of-transgender-teen-win-legal-victory-11646270616)
- - RSS feed: https://www.wsj.com
- - date published: 2022-03-04 21:02:29.658400+00:00
- - user: Thomas Pain
- - tags: trans,gender,texas
 
 
 ## using www-authenticate for user authentication

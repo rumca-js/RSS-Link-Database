@@ -3626,6 +3626,14 @@
  - tags: pollution,climate science,co2,climate change
 
 
+## In shock move, US backs waiving patents on COVID vaccines
+ - [https://www.nature.com/articles/d41586-021-01224-3](https://www.nature.com/articles/d41586-021-01224-3)
+ - RSS feed: https://www.nature.com
+ - date published: 2021-05-06 21:15:02+00:00
+ - user: rumpel
+ - tags: vaccine,covid
+
+
 ## Modern "Freedom" Means Being a Slave to Impulses
  - [https://lukesmith.xyz/articles/modern-freedom-means-being-a-slave-to-impulses/](https://lukesmith.xyz/articles/modern-freedom-means-being-a-slave-to-impulses/)
  - RSS feed: https://lukesmith.xyz/rss.xml
