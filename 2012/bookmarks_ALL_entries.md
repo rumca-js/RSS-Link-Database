@@ -22,6 +22,14 @@
  - tags: china,pollution,bees
 
 
+## Factcheck.org -- A Fraudulent "Fact Check" Site Funded By Biased Political Group
+ - [https://freerepublic.com/focus/bloggers/2923825/posts](https://freerepublic.com/focus/bloggers/2923825/posts)
+ - RSS feed: https://freerepublic.com
+ - date published: 2012-08-27 12:08:35+00:00
+ - user: rumpel
+ - tags: psyop,social media,social engineering,factcheck,annenberg
+
+
 ## Giving In to the Surveillance State
  - [https://www.nytimes.com/2012/08/23/opinion/whos-watching-the-nsa-watchers.html](https://www.nytimes.com/2012/08/23/opinion/whos-watching-the-nsa-watchers.html)
  - RSS feed: www.nytimes.com

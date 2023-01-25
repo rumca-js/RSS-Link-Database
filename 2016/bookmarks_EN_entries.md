@@ -5,6 +5,14 @@
  - user: None
 
 
+## How Google's search algorithm spreads false information with a rightwing bias | Google | The Guardian
+ - [https://www.theguardian.com/technology/2016/dec/16/google-autocomplete-rightwing-bias-algorithm-political-propaganda](https://www.theguardian.com/technology/2016/dec/16/google-autocomplete-rightwing-bias-algorithm-political-propaganda)
+ - RSS feed: https://www.theguardian.com
+ - date published: 2016-12-16 14:31:58+00:00
+ - user: rumpel
+ - tags: algorithms,social engineering,psyop,google search
+
+
 ## Clinton mega donor George Soros leads line-up of liberal billionaires who are funding Facebook's fake news fact checker
  - [https://www.dailymail.co.uk/news/article-4041910/Clinton-mega-donor-George-Soros-leads-line-liberal-billionaires-funding-Facebook-s-fake-news-fact-checker.html](https://www.dailymail.co.uk/news/article-4041910/Clinton-mega-donor-George-Soros-leads-line-liberal-billionaires-funding-Facebook-s-fake-news-fact-checker.html)
  - RSS feed: https://www.dailymail.co.uk

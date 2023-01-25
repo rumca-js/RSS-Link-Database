@@ -233,6 +233,14 @@
  - tags: feminism,discrimination,hypocrisy
 
 
+## Car Tires Are a Major Pollution Problem - The Atlantic
+ - [https://www.theatlantic.com/science/archive/2020/11/car-tires-pollution-microplastic/617216/](https://www.theatlantic.com/science/archive/2020/11/car-tires-pollution-microplastic/617216/)
+ - RSS feed: https://www.theatlantic.com
+ - date published: 2020-11-29 11:27:42+00:00
+ - user: rumpel
+ - tags: cars,climate change,pollution
+
+
 ## Star-studded Time’s Up charities spent big on salaries, little on helping victims
  - [https://nypost.com/2020/11/28/star-studded-times-up-charities-spent-big-on-salaries-not-victims/](https://nypost.com/2020/11/28/star-studded-times-up-charities-spent-big-on-salaries-not-victims/)
  - RSS feed: https://nypost.com
@@ -357,7 +365,7 @@
  - RSS feed: https://www.economist.com
  - date published: 2020-11-05 20:45:57+00:00
  - user: rumpel
- - tags: lebanon,ponzi scheme
+ - tags: crisis,lebanon,ponzi scheme
 
 
 ## Twitter censors Trump’s tweets about ‘disappearing’ ballots
@@ -492,6 +500,14 @@
  - date published: 2020-09-10 08:25:33+00:00
  - user: rumpel
  - tags: woke,cuties,netflix,kids,sexualization
+
+
+## Oscars' woke quota will backfire on Hollywood spectacularly
+ - [https://nypost.com/2020/09/09/oscars-woke-quota-will-backfire-on-hollywood-spectacularly/](https://nypost.com/2020/09/09/oscars-woke-quota-will-backfire-on-hollywood-spectacularly/)
+ - RSS feed: https://nypost.com
+ - date published: 2020-09-09 14:51:17+00:00
+ - user: rumpel
+ - tags: woke,hollywood,oscars
 
 
 ## Rak jest groźniejszy niż koronawirus!

@@ -117,6 +117,13 @@
  - tags: chip,sweden
 
 
+## Sektor finansowy ogrywa demokrację, możemy się obudzić w świecie zamieszek i rewolucji
+ - [https://next.gazeta.pl/next/7,151003,24456145,sektor-finansowy-ogrywa-demokracje-mozemy-sie-obudzic-w-swiecie.html](https://next.gazeta.pl/next/7,151003,24456145,sektor-finansowy-ogrywa-demokracje-mozemy-sie-obudzic-w-swiecie.html)
+ - RSS feed: next.gazeta.pl
+ - date published: 2019-02-15 07:12:55+00:00
+ - user: None
+
+
 ## Zabiją nas wszystkich
  - [https://www.smyku.pl/texts/zabija-nas-wszystkich.html](https://www.smyku.pl/texts/zabija-nas-wszystkich.html)
  - RSS feed: www.smyku.pl

@@ -272,13 +272,6 @@
  - user: rumpel
 
 
-## The BBC spent more than £7MILLION on new logos: Cost of 'modern' rebranding is revealed
- - [https://www.dailymail.co.uk/news/article-11576223/The-BBC-spent-7MILLION-new-logos-Cost-modern-rebranding-revealed.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11576223/The-BBC-spent-7MILLION-new-logos-Cost-modern-rebranding-revealed.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - RSS feed: https://www.dailymail.co.uk/news/index.rss
- - date published: 2022-12-27 10:51:38+00:00
- - user: rumpel
-
-
 ## GOP’s `anti-woke' crusade splits corporate America
  - [http://www.msn.com/en-us/news/politics/gop-s-anti-woke-crusade-splits-corporate-america/ar-AA15Hgzs?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/gop-s-anti-woke-crusade-splits-corporate-america/ar-AA15Hgzs?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
@@ -369,6 +362,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-25 21:38:10+00:00
  - user: rumpel
+ - tags: free speech
 
 
 ## Big Tech Is Eliminating Human and Civil Rights by Proxy: Security Expert
@@ -495,6 +489,7 @@
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-12-23 19:57:15+00:00
  - user: rumpel
+ - tags: surveillance,china,tiktok
 
 
 ## Dr. Robert Malone Tells Ben Shapiro COVID Vaccines Are Unsafe For All Age Groups
@@ -673,6 +668,7 @@
  - RSS feed: http://www.pcgamer.com/rss
  - date published: 2022-12-22 03:11:19+00:00
  - user: None
+ - tags: raspberry,hardware
 
 
 ## George Soros Funding Criminal Justice Reform Plants In Legacy Media
@@ -696,7 +692,7 @@
  - RSS feed: https://en.wikipedia.org
  - date published: 2022-12-21 20:14:16+00:00
  - user: None
- - tags: social media,chomsky,propaganda,all time
+ - tags: all time,chomsky,manufacturing consent,social media,propaganda
 
 
 ## Milgram experiment
@@ -1640,6 +1636,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-12-11 16:10:27+00:00
  - user: None
+ - tags: covid,lockdowns
 
 
 ## Twitter Files reveal Trump ban came after Michelle Obama, others pressured the company
@@ -2015,7 +2012,7 @@
  - RSS feed: https://www.foxnews.com
  - date published: 2022-12-06 13:53:09+00:00
  - user: rumpel
- - tags: k george soros,billionaires,elites,media,soros
+ - tags: billionaires,elites,george soros,media
 
 
 ## Gmail creator predicts total disruption for Google as chatbot ChatGPT challenges tech giant monopoly
@@ -2107,6 +2104,7 @@
  - RSS feed: https://reclaimthenet.org/feed/
  - date published: 2022-12-04 19:46:29+00:00
  - user: None
+ - tags: babylonbee,censorship,twitter
 
 
 ## Apple CEO Tim Cook is questioned after company limited popular protest tool in China
@@ -2476,7 +2474,7 @@
  - RSS feed: https://www.aap.com.au
  - date published: 2022-11-29 14:25:40+00:00
  - user: None
- - tags: misinformation,protest,censorship,brazilia
+ - tags: misinformation,protest,crisis,brazilia,censorship
 
 
 ## Sony steps into the Metaverse with the 'Mocopi' motion tracking system
@@ -2713,6 +2711,14 @@
  - date published: 2022-11-25 18:02:35+00:00
  - user: None
  - tags: google search,internet,dead internet
+
+
+## Why Google Search Has Become So Bad
+ - [https://www.youtube.com/watch?v=48AOOynnmqU](https://www.youtube.com/watch?v=48AOOynnmqU)
+ - RSS feed: https://www.youtube.com
+ - date published: 2022-11-25 14:39:54+00:00
+ - user: rumpel
+ - tags: algorithms,google search
 
 
 ## "Tantura" Exposes the Lie at the Heart of Israel's Founding Myth
@@ -3036,20 +3042,6 @@
  - tags: psyop,bigbrother,games,propaganda
 
 
-## End of an Era: Facebook Takes Sexuality, Religion, Address, and Politics Off of Your Profile
- - [https://gizmodo.com/facebook-cuts-interested-in-religion-address-politics-1849796195](https://gizmodo.com/facebook-cuts-interested-in-religion-address-politics-1849796195)
- - RSS feed: https://gizmodo.com/rss
- - date published: 2022-11-17 17:23:39+00:00
- - user: None
-
-
-## The Metaverse Is NOT Collapsing. Here's Why.
- - [https://youtu.be/HDBQSn-h4Z8](https://youtu.be/HDBQSn-h4Z8)
- - RSS feed: https://www.youtube.com/c/Moon-Real
- - date published: 2022-11-17 15:32:25+00:00
- - user: None
-
-
 ## G20 Promotes WHO-Standardized Global Vaccine Passport and ‘Digital Health’ Identity Scheme
  - [https://www.theepochtimes.com/g-20-promotes-who-standardized-global-vaccine-passport-and-digital-health-identity-scheme_4869188.html](https://www.theepochtimes.com/g-20-promotes-who-standardized-global-vaccine-passport-and-digital-health-identity-scheme_4869188.html)
  - RSS feed: https://www.theepochtimes.com/c-tech/feed/
@@ -3086,6 +3078,7 @@
  - RSS feed: https://www.cnbc.com
  - date published: 2022-11-16 15:32:28+00:00
  - user: None
+ - tags: surveillance,china,tiktok
 
 
 ## 82% of Open-Source Projects Suffer from Tool Rot
@@ -3367,6 +3360,7 @@
  - RSS feed: https://www.theguardian.com/international/rss
  - date published: 2022-11-11 15:52:38+00:00
  - user: None
+ - tags: robots,amazon
 
 
 ## The World Is Run by People No Smarter Than You
@@ -3457,13 +3451,6 @@
  - tags: zuckerberg,metaverse,meta,virtual reality
 
 
-## Doom Eternal composer breaks silence over clash with id Software: 'I never quit Doom. I quit a toxic client'
- - [https://www.pcgamer.com/doom-eternal-composer-breaks-silence-over-clash-with-id-software-i-never-quit-doom-i-quit-a-toxic-client](https://www.pcgamer.com/doom-eternal-composer-breaks-silence-over-clash-with-id-software-i-never-quit-doom-i-quit-a-toxic-client)
- - RSS feed: http://www.pcgamer.com/rss
- - date published: 2022-11-09 20:35:11+00:00
- - user: None
-
-
 ## Gmail Will Now Track Your Packages Directly in the App
  - [https://lifehacker.com/gmail-will-now-track-your-packages-directly-in-the-app-1849763848](https://lifehacker.com/gmail-will-now-track-your-packages-directly-in-the-app-1849763848)
  - RSS feed: https://lifehacker.com/rss
@@ -3498,6 +3485,7 @@
  - RSS feed: https://www.engadget.com/rss.xml
  - date published: 2022-11-09 05:54:15+00:00
  - user: None
+ - tags: subscription,disney,netflix
 
 
 ## Why I’m Leaving Tech to Pursue Art
@@ -3505,6 +3493,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-09 01:06:29+00:00
  - user: None
+ - tags: lifestyle,programming
 
 
 ## The Lie That Facebook Sold You
@@ -3575,6 +3564,14 @@
  - date published: 2022-11-07 16:18:33+00:00
  - user: rumpel
  - tags: programming,css
+
+
+## Tech outlook for a GOP Congress: More noise, even less action
+ - [https://www.axios.com/2022/11/07/midterms-tech-policy-congress-control](https://www.axios.com/2022/11/07/midterms-tech-policy-congress-control)
+ - RSS feed: https://www.axios.com
+ - date published: 2022-11-07 14:20:50+00:00
+ - user: rumpel
+ - tags: bigbrother,america,antitrust,bigtech
 
 
 ## Xess 2: CSS variable edition - Xe
@@ -3788,13 +3785,6 @@
  - user: None
 
 
-## Bank of England expects UK to fall into longest ever recession
- - [https://www.bbc.com/news/business-63471725](https://www.bbc.com/news/business-63471725)
- - RSS feed: https://hnrss.org/frontpage
- - date published: 2022-11-03 18:54:17+00:00
- - user: None
-
-
 ## Linux Boot Partitions
  - [https://0pointer.net/blog/linux-boot-partitions.html](https://0pointer.net/blog/linux-boot-partitions.html)
  - RSS feed: https://hnrss.org/frontpage
@@ -3823,6 +3813,7 @@
  - RSS feed: https://piunikaweb.com
  - date published: 2022-11-03 14:43:55+00:00
  - user: None
+ - tags: subscription,youwillownnothing,youtube
 
 
 ## I Posted on YouTube Consistently for 1 Month. This Is What Happened
@@ -3845,6 +3836,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-03 12:38:55+00:00
  - user: None
+ - tags: china,surveillance,tiktok
 
 
 ## NYC trans and HIV activist arrested for 'soliciting pedophile hunter posing as a 14-year-old boy'
@@ -3852,6 +3844,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-03 12:36:36+00:00
  - user: None
+ - tags: paedophilia,lgbt,trans
 
 
 ## There's a Big Problem With Countries' Plans to Plant More Trees
@@ -3959,6 +3952,7 @@
  - RSS feed: http://louderwithcrowder.com/feed/
  - date published: 2022-11-02 17:15:18+00:00
  - user: None
+ - tags: factcheck,twitter,bigbrother
 
 
 ## The UK economy is about to be thrown into a black hole – by its own government | Larry Elliott
@@ -4048,7 +4042,7 @@
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
  - date published: 2022-11-02 04:00:00+00:00
  - user: None
- - tags: science,machine learning,artificial intelligence
+ - tags: artificial intelligence,machine learning,scienceisdead,science
 
 
 ## New York Magazine writer admits media 'afraid' to criticize the left on COVID, Black Lives Matter
@@ -4272,13 +4266,6 @@
  - user: None
 
 
-## US curbs on microchips could throttle China's ambitions and escalate the tech war
- - [https://www.cnn.com/2022/10/31/tech/us-sanctions-chips-china-xi-tech-ambitions-intl-hnk/index.html](https://www.cnn.com/2022/10/31/tech/us-sanctions-chips-china-xi-tech-ambitions-intl-hnk/index.html)
- - RSS feed: http://rss.cnn.com/rss/edition.rss
- - date published: 2022-10-31 09:29:06+00:00
- - user: None
-
-
 ## UK police fail to use facial recognition ethically and legally, study finds
  - [https://www.engadget.com/uk-police-fail-to-use-facial-recognition-ethically-and-legally-researchers-say-082039619.html?src=rss](https://www.engadget.com/uk-police-fail-to-use-facial-recognition-ethically-and-legally-researchers-say-082039619.html?src=rss)
  - RSS feed: https://www.engadget.com/rss.xml
@@ -4322,6 +4309,7 @@
  - RSS feed: https://www.forbes.com/innovation/feed2
  - date published: 2022-10-30 22:16:43+00:00
  - user: None
+ - tags: company,empleyee
 
 
 ## Islamic extremism in UK is 'a bigger issue than we are willing to accept', Home Office source claims
@@ -4344,6 +4332,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-10-30 10:55:24+00:00
  - user: None
+ - tags: vulnerabilities,playstation
 
 
 ## Twitter trolls bombard platform after Elon Musk takeover
@@ -4559,6 +4548,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-10-28 10:24:59+00:00
  - user: None
+ - tags: raspberry
 
 
 ## Microsoft: Raspberry Robin USB worm hits nearly 1,000 organizations in the past month
@@ -4647,6 +4637,7 @@
  - RSS feed: https://www.computerworld.com/index.rss
  - date published: 2022-10-27 20:47:00+00:00
  - user: None
+ - tags: google,privacy,incognito,bigtech
 
 
 ## We’re Dropping Google Ads (2017)
@@ -5154,13 +5145,6 @@
  - tags: hawei,spies,china
 
 
-## EU formally adopts law requiring Apple to support USB-C chargers
- - [https://www.cnn.com/2022/10/24/tech/eu-law-charging-standard/index.html](https://www.cnn.com/2022/10/24/tech/eu-law-charging-standard/index.html)
- - RSS feed: http://rss.cnn.com/rss/edition.rss
- - date published: 2022-10-24 18:36:26+00:00
- - user: None
-
-
 ## Kids who play video games score higher on brain function tests
  - [https://www.theverge.com/2022/10/24/23420502/video-game-kid-brain-function-fmri](https://www.theverge.com/2022/10/24/23420502/video-game-kid-brain-function-fmri)
  - RSS feed: https://www.theverge.com/rss/index.xml
@@ -5350,6 +5334,7 @@
  - RSS feed: https://youtu.be/XmkFoPV5DCg
  - date published: 2022-10-22 15:54:10+00:00
  - user: None
+ - tags: subscription,youwillownnothing
 
 
 ## Apple’s App Store will display more ads starting next week
@@ -5863,7 +5848,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-10-13 16:10:02+00:00
  - user: rumpel
- - tags: manufactured consent,facebook,amazon,google,bigtech,bigbrother
+ - tags: bigtech,manufacturing consent,facebook,bigbrother,amazon,google
 
 
 ## California mom wows internet with blistering speech branding woke school board 'groomers and pimps'
@@ -6169,13 +6154,6 @@
  - user: None
 
 
-## Canonical Launches Ubuntu Pro
- - [https://ubuntu.com/blog/ubuntu-pro-beta-release](https://ubuntu.com/blog/ubuntu-pro-beta-release)
- - RSS feed: https://hnrss.org/frontpage
- - date published: 2022-10-08 20:37:40+00:00
- - user: None
-
-
 ## Elon Musk, Former PayPal Exec Led Backlash Before PayPal Abandoned Plan To Fine Users $2,500 For ‘Misinformation’
  - [https://www.dailywire.com/news/elon-musk-former-paypal-exec-led-backlash-before-paypal-abandoned-alleged-plan-to-fine-users-2500-for-misinformation](https://www.dailywire.com/news/elon-musk-former-paypal-exec-led-backlash-before-paypal-abandoned-alleged-plan-to-fine-users-2500-for-misinformation)
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
@@ -6278,6 +6256,7 @@
  - RSS feed: https://www.youtube.com/c/SkyNewsAustralia
  - date published: 2022-10-07 07:19:48+00:00
  - user: None
+ - tags: wef,great reset
 
 
 ## Longevity of Recordable CDs, DVDs and Blu-Rays
@@ -6519,7 +6498,7 @@
  - RSS feed: https://www.seroundtable.com
  - date published: 2022-10-04 08:51:49+00:00
  - user: Thomas Pain
- - tags: algorithms,dead internet,google
+ - tags: google,google search,algorithms,dead internet
 
 
 ## VideoLAN has issued a legal notice to Indian Gov for banning their website
@@ -6902,6 +6881,7 @@
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-09-28 19:30:14+00:00
  - user: None
+ - tags: censorship,giorgia meloni,youtube,free speech
 
 
 ## OpenAI’s image generator DALL-E is available for anyone to use immediately
@@ -6993,13 +6973,6 @@
  - [https://www.cnn.com/2022/09/27/us/rapture-anxiety-evangelical-exvangelical-christianity-cec/index.html](https://www.cnn.com/2022/09/27/us/rapture-anxiety-evangelical-exvangelical-christianity-cec/index.html)
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-09-27 16:08:37+00:00
- - user: None
-
-
-## Apple CEO Tim Cook wants more women in tech
- - [https://www.computerworld.com/article/3674840/apple-ceo-tim-cook-wants-more-women-in-tech.html#tk.rss_all](https://www.computerworld.com/article/3674840/apple-ceo-tim-cook-wants-more-women-in-tech.html#tk.rss_all)
- - RSS feed: https://www.computerworld.com/index.rss
- - date published: 2022-09-27 16:07:00+00:00
  - user: None
 
 
@@ -7205,13 +7178,6 @@
  - tags: woke,trans,gender,science
 
 
-## Satanic Temple files federal lawsuit challenging Indiana's near-total abortion ban
- - [https://www.reddit.com/r/politics/comments/xnnuvr/satanic_temple_files_federal_lawsuit_challenging/](https://www.reddit.com/r/politics/comments/xnnuvr/satanic_temple_files_federal_lawsuit_challenging/)
- - RSS feed: http://www.reddit.com/r/politics/.rss
- - date published: 2022-09-25 13:48:38+00:00
- - user: None
-
-
 ## Pride dancers defy critics, spread legs for children while letting others (allegedly) touch their crotch
  - [https://www.louderwithcrowder.com/dancers-chattanooga-brewery](https://www.louderwithcrowder.com/dancers-chattanooga-brewery)
  - RSS feed: http://louderwithcrowder.com/feed/
@@ -7312,6 +7278,7 @@
  - RSS feed: https://www.engadget.com/rss.xml
  - date published: 2022-09-23 21:10:55+00:00
  - user: None
+ - tags: privacy,bigbrother,bigtech,google,surveillance
 
 
 ## Leading Transgender Health Association Seeks to Include ‘Eunuch’ As ‘Gender Identity’
@@ -7435,6 +7402,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-22 23:22:22+00:00
  - user: None
+ - tags: billionaires,elite
 
 
 ## Gay Rights Organization Gets Deplatformed By PayPal While Pro-Pedophile Group Remains
@@ -7861,6 +7829,7 @@
  - RSS feed: http://www.reddit.com/r/news/.rss
  - date published: 2022-09-17 21:44:15+00:00
  - user: None
+ - tags: bigoil,scienceisdead,climate change
 
 
 ## Victorian Women's Trust board member calls on female rape victim to be spat on over trans fear
@@ -8160,7 +8129,7 @@
  - RSS feed: https://www.politico.com
  - date published: 2022-09-14 20:25:38+00:00
  - user: None
- - tags: elite,bill gates,billionaires,manufactured consent,covid
+ - tags: covid,manufacturing consent,elite,billionaires,bill gates
 
 
 ## California is suing Amazon alleging the company contributed to high costs of products state-wide
@@ -8494,13 +8463,6 @@
  - user: Thomas Pain
 
 
-## Disney CEO Bob Chapek breaks silence on apologizing to staff over Florida's 'Don't Say Gay' bill
- - [https://www.dailymail.co.uk/news/article-11201587/Disney-CEO-Bob-Chapek-breaks-silence-apologizing-staff-Floridas-Dont-Say-Gay-bill.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11201587/Disney-CEO-Bob-Chapek-breaks-silence-apologizing-staff-Floridas-Dont-Say-Gay-bill.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - RSS feed: https://www.dailymail.co.uk/news/index.rss
- - date published: 2022-09-11 14:47:42+00:00
- - user: None
-
-
 ## Gay Florida resident speaks out against LGBTQ+ indoctrination in public schools
  - [https://www.louderwithcrowder.com/gay-florida-resident-against-indoctrination](https://www.louderwithcrowder.com/gay-florida-resident-against-indoctrination)
  - RSS feed: http://louderwithcrowder.com/feed/
@@ -8759,6 +8721,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-07 21:30:19+00:00
  - user: None
+ - tags: future,dystopia,digital dementia
 
 
 ## Netflix must remove LGBTQ+ content in Gulf states or face legal consequences
@@ -9148,6 +9111,7 @@
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-09-02 23:57:54+00:00
  - user: None
+ - tags: censorship proxy,bigbrother,censorship,censorship laundering,censorship outsourcing
 
 
 ## The utterly delightful site dedicated to classifying plastic bread tags
@@ -9312,6 +9276,13 @@
  - [https://www.youtube.com/watch?v=CqIJbLGV52c](https://www.youtube.com/watch?v=CqIJbLGV52c)
  - RSS feed: https://www.youtube.com/c/RussellBrand
  - date published: 2022-08-31 07:25:12+00:00
+ - user: None
+
+
+## WEF_Advancing_towards_Digital_Agency_2022
+ - [https://www3.weforum.org/docs/WEF_Advancing_towards_Digital_Agency_2022.pdf](https://www3.weforum.org/docs/WEF_Advancing_towards_Digital_Agency_2022.pdf)
+ - RSS feed: www3.weforum.org
+ - date published: 2022-08-31 07:07:46+00:00
  - user: None
 
 
@@ -10067,6 +10038,14 @@
  - tags: electric cars,california
 
 
+## China's Evergrande has failed to deliver the debt restructuring plan it promised
+ - [https://www.cnn.com/2022/08/01/economy/china-evergrande-miss-deadline-restructuring-plan-intl-hnk/index.html](https://www.cnn.com/2022/08/01/economy/china-evergrande-miss-deadline-restructuring-plan-intl-hnk/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2022-08-01 06:15:33+00:00
+ - user: rumpel
+ - tags: crisis,china
+
+
 ## The looming copper crunch and why recycling can’t fix it - MINING.COM
  - [https://www.mining.com/the-looming-copper-crunch-and-why-recycling-cant-fix-it/](https://www.mining.com/the-looming-copper-crunch-and-why-recycling-cant-fix-it/)
  - RSS feed: https://www.mining.com
@@ -10204,6 +10183,14 @@
  - user: Thomas Pain
 
 
+## How much CO2 is emitted by manufacturing batteries? | MIT Climate Portal
+ - [https://climate.mit.edu/ask-mit/how-much-co2-emitted-manufacturing-batteries](https://climate.mit.edu/ask-mit/how-much-co2-emitted-manufacturing-batteries)
+ - RSS feed: https://climate.mit.edu
+ - date published: 2022-07-22 11:37:53+00:00
+ - user: rumpel
+ - tags: climate change,electric vehicles
+
+
 ## I Regret my $46k Website Redesign · mtlynch.io
  - [https://mtlynch.io/tinypilot-redesign/](https://mtlynch.io/tinypilot-redesign/)
  - RSS feed: https://mtlynch.io
@@ -10244,6 +10231,7 @@
  - RSS feed: https://conoroneill.net
  - date published: 2022-07-18 19:50:53.354014+00:00
  - user: Thomas Pain
+ - tags: standard,rss
 
 
 ## The Pneumatic Clocks of Paris | Amusing Planet
@@ -11027,6 +11015,14 @@
  - tags: war,oil,russia,oligarchs
 
 
+## A Framework for Understanding Whiteness in Mathematics Education
+ - [https://files.eric.ed.gov/fulltext/EJ1124962.pdf](https://files.eric.ed.gov/fulltext/EJ1124962.pdf)
+ - RSS feed: https://files.eric.ed.gov
+ - date published: 2022-06-03 06:58:22+00:00
+ - user: rumpel
+ - tags: america,hate speech,racism,blm
+
+
 ## A Letter to Discord for not Supporting the Linux Desktop | TheEvilSkeleton
  - [https://theevilskeleton.gitlab.io/2022/05/29/a-letter-to-discord-for-not-supporting-the-linux-desktop.html](https://theevilskeleton.gitlab.io/2022/05/29/a-letter-to-discord-for-not-supporting-the-linux-desktop.html)
  - RSS feed: https://theevilskeleton.gitlab.io
@@ -11266,6 +11262,14 @@
  - user: Thomas Pain
 
 
+## How bots invaded social media and changed the world forever
+ - [https://www.news-future.com/p/how-bots-invaded-social-media-and](https://www.news-future.com/p/how-bots-invaded-social-media-and)
+ - RSS feed: https://www.news-future.com
+ - date published: 2022-05-22 10:08:54+00:00
+ - user: rumpel
+ - tags: social media,bots,dead internet
+
+
 ## The balance has shifted away from SPAs | Read the Tea Leaves
  - [https://nolanlawson.com/2022/05/21/the-balance-has-shifted-away-from-spas/](https://nolanlawson.com/2022/05/21/the-balance-has-shifted-away-from-spas/)
  - RSS feed: https://nolanlawson.com
@@ -11306,6 +11310,7 @@
  - RSS feed: https://ixns.github.io
  - date published: 2022-05-19 07:50:35.730045+00:00
  - user: Thomas Pain
+ - tags: google,google search,dead internet
 
 
 ## Dealing with deprecations - stitcher.io
@@ -11719,6 +11724,7 @@
  - RSS feed: https://rachelbythebay.com
  - date published: 2022-04-29 21:03:05.068149+00:00
  - user: Thomas Pain
+ - tags: raspberry
 
 
 ## Dropbox unplugged its own datacenter to test resilience • The Register
@@ -11747,6 +11753,14 @@
  - RSS feed: https://medium.com
  - date published: 2022-04-28 06:46:01.756351+00:00
  - user: Thomas Pain
+
+
+## Did Ghislaine Maxwell Attend Chelsea Clinton's Wedding? | Snopes.com
+ - [https://www.snopes.com/fact-check/ghislaine-maxwell-chelsea-clinton-wedding/](https://www.snopes.com/fact-check/ghislaine-maxwell-chelsea-clinton-wedding/)
+ - RSS feed: https://www.snopes.com
+ - date published: 2022-04-27 11:49:02+00:00
+ - user: rumpel
+ - tags: epstein,ghislaine,elite,billionaires,clinton
 
 
 ## How Companies Lie To You About End-to-End Encryption
@@ -11954,6 +11968,7 @@
  - RSS feed: https://torrentfreak.com
  - date published: 2022-04-16 09:59:41.557839+00:00
  - user: Thomas Pain
+ - tags: moderation,duckduckgo
 
 
 ## GitHub: Attacker breached dozens of orgs using stolen OAuth tokens
@@ -12308,6 +12323,14 @@
  - date published: 2022-04-03 20:15:08+00:00
  - user: rumpel
  - tags: bible,peterson
+
+
+## World Government Summit speculates on "digital money" for full centralized control
+ - [https://reclaimthenet.org/world-government-summit-speculates-on-digital-money/](https://reclaimthenet.org/world-government-summit-speculates-on-digital-money/)
+ - RSS feed: https://reclaimthenet.org
+ - date published: 2022-04-03 15:06:29+00:00
+ - user: rumpel
+ - tags: digital money,cdbc,wef
 
 
 ## The story behind creepy-as-hell ‘milk bath’ flyers
@@ -13208,6 +13231,14 @@
  - RSS feed: https://full-stack.blend.com
  - date published: 2022-02-11 18:57:36+00:00
  - user: Thomas Pain
+
+
+## How Is Electric Car Battery Disposal Causing Pollution
+ - [https://www.carandbike.com/news/how-is-electric-car-battery-disposal-causing-pollution-all-concerns-answered-2762412](https://www.carandbike.com/news/how-is-electric-car-battery-disposal-causing-pollution-all-concerns-answered-2762412)
+ - RSS feed: https://www.carandbike.com
+ - date published: 2022-02-11 11:34:06+00:00
+ - user: rumpel
+ - tags: pollution,climate change,electric vehicles
 
 
 ## Anti-exploitation bill advances in Senate despite free speech concerns

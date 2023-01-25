@@ -27,7 +27,7 @@
  - RSS feed: https://www.youtube.com/watch?v=tTBWfkE7BXU
  - date published: 2015-10-15 16:13:28+00:00
  - user: None
- - tags: chomsky,social media,corporatocracy,propaganda,all time
+ - tags: all time,chomsky,manufacturing consent,social media,propaganda,corporatocracy
 
 
 ## The Website Obesity Crisis
@@ -92,6 +92,14 @@
  - date published: 2015-05-27 12:04:50+00:00
  - user: None
  - tags: youtube,algorithm
+
+
+## Why Don't We Hear About Soros' Ties to Over 30 Major News Organizations? | Fox News
+ - [https://www.foxnews.com/opinion/why-dont-we-hear-about-soros-ties-to-over-30-major-news-organizations](https://www.foxnews.com/opinion/why-dont-we-hear-about-soros-ties-to-over-30-major-news-organizations)
+ - RSS feed: https://www.foxnews.com
+ - date published: 2015-05-07 12:40:31+00:00
+ - user: rumpel
+ - tags: george soros,manufacturing consent,elite,billionaires,media
 
 
 ## My father was gay. Yet I oppose legalizing same-sex marriage.

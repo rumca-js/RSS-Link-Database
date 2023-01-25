@@ -317,6 +317,14 @@
  - tags: china,climate change,pollution
 
 
+## Dishonest Fact-Checkers - Capital Research Center
+ - [https://capitalresearch.org/article/dishonest-fact-checkers/](https://capitalresearch.org/article/dishonest-fact-checkers/)
+ - RSS feed: https://capitalresearch.org
+ - date published: 2017-03-10 12:34:06+00:00
+ - user: rumpel
+ - tags: factcheck,media bias,scienceisdead
+
+
 ## What is the WikiLeaks Vault 7 release about CIA TV snooping powers and what is the Weeping Angel virus Samsung hack? | The Sun
  - [https://www.thesun.co.uk/news/3037357/wikileaks-vault-7-samsung-tv-weeping-angel-cia/](https://www.thesun.co.uk/news/3037357/wikileaks-vault-7-samsung-tv-weeping-angel-cia/)
  - RSS feed: https://www.thesun.co.uk
@@ -370,7 +378,7 @@
  - RSS feed: https://www.dallasnews.com
  - date published: 2017-02-13 09:46:55+00:00
  - user: None
- - tags: corruption,manufacturedconsent,politics,billionaires
+ - tags: politics,manufacturing consent,corruption,billionaires
 
 
 ## Media Matters Says It Is Secretly Working with Facebook to Fight ‘Fake News’

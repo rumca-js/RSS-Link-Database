@@ -48,6 +48,7 @@
  - RSS feed: https://forsal.pl/.feed
  - date published: 2022-12-26 08:04:09+00:00
  - user: rumpel
+ - tags: taiwan,crisis,china
 
 
 ## Raport: Apple cenzuruje aplikacje na każde żądanie Chin i Rosji, by nie stracić rynków
@@ -134,6 +135,7 @@
  - RSS feed: https://www.chip.pl/feed
  - date published: 2022-12-16 17:00:00+00:00
  - user: None
+ - tags: taiwan,china,usa
 
 
 ## Farmaceutka zwolniona za brak obowiązkowego szczepienia przeciw COVID-19. Jest wyrok sądu…
@@ -157,6 +159,7 @@
  - RSS feed: https://wydarzenia.interia.pl/feed
  - date published: 2022-12-11 20:16:10+00:00
  - user: None
+ - tags: christianophobia,england
 
 
 ## Cynizm i hipokryzja. Wielkie korporacje zarabiają krocie i udają, że to jest w naszym interesie
@@ -219,6 +222,7 @@
  - RSS feed: https://www.youtube.com/@fakezuck
  - date published: 2022-11-30 10:51:39+00:00
  - user: None
+ - tags: zuckerberg,antitrust,bigtech,facebook,meta
 
 
 ## Cyfrowy paszport i rozpoznawanie twarzy. Te linie lotnicze mają plan na zmniejszenie kolejek na lotnisku
@@ -759,6 +763,7 @@
  - RSS feed: https://www.wykop.pl/rss/index.xml/
  - date published: 2022-10-08 19:26:01+00:00
  - user: None
+ - tags: haiti,crisis
 
 
 ## Amazon: Jak niszczy planetę i ludzi?
@@ -890,6 +895,7 @@
  - RSS feed: https://www.youtube.com/channel/UCwSv086EAByBY-Z7y-QR_cQ
  - date published: 2022-10-05 10:25:29+00:00
  - user: None
+ - tags: scienceisdead
 
 
 ## Słoweński parlament zadecydował. Pary jednopłciowe z prawem do zawierania małżeństw
@@ -1560,6 +1566,7 @@
  - RSS feed: https://www.wykop.pl/rss/index.xml/
  - date published: 2022-09-10 21:02:01+00:00
  - user: None
+ - tags: america,china,tradewar
 
 
 ## "Trwa totalna wojna światowa". Dosadne słowa papieża Franciszka
@@ -1595,6 +1602,7 @@
  - RSS feed: https://ithardware.pl/feed
  - date published: 2022-09-07 09:37:50+00:00
  - user: None
+ - tags: paedophilia,moderation,twitter,censorship
 
 
 ## Amerykańskie firmy technologiczne otrzymały zakaz inwestowania w Chinach
@@ -1895,6 +1903,14 @@
  - date published: 2022-03-08 11:21:16+00:00
  - user: rumpel
  - tags: covid,hospital
+
+
+## Kanada: Premier Justin Trudeau wprowadza stan wyjątkowy w Kanadzie
+ - [https://wyborcza.pl/7,75399,28112842,premier-justin-trudeau-wprowadza-stan-wyjatkowy-w-kanadzie.html?squid_js=false](https://wyborcza.pl/7,75399,28112842,premier-justin-trudeau-wprowadza-stan-wyjatkowy-w-kanadzie.html?squid_js=false)
+ - RSS feed: wyborcza.pl
+ - date published: 2022-02-14 06:53:45+00:00
+ - user: None
+ - tags: covid,freedom convoy,lockdown,canada
 
 
 ## Google udostępniło dane lokalizacji z telefonów protestujących. FBI polowało na biorących udział w zamieszkach

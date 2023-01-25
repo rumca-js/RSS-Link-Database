@@ -18,7 +18,7 @@
  - RSS feed: https://www.theguardian.com
  - date published: 2018-12-04 19:51:59+00:00
  - user: None
- - tags: google,censorship,facebook
+ - tags: facebook,google,censorship,algorithms
 
 
 ## How a future Trump Cabinet member gave a serial sex abuser the deal of a lifetime
@@ -267,7 +267,7 @@
  - RSS feed: https://www.bbc.com
  - date published: 2018-06-15 19:50:48+00:00
  - user: None
- - tags: science,ai
+ - tags: artificial intelligence,science
 
 
 ## Facebook confirms data-sharing agreements with Chinese firms
@@ -340,6 +340,14 @@
  - date published: 2018-05-01 07:27:13+00:00
  - user: None
  - tags: who,bill gates
+
+
+## On The Internet, Bots Have Already Overrun Humans. What Do They Want?
+ - [https://www.forbes.com/sites/michaeldurkheimer/2018/04/16/on-the-internet-bots-have-already-overrun-humans-what-do-they-want/](https://www.forbes.com/sites/michaeldurkheimer/2018/04/16/on-the-internet-bots-have-already-overrun-humans-what-do-they-want/)
+ - RSS feed: https://www.forbes.com
+ - date published: 2018-04-16 10:03:20+00:00
+ - user: rumpel
+ - tags: social media,dead internet
 
 
 ## Convert Django Website to a Progressive Web App [Part 1/2] | by Kiran Kumbhar | Beginner's Guide to Mobile Web Development | Medium
@@ -492,4 +500,12 @@
  - date published: 2018-01-05 10:00:27+00:00
  - user: rumpel
  - tags: programming,design patterns
+
+
+## Meltdown and Spectre: ‘worst ever’ CPU bugs affect virtually all computers
+ - [https://www.theguardian.com/technology/2018/jan/04/meltdown-spectre-worst-cpu-bugs-ever-found-affect-computers-intel-processors-security-flaw](https://www.theguardian.com/technology/2018/jan/04/meltdown-spectre-worst-cpu-bugs-ever-found-affect-computers-intel-processors-security-flaw)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2018-01-04 12:06:43+00:00
+ - user: rumpel
+ - tags: spectre,meltdown,inter,vulnerability
 

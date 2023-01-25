@@ -6,6 +6,38 @@
  - tags: google,noprivacy
 
 
+## Pegasus, Israel and a massacre of Mexican students
+ - [https://www.lemonde.fr/en/international/article/2023/01/23/pegasus-israel-and-a-massacre-of-mexican-students_6012654_4.html](https://www.lemonde.fr/en/international/article/2023/01/23/pegasus-israel-and-a-massacre-of-mexican-students_6012654_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-01-23 01:14:49+00:00
+ - user: rumpel
+ - tags: privacy,mexic,surveillance,pegasus
+
+
+## Huge crowds in Israel again protest Netanyahu’s legal changes | Benjamin Netanyahu News
+ - [https://www.reddit.com/r/news/comments/10isxst/huge_crowds_in_israel_again_protest_netanyahus/](https://www.reddit.com/r/news/comments/10isxst/huge_crowds_in_israel_again_protest_netanyahus/)
+ - RSS feed: http://www.reddit.com/r/news/.rss
+ - date published: 2023-01-22 20:12:22+00:00
+ - user: rumpel
+ - tags: crisis,israel
+
+
+## Peru’s Deadly Protests
+ - [https://www.nytimes.com/2023/01/22/briefing/peru-protests.html](https://www.nytimes.com/2023/01/22/briefing/peru-protests.html)
+ - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+ - date published: 2023-01-22 12:34:51+00:00
+ - user: rumpel
+ - tags: crisis,peru
+
+
+## In Peru, half the population lacks food security
+ - [https://www.lemonde.fr/en/international/article/2023/01/22/in-peru-half-the-population-lacks-food-security_6012540_4.html](https://www.lemonde.fr/en/international/article/2023/01/22/in-peru-half-the-population-lacks-food-security_6012540_4.html)
+ - RSS feed: https://www.lemonde.fr/en/rss/une.xml
+ - date published: 2023-01-22 04:01:32+00:00
+ - user: rumpel
+ - tags: crisis,peru
+
+
 ## AI is in danger of being swallowed up by copyright law
  - [https://heathermeeker.com/2023/01/19/is-copyright-eating-ai/](https://heathermeeker.com/2023/01/19/is-copyright-eating-ai/)
  - RSS feed: https://hnrss.org/frontpage
@@ -75,7 +107,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2023-01-20 16:50:27+00:00
  - user: rumpel
- - tags: dead internet,google
+ - tags: google,dead internet,gmail
 
 
 ## Meta, Twitter, Microsoft and others urge Supreme Court not to allow lawsuits against tech algorithms
@@ -521,7 +553,7 @@
  - RSS feed: https://www.youtube.com
  - date published: 2023-01-12 22:10:43+00:00
  - user: rumpel
- - tags: george soros,billionaires,elites
+ - tags: billionaires,elites,george soros,manufacturing consent
 
 
 ## Meta alleges surveillance firm collected data on 600,000 users via fake accounts
@@ -553,7 +585,7 @@
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2023-01-12 16:48:09+00:00
  - user: rumpel
- - tags: brazil,government,jan6
+ - tags: jan6,crisis,government,brazil
 
 
 ## The Hidden Consequences Of The Plastic Pollution Crisis
@@ -608,6 +640,7 @@
  - RSS feed: http://www.reddit.com/r/news/.rss
  - date published: 2023-01-12 04:30:52+00:00
  - user: rumpel
+ - tags: climate change,carbon emissions
 
 
 ## Data Doesn’t Support New COVID-19 Booster Shots for Most | Time
@@ -679,7 +712,7 @@
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2023-01-10 17:44:21+00:00
  - user: rumpel
- - tags: brazil,moderation,facebook,youtube
+ - tags: moderation,brazil,crisis,facebook,youtube
 
 
 ## Facial recognition leads to week-long wrongful imprisonment | TechSpot
@@ -735,7 +768,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2023-01-10 01:58:53+00:00
  - user: rumpel
- - tags: algorithms,dead internet,techconcerns,subscription
+ - tags: techconcerns,subscription,dead internet,electric vehicles,social media,algorithms,gaming
 
 
 ## Microsoft’s new AI can simulate anyone’s voice with 3 seconds of audio
@@ -956,6 +989,7 @@
  - RSS feed: https://www.ft.com/world?format=rss
  - date published: 2023-01-06 05:00:17+00:00
  - user: rumpel
+ - tags: google,google search,dead internet
 
 
 ## Google obtains thousands of medical records from the Dept of Defense
@@ -1146,7 +1180,7 @@
  - RSS feed: https://www.cnbc.com/id/100727362/device/rss/rss.html
  - date published: 2023-01-03 23:19:00+00:00
  - user: rumpel
- - tags: recession,apple,amazon,crysis
+ - tags: crisis,amazon,apple,recession
 
 
 ## Google wants RISC-V to be a “tier-1” Android architecture
@@ -1194,7 +1228,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2023-01-03 13:41:25+00:00
  - user: rumpel
- - tags: bigtech,blog,algorithms
+ - tags: selfhosting,digital bunker,blog
 
 
 ## State Power and Covid Crimes
@@ -1257,6 +1291,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2023-01-02 03:43:58+00:00
  - user: rumpel
+ - tags: games,mortal kombat 2
 
 
 ## Bezos, Gates, Zuckerberg. Behind every “self-made” millionaire is a father with money
@@ -1288,6 +1323,7 @@
  - RSS feed: https://www.theguardian.com/international/rss
  - date published: 2023-01-01 07:00:40+00:00
  - user: rumpel
+ - tags: elon musk,twitter files
 
 
 ## Epstein's sex trafficking was aided by JPMorgan, US Virgin Islands lawsuit says

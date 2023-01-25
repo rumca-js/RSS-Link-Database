@@ -6,12 +6,20 @@
  - tags: censorship,moderation,covid,vaccine
 
 
+## Chiny, nieruchomości. Prezes Evergrande Hui Ka Yan stracił 93 procent majątku - TVN24 Biznes
+ - [https://tvn24.pl/biznes/ze-swiata/chiny-nieruchomosci-prezes-evergrande-hui-ka-yan-stracil-93-procent-majatku-6643480](https://tvn24.pl/biznes/ze-swiata/chiny-nieruchomosci-prezes-evergrande-hui-ka-yan-stracil-93-procent-majatku-6643480)
+ - RSS feed: https://tvn24.pl
+ - date published: 2023-01-22 10:12:22+00:00
+ - user: rumpel
+ - tags: crisis,china
+
+
 ## Smutny film o Armenii. Co doprowadziło ją do upadku?
  - [https://m.youtube.com/watch?v=SljlG-2d7G0](https://m.youtube.com/watch?v=SljlG-2d7G0)
  - RSS feed: https://m.youtube.com
  - date published: 2023-01-21 11:41:09+00:00
  - user: rumpel
- - tags: crysis,armenia
+ - tags: crisis,armenia
 
 
 ## Skończył się boom na streaming. Konkurenci Netflixa nadal palą ogromne ilości gotówki
@@ -208,4 +216,5 @@
  - RSS feed: https://www.chip.pl/feed
  - date published: 2023-01-01 10:00:00+00:00
  - user: rumpel
+ - tags: pollution,microplastic
 

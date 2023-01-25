@@ -448,7 +448,7 @@
  - RSS feed: https://www.theguardian.com/rss
  - date published: 2019-07-11 05:00:51+00:00
  - user: rumpel
- - tags: surveillence,bitech,privacy
+ - tags: privacy,surveillence,bigtech
 
 
 ## So Was QAnon … Right?
@@ -497,6 +497,14 @@
  - date published: 2019-06-11 22:09:15+00:00
  - user: rumpel
  - tags: facebook,censorship
+
+
+## Google rewards reputable reporting, not left-wing politics | The Economist
+ - [https://www.economist.com/graphic-detail/2019/06/08/google-rewards-reputable-reporting-not-left-wing-politics](https://www.economist.com/graphic-detail/2019/06/08/google-rewards-reputable-reporting-not-left-wing-politics)
+ - RSS feed: https://www.economist.com
+ - date published: 2019-06-08 14:36:32+00:00
+ - user: rumpel
+ - tags: algorithms,google search
 
 
 ## The culture war at the heart of open source

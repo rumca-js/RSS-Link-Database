@@ -3,6 +3,7 @@
  - RSS feed: https://medium.com
  - date published: 2021-12-31 21:18:21.961847+00:00
  - user: Thomas Pain
+ - tags: python,programming
 
 
 ## University loses 77TB of research data due to backup error
@@ -235,6 +236,14 @@
  - RSS feed: https://www.bbc.co.uk
  - date published: 2021-12-21 12:40:48.353648+00:00
  - user: Thomas Pain
+
+
+## Donald Trump flew on Epstein's Lolita Express private jet SEVEN TIMES, new Ghislaine Maxwell trial docs reveal | The US Sun
+ - [https://www.the-sun.com/news/4315751/donald-trump-epstein-lolita-express-ghislaine-maxwell/](https://www.the-sun.com/news/4315751/donald-trump-epstein-lolita-express-ghislaine-maxwell/)
+ - RSS feed: https://www.the-sun.com
+ - date published: 2021-12-21 11:50:07+00:00
+ - user: rumpel
+ - tags: billionaires,epstein,trump,elite
 
 
 ## Troy Hunt: Open Source Pwned Passwords with FBI Feed and 225M New NCA Passwords is Now Live!
@@ -1402,6 +1411,14 @@
  - RSS feed: https://simonwillison.net
  - date published: 2021-10-10 14:38:26.640024+00:00
  - user: Thomas Pain
+
+
+## Google’s 200 Ranking Factors: The Complete List (2022)
+ - [https://backlinko.com/google-ranking-factors](https://backlinko.com/google-ranking-factors)
+ - RSS feed: https://backlinko.com
+ - date published: 2021-10-10 14:34:07+00:00
+ - user: rumpel
+ - tags: algorithms,google search
 
 
 ## Luxury student complex in Glasgow 'unfinished and filthy' - BBC News
@@ -3450,6 +3467,14 @@
  - date published: 2021-06-02 21:17:09+00:00
  - user: rumpel
  - tags: lgbt,gender,intolerance,america
+
+
+## Gates Foundation grants Annenberg Institute $999,260 | Annenberg Institute at Brown
+ - [https://www.annenberginstitute.org/news/gates-foundation-grants-annenberg-institute-999260](https://www.annenberginstitute.org/news/gates-foundation-grants-annenberg-institute-999260)
+ - RSS feed: https://www.annenberginstitute.org
+ - date published: 2021-06-02 12:12:38+00:00
+ - user: rumpel
+ - tags: manufacturing consent,annenberg,bill gates
 
 
 ## Fauci was warned that COVID-19 may have been ‘engineered,’ emails show

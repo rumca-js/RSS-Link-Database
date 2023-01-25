@@ -283,6 +283,14 @@
  - tags: censorship,covid,wuhan
 
 
+## Lockdown, zakaz spotkań i godzina policyjna. Jakie obostrzenia obowiązują w innych krajach Europy?
+ - [https://next.gazeta.pl/next/7,151003,26916907,lockdown-zakaz-spotkan-i-godzina-policyjna-jakie-obostrzenia.html](https://next.gazeta.pl/next/7,151003,26916907,lockdown-zakaz-spotkan-i-godzina-policyjna-jakie-obostrzenia.html)
+ - RSS feed: https://next.gazeta.pl
+ - date published: 2021-03-25 14:09:30+00:00
+ - user: rumpel
+ - tags: restrictions,lockdown,curfew
+
+
 ## Przez niemal pół wieku w Niemczech funkcjonował ruch dążący do legalizacji pedofilii. Wstrząsający raport
  - [https://wiez.pl/2021/03/15/przez-niemal-pol-wieku-w-niemczech-funkcjonowal-ruch-dazacy-do-legalizacji-pedofilii-wstrzasajacy-raport/](https://wiez.pl/2021/03/15/przez-niemal-pol-wieku-w-niemczech-funkcjonowal-ruch-dazacy-do-legalizacji-pedofilii-wstrzasajacy-raport/)
  - RSS feed: https://wiez.pl
