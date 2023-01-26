@@ -363,14 +363,6 @@
  - user: rumpel
 
 
-## 1400 scientists declare: There is no climate emergency
- - [https://clintel.org/](https://clintel.org/)
- - RSS feed: https://hnrss.org/frontpage
- - date published: 2022-12-26 12:58:24+00:00
- - user: rumpel
- - tags: scienceisdead,science,climate change
-
-
 ## FBI Gaslights America Over Twitter Files | Opinion
  - [https://www.newsweek.com/fbi-gaslights-america-over-twitter-files-opinion-1769352](https://www.newsweek.com/fbi-gaslights-america-over-twitter-files-opinion-1769352)
  - RSS feed: https://www.newsweek.com/rss
@@ -1548,7 +1540,7 @@
  - RSS feed: https://businessinsider.com.pl/.feed
  - date published: 2022-12-14 05:41:00+00:00
  - user: None
- - tags: smartphone
+ - tags: digital dementia,smartphone
 
 
 ## Ex-Twitter CEO Jack Dorsey insists there was 'no ill intent or hidden agendas' amid fallout from Twitter Files
@@ -2050,7 +2042,7 @@
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-12-07 20:50:12+00:00
  - user: None
- - tags: censorship,free speech
+ - tags: free speech,censorship,trans
 
 
 ## CDC and Census Bureau had direct access to Twitter portal where they could flag speech for censorship
@@ -3877,6 +3869,14 @@
  - tags: programming,css
 
 
+## TikTok ships “opium version” to world and less addictive app to Chinese audience | ADN América
+ - [https://adnamerica.com/en/united-states/tiktok-ships-opium-version-world-and-less-addictive-app-chinese-audience](https://adnamerica.com/en/united-states/tiktok-ships-opium-version-world-and-less-addictive-app-chinese-audience)
+ - RSS feed: https://adnamerica.com
+ - date published: 2022-11-07 15:49:52+00:00
+ - user: rumpel
+ - tags: social engineering,china,social media,propaganda
+
+
 ## Tech outlook for a GOP Congress: More noise, even less action
  - [https://www.axios.com/2022/11/07/midterms-tech-policy-congress-control](https://www.axios.com/2022/11/07/midterms-tech-policy-congress-control)
  - RSS feed: https://www.axios.com
@@ -3920,6 +3920,14 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-06 22:48:06+00:00
  - user: None
+
+
+## Industry ethicist: Social media companies amplifying Americans' anger for profit - CBS News
+ - [https://www.cbsnews.com/news/tristan-harris-social-media-political-polarization-60-minutes-2022-11-06/?ftag=CNM-00-10aab7d&linkId=188527613](https://www.cbsnews.com/news/tristan-harris-social-media-political-polarization-60-minutes-2022-11-06/?ftag=CNM-00-10aab7d&linkId=188527613)
+ - RSS feed: https://www.cbsnews.com
+ - date published: 2022-11-06 15:50:30+00:00
+ - user: rumpel
+ - tags: dark design,social media,social engineering
 
 
 ## Finland’s Covid death toll could be exaggerated by 40%, THL says | News & More Trending News
@@ -5060,6 +5068,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-10-27 23:12:50+00:00
  - user: None
+ - tags: climate change,electric vehicles
 
 
 ## Musk Fires Person Who Censored Hunter Biden Story, Banned Conservative Accounts: ‘Buckle Up, Motherf*****s’
@@ -5067,6 +5076,7 @@
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-27 21:37:06+00:00
  - user: None
+ - tags: twitter,musk
 
 
 ## OpenSSL is patching just its second critical security flaw ever
@@ -5111,6 +5121,7 @@
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-27 17:04:08+00:00
  - user: rumpel
+ - tags: misinformation,paypal,free speech,censorship
 
 
 ## Followers of QAnon Satanic pedophile elite theory JUMPED 5% this year to 49 million
@@ -5233,13 +5244,6 @@
  - user: None
 
 
-## As Meta’s revenue decline accelerates, shares sink 14 percent
- - [https://www.reddit.com/r/news/comments/yedeaj/as_metas_revenue_decline_accelerates_shares_sink/](https://www.reddit.com/r/news/comments/yedeaj/as_metas_revenue_decline_accelerates_shares_sink/)
- - RSS feed: http://www.reddit.com/r/news/.rss
- - date published: 2022-10-27 00:19:37+00:00
- - user: None
-
-
 ## Zuckerberg is all in on the metaverse whether you like it or not
  - [https://www.theverge.com/2022/10/26/23425429/meta-qg-2022-earnings-facebook-metaverse-mark-zuckerberg](https://www.theverge.com/2022/10/26/23425429/meta-qg-2022-earnings-facebook-metaverse-mark-zuckerberg)
  - RSS feed: https://www.theverge.com/rss/index.xml
@@ -5331,6 +5335,7 @@
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-10-26 14:18:33+00:00
  - user: None
+ - tags: ad company,ads,apple
 
 
 ## Free cloud dev accounts are being abused for crypto mining
@@ -5346,13 +5351,6 @@
  - date published: 2022-10-26 13:50:50+00:00
  - user: rumpel
  - tags: law,anonymity,privacy
-
-
-## Only 42% of Americans think today's youth will have a better life than their parents
- - [https://www.dailymail.co.uk/news/article-11356183/Only-42-Americans-think-todays-youth-better-life-parents.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11356183/Only-42-Americans-think-todays-youth-better-life-parents.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - RSS feed: https://www.dailymail.co.uk/news/index.rss
- - date published: 2022-10-26 13:08:52+00:00
- - user: None
 
 
 ## Ważna deklaracja KEP. Kościół otwiera się na kobiety
@@ -5511,6 +5509,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-10-25 14:58:33+00:00
  - user: None
+ - tags: twitter,social media
 
 
 ## ClockworkPi – uConsole, “fantasy console” for indie game developers
@@ -6101,6 +6100,7 @@
  - RSS feed: https://www.cnet.com/rss/all/
  - date published: 2022-10-21 17:53:38+00:00
  - user: None
+ - tags: youwillownnothing,subscription
 
 
 ## Smart rings have a long way to go
@@ -6191,6 +6191,7 @@
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-21 12:30:37+00:00
  - user: None
+ - tags: facebook,misinformation,moderation,tiktok
 
 
 ## Apple Is an Ad Company Now
@@ -6445,6 +6446,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-10-15 16:22:22+00:00
  - user: None
+ - tags: covid,manufacturing consent,bigpharma,cdc,vaccine
 
 
 ## Advertising is killing Tech Journalism
@@ -6672,6 +6674,14 @@
  - date published: 2022-10-12 05:22:18+00:00
  - user: None
  - tags: censorship,cancel culture
+
+
+## SIM card registration law signed amid privacy concerns | Inquirer News
+ - [https://newsinfo.inquirer.net/1678018/sim-card-registration-law-signed-amid-privacy-concerns](https://newsinfo.inquirer.net/1678018/sim-card-registration-law-signed-amid-privacy-concerns)
+ - RSS feed: https://newsinfo.inquirer.net
+ - date published: 2022-10-11 21:40:07+00:00
+ - user: rumpel
+ - tags: smartphones,privacy,sim,philippines
 
 
 ## Mark Zuckerberg takes a shot at Apple’s closed ecosystem
@@ -8892,6 +8902,14 @@
  - user: None
 
 
+## CDC Oversells the ‘Bivalent’ Covid Shot - WSJ
+ - [https://www.wsj.com/articles/cdc-oversells-the-bivalent-covid-shot-hospitalizations-vaccine-booster-omicron-pandemic-pfizer-moderna-china-illness-death-11663793472](https://www.wsj.com/articles/cdc-oversells-the-bivalent-covid-shot-hospitalizations-vaccine-booster-omicron-pandemic-pfizer-moderna-china-illness-death-11663793472)
+ - RSS feed: https://www.wsj.com
+ - date published: 2022-09-21 13:36:42+00:00
+ - user: rumpel
+ - tags: vaccine,covid,bigpharma
+
+
 ## Facebook is experimenting with letting users help write speech rules
  - [https://www.theverge.com/2022/9/21/23364788/facebook-user-written-moderation-rules-experiment](https://www.theverge.com/2022/9/21/23364788/facebook-user-written-moderation-rules-experiment)
  - RSS feed: https://www.theverge.com/rss/index.xml
@@ -10719,7 +10737,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-04 13:02:11+00:00
  - user: rumpel
- - tags: electricity,colorado,big brother,ownnothingwillbehappy
+ - tags: climate change,colorado,youwillownnothing,bigbrother,electricity
 
 
 ## Koronawirus skrócił średnią długość życia Amerykanów. To największy spadek od niemal 100 lat
@@ -11918,7 +11936,7 @@
  - RSS feed: https://nypost.com
  - date published: 2022-08-01 20:36:35+00:00
  - user: rumpel
- - tags: electric cars,california
+ - tags: california,electric cars,climate change,youwillownnothing
 
 
 ## China's Evergrande has failed to deliver the debt restructuring plan it promised
@@ -15646,7 +15664,7 @@
  - RSS feed: https://www.youtube.com/c/PhilosophyInsights
  - date published: 2022-01-18 20:59:14+00:00
  - user: None
- - tags: totalitarianism,woke
+ - tags: totalitarianism,socialism,woke
 
 
 ## Make debugging suck less. Keep a logbook. 📓 | Conor Lamb

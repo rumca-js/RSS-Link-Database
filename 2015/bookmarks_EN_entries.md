@@ -115,7 +115,7 @@
  - RSS feed: https://www.youtube.com/watch?v=5dNbWGaaxWM
  - date published: 2015-04-16 16:16:43+00:00
  - user: None
- - tags: propaganda,politicalcorrectness,totalitarianism,zizek
+ - tags: socialism,totalitarianism,politicalcorrectness,zizek,propaganda
 
 
 ## Bill Gates: The next outbreak? We’re not ready | TED

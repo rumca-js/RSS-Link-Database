@@ -11,7 +11,7 @@
  - RSS feed: http://www.psychologia.net.pl
  - date published: 2005-11-26 20:22:07+00:00
  - user: rumpel
- - tags: feminism,discrimination,poland
+ - tags: feminism,poland,discrimination,socialism
 
 
 ## Sony BMG copy protection rootkit scandal - Wikipedia

@@ -43,7 +43,7 @@
  - RSS feed: https://www.rp.pl
  - date published: 2019-08-28 21:39:25+00:00
  - user: rumpel
- - tags: feminism,spain
+ - tags: spain,feminism,socialism
 
 
 ## Axel Springer w rękach Amerykanów. Miliarder kupił większość akcji

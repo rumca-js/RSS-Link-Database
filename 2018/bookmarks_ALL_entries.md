@@ -486,6 +486,22 @@
  - tags: virus,notpetya
 
 
+## You can’t buy an ethical smartphone today
+ - [https://www.engadget.com/2018-02-06-ethical-smartphone-conscious-consumption.html?guccounter=1&guce_referrer=aHR0cHM6Ly9kdWNrZHVja2dvLmNvbS8&guce_referrer_sig=AQAAAF7c3xppIbRVTms-CVHzXPrhxA3BXg4mamuzEBGlWlFrW4lrf6eERLvuoUQQssRm1Ifc2bq9gIziWm-L5DwjFvZ9Ci9f1Bv5cfqF8sOc_ocvqaG6oL08IwJ0DGM9cLlk0rp0Essfg-_wDHlQ6Fo-lEyJR4USUdwZ_ADIXOdlGIwq](https://www.engadget.com/2018-02-06-ethical-smartphone-conscious-consumption.html?guccounter=1&guce_referrer=aHR0cHM6Ly9kdWNrZHVja2dvLmNvbS8&guce_referrer_sig=AQAAAF7c3xppIbRVTms-CVHzXPrhxA3BXg4mamuzEBGlWlFrW4lrf6eERLvuoUQQssRm1Ifc2bq9gIziWm-L5DwjFvZ9Ci9f1Bv5cfqF8sOc_ocvqaG6oL08IwJ0DGM9cLlk0rp0Essfg-_wDHlQ6Fo-lEyJR4USUdwZ_ADIXOdlGIwq)
+ - RSS feed: https://www.engadget.com
+ - date published: 2018-02-06 11:23:05+00:00
+ - user: rumpel
+ - tags: slave labour,hardware,smartphone
+
+
+## How Tencent became the world's most valuable social network firm – with barely any advertising
+ - [https://theconversation.com/how-tencent-became-the-worlds-most-valuable-social-network-firm-with-barely-any-advertising-90334](https://theconversation.com/how-tencent-became-the-worlds-most-valuable-social-network-firm-with-barely-any-advertising-90334)
+ - RSS feed: https://theconversation.com
+ - date published: 2018-01-18 11:13:42+00:00
+ - user: rumpel
+ - tags: china,corporatocracy,tencent
+
+
 ## Skygofree: Powerful Android spyware with advanced surveillance tools
  - [https://www.csoonline.com/article/3248825/security/skygofree-powerful-android-spyware-with-advanced-surveillance-tools.html](https://www.csoonline.com/article/3248825/security/skygofree-powerful-android-spyware-with-advanced-surveillance-tools.html)
  - RSS feed: www.csoonline.com
@@ -500,6 +516,14 @@
  - date published: 2018-01-16 16:34:58+00:00
  - user: rumpel
  - tags: feminism,inequality,peterson,cathy newman
+
+
+## Tencent, the $500bn Chinese tech firm you may never have heard of
+ - [https://www.theguardian.com/business/2018/jan/13/tencent-the-500bn-chinese-tech-firm-you-may-never-have-heard-of](https://www.theguardian.com/business/2018/jan/13/tencent-the-500bn-chinese-tech-firm-you-may-never-have-heard-of)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2018-01-13 08:00:00+00:00
+ - user: rumpel
+ - tags: china,tencent
 
 
 ## Prometheus Script Reveals TRUTH about Engineers, Black Goo and Deacon

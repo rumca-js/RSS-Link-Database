@@ -156,6 +156,14 @@
  - tags: surveillance,mcluhan,identity
 
 
+## Is my phone powered by child labour? - Amnesty International
+ - [https://www.amnesty.org/en/latest/campaigns/2016/06/drc-cobalt-child-labour/](https://www.amnesty.org/en/latest/campaigns/2016/06/drc-cobalt-child-labour/)
+ - RSS feed: https://www.amnesty.org
+ - date published: 2016-06-01 11:21:53+00:00
+ - user: rumpel
+ - tags: slave labour,hardware,smartphone
+
+
 ## Social Autopsy! - Ending Anonymity Online [BAD IDEA]
  - [https://www.youtube.com/watch?v=6SARo5HtjkQ](https://www.youtube.com/watch?v=6SARo5HtjkQ)
  - RSS feed: https://www.youtube.com/@ChrisRayGun

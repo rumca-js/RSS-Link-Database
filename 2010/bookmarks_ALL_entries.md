@@ -75,7 +75,7 @@
  - RSS feed: https://www.polityka.pl
  - date published: 2010-02-25 13:55:37+00:00
  - user: rumpel
- - tags: feminism,brainwashing,propaganda
+ - tags: feminism,socialism,brainwashing,propaganda
 
 
 ## Singletons Considered Harmful

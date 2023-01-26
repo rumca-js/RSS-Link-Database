@@ -237,6 +237,14 @@
  - tags: inequality,feminism,google,damore
 
 
+## How big brands including Sports Direct unwittingly used slave labour
+ - [https://www.theguardian.com/global-development/2017/aug/08/how-big-brands-including-sports-direct-unwittingly-used-slave-labour](https://www.theguardian.com/global-development/2017/aug/08/how-big-brands-including-sports-direct-unwittingly-used-slave-labour)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2017-08-08 06:00:31+00:00
+ - user: rumpel
+ - tags: uk,poland,slave labour
+
+
 ## SZWECJA: Terroryści są dobrymi rodzicami! Polakom zabiorą dzieci za nadopiekuńczość
  - [https://newsbook.pl/2017/08/05/szwecja-terrorysci-moga-byc-dobrymi-rodzicami-polakom-zabiora-dzieci-za-nadopiekunczosc](https://newsbook.pl/2017/08/05/szwecja-terrorysci-moga-byc-dobrymi-rodzicami-polakom-zabiora-dzieci-za-nadopiekunczosc)
  - RSS feed: https://newsbook.pl

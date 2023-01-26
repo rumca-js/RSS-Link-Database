@@ -1,3 +1,43 @@
+## In Argentina, getting a new SIM card will now require giving up biometric data
+ - [https://reclaimthenet.org/argentina-biometric/](https://reclaimthenet.org/argentina-biometric/)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2023-01-25 19:15:20+00:00
+ - user: rumpel
+ - tags: bigtech,bigbrother,biometric,facial recognition
+
+
+## citadel.org code of conduct
+ - [https://www.citadel.org/code_of_conduct.html](https://www.citadel.org/code_of_conduct.html)
+ - RSS feed: https://www.citadel.org
+ - date published: 2023-01-25 16:14:15+00:00
+ - user: rumpel
+ - tags: citadel,open source,code of conduct,woke
+
+
+## POSSE - IndieWeb
+ - [https://indieweb.org/POSSE](https://indieweb.org/POSSE)
+ - RSS feed: https://indieweb.org
+ - date published: 2023-01-25 13:27:47+00:00
+ - user: rumpel
+ - tags: selfhost
+
+
+## Appliance makers sad that 50% of customers won’t connect smart appliances
+ - [https://arstechnica.com/gadgets/2023/01/half-of-smart-appliances-remain-disconnected-from-internet-makers-lament/](https://arstechnica.com/gadgets/2023/01/half-of-smart-appliances-remain-disconnected-from-internet-makers-lament/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-01-24 19:04:31+00:00
+ - user: rumpel
+ - tags: smarthome,iot,privacy
+
+
+## Is AI the solution to search's problem?
+ - [https://lucaserb.substack.com/p/brief-bear](https://lucaserb.substack.com/p/brief-bear)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-01-24 17:17:27+00:00
+ - user: rumpel
+ - tags: algorithms,google search
+
+
 ## de🔸digger find public files in Google Drive
  - [https://www.dedigger.com/](https://www.dedigger.com/)
  - RSS feed: https://www.dedigger.com
@@ -488,7 +528,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2023-01-13 22:22:31+00:00
  - user: rumpel
- - tags: raspberry,digital bunker,smarthome
+ - tags: raspberry,digital bunker,smarthome,selfhost
 
 
 ## Private jet emissions sky-high at Davos, group says
@@ -608,7 +648,7 @@
  - RSS feed: https://nextcloud.com
  - date published: 2023-01-13 10:08:29+00:00
  - user: rumpel
- - tags: digital bunker,nas,smarthome,local cloud,programming
+ - tags: local cloud,smarthome,selfhost,nas,digital bunker,programming
 
 
 ## U.S. FDA, CDC see early signal of possible Pfizer bivalent COVID shot link to stroke | Reuters
@@ -1443,14 +1483,6 @@
  - date published: 2023-01-02 20:51:37.823485+00:00
  - user: rumpel
  - tags: socialism,america
-
-
-## YouTube to demonetize videos, including old videos, if they contain profanity in the first 8 seconds
- - [https://reclaimthenet.org/youtube-demonetizes-profanity-8-minutes/](https://reclaimthenet.org/youtube-demonetizes-profanity-8-minutes/)
- - RSS feed: https://reclaimthenet.org/feed/
- - date published: 2023-01-02 19:37:28+00:00
- - user: rumpel
- - tags: subscription,demonetize,youtube
 
 
 ## Bitcoin core developer claims to have lost 200 BTC in hack

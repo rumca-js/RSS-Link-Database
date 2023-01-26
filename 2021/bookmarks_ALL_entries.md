@@ -110,6 +110,7 @@
  - RSS feed: https://www.youtube.com/c/academyofideas
  - date published: 2021-12-28 21:15:53+00:00
  - user: None
+ - tags: totalitarianism,socialism
 
 
 ## Alexa tells 10-year-old girl to touch live plug with penny - BBC News
@@ -354,6 +355,14 @@
  - date published: 2021-12-16 11:34:52+00:00
  - user: None
  - tags: transmission,covid,vaccine
+
+
+## Documents link Huawei to Uyghur surveillance projects, report claims | Huawei | The Guardian
+ - [https://www.theguardian.com/technology/2021/dec/15/documents-link-huawei-uyghur-surveillance-projects-report-claims](https://www.theguardian.com/technology/2021/dec/15/documents-link-huawei-uyghur-surveillance-projects-report-claims)
+ - RSS feed: https://www.theguardian.com
+ - date published: 2021-12-15 13:39:46+00:00
+ - user: rumpel
+ - tags: genocide,uyghur,china,bigtech
 
 
 ## Unvaccinated Europeans Fight for Rights as COVID Restrictions Tighten
@@ -1673,6 +1682,22 @@
  - date published: 2021-10-07 16:31:39+00:00
  - user: rumpel
  - tags: covid,vaccine,moderna
+
+
+## Here’s exactly how social media algorithms can manipulate you - Big Think
+ - [https://bigthink.com/the-present/social-media-algorithms-manipulate-you/](https://bigthink.com/the-present/social-media-algorithms-manipulate-you/)
+ - RSS feed: https://bigthink.com
+ - date published: 2021-10-07 15:57:13+00:00
+ - user: rumpel
+ - tags: algorithms,social media,social engineering,bigtech
+
+
+## Saudi-Led Group Completes Purchase of Newcastle United - The New York Times
+ - [https://www.nytimes.com/2021/10/07/sports/soccer/newcastle-saudi-premier-league.html](https://www.nytimes.com/2021/10/07/sports/soccer/newcastle-saudi-premier-league.html)
+ - RSS feed: https://www.nytimes.com
+ - date published: 2021-10-07 11:09:33+00:00
+ - user: rumpel
+ - tags: human rights
 
 
 ## Whistleblower breaks Facebook secrecy wall, MP says - BBC News
@@ -3801,6 +3826,7 @@
  - RSS feed: https://www.youtube.com/21
  - date published: 2021-05-27 21:17:48+00:00
  - user: None
+ - tags: socialism,america
 
 
 ## Microsoft president: Orwell’s 1984 could happen in 2024
@@ -4232,6 +4258,14 @@
  - date published: 2021-03-21 18:27:24+00:00
  - user: rumpel
  - tags: pfizer,money,covid
+
+
+## How Reddit Makes Money
+ - [https://www.investopedia.com/articles/investing/093015/how-reddit-makes-money.asp](https://www.investopedia.com/articles/investing/093015/how-reddit-makes-money.asp)
+ - RSS feed: https://www.investopedia.com
+ - date published: 2021-03-21 14:06:54+00:00
+ - user: rumpel
+ - tags: ads,ad business
 
 
 ## Przez niemal pół wieku w Niemczech funkcjonował ruch dążący do legalizacji pedofilii. Wstrząsający raport

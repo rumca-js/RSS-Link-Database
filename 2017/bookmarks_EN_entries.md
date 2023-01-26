@@ -213,6 +213,14 @@
  - tags: inequality,feminism,google,damore
 
 
+## How big brands including Sports Direct unwittingly used slave labour
+ - [https://www.theguardian.com/global-development/2017/aug/08/how-big-brands-including-sports-direct-unwittingly-used-slave-labour](https://www.theguardian.com/global-development/2017/aug/08/how-big-brands-including-sports-direct-unwittingly-used-slave-labour)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2017-08-08 06:00:31+00:00
+ - user: rumpel
+ - tags: uk,poland,slave labour
+
+
 ## Joe Rogan & Ben Shapiro on the Transgender Movement, Men vs. Women in Sports
  - [https://www.youtube.com/watch?v=IdjdNgvF42o](https://www.youtube.com/watch?v=IdjdNgvF42o)
  - RSS feed: https://www.youtube.com

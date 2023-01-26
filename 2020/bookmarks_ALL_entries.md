@@ -627,7 +627,7 @@
  - RSS feed: https://nypost.com
  - date published: 2020-09-09 14:51:17+00:00
  - user: rumpel
- - tags: woke,hollywood,oscars
+ - tags: socialism,oscars,hollywood,woke
 
 
 ## Rak jest groźniejszy niż koronawirus!
@@ -658,7 +658,7 @@
  - RSS feed: https://southfloridagaynews.com
  - date published: 2020-09-02 21:12:40+00:00
  - user: rumpel
- - tags: lgbt,inequality
+ - tags: inequality,lgbt,socialism
 
 
 ## Academics Are Really, Really Worried About Their Freedom
@@ -1080,6 +1080,14 @@
  - date published: 2020-06-26 07:32:08+00:00
  - user: None
  - tags: government,kentler,paedophilia,germany,bigbrother
+
+
+## What's been happening in China's Xinjiang, home to 11 million Uyghurs?
+ - [https://www.cnn.com/2020/06/19/asia/xinjiang-explainer-intl-hnk-scli/index.html](https://www.cnn.com/2020/06/19/asia/xinjiang-explainer-intl-hnk-scli/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2020-06-19 09:06:18+00:00
+ - user: rumpel
+ - tags: uyghur,china
 
 
 ## Przez 30 lat Berlin udostępniał dzieci pedofilom. Nazywano to "eksperymentem Kentlera" [RAPORT]

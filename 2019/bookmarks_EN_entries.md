@@ -205,6 +205,14 @@
  - tags: china,blizzard,censorship
 
 
+## Americans’ Views of ‘Socialism’ and ‘Capitalism’ In Their Own Words | Pew Research Center
+ - [https://www.pewresearch.org/politics/2019/10/07/in-their-own-words-behind-americans-views-of-socialism-and-capitalism/](https://www.pewresearch.org/politics/2019/10/07/in-their-own-words-behind-americans-views-of-socialism-and-capitalism/)
+ - RSS feed: https://www.pewresearch.org
+ - date published: 2019-10-07 14:16:45+00:00
+ - user: rumpel
+ - tags: socialism,america
+
+
 ## 'We are hurtling towards a surveillance state’: the rise of facial recognition technology
  - [https://www.theguardian.com/technology/2019/oct/05/facial-recognition-technology-hurtling-towards-surveillance-state](https://www.theguardian.com/technology/2019/oct/05/facial-recognition-technology-hurtling-towards-surveillance-state)
  - RSS feed: https://www.theguardian.com/rss
