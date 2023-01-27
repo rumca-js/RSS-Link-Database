@@ -1,3 +1,27 @@
+## Amazon Warns Employees to Beware of ChatGPT
+ - [https://gizmodo.com/amazon-chatgpt-ai-software-job-coding-1850034383](https://gizmodo.com/amazon-chatgpt-ai-software-job-coding-1850034383)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-01-26 17:45:00+00:00
+ - user: rumpel
+ - tags: artificial intelligence,amazon
+
+
+## Anti-abortion violence is the next wave of domestic terrorism
+ - [https://thehill.com/opinion/national-security/3831448-anti-abortion-violence-is-the-next-wave-of-domestic-terrorism/](https://thehill.com/opinion/national-security/3831448-anti-abortion-violence-is-the-next-wave-of-domestic-terrorism/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-01-26 17:30:00+00:00
+ - user: rumpel
+ - tags: abortion
+
+
+## Why is Trump allowed back on Facebook and will Meta’s ‘guardrails’ contain him?
+ - [https://www.theguardian.com/us-news/2023/jan/26/why-is-donald-trump-being-allowed-back-on-facebook-instagram-ban-meta-guardrails](https://www.theguardian.com/us-news/2023/jan/26/why-is-donald-trump-being-allowed-back-on-facebook-instagram-ban-meta-guardrails)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-01-26 05:26:18+00:00
+ - user: rumpel
+ - tags: facebook,moderation,censorship,trump,meta
+
+
 ## In Argentina, getting a new SIM card will now require giving up biometric data
  - [https://reclaimthenet.org/argentina-biometric/](https://reclaimthenet.org/argentina-biometric/)
  - RSS feed: https://reclaimthenet.org/feed/
@@ -30,6 +54,14 @@
  - tags: smarthome,iot,privacy
 
 
+## DOJ Sues Google, Seeking to Break Up Online Ad Business
+ - [https://www.wsj.com/articles/u-s-sues-google-for-alleged-antitrust-violations-in-its-ad-tech-business-11674582792?mod=rss_Technology](https://www.wsj.com/articles/u-s-sues-google-for-alleged-antitrust-violations-in-its-ad-tech-business-11674582792?mod=rss_Technology)
+ - RSS feed: https://feeds.a.dj.com/rss/RSSWSJD.xml
+ - date published: 2023-01-24 18:57:00+00:00
+ - user: rumpel
+ - tags: google,bigtech,bigbrother,ads
+
+
 ## Is AI the solution to search's problem?
  - [https://lucaserb.substack.com/p/brief-bear](https://lucaserb.substack.com/p/brief-bear)
  - RSS feed: https://hnrss.org/frontpage
@@ -44,6 +76,14 @@
  - date published: 2023-01-23 14:20:43+00:00
  - user: rumpel
  - tags: google,noprivacy
+
+
+## Judge questions clarity of new California law targeting doctors who share COVID-19 misinformation  Read more at: https://www.sacbee.com/news/politics-government/article271502447.html#storylink=cpy
+ - [https://www.sacbee.com/news/politics-government/article271502447.html](https://www.sacbee.com/news/politics-government/article271502447.html)
+ - RSS feed: https://www.sacbee.com
+ - date published: 2023-01-23 13:39:38+00:00
+ - user: rumpel
+ - tags: censorship,california,covid
 
 
 ## "Nie szczep się". Lekarze zniechęcający do szczepień mogą ponieść karę za swoją postawę
@@ -203,6 +243,14 @@
  - date published: 2023-01-19 22:23:16+00:00
  - user: rumpel
  - tags: subscription,twitter
+
+
+## Inside the Facebook Files: Emails Reveal CDC's Role in Stifling COVID Dissent
+ - [https://reason.com/2023/01/19/facebook-files-emails-cdc-covid-vaccines-censorship/](https://reason.com/2023/01/19/facebook-files-emails-cdc-covid-vaccines-censorship/)
+ - RSS feed: https://reason.com
+ - date published: 2023-01-19 20:54:18+00:00
+ - user: rumpel
+ - tags: covid,censorship
 
 
 ## Israel Ministry of Health Finds Pfizer Agreement After Claiming It Couldn’t Be Located
@@ -1212,6 +1260,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2023-01-06 06:58:31+00:00
  - user: rumpel
+ - tags: woke,trans
 
 
 ## Whatever happened to Google Search?

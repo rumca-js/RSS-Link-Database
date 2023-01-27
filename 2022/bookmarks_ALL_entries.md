@@ -2387,13 +2387,6 @@
  - tags: twitter; twitter files,free speech,censorship
 
 
-## Jordan Peterson fans flock to Sydney for 'Beyond Order: 12 More Rules for Life' lecture
- - [https://www.dailymail.co.uk/news/article-11472937/Jordan-Peterson-fans-flock-Sydney-Order-12-Rules-Life-lecture.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11472937/Jordan-Peterson-fans-flock-Sydney-Order-12-Rules-Life-lecture.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - RSS feed: https://www.dailymail.co.uk/news/index.rss
- - date published: 2022-12-03 20:11:22+00:00
- - user: None
-
-
 ## France prepares for possibility of electricity blackouts during winter months
  - [https://www.rfi.fr/en/france/20221201-how-france-is-preparing-to-avoid-a-major-blackout-this-winter](https://www.rfi.fr/en/france/20221201-how-france-is-preparing-to-avoid-a-major-blackout-this-winter)
  - RSS feed: https://hnrss.org/frontpage
@@ -2853,6 +2846,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-27 01:40:33+00:00
  - user: None
+ - tags: privacy,smarthome,hackers
 
 
 ## Cracking my windshield and earning $10,000 on the Tesla Bug Bounty Program | Sam Curry
@@ -3408,6 +3402,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-15 12:59:43+00:00
  - user: None
+ - tags: republicans,woke
 
 
 ## China zero Covid: Violent protests in Guangzhou put curbs under strain
@@ -3920,6 +3915,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-06 22:48:06+00:00
  - user: None
+ - tags: youwillownnothing,subscription,alexa
 
 
 ## Industry ethicist: Social media companies amplifying Americans' anger for profit - CBS News
@@ -3996,6 +3992,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-05 16:05:28+00:00
  - user: None
+ - tags: lockdown,covid,pandemic amnesty
 
 
 ## How Qatar bought up Britain
@@ -4256,6 +4253,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-02 19:47:04+00:00
  - user: None
+ - tags: criticalrace,blm
 
 
 ## Mark Zuckerberg’s metaverse is a joke not shared equally with investors  | Nils Pratley
@@ -4286,6 +4284,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-02 17:44:00+00:00
  - user: None
+ - tags: america,disinformation
 
 
 ## Gmail will track packages to help with your holiday shopping
@@ -4916,6 +4915,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-10-29 00:22:48+00:00
  - user: None
+ - tags: zerocovid,surveillance,china
 
 
 ## Researcher who wrote 2019 report on 'gaps' in IQ between 'whites' and 'blacks' hired by Cambridge
@@ -5322,14 +5322,6 @@
  - tags: tracking,intel management engine,surveillance
 
 
-## Trans comic's naked piano skit sparks nearly 1,500 Ofcom complaints
- - [https://www.dailymail.co.uk/news/article-11357127/Trans-comics-naked-piano-skit-sparks-nearly-1-500-Ofcom-complaints.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11357127/Trans-comics-naked-piano-skit-sparks-nearly-1-500-Ofcom-complaints.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - RSS feed: https://www.dailymail.co.uk/news/index.rss
- - date published: 2022-10-26 14:38:41+00:00
- - user: None
- - tags: trans,censorship,lgbt
-
-
 ## App Store developers aren’t happy with gambling app ads appearing beneath their listings
  - [https://www.theverge.com/2022/10/26/23424316/app-store-gambling-ads-listings-apple-developers](https://www.theverge.com/2022/10/26/23424316/app-store-gambling-ads-listings-apple-developers)
  - RSS feed: https://www.theverge.com/rss/index.xml
@@ -5381,6 +5373,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-10-26 11:21:48+00:00
  - user: None
+ - tags: totalitarianism,xijinping,china
 
 
 ## USA: Demokraci chcieli negocjacji z Rosją. Kontrowersyjny list do Bidena
@@ -6230,6 +6223,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-10-20 13:58:48+00:00
  - user: None
+ - tags: sunak,liztruss,england
 
 
 ## Telegram ukarany w Niemczech za odmowę wprowadzenia cenzury
@@ -6371,6 +6365,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-10-17 18:29:12+00:00
  - user: None
+ - tags: lockdown,fauci,covid
 
 
 ## Two thirds of voters say crime is up and blame 'woke politicians' for the rise
@@ -7210,13 +7205,6 @@
  - tags: amazon,monopoly
 
 
-## UK Government debt outlook is cut from 'stable' to 'NEGATIVE'
- - [https://www.dailymail.co.uk/news/article-11285371/UK-Government-debt-outlook-cut-stable-NEGATIVE.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11285371/UK-Government-debt-outlook-cut-stable-NEGATIVE.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - RSS feed: https://www.dailymail.co.uk/news/index.rss
- - date published: 2022-10-06 00:02:27+00:00
- - user: None
-
-
 ## Google will pay Arizona $85 million over illegally tracking Android users
  - [https://www.engadget.com/google-arizona-user-tracking-suit-85-million-191649436.html?src=rss](https://www.engadget.com/google-arizona-user-tracking-suit-85-million-191649436.html?src=rss)
  - RSS feed: https://www.engadget.com/rss.xml
@@ -7404,6 +7392,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-10-04 14:57:08+00:00
  - user: None
+ - tags: russia,ukraine,crisis,china
 
 
 ## Przedszkole LGBT w Berlinie. Kontrowersyjna postać w zarządzie
@@ -8144,6 +8133,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-27 15:25:12+00:00
  - user: None
+ - tags: scientology,kidman
 
 
 ## Cloudflare launches eSim to protect mobile devices
@@ -8525,6 +8515,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-24 05:27:50+00:00
  - user: None
+ - tags: disney,woke
 
 
 ## Taiwan official warns China, 'We will never surrender our freedom'
@@ -8865,6 +8856,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-21 21:17:25+00:00
  - user: None
+ - tags: florida,america,crime
 
 
 ## Florida asks Supreme Court to decide fight over social media regulation
@@ -8988,13 +8980,6 @@
  - [https://www.wykop.pl/link/6825921/pod-presja-usa-tureckie-banki-odcinaja-rosyjski-system-platnosci-mir/](https://www.wykop.pl/link/6825921/pod-presja-usa-tureckie-banki-odcinaja-rosyjski-system-platnosci-mir/)
  - RSS feed: https://www.wykop.pl/rss/index.xml/
  - date published: 2022-09-21 08:26:01+00:00
- - user: None
-
-
-## Zuckerberg's fortune falls by $71 billion so far this year as Facebook founder's net worth halves
- - [https://www.dailymail.co.uk/news/article-11233743/Zuckerbergs-fortune-falls-71-billion-far-year-Facebook-founders-net-worth-halves.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11233743/Zuckerbergs-fortune-falls-71-billion-far-year-Facebook-founders-net-worth-halves.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - RSS feed: https://www.dailymail.co.uk/news/index.rss
- - date published: 2022-09-21 06:13:50+00:00
  - user: None
 
 
@@ -9312,6 +9297,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-17 12:14:45+00:00
  - user: None
+ - tags: princeandrew,epstein
 
 
 ## Soft White Underbelly demonetized by YouTube [video]
@@ -9745,6 +9731,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-14 01:40:11+00:00
  - user: None
+ - tags: dark design,fastfood,kfc
 
 
 ## CNN cuts from coverage of Biden’s Inflation Reduction Act speech as Dow plummets: 'Hard to be celebratory'
@@ -9910,6 +9897,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-12 22:52:04+00:00
  - user: None
+ - tags: national debt
 
 
 ## Google zmienia zasady udostępniania ocen i recenzji w Play Store
@@ -10276,6 +10264,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-08 20:43:45+00:00
  - user: None
+ - tags: extremism,maga
 
 
 ## Why the iPhone 14's eSIM Might Be a Problem for You
@@ -10695,13 +10684,6 @@
  - user: None
 
 
-## Is Big Brother Britain about to become the world's ultimate surveillance state?
- - [https://www.dailymail.co.uk/news/article-11179641/Is-Big-Brother-Britain-worlds-ultimate-surveillance-state.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11179641/Is-Big-Brother-Britain-worlds-ultimate-surveillance-state.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - RSS feed: https://www.dailymail.co.uk/news/index.rss
- - date published: 2022-09-04 23:58:49+00:00
- - user: None
-
-
 ## The Isreali PECC We’ll have to think medico-legal – how to present our findings to avoid lawsuits
  - [https://twitter.com/PECC_eng/status/1566440239731712003](https://twitter.com/PECC_eng/status/1566440239731712003)
  - RSS feed: https://twitter.com
@@ -10780,6 +10762,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-03 21:28:31+00:00
  - user: None
+ - tags: blm,hipocrisy,blacklivesmatter
 
 
 ## Sondaż: 36% Niemców uważa, że Izrael traktuje Palestyńczyków jak naziści Żydów
@@ -10852,6 +10835,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-03 13:11:58+00:00
  - user: None
+ - tags: woke,propaganda,inequality
 
 
 ## Financial Regulation: Between Policy and Politics
@@ -10918,6 +10902,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-02 21:30:58+00:00
  - user: None
+ - tags: woke,brexit,england
 
 
 ## Google put Parler’s app back in the Play Store
@@ -10969,6 +10954,7 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-02 07:50:06+00:00
  - user: None
+ - tags: woke
 
 
 ## Google Blocks Truth Social from the Play Store – Will Apple Be Next?

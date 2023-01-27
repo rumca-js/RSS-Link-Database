@@ -890,14 +890,6 @@
  - tags: scienceisdead,universities,left,propaganda
 
 
-## Google przeprowadza czystkę w swojej wyszukiwarce usuwając wszystkie treści prawicowe
- - [https://zmianynaziemi.pl/wiadomosc/google-przeprowadza-czystke-w-swojej-wyszukiwarce-usuwajac-wszystkie-tresci-prawicowe](https://zmianynaziemi.pl/wiadomosc/google-przeprowadza-czystke-w-swojej-wyszukiwarce-usuwajac-wszystkie-tresci-prawicowe)
- - RSS feed: zmianynaziemi.pl
- - date published: 2020-07-24 06:55:51+00:00
- - user: None
- - tags: censorship,google
-
-
 ## Legal Docs: St. Louis Prosecutor Tampered With Evidence In McCloskey Gun Case
  - [https://thefederalist.com/2020/07/23/legal-docs-st-louis-prosecutor-tampered-with-evidence-in-mccloskey-gun-case](https://thefederalist.com/2020/07/23/legal-docs-st-louis-prosecutor-tampered-with-evidence-in-mccloskey-gun-case)
  - RSS feed: https://thefederalist.com
