@@ -546,6 +546,7 @@
  - RSS feed: https://wydarzenia.interia.pl/feed
  - date published: 2022-10-24 14:10:33+00:00
  - user: None
+ - tags: technlogy,smartphone
 
 
 ## USA: Odmówiła upieczenia tortu na ślub homoseksualnej pary. Sąd przyznał jej rację
@@ -554,27 +555,6 @@
  - date published: 2022-10-24 13:27:00+00:00
  - user: None
  - tags: lgbt
-
-
-## Kradną drewno, wycinają drzewa. Za "darmowy" opał mogą surowo zapłacić
- - [https://wydarzenia.interia.pl/raporty/raport-kryzys-energetyczny/aktualnosci/news-kradna-drewno-wycinaja-drzewa-za-darmowy-opal-moga-surowo-za,nId,6367314](https://wydarzenia.interia.pl/raporty/raport-kryzys-energetyczny/aktualnosci/news-kradna-drewno-wycinaja-drzewa-za-darmowy-opal-moga-surowo-za,nId,6367314)
- - RSS feed: https://wydarzenia.interia.pl/feed
- - date published: 2022-10-24 10:11:11+00:00
- - user: None
-
-
-## Sukcesy Izraela w Syrii. Poważne uderzenie w wojskową infrastrukturę Iranu
- - [https://wydarzenia.interia.pl/zagranica/news-sukcesy-izraela-w-syrii-powazne-uderzenie-w-wojskowa-infrast,nId,6367355](https://wydarzenia.interia.pl/zagranica/news-sukcesy-izraela-w-syrii-powazne-uderzenie-w-wojskowa-infrast,nId,6367355)
- - RSS feed: https://wydarzenia.interia.pl/feed
- - date published: 2022-10-24 09:40:01+00:00
- - user: None
-
-
-## Steam pobił nowy rekord. Ponad 30 mln użytkowników jednocześnie na platformie
- - [https://ithardware.pl/aktualnosci/steam_pobil_nowy_rekord_ponad_30_mln_uzytkownikow_jednoczesnie_na_platformie-23990.html](https://ithardware.pl/aktualnosci/steam_pobil_nowy_rekord_ponad_30_mln_uzytkownikow_jednoczesnie_na_platformie-23990.html)
- - RSS feed: https://ithardware.pl/feed
- - date published: 2022-10-24 06:10:00+00:00
- - user: None
 
 
 ## Chińskie procesory graficzne Biren nie zostaną wyprodukowane przez TSMC. Powodem są ograniczenia USA
@@ -618,6 +598,7 @@
  - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
  - date published: 2022-10-21 16:02:00+00:00
  - user: None
+ - tags: crysis,poland
 
 
 ## Depopulation Is Causing Economic Collapse And Is Going To Get Substantially Worse
@@ -742,6 +723,7 @@
  - RSS feed: https://www.polsatnews.pl/rss/swiat.xml
  - date published: 2022-10-09 06:56:00+00:00
  - user: None
+ - tags: elite,elon musk,bigtech,billionaires
 
 
 ## Czeka nas kolejna epidemia. Do 2050 roku ta wada będzie dotyczyć połowy ludzkości
@@ -756,6 +738,7 @@
  - RSS feed: https://www.wykop.pl/rss/index.xml/
  - date published: 2022-10-08 20:27:01+00:00
  - user: None
+ - tags: censorship,misinformation,paypal
 
 
 ## Gangi opanowały Haiti. Władze proszą zagranicę o przysłanie wojska
@@ -979,13 +962,6 @@
  - user: None
 
 
-## Polacy nie chcą powrotu obowiązkowej służby wojskowej. Najnowszy sondaż
- - [https://wydarzenia.interia.pl/kraj/news-polacy-nie-chca-powrotu-obowiazkowej-sluzby-wojskowej-najnow,nId,6323854](https://wydarzenia.interia.pl/kraj/news-polacy-nie-chca-powrotu-obowiazkowej-sluzby-wojskowej-najnow,nId,6323854)
- - RSS feed: https://wydarzenia.interia.pl/feed
- - date published: 2022-10-03 06:40:50+00:00
- - user: None
-
-
 ## Tesla bije rekordy, a i tak rozczarowuje
  - [https://www.bankier.pl/wiadomosc/Tesla-bije-rekordy-a-i-tak-rozczarowuje-8415997.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Tesla-bije-rekordy-a-i-tak-rozczarowuje-8415997.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
@@ -1198,13 +1174,6 @@
  - user: None
 
 
-## Prof. Bralczyk broni „Murzyna”. TikTok usuwa jego wypowiedź
- - [https://www.wykop.pl/link/6832099/prof-bralczyk-broni-murzyna-tiktok-usuwa-jego-wypowiedz/](https://www.wykop.pl/link/6832099/prof-bralczyk-broni-murzyna-tiktok-usuwa-jego-wypowiedz/)
- - RSS feed: https://www.wykop.pl/rss/index.xml/
- - date published: 2022-09-25 12:21:01+00:00
- - user: None
-
-
 ## Praca zdalna w Belgii coraz popularniejsza. Liczba osób wykonujących telepracę podwoiła się od 2018 roku
  - [https://www.bankier.pl/wiadomosc/Praca-zdalna-w-Belgii-coraz-popularniejsza-Liczba-osob-wykonujacych-teleprace-podwoila-sie-od-2018-roku-8408380.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Praca-zdalna-w-Belgii-coraz-popularniejsza-Liczba-osob-wykonujacych-teleprace-podwoila-sie-od-2018-roku-8408380.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
@@ -1330,6 +1299,14 @@
  - RSS feed: https://www.wykop.pl/rss/index.xml/
  - date published: 2022-09-21 08:26:01+00:00
  - user: None
+
+
+## Prof. Bralczyk broni „Murzyna”. TikTok usuwa jego wypowiedź - TrueStory
+ - [https://truestory.pl/prof-bralczyk-broni-murzyna-tiktok-usuwa-jego-wypowiedz/](https://truestory.pl/prof-bralczyk-broni-murzyna-tiktok-usuwa-jego-wypowiedz/)
+ - RSS feed: https://truestory.pl
+ - date published: 2022-09-20 10:00:53+00:00
+ - user: rumpel
+ - tags: murzyn,poland,political correctness
 
 
 ## How Singapore Got Insanely Rich
@@ -1531,6 +1508,7 @@
  - RSS feed: https://ithardware.pl/feed
  - date published: 2022-09-12 20:44:43+00:00
  - user: None
+ - tags: chomikuj,piracy
 
 
 ## Rodzice masowo odmawiają obowiązkowych szczepień. Padł rekord

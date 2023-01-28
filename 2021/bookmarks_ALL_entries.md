@@ -2478,6 +2478,14 @@
  - user: Thomas Pain
 
 
+## ‘Picking quarrels and provoking trouble’: how China’s catch-all crime muzzles dissent | South China Morning Post
+ - [https://www.scmp.com/news/china/politics/article/3146188/picking-quarrels-and-provoking-trouble-how-chinas-catch-all](https://www.scmp.com/news/china/politics/article/3146188/picking-quarrels-and-provoking-trouble-how-chinas-catch-all)
+ - RSS feed: https://www.scmp.com
+ - date published: 2021-08-25 16:02:03+00:00
+ - user: rumpel
+ - tags: propaganda,censorship,surveillance,china,misinformation
+
+
 ## JJ Chalmers: Meeting the pilot who flew me home injured from Afghanistan - BBC News
  - [https://www.bbc.co.uk/news/disability-58329277](https://www.bbc.co.uk/news/disability-58329277)
  - RSS feed: https://www.bbc.co.uk
@@ -3527,13 +3535,6 @@
  - user: Thomas Pain
 
 
-## Six Years of BookStack · BookStack
- - [https://www.bookstackapp.com/blog/6-years-of-bookstack/](https://www.bookstackapp.com/blog/6-years-of-bookstack/)
- - RSS feed: https://www.bookstackapp.com
- - date published: 2021-07-14 06:19:47.999514+00:00
- - user: Thomas Pain
-
-
 ## Update: SaveVideo is Back: u_SaveVideo
  - [https://www.reddit.com/user/SaveVideo/comments/ojohbq/update_savevideo_is_back/?utm_source=reddit&utm_medium=usertext&utm_name=u_SaveVideo&utm_content=t3_oimo6y](https://www.reddit.com/user/SaveVideo/comments/ojohbq/update_savevideo_is_back/?utm_source=reddit&utm_medium=usertext&utm_name=u_SaveVideo&utm_content=t3_oimo6y)
  - RSS feed: https://www.reddit.com
@@ -4037,6 +4038,14 @@
  - date published: 2021-04-30 22:23:58+00:00
  - user: rumpel
  - tags: kids,indoctrination,paedophilia,sexualisation
+
+
+## Bill Gates turned his $55 million vaccine investment in Pfizer’s partner, BioNTech, into over $550 million in just under two years – Top Startups 2023 | Startups News
+ - [https://techstartups.com/2021/04/30/bill-gates-turned-55-million-investment-pfizers-partner-biontech-550-million-just-two-years/](https://techstartups.com/2021/04/30/bill-gates-turned-55-million-investment-pfizers-partner-biontech-550-million-just-two-years/)
+ - RSS feed: https://techstartups.com
+ - date published: 2021-04-30 21:26:09+00:00
+ - user: rumpel
+ - tags: covid,pfizer,mrna,vaccine,biontech
 
 
 ## TERREG: European Parliament confirms new online censorship powers
@@ -4567,6 +4576,14 @@
  - date published: 2021-01-11 13:17:34+00:00
  - user: rumpel
  - tags: democracy,bigtech,freedom,bigbrother,censorship,moderation
+
+
+## the darkness of 'first reformed'
+ - [https://youtu.be/piyXjIO46uE](https://youtu.be/piyXjIO46uE)
+ - RSS feed: https://youtu.be
+ - date published: 2021-01-09 21:02:19+00:00
+ - user: rumpel
+ - tags: first reformed,movies
 
 
 ## Covid in Scotland: Police warn against lockdown protest

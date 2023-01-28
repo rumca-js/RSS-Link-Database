@@ -161,6 +161,14 @@
  - tags: twitter files,shadowban,jackdorsey,twitter
 
 
+## Can mRNA disrupt the drug industry?
+ - [https://cen.acs.org/business/start-ups/mRNA-disrupt-drug-industry/96/i35](https://cen.acs.org/business/start-ups/mRNA-disrupt-drug-industry/96/i35)
+ - RSS feed: https://cen.acs.org
+ - date published: 2018-09-03 21:24:57+00:00
+ - user: rumpel
+ - tags: covid,pfizer,mrna,vaccine,biontech
+
+
 ## Capitalism, Socialism and Democracy
  - [https://notrelated.xyz/audio/s01/S01E02_-_Capitalism_Socialism_and_Democracy.mp3](https://notrelated.xyz/audio/s01/S01E02_-_Capitalism_Socialism_and_Democracy.mp3)
  - RSS feed: https://notrelated.xyz/rss
@@ -220,6 +228,14 @@
  - RSS feed: https://notrelated.xyz/rss
  - date published: 2018-08-17 04:00:00+00:00
  - user: None
+
+
+## Pfizer bets on biotech flu vaccine in $425 million BioNTech alliance | Reuters
+ - [https://www.reuters.com/article/us-pfizer-biontech-alliance-idUSKBN1L10F5](https://www.reuters.com/article/us-pfizer-biontech-alliance-idUSKBN1L10F5)
+ - RSS feed: https://www.reuters.com
+ - date published: 2018-08-16 21:23:22+00:00
+ - user: rumpel
+ - tags: covid,pfizer,mrna,vaccine,biontech
 
 
 ## What are the most pressing world problems?

@@ -4951,6 +4951,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-10-25 22:31:24+00:00
  - user: None
+ - tags: covid,vaccine
 
 
 ## Google and Microsoft hit by slowing economy
@@ -5251,6 +5252,7 @@
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-10-23 16:53:42+00:00
  - user: None
+ - tags: covid,canada,sorry
 
 
 ## Facebook warns it could block news in Canada over proposed legislation
@@ -5298,13 +5300,6 @@
  - date published: 2022-10-22 19:00:17+00:00
  - user: rumpel
  - tags: surveillance,facialrecognition,bigbrother
-
-
-## 3-3 Natural Deduction | BookStack
- - [https://wiki.akpain.net/books/35324-mathematical-and-logical-foundations-of-computer-science/page/3-3-natural-deduction#bkmrk-inference-rules](https://wiki.akpain.net/books/35324-mathematical-and-logical-foundations-of-computer-science/page/3-3-natural-deduction#bkmrk-inference-rules)
- - RSS feed: https://wiki.akpain.net
- - date published: 2022-10-22 16:40:49.696349+00:00
- - user: Thomas Pain
 
 
 ## CNN claims pets have big climate impact, advises buying ‘smaller breeds’, feed them ‘insect-based food'
@@ -5974,6 +5969,7 @@
  - RSS feed: https://www.dailywire.com/feeds/rss.xml
  - date published: 2022-10-11 18:47:42+00:00
  - user: None
+ - tags: whatisawoman,woke,rogan
 
 
 ## Florida surgeon general blocked from sharing COVID vaccine study on Twitter: 'An enormous deal'
@@ -6003,6 +5999,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-10-11 17:04:47+00:00
  - user: None
+ - tags: selfhost,digital bunker
 
 
 ## Elon Musk Claims Twitter Forced Whistleblower to Burn Evidence
@@ -6123,13 +6120,6 @@
  - tags: free speech,misinformation,censorship,paypal
 
 
-## 12,000 Facebook employees, 15% of its workforce, may lose jobs amid quiet layoff
- - [https://www.businessinsider.in/tech/news/12000-facebook-employees-15-of-its-workforce-may-lose-jobs-amid-quiet-layoffs-report/articleshow/94676235.cms](https://www.businessinsider.in/tech/news/12000-facebook-employees-15-of-its-workforce-may-lose-jobs-amid-quiet-layoffs-report/articleshow/94676235.cms)
- - RSS feed: https://hnrss.org/frontpage
- - date published: 2022-10-10 07:21:45+00:00
- - user: None
-
-
 ## A Florida Mom Claimed Trans Organ Harvesters Abducted Her Son. He Had Simply Moved Out | Them
  - [https://www.them.us/story/florida-mom-trans-organ-harvesters](https://www.them.us/story/florida-mom-trans-organ-harvesters)
  - RSS feed: https://www.them.us
@@ -6227,26 +6217,12 @@
  - tags: new york,migrant,migration,crisis
 
 
-## Lifetime Access To 10TB Of Cloud Storage For $70
- - [https://www.gamespot.com/articles/lifetime-access-to-10tb-of-cloud-storage-for-70/1100-6504123/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/lifetime-access-to-10tb-of-cloud-storage-for-70/1100-6504123/?ftag=CAD-01-10abi2f)
- - RSS feed: https://www.gamespot.com/feeds/mashup
- - date published: 2022-10-07 18:08:00+00:00
- - user: None
-
-
 ## Stonewall survey finds more than a quarter of 'Gen Z' 16 to 25-year-olds identify as LGBTQ
  - [https://www.dailymail.co.uk/news/article-11292135/Stonewall-survey-finds-quarter-Gen-Z-16-25-year-olds-identify-LGBTQ.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11292135/Stonewall-survey-finds-quarter-Gen-Z-16-25-year-olds-identify-LGBTQ.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-10-07 16:52:49+00:00
  - user: None
  - tags: genz,lgbt
-
-
-## Comic Con returns to New York City with mask mandate STILL in place
- - [https://www.dailymail.co.uk/news/article-11291433/Comic-returns-New-York-City-mask-mandate-place.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11291433/Comic-returns-New-York-City-mask-mandate-place.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - RSS feed: https://www.dailymail.co.uk/news/index.rss
- - date published: 2022-10-07 15:14:12+00:00
- - user: None
 
 
 ## Biden issues order boosting privacy checks for data flows from Europe
@@ -6356,13 +6332,6 @@
  - user: None
 
 
-## Tesco: People watching every penny to make ends meet
- - [https://www.bbc.co.uk/news/business-63141261?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63141261?at_medium=RSS&at_campaign=KARANGA)
- - RSS feed: http://feeds.bbci.co.uk/news/rss.xml
- - date published: 2022-10-05 06:19:47+00:00
- - user: None
-
-
 ## Open source development is not sustainable
  - [https://staltz.com/software-below-the-poverty-line.html](https://staltz.com/software-below-the-poverty-line.html)
  - RSS feed: https://hnrss.org/frontpage
@@ -6418,6 +6387,7 @@
  - RSS feed: https://www.engadget.com/rss.xml
  - date published: 2022-10-04 19:46:52+00:00
  - user: None
+ - tags: elon musk,twitter
 
 
 ## Meta’s shutting down its Substack competitor after less than two years
@@ -6439,6 +6409,7 @@
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-10-04 16:10:21+00:00
  - user: None
+ - tags: lgbt,drag shows,sexualisation
 
 
 ## CIA director Bill Burns says China's Xi has been 'sobered' by Russia's 'poor performance' in Ukraine
@@ -6490,6 +6461,7 @@
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2022-10-04 09:02:03+00:00
  - user: None
+ - tags: extinctions,australia
 
 
 ## When A Brand Becomes More Popular Than The Meaning Of The Word In Google
@@ -6521,13 +6493,6 @@
  - date published: 2022-10-03 20:50:12+00:00
  - user: None
  - tags: covid,misinformation,censorhip
-
-
-## Recession in Australia: How could you be affected?
- - [https://www.dailymail.co.uk/news/article-11261431/Recession-Australia-affected.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11261431/Recession-Australia-affected.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - RSS feed: https://www.dailymail.co.uk/news/index.rss
- - date published: 2022-10-03 19:42:25+00:00
- - user: None
 
 
 ## U.S. Said to Plan New Limits on China’s A.I. and Supercomputing Firms
@@ -6628,6 +6593,7 @@
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-10-01 09:00:26+00:00
  - user: None
+ - tags: zerocovid,china
 
 
 ## A study of lights at night suggests dictators lie about economic growth
@@ -6642,6 +6608,7 @@
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-10-01 03:14:54+00:00
  - user: None
+ - tags: openai,delle,artificial intelligence
 
 
 ## Tesla debuts an actual, mechanical prototype of its Optimus robot
@@ -6655,13 +6622,6 @@
  - [https://www.foxnews.com/health/two-thirds-us-adults-do-not-plan-getting-covid-boosters](https://www.foxnews.com/health/two-thirds-us-adults-do-not-plan-getting-covid-boosters)
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-10-01 00:58:02+00:00
- - user: None
-
-
-## Mark Zuckerberg tells workers Meta will freeze hiring and 'steadily reduce headcount growth'
- - [https://www.dailymail.co.uk/news/article-11268851/Mark-Zuckerberg-tells-workers-Meta-freeze-hiring-steadily-reduce-headcount-growth.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11268851/Mark-Zuckerberg-tells-workers-Meta-freeze-hiring-steadily-reduce-headcount-growth.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - RSS feed: https://www.dailymail.co.uk/news/index.rss
- - date published: 2022-10-01 00:23:01+00:00
  - user: None
 
 
@@ -6688,13 +6648,6 @@
  - user: None
 
 
-## Fed's preferred inflation measure remains stubbornly high at 6.2%
- - [https://www.dailymail.co.uk/news/article-11268085/Feds-preferred-inflation-measure-remains-stubbornly-high-6-2.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11268085/Feds-preferred-inflation-measure-remains-stubbornly-high-6-2.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - RSS feed: https://www.dailymail.co.uk/news/index.rss
- - date published: 2022-09-30 20:10:35+00:00
- - user: None
-
-
 ## Blizzard is trying to get more LGBTQ+ players in the Overwatch League
  - [https://www.pcgamer.com/blizzard-is-trying-to-get-more-lgbtq-players-in-the-overwatch-league](https://www.pcgamer.com/blizzard-is-trying-to-get-more-lgbtq-players-in-the-overwatch-league)
  - RSS feed: http://www.pcgamer.com/rss
@@ -6708,6 +6661,7 @@
  - RSS feed: https://gizmodo.com/rss
  - date published: 2022-09-30 19:10:00+00:00
  - user: None
+ - tags: surveillance,privacy,amazon,tracking
 
 
 ## Brave is about to solve one of the most frustrating problems with browsing the web
@@ -6775,18 +6729,12 @@
  - user: None
 
 
-## Meta Will Freeze Most Hiring, Zuckerberg Tells Employees
- - [https://www.nytimes.com/2022/09/29/technology/meta-hiring-freeze.html](https://www.nytimes.com/2022/09/29/technology/meta-hiring-freeze.html)
- - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
- - date published: 2022-09-29 20:02:28+00:00
- - user: None
-
-
 ## RIP, Stadia: Google gives up its game streaming ghost
  - [https://www.pcworld.com/article/1338418/rip-stadia-google-gives-up-its-game-streaming-ghost.html](https://www.pcworld.com/article/1338418/rip-stadia-google-gives-up-its-game-streaming-ghost.html)
  - RSS feed: https://www.pcworld.com/index.rss
  - date published: 2022-09-29 17:19:06+00:00
  - user: None
+ - tags: youwillownnothing,google,stadia,subscription
 
 
 ## China’s ‘Absurd’ Covid Propaganda Stirs Rebellion
@@ -6801,6 +6749,7 @@
  - RSS feed: http://www.reddit.com/.rss
  - date published: 2022-09-29 14:06:04+00:00
  - user: None
+ - tags: youwillownnothing,subscription
 
 
 ## YouTube Says Giorgia Meloni Video Was Removed in Error, Restores It After Inquiry
@@ -6888,6 +6837,7 @@
  - RSS feed: https://www.theverge.com/rss/index.xml
  - date published: 2022-09-28 17:00:00+00:00
  - user: None
+ - tags: openai,delle,artificial intelligence
 
 
 ## Use This App to Block Ads and Reels From Instagram
@@ -6923,6 +6873,7 @@
  - RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
  - date published: 2022-09-27 23:25:50+00:00
  - user: None
+ - tags: cia,nordstream,russia
 
 
 ## SSD could hasten demise of HDD as price parity looms in 2023
@@ -7485,6 +7436,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-22 13:37:42+00:00
  - user: None
+ - tags: corporatocracy,bigtech,monopoly,google
 
 
 ## Censorship by Big Tech at the behest of the U.S. government
@@ -7499,13 +7451,6 @@
  - [https://www.dailymail.co.uk/news/article-11237683/Meta-aims-slash-costs-10-MONTHS-nudging-staff.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11237683/Meta-aims-slash-costs-10-MONTHS-nudging-staff.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-09-22 04:28:25+00:00
- - user: None
-
-
-## Fauci say he is 'not going to retire in the traditional sense,' admits lockdowns were 'draconian'
- - [https://www.dailymail.co.uk/news/article-11237333/Fauci-say-not-going-retire-traditional-sense-admits-lockdowns-draconian.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11237333/Fauci-say-not-going-retire-traditional-sense-admits-lockdowns-draconian.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - RSS feed: https://www.dailymail.co.uk/news/index.rss
- - date published: 2022-09-22 02:55:06+00:00
  - user: None
 
 
@@ -7623,6 +7568,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-21 08:59:23+00:00
  - user: None
+ - tags: euthanasia,canada,social engineering
 
 
 ## Google now lets you request the removal of search results that contain personal data
@@ -8026,6 +7972,7 @@
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-09-15 16:44:10+00:00
  - user: None
+ - tags: linux,kernel,rust,programming
 
 
 ## Ethereum completes the “Merge,” which ends mining and cuts energy use by 99.95%
@@ -8621,13 +8568,6 @@
  - date published: 2022-09-09 10:30:55.970530+00:00
  - user: None
  - tags: privacy,bigtech,social media,surveillance,internet
-
-
-## BookStack Release v22.09 · BookStack
- - [https://www.bookstackapp.com/blog/bookstack-release-v22-09/](https://www.bookstackapp.com/blog/bookstack-release-v22-09/)
- - RSS feed: https://www.bookstackapp.com
- - date published: 2022-09-09 08:52:49.306365+00:00
- - user: Thomas Pain
 
 
 ## Developing Situation: Something is up with Patreon - Xe

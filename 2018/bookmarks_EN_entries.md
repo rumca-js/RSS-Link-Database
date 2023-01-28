@@ -206,6 +206,14 @@
  - user: None
 
 
+## Pfizer bets on biotech flu vaccine in $425 million BioNTech alliance | Reuters
+ - [https://www.reuters.com/article/us-pfizer-biontech-alliance-idUSKBN1L10F5](https://www.reuters.com/article/us-pfizer-biontech-alliance-idUSKBN1L10F5)
+ - RSS feed: https://www.reuters.com
+ - date published: 2018-08-16 21:23:22+00:00
+ - user: rumpel
+ - tags: covid,pfizer,mrna,vaccine,biontech
+
+
 ## What are the most pressing world problems?
  - [https://80000hours.org/problem-profiles/](https://80000hours.org/problem-profiles/)
  - RSS feed: https://80000hours.org

@@ -1,3 +1,67 @@
+## AI, Art and the Lawsuits
+ - [https://www.youtube.com/watch?v=aRPY0ctBCzM](https://www.youtube.com/watch?v=aRPY0ctBCzM)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UClozNP-QPyVatzpGKC25s0A
+ - date published: 2023-01-27 14:00:03+00:00
+ - user: rumpel
+ - tags: artificial intelligence,law
+
+
+## What is PeerTube? | JoinPeerTube
+ - [https://joinpeertube.org/](https://joinpeertube.org/)
+ - RSS feed: https://joinpeertube.org
+ - date published: 2023-01-27 10:15:02+00:00
+ - user: rumpel
+ - tags: selfhost,open source,digital bunker
+
+
+## citadel.org
+ - [https://www.citadel.org/](https://www.citadel.org/)
+ - RSS feed: https://www.citadel.org
+ - date published: 2023-01-27 10:14:04+00:00
+ - user: rumpel
+ - tags: smarthome,selfhost,digital bunker
+
+
+## TrueNAS - Welcome to the Open Storage Era
+ - [https://www.truenas.com/](https://www.truenas.com/)
+ - RSS feed: https://www.truenas.com
+ - date published: 2023-01-27 10:13:25+00:00
+ - user: rumpel
+ - tags: smarthome,selfhost,digital bunker
+
+
+## BookStack
+ - [https://www.bookstackapp.com/](https://www.bookstackapp.com/)
+ - RSS feed: https://www.bookstackapp.com
+ - date published: 2023-01-27 10:11:32+00:00
+ - user: rumpel
+ - tags: selfhost,open source,digital bunker
+
+
+## Sci-Hub: knowledge as a human right
+ - [https://sci-hub.ru/](https://sci-hub.ru/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-01-27 01:52:22+00:00
+ - user: rumpel
+ - tags: science
+
+
+## Why VR/AR gets farther away as it comes into focus
+ - [https://www.matthewball.vc/all/why-vrar-gets-farther-away-as-it-comes-into-focus](https://www.matthewball.vc/all/why-vrar-gets-farther-away-as-it-comes-into-focus)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-01-27 00:02:02+00:00
+ - user: rumpel
+ - tags: virtual reality,augmented reality
+
+
+## A Federal Court Blocks California’s New Medical Misinformation Law
+ - [https://www.nytimes.com/2023/01/26/technology/federal-court-blocks-california-medical-misinformation-law.html](https://www.nytimes.com/2023/01/26/technology/federal-court-blocks-california-medical-misinformation-law.html)
+ - RSS feed: http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
+ - date published: 2023-01-26 23:47:04+00:00
+ - user: rumpel
+ - tags: misinformation,covid,california
+
+
 ## Amazon Warns Employees to Beware of ChatGPT
  - [https://gizmodo.com/amazon-chatgpt-ai-software-job-coding-1850034383](https://gizmodo.com/amazon-chatgpt-ai-software-job-coding-1850034383)
  - RSS feed: https://gizmodo.com/rss
@@ -20,6 +84,14 @@
  - date published: 2023-01-26 05:26:18+00:00
  - user: rumpel
  - tags: facebook,moderation,censorship,trump,meta
+
+
+## Bill Gates MRNA Grift EXPOSED? Billionaire TRASHES Jab Despite Reaping MASSIVE Profits: Brie & Robby
+ - [https://www.youtube.com/watch?v=kGctGh3vvJg](https://www.youtube.com/watch?v=kGctGh3vvJg)
+ - RSS feed: https://www.youtube.com
+ - date published: 2023-01-25 21:28:07+00:00
+ - user: rumpel
+ - tags: bill gates,covid,mrna,vaccine
 
 
 ## In Argentina, getting a new SIM card will now require giving up biometric data
@@ -537,6 +609,14 @@
  - date published: 2023-01-14 10:21:59+00:00
  - user: rumpel
  - tags: vaccine
+
+
+## Lawsuit challenging Stable Diffusion filed against DeviantArt & others
+ - [https://stablediffusionlitigation.com/](https://stablediffusionlitigation.com/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-01-14 06:51:41+00:00
+ - user: rumpel
+ - tags: artificial intelligence,law
 
 
 ## Pierwsze odszkodowania za NOP-y już wypłacone. Kwota robi wrażenie
