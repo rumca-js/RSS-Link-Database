@@ -33,6 +33,7 @@
  - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
  - date published: 2022-12-27 10:15:00+00:00
  - user: rumpel
+ - tags: digital,legacy media
 
 
 ## Izraelska firma oferuje hackowanie kamer CCTV. Dostęp do feedów, zmiana feedów, dostęp do nagrań…
@@ -167,6 +168,7 @@
  - RSS feed: https://forsal.pl/.feed
  - date published: 2022-12-09 22:42:57+00:00
  - user: None
+ - tags: hypocrisy,coporatocracy,bigtech
 
 
 ## Niedzielski: Jest duża nadwyżka szczepionek przeciwko Covid-19

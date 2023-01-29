@@ -250,13 +250,6 @@
  - tags: war,zelensky,blackrock,ukraine
 
 
-## Epidemia grypy odbija się na firmach. Rekordowa liczba zwolnień lekarskich
- - [https://businessinsider.com.pl/wiadomosci/epidemia-grypy-odbija-sie-na-firmach-rekordowa-liczba-zwolnien/2v5vnck](https://businessinsider.com.pl/wiadomosci/epidemia-grypy-odbija-sie-na-firmach-rekordowa-liczba-zwolnien/2v5vnck)
- - RSS feed: https://businessinsider.com.pl/.feed
- - date published: 2022-12-28 06:30:27+00:00
- - user: rumpel
-
-
 ## Change These 5 Google Home Settings ASAP
  - [http://www.msn.com/en-us/news/technology/change-these-5-google-home-settings-asap/ar-AATb76i?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/change-these-5-google-home-settings-asap/ar-AATb76i?li=BBnbcA1&srcref=rss)
  - RSS feed: http://www.msn.com/rss/news.aspx
@@ -307,6 +300,7 @@
  - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
  - date published: 2022-12-27 10:15:00+00:00
  - user: rumpel
+ - tags: digital,legacy media
 
 
 ## GOP’s `anti-woke' crusade splits corporate America
@@ -566,6 +560,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-23 13:31:30+00:00
  - user: rumpel
+ - tags: rss
 
 
 ## DuckDuckGo Wants to Spare You From Annoying Google Sign-In Pop-Ups     - CNET
@@ -1295,7 +1290,7 @@
  - RSS feed: https://www.techradar.com/rss
  - date published: 2022-12-16 12:57:28+00:00
  - user: None
- - tags: maps,opensource,monopoly
+ - tags: open source,monopoly,maps
 
 
 ## Disputing A Parking Fine with ChatGPT - Notes by Lex
@@ -1887,6 +1882,7 @@
  - RSS feed: https://forsal.pl/.feed
  - date published: 2022-12-09 22:42:57+00:00
  - user: None
+ - tags: hypocrisy,coporatocracy,bigtech
 
 
 ## BlackRock CEO Larry Fink is called to quit by pension chief over ESG obsession
@@ -1988,6 +1984,7 @@
  - RSS feed: https://www.engadget.com/rss.xml
  - date published: 2022-12-08 12:40:13+00:00
  - user: None
+ - tags: manufacturing consent,bigbrother,google,oracle,pentagon,amazon,microsoft,bigtech
 
 
 ## WHO: COVID disruption resulted in 63,000 more malaria deaths
@@ -3017,6 +3014,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-24 05:09:28+00:00
  - user: None
+ - tags: google,open source,inequality
 
 
 ## New Visa Card Features Personal Carbon Emissions Tracker
@@ -3110,6 +3108,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-22 09:54:38+00:00
  - user: None
+ - tags: open source,voice assistant
 
 
 ## Hollywood elites crack down on Candace Cameron Bure, Elon Musk, Dave Chappelle, all in name of 'tolerance'
@@ -3331,7 +3330,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-16 15:29:11+00:00
  - user: None
- - tags: opensource,open source,tool rot
+ - tags: open source,tool rot
 
 
 ## Even a global recession may not crush inflation
@@ -3709,7 +3708,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-11-10 00:18:07+00:00
  - user: None
- - tags: opensource,open source,commercial,github
+ - tags: open source,commercial,github
 
 
 ## Zuckerberg's leaked email on VR strategy (2015)
@@ -5667,6 +5666,14 @@
  - date published: 2022-10-24 19:35:27+00:00
  - user: None
  - tags: hawei,spies,china
+
+
+## The EU's Proposed Cyber Resilience Act Will Damage the Open Source Ecosystem - Internet Society
+ - [https://www.internetsociety.org/blog/2022/10/the-eus-proposed-cyber-resilience-act-will-damage-the-open-source-ecosystem/](https://www.internetsociety.org/blog/2022/10/the-eus-proposed-cyber-resilience-act-will-damage-the-open-source-ecosystem/)
+ - RSS feed: https://www.internetsociety.org
+ - date published: 2022-10-24 19:03:22+00:00
+ - user: rumpel
+ - tags: open source,big brother
 
 
 ## Kids who play video games score higher on brain function tests
@@ -10536,7 +10543,7 @@
  - RSS feed: http://louderwithcrowder.com/feed/
  - date published: 2022-09-05 12:57:45+00:00
  - user: None
- - tags: woke,gender,pronouns,school
+ - tags: woke,pronouns,gender,newspeak,school
 
 
 ## I didn’t want it anywhere near me: how the Apple AirTag became a stalker's gift

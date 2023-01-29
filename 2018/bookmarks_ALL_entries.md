@@ -318,6 +318,22 @@
  - tags: censorship,moderation,facebook,pepe,pepethefrog
 
 
+## Google erases 'Don't be evil' from code of conduct after 18 years | ZDNET
+ - [https://www.zdnet.com/article/google-erases-dont-be-evil-from-code-of-conduct-after-18-years/](https://www.zdnet.com/article/google-erases-dont-be-evil-from-code-of-conduct-after-18-years/)
+ - RSS feed: https://www.zdnet.com
+ - date published: 2018-05-21 20:52:49+00:00
+ - user: rumpel
+ - tags: google,dontbeevil
+
+
+## Google quietly removes ‘don’t be evil’ preface from code of conduct | The Independent | The Independent
+ - [https://www.independent.co.uk/tech/google-dont-be-evil-code-conduct-removed-alphabet-a8361276.html](https://www.independent.co.uk/tech/google-dont-be-evil-code-conduct-removed-alphabet-a8361276.html)
+ - RSS feed: https://www.independent.co.uk
+ - date published: 2018-05-21 20:51:39+00:00
+ - user: rumpel
+ - tags: google,dontbeevil
+
+
 ## Jordan Peterson calmly dismantles feminism infront of two feminists
  - [https://www.youtube.com/watch?v=Ddzf9Mm4hdY](https://www.youtube.com/watch?v=Ddzf9Mm4hdY)
  - RSS feed: https://www.youtube.com

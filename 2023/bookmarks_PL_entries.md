@@ -1,3 +1,11 @@
+## Świat walczy o niskie emisje. I coraz bardziej lubi prywatne odrzutowce
+ - [https://300gospodarka.pl/news/swiat-walczy-o-niskie-emisje-ale-coraz-bardziej-lubi-prywatne-odrzutowce](https://300gospodarka.pl/news/swiat-walczy-o-niskie-emisje-ale-coraz-bardziej-lubi-prywatne-odrzutowce)
+ - RSS feed: https://300gospodarka.pl
+ - date published: 2023-01-28 14:51:13+00:00
+ - user: rumpel
+ - tags: climate change,carbon emissions
+
+
 ## "Nie szczep się". Lekarze zniechęcający do szczepień mogą ponieść karę za swoją postawę
  - [https://www.bankier.pl/wiadomosc/Nie-szczep-sie-Lekarze-zniechecajacy-do-szczepien-moga-poniesc-kare-za-swoja-postawe-8476698.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Nie-szczep-sie-Lekarze-zniechecajacy-do-szczepien-moga-poniesc-kare-za-swoja-postawe-8476698.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml

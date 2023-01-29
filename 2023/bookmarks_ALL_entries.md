@@ -1,3 +1,35 @@
+## What Are 'Dark Factories,' and Do They Exist?
+ - [https://www.grainger.com/know-how/industry/manufacturing/kh-what-is-a-dark-factory](https://www.grainger.com/know-how/industry/manufacturing/kh-what-is-a-dark-factory)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-01-28 19:06:40+00:00
+ - user: rumpel
+ - tags: dark factory,futurism
+
+
+## DoD FAQ: Is Open Source Software Commercial Software? Yes.
+ - [https://dodcio.defense.gov/Open-Source-Software-FAQ/#q-is-oss-commercial-software-is-it-cots](https://dodcio.defense.gov/Open-Source-Software-FAQ/#q-is-oss-commercial-software-is-it-cots)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-01-28 18:52:04+00:00
+ - user: rumpel
+ - tags: open source
+
+
+## BBC Modi Documentary Removal
+ - [https://blog.archive.org/2023/01/27/bbc-modi-documentary-removal/](https://blog.archive.org/2023/01/27/bbc-modi-documentary-removal/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-01-28 15:21:01+00:00
+ - user: rumpel
+ - tags: modi,india,censorship,bigbrother,bbc
+
+
+## Świat walczy o niskie emisje. I coraz bardziej lubi prywatne odrzutowce
+ - [https://300gospodarka.pl/news/swiat-walczy-o-niskie-emisje-ale-coraz-bardziej-lubi-prywatne-odrzutowce](https://300gospodarka.pl/news/swiat-walczy-o-niskie-emisje-ale-coraz-bardziej-lubi-prywatne-odrzutowce)
+ - RSS feed: https://300gospodarka.pl
+ - date published: 2023-01-28 14:51:13+00:00
+ - user: rumpel
+ - tags: climate change,carbon emissions
+
+
 ## AI, Art and the Lawsuits
  - [https://www.youtube.com/watch?v=aRPY0ctBCzM](https://www.youtube.com/watch?v=aRPY0ctBCzM)
  - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UClozNP-QPyVatzpGKC25s0A
@@ -38,6 +70,14 @@
  - tags: selfhost,open source,digital bunker
 
 
+## EU’s proposed CE mark for software could have dire impact on open source
+ - [https://devclass.com/2023/01/24/eus-proposed-ce-mark-for-software-could-have-dire-impact-on-open-source/](https://devclass.com/2023/01/24/eus-proposed-ce-mark-for-software-could-have-dire-impact-on-open-source/)
+ - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
+ - date published: 2023-01-27 05:00:00+00:00
+ - user: rumpel
+ - tags: open source,big brother
+
+
 ## Sci-Hub: knowledge as a human right
  - [https://sci-hub.ru/](https://sci-hub.ru/)
  - RSS feed: https://hnrss.org/frontpage
@@ -60,6 +100,14 @@
  - date published: 2023-01-26 23:47:04+00:00
  - user: rumpel
  - tags: misinformation,covid,california
+
+
+## India's ban on an unflattering BBC documentary about Prime Minister Modi sparks resistance and illicit screenings | Fortune
+ - [https://fortune.com/2023/01/25/india-modi-bbc-documentary-ban-social-media-anti-muslim-riots/](https://fortune.com/2023/01/25/india-modi-bbc-documentary-ban-social-media-anti-muslim-riots/)
+ - RSS feed: https://fortune.com
+ - date published: 2023-01-26 20:55:36+00:00
+ - user: rumpel
+ - tags: modi,india,censorship,bigbrother,bbc
 
 
 ## Amazon Warns Employees to Beware of ChatGPT
@@ -291,6 +339,7 @@
  - RSS feed: http://rss.cnn.com/rss/edition.rss
  - date published: 2023-01-20 14:07:43+00:00
  - user: rumpel
+ - tags: bigbrother,moderation,law,liability,twitter,microsoft,bigtech
 
 
 ## 300+ models of MSI motherboards have Secure Boot turned off. Is yours affected? | Ars Technica
@@ -346,7 +395,7 @@
  - RSS feed: https://www.techradar.com/rss
  - date published: 2023-01-19 16:08:10+00:00
  - user: rumpel
- - tags: linux,opensource,metaverse
+ - tags: linux,open source,metaverse
 
 
 ## Richard von Coudenhove-Kalergi - Wikipedia
@@ -426,6 +475,7 @@
  - RSS feed: https://www.theguardian.com/rss
  - date published: 2023-01-17 16:32:18+00:00
  - user: rumpel
+ - tags: woke,gender,law,scotland
 
 
 ## TAPES: We Investigated a Suburban LGBTQ Pedophile Ring. Here's What We Found.
@@ -1286,6 +1336,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2023-01-07 00:18:50+00:00
  - user: rumpel
+ - tags: programming,hardware,gui
 
 
 ## Masz radio w aucie? Musisz płacić abonament RTV. W 2023 wzrosły kary - Instalki.pl
@@ -1373,13 +1424,6 @@
  - date published: 2023-01-05 22:46:27+00:00
  - user: rumpel
  - tags: surveillance,bigbrother,gdpr,corporatocracy,ads
-
-
-## I Migrated from a Postgres Cluster to Distributed SQLite with LiteFS
- - [https://kentcdodds.com/blog/i-migrated-from-a-postgres-cluster-to-distributed-sqlite-with-litefs](https://kentcdodds.com/blog/i-migrated-from-a-postgres-cluster-to-distributed-sqlite-with-litefs)
- - RSS feed: https://hnrss.org/frontpage
- - date published: 2023-01-05 21:59:45+00:00
- - user: rumpel
 
 
 ## Advanced and easy YouTube archiver now stable
