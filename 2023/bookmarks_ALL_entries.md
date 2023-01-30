@@ -1,3 +1,27 @@
+## George Soros - Wikipedia
+ - [https://en.m.wikipedia.org/wiki/George_Soros](https://en.m.wikipedia.org/wiki/George_Soros)
+ - RSS feed: https://en.m.wikipedia.org
+ - date published: 2023-01-29 07:44:15+00:00
+ - user: rumpel
+ - tags: george soros
+
+
+## Reverse RSS Feed
+ - [https://www.jefftk.com/p/reverse-rss-feed](https://www.jefftk.com/p/reverse-rss-feed)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-01-29 01:09:52+00:00
+ - user: rumpel
+ - tags: rss
+
+
+## Army spied on lockdown critics: Sceptics, including Peter Hitchens, suspected they being watched
+ - [https://www.dailymail.co.uk/news/article-11687675/Army-spied-lockdown-critics-Sceptics-including-Peter-Hitchens-suspected-watched.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11687675/Army-spied-lockdown-critics-Sceptics-including-Peter-Hitchens-suspected-watched.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - RSS feed: https://www.dailymail.co.uk/news/index.rss
+ - date published: 2023-01-28 22:06:00+00:00
+ - user: rumpel
+ - tags: lockdown,covid
+
+
 ## What Are 'Dark Factories,' and Do They Exist?
  - [https://www.grainger.com/know-how/industry/manufacturing/kh-what-is-a-dark-factory](https://www.grainger.com/know-how/industry/manufacturing/kh-what-is-a-dark-factory)
  - RSS feed: https://hnrss.org/frontpage
@@ -43,7 +67,7 @@
  - RSS feed: https://joinpeertube.org
  - date published: 2023-01-27 10:15:02+00:00
  - user: rumpel
- - tags: selfhost,open source,digital bunker
+ - tags: selfhost,digital bunker
 
 
 ## citadel.org
@@ -67,7 +91,7 @@
  - RSS feed: https://www.bookstackapp.com
  - date published: 2023-01-27 10:11:32+00:00
  - user: rumpel
- - tags: selfhost,open source,digital bunker
+ - tags: selfhost,digital bunker
 
 
 ## EU’s proposed CE mark for software could have dire impact on open source
@@ -155,7 +179,7 @@
  - RSS feed: https://www.citadel.org
  - date published: 2023-01-25 16:14:15+00:00
  - user: rumpel
- - tags: citadel,open source,code of conduct,woke
+ - tags: code of conduct,woke,citadel
 
 
 ## POSSE - IndieWeb

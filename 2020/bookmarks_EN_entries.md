@@ -714,6 +714,14 @@
  - user: None
 
 
+## How George Soros broke the Bank of England | by Siddharth Singh | Zecide AI | Medium
+ - [https://medium.com/zecide-ai/how-george-soros-broke-the-bank-of-england-891611e9d8a6](https://medium.com/zecide-ai/how-george-soros-broke-the-bank-of-england-891611e9d8a6)
+ - RSS feed: https://medium.com
+ - date published: 2020-07-29 07:40:15+00:00
+ - user: rumpel
+ - tags: george soros
+
+
 ## Paedophile Labour councillor who worked in children's home walks free despite being caught with over one million child porn images including 12-year-old girls being raped
  - [https://www.dailymail.co.uk/news/article-8568833/Paedophile-Labour-councillor-worked-childrens-home-walks-free.html](https://www.dailymail.co.uk/news/article-8568833/Paedophile-Labour-councillor-worked-childrens-home-walks-free.html)
  - RSS feed: https://www.dailymail.co.uk

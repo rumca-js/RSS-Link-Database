@@ -3456,6 +3456,22 @@
  - user: None
 
 
+## New security requirements for open source in the EU
+ - [https://blog.nlnetlabs.nl/open-source-software-vs-the-cyber-resilience-act/](https://blog.nlnetlabs.nl/open-source-software-vs-the-cyber-resilience-act/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-11-14 14:33:31+00:00
+ - user: rumpel
+ - tags: open source
+
+
+## How Did George Soros Break the Bank of England?
+ - [https://www.investopedia.com/ask/answers/08/george-soros-bank-of-england.asp](https://www.investopedia.com/ask/answers/08/george-soros-bank-of-england.asp)
+ - RSS feed: https://www.investopedia.com
+ - date published: 2022-11-14 07:42:01+00:00
+ - user: rumpel
+ - tags: george soros
+
+
 ## NSA urges orgs to use memory-safe programming languages
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59484](https://www.codeproject.com/script/News/View.aspx?nwid=59484)
  - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
@@ -3746,6 +3762,14 @@
  - RSS feed: https://www.dailymail.co.uk/news/index.rss
  - date published: 2022-11-09 09:56:11+00:00
  - user: None
+
+
+## How China and Russia plan to launch a new currency
+ - [https://www.asiamarkets.com/china-russia-gold-reserve-currency/](https://www.asiamarkets.com/china-russia-gold-reserve-currency/)
+ - RSS feed: https://www.asiamarkets.com
+ - date published: 2022-11-09 08:02:07+00:00
+ - user: rumpel
+ - tags: petrodollar,crisis,china
 
 
 ## Disney now matches Netflix's subscriber numbers across its combined services
@@ -4807,6 +4831,14 @@
  - date published: 2022-10-30 08:04:48+00:00
  - user: None
  - tags: it,ffmpeg
+
+
+## Russia and China May be Preparing a New Gold-Backed Currency - Nicoya Research
+ - [https://nicoyaresearch.com/russia-and-china-may-be-preparing-a-new-gold-backed-currency/](https://nicoyaresearch.com/russia-and-china-may-be-preparing-a-new-gold-backed-currency/)
+ - RSS feed: https://nicoyaresearch.com
+ - date published: 2022-10-30 08:04:27+00:00
+ - user: rumpel
+ - tags: petrodollar,crisis,china
 
 
 ## Elon Musk, Bill Gates... 'We need to imagine new ways to control the propensity of billionaires to replace the State'
@@ -7184,6 +7216,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-10-05 18:18:31+00:00
  - user: None
+ - tags: open source
 
 
 ## Niemcy i Hiszpania nie zważają na sprzeciw Francji. Zbudują rurociąg MidCat
@@ -8874,6 +8907,14 @@
  - user: None
 
 
+## Entitlement in Open Source
+ - [https://mikemcquaid.com/entitlement-in-open-source/](https://mikemcquaid.com/entitlement-in-open-source/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2022-09-21 10:58:13+00:00
+ - user: rumpel
+ - tags: open source
+
+
 ## USA przeznaczy prawie 700 000 dolarów na szukanie „ekstremizmu” w grach wideo
  - [https://ithardware.pl/aktualnosci/usa_przeznaczy_prawie_700_000_dolarow_na_szukanie_ekstremizmu_w_grach_wideo-23418.html](https://ithardware.pl/aktualnosci/usa_przeznaczy_prawie_700_000_dolarow_na_szukanie_ekstremizmu_w_grach_wideo-23418.html)
  - RSS feed: https://ithardware.pl/feed
@@ -9886,6 +9927,14 @@
  - RSS feed: http://louderwithcrowder.com/feed/
  - date published: 2022-09-12 18:11:24+00:00
  - user: None
+
+
+## Patent troll attacks against open source projects are up 100% since last year. Here's why
+ - [https://www.zdnet.com/article/patent-troll-attacks-against-open-source-projects-are-up-100-since-last-year-heres-why/#ftag=RSSbaffb68](https://www.zdnet.com/article/patent-troll-attacks-against-open-source-projects-are-up-100-since-last-year-heres-why/#ftag=RSSbaffb68)
+ - RSS feed: http://www.zdnet.com/news/rss.xml
+ - date published: 2022-09-12 17:01:13+00:00
+ - user: rumpel
+ - tags: open source
 
 
 ## Google now owns the firm that found SolarWinds
