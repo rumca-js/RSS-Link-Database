@@ -1,3 +1,35 @@
+## Oops, I Did It Again: Apple Faces Fourth iPhone Privacy Lawsuit After Gizmodo Story
+ - [https://gizmodo.com/apple-iphone-analytics-privacy-4th-lawsuit-1850048418](https://gizmodo.com/apple-iphone-analytics-privacy-4th-lawsuit-1850048418)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-01-30 17:30:00+00:00
+ - user: rumpel
+ - tags: tracking,privacy,apple
+
+
+## It's not you, it's SQL
+ - [https://stack.convex.dev/not-sql](https://stack.convex.dev/not-sql)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-01-30 16:54:04+00:00
+ - user: rumpel
+ - tags: sql,programming
+
+
+## U.S. No Fly list publicly shared on a hacking forum, government investigating
+ - [https://www.bleepingcomputer.com/news/security/us-no-fly-list-shared-on-a-hacking-forum-government-investigating/](https://www.bleepingcomputer.com/news/security/us-no-fly-list-shared-on-a-hacking-forum-government-investigating/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-01-30 15:17:40+00:00
+ - user: rumpel
+ - tags: hack,noprivacy,leak
+
+
+## Utah bans gender-affirming surgery for young trans people
+ - [https://www.theguardian.com/us-news/2023/jan/30/utah-gender-affirming-care-ban-law](https://www.theguardian.com/us-news/2023/jan/30/utah-gender-affirming-care-ban-law)
+ - RSS feed: https://www.theguardian.com/world/rss
+ - date published: 2023-01-30 14:26:23+00:00
+ - user: rumpel
+ - tags: gender,trans
+
+
 ## George Soros - Wikipedia
  - [https://en.m.wikipedia.org/wiki/George_Soros](https://en.m.wikipedia.org/wiki/George_Soros)
  - RSS feed: https://en.m.wikipedia.org

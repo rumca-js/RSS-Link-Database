@@ -1,3 +1,59 @@
+## Oops, I Did It Again: Apple Faces Fourth iPhone Privacy Lawsuit After Gizmodo Story
+ - [https://gizmodo.com/apple-iphone-analytics-privacy-4th-lawsuit-1850048418](https://gizmodo.com/apple-iphone-analytics-privacy-4th-lawsuit-1850048418)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-01-30 17:30:00+00:00
+ - user: rumpel
+ - tags: tracking,privacy,apple
+
+
+## It's not you, it's SQL
+ - [https://stack.convex.dev/not-sql](https://stack.convex.dev/not-sql)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-01-30 16:54:04+00:00
+ - user: rumpel
+ - tags: sql,programming
+
+
+## Szwecja: Gangsterzy odwołali burmistrz. "Niektórzy ledwo znali język"
+ - [https://wydarzenia.interia.pl/zagranica/news-szwecja-gangsterzy-odwolali-burmistrz-niektorzy-ledwo-znali-,nId,6566587](https://wydarzenia.interia.pl/zagranica/news-szwecja-gangsterzy-odwolali-burmistrz-niektorzy-ledwo-znali-,nId,6566587)
+ - RSS feed: https://wydarzenia.interia.pl/feed
+ - date published: 2023-01-30 16:27:14+00:00
+ - user: rumpel
+ - tags: immigration,sweden
+
+
+## U.S. No Fly list publicly shared on a hacking forum, government investigating
+ - [https://www.bleepingcomputer.com/news/security/us-no-fly-list-shared-on-a-hacking-forum-government-investigating/](https://www.bleepingcomputer.com/news/security/us-no-fly-list-shared-on-a-hacking-forum-government-investigating/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-01-30 15:17:40+00:00
+ - user: rumpel
+ - tags: hack,noprivacy,leak
+
+
+## Utah bans gender-affirming surgery for young trans people
+ - [https://www.theguardian.com/us-news/2023/jan/30/utah-gender-affirming-care-ban-law](https://www.theguardian.com/us-news/2023/jan/30/utah-gender-affirming-care-ban-law)
+ - RSS feed: https://www.theguardian.com/world/rss
+ - date published: 2023-01-30 14:26:23+00:00
+ - user: rumpel
+ - tags: gender,trans
+
+
+## Aplikacja mObywatel zastąpi dowód osobisty w urzędach i bankach. Wiemy kiedy - Instalki.pl
+ - [https://www.instalki.pl/aktualnosci/software/57943-aplikacja-mobywatel-zamiast-dowodu-osobistego-bank-urzad-kiedy.html](https://www.instalki.pl/aktualnosci/software/57943-aplikacja-mobywatel-zamiast-dowodu-osobistego-bank-urzad-kiedy.html)
+ - RSS feed: https://www.instalki.pl
+ - date published: 2023-01-30 14:18:51.618654+00:00
+ - user: rumpel
+ - tags: digital identity,poland
+
+
+## Valve ignorowało śmierć Gorge'a Floyda i ruch BLM. Firma stanowczo odmawiała poparcia
+ - [https://ithardware.pl/aktualnosci/valve_nie_dalo_sie_wkrecic_w_smierc_gorge_a_floyda_i_ruch_blm_firma_stanowczo_odmawiala_poparcia-25560.html](https://ithardware.pl/aktualnosci/valve_nie_dalo_sie_wkrecic_w_smierc_gorge_a_floyda_i_ruch_blm_firma_stanowczo_odmawiala_poparcia-25560.html)
+ - RSS feed: https://ithardware.pl/feed
+ - date published: 2023-01-29 08:52:20+00:00
+ - user: rumpel
+ - tags: blm,valve
+
+
 ## George Soros - Wikipedia
  - [https://en.m.wikipedia.org/wiki/George_Soros](https://en.m.wikipedia.org/wiki/George_Soros)
  - RSS feed: https://en.m.wikipedia.org
@@ -188,6 +244,14 @@
  - date published: 2023-01-25 13:27:47+00:00
  - user: rumpel
  - tags: selfhost
+
+
+## Paczkomaty mają zniknąć. Miasto idzie na noże         - TELEPOLIS.PL
+ - [https://www.telepolis.pl/wiadomosci/wydarzenia/paczkomat-inpost-allegro-poznan](https://www.telepolis.pl/wiadomosci/wydarzenia/paczkomat-inpost-allegro-poznan)
+ - RSS feed: https://www.telepolis.pl
+ - date published: 2023-01-25 07:33:10+00:00
+ - user: rumpel
+ - tags: poland,paczkomaty
 
 
 ## Appliance makers sad that 50% of customers won’t connect smart appliances

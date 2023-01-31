@@ -1915,6 +1915,14 @@
  - tags: meta,facebook privacy,gdpr
 
 
+## How Embracing Digital Identity Can Benefit Governments, Companies And Individuals
+ - [https://www.forbes.com/sites/forbestechcouncil/2022/12/09/how-embracing-digital-identity-can-benefit-governments-companies-and-individuals/](https://www.forbes.com/sites/forbestechcouncil/2022/12/09/how-embracing-digital-identity-can-benefit-governments-companies-and-individuals/)
+ - RSS feed: https://www.forbes.com/innovation/feed2
+ - date published: 2022-12-09 14:30:00+00:00
+ - user: rumpel
+ - tags: propaganda,digital identity
+
+
 ## Niedzielski: Jest duża nadwyżka szczepionek przeciwko Covid-19
  - [https://forsal.pl/lifestyle/zdrowie/artykuly/8606647,nadwyzka-szczepionek-przeciwko-covid-19.html](https://forsal.pl/lifestyle/zdrowie/artykuly/8606647,nadwyzka-szczepionek-przeciwko-covid-19.html)
  - RSS feed: https://forsal.pl/.feed
@@ -3793,6 +3801,14 @@
  - date published: 2022-11-09 01:06:29+00:00
  - user: None
  - tags: lifestyle,programming
+
+
+## Apple Is Tracking You Even When Its Own Privacy Settings Say It’s Not, New Research Says
+ - [https://gizmodo.com/apple-iphone-analytics-tracking-even-when-off-app-store-1849757558](https://gizmodo.com/apple-iphone-analytics-tracking-even-when-off-app-store-1849757558)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2022-11-08 21:20:00+00:00
+ - user: rumpel
+ - tags: tracking,privacy,bigtech,apple
 
 
 ## The Lie That Facebook Sold You

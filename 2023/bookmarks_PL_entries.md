@@ -1,9 +1,41 @@
+## Szwecja: Gangsterzy odwołali burmistrz. "Niektórzy ledwo znali język"
+ - [https://wydarzenia.interia.pl/zagranica/news-szwecja-gangsterzy-odwolali-burmistrz-niektorzy-ledwo-znali-,nId,6566587](https://wydarzenia.interia.pl/zagranica/news-szwecja-gangsterzy-odwolali-burmistrz-niektorzy-ledwo-znali-,nId,6566587)
+ - RSS feed: https://wydarzenia.interia.pl/feed
+ - date published: 2023-01-30 16:27:14+00:00
+ - user: rumpel
+ - tags: immigration,sweden
+
+
+## Aplikacja mObywatel zastąpi dowód osobisty w urzędach i bankach. Wiemy kiedy - Instalki.pl
+ - [https://www.instalki.pl/aktualnosci/software/57943-aplikacja-mobywatel-zamiast-dowodu-osobistego-bank-urzad-kiedy.html](https://www.instalki.pl/aktualnosci/software/57943-aplikacja-mobywatel-zamiast-dowodu-osobistego-bank-urzad-kiedy.html)
+ - RSS feed: https://www.instalki.pl
+ - date published: 2023-01-30 14:18:51.618654+00:00
+ - user: rumpel
+ - tags: digital identity,poland
+
+
+## Valve ignorowało śmierć Gorge'a Floyda i ruch BLM. Firma stanowczo odmawiała poparcia
+ - [https://ithardware.pl/aktualnosci/valve_nie_dalo_sie_wkrecic_w_smierc_gorge_a_floyda_i_ruch_blm_firma_stanowczo_odmawiala_poparcia-25560.html](https://ithardware.pl/aktualnosci/valve_nie_dalo_sie_wkrecic_w_smierc_gorge_a_floyda_i_ruch_blm_firma_stanowczo_odmawiala_poparcia-25560.html)
+ - RSS feed: https://ithardware.pl/feed
+ - date published: 2023-01-29 08:52:20+00:00
+ - user: rumpel
+ - tags: blm,valve
+
+
 ## Świat walczy o niskie emisje. I coraz bardziej lubi prywatne odrzutowce
  - [https://300gospodarka.pl/news/swiat-walczy-o-niskie-emisje-ale-coraz-bardziej-lubi-prywatne-odrzutowce](https://300gospodarka.pl/news/swiat-walczy-o-niskie-emisje-ale-coraz-bardziej-lubi-prywatne-odrzutowce)
  - RSS feed: https://300gospodarka.pl
  - date published: 2023-01-28 14:51:13+00:00
  - user: rumpel
  - tags: climate change,carbon emissions
+
+
+## Paczkomaty mają zniknąć. Miasto idzie na noże         - TELEPOLIS.PL
+ - [https://www.telepolis.pl/wiadomosci/wydarzenia/paczkomat-inpost-allegro-poznan](https://www.telepolis.pl/wiadomosci/wydarzenia/paczkomat-inpost-allegro-poznan)
+ - RSS feed: https://www.telepolis.pl
+ - date published: 2023-01-25 07:33:10+00:00
+ - user: rumpel
+ - tags: poland,paczkomaty
 
 
 ## "Nie szczep się". Lekarze zniechęcający do szczepień mogą ponieść karę za swoją postawę
