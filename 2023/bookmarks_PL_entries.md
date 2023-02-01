@@ -1,3 +1,11 @@
+## Chaos na ulicach, szalejące ceny i zamęt nawet w kostnicach. RPA walczy o przetrwanie
+ - [https://wydarzenia.interia.pl/zagranica/news-chaos-na-ulicach-szalejace-ceny-i-zamet-nawet-w-kostnicach-r,nId,6568724](https://wydarzenia.interia.pl/zagranica/news-chaos-na-ulicach-szalejace-ceny-i-zamet-nawet-w-kostnicach-r,nId,6568724)
+ - RSS feed: https://wydarzenia.interia.pl/feed
+ - date published: 2023-01-31 14:46:23+00:00
+ - user: rumpel
+ - tags: crisis,rpa
+
+
 ## Szwecja: Gangsterzy odwołali burmistrz. "Niektórzy ledwo znali język"
  - [https://wydarzenia.interia.pl/zagranica/news-szwecja-gangsterzy-odwolali-burmistrz-niektorzy-ledwo-znali-,nId,6566587](https://wydarzenia.interia.pl/zagranica/news-szwecja-gangsterzy-odwolali-burmistrz-niektorzy-ledwo-znali-,nId,6566587)
  - RSS feed: https://wydarzenia.interia.pl/feed
@@ -46,6 +54,14 @@
  - tags: censorship,moderation,covid,vaccine
 
 
+## Japonia chce odwrócić trend demograficzny. Rząd sięgnie po bezprecedensowe środki
+ - [https://www.bankier.pl/wiadomosc/Japonia-chce-odwrocic-trend-demograficzny-Rzad-siegnie-po-bezprecedensowe-srodki-8476515.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Japonia-chce-odwrocic-trend-demograficzny-Rzad-siegnie-po-bezprecedensowe-srodki-8476515.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2023-01-23 09:00:00+00:00
+ - user: rumpel
+ - tags: japan,demographics
+
+
 ## Chiny, nieruchomości. Prezes Evergrande Hui Ka Yan stracił 93 procent majątku - TVN24 Biznes
  - [https://tvn24.pl/biznes/ze-swiata/chiny-nieruchomosci-prezes-evergrande-hui-ka-yan-stracil-93-procent-majatku-6643480](https://tvn24.pl/biznes/ze-swiata/chiny-nieruchomosci-prezes-evergrande-hui-ka-yan-stracil-93-procent-majatku-6643480)
  - RSS feed: https://tvn24.pl
@@ -84,6 +100,14 @@
  - date published: 2023-01-16 06:47:16+00:00
  - user: rumpel
  - tags: sony,censorship,youllownnothing,moderation
+
+
+## Demografia. Więcej niż wyzwanie dekady
+ - [https://forsal.pl/gospodarka/demografia/artykuly/8636131,demografia-wiecej-niz-wyzwanie-dekady.html](https://forsal.pl/gospodarka/demografia/artykuly/8636131,demografia-wiecej-niz-wyzwanie-dekady.html)
+ - RSS feed: https://forsal.pl/.feed
+ - date published: 2023-01-16 05:00:00+00:00
+ - user: rumpel
+ - tags: poland,demographics
 
 
 ## Samochody elektryczne to poważne zagrożenie dla innych pojazdów. O tym się nie mówi - Instalki.pl

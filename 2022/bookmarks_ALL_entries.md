@@ -6375,6 +6375,14 @@
  - user: None
 
 
+## Inwazja na Ukrainę przyspiesza katastrofę demograficzną w Rosji
+ - [https://www.bankier.pl/wiadomosc/Inwazja-na-Ukraine-przyspiesza-katastrofe-demograficzna-w-Rosji-8424783.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Inwazja-na-Ukraine-przyspiesza-katastrofe-demograficzna-w-Rosji-8424783.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2022-10-18 12:21:00+00:00
+ - user: rumpel
+ - tags: demographics,russia
+
+
 ## Jake Tran Exploits His Audience And No One Cares
  - [https://youtu.be/xp12iqINfQY](https://youtu.be/xp12iqINfQY)
  - RSS feed: https://www.youtube.com/c/KiraTV1
@@ -9704,6 +9712,7 @@
  - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
  - date published: 2022-09-14 05:56:00+00:00
  - user: None
+ - tags: bulgaria,demographics
 
 
 ## Google Deepmind researcher co-authors paper saying AI will eliminate humanity

@@ -647,6 +647,14 @@
  - user: None
 
 
+## Inwazja na Ukrainę przyspiesza katastrofę demograficzną w Rosji
+ - [https://www.bankier.pl/wiadomosc/Inwazja-na-Ukraine-przyspiesza-katastrofe-demograficzna-w-Rosji-8424783.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Inwazja-na-Ukraine-przyspiesza-katastrofe-demograficzna-w-Rosji-8424783.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
+ - date published: 2022-10-18 12:21:00+00:00
+ - user: rumpel
+ - tags: demographics,russia
+
+
 ## Groźna moda na jedzenie muchomorów? Winni nieodpowiedzialni influencerzy
  - [https://www.bankier.pl/wiadomosc/Grozna-moda-na-jedzenie-muchomorow-Winni-nieodpowiedzialni-influencerzy-8423675.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Grozna-moda-na-jedzenie-muchomorow-Winni-nieodpowiedzialni-influencerzy-8423675.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
@@ -1467,6 +1475,7 @@
  - RSS feed: https://www.bankier.pl/rss/wiadomosci.xml
  - date published: 2022-09-14 05:56:00+00:00
  - user: None
+ - tags: bulgaria,demographics
 
 
 ## Chińskie komponenty w iPhone'ach. Apple „igra z ogniem”

@@ -1,3 +1,59 @@
+## Top password manager denies its entire database can be stolen
+ - [https://www.techradar.com/news/top-password-manager-denies-its-entire-database-can-be-stolen](https://www.techradar.com/news/top-password-manager-denies-its-entire-database-can-be-stolen)
+ - RSS feed: https://www.techradar.com/rss
+ - date published: 2023-01-31 19:13:27+00:00
+ - user: rumpel
+ - tags: open source,keepass
+
+
+## India’s population will start to shrink sooner than expected (2021)
+ - [https://www.economist.com/asia/2021/12/02/indias-population-will-start-to-shrink-sooner-than-expected](https://www.economist.com/asia/2021/12/02/indias-population-will-start-to-shrink-sooner-than-expected)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-01-31 17:02:07+00:00
+ - user: rumpel
+ - tags: demographics
+
+
+## Were the Unabomber’s Predictions About Technology Correct?
+ - [https://www.youtube.com/watch?v=kXL6DgUh4u8](https://www.youtube.com/watch?v=kXL6DgUh4u8)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCmFeOdJI3IXgTBDzqBLD8qg
+ - date published: 2023-01-31 08:30:56+00:00
+ - user: rumpel
+ - tags: tedkaczynski,unabomber
+
+
+## Chinese province drops restrictions on unmarried people having children in bid to halt plummeting birth rate
+ - [https://www.cnn.com/2023/01/31/china/china-sichuan-birth-registration-unmarried-intl-hnk/index.html](https://www.cnn.com/2023/01/31/china/china-sichuan-birth-registration-unmarried-intl-hnk/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2023-01-31 06:54:03+00:00
+ - user: rumpel
+ - tags: demographics
+
+
+## Israel Accelerates Gun Ownership Process in Response to Terror Shooting at Synagogue
+ - [https://www.theepochtimes.com/israel-accelerates-gun-ownership-process-in-response-to-terror-shooting-at-synagogue_5020337.html](https://www.theepochtimes.com/israel-accelerates-gun-ownership-process-in-response-to-terror-shooting-at-synagogue_5020337.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2023-01-31 05:21:11+00:00
+ - user: rumpel
+ - tags: gun control
+
+
+## Global elite produce almost half greenhouse emissions, UN says
+ - [https://www.ft.com/content/47db95b4-ce9f-42c7-8b37-86483c85267a](https://www.ft.com/content/47db95b4-ce9f-42c7-8b37-86483c85267a)
+ - RSS feed: https://www.ft.com/world?format=rss
+ - date published: 2023-01-31 05:00:36+00:00
+ - user: rumpel
+ - tags: elite,billionaires,climate change
+
+
+## Facebook Seeks to Block $3.7 Billion UK Mass Action Over Market Dominance
+ - [https://www.theepochtimes.com/facebook-seeks-to-block-3-7-billion-uk-mass-action-over-market-dominance_5020488.html](https://www.theepochtimes.com/facebook-seeks-to-block-3-7-billion-uk-mass-action-over-market-dominance_5020488.html)
+ - RSS feed: https://www.theepochtimes.com/c-world/feed/
+ - date published: 2023-01-31 02:11:22+00:00
+ - user: rumpel
+ - tags: corporatocracy,facebook,bigtech
+
+
 ## Oops, I Did It Again: Apple Faces Fourth iPhone Privacy Lawsuit After Gizmodo Story
  - [https://gizmodo.com/apple-iphone-analytics-privacy-4th-lawsuit-1850048418](https://gizmodo.com/apple-iphone-analytics-privacy-4th-lawsuit-1850048418)
  - RSS feed: https://gizmodo.com/rss
@@ -12,6 +68,14 @@
  - date published: 2023-01-30 16:54:04+00:00
  - user: rumpel
  - tags: sql,programming
+
+
+## The Troll Army of Big Oil | Climate Town
+ - [https://www.youtube.com/watch?v=FOi05zDO4yw](https://www.youtube.com/watch?v=FOi05zDO4yw)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCuVLG9pThvBABcYCm7pkNkA
+ - date published: 2023-01-30 16:30:48+00:00
+ - user: rumpel
+ - tags: bigoil,climate change
 
 
 ## U.S. No Fly list publicly shared on a hacking forum, government investigating
@@ -76,6 +140,14 @@
  - date published: 2023-01-28 15:21:01+00:00
  - user: rumpel
  - tags: modi,india,censorship,bigbrother,bbc
+
+
+## Facebook fires worker who refused to do 'negative testing': 'awsuit
+ - [https://nypost.com/2023/01/28/facebook-fires-worker-who-refused-to-do-negative-testing-awsuit/](https://nypost.com/2023/01/28/facebook-fires-worker-who-refused-to-do-negative-testing-awsuit/)
+ - RSS feed: https://nypost.com
+ - date published: 2023-01-28 07:43:51+00:00
+ - user: rumpel
+ - tags: facebook,dark design,bigtech
 
 
 ## AI, Art and the Lawsuits
@@ -276,6 +348,14 @@
  - date published: 2023-01-22 12:34:51+00:00
  - user: rumpel
  - tags: crisis,peru
+
+
+## Ageing planet: the new demographic timebomb
+ - [https://www.theguardian.com/world/2023/jan/22/ageing-planet-the-new-demographic-timebomb](https://www.theguardian.com/world/2023/jan/22/ageing-planet-the-new-demographic-timebomb)
+ - RSS feed: https://www.theguardian.com/rss
+ - date published: 2023-01-22 09:00:34+00:00
+ - user: rumpel
+ - tags: demographics
 
 
 ## In Peru, half the population lacks food security
