@@ -1,3 +1,67 @@
+## Apple: $52,000 Mac Pro Is Now Worth $1k
+ - [https://ymcinema.com/2023/01/30/apple-your-52000-mac-pro-is-now-worths-1000/](https://ymcinema.com/2023/01/30/apple-your-52000-mac-pro-is-now-worths-1000/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-02-01 18:20:39+00:00
+ - user: rumpel
+ - tags: hypocrisy,right to repair,apple
+
+
+## Zapomnijcie o ChatGPT. Fundusz inwestycyjny sterowany sztuczną inteligencją po cichu rozbija bank
+ - [https://businessinsider.com.pl/wiadomosci/zapomnijcie-o-chatgpt-fundusz-sterowany-sztuczna-inteligencja-rozbija-bank/th4lpsh](https://businessinsider.com.pl/wiadomosci/zapomnijcie-o-chatgpt-fundusz-sterowany-sztuczna-inteligencja-rozbija-bank/th4lpsh)
+ - RSS feed: https://businessinsider.com.pl/.feed
+ - date published: 2023-02-01 18:01:48+00:00
+ - user: rumpel
+ - tags: artificial intelligence
+
+
+## Society isn't changing fast enough to stop climate change: study
+ - [https://thehill.com/policy/energy-environment/3839348-society-isnt-changing-fast-enough-to-stop-climate-change-study/](https://thehill.com/policy/energy-environment/3839348-society-isnt-changing-fast-enough-to-stop-climate-change-study/)
+ - RSS feed: https://thehill.com/news/feed/
+ - date published: 2023-02-01 16:44:01+00:00
+ - user: rumpel
+ - tags: climate change
+
+
+## Academia’s culture of overwork almost broke me, so I’m working to undo it
+ - [https://www.nature.com/articles/d41586-023-00241-8](https://www.nature.com/articles/d41586-023-00241-8)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-02-01 15:04:03+00:00
+ - user: rumpel
+ - tags: feminism
+
+
+## Apple and Google's app stores wield 'gatekeeper' power and should be reined in, Commerce Department says
+ - [https://www.cnn.com/2023/02/01/tech/apple-google-commerce-department/index.html](https://www.cnn.com/2023/02/01/tech/apple-google-commerce-department/index.html)
+ - RSS feed: http://rss.cnn.com/rss/edition.rss
+ - date published: 2023-02-01 14:09:29+00:00
+ - user: rumpel
+ - tags: monopoly,gatekeeper,apple,appstore,google
+
+
+## Gmail creator says ChatGPT might ‘destroy’ Google within 2 years
+ - [https://bgr.com/tech/gmail-creator-says-chatgpt-might-destroy-google-within-2-years/](https://bgr.com/tech/gmail-creator-says-chatgpt-might-destroy-google-within-2-years/)
+ - RSS feed: https://www.codeproject.com/WebServices/NewsRSS.aspx
+ - date published: 2023-02-01 05:00:00+00:00
+ - user: rumpel
+ - tags: chatgpt,algorithms,google
+
+
+## Write Simply
+ - [http://www.paulgraham.com/simply.html](http://www.paulgraham.com/simply.html)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-02-01 04:12:12+00:00
+ - user: rumpel
+ - tags: writing
+
+
+## Is remote work bad for the economy?
+ - [https://www.fractional.work/p/is-remote-work-bad-for-the-economy](https://www.fractional.work/p/is-remote-work-bad-for-the-economy)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-02-01 01:48:46+00:00
+ - user: rumpel
+ - tags: remote work,economy
+
+
 ## Top password manager denies its entire database can be stolen
  - [https://www.techradar.com/news/top-password-manager-denies-its-entire-database-can-be-stolen](https://www.techradar.com/news/top-password-manager-denies-its-entire-database-can-be-stolen)
  - RSS feed: https://www.techradar.com/rss
@@ -12,6 +76,14 @@
  - date published: 2023-01-31 17:02:07+00:00
  - user: rumpel
  - tags: demographics
+
+
+## US still has the worst, most expensive health care of any high-income country | Ars Technica
+ - [https://arstechnica.com/science/2023/01/us-still-has-the-worst-most-expensive-health-care-of-any-high-income-country/](https://arstechnica.com/science/2023/01/us-still-has-the-worst-most-expensive-health-care-of-any-high-income-country/)
+ - RSS feed: https://arstechnica.com
+ - date published: 2023-01-31 08:57:09+00:00
+ - user: rumpel
+ - tags: healthcare,usa
 
 
 ## Were the Unabomber’s Predictions About Technology Correct?
