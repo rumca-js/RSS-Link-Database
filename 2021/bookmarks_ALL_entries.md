@@ -332,6 +332,7 @@
  - RSS feed: www.wirtualnemedia.pl
  - date published: 2021-12-16 14:57:42+00:00
  - user: None
+ - tags: digital money
 
 
 ## The 6 Companies That Own (Almost) All Media [INFOGRAPHIC]
@@ -1086,7 +1087,7 @@
  - RSS feed: https://m.youtube.com
  - date published: 2021-11-01 10:40:04+00:00
  - user: rumpel
- - tags: surveillance,privacy,propaganda,cbdc
+ - tags: privacy,propaganda,surveillance,digital money,cbdc
 
 
 ## Wacom drawing tablets track the name of every application that you open | Robert Heaton
@@ -1479,7 +1480,7 @@
  - RSS feed: https://hackernoon.com
  - date published: 2021-10-15 10:47:45+00:00
  - user: rumpel
- - tags: cbdc,privacy,all time,surveillance
+ - tags: privacy,all time,surveillance,digital money,cbdc
 
 
 ## Missouri governor vows criminal prosecution of reporter who found flaw in state website • Missouri Independent
@@ -2891,7 +2892,7 @@
  - RSS feed: whatnext.pl
  - date published: 2021-08-04 14:57:33+00:00
  - user: None
- - tags: cbdc
+ - tags: digital money,cbdc
 
 
 ## Facebook is reportedly trying to analyze encrypted data without decrypting it | TechSpot
@@ -4204,6 +4205,7 @@
  - RSS feed: https://ithardware.pl
  - date published: 2021-04-07 08:20:36+00:00
  - user: None
+ - tags: digital money
 
 
 ## If You Sell a House These Days, the Buyer Might Be a Pension Fund

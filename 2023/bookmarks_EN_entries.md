@@ -1,3 +1,59 @@
+## Trump vs Biden: ChatGPT is as biased as the people working on AI bots
+ - [https://www.firstpost.com/world/bias-in-ai-bots-chatgpt-writes-poem-admiring-joe-biden-refuses-to-write-one-admiring-donald-trump-12088662.html](https://www.firstpost.com/world/bias-in-ai-bots-chatgpt-writes-poem-admiring-joe-biden-refuses-to-write-one-admiring-donald-trump-12088662.html)
+ - RSS feed: https://www.firstpost.com
+ - date published: 2023-02-02 20:51:12+00:00
+ - user: rumpel
+ - tags: chatgpt,artificial intelligence,media bias
+
+
+## The Netherlands’ centralized digital biometric database plot is criticized as “goldmine for hackers”
+ - [https://reclaimthenet.org/netherlands-digital-biometric-centralized-data](https://reclaimthenet.org/netherlands-digital-biometric-centralized-data)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2023-02-02 19:02:36+00:00
+ - user: rumpel
+ - tags: digital identity
+
+
+## AI tool ChatGPT is accused of bias after writing poem about Biden but refusing to create one for Trump
+ - [https://reclaimthenet.org/chatgpt-trump-biden-poem](https://reclaimthenet.org/chatgpt-trump-biden-poem)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2023-02-02 18:55:05+00:00
+ - user: rumpel
+ - tags: chatgpt
+
+
+## The Netherlands' DPA says central passport database 'entails major privacy risks'
+ - [https://iapp.org/news/a/dutch-dpa-says-central-passport-database-entails-major-privacy-risks/](https://iapp.org/news/a/dutch-dpa-says-central-passport-database-entails-major-privacy-risks/)
+ - RSS feed: https://iapp.org
+ - date published: 2023-02-02 17:05:23+00:00
+ - user: rumpel
+ - tags: centralization,digital identity
+
+
+## Will walled gardens rule VR?
+ - [https://worldish.substack.com/p/will-walled-gardens-rule-vr](https://worldish.substack.com/p/will-walled-gardens-rule-vr)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-02-02 15:32:35+00:00
+ - user: rumpel
+ - tags: virtual reality,walled garden
+
+
+## Chat GPT is the birth of the real Web 3.0, and it's not going to be fun
+ - [https://lajili.com/posts/post-2/](https://lajili.com/posts/post-2/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-02-02 15:25:26+00:00
+ - user: rumpel
+ - tags: chatgpt,artificial intelligence
+
+
+## Inflacja w Chorwacji po wejściu do strefy euro nie wzrosła, tylko spadła
+ - [https://businessinsider.com.pl/gospodarka/piec-najciekawszych-wydarzen-w-gospodarce-teraz-2022023/ndyxye8](https://businessinsider.com.pl/gospodarka/piec-najciekawszych-wydarzen-w-gospodarce-teraz-2022023/ndyxye8)
+ - RSS feed: https://businessinsider.com.pl/.feed
+ - date published: 2023-02-02 06:09:23+00:00
+ - user: rumpel
+ - tags: croatia,euro
+
+
 ## Apple: $52,000 Mac Pro Is Now Worth $1k
  - [https://ymcinema.com/2023/01/30/apple-your-52000-mac-pro-is-now-worths-1000/](https://ymcinema.com/2023/01/30/apple-your-52000-mac-pro-is-now-worths-1000/)
  - RSS feed: https://hnrss.org/frontpage
@@ -22,12 +78,28 @@
  - tags: climate change
 
 
+## UK Tribunal rules MI5 mass surveillance data was stored unlawfully
+ - [https://reclaimthenet.org/uk-tribunal-rules-mi5-mass-surveillance-data-was-stored-unlawfully/](https://reclaimthenet.org/uk-tribunal-rules-mi5-mass-surveillance-data-was-stored-unlawfully/)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2023-02-01 16:03:47+00:00
+ - user: rumpel
+ - tags: surveillance,uk
+
+
 ## Academia’s culture of overwork almost broke me, so I’m working to undo it
  - [https://www.nature.com/articles/d41586-023-00241-8](https://www.nature.com/articles/d41586-023-00241-8)
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2023-02-01 15:04:03+00:00
  - user: rumpel
  - tags: feminism
+
+
+## The Satanic Temple Opens ‘Telehealth Abortion Clinic’ To Defend Its ‘Religious Ritual’ Of Killing Unborn Babies
+ - [https://www.dailywire.com/news/the-satanic-temple-opens-telehealth-abortion-clinic-to-defend-its-religious-ritual-of-killing-unborn-babies](https://www.dailywire.com/news/the-satanic-temple-opens-telehealth-abortion-clinic-to-defend-its-religious-ritual-of-killing-unborn-babies)
+ - RSS feed: https://www.dailywire.com/feeds/rss.xml
+ - date published: 2023-02-01 14:51:30+00:00
+ - user: rumpel
+ - tags: abortion,satanism
 
 
 ## Apple and Google's app stores wield 'gatekeeper' power and should be reined in, Commerce Department says
@@ -307,7 +379,7 @@
  - RSS feed: https://gizmodo.com/rss
  - date published: 2023-01-26 17:45:00+00:00
  - user: rumpel
- - tags: artificial intelligence,amazon
+ - tags: chatgpt,artificial intelligence,amazon
 
 
 ## Anti-abortion violence is the next wave of domestic terrorism
@@ -316,6 +388,14 @@
  - date published: 2023-01-26 17:30:00+00:00
  - user: rumpel
  - tags: abortion
+
+
+## Creepy ‘RBG Medusa’ statue erected at NYC courthouse in part of an ‘urgent and cultural reckoning’
+ - [https://www.bizpacreview.com/2023/01/26/creepy-rbg-medusa-statue-erected-at-nyc-courthouse-in-part-of-an-urgent-and-cultural-reckoning-1327894/](https://www.bizpacreview.com/2023/01/26/creepy-rbg-medusa-statue-erected-at-nyc-courthouse-in-part-of-an-urgent-and-cultural-reckoning-1327894/)
+ - RSS feed: en-US
+ - date published: 2023-01-26 07:37:42+00:00
+ - user: rumpel
+ - tags: satanic,abortion
 
 
 ## Why is Trump allowed back on Facebook and will Meta’s ‘guardrails’ contain him?

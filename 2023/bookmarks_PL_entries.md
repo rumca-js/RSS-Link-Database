@@ -1,3 +1,11 @@
+## Hipokryzja aktywistów klimatycznych. Przyklejali się do dróg, na wakacje... polecieli samolotem | Niezalezna.pl
+ - [https://niezalezna.pl/473651-hipokryzja-aktywistow-klimatycznych-przyklejali-sie-do-drog-na-wakacje-polecieli-samolotem](https://niezalezna.pl/473651-hipokryzja-aktywistow-klimatycznych-przyklejali-sie-do-drog-na-wakacje-polecieli-samolotem)
+ - RSS feed: https://niezalezna.pl/
+ - date published: 2023-02-02 16:51:07.258692+00:00
+ - user: rumpel
+ - tags: hypocrisy,climate change
+
+
 ## Chaos na ulicach, szalejące ceny i zamęt nawet w kostnicach. RPA walczy o przetrwanie
  - [https://wydarzenia.interia.pl/zagranica/news-chaos-na-ulicach-szalejace-ceny-i-zamet-nawet-w-kostnicach-r,nId,6568724](https://wydarzenia.interia.pl/zagranica/news-chaos-na-ulicach-szalejace-ceny-i-zamet-nawet-w-kostnicach-r,nId,6568724)
  - RSS feed: https://wydarzenia.interia.pl/feed

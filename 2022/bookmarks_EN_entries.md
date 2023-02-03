@@ -1954,7 +1954,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-07 04:28:12+00:00
  - user: None
- - tags: cbdc
+ - tags: digital money,cbdc
 
 
 ## The White House calls Twitter’s Hunter Biden censorship evidence “old news,” “distraction”
@@ -2076,7 +2076,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-12-05 12:02:42+00:00
  - user: None
- - tags: cbdc
+ - tags: digital money,cbdc
 
 
 ## Pegasus spyware was used to hack reporters’ phones. I’m suing its creators | Nelson Rauda Zablah
@@ -3493,7 +3493,7 @@
  - RSS feed: https://www.asiamarkets.com
  - date published: 2022-11-09 08:02:07+00:00
  - user: rumpel
- - tags: petrodollar,crisis,china
+ - tags: gold,china,brics,petrodollar,crisis,digital money
 
 
 ## Disney now matches Netflix's subscriber numbers across its combined services
@@ -3541,7 +3541,7 @@
  - RSS feed: https://www.wired.com/feed/category/business/latest/rss
  - date published: 2022-11-08 13:00:00+00:00
  - user: None
- - tags: cbdc,digital identity
+ - tags: digital identity,digital money,cbdc
 
 
 ## Bill Clinton laughs off his relationship with Jeffrey Epstein and refuses to answer questions
@@ -4148,7 +4148,7 @@
  - RSS feed: http://www.zdnet.com/news/rss.xml
  - date published: 2022-11-01 10:40:54+00:00
  - user: None
- - tags: cbdc
+ - tags: digital money,cbdc
 
 
 ## Woke doctor pledge replaces Hippocratic oath for Minnesota medical students
@@ -4422,7 +4422,7 @@
  - RSS feed: https://nicoyaresearch.com
  - date published: 2022-10-30 08:04:27+00:00
  - user: rumpel
- - tags: petrodollar,crisis,china
+ - tags: gold,china,brics,petrodollar,crisis,digital money
 
 
 ## Elon Musk, Bill Gates... 'We need to imagine new ways to control the propensity of billionaires to replace the State'
@@ -5777,7 +5777,7 @@
  - RSS feed: https://www.youtube.com/@LayahHeilpern
  - date published: 2022-10-16 10:34:21+00:00
  - user: None
- - tags: cbdc
+ - tags: digital money,cbdc
 
 
 ## China Doubles Down on ‘Covid Zero’ Despite Economic Toll
@@ -6745,6 +6745,14 @@
  - RSS feed: http://feeds.arstechnica.com/arstechnica/index/
  - date published: 2022-09-30 15:22:12+00:00
  - user: None
+
+
+## Nord Stream: Russian gas pipe leaks could have an 'unprecedented' environmental impact | Euronews
+ - [https://www.euronews.com/green/2022/09/28/nord-stream-russian-gas-pipe-leaks-could-have-an-unprecedented-environmental-impact](https://www.euronews.com/green/2022/09/28/nord-stream-russian-gas-pipe-leaks-could-have-an-unprecedented-environmental-impact)
+ - RSS feed: https://www.euronews.com
+ - date published: 2022-09-30 13:30:25+00:00
+ - user: rumpel
+ - tags: pollution,gas emissions,climate change
 
 
 ## Never-before-seen malware has infected hundreds of Linux and Windows devices
@@ -8608,7 +8616,7 @@
  - RSS feed: https://hnrss.org/frontpage
  - date published: 2022-09-09 11:23:47+00:00
  - user: None
- - tags: cbdc
+ - tags: digital money,cbdc
 
 
 ## Kansas Gov. Laura Kelly makes ‘absolutely no apologies’ for closing schools during COVID-19 pandemic
@@ -9340,6 +9348,14 @@
  - RSS feed: https://rachelbythebay.com
  - date published: 2022-08-30 06:46:54.846250+00:00
  - user: Thomas Pain
+
+
+## Will BRICS Bucks Replace The U.S. Dollar As Global Reserve Currency?
+ - [https://gsiexchange.com/follow-the-yellow-bric-road-to-a-new-digital-reserve-currency/](https://gsiexchange.com/follow-the-yellow-bric-road-to-a-new-digital-reserve-currency/)
+ - RSS feed: https://gsiexchange.com
+ - date published: 2022-08-29 16:56:15+00:00
+ - user: rumpel
+ - tags: gold,digital dollar,digital money
 
 
 ## Fear of Landing – Post-Pandemic Mystery at Heathrow
@@ -12474,7 +12490,7 @@
  - RSS feed: https://www.reuters.com
  - date published: 2022-03-25 21:11:37+00:00
  - user: rumpel
- - tags: digital currency,blackrock,cbdc,crisis,war,ukraine
+ - tags: ukraine,war,crisis,digital currency,digital money,cbdc,blackrock
 
 
 ## Implementing a toy version of TLS 1.3

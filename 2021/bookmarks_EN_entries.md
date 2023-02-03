@@ -963,7 +963,7 @@
  - RSS feed: https://m.youtube.com
  - date published: 2021-11-01 10:40:04+00:00
  - user: rumpel
- - tags: surveillance,privacy,propaganda,cbdc
+ - tags: privacy,propaganda,surveillance,digital money,cbdc
 
 
 ## Wacom drawing tablets track the name of every application that you open | Robert Heaton
@@ -1326,7 +1326,7 @@
  - RSS feed: https://hackernoon.com
  - date published: 2021-10-15 10:47:45+00:00
  - user: rumpel
- - tags: cbdc,privacy,all time,surveillance
+ - tags: privacy,all time,surveillance,digital money,cbdc
 
 
 ## Missouri governor vows criminal prosecution of reporter who found flaw in state website • Missouri Independent
