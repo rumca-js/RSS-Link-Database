@@ -1,3 +1,11 @@
+## Anulowałem abonament na Netflix. Nowy sposób walki z współdzieleniem kont zakrawa o nieśmieszny żart
+ - [https://www.chip.pl/2023/02/netflix-wspoldzielenie-konta-felieton](https://www.chip.pl/2023/02/netflix-wspoldzielenie-konta-felieton)
+ - RSS feed: https://www.chip.pl/feed
+ - date published: 2023-02-03 16:06:22+00:00
+ - user: rumpel
+ - tags: netflix
+
+
 ## Hipokryzja aktywistów klimatycznych. Przyklejali się do dróg, na wakacje... polecieli samolotem | Niezalezna.pl
  - [https://niezalezna.pl/473651-hipokryzja-aktywistow-klimatycznych-przyklejali-sie-do-drog-na-wakacje-polecieli-samolotem](https://niezalezna.pl/473651-hipokryzja-aktywistow-klimatycznych-przyklejali-sie-do-drog-na-wakacje-polecieli-samolotem)
  - RSS feed: https://niezalezna.pl/

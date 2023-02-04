@@ -408,6 +408,14 @@
  - tags: dsa
 
 
+## While the Poor Get Sick, Bill Gates Just Gets Richer | The Nation
+ - [https://www.thenation.com/article/economy/bill-gates-investments-covid/](https://www.thenation.com/article/economy/bill-gates-investments-covid/)
+ - RSS feed: https://www.thenation.com
+ - date published: 2020-10-05 17:20:37+00:00
+ - user: rumpel
+ - tags: bill gates,billionaires,covid,elite
+
+
 ## Dr Martin Feeley: I lost my job for speaking out
  - [https://www.independent.ie/world-news/coronavirus/i-lost-my-job-for-speaking-out-but-i-have-no-regrets-dr-martin-feeley-on-his-coronavirus-views-39585808.html](https://www.independent.ie/world-news/coronavirus/i-lost-my-job-for-speaking-out-but-i-have-no-regrets-dr-martin-feeley-on-his-coronavirus-views-39585808.html)
  - RSS feed: www.independent.ie

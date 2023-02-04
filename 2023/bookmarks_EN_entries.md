@@ -1,3 +1,43 @@
+## All the big tech layoffs of 2023
+ - [https://www.engadget.com/tech-layoffs-183005204.html?src=rss](https://www.engadget.com/tech-layoffs-183005204.html?src=rss)
+ - RSS feed: https://www.engadget.com/rss.xml
+ - date published: 2023-02-03 18:30:05+00:00
+ - user: rumpel
+ - tags: crisis
+
+
+## Sztuczna inteligencja może odebrać pracę. Oto 10 zawodów, które zastąpi
+ - [https://businessinsider.com.pl/technologie/sztuczna-inteligencja-moze-odebrac-prace-oto-10-zawodow-na-celowniku/m96bw6c](https://businessinsider.com.pl/technologie/sztuczna-inteligencja-moze-odebrac-prace-oto-10-zawodow-na-celowniku/m96bw6c)
+ - RSS feed: https://businessinsider.com.pl/.feed
+ - date published: 2023-02-03 17:48:25+00:00
+ - user: rumpel
+ - tags: chatgpt,artificial intelligence
+
+
+## Exclusive Q&A John Carmack’s ‘Different Path’ to Artificial General Intelligence
+ - [https://dallasinnovates.com/exclusive-qa-john-carmacks-different-path-to-artificial-general-intelligence/](https://dallasinnovates.com/exclusive-qa-john-carmacks-different-path-to-artificial-general-intelligence/)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-02-03 06:01:47+00:00
+ - user: rumpel
+ - tags: artificial intelligence
+
+
+## Utah bill would bring ID-based age verification to online platforms
+ - [https://reclaimthenet.org/utah-bill-would-bring-id-based-age-verification-to-online-platforms](https://reclaimthenet.org/utah-bill-would-bring-id-based-age-verification-to-online-platforms)
+ - RSS feed: https://reclaimthenet.org/feed/
+ - date published: 2023-02-03 00:11:08+00:00
+ - user: rumpel
+ - tags: digital identity
+
+
+## An Invitation to the Future
+ - [https://www.youtube.com/watch?v=L_cjujecPsE](https://www.youtube.com/watch?v=L_cjujecPsE)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q
+ - date published: 2023-02-02 23:38:02+00:00
+ - user: rumpel
+ - tags: future,monopoly,peterson,climate change,corporatocracy
+
+
 ## Trump vs Biden: ChatGPT is as biased as the people working on AI bots
  - [https://www.firstpost.com/world/bias-in-ai-bots-chatgpt-writes-poem-admiring-joe-biden-refuses-to-write-one-admiring-donald-trump-12088662.html](https://www.firstpost.com/world/bias-in-ai-bots-chatgpt-writes-poem-admiring-joe-biden-refuses-to-write-one-admiring-donald-trump-12088662.html)
  - RSS feed: https://www.firstpost.com
@@ -20,6 +60,14 @@
  - date published: 2023-02-02 18:55:05+00:00
  - user: rumpel
  - tags: chatgpt
+
+
+## Bill Gates's INCREDIBLY AWKWARD Interview - Is THIS What He's Worried About??
+ - [https://www.youtube.com/watch?v=o2HkjhK7aa4](https://www.youtube.com/watch?v=o2HkjhK7aa4)
+ - RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCswH8ovgUp5Bdg-0_JTYFNw
+ - date published: 2023-02-02 18:00:30+00:00
+ - user: rumpel
+ - tags: who,vaccine,bill gates,big pharma,covid
 
 
 ## The Netherlands' DPA says central passport database 'entails major privacy risks'

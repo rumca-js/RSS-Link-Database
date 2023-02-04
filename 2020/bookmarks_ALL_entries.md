@@ -488,6 +488,14 @@
  - tags: dsa
 
 
+## While the Poor Get Sick, Bill Gates Just Gets Richer | The Nation
+ - [https://www.thenation.com/article/economy/bill-gates-investments-covid/](https://www.thenation.com/article/economy/bill-gates-investments-covid/)
+ - RSS feed: https://www.thenation.com
+ - date published: 2020-10-05 17:20:37+00:00
+ - user: rumpel
+ - tags: bill gates,billionaires,covid,elite
+
+
 ## Artykuł o „Margot” na Wikipedii z najwyższym poziomem ochrony. Tylko nieliczni mogą zmieniać treść
  - [https://www.tvp.info/50178233/artykul-o-margot-na-anglojezycznej-wikipedii-z-najwyzszym-poziomem-ochrony-tylko-nieliczni-moga-ingerowac-w-tresc-wieszwiecej](https://www.tvp.info/50178233/artykul-o-margot-na-anglojezycznej-wikipedii-z-najwyzszym-poziomem-ochrony-tylko-nieliczni-moga-ingerowac-w-tresc-wieszwiecej)
  - RSS feed: https://www.tvp.info
