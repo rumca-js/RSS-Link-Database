@@ -310,6 +310,14 @@
  - tags: lockdown,covid
 
 
+## US Air Force Gen. Mike Minihan predicts China war in 2025
+ - [https://nypost.com/2023/01/28/us-air-force-gen-mike-minihan-predicts-china-war-in-2025/](https://nypost.com/2023/01/28/us-air-force-gen-mike-minihan-predicts-china-war-in-2025/)
+ - RSS feed: https://nypost.com
+ - date published: 2023-01-28 19:23:33+00:00
+ - user: rumpel
+ - tags: china,crisis,taiwan
+
+
 ## What Are 'Dark Factories,' and Do They Exist?
  - [https://www.grainger.com/know-how/industry/manufacturing/kh-what-is-a-dark-factory](https://www.grainger.com/know-how/industry/manufacturing/kh-what-is-a-dark-factory)
  - RSS feed: https://hnrss.org/frontpage

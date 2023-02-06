@@ -11900,6 +11900,14 @@
  - user: Thomas Pain
 
 
+## US’ chip bid ‘futile,’ Morris Chang says - Taipei Times
+ - [https://www.taipeitimes.com/News/biz/archives/2022/04/22/2003776996](https://www.taipeitimes.com/News/biz/archives/2022/04/22/2003776996)
+ - RSS feed: https://www.taipeitimes.com
+ - date published: 2022-04-22 07:54:28+00:00
+ - user: rumpel
+ - tags: processor,tsmc,hardware
+
+
 ## ‘Jack Dorsey’s First Tweet’ NFT Went on Sale for $48M. It Ended With a Top Bid of Just $280
  - [https://www.coindesk.com/business/2022/04/13/jack-dorseys-first-tweet-nft-went-on-sale-for-48m-it-ended-with-a-top-bid-of-just-280/](https://www.coindesk.com/business/2022/04/13/jack-dorseys-first-tweet-nft-went-on-sale-for-48m-it-ended-with-a-top-bid-of-just-280/)
  - RSS feed: https://www.coindesk.com
