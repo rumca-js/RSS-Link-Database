@@ -4186,7 +4186,7 @@
  - RSS feed: https://moxie.foxnews.com/google-publisher/latest.xml
  - date published: 2022-11-01 06:00:17+00:00
  - user: None
- - tags: censorship,biden,covid,media
+ - tags: biden,lie,covid,psyop,censorship,manipulation,media
 
 
 ## One year after the Facebook Files: 'When power is highly concentrated, whistleblowers need to be encouraged and protected'

@@ -1,3 +1,11 @@
+## Gotówka wycofana z obiegu? Polacy zdecydowali | Wiadomości Radio ZET
+ - [https://wiadomosci.radiozet.pl/Biznes/gotowka-wycofana-z-obiegu-polacy-zdecydowali](https://wiadomosci.radiozet.pl/Biznes/gotowka-wycofana-z-obiegu-polacy-zdecydowali)
+ - RSS feed: https://wiadomosci.radiozet.pl
+ - date published: 2023-02-06 13:52:40+00:00
+ - user: rumpel
+ - tags: digital money
+
+
 ## All the big tech layoffs of 2023
  - [https://www.engadget.com/tech-layoffs-183005204.html?src=rss](https://www.engadget.com/tech-layoffs-183005204.html?src=rss)
  - RSS feed: https://www.engadget.com/rss.xml
