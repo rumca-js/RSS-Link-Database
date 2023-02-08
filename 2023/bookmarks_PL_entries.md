@@ -139,6 +139,7 @@
  - RSS feed: https://www.instalki.pl
  - date published: 2023-01-15 12:31:43.878419+00:00
  - user: rumpel
+ - tags: electric vehicles
 
 
 ## Coraz więcej krajów zakazuje smartfonów w szkołach. Za ich używanie grożą poważne kary

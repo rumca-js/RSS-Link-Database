@@ -4258,6 +4258,14 @@
  - tags: twitter,pandemic amnesty
 
 
+## Egypt's farmers fear rising social tensions over scarce water | Reuters
+ - [https://www.reuters.com/business/cop/egypts-farmers-fear-rising-social-tensions-over-scarce-water-2022-10-31/](https://www.reuters.com/business/cop/egypts-farmers-fear-rising-social-tensions-over-scarce-water-2022-10-31/)
+ - RSS feed: https://www.reuters.com
+ - date published: 2022-10-31 14:21:43+00:00
+ - user: rumpel
+ - tags: crisis,climate change,egypt
+
+
 ## Various site updates - Xe
  - [https://xeiaso.net/blog/site-update-mastodon-quoting](https://xeiaso.net/blog/site-update-mastodon-quoting)
  - RSS feed: https://xeiaso.net
@@ -7338,6 +7346,14 @@
  - tags: google,monopoly,oligopoly,mozilla,operating system,apple
 
 
+## Mass protests in Iran are the regime's biggest challenge in years
+ - [https://www.cnbc.com/2022/09/23/mass-protests-in-iran-is-the-regimes-biggest-challenge-in-years.html](https://www.cnbc.com/2022/09/23/mass-protests-in-iran-is-the-regimes-biggest-challenge-in-years.html)
+ - RSS feed: https://www.cnbc.com
+ - date published: 2022-09-23 14:19:18+00:00
+ - user: rumpel
+ - tags: crisis,iran
+
+
 ## TikTok rolls out comment 'dislike' button to all users
  - [https://www.engadget.com/tiktok-dislike-comments-133432987.html?src=rss](https://www.engadget.com/tiktok-dislike-comments-133432987.html?src=rss)
  - RSS feed: https://www.engadget.com/rss.xml
@@ -10105,6 +10121,14 @@
  - user: Thomas Pain
 
 
+## Sri Lanka Inflation Rises to 60.8% as Dollar Crunch Persists
+ - [https://www.bloomberg.com/news/articles/2022-07-29/sri-lanka-inflation-climbs-to-60-8-as-dollar-crunch-persists](https://www.bloomberg.com/news/articles/2022-07-29/sri-lanka-inflation-climbs-to-60-8-as-dollar-crunch-persists)
+ - RSS feed: https://www.bloomberg.com
+ - date published: 2022-07-29 14:09:02+00:00
+ - user: rumpel
+ - tags: sri lanka,crisis
+
+
 ## 'Based' Paganism vs. Christianity
  - [https://lukesmith.xyz/articles/christianity-based-paganism/](https://lukesmith.xyz/articles/christianity-based-paganism/)
  - RSS feed: https://lukesmith.xyz/rss.xml
@@ -10326,6 +10350,22 @@
  - RSS feed: https://www.theguardian.com
  - date published: 2022-07-15 09:15:07.658163+00:00
  - user: Thomas Pain
+
+
+## Sri Lanka President Reaches Singapore After Fleeing Protests
+ - [https://www.bloomberg.com/news/articles/2022-07-14/sri-lanka-president-arrives-in-singapore-after-fleeing-protests](https://www.bloomberg.com/news/articles/2022-07-14/sri-lanka-president-arrives-in-singapore-after-fleeing-protests)
+ - RSS feed: https://www.bloomberg.com
+ - date published: 2022-07-14 14:10:26+00:00
+ - user: rumpel
+ - tags: sri lanka,crisis
+
+
+## Sri Lanka: Why is the country in an economic crisis? - BBC News
+ - [https://www.bbc.com/news/world-61028138](https://www.bbc.com/news/world-61028138)
+ - RSS feed: https://www.bbc.com
+ - date published: 2022-07-14 14:08:07+00:00
+ - user: rumpel
+ - tags: sri lanka,crisis
 
 
 ## New working speculative execution attack sends Intel and AMD scrambling | Ars Technica
@@ -11928,6 +11968,14 @@
  - RSS feed: https://www.bbc.co.uk
  - date published: 2022-04-20 16:39:26.382029+00:00
  - user: Thomas Pain
+
+
+## ‘It will be hard to find a farmer left’: Sri Lanka reels from rash fertiliser ban | Sri Lanka | The Guardian
+ - [https://www.theguardian.com/world/2022/apr/20/sri-lanka-fertiliser-ban-president-rajapaksa-farmers-harvests-collapse](https://www.theguardian.com/world/2022/apr/20/sri-lanka-fertiliser-ban-president-rajapaksa-farmers-harvests-collapse)
+ - RSS feed: https://www.theguardian.com
+ - date published: 2022-04-20 14:07:15+00:00
+ - user: rumpel
+ - tags: sri lanka,crisis,climate change,pollution
 
 
 ## How we upgraded our 4 TB main application Postgres database
