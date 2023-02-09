@@ -1,9 +1,49 @@
+## Wikipedia Worries Its Volunteer Editors Could Be Liable to Lawsuits Without Section 230
+ - [https://gizmodo.com/wikipedia-section-230-scotus-encyclopedia-1850085090](https://gizmodo.com/wikipedia-section-230-scotus-encyclopedia-1850085090)
+ - RSS feed: https://gizmodo.com/rss
+ - date published: 2023-02-08 13:15:00+00:00
+ - user: rumpel
+ - tags: censorship,law,wikipedia
+
+
+## ChatGPT is a data privacy nightmare
+ - [https://theconversation.com/chatgpt-is-a-data-privacy-nightmare-if-youve-ever-posted-online-you-ought-to-be-concerned-199283](https://theconversation.com/chatgpt-is-a-data-privacy-nightmare-if-youve-ever-posted-online-you-ought-to-be-concerned-199283)
+ - RSS feed: https://hnrss.org/frontpage
+ - date published: 2023-02-08 12:10:12+00:00
+ - user: rumpel
+ - tags: chatgpt,privacy
+
+
+## Top Android Phones From China Are Packed With Spyware, Research Finds
+ - [https://www.gizmodo.com.au/2023/02/top-android-phones-from-china-are-packed-with-spyware-research-finds/](https://www.gizmodo.com.au/2023/02/top-android-phones-from-china-are-packed-with-spyware-research-finds/)
+ - RSS feed: https://www.gizmodo.com.au
+ - date published: 2023-02-08 07:41:53+00:00
+ - user: rumpel
+ - tags: smartphone,bigbrother,china,privacy,surveillance,android
+
+
+## Turkey Blocks Twitter After Public Criticism of Quake Response | Balkan Insight
+ - [https://balkaninsight.com/2023/02/08/turkey-blocks-twitter-after-public-criticism-of-quake-response/](https://balkaninsight.com/2023/02/08/turkey-blocks-twitter-after-public-criticism-of-quake-response/)
+ - RSS feed: https://balkaninsight.com
+ - date published: 2023-02-08 07:31:02+00:00
+ - user: rumpel
+ - tags: bigbrother,turkey,censorship,twitter
+
+
 ## Gotówka wycofana z obiegu? Polacy zdecydowali | Wiadomości Radio ZET
  - [https://wiadomosci.radiozet.pl/Biznes/gotowka-wycofana-z-obiegu-polacy-zdecydowali](https://wiadomosci.radiozet.pl/Biznes/gotowka-wycofana-z-obiegu-polacy-zdecydowali)
  - RSS feed: https://wiadomosci.radiozet.pl
  - date published: 2023-02-06 13:52:40+00:00
  - user: rumpel
  - tags: digital money
+
+
+## AI-generated ‘Seinfeld’ suspended on Twitch for AI-generated transphobic jokes
+ - [https://techcrunch.com/2023/02/06/ai-generated-seinfeld-suspended-on-twitch-for-ai-generated-transphobic-jokes/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAM5Q17dJz_Y8nXC7zkkXHgPOViW8fba3qrqAPzf-eEewG5sQWApn9gp2VH6jhWgCCjqm_UkUbABWdQAqe0r65Lh-c1HpIkU68n4nVq__xNYJIiQCmr_lOVzMNkxYsox16lHOxt1_sA--td39f7sxFfB6AnS6sOITQEfr4Eugic3I](https://techcrunch.com/2023/02/06/ai-generated-seinfeld-suspended-on-twitch-for-ai-generated-transphobic-jokes/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAM5Q17dJz_Y8nXC7zkkXHgPOViW8fba3qrqAPzf-eEewG5sQWApn9gp2VH6jhWgCCjqm_UkUbABWdQAqe0r65Lh-c1HpIkU68n4nVq__xNYJIiQCmr_lOVzMNkxYsox16lHOxt1_sA--td39f7sxFfB6AnS6sOITQEfr4Eugic3I)
+ - RSS feed: https://techcrunch.com
+ - date published: 2023-02-06 10:23:23+00:00
+ - user: rumpel
+ - tags: chatgpt,artificial intelligence,censorship
 
 
 ## All the big tech layoffs of 2023
