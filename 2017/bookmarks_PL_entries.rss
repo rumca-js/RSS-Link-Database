@@ -1,19 +1,3 @@
-
-<?xml version="1.0" encoding="UTF-8" ?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-        xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-        xmlns:webfeeds="http://webfeeds.org/rss/1.0"
-	
-xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
-<channel>
-  <title>RSS history</title>
-  <atom:link href="https://ithardware.pl/feed" rel="self" type="application/rss+xml" />
-  <link>https://renegat0x0.ddns.net/</link>
-  <description>RSS archive</description>
-  <language>en-US</language>
 <item><title>![CDATA[Amerykańska wojna opiumowa]]</title><description>![CDATA[Amerykańska wojna opiumowa]]</description><pubDate>2017-12-18 16:54:37+00:00</pubDate><link>https://www.parkiet.com/gospodarka-swiatowa/art20557591-amerykanska-wojna-opiumowa</link></item><guid isPermaLink="false">https://www.parkiet.com/gospodarka-swiatowa/art20557591-amerykanska-wojna-opiumowa</guid>
 <item><title>![CDATA[Jordan Peterson - Gay Marriage]]</title><description>![CDATA[Jordan Peterson - Gay Marriage]]</description><pubDate>2017-10-04 20:58:00+00:00</pubDate><link>https://www.youtube.com/watch?v=4jef2C4T1_A</link></item><guid isPermaLink="false">https://www.youtube.com/watch?v=4jef2C4T1_A</guid>
 <item><title>![CDATA[ILE JEST WARTA TWOJA PRYWATNOŚĆ?]]</title><description>![CDATA[ILE JEST WARTA TWOJA PRYWATNOŚĆ?]]</description><pubDate>2017-10-02 20:36:30+00:00</pubDate><link>https://www.youtube.com/watch?v=qk3HNcNOqRA</link></item><guid isPermaLink="false">https://www.youtube.com/watch?v=qk3HNcNOqRA</guid>
@@ -22,4 +6,3 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 <item><title>![CDATA[„Powody zabierania rodzicom ich dzieci w Niemczech są absurdalne”]]</title><description>![CDATA[„Powody zabierania rodzicom ich dzieci w Niemczech są absurdalne”]]</description><pubDate>2017-06-21 08:57:38+00:00</pubDate><link>https://www.polskieradio.pl/130/5925/Artykul/1779858,Powody-zabierania-rodzicom-ich-dzieci-w-Niemczech-sa-absurdalne</link></item><guid isPermaLink="false">https://www.polskieradio.pl/130/5925/Artykul/1779858,Powody-zabierania-rodzicom-ich-dzieci-w-Niemczech-sa-absurdalne</guid>
 <item><title>![CDATA[Kanclerz Merkel zapomniała, co Niemcy robią z mediami w Polsce]]</title><description>![CDATA[Kanclerz Merkel zapomniała, co Niemcy robią z mediami w Polsce]]</description><pubDate>2017-02-08 11:57:10+00:00</pubDate><link>https://spidersweb.pl/2017/02/niemieckie-media-w-polsce.html</link></item><guid isPermaLink="false">https://spidersweb.pl/2017/02/niemieckie-media-w-polsce.html</guid>
 <item><title>![CDATA[Przeczywistość: Pizzagate]]</title><description>![CDATA[Przeczywistość: Pizzagate]]</description><pubDate>2017-02-01 19:51:40+00:00</pubDate><link>http://przeczywistosc.pl/pizzagate/</link></item><guid isPermaLink="false">http://przeczywistosc.pl/pizzagate/</guid>
-</channel></rss>

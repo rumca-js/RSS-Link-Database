@@ -1,19 +1,3 @@
-
-<?xml version="1.0" encoding="UTF-8" ?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-        xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-        xmlns:webfeeds="http://webfeeds.org/rss/1.0"
-	
-xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
-<channel>
-  <title>RSS history</title>
-  <atom:link href="https://ithardware.pl/feed" rel="self" type="application/rss+xml" />
-  <link>https://renegat0x0.ddns.net/</link>
-  <description>RSS archive</description>
-  <language>en-US</language>
 <item><title>![CDATA[More shell, less egg]]</title><description>![CDATA[More shell, less egg]]</description><pubDate>2011-12-04 13:57:34+00:00</pubDate><link>http://www.leancrew.com/all-this/2011/12/more-shell-less-egg/</link></item><guid isPermaLink="false">http://www.leancrew.com/all-this/2011/12/more-shell-less-egg/</guid>
 <item><title>![CDATA["You'll not only lose your mind, but you'll lose your soul" | Christopher Lee on the occult]]</title><description>![CDATA["You'll not only lose your mind, but you'll lose your soul" | Christopher Lee on the occult]]</description><pubDate>2011-11-10 16:01:55+00:00</pubDate><link>https://www.youtube.com/watch?v=vRVQD4FKPrY</link></item><guid isPermaLink="false">https://www.youtube.com/watch?v=vRVQD4FKPrY</guid>
 <item><title>![CDATA[Pfizer: Nigeria drug trial victims get compensation]]</title><description>![CDATA[Pfizer: Nigeria drug trial victims get compensation]]</description><pubDate>2011-08-11 20:58:19+00:00</pubDate><link>https://www.bbc.com/news/world-africa-14493277</link></item><guid isPermaLink="false">https://www.bbc.com/news/world-africa-14493277</guid>
@@ -22,4 +6,3 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 <item><title>![CDATA[The Berlusconi in Us All: Bunga Bunga's Real Meaning]]</title><description>![CDATA[The Berlusconi in Us All: Bunga Bunga's Real Meaning]]</description><pubDate>2011-04-06 20:33:30+00:00</pubDate><link>https://www.theatlantic.com/international/archive/2011/04/the-berlusconi-in-us-all-bunga-bungas-real-meaning/236871/</link></item><guid isPermaLink="false">https://www.theatlantic.com/international/archive/2011/04/the-berlusconi-in-us-all-bunga-bungas-real-meaning/236871/</guid>
 <item><title>![CDATA[Microsoft co-founder lays bare his battles with Bill Gates]]</title><description>![CDATA[Microsoft co-founder lays bare his battles with Bill Gates]]</description><pubDate>2011-03-30 07:24:44+00:00</pubDate><link>https://www.theguardian.com/technology/2011/mar/30/microsoft-paul-allen-bill-gates</link></item><guid isPermaLink="false">https://www.theguardian.com/technology/2011/mar/30/microsoft-paul-allen-bill-gates</guid>
 <item><title>![CDATA[Revealed: US spy operation that manipulates social media]]</title><description>![CDATA[Revealed: US spy operation that manipulates social media]]</description><pubDate>2011-03-17 15:28:40+00:00</pubDate><link>https://www.theguardian.com/technology/2011/mar/17/us-spy-operation-social-networks</link></item><guid isPermaLink="false">https://www.theguardian.com/technology/2011/mar/17/us-spy-operation-social-networks</guid>
-</channel></rss>

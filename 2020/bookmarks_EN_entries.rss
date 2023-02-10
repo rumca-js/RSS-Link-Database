@@ -1,19 +1,3 @@
-
-<?xml version="1.0" encoding="UTF-8" ?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-        xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-        xmlns:webfeeds="http://webfeeds.org/rss/1.0"
-	
-xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
-<channel>
-  <title>RSS history</title>
-  <atom:link href="https://ithardware.pl/feed" rel="self" type="application/rss+xml" />
-  <link>https://renegat0x0.ddns.net/</link>
-  <description>RSS archive</description>
-  <language>en-US</language>
 <item><title>![CDATA[UK Woman Arrested For Filming Inside Empty Hospital]]</title><description>![CDATA[]]</description><pubDate>2020-12-30 07:29:04+00:00</pubDate><link>https://summit.news/2020/12/30/uk-woman-arrested-for-filming-inside-empty-hospital/</link></item><guid isPermaLink="false">https://summit.news/2020/12/30/uk-woman-arrested-for-filming-inside-empty-hospital/</guid>
 <item><title>![CDATA[UK: Only 377 people under 60 without preexisting conditions have died of COVID in Eng.]]</title><description>![CDATA[UK: Only 377 people under 60 without preexisting conditions have died of COVID in Eng.]]</description><pubDate>2020-12-26 21:03:33+00:00</pubDate><link>https://twitter.com/Fox_Claire/status/1342847212208984065</link></item><guid isPermaLink="false">https://twitter.com/Fox_Claire/status/1342847212208984065</guid>
 <item><title>![CDATA[Was 2020 A Simulation? (Science & Math of the Simulation Theory)]]</title><description>![CDATA[Was 2020 A Simulation? (Science & Math of the Simulation Theory)]]</description><pubDate>2020-12-26 07:46:46+00:00</pubDate><link>https://www.youtube.com/watch?v=c9p9NE4Pji0</link></item><guid isPermaLink="false">https://www.youtube.com/watch?v=c9p9NE4Pji0</guid>
@@ -1164,4 +1148,3 @@ rebuilding. Be a part of it now rather than later.</p>]]</description><pubDate>2
 <item><title>![CDATA[Why Stakeholder Capitalism Will Fail]]</title><description>![CDATA[Why Stakeholder Capitalism Will Fail]]</description><pubDate>2020-01-05 08:54:26+00:00</pubDate><link>https://www.forbes.com/sites/stevedenning/2020/01/05/why-stakeholder-capitalism-will-fail/</link></item><guid isPermaLink="false">https://www.forbes.com/sites/stevedenning/2020/01/05/why-stakeholder-capitalism-will-fail/</guid>
 <item><title>![CDATA[Who’s Really Responsible for Climate Change?]]</title><description>![CDATA[Who’s Really Responsible for Climate Change?]]</description><pubDate>2020-01-02 14:33:49+00:00</pubDate><link>https://harvardpolitics.com/climate-change-responsibility/</link></item><guid isPermaLink="false">https://harvardpolitics.com/climate-change-responsibility/</guid>
 <item><title>![CDATA[80-characters-per-line limits should be terminal, says Linux kernel chief Linus Torvalds]]</title><description>![CDATA[80-characters-per-line limits should be terminal, says Linux kernel chief Linus Torvalds]]</description><pubDate>2020-01-01 13:56:53+00:00</pubDate><link>https://www.theregister.com/2020/06/01/linux_5_7/</link></item><guid isPermaLink="false">https://www.theregister.com/2020/06/01/linux_5_7/</guid>
-</channel></rss>
