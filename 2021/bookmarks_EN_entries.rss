@@ -1,3 +1,19 @@
+
+<?xml version="1.0" encoding="UTF-8" ?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+        xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+        xmlns:webfeeds="http://webfeeds.org/rss/1.0"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
+<channel>
+  <title>RSS archive</title>
+  <atom:link href="https://renegat0x0.ddns.net" rel="self" type="application/rss+xml" />
+  <link>https://renegat0x0.ddns.net/</link>
+  <description>Link archive</description>
+  <language>en-US</language>
 <item><title>![CDATA[Python 4.0 will never arrive🤚😔. Said by Python’s creator | by Sabrina Carpenter | CodeX | Nov, 2021 | Medium]]</title><description>![CDATA[Said by Python’s creator]]</description><pubDate>2021-12-31 21:18:21.961847+00:00</pubDate><link>https://medium.com/codex/python-4-0-will-never-arrive-3d994dce54f1</link></item><guid isPermaLink="false">https://medium.com/codex/python-4-0-will-never-arrive-3d994dce54f1</guid>
 <item><title>![CDATA[University loses 77TB of research data due to backup error]]</title><description>![CDATA[The Kyoto University in Japan has lost about 77TB of research data due to an error in the backup system of its Hewlett-Packard supercomputer.]]</description><pubDate>2021-12-31 10:40:58.742282+00:00</pubDate><link>https://www.bleepingcomputer.com/news/security/university-loses-77tb-of-research-data-due-to-backup-error/</link></item><guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/university-loses-77tb-of-research-data-due-to-backup-error/</guid>
 <item><title>![CDATA[Parson says he believes prosecutor will bring charges in Post-Dispatch case | Politics | stltoday.com]]</title><description>![CDATA[Missouri’s governor has often tangled with news outlets over coverage he doesn’t like.]]</description><pubDate>2021-12-31 08:38:24.938319+00:00</pubDate><link>https://www.stltoday.com/news/local/govt-and-politics/parson-says-he-believes-prosecutor-will-bring-charges-in-post-dispatch-case/article_c4d88dae-fbf7-565f-a96c-e3589a626273.html</link></item><guid isPermaLink="false">https://www.stltoday.com/news/local/govt-and-politics/parson-says-he-believes-prosecutor-will-bring-charges-in-post-dispatch-case/article_c4d88dae-fbf7-565f-a96c-e3589a626273.html</guid>
@@ -1958,3 +1974,5 @@ real human life and human pychology.</p>]]</description><pubDate>2021-01-22 00:0
 <item><title>![CDATA[Dead Internet Theory: Most of the Internet is Fake]]</title><description>![CDATA[Dead Internet Theory: Most of the Internet is Fake]]</description><pubDate>2021-01-05 20:44:59+00:00</pubDate><link>https://forum.agoraroad.com/index.php?threads/dead-internet-theory-most-of-the-internet-is-fake.3011/</link></item><guid isPermaLink="false">https://forum.agoraroad.com/index.php?threads/dead-internet-theory-most-of-the-internet-is-fake.3011/</guid>
 <item><title>![CDATA[House introduces gender-neutral language in new rules for Congress]]</title><description>![CDATA[House introduces gender-neutral language in new rules for Congress]]</description><pubDate>2021-01-04 21:53:34+00:00</pubDate><link>https://thehill.com/changing-america/respect/diversity-inclusion/532518-house-introduces-gender-neutral-language-in-new</link></item><guid isPermaLink="false">https://thehill.com/changing-america/respect/diversity-inclusion/532518-house-introduces-gender-neutral-language-in-new</guid>
 <item><title>![CDATA[Why am I so Anti-Video Gaymes?]]</title><description>![CDATA[Why am I so Anti-Video Gaymes?]]</description><pubDate>2021-01-01 20:58:00+00:00</pubDate><link>https://www.youtube.com/watch?v=L5xd5yejPBE</link></item><guid isPermaLink="false">https://www.youtube.com/watch?v=L5xd5yejPBE</guid>
+
+</channel></rss>

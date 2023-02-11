@@ -376,6 +376,12 @@
  - user: rumpel
  - tags: ['social engineering', 'stereotypes', 'woke']
 
+## Report: The U.S. Military Emits More CO2 Than Many Industrialized Nations [Infographic]
+ - [https://www.forbes.com/sites/niallmccarthy/2019/06/13/report-the-u-s-military-emits-more-co2-than-many-industrialized-nations-infographic/?sh=678b045e4372](https://www.forbes.com/sites/niallmccarthy/2019/06/13/report-the-u-s-military-emits-more-co2-than-many-industrialized-nations-infographic/?sh=678b045e4372)
+ - date published: 2019-06-13 12:54:42+00:00
+ - user: rumpel
+ - tags: ['climate change', 'carbon footprint', 'carbon emissions']
+
 ## Report: Facebook Bans The Word “Honk”
  - [https://boundingintocomics.com/2019/06/11/report-facebook-bans-the-word-honk/](https://boundingintocomics.com/2019/06/11/report-facebook-bans-the-word-honk/)
  - date published: 2019-06-11 22:09:15+00:00

@@ -1,3 +1,19 @@
+
+<?xml version="1.0" encoding="UTF-8" ?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+        xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+        xmlns:webfeeds="http://webfeeds.org/rss/1.0"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
+<channel>
+  <title>RSS archive</title>
+  <atom:link href="https://renegat0x0.ddns.net" rel="self" type="application/rss+xml" />
+  <link>https://renegat0x0.ddns.net/</link>
+  <description>Link archive</description>
+  <language>en-US</language>
 <item><title>![CDATA[CIA launches task force to assess impact of U.S. cables' exposure by WikiLeaks]]</title><description>![CDATA[CIA launches task force to assess impact of U.S. cables' exposure by WikiLeaks]]</description><pubDate>2010-12-21 21:36:34+00:00</pubDate><link>https://www.washingtonpost.com/wp-dyn/content/article/2010/12/21/AR2010122104599.html?hpid=topnews</link></item><guid isPermaLink="false">https://www.washingtonpost.com/wp-dyn/content/article/2010/12/21/AR2010122104599.html?hpid=topnews</guid>
 <item><title>![CDATA[Facebook–Cambridge Analytica data scandal]]</title><description>![CDATA[Facebook–Cambridge Analytica data scandal]]</description><pubDate>2010-12-11 20:40:21+00:00</pubDate><link>https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal</link></item><guid isPermaLink="false">https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal</guid>
 <item><title>![CDATA[Amazon servers cut off WikiLeaks]]</title><description>![CDATA[Amazon, whose servers have been home to WikiLeaks since earlier this week, has quit hosting it, the website behind a massive disclosure of controversial documents said Wednesday.]]</description><pubDate>2010-12-02 03:49:13+00:00</pubDate><link>http://edition.cnn.com/2010/US/12/01/wikileaks.amazon/index.html?eref=edition</link></item><guid isPermaLink="false">http://edition.cnn.com/2010/US/12/01/wikileaks.amazon/index.html?eref=edition</guid>
@@ -7,3 +23,5 @@
 <item><title>![CDATA[Afghanistan war logs: Massive leak of secret files exposes truth of occupation | Afghanistan: the war logs | The Guardian]]</title><description>![CDATA[Afghanistan war logs: Massive leak of secret files exposes truth of occupation | Afghanistan: the war logs | The Guardian]]</description><pubDate>2010-07-25 21:33:58+00:00</pubDate><link>https://www.theguardian.com/world/2010/jul/25/afghanistan-war-logs-military-leaks</link></item><guid isPermaLink="false">https://www.theguardian.com/world/2010/jul/25/afghanistan-war-logs-military-leaks</guid>
 <item><title>![CDATA[Google mistakenly collected WiFi data on unsecured networks - May. 14, 2010]]</title><description>![CDATA[Google mistakenly collected WiFi data on unsecured networks - May. 14, 2010]]</description><pubDate>2010-05-14 08:48:45+00:00</pubDate><link>https://money.cnn.com/2010/05/14/technology/Google_mistaken_wifi_collection/index.htm</link></item><guid isPermaLink="false">https://money.cnn.com/2010/05/14/technology/Google_mistaken_wifi_collection/index.htm</guid>
 <item><title>![CDATA[Singletons Considered Harmful]]</title><description>![CDATA[Singletons Considered Harmful]]</description><pubDate>2010-01-05 10:07:14+00:00</pubDate><link>https://kentonshouse.com/singletons</link></item><guid isPermaLink="false">https://kentonshouse.com/singletons</guid>
+
+</channel></rss>

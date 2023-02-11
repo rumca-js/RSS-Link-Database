@@ -1,3 +1,19 @@
+
+<?xml version="1.0" encoding="UTF-8" ?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+        xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+        xmlns:webfeeds="http://webfeeds.org/rss/1.0"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
+<channel>
+  <title>RSS archive</title>
+  <atom:link href="https://renegat0x0.ddns.net" rel="self" type="application/rss+xml" />
+  <link>https://renegat0x0.ddns.net/</link>
+  <description>Link archive</description>
+  <language>en-US</language>
 <item><title>![CDATA[Hiszpania: Rodzina odmówi zaszczepienia seniora? Może stracić nad nim opiekę]]</title><description>![CDATA[Hiszpania: Rodzina odmówi zaszczepienia seniora? Może stracić nad nim opiekę]]</description><pubDate>2020-12-30 22:08:28+00:00</pubDate><link>https://www.rmf24.pl/raporty/raport-koronawirus-z-chin/europa/news-hiszpania-rodzina-odmowi-zaszczepienia-seniora-moze-stracic-,nId,4957585</link></item><guid isPermaLink="false">https://www.rmf24.pl/raporty/raport-koronawirus-z-chin/europa/news-hiszpania-rodzina-odmowi-zaszczepienia-seniora-moze-stracic-,nId,4957585</guid>
 <item><title>![CDATA[Prof. Horban: Zaszczepieni na Covid-19 nie będą zarażali, bo nie będą zakażeni - RMF 24]]</title><description>![CDATA[Prof. Horban: Zaszczepieni na Covid-19 nie będą zarażali, bo nie będą zakażeni - RMF 24]]</description><pubDate>2020-12-28 10:51:20+00:00</pubDate><link>https://www.rmf24.pl/raporty/raport-koronawirus-z-chin/najnowsze-fakty/news-prof-horban-zaszczepieni-na-covid-19-nie-beda-zarazali-bo-ni,nId,4953501#crp_state=1</link></item><guid isPermaLink="false">https://www.rmf24.pl/raporty/raport-koronawirus-z-chin/najnowsze-fakty/news-prof-horban-zaszczepieni-na-covid-19-nie-beda-zarazali-bo-ni,nId,4953501#crp_state=1</guid>
 <item><title>![CDATA[Netflix usuwa więcej niż kiedykolwiek. Zniknie 129 tytułów, w tym „Harry Potter” i „Władca Pierścien]]</title><description>![CDATA[]]</description><pubDate>2020-12-25 12:04:50+00:00</pubDate><link>https://spidersweb.pl/rozrywka/2020/12/25/netflix-grudzien-2020-harry-potter-przyjaciele-usuwane-31-grudnia</link></item><guid isPermaLink="false">https://spidersweb.pl/rozrywka/2020/12/25/netflix-grudzien-2020-harry-potter-przyjaciele-usuwane-31-grudnia</guid>
@@ -24,3 +40,5 @@
 <item><title>![CDATA[Przez 30 lat Berlin udostępniał dzieci pedofilom. Nazywano to "eksperymentem Kentlera" [RAPORT]]]</title><description>![CDATA[Przez 30 lat Berlin udostępniał dzieci pedofilom. Nazywano to "eksperymentem Kentlera" [RAPORT]]]</description><pubDate>2020-06-18 22:18:53+00:00</pubDate><link>https://wiadomosci.dziennik.pl/swiat/artykuly/7746506,berlin-dzieci-bezdomne-pedofile-eksperyment-helmut-kentler-pornografia-dziecieca.html</link></item><guid isPermaLink="false">https://wiadomosci.dziennik.pl/swiat/artykuly/7746506,berlin-dzieci-bezdomne-pedofile-eksperyment-helmut-kentler-pornografia-dziecieca.html</guid>
 <item><title>![CDATA[Jest afera. Każdy smartfon Xiaomi to podobno „backdoor z funkcjonalnością telefonu”]]</title><description>![CDATA[]]</description><pubDate>2020-05-01 12:04:50+00:00</pubDate><link>https://www.benchmark.pl/aktualnosci/smartfony-xiaomi-zbieraja-wszystkie-dane-o-uzytkowniku.html</link></item><guid isPermaLink="false">https://www.benchmark.pl/aktualnosci/smartfony-xiaomi-zbieraja-wszystkie-dane-o-uzytkowniku.html</guid>
 <item><title>![CDATA[Ministerstwo Zdrowia zakazuje lekarzom mówić o koronawirusie]]</title><description>![CDATA[]]</description><pubDate>2020-03-27 07:52:59+00:00</pubDate><link>https://trojmiasto.wyborcza.pl/trojmiasto/7,35612,25825997,ministerstwo-zdrowia-zakazuje-lekarzom-mowic-o-koronawirusie.html?squid_js=false</link></item><guid isPermaLink="false">https://trojmiasto.wyborcza.pl/trojmiasto/7,35612,25825997,ministerstwo-zdrowia-zakazuje-lekarzom-mowic-o-koronawirusie.html?squid_js=false</guid>
+
+</channel></rss>

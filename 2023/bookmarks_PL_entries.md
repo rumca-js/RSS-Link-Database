@@ -1,3 +1,9 @@
+## Bill Gates ma cztery odrzutowce. Miliarder t�umaczy, czemu nimi lata, cho� walczy o klimat
+ - [https://next.gazeta.pl/next/7,172392,29450499,bill-gates-ma-cztery-odrzutowce-miliarder-tlumaczy-czemu-nimi.html#do_w=52&do_v=478&fallback=true&do_st=RS&do_sid=604&do_a=604&s=BoxBizImg7&do_upid=478_ti&do_utid=29450499&do_uvid=1675973616132](https://next.gazeta.pl/next/7,172392,29450499,bill-gates-ma-cztery-odrzutowce-miliarder-tlumaczy-czemu-nimi.html#do_w=52&do_v=478&fallback=true&do_st=RS&do_sid=604&do_a=604&s=BoxBizImg7&do_upid=478_ti&do_utid=29450499&do_uvid=1675973616132)
+ - date published: 2023-02-09 13:55:07+00:00
+ - user: rumpel
+ - tags: ['bill gates', 'climate change', 'billionaires', 'hipycrisy']
+
 ## Gotówka wycofana z obiegu? Polacy zdecydowali | Wiadomości Radio ZET
  - [https://wiadomosci.radiozet.pl/Biznes/gotowka-wycofana-z-obiegu-polacy-zdecydowali](https://wiadomosci.radiozet.pl/Biznes/gotowka-wycofana-z-obiegu-polacy-zdecydowali)
  - date published: 2023-02-06 13:52:40+00:00

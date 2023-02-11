@@ -1,3 +1,9 @@
+## Microsoft vs. Google: The Endgame
+ - [https://shrimalmadhur.substack.com/p/microsoft-vs-google-the-endgame](https://shrimalmadhur.substack.com/p/microsoft-vs-google-the-endgame)
+ - date published: 2023-02-11 04:46:03+00:00
+ - user: rumpel
+ - tags: ['microsoft', 'google', 'artificial intelligence', 'chatgpt']
+
 ## The OPEN WEB is DYING...
  - [https://www.youtube.com/watch?v=pjTzQJxw-20](https://www.youtube.com/watch?v=pjTzQJxw-20)
  - date published: 2023-02-09 17:34:16+00:00
@@ -9,6 +15,18 @@
  - date published: 2023-02-08 20:57:27+00:00
  - user: rumpel
  - tags: ['chatgps', 'algorithms', 'google', 'artificial intelligence']
+
+## Bill Gates' defense of flying private echoes John Kerry excuse for jet-setting around world
+ - [https://www.foxnews.com/politics/bill-gates-defense-flying-private-echoes-john-kerry-excuse-jet-setting-around-world](https://www.foxnews.com/politics/bill-gates-defense-flying-private-echoes-john-kerry-excuse-jet-setting-around-world)
+ - date published: 2023-02-08 17:05:15+00:00
+ - user: rumpel
+ - tags: ['bill gates', 'climate change', 'billionaires', 'hipycrisy']
+
+## GOP Rep Nancy Mace Rips Ex-Twitter Official for Censoring Stanford Doc’s Covid Opinions | National Review
+ - [https://www.nationalreview.com/news/whered-you-go-to-medical-school-gop-rep-rips-ex-twitter-official-for-censoring-stanford-docs-covid-opinions/](https://www.nationalreview.com/news/whered-you-go-to-medical-school-gop-rep-rips-ex-twitter-official-for-censoring-stanford-docs-covid-opinions/)
+ - date published: 2023-02-08 13:57:58+00:00
+ - user: rumpel
+ - tags: ['twitter', 'censorship', 'covid']
 
 ## Wikipedia Worries Its Volunteer Editors Could Be Liable to Lawsuits Without Section 230
  - [https://gizmodo.com/wikipedia-section-230-scotus-encyclopedia-1850085090](https://gizmodo.com/wikipedia-section-230-scotus-encyclopedia-1850085090)
@@ -39,6 +57,12 @@
  - date published: 2023-02-08 07:31:02+00:00
  - user: rumpel
  - tags: ['bigbrother', 'turkey', 'censorship', 'twitter']
+
+## Google and Mozilla are working on iOS browsers that aren't based on WebKit
+ - [https://arstechnica.com/gadgets/2023/02/google-and-mozilla-are-working-on-ios-browsers-that-break-current-app-store-rules/](https://arstechnica.com/gadgets/2023/02/google-and-mozilla-are-working-on-ios-browsers-that-break-current-app-store-rules/)
+ - date published: 2023-02-07 17:46:09+00:00
+ - user: rumpel
+ - tags: ['dma']
 
 ## All the big tech layoffs of 2023
  - [https://www.engadget.com/tech-layoffs-183005204.html?src=rss](https://www.engadget.com/tech-layoffs-183005204.html?src=rss)

@@ -1070,7 +1070,7 @@
  - [https://arstechnica.com/?p=1904133](https://arstechnica.com/?p=1904133)
  - date published: 2022-12-13 22:13:20+00:00
  - user: rumpel
- - tags: ['apple', 'platforms']
+ - tags: ['platforms', 'apple', 'dma']
 
 ## Indian citizens that don’t link account numbers to Digital ID will soon face financial blacklisting
  - [https://reclaimthenet.org/india-digital-id-account-link/](https://reclaimthenet.org/india-digital-id-account-link/)
@@ -3195,6 +3195,12 @@
  - date published: 2022-11-01 18:03:19+00:00
  - user: None
  - tags: $tags
+
+## The DMA could force Apple to change how iMessage and other services operate
+ - [https://www.androidauthority.com/apple-imessage-dma-3229780/](https://www.androidauthority.com/apple-imessage-dma-3229780/)
+ - date published: 2022-11-01 17:19:50+00:00
+ - user: rumpel
+ - tags: ['dam', 'apple']
 
 ## Your company brand may soon be held hostage to Adobe, Pantone
  - [https://www.computerworld.com/article/3678297/your-company-brand-may-soon-be-held-hostage-to-adobe-pantone.html#tk.rss_all](https://www.computerworld.com/article/3678297/your-company-brand-may-soon-be-held-hostage-to-adobe-pantone.html#tk.rss_all)
@@ -6050,7 +6056,7 @@
  - [https://www.dailywire.com/news/bidens-declaration-that-the-covid-pandemic-is-over-explodes-liberals-heads](https://www.dailywire.com/news/bidens-declaration-that-the-covid-pandemic-is-over-explodes-liberals-heads)
  - date published: 2022-09-20 14:15:48+00:00
  - user: None
- - tags: $tags
+ - tags: ['covid', 'pandemic']
 
 ## I accidentally started a movement – Policing the Police by scraping court data
  - [https://news.ycombinator.com/item?id=32902945](https://news.ycombinator.com/item?id=32902945)
@@ -7533,6 +7539,18 @@
  - date published: 2022-08-26 13:07:38.819253+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Poll: 74 Percent Say FBI Misled Public About Hunter Biden's Laptop
+ - [https://www.breitbart.com/the-media/2022/08/26/poll-79-percent-say-donald-trump-would-have-won-hunters-laptop-was-known-voters/](https://www.breitbart.com/the-media/2022/08/26/poll-79-percent-say-donald-trump-would-have-won-hunters-laptop-was-known-voters/)
+ - date published: 2022-08-26 09:18:12+00:00
+ - user: rumpel
+ - tags: ['hunter biden', 'politics']
+
+## 2020 election outcome would differ with Hunter Biden laptop coverage: poll
+ - [https://nypost.com/2022/08/26/2020-election-outcome-would-differ-with-hunter-biden-laptop-coverage-poll/](https://nypost.com/2022/08/26/2020-election-outcome-would-differ-with-hunter-biden-laptop-coverage-poll/)
+ - date published: 2022-08-26 09:17:40+00:00
+ - user: rumpel
+ - tags: ['hunter biden', 'politics']
 
 ## The Legacy of Heroku's Free Tier - Xe
  - [https://xeiaso.net/blog/rip-heroku](https://xeiaso.net/blog/rip-heroku)
@@ -10875,6 +10893,12 @@
  - date published: 2022-01-30 23:07:41.507686+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Why Maus Was Banned…And Why It’s An Amazing Book
+ - [https://www.cbr.com/maus-newest-banned-book-one-of-greatest-comics/](https://www.cbr.com/maus-newest-banned-book-one-of-greatest-comics/)
+ - date published: 2022-01-30 14:02:04+00:00
+ - user: rumpel
+ - tags: ['censorship', 'maus']
 
 ## Here are all the famous people Jeffrey Epstein was connected to
  - [https://www.businessinsider.com/famous-people-jeffery-epstein-money-manager-sexual-trafficking-connected-2019-7?IR=T](https://www.businessinsider.com/famous-people-jeffery-epstein-money-manager-sexual-trafficking-connected-2019-7?IR=T)
