@@ -4,17 +4,53 @@
  - user: rumpel
  - tags: ['microsoft', 'google', 'artificial intelligence', 'chatgpt']
 
+## ChatGPT Hype Is Proof Nobody Understands AI
+ - [https://nabilalouani.substack.com/p/chatgpt-hype-is-proof-nobody-really](https://nabilalouani.substack.com/p/chatgpt-hype-is-proof-nobody-really)
+ - date published: 2023-02-10 21:45:21+00:00
+ - user: rumpel
+ - tags: ['chatgpt', 'artificial intelligence']
+
+## On Academic Freedom
+ - [https://acoup.blog/2023/02/10/fireside-friday-february-10-2023-on-academic-freedom/](https://acoup.blog/2023/02/10/fireside-friday-february-10-2023-on-academic-freedom/)
+ - date published: 2023-02-10 18:39:38+00:00
+ - user: rumpel
+ - tags: ['freedom', 'science']
+
+## Jira is awful, welcome to AJIR
+ - [https://www.ajir.app](https://www.ajir.app)
+ - date published: 2023-02-10 13:47:40+00:00
+ - user: rumpel
+ - tags: ['jira', 'management']
+
+## Windows 11 is collecting more user data than you know
+ - [https://windowsreport.com/windows-11-user-data/](https://windowsreport.com/windows-11-user-data/)
+ - date published: 2023-02-10 13:43:55+00:00
+ - user: rumpel
+ - tags: ['tracking', 'microsoft', 'windows', 'privacy']
+
 ## The OPEN WEB is DYING...
  - [https://www.youtube.com/watch?v=pjTzQJxw-20](https://www.youtube.com/watch?v=pjTzQJxw-20)
  - date published: 2023-02-09 17:34:16+00:00
  - user: rumpel
  - tags: ['dead internet', 'algorithms', 'internet']
 
+## Photoprism – open-source Google Photos Alternative
+ - [https://www.photoprism.app/](https://www.photoprism.app/)
+ - date published: 2023-02-08 23:06:04+00:00
+ - user: rumpel
+ - tags: ['selfhost']
+
 ## Is Google’s 20-year search dominance about to end?
  - [https://www.economist.com/business/2023/02/08/is-googles-20-year-search-dominance-about-to-end](https://www.economist.com/business/2023/02/08/is-googles-20-year-search-dominance-about-to-end)
  - date published: 2023-02-08 20:57:27+00:00
  - user: rumpel
  - tags: ['chatgps', 'algorithms', 'google', 'artificial intelligence']
+
+## Windows 11: a spyware machine out of users' control
+ - [https://www.techspot.com/news/97535-windows-11-spyware-machine-out-users-control.html](https://www.techspot.com/news/97535-windows-11-spyware-machine-out-users-control.html)
+ - date published: 2023-02-08 18:39:54+00:00
+ - user: rumpel
+ - tags: ['windows', 'telemetry', 'microsoft', 'privacy', 'tracking']
 
 ## Bill Gates' defense of flying private echoes John Kerry excuse for jet-setting around world
  - [https://www.foxnews.com/politics/bill-gates-defense-flying-private-echoes-john-kerry-excuse-jet-setting-around-world](https://www.foxnews.com/politics/bill-gates-defense-flying-private-echoes-john-kerry-excuse-jet-setting-around-world)
@@ -279,6 +315,12 @@
  - date published: 2023-01-30 14:26:23+00:00
  - user: rumpel
  - tags: ['gender', 'trans']
+
+## California Firefighters Use 6,000 Gallons of Water to Put Out Tesla Fire on Highway 50
+ - [https://www.theepochtimes.com/california-firefighters-use-6000-gallons-of-water-to-put-out-tesla-fire-on-highway-50_5018487.html](https://www.theepochtimes.com/california-firefighters-use-6000-gallons-of-water-to-put-out-tesla-fire-on-highway-50_5018487.html)
+ - date published: 2023-01-29 20:41:58+00:00
+ - user: rumpel
+ - tags: ['climate change', 'electric vehicles']
 
 ## George Soros - Wikipedia
  - [https://en.m.wikipedia.org/wiki/George_Soros](https://en.m.wikipedia.org/wiki/George_Soros)
