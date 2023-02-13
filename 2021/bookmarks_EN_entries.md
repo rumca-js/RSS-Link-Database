@@ -3238,6 +3238,12 @@
  - user: rumpel
  - tags: ['gender', 'rand paul', 'rachel levine']
 
+## Is Google Search Getting Less Accurate?
+ - [https://m.youtube.com/watch?v=8xl2mWK9LsE](https://m.youtube.com/watch?v=8xl2mWK9LsE)
+ - date published: 2021-02-21 13:36:49+00:00
+ - user: rumpel
+ - tags: ['dead internet', 'algorithms', 'google search']
+
 ## Yanis Varoufakis: Capitalism has become 'techno-feudalism' | UpFront
  - [https://www.youtube.com/watch?v=_jW0xUmUaUc](https://www.youtube.com/watch?v=_jW0xUmUaUc)
  - date published: 2021-02-19 21:05:32+00:00

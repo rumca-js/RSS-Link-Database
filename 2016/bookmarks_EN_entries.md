@@ -112,6 +112,12 @@
  - user: rumpel
  - tags: ['movies', 'spirited away', 'conspiracy theory']
 
+## Google accused of ‘biased’ search results favouring Clinton - The Globe and Mail
+ - [https://www.theglobeandmail.com/technology/google-under-fire-after-video-suggests-biased-search-results-favour-clinton/article30402737/](https://www.theglobeandmail.com/technology/google-under-fire-after-video-suggests-biased-search-results-favour-clinton/article30402737/)
+ - date published: 2016-06-10 14:15:29+00:00
+ - user: rumpel
+ - tags: ['dead internet', 'bigtech', 'google search', 'algorithms', 'media bias', 'manufacturing consent']
+
 ## Marshall McLuhan 1977 Interview - Violence as a Quest for Identity
  - [https://www.youtube.com/watch?v=ULI3x8WIxus](https://www.youtube.com/watch?v=ULI3x8WIxus)
  - date published: 2016-06-05 13:07:32+00:00

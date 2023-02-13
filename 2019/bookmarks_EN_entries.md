@@ -52,6 +52,18 @@
  - user: rumpel
  - tags: ['spirited away', 'anime', 'japan']
 
+## Google Manipulates Search Results to Hide Sensitive Subjects: Report
+ - [https://www.businessinsider.com/google-manipulates-search-results-report-2019-11?IR=T](https://www.businessinsider.com/google-manipulates-search-results-report-2019-11?IR=T)
+ - date published: 2019-11-15 14:12:35+00:00
+ - user: rumpel
+ - tags: ['dead internet', 'bigtech', 'google search', 'algorithms', 'media bias']
+
+## Google regularly changes search results: WSJ
+ - [https://www.cnbc.com/2019/11/15/google-tweaks-its-algorithm-to-change-search-results-wsj.html](https://www.cnbc.com/2019/11/15/google-tweaks-its-algorithm-to-change-search-results-wsj.html)
+ - date published: 2019-11-15 14:08:29+00:00
+ - user: rumpel
+ - tags: ['dead internet', 'bigtech', 'google search', 'algorithms', 'media bias', 'moderation', 'manufacturing consent']
+
 ## Jonathan Pageau: The Surprising Symbolism of 666
  - [https://www.youtube.com/watch?v=qM_kQjpAK6g](https://www.youtube.com/watch?v=qM_kQjpAK6g)
  - date published: 2019-11-14 20:16:44+00:00
@@ -303,6 +315,12 @@
  - date published: 2019-08-08 06:00:14+00:00
  - user: rumpel
  - tags: ['privacy', 'censorship', 'surveillance', 'free speech']
+
+## Google Manipulates Search Results, Former Engineer Shockingly Confirms
+ - [https://www.ccn.com/google-manipulates-search-results-former-engineer-shockingly-confirms/](https://www.ccn.com/google-manipulates-search-results-former-engineer-shockingly-confirms/)
+ - date published: 2019-08-01 14:10:59+00:00
+ - user: rumpel
+ - tags: ['dead internet', 'bigtech', 'google search', 'algorithms', 'media bias', 'manufacturing consent']
 
 ## Ben Shapiro Vs Climate Change | UBC Talk
  - [https://www.youtube.com/watch?v=wRk1p8Lzwvo](https://www.youtube.com/watch?v=wRk1p8Lzwvo)

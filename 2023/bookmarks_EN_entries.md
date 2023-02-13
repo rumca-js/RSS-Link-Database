@@ -1,3 +1,9 @@
+## Ask HN: How can Netflix and Amazon Prime be this bad at recommending content?
+ - [https://news.ycombinator.com/item?id=34754284](https://news.ycombinator.com/item?id=34754284)
+ - date published: 2023-02-11 17:26:18+00:00
+ - user: rumpel
+ - tags: ['algorithms', 'recommendation']
+
 ## Microsoft vs. Google: The Endgame
  - [https://shrimalmadhur.substack.com/p/microsoft-vs-google-the-endgame](https://shrimalmadhur.substack.com/p/microsoft-vs-google-the-endgame)
  - date published: 2023-02-11 04:46:03+00:00

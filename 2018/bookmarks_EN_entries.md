@@ -16,6 +16,12 @@
  - user: None
  - tags: ['facebook', 'google', 'censorship', 'algorithms']
 
+## Google Shows Personalized Search Results When Logged Out, According to New Study
+ - [https://www.searchenginejournal.com/google-shows-personalized-search-results-when-logged-out-according-to-new-study/281329/](https://www.searchenginejournal.com/google-shows-personalized-search-results-when-logged-out-according-to-new-study/281329/)
+ - date published: 2018-12-04 14:01:53+00:00
+ - user: rumpel
+ - tags: ['algorithms', 'privacy', 'bigtech', 'google search']
+
 ## How a future Trump Cabinet member gave a serial sex abuser the deal of a lifetime
  - [https://www.miamiherald.com/news/local/article220097825.html](https://www.miamiherald.com/news/local/article220097825.html)
  - date published: 2018-11-28 20:01:48+00:00
@@ -57,6 +63,12 @@
  - date published: 2018-10-13 20:37:55+00:00
  - user: rumpel
  - tags: ['clockwork orange', 'movies']
+
+## Google vs DuckDuckGo | Search engine manipulation, censorship and why you should switch
+ - [https://m.youtube.com/watch?v=SrsCEbi5N7Y](https://m.youtube.com/watch?v=SrsCEbi5N7Y)
+ - date published: 2018-10-13 13:51:29+00:00
+ - user: rumpel
+ - tags: ['dead internet', 'gołe search', 'algorithms', 'duckduckgo']
 
 ## The Agricultural Revolution Has Been A Disaster for the Human Race.
  - [https://notrelated.xyz/audio/s01/S01E05_-_The_Agricultural_Revolution_Has_Been_a_Disaster_for_the_Human_Race.mp3](https://notrelated.xyz/audio/s01/S01E05_-_The_Agricultural_Revolution_Has_Been_a_Disaster_for_the_Human_Race.mp3)
@@ -183,6 +195,12 @@
  - date published: 2018-07-19 09:12:04+00:00
  - user: rumpel
  - tags: ['managment', 'programming', 'estimate']
+
+## Google fined a record $5 billion by the EU for Android antitrust violations - The Verge
+ - [https://www.theverge.com/2018/7/18/17580694/google-android-eu-fine-antitrust](https://www.theverge.com/2018/7/18/17580694/google-android-eu-fine-antitrust)
+ - date published: 2018-07-18 13:57:43+00:00
+ - user: rumpel
+ - tags: ['chrome', 'browser', 'bigtech', 'antitrust', 'android', 'google']
 
 ## Social Engineering as a Threat to Societies: The Cambridge Analytica Case
  - [https://www.realcleardefense.com/articles/2018/07/18/social_engineering_as_a_threat_to_societies_the_cambridge_analytica_case_113620.html](https://www.realcleardefense.com/articles/2018/07/18/social_engineering_as_a_threat_to_societies_the_cambridge_analytica_case_113620.html)
