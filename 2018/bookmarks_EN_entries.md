@@ -46,6 +46,12 @@
  - user: rumpel
  - tags: ['george soros', 'facebook', 'propaganda', 'misinformation']
 
+## Joe Rogan - Exposing Social Justice with Peter Boghossian & James Lindsay
+ - [https://www.youtube.com/watch?v=OlqU_JMTzd4](https://www.youtube.com/watch?v=OlqU_JMTzd4)
+ - date published: 2018-10-30 20:27:37+00:00
+ - user: rumpel
+ - tags: ['sjw', 'feminism', 'rogan', 'lgbt', 'woke']
+
 ## 'City of surveillance': privacy expert quits Toronto's smart-city project
  - [https://www.theguardian.com/world/2018/oct/23/toronto-smart-city-surveillance-ann-cavoukian-resigns-privacy](https://www.theguardian.com/world/2018/oct/23/toronto-smart-city-surveillance-ann-cavoukian-resigns-privacy)
  - date published: 2018-10-23 12:04:50+00:00
@@ -363,6 +369,12 @@
  - date published: 2018-03-17 11:11:42+00:00
  - user: None
  - tags: ['trump', 'propaganda', 'facebook', 'censorship', 'cambridge analytica']
+
+## Young Catholics vs LGBT Bullies in the Netherlands
+ - [https://www.youtube.com/watch?v=47gQDbTaWqA](https://www.youtube.com/watch?v=47gQDbTaWqA)
+ - date published: 2018-03-14 20:40:28+00:00
+ - user: rumpel
+ - tags: ['lgbt', 'intolerance', 'christianophobia']
 
 ## These Are The Concerns Slowly Killing Ad-Tech
  - [https://readwrite.com/concerns-slowly-killing-ad-tech/](https://readwrite.com/concerns-slowly-killing-ad-tech/)

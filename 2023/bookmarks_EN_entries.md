@@ -1,3 +1,15 @@
+## MIT No-AI License
+ - [https://ognjen.io/mit-no-ai/](https://ognjen.io/mit-no-ai/)
+ - date published: 2023-02-13 18:50:58+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence', 'open source']
+
+## I Can Save You Money! – Raspberry Pi Alternatives
+ - [https://www.youtube.com/watch?v=uJvCVw1yONQ](https://www.youtube.com/watch?v=uJvCVw1yONQ)
+ - date published: 2023-02-13 17:59:07+00:00
+ - user: rumpel
+ - tags: ['raspberry']
+
 ## Ask HN: How can Netflix and Amazon Prime be this bad at recommending content?
  - [https://news.ycombinator.com/item?id=34754284](https://news.ycombinator.com/item?id=34754284)
  - date published: 2023-02-11 17:26:18+00:00
@@ -39,6 +51,12 @@
  - date published: 2023-02-09 17:34:16+00:00
  - user: rumpel
  - tags: ['dead internet', 'algorithms', 'internet']
+
+## Fingerprints of Unvaccinated NYC Teachers Flagged to FBI – Teachers For Choice
+ - [https://teachersforchoice.org/2023/02/09/fingerprints-of-unvaccinated-nyc-teachers-flagged-to-fbi/](https://teachersforchoice.org/2023/02/09/fingerprints-of-unvaccinated-nyc-teachers-flagged-to-fbi/)
+ - date published: 2023-02-09 10:44:18+00:00
+ - user: rumpel
+ - tags: ['bigbrother', 'covid', 'vaccine', 'mandates']
 
 ## Photoprism – open-source Google Photos Alternative
  - [https://www.photoprism.app/](https://www.photoprism.app/)
@@ -879,6 +897,12 @@
  - date published: 2023-01-13 17:01:29+00:00
  - user: rumpel
  - tags: ['facial recognition', 'surveillance', 'bigbrother', 'india', 'corporatocracy', 'biometric']
+
+## We could stumble into AI catastrophe
+ - [https://www.cold-takes.com/how-we-could-stumble-into-ai-catastrophe/](https://www.cold-takes.com/how-we-could-stumble-into-ai-catastrophe/)
+ - date published: 2023-01-13 16:45:56+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence', 'algorithms']
 
 ## Internet Archive: Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine
  - [https://archive.org/](https://archive.org/)

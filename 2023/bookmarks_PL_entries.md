@@ -1,3 +1,9 @@
+## Do szpitala trafił mężczyzna z kłódką na… worku mosznowym. O pomoc poproszono strażaków | Piotrkowski24
+ - [https://www.piotrkowski24.pl/do-szpitala-trafil-mezczyzna-z-klodka-na-worku-mosznowym-o-pomoc-poproszono-strazakow/](https://www.piotrkowski24.pl/do-szpitala-trafil-mezczyzna-z-klodka-na-worku-mosznowym-o-pomoc-poproszono-strazakow/)
+ - date published: 2023-02-13 14:17:49+00:00
+ - user: rumpel
+ - tags: ['funny']
+
 ## Bill Gates ma cztery odrzutowce. Miliarder t�umaczy, czemu nimi lata, cho� walczy o klimat
  - [https://next.gazeta.pl/next/7,172392,29450499,bill-gates-ma-cztery-odrzutowce-miliarder-tlumaczy-czemu-nimi.html#do_w=52&do_v=478&fallback=true&do_st=RS&do_sid=604&do_a=604&s=BoxBizImg7&do_upid=478_ti&do_utid=29450499&do_uvid=1675973616132](https://next.gazeta.pl/next/7,172392,29450499,bill-gates-ma-cztery-odrzutowce-miliarder-tlumaczy-czemu-nimi.html#do_w=52&do_v=478&fallback=true&do_st=RS&do_sid=604&do_a=604&s=BoxBizImg7&do_upid=478_ti&do_utid=29450499&do_uvid=1675973616132)
  - date published: 2023-02-09 13:55:07+00:00

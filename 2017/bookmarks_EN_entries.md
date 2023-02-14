@@ -76,6 +76,12 @@
  - user: None
  - tags: ['facebook', 'democracy', 'election', 'corporatocracy', 'privacy', 'social media']
 
+## Jordan Peterson - Gay Marriage
+ - [https://www.youtube.com/watch?v=4jef2C4T1_A](https://www.youtube.com/watch?v=4jef2C4T1_A)
+ - date published: 2017-10-04 20:58:00+00:00
+ - user: rumpel
+ - tags: ['lgbt', 'peterson', 'homosexual', 'gay']
+
 ## Is Reality Real? The Simulation Argument
  - [https://www.youtube.com/watch?v=tlTKTTt47WE](https://www.youtube.com/watch?v=tlTKTTt47WE)
  - date published: 2017-09-21 07:46:14+00:00

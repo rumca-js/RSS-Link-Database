@@ -64,3 +64,9 @@
  - user: rumpel
  - tags: ['intolerance', 'woke', 'mozilla']
 
+## Judge rules that Kansan who provided sperm to lesbian couple owes child support  Read more at: https://www.kansascity.com/news/local/article337100.html#storylink=cpy
+ - [https://www.kansascity.com/news/local/article337100.html](https://www.kansascity.com/news/local/article337100.html)
+ - date published: 2014-01-22 07:45:37+00:00
+ - user: rumpel
+ - tags: ['woke', 'lgbt']
+

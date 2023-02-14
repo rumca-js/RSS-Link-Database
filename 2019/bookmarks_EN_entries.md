@@ -322,6 +322,12 @@
  - user: rumpel
  - tags: ['dead internet', 'bigtech', 'google search', 'algorithms', 'media bias', 'manufacturing consent']
 
+## MAN, I FEEL LIKE A WOMAN: Walsh absolutely wrecks entire transgender argument
+ - [https://www.youtube.com/watch?v=J0a0fllObFk](https://www.youtube.com/watch?v=J0a0fllObFk)
+ - date published: 2019-07-30 08:48:08+00:00
+ - user: rumpel
+ - tags: ['trans', 'gender', 'woke', 'lgbt']
+
 ## Ben Shapiro Vs Climate Change | UBC Talk
  - [https://www.youtube.com/watch?v=wRk1p8Lzwvo](https://www.youtube.com/watch?v=wRk1p8Lzwvo)
  - date published: 2019-07-27 14:40:12+00:00
@@ -496,6 +502,12 @@
  - user: rumpel
  - tags: ['privacy', 'racism', 'censorship', 'free speech', 'bigbrother']
 
+## Sweden sees microchip implant revolution | Al Jazeera English
+ - [https://www.youtube.com/watch?v=dl_gemn9a9E](https://www.youtube.com/watch?v=dl_gemn9a9E)
+ - date published: 2019-02-21 19:57:15+00:00
+ - user: rumpel
+ - tags: ['chip', 'sweden']
+
 ## We're Numb to Data Privacy Abuse | Joe Rogan & Bill Ottman
  - [https://www.youtube.com/watch?v=5WD3azvYYWs](https://www.youtube.com/watch?v=5WD3azvYYWs)
  - date published: 2019-02-20 20:54:35+00:00
@@ -561,4 +573,10 @@
  - date published: 2019-01-05 13:24:27+00:00
  - user: rumpel
  - tags: ['c++', 'programming']
+
+## Desmond Napoles "Child Drag Queen" Exploited By Adults
+ - [https://www.youtube.com/watch?v=UEgA8kHuYvs](https://www.youtube.com/watch?v=UEgA8kHuYvs)
+ - date published: 2019-01-04 21:28:23+00:00
+ - user: rumpel
+ - tags: ['children', 'sexualisation', 'lgbt']
 

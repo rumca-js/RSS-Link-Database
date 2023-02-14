@@ -4,12 +4,6 @@
  - user: rumpel
  - tags: ['war', 'drugs', 'china', 'america']
 
-## Jordan Peterson - Gay Marriage
- - [https://www.youtube.com/watch?v=4jef2C4T1_A](https://www.youtube.com/watch?v=4jef2C4T1_A)
- - date published: 2017-10-04 20:58:00+00:00
- - user: rumpel
- - tags: ['lgbt', 'peterson', 'homosexual', 'gay']
-
 ## ILE JEST WARTA TWOJA PRYWATNOŚĆ?
  - [https://www.youtube.com/watch?v=qk3HNcNOqRA](https://www.youtube.com/watch?v=qk3HNcNOqRA)
  - date published: 2017-10-02 20:36:30+00:00

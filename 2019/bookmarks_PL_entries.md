@@ -58,12 +58,6 @@
  - user: rumpel
  - tags: ['greta', 'corporatocracy', 'thunberg', 'climate change']
 
-## MAN, I FEEL LIKE A WOMAN: Walsh absolutely wrecks entire transgender argument
- - [https://www.youtube.com/watch?v=J0a0fllObFk](https://www.youtube.com/watch?v=J0a0fllObFk)
- - date published: 2019-07-30 08:48:08+00:00
- - user: rumpel
- - tags: ['trans', 'gender', 'woke', 'lgbt']
-
 ## Akcja "Żywa Książka" budzi sprzeciw Ordo Iuris. "Pod pozorem lekcji tolerancji oswaja się ludzi z agendą LGBT"
  - [https://wiadomosci.dziennik.pl/wydarzenia/artykuly/602791,zywa-ksiazka-ordo-iuris-lgbt-kontrowersje.html](https://wiadomosci.dziennik.pl/wydarzenia/artykuly/602791,zywa-ksiazka-ordo-iuris-lgbt-kontrowersje.html)
  - date published: 2019-07-17 22:15:14+00:00
@@ -82,12 +76,6 @@
  - user: rumpel
  - tags: ['poland', 'climate change', 'atom']
 
-## Sweden sees microchip implant revolution | Al Jazeera English
- - [https://www.youtube.com/watch?v=dl_gemn9a9E](https://www.youtube.com/watch?v=dl_gemn9a9E)
- - date published: 2019-02-21 19:57:15+00:00
- - user: rumpel
- - tags: ['chip', 'sweden']
-
 ## Sektor finansowy ogrywa demokrację, możemy się obudzić w świecie zamieszek i rewolucji
  - [https://next.gazeta.pl/next/7,151003,24456145,sektor-finansowy-ogrywa-demokracje-mozemy-sie-obudzic-w-swiecie.html](https://next.gazeta.pl/next/7,151003,24456145,sektor-finansowy-ogrywa-demokracje-mozemy-sie-obudzic-w-swiecie.html)
  - date published: 2019-02-15 07:12:55+00:00
@@ -99,10 +87,4 @@
  - date published: 2019-01-26 07:23:00+00:00
  - user: None
  - tags: ['right-wing conspiracy', 'conspiracy theory']
-
-## Desmond Napoles "Child Drag Queen" Exploited By Adults
- - [https://www.youtube.com/watch?v=UEgA8kHuYvs](https://www.youtube.com/watch?v=UEgA8kHuYvs)
- - date published: 2019-01-04 21:28:23+00:00
- - user: rumpel
- - tags: ['children', 'sexualisation', 'lgbt']
 
