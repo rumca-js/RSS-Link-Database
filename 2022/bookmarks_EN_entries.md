@@ -5476,6 +5476,12 @@
  - user: None
  - tags: $tags
 
+## Biden Ties to BlackRock Deepen With Latest Treasury Hire (BLK) - Bloomberg
+ - [https://www.bloomberg.com/news/articles/2022-08-11/biden-ties-to-blackrock-deepen-with-latest-treasury-hire?leadSource=uverify%20wall](https://www.bloomberg.com/news/articles/2022-08-11/biden-ties-to-blackrock-deepen-with-latest-treasury-hire?leadSource=uverify%20wall)
+ - date published: 2022-09-27 16:53:01+00:00
+ - user: rumpel
+ - tags: ['blackrock', 'manufacturing consent']
+
 ## For some Christians, 'rapture anxiety' can take a lifetime to heal
  - [https://www.cnn.com/2022/09/27/us/rapture-anxiety-evangelical-exvangelical-christianity-cec/index.html](https://www.cnn.com/2022/09/27/us/rapture-anxiety-evangelical-exvangelical-christianity-cec/index.html)
  - date published: 2022-09-27 16:08:37+00:00

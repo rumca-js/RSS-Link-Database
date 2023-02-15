@@ -718,12 +718,6 @@
  - user: None
  - tags: $tags
 
-## Xiaomi zasypuje nas urządzeniami poprawiającymi jakość życia. Co nowego?
- - [https://ithardware.pl/aktualnosci/xiaomi_zasypuje_nas_urzadzeniami_poprawiajacymi_jakosc_zycia_co_nowego-23679.html](https://ithardware.pl/aktualnosci/xiaomi_zasypuje_nas_urzadzeniami_poprawiajacymi_jakosc_zycia_co_nowego-23679.html)
- - date published: 2022-10-05 04:46:59+00:00
- - user: None
- - tags: $tags
-
 ## W Europie zaczyna się masowe bankructwo hoteli i restauracji
  - [https://www.wykop.pl/link/6845567/w-europie-zaczyna-sie-masowe-bankructwo-hoteli-i-restauracji/](https://www.wykop.pl/link/6845567/w-europie-zaczyna-sie-masowe-bankructwo-hoteli-i-restauracji/)
  - date published: 2022-10-04 20:10:01+00:00

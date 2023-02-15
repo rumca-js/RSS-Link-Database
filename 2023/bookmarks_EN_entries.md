@@ -1,8 +1,26 @@
+## Reddit admits it was hacked and data stolen, says “Don’t panic”
+ - [https://nakedsecurity.sophos.com/2023/02/10/reddit-admits-it-was-hacked-and-data-stolen-says-dont-panic/](https://nakedsecurity.sophos.com/2023/02/10/reddit-admits-it-was-hacked-and-data-stolen-says-dont-panic/)
+ - date published: 2023-02-14 05:00:00+00:00
+ - user: rumpel
+ - tags: ['hack', 'leak']
+
+## Face masks made ‘little to no difference’ in spread of COVID, scientific review finds
+ - [https://www.foxnews.com/health/face-masks-difference-spread-covid-scientific-review](https://www.foxnews.com/health/face-masks-difference-spread-covid-scientific-review)
+ - date published: 2023-02-14 00:17:48+00:00
+ - user: rumpel
+ - tags: ['masks', 'covid']
+
 ## MIT No-AI License
  - [https://ognjen.io/mit-no-ai/](https://ognjen.io/mit-no-ai/)
  - date published: 2023-02-13 18:50:58+00:00
  - user: rumpel
  - tags: ['artificial intelligence', 'open source']
+
+## Xbox Game Pass Does Decrease Base Game Sales, Microsoft Says
+ - [https://www.gamespot.com/articles/xbox-game-pass-does-decrease-base-game-sales-microsoft-says/1100-6511473/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/xbox-game-pass-does-decrease-base-game-sales-microsoft-says/1100-6511473/?ftag=CAD-01-10abi2f)
+ - date published: 2023-02-13 18:05:00+00:00
+ - user: rumpel
+ - tags: ['subscription', 'lie', 'bigtech', 'microsoft', 'gamepass']
 
 ## I Can Save You Money! – Raspberry Pi Alternatives
  - [https://www.youtube.com/watch?v=uJvCVw1yONQ](https://www.youtube.com/watch?v=uJvCVw1yONQ)
@@ -309,6 +327,12 @@
  - date published: 2023-01-31 02:11:22+00:00
  - user: rumpel
  - tags: ['corporatocracy', 'facebook', 'bigtech']
+
+## Dutch Gov’t Plans New Digital ID Project With Canada, Says WEF Initiative Is Done
+ - [https://www.theepochtimes.com/dutch-govt-plans-new-digital-id-project-with-canada-says-wef-initiative-is-done_5020401.html](https://www.theepochtimes.com/dutch-govt-plans-new-digital-id-project-with-canada-says-wef-initiative-is-done_5020401.html)
+ - date published: 2023-01-30 18:20:12+00:00
+ - user: rumpel
+ - tags: ['digital identity']
 
 ## Oops, I Did It Again: Apple Faces Fourth iPhone Privacy Lawsuit After Gizmodo Story
  - [https://gizmodo.com/apple-iphone-analytics-privacy-4th-lawsuit-1850048418](https://gizmodo.com/apple-iphone-analytics-privacy-4th-lawsuit-1850048418)

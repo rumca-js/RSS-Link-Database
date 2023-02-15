@@ -676,6 +676,12 @@
  - user: None
  - tags: ['windows', 'hacker']
 
+## BlackRock Is Biggest Beneficiary of Fed Purchases of Corporate Bond ETFs | Barron's
+ - [https://www.barrons.com/articles/blackrock-is-biggest-beneficiary-of-fed-purchases-of-corporate-bond-etfs-51591034726](https://www.barrons.com/articles/blackrock-is-biggest-beneficiary-of-fed-purchases-of-corporate-bond-etfs-51591034726)
+ - date published: 2020-06-20 16:50:04+00:00
+ - user: rumpel
+ - tags: ['blackrock', 'manufacturing consent', 'billionaires']
+
 ## What's been happening in China's Xinjiang, home to 11 million Uyghurs?
  - [https://www.cnn.com/2020/06/19/asia/xinjiang-explainer-intl-hnk-scli/index.html](https://www.cnn.com/2020/06/19/asia/xinjiang-explainer-intl-hnk-scli/index.html)
  - date published: 2020-06-19 09:06:18+00:00

@@ -1,0 +1,20 @@
+
+<?xml version="1.0" encoding="UTF-8" ?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+        xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+        xmlns:webfeeds="http://webfeeds.org/rss/1.0"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
+<channel>
+  <title>RSS archive</title>
+  <atom:link href="https://renegat0x0.ddns.net" rel="self" type="application/rss+xml" />
+  <link>https://renegat0x0.ddns.net/</link>
+  <description>Link archive</description>
+  <language>en-US</language>
+<item><title>![CDATA[Halliburton: $61M Overcharge? - CBS News]]</title><description>![CDATA[Halliburton: $61M Overcharge? - CBS News]]</description><pubDate>2003-12-12 17:02:49+00:00</pubDate><link>https://www.cbsnews.com/news/halliburton-61m-overcharge/</link></item><guid isPermaLink="false">https://www.cbsnews.com/news/halliburton-61m-overcharge/</guid>
+<item><title>![CDATA[Iraq: Halliburton Reaping Huge Profits | corpwatch]]</title><description>![CDATA[Iraq: Halliburton Reaping Huge Profits | corpwatch]]</description><pubDate>2003-08-28 16:59:48+00:00</pubDate><link>https://www.corpwatch.org/article/iraq-halliburton-reaping-huge-profits</link></item><guid isPermaLink="false">https://www.corpwatch.org/article/iraq-halliburton-reaping-huge-profits</guid>
+
+</channel></rss>
