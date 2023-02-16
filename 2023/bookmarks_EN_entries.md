@@ -154,6 +154,12 @@
  - user: rumpel
  - tags: ['chatgpt', 'artificial intelligence']
 
+## WeChat: China’s Other Trojan Horse
+ - [https://www.forbes.com/sites/arthurherman/2023/02/03/wechat-chinas-other-trojan-horse/](https://www.forbes.com/sites/arthurherman/2023/02/03/wechat-chinas-other-trojan-horse/)
+ - date published: 2023-02-03 16:04:40+00:00
+ - user: rumpel
+ - tags: ['china', 'privacy', 'wechat', 'surveillance']
+
 ## Exclusive Q&A John Carmack’s ‘Different Path’ to Artificial General Intelligence
  - [https://dallasinnovates.com/exclusive-qa-john-carmacks-different-path-to-artificial-general-intelligence/](https://dallasinnovates.com/exclusive-qa-john-carmacks-different-path-to-artificial-general-intelligence/)
  - date published: 2023-02-03 06:01:47+00:00
@@ -279,6 +285,12 @@
  - date published: 2023-02-01 01:48:46+00:00
  - user: rumpel
  - tags: ['remote work', 'economy']
+
+## Bill Gates secured hundreds of millions in profits from mRNA stock sales before dramatically changing tune on vax tech
+ - [https://dossier.substack.com/p/bill-gates-secured-hundreds-of-millions](https://dossier.substack.com/p/bill-gates-secured-hundreds-of-millions)
+ - date published: 2023-01-31 21:48:01+00:00
+ - user: rumpel
+ - tags: ['mrna', 'covid', 'vaccine', 'bill gates']
 
 ## Top password manager denies its entire database can be stolen
  - [https://www.techradar.com/news/top-password-manager-denies-its-entire-database-can-be-stolen](https://www.techradar.com/news/top-password-manager-denies-its-entire-database-can-be-stolen)

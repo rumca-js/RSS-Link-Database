@@ -2728,6 +2728,12 @@
  - user: None
  - tags: ['meta', 'facebook']
 
+## WeChat users are writing apology letters to get their banned accounts on Tencent’s super app back - Rest of World
+ - [https://restofworld.org/2022/handwritten-wechat-apology-letters/](https://restofworld.org/2022/handwritten-wechat-apology-letters/)
+ - date published: 2022-11-08 16:08:26+00:00
+ - user: rumpel
+ - tags: ['privacy', 'wechat', 'surveillance', 'bigtech']
+
 ## British Universities Told to Teach That Math Is Racist
  - [https://www.thetrumpet.com/26367-british-universities-told-to-teach-that-math-is-racist](https://www.thetrumpet.com/26367-british-universities-told-to-teach-that-math-is-racist)
  - date published: 2022-11-08 14:48:32+00:00
@@ -8301,6 +8307,12 @@
  - date published: 2022-07-12 20:16:31+00:00
  - user: None
  - tags: $tags
+
+## WeChat Is China’s Most Beloved (and Feared) Surveillance Tool
+ - [https://www.bloomberg.com/news/features/2022-07-12/wechat-is-china-s-beloved-surveillance-tool?leadSource=uverify%20wall](https://www.bloomberg.com/news/features/2022-07-12/wechat-is-china-s-beloved-surveillance-tool?leadSource=uverify%20wall)
+ - date published: 2022-07-12 15:58:01+00:00
+ - user: rumpel
+ - tags: ['wechat', 'bigbrother', 'surveillance', 'privacy', 'bigtech', 'china']
 
 ## Photographer Documents All 12,795 Items That She Owns | PetaPixel
  - [https://petapixel.com/2022/07/08/photographer-documents-all-12795-items-that-she-owns/](https://petapixel.com/2022/07/08/photographer-documents-all-12795-items-that-she-owns/)

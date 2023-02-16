@@ -316,6 +316,12 @@
  - user: rumpel
  - tags: ['bill gates', 'billionaires', 'covid', 'elite']
 
+## A WeChat Ban Would End Their Lifeline - The New York Times
+ - [https://www.nytimes.com/2020/10/05/nyregion/us-wechat-ban.html](https://www.nytimes.com/2020/10/05/nyregion/us-wechat-ban.html)
+ - date published: 2020-10-05 16:16:09+00:00
+ - user: rumpel
+ - tags: ['china', 'privacy', 'wechat', 'surveillance']
+
 ## Dr Martin Feeley: I lost my job for speaking out
  - [https://www.independent.ie/world-news/coronavirus/i-lost-my-job-for-speaking-out-but-i-have-no-regrets-dr-martin-feeley-on-his-coronavirus-views-39585808.html](https://www.independent.ie/world-news/coronavirus/i-lost-my-job-for-speaking-out-but-i-have-no-regrets-dr-martin-feeley-on-his-coronavirus-views-39585808.html)
  - date published: 2020-10-04 07:26:41+00:00
@@ -405,6 +411,12 @@
  - date published: 2020-09-07 21:01:23+00:00
  - user: rumpel
  - tags: ['norway', 'lgbt', 'inequality']
+
+## Forget TikTok. China’s Powerhouse App Is WeChat. - The New York Times
+ - [https://www.nytimes.com/2020/09/04/technology/wechat-china-united-states.html](https://www.nytimes.com/2020/09/04/technology/wechat-china-united-states.html)
+ - date published: 2020-09-04 16:12:51+00:00
+ - user: rumpel
+ - tags: ['wechat', 'bigbrother', 'surveillance', 'manufacturing consent', 'privacy', 'bigtech']
 
 ## Hedonism, Asceticism and the Hermetic Answer
  - [https://lukesmith.xyz/articles/hedonism-asceticism-and-the-hermetic-answer/](https://lukesmith.xyz/articles/hedonism-asceticism-and-the-hermetic-answer/)
