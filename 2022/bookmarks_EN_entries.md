@@ -4996,6 +4996,12 @@
  - user: None
  - tags: $tags
 
+## Hyundai and Kia Cars Can Be Stolen using a USB Cable
+ - [https://www.bolnews.com/technology/2022/08/hyundai-and-kia-cars-can-be-stolen-using-a-usb-cable/](https://www.bolnews.com/technology/2022/08/hyundai-and-kia-cars-can-be-stolen-using-a-usb-cable/)
+ - date published: 2022-10-05 07:50:34+00:00
+ - user: rumpel
+ - tags: ['hack', 'electric vehicles']
+
 ## Open source development is not sustainable
  - [https://staltz.com/software-below-the-poverty-line.html](https://staltz.com/software-below-the-poverty-line.html)
  - date published: 2022-10-05 04:32:25+00:00

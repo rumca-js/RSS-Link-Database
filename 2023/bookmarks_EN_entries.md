@@ -1,3 +1,21 @@
+## Yes, Elon Musk created a special system for showing you all his tweets first
+ - [https://www.theverge.com/2023/2/14/23600358/elon-musk-tweets-algorithm-changes-twitter](https://www.theverge.com/2023/2/14/23600358/elon-musk-tweets-algorithm-changes-twitter)
+ - date published: 2023-02-15 01:19:46+00:00
+ - user: rumpel
+ - tags: ['hipocrisy', 'tweeter', 'billionaires', 'inequality', 'elon musk', 'elites']
+
+## Android launches yet another way to spy on users with “Privacy Sandbox” beta
+ - [https://arstechnica.com/?p=1917626](https://arstechnica.com/?p=1917626)
+ - date published: 2023-02-14 22:29:43+00:00
+ - user: rumpel
+ - tags: ['google', 'surveillence', 'android', 'privacy', 'bigtech']
+
+## EU Parliament votes to effectively ban new combustion engine cars by 2035
+ - [https://www.theverge.com/2023/2/14/23599412/eu-parliament-vote-ban-combustion-engine-cars-vans-2035-law](https://www.theverge.com/2023/2/14/23599412/eu-parliament-vote-ban-combustion-engine-cars-vans-2035-law)
+ - date published: 2023-02-14 17:02:55+00:00
+ - user: rumpel
+ - tags: ['eu', 'electric vehicles', 'climate change']
+
 ## Reddit admits it was hacked and data stolen, says “Don’t panic”
  - [https://nakedsecurity.sophos.com/2023/02/10/reddit-admits-it-was-hacked-and-data-stolen-says-dont-panic/](https://nakedsecurity.sophos.com/2023/02/10/reddit-admits-it-was-hacked-and-data-stolen-says-dont-panic/)
  - date published: 2023-02-14 05:00:00+00:00
