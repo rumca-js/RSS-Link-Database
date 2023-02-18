@@ -1,3 +1,21 @@
+## App founder quits Google, says company doesn’t serve users anymore
+ - [https://arstechnica.com/gadgets/2023/02/app-founder-quits-google-says-company-doesnt-serve-users-anymore/](https://arstechnica.com/gadgets/2023/02/app-founder-quits-google-says-company-doesnt-serve-users-anymore/)
+ - date published: 2023-02-17 05:00:00+00:00
+ - user: rumpel
+ - tags: ['monopoly', 'google', 'bigtech']
+
+## The Privacy Sandbox Beta is coming to Android
+ - [https://blog.google/products/android/the-privacy-sandbox-beta-is-coming-to-android/](https://blog.google/products/android/the-privacy-sandbox-beta-is-coming-to-android/)
+ - date published: 2023-02-16 05:00:00+00:00
+ - user: rumpel
+ - tags: $tags
+
+## Dutch chip firm ASML says former China employee stole data
+ - [https://www.cnn.com/2023/02/15/tech/asml-china-employee-data-breach-intl-hnk/index.html](https://www.cnn.com/2023/02/15/tech/asml-china-employee-data-breach-intl-hnk/index.html)
+ - date published: 2023-02-16 04:57:57+00:00
+ - user: rumpel
+ - tags: ['theft', 'intellectual property', 'china', 'espionage']
+
 ## Yes, Elon Musk created a special system for showing you all his tweets first
  - [https://www.theverge.com/2023/2/14/23600358/elon-musk-tweets-algorithm-changes-twitter](https://www.theverge.com/2023/2/14/23600358/elon-musk-tweets-algorithm-changes-twitter)
  - date published: 2023-02-15 01:19:46+00:00
@@ -561,6 +579,12 @@
  - date published: 2023-01-24 19:04:31+00:00
  - user: rumpel
  - tags: ['smarthome', 'iot', 'privacy']
+
+## Google is being sued by the US government and eight states over online advertising
+ - [https://www.theverge.com/2023/1/24/23569127/google-advertising-monopoly-antitrust-lawsuit-federal-government](https://www.theverge.com/2023/1/24/23569127/google-advertising-monopoly-antitrust-lawsuit-federal-government)
+ - date published: 2023-01-24 18:57:35+00:00
+ - user: rumpel
+ - tags: ['bigtech', 'google', 'ads', 'monopoly', 'ad business']
 
 ## DOJ Sues Google, Seeking to Break Up Online Ad Business
  - [https://www.wsj.com/articles/u-s-sues-google-for-alleged-antitrust-violations-in-its-ad-tech-business-11674582792?mod=rss_Technology](https://www.wsj.com/articles/u-s-sues-google-for-alleged-antitrust-violations-in-its-ad-tech-business-11674582792?mod=rss_Technology)

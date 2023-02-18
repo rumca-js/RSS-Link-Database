@@ -322,6 +322,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Evidence from Jeffrey Epstein's safe 'went missing' after FBI raid, court hears in Ghislaine Maxwell trial
+ - [https://www.telegraph.co.uk/world-news/2021/12/07/evidence-jeffrey-epsteins-safe-went-missing-fbi-raid-court-hears/](https://www.telegraph.co.uk/world-news/2021/12/07/evidence-jeffrey-epsteins-safe-went-missing-fbi-raid-court-hears/)
+ - date published: 2021-12-07 22:37:20+00:00
+ - user: rumpel
+ - tags: ['fbi', 'epstein']
+
 ## Apple broke up with me 😢
  - [https://merecivilian.com/apple-broke-up-with-me/](https://merecivilian.com/apple-broke-up-with-me/)
  - date published: 2021-12-07 07:29:43.778873+00:00
@@ -2841,6 +2847,12 @@
  - date published: 2021-06-24 18:00:32+00:00
  - user: None
  - tags: ['vaccine', 'covid']
+
+## EU launches antitrust probe into Google banning third-party cookies in Chrome | Ars Technica
+ - [https://arstechnica.com/tech-policy/2021/06/eu-antitrust-regulators-launch-probe-into-googles-floc-plan/](https://arstechnica.com/tech-policy/2021/06/eu-antitrust-regulators-launch-probe-into-googles-floc-plan/)
+ - date published: 2021-06-22 21:17:41+00:00
+ - user: rumpel
+ - tags: ['bigtech', 'google', 'cookies', 'monopoly', 'antitrust']
 
 ## Even creepier COVID tracking: Google silently pushed app to users’ phones [Updated]
  - [https://arstechnica.com/gadgets/2021/06/even-creepier-covid-tracking-google-silently-pushed-app-to-users-phones/](https://arstechnica.com/gadgets/2021/06/even-creepier-covid-tracking-google-silently-pushed-app-to-users-phones/)
