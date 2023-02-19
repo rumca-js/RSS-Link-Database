@@ -220,6 +220,12 @@
  - user: None
  - tags: ['covid', 'lockdown']
 
+## Google’s Cash Makes Rivals Less Eager for Antitrust Crackdown
+ - [https://www.bloomberg.com/news/articles/2020-11-24/deals-with-apple-aapl-mozilla-show-how-google-googl-discourages-competition](https://www.bloomberg.com/news/articles/2020-11-24/deals-with-apple-aapl-mozilla-show-how-google-googl-discourages-competition)
+ - date published: 2020-11-24 19:57:32+00:00
+ - user: rumpel
+ - tags: ['bigtech', 'google', 'manufacturing consent', 'mozilla', 'apple']
+
 ## Post-lockdown SARS-CoV-2 nucleic acid screening in nearly ten million residents of Wuhan, China
  - [https://www.nature.com/articles/s41467-020-19802-w](https://www.nature.com/articles/s41467-020-19802-w)
  - date published: 2020-11-20 11:39:07+00:00

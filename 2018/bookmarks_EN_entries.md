@@ -92,7 +92,7 @@
  - [https://www.youtube.com/watch?v=dn6x_9CLTB4](https://www.youtube.com/watch?v=dn6x_9CLTB4)
  - date published: 2018-10-04 17:01:34+00:00
  - user: None
- - tags: ['culture', 'keyes', 'christianophobia', 'lgbt']
+ - tags: ['keyes', 'lgbt', 'homosexual', 'culture']
 
 ## How to Remove Elements from an Associative Container in C++
  - [https://www.fluentcpp.com/2018/09/21/remove-elements-associative-container-cpp/](https://www.fluentcpp.com/2018/09/21/remove-elements-associative-container-cpp/)

@@ -1,8 +1,38 @@
+## Polska nie radzi sobie z odnawialnymi źródłami energii. Rezygnacja z aut spalinowych wypada jeszcze bardziej absurdalnie
+ - [https://www.chip.pl/2023/02/polska-odnawialne-zrodla-energii-raport-unii-europejskiej](https://www.chip.pl/2023/02/polska-odnawialne-zrodla-energii-raport-unii-europejskiej)
+ - date published: 2023-02-18 17:00:00+00:00
+ - user: rumpel
+ - tags: ['electric vehicles', 'climate change']
+
+## FOZZ, czyli matka wszystkich afer
+ - [https://mycompanypolska.pl/artykul/fozz-czyli-matka-wszystkich-afer/11162](https://mycompanypolska.pl/artykul/fozz-czyli-matka-wszystkich-afer/11162)
+ - date published: 2023-02-17 20:10:08+00:00
+ - user: rumpel
+ - tags: ['fozz', 'folzmann', 'kaczynski']
+
+## Hiszpania: Nowe prawo dotyczące zmiany płci wśród dzieci
+ - [https://wydarzenia.interia.pl/zagranica/news-hiszpania-nowe-prawo-dotyczace-zmiany-plci-wsrod-dzieci,nId,6601787](https://wydarzenia.interia.pl/zagranica/news-hiszpania-nowe-prawo-dotyczace-zmiany-plci-wsrod-dzieci,nId,6601787)
+ - date published: 2023-02-16 15:41:57+00:00
+ - user: rumpel
+ - tags: ['lgbt', 'spain', 'trans', 'gender']
+
 ## Do szpitala trafił mężczyzna z kłódką na… worku mosznowym. O pomoc poproszono strażaków | Piotrkowski24
  - [https://www.piotrkowski24.pl/do-szpitala-trafil-mezczyzna-z-klodka-na-worku-mosznowym-o-pomoc-poproszono-strazakow/](https://www.piotrkowski24.pl/do-szpitala-trafil-mezczyzna-z-klodka-na-worku-mosznowym-o-pomoc-poproszono-strazakow/)
  - date published: 2023-02-13 14:17:49+00:00
  - user: rumpel
  - tags: ['funny']
+
+## Wielka Brytania chce zakazu szyfrowanych telefonów
+ - [https://ithardware.pl/aktualnosci/wielka_brytania_chce_zakazu_szyfrowanych_telefonow-25815.html](https://ithardware.pl/aktualnosci/wielka_brytania_chce_zakazu_szyfrowanych_telefonow-25815.html)
+ - date published: 2023-02-13 12:37:40+00:00
+ - user: rumpel
+ - tags: ['anonymity', 'england', 'dystopia']
+
+## Koniec nczas.com blokada portal Najwyższy CZAS! Tomasz Sommer ABW
+ - [https://www.wirtualnemedia.pl/artykul/koniec-nczas-com-blokada-portal-najwyzszy-czas-tomasz-sommer-abw](https://www.wirtualnemedia.pl/artykul/koniec-nczas-com-blokada-portal-najwyzszy-czas-tomasz-sommer-abw)
+ - date published: 2023-02-11 20:17:33+00:00
+ - user: rumpel
+ - tags: ['censorship', 'bigbrother', 'moderation', 'bigtech']
 
 ## Bill Gates ma cztery odrzutowce. Miliarder t�umaczy, czemu nimi lata, cho� walczy o klimat
  - [https://next.gazeta.pl/next/7,172392,29450499,bill-gates-ma-cztery-odrzutowce-miliarder-tlumaczy-czemu-nimi.html#do_w=52&do_v=478&fallback=true&do_st=RS&do_sid=604&do_a=604&s=BoxBizImg7&do_upid=478_ti&do_utid=29450499&do_uvid=1675973616132](https://next.gazeta.pl/next/7,172392,29450499,bill-gates-ma-cztery-odrzutowce-miliarder-tlumaczy-czemu-nimi.html#do_w=52&do_v=478&fallback=true&do_st=RS&do_sid=604&do_a=604&s=BoxBizImg7&do_upid=478_ti&do_utid=29450499&do_uvid=1675973616132)

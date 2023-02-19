@@ -1,8 +1,38 @@
+## Apple gets a cut of search revenue from Chrome as part of secret Google deal
+ - [https://9to5mac.com/2023/02/17/google-apple-chrome-search-revenue/](https://9to5mac.com/2023/02/17/google-apple-chrome-search-revenue/)
+ - date published: 2023-02-18 17:49:23+00:00
+ - user: rumpel
+ - tags: ['bigtech', 'google', 'apple', 'manufacturing consent']
+
+## John Carmack on Functional Programming in C++ (2018)
+ - [http://www.sevangelatos.com/john-carmack-on/](http://www.sevangelatos.com/john-carmack-on/)
+ - date published: 2023-02-18 07:09:02+00:00
+ - user: rumpel
+ - tags: ['functional programming', 'cpp']
+
+## Microsoft will limit Bing chat to five replies to stop the AI from getting real weird
+ - [https://www.theverge.com/2023/2/17/23604906/microsoft-bing-ai-chat-limits-conversations](https://www.theverge.com/2023/2/17/23604906/microsoft-bing-ai-chat-limits-conversations)
+ - date published: 2023-02-17 23:27:09+00:00
+ - user: rumpel
+ - tags: ['chatgpt', 'artificial intelligence']
+
+## The Political Bias of ChatGPT – Extended Analysis
+ - [https://davidrozado.substack.com/p/political-bias-chatgpt](https://davidrozado.substack.com/p/political-bias-chatgpt)
+ - date published: 2023-02-17 09:16:09+00:00
+ - user: rumpel
+ - tags: ['bigtech', 'media bias', 'chatgpt', 'artificial intelligence']
+
 ## App founder quits Google, says company doesn’t serve users anymore
  - [https://arstechnica.com/gadgets/2023/02/app-founder-quits-google-says-company-doesnt-serve-users-anymore/](https://arstechnica.com/gadgets/2023/02/app-founder-quits-google-says-company-doesnt-serve-users-anymore/)
  - date published: 2023-02-17 05:00:00+00:00
  - user: rumpel
  - tags: ['monopoly', 'google', 'bigtech']
+
+## Core-JS chief complains open source is broken, no one will pay for it
+ - [https://www.theregister.com/2023/02/15/corejs_russia_open_source/](https://www.theregister.com/2023/02/15/corejs_russia_open_source/)
+ - date published: 2023-02-16 05:00:00+00:00
+ - user: rumpel
+ - tags: ['open source']
 
 ## The Privacy Sandbox Beta is coming to Android
  - [https://blog.google/products/android/the-privacy-sandbox-beta-is-coming-to-android/](https://blog.google/products/android/the-privacy-sandbox-beta-is-coming-to-android/)
@@ -46,6 +76,12 @@
  - user: rumpel
  - tags: ['masks', 'covid']
 
+## New York Times sues EU over von der Leyen’s Pfizer texts – POLITICO
+ - [https://www.politico.eu/article/new-york-times-sue-european-union-ursula-von-der-leyen-pfizer-texts/](https://www.politico.eu/article/new-york-times-sue-european-union-ursula-von-der-leyen-pfizer-texts/)
+ - date published: 2023-02-13 20:21:44+00:00
+ - user: rumpel
+ - tags: ['vaccine', 'covid', 'pfizer']
+
 ## MIT No-AI License
  - [https://ognjen.io/mit-no-ai/](https://ognjen.io/mit-no-ai/)
  - date published: 2023-02-13 18:50:58+00:00
@@ -63,6 +99,18 @@
  - date published: 2023-02-13 17:59:07+00:00
  - user: rumpel
  - tags: ['raspberry']
+
+## Matt Taibbi Surprised by FBI & Twitter's Collusion; Russiagate Info in Twitter Files
+ - [https://m.youtube.com/watch?v=eWQGYpSoiYU](https://m.youtube.com/watch?v=eWQGYpSoiYU)
+ - date published: 2023-02-13 15:56:28+00:00
+ - user: rumpel
+ - tags: ['bigtech', 'tweeter files', 'bigbrother', 'censorship', 'moderation']
+
+## The FBI’s most controversial surveillance tool is under threat
+ - [https://arstechnica.com/?p=1917024](https://arstechnica.com/?p=1917024)
+ - date published: 2023-02-12 13:27:05+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'bigbrother', 'fbi']
 
 ## Ask HN: How can Netflix and Amazon Prime be this bad at recommending content?
  - [https://news.ycombinator.com/item?id=34754284](https://news.ycombinator.com/item?id=34754284)
@@ -82,6 +130,18 @@
  - user: rumpel
  - tags: ['chatgpt', 'artificial intelligence']
 
+## 'We are horrified': Republican AGs blast Garland and Wray over anti-Catholic FBI memo
+ - [https://www.washingtonexaminer.com/restoring-america/faith-freedom-self-reliance/miyares-garland-wray-anti-catholic-fbi](https://www.washingtonexaminer.com/restoring-america/faith-freedom-self-reliance/miyares-garland-wray-anti-catholic-fbi)
+ - date published: 2023-02-10 20:25:02+00:00
+ - user: rumpel
+ - tags: ['fbi', 'christianophobia', 'america']
+
+## Miyares calls for investigation of leaked 'anti-Catholic' FBI memo
+ - [https://www.wtvr.com/news/local-news/miyares-investigation-leaked-fbi-memo-anti-catholic-bigotry-february-10-2023](https://www.wtvr.com/news/local-news/miyares-investigation-leaked-fbi-memo-anti-catholic-bigotry-february-10-2023)
+ - date published: 2023-02-10 20:24:30+00:00
+ - user: rumpel
+ - tags: ['fbi', 'christianophobia', 'america']
+
 ## On Academic Freedom
  - [https://acoup.blog/2023/02/10/fireside-friday-february-10-2023-on-academic-freedom/](https://acoup.blog/2023/02/10/fireside-friday-february-10-2023-on-academic-freedom/)
  - date published: 2023-02-10 18:39:38+00:00
@@ -100,6 +160,12 @@
  - user: rumpel
  - tags: ['tracking', 'microsoft', 'windows', 'privacy']
 
+## I Thought I Was Saving Trans Kids. Now I’m Blowing the Whistle.
+ - [https://www.thefp.com/p/i-thought-i-was-saving-trans-kids](https://www.thefp.com/p/i-thought-i-was-saving-trans-kids)
+ - date published: 2023-02-09 20:15:04+00:00
+ - user: rumpel
+ - tags: ['lgbt', 'trans', 'gender', 'dysphoria']
+
 ## The OPEN WEB is DYING...
  - [https://www.youtube.com/watch?v=pjTzQJxw-20](https://www.youtube.com/watch?v=pjTzQJxw-20)
  - date published: 2023-02-09 17:34:16+00:00
@@ -111,6 +177,12 @@
  - date published: 2023-02-09 10:44:18+00:00
  - user: rumpel
  - tags: ['bigbrother', 'covid', 'vaccine', 'mandates']
+
+## Google's AI chatbot, Bard, sparks a $100 billion loss in Alphabet shares : NPR
+ - [https://www.npr.org/2023/02/09/1155650909/google-chatbot--error-bard-shares](https://www.npr.org/2023/02/09/1155650909/google-chatbot--error-bard-shares)
+ - date published: 2023-02-09 07:33:50+00:00
+ - user: rumpel
+ - tags: ['chatgpt', 'artificial intelligence']
 
 ## Photoprism – open-source Google Photos Alternative
  - [https://www.photoprism.app/](https://www.photoprism.app/)

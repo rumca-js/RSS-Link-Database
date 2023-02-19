@@ -172,6 +172,12 @@
  - user: rumpel
  - tags: ['socialism', 'america']
 
+## The Nazis' love affair with the occult - Big Think
+ - [https://bigthink.com/the-present/nazis-occult/](https://bigthink.com/the-present/nazis-occult/)
+ - date published: 2019-10-06 08:03:35+00:00
+ - user: rumpel
+ - tags: ['occult', 'himmler', 'nazi']
+
 ## 'We are hurtling towards a surveillance state’: the rise of facial recognition technology
  - [https://www.theguardian.com/technology/2019/oct/05/facial-recognition-technology-hurtling-towards-surveillance-state](https://www.theguardian.com/technology/2019/oct/05/facial-recognition-technology-hurtling-towards-surveillance-state)
  - date published: 2019-10-05 09:00:43+00:00
@@ -423,6 +429,12 @@
  - date published: 2019-05-26 13:59:11+00:00
  - user: rumpel
  - tags: ['open source']
+
+## Using AI to predict breast cancer and personalize care | MIT News | Massachusetts Institute of Technology
+ - [https://news.mit.edu/2019/using-ai-predict-breast-cancer-and-personalize-care-0507](https://news.mit.edu/2019/using-ai-predict-breast-cancer-and-personalize-care-0507)
+ - date published: 2019-05-07 07:19:50+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
 
 ## Pre-teen “Drag Kids” highlight just how fast our culture has crumbled
  - [https://thebridgehead.ca/2019/04/30/pre-teen-drag-kids-highlight-just-how-fast-our-culture-has-crumbled](https://thebridgehead.ca/2019/04/30/pre-teen-drag-kids-highlight-just-how-fast-our-culture-has-crumbled)

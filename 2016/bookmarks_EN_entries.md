@@ -76,6 +76,12 @@
  - user: rumpel
  - tags: ['clockwork orange', 'movies']
 
+## Artificial intelligence expedites breast cancer risk prediction
+ - [https://www.sciencedaily.com/releases/2016/08/160829122106.htm](https://www.sciencedaily.com/releases/2016/08/160829122106.htm)
+ - date published: 2016-08-29 07:22:08+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
+
 ## Gates, Rockefeller and WHO: Concealing the Charade of Polio Eradication
  - [https://www.naturalblaze.com/2016/09/gates-rockefeller-who-vaccines.html](https://www.naturalblaze.com/2016/09/gates-rockefeller-who-vaccines.html)
  - date published: 2016-08-23 18:45:41+00:00
