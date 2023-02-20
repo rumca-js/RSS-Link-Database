@@ -1,3 +1,15 @@
+## 'Woke' California university slammed for 'dehumanized' initiative encouraging students to tell on professors
+ - [https://www.foxnews.com/media/woke-california-university-slammed-dehumanized-initiative-encouraging-students-tell-professors](https://www.foxnews.com/media/woke-california-university-slammed-dehumanized-initiative-encouraging-students-tell-professors)
+ - date published: 2023-02-19 14:51:49+00:00
+ - user: rumpel
+ - tags: ['woke', 'racism', 'socialism']
+
+## The Norvig – Chomsky Debate on Statistical Learning in AI
+ - [http://web.cse.ohio-state.edu/~stiff.4/cse3521/norvig-chomsky.html](http://web.cse.ohio-state.edu/~stiff.4/cse3521/norvig-chomsky.html)
+ - date published: 2023-02-19 13:09:27+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
+
 ## Apple gets a cut of search revenue from Chrome as part of secret Google deal
  - [https://9to5mac.com/2023/02/17/google-apple-chrome-search-revenue/](https://9to5mac.com/2023/02/17/google-apple-chrome-search-revenue/)
  - date published: 2023-02-18 17:49:23+00:00

@@ -424,6 +424,12 @@
  - user: rumpel
  - tags: ['algorithms', 'google search']
 
+## Why should you read “The Master and Margarita”? - Alex Gendler
+ - [https://m.youtube.com/watch?v=miNBicrLiXo](https://m.youtube.com/watch?v=miNBicrLiXo)
+ - date published: 2019-05-30 11:59:31+00:00
+ - user: rumpel
+ - tags: ['books', 'master and margarita']
+
 ## The culture war at the heart of open source
  - [https://words.steveklabnik.com/the-culture-war-at-the-heart-of-open-source](https://words.steveklabnik.com/the-culture-war-at-the-heart-of-open-source)
  - date published: 2019-05-26 13:59:11+00:00

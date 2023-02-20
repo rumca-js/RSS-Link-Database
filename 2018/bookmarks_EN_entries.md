@@ -242,7 +242,7 @@
  - [https://www.bbc.com/news/business-44379593](https://www.bbc.com/news/business-44379593)
  - date published: 2018-06-06 12:04:50+00:00
  - user: None
- - tags: ['meta', 'china', 'privacy', 'facebook']
+ - tags: ['manufacturing consent', 'privacy', 'china', 'facebook', 'meta']
 
 ## Facebook has an official Pepe the Frog policy
  - [https://www.theverge.com/2018/5/25/17394612/facebook-pepe-frog-ban-meme-anti-semitic-hate](https://www.theverge.com/2018/5/25/17394612/facebook-pepe-frog-ban-meme-anti-semitic-hate)
