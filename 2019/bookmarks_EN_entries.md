@@ -508,6 +508,12 @@
  - user: None
  - tags: $tags
 
+## German academics and authors call for end to 'gender nonsense' | Germany | The Guardian
+ - [https://www.theguardian.com/world/2019/mar/08/german-academics-and-authors-call-for-end-to-gender-nonsense](https://www.theguardian.com/world/2019/mar/08/german-academics-and-authors-call-for-end-to-gender-nonsense)
+ - date published: 2019-03-08 09:07:02+00:00
+ - user: rumpel
+ - tags: ['social engineering', 'gender', 'pronouns', 'newspeak']
+
 ## Revealed: Facebook’s global lobbying against data privacy laws
  - [https://www.theguardian.com/technology/2019/mar/02/facebook-global-lobbying-campaign-against-data-privacy-laws-investment](https://www.theguardian.com/technology/2019/mar/02/facebook-global-lobbying-campaign-against-data-privacy-laws-investment)
  - date published: 2019-03-02 19:52:57+00:00

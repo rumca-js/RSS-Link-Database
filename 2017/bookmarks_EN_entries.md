@@ -128,7 +128,7 @@
  - [https://www.spokesman.com/stories/2017/sep/26/to-ban-or-not-to-ban-school-leaders-consider-class/](https://www.spokesman.com/stories/2017/sep/26/to-ban-or-not-to-ban-school-leaders-consider-class/)
  - date published: 2017-08-26 08:48:53+00:00
  - user: None
- - tags: ['censorship', 'orwell']
+ - tags: ['fahrenheit451', 'orwell', 'censorship']
 
 ## Court rules privacy a 'fundamental right' in landmark case
  - [http://www.cnn.com/2017/08/24/asia/indian-court-right-to-privacy/index.html](http://www.cnn.com/2017/08/24/asia/indian-court-right-to-privacy/index.html)

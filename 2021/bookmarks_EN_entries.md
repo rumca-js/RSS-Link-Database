@@ -424,6 +424,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Social media companies could soon be forced to end anonymity for online trolls. But will this stop the trolling? - ABC News
+ - [https://www.abc.net.au/news/science/2021-11-30/online-bullying-trolling-identity-verification-legislation/100658084](https://www.abc.net.au/news/science/2021-11-30/online-bullying-trolling-identity-verification-legislation/100658084)
+ - date published: 2021-11-29 07:33:20+00:00
+ - user: rumpel
+ - tags: ['bigtech', 'anonymity', 'privacy']
+
 ## Inside Bohemian Grove, The Secret California Club For Powerful Men
  - [https://allthatsinteresting.com/bohemian-grove](https://allthatsinteresting.com/bohemian-grove)
  - date published: 2021-11-28 13:32:52+00:00
@@ -724,6 +730,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Why Online Anonymity Matters | Belfer Center for Science and International Affairs
+ - [https://www.belfercenter.org/publication/why-online-anonymity-matters](https://www.belfercenter.org/publication/why-online-anonymity-matters)
+ - date published: 2021-11-09 07:50:28+00:00
+ - user: rumpel
+ - tags: ['anonymity']
+
 ## A terrible schema from a clueless programmer
  - [http://rachelbythebay.com/w/2021/11/06/sql/](http://rachelbythebay.com/w/2021/11/06/sql/)
  - date published: 2021-11-08 15:06:27.572253+00:00
@@ -819,6 +831,12 @@
  - date published: 2021-10-31 04:00:00+00:00
  - user: None
  - tags: $tags
+
+## Germany debates how to form gender-neutral words out of its gendered language : NPR
+ - [https://www.npr.org/2021/10/30/1049603171/germany-gender-neutral-language-german](https://www.npr.org/2021/10/30/1049603171/germany-gender-neutral-language-german)
+ - date published: 2021-10-30 08:09:10+00:00
+ - user: rumpel
+ - tags: ['woke', 'newspeak', 'orwell']
 
 ## Architect Resigns in Protest over UCSB Mega-Dorm - The Santa Barbara Independent
  - [https://www.independent.com/2021/10/28/architect-resigns-in-protest-over-ucsb-mega-dorm/](https://www.independent.com/2021/10/28/architect-resigns-in-protest-over-ucsb-mega-dorm/)
@@ -3020,7 +3038,7 @@
  - [https://www.newsweek.com/neuroscience-professor-removed-apa-discussion-after-saying-there-are-only-two-genders-1591697](https://www.newsweek.com/neuroscience-professor-removed-apa-discussion-after-saying-there-are-only-two-genders-1591697)
  - date published: 2021-05-14 20:54:35+00:00
  - user: rumpel
- - tags: ['intolerance', 'gender']
+ - tags: ['intolerance', 'gender', 'scienceisdead']
 
 ## GET WOKE, GO BROKE: Disney revenue PLUMMETS after woke corporate culture revealed
  - [https://thepostmillennial.com/get-woke-go-broke-disney-revenues-plummet-after-woke-corporate-culture-revealed](https://thepostmillennial.com/get-woke-go-broke-disney-revenues-plummet-after-woke-corporate-culture-revealed)
@@ -3231,6 +3249,12 @@
  - date published: 2021-03-10 07:14:20+00:00
  - user: None
  - tags: $tags
+
+## Debate over gender-neutral language divides Germany – POLITICO
+ - [https://www.politico.eu/article/debate-over-gender-inclusive-neutral-language-divides-germany/](https://www.politico.eu/article/debate-over-gender-inclusive-neutral-language-divides-germany/)
+ - date published: 2021-03-08 08:09:50+00:00
+ - user: rumpel
+ - tags: ['woke', 'newspeak', 'orwell']
 
 ## The real reason why Bill Gates is now the US’ biggest farmland owner
  - [https://nypost.com/2021/02/27/why-bill-gates-is-now-the-us-biggest-farmland-owner/](https://nypost.com/2021/02/27/why-bill-gates-is-now-the-us-biggest-farmland-owner/)

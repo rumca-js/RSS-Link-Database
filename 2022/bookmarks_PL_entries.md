@@ -668,7 +668,7 @@
  - [https://www.polsatnews.pl/wiadomosc/2022-10-06/wielka-brytania-lista-zakazanych-zwrotow-w-nowym-poradniku-odradza-mowic-panie-i-panowie/](https://www.polsatnews.pl/wiadomosc/2022-10-06/wielka-brytania-lista-zakazanych-zwrotow-w-nowym-poradniku-odradza-mowic-panie-i-panowie/)
  - date published: 2022-10-06 08:15:00+00:00
  - user: None
- - tags: ['social engineering', 'inequality', 'woke', 'lgbt']
+ - tags: ['lgbt', 'newspeak', 'inequality', 'woke', 'social engineering']
 
 ## Polacy nie są już takimi patriotami na zakupach
  - [https://www.bankier.pl/wiadomosc/Polacy-nie-sa-juz-takimi-patriotami-na-zakupach-8418224.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Polacy-nie-sa-juz-takimi-patriotami-na-zakupach-8418224.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -1436,7 +1436,7 @@
  - [https://m.wirtualnemedia.pl/m/artykul/niemiecki-wydawca-wycofuje-ksiazki-o-winnetou-razism#.YwxIfjV-QSA.wykop](https://m.wirtualnemedia.pl/m/artykul/niemiecki-wydawca-wycofuje-ksiazki-o-winnetou-razism#.YwxIfjV-QSA.wykop)
  - date published: 2022-08-29 08:37:40.696185+00:00
  - user: None
- - tags: ['karl may', 'censorship', 'woke']
+ - tags: ['karl may', 'woke', 'fahrenheit451', 'censorship']
 
 ## André Staltz - Time Till Open Source Alternative
  - [https://staltz.com/time-till-open-source-alternative.html](https://staltz.com/time-till-open-source-alternative.html)

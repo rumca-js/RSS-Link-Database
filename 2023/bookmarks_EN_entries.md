@@ -10,6 +10,12 @@
  - user: rumpel
  - tags: ['artificial intelligence']
 
+## "Absurd censorship:" Changes to Roald Dahl's books spark criticism - CBS News
+ - [https://www.cbsnews.com/news/roald-dahls-changes-childrens-books-rushdie-telegraph/?intcid=CNM-00-10abd1h](https://www.cbsnews.com/news/roald-dahls-changes-childrens-books-rushdie-telegraph/?intcid=CNM-00-10abd1h)
+ - date published: 2023-02-19 07:46:19+00:00
+ - user: rumpel
+ - tags: ['ministryoftruth', 'newspeak', 'fahrenheit451', 'censorship']
+
 ## Apple gets a cut of search revenue from Chrome as part of secret Google deal
  - [https://9to5mac.com/2023/02/17/google-apple-chrome-search-revenue/](https://9to5mac.com/2023/02/17/google-apple-chrome-search-revenue/)
  - date published: 2023-02-18 17:49:23+00:00
@@ -28,11 +34,23 @@
  - user: rumpel
  - tags: ['chatgpt', 'artificial intelligence']
 
+## The sudden global push for age verification to end online anonymity and drive digital ID uptake
+ - [https://reclaimthenet.org/global-push-for-age-verification](https://reclaimthenet.org/global-push-for-age-verification)
+ - date published: 2023-02-17 19:40:00+00:00
+ - user: rumpel
+ - tags: ['anonymity', 'privacy', 'digital identity']
+
 ## The Political Bias of ChatGPT – Extended Analysis
  - [https://davidrozado.substack.com/p/political-bias-chatgpt](https://davidrozado.substack.com/p/political-bias-chatgpt)
  - date published: 2023-02-17 09:16:09+00:00
  - user: rumpel
  - tags: ['bigtech', 'media bias', 'chatgpt', 'artificial intelligence']
+
+## Augustus Gloop no longer fat as Roald Dahl goes PC
+ - [https://www.telegraph.co.uk/news/2023/02/17/roald-dahl-woke-overhaul-offensive-words-removed/](https://www.telegraph.co.uk/news/2023/02/17/roald-dahl-woke-overhaul-offensive-words-removed/)
+ - date published: 2023-02-17 07:47:10+00:00
+ - user: rumpel
+ - tags: ['ministryoftruth', 'newspeak', 'fahrenheit451', 'censorship']
 
 ## App founder quits Google, says company doesn’t serve users anymore
  - [https://arstechnica.com/gadgets/2023/02/app-founder-quits-google-says-company-doesnt-serve-users-anymore/](https://arstechnica.com/gadgets/2023/02/app-founder-quits-google-says-company-doesnt-serve-users-anymore/)
@@ -87,6 +105,12 @@
  - date published: 2023-02-14 00:17:48+00:00
  - user: rumpel
  - tags: ['masks', 'covid']
+
+## Why the word 'freedom' is such a useful rallying cry for protesters | CBC Radio
+ - [https://www.cbc.ca/radio/checkup/what-s-your-reaction-to-the-ottawa-standoff-and-the-border-blockades-1.6349636/why-the-word-freedom-is-such-a-useful-rallying-cry-for-protesters-1.6349865](https://www.cbc.ca/radio/checkup/what-s-your-reaction-to-the-ottawa-standoff-and-the-border-blockades-1.6349636/why-the-word-freedom-is-such-a-useful-rallying-cry-for-protesters-1.6349865)
+ - date published: 2023-02-13 20:56:39+00:00
+ - user: rumpel
+ - tags: ['social engineering', 'protest', 'freedom', 'socialism']
 
 ## New York Times sues EU over von der Leyen’s Pfizer texts – POLITICO
  - [https://www.politico.eu/article/new-york-times-sue-european-union-ursula-von-der-leyen-pfizer-texts/](https://www.politico.eu/article/new-york-times-sue-european-union-ursula-von-der-leyen-pfizer-texts/)
@@ -171,6 +195,12 @@
  - date published: 2023-02-10 13:43:55+00:00
  - user: rumpel
  - tags: ['tracking', 'microsoft', 'windows', 'privacy']
+
+## Lobbyists Mingle With Congress Under the Banner of Celebrating Diversity
+ - [https://theintercept.com/2023/02/09/corporate-lobbying-congress-diversity/](https://theintercept.com/2023/02/09/corporate-lobbying-congress-diversity/)
+ - date published: 2023-02-09 21:43:28+00:00
+ - user: rumpel
+ - tags: ['corporatocracy', 'racism', 'manufacturing consent', 'socialism']
 
 ## I Thought I Was Saving Trans Kids. Now I’m Blowing the Whistle.
  - [https://www.thefp.com/p/i-thought-i-was-saving-trans-kids](https://www.thefp.com/p/i-thought-i-was-saving-trans-kids)

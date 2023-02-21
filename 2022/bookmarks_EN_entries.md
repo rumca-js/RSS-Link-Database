@@ -1082,7 +1082,7 @@
  - [https://www.dailywire.com/news/social-media-goes-wild-as-cambridge-dictionary-redefines-woman-man](https://www.dailywire.com/news/social-media-goes-wild-as-cambridge-dictionary-redefines-woman-man)
  - date published: 2022-12-13 17:44:34+00:00
  - user: None
- - tags: ['propaganda', 'ideology', 'gender']
+ - tags: ['ideology', 'gender', 'newspeak', 'propaganda']
 
 ## WordPress debated taking down the New York Post Hunter Biden story
  - [https://www.theverge.com/2022/12/13/23506029/wordpress-vip-automattic-matt-mullenweg-content-moderation-new-york-post-biden-laptop](https://www.theverge.com/2022/12/13/23506029/wordpress-vip-automattic-matt-mullenweg-content-moderation-new-york-post-biden-laptop)
@@ -5506,12 +5506,6 @@
  - user: None
  - tags: $tags
 
-## Scientology 'spied on Nicole Kidman and tapped her phone', new book by high-ranking officer claims
- - [https://www.dailymail.co.uk/news/article-11254617/Scientology-spied-Nicole-Kidman-tapped-phone-new-book-high-ranking-officer-claims.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11254617/Scientology-spied-Nicole-Kidman-tapped-phone-new-book-high-ranking-officer-claims.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - date published: 2022-09-27 15:25:12+00:00
- - user: None
- - tags: ['scientology', 'kidman']
-
 ## Cloudflare launches eSim to protect mobile devices
  - [https://www.techradar.com/news/cloudflare-launches-esim-to-protect-mobile-devices/](https://www.techradar.com/news/cloudflare-launches-esim-to-protect-mobile-devices/)
  - date published: 2022-09-27 14:27:08+00:00
@@ -5666,7 +5660,7 @@
  - [https://www.thecollegefix.com/gender-activists-push-to-bar-anthropologists-from-identifying-human-remains-as-male-or-female/](https://www.thecollegefix.com/gender-activists-push-to-bar-anthropologists-from-identifying-human-remains-as-male-or-female/)
  - date published: 2022-09-25 15:37:48+00:00
  - user: rumpel
- - tags: ['woke', 'trans', 'gender', 'science']
+ - tags: ['science', 'newspeak', 'trans', 'gender', 'woke']
 
 ## Pride dancers defy critics, spread legs for children while letting others (allegedly) touch their crotch
  - [https://www.louderwithcrowder.com/dancers-chattanooga-brewery](https://www.louderwithcrowder.com/dancers-chattanooga-brewery)
@@ -7672,6 +7666,12 @@
  - user: None
  - tags: ['misinformation', 'censorship', 'free speech']
 
+## German publisher pulls Winnetou books after accusations of racism | Euronews
+ - [https://www.euronews.com/2022/08/24/german-publisher-pulls-winnetou-books-after-accusations-of-racism](https://www.euronews.com/2022/08/24/german-publisher-pulls-winnetou-books-after-accusations-of-racism)
+ - date published: 2022-08-24 09:38:24+00:00
+ - user: rumpel
+ - tags: ['fahrenheit451', 'karl may', 'orwell', 'censorship']
+
 ## How corporations used Covid crysis
  - [https://youtu.be/7jH0w8Jdgjk](https://youtu.be/7jH0w8Jdgjk)
  - date published: 2022-08-23 20:58:42+00:00
@@ -8888,7 +8888,7 @@
  - [https://www.youtube.com/watch?v=zdDB8wU73NA](https://www.youtube.com/watch?v=zdDB8wU73NA)
  - date published: 2022-06-03 12:30:46+00:00
  - user: rumpel
- - tags: ['whatisawoman', 'lgbt', 'gender']
+ - tags: ['whatisawoman', 'gender', 'newspeak', 'lgbt']
 
 ## Europe's hope to scan devices for unlawful files criticized • The Register
  - [https://www.theregister.com/2022/06/02/eu_child_protection/?td=keepreading-top](https://www.theregister.com/2022/06/02/eu_child_protection/?td=keepreading-top)
@@ -9206,7 +9206,7 @@
  - [https://www.youtube.com/watch?v=42ivIRd9N8E](https://www.youtube.com/watch?v=42ivIRd9N8E)
  - date published: 2022-05-14 12:29:42+00:00
  - user: rumpel
- - tags: ['whatisawoman', 'lgbt', 'gender']
+ - tags: ['whatisawoman', 'gender', 'newspeak', 'lgbt']
 
 ## Rosenzweig – The Apple GPU and the Impossible Bug
  - [https://rosenzweig.io/blog/asahi-gpu-part-5.html](https://rosenzweig.io/blog/asahi-gpu-part-5.html)
@@ -9771,6 +9771,12 @@
  - date published: 2022-04-13 10:35:39.961284+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Macron reopens debate on ending anonymity online – EURACTIV.com
+ - [https://www.euractiv.com/section/digital/news/macron-still-wants-to-end-online-anonymity/](https://www.euractiv.com/section/digital/news/macron-still-wants-to-end-online-anonymity/)
+ - date published: 2022-04-13 06:44:27+00:00
+ - user: rumpel
+ - tags: ['bigbrother', 'france', 'anonymity', 'privacy']
 
 ## What Le Corbusier got right about office space | Tim Harford
  - [https://timharford.com/2022/04/what-le-corbusier-got-right-about-office-space/](https://timharford.com/2022/04/what-le-corbusier-got-right-about-office-space/)
