@@ -766,6 +766,12 @@
  - user: None
  - tags: ['roko basilisk']
 
+## SMS Two-Factor Authentication – Worse Than Just a Good Password? | Okta Security
+ - [https://sec.okta.com/articles/2020/05/sms-two-factor-authentication-worse-just-good-password](https://sec.okta.com/articles/2020/05/sms-two-factor-authentication-worse-just-good-password)
+ - date published: 2020-05-13 06:56:06+00:00
+ - user: rumpel
+ - tags: ['authentication', 'security']
+
 ## Why Would the US Have Funded the Controversial Wuhan Lab?
  - [https://thediplomat.com/2020/05/why-would-the-us-have-funded-the-controversial-wuhan-lab/](https://thediplomat.com/2020/05/why-would-the-us-have-funded-the-controversial-wuhan-lab/)
  - date published: 2020-05-13 06:52:14+00:00

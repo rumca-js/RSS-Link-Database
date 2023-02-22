@@ -1,3 +1,21 @@
+## Supreme Court Declines to Hear Wikimedia’s Challenge to NSA Mass Surveillance
+ - [https://diff.wikimedia.org/2023/02/21/u-s-supreme-court-declines-to-hear-wikimedia-foundations-challenge-to-nsa-mass-surveillance/](https://diff.wikimedia.org/2023/02/21/u-s-supreme-court-declines-to-hear-wikimedia-foundations-challenge-to-nsa-mass-surveillance/)
+ - date published: 2023-02-21 18:15:27+00:00
+ - user: rumpel
+ - tags: ['surveillance']
+
+## ChatGPT has already decreased my income security, and likely yours too
+ - [https://www.scottsantens.com/chatgpt-has-already-decreased-my-income-security/](https://www.scottsantens.com/chatgpt-has-already-decreased-my-income-security/)
+ - date published: 2023-02-21 12:14:41+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence', 'chatgpt']
+
+## The Age of Advertising Must Come to an End
+ - [https://antoniomelonio.substack.com/p/the-age-of-advertising-must-come](https://antoniomelonio.substack.com/p/the-age-of-advertising-must-come)
+ - date published: 2023-02-20 22:31:31+00:00
+ - user: rumpel
+ - tags: ['ads', 'ad business']
+
 ## 'Woke' California university slammed for 'dehumanized' initiative encouraging students to tell on professors
  - [https://www.foxnews.com/media/woke-california-university-slammed-dehumanized-initiative-encouraging-students-tell-professors](https://www.foxnews.com/media/woke-california-university-slammed-dehumanized-initiative-encouraging-students-tell-professors)
  - date published: 2023-02-19 14:51:49+00:00
@@ -87,6 +105,12 @@
  - date published: 2023-02-14 22:29:43+00:00
  - user: rumpel
  - tags: ['google', 'surveillence', 'android', 'privacy', 'bigtech']
+
+## Use 'egg-producing' not 'female', say scientists in call to phase out binary language
+ - [https://www.telegraph.co.uk/news/2023/02/14/words-male-female-should-banned-science-enforce-idea-sex-binary/](https://www.telegraph.co.uk/news/2023/02/14/words-male-female-should-banned-science-enforce-idea-sex-binary/)
+ - date published: 2023-02-14 20:51:01+00:00
+ - user: rumpel
+ - tags: ['newspeak', 'woke']
 
 ## EU Parliament votes to effectively ban new combustion engine cars by 2035
  - [https://www.theverge.com/2023/2/14/23599412/eu-parliament-vote-ban-combustion-engine-cars-vans-2035-law](https://www.theverge.com/2023/2/14/23599412/eu-parliament-vote-ban-combustion-engine-cars-vans-2035-law)
@@ -291,6 +315,12 @@
  - date published: 2023-02-07 17:46:09+00:00
  - user: rumpel
  - tags: ['dma']
+
+## Study links adoption of EV with less air pollution and improved health
+ - [https://keck.usc.edu/study-links-adoption-of-electric-vehicles-with-less-air-pollution-and-improved-health/](https://keck.usc.edu/study-links-adoption-of-electric-vehicles-with-less-air-pollution-and-improved-health/)
+ - date published: 2023-02-04 19:07:35+00:00
+ - user: rumpel
+ - tags: ['electric cars']
 
 ## All the big tech layoffs of 2023
  - [https://www.engadget.com/tech-layoffs-183005204.html?src=rss](https://www.engadget.com/tech-layoffs-183005204.html?src=rss)

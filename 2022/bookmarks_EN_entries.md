@@ -1028,7 +1028,7 @@
  - [https://www.cnet.com/personal-finance/taxes/if-you-make-over-600-on-paypal-venmo-or-cash-app-the-irs-will-know-about-it/#ftag=CADf328eec](https://www.cnet.com/personal-finance/taxes/if-you-make-over-600-on-paypal-venmo-or-cash-app-the-irs-will-know-about-it/#ftag=CADf328eec)
  - date published: 2022-12-14 17:15:00+00:00
  - user: None
- - tags: ['money', 'bigbrother', 'control', 'government']
+ - tags: ['government', 'digital money', 'money', 'control', 'bigbrother']
 
 ## Privacy concerns are raised over Chinese surveillance companies’ access to UK business crime data
  - [https://reclaimthenet.org/dahua-and-hikvision-uk-data-access/](https://reclaimthenet.org/dahua-and-hikvision-uk-data-access/)
