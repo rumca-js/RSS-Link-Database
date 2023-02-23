@@ -64,6 +64,12 @@
  - user: None
  - tags: ['israel']
 
+## Ubuntu 17.10 Linux Debuts Without Unity but With New Logs App
+ - [https://www.eweek.com/enterprise-apps/ubuntu-drops-unity-for-gnome-in-artful-aardvark-release/](https://www.eweek.com/enterprise-apps/ubuntu-drops-unity-for-gnome-in-artful-aardvark-release/)
+ - date published: 2017-10-18 16:02:27+00:00
+ - user: rumpel
+ - tags: ['ubuntu', 'canonical']
+
 ## Blade Runner 2049: Do Memories Make Us Human? – Wisecrack Quick Take
  - [https://www.youtube.com/watch?v=VqDO9LyvXPQ](https://www.youtube.com/watch?v=VqDO9LyvXPQ)
  - date published: 2017-10-13 20:19:38+00:00
@@ -177,6 +183,12 @@
  - date published: 2017-08-03 22:21:57+00:00
  - user: rumpel
  - tags: ['ben shapiro', 'joe rogan', 'woke', 'trans']
+
+## Top 10 F-Droid Best Apps that are Not on Google Play - TechWiser
+ - [https://techwiser.com/f-droid-best-apps/](https://techwiser.com/f-droid-best-apps/)
+ - date published: 2017-08-02 16:31:46+00:00
+ - user: rumpel
+ - tags: ['f-droid', 'android']
 
 ## SUFFERING IN SILENCE Linkin Park singer Chester Bennington revealed horrific child abuse was behind his substance abuse issues
  - [https://www.thesun.co.uk/tvandshowbiz/4064403/linkin-park-singer-chester-bennington-revealed-horrific-child-abuse-was-behind-substance-abuse-issues/](https://www.thesun.co.uk/tvandshowbiz/4064403/linkin-park-singer-chester-bennington-revealed-horrific-child-abuse-was-behind-substance-abuse-issues/)

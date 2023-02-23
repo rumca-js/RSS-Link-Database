@@ -1,3 +1,9 @@
+## Ubuntu Flavors Agree to Stop Using Flatpak
+ - [https://www.omgubuntu.co.uk/2023/02/ubuntu-flavors-no-flatpak](https://www.omgubuntu.co.uk/2023/02/ubuntu-flavors-no-flatpak)
+ - date published: 2023-02-22 12:05:44+00:00
+ - user: rumpel
+ - tags: ['ubuntu', 'canonical']
+
 ## Supreme Court Declines to Hear Wikimedia’s Challenge to NSA Mass Surveillance
  - [https://diff.wikimedia.org/2023/02/21/u-s-supreme-court-declines-to-hear-wikimedia-foundations-challenge-to-nsa-mass-surveillance/](https://diff.wikimedia.org/2023/02/21/u-s-supreme-court-declines-to-hear-wikimedia-foundations-challenge-to-nsa-mass-surveillance/)
  - date published: 2023-02-21 18:15:27+00:00
@@ -9,6 +15,18 @@
  - date published: 2023-02-21 12:14:41+00:00
  - user: rumpel
  - tags: ['artificial intelligence', 'chatgpt']
+
+## 5 Arrested After Large-Scale Protest Against 15-Minute Cities in Oxford, England
+ - [https://www.theepochtimes.com/5-arrested-after-large-scale-protest-against-15-minute-cities-in-oxford-england_5072060.html](https://www.theepochtimes.com/5-arrested-after-large-scale-protest-against-15-minute-cities-in-oxford-england_5072060.html)
+ - date published: 2023-02-21 12:11:21+00:00
+ - user: rumpel
+ - tags: ['protest', 'england', 'climate change']
+
+## What is a 15-minute city and why is the idea so controversial?
+ - [https://www.itv.com/news/2023-02-20/what-is-a-15-minute-city-and-why-is-the-idea-so-controversial](https://www.itv.com/news/2023-02-20/what-is-a-15-minute-city-and-why-is-the-idea-so-controversial)
+ - date published: 2023-02-21 07:10:41+00:00
+ - user: rumpel
+ - tags: ['15minutecity', 'pollution', 'climate change']
 
 ## The Age of Advertising Must Come to an End
  - [https://antoniomelonio.substack.com/p/the-age-of-advertising-must-come](https://antoniomelonio.substack.com/p/the-age-of-advertising-must-come)
@@ -33,6 +51,12 @@
  - date published: 2023-02-19 07:46:19+00:00
  - user: rumpel
  - tags: ['ministryoftruth', 'newspeak', 'fahrenheit451', 'censorship']
+
+## Heavy police presence as demonstrators face off during Oxford LTN protest
+ - [https://www.youtube.com/watch?v=Ajyo-965RuM](https://www.youtube.com/watch?v=Ajyo-965RuM)
+ - date published: 2023-02-18 18:11:03+00:00
+ - user: rumpel
+ - tags: ['protest', '15minutecities', 'climate change']
 
 ## Apple gets a cut of search revenue from Chrome as part of secret Google deal
  - [https://9to5mac.com/2023/02/17/google-apple-chrome-search-revenue/](https://9to5mac.com/2023/02/17/google-apple-chrome-search-revenue/)
@@ -129,6 +153,12 @@
  - date published: 2023-02-14 00:17:48+00:00
  - user: rumpel
  - tags: ['masks', 'covid']
+
+## I tried using AI. It scared me.
+ - [https://youtu.be/jPhJbKBuNnA](https://youtu.be/jPhJbKBuNnA)
+ - date published: 2023-02-13 21:51:14+00:00
+ - user: rumpel
+ - tags: ['chatgpt', 'artificial intelligence']
 
 ## Why the word 'freedom' is such a useful rallying cry for protesters | CBC Radio
  - [https://www.cbc.ca/radio/checkup/what-s-your-reaction-to-the-ottawa-standoff-and-the-border-blockades-1.6349636/why-the-word-freedom-is-such-a-useful-rallying-cry-for-protesters-1.6349865](https://www.cbc.ca/radio/checkup/what-s-your-reaction-to-the-ottawa-standoff-and-the-border-blockades-1.6349636/why-the-word-freedom-is-such-a-useful-rallying-cry-for-protesters-1.6349865)

@@ -244,6 +244,12 @@
  - user: rumpel
  - tags: $tags
 
+## [Serious Question] Why the Ubuntu/Canonical hate? In quite a few posts in this subreddit, I have seen an outright hate/dislike/contempt for Ubuntu/Canonical. Can someone explain?
+ - [https://www.reddit.com/r/linux/comments/cu7fv0/serious_question_why_the_ubuntucanonical_hate_in/](https://www.reddit.com/r/linux/comments/cu7fv0/serious_question_why_the_ubuntucanonical_hate_in/)
+ - date published: 2019-08-23 16:04:26+00:00
+ - user: rumpel
+ - tags: ['ubuntu', 'canonical']
+
 ## Jeffrey Epstein Donations to M.I.T. Will Be Focus of University Inquiry
  - [https://www.nytimes.com/2019/08/22/business/epstein-mit-media-lab.html](https://www.nytimes.com/2019/08/22/business/epstein-mit-media-lab.html)
  - date published: 2019-08-22 12:18:53+00:00
