@@ -1,3 +1,21 @@
+## Tell HN: Do not store any funds in PayPal or use them for anything critical
+ - [https://news.ycombinator.com/item?id=34913596](https://news.ycombinator.com/item?id=34913596)
+ - date published: 2023-02-23 17:29:49+00:00
+ - user: rumpel
+ - tags: ['technofeudalism', 'paypal', 'subscription']
+
+## Covid 19 Mandates: Silencing the Opposition | Dr. Jayanta Bhattacharya | EP 334
+ - [https://www.youtube.com/watch?v=pr0LkPMZ-qc](https://www.youtube.com/watch?v=pr0LkPMZ-qc)
+ - date published: 2023-02-23 16:00:34+00:00
+ - user: rumpel
+ - tags: ['covid']
+
+## New Discourses - Translations from the Wokish
+ - [https://newdiscourses.com/translations-from-the-wokish/](https://newdiscourses.com/translations-from-the-wokish/)
+ - date published: 2023-02-23 11:44:36+00:00
+ - user: rumpel
+ - tags: ['james lindsay', 'newspeak', 'woke', 'grievance']
+
 ## Ubuntu Flavors Agree to Stop Using Flatpak
  - [https://www.omgubuntu.co.uk/2023/02/ubuntu-flavors-no-flatpak](https://www.omgubuntu.co.uk/2023/02/ubuntu-flavors-no-flatpak)
  - date published: 2023-02-22 12:05:44+00:00
@@ -22,6 +40,12 @@
  - user: rumpel
  - tags: ['protest', 'england', 'climate change']
 
+## 'South Park's 'brutally honest take' on trans rights, abortion
+ - [https://nypost.com/2023/02/21/south-parks-brutally-honest-take-on-trans-rights-abortion/](https://nypost.com/2023/02/21/south-parks-brutally-honest-take-on-trans-rights-abortion/)
+ - date published: 2023-02-21 12:03:18+00:00
+ - user: rumpel
+ - tags: ['trans', 'south park', 'woke', 'abortion']
+
 ## What is a 15-minute city and why is the idea so controversial?
  - [https://www.itv.com/news/2023-02-20/what-is-a-15-minute-city-and-why-is-the-idea-so-controversial](https://www.itv.com/news/2023-02-20/what-is-a-15-minute-city-and-why-is-the-idea-so-controversial)
  - date published: 2023-02-21 07:10:41+00:00
@@ -33,6 +57,12 @@
  - date published: 2023-02-20 22:31:31+00:00
  - user: rumpel
  - tags: ['ads', 'ad business']
+
+## UK tests tracking citizens’ habits, rewarding them for good behavior
+ - [https://reclaimthenet.org/uk-tests-tracking-citizens-habits-rewarding-them-for-good-behavior](https://reclaimthenet.org/uk-tests-tracking-citizens-habits-rewarding-them-for-good-behavior)
+ - date published: 2023-02-19 16:29:23+00:00
+ - user: rumpel
+ - tags: ['privacy', 'surveillance', 'social score']
 
 ## 'Woke' California university slammed for 'dehumanized' initiative encouraging students to tell on professors
  - [https://www.foxnews.com/media/woke-california-university-slammed-dehumanized-initiative-encouraging-students-tell-professors](https://www.foxnews.com/media/woke-california-university-slammed-dehumanized-initiative-encouraging-students-tell-professors)
@@ -122,7 +152,7 @@
  - [https://www.theverge.com/2023/2/14/23600358/elon-musk-tweets-algorithm-changes-twitter](https://www.theverge.com/2023/2/14/23600358/elon-musk-tweets-algorithm-changes-twitter)
  - date published: 2023-02-15 01:19:46+00:00
  - user: rumpel
- - tags: ['hipocrisy', 'tweeter', 'billionaires', 'inequality', 'elon musk', 'elites']
+ - tags: ['inequality', 'elites', 'tweeter', 'billionaires', 'elon musk', 'hypocrisy']
 
 ## Android launches yet another way to spy on users with “Privacy Sandbox” beta
  - [https://arstechnica.com/?p=1917626](https://arstechnica.com/?p=1917626)
@@ -146,7 +176,7 @@
  - [https://nakedsecurity.sophos.com/2023/02/10/reddit-admits-it-was-hacked-and-data-stolen-says-dont-panic/](https://nakedsecurity.sophos.com/2023/02/10/reddit-admits-it-was-hacked-and-data-stolen-says-dont-panic/)
  - date published: 2023-02-14 05:00:00+00:00
  - user: rumpel
- - tags: ['hack', 'leak']
+ - tags: ['data leak', 'hack']
 
 ## Face masks made ‘little to no difference’ in spread of COVID, scientific review finds
  - [https://www.foxnews.com/health/face-masks-difference-spread-covid-scientific-review](https://www.foxnews.com/health/face-masks-difference-spread-covid-scientific-review)
@@ -201,6 +231,12 @@
  - date published: 2023-02-12 13:27:05+00:00
  - user: rumpel
  - tags: ['surveillance', 'bigbrother', 'fbi']
+
+## Justin Trudeau to fund provincial healthcare, only if premiers agree to increased data collection
+ - [https://reclaimthenet.org/justin-trudeau-health-data](https://reclaimthenet.org/justin-trudeau-health-data)
+ - date published: 2023-02-11 22:55:58+00:00
+ - user: rumpel
+ - tags: ['bigbrother', 'privacy', 'bigpharma', 'surveillance']
 
 ## Ask HN: How can Netflix and Amazon Prime be this bad at recommending content?
  - [https://news.ycombinator.com/item?id=34754284](https://news.ycombinator.com/item?id=34754284)
@@ -290,7 +326,7 @@
  - [https://www.economist.com/business/2023/02/08/is-googles-20-year-search-dominance-about-to-end](https://www.economist.com/business/2023/02/08/is-googles-20-year-search-dominance-about-to-end)
  - date published: 2023-02-08 20:57:27+00:00
  - user: rumpel
- - tags: ['chatgps', 'algorithms', 'google', 'artificial intelligence']
+ - tags: ['chatgp', 'artificial intelligence', 'algorithms', 'google']
 
 ## Windows 11: a spyware machine out of users' control
  - [https://www.techspot.com/news/97535-windows-11-spyware-machine-out-users-control.html](https://www.techspot.com/news/97535-windows-11-spyware-machine-out-users-control.html)
@@ -320,7 +356,7 @@
  - [https://theconversation.com/chatgpt-is-a-data-privacy-nightmare-if-youve-ever-posted-online-you-ought-to-be-concerned-199283](https://theconversation.com/chatgpt-is-a-data-privacy-nightmare-if-youve-ever-posted-online-you-ought-to-be-concerned-199283)
  - date published: 2023-02-08 12:10:12+00:00
  - user: rumpel
- - tags: ['chatgpt', 'privacy']
+ - tags: ['artificial intelligence', 'chatgpt', 'privacy']
 
 ## UK Regulator Finds Pfizer Guilty of Violating Three Sections of British Pharmaceuticals Code of Practice
  - [https://www.gulf-insider.com/uk-regulator-finds-pfizer-guilty-of-violating-three-sections-of-british-pharmaceuticals-code-of-practice/](https://www.gulf-insider.com/uk-regulator-finds-pfizer-guilty-of-violating-three-sections-of-british-pharmaceuticals-code-of-practice/)
@@ -404,7 +440,7 @@
  - [https://reclaimthenet.org/chatgpt-trump-biden-poem](https://reclaimthenet.org/chatgpt-trump-biden-poem)
  - date published: 2023-02-02 18:55:05+00:00
  - user: rumpel
- - tags: ['chatgpt']
+ - tags: ['artificial intelligence', 'media bias', 'chatgpt']
 
 ## Bill Gates's INCREDIBLY AWKWARD Interview - Is THIS What He's Worried About??
  - [https://www.youtube.com/watch?v=o2HkjhK7aa4](https://www.youtube.com/watch?v=o2HkjhK7aa4)
@@ -482,7 +518,7 @@
  - [https://bgr.com/tech/gmail-creator-says-chatgpt-might-destroy-google-within-2-years/](https://bgr.com/tech/gmail-creator-says-chatgpt-might-destroy-google-within-2-years/)
  - date published: 2023-02-01 05:00:00+00:00
  - user: rumpel
- - tags: ['chatgpt', 'algorithms', 'google']
+ - tags: ['artificial intelligence', 'algorithms', 'chatgpt', 'google']
 
 ## Write Simply
  - [http://www.paulgraham.com/simply.html](http://www.paulgraham.com/simply.html)
@@ -554,7 +590,7 @@
  - [https://www.theepochtimes.com/dutch-govt-plans-new-digital-id-project-with-canada-says-wef-initiative-is-done_5020401.html](https://www.theepochtimes.com/dutch-govt-plans-new-digital-id-project-with-canada-says-wef-initiative-is-done_5020401.html)
  - date published: 2023-01-30 18:20:12+00:00
  - user: rumpel
- - tags: ['digital identity']
+ - tags: ['wef', 'world economic forum', 'digital identity']
 
 ## Oops, I Did It Again: Apple Faces Fourth iPhone Privacy Lawsuit After Gizmodo Story
  - [https://gizmodo.com/apple-iphone-analytics-privacy-4th-lawsuit-1850048418](https://gizmodo.com/apple-iphone-analytics-privacy-4th-lawsuit-1850048418)
@@ -578,7 +614,7 @@
  - [https://www.bleepingcomputer.com/news/security/us-no-fly-list-shared-on-a-hacking-forum-government-investigating/](https://www.bleepingcomputer.com/news/security/us-no-fly-list-shared-on-a-hacking-forum-government-investigating/)
  - date published: 2023-01-30 15:17:40+00:00
  - user: rumpel
- - tags: ['hack', 'noprivacy', 'leak']
+ - tags: ['noprivacy', 'data leak', 'hack']
 
 ## Utah bans gender-affirming surgery for young trans people
  - [https://www.theguardian.com/us-news/2023/jan/30/utah-gender-affirming-care-ban-law](https://www.theguardian.com/us-news/2023/jan/30/utah-gender-affirming-care-ban-law)
@@ -824,7 +860,7 @@
  - [https://www.thenation.com/article/economy/big-pharma-greed-knows-no-bounds/](https://www.thenation.com/article/economy/big-pharma-greed-knows-no-bounds/)
  - date published: 2023-01-21 18:04:27+00:00
  - user: rumpel
- - tags: ['corporatocracy', 'covid', 'moderna', 'vaccine', 'profit', 'bigpfarma']
+ - tags: ['corporatocracy', 'covid', 'vaccine', 'bigpharma', 'profit', 'moderna']
 
 ## You don't have to engage with people on the Internet
  - [https://xeiaso.net/blog/lesson-online-feedback](https://xeiaso.net/blog/lesson-online-feedback)
@@ -836,13 +872,13 @@
  - [https://www.lifesitenews.com/news/world-economic-forum-speaker-touts-technology-that-allows-your-boss-to-monitor-your-brain-activity/](https://www.lifesitenews.com/news/world-economic-forum-speaker-touts-technology-that-allows-your-boss-to-monitor-your-brain-activity/)
  - date published: 2023-01-20 22:15:39+00:00
  - user: rumpel
- - tags: ['dystopia', 'wef']
+ - tags: ['wef', 'world economic forum', 'dystopia']
 
 ## U.S. ‘No Fly List’ Leaks After Being Left in an Unsecured Airline Server
  - [https://www.vice.com/en/article/93a4p5/us-no-fly-list-leaks-after-being-left-in-an-unsecured-airline-server](https://www.vice.com/en/article/93a4p5/us-no-fly-list-leaks-after-being-left-in-an-unsecured-airline-server)
  - date published: 2023-01-20 21:48:47+00:00
  - user: rumpel
- - tags: ['airline', 'leak', 'surveillance']
+ - tags: ['airline', 'data leak', 'surveillance']
 
 ## The CIA's Plot To Assassinate Julian Assange
  - [https://www.youtube.com/watch?v=KvewuoL2VcY](https://www.youtube.com/watch?v=KvewuoL2VcY)
@@ -1118,7 +1154,7 @@
  - [https://thehill.com/policy/equilibrium-sustainability/3812793-private-jet-emissions-sky-high-at-davos-group-says/](https://thehill.com/policy/equilibrium-sustainability/3812793-private-jet-emissions-sky-high-at-davos-group-says/)
  - date published: 2023-01-13 22:20:10+00:00
  - user: rumpel
- - tags: ['climate change', 'hypocrisy', 'wef', 'climate drama', 'davos']
+ - tags: ['climate change', 'climate drama', 'wef', 'world economic forum', 'davos', 'hypocrisy']
 
 ## Google warns court against changing liability shield for internet companies
  - [https://www.computerworld.com/article/3685535/google-warns-court-against-changing-liability-shield-for-internet-companies.html#tk.rss_all](https://www.computerworld.com/article/3685535/google-warns-court-against-changing-liability-shield-for-internet-companies.html#tk.rss_all)
@@ -1142,7 +1178,7 @@
  - [https://www.tagesanzeiger.ch/wef-2023-klimaschutz-privatjet-greenpeace-heuchelei-davos-259413788377](https://www.tagesanzeiger.ch/wef-2023-klimaschutz-privatjet-greenpeace-heuchelei-davos-259413788377)
  - date published: 2023-01-13 18:23:54+00:00
  - user: rumpel
- - tags: ['wef', 'climate drama', 'climate change', 'davos']
+ - tags: ['climate change', 'climate drama', 'wef', 'world economic forum', 'davos']
 
 ## India lets banks use face recognition, iris scan for some transactions - sources | Reuters
  - [https://www.reuters.com/world/india/india-lets-banks-use-face-recognition-iris-scan-some-transactions-sources-2023-01-13/](https://www.reuters.com/world/india/india-lets-banks-use-face-recognition-iris-scan-some-transactions-sources-2023-01-13/)

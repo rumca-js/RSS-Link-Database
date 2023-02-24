@@ -1970,7 +1970,7 @@
  - [https://www.resilience.org/stories/2021-08-24/conspiracy-theories-aside-there-is-something-fishy-about-the-great-reset/](https://www.resilience.org/stories/2021-08-24/conspiracy-theories-aside-there-is-something-fishy-about-the-great-reset/)
  - date published: 2021-08-24 18:18:59+00:00
  - user: rumpel
- - tags: ['technofeudalism', 'wef', 'corporatocracy', 'democracy']
+ - tags: ['democracy', 'corporatocracy', 'wef', 'world economic forum', 'technofeudalism']
 
 ## ‘I can’t work’: the mothers left to fight alone for their children’s mental health care | Mental health | The Guardian
  - [https://www.theguardian.com/society/2021/aug/15/i-cant-work-the-mothers-left-to-fight-alone-for-their-childrens-mental-health-care](https://www.theguardian.com/society/2021/aug/15/i-cant-work-the-mothers-left-to-fight-alone-for-their-childrens-mental-health-care)
@@ -2818,6 +2818,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Why we need to give insects the role they deserve in our food systems | World Economic Forum
+ - [https://www.weforum.org/agenda/2021/07/why-we-need-to-give-insects-the-role-they-deserve-in-our-food-systems/](https://www.weforum.org/agenda/2021/07/why-we-need-to-give-insects-the-role-they-deserve-in-our-food-systems/)
+ - date published: 2021-07-12 20:18:17+00:00
+ - user: rumpel
+ - tags: ['wef', 'world economic forum', 'eatingbugs']
+
 ## Chatcontrol: EU Parliament approves mass surveillance of private communications
  - [https://european-pirateparty.eu/parliament-approves-chatcontrol/](https://european-pirateparty.eu/parliament-approves-chatcontrol/)
  - date published: 2021-07-06 12:55:03+00:00
@@ -3008,7 +3014,7 @@
  - [https://nationalfile.com/world-economic-forum-urges-companies-to-fire-unvaccinated-employees-as-part-of-jobs-reset-deletes-tweet-after-backlash/](https://nationalfile.com/world-economic-forum-urges-companies-to-fire-unvaccinated-employees-as-part-of-jobs-reset-deletes-tweet-after-backlash/)
  - date published: 2021-05-18 22:10:14+00:00
  - user: rumpel
- - tags: ['mandates', 'covid', 'wef', 'vaccine']
+ - tags: ['mandates', 'covid', 'vaccine', 'wef', 'world economic forum']
 
 ## Bill Gates reportedly hoped Jeffrey Epstein would help him win a Nobel
  - [https://nypost.com/2021/05/18/bill-gates-hoped-epstein-would-help-him-win-a-nobel-report/](https://nypost.com/2021/05/18/bill-gates-hoped-epstein-would-help-him-win-a-nobel-report/)
@@ -3188,7 +3194,7 @@
  - [https://www.reuters.com/article/us-facebook-data-leak/facebook-does-not-plan-to-notify-half-billion-users-affected-by-data-leak-idUSKBN2BU2ZY](https://www.reuters.com/article/us-facebook-data-leak/facebook-does-not-plan-to-notify-half-billion-users-affected-by-data-leak-idUSKBN2BU2ZY)
  - date published: 2021-04-07 13:04:35+00:00
  - user: rumpel
- - tags: ['leak', 'meta', 'facebook', 'censorship']
+ - tags: ['censorship', 'meta', 'data leak', 'facebook']
 
 ## If You Sell a House These Days, the Buyer Might Be a Pension Fund
  - [https://www.wsj.com/articles/if-you-sell-a-house-these-days-the-buyer-might-be-a-pension-fund-11617544801](https://www.wsj.com/articles/if-you-sell-a-house-these-days-the-buyer-might-be-a-pension-fund-11617544801)
@@ -3260,7 +3266,7 @@
  - [https://nypost.com/2021/02/27/why-bill-gates-is-now-the-us-biggest-farmland-owner/](https://nypost.com/2021/02/27/why-bill-gates-is-now-the-us-biggest-farmland-owner/)
  - date published: 2021-02-27 07:34:00+00:00
  - user: None
- - tags: ['bill gates', 'farmland']
+ - tags: ['farmland', 'bill gates', 'agriculture']
 
 ## Mark Carney’s ‘net-zero’ firm has billions in coal and oil sands projects - Unearthed
  - [https://unearthed.greenpeace.org/2021/02/26/mark-carney-brookfield-net-zero-cop-fossil-fuel-coal-oil-gas/](https://unearthed.greenpeace.org/2021/02/26/mark-carney-brookfield-net-zero-cop-fossil-fuel-coal-oil-gas/)

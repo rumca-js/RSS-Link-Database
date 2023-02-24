@@ -8,5 +8,5 @@
  - [http://www.rodaknet.com/rp_art_6784_czytelnia_richard_coudenhove-kalerg_stany_zjednoczone_europy.htm](http://www.rodaknet.com/rp_art_6784_czytelnia_richard_coudenhove-kalerg_stany_zjednoczone_europy.htm)
  - date published: 2016-04-05 07:24:17+00:00
  - user: None
- - tags: ['conspiracy theory', 'depopulation', 'funny', 'immigration', 'kalergi']
+ - tags: ['depopulation', 'immigration', 'conspiracy theory', 'kalergi']
 

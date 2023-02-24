@@ -22,6 +22,12 @@
  - user: rumpel
  - tags: ['european union', 'kalergi']
 
+## Russian police raid NGINX Moscow office | ZDNET
+ - [https://www.zdnet.com/article/russian-police-raid-nginx-moscow-office/](https://www.zdnet.com/article/russian-police-raid-nginx-moscow-office/)
+ - date published: 2019-12-12 08:05:46+00:00
+ - user: rumpel
+ - tags: ['bigbrother', 'nginx', 'russia']
+
 ## The Untold Truth Of The Satanic Temple
  - [https://www.grunge.com/132693/the-untold-truth-of-the-satanic-temple/](https://www.grunge.com/132693/the-untold-truth-of-the-satanic-temple/)
  - date published: 2019-12-09 13:28:24+00:00
@@ -554,7 +560,7 @@
  - [https://www.cnbc.com/2019/01/25/wef-defends-jet-setting-elites-amid-climate-change-agenda.html](https://www.cnbc.com/2019/01/25/wef-defends-jet-setting-elites-amid-climate-change-agenda.html)
  - date published: 2019-01-25 18:30:56+00:00
  - user: rumpel
- - tags: ['hypocrisy', 'wef', 'climate change']
+ - tags: ['climate change', 'wef', 'world economic forum', 'hypocrisy']
 
 ## The Media Needs to Keep You Angry. Don't Feed Into It
  - [https://fee.org/articles/the-media-needs-to-keep-you-angry-dont-feed-into-it/?fbclid=IwAR3cpG5JJHpYJc0Z759ZUzHGh7WQtxueg4cIJlxPWAPuUqqsCuP3yMxwduo](https://fee.org/articles/the-media-needs-to-keep-you-angry-dont-feed-into-it/?fbclid=IwAR3cpG5JJHpYJc0Z759ZUzHGh7WQtxueg4cIJlxPWAPuUqqsCuP3yMxwduo)

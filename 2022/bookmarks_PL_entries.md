@@ -136,6 +136,12 @@
  - user: None
  - tags: ['covid']
 
+## Człowiek-choinka poszukiwany. Poprzecinał opony 20 aut na terenie hurtowni mięsa [WIDEO]
+ - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29239751,czlowiek-choinka-poszukiwany-przez-policje-za-atak-na-hurtownie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29239751,czlowiek-choinka-poszukiwany-przez-policje-za-atak-na-hurtownie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
+ - date published: 2022-12-08 13:54:00+00:00
+ - user: rumpel
+ - tags: ['funny']
+
 ## Wielka Brytania po raz pierwszy od 35 lat zbuduje kopalnię węgla. Rząd wydał zgodę
  - [https://forsal.pl/biznes/energetyka/artykuly/8605747,wielka-brytania-kopalnia-wegla-rzad-wydal-zgode.html](https://forsal.pl/biznes/energetyka/artykuly/8605747,wielka-brytania-kopalnia-wegla-rzad-wydal-zgode.html)
  - date published: 2022-12-08 07:19:57+00:00
@@ -572,7 +578,7 @@
  - [https://www.youtube.com/watch?v=LdVgb8Q8BRY](https://www.youtube.com/watch?v=LdVgb8Q8BRY)
  - date published: 2022-10-10 07:58:32+00:00
  - user: None
- - tags: ['nwo', 'morawiecki', 'schwab', 'davos', 'wef']
+ - tags: ['schwab', 'wef', 'world economic forum', 'morawiecki', 'davos', 'nwo']
 
 ## Fiskus zagląda do kont bankowych. Rzecznik Praw Obywatelskich jest...
  - [https://www.wykop.pl/link/6851735/fiskus-zaglada-do-kont-bankowych-rzecznik-praw-obywatelskich-jest/](https://www.wykop.pl/link/6851735/fiskus-zaglada-do-kont-bankowych-rzecznik-praw-obywatelskich-jest/)
@@ -1352,7 +1358,7 @@
  - [https://www.bankier.pl/wiadomosc/Macron-wieszczy-koniec-ery-obfitosci-Ale-wlasciwie-dla-kogo-8399613.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Macron-wieszczy-koniec-ery-obfitosci-Ale-wlasciwie-dla-kogo-8399613.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date published: 2022-09-04 17:00:00+00:00
  - user: None
- - tags: ['sustainable growth', 'macron', 'wef', 'france']
+ - tags: ['france', 'macron', 'wef', 'world economic forum', 'sustainable growth']
 
 ## Koronawirus skrócił średnią długość życia Amerykanów. To największy spadek od niemal 100 lat
  - [https://www.bankier.pl/wiadomosc/Koronawirus-skrocil-srednia-dlugosc-zycia-Amerykanow-To-najwiekszy-spadek-od-niemal-100-lat-8398555.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Koronawirus-skrocil-srednia-dlugosc-zycia-Amerykanow-To-najwiekszy-spadek-od-niemal-100-lat-8398555.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -1419,6 +1425,12 @@
  - date published: 2022-09-02 06:03:01+00:00
  - user: None
  - tags: $tags
+
+## Niemieccy rolnicy mają dość. Protestowali przeciwko polityce klimatycznej UE - Money.pl
+ - [https://www.money.pl/gospodarka/niemieccy-rolnicy-maja-dosc-protestowali-przeciwko-polityce-klimatycznej-ue-6807430977067520a.html](https://www.money.pl/gospodarka/niemieccy-rolnicy-maja-dosc-protestowali-przeciwko-polityce-klimatycznej-ue-6807430977067520a.html)
+ - date published: 2022-08-31 20:53:45+00:00
+ - user: rumpel
+ - tags: ['germany', 'agriculture']
 
 ## Zakład Pascala
  - [https://pl.wikipedia.org/wiki/Zak%C5%82ad_Pascala](https://pl.wikipedia.org/wiki/Zak%C5%82ad_Pascala)
@@ -1610,5 +1622,5 @@
  - [https://obywatelenieba.pl/2022/01/04/facebook-przeciw-przesladowanym-chrzescijankom/](https://obywatelenieba.pl/2022/01/04/facebook-przeciw-przesladowanym-chrzescijankom/)
  - date published: 2022-01-04 12:51:29+00:00
  - user: rumpel
- - tags: ['hipocrisy', 'inequality', 'christianophobia', 'feminism', 'facebook']
+ - tags: ['inequality', 'christianophobia', 'feminism', 'facebook', 'hypocrisy']
 

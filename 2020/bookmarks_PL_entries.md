@@ -146,7 +146,7 @@
  - [https://www.benchmark.pl/aktualnosci/smartfony-xiaomi-zbieraja-wszystkie-dane-o-uzytkowniku.html](https://www.benchmark.pl/aktualnosci/smartfony-xiaomi-zbieraja-wszystkie-dane-o-uzytkowniku.html)
  - date published: 2020-05-01 12:04:50+00:00
  - user: None
- - tags: ['xiaomi', 'surveillance', 'privacy', 'tracking']
+ - tags: ['tracking', 'xiaomi', 'privacy', 'surveillance', 'data leak']
 
 ## Ministerstwo Zdrowia zakazuje lekarzom mówić o koronawirusie
  - [https://trojmiasto.wyborcza.pl/trojmiasto/7,35612,25825997,ministerstwo-zdrowia-zakazuje-lekarzom-mowic-o-koronawirusie.html?squid_js=false](https://trojmiasto.wyborcza.pl/trojmiasto/7,35612,25825997,ministerstwo-zdrowia-zakazuje-lekarzom-mowic-o-koronawirusie.html?squid_js=false)

@@ -1,3 +1,9 @@
+## Zwykły bohater #2 Nauczyciel
+ - [https://www.youtube.com/watch?v=gCObZjzFv-8](https://www.youtube.com/watch?v=gCObZjzFv-8)
+ - date published: 2023-02-23 10:39:57+00:00
+ - user: rumpel
+ - tags: ['funny']
+
 ## Polska nie radzi sobie z odnawialnymi źródłami energii. Rezygnacja z aut spalinowych wypada jeszcze bardziej absurdalnie
  - [https://www.chip.pl/2023/02/polska-odnawialne-zrodla-energii-raport-unii-europejskiej](https://www.chip.pl/2023/02/polska-odnawialne-zrodla-energii-raport-unii-europejskiej)
  - date published: 2023-02-18 17:00:00+00:00
@@ -15,12 +21,6 @@
  - date published: 2023-02-16 15:41:57+00:00
  - user: rumpel
  - tags: ['lgbt', 'spain', 'trans', 'gender']
-
-## Do szpitala trafił mężczyzna z kłódką na… worku mosznowym. O pomoc poproszono strażaków | Piotrkowski24
- - [https://www.piotrkowski24.pl/do-szpitala-trafil-mezczyzna-z-klodka-na-worku-mosznowym-o-pomoc-poproszono-strazakow/](https://www.piotrkowski24.pl/do-szpitala-trafil-mezczyzna-z-klodka-na-worku-mosznowym-o-pomoc-poproszono-strazakow/)
- - date published: 2023-02-13 14:17:49+00:00
- - user: rumpel
- - tags: ['funny']
 
 ## Wielka Brytania chce zakazu szyfrowanych telefonów
  - [https://ithardware.pl/aktualnosci/wielka_brytania_chce_zakazu_szyfrowanych_telefonow-25815.html](https://ithardware.pl/aktualnosci/wielka_brytania_chce_zakazu_szyfrowanych_telefonow-25815.html)

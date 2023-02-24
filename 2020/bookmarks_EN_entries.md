@@ -98,7 +98,7 @@
  - [https://www.technocracy.news/wef-private-property-and-privacy-will-vanish-by-2030/](https://www.technocracy.news/wef-private-property-and-privacy-will-vanish-by-2030/)
  - date published: 2020-12-14 18:04:34+00:00
  - user: rumpel
- - tags: ['corporatocracy', 'privacy', 'future', 'technofeudalism', 'wef', 'property']
+ - tags: ['corporatocracy', 'future', 'property', 'wef', 'world economic forum', 'privacy', 'technofeudalism']
 
 ## Command Line Bibles
  - [https://lukesmith.xyz/articles/command-line-bibles/](https://lukesmith.xyz/articles/command-line-bibles/)
@@ -339,6 +339,12 @@
  - date published: 2020-10-03 12:50:43+00:00
  - user: None
  - tags: $tags
+
+## 'Woke utopia', the end of the West & a new cult - James Lindsay interview - BQ #33
+ - [https://www.youtube.com/watch?v=dE8p-mcFdNg](https://www.youtube.com/watch?v=dE8p-mcFdNg)
+ - date published: 2020-10-02 11:39:09+00:00
+ - user: rumpel
+ - tags: ['propaganda', 'woke', 'socialism', 'social engineering', 'grievance']
 
 ## Aldous Huxley - The Most Brutally Honest 8 Minutes Of Your Life!
  - [https://www.youtube.com/watch?v=67fm4D5Ii6E](https://www.youtube.com/watch?v=67fm4D5Ii6E)
@@ -602,7 +608,7 @@
  - [https://eu.examiner-enterprise.com/story/opinion/columns/2020/07/21/hypocrisy-of-black-lives-matter-movement/112696474/](https://eu.examiner-enterprise.com/story/opinion/columns/2020/07/21/hypocrisy-of-black-lives-matter-movement/112696474/)
  - date published: 2020-07-21 12:30:26+00:00
  - user: None
- - tags: ['hipocrisy', 'blm', 'blacklivesmatter']
+ - tags: ['blm', 'hypocrisy', 'blacklivesmatter']
 
 ## Epstein case: Suspect who shot family of judge on DB-Jeffrey Epstein case found dead after apparent suicide – reports
  - [https://www.rt.com/usa/495320-suspect-epstein-judge-shooting-suicide/](https://www.rt.com/usa/495320-suspect-epstein-judge-shooting-suicide/)
@@ -956,7 +962,7 @@
  - [https://www.forbes.com/sites/stevedenning/2020/01/05/why-stakeholder-capitalism-will-fail/](https://www.forbes.com/sites/stevedenning/2020/01/05/why-stakeholder-capitalism-will-fail/)
  - date published: 2020-01-05 08:54:26+00:00
  - user: rumpel
- - tags: ['stakeholder capitalism', 'wef', 'esg']
+ - tags: ['world economic forum', 'wef', 'esg', 'stakeholder capitalism']
 
 ## Who’s Really Responsible for Climate Change?
  - [https://harvardpolitics.com/climate-change-responsibility/](https://harvardpolitics.com/climate-change-responsibility/)

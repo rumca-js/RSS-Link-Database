@@ -8,7 +8,7 @@
  - [https://dailysceptic.org/2022/12/31/you-dont-have-to-be-a-conspiracy-theorist-to-be-worried-about-the-world-economic-forum/](https://dailysceptic.org/2022/12/31/you-dont-have-to-be-a-conspiracy-theorist-to-be-worried-about-the-world-economic-forum/)
  - date published: 2022-12-31 19:00:00+00:00
  - user: rumpel
- - tags: ['wef', 'conspiracy theory']
+ - tags: ['wef', 'world economic forum', 'conspiracy theory']
 
 ## U.S. universities, rich in data, struggle to capture its value, study finds
  - [https://newsroom.ucla.edu/releases/universities-struggle-to-leverage-data](https://newsroom.ucla.edu/releases/universities-struggle-to-leverage-data)
@@ -44,7 +44,7 @@
  - [https://reclaimthenet.org/wef-plans-to-issue-guardrails-on-metaverse-creation/](https://reclaimthenet.org/wef-plans-to-issue-guardrails-on-metaverse-creation/)
  - date published: 2022-12-30 19:37:55+00:00
  - user: rumpel
- - tags: ['digital id', 'wef', 'metaverse']
+ - tags: ['wef', 'metaverse', 'digital id', 'world economic forum']
 
 ## Google will pay $9.5 million to settle Washington DC AG's location-tracking lawsuit
  - [https://www.engadget.com/google-washington-dc-ag-location-tracking-settlement-192244812.html?src=rss](https://www.engadget.com/google-washington-dc-ag-location-tracking-settlement-192244812.html?src=rss)
@@ -164,7 +164,7 @@
  - [https://www.louderwithcrowder.com/klaus-schwab-education](https://www.louderwithcrowder.com/klaus-schwab-education)
  - date published: 2022-12-28 13:02:15+00:00
  - user: rumpel
- - tags: ['nwo', 'wef', 'propaganda']
+ - tags: ['wef', 'propaganda', 'world economic forum', 'nwo']
 
 ## Zelenskyy, BlackRock CEO Fink agree to coordinate Ukraine investment
  - [https://www.cnbc.com/2022/12/28/zelenskyy-blackrock-ceo-fink-agree-to-coordinate-ukraine-investment.html](https://www.cnbc.com/2022/12/28/zelenskyy-blackrock-ceo-fink-agree-to-coordinate-ukraine-investment.html)
@@ -182,7 +182,7 @@
  - [https://www.theverge.com/2022/12/27/23528338/us-military-biometric-devices-fingerprints-pictures-iris-scans-afghanistan](https://www.theverge.com/2022/12/27/23528338/us-military-biometric-devices-fingerprints-pictures-iris-scans-afghanistan)
  - date published: 2022-12-28 00:21:14+00:00
  - user: rumpel
- - tags: ['data', 'leak', 'privacy']
+ - tags: ['privacy', 'data leak']
 
 ## Transgender pansexuality Australian Human Rights Commission video slammed as woke gender ideology
  - [https://www.dailymail.co.uk/news/article-11577527/Transgender-pansexuality-Australian-Human-Rights-Commission-video-slammed-woke-gender-ideology.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11577527/Transgender-pansexuality-Australian-Human-Rights-Commission-video-slammed-woke-gender-ideology.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -320,7 +320,7 @@
  - [https://thecyberexpress.com/twitter-data-breach-400-million-users-for-sale/](https://thecyberexpress.com/twitter-data-breach-400-million-users-for-sale/)
  - date published: 2022-12-24 18:23:24+00:00
  - user: rumpel
- - tags: ['twitter', 'privacy', 'leak']
+ - tags: ['data leak', 'privacy', 'twitter']
 
 ## Why Marvel Is Collapsing: The Coming Marvel Crisis
  - [https://www.youtube.com/watch?v=uQFWlrfhe8M](https://www.youtube.com/watch?v=uQFWlrfhe8M)
@@ -622,6 +622,12 @@
  - user: None
  - tags: ['cambridge analytica']
 
+## Police seize on COVID-19 tech to expand global surveillance - ABC News
+ - [https://abcnews.go.com/Health/wireStory/police-seize-covid-19-tech-expand-global-surveillance-95584064](https://abcnews.go.com/Health/wireStory/police-seize-covid-19-tech-expand-global-surveillance-95584064)
+ - date published: 2022-12-20 21:54:01+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'covid']
+
 ## ‘Twitter Files’ Show Company ‘Directly Assisted’ in US Military Psychological Operations
  - [https://www.theepochtimes.com/twitter-files-show-company-directly-assisted-in-us-military-psychological-operations_4935884.html](https://www.theepochtimes.com/twitter-files-show-company-directly-assisted-in-us-military-psychological-operations_4935884.html)
  - date published: 2022-12-20 21:20:56+00:00
@@ -734,7 +740,7 @@
  - [https://news.bloombergtax.com/daily-tax-report/irs-accidentally-releases-112-000-taxpayers-private-data-again](https://news.bloombergtax.com/daily-tax-report/irs-accidentally-releases-112-000-taxpayers-private-data-again)
  - date published: 2022-12-18 20:45:57+00:00
  - user: None
- - tags: ['leak', 'privacy']
+ - tags: ['privacy', 'data leak']
 
 ## After Twitter revelations, Rep. James Comer says Google and Facebook need to be investigated for similar censorship collusion
  - [https://reclaimthenet.org/comer-says-google-and-fb-needs-to-be-investigated-censorship/](https://reclaimthenet.org/comer-says-google-and-fb-needs-to-be-investigated-censorship/)
@@ -1066,6 +1072,12 @@
  - user: None
  - tags: ['jack dorsey', 'twitter', 'twitter files', 'censorship']
 
+## Dutch Government To Force Farm Buyouts For Totalitarian Agenda
+ - [https://www.theepochtimes.com/dutch-government-to-force-farm-buyouts-for-totalitarian-agenda_4921732.html](https://www.theepochtimes.com/dutch-government-to-force-farm-buyouts-for-totalitarian-agenda_4921732.html)
+ - date published: 2022-12-13 23:44:13+00:00
+ - user: rumpel
+ - tags: ['agriculture']
+
 ## Report: Apple plans to support sideloading and third-party app stores by 2024
  - [https://arstechnica.com/?p=1904133](https://arstechnica.com/?p=1904133)
  - date published: 2022-12-13 22:13:20+00:00
@@ -1148,7 +1160,7 @@
  - [https://www.nbcnews.com/news/world/dutch-farmers-emissions-global-right-wing-culture-war-rcna60269](https://www.nbcnews.com/news/world/dutch-farmers-emissions-global-right-wing-culture-war-rcna60269)
  - date published: 2022-12-12 10:25:29+00:00
  - user: None
- - tags: ['esg']
+ - tags: ['esg', 'agriculture']
 
 ## Elon Musk Gets Viciously Booed by Stadium Crowd at Dave Chappelle Show
  - [https://gizmodo.com/elon-musk-booed-stadium-crowd-dave-chappelle-sf-boo-1849881192](https://gizmodo.com/elon-musk-booed-stadium-crowd-dave-chappelle-sf-boo-1849881192)
@@ -1334,7 +1346,7 @@
  - [https://tutanota.com/blog/posts/facebook-tracking-business-model-illegal-europe/](https://tutanota.com/blog/posts/facebook-tracking-business-model-illegal-europe/)
  - date published: 2022-12-09 14:57:28+00:00
  - user: None
- - tags: ['meta', 'facebook privacy', 'gdpr']
+ - tags: ['gdpr', 'privacy', 'meta', 'facebook']
 
 ## How Embracing Digital Identity Can Benefit Governments, Companies And Individuals
  - [https://www.forbes.com/sites/forbestechcouncil/2022/12/09/how-embracing-digital-identity-can-benefit-governments-companies-and-individuals/](https://www.forbes.com/sites/forbestechcouncil/2022/12/09/how-embracing-digital-identity-can-benefit-governments-companies-and-individuals/)
@@ -1460,7 +1472,7 @@
  - [https://reclaimthenet.org/wef-digital-id-metaverse/](https://reclaimthenet.org/wef-digital-id-metaverse/)
  - date published: 2022-12-07 16:43:32+00:00
  - user: None
- - tags: ['wef', 'digital identity', 'metaverse']
+ - tags: ['wef', 'metaverse', 'digital identity', 'world economic forum']
 
 ## Fauci deposition: Fauci says no one from his office pushed for social media censorship. Documents show they did.
  - [https://reclaimthenet.org/fauci-deposition/](https://reclaimthenet.org/fauci-deposition/)
@@ -1778,7 +1790,7 @@
  - [https://arstechnica.com/?p=1901358](https://arstechnica.com/?p=1901358)
  - date published: 2022-12-01 20:20:38+00:00
  - user: None
- - tags: ['hackers', 'hive social', 'leak']
+ - tags: ['hackers', 'hive social', 'data leak']
 
 ## Fauci says 'it's very important' to learn COVID origin, explains what to do if lab leak theory proven true
  - [https://www.foxnews.com/politics/fauci-says-very-important-learn-covid-origin-explains-what-do-lab-leak-theory-proven-true](https://www.foxnews.com/politics/fauci-says-very-important-learn-covid-origin-explains-what-do-lab-leak-theory-proven-true)
@@ -2042,7 +2054,7 @@
  - [https://cybernews.com/news/whatsapp-data-leak/](https://cybernews.com/news/whatsapp-data-leak/)
  - date published: 2022-11-26 13:41:53+00:00
  - user: None
- - tags: ['whatsapp', 'leak', 'privacy']
+ - tags: ['privacy', 'data leak', 'whatsapp']
 
 ## Tax Filing Websites Caught Sending Users’ Financial Data to Facebook
  - [https://www.extremetech.com/internet/341111-tax-filing-websites-caught-sending-users-financial-data-to-facebook](https://www.extremetech.com/internet/341111-tax-filing-websites-caught-sending-users-financial-data-to-facebook)
@@ -2360,7 +2372,7 @@
  - [https://www.dailywire.com/news/why-is-super-creep-klaus-schwab-even-at-the-g-20-summit](https://www.dailywire.com/news/why-is-super-creep-klaus-schwab-even-at-the-g-20-summit)
  - date published: 2022-11-16 18:13:43+00:00
  - user: None
- - tags: ['schwab', 'wef', 'nwo', 'g20']
+ - tags: ['g20', 'wef', 'world economic forum', 'schwab', 'nwo']
 
 ## FBI is 'extremely concerned' about China's influence through TikTok on U.S. users
  - [https://www.cnbc.com/2022/11/15/fbi-is-extremely-concerned-about-chinas-influence-through-tiktok.html](https://www.cnbc.com/2022/11/15/fbi-is-extremely-concerned-about-chinas-influence-through-tiktok.html)
@@ -2738,7 +2750,7 @@
  - [https://www.thetrumpet.com/26367-british-universities-told-to-teach-that-math-is-racist](https://www.thetrumpet.com/26367-british-universities-told-to-teach-that-math-is-racist)
  - date published: 2022-11-08 14:48:32+00:00
  - user: None
- - tags: ['scienceisracist', 'mathisracist']
+ - tags: ['mathisracist', 'scienceisracist', 'scienceisdead']
 
 ## China’s Digital Yuan Works Just Like Cash—With Added Surveillance
  - [https://www.wired.com/story/chinas-digital-yuan-ecny-works-just-like-cash-surveillance/](https://www.wired.com/story/chinas-digital-yuan-ecny-works-just-like-cash-surveillance/)
@@ -2846,7 +2858,7 @@
  - [https://www.businessinsider.com/facebook-has-hidden-tool-to-delete-your-phone-number-email-2022-10?IR=T](https://www.businessinsider.com/facebook-has-hidden-tool-to-delete-your-phone-number-email-2022-10?IR=T)
  - date published: 2022-11-05 23:36:46+00:00
  - user: None
- - tags: ['facebook privacy']
+ - tags: ['privacy', 'facebook']
 
 ## 3D OpenStreetMap
  - [https://demo.f4map.com](https://demo.f4map.com)
@@ -2948,7 +2960,7 @@
  - [https://techcrunch.com/2022/11/03/astrazeneca-passwords-exposed-patient-data/](https://techcrunch.com/2022/11/03/astrazeneca-passwords-exposed-patient-data/)
  - date published: 2022-11-04 12:53:39+00:00
  - user: rumpel
- - tags: ['privacy', 'astrazeneca', 'leak', 'covid']
+ - tags: ['privacy', 'astrazeneca', 'data leak', 'covid']
 
 ## Organizing 1,700 Resistors in a Ring Binder
  - [https://madebynathan.com/posts/2022-10-30-e24-resistor-pack-ring-binder/#what-are-resistors](https://madebynathan.com/posts/2022-10-30-e24-resistor-pack-ring-binder/#what-are-resistors)
@@ -3524,7 +3536,7 @@
  - [https://www.dailymail.co.uk/news/article-11366515/Researcher-wrote-2019-report-gaps-IQ-whites-blacks-hired-Cambridge.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11366515/Researcher-wrote-2019-report-gaps-IQ-whites-blacks-hired-Cambridge.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2022-10-28 20:49:27+00:00
  - user: None
- - tags: ['propaganda', 'ideology', 'scienceisracist', 'blm', 'iq']
+ - tags: ['propaganda', 'scienceisdead', 'ideology', 'blm', 'scienceisracist', 'iq']
 
 ## Wicked Globalists Are Causing Starvation and Poverty Under the Guise of Environmentalism
  - [https://www.youtube.com/watch?v=tF5spyudTYA](https://www.youtube.com/watch?v=tF5spyudTYA)
@@ -4112,7 +4124,7 @@
  - [https://www.techradar.com/news/hackers-steal-50gb-data-thousands-of-emails-from-iranian-nuclear-facilities/](https://www.techradar.com/news/hackers-steal-50gb-data-thousands-of-emails-from-iranian-nuclear-facilities/)
  - date published: 2022-10-24 12:30:04+00:00
  - user: None
- - tags: ['leak', 'hackers']
+ - tags: ['hackers', 'data leak']
 
 ## Ads nearly ruined the iPhone's App Store, and Apple's about to add more of them
  - [https://www.techradar.com/news/ads-nearly-ruined-the-iphones-app-store-and-apples-about-to-add-more-of-them/](https://www.techradar.com/news/ads-nearly-ruined-the-iphones-app-store-and-apples-about-to-add-more-of-them/)
@@ -4922,7 +4934,7 @@
  - [https://www.youtube.com/watch?v=6Iy-YrmDMX4](https://www.youtube.com/watch?v=6Iy-YrmDMX4)
  - date published: 2022-10-07 07:19:48+00:00
  - user: None
- - tags: ['wef', 'great reset']
+ - tags: ['wef', 'world economic forum', 'great reset']
 
 ## Longevity of Recordable CDs, DVDs and Blu-Rays
  - [https://www.canada.ca/en/conservation-institute/services/conservation-preservation-publications/canadian-conservation-institute-notes/longevity-recordable-cds-dvds.html](https://www.canada.ca/en/conservation-institute/services/conservation-preservation-publications/canadian-conservation-institute-notes/longevity-recordable-cds-dvds.html)
@@ -7214,7 +7226,7 @@
  - [https://www.dailymail.co.uk/news/article-11176931/Black-Lives-Matter-leader-accused-pilfering-10M-organization.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11176931/Black-Lives-Matter-leader-accused-pilfering-10M-organization.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2022-09-03 21:28:31+00:00
  - user: None
- - tags: ['blm', 'hipocrisy', 'blacklivesmatter']
+ - tags: ['blm', 'hypocrisy', 'blacklivesmatter']
 
 ## CNN staffers are 'terrified' after Brian Stelter and John Harwood were fired
  - [https://www.dailymail.co.uk/news/article-11176729/CNN-staffers-terrified-Brian-Stelter-John-Harwood-fired.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11176729/CNN-staffers-terrified-Brian-Stelter-John-Harwood-fired.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -7528,6 +7540,12 @@
  - user: rumpel
  - tags: ['lgbt', 'inequality', 'hypocrisy']
 
+## Europe’s Deepening Fertilizer Crunch Threatens Food Crisis
+ - [https://www.bloomberg.com/news/articles/2022-08-26/europe-s-fertilizer-crisis-deepens-with-70-of-capacity-hit](https://www.bloomberg.com/news/articles/2022-08-26/europe-s-fertilizer-crisis-deepens-with-70-of-capacity-hit)
+ - date published: 2022-08-26 20:56:27+00:00
+ - user: rumpel
+ - tags: ['agriculture']
+
 ## How I used Go to make my radio auto-switch to AUX-IN when a Raspi plays music · Applied Go
  - [https://appliedgo.net/auxin/](https://appliedgo.net/auxin/)
  - date published: 2022-08-26 16:03:47.320790+00:00
@@ -7587,6 +7605,12 @@
  - date published: 2022-08-25 08:39:50+00:00
  - user: rumpel
  - tags: ['programming', 'webscraping', 'python']
+
+## WEF States That We Will Eat Bugs Voluntarily Soon
+ - [https://www.independentsentinel.com/wef-states-that-we-will-eat-bugs-voluntarily-soon/](https://www.independentsentinel.com/wef-states-that-we-will-eat-bugs-voluntarily-soon/)
+ - date published: 2022-08-24 20:21:23+00:00
+ - user: rumpel
+ - tags: ['wef', 'world economic forum', 'eatingbugs']
 
 ## Zbigniew Brzeziński Obawia się Globalnego Przebudzenia
  - [https://bomega.pl/zbigniew-brzezinski-obawia-sie-globalnego-przebudzenia-konferencja-cfr/](https://bomega.pl/zbigniew-brzezinski-obawia-sie-globalnego-przebudzenia-konferencja-cfr/)
@@ -7696,6 +7720,12 @@
  - user: None
  - tags: $tags
 
+## British Farmers Consider Moving Production to Morocco Amid Rising Costs
+ - [https://www.moroccoworldnews.com/2022/09/351473/british-farmers-consider-moving-production-to-morocco-amid-rising-costs](https://www.moroccoworldnews.com/2022/09/351473/british-farmers-consider-moving-production-to-morocco-amid-rising-costs)
+ - date published: 2022-08-22 20:55:06+00:00
+ - user: rumpel
+ - tags: ['england', 'agriculture']
+
 ## The downfall of smart TVs: From promises of seamless viewing to ad tool on steroids
  - [https://adguard.com/en/blog/smart-tv-ad-blocking.html](https://adguard.com/en/blog/smart-tv-ad-blocking.html)
  - date published: 2022-08-22 13:50:49.108687+00:00
@@ -7736,7 +7766,7 @@
  - [https://www.youtube.com/watch?v=aWhzHECM9is](https://www.youtube.com/watch?v=aWhzHECM9is)
  - date published: 2022-08-20 18:07:46+00:00
  - user: None
- - tags: ['wef', 'dead internet', 'google']
+ - tags: ['wef', 'world economic forum', 'google', 'dead internet']
 
 ## It wasn't for nothing - Grasping gexps
  - [https://gexp.no/it-wasnt-for-nothing.html](https://gexp.no/it-wasnt-for-nothing.html)
@@ -8043,6 +8073,12 @@
  - date published: 2022-08-03 09:05:02.350491+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Gas prices to push up farmers’ fertiliser costs by nearly £2bn | Guernsey Press
+ - [https://guernseypress.com/news/uk-news/2022/09/02/gas-prices-to-push-up-farmers-fertiliser-costs-by-nearly-2bn/](https://guernseypress.com/news/uk-news/2022/09/02/gas-prices-to-push-up-farmers-fertiliser-costs-by-nearly-2bn/)
+ - date published: 2022-08-02 20:58:08+00:00
+ - user: rumpel
+ - tags: ['agriculture']
 
 ## TikTok Diagnosis Videos Leave Some Teens Thinking They Have Rare Mental Disorders - WSJ
  - [https://www.wsj.com/articles/tiktok-diagnosis-videos-leave-some-teens-thinking-they-have-rare-mental-disorders-11640514602](https://www.wsj.com/articles/tiktok-diagnosis-videos-leave-some-teens-thinking-they-have-rare-mental-disorders-11640514602)
@@ -8354,7 +8390,7 @@
  - [https://www.theguardian.com/news/2022/jul/10/uber-files-leak-reveals-global-lobbying-campaign](https://www.theguardian.com/news/2022/jul/10/uber-files-leak-reveals-global-lobbying-campaign)
  - date published: 2022-07-11 08:38:22.476657+00:00
  - user: Thomas Pain
- - tags: ['bigbrother', 'lobbying', 'law', 'bigtech', 'uber', 'leak']
+ - tags: ['bigtech', 'bigbrother', 'lobbying', 'law', 'uber', 'data leak']
 
 ## Why the world needs a non-profit search engine
  - [https://daoudclarke.net/search%20engines/2022/07/10/non-profit-search-engine](https://daoudclarke.net/search%20engines/2022/07/10/non-profit-search-engine)
@@ -8648,7 +8684,7 @@
  - [https://www.globalresearch.ca/top-10-scariest-things-come-out-wef/5783410](https://www.globalresearch.ca/top-10-scariest-things-come-out-wef/5783410)
  - date published: 2022-06-19 18:08:11+00:00
  - user: rumpel
- - tags: ['wef', 'global reset', 'dystopian']
+ - tags: ['global reset', 'wef', 'world economic forum', 'dystopian']
 
 ## Pop-ups are dead, long live pop-ups: or, the bait-and-switch hidden in today’s cookie announcement – Hi, I'm Heather Burns
  - [https://webdevlaw.uk/2022/06/17/data-reform-bill-cookie-popups/](https://webdevlaw.uk/2022/06/17/data-reform-bill-cookie-popups/)
@@ -8948,13 +8984,13 @@
  - [https://www.globalresearch.ca/top-10-creepiest-most-dystopian-things-pushed-world-economic-forum-wef/5782636](https://www.globalresearch.ca/top-10-creepiest-most-dystopian-things-pushed-world-economic-forum-wef/5782636)
  - date published: 2022-06-01 14:55:51+00:00
  - user: rumpel
- - tags: ['corporatocracy', 'wef', 'klaus schwab', 'dystopia']
+ - tags: ['corporatocracy', 'dystopia', 'klaus schwab', 'wef', 'world economic forum']
 
 ## Tulsi Gabbard On WEF ‘Great Reset’ Agenda: ‘Must Be Condemned By Us All’
  - [https://americanfaith.com/tulsi-gabbard-on-wef-great-reset-agenda-must-be-condemned-by-us-all/](https://americanfaith.com/tulsi-gabbard-on-wef-great-reset-agenda-must-be-condemned-by-us-all/)
  - date published: 2022-05-31 20:57:41+00:00
  - user: rumpel
- - tags: ['wef', 'great reset', 'tulsi']
+ - tags: ['wef', 'world economic forum', 'tulsi', 'great reset']
 
 ## Unknown Sender: The Mystery of the Circleville Letters
  - [https://getpocket.com/explore/item/unknown-sender-the-mystery-of-the-circleville-letters](https://getpocket.com/explore/item/unknown-sender-the-mystery-of-the-circleville-letters)
@@ -8984,7 +9020,7 @@
  - [https://www.libertyplanets.com/articles/wef-issues-threat-to-brazil-after-bolsonaro-refuses-to-sign-who-pandemic-treaty/](https://www.libertyplanets.com/articles/wef-issues-threat-to-brazil-after-bolsonaro-refuses-to-sign-who-pandemic-treaty/)
  - date published: 2022-05-30 18:01:48+00:00
  - user: rumpel
- - tags: ['who', 'pandemic', 'bigbrother', 'corporatocracy', 'covid', 'wef']
+ - tags: ['corporatocracy', 'covid', 'bigbrother', 'wef', 'world economic forum', 'who', 'pandemic']
 
 ## Big Tech talks up privacy while trying to kill privacy laws • The Register
  - [https://www.theregister.com/2022/05/27/big_tech_privacy/](https://www.theregister.com/2022/05/27/big_tech_privacy/)
@@ -9068,7 +9104,7 @@
  - [https://www.marketwatch.com/story/at-davos-are-leaders-private-jets-and-limos-actually-hurting-climate-change-efforts-11653414210](https://www.marketwatch.com/story/at-davos-are-leaders-private-jets-and-limos-actually-hurting-climate-change-efforts-11653414210)
  - date published: 2022-05-24 18:32:12+00:00
  - user: rumpel
- - tags: ['climate change', 'hypocrisy', 'wef', 'climate drama', 'davos']
+ - tags: ['climate change', 'climate drama', 'wef', 'world economic forum', 'davos', 'hypocrisy']
 
 ## Memory safety for SerenityOS – Andreas Kling – I like computers!
  - [https://awesomekling.github.io/Memory-safety-for-SerenityOS/](https://awesomekling.github.io/Memory-safety-for-SerenityOS/)
@@ -9200,7 +9236,7 @@
  - [https://welovetrump.com/2022/05/15/watch-club-of-rome-and-wef-tied-dennis-meadows-on-depopulation-i-hope-it-can-occur-in-a-civil-manner/](https://welovetrump.com/2022/05/15/watch-club-of-rome-and-wef-tied-dennis-meadows-on-depopulation-i-hope-it-can-occur-in-a-civil-manner/)
  - date published: 2022-05-15 13:48:10+00:00
  - user: None
- - tags: ['population', 'wef', 'depopulation']
+ - tags: ['wef', 'world economic forum', 'depopulation', 'population']
 
 ## OFFICIAL TRAILER: "WHAT IS A WOMAN?"
  - [https://www.youtube.com/watch?v=42ivIRd9N8E](https://www.youtube.com/watch?v=42ivIRd9N8E)
@@ -9998,7 +10034,7 @@
  - [https://nymag.com/intelligencer/2022/04/black-lives-matter-6-million-dollar-house.html](https://nymag.com/intelligencer/2022/04/black-lives-matter-6-million-dollar-house.html)
  - date published: 2022-04-04 21:18:38+00:00
  - user: rumpel
- - tags: ['hipocrisy', 'blm', 'black lives matter']
+ - tags: ['black lives matter', 'blm', 'hypocrisy']
 
 ## Conversion therapy ban: Over 80 LGBT groups quit government conference - BBC News
  - [https://www.bbc.co.uk/news/uk-60988210](https://www.bbc.co.uk/news/uk-60988210)
@@ -10022,7 +10058,7 @@
  - [https://reclaimthenet.org/world-government-summit-speculates-on-digital-money/](https://reclaimthenet.org/world-government-summit-speculates-on-digital-money/)
  - date published: 2022-04-03 15:06:29+00:00
  - user: rumpel
- - tags: ['digital money', 'cdbc', 'wef']
+ - tags: ['wef', 'world economic forum', 'digital money', 'cdbc']
 
 ## The story behind creepy-as-hell ‘milk bath’ flyers
  - [https://nypost.com/2017/12/22/the-story-behind-creepy-as-hell-milk-bath-flyers/](https://nypost.com/2017/12/22/the-story-behind-creepy-as-hell-milk-bath-flyers/)
@@ -10791,6 +10827,12 @@
  - date published: 2022-02-10 09:35:06.339705+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## 5 reasons why eating insects can reduce climate change | World Economic Forum
+ - [https://www.weforum.org/agenda/2022/02/how-insects-positively-impact-climate-change/](https://www.weforum.org/agenda/2022/02/how-insects-positively-impact-climate-change/)
+ - date published: 2022-02-09 20:16:46+00:00
+ - user: rumpel
+ - tags: ['wef', 'world economic forum', 'eatingbugs']
 
 ## Nick Brown Smelled Bull
  - [https://narratively.com/nick-brown-smelled-bull/](https://narratively.com/nick-brown-smelled-bull/)

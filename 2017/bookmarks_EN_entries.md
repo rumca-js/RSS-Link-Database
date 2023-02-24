@@ -8,7 +8,7 @@
  - [https://www.quora.com/Is-flat-earth-theory-just-a-myth-created-by-CIA-in-one-of-their-covert-operations](https://www.quora.com/Is-flat-earth-theory-just-a-myth-created-by-CIA-in-one-of-their-covert-operations)
  - date published: 2017-12-21 15:00:51+00:00
  - user: None
- - tags: ['funny', 'conspiracytheory', 'flatearth', 'cia', 'deep state']
+ - tags: ['cia', 'deep state', 'flatearth', 'conspiracytheory']
 
 ## Avoid getters and setters whenever possible
  - [https://dev.to/scottshipp/avoid-getters-and-setters-whenever-possible-c8m](https://dev.to/scottshipp/avoid-getters-and-setters-whenever-possible-c8m)
@@ -38,7 +38,7 @@
  - [https://themillenniumreport.com/2017/11/fake-flat-earth-conspiracy-finally-outed-as-cia-psyop/](https://themillenniumreport.com/2017/11/fake-flat-earth-conspiracy-finally-outed-as-cia-psyop/)
  - date published: 2017-11-06 14:57:08+00:00
  - user: None
- - tags: ['psyop', 'conspiracytheory', 'flatearth', 'funny', 'cia', 'deep state']
+ - tags: ['psyop', 'conspiracytheory', 'deep state', 'flatearth', 'cia']
 
 ## More Human than Human - A Blade Runner Analysis
  - [https://www.youtube.com/watch?v=gcQk3qM3Ok0](https://www.youtube.com/watch?v=gcQk3qM3Ok0)
@@ -320,7 +320,7 @@
  - [https://www.bitdefender.com/blog/hotforsecurity/selfie-app-meitu-allegedly-leaks-data-to-chinese-government](https://www.bitdefender.com/blog/hotforsecurity/selfie-app-meitu-allegedly-leaks-data-to-chinese-government)
  - date published: 2017-01-25 12:04:50+00:00
  - user: None
- - tags: ['bigbrother', 'leak', 'china', 'surveillance', 'meitu']
+ - tags: ['bigbrother', 'china', 'surveillance', 'meitu', 'data leak']
 
 ## Fact Sheet: Activity at the Wuhan Institute of Virology
  - [https://2017-2021.state.gov/fact-sheet-activity-at-the-wuhan-institute-of-virology/index.html](https://2017-2021.state.gov/fact-sheet-activity-at-the-wuhan-institute-of-virology/index.html)

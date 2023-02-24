@@ -160,6 +160,18 @@
  - user: rumpel
  - tags: ['hacker', 'programming', 'bufferoverflow']
 
+## Ashley Madison data breach
+ - [https://en.wikipedia.org/wiki/Ashley_Madison_data_breach](https://en.wikipedia.org/wiki/Ashley_Madison_data_breach)
+ - date published: 2016-02-28 22:12:11+00:00
+ - user: rumpel
+ - tags: ['privacy', 'data leak']
+
+## Life after the Ashley Madison affair | Ashley Madison | The Guardian
+ - [https://www.theguardian.com/technology/2016/feb/28/what-happened-after-ashley-madison-was-hacked](https://www.theguardian.com/technology/2016/feb/28/what-happened-after-ashley-madison-was-hacked)
+ - date published: 2016-02-28 22:11:09+00:00
+ - user: rumpel
+ - tags: ['privacy', 'data leak']
+
 ## US surveillance of Merkel wider than thought: WikiLeaks
  - [https://news.yahoo.com/us-surveillance-merkel-wider-thought-wikileaks-142951516.html](https://news.yahoo.com/us-surveillance-merkel-wider-thought-wikileaks-142951516.html)
  - date published: 2016-02-23 11:48:12+00:00

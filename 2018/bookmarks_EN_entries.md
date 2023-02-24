@@ -50,7 +50,7 @@
  - [https://www.youtube.com/watch?v=OlqU_JMTzd4](https://www.youtube.com/watch?v=OlqU_JMTzd4)
  - date published: 2018-10-30 20:27:37+00:00
  - user: rumpel
- - tags: ['sjw', 'feminism', 'rogan', 'lgbt', 'woke']
+ - tags: ['lgbt', 'rogan', 'sjw', 'woke', 'feminism', 'grievance']
 
 ## 'City of surveillance': privacy expert quits Toronto's smart-city project
  - [https://www.theguardian.com/world/2018/oct/23/toronto-smart-city-surveillance-ann-cavoukian-resigns-privacy](https://www.theguardian.com/world/2018/oct/23/toronto-smart-city-surveillance-ann-cavoukian-resigns-privacy)

@@ -1,4 +1,4 @@
-## DuPoint: big companies, pollution
+## DuPoint
  - [https://en.m.wikipedia.org/wiki/DuPont](https://en.m.wikipedia.org/wiki/DuPont)
  - date published: 1999-12-28 18:15:08+00:00
  - user: rumpel

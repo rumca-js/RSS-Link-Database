@@ -38,7 +38,7 @@
  - [https://www.theguardian.com/world/2010/jul/25/afghanistan-war-logs-military-leaks](https://www.theguardian.com/world/2010/jul/25/afghanistan-war-logs-military-leaks)
  - date published: 2010-07-25 21:33:58+00:00
  - user: rumpel
- - tags: ['war', 'afganistan', 'bigbrother', 'leak', 'america']
+ - tags: ['bigbrother', 'afganistan', 'america', 'war', 'data leak']
 
 ## Google mistakenly collected WiFi data on unsecured networks - May. 14, 2010
  - [https://money.cnn.com/2010/05/14/technology/Google_mistaken_wifi_collection/index.htm](https://money.cnn.com/2010/05/14/technology/Google_mistaken_wifi_collection/index.htm)
