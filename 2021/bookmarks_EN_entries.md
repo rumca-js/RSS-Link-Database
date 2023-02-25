@@ -803,10 +803,10 @@
  - tags: ['vaccine', 'covid']
 
 ## Central Bank Digital Currencies Explained
- - [https://m.youtube.com/watch?v=0u8eZcPnWeU](https://m.youtube.com/watch?v=0u8eZcPnWeU)
+ - [https://www.youtube.com/watch?v=0u8eZcPnWeU](https://www.youtube.com/watch?v=0u8eZcPnWeU)
  - date published: 2021-11-01 10:40:04+00:00
  - user: rumpel
- - tags: ['privacy', 'propaganda', 'surveillance', 'digital money', 'cbdc']
+ - tags: $tags
 
 ## Wacom drawing tablets track the name of every application that you open | Robert Heaton
  - [https://robertheaton.com/2020/02/05/wacom-drawing-tablets-track-name-of-every-application-you-open/](https://robertheaton.com/2020/02/05/wacom-drawing-tablets-track-name-of-every-application-you-open/)
@@ -3082,6 +3082,12 @@
  - user: rumpel
  - tags: ['vaccine', 'covid']
 
+## Eating Crickets: Benefits and Downsides
+ - [https://www.healthline.com/nutrition/eating-crickets#are-there-risks](https://www.healthline.com/nutrition/eating-crickets#are-there-risks)
+ - date published: 2021-05-06 08:00:43+00:00
+ - user: rumpel
+ - tags: ['eatingbugs']
+
 ## Modern "Freedom" Means Being a Slave to Impulses
  - [https://lukesmith.xyz/articles/modern-freedom-means-being-a-slave-to-impulses/](https://lukesmith.xyz/articles/modern-freedom-means-being-a-slave-to-impulses/)
  - date published: 2021-05-06 00:00:00+00:00
@@ -3281,10 +3287,10 @@
  - tags: ['gender', 'rand paul', 'rachel levine']
 
 ## Is Google Search Getting Less Accurate?
- - [https://m.youtube.com/watch?v=8xl2mWK9LsE](https://m.youtube.com/watch?v=8xl2mWK9LsE)
+ - [https://www.youtube.com/watch?v=8xl2mWK9LsE](https://www.youtube.com/watch?v=8xl2mWK9LsE)
  - date published: 2021-02-21 13:36:49+00:00
  - user: rumpel
- - tags: ['dead internet', 'algorithms', 'google search']
+ - tags: $tags
 
 ## Yanis Varoufakis: Capitalism has become 'techno-feudalism' | UpFront
  - [https://www.youtube.com/watch?v=_jW0xUmUaUc](https://www.youtube.com/watch?v=_jW0xUmUaUc)

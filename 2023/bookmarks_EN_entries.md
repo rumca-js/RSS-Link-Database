@@ -1,3 +1,9 @@
+## North Korean hackers stole a record $1.7B of crypto last year
+ - [https://www.economist.com/asia/2023/02/22/north-korean-hackers-stole-a-record-17bn-of-crypto-last-year](https://www.economist.com/asia/2023/02/22/north-korean-hackers-stole-a-record-17bn-of-crypto-last-year)
+ - date published: 2023-02-24 07:08:21+00:00
+ - user: rumpel
+ - tags: ['crypto', 'hackers']
+
 ## Tell HN: Do not store any funds in PayPal or use them for anything critical
  - [https://news.ycombinator.com/item?id=34913596](https://news.ycombinator.com/item?id=34913596)
  - date published: 2023-02-23 17:29:49+00:00
@@ -21,6 +27,12 @@
  - date published: 2023-02-22 12:05:44+00:00
  - user: rumpel
  - tags: ['ubuntu', 'canonical']
+
+## The 68 Biggest Data Breaches (Updated for November 2022) | UpGuard
+ - [https://www.upguard.com/blog/biggest-data-breaches](https://www.upguard.com/blog/biggest-data-breaches)
+ - date published: 2023-02-22 08:44:22+00:00
+ - user: rumpel
+ - tags: ['data leak']
 
 ## Supreme Court Declines to Hear Wikimedia’s Challenge to NSA Mass Surveillance
  - [https://diff.wikimedia.org/2023/02/21/u-s-supreme-court-declines-to-hear-wikimedia-foundations-challenge-to-nsa-mass-surveillance/](https://diff.wikimedia.org/2023/02/21/u-s-supreme-court-declines-to-hear-wikimedia-foundations-challenge-to-nsa-mass-surveillance/)
@@ -221,10 +233,10 @@
  - tags: ['raspberry']
 
 ## Matt Taibbi Surprised by FBI & Twitter's Collusion; Russiagate Info in Twitter Files
- - [https://m.youtube.com/watch?v=eWQGYpSoiYU](https://m.youtube.com/watch?v=eWQGYpSoiYU)
+ - [https://www.youtube.com/watch?v=eWQGYpSoiYU](https://www.youtube.com/watch?v=eWQGYpSoiYU)
  - date published: 2023-02-13 15:56:28+00:00
  - user: rumpel
- - tags: ['bigtech', 'tweeter files', 'bigbrother', 'censorship', 'moderation']
+ - tags: $tags
 
 ## The FBI’s most controversial surveillance tool is under threat
  - [https://arstechnica.com/?p=1917024](https://arstechnica.com/?p=1917024)

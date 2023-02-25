@@ -113,10 +113,10 @@
  - tags: ['crisis', 'china']
 
 ## Smutny film o Armenii. Co doprowadziło ją do upadku?
- - [https://m.youtube.com/watch?v=SljlG-2d7G0](https://m.youtube.com/watch?v=SljlG-2d7G0)
+ - [https://www.youtube.com/watch?v=SljlG-2d7G0](https://www.youtube.com/watch?v=SljlG-2d7G0)
  - date published: 2023-01-21 11:41:09+00:00
  - user: rumpel
- - tags: ['crisis', 'armenia']
+ - tags: $tags
 
 ## Skończył się boom na streaming. Konkurenci Netflixa nadal palą ogromne ilości gotówki
  - [https://forsal.pl/biznes/media/artykuly/8634619,koniec-boomu-na-rynku-streamingowym.html](https://forsal.pl/biznes/media/artykuly/8634619,koniec-boomu-na-rynku-streamingowym.html)

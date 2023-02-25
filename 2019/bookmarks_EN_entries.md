@@ -406,6 +406,12 @@
  - user: rumpel
  - tags: ['billionairs', 'epstein', 'elites']
 
+## A parasitological evaluation of edible insects and their role in the transmission of parasitic diseases to humans and animals - PMC
+ - [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6613697/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6613697/)
+ - date published: 2019-07-08 08:25:15+00:00
+ - user: rumpel
+ - tags: ['eatingbugs']
+
 ## CBC Accused of Sexualizing Children After Promoting ‘Drag Kids’ Documentary – Summit News
  - [https://summit.news/2019/07/05/cbc-accused-of-sexualizing-children-after-promoting-drag-kids-documentary/](https://summit.news/2019/07/05/cbc-accused-of-sexualizing-children-after-promoting-drag-kids-documentary/)
  - date published: 2019-07-05 08:18:45+00:00
@@ -437,10 +443,10 @@
  - tags: ['algorithms', 'google search']
 
 ## Why should you read “The Master and Margarita”? - Alex Gendler
- - [https://m.youtube.com/watch?v=miNBicrLiXo](https://m.youtube.com/watch?v=miNBicrLiXo)
+ - [https://www.youtube.com/watch?v=miNBicrLiXo](https://www.youtube.com/watch?v=miNBicrLiXo)
  - date published: 2019-05-30 11:59:31+00:00
  - user: rumpel
- - tags: ['books', 'master and margarita']
+ - tags: $tags
 
 ## The culture war at the heart of open source
  - [https://words.steveklabnik.com/the-culture-war-at-the-heart-of-open-source](https://words.steveklabnik.com/the-culture-war-at-the-heart-of-open-source)

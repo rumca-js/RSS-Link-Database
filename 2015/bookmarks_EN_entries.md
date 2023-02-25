@@ -29,10 +29,10 @@
  - tags: ['internet', 'webdev']
 
 ## Why is Ukraine the West's Fault? Featuring John Mearsheimer
- - [https://www.youtube.com/watch?v=JrMiSQAGOS4&t=2628s](https://www.youtube.com/watch?v=JrMiSQAGOS4&t=2628s)
+ - [https://www.youtube.com/watch?v=JrMiSQAGOS4](https://www.youtube.com/watch?v=JrMiSQAGOS4)
  - date published: 2015-09-25 20:42:33+00:00
  - user: rumpel
- - tags: ['ukraine', 'all time', 'lecture', 'war']
+ - tags: $tags
 
 ## Secret 'dark net' operation saves scores of children from abuse; ringleader Shannon McCoole behind bars after police take over child porn site
  - [https://www.abc.net.au/news/2015-08-26/secret-anti-paedophile-operation-saves-children-from-abuse/6720304](https://www.abc.net.au/news/2015-08-26/secret-anti-paedophile-operation-saves-children-from-abuse/6720304)
