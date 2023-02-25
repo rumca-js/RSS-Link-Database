@@ -1,3 +1,9 @@
+## Trudeau Says Google Blocking Canadians From Accessing News Content ‘A Terrible Mistake’
+ - [https://www.theepochtimes.com/trudeau-says-google-blocking-canadians-from-accessing-news-content-a-terrible-mistake_5082258.html](https://www.theepochtimes.com/trudeau-says-google-blocking-canadians-from-accessing-news-content-a-terrible-mistake_5082258.html)
+ - date published: 2023-02-25 04:54:20+00:00
+ - user: rumpel
+ - tags: ['google', 'news', 'canada', 'bigtech']
+
 ## North Korean hackers stole a record $1.7B of crypto last year
  - [https://www.economist.com/asia/2023/02/22/north-korean-hackers-stole-a-record-17bn-of-crypto-last-year](https://www.economist.com/asia/2023/02/22/north-korean-hackers-stole-a-record-17bn-of-crypto-last-year)
  - date published: 2023-02-24 07:08:21+00:00
