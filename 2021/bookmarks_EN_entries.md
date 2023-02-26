@@ -226,6 +226,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## THE METAVERSE: A Guide to the Future of Capitalism
+ - [https://www.youtube.com/watch?v=TM00M-dRMBk](https://www.youtube.com/watch?v=TM00M-dRMBk)
+ - date published: 2021-12-19 21:36:45+00:00
+ - user: rumpel
+ - tags: ['capitalism', 'bigtech']
+
 ## Lithuania evacuates its embassy in China | The Economist
  - [https://www.economist.com/china/lithuania-evacuates-its-embassy-in-china/21806843](https://www.economist.com/china/lithuania-evacuates-its-embassy-in-china/21806843)
  - date published: 2021-12-19 17:11:48.690063+00:00
@@ -663,6 +669,12 @@
  - date published: 2021-11-12 23:15:07.741342+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## AstraZeneca to take profits from Covid vaccine - BBC News
+ - [https://www.bbc.co.uk/news/business-59256223](https://www.bbc.co.uk/news/business-59256223)
+ - date published: 2021-11-12 21:57:43+00:00
+ - user: rumpel
+ - tags: ['profits', 'astrazeneca', 'vaccine', 'covid']
 
 ## Breaking Printf · Phil Pearl's Blog
  - [https://philpearl.github.io/post/anathema/](https://philpearl.github.io/post/anathema/)
@@ -1209,6 +1221,12 @@
  - date published: 2021-10-10 12:58:34.164828+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Moderna, Racing for Profits, Keeps Covid Vaccine Out of Reach of Poor - The New York Times
+ - [https://www.nytimes.com/2021/10/09/business/moderna-covid-vaccine.html](https://www.nytimes.com/2021/10/09/business/moderna-covid-vaccine.html)
+ - date published: 2021-10-09 21:54:34+00:00
+ - user: rumpel
+ - tags: ['moderna', 'hipocrisis', 'covid']
 
 ## Apple’s fortress of secrecy is crumbling from the inside - The Verge
  - [https://www.theverge.com/22700898/apple-company-culture-change-secrecy-employee-unrest](https://www.theverge.com/22700898/apple-company-culture-change-secrecy-employee-unrest)
@@ -2817,6 +2835,12 @@
  - date published: 2021-07-13 22:14:18.423350+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Google Fined $593 Million In Dispute Over Paying French Publishers For News : NPR
+ - [https://www.npr.org/2021/07/13/1015596060/france-fines-google-592m-in-a-dispute-over-paying-news-publishers-for-content](https://www.npr.org/2021/07/13/1015596060/france-fines-google-592m-in-a-dispute-over-paying-news-publishers-for-content)
+ - date published: 2021-07-13 11:36:27+00:00
+ - user: rumpel
+ - tags: ['google', 'technofeudalism', 'bigtech']
 
 ## Why we need to give insects the role they deserve in our food systems | World Economic Forum
  - [https://www.weforum.org/agenda/2021/07/why-we-need-to-give-insects-the-role-they-deserve-in-our-food-systems/](https://www.weforum.org/agenda/2021/07/why-we-need-to-give-insects-the-role-they-deserve-in-our-food-systems/)

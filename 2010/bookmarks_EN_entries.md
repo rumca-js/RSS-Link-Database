@@ -46,6 +46,12 @@
  - user: rumpel
  - tags: ['privacy', 'google', 'streets', 'surveillance']
 
+## Facebook does not erase user-deleted content | ZDNET
+ - [https://www.zdnet.com/article/facebook-does-not-erase-user-deleted-content/](https://www.zdnet.com/article/facebook-does-not-erase-user-deleted-content/)
+ - date published: 2010-04-28 11:40:35+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'facebook', 'dark design', 'tracking', 'technofeudalism', 'privacy', 'bigtech']
+
 ## Singletons Considered Harmful
  - [https://kentonshouse.com/singletons](https://kentonshouse.com/singletons)
  - date published: 2010-01-05 10:07:14+00:00

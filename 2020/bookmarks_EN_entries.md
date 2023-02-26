@@ -220,6 +220,12 @@
  - user: None
  - tags: ['covid', 'lockdown']
 
+## AstraZeneca must prove it won't profit from COVID-19 vaccine - MSF | Reuters
+ - [https://www.reuters.com/article/uk-health-coronavirus-astrazeneca-contra-idUKKBN2841FA](https://www.reuters.com/article/uk-health-coronavirus-astrazeneca-contra-idUKKBN2841FA)
+ - date published: 2020-11-24 21:56:21+00:00
+ - user: rumpel
+ - tags: ['astrazeneca', 'vaccine', 'covid']
+
 ## Google’s Cash Makes Rivals Less Eager for Antitrust Crackdown
  - [https://www.bloomberg.com/news/articles/2020-11-24/deals-with-apple-aapl-mozilla-show-how-google-googl-discourages-competition](https://www.bloomberg.com/news/articles/2020-11-24/deals-with-apple-aapl-mozilla-show-how-google-googl-discourages-competition)
  - date published: 2020-11-24 19:57:32+00:00
@@ -298,11 +304,23 @@
  - user: rumpel
  - tags: ['corporatocracy', 'epstein', 'hypocrisy', 'elites']
 
+## Amazon third-quarter earnings soar as pandemic sales triple profits | Amazon | The Guardian
+ - [https://www.theguardian.com/technology/2020/oct/29/amazon-profits-latest-earnings-report-third-quarter-pandemic](https://www.theguardian.com/technology/2020/oct/29/amazon-profits-latest-earnings-report-third-quarter-pandemic)
+ - date published: 2020-10-29 21:51:16+00:00
+ - user: rumpel
+ - tags: ['pandemic', 'amazon']
+
 ## The Heinous Background of WHO Director-General Tedros Adhanom Ghebreyesus
  - [https://www.rodefshalom613.org/2020/10/the-heinous-background-of-who-director-general-tedros-adhanom-ghebreyesus/](https://www.rodefshalom613.org/2020/10/the-heinous-background-of-who-director-general-tedros-adhanom-ghebreyesus/)
  - date published: 2020-10-23 18:41:12+00:00
  - user: rumpel
  - tags: ['tedros adhanom ghebreyesus', 'who']
+
+## The DOJ Just Slammed Google With a Landmark Antitrust Case | Entrepreneur
+ - [https://www.entrepreneur.com/business-news/the-doj-just-slammed-google-with-a-landmark-antitrust-case/358109](https://www.entrepreneur.com/business-news/the-doj-just-slammed-google-with-a-landmark-antitrust-case/358109)
+ - date published: 2020-10-20 11:15:42+00:00
+ - user: rumpel
+ - tags: ['google', 'antitrust', 'bigtech']
 
 ## Facebook to ban ads discouraging vaccination
  - [https://www.theguardian.com/technology/2020/oct/13/facebook-vaccine-ads-ban](https://www.theguardian.com/technology/2020/oct/13/facebook-vaccine-ads-ban)
@@ -514,6 +532,18 @@
  - user: rumpel
  - tags: ['programming', 'clean code']
 
+## BioNTech wins $445 million German grant for COVID-19 vaccine | Reuters
+ - [https://www.reuters.com/article/health-coronavirus-germany-vaccine-idUSKBN2661KP](https://www.reuters.com/article/health-coronavirus-germany-vaccine-idUSKBN2661KP)
+ - date published: 2020-08-15 21:59:40+00:00
+ - user: rumpel
+ - tags: ['pfizer', 'vaccine', 'biontech', 'covid profit']
+
+## Why is no one safe until everyone is safe during a pandemic? | Gavi, the Vaccine Alliance
+ - [https://www.gavi.org/vaccineswork/why-no-one-safe-until-everyone-safe-during-pandemic](https://www.gavi.org/vaccineswork/why-no-one-safe-until-everyone-safe-during-pandemic)
+ - date published: 2020-08-14 22:07:07+00:00
+ - user: rumpel
+ - tags: ['vaccine', 'pandeminc', 'covid']
+
 ## NSA and FBI warn that new Linux malware threatens national security
  - [https://arstechnica.com/information-technology/2020/08/nsa-and-fbi-warn-that-new-linux-malware-threatens-national-security/](https://arstechnica.com/information-technology/2020/08/nsa-and-fbi-warn-that-new-linux-malware-threatens-national-security/)
  - date published: 2020-08-13 06:48:38+00:00
@@ -591,6 +621,12 @@
  - date published: 2020-07-27 09:07:25+00:00
  - user: rumpel
  - tags: ['woke', 'netflix']
+
+## Moderna gets further $472 million U.S. award for coronavirus vaccine development | Reuters
+ - [https://www.reuters.com/article/us-health-coronavirus-moderna-funding-idUSKCN24R0IN](https://www.reuters.com/article/us-health-coronavirus-moderna-funding-idUSKCN24R0IN)
+ - date published: 2020-07-26 22:02:16+00:00
+ - user: rumpel
+ - tags: ['moderna', 'vaccine', 'covid profit']
 
 ## Legal Docs: St. Louis Prosecutor Tampered With Evidence In McCloskey Gun Case
  - [https://thefederalist.com/2020/07/23/legal-docs-st-louis-prosecutor-tampered-with-evidence-in-mccloskey-gun-case](https://thefederalist.com/2020/07/23/legal-docs-st-louis-prosecutor-tampered-with-evidence-in-mccloskey-gun-case)

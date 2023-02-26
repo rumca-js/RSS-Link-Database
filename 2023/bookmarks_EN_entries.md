@@ -2,7 +2,25 @@
  - [https://www.theepochtimes.com/trudeau-says-google-blocking-canadians-from-accessing-news-content-a-terrible-mistake_5082258.html](https://www.theepochtimes.com/trudeau-says-google-blocking-canadians-from-accessing-news-content-a-terrible-mistake_5082258.html)
  - date published: 2023-02-25 04:54:20+00:00
  - user: rumpel
- - tags: ['google', 'news', 'canada', 'bigtech']
+ - tags: ['google', 'canada', 'technofeudalism', 'news', 'bigtech']
+
+## Covid-19: Primary vaccination for general population no longer recommended by the French health authority
+ - [https://www.lemonde.fr/en/health/article/2023/02/25/covid-19-primary-vaccination-for-general-population-no-longer-recommended-by-the-french-health-authority_6017208_14.html](https://www.lemonde.fr/en/health/article/2023/02/25/covid-19-primary-vaccination-for-general-population-no-longer-recommended-by-the-french-health-authority_6017208_14.html)
+ - date published: 2023-02-25 02:20:59+00:00
+ - user: rumpel
+ - tags: ['vaccine', 'covid']
+
+## US says Google routinely destroyed evidence and lied about use of auto-delete
+ - [https://arstechnica.com/?p=1919839](https://arstechnica.com/?p=1919839)
+ - date published: 2023-02-24 17:28:58+00:00
+ - user: rumpel
+ - tags: ['google', 'antitrust', 'privacy', 'bigtech']
+
+## Google blocks news content for some Canadians in response to proposed rules
+ - [https://www.theverge.com/2023/2/24/23613187/google-canada-news-block-online-act-bill-c-18](https://www.theverge.com/2023/2/24/23613187/google-canada-news-block-online-act-bill-c-18)
+ - date published: 2023-02-24 09:55:31+00:00
+ - user: rumpel
+ - tags: ['google', 'canada', 'technofeudalism', 'news', 'bigtech']
 
 ## North Korean hackers stole a record $1.7B of crypto last year
  - [https://www.economist.com/asia/2023/02/22/north-korean-hackers-stole-a-record-17bn-of-crypto-last-year](https://www.economist.com/asia/2023/02/22/north-korean-hackers-stole-a-record-17bn-of-crypto-last-year)
@@ -28,6 +46,18 @@
  - user: rumpel
  - tags: ['james lindsay', 'newspeak', 'woke', 'grievance']
 
+## Mozilla Foundation - Mozilla Study: Data Privacy Labels for Most Top Apps in Google Play Store are False or Misleading
+ - [https://foundation.mozilla.org/en/blog/mozilla-study-data-privacy-labels-for-most-top-apps-in-google-play-store-are-false-or-misleading/](https://foundation.mozilla.org/en/blog/mozilla-study-data-privacy-labels-for-most-top-apps-in-google-play-store-are-false-or-misleading/)
+ - date published: 2023-02-23 11:25:13+00:00
+ - user: rumpel
+ - tags: ['play store', 'google', 'antitrust', 'android', 'privacy', 'bigtech']
+
+## DOJ seeks court sanctions against Google over 'intentional destruction' of chat logs | CNN Business
+ - [https://edition.cnn.com/2023/02/23/tech/doj-sanctions-google-intentional-destruction-chat-logs/index.html](https://edition.cnn.com/2023/02/23/tech/doj-sanctions-google-intentional-destruction-chat-logs/index.html)
+ - date published: 2023-02-23 11:13:47+00:00
+ - user: rumpel
+ - tags: ['google', 'antitrust', 'bigtech']
+
 ## Ubuntu Flavors Agree to Stop Using Flatpak
  - [https://www.omgubuntu.co.uk/2023/02/ubuntu-flavors-no-flatpak](https://www.omgubuntu.co.uk/2023/02/ubuntu-flavors-no-flatpak)
  - date published: 2023-02-22 12:05:44+00:00
@@ -44,7 +74,7 @@
  - [https://diff.wikimedia.org/2023/02/21/u-s-supreme-court-declines-to-hear-wikimedia-foundations-challenge-to-nsa-mass-surveillance/](https://diff.wikimedia.org/2023/02/21/u-s-supreme-court-declines-to-hear-wikimedia-foundations-challenge-to-nsa-mass-surveillance/)
  - date published: 2023-02-21 18:15:27+00:00
  - user: rumpel
- - tags: ['surveillance']
+ - tags: ['privacy', 'surveillance']
 
 ## ChatGPT has already decreased my income security, and likely yours too
  - [https://www.scottsantens.com/chatgpt-has-already-decreased-my-income-security/](https://www.scottsantens.com/chatgpt-has-already-decreased-my-income-security/)

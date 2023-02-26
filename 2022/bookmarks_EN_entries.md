@@ -9658,6 +9658,12 @@
  - user: rumpel
  - tags: ['processor', 'tsmc', 'hardware']
 
+## Gnome - Wenceslas (Official Video)
+ - [https://www.youtube.com/watch?v=LzG-qji05Lc](https://www.youtube.com/watch?v=LzG-qji05Lc)
+ - date published: 2022-04-21 16:48:34+00:00
+ - user: rumpel
+ - tags: ['music', 'funny']
+
 ## ‘Jack Dorsey’s First Tweet’ NFT Went on Sale for $48M. It Ended With a Top Bid of Just $280
  - [https://www.coindesk.com/business/2022/04/13/jack-dorseys-first-tweet-nft-went-on-sale-for-48m-it-ended-with-a-top-bid-of-just-280/](https://www.coindesk.com/business/2022/04/13/jack-dorseys-first-tweet-nft-went-on-sale-for-48m-it-ended-with-a-top-bid-of-just-280/)
  - date published: 2022-04-21 06:45:19.870657+00:00
@@ -10408,6 +10414,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## How Big Pharma is Extending the Pandemic
+ - [https://www.youtube.com/watch?v=fHxV_YURY28](https://www.youtube.com/watch?v=fHxV_YURY28)
+ - date published: 2022-03-11 22:00:32+00:00
+ - user: rumpel
+ - tags: ['bigpharma', 'pandemic', 'covid profit']
+
 ## Azure moves ahead of AWS in cloud adoption – report • The Register
  - [https://www.theregister.com/2022/03/09/state_of_cloud_survey/](https://www.theregister.com/2022/03/09/state_of_cloud_survey/)
  - date published: 2022-03-11 15:11:33.626072+00:00
@@ -11110,6 +11122,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Google threatens to withdraw search engine from Australia - BBC News
+ - [https://www.bbc.com/news/world-australia-55760673](https://www.bbc.com/news/world-australia-55760673)
+ - date published: 2022-01-22 11:33:22+00:00
+ - user: rumpel
+ - tags: ['google', 'technofeudalism', 'bigtech']
+
 ## webassembly: the new kubernetes? -- wingolog
  - [https://wingolog.org/archives/2021/12/13/webassembly-the-new-kubernetes](https://wingolog.org/archives/2021/12/13/webassembly-the-new-kubernetes)
  - date published: 2022-01-22 09:39:52+00:00
@@ -11403,6 +11421,12 @@
  - date published: 2022-01-08 11:19:29.295555+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Pepe the frog - music clip (Marvel83' - Golden Dawn)
+ - [https://www.youtube.com/watch?v=vJMP7RBsoms](https://www.youtube.com/watch?v=vJMP7RBsoms)
+ - date published: 2022-01-07 16:47:24+00:00
+ - user: rumpel
+ - tags: ['music', 'funny']
 
 ## Pepe the frog - music clip (Marvel83' - Golden Dawn)
  - [https://youtu.be/vJMP7RBsoms](https://youtu.be/vJMP7RBsoms)

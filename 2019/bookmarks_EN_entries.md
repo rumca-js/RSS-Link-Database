@@ -418,6 +418,12 @@
  - user: rumpel
  - tags: ['sexualization', 'children']
 
+## Amazon, Google and Facebook warrant antitrust scrutiny for many reasons – not just because they're large
+ - [https://theconversation.com/amazon-google-and-facebook-warrant-antitrust-scrutiny-for-many-reasons-not-just-because-theyre-large-118370](https://theconversation.com/amazon-google-and-facebook-warrant-antitrust-scrutiny-for-many-reasons-not-just-because-theyre-large-118370)
+ - date published: 2019-06-24 21:34:08+00:00
+ - user: rumpel
+ - tags: ['google', 'facebook', 'amazon', 'antitrust']
+
 ## Sexist commercials now banned in UK
  - [https://www.cnn.com/2019/06/14/media/uk-gender-stereotypes-advertising-ban-scli-gbr-intl/index.html](https://www.cnn.com/2019/06/14/media/uk-gender-stereotypes-advertising-ban-scli-gbr-intl/index.html)
  - date published: 2019-06-14 11:32:55+00:00
