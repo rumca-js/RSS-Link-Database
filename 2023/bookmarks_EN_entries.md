@@ -1,3 +1,21 @@
+## Covid Likely Originated From Lab Leak, Energy Department Reportedly Finds—But Biden Aide Says There’s No ‘Definitive Answer’
+ - [https://www.forbes.com/sites/marisadellatto/2023/02/26/covid-likely-originated-from-lab-leak-energy-department-reportedly-finds-but-biden-aide-says-theres-no-definitive-answer/](https://www.forbes.com/sites/marisadellatto/2023/02/26/covid-likely-originated-from-lab-leak-energy-department-reportedly-finds-but-biden-aide-says-theres-no-definitive-answer/)
+ - date published: 2023-02-26 16:52:23+00:00
+ - user: rumpel
+ - tags: ['lableak', 'covid']
+
+## James Bond books edited to remove racist references
+ - [https://www.telegraph.co.uk/news/2023/02/25/james-bond-books-edited-remove-racist-references/](https://www.telegraph.co.uk/news/2023/02/25/james-bond-books-edited-remove-racist-references/)
+ - date published: 2023-02-26 15:42:22+00:00
+ - user: rumpel
+ - tags: ['books', 'censorship']
+
+## Signal says it'll shut down in UK if Online Safety Bill approved
+ - [https://www.theregister.com/2023/02/25/signal_uk_online_safety_bill/](https://www.theregister.com/2023/02/25/signal_uk_online_safety_bill/)
+ - date published: 2023-02-25 12:24:24+00:00
+ - user: rumpel
+ - tags: ['england', 'surveillance', 'signal', 'privacy']
+
 ## Trudeau Says Google Blocking Canadians From Accessing News Content ‘A Terrible Mistake’
  - [https://www.theepochtimes.com/trudeau-says-google-blocking-canadians-from-accessing-news-content-a-terrible-mistake_5082258.html](https://www.theepochtimes.com/trudeau-says-google-blocking-canadians-from-accessing-news-content-a-terrible-mistake_5082258.html)
  - date published: 2023-02-25 04:54:20+00:00

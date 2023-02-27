@@ -8,7 +8,7 @@
  - [https://www.rmf24.pl/raporty/raport-koronawirus-z-chin/najnowsze-fakty/news-prof-horban-zaszczepieni-na-covid-19-nie-beda-zarazali-bo-ni,nId,4953501#crp_state=1](https://www.rmf24.pl/raporty/raport-koronawirus-z-chin/najnowsze-fakty/news-prof-horban-zaszczepieni-na-covid-19-nie-beda-zarazali-bo-ni,nId,4953501#crp_state=1)
  - date published: 2020-12-28 10:51:20+00:00
  - user: rumpel
- - tags: ['transmission', 'covid']
+ - tags: ['propaganda', 'transmission', 'covid', 'covid lie']
 
 ## Netflix usuwa więcej niż kiedykolwiek. Zniknie 129 tytułów, w tym „Harry Potter” i „Władca Pierścien
  - [https://spidersweb.pl/rozrywka/2020/12/25/netflix-grudzien-2020-harry-potter-przyjaciele-usuwane-31-grudnia](https://spidersweb.pl/rozrywka/2020/12/25/netflix-grudzien-2020-harry-potter-przyjaciele-usuwane-31-grudnia)
@@ -135,6 +135,12 @@
  - date published: 2020-06-26 07:32:08+00:00
  - user: None
  - tags: ['government', 'kentler', 'paedophilia', 'germany', 'bigbrother']
+
+## Zwykły bohater #2 Nauczyciel
+ - [https://www.youtube.com/watch?v=gCObZjzFv-8](https://www.youtube.com/watch?v=gCObZjzFv-8)
+ - date published: 2020-06-24 10:39:57+00:00
+ - user: rumpel
+ - tags: ['funny']
 
 ## Przez 30 lat Berlin udostępniał dzieci pedofilom. Nazywano to "eksperymentem Kentlera" [RAPORT]
  - [https://wiadomosci.dziennik.pl/swiat/artykuly/7746506,berlin-dzieci-bezdomne-pedofile-eksperyment-helmut-kentler-pornografia-dziecieca.html](https://wiadomosci.dziennik.pl/swiat/artykuly/7746506,berlin-dzieci-bezdomne-pedofile-eksperyment-helmut-kentler-pornografia-dziecieca.html)

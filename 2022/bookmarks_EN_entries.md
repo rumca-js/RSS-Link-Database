@@ -8128,6 +8128,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Why Elon Musk Can’t Save Free Speech
+ - [https://www.youtube.com/watch?v=79pS5OXKTkU](https://www.youtube.com/watch?v=79pS5OXKTkU)
+ - date published: 2022-07-29 18:30:12+00:00
+ - user: rumpel
+ - tags: ['moderation', 'censorship', 'free speech']
+
 ## Sri Lanka Inflation Rises to 60.8% as Dollar Crunch Persists
  - [https://www.bloomberg.com/news/articles/2022-07-29/sri-lanka-inflation-climbs-to-60-8-as-dollar-crunch-persists](https://www.bloomberg.com/news/articles/2022-07-29/sri-lanka-inflation-climbs-to-60-8-as-dollar-crunch-persists)
  - date published: 2022-07-29 14:09:02+00:00

@@ -56,7 +56,7 @@
  - [https://www.o2.pl/informacje/prof-matyja-swiat-nie-bedzie-bedziemy-chodzili-na-pogrzeby-6708295404051392a](https://www.o2.pl/informacje/prof-matyja-swiat-nie-bedzie-bedziemy-chodzili-na-pogrzeby-6708295404051392a)
  - date published: 2021-11-24 11:04:26+00:00
  - user: rumpel
- - tags: ['propaganda', 'covid']
+ - tags: ['propaganda', 'covid', 'fearmongering']
 
 ## Rekord czwartej fali. Dr Grzesiowski: Jak nie będzie ograniczeń, wymrze 10 proc. społeczeństwa w wieku 50+
  - [https://warszawa.wyborcza.pl/warszawa/7,54420,27815584,dr-grzesiowski-jesli-rzad-nie-zmieni-strategii-epidemia-sie.html](https://warszawa.wyborcza.pl/warszawa/7,54420,27815584,dr-grzesiowski-jesli-rzad-nie-zmieni-strategii-epidemia-sie.html)
@@ -140,7 +140,7 @@
  - [https://www.wprost.pl/kraj/10467413/zostalem-szczepionkowym-rasista-zaszczepieni-powinni-miec-przywileje.html](https://www.wprost.pl/kraj/10467413/zostalem-szczepionkowym-rasista-zaszczepieni-powinni-miec-przywileje.html)
  - date published: 2021-07-09 21:53:19+00:00
  - user: rumpel
- - tags: ['vaccine', 'propaganda', 'covid']
+ - tags: ['propaganda', 'hatespeech', 'covid', 'vaccine']
 
 ## Chatcontrol: Unia Europejska chce kontrolować komunikatory i pocztę
  - [https://www.telepolis.pl/wiadomosci/wydarzenia/chatcontrol-unia-europejska-chce-kontrolowac-komunikatory-i-poczte](https://www.telepolis.pl/wiadomosci/wydarzenia/chatcontrol-unia-europejska-chce-kontrolowac-komunikatory-i-poczte)
@@ -206,7 +206,7 @@
  - [https://www.tvp.info/53301671/nagrania-dyrektora-cnn-charlie-chester-mowi-o-nakrecaniu-zgonow-na-covid-19-ujawnione-nagrania-donald-trump-i-epidemia-koronawirusa-w-usa](https://www.tvp.info/53301671/nagrania-dyrektora-cnn-charlie-chester-mowi-o-nakrecaniu-zgonow-na-covid-19-ujawnione-nagrania-donald-trump-i-epidemia-koronawirusa-w-usa)
  - date published: 2021-04-14 21:41:09+00:00
  - user: rumpel
- - tags: ['media', 'covid lie', 'covid']
+ - tags: ['media', 'covid', 'fearmongering']
 
 ## Cyfrowy juan to śledzona i scentralizowana waluta Chin, która zastępuje fizyczne pieniądze
  - [https://ithardware.pl/aktualnosci/cyfrowy_juan_to_cyfrowa_sledzona_i_scentralizowana_waluta_chin_ktora_zastapi_fizyczne_pieniadze-15649.html](https://ithardware.pl/aktualnosci/cyfrowy_juan_to_cyfrowa_sledzona_i_scentralizowana_waluta_chin_ktora_zastapi_fizyczne_pieniadze-15649.html)

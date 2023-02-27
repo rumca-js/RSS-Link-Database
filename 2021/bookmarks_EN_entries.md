@@ -166,6 +166,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Covid fearmongering has consequences too | The Spectator
+ - [https://www.spectator.co.uk/article/covid-fearmongering-has-consequences-too/](https://www.spectator.co.uk/article/covid-fearmongering-has-consequences-too/)
+ - date published: 2021-12-23 11:36:44+00:00
+ - user: rumpel
+ - tags: ['covid', 'fearmongering']
+
 ## MPs urge changes to 'outdated' gender recognition laws - BBC News
  - [https://www.bbc.co.uk/news/uk-politics-59735218](https://www.bbc.co.uk/news/uk-politics-59735218)
  - date published: 2021-12-22 08:35:29.336205+00:00
@@ -201,6 +207,12 @@
  - date published: 2021-12-21 11:50:07+00:00
  - user: rumpel
  - tags: ['billionaires', 'epstein', 'trump', 'elite']
+
+## Omicron coverage reveals how the establishment, media keep us scared
+ - [https://nypost.com/2021/12/21/omicron-coverage-reveals-how-the-establishment-media-keep-us-scared/](https://nypost.com/2021/12/21/omicron-coverage-reveals-how-the-establishment-media-keep-us-scared/)
+ - date published: 2021-12-21 11:43:45+00:00
+ - user: rumpel
+ - tags: ['covid', 'fearmongering']
 
 ## Troy Hunt: Open Source Pwned Passwords with FBI Feed and 225M New NCA Passwords is Now Live!
  - [https://www.troyhunt.com/open-source-pwned-passwords-with-fbi-feed-and-225m-new-nca-passwords-is-now-live/](https://www.troyhunt.com/open-source-pwned-passwords-with-fbi-feed-and-225m-new-nca-passwords-is-now-live/)
@@ -279,6 +291,12 @@
  - date published: 2021-12-15 13:39:46+00:00
  - user: rumpel
  - tags: ['genocide', 'uyghur', 'china', 'bigtech']
+
+## Idea that Omicron is milder is a myth, warns Chris Whitty - despite low hospitalisations | The Sun
+ - [https://www.thesun.co.uk/health/17051174/idea-omicron-milder-myth-warns-chris-whitty/](https://www.thesun.co.uk/health/17051174/idea-omicron-milder-myth-warns-chris-whitty/)
+ - date published: 2021-12-15 11:38:00+00:00
+ - user: rumpel
+ - tags: ['covid', 'fearmongering']
 
 ## Unvaccinated Europeans Fight for Rights as COVID Restrictions Tighten
  - [https://www.youtube.com/watch?v=5UiCxyZo2Bk](https://www.youtube.com/watch?v=5UiCxyZo2Bk)
@@ -3038,7 +3056,7 @@
  - [https://nationalfile.com/world-economic-forum-urges-companies-to-fire-unvaccinated-employees-as-part-of-jobs-reset-deletes-tweet-after-backlash/](https://nationalfile.com/world-economic-forum-urges-companies-to-fire-unvaccinated-employees-as-part-of-jobs-reset-deletes-tweet-after-backlash/)
  - date published: 2021-05-18 22:10:14+00:00
  - user: rumpel
- - tags: ['mandates', 'covid', 'vaccine', 'wef', 'world economic forum']
+ - tags: ['vaccine', 'world economic forum', 'fearmongering', 'mandates', 'wef', 'covid']
 
 ## Bill Gates reportedly hoped Jeffrey Epstein would help him win a Nobel
  - [https://nypost.com/2021/05/18/bill-gates-hoped-epstein-would-help-him-win-a-nobel-report/](https://nypost.com/2021/05/18/bill-gates-hoped-epstein-would-help-him-win-a-nobel-report/)
@@ -3069,6 +3087,12 @@
  - date published: 2021-05-14 20:54:35+00:00
  - user: rumpel
  - tags: ['intolerance', 'gender', 'scienceisdead']
+
+## Use of fear to control behaviour in Covid crisis was ‘totalitarian’, admit scientists
+ - [https://www.telegraph.co.uk/news/2021/05/14/scientists-admit-totalitarian-use-fear-control-behaviour-covid/](https://www.telegraph.co.uk/news/2021/05/14/scientists-admit-totalitarian-use-fear-control-behaviour-covid/)
+ - date published: 2021-05-14 11:32:39+00:00
+ - user: rumpel
+ - tags: ['covid', 'fearmongering']
 
 ## GET WOKE, GO BROKE: Disney revenue PLUMMETS after woke corporate culture revealed
  - [https://thepostmillennial.com/get-woke-go-broke-disney-revenues-plummet-after-woke-corporate-culture-revealed](https://thepostmillennial.com/get-woke-go-broke-disney-revenues-plummet-after-woke-corporate-culture-revealed)
@@ -3200,7 +3224,7 @@
  - [https://nypost.com/2021/04/14/cnn-staffer-tells-project-veritas-network-played-up-covid-19-death-toll-for-ratings/](https://nypost.com/2021/04/14/cnn-staffer-tells-project-veritas-network-played-up-covid-19-death-toll-for-ratings/)
  - date published: 2021-04-14 21:42:08+00:00
  - user: rumpel
- - tags: ['cnn', 'media', 'covid lie', 'covid']
+ - tags: ['cnn', 'media', 'covid', 'fearmongering']
 
 ## Why Did the Johnson & Johnson Vaccine Get Suspended and What Comes Next?
  - [https://nationalinterest.org/blog/coronavirus/why-did-johnson-johnson-vaccine-get-suspended-and-what-comes-next-182682](https://nationalinterest.org/blog/coronavirus/why-did-johnson-johnson-vaccine-get-suspended-and-what-comes-next-182682)
@@ -3350,7 +3374,7 @@
  - [https://greatgameindia.com/germany-hired-scientists-fake-coronavirus-model/](https://greatgameindia.com/germany-hired-scientists-fake-coronavirus-model/)
  - date published: 2021-02-09 21:14:12+00:00
  - user: rumpel
- - tags: ['germany', 'lockdown', 'covid']
+ - tags: ['covid', 'lockdown', 'fearmongering', 'germany']
 
 ## WHO says COVID-19 unlikely to have leaked from China lab
  - [https://nypost.com/2021/02/09/who-team-coronavirus-unlikely-to-have-leaked-from-china-lab/](https://nypost.com/2021/02/09/who-team-coronavirus-unlikely-to-have-leaked-from-china-lab/)
@@ -3374,7 +3398,7 @@
  - [https://theconversation.com/why-using-fear-to-promote-covid-19-vaccination-and-mask-wearing-could-backfire-153865](https://theconversation.com/why-using-fear-to-promote-covid-19-vaccination-and-mask-wearing-could-backfire-153865)
  - date published: 2021-01-28 08:57:02+00:00
  - user: rumpel
- - tags: ['covid', 'propaganda', 'fear']
+ - tags: ['propaganda', 'covid', 'fearmongering']
 
 ## Why It's Bad to Have High GDP
  - [https://lukesmith.xyz/articles/why-its-bad-to-have-high-gdp/](https://lukesmith.xyz/articles/why-its-bad-to-have-high-gdp/)

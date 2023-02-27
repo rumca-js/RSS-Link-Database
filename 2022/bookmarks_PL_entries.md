@@ -1598,13 +1598,13 @@
  - [https://www.rynekzdrowia.pl/Polityka-zdrowotna/Dr-Sutkowski-za-2-3-tygodnie-bedzie-armagedon-Kroczymy-dolina-smierci,228581,14.html](https://www.rynekzdrowia.pl/Polityka-zdrowotna/Dr-Sutkowski-za-2-3-tygodnie-bedzie-armagedon-Kroczymy-dolina-smierci,228581,14.html)
  - date published: 2022-01-13 11:07:40+00:00
  - user: rumpel
- - tags: ['propaganda', 'covid']
+ - tags: ['propaganda', 'covid', 'fearmongering']
 
 ## Omikron to nawet 200 tys. zakażeń dziennie. Dr Grzesiowski: tsunami, armagedon | Wiadomości Radio ZET
  - [https://wiadomosci.radiozet.pl/Polska/Omikron-to-nawet-200-tys.-zakazen-dziennie.-Dr-Grzesiowski-tsunami-armagedon](https://wiadomosci.radiozet.pl/Polska/Omikron-to-nawet-200-tys.-zakazen-dziennie.-Dr-Grzesiowski-tsunami-armagedon)
  - date published: 2022-01-07 11:05:59+00:00
  - user: rumpel
- - tags: ['propaganda', 'covid']
+ - tags: ['propaganda', 'covid', 'fearmongering']
 
 ## FDA ma 8 miesięcy na publikację dokumentacji „szczepionki”
  - [https://legaartis.pl/blog/2022/01/07/fda-ma-8-miesiecy-na-publikacje-dokumentacji-szczepionki/](https://legaartis.pl/blog/2022/01/07/fda-ma-8-miesiecy-na-publikacje-dokumentacji-szczepionki/)

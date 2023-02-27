@@ -544,6 +544,12 @@
  - user: None
  - tags: ['meta', 'privacy', 'facebook']
 
+## Why does Google limit results to only like 30 pages even for very popular search terms?
+ - [https://www.quora.com/Why-does-Google-limit-results-to-only-like-30-pages-even-for-very-popular-search-terms?share=1](https://www.quora.com/Why-does-Google-limit-results-to-only-like-30-pages-even-for-very-popular-search-terms?share=1)
+ - date published: 2019-02-26 11:59:59+00:00
+ - user: rumpel
+ - tags: ['google search']
+
 ## Lawyer slams 'ridiculous' case which saw teen prosecuted for Instagramming N-word rap lyrics - Liverpool Echo
  - [https://www.liverpoolecho.co.uk/news/liverpool-news/teen-prosecuted-n-word-rap-15874476](https://www.liverpoolecho.co.uk/news/liverpool-news/teen-prosecuted-n-word-rap-15874476)
  - date published: 2019-02-22 09:33:04+00:00

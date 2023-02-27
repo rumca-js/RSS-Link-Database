@@ -1,9 +1,3 @@
-## Zwykły bohater #2 Nauczyciel
- - [https://www.youtube.com/watch?v=gCObZjzFv-8](https://www.youtube.com/watch?v=gCObZjzFv-8)
- - date published: 2023-02-23 10:39:57+00:00
- - user: rumpel
- - tags: ['funny']
-
 ## Polska nie radzi sobie z odnawialnymi źródłami energii. Rezygnacja z aut spalinowych wypada jeszcze bardziej absurdalnie
  - [https://www.chip.pl/2023/02/polska-odnawialne-zrodla-energii-raport-unii-europejskiej](https://www.chip.pl/2023/02/polska-odnawialne-zrodla-energii-raport-unii-europejskiej)
  - date published: 2023-02-18 17:00:00+00:00

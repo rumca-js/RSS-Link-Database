@@ -172,6 +172,12 @@
  - user: rumpel
  - tags: ['pfizer', 'uk', 'nop', 'covid']
 
+## Corona’s orchestra of panic: How the press’ fear-mongering is distorting information | European Journalism Observatory - EJO
+ - [https://en.ejo.ch/specialist-journalism/coronas-orchestra-of-panic-how-the-press-fear-mongering-is-distorting-information-about-covid-19](https://en.ejo.ch/specialist-journalism/coronas-orchestra-of-panic-how-the-press-fear-mongering-is-distorting-information-about-covid-19)
+ - date published: 2020-11-30 11:34:00+00:00
+ - user: rumpel
+ - tags: ['covid', 'fearmongering']
+
 ## Time's Up charities set up by celebrities as part of Me Too movement spent $1.4m on salaries including $157k on conferences at luxury resorts
  - [https://www.dailymail.co.uk/news/article-8997707/Times-organization-raised-3-6m-2018-cash-went-salaries-not-victims.html](https://www.dailymail.co.uk/news/article-8997707/Times-organization-raised-3-6m-2018-cash-went-salaries-not-victims.html)
  - date published: 2020-11-29 20:26:43+00:00
@@ -514,6 +520,12 @@
  - user: None
  - tags: ['us', 'israel']
 
+## US coronavirus deaths could top 6,000 a day by December in worst-case scenario, expert predicts
+ - [https://edition.cnn.com/world/live-news/coronavirus-pandemic-08-21-20-intl#h_e869402891201d42d0937c0fe789a1df](https://edition.cnn.com/world/live-news/coronavirus-pandemic-08-21-20-intl#h_e869402891201d42d0937c0fe789a1df)
+ - date published: 2020-08-21 11:39:16+00:00
+ - user: rumpel
+ - tags: ['covid', 'fearmongering']
+
 ## Goodyear employees say new zero-tolerance policy from Akron HQ is discriminatory
  - [https://www.cleveland19.com/2020/08/18/goodyear-employees-say-new-zero-tolerance-policy-akron-hq-is-discriminatory/](https://www.cleveland19.com/2020/08/18/goodyear-employees-say-new-zero-tolerance-policy-akron-hq-is-discriminatory/)
  - date published: 2020-08-19 21:11:08+00:00
@@ -542,7 +554,7 @@
  - [https://www.gavi.org/vaccineswork/why-no-one-safe-until-everyone-safe-during-pandemic](https://www.gavi.org/vaccineswork/why-no-one-safe-until-everyone-safe-during-pandemic)
  - date published: 2020-08-14 22:07:07+00:00
  - user: rumpel
- - tags: ['vaccine', 'pandeminc', 'covid']
+ - tags: ['propaganda', 'covid', 'pandeminc', 'vaccine']
 
 ## NSA and FBI warn that new Linux malware threatens national security
  - [https://arstechnica.com/information-technology/2020/08/nsa-and-fbi-warn-that-new-linux-malware-threatens-national-security/](https://arstechnica.com/information-technology/2020/08/nsa-and-fbi-warn-that-new-linux-malware-threatens-national-security/)
@@ -854,13 +866,13 @@
  - [https://edition.cnn.com/2020/04/03/americas/guayaquil-ecuador-overwhelmed-coronavirus-intl/index.html](https://edition.cnn.com/2020/04/03/americas/guayaquil-ecuador-overwhelmed-coronavirus-intl/index.html)
  - date published: 2020-04-03 07:26:22+00:00
  - user: rumpel
- - tags: ['covid', 'wuhan', 'propaganda', 'lableak', 'panic']
+ - tags: ['wuhan', 'lableak', 'propaganda', 'fearmongering', 'covid']
 
 ## Misused photo of migrants’ coffins used to cast doubt on Covid-19 in Italy
  - [https://observers.france24.com/en/europe/20220106-debunked-covid-19-migrant-coffins-documentary-bergamo](https://observers.france24.com/en/europe/20220106-debunked-covid-19-migrant-coffins-documentary-bergamo)
  - date published: 2020-04-01 07:43:17+00:00
  - user: rumpel
- - tags: ['covid', 'wuhan', 'propaganda', 'lableak', 'panic']
+ - tags: ['misinformation', 'wuhan', 'propaganda', 'fear mongering', 'disinformation', 'covid']
 
 ## Are You a Slave to your Software Knowledge?
  - [https://sagegerard.com/stop-learning-so-much.html](https://sagegerard.com/stop-learning-so-much.html)
@@ -932,19 +944,19 @@
  - [https://www.youtube.com/watch?v=CYKeefzKGOI](https://www.youtube.com/watch?v=CYKeefzKGOI)
  - date published: 2020-01-31 07:48:27+00:00
  - user: rumpel
- - tags: ['covid', 'wuhan', 'propaganda', 'lableak', 'panic']
+ - tags: ['wuhan', 'lableak', 'propaganda', 'fearmongering', 'covid']
 
 ## A man lies dead in the street: the image that captures the Wuhan coronavirus crisis
  - [https://www.theguardian.com/world/2020/jan/31/a-man-lies-dead-in-the-street-the-image-that-captures-the-wuhan-coronavirus-crisis](https://www.theguardian.com/world/2020/jan/31/a-man-lies-dead-in-the-street-the-image-that-captures-the-wuhan-coronavirus-crisis)
  - date published: 2020-01-31 07:24:23+00:00
  - user: rumpel
- - tags: ['covid', 'wuhan', 'propaganda', 'lableak', 'panic']
+ - tags: ['wuhan', 'lableak', 'propaganda', 'fearmongering', 'covid']
 
 ## Disturbing Footages Show People Collapsing in Virus-Hit Chinese City of Wuhan
  - [https://www.tasnimnews.com/en/news/2020/01/24/2188257/disturbing-footages-show-people-collapsing-in-virus-hit-chinese-city-of-wuhan](https://www.tasnimnews.com/en/news/2020/01/24/2188257/disturbing-footages-show-people-collapsing-in-virus-hit-chinese-city-of-wuhan)
  - date published: 2020-01-24 07:54:11+00:00
  - user: rumpel
- - tags: ['covid', 'wuhan', 'propaganda', 'lableak', 'panic']
+ - tags: ['lableak', 'wuhan', 'propaganda', 'fearmongering', 'covid']
 
 ## The Secretive Company That Might End Privacy as We Know It - The New York Times
  - [https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html](https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html)
@@ -986,7 +998,7 @@
  - [https://www.wsj.com/articles/new-virus-discovered-by-chinese-scientists-investigating-pneumonia-outbreak-11578485668?mod=article_inline](https://www.wsj.com/articles/new-virus-discovered-by-chinese-scientists-investigating-pneumonia-outbreak-11578485668?mod=article_inline)
  - date published: 2020-01-08 07:50:34+00:00
  - user: rumpel
- - tags: ['covid origins', 'covid', 'lableak', 'panic']
+ - tags: ['lableak', 'covid origins', 'covid', 'fearmongering']
 
 ## A Look Inside Jeffrey Epstein’s Prison Cell
  - [https://www.thecrimemag.com/epsteins-prison-cell/](https://www.thecrimemag.com/epsteins-prison-cell/)
