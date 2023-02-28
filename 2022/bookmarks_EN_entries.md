@@ -1412,7 +1412,7 @@
  - [https://www.theepochtimes.com/nigeria-limits-weekly-daily-atm-cash-withdrawals-to-push-digital-currency-use_4911001.html](https://www.theepochtimes.com/nigeria-limits-weekly-daily-atm-cash-withdrawals-to-push-digital-currency-use_4911001.html)
  - date published: 2022-12-08 10:33:36+00:00
  - user: None
- - tags: ['youwillownnothing', 'digital money', 'cdbd']
+ - tags: ['cbdc', 'digital money', 'youwillownnothing', 'technofeudalism']
 
 ## BlackRock says get ready for a recession unlike any other and 'what worked in the past won't work now'
  - [https://markets.businessinsider.com/news/stocks/blackrock-recession-warning-stock-market-analysis-2023-economic-outlook-2022-12](https://markets.businessinsider.com/news/stocks/blackrock-recession-warning-stock-market-analysis-2023-economic-outlook-2022-12)
@@ -2085,12 +2085,6 @@
  - date published: 2022-11-26 01:34:32+00:00
  - user: None
  - tags: ['woke', 'rotten tomatoes']
-
-## Enrico Tartarotti - The Slow Death of Google Search (Why Search Results Are So Bad)
- - [https://www.youtube.com/watch?v=GsXDEytvk-w](https://www.youtube.com/watch?v=GsXDEytvk-w)
- - date published: 2022-11-25 18:02:35+00:00
- - user: None
- - tags: ['google search', 'internet', 'dead internet']
 
 ## Why Google Search Has Become So Bad
  - [https://www.youtube.com/watch?v=48AOOynnmqU](https://www.youtube.com/watch?v=48AOOynnmqU)
@@ -2834,7 +2828,7 @@
  - [https://www.dailymail.co.uk/news/article-11396843/Amazon-users-new-fee-choosing-music-Alexa-consumer-watchdog-warns.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11396843/Amazon-users-new-fee-choosing-music-Alexa-consumer-watchdog-warns.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2022-11-06 22:48:06+00:00
  - user: None
- - tags: ['youwillownnothing', 'subscription', 'alexa']
+ - tags: ['alexa', 'subscription', 'youwillownnothing', 'technofeudalism']
 
 ## Industry ethicist: Social media companies amplifying Americans' anger for profit - CBS News
  - [https://www.cbsnews.com/news/tristan-harris-social-media-political-polarization-60-minutes-2022-11-06/?ftag=CNM-00-10aab7d&linkId=188527613](https://www.cbsnews.com/news/tristan-harris-social-media-political-polarization-60-minutes-2022-11-06/?ftag=CNM-00-10aab7d&linkId=188527613)
@@ -3002,7 +2996,7 @@
  - [https://piunikaweb.com/2022/11/02/youtube-sorting-option-for-viewing-oldest-video-missing-heres-why/](https://piunikaweb.com/2022/11/02/youtube-sorting-option-for-viewing-oldest-video-missing-heres-why/)
  - date published: 2022-11-03 14:43:55+00:00
  - user: None
- - tags: ['subscription', 'youwillownnothing', 'youtube']
+ - tags: ['subscription', 'youtube', 'youwillownnothing', 'technofeudalism']
 
 ## I Posted on YouTube Consistently for 1 Month. This Is What Happened
  - [https://www.alexhyett.com/one-month-on-youtube/](https://www.alexhyett.com/one-month-on-youtube/)
@@ -4208,7 +4202,7 @@
  - [https://youtu.be/XmkFoPV5DCg](https://youtu.be/XmkFoPV5DCg)
  - date published: 2022-10-22 15:54:10+00:00
  - user: None
- - tags: ['subscription', 'youwillownnothing']
+ - tags: ['subscription', 'youwillownnothing', 'technofeudalism']
 
 ## Apple’s App Store will display more ads starting next week
  - [https://www.engadget.com/apple-app-store-today-tab-ads-152249659.html?src=rss](https://www.engadget.com/apple-app-store-today-tab-ads-152249659.html?src=rss)
@@ -4352,7 +4346,7 @@
  - [https://www.cnet.com/roadshow/news/new-jersey-bill-could-ban-in-car-subscriptions/#ftag=CADf328eec](https://www.cnet.com/roadshow/news/new-jersey-bill-could-ban-in-car-subscriptions/#ftag=CADf328eec)
  - date published: 2022-10-21 16:04:33+00:00
  - user: None
- - tags: ['youwillownnothing', 'subscription']
+ - tags: ['subscription', 'youwillownnothing', 'technofeudalism']
 
 ## US might bail Musk out by blocking Twitter deal over national security
  - [https://arstechnica.com/?p=1891916](https://arstechnica.com/?p=1891916)
@@ -5708,7 +5702,7 @@
  - [https://www.businessinsider.com/car-feature-subscriptions-add-ons-bmw-ford-toyota-gm-2022-2?IR=T](https://www.businessinsider.com/car-feature-subscriptions-add-ons-bmw-ford-toyota-gm-2022-2?IR=T)
  - date published: 2022-09-24 20:43:07+00:00
  - user: None
- - tags: ['youwillownnothing', 'subscription']
+ - tags: ['subscription', 'youwillownnothing', 'technofeudalism']
 
 ## Bill Gates says political polarization 'may bring it all to an end' and could even lead to a civil war
  - [https://www.reddit.com/r/politics/comments/xn2q5t/bill_gates_says_political_polarization_may_bring/](https://www.reddit.com/r/politics/comments/xn2q5t/bill_gates_says_political_polarization_may_bring/)
@@ -7202,7 +7196,7 @@
  - [https://bgr.com/tech/22000-smart-thermostats-in-colorado-locked-over-energy-emergency-sparking-outrage/](https://bgr.com/tech/22000-smart-thermostats-in-colorado-locked-over-energy-emergency-sparking-outrage/)
  - date published: 2022-09-04 13:02:11+00:00
  - user: rumpel
- - tags: ['climate change', 'colorado', 'youwillownnothing', 'bigbrother', 'electricity']
+ - tags: ['youwillownnothing', 'climate change', 'colorado', 'electricity', 'bigbrother', 'technofeudalism']
 
 ## Uber’s Still Not Profitable
  - [https://doctorow.medium.com/ubers-still-not-profitable-bd483309e4b](https://doctorow.medium.com/ubers-still-not-profitable-bd483309e4b)
@@ -8096,7 +8090,7 @@
  - [https://nypost.com/2022/09/01/californians-asked-not-to-charge-electric-cars-amid-heat-wave/](https://nypost.com/2022/09/01/californians-asked-not-to-charge-electric-cars-amid-heat-wave/)
  - date published: 2022-08-01 20:36:35+00:00
  - user: rumpel
- - tags: ['california', 'electric cars', 'climate change', 'youwillownnothing']
+ - tags: ['youwillownnothing', 'climate change', 'electric cars', 'california', 'technofeudalism']
 
 ## China's Evergrande has failed to deliver the debt restructuring plan it promised
  - [https://www.cnn.com/2022/08/01/economy/china-evergrande-miss-deadline-restructuring-plan-intl-hnk/index.html](https://www.cnn.com/2022/08/01/economy/china-evergrande-miss-deadline-restructuring-plan-intl-hnk/index.html)

@@ -124,6 +124,12 @@
  - user: rumpel
  - tags: ['ads', 'ad business']
 
+## It's not Orwellian for publishers to edit Roald Dahl, just commercially savvy | Gaby Hinsliff
+ - [https://www.theguardian.com/commentisfree/2023/feb/20/roald-dahl-industry-classics-parents](https://www.theguardian.com/commentisfree/2023/feb/20/roald-dahl-industry-classics-parents)
+ - date published: 2023-02-20 17:06:44+00:00
+ - user: rumpel
+ - tags: ['roald dahl']
+
 ## UK tests tracking citizens’ habits, rewarding them for good behavior
  - [https://reclaimthenet.org/uk-tests-tracking-citizens-habits-rewarding-them-for-good-behavior](https://reclaimthenet.org/uk-tests-tracking-citizens-habits-rewarding-them-for-good-behavior)
  - date published: 2023-02-19 16:29:23+00:00
@@ -285,6 +291,12 @@
  - date published: 2023-02-13 17:59:07+00:00
  - user: rumpel
  - tags: ['raspberry']
+
+## I tried using AI. It scared me.
+ - [https://www.youtube.com/watch?v=jPhJbKBuNnA](https://www.youtube.com/watch?v=jPhJbKBuNnA)
+ - date published: 2023-02-13 16:00:23+00:00
+ - user: rumpel
+ - tags: ['chatgpt', 'artificial intelligence']
 
 ## Matt Taibbi Surprised by FBI & Twitter's Collusion; Russiagate Info in Twitter Files
  - [https://www.youtube.com/watch?v=eWQGYpSoiYU](https://www.youtube.com/watch?v=eWQGYpSoiYU)

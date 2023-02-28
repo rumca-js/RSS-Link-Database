@@ -2006,7 +2006,7 @@
  - [https://www.resilience.org/stories/2021-08-24/conspiracy-theories-aside-there-is-something-fishy-about-the-great-reset/](https://www.resilience.org/stories/2021-08-24/conspiracy-theories-aside-there-is-something-fishy-about-the-great-reset/)
  - date published: 2021-08-24 18:18:59+00:00
  - user: rumpel
- - tags: ['democracy', 'corporatocracy', 'wef', 'world economic forum', 'technofeudalism']
+ - tags: ['democracy', 'wef', 'corporatocracy', 'world economic forum']
 
 ## ‘I can’t work’: the mothers left to fight alone for their children’s mental health care | Mental health | The Guardian
  - [https://www.theguardian.com/society/2021/aug/15/i-cant-work-the-mothers-left-to-fight-alone-for-their-childrens-mental-health-care](https://www.theguardian.com/society/2021/aug/15/i-cant-work-the-mothers-left-to-fight-alone-for-their-childrens-mental-health-care)

@@ -778,6 +778,12 @@
  - user: rumpel
  - tags: ['protest', 'culture', 'blm', 'black lives matter']
 
+## How To install Webmin On Raspberry Pi OS (For Remote Administration) - Smart Home Pursuits
+ - [https://smarthomepursuits.com/install-webmin-on-raspberry-pi-for-web-based-administration/](https://smarthomepursuits.com/install-webmin-on-raspberry-pi-for-web-based-administration/)
+ - date published: 2020-06-09 10:44:56+00:00
+ - user: rumpel
+ - tags: ['selfhost', 'webmin']
+
 ## 'Big concerns' over Gates foundation's potential to become largest WHO donor
  - [https://www.devex.com/news/big-concerns-over-gates-foundation-s-potential-to-become-largest-who-donor-97377](https://www.devex.com/news/big-concerns-over-gates-foundation-s-potential-to-become-largest-who-donor-97377)
  - date published: 2020-06-05 13:47:07+00:00
