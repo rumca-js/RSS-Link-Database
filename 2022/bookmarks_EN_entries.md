@@ -524,13 +524,13 @@
  - [https://en.wikipedia.org/wiki/Milgram_experiment](https://en.wikipedia.org/wiki/Milgram_experiment)
  - date published: 2022-12-21 19:50:44+00:00
  - user: None
- - tags: ['science']
+ - tags: ['propaganda', 'science']
 
 ## Overton window
  - [https://en.wikipedia.org/wiki/Overton_window](https://en.wikipedia.org/wiki/Overton_window)
  - date published: 2022-12-21 19:50:08+00:00
  - user: None
- - tags: ['science']
+ - tags: ['propaganda', 'science']
 
 ## Babylon Bee chief criticizes social media’s censorship of satire
  - [https://reclaimthenet.org/babylon-bee-chief-criticizes-social-medias-censorship/](https://reclaimthenet.org/babylon-bee-chief-criticizes-social-medias-censorship/)
@@ -548,7 +548,7 @@
  - [https://en.m.wikipedia.org/wiki/Operant_conditioning_chamber](https://en.m.wikipedia.org/wiki/Operant_conditioning_chamber)
  - date published: 2022-12-21 18:56:27+00:00
  - user: None
- - tags: ['science']
+ - tags: ['propaganda', 'science']
 
 ## Google Global requests about users
  - [https://transparencyreport.google.com/user-data/overview?user_requests_report_period=authority:US;time:&lu=user_requests_report_period](https://transparencyreport.google.com/user-data/overview?user_requests_report_period=authority:US;time:&lu=user_requests_report_period)
@@ -5990,7 +5990,7 @@
  - [https://www.wsj.com/articles/cdc-oversells-the-bivalent-covid-shot-hospitalizations-vaccine-booster-omicron-pandemic-pfizer-moderna-china-illness-death-11663793472](https://www.wsj.com/articles/cdc-oversells-the-bivalent-covid-shot-hospitalizations-vaccine-booster-omicron-pandemic-pfizer-moderna-china-illness-death-11663793472)
  - date published: 2022-09-21 13:36:42+00:00
  - user: rumpel
- - tags: ['vaccine', 'covid', 'bigpharma']
+ - tags: ['vaccine', 'covid lie', 'covid', 'bigpharma']
 
 ## Facebook is experimenting with letting users help write speech rules
  - [https://www.theverge.com/2022/9/21/23364788/facebook-user-written-moderation-rules-experiment](https://www.theverge.com/2022/9/21/23364788/facebook-user-written-moderation-rules-experiment)
@@ -9710,7 +9710,7 @@
  - [https://www.forbes.com/sites/alisondurkee/2022/04/18/judge-declares-federal-public-transportation-mask-mandate-unlawful/](https://www.forbes.com/sites/alisondurkee/2022/04/18/judge-declares-federal-public-transportation-mask-mandate-unlawful/)
  - date published: 2022-04-18 22:39:00+00:00
  - user: rumpel
- - tags: ['illegal', 'masks', 'covid']
+ - tags: ['masks', 'covid']
 
 ## Richard Stallman - "The state of the Free Software movement" - April 13, 2022
  - [https://lunduke.substack.com/p/richard-stallman-the-state-of-the?s=r](https://lunduke.substack.com/p/richard-stallman-the-state-of-the?s=r)
@@ -10630,6 +10630,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Mask Mandates Don’t Need to Make Sense - The Atlantic
+ - [https://www.theatlantic.com/health/archive/2022/02/covid-mask-mandate-washington-dc/622860/](https://www.theatlantic.com/health/archive/2022/02/covid-mask-mandate-washington-dc/622860/)
+ - date published: 2022-02-22 09:53:09+00:00
+ - user: rumpel
+ - tags: ['masks', 'mandates', 'covid']
+
 ## MEMEX - I have no capslock and I must scream [ 2022-02-21 ]
  - [https://memex.marginalia.nu/log/48-i-have-no-capslock.gmi](https://memex.marginalia.nu/log/48-i-have-no-capslock.gmi)
  - date published: 2022-02-22 07:13:43.648959+00:00
@@ -10653,12 +10659,6 @@
  - date published: 2022-02-21 08:25:50.913362+00:00
  - user: Thomas Pain
  - tags: ['privacy', 'tracking', 'anonymity']
-
-## Mask Mandates Are Illogical. So What?
- - [https://www.msn.com/en-us/news/us/mask-mandates-are-illogical-so-what/ar-AAU5Ir5](https://www.msn.com/en-us/news/us/mask-mandates-are-illogical-so-what/ar-AAU5Ir5)
- - date published: 2022-02-20 11:13:19+00:00
- - user: rumpel
- - tags: ['masks', 'scienceisdead', 'covid']
 
 ## Kanada: W Kanadzie policja tratuje ludzi, a „wolny świat” milczy! Dlaczego?
  - [https://www.prokapitalizm.pl/w-kanadzie-policja-tratuje-ludzi-a-wolny-swiat-milczy-dlaczego/](https://www.prokapitalizm.pl/w-kanadzie-policja-tratuje-ludzi-a-wolny-swiat-milczy-dlaczego/)
@@ -10966,10 +10966,10 @@
  - user: Thomas Pain
  - tags: $tags
 
-## cientists speak out on being silenced when raising concerns about COVID lab leak theory
+## Scientists speak out on being silenced when raising concerns about COVID lab leak theory
  - [https://www.foxnews.com/politics/scientists-speak-out-on-being-silenced-when-raising-concerns-about-lab-leak-theory](https://www.foxnews.com/politics/scientists-speak-out-on-being-silenced-when-raising-concerns-about-lab-leak-theory)
  - date published: 2022-01-31 06:54:36+00:00
- - user: None
+ - user: rumpel
  - tags: ['wuhan', 'censorship', 'covid', 'covid origins']
 
 ## A UX designer walks into a Tesla Bar – Scott Jenson

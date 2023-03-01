@@ -62,19 +62,19 @@
  - [https://pl.m.wikipedia.org/wiki/Klatka_Skinnera](https://pl.m.wikipedia.org/wiki/Klatka_Skinnera)
  - date published: 2022-12-21 18:57:21+00:00
  - user: None
- - tags: ['science']
+ - tags: ['propaganda', 'science']
 
 ## Okno Overtona
  - [https://pl.m.wikipedia.org/wiki/Okno_Overtona](https://pl.m.wikipedia.org/wiki/Okno_Overtona)
  - date published: 2022-12-21 18:54:17+00:00
  - user: None
- - tags: ['science']
+ - tags: ['propaganda', 'science']
 
 ## Eksperyment Milgrama
  - [https://pl.m.wikipedia.org/wiki/Eksperyment_Milgrama](https://pl.m.wikipedia.org/wiki/Eksperyment_Milgrama)
  - date published: 2022-12-21 18:53:05+00:00
  - user: None
- - tags: ['science']
+ - tags: ['propaganda', 'science']
 
 ## Globalne żądania informacji o użytkownikach
  - [https://transparencyreport.google.com/user-data/overview?user_requests_report_period=authority:PL](https://transparencyreport.google.com/user-data/overview?user_requests_report_period=authority:PL)

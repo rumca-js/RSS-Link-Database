@@ -1,3 +1,9 @@
+## Why CMake Sucks?
+ - [https://twdev.blog/2021/08/cmake/](https://twdev.blog/2021/08/cmake/)
+ - date published: 2023-02-28 00:32:24+00:00
+ - user: rumpel
+ - tags: ['programming', 'cmake']
+
 ## Covid Likely Originated From Lab Leak, Energy Department Reportedly Finds—But Biden Aide Says There’s No ‘Definitive Answer’
  - [https://www.forbes.com/sites/marisadellatto/2023/02/26/covid-likely-originated-from-lab-leak-energy-department-reportedly-finds-but-biden-aide-says-theres-no-definitive-answer/](https://www.forbes.com/sites/marisadellatto/2023/02/26/covid-likely-originated-from-lab-leak-energy-department-reportedly-finds-but-biden-aide-says-theres-no-definitive-answer/)
  - date published: 2023-02-26 16:52:23+00:00
@@ -9,6 +15,12 @@
  - date published: 2023-02-26 15:42:22+00:00
  - user: rumpel
  - tags: ['books', 'censorship']
+
+## A woman who was locked out of her Apple account minutes after her iPhone was stolen and $10,000 was taken from her bank account says Apple was 'not helpful at all' - Business News
+ - [https://biz.crast.net/a-woman-who-was-locked-out-of-her-apple-account-minutes-after-her-iphone-was-stolen-and-10000-was-taken-from-her-bank-account-says-apple-was-not-helpful-at-all/](https://biz.crast.net/a-woman-who-was-locked-out-of-her-apple-account-minutes-after-her-iphone-was-stolen-and-10000-was-taken-from-her-bank-account-says-apple-was-not-helpful-at-all/)
+ - date published: 2023-02-26 07:31:37+00:00
+ - user: rumpel
+ - tags: ['iphone', 'technofeudalism', 'theft', 'apple']
 
 ## Signal says it'll shut down in UK if Online Safety Bill approved
  - [https://www.theregister.com/2023/02/25/signal_uk_online_safety_bill/](https://www.theregister.com/2023/02/25/signal_uk_online_safety_bill/)
@@ -112,6 +124,12 @@
  - user: rumpel
  - tags: ['trans', 'south park', 'woke', 'abortion']
 
+## Opinion | The Mask Mandates Did Nothing. Will Any Lessons Be Learned? - The New York Times
+ - [https://www.nytimes.com/2023/02/21/opinion/do-mask-mandates-work.html](https://www.nytimes.com/2023/02/21/opinion/do-mask-mandates-work.html)
+ - date published: 2023-02-21 09:45:23+00:00
+ - user: rumpel
+ - tags: ['masks', 'covid lie', 'covid', 'scienceisdead', 'mandates']
+
 ## What is a 15-minute city and why is the idea so controversial?
  - [https://www.itv.com/news/2023-02-20/what-is-a-15-minute-city-and-why-is-the-idea-so-controversial](https://www.itv.com/news/2023-02-20/what-is-a-15-minute-city-and-why-is-the-idea-so-controversial)
  - date published: 2023-02-21 07:10:41+00:00
@@ -183,6 +201,12 @@
  - date published: 2023-02-17 19:40:00+00:00
  - user: rumpel
  - tags: ['anonymity', 'privacy', 'digital identity']
+
+## New Cochrane Study on Masks and Covid | City Journal
+ - [https://www.city-journal.org/new-cochrane-study-on-masks-and-covid](https://www.city-journal.org/new-cochrane-study-on-masks-and-covid)
+ - date published: 2023-02-17 09:46:25+00:00
+ - user: rumpel
+ - tags: ['masks', 'mandates', 'covid', 'covid lie']
 
 ## The Political Bias of ChatGPT – Extended Analysis
  - [https://davidrozado.substack.com/p/political-bias-chatgpt](https://davidrozado.substack.com/p/political-bias-chatgpt)

@@ -116,13 +116,13 @@
  - [https://en.wikipedia.org/wiki/Grievance_studies_affair](https://en.wikipedia.org/wiki/Grievance_studies_affair)
  - date published: 2021-12-26 20:04:14+00:00
  - user: rumpel
- - tags: ['scienceisdead', 'sokal', 'grievance', 'science']
+ - tags: ['propaganda', 'science', 'grievance', 'scienceisdead', 'sokal']
 
 ## Sokal affair
  - [https://en.wikipedia.org/wiki/Sokal_affair](https://en.wikipedia.org/wiki/Sokal_affair)
  - date published: 2021-12-26 20:03:05+00:00
  - user: rumpel
- - tags: ['sokal affair', 'sokal', 'science', 'scienceisdead']
+ - tags: ['sokal', 'propaganda', 'science', 'scienceisdead', 'sokal affair']
 
 ## Bohemian Grove
  - [https://en.m.wikipedia.org/wiki/Bohemian_Grove](https://en.m.wikipedia.org/wiki/Bohemian_Grove)
@@ -1654,6 +1654,12 @@
  - user: rumpel
  - tags: ['911', 'bigbrother', 'america']
 
+## Biden Doubled Mask Fines for Travelers. What Does it Mean for Passengers? - The New York Times
+ - [https://www.nytimes.com/2021/09/10/travel/mask-fine-costs-flights-tsa.html](https://www.nytimes.com/2021/09/10/travel/mask-fine-costs-flights-tsa.html)
+ - date published: 2021-09-10 09:58:33+00:00
+ - user: rumpel
+ - tags: ['masks', 'mandates', 'covid']
+
 ## The end of phone calls: why young people have silenced their ringtones | Mobile phones | The Guardian
  - [https://www.theguardian.com/technology/2021/aug/30/the-end-of-phone-calls-why-young-people-have-silenced-their-ringtones](https://www.theguardian.com/technology/2021/aug/30/the-end-of-phone-calls-why-young-people-have-silenced-their-ringtones)
  - date published: 2021-09-10 09:02:30.962546+00:00
@@ -3074,7 +3080,7 @@
  - [https://totalityofevidence.com/timeline/fauci-the-vaccinated-stop-viral-transmission/](https://totalityofevidence.com/timeline/fauci-the-vaccinated-stop-viral-transmission/)
  - date published: 2021-05-16 09:08:03+00:00
  - user: None
- - tags: ['fauci', 'transmission', 'covid']
+ - tags: ['covid lie', 'fauci', 'transmission', 'covid']
 
 ## Fauci: Vaccinated people become ‘dead ends’ for the coronavirus
  - [https://thehill.com/homenews/sunday-talk-shows/553773-fauci-vaccinated-people-become-dead-ends-for-the-coronavirus/](https://thehill.com/homenews/sunday-talk-shows/553773-fauci-vaccinated-people-become-dead-ends-for-the-coronavirus/)
@@ -3346,6 +3352,12 @@
  - user: None
  - tags: ['corporatocracy', 'varoufakis', 'technofeudalism', 'capitalism']
 
+## Zawodowiec (2002) - polski film dokumentalny
+ - [https://www.youtube.com/watch?v=a6AVCDMHWfg](https://www.youtube.com/watch?v=a6AVCDMHWfg)
+ - date published: 2021-02-19 09:42:45+00:00
+ - user: rumpel
+ - tags: ['documentary']
+
 ## Moment Biden COVID adviser is UNABLE to explain why lockdown-loving California isn't doing better than open-all-hours Florida
  - [https://www.dailymail.co.uk/news/article-9272929/Biden-COVID-adviser-explain-closed-California-isnt-doing-better-open-Florida.html](https://www.dailymail.co.uk/news/article-9272929/Biden-COVID-adviser-explain-closed-California-isnt-doing-better-open-Florida.html)
  - date published: 2021-02-18 21:28:10+00:00
@@ -3368,13 +3380,13 @@
  - [https://cceit.com/german-ministry-hired-scientists-to-induce-corona-fear/](https://cceit.com/german-ministry-hired-scientists-to-induce-corona-fear/)
  - date published: 2021-02-10 21:14:43+00:00
  - user: rumpel
- - tags: ['germany', 'covid', 'lockdown', 'scienceisdead']
+ - tags: ['germany', 'covid lie', 'covid', 'scienceisdead', 'lockdown']
 
 ## Germany Hired Scientists To Develop Fake Coronavirus Model To Justify Strict Lockdown
  - [https://greatgameindia.com/germany-hired-scientists-fake-coronavirus-model/](https://greatgameindia.com/germany-hired-scientists-fake-coronavirus-model/)
  - date published: 2021-02-09 21:14:12+00:00
  - user: rumpel
- - tags: ['covid', 'lockdown', 'fearmongering', 'germany']
+ - tags: ['fearmongering', 'germany', 'covid lie', 'covid', 'lockdown']
 
 ## WHO says COVID-19 unlikely to have leaked from China lab
  - [https://nypost.com/2021/02/09/who-team-coronavirus-unlikely-to-have-leaked-from-china-lab/](https://nypost.com/2021/02/09/who-team-coronavirus-unlikely-to-have-leaked-from-china-lab/)

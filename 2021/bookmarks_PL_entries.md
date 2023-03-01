@@ -56,13 +56,13 @@
  - [https://www.o2.pl/informacje/prof-matyja-swiat-nie-bedzie-bedziemy-chodzili-na-pogrzeby-6708295404051392a](https://www.o2.pl/informacje/prof-matyja-swiat-nie-bedzie-bedziemy-chodzili-na-pogrzeby-6708295404051392a)
  - date published: 2021-11-24 11:04:26+00:00
  - user: rumpel
- - tags: ['propaganda', 'covid', 'fearmongering']
+ - tags: ['propaganda', 'covid lie', 'fearmongering', 'covid']
 
 ## Rekord czwartej fali. Dr Grzesiowski: Jak nie będzie ograniczeń, wymrze 10 proc. społeczeństwa w wieku 50+
  - [https://warszawa.wyborcza.pl/warszawa/7,54420,27815584,dr-grzesiowski-jesli-rzad-nie-zmieni-strategii-epidemia-sie.html](https://warszawa.wyborcza.pl/warszawa/7,54420,27815584,dr-grzesiowski-jesli-rzad-nie-zmieni-strategii-epidemia-sie.html)
  - date published: 2021-11-17 10:59:29+00:00
  - user: rumpel
- - tags: ['propaganda', 'covid']
+ - tags: ['propaganda', 'covid lie', 'fearmongering', 'covid']
 
 ## „Facebook Files”, czyli o tym, czego Facebook nie chciał nam powiedzieć
  - [https://demagog.org.pl/analizy_i_raporty/facebook-files-czyli-o-tym-czego-facebook-nie-chcial-nam-powiedziec/](https://demagog.org.pl/analizy_i_raporty/facebook-files-czyli-o-tym-czego-facebook-nie-chcial-nam-powiedziec/)
@@ -134,7 +134,7 @@
  - [https://wyborcza.pl/7,75968,27376053,niech-szlag-trafi-wasze-biznesy.html?disableRedirects=true](https://wyborcza.pl/7,75968,27376053,niech-szlag-trafi-wasze-biznesy.html?disableRedirects=true)
  - date published: 2021-07-27 21:53:56+00:00
  - user: rumpel
- - tags: ['vaccine', 'propaganda', 'covid']
+ - tags: ['hatespeech', 'vaccine', 'covid', 'propaganda']
 
 ## Zostałem szczepionkowym rasistą. „Ludzie w pełni zaszczepieni powinni mieć specjalne przywileje”
  - [https://www.wprost.pl/kraj/10467413/zostalem-szczepionkowym-rasista-zaszczepieni-powinni-miec-przywileje.html](https://www.wprost.pl/kraj/10467413/zostalem-szczepionkowym-rasista-zaszczepieni-powinni-miec-przywileje.html)
@@ -255,6 +255,12 @@
  - date published: 2021-02-28 14:05:08+00:00
  - user: rumpel
  - tags: ['israel', 'covid', 'vaccine', 'segregation', 'mandates']
+
+## Zawodowiec (2002) - polski film dokumentalny
+ - [https://www.youtube.com/watch?v=a6AVCDMHWfg](https://www.youtube.com/watch?v=a6AVCDMHWfg)
+ - date published: 2021-02-19 09:42:45+00:00
+ - user: rumpel
+ - tags: ['documentary']
 
 ## "Kanadyjczycy są aresztowani i wywożeni". Prawnicy reagują na koronawirusowe restrykcje
  - [https://www.polsatnews.pl/wiadomosc/2021-02-04/kanadyjczycy-sa-aresztowani-i-wywozeni-prawnicy-reaguja-na-koronawirusowe-restrykcje](https://www.polsatnews.pl/wiadomosc/2021-02-04/kanadyjczycy-sa-aresztowani-i-wywozeni-prawnicy-reaguja-na-koronawirusowe-restrykcje)

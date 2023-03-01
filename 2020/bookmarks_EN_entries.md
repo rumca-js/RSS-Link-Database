@@ -26,7 +26,7 @@
  - [https://www.aier.org/article/who-deletes-naturally-acquired-immunity-from-its-website/](https://www.aier.org/article/who-deletes-naturally-acquired-immunity-from-its-website/)
  - date published: 2020-12-23 11:38:00+00:00
  - user: None
- - tags: ['who', 'covid']
+ - tags: ['who', 'covid', 'scienceisdead']
 
 ## Writer Defends New Netflix Drama Bridgerton for Depicting Queen Charlotte as Black
  - [https://people.com/royals/writer-of-new-netflix-drama-bridgerton-defends-depicting-queen-charlotte-as-black/](https://people.com/royals/writer-of-new-netflix-drama-bridgerton-defends-depicting-queen-charlotte-as-black/)
@@ -74,7 +74,7 @@
  - [https://off-guardian.org/2020/12/18/who-finally-admits-pcr-tests-create-false-positives/](https://off-guardian.org/2020/12/18/who-finally-admits-pcr-tests-create-false-positives/)
  - date published: 2020-12-18 21:59:35+00:00
  - user: rumpel
- - tags: ['covid', 'testing']
+ - tags: ['covid lie', 'covid', 'testing']
 
 ## Americans Can't Sue Pfizer, Moderna In Case of Covid-19 Vaccine Side Effects, Here's Why
  - [https://www.news18.com/news/buzz/americans-cant-sue-pfizer-moderna-in-case-of-covid-19-vaccine-side-effects-heres-why-3190154.html](https://www.news18.com/news/buzz/americans-cant-sue-pfizer-moderna-in-case-of-covid-19-vaccine-side-effects-heres-why-3190154.html)
@@ -141,6 +141,12 @@
  - date published: 2020-12-10 13:00:02+00:00
  - user: rumpel
  - tags: ['surveillance', 'corporatocracy', 'bigbrother', 'biometric']
+
+## What psychology can tell us about why some people don’t wear masks – and how to change their minds
+ - [https://theconversation.com/what-psychology-can-tell-us-about-why-some-people-dont-wear-masks-and-how-to-change-their-minds-150343](https://theconversation.com/what-psychology-can-tell-us-about-why-some-people-dont-wear-masks-and-how-to-change-their-minds-150343)
+ - date published: 2020-12-09 10:01:53+00:00
+ - user: rumpel
+ - tags: ['masks', 'propaganda', 'mandates', 'covid']
 
 ## The American Companies Enabling China’s Uyghur Genocide
  - [https://www.theamericanconservative.com/the-american-companies-enabling-chinas-uyghur-genocide/](https://www.theamericanconservative.com/the-american-companies-enabling-chinas-uyghur-genocide/)
@@ -524,7 +530,7 @@
  - [https://edition.cnn.com/world/live-news/coronavirus-pandemic-08-21-20-intl#h_e869402891201d42d0937c0fe789a1df](https://edition.cnn.com/world/live-news/coronavirus-pandemic-08-21-20-intl#h_e869402891201d42d0937c0fe789a1df)
  - date published: 2020-08-21 11:39:16+00:00
  - user: rumpel
- - tags: ['covid', 'fearmongering']
+ - tags: ['covid lie', 'fearmongering', 'covid']
 
 ## Goodyear employees say new zero-tolerance policy from Akron HQ is discriminatory
  - [https://www.cleveland19.com/2020/08/18/goodyear-employees-say-new-zero-tolerance-policy-akron-hq-is-discriminatory/](https://www.cleveland19.com/2020/08/18/goodyear-employees-say-new-zero-tolerance-policy-akron-hq-is-discriminatory/)
@@ -646,6 +652,18 @@
  - user: None
  - tags: ['blm', 'mccloskey']
 
+## A $200 fine for not wearing a mask is fair, as long as free masks go to those in need
+ - [https://theconversation.com/a-200-fine-for-not-wearing-a-mask-is-fair-as-long-as-free-masks-go-to-those-in-need-142988](https://theconversation.com/a-200-fine-for-not-wearing-a-mask-is-fair-as-long-as-free-masks-go-to-those-in-need-142988)
+ - date published: 2020-07-22 09:56:58+00:00
+ - user: rumpel
+ - tags: ['masks', 'propaganda', 'mandates', 'covid']
+
+## Shaming people who refuse to wear face masks isn’t a good look
+ - [https://www.theguardian.com/commentisfree/2020/jul/22/shaming-people-who-refuse-to-wear-face-masks-isnt-a-good-look](https://www.theguardian.com/commentisfree/2020/jul/22/shaming-people-who-refuse-to-wear-face-masks-isnt-a-good-look)
+ - date published: 2020-07-22 06:00:05+00:00
+ - user: rumpel
+ - tags: ['masks', 'propaganda', 'mandates', 'covid']
+
 ## Gunmen Kill 18 Wedding Guests in Northern Nigeria
  - [https://www.thedefensepost.com/2020/07/21/gunmen-wedding-nigeria/](https://www.thedefensepost.com/2020/07/21/gunmen-wedding-nigeria/)
  - date published: 2020-07-21 21:04:07+00:00
@@ -730,6 +748,12 @@
  - user: None
  - tags: ['propaganda', 'censorship', 'facebook', 'hate speech', 'free speech', 'hypocrisy', 'stophateforprofit']
 
+## Face masks: Want to prevent another shutdown, save 33,000 lives and protect yourself? Wear a face mask, doctors say | CNN
+ - [https://edition.cnn.com/2020/06/25/health/face-mask-guidance-covid-19/index.html](https://edition.cnn.com/2020/06/25/health/face-mask-guidance-covid-19/index.html)
+ - date published: 2020-06-29 09:48:31+00:00
+ - user: rumpel
+ - tags: ['masks', 'mandates', 'covid']
+
 ## "Reddit will allow racist hate speech directed at ""majority"" populations and conservatives"
  - [https://twitter.com/TomFitton/status/1277667890913738753](https://twitter.com/TomFitton/status/1277667890913738753)
  - date published: 2020-06-29 06:52:34+00:00
@@ -747,6 +771,12 @@
  - date published: 2020-06-27 06:48:07+00:00
  - user: None
  - tags: ['windows', 'hacker']
+
+## How do you deal with people who refuse to wear a mask? - The Verge
+ - [https://www.theverge.com/21303553/face-mask-coronavirus-cdc-etiquette-public](https://www.theverge.com/21303553/face-mask-coronavirus-cdc-etiquette-public)
+ - date published: 2020-06-25 10:00:20+00:00
+ - user: rumpel
+ - tags: ['propaganda', 'fearmongering', 'mask', 'covid', 'mandates']
 
 ## BlackRock Is Biggest Beneficiary of Fed Purchases of Corporate Bond ETFs | Barron's
  - [https://www.barrons.com/articles/blackrock-is-biggest-beneficiary-of-fed-purchases-of-corporate-bond-etfs-51591034726](https://www.barrons.com/articles/blackrock-is-biggest-beneficiary-of-fed-purchases-of-corporate-bond-etfs-51591034726)

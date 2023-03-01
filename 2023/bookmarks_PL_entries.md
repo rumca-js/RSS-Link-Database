@@ -1,3 +1,9 @@
+## Była dziennikarka rozpowszechniała covidowe fake newsy. Kara: dwa lata więzienia - Puls Medycyny - pulsmedycyny.pl
+ - [https://pulsmedycyny.pl/byla-dziennikarka-rozpowszechniala-covidowe-fake-newsy-kara-dwa-lata-wiezienia-1178624](https://pulsmedycyny.pl/byla-dziennikarka-rozpowszechniala-covidowe-fake-newsy-kara-dwa-lata-wiezienia-1178624)
+ - date published: 2023-02-27 10:37:42+00:00
+ - user: rumpel
+ - tags: ['misinformation']
+
 ## Polska nie radzi sobie z odnawialnymi źródłami energii. Rezygnacja z aut spalinowych wypada jeszcze bardziej absurdalnie
  - [https://www.chip.pl/2023/02/polska-odnawialne-zrodla-energii-raport-unii-europejskiej](https://www.chip.pl/2023/02/polska-odnawialne-zrodla-energii-raport-unii-europejskiej)
  - date published: 2023-02-18 17:00:00+00:00
