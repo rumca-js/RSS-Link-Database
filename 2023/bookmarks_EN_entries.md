@@ -1,3 +1,21 @@
+## Twitter 2 0 is a BAD idea: why the "Everything App" is a nightmare.
+ - [https://www.youtube.com/watch?v=iyMTTPGcSpI](https://www.youtube.com/watch?v=iyMTTPGcSpI)
+ - date published: 2023-03-01 18:19:46+00:00
+ - user: rumpel
+ - tags: ['everythingapp', 'technofeudalism']
+
+## Dr.  Amazon will see you now
+ - [https://www.youtube.com/watch?v=Orc9G5DbiCg](https://www.youtube.com/watch?v=Orc9G5DbiCg)
+ - date published: 2023-03-01 17:00:30+00:00
+ - user: rumpel
+ - tags: ['corporatocracy']
+
+## YouTube Accused of Illegally Gathering Data on Children in Official Complaint by UK Parent
+ - [https://www.theepochtimes.com/youtube-accused-of-illegally-gathering-data-on-children-in-official-complaint-by-uk-parent_5091263.html](https://www.theepochtimes.com/youtube-accused-of-illegally-gathering-data-on-children-in-official-complaint-by-uk-parent_5091263.html)
+ - date published: 2023-03-01 13:12:42+00:00
+ - user: rumpel
+ - tags: ['youtube', 'privacy']
+
 ## Why CMake Sucks?
  - [https://twdev.blog/2021/08/cmake/](https://twdev.blog/2021/08/cmake/)
  - date published: 2023-02-28 00:32:24+00:00
