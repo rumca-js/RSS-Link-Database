@@ -890,7 +890,7 @@
  - [https://www.livescience.com/coronavirus-wuhan-lab-complicated-origins.html](https://www.livescience.com/coronavirus-wuhan-lab-complicated-origins.html)
  - date published: 2020-04-18 06:52:28+00:00
  - user: rumpel
- - tags: ['wuhan', 'covid', 'covid origins']
+ - tags: ['lableak', 'wuhan', 'covid', 'covid origins']
 
 ## 3 Undeniable Reasons Why You Need Online Anonymity
  - [https://www.makeuseof.com/tag/3-undeniable-reasons-need-online-anonymity/](https://www.makeuseof.com/tag/3-undeniable-reasons-need-online-anonymity/)
@@ -962,7 +962,7 @@
  - [https://www.cnbc.com/2020/02/14/facebook-google-amazon-met-with-who-to-talk-coronavirus-misinformation.html](https://www.cnbc.com/2020/02/14/facebook-google-amazon-met-with-who-to-talk-coronavirus-misinformation.html)
  - date published: 2020-02-14 13:01:29+00:00
  - user: rumpel
- - tags: ['misinformation', 'covid', 'who', 'censorship', 'amazon', 'google', 'facebook']
+ - tags: ['censorship', 'who', 'amazon', 'google', 'misinformation', 'facebook', 'lableak', 'covid']
 
 ## Becoming a Technical Leader
  - [https://www.linkedin.com/pulse/becoming-technical-leader-michael-vanhoutte/](https://www.linkedin.com/pulse/becoming-technical-leader-michael-vanhoutte/)

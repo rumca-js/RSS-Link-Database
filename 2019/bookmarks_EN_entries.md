@@ -130,6 +130,12 @@
  - user: None
  - tags: ['event 201', 'pandemic', 'bill gates', 'covid']
 
+## How a glitch in India's biometric welfare system can be lethal
+ - [https://www.theguardian.com/technology/2019/oct/16/glitch-india-biometric-welfare-system-starvation](https://www.theguardian.com/technology/2019/oct/16/glitch-india-biometric-welfare-system-starvation)
+ - date published: 2019-10-16 09:00:13+00:00
+ - user: rumpel
+ - tags: ['technofeudalism', 'biometric']
+
 ## NSA: A Declassified Court Ruling Shows How the FBI Abused NSA Mass Surveillance Data
  - [https://theintercept.com/2019/10/10/fbi-nsa-mass-surveillance-abuse/](https://theintercept.com/2019/10/10/fbi-nsa-mass-surveillance-abuse/)
  - date published: 2019-10-10 13:37:51+00:00
@@ -483,6 +489,12 @@
  - date published: 2019-04-26 13:05:08+00:00
  - user: None
  - tags: $tags
+
+## Marble Conveyor Belt Completed! - Marble Machine X #78
+ - [https://www.youtube.com/watch?v=1AEvQAg6TE0](https://www.youtube.com/watch?v=1AEvQAg6TE0)
+ - date published: 2019-04-24 21:17:54+00:00
+ - user: rumpel
+ - tags: ['technology', 'music']
 
 ## Giorgia Meloni's electrifying speech at the World Congress of Families, English subtitles
  - [https://www.youtube.com/watch?v=y_Z1LClnhsk](https://www.youtube.com/watch?v=y_Z1LClnhsk)

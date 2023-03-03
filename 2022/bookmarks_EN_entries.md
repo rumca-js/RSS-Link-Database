@@ -182,7 +182,7 @@
  - [https://www.theverge.com/2022/12/27/23528338/us-military-biometric-devices-fingerprints-pictures-iris-scans-afghanistan](https://www.theverge.com/2022/12/27/23528338/us-military-biometric-devices-fingerprints-pictures-iris-scans-afghanistan)
  - date published: 2022-12-28 00:21:14+00:00
  - user: rumpel
- - tags: ['privacy', 'data leak']
+ - tags: ['privacy', 'data leak', 'biometric']
 
 ## Transgender pansexuality Australian Human Rights Commission video slammed as woke gender ideology
  - [https://www.dailymail.co.uk/news/article-11577527/Transgender-pansexuality-Australian-Human-Rights-Commission-video-slammed-woke-gender-ideology.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11577527/Transgender-pansexuality-Australian-Human-Rights-Commission-video-slammed-woke-gender-ideology.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1924,6 +1924,12 @@
  - user: None
  - tags: ['wikileaks', 'assange', 'government']
 
+## Online Safety Bill changes: End-to-end encryption fears remain
+ - [https://techmonitor.ai/policy/online-safety-bill-changes-end-to-end-encryption](https://techmonitor.ai/policy/online-safety-bill-changes-end-to-end-encryption)
+ - date published: 2022-11-29 06:50:23+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'bigbrother', 'privacy']
+
 ## 5.4 million Twitter users' stolen data leaked online — more shared privately
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59656](https://www.codeproject.com/script/News/View.aspx?nwid=59656)
  - date published: 2022-11-29 05:00:00+00:00
@@ -2133,6 +2139,12 @@
  - date published: 2022-11-24 08:42:39+00:00
  - user: None
  - tags: ['privacy', 'tracking', 'duckduckgo']
+
+## Surveillance powers in UK’s Online Safety Bill are risk to E2EE, warns legal expert
+ - [https://techcrunch.com/2022/11/24/uk-online-safety-bill-css-e2ee/](https://techcrunch.com/2022/11/24/uk-online-safety-bill-css-e2ee/)
+ - date published: 2022-11-24 06:47:13+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'bigbrother', 'privacy']
 
 ## Videolan: Google refuses to take down or unlist domains with tons of malware
  - [https://twitter.com/videolan/status/1595524698351230981](https://twitter.com/videolan/status/1595524698351230981)
@@ -2541,12 +2553,6 @@
  - date published: 2022-11-13 14:50:04+00:00
  - user: None
  - tags: ['stock', 'woke', 'disney']
-
-## Goodbye Twitter, Hello Fediverse! - Xe
- - [https://xeiaso.net/blog/rip-twitter](https://xeiaso.net/blog/rip-twitter)
- - date published: 2022-11-13 11:11:58.409760+00:00
- - user: Thomas Pain
- - tags: $tags
 
 ## Iranian refugee who inspired Spielberg's film "The Terminal" dies inside Paris airport
  - [https://www.cnn.com/2022/11/12/europe/the-terminal-movie-paris-airport-mehran-karimi-nasseri-dies-intl-hnk/index.html](https://www.cnn.com/2022/11/12/europe/the-terminal-movie-paris-airport-mehran-karimi-nasseri-dies-intl-hnk/index.html)
@@ -7984,6 +7990,12 @@
  - user: None
  - tags: ['privacy', 'tracking', 'duckduckgo']
 
+## The UK Online Safety Bill Attacks Free Speech and Encryption | Electronic Frontier Foundation
+ - [https://www.eff.org/deeplinks/2022/08/uks-online-safety-bill-attacks-free-speech-and-encryption](https://www.eff.org/deeplinks/2022/08/uks-online-safety-bill-attacks-free-speech-and-encryption)
+ - date published: 2022-08-05 06:49:00+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'bigbrother', 'england', 'privacy']
+
 ## The OG Social Network: Other People’s Websites - Jim Nielsen’s Blog
  - [https://blog.jim-nielsen.com/2022/other-peoples-websites/](https://blog.jim-nielsen.com/2022/other-peoples-websites/)
  - date published: 2022-08-04 20:54:17.041706+00:00
@@ -9436,12 +9448,6 @@
  - user: Thomas Pain
  - tags: $tags
 
-## Man accidentally ejects himself from fighter jet during surprise flight | France | The Guardian
- - [https://www.theguardian.com/world/2020/apr/14/man-accidentally-ejects-himself-from-fighter-jet-during-surprise-flight](https://www.theguardian.com/world/2020/apr/14/man-accidentally-ejects-himself-from-fighter-jet-during-surprise-flight)
- - date published: 2022-05-02 15:45:25.483055+00:00
- - user: Thomas Pain
- - tags: $tags
-
 ## New government maps show nearly all of the West is in drought and it's not even summer yet: "This is unprecedented" - CBS News
  - [https://www.cbsnews.com/news/west-climate-change-water/](https://www.cbsnews.com/news/west-climate-change-water/)
  - date published: 2022-05-02 13:43:51.776205+00:00
@@ -10862,7 +10868,7 @@
  - [https://krebsonsecurity.com/2022/02/irs-to-ditch-biometric-requirement-for-online-access/](https://krebsonsecurity.com/2022/02/irs-to-ditch-biometric-requirement-for-online-access/)
  - date published: 2022-02-08 08:29:01.624610+00:00
  - user: Thomas Pain
- - tags: $tags
+ - tags: ['biometric']
 
 ## One machine can go pretty far if you build things properly
  - [https://rachelbythebay.com/w/2022/01/27/scale/](https://rachelbythebay.com/w/2022/01/27/scale/)
@@ -11072,7 +11078,7 @@
  - [https://nypost.com/2022/01/24/emails-reveal-suspected-covid-leaked-from-a-wuhan-lab-then-censored-themselves/](https://nypost.com/2022/01/24/emails-reveal-suspected-covid-leaked-from-a-wuhan-lab-then-censored-themselves/)
  - date published: 2022-01-24 21:48:29+00:00
  - user: rumpel
- - tags: ['wuhan', 'fauci', 'covid']
+ - tags: ['lableak', 'wuhan', 'covid', 'fauci']
 
 ## Shell CCS facility in Canada emits more than it captures, study says
  - [https://www.cnbc.com/2022/01/24/shell-ccs-facility-in-canada-emits-more-than-it-captures-study-says.html](https://www.cnbc.com/2022/01/24/shell-ccs-facility-in-canada-emits-more-than-it-captures-study-says.html)

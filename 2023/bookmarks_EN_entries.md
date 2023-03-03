@@ -1,3 +1,39 @@
+## The moral case against equity language
+ - [https://www.theatlantic.com/magazine/archive/2023/04/equity-language-guides-sierra-club-banned-words/673085/](https://www.theatlantic.com/magazine/archive/2023/04/equity-language-guides-sierra-club-banned-words/673085/)
+ - date published: 2023-03-02 18:43:54+00:00
+ - user: rumpel
+ - tags: ['newspeak', 'woke']
+
+## The Lockdown Files
+ - [https://www.telegraph.co.uk/news/lockdown-files/](https://www.telegraph.co.uk/news/lockdown-files/)
+ - date published: 2023-03-02 15:55:38+00:00
+ - user: rumpel
+ - tags: ['covid', 'lockdown files']
+
+## Germany opposes EU plans for client-side scanning
+ - [https://tutanota.com/blog/posts/germany-against-client-side-scanning-csam](https://tutanota.com/blog/posts/germany-against-client-side-scanning-csam)
+ - date published: 2023-03-02 15:08:10+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'germany']
+
+## ChatGPT and the AI Apocalypse
+ - [https://new.pythonforengineers.com/blog/ai-apopcalypse-more-like-blindsight-less-like-terminator/](https://new.pythonforengineers.com/blog/ai-apopcalypse-more-like-blindsight-less-like-terminator/)
+ - date published: 2023-03-02 14:05:54+00:00
+ - user: rumpel
+ - tags: ['chatgpt']
+
+## The Death of Europe's Last Electronics Giant
+ - [https://www.youtube.com/watch?v=WE58YisgFeQ](https://www.youtube.com/watch?v=WE58YisgFeQ)
+ - date published: 2023-03-02 11:24:28+00:00
+ - user: rumpel
+ - tags: ['philips', 'technology']
+
+## AGENT ELVIS - Official Trailer (2023) Matthew McConaughey, Johnny Knoxville, Don Cheadle
+ - [https://www.youtube.com/watch?v=zFJ6wZHNkd8](https://www.youtube.com/watch?v=zFJ6wZHNkd8)
+ - date published: 2023-03-02 02:00:29+00:00
+ - user: rumpel
+ - tags: ['funny']
+
 ## Twitter 2 0 is a BAD idea: why the "Everything App" is a nightmare.
  - [https://www.youtube.com/watch?v=iyMTTPGcSpI](https://www.youtube.com/watch?v=iyMTTPGcSpI)
  - date published: 2023-03-01 18:19:46+00:00
@@ -10,17 +46,41 @@
  - user: rumpel
  - tags: ['corporatocracy']
 
+## Hancock’s Lockdown Files Show There Was No  ‘Plandemic’
+ - [https://dailysceptic.org/2023/03/01/hancocks-lockdown-files-show-there-was-no-plandemic/](https://dailysceptic.org/2023/03/01/hancocks-lockdown-files-show-there-was-no-plandemic/)
+ - date published: 2023-03-01 15:10:26+00:00
+ - user: rumpel
+ - tags: ['covid', 'lockdown files']
+
 ## YouTube Accused of Illegally Gathering Data on Children in Official Complaint by UK Parent
  - [https://www.theepochtimes.com/youtube-accused-of-illegally-gathering-data-on-children-in-official-complaint-by-uk-parent_5091263.html](https://www.theepochtimes.com/youtube-accused-of-illegally-gathering-data-on-children-in-official-complaint-by-uk-parent_5091263.html)
  - date published: 2023-03-01 13:12:42+00:00
  - user: rumpel
  - tags: ['youtube', 'privacy']
 
+## FBI chief Christopher Wray says China lab leak most likely - BBC News
+ - [https://www.bbc.com/news/world-us-canada-64806903](https://www.bbc.com/news/world-us-canada-64806903)
+ - date published: 2023-03-01 07:38:23+00:00
+ - user: rumpel
+ - tags: ['wuhan', 'lableak', 'fbi', 'covid']
+
+## Ford files patent to allow self-driving cars to drive away from owners who don't keep up with payments | PC Gamer
+ - [https://www.pcgamer.com/ford-files-patent-to-allow-self-driving-cars-to-drive-away-from-their-owners/](https://www.pcgamer.com/ford-files-patent-to-allow-self-driving-cars-to-drive-away-from-their-owners/)
+ - date published: 2023-03-01 06:56:30+00:00
+ - user: rumpel
+ - tags: ['youwillownnothing', 'subscription', 'technofeudalism']
+
 ## Why CMake Sucks?
  - [https://twdev.blog/2021/08/cmake/](https://twdev.blog/2021/08/cmake/)
  - date published: 2023-02-28 00:32:24+00:00
  - user: rumpel
  - tags: ['programming', 'cmake']
+
+## South Africa on the verge of 'collapse' as blackouts threaten all-out civil war  | Science | News | Express.co.uk
+ - [https://www.express.co.uk/news/science/1740247/south-africa-verge-collapse-civil-war-threat-looms-blackout-fears](https://www.express.co.uk/news/science/1740247/south-africa-verge-collapse-civil-war-threat-looms-blackout-fears)
+ - date published: 2023-02-27 07:20:39+00:00
+ - user: rumpel
+ - tags: ['rpa', 'south africa', 'crisis']
 
 ## Covid Likely Originated From Lab Leak, Energy Department Reportedly Finds—But Biden Aide Says There’s No ‘Definitive Answer’
  - [https://www.forbes.com/sites/marisadellatto/2023/02/26/covid-likely-originated-from-lab-leak-energy-department-reportedly-finds-but-biden-aide-says-theres-no-definitive-answer/](https://www.forbes.com/sites/marisadellatto/2023/02/26/covid-likely-originated-from-lab-leak-energy-department-reportedly-finds-but-biden-aide-says-theres-no-definitive-answer/)
@@ -63,6 +123,12 @@
  - date published: 2023-02-24 17:28:58+00:00
  - user: rumpel
  - tags: ['google', 'antitrust', 'privacy', 'bigtech']
+
+## Signal app warns it will quit UK if law weakens end-to-end encryption
+ - [https://www.theguardian.com/technology/2023/feb/24/signal-app-warns-it-will-quit-uk-if-law-weakens-end-to-end-encryption](https://www.theguardian.com/technology/2023/feb/24/signal-app-warns-it-will-quit-uk-if-law-weakens-end-to-end-encryption)
+ - date published: 2023-02-24 14:08:55+00:00
+ - user: rumpel
+ - tags: ['signal', 'bigbrother', 'surveillance', 'england', 'privacy']
 
 ## Google blocks news content for some Canadians in response to proposed rules
  - [https://www.theverge.com/2023/2/24/23613187/google-canada-news-block-online-act-bill-c-18](https://www.theverge.com/2023/2/24/23613187/google-canada-news-block-online-act-bill-c-18)
@@ -526,6 +592,12 @@
  - user: rumpel
  - tags: ['china', 'privacy', 'wechat', 'surveillance']
 
+## Biometric technology could kill off paper passports, says border boss
+ - [https://www.theguardian.com/politics/2023/feb/03/biometric-technology-paper-passports-redundant](https://www.theguardian.com/politics/2023/feb/03/biometric-technology-paper-passports-redundant)
+ - date published: 2023-02-03 13:44:17+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'bigbrother', 'biometric']
+
 ## Exclusive Q&A John Carmack’s ‘Different Path’ to Artificial General Intelligence
  - [https://dallasinnovates.com/exclusive-qa-john-carmacks-different-path-to-artificial-general-intelligence/](https://dallasinnovates.com/exclusive-qa-john-carmacks-different-path-to-artificial-general-intelligence/)
  - date published: 2023-02-03 06:01:47+00:00
@@ -554,7 +626,7 @@
  - [https://reclaimthenet.org/netherlands-digital-biometric-centralized-data](https://reclaimthenet.org/netherlands-digital-biometric-centralized-data)
  - date published: 2023-02-02 19:02:36+00:00
  - user: rumpel
- - tags: ['digital identity']
+ - tags: ['digital identity', 'biometric']
 
 ## AI tool ChatGPT is accused of bias after writing poem about Biden but refusing to create one for Trump
  - [https://reclaimthenet.org/chatgpt-trump-biden-poem](https://reclaimthenet.org/chatgpt-trump-biden-poem)
@@ -934,7 +1006,7 @@
  - user: rumpel
  - tags: ['google', 'noprivacy']
 
-## Judge questions clarity of new California law targeting doctors who share COVID-19 misinformation  Read more at: https://www.sacbee.com/news/politics-government/article271502447.html#storylink=cpy
+## Judge questions clarity of new California law targeting doctors who share COVID-19 misinformation
  - [https://www.sacbee.com/news/politics-government/article271502447.html](https://www.sacbee.com/news/politics-government/article271502447.html)
  - date published: 2023-01-23 13:39:38+00:00
  - user: rumpel
@@ -1258,11 +1330,11 @@
  - user: rumpel
  - tags: ['meta', 'privacy', 'surveillance', 'facebook']
 
-## Why Modern Movies Suck - They Can't Write Men (Part 1)
+## Why Modern Movies Suck - They Hate Men (Part 1)
  - [https://www.youtube.com/watch?v=tUWe11I_7Oo](https://www.youtube.com/watch?v=tUWe11I_7Oo)
  - date published: 2023-01-13 23:00:02+00:00
  - user: rumpel
- - tags: ['woke', 'feminism', 'propaganda']
+ - tags: ['feminism', 'woke', 'movies', 'propaganda']
 
 ## GitHub – pi-hole/pi-hole: A black hole for Internet advertisements
  - [https://github.com/pi-hole/pi-hole](https://github.com/pi-hole/pi-hole)

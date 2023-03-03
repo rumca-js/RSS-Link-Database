@@ -154,6 +154,12 @@
  - user: None
  - tags: ['socialism', 'central planning', 'america']
 
+## Wintergatan - Marble Machine (music instrument using 2000 marbles)
+ - [https://www.youtube.com/watch?v=IvUU8joBb1Q](https://www.youtube.com/watch?v=IvUU8joBb1Q)
+ - date published: 2016-03-02 21:06:57+00:00
+ - user: rumpel
+ - tags: ['technology', 'music']
+
 ## Running a Buffer Overflow Attack - Computerphile
  - [https://www.youtube.com/watch?v=1S0aBV-Waeo](https://www.youtube.com/watch?v=1S0aBV-Waeo)
  - date published: 2016-03-02 10:02:31+00:00
