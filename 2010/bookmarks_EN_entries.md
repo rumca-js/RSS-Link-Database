@@ -52,6 +52,12 @@
  - user: rumpel
  - tags: ['surveillance', 'facebook', 'dark design', 'tracking', 'technofeudalism', 'privacy', 'bigtech']
 
+## Face masks to prevent transmission of influenza virus: a systematic review | Epidemiology & Infection | Cambridge Core
+ - [https://www.cambridge.org/core/journals/epidemiology-and-infection/article/face-masks-to-prevent-transmission-of-influenza-virus-a-systematic-review/64D368496EBDE0AFCC6639CCC9D8BC05](https://www.cambridge.org/core/journals/epidemiology-and-infection/article/face-masks-to-prevent-transmission-of-influenza-virus-a-systematic-review/64D368496EBDE0AFCC6639CCC9D8BC05)
+ - date published: 2010-01-22 15:33:49+00:00
+ - user: rumpel
+ - tags: ['masks']
+
 ## Singletons Considered Harmful
  - [https://kentonshouse.com/singletons](https://kentonshouse.com/singletons)
  - date published: 2010-01-05 10:07:14+00:00

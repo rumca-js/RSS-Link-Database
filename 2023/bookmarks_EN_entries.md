@@ -4,6 +4,12 @@
  - user: rumpel
  - tags: ['newspeak', 'woke']
 
+## Matt Hancock: Eight government WhatsApp Covid messages revealed
+ - [https://www.bbc.co.uk/news/uk-64823096?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-64823096?at_medium=RSS&at_campaign=KARANGA)
+ - date published: 2023-03-02 18:04:41+00:00
+ - user: rumpel
+ - tags: ['lockdown files', 'covid']
+
 ## The Lockdown Files
  - [https://www.telegraph.co.uk/news/lockdown-files/](https://www.telegraph.co.uk/news/lockdown-files/)
  - date published: 2023-03-02 15:55:38+00:00
@@ -70,6 +76,12 @@
  - user: rumpel
  - tags: ['youwillownnothing', 'subscription', 'technofeudalism']
 
+## Legendary journalist Seymour Hersh under fire for his reporting on the Nord Stream pipeline sabotage | USA | EL PAÍS English Edition
+ - [https://english.elpais.com/usa/2023-02-28/legendary-journalist-seymour-hersh-under-fire-for-his-reporting-on-the-nord-stream-pipeline-sabotage.html](https://english.elpais.com/usa/2023-02-28/legendary-journalist-seymour-hersh-under-fire-for-his-reporting-on-the-nord-stream-pipeline-sabotage.html)
+ - date published: 2023-02-28 14:58:26+00:00
+ - user: rumpel
+ - tags: ['nord stream', 'russia']
+
 ## Why CMake Sucks?
  - [https://twdev.blog/2021/08/cmake/](https://twdev.blog/2021/08/cmake/)
  - date published: 2023-02-28 00:32:24+00:00
@@ -81,6 +93,12 @@
  - date published: 2023-02-27 07:20:39+00:00
  - user: rumpel
  - tags: ['rpa', 'south africa', 'crisis']
+
+## Lab Leak Most Likely Caused Pandemic, Energy Dept. Says
+ - [https://www.nytimes.com/2023/02/26/us/politics/china-lab-leak-coronavirus-pandemic.html](https://www.nytimes.com/2023/02/26/us/politics/china-lab-leak-coronavirus-pandemic.html)
+ - date published: 2023-02-27 01:47:02+00:00
+ - user: rumpel
+ - tags: ['wuhan', 'lableak', 'covid']
 
 ## Covid Likely Originated From Lab Leak, Energy Department Reportedly Finds—But Biden Aide Says There’s No ‘Definitive Answer’
  - [https://www.forbes.com/sites/marisadellatto/2023/02/26/covid-likely-originated-from-lab-leak-energy-department-reportedly-finds-but-biden-aide-says-theres-no-definitive-answer/](https://www.forbes.com/sites/marisadellatto/2023/02/26/covid-likely-originated-from-lab-leak-energy-department-reportedly-finds-but-biden-aide-says-theres-no-definitive-answer/)
@@ -526,6 +544,12 @@
  - user: rumpel
  - tags: ['bill gates', 'climate change', 'billionaires', 'hipycrisy']
 
+## How America Took Out The Nord Stream Pipeline
+ - [https://seymourhersh.substack.com/p/how-america-took-out-the-nord-stream](https://seymourhersh.substack.com/p/how-america-took-out-the-nord-stream)
+ - date published: 2023-02-08 14:57:56+00:00
+ - user: rumpel
+ - tags: ['nord stream', 'russia']
+
 ## GOP Rep Nancy Mace Rips Ex-Twitter Official for Censoring Stanford Doc’s Covid Opinions | National Review
  - [https://www.nationalreview.com/news/whered-you-go-to-medical-school-gop-rep-rips-ex-twitter-official-for-censoring-stanford-docs-covid-opinions/](https://www.nationalreview.com/news/whered-you-go-to-medical-school-gop-rep-rips-ex-twitter-official-for-censoring-stanford-docs-covid-opinions/)
  - date published: 2023-02-08 13:57:58+00:00
@@ -777,6 +801,12 @@
  - date published: 2023-01-31 02:11:22+00:00
  - user: rumpel
  - tags: ['corporatocracy', 'facebook', 'bigtech']
+
+## Google Fired Exec For Not Being ‘Inclusive’ By Favoring High Performers, Lawsuit Alleges
+ - [https://www.dailywire.com/news/google-fired-exec-for-not-being-inclusive-by-favoring-high-performers-lawsuit-alleges](https://www.dailywire.com/news/google-fired-exec-for-not-being-inclusive-by-favoring-high-performers-lawsuit-alleges)
+ - date published: 2023-01-30 18:34:52+00:00
+ - user: rumpel
+ - tags: ['google', 'woke']
 
 ## Dutch Gov’t Plans New Digital ID Project With Canada, Says WEF Initiative Is Done
  - [https://www.theepochtimes.com/dutch-govt-plans-new-digital-id-project-with-canada-says-wef-initiative-is-done_5020401.html](https://www.theepochtimes.com/dutch-govt-plans-new-digital-id-project-with-canada-says-wef-initiative-is-done_5020401.html)
@@ -1898,7 +1928,7 @@
  - [https://chriscoyier.net/2023/01/04/what-does-it-look-like-for-the-web-to-lose/](https://chriscoyier.net/2023/01/04/what-does-it-look-like-for-the-web-to-lose/)
  - date published: 2023-01-04 11:45:48+00:00
  - user: rumpel
- - tags: ['web', 'webapp', 'pwa', 'internet', 'programming', 'darkdesign']
+ - tags: ['darkdesign', 'webapp', 'web', 'pwa', 'programming', 'internet', 'android']
 
 ## FDA to expand availability of abortion pills
  - [http://www.msn.com/en-us/news/politics/fda-to-expand-availability-of-abortion-pills/ar-AA15WOky?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/fda-to-expand-availability-of-abortion-pills/ar-AA15WOky?li=BBnbcA1&srcref=rss)

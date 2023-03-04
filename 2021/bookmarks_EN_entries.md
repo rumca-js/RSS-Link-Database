@@ -1516,6 +1516,12 @@
  - user: None
  - tags: ['algorithm', 'internet', 'search engines', 'dead internet', 'google search']
 
+## DRASTIC Analysis of the DEFUSE Documents – D.R.A.S.T.I.C. Research
+ - [https://drasticresearch.org/2021/09/20/1583/](https://drasticresearch.org/2021/09/20/1583/)
+ - date published: 2021-09-20 14:51:24+00:00
+ - user: rumpel
+ - tags: ['wuhan', 'lableak', 'covid']
+
 ## Why you need a personal laptop - The Verge
  - [https://www.theverge.com/22671697/personal-laptop-work-security-privacy](https://www.theverge.com/22671697/personal-laptop-work-security-privacy)
  - date published: 2021-09-19 18:21:54.546556+00:00
@@ -2055,6 +2061,12 @@
  - date published: 2021-08-24 09:03:27.615975+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Cancel Me: John Cleese to present Channel 4 show on ‘woke’ thought | John Cleese | The Guardian
+ - [https://www.theguardian.com/culture/2021/aug/24/cancel-me-john-cleese-to-present-channel-4-show-on-woke-thought](https://www.theguardian.com/culture/2021/aug/24/cancel-me-john-cleese-to-present-channel-4-show-on-woke-thought)
+ - date published: 2021-08-24 07:29:07+00:00
+ - user: rumpel
+ - tags: ['cancel culture', 'free speech', 'woke']
 
 ## Should Your Web History Impact Your Credit Score? The IMF Thinks So - ExtremeTech
  - [https://www.extremetech.com/internet/326088-should-your-web-history-impact-your-credit-score-the-imf-thinks-so](https://www.extremetech.com/internet/326088-should-your-web-history-impact-your-credit-score-the-imf-thinks-so)

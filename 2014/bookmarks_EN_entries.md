@@ -10,6 +10,12 @@
  - user: rumpel
  - tags: ['church', 'evolution', 'religion']
 
+## White House to Cut Funding for Risky Biological Study - The New York Times
+ - [https://www.nytimes.com/2014/10/18/us/white-house-to-cut-funding-for-risky-biological-study.html](https://www.nytimes.com/2014/10/18/us/white-house-to-cut-funding-for-risky-biological-study.html)
+ - date published: 2014-10-18 14:48:23+00:00
+ - user: rumpel
+ - tags: ['sars', 'covid']
+
 ## 7 Propaganda Techniques Used on You Every Day
  - [https://www.youtube.com/watch?v=q8R9MDt4jEc](https://www.youtube.com/watch?v=q8R9MDt4jEc)
  - date published: 2014-10-15 16:09:26+00:00

@@ -850,6 +850,12 @@
  - user: None
  - tags: $tags
 
+## Ricky Gervais – Golden Globes 2020 (Uncensored, HD)
+ - [https://www.youtube.com/watch?v=iJOb9xHggS4](https://www.youtube.com/watch?v=iJOb9xHggS4)
+ - date published: 2020-05-29 07:20:46+00:00
+ - user: rumpel
+ - tags: ['free speech', 'woke']
+
 ## Roko's Basilisk: The Most Terrifying Thought Experiment
  - [https://www.youtube.com/watch?v=ut-zGHLAVLI](https://www.youtube.com/watch?v=ut-zGHLAVLI)
  - date published: 2020-05-28 21:22:21+00:00
@@ -933,6 +939,12 @@
  - date published: 2020-03-12 20:05:49+00:00
  - user: rumpel
  - tags: ['scienceisdead', 'iq', 'science']
+
+## Surgeon General Urges the Public to Stop Buying Face Masks - The New York Times
+ - [https://www.nytimes.com/2020/02/29/health/coronavirus-n95-face-masks.html](https://www.nytimes.com/2020/02/29/health/coronavirus-n95-face-masks.html)
+ - date published: 2020-02-29 15:28:58+00:00
+ - user: rumpel
+ - tags: ['masks', 'covid']
 
 ## Your smart speaker could be listening in on your conversations by accident
  - [https://www.techradar.com/news/your-smart-speaker-could-be-accidentally-listening-in-on-your-conversations](https://www.techradar.com/news/your-smart-speaker-could-be-accidentally-listening-in-on-your-conversations)
@@ -1035,6 +1047,12 @@
  - date published: 2020-01-08 07:50:34+00:00
  - user: rumpel
  - tags: ['lableak', 'covid origins', 'covid', 'fearmongering']
+
+## Joe Rogan on Ricky Gervais' Golden Globes Monologue
+ - [https://www.youtube.com/watch?v=WRbaQrb3Jhk](https://www.youtube.com/watch?v=WRbaQrb3Jhk)
+ - date published: 2020-01-07 07:37:49+00:00
+ - user: rumpel
+ - tags: ['cancel culture', 'free speech', 'woke']
 
 ## A Look Inside Jeffrey Epstein’s Prison Cell
  - [https://www.thecrimemag.com/epsteins-prison-cell/](https://www.thecrimemag.com/epsteins-prison-cell/)

@@ -184,6 +184,12 @@
  - user: rumpel
  - tags: ['covid', 'pfizer', 'mrna', 'vaccine', 'biontech']
 
+## In full: Rowan Atkinson on free speech
+ - [https://www.youtube.com/watch?v=BiqDZlAZygU](https://www.youtube.com/watch?v=BiqDZlAZygU)
+ - date published: 2018-08-15 07:16:33+00:00
+ - user: rumpel
+ - tags: ['cancel culture', 'woke', 'free speech']
+
 ## What are the most pressing world problems?
  - [https://80000hours.org/problem-profiles/](https://80000hours.org/problem-profiles/)
  - date published: 2018-08-04 17:15:30+00:00
