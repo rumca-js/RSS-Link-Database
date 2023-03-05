@@ -40,6 +40,12 @@
  - user: rumpel
  - tags: ['doom3', 'programming', 'games']
 
+## A Fink-ing Mess!
+ - [https://www.cnbc.com/2012/06/01/a-finking-mess.html](https://www.cnbc.com/2012/06/01/a-finking-mess.html)
+ - date published: 2012-06-01 22:23:04+00:00
+ - user: rumpel
+ - tags: ['blackrock', 'larry fink']
+
 ## Introduction to Sockets Programming in C using TCP/IP
  - [https://www.csd.uoc.gr/~hy556/material/tutorials/cs556-3rd-tutorial.pdf](https://www.csd.uoc.gr/~hy556/material/tutorials/cs556-3rd-tutorial.pdf)
  - date published: 2012-05-05 13:30:26+00:00

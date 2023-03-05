@@ -346,6 +346,12 @@
  - user: None
  - tags: ['oculus', 'virtual reality', 'facebook', 'privacy', 'meta']
 
+## Meet Aladdin, the computer "more powerful than traditional politics"
+ - [https://www.newstatesman.com/politics/business-and-finance/2018/04/meet-aladdin-computer-more-powerful-traditional-politics](https://www.newstatesman.com/politics/business-and-finance/2018/04/meet-aladdin-computer-more-powerful-traditional-politics)
+ - date published: 2018-04-06 22:12:40+00:00
+ - user: rumpel
+ - tags: ['blackrock', 'aladdin', 'artificial intelligence']
+
 ## Cambridge Analytica and Facebook: The Scandal and the Fallout So Far
  - [https://www.nytimes.com/2018/04/04/us/politics/cambridge-analytica-scandal-fallout.html](https://www.nytimes.com/2018/04/04/us/politics/cambridge-analytica-scandal-fallout.html)
  - date published: 2018-04-04 11:09:25+00:00

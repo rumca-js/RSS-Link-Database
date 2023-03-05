@@ -8734,6 +8734,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## ALADDIN: The Most Powerful Political Force In The World Today | SOTN: Alternative News, Analysis & Commentary
+ - [https://stateofthenation.co/?p=120437](https://stateofthenation.co/?p=120437)
+ - date published: 2022-06-15 22:13:29+00:00
+ - user: rumpel
+ - tags: ['blackrock', 'aladdin', 'artificial intelligence']
+
 ## shot-scraper: automated screenshots for documentation, built on Playwright
  - [https://simonwillison.net/2022/Mar/10/shot-scraper/](https://simonwillison.net/2022/Mar/10/shot-scraper/)
  - date published: 2022-06-13 21:35:04.238080+00:00
@@ -10461,6 +10467,12 @@
  - date published: 2022-03-11 06:53:58.786240+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Facts to Know About BlackRock, the World's Largest Asset Manager
+ - [https://www.businessinsider.com/what-to-know-about-blackrock-larry-fink-biden-cabinet-facts-2020-12?IR=T](https://www.businessinsider.com/what-to-know-about-blackrock-larry-fink-biden-cabinet-facts-2020-12?IR=T)
+ - date published: 2022-03-10 22:30:01+00:00
+ - user: rumpel
+ - tags: ['blackrock']
 
 ## elementary OS is imploding - by Bryan Lunduke
  - [https://lunduke.substack.com/p/elementary-os-is-imploding?s=r](https://lunduke.substack.com/p/elementary-os-is-imploding?s=r)

@@ -466,6 +466,12 @@
  - user: rumpel
  - tags: ['open source']
 
+## BlackRock Completes Acquisition of eFront | eFront
+ - [https://www.efront.com/en/news-press-releases/blackrock-completes-acquisition-of-efront-industry-leading-alternatives-investment-software-provider](https://www.efront.com/en/news-press-releases/blackrock-completes-acquisition-of-efront-industry-leading-alternatives-investment-software-provider)
+ - date published: 2019-05-10 22:43:03+00:00
+ - user: rumpel
+ - tags: ['blackrock', 'aladdin', 'efront', 'artificial intelligence']
+
 ## Using AI to predict breast cancer and personalize care | MIT News | Massachusetts Institute of Technology
  - [https://news.mit.edu/2019/using-ai-predict-breast-cancer-and-personalize-care-0507](https://news.mit.edu/2019/using-ai-predict-breast-cancer-and-personalize-care-0507)
  - date published: 2019-05-07 07:19:50+00:00

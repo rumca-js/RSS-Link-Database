@@ -1,3 +1,9 @@
+## BlackRock bets on algorithms to beat the fund managers
+ - [https://www.ft.com/content/e689a67e-2911-11e8-b27e-cc62a39d57a0](https://www.ft.com/content/e689a67e-2911-11e8-b27e-cc62a39d57a0)
+ - date published: 2017-12-31 22:34:51+00:00
+ - user: rumpel
+ - tags: ['blackrock', 'fintech', 'algorithms']
+
 ## Partisans, Wielding Money, Begin Seeking to Exploit Harassment Claims
  - [https://www.nytimes.com/2017/12/31/us/politics/sexual-harassment-politics-partisanship.html](https://www.nytimes.com/2017/12/31/us/politics/sexual-harassment-politics-partisanship.html)
  - date published: 2017-12-31 20:07:28+00:00
@@ -9,6 +15,12 @@
  - date published: 2017-12-21 15:00:51+00:00
  - user: None
  - tags: ['cia', 'deep state', 'flatearth', 'conspiracytheory']
+
+## BlackRock's Edge: Why Technology Is Creating The Amazon Of Wall Street
+ - [https://www.forbes.com/sites/antoinegara/2017/12/19/blackrocks-edge-why-technology-is-creating-a-6-trillion-amazon-of-wall-street/](https://www.forbes.com/sites/antoinegara/2017/12/19/blackrocks-edge-why-technology-is-creating-a-6-trillion-amazon-of-wall-street/)
+ - date published: 2017-12-19 22:24:29+00:00
+ - user: rumpel
+ - tags: ['blackrock', 'fintech']
 
 ## Avoid getters and setters whenever possible
  - [https://dev.to/scottshipp/avoid-getters-and-setters-whenever-possible-c8m](https://dev.to/scottshipp/avoid-getters-and-setters-whenever-possible-c8m)
@@ -93,6 +105,12 @@
  - date published: 2017-09-21 07:46:14+00:00
  - user: None
  - tags: $tags
+
+## Spotlight: How is AI disrupting financial industry - Xinhua | English.news.cn
+ - [http://www.xinhuanet.com/english/2017-09/18/c_136616606.htm](http://www.xinhuanet.com/english/2017-09/18/c_136616606.htm)
+ - date published: 2017-09-18 22:20:54+00:00
+ - user: rumpel
+ - tags: ['blackrock', 'fintech', 'artificial intelligence']
 
 ## Jordan Peterson: Why You Won't Have a Career
  - [https://www.youtube.com/watch?v=Zy4a8T45GiQ](https://www.youtube.com/watch?v=Zy4a8T45GiQ)
@@ -250,6 +268,12 @@
  - user: rumpel
  - tags: ['virus', 'wannacry']
 
+## These three firms own corporate America
+ - [https://theconversation.com/these-three-firms-own-corporate-america-77072](https://theconversation.com/these-three-firms-own-corporate-america-77072)
+ - date published: 2017-05-10 22:28:35+00:00
+ - user: rumpel
+ - tags: ['blackrock', 'corporatocracy', 'vanguard']
+
 ## The dirty tricks that demonise George Soros | Nick Cohen
  - [https://www.theguardian.com/commentisfree/2017/apr/15/dirty-tricks-demonise-george-soros](https://www.theguardian.com/commentisfree/2017/apr/15/dirty-tricks-demonise-george-soros)
  - date published: 2017-04-15 23:05:15+00:00
@@ -261,6 +285,12 @@
  - date published: 2017-04-04 08:22:53+00:00
  - user: rumpel
  - tags: ['china', 'climate change', 'pollution']
+
+## BlackRock Banking on Robots to Improve Stock Picking | Fortune
+ - [https://fortune.com/2017/03/29/blackrock-robots-stock-picking/](https://fortune.com/2017/03/29/blackrock-robots-stock-picking/)
+ - date published: 2017-03-29 22:18:56+00:00
+ - user: rumpel
+ - tags: ['blackrock']
 
 ## Dishonest Fact-Checkers - Capital Research Center
  - [https://capitalresearch.org/article/dishonest-fact-checkers/](https://capitalresearch.org/article/dishonest-fact-checkers/)

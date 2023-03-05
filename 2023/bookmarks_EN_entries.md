@@ -1,3 +1,15 @@
+## BlackRock Is About To Own Your House
+ - [https://www.youtube.com/watch?v=OiNlCXGt2IY](https://www.youtube.com/watch?v=OiNlCXGt2IY)
+ - date published: 2023-03-04 00:13:45+00:00
+ - user: rumpel
+ - tags: ['blackrock', 'manufacturing consent', 'corporatocracy']
+
+## Continuous Growth Is Cancer
+ - [https://christianheilmann.com/2023/03/03/continuous-growth-is-cancer/](https://christianheilmann.com/2023/03/03/continuous-growth-is-cancer/)
+ - date published: 2023-03-03 23:29:02+00:00
+ - user: rumpel
+ - tags: ['job', 'work']
+
 ## The moral case against equity language
  - [https://www.theatlantic.com/magazine/archive/2023/04/equity-language-guides-sierra-club-banned-words/673085/](https://www.theatlantic.com/magazine/archive/2023/04/equity-language-guides-sierra-club-banned-words/673085/)
  - date published: 2023-03-02 18:43:54+00:00
@@ -879,6 +891,12 @@
  - date published: 2023-01-28 19:06:40+00:00
  - user: rumpel
  - tags: ['dark factory', 'futurism']
+
+## The Re-Education of Jordan Peterson: Why His Clinical Psychology License is Under Threat
+ - [https://www.youtube.com/watch?v=aLH8UwKG9Qs](https://www.youtube.com/watch?v=aLH8UwKG9Qs)
+ - date published: 2023-01-28 18:52:57+00:00
+ - user: rumpel
+ - tags: ['cancel culture', 'jordan peterson']
 
 ## DoD FAQ: Is Open Source Software Commercial Software? Yes.
  - [https://dodcio.defense.gov/Open-Source-Software-FAQ/#q-is-oss-commercial-software-is-it-cots](https://dodcio.defense.gov/Open-Source-Software-FAQ/#q-is-oss-commercial-software-is-it-cots)

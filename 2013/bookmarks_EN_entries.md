@@ -52,6 +52,12 @@
  - user: rumpel
  - tags: ['paedophilia', 'lgbt', 'daniel cohn-bendit']
 
+## The Untouchables (full documentary) | FRONTLINE
+ - [https://www.youtube.com/watch?v=B4TWN54KqfQ](https://www.youtube.com/watch?v=B4TWN54KqfQ)
+ - date published: 2013-03-04 22:56:07+00:00
+ - user: rumpel
+ - tags: ['blackrock', 'wall street']
+
 ## Internet Activist, a Creator of RSS, Is Dead at 26, Apparently a Suicide
  - [https://www.nytimes.com/2013/01/13/technology/aaron-swartz-internet-activist-dies-at-26.html](https://www.nytimes.com/2013/01/13/technology/aaron-swartz-internet-activist-dies-at-26.html)
  - date published: 2013-01-12 10:28:59+00:00

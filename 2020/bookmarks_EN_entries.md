@@ -160,6 +160,12 @@
  - user: rumpel
  - tags: ['esg', 'china']
 
+## Who Is Brian Deese? Biden Taps Former Obama Climate Aide : Biden Transition Updates : NPR
+ - [https://www.npr.org/sections/biden-transition-updates/2020/12/03/942205555/biden-names-blackrocks-brian-deese-as-his-top-economic-aide](https://www.npr.org/sections/biden-transition-updates/2020/12/03/942205555/biden-names-blackrocks-brian-deese-as-his-top-economic-aide)
+ - date published: 2020-12-03 22:48:15+00:00
+ - user: rumpel
+ - tags: ['blackrock', 'manufacturing consent', 'corporatocracy']
+
 ## Eton was right to sack teacher Will Knowland
  - [https://www.spectator.co.uk/article/eton-was-right-to-sack-will-knowland/](https://www.spectator.co.uk/article/eton-was-right-to-sack-will-knowland/)
  - date published: 2020-12-03 20:33:35+00:00
@@ -862,6 +868,12 @@
  - user: None
  - tags: ['roko basilisk']
 
+## BlackRock: Unofficial Fourth Arm Of Government | The WealthAdvisor
+ - [https://www.thewealthadvisor.com/article/blackrock-unofficial-fourth-arm-government](https://www.thewealthadvisor.com/article/blackrock-unofficial-fourth-arm-government)
+ - date published: 2020-05-22 22:39:57+00:00
+ - user: rumpel
+ - tags: ['blackrock', 'corporatocracy']
+
 ## SMS Two-Factor Authentication – Worse Than Just a Good Password? | Okta Security
  - [https://sec.okta.com/articles/2020/05/sms-two-factor-authentication-worse-just-good-password](https://sec.okta.com/articles/2020/05/sms-two-factor-authentication-worse-just-good-password)
  - date published: 2020-05-13 06:56:06+00:00
@@ -928,6 +940,12 @@
  - user: None
  - tags: ['covid', 'tracking']
 
+## The Fed Asks for BlackRock’s Help in an Echo of 2008 - The New York Times
+ - [https://www.nytimes.com/2020/03/25/business/blackrock-federal-reserve.html](https://www.nytimes.com/2020/03/25/business/blackrock-federal-reserve.html)
+ - date published: 2020-03-25 22:38:13+00:00
+ - user: rumpel
+ - tags: ['blackrock']
+
 ## Yuval Noah Harari: the world after coronavirus | Free to read
  - [https://www.ft.com/content/19d90308-6858-11ea-a3c9-1fe6fedcca75#comments-anchor](https://www.ft.com/content/19d90308-6858-11ea-a3c9-1fe6fedcca75#comments-anchor)
  - date published: 2020-03-20 14:11:41+00:00
@@ -951,6 +969,12 @@
  - date published: 2020-02-26 20:50:35+00:00
  - user: None
  - tags: ['privacy', 'iot', 'smart']
+
+## BlackRock’s black box: the technology hub of modern finance - Financial Times | Busi Buggy
+ - [https://busibuggy.blogspot.com/2020/02/blackrocks-black-box-technology-hub-of.html](https://busibuggy.blogspot.com/2020/02/blackrocks-black-box-technology-hub-of.html)
+ - date published: 2020-02-23 22:16:00+00:00
+ - user: rumpel
+ - tags: ['blackrock', 'aladdin', 'artificial intelligence']
 
 ## Sophie Lewis Is Reviving the Case for Abolishing the Family
  - [https://www.vice.com/en/article/qjdzwb/sophie-lewis-feminist-abolishing-the-family-full-surrogacy-now](https://www.vice.com/en/article/qjdzwb/sophie-lewis-feminist-abolishing-the-family-full-surrogacy-now)

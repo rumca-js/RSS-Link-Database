@@ -418,6 +418,12 @@
  - user: None
  - tags: $tags
 
+## This Robot Already Owns Everything (And it's just getting started) : Blackrock Aladdin
+ - [https://www.youtube.com/watch?v=AWBRldjVzuM](https://www.youtube.com/watch?v=AWBRldjVzuM)
+ - date published: 2021-11-29 22:52:15+00:00
+ - user: rumpel
+ - tags: ['blackrock', 'aladdin', 'artificial intelligence', 'corporatocracy']
+
 ## Bizarre Conspiracy Theory That Linkin Park's Chester Bennington Was Murdered Tied To Ghislaine Maxwell
  - [https://www.yourtango.com/news/chester-bennington-conspiracy-theory-chris-cornell-john-podesta-pizzagate-ghislaine-maxwell](https://www.yourtango.com/news/chester-bennington-conspiracy-theory-chris-cornell-john-podesta-pizzagate-ghislaine-maxwell)
  - date published: 2021-11-29 21:24:58+00:00
@@ -1305,6 +1311,12 @@
  - date published: 2021-10-08 08:52:22.221265+00:00
  - user: Thomas Pain
  - tags: ['censorship', 'facebook']
+
+## The ten trillion dollar man: how Larry Fink became king of Wall St | Financial Times
+ - [https://www.ft.com/content/7dfd1e3d-e256-4656-a96d-1204538d75cd](https://www.ft.com/content/7dfd1e3d-e256-4656-a96d-1204538d75cd)
+ - date published: 2021-10-07 22:46:10+00:00
+ - user: rumpel
+ - tags: ['blackrock', 'larry fink']
 
 ## Finland joins Sweden and Denmark in limiting Moderna COVID-19 vaccine
  - [https://www.reuters.com/world/europe/finland-pauses-use-moderna-covid-19-vaccine-young-men-2021-10-07/](https://www.reuters.com/world/europe/finland-pauses-use-moderna-covid-19-vaccine-young-men-2021-10-07/)
@@ -2524,6 +2536,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## The Ties That Bind: BlackRock and Biden — Nicollet Investment Management
+ - [https://www.nicolletinvest.com/navigator/the-ties-that-bind-blackrock-and-biden](https://www.nicolletinvest.com/navigator/the-ties-that-bind-blackrock-and-biden)
+ - date published: 2021-07-21 22:50:01+00:00
+ - user: rumpel
+ - tags: ['blackrock', 'manufacturing consent', 'corporatocracy', 'biden']
+
 ## Covid in Scotland: Surgery backlog 'could take years' to tackle - BBC News
  - [https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-57903174](https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-57903174)
  - date published: 2021-07-21 11:57:55.464535+00:00
@@ -2889,6 +2907,12 @@
  - date published: 2021-07-06 12:55:03+00:00
  - user: None
  - tags: ['privacy', 'surveillance', 'chatcontrol']
+
+## How Low Interest Rates Sent Institutions Like Blackrock Into Bidding Wars For Homes - Better Dwelling
+ - [https://betterdwelling.com/how-low-interest-rates-sent-institutions-like-blackrock-into-bidding-wars-for-homes/](https://betterdwelling.com/how-low-interest-rates-sent-institutions-like-blackrock-into-bidding-wars-for-homes/)
+ - date published: 2021-07-05 22:44:50+00:00
+ - user: rumpel
+ - tags: ['blackrock']
 
 ## The Meaning of Pride ft. Drag Queen Nina West
  - [https://www.youtube.com/watch?v=Xprabkl1LD4](https://www.youtube.com/watch?v=Xprabkl1LD4)
