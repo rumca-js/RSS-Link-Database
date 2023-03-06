@@ -1,3 +1,15 @@
+## Facebook and Google hand over user data, help police prosecute abortion seekers
+ - [https://www.businessinsider.com/police-getting-help-social-media-to-prosecute-people-seeking-abortions-2023-2](https://www.businessinsider.com/police-getting-help-social-media-to-prosecute-people-seeking-abortions-2023-2)
+ - date published: 2023-03-05 09:24:05+00:00
+ - user: rumpel
+ - tags: ['google', 'bigbrother', 'privacy', 'surveillance', 'facebook']
+
+## 'Project Fear’ authors discussed when to ‘deploy’ new Covid variant
+ - [https://www.telegraph.co.uk/news/2023/03/04/project-fear-covid-variant-lockdown-matt-hancock-whatsapp/](https://www.telegraph.co.uk/news/2023/03/04/project-fear-covid-variant-lockdown-matt-hancock-whatsapp/)
+ - date published: 2023-03-05 00:37:56+00:00
+ - user: rumpel
+ - tags: ['fearmongering', 'lockdown files l', 'covid']
+
 ## BlackRock Is About To Own Your House
  - [https://www.youtube.com/watch?v=OiNlCXGt2IY](https://www.youtube.com/watch?v=OiNlCXGt2IY)
  - date published: 2023-03-04 00:13:45+00:00
@@ -9,6 +21,18 @@
  - date published: 2023-03-03 23:29:02+00:00
  - user: rumpel
  - tags: ['job', 'work']
+
+## The EU's new Cyber Resilience Act is about to tell us how to code
+ - [https://berthub.eu/articles/posts/eu-cra-secure-coding-solution/](https://berthub.eu/articles/posts/eu-cra-secure-coding-solution/)
+ - date published: 2023-03-03 15:47:02+00:00
+ - user: rumpel
+ - tags: ['open source']
+
+## Aggro-culture: Farmers’ protest brings Brussels’ EU Quarter to a standstill – POLITICO
+ - [https://www.politico.eu/article/belgium-farmer-protests-brussels-nitrogen-emissions/](https://www.politico.eu/article/belgium-farmer-protests-brussels-nitrogen-emissions/)
+ - date published: 2023-03-03 08:48:19+00:00
+ - user: rumpel
+ - tags: ['agriculture', 'belgia']
 
 ## The moral case against equity language
  - [https://www.theatlantic.com/magazine/archive/2023/04/equity-language-guides-sierra-club-banned-words/673085/](https://www.theatlantic.com/magazine/archive/2023/04/equity-language-guides-sierra-club-banned-words/673085/)

@@ -6154,6 +6154,12 @@
  - user: None
  - tags: $tags
 
+## Banned in the USA: The Growing Movement to Ban Books - PEN America
+ - [https://pen.org/report/banned-usa-growing-movement-to-censor-books-in-schools/](https://pen.org/report/banned-usa-growing-movement-to-censor-books-in-schools/)
+ - date published: 2022-09-19 07:28:12+00:00
+ - user: rumpel
+ - tags: ['moderation', 'censorship']
+
 ## How Google is KILLING your AD BLOCKERS and tracker blockers with Manifest v3
  - [https://www.youtube.com/watch?v=8KWCLhHrblE](https://www.youtube.com/watch?v=8KWCLhHrblE)
  - date published: 2022-09-19 07:21:33+00:00
@@ -8469,6 +8475,12 @@
  - date published: 2022-07-06 19:25:40.824698+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Police fire on Dutch farmers protesting environmental rules – POLITICO
+ - [https://www.politico.eu/article/police-fire-dutch-farmer-protest-nitrogen-emission-cut/](https://www.politico.eu/article/police-fire-dutch-farmer-protest-nitrogen-emission-cut/)
+ - date published: 2022-07-06 08:54:54+00:00
+ - user: rumpel
+ - tags: ['dutch', 'agriculture']
 
 ## What About Ghislaine Maxwell’s Client List? How Prominent Is Elite Child Sex Trafficking?
  - [https://thepulse.one/2022/07/05/what-about-ghislaine-maxwells-client-list-how-prominent-is-elite-child-sex-trafficking/](https://thepulse.one/2022/07/05/what-about-ghislaine-maxwells-client-list-how-prominent-is-elite-child-sex-trafficking/)

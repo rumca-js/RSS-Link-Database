@@ -1,3 +1,9 @@
+## 19 lekarzy i naukowców stanie przed sądem w Poznaniu. Chodzi o COVID-19 | Głos Wielkopolski
+ - [https://gloswielkopolski.pl/19-lekarzy-i-naukowcow-stanie-przed-sadem-w-poznaniu-chodzi-o-covid19/ar/c14-17330665](https://gloswielkopolski.pl/19-lekarzy-i-naukowcow-stanie-przed-sadem-w-poznaniu-chodzi-o-covid19/ar/c14-17330665)
+ - date published: 2023-02-28 09:02:14+00:00
+ - user: rumpel
+ - tags: ['covid', 'cancel culture', 'censorship']
+
 ## Była dziennikarka rozpowszechniała covidowe fake newsy. Kara: dwa lata więzienia - Puls Medycyny - pulsmedycyny.pl
  - [https://pulsmedycyny.pl/byla-dziennikarka-rozpowszechniala-covidowe-fake-newsy-kara-dwa-lata-wiezienia-1178624](https://pulsmedycyny.pl/byla-dziennikarka-rozpowszechniala-covidowe-fake-newsy-kara-dwa-lata-wiezienia-1178624)
  - date published: 2023-02-27 10:37:42+00:00
@@ -99,6 +105,12 @@
  - date published: 2023-01-23 12:40:00+00:00
  - user: rumpel
  - tags: ['censorship', 'moderation', 'covid', 'vaccine']
+
+## Postępowania przeciwko lekarzom zniechęcającym do szczepień
+ - [https://www.prawo.pl/zdrowie/postepowania-przeciwko-lekarzom-zniechecajacym-do-szczepien,519414.html](https://www.prawo.pl/zdrowie/postepowania-przeciwko-lekarzom-zniechecajacym-do-szczepien,519414.html)
+ - date published: 2023-01-23 09:03:48+00:00
+ - user: rumpel
+ - tags: ['covid', 'cancel culture', 'vaccine']
 
 ## Japonia chce odwrócić trend demograficzny. Rząd sięgnie po bezprecedensowe środki
  - [https://www.bankier.pl/wiadomosc/Japonia-chce-odwrocic-trend-demograficzny-Rzad-siegnie-po-bezprecedensowe-srodki-8476515.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Japonia-chce-odwrocic-trend-demograficzny-Rzad-siegnie-po-bezprecedensowe-srodki-8476515.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
