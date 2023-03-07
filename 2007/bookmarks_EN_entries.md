@@ -2,7 +2,7 @@
  - [https://www.latimes.com/nation/la-na-gates16dec16-story.html](https://www.latimes.com/nation/la-na-gates16dec16-story.html)
  - date published: 2007-12-16 20:56:30+00:00
  - user: rumpel
- - tags: ['vaccines', 'gates', 'gates foundation']
+ - tags: ['bill gates', 'vaccines', 'gates foundation']
 
 ## Sperm donor to lesbian couple forced to pay child support | Politics | The Guardian
  - [https://www.theguardian.com/politics/2007/dec/04/gayrights.immigrationpolicy](https://www.theguardian.com/politics/2007/dec/04/gayrights.immigrationpolicy)

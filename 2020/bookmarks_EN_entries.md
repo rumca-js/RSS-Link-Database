@@ -334,6 +334,12 @@
  - user: rumpel
  - tags: ['tedros adhanom ghebreyesus', 'who']
 
+## Google Paid Apple Billions To Dominate Search On iPhones, Justice Department Says : NPR
+ - [https://www.npr.org/2020/10/22/926290942/google-paid-apple-billions-to-dominate-search-on-iphones-justice-department-says](https://www.npr.org/2020/10/22/926290942/google-paid-apple-billions-to-dominate-search-on-iphones-justice-department-says)
+ - date published: 2020-10-22 16:32:28+00:00
+ - user: rumpel
+ - tags: ['google', 'google search', 'apple', 'corporatocracy']
+
 ## The DOJ Just Slammed Google With a Landmark Antitrust Case | Entrepreneur
  - [https://www.entrepreneur.com/business-news/the-doj-just-slammed-google-with-a-landmark-antitrust-case/358109](https://www.entrepreneur.com/business-news/the-doj-just-slammed-google-with-a-landmark-antitrust-case/358109)
  - date published: 2020-10-20 11:15:42+00:00
@@ -693,6 +699,12 @@
  - date published: 2020-07-19 19:38:39+00:00
  - user: None
  - tags: ['epstein']
+
+## WEF founder: Must prepare for an angrier world
+ - [https://www.youtube.com/watch?v=LJTnkzl3K64](https://www.youtube.com/watch?v=LJTnkzl3K64)
+ - date published: 2020-07-14 21:12:36+00:00
+ - user: rumpel
+ - tags: ['world economic forum', 'klaus schwab', 'wef']
 
 ## New BAFTA Gaming Standards are INSANE
  - [https://www.youtube.com/watch?v=dw9lmEp7Q6E](https://www.youtube.com/watch?v=dw9lmEp7Q6E)

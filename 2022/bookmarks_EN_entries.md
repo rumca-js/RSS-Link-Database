@@ -2512,11 +2512,11 @@
  - user: None
  - tags: ['fbi', 'surveillance']
 
-## https://edwardslavsquat.substack.com/p/russia-supports-creation-of-gates
+## Russia supports creation of Gates-Rockefeller "Pandemic Fund"
  - [https://edwardslavsquat.substack.com/p/russia-supports-creation-of-gates](https://edwardslavsquat.substack.com/p/russia-supports-creation-of-gates)
  - date published: 2022-11-13 18:47:37+00:00
  - user: rumpel
- - tags: ['russia', 'gates', 'who']
+ - tags: ['bill gates', 'russia', 'who']
 
 ## Myocarditis Risk From COVID-19 Vaccines Up To 3 times Higher From Moderna Than Pfizer: Study
  - [https://www.dailywire.com/news/myocarditis-risk-from-covid-19-vaccines-up-to-3-times-higher-from-moderna-than-pfizer-study](https://www.dailywire.com/news/myocarditis-risk-from-covid-19-vaccines-up-to-3-times-higher-from-moderna-than-pfizer-study)
@@ -2845,7 +2845,7 @@
 ## Finland’s Covid death toll could be exaggerated by 40%, THL says | News & More Trending News
  - [https://www.thetimes.com.ng/2022/11/finlands-covid-death-toll-could-be-exaggerated-by-40-thl-says-news-more-trending-news/](https://www.thetimes.com.ng/2022/11/finlands-covid-death-toll-could-be-exaggerated-by-40-thl-says-news-more-trending-news/)
  - date published: 2022-11-06 08:58:33+00:00
- - user: None
+ - user: rumpel
  - tags: ['finland', 'covid', 'covid lie']
 
 ## Meta’s Meltdown Shows How Big Tech’s Invincible Era Is Over
@@ -4137,6 +4137,12 @@
  - date published: 2022-10-24 08:38:40+00:00
  - user: None
  - tags: $tags
+
+## How Physicists Proved The Universe Isn't Locally Real - Nobel Prize in Physics 2022 EXPLAINED
+ - [https://www.youtube.com/watch?v=txlCvCSefYQ](https://www.youtube.com/watch?v=txlCvCSefYQ)
+ - date published: 2022-10-23 21:42:40+00:00
+ - user: rumpel
+ - tags: ['einstein', 'entanglement', 'physics']
 
 ## Lawsuit reveals vast censorship scheme by Big Tech and the federal government
  - [https://nypost.com/2022/10/23/lawsuit-reveals-vast-censorship-scheme-by-big-tech-and-the-federal-government/](https://nypost.com/2022/10/23/lawsuit-reveals-vast-censorship-scheme-by-big-tech-and-the-federal-government/)
@@ -10780,6 +10786,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Google Search Is Dying | Hacker News
+ - [https://news.ycombinator.com/item?id=30347719](https://news.ycombinator.com/item?id=30347719)
+ - date published: 2022-02-15 16:25:01+00:00
+ - user: rumpel
+ - tags: ['google search']
+
 ## Google Search Is Dying
  - [https://dkb.io/post/google-search-is-dying](https://dkb.io/post/google-search-is-dying)
  - date published: 2022-02-15 15:45:06+00:00
@@ -10918,6 +10930,18 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Joe Rogan Talks With Maajid Nawaz (Episode #1780)
+ - [https://rumble.com/vvexre-must-watch-joe-rogan-talks-with-maajid-nawaz-episode-1780.html](https://rumble.com/vvexre-must-watch-joe-rogan-talks-with-maajid-nawaz-episode-1780.html)
+ - date published: 2022-02-06 20:47:39+00:00
+ - user: rumpel
+ - tags: ['fearmongering', 'covid', 'propaganda']
+
+## joe-rogan-maajid-nawaz1-mp4
+ - [https://videopress.com/v/O2U117O4](https://videopress.com/v/O2U117O4)
+ - date published: 2022-02-06 20:44:29+00:00
+ - user: rumpel
+ - tags: ['fearmongering', 'covid', 'propaganda']
+
 ## LGBT tolerance 'going backwards' as hate crimes up - BBC News
  - [https://www.bbc.co.uk/news/uk-wales-60257602](https://www.bbc.co.uk/news/uk-wales-60257602)
  - date published: 2022-02-06 09:54:45.118334+00:00
@@ -11007,6 +11031,12 @@
  - date published: 2022-01-30 23:07:41.507686+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Klaus Schwab Brags That Trudeau, Merkel, Putin Are Former World Economic Forum Young Global Leaders; “We penetrate the cabinets” - The American Report
+ - [https://theamericanreport.org/2022/01/30/klaus-schwab-brags-that-trudeau-merkel-putin-are-former-world-economic-forum-young-global-leaders-we-penetrate-the-cabinets/](https://theamericanreport.org/2022/01/30/klaus-schwab-brags-that-trudeau-merkel-putin-are-former-world-economic-forum-young-global-leaders-we-penetrate-the-cabinets/)
+ - date published: 2022-01-30 21:09:04+00:00
+ - user: rumpel
+ - tags: ['world economic forum', 'klaus schwab', 'wef']
 
 ## Why Maus Was Banned…And Why It’s An Amazing Book
  - [https://www.cbr.com/maus-newest-banned-book-one-of-greatest-comics/](https://www.cbr.com/maus-newest-banned-book-one-of-greatest-comics/)
@@ -11313,6 +11343,12 @@
  - date published: 2022-01-13 21:03:00.249337+00:00
  - user: Thomas Pain
  - tags: ['trans', 'uk', 'gender']
+
+## Ministers have used 'propagandistic' tactics to scare public into complying with Covid rules | Daily Mail Online
+ - [https://www.dailymail.co.uk/news/article-10397737/Ministers-used-propagandistic-tactics-scare-public-complying-Covid-rules.html](https://www.dailymail.co.uk/news/article-10397737/Ministers-used-propagandistic-tactics-scare-public-complying-Covid-rules.html)
+ - date published: 2022-01-13 20:29:27+00:00
+ - user: rumpel
+ - tags: ['fearmongering', 'covid', 'propaganda']
 
 ## The Laurels: NHS gender clinic only assessed two patients in 12 months
  - [https://www.pinknews.co.uk/2021/03/08/the-laurels-nhs-trans-waiting-times-west-england-gender-identity-clinic-waiting-list-exeter-devon-partnership-trust-transgender/](https://www.pinknews.co.uk/2021/03/08/the-laurels-nhs-trans-waiting-times-west-england-gender-identity-clinic-waiting-list-exeter-devon-partnership-trust-transgender/)

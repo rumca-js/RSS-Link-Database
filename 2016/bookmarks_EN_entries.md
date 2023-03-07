@@ -86,7 +86,7 @@
  - [https://www.naturalblaze.com/2016/09/gates-rockefeller-who-vaccines.html](https://www.naturalblaze.com/2016/09/gates-rockefeller-who-vaccines.html)
  - date published: 2016-08-23 18:45:41+00:00
  - user: rumpel
- - tags: ['rockefeller', 'gates', 'who']
+ - tags: ['bill gates', 'who', 'rockefeller']
 
 ## The Exceptional Beauty of Doom 3's Source Code
  - [https://kotaku.com/the-exceptional-beauty-of-doom-3s-source-code-5975610](https://kotaku.com/the-exceptional-beauty-of-doom-3s-source-code-5975610)

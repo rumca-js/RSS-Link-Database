@@ -10,6 +10,12 @@
  - user: rumpel
  - tags: ['ideology', 'propaganda', 'theleft', 'sjw']
 
+## Harvard Scientists Begin Experiment To Block Out The Sun
+ - [https://www.forbes.com/sites/trevornace/2018/12/05/harvard-scientists-begin-experiment-to-block-out-the-sun/](https://www.forbes.com/sites/trevornace/2018/12/05/harvard-scientists-begin-experiment-to-block-out-the-sun/)
+ - date published: 2018-12-05 12:58:25+00:00
+ - user: rumpel
+ - tags: ['bill gates', 'atmosphere', 'climate change', 'sun-dimming']
+
 ## Are Google and Facebook really suppressing conservative politics?
  - [https://www.theguardian.com/technology/2018/dec/04/google-facebook-anti-conservative-bias-claims](https://www.theguardian.com/technology/2018/dec/04/google-facebook-anti-conservative-bias-claims)
  - date published: 2018-12-04 19:51:59+00:00

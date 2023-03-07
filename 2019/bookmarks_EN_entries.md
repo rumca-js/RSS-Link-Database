@@ -202,6 +202,12 @@
  - user: rumpel
  - tags: ['bilionaires', 'epstein', 'eyes wide shut']
 
+## Twitter executive for Middle East is British Army 'psyops' soldier | Middle East Eye
+ - [https://www.middleeasteye.net/news/twitter-executive-also-part-time-officer-uk-army-psychological-warfare-unit](https://www.middleeasteye.net/news/twitter-executive-also-part-time-officer-uk-army-psychological-warfare-unit)
+ - date published: 2019-09-30 20:36:52+00:00
+ - user: rumpel
+ - tags: ['twitter', 'psyop']
+
 ## Who is Bishop McCarrick and what are his crimes?
  - [https://www.irishcentral.com/news/bishop-mccarrick-crimes](https://www.irishcentral.com/news/bishop-mccarrick-crimes)
  - date published: 2019-09-30 15:33:50+00:00

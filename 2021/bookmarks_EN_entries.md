@@ -418,6 +418,12 @@
  - user: None
  - tags: $tags
 
+## Will We Need COVID-19 Boosters Every 6 Months?
+ - [https://www.healthline.com/health-news/are-we-going-to-need-covid-19-boosters-every-6-months-what-experts-think#Will-boosters-become-an-annual-thing?](https://www.healthline.com/health-news/are-we-going-to-need-covid-19-boosters-every-6-months-what-experts-think#Will-boosters-become-an-annual-thing?)
+ - date published: 2021-12-01 08:06:38+00:00
+ - user: rumpel
+ - tags: ['booster', 'covid', 'vaccine']
+
 ## This Robot Already Owns Everything (And it's just getting started) : Blackrock Aladdin
  - [https://www.youtube.com/watch?v=AWBRldjVzuM](https://www.youtube.com/watch?v=AWBRldjVzuM)
  - date published: 2021-11-29 22:52:15+00:00
@@ -1978,6 +1984,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Analysts: Google to pay Apple $15 billion to remain default Safari search engine in 2021 - 9to5Mac
+ - [https://9to5mac.com/2021/08/25/analysts-google-to-pay-apple-15-billion-to-remain-default-safari-search-engine-in-2021/](https://9to5mac.com/2021/08/25/analysts-google-to-pay-apple-15-billion-to-remain-default-safari-search-engine-in-2021/)
+ - date published: 2021-08-25 16:31:48+00:00
+ - user: rumpel
+ - tags: ['google', 'google search', 'apple', 'corporatocracy']
+
 ## ‘Picking quarrels and provoking trouble’: how China’s catch-all crime muzzles dissent | South China Morning Post
  - [https://www.scmp.com/news/china/politics/article/3146188/picking-quarrels-and-provoking-trouble-how-chinas-catch-all](https://www.scmp.com/news/china/politics/article/3146188/picking-quarrels-and-provoking-trouble-how-chinas-catch-all)
  - date published: 2021-08-25 16:02:03+00:00
@@ -2932,6 +2944,12 @@
  - user: None
  - tags: ['wikileaks', 'assange']
 
+## COVID-19 vaccine generates immune structures critical for lasting immunity – Washington University School of Medicine in St. Louis
+ - [https://medicine.wustl.edu/news/covid-19-vaccine-generates-immune-structures-critical-for-lasting-immunity/](https://medicine.wustl.edu/news/covid-19-vaccine-generates-immune-structures-critical-for-lasting-immunity/)
+ - date published: 2021-06-28 07:58:09+00:00
+ - user: rumpel
+ - tags: ['scienceisdead', 'vaccine', 'covid lie']
+
 ## Corporations are the reason why we have a alt-right alt-left war.
  - [https://forum.agoraroad.com/index.php?threads/corporations-are-the-reason-why-we-have-a-alt-right-alt-left-war.3387/](https://forum.agoraroad.com/index.php?threads/corporations-are-the-reason-why-we-have-a-alt-right-alt-left-war.3387/)
  - date published: 2021-06-26 12:04:49+00:00
@@ -2991,6 +3009,12 @@
  - date published: 2021-06-11 10:43:20+00:00
  - user: rumpel
  - tags: ['blackrock', 'hedgefunds', 'middleclass']
+
+## Social distancing should stay FOREVER, says Communist-supporting SAGE Covid scientist Susan Michie | Daily Mail Online
+ - [https://www.dailymail.co.uk/news/article-9672347/Social-distancing-stay-FOREVER-says-Communist-supporting-SAGE-Covid-scientist-Susan-Michie.html](https://www.dailymail.co.uk/news/article-9672347/Social-distancing-stay-FOREVER-says-Communist-supporting-SAGE-Covid-scientist-Susan-Michie.html)
+ - date published: 2021-06-10 20:21:13+00:00
+ - user: rumpel
+ - tags: ['distancing', 'covid']
 
 ## Anyone remember that Danish TV show pairing children with naked adults?
  - [https://www.mumsnet.com/talk/womens_rights/4282164-Anyone-remember-that-Danish-TV-show-pairing-children-with-naked-adults](https://www.mumsnet.com/talk/womens_rights/4282164-Anyone-remember-that-Danish-TV-show-pairing-children-with-naked-adults)
@@ -3086,7 +3110,7 @@
  - [https://www.youtube.com/watch?v=s54H5d34GWE](https://www.youtube.com/watch?v=s54H5d34GWE)
  - date published: 2021-05-24 07:32:48+00:00
  - user: None
- - tags: ['bill gates', 'epsteini']
+ - tags: ['bill gates', 'epstein']
 
 ## Spirited Away - Why Work Is Toxic
  - [https://www.youtube.com/watch?v=tkxR1TcG4n4](https://www.youtube.com/watch?v=tkxR1TcG4n4)
@@ -3104,7 +3128,7 @@
  - [https://nypost.com/2021/05/18/bill-gates-hoped-epstein-would-help-him-win-a-nobel-report/](https://nypost.com/2021/05/18/bill-gates-hoped-epstein-would-help-him-win-a-nobel-report/)
  - date published: 2021-05-18 15:59:39+00:00
  - user: rumpel
- - tags: ['gates', 'epstein', 'nobel']
+ - tags: ['bill gates', 'epstein', 'nobel']
 
 ## Huge Eufy privacy breach shows live and recorded cam feeds to strangers [U: Statement]
  - [https://9to5mac.com/2021/05/17/huge-eufy-privacy-breach/](https://9to5mac.com/2021/05/17/huge-eufy-privacy-breach/)
@@ -3442,6 +3466,12 @@
  - user: rumpel
  - tags: ['social media', 'bigbrother', 'censorship', 'surveillance', 'moderation']
 
+## Bill Gates will spray chemicals in the atmosphere in June using thousands of planes - NeeWS
+ - [https://tekdeeps.com/bill-gates-will-spray-chemicals-in-the-atmosphere-in-june-using-thousands-of-planes-neews/](https://tekdeeps.com/bill-gates-will-spray-chemicals-in-the-atmosphere-in-june-using-thousands-of-planes-neews/)
+ - date published: 2021-01-29 12:54:21+00:00
+ - user: rumpel
+ - tags: ['bill gates', 'atmosphere', 'climate change', 'sun-dimming']
+
 ## Why using fear to promote COVID-19 vaccination and mask wearing could backfire
  - [https://theconversation.com/why-using-fear-to-promote-covid-19-vaccination-and-mask-wearing-could-backfire-153865](https://theconversation.com/why-using-fear-to-promote-covid-19-vaccination-and-mask-wearing-could-backfire-153865)
  - date published: 2021-01-28 08:57:02+00:00
@@ -3495,6 +3525,12 @@
  - date published: 2021-01-12 13:00:20+00:00
  - user: rumpel
  - tags: ['covid', 'vaccine', 'pfizer']
+
+## A Bill Gates Venture Aims To Spray Dust Into The Atmosphere To Block The Sun. What Could Go Wrong?
+ - [https://www.forbes.com/sites/arielcohen/2021/01/11/bill-gates-backed-climate-solution-gains-traction-but-concerns-linger/](https://www.forbes.com/sites/arielcohen/2021/01/11/bill-gates-backed-climate-solution-gains-traction-but-concerns-linger/)
+ - date published: 2021-01-11 12:53:15+00:00
+ - user: rumpel
+ - tags: ['bill gates', 'atmosphere', 'climate change', 'sun-dimming']
 
 ## the darkness of 'first reformed'
  - [https://youtu.be/piyXjIO46uE](https://youtu.be/piyXjIO46uE)

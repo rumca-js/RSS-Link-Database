@@ -1,8 +1,32 @@
+## Joe Rogan blasts George Soros: 'An evil person in a Batman movie'
+ - [https://www.youtube.com/watch?v=npJNERfBAes](https://www.youtube.com/watch?v=npJNERfBAes)
+ - date published: 2023-03-06 21:03:49+00:00
+ - user: rumpel
+ - tags: ['elites', 'manufacturing consent', 'billionaries', 'george soros']
+
+## Google Search Is Dying (2022) | Hacker News
+ - [https://news.ycombinator.com/item?id=35039360](https://news.ycombinator.com/item?id=35039360)
+ - date published: 2023-03-06 16:23:52+00:00
+ - user: rumpel
+ - tags: ['google search']
+
+## Google Search Is Dying
+ - [https://dkb.blog/p/google-search-is-dying](https://dkb.blog/p/google-search-is-dying)
+ - date published: 2023-03-06 10:21:45+00:00
+ - user: rumpel
+ - tags: ['google search', 'algorithms']
+
 ## Facebook and Google hand over user data, help police prosecute abortion seekers
  - [https://www.businessinsider.com/police-getting-help-social-media-to-prosecute-people-seeking-abortions-2023-2](https://www.businessinsider.com/police-getting-help-social-media-to-prosecute-people-seeking-abortions-2023-2)
  - date published: 2023-03-05 09:24:05+00:00
  - user: rumpel
  - tags: ['google', 'bigbrother', 'privacy', 'surveillance', 'facebook']
+
+## Matt Hancock: Leaked messages suggest plan to frighten public - BBC News
+ - [https://www.bbc.com/news/uk-64848106](https://www.bbc.com/news/uk-64848106)
+ - date published: 2023-03-05 09:07:25+00:00
+ - user: rumpel
+ - tags: ['fearmongering', 'propaganda', 'covid']
 
 ## 'Project Fear’ authors discussed when to ‘deploy’ new Covid variant
  - [https://www.telegraph.co.uk/news/2023/03/04/project-fear-covid-variant-lockdown-matt-hancock-whatsapp/](https://www.telegraph.co.uk/news/2023/03/04/project-fear-covid-variant-lockdown-matt-hancock-whatsapp/)
@@ -69,6 +93,12 @@
  - date published: 2023-03-02 11:24:28+00:00
  - user: rumpel
  - tags: ['philips', 'technology']
+
+## Resumes including they/them pronouns are more likely to be overlooked
+ - [https://www.cnbc.com/2023/03/02/resumes-including-they/them-pronouns-are-more-likely-to-be-overlooked.html](https://www.cnbc.com/2023/03/02/resumes-including-they/them-pronouns-are-more-likely-to-be-overlooked.html)
+ - date published: 2023-03-02 07:45:07+00:00
+ - user: rumpel
+ - tags: ['pronouns', 'newspeak', 'woke']
 
 ## AGENT ELVIS - Official Trailer (2023) Matthew McConaughey, Johnny Knoxville, Don Cheadle
  - [https://www.youtube.com/watch?v=zFJ6wZHNkd8](https://www.youtube.com/watch?v=zFJ6wZHNkd8)
@@ -627,6 +657,12 @@
  - date published: 2023-02-07 17:46:09+00:00
  - user: rumpel
  - tags: ['dma']
+
+## One Atmosphere: An Independent Expert Review on Solar Radiation Modification Research and Deployment
+ - [https://wedocs.unep.org/handle/20.500.11822/41903](https://wedocs.unep.org/handle/20.500.11822/41903)
+ - date published: 2023-02-06 13:01:42+00:00
+ - user: rumpel
+ - tags: ['atmosphere', 'climate change', 'sun-dimming', 'solar radiation modification']
 
 ## Study links adoption of EV with less air pollution and improved health
  - [https://keck.usc.edu/study-links-adoption-of-electric-vehicles-with-less-air-pollution-and-improved-health/](https://keck.usc.edu/study-links-adoption-of-electric-vehicles-with-less-air-pollution-and-improved-health/)
@@ -1515,12 +1551,6 @@
  - date published: 2023-01-13 09:13:42+00:00
  - user: rumpel
  - tags: ['pfizer', 'vaccine', 'covid']
-
-## Joe Rogan: George Soros Is An Evil Villain From a Batman Movie!! Pushing EXTREME Far LEFT Agenda!
- - [https://www.youtube.com/watch?v=UIoL031dWNw](https://www.youtube.com/watch?v=UIoL031dWNw)
- - date published: 2023-01-12 22:10:43+00:00
- - user: rumpel
- - tags: ['billionaires', 'elites', 'george soros', 'manufacturing consent']
 
 ## Meta alleges surveillance firm collected data on 600,000 users via fake accounts
  - [https://www.theguardian.com/technology/2023/jan/12/meta-voyager-labs-surveillance-fake-accounts](https://www.theguardian.com/technology/2023/jan/12/meta-voyager-labs-surveillance-fake-accounts)

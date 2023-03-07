@@ -64,6 +64,12 @@
  - user: None
  - tags: ['trump', 'disinformation', 'uk', 'fakenews']
 
+## Google as a search engine is becoming useless
+ - [http://www.coalpha.org/Google-as-a-search-engine-is-becoming-useless-td7576886.html](http://www.coalpha.org/Google-as-a-search-engine-is-becoming-useless-td7576886.html)
+ - date published: 2017-10-23 16:30:02+00:00
+ - user: rumpel
+ - tags: ['google search']
+
 ## Eye Symbolism in Blade Runner 2049 Explained || Hidden Messages Analysis
  - [https://www.youtube.com/watch?v=jRSZd8xYaL4](https://www.youtube.com/watch?v=jRSZd8xYaL4)
  - date published: 2017-10-22 20:18:50+00:00
