@@ -34,6 +34,12 @@
  - user: rumpel
  - tags: ['fearmongering', 'lockdown files l', 'covid']
 
+## Ring to Put Basic Security Features Behind a Paywall | PCMag
+ - [https://www.pcmag.com/news/ring-will-put-basic-security-features-behind-paywall](https://www.pcmag.com/news/ring-will-put-basic-security-features-behind-paywall)
+ - date published: 2023-03-04 08:07:42+00:00
+ - user: rumpel
+ - tags: ['youwillownnothing', 'subscription']
+
 ## BlackRock Is About To Own Your House
  - [https://www.youtube.com/watch?v=OiNlCXGt2IY](https://www.youtube.com/watch?v=OiNlCXGt2IY)
  - date published: 2023-03-04 00:13:45+00:00

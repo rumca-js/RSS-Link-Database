@@ -8344,6 +8344,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Ring Reveals They Give Videos to Police Without User Consent or a Warrant | Electronic Frontier Foundation
+ - [https://www.eff.org/deeplinks/2022/07/ring-reveals-they-give-videos-police-without-user-consent-or-warrant](https://www.eff.org/deeplinks/2022/07/ring-reveals-they-give-videos-police-without-user-consent-or-warrant)
+ - date published: 2022-07-15 08:06:28+00:00
+ - user: rumpel
+ - tags: ['youwillownnothing', 'technofeudalism']
+
 ## Sri Lanka President Reaches Singapore After Fleeing Protests
  - [https://www.bloomberg.com/news/articles/2022-07-14/sri-lanka-president-arrives-in-singapore-after-fleeing-protests](https://www.bloomberg.com/news/articles/2022-07-14/sri-lanka-president-arrives-in-singapore-after-fleeing-protests)
  - date published: 2022-07-14 14:10:26+00:00
