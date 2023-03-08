@@ -1,14 +1,32 @@
+## Denmark’s Welfare State Became a Surveillance Nightmare
+ - [https://www.wired.com/story/algorithms-welfare-state-politics/](https://www.wired.com/story/algorithms-welfare-state-politics/)
+ - date published: 2023-03-07 12:59:28+00:00
+ - user: rumpel
+ - tags: ['bigbrother', 'surveillance']
+
 ## Joe Rogan blasts George Soros: 'An evil person in a Batman movie'
  - [https://www.youtube.com/watch?v=npJNERfBAes](https://www.youtube.com/watch?v=npJNERfBAes)
  - date published: 2023-03-06 21:03:49+00:00
  - user: rumpel
  - tags: ['elites', 'manufacturing consent', 'billionaries', 'george soros']
 
+## Dr. Fauci and the art of the COVID cover-up - Washington Times
+ - [https://www.washingtontimes.com/news/2023/mar/6/dr-fauci-and-art-covid-cover-/](https://www.washingtontimes.com/news/2023/mar/6/dr-fauci-and-art-covid-cover-/)
+ - date published: 2023-03-06 19:01:46+00:00
+ - user: rumpel
+ - tags: ['covid', 'scienceisdead', 'fauci']
+
 ## Google Search Is Dying (2022) | Hacker News
  - [https://news.ycombinator.com/item?id=35039360](https://news.ycombinator.com/item?id=35039360)
  - date published: 2023-03-06 16:23:52+00:00
  - user: rumpel
  - tags: ['google search']
+
+## Is Toyota's Smart City Crazier Than NEOM?
+ - [https://www.youtube.com/watch?v=kQn8RAzqJpY](https://www.youtube.com/watch?v=kQn8RAzqJpY)
+ - date published: 2023-03-06 13:59:25+00:00
+ - user: rumpel
+ - tags: ['smart city']
 
 ## Google Search Is Dying
  - [https://dkb.blog/p/google-search-is-dying](https://dkb.blog/p/google-search-is-dying)
