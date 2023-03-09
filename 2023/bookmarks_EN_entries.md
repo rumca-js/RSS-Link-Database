@@ -1,3 +1,15 @@
+## Self-sovereign identity - Wikipedia
+ - [https://en.wikipedia.org/wiki/Self-sovereign_identity](https://en.wikipedia.org/wiki/Self-sovereign_identity)
+ - date published: 2023-03-08 09:06:46+00:00
+ - user: rumpel
+ - tags: ['digital passport', 'digital identity']
+
+## Od aplikacji mObywatel, do Tożsamości Suwerennej. Jak to wpłynie na nasze życie?
+ - [https://www.youtube.com/watch?v=2L2Hr2QOOJk](https://www.youtube.com/watch?v=2L2Hr2QOOJk)
+ - date published: 2023-03-08 05:00:02+00:00
+ - user: rumpel
+ - tags: ['digital passport', 'digital identity', 'mobywatel', 'government control']
+
 ## Denmark’s Welfare State Became a Surveillance Nightmare
  - [https://www.wired.com/story/algorithms-welfare-state-politics/](https://www.wired.com/story/algorithms-welfare-state-politics/)
  - date published: 2023-03-07 12:59:28+00:00

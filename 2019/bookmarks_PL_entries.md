@@ -16,6 +16,12 @@
  - user: rumpel
  - tags: ['norway', 'bigbrother']
 
+## FBI w polskiej chmurze. Tajemnice polskich firm zagrożone? - rp.pl
+ - [https://cyfrowa.rp.pl/globalne-interesy/art17977641-fbi-w-polskiej-chmurze-tajemnice-polskich-firm-zagrozone](https://cyfrowa.rp.pl/globalne-interesy/art17977641-fbi-w-polskiej-chmurze-tajemnice-polskich-firm-zagrozone)
+ - date published: 2019-10-20 09:04:25+00:00
+ - user: rumpel
+ - tags: ['technofeudalism', 'bigbrother', 'surveillance', 'fbi']
+
 ## W jakim stopniu brak ojca wpływa na życie dziecka?
  - [http://www.silaojca.pl/w-jakim-stopniu-brak-ojca-wplywa-na-zycie-dziecka/](http://www.silaojca.pl/w-jakim-stopniu-brak-ojca-wplywa-na-zycie-dziecka/)
  - date published: 2019-10-02 08:36:52+00:00
