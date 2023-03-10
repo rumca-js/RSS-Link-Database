@@ -8,7 +8,7 @@
  - [https://forsal.pl/lifestyle/zdrowie/artykuly/8621235,niemcy-restrykcje-covidowe-sondaz.html](https://forsal.pl/lifestyle/zdrowie/artykuly/8621235,niemcy-restrykcje-covidowe-sondaz.html)
  - date published: 2022-12-29 16:23:33+00:00
  - user: rumpel
- - tags: $tags
+ - tags: ['social engineering', 'mandates', 'covid']
 
 ## Allegro ma, delikatnie mówiąc, prze***ane. UOKiK wymierzy spółce ponad 210 mln zł kary
  - [https://www.chip.pl/2022/12/allegro-uokik-kary-210-mln-zl](https://www.chip.pl/2022/12/allegro-uokik-kary-210-mln-zl)
@@ -56,7 +56,7 @@
  - [https://tvn24.pl/swiat/hiszpania-deputowani-przyjeli-ustawe-umozliwiajaca-zmiane-plci-14-latkom-6550172?source=rss](https://tvn24.pl/swiat/hiszpania-deputowani-przyjeli-ustawe-umozliwiajaca-zmiane-plci-14-latkom-6550172?source=rss)
  - date published: 2022-12-23 06:58:30+00:00
  - user: rumpel
- - tags: $tags
+ - tags: ['trans', 'woke', 'spain']
 
 ## Klatka Skinnera
  - [https://pl.m.wikipedia.org/wiki/Klatka_Skinnera](https://pl.m.wikipedia.org/wiki/Klatka_Skinnera)
@@ -238,12 +238,6 @@
  - user: None
  - tags: $tags
 
-## Chiny zaskakują tempem modernizacji. Przebudowa ważnej bazy powietrznej trwa
- - [https://www.chip.pl/2022/11/przebudowa-waznej-bazy-powietrznej-chin](https://www.chip.pl/2022/11/przebudowa-waznej-bazy-powietrznej-chin)
- - date published: 2022-11-05 05:00:00+00:00
- - user: None
- - tags: $tags
-
 ## Apple jest wart więcej niż Google, Facebook i Amazon razem wzięte. Jeśli to nie jest monopol, to nie wiem, co nim jest
  - [https://www.chip.pl/2022/11/apple-monopol-2022](https://www.chip.pl/2022/11/apple-monopol-2022)
  - date published: 2022-11-04 16:00:00+00:00
@@ -422,7 +416,7 @@
  - [https://www.bankier.pl/wiadomosc/Koszt-jazdy-elektrykiem-porownywalny-z-autem-spalinowym-Raport-8427995.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Koszt-jazdy-elektrykiem-porownywalny-z-autem-spalinowym-Raport-8427995.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date published: 2022-10-24 14:41:00+00:00
  - user: None
- - tags: $tags
+ - tags: ['electric vehicles']
 
 ## Badanie świateł w nocy sugeruje, że dyktatury kłamią na temat gospodarki. [ENG]
  - [https://www.wykop.pl/link/6873425/badanie-swiatel-w-nocy-sugeruje-ze-dyktatury-klamia-na-temat-gospodarki-eng/](https://www.wykop.pl/link/6873425/badanie-swiatel-w-nocy-sugeruje-ze-dyktatury-klamia-na-temat-gospodarki-eng/)
@@ -451,12 +445,6 @@
 ## Chińskie procesory graficzne Biren nie zostaną wyprodukowane przez TSMC. Powodem są ograniczenia USA
  - [https://ithardware.pl/aktualnosci/chinskie_procesory_graficzne_biren_nie_zostana_wyprodukowane_przez_tsmc_powodem_sa_ograniczenia_usa-23980.html](https://ithardware.pl/aktualnosci/chinskie_procesory_graficzne_biren_nie_zostana_wyprodukowane_przez_tsmc_powodem_sa_ograniczenia_usa-23980.html)
  - date published: 2022-10-23 09:04:40+00:00
- - user: None
- - tags: $tags
-
-## Wybory w Chinach. Przedstawiono nowe ścisłe kierownictwo partii; Xi wzmocnił swą władzę
- - [https://www.bankier.pl/wiadomosc/Wybory-w-Chinach-Przedstawiono-nowe-scisle-kierownictwo-partii-Xi-wzmocnil-swa-wladze-8427429.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Wybory-w-Chinach-Przedstawiono-nowe-scisle-kierownictwo-partii-Xi-wzmocnil-swa-wladze-8427429.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
- - date published: 2022-10-23 07:31:00+00:00
  - user: None
  - tags: $tags
 
@@ -495,12 +483,6 @@
  - date published: 2022-10-20 12:39:40+00:00
  - user: None
  - tags: ['telegram', 'censorship', 'germany']
-
-## Wielka Brytania: Posłowie siłą zaciągani na głosowanie
- - [https://wydarzenia.interia.pl/zagranica/news-wielka-brytania-poslowie-sila-zaciagani-na-glosowanie,nId,6359475](https://wydarzenia.interia.pl/zagranica/news-wielka-brytania-poslowie-sila-zaciagani-na-glosowanie,nId,6359475)
- - date published: 2022-10-20 06:22:37+00:00
- - user: None
- - tags: $tags
 
 ## Xi Jinping ostrzega przed „sztormem”. Chiny mierzą się z poważnymi wyzwaniami
  - [https://www.bankier.pl/wiadomosc/Xi-Jinping-ostrzega-przed-sztormem-Chiny-mierza-sie-z-powaznymi-wyzwaniami-8425833.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Xi-Jinping-ostrzega-przed-sztormem-Chiny-mierza-sie-z-powaznymi-wyzwaniami-8425833.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -554,7 +536,7 @@
  - [https://ithardware.pl/aktualnosci/tsmc_przeciwko_niszczeniu_fabryk_w_przypadku_chinskiej_inwazji_i_tak_ich_nie_wykorzystaja-23827.html](https://ithardware.pl/aktualnosci/tsmc_przeciwko_niszczeniu_fabryk_w_przypadku_chinskiej_inwazji_i_tak_ich_nie_wykorzystaja-23827.html)
  - date published: 2022-10-13 10:09:00+00:00
  - user: None
- - tags: $tags
+ - tags: ['taiwan', 'tsmc', 'china']
 
 ## Valve wprowadziło przeprojektowaną wersję mobilnej aplikacji Steam
  - [https://ithardware.pl/aktualnosci/valve_wprowadzilo_przeprojektowana_wersje_mobilnej_aplikacji_steam-23826.html](https://ithardware.pl/aktualnosci/valve_wprowadzilo_przeprojektowana_wersje_mobilnej_aplikacji_steam-23826.html)
@@ -632,7 +614,7 @@
  - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-rosja-twierdzila-ze-most-krymski-jest-niezniszczalny,nId,6335215](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-rosja-twierdzila-ze-most-krymski-jest-niezniszczalny,nId,6335215)
  - date published: 2022-10-08 14:54:43+00:00
  - user: None
- - tags: $tags
+ - tags: ['russia', 'invasion']
 
 ## SWIFT ogłasza „przełom” w eksperymentach z CBDC
  - [https://ithardware.pl/aktualnosci/swift_oglasza_przelom_w_eksperymentach_z_cbdc-23733.html](https://ithardware.pl/aktualnosci/swift_oglasza_przelom_w_eksperymentach_z_cbdc-23733.html)
@@ -686,7 +668,7 @@
  - [https://www.bankier.pl/wiadomosc/Fundusz-Koscielny-puchnie-Rzad-przeznaczy-rekordowa-kwote-na-skladki-osob-duchownych-8418211.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Fundusz-Koscielny-puchnie-Rzad-przeznaczy-rekordowa-kwote-na-skladki-osob-duchownych-8418211.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date published: 2022-10-06 05:50:00+00:00
  - user: None
- - tags: $tags
+ - tags: ['poland', 'church']
 
 ## Niemcy i Hiszpania nie zważają na sprzeciw Francji. Zbudują rurociąg MidCat
  - [https://wydarzenia.interia.pl/zagranica/news-niemcy-i-hiszpania-nie-zwazaja-na-sprzeciw-francji-zbuduja-r,nId,6328837](https://wydarzenia.interia.pl/zagranica/news-niemcy-i-hiszpania-nie-zwazaja-na-sprzeciw-francji-zbuduja-r,nId,6328837)
@@ -742,12 +724,6 @@
  - user: None
  - tags: ['berlin', 'lgbt']
 
-## Wielka Brytania testuje czterodniowy tydzień pracy. Oto pierwsze wnioski
- - [https://www.bankier.pl/wiadomosc/Czterodniowy-tydzien-pracy-sprawdza-sie-w-Wielkiej-Brytanii-8416923.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Czterodniowy-tydzien-pracy-sprawdza-sie-w-Wielkiej-Brytanii-8416923.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
- - date published: 2022-10-04 11:45:00+00:00
- - user: None
- - tags: $tags
-
 ## Berlin: Wkrótce otwarcie przedszkola LGBT. W zarządzie "adwokat pedofilów"
  - [https://wydarzenia.interia.pl/zagranica/news-berlin-wkrotce-otwarcie-przedszkola-lgbt-w-zarzadzie-adwokat,nId,6326318](https://wydarzenia.interia.pl/zagranica/news-berlin-wkrotce-otwarcie-przedszkola-lgbt-w-zarzadzie-adwokat,nId,6326318)
  - date published: 2022-10-04 10:48:08+00:00
@@ -776,7 +752,7 @@
  - [https://www.bankier.pl/wiadomosc/Tak-galopuje-inflacja-w-Turcji-Erdogan-dolewa-oliwy-do-ognia-8416049.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Tak-galopuje-inflacja-w-Turcji-Erdogan-dolewa-oliwy-do-ognia-8416049.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date published: 2022-10-03 08:45:00+00:00
  - user: None
- - tags: $tags
+ - tags: ['crisis', 'turkey']
 
 ## Tesla bije rekordy, a i tak rozczarowuje
  - [https://www.bankier.pl/wiadomosc/Tesla-bije-rekordy-a-i-tak-rozczarowuje-8415997.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Tesla-bije-rekordy-a-i-tak-rozczarowuje-8415997.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -793,8 +769,8 @@
 ## Facebook zlikwidował potężną rosyjską siatkę. Dezinformacja docierała też do PL
  - [https://www.wykop.pl/link/6841763/facebook-zlikwidowal-potezna-rosyjska-siatke-dezinformacja-docierala-tez-do-pl/](https://www.wykop.pl/link/6841763/facebook-zlikwidowal-potezna-rosyjska-siatke-dezinformacja-docierala-tez-do-pl/)
  - date published: 2022-10-02 06:48:01+00:00
- - user: None
- - tags: $tags
+ - user: rumpel
+ - tags: ['facebook', 'misinformation']
 
 ## Szwecja wycofuje rekomendację szczepień na COVID dla dzieci w wieku 12-17 lat
  - [https://www.wykop.pl/link/6841853/szwecja-wycofuje-rekomendacje-szczepien-na-covid-dla-dzieci-w-wieku-12-17-lat/](https://www.wykop.pl/link/6841853/szwecja-wycofuje-rekomendacje-szczepien-na-covid-dla-dzieci-w-wieku-12-17-lat/)
@@ -841,12 +817,6 @@
 ## "Łukaszenka szykuje się do wojny". Na Białoruś przyjedzie 120 tys. rosyjskich żołnierzy
  - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-lukaszenka-szykuje-sie-do-wojny-na-bialorus-przyjedzie-120-t,nId,6316391](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-lukaszenka-szykuje-sie-do-wojny-na-bialorus-przyjedzie-120-t,nId,6316391)
  - date published: 2022-09-29 16:41:17+00:00
- - user: None
- - tags: $tags
-
-## Meta banuje Pornhuba na Instagramie. Firma nie ukrywa niezadowolenia
- - [https://ithardware.pl/aktualnosci/meta_banuje_pornhuba_na_instagramie_firma_nie_ukrywa_niezadowolenia-23581.html](https://ithardware.pl/aktualnosci/meta_banuje_pornhuba_na_instagramie_firma_nie_ukrywa_niezadowolenia-23581.html)
- - date published: 2022-09-29 09:26:30+00:00
  - user: None
  - tags: $tags
 
@@ -898,12 +868,6 @@
  - user: None
  - tags: $tags
 
-## Węgrzy nadal odważnie podnoszą stopy procentowe
- - [https://www.bankier.pl/wiadomosc/Wegrzy-nadal-odwaznie-podnosza-stopy-procentowe-8412604.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Wegrzy-nadal-odwaznie-podnosza-stopy-procentowe-8412604.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
- - date published: 2022-09-27 13:01:00+00:00
- - user: None
- - tags: $tags
-
 ## Coraz więcej Polaków ma konto w kilku bankach. Klienci szukają okazyjnych lokat
  - [https://www.bankier.pl/wiadomosc/Coraz-wiecej-Polakow-ma-konto-w-kilku-bankach-Klienci-szukaja-okazyjnych-lokat-8412434.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Coraz-wiecej-Polakow-ma-konto-w-kilku-bankach-Klienci-szukaja-okazyjnych-lokat-8412434.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date published: 2022-09-27 12:00:00+00:00
@@ -922,23 +886,11 @@
  - user: None
  - tags: $tags
 
-## Mężczyźni uciekają z Rosji. W Kazachstanie czynsze wzrosły kilkukrotnie
- - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-mezczyzni-uciekaja-z-rosji-w-kazachstanie-czynsze-wzrosly-ki,nId,6309941](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-mezczyzni-uciekaja-z-rosji-w-kazachstanie-czynsze-wzrosly-ki,nId,6309941)
- - date published: 2022-09-26 19:23:03+00:00
- - user: None
- - tags: $tags
-
-## Dowódcy wojsk Kremla zginęli na froncie. Potwierdziły to rosyjskie media
- - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-dowodcy-wojsk-kremla-zgineli-na-froncie-potwierdzily-to-rosy,nId,6309903](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-dowodcy-wojsk-kremla-zgineli-na-froncie-potwierdzily-to-rosy,nId,6309903)
- - date published: 2022-09-26 18:33:58+00:00
- - user: None
- - tags: $tags
-
 ## Czy na świecie i w Polsce możliwa jest ekonomia umiaru?
  - [https://www.bankier.pl/wiadomosc/Czy-na-swiecie-i-w-Polsce-mozliwa-jest-ekonomia-umiaru-8411836.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Czy-na-swiecie-i-w-Polsce-mozliwa-jest-ekonomia-umiaru-8411836.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date published: 2022-09-26 16:00:00+00:00
  - user: None
- - tags: $tags
+ - tags: ['sustainable growth', 'world economic forum']
 
 ## Kuba: Społeczeństwo poparło legalizację małżeństw jednopłciowych
  - [https://wydarzenia.interia.pl/zagranica/news-kuba-spoleczenstwo-poparlo-legalizacje-malzenstw-jednoplciow,nId,6309663](https://wydarzenia.interia.pl/zagranica/news-kuba-spoleczenstwo-poparlo-legalizacje-malzenstw-jednoplciow,nId,6309663)
@@ -1150,12 +1102,6 @@
  - user: None
  - tags: $tags
 
-## Czesi zdemaskowali rosyjskiego szpiega w ministerstwie spraw zagranicznych
- - [https://www.wykop.pl/link/6819887/czesi-zdemaskowali-rosyjskiego-szpiega-w-ministerstwie-spraw-zagranicznych/](https://www.wykop.pl/link/6819887/czesi-zdemaskowali-rosyjskiego-szpiega-w-ministerstwie-spraw-zagranicznych/)
- - date published: 2022-09-16 09:42:01+00:00
- - user: None
- - tags: $tags
-
 ## „Razem”: Wyłączanie atomu w czasie walki z emisjami CO2 to zbrodnia klimatyczna
  - [https://www.wykop.pl/link/6819225/razem-wylaczanie-atomu-w-czasie-walki-z-emisjami-co2-to-zbrodnia-klimatyczna/](https://www.wykop.pl/link/6819225/razem-wylaczanie-atomu-w-czasie-walki-z-emisjami-co2-to-zbrodnia-klimatyczna/)
  - date published: 2022-09-16 06:26:01+00:00
@@ -1185,18 +1131,6 @@
  - date published: 2022-09-14 10:57:30+00:00
  - user: None
  - tags: ['china']
-
-## Szpital otrzymał symulacje opłat za prąd. Mają wzrosnąć o 500%. Co dalej?
- - [https://www.wykop.pl/link/6816037/szpital-otrzymal-symulacje-oplat-za-prad-maja-wzrosnac-o-500-co-dalej/](https://www.wykop.pl/link/6816037/szpital-otrzymal-symulacje-oplat-za-prad-maja-wzrosnac-o-500-co-dalej/)
- - date published: 2022-09-14 09:43:02+00:00
- - user: None
- - tags: $tags
-
-## Ceny energii za wysokie dla łódzkiej Filmówki. Odwołano zajęcia w styczniu
- - [https://wydarzenia.interia.pl/lodzkie/news-ceny-energii-za-wysokie-dla-lodzkiej-filmowki-odwolano-zajec,nId,6285112](https://wydarzenia.interia.pl/lodzkie/news-ceny-energii-za-wysokie-dla-lodzkiej-filmowki-odwolano-zajec,nId,6285112)
- - date published: 2022-09-14 07:00:00+00:00
- - user: None
- - tags: $tags
 
 ## Kryzys demograficzny w Bułgarii. 600 wiosek całkowicie wyludnionych
  - [https://www.bankier.pl/wiadomosc/Kryzys-demograficzny-w-Bulgarii-600-wiosek-calkowicie-wyludnionych-8405486.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Kryzys-demograficzny-w-Bulgarii-600-wiosek-calkowicie-wyludnionych-8405486.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -1442,7 +1376,7 @@
  - [https://ithardware.pl/aktualnosci/weryfikatorzy_faktow_facebooka_beda_komentowali_wpisy_nieweryfikowalne-22997.html](https://ithardware.pl/aktualnosci/weryfikatorzy_faktow_facebooka_beda_komentowali_wpisy_nieweryfikowalne-22997.html)
  - date published: 2022-08-29 09:02:10+00:00
  - user: None
- - tags: $tags
+ - tags: ['facebook', 'factcheck', 'censorship']
 
 ## Cenzura książek Karola Maya
  - [https://m.wirtualnemedia.pl/m/artykul/niemiecki-wydawca-wycofuje-ksiazki-o-winnetou-razism#.YwxIfjV-QSA.wykop](https://m.wirtualnemedia.pl/m/artykul/niemiecki-wydawca-wycofuje-ksiazki-o-winnetou-razism#.YwxIfjV-QSA.wykop)
@@ -1466,7 +1400,7 @@
  - [https://ithardware.pl/aktualnosci/pakistan_grozi_odcieciem_dysydentow_od_biometrycznego_systemu_cyfrowej_identyfikacji-22922.html](https://ithardware.pl/aktualnosci/pakistan_grozi_odcieciem_dysydentow_od_biometrycznego_systemu_cyfrowej_identyfikacji-22922.html)
  - date published: 2022-08-24 21:03:40+00:00
  - user: None
- - tags: $tags
+ - tags: ['biometrics', 'surveillance', 'bigtech', 'pakistan', 'bigbrother']
 
 ## "Oto dlaczego nigdy nie będę miał ""inteligentnego dzwonka do drzwi"""
  - [https://antyweb.pl/amazon-ring-inteligentny-dzwonek](https://antyweb.pl/amazon-ring-inteligentny-dzwonek)

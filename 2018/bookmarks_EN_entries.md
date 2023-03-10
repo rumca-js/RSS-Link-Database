@@ -116,7 +116,7 @@
  - [https://www.youtube.com/watch?v=3J1MIDTi9h8](https://www.youtube.com/watch?v=3J1MIDTi9h8)
  - date published: 2018-09-14 20:53:44+00:00
  - user: None
- - tags: $tags
+ - tags: ['social media', 'digital dementia']
 
 ## Bannon falls victim to free speech storm
  - [https://www.cnn.com/2018/09/08/uk/free-speech-bannon-universities-opinion-intl/index.html](https://www.cnn.com/2018/09/08/uk/free-speech-bannon-universities-opinion-intl/index.html)
@@ -170,7 +170,7 @@
  - [https://notrelated.xyz/audio/s01/S01E01_-_The_Origin_of_Consciousness_in_the_Breakdown_of_the_Bicameral_Mind.mp3](https://notrelated.xyz/audio/s01/S01E01_-_The_Origin_of_Consciousness_in_the_Breakdown_of_the_Bicameral_Mind.mp3)
  - date published: 2018-08-24 04:00:00+00:00
  - user: None
- - tags: $tags
+ - tags: ['psychology', 'bicameral mind']
 
 ## Google's data collection is hard to escape, study claims
  - [http://money.cnn.com/2018/08/21/technology/google-data-collection/index.html](http://money.cnn.com/2018/08/21/technology/google-data-collection/index.html)
@@ -369,6 +369,12 @@
  - date published: 2018-04-03 12:35:07+00:00
  - user: rumpel
  - tags: ['inequality', 'google', 'damore', 'peterson', 'feminism']
+
+## It's not just Facebook. Thousands of companies are spying on you (opinion) | CNN
+ - [https://edition.cnn.com/2018/03/26/opinions/data-company-spying-opinion-schneier/index.html](https://edition.cnn.com/2018/03/26/opinions/data-company-spying-opinion-schneier/index.html)
+ - date published: 2018-03-26 07:33:03+00:00
+ - user: rumpel
+ - tags: ['facebook', 'corporatocracy', 'privacy']
 
 ## Why have we given up our privacy to Facebook and other sites so willingly?
  - [https://www.theguardian.com/uk-news/2018/mar/21/why-have-we-given-up-our-privacy-to-facebook-and-other-sites-so-willingly](https://www.theguardian.com/uk-news/2018/mar/21/why-have-we-given-up-our-privacy-to-facebook-and-other-sites-so-willingly)

@@ -32,7 +32,7 @@
  - [https://www.youtube.com/watch?v=fLJBzhcSWTk](https://www.youtube.com/watch?v=fLJBzhcSWTk)
  - date published: 2016-11-28 21:06:29+00:00
  - user: None
- - tags: $tags
+ - tags: ['democracy']
 
 ## When It Comes to Fake News, the U.S. Government Is the Biggest Culprit
  - [https://www.rutherford.org/publications_resources/john_whiteheads_commentary/when_it_comes_to_fake_news_the_u.s._government_is_the_biggest_culprit](https://www.rutherford.org/publications_resources/john_whiteheads_commentary/when_it_comes_to_fake_news_the_u.s._government_is_the_biggest_culprit)

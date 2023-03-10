@@ -1,3 +1,33 @@
+## Rand Paul's criticism of Anthony Fauci was right all along | Washington Examiner
+ - [https://www.washingtonexaminer.com/opinion/rand-pauls-criticism-of-anthony-fauci-was-right-all-along](https://www.washingtonexaminer.com/opinion/rand-pauls-criticism-of-anthony-fauci-was-right-all-along)
+ - date published: 2023-03-09 16:22:19+00:00
+ - user: rumpel
+ - tags: ['fauci', 'covid']
+
+## The FBI Just Admitted It Bought US Location Data
+ - [https://www.wired.com/story/fbi-purchase-location-data-wray-senate/](https://www.wired.com/story/fbi-purchase-location-data-wray-senate/)
+ - date published: 2023-03-09 05:18:40+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'corporatocracy', 'bigbrother', 'fbi']
+
+## Facebook's powerful large language model leaks online
+ - [https://www.vice.com/en/article/xgwqgw/facebooks-powerful-large-language-model-leaks-online-4chan-llama](https://www.vice.com/en/article/xgwqgw/facebooks-powerful-large-language-model-leaks-online-4chan-llama)
+ - date published: 2023-03-09 05:00:00+00:00
+ - user: rumpel
+ - tags: ['leak']
+
+## Privacy is FUTILE…unless…?
+ - [https://www.youtube.com/watch?v=hSjWWL9mzR4](https://www.youtube.com/watch?v=hSjWWL9mzR4)
+ - date published: 2023-03-08 22:01:29+00:00
+ - user: rumpel
+ - tags: ['tracking', 'privacy']
+
+## The privacy loophole in your doorbell
+ - [https://www.politico.com/news/2023/03/07/privacy-loophole-ring-doorbell-00084979](https://www.politico.com/news/2023/03/07/privacy-loophole-ring-doorbell-00084979)
+ - date published: 2023-03-08 14:58:32+00:00
+ - user: rumpel
+ - tags: ['privacy', 'surveillance', 'tracking', 'manufacturing consent', 'corporatocracy']
+
 ## Self-sovereign identity - Wikipedia
  - [https://en.wikipedia.org/wiki/Self-sovereign_identity](https://en.wikipedia.org/wiki/Self-sovereign_identity)
  - date published: 2023-03-08 09:06:46+00:00
@@ -9,6 +39,12 @@
  - date published: 2023-03-08 05:00:02+00:00
  - user: rumpel
  - tags: ['digital passport', 'digital identity', 'mobywatel', 'government control']
+
+## The FBI Tested New Facial Recognition Software on Subways and Street Corners
+ - [https://gizmodo.com/fbi-facial-recognition-janus-horus-1850198100](https://gizmodo.com/fbi-facial-recognition-janus-horus-1850198100)
+ - date published: 2023-03-07 19:04:00+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'facial recognition', 'fbi']
 
 ## Denmark’s Welfare State Became a Surveillance Nightmare
  - [https://www.wired.com/story/algorithms-welfare-state-politics/](https://www.wired.com/story/algorithms-welfare-state-politics/)
@@ -93,6 +129,12 @@
  - date published: 2023-03-03 08:48:19+00:00
  - user: rumpel
  - tags: ['agriculture', 'belgia']
+
+## It's official: BlackLotus malware can bypass secure boot
+ - [https://www.theregister.com/2023/03/01/blacklotus_malware_eset/](https://www.theregister.com/2023/03/01/blacklotus_malware_eset/)
+ - date published: 2023-03-03 05:01:28+00:00
+ - user: rumpel
+ - tags: ['blacklotus', 'malware']
 
 ## The moral case against equity language
  - [https://www.theatlantic.com/magazine/archive/2023/04/equity-language-guides-sierra-club-banned-words/673085/](https://www.theatlantic.com/magazine/archive/2023/04/equity-language-guides-sierra-club-banned-words/673085/)
@@ -435,12 +477,6 @@
  - date published: 2023-02-16 05:00:00+00:00
  - user: rumpel
  - tags: ['open source']
-
-## The Privacy Sandbox Beta is coming to Android
- - [https://blog.google/products/android/the-privacy-sandbox-beta-is-coming-to-android/](https://blog.google/products/android/the-privacy-sandbox-beta-is-coming-to-android/)
- - date published: 2023-02-16 05:00:00+00:00
- - user: rumpel
- - tags: $tags
 
 ## Dutch chip firm ASML says former China employee stole data
  - [https://www.cnn.com/2023/02/15/tech/asml-china-employee-data-breach-intl-hnk/index.html](https://www.cnn.com/2023/02/15/tech/asml-china-employee-data-breach-intl-hnk/index.html)

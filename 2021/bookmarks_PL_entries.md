@@ -92,7 +92,7 @@
  - [https://www.polsatnews.pl/wiadomosc/2021-10-07/australia-rzad-chce-zakazac-anonimowych-komentarzy-media-spolecznosciowe-to-palac-tchorzy/](https://www.polsatnews.pl/wiadomosc/2021-10-07/australia-rzad-chce-zakazac-anonimowych-komentarzy-media-spolecznosciowe-to-palac-tchorzy/)
  - date published: 2021-10-07 20:22:14+00:00
  - user: None
- - tags: $tags
+ - tags: ['bigbrother', 'australia', 'privacy']
 
 ## Wyrok TSUE w sprawie Turowa. Polska musi płacić, inaczej KE zabezpieczy część pieniędzy z funduszy
  - [https://www.onet.pl/informacje/onetwiadomosci/kara-za-kopalnie-w-turowie-polska-musi-placic-jakie-dzialania-moze-podjac-ke/yw3yp46,79cfc278](https://www.onet.pl/informacje/onetwiadomosci/kara-za-kopalnie-w-turowie-polska-musi-placic-jakie-dzialania-moze-podjac-ke/yw3yp46,79cfc278)

@@ -1,3 +1,9 @@
+## Francja niemal całkowicie sparaliżowana na wiele tygodni. Francuzi nie chcą reformy emerytalnej | Niezalezna.pl
+ - [https://niezalezna.pl/477646-francja-protesty-strajki-paraliz-wiek-emerytalny](https://niezalezna.pl/477646-francja-protesty-strajki-paraliz-wiek-emerytalny)
+ - date published: 2023-03-08 23:29:25.319597+00:00
+ - user: rumpel
+ - tags: ['france', 'protest']
+
 ## 19 lekarzy i naukowców stanie przed sądem w Poznaniu. Chodzi o COVID-19 | Głos Wielkopolski
  - [https://gloswielkopolski.pl/19-lekarzy-i-naukowcow-stanie-przed-sadem-w-poznaniu-chodzi-o-covid19/ar/c14-17330665](https://gloswielkopolski.pl/19-lekarzy-i-naukowcow-stanie-przed-sadem-w-poznaniu-chodzi-o-covid19/ar/c14-17330665)
  - date published: 2023-02-28 09:02:14+00:00

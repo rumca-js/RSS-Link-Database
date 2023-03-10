@@ -508,6 +508,12 @@
  - user: rumpel
  - tags: ['technology', 'music']
 
+## Attacks on Christians double since 2017  - Washington Times
+ - [https://www.washingtontimes.com/news/2019/apr/22/attacks-christians-double-2017/](https://www.washingtontimes.com/news/2019/apr/22/attacks-christians-double-2017/)
+ - date published: 2019-04-22 16:15:13+00:00
+ - user: rumpel
+ - tags: ['christianophobia']
+
 ## Giorgia Meloni's electrifying speech at the World Congress of Families, English subtitles
  - [https://www.youtube.com/watch?v=y_Z1LClnhsk](https://www.youtube.com/watch?v=y_Z1LClnhsk)
  - date published: 2019-04-17 20:53:10+00:00

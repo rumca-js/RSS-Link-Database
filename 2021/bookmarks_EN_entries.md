@@ -26,7 +26,7 @@
  - [https://news.bloomberglaw.com/privacy-and-data-security/social-media-faces-privacy-paradox-in-spotting-underage-users](https://news.bloomberglaw.com/privacy-and-data-security/social-media-faces-privacy-paradox-in-spotting-underage-users)
  - date published: 2021-12-30 14:29:45.698572+00:00
  - user: Thomas Pain
- - tags: $tags
+ - tags: ['moderation', 'social media', 'privacy']
 
 ## 2021: The year of the mask - BBC Future
  - [https://www.bbc.com/future/article/20211210-the-ways-masks-defined-our-year](https://www.bbc.com/future/article/20211210-the-ways-masks-defined-our-year)
@@ -274,6 +274,12 @@
  - user: rumpel
  - tags: ['gates foundation', 'bill gates', 'covid', 'who']
 
+## Joe Biden said in July that if you get vaccinated, you will not get COVID | Washington Examiner
+ - [https://www.washingtonexaminer.com/opinion/in-july-joe-biden-said-that-if-you-get-vaccinated-you-will-not-get-covid](https://www.washingtonexaminer.com/opinion/in-july-joe-biden-said-that-if-you-get-vaccinated-you-will-not-get-covid)
+ - date published: 2021-12-16 15:23:21+00:00
+ - user: rumpel
+ - tags: ['vaccine', 'transmission', 'covid', 'covid lie']
+
 ## The 6 Companies That Own (Almost) All Media [INFOGRAPHIC]
  - [https://www.webfx.com/blog/internet/the-6-companies-that-own-almost-all-media-infographic/](https://www.webfx.com/blog/internet/the-6-companies-that-own-almost-all-media-infographic/)
  - date published: 2021-12-16 11:59:17+00:00
@@ -416,7 +422,7 @@
  - [https://www.youtube.com/watch?v=EIX_OskczQA](https://www.youtube.com/watch?v=EIX_OskczQA)
  - date published: 2021-12-02 08:26:55+00:00
  - user: None
- - tags: $tags
+ - tags: ['lockdown', 'germany', 'covid']
 
 ## Will We Need COVID-19 Boosters Every 6 Months?
  - [https://www.healthline.com/health-news/are-we-going-to-need-covid-19-boosters-every-6-months-what-experts-think#Will-boosters-become-an-annual-thing?](https://www.healthline.com/health-news/are-we-going-to-need-covid-19-boosters-every-6-months-what-experts-think#Will-boosters-become-an-annual-thing?)
@@ -1076,7 +1082,7 @@
  - [https://www.techradar.com/news/free-chinese-vpn-exposed-data-from-a-million-users](https://www.techradar.com/news/free-chinese-vpn-exposed-data-from-a-million-users)
  - date published: 2021-10-20 20:09:10+00:00
  - user: None
- - tags: $tags
+ - tags: ['vpn', 'china', 'privacy']
 
 ## Pfizer has power to 'silence' governments and 'maximize profits', consumer group alleges
  - [https://www.abc.net.au/news/2021-10-20/pfizer-covid-19-vaccine-contracts/100553958](https://www.abc.net.au/news/2021-10-20/pfizer-covid-19-vaccine-contracts/100553958)
@@ -2350,12 +2356,6 @@
  - user: Thomas Pain
  - tags: $tags
 
-## The most unbelievable things about life before smartphones - by Matt Ruby - The Rubesletter by Matt Ruby (of Vooza) | Sent every Tuesday
- - [https://mattruby.substack.com/p/the-most-unbelievable-things-about](https://mattruby.substack.com/p/the-most-unbelievable-things-about)
- - date published: 2021-08-03 06:29:33.314520+00:00
- - user: Thomas Pain
- - tags: $tags
-
 ## France Gave Teenagers $350 for Culture. They’re Buying Comic Books. - The New York Times
  - [https://www.nytimes.com/2021/07/28/arts/france-culture-pass.html](https://www.nytimes.com/2021/07/28/arts/france-culture-pass.html)
  - date published: 2021-08-02 19:32:35.151676+00:00
@@ -2606,7 +2606,7 @@
  - [https://www.bbc.co.uk/news/technology-57901113](https://www.bbc.co.uk/news/technology-57901113)
  - date published: 2021-07-20 18:52:52.587720+00:00
  - user: Thomas Pain
- - tags: $tags
+ - tags: ['crypto']
 
 ## Coronavirus doctor's diary: Unvaccinated patients with many regrets - BBC News
  - [https://www.bbc.co.uk/news/stories-57866661](https://www.bbc.co.uk/news/stories-57866661)
@@ -2828,7 +2828,7 @@
  - [https://www.reuters.com/technology/exclusive-twitter-sees-jump-govt-demands-remove-content-journalists-news-outlets-2021-07-14/](https://www.reuters.com/technology/exclusive-twitter-sees-jump-govt-demands-remove-content-journalists-news-outlets-2021-07-14/)
  - date published: 2021-07-15 06:26:20.268040+00:00
  - user: Thomas Pain
- - tags: $tags
+ - tags: ['twitter', 'moderation', 'social media', 'censorship']
 
 ## The unreasonable effectiveness of just showing up everyday | Typesense
  - [https://typesense.org/blog/the-unreasonable-effectiveness-of-just-showing-up-everyday/](https://typesense.org/blog/the-unreasonable-effectiveness-of-just-showing-up-everyday/)
@@ -3368,7 +3368,7 @@
  - [https://www.youtube.com/watch?v=vJYaXy5mmA8](https://www.youtube.com/watch?v=vJYaXy5mmA8)
  - date published: 2021-03-12 15:09:15+00:00
  - user: rumpel
- - tags: ['surveillance', 'orwell', 'bigbrother', 'utopia', 'digital id']
+ - tags: ['orwell', 'all time', 'surveillance', 'utopia', 'digital id', 'bigbrother']
 
 ## Printed to Death: Dollar Due to Crash in 2021
  - [https://www.outsiderclub.com/printed-to-death-dollar-due-to-crash-in-2021/98588](https://www.outsiderclub.com/printed-to-death-dollar-due-to-crash-in-2021/98588)

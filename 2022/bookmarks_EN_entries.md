@@ -14,7 +14,7 @@
  - [https://newsroom.ucla.edu/releases/universities-struggle-to-leverage-data](https://newsroom.ucla.edu/releases/universities-struggle-to-leverage-data)
  - date published: 2022-12-31 17:54:29+00:00
  - user: rumpel
- - tags: $tags
+ - tags: ['bigdata']
 
 ## Bring back personal blogging
  - [https://www.theverge.com/23513418/bring-back-personal-blogging](https://www.theverge.com/23513418/bring-back-personal-blogging)
@@ -88,12 +88,6 @@
  - user: rumpel
  - tags: ['cancel culture', 'victimhood', 'social media']
 
-## Szczecin coraz szybciej rozwija się po drugiej stronie granicy. Czy to już polsko-niemiecka aglomeracja?
- - [https://businessinsider.com.pl/gospodarka/czy-szczecin-staje-sie-polsko-niemiecka-aglomeracja/txd3v7x](https://businessinsider.com.pl/gospodarka/czy-szczecin-staje-sie-polsko-niemiecka-aglomeracja/txd3v7x)
- - date published: 2022-12-30 05:00:00+00:00
- - user: rumpel
- - tags: $tags
-
 ## Hackers abuse Google Ads to spread malware in legit software
  - [https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-to-spread-malware-in-legit-software/](https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-to-spread-malware-in-legit-software/)
  - date published: 2022-12-30 05:00:00+00:00
@@ -129,12 +123,6 @@
  - date published: 2022-12-29 13:21:28.213916+00:00
  - user: rumpel
  - tags: ['covid', 'fraud', 'pandmic']
-
-## Croatia braces for major logistical challenge of changing currencies
- - [https://www.lemonde.fr/en/international/article/2022/12/29/croatia-braces-for-major-logistical-challenge-of-changing-currencies_6009542_4.html](https://www.lemonde.fr/en/international/article/2022/12/29/croatia-braces-for-major-logistical-challenge-of-changing-currencies_6009542_4.html)
- - date published: 2022-12-29 10:00:09+00:00
- - user: rumpel
- - tags: $tags
 
 ## Google Probably Knows Where You Went for the Holidays. Here's How to Stop It
  - [http://www.msn.com/en-us/news/technology/google-probably-knows-where-you-went-for-the-holidays-here-s-how-to-stop-it/ar-AAM5YFv?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/google-probably-knows-where-you-went-for-the-holidays-here-s-how-to-stop-it/ar-AAM5YFv?li=BBnbcA1&srcref=rss)
@@ -206,7 +194,7 @@
  - [http://www.msn.com/en-us/news/politics/gop-s-anti-woke-crusade-splits-corporate-america/ar-AA15Hgzs?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/gop-s-anti-woke-crusade-splits-corporate-america/ar-AA15Hgzs?li=BBnbcA1&srcref=rss)
  - date published: 2022-12-27 10:01:03.840567+00:00
  - user: rumpel
- - tags: $tags
+ - tags: ['woke']
 
 ## Rachel Levine ripped for demanding censorship of 'misinformation' on 'gender-affirming care' for kids
  - [https://www.foxnews.com/media/rachel-levine-ripped-demanding-censorship-misinformation-gender-affirming-care-kids](https://www.foxnews.com/media/rachel-levine-ripped-demanding-censorship-misinformation-gender-affirming-care-kids)
@@ -434,7 +422,7 @@
  - [https://reclaimthenet.org/thousands-of-apps-unavailable-hong-kong-russia/](https://reclaimthenet.org/thousands-of-apps-unavailable-hong-kong-russia/)
  - date published: 2022-12-22 20:04:36+00:00
  - user: rumpel
- - tags: $tags
+ - tags: ['russia', 'surveillance', 'censorship', 'apple']
 
 ## Spain passes law allowing children 16 and over to change legally registered gender without medical supervision
  - [https://www.foxnews.com/world/spain-passes-law-allowing-children-16-over-change-legally-registered-gender-without-medical-supervision](https://www.foxnews.com/world/spain-passes-law-allowing-children-16-over-change-legally-registered-gender-without-medical-supervision)
@@ -560,7 +548,13 @@
  - [https://www.techradar.com/news/dont-expect-a-raspberry-pi-5-in-2023](https://www.techradar.com/news/dont-expect-a-raspberry-pi-5-in-2023)
  - date published: 2022-12-21 16:33:01+00:00
  - user: None
- - tags: $tags
+ - tags: ['raspberry']
+
+## Report: Attacks on Christian Churches Nearly Triple in Four Years
+ - [https://www.breitbart.com/politics/2022/12/21/report-attacks-on-christian-churches-nearly-triple-in-four-years/](https://www.breitbart.com/politics/2022/12/21/report-attacks-on-christian-churches-nearly-triple-in-four-years/)
+ - date published: 2022-12-21 16:14:10+00:00
+ - user: rumpel
+ - tags: ['christianophobia']
 
 ## Pfizer Penalties Since 2000: $10B
  - [https://violationtracker.goodjobsfirst.org/parent/pfizer](https://violationtracker.goodjobsfirst.org/parent/pfizer)
@@ -664,12 +658,6 @@
  - user: None
  - tags: ['socialengineering', 'newspeak', 'stanford', 'woke']
 
-## China’s Covid Death Reports Spread as Doubts Grow About Official Virus Data
- - [http://www.msn.com/en-us/news/world/china-s-covid-death-reports-spread-as-doubts-grow-about-official-virus-data/ar-AA15tlcX?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/china-s-covid-death-reports-spread-as-doubts-grow-about-official-virus-data/ar-AA15tlcX?li=BBnbcA1&srcref=rss)
- - date published: 2022-12-20 06:53:23.734927+00:00
- - user: None
- - tags: $tags
-
 ## FTC Fines Fortnite Maker Epic Games $275 Million for Violating Children's Privacy Law
  - [https://thehackernews.com/2022/12/ftc-fines-fortnite-maker-epic-games-275.html](https://thehackernews.com/2022/12/ftc-fines-fortnite-maker-epic-games-275.html)
  - date published: 2022-12-20 06:33:00+00:00
@@ -704,7 +692,7 @@
  - [https://www.theguardian.com/commentisfree/2022/dec/19/in-2022-i-decided-to-get-away-from-screens-and-read-more-books-it-was-wonderful](https://www.theguardian.com/commentisfree/2022/dec/19/in-2022-i-decided-to-get-away-from-screens-and-read-more-books-it-was-wonderful)
  - date published: 2022-12-19 11:08:16+00:00
  - user: None
- - tags: $tags
+ - tags: ['unplug']
 
 ## Twitter announces, then quickly retracts ban on promoting other social media
  - [http://www.msn.com/en-us/news/technology/twitter-announces-then-quickly-retracts-ban-on-promoting-other-social-media/ar-AA15qjms?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/twitter-announces-then-quickly-retracts-ban-on-promoting-other-social-media/ar-AA15qjms?li=BBnbcA1&srcref=rss)
@@ -830,7 +818,7 @@
  - [https://reclaimthenet.org/fbi-responds-after-revelations-it-flagged-tweets-for-censorship/](https://reclaimthenet.org/fbi-responds-after-revelations-it-flagged-tweets-for-censorship/)
  - date published: 2022-12-17 01:56:35+00:00
  - user: None
- - tags: $tags
+ - tags: ['censorship', 'fbi', 'tweeter']
 
 ## John Carmack is leaving Meta
  - [https://www.theverge.com/2022/12/16/23513622/john-carmack-leaving-meta-virtual-reality-oculus-cto](https://www.theverge.com/2022/12/16/23513622/john-carmack-leaving-meta-virtual-reality-oculus-cto)
@@ -895,12 +883,6 @@
 ## Disputing A Parking Fine with ChatGPT - Notes by Lex
  - [https://notesbylex.com/disputing-a-parking-fine-with-chatgpt.html?utm_source=hackernewsletter&utm_medium=email&utm_term=fav](https://notesbylex.com/disputing-a-parking-fine-with-chatgpt.html?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
  - date published: 2022-12-16 12:34:21.774330+00:00
- - user: Thomas Pain
- - tags: $tags
-
-## Site Update: No More Revue - Xe Iaso
- - [https://xeiaso.net/blog/site-update-no-more-revue](https://xeiaso.net/blog/site-update-no-more-revue)
- - date published: 2022-12-16 12:19:37.555259+00:00
  - user: Thomas Pain
  - tags: $tags
 
@@ -1330,12 +1312,6 @@
  - user: None
  - tags: ['blackrock', 'esg']
 
-## Luke Smith: The Return to Normalcy - (Live interview by Justin Murphy)
- - [https://www.youtube.com/watch?v=VcHW0mpi9y8](https://www.youtube.com/watch?v=VcHW0mpi9y8)
- - date published: 2022-12-09 20:00:22+00:00
- - user: None
- - tags: $tags
-
 ## EU court orders Google to remove “manifestly inaccurate” information
  - [https://reclaimthenet.org/eu-court-orders-google-to-remove-manifestly-inaccurate-information/](https://reclaimthenet.org/eu-court-orders-google-to-remove-manifestly-inaccurate-information/)
  - date published: 2022-12-09 19:50:45+00:00
@@ -1532,7 +1508,7 @@
  - [https://reclaimthenet.org/world-health-organization-censorship-misinformation-pandemic-treaty/](https://reclaimthenet.org/world-health-organization-censorship-misinformation-pandemic-treaty/)
  - date published: 2022-12-06 17:27:12+00:00
  - user: None
- - tags: $tags
+ - tags: ['who', 'moderation', 'censorship', 'misinformation']
 
 ## Ethereum change cut cryptocurrency power demand
  - [https://www.bbc.co.uk/news/technology-63872983?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-63872983?at_medium=RSS&at_campaign=KARANGA)
@@ -1586,7 +1562,7 @@
  - [https://www.theverge.com/2022/12/5/23494175/facebook-dating-ai-face-scanning-age-verification-expansion-yoti](https://www.theverge.com/2022/12/5/23494175/facebook-dating-ai-face-scanning-age-verification-expansion-yoti)
  - date published: 2022-12-05 17:00:28+00:00
  - user: None
- - tags: $tags
+ - tags: ['meta', 'facial recognition', 'biometrics']
 
 ## Kyle Rittenhouse goes viral after asking if Twitter files will reveal 'hidden censoring' against him
  - [https://www.foxnews.com/media/kyle-rittenhouse-goes-viral-asking-twitter-files-reveal-hidden-censoring](https://www.foxnews.com/media/kyle-rittenhouse-goes-viral-asking-twitter-files-reveal-hidden-censoring)
@@ -1658,7 +1634,7 @@
  - [https://www.activistpost.com/2022/12/china-mandates-social-credit-system-for-social-media-will-track-likes-on-harmful-content.html](https://www.activistpost.com/2022/12/china-mandates-social-credit-system-for-social-media-will-track-likes-on-harmful-content.html)
  - date published: 2022-12-04 08:36:38+00:00
  - user: None
- - tags: $tags
+ - tags: ['social media', 'surveillance', 'social credit', 'china']
 
 ## Fauci suggested FBI be warned about possible lab leak before he dismissed hypothesis
  - [http://www.msn.com/en-us/news/world/fauci-suggested-fbi-be-warned-about-possible-lab-leak-before-he-dismissed-hypothesis/ar-AA14SMEq?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/fauci-suggested-fbi-be-warned-about-possible-lab-leak-before-he-dismissed-hypothesis/ar-AA14SMEq?li=BBnbcA1&srcref=rss)
@@ -1724,7 +1700,7 @@
  - [https://smaller.fish/posts/snap_updates](https://smaller.fish/posts/snap_updates)
  - date published: 2022-12-02 18:58:25+00:00
  - user: None
- - tags: $tags
+ - tags: ['technofeudalism']
 
 ## Republicans go to war with Biden's 401k ESG 'cancer'
  - [https://www.dailymail.co.uk/news/article-11490637/Republicans-war-Bidens-401k-ESG-cancer.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11490637/Republicans-war-Bidens-401k-ESG-cancer.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -2002,12 +1978,6 @@
  - user: rumpel
  - tags: $tags
 
-## Mastodon: Servers, Good and Bad
- - [https://nedbatchelder.com/blog/202211/mastodon_servers_good_and_bad.html](https://nedbatchelder.com/blog/202211/mastodon_servers_good_and_bad.html)
- - date published: 2022-11-27 18:06:55+00:00
- - user: None
- - tags: $tags
-
 ## Thriving on China's Belt and Road, Laos border town ditches kip for yuan
  - [https://asia.nikkei.com/Spotlight/Belt-and-Road/Thriving-on-China-s-Belt-and-Road-Laos-border-town-ditches-kip-for-yuan](https://asia.nikkei.com/Spotlight/Belt-and-Road/Thriving-on-China-s-Belt-and-Road-Laos-border-town-ditches-kip-for-yuan)
  - date published: 2022-11-27 17:49:42+00:00
@@ -2079,12 +2049,6 @@
  - date published: 2022-11-26 10:30:00+00:00
  - user: rumpel
  - tags: ['science', 'climate change', 'scienceisdead']
-
-## Site Update: Version 3.0 - Xe Iaso
- - [https://xeiaso.net/blog/site-update-v3](https://xeiaso.net/blog/site-update-v3)
- - date published: 2022-11-26 09:47:21.161789+00:00
- - user: Thomas Pain
- - tags: $tags
 
 ## Rotten Tomatoes Won’t Exist In 5 Years. Here’s Why.
  - [https://www.youtube.com/watch?v=E8ZB2SjNzrc](https://www.youtube.com/watch?v=E8ZB2SjNzrc)
@@ -2620,12 +2584,6 @@
  - user: None
  - tags: $tags
 
-## Scaling Mastodon in the Face of an Exodus
- - [https://nora.codes/post/scaling-mastodon-in-the-face-of-an-exodus/](https://nora.codes/post/scaling-mastodon-in-the-face-of-an-exodus/)
- - date published: 2022-11-11 15:40:59+00:00
- - user: None
- - tags: $tags
-
 ## Scientists find a surprising answer to the future of computers — paper
  - [https://www.digitaltrends.com/computing/scientists-find-answer-to-future-computers-in-paper/](https://www.digitaltrends.com/computing/scientists-find-answer-to-future-computers-in-paper/)
  - date published: 2022-11-11 15:39:21.348041+00:00
@@ -2696,7 +2654,7 @@
  - [https://www.theguardian.com/world/2022/nov/09/xi-jinping-tells-chinas-army-to-focus-on-preparation-for-war](https://www.theguardian.com/world/2022/nov/09/xi-jinping-tells-chinas-army-to-focus-on-preparation-for-war)
  - date published: 2022-11-09 19:00:13+00:00
  - user: None
- - tags: $tags
+ - tags: ['crisis', 'taiwan', 'china']
 
 ## Smartphones Are Like Cars. So Why Don’t We Maintain Them?
  - [https://www.nytimes.com/2022/11/09/technology/personaltech/smartphone-repair.html](https://www.nytimes.com/2022/11/09/technology/personaltech/smartphone-repair.html)
@@ -2805,12 +2763,6 @@
  - date published: 2022-11-07 14:20:50+00:00
  - user: rumpel
  - tags: ['bigbrother', 'america', 'antitrust', 'bigtech']
-
-## Xess 2: CSS variable edition - Xe
- - [https://xeiaso.net/blog/xess-css-variables](https://xeiaso.net/blog/xess-css-variables)
- - date published: 2022-11-07 12:46:32.205522+00:00
- - user: Thomas Pain
- - tags: $tags
 
 ## Without Trust, Digital Worlds Collapse
  - [https://www.forbes.com/sites/joemckendrick/2022/11/07/without-trust-digital-worlds-collapse/](https://www.forbes.com/sites/joemckendrick/2022/11/07/without-trust-digital-worlds-collapse/)
@@ -2936,7 +2888,7 @@
  - [https://www.forbes.com/sites/katharineschwab/2022/11/04/elon-musk-twitter-layoffs-midterm-elections/](https://www.forbes.com/sites/katharineschwab/2022/11/04/elon-musk-twitter-layoffs-midterm-elections/)
  - date published: 2022-11-04 17:05:30+00:00
  - user: None
- - tags: $tags
+ - tags: ['social media', 'moderation', 'censorship']
 
 ## UK Government scans all web servers hosted in the UK for vulnerabilities
  - [https://www.ncsc.gov.uk/information/ncsc-scanning-information](https://www.ncsc.gov.uk/information/ncsc-scanning-information)
@@ -2984,7 +2936,7 @@
  - [https://0pointer.net/blog/linux-boot-partitions.html](https://0pointer.net/blog/linux-boot-partitions.html)
  - date published: 2022-11-03 18:13:25+00:00
  - user: None
- - tags: $tags
+ - tags: ['linux', 'boot partitions']
 
 ## Why Modern Movies Suck - The Myth Of The "Modern Audience"
  - [https://www.youtube.com/watch?v=F2ngB-zjVmM](https://www.youtube.com/watch?v=F2ngB-zjVmM)
@@ -3328,12 +3280,6 @@
  - user: rumpel
  - tags: ['crisis', 'climate change', 'egypt']
 
-## Various site updates - Xe
- - [https://xeiaso.net/blog/site-update-mastodon-quoting](https://xeiaso.net/blog/site-update-mastodon-quoting)
- - date published: 2022-10-31 13:34:17.469499+00:00
- - user: Thomas Pain
- - tags: $tags
-
 ## California makes it illegal for doctors to disagree with politicians
  - [https://nypost.com/2022/10/10/california-makes-it-illegal-for-doctors-to-disagree-with-politicians/](https://nypost.com/2022/10/10/california-makes-it-illegal-for-doctors-to-disagree-with-politicians/)
  - date published: 2022-10-31 13:27:01+00:00
@@ -3590,7 +3536,7 @@
  - [https://www.zdnet.com/article/ai-true-goal-may-no-longer-be-intelligence/#ftag=RSSbaffb68](https://www.zdnet.com/article/ai-true-goal-may-no-longer-be-intelligence/#ftag=RSSbaffb68)
  - date published: 2022-10-28 12:00:00+00:00
  - user: None
- - tags: $tags
+ - tags: ['artificial intelligence']
 
 ## I use a Raspberry Pi as my daily computer for over a year now
  - [https://www.heyhomepage.com/?module=blog&link=1&post=4](https://www.heyhomepage.com/?module=blog&link=1&post=4)
@@ -3644,7 +3590,7 @@
  - [https://www.youtube.com/watch?v=M7DRDIwHa0E](https://www.youtube.com/watch?v=M7DRDIwHa0E)
  - date published: 2022-10-28 01:15:08+00:00
  - user: None
- - tags: $tags
+ - tags: ['china']
 
 ## EU lawmakers agree to phase out combustion-engine cars by 2035
  - [https://www.dailymail.co.uk/news/article-11363035/EU-lawmakers-agree-phase-combustion-engine-cars-2035.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11363035/EU-lawmakers-agree-phase-combustion-engine-cars-2035.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -3722,7 +3668,7 @@
  - [https://www.activistpost.com/2022/10/us-citizens-were-given-secret-covid-decree-violation-scores.html](https://www.activistpost.com/2022/10/us-citizens-were-given-secret-covid-decree-violation-scores.html)
  - date published: 2022-10-27 12:14:56+00:00
  - user: None
- - tags: $tags
+ - tags: ['covid', 'surveillance', 'social score', 'bigtech', 'tracking', 'privacy', 'bigbrother']
 
 ## Facebook photo sparks NSW ambulance diversity probe
  - [https://www.dailymail.co.uk/news/article-11360651/Facebook-photo-sparks-NSW-ambulance-diversity-probe.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11360651/Facebook-photo-sparks-NSW-ambulance-diversity-probe.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -3794,7 +3740,7 @@
  - [https://news.ycombinator.com/item?id=33346568](https://news.ycombinator.com/item?id=33346568)
  - date published: 2022-10-26 17:08:34+00:00
  - user: None
- - tags: $tags
+ - tags: ['meta', 'privacy']
 
 ## The currency of the new economy won't be money, but attention (1997)
  - [https://www.wired.com/1997/12/es-attention/](https://www.wired.com/1997/12/es-attention/)
@@ -3910,12 +3856,6 @@
  - user: None
  - tags: ['covid', 'vaccine']
 
-## Google and Microsoft hit by slowing economy
- - [https://www.bbc.co.uk/news/business-63394516?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63394516?at_medium=RSS&at_campaign=KARANGA)
- - date published: 2022-10-25 21:53:33+00:00
- - user: None
- - tags: $tags
-
 ## Employers should prioritize retention over hiring, study suggests
  - [https://www.hrdive.com/news/employers-may-need-to-prioritize-retention-over-hiring-study-suggests/632540/](https://www.hrdive.com/news/employers-may-need-to-prioritize-retention-over-hiring-study-suggests/632540/)
  - date published: 2022-10-25 19:20:29+00:00
@@ -3950,7 +3890,7 @@
  - [https://www.clockworkpi.com/](https://www.clockworkpi.com/)
  - date published: 2022-10-25 14:45:00+00:00
  - user: None
- - tags: $tags
+ - tags: ['raspberry']
 
 ## I recorded user behaviour on my competitor’s websites (2018)
  - [https://dejanmarketing.com/competitor-hack/](https://dejanmarketing.com/competitor-hack/)
@@ -3992,7 +3932,7 @@
  - [https://www.memorysafety.org/blog/rust-in-linux-just-the-beginning/](https://www.memorysafety.org/blog/rust-in-linux-just-the-beginning/)
  - date published: 2022-10-25 06:54:41+00:00
  - user: None
- - tags: $tags
+ - tags: ['linux kernel']
 
 ## Matthew Perry on the challenges of finding true love when you're filthy rich
  - [https://www.foxnews.com/entertainment/matthew-perry-challenges-finding-true-love-when-youre-filthy-rich](https://www.foxnews.com/entertainment/matthew-perry-challenges-finding-true-love-when-youre-filthy-rich)
@@ -4003,12 +3943,6 @@
 ## What “Work” Looks Like
  - [https://blog.jim-nielsen.com/2022/what-work-looks-like/](https://blog.jim-nielsen.com/2022/what-work-looks-like/)
  - date published: 2022-10-25 04:04:47+00:00
- - user: None
- - tags: $tags
-
-## Linus Torvalds wants to drop i486 support from the Linux kernel citing its age
- - [https://www.codeproject.com/script/News/View.aspx?nwid=59296](https://www.codeproject.com/script/News/View.aspx?nwid=59296)
- - date published: 2022-10-25 04:00:00+00:00
  - user: None
  - tags: $tags
 
@@ -4172,7 +4106,7 @@
  - [https://www.dailywire.com/news/china-could-invade-taiwan-within-the-next-year-u-s-navy-chief-warns](https://www.dailywire.com/news/china-could-invade-taiwan-within-the-next-year-u-s-navy-chief-warns)
  - date published: 2022-10-23 14:13:26+00:00
  - user: None
- - tags: $tags
+ - tags: ['taiwan', 'china']
 
 ## Elite NYC private schools make parents sign 'anti-racist' commitment, attend 'anti-racist training'
  - [https://www.foxnews.com/us/elite-nyc-private-schools-make-parents-sign-anti-racist-commitment-attend-anti-racist-training](https://www.foxnews.com/us/elite-nyc-private-schools-make-parents-sign-anti-racist-commitment-attend-anti-racist-training)
@@ -4202,13 +4136,7 @@
  - [https://www.foxnews.com/media/cnn-claims-pets-have-big-climate-impact-advises-buying-smaller-breeds-feed-them-insect-based-food](https://www.foxnews.com/media/cnn-claims-pets-have-big-climate-impact-advises-buying-smaller-breeds-feed-them-insect-based-food)
  - date published: 2022-10-22 16:30:02+00:00
  - user: None
- - tags: $tags
-
-## Biden Just Clobbered China’s Chip Industry
- - [https://www.reddit.com/r/politics/comments/yarucd/biden_just_clobbered_chinas_chip_industry/](https://www.reddit.com/r/politics/comments/yarucd/biden_just_clobbered_chinas_chip_industry/)
- - date published: 2022-10-22 16:18:45+00:00
- - user: None
- - tags: $tags
+ - tags: ['climate change']
 
 ## We Own Nothing In The Digital Age - We're Letting It Happen
  - [https://youtu.be/XmkFoPV5DCg](https://youtu.be/XmkFoPV5DCg)
@@ -4363,12 +4291,6 @@
 ## US might bail Musk out by blocking Twitter deal over national security
  - [https://arstechnica.com/?p=1891916](https://arstechnica.com/?p=1891916)
  - date published: 2022-10-21 15:56:06+00:00
- - user: None
- - tags: $tags
-
-## Snap's Continued Poor Performance Has Social Media Investors Nervous
- - [https://gizmodo.com/snap-chat-q3-ad-revenue-1849686777](https://gizmodo.com/snap-chat-q3-ad-revenue-1849686777)
- - date published: 2022-10-21 15:18:00+00:00
  - user: None
  - tags: $tags
 
@@ -4730,7 +4652,7 @@
  - [https://www.foxnews.com/media/florida-surgeon-general-blocked-sharing-covid-vaccine-study-twitter-enormous-deal](https://www.foxnews.com/media/florida-surgeon-general-blocked-sharing-covid-vaccine-study-twitter-enormous-deal)
  - date published: 2022-10-11 17:37:42+00:00
  - user: None
- - tags: $tags
+ - tags: ['vaccine', 'moderation', 'censorship', 'covid']
 
 ## Meta Quest Pro hands-on: The $1,500 headset that ‘will enable the metaverse’
  - [https://www.engadget.com/meta-quest-pro-hands-on-specs-price-the-headset-that-will-enable-the-metaverse-173253437.html?src=rss](https://www.engadget.com/meta-quest-pro-hands-on-specs-price-the-headset-that-will-enable-the-metaverse-173253437.html?src=rss)
@@ -5024,7 +4946,7 @@
  - [https://staltz.com/software-below-the-poverty-line.html](https://staltz.com/software-below-the-poverty-line.html)
  - date published: 2022-10-05 04:32:25+00:00
  - user: None
- - tags: $tags
+ - tags: ['open source']
 
 ## Finally! USB-C charging ports will be required by law in the EU for most portable tech from 2024
  - [https://www.pcgamer.com/finally-usb-c-charging-ports-will-be-required-by-law-in-the-eu-for-most-portable-tech-from-2024](https://www.pcgamer.com/finally-usb-c-charging-ports-will-be-required-by-law-in-the-eu-for-most-portable-tech-from-2024)
@@ -5342,7 +5264,7 @@
  - [https://www.dailywire.com/news/twitter-appears-to-shadowban-videos-of-italys-first-female-incoming-prime-minister](https://www.dailywire.com/news/twitter-appears-to-shadowban-videos-of-italys-first-female-incoming-prime-minister)
  - date published: 2022-09-29 21:28:07+00:00
  - user: None
- - tags: $tags
+ - tags: ['censorship', 'shadowban', 'italy']
 
 ## FBI allegedly engaging in 'purge' of conservative employees, retaliating against whistleblowers: Jim Jordan
  - [https://www.foxnews.com/politics/fbi-allegedly-engaging-purge-conservative-employees-retaliating-against-whistleblowers-jim-jordan](https://www.foxnews.com/politics/fbi-allegedly-engaging-purge-conservative-employees-retaliating-against-whistleblowers-jim-jordan)
@@ -5419,12 +5341,6 @@
 ## Trans charity Mermaids is a scandal unfolding before our eyes
  - [https://www.dailymail.co.uk/news/article-11260169/Trans-charity-Mermaids-scandal-unfolding-eyes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11260169/Trans-charity-Mermaids-scandal-unfolding-eyes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2022-09-28 21:05:34+00:00
- - user: None
- - tags: $tags
-
-## Twitter Ran Ads on Profiles That Solicited Child Sexual Abuse Content     - CNET
- - [https://www.cnet.com/news/social-media/twitter-ran-ads-on-profiles-that-solicited-child-sexual-abuse-content/#ftag=CADf328eec](https://www.cnet.com/news/social-media/twitter-ran-ads-on-profiles-that-solicited-child-sexual-abuse-content/#ftag=CADf328eec)
- - date published: 2022-09-28 20:58:19+00:00
  - user: None
  - tags: $tags
 
@@ -5546,7 +5462,7 @@
  - [https://www.nytimes.com/2022/09/27/technology/meta-chinese-influence-us-elections.html](https://www.nytimes.com/2022/09/27/technology/meta-chinese-influence-us-elections.html)
  - date published: 2022-09-27 12:15:06+00:00
  - user: None
- - tags: $tags
+ - tags: ['meta', 'china', 'misinformation']
 
 ## Google warns EU plans to make tech giants pay for networks is outdated concept
  - [https://www.techradar.com/news/google-warns-eu-plans-to-make-tech-giants-pay-for-networks-is-outdated-concept/](https://www.techradar.com/news/google-warns-eu-plans-to-make-tech-giants-pay-for-networks-is-outdated-concept/)
@@ -5593,12 +5509,6 @@
 ## Brazil cost of living: The food delivery riders who can't afford to eat
  - [https://www.bbc.co.uk/news/world-latin-america-63036839?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-latin-america-63036839?at_medium=RSS&at_campaign=KARANGA)
  - date published: 2022-09-27 00:15:24+00:00
- - user: None
- - tags: $tags
-
-## Tim Cook: 'No good excuse' for lack of women in tech
- - [https://www.bbc.co.uk/news/technology-63033078?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-63033078?at_medium=RSS&at_campaign=KARANGA)
- - date published: 2022-09-26 23:46:55+00:00
  - user: None
  - tags: $tags
 
@@ -5848,12 +5758,6 @@
  - user: Thomas Pain
  - tags: $tags
 
-## Don’t spy on employees to ensure they’re working, Microsoft says
- - [https://www.codeproject.com/script/News/View.aspx?nwid=58978](https://www.codeproject.com/script/News/View.aspx?nwid=58978)
- - date published: 2022-09-23 04:00:00+00:00
- - user: None
- - tags: $tags
-
 ## Microsoft is making significant improvements to SMB authentication in Windows 11
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58986](https://www.codeproject.com/script/News/View.aspx?nwid=58986)
  - date published: 2022-09-23 04:00:00+00:00
@@ -6038,7 +5942,7 @@
  - [https://www.dailywire.com/news/fbi-suspends-whistleblower-who-criticized-bureaus-handling-of-january-6-investigations-report](https://www.dailywire.com/news/fbi-suspends-whistleblower-who-criticized-bureaus-handling-of-january-6-investigations-report)
  - date published: 2022-09-21 11:02:35+00:00
  - user: None
- - tags: $tags
+ - tags: ['fbi', 'jan6']
 
 ## Entitlement in Open Source
  - [https://mikemcquaid.com/entitlement-in-open-source/](https://mikemcquaid.com/entitlement-in-open-source/)
@@ -6194,7 +6098,7 @@
  - [https://www.tiktok.com/legal/privacy-policy-us?lang=en](https://www.tiktok.com/legal/privacy-policy-us?lang=en)
  - date published: 2022-09-18 10:28:53+00:00
  - user: None
- - tags: $tags
+ - tags: ['surveillance', 'tiktok', 'bigtech', 'privacy', 'bigbrothre']
 
 ## School District Defends Trans Shop Teacher Whose Enormous Fake Breasts Spurred Internet Furor
  - [https://www.dailywire.com/news/school-district-defends-trans-shop-teacher-whose-enormous-fake-breasts-spurred-internet-furor](https://www.dailywire.com/news/school-district-defends-trans-shop-teacher-whose-enormous-fake-breasts-spurred-internet-furor)
@@ -6400,12 +6304,6 @@
  - user: None
  - tags: ['etherum', 'crypto', 'all time']
 
-## Is TikTok’s time running out?
- - [https://www.theverge.com/2022/9/15/23354539/tiktok-senate-hearing-china-influence-bytedance](https://www.theverge.com/2022/9/15/23354539/tiktok-senate-hearing-china-influence-bytedance)
- - date published: 2022-09-15 13:30:00+00:00
- - user: None
- - tags: $tags
-
 ## The Meta Oversight Board says Facebook’s automated image takedowns are broken
  - [https://www.theverge.com/2022/9/15/23353593/meta-facebook-oversight-board-decisions-automated-image-takedowns-extremist-groups](https://www.theverge.com/2022/9/15/23353593/meta-facebook-oversight-board-decisions-automated-image-takedowns-extremist-groups)
  - date published: 2022-09-15 12:00:00+00:00
@@ -6439,12 +6337,6 @@
 ## Long Covid is now the third leading neurological disorder in the US
  - [https://www.chicagomag.com/chicago-magazine/october-2022/the-long-haul/](https://www.chicagomag.com/chicago-magazine/october-2022/the-long-haul/)
  - date published: 2022-09-15 02:05:41+00:00
- - user: None
- - tags: $tags
-
-## Senate panel advances bill to bolster US security assistance to Taiwan
- - [https://www.cnn.com/2022/09/14/politics/us-senate-panel-bill-security-assistance-taiwan/index.html](https://www.cnn.com/2022/09/14/politics/us-senate-panel-bill-security-assistance-taiwan/index.html)
- - date published: 2022-09-15 01:26:31+00:00
  - user: None
  - tags: $tags
 
@@ -6556,12 +6448,6 @@
  - user: None
  - tags: ['dark design', 'fastfood', 'kfc']
 
-## CNN cuts from coverage of Biden’s Inflation Reduction Act speech as Dow plummets: 'Hard to be celebratory'
- - [https://www.foxnews.com/media/cnn-cuts-coverage-bidens-inflation-reduction-act-speech-dow-plummets-hard-celebratory](https://www.foxnews.com/media/cnn-cuts-coverage-bidens-inflation-reduction-act-speech-dow-plummets-hard-celebratory)
- - date published: 2022-09-14 00:32:26+00:00
- - user: None
- - tags: $tags
-
 ## The Fed's war on inflation may take the US economy down with it
  - [https://www.cnn.com/2022/09/13/business/nightcap-inflation-economy-fed/index.html](https://www.cnn.com/2022/09/13/business/nightcap-inflation-economy-fed/index.html)
  - date published: 2022-09-14 00:00:14+00:00
@@ -6577,18 +6463,6 @@
 ## China's Xi to meet Putin in first foreign trip since pandemic
  - [https://www.bbc.co.uk/news/world-asia-china-62885151?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-china-62885151?at_medium=RSS&at_campaign=KARANGA)
  - date published: 2022-09-13 23:35:15+00:00
- - user: None
- - tags: $tags
-
-## EA announces kernel-level anti-cheat system for PC games
- - [https://www.theverge.com/2022/9/13/23351900/ea-kernel-level-anti-cheat-system-fifa-23](https://www.theverge.com/2022/9/13/23351900/ea-kernel-level-anti-cheat-system-fifa-23)
- - date published: 2022-09-13 21:51:52+00:00
- - user: None
- - tags: $tags
-
-## Google partners with the US government to supply chips and spur innovation
- - [https://www.zdnet.com/article/google-partners-with-the-us-government-to-supply-chips-and-spur-innovation/#ftag=RSSbaffb68](https://www.zdnet.com/article/google-partners-with-the-us-government-to-supply-chips-and-spur-innovation/#ftag=RSSbaffb68)
- - date published: 2022-09-13 20:32:14+00:00
  - user: None
  - tags: $tags
 
@@ -6740,7 +6614,7 @@
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58842](https://www.codeproject.com/script/News/View.aspx?nwid=58842)
  - date published: 2022-09-12 04:00:00+00:00
  - user: None
- - tags: $tags
+ - tags: ['dark design', 'google search', 'monopoly']
 
 ## New Linux malware combines unusual stealth with a full suite of capabilities
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58841](https://www.codeproject.com/script/News/View.aspx?nwid=58841)
@@ -6826,12 +6700,6 @@
  - user: None
  - tags: $tags
 
-## Intel CEO warns of more tough times ahead
- - [https://www.techradar.com/news/intel-ceo-warns-of-more-tough-times-ahead/](https://www.techradar.com/news/intel-ceo-warns-of-more-tough-times-ahead/)
- - date published: 2022-09-09 19:31:43+00:00
- - user: None
- - tags: $tags
-
 ## Supreme Court Sides With Yeshiva University In LGBTQ Club Case
  - [https://www.dailywire.com/news/supreme-court-sides-with-yeshiva-university-in-lgbtq-club-case](https://www.dailywire.com/news/supreme-court-sides-with-yeshiva-university-in-lgbtq-club-case)
  - date published: 2022-09-09 19:26:32+00:00
@@ -6904,12 +6772,6 @@
  - user: None
  - tags: $tags
 
-## Patreon laid off their ENTIRE security team
- - [https://twitter.com/wbm312/status/1567974063578185728](https://twitter.com/wbm312/status/1567974063578185728)
- - date published: 2022-09-08 21:56:55+00:00
- - user: None
- - tags: $tags
-
 ## http://http://http://@http://http://?http://#http:// | daniel.haxx.se
  - [https://daniel.haxx.se/blog/2022/09/08/http-http-http-http-http-http-http/](https://daniel.haxx.se/blog/2022/09/08/http-http-http-http-http-http-http/)
  - date published: 2022-09-08 21:35:28.606984+00:00
@@ -6956,7 +6818,7 @@
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58818](https://www.codeproject.com/script/News/View.aspx?nwid=58818)
  - date published: 2022-09-08 04:00:00+00:00
  - user: None
- - tags: $tags
+ - tags: ['artificial intelligence', 'open source']
 
 ## What if consciousness is not an emergent property of the brain?
  - [https://www.frontiersin.org/articles/10.3389/fpsyg.2022.955594/full](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.955594/full)
@@ -6998,7 +6860,7 @@
  - [https://www.cnn.com/2022/09/07/entertainment/peppa-pig-same-sex-couple-intl-scli-gbr/index.html](https://www.cnn.com/2022/09/07/entertainment/peppa-pig-same-sex-couple-intl-scli-gbr/index.html)
  - date published: 2022-09-07 14:03:12+00:00
  - user: None
- - tags: $tags
+ - tags: ['gender', 'woke']
 
 ## Facebook engineers: we have no idea where we keep all your personal data
  - [https://theintercept.com/2022/09/07/facebook-personal-data-no-accountability/](https://theintercept.com/2022/09/07/facebook-personal-data-no-accountability/)
@@ -7100,7 +6962,7 @@
  - [https://www.reddit.com/r/news/comments/x71fcv/apple_is_gaining_on_facebook_and_google_in_online/](https://www.reddit.com/r/news/comments/x71fcv/apple_is_gaining_on_facebook_and_google_in_online/)
  - date published: 2022-09-06 04:51:27+00:00
  - user: None
- - tags: $tags
+ - tags: ['facebook', 'google', 'apple', 'ad business']
 
 ## COVID app that detects virus in your voice 'more accurate than lateral flow tests'
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58793](https://www.codeproject.com/script/News/View.aspx?nwid=58793)
@@ -7162,12 +7024,6 @@
  - user: None
  - tags: $tags
 
-## Announcing the glorious advent of XeDN - Xe
- - [https://xeiaso.net/blog/xedn](https://xeiaso.net/blog/xedn)
- - date published: 2022-09-05 08:36:54.608039+00:00
- - user: Thomas Pain
- - tags: $tags
-
 ## Woman follows cheating boyfriend using Apple AirTag, kills him
  - [https://www.reddit.com/r/news/comments/x6a7s2/woman_follows_cheating_boyfriend_using_apple/](https://www.reddit.com/r/news/comments/x6a7s2/woman_follows_cheating_boyfriend_using_apple/)
  - date published: 2022-09-05 07:40:15+00:00
@@ -7208,7 +7064,7 @@
  - [https://www.salon.com/2014/02/06/4_insane_ways_google_has_been_prying_into_our_privacy_partner/](https://www.salon.com/2014/02/06/4_insane_ways_google_has_been_prying_into_our_privacy_partner/)
  - date published: 2022-09-04 19:12:03+00:00
  - user: None
- - tags: $tags
+ - tags: ['google', 'privacy']
 
 ## 22,000 smart thermostats in Colorado locked over ‘energy emergency’
  - [https://bgr.com/tech/22000-smart-thermostats-in-colorado-locked-over-energy-emergency-sparking-outrage/](https://bgr.com/tech/22000-smart-thermostats-in-colorado-locked-over-energy-emergency-sparking-outrage/)
@@ -7226,7 +7082,7 @@
  - [https://www.theguardian.com/news/2022/sep/04/super-rich-prepper-bunkers-apocalypse-survival-richest-rushkoff](https://www.theguardian.com/news/2022/sep/04/super-rich-prepper-bunkers-apocalypse-survival-richest-rushkoff)
  - date published: 2022-09-04 09:43:52+00:00
  - user: None
- - tags: $tags
+ - tags: ['billionaires', 'elite']
 
 ## Apple can terminate developer account without a reason by mistake
  - [https://twitter.com/svbelmeha/status/1566063915515133952](https://twitter.com/svbelmeha/status/1566063915515133952)
@@ -8186,7 +8042,7 @@
  - [https://petapixel.com/2022/07/27/googles-nest-will-provide-data-to-police-without-a-warrant/](https://petapixel.com/2022/07/27/googles-nest-will-provide-data-to-police-without-a-warrant/)
  - date published: 2022-07-28 08:36:58.313714+00:00
  - user: Thomas Pain
- - tags: $tags
+ - tags: ['google', 'technofeudalism', 'bigtech', 'privacy', 'bigbrother']
 
 ## UK under international pressure over deletion of abortion commitments | Global development | The Guardian
  - [https://www.theguardian.com/global-development/2022/jul/22/european-countries-pressurise-uk-over-removal-of-abortion-commitments-liz-truss](https://www.theguardian.com/global-development/2022/jul/22/european-countries-pressurise-uk-over-removal-of-abortion-commitments-liz-truss)
@@ -8264,7 +8120,7 @@
  - [https://www.ctrl.blog/entry/teamviewer-font-privacy.html](https://www.ctrl.blog/entry/teamviewer-font-privacy.html)
  - date published: 2022-07-21 08:49:50.577258+00:00
  - user: Thomas Pain
- - tags: $tags
+ - tags: ['surveillance', 'teamviewer', 'privacy']
 
 ## What happens when you press a key in your terminal?
  - [https://jvns.ca/blog/2022/07/20/pseudoterminals/](https://jvns.ca/blog/2022/07/20/pseudoterminals/)
@@ -9076,6 +8932,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Big Tech Using an Army of Lobbyists to Defang Privacy Laws, Claims New Report - Spiceworks
+ - [https://www.spiceworks.com/it-security/data-security/news/big-tech-state-privacy-laws/](https://www.spiceworks.com/it-security/data-security/news/big-tech-state-privacy-laws/)
+ - date published: 2022-05-30 07:37:04+00:00
+ - user: rumpel
+ - tags: ['corporatocracy', 'surveillance', 'tracking', 'privacy']
+
 ## Boris Johnson to reportedly bring back imperial measurements to mark platinum jubilee | Brexit | The Guardian
  - [https://www.theguardian.com/politics/2022/may/28/boris-johnson-set-to-bring-back-imperial-measurements-to-mark-platinum-jubilee](https://www.theguardian.com/politics/2022/may/28/boris-johnson-set-to-bring-back-imperial-measurements-to-mark-platinum-jubilee)
  - date published: 2022-05-30 06:02:56.255929+00:00
@@ -9123,6 +8985,12 @@
  - date published: 2022-05-27 06:40:19.107190+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## ICE Spies on Majority of Americans, Despite Privacy Laws - Boundless
+ - [https://www.boundless.com/blog/ice-spies-on-majority-of-americans/](https://www.boundless.com/blog/ice-spies-on-majority-of-americans/)
+ - date published: 2022-05-26 07:34:48+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'tracking', 'ice', 'privacy']
 
 ## Google has been DDoSing SourceHut for over a year
  - [https://drewdevault.com/2022/05/25/Google-has-been-DDoSing-sourcehut.html](https://drewdevault.com/2022/05/25/Google-has-been-DDoSing-sourcehut.html)
@@ -9250,12 +9118,6 @@
  - user: Thomas Pain
  - tags: $tags
 
-## The use of "Assume Good Faith" to shut down discussions about sexism on Wikipedia
- - [https://blog.mollywhite.net/assume-good-faith/#fnref:fn1](https://blog.mollywhite.net/assume-good-faith/#fnref:fn1)
- - date published: 2022-05-17 11:30:55.752399+00:00
- - user: Thomas Pain
- - tags: $tags
-
 ## MEMEX - The Small Website Discoverability Crisis [2021-09-08]
  - [https://memex.marginalia.nu/log/19-website-discoverability-crisis.gmi](https://memex.marginalia.nu/log/19-website-discoverability-crisis.gmi)
  - date published: 2022-05-16 20:48:17.020218+00:00
@@ -9339,6 +9201,12 @@
  - date published: 2022-05-10 18:59:22.955936+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## ICE officials spying on majority of Americans, report says - Los Angeles Times
+ - [https://www.latimes.com/california/story/2022-05-10/report-immigration-officials-spying-on-majority-of-americans](https://www.latimes.com/california/story/2022-05-10/report-immigration-officials-spying-on-majority-of-americans)
+ - date published: 2022-05-10 07:34:04+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'tracking', 'ice', 'privacy']
 
 ## I'm a fucking webmaster
  - [https://justinjackson.ca/webmaster/](https://justinjackson.ca/webmaster/)
@@ -9922,12 +9790,6 @@
  - user: Thomas Pain
  - tags: $tags
 
-## YouTube Comments Discontinuation - Xe
- - [https://xeiaso.net/blog/no-more-youtube-comments-2021-11-27](https://xeiaso.net/blog/no-more-youtube-comments-2021-11-27)
- - date published: 2022-04-08 11:46:22.784128+00:00
- - user: Thomas Pain
- - tags: $tags
-
 ## Troy Hunt: Beg Bounties
  - [https://www.troyhunt.com/beg-bounties/](https://www.troyhunt.com/beg-bounties/)
  - date published: 2022-04-08 11:23:32.508595+00:00
@@ -10442,7 +10304,7 @@
  - [https://www.reviewgeek.com/111381/you-dont-really-ever-own-an-ev/](https://www.reviewgeek.com/111381/you-dont-really-ever-own-an-ev/)
  - date published: 2022-03-12 08:47:24.909762+00:00
  - user: Thomas Pain
- - tags: $tags
+ - tags: ['electric vehicles', 'technofeudalism', 'climate change']
 
 ## Twitter makes it harder to choose the old reverse-chronological feed - The Verge
  - [https://www.theverge.com/2022/3/10/22971307/twitter-home-timeline-algorithmic-reverse-chronological-feed](https://www.theverge.com/2022/3/10/22971307/twitter-home-timeline-algorithmic-reverse-chronological-feed)
@@ -10550,7 +10412,7 @@
  - [https://raccoon.onyxbits.de/blog/bugreport-free-support/](https://raccoon.onyxbits.de/blog/bugreport-free-support/)
  - date published: 2022-03-06 14:48:03.429207+00:00
  - user: Thomas Pain
- - tags: $tags
+ - tags: ['open source']
 
 ## A new year, a new MDN - Mozilla Hacks - the Web developer blog
  - [https://hacks.mozilla.org/2022/03/a-new-year-a-new-mdn/](https://hacks.mozilla.org/2022/03/a-new-year-a-new-mdn/)
@@ -10912,6 +10774,12 @@
  - user: Thomas Pain
  - tags: ['biometric']
 
+## The Real Privacy Enemy is Ourselves - by Henry
+ - [https://dispatch.techlore.tech/p/the-real-privacy-enemy-is-ourselves-dc2188ad7eeb](https://dispatch.techlore.tech/p/the-real-privacy-enemy-is-ourselves-dc2188ad7eeb)
+ - date published: 2022-02-08 07:45:38+00:00
+ - user: rumpel
+ - tags: ['tracking', 'privacy']
+
 ## One machine can go pretty far if you build things properly
  - [https://rachelbythebay.com/w/2022/01/27/scale/](https://rachelbythebay.com/w/2022/01/27/scale/)
  - date published: 2022-02-07 19:43:55.171582+00:00
@@ -10947,12 +10815,6 @@
  - date published: 2022-02-06 20:44:29+00:00
  - user: rumpel
  - tags: ['fearmongering', 'covid', 'propaganda']
-
-## LGBT tolerance 'going backwards' as hate crimes up - BBC News
- - [https://www.bbc.co.uk/news/uk-wales-60257602](https://www.bbc.co.uk/news/uk-wales-60257602)
- - date published: 2022-02-06 09:54:45.118334+00:00
- - user: Thomas Pain
- - tags: $tags
 
 ## Tech giants targeted in harmful content crackdown - BBC News
  - [https://www.bbc.co.uk/news/technology-60264178](https://www.bbc.co.uk/news/technology-60264178)
