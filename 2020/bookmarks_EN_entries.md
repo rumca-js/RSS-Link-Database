@@ -442,6 +442,12 @@
  - user: None
  - tags: ['covid', 'freedom']
 
+## Trump Admin to Ban TikTok, WeChat From U.S. App Stores - The New York Times
+ - [https://www.nytimes.com/2020/09/18/business/trump-tik-tok-wechat-ban.html](https://www.nytimes.com/2020/09/18/business/trump-tik-tok-wechat-ban.html)
+ - date published: 2020-09-18 21:40:47+00:00
+ - user: rumpel
+ - tags: ['china', 'tiktok']
+
 ## Netflix Defends ‘Cuties’ as ‘Social Commentary’ Against Sexualization of Young Children
  - [https://variety.com/2020/digital/news/netflix-defends-cuties-against-sexualization-young-girls-1234766347/](https://variety.com/2020/digital/news/netflix-defends-cuties-against-sexualization-young-girls-1234766347/)
  - date published: 2020-09-10 08:25:33+00:00
@@ -759,6 +765,12 @@
  - date published: 2020-06-30 20:01:50+00:00
  - user: rumpel
  - tags: ['censorship', 'youtube']
+
+## India bans TikTok, WeChat and dozens more Chinese apps - BBC News
+ - [https://www.bbc.com/news/technology-53225720](https://www.bbc.com/news/technology-53225720)
+ - date published: 2020-06-29 21:43:31+00:00
+ - user: rumpel
+ - tags: ['china', 'wechat', 'tiktok', 'india']
 
 ## What is the real goal of the ‘Stop Hate for Profit’ campaign against Facebook? Hint: it has nothing to do with ‘hate speech’
  - [https://www.rt.com/op-ed/493295-stop-hate-advertising-extortion-astroturf/](https://www.rt.com/op-ed/493295-stop-hate-advertising-extortion-astroturf/)

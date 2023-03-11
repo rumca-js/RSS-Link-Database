@@ -316,6 +316,12 @@
  - user: None
  - tags: ['who', 'bill gates']
 
+## You Won’t Believe What Obama Says In This Video! 😉
+ - [https://www.youtube.com/watch?v=cQ54GDm1eL0](https://www.youtube.com/watch?v=cQ54GDm1eL0)
+ - date published: 2018-04-17 00:00:00+00:00
+ - user: rumpel
+ - tags: ['deepfake']
+
 ## On The Internet, Bots Have Already Overrun Humans. What Do They Want?
  - [https://www.forbes.com/sites/michaeldurkheimer/2018/04/16/on-the-internet-bots-have-already-overrun-humans-what-do-they-want/](https://www.forbes.com/sites/michaeldurkheimer/2018/04/16/on-the-internet-bots-have-already-overrun-humans-what-do-they-want/)
  - date published: 2018-04-16 10:03:20+00:00

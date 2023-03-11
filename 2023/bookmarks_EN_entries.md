@@ -22,6 +22,12 @@
  - user: rumpel
  - tags: ['tracking', 'privacy']
 
+## RESTRICT Act: The Biden administration is shifting its approach to TikTok | CNN Business
+ - [https://edition.cnn.com/2023/03/08/tech/biden-tiktok-bill/index.html](https://edition.cnn.com/2023/03/08/tech/biden-tiktok-bill/index.html)
+ - date published: 2023-03-08 21:41:43+00:00
+ - user: rumpel
+ - tags: ['china', 'restrict act', 'tiktok']
+
 ## The privacy loophole in your doorbell
  - [https://www.politico.com/news/2023/03/07/privacy-loophole-ring-doorbell-00084979](https://www.politico.com/news/2023/03/07/privacy-loophole-ring-doorbell-00084979)
  - date published: 2023-03-08 14:58:32+00:00
@@ -33,6 +39,12 @@
  - date published: 2023-03-08 09:06:46+00:00
  - user: rumpel
  - tags: ['digital passport', 'digital identity']
+
+## Twitch Finally Reacts To Atrioc Deepfake Drama | EarlyGame
+ - [https://earlygame.com/entertainment/twitch-finally-reacts-to-atrioc-deepfake-drama](https://earlygame.com/entertainment/twitch-finally-reacts-to-atrioc-deepfake-drama)
+ - date published: 2023-03-08 07:44:51+00:00
+ - user: rumpel
+ - tags: ['deepfake']
 
 ## Od aplikacji mObywatel, do Tożsamości Suwerennej. Jak to wpłynie na nasze życie?
  - [https://www.youtube.com/watch?v=2L2Hr2QOOJk](https://www.youtube.com/watch?v=2L2Hr2QOOJk)
@@ -51,6 +63,18 @@
  - date published: 2023-03-07 12:59:28+00:00
  - user: rumpel
  - tags: ['bigbrother', 'surveillance']
+
+## Twitch starts to address 'deepfake porn', and the first thing to go is that phrase | PC Gamer
+ - [https://www.pcgamer.com/twitch-starts-to-address-deepfake-porn-and-the-first-thing-to-go-is-that-phrase/](https://www.pcgamer.com/twitch-starts-to-address-deepfake-porn-and-the-first-thing-to-go-is-that-phrase/)
+ - date published: 2023-03-07 07:45:11+00:00
+ - user: rumpel
+ - tags: ['deepfake']
+
+## TikTok bans on Australian government-issued phones should be extended to other apps, experts say
+ - [https://www.theguardian.com/technology/2023/mar/07/tiktok-bans-on-australian-government-issued-phones-should-be-extended-to-other-apps-experts-say](https://www.theguardian.com/technology/2023/mar/07/tiktok-bans-on-australian-government-issued-phones-should-be-extended-to-other-apps-experts-say)
+ - date published: 2023-03-07 06:53:54+00:00
+ - user: rumpel
+ - tags: ['tiktok']
 
 ## Joe Rogan blasts George Soros: 'An evil person in a Batman movie'
  - [https://www.youtube.com/watch?v=npJNERfBAes](https://www.youtube.com/watch?v=npJNERfBAes)
@@ -219,6 +243,18 @@
  - date published: 2023-03-01 06:56:30+00:00
  - user: rumpel
  - tags: ['youwillownnothing', 'subscription', 'technofeudalism']
+
+## Jordan Peterson about the german government (DeepFake AI)
+ - [https://www.youtube.com/watch?v=ha3gfD7S0_E](https://www.youtube.com/watch?v=ha3gfD7S0_E)
+ - date published: 2023-03-01 00:00:00+00:00
+ - user: rumpel
+ - tags: ['deepfake']
+
+## European Parliament latest EU body to ban TikTok from staff phones | Reuters
+ - [https://www.reuters.com/technology/european-parliament-ban-tiktok-staff-phones-eu-official-says-2023-02-28/](https://www.reuters.com/technology/european-parliament-ban-tiktok-staff-phones-eu-official-says-2023-02-28/)
+ - date published: 2023-02-28 21:45:14+00:00
+ - user: rumpel
+ - tags: ['europe', 'tiktok']
 
 ## Legendary journalist Seymour Hersh under fire for his reporting on the Nord Stream pipeline sabotage | USA | EL PAÍS English Edition
  - [https://english.elpais.com/usa/2023-02-28/legendary-journalist-seymour-hersh-under-fire-for-his-reporting-on-the-nord-stream-pipeline-sabotage.html](https://english.elpais.com/usa/2023-02-28/legendary-journalist-seymour-hersh-under-fire-for-his-reporting-on-the-nord-stream-pipeline-sabotage.html)
@@ -1299,6 +1335,12 @@
  - date published: 2023-01-19 22:23:16+00:00
  - user: rumpel
  - tags: ['subscription', 'twitter']
+
+## Wall Street’s Streaming Warnings to Hollywood Get More Dire – The Hollywood Reporter
+ - [https://www.hollywoodreporter.com/business/business-news/wall-street-streaming-guidance-2023-1235302958/](https://www.hollywoodreporter.com/business/business-news/wall-street-streaming-guidance-2023-1235302958/)
+ - date published: 2023-01-19 20:57:11+00:00
+ - user: rumpel
+ - tags: ['youwillownnothing', 'streaming', 'movies']
 
 ## Inside the Facebook Files: Emails Reveal CDC's Role in Stifling COVID Dissent
  - [https://reason.com/2023/01/19/facebook-files-emails-cdc-covid-vaccines-censorship/](https://reason.com/2023/01/19/facebook-files-emails-cdc-covid-vaccines-censorship/)
