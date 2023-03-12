@@ -1,3 +1,51 @@
+## ChatGPT's API Is So Good and Cheap, It Makes Most Text Generating AI Obsolete
+ - [https://minimaxir.com/2023/03/new-chatgpt-overlord/](https://minimaxir.com/2023/03/new-chatgpt-overlord/)
+ - date published: 2023-03-11 18:20:17+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence', 'chatgpt']
+
+## Why I Use Old Hardware
+ - [https://drewdevault.com/2019/01/23/Why-I-use-old-hardware.html](https://drewdevault.com/2019/01/23/Why-I-use-old-hardware.html)
+ - date published: 2023-03-11 16:06:21+00:00
+ - user: rumpel
+ - tags: ['linux']
+
+## Invasive cell phone surveillance monitors calls and text messages
+ - [https://www.foxnews.com/tech/invasive-cell-phone-surveillance-monitors-calls-text-messages](https://www.foxnews.com/tech/invasive-cell-phone-surveillance-monitors-calls-text-messages)
+ - date published: 2023-03-11 16:00:27+00:00
+ - user: rumpel
+ - tags: ['stingray', 'privacy', 'bigbrother', 'surveillance']
+
+## GitHub - awesome-selfhosted/awesome-selfhosted: A list of Free Software network services and web applications which can be hosted on your own servers
+ - [https://github.com/awesome-selfhosted/awesome-selfhosted#bookmarks-and-link-sharing](https://github.com/awesome-selfhosted/awesome-selfhosted#bookmarks-and-link-sharing)
+ - date published: 2023-03-11 14:22:36+00:00
+ - user: rumpel
+ - tags: ['selfhost']
+
+## The Deception Over Climate is Even Worse Than the Deception Over Covid
+ - [https://dailysceptic.org/2023/03/11/the-deception-over-climate-is-even-worse-than-the-deception-over-covid/](https://dailysceptic.org/2023/03/11/the-deception-over-climate-is-even-worse-than-the-deception-over-covid/)
+ - date published: 2023-03-11 07:00:00+00:00
+ - user: rumpel
+ - tags: ['climate change']
+
+## ‘Profiteering’ of Covid pandemic must never be repeated, world figures warn
+ - [https://www.theguardian.com/global-development/2023/mar/11/profiteering-of-covid-pandemic-must-never-be-repeated-world-figures-warn](https://www.theguardian.com/global-development/2023/mar/11/profiteering-of-covid-pandemic-must-never-be-repeated-world-figures-warn)
+ - date published: 2023-03-11 06:01:11+00:00
+ - user: rumpel
+ - tags: ['bigpharma', 'covid']
+
+## What does Silicon Valley Bank’s collapse mean for the financial system?
+ - [https://www.economist.com/finance-and-economics/2023/03/10/what-does-silicon-valley-banks-collapse-mean-for-the-financial-system](https://www.economist.com/finance-and-economics/2023/03/10/what-does-silicon-valley-banks-collapse-mean-for-the-financial-system)
+ - date published: 2023-03-10 23:29:43+00:00
+ - user: rumpel
+ - tags: ['crisis']
+
+## Disney Plus is in BIG Trouble (And They're Not Alone)
+ - [https://www.youtube.com/watch?v=4N88pOhyKyE](https://www.youtube.com/watch?v=4N88pOhyKyE)
+ - date published: 2023-03-10 20:28:59+00:00
+ - user: rumpel
+ - tags: ['streaming']
+
 ## Rand Paul's criticism of Anthony Fauci was right all along | Washington Examiner
  - [https://www.washingtonexaminer.com/opinion/rand-pauls-criticism-of-anthony-fauci-was-right-all-along](https://www.washingtonexaminer.com/opinion/rand-pauls-criticism-of-anthony-fauci-was-right-all-along)
  - date published: 2023-03-09 16:22:19+00:00
@@ -188,7 +236,7 @@
  - [https://new.pythonforengineers.com/blog/ai-apopcalypse-more-like-blindsight-less-like-terminator/](https://new.pythonforengineers.com/blog/ai-apopcalypse-more-like-blindsight-less-like-terminator/)
  - date published: 2023-03-02 14:05:54+00:00
  - user: rumpel
- - tags: ['chatgpt']
+ - tags: ['artificial intelligence', 'chatgpt']
 
 ## The Death of Europe's Last Electronics Giant
  - [https://www.youtube.com/watch?v=WE58YisgFeQ](https://www.youtube.com/watch?v=WE58YisgFeQ)
@@ -555,12 +603,6 @@
  - date published: 2023-02-14 00:17:48+00:00
  - user: rumpel
  - tags: ['masks', 'covid']
-
-## I tried using AI. It scared me.
- - [https://youtu.be/jPhJbKBuNnA](https://youtu.be/jPhJbKBuNnA)
- - date published: 2023-02-13 21:51:14+00:00
- - user: rumpel
- - tags: ['chatgpt', 'artificial intelligence']
 
 ## Why the word 'freedom' is such a useful rallying cry for protesters | CBC Radio
  - [https://www.cbc.ca/radio/checkup/what-s-your-reaction-to-the-ottawa-standoff-and-the-border-blockades-1.6349636/why-the-word-freedom-is-such-a-useful-rallying-cry-for-protesters-1.6349865](https://www.cbc.ca/radio/checkup/what-s-your-reaction-to-the-ottawa-standoff-and-the-border-blockades-1.6349636/why-the-word-freedom-is-such-a-useful-rallying-cry-for-protesters-1.6349865)
