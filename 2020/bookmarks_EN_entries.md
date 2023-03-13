@@ -428,7 +428,7 @@
  - [https://reclaimthenet.org/gates-foundation-funds-facebook-fact-checkers/](https://reclaimthenet.org/gates-foundation-funds-facebook-fact-checkers/)
  - date published: 2020-09-21 07:17:36+00:00
  - user: None
- - tags: ['bill gates', 'facebook', 'factchecker']
+ - tags: ['bill gates', 'facebook', 'factcheck']
 
 ## Myth as History: Rohl's New Chronology
  - [https://notrelated.xyz/audio/s02/S02E03_-_Myth_as_History_Rohls_New_Chronology.ogg](https://notrelated.xyz/audio/s02/S02E03_-_Myth_as_History_Rohls_New_Chronology.ogg)

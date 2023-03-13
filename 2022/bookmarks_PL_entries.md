@@ -278,7 +278,7 @@
  - [https://www.polsatnews.pl/wiadomosc/2022-11-01/koreanczycy-zbuduja-elektrownie-atomowa-w-polsce-buduja-w-budzecie-i-w-terminie/](https://www.polsatnews.pl/wiadomosc/2022-11-01/koreanczycy-zbuduja-elektrownie-atomowa-w-polsce-buduja-w-budzecie-i-w-terminie/)
  - date published: 2022-11-01 10:45:00+00:00
  - user: None
- - tags: ['poland', 'energy crisis']
+ - tags: ['energy', 'poland']
 
 ## Jerzy Owsiak przegrał proces. "Moje serce powoli umiera"
  - [https://teleshow.wp.pl/jerzy-owsiak-przegral-proces-barbara-piela-moje-serce-powoli-umiera-6826854577212320a](https://teleshow.wp.pl/jerzy-owsiak-przegral-proces-barbara-piela-moje-serce-powoli-umiera-6826854577212320a)

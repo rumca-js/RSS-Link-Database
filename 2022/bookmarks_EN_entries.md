@@ -314,7 +314,7 @@
  - [https://www.youtube.com/watch?v=uQFWlrfhe8M](https://www.youtube.com/watch?v=uQFWlrfhe8M)
  - date published: 2022-12-24 18:21:46+00:00
  - user: rumpel
- - tags: ['disney', 'marvel', 'crisis']
+ - tags: ['disney', 'marvel']
 
 ## Joe Rogan’s Podcast Shows Horrifying Slave Conditions Used To Mine Materials Needed For Electric Cars
  - [https://www.dailywire.com/news/joe-rogans-podcast-shows-horrifying-slave-conditions-used-to-mine-materials-needed-for-electric-cars](https://www.dailywire.com/news/joe-rogans-podcast-shows-horrifying-slave-conditions-used-to-mine-materials-needed-for-electric-cars)
@@ -4118,7 +4118,7 @@
  - [https://joeldare.com/private-analtyics-and-my-raspberry-pi-400.html](https://joeldare.com/private-analtyics-and-my-raspberry-pi-400.html)
  - date published: 2022-10-22 22:24:40+00:00
  - user: None
- - tags: ['raspberry pi', 'raspberry']
+ - tags: ['raspberry']
 
 ## Judge rules Fauci be deposed in lawsuit alleging White House worked with Big Tech to censor speech
  - [https://www.foxnews.com/politics/judge-rules-fauci-deposed-lawsuit-alleging-white-house-worked-with-big-tech-censor-speech](https://www.foxnews.com/politics/judge-rules-fauci-deposed-lawsuit-alleging-white-house-worked-with-big-tech-censor-speech)

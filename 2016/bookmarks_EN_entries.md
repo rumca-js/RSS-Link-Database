@@ -64,6 +64,12 @@
  - user: None
  - tags: ['blackrock', 'larry fink', 'esg']
 
+## Black Lives Matter vs All Lives Matter Supporters (Social Experiment)
+ - [https://www.youtube.com/watch?v=SL8f5iWrzN0](https://www.youtube.com/watch?v=SL8f5iWrzN0)
+ - date published: 2016-09-26 00:00:00+00:00
+ - user: rumpel
+ - tags: ['hypocrisy', 'blm', 'black lives matter']
+
 ## CppCon 2016: Jason Turner “Rich Code for Tiny Computers: A Simple Commodore 64 Game in C++17”
  - [https://www.youtube.com/watch?v=zBkNBP00wJE](https://www.youtube.com/watch?v=zBkNBP00wJE)
  - date published: 2016-09-24 13:32:10+00:00

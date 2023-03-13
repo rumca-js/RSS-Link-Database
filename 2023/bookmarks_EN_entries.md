@@ -1,3 +1,9 @@
+## AI's Next Big Takeover: Audiobooks     - CNET
+ - [https://www.cnet.com/tech/features/ais-next-big-takeover-audiobooks/#ftag=CADf328eec](https://www.cnet.com/tech/features/ais-next-big-takeover-audiobooks/#ftag=CADf328eec)
+ - date published: 2023-03-12 11:02:07+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
+
 ## ChatGPT's API Is So Good and Cheap, It Makes Most Text Generating AI Obsolete
  - [https://minimaxir.com/2023/03/new-chatgpt-overlord/](https://minimaxir.com/2023/03/new-chatgpt-overlord/)
  - date published: 2023-03-11 18:20:17+00:00
@@ -46,6 +52,24 @@
  - user: rumpel
  - tags: ['streaming']
 
+## Google, Meta hired talent to do 'fake work'
+ - [https://fortune.com/2023/03/10/google-over-hired-talent-do-nothing-fake-work-stop-working-rivals-former-paypal-boss-keith-rabois/](https://fortune.com/2023/03/10/google-over-hired-talent-do-nothing-fake-work-stop-working-rivals-former-paypal-boss-keith-rabois/)
+ - date published: 2023-03-10 19:01:27+00:00
+ - user: rumpel
+ - tags: ['work', 'corporations']
+
+## SVB Financial CEO Sold $3.6 Million In Stock Before Bank’s Collapse
+ - [https://www.forbes.com/sites/brianbushard/2023/03/10/svb-financial-ceo-sold-36-million-in-stock-before-banks-collapse/](https://www.forbes.com/sites/brianbushard/2023/03/10/svb-financial-ceo-sold-36-million-in-stock-before-banks-collapse/)
+ - date published: 2023-03-10 15:02:56+00:00
+ - user: rumpel
+ - tags: ['silicon valley bank', 'svb', 'crisis']
+
+## Women’s rights have gone ‘too far’, say majority of Gen Z and millennials, study shows
+ - [https://www.telegraph.co.uk/news/2023/03/09/womens-rights-have-gone-far-say-majority-gen-z-millennials-study/](https://www.telegraph.co.uk/news/2023/03/09/womens-rights-have-gone-far-say-majority-gen-z-millennials-study/)
+ - date published: 2023-03-09 20:18:16+00:00
+ - user: rumpel
+ - tags: ['feminism', 'propaganda']
+
 ## Rand Paul's criticism of Anthony Fauci was right all along | Washington Examiner
  - [https://www.washingtonexaminer.com/opinion/rand-pauls-criticism-of-anthony-fauci-was-right-all-along](https://www.washingtonexaminer.com/opinion/rand-pauls-criticism-of-anthony-fauci-was-right-all-along)
  - date published: 2023-03-09 16:22:19+00:00
@@ -63,6 +87,12 @@
  - date published: 2023-03-09 05:00:00+00:00
  - user: rumpel
  - tags: ['leak']
+
+## Covid’s effect on mental health not as great as first thought, study suggests
+ - [https://www.theguardian.com/society/2023/mar/08/covid-effect-mental-health-study-mcgill-university](https://www.theguardian.com/society/2023/mar/08/covid-effect-mental-health-study-mcgill-university)
+ - date published: 2023-03-08 23:30:04+00:00
+ - user: rumpel
+ - tags: ['covid']
 
 ## Privacy is FUTILE…unless…?
  - [https://www.youtube.com/watch?v=hSjWWL9mzR4](https://www.youtube.com/watch?v=hSjWWL9mzR4)
@@ -170,7 +200,7 @@
  - [https://www.telegraph.co.uk/news/2023/03/04/project-fear-covid-variant-lockdown-matt-hancock-whatsapp/](https://www.telegraph.co.uk/news/2023/03/04/project-fear-covid-variant-lockdown-matt-hancock-whatsapp/)
  - date published: 2023-03-05 00:37:56+00:00
  - user: rumpel
- - tags: ['fearmongering', 'lockdown files l', 'covid']
+ - tags: ['fearmongering', 'covid', 'lockdown files']
 
 ## Ring to Put Basic Security Features Behind a Paywall | PCMag
  - [https://www.pcmag.com/news/ring-will-put-basic-security-features-behind-paywall](https://www.pcmag.com/news/ring-will-put-basic-security-features-behind-paywall)
@@ -1676,7 +1706,7 @@
  - [https://github.com/awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
  - date published: 2023-01-13 12:59:05+00:00
  - user: rumpel
- - tags: ['digital bunker', 'selfhosted', 'smarthome']
+ - tags: ['smarthome', 'digital bunker', 'selfhost']
 
 ## Plex Smart Manufacturing Platform | Plex, by Rockwell Automation
  - [https://www.plex.com/](https://www.plex.com/)
@@ -2210,7 +2240,7 @@
  - [https://startafuckingblog.com/](https://startafuckingblog.com/)
  - date published: 2023-01-03 13:41:25+00:00
  - user: rumpel
- - tags: ['selfhosting', 'digital bunker', 'blog']
+ - tags: ['digital bunker', 'selfhost', 'blog']
 
 ## State Power and Covid Crimes
  - [https://dailysceptic.org/2023/01/03/state-power-and-covid-crimes/](https://dailysceptic.org/2023/01/03/state-power-and-covid-crimes/)

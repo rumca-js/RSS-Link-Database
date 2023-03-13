@@ -1,3 +1,15 @@
+## Spadkobiercy Urbana, czyli wiarygodność materiałów | Portal i.pl
+ - [https://i.pl/spadkobiercy-urbana-czyli-wiarygodnosc-materialow/ar/c15-17357845](https://i.pl/spadkobiercy-urbana-czyli-wiarygodnosc-materialow/ar/c15-17357845)
+ - date published: 2023-03-10 20:17:17+00:00
+ - user: rumpel
+ - tags: ['jan pawel 2']
+
+## Ks. Isakowicz-Zaleski odniósł się do zarzutów stawianych Wojtyle. Wyjaśnił, co naprawdę stoi za zeznaniami księży
+ - [https://deon.pl/kosciol/ks-isakowicz-zaleski-odniosl-sie-do-zarzutow-stawianych-wojtyle-wyjasnil-co-naprawde-stoi-za-zeznaniami-ksiezy,2438201](https://deon.pl/kosciol/ks-isakowicz-zaleski-odniosl-sie-do-zarzutow-stawianych-wojtyle-wyjasnil-co-naprawde-stoi-za-zeznaniami-ksiezy,2438201)
+ - date published: 2023-03-09 20:15:47+00:00
+ - user: rumpel
+ - tags: ['jan pawel 2']
+
 ## Francja niemal całkowicie sparaliżowana na wiele tygodni. Francuzi nie chcą reformy emerytalnej | Niezalezna.pl
  - [https://niezalezna.pl/477646-francja-protesty-strajki-paraliz-wiek-emerytalny](https://niezalezna.pl/477646-francja-protesty-strajki-paraliz-wiek-emerytalny)
  - date published: 2023-03-08 23:29:25.319597+00:00

@@ -790,6 +790,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## The Oakland, California Homeless Problem is Beyond Belief
+ - [https://www.youtube.com/watch?v=yRWmKh13b50](https://www.youtube.com/watch?v=yRWmKh13b50)
+ - date published: 2021-11-07 00:00:00+00:00
+ - user: rumpel
+ - tags: ['america', 'crisis', 'homeless']
+
 ## incolumitas.com – So you want to Scrape like the Big Boys? 🚀
  - [https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/](https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/)
  - date published: 2021-11-06 08:07:19.990899+00:00
@@ -2433,6 +2439,12 @@
  - date published: 2021-07-29 07:55:50.158718+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Streets of Philadelphia, Kensington Avenue, What’s going on Monday, July 26 2021.
+ - [https://www.youtube.com/watch?v=YB6gwOBClwE](https://www.youtube.com/watch?v=YB6gwOBClwE)
+ - date published: 2021-07-29 00:00:00+00:00
+ - user: rumpel
+ - tags: ['america', 'crisis', 'drugs']
 
 ## The NHS App has quietly become a vaccine passport | WIRED UK
  - [https://www.wired.co.uk/article/nhs-app-covid-vaccine-passport](https://www.wired.co.uk/article/nhs-app-covid-vaccine-passport)
