@@ -256,6 +256,12 @@
  - user: None
  - tags: ['manufacturing consent', 'privacy', 'china', 'facebook', 'meta']
 
+## New Zealand's Five Eyes membership called into question over 'China links' | New Zealand | The Guardian
+ - [https://www.theguardian.com/world/2018/may/28/new-zealands-five-eyes-membership-called-into-question-over-china-links](https://www.theguardian.com/world/2018/may/28/new-zealands-five-eyes-membership-called-into-question-over-china-links)
+ - date published: 2018-05-28 18:16:50+00:00
+ - user: rumpel
+ - tags: ['five eyes', 'china', 'espionage', 'new zealand']
+
 ## Facebook has an official Pepe the Frog policy
  - [https://www.theverge.com/2018/5/25/17394612/facebook-pepe-frog-ban-meme-anti-semitic-hate](https://www.theverge.com/2018/5/25/17394612/facebook-pepe-frog-ban-meme-anti-semitic-hate)
  - date published: 2018-05-25 14:47:48+00:00
@@ -346,6 +352,12 @@
  - user: rumpel
  - tags: ['programming', 'clean code']
 
+## Latest Evidence From Norway Shows Female Hiring Quotas Hurt Women
+ - [https://thefederalist.com/2018/04/11/latest-evidence-norway-shows-female-hiring-quotas-hurt-women/](https://thefederalist.com/2018/04/11/latest-evidence-norway-shows-female-hiring-quotas-hurt-women/)
+ - date published: 2018-04-11 21:04:56+00:00
+ - user: rumpel
+ - tags: ['feminism', 'norway']
+
 ## Mozilla: The ad economy is broken and it's making the internet sick
  - [https://www.zdnet.com/article/mozilla-the-ad-economy-is-broken-and-its-making-the-internet-sick/](https://www.zdnet.com/article/mozilla-the-ad-economy-is-broken-and-its-making-the-internet-sick/)
  - date published: 2018-04-10 06:43:44+00:00
@@ -423,6 +435,12 @@
  - date published: 2018-02-28 15:50:37+00:00
  - user: rumpel
  - tags: ['elon musk', 'elites', 'billionaires']
+
+## This is what happened when Norway mandated that women make up 40% of the boardroom - MarketWatch
+ - [https://www.marketwatch.com/story/this-is-what-happened-when-norway-mandated-that-women-make-up-40-of-the-boardroom-2018-02-20-1088264](https://www.marketwatch.com/story/this-is-what-happened-when-norway-mandated-that-women-make-up-40-of-the-boardroom-2018-02-20-1088264)
+ - date published: 2018-02-20 20:58:03+00:00
+ - user: rumpel
+ - tags: ['feminism', 'norway']
 
 ## White House blasts Russia for NotPetya cyberattack
  - [https://www.cnn.com/2018/02/15/politics/white-house-russia-notpetya/index.html](https://www.cnn.com/2018/02/15/politics/white-house-russia-notpetya/index.html)

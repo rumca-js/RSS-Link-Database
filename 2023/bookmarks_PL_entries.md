@@ -1,3 +1,9 @@
+## Sytuacja kobiet w Hiszpanii ma się poprawić dzięki nowej ustawie
+ - [https://obserwatorgospodarczy.pl/2023/03/13/hiszpania-uchwala-nowe-prawo-przynajmniej-40-kobiet-w-zarzadach-spolek/](https://obserwatorgospodarczy.pl/2023/03/13/hiszpania-uchwala-nowe-prawo-przynajmniej-40-kobiet-w-zarzadach-spolek/)
+ - date published: 2023-03-13 19:56:01+00:00
+ - user: rumpel
+ - tags: ['feminism', 'spain', 'inequality']
+
 ## Spadkobiercy Urbana, czyli wiarygodność materiałów | Portal i.pl
  - [https://i.pl/spadkobiercy-urbana-czyli-wiarygodnosc-materialow/ar/c15-17357845](https://i.pl/spadkobiercy-urbana-czyli-wiarygodnosc-materialow/ar/c15-17357845)
  - date published: 2023-03-10 20:17:17+00:00

@@ -1120,6 +1120,12 @@
  - user: None
  - tags: ['facebook', 'privacy']
 
+## In wider diversity push, Norway proposes 40% gender quota for large unlisted firms | Reuters
+ - [https://www.reuters.com/business/wider-diversity-push-norway-proposes-40-gender-quota-large-unlisted-firms-2022-12-12/](https://www.reuters.com/business/wider-diversity-push-norway-proposes-40-gender-quota-large-unlisted-firms-2022-12-12/)
+ - date published: 2022-12-12 21:04:56+00:00
+ - user: rumpel
+ - tags: ['feminism', 'norway']
+
 ## Twitter files PART FIVE: Trump was banned even though employees said he did NOT violate policy
  - [https://www.dailymail.co.uk/news/article-11530029/Twitter-files-FIVE-Trump-banned-employees-said-did-NOT-violate-policy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11530029/Twitter-files-FIVE-Trump-banned-employees-said-did-NOT-violate-policy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2022-12-12 19:29:03+00:00
@@ -2456,7 +2462,7 @@
  - [https://blog.nlnetlabs.nl/open-source-software-vs-the-cyber-resilience-act/](https://blog.nlnetlabs.nl/open-source-software-vs-the-cyber-resilience-act/)
  - date published: 2022-11-14 14:33:31+00:00
  - user: rumpel
- - tags: ['open source']
+ - tags: ['open source', 'cyber resilience act']
 
 ## How Did George Soros Break the Bank of England?
  - [https://www.investopedia.com/ask/answers/08/george-soros-bank-of-england.asp](https://www.investopedia.com/ask/answers/08/george-soros-bank-of-england.asp)
@@ -3998,7 +4004,7 @@
  - [https://www.internetsociety.org/blog/2022/10/the-eus-proposed-cyber-resilience-act-will-damage-the-open-source-ecosystem/](https://www.internetsociety.org/blog/2022/10/the-eus-proposed-cyber-resilience-act-will-damage-the-open-source-ecosystem/)
  - date published: 2022-10-24 19:03:22+00:00
  - user: rumpel
- - tags: ['open source', 'big brother']
+ - tags: ['open source', 'cyber resilience act', 'big brother']
 
 ## Kids who play video games score higher on brain function tests
  - [https://www.theverge.com/2022/10/24/23420502/video-game-kid-brain-function-fmri](https://www.theverge.com/2022/10/24/23420502/video-game-kid-brain-function-fmri)

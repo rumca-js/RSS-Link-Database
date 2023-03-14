@@ -2,7 +2,7 @@
  - [https://en.wikipedia.org/wiki/Five_Eyes](https://en.wikipedia.org/wiki/Five_Eyes)
  - date published: 2013-12-21 14:41:21+00:00
  - user: None
- - tags: ['survaillence', 'nsa', 'five-eyes']
+ - tags: ['survaillence', 'five eyes', 'nsa']
 
 ## NSA paid $10 million to put its backdoor in RSA encryption, according to Reuters report
  - [https://www.theverge.com/2013/12/20/5231006/nsa-paid-10-million-for-a-back-door-into-rsa-encryption-according-to](https://www.theverge.com/2013/12/20/5231006/nsa-paid-10-million-for-a-back-door-into-rsa-encryption-according-to)
@@ -21,6 +21,12 @@
  - date published: 2013-11-20 14:40:44+00:00
  - user: None
  - tags: ['surveillance', 'nsa', 'five-eyes']
+
+## Norway's gender quota law has made boards more professional: state fund boss | Reuters
+ - [https://www.reuters.com/article/us-nordic-investment-fund-idUSBRE98T0LM20130930](https://www.reuters.com/article/us-nordic-investment-fund-idUSBRE98T0LM20130930)
+ - date published: 2013-09-30 20:58:03+00:00
+ - user: rumpel
+ - tags: ['feminism', 'norway']
 
 ## Google knows nearly every Wi-Fi password in the world
  - [https://www.computerworld.com/article/2474851/android-google-knows-nearly-every-wi-fi-password-in-the-world.html](https://www.computerworld.com/article/2474851/android-google-knows-nearly-every-wi-fi-password-in-the-world.html)

@@ -1,8 +1,32 @@
+## What is Happening with Samsung's Camera?
+ - [https://www.youtube.com/watch?v=1afpDuTb-P0](https://www.youtube.com/watch?v=1afpDuTb-P0)
+ - date published: 2023-03-13 19:26:48+00:00
+ - user: rumpel
+ - tags: ['photography', 'samsung']
+
+## Losing Signal
+ - [https://ploum.net/2023-03-09-losing-signal.html](https://ploum.net/2023-03-09-losing-signal.html)
+ - date published: 2023-03-13 17:46:01+00:00
+ - user: rumpel
+ - tags: ['signal', 'centralisation']
+
+## America Has Replaced Capitalism with Cronyism
+ - [https://nymag.com/intelligencer/_pages/ck8xtn5bu00qawly6zpbbvn3a.html](https://nymag.com/intelligencer/_pages/ck8xtn5bu00qawly6zpbbvn3a.html)
+ - date published: 2023-03-13 00:26:33+00:00
+ - user: rumpel
+ - tags: ['democracy', 'cronyism', 'socialism']
+
 ## AI's Next Big Takeover: Audiobooks     - CNET
  - [https://www.cnet.com/tech/features/ais-next-big-takeover-audiobooks/#ftag=CADf328eec](https://www.cnet.com/tech/features/ais-next-big-takeover-audiobooks/#ftag=CADf328eec)
  - date published: 2023-03-12 11:02:07+00:00
  - user: rumpel
  - tags: ['artificial intelligence']
+
+## Climate Expert Greta Thunberg Deletes 2018 Tweet Saying World Will End in 2023 Because the World Has Not Ended – OutKick
+ - [https://www.outkick.com/climate-expert-greta-thunberg-deletes-2018-tweet-saying-world-will-end-in-2023-because-the-world-has-not-ended/](https://www.outkick.com/climate-expert-greta-thunberg-deletes-2018-tweet-saying-world-will-end-in-2023-because-the-world-has-not-ended/)
+ - date published: 2023-03-11 19:54:05+00:00
+ - user: rumpel
+ - tags: ['greta thunberg', 'climate change']
 
 ## ChatGPT's API Is So Good and Cheap, It Makes Most Text Generating AI Obsolete
  - [https://minimaxir.com/2023/03/new-chatgpt-overlord/](https://minimaxir.com/2023/03/new-chatgpt-overlord/)
@@ -64,6 +88,12 @@
  - user: rumpel
  - tags: ['silicon valley bank', 'svb', 'crisis']
 
+## Mullvad's campaign against EU chat control
+ - [https://mullvad.net/en/chatcontrol/campaign](https://mullvad.net/en/chatcontrol/campaign)
+ - date published: 2023-03-10 14:25:48+00:00
+ - user: rumpel
+ - tags: ['chat control']
+
 ## Women’s rights have gone ‘too far’, say majority of Gen Z and millennials, study shows
  - [https://www.telegraph.co.uk/news/2023/03/09/womens-rights-have-gone-far-say-majority-gen-z-millennials-study/](https://www.telegraph.co.uk/news/2023/03/09/womens-rights-have-gone-far-say-majority-gen-z-millennials-study/)
  - date published: 2023-03-09 20:18:16+00:00
@@ -116,7 +146,7 @@
  - [https://en.wikipedia.org/wiki/Self-sovereign_identity](https://en.wikipedia.org/wiki/Self-sovereign_identity)
  - date published: 2023-03-08 09:06:46+00:00
  - user: rumpel
- - tags: ['digital passport', 'digital identity']
+ - tags: ['digital passport', 'digital identity', 'privacy']
 
 ## Twitch Finally Reacts To Atrioc Deepfake Drama | EarlyGame
  - [https://earlygame.com/entertainment/twitch-finally-reacts-to-atrioc-deepfake-drama](https://earlygame.com/entertainment/twitch-finally-reacts-to-atrioc-deepfake-drama)
@@ -159,6 +189,12 @@
  - date published: 2023-03-06 21:03:49+00:00
  - user: rumpel
  - tags: ['elites', 'manufacturing consent', 'billionaries', 'george soros']
+
+## Spain Set To Introduce Law Requiring 40% Women In Company Boards
+ - [https://www.ndtv.com/world-news/spain-set-to-introduce-law-requiring-40-women-in-company-boards-3840067](https://www.ndtv.com/world-news/spain-set-to-introduce-law-requiring-40-women-in-company-boards-3840067)
+ - date published: 2023-03-06 19:56:38+00:00
+ - user: rumpel
+ - tags: ['feminism', 'spain', 'inequality']
 
 ## Dr. Fauci and the art of the COVID cover-up - Washington Times
  - [https://www.washingtontimes.com/news/2023/mar/6/dr-fauci-and-art-covid-cover-/](https://www.washingtontimes.com/news/2023/mar/6/dr-fauci-and-art-covid-cover-/)
@@ -224,7 +260,7 @@
  - [https://berthub.eu/articles/posts/eu-cra-secure-coding-solution/](https://berthub.eu/articles/posts/eu-cra-secure-coding-solution/)
  - date published: 2023-03-03 15:47:02+00:00
  - user: rumpel
- - tags: ['open source']
+ - tags: ['open source', 'cyber resilience act']
 
 ## Aggro-culture: Farmers’ protest brings Brussels’ EU Quarter to a standstill – POLITICO
  - [https://www.politico.eu/article/belgium-farmer-protests-brussels-nitrogen-emissions/](https://www.politico.eu/article/belgium-farmer-protests-brussels-nitrogen-emissions/)
@@ -940,6 +976,12 @@
  - user: rumpel
  - tags: ['croatia', 'euro']
 
+## EU chat control law will ban open source operating systems - Blog | Mullvad VPN
+ - [https://mullvad.net/en/blog/2023/2/1/eu-chat-control-law-will-ban-open-source-operating-systems/](https://mullvad.net/en/blog/2023/2/1/eu-chat-control-law-will-ban-open-source-operating-systems/)
+ - date published: 2023-02-01 18:36:14+00:00
+ - user: rumpel
+ - tags: ['privacy', 'chat control', 'surveillance']
+
 ## Apple: $52,000 Mac Pro Is Now Worth $1k
  - [https://ymcinema.com/2023/01/30/apple-your-52000-mac-pro-is-now-worths-1000/](https://ymcinema.com/2023/01/30/apple-your-52000-mac-pro-is-now-worths-1000/)
  - date published: 2023-02-01 18:20:39+00:00
@@ -1190,7 +1232,7 @@
  - [https://devclass.com/2023/01/24/eus-proposed-ce-mark-for-software-could-have-dire-impact-on-open-source/](https://devclass.com/2023/01/24/eus-proposed-ce-mark-for-software-could-have-dire-impact-on-open-source/)
  - date published: 2023-01-27 05:00:00+00:00
  - user: rumpel
- - tags: ['open source', 'big brother']
+ - tags: ['open source', 'bigbrother', 'cyber resilience act']
 
 ## Sci-Hub: knowledge as a human right
  - [https://sci-hub.ru/](https://sci-hub.ru/)
@@ -1281,6 +1323,12 @@
  - date published: 2023-01-24 18:57:00+00:00
  - user: rumpel
  - tags: ['google', 'bigtech', 'bigbrother', 'ads']
+
+## What is the Cyber Resilience Act and why it’s dangerous for Open Source - Voices of Open Source
+ - [https://blog.opensource.org/what-is-the-cyber-resilience-act-and-why-its-important-for-open-source/](https://blog.opensource.org/what-is-the-cyber-resilience-act-and-why-its-important-for-open-source/)
+ - date published: 2023-01-24 18:43:44+00:00
+ - user: rumpel
+ - tags: ['open source', 'cyber resilience act']
 
 ## Is AI the solution to search's problem?
  - [https://lucaserb.substack.com/p/brief-bear](https://lucaserb.substack.com/p/brief-bear)
