@@ -1574,7 +1574,7 @@
  - [https://www.foxnews.com/media/kyle-rittenhouse-goes-viral-asking-twitter-files-reveal-hidden-censoring](https://www.foxnews.com/media/kyle-rittenhouse-goes-viral-asking-twitter-files-reveal-hidden-censoring)
  - date published: 2022-12-05 14:42:02+00:00
  - user: None
- - tags: ['blm', 'kyle rittenhouse']
+ - tags: ['kyle rittenhouse', 'blm', 'black lives matter']
 
 ## Somehow Every Computer Chip In The World Is Built By One Company
  - [https://www.youtube.com/watch?v=RwW0Yfy0oCw](https://www.youtube.com/watch?v=RwW0Yfy0oCw)
@@ -2384,7 +2384,7 @@
  - [https://www.dailymail.co.uk/news/article-11431449/Universities-courses-computing-classics-told-decolonise-degrees-watchdog.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11431449/Universities-courses-computing-classics-told-decolonise-degrees-watchdog.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2022-11-15 19:36:31+00:00
  - user: None
- - tags: ['ideology', 'propaganda', 'blm']
+ - tags: ['black lives matter', 'propaganda', 'blm', 'ideology']
 
 ## Austria to ban COVID vaccine opponents from wearing symbols that reference Holocaust
  - [https://www.foxnews.com/world/austria-ban-covid-vaccine-opponents-wearing-symbols-reference-holocaust](https://www.foxnews.com/world/austria-ban-covid-vaccine-opponents-wearing-symbols-reference-holocaust)
@@ -2738,7 +2738,7 @@
  - [https://www.dailymail.co.uk/news/article-11401017/University-academics-criticise-plans-decolonise-maths-say-degrees-politicised.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11401017/University-academics-criticise-plans-decolonise-maths-say-degrees-politicised.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2022-11-08 00:25:04+00:00
  - user: None
- - tags: ['blm', 'racism', 'scienceisdead']
+ - tags: ['racism', 'black lives matter', 'blm', 'scienceisdead']
 
 ## Billionaires Are Funding Climate Destruction
  - [https://gizmodo.com/billionaires-are-funding-climate-destruction-1849753810](https://gizmodo.com/billionaires-are-funding-climate-destruction-1849753810)
@@ -3032,7 +3032,7 @@
  - [https://www.dailymail.co.uk/news/article-11381789/Americans-wide-margins-want-race-kept-college-admissions-says-poll.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11381789/Americans-wide-margins-want-race-kept-college-admissions-says-poll.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2022-11-02 19:47:04+00:00
  - user: None
- - tags: ['criticalrace', 'blm']
+ - tags: ['criticalrace', 'blm', 'black lives matter']
 
 ## Mark Zuckerberg’s metaverse is a joke not shared equally with investors  | Nils Pratley
  - [https://www.theguardian.com/business/nils-pratley-on-finance/2022/nov/02/mark-zuckerberg-metaverse-is-a-joke-not-shared-equally-with-investors](https://www.theguardian.com/business/nils-pratley-on-finance/2022/nov/02/mark-zuckerberg-metaverse-is-a-joke-not-shared-equally-with-investors)
@@ -3488,7 +3488,7 @@
  - [https://www.dailymail.co.uk/news/article-11366515/Researcher-wrote-2019-report-gaps-IQ-whites-blacks-hired-Cambridge.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11366515/Researcher-wrote-2019-report-gaps-IQ-whites-blacks-hired-Cambridge.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2022-10-28 20:49:27+00:00
  - user: None
- - tags: ['propaganda', 'scienceisdead', 'ideology', 'blm', 'scienceisracist', 'iq']
+ - tags: ['scienceisracist', 'blm', 'ideology', 'iq', 'black lives matter', 'scienceisdead', 'propaganda']
 
 ## Wicked Globalists Are Causing Starvation and Poverty Under the Guise of Environmentalism
  - [https://www.youtube.com/watch?v=tF5spyudTYA](https://www.youtube.com/watch?v=tF5spyudTYA)
@@ -4442,7 +4442,7 @@
  - [https://www.dailymail.co.uk/news/article-11322969/Defund-police-advocate-Cori-Bush-spent-500-000-campaign-funds-PRIVATE-security.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11322969/Defund-police-advocate-Cori-Bush-spent-500-000-campaign-funds-PRIVATE-security.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2022-10-17 08:54:32+00:00
  - user: None
- - tags: ['blm', 'hypocrisy', 'race']
+ - tags: ['race', 'blm', 'black lives matter', 'hypocrisy']
 
 ## Christian childcare teacher who refused to read LGBT books to kids sues after being fired: 'Blatantly illegal'
  - [https://www.foxnews.com/us/christian-childcare-teacher-refused-read-lgbt-books-kids-sues-being-fired-blatantly-illegal](https://www.foxnews.com/us/christian-childcare-teacher-refused-read-lgbt-books-kids-sues-being-fired-blatantly-illegal)
@@ -4892,7 +4892,7 @@
  - [https://www.dailymail.co.uk/news/article-11287383/Woke-mob-smashes-windows-Portland-coffee-shop-owner-advertised-coffee-cop-event.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11287383/Woke-mob-smashes-windows-Portland-coffee-shop-owner-advertised-coffee-cop-event.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2022-10-06 14:36:04+00:00
  - user: None
- - tags: ['blm', 'portland', 'woke']
+ - tags: ['black lives matter', 'woke', 'blm', 'portland']
 
 ## Social media drives number of transgender hate crime reports up by 56% in a year
  - [https://www.dailymail.co.uk/news/article-11286685/Social-media-drives-number-transgender-hate-crime-reports-56-year.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11286685/Social-media-drives-number-transgender-hate-crime-reports-56-year.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -7100,7 +7100,7 @@
  - [https://www.dailymail.co.uk/news/article-11176931/Black-Lives-Matter-leader-accused-pilfering-10M-organization.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11176931/Black-Lives-Matter-leader-accused-pilfering-10M-organization.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2022-09-03 21:28:31+00:00
  - user: None
- - tags: ['blm', 'hypocrisy', 'blacklivesmatter']
+ - tags: ['blm', 'black lives matter', 'hypocrisy']
 
 ## CNN staffers are 'terrified' after Brian Stelter and John Harwood were fired
  - [https://www.dailymail.co.uk/news/article-11176729/CNN-staffers-terrified-Brian-Stelter-John-Harwood-fired.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11176729/CNN-staffers-terrified-Brian-Stelter-John-Harwood-fired.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -7850,7 +7850,7 @@
  - [https://edition.cnn.com/2022/09/04/us/black-lives-matter-executive-lawsuit/index.html](https://edition.cnn.com/2022/09/04/us/black-lives-matter-executive-lawsuit/index.html)
  - date published: 2022-08-05 13:49:47+00:00
  - user: rumpel
- - tags: ['blm', 'hypocrisy', 'blacklivesmatter']
+ - tags: ['blm', 'black lives matter', 'hypocrisy']
 
 ## AstraZeneca: Vaccine death payout of £120k 'inadequate' - fiancée
  - [https://www.bbc.com/news/uk-england-tyne-61885899](https://www.bbc.com/news/uk-england-tyne-61885899)
@@ -8846,7 +8846,7 @@
  - [https://files.eric.ed.gov/fulltext/EJ1124962.pdf](https://files.eric.ed.gov/fulltext/EJ1124962.pdf)
  - date published: 2022-06-03 06:58:22+00:00
  - user: rumpel
- - tags: ['america', 'hate speech', 'racism', 'blm']
+ - tags: ['blm', 'black lives matter', 'hate speech', 'america', 'racism']
 
 ## A Letter to Discord for not Supporting the Linux Desktop | TheEvilSkeleton
  - [https://theevilskeleton.gitlab.io/2022/05/29/a-letter-to-discord-for-not-supporting-the-linux-desktop.html](https://theevilskeleton.gitlab.io/2022/05/29/a-letter-to-discord-for-not-supporting-the-linux-desktop.html)
@@ -10773,6 +10773,12 @@
  - date published: 2022-02-08 17:12:54+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## TikTok shares your data more than any other social media app: Study
+ - [https://www.cnbc.com/2022/02/08/tiktok-shares-your-data-more-than-any-other-social-media-app-study.html](https://www.cnbc.com/2022/02/08/tiktok-shares-your-data-more-than-any-other-social-media-app-study.html)
+ - date published: 2022-02-08 16:12:37+00:00
+ - user: rumpel
+ - tags: ['privacy', 'tiktok']
 
 ## IRS To Ditch Biometric Requirement for Online Access – Krebs on Security
  - [https://krebsonsecurity.com/2022/02/irs-to-ditch-biometric-requirement-for-online-access/](https://krebsonsecurity.com/2022/02/irs-to-ditch-biometric-requirement-for-online-access/)

@@ -34,11 +34,11 @@
  - user: None
  - tags: ['media', 'propaganda', 'corporations', 'corporatocracy', 'government']
 
-## Fabien Sanglard's Website
- - [http://fabiensanglard.net/doom3/](http://fabiensanglard.net/doom3/)
- - date published: 2012-06-08 09:54:05+00:00
+## Doom3 Source Code Review: Introduction
+ - [https://fabiensanglard.net/doom3/](https://fabiensanglard.net/doom3/)
+ - date published: 2012-06-08 13:43:19+00:00
  - user: rumpel
- - tags: ['doom3', 'programming', 'games']
+ - tags: ['programming', 'games']
 
 ## A Fink-ing Mess!
  - [https://www.cnbc.com/2012/06/01/a-finking-mess.html](https://www.cnbc.com/2012/06/01/a-finking-mess.html)

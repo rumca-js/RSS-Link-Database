@@ -140,7 +140,7 @@
  - [https://www.youtube.com/watch?v=L-A5QrhZtGU](https://www.youtube.com/watch?v=L-A5QrhZtGU)
  - date published: 2021-12-24 20:59:59+00:00
  - user: rumpel
- - tags: ['graphics', 'gaming']
+ - tags: ['graphics', 'games']
 
 ## Why I wrote my own Go HTTP client · The Ethically-Trained Programmer
  - [https://blog.carlmjohnson.net/post/2021/requests-golang-http-client/](https://blog.carlmjohnson.net/post/2021/requests-golang-http-client/)
@@ -542,7 +542,7 @@
  - [https://news.yahoo.com/kyle-rittenhouses-trial-exposes-biases-205230938.html](https://news.yahoo.com/kyle-rittenhouses-trial-exposes-biases-205230938.html)
  - date published: 2021-11-24 08:13:59+00:00
  - user: rumpel
- - tags: ['blm', 'kyle rittenhouse', 'media bias']
+ - tags: ['kyle rittenhouse', 'media bias', 'blm', 'black lives matter']
 
 ## My journey to type checking 7521 lines of Python
  - [https://nskm.xyz/posts/stcmp2/](https://nskm.xyz/posts/stcmp2/)
@@ -740,7 +740,7 @@
  - [https://news.yahoo.com/kyle-rittenhouse-testifies-fired-protect-021041600.html](https://news.yahoo.com/kyle-rittenhouse-testifies-fired-protect-021041600.html)
  - date published: 2021-11-11 08:11:43+00:00
  - user: rumpel
- - tags: ['blm', 'kyle rittenhouse']
+ - tags: ['kyle rittenhouse', 'blm', 'black lives matter']
 
 ## YouTube gives dislikes the thumbs-down, hides public counts
  - [https://www.theverge.com/2021/11/10/22773299/youtube-dislike-button-hide-public-count-numbers-small-creator-protection](https://www.theverge.com/2021/11/10/22773299/youtube-dislike-button-hide-public-count-numbers-small-creator-protection)
@@ -1748,7 +1748,7 @@
  - [https://www.psychologytoday.com/us/blog/ethically-speaking/202109/the-paradox-of-virtue-signaling](https://www.psychologytoday.com/us/blog/ethically-speaking/202109/the-paradox-of-virtue-signaling)
  - date published: 2021-09-06 13:33:32+00:00
  - user: rumpel
- - tags: ['blm', 'propaganda', 'hypocrisy', 'lgbt', 'virtue signaling']
+ - tags: ['blm', 'virtue signaling', 'black lives matter', 'lgbt', 'hypocrisy', 'propaganda']
 
 ## “Emojibake” are considered harmful | by Fredrick Brennan | Sep, 2021 | Medium
  - [https://fredrickbrennan.medium.com/emojibake-are-considered-harmful-f87e65cf4c6e](https://fredrickbrennan.medium.com/emojibake-are-considered-harmful-f87e65cf4c6e)
@@ -2384,7 +2384,7 @@
  - [https://www.realclearenergy.org/articles/2021/08/02/virtue_signaling_what_is_it_and_why_is_it_so_dangerous_788208.html](https://www.realclearenergy.org/articles/2021/08/02/virtue_signaling_what_is_it_and_why_is_it_so_dangerous_788208.html)
  - date published: 2021-08-02 13:30:15+00:00
  - user: rumpel
- - tags: ['blm', 'propaganda', 'hypocrisy', 'lgbt', 'virtue signaling']
+ - tags: ['blm', 'virtue signaling', 'black lives matter', 'lgbt', 'hypocrisy', 'propaganda']
 
 ## ‘I was a teacher for 17 years, but I couldn’t read or write’ - BBC News
  - [https://www.bbc.co.uk/news/stories-43700153](https://www.bbc.co.uk/news/stories-43700153)
@@ -2678,7 +2678,7 @@
  - [https://news.yahoo.com/mccloskeys-plead-guilty-charges-gun-195300768.html](https://news.yahoo.com/mccloskeys-plead-guilty-charges-gun-195300768.html)
  - date published: 2021-07-18 14:15:49+00:00
  - user: rumpel
- - tags: ['mccloskey', 'blm']
+ - tags: ['mccloskey', 'blm', 'black lives matter']
 
 ## I'm a Frito-Lay Factory Worker. I Work 12-Hour Days, 7 Days a Week
  - [https://www.vice.com/en/article/pkbmwy/im-a-frito-lay-factory-worker-i-work-12-hour-days-7-days-a-week](https://www.vice.com/en/article/pkbmwy/im-a-frito-lay-factory-worker-i-work-12-hour-days-7-days-a-week)
@@ -2925,6 +2925,12 @@
  - date published: 2021-07-12 20:18:17+00:00
  - user: rumpel
  - tags: ['wef', 'world economic forum', 'eatingbugs']
+
+## Why Media Mogul Barry Diller Thinks The Movie Business Is Dead : NPR
+ - [https://www.npr.org/2021/07/08/1014095135/barry-diller-headed-2-hollywood-studios-he-now-says-the-movie-business-is-dead](https://www.npr.org/2021/07/08/1014095135/barry-diller-headed-2-hollywood-studios-he-now-says-the-movie-business-is-dead)
+ - date published: 2021-07-08 14:15:32+00:00
+ - user: rumpel
+ - tags: ['movies']
 
 ## Chatcontrol: EU Parliament approves mass surveillance of private communications
  - [https://european-pirateparty.eu/parliament-approves-chatcontrol/](https://european-pirateparty.eu/parliament-approves-chatcontrol/)

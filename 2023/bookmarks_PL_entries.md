@@ -110,7 +110,7 @@
  - [https://ithardware.pl/aktualnosci/valve_nie_dalo_sie_wkrecic_w_smierc_gorge_a_floyda_i_ruch_blm_firma_stanowczo_odmawiala_poparcia-25560.html](https://ithardware.pl/aktualnosci/valve_nie_dalo_sie_wkrecic_w_smierc_gorge_a_floyda_i_ruch_blm_firma_stanowczo_odmawiala_poparcia-25560.html)
  - date published: 2023-01-29 08:52:20+00:00
  - user: rumpel
- - tags: ['blm', 'valve']
+ - tags: ['valve', 'blm', 'black lives matter']
 
 ## Świat walczy o niskie emisje. I coraz bardziej lubi prywatne odrzutowce
  - [https://300gospodarka.pl/news/swiat-walczy-o-niskie-emisje-ale-coraz-bardziej-lubi-prywatne-odrzutowce](https://300gospodarka.pl/news/swiat-walczy-o-niskie-emisje-ale-coraz-bardziej-lubi-prywatne-odrzutowce)

@@ -1,3 +1,15 @@
+## Doom source code oddities - The Doom Wiki at DoomWiki.org
+ - [https://doomwiki.org/wiki/Doom_source_code_oddities](https://doomwiki.org/wiki/Doom_source_code_oddities)
+ - date published: 2023-03-14 13:15:34+00:00
+ - user: rumpel
+ - tags: ['programming', 'games']
+
+## The Doom Wiki at DoomWiki.org - Doom, Heretic, Hexen, Strife, and more
+ - [https://doomwiki.org/wiki/Entryway](https://doomwiki.org/wiki/Entryway)
+ - date published: 2023-03-14 13:12:17+00:00
+ - user: rumpel
+ - tags: ['doom', 'games']
+
 ## What is Happening with Samsung's Camera?
  - [https://www.youtube.com/watch?v=1afpDuTb-P0](https://www.youtube.com/watch?v=1afpDuTb-P0)
  - date published: 2023-03-13 19:26:48+00:00
@@ -21,6 +33,12 @@
  - date published: 2023-03-12 11:02:07+00:00
  - user: rumpel
  - tags: ['artificial intelligence']
+
+## Cerebral admits to sharing patient data with Meta, TikTok, and Google
+ - [https://www.theverge.com/2023/3/11/23635518/cerebral-patient-data-meta-tiktok-google-pixel](https://www.theverge.com/2023/3/11/23635518/cerebral-patient-data-meta-tiktok-google-pixel)
+ - date published: 2023-03-11 23:46:04+00:00
+ - user: rumpel
+ - tags: ['privacy', 'cerebral', 'meta', 'tiktok', 'google']
 
 ## Climate Expert Greta Thunberg Deletes 2018 Tweet Saying World Will End in 2023 Because the World Has Not Ended – OutKick
  - [https://www.outkick.com/climate-expert-greta-thunberg-deletes-2018-tweet-saying-world-will-end-in-2023-because-the-world-has-not-ended/](https://www.outkick.com/climate-expert-greta-thunberg-deletes-2018-tweet-saying-world-will-end-in-2023-because-the-world-has-not-ended/)
@@ -1778,7 +1796,7 @@
  - [https://nextcloud.com/install/](https://nextcloud.com/install/)
  - date published: 2023-01-13 10:08:29+00:00
  - user: rumpel
- - tags: ['local cloud', 'smarthome', 'selfhost', 'nas', 'digital bunker', 'programming']
+ - tags: ['smarthome', 'nas', 'digital bunker', 'local cloud', 'selfhost']
 
 ## U.S. FDA, CDC see early signal of possible Pfizer bivalent COVID shot link to stroke | Reuters
  - [https://www.reuters.com/business/healthcare-pharmaceuticals/us-says-pfizers-bivalent-covid-shot-may-be-linked-stroke-older-adults-2023-01-13/](https://www.reuters.com/business/healthcare-pharmaceuticals/us-says-pfizers-bivalent-covid-shot-may-be-linked-stroke-older-adults-2023-01-13/)
@@ -1946,7 +1964,7 @@
  - [https://www.jonandnic.com/2023/01/08/old-man-yells-at-cloud/](https://www.jonandnic.com/2023/01/08/old-man-yells-at-cloud/)
  - date published: 2023-01-10 01:58:53+00:00
  - user: rumpel
- - tags: ['techconcerns', 'subscription', 'dead internet', 'electric vehicles', 'social media', 'algorithms', 'gaming']
+ - tags: ['techconcerns', 'dead internet', 'games', 'subscription', 'algorithms', 'electric vehicles', 'social media']
 
 ## Microsoft’s new AI can simulate anyone’s voice with 3 seconds of audio
  - [https://arstechnica.com/?p=1908618](https://arstechnica.com/?p=1908618)
@@ -2000,7 +2018,7 @@
  - [https://www.foxnews.com/us/ex-virginia-tech-soccer-player-allegedly-benched-for-refusing-to-kneel-gets-100k-settlement-attorney?intcmp=fb_fnc&fbclid=IwAR3dbkA7mXU9Fyj-tKRWrG_YVmaGM32lz7Of2FbU4euukWcREO3dnE1I94k](https://www.foxnews.com/us/ex-virginia-tech-soccer-player-allegedly-benched-for-refusing-to-kneel-gets-100k-settlement-attorney?intcmp=fb_fnc&fbclid=IwAR3dbkA7mXU9Fyj-tKRWrG_YVmaGM32lz7Of2FbU4euukWcREO3dnE1I94k)
  - date published: 2023-01-08 16:18:06+00:00
  - user: rumpel
- - tags: ['blm', 'inequality']
+ - tags: ['inequality', 'blm', 'black lives matter']
 
 ## How Childline Became Captured by Trans Ideology
  - [https://dailysceptic.org/2023/01/08/how-childline-became-captured-by-trans-ideology/](https://dailysceptic.org/2023/01/08/how-childline-became-captured-by-trans-ideology/)

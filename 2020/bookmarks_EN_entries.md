@@ -478,6 +478,12 @@
  - user: rumpel
  - tags: ['wechat', 'bigbrother', 'surveillance', 'manufacturing consent', 'privacy', 'bigtech']
 
+## Portland's grim reality: 100 days of protests, many violent | AP News
+ - [https://apnews.com/article/virus-outbreak-ap-top-news-race-and-ethnicity-id-state-wire-or-state-wire-b57315d97dd2146c4a89b4636faa7b70](https://apnews.com/article/virus-outbreak-ap-top-news-race-and-ethnicity-id-state-wire-or-state-wire-b57315d97dd2146c4a89b4636faa7b70)
+ - date published: 2020-09-04 14:30:38+00:00
+ - user: rumpel
+ - tags: ['blm', 'black lives matter']
+
 ## Hedonism, Asceticism and the Hermetic Answer
  - [https://lukesmith.xyz/articles/hedonism-asceticism-and-the-hermetic-answer/](https://lukesmith.xyz/articles/hedonism-asceticism-and-the-hermetic-answer/)
  - date published: 2020-09-03 00:00:00+00:00
@@ -561,6 +567,12 @@
  - date published: 2020-08-19 20:04:48+00:00
  - user: None
  - tags: ['virus', 'botnet']
+
+## Protesters burn government building during riot in Portland
+ - [https://nypost.com/2020/08/19/protesters-burn-government-building-during-riot-in-portland/](https://nypost.com/2020/08/19/protesters-burn-government-building-during-riot-in-portland/)
+ - date published: 2020-08-19 14:32:19+00:00
+ - user: rumpel
+ - tags: ['blm', 'black lives matter']
 
 ## Write Code as If You Had to Support It for the Rest of Your Life
  - [https://medium.com/oreillymedia/write-code-as-if-you-had-to-support-it-for-the-rest-of-your-life-a707d3442f1a](https://medium.com/oreillymedia/write-code-as-if-you-had-to-support-it-for-the-rest-of-your-life-a707d3442f1a)
@@ -668,7 +680,7 @@
  - [https://thefederalist.com/2020/07/23/legal-docs-st-louis-prosecutor-tampered-with-evidence-in-mccloskey-gun-case](https://thefederalist.com/2020/07/23/legal-docs-st-louis-prosecutor-tampered-with-evidence-in-mccloskey-gun-case)
  - date published: 2020-07-23 08:17:09+00:00
  - user: None
- - tags: ['blm', 'mccloskey']
+ - tags: ['mccloskey', 'blm', 'black lives matter']
 
 ## A $200 fine for not wearing a mask is fair, as long as free masks go to those in need
  - [https://theconversation.com/a-200-fine-for-not-wearing-a-mask-is-fair-as-long-as-free-masks-go-to-those-in-need-142988](https://theconversation.com/a-200-fine-for-not-wearing-a-mask-is-fair-as-long-as-free-masks-go-to-those-in-need-142988)
@@ -692,7 +704,7 @@
  - [https://eu.examiner-enterprise.com/story/opinion/columns/2020/07/21/hypocrisy-of-black-lives-matter-movement/112696474/](https://eu.examiner-enterprise.com/story/opinion/columns/2020/07/21/hypocrisy-of-black-lives-matter-movement/112696474/)
  - date published: 2020-07-21 12:30:26+00:00
  - user: None
- - tags: ['blm', 'hypocrisy', 'blacklivesmatter']
+ - tags: ['blm', 'black lives matter', 'hypocrisy']
 
 ## Epstein case: Suspect who shot family of judge on DB-Jeffrey Epstein case found dead after apparent suicide – reports
  - [https://www.rt.com/usa/495320-suspect-epstein-judge-shooting-suicide/](https://www.rt.com/usa/495320-suspect-epstein-judge-shooting-suicide/)
@@ -722,7 +734,7 @@
  - [https://www.cbsnews.com/news/mark-patricia-mccloskey-guns-seized-at-st-louis-home-couple-who-pointed-weapons-at-protesters/](https://www.cbsnews.com/news/mark-patricia-mccloskey-guns-seized-at-st-louis-home-couple-who-pointed-weapons-at-protesters/)
  - date published: 2020-07-11 08:15:05+00:00
  - user: None
- - tags: ['blm', 'mccloskey']
+ - tags: ['mccloskey', 'blm', 'black lives matter']
 
 ## Confessions Of A Dead Man: Personal Driver Of Jeffrey Epstein And Other Elites Tells All
  - [https://supersoldiertalk.com/confessions-of-a-dead-man-personal-driver-of-jeffrey-epstein-and-other-elites-tells-all/](https://supersoldiertalk.com/confessions-of-a-dead-man-personal-driver-of-jeffrey-epstein-and-other-elites-tells-all/)
@@ -872,7 +884,7 @@
  - [https://screenrant.com/blizzard-protest-blackout-black-lives-matter-hong-kong/](https://screenrant.com/blizzard-protest-blackout-black-lives-matter-hong-kong/)
  - date published: 2020-06-03 12:11:41+00:00
  - user: None
- - tags: ['china', 'blizzard', 'censorship', 'corporatocracy', 'blm', 'hong kong']
+ - tags: ['blizzard', 'blm', 'black lives matter', 'hong kong', 'censorship', 'china', 'corporatocracy']
 
 ## US Senators Introduce 'Lawful Access to Encrypted Data Act' - With Backdoor Mandate
  - [https://news.bitcoin.com/lawful-access-to-encrypted-data-act-backdoor/](https://news.bitcoin.com/lawful-access-to-encrypted-data-act-backdoor/)
