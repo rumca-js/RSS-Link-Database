@@ -1,3 +1,15 @@
+## Linux desktop leaders unite behind Flathub app store. Here's why
+ - [https://www.zdnet.com/article/linux-desktop-leaders-unite-behind-flathub-app-store-heres-why/](https://www.zdnet.com/article/linux-desktop-leaders-unite-behind-flathub-app-store-heres-why/)
+ - date published: 2023-03-15 15:36:07+00:00
+ - user: rumpel
+ - tags: ['flathub', 'linux']
+
+## No porn, no Instagram for kids: France doubles down on age verification – POLITICO
+ - [https://www.politico.eu/article/no-porn-no-instagram-for-kids-france-doubles-down-age-verification-emmanuel-macrons-nick-clegg/](https://www.politico.eu/article/no-porn-no-instagram-for-kids-france-doubles-down-age-verification-emmanuel-macrons-nick-clegg/)
+ - date published: 2023-03-15 11:47:26+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'moderation', 'privacy', 'france', 'anonymity', 'social media']
+
 ## Doom source code oddities - The Doom Wiki at DoomWiki.org
  - [https://doomwiki.org/wiki/Doom_source_code_oddities](https://doomwiki.org/wiki/Doom_source_code_oddities)
  - date published: 2023-03-14 13:15:34+00:00
@@ -9,6 +21,12 @@
  - date published: 2023-03-14 13:12:17+00:00
  - user: rumpel
  - tags: ['doom', 'games']
+
+## Eric Schmidt testifies that there should be no “true anonymity” when accessing generative AI platforms
+ - [https://reclaimthenet.org/eric-schmidt-generative-ai-true-anonymity](https://reclaimthenet.org/eric-schmidt-generative-ai-true-anonymity)
+ - date published: 2023-03-13 19:47:14+00:00
+ - user: rumpel
+ - tags: ['anonymity', 'privacy']
 
 ## What is Happening with Samsung's Camera?
  - [https://www.youtube.com/watch?v=1afpDuTb-P0](https://www.youtube.com/watch?v=1afpDuTb-P0)

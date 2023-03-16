@@ -1,3 +1,9 @@
+## Wiedeń boi się ataków terrorystycznych. Chodzi o kościoły
+ - [https://forsal.pl/swiat/bezpieczenstwo/artykuly/8681424,wieden-boi-sie-atakow-terrorystycznych-chodzi-o-koscioly.html](https://forsal.pl/swiat/bezpieczenstwo/artykuly/8681424,wieden-boi-sie-atakow-terrorystycznych-chodzi-o-koscioly.html)
+ - date published: 2023-03-15 15:45:32+00:00
+ - user: rumpel
+ - tags: ['christianophobia']
+
 ## Sytuacja kobiet w Hiszpanii ma się poprawić dzięki nowej ustawie
  - [https://obserwatorgospodarczy.pl/2023/03/13/hiszpania-uchwala-nowe-prawo-przynajmniej-40-kobiet-w-zarzadach-spolek/](https://obserwatorgospodarczy.pl/2023/03/13/hiszpania-uchwala-nowe-prawo-przynajmniej-40-kobiet-w-zarzadach-spolek/)
  - date published: 2023-03-13 19:56:01+00:00
