@@ -1,3 +1,21 @@
+## Dead Internet Theory
+ - [https://en.wikipedia.org/wiki/Dead_Internet_theory](https://en.wikipedia.org/wiki/Dead_Internet_theory)
+ - date published: 2023-03-16 17:53:40+00:00
+ - user: rumpel
+ - tags: ['dead internet']
+
+## Brazil had a secret program to track people’s location via cell phone
+ - [https://reclaimthenet.org/brazil-had-a-secret-program-to-track-peoples-location-via-cell-phone](https://reclaimthenet.org/brazil-had-a-secret-program-to-track-peoples-location-via-cell-phone)
+ - date published: 2023-03-16 17:31:22+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'privacy', 'bigbrother']
+
+## Russia Sentences Soldier Who Admitted to War Crimes in Ukraine - The Moscow Times
+ - [https://www.themoscowtimes.com/2023/03/16/russia-sentences-soldier-who-admitted-to-war-crimes-in-ukraine-a80494](https://www.themoscowtimes.com/2023/03/16/russia-sentences-soldier-who-admitted-to-war-crimes-in-ukraine-a80494)
+ - date published: 2023-03-16 11:12:54+00:00
+ - user: rumpel
+ - tags: ['russia', 'ukraine', 'war']
+
 ## Linux desktop leaders unite behind Flathub app store. Here's why
  - [https://www.zdnet.com/article/linux-desktop-leaders-unite-behind-flathub-app-store-heres-why/](https://www.zdnet.com/article/linux-desktop-leaders-unite-behind-flathub-app-store-heres-why/)
  - date published: 2023-03-15 15:36:07+00:00
@@ -10,6 +28,12 @@
  - user: rumpel
  - tags: ['surveillance', 'moderation', 'privacy', 'france', 'anonymity', 'social media']
 
+## New Version of ChatGPT Will Have Fewer "Hallucinations", Says Creators : ScienceAlert
+ - [https://www.sciencealert.com/new-version-of-chatgpt-will-have-fewer-hallucinations-says-creators](https://www.sciencealert.com/new-version-of-chatgpt-will-have-fewer-hallucinations-says-creators)
+ - date published: 2023-03-15 09:18:24+00:00
+ - user: rumpel
+ - tags: ['chatgpt', 'artificial intelligence']
+
 ## Doom source code oddities - The Doom Wiki at DoomWiki.org
  - [https://doomwiki.org/wiki/Doom_source_code_oddities](https://doomwiki.org/wiki/Doom_source_code_oddities)
  - date published: 2023-03-14 13:15:34+00:00
@@ -21,6 +45,12 @@
  - date published: 2023-03-14 13:12:17+00:00
  - user: rumpel
  - tags: ['doom', 'games']
+
+## Report: Microsoft cut a key AI ethics team | Ars Technica
+ - [https://arstechnica.com/tech-policy/2023/03/amid-bing-chat-controversy-microsoft-cut-an-ai-ethics-team-report-says/](https://arstechnica.com/tech-policy/2023/03/amid-bing-chat-controversy-microsoft-cut-an-ai-ethics-team-report-says/)
+ - date published: 2023-03-14 09:19:23+00:00
+ - user: rumpel
+ - tags: ['microsoft', 'chatgpt', 'artificial intelligence']
 
 ## Eric Schmidt testifies that there should be no “true anonymity” when accessing generative AI platforms
  - [https://reclaimthenet.org/eric-schmidt-generative-ai-true-anonymity](https://reclaimthenet.org/eric-schmidt-generative-ai-true-anonymity)
@@ -39,6 +69,12 @@
  - date published: 2023-03-13 17:46:01+00:00
  - user: rumpel
  - tags: ['signal', 'centralisation']
+
+## Botnet that knows your name and quotes your email is back with new tricks | Ars Technica
+ - [https://arstechnica.com/information-technology/2023/03/botnet-that-knows-your-name-and-quotes-your-email-is-back-with-new-tricks/](https://arstechnica.com/information-technology/2023/03/botnet-that-knows-your-name-and-quotes-your-email-is-back-with-new-tricks/)
+ - date published: 2023-03-13 09:24:51+00:00
+ - user: rumpel
+ - tags: ['malware', 'botnet', 'vulnerabilities']
 
 ## America Has Replaced Capitalism with Cronyism
  - [https://nymag.com/intelligencer/_pages/ck8xtn5bu00qawly6zpbbvn3a.html](https://nymag.com/intelligencer/_pages/ck8xtn5bu00qawly6zpbbvn3a.html)
@@ -81,6 +117,12 @@
  - date published: 2023-03-11 16:00:27+00:00
  - user: rumpel
  - tags: ['stingray', 'privacy', 'bigbrother', 'surveillance']
+
+## Post-decency politics: House Democrats use a hearing to attack free speech and a free press
+ - [https://thehill.com/opinion/judiciary/3895242-post-decency-politics-house-democrats-use-a-hearing-to-attack-free-speech-and-a-free-press/](https://thehill.com/opinion/judiciary/3895242-post-decency-politics-house-democrats-use-a-hearing-to-attack-free-speech-and-a-free-press/)
+ - date published: 2023-03-11 16:00:00+00:00
+ - user: rumpel
+ - tags: ['bigbrother', 'censorship', 'twitter', 'twitter files', 'free speech', 'moderation']
 
 ## GitHub - awesome-selfhosted/awesome-selfhosted: A list of Free Software network services and web applications which can be hosted on your own servers
  - [https://github.com/awesome-selfhosted/awesome-selfhosted#bookmarks-and-link-sharing](https://github.com/awesome-selfhosted/awesome-selfhosted#bookmarks-and-link-sharing)
@@ -440,13 +482,19 @@
  - [https://www.telegraph.co.uk/news/2023/02/25/james-bond-books-edited-remove-racist-references/](https://www.telegraph.co.uk/news/2023/02/25/james-bond-books-edited-remove-racist-references/)
  - date published: 2023-02-26 15:42:22+00:00
  - user: rumpel
- - tags: ['books', 'censorship']
+ - tags: ['fahrenheit 451', 'censorship', 'books']
 
 ## A woman who was locked out of her Apple account minutes after her iPhone was stolen and $10,000 was taken from her bank account says Apple was 'not helpful at all' - Business News
  - [https://biz.crast.net/a-woman-who-was-locked-out-of-her-apple-account-minutes-after-her-iphone-was-stolen-and-10000-was-taken-from-her-bank-account-says-apple-was-not-helpful-at-all/](https://biz.crast.net/a-woman-who-was-locked-out-of-her-apple-account-minutes-after-her-iphone-was-stolen-and-10000-was-taken-from-her-bank-account-says-apple-was-not-helpful-at-all/)
  - date published: 2023-02-26 07:31:37+00:00
  - user: rumpel
  - tags: ['iphone', 'technofeudalism', 'theft', 'apple']
+
+## Yes, hate speech is constitutionally protected
+ - [https://thehill.com/opinion/judiciary/3873943-yes-hate-speech-is-constitutionally-protected/](https://thehill.com/opinion/judiciary/3873943-yes-hate-speech-is-constitutionally-protected/)
+ - date published: 2023-02-25 15:00:00+00:00
+ - user: rumpel
+ - tags: ['woke', 'cancel culture', 'hate speech', 'free speech']
 
 ## Signal says it'll shut down in UK if Online Safety Bill approved
  - [https://www.theregister.com/2023/02/25/signal_uk_online_safety_bill/](https://www.theregister.com/2023/02/25/signal_uk_online_safety_bill/)
@@ -580,6 +628,12 @@
  - user: rumpel
  - tags: ['roald dahl']
 
+## UK gov’t scheme flags Shakespeare, LOTR as ‘key texts’ for ‘white supremacists’ | TVP World
+ - [https://tvpworld.com/66452162/uk-govt-scheme-flags-shakespeare-lotr-as-key-texts-for-white-supremacists](https://tvpworld.com/66452162/uk-govt-scheme-flags-shakespeare-lotr-as-key-texts-for-white-supremacists)
+ - date published: 2023-02-20 09:27:34+00:00
+ - user: rumpel
+ - tags: ['woke', 'white supremacy', 'orwell', 'censorship', 'fahrenheit 451']
+
 ## UK tests tracking citizens’ habits, rewarding them for good behavior
  - [https://reclaimthenet.org/uk-tests-tracking-citizens-habits-rewarding-them-for-good-behavior](https://reclaimthenet.org/uk-tests-tracking-citizens-habits-rewarding-them-for-good-behavior)
  - date published: 2023-02-19 16:29:23+00:00
@@ -602,7 +656,7 @@
  - [https://www.cbsnews.com/news/roald-dahls-changes-childrens-books-rushdie-telegraph/?intcid=CNM-00-10abd1h](https://www.cbsnews.com/news/roald-dahls-changes-childrens-books-rushdie-telegraph/?intcid=CNM-00-10abd1h)
  - date published: 2023-02-19 07:46:19+00:00
  - user: rumpel
- - tags: ['ministryoftruth', 'newspeak', 'fahrenheit451', 'censorship']
+ - tags: ['ministryoftruth', 'fahrenheit 451', 'newspeak', 'censorship']
 
 ## Heavy police presence as demonstrators face off during Oxford LTN protest
  - [https://www.youtube.com/watch?v=Ajyo-965RuM](https://www.youtube.com/watch?v=Ajyo-965RuM)
@@ -640,6 +694,12 @@
  - user: rumpel
  - tags: ['masks', 'mandates', 'covid', 'covid lie']
 
+## Yes Minister and The Thick of It were flagged by beleaguered counter-terror Prevent scheme | Daily Mail Online
+ - [https://www.dailymail.co.uk/news/article-11764775/Yes-Minister-flagged-beleaguered-counter-terror-Prevent-scheme.html](https://www.dailymail.co.uk/news/article-11764775/Yes-Minister-flagged-beleaguered-counter-terror-Prevent-scheme.html)
+ - date published: 2023-02-17 09:31:23+00:00
+ - user: rumpel
+ - tags: ['woke', 'white supremacy', 'orwell', 'censorship', 'fahrenheit 451']
+
 ## The Political Bias of ChatGPT – Extended Analysis
  - [https://davidrozado.substack.com/p/political-bias-chatgpt](https://davidrozado.substack.com/p/political-bias-chatgpt)
  - date published: 2023-02-17 09:16:09+00:00
@@ -650,7 +710,7 @@
  - [https://www.telegraph.co.uk/news/2023/02/17/roald-dahl-woke-overhaul-offensive-words-removed/](https://www.telegraph.co.uk/news/2023/02/17/roald-dahl-woke-overhaul-offensive-words-removed/)
  - date published: 2023-02-17 07:47:10+00:00
  - user: rumpel
- - tags: ['ministryoftruth', 'newspeak', 'fahrenheit451', 'censorship']
+ - tags: ['ministryoftruth', 'fahrenheit 451', 'newspeak', 'censorship']
 
 ## App founder quits Google, says company doesn’t serve users anymore
  - [https://arstechnica.com/gadgets/2023/02/app-founder-quits-google-says-company-doesnt-serve-users-anymore/](https://arstechnica.com/gadgets/2023/02/app-founder-quits-google-says-company-doesnt-serve-users-anymore/)

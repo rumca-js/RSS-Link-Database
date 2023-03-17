@@ -4,6 +4,12 @@
  - user: rumpel
  - tags: ['christianophobia']
 
+## Budownictwo m być neutralne klimatycznie.  Europosłowie zdecydowali - Money.pl
+ - [https://www.money.pl/gospodarka/budownictwo-m-byc-neutralne-klimatycznie-europoslowie-zdecydowali-6876357884091168a.html](https://www.money.pl/gospodarka/budownictwo-m-byc-neutralne-klimatycznie-europoslowie-zdecydowali-6876357884091168a.html)
+ - date published: 2023-03-14 16:01:51+00:00
+ - user: rumpel
+ - tags: ['climate change']
+
 ## Sytuacja kobiet w Hiszpanii ma się poprawić dzięki nowej ustawie
  - [https://obserwatorgospodarczy.pl/2023/03/13/hiszpania-uchwala-nowe-prawo-przynajmniej-40-kobiet-w-zarzadach-spolek/](https://obserwatorgospodarczy.pl/2023/03/13/hiszpania-uchwala-nowe-prawo-przynajmniej-40-kobiet-w-zarzadach-spolek/)
  - date published: 2023-03-13 19:56:01+00:00

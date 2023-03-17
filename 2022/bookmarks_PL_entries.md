@@ -1520,7 +1520,7 @@
  - [https://panodkultury.com.pl/komiksy/komiks-maus-zakazany-cenzura-w-usa/](https://panodkultury.com.pl/komiksy/komiks-maus-zakazany-cenzura-w-usa/)
  - date published: 2022-01-30 14:00:43+00:00
  - user: rumpel
- - tags: ['america', 'censorship']
+ - tags: ['america', 'fahrenheit 451', 'censorship']
 
 ## Pracownicy rzeszowskiego szpitala przeciwko obowiązkowi szczepień. Gotowi są odejść z pracy
  - [https://pch24.pl/pracownicy-rzeszowskiego-szpitala-przeciwko-obowiazkowi-szczepien-gotowi-sa-odejsc-z-pracy/](https://pch24.pl/pracownicy-rzeszowskiego-szpitala-przeciwko-obowiazkowi-szczepien-gotowi-sa-odejsc-z-pracy/)

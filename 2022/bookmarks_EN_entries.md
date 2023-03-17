@@ -1280,7 +1280,7 @@
  - [https://nypost.com/2022/12/10/jack-dorsey-told-congress-under-oath-twitter-was-not-shadow-banning/](https://nypost.com/2022/12/10/jack-dorsey-told-congress-under-oath-twitter-was-not-shadow-banning/)
  - date published: 2022-12-10 13:08:40+00:00
  - user: None
- - tags: ['twitter', 'twitter files']
+ - tags: ['shadow-ban', 'twitter', 'twitter files']
 
 ## 'Twitter Files' most overlooked finding? That Dorsey, Zuckerberg and half of America shrug at censorship
  - [https://www.foxnews.com/opinion/twitter-files-overlooked-finding-dorsey-zuckerberg-half-america-shrug-censorship](https://www.foxnews.com/opinion/twitter-files-overlooked-finding-dorsey-zuckerberg-half-america-shrug-censorship)
@@ -1406,7 +1406,7 @@
  - [https://www.dailymail.co.uk/news/article-11514251/Kirk-Cameron-banned-hosting-readings-Christian-childrens-book-50-public-libraries.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11514251/Kirk-Cameron-banned-hosting-readings-Christian-childrens-book-50-public-libraries.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2022-12-08 01:06:19+00:00
  - user: None
- - tags: ['christianity', 'censorship']
+ - tags: ['christianity', 'fahrenheit 451', 'censorship']
 
 ## Christian group whose reservation was cancelled by TV chef Brittanny Anderson's restaurant hits back
  - [https://www.dailymail.co.uk/news/article-11514361/Christian-group-reservation-cancelled-TV-chef-Brittanny-Andersons-restaurant-hits-back.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11514361/Christian-group-reservation-cancelled-TV-chef-Brittanny-Andersons-restaurant-hits-back.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1952,7 +1952,7 @@
  - [https://www.youtube.com/watch?v=gfGOSpg9Pds](https://www.youtube.com/watch?v=gfGOSpg9Pds)
  - date published: 2022-11-28 14:05:55+00:00
  - user: rumpel
- - tags: ['culture wars', 'covid', 'lockdown', 'covid hysteria']
+ - tags: ['covid', 'culture wars', 'fearmongering', 'lockdown']
 
 ## BSAG » Hold me closer, tiny keyboard
  - [https://www.rousette.org.uk/archives/hold-me-closer-tiny-keyboard/](https://www.rousette.org.uk/archives/hold-me-closer-tiny-keyboard/)
@@ -7600,6 +7600,12 @@
  - user: rumpel
  - tags: ['england', 'agriculture']
 
+## TikTok's in-app browser can monitor your keystrokes, including passwords and credit cards, researcher says - ABC News
+ - [https://www.abc.net.au/news/2022-08-22/tiktok-in-app-browser-can-monitor-keystrokes-researcher-finds/101356198](https://www.abc.net.au/news/2022-08-22/tiktok-in-app-browser-can-monitor-keystrokes-researcher-finds/101356198)
+ - date published: 2022-08-22 15:11:18+00:00
+ - user: rumpel
+ - tags: ['bigtech', 'tiktok', 'privacy', 'surveillance']
+
 ## The downfall of smart TVs: From promises of seamless viewing to ad tool on steroids
  - [https://adguard.com/en/blog/smart-tv-ad-blocking.html](https://adguard.com/en/blog/smart-tv-ad-blocking.html)
  - date published: 2022-08-22 13:50:49.108687+00:00
@@ -8049,6 +8055,12 @@
  - date published: 2022-07-28 08:36:58.313714+00:00
  - user: Thomas Pain
  - tags: ['google', 'technofeudalism', 'bigtech', 'privacy', 'bigbrother']
+
+## The Reason Why Brendan Fraser Was 'Blacklisted' From Hollywood For Years
+ - [https://www.ladbible.com/entertainment/the-reason-why-brendan-fraser-was-blacklisted-from-hollywood-for-yea-20220727](https://www.ladbible.com/entertainment/the-reason-why-brendan-fraser-was-blacklisted-from-hollywood-for-yea-20220727)
+ - date published: 2022-07-27 14:29:18+00:00
+ - user: rumpel
+ - tags: $tags
 
 ## UK under international pressure over deletion of abortion commitments | Global development | The Guardian
  - [https://www.theguardian.com/global-development/2022/jul/22/european-countries-pressurise-uk-over-removal-of-abortion-commitments-liz-truss](https://www.theguardian.com/global-development/2022/jul/22/european-countries-pressurise-uk-over-removal-of-abortion-commitments-liz-truss)
