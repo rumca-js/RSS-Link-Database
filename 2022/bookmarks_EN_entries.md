@@ -1798,6 +1798,12 @@
  - user: rumpel
  - tags: ['covid', 'digital passport', 'digital id']
 
+## After Disney's 'Strange World' bombs, film critic says ‘go woke, go broke’
+ - [https://nypost.com/2022/12/01/after-disneys-strange-world-bombs-film-critic-says-go-woke-go-broke/](https://nypost.com/2022/12/01/after-disneys-strange-world-bombs-film-critic-says-go-woke-go-broke/)
+ - date published: 2022-12-01 08:05:53+00:00
+ - user: rumpel
+ - tags: ['movies', 'woke']
+
 ## At SpaceX, work was taken away from me in case I “might retire or die.”
  - [https://www.lioness.co/post/at-spacex-work-was-taken-away-from-me-in-case-i-might-retire-or-die](https://www.lioness.co/post/at-spacex-work-was-taken-away-from-me-in-case-i-might-retire-or-die)
  - date published: 2022-12-01 07:55:07.124718+00:00
@@ -2060,7 +2066,7 @@
  - [https://www.youtube.com/watch?v=E8ZB2SjNzrc](https://www.youtube.com/watch?v=E8ZB2SjNzrc)
  - date published: 2022-11-26 01:34:32+00:00
  - user: None
- - tags: ['woke', 'rotten tomatoes']
+ - tags: ['woke', 'movies', 'rotten tomatoes']
 
 ## Why Google Search Has Become So Bad
  - [https://www.youtube.com/watch?v=48AOOynnmqU](https://www.youtube.com/watch?v=48AOOynnmqU)
@@ -6442,6 +6448,12 @@
  - user: None
  - tags: $tags
 
+## Disney’s ‘Little Mermaid’ Backlash Has Reached Insane Heights
+ - [https://www.forbes.com/sites/danidiplacido/2022/09/14/disneys-little-mermaid-backlash-has-reached-insane-heights/](https://www.forbes.com/sites/danidiplacido/2022/09/14/disneys-little-mermaid-backlash-has-reached-insane-heights/)
+ - date published: 2022-09-14 08:05:23+00:00
+ - user: rumpel
+ - tags: ['movies']
+
 ## Google Deepmind researcher co-authors paper saying AI will eliminate humanity
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58874](https://www.codeproject.com/script/News/View.aspx?nwid=58874)
  - date published: 2022-09-14 04:00:00+00:00
@@ -7095,6 +7107,12 @@
  - date published: 2022-09-04 08:19:57+00:00
  - user: None
  - tags: $tags
+
+## Amazon delays The Rings of Power ratings to combat fake reviews | The Lord of the Rings: The Rings of Power | The Guardian
+ - [https://www.theguardian.com/tv-and-radio/2022/sep/04/amazon-delays-rings-of-power-ratings-combat-fake-reviews](https://www.theguardian.com/tv-and-radio/2022/sep/04/amazon-delays-rings-of-power-ratings-combat-fake-reviews)
+ - date published: 2022-09-04 07:57:24+00:00
+ - user: rumpel
+ - tags: ['movies', 'censorship']
 
 ## Black Lives Matter leader is accused of pilfering $10M from the organization
  - [https://www.dailymail.co.uk/news/article-11176931/Black-Lives-Matter-leader-accused-pilfering-10M-organization.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11176931/Black-Lives-Matter-leader-accused-pilfering-10M-organization.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)

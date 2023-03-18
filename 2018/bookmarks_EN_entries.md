@@ -164,7 +164,7 @@
  - [https://www.nytimes.com/2018/08/28/business/media/rotten-tomatoes-critics.html](https://www.nytimes.com/2018/08/28/business/media/rotten-tomatoes-critics.html)
  - date published: 2018-08-28 08:49:46+00:00
  - user: None
- - tags: ['inequality', 'woke', 'rotten tomatoes', 'inclusive']
+ - tags: ['rotten tomatoes', 'inequality', 'movies', 'woke', 'inclusive']
 
 ## The Origin of Consciousness in the Breakdown of the Bicameral Mind
  - [https://notrelated.xyz/audio/s01/S01E01_-_The_Origin_of_Consciousness_in_the_Breakdown_of_the_Bicameral_Mind.mp3](https://notrelated.xyz/audio/s01/S01E01_-_The_Origin_of_Consciousness_in_the_Breakdown_of_the_Bicameral_Mind.mp3)

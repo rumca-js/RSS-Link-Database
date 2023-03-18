@@ -1,3 +1,21 @@
+## GPT-4 Is a Giant Black Box and Its Training Data Remains a Mystery
+ - [https://www.gizmodo.com.au/2023/03/gpt-4-is-a-giant-black-box-and-its-training-data-remains-a-mystery/](https://www.gizmodo.com.au/2023/03/gpt-4-is-a-giant-black-box-and-its-training-data-remains-a-mystery/)
+ - date published: 2023-03-17 17:48:54+00:00
+ - user: rumpel
+ - tags: ['gpt-4', 'artificial intelligence']
+
+## Can GPT-4 *Actually* Write Code?
+ - [https://tylerglaiel.substack.com/p/can-gpt-4-actually-write-code](https://tylerglaiel.substack.com/p/can-gpt-4-actually-write-code)
+ - date published: 2023-03-17 04:39:19+00:00
+ - user: rumpel
+ - tags: ['chatgpt', 'artificial intelligence', 'gpt-4']
+
+## Google says hackers could silently own your phone until Samsung fixes its modems
+ - [https://www.theverge.com/2023/3/16/23644013/samsung-exynos-modem-security-issue-project-zero](https://www.theverge.com/2023/3/16/23644013/samsung-exynos-modem-security-issue-project-zero)
+ - date published: 2023-03-17 01:23:19+00:00
+ - user: rumpel
+ - tags: ['vulnerabilities']
+
 ## Dead Internet Theory
  - [https://en.wikipedia.org/wiki/Dead_Internet_theory](https://en.wikipedia.org/wiki/Dead_Internet_theory)
  - date published: 2023-03-16 17:53:40+00:00
@@ -9,6 +27,12 @@
  - date published: 2023-03-16 17:31:22+00:00
  - user: rumpel
  - tags: ['surveillance', 'privacy', 'bigbrother']
+
+## Amazon sued for not telling New York store customers about facial recognition
+ - [https://www.nbcnews.com/tech/security/amazon-sued-not-telling-new-york-store-customers-facial-recognition-rcna75290](https://www.nbcnews.com/tech/security/amazon-sued-not-telling-new-york-store-customers-facial-recognition-rcna75290)
+ - date published: 2023-03-16 15:50:18+00:00
+ - user: rumpel
+ - tags: ['amazon', 'technofeudalism', 'facial recognition', 'biometric']
 
 ## Russia Sentences Soldier Who Admitted to War Crimes in Ukraine - The Moscow Times
  - [https://www.themoscowtimes.com/2023/03/16/russia-sentences-soldier-who-admitted-to-war-crimes-in-ukraine-a80494](https://www.themoscowtimes.com/2023/03/16/russia-sentences-soldier-who-admitted-to-war-crimes-in-ukraine-a80494)
@@ -63,6 +87,12 @@
  - date published: 2023-03-13 19:26:48+00:00
  - user: rumpel
  - tags: ['photography', 'samsung']
+
+## CIA Goes to South by Southwest to Look for Technology That Can ‘Supercharge’ Spies
+ - [https://www.bloomberg.com/news/articles/2023-03-13/cia-tells-sxsw-that-spy-technology-needs-to-be-supercharged](https://www.bloomberg.com/news/articles/2023-03-13/cia-tells-sxsw-that-spy-technology-needs-to-be-supercharged)
+ - date published: 2023-03-13 17:51:05+00:00
+ - user: rumpel
+ - tags: ['manufacturing consent', 'bigbrother', 'surveillance', 'artificial intelligence']
 
 ## Losing Signal
  - [https://ploum.net/2023-03-09-losing-signal.html](https://ploum.net/2023-03-09-losing-signal.html)
@@ -152,7 +182,7 @@
  - [https://www.youtube.com/watch?v=4N88pOhyKyE](https://www.youtube.com/watch?v=4N88pOhyKyE)
  - date published: 2023-03-10 20:28:59+00:00
  - user: rumpel
- - tags: ['streaming']
+ - tags: ['streaming', 'movies']
 
 ## Google, Meta hired talent to do 'fake work'
  - [https://fortune.com/2023/03/10/google-over-hired-talent-do-nothing-fake-work-stop-working-rivals-former-paypal-boss-keith-rabois/](https://fortune.com/2023/03/10/google-over-hired-talent-do-nothing-fake-work-stop-working-rivals-former-paypal-boss-keith-rabois/)
