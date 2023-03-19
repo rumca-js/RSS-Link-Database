@@ -1,8 +1,26 @@
+## Docker apologizes for bungled scrapping of free org accounts • The Register
+ - [https://www.theregister.com/2023/03/17/docker_free_teams_plan/](https://www.theregister.com/2023/03/17/docker_free_teams_plan/)
+ - date published: 2023-03-17 20:27:56+00:00
+ - user: rumpel
+ - tags: ['docker', 'technofeudalism', 'open source']
+
 ## GPT-4 Is a Giant Black Box and Its Training Data Remains a Mystery
  - [https://www.gizmodo.com.au/2023/03/gpt-4-is-a-giant-black-box-and-its-training-data-remains-a-mystery/](https://www.gizmodo.com.au/2023/03/gpt-4-is-a-giant-black-box-and-its-training-data-remains-a-mystery/)
  - date published: 2023-03-17 17:48:54+00:00
  - user: rumpel
  - tags: ['gpt-4', 'artificial intelligence']
+
+## Latest Twitter Files tackle 'Great Covid-19 Lie Machine' flagging true content as 'disinformation'
+ - [https://www.foxnews.com/media/latest-twitter-files-tackle-great-covid-19-lie-machine-flagging-true-content-disinformation](https://www.foxnews.com/media/latest-twitter-files-tackle-great-covid-19-lie-machine-flagging-true-content-disinformation)
+ - date published: 2023-03-17 17:39:58+00:00
+ - user: rumpel
+ - tags: ['twitter files', 'covid', 'twitter']
+
+## Musk says Twitter will make tweet recommendation algorithm code open source on March 31 | Shacknews
+ - [https://www.shacknews.com/article/134640/musk-twitter-open-source-code-recommended-tweets-march-31](https://www.shacknews.com/article/134640/musk-twitter-open-source-code-recommended-tweets-march-31)
+ - date published: 2023-03-17 06:27:32+00:00
+ - user: rumpel
+ - tags: ['tweeter', 'open source', 'algorithms']
 
 ## Can GPT-4 *Actually* Write Code?
  - [https://tylerglaiel.substack.com/p/can-gpt-4-actually-write-code](https://tylerglaiel.substack.com/p/can-gpt-4-actually-write-code)
@@ -15,6 +33,18 @@
  - date published: 2023-03-17 01:23:19+00:00
  - user: rumpel
  - tags: ['vulnerabilities']
+
+## Vaccination problems, UK Parliament
+ - [https://www.youtube.com/watch?v=JvSHD_n3Lyg](https://www.youtube.com/watch?v=JvSHD_n3Lyg)
+ - date published: 2023-03-17 00:00:00+00:00
+ - user: rumpel
+ - tags: ['covid', 'vaccine']
+
+## COVID-19 Vaccines Can Cause ‘Permanent Disabilities,’ Says German Health Minister
+ - [https://www.theepochtimes.com/covid-19-vaccines-can-cause-permanent-disabilities-says-german-health-minister_5129027.html](https://www.theepochtimes.com/covid-19-vaccines-can-cause-permanent-disabilities-says-german-health-minister_5129027.html)
+ - date published: 2023-03-16 21:51:05+00:00
+ - user: rumpel
+ - tags: ['vaccine', 'covid']
 
 ## Dead Internet Theory
  - [https://en.wikipedia.org/wiki/Dead_Internet_theory](https://en.wikipedia.org/wiki/Dead_Internet_theory)
@@ -57,6 +87,12 @@
  - date published: 2023-03-15 09:18:24+00:00
  - user: rumpel
  - tags: ['chatgpt', 'artificial intelligence']
+
+## How Siri, Alexa and Google Assistant Lost the AI Race
+ - [https://www.nytimes.com/2023/03/15/technology/siri-alexa-google-assistant-artificial-intelligence.html](https://www.nytimes.com/2023/03/15/technology/siri-alexa-google-assistant-artificial-intelligence.html)
+ - date published: 2023-03-15 09:00:28+00:00
+ - user: rumpel
+ - tags: ['siri', 'alexa', 'artificial intelligence']
 
 ## Doom source code oddities - The Doom Wiki at DoomWiki.org
  - [https://doomwiki.org/wiki/Doom_source_code_oddities](https://doomwiki.org/wiki/Doom_source_code_oddities)
@@ -920,7 +956,7 @@
  - [https://teachersforchoice.org/2023/02/09/fingerprints-of-unvaccinated-nyc-teachers-flagged-to-fbi/](https://teachersforchoice.org/2023/02/09/fingerprints-of-unvaccinated-nyc-teachers-flagged-to-fbi/)
  - date published: 2023-02-09 10:44:18+00:00
  - user: rumpel
- - tags: ['bigbrother', 'covid', 'vaccine', 'mandates']
+ - tags: ['mandates', 'vaccine', 'bigbrother', 'technofeudalism', 'covid']
 
 ## Google's AI chatbot, Bard, sparks a $100 billion loss in Alphabet shares : NPR
  - [https://www.npr.org/2023/02/09/1155650909/google-chatbot--error-bard-shares](https://www.npr.org/2023/02/09/1155650909/google-chatbot--error-bard-shares)

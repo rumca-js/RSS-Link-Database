@@ -2374,6 +2374,12 @@
  - user: None
  - tags: $tags
 
+## Unlock Bootloader on Samsung Galaxy Phones and Tablets — A Complete Guide
+ - [https://www.thecustomdroid.com/samsung-galaxy-bootloader-unlock-guide/](https://www.thecustomdroid.com/samsung-galaxy-bootloader-unlock-guide/)
+ - date published: 2022-11-16 10:42:48+00:00
+ - user: rumpel
+ - tags: ['android', 'lineageos', 'smartphone']
+
 ## Covid Australia: ABC's Dr Norman Swan's huge mistakes about the pandemic
  - [https://www.dailymail.co.uk/news/article-11432117/Covid-Australia-ABCs-Dr-Norman-Swans-huge-mistakes-pandemic.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11432117/Covid-Australia-ABCs-Dr-Norman-Swans-huge-mistakes-pandemic.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2022-11-16 03:04:29+00:00
