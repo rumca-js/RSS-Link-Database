@@ -16,6 +16,12 @@
  - user: rumpel
  - tags: ['twitter files', 'covid', 'twitter']
 
+## Andrew Bridgen: Disgraced MP free to raise anti-vax conspiracy theories in the Commons, Speaker says
+ - [https://inews.co.uk/news/politics/andrew-bridgen-disgraced-mp-anti-vax-conspiracy-theories-commons-speaker-2217694?ico=most_popular](https://inews.co.uk/news/politics/andrew-bridgen-disgraced-mp-anti-vax-conspiracy-theories-commons-speaker-2217694?ico=most_popular)
+ - date published: 2023-03-17 07:19:58+00:00
+ - user: rumpel
+ - tags: ['covid', 'free speech', 'vaccine']
+
 ## Musk says Twitter will make tweet recommendation algorithm code open source on March 31 | Shacknews
  - [https://www.shacknews.com/article/134640/musk-twitter-open-source-code-recommended-tweets-march-31](https://www.shacknews.com/article/134640/musk-twitter-open-source-code-recommended-tweets-march-31)
  - date published: 2023-03-17 06:27:32+00:00
@@ -33,12 +39,6 @@
  - date published: 2023-03-17 01:23:19+00:00
  - user: rumpel
  - tags: ['vulnerabilities']
-
-## Vaccination problems, UK Parliament
- - [https://www.youtube.com/watch?v=JvSHD_n3Lyg](https://www.youtube.com/watch?v=JvSHD_n3Lyg)
- - date published: 2023-03-17 00:00:00+00:00
- - user: rumpel
- - tags: ['covid', 'vaccine']
 
 ## COVID-19 Vaccines Can Cause ‘Permanent Disabilities,’ Says German Health Minister
  - [https://www.theepochtimes.com/covid-19-vaccines-can-cause-permanent-disabilities-says-german-health-minister_5129027.html](https://www.theepochtimes.com/covid-19-vaccines-can-cause-permanent-disabilities-says-german-health-minister_5129027.html)
