@@ -86,7 +86,7 @@
  - [https://ithardware.pl/aktualnosci/fbi_zaplacilo_twitterowi_3_4_mln_usd_za_nazywanie_historii_huntera_bidena_rosyjska_dezinformacja-24966.html](https://ithardware.pl/aktualnosci/fbi_zaplacilo_twitterowi_3_4_mln_usd_za_nazywanie_historii_huntera_bidena_rosyjska_dezinformacja-24966.html)
  - date published: 2022-12-20 16:31:50+00:00
  - user: None
- - tags: ['free speech', 'censorship', 'twitter; twitter files', 'fbi']
+ - tags: ['censorship', 'fbi', 'twitter files', 'free speech', 'twitter']
 
 ## Google przebudowało swoje domeny, by szpiegować nas lepiej
  - [https://bulldogjob.pl/readme/google-przebudowalo-strukture-swoich-domen-by-szpiegowac-nas-lepiej](https://bulldogjob.pl/readme/google-przebudowalo-strukture-swoich-domen-by-szpiegowac-nas-lepiej)

@@ -1,3 +1,9 @@
+## Biden issues first veto, rejecting bill to reverse ESG rule
+ - [https://thehill.com/homenews/3883293-biden-issues-first-veto-rejecting-bill-to-reverse-esg-rule/](https://thehill.com/homenews/3883293-biden-issues-first-veto-rejecting-bill-to-reverse-esg-rule/)
+ - date published: 2023-03-20 17:00:08+00:00
+ - user: rumpel
+ - tags: ['esg']
+
 ## Docker apologizes for bungled scrapping of free org accounts • The Register
  - [https://www.theregister.com/2023/03/17/docker_free_teams_plan/](https://www.theregister.com/2023/03/17/docker_free_teams_plan/)
  - date published: 2023-03-17 20:27:56+00:00
@@ -147,6 +153,12 @@
  - date published: 2023-03-13 00:26:33+00:00
  - user: rumpel
  - tags: ['democracy', 'cronyism', 'socialism']
+
+## 11 Documents Showing Microsoft Tried To Destroy Linux
+ - [https://www.youtube.com/watch?v=tUk169XL58w](https://www.youtube.com/watch?v=tUk169XL58w)
+ - date published: 2023-03-12 20:00:27+00:00
+ - user: rumpel
+ - tags: ['microsoft', 'dark design', 'embrace extend extinguish']
 
 ## AI's Next Big Takeover: Audiobooks     - CNET
  - [https://www.cnet.com/tech/features/ais-next-big-takeover-audiobooks/#ftag=CADf328eec](https://www.cnet.com/tech/features/ais-next-big-takeover-audiobooks/#ftag=CADf328eec)
@@ -2199,6 +2211,12 @@
  - date published: 2023-01-07 22:18:42+00:00
  - user: rumpel
  - tags: ['woke', 'trans']
+
+## SteamDeck Destroyed The Linux Steam Marketshare
+ - [https://www.youtube.com/watch?v=xbvoyzeQu1M](https://www.youtube.com/watch?v=xbvoyzeQu1M)
+ - date published: 2023-01-07 20:00:18+00:00
+ - user: rumpel
+ - tags: ['linux']
 
 ## How secure are RISC-V chips?
  - [https://semiengineering.com/how-secure-are-risc-v-chips/](https://semiengineering.com/how-secure-are-risc-v-chips/)

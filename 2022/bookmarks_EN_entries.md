@@ -230,7 +230,7 @@
  - [https://www.newsweek.com/fbi-gaslights-america-over-twitter-files-opinion-1769352](https://www.newsweek.com/fbi-gaslights-america-over-twitter-files-opinion-1769352)
  - date published: 2022-12-26 11:00:01+00:00
  - user: rumpel
- - tags: ['bigbrother', 'fbi', 'twitter; twitter files']
+ - tags: ['bigbrother', 'twitter files', 'fbi', 'twitter']
 
 ## China stages big military incursion, Taiwan says
  - [https://www.bbc.co.uk/news/world-asia-64094261?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-64094261?at_medium=RSS&at_campaign=KARANGA)
@@ -602,7 +602,7 @@
  - [https://www.dailymail.co.uk/news/article-11559455/The-Twitter-Files-leaks-FBI-key-revelations-far.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11559455/The-Twitter-Files-leaks-FBI-key-revelations-far.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2022-12-20 22:38:27+00:00
  - user: None
- - tags: ['free speech', 'censorship', 'twitter; twitter files', 'fbi']
+ - tags: ['censorship', 'fbi', 'twitter files', 'free speech', 'twitter']
 
 ## New Tolerance Campaign Announces 2022 “Worst of the Woke” Awards
  - [https://newtolerance.org/new-tolerance-campaign-announces-2022-worst-of-the-woke-awards/](https://newtolerance.org/new-tolerance-campaign-announces-2022-worst-of-the-woke-awards/)
@@ -626,7 +626,7 @@
  - [https://www.theepochtimes.com/twitter-files-show-company-directly-assisted-in-us-military-psychological-operations_4935884.html](https://www.theepochtimes.com/twitter-files-show-company-directly-assisted-in-us-military-psychological-operations_4935884.html)
  - date published: 2022-12-20 21:20:56+00:00
  - user: None
- - tags: ['military', 'free speech', 'censorship', 'twitter; twitter files']
+ - tags: ['censorship', 'military', 'twitter files', 'free speech', 'twitter']
 
 ## Big oil is behind conspiracy to deceive public, first climate racketeering lawsuit says
  - [https://www.theguardian.com/environment/2022/dec/20/big-oil-is-behind-conspiracy-to-deceive-public-first-climate-racketeering-lawsuit-says](https://www.theguardian.com/environment/2022/dec/20/big-oil-is-behind-conspiracy-to-deceive-public-first-climate-racketeering-lawsuit-says)
@@ -674,7 +674,7 @@
  - [https://www.dailywire.com/news/new-twitter-files-show-fbi-paid-twitter-millions-influenced-execs-to-censor-hunter-biden-laptop-story](https://www.dailywire.com/news/new-twitter-files-show-fbi-paid-twitter-millions-influenced-execs-to-censor-hunter-biden-laptop-story)
  - date published: 2022-12-19 15:10:57+00:00
  - user: None
- - tags: ['twitter; twitter files', 'fbi']
+ - tags: ['twitter files', 'fbi', 'twitter']
 
 ## Tell HN: Google Maps location data is used for GeoIP updates
  - [https://news.ycombinator.com/item?id=34052786](https://news.ycombinator.com/item?id=34052786)
@@ -734,7 +734,7 @@
  - [https://reclaimthenet.org/comer-says-google-and-fb-needs-to-be-investigated-censorship/](https://reclaimthenet.org/comer-says-google-and-fb-needs-to-be-investigated-censorship/)
  - date published: 2022-12-18 20:28:26+00:00
  - user: rumpel
- - tags: ['censorship', 'moderation', 'twitter; twitter files']
+ - tags: ['moderation', 'twitter files', 'censorship', 'twitter']
 
 ## Censor or else: Democratic lawmakers warn Facebook not to ‘backslide’ on censorship
  - [https://www.foxnews.com/opinion/censor-or-else-democratic-lawmakers-warn-facebook-not-backslide-censorship](https://www.foxnews.com/opinion/censor-or-else-democratic-lawmakers-warn-facebook-not-backslide-censorship)
@@ -1106,7 +1106,7 @@
  - [https://www.foxnews.com/media/twitter-files-cnn-abc-nbc-cbs-blackout-coverage-elon-musk](https://www.foxnews.com/media/twitter-files-cnn-abc-nbc-cbs-blackout-coverage-elon-musk)
  - date published: 2022-12-13 07:00:10+00:00
  - user: None
- - tags: ['twitter; twitter files']
+ - tags: ['twitter files', 'twitter']
 
 ## Twitter files show how Trump was banned, while world dictators were allowed to call for mass murder
  - [https://www.dailymail.co.uk/news/article-11530873/Twitter-files-Trump-banned-world-dictators-allowed-call-mass-murder.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11530873/Twitter-files-Trump-banned-world-dictators-allowed-call-mass-murder.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1130,7 +1130,7 @@
  - [https://www.dailymail.co.uk/news/article-11530029/Twitter-files-FIVE-Trump-banned-employees-said-did-NOT-violate-policy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11530029/Twitter-files-FIVE-Trump-banned-employees-said-did-NOT-violate-policy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2022-12-12 19:29:03+00:00
  - user: None
- - tags: ['twitter; twitter files']
+ - tags: ['twitter files', 'twitter']
 
 ## The Twitter Files Part V: Chinese Employee Warned Co-Workers Against Censoring Trump
  - [https://www.dailywire.com/news/the-twitter-files-part-v-chinese-employee-warned-co-workers-against-censoring-trump](https://www.dailywire.com/news/the-twitter-files-part-v-chinese-employee-warned-co-workers-against-censoring-trump)
@@ -1232,7 +1232,7 @@
  - [https://reclaimthenet.org/mccarthy-calls-for-investigation-into-social-media-censorship/](https://reclaimthenet.org/mccarthy-calls-for-investigation-into-social-media-censorship/)
  - date published: 2022-12-11 18:25:45+00:00
  - user: None
- - tags: ['twitter; twitter files', 'free speech', 'censorship']
+ - tags: ['twitter files', 'free speech', 'censorship', 'twitter']
 
 ## James Baker May Face ‘Serious Ethics Charges’ For Vetting ‘Twitter Files’ Without Musk’s Knowledge, Says Expert
  - [https://www.theepochtimes.com/james-baker-may-face-serious-ethics-charges-for-vetting-twitter-files-without-musks-knowledge-says-expert_4915754.html](https://www.theepochtimes.com/james-baker-may-face-serious-ethics-charges-for-vetting-twitter-files-without-musks-knowledge-says-expert_4915754.html)
@@ -1274,7 +1274,7 @@
  - [https://reclaimthenet.org/twitter-allowed-fbi-flag-tweets/](https://reclaimthenet.org/twitter-allowed-fbi-flag-tweets/)
  - date published: 2022-12-10 16:53:55+00:00
  - user: None
- - tags: ['bigbrother', 'fbi', 'twitter; twitter files']
+ - tags: ['bigbrother', 'twitter files', 'fbi', 'twitter']
 
 ## Jack Dorsey told Congress under oath Twitter was not shadow-banning
  - [https://nypost.com/2022/12/10/jack-dorsey-told-congress-under-oath-twitter-was-not-shadow-banning/](https://nypost.com/2022/12/10/jack-dorsey-told-congress-under-oath-twitter-was-not-shadow-banning/)
@@ -1658,7 +1658,7 @@
  - [https://www.foxnews.com/media/musk-declares-new-york-times-lobbying-firm-for-far-left-after-reportedly-ignoring-twitter-files-story](https://www.foxnews.com/media/musk-declares-new-york-times-lobbying-firm-for-far-left-after-reportedly-ignoring-twitter-files-story)
  - date published: 2022-12-03 21:03:29+00:00
  - user: None
- - tags: ['twitter; twitter files', 'free speech', 'censorship']
+ - tags: ['twitter files', 'free speech', 'censorship', 'twitter']
 
 ## France prepares for possibility of electricity blackouts during winter months
  - [https://www.rfi.fr/en/france/20221201-how-france-is-preparing-to-avoid-a-major-blackout-this-winter](https://www.rfi.fr/en/france/20221201-how-france-is-preparing-to-avoid-a-major-blackout-this-winter)
@@ -8913,6 +8913,12 @@
  - date published: 2022-06-02 07:42:50.244712+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## A Year After the Capitol Riot, Nothing Useful Has Been Done
+ - [https://jacobin.com/2022/01/january-6-capitol-riot-trump-conspiracy-cable-news-national-security-state](https://jacobin.com/2022/01/january-6-capitol-riot-trump-conspiracy-cable-news-national-security-state)
+ - date published: 2022-06-01 20:33:44+00:00
+ - user: rumpel
+ - tags: ['jan6', 'january 6']
 
 ## Opinion | Stop Pretending All Books Are Written in English - The New York Times
  - [https://www.nytimes.com/2022/05/29/opinion/translator-credit-cover.html](https://www.nytimes.com/2022/05/29/opinion/translator-credit-cover.html)
