@@ -1,3 +1,9 @@
+## Trzecia rocznica pandemii. Koszty promocji i nazwiska reklamujących szczepionki - Gazeta Trybunalska
+ - [https://gazetatrybunalska.info/2023/03/trzecia-rocznica-pandemii-koszty-promocji-i-nazwiska-reklamujacych-szczepionki/](https://gazetatrybunalska.info/2023/03/trzecia-rocznica-pandemii-koszty-promocji-i-nazwiska-reklamujacych-szczepionki/)
+ - date published: 2023-03-20 06:19:35+00:00
+ - user: rumpel
+ - tags: ['covid', 'propaganda', 'vaccine']
+
 ## Wiedeń boi się ataków terrorystycznych. Chodzi o kościoły
  - [https://forsal.pl/swiat/bezpieczenstwo/artykuly/8681424,wieden-boi-sie-atakow-terrorystycznych-chodzi-o-koscioly.html](https://forsal.pl/swiat/bezpieczenstwo/artykuly/8681424,wieden-boi-sie-atakow-terrorystycznych-chodzi-o-koscioly.html)
  - date published: 2023-03-15 15:45:32+00:00

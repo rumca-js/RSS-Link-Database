@@ -1,3 +1,15 @@
+## Louis Rossmann could sue John Deere for GPL violation
+ - [https://www.youtube.com/watch?v=XP7Qx1FF1hA](https://www.youtube.com/watch?v=XP7Qx1FF1hA)
+ - date published: 2023-03-21 08:31:05+00:00
+ - user: rumpel
+ - tags: ['linux', 'right to repair', 'open source']
+
+## Stanford’s Alpaca shows that OpenAI may have a problem
+ - [https://the-decoder.com/stanfords-alpaca-shows-that-openai-may-have-a-problem/](https://the-decoder.com/stanfords-alpaca-shows-that-openai-may-have-a-problem/)
+ - date published: 2023-03-21 02:21:56+00:00
+ - user: rumpel
+ - tags: ['gpt-3', 'artificial intelligence']
+
 ## Biden issues first veto, rejecting bill to reverse ESG rule
  - [https://thehill.com/homenews/3883293-biden-issues-first-veto-rejecting-bill-to-reverse-esg-rule/](https://thehill.com/homenews/3883293-biden-issues-first-veto-rejecting-bill-to-reverse-esg-rule/)
  - date published: 2023-03-20 17:00:08+00:00
@@ -69,6 +81,12 @@
  - date published: 2023-03-16 15:50:18+00:00
  - user: rumpel
  - tags: ['amazon', 'technofeudalism', 'facial recognition', 'biometric']
+
+## CDC Bought Phone Data to Monitor Americans’ Compliance With Lockdowns, Contracts Show
+ - [https://www.theepochtimes.com/cdc-bought-phone-data-to-monitor-americans-compliance-with-lockdowns-contracts-show_5118737.html](https://www.theepochtimes.com/cdc-bought-phone-data-to-monitor-americans-compliance-with-lockdowns-contracts-show_5118737.html)
+ - date published: 2023-03-16 12:06:57+00:00
+ - user: rumpel
+ - tags: ['privacy', 'surveillance', 'covid', 'lockdown', 'bigbrother']
 
 ## Russia Sentences Soldier Who Admitted to War Crimes in Ukraine - The Moscow Times
  - [https://www.themoscowtimes.com/2023/03/16/russia-sentences-soldier-who-admitted-to-war-crimes-in-ukraine-a80494](https://www.themoscowtimes.com/2023/03/16/russia-sentences-soldier-who-admitted-to-war-crimes-in-ukraine-a80494)
@@ -159,6 +177,12 @@
  - date published: 2023-03-12 20:00:27+00:00
  - user: rumpel
  - tags: ['microsoft', 'dark design', 'embrace extend extinguish']
+
+## Till the LAST UKRAINIAN  [Documentary]
+ - [https://www.youtube.com/watch?v=wcn3_V2_rJ0](https://www.youtube.com/watch?v=wcn3_V2_rJ0)
+ - date published: 2023-03-12 13:24:52+00:00
+ - user: rumpel
+ - tags: ['war', 'ukraine']
 
 ## AI's Next Big Takeover: Audiobooks     - CNET
  - [https://www.cnet.com/tech/features/ais-next-big-takeover-audiobooks/#ftag=CADf328eec](https://www.cnet.com/tech/features/ais-next-big-takeover-audiobooks/#ftag=CADf328eec)

@@ -10546,6 +10546,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## How Zelensky Gave the World a Jewish Hero - The Atlantic
+ - [https://www.theatlantic.com/international/archive/2022/02/zelensky-ukraine-president-jewish-hero/622945/](https://www.theatlantic.com/international/archive/2022/02/zelensky-ukraine-president-jewish-hero/622945/)
+ - date published: 2022-02-27 16:09:33+00:00
+ - user: rumpel
+ - tags: ['war', 'ukraine', 'israel']
+
 ## 1.7 million Hondas are being investigated for phantom braking | Ars Technica
  - [https://arstechnica.com/cars/2022/02/nhtsa-to-investigate-honda-accords-and-cr-vs-over-phantom-braking/](https://arstechnica.com/cars/2022/02/nhtsa-to-investigate-honda-accords-and-cr-vs-over-phantom-braking/)
  - date published: 2022-02-26 19:51:20.654237+00:00
