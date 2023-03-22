@@ -29,13 +29,13 @@
 
  - contains articles that I have selected as intresting, or noteworthy, or funny, or whathever
  - files are split by 'language' and 'year' categories
- - three file formats: JSON, markdown, rss
+ - three file formats: JSON, markdown, RSS
  - markdown file is generated as a form of preview, JSON can be reused, imported
  - links are highlighted, but that does not necessarily mean something is endorsed. It shows particular intrest in topic. It is indication of importance
 
 ## Sources
 
- - provided in sources.json file
+ - provided in the sources.json file
  - provides information about sources, like title, url, langugage
 
 ## Data analysis
@@ -43,21 +43,50 @@
 With these data we can perform further analysis:
 
  - how many of old links are not any longer valid (link rot test)
- - capture all domains from RSS links (internal, and leading outside?). Analyse which domains are most common
- - which site generates most entries
- - we can capture all external links from entries, to capture where these sites lead to (check network effect, etc)
- - we can verify who reported first on certain topics
+ - analyze which domains are most common, etc.
+ - analyze contents of links. Which other domains links use, refer to
 
-# Problems, notes
+## Analysis of the soucres
 
- - Internet Archive (archive.org) does not provide snapshots for each and every day for all RSS sources. It is sometimes pretty slow. We would like to be sure that a such snapshot takes place. Therefore we need to export links to daily repo ourselves. Django RSS app also makes requests to archive to make the snapshots
- - Google fails to deliver content of small creators (blogs etc. private pages). Google focuses on corporate hosting. Most common links are towards YouTube, Google maps, Facebook, reddit
- - We cannot replace Google search
- - Google provides only 31 pages of news (in news filter) and around 10 pages for ordinary search. This is a very small number. It is like looking through keyhole at the Internet
- - Link rot is real. My links may be not working after some time
- - Is the data relevant, or useful for anyone?
- - Either we would like to record data from 'well established sources' or gather as many links as possible. I think web engines do it? We cannot gather too much data, as it can destroy our potato servers.
- - there are other RSS solutions like 'feedly', but it is an app, not data. You cannot parse it, you do not own the data, you can only do things that feedly allows you to do
+ - Even though I have many sources, I am checking often only a few of them regularly
+ - Even though some sources might be more demagogic, some of them might have still interesting articles thoughs
+ - Reddit often provides links to mainstream sources, but hacker news provides sometimes to smaller sites, which I think I could not find myself. People in some social circles are more interested in things that do also interest me
+ - Often links captured through Reddit, msn, yahoo tend to rot fast. It is best to find related article, on source domain, rather than keeping msn link
+ - I check some less reliable sources (4chan? wykop?) just for fun. Sometimes you can see there things you could not elesewhere
+ - I am using title for browsing entries. Thumbnails are unnecessary distraction. If source does not provide reliable well designed title, contents will not be well designed. If title is clickbaity, the contents will not be worth my time
+ - I like browsing titles from all politicial spectrum. Even if I do not agree with something I still like to hear what they are saying
+ - Mainstream sources provide homogenic contents, which is designed not to offend anybody. Therefore the resulting contents is mostly bleak, and not worth my time
+ - Most of important news are present in all sources. Therefore it is not important to capture all mainstream media sources, but most of them that capture the spirit of political spectrum
+
+## Analysis of Google search
+
+ - Google provides around 10 pages for a query, or 31 pages for 'news' query. Each page contains around 10 links. Therefore we receive at most 100 results for a normal query, or 310 links in 'news' query. This is like looking through a keyhole at the Internet
+ - Google curates results. Like everybody it contains it's own bias. I prefer having my own, and not to rely on some corporate bias
+ - Most of Google links lead to Google services (YouTube), or to big tech services (Amazon, Facebook). Important news, or controversial one will not reach surface in Google
+ - Google will limit right-wing contents, therefore if you want to see what the right-wing says, you have to find it manually
+ - For general terms like 'war', 'love', 'crisis', 'apple', 'microsoft' providing 310 links in the results is unacceptable
+ - Most of Google results are provided for context of 'now'. If you search 'crisis' it will search for the most recent crisis. It is hard to find historic entries. It is as it was controlling the history. On the other hand I am aware, that date limits can be selected from advanced menu
+ - Google earns by selling your attention, and services of big tech. It is hard to imagine that it will make a user friendly service. It will create investor, producer friendly service
+ - We cannot replace Google search. We can however provide additional functionality
+
+## Analysis of Tools
+
+Archive.org:
+ - is not reliable. Sometimes it gets painfully slow. It is still better than nothing
+ - most mainstream media RSS is covered, but the coverage is spotty. Not all days are covered
+
+RSS tools:
+ - Some do not provide ability to bookmark entries
+ - Some do not provide ability to add tags entries (usefull for searching entries with a particular tag)
+ - Some do not provide ability to search for a particular title, etc. Searching mechanisms are limiting
+ - There is no ability to fetch archived data. I have been using archive.org to import historic RSS data, but not all data are available
+ - Some of RSS tools are not local (feedly), which for me is a problem
+
+# Additional thoughts
+
+ - Database needs to be constantly monitored, moderated
+ - Link rot is real, data needs to be moderated constantly
+ - SQLlite is good enough solution for LAN use
 
 # Ending notes
 
