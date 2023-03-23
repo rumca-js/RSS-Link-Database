@@ -20,64 +20,64 @@
  - Automating a Reading List [https://zanshin.net/2022/09/11/automating-a-reading-list/](https://zanshin.net/2022/09/11/automating-a-reading-list/)
  - Google Search Is Dying [https://dkb.io/post/google-search-is-dying](https://dkb.io/post/google-search-is-dying)
  - Luke Smith: Search Engines are Totally Useless Now... [https://www.youtube.com/watch?v=N8P6MTOQlyk](https://www.youtube.com/watch?v=N8P6MTOQlyk)
- - Luke Smith: Remember to Consoom Next Content on YouTube [https://www.youtube.com/watch?v=nI3GVw2JSEI](https://www.youtube.com/watch?v=nI3GVw2JSEI). As a society we provide news instead of building a data base of important information
+ - Luke Smith: Remember to Consoom Next Content on YouTube [https://www.youtube.com/watch?v=nI3GVw2JSEI](https://www.youtube.com/watch?v=nI3GVw2JSEI). As a society, we provide news instead of building a database of important information
  - Ryan George What Google Search Is Like In 2022 [https://www.youtube.com/watch?v=NT7_SxJ3oSI](https://www.youtube.com/watch?v=NT7_SxJ3oSI)
 
 # Data
 
 ## Bookmarks
 
- - contains articles that I have selected as intresting, or noteworthy, or funny, or whathever
- - files are split by 'language' and 'year' categories
- - three file formats: JSON, markdown, RSS
- - markdown file is generated as a form of preview, JSON can be reused, imported
- - links are highlighted, but that does not necessarily mean something is endorsed. It shows particular intrest in topic. It is indication of importance
+ - Contains articles that I have selected as interesting, or noteworthy, or funny, or whatever
+ - Files are split by 'language' and 'year' categories
+ - Three file formats: JSON, markdown, RSS
+ - Markdown file is generated as a form of preview, JSON can be reused, imported
+ - Links are highlighted, but that does not necessarily mean something is endorsed. It shows particular interest in topic. It is indication of importance
 
 ## Sources
 
- - provided in the sources.json file
- - provides information about sources, like title, url, langugage
+ - Provided in the sources.json file
+ - Provides information about sources, like title, url, language
 
 ## Data analysis
 
 With these data we can perform further analysis:
 
- - how many of old links are not any longer valid (link rot test)
- - analyze which domains are most common, etc.
- - analyze contents of links. Which other domains links use, refer to
+ - How many of old links are not any longer valid (link rot test)
+ - Analyze which domains are most common, etc.
+ - Analyze contents of links. Which other domains links use, refer to
 
-## Analysis of the soucres
+## Analysis of the sources
 
- - Even though I have many sources, I am checking often only a few of them regularly
- - Even though some sources might be more demagogic, some of them might have still interesting articles thoughs
- - Reddit often provides links to mainstream sources, but hacker news provides sometimes to smaller sites, which I think I could not find myself. People in some social circles are more interested in things that do also interest me
- - Often links captured through Reddit, msn, yahoo tend to rot fast. It is best to find related article, on source domain, rather than keeping msn link
- - I check some less reliable sources (4chan? wykop?) just for fun. Sometimes you can see there things you could not elesewhere
- - I am using title for browsing entries. Thumbnails are unnecessary distraction. If source does not provide reliable well designed title, contents will not be well designed. If title is clickbaity, the contents will not be worth my time
- - I like browsing titles from all politicial spectrum. Even if I do not agree with something I still like to hear what they are saying
+ - Even though I use many sources, I am check only a few of them regularly
+ - Even though some sources might be more demagogic, these were able to produce a few links that where worthy of my time
+ - Some sources (Reddit) often provide links to mainstream sources. Other (Hacker news) sometimes provide links to smaller creators, which I think I could not find myself. Some social circles (programmers) are more interested in things that do also interest me
+ - Links captured through Reddit, msn, yahoo tend to rot fast. It is best to find related article, on source domain, rather than keeping msn link
+ - I check some less reliable sources (4chan? wykop?) just for fun. Sometimes you can find there things you could not elsewhere
+ - When searching I am using title as query condition. Thumbnails are unnecessary distraction. If source does not provide reliable well-designed title, contents will not be well designed. If title is clickbaity, the contents will not be worth my time
+ - I like browsing titles from all political spectrum. Even if I do not agree with something, I still like to hear what they are saying
  - Mainstream sources provide homogenic contents, which is designed not to offend anybody. Therefore the resulting contents is mostly bleak, and not worth my time
  - Most of important news are present in all sources. Therefore it is not important to capture all mainstream media sources, but most of them that capture the spirit of political spectrum
 
 ## Analysis of Google search
 
- - Google provides around 10 pages for a query, or 31 pages for 'news' query. Each page contains around 10 links. Therefore we receive at most 100 results for a normal query, or 310 links in 'news' query. This is like looking through a keyhole at the Internet
- - Google curates results. Like everybody it contains it's own bias. I prefer having my own, and not to rely on some corporate bias
- - Most of Google links lead to Google services (YouTube), or to big tech services (Amazon, Facebook). Important news, or controversial one will not reach surface in Google
+ - Google provides around 10 pages for a query, or 31 pages for 'news' query. Each page contains around 10 links. Therefore, we receive at most 100 results for a normal query, or 310 links in 'news' query. This is like looking through a keyhole at the Internet
+ - For general terms like 'war', 'love', 'crisis', 'apple', 'Microsoft' providing 310 links in the results is unacceptable
+ - Most of Google links lead to Google services (YouTube), or to big tech services (Amazon, Facebook). Important news or controversial one will not reach surface in Google
+ - Google curates results. It contains its own bias. I prefer having my own, and not to rely on some corporate bias
  - Google will limit right-wing contents, therefore if you want to see what the right-wing says, you have to find it manually
- - For general terms like 'war', 'love', 'crisis', 'apple', 'microsoft' providing 310 links in the results is unacceptable
- - Most of Google results are provided for context of 'now'. If you search 'crisis' it will search for the most recent crisis. It is hard to find historic entries. It is as it was controlling the history. On the other hand I am aware, that date limits can be selected from advanced menu
- - Google earns by selling your attention, and services of big tech. It is hard to imagine that it will make a user friendly service. It will create investor, producer friendly service
+ - Most of Google results are provided for context of 'now'. If you search 'crisis' it will search for the most recent crisis. It is hard to find historic entries. It is as it was controlling the history. On the other hand, I am aware, that date limits can be selected from advanced menu of Google search
+ - Google earns by selling your attention, and services of other big tech companies. It is hard to imagine that it will make a user-friendly service. It will create investor, producer friendly service
  - We cannot replace Google search. We can however provide additional functionality
 
 ## Analysis of Tools
 
 Archive.org:
- - is not reliable. Sometimes it gets painfully slow. It is still better than nothing
- - most mainstream media RSS is covered, but the coverage is spotty. Not all days are covered
+ - Is not reliable. Sometimes it gets painfully slow. It is still better than nothing
+ - Most mainstream media RSS is covered, but the coverage is spotty. Not all days are covered
 
 RSS tools:
  - Some do not provide ability to bookmark entries
- - Some do not provide ability to add tags entries (usefull for searching entries with a particular tag)
+ - Some do not provide ability to add tags entries (useful for searching entries with a particular tag)
  - Some do not provide ability to search for a particular title, etc. Searching mechanisms are limiting
  - There is no ability to fetch archived data. I have been using archive.org to import historic RSS data, but not all data are available
  - Some of RSS tools are not local (feedly), which for me is a problem
@@ -91,4 +91,3 @@ RSS tools:
 # Ending notes
 
 All links belong to us!
-
