@@ -48,7 +48,7 @@ With these data we can perform further analysis:
 
 ## Analysis of the sources
 
- - Even though I use many sources, I am check only a few of them regularly
+ - Even though I use many sources, I check only a few of them regularly
  - Even though some sources might be more demagogic, these were able to produce a few links that where worthy of my time
  - Some sources (Reddit) often provide links to mainstream sources. Other (Hacker news) sometimes provide links to smaller creators, which I think I could not find myself. Some social circles (programmers) are more interested in things that do also interest me
  - Links captured through Reddit, msn, yahoo tend to rot fast. It is best to find related article, on source domain, rather than keeping msn link
