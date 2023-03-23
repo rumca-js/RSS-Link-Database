@@ -466,6 +466,12 @@
  - user: rumpel
  - tags: ['botnet', 'golang']
 
+## North Korea Has Stolen $1.2 Billion in Crypto Since 2017, Spy Agency Says
+ - [https://gizmodo.com/north-korea-stole-1-billion-cryptocurrency-2022-1849922334](https://gizmodo.com/north-korea-stole-1-billion-cryptocurrency-2022-1849922334)
+ - date published: 2022-12-22 13:10:00+00:00
+ - user: rumpel
+ - tags: ['hackers', 'crypto', 'north korea']
+
 ## Systems design and being bitten by edge-triggering
  - [https://rachelbythebay.com/w/2022/12/21/boot/](https://rachelbythebay.com/w/2022/12/21/boot/)
  - date published: 2022-12-22 09:02:08.282295+00:00
@@ -2229,6 +2235,12 @@
  - date published: 2022-11-21 20:42:05+00:00
  - user: None
  - tags: ['white house', 'jen psaki', 'big tech', 'censorship', 'social media']
+
+## From Covid to CBDC: The Path to Full Control ⋆ Brownstone Institute
+ - [https://brownstone.org/articles/covid-to-cbdc-to-full-control/](https://brownstone.org/articles/covid-to-cbdc-to-full-control/)
+ - date published: 2022-11-21 20:04:57+00:00
+ - user: rumpel
+ - tags: ['digital money', 'cbdc']
 
 ## Elon Musk reveals why he will never let Alex Jones back on Twitter
  - [https://www.dailymail.co.uk/news/article-11451899/Elon-Musk-reveals-never-let-Alex-Jones-Twitter.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11451899/Elon-Musk-reveals-never-let-Alex-Jones-Twitter.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)

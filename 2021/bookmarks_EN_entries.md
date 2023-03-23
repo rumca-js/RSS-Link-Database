@@ -3010,6 +3010,12 @@
  - user: rumpel
  - tags: ['scienceisdead', 'covid', 'science', 'fauci']
 
+## The Lazarus heist: How North Korea almost pulled off a billion-dollar hack
+ - [https://www.bbc.co.uk/news/stories-57520169](https://www.bbc.co.uk/news/stories-57520169)
+ - date published: 2021-06-20 23:45:52+00:00
+ - user: rumpel
+ - tags: ['hackers', 'lazarus', 'north korea']
+
 ## He authorized Moderna's vaccine 6 months ago. Now, ex-FDA chief Hahn joins biotech's backer
  - [https://www.fiercebiotech.com/biotech/six-months-after-granting-moderna-covid-19-eua-ex-fda-commish-joins-biotech-s-founding](https://www.fiercebiotech.com/biotech/six-months-after-granting-moderna-covid-19-eua-ex-fda-commish-joins-biotech-s-founding)
  - date published: 2021-06-14 06:58:41+00:00

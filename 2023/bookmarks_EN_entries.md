@@ -1,3 +1,15 @@
+## How North Korea Stole $1,000,000,000
+ - [https://www.youtube.com/watch?v=ahehEsOIRIg](https://www.youtube.com/watch?v=ahehEsOIRIg)
+ - date published: 2023-03-22 02:05:51+00:00
+ - user: rumpel
+ - tags: ['hackers', 'crypto', 'lazarus', 'north korea']
+
+## Andrew Huberman Explains Why Scientists Hung Around Jeffrey Epstein
+ - [https://www.youtube.com/watch?v=FRZ9EK1e2R0](https://www.youtube.com/watch?v=FRZ9EK1e2R0)
+ - date published: 2023-03-21 17:03:42+00:00
+ - user: rumpel
+ - tags: ['jeffrey epstein']
+
 ## Louis Rossmann could sue John Deere for GPL violation
  - [https://www.youtube.com/watch?v=XP7Qx1FF1hA](https://www.youtube.com/watch?v=XP7Qx1FF1hA)
  - date published: 2023-03-21 08:31:05+00:00
@@ -638,7 +650,7 @@
  - [https://www.economist.com/asia/2023/02/22/north-korean-hackers-stole-a-record-17bn-of-crypto-last-year](https://www.economist.com/asia/2023/02/22/north-korean-hackers-stole-a-record-17bn-of-crypto-last-year)
  - date published: 2023-02-24 07:08:21+00:00
  - user: rumpel
- - tags: ['crypto', 'hackers']
+ - tags: ['hackers', 'crypto', 'north korea']
 
 ## Tell HN: Do not store any funds in PayPal or use them for anything critical
  - [https://news.ycombinator.com/item?id=34913596](https://news.ycombinator.com/item?id=34913596)
@@ -783,6 +795,12 @@
  - date published: 2023-02-17 23:27:09+00:00
  - user: rumpel
  - tags: ['chatgpt', 'artificial intelligence']
+
+## Natural immunity as protective as Covid vaccine against severe illness
+ - [https://www.nbcnews.com/health/health-news/natural-immunity-protective-covid-vaccine-severe-illness-rcna71027](https://www.nbcnews.com/health/health-news/natural-immunity-protective-covid-vaccine-severe-illness-rcna71027)
+ - date published: 2023-02-17 19:58:06+00:00
+ - user: rumpel
+ - tags: ['vaccine', 'covid']
 
 ## The sudden global push for age verification to end online anonymity and drive digital ID uptake
  - [https://reclaimthenet.org/global-push-for-age-verification](https://reclaimthenet.org/global-push-for-age-verification)
@@ -1533,6 +1551,12 @@
  - date published: 2023-01-24 17:17:27+00:00
  - user: rumpel
  - tags: ['algorithms', 'google search']
+
+## FBI Says North Korean Hackers Behind $100 Million Horizon Bridge Crypto Theft
+ - [https://thehackernews.com/2023/01/fbi-says-north-korean-hackers-behind.html](https://thehackernews.com/2023/01/fbi-says-north-korean-hackers-behind.html)
+ - date published: 2023-01-24 11:58:00+00:00
+ - user: rumpel
+ - tags: ['hackers', 'crypto', 'north korea']
 
 ## de🔸digger find public files in Google Drive
  - [https://www.dedigger.com/](https://www.dedigger.com/)

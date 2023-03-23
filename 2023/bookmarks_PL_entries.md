@@ -1,3 +1,9 @@
+## UE planuje wymusić akceptację cyfrowego euro i bezgotówkową przyszłość
+ - [https://ithardware.pl/aktualnosci/ue_planuje_wymusic_akceptacje_cyfrowego_euro_i_bezgotowkowa_przyszlosc-26438.html](https://ithardware.pl/aktualnosci/ue_planuje_wymusic_akceptacje_cyfrowego_euro_i_bezgotowkowa_przyszlosc-26438.html)
+ - date published: 2023-03-22 09:02:40+00:00
+ - user: rumpel
+ - tags: ['digital money', 'cbdc', 'european union']
+
 ## Trzecia rocznica pandemii. Koszty promocji i nazwiska reklamujących szczepionki - Gazeta Trybunalska
  - [https://gazetatrybunalska.info/2023/03/trzecia-rocznica-pandemii-koszty-promocji-i-nazwiska-reklamujacych-szczepionki/](https://gazetatrybunalska.info/2023/03/trzecia-rocznica-pandemii-koszty-promocji-i-nazwiska-reklamujacych-szczepionki/)
  - date published: 2023-03-20 06:19:35+00:00
