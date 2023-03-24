@@ -1,8 +1,26 @@
+## Your refrigerator could be spying on you! Senate committee clamps down on smart devices
+ - [https://www.dailymail.co.uk/news/article-11892967/Your-refrigerator-spying-Senate-committee-clamps-smart-devices.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11892967/Your-refrigerator-spying-Senate-committee-clamps-smart-devices.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - date published: 2023-03-23 05:59:08+00:00
+ - user: rumpel
+ - tags: ['smart devices act', 'smart devices']
+
 ## How North Korea Stole $1,000,000,000
  - [https://www.youtube.com/watch?v=ahehEsOIRIg](https://www.youtube.com/watch?v=ahehEsOIRIg)
  - date published: 2023-03-22 02:05:51+00:00
  - user: rumpel
  - tags: ['hackers', 'crypto', 'lazarus', 'north korea']
+
+## Oops, Windows’ screenshot tool may be saving stuff you cropped out, too
+ - [https://www.theverge.com/2023/3/21/23650657/windows-snipping-tool-crop-screenshots-vulnerability](https://www.theverge.com/2023/3/21/23650657/windows-snipping-tool-crop-screenshots-vulnerability)
+ - date published: 2023-03-21 20:53:26+00:00
+ - user: rumpel
+ - tags: ['windows', 'vulnerability', 'acropalypse']
+
+## Hackers drain bitcoin ATMs of $1.5 million by exploiting 0-day bug
+ - [https://arstechnica.com/?p=1925695](https://arstechnica.com/?p=1925695)
+ - date published: 2023-03-21 20:03:40+00:00
+ - user: rumpel
+ - tags: ['hackers', 'crypto', 'bitcoin']
 
 ## Andrew Huberman Explains Why Scientists Hung Around Jeffrey Epstein
  - [https://www.youtube.com/watch?v=FRZ9EK1e2R0](https://www.youtube.com/watch?v=FRZ9EK1e2R0)
@@ -2120,7 +2138,7 @@
  - [https://www.dailysignal.com/2023/01/10/twitter-files-unveils-how-pfizer-official-colluded-with-big-tech-to-censor-speech-on-covid-19/](https://www.dailysignal.com/2023/01/10/twitter-files-unveils-how-pfizer-official-colluded-with-big-tech-to-censor-speech-on-covid-19/)
  - date published: 2023-01-10 21:13:07+00:00
  - user: rumpel
- - tags: ['censorship', 'pfizer', 'bigtech', 'twitter files', 'twitter']
+ - tags: ['covid', 'twitter', 'twitter files', 'bigtech', 'pfizer', 'censorship']
 
 ## Brazil riots trigger widespread content bans on Facebook, YouTube
  - [https://arstechnica.com/?p=1908844](https://arstechnica.com/?p=1908844)

@@ -82,12 +82,6 @@
  - user: None
  - tags: ['vaccine', 'covid']
 
-## Władza w ramach walki z terroryzmem sprawdzi rachunki drobnych przedsiębiorców
- - [https://bezprawnik.pl/wladza-sprawdzi-twojego-windowsa/](https://bezprawnik.pl/wladza-sprawdzi-twojego-windowsa/)
- - date published: 2020-12-18 13:07:40+00:00
- - user: None
- - tags: ['surveillance', 'privacy', 'terrorism']
-
 ## You can’t sue Pfizer or Moderna if you have severe Covid vaccine side effects. The government likely won't compensate you for damages either
  - [https://www.cnbc.com/2020/12/16/covid-vaccine-side-effects-compensation-lawsuit.html](https://www.cnbc.com/2020/12/16/covid-vaccine-side-effects-compensation-lawsuit.html)
  - date published: 2020-12-16 18:11:47+00:00

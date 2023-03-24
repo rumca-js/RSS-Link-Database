@@ -22,6 +22,12 @@
  - user: rumpel
  - tags: ['covid', 'surveillance', 'spain', 'vaccine']
 
+## Władza w ramach walki z terroryzmem sprawdzi rachunki drobnych przedsiębiorców
+ - [https://bezprawnik.pl/wladza-sprawdzi-twojego-windowsa/](https://bezprawnik.pl/wladza-sprawdzi-twojego-windowsa/)
+ - date published: 2020-12-18 13:07:40+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'privacy', 'terrorism']
+
 ## Izraleskie firmy zlokalizują każdego smartfona do 1 metra. Wykorzystując reklamy.
  - [https://www.androidowy.pl/izraleska-firma-zlokalizuje-kazdego-do-1-metra-wykorzystujac-reklamy/386/](https://www.androidowy.pl/izraleska-firma-zlokalizuje-kazdego-do-1-metra-wykorzystujac-reklamy/386/)
  - date published: 2020-12-12 12:04:50+00:00

@@ -86,7 +86,7 @@
  - [https://notrelated.xyz/audio/s01/S01E05_-_The_Agricultural_Revolution_Has_Been_a_Disaster_for_the_Human_Race.mp3](https://notrelated.xyz/audio/s01/S01E05_-_The_Agricultural_Revolution_Has_Been_a_Disaster_for_the_Human_Race.mp3)
  - date published: 2018-10-08 04:00:00+00:00
  - user: None
- - tags: $tags
+ - tags: ['agriculture']
 
 ## John Carpenter’s ‘They Live’ Was Supposed to Be a Warning. We Didn’t Heed It. We Didn’t Even Understand It.
  - [https://www.theringer.com/movies/2018/10/4/17933020/they-live-john-carpenter-america-donald-trump](https://www.theringer.com/movies/2018/10/4/17933020/they-live-john-carpenter-america-donald-trump)
