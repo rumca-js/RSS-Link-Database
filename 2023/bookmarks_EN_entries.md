@@ -1,3 +1,15 @@
+## Controversy trails Israeli lawmakers' 'anti-Christianity' bill, Netanyahu allays fear
+ - [https://punchng.com/controversy-trails-israeli-lawmakers-anti-christianity-bill-netanyahu-allays-fear/](https://punchng.com/controversy-trails-israeli-lawmakers-anti-christianity-bill-netanyahu-allays-fear/)
+ - date published: 2023-03-24 16:08:34+00:00
+ - user: rumpel
+ - tags: ['israel', 'christianophobia']
+
+## Private Jet Emissions - ClimateJets
+ - [https://climatejets.org/](https://climatejets.org/)
+ - date published: 2023-03-24 16:06:52+00:00
+ - user: rumpel
+ - tags: ['billionaires', 'climate change']
+
 ## Your refrigerator could be spying on you! Senate committee clamps down on smart devices
  - [https://www.dailymail.co.uk/news/article-11892967/Your-refrigerator-spying-Senate-committee-clamps-smart-devices.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11892967/Your-refrigerator-spying-Senate-committee-clamps-smart-devices.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2023-03-23 05:59:08+00:00
@@ -1797,6 +1809,12 @@
  - date published: 2023-01-17 13:24:59+00:00
  - user: rumpel
  - tags: ['tor', 'surveillance', 'fbi']
+
+## Hackers push malware via Google search ads for VLC, 7-Zip, CCleaner
+ - [https://www.bleepingcomputer.com/news/security/hackers-push-malware-via-google-search-ads-for-vlc-7-zip-ccleaner/](https://www.bleepingcomputer.com/news/security/hackers-push-malware-via-google-search-ads-for-vlc-7-zip-ccleaner/)
+ - date published: 2023-01-17 07:33:20+00:00
+ - user: rumpel
+ - tags: ['google search', 'ads', 'malware']
 
 ## Banks still investing heavily in fossil fuels despite net zero pledges – study
  - [https://www.theguardian.com/environment/2023/jan/17/banks-still-investing-heavily-in-fossil-fuels-despite-net-zero-pledges-study](https://www.theguardian.com/environment/2023/jan/17/banks-still-investing-heavily-in-fossil-fuels-despite-net-zero-pledges-study)

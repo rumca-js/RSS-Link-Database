@@ -8560,6 +8560,12 @@
  - user: rumpel
  - tags: ['operation northwoods', 'cuba', 'bigbrother', '911', 'all time']
 
+## OBS Project Warns About Scam URL Appearing in Google Ads - GamerBraves
+ - [https://www.gamerbraves.com/obs-project-warns-about-scam-url-appearing-in-google-ads/](https://www.gamerbraves.com/obs-project-warns-about-scam-url-appearing-in-google-ads/)
+ - date published: 2022-06-24 07:34:23+00:00
+ - user: rumpel
+ - tags: ['google search', 'ads']
+
 ## Observations on 6 years of journaling | ᕕ( ᐛ )ᕗ Herman's blog
  - [https://herman.bearblog.dev/years-of-journaling/](https://herman.bearblog.dev/years-of-journaling/)
  - date published: 2022-06-23 17:23:55.838223+00:00
