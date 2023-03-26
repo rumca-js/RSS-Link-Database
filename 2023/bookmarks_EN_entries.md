@@ -1,3 +1,15 @@
+## Cramming More Components onto Integrated Circuits (Gordon Moore, 1965) [pdf]
+ - [https://www.cs.utexas.edu/~fussell/courses/cs352h/papers/moore.pdf](https://www.cs.utexas.edu/~fussell/courses/cs352h/papers/moore.pdf)
+ - date published: 2023-03-25 00:52:37+00:00
+ - user: rumpel
+ - tags: ['gordon moore', 'integrated circuits', 'hardware']
+
+## Deutsche Bank is no Credit Suisse, despite investors’ fears | Nils Pratley
+ - [https://www.theguardian.com/business/nils-pratley-on-finance/2023/mar/24/deutsche-bank-credit-suisse-investors-shares](https://www.theguardian.com/business/nils-pratley-on-finance/2023/mar/24/deutsche-bank-credit-suisse-investors-shares)
+ - date published: 2023-03-24 17:24:03+00:00
+ - user: rumpel
+ - tags: ['crisis', 'banks']
+
 ## Controversy trails Israeli lawmakers' 'anti-Christianity' bill, Netanyahu allays fear
  - [https://punchng.com/controversy-trails-israeli-lawmakers-anti-christianity-bill-netanyahu-allays-fear/](https://punchng.com/controversy-trails-israeli-lawmakers-anti-christianity-bill-netanyahu-allays-fear/)
  - date published: 2023-03-24 16:08:34+00:00
@@ -9,6 +21,18 @@
  - date published: 2023-03-24 16:06:52+00:00
  - user: rumpel
  - tags: ['billionaires', 'climate change']
+
+## Statistical and Numerical Errors Made by the US Centers for Disease Control and Prevention During the COVID-19 Pandemic by Kelley Krohnert, Alyson Haslam, Tracy Beth Hoeg, Vinay Prasad :: SSRN
+ - [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4381627](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4381627)
+ - date published: 2023-03-23 10:01:44+00:00
+ - user: rumpel
+ - tags: ['scienceisdead', 'propaganda', 'fearmongering', 'covid']
+
+## Moviemaking and Gamemaking Are Converging
+ - [https://www.economist.com/special-report/2023/03/20/moviemaking-and-gamemaking-are-converging](https://www.economist.com/special-report/2023/03/20/moviemaking-and-gamemaking-are-converging)
+ - date published: 2023-03-23 10:01:17+00:00
+ - user: rumpel
+ - tags: ['movies']
 
 ## Your refrigerator could be spying on you! Senate committee clamps down on smart devices
  - [https://www.dailymail.co.uk/news/article-11892967/Your-refrigerator-spying-Senate-committee-clamps-smart-devices.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11892967/Your-refrigerator-spying-Senate-committee-clamps-smart-devices.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -39,6 +63,12 @@
  - date published: 2023-03-21 17:03:42+00:00
  - user: rumpel
  - tags: ['jeffrey epstein']
+
+## The System that Fuels Media Negativity
+ - [https://www.youtube.com/watch?v=89FoKRtpAy4](https://www.youtube.com/watch?v=89FoKRtpAy4)
+ - date published: 2023-03-21 17:02:00+00:00
+ - user: rumpel
+ - tags: ['scienceisdead', 'fearmongering', 'covid', 'media']
 
 ## Louis Rossmann could sue John Deere for GPL violation
  - [https://www.youtube.com/watch?v=XP7Qx1FF1hA](https://www.youtube.com/watch?v=XP7Qx1FF1hA)

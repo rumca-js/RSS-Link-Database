@@ -3364,6 +3364,12 @@
  - user: None
  - tags: ['terreg', 'moderation', 'censorship', 'free speech']
 
+## Covid coverage by the U.S. national media is an outlier, a study finds. - The New York Times
+ - [https://www.nytimes.com/2021/03/24/world/covid-coverage-by-the-us-national-media-is-an-outlier-a-study-finds.html](https://www.nytimes.com/2021/03/24/world/covid-coverage-by-the-us-national-media-is-an-outlier-a-study-finds.html)
+ - date published: 2021-03-24 21:37:41+00:00
+ - user: rumpel
+ - tags: ['covid', 'fear mongering', 'media', 'scienceisdead', 'propaganda']
+
 ## Bill Gates Won't Stop Lying About Epstein Connections
  - [https://www.youtube.com/watch?v=D9iF4k16be0](https://www.youtube.com/watch?v=D9iF4k16be0)
  - date published: 2021-03-21 20:51:19+00:00

@@ -76,6 +76,12 @@
  - user: rumpel
  - tags: ['lgbt', 'spain', 'trans', 'gender']
 
+## Richard Coudenhove-Kalergi i idea paneuropejska w okresie międzywojennym | prof. Adam Wielomski
+ - [https://www.youtube.com/watch?v=w4CY1ub19mY](https://www.youtube.com/watch?v=w4CY1ub19mY)
+ - date published: 2023-02-15 00:00:00+00:00
+ - user: rumpel
+ - tags: ['coudenhove-kalergi', 'lecture']
+
 ## Wielka Brytania chce zakazu szyfrowanych telefonów
  - [https://ithardware.pl/aktualnosci/wielka_brytania_chce_zakazu_szyfrowanych_telefonow-25815.html](https://ithardware.pl/aktualnosci/wielka_brytania_chce_zakazu_szyfrowanych_telefonow-25815.html)
  - date published: 2023-02-13 12:37:40+00:00

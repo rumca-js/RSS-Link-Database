@@ -4,6 +4,12 @@
  - user: rumpel
  - tags: ['climate science', 'climate change']
 
+## Why societies collapse | Jared Diamond
+ - [https://www.youtube.com/watch?v=IESYMFtLIis](https://www.youtube.com/watch?v=IESYMFtLIis)
+ - date published: 2008-10-28 00:00:00+00:00
+ - user: rumpel
+ - tags: ['environment', 'society', 'climate change', 'ted', 'lecture', 'crisis', 'sociology']
+
 ## Is Google Making Us Stupid? - The Atlantic
  - [https://www.theatlantic.com/magazine/archive/2008/07/is-google-making-us-stupid/306868/](https://www.theatlantic.com/magazine/archive/2008/07/is-google-making-us-stupid/306868/)
  - date published: 2008-07-20 11:33:08+00:00

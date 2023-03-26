@@ -34,6 +34,12 @@
  - user: None
  - tags: ['snowden', 'privacy', 'internet']
 
+## Małgorzata Wołczyk: Orwell w Hiszpanii, czyli jak Zapatero urządził Hiszpanów
+ - [https://teologiapolityczna.pl/malgorzata-wolczyk-orwell-w-hiszpanii-czyli-jak-zapatero-urzadzil-hiszpanow](https://teologiapolityczna.pl/malgorzata-wolczyk-orwell-w-hiszpanii-czyli-jak-zapatero-urzadzil-hiszpanow)
+ - date published: 2019-09-03 10:25:12+00:00
+ - user: rumpel
+ - tags: ['feminism', 'spain']
+
 ## Orwell w Hiszpanii
  - [https://www.rp.pl/opinie-polityczno-spoleczne/art9229671-orwell-w-hiszpanii](https://www.rp.pl/opinie-polityczno-spoleczne/art9229671-orwell-w-hiszpanii)
  - date published: 2019-08-28 21:39:25+00:00
