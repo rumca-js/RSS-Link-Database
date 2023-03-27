@@ -1,3 +1,9 @@
+## AI Art is Inevitable
+ - [https://www.youtube.com/watch?v=VsXYTunk7OY](https://www.youtube.com/watch?v=VsXYTunk7OY)
+ - date published: 2023-03-26 20:00:12+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
+
 ## Cramming More Components onto Integrated Circuits (Gordon Moore, 1965) [pdf]
  - [https://www.cs.utexas.edu/~fussell/courses/cs352h/papers/moore.pdf](https://www.cs.utexas.edu/~fussell/courses/cs352h/papers/moore.pdf)
  - date published: 2023-03-25 00:52:37+00:00
