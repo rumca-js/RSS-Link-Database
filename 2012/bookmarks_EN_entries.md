@@ -56,7 +56,7 @@
  - [https://edition.cnn.com/2012/04/16/world/europe/italy-berlusconi-trial/index.html](https://edition.cnn.com/2012/04/16/world/europe/italy-berlusconi-trial/index.html)
  - date published: 2012-04-16 20:35:25+00:00
  - user: rumpel
- - tags: ['bunga bunga', 'berlusconi', 'politicians', 'bilionaries']
+ - tags: ['politicians', 'berlusconi', 'bunga bunga', 'billionaires']
 
 ## The flip side to Bill Gates' charity billions
  - [https://newint.org/features/2012/04/01/bill-gates-charitable-giving-ethics](https://newint.org/features/2012/04/01/bill-gates-charitable-giving-ethics)
@@ -69,4 +69,22 @@
  - date published: 2012-03-20 20:09:05+00:00
  - user: rumpel
  - tags: ['police', 'university', 'lecture', 'all time', 'law']
+
+## What is ACTA and why are thousands of Europeans protesting it? | VentureBeat
+ - [https://venturebeat.com/business/what-is-acta-and-why-are-thousands-of-europeans-protesting-it/](https://venturebeat.com/business/what-is-acta-and-why-are-thousands-of-europeans-protesting-it/)
+ - date published: 2012-03-08 10:49:43+00:00
+ - user: rumpel
+ - tags: ['protest', 'privacy', 'surveillance', 'censorship', 'acta']
+
+## Acta protests: Thousands take to streets across Europe - BBC News
+ - [https://www.bbc.com/news/technology-16999497](https://www.bbc.com/news/technology-16999497)
+ - date published: 2012-03-08 10:47:47+00:00
+ - user: rumpel
+ - tags: ['protest', 'privacy', 'surveillance', 'censorship', 'acta']
+
+## EU countries sign unpopular anti-counterfeit treaty
+ - [https://euobserver.com/rule-of-law/115043](https://euobserver.com/rule-of-law/115043)
+ - date published: 2012-01-27 10:50:13+00:00
+ - user: rumpel
+ - tags: ['protest', 'privacy', 'surveillance', 'censorship', 'acta']
 

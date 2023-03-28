@@ -2,7 +2,7 @@
  - [https://en.wikipedia.org/wiki/Five_Eyes](https://en.wikipedia.org/wiki/Five_Eyes)
  - date published: 2013-12-21 14:41:21+00:00
  - user: None
- - tags: ['survaillence', 'five eyes', 'nsa']
+ - tags: ['surveillance', 'nsa', 'five eyes']
 
 ## NSA paid $10 million to put its backdoor in RSA encryption, according to Reuters report
  - [https://www.theverge.com/2013/12/20/5231006/nsa-paid-10-million-for-a-back-door-into-rsa-encryption-according-to](https://www.theverge.com/2013/12/20/5231006/nsa-paid-10-million-for-a-back-door-into-rsa-encryption-according-to)

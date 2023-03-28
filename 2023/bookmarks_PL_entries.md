@@ -1,3 +1,9 @@
+## Wielka Brytania: Parlament zakazał modlitwy przed ośrodkami aborcyjnymi | Niedziela.pl
+ - [https://www.niedziela.pl/artykul/90162/Wielka-Brytania-Parlament-zakazal](https://www.niedziela.pl/artykul/90162/Wielka-Brytania-Parlament-zakazal)
+ - date published: 2023-03-26 19:40:07+00:00
+ - user: rumpel
+ - tags: ['abortion', 'christianophobia']
+
 ## UE planuje wymusić akceptację cyfrowego euro i bezgotówkową przyszłość
  - [https://ithardware.pl/aktualnosci/ue_planuje_wymusic_akceptacje_cyfrowego_euro_i_bezgotowkowa_przyszlosc-26438.html](https://ithardware.pl/aktualnosci/ue_planuje_wymusic_akceptacje_cyfrowego_euro_i_bezgotowkowa_przyszlosc-26438.html)
  - date published: 2023-03-22 09:02:40+00:00
@@ -188,7 +194,7 @@
  - [https://forsal.pl/biznes/media/artykuly/8634619,koniec-boomu-na-rynku-streamingowym.html](https://forsal.pl/biznes/media/artykuly/8634619,koniec-boomu-na-rynku-streamingowym.html)
  - date published: 2023-01-17 05:31:39+00:00
  - user: rumpel
- - tags: ['netflix', 'youllownnothing', 'streaming']
+ - tags: ['netflix', 'streaming']
 
 ## W Hiszpanii przybywa więcej imigrantów, niż rodzi się dzieci
  - [https://forsal.pl/swiat/aktualnosci/artykuly/8637768,hiszpania-imigranci-demografia.html](https://forsal.pl/swiat/aktualnosci/artykuly/8637768,hiszpania-imigranci-demografia.html)
@@ -200,7 +206,7 @@
  - [https://www.telepolis.pl/tech/sprzet/telewizory-sony-zabezpieczenie-piractwo](https://www.telepolis.pl/tech/sprzet/telewizory-sony-zabezpieczenie-piractwo)
  - date published: 2023-01-16 06:47:16+00:00
  - user: rumpel
- - tags: ['sony', 'censorship', 'youllownnothing', 'moderation']
+ - tags: ['sony', 'technofeudalism', 'moderation', 'censorship']
 
 ## Demografia. Więcej niż wyzwanie dekady
  - [https://forsal.pl/gospodarka/demografia/artykuly/8636131,demografia-wiecej-niz-wyzwanie-dekady.html](https://forsal.pl/gospodarka/demografia/artykuly/8636131,demografia-wiecej-niz-wyzwanie-dekady.html)

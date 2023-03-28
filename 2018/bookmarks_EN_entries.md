@@ -458,7 +458,7 @@
  - [https://www.csoonline.com/article/3248825/security/skygofree-powerful-android-spyware-with-advanced-surveillance-tools.html](https://www.csoonline.com/article/3248825/security/skygofree-powerful-android-spyware-with-advanced-surveillance-tools.html)
  - date published: 2018-01-18 06:47:39+00:00
  - user: None
- - tags: ['privacy', 'skygofree', 'google', 'surveillence', 'android']
+ - tags: ['privacy', 'surveillance', 'google', 'skygofree', 'android']
 
 ## Jordan Peterson debate on the gender pay gap, campus protests and postmodernism
  - [https://www.youtube.com/watch?v=aMcjxSThD54](https://www.youtube.com/watch?v=aMcjxSThD54)

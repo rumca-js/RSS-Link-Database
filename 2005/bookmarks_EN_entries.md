@@ -2,7 +2,7 @@
  - [https://www.theregister.com/2021/12/10/autorunning_away/](https://www.theregister.com/2021/12/10/autorunning_away/)
  - date published: 2005-12-20 06:59:08+00:00
  - user: rumpel
- - tags: ['vulnerability', 'youllownnothing', 'rootkit', 'sony']
+ - tags: ['sony', 'rootkit', 'technofeudalism', 'vulnerability']
 
 ## Sony BMG copy protection rootkit scandal - Wikipedia
  - [https://en.wikipedia.org/wiki/Sony_BMG_copy_protection_rootkit_scandal](https://en.wikipedia.org/wiki/Sony_BMG_copy_protection_rootkit_scandal)

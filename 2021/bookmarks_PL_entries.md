@@ -134,19 +134,19 @@
  - [https://wyborcza.pl/7,75968,27376053,niech-szlag-trafi-wasze-biznesy.html?disableRedirects=true](https://wyborcza.pl/7,75968,27376053,niech-szlag-trafi-wasze-biznesy.html?disableRedirects=true)
  - date published: 2021-07-27 21:53:56+00:00
  - user: rumpel
- - tags: ['hatespeech', 'vaccine', 'covid', 'propaganda']
+ - tags: ['propaganda', 'covid', 'hate speech', 'vaccine']
 
 ## Zostałem szczepionkowym rasistą. „Ludzie w pełni zaszczepieni powinni mieć specjalne przywileje”
  - [https://www.wprost.pl/kraj/10467413/zostalem-szczepionkowym-rasista-zaszczepieni-powinni-miec-przywileje.html](https://www.wprost.pl/kraj/10467413/zostalem-szczepionkowym-rasista-zaszczepieni-powinni-miec-przywileje.html)
  - date published: 2021-07-09 21:53:19+00:00
  - user: rumpel
- - tags: ['propaganda', 'hatespeech', 'covid', 'vaccine']
+ - tags: ['propaganda', 'covid', 'hate speech', 'vaccine']
 
 ## Chatcontrol: Unia Europejska chce kontrolować komunikatory i pocztę
  - [https://www.telepolis.pl/wiadomosci/wydarzenia/chatcontrol-unia-europejska-chce-kontrolowac-komunikatory-i-poczte](https://www.telepolis.pl/wiadomosci/wydarzenia/chatcontrol-unia-europejska-chce-kontrolowac-komunikatory-i-poczte)
  - date published: 2021-07-09 12:57:59+00:00
  - user: None
- - tags: ['privacy', 'security', 'chatcontrol']
+ - tags: ['security', 'chat control', 'privacy', 'surveillance']
 
 ## Hiszpania: zmiana płci od 14 roku życia bez ograniczeń
  - [https://portal-polski.pl/hiszpania-zmiana-plci-od-14-roku-zycia-bez-ograniczen/7199/](https://portal-polski.pl/hiszpania-zmiana-plci-od-14-roku-zycia-bez-ograniczen/7199/)
@@ -158,7 +158,7 @@
  - [https://panoptykon.org/zaszczepieni-ponad-limitami](https://panoptykon.org/zaszczepieni-ponad-limitami)
  - date published: 2021-07-01 21:43:26+00:00
  - user: rumpel
- - tags: ['vaccine', 'big brother', 'government', 'covid']
+ - tags: ['bigbrother', 'covid', 'vaccine', 'government']
 
 ## Kiedy WHO zmieniła definicję odporności stada? Zmiana treści definicji terminu Odporność Stadna. [listopad 2020]
  - [https://pubmedinfo.org/2021/06/16/kiedy-who-zmienila-definicje-odpornosci-stada/](https://pubmedinfo.org/2021/06/16/kiedy-who-zmienila-definicje-odpornosci-stada/)

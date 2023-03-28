@@ -554,7 +554,7 @@
  - [https://mailbox.org/en/post/chat-control-the-latest-eu-plans-to-outlaw-encryption-and-introduce-telecommunications-surveillance?nl](https://mailbox.org/en/post/chat-control-the-latest-eu-plans-to-outlaw-encryption-and-introduce-telecommunications-surveillance?nl)
  - date published: 2021-11-23 17:34:06.057843+00:00
  - user: Thomas Pain
- - tags: ['privacy', 'surveillance', 'chatcontrol']
+ - tags: ['surveillance', 'chat control', 'privacy']
 
 ## Cis people benefit from gender-affirming healthcare, not just trans folk
  - [https://www.pinknews.co.uk/2021/11/19/gender-affirming-healthcare-cis-people-trans/](https://www.pinknews.co.uk/2021/11/19/gender-affirming-healthcare-cis-people-trans/)
@@ -1268,7 +1268,7 @@
  - [https://www.nytimes.com/2021/10/09/business/moderna-covid-vaccine.html](https://www.nytimes.com/2021/10/09/business/moderna-covid-vaccine.html)
  - date published: 2021-10-09 21:54:34+00:00
  - user: rumpel
- - tags: ['moderna', 'hipocrisis', 'covid']
+ - tags: ['hypocrisy', 'covid', 'moderna']
 
 ## Apple’s fortress of secrecy is crumbling from the inside - The Verge
  - [https://www.theverge.com/22700898/apple-company-culture-change-secrecy-employee-unrest](https://www.theverge.com/22700898/apple-company-culture-change-secrecy-employee-unrest)
@@ -1922,7 +1922,7 @@
  - [https://www.patrick-breyer.de/en/upcoming-vote-on-digital-services-act-in-juri-committee-pirate-mep-patrick-breyer-fears-massive-threats-to-fundamental-rights/?fbclid=IwAR3gQPfBLKxBUEsFuSI8PIFh4Rl5ghIW4oEtDPq_murNcmCLLwJ5qXSfsjI](https://www.patrick-breyer.de/en/upcoming-vote-on-digital-services-act-in-juri-committee-pirate-mep-patrick-breyer-fears-massive-threats-to-fundamental-rights/?fbclid=IwAR3gQPfBLKxBUEsFuSI8PIFh4Rl5ghIW4oEtDPq_murNcmCLLwJ5qXSfsjI)
  - date published: 2021-08-28 20:21:24+00:00
  - user: None
- - tags: ['dsa']
+ - tags: ['surveillance', 'dsa', 'privacy', 'digital service act']
 
 ## 🏡 Neil's Place - DoomPhone
  - [https://neilbostian.github.io/#/doomphone](https://neilbostian.github.io/#/doomphone)
@@ -2936,7 +2936,7 @@
  - [https://european-pirateparty.eu/parliament-approves-chatcontrol/](https://european-pirateparty.eu/parliament-approves-chatcontrol/)
  - date published: 2021-07-06 12:55:03+00:00
  - user: None
- - tags: ['privacy', 'surveillance', 'chatcontrol']
+ - tags: ['surveillance', 'chat control', 'privacy']
 
 ## How Low Interest Rates Sent Institutions Like Blackrock Into Bidding Wars For Homes - Better Dwelling
  - [https://betterdwelling.com/how-low-interest-rates-sent-institutions-like-blackrock-into-bidding-wars-for-homes/](https://betterdwelling.com/how-low-interest-rates-sent-institutions-like-blackrock-into-bidding-wars-for-homes/)
@@ -2954,7 +2954,7 @@
  - [https://www.redvoicemedia.com/2021/07/coke-faces-down-most-serious-backlash-yet-for-their-woke-agenda/](https://www.redvoicemedia.com/2021/07/coke-faces-down-most-serious-backlash-yet-for-their-woke-agenda/)
  - date published: 2021-07-02 09:10:14+00:00
  - user: rumpel
- - tags: ['gowokegobroke', 'woke', 'coke']
+ - tags: ['woke', 'go woke go broke', 'coke']
 
 ## A Remarkable Silence: Media Blackout After Key Witness Against Assange Admits Lying
  - [https://www.medialens.org/2021/a-remarkable-silence-media-blackout-after-key-witness-against-assange-admits-lying/](https://www.medialens.org/2021/a-remarkable-silence-media-blackout-after-key-witness-against-assange-admits-lying/)
@@ -3188,7 +3188,7 @@
  - [https://thepostmillennial.com/get-woke-go-broke-disney-revenues-plummet-after-woke-corporate-culture-revealed](https://thepostmillennial.com/get-woke-go-broke-disney-revenues-plummet-after-woke-corporate-culture-revealed)
  - date published: 2021-05-14 09:08:30+00:00
  - user: rumpel
- - tags: ['gowokegobroke', 'woke', 'disney']
+ - tags: ['disney', 'woke', 'go woke go broke']
 
 ## Scientist call to investigate the origins of COVID-19
  - [https://www.science.org/doi/10.1126/science.abj0016](https://www.science.org/doi/10.1126/science.abj0016)

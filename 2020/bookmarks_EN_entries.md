@@ -218,7 +218,7 @@
  - [https://www.youtube.com/watch?v=iSGu_P185s4](https://www.youtube.com/watch?v=iSGu_P185s4)
  - date published: 2020-11-27 20:54:09+00:00
  - user: rumpel
- - tags: ['digital media', 'youwillownnothing', 'subscription']
+ - tags: ['technofeudalism', 'digital media', 'subscription']
 
 ## How Does China's Social Credit System Work?
  - [https://www.youtube.com/watch?v=PVkWokLqPOg](https://www.youtube.com/watch?v=PVkWokLqPOg)
@@ -350,7 +350,7 @@
  - [https://m.gsmarena.com/eus_digital_service_act_will_allow_you_to_uninstall_bloatware-news-45578.php](https://m.gsmarena.com/eus_digital_service_act_will_allow_you_to_uninstall_bloatware-news-45578.php)
  - date published: 2020-10-10 18:35:47+00:00
  - user: None
- - tags: ['dsa']
+ - tags: ['dsa', 'digital service act']
 
 ## While the Poor Get Sick, Bill Gates Just Gets Richer | The Nation
  - [https://www.thenation.com/article/economy/bill-gates-investments-covid/](https://www.thenation.com/article/economy/bill-gates-investments-covid/)
@@ -830,7 +830,7 @@
  - [https://www.theguardian.com/culture/2020/jun/15/john-oliver-police-use-facial-recognition](https://www.theguardian.com/culture/2020/jun/15/john-oliver-police-use-facial-recognition)
  - date published: 2020-06-15 16:20:35+00:00
  - user: rumpel
- - tags: ['surveillance', 'facialrecognition', 'bigbrother']
+ - tags: ['surveillance', 'facial recognition', 'bigbrother']
 
 ## Berlin authorities placed children with pedophiles
  - [https://www.dw.com/en/berlin-authorities-placed-children-with-pedophiles-for-30-years/a-53814208](https://www.dw.com/en/berlin-authorities-placed-children-with-pedophiles-for-30-years/a-53814208)
@@ -1088,7 +1088,7 @@
  - [https://www.theguardian.com/technology/2020/jan/12/anger-over-use-facial-recognition-south-wales-football-derby-cardiff-swansea](https://www.theguardian.com/technology/2020/jan/12/anger-over-use-facial-recognition-south-wales-football-derby-cardiff-swansea)
  - date published: 2020-01-12 14:05:26+00:00
  - user: rumpel
- - tags: ['surveillance', 'facialrecognition', 'bigbrother']
+ - tags: ['surveillance', 'facial recognition', 'bigbrother']
 
 ## Ring Fired Employees for Watching Customer Videos
  - [https://www.vice.com/en/article/y3mdvk/ring-fired-employees-abusing-video-data](https://www.vice.com/en/article/y3mdvk/ring-fired-employees-abusing-video-data)

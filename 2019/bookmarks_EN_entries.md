@@ -92,7 +92,7 @@
  - [https://www.theverge.com/2019/11/11/20955864/youtube-terms-of-service-update-terminations-children-content-ftc](https://www.theverge.com/2019/11/11/20955864/youtube-terms-of-service-update-terminations-children-content-ftc)
  - date published: 2019-11-11 19:57:35+00:00
  - user: None
- - tags: ['youtube', 'youllownnothing', 'monopoly', 'subscription', 'censorship']
+ - tags: ['monopoly', 'technofeudalism', 'censorship', 'subscription', 'youtube']
 
 ## 79-Year-Old Man Beat on New York Subway for Preaching Gospel
  - [https://www.christianheadlines.com/contributors/mikaela-matthews/79-year-old-man-beat-on-new-york-subway-for-preaching-gospel.html](https://www.christianheadlines.com/contributors/mikaela-matthews/79-year-old-man-beat-on-new-york-subway-for-preaching-gospel.html)
@@ -200,7 +200,7 @@
  - [https://lawliberty.org/eyes-wide-shut-and-the-moral-bankruptcy-of-the-american-elite/](https://lawliberty.org/eyes-wide-shut-and-the-moral-bankruptcy-of-the-american-elite/)
  - date published: 2019-10-04 20:29:42+00:00
  - user: rumpel
- - tags: ['bilionaires', 'epstein', 'eyes wide shut']
+ - tags: ['eyes wide shut', 'epstein', 'billionaires']
 
 ## Twitter executive for Middle East is British Army 'psyops' soldier | Middle East Eye
  - [https://www.middleeasteye.net/news/twitter-executive-also-part-time-officer-uk-army-psychological-warfare-unit](https://www.middleeasteye.net/news/twitter-executive-also-part-time-officer-uk-army-psychological-warfare-unit)
@@ -278,7 +278,7 @@
  - [https://www.thegatewaypundit.com/2019/08/get-woke-go-broke-gillette-backflips-after-12-billion-toxic-masculinity-disaster-hopes-to-lure-sexist-pigs-back-with-new-ad-campaign/](https://www.thegatewaypundit.com/2019/08/get-woke-go-broke-gillette-backflips-after-12-billion-toxic-masculinity-disaster-hopes-to-lure-sexist-pigs-back-with-new-ad-campaign/)
  - date published: 2019-08-22 09:09:32+00:00
  - user: rumpel
- - tags: ['gowokegobroke', 'woke', 'gillette']
+ - tags: ['gillette', 'woke', 'go woke go broke']
 
 ## Why Are So Many Developers Hating on Object-Oriented Programming?
  - [https://thenewstack.io/why-are-so-many-developers-hating-on-object-oriented-programming/](https://thenewstack.io/why-are-so-many-developers-hating-on-object-oriented-programming/)
@@ -392,13 +392,13 @@
  - [https://www.newsweek.com/eyes-wide-shut-missing-footage-epstein-kubrick-death-1449108](https://www.newsweek.com/eyes-wide-shut-missing-footage-epstein-kubrick-death-1449108)
  - date published: 2019-07-12 20:30:36+00:00
  - user: rumpel
- - tags: ['kubrick', 'bilionaires', 'epstein', 'eyes wide shut']
+ - tags: ['eyes wide shut', 'kubrick', 'epstein', 'billionaires']
 
 ## How online surveillance is killing private conversations
  - [https://www.theguardian.com/world/2019/jul/11/can-we-talk-in-confidence-the-death-of-candour-in-the-age-of-surveillance](https://www.theguardian.com/world/2019/jul/11/can-we-talk-in-confidence-the-death-of-candour-in-the-age-of-surveillance)
  - date published: 2019-07-11 05:00:51+00:00
  - user: rumpel
- - tags: ['privacy', 'surveillence', 'bigtech']
+ - tags: ['surveillance', 'privacy', 'bigtech']
 
 ## So Was QAnon … Right?
  - [https://nymag.com/intelligencer/2019/07/does-the-jeffrey-epstein-indictment-qanon.html](https://nymag.com/intelligencer/2019/07/does-the-jeffrey-epstein-indictment-qanon.html)

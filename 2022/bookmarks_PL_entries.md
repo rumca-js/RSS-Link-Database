@@ -128,7 +128,7 @@
  - [https://forsal.pl/biznes/ekologia/artykuly/8606380,cynizm-i-hipokryzja-wielkie-korporacje-zarabiaja-krocie-i-udaja-ze-to-jest-w-naszym-interesie.html](https://forsal.pl/biznes/ekologia/artykuly/8606380,cynizm-i-hipokryzja-wielkie-korporacje-zarabiaja-krocie-i-udaja-ze-to-jest-w-naszym-interesie.html)
  - date published: 2022-12-09 22:42:57+00:00
  - user: None
- - tags: ['hypocrisy', 'coporatocracy', 'bigtech']
+ - tags: ['bigtech', 'hypocrisy', 'corporatocracy']
 
 ## Niedzielski: Jest duża nadwyżka szczepionek przeciwko Covid-19
  - [https://forsal.pl/lifestyle/zdrowie/artykuly/8606647,nadwyzka-szczepionek-przeciwko-covid-19.html](https://forsal.pl/lifestyle/zdrowie/artykuly/8606647,nadwyzka-szczepionek-przeciwko-covid-19.html)
@@ -248,7 +248,7 @@
  - [https://strefainwestorow.pl/w-zielonej-strefie/elektromobilnosc/samochody-elektryczne-orlen-elektromobilnosc](https://strefainwestorow.pl/w-zielonej-strefie/elektromobilnosc/samochody-elektryczne-orlen-elektromobilnosc)
  - date published: 2022-11-04 07:56:34+00:00
  - user: None
- - tags: ['subscription', 'car sharing', 'subscription model', 'you will own nothing']
+ - tags: ['car sharing', 'technofeudalism', 'subscription']
 
 ## Cenzura na oficjalnym profilu Poznania na Facebooku? Mamy odpowiedź miasta
  - [https://epoznan.pl/news-news-133890-cenzura_na_oficjalnym_profilu_poznania_na_facebooku_mamy_odpowiedz_miasta?rss=1](https://epoznan.pl/news-news-133890-cenzura_na_oficjalnym_profilu_poznania_na_facebooku_mamy_odpowiedz_miasta?rss=1)

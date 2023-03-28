@@ -1,14 +1,62 @@
+## Greenland ice sheet is close to a melting point of no return
+ - [https://news.agu.org/press-release/the-greenland-ice-sheet-is-close-to-a-melting-point-of-no-return/](https://news.agu.org/press-release/the-greenland-ice-sheet-is-close-to-a-melting-point-of-no-return/)
+ - date published: 2023-03-27 18:34:31+00:00
+ - user: rumpel
+ - tags: ['greenland', 'climate change']
+
+## Why a European mobile operating system can’t challenge Android and iOS
+ - [https://gael-duval.medium.com/why-a-european-mobile-operating-system-cant-challenge-android-and-ios-86104e97b89e](https://gael-duval.medium.com/why-a-european-mobile-operating-system-cant-challenge-android-and-ios-86104e97b89e)
+ - date published: 2023-03-27 12:35:15+00:00
+ - user: rumpel
+ - tags: ['smartphone', 'android', 'mobile os', 'ios']
+
+## The chat control proposal does not belong in democratic societies
+ - [https://mullvad.net/en/chatcontrol](https://mullvad.net/en/chatcontrol)
+ - date published: 2023-03-27 01:56:34+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'chat control', 'privacy']
+
 ## AI Art is Inevitable
  - [https://www.youtube.com/watch?v=VsXYTunk7OY](https://www.youtube.com/watch?v=VsXYTunk7OY)
  - date published: 2023-03-26 20:00:12+00:00
  - user: rumpel
  - tags: ['artificial intelligence']
 
+## Canada distributed a blacklist of Freedom Convoy sympathizers
+ - [https://reclaimthenet.org/canada-distributed-a-blacklist-of-freedom-convoy-sympathizers](https://reclaimthenet.org/canada-distributed-a-blacklist-of-freedom-convoy-sympathizers)
+ - date published: 2023-03-26 19:54:45+00:00
+ - user: rumpel
+ - tags: ['canada', 'covid', 'freedom convoy']
+
+## An Ethical AI Never Says “I”
+ - [https://livepaola.substack.com/p/an-ethical-ai-never-says-i](https://livepaola.substack.com/p/an-ethical-ai-never-says-i)
+ - date published: 2023-03-26 19:04:43+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
+
+## Biden Administration demanded crackdown on “vaccine-skeptical” WhatsApp chats
+ - [https://reclaimthenet.org/biden-administration-crackdown-whatsapp-chats](https://reclaimthenet.org/biden-administration-crackdown-whatsapp-chats)
+ - date published: 2023-03-26 17:55:13+00:00
+ - user: rumpel
+ - tags: ['censorship', 'meta']
+
+## The Future is a Dead Mall - Decentraland and the Metaverse
+ - [https://www.youtube.com/watch?v=EiZhdpLXZ8Q](https://www.youtube.com/watch?v=EiZhdpLXZ8Q)
+ - date published: 2023-03-26 00:00:00+00:00
+ - user: rumpel
+ - tags: ['internet', 'metaverse']
+
 ## Cramming More Components onto Integrated Circuits (Gordon Moore, 1965) [pdf]
  - [https://www.cs.utexas.edu/~fussell/courses/cs352h/papers/moore.pdf](https://www.cs.utexas.edu/~fussell/courses/cs352h/papers/moore.pdf)
  - date published: 2023-03-25 00:52:37+00:00
  - user: rumpel
  - tags: ['gordon moore', 'integrated circuits', 'hardware']
+
+## Cancel culture is no laughing matter: Comedy on the edge
+ - [https://thehill.com/opinion/technology/3916458-cancel-culture-is-no-laughing-matter-comedy-on-the-edge/](https://thehill.com/opinion/technology/3916458-cancel-culture-is-no-laughing-matter-comedy-on-the-edge/)
+ - date published: 2023-03-24 18:00:00+00:00
+ - user: rumpel
+ - tags: ['woke', 'cancel culture']
 
 ## Deutsche Bank is no Credit Suisse, despite investors’ fears | Nils Pratley
  - [https://www.theguardian.com/business/nils-pratley-on-finance/2023/mar/24/deutsche-bank-credit-suisse-investors-shares](https://www.theguardian.com/business/nils-pratley-on-finance/2023/mar/24/deutsche-bank-credit-suisse-investors-shares)
@@ -27,6 +75,12 @@
  - date published: 2023-03-24 16:06:52+00:00
  - user: rumpel
  - tags: ['billionaires', 'climate change']
+
+## America’s online privacy problems are much bigger than TikTok
+ - [https://www.washingtonpost.com/technology/2023/03/24/tiktok-online-privacy-laws/](https://www.washingtonpost.com/technology/2023/03/24/tiktok-online-privacy-laws/)
+ - date published: 2023-03-24 15:04:47+00:00
+ - user: rumpel
+ - tags: ['privacy']
 
 ## Statistical and Numerical Errors Made by the US Centers for Disease Control and Prevention During the COVID-19 Pandemic by Kelley Krohnert, Alyson Haslam, Tracy Beth Hoeg, Vinay Prasad :: SSRN
  - [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4381627](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4381627)
@@ -76,7 +130,7 @@
  - user: rumpel
  - tags: ['scienceisdead', 'fearmongering', 'covid', 'media']
 
-## Louis Rossmann could sue John Deere for GPL violation
+## Holding corporate criminals ACCOUNTABLE; it's about time we start
  - [https://www.youtube.com/watch?v=XP7Qx1FF1hA](https://www.youtube.com/watch?v=XP7Qx1FF1hA)
  - date published: 2023-03-21 08:31:05+00:00
  - user: rumpel
@@ -159,6 +213,12 @@
  - date published: 2023-03-16 15:50:18+00:00
  - user: rumpel
  - tags: ['amazon', 'technofeudalism', 'facial recognition', 'biometric']
+
+## John Deere's ongoing GPL violations: What's next
+ - [https://sfconservancy.org/blog/2023/mar/16/john-deere-gpl-violations/](https://sfconservancy.org/blog/2023/mar/16/john-deere-gpl-violations/)
+ - date published: 2023-03-16 15:17:34+00:00
+ - user: rumpel
+ - tags: ['right to repair', 'john deere', 'gpl', 'open source']
 
 ## CDC Bought Phone Data to Monitor Americans’ Compliance With Lockdowns, Contracts Show
  - [https://www.theepochtimes.com/cdc-bought-phone-data-to-monitor-americans-compliance-with-lockdowns-contracts-show_5118737.html](https://www.theepochtimes.com/cdc-bought-phone-data-to-monitor-americans-compliance-with-lockdowns-contracts-show_5118737.html)
@@ -278,7 +338,7 @@
  - [https://www.outkick.com/climate-expert-greta-thunberg-deletes-2018-tweet-saying-world-will-end-in-2023-because-the-world-has-not-ended/](https://www.outkick.com/climate-expert-greta-thunberg-deletes-2018-tweet-saying-world-will-end-in-2023-because-the-world-has-not-ended/)
  - date published: 2023-03-11 19:54:05+00:00
  - user: rumpel
- - tags: ['greta thunberg', 'climate change']
+ - tags: ['climate change', 'thunberg']
 
 ## ChatGPT's API Is So Good and Cheap, It Makes Most Text Generating AI Obsolete
  - [https://minimaxir.com/2023/03/new-chatgpt-overlord/](https://minimaxir.com/2023/03/new-chatgpt-overlord/)
@@ -350,7 +410,7 @@
  - [https://mullvad.net/en/chatcontrol/campaign](https://mullvad.net/en/chatcontrol/campaign)
  - date published: 2023-03-10 14:25:48+00:00
  - user: rumpel
- - tags: ['chat control']
+ - tags: ['surveillance', 'chat control', 'privacy']
 
 ## Women’s rights have gone ‘too far’, say majority of Gen Z and millennials, study shows
  - [https://www.telegraph.co.uk/news/2023/03/09/womens-rights-have-gone-far-say-majority-gen-z-millennials-study/](https://www.telegraph.co.uk/news/2023/03/09/womens-rights-have-gone-far-say-majority-gen-z-millennials-study/)
@@ -418,6 +478,12 @@
  - user: rumpel
  - tags: ['digital passport', 'digital identity', 'mobywatel', 'government control']
 
+## UK Parliament makes it illegal to pray near abortion facilities | Catholic News Agency
+ - [https://www.catholicnewsagency.com/news/253814/uk-parliament-bans-pro-life-outreach-and-prayer-near-abortion-facilities](https://www.catholicnewsagency.com/news/253814/uk-parliament-bans-pro-life-outreach-and-prayer-near-abortion-facilities)
+ - date published: 2023-03-07 19:40:56+00:00
+ - user: rumpel
+ - tags: ['abortion', 'england', 'christianophobia']
+
 ## The FBI Tested New Facial Recognition Software on Subways and Street Corners
  - [https://gizmodo.com/fbi-facial-recognition-janus-horus-1850198100](https://gizmodo.com/fbi-facial-recognition-janus-horus-1850198100)
  - date published: 2023-03-07 19:04:00+00:00
@@ -446,7 +512,7 @@
  - [https://www.youtube.com/watch?v=npJNERfBAes](https://www.youtube.com/watch?v=npJNERfBAes)
  - date published: 2023-03-06 21:03:49+00:00
  - user: rumpel
- - tags: ['elites', 'manufacturing consent', 'billionaries', 'george soros']
+ - tags: ['billionaires', 'elites', 'george soros', 'manufacturing consent']
 
 ## Spain Set To Introduce Law Requiring 40% Women In Company Boards
  - [https://www.ndtv.com/world-news/spain-set-to-introduce-law-requiring-40-women-in-company-boards-3840067](https://www.ndtv.com/world-news/spain-set-to-introduce-law-requiring-40-women-in-company-boards-3840067)
@@ -500,7 +566,7 @@
  - [https://www.pcmag.com/news/ring-will-put-basic-security-features-behind-paywall](https://www.pcmag.com/news/ring-will-put-basic-security-features-behind-paywall)
  - date published: 2023-03-04 08:07:42+00:00
  - user: rumpel
- - tags: ['youwillownnothing', 'subscription']
+ - tags: ['technofeudalism', 'subscription']
 
 ## BlackRock Is About To Own Your House
  - [https://www.youtube.com/watch?v=OiNlCXGt2IY](https://www.youtube.com/watch?v=OiNlCXGt2IY)
@@ -614,7 +680,7 @@
  - [https://www.pcgamer.com/ford-files-patent-to-allow-self-driving-cars-to-drive-away-from-their-owners/](https://www.pcgamer.com/ford-files-patent-to-allow-self-driving-cars-to-drive-away-from-their-owners/)
  - date published: 2023-03-01 06:56:30+00:00
  - user: rumpel
- - tags: ['youwillownnothing', 'subscription', 'technofeudalism']
+ - tags: ['technofeudalism', 'subscription']
 
 ## Jordan Peterson about the german government (DeepFake AI)
  - [https://www.youtube.com/watch?v=ha3gfD7S0_E](https://www.youtube.com/watch?v=ha3gfD7S0_E)
@@ -926,7 +992,7 @@
  - [https://arstechnica.com/?p=1917626](https://arstechnica.com/?p=1917626)
  - date published: 2023-02-14 22:29:43+00:00
  - user: rumpel
- - tags: ['google', 'surveillence', 'android', 'privacy', 'bigtech']
+ - tags: ['privacy', 'surveillance', 'google', 'bigtech', 'android']
 
 ## Use 'egg-producing' not 'female', say scientists in call to phase out binary language
  - [https://www.telegraph.co.uk/news/2023/02/14/words-male-female-should-banned-science-enforce-idea-sex-binary/](https://www.telegraph.co.uk/news/2023/02/14/words-male-female-should-banned-science-enforce-idea-sex-binary/)
@@ -1094,7 +1160,7 @@
  - [https://www.economist.com/business/2023/02/08/is-googles-20-year-search-dominance-about-to-end](https://www.economist.com/business/2023/02/08/is-googles-20-year-search-dominance-about-to-end)
  - date published: 2023-02-08 20:57:27+00:00
  - user: rumpel
- - tags: ['chatgp', 'artificial intelligence', 'algorithms', 'google']
+ - tags: ['artificial intelligence', 'chatgpt', 'algorithms', 'google']
 
 ## Windows 11: a spyware machine out of users' control
  - [https://www.techspot.com/news/97535-windows-11-spyware-machine-out-users-control.html](https://www.techspot.com/news/97535-windows-11-spyware-machine-out-users-control.html)
@@ -1232,7 +1298,7 @@
  - [https://www.youtube.com/watch?v=o2HkjhK7aa4](https://www.youtube.com/watch?v=o2HkjhK7aa4)
  - date published: 2023-02-02 18:00:30+00:00
  - user: rumpel
- - tags: ['who', 'vaccine', 'bill gates', 'big pharma', 'covid']
+ - tags: ['vaccine', 'bigpharma', 'covid', 'who', 'bill gates']
 
 ## The Netherlands' DPA says central passport database 'entails major privacy risks'
  - [https://iapp.org/news/a/dutch-dpa-says-central-passport-database-entails-major-privacy-risks/](https://iapp.org/news/a/dutch-dpa-says-central-passport-database-entails-major-privacy-risks/)
@@ -1748,7 +1814,7 @@
  - [https://www.hollywoodreporter.com/business/business-news/wall-street-streaming-guidance-2023-1235302958/](https://www.hollywoodreporter.com/business/business-news/wall-street-streaming-guidance-2023-1235302958/)
  - date published: 2023-01-19 20:57:11+00:00
  - user: rumpel
- - tags: ['youwillownnothing', 'streaming', 'movies']
+ - tags: ['streaming', 'movies']
 
 ## Inside the Facebook Files: Emails Reveal CDC's Role in Stifling COVID Dissent
  - [https://reason.com/2023/01/19/facebook-files-emails-cdc-covid-vaccines-censorship/](https://reason.com/2023/01/19/facebook-files-emails-cdc-covid-vaccines-censorship/)
@@ -1904,7 +1970,7 @@
  - [https://www.amnesty.org/en/latest/news/2021/06/scale-new-york-police-facial-recognition-revealed/](https://www.amnesty.org/en/latest/news/2021/06/scale-new-york-police-facial-recognition-revealed/)
  - date published: 2023-01-15 17:15:17+00:00
  - user: rumpel
- - tags: ['surveillance', 'facialrecognition', 'bigbrother']
+ - tags: ['surveillance', 'facial recognition', 'bigbrother']
 
 ## Climate Activism Isn't About the Planet. It's About the Boredom of the Bourgeoisie | Opinion
  - [https://www.newsweek.com/climate-activism-isnt-about-planet-its-about-boredom-bourgeoisie-opinion-1773846](https://www.newsweek.com/climate-activism-isnt-about-planet-its-about-boredom-bourgeoisie-opinion-1773846)
@@ -2120,7 +2186,7 @@
  - [https://www.pcgamer.com/youtubes-new-profanity-rules-are-punishing-creators-retroactively-and-theyre-furious](https://www.pcgamer.com/youtubes-new-profanity-rules-are-punishing-creators-retroactively-and-theyre-furious)
  - date published: 2023-01-12 13:00:50+00:00
  - user: rumpel
- - tags: ['subscription', 'youllownnothing', 'youtube']
+ - tags: ['technofeudalism', 'youtube', 'subscription']
 
 ## Elon Musk breaks world record for ‘worst loss of fortune,’ Guinness says
  - [https://www.washingtonpost.com/technology/2023/01/12/elon-musk-net-worth-record-loss/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2023/01/12/elon-musk-net-worth-record-loss/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -2534,7 +2600,7 @@
  - [https://chriscoyier.net/2023/01/04/what-does-it-look-like-for-the-web-to-lose/](https://chriscoyier.net/2023/01/04/what-does-it-look-like-for-the-web-to-lose/)
  - date published: 2023-01-04 11:45:48+00:00
  - user: rumpel
- - tags: ['darkdesign', 'webapp', 'web', 'pwa', 'programming', 'internet', 'android']
+ - tags: ['webapp', 'web', 'programming', 'pwa', 'android', 'internet', 'dark design']
 
 ## FDA to expand availability of abortion pills
  - [http://www.msn.com/en-us/news/politics/fda-to-expand-availability-of-abortion-pills/ar-AA15WOky?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/fda-to-expand-availability-of-abortion-pills/ar-AA15WOky?li=BBnbcA1&srcref=rss)
@@ -2546,7 +2612,7 @@
  - [https://www.ft.com/content/55058f28-8c47-40c8-9919-8ded9daa53e9](https://www.ft.com/content/55058f28-8c47-40c8-9919-8ded9daa53e9)
  - date published: 2023-01-04 01:00:33+00:00
  - user: rumpel
- - tags: ['esg', 'china', 'survaillence', 'censorship']
+ - tags: ['surveillance', 'esg', 'china', 'censorship']
 
 ## Apple and Amazon lost a 'staggering' $800 billion in market cap in 2022. Here's what that looks like
  - [https://www.cnbc.com/2023/01/03/apple-and-amazon-lost-a-staggering-800-billion-in-market-cap-in-2022.html](https://www.cnbc.com/2023/01/03/apple-and-amazon-lost-a-staggering-800-billion-in-market-cap-in-2022.html)
@@ -2612,7 +2678,7 @@
  - [https://piunikaweb.com/2023/01/02/opinion-youtube-ads-have-become-a-disaster/](https://piunikaweb.com/2023/01/02/opinion-youtube-ads-have-become-a-disaster/)
  - date published: 2023-01-02 10:56:03+00:00
  - user: rumpel
- - tags: ['youllownnothing', 'youtube', 'subscription', 'ads']
+ - tags: ['ads', 'technofeudalism', 'youtube', 'subscription']
 
 ## Preparing for Less Privacy
  - [https://www.jefftk.com/p/preparing-for-less-privacy](https://www.jefftk.com/p/preparing-for-less-privacy)
@@ -2636,7 +2702,7 @@
  - [https://levelup-edu.com/bezos-gates-zuckerberg-behind-every-self-made-millionaire-is-a-father-with-money/](https://levelup-edu.com/bezos-gates-zuckerberg-behind-every-self-made-millionaire-is-a-father-with-money/)
  - date published: 2023-01-01 22:31:55+00:00
  - user: rumpel
- - tags: ['bezos', 'gates', 'zuckerberg', 'bigtech', 'bilionaires']
+ - tags: ['bigtech', 'zuckerberg', 'billionaires', 'bezos', 'gates']
 
 ## 2023 LGBTQ+ Student Possibility Programme
  - [https://www.goldmansachs.com/careers/students/programs/emea/lgbt-student-possibility-program.html](https://www.goldmansachs.com/careers/students/programs/emea/lgbt-student-possibility-program.html)

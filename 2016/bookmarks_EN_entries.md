@@ -190,6 +190,12 @@
  - user: None
  - tags: ['surveillance', 'merkel', 'wikileaks', 'bigbrother', 'all time']
 
+## Lifetime of electrical appliances becoming shorter and shorter
+ - [https://www.umweltbundesamt.de/en/press/pressinformation/lifetime-of-electrical-appliances-becoming-shorter](https://www.umweltbundesamt.de/en/press/pressinformation/lifetime-of-electrical-appliances-becoming-shorter)
+ - date published: 2016-02-15 14:27:49+00:00
+ - user: rumpel
+ - tags: ['climate change', 'right to repair']
+
 ## Aaron Swartz Biographer Justin Peters: "Aaron Died for Nothing."
  - [https://www.inverse.com/article/10637-swartz-peters-suicide](https://www.inverse.com/article/10637-swartz-peters-suicide)
  - date published: 2016-01-28 10:27:05+00:00

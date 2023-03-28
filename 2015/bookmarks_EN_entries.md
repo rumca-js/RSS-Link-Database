@@ -50,7 +50,7 @@
  - [https://www.reuters.com/article/us-usa-surveillance-watchdog-idUSBRE98Q14G20130927](https://www.reuters.com/article/us-usa-surveillance-watchdog-idUSBRE98Q14G20130927)
  - date published: 2015-08-24 12:45:42+00:00
  - user: None
- - tags: ['privacy', 'surveillence', 'nsa', 'bigbrother']
+ - tags: ['surveillance', 'nsa', 'privacy', 'bigbrother']
 
 ## Memento Explanation by Christopher Nolan - True Genius - Must Watch
  - [https://www.youtube.com/watch?v=67e_jl4flpE](https://www.youtube.com/watch?v=67e_jl4flpE)

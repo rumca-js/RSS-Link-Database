@@ -218,7 +218,7 @@
  - [https://www.dailymail.co.uk/news/article-11574573/Twitter-suppressed-covid-information-doctors-experts.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11574573/Twitter-suppressed-covid-information-doctors-experts.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2022-12-26 15:14:28+00:00
  - user: rumpel
- - tags: ['misinformation', 'censorship', 'covid', 'disinformation', 'big brother']
+ - tags: ['covid', 'disinformation', 'censorship', 'misinformation', 'bigbrother']
 
 ## Elon Musk Says ‘Almost Every Conspiracy Theory That People Had About Twitter Turned Out to Be True’
  - [https://www.theepochtimes.com/elon-musk-says-almost-every-conspiracy-theory-that-people-had-about-twitter-turned-out-to-be-true_4945425.html](https://www.theepochtimes.com/elon-musk-says-almost-every-conspiracy-theory-that-people-had-about-twitter-turned-out-to-be-true_4945425.html)
@@ -410,7 +410,7 @@
  - [https://www.dailymail.co.uk/news/article-11567283/Disney-stock-way-worst-year-1974-Avatar-sequel-disappoints.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11567283/Disney-stock-way-worst-year-1974-Avatar-sequel-disappoints.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2022-12-22 20:39:59+00:00
  - user: rumpel
- - tags: ['disney', 'woke', 'gowokegobroke']
+ - tags: ['disney', 'woke', 'go woke go broke']
 
 ## The fundamental rights of millions are impacted when Apple does business with authoritarian regimes
  - [https://applecensorship.com/the-fundamental-rights-of-millions-are-impacted-when-apple-does-business-with-authoritarian-regimes/](https://applecensorship.com/the-fundamental-rights-of-millions-are-impacted-when-apple-does-business-with-authoritarian-regimes/)
@@ -1250,7 +1250,7 @@
  - [https://www.dailymail.co.uk/news/article-11526187/Stanford-professor-revealed-blacklisted-Twitter-opposing-COVID-lockdowns.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11526187/Stanford-professor-revealed-blacklisted-Twitter-opposing-COVID-lockdowns.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2022-12-11 16:10:27+00:00
  - user: None
- - tags: ['covid', 'lockdowns']
+ - tags: ['covid', 'lockdown']
 
 ## Twitter Files reveal Trump ban came after Michelle Obama, others pressured the company
  - [https://www.foxnews.com/politics/twitter-files-reveal-trump-ban-came-after-michelle-obama-others-pressured-company](https://www.foxnews.com/politics/twitter-files-reveal-trump-ban-came-after-michelle-obama-others-pressured-company)
@@ -1400,7 +1400,7 @@
  - [https://www.theepochtimes.com/nigeria-limits-weekly-daily-atm-cash-withdrawals-to-push-digital-currency-use_4911001.html](https://www.theepochtimes.com/nigeria-limits-weekly-daily-atm-cash-withdrawals-to-push-digital-currency-use_4911001.html)
  - date published: 2022-12-08 10:33:36+00:00
  - user: None
- - tags: ['cbdc', 'digital money', 'youwillownnothing', 'technofeudalism']
+ - tags: ['digital money', 'technofeudalism', 'cbdc']
 
 ## BlackRock says get ready for a recession unlike any other and 'what worked in the past won't work now'
  - [https://markets.businessinsider.com/news/stocks/blackrock-recession-warning-stock-market-analysis-2023-economic-outlook-2022-12](https://markets.businessinsider.com/news/stocks/blackrock-recession-warning-stock-market-analysis-2023-economic-outlook-2022-12)
@@ -1556,7 +1556,7 @@
  - [https://reclaimthenet.org/elon-musk-elon-musk-social-credit/](https://reclaimthenet.org/elon-musk-elon-musk-social-credit/)
  - date published: 2022-12-05 19:44:43+00:00
  - user: rumpel
- - tags: ['paypal', 'social credit', 'big brother']
+ - tags: ['bigbrother', 'social credit', 'paypal']
 
 ## Ben Shapiro: Twitter Files Show 2020 Was Rigged (Not Stolen), But Trump Is Hurting Himself
  - [https://www.dailywire.com/news/ben-shapiro-twitter-files-show-2020-was-rigged-not-stolen-but-trump-is-hurting-himself](https://www.dailywire.com/news/ben-shapiro-twitter-files-show-2020-was-rigged-not-stolen-but-trump-is-hurting-himself)
@@ -2102,7 +2102,7 @@
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59628](https://www.codeproject.com/script/News/View.aspx?nwid=59628)
  - date published: 2022-11-25 05:00:00+00:00
  - user: None
- - tags: ['subscription', 'intel', 'subscription model']
+ - tags: ['intel', 'technofeudalism', 'subscription']
 
 ## Right to abortion in France: The necessary steps before it gets enshrined in the constitution
  - [https://www.lemonde.fr/en/politics/article/2022/11/24/right-to-abortion-in-france-the-necessary-steps-before-it-gets-enshrined-in-the-constitution_6005536_5.html](https://www.lemonde.fr/en/politics/article/2022/11/24/right-to-abortion-in-france-the-necessary-steps-before-it-gets-enshrined-in-the-constitution_6005536_5.html)
@@ -2402,7 +2402,7 @@
  - [http://blog.archive.org/2022/11/15/digital-books-wear-out-faster-than-physical-books/](http://blog.archive.org/2022/11/15/digital-books-wear-out-faster-than-physical-books/)
  - date published: 2022-11-15 23:18:16+00:00
  - user: None
- - tags: ['internet', 'youwillownnothing', 'digital']
+ - tags: ['internet', 'digital', 'books']
 
 ## Universities courses from computing to classics are told to 'decolonise' by degrees watchdog
  - [https://www.dailymail.co.uk/news/article-11431449/Universities-courses-computing-classics-told-decolonise-degrees-watchdog.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11431449/Universities-courses-computing-classics-told-decolonise-degrees-watchdog.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -2816,7 +2816,7 @@
  - [https://www.dailymail.co.uk/news/article-11396843/Amazon-users-new-fee-choosing-music-Alexa-consumer-watchdog-warns.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11396843/Amazon-users-new-fee-choosing-music-Alexa-consumer-watchdog-warns.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2022-11-06 22:48:06+00:00
  - user: None
- - tags: ['alexa', 'subscription', 'youwillownnothing', 'technofeudalism']
+ - tags: ['technofeudalism', 'alexa', 'subscription']
 
 ## Industry ethicist: Social media companies amplifying Americans' anger for profit - CBS News
  - [https://www.cbsnews.com/news/tristan-harris-social-media-political-polarization-60-minutes-2022-11-06/?ftag=CNM-00-10aab7d&linkId=188527613](https://www.cbsnews.com/news/tristan-harris-social-media-political-polarization-60-minutes-2022-11-06/?ftag=CNM-00-10aab7d&linkId=188527613)
@@ -2984,7 +2984,7 @@
  - [https://piunikaweb.com/2022/11/02/youtube-sorting-option-for-viewing-oldest-video-missing-heres-why/](https://piunikaweb.com/2022/11/02/youtube-sorting-option-for-viewing-oldest-video-missing-heres-why/)
  - date published: 2022-11-03 14:43:55+00:00
  - user: None
- - tags: ['subscription', 'youtube', 'youwillownnothing', 'technofeudalism']
+ - tags: ['technofeudalism', 'youtube', 'subscription']
 
 ## I Posted on YouTube Consistently for 1 Month. This Is What Happened
  - [https://www.alexhyett.com/one-month-on-youtube/](https://www.alexhyett.com/one-month-on-youtube/)
@@ -3206,7 +3206,7 @@
  - [https://www.computerworld.com/article/3678297/your-company-brand-may-soon-be-held-hostage-to-adobe-pantone.html#tk.rss_all](https://www.computerworld.com/article/3678297/your-company-brand-may-soon-be-held-hostage-to-adobe-pantone.html#tk.rss_all)
  - date published: 2022-11-01 16:00:00+00:00
  - user: None
- - tags: ['car sharing', 'subscription model', 'you will own nothing']
+ - tags: ['car sharing', 'technofeudalism', 'subscription']
 
 ## Lockdown Tyrants Want ‘Pandemic Amnesty.’ Conservatives Flood Social Media With Reminders Of What They Did.
  - [https://www.dailywire.com/news/lockdown-tyrants-want-pandemic-amnesty-conservatives-flood-social-media-with-reminders-of-what-they-did](https://www.dailywire.com/news/lockdown-tyrants-want-pandemic-amnesty-conservatives-flood-social-media-with-reminders-of-what-they-did)
@@ -3350,7 +3350,7 @@
  - [https://www.engadget.com/uk-police-fail-to-use-facial-recognition-ethically-and-legally-researchers-say-082039619.html?src=rss](https://www.engadget.com/uk-police-fail-to-use-facial-recognition-ethically-and-legally-researchers-say-082039619.html?src=rss)
  - date published: 2022-10-31 08:20:39+00:00
  - user: rumpel
- - tags: ['surveillance', 'facialrecognition', 'bigbrother']
+ - tags: ['surveillance', 'facial recognition', 'bigbrother']
 
 ## 'Simply being a Christian is enough to get you arrested' in Iran: British government report
  - [https://www.foxnews.com/world/simply-being-a-christian-enough-get-you-arrested-iran-british-government-report](https://www.foxnews.com/world/simply-being-a-christian-enough-get-you-arrested-iran-british-government-report)
@@ -4028,7 +4028,7 @@
  - [https://www.internetsociety.org/blog/2022/10/the-eus-proposed-cyber-resilience-act-will-damage-the-open-source-ecosystem/](https://www.internetsociety.org/blog/2022/10/the-eus-proposed-cyber-resilience-act-will-damage-the-open-source-ecosystem/)
  - date published: 2022-10-24 19:03:22+00:00
  - user: rumpel
- - tags: ['open source', 'cyber resilience act', 'big brother']
+ - tags: ['bigbrother', 'cyber resilience act', 'open source']
 
 ## Kids who play video games score higher on brain function tests
  - [https://www.theverge.com/2022/10/24/23420502/video-game-kid-brain-function-fmri](https://www.theverge.com/2022/10/24/23420502/video-game-kid-brain-function-fmri)
@@ -4052,7 +4052,7 @@
  - [https://www.dailymail.co.uk/news/article-11348761/School-test-results-took-HISTORIC-hit-pandemic.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11348761/School-test-results-took-HISTORIC-hit-pandemic.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2022-10-24 14:45:28+00:00
  - user: None
- - tags: ['sideeffects', 'covid', 'pandemic', 'lockdown']
+ - tags: ['pandemic', 'covid', 'lockdown']
 
 ## IT leaders aren't getting listened to, and now they're ready to walk away
  - [https://www.zdnet.com/article/it-leaders-arent-getting-listened-to-and-now-theyre-ready-to-walk-away/#ftag=RSSbaffb68](https://www.zdnet.com/article/it-leaders-arent-getting-listened-to-and-now-theyre-ready-to-walk-away/#ftag=RSSbaffb68)
@@ -4160,7 +4160,7 @@
  - [https://www.theguardian.com/world/2022/oct/23/business-racing-to-use-facial-recognition-technology-raising-concerns-the-law-is-too-slow-to-catch-up](https://www.theguardian.com/world/2022/oct/23/business-racing-to-use-facial-recognition-technology-raising-concerns-the-law-is-too-slow-to-catch-up)
  - date published: 2022-10-22 19:00:17+00:00
  - user: rumpel
- - tags: ['surveillance', 'facialrecognition', 'bigbrother']
+ - tags: ['surveillance', 'facial recognition', 'bigbrother']
 
 ## CNN claims pets have big climate impact, advises buying ‘smaller breeds’, feed them ‘insect-based food'
  - [https://www.foxnews.com/media/cnn-claims-pets-have-big-climate-impact-advises-buying-smaller-breeds-feed-them-insect-based-food](https://www.foxnews.com/media/cnn-claims-pets-have-big-climate-impact-advises-buying-smaller-breeds-feed-them-insect-based-food)
@@ -4172,7 +4172,7 @@
  - [https://youtu.be/XmkFoPV5DCg](https://youtu.be/XmkFoPV5DCg)
  - date published: 2022-10-22 15:54:10+00:00
  - user: None
- - tags: ['subscription', 'youwillownnothing', 'technofeudalism']
+ - tags: ['technofeudalism', 'subscription']
 
 ## Apple’s App Store will display more ads starting next week
  - [https://www.engadget.com/apple-app-store-today-tab-ads-152249659.html?src=rss](https://www.engadget.com/apple-app-store-today-tab-ads-152249659.html?src=rss)
@@ -4238,7 +4238,7 @@
  - [https://www.reddit.com/r/news/comments/ya3nio/pfizer_covid_vaccine_price_hike_to_boost_revenue/](https://www.reddit.com/r/news/comments/ya3nio/pfizer_covid_vaccine_price_hike_to_boost_revenue/)
  - date published: 2022-10-21 20:21:09+00:00
  - user: None
- - tags: ['vaccine', 'pfizer covid']
+ - tags: ['pfizer', 'covid', 'vaccine']
 
 ## ProjectM: LGPL Reimplementation of Ryan Geiss' Milkdrop from Winamp/Kodi
  - [https://codav.itch.io/projectm](https://codav.itch.io/projectm)
@@ -4280,7 +4280,7 @@
  - [https://www.cnet.com/tech/services-and-software/youtube-hikes-price-of-family-plans/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/youtube-hikes-price-of-family-plans/#ftag=CADf328eec)
  - date published: 2022-10-21 17:53:38+00:00
  - user: None
- - tags: ['youwillownnothing', 'subscription']
+ - tags: ['technofeudalism', 'subscription']
 
 ## Smart rings have a long way to go
  - [https://www.theverge.com/2022/10/21/23414298/samsung-oura-ring-smart-rings-wearables](https://www.theverge.com/2022/10/21/23414298/samsung-oura-ring-smart-rings-wearables)
@@ -4316,7 +4316,7 @@
  - [https://www.cnet.com/roadshow/news/new-jersey-bill-could-ban-in-car-subscriptions/#ftag=CADf328eec](https://www.cnet.com/roadshow/news/new-jersey-bill-could-ban-in-car-subscriptions/#ftag=CADf328eec)
  - date published: 2022-10-21 16:04:33+00:00
  - user: None
- - tags: ['subscription', 'youwillownnothing', 'technofeudalism']
+ - tags: ['technofeudalism', 'subscription']
 
 ## US might bail Musk out by blocking Twitter deal over national security
  - [https://arstechnica.com/?p=1891916](https://arstechnica.com/?p=1891916)
@@ -4394,7 +4394,7 @@
  - [https://www.dailymail.co.uk/news/article-11333647/Australia-Covid-review-finds-lockdowns-border-closures-schools-shut-avoidable.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11333647/Australia-Covid-review-finds-lockdowns-border-closures-schools-shut-avoidable.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2022-10-19 23:02:42+00:00
  - user: None
- - tags: ['covid', 'lockdowns', 'australia']
+ - tags: ['australia', 'covid', 'lockdown']
 
 ## Christian doctor sues hospital claiming they fired her when she asked not to use transgender pronoun
  - [https://www.dailymail.co.uk/news/article-11331685/Christian-doctor-sues-hospital-claiming-fired-asked-not-use-transgender-pronoun.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11331685/Christian-doctor-sues-hospital-claiming-fired-asked-not-use-transgender-pronoun.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -5306,7 +5306,7 @@
  - [https://www.pcworld.com/article/1338418/rip-stadia-google-gives-up-its-game-streaming-ghost.html](https://www.pcworld.com/article/1338418/rip-stadia-google-gives-up-its-game-streaming-ghost.html)
  - date published: 2022-09-29 17:19:06+00:00
  - user: None
- - tags: ['youwillownnothing', 'google', 'stadia', 'subscription']
+ - tags: ['google', 'technofeudalism', 'stadia', 'subscription']
 
 ## China’s ‘Absurd’ Covid Propaganda Stirs Rebellion
  - [https://www.nytimes.com/2022/09/29/business/china-covid-propaganda.html](https://www.nytimes.com/2022/09/29/business/china-covid-propaganda.html)
@@ -5318,7 +5318,7 @@
  - [https://www.reddit.com/r/assholedesign/comments/xr8rdc/this_is_why_piracy_always_wins/](https://www.reddit.com/r/assholedesign/comments/xr8rdc/this_is_why_piracy_always_wins/)
  - date published: 2022-09-29 14:06:04+00:00
  - user: None
- - tags: ['youwillownnothing', 'subscription']
+ - tags: ['technofeudalism', 'subscription']
 
 ## YouTube Says Giorgia Meloni Video Was Removed in Error, Restores It After Inquiry
  - [https://news.yahoo.com/youtube-removes-incoming-italian-prime-191944852.html](https://news.yahoo.com/youtube-removes-incoming-italian-prime-191944852.html)
@@ -5654,7 +5654,7 @@
  - [https://www.businessinsider.com/car-feature-subscriptions-add-ons-bmw-ford-toyota-gm-2022-2?IR=T](https://www.businessinsider.com/car-feature-subscriptions-add-ons-bmw-ford-toyota-gm-2022-2?IR=T)
  - date published: 2022-09-24 20:43:07+00:00
  - user: None
- - tags: ['subscription', 'youwillownnothing', 'technofeudalism']
+ - tags: ['technofeudalism', 'subscription']
 
 ## Bill Gates says political polarization 'may bring it all to an end' and could even lead to a civil war
  - [https://www.reddit.com/r/politics/comments/xn2q5t/bill_gates_says_political_polarization_may_bring/](https://www.reddit.com/r/politics/comments/xn2q5t/bill_gates_says_political_polarization_may_bring/)
@@ -7106,7 +7106,7 @@
  - [https://bgr.com/tech/22000-smart-thermostats-in-colorado-locked-over-energy-emergency-sparking-outrage/](https://bgr.com/tech/22000-smart-thermostats-in-colorado-locked-over-energy-emergency-sparking-outrage/)
  - date published: 2022-09-04 13:02:11+00:00
  - user: rumpel
- - tags: ['youwillownnothing', 'climate change', 'colorado', 'electricity', 'bigbrother', 'technofeudalism']
+ - tags: ['electricity', 'technofeudalism', 'colorado', 'bigbrother', 'climate change']
 
 ## Uber’s Still Not Profitable
  - [https://doctorow.medium.com/ubers-still-not-profitable-bd483309e4b](https://doctorow.medium.com/ubers-still-not-profitable-bd483309e4b)
@@ -8018,7 +8018,7 @@
  - [https://nypost.com/2022/09/01/californians-asked-not-to-charge-electric-cars-amid-heat-wave/](https://nypost.com/2022/09/01/californians-asked-not-to-charge-electric-cars-amid-heat-wave/)
  - date published: 2022-08-01 20:36:35+00:00
  - user: rumpel
- - tags: ['youwillownnothing', 'climate change', 'electric cars', 'california', 'technofeudalism']
+ - tags: ['california', 'technofeudalism', 'climate change', 'electric cars']
 
 ## China's Evergrande has failed to deliver the debt restructuring plan it promised
  - [https://www.cnn.com/2022/08/01/economy/china-evergrande-miss-deadline-restructuring-plan-intl-hnk/index.html](https://www.cnn.com/2022/08/01/economy/china-evergrande-miss-deadline-restructuring-plan-intl-hnk/index.html)
@@ -8258,7 +8258,7 @@
  - [https://www.eff.org/deeplinks/2022/07/ring-reveals-they-give-videos-police-without-user-consent-or-warrant](https://www.eff.org/deeplinks/2022/07/ring-reveals-they-give-videos-police-without-user-consent-or-warrant)
  - date published: 2022-07-15 08:06:28+00:00
  - user: rumpel
- - tags: ['youwillownnothing', 'technofeudalism']
+ - tags: ['technofeudalism', 'privacy']
 
 ## Sri Lanka President Reaches Singapore After Fleeing Protests
  - [https://www.bloomberg.com/news/articles/2022-07-14/sri-lanka-president-arrives-in-singapore-after-fleeing-protests](https://www.bloomberg.com/news/articles/2022-07-14/sri-lanka-president-arrives-in-singapore-after-fleeing-protests)
@@ -9644,7 +9644,7 @@
  - [https://www.dailymail.co.uk/news/article-10735417/Netflix-track-BIGGEST-stock-drop-decade.html](https://www.dailymail.co.uk/news/article-10735417/Netflix-track-BIGGEST-stock-drop-decade.html)
  - date published: 2022-04-20 18:26:25+00:00
  - user: rumpel
- - tags: ['youllownnothing', 'netflix', 'subscription']
+ - tags: ['netflix', 'streaming', 'technofeudalism', 'subscription']
 
 ## Doctor Who: 'I wanted The Doctor to whisk me away from everything awful' - BBC News
  - [https://www.bbc.co.uk/news/newsbeat-61075197](https://www.bbc.co.uk/news/newsbeat-61075197)
@@ -10262,7 +10262,7 @@
  - [https://www.nutritruth.org/single-post/the-coudenhove-kalergi-plan-the-genocide-of-the-peoples-of-europe](https://www.nutritruth.org/single-post/the-coudenhove-kalergi-plan-the-genocide-of-the-peoples-of-europe)
  - date published: 2022-03-19 20:15:46+00:00
  - user: None
- - tags: ['immigration', 'depopulation', 'genocide', 'kalerg']
+ - tags: ['genocide', 'depopulation', 'immigration', 'kalergi']
 
 ## The British government reportedly asked when Microsoft would 'get rid' of algorithms | Windows Central
  - [https://www.windowscentral.com/british-government-reported-asked-when-microsoft-would-get-rid-algorithms](https://www.windowscentral.com/british-government-reported-asked-when-microsoft-would-get-rid-algorithms)
@@ -10400,7 +10400,7 @@
  - [https://www.reuters.com/world/europe/exclusive-facebook-instagram-temporarily-allow-calls-violence-against-russians-2022-03-10/](https://www.reuters.com/world/europe/exclusive-facebook-instagram-temporarily-allow-calls-violence-against-russians-2022-03-10/)
  - date published: 2022-03-11 12:47:54+00:00
  - user: rumpel
- - tags: ['censorship', 'hatespeech', 'inequality', 'meta', 'moderation', 'facebook']
+ - tags: ['inequality', 'facebook', 'meta', 'censorship', 'hate speech', 'moderation']
 
 ## Why Modern Movies Suck - They Teach Us Awful Lessons
  - [https://youtu.be/Dnuqp4_K7ik](https://youtu.be/Dnuqp4_K7ik)

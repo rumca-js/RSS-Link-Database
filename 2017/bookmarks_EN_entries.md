@@ -14,7 +14,7 @@
  - [https://www.quora.com/Is-flat-earth-theory-just-a-myth-created-by-CIA-in-one-of-their-covert-operations](https://www.quora.com/Is-flat-earth-theory-just-a-myth-created-by-CIA-in-one-of-their-covert-operations)
  - date published: 2017-12-21 15:00:51+00:00
  - user: None
- - tags: ['cia', 'deep state', 'flatearth', 'conspiracytheory']
+ - tags: ['conspiracy theory', 'cia', 'flatearth', 'deep state']
 
 ## BlackRock's Edge: Why Technology Is Creating The Amazon Of Wall Street
  - [https://www.forbes.com/sites/antoinegara/2017/12/19/blackrocks-edge-why-technology-is-creating-a-6-trillion-amazon-of-wall-street/](https://www.forbes.com/sites/antoinegara/2017/12/19/blackrocks-edge-why-technology-is-creating-a-6-trillion-amazon-of-wall-street/)
@@ -50,7 +50,7 @@
  - [https://themillenniumreport.com/2017/11/fake-flat-earth-conspiracy-finally-outed-as-cia-psyop/](https://themillenniumreport.com/2017/11/fake-flat-earth-conspiracy-finally-outed-as-cia-psyop/)
  - date published: 2017-11-06 14:57:08+00:00
  - user: None
- - tags: ['psyop', 'conspiracytheory', 'deep state', 'flatearth', 'cia']
+ - tags: ['psyop', 'conspiracy theory', 'deep state', 'cia', 'flatearth']
 
 ## More Human than Human - A Blade Runner Analysis
  - [https://www.youtube.com/watch?v=gcQk3qM3Ok0](https://www.youtube.com/watch?v=gcQk3qM3Ok0)
@@ -170,7 +170,7 @@
  - [https://www.businessinsider.com/how-nsa-can-abuse-data-on-americans-2013-7?IR=T](https://www.businessinsider.com/how-nsa-can-abuse-data-on-americans-2013-7?IR=T)
  - date published: 2017-08-24 13:37:57+00:00
  - user: None
- - tags: ['privacy', 'surveillence', 'nsa', 'bigbrother']
+ - tags: ['surveillance', 'nsa', 'privacy', 'bigbrother']
 
 ## The Actual Science of James Damore’s Google Memo
  - [https://www.wired.com/story/the-pernicious-science-of-james-damores-google-memo/](https://www.wired.com/story/the-pernicious-science-of-james-damores-google-memo/)

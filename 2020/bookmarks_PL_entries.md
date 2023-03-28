@@ -14,7 +14,7 @@
  - [https://spidersweb.pl/rozrywka/2020/12/25/netflix-grudzien-2020-harry-potter-przyjaciele-usuwane-31-grudnia](https://spidersweb.pl/rozrywka/2020/12/25/netflix-grudzien-2020-harry-potter-przyjaciele-usuwane-31-grudnia)
  - date published: 2020-12-25 12:04:50+00:00
  - user: None
- - tags: ['youllownnothing', 'netflix', 'subscription']
+ - tags: ['netflix', 'technofeudalism', 'subscription']
 
 ## Hiszpania: powstanie rejestr osób, które odmówią szczepienia przeciwko COVID-19
  - [https://www.wnp.pl/rynki-zagraniczne/hiszpania-powstanie-rejestr-osob-ktore-odmowia-szczepienia-przeciwko-covid-19,439531.html](https://www.wnp.pl/rynki-zagraniczne/hiszpania-powstanie-rejestr-osob-ktore-odmowia-szczepienia-przeciwko-covid-19,439531.html)
