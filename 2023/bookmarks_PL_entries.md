@@ -64,6 +64,12 @@
  - user: rumpel
  - tags: ['misinformation']
 
+## RockYou2021: largest password compilation of all time leaked online with 8.4 billion entries
+ - [https://cybernews.com/security/rockyou2021-alltime-largest-password-compilation-leaked/](https://cybernews.com/security/rockyou2021-alltime-largest-password-compilation-leaked/)
+ - date published: 2023-02-24 20:20:49+00:00
+ - user: rumpel
+ - tags: ['data leak']
+
 ## Polska nie radzi sobie z odnawialnymi źródłami energii. Rezygnacja z aut spalinowych wypada jeszcze bardziej absurdalnie
  - [https://www.chip.pl/2023/02/polska-odnawialne-zrodla-energii-raport-unii-europejskiej](https://www.chip.pl/2023/02/polska-odnawialne-zrodla-energii-raport-unii-europejskiej)
  - date published: 2023-02-18 17:00:00+00:00

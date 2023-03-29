@@ -8818,6 +8818,12 @@
  - user: None
  - tags: $tags
 
+## The U.S. has wasted over 82 million Covid vaccine doses
+ - [https://www.nbcnews.com/news/us-news/covid-vaccine-doses-wasted-rcna31399](https://www.nbcnews.com/news/us-news/covid-vaccine-doses-wasted-rcna31399)
+ - date published: 2022-06-06 12:58:29+00:00
+ - user: rumpel
+ - tags: ['vaccine', 'covid']
+
 ## My Phone Is Anonymous Now
  - [https://www.youtube.com/watch?v=8FDIef7tVFg](https://www.youtube.com/watch?v=8FDIef7tVFg)
  - date published: 2022-06-06 11:20:38+00:00

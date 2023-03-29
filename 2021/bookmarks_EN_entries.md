@@ -514,6 +514,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## COVID-19: Blood clots from Astrazeneca jab killed mother, coroner finds | UK News | Sky News
+ - [https://news.sky.com/story/covid-19-blood-clots-from-astrazeneca-jab-killed-mother-coroner-finds-12479406](https://news.sky.com/story/covid-19-blood-clots-from-astrazeneca-jab-killed-mother-coroner-finds-12479406)
+ - date published: 2021-11-26 12:45:02+00:00
+ - user: rumpel
+ - tags: ['vaccine', 'covid', 'astrazeneca']
+
 ## Underrated reasons to be thankful
  - [https://dynomight.net/thanks/](https://dynomight.net/thanks/)
  - date published: 2021-11-26 08:05:22.130252+00:00
@@ -1834,6 +1840,12 @@
  - user: Thomas Pain
  - tags: ['censorship', 'bigbrother', 'government']
 
+## 15 million Covid vaccine doses thrown away in the U.S. since March, new data shows
+ - [https://www.nbcnews.com/news/us-news/america-has-wasted-least-15-million-covid-vaccine-doses-march-n1278211](https://www.nbcnews.com/news/us-news/america-has-wasted-least-15-million-covid-vaccine-doses-march-n1278211)
+ - date published: 2021-09-01 12:59:04+00:00
+ - user: rumpel
+ - tags: ['vaccine', 'covid']
+
 ## Thousands of posts around January 6 riots go missing from Facebook transparency tool – POLITICO
  - [https://www.politico.eu/article/facebook-crowdtangle-data-january-6-capitol-hill-riots-transparency/](https://www.politico.eu/article/facebook-crowdtangle-data-january-6-capitol-hill-riots-transparency/)
  - date published: 2021-08-31 22:20:41+00:00
@@ -1995,6 +2007,12 @@
  - date published: 2021-08-26 18:15:10.372953+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Lisa Shaw: Presenter's death due to complications of Covid vaccine - BBC News
+ - [https://www.bbc.com/news/uk-england-tyne-58330796](https://www.bbc.com/news/uk-england-tyne-58330796)
+ - date published: 2021-08-26 12:41:47+00:00
+ - user: rumpel
+ - tags: ['vaccine', 'covid']
 
 ## Analysts: Google to pay Apple $15 billion to remain default Safari search engine in 2021 - 9to5Mac
  - [https://9to5mac.com/2021/08/25/analysts-google-to-pay-apple-15-billion-to-remain-default-safari-search-engine-in-2021/](https://9to5mac.com/2021/08/25/analysts-google-to-pay-apple-15-billion-to-remain-default-safari-search-engine-in-2021/)

@@ -412,12 +412,6 @@
  - user: None
  - tags: ['trump', 'propaganda', 'facebook', 'censorship', 'cambridge analytica']
 
-## Young Catholics vs LGBT Bullies in the Netherlands
- - [https://www.youtube.com/watch?v=47gQDbTaWqA](https://www.youtube.com/watch?v=47gQDbTaWqA)
- - date published: 2018-03-14 20:40:28+00:00
- - user: rumpel
- - tags: ['lgbt', 'intolerance', 'christianophobia']
-
 ## These Are The Concerns Slowly Killing Ad-Tech
  - [https://readwrite.com/concerns-slowly-killing-ad-tech/](https://readwrite.com/concerns-slowly-killing-ad-tech/)
  - date published: 2018-03-14 11:27:13+00:00

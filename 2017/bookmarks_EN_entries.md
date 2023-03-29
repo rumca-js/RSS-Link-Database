@@ -298,6 +298,12 @@
  - user: rumpel
  - tags: ['blackrock']
 
+## Abortion facility workers explain how they disposed of aborted babies
+ - [https://www.liveaction.org/news/abortion-facility-workers-explain-how-they-disposed-of-aborted-babies/](https://www.liveaction.org/news/abortion-facility-workers-explain-how-they-disposed-of-aborted-babies/)
+ - date published: 2017-03-15 11:01:12+00:00
+ - user: rumpel
+ - tags: ['abortion']
+
 ## Dishonest Fact-Checkers - Capital Research Center
  - [https://capitalresearch.org/article/dishonest-fact-checkers/](https://capitalresearch.org/article/dishonest-fact-checkers/)
  - date published: 2017-03-10 12:34:06+00:00

@@ -1,3 +1,15 @@
+## How the world is turning against social media
+ - [https://www.theguardian.com/technology/2023/mar/28/techscape-france-tiktok-ban-facebook](https://www.theguardian.com/technology/2023/mar/28/techscape-france-tiktok-ban-facebook)
+ - date published: 2023-03-28 10:53:33+00:00
+ - user: rumpel
+ - tags: ['social media']
+
+## The FBI’s Contract to Buy Mass Internet Data
+ - [https://www.vice.com/en/article/dy3z9a/fbi-bought-netflow-data-team-cymru-contract](https://www.vice.com/en/article/dy3z9a/fbi-bought-netflow-data-team-cymru-contract)
+ - date published: 2023-03-27 19:34:20+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'fbi', 'bigbrother', 'privacy laundering']
+
 ## Greenland ice sheet is close to a melting point of no return
  - [https://news.agu.org/press-release/the-greenland-ice-sheet-is-close-to-a-melting-point-of-no-return/](https://news.agu.org/press-release/the-greenland-ice-sheet-is-close-to-a-melting-point-of-no-return/)
  - date published: 2023-03-27 18:34:31+00:00
@@ -207,6 +219,12 @@
  - date published: 2023-03-16 17:31:22+00:00
  - user: rumpel
  - tags: ['surveillance', 'privacy', 'bigbrother']
+
+## Coding won’t exist in 5 years? You might be right.
+ - [https://www.youtube.com/watch?v=brAwZ5l_fuQ](https://www.youtube.com/watch?v=brAwZ5l_fuQ)
+ - date published: 2023-03-16 15:53:30+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
 
 ## Amazon sued for not telling New York store customers about facial recognition
  - [https://www.nbcnews.com/tech/security/amazon-sued-not-telling-new-york-store-customers-facial-recognition-rcna75290](https://www.nbcnews.com/tech/security/amazon-sued-not-telling-new-york-store-customers-facial-recognition-rcna75290)
