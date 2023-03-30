@@ -34,11 +34,53 @@
  - user: None
  - tags: ['google', 'wifi', 'bigtech', 'corporatocracy', 'privacy']
 
+## Germany warns: You just CAN'T TRUST some Windows 8 PCs • The Register
+ - [https://www.theregister.com/2013/08/23/nsa_germany_windows_8/](https://www.theregister.com/2013/08/23/nsa_germany_windows_8/)
+ - date published: 2013-08-23 08:33:05+00:00
+ - user: rumpel
+ - tags: ['vulnerability', 'tpm', 'windows', 'security']
+
 ## MIT releases report on its actions in the Aaron Swartz case
  - [https://news.mit.edu/2013/mit-releases-swartz-report-0730](https://news.mit.edu/2013/mit-releases-swartz-report-0730)
  - date published: 2013-07-30 10:30:37+00:00
  - user: None
  - tags: ['aaron swartz']
+
+## Microsoft handed the NSA access to encrypted messages | NSA | The Guardian
+ - [https://www.theguardian.com/world/2013/jul/11/microsoft-nsa-collaboration-user-data](https://www.theguardian.com/world/2013/jul/11/microsoft-nsa-collaboration-user-data)
+ - date published: 2013-07-12 09:04:18+00:00
+ - user: rumpel
+ - tags: ['nsa', 'privacy', 'bigbrother', 'backdoor', 'manufacturing consent', 'bigtech', 'microsoft']
+
+## A look at the black underbelly of Windows 8.1 'Blue' | InfoWorld
+ - [https://www.infoworld.com/article/2611451/a-look-at-the-black-underbelly-of-windows-8-1--blue-.html](https://www.infoworld.com/article/2611451/a-look-at-the-black-underbelly-of-windows-8-1--blue-.html)
+ - date published: 2013-07-08 09:09:54+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'privacy', 'windows', 'microsoft']
+
+## Project Chess: How U.S. Snoops On Your Skype
+ - [https://www.forbes.com/sites/petercohan/2013/06/20/project-chess-how-u-s-snoops-on-your-skype/](https://www.forbes.com/sites/petercohan/2013/06/20/project-chess-how-u-s-snoops-on-your-skype/)
+ - date published: 2013-06-20 09:08:52+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'skype', 'nsa', 'privacy', 'bigbrother', 'bigtech', 'microsoft']
+
+## How Can Any Company Ever Trust Microsoft Again? - Open Enterprise
+ - [https://web.archive.org/web/20130622044225/http://blogs.computerworlduk.com/open-enterprise/2013/06/how-can-any-company-ever-trust-microsoft-again/index.htm](https://web.archive.org/web/20130622044225/http://blogs.computerworlduk.com/open-enterprise/2013/06/how-can-any-company-ever-trust-microsoft-again/index.htm)
+ - date published: 2013-06-17 08:48:27+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'bigbrother', 'edward snowden', 'nsa']
+
+## GCHQ intercepted foreign politicians' communications at G20 summits | GCHQ | The Guardian
+ - [https://www.theguardian.com/uk/2013/jun/16/gchq-intercepted-communications-g20-summits](https://www.theguardian.com/uk/2013/jun/16/gchq-intercepted-communications-g20-summits)
+ - date published: 2013-06-17 08:46:22+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'bigbrother', 'edward snowden', 'bigtech']
+
+## U.S. Agencies Said to Swap Intelligence With Thousands of Firms
+ - [https://www.bloomberg.com/news/articles/2013-06-14/u-s-agencies-said-to-swap-data-with-thousands-of-firms](https://www.bloomberg.com/news/articles/2013-06-14/u-s-agencies-said-to-swap-data-with-thousands-of-firms)
+ - date published: 2013-06-15 08:44:12+00:00
+ - user: rumpel
+ - tags: ['bigtech', 'bigbrother', 'manufacturing consent', 'nsa']
 
 ## The Ugliest Open Secret Of German Politics: Pedophiles In The Green Party's Past
  - [https://worldcrunch.com/culture-society/the-ugliest-open-secret-of-german-politics-pedophiles-in-the-green-party039s-past](https://worldcrunch.com/culture-society/the-ugliest-open-secret-of-german-politics-pedophiles-in-the-green-party039s-past)

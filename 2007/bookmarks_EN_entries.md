@@ -16,3 +16,15 @@
  - user: None
  - tags: ['conspiracy theory', 'aaron russo']
 
+## Windows By Stealth: The Updates You Don't Want | Slated
+ - [https://slated.org/windows_by_stealth_the_updates_you_dont_want](https://slated.org/windows_by_stealth_the_updates_you_dont_want)
+ - date published: 2007-08-26 08:30:16+00:00
+ - user: rumpel
+ - tags: ['technofeudalism', 'windows']
+
+## Windows Update updating without permission!
+ - [http://cubicspot.blogspot.com/2007/08/windows-update-updating-without.html](http://cubicspot.blogspot.com/2007/08/windows-update-updating-without.html)
+ - date published: 2007-08-24 08:29:23+00:00
+ - user: rumpel
+ - tags: ['technofeudalism', 'windows', 'microsoft']
+

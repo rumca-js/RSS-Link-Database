@@ -286,6 +286,12 @@
  - user: rumpel
  - tags: ['programming', 'objectoriented', 'design patterns']
 
+## Microsoft Contractors Listened to Xbox Owners in Their Homes
+ - [https://www.vice.com/en/article/43kv4q/microsoft-human-contractors-listened-to-xbox-owners-homes-kinect-cortana](https://www.vice.com/en/article/43kv4q/microsoft-human-contractors-listened-to-xbox-owners-homes-kinect-cortana)
+ - date published: 2019-08-21 08:52:12+00:00
+ - user: rumpel
+ - tags: ['xbox', 'privacy', 'microsoft']
+
 ## Greta Thunberg and the plot to forge a climate warrior
  - [https://www.thetimes.co.uk/article/greta-thunberg-and-the-plot-to-forge-a-climate-warrior-9blhz9mjv?region=global](https://www.thetimes.co.uk/article/greta-thunberg-and-the-plot-to-forge-a-climate-warrior-9blhz9mjv?region=global)
  - date published: 2019-08-18 20:04:55+00:00

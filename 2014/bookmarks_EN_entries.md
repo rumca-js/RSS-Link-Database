@@ -16,6 +16,12 @@
  - user: rumpel
  - tags: ['sars', 'covid']
 
+## Microsoft says NSA spying hit trust in the cloud - iHLS
+ - [https://i-hls.com/archives/40964](https://i-hls.com/archives/40964)
+ - date published: 2014-10-17 09:06:52+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'nsa', 'cloud computing', 'technofeudalism', 'microsoft']
+
 ## 7 Propaganda Techniques Used on You Every Day
  - [https://www.youtube.com/watch?v=q8R9MDt4jEc](https://www.youtube.com/watch?v=q8R9MDt4jEc)
  - date published: 2014-10-15 16:09:26+00:00
@@ -57,6 +63,18 @@
  - date published: 2014-06-02 11:14:27+00:00
  - user: None
  - tags: ['corporatocracy', 'election', 'privacy', 'facebook']
+
+## Microsoft openly offered cloud data to the NSA
+ - [https://betanews.com/2014/05/16/microsoft-openly-offered-cloud-data-to-the-nsa/](https://betanews.com/2014/05/16/microsoft-openly-offered-cloud-data-to-the-nsa/)
+ - date published: 2014-05-16 09:07:48+00:00
+ - user: rumpel
+ - tags: ['nsa', 'privacy', 'bigbrother', 'backdoor', 'technofeudalism', 'manufacturing consent', 'bigtech', 'microsoft']
+
+## Microsoft openly offered cloud data to support NSA PRISM programme | ITProPortal
+ - [https://web.archive.org/web/20190421070310/https://www.itproportal.com/2014/05/14/microsoft-openly-offered-cloud-data-fbi-and-nsa/](https://web.archive.org/web/20190421070310/https://www.itproportal.com/2014/05/14/microsoft-openly-offered-cloud-data-fbi-and-nsa/)
+ - date published: 2014-05-14 09:05:44+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'prism', 'nsa', 'privacy', 'bigbrother', 'bigtech', 'microsoft']
 
 ## Why Science Does Not Disprove God
  - [https://time.com/77676/why-science-does-not-disprove-god/](https://time.com/77676/why-science-does-not-disprove-god/)

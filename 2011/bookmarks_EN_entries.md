@@ -1,3 +1,9 @@
+## Microsoft: We can remotely delete Windows 8 apps | Computerworld
+ - [https://www.computerworld.com/article/2732767/microsoft--we-can-remotely-delete-windows-8-apps.html](https://www.computerworld.com/article/2732767/microsoft--we-can-remotely-delete-windows-8-apps.html)
+ - date published: 2011-12-08 08:37:03+00:00
+ - user: rumpel
+ - tags: ['technofeudalism', 'windows']
+
 ## More shell, less egg
  - [http://www.leancrew.com/all-this/2011/12/more-shell-less-egg/](http://www.leancrew.com/all-this/2011/12/more-shell-less-egg/)
  - date published: 2011-12-04 13:57:34+00:00

@@ -34,6 +34,12 @@
  - user: None
  - tags: ['democracy']
 
+## Microsoft shares Windows 10 telemetry data with third parties [Updated]
+ - [https://betanews.com/2016/11/24/microsoft-shares-windows-10-telemetry-data-with-third-parties/](https://betanews.com/2016/11/24/microsoft-shares-windows-10-telemetry-data-with-third-parties/)
+ - date published: 2016-11-24 08:54:13+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'telemetry', 'privacy', 'windows', 'microsoft']
+
 ## When It Comes to Fake News, the U.S. Government Is the Biggest Culprit
  - [https://www.rutherford.org/publications_resources/john_whiteheads_commentary/when_it_comes_to_fake_news_the_u.s._government_is_the_biggest_culprit](https://www.rutherford.org/publications_resources/john_whiteheads_commentary/when_it_comes_to_fake_news_the_u.s._government_is_the_biggest_culprit)
  - date published: 2016-11-21 15:16:47+00:00
@@ -106,6 +112,12 @@
  - user: rumpel
  - tags: ['co2', 'climate change', 'pollution']
 
+## With Windows 10, Microsoft Blatantly Disregards User Choice and Privacy: A Deep Dive | Electronic Frontier Foundation
+ - [https://www.eff.org/deeplinks/2016/08/windows-10-microsoft-blatantly-disregards-user-choice-and-privacy-deep-dive](https://www.eff.org/deeplinks/2016/08/windows-10-microsoft-blatantly-disregards-user-choice-and-privacy-deep-dive)
+ - date published: 2016-08-17 08:55:28+00:00
+ - user: rumpel
+ - tags: ['privacy', 'technofeudalism', 'windows', 'microsoft']
+
 ## The Left’s New Weapon: ‘Diversity and Inclusion’
  - [https://www.lifezette.com/2016/07/lefts-new-weapon-diversity-inclusion/](https://www.lifezette.com/2016/07/lefts-new-weapon-diversity-inclusion/)
  - date published: 2016-07-14 15:47:42+00:00
@@ -141,6 +153,12 @@
  - date published: 2016-06-01 11:21:53+00:00
  - user: rumpel
  - tags: ['slave labour', 'hardware', 'smartphone']
+
+## 'Windows 10 nagware: You can't click X. Make a date OR ELSE' • The Register
+ - [https://www.theregister.com/2016/06/01/windows_10_nagware_no_way_out/](https://www.theregister.com/2016/06/01/windows_10_nagware_no_way_out/)
+ - date published: 2016-06-01 08:40:45+00:00
+ - user: rumpel
+ - tags: ['technofeudalism', 'windows']
 
 ## Social Autopsy! - Ending Anonymity Online [BAD IDEA]
  - [https://www.youtube.com/watch?v=6SARo5HtjkQ](https://www.youtube.com/watch?v=6SARo5HtjkQ)
@@ -201,6 +219,12 @@
  - date published: 2016-01-28 10:27:05+00:00
  - user: None
  - tags: ['aaron swartz']
+
+## Microsoft may be collecting more data than initially thought - gHacks Tech News
+ - [https://www.ghacks.net/2016/01/05/microsoft-may-be-collecting-more-data-than-initially-thought/](https://www.ghacks.net/2016/01/05/microsoft-may-be-collecting-more-data-than-initially-thought/)
+ - date published: 2016-01-05 08:57:01+00:00
+ - user: rumpel
+ - tags: ['privacy', 'windows', 'microsoft', 'telemetry']
 
 ## Feminism: How the Rockefellers Re-Engineered Women and Why
  - [https://humansbefree.com/2016/01/feminism-how-the-rockefellers-re-engineered-women-and-why.html](https://humansbefree.com/2016/01/feminism-how-the-rockefellers-re-engineered-women-and-why.html)

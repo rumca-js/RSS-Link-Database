@@ -8,7 +8,7 @@
  - [https://ithardware.pl/aktualnosci/ue_planuje_wymusic_akceptacje_cyfrowego_euro_i_bezgotowkowa_przyszlosc-26438.html](https://ithardware.pl/aktualnosci/ue_planuje_wymusic_akceptacje_cyfrowego_euro_i_bezgotowkowa_przyszlosc-26438.html)
  - date published: 2023-03-22 09:02:40+00:00
  - user: rumpel
- - tags: ['digital money', 'cbdc', 'european union']
+ - tags: ['cbdc', 'tech control', 'european union', 'digital money']
 
 ## Trzecia rocznica pandemii. Koszty promocji i nazwiska reklamujących szczepionki - Gazeta Trybunalska
  - [https://gazetatrybunalska.info/2023/03/trzecia-rocznica-pandemii-koszty-promocji-i-nazwiska-reklamujacych-szczepionki/](https://gazetatrybunalska.info/2023/03/trzecia-rocznica-pandemii-koszty-promocji-i-nazwiska-reklamujacych-szczepionki/)
@@ -272,7 +272,7 @@
  - [https://tvn24.pl/polska/policja-znowu-kupuje-cellebrite-czym-jest-ta-izraelska-technologia-szpiegowska-6624777?source=rss](https://tvn24.pl/polska/policja-znowu-kupuje-cellebrite-czym-jest-ta-izraelska-technologia-szpiegowska-6624777?source=rss)
  - date published: 2023-01-11 16:08:10+00:00
  - user: rumpel
- - tags: ['privacy', 'poland', 'cellebrite', 'surveillance']
+ - tags: ['surveillance', 'tech control', 'privacy', 'poland', 'cellebrite']
 
 ## Szokujące ustalenia prokuratury w sprawie księdza pedofila. Gdyby bp Skworc reagował, udałoby się uniknąć wielu dramatów
  - [https://www.onet.pl/informacje/onetwiadomosci/szokujace-ustalenia-prokuratury-w-sprawie-ksiedza-pedofila-nie-poniosl-kary/yns502l,79cfc278](https://www.onet.pl/informacje/onetwiadomosci/szokujace-ustalenia-prokuratury-w-sprawie-ksiedza-pedofila-nie-poniosl-kary/yns502l,79cfc278)
@@ -290,7 +290,7 @@
  - [https://www.instalki.pl/aktualnosci/bezpieczenstwo/57671-inwigilacja-internet-suzby-polska-ue-prawo.html](https://www.instalki.pl/aktualnosci/bezpieczenstwo/57671-inwigilacja-internet-suzby-polska-ue-prawo.html)
  - date published: 2023-01-11 14:01:11.645010+00:00
  - user: rumpel
- - tags: ['surveillance', 'poland']
+ - tags: ['surveillance', 'tech control', 'poland']
 
 ## Zawartość „chmury”, komunikatorów, usunięte treści. Nowa policyjna broń w walce z przestępczością?
  - [https://www.rmf24.pl/fakty/news-zawartosc-chmury-komunikatorow-usuniete-tresci-nowa-policyjn,nId,6527601#crp_state=1](https://www.rmf24.pl/fakty/news-zawartosc-chmury-komunikatorow-usuniete-tresci-nowa-policyjn,nId,6527601#crp_state=1)

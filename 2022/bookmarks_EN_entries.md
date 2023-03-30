@@ -1328,7 +1328,7 @@
  - [https://reclaimthenet.org/eu-court-orders-google-to-remove-manifestly-inaccurate-information/](https://reclaimthenet.org/eu-court-orders-google-to-remove-manifestly-inaccurate-information/)
  - date published: 2022-12-09 19:50:45+00:00
  - user: None
- - tags: $tags
+ - tags: ['disinformation', 'moderation', 'tech control', 'misinformation', 'censorship', 'google']
 
 ## Win for privacy: Facebook tracking is illegal in Europe
  - [https://tutanota.com/blog/posts/facebook-tracking-business-model-illegal-europe/](https://tutanota.com/blog/posts/facebook-tracking-business-model-illegal-europe/)
@@ -1922,7 +1922,7 @@
  - [https://techmonitor.ai/policy/online-safety-bill-changes-end-to-end-encryption](https://techmonitor.ai/policy/online-safety-bill-changes-end-to-end-encryption)
  - date published: 2022-11-29 06:50:23+00:00
  - user: rumpel
- - tags: ['surveillance', 'bigbrother', 'privacy']
+ - tags: ['surveillance', 'privacy', 'bigbrother', 'tech control']
 
 ## 5.4 million Twitter users' stolen data leaked online — more shared privately
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59656](https://www.codeproject.com/script/News/View.aspx?nwid=59656)
@@ -2126,7 +2126,7 @@
  - [https://techcrunch.com/2022/11/24/uk-online-safety-bill-css-e2ee/](https://techcrunch.com/2022/11/24/uk-online-safety-bill-css-e2ee/)
  - date published: 2022-11-24 06:47:13+00:00
  - user: rumpel
- - tags: ['surveillance', 'bigbrother', 'privacy']
+ - tags: ['surveillance', 'privacy', 'bigbrother', 'tech control']
 
 ## Videolan: Google refuses to take down or unlist domains with tons of malware
  - [https://twitter.com/videolan/status/1595524698351230981](https://twitter.com/videolan/status/1595524698351230981)
@@ -2486,7 +2486,7 @@
  - [https://blog.nlnetlabs.nl/open-source-software-vs-the-cyber-resilience-act/](https://blog.nlnetlabs.nl/open-source-software-vs-the-cyber-resilience-act/)
  - date published: 2022-11-14 14:33:31+00:00
  - user: rumpel
- - tags: ['open source', 'cyber resilience act']
+ - tags: ['open source', 'tech control', 'cyber resilience act']
 
 ## How Did George Soros Break the Bank of England?
  - [https://www.investopedia.com/ask/answers/08/george-soros-bank-of-england.asp](https://www.investopedia.com/ask/answers/08/george-soros-bank-of-england.asp)
@@ -2744,7 +2744,7 @@
  - [https://www.wired.com/story/chinas-digital-yuan-ecny-works-just-like-cash-surveillance/](https://www.wired.com/story/chinas-digital-yuan-ecny-works-just-like-cash-surveillance/)
  - date published: 2022-11-08 13:00:00+00:00
  - user: None
- - tags: ['digital identity', 'digital money', 'cbdc']
+ - tags: ['cbdc', 'digital identity', 'tech control', 'digital money']
 
 ## Bill Clinton laughs off his relationship with Jeffrey Epstein and refuses to answer questions
  - [https://www.dailymail.co.uk/news/article-11401025/Bill-Clinton-laughs-relationship-Jeffrey-Epstein-refuses-answer-questions.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11401025/Bill-Clinton-laughs-relationship-Jeffrey-Epstein-refuses-answer-questions.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -3542,7 +3542,7 @@
  - [https://gizmodo.com/irans-digital-surveillance-tools-exposed-in-leak-siam-1849715382](https://gizmodo.com/irans-digital-surveillance-tools-exposed-in-leak-siam-1849715382)
  - date published: 2022-10-28 16:30:00+00:00
  - user: None
- - tags: ['surveillance', 'iran', 'bigbrother']
+ - tags: ['surveillance', 'tech control', 'privacy', 'bigbrother', 'iran']
 
 ## COVID-19 pandemic 'likely' originated with Chinese lab leak, Senate Republican report finds
  - [https://www.foxnews.com/politics/covid-19-pandemic-likely-originated-chinese-lab-leak-senate-republican-report-finds](https://www.foxnews.com/politics/covid-19-pandemic-likely-originated-chinese-lab-leak-senate-republican-report-finds)
@@ -4028,7 +4028,7 @@
  - [https://www.internetsociety.org/blog/2022/10/the-eus-proposed-cyber-resilience-act-will-damage-the-open-source-ecosystem/](https://www.internetsociety.org/blog/2022/10/the-eus-proposed-cyber-resilience-act-will-damage-the-open-source-ecosystem/)
  - date published: 2022-10-24 19:03:22+00:00
  - user: rumpel
- - tags: ['bigbrother', 'cyber resilience act', 'open source']
+ - tags: ['tech control', 'bigbrother', 'open source', 'cyber resilience act']
 
 ## Kids who play video games score higher on brain function tests
  - [https://www.theverge.com/2022/10/24/23420502/video-game-kid-brain-function-fmri](https://www.theverge.com/2022/10/24/23420502/video-game-kid-brain-function-fmri)
@@ -6254,7 +6254,7 @@
  - [https://www.techradar.com/news/the-eu-has-had-enough-of-smart-devices-with-half-baked-security/](https://www.techradar.com/news/the-eu-has-had-enough-of-smart-devices-with-half-baked-security/)
  - date published: 2022-09-16 14:02:17+00:00
  - user: None
- - tags: $tags
+ - tags: ['cyber resilience act']
 
 ## YouTube is turning on the money hose for Shorts — and taking on TikTok for real
  - [https://www.theverge.com/2022/9/16/23356279/youtube-shorts-monetization-ads-partner-program-tiktok](https://www.theverge.com/2022/9/16/23356279/youtube-shorts-monetization-ads-partner-program-tiktok)
@@ -6379,12 +6379,6 @@
 ## TikTok won't commit to stopping US data flows to China
  - [https://www.cnn.com/2022/09/14/tech/tiktok-china-data/index.html](https://www.cnn.com/2022/09/14/tech/tiktok-china-data/index.html)
  - date published: 2022-09-14 23:29:34+00:00
- - user: None
- - tags: $tags
-
-## Google is finally rolling out Play Store reviews tailored to your device
- - [https://www.theverge.com/2022/9/14/23353784/google-play-store-device-type-specific-reviews](https://www.theverge.com/2022/9/14/23353784/google-play-store-device-type-specific-reviews)
- - date published: 2022-09-14 22:39:21+00:00
  - user: None
  - tags: $tags
 
@@ -7910,7 +7904,7 @@
  - [https://www.eff.org/deeplinks/2022/08/uks-online-safety-bill-attacks-free-speech-and-encryption](https://www.eff.org/deeplinks/2022/08/uks-online-safety-bill-attacks-free-speech-and-encryption)
  - date published: 2022-08-05 06:49:00+00:00
  - user: rumpel
- - tags: ['surveillance', 'bigbrother', 'england', 'privacy']
+ - tags: ['surveillance', 'tech control', 'england', 'privacy', 'bigbrother']
 
 ## The OG Social Network: Other People’s Websites - Jim Nielsen’s Blog
  - [https://blog.jim-nielsen.com/2022/other-peoples-websites/](https://blog.jim-nielsen.com/2022/other-peoples-websites/)
@@ -9794,7 +9788,7 @@
  - [https://www.euractiv.com/section/digital/news/macron-still-wants-to-end-online-anonymity/](https://www.euractiv.com/section/digital/news/macron-still-wants-to-end-online-anonymity/)
  - date published: 2022-04-13 06:44:27+00:00
  - user: rumpel
- - tags: ['bigbrother', 'france', 'anonymity', 'privacy']
+ - tags: ['tech control', 'france', 'privacy', 'bigbrother', 'anonymity']
 
 ## What Le Corbusier got right about office space | Tim Harford
  - [https://timharford.com/2022/04/what-le-corbusier-got-right-about-office-space/](https://timharford.com/2022/04/what-le-corbusier-got-right-about-office-space/)
@@ -10034,7 +10028,7 @@
  - [https://reclaimthenet.org/world-government-summit-speculates-on-digital-money/](https://reclaimthenet.org/world-government-summit-speculates-on-digital-money/)
  - date published: 2022-04-03 15:06:29+00:00
  - user: rumpel
- - tags: ['wef', 'world economic forum', 'digital money', 'cdbc']
+ - tags: ['tech control', 'world economic forum', 'cdbc', 'digital money', 'wef']
 
 ## The story behind creepy-as-hell ‘milk bath’ flyers
  - [https://nypost.com/2017/12/22/the-story-behind-creepy-as-hell-milk-bath-flyers/](https://nypost.com/2017/12/22/the-story-behind-creepy-as-hell-milk-bath-flyers/)
@@ -10166,7 +10160,7 @@
  - [https://edri.org/our-work/leaked-opinion-of-the-commission-sets-off-alarm-bells-for-mass-surveillance-of-private-communications/](https://edri.org/our-work/leaked-opinion-of-the-commission-sets-off-alarm-bells-for-mass-surveillance-of-private-communications/)
  - date published: 2022-03-24 17:08:26.649240+00:00
  - user: Thomas Pain
- - tags: $tags
+ - tags: ['surveillance', 'bigbrother', 'tech control', 'edri']
 
 ## “Protestware”: A Slippery Slope | codeshaunted
  - [https://codeshaunted.com/2022/03/23/protestware-a-slippery-slope.html](https://codeshaunted.com/2022/03/23/protestware-a-slippery-slope.html)

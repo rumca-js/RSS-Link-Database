@@ -310,6 +310,12 @@
  - user: None
  - tags: ['all time', 'blackrock']
 
+## Microsoft's Windows 10 has permission to spy on you
+ - [https://www.techworm.net/2014/10/microsofts-windows-10-permission-watch-every-move.html](https://www.techworm.net/2014/10/microsofts-windows-10-permission-watch-every-move.html)
+ - date published: 2018-05-10 09:02:08+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'privacy', 'windows', 'microsoft']
+
 ## The Facebook and Cambridge Analytica scandal, explained with a simple diagram
  - [https://www.vox.com/policy-and-politics/2018/3/23/17151916/facebook-cambridge-analytica-trump-diagram](https://www.vox.com/policy-and-politics/2018/3/23/17151916/facebook-cambridge-analytica-trump-diagram)
  - date published: 2018-05-02 11:10:30+00:00
@@ -405,6 +411,12 @@
  - date published: 2018-03-21 13:26:10+00:00
  - user: rumpel
  - tags: ['programming', 'gcc']
+
+## Windows 10: Microsoft is looking to force people to use its Edge browser
+ - [https://www.theguardian.com/technology/2018/mar/19/windows-10-microsoft-force-people-edge-browser-windows-mail-chrome-firefox](https://www.theguardian.com/technology/2018/mar/19/windows-10-microsoft-force-people-edge-browser-windows-mail-chrome-firefox)
+ - date published: 2018-03-19 12:46:36+00:00
+ - user: rumpel
+ - tags: ['technofeudalism', 'windows', 'microsoft']
 
 ## Revealed: 50 million Facebook profiles harvested for Cambridge Analytica in major data breach
  - [https://www.theguardian.com/news/2018/mar/17/cambridge-analytica-facebook-influence-us-election](https://www.theguardian.com/news/2018/mar/17/cambridge-analytica-facebook-influence-us-election)

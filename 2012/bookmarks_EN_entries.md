@@ -74,17 +74,17 @@
  - [https://venturebeat.com/business/what-is-acta-and-why-are-thousands-of-europeans-protesting-it/](https://venturebeat.com/business/what-is-acta-and-why-are-thousands-of-europeans-protesting-it/)
  - date published: 2012-03-08 10:49:43+00:00
  - user: rumpel
- - tags: ['protest', 'privacy', 'surveillance', 'censorship', 'acta']
+ - tags: ['surveillance', 'tech control', 'protest', 'privacy', 'censorship', 'acta']
 
 ## Acta protests: Thousands take to streets across Europe - BBC News
  - [https://www.bbc.com/news/technology-16999497](https://www.bbc.com/news/technology-16999497)
  - date published: 2012-03-08 10:47:47+00:00
  - user: rumpel
- - tags: ['protest', 'privacy', 'surveillance', 'censorship', 'acta']
+ - tags: ['surveillance', 'tech control', 'protest', 'privacy', 'censorship', 'acta']
 
 ## EU countries sign unpopular anti-counterfeit treaty
  - [https://euobserver.com/rule-of-law/115043](https://euobserver.com/rule-of-law/115043)
  - date published: 2012-01-27 10:50:13+00:00
  - user: rumpel
- - tags: ['protest', 'privacy', 'surveillance', 'censorship', 'acta']
+ - tags: ['surveillance', 'tech control', 'protest', 'privacy', 'censorship', 'acta']
 

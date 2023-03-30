@@ -26,7 +26,7 @@
  - [https://bezprawnik.pl/wladza-sprawdzi-twojego-windowsa/](https://bezprawnik.pl/wladza-sprawdzi-twojego-windowsa/)
  - date published: 2020-12-18 13:07:40+00:00
  - user: rumpel
- - tags: ['surveillance', 'privacy', 'terrorism']
+ - tags: ['surveillance', 'privacy', 'terrorism', 'tech control']
 
 ## Izraleskie firmy zlokalizują każdego smartfona do 1 metra. Wykorzystując reklamy.
  - [https://www.androidowy.pl/izraleska-firma-zlokalizuje-kazdego-do-1-metra-wykorzystujac-reklamy/386/](https://www.androidowy.pl/izraleska-firma-zlokalizuje-kazdego-do-1-metra-wykorzystujac-reklamy/386/)
@@ -38,7 +38,7 @@
  - [https://www.money.pl/gospodarka/urzad-bedzie-blokowal-strony-internetowe-kolejna-granica-przekroczona-6582516203985472a.html](https://www.money.pl/gospodarka/urzad-bedzie-blokowal-strony-internetowe-kolejna-granica-przekroczona-6582516203985472a.html)
  - date published: 2020-12-04 07:04:19+00:00
  - user: None
- - tags: ['censorship', 'bigbrother', 'freedom', 'internet']
+ - tags: ['tech control', 'bigbrother', 'censorship', 'internet', 'freedom']
 
 ## Lekarz: Strategia testowania i izolowania jest samobójcza
  - [https://tarnogorski.info/pilne-kierownik-oddzia/](https://tarnogorski.info/pilne-kierownik-oddzia/)
@@ -86,7 +86,7 @@
  - [https://www.bankier.pl/wiadomosc/Ekspert-Rzad-w-ustawie-o-cyberbezpieczenstwie-wprowadza-cenzure-internetu-7964382.html](https://www.bankier.pl/wiadomosc/Ekspert-Rzad-w-ustawie-o-cyberbezpieczenstwie-wprowadza-cenzure-internetu-7964382.html)
  - date published: 2020-09-18 07:03:50+00:00
  - user: None
- - tags: ['free speech', 'censorship', 'government']
+ - tags: ['bigbrother', 'tech control', 'free speech', 'censorship']
 
 ## Chińscy hakerzy latami kontrolowali systemy TeamViewera – i nie tylko
  - [https://zaufanatrzeciastrona.pl/post/chinscy-hakerzy-latami-kontrolowali-systemy-teamviewera-i-nie-tylko/](https://zaufanatrzeciastrona.pl/post/chinscy-hakerzy-latami-kontrolowali-systemy-teamviewera-i-nie-tylko/)

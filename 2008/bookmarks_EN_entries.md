@@ -16,3 +16,9 @@
  - user: rumpel
  - tags: ['psychology', 'future', 'digital dementia', 'google']
 
+## NSA Backdoors in Crypto AG Ciphering Machines - Schneier on Security
+ - [https://www.schneier.com/blog/archives/2008/01/nsa_backdoors_i.html](https://www.schneier.com/blog/archives/2008/01/nsa_backdoors_i.html)
+ - date published: 2008-01-11 08:36:04+00:00
+ - user: rumpel
+ - tags: ['cryptography', 'backdoor', 'espionage', 'nsa']
+

@@ -4,6 +4,18 @@
  - user: rumpel
  - tags: ['climate science', 'climate change']
 
+## Recently Bought a Windows Computer? Microsoft Probably Has Your Encryption Key
+ - [https://theintercept.com/2015/12/28/recently-bought-a-windows-computer-microsoft-probably-has-your-encryption-key/](https://theintercept.com/2015/12/28/recently-bought-a-windows-computer-microsoft-probably-has-your-encryption-key/)
+ - date published: 2015-12-28 08:31:14+00:00
+ - user: rumpel
+ - tags: ['vulnerability', 'windows', 'backdoor', 'encryption']
+
+## Why Microsoft yanked its latest Windows 10 update download: It hijacked privacy settings • The Register
+ - [https://www.theregister.com/2015/11/25/windows_10_download_explained/](https://www.theregister.com/2015/11/25/windows_10_download_explained/)
+ - date published: 2015-11-25 08:58:29+00:00
+ - user: rumpel
+ - tags: ['privacy', 'windows', 'telemetry']
+
 ## A SARS-like cluster of circulating bat coronaviruses shows potential for human emergence
  - [https://www.nature.com/articles/nm.3985](https://www.nature.com/articles/nm.3985)
  - date published: 2015-11-09 06:52:24+00:00
@@ -52,6 +64,12 @@
  - user: None
  - tags: ['surveillance', 'nsa', 'privacy', 'bigbrother']
 
+## Even when told not to, Windows 10 just can’t stop talking to Microsoft | Ars Technica
+ - [https://arstechnica.com/information-technology/2015/08/even-when-told-not-to-windows-10-just-cant-stop-talking-to-microsoft/](https://arstechnica.com/information-technology/2015/08/even-when-told-not-to-windows-10-just-cant-stop-talking-to-microsoft/)
+ - date published: 2015-08-13 08:59:38+00:00
+ - user: rumpel
+ - tags: ['privacy', 'windows', 'telemetry']
+
 ## Memento Explanation by Christopher Nolan - True Genius - Must Watch
  - [https://www.youtube.com/watch?v=67e_jl4flpE](https://www.youtube.com/watch?v=67e_jl4flpE)
  - date published: 2015-08-12 20:25:02+00:00
@@ -63,6 +81,12 @@
  - date published: 2015-07-09 11:40:48+00:00
  - user: rumpel
  - tags: ['propaganda', 'pr', 'america']
+
+## Microsoft's new small print – how your personal data is (ab)used - European Digital Rights (EDRi)
+ - [https://edri.org/our-work/microsofts-new-small-print-how-your-personal-data-abused/](https://edri.org/our-work/microsofts-new-small-print-how-your-personal-data-abused/)
+ - date published: 2015-06-17 09:01:02+00:00
+ - user: rumpel
+ - tags: ['privacy', 'windows', 'microsoft', 'telemetry']
 
 ## 4 reasons YouTube still doesn't make a profit
  - [https://www.cbsnews.com/news/4-reasons-youtube-still-doesnt-make-a-profit/](https://www.cbsnews.com/news/4-reasons-youtube-still-doesnt-make-a-profit/)

@@ -56,7 +56,7 @@
  - [https://www.geekweek.pl/news/2019-10-07/francja-pierwszym-krajem-w-europie-ktory-wprowadzi-masowy-system-inwigilacji-ludzi/](https://www.geekweek.pl/news/2019-10-07/francja-pierwszym-krajem-w-europie-ktory-wprowadzi-masowy-system-inwigilacji-ludzi/)
  - date published: 2019-08-24 13:09:09+00:00
  - user: None
- - tags: ['india', 'bigbrother', 'corporatocracy', 'biometric', 'surveillance', 'facial recognition']
+ - tags: ['surveillance', 'tech control', 'biometric', 'facial recognition', 'bigbrother', 'india', 'corporatocracy']
 
 ## Oskarżenia pod adresem Grety Thunberg. „Stoją za nią PR-owcy i koncerny”
  - [https://energetyka24.com/klimat/oskarzenia-pod-adresem-grety-thunberg-stoja-za-nia-pr-owcy-i-koncerny](https://energetyka24.com/klimat/oskarzenia-pod-adresem-grety-thunberg-stoja-za-nia-pr-owcy-i-koncerny)

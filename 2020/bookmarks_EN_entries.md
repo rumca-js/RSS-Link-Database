@@ -226,6 +226,12 @@
  - user: None
  - tags: ['social credit', 'china']
 
+## Microsoft productivity score feature criticised as workplace surveillance | Microsoft | The Guardian
+ - [https://www.theguardian.com/technology/2020/nov/26/microsoft-productivity-score-feature-criticised-workplace-surveillance](https://www.theguardian.com/technology/2020/nov/26/microsoft-productivity-score-feature-criticised-workplace-surveillance)
+ - date published: 2020-11-26 08:49:28+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'windows', 'microsoft']
+
 ## "A grave mistake", Kenney apologizes for lockdown
  - [https://www.youtube.com/watch?v=ylTCTcSM09Y](https://www.youtube.com/watch?v=ylTCTcSM09Y)
  - date published: 2020-11-25 08:43:31+00:00
@@ -350,7 +356,7 @@
  - [https://m.gsmarena.com/eus_digital_service_act_will_allow_you_to_uninstall_bloatware-news-45578.php](https://m.gsmarena.com/eus_digital_service_act_will_allow_you_to_uninstall_bloatware-news-45578.php)
  - date published: 2020-10-10 18:35:47+00:00
  - user: None
- - tags: ['dsa', 'digital service act']
+ - tags: ['digital service act', 'dsa', 'tech control']
 
 ## While the Poor Get Sick, Bill Gates Just Gets Richer | The Nation
  - [https://www.thenation.com/article/economy/bill-gates-investments-covid/](https://www.thenation.com/article/economy/bill-gates-investments-covid/)
@@ -495,6 +501,12 @@
  - date published: 2020-09-01 22:02:49+00:00
  - user: rumpel
  - tags: ['woke', 'science', 'cancel culture', 'censorship', 'scienceisdead', 'race']
+
+## Google Meet, Microsoft Teams, Webex Privacy Issues - Consumer Reports
+ - [https://www.consumerreports.org/video-conferencing-services/videoconferencing-privacy-issues-google-microsoft-webex-a7383469308/](https://www.consumerreports.org/video-conferencing-services/videoconferencing-privacy-issues-google-microsoft-webex-a7383469308/)
+ - date published: 2020-08-30 08:50:38+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'webex', 'microsoft teams', 'privacy', 'google meet']
 
 ## The huge change coming to how you claim government benefits: Aussies will use new $250million facial recognition to access services
  - [https://www.dailymail.co.uk/news/article-8783517/Australian-government-introduces-250million-facial-recognition-access-Centrelink-benefits-dole.html](https://www.dailymail.co.uk/news/article-8783517/Australian-government-introduces-250million-facial-recognition-access-Centrelink-benefits-dole.html)

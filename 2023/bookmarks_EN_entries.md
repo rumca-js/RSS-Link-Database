@@ -1,3 +1,21 @@
+## Microsoft's Software Is Malware
+ - [https://www.gnu.org/proprietary/malware-microsoft.en.html](https://www.gnu.org/proprietary/malware-microsoft.en.html)
+ - date published: 2023-03-28 20:43:18+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'skype', 'malware', 'windows', 'vulnerability', 'microsoft']
+
+## Risk of Cardiac Death Tripled for Young Women Following AstraZeneca COVID-19 Vaccination: Study
+ - [https://www.theepochtimes.com/risk-of-cardiac-death-tripled-for-young-women-following-astrazeneca-covid-19-vaccination-study_5067350.html](https://www.theepochtimes.com/risk-of-cardiac-death-tripled-for-young-women-following-astrazeneca-covid-19-vaccination-study_5067350.html)
+ - date published: 2023-03-28 17:09:55+00:00
+ - user: rumpel
+ - tags: ['covid', 'vaccine']
+
+## AI could replace equivalent of 300 million jobs - report - BBC News
+ - [https://www.bbc.com/news/technology-65102150?utm_source=bankier.pl&utm_medium=content&utm_campaign=article](https://www.bbc.com/news/technology-65102150?utm_source=bankier.pl&utm_medium=content&utm_campaign=article)
+ - date published: 2023-03-28 12:33:11+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
+
 ## How the world is turning against social media
  - [https://www.theguardian.com/technology/2023/mar/28/techscape-france-tiktok-ban-facebook](https://www.theguardian.com/technology/2023/mar/28/techscape-france-tiktok-ban-facebook)
  - date published: 2023-03-28 10:53:33+00:00
@@ -26,7 +44,7 @@
  - [https://mullvad.net/en/chatcontrol](https://mullvad.net/en/chatcontrol)
  - date published: 2023-03-27 01:56:34+00:00
  - user: rumpel
- - tags: ['surveillance', 'chat control', 'privacy']
+ - tags: ['surveillance', 'chat control', 'privacy', 'tech control']
 
 ## AI Art is Inevitable
  - [https://www.youtube.com/watch?v=VsXYTunk7OY](https://www.youtube.com/watch?v=VsXYTunk7OY)
@@ -146,7 +164,7 @@
  - [https://www.youtube.com/watch?v=XP7Qx1FF1hA](https://www.youtube.com/watch?v=XP7Qx1FF1hA)
  - date published: 2023-03-21 08:31:05+00:00
  - user: rumpel
- - tags: ['linux', 'right to repair', 'open source']
+ - tags: ['open source', 'technofeudalism', 'right to repair', 'linux', 'corporatocracy']
 
 ## Stanford’s Alpaca shows that OpenAI may have a problem
  - [https://the-decoder.com/stanfords-alpaca-shows-that-openai-may-have-a-problem/](https://the-decoder.com/stanfords-alpaca-shows-that-openai-may-have-a-problem/)
@@ -159,6 +177,12 @@
  - date published: 2023-03-20 17:00:08+00:00
  - user: rumpel
  - tags: ['esg']
+
+## Hollywood braces for potential strike as writers begin high-stakes talks with studios | CNN Business
+ - [https://edition.cnn.com/2023/03/20/media/wga-hollywood-reliable-sources?utm_source=bankier.pl&utm_medium=content&utm_campaign=article](https://edition.cnn.com/2023/03/20/media/wga-hollywood-reliable-sources?utm_source=bankier.pl&utm_medium=content&utm_campaign=article)
+ - date published: 2023-03-20 12:36:41+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
 
 ## Docker apologizes for bungled scrapping of free org accounts • The Register
  - [https://www.theregister.com/2023/03/17/docker_free_teams_plan/](https://www.theregister.com/2023/03/17/docker_free_teams_plan/)
@@ -428,7 +452,7 @@
  - [https://mullvad.net/en/chatcontrol/campaign](https://mullvad.net/en/chatcontrol/campaign)
  - date published: 2023-03-10 14:25:48+00:00
  - user: rumpel
- - tags: ['surveillance', 'chat control', 'privacy']
+ - tags: ['surveillance', 'chat control', 'privacy', 'tech control']
 
 ## Women’s rights have gone ‘too far’, say majority of Gen Z and millennials, study shows
  - [https://www.telegraph.co.uk/news/2023/03/09/womens-rights-have-gone-far-say-majority-gen-z-millennials-study/](https://www.telegraph.co.uk/news/2023/03/09/womens-rights-have-gone-far-say-majority-gen-z-millennials-study/)
@@ -602,7 +626,7 @@
  - [https://berthub.eu/articles/posts/eu-cra-secure-coding-solution/](https://berthub.eu/articles/posts/eu-cra-secure-coding-solution/)
  - date published: 2023-03-03 15:47:02+00:00
  - user: rumpel
- - tags: ['open source', 'cyber resilience act']
+ - tags: ['open source', 'tech control', 'cyber resilience act']
 
 ## Aggro-culture: Farmers’ protest brings Brussels’ EU Quarter to a standstill – POLITICO
  - [https://www.politico.eu/article/belgium-farmer-protests-brussels-nitrogen-emissions/](https://www.politico.eu/article/belgium-farmer-protests-brussels-nitrogen-emissions/)
@@ -638,7 +662,7 @@
  - [https://tutanota.com/blog/posts/germany-against-client-side-scanning-csam](https://tutanota.com/blog/posts/germany-against-client-side-scanning-csam)
  - date published: 2023-03-02 15:08:10+00:00
  - user: rumpel
- - tags: ['surveillance', 'germany']
+ - tags: ['surveillance', 'tech control', 'germany']
 
 ## ChatGPT and the AI Apocalypse
  - [https://new.pythonforengineers.com/blog/ai-apopcalypse-more-like-blindsight-less-like-terminator/](https://new.pythonforengineers.com/blog/ai-apopcalypse-more-like-blindsight-less-like-terminator/)
@@ -758,7 +782,7 @@
  - [https://thehill.com/opinion/judiciary/3873943-yes-hate-speech-is-constitutionally-protected/](https://thehill.com/opinion/judiciary/3873943-yes-hate-speech-is-constitutionally-protected/)
  - date published: 2023-02-25 15:00:00+00:00
  - user: rumpel
- - tags: ['woke', 'cancel culture', 'hate speech', 'free speech']
+ - tags: ['woke', 'cancel culture', 'free speech', 'hate speech', 'newspeak']
 
 ## Signal says it'll shut down in UK if Online Safety Bill approved
  - [https://www.theregister.com/2023/02/25/signal_uk_online_safety_bill/](https://www.theregister.com/2023/02/25/signal_uk_online_safety_bill/)
@@ -891,6 +915,12 @@
  - date published: 2023-02-20 17:06:44+00:00
  - user: rumpel
  - tags: ['roald dahl']
+
+## AI is starting to pick who gets laid off
+ - [https://www.washingtonpost.com/technology/2023/02/20/layoff-algorithms/?utm_source=bankier.pl&utm_medium=content&utm_campaign=article](https://www.washingtonpost.com/technology/2023/02/20/layoff-algorithms/?utm_source=bankier.pl&utm_medium=content&utm_campaign=article)
+ - date published: 2023-02-20 12:34:16+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
 
 ## UK gov’t scheme flags Shakespeare, LOTR as ‘key texts’ for ‘white supremacists’ | TVP World
  - [https://tvpworld.com/66452162/uk-govt-scheme-flags-shakespeare-lotr-as-key-texts-for-white-supremacists](https://tvpworld.com/66452162/uk-govt-scheme-flags-shakespeare-lotr-as-key-texts-for-white-supremacists)
@@ -1346,7 +1376,7 @@
  - [https://mullvad.net/en/blog/2023/2/1/eu-chat-control-law-will-ban-open-source-operating-systems/](https://mullvad.net/en/blog/2023/2/1/eu-chat-control-law-will-ban-open-source-operating-systems/)
  - date published: 2023-02-01 18:36:14+00:00
  - user: rumpel
- - tags: ['privacy', 'chat control', 'surveillance']
+ - tags: ['surveillance', 'chat control', 'privacy', 'tech control']
 
 ## Apple: $52,000 Mac Pro Is Now Worth $1k
  - [https://ymcinema.com/2023/01/30/apple-your-52000-mac-pro-is-now-worths-1000/](https://ymcinema.com/2023/01/30/apple-your-52000-mac-pro-is-now-worths-1000/)
@@ -1598,7 +1628,7 @@
  - [https://devclass.com/2023/01/24/eus-proposed-ce-mark-for-software-could-have-dire-impact-on-open-source/](https://devclass.com/2023/01/24/eus-proposed-ce-mark-for-software-could-have-dire-impact-on-open-source/)
  - date published: 2023-01-27 05:00:00+00:00
  - user: rumpel
- - tags: ['open source', 'bigbrother', 'cyber resilience act']
+ - tags: ['bigbrother', 'open source', 'tech control', 'cyber resilience act']
 
 ## Sci-Hub: knowledge as a human right
  - [https://sci-hub.ru/](https://sci-hub.ru/)
@@ -1694,7 +1724,7 @@
  - [https://blog.opensource.org/what-is-the-cyber-resilience-act-and-why-its-important-for-open-source/](https://blog.opensource.org/what-is-the-cyber-resilience-act-and-why-its-important-for-open-source/)
  - date published: 2023-01-24 18:43:44+00:00
  - user: rumpel
- - tags: ['open source', 'cyber resilience act']
+ - tags: ['open source', 'tech control', 'cyber resilience act']
 
 ## Is AI the solution to search's problem?
  - [https://lucaserb.substack.com/p/brief-bear](https://lucaserb.substack.com/p/brief-bear)
@@ -2096,7 +2126,7 @@
  - [https://www.reuters.com/world/india/india-lets-banks-use-face-recognition-iris-scan-some-transactions-sources-2023-01-13/](https://www.reuters.com/world/india/india-lets-banks-use-face-recognition-iris-scan-some-transactions-sources-2023-01-13/)
  - date published: 2023-01-13 17:01:29+00:00
  - user: rumpel
- - tags: ['facial recognition', 'surveillance', 'bigbrother', 'india', 'corporatocracy', 'biometric']
+ - tags: ['surveillance', 'tech control', 'biometric', 'facial recognition', 'bigbrother', 'india', 'corporatocracy']
 
 ## We could stumble into AI catastrophe
  - [https://www.cold-takes.com/how-we-could-stumble-into-ai-catastrophe/](https://www.cold-takes.com/how-we-could-stumble-into-ai-catastrophe/)
@@ -2252,7 +2282,7 @@
  - [https://arstechnica.com/?p=1909128](https://arstechnica.com/?p=1909128)
  - date published: 2023-01-11 14:30:34+00:00
  - user: rumpel
- - tags: ['surveillance', 'bigbrother']
+ - tags: ['surveillance', 'facial recognition', 'bigbrother', 'tech control']
 
 ## FDA vaccine advisers 'disappointed' and 'angry' that early data about new Covid-19 booster shot wasn't presented for review last year | CNN
  - [https://edition.cnn.com/2023/01/11/health/moderna-bivalent-transparency/index.html](https://edition.cnn.com/2023/01/11/health/moderna-bivalent-transparency/index.html)

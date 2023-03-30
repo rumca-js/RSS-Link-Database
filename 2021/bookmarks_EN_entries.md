@@ -470,7 +470,7 @@
  - [https://www.abc.net.au/news/science/2021-11-30/online-bullying-trolling-identity-verification-legislation/100658084](https://www.abc.net.au/news/science/2021-11-30/online-bullying-trolling-identity-verification-legislation/100658084)
  - date published: 2021-11-29 07:33:20+00:00
  - user: rumpel
- - tags: ['bigtech', 'anonymity', 'privacy']
+ - tags: ['privacy', 'tech control', 'anonymity', 'bigtech']
 
 ## Inside Bohemian Grove, The Secret California Club For Powerful Men
  - [https://allthatsinteresting.com/bohemian-grove](https://allthatsinteresting.com/bohemian-grove)
@@ -560,7 +560,7 @@
  - [https://mailbox.org/en/post/chat-control-the-latest-eu-plans-to-outlaw-encryption-and-introduce-telecommunications-surveillance?nl](https://mailbox.org/en/post/chat-control-the-latest-eu-plans-to-outlaw-encryption-and-introduce-telecommunications-surveillance?nl)
  - date published: 2021-11-23 17:34:06.057843+00:00
  - user: Thomas Pain
- - tags: ['surveillance', 'chat control', 'privacy']
+ - tags: ['surveillance', 'chat control', 'privacy', 'tech control']
 
 ## Cis people benefit from gender-affirming healthcare, not just trans folk
  - [https://www.pinknews.co.uk/2021/11/19/gender-affirming-healthcare-cis-people-trans/](https://www.pinknews.co.uk/2021/11/19/gender-affirming-healthcare-cis-people-trans/)
@@ -1934,7 +1934,7 @@
  - [https://www.patrick-breyer.de/en/upcoming-vote-on-digital-services-act-in-juri-committee-pirate-mep-patrick-breyer-fears-massive-threats-to-fundamental-rights/?fbclid=IwAR3gQPfBLKxBUEsFuSI8PIFh4Rl5ghIW4oEtDPq_murNcmCLLwJ5qXSfsjI](https://www.patrick-breyer.de/en/upcoming-vote-on-digital-services-act-in-juri-committee-pirate-mep-patrick-breyer-fears-massive-threats-to-fundamental-rights/?fbclid=IwAR3gQPfBLKxBUEsFuSI8PIFh4Rl5ghIW4oEtDPq_murNcmCLLwJ5qXSfsjI)
  - date published: 2021-08-28 20:21:24+00:00
  - user: None
- - tags: ['surveillance', 'dsa', 'privacy', 'digital service act']
+ - tags: ['surveillance', 'tech control', 'digital service act', 'privacy', 'dsa']
 
 ## 🏡 Neil's Place - DoomPhone
  - [https://neilbostian.github.io/#/doomphone](https://neilbostian.github.io/#/doomphone)
@@ -2954,7 +2954,7 @@
  - [https://european-pirateparty.eu/parliament-approves-chatcontrol/](https://european-pirateparty.eu/parliament-approves-chatcontrol/)
  - date published: 2021-07-06 12:55:03+00:00
  - user: None
- - tags: ['surveillance', 'chat control', 'privacy']
+ - tags: ['surveillance', 'chat control', 'privacy', 'tech control']
 
 ## How Low Interest Rates Sent Institutions Like Blackrock Into Bidding Wars For Homes - Better Dwelling
  - [https://betterdwelling.com/how-low-interest-rates-sent-institutions-like-blackrock-into-bidding-wars-for-homes/](https://betterdwelling.com/how-low-interest-rates-sent-institutions-like-blackrock-into-bidding-wars-for-homes/)
@@ -3284,7 +3284,7 @@
  - [https://edri.org/our-work/european-parliament-confirms-new-online-censorship-powers/](https://edri.org/our-work/european-parliament-confirms-new-online-censorship-powers/)
  - date published: 2021-04-29 13:12:20+00:00
  - user: None
- - tags: ['terreg', 'censorship']
+ - tags: ['censorship', 'tech control', 'terreg']
 
 ## Why Google Should Stop Logging Contact-Tracing Data
  - [https://blog.appcensus.io/2021/04/27/why-google-should-stop-logging-contact-tracing-data/](https://blog.appcensus.io/2021/04/27/why-google-should-stop-logging-contact-tracing-data/)
@@ -3314,7 +3314,7 @@
  - [https://www.patrick-breyer.de/en/controversial-eu-anti-terror-internet-regulation-terreg-about-to-be-adopted/](https://www.patrick-breyer.de/en/controversial-eu-anti-terror-internet-regulation-terreg-about-to-be-adopted/)
  - date published: 2021-04-20 13:00:57+00:00
  - user: None
- - tags: ['terreg', 'censorship']
+ - tags: ['censorship', 'tech control', 'terreg']
 
 ## Shock Video: Children Being Paraded Across The Stage Urging Them To Pose For Cash At A Los Angeles Drag Club In The Middle Of The Night
  - [https://defiantamerica.com/shock-video-children-being-paraded-across-the-stage-urging-them-to-pose-for-cash-at-a-los-angeles-drag-club-in-the-middle-of-the-night/](https://defiantamerica.com/shock-video-children-being-paraded-across-the-stage-urging-them-to-pose-for-cash-at-a-los-angeles-drag-club-in-the-middle-of-the-night/)
@@ -3380,7 +3380,7 @@
  - [https://www.liberties.eu/en/stories/terrorist-content-regulation-open-letter-to-meps/43410](https://www.liberties.eu/en/stories/terrorist-content-regulation-open-letter-to-meps/43410)
  - date published: 2021-03-25 13:00:34+00:00
  - user: None
- - tags: ['terreg', 'moderation', 'censorship', 'free speech']
+ - tags: ['moderation', 'tech control', 'censorship', 'free speech', 'terreg']
 
 ## Covid coverage by the U.S. national media is an outlier, a study finds. - The New York Times
  - [https://www.nytimes.com/2021/03/24/world/covid-coverage-by-the-us-national-media-is-an-outlier-a-study-finds.html](https://www.nytimes.com/2021/03/24/world/covid-coverage-by-the-us-national-media-is-an-outlier-a-study-finds.html)

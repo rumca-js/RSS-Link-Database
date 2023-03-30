@@ -92,7 +92,7 @@
  - [https://www.polsatnews.pl/wiadomosc/2021-10-07/australia-rzad-chce-zakazac-anonimowych-komentarzy-media-spolecznosciowe-to-palac-tchorzy/](https://www.polsatnews.pl/wiadomosc/2021-10-07/australia-rzad-chce-zakazac-anonimowych-komentarzy-media-spolecznosciowe-to-palac-tchorzy/)
  - date published: 2021-10-07 20:22:14+00:00
  - user: None
- - tags: ['bigbrother', 'australia', 'privacy']
+ - tags: ['privacy', 'bigbrother', 'tech control', 'australia']
 
 ## Wyrok TSUE w sprawie Turowa. Polska musi płacić, inaczej KE zabezpieczy część pieniędzy z funduszy
  - [https://www.onet.pl/informacje/onetwiadomosci/kara-za-kopalnie-w-turowie-polska-musi-placic-jakie-dzialania-moze-podjac-ke/yw3yp46,79cfc278](https://www.onet.pl/informacje/onetwiadomosci/kara-za-kopalnie-w-turowie-polska-musi-placic-jakie-dzialania-moze-podjac-ke/yw3yp46,79cfc278)
@@ -146,7 +146,7 @@
  - [https://www.telepolis.pl/wiadomosci/wydarzenia/chatcontrol-unia-europejska-chce-kontrolowac-komunikatory-i-poczte](https://www.telepolis.pl/wiadomosci/wydarzenia/chatcontrol-unia-europejska-chce-kontrolowac-komunikatory-i-poczte)
  - date published: 2021-07-09 12:57:59+00:00
  - user: None
- - tags: ['security', 'chat control', 'privacy', 'surveillance']
+ - tags: ['surveillance', 'chat control', 'tech control', 'privacy', 'security']
 
 ## Hiszpania: zmiana płci od 14 roku życia bez ograniczeń
  - [https://portal-polski.pl/hiszpania-zmiana-plci-od-14-roku-zycia-bez-ograniczen/7199/](https://portal-polski.pl/hiszpania-zmiana-plci-od-14-roku-zycia-bez-ograniczen/7199/)
@@ -284,7 +284,7 @@
  - [https://www.komputerswiat.pl/aktualnosci/internet/rzad-nowelizuje-ustawe-o-cyberbezpieczenstwie-bedzie-mogl-wylaczac-serwisy/wnhl9hg](https://www.komputerswiat.pl/aktualnosci/internet/rzad-nowelizuje-ustawe-o-cyberbezpieczenstwie-bedzie-mogl-wylaczac-serwisy/wnhl9hg)
  - date published: 2021-01-29 13:08:11+00:00
  - user: None
- - tags: ['surveillance', 'bigbrother', 'privacy']
+ - tags: ['surveillance', 'privacy', 'bigbrother', 'tech control']
 
 ## Niemcy: Złamiesz kwarantannę - trafisz do obozu
  - [https://www.rp.pl/swiat/art8695031-niemcy-zlamiesz-kwarantanne-trafisz-do-obozu](https://www.rp.pl/swiat/art8695031-niemcy-zlamiesz-kwarantanne-trafisz-do-obozu)

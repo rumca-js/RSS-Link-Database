@@ -182,7 +182,7 @@
  - [https://www.bankier.pl/wiadomosc/Cyfrowy-paszport-i-rozpoznawanie-twarzy-Te-linie-lotnicze-maja-plan-na-zmniejszenie-kolejek-na-lotnisku-8444586.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Cyfrowy-paszport-i-rozpoznawanie-twarzy-Te-linie-lotnicze-maja-plan-na-zmniejszenie-kolejek-na-lotnisku-8444586.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date published: 2022-11-26 07:00:00+00:00
  - user: None
- - tags: ['digital identity', 'government control', 'digital passport']
+ - tags: ['digital passport', 'digital identity', 'tech control', 'government control']
 
 ## Chińskie kamery zakazane w USA i Wielkiej Brytanii. Są zamontowane w pięciu polskich ministerstwach
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29182047,chinskie-kamery-zakazane-w-usa-i-wielkiej-brytanii-sa-zamontowane.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29182047,chinskie-kamery-zakazane-w-usa-i-wielkiej-brytanii-sa-zamontowane.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -195,12 +195,6 @@
  - date published: 2022-11-13 09:00:01+00:00
  - user: None
  - tags: ['apple', 'monopoly', 'amazon']
-
-## "Kompletna systemowa porażka". Wybory parlamentarne w Berlinie do powtórki
- - [https://wydarzenia.interia.pl/zagranica/news-kompletna-systemowa-porazka-wybory-parlamentarne-w-berlinie-,nId,6406767](https://wydarzenia.interia.pl/zagranica/news-kompletna-systemowa-porazka-wybory-parlamentarne-w-berlinie-,nId,6406767)
- - date published: 2022-11-12 13:47:20+00:00
- - user: None
- - tags: $tags
 
 ## Windows 11 wyświetli jeszcze więcej reklam. Microsoft testuje cierpliwość użytkowników
  - [https://ithardware.pl/aktualnosci/windows_11_wyswietli_jeszcze_wiecej_reklam_microsoft_testuje_cierpliwosc_uzytkownikow-24307.html](https://ithardware.pl/aktualnosci/windows_11_wyswietli_jeszcze_wiecej_reklam_microsoft_testuje_cierpliwosc_uzytkownikow-24307.html)
@@ -700,12 +694,6 @@
  - user: None
  - tags: ['scienceisdead']
 
-## Słoweński parlament zadecydował. Pary jednopłciowe z prawem do zawierania małżeństw
- - [https://wydarzenia.interia.pl/zagranica/news-slowenski-parlament-zadecydowal-pary-jednoplciowe-z-prawem-d,nId,6328330](https://wydarzenia.interia.pl/zagranica/news-slowenski-parlament-zadecydowal-pary-jednoplciowe-z-prawem-d,nId,6328330)
- - date published: 2022-10-05 06:02:35+00:00
- - user: None
- - tags: $tags
-
 ## W Europie zaczyna się masowe bankructwo hoteli i restauracji
  - [https://www.wykop.pl/link/6845567/w-europie-zaczyna-sie-masowe-bankructwo-hoteli-i-restauracji/](https://www.wykop.pl/link/6845567/w-europie-zaczyna-sie-masowe-bankructwo-hoteli-i-restauracji/)
  - date published: 2022-10-04 20:10:01+00:00
@@ -1010,7 +998,7 @@
  - [https://ithardware.pl/aktualnosci/usa_przeznaczy_prawie_700_000_dolarow_na_szukanie_ekstremizmu_w_grach_wideo-23418.html](https://ithardware.pl/aktualnosci/usa_przeznaczy_prawie_700_000_dolarow_na_szukanie_ekstremizmu_w_grach_wideo-23418.html)
  - date published: 2022-09-21 09:24:10+00:00
  - user: None
- - tags: ['usa', 'surveillance', 'disinformation', 'bigbrother', 'misinformation', 'control']
+ - tags: ['surveillance', 'disinformation', 'tech control', 'misinformation', 'bigbrother', 'usa']
 
 ## Pod presją USA tureckie banki odcinają rosyjski system płatności Mir
  - [https://www.wykop.pl/link/6825921/pod-presja-usa-tureckie-banki-odcinaja-rosyjski-system-platnosci-mir/](https://www.wykop.pl/link/6825921/pod-presja-usa-tureckie-banki-odcinaja-rosyjski-system-platnosci-mir/)
@@ -1155,12 +1143,6 @@
  - date published: 2022-09-13 08:16:00+00:00
  - user: None
  - tags: ['china', 'bigbrother', 'media']
-
-## Google zmienia zasady udostępniania ocen i recenzji w Play Store
- - [https://ithardware.pl/aktualnosci/google_zmienia_zasady_udostepniania_ocen_i_recenzji_w_play_store-23254.html](https://ithardware.pl/aktualnosci/google_zmienia_zasady_udostepniania_ocen_i_recenzji_w_play_store-23254.html)
- - date published: 2022-09-12 22:50:40+00:00
- - user: None
- - tags: $tags
 
 ## Ciekawostka jak działa Google, a jak działa Bing...
  - [https://www.wykop.pl/link/6814873/ciekawostka-jak-dziala-google-a-jak-dziala-bing/](https://www.wykop.pl/link/6814873/ciekawostka-jak-dziala-google-a-jak-dziala-bing/)
