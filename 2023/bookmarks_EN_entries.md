@@ -2308,6 +2308,12 @@
  - user: rumpel
  - tags: ['covid', 'twitter', 'twitter files', 'bigtech', 'pfizer', 'censorship']
 
+## 'The Sheer Greed Is Obscene': Moderna Plans 4,000% Markup for Covid Vaccine
+ - [https://www.commondreams.org/news/moderna-vaccine-price-markup](https://www.commondreams.org/news/moderna-vaccine-price-markup)
+ - date published: 2023-01-10 21:07:44+00:00
+ - user: rumpel
+ - tags: ['covid', 'vaccine']
+
 ## Brazil riots trigger widespread content bans on Facebook, YouTube
  - [https://arstechnica.com/?p=1908844](https://arstechnica.com/?p=1908844)
  - date published: 2023-01-10 17:44:21+00:00

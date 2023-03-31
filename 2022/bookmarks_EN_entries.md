@@ -6382,6 +6382,12 @@
  - user: None
  - tags: $tags
 
+## Why We Question the Safety Profile of mRNA COVID-19 Vaccines
+ - [https://sensiblemed.substack.com/p/why-we-question-the-safety-of-covid](https://sensiblemed.substack.com/p/why-we-question-the-safety-of-covid)
+ - date published: 2022-09-14 21:05:17+00:00
+ - user: rumpel
+ - tags: ['covid', 'vaccine']
+
 ## A Virus That Can Cause Polio-Like Paralysis in Children Has Returned
  - [https://gizmodo.com/acute-flaccid-myelitis-enterovirus-d-68-cdc-2022-1849536384](https://gizmodo.com/acute-flaccid-myelitis-enterovirus-d-68-cdc-2022-1849536384)
  - date published: 2022-09-14 20:30:00+00:00
@@ -7834,6 +7840,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## LinkedIn Profiles Indicate 300 Current TikTok And ByteDance Employees Used To Work For Chinese State Media—And Some Still Do
+ - [https://www.forbes.com/sites/emilybaker-white/2022/08/10/bytedance-tiktok-china-state-media-propaganda/](https://www.forbes.com/sites/emilybaker-white/2022/08/10/bytedance-tiktok-china-state-media-propaganda/)
+ - date published: 2022-08-11 21:10:20+00:00
+ - user: rumpel
+ - tags: ['tiktok', 'china']
+
 ## Let websites framebust out of native apps | Holovaty.com
  - [https://www.holovaty.com/writing/framebust-native-apps/](https://www.holovaty.com/writing/framebust-native-apps/)
  - date published: 2022-08-11 13:17:39.757889+00:00
@@ -8637,6 +8649,12 @@
  - date published: 2022-06-18 06:58:37.529759+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## US TikTok User Data Has Been Repeatedly Accessed From China, Leaked Audio Shows
+ - [https://www.buzzfeednews.com/article/emilybakerwhite/tiktok-tapes-us-user-data-china-bytedance-access](https://www.buzzfeednews.com/article/emilybakerwhite/tiktok-tapes-us-user-data-china-bytedance-access)
+ - date published: 2022-06-17 21:11:37+00:00
+ - user: rumpel
+ - tags: ['tiktok', 'china']
 
 ## Vaccine transparency case is still not closed, despite EC’s claim
  - [https://corporateeurope.org/en/2022/06/vaccine-transparency-case-still-not-closed-despite-ecs-claim](https://corporateeurope.org/en/2022/06/vaccine-transparency-case-still-not-closed-despite-ecs-claim)
