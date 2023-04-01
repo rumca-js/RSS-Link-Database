@@ -1,3 +1,15 @@
+## Rekordowa liczba podróży prywatnymi odrzutowcami w Europie
+ - [https://forsal.pl/transport/aktualnosci/artykuly/8692131,rekordowa-liczba-podrozy-prywatnymi-odrzutowcami-w-europie.html](https://forsal.pl/transport/aktualnosci/artykuly/8692131,rekordowa-liczba-podrozy-prywatnymi-odrzutowcami-w-europie.html)
+ - date published: 2023-03-31 11:57:37+00:00
+ - user: rumpel
+ - tags: ['climate change', 'billionaires']
+
+## Będzie nowy obowiązek dla firm. Chodzi o ochronę środowiska
+ - [https://www.bankier.pl/wiadomosc/Bedzie-nowy-obowiazek-dla-firm-Chodzi-o-ochrone-srodowiska-8515222.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Bedzie-nowy-obowiazek-dla-firm-Chodzi-o-ochrone-srodowiska-8515222.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - date published: 2023-03-31 07:00:00+00:00
+ - user: rumpel
+ - tags: ['esg']
+
 ## Wielka Brytania: Parlament zakazał modlitwy przed ośrodkami aborcyjnymi | Niedziela.pl
  - [https://www.niedziela.pl/artykul/90162/Wielka-Brytania-Parlament-zakazal](https://www.niedziela.pl/artykul/90162/Wielka-Brytania-Parlament-zakazal)
  - date published: 2023-03-26 19:40:07+00:00
@@ -51,6 +63,12 @@
  - date published: 2023-03-08 23:29:25.319597+00:00
  - user: rumpel
  - tags: ['france', 'protest']
+
+## Inwigilacja Pegasusem. PiS: jest kontrola sądu. Tłumaczymy, dlaczego to iluzja  - Konkret24
+ - [https://konkret24.tvn24.pl/polityka/inwigilacja-pegasusem-pis-jest-kontrola-sadu-tlumaczymy-dlaczego-to-iluzja-6805222](https://konkret24.tvn24.pl/polityka/inwigilacja-pegasusem-pis-jest-kontrola-sadu-tlumaczymy-dlaczego-to-iluzja-6805222)
+ - date published: 2023-03-08 06:58:37+00:00
+ - user: rumpel
+ - tags: ['bigbrother', 'surveillance', 'privacy', 'pegasus']
 
 ## 19 lekarzy i naukowców stanie przed sądem w Poznaniu. Chodzi o COVID-19 | Głos Wielkopolski
  - [https://gloswielkopolski.pl/19-lekarzy-i-naukowcow-stanie-przed-sadem-w-poznaniu-chodzi-o-covid19/ar/c14-17330665](https://gloswielkopolski.pl/19-lekarzy-i-naukowcow-stanie-przed-sadem-w-poznaniu-chodzi-o-covid19/ar/c14-17330665)

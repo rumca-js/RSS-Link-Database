@@ -1,3 +1,57 @@
+## Italian privacy regulator bans ChatGPT
+ - [https://www.politico.eu/article/italian-privacy-regulator-bans-chatgpt/](https://www.politico.eu/article/italian-privacy-regulator-bans-chatgpt/)
+ - date published: 2023-03-31 10:49:15+00:00
+ - user: rumpel
+ - tags: ['chatgpt', 'artificial intelligence']
+
+## Meta wants EU users to apply for permission to opt out of data collection
+ - [https://arstechnica.com/tech-policy/2023/03/facebook-gets-to-decide-whether-eu-users-can-object-to-invasive-targeted-ads/](https://arstechnica.com/tech-policy/2023/03/facebook-gets-to-decide-whether-eu-users-can-object-to-invasive-targeted-ads/)
+ - date published: 2023-03-31 07:43:09+00:00
+ - user: rumpel
+ - tags: ['privacy', 'meta', 'surveillance', 'technofeudalism', 'bigtech']
+
+## Gmail is killing independent email
+ - [http://www.igregious.com/2023/03/gmail-is-breaking-email.html](http://www.igregious.com/2023/03/gmail-is-breaking-email.html)
+ - date published: 2023-03-31 00:37:41+00:00
+ - user: rumpel
+ - tags: ['google', 'technofeudalism', 'selfhost', 'corporatocracy']
+
+## How Intelligence Agencies Infiltrated Social Media Companies
+ - [https://www.youtube.com/watch?v=p1GONgRrdKs](https://www.youtube.com/watch?v=p1GONgRrdKs)
+ - date published: 2023-03-30 18:46:39+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'twitter; twitter files', 'bigbrother', 'censorship', 'social media']
+
+## State Treasurers Reject ESG: You Should Too | Derek Kreifels | EP 344
+ - [https://www.youtube.com/watch?v=EwGz8Ab2VB8](https://www.youtube.com/watch?v=EwGz8Ab2VB8)
+ - date published: 2023-03-30 15:00:14+00:00
+ - user: rumpel
+ - tags: ['esg', 'blackrock']
+
+## Is hand coding becoming obsolete?
+ - [https://www.deusinmachina.net/p/how-we-code-is-changing](https://www.deusinmachina.net/p/how-we-code-is-changing)
+ - date published: 2023-03-30 12:02:56+00:00
+ - user: rumpel
+ - tags: ['programming']
+
+## The 'Insanely Broad' Restrict Act Could Ban Much More Than Just TikTok
+ - [https://www.vice.com/en/article/4a3ddb/restrict-act-insanely-broad-ban-tiktok-vpns](https://www.vice.com/en/article/4a3ddb/restrict-act-insanely-broad-ban-tiktok-vpns)
+ - date published: 2023-03-30 06:59:50+00:00
+ - user: rumpel
+ - tags: ['restrict act', 'tech control']
+
+## Belgian woman blames ChatGPT-like chatbot ELIZA for her husband’s suicide
+ - [https://interestingengineering.com/culture/belgian-woman-blames-chatgpt-like-chatbot-eliza-for-her-husbands-suicide](https://interestingengineering.com/culture/belgian-woman-blames-chatgpt-like-chatbot-eliza-for-her-husbands-suicide)
+ - date published: 2023-03-30 04:44:45+00:00
+ - user: rumpel
+ - tags: ['chatgpt', 'artificial intelligence']
+
+## 'Patriot Act on Steroids:' Conservatives Slam RESTRICT Act on Social Media
+ - [https://www.breitbart.com/tech/2023/03/29/patriot-act-on-steroids-conservatives-slam-restrict-act-on-social-media/](https://www.breitbart.com/tech/2023/03/29/patriot-act-on-steroids-conservatives-slam-restrict-act-on-social-media/)
+ - date published: 2023-03-29 06:04:09+00:00
+ - user: rumpel
+ - tags: ['restrict act', 'tech control']
+
 ## Microsoft's Software Is Malware
  - [https://www.gnu.org/proprietary/malware-microsoft.en.html](https://www.gnu.org/proprietary/malware-microsoft.en.html)
  - date published: 2023-03-28 20:43:18+00:00
@@ -69,6 +123,12 @@
  - date published: 2023-03-26 17:55:13+00:00
  - user: rumpel
  - tags: ['censorship', 'meta']
+
+## What to know about digital blackface in social media | CNN
+ - [https://edition.cnn.com/2023/03/26/us/digital-blackface-social-media-explainer-blake-cec/index.html](https://edition.cnn.com/2023/03/26/us/digital-blackface-social-media-explainer-blake-cec/index.html)
+ - date published: 2023-03-26 07:07:51+00:00
+ - user: rumpel
+ - tags: ['black lives matters', 'racism', 'woke', 'inequality']
 
 ## The Future is a Dead Mall - Decentraland and the Metaverse
  - [https://www.youtube.com/watch?v=EiZhdpLXZ8Q](https://www.youtube.com/watch?v=EiZhdpLXZ8Q)

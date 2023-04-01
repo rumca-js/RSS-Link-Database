@@ -982,12 +982,6 @@
  - user: None
  - tags: $tags
 
-## Nowy podatek dla parafii. Abp Jędraszewski wprowadza dziesięcinę. Rzecznik tłumaczy się Pismem Świętym
- - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28938913,nowy-podatek-dla-parafii-abp-jedraszewski-wprowadza-dziesiecine.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28938913,nowy-podatek-dla-parafii-abp-jedraszewski-wprowadza-dziesiecine.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
- - date published: 2022-09-21 19:19:00+00:00
- - user: None
- - tags: $tags
-
 ## Metawersum pogrąży Zuckerberga? CEO Meta stracił już 70 mld USD, notowania firmy lecą w dół
  - [https://ithardware.pl/aktualnosci/metawersum_pograzy_zuckerberga_ceo_meta_stracil_juz_70_mld_usd_notowania_firmy_leca_w_dol-23424.html](https://ithardware.pl/aktualnosci/metawersum_pograzy_zuckerberga_ceo_meta_stracil_juz_70_mld_usd_notowania_firmy_leca_w_dol-23424.html)
  - date published: 2022-09-21 12:20:20+00:00
@@ -1005,6 +999,12 @@
  - date published: 2022-09-21 08:26:01+00:00
  - user: None
  - tags: $tags
+
+## Europejska komisja oskarża PiS. Inwigilacja Brejzy Pegasusem kosztowała 20 mln zł - rp.pl
+ - [https://www.rp.pl/polityka/art37096721-europejska-komisja-oskarza-pis-inwigilacja-brejzy-pegasusem-kosztowala-20-mln-zl](https://www.rp.pl/polityka/art37096721-europejska-komisja-oskarza-pis-inwigilacja-brejzy-pegasusem-kosztowala-20-mln-zl)
+ - date published: 2022-09-21 06:57:44+00:00
+ - user: rumpel
+ - tags: ['bigbrother', 'surveillance', 'privacy', 'pegasus']
 
 ## Prof. Bralczyk broni „Murzyna”. TikTok usuwa jego wypowiedź - TrueStory
  - [https://truestory.pl/prof-bralczyk-broni-murzyna-tiktok-usuwa-jego-wypowiedz/](https://truestory.pl/prof-bralczyk-broni-murzyna-tiktok-usuwa-jego-wypowiedz/)
@@ -1480,6 +1480,12 @@
  - user: None
  - tags: ['google', 'privacy']
 
+## Pegasus, czyli jak Kaczyński zrobił idiotów z premiera, ministra i rzecznika OKO.press - OKO.press
+ - [https://oko.press/pegasus-czyli-jak-kaczynski-zrobil-idiotow-z-premiera-ministrow-i-rzecznika](https://oko.press/pegasus-czyli-jak-kaczynski-zrobil-idiotow-z-premiera-ministrow-i-rzecznika)
+ - date published: 2022-02-07 06:56:39+00:00
+ - user: rumpel
+ - tags: ['bigbrother', 'surveillance', 'privacy', 'pegasus']
+
 ## "Kanada: Stan wyjątkowy w stolicy Kanady. W związku z protestami ""konwoju wolności"""
  - [https://tvn24.pl/swiat/kanada-ottawa-stan-wyjatkowy-i-protesty-przeciwko-obowiazkowym-szczepieniom-i-obostrzeniom-5588250](https://tvn24.pl/swiat/kanada-ottawa-stan-wyjatkowy-i-protesty-przeciwko-obowiazkowym-szczepieniom-i-obostrzeniom-5588250)
  - date published: 2022-02-07 06:53:49+00:00
@@ -1496,7 +1502,7 @@
  - [https://www.instalki.pl/aktualnosci/internet/52287-negatywne-recenzje-na-mapach-google-konsekwencje.html?fbclid=IwAR0rfsYRy1xtTSvAzonuRifzd-YUKXvvk9QJEmxUSXNr-amWXtPMAlfjINM](https://www.instalki.pl/aktualnosci/internet/52287-negatywne-recenzje-na-mapach-google-konsekwencje.html?fbclid=IwAR0rfsYRy1xtTSvAzonuRifzd-YUKXvvk9QJEmxUSXNr-amWXtPMAlfjINM)
  - date published: 2022-02-06 21:31:13+00:00
  - user: rumpel
- - tags: ['wrongthink', 'google', 'corporatocracy', 'maps']
+ - tags: ['corporatocracy', 'google', 'maps', 'technofeudalism', 'wrongthink']
 
 ## Komiks "Maus" zakazany. Cenzura w USA - PAN OD KULTURY
  - [https://panodkultury.com.pl/komiksy/komiks-maus-zakazany-cenzura-w-usa/](https://panodkultury.com.pl/komiksy/komiks-maus-zakazany-cenzura-w-usa/)
@@ -1527,6 +1533,12 @@
  - date published: 2022-01-07 07:04:39+00:00
  - user: None
  - tags: ['covid', 'pfizer', 'fda', 'vaccine']
+
+## Posłowie PiS zaprzeczali lub wyśmiewali temat Pegasusa. Kaczyński potwierdził posiadanie - rp.pl
+ - [https://www.rp.pl/polityka/art19262671-poslowie-pis-zaprzeczali-lub-wysmiewali-temat-pegasusa-kaczynski-potwierdzil-posiadanie](https://www.rp.pl/polityka/art19262671-poslowie-pis-zaprzeczali-lub-wysmiewali-temat-pegasusa-kaczynski-potwierdzil-posiadanie)
+ - date published: 2022-01-07 06:57:17+00:00
+ - user: rumpel
+ - tags: ['bigbrother', 'surveillance', 'pegasus', 'privacy']
 
 ## Facebook zawiesil strone konfederacji bedzie pozew cenzura powraca
  - [https://wiadomosci.onet.pl/kraj/facebook-zawiesil-strone-konfederacji-bedzie-pozew-cenzura-powraca/pk4fkq1](https://wiadomosci.onet.pl/kraj/facebook-zawiesil-strone-konfederacji-bedzie-pozew-cenzura-powraca/pk4fkq1)

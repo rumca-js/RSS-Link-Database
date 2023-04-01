@@ -2684,7 +2684,7 @@
  - [https://www.theguardian.com/world/2021/jul/18/revealed-leak-uncovers-global-abuse-of-cyber-surveillance-weapon-nso-group-pegasus](https://www.theguardian.com/world/2021/jul/18/revealed-leak-uncovers-global-abuse-of-cyber-surveillance-weapon-nso-group-pegasus)
  - date published: 2021-07-18 21:55:29.750497+00:00
  - user: Thomas Pain
- - tags: ['israel', 'surveillance', 'pegasus', 'bigbrother', 'privacy']
+ - tags: ['pegasus', 'surveillance', 'bigbrother', 'israel', 'privacy']
 
 ## Inserting One Billion Rows in SQLite Under A Minute - blag
  - [https://avi.im/blag/2021/fast-sqlite-inserts/](https://avi.im/blag/2021/fast-sqlite-inserts/)

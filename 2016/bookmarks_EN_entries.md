@@ -88,6 +88,12 @@
  - user: rumpel
  - tags: ['clockwork orange', 'movies']
 
+## Pegasus (spyware) - Wikipedia
+ - [https://en.wikipedia.org/wiki/Pegasus_(spyware)](https://en.wikipedia.org/wiki/Pegasus_(spyware))
+ - date published: 2016-08-31 07:02:18+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'pegasus', 'israel']
+
 ## Artificial intelligence expedites breast cancer risk prediction
  - [https://www.sciencedaily.com/releases/2016/08/160829122106.htm](https://www.sciencedaily.com/releases/2016/08/160829122106.htm)
  - date published: 2016-08-29 07:22:08+00:00

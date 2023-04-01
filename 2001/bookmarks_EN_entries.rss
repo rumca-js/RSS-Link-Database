@@ -1,0 +1,20 @@
+
+<?xml version="1.0" encoding="UTF-8" ?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+        xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+        xmlns:webfeeds="http://webfeeds.org/rss/1.0"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
+<channel>
+  <title>RSS archive</title>
+  <atom:link href="https://renegat0x0.ddns.net" rel="self" type="application/rss+xml" />
+  <link>https://renegat0x0.ddns.net/</link>
+  <description>Link archive</description>
+  <language>en-US</language>
+<item><title>![CDATA[Surveillance Under the USA/PATRIOT Act | American Civil Liberties Union]]</title><description>![CDATA[Surveillance Under the USA/PATRIOT Act | American Civil Liberties Union]]</description><pubDate>2001-10-26 06:06:03+00:00</pubDate><link>https://www.aclu.org/other/surveillance-under-usapatriot-act</link></item><guid isPermaLink="false">https://www.aclu.org/other/surveillance-under-usapatriot-act</guid>
+<item><title>![CDATA[Patriot Act - Wikipedia]]</title><description>![CDATA[Patriot Act - Wikipedia]]</description><pubDate>2001-10-26 06:05:05+00:00</pubDate><link>https://en.wikipedia.org/wiki/Patriot_Act</link></item><guid isPermaLink="false">https://en.wikipedia.org/wiki/Patriot_Act</guid>
+
+</channel></rss>
