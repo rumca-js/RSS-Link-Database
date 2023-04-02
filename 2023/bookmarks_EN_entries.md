@@ -1,3 +1,9 @@
+## F**k Teams
+ - [https://www.youtube.com/watch?v=7ERH4LAAKjw](https://www.youtube.com/watch?v=7ERH4LAAKjw)
+ - date published: 2023-04-01 12:43:31+00:00
+ - user: rumpel
+ - tags: ['funny', 'programming']
+
 ## Italian privacy regulator bans ChatGPT
  - [https://www.politico.eu/article/italian-privacy-regulator-bans-chatgpt/](https://www.politico.eu/article/italian-privacy-regulator-bans-chatgpt/)
  - date published: 2023-03-31 10:49:15+00:00
