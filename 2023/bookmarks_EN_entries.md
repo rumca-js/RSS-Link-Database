@@ -1,3 +1,15 @@
+## Own your work
+ - [https://josem.co/own-your-work/](https://josem.co/own-your-work/)
+ - date published: 2023-04-02 14:00:07+00:00
+ - user: rumpel
+ - tags: ['selfhost']
+
+## Hidden - China's Flagship EVs are Exploding in Huge Numbers
+ - [https://www.youtube.com/watch?v=yOA7qKMcjcE](https://www.youtube.com/watch?v=yOA7qKMcjcE)
+ - date published: 2023-04-01 14:45:02+00:00
+ - user: rumpel
+ - tags: ['climate change', 'electric vehicles']
+
 ## F**k Teams
  - [https://www.youtube.com/watch?v=7ERH4LAAKjw](https://www.youtube.com/watch?v=7ERH4LAAKjw)
  - date published: 2023-04-01 12:43:31+00:00
