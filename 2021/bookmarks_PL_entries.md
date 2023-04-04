@@ -40,12 +40,6 @@
  - user: None
  - tags: ['covid', 'statistics']
 
-## Po szczepieniach możesz mieć większą szansę na ponowne infekcje COVID
- - [https://www.yahoo.com/lifestyle/youre-3-times-more-likely-171053710.html](https://www.yahoo.com/lifestyle/youre-3-times-more-likely-171053710.html)
- - date published: 2021-12-02 07:49:45+00:00
- - user: rumpel
- - tags: $tags
-
 ## Jaki szyfrowany komunikator wybrać? Lista współpracy z FBI może pomóc w podjęciu decyzji
  - [https://geekweek.interia.pl/technologia/news-jaki-szyfrowany-komunikator-wybrac-lista-wspolpracy-z-fbi-mo,nId,5679869](https://geekweek.interia.pl/technologia/news-jaki-szyfrowany-komunikator-wybrac-lista-wspolpracy-z-fbi-mo,nId,5679869)
  - date published: 2021-12-01 12:04:49+00:00
@@ -105,12 +99,6 @@
  - date published: 2021-09-01 12:58:18+00:00
  - user: rumpel
  - tags: ['jan6', 'facebook']
-
-## Progress Report: August 2021 - Asahi Linux
- - [https://asahilinux.org/2021/08/progress-report-august-2021/](https://asahilinux.org/2021/08/progress-report-august-2021/)
- - date published: 2021-08-15 13:39:48.546356+00:00
- - user: Thomas Pain
- - tags: $tags
 
 ## How does Go calculate len()..? – tpaschalis – software, systems
  - [https://tpaschalis.github.io/golang-len/](https://tpaschalis.github.io/golang-len/)

@@ -1,3 +1,21 @@
+## Saying Goodbye to GitHub – Ersei 'N Stuff
+ - [https://ersei.net/en/blog/bye-bye-github](https://ersei.net/en/blog/bye-bye-github)
+ - date published: 2023-04-03 05:04:25+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence', 'github']
+
+## How the U.S. Came to Use Spyware It Was Trying to Kill
+ - [https://www.nytimes.com/2023/04/02/us/politics/nso-contract-us-spy.html](https://www.nytimes.com/2023/04/02/us/politics/nso-contract-us-spy.html)
+ - date published: 2023-04-02 23:32:42+00:00
+ - user: rumpel
+ - tags: ['america', 'bigbrother', 'surveillance']
+
+## The Day Windows Died
+ - [https://thomasbandt.com/the-day-windows-died](https://thomasbandt.com/the-day-windows-died)
+ - date published: 2023-04-02 22:05:23+00:00
+ - user: rumpel
+ - tags: ['subscription', 'windows']
+
 ## Own your work
  - [https://josem.co/own-your-work/](https://josem.co/own-your-work/)
  - date published: 2023-04-02 14:00:07+00:00
@@ -15,6 +33,12 @@
  - date published: 2023-04-01 12:43:31+00:00
  - user: rumpel
  - tags: ['funny', 'programming']
+
+## Google, Amazon i Meta pogarszają swoje podstawowe produkty. Robią to celowo
+ - [https://businessinsider.com.pl/biznes/google-amazon-i-meta-pogarszaja-swoje-podstawowe-produkty-robia-to-celowo/8hqsn68](https://businessinsider.com.pl/biznes/google-amazon-i-meta-pogarszaja-swoje-podstawowe-produkty-robia-to-celowo/8hqsn68)
+ - date published: 2023-04-01 04:05:00+00:00
+ - user: rumpel
+ - tags: ['google', 'algorithms', 'meta', 'amazon', 'google search']
 
 ## Italian privacy regulator bans ChatGPT
  - [https://www.politico.eu/article/italian-privacy-regulator-bans-chatgpt/](https://www.politico.eu/article/italian-privacy-regulator-bans-chatgpt/)
@@ -40,6 +64,12 @@
  - user: rumpel
  - tags: ['surveillance', 'twitter; twitter files', 'bigbrother', 'censorship', 'social media']
 
+## Digital Euro to have built-in limitations, as Central Bank President says it will never be as private as cash
+ - [https://reclaimthenet.org/digital-euro-to-have-built-in-limitations](https://reclaimthenet.org/digital-euro-to-have-built-in-limitations)
+ - date published: 2023-03-30 16:22:24+00:00
+ - user: rumpel
+ - tags: ['digital money', 'tech control', 'cbdc']
+
 ## State Treasurers Reject ESG: You Should Too | Derek Kreifels | EP 344
  - [https://www.youtube.com/watch?v=EwGz8Ab2VB8](https://www.youtube.com/watch?v=EwGz8Ab2VB8)
  - date published: 2023-03-30 15:00:14+00:00
@@ -52,6 +82,12 @@
  - user: rumpel
  - tags: ['programming']
 
+## Germany opposes client-side scanning planned by EU
+ - [https://tutanota.com/blog/posts/eu-client-side-scanning](https://tutanota.com/blog/posts/eu-client-side-scanning)
+ - date published: 2023-03-30 10:53:05+00:00
+ - user: rumpel
+ - tags: ['privacy']
+
 ## The 'Insanely Broad' Restrict Act Could Ban Much More Than Just TikTok
  - [https://www.vice.com/en/article/4a3ddb/restrict-act-insanely-broad-ban-tiktok-vpns](https://www.vice.com/en/article/4a3ddb/restrict-act-insanely-broad-ban-tiktok-vpns)
  - date published: 2023-03-30 06:59:50+00:00
@@ -63,6 +99,12 @@
  - date published: 2023-03-30 04:44:45+00:00
  - user: rumpel
  - tags: ['chatgpt', 'artificial intelligence']
+
+## Judge finds Google destroyed evidence and repeatedly gave false info to court
+ - [https://arstechnica.com/tech-policy/2023/03/judge-finds-google-destroyed-evidence-and-repeatedly-gave-false-info-to-court/](https://arstechnica.com/tech-policy/2023/03/judge-finds-google-destroyed-evidence-and-repeatedly-gave-false-info-to-court/)
+ - date published: 2023-03-30 04:30:19+00:00
+ - user: rumpel
+ - tags: ['google']
 
 ## 'Patriot Act on Steroids:' Conservatives Slam RESTRICT Act on Social Media
  - [https://www.breitbart.com/tech/2023/03/29/patriot-act-on-steroids-conservatives-slam-restrict-act-on-social-media/](https://www.breitbart.com/tech/2023/03/29/patriot-act-on-steroids-conservatives-slam-restrict-act-on-social-media/)
@@ -93,6 +135,12 @@
  - date published: 2023-03-28 10:53:33+00:00
  - user: rumpel
  - tags: ['social media']
+
+## Patriot Act on steroids: anti-TikTok Trojan horse for censorship, surveillance
+ - [https://dossier.substack.com/p/the-patriot-act-on-steroids-dc-uniparty](https://dossier.substack.com/p/the-patriot-act-on-steroids-dc-uniparty)
+ - date published: 2023-03-28 01:55:53+00:00
+ - user: rumpel
+ - tags: ['tiktok', 'censorship', 'restrict act', 'surveillance']
 
 ## The FBI’s Contract to Buy Mass Internet Data
  - [https://www.vice.com/en/article/dy3z9a/fbi-bought-netflow-data-team-cymru-contract](https://www.vice.com/en/article/dy3z9a/fbi-bought-netflow-data-team-cymru-contract)
@@ -142,6 +190,12 @@
  - user: rumpel
  - tags: ['censorship', 'meta']
 
+## Polish immigrant who survived socialism warns ideology is infiltrating US: 'It can only be done from within'
+ - [https://www.foxnews.com/media/polish-immigrant-survived-socialism-ideology-infiltrating-us-done-within](https://www.foxnews.com/media/polish-immigrant-survived-socialism-ideology-infiltrating-us-done-within)
+ - date published: 2023-03-26 12:00:31+00:00
+ - user: rumpel
+ - tags: ['america', 'socialism']
+
 ## What to know about digital blackface in social media | CNN
  - [https://edition.cnn.com/2023/03/26/us/digital-blackface-social-media-explainer-blake-cec/index.html](https://edition.cnn.com/2023/03/26/us/digital-blackface-social-media-explainer-blake-cec/index.html)
  - date published: 2023-03-26 07:07:51+00:00
@@ -189,6 +243,12 @@
  - date published: 2023-03-24 15:04:47+00:00
  - user: rumpel
  - tags: ['privacy']
+
+## The world could be facing a dark future thanks to CBDCs
+ - [https://cointelegraph.com/news/the-world-could-be-facing-a-dark-future-thanks-to-cbdcs](https://cointelegraph.com/news/the-world-could-be-facing-a-dark-future-thanks-to-cbdcs)
+ - date published: 2023-03-24 06:21:32+00:00
+ - user: rumpel
+ - tags: ['digital money', 'tech control', 'cbdc']
 
 ## Statistical and Numerical Errors Made by the US Centers for Disease Control and Prevention During the COVID-19 Pandemic by Kelley Krohnert, Alyson Haslam, Tracy Beth Hoeg, Vinay Prasad :: SSRN
  - [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4381627](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4381627)
@@ -681,6 +741,12 @@
  - date published: 2023-03-05 00:37:56+00:00
  - user: rumpel
  - tags: ['fearmongering', 'covid', 'lockdown files']
+
+## Revenge DESTROYS Societies   Jordan Peterson on God  NOT  Punishing Cain
+ - [https://www.youtube.com/watch?v=0Zou9M4BhBs](https://www.youtube.com/watch?v=0Zou9M4BhBs)
+ - date published: 2023-03-05 00:00:00+00:00
+ - user: rumpel
+ - tags: ['jordan peterson', 'bible']
 
 ## Ring to Put Basic Security Features Behind a Paywall | PCMag
  - [https://www.pcmag.com/news/ring-will-put-basic-security-features-behind-paywall](https://www.pcmag.com/news/ring-will-put-basic-security-features-behind-paywall)
@@ -1184,7 +1250,7 @@
  - [https://www.youtube.com/watch?v=eWQGYpSoiYU](https://www.youtube.com/watch?v=eWQGYpSoiYU)
  - date published: 2023-02-13 15:56:28+00:00
  - user: rumpel
- - tags: $tags
+ - tags: ['bigtech', 'tweeter files', 'bigbrother', 'censorship', 'moderation']
 
 ## The FBI’s most controversial surveillance tool is under threat
  - [https://arstechnica.com/?p=1917024](https://arstechnica.com/?p=1917024)

@@ -80,7 +80,7 @@
  - [https://www.youtube.com/watch?v=SrsCEbi5N7Y](https://www.youtube.com/watch?v=SrsCEbi5N7Y)
  - date published: 2018-10-13 13:51:29+00:00
  - user: rumpel
- - tags: $tags
+ - tags: ['dead internet', 'gołe search', 'algorithms', 'duckduckgo']
 
 ## The Agricultural Revolution Has Been A Disaster for the Human Race.
  - [https://notrelated.xyz/audio/s01/S01E05_-_The_Agricultural_Revolution_Has_Been_a_Disaster_for_the_Human_Race.mp3](https://notrelated.xyz/audio/s01/S01E05_-_The_Agricultural_Revolution_Has_Been_a_Disaster_for_the_Human_Race.mp3)

@@ -1,3 +1,15 @@
+## Niemcy. Coraz więcej pacjentów skarżących się na objawy po szczepieniu przeciw COVID-19
+ - [https://www.polsatnews.pl/wiadomosc/2023-04-03/niemcy-coraz-wiecej-pacjentow-skarzacych-sie-na-objawy-po-szczepieniu-przeciw-covid-19/](https://www.polsatnews.pl/wiadomosc/2023-04-03/niemcy-coraz-wiecej-pacjentow-skarzacych-sie-na-objawy-po-szczepieniu-przeciw-covid-19/)
+ - date published: 2023-04-03 11:44:00+00:00
+ - user: rumpel
+ - tags: ['covid', 'vaccine']
+
+## Cyfrowe euro z niskim stałym limitem na gospodarstwo i limitami transakcji
+ - [https://ithardware.pl/aktualnosci/cyfrowe_euro_z_niskim_stalym_limitem_na_gospodarstwo_i_dziennymi_limitami_wydatkow-26606.html](https://ithardware.pl/aktualnosci/cyfrowe_euro_z_niskim_stalym_limitem_na_gospodarstwo_i_dziennymi_limitami_wydatkow-26606.html)
+ - date published: 2023-04-01 13:15:40+00:00
+ - user: rumpel
+ - tags: ['digital money', 'tech control', 'cbdc']
+
 ## Rekordowa liczba podróży prywatnymi odrzutowcami w Europie
  - [https://forsal.pl/transport/aktualnosci/artykuly/8692131,rekordowa-liczba-podrozy-prywatnymi-odrzutowcami-w-europie.html](https://forsal.pl/transport/aktualnosci/artykuly/8692131,rekordowa-liczba-podrozy-prywatnymi-odrzutowcami-w-europie.html)
  - date published: 2023-03-31 11:57:37+00:00
@@ -212,7 +224,7 @@
  - [https://www.youtube.com/watch?v=SljlG-2d7G0](https://www.youtube.com/watch?v=SljlG-2d7G0)
  - date published: 2023-01-21 11:41:09+00:00
  - user: rumpel
- - tags: $tags
+ - tags: ['crisis', 'armenia']
 
 ## Skończył się boom na streaming. Konkurenci Netflixa nadal palą ogromne ilości gotówki
  - [https://forsal.pl/biznes/media/artykuly/8634619,koniec-boomu-na-rynku-streamingowym.html](https://forsal.pl/biznes/media/artykuly/8634619,koniec-boomu-na-rynku-streamingowym.html)

@@ -106,6 +106,12 @@
  - user: rumpel
  - tags: ['blackrock', 'wall street']
 
+## Bonobo - Cirrus (Official Video)
+ - [https://www.youtube.com/watch?v=WF34N4gJAKE](https://www.youtube.com/watch?v=WF34N4gJAKE)
+ - date published: 2013-01-24 00:00:00+00:00
+ - user: rumpel
+ - tags: ['art', 'music']
+
 ## Internet Activist, a Creator of RSS, Is Dead at 26, Apparently a Suicide
  - [https://www.nytimes.com/2013/01/13/technology/aaron-swartz-internet-activist-dies-at-26.html](https://www.nytimes.com/2013/01/13/technology/aaron-swartz-internet-activist-dies-at-26.html)
  - date published: 2013-01-12 10:28:59+00:00

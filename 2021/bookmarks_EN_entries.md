@@ -340,6 +340,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## A Log4J Vulnerability Has Set the Internet 'On Fire' | WIRED
+ - [https://www.wired.com/story/log4j-flaw-hacking-internet/](https://www.wired.com/story/log4j-flaw-hacking-internet/)
+ - date published: 2021-12-10 15:01:02+00:00
+ - user: rumpel
+ - tags: ['vulnerability', 'log4j']
+
 ## Chrome Users Beware: Manifest V3 is Deceitful and Threatening | Electronic Frontier Foundation
  - [https://www.eff.org/deeplinks/2021/12/chrome-users-beware-manifest-v3-deceitful-and-threatening](https://www.eff.org/deeplinks/2021/12/chrome-users-beware-manifest-v3-deceitful-and-threatening)
  - date published: 2021-12-10 08:09:00.543457+00:00
@@ -543,6 +549,12 @@
  - date published: 2021-11-24 17:25:15.534785+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Study finds gradual increase in COVID infection risk after second vaccine dose | BMJ
+ - [https://www.bmj.com/company/newsroom/study-finds-gradual-increase-in-covid-infection-risk-after-second-vaccine-dose/](https://www.bmj.com/company/newsroom/study-finds-gradual-increase-in-covid-infection-risk-after-second-vaccine-dose/)
+ - date published: 2021-11-24 11:40:03+00:00
+ - user: rumpel
+ - tags: ['covid', 'vaccine']
 
 ## Kyle Rittenhouse's trial exposes biases among left-leaning media
  - [https://news.yahoo.com/kyle-rittenhouses-trial-exposes-biases-205230938.html](https://news.yahoo.com/kyle-rittenhouses-trial-exposes-biases-205230938.html)
@@ -851,7 +863,7 @@
  - tags: $tags
 
 ## Why Modern Movies Suck - They're Written By Children
- - [https://youtu.be/CQ92cggLMx8](https://youtu.be/CQ92cggLMx8)
+ - [https://www.youtube.com/watch?v=CQ92cggLMx8](https://www.youtube.com/watch?v=CQ92cggLMx8)
  - date published: 2021-11-02 11:24:42+00:00
  - user: None
  - tags: ['hollywood', 'movies']
@@ -866,7 +878,7 @@
  - [https://www.youtube.com/watch?v=0u8eZcPnWeU](https://www.youtube.com/watch?v=0u8eZcPnWeU)
  - date published: 2021-11-01 10:40:04+00:00
  - user: rumpel
- - tags: $tags
+ - tags: ['privacy', 'propaganda', 'surveillance', 'digital money', 'cbdc']
 
 ## Wacom drawing tablets track the name of every application that you open | Robert Heaton
  - [https://robertheaton.com/2020/02/05/wacom-drawing-tablets-track-name-of-every-application-you-open/](https://robertheaton.com/2020/02/05/wacom-drawing-tablets-track-name-of-every-application-you-open/)
@@ -1162,12 +1174,6 @@
  - user: Thomas Pain
  - tags: $tags
 
-## Covid Is Rising In Schools, Here's What It Means For You | HuffPost UK Life
- - [https://www.huffingtonpost.co.uk/entry/heres-what-we-know-about-the-latest-levels-of-covid-in-schools_uk_615d63a7e4b06f0ef28a4964](https://www.huffingtonpost.co.uk/entry/heres-what-we-know-about-the-latest-levels-of-covid-in-schools_uk_615d63a7e4b06f0ef28a4964)
- - date published: 2021-10-15 14:11:39.651994+00:00
- - user: Thomas Pain
- - tags: $tags
-
 ## CBDCs: How Dangerous ARE They?
  - [https://hackernoon.com/cbdcs-how-dangerous-are-they](https://hackernoon.com/cbdcs-how-dangerous-are-they)
  - date published: 2021-10-15 10:47:45+00:00
@@ -1430,7 +1436,7 @@
  - [https://www.youtube.com/watch?v=OhzBo0dZNpY](https://www.youtube.com/watch?v=OhzBo0dZNpY)
  - date published: 2021-10-01 21:19:03+00:00
  - user: None
- - tags: $tags
+ - tags: ['motivation', 'totalitarianism', 'psychology']
 
 ## A teenager on TikTok disrupted thousands of scientific studies with a single video - The Verge
  - [https://www.theverge.com/2021/9/24/22688278/tiktok-science-study-survey-prolific](https://www.theverge.com/2021/9/24/22688278/tiktok-science-study-survey-prolific)
@@ -1676,7 +1682,7 @@
  - [https://news.ycombinator.com/item?id=28478438](https://news.ycombinator.com/item?id=28478438)
  - date published: 2021-09-11 08:02:30.616457+00:00
  - user: Thomas Pain
- - tags: $tags
+ - tags: ['technofeudalism', 'corporatocracy', 'iot']
 
 ## Apple must allow other forms of in-app purchase, rules judge in Epic v. Apple - The Verge
  - [https://www.theverge.com/2021/9/10/22662320/epic-apple-ruling-injunction-judge-court-app-store](https://www.theverge.com/2021/9/10/22662320/epic-apple-ruling-injunction-judge-court-app-store)
@@ -3260,7 +3266,7 @@
  - [https://lukesmith.xyz/articles/conspiratorial-thinking-and-multiple-outs/](https://lukesmith.xyz/articles/conspiratorial-thinking-and-multiple-outs/)
  - date published: 2021-05-05 00:00:00+00:00
  - user: None
- - tags: $tags
+ - tags: ['conspiracy theories']
 
 ## The Problems with Utilitarianism
  - [https://lukesmith.xyz/articles/the-problems-with-utilitarianism/](https://lukesmith.xyz/articles/the-problems-with-utilitarianism/)
@@ -3407,7 +3413,7 @@
  - tags: ['ads', 'ad business']
 
 ## Johnny Harris: A Story of YouTube Propaganda
- - [https://youtu.be/Dum0bqWfiGw](https://youtu.be/Dum0bqWfiGw)
+ - [https://www.youtube.com/watch?v=Dum0bqWfiGw](https://www.youtube.com/watch?v=Dum0bqWfiGw)
  - date published: 2021-03-12 20:26:11+00:00
  - user: None
  - tags: ['propaganda', 'youtube']
@@ -3452,7 +3458,7 @@
  - [https://www.youtube.com/watch?v=8xl2mWK9LsE](https://www.youtube.com/watch?v=8xl2mWK9LsE)
  - date published: 2021-02-21 13:36:49+00:00
  - user: rumpel
- - tags: $tags
+ - tags: ['dead internet', 'algorithms', 'google search']
 
 ## Yanis Varoufakis: Capitalism has become 'techno-feudalism' | UpFront
  - [https://www.youtube.com/watch?v=_jW0xUmUaUc](https://www.youtube.com/watch?v=_jW0xUmUaUc)
@@ -3545,7 +3551,7 @@
  - tags: ['china', 'genocide', 'uighur']
 
 ## What Happened To Our Villains?
- - [https://youtu.be/vnRP7SKzOgk](https://youtu.be/vnRP7SKzOgk)
+ - [https://www.youtube.com/watch?v=vnRP7SKzOgk](https://www.youtube.com/watch?v=vnRP7SKzOgk)
  - date published: 2021-01-18 11:19:45+00:00
  - user: None
  - tags: ['hollywood', 'movies']
@@ -3581,7 +3587,7 @@
  - tags: ['bill gates', 'atmosphere', 'climate change', 'sun-dimming']
 
 ## the darkness of 'first reformed'
- - [https://youtu.be/piyXjIO46uE](https://youtu.be/piyXjIO46uE)
+ - [https://www.youtube.com/watch?v=piyXjIO46uE](https://www.youtube.com/watch?v=piyXjIO46uE)
  - date published: 2021-01-09 21:02:19+00:00
  - user: rumpel
  - tags: ['first reformed', 'movies']

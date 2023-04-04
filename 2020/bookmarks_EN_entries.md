@@ -1144,3 +1144,9 @@
  - user: rumpel
  - tags: ['torvalds', 'linux', 'kernel']
 
+## The Turning Point
+ - [https://www.youtube.com/watch?v=p7LDk4D3Q3U](https://www.youtube.com/watch?v=p7LDk4D3Q3U)
+ - date published: 2020-01-01 00:00:00+00:00
+ - user: rumpel
+ - tags: ['art']
+

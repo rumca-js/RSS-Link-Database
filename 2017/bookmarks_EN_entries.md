@@ -29,7 +29,7 @@
  - tags: ['programming', 'design patterns']
 
 ## Happiness
- - [https://youtu.be/e9dZQelULDk](https://youtu.be/e9dZQelULDk)
+ - [https://www.youtube.com/watch?v=e9dZQelULDk](https://www.youtube.com/watch?v=e9dZQelULDk)
  - date published: 2017-11-25 07:18:36+00:00
  - user: rumpel
  - tags: ['society', 'art', 'population', 'psychology']
@@ -110,7 +110,7 @@
  - [https://www.youtube.com/watch?v=tlTKTTt47WE](https://www.youtube.com/watch?v=tlTKTTt47WE)
  - date published: 2017-09-21 07:46:14+00:00
  - user: None
- - tags: $tags
+ - tags: ['simulation']
 
 ## Spotlight: How is AI disrupting financial industry - Xinhua | English.news.cn
  - [http://www.xinhuanet.com/english/2017-09/18/c_136616606.htm](http://www.xinhuanet.com/english/2017-09/18/c_136616606.htm)
@@ -291,6 +291,12 @@
  - date published: 2017-04-04 08:22:53+00:00
  - user: rumpel
  - tags: ['china', 'climate change', 'pollution']
+
+## DOUBLE KING
+ - [https://www.youtube.com/watch?v=w_MSFkZHNi4](https://www.youtube.com/watch?v=w_MSFkZHNi4)
+ - date published: 2017-04-02 13:19:52+00:00
+ - user: rumpel
+ - tags: ['art']
 
 ## BlackRock Banking on Robots to Improve Stock Picking | Fortune
  - [https://fortune.com/2017/03/29/blackrock-robots-stock-picking/](https://fortune.com/2017/03/29/blackrock-robots-stock-picking/)

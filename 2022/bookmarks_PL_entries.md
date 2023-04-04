@@ -202,12 +202,6 @@
  - user: None
  - tags: ['ad business', 'windows 11', 'microsoft']
 
-## Nadciąga fala niewypłacalności firm. Nie pomoże nawet ustabilizowanie cen energii
- - [https://www.bankier.pl/wiadomosc/Nadciaga-fala-niewyplacalnosci-firm-Nie-pomoze-nawet-ustabilizowanie-cen-energii-8436158.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Nadciaga-fala-niewyplacalnosci-firm-Nie-pomoze-nawet-ustabilizowanie-cen-energii-8436158.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
- - date published: 2022-11-09 05:50:00+00:00
- - user: None
- - tags: $tags
-
 ## Afera we francuskim kościele. 11 biskupów "zamieszanych" w przemoc seksualną
  - [https://www.wykop.pl/link/6891593/afera-we-francuskim-kosciele-11-biskupow-zamieszanych-w-przemoc-seksualna/](https://www.wykop.pl/link/6891593/afera-we-francuskim-kosciele-11-biskupow-zamieszanych-w-przemoc-seksualna/)
  - date published: 2022-11-08 07:25:02+00:00
@@ -243,12 +237,6 @@
  - date published: 2022-11-04 07:56:34+00:00
  - user: None
  - tags: ['car sharing', 'technofeudalism', 'subscription']
-
-## Cenzura na oficjalnym profilu Poznania na Facebooku? Mamy odpowiedź miasta
- - [https://epoznan.pl/news-news-133890-cenzura_na_oficjalnym_profilu_poznania_na_facebooku_mamy_odpowiedz_miasta?rss=1](https://epoznan.pl/news-news-133890-cenzura_na_oficjalnym_profilu_poznania_na_facebooku_mamy_odpowiedz_miasta?rss=1)
- - date published: 2022-11-02 14:30:00+00:00
- - user: None
- - tags: $tags
 
 ## Wielu pracowników obawia się postępującej robotyzacji. Eksperci uspokajają i wymieniają korzyści
  - [https://www.bankier.pl/wiadomosc/Wielu-pracownikow-obawia-sie-postepujacej-robotyzacji-Eksperci-uspokajaja-i-wymieniaja-korzysci-8432290.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Wielu-pracownikow-obawia-sie-postepujacej-robotyzacji-Eksperci-uspokajaja-i-wymieniaja-korzysci-8432290.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -290,7 +278,7 @@
  - [https://wydarzenia.interia.pl/zagranica/news-niemcy-nie-rezygnuja-z-atomu-energetyczne-plany-zmieniali-ki,nId,6381863](https://wydarzenia.interia.pl/zagranica/news-niemcy-nie-rezygnuja-z-atomu-energetyczne-plany-zmieniali-ki,nId,6381863)
  - date published: 2022-10-31 11:46:32+00:00
  - user: None
- - tags: $tags
+ - tags: ['climate change']
 
 ## Centra handlowe zapomniały o pandemii. Obroty znacznie wzrosły
  - [https://www.bankier.pl/wiadomosc/Centra-handlowe-zapomnialy-o-pandemii-Obroty-znacznie-wzrosly-8431788.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Centra-handlowe-zapomnialy-o-pandemii-Obroty-znacznie-wzrosly-8431788.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -331,12 +319,6 @@
 ## Pełna cyfryzacja recept staje się faktem. Dane nie pozostawiają wątpliwości
  - [https://www.bankier.pl/wiadomosc/Pelna-cyfryzacja-recept-staje-sie-faktem-Dane-nie-pozostawiaja-watpliwosci-8429787.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Pelna-cyfryzacja-recept-staje-sie-faktem-Dane-nie-pozostawiaja-watpliwosci-8429787.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date published: 2022-10-27 09:35:00+00:00
- - user: None
- - tags: $tags
-
-## Chińskie BOE zapowiedziało imponujące transparentne wyświetlacze
- - [https://ithardware.pl/aktualnosci/chinskie_boe_zapowiedzialo_imponujace_transparentne_wyswietlacze-24059.html](https://ithardware.pl/aktualnosci/chinskie_boe_zapowiedzialo_imponujace_transparentne_wyswietlacze-24059.html)
- - date published: 2022-10-27 09:07:20+00:00
  - user: None
  - tags: $tags
 
@@ -382,12 +364,6 @@
  - user: None
  - tags: $tags
 
-## Prezes Pekao: Inflacja będzie utrzymywała się pewnie przez wiele lat
- - [https://www.bankier.pl/wiadomosc/Prezes-Pekao-Inflacja-bedzie-utrzymywala-sie-pewnie-przez-wiele-lat-8428527.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Prezes-Pekao-Inflacja-bedzie-utrzymywala-sie-pewnie-przez-wiele-lat-8428527.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
- - date published: 2022-10-25 11:59:00+00:00
- - user: None
- - tags: $tags
-
 ## Debata w NIK: Bilans pandemii - puste łóżka covidowe, brak wytycznych
  - [https://cowzdrowiu.pl/aktualnosci/post/debata-w-nik-bilans-pandemii-puste-lozka-covidowe-brak-wytycznych](https://cowzdrowiu.pl/aktualnosci/post/debata-w-nik-bilans-pandemii-puste-lozka-covidowe-brak-wytycznych)
  - date published: 2022-10-25 11:22:28+00:00
@@ -397,12 +373,6 @@
 ## Rodzice oburzeni. Pierwsze niemieckie miasto z taką regulacją
  - [https://www.wykop.pl/link/6873985/rodzice-oburzeni-pierwsze-niemieckie-miasto-z-taka-regulacja/](https://www.wykop.pl/link/6873985/rodzice-oburzeni-pierwsze-niemieckie-miasto-z-taka-regulacja/)
  - date published: 2022-10-24 23:35:02+00:00
- - user: None
- - tags: $tags
-
-## Mołdawia ma problem z prądem. Położona w prorosyjskim Naddniestrzu elektrownia zredukowała dostawy
- - [https://www.bankier.pl/wiadomosc/Moldawia-ma-problem-z-pradem-Polozona-w-prorosyjskim-Naddniestrzu-elektrownia-zredukowala-dostawy-8427998.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Moldawia-ma-problem-z-pradem-Polozona-w-prorosyjskim-Naddniestrzu-elektrownia-zredukowala-dostawy-8427998.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
- - date published: 2022-10-24 14:43:00+00:00
  - user: None
  - tags: $tags
 
@@ -598,12 +568,6 @@
  - user: None
  - tags: ['netflix', 'lgbt']
 
-## Boston Dynamics: Nie uzbrajajcie robotów. To nie skończy się dobrze...
- - [https://www.wykop.pl/link/6851277/boston-dynamics-nie-uzbrajajcie-robotow-to-nie-skonczy-sie-dobrze/](https://www.wykop.pl/link/6851277/boston-dynamics-nie-uzbrajajcie-robotow-to-nie-skonczy-sie-dobrze/)
- - date published: 2022-10-08 18:58:01+00:00
- - user: None
- - tags: $tags
-
 ## Rosja twierdziła, że most Krymski jest "niezniszczalny"
  - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-rosja-twierdzila-ze-most-krymski-jest-niezniszczalny,nId,6335215](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-rosja-twierdzila-ze-most-krymski-jest-niezniszczalny,nId,6335215)
  - date published: 2022-10-08 14:54:43+00:00
@@ -625,12 +589,6 @@
 ## Poznań Game Arena już pierwszego dnia przyciągnęła tłumy
  - [https://epoznan.pl/news-news-133165-poznan_game_arena_juz_pierwszego_dnia_przyciagnela_tlumy?rss=1](https://epoznan.pl/news-news-133165-poznan_game_arena_juz_pierwszego_dnia_przyciagnela_tlumy?rss=1)
  - date published: 2022-10-07 20:15:00+00:00
- - user: None
- - tags: $tags
-
-## Budują kładkę pieszo-rowerową w Owińskach. Teren Warty będzie można podziwiać z wysokości koron drzew
- - [https://epoznan.pl/news-news-133160-buduja_kladke_pieszo_rowerowa_w_owinskach_teren_warty_bedzie_mozna_podziwiac_z_wysokosci_koron_drzew?rss=1](https://epoznan.pl/news-news-133160-buduja_kladke_pieszo_rowerowa_w_owinskach_teren_warty_bedzie_mozna_podziwiac_z_wysokosci_koron_drzew?rss=1)
- - date published: 2022-10-07 18:00:00+00:00
  - user: None
  - tags: $tags
 
@@ -772,12 +730,6 @@
  - user: None
  - tags: $tags
 
-## Admirał Radakin ostrzega: Rosja może uderzyć w zachodnie systemy
- - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-admiral-radakin-ostrzega-rosja-moze-uderzyc-w-zachodnie-syst,nId,6320746](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-admiral-radakin-ostrzega-rosja-moze-uderzyc-w-zachodnie-syst,nId,6320746)
- - date published: 2022-10-01 11:23:25+00:00
- - user: None
- - tags: $tags
-
 ## prof noga inflacja
  - [https://www.rmf24.pl/tylko-w-rmf24/rozmowa-w-poludnie/news-prof-noga-inflacja-przekroczy-20-proc-w-grudniu,nId,6318441#crp_state=1](https://www.rmf24.pl/tylko-w-rmf24/rozmowa-w-poludnie/news-prof-noga-inflacja-przekroczy-20-proc-w-grudniu,nId,6318441#crp_state=1)
  - date published: 2022-10-01 07:44:49+00:00
@@ -832,12 +784,6 @@
  - user: None
  - tags: $tags
 
-## Apple nie chce słyszeć o podwyżkach cen produkcji chipów. Może wpłynąć to na nowe procesory firmy
- - [https://ithardware.pl/aktualnosci/apple_nie_chce_slyszec_o_podwyzkach_cen_produkcji_chipow_moze_wplynac_to_na_nowe_procesory_firmy-23565.html](https://ithardware.pl/aktualnosci/apple_nie_chce_slyszec_o_podwyzkach_cen_produkcji_chipow_moze_wplynac_to_na_nowe_procesory_firmy-23565.html)
- - date published: 2022-09-28 14:17:00+00:00
- - user: None
- - tags: $tags
-
 ## Przerażające wyniki badań: Zanieczyszczone powietrze szkodzi mózgom dzieci
  - [https://wydarzenia.interia.pl/zagranica/news-przerazajace-wyniki-badan-zanieczyszczone-powietrze-szkodzi-,nId,6313600](https://wydarzenia.interia.pl/zagranica/news-przerazajace-wyniki-badan-zanieczyszczone-powietrze-szkodzi-,nId,6313600)
  - date published: 2022-09-28 04:50:47+00:00
@@ -848,13 +794,13 @@
  - [https://ithardware.pl/aktualnosci/blizzard_bedzie_nagrywal_rozmowy_glosowe_w_overwatch_2-23549.html](https://ithardware.pl/aktualnosci/blizzard_bedzie_nagrywal_rozmowy_glosowe_w_overwatch_2-23549.html)
  - date published: 2022-09-27 21:30:00+00:00
  - user: None
- - tags: $tags
+ - tags: ['privacy', 'surveillance', 'technofeudalism']
 
 ## Niemcy chcą przedłużyć pracę dwóch elektrowni jądrowych
  - [https://www.bankier.pl/wiadomosc/Niemcy-chca-przedluzyc-prace-dwoch-elektrowni-jadrowych-8412895.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Niemcy-chca-przedluzyc-prace-dwoch-elektrowni-jadrowych-8412895.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date published: 2022-09-27 19:09:00+00:00
  - user: None
- - tags: $tags
+ - tags: ['climate change', 'germany']
 
 ## Coraz więcej Polaków ma konto w kilku bankach. Klienci szukają okazyjnych lokat
  - [https://www.bankier.pl/wiadomosc/Coraz-wiecej-Polakow-ma-konto-w-kilku-bankach-Klienci-szukaja-okazyjnych-lokat-8412434.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Coraz-wiecej-Polakow-ma-konto-w-kilku-bankach-Klienci-szukaja-okazyjnych-lokat-8412434.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -866,7 +812,7 @@
  - [https://epoznan.pl/news-news-132809-w_poznaniu_odbedzie_sie_seks_festiwal_w_programie_dlaczego_warto_ogladac_porno_i_przyszlosc_sex_zabawek_jest_niebinarna?rss=1](https://epoznan.pl/news-news-132809-w_poznaniu_odbedzie_sie_seks_festiwal_w_programie_dlaczego_warto_ogladac_porno_i_przyszlosc_sex_zabawek_jest_niebinarna?rss=1)
  - date published: 2022-09-27 06:05:00+00:00
  - user: None
- - tags: $tags
+ - tags: ['woke', 'indoctrination', 'propaganda']
 
 ## Szok brytyjski. Złośliwi przezwali Wielką Brytanię „rynkiem tonącym”
  - [https://www.bankier.pl/wiadomosc/Wielka-Brytania-rynek-tonacy-8412259.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Wielka-Brytania-rynek-tonacy-8412259.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -889,12 +835,6 @@
 ## USA: Około 100 nieletnich zdemolowało sklep. Agresywny tłum rozgoniła policja
  - [https://www.polsatnews.pl/wiadomosc/2022-09-26/usa-tlum-mlodych-osob-zdemolowal-sklep/](https://www.polsatnews.pl/wiadomosc/2022-09-26/usa-tlum-mlodych-osob-zdemolowal-sklep/)
  - date published: 2022-09-26 08:52:00+00:00
- - user: None
- - tags: $tags
-
-## Niemcy rozszerzają kontrole na granicach. Boją się powtórki z 2015 roku
- - [https://wydarzenia.interia.pl/zagranica/news-niemcy-rozszerzaja-kontrole-na-granicach-boja-sie-powtorki-z,nId,6309206](https://wydarzenia.interia.pl/zagranica/news-niemcy-rozszerzaja-kontrole-na-granicach-boja-sie-powtorki-z,nId,6309206)
- - date published: 2022-09-26 07:27:39+00:00
  - user: None
  - tags: $tags
 
@@ -952,21 +892,9 @@
  - user: None
  - tags: $tags
 
-## Hiszpania wprowadzi tymczasowy podatek dla najbogatszych
- - [https://www.bankier.pl/wiadomosc/Hiszpania-wprowadzi-tymczasowy-podatek-dla-najbogatszych-8410460.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Hiszpania-wprowadzi-tymczasowy-podatek-dla-najbogatszych-8410460.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
- - date published: 2022-09-22 18:45:00+00:00
- - user: None
- - tags: $tags
-
 ## "Nie" dla mężczyzn jedzących mięso. PETA wzywa do strajku seksualnego
  - [https://wydarzenia.interia.pl/zagranica/news-nie-dla-mezczyzn-jedzacych-mieso-peta-wzywa-do-strajku-seksu,nId,6302073](https://wydarzenia.interia.pl/zagranica/news-nie-dla-mezczyzn-jedzacych-mieso-peta-wzywa-do-strajku-seksu,nId,6302073)
  - date published: 2022-09-22 17:36:08+00:00
- - user: None
- - tags: $tags
-
-## Ostra jazda franka. Dolar rekordowo drogi
- - [https://www.bankier.pl/wiadomosc/Ostra-jazda-franka-Dolar-rekordowo-drogi-8410040.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Ostra-jazda-franka-Dolar-rekordowo-drogi-8410040.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
- - date published: 2022-09-22 09:19:00+00:00
  - user: None
  - tags: $tags
 
@@ -1018,21 +946,9 @@
  - user: None
  - tags: $tags
 
-## Rośnie niepewność w biznesie. Spółki w Polsce wstrzymują inwestycje
- - [https://www.bankier.pl/wiadomosc/Rosnie-niepewnosc-w-biznesie-Spolki-w-Polsce-wstrzymuja-inwestycje-8408583.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Rosnie-niepewnosc-w-biznesie-Spolki-w-Polsce-wstrzymuja-inwestycje-8408583.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
- - date published: 2022-09-20 05:49:00+00:00
- - user: None
- - tags: $tags
-
 ## Leśnik ratował bieliki, dostawał nagrody. Nadleśnictwo go zwolniło. "To...
  - [https://www.wykop.pl/link/6824445/lesnik-ratowal-bieliki-dostawal-nagrody-nadlesnictwo-go-zwolnilo-to/](https://www.wykop.pl/link/6824445/lesnik-ratowal-bieliki-dostawal-nagrody-nadlesnictwo-go-zwolnilo-to/)
  - date published: 2022-09-19 19:39:01+00:00
- - user: None
- - tags: $tags
-
-## 40 proc. niemieckich szpitali obawia się bankructwa w nadchodzącym roku
- - [https://www.bankier.pl/wiadomosc/40-proc-niemieckich-szpitali-obawia-sie-bankructwa-w-nadchodzacym-roku-8408487.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/40-proc-niemieckich-szpitali-obawia-sie-bankructwa-w-nadchodzacym-roku-8408487.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
- - date published: 2022-09-19 19:14:00+00:00
  - user: None
  - tags: $tags
 
@@ -1078,12 +994,6 @@
  - user: None
  - tags: $tags
 
-## YouTube po 15 latach usuwa słynny filmik.
- - [https://www.wykop.pl/link/6820893/youtube-po-15-latach-usuwa-slynny-filmik/](https://www.wykop.pl/link/6820893/youtube-po-15-latach-usuwa-slynny-filmik/)
- - date published: 2022-09-17 06:14:01+00:00
- - user: None
- - tags: $tags
-
 ## Szef BMW za utrzymaniem aut spalinowych, ale i rozwojem innych źródeł napędu
  - [https://www.wykop.pl/link/6819615/szef-bmw-za-utrzymaniem-aut-spalinowych-ale-i-rozwojem-innych-zrodel-napedu/](https://www.wykop.pl/link/6819615/szef-bmw-za-utrzymaniem-aut-spalinowych-ale-i-rozwojem-innych-zrodel-napedu/)
  - date published: 2022-09-16 10:18:01+00:00
@@ -1096,12 +1006,6 @@
  - user: None
  - tags: ['atom', 'climate change']
 
-## Koniec darmowych dostaw? E-zwroty są zbyt kosztowne
- - [https://www.bankier.pl/wiadomosc/Koniec-darmowych-dostaw-E-zwroty-sa-zbyt-kosztowne-8406925.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Koniec-darmowych-dostaw-E-zwroty-sa-zbyt-kosztowne-8406925.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
- - date published: 2022-09-16 06:10:00+00:00
- - user: None
- - tags: $tags
-
 ## Afera respiratorowa. Brak chętnych na zakup sprzętu
  - [https://www.bankier.pl/wiadomosc/Afera-respiratorowa-Brak-chetnych-na-zakup-sprzetu-8406671.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Afera-respiratorowa-Brak-chetnych-na-zakup-sprzetu-8406671.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date published: 2022-09-15 16:19:00+00:00
@@ -1112,7 +1016,7 @@
  - [https://wydarzenia.interia.pl/zagranica/news-libanczycy-napadaja-na-banki-chca-odzyskac-pieniadze,nId,6285833](https://wydarzenia.interia.pl/zagranica/news-libanczycy-napadaja-na-banki-chca-odzyskac-pieniadze,nId,6285833)
  - date published: 2022-09-14 18:31:46+00:00
  - user: None
- - tags: $tags
+ - tags: ['crisis', 'lebanon']
 
 ## Były CEO Google ostrzega: Chiny mogą wygrać globalny wyścig technologiczny
  - [https://ithardware.pl/aktualnosci/byly_ceo_google_ostrzega_chiny_moga_wygrac_globalny_wyscig_technologiczny-23290.html](https://ithardware.pl/aktualnosci/byly_ceo_google_ostrzega_chiny_moga_wygrac_globalny_wyscig_technologiczny-23290.html)
@@ -1136,7 +1040,7 @@
  - [https://www.bankier.pl/wiadomosc/Polska-wydala-ok-2-2-tys-zl-na-kazdego-uchodzce-z-Ukrainy-8404898.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Polska-wydala-ok-2-2-tys-zl-na-kazdego-uchodzce-z-Ukrainy-8404898.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date published: 2022-09-13 09:15:00+00:00
  - user: None
- - tags: $tags
+ - tags: ['war', 'crisis', 'ukraine']
 
 ## Władze Chin cenzurują opisy lockdownu w Sinciangu; każą mediom pokazywać uśmiechniętych seniorów
  - [https://www.bankier.pl/wiadomosc/Wladze-Chin-cenzuruja-opisy-lockdownu-w-Sinciangu-kaza-mediom-pokazywac-usmiechnietych-seniorow-8404863.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Wladze-Chin-cenzuruja-opisy-lockdownu-w-Sinciangu-kaza-mediom-pokazywac-usmiechnietych-seniorow-8404863.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -1172,7 +1076,7 @@
  - [https://ithardware.pl/aktualnosci/rzad_usa_na_wojennej_sciezce_gornicy_kryptowalut_musza_ograniczyc_zuzycie_energii-23227.html](https://ithardware.pl/aktualnosci/rzad_usa_na_wojennej_sciezce_gornicy_kryptowalut_musza_ograniczyc_zuzycie_energii-23227.html)
  - date published: 2022-09-11 17:35:10+00:00
  - user: None
- - tags: $tags
+ - tags: ['crypto', 'bitcoin']
 
 ## Brytyjski rząd wyda fortunę na dopłaty do rachunków za energię.
  - [https://www.wykop.pl/link/6810875/brytyjski-rzad-wyda-fortune-na-doplaty-do-rachunkow-za-energie/](https://www.wykop.pl/link/6810875/brytyjski-rzad-wyda-fortune-na-doplaty-do-rachunkow-za-energie/)
@@ -1406,7 +1310,7 @@
  - [https://avlab.pl/przegladarki-tiktok-instagram-facebook-dzialaja-jak-keylogger/](https://avlab.pl/przegladarki-tiktok-instagram-facebook-dzialaja-jak-keylogger/)
  - date published: 2022-08-20 12:04:49+00:00
  - user: None
- - tags: $tags
+ - tags: ['tiktok', 'privacy', 'facebook', 'keylogger', 'instagram', 'vulnerabilities']
 
 ## Oswajanie z cyfrowym pieniądzem
  - [https://dorzeczy.pl/opinie/332758/pospieszalski-oswajanie.html](https://dorzeczy.pl/opinie/332758/pospieszalski-oswajanie.html)
@@ -1424,7 +1328,7 @@
  - [https://ithardware.pl/aktualnosci/ukraina_bezgotowkowa_i_wspierana_calkowicie_przez_ai_niezniszczalny_cyfrowo_europejski_izrael-22328.html](https://ithardware.pl/aktualnosci/ukraina_bezgotowkowa_i_wspierana_calkowicie_przez_ai_niezniszczalny_cyfrowo_europejski_izrael-22328.html)
  - date published: 2022-07-19 20:47:02+00:00
  - user: None
- - tags: $tags
+ - tags: ['war', 'crisis', 'ukraine']
 
 ## How I went about learning Rust - Eli Bendersky's website
  - [https://eli.thegreenplace.net/2022/how-i-went-about-learning-rust/](https://eli.thegreenplace.net/2022/how-i-went-about-learning-rust/)

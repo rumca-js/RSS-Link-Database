@@ -1,3 +1,9 @@
+## The Turning Point
+ - [https://www.youtube.com/watch?v=p7LDk4D3Q3U](https://www.youtube.com/watch?v=p7LDk4D3Q3U)
+ - date published: 2020-01-01 00:00:00+00:00
+ - user: rumpel
+ - tags: ['art']
+
 ## Dark Waters - movie
  - [https://en.m.wikipedia.org/wiki/Dark_Waters_(2019_film)](https://en.m.wikipedia.org/wiki/Dark_Waters_(2019_film))
  - date published: 2019-12-28 18:17:56+00:00
@@ -466,11 +472,17 @@
  - user: rumpel
  - tags: ['algorithms', 'google search']
 
+## The Do Black card has a carbon emissions limit
+ - [https://www.fastcompany.com/90344150/this-credit-card-wont-let-you-buy-anything-else-after-youve-hit-your-annual-carbon-limit](https://www.fastcompany.com/90344150/this-credit-card-wont-let-you-buy-anything-else-after-youve-hit-your-annual-carbon-limit)
+ - date published: 2019-06-05 06:39:22+00:00
+ - user: rumpel
+ - tags: ['carbon limit', 'digital money', 'tech control', 'cbdc']
+
 ## Why should you read “The Master and Margarita”? - Alex Gendler
  - [https://www.youtube.com/watch?v=miNBicrLiXo](https://www.youtube.com/watch?v=miNBicrLiXo)
  - date published: 2019-05-30 11:59:31+00:00
  - user: rumpel
- - tags: $tags
+ - tags: ['books', 'master and margarita']
 
 ## The culture war at the heart of open source
  - [https://words.steveklabnik.com/the-culture-war-at-the-heart-of-open-source](https://words.steveklabnik.com/the-culture-war-at-the-heart-of-open-source)
@@ -506,7 +518,7 @@
  - [https://www.newyorker.com/news/annals-of-communications/the-terrifying-potential-of-the-5g-network](https://www.newyorker.com/news/annals-of-communications/the-terrifying-potential-of-the-5g-network)
  - date published: 2019-04-26 13:05:08+00:00
  - user: None
- - tags: $tags
+ - tags: ['privacy', 'surveillance', 'internet']
 
 ## Marble Conveyor Belt Completed! - Marble Machine X #78
  - [https://www.youtube.com/watch?v=1AEvQAg6TE0](https://www.youtube.com/watch?v=1AEvQAg6TE0)

@@ -92,7 +92,7 @@
  - [https://next.gazeta.pl/next/7,151003,24456145,sektor-finansowy-ogrywa-demokracje-mozemy-sie-obudzic-w-swiecie.html](https://next.gazeta.pl/next/7,151003,24456145,sektor-finansowy-ogrywa-demokracje-mozemy-sie-obudzic-w-swiecie.html)
  - date published: 2019-02-15 07:12:55+00:00
  - user: None
- - tags: $tags
+ - tags: ['banking', 'democracy', 'manufacturing consent']
 
 ## Zabiją nas wszystkich
  - [https://www.smyku.pl/texts/zabija-nas-wszystkich.html](https://www.smyku.pl/texts/zabija-nas-wszystkich.html)
