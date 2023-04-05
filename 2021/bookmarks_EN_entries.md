@@ -1856,7 +1856,7 @@
  - [https://www.politico.eu/article/facebook-crowdtangle-data-january-6-capitol-hill-riots-transparency/](https://www.politico.eu/article/facebook-crowdtangle-data-january-6-capitol-hill-riots-transparency/)
  - date published: 2021-08-31 22:20:41+00:00
  - user: rumpel
- - tags: ['jan6', 'facebook']
+ - tags: ['censorship', 'facebook', 'january 6', 'manufacturing consent']
 
 ## The open calendar, task and note space is a mess
  - [https://stevenvanbael.com/open-calendar-task-space-is-a-mess](https://stevenvanbael.com/open-calendar-task-space-is-a-mess)
@@ -3260,7 +3260,7 @@
  - [https://www.grunge.com/401335/what-a-facebook-ban-really-means-for-trump/](https://www.grunge.com/401335/what-a-facebook-ban-really-means-for-trump/)
  - date published: 2021-05-05 12:04:50+00:00
  - user: None
- - tags: ['jan6', 'censorship', 'facebook']
+ - tags: ['censorship', 'facebook', 'january 6']
 
 ## Conspiratorial Thinking and "Multiple Outs"
  - [https://lukesmith.xyz/articles/conspiratorial-thinking-and-multiple-outs/](https://lukesmith.xyz/articles/conspiratorial-thinking-and-multiple-outs/)
@@ -3580,11 +3580,23 @@
  - user: rumpel
  - tags: ['covid', 'vaccine', 'pfizer']
 
+## Parler app has now been booted by Amazon, Apple and Google | CNN Business
+ - [https://edition.cnn.com/2021/01/09/tech/parler-suspended-apple-app-store/index.html](https://edition.cnn.com/2021/01/09/tech/parler-suspended-apple-app-store/index.html)
+ - date published: 2021-01-11 15:10:39+00:00
+ - user: rumpel
+ - tags: ['apple', 'january 6', 'censorship', 'moderation', 'parler', 'google', 'amazon']
+
 ## A Bill Gates Venture Aims To Spray Dust Into The Atmosphere To Block The Sun. What Could Go Wrong?
  - [https://www.forbes.com/sites/arielcohen/2021/01/11/bill-gates-backed-climate-solution-gains-traction-but-concerns-linger/](https://www.forbes.com/sites/arielcohen/2021/01/11/bill-gates-backed-climate-solution-gains-traction-but-concerns-linger/)
  - date published: 2021-01-11 12:53:15+00:00
  - user: rumpel
  - tags: ['bill gates', 'atmosphere', 'climate change', 'sun-dimming']
+
+## Apple removes Parler from the App Store - The Verge
+ - [https://www.theverge.com/2021/1/9/22221730/apple-removes-suspends-bans-parler-app-store](https://www.theverge.com/2021/1/9/22221730/apple-removes-suspends-bans-parler-app-store)
+ - date published: 2021-01-10 15:10:04+00:00
+ - user: rumpel
+ - tags: ['apple', 'january 6', 'censorship', 'moderation', 'parler']
 
 ## the darkness of 'first reformed'
  - [https://www.youtube.com/watch?v=piyXjIO46uE](https://www.youtube.com/watch?v=piyXjIO46uE)
@@ -3598,11 +3610,29 @@
  - user: rumpel
  - tags: ['protests', 'covid', 'lockdown', 'scotland']
 
+## Reddit Bans Pro-Trump Subreddit for Inciting Violence
+ - [https://www.businessinsider.com/reddit-bans-donald-trump-forum-us-capitol-rioters-2021-1?IR=T](https://www.businessinsider.com/reddit-bans-donald-trump-forum-us-capitol-rioters-2021-1?IR=T)
+ - date published: 2021-01-08 15:02:52+00:00
+ - user: rumpel
+ - tags: ['january 6']
+
+## Twitter Suspended Trump's Account Permanently
+ - [https://www.businessinsider.com/twitter-suspended-president-donald-trumps-account-permanently-2021-1?IR=T](https://www.businessinsider.com/twitter-suspended-president-donald-trumps-account-permanently-2021-1?IR=T)
+ - date published: 2021-01-08 15:01:43+00:00
+ - user: rumpel
+ - tags: ['twitter', 'january 6']
+
 ## Twitter permanently suspends President Donald Trump
  - [https://www.nbcnews.com/tech/tech-news/twitter-permanently-bans-president-donald-trump-n1253588](https://www.nbcnews.com/tech/tech-news/twitter-permanently-bans-president-donald-trump-n1253588)
  - date published: 2021-01-08 12:04:50+00:00
  - user: None
- - tags: ['twitter', 'jan6', 'censorship', 'trump']
+ - tags: ['censorship', 'twitter', 'january 6', 'trump']
+
+## Trump suspended indefinitely from Snapchat | The Hill
+ - [https://thehill.com/policy/technology/533204-trump-suspended-indefinitely-from-snapchat/](https://thehill.com/policy/technology/533204-trump-suspended-indefinitely-from-snapchat/)
+ - date published: 2021-01-07 15:02:24+00:00
+ - user: rumpel
+ - tags: ['january 6', 'snapchat']
 
 ## Dead Internet Theory: Most of the Internet is Fake
  - [https://forum.agoraroad.com/index.php?threads/dead-internet-theory-most-of-the-internet-is-fake.3011/](https://forum.agoraroad.com/index.php?threads/dead-internet-theory-most-of-the-internet-is-fake.3011/)

@@ -76,6 +76,12 @@
  - user: rumpel
  - tags: ['surveillance', 'bigbrother', 'edward snowden', 'bigtech']
 
+## Snowden leak: Britain spied on allies at G-20 summit
+ - [http://edition.cnn.com/2013/06/16/world/europe/nsa-leaks/index.html?eref=edition](http://edition.cnn.com/2013/06/16/world/europe/nsa-leaks/index.html?eref=edition)
+ - date published: 2013-06-17 03:24:43+00:00
+ - user: rumpel
+ - tags: ['edward snowden', 'surveillance', 'bigbrother', 'espionage']
+
 ## U.S. Agencies Said to Swap Intelligence With Thousands of Firms
  - [https://www.bloomberg.com/news/articles/2013-06-14/u-s-agencies-said-to-swap-data-with-thousands-of-firms](https://www.bloomberg.com/news/articles/2013-06-14/u-s-agencies-said-to-swap-data-with-thousands-of-firms)
  - date published: 2013-06-15 08:44:12+00:00

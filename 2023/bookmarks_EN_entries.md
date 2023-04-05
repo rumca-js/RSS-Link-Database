@@ -1,3 +1,27 @@
+## The Untold Story of OpenAI: Microsoft's Takeover
+ - [https://www.youtube.com/watch?v=o07kRSvz7yM](https://www.youtube.com/watch?v=o07kRSvz7yM)
+ - date published: 2023-04-04 13:00:36+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
+
+## We are hurtling toward a glitchy, spammy, scammy, AI-powered internet
+ - [https://www.technologyreview.com/2023/04/04/1070938/we-are-hurtling-toward-a-glitchy-spammy-scammy-ai-powered-internet/](https://www.technologyreview.com/2023/04/04/1070938/we-are-hurtling-toward-a-glitchy-spammy-scammy-ai-powered-internet/)
+ - date published: 2023-04-04 12:11:05+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
+
+## New Zealand Prime Minister Chris Hipkins lost for words after reporter asks him to 'define a woman'
+ - [https://www.dailymail.co.uk/news/article-11935809/New-Zealand-Prime-Minister-Chris-Hipkins-lost-words-reporter-asks-define-woman.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11935809/New-Zealand-Prime-Minister-Chris-Hipkins-lost-words-reporter-asks-define-woman.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - date published: 2023-04-04 05:26:05+00:00
+ - user: rumpel
+ - tags: ['woke', 'whatisawoman']
+
+## Twitter’s open-source code has references to “Government Requested” influence
+ - [https://reclaimthenet.org/twitters-open-source-code-has-references-to-government-requested-influence](https://reclaimthenet.org/twitters-open-source-code-has-references-to-government-requested-influence)
+ - date published: 2023-04-03 18:19:14+00:00
+ - user: rumpel
+ - tags: ['twitter', 'twitter files']
+
 ## Saying Goodbye to GitHub – Ersei 'N Stuff
  - [https://ersei.net/en/blog/bye-bye-github](https://ersei.net/en/blog/bye-bye-github)
  - date published: 2023-04-03 05:04:25+00:00
@@ -62,7 +86,7 @@
  - [https://www.youtube.com/watch?v=p1GONgRrdKs](https://www.youtube.com/watch?v=p1GONgRrdKs)
  - date published: 2023-03-30 18:46:39+00:00
  - user: rumpel
- - tags: ['surveillance', 'twitter; twitter files', 'bigbrother', 'censorship', 'social media']
+ - tags: ['censorship', 'twitter', 'bigbrother', 'surveillance', 'twitter files', 'social media']
 
 ## Digital Euro to have built-in limitations, as Central Bank President says it will never be as private as cash
  - [https://reclaimthenet.org/digital-euro-to-have-built-in-limitations](https://reclaimthenet.org/digital-euro-to-have-built-in-limitations)
@@ -200,7 +224,7 @@
  - [https://edition.cnn.com/2023/03/26/us/digital-blackface-social-media-explainer-blake-cec/index.html](https://edition.cnn.com/2023/03/26/us/digital-blackface-social-media-explainer-blake-cec/index.html)
  - date published: 2023-03-26 07:07:51+00:00
  - user: rumpel
- - tags: ['black lives matters', 'racism', 'woke', 'inequality']
+ - tags: ['inequality', 'racism', 'woke', 'black lives matter']
 
 ## The Future is a Dead Mall - Decentraland and the Metaverse
  - [https://www.youtube.com/watch?v=EiZhdpLXZ8Q](https://www.youtube.com/watch?v=EiZhdpLXZ8Q)
@@ -339,6 +363,18 @@
  - date published: 2023-03-17 17:39:58+00:00
  - user: rumpel
  - tags: ['twitter files', 'covid', 'twitter']
+
+## Most January 6 footage aired by Tucker Carlson wasn't reviewed by Capitol Police first, USCP attorney says | CNN Politics
+ - [https://edition.cnn.com/2023/03/17/politics/fox-news-january-6-footage-capitol-police/index.html](https://edition.cnn.com/2023/03/17/politics/fox-news-january-6-footage-capitol-police/index.html)
+ - date published: 2023-03-17 15:08:28+00:00
+ - user: rumpel
+ - tags: ['tucker carlson', 'january 6']
+
+## U.S. government agencies may have been double billed for projects in Wuhan, China, records indicate; probe launched - CBS News
+ - [https://www.cbsnews.com/news/us-government-agencies-may-have-been-double-billed-projects-wuhan-china-records-indicate-probe/](https://www.cbsnews.com/news/us-government-agencies-may-have-been-double-billed-projects-wuhan-china-records-indicate-probe/)
+ - date published: 2023-03-17 13:44:42+00:00
+ - user: rumpel
+ - tags: ['covid', 'wuhan']
 
 ## Andrew Bridgen: Disgraced MP free to raise anti-vax conspiracy theories in the Commons, Speaker says
  - [https://inews.co.uk/news/politics/andrew-bridgen-disgraced-mp-anti-vax-conspiracy-theories-commons-speaker-2217694?ico=most_popular](https://inews.co.uk/news/politics/andrew-bridgen-disgraced-mp-anti-vax-conspiracy-theories-commons-speaker-2217694?ico=most_popular)
@@ -550,6 +586,12 @@
  - user: rumpel
  - tags: ['selfhost']
 
+## Republicans try to reframe January 6 as a sightseeing tour – will it work?
+ - [https://www.theguardian.com/us-news/2023/mar/11/republicans-reframing-january-6-attack](https://www.theguardian.com/us-news/2023/mar/11/republicans-reframing-january-6-attack)
+ - date published: 2023-03-11 07:00:15+00:00
+ - user: rumpel
+ - tags: ['january 6']
+
 ## The Deception Over Climate is Even Worse Than the Deception Over Covid
  - [https://dailysceptic.org/2023/03/11/the-deception-over-climate-is-even-worse-than-the-deception-over-covid/](https://dailysceptic.org/2023/03/11/the-deception-over-climate-is-even-worse-than-the-deception-over-covid/)
  - date published: 2023-03-11 07:00:00+00:00
@@ -669,6 +711,12 @@
  - date published: 2023-03-07 19:04:00+00:00
  - user: rumpel
  - tags: ['surveillance', 'facial recognition', 'fbi']
+
+## Jan. 6 footage shows DOJ,  court focused on Shaman's costume, not crime
+ - [https://nypost.com/2023/03/07/jan-6-footage-shows-doj-court-focused-on-shamans-costume-not-crime/](https://nypost.com/2023/03/07/jan-6-footage-shows-doj-court-focused-on-shamans-costume-not-crime/)
+ - date published: 2023-03-07 15:05:46+00:00
+ - user: rumpel
+ - tags: ['january 6']
 
 ## Denmark’s Welfare State Became a Surveillance Nightmare
  - [https://www.wired.com/story/algorithms-welfare-state-politics/](https://www.wired.com/story/algorithms-welfare-state-politics/)
@@ -836,7 +884,7 @@
  - [https://www.youtube.com/watch?v=iyMTTPGcSpI](https://www.youtube.com/watch?v=iyMTTPGcSpI)
  - date published: 2023-03-01 18:19:46+00:00
  - user: rumpel
- - tags: ['everythingapp', 'technofeudalism']
+ - tags: ['dark design', 'technofeudalism']
 
 ## Dr.  Amazon will see you now
  - [https://www.youtube.com/watch?v=Orc9G5DbiCg](https://www.youtube.com/watch?v=Orc9G5DbiCg)
@@ -1257,6 +1305,12 @@
  - date published: 2023-02-12 13:27:05+00:00
  - user: rumpel
  - tags: ['surveillance', 'bigbrother', 'fbi']
+
+## After Snowden, we quit our jobs to build privacy software. It reached 1.0
+ - [https://safing.io/blog/2023/02/07/snowden-changed-everything/](https://safing.io/blog/2023/02/07/snowden-changed-everything/)
+ - date published: 2023-02-12 11:11:59+00:00
+ - user: rumpel
+ - tags: ['privacy', 'selfhost', 'programming']
 
 ## Justin Trudeau to fund provincial healthcare, only if premiers agree to increased data collection
  - [https://reclaimthenet.org/justin-trudeau-health-data](https://reclaimthenet.org/justin-trudeau-health-data)
@@ -2192,7 +2246,7 @@
  - [https://spectrum.ieee.org/capitol-riot](https://spectrum.ieee.org/capitol-riot)
  - date published: 2023-01-14 12:29:07+00:00
  - user: rumpel
- - tags: ['jan6', 'surveillance', 'privacy']
+ - tags: ['privacy', 'surveillance', 'january 6']
 
 ## Beautiful Soup: Build a Web Scraper With Python – Real Python
  - [https://realpython.com/beautiful-soup-web-scraper-python/](https://realpython.com/beautiful-soup-web-scraper-python/)
@@ -2312,13 +2366,13 @@
  - [https://www.plex.com/](https://www.plex.com/)
  - date published: 2023-01-13 12:56:31+00:00
  - user: rumpel
- - tags: ['digital bunker', 'plex', 'smarthome']
+ - tags: ['selfhost', 'plex', 'smarthome']
 
 ## The Free Software Media System | Jellyfin
  - [https://jellyfin.org](https://jellyfin.org)
  - date published: 2023-01-13 12:53:50+00:00
  - user: rumpel
- - tags: ['jellyfin', 'digital bunker', 'smarthome']
+ - tags: ['selfhost', 'jellyfin', 'smarthome']
 
 ## Volumio - The Music Player
  - [https://volumio.com](https://volumio.com)
@@ -2360,7 +2414,7 @@
  - [https://www.cnn.com/2023/01/12/americas/brazil-riots-condemned-polling-intl/index.html](https://www.cnn.com/2023/01/12/americas/brazil-riots-condemned-polling-intl/index.html)
  - date published: 2023-01-12 16:48:09+00:00
  - user: rumpel
- - tags: ['jan6', 'crisis', 'government', 'brazil']
+ - tags: ['government', 'january 6', 'brazil', 'crisis']
 
 ## The Hidden Consequences Of The Plastic Pollution Crisis
  - [https://www.forbes.com/sites/mariannelehnis/2023/01/12/the-hidden-consequences-of-the-plastic-pollution-crisis/](https://www.forbes.com/sites/mariannelehnis/2023/01/12/the-hidden-consequences-of-the-plastic-pollution-crisis/)

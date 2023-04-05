@@ -14,7 +14,7 @@
  - [https://www.dailymail.co.uk/news/article-4041910/Clinton-mega-donor-George-Soros-leads-line-liberal-billionaires-funding-Facebook-s-fake-news-fact-checker.html](https://www.dailymail.co.uk/news/article-4041910/Clinton-mega-donor-George-Soros-leads-line-liberal-billionaires-funding-Facebook-s-fake-news-fact-checker.html)
  - date published: 2016-12-16 13:56:18+00:00
  - user: None
- - tags: ['george soros', 'fact-checker', 'billionaires', 'elites', 'facebook', 'fakenews', 'soros']
+ - tags: ['fact-checker', 'elites', 'facebook', 'george soros', 'fakenews', 'billionaires']
 
 ## The Most Mysterious Man in 20th-Century Politics | Article | Culture.pl
  - [https://culture.pl/en/article/the-most-mysterious-man-in-20th-century-politics](https://culture.pl/en/article/the-most-mysterious-man-in-20th-century-politics)
@@ -219,6 +219,12 @@
  - date published: 2016-02-15 14:27:49+00:00
  - user: rumpel
  - tags: ['climate change', 'right to repair']
+
+## Snowden files reveal US and UK spied on feeds from Israeli drones and jets
+ - [http://www.theguardian.com/world/2016/jan/29/snowden-files-us-uk-spied-feeds-israeli-drones-jets](http://www.theguardian.com/world/2016/jan/29/snowden-files-us-uk-spied-feeds-israeli-drones-jets)
+ - date published: 2016-01-29 10:37:25+00:00
+ - user: rumpel
+ - tags: ['edward snowden', 'surveillance', 'snowden files']
 
 ## Aaron Swartz Biographer Justin Peters: "Aaron Died for Nothing."
  - [https://www.inverse.com/article/10637-swartz-peters-suicide](https://www.inverse.com/article/10637-swartz-peters-suicide)

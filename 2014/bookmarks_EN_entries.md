@@ -1,3 +1,9 @@
+## Mass surveillance exposed by Snowden ‘not justified by fight against terrorism’
+ - [http://www.theguardian.com/world/2014/dec/08/mass-surveillance-exposed-edward-snowden-not-justified-by-fight-against-terrorism](http://www.theguardian.com/world/2014/dec/08/mass-surveillance-exposed-edward-snowden-not-justified-by-fight-against-terrorism)
+ - date published: 2014-12-08 14:03:00+00:00
+ - user: rumpel
+ - tags: ['surveillance']
+
 ## Can Google be trusted?
  - [http://edition.cnn.com/2014/11/10/opinion/google-new-mission-statement/index.html?eref=edition](http://edition.cnn.com/2014/11/10/opinion/google-new-mission-statement/index.html?eref=edition)
  - date published: 2014-11-10 14:48:05+00:00
@@ -21,6 +27,12 @@
  - date published: 2014-10-17 09:06:52+00:00
  - user: rumpel
  - tags: ['surveillance', 'nsa', 'cloud computing', 'technofeudalism', 'microsoft']
+
+## Citizenfour review  gripping Snowden documentary offers portrait of power, paranoia and one remarkable man
+ - [http://www.theguardian.com/film/2014/oct/16/citizen-four-review-edward-snowden-documentary](http://www.theguardian.com/film/2014/oct/16/citizen-four-review-edward-snowden-documentary)
+ - date published: 2014-10-16 14:00:04+00:00
+ - user: rumpel
+ - tags: ['citizenfour', 'surveillance', 'bigbrother']
 
 ## 7 Propaganda Techniques Used on You Every Day
  - [https://www.youtube.com/watch?v=q8R9MDt4jEc](https://www.youtube.com/watch?v=q8R9MDt4jEc)
@@ -58,6 +70,12 @@
  - user: rumpel
  - tags: ['law', 'freedom', 'privacy']
 
+## The 10 Biggest Revelations From Edward Snowden's Leaks | Mashable
+ - [https://mashable.com/archive/edward-snowden-revelations#EX._mWvT8kq3](https://mashable.com/archive/edward-snowden-revelations#EX._mWvT8kq3)
+ - date published: 2014-06-05 14:55:15+00:00
+ - user: rumpel
+ - tags: ['edward snowden', 'prism', 'surveillance', 'big brother']
+
 ## Facebook Could Decide an Election Without Anyone Ever Finding Out
  - [https://newrepublic.com/article/117878/information-fiduciary-solution-facebook-digital-gerrymandering](https://newrepublic.com/article/117878/information-fiduciary-solution-facebook-digital-gerrymandering)
  - date published: 2014-06-02 11:14:27+00:00
@@ -76,11 +94,23 @@
  - user: rumpel
  - tags: ['surveillance', 'prism', 'nsa', 'privacy', 'bigbrother', 'bigtech', 'microsoft']
 
+## Everyone is under surveillance now, says whistleblower Edward Snowden
+ - [http://www.theguardian.com/world/2014/may/03/everyone-is-under-surveillance-now-says-whistleblower-edward-snowden](http://www.theguardian.com/world/2014/may/03/everyone-is-under-surveillance-now-says-whistleblower-edward-snowden)
+ - date published: 2014-05-03 05:27:51+00:00
+ - user: rumpel
+ - tags: ['surveillance']
+
 ## Why Science Does Not Disprove God
  - [https://time.com/77676/why-science-does-not-disprove-god/](https://time.com/77676/why-science-does-not-disprove-god/)
  - date published: 2014-04-27 19:51:44+00:00
  - user: rumpel
  - tags: ['god', 'science', 'religion']
+
+## Edward Snowden: US government spied on human rights workers
+ - [http://www.theguardian.com/world/2014/apr/08/edwards-snowden-us-government-spied-human-rights-workers](http://www.theguardian.com/world/2014/apr/08/edwards-snowden-us-government-spied-human-rights-workers)
+ - date published: 2014-04-08 15:49:00+00:00
+ - user: rumpel
+ - tags: ['surveillance']
 
 ## Mozilla CEO resigns, opposition to gay marriage drew fire
  - [https://www.reuters.com/article/us-mozilla-ceo-resignation/mozilla-ceo-resigns-opposition-to-gay-marriage-drew-fire-idUSBREA321Y320140403](https://www.reuters.com/article/us-mozilla-ceo-resignation/mozilla-ceo-resigns-opposition-to-gay-marriage-drew-fire-idUSBREA321Y320140403)

@@ -266,7 +266,7 @@
  - [https://www.theverge.com/2018/5/25/17394612/facebook-pepe-frog-ban-meme-anti-semitic-hate](https://www.theverge.com/2018/5/25/17394612/facebook-pepe-frog-ban-meme-anti-semitic-hate)
  - date published: 2018-05-25 14:47:48+00:00
  - user: rumpel
- - tags: ['censorship', 'moderation', 'facebook', 'pepe', 'pepethefrog']
+ - tags: ['censorship', 'moderation', 'facebook', 'pepe']
 
 ## Google erases 'Don't be evil' from code of conduct after 18 years | ZDNET
  - [https://www.zdnet.com/article/google-erases-dont-be-evil-from-code-of-conduct-after-18-years/](https://www.zdnet.com/article/google-erases-dont-be-evil-from-code-of-conduct-after-18-years/)

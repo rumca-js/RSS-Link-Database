@@ -260,7 +260,7 @@
  - [https://www.theepochtimes.com/big-tech-is-eliminating-human-and-civil-rights-by-proxy-security-expert_4940278.html](https://www.theepochtimes.com/big-tech-is-eliminating-human-and-civil-rights-by-proxy-security-expert_4940278.html)
  - date published: 2022-12-25 19:33:38+00:00
  - user: rumpel
- - tags: ['surveillance', 'censorshiplaundering', 'bigtech', 'bigbrothercollusion', 'censorship']
+ - tags: ['censorship', 'censorship laundering', 'surveillance', 'bigtech', 'bigbrothercollusion']
 
 ## The FBI was the primary link between the intelligence community and Twitter
  - [https://threadreaderapp.com/thread/1606701397109796866.html](https://threadreaderapp.com/thread/1606701397109796866.html)
@@ -1568,7 +1568,7 @@
  - [https://reclaimthenet.org/nz-force-big-tech-pay-media/](https://reclaimthenet.org/nz-force-big-tech-pay-media/)
  - date published: 2022-12-05 17:55:44+00:00
  - user: None
- - tags: ['media', 'bigtech', 'newzealand']
+ - tags: ['bigbrother', 'media', 'new zealand', 'bigtech']
 
 ## Meta is expanding its use of AI face scanning to verify users’ age on Facebook Dating
  - [https://www.theverge.com/2022/12/5/23494175/facebook-dating-ai-face-scanning-age-verification-expansion-yoti](https://www.theverge.com/2022/12/5/23494175/facebook-dating-ai-face-scanning-age-verification-expansion-yoti)
@@ -1610,7 +1610,7 @@
  - [https://reclaimthenet.org/yoel-roth-babylon-bee/](https://reclaimthenet.org/yoel-roth-babylon-bee/)
  - date published: 2022-12-04 19:46:29+00:00
  - user: None
- - tags: ['babylonbee', 'censorship', 'twitter']
+ - tags: ['censorship', 'twitter', 'babylon bee']
 
 ## Apple CEO Tim Cook is questioned after company limited popular protest tool in China
  - [https://reclaimthenet.org/tim-cook-questioned-suppressed-popular-protest-tool-in-china/](https://reclaimthenet.org/tim-cook-questioned-suppressed-popular-protest-tool-in-china/)
@@ -5210,7 +5210,7 @@
  - [https://www.techradar.com/news/open-source-software-hijacked-by-north-korean-hackers/](https://www.techradar.com/news/open-source-software-hijacked-by-north-korean-hackers/)
  - date published: 2022-09-30 18:04:24+00:00
  - user: None
- - tags: ['hacker', 'northkorea', 'open source']
+ - tags: ['north korea', 'hacker', 'open source']
 
 ## Google Adsense/Admob blocks you for life if you use it before you're 18
  - [https://support.google.com/adsense/thread/178197751/adsense-account?hl=en](https://support.google.com/adsense/thread/178197751/adsense-account?hl=en)
@@ -5906,7 +5906,7 @@
  - [https://www.dailywire.com/news/fbi-suspends-whistleblower-who-criticized-bureaus-handling-of-january-6-investigations-report](https://www.dailywire.com/news/fbi-suspends-whistleblower-who-criticized-bureaus-handling-of-january-6-investigations-report)
  - date published: 2022-09-21 11:02:35+00:00
  - user: None
- - tags: ['fbi', 'jan6']
+ - tags: ['fbi', 'january 6']
 
 ## Entitlement in Open Source
  - [https://mikemcquaid.com/entitlement-in-open-source/](https://mikemcquaid.com/entitlement-in-open-source/)
@@ -6116,7 +6116,7 @@
  - [https://www.dailymail.co.uk/news/article-11221927/Jeffrey-Epsteins-sex-abuse-victims-frustrated-Prince-Andrew-public-appearances.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11221927/Jeffrey-Epsteins-sex-abuse-victims-frustrated-Prince-Andrew-public-appearances.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2022-09-17 12:14:45+00:00
  - user: None
- - tags: ['princeandrew', 'epstein']
+ - tags: ['epstein', 'prince andrew']
 
 ## Soft White Underbelly demonetized by YouTube [video]
  - [https://www.youtube.com/watch?v=81bMiEjYZ54](https://www.youtube.com/watch?v=81bMiEjYZ54)
@@ -8840,7 +8840,7 @@
  - [https://jacobin.com/2022/01/january-6-capitol-riot-trump-conspiracy-cable-news-national-security-state](https://jacobin.com/2022/01/january-6-capitol-riot-trump-conspiracy-cable-news-national-security-state)
  - date published: 2022-06-01 20:33:44+00:00
  - user: rumpel
- - tags: ['jan6', 'january 6']
+ - tags: ['january 6']
 
 ## Opinion | Stop Pretending All Books Are Written in English - The New York Times
  - [https://www.nytimes.com/2022/05/29/opinion/translator-credit-cover.html](https://www.nytimes.com/2022/05/29/opinion/translator-credit-cover.html)
@@ -10113,6 +10113,12 @@
  - date published: 2022-03-21 16:48:15.985438+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## The Babylon Bee's Twitter Account Was Suspended, But That Made Its Story Go Viral
+ - [https://www.forbes.com/sites/petersuciu/2022/03/21/the-babylon-bees-twitter-account-was-suspended-but-that-made-its-story-go-viral/](https://www.forbes.com/sites/petersuciu/2022/03/21/the-babylon-bees-twitter-account-was-suspended-but-that-made-its-story-go-viral/)
+ - date published: 2022-03-21 14:57:01+00:00
+ - user: rumpel
+ - tags: ['censorship', 'babylone bee']
 
 ## Windows Needs a Change in Priorities | Den Delimarsky
  - [https://den.dev/blog/windows-priority-shuffle/](https://den.dev/blog/windows-priority-shuffle/)

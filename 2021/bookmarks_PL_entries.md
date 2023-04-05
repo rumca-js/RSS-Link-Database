@@ -98,7 +98,7 @@
  - [https://www.onet.pl/informacje/onetwiadomosci/z-facebooka-zniknelo-tysiace-postow-dotyczacych-styczniowego-ataku-na-kongres-usa/04f4jlp,79cfc278](https://www.onet.pl/informacje/onetwiadomosci/z-facebooka-zniknelo-tysiace-postow-dotyczacych-styczniowego-ataku-na-kongres-usa/04f4jlp,79cfc278)
  - date published: 2021-09-01 12:58:18+00:00
  - user: rumpel
- - tags: ['jan6', 'facebook']
+ - tags: ['censorship', 'facebook', 'january 6', 'manufacturing consent']
 
 ## How does Go calculate len()..? – tpaschalis – software, systems
  - [https://tpaschalis.github.io/golang-len/](https://tpaschalis.github.io/golang-len/)
