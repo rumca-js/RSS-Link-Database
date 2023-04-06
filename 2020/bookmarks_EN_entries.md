@@ -314,7 +314,7 @@
  - [https://nypost.com/2020/11/04/twitter-censors-trumps-tweets-about-disappearing-ballots/](https://nypost.com/2020/11/04/twitter-censors-trumps-tweets-about-disappearing-ballots/)
  - date published: 2020-11-04 06:58:00+00:00
  - user: None
- - tags: ['censorship', 'twitter', 'trump']
+ - tags: ['censorship', 'twitter', 'donald trump']
 
 ## Epstein donations force resignation at international peace organization
  - [https://www.cnn.com/2020/10/30/world/epstein-donations-international-peace-institute-resign/index.html](https://www.cnn.com/2020/10/30/world/epstein-donations-international-peace-institute-resign/index.html)
@@ -837,6 +837,12 @@
  - date published: 2020-06-19 09:06:18+00:00
  - user: rumpel
  - tags: ['uyghur', 'china']
+
+## Steam Games Pulled by Indie Devs Over Valve's Silence on Black Lives Matter
+ - [https://www.dualshockers.com/steam-games-pulled-indie-developers-over-valve-silence-black-lives-matter/](https://www.dualshockers.com/steam-games-pulled-indie-developers-over-valve-silence-black-lives-matter/)
+ - date published: 2020-06-17 08:00:19+00:00
+ - user: rumpel
+ - tags: ['activism', 'black lives matter']
 
 ## John Oliver on police use of facial recognition: 'We’re about to cross a major line'
  - [https://www.theguardian.com/culture/2020/jun/15/john-oliver-police-use-facial-recognition](https://www.theguardian.com/culture/2020/jun/15/john-oliver-police-use-facial-recognition)

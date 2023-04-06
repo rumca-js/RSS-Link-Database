@@ -50,7 +50,7 @@
  - [https://www.buzzfeednews.com/article/craigsilverman/how-macedonia-became-a-global-hub-for-pro-trump-misinfo](https://www.buzzfeednews.com/article/craigsilverman/how-macedonia-became-a-global-hub-for-pro-trump-misinfo)
  - date published: 2016-11-03 13:47:25+00:00
  - user: None
- - tags: ['trump', 'socialengineering', 'fakenews', 'socialmedia']
+ - tags: ['socialengineering', 'socialmedia', 'fakenews', 'donald trump']
 
 ## Anonymity: The Greatest Weapon Against Oppression - Learn Liberty
  - [https://www.youtube.com/watch?v=YrIKY8Ot97o](https://www.youtube.com/watch?v=YrIKY8Ot97o)

@@ -110,7 +110,7 @@
  - [https://www.dailymail.co.uk/news/article-11582583/Elon-Musk-slams-Fauci-infamous-science-quote-refuted-criticism-COVID-policy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11582583/Elon-Musk-slams-Fauci-infamous-science-quote-refuted-criticism-COVID-policy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2022-12-29 17:05:56+00:00
  - user: rumpel
- - tags: ['fauci', 'covid', 'musk']
+ - tags: ['elon musk', 'covid', 'fauci']
 
 ## Giving Up on Privacy
  - [https://www.jefftk.com/p/giving-up-on-privacy](https://www.jefftk.com/p/giving-up-on-privacy)
@@ -544,6 +544,12 @@
  - user: None
  - tags: ['propaganda', 'science']
 
+## Twitter disclosures reveal company “directly assisted” in US military PsyOps
+ - [https://reclaimthenet.org/twitter-disclosures-reveal-us-military-psyops/](https://reclaimthenet.org/twitter-disclosures-reveal-us-military-psyops/)
+ - date published: 2022-12-21 18:51:59+00:00
+ - user: rumpel
+ - tags: ['twitter', 'psyop']
+
 ## Google Global requests about users
  - [https://transparencyreport.google.com/user-data/overview?user_requests_report_period=authority:US;time:&lu=user_requests_report_period](https://transparencyreport.google.com/user-data/overview?user_requests_report_period=authority:US;time:&lu=user_requests_report_period)
  - date published: 2022-12-21 18:43:21+00:00
@@ -650,7 +656,7 @@
  - [https://reclaimthenet.org/canada-redefined-economic-impact-as-violence-ea/](https://reclaimthenet.org/canada-redefined-economic-impact-as-violence-ea/)
  - date published: 2022-12-20 16:51:10+00:00
  - user: None
- - tags: ['government', 'socialengineering', 'protest', 'freedomconvoy', 'canada']
+ - tags: ['government', 'protest', 'social engineering', 'freedom convoy', 'canada']
 
 ## Facial Recognition Tech Gets Woman Booted from Rockettes Show Due to Employer
  - [https://www.nbcnewyork.com/investigations/face-recognition-tech-gets-girl-scout-mom-booted-from-rockettes-show-due-to-her-employer/4004677/](https://www.nbcnewyork.com/investigations/face-recognition-tech-gets-girl-scout-mom-booted-from-rockettes-show-due-to-her-employer/4004677/)
@@ -782,7 +788,7 @@
  - [https://www.lemonde.fr/en/economy/article/2022/12/18/musk-vs-musk-the-billionaire-s-obsession-with-twitter-is-undermining-his-accomplishments_6008150_19.html](https://www.lemonde.fr/en/economy/article/2022/12/18/musk-vs-musk-the-billionaire-s-obsession-with-twitter-is-undermining-his-accomplishments_6008150_19.html)
  - date published: 2022-12-17 23:51:18+00:00
  - user: None
- - tags: ['censorship', 'twitter', 'moderation', 'free speech', 'musk']
+ - tags: ['censorship', 'twitter', 'moderation', 'free speech', 'elon musk']
 
 ## Legendary programmer John Carmack leaves Meta: 'This is the end of my decade in VR'⁠
  - [https://www.pcgamer.com/legendary-programmer-john-carmack-leaves-meta-this-is-the-end-of-my-decade-in-vr](https://www.pcgamer.com/legendary-programmer-john-carmack-leaves-meta-this-is-the-end-of-my-decade-in-vr)
@@ -1118,7 +1124,7 @@
  - [https://www.dailymail.co.uk/news/article-11530873/Twitter-files-Trump-banned-world-dictators-allowed-call-mass-murder.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11530873/Twitter-files-Trump-banned-world-dictators-allowed-call-mass-murder.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2022-12-13 00:39:13+00:00
  - user: None
- - tags: ['censorship', 'trump', 'twitter files', 'twitter']
+ - tags: ['censorship', 'twitter', 'twitter files', 'donald trump']
 
 ## This Privacy Setting Helps Keep Facebook From Tracking You     - CNET
  - [https://www.cnet.com/news/privacy/this-privacy-setting-helps-keep-facebook-from-tracking-you/#ftag=CADf328eec](https://www.cnet.com/news/privacy/this-privacy-setting-helps-keep-facebook-from-tracking-you/#ftag=CADf328eec)
@@ -1562,7 +1568,7 @@
  - [https://www.dailywire.com/news/ben-shapiro-twitter-files-show-2020-was-rigged-not-stolen-but-trump-is-hurting-himself](https://www.dailywire.com/news/ben-shapiro-twitter-files-show-2020-was-rigged-not-stolen-but-trump-is-hurting-himself)
  - date published: 2022-12-05 18:04:27+00:00
  - user: None
- - tags: ['twitter files', 'censorship', 'twitter', 'trump']
+ - tags: ['censorship', 'twitter', 'donald trump', 'twitter files']
 
 ## New Zealand wants to force Big Tech to hand over cash to mainstream media
  - [https://reclaimthenet.org/nz-force-big-tech-pay-media/](https://reclaimthenet.org/nz-force-big-tech-pay-media/)
@@ -2240,7 +2246,7 @@
  - [https://www.dailymail.co.uk/news/article-11451899/Elon-Musk-reveals-never-let-Alex-Jones-Twitter.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11451899/Elon-Musk-reveals-never-let-Alex-Jones-Twitter.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2022-11-21 09:28:40+00:00
  - user: None
- - tags: ['moderation', 'alexjones', 'deplatform', 'social media', 'musk']
+ - tags: ['deplatform', 'moderation', 'alex jones', 'social media', 'elon musk']
 
 ## Pentagon promotes critical race theory, gender identity 'insanity': GOP report
  - [https://www.foxnews.com/politics/pentagon-critical-race-theory-gender-identity-insanity-gop](https://www.foxnews.com/politics/pentagon-critical-race-theory-gender-identity-insanity-gop)
@@ -2270,7 +2276,7 @@
  - [https://www.forbes.com/sites/johnbbrandon/2022/11/20/elon-musk-reinstated-donald-trump-on-twitter-now-the-real-drama-begins/](https://www.forbes.com/sites/johnbbrandon/2022/11/20/elon-musk-reinstated-donald-trump-on-twitter-now-the-real-drama-begins/)
  - date published: 2022-11-20 15:48:31+00:00
  - user: None
- - tags: ['trump', 'censorship', 'moderation', 'musk']
+ - tags: ['censorship', 'moderation', 'elon musk', 'donald trump']
 
 ## Amazon Is Gutting Its Voice-Assistant Alexa
  - [https://www.businessinsider.com/amazon-alexa-job-layoffs-rise-and-fall-2022-11](https://www.businessinsider.com/amazon-alexa-job-layoffs-rise-and-fall-2022-11)
@@ -2354,7 +2360,7 @@
  - [https://www.dailymail.co.uk/news/article-11436517/Democrat-pushes-legislation-ban-Trump-holding-office.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11436517/Democrat-pushes-legislation-ban-Trump-holding-office.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2022-11-16 21:32:12+00:00
  - user: None
- - tags: ['bigbrother', 'censorship', 'trump']
+ - tags: ['censorship', 'bigbrother', 'donald trump']
 
 ## Why Is Super Creep Klaus Schwab Even At The G-20 Summit?
  - [https://www.dailywire.com/news/why-is-super-creep-klaus-schwab-even-at-the-g-20-summit](https://www.dailywire.com/news/why-is-super-creep-klaus-schwab-even-at-the-g-20-summit)
@@ -2618,7 +2624,7 @@
  - [https://old.reddit.com/r/youtube/comments/ymoyx3/youtube_confirms_that_it_has_removed_the_sort_by/](https://old.reddit.com/r/youtube/comments/ymoyx3/youtube_confirms_that_it_has_removed_the_sort_by/)
  - date published: 2022-11-11 08:54:26+00:00
  - user: None
- - tags: ['youtube', 'feature drain']
+ - tags: ['technofeudalism', 'corporatocracy', 'youtube']
 
 ## Silicon Valley layoffs are a reminder that your job won’t love you back
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59481](https://www.codeproject.com/script/News/View.aspx?nwid=59481)
@@ -2870,13 +2876,13 @@
  - [https://www.reuters.com/technology/musk-orders-twitter-cut-infrastructure-costs-by-1-bln-sources-2022-11-03/](https://www.reuters.com/technology/musk-orders-twitter-cut-infrastructure-costs-by-1-bln-sources-2022-11-03/)
  - date published: 2022-11-05 02:32:06+00:00
  - user: None
- - tags: ['twitter', 'musk']
+ - tags: ['twitter', 'elon musk']
 
 ## Meta's Oversight Board to Elon Musk: Stop Pissing Off Twitter's Advertisers
  - [https://gizmodo.com/meta-twitter-facebook-advertisers-musk-1849745400](https://gizmodo.com/meta-twitter-facebook-advertisers-musk-1849745400)
  - date published: 2022-11-04 21:40:00+00:00
  - user: None
- - tags: ['twitter', 'oversight board', 'meta', 'musk']
+ - tags: ['oversight board', 'twitter', 'elon musk', 'meta']
 
 ## Intel's pay-as-you-go CPU platform finally has a name, but is still shrouded in secrecy
  - [https://www.techradar.com/news/intels-pay-as-you-go-cpu-platform-finally-has-a-name-but-is-still-shrouded-in-secrecy/](https://www.techradar.com/news/intels-pay-as-you-go-cpu-platform-finally-has-a-name-but-is-still-shrouded-in-secrecy/)
@@ -3104,7 +3110,7 @@
  - [https://www.dailywire.com/news/anti-woke-youtube-competitor-rumble-tells-france-au-revoir-over-censorship-demands](https://www.dailywire.com/news/anti-woke-youtube-competitor-rumble-tells-france-au-revoir-over-censorship-demands)
  - date published: 2022-11-02 09:21:52+00:00
  - user: None
- - tags: ['rumple', 'moderation', 'woke', 'censorship', 'trump']
+ - tags: ['censorship', 'woke', 'rumple', 'moderation', 'donald trump']
 
 ## Biden blasted for blaming high inflation on ‘war in Iraq,’ confusion on where his son died: ‘This is just sad’
  - [https://www.foxnews.com/media/biden-blasted-blaming-high-inflation-war-iraq-confusion-son-died-sad](https://www.foxnews.com/media/biden-blasted-blaming-high-inflation-war-iraq-confusion-son-died-sad)
@@ -3422,7 +3428,7 @@
  - [https://www.louderwithcrowder.com/youtube-suspends-louder-crowder-musk](https://www.louderwithcrowder.com/youtube-suspends-louder-crowder-musk)
  - date published: 2022-10-29 21:14:04+00:00
  - user: None
- - tags: ['censorship', 'crowder', 'twitter', 'musk', 'youtube']
+ - tags: ['censorship', 'twitter', 'crowder', 'elon musk', 'youtube']
 
 ## AdGuardHome: Network-wide ads and trackers blocking DNS server
  - [https://github.com/AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)
@@ -3506,7 +3512,7 @@
  - [https://www.theverge.com/2022/10/28/23428792/elon-musk-twitter-content-moderation-council-trump](https://www.theverge.com/2022/10/28/23428792/elon-musk-twitter-content-moderation-council-trump)
  - date published: 2022-10-28 18:43:44+00:00
  - user: None
- - tags: ['musk', 'twitter', 'moderation']
+ - tags: ['twitter', 'elon musk', 'moderation']
 
 ## Google ‘targeting Senate’ after study shows ‘search bias’ doesn’t impact House, Media Research Center says
  - [https://www.foxnews.com/media/google-targeting-senate-after-study-shows-search-bias-doesnt-impact-house-media-research-center-says](https://www.foxnews.com/media/google-targeting-senate-after-study-shows-search-bias-doesnt-impact-house-media-research-center-says)
@@ -3608,7 +3614,7 @@
  - [https://www.dailywire.com/news/musk-fires-person-who-censored-hunter-biden-story-banned-conservative-accounts-buckle-up-motherfs](https://www.dailywire.com/news/musk-fires-person-who-censored-hunter-biden-story-banned-conservative-accounts-buckle-up-motherfs)
  - date published: 2022-10-27 21:37:06+00:00
  - user: None
- - tags: ['twitter', 'musk']
+ - tags: ['twitter', 'elon musk']
 
 ## OpenSSL is patching just its second critical security flaw ever
  - [https://www.techradar.com/news/openssl-is-patching-just-its-second-critical-security-flaw-ever/](https://www.techradar.com/news/openssl-is-patching-just-its-second-critical-security-flaw-ever/)
@@ -4186,6 +4192,12 @@
  - user: None
  - tags: ['programming', 'floating-point']
 
+## Identifying forum agitators, psyops and shills
+ - [https://edith.reisen/computers/security/forum_shills.html](https://edith.reisen/computers/security/forum_shills.html)
+ - date published: 2022-10-21 22:53:38+00:00
+ - user: rumpel
+ - tags: ['propaganda', 'psyop', 'web forum', 'misinformation', 'disinformation']
+
 ## ‘Battle Of Good Vs. Evil’: Read Matt Walsh’s Full Speech Delivered At The ‘Rally To End Child Mutilation’
  - [https://www.dailywire.com/news/battle-of-good-vs-evil-read-matt-walshs-full-speech-delivered-at-the-rally-to-end-child-mutilation](https://www.dailywire.com/news/battle-of-good-vs-evil-read-matt-walshs-full-speech-delivered-at-the-rally-to-end-child-mutilation)
  - date published: 2022-10-21 22:33:11+00:00
@@ -4353,6 +4365,12 @@
  - date published: 2022-10-20 09:00:58+00:00
  - user: None
  - tags: $tags
+
+## More than 100 pro-life orgs, churches attacked since Dobbs leak
+ - [https://www.foxnews.com/politics/100-pro-life-orgs-churches-attacked-dobbs-leak](https://www.foxnews.com/politics/100-pro-life-orgs-churches-attacked-dobbs-leak)
+ - date published: 2022-10-20 06:00:26+00:00
+ - user: rumpel
+ - tags: ['christianophobia']
 
 ## MNSBC’s Hasan blasts COVID lockdown critics, says people are ‘pretending to care’ about kids’ ‘learning loss’
  - [https://www.foxnews.com/media/mnsbcs-hasan-blasts-covid-lockdown-critics-says-people-pretending-care-kids-learning-loss](https://www.foxnews.com/media/mnsbcs-hasan-blasts-covid-lockdown-critics-says-people-pretending-care-kids-learning-loss)
@@ -4808,7 +4826,7 @@
  - [https://www.dailymail.co.uk/news/article-11293657/Elon-Musk-blames-woke-colleges-turning-transgender-daughter-Vivian-18-against-him.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11293657/Elon-Musk-blames-woke-colleges-turning-transgender-daughter-Vivian-18-against-him.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2022-10-08 03:49:19+00:00
  - user: None
- - tags: ['woke', 'trans', 'musk', 'gender']
+ - tags: ['trans', 'gender', 'elon musk', 'woke']
 
 ## Democrats are operating a series of 51 'fake news' sites pushing left-wing stories in toss-up states
  - [https://www.dailymail.co.uk/news/article-11293487/Democrats-operating-series-51-fake-news-sites-pushing-left-wing-stories-toss-states.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11293487/Democrats-operating-series-51-fake-news-sites-pushing-left-wing-stories-toss-states.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -4916,7 +4934,7 @@
  - [https://www.engadget.com/google-arizona-user-tracking-suit-85-million-191649436.html?src=rss](https://www.engadget.com/google-arizona-user-tracking-suit-85-million-191649436.html?src=rss)
  - date published: 2022-10-05 19:16:49+00:00
  - user: None
- - tags: ['google', 'privacy', 'tracking arizona']
+ - tags: ['tracking', 'smartphone', 'privacy', 'google', 'android']
 
 ## LibSQL is an open source, open contribution fork of SQLite
  - [https://github.com/libsql/libsql](https://github.com/libsql/libsql)
@@ -5942,7 +5960,7 @@
  - [https://gizmodo.com/youtube-algorithm-thumbs-down-dislike-google-1849558559](https://gizmodo.com/youtube-algorithm-thumbs-down-dislike-google-1849558559)
  - date published: 2022-09-20 18:30:00+00:00
  - user: None
- - tags: $tags
+ - tags: ['algorithms', 'technofeudalism', 'youtube']
 
 ## Biden’s Declaration That The COVID Pandemic Is ‘Over’ Explodes Liberals’ Heads
  - [https://www.dailywire.com/news/bidens-declaration-that-the-covid-pandemic-is-over-explodes-liberals-heads](https://www.dailywire.com/news/bidens-declaration-that-the-covid-pandemic-is-over-explodes-liberals-heads)
@@ -7407,6 +7425,12 @@
  - date published: 2022-08-25 08:39:50+00:00
  - user: rumpel
  - tags: ['programming', 'webscraping', 'python']
+
+## Researchers caught a pro-US campaign spreading propaganda on social media - The Verge
+ - [https://www.theverge.com/2022/8/25/23322214/us-government-propaganda-campaign-twitter-facebook](https://www.theverge.com/2022/8/25/23322214/us-government-propaganda-campaign-twitter-facebook)
+ - date published: 2022-08-25 08:27:36+00:00
+ - user: rumpel
+ - tags: ['facebook', 'propaganda', 'social media', 'twitter', 'disinformation', 'meta', 'misinformation', 'psyop']
 
 ## WEF States That We Will Eat Bugs Voluntarily Soon
  - [https://www.independentsentinel.com/wef-states-that-we-will-eat-bugs-voluntarily-soon/](https://www.independentsentinel.com/wef-states-that-we-will-eat-bugs-voluntarily-soon/)
@@ -9782,7 +9806,7 @@
  - [https://www.cbc.ca/news/canada/ottawa/freedom-convoy-donations-1.6410105](https://www.cbc.ca/news/canada/ottawa/freedom-convoy-donations-1.6410105)
  - date published: 2022-04-07 08:33:50+00:00
  - user: rumpel
- - tags: ['protest', 'censorship', 'freedomconvoy', 'covid']
+ - tags: ['censorship', 'covid', 'protest', 'freedom convoy']
 
 ## Twitter Edits You
  - [http://www.kevinmarks.com/twittereditsyou.html](http://www.kevinmarks.com/twittereditsyou.html)
@@ -10118,7 +10142,7 @@
  - [https://www.forbes.com/sites/petersuciu/2022/03/21/the-babylon-bees-twitter-account-was-suspended-but-that-made-its-story-go-viral/](https://www.forbes.com/sites/petersuciu/2022/03/21/the-babylon-bees-twitter-account-was-suspended-but-that-made-its-story-go-viral/)
  - date published: 2022-03-21 14:57:01+00:00
  - user: rumpel
- - tags: ['censorship', 'babylone bee']
+ - tags: ['censorship', 'babylon bee']
 
 ## Windows Needs a Change in Priorities | Den Delimarsky
  - [https://den.dev/blog/windows-priority-shuffle/](https://den.dev/blog/windows-priority-shuffle/)

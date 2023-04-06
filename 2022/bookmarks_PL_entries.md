@@ -98,7 +98,7 @@
  - [https://forsal.pl/biznes/aktualnosci/artykuly/8611458,elon-musk-miliarderzy-demokracja.html](https://forsal.pl/biznes/aktualnosci/artykuly/8611458,elon-musk-miliarderzy-demokracja.html)
  - date published: 2022-12-18 09:57:31+00:00
  - user: None
- - tags: ['billionaires', 'musk', 'elites']
+ - tags: ['elites', 'elon musk', 'billionaires']
 
 ## W razie ataku na Tajwan świat będzie zgubiony. Przeniesienie produkcji mikroczipów do USA nas nie uratuje
  - [https://www.chip.pl/2022/12/widmo-polprzewodnikowej-katastrofy-chiny-tajwan](https://www.chip.pl/2022/12/widmo-polprzewodnikowej-katastrofy-chiny-tajwan)
@@ -434,7 +434,7 @@
  - [https://www.bankier.pl/wiadomosc/Czestochowa-ma-zaplacic-za-gaz-w-2023-roku-przeszlo-dwukrotnie-wiecej-niz-w-tym-8427018.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Czestochowa-ma-zaplacic-za-gaz-w-2023-roku-przeszlo-dwukrotnie-wiecej-niz-w-tym-8427018.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date published: 2022-10-21 16:02:00+00:00
  - user: None
- - tags: ['crysis', 'poland']
+ - tags: ['poland', 'crisis']
 
 ## Depopulation Is Causing Economic Collapse And Is Going To Get Substantially Worse
  - [https://www.youtube.com/watch?v=m7rmirduyZw](https://www.youtube.com/watch?v=m7rmirduyZw)

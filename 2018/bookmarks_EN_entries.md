@@ -32,7 +32,7 @@
  - [https://www.miamiherald.com/news/local/article220097825.html](https://www.miamiherald.com/news/local/article220097825.html)
  - date published: 2018-11-28 20:01:48+00:00
  - user: rumpel
- - tags: ['epstein', 'trump']
+ - tags: ['jeffrey epstein', 'donald trump']
 
 ## Eyes Wide Shut - What it all Meant
  - [https://www.youtube.com/watch?v=aXwy7M7Udmg](https://www.youtube.com/watch?v=aXwy7M7Udmg)
@@ -320,7 +320,7 @@
  - [https://www.vox.com/policy-and-politics/2018/3/23/17151916/facebook-cambridge-analytica-trump-diagram](https://www.vox.com/policy-and-politics/2018/3/23/17151916/facebook-cambridge-analytica-trump-diagram)
  - date published: 2018-05-02 11:10:30+00:00
  - user: None
- - tags: ['trump', 'propaganda', 'facebook', 'censorship', 'cambridge analytica']
+ - tags: ['facebook', 'censorship', 'propaganda', 'donald trump', 'cambridge analytica']
 
 ## WHO donors in 2017 – US, Gates Foundation
  - [https://www.keionline.org/27708](https://www.keionline.org/27708)
@@ -422,7 +422,7 @@
  - [https://www.theguardian.com/news/2018/mar/17/cambridge-analytica-facebook-influence-us-election](https://www.theguardian.com/news/2018/mar/17/cambridge-analytica-facebook-influence-us-election)
  - date published: 2018-03-17 11:11:42+00:00
  - user: None
- - tags: ['trump', 'propaganda', 'facebook', 'censorship', 'cambridge analytica']
+ - tags: ['facebook', 'censorship', 'propaganda', 'donald trump', 'cambridge analytica']
 
 ## These Are The Concerns Slowly Killing Ad-Tech
  - [https://readwrite.com/concerns-slowly-killing-ad-tech/](https://readwrite.com/concerns-slowly-killing-ad-tech/)
@@ -500,5 +500,5 @@
  - [https://www.theguardian.com/technology/2018/jan/04/meltdown-spectre-worst-cpu-bugs-ever-found-affect-computers-intel-processors-security-flaw](https://www.theguardian.com/technology/2018/jan/04/meltdown-spectre-worst-cpu-bugs-ever-found-affect-computers-intel-processors-security-flaw)
  - date published: 2018-01-04 12:06:43+00:00
  - user: rumpel
- - tags: ['spectre', 'meltdown', 'inter', 'vulnerability']
+ - tags: ['intel', 'meltdown', 'vulnerability', 'spectre']
 

@@ -1,3 +1,21 @@
+## GPT4 impersonating a FTP server at ftp.disney.com
+ - [https://www.filestash.app/2023/04/01/chat-gpt-acting-as-a-ftp-server/](https://www.filestash.app/2023/04/01/chat-gpt-acting-as-a-ftp-server/)
+ - date published: 2023-04-05 06:54:05+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence', 'gpt4']
+
+## PWAs in App Stores
+ - [https://web.dev/pwas-in-app-stores/](https://web.dev/pwas-in-app-stores/)
+ - date published: 2023-04-05 03:50:27+00:00
+ - user: rumpel
+ - tags: ['programming', 'pwa']
+
+## South African Court Urged to Revoke Authorization of Pfizer’s COVID-19 Vaccine
+ - [https://www.theepochtimes.com/south-african-court-urged-to-revoke-authorization-of-pfizers-covid-19-vaccine_5170706.html](https://www.theepochtimes.com/south-african-court-urged-to-revoke-authorization-of-pfizers-covid-19-vaccine_5170706.html)
+ - date published: 2023-04-04 14:16:54+00:00
+ - user: rumpel
+ - tags: ['vaccine', 'covid']
+
 ## The Untold Story of OpenAI: Microsoft's Takeover
  - [https://www.youtube.com/watch?v=o07kRSvz7yM](https://www.youtube.com/watch?v=o07kRSvz7yM)
  - date published: 2023-04-04 13:00:36+00:00
@@ -9,6 +27,18 @@
  - date published: 2023-04-04 12:11:05+00:00
  - user: rumpel
  - tags: ['artificial intelligence']
+
+## Acceptable Hate: Assaults on Christianity Go Overlooked | Opinion
+ - [https://www.newsweek.com/acceptable-hate-assaults-christianity-go-overlooked-opinion-1791866](https://www.newsweek.com/acceptable-hate-assaults-christianity-go-overlooked-opinion-1791866)
+ - date published: 2023-04-04 10:00:01+00:00
+ - user: rumpel
+ - tags: ['christianophobia']
+
+## George Soros Is a Familiar Villain for the Right Wing in Trump’s Indictment
+ - [https://www.nytimes.com/2023/04/04/us/politics/george-soros-bragg-trump.html](https://www.nytimes.com/2023/04/04/us/politics/george-soros-bragg-trump.html)
+ - date published: 2023-04-04 09:00:19+00:00
+ - user: rumpel
+ - tags: ['george soros', 'donald trump']
 
 ## New Zealand Prime Minister Chris Hipkins lost for words after reporter asks him to 'define a woman'
  - [https://www.dailymail.co.uk/news/article-11935809/New-Zealand-Prime-Minister-Chris-Hipkins-lost-words-reporter-asks-define-woman.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11935809/New-Zealand-Prime-Minister-Chris-Hipkins-lost-words-reporter-asks-define-woman.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -27,6 +57,12 @@
  - date published: 2023-04-03 05:04:25+00:00
  - user: rumpel
  - tags: ['artificial intelligence', 'github']
+
+## Former Google AI engineer claims Bard was trained using ChatGPT
+ - [https://www.androidcentral.com/apps-software/former-employee-claims-bard-trained-using-chatgpt](https://www.androidcentral.com/apps-software/former-employee-claims-bard-trained-using-chatgpt)
+ - date published: 2023-04-03 04:00:00+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
 
 ## How the U.S. Came to Use Spyware It Was Trying to Kill
  - [https://www.nytimes.com/2023/04/02/us/politics/nso-contract-us-spy.html](https://www.nytimes.com/2023/04/02/us/politics/nso-contract-us-spy.html)
@@ -130,6 +166,12 @@
  - user: rumpel
  - tags: ['google']
 
+## Brazil, China strike trade deal agreement to ditch US dollar | Fox Business
+ - [https://www.foxbusiness.com/markets/brazil-china-strike-trade-deal-agreement-ditch-us-dollar](https://www.foxbusiness.com/markets/brazil-china-strike-trade-deal-agreement-ditch-us-dollar)
+ - date published: 2023-03-29 17:20:40+00:00
+ - user: rumpel
+ - tags: ['china', 'brasil']
+
 ## 'Patriot Act on Steroids:' Conservatives Slam RESTRICT Act on Social Media
  - [https://www.breitbart.com/tech/2023/03/29/patriot-act-on-steroids-conservatives-slam-restrict-act-on-social-media/](https://www.breitbart.com/tech/2023/03/29/patriot-act-on-steroids-conservatives-slam-restrict-act-on-social-media/)
  - date published: 2023-03-29 06:04:09+00:00
@@ -165,6 +207,12 @@
  - date published: 2023-03-28 01:55:53+00:00
  - user: rumpel
  - tags: ['tiktok', 'censorship', 'restrict act', 'surveillance']
+
+## Clearview AI used nearly 1M times by US police, it tells the BBC
+ - [https://www.bbc.com/news/technology-65057011](https://www.bbc.com/news/technology-65057011)
+ - date published: 2023-03-28 00:25:31+00:00
+ - user: rumpel
+ - tags: ['privacy', 'surveillance', 'facial recognition', 'bigbrother', 'clearview', 'artificial intelligence']
 
 ## The FBI’s Contract to Buy Mass Internet Data
  - [https://www.vice.com/en/article/dy3z9a/fbi-bought-netflow-data-team-cymru-contract](https://www.vice.com/en/article/dy3z9a/fbi-bought-netflow-data-team-cymru-contract)
@@ -519,6 +567,12 @@
  - date published: 2023-03-13 09:24:51+00:00
  - user: rumpel
  - tags: ['malware', 'botnet', 'vulnerabilities']
+
+## BREAKING: 300th Catholic Church Attacked Since 2020 - CatholicVote org
+ - [https://catholicvote.org/breaking-300th-catholic-church-attacked-since-2020/](https://catholicvote.org/breaking-300th-catholic-church-attacked-since-2020/)
+ - date published: 2023-03-13 08:51:32+00:00
+ - user: rumpel
+ - tags: ['christianophobia']
 
 ## America Has Replaced Capitalism with Cronyism
  - [https://nymag.com/intelligencer/_pages/ck8xtn5bu00qawly6zpbbvn3a.html](https://nymag.com/intelligencer/_pages/ck8xtn5bu00qawly6zpbbvn3a.html)
@@ -1874,7 +1928,7 @@
  - [https://www.theguardian.com/us-news/2023/jan/26/why-is-donald-trump-being-allowed-back-on-facebook-instagram-ban-meta-guardrails](https://www.theguardian.com/us-news/2023/jan/26/why-is-donald-trump-being-allowed-back-on-facebook-instagram-ban-meta-guardrails)
  - date published: 2023-01-26 05:26:18+00:00
  - user: rumpel
- - tags: ['facebook', 'moderation', 'censorship', 'trump', 'meta']
+ - tags: ['facebook', 'censorship', 'meta', 'moderation', 'donald trump']
 
 ## Bill Gates MRNA Grift EXPOSED? Billionaire TRASHES Jab Despite Reaping MASSIVE Profits: Brie & Robby
  - [https://www.youtube.com/watch?v=kGctGh3vvJg](https://www.youtube.com/watch?v=kGctGh3vvJg)
@@ -2438,7 +2492,7 @@
  - [https://www.washingtonpost.com/technology/2023/01/12/elon-musk-net-worth-record-loss/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2023/01/12/elon-musk-net-worth-record-loss/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - date published: 2023-01-12 09:47:55+00:00
  - user: rumpel
- - tags: ['elite', 'twitter', 'musk', 'billionaires']
+ - tags: ['elite', 'elon musk', 'billionaires', 'twitter']
 
 ## Roomba testers feel misled after intimate images ended up on Facebook
  - [https://www.technologyreview.com/2023/01/10/1066500/roomba-irobot-robot-vacuum-beta-product-testers-consent-agreement-misled/](https://www.technologyreview.com/2023/01/10/1066500/roomba-irobot-robot-vacuum-beta-product-testers-consent-agreement-misled/)

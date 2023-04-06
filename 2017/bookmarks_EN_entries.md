@@ -62,7 +62,7 @@
  - [https://www.huffingtonpost.co.uk/entry/british-politicians-fake-news_uk_58b60832e4b0a8a9b7870126](https://www.huffingtonpost.co.uk/entry/british-politicians-fake-news_uk_58b60832e4b0a8a9b7870126)
  - date published: 2017-11-03 15:36:18+00:00
  - user: None
- - tags: ['trump', 'disinformation', 'uk', 'fakenews']
+ - tags: ['fakenews', 'disinformation', 'uk', 'donald trump']
 
 ## Google as a search engine is becoming useless
  - [http://www.coalpha.org/Google-as-a-search-engine-is-becoming-useless-td7576886.html](http://www.coalpha.org/Google-as-a-search-engine-is-becoming-useless-td7576886.html)

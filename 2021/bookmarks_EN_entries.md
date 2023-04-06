@@ -146,7 +146,7 @@
  - [https://blog.carlmjohnson.net/post/2021/requests-golang-http-client/](https://blog.carlmjohnson.net/post/2021/requests-golang-http-client/)
  - date published: 2021-12-24 15:51:48+00:00
  - user: Thomas Pain
- - tags: ['cleancode', 'go', 'programming']
+ - tags: ['clean code', 'go', 'programming']
 
 ## My productivity app is a single .txt file
  - [https://jeffhuang.com/productivity_text_file/](https://jeffhuang.com/productivity_text_file/)
@@ -206,7 +206,7 @@
  - [https://www.the-sun.com/news/4315751/donald-trump-epstein-lolita-express-ghislaine-maxwell/](https://www.the-sun.com/news/4315751/donald-trump-epstein-lolita-express-ghislaine-maxwell/)
  - date published: 2021-12-21 11:50:07+00:00
  - user: rumpel
- - tags: ['billionaires', 'epstein', 'trump', 'elite']
+ - tags: ['jeffrey epstein', 'elite', 'billionaires', 'donald trump']
 
 ## Omicron coverage reveals how the establishment, media keep us scared
  - [https://nypost.com/2021/12/21/omicron-coverage-reveals-how-the-establishment-media-keep-us-scared/](https://nypost.com/2021/12/21/omicron-coverage-reveals-how-the-establishment-media-keep-us-scared/)
@@ -310,6 +310,12 @@
  - user: None
  - tags: ['lockdown', 'freedom', 'covid']
 
+## Announcement: Clearview AI ordered to comply with recommendations to stop collecting, sharing images - Office of the Privacy Commissioner of Canada
+ - [https://www.priv.gc.ca/en/opc-news/news-and-announcements/2021/an_211214/](https://www.priv.gc.ca/en/opc-news/news-and-announcements/2021/an_211214/)
+ - date published: 2021-12-14 19:19:51+00:00
+ - user: rumpel
+ - tags: ['privacy', 'surveillance', 'facial recognition', 'bigbrother', 'clearview', 'artificial intelligence']
+
 ## Politician says Germany should ban Telegram unless it tackles extremist content
  - [https://news.yahoo.com/politician-says-germany-ban-telegram-182425996.html](https://news.yahoo.com/politician-says-germany-ban-telegram-182425996.html)
  - date published: 2021-12-14 12:24:51+00:00
@@ -358,6 +364,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## George Soros funneled $3M into 'dark money hub' for activists working to defund police, grants show | Daily Mail Online
+ - [https://www.dailymail.co.uk/news/article-10292665/George-Soros-funneled-3M-dark-money-hub-activists-working-defund-police-grants-show.html](https://www.dailymail.co.uk/news/article-10292665/George-Soros-funneled-3M-dark-money-hub-activists-working-defund-police-grants-show.html)
+ - date published: 2021-12-09 07:30:06+00:00
+ - user: rumpel
+ - tags: ['billionaires', 'george soros', 'black lives matter']
+
 ## Evidence from Jeffrey Epstein's safe 'went missing' after FBI raid, court hears in Ghislaine Maxwell trial
  - [https://www.telegraph.co.uk/world-news/2021/12/07/evidence-jeffrey-epsteins-safe-went-missing-fbi-raid-court-hears/](https://www.telegraph.co.uk/world-news/2021/12/07/evidence-jeffrey-epsteins-safe-went-missing-fbi-raid-court-hears/)
  - date published: 2021-12-07 22:37:20+00:00
@@ -381,6 +393,12 @@
  - date published: 2021-12-05 16:52:34.065073+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Australia says U.S. facial recognition software firm Clearview breached privacy law | Reuters
+ - [https://www.reuters.com/business/cop/australia-says-us-facial-recognition-software-firm-clearview-breached-privacy-2021-11-03/](https://www.reuters.com/business/cop/australia-says-us-facial-recognition-software-firm-clearview-breached-privacy-2021-11-03/)
+ - date published: 2021-12-03 19:20:51+00:00
+ - user: rumpel
+ - tags: ['privacy', 'surveillance', 'facial recognition', 'bigbrother', 'australia', 'clearview', 'artificial intelligence']
 
 ## LEGO has designed a set that can't be taken apart | Brickset: LEGO set guide and database
  - [https://brickset.com/article/67650/lego-has-designed-a-set-that-can-t-be-taken-apart](https://brickset.com/article/67650/lego-has-designed-a-set-that-can-t-be-taken-apart)
@@ -849,6 +867,12 @@
  - date published: 2021-11-04 11:30:30+00:00
  - user: None
  - tags: ['wuhan', 'covid', 'covid origins']
+
+## Facial recognition firm Clearview AI to appeal order to stop collecting images of Australians | Privacy | The Guardian
+ - [https://www.theguardian.com/world/2021/nov/03/facial-recognition-firm-cleaview-ai-to-appeal-order-to-stop-collecting-images-of-australians](https://www.theguardian.com/world/2021/nov/03/facial-recognition-firm-cleaview-ai-to-appeal-order-to-stop-collecting-images-of-australians)
+ - date published: 2021-11-03 19:21:58+00:00
+ - user: rumpel
+ - tags: ['privacy', 'surveillance', 'facial recognition', 'bigbrother', 'australia', 'clearview', 'artificial intelligence']
 
 ## Do-nothing scripting: the key to gradual automation – Dan Slimmon
  - [https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/](https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/)
@@ -2776,6 +2800,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Wikipedia co-founder says site is now 'propaganda' for left-leaning 'establishment'
+ - [https://nypost.com/2021/07/16/wikipedia-co-founder-says-site-is-now-propaganda-for-left-leaning-establishment/](https://nypost.com/2021/07/16/wikipedia-co-founder-says-site-is-now-propaganda-for-left-leaning-establishment/)
+ - date published: 2021-07-16 14:40:26+00:00
+ - user: rumpel
+ - tags: ['wikipedia', 'manufacturing consent', 'propaganda']
+
 ## Processing IOT Data with SQLite and Golang - Jeremy Morgan's Tech Blog
  - [https://www.jeremymorgan.com/tutorials/go/how-to-iot-data-go-sqlite/](https://www.jeremymorgan.com/tutorials/go/how-to-iot-data-go-sqlite/)
  - date published: 2021-07-16 14:20:11+00:00
@@ -3147,6 +3177,12 @@
  - date published: 2021-05-27 20:19:38+00:00
  - user: None
  - tags: ['microsoft', 'surveillance', 'bigtech', 'orwell']
+
+## NGOs file complaints against Clearview AI in five countries | Computer Weekly
+ - [https://www.computerweekly.com/news/252501435/NGOs-file-complaints-against-Clearview-AI-in-five-countries](https://www.computerweekly.com/news/252501435/NGOs-file-complaints-against-Clearview-AI-in-five-countries)
+ - date published: 2021-05-27 19:23:24+00:00
+ - user: rumpel
+ - tags: ['privacy', 'surveillance', 'facial recognition', 'bigbrother', 'clearview', 'artificial intelligence']
 
 ## Fauci admits ‘modest’ NIH funding of Wuhan lab but denies ‘gain of function
  - [https://nypost.com/2021/05/25/fauci-admits-nih-funding-of-wuhan-lab-denies-gain-of-function/](https://nypost.com/2021/05/25/fauci-admits-nih-funding-of-wuhan-lab-denies-gain-of-function/)
@@ -3620,19 +3656,19 @@
  - [https://www.businessinsider.com/twitter-suspended-president-donald-trumps-account-permanently-2021-1?IR=T](https://www.businessinsider.com/twitter-suspended-president-donald-trumps-account-permanently-2021-1?IR=T)
  - date published: 2021-01-08 15:01:43+00:00
  - user: rumpel
- - tags: ['twitter', 'january 6']
+ - tags: ['twitter', 'january 6', 'donald trump']
 
 ## Twitter permanently suspends President Donald Trump
  - [https://www.nbcnews.com/tech/tech-news/twitter-permanently-bans-president-donald-trump-n1253588](https://www.nbcnews.com/tech/tech-news/twitter-permanently-bans-president-donald-trump-n1253588)
  - date published: 2021-01-08 12:04:50+00:00
  - user: None
- - tags: ['censorship', 'twitter', 'january 6', 'trump']
+ - tags: ['censorship', 'twitter', 'january 6', 'donald trump']
 
 ## Trump suspended indefinitely from Snapchat | The Hill
  - [https://thehill.com/policy/technology/533204-trump-suspended-indefinitely-from-snapchat/](https://thehill.com/policy/technology/533204-trump-suspended-indefinitely-from-snapchat/)
  - date published: 2021-01-07 15:02:24+00:00
  - user: rumpel
- - tags: ['january 6', 'snapchat']
+ - tags: ['january 6', 'donald trump', 'snapchat']
 
 ## Dead Internet Theory: Most of the Internet is Fake
  - [https://forum.agoraroad.com/index.php?threads/dead-internet-theory-most-of-the-internet-is-fake.3011/](https://forum.agoraroad.com/index.php?threads/dead-internet-theory-most-of-the-internet-is-fake.3011/)

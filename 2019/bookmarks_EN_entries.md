@@ -176,7 +176,7 @@
  - [https://www.buzzfeednews.com/article/ryanmac/unsworth-reply-elon-musk-fucking-idiot](https://www.buzzfeednews.com/article/ryanmac/unsworth-reply-elon-musk-fucking-idiot)
  - date published: 2019-10-08 12:21:11+00:00
  - user: None
- - tags: ['billionaires', 'musk', 'lie', 'elites']
+ - tags: ['elites', 'elon musk', 'billionaires', 'lie']
 
 ## One of America’s biggest gaming companies is acting as China’s censor
  - [https://www.vox.com/2019/10/8/20904433/blizzard-hong-kong-hearthstone-blitzchung](https://www.vox.com/2019/10/8/20904433/blizzard-hong-kong-hearthstone-blitzchung)
