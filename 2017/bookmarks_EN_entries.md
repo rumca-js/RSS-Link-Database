@@ -148,6 +148,12 @@
  - user: None
  - tags: ['bigtech', 'social media', 'subscription']
 
+## California bill seeks to punish 'misgendering' with jail time | Catholic News Agency
+ - [https://www.catholicnewsagency.com/news/36720/california-bill-seeks-to-punish-misgendering-with-jail-time](https://www.catholicnewsagency.com/news/36720/california-bill-seeks-to-punish-misgendering-with-jail-time)
+ - date published: 2017-09-02 11:07:46+00:00
+ - user: rumpel
+ - tags: ['woke', 'pronouns', 'newspeak']
+
 ## What Most People Don't Know About The Illuminati
  - [https://www.grunge.com/35035/secret-history-illuminati/](https://www.grunge.com/35035/secret-history-illuminati/)
  - date published: 2017-08-28 13:30:16+00:00

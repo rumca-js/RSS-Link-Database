@@ -166,6 +166,12 @@
  - user: rumpel
  - tags: ['technofeudalism', 'windows']
 
+## Not using transgender pronouns could get you fined
+ - [https://nypost.com/2016/05/19/city-issues-new-guidelines-on-transgender-pronouns/](https://nypost.com/2016/05/19/city-issues-new-guidelines-on-transgender-pronouns/)
+ - date published: 2016-05-19 11:06:48+00:00
+ - user: rumpel
+ - tags: ['woke', 'pronouns', 'newspeak']
+
 ## Social Autopsy! - Ending Anonymity Online [BAD IDEA]
  - [https://www.youtube.com/watch?v=6SARo5HtjkQ](https://www.youtube.com/watch?v=6SARo5HtjkQ)
  - date published: 2016-04-15 20:28:52+00:00

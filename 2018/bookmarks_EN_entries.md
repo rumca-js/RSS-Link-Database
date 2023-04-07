@@ -238,6 +238,12 @@
  - user: rumpel
  - tags: ['bigtech', 'security', 'privacy']
 
+## No, Canadians cannot be jailed or fined just for using the wrong gender pronoun | Fact Check
+ - [https://factcheck.afp.com/no-canadians-cannot-be-jailed-or-fined-just-using-wrong-gender-pronoun](https://factcheck.afp.com/no-canadians-cannot-be-jailed-or-fined-just-using-wrong-gender-pronoun)
+ - date published: 2018-06-26 10:40:51+00:00
+ - user: rumpel
+ - tags: ['woke', 'pronouns', 'newspeak']
+
 ## How the Gorgon gas plant could wipe out a year's worth of Australia's solar emissions savings - ABC News
  - [https://www.abc.net.au/news/2018-06-21/gorgon-gas-plant-wiping-out-a-year-of-solar-emission-savings/9890386](https://www.abc.net.au/news/2018-06-21/gorgon-gas-plant-wiping-out-a-year-of-solar-emission-savings/9890386)
  - date published: 2018-06-20 13:43:41+00:00
@@ -453,6 +459,12 @@
  - date published: 2018-02-15 22:28:54+00:00
  - user: rumpel
  - tags: ['virus', 'notpetya']
+
+## New California Law Allows Jail Time for Using Wrong Gender Pronoun — San Diego Criminal Lawyers Blog — February 2, 2018
+ - [https://www.sandiegocriminallawyersblog.com/new-california-law-allows-jail-time-using-wrong-gender-pronoun/](https://www.sandiegocriminallawyersblog.com/new-california-law-allows-jail-time-using-wrong-gender-pronoun/)
+ - date published: 2018-02-02 11:05:53+00:00
+ - user: rumpel
+ - tags: ['woke', 'pronouns', 'newspeak']
 
 ## How Tencent became the world's most valuable social network firm – with barely any advertising
  - [https://theconversation.com/how-tencent-became-the-worlds-most-valuable-social-network-firm-with-barely-any-advertising-90334](https://theconversation.com/how-tencent-became-the-worlds-most-valuable-social-network-firm-with-barely-any-advertising-90334)

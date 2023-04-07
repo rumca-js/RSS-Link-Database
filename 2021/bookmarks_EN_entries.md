@@ -718,6 +718,12 @@
  - user: None
  - tags: ['government control']
 
+## The Real Anthony Fauci: Bill Gates, Big Pharma, and the Global War on Democracy and Public Health (Children’s Health Defense): Kennedy Jr., Robert F.: 9781510766808: Amazon.com: Books
+ - [https://www.amazon.com/Real-Anthony-Fauci-Democracy-Childrens/dp/1510766804](https://www.amazon.com/Real-Anthony-Fauci-Democracy-Childrens/dp/1510766804)
+ - date published: 2021-11-16 11:30:30+00:00
+ - user: rumpel
+ - tags: ['covid', 'fauci']
+
 ## The secret court case 50 years ago that has robbed transgender people of their rights ever since
  - [https://inews.co.uk/news/long-reads/secret-court-case-50-years-ago-robbed-transgender-people-rights-1291857](https://inews.co.uk/news/long-reads/secret-court-case-50-years-ago-robbed-transgender-people-rights-1291857)
  - date published: 2021-11-15 20:35:09.544913+00:00
@@ -1437,6 +1443,12 @@
  - date published: 2021-10-04 14:30:36.434980+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Misgendering Is a Human Rights Violation, Canadian Court Rules | Them
+ - [https://www.them.us/story/canadian-court-rules-misgendering-human-rights-violation](https://www.them.us/story/canadian-court-rules-misgendering-human-rights-violation)
+ - date published: 2021-10-04 10:41:36+00:00
+ - user: rumpel
+ - tags: ['woke', 'pronouns', 'newspeak']
 
 ## Lime fights back against QR code snatchers - BBC News
  - [https://www.bbc.co.uk/news/technology-58680605](https://www.bbc.co.uk/news/technology-58680605)

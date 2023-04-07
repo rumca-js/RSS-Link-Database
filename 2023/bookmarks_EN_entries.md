@@ -1,3 +1,21 @@
+## Tesla workers shared images from car cameras, including “scenes of intimacy”
+ - [https://arstechnica.com/tech-policy/2023/04/tesla-workers-shared-images-from-car-cameras-including-scenes-of-intimacy/](https://arstechnica.com/tech-policy/2023/04/tesla-workers-shared-images-from-car-cameras-including-scenes-of-intimacy/)
+ - date published: 2023-04-06 17:46:54+00:00
+ - user: rumpel
+ - tags: ['tesla', 'privacy']
+
+## Ontario Party Pushes Law Prohibiting Protests Near Drag Shows
+ - [https://www.breitbart.com/europe/2023/04/06/ontario-party-pushes-law-banning-protests-near-drag-shows-and-2slgbtqi-events-fines-up-to-25000/](https://www.breitbart.com/europe/2023/04/06/ontario-party-pushes-law-banning-protests-near-drag-shows-and-2slgbtqi-events-fines-up-to-25000/)
+ - date published: 2023-04-06 10:43:05+00:00
+ - user: rumpel
+ - tags: ['woke', 'pronouns', 'newspeak']
+
+## AI Is Coming for Voice Actors. Artists Everywhere Should Take Note
+ - [https://thewalrus.ca/ai-is-coming-for-voice-actors-artists-everywhere-should-take-note/](https://thewalrus.ca/ai-is-coming-for-voice-actors-artists-everywhere-should-take-note/)
+ - date published: 2023-04-05 22:37:43+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
+
 ## GPT4 impersonating a FTP server at ftp.disney.com
  - [https://www.filestash.app/2023/04/01/chat-gpt-acting-as-a-ftp-server/](https://www.filestash.app/2023/04/01/chat-gpt-acting-as-a-ftp-server/)
  - date published: 2023-04-05 06:54:05+00:00
@@ -39,6 +57,12 @@
  - date published: 2023-04-04 09:00:19+00:00
  - user: rumpel
  - tags: ['george soros', 'donald trump']
+
+## Samsung warns fab employees of ChatGPT after confidential data leaks | TechSpot
+ - [https://www.techspot.com/news/98181-samsung-warns-employees-chatgpt-privacy-dangers-following-confidential.html](https://www.techspot.com/news/98181-samsung-warns-employees-chatgpt-privacy-dangers-following-confidential.html)
+ - date published: 2023-04-04 07:14:05+00:00
+ - user: rumpel
+ - tags: ['data leak', 'artificial intelligence', 'chatgpt']
 
 ## New Zealand Prime Minister Chris Hipkins lost for words after reporter asks him to 'define a woman'
  - [https://www.dailymail.co.uk/news/article-11935809/New-Zealand-Prime-Minister-Chris-Hipkins-lost-words-reporter-asks-define-woman.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11935809/New-Zealand-Prime-Minister-Chris-Hipkins-lost-words-reporter-asks-define-woman.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1353,6 +1377,12 @@
  - date published: 2023-02-13 15:56:28+00:00
  - user: rumpel
  - tags: ['bigtech', 'tweeter files', 'bigbrother', 'censorship', 'moderation']
+
+## Google's Go may add telemetry that's on by default
+ - [https://www.theregister.com/2023/02/10/googles_go_programming_language_telemetry_debate/](https://www.theregister.com/2023/02/10/googles_go_programming_language_telemetry_debate/)
+ - date published: 2023-02-13 05:00:00+00:00
+ - user: rumpel
+ - tags: ['privacy', 'telemetry', 'google']
 
 ## The FBI’s most controversial surveillance tool is under threat
  - [https://arstechnica.com/?p=1917024](https://arstechnica.com/?p=1917024)
