@@ -22,6 +22,12 @@
  - user: None
  - tags: ['surveillance', 'nsa', 'five-eyes']
 
+## An old mans advice.
+ - [https://www.youtube.com/watch?v=9fvETktnaRw](https://www.youtube.com/watch?v=9fvETktnaRw)
+ - date published: 2013-11-07 00:00:00+00:00
+ - user: rumpel
+ - tags: ['motivation']
+
 ## Norway's gender quota law has made boards more professional: state fund boss | Reuters
  - [https://www.reuters.com/article/us-nordic-investment-fund-idUSBRE98T0LM20130930](https://www.reuters.com/article/us-nordic-investment-fund-idUSBRE98T0LM20130930)
  - date published: 2013-09-30 20:58:03+00:00

@@ -118,6 +118,12 @@
  - user: None
  - tags: $tags
 
+## The Golden Age of the Internet Is Over
+ - [https://www.youtube.com/watch?v=OU6CuSMzNus](https://www.youtube.com/watch?v=OU6CuSMzNus)
+ - date published: 2019-11-01 00:00:00+00:00
+ - user: rumpel
+ - tags: ['social media', 'dead internet']
+
 ## Edward Snowden: How Your Cell Phone Spies on You
  - [https://www.youtube.com/watch?v=VFns39RXPrU](https://www.youtube.com/watch?v=VFns39RXPrU)
  - date published: 2019-10-23 19:56:19+00:00
@@ -567,6 +573,18 @@
  - date published: 2019-04-08 08:58:27+00:00
  - user: rumpel
  - tags: ['trans', 'family', 'lgbt', 'woke']
+
+## The quickest way to get into a fight in a 1960s Australian pub | RetroFocus
+ - [https://www.youtube.com/watch?v=esBLinbJydI](https://www.youtube.com/watch?v=esBLinbJydI)
+ - date published: 2019-04-05 00:00:00+00:00
+ - user: rumpel
+ - tags: ['archive']
+
+## Manufactured Discontent and Fortnite
+ - [https://www.youtube.com/watch?v=dPHPNgIihR0](https://www.youtube.com/watch?v=dPHPNgIihR0)
+ - date published: 2019-04-01 00:00:00+00:00
+ - user: rumpel
+ - tags: ['fortnite', 'dark design']
 
 ## Sex offender volunteered at library 3 times
  - [https://abc13.com/drag-queen-story-time-sex-offender-houston-public-library/5203743/](https://abc13.com/drag-queen-story-time-sex-offender-houston-public-library/5203743/)

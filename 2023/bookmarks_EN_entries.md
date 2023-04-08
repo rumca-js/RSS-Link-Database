@@ -16,6 +16,12 @@
  - user: rumpel
  - tags: ['artificial intelligence']
 
+## Hackers can crack smart garage doors due to this embarrassing security flaw
+ - [https://www.techradar.com/news/hackers-can-crack-smart-garage-doors-due-to-this-embarrassing-security-flaw](https://www.techradar.com/news/hackers-can-crack-smart-garage-doors-due-to-this-embarrassing-security-flaw)
+ - date published: 2023-04-05 14:51:08+00:00
+ - user: rumpel
+ - tags: ['smart home']
+
 ## GPT4 impersonating a FTP server at ftp.disney.com
  - [https://www.filestash.app/2023/04/01/chat-gpt-acting-as-a-ftp-server/](https://www.filestash.app/2023/04/01/chat-gpt-acting-as-a-ftp-server/)
  - date published: 2023-04-05 06:54:05+00:00
@@ -208,6 +214,12 @@
  - user: rumpel
  - tags: ['surveillance', 'skype', 'malware', 'windows', 'vulnerability', 'microsoft']
 
+## The Great Food Reset has begun - UnHerd
+ - [https://unherd.com/2023/03/the-great-food-reset-has-begun/](https://unherd.com/2023/03/the-great-food-reset-has-begun/)
+ - date published: 2023-03-28 19:18:57+00:00
+ - user: rumpel
+ - tags: ['agriculture', 'climate change', 'netherlands']
+
 ## Risk of Cardiac Death Tripled for Young Women Following AstraZeneca COVID-19 Vaccination: Study
  - [https://www.theepochtimes.com/risk-of-cardiac-death-tripled-for-young-women-following-astrazeneca-covid-19-vaccination-study_5067350.html](https://www.theepochtimes.com/risk-of-cardiac-death-tripled-for-young-women-following-astrazeneca-covid-19-vaccination-study_5067350.html)
  - date published: 2023-03-28 17:09:55+00:00
@@ -393,6 +405,12 @@
  - date published: 2023-03-21 17:02:00+00:00
  - user: rumpel
  - tags: ['scienceisdead', 'fearmongering', 'covid', 'media']
+
+## How Wall Street bought single-family homes and put them up for rent
+ - [https://www.cnbc.com/2023/02/21/how-wall-street-bought-single-family-homes-and-put-them-up-for-rent.html](https://www.cnbc.com/2023/02/21/how-wall-street-bought-single-family-homes-and-put-them-up-for-rent.html)
+ - date published: 2023-03-21 08:35:18+00:00
+ - user: rumpel
+ - tags: ['blackrock', 'housing market', 'wall street']
 
 ## Holding corporate criminals ACCOUNTABLE; it's about time we start
  - [https://www.youtube.com/watch?v=XP7Qx1FF1hA](https://www.youtube.com/watch?v=XP7Qx1FF1hA)
@@ -874,6 +892,12 @@
  - user: rumpel
  - tags: ['jordan peterson', 'bible']
 
+## A $60 Billion Housing Grab by Wall Street - The New York Times
+ - [https://www.nytimes.com/2020/03/04/magazine/wall-street-landlords.html](https://www.nytimes.com/2020/03/04/magazine/wall-street-landlords.html)
+ - date published: 2023-03-04 08:40:06+00:00
+ - user: rumpel
+ - tags: ['blackrock', 'housing market', 'wall street']
+
 ## Ring to Put Basic Security Features Behind a Paywall | PCMag
  - [https://www.pcmag.com/news/ring-will-put-basic-security-features-behind-paywall](https://www.pcmag.com/news/ring-will-put-basic-security-features-behind-paywall)
  - date published: 2023-03-04 08:07:42+00:00
@@ -884,7 +908,7 @@
  - [https://www.youtube.com/watch?v=OiNlCXGt2IY](https://www.youtube.com/watch?v=OiNlCXGt2IY)
  - date published: 2023-03-04 00:13:45+00:00
  - user: rumpel
- - tags: ['blackrock', 'manufacturing consent', 'corporatocracy']
+ - tags: ['blackrock', 'housing market', 'wall street', 'corporatocracy']
 
 ## Continuous Growth Is Cancer
  - [https://christianheilmann.com/2023/03/03/continuous-growth-is-cancer/](https://christianheilmann.com/2023/03/03/continuous-growth-is-cancer/)

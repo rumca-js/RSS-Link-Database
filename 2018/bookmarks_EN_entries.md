@@ -112,6 +112,12 @@
  - user: None
  - tags: $tags
 
+## Are looks important to women? (1967) | RetroFocus
+ - [https://www.youtube.com/watch?v=h0njPX3SUUU](https://www.youtube.com/watch?v=h0njPX3SUUU)
+ - date published: 2018-09-17 00:00:00+00:00
+ - user: rumpel
+ - tags: ['archive']
+
 ## Why you should delete your social media accounts
  - [https://www.youtube.com/watch?v=3J1MIDTi9h8](https://www.youtube.com/watch?v=3J1MIDTi9h8)
  - date published: 2018-09-14 20:53:44+00:00
@@ -202,11 +208,23 @@
  - user: rumpel
  - tags: ['crisis', 'climate change']
 
+## Is there life on other planets? (1962) | RetroFocus
+ - [https://www.youtube.com/watch?v=EkvffcxQzMY](https://www.youtube.com/watch?v=EkvffcxQzMY)
+ - date published: 2018-07-29 00:00:00+00:00
+ - user: rumpel
+ - tags: ['archive']
+
 ## If you can quit social media, but don’t, then you’re part of the problem, Jaron Lanier says
  - [https://www.vox.com/2018/7/27/17618756/jaron-lanier-deleting-social-media-book-kara-swisher-too-embarrassed-podcast](https://www.vox.com/2018/7/27/17618756/jaron-lanier-deleting-social-media-book-kara-swisher-too-embarrassed-podcast)
  - date published: 2018-07-27 20:10:10+00:00
  - user: rumpel
  - tags: ['jaron lanier', 'social media']
+
+## Victorian women | Life in Victorian times | 108 year old woman | Money Go Round | 1977
+ - [https://www.youtube.com/watch?v=e4FZkXvAY94](https://www.youtube.com/watch?v=e4FZkXvAY94)
+ - date published: 2018-07-24 00:00:00+00:00
+ - user: rumpel
+ - tags: ['archive']
 
 ## How to give IT project estimates—and when not to estimate at all
  - [https://www.hpe.com/us/en/insights/articles/how-to-give-it-project-estimates-and-when-not-to-estimate-at-all-1807.html](https://www.hpe.com/us/en/insights/articles/how-to-give-it-project-estimates-and-when-not-to-estimate-at-all-1807.html)

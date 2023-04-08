@@ -140,7 +140,7 @@
  - [https://www.youtube.com/watch?v=L-A5QrhZtGU](https://www.youtube.com/watch?v=L-A5QrhZtGU)
  - date published: 2021-12-24 20:59:59+00:00
  - user: rumpel
- - tags: ['graphics', 'games']
+ - tags: ['games', 'graphics']
 
 ## Why I wrote my own Go HTTP client · The Ethically-Trained Programmer
  - [https://blog.carlmjohnson.net/post/2021/requests-golang-http-client/](https://blog.carlmjohnson.net/post/2021/requests-golang-http-client/)
@@ -1516,6 +1516,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## [4k, 50 fps, colorized] (1896-1899) Sports in the Nineteenth century: Lumiere Brothers.
+ - [https://www.youtube.com/watch?v=JyjRCuF9pd8](https://www.youtube.com/watch?v=JyjRCuF9pd8)
+ - date published: 2021-09-29 00:00:00+00:00
+ - user: rumpel
+ - tags: ['archive']
+
 ## Women's and trans rights are not in conflict, says Angela Rayner - BBC News
  - [https://www.bbc.co.uk/news/uk-politics-58724514](https://www.bbc.co.uk/news/uk-politics-58724514)
  - date published: 2021-09-28 22:18:09.444819+00:00
@@ -2530,6 +2536,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## It's Already Happening But People Don't See It - Alan Watts on Rat Race
+ - [https://www.youtube.com/watch?v=iYaPFZW7Q30](https://www.youtube.com/watch?v=iYaPFZW7Q30)
+ - date published: 2021-07-27 00:00:00+00:00
+ - user: rumpel
+ - tags: ['lifestyle', 'motivation']
+
 ## Signal on Android: Images sent to wrong contacts | Hacker News
  - [https://news.ycombinator.com/item?id=27950763](https://news.ycombinator.com/item?id=27950763)
  - date published: 2021-07-26 11:13:10.700936+00:00
@@ -3394,6 +3406,12 @@
  - user: None
  - tags: ['covid', 'vaccine']
 
+## Do we Need Nuclear Energy to Stop Climate Change?
+ - [https://www.youtube.com/watch?v=EhAemz1v7dQ](https://www.youtube.com/watch?v=EhAemz1v7dQ)
+ - date published: 2021-04-13 00:00:00+00:00
+ - user: rumpel
+ - tags: ['climate change']
+
 ## NHS Covid-19 app update blocked for breaking Apple and Google's rules
  - [https://www.bbc.com/news/technology-56713017](https://www.bbc.com/news/technology-56713017)
  - date published: 2021-04-12 21:45:08+00:00
@@ -3416,7 +3434,7 @@
  - [https://www.wsj.com/articles/if-you-sell-a-house-these-days-the-buyer-might-be-a-pension-fund-11617544801](https://www.wsj.com/articles/if-you-sell-a-house-these-days-the-buyer-might-be-a-pension-fund-11617544801)
  - date published: 2021-04-04 10:42:23+00:00
  - user: rumpel
- - tags: ['blackrock', 'middleclass', 'hedgefunds']
+ - tags: ['blackrock', 'housing market', 'wall street']
 
 ## How U.S. media lost the trust of the public
  - [https://www.cbc.ca/news/world/media-distrust-big-news-1.5965622](https://www.cbc.ca/news/world/media-distrust-big-news-1.5965622)
@@ -3579,6 +3597,12 @@
  - date published: 2021-01-28 08:57:02+00:00
  - user: rumpel
  - tags: ['propaganda', 'covid', 'fearmongering']
+
+## 93 Year Old Irish Soldier describes World War One, 1988
+ - [https://www.youtube.com/watch?v=DWnc-ZlIo5s](https://www.youtube.com/watch?v=DWnc-ZlIo5s)
+ - date published: 2021-01-28 00:00:00+00:00
+ - user: rumpel
+ - tags: ['archive']
 
 ## Why It's Bad to Have High GDP
  - [https://lukesmith.xyz/articles/why-its-bad-to-have-high-gdp/](https://lukesmith.xyz/articles/why-its-bad-to-have-high-gdp/)

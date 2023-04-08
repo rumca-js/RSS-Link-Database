@@ -16,6 +16,12 @@
  - user: rumpel
  - tags: ['wikileaks', 'bigtech', 'deplatform', 'amazon']
 
+## Eva Hart speaks about her memories of the Titanic . .  survivor interview
+ - [https://www.youtube.com/watch?v=MD5J43Z9AWI](https://www.youtube.com/watch?v=MD5J43Z9AWI)
+ - date published: 2010-11-30 00:00:00+00:00
+ - user: rumpel
+ - tags: ['archive']
+
 ## Media Matters Receives $1 Million From George Soros
  - [https://philanthropynewsdigest.org/news/media-matters-receives-1-million-from-george-soros](https://philanthropynewsdigest.org/news/media-matters-receives-1-million-from-george-soros)
  - date published: 2010-10-22 20:10:27+00:00

@@ -10114,6 +10114,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## 1920s - A Trip Around The World in Color  [60fps, Remastered] w/sound design added
+ - [https://www.youtube.com/watch?v=GUZ0jTU1o5s](https://www.youtube.com/watch?v=GUZ0jTU1o5s)
+ - date published: 2022-03-23 00:00:00+00:00
+ - user: rumpel
+ - tags: ['archive']
+
 ## The New Filter Mandate Bill Is An Unmitigated Disaster | Electronic Frontier Foundation
  - [https://www.eff.org/deeplinks/2022/03/new-filter-mandate-bill-unmitigated-disaster](https://www.eff.org/deeplinks/2022/03/new-filter-mandate-bill-unmitigated-disaster)
  - date published: 2022-03-22 23:14:22.407165+00:00
@@ -10197,6 +10203,12 @@
  - date published: 2022-03-19 07:08:29.863295+00:00
  - user: Thomas Pain
  - tags: ['bigtech', 'dark design', 'amazon']
+
+## Man Born in 1853 Talks About Childhood in the 1860s- Enhanced Video & Audio [60 fps]
+ - [https://www.youtube.com/watch?v=_oqbLSisnME](https://www.youtube.com/watch?v=_oqbLSisnME)
+ - date published: 2022-03-19 00:00:00+00:00
+ - user: rumpel
+ - tags: ['archive']
 
 ## Court says non-open 'open source' code is false advertising • The Register
  - [https://www.theregister.com/2022/03/17/court_open_source/](https://www.theregister.com/2022/03/17/court_open_source/)

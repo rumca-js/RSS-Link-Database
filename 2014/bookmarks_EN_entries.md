@@ -82,6 +82,12 @@
  - user: None
  - tags: ['corporatocracy', 'election', 'privacy', 'facebook']
 
+## University of Texas at Austin 2014 Commencement Address - Admiral William H. McRaven
+ - [https://www.youtube.com/watch?v=pxBQLFLei70](https://www.youtube.com/watch?v=pxBQLFLei70)
+ - date published: 2014-05-19 00:00:00+00:00
+ - user: rumpel
+ - tags: ['motivation']
+
 ## Microsoft openly offered cloud data to the NSA
  - [https://betanews.com/2014/05/16/microsoft-openly-offered-cloud-data-to-the-nsa/](https://betanews.com/2014/05/16/microsoft-openly-offered-cloud-data-to-the-nsa/)
  - date published: 2014-05-16 09:07:48+00:00

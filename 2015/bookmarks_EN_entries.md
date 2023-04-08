@@ -94,6 +94,12 @@
  - user: None
  - tags: ['youtube', 'algorithm']
 
+## A old man's advice
+ - [https://www.youtube.com/watch?v=JhckVlgYZJE](https://www.youtube.com/watch?v=JhckVlgYZJE)
+ - date published: 2015-05-17 00:00:00+00:00
+ - user: rumpel
+ - tags: ['motivation']
+
 ## Why Don't We Hear About Soros' Ties to Over 30 Major News Organizations? | Fox News
  - [https://www.foxnews.com/opinion/why-dont-we-hear-about-soros-ties-to-over-30-major-news-organizations](https://www.foxnews.com/opinion/why-dont-we-hear-about-soros-ties-to-over-30-major-news-organizations)
  - date published: 2015-05-07 12:40:31+00:00

@@ -124,6 +124,12 @@
  - user: rumpel
  - tags: ['privacy', 'technofeudalism', 'windows', 'microsoft']
 
+## Racism in America Small Town 1950s Case Study Documentary Film
+ - [https://www.youtube.com/watch?v=cCW58RCgqOQ](https://www.youtube.com/watch?v=cCW58RCgqOQ)
+ - date published: 2016-08-04 00:00:00+00:00
+ - user: rumpel
+ - tags: ['archive']
+
 ## The Left’s New Weapon: ‘Diversity and Inclusion’
  - [https://www.lifezette.com/2016/07/lefts-new-weapon-diversity-inclusion/](https://www.lifezette.com/2016/07/lefts-new-weapon-diversity-inclusion/)
  - date published: 2016-07-14 15:47:42+00:00
