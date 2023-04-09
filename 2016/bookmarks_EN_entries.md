@@ -148,6 +148,12 @@
  - user: rumpel
  - tags: ['movies', 'spirited away', 'conspiracy theory']
 
+## Does capitalism need some Marxism to survive the Fourth Industrial Revolution? | World Economic Forum
+ - [https://www.weforum.org/agenda/2016/06/could-capitalism-need-some-marxism-to-survive-the-4th-industrial-revolution/](https://www.weforum.org/agenda/2016/06/could-capitalism-need-some-marxism-to-survive-the-4th-industrial-revolution/)
+ - date published: 2016-06-22 20:42:14+00:00
+ - user: rumpel
+ - tags: ['world economic forum', 'capitalism', 'marxism']
+
 ## Google accused of ‘biased’ search results favouring Clinton - The Globe and Mail
  - [https://www.theglobeandmail.com/technology/google-under-fire-after-video-suggests-biased-search-results-favour-clinton/article30402737/](https://www.theglobeandmail.com/technology/google-under-fire-after-video-suggests-biased-search-results-favour-clinton/article30402737/)
  - date published: 2016-06-10 14:15:29+00:00

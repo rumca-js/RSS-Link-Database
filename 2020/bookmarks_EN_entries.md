@@ -58,6 +58,12 @@
  - user: rumpel
  - tags: ['privacy', 'messaner', 'censorship', 'facebook']
 
+## Biden receives first dose of Covid-19 vaccine on live television
+ - [https://www.cnn.com/2020/12/21/politics/bidens-coronavirus-vaccination/index.html](https://www.cnn.com/2020/12/21/politics/bidens-coronavirus-vaccination/index.html)
+ - date published: 2020-12-21 22:06:35+00:00
+ - user: rumpel
+ - tags: ['vaccine', 'covid']
+
 ## How does surveillance help make a smarter, safer city?
  - [https://www.axis.com/blog/secure-insights/surveillance-smarter-safer-city/](https://www.axis.com/blog/secure-insights/surveillance-smarter-safer-city/)
  - date published: 2020-12-21 12:04:50+00:00
@@ -142,6 +148,12 @@
  - user: rumpel
  - tags: ['masks', 'propaganda', 'mandates', 'covid']
 
+## SoCal restaurant owners defy orders to close despite regional stay-at-home order - ABC7 Los Angeles
+ - [https://abc7.com/california-coronavirus-socal-lockdown-stay-at-home-order-gov-gavin-newsom/8595340/](https://abc7.com/california-coronavirus-socal-lockdown-stay-at-home-order-gov-gavin-newsom/8595340/)
+ - date published: 2020-12-08 20:06:28+00:00
+ - user: rumpel
+ - tags: ['lockdown', 'covid']
+
 ## The American Companies Enabling China’s Uyghur Genocide
  - [https://www.theamericanconservative.com/the-american-companies-enabling-chinas-uyghur-genocide/](https://www.theamericanconservative.com/the-american-companies-enabling-chinas-uyghur-genocide/)
  - date published: 2020-12-04 12:32:25+00:00
@@ -166,6 +178,12 @@
  - user: rumpel
  - tags: ['feminism', 'patriarchy', 'censorship', 'gender', 'inequality']
 
+## California plans sweeping stay-at-home order as Covid cases surge | California | The Guardian
+ - [https://www.theguardian.com/us-news/2020/dec/03/california-covid-restrictions-stay-at-home-order](https://www.theguardian.com/us-news/2020/dec/03/california-covid-restrictions-stay-at-home-order)
+ - date published: 2020-12-03 20:01:46+00:00
+ - user: rumpel
+ - tags: ['lockdown', 'covid']
+
 ## Journalists across EU face wave of attacks covering anti-lockdown protests
  - [https://ipi.media/journalists-across-eu-face-wave-of-attacks-covering-anti-lockdown-protests/](https://ipi.media/journalists-across-eu-face-wave-of-attacks-covering-anti-lockdown-protests/)
  - date published: 2020-12-03 10:13:24+00:00
@@ -189,6 +207,12 @@
  - date published: 2020-11-29 20:26:43+00:00
  - user: rumpel
  - tags: ['feminism', 'discrimination', 'hypocrisy']
+
+## In Japan, more people died from suicide last month than from Covid in all of 2020 | CNN
+ - [https://edition.cnn.com/2020/11/28/asia/japan-suicide-women-covid-dst-intl-hnk/index.html](https://edition.cnn.com/2020/11/28/asia/japan-suicide-women-covid-dst-intl-hnk/index.html)
+ - date published: 2020-11-29 19:49:32+00:00
+ - user: rumpel
+ - tags: ['covid']
 
 ## Car Tires Are a Major Pollution Problem - The Atlantic
  - [https://www.theatlantic.com/science/archive/2020/11/car-tires-pollution-microplastic/617216/](https://www.theatlantic.com/science/archive/2020/11/car-tires-pollution-microplastic/617216/)
@@ -250,11 +274,23 @@
  - user: rumpel
  - tags: ['bigtech', 'google', 'manufacturing consent', 'mozilla', 'apple']
 
+## 13 law enforcement agencies that refuse to enforce California’s new curfew and why – Investment Watch
+ - [https://www.investmentwatchblog.com/13-law-enforcement-agencies-that-refuse-to-enforce-californias-new-curfew-and-why/](https://www.investmentwatchblog.com/13-law-enforcement-agencies-that-refuse-to-enforce-californias-new-curfew-and-why/)
+ - date published: 2020-11-23 20:04:36+00:00
+ - user: rumpel
+ - tags: ['lockdown', 'covid']
+
 ## Post-lockdown SARS-CoV-2 nucleic acid screening in nearly ten million residents of Wuhan, China
  - [https://www.nature.com/articles/s41467-020-19802-w](https://www.nature.com/articles/s41467-020-19802-w)
  - date published: 2020-11-20 11:39:07+00:00
  - user: None
  - tags: ['wuhan', 'transmission', 'covid']
+
+## Danish study finds face masks provide limited protection to wearer | Reuters
+ - [https://www.reuters.com/article/us-health-coronavirus-facemasks-idUSKBN27Y1YW](https://www.reuters.com/article/us-health-coronavirus-facemasks-idUSKBN27Y1YW)
+ - date published: 2020-11-18 19:57:37+00:00
+ - user: rumpel
+ - tags: ['masks', 'covid']
 
 ## Does Apple Track Every Mac App You Run? OCSP Explained
  - [https://www.howtogeek.com/701176/does-apple-track-every-mac-app-you-run-ocsp-explained/](https://www.howtogeek.com/701176/does-apple-track-every-mac-app-you-run-ocsp-explained/)
@@ -352,11 +388,23 @@
  - user: rumpel
  - tags: ['censorship', 'facebook', 'meta', 'vaccine', 'moderation']
 
+## WHO official urges world leaders to stop using lockdowns as primary virus control method | Washington Examiner
+ - [https://www.washingtonexaminer.com/news/who-official-urges-world-leaders-to-stop-using-lockdowns-as-primary-virus-control-method](https://www.washingtonexaminer.com/news/who-official-urges-world-leaders-to-stop-using-lockdowns-as-primary-virus-control-method)
+ - date published: 2020-10-10 19:51:18+00:00
+ - user: rumpel
+ - tags: ['lockdown', 'who', 'covid']
+
 ## EU's Digital Service Act will force makers to allow you to uninstall bloatware
  - [https://m.gsmarena.com/eus_digital_service_act_will_allow_you_to_uninstall_bloatware-news-45578.php](https://m.gsmarena.com/eus_digital_service_act_will_allow_you_to_uninstall_bloatware-news-45578.php)
  - date published: 2020-10-10 18:35:47+00:00
  - user: None
  - tags: ['digital service act', 'dsa', 'tech control']
+
+## COVID-19 to Add as Many as 150 Million Extreme Poor by 2021
+ - [https://www.worldbank.org/en/news/press-release/2020/10/07/covid-19-to-add-as-many-as-150-million-extreme-poor-by-2021](https://www.worldbank.org/en/news/press-release/2020/10/07/covid-19-to-add-as-many-as-150-million-extreme-poor-by-2021)
+ - date published: 2020-10-07 19:52:53+00:00
+ - user: rumpel
+ - tags: ['crisis', 'covid']
 
 ## While the Poor Get Sick, Bill Gates Just Gets Richer | The Nation
  - [https://www.thenation.com/article/economy/bill-gates-investments-covid/](https://www.thenation.com/article/economy/bill-gates-investments-covid/)
@@ -406,11 +454,23 @@
  - user: rumpel
  - tags: ['virtual reality', 'vrchat']
 
+## Three million Uyghurs detained in concentration camps by Beijing: Activist - The Economic Times
+ - [https://economictimes.indiatimes.com/news/international/world-news/three-million-uyghurs-detained-in-concentration-camps-by-beijing-activist/articleshow/78343963.cms](https://economictimes.indiatimes.com/news/international/world-news/three-million-uyghurs-detained-in-concentration-camps-by-beijing-activist/articleshow/78343963.cms)
+ - date published: 2020-09-27 20:56:51+00:00
+ - user: rumpel
+ - tags: ['uyghurs', 'china', 'genocide']
+
 ## On climate change, Exxon, BP, Shell, and other top oil companies have a long way to go - Vox
  - [https://www.vox.com/energy-and-environment/2020/9/25/21452055/climate-change-exxon-bp-shell-total-chevron-oil-gas](https://www.vox.com/energy-and-environment/2020/9/25/21452055/climate-change-exxon-bp-shell-total-chevron-oil-gas)
  - date published: 2020-09-25 12:49:31+00:00
  - user: rumpel
  - tags: ['propaganda', 'scienceisdead', 'climate change', 'media manipulation']
+
+## BLM removes website language blasting 'nuclear family structure'
+ - [https://nypost.com/2020/09/24/blm-removes-website-language-blasting-nuclear-family-structure/](https://nypost.com/2020/09/24/blm-removes-website-language-blasting-nuclear-family-structure/)
+ - date published: 2020-09-24 21:02:02+00:00
+ - user: rumpel
+ - tags: ['black lives matter', 'family']
 
 ## Cold comfort: The sun is cooling; doesn't mean there'll be no global warming
  - [https://www.downtoearth.org.in/news/science-technology/cold-comfort-the-sun-is-cooling-doesn-t-mean-there-ll-be-no-global-warming-73488](https://www.downtoearth.org.in/news/science-technology/cold-comfort-the-sun-is-cooling-doesn-t-mean-there-ll-be-no-global-warming-73488)
@@ -820,6 +880,12 @@
  - user: None
  - tags: ['windows', 'hacker']
 
+## BLM co-founder describes herself as 'trained Marxist'
+ - [https://nypost.com/2020/06/25/blm-co-founder-describes-herself-as-trained-marxist/](https://nypost.com/2020/06/25/blm-co-founder-describes-herself-as-trained-marxist/)
+ - date published: 2020-06-25 21:03:29+00:00
+ - user: rumpel
+ - tags: ['socialism', 'black lives matter', 'marxism', 'america']
+
 ## How do you deal with people who refuse to wear a mask? - The Verge
  - [https://www.theverge.com/21303553/face-mask-coronavirus-cdc-etiquette-public](https://www.theverge.com/21303553/face-mask-coronavirus-cdc-etiquette-public)
  - date published: 2020-06-25 10:00:20+00:00
@@ -916,11 +982,23 @@
  - user: None
  - tags: ['roko basilisk']
 
+## Study: Up to 80% of COVID-19 Infections Are Asymptomatic | Time
+ - [https://time.com/5842669/coronavirus-asymptomatic-transmission/](https://time.com/5842669/coronavirus-asymptomatic-transmission/)
+ - date published: 2020-05-27 19:48:09+00:00
+ - user: rumpel
+ - tags: ['covid']
+
 ## BlackRock: Unofficial Fourth Arm Of Government | The WealthAdvisor
  - [https://www.thewealthadvisor.com/article/blackrock-unofficial-fourth-arm-government](https://www.thewealthadvisor.com/article/blackrock-unofficial-fourth-arm-government)
  - date published: 2020-05-22 22:39:57+00:00
  - user: rumpel
  - tags: ['blackrock', 'corporatocracy']
+
+## More than 100,000 small businesses have permanently closed due to coronavirus, study estimates – The Hill
+ - [https://thehill.com/changing-america/well-being/longevity/497519-more-than-100000-small-businesses-have-permanently/](https://thehill.com/changing-america/well-being/longevity/497519-more-than-100000-small-businesses-have-permanently/)
+ - date published: 2020-05-13 20:41:10+00:00
+ - user: rumpel
+ - tags: ['lockdown', 'covid']
 
 ## SMS Two-Factor Authentication – Worse Than Just a Good Password? | Okta Security
  - [https://sec.okta.com/articles/2020/05/sms-two-factor-authentication-worse-just-good-password](https://sec.okta.com/articles/2020/05/sms-two-factor-authentication-worse-just-good-password)

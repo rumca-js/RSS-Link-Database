@@ -10012,6 +10012,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Biden to Receive Second Pfizer Booster After Covid Remarks - The New York Times
+ - [https://www.nytimes.com/2022/03/30/us/politics/biden-second-booster-covid.html](https://www.nytimes.com/2022/03/30/us/politics/biden-second-booster-covid.html)
+ - date published: 2022-03-30 20:51:14+00:00
+ - user: rumpel
+ - tags: ['vaccine', 'covid']
+
 ## Why Modern Movies Suck - Modern Actors
  - [https://www.youtube.com/watch?v=l04RZVeJViI](https://www.youtube.com/watch?v=l04RZVeJViI)
  - date published: 2022-03-30 11:22:21+00:00

@@ -352,6 +352,12 @@
  - user: None
  - tags: ['epstein']
 
+## Biden says 'poor kids are just as bright and just as talented as white kids'
+ - [https://www.nbcnews.com/politics/2020-election/biden-says-poor-kids-are-just-bright-just-talented-white-n1040686](https://www.nbcnews.com/politics/2020-election/biden-says-poor-kids-are-just-bright-just-talented-white-n1040686)
+ - date published: 2019-08-09 20:55:15+00:00
+ - user: rumpel
+ - tags: ['joe biden']
+
 ## Harvard Just Discovered That PowerPoint Is Worse Than Useless
  - [https://www.inc.com/geoffrey-james/harvard-just-discovered-that-powerpoint-is-worse-than-useless.html](https://www.inc.com/geoffrey-james/harvard-just-discovered-that-powerpoint-is-worse-than-useless.html)
  - date published: 2019-08-09 07:56:07+00:00

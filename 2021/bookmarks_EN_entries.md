@@ -3340,6 +3340,12 @@
  - user: None
  - tags: $tags
 
+## New York Bill Would Let the State Put People in Detention if Deemed a 'Significant Threat to Public Health'
+ - [https://reason.com/2021/01/05/new-york-bill-would-let-state-put-people-in-detention-public-health-threat-covid-19/](https://reason.com/2021/01/05/new-york-bill-would-let-state-put-people-in-detention-public-health-threat-covid-19/)
+ - date published: 2021-05-01 20:23:13+00:00
+ - user: rumpel
+ - tags: ['fearmongering', 'covid']
+
 ## Bill Gates turned his $55 million vaccine investment in Pfizer’s partner, BioNTech, into over $550 million in just under two years – Top Startups 2023 | Startups News
  - [https://techstartups.com/2021/04/30/bill-gates-turned-55-million-investment-pfizers-partner-biontech-550-million-just-two-years/](https://techstartups.com/2021/04/30/bill-gates-turned-55-million-investment-pfizers-partner-biontech-550-million-just-two-years/)
  - date published: 2021-04-30 21:26:09+00:00
@@ -3550,6 +3556,12 @@
  - user: None
  - tags: ['social media', 'social control']
 
+## Cuomo's COVID cover-up hid nearly 1,900 NYC nursing home deaths
+ - [https://nypost.com/2021/02/15/cuomos-covid-cover-up-hid-nearly-1900-nyc-nursing-home-deaths/](https://nypost.com/2021/02/15/cuomos-covid-cover-up-hid-nearly-1900-nyc-nursing-home-deaths/)
+ - date published: 2021-02-15 20:47:39+00:00
+ - user: rumpel
+ - tags: ['covid']
+
 ## Veganism Is the Pinnacle of Bugmanism
  - [https://lukesmith.xyz/articles/veganism-is-the-pinnacle-of-bugmanism/](https://lukesmith.xyz/articles/veganism-is-the-pinnacle-of-bugmanism/)
  - date published: 2021-02-11 00:00:00+00:00
@@ -3574,6 +3586,12 @@
  - user: rumpel
  - tags: ['wuhan', 'covid', 'who', 'lableak']
 
+## AOC faces backlash as critics point out she wasn't in Capitol building during riot | Fox News
+ - [https://www.foxnews.com/politics/aoc-under-fire-amid-details-that-she-wasnt-in-capitol-building-during-riots](https://www.foxnews.com/politics/aoc-under-fire-amid-details-that-she-wasnt-in-capitol-building-during-riots)
+ - date published: 2021-02-03 20:45:01+00:00
+ - user: rumpel
+ - tags: ['january 6']
+
 ## Esteemed Academic Conference on Dangers of Censorship — Reportedly Censored by YouTube
  - [https://thefreethoughtproject.com/censorship-conference-dangers-censored-by-youtube](https://thefreethoughtproject.com/censorship-conference-dangers-censored-by-youtube)
  - date published: 2021-02-01 12:25:54+00:00
@@ -3592,6 +3610,12 @@
  - user: rumpel
  - tags: ['bill gates', 'atmosphere', 'climate change', 'sun-dimming']
 
+## Joe Biden & Abortion: Executive Order Reverses Pro-Life Mexico City Policy to Fund Abortion Overseas | National Review
+ - [https://www.nationalreview.com/corner/biden-signs-executive-order-allowing-the-u-s-to-fund-global-abortions/](https://www.nationalreview.com/corner/biden-signs-executive-order-allowing-the-u-s-to-fund-global-abortions/)
+ - date published: 2021-01-28 20:59:31+00:00
+ - user: rumpel
+ - tags: ['abortion', 'america']
+
 ## Why using fear to promote COVID-19 vaccination and mask wearing could backfire
  - [https://theconversation.com/why-using-fear-to-promote-covid-19-vaccination-and-mask-wearing-could-backfire-153865](https://theconversation.com/why-using-fear-to-promote-covid-19-vaccination-and-mask-wearing-could-backfire-153865)
  - date published: 2021-01-28 08:57:02+00:00
@@ -3604,6 +3628,30 @@
  - user: rumpel
  - tags: ['archive']
 
+## Google says PAC won't fund Congress members against election results
+ - [https://www.cnbc.com/2021/01/25/google-says-pac-wont-fund-congress-members-against-election-results.html](https://www.cnbc.com/2021/01/25/google-says-pac-wont-fund-congress-members-against-election-results.html)
+ - date published: 2021-01-25 20:36:52+00:00
+ - user: rumpel
+ - tags: ['january 6', 'google']
+
+## Newsom claims lifting lockdown isn't 'political' but critics point to recall threat | AllSides
+ - [https://www.allsides.com/news/2021-01-25-2043/newsom-claims-lifting-lockdown-isnt-political-critics-point-recall-threat](https://www.allsides.com/news/2021-01-25-2043/newsom-claims-lifting-lockdown-isnt-political-critics-point-recall-threat)
+ - date published: 2021-01-25 20:33:04+00:00
+ - user: rumpel
+ - tags: ['lockdown', 'california', 'covid']
+
+## New Instagram terms of use details broad use of your personal information
+ - [https://winknews.com/2021/01/25/new-instagram-terms-of-service-could-put-your-data-at-risk/](https://winknews.com/2021/01/25/new-instagram-terms-of-service-could-put-your-data-at-risk/)
+ - date published: 2021-01-25 20:09:20+00:00
+ - user: rumpel
+ - tags: ['instagram', 'privacy', 'technofeudalism']
+
+## California ignores public records request, keeps coronavirus data hidden  | Fox News
+ - [https://www.foxnews.com/politics/california-ignores-public-records-request-keeps-coronavirus-data-hidden](https://www.foxnews.com/politics/california-ignores-public-records-request-keeps-coronavirus-data-hidden)
+ - date published: 2021-01-23 20:34:23+00:00
+ - user: rumpel
+ - tags: ['lockdown', 'california', 'covid']
+
 ## Why It's Bad to Have High GDP
  - [https://lukesmith.xyz/articles/why-its-bad-to-have-high-gdp/](https://lukesmith.xyz/articles/why-its-bad-to-have-high-gdp/)
  - date published: 2021-01-22 00:00:00+00:00
@@ -3615,6 +3663,12 @@
  - date published: 2021-01-21 12:26:49+00:00
  - user: None
  - tags: ['surveillance', 'election', 'facebook']
+
+## Incoming White House Climate Team Blames 'Systemic Racism' for Climate Change
+ - [https://freebeacon.com/elections/incoming-white-house-climate-team-blames-systemic-racism-for-climate-change/](https://freebeacon.com/elections/incoming-white-house-climate-team-blames-systemic-racism-for-climate-change/)
+ - date published: 2021-01-18 20:30:52+00:00
+ - user: rumpel
+ - tags: ['woke', 'climate change']
 
 ## Does the West Actually Care About the Uighur Genocide in China or Is It a Handy Excuse for Conflict?
  - [https://www.theorganicprepper.com/china-uighur-genocide/](https://www.theorganicprepper.com/china-uighur-genocide/)
@@ -3634,6 +3688,12 @@
  - user: rumpel
  - tags: ['lockdown', 'covid']
 
+## PBS attorney fired after video shows him pushing for 're-education camps' for Trump voters | WCTI
+ - [https://wcti12.com/news/nation-world/pbs-attorney-fired-after-video-shows-him-pushing-for-re-education-camps-for-trump-voters](https://wcti12.com/news/nation-world/pbs-attorney-fired-after-video-shows-him-pushing-for-re-education-camps-for-trump-voters)
+ - date published: 2021-01-14 20:28:29+00:00
+ - user: rumpel
+ - tags: ['donald trump']
+
 ## How Facebook and Twitter decided to take down Trump's accounts
  - [https://www.nbcnews.com/tech/tech-news/how-facebook-twitter-decided-take-down-trump-s-accounts-n1254317](https://www.nbcnews.com/tech/tech-news/how-facebook-twitter-decided-take-down-trump-s-accounts-n1254317)
  - date published: 2021-01-14 13:13:13+00:00
@@ -3646,11 +3706,23 @@
  - user: rumpel
  - tags: ['privacy', 'bigtech', 'bigbrother', 'censorship', 'surveillance', 'hunter biden']
 
+## PBS lawyer resigns after being caught in Veritas sting | AP News
+ - [https://apnews.com/article/donald-trump-entertainment-coronavirus-pandemic-8f586d687ab332777a7a059457ff818e](https://apnews.com/article/donald-trump-entertainment-coronavirus-pandemic-8f586d687ab332777a7a059457ff818e)
+ - date published: 2021-01-12 20:29:03+00:00
+ - user: rumpel
+ - tags: ['donald trump']
+
 ## Doctor’s Death After Covid Vaccine Is Being Investigated
  - [https://www.nytimes.com/2021/01/12/health/covid-vaccine-death.html](https://www.nytimes.com/2021/01/12/health/covid-vaccine-death.html)
  - date published: 2021-01-12 13:00:20+00:00
  - user: rumpel
  - tags: ['covid', 'vaccine', 'pfizer']
+
+## Biden receives second dose of COVID-19 vaccine
+ - [https://nypost.com/2021/01/11/biden-receives-second-dose-of-covid-19-vaccine/](https://nypost.com/2021/01/11/biden-receives-second-dose-of-covid-19-vaccine/)
+ - date published: 2021-01-11 20:52:16+00:00
+ - user: rumpel
+ - tags: ['vaccine', 'covid']
 
 ## Parler app has now been booted by Amazon, Apple and Google | CNN Business
  - [https://edition.cnn.com/2021/01/09/tech/parler-suspended-apple-app-store/index.html](https://edition.cnn.com/2021/01/09/tech/parler-suspended-apple-app-store/index.html)
@@ -3700,6 +3772,12 @@
  - user: None
  - tags: ['censorship', 'twitter', 'january 6', 'donald trump']
 
+## Known Antifa members posed as pro-Trump to infiltrate Capitol riot: sources
+ - [https://nypost.com/2021/01/07/known-antifa-members-posed-as-pro-trump-to-infiltrate-capitol-riot-sources/](https://nypost.com/2021/01/07/known-antifa-members-posed-as-pro-trump-to-infiltrate-capitol-riot-sources/)
+ - date published: 2021-01-07 20:19:34+00:00
+ - user: rumpel
+ - tags: ['january 6']
+
 ## Trump suspended indefinitely from Snapchat | The Hill
  - [https://thehill.com/policy/technology/533204-trump-suspended-indefinitely-from-snapchat/](https://thehill.com/policy/technology/533204-trump-suspended-indefinitely-from-snapchat/)
  - date published: 2021-01-07 15:02:24+00:00
@@ -3717,6 +3795,12 @@
  - date published: 2021-01-04 21:53:34+00:00
  - user: rumpel
  - tags: ['lgbt', 'newspeak', 'pronouns', 'gender', 'social engineering']
+
+## House Democrats open 117th Congress with prayer ending 'amen and a-woman' - Washington Times
+ - [https://www.washingtontimes.com/news/2021/jan/3/house-democrats-open-117th-congress-prayer-ending-/](https://www.washingtontimes.com/news/2021/jan/3/house-democrats-open-117th-congress-prayer-ending-/)
+ - date published: 2021-01-03 20:13:03+00:00
+ - user: rumpel
+ - tags: ['woke', 'newspeak']
 
 ## Why am I so Anti-Video Gaymes?
  - [https://www.youtube.com/watch?v=L5xd5yejPBE](https://www.youtube.com/watch?v=L5xd5yejPBE)

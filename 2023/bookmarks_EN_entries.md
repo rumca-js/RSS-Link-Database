@@ -1,3 +1,9 @@
+## The Erosion of Free Will: Why Society's Loss of Belief in Freedom Is Dangerous
+ - [https://read.lukeburgis.com/p/the-erosion-of-free-will-why-societys](https://read.lukeburgis.com/p/the-erosion-of-free-will-why-societys)
+ - date published: 2023-04-08 02:18:29+00:00
+ - user: rumpel
+ - tags: ['psychology', 'free will']
+
 ## Tesla workers shared images from car cameras, including “scenes of intimacy”
  - [https://arstechnica.com/tech-policy/2023/04/tesla-workers-shared-images-from-car-cameras-including-scenes-of-intimacy/](https://arstechnica.com/tech-policy/2023/04/tesla-workers-shared-images-from-car-cameras-including-scenes-of-intimacy/)
  - date published: 2023-04-06 17:46:54+00:00

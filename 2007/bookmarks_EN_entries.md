@@ -28,3 +28,9 @@
  - user: rumpel
  - tags: ['technofeudalism', 'windows', 'microsoft']
 
+## Biden's description of Obama draws scrutiny - CNN.com
+ - [https://edition.cnn.com/2007/POLITICS/01/31/biden.obama/](https://edition.cnn.com/2007/POLITICS/01/31/biden.obama/)
+ - date published: 2007-02-09 20:26:13+00:00
+ - user: rumpel
+ - tags: ['barack obama', 'joe biden']
+
