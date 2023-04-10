@@ -88,6 +88,12 @@
  - user: None
  - tags: ['vaccine', 'covid']
 
+## Nolte: Seattle Politician Calls Police She Defunded over Crime
+ - [https://www.breitbart.com/politics/2020/12/17/nolte-seattle-politician-calls-police-she-defunded-over-crime-she-wants-legalized/](https://www.breitbart.com/politics/2020/12/17/nolte-seattle-politician-calls-police-she-defunded-over-crime-she-wants-legalized/)
+ - date published: 2020-12-17 20:10:47+00:00
+ - user: rumpel
+ - tags: ['defund the police']
+
 ## You can’t sue Pfizer or Moderna if you have severe Covid vaccine side effects. The government likely won't compensate you for damages either
  - [https://www.cnbc.com/2020/12/16/covid-vaccine-side-effects-compensation-lawsuit.html](https://www.cnbc.com/2020/12/16/covid-vaccine-side-effects-compensation-lawsuit.html)
  - date published: 2020-12-16 18:11:47+00:00
@@ -141,6 +147,12 @@
  - date published: 2020-12-10 13:00:02+00:00
  - user: rumpel
  - tags: ['surveillance', 'corporatocracy', 'bigbrother', 'biometric']
+
+## Facebook hit with antitrust lawsuit from FTC and 48 state attorneys general - ABC News
+ - [https://abcnews.go.com/Business/facebook-hit-antitrust-lawsuit-ftc-48-state-attorneys/story?id=74623634](https://abcnews.go.com/Business/facebook-hit-antitrust-lawsuit-ftc-48-state-attorneys/story?id=74623634)
+ - date published: 2020-12-09 19:21:03+00:00
+ - user: rumpel
+ - tags: ['facebook', 'antitrust']
 
 ## What psychology can tell us about why some people don’t wear masks – and how to change their minds
  - [https://theconversation.com/what-psychology-can-tell-us-about-why-some-people-dont-wear-masks-and-how-to-change-their-minds-150343](https://theconversation.com/what-psychology-can-tell-us-about-why-some-people-dont-wear-masks-and-how-to-change-their-minds-150343)
@@ -381,6 +393,12 @@
  - date published: 2020-10-20 11:15:42+00:00
  - user: rumpel
  - tags: ['google', 'antitrust', 'bigtech']
+
+## Facebook, Twitter employees send over 90% of political donations to Democrats: report | Fox News
+ - [https://www.foxnews.com/politics/facebook-twitter-employees-donations-democrats](https://www.foxnews.com/politics/facebook-twitter-employees-donations-democrats)
+ - date published: 2020-10-16 19:47:48+00:00
+ - user: rumpel
+ - tags: ['twitter', 'corporatocracy', 'facebook', 'manufacturing consent']
 
 ## Facebook to ban ads discouraging vaccination
  - [https://www.theguardian.com/technology/2020/oct/13/facebook-vaccine-ads-ban](https://www.theguardian.com/technology/2020/oct/13/facebook-vaccine-ads-ban)
@@ -1024,6 +1042,12 @@
  - user: rumpel
  - tags: ['lockdown', 'covid']
 
+## Dr. Fauci Backed Controversial Wuhan Lab with U.S. Dollars for Risky Coronavirus Research
+ - [https://www.newsweek.com/dr-fauci-backed-controversial-wuhan-lab-millions-us-dollars-risky-coronavirus-research-1500741](https://www.newsweek.com/dr-fauci-backed-controversial-wuhan-lab-millions-us-dollars-risky-coronavirus-research-1500741)
+ - date published: 2020-04-28 20:20:32+00:00
+ - user: rumpel
+ - tags: ['wuhan', 'covid', 'fauci']
+
 ## Amazon uses data from third-party sellers to develop its own products, WSJ investigation finds
  - [https://www.cnbc.com/2020/04/23/wsj-amazon-uses-data-from-third-party-sellers-to-develop-its-own-products.html](https://www.cnbc.com/2020/04/23/wsj-amazon-uses-data-from-third-party-sellers-to-develop-its-own-products.html)
  - date published: 2020-04-23 14:07:06+00:00
@@ -1034,7 +1058,7 @@
  - [https://www.livescience.com/coronavirus-wuhan-lab-complicated-origins.html](https://www.livescience.com/coronavirus-wuhan-lab-complicated-origins.html)
  - date published: 2020-04-18 06:52:28+00:00
  - user: rumpel
- - tags: ['lableak', 'wuhan', 'covid', 'covid origins']
+ - tags: ['wuhan', 'covid', 'lableak']
 
 ## 3 Undeniable Reasons Why You Need Online Anonymity
  - [https://www.makeuseof.com/tag/3-undeniable-reasons-need-online-anonymity/](https://www.makeuseof.com/tag/3-undeniable-reasons-need-online-anonymity/)
@@ -1047,6 +1071,12 @@
  - date published: 2020-04-03 07:26:22+00:00
  - user: rumpel
  - tags: ['wuhan', 'lableak', 'propaganda', 'fearmongering', 'covid']
+
+## Whistleblowing coronavirus doctor mysteriously vanishes
+ - [https://nypost.com/2020/04/01/whistleblowing-coronavirus-doctor-mysteriously-vanishes/](https://nypost.com/2020/04/01/whistleblowing-coronavirus-doctor-mysteriously-vanishes/)
+ - date published: 2020-04-01 20:29:25+00:00
+ - user: rumpel
+ - tags: ['china', 'covid', 'wuhan']
 
 ## Misused photo of migrants’ coffins used to cast doubt on Covid-19 in Italy
  - [https://observers.france24.com/en/europe/20220106-debunked-covid-19-migrant-coffins-documentary-bergamo](https://observers.france24.com/en/europe/20220106-debunked-covid-19-migrant-coffins-documentary-bergamo)

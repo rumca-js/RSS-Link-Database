@@ -380,7 +380,7 @@
  - [https://2017-2021.state.gov/fact-sheet-activity-at-the-wuhan-institute-of-virology/index.html](https://2017-2021.state.gov/fact-sheet-activity-at-the-wuhan-institute-of-virology/index.html)
  - date published: 2017-01-20 07:25:32+00:00
  - user: rumpel
- - tags: ['wuhan', 'covid', 'usa', 'covid origins', 'gainoffunction']
+ - tags: ['gainoffunction', 'usa', 'covid', 'wuhan']
 
 ## Having babies really does change women's brains
  - [https://www.abc.net.au/news/2017-01-07/having-babies-changes-womens-brains/8165466](https://www.abc.net.au/news/2017-01-07/having-babies-changes-womens-brains/8165466)

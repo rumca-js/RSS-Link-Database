@@ -130,6 +130,12 @@
  - user: rumpel
  - tags: ['bohemian grove', 'secret societies']
 
+## Covid-induced poverty: Nearly 100 million people may stay poor this year from the pandemic | CNN Business
+ - [https://edition.cnn.com/2021/12/26/business/global-poverty-covid-pandemic-intl-hnk/index.html](https://edition.cnn.com/2021/12/26/business/global-poverty-covid-pandemic-intl-hnk/index.html)
+ - date published: 2021-12-26 19:34:40+00:00
+ - user: rumpel
+ - tags: ['lockdown', 'covid']
+
 ## Thoughts on how to structure Go code |> Changelog
  - [https://changelog.com/posts/on-go-application-structure](https://changelog.com/posts/on-go-application-structure)
  - date published: 2021-12-24 22:33:17.769373+00:00
@@ -1131,6 +1137,12 @@
  - date published: 2021-10-20 22:39:49.099132+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## NIH admits Fauci lied about funding Wuhan gain-of-function experiments | Washington Examiner
+ - [https://www.washingtonexaminer.com/opinion/nih-admits-fauci-lied-about-funding-wuhan-gain-of-function-experiments](https://www.washingtonexaminer.com/opinion/nih-admits-fauci-lied-about-funding-wuhan-gain-of-function-experiments)
+ - date published: 2021-10-20 20:23:09+00:00
+ - user: rumpel
+ - tags: ['wuhan', 'covid', 'fauci']
 
 ## Free Chinese VPN exposed data from over a million users
  - [https://www.techradar.com/news/free-chinese-vpn-exposed-data-from-a-million-users](https://www.techradar.com/news/free-chinese-vpn-exposed-data-from-a-million-users)
@@ -3082,6 +3094,12 @@
  - user: rumpel
  - tags: ['privacy', 'tracking', 'covid']
 
+## Canadian Pastors Arrested for Holding Outdoor Church Services - The American Spectator | USA News and Politics
+ - [https://spectator.org/canadian-pastor-arrested-covid/](https://spectator.org/canadian-pastor-arrested-covid/)
+ - date published: 2021-06-21 20:16:50+00:00
+ - user: rumpel
+ - tags: ['lockdown', 'covid']
+
 ## Fauci Doubles Down: People Who Criticize Me Are ‘Actually Criticizing Science’
  - [https://www.breitbart.com/science/2021/06/21/fauci-doubles-down-people-who-criticize-me-are-actually-criticizing-science/](https://www.breitbart.com/science/2021/06/21/fauci-doubles-down-people-who-criticize-me-are-actually-criticizing-science/)
  - date published: 2021-06-21 17:24:57+00:00
@@ -3208,11 +3226,29 @@
  - user: rumpel
  - tags: ['privacy', 'surveillance', 'facial recognition', 'bigbrother', 'clearview', 'artificial intelligence']
 
+## Wuhan Lab Caught Deleting Files Proving Fauci Funding
+ - [https://noqreport.com/2021/05/26/wuhan-lab-caught-deleting-files-proving-fauci-funding/](https://noqreport.com/2021/05/26/wuhan-lab-caught-deleting-files-proving-fauci-funding/)
+ - date published: 2021-05-26 20:27:54+00:00
+ - user: rumpel
+ - tags: ['wuhan', 'covid', 'fauci']
+
+## Facebook lifts ban on posts claiming COVID-19 was man-made, amid revitalized origins debate - ABC News
+ - [https://abcnews.go.com/Technology/facebook-lifts-ban-posts-claiming-covid-19-man/story?id=77931433](https://abcnews.go.com/Technology/facebook-lifts-ban-posts-claiming-covid-19-man/story?id=77931433)
+ - date published: 2021-05-26 20:18:59+00:00
+ - user: rumpel
+ - tags: ['covid', 'censorship', 'facebook', 'wuhan']
+
 ## Fauci admits ‘modest’ NIH funding of Wuhan lab but denies ‘gain of function
  - [https://nypost.com/2021/05/25/fauci-admits-nih-funding-of-wuhan-lab-denies-gain-of-function/](https://nypost.com/2021/05/25/fauci-admits-nih-funding-of-wuhan-lab-denies-gain-of-function/)
  - date published: 2021-05-25 07:18:24+00:00
  - user: rumpel
  - tags: ['wuhan', 'lableak', 'fauci']
+
+## Report: Wuhan Lab Staff Went To Hospital With Covid-Like Symptoms Before Confirmed Outbreak, New Intelligence Finds
+ - [https://www.forbes.com/sites/jonathanponciano/2021/05/23/report-wuhan-lab-staff-hospital-covid-19-symptoms-virus-origins/](https://www.forbes.com/sites/jonathanponciano/2021/05/23/report-wuhan-lab-staff-hospital-covid-19-symptoms-virus-origins/)
+ - date published: 2021-05-24 20:31:15+00:00
+ - user: rumpel
+ - tags: ['china', 'covid', 'wuhan']
 
 ## Saagar Enjeti: Epstein Guards ADMIT Faking Records As Bill Gates Revelations Continue
  - [https://www.youtube.com/watch?v=s54H5d34GWE](https://www.youtube.com/watch?v=s54H5d34GWE)
@@ -3243,6 +3279,18 @@
  - date published: 2021-05-17 10:19:18+00:00
  - user: None
  - tags: $tags
+
+## Bill Gates asked out several women in his office: report
+ - [https://nypost.com/2021/05/16/bill-gates-asked-out-several-women-in-his-office-report/](https://nypost.com/2021/05/16/bill-gates-asked-out-several-women-in-his-office-report/)
+ - date published: 2021-05-16 20:14:43+00:00
+ - user: rumpel
+ - tags: ['bill gates']
+
+## New CDC guidance does not grant permission for widespread mask removal: Rochelle Walensky - ABC7 Chicago
+ - [https://abc7chicago.com/cdc-masks-mask-guidance-rochelle-walensky-new-guidelines-for/10644836/](https://abc7chicago.com/cdc-masks-mask-guidance-rochelle-walensky-new-guidelines-for/10644836/)
+ - date published: 2021-05-16 20:13:06+00:00
+ - user: rumpel
+ - tags: ['masks', 'covid']
 
 ## Fauci: the vaccinated stop viral transmission, no need for masks
  - [https://totalityofevidence.com/timeline/fauci-the-vaccinated-stop-viral-transmission/](https://totalityofevidence.com/timeline/fauci-the-vaccinated-stop-viral-transmission/)
@@ -3394,6 +3442,18 @@
  - user: rumpel
  - tags: ['kids', 'lgbt', 'indoctrination', 'sexualisation']
 
+## Breonna Taylor's mom slams BLM Louisville as a 'fraud'
+ - [https://nypost.com/2021/04/17/breonna-taylors-mom-slams-blm-louisville-as-a-fraud/](https://nypost.com/2021/04/17/breonna-taylors-mom-slams-blm-louisville-as-a-fraud/)
+ - date published: 2021-04-17 19:50:40+00:00
+ - user: rumpel
+ - tags: ['fraud', 'black lives matter']
+
+## James O'Keefe's Twitter suspended one day after CNN exposé
+ - [https://nypost.com/2021/04/15/james-okeefes-twitter-suspended-one-day-after-cnn-expose/](https://nypost.com/2021/04/15/james-okeefes-twitter-suspended-one-day-after-cnn-expose/)
+ - date published: 2021-04-15 20:00:06+00:00
+ - user: rumpel
+ - tags: ['propaganda', 'project veritas', 'twitter', 'censorship', 'manufacturing consent']
+
 ## The Anthropocene: Where on Earth are we Going? (Full)
  - [https://www.youtube.com/watch?v=HvD0TgE34HA](https://www.youtube.com/watch?v=HvD0TgE34HA)
  - date published: 2021-04-15 07:28:02+00:00
@@ -3406,11 +3466,17 @@
  - user: rumpel
  - tags: ['cnn', 'media', 'covid', 'fearmongering']
 
+## CNN director shown on undercover video boasting about removing Trump from office and admitting to spreading propaganda | Washington Examiner
+ - [https://www.washingtonexaminer.com/news/cnn-director-boasts-removing-trump-from-office-spreading-propaganda](https://www.washingtonexaminer.com/news/cnn-director-boasts-removing-trump-from-office-spreading-propaganda)
+ - date published: 2021-04-13 19:58:50+00:00
+ - user: rumpel
+ - tags: ['propaganda', 'donald trump']
+
 ## Why Did the Johnson & Johnson Vaccine Get Suspended and What Comes Next?
  - [https://nationalinterest.org/blog/coronavirus/why-did-johnson-johnson-vaccine-get-suspended-and-what-comes-next-182682](https://nationalinterest.org/blog/coronavirus/why-did-johnson-johnson-vaccine-get-suspended-and-what-comes-next-182682)
  - date published: 2021-04-13 07:20:43+00:00
  - user: None
- - tags: ['covid', 'vaccine']
+ - tags: ['johnson and johnson', 'vaccine', 'covid']
 
 ## Do we Need Nuclear Energy to Stop Climate Change?
  - [https://www.youtube.com/watch?v=EhAemz1v7dQ](https://www.youtube.com/watch?v=EhAemz1v7dQ)
@@ -3430,6 +3496,12 @@
  - user: None
  - tags: $tags
 
+## Inside BLM co-founder Patrisse Khan-Cullors' real-estate buying binge
+ - [https://nypost.com/2021/04/10/inside-blm-co-founder-patrisse-khan-cullors-real-estate-buying-binge/](https://nypost.com/2021/04/10/inside-blm-co-founder-patrisse-khan-cullors-real-estate-buying-binge/)
+ - date published: 2021-04-10 19:51:55+00:00
+ - user: rumpel
+ - tags: ['hypocrisy', 'black lives matter']
+
 ## Facebook does not plan to notify half-billion users affected by data leak
  - [https://www.reuters.com/article/us-facebook-data-leak/facebook-does-not-plan-to-notify-half-billion-users-affected-by-data-leak-idUSKBN2BU2ZY](https://www.reuters.com/article/us-facebook-data-leak/facebook-does-not-plan-to-notify-half-billion-users-affected-by-data-leak-idUSKBN2BU2ZY)
  - date published: 2021-04-07 13:04:35+00:00
@@ -3441,6 +3513,12 @@
  - date published: 2021-04-04 10:42:23+00:00
  - user: rumpel
  - tags: ['blackrock', 'housing market', 'wall street']
+
+## Austin on Track for 111% Increase in Murders Over Two-Year Period
+ - [https://www.honestaustin.com/2021/03/31/austin-murder-rate-111-percent/](https://www.honestaustin.com/2021/03/31/austin-murder-rate-111-percent/)
+ - date published: 2021-03-31 20:09:24+00:00
+ - user: rumpel
+ - tags: ['defund the police']
 
 ## How U.S. media lost the trust of the public
  - [https://www.cbc.ca/news/world/media-distrust-big-news-1.5965622](https://www.cbc.ca/news/world/media-distrust-big-news-1.5965622)
@@ -3454,6 +3532,12 @@
  - user: None
  - tags: $tags
 
+## Kamala Harris and Bill Clinton touting girls' empowerment together is a bad joke
+ - [https://www.nbcnews.com/think/opinion/kamala-harris-bill-clinton-touting-girls-empowerment-together-bad-joke-ncna1261977](https://www.nbcnews.com/think/opinion/kamala-harris-bill-clinton-touting-girls-empowerment-together-bad-joke-ncna1261977)
+ - date published: 2021-03-25 19:36:06+00:00
+ - user: rumpel
+ - tags: ['hypocrisy', 'feminism', 'bill clinton']
+
 ## TERREG: Free Speech Advocates Urge EU Legislators to Vote 'No' to Automated Censorship Online
  - [https://www.liberties.eu/en/stories/terrorist-content-regulation-open-letter-to-meps/43410](https://www.liberties.eu/en/stories/terrorist-content-regulation-open-letter-to-meps/43410)
  - date published: 2021-03-25 13:00:34+00:00
@@ -3465,6 +3549,12 @@
  - date published: 2021-03-24 21:37:41+00:00
  - user: rumpel
  - tags: ['covid', 'fear mongering', 'media', 'scienceisdead', 'propaganda']
+
+## Biden calls for gun control following Boulder shooting – DW – 03/23/2021
+ - [https://www.dw.com/en/colorado-shooting-us-president-joe-biden-calls-for-gun-control/a-56963483](https://www.dw.com/en/colorado-shooting-us-president-joe-biden-calls-for-gun-control/a-56963483)
+ - date published: 2021-03-23 19:45:15+00:00
+ - user: rumpel
+ - tags: ['gun control', 'joe biden']
 
 ## Bill Gates Won't Stop Lying About Epstein Connections
  - [https://www.youtube.com/watch?v=D9iF4k16be0](https://www.youtube.com/watch?v=D9iF4k16be0)
@@ -3484,11 +3574,47 @@
  - user: rumpel
  - tags: ['ads', 'ad business']
 
+## China Arrests at Least Ten Christians in Raid of Private Bible Study
+ - [https://www.breitbart.com/asia/2021/03/19/china-arrests-least-ten-christians-raid-private-bible-study/](https://www.breitbart.com/asia/2021/03/19/china-arrests-least-ten-christians-raid-private-bible-study/)
+ - date published: 2021-03-19 20:15:53+00:00
+ - user: rumpel
+ - tags: ['china', 'christianophobia']
+
+## Portland cut police funding and got a 2,000% surge in murders | Washington Examiner
+ - [https://www.washingtonexaminer.com/opinion/portland-cut-police-funding-and-got-a-2-000-surge-in-murders](https://www.washingtonexaminer.com/opinion/portland-cut-police-funding-and-got-a-2-000-surge-in-murders)
+ - date published: 2021-03-16 19:30:01+00:00
+ - user: rumpel
+ - tags: ['defund the police', 'black lives matter']
+
+## Portland Mayor seeks to re-fund the police by $2 million as violent crimes surge | The Post Millennial | thepostmillennial.com
+ - [https://thepostmillennial.com/portland-mayor-seeks-to-re-fund-the-police-by-2-million-as-violent-crimes-surge/](https://thepostmillennial.com/portland-mayor-seeks-to-re-fund-the-police-by-2-million-as-violent-crimes-surge/)
+ - date published: 2021-03-16 19:28:30+00:00
+ - user: rumpel
+ - tags: ['defund the police', 'black lives matter']
+
+## Florida Sees Same COVID Case Rate as California, Despite No Statewide Restrictions
+ - [https://www.newsweek.com/florida-sees-same-covid-case-rate-california-despite-no-statewide-restrictions-1576211](https://www.newsweek.com/florida-sees-same-covid-case-rate-california-despite-no-statewide-restrictions-1576211)
+ - date published: 2021-03-15 19:24:58+00:00
+ - user: rumpel
+ - tags: ['lockdown', 'covid', 'scienceisdead']
+
+## LA County judge authorizes cutting off restaurant's electricity for trying to survive pandemic | Fox News
+ - [https://www.foxnews.com/us/la-county-judge-authorizes-burbank-cut-off-electricity-restaurant-trying-survive-covid-pandemic](https://www.foxnews.com/us/la-county-judge-authorizes-burbank-cut-off-electricity-restaurant-trying-survive-covid-pandemic)
+ - date published: 2021-03-14 19:23:39+00:00
+ - user: rumpel
+ - tags: ['lockdown', 'covid']
+
 ## Johnny Harris: A Story of YouTube Propaganda
  - [https://www.youtube.com/watch?v=Dum0bqWfiGw](https://www.youtube.com/watch?v=Dum0bqWfiGw)
  - date published: 2021-03-12 20:26:11+00:00
  - user: None
  - tags: ['propaganda', 'youtube']
+
+## Portland Rioters Try Set Fire To Federal Courthouse Hours After Security Fence Is Removed - The Police Tribune
+ - [https://policetribune.com/portland-rioters-try-set-fire-to-federal-courthouse-hours-after-security-fence-is-removed/](https://policetribune.com/portland-rioters-try-set-fire-to-federal-courthouse-hours-after-security-fence-is-removed/)
+ - date published: 2021-03-12 19:26:38+00:00
+ - user: rumpel
+ - tags: ['protest', 'black lives matter']
 
 ## A man lives in a society where citizens police each other with their mobile phones. | Utopia
  - [https://www.youtube.com/watch?v=vJYaXy5mmA8](https://www.youtube.com/watch?v=vJYaXy5mmA8)
@@ -3525,6 +3651,12 @@
  - date published: 2021-02-25 08:33:35+00:00
  - user: rumpel
  - tags: ['gender', 'rand paul', 'rachel levine']
+
+## Biden’s ‘kids in cages’ prove his hypocrisy on immigration
+ - [https://nypost.com/2021/02/24/bidens-kids-in-cages-prove-his-hypocrisy-on-immigration/](https://nypost.com/2021/02/24/bidens-kids-in-cages-prove-his-hypocrisy-on-immigration/)
+ - date published: 2021-02-24 19:33:06+00:00
+ - user: rumpel
+ - tags: ['immigration', 'hypocrisy', 'black lives matter']
 
 ## Is Google Search Getting Less Accurate?
  - [https://www.youtube.com/watch?v=8xl2mWK9LsE](https://www.youtube.com/watch?v=8xl2mWK9LsE)

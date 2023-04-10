@@ -28,6 +28,12 @@
  - user: rumpel
  - tags: ['motivation']
 
+## Johnson & Johnson to Pay More Than $2.2 Billion to Resolve Criminal and Civil Investigations | OPA | Department of Justice
+ - [https://www.justice.gov/opa/pr/johnson-johnson-pay-more-22-billion-resolve-criminal-and-civil-investigations](https://www.justice.gov/opa/pr/johnson-johnson-pay-more-22-billion-resolve-criminal-and-civil-investigations)
+ - date published: 2013-11-04 20:05:26+00:00
+ - user: rumpel
+ - tags: ['johnson and johnson']
+
 ## Norway's gender quota law has made boards more professional: state fund boss | Reuters
  - [https://www.reuters.com/article/us-nordic-investment-fund-idUSBRE98T0LM20130930](https://www.reuters.com/article/us-nordic-investment-fund-idUSBRE98T0LM20130930)
  - date published: 2013-09-30 20:58:03+00:00

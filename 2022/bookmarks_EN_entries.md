@@ -9106,6 +9106,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Black Lives Matter spent at least $12 million on mansions
+ - [https://nypost.com/2022/05/17/black-lives-matter-spent-at-least-12-million-on-mansions/](https://nypost.com/2022/05/17/black-lives-matter-spent-at-least-12-million-on-mansions/)
+ - date published: 2022-05-17 19:55:33+00:00
+ - user: rumpel
+ - tags: ['hypocrisy', 'black lives matter']
+
 ## Response to the Change.org petition about me
  - [https://blog.mollywhite.net/response-to-the-changeorg-petition-about-me/](https://blog.mollywhite.net/response-to-the-changeorg-petition-about-me/)
  - date published: 2022-05-17 11:36:59.647002+00:00
@@ -9711,6 +9717,12 @@
  - date published: 2022-04-13 06:44:27+00:00
  - user: rumpel
  - tags: ['tech control', 'france', 'privacy', 'bigbrother', 'anonymity']
+
+## Black Lives Matter leaders condemn allegations of mismanaged funds
+ - [https://www.nbcnews.com/news/nbcblk/black-lives-matter-leaders-condemn-allegations-mismanaged-funds-rcna23882](https://www.nbcnews.com/news/nbcblk/black-lives-matter-leaders-condemn-allegations-mismanaged-funds-rcna23882)
+ - date published: 2022-04-12 19:57:31+00:00
+ - user: rumpel
+ - tags: ['hypocrisy', 'black lives matter']
 
 ## What Le Corbusier got right about office space | Tim Harford
  - [https://timharford.com/2022/04/what-le-corbusier-got-right-about-office-space/](https://timharford.com/2022/04/what-le-corbusier-got-right-about-office-space/)

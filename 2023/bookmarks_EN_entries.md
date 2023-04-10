@@ -1,3 +1,9 @@
+## W 2030 r. możesz nie kupić żadnego samochodu. Nawet elektryka. Tak Bruksela namieszała
+ - [https://spidersweb.pl/bizblog/w-2030-r-nie-kupimy-zadnego-samochodu/](https://spidersweb.pl/bizblog/w-2030-r-nie-kupimy-zadnego-samochodu/)
+ - date published: 2023-04-08 19:17:41+00:00
+ - user: rumpel
+ - tags: ['electric vehicles']
+
 ## The Erosion of Free Will: Why Society's Loss of Belief in Freedom Is Dangerous
  - [https://read.lukeburgis.com/p/the-erosion-of-free-will-why-societys](https://read.lukeburgis.com/p/the-erosion-of-free-will-why-societys)
  - date published: 2023-04-08 02:18:29+00:00
@@ -27,6 +33,12 @@
  - date published: 2023-04-05 14:51:08+00:00
  - user: rumpel
  - tags: ['smart home']
+
+## Johnson and Johnson Reaches Deal for $8.9B Talc Settlement
+ - [https://www.nytimes.com/2023/04/04/business/media/johnson-johnson-talc-settlement.html](https://www.nytimes.com/2023/04/04/business/media/johnson-johnson-talc-settlement.html)
+ - date published: 2023-04-05 13:32:46+00:00
+ - user: rumpel
+ - tags: ['johnson and johnson']
 
 ## GPT4 impersonating a FTP server at ftp.disney.com
  - [https://www.filestash.app/2023/04/01/chat-gpt-acting-as-a-ftp-server/](https://www.filestash.app/2023/04/01/chat-gpt-acting-as-a-ftp-server/)
@@ -718,6 +730,12 @@
  - user: rumpel
  - tags: ['streaming', 'movies']
 
+## Gen Z, Millennials think women’s rights have gone too far
+ - [https://nypost.com/2023/03/10/gen-z-millennials-think-womens-rights-have-gone-too-far/](https://nypost.com/2023/03/10/gen-z-millennials-think-womens-rights-have-gone-too-far/)
+ - date published: 2023-03-10 19:14:17+00:00
+ - user: rumpel
+ - tags: ['feminism']
+
 ## Google, Meta hired talent to do 'fake work'
  - [https://fortune.com/2023/03/10/google-over-hired-talent-do-nothing-fake-work-stop-working-rivals-former-paypal-boss-keith-rabois/](https://fortune.com/2023/03/10/google-over-hired-talent-do-nothing-fake-work-stop-working-rivals-former-paypal-boss-keith-rabois/)
  - date published: 2023-03-10 19:01:27+00:00
@@ -873,6 +891,12 @@
  - date published: 2023-03-06 10:21:45+00:00
  - user: rumpel
  - tags: ['google search', 'algorithms']
+
+## New emails show Fauci commissioned paper to disprove Wuhan lab leak theory
+ - [https://nypost.com/2023/03/05/new-emails-show-fauci-commissioned-paper-to-disprove-wuhan-lab-leak-theory/](https://nypost.com/2023/03/05/new-emails-show-fauci-commissioned-paper-to-disprove-wuhan-lab-leak-theory/)
+ - date published: 2023-03-05 20:24:28+00:00
+ - user: rumpel
+ - tags: ['covid', 'scienceisdead', 'fauci']
 
 ## Facebook and Google hand over user data, help police prosecute abortion seekers
  - [https://www.businessinsider.com/police-getting-help-social-media-to-prosecute-people-seeking-abortions-2023-2](https://www.businessinsider.com/police-getting-help-social-media-to-prosecute-people-seeking-abortions-2023-2)
