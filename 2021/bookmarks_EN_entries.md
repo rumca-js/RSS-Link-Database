@@ -844,6 +844,12 @@
  - user: rumpel
  - tags: ['america', 'crisis', 'homeless']
 
+## Most US States Suing to Stop Biden COVID-19 Vaxx Mandate
+ - [https://www.businessinsider.com/vaccine-mandate-biden-covid-19-states-sue-unconstitutional-2021-11?IR=T](https://www.businessinsider.com/vaccine-mandate-biden-covid-19-states-sue-unconstitutional-2021-11?IR=T)
+ - date published: 2021-11-06 20:10:39+00:00
+ - user: rumpel
+ - tags: ['mandates', 'vaccine', 'covid']
+
 ## incolumitas.com – So you want to Scrape like the Big Boys? 🚀
  - [https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/](https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/)
  - date published: 2021-11-06 08:07:19.990899+00:00
@@ -1834,6 +1840,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Joe Rogan “Tested Negative Today” After Positive Covid Diagnosis – Deadline
+ - [https://deadline.com/2021/09/joe-rogan-covid-test-dave-chappelle-tour-vaccinations-1234825866/](https://deadline.com/2021/09/joe-rogan-covid-test-dave-chappelle-tour-vaccinations-1234825866/)
+ - date published: 2021-09-04 20:05:15+00:00
+ - user: rumpel
+ - tags: ['disinformation', 'smear campaign', 'joe rogan', 'covid', 'big brother']
+
 ## Covid: What do parents think about vaccinating children? - BBC News
  - [https://www.bbc.co.uk/news/uk-58447040](https://www.bbc.co.uk/news/uk-58447040)
  - date published: 2021-09-04 15:26:59.005063+00:00
@@ -2236,6 +2248,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Australia Is Betting on Remote Quarantine. Here’s What I Learned on the Inside. - The New York Times
+ - [https://www.nytimes.com/2021/08/20/world/australia/howard-springs-quarantine.html](https://www.nytimes.com/2021/08/20/world/australia/howard-springs-quarantine.html)
+ - date published: 2021-08-20 20:02:00+00:00
+ - user: rumpel
+ - tags: ['quarantine', 'australia', 'covid']
+
 ## ImageNet contains naturally occurring NeuralHash collisions
  - [https://blog.roboflow.com/nerualhash-collision/](https://blog.roboflow.com/nerualhash-collision/)
  - date published: 2021-08-20 12:15:24.402308+00:00
@@ -2319,6 +2337,12 @@
  - date published: 2021-08-12 07:21:11.696140+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Photos, Video Leaked From Obama’s Allegedly ‘Scaled Back’ 60th Birthday Party | The Daily Wire
+ - [https://www.dailywire.com/news/photos-video-leaked-from-obamas-allegedly-scaled-back-60th-birthday-party](https://www.dailywire.com/news/photos-video-leaked-from-obamas-allegedly-scaled-back-60th-birthday-party)
+ - date published: 2021-08-09 19:52:29+00:00
+ - user: rumpel
+ - tags: ['hypocrisy', 'covid']
 
 ## Being a snowflake is bad for your mental health | Dennis Relojo-Howell | The Critic Magazine
  - [https://thecritic.co.uk/being-a-snowflake-is-bad-for-your-mental-health/](https://thecritic.co.uk/being-a-snowflake-is-bad-for-your-mental-health/)
@@ -2421,6 +2445,12 @@
  - date published: 2021-08-04 22:25:44.241746+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Professor suggests it should be a federal hate crime to criticize Fauci and other government-funded scientists
+ - [https://www.thecollegefix.com/professor-suggests-it-should-be-a-federal-hate-crime-to-criticize-fauci-and-other-government-funded-scientists/](https://www.thecollegefix.com/professor-suggests-it-should-be-a-federal-hate-crime-to-criticize-fauci-and-other-government-funded-scientists/)
+ - date published: 2021-08-04 19:50:29+00:00
+ - user: rumpel
+ - tags: ['covid', 'scienceisdead', 'fauci']
 
 ## Facebook is reportedly trying to analyze encrypted data without decrypting it | TechSpot
  - [https://www.techspot.com/news/90660-facebook-reportedly-trying-analyze-encrypted-data-without-decrypting.html](https://www.techspot.com/news/90660-facebook-reportedly-trying-analyze-encrypted-data-without-decrypting.html)
@@ -2782,6 +2812,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## France: Thousands protest against vaccination, COVID passes | AP News
+ - [https://apnews.com/article/europe-business-health-government-and-politics-france-d25494f4cf4ca6c6d1464188a89ece6f](https://apnews.com/article/europe-business-health-government-and-politics-france-d25494f4cf4ca6c6d1464188a89ece6f)
+ - date published: 2021-07-17 19:59:30+00:00
+ - user: rumpel
+ - tags: ['protest', 'tech control', 'vaccine', 'covid']
+
 ## Words
  - [https://justinjackson.ca/words.html](https://justinjackson.ca/words.html)
  - date published: 2021-07-17 14:12:18.366273+00:00
@@ -2902,6 +2938,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## White House 'flagging' posts for Facebook to censor due to COVID-19 'misinformation'
+ - [https://nypost.com/2021/07/15/white-house-flagging-posts-for-facebook-to-censor-due-to-covid-19-misinformation/](https://nypost.com/2021/07/15/white-house-flagging-posts-for-facebook-to-censor-due-to-covid-19-misinformation/)
+ - date published: 2021-07-15 19:45:42+00:00
+ - user: rumpel
+ - tags: ['disinformation', 'covid', 'bigbrother', 'censorship']
+
 ## Mass Bogus DMCA Takedowns Impersonate Reddit to Attack Downloading Tools * TorrentFreak
  - [https://torrentfreak.com/mass-bogus-dmca-takedowns-impersonate-reddit-to-attack-downloading-tools-210715/](https://torrentfreak.com/mass-bogus-dmca-takedowns-impersonate-reddit-to-attack-downloading-tools-210715/)
  - date published: 2021-07-15 19:42:22.747749+00:00
@@ -3004,6 +3046,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Critics slam Biden administration's reported plan to monitor vaccine misinformation in text messages | Fox News
+ - [https://www.foxnews.com/media/biden-slammed-plans-monitor-text-messages-vaccine-misinformation](https://www.foxnews.com/media/biden-slammed-plans-monitor-text-messages-vaccine-misinformation)
+ - date published: 2021-07-13 19:46:36+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'tech control', 'covid', 'vaccine', 'bigbrother']
+
 ## Google Fined $593 Million In Dispute Over Paying French Publishers For News : NPR
  - [https://www.npr.org/2021/07/13/1015596060/france-fines-google-592m-in-a-dispute-over-paying-news-publishers-for-content](https://www.npr.org/2021/07/13/1015596060/france-fines-google-592m-in-a-dispute-over-paying-news-publishers-for-content)
  - date published: 2021-07-13 11:36:27+00:00
@@ -3015,6 +3063,24 @@
  - date published: 2021-07-12 20:18:17+00:00
  - user: rumpel
  - tags: ['wef', 'world economic forum', 'eatingbugs']
+
+## DNC, Biden allies want phone carriers to vet anti-vax messages
+ - [https://nypost.com/2021/07/12/dnc-biden-allies-want-phone-carriers-to-vet-anti-vax-messages/](https://nypost.com/2021/07/12/dnc-biden-allies-want-phone-carriers-to-vet-anti-vax-messages/)
+ - date published: 2021-07-12 19:47:54+00:00
+ - user: rumpel
+ - tags: ['vaccine', 'covid', 'bigbrother', 'surveillance']
+
+## Communist Cuba Begins Cracking Down On Freedom Protesters, Internet Service Cut In Areas | The Daily Wire
+ - [https://www.dailywire.com/news/communist-cuba-begins-cracking-down-on-freedom-protesters-internet-and-cell-service-cut](https://www.dailywire.com/news/communist-cuba-begins-cracking-down-on-freedom-protesters-internet-and-cell-service-cut)
+ - date published: 2021-07-12 19:42:49+00:00
+ - user: rumpel
+ - tags: ['freedom', 'prostest', 'cuba']
+
+## POLITICO-Harvard poll: Most Americans believe Covid leaked from lab  - POLITICO
+ - [https://www.politico.com/news/2021/07/09/poll-covid-wuhan-lab-leak-498847](https://www.politico.com/news/2021/07/09/poll-covid-wuhan-lab-leak-498847)
+ - date published: 2021-07-09 19:35:21+00:00
+ - user: rumpel
+ - tags: ['wuhan', 'covid', 'lableak']
 
 ## Why Media Mogul Barry Diller Thinks The Movie Business Is Dead : NPR
  - [https://www.npr.org/2021/07/08/1014095135/barry-diller-headed-2-hollywood-studios-he-now-says-the-movie-business-is-dead](https://www.npr.org/2021/07/08/1014095135/barry-diller-headed-2-hollywood-studios-he-now-says-the-movie-business-is-dead)
@@ -3057,6 +3123,12 @@
  - date published: 2021-06-28 07:58:09+00:00
  - user: rumpel
  - tags: ['scienceisdead', 'vaccine', 'covid lie']
+
+## Coronavirus Origins: Washington Post Corrects Year-Old Article Calling Lab-Leak Theory 'Debunked' | National Review
+ - [https://www.nationalreview.com/news/washington-post-corrects-year-old-article-calling-lab-leak-theory-debunked/](https://www.nationalreview.com/news/washington-post-corrects-year-old-article-calling-lab-leak-theory-debunked/)
+ - date published: 2021-06-26 19:37:50+00:00
+ - user: rumpel
+ - tags: ['misinformation', 'censorship', 'wuhan', 'ministry of truth', 'covid']
 
 ## Corporations are the reason why we have a alt-right alt-left war.
  - [https://forum.agoraroad.com/index.php?threads/corporations-are-the-reason-why-we-have-a-alt-right-alt-left-war.3387/](https://forum.agoraroad.com/index.php?threads/corporations-are-the-reason-why-we-have-a-alt-right-alt-left-war.3387/)
@@ -3112,6 +3184,12 @@
  - user: rumpel
  - tags: ['hackers', 'lazarus', 'north korea']
 
+## ‘CDC has been wrong all along, and they knew it’, says Ron DeSantis as judge rules CDC can’t regulate cruises | The Independent
+ - [https://www.independent.co.uk/news/world/americas/cdc-florida-covid-cruise-judge-b1869088.html](https://www.independent.co.uk/news/world/americas/cdc-florida-covid-cruise-judge-b1869088.html)
+ - date published: 2021-06-19 19:30:04+00:00
+ - user: rumpel
+ - tags: ['cdc', 'covid', 'bigbrother']
+
 ## He authorized Moderna's vaccine 6 months ago. Now, ex-FDA chief Hahn joins biotech's backer
  - [https://www.fiercebiotech.com/biotech/six-months-after-granting-moderna-covid-19-eua-ex-fda-commish-joins-biotech-s-founding](https://www.fiercebiotech.com/biotech/six-months-after-granting-moderna-covid-19-eua-ex-fda-commish-joins-biotech-s-founding)
  - date published: 2021-06-14 06:58:41+00:00
@@ -3136,11 +3214,23 @@
  - user: rumpel
  - tags: ['distancing', 'covid']
 
+## Bats and Pangolins not sold at Wuhan markets, says Oxford research
+ - [https://www.oxfordstudent.com/2021/06/08/bats-and-pangolins-not-sold-at-wuhan-markets-says-oxford-research/](https://www.oxfordstudent.com/2021/06/08/bats-and-pangolins-not-sold-at-wuhan-markets-says-oxford-research/)
+ - date published: 2021-06-08 19:14:39+00:00
+ - user: rumpel
+ - tags: ['covid', 'wuhan']
+
 ## Anyone remember that Danish TV show pairing children with naked adults?
  - [https://www.mumsnet.com/talk/womens_rights/4282164-Anyone-remember-that-Danish-TV-show-pairing-children-with-naked-adults](https://www.mumsnet.com/talk/womens_rights/4282164-Anyone-remember-that-Danish-TV-show-pairing-children-with-naked-adults)
  - date published: 2021-06-07 22:21:55+00:00
  - user: rumpel
  - tags: ['kids', 'lgbt', 'indoctrination', 'sexualisation']
+
+## The Media's Lab Leak Debacle Shows Why Banning 'Misinformation' Is a Terrible Idea
+ - [https://reason.com/2021/06/04/lab-leak-misinformation-media-fauci-covid-19/](https://reason.com/2021/06/04/lab-leak-misinformation-media-fauci-covid-19/)
+ - date published: 2021-06-04 19:26:23+00:00
+ - user: rumpel
+ - tags: ['misinformation', 'censorship', 'scienceisdead', 'wuhan', 'covid']
 
 ## Who is Peter Daszak, the nonprofit exec who sent taxpayer money to Wuhan lab?
  - [https://nypost.com/2021/06/04/who-is-peter-daszak-exec-who-sent-taxpayer-money-to-wuhan-lab/](https://nypost.com/2021/06/04/who-is-peter-daszak-exec-who-sent-taxpayer-money-to-wuhan-lab/)
@@ -3166,6 +3256,12 @@
  - user: rumpel
  - tags: ['lgbt', 'gender', 'intolerance', 'america']
 
+## Fauci's Emails Expose His Lies About Masks in Stunning Fashion – RedState
+ - [https://redstate.com/bonchie/2021/06/02/faucis-emails-expose-his-lies-about-masks-in-stunning-fashion-n390282](https://redstate.com/bonchie/2021/06/02/faucis-emails-expose-his-lies-about-masks-in-stunning-fashion-n390282)
+ - date published: 2021-06-02 19:28:27+00:00
+ - user: rumpel
+ - tags: ['masks', 'covid', 'fauci']
+
 ## Gates Foundation grants Annenberg Institute $999,260 | Annenberg Institute at Brown
  - [https://www.annenberginstitute.org/news/gates-foundation-grants-annenberg-institute-999260](https://www.annenberginstitute.org/news/gates-foundation-grants-annenberg-institute-999260)
  - date published: 2021-06-02 12:12:38+00:00
@@ -3183,6 +3279,12 @@
  - date published: 2021-06-02 06:52:01+00:00
  - user: None
  - tags: ['censorship', 'lableak', 'facebook']
+
+## Biden Team Reportedly Shut Down Secretive Trump-Era Project Pursuing The Wuhan Lab-Leak Theory
+ - [https://www.forbes.com/sites/roberthart/2021/05/26/biden-team-shut-down-secretive-trump-era-project-pursuing-the-wuhan-lab-leak-theory/](https://www.forbes.com/sites/roberthart/2021/05/26/biden-team-shut-down-secretive-trump-era-project-pursuing-the-wuhan-lab-leak-theory/)
+ - date published: 2021-06-01 19:39:24+00:00
+ - user: rumpel
+ - tags: ['joe biden', 'wuhan', 'covid', 'bigbrother', 'lableak']
 
 ## Digital Identity: EU to lay out plans for Europe-wide digital identity wallet
  - [https://www.nfcw.com/2021/06/01/372591/eu-to-lay-out-plans-for-europe-wide-digital-identity-wallet/](https://www.nfcw.com/2021/06/01/372591/eu-to-lay-out-plans-for-europe-wide-digital-identity-wallet/)
@@ -3226,6 +3328,12 @@
  - user: rumpel
  - tags: ['privacy', 'surveillance', 'facial recognition', 'bigbrother', 'clearview', 'artificial intelligence']
 
+## Black Lives Matter co-founder Patrisse Cullors resigns amid controversy
+ - [https://nypost.com/2021/05/27/black-lives-matter-co-founder-patrisse-cullors-resigns-amid-controversy/](https://nypost.com/2021/05/27/black-lives-matter-co-founder-patrisse-cullors-resigns-amid-controversy/)
+ - date published: 2021-05-27 19:16:44+00:00
+ - user: rumpel
+ - tags: ['hypocrisy', 'black lives matter']
+
 ## Wuhan Lab Caught Deleting Files Proving Fauci Funding
  - [https://noqreport.com/2021/05/26/wuhan-lab-caught-deleting-files-proving-fauci-funding/](https://noqreport.com/2021/05/26/wuhan-lab-caught-deleting-files-proving-fauci-funding/)
  - date published: 2021-05-26 20:27:54+00:00
@@ -3237,6 +3345,12 @@
  - date published: 2021-05-26 20:18:59+00:00
  - user: rumpel
  - tags: ['covid', 'censorship', 'facebook', 'wuhan']
+
+## Facebook reverses policy to allow posts speculating that COVID-19 was made in a lab | The Hill
+ - [https://thehill.com/homenews/news/555657-facebook-reverses-policy-to-allow-posts-speculating-that-covid-19-was-made-in-a/](https://thehill.com/homenews/news/555657-facebook-reverses-policy-to-allow-posts-speculating-that-covid-19-was-made-in-a/)
+ - date published: 2021-05-26 19:36:37+00:00
+ - user: rumpel
+ - tags: ['censorship', 'wuhan', 'covid', 'facebook', 'lableak']
 
 ## Fauci admits ‘modest’ NIH funding of Wuhan lab but denies ‘gain of function
  - [https://nypost.com/2021/05/25/fauci-admits-nih-funding-of-wuhan-lab-denies-gain-of-function/](https://nypost.com/2021/05/25/fauci-admits-nih-funding-of-wuhan-lab-denies-gain-of-function/)
@@ -3261,6 +3375,12 @@
  - date published: 2021-05-21 20:40:27+00:00
  - user: rumpel
  - tags: ['spirited away', 'movies']
+
+## Covid vaccine profits mint 9 new pharma billionaires | CNN Business
+ - [https://edition.cnn.com/2021/05/21/business/covid-vaccine-billionaires/index.html](https://edition.cnn.com/2021/05/21/business/covid-vaccine-billionaires/index.html)
+ - date published: 2021-05-21 20:15:15+00:00
+ - user: rumpel
+ - tags: ['billionaires', 'manufacturing consent', 'big pfarma', 'covid', 'vaccine']
 
 ## World Economic Forum Urges Companies To Fire Unvaccinated Employees As Part of ‘Jobs Reset,’ Deletes Tweet After Backlash
  - [https://nationalfile.com/world-economic-forum-urges-companies-to-fire-unvaccinated-employees-as-part-of-jobs-reset-deletes-tweet-after-backlash/](https://nationalfile.com/world-economic-forum-urges-companies-to-fire-unvaccinated-employees-as-part-of-jobs-reset-deletes-tweet-after-backlash/)
@@ -3412,11 +3532,29 @@
  - user: rumpel
  - tags: ['tracking', 'google', 'covid']
 
+## The CDC’s reign of error has done incalculable harm to America
+ - [https://nypost.com/2021/04/27/the-cdcs-reign-of-error-has-done-incalculable-harm-to-america/](https://nypost.com/2021/04/27/the-cdcs-reign-of-error-has-done-incalculable-harm-to-america/)
+ - date published: 2021-04-27 19:32:41+00:00
+ - user: rumpel
+ - tags: ['lockdown', 'cdc', 'covid']
+
 ## Apple Is Terrible for Your Privacy
  - [https://www.youtube.com/watch?v=r38Epj6ldKU](https://www.youtube.com/watch?v=r38Epj6ldKU)
  - date published: 2021-04-26 20:18:31+00:00
  - user: None
  - tags: ['apple', 'privacy']
+
+## Fauci expects new CDC guidance on outdoor masks
+ - [https://nypost.com/2021/04/25/fauci-expects-new-cdc-guidance-on-outdoor-masks/](https://nypost.com/2021/04/25/fauci-expects-new-cdc-guidance-on-outdoor-masks/)
+ - date published: 2021-04-25 19:33:48+00:00
+ - user: rumpel
+ - tags: ['masks', 'covid']
+
+## You’re no safer from COVID social distancing at 6 or 60 feet: study
+ - [https://nypost.com/2021/04/25/youre-no-safer-from-covid-social-distancing-at-6-or-60-feet-study/](https://nypost.com/2021/04/25/youre-no-safer-from-covid-social-distancing-at-6-or-60-feet-study/)
+ - date published: 2021-04-25 19:33:08+00:00
+ - user: rumpel
+ - tags: ['social distancing', 'covid', 'scienceisdead']
 
 ## Richard Dawkins loses ‘humanist of the year’ title over trans comments
  - [https://www.theguardian.com/books/2021/apr/20/richard-dawkins-loses-humanist-of-the-year-trans-comments?CMP=fb_gu](https://www.theguardian.com/books/2021/apr/20/richard-dawkins-loses-humanist-of-the-year-trans-comments?CMP=fb_gu)
@@ -3507,6 +3645,12 @@
  - date published: 2021-04-07 13:04:35+00:00
  - user: rumpel
  - tags: ['censorship', 'meta', 'data leak', 'facebook']
+
+## Hundreds of Transgender California Inmates Request Transfers to Women's Prisons | National Review
+ - [https://www.nationalreview.com/news/hundreds-of-transgender-california-inmates-request-transfers-to-womens-prisons/](https://www.nationalreview.com/news/hundreds-of-transgender-california-inmates-request-transfers-to-womens-prisons/)
+ - date published: 2021-04-05 19:53:54+00:00
+ - user: rumpel
+ - tags: ['transgender', 'woke']
 
 ## If You Sell a House These Days, the Buyer Might Be a Pension Fund
  - [https://www.wsj.com/articles/if-you-sell-a-house-these-days-the-buyer-might-be-a-pension-fund-11617544801](https://www.wsj.com/articles/if-you-sell-a-house-these-days-the-buyer-might-be-a-pension-fund-11617544801)
@@ -3681,6 +3825,12 @@
  - date published: 2021-02-18 21:28:10+00:00
  - user: rumpel
  - tags: ['lockdown', 'california', 'biden', 'florida', 'covid']
+
+## Opinion | Don’t Go Down the Rabbit Hole - The New York Times
+ - [https://www.nytimes.com/2021/02/18/opinion/fake-news-media-attention.html](https://www.nytimes.com/2021/02/18/opinion/fake-news-media-attention.html)
+ - date published: 2021-02-18 20:03:45+00:00
+ - user: rumpel
+ - tags: ['critical thinking', 'covid', 'scienceisdead']
 
 ## Social Media as Social Control.
  - [https://www.youtube.com/watch?v=4ZCuAbjdfsg](https://www.youtube.com/watch?v=4ZCuAbjdfsg)

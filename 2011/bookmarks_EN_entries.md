@@ -16,6 +16,12 @@
  - user: rumpel
  - tags: ['occult', 'satanism']
 
+## Pfizer pays out to Nigerian families of meningitis drug trial victims | Nigeria | The Guardian
+ - [https://www.theguardian.com/world/2011/aug/11/pfizer-nigeria-meningitis-drug-compensation](https://www.theguardian.com/world/2011/aug/11/pfizer-nigeria-meningitis-drug-compensation)
+ - date published: 2011-08-12 07:10:26+00:00
+ - user: rumpel
+ - tags: ['vaccine', 'pfizer']
+
 ## Pfizer: Nigeria drug trial victims get compensation
  - [https://www.bbc.com/news/world-africa-14493277](https://www.bbc.com/news/world-africa-14493277)
  - date published: 2011-08-11 20:58:19+00:00

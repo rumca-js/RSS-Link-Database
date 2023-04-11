@@ -296,7 +296,7 @@
  - [https://www.nature.com/articles/s41467-020-19802-w](https://www.nature.com/articles/s41467-020-19802-w)
  - date published: 2020-11-20 11:39:07+00:00
  - user: None
- - tags: ['wuhan', 'transmission', 'covid']
+ - tags: ['china', 'transmission', 'covid', 'wuhan']
 
 ## Danish study finds face masks provide limited protection to wearer | Reuters
  - [https://www.reuters.com/article/us-health-coronavirus-facemasks-idUSKBN27Y1YW](https://www.reuters.com/article/us-health-coronavirus-facemasks-idUSKBN27Y1YW)
@@ -477,6 +477,12 @@
  - date published: 2020-09-27 20:56:51+00:00
  - user: rumpel
  - tags: ['uyghurs', 'china', 'genocide']
+
+## BLM leader arrested for allegedly spending $200K in donations on tailored suits, a house, and guns | Washington Examiner
+ - [https://www.washingtonexaminer.com/news/blm-leader-arrested-for-allegedly-spending-200k-in-donations-on-tailored-suits-a-house-and-guns](https://www.washingtonexaminer.com/news/blm-leader-arrested-for-allegedly-spending-200k-in-donations-on-tailored-suits-a-house-and-guns)
+ - date published: 2020-09-27 19:17:54+00:00
+ - user: rumpel
+ - tags: ['hypocrisy', 'black lives matter']
 
 ## On climate change, Exxon, BP, Shell, and other top oil companies have a long way to go - Vox
  - [https://www.vox.com/energy-and-environment/2020/9/25/21452055/climate-change-exxon-bp-shell-total-chevron-oil-gas](https://www.vox.com/energy-and-environment/2020/9/25/21452055/climate-change-exxon-bp-shell-total-chevron-oil-gas)
@@ -1011,6 +1017,12 @@
  - date published: 2020-05-22 22:39:57+00:00
  - user: rumpel
  - tags: ['blackrock', 'corporatocracy']
+
+## Face mask rules more political than scientific, says expert
+ - [https://www.theguardian.com/uk-news/2020/may/21/face-mask-rules-more-political-than-scientific-says-expert](https://www.theguardian.com/uk-news/2020/may/21/face-mask-rules-more-political-than-scientific-says-expert)
+ - date published: 2020-05-20 23:01:39+00:00
+ - user: rumpel
+ - tags: ['masks', 'covid', 'scienceisdead']
 
 ## More than 100,000 small businesses have permanently closed due to coronavirus, study estimates – The Hill
  - [https://thehill.com/changing-america/well-being/longevity/497519-more-than-100000-small-businesses-have-permanently/](https://thehill.com/changing-america/well-being/longevity/497519-more-than-100000-small-businesses-have-permanently/)

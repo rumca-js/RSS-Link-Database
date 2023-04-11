@@ -28,6 +28,19 @@
  - user: None
  - tags: ['surveillance', 'bigbrother', 'nsa', 'privacy']
 
+## Pfizer settles foreign bribery case with U.S. government | Reuters
+ - [https://www.reuters.com/article/us-pfizer-settlement-idUSBRE8760WM20120807](https://www.reuters.com/article/us-pfizer-settlement-idUSBRE8760WM20120807)
+ - date published: 2012-08-07 19:57:30+00:00
+ - user: rumpel
+ - tags: ['big pfarma', 'pfizer', 'manufacturing consent']
+
+## Pfizer H.C.P. Corp. Agrees to Pay $15 Million Penalty to Resolve
+Foreign Bribery Investigation | OPA | Department of Justice
+ - [https://www.justice.gov/opa/pr/pfizer-hcp-corp-agrees-pay-15-million-penalty-resolve-foreign-bribery-investigation](https://www.justice.gov/opa/pr/pfizer-hcp-corp-agrees-pay-15-million-penalty-resolve-foreign-bribery-investigation)
+ - date published: 2012-08-07 19:56:42+00:00
+ - user: rumpel
+ - tags: ['big pfarma', 'pfizer', 'manufacturing consent']
+
 ## These 6 Corporations Control 90% Of The Media In America
  - [https://www.businessinsider.com/these-6-corporations-control-90-of-the-media-in-america-2012-6?IR=T](https://www.businessinsider.com/these-6-corporations-control-90-of-the-media-in-america-2012-6?IR=T)
  - date published: 2012-06-14 15:24:05+00:00

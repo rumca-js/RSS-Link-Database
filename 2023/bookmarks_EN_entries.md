@@ -1,3 +1,15 @@
+## India to require US social media platforms to abide by government-run fact-checker
+ - [https://reclaimthenet.org/india-to-require-us-social-media-platforms-to-abide-by-government-run-fact-checker](https://reclaimthenet.org/india-to-require-us-social-media-platforms-to-abide-by-government-run-fact-checker)
+ - date published: 2023-04-10 14:47:46+00:00
+ - user: rumpel
+ - tags: ['india', 'fact-check']
+
+## This Makes Hacking TOO Easy - Flipper Zero
+ - [https://www.youtube.com/watch?v=nLIp4wd0oXs](https://www.youtube.com/watch?v=nLIp4wd0oXs)
+ - date published: 2023-04-09 17:11:24+00:00
+ - user: rumpel
+ - tags: ['hacking']
+
 ## W 2030 r. możesz nie kupić żadnego samochodu. Nawet elektryka. Tak Bruksela namieszała
  - [https://spidersweb.pl/bizblog/w-2030-r-nie-kupimy-zadnego-samochodu/](https://spidersweb.pl/bizblog/w-2030-r-nie-kupimy-zadnego-samochodu/)
  - date published: 2023-04-08 19:17:41+00:00
@@ -1149,6 +1161,12 @@
  - date published: 2023-02-24 07:08:21+00:00
  - user: rumpel
  - tags: ['hackers', 'crypto', 'north korea']
+
+## Timeline: How The Covid Lab Leak Origin Story Went From 'Conspiracy Theory' To Government Debate
+ - [https://www.forbes.com/sites/marisadellatto/2023/02/26/timeline-how-the-covid-lab-leak-origin-story-went-from-conspiracy-theory-to-government-debate/](https://www.forbes.com/sites/marisadellatto/2023/02/26/timeline-how-the-covid-lab-leak-origin-story-went-from-conspiracy-theory-to-government-debate/)
+ - date published: 2023-02-23 19:24:10+00:00
+ - user: rumpel
+ - tags: ['covid', 'scienceisdead', 'wuhan']
 
 ## Tell HN: Do not store any funds in PayPal or use them for anything critical
  - [https://news.ycombinator.com/item?id=34913596](https://news.ycombinator.com/item?id=34913596)

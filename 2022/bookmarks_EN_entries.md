@@ -11368,6 +11368,12 @@
  - user: rumpel
  - tags: ['media', 'lockdown', 'bigbrother', 'covid']
 
+## Covid: Thousands protest in France against proposed new vaccine pass - BBC News
+ - [https://www.bbc.com/news/world-europe-59925408](https://www.bbc.com/news/world-europe-59925408)
+ - date published: 2022-01-08 19:58:40+00:00
+ - user: rumpel
+ - tags: ['protest', 'tech control', 'vaccine', 'covid']
+
 ## Saving a Third of Our Memory by Re-ordering Go Struct Fields | Lane's Ramblings
  - [https://wagslane.dev/posts/go-struct-ordering/](https://wagslane.dev/posts/go-struct-ordering/)
  - date published: 2022-01-08 12:05:45.224734+00:00
