@@ -406,6 +406,12 @@
  - user: rumpel
  - tags: ['blackrock', 'aladdin', 'artificial intelligence']
 
+## Governments that disarm the people have troubling history - Albuquerque Journal
+ - [https://www.abqjournal.com/1154293/governments-that-disarm-the-people-have-troubling-history.html](https://www.abqjournal.com/1154293/governments-that-disarm-the-people-have-troubling-history.html)
+ - date published: 2018-04-04 20:16:37+00:00
+ - user: rumpel
+ - tags: ['gun control']
+
 ## Cambridge Analytica and Facebook: The Scandal and the Fallout So Far
  - [https://www.nytimes.com/2018/04/04/us/politics/cambridge-analytica-scandal-fallout.html](https://www.nytimes.com/2018/04/04/us/politics/cambridge-analytica-scandal-fallout.html)
  - date published: 2018-04-04 11:09:25+00:00
@@ -470,7 +476,7 @@
  - [https://www.marketwatch.com/story/this-is-what-happened-when-norway-mandated-that-women-make-up-40-of-the-boardroom-2018-02-20-1088264](https://www.marketwatch.com/story/this-is-what-happened-when-norway-mandated-that-women-make-up-40-of-the-boardroom-2018-02-20-1088264)
  - date published: 2018-02-20 20:58:03+00:00
  - user: rumpel
- - tags: ['feminism', 'norway']
+ - tags: ['feminism', 'norway', 'sexism']
 
 ## White House blasts Russia for NotPetya cyberattack
  - [https://www.cnn.com/2018/02/15/politics/white-house-russia-notpetya/index.html](https://www.cnn.com/2018/02/15/politics/white-house-russia-notpetya/index.html)

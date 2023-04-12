@@ -106,6 +106,12 @@
  - user: rumpel
  - tags: ['lgbt', 'peterson', 'homosexual', 'gay']
 
+## 47 White Guilt Propaganda Tactics Used by Media and Political Elites to Push for Third World Immigration; motives
+ - [https://isgp-studies.com/immigration-white-guilt-warfare-manual](https://isgp-studies.com/immigration-white-guilt-warfare-manual)
+ - date published: 2017-09-29 12:11:46+00:00
+ - user: rumpel
+ - tags: ['immigration', 'propaganda', 'hate speech']
+
 ## Is Reality Real? The Simulation Argument
  - [https://www.youtube.com/watch?v=tlTKTTt47WE](https://www.youtube.com/watch?v=tlTKTTt47WE)
  - date published: 2017-09-21 07:46:14+00:00

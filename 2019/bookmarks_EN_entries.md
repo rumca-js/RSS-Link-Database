@@ -124,6 +124,12 @@
  - user: rumpel
  - tags: ['social media', 'dead internet']
 
+## Exclusive: J&J's own expert, working for FDA, found asbestos in Baby Powder | Reuters
+ - [https://www.reuters.com/article/us-usa-health-j-j-expert-exclusive-idUSKBN1X912O](https://www.reuters.com/article/us-usa-health-j-j-expert-exclusive-idUSKBN1X912O)
+ - date published: 2019-10-30 20:25:18+00:00
+ - user: rumpel
+ - tags: ['johnson and johnson']
+
 ## Edward Snowden: How Your Cell Phone Spies on You
  - [https://www.youtube.com/watch?v=VFns39RXPrU](https://www.youtube.com/watch?v=VFns39RXPrU)
  - date published: 2019-10-23 19:56:19+00:00

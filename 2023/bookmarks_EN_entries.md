@@ -298,11 +298,23 @@
  - user: rumpel
  - tags: ['smartphone', 'android', 'mobile os', 'ios']
 
+## Agatha Christie novels latest to cut 'offensive' language
+ - [https://nypost.com/2023/03/27/agatha-christie-novels-to-be-edited-for-modern-readers/](https://nypost.com/2023/03/27/agatha-christie-novels-to-be-edited-for-modern-readers/)
+ - date published: 2023-03-27 12:02:22+00:00
+ - user: rumpel
+ - tags: ['newspeak', 'woke', 'fahrenheit 451']
+
 ## The chat control proposal does not belong in democratic societies
  - [https://mullvad.net/en/chatcontrol](https://mullvad.net/en/chatcontrol)
  - date published: 2023-03-27 01:56:34+00:00
  - user: rumpel
  - tags: ['surveillance', 'chat control', 'privacy', 'tech control']
+
+## Woke'owa redakcja "Gamedeca"
+ - [https://www.youtube.com/watch?v=yAmuVJ7jkpA](https://www.youtube.com/watch?v=yAmuVJ7jkpA)
+ - date published: 2023-03-27 00:00:00+00:00
+ - user: rumpel
+ - tags: ['newspeak', 'woke', 'fahrenheit 451']
 
 ## AI Art is Inevitable
  - [https://www.youtube.com/watch?v=VsXYTunk7OY](https://www.youtube.com/watch?v=VsXYTunk7OY)
@@ -405,6 +417,12 @@
  - date published: 2023-03-23 05:59:08+00:00
  - user: rumpel
  - tags: ['smart devices act', 'smart devices']
+
+## Human rights tribunal says white people cannot claim discrimination | Financial Post
+ - [https://financialpost.com/opinion/ontario-human-rights-tribunal-discrimination](https://financialpost.com/opinion/ontario-human-rights-tribunal-discrimination)
+ - date published: 2023-03-22 12:13:58+00:00
+ - user: rumpel
+ - tags: ['inequality', 'hate speech', 'racism']
 
 ## How North Korea Stole $1,000,000,000
  - [https://www.youtube.com/watch?v=ahehEsOIRIg](https://www.youtube.com/watch?v=ahehEsOIRIg)
@@ -878,7 +896,7 @@
  - [https://www.ndtv.com/world-news/spain-set-to-introduce-law-requiring-40-women-in-company-boards-3840067](https://www.ndtv.com/world-news/spain-set-to-introduce-law-requiring-40-women-in-company-boards-3840067)
  - date published: 2023-03-06 19:56:38+00:00
  - user: rumpel
- - tags: ['feminism', 'spain', 'inequality']
+ - tags: ['feminism', 'inequality', 'spain', 'sexism']
 
 ## Dr. Fauci and the art of the COVID cover-up - Washington Times
  - [https://www.washingtontimes.com/news/2023/mar/6/dr-fauci-and-art-covid-cover-/](https://www.washingtontimes.com/news/2023/mar/6/dr-fauci-and-art-covid-cover-/)
@@ -1268,7 +1286,7 @@
  - [https://tvpworld.com/66452162/uk-govt-scheme-flags-shakespeare-lotr-as-key-texts-for-white-supremacists](https://tvpworld.com/66452162/uk-govt-scheme-flags-shakespeare-lotr-as-key-texts-for-white-supremacists)
  - date published: 2023-02-20 09:27:34+00:00
  - user: rumpel
- - tags: ['woke', 'white supremacy', 'orwell', 'censorship', 'fahrenheit 451']
+ - tags: ['white supremacy', 'woke', 'racism', 'censorship', 'orwell', 'fahrenheit 451']
 
 ## UK tests tracking citizens’ habits, rewarding them for good behavior
  - [https://reclaimthenet.org/uk-tests-tracking-citizens-habits-rewarding-them-for-good-behavior](https://reclaimthenet.org/uk-tests-tracking-citizens-habits-rewarding-them-for-good-behavior)

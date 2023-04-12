@@ -124,6 +124,12 @@
  - user: rumpel
  - tags: ['privacy', 'technofeudalism', 'windows', 'microsoft']
 
+## Black Lives Matter cashes in with $100 million from liberal foundations - Washington Times
+ - [https://www.washingtontimes.com/news/2016/aug/16/black-lives-matter-cashes-100-million-liberal-foun/](https://www.washingtontimes.com/news/2016/aug/16/black-lives-matter-cashes-100-million-liberal-foun/)
+ - date published: 2016-08-16 20:44:57+00:00
+ - user: rumpel
+ - tags: ['politics', 'black lives matter', 'manufacturing consent']
+
 ## Racism in America Small Town 1950s Case Study Documentary Film
  - [https://www.youtube.com/watch?v=cCW58RCgqOQ](https://www.youtube.com/watch?v=cCW58RCgqOQ)
  - date published: 2016-08-04 00:00:00+00:00
@@ -135,6 +141,12 @@
  - date published: 2016-07-14 15:47:42+00:00
  - user: None
  - tags: ['propaganda', 'inclusion', 'diversity', 'equity']
+
+## Pfizer agrees to opioid marketing deal to escape a lawsuit by Chicago - STAT
+ - [https://www.statnews.com/pharmalot/2016/07/06/pfizer-opioids-chicago-painkiller/](https://www.statnews.com/pharmalot/2016/07/06/pfizer-opioids-chicago-painkiller/)
+ - date published: 2016-07-06 20:56:30+00:00
+ - user: rumpel
+ - tags: ['pfizer']
 
 ## Chilcot Report: Tony Blair Told George W. Bush, “If We Win Quickly, Everyone Will Be Our Friend”
  - [https://theintercept.com/2016/07/06/chilcot-report-tony-blair-told-george-w-bush-if-we-win-quickly-everyone-will-be-our-friend/](https://theintercept.com/2016/07/06/chilcot-report-tony-blair-told-george-w-bush-if-we-win-quickly-everyone-will-be-our-friend/)

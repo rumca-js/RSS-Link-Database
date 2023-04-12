@@ -1192,6 +1192,12 @@
  - user: rumpel
  - tags: ['wuhan', 'lableak', 'propaganda', 'fearmongering', 'covid']
 
+## Australia defends plan to create island quarantine camp | AP News
+ - [https://apnews.com/c129280f6ab2a832908b8dcf4888364b](https://apnews.com/c129280f6ab2a832908b8dcf4888364b)
+ - date published: 2020-01-30 20:15:13+00:00
+ - user: rumpel
+ - tags: ['quarantine', 'covid', 'australia']
+
 ## Disturbing Footages Show People Collapsing in Virus-Hit Chinese City of Wuhan
  - [https://www.tasnimnews.com/en/news/2020/01/24/2188257/disturbing-footages-show-people-collapsing-in-virus-hit-chinese-city-of-wuhan](https://www.tasnimnews.com/en/news/2020/01/24/2188257/disturbing-footages-show-people-collapsing-in-virus-hit-chinese-city-of-wuhan)
  - date published: 2020-01-24 07:54:11+00:00

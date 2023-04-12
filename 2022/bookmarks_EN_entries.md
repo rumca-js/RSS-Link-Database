@@ -2750,7 +2750,7 @@
  - [https://www.dailymail.co.uk/news/article-11401017/University-academics-criticise-plans-decolonise-maths-say-degrees-politicised.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11401017/University-academics-criticise-plans-decolonise-maths-say-degrees-politicised.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2022-11-08 00:25:04+00:00
  - user: None
- - tags: ['racism', 'black lives matter', 'blm', 'scienceisdead']
+ - tags: ['scienceisdead', 'black lives matter', 'woke', 'racism', 'blm']
 
 ## Billionaires Are Funding Climate Destruction
  - [https://gizmodo.com/billionaires-are-funding-climate-destruction-1849753810](https://gizmodo.com/billionaires-are-funding-climate-destruction-1849753810)
@@ -10118,7 +10118,7 @@
  - [https://news.yahoo.com/judge-jackson-refuses-define-woman-122717280.html](https://news.yahoo.com/judge-jackson-refuses-define-woman-122717280.html)
  - date published: 2022-03-23 22:43:23+00:00
  - user: rumpel
- - tags: ['feminism', 'propaganda', 'whatisawoman']
+ - tags: ['scienceisdead', 'feminism', 'propaganda', 'whatisawoman']
 
 ## Lia Thomas: Florida governor Ron DeSantis refuses to recognise Thomas win - BBC Sport
  - [https://www.bbc.co.uk/sport/swimming/60842863](https://www.bbc.co.uk/sport/swimming/60842863)

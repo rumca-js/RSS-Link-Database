@@ -232,6 +232,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## New York bill would create literal internment camps for the unvaccinated at the Governor's whim – HotAir
+ - [https://hotair.com/jazz-shaw/2021/12/20/new-york-bill-would-create-literal-internment-camps-for-the-unvaccinated-at-the-governors-whim-n436568](https://hotair.com/jazz-shaw/2021/12/20/new-york-bill-would-create-literal-internment-camps-for-the-unvaccinated-at-the-governors-whim-n436568)
+ - date published: 2021-12-20 21:00:56+00:00
+ - user: rumpel
+ - tags: ['mandates', 'covid', 'vaccine']
+
 ## Tesla allegedly remotely unlocks Model 3 owner's car, uses smart summon to help repo agent - Alt Car news
  - [https://tiremeetsroad.com/2021/03/18/tesla-allegedly-remotely-unlocks-model-3-owners-car-uses-smart-summon-to-help-repo-agent/](https://tiremeetsroad.com/2021/03/18/tesla-allegedly-remotely-unlocks-model-3-owners-car-uses-smart-summon-to-help-repo-agent/)
  - date published: 2021-12-20 16:34:29+00:00
@@ -592,6 +598,18 @@
  - user: Thomas Pain
  - tags: ['python', 'programming']
 
+## Assemblyman Pat Burke proposing bill to allow insurance to deny COVID treatment coverage for unvaccinated
+ - [https://www.wkbw.com/news/local-news/assemblyman-pat-burke-proposing-bill-to-allow-insurance-to-deny-covid-treatment-coverage-for-unvaccinated](https://www.wkbw.com/news/local-news/assemblyman-pat-burke-proposing-bill-to-allow-insurance-to-deny-covid-treatment-coverage-for-unvaccinated)
+ - date published: 2021-11-23 21:06:38+00:00
+ - user: rumpel
+ - tags: ['fearmongering', 'covid', 'vaccine']
+
+## Austria Announces Covid Vaccine Mandate, Crossing a Threshold for Europe - The New York Times
+ - [https://www.nytimes.com/2021/11/19/world/europe/austria-covid-vaccine-mandate-lockdown.html](https://www.nytimes.com/2021/11/19/world/europe/austria-covid-vaccine-mandate-lockdown.html)
+ - date published: 2021-11-23 20:52:49+00:00
+ - user: rumpel
+ - tags: ['mandates', 'covid', 'vaccine']
+
 ## Chat control: The latest EU plans to outlaw encryption and introduce telecommunications surveillance | mailbox.org
  - [https://mailbox.org/en/post/chat-control-the-latest-eu-plans-to-outlaw-encryption-and-introduce-telecommunications-surveillance?nl](https://mailbox.org/en/post/chat-control-the-latest-eu-plans-to-outlaw-encryption-and-introduce-telecommunications-surveillance?nl)
  - date published: 2021-11-23 17:34:06.057843+00:00
@@ -628,6 +646,12 @@
  - user: None
  - tags: ['bill gates', 'media']
 
+## GoFundMe reverses ban on Kyle Rittenhouse fundraisers after acquittal | Washington Examiner
+ - [https://www.washingtonexaminer.com/news/gofundme-reverses-ban-on-kyle-rittenhouse-fundraisers-after-acquittal](https://www.washingtonexaminer.com/news/gofundme-reverses-ban-on-kyle-rittenhouse-fundraisers-after-acquittal)
+ - date published: 2021-11-20 20:41:41+00:00
+ - user: rumpel
+ - tags: ['kyle rittenhouse']
+
 ## Cats track their owners’ movements, research finds | Cats | The Guardian
  - [https://www.theguardian.com/lifeandstyle/2021/nov/10/cats-track-their-owners-movements-research-finds](https://www.theguardian.com/lifeandstyle/2021/nov/10/cats-track-their-owners-movements-research-finds)
  - date published: 2021-11-20 14:13:27.551071+00:00
@@ -651,6 +675,12 @@
  - date published: 2021-11-18 21:16:55+00:00
  - user: rumpel
  - tags: ['climate change']
+
+## Bill Gates has given $319 million to bankroll select media outlets and change the public narrative — and the internet has receipts: Report - TheBlaze
+ - [https://www.theblaze.com/news/bill-gates-bankroll-media-outlets](https://www.theblaze.com/news/bill-gates-bankroll-media-outlets)
+ - date published: 2021-11-18 20:46:37+00:00
+ - user: rumpel
+ - tags: ['media', 'manufacturing consent', 'billionaries', 'bill gates']
 
 ## ‘The algorithm has primacy over media … over each of us, and it controls what we do’
  - [https://hls.harvard.edu/today/the-algorithm-has-primacy-over-media-over-each-of-us-and-it-controls-what-we-do/](https://hls.harvard.edu/today/the-algorithm-has-primacy-over-media-over-each-of-us-and-it-controls-what-we-do/)
@@ -687,6 +717,12 @@
  - date published: 2021-11-18 08:10:08+00:00
  - user: None
  - tags: ['kyle rittenhouse']
+
+## Biden nominates Ghislaine Maxwell's judge, Memphis litigator to appeals courts | Reuters
+ - [https://www.reuters.com/legal/government/biden-nominates-ghislaine-maxwells-judge-memphis-litigator-appeals-courts-2021-11-17/](https://www.reuters.com/legal/government/biden-nominates-ghislaine-maxwells-judge-memphis-litigator-appeals-courts-2021-11-17/)
+ - date published: 2021-11-17 21:11:58+00:00
+ - user: rumpel
+ - tags: ['jeffrey epstein', 'ghislaine maxwell']
 
 ## Freddie Sayers investigates Austria's lockdown of the unvaccinated
  - [https://www.youtube.com/watch?v=y9io1MZz_7E](https://www.youtube.com/watch?v=y9io1MZz_7E)
@@ -748,6 +784,12 @@
  - user: None
  - tags: ['lockdown', 'covid']
 
+## Biden business vaccine mandate: Court calls requirements 'fatally flawed'
+ - [https://www.cnbc.com/2021/11/13/federal-appeals-court-calls-biden-vaccine-mandate-fatally-flawed-and-staggeringly-overbroad-.html](https://www.cnbc.com/2021/11/13/federal-appeals-court-calls-biden-vaccine-mandate-fatally-flawed-and-staggeringly-overbroad-.html)
+ - date published: 2021-11-13 20:37:35+00:00
+ - user: rumpel
+ - tags: ['covid', 'mandates']
+
 ## Latest Windows 11 overrides attempts to avoid using Edge • The Register
  - [https://www.theregister.com/2021/11/11/latest_windows_11_build_enforces_edge_links/](https://www.theregister.com/2021/11/11/latest_windows_11_build_enforces_edge_links/)
  - date published: 2021-11-12 23:15:07.741342+00:00
@@ -777,6 +819,12 @@
  - date published: 2021-11-12 13:36:49+00:00
  - user: rumpel
  - tags: ['carbon capture', 'propaganda', 'scienceisdead', 'climate change']
+
+## Pfizer CEO calls those spreading vaccine misinformation 'criminals'
+ - [https://www.nbcnews.com/news/us-news/pfizer-ceo-calls-spreading-vaccine-misinformation-criminals-rcna5124](https://www.nbcnews.com/news/us-news/pfizer-ceo-calls-spreading-vaccine-misinformation-criminals-rcna5124)
+ - date published: 2021-11-11 20:34:49+00:00
+ - user: rumpel
+ - tags: ['pfizer', 'propaganda', 'covid', 'misinformation']
 
 ## The Invisible JavaScript Backdoor – Certitude Blog
  - [https://certitude.consulting/blog/en/invisible-backdoor/](https://certitude.consulting/blog/en/invisible-backdoor/)
@@ -808,6 +856,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Moderna and U.S. at Odds Over Vaccine Patent Rights - The New York Times
+ - [https://www.nytimes.com/2021/11/09/us/moderna-vaccine-patent.html](https://www.nytimes.com/2021/11/09/us/moderna-vaccine-patent.html)
+ - date published: 2021-11-09 20:20:34+00:00
+ - user: rumpel
+ - tags: ['patents', 'covid', 'vaccine']
+
 ## Climate change: What are the big polluters doing to cut carbon emissions?
  - [https://www.bbc.co.uk/news/58956714?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/58956714?at_medium=RSS&at_campaign=KARANGA)
  - date published: 2021-11-09 17:45:34+00:00
@@ -837,6 +891,12 @@
  - date published: 2021-11-08 15:06:27.572253+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## California’s COVID-19 case rate now twice Florida’s
+ - [https://www.tampabay.com/news/florida/2021/11/07/californias-covid-19-case-rate-now-twice-floridas/](https://www.tampabay.com/news/florida/2021/11/07/californias-covid-19-case-rate-now-twice-floridas/)
+ - date published: 2021-11-07 20:33:36+00:00
+ - user: rumpel
+ - tags: ['covid', 'statistics']
 
 ## The Oakland, California Homeless Problem is Beyond Belief
  - [https://www.youtube.com/watch?v=yRWmKh13b50](https://www.youtube.com/watch?v=yRWmKh13b50)
@@ -1113,6 +1173,12 @@
  - date published: 2021-10-22 07:35:26.707398+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## 'Snitch line': Republicans assail U.S. effort to protect school boards from violent threats | Reuters
+ - [https://www.reuters.com/world/us/republicans-assail-us-effort-protect-school-boards-violent-threats-snitch-line-2021-10-21/](https://www.reuters.com/world/us/republicans-assail-us-effort-protect-school-boards-violent-threats-snitch-line-2021-10-21/)
+ - date published: 2021-10-21 20:11:58+00:00
+ - user: rumpel
+ - tags: ['socialism', 'racism']
 
 ## BlackRock: The Company that Owns the World
  - [https://www.youtube.com/watch?v=1n4zkdfKUAE](https://www.youtube.com/watch?v=1n4zkdfKUAE)
@@ -1792,6 +1858,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## National Archives Slaps 'Harmful Content' Warning On Constitution
+ - [https://thefederalist.com/2021/09/08/national-archives-issues-harmful-content-warning-on-constitution-all-other-founding-documents/](https://thefederalist.com/2021/09/08/national-archives-issues-harmful-content-warning-on-constitution-all-other-founding-documents/)
+ - date published: 2021-09-08 20:04:51+00:00
+ - user: rumpel
+ - tags: ['racism', 'orwell', 'history', 'ministry of truth', 'sexism']
+
 ## Walid Ziouche - Saving costs asking for Forgiveness in Python
  - [https://walid.dev/blog/saving-costs-asking-for-forgiveness-in-python/](https://walid.dev/blog/saving-costs-asking-for-forgiveness-in-python/)
  - date published: 2021-09-08 07:20:01.123528+00:00
@@ -2067,6 +2139,12 @@
  - date published: 2021-08-27 09:36:08.953930+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Australia Revives Nazi-style “Quarantine Camps” to “Keep People Safe” - The New American
+ - [https://thenewamerican.com/australia-revives-nazi-style-quarantine-camps-to-keep-people-safe/](https://thenewamerican.com/australia-revives-nazi-style-quarantine-camps-to-keep-people-safe/)
+ - date published: 2021-08-26 20:30:33+00:00
+ - user: rumpel
+ - tags: ['quarantine', 'covid', 'australia']
 
 ## The Rise Of User-Hostile Software | Den Delimarsky
  - [https://den.dev/blog/user-hostile-software/](https://den.dev/blog/user-hostile-software/)
@@ -2872,6 +2950,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Target removes J&J sunscreens from stores, website | Reuters
+ - [https://www.reuters.com/business/healthcare-pharmaceuticals/target-removes-jj-sunscreens-stores-website-2021-07-16/](https://www.reuters.com/business/healthcare-pharmaceuticals/target-removes-jj-sunscreens-stores-website-2021-07-16/)
+ - date published: 2021-07-16 20:22:42+00:00
+ - user: rumpel
+ - tags: ['johnson and johnson']
+
 ## Wikipedia co-founder says site is now 'propaganda' for left-leaning 'establishment'
  - [https://nypost.com/2021/07/16/wikipedia-co-founder-says-site-is-now-propaganda-for-left-leaning-establishment/](https://nypost.com/2021/07/16/wikipedia-co-founder-says-site-is-now-propaganda-for-left-leaning-establishment/)
  - date published: 2021-07-16 14:40:26+00:00
@@ -3140,7 +3224,7 @@
  - [https://www.youtube.com/watch?v=OHE442ISkUU](https://www.youtube.com/watch?v=OHE442ISkUU)
  - date published: 2021-06-25 22:14:30+00:00
  - user: rumpel
- - tags: ['joe rogan', 'virtue signalling', 'woke', 'white privilage', 'gender']
+ - tags: ['virtue signalling', 'gender', 'woke', 'white privilage', 'joe rogan', 'sexism']
 
 ## Is Jesus Historical? What Do The Romans Say About Him?
  - [https://www.youtube.com/watch?v=A41Tm5FDKns](https://www.youtube.com/watch?v=A41Tm5FDKns)
@@ -3724,6 +3808,12 @@
  - user: rumpel
  - tags: ['china', 'christianophobia']
 
+## Judge says Ghislaine Maxwell case details too sensational and impure for public
+ - [https://nypost.com/2021/03/18/judge-says-ghislaine-maxwell-case-details-too-sensational-and-impure-for-public/](https://nypost.com/2021/03/18/judge-says-ghislaine-maxwell-case-details-too-sensational-and-impure-for-public/)
+ - date published: 2021-03-18 21:09:48+00:00
+ - user: rumpel
+ - tags: ['jeffrey epstein', 'ghislaine maxwell']
+
 ## Portland cut police funding and got a 2,000% surge in murders | Washington Examiner
  - [https://www.washingtonexaminer.com/opinion/portland-cut-police-funding-and-got-a-2-000-surge-in-murders](https://www.washingtonexaminer.com/opinion/portland-cut-police-funding-and-got-a-2-000-surge-in-murders)
  - date published: 2021-03-16 19:30:01+00:00
@@ -3873,6 +3963,12 @@
  - date published: 2021-02-03 20:45:01+00:00
  - user: rumpel
  - tags: ['january 6']
+
+## “COVID-19 Jails” Open in Germany for Quarantine Offenders - The New American
+ - [https://thenewamerican.com/covid-19-jails-open-in-germany-for-quarantine-offenders/](https://thenewamerican.com/covid-19-jails-open-in-germany-for-quarantine-offenders/)
+ - date published: 2021-02-01 20:31:14+00:00
+ - user: rumpel
+ - tags: ['quarantine', 'germany', 'covid']
 
 ## Esteemed Academic Conference on Dangers of Censorship — Reportedly Censored by YouTube
  - [https://thefreethoughtproject.com/censorship-conference-dangers-censored-by-youtube](https://thefreethoughtproject.com/censorship-conference-dangers-censored-by-youtube)
