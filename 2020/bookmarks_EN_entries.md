@@ -1024,6 +1024,12 @@
  - user: rumpel
  - tags: ['masks', 'covid', 'scienceisdead']
 
+## Where New Yorkers Moved to Escape Coronavirus - The New York Times
+ - [https://www.nytimes.com/interactive/2020/05/16/nyregion/nyc-coronavirus-moving-leaving.html](https://www.nytimes.com/interactive/2020/05/16/nyregion/nyc-coronavirus-moving-leaving.html)
+ - date published: 2020-05-16 20:09:25+00:00
+ - user: rumpel
+ - tags: ['lockdown', 'covid']
+
 ## More than 100,000 small businesses have permanently closed due to coronavirus, study estimates – The Hill
  - [https://thehill.com/changing-america/well-being/longevity/497519-more-than-100000-small-businesses-have-permanently/](https://thehill.com/changing-america/well-being/longevity/497519-more-than-100000-small-businesses-have-permanently/)
  - date published: 2020-05-13 20:41:10+00:00

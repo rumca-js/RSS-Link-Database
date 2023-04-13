@@ -16,6 +16,18 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Nancy Pelosi buys call options for Google, Disney stocks
+ - [https://nypost.com/2021/12/30/nancy-pelosi-buys-call-options-for-google-disney-stocks/](https://nypost.com/2021/12/30/nancy-pelosi-buys-call-options-for-google-disney-stocks/)
+ - date published: 2021-12-30 20:15:36+00:00
+ - user: rumpel
+ - tags: ['nancy pelosi']
+
+## New York governor declares racism 'public health emergency' amid new anti-discrimination legislation  - ABC News
+ - [https://abcnews.go.com/US/york-governor-declares-racism-public-health-emergency-amid/story?id=82002884](https://abcnews.go.com/US/york-governor-declares-racism-public-health-emergency-amid/story?id=82002884)
+ - date published: 2021-12-30 20:07:17+00:00
+ - user: rumpel
+ - tags: ['america', 'racism']
+
 ## GCC 12 Adds Support For Using The Mold Linker - Phoronix
  - [https://www.phoronix.com/scan.php?page=news_item&px=GCC-12-Mold-Linker](https://www.phoronix.com/scan.php?page=news_item&px=GCC-12-Mold-Linker)
  - date published: 2021-12-30 14:56:31.310956+00:00
@@ -286,6 +298,12 @@
  - user: rumpel
  - tags: ['gates foundation', 'bill gates', 'covid', 'who']
 
+## Nancy Pelosi: 2021 Wall Street Trader of the Year
+ - [https://jacobin.com/2021/12/house-speaker-paul-stocks-insider-trading-wealth](https://jacobin.com/2021/12/house-speaker-paul-stocks-insider-trading-wealth)
+ - date published: 2021-12-16 20:16:31+00:00
+ - user: rumpel
+ - tags: ['nancy pelosi']
+
 ## Joe Biden said in July that if you get vaccinated, you will not get COVID | Washington Examiner
  - [https://www.washingtonexaminer.com/opinion/in-july-joe-biden-said-that-if-you-get-vaccinated-you-will-not-get-covid](https://www.washingtonexaminer.com/opinion/in-july-joe-biden-said-that-if-you-get-vaccinated-you-will-not-get-covid)
  - date published: 2021-12-16 15:23:21+00:00
@@ -321,6 +339,12 @@
  - date published: 2021-12-15 08:25:46+00:00
  - user: None
  - tags: ['lockdown', 'freedom', 'covid']
+
+## Facebook admits the truth: 'Fact checks' are really just (lefty) opinion
+ - [https://nypost.com/2021/12/14/facebook-admits-the-truth-fact-checks-are-really-just-lefty-opinion/](https://nypost.com/2021/12/14/facebook-admits-the-truth-fact-checks-are-really-just-lefty-opinion/)
+ - date published: 2021-12-14 20:30:03+00:00
+ - user: rumpel
+ - tags: ['fact-check', 'facebook', 'covid']
 
 ## Announcement: Clearview AI ordered to comply with recommendations to stop collecting, sharing images - Office of the Privacy Commissioner of Canada
  - [https://www.priv.gc.ca/en/opc-news/news-and-announcements/2021/an_211214/](https://www.priv.gc.ca/en/opc-news/news-and-announcements/2021/an_211214/)
@@ -369,6 +393,12 @@
  - date published: 2021-12-10 08:09:00.543457+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Twitter bans popular account highlighting Nancy Pelosi stock trades, @NancyTracker « Aletho News
+ - [https://alethonews.com/2021/12/09/twitter-bans-popular-account-highlighting-nancy-pelosi-stock-trades-nancytracker/](https://alethonews.com/2021/12/09/twitter-bans-popular-account-highlighting-nancy-pelosi-stock-trades-nancytracker/)
+ - date published: 2021-12-09 20:14:06+00:00
+ - user: rumpel
+ - tags: ['twitter', 'nancy pelosi']
 
 ## Pixel prevented me from calling 911 : GooglePixel
  - [https://old.reddit.com/r/GooglePixel/comments/r4xz1f/pixel_prevented_me_from_calling_911/](https://old.reddit.com/r/GooglePixel/comments/r4xz1f/pixel_prevented_me_from_calling_911/)
@@ -801,6 +831,12 @@
  - date published: 2021-11-12 21:57:43+00:00
  - user: rumpel
  - tags: ['profits', 'astrazeneca', 'vaccine', 'covid']
+
+## Project Veritas: Journalists or Political Spies?  - The New York Times
+ - [https://www.nytimes.com/2021/11/11/us/politics/project-veritas-journalism-political-spying.html](https://www.nytimes.com/2021/11/11/us/politics/project-veritas-journalism-political-spying.html)
+ - date published: 2021-11-12 20:20:24+00:00
+ - user: rumpel
+ - tags: ['project veritas']
 
 ## Breaking Printf · Phil Pearl's Blog
  - [https://philpearl.github.io/post/anathema/](https://philpearl.github.io/post/anathema/)
@@ -2950,6 +2986,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Government dictating what social-media bans is tyrannical
+ - [https://nypost.com/2021/07/16/government-dictating-what-social-media-bans-is-tyrannical/](https://nypost.com/2021/07/16/government-dictating-what-social-media-bans-is-tyrannical/)
+ - date published: 2021-07-16 20:28:57+00:00
+ - user: rumpel
+ - tags: ['bigbrother', 'covid', 'censorship']
+
 ## Target removes J&J sunscreens from stores, website | Reuters
  - [https://www.reuters.com/business/healthcare-pharmaceuticals/target-removes-jj-sunscreens-stores-website-2021-07-16/](https://www.reuters.com/business/healthcare-pharmaceuticals/target-removes-jj-sunscreens-stores-website-2021-07-16/)
  - date published: 2021-07-16 20:22:42+00:00
@@ -3165,6 +3207,12 @@
  - date published: 2021-07-09 19:35:21+00:00
  - user: rumpel
  - tags: ['wuhan', 'covid', 'lableak']
+
+## Inside Nancy Pelosi’s Husband’s $5 Million Alphabet Options Windfall
+ - [https://www.forbes.com/sites/antoinegara/2021/07/08/inside-nancy-pelosis-husbands-5-million-alphabet-options-windfall/](https://www.forbes.com/sites/antoinegara/2021/07/08/inside-nancy-pelosis-husbands-5-million-alphabet-options-windfall/)
+ - date published: 2021-07-08 20:12:47+00:00
+ - user: rumpel
+ - tags: ['nancy pelosi']
 
 ## Why Media Mogul Barry Diller Thinks The Movie Business Is Dead : NPR
  - [https://www.npr.org/2021/07/08/1014095135/barry-diller-headed-2-hollywood-studios-he-now-says-the-movie-business-is-dead](https://www.npr.org/2021/07/08/1014095135/barry-diller-headed-2-hollywood-studios-he-now-says-the-movie-business-is-dead)

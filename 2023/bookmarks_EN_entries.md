@@ -1,3 +1,15 @@
+## WHY Companies MUST be WOKE or REALLY GO BROKE
+ - [https://www.youtube.com/watch?v=uCYdKeajDdU](https://www.youtube.com/watch?v=uCYdKeajDdU)
+ - date published: 2023-04-12 20:00:09+00:00
+ - user: rumpel
+ - tags: ['blackrock', 'esg', 'woke']
+
+## GPT-4 Outperforms Elite Crowdworkers, Saving Researchers $500k and 20k hours
+ - [https://www.artisana.ai/articles/gpt-4-outperforms-elite-crowdworkers-saving-researchers-usd500-000-and-20](https://www.artisana.ai/articles/gpt-4-outperforms-elite-crowdworkers-saving-researchers-usd500-000-and-20)
+ - date published: 2023-04-11 23:09:42+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence', 'gpt4']
+
 ## India to require US social media platforms to abide by government-run fact-checker
  - [https://reclaimthenet.org/india-to-require-us-social-media-platforms-to-abide-by-government-run-fact-checker](https://reclaimthenet.org/india-to-require-us-social-media-platforms-to-abide-by-government-run-fact-checker)
  - date published: 2023-04-10 14:47:46+00:00
@@ -435,6 +447,12 @@
  - date published: 2023-03-21 20:53:26+00:00
  - user: rumpel
  - tags: ['windows', 'vulnerability', 'acropalypse']
+
+## Nancy Pelosi Net Worth is $120 Million
+ - [https://moneyinc.com/nancy-pelosi-net-worth/](https://moneyinc.com/nancy-pelosi-net-worth/)
+ - date published: 2023-03-21 20:11:16+00:00
+ - user: rumpel
+ - tags: ['nancy pelosi']
 
 ## Hackers drain bitcoin ATMs of $1.5 million by exploiting 0-day bug
  - [https://arstechnica.com/?p=1925695](https://arstechnica.com/?p=1925695)

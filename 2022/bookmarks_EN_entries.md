@@ -10090,6 +10090,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Pandemic prompted exodus from New York City, gains upstate | Cornell Chronicle
+ - [https://news.cornell.edu/stories/2022/03/pandemic-prompted-exodus-new-york-city-gains-upstate](https://news.cornell.edu/stories/2022/03/pandemic-prompted-exodus-new-york-city-gains-upstate)
+ - date published: 2022-03-24 20:08:38+00:00
+ - user: rumpel
+ - tags: ['new york', 'pandemic', 'covid']
+
 ## Leaked opinion of the Commission sets off alarm bells for mass surveillance of private communications - European Digital Rights (EDRi)
  - [https://edri.org/our-work/leaked-opinion-of-the-commission-sets-off-alarm-bells-for-mass-surveillance-of-private-communications/](https://edri.org/our-work/leaked-opinion-of-the-commission-sets-off-alarm-bells-for-mass-surveillance-of-private-communications/)
  - date published: 2022-03-24 17:08:26.649240+00:00
@@ -10672,6 +10678,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Canadian Government Uses 'Terrorist Financing Act' To Target Financial Support for Freedom Convoy Truckers Canadian Government Uses 'Terrorist Financing Act' To Target Anti-Mandate Truckers
+ - [https://reason.com/2022/02/15/canadian-government-uses-terrorist-financing-act-to-target-financial-support-for-freedom-convoy-truckers/](https://reason.com/2022/02/15/canadian-government-uses-terrorist-financing-act-to-target-financial-support-for-freedom-convoy-truckers/)
+ - date published: 2022-02-15 20:41:44+00:00
+ - user: rumpel
+ - tags: ['canada', 'covid', 'freedom convoy']
+
 ## Google Search Is Dying | Hacker News
  - [https://news.ycombinator.com/item?id=30347719](https://news.ycombinator.com/item?id=30347719)
  - date published: 2022-02-15 16:25:01+00:00
@@ -10750,11 +10762,23 @@
  - user: rumpel
  - tags: ['pollution', 'climate change', 'electric vehicles']
 
+## Judge freezes access to funds donated to protesting truckers in Canada : NPR
+ - [https://www.npr.org/2022/02/10/1080022827/a-canadian-judge-has-frozen-access-to-donations-for-the-trucker-convoy-protest](https://www.npr.org/2022/02/10/1080022827/a-canadian-judge-has-frozen-access-to-donations-for-the-trucker-convoy-protest)
+ - date published: 2022-02-10 20:37:09+00:00
+ - user: rumpel
+ - tags: ['canada', 'covid', 'freedom convoy']
+
 ## Anti-exploitation bill advances in Senate despite free speech concerns
  - [https://www.theverge.com/2022/2/10/22927346/earn-it-act-markup-senate-judiciary-section-230-csam-non-consensual-porn](https://www.theverge.com/2022/2/10/22927346/earn-it-act-markup-senate-judiciary-section-230-csam-non-consensual-porn)
  - date published: 2022-02-10 20:25:15+00:00
  - user: None
  - tags: ['bigbrother', 'censorship', 'free speech']
+
+## New York Times May Publish Documents About Project Veritas, Court Says - The New York Times
+ - [https://www.nytimes.com/2022/02/10/business/media/project-veritas-new-york-times.html](https://www.nytimes.com/2022/02/10/business/media/project-veritas-new-york-times.html)
+ - date published: 2022-02-10 20:19:16+00:00
+ - user: rumpel
+ - tags: ['project veritas', 'covid', 'gain of function']
 
 ## The Dead Internet Theory (Part 3)
  - [https://www.youtube.com/watch?v=RFb1Ctnqw0E](https://www.youtube.com/watch?v=RFb1Ctnqw0E)
@@ -10768,6 +10792,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Freedom Wins: Canadian Provinces Lift COVID Mandates After Trucker Protests | The Daily Wire
+ - [https://www.dailywire.com/news/freedom-wins-canadian-provinces-lift-covid-mandates-after-trucker-protests](https://www.dailywire.com/news/freedom-wins-canadian-provinces-lift-covid-mandates-after-trucker-protests)
+ - date published: 2022-02-09 20:54:25+00:00
+ - user: rumpel
+ - tags: ['canada', 'covid', 'mandates', 'freedom convoy']
+
 ## 5 reasons why eating insects can reduce climate change | World Economic Forum
  - [https://www.weforum.org/agenda/2022/02/how-insects-positively-impact-climate-change/](https://www.weforum.org/agenda/2022/02/how-insects-positively-impact-climate-change/)
  - date published: 2022-02-09 20:16:46+00:00
@@ -10779,6 +10809,12 @@
  - date published: 2022-02-09 00:10:46.476596+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Canadian Prime Minister Justin Trudeau, mandates - TheBlaze
+ - [https://www.theblaze.com/news/trudeau-canada-mandates-restrictions](https://www.theblaze.com/news/trudeau-canada-mandates-restrictions)
+ - date published: 2022-02-08 20:56:08+00:00
+ - user: rumpel
+ - tags: ['canada', 'covid', 'mandates', 'freedom convoy']
 
 ## Semantic Compression
  - [https://caseymuratori.com/blog_0015](https://caseymuratori.com/blog_0015)
@@ -10828,6 +10864,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## GoFundMe, now nixing Canadian trucker fundraiser, promoted Capitol Hill Occupied Protest appeal | Fox News
+ - [https://www.foxnews.com/politics/gofundme-canadian-trucker-fundraiser-offered-support-capitol-hill-occupied-protest](https://www.foxnews.com/politics/gofundme-canadian-trucker-fundraiser-offered-support-capitol-hill-occupied-protest)
+ - date published: 2022-02-06 20:52:23+00:00
+ - user: rumpel
+ - tags: ['canada', 'covid', 'freedom convoy', 'gofundme']
+
 ## Joe Rogan Talks With Maajid Nawaz (Episode #1780)
  - [https://rumble.com/vvexre-must-watch-joe-rogan-talks-with-maajid-nawaz-episode-1780.html](https://rumble.com/vvexre-must-watch-joe-rogan-talks-with-maajid-nawaz-episode-1780.html)
  - date published: 2022-02-06 20:47:39+00:00
@@ -10851,6 +10893,12 @@
  - date published: 2022-02-05 20:52:56.742213+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Freedom Convoy: GoFundMe seizes funds of Canada 'occupation' - BBC News
+ - [https://www.bbc.com/news/world-us-canada-60267840](https://www.bbc.com/news/world-us-canada-60267840)
+ - date published: 2022-02-05 20:46:23+00:00
+ - user: rumpel
+ - tags: ['canada', 'covid', 'freedom convoy']
 
 ## The EARN IT Act Is Back, and It’s More Dangerous Than Ever | Center for Internet and Society
  - [http://cyberlaw.stanford.edu/blog/2022/02/earn-it-act-back-and-it%E2%80%99s-more-dangerous-ever](http://cyberlaw.stanford.edu/blog/2022/02/earn-it-act-back-and-it%E2%80%99s-more-dangerous-ever)
@@ -10882,6 +10930,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## GoFundMe pulls plug on fundraiser for Ottawa convoy protesters | Toronto Sun
+ - [https://torontosun.com/news/national/gofundme-pulls-plug-on-fundraiser-for-ottawa-convoy-protesters](https://torontosun.com/news/national/gofundme-pulls-plug-on-fundraiser-for-ottawa-convoy-protesters)
+ - date published: 2022-02-04 20:49:21+00:00
+ - user: rumpel
+ - tags: ['canada', 'covid', 'freedom convoy', 'gofundme']
+
 ## Senate report implicates Fauci in Wuhan lab leak cover-up
  - [https://conservativeinstitute.org/conservative-news/senate-report-implicates-fauci-in-wuhan-lab-leak-cover-up.htm](https://conservativeinstitute.org/conservative-news/senate-report-implicates-fauci-in-wuhan-lab-leak-cover-up.htm)
  - date published: 2022-02-04 06:55:19+00:00
@@ -10912,6 +10966,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Police investigate ‘illegal’ acts at Ottawa anti-vaccine mandate trucker protests
+ - [https://www.washingtonpost.com/world/2022/01/31/canada-ottawa-protests-trucker-coronavirus-vaccine/](https://www.washingtonpost.com/world/2022/01/31/canada-ottawa-protests-trucker-coronavirus-vaccine/)
+ - date published: 2022-01-31 20:32:34+00:00
+ - user: rumpel
+ - tags: ['canada', 'covid', 'freedom convoy']
+
 ## Scientists speak out on being silenced when raising concerns about COVID lab leak theory
  - [https://www.foxnews.com/politics/scientists-speak-out-on-being-silenced-when-raising-concerns-about-lab-leak-theory](https://www.foxnews.com/politics/scientists-speak-out-on-being-silenced-when-raising-concerns-about-lab-leak-theory)
  - date published: 2022-01-31 06:54:36+00:00
@@ -10930,17 +10990,41 @@
  - user: rumpel
  - tags: ['world economic forum', 'klaus schwab', 'wef']
 
+## Thousands in Canada Protest COVID-19 Vaccine Mandates for Truckers
+ - [https://www.businessinsider.com/thousands-canada-protest-covid-19-vaccine-mandates-truckers-justin-trudeau-2022-1?IR=T](https://www.businessinsider.com/thousands-canada-protest-covid-19-vaccine-mandates-truckers-justin-trudeau-2022-1?IR=T)
+ - date published: 2022-01-30 20:40:11+00:00
+ - user: rumpel
+ - tags: ['canada', 'covid', 'freedom convoy']
+
+## Nova Scotia outlaws support on highway for 'freedom' truckers days after massive protest | Fox News
+ - [https://www.foxnews.com/world/nova-scotia-outlaws-gathering-highway-freedom-convoy-truckers-vaccine-mandate](https://www.foxnews.com/world/nova-scotia-outlaws-gathering-highway-freedom-convoy-truckers-vaccine-mandate)
+ - date published: 2022-01-30 20:35:51+00:00
+ - user: rumpel
+ - tags: ['canada', 'covid', 'freedom convoy']
+
 ## Why Maus Was Banned…And Why It’s An Amazing Book
  - [https://www.cbr.com/maus-newest-banned-book-one-of-greatest-comics/](https://www.cbr.com/maus-newest-banned-book-one-of-greatest-comics/)
  - date published: 2022-01-30 14:02:04+00:00
  - user: rumpel
  - tags: ['censorship', 'maus']
 
+## Canadian Province Bans Support Protests Of Trucker ‘Freedom Convoy,’ Jordan Peterson Unloads: ‘Beware’ | The Daily Wire
+ - [https://www.dailywire.com/news/canadian-province-bans-support-protests-of-trucker-freedom-convoy-jordan-peterson-unloads-beware](https://www.dailywire.com/news/canadian-province-bans-support-protests-of-trucker-freedom-convoy-jordan-peterson-unloads-beware)
+ - date published: 2022-01-29 20:37:35+00:00
+ - user: rumpel
+ - tags: ['canada', 'covid', 'freedom convoy']
+
 ## Here are all the famous people Jeffrey Epstein was connected to
  - [https://www.businessinsider.com/famous-people-jeffery-epstein-money-manager-sexual-trafficking-connected-2019-7?IR=T](https://www.businessinsider.com/famous-people-jeffery-epstein-money-manager-sexual-trafficking-connected-2019-7?IR=T)
  - date published: 2022-01-29 19:42:03+00:00
  - user: None
  - tags: ['epstein']
+
+## Anti-mandate 'Freedom Convoy' said to be largest truck convoy ever | KUTV
+ - [https://kutv.com/news/nation-world/anti-vaccine-mandate-freedom-convoy-said-to-be-largest-ever-coronavirus-covid-canada-united-states-truck-mask-vaccinated-border-gofundme](https://kutv.com/news/nation-world/anti-vaccine-mandate-freedom-convoy-said-to-be-largest-ever-coronavirus-covid-canada-united-states-truck-mask-vaccinated-border-gofundme)
+ - date published: 2022-01-28 20:38:33+00:00
+ - user: rumpel
+ - tags: ['canada', 'covid', 'freedom convoy']
 
 ## Reclaiming the lost art of Linux server administration | pietrorea's blog
  - [https://www.pietrorea.com/2022/01/28/reclaiming-the-lost-art-of-linux-server-administration](https://www.pietrorea.com/2022/01/28/reclaiming-the-lost-art-of-linux-server-administration)
@@ -11025,6 +11109,12 @@
  - date published: 2022-01-24 21:48:29+00:00
  - user: rumpel
  - tags: ['lableak', 'wuhan', 'covid', 'fauci']
+
+## At D.C. rally, anti-vaccine activists protest covid mandates - The Washington Post
+ - [https://www.washingtonpost.com/dc-md-va/2022/01/23/dc-anti-vaccine-rally-mandates-protest/](https://www.washingtonpost.com/dc-md-va/2022/01/23/dc-anti-vaccine-rally-mandates-protest/)
+ - date published: 2022-01-24 20:44:07+00:00
+ - user: rumpel
+ - tags: ['protest', 'covid', 'mandates']
 
 ## Shell CCS facility in Canada emits more than it captures, study says
  - [https://www.cnbc.com/2022/01/24/shell-ccs-facility-in-canada-emits-more-than-it-captures-study-says.html](https://www.cnbc.com/2022/01/24/shell-ccs-facility-in-canada-emits-more-than-it-captures-study-says.html)
@@ -11242,6 +11332,12 @@
  - user: rumpel
  - tags: ['fearmongering', 'covid', 'propaganda']
 
+## Supreme Court Blocks Biden’s Vaccine Mandate for Large Employers - The New York Times
+ - [https://www.nytimes.com/2022/01/13/us/politics/supreme-court-biden-vaccine-mandate.html](https://www.nytimes.com/2022/01/13/us/politics/supreme-court-biden-vaccine-mandate.html)
+ - date published: 2022-01-13 20:25:48+00:00
+ - user: rumpel
+ - tags: ['vaccine', 'mandates', 'joe biden']
+
 ## The Laurels: NHS gender clinic only assessed two patients in 12 months
  - [https://www.pinknews.co.uk/2021/03/08/the-laurels-nhs-trans-waiting-times-west-england-gender-identity-clinic-waiting-list-exeter-devon-partnership-trust-transgender/](https://www.pinknews.co.uk/2021/03/08/the-laurels-nhs-trans-waiting-times-west-england-gender-identity-clinic-waiting-list-exeter-devon-partnership-trust-transgender/)
  - date published: 2022-01-13 15:37:35.631003+00:00
@@ -11296,11 +11392,23 @@
  - user: Thomas Pain
  - tags: ['programming', 'culture']
 
+## Military Documents about Gain of Function contradict Fauci testimony under oath #ExposeFauci
+ - [https://www.youtube.com/watch?v=_zgoENmeddA](https://www.youtube.com/watch?v=_zgoENmeddA)
+ - date published: 2022-01-11 00:00:00+00:00
+ - user: rumpel
+ - tags: ['covid', 'fauci']
+
 ## Physicians re-evaluate use of lead aprons during X-rays - Scope
  - [https://scopeblog.stanford.edu/2020/05/22/physicians-re-evaluate-use-of-lead-aprons-during-x-rays/](https://scopeblog.stanford.edu/2020/05/22/physicians-re-evaluate-use-of-lead-aprons-during-x-rays/)
  - date published: 2022-01-10 23:08:31.558339+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Military Documents About Gain of Function Contradict Fauci Testimony Under Oath | Project Veritas
+ - [https://www.projectveritas.com/news/military-documents-about-gain-of-function-contradict-fauci-testimony-under/](https://www.projectveritas.com/news/military-documents-about-gain-of-function-contradict-fauci-testimony-under/)
+ - date published: 2022-01-10 20:18:26+00:00
+ - user: rumpel
+ - tags: ['covid', 'gain of function', 'wuhan']
 
 ## The right to delete: how faker.js exposed the fragile nature of open source culture, again
  - [https://www.thegingerviking.com/the-right-to-delete-fakerjs-fragile-nature-open-source/](https://www.thegingerviking.com/the-right-to-delete-fakerjs-fragile-nature-open-source/)
@@ -11451,6 +11559,12 @@
  - date published: 2022-01-02 20:16:17.789512+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Biden nominee equated 'proof of citizenship' with 'voter suppression,' likened felon voting ban to slavery | Fox News
+ - [https://www.foxnews.com/politics/nancy-abudu-biden-nominee-voter-suppression](https://www.foxnews.com/politics/nancy-abudu-biden-nominee-voter-suppression)
+ - date published: 2022-01-02 20:05:45+00:00
+ - user: rumpel
+ - tags: ['voting', 'joe biden']
 
 ## Twitter Permanently Suspends Marjorie Taylor Greene’s Account
  - [https://www.nytimes.com/2022/01/02/technology/marjorie-taylor-greene-twitter.html](https://www.nytimes.com/2022/01/02/technology/marjorie-taylor-greene-twitter.html)
