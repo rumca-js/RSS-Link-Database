@@ -10,11 +10,23 @@
  - user: rumpel
  - tags: ['scripting', 'linux', 'shell', 'programming']
 
+## Occupy Wall Street: The story of the first night - BBC News
+ - [https://www.bbc.com/news/magazine-15779008](https://www.bbc.com/news/magazine-15779008)
+ - date published: 2011-11-20 07:13:05+00:00
+ - user: rumpel
+ - tags: ['protest', 'billionaires', 'occupy wall street']
+
 ## "You'll not only lose your mind, but you'll lose your soul" | Christopher Lee on the occult
  - [https://www.youtube.com/watch?v=vRVQD4FKPrY](https://www.youtube.com/watch?v=vRVQD4FKPrY)
  - date published: 2011-11-10 16:01:55+00:00
  - user: rumpel
  - tags: ['occult', 'satanism']
+
+## Who's behind the Wall Street protests? | Reuters
+ - [https://www.reuters.com/article/us-wallstreet-protests-origins-idUSTRE79C1YN20111014](https://www.reuters.com/article/us-wallstreet-protests-origins-idUSTRE79C1YN20111014)
+ - date published: 2011-10-14 07:14:55+00:00
+ - user: rumpel
+ - tags: ['protest', 'billionaires', 'occupy wall street']
 
 ## Pfizer pays out to Nigerian families of meningitis drug trial victims | Nigeria | The Guardian
  - [https://www.theguardian.com/world/2011/aug/11/pfizer-nigeria-meningitis-drug-compensation](https://www.theguardian.com/world/2011/aug/11/pfizer-nigeria-meningitis-drug-compensation)

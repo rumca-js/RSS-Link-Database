@@ -170,7 +170,7 @@
  - [https://www.spokesman.com/stories/2017/sep/26/to-ban-or-not-to-ban-school-leaders-consider-class/](https://www.spokesman.com/stories/2017/sep/26/to-ban-or-not-to-ban-school-leaders-consider-class/)
  - date published: 2017-08-26 08:48:53+00:00
  - user: None
- - tags: ['fahrenheit451', 'orwell', 'censorship']
+ - tags: ['orwell', 'censorship', 'fahrenheit 451']
 
 ## Court rules privacy a 'fundamental right' in landmark case
  - [http://www.cnn.com/2017/08/24/asia/indian-court-right-to-privacy/index.html](http://www.cnn.com/2017/08/24/asia/indian-court-right-to-privacy/index.html)
@@ -237,6 +237,18 @@
  - date published: 2017-07-14 21:47:09+00:00
  - user: rumpel
  - tags: ['wikileaks', 'cia', 'trojan', 'assange', 'malware', 'bigbrother']
+
+## Millions of Android Devices Hit With CopyCat Malware | McAfee Blog
+ - [https://www.mcafee.com/blogs/mobile-security/android-devices-hit-with-copycat-malware/](https://www.mcafee.com/blogs/mobile-security/android-devices-hit-with-copycat-malware/)
+ - date published: 2017-07-11 17:26:10+00:00
+ - user: rumpel
+ - tags: ['copycat', 'android', 'malware']
+
+## Android devices hit with CopyCat malware - CNET
+ - [https://www.cnet.com/news/privacy/android-hack-copycat-malware-device-outdated-14-million/](https://www.cnet.com/news/privacy/android-hack-copycat-malware-device-outdated-14-million/)
+ - date published: 2017-07-06 17:24:53+00:00
+ - user: rumpel
+ - tags: ['copycat', 'vulnerability', 'android', 'malware']
 
 ## 'NotPetya' malware attacks could warrant retaliation, says Nato researcher
  - [https://www.theguardian.com/technology/2017/jul/03/notpetya-malware-attacks-ukraine-warrant-retaliation-nato-researcher-tomas-minarik](https://www.theguardian.com/technology/2017/jul/03/notpetya-malware-attacks-ukraine-warrant-retaliation-nato-researcher-tomas-minarik)

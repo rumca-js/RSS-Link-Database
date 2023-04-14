@@ -1,3 +1,15 @@
+## NOP – niepożądany odczyn poszczepienny. Czym jest i jak często występuje? - Szczepienie przeciwko COVID-19 - Portal Gov.pl
+ - [https://www.gov.pl/web/szczepimysie/niepozadane-odczyny-poszczepienne](https://www.gov.pl/web/szczepimysie/niepozadane-odczyny-poszczepienne)
+ - date published: 2023-04-13 07:21:29+00:00
+ - user: rumpel
+ - tags: ['vaccine', 'covid', 'nop']
+
+## FBI: Używasz określeń jak "Chad", "red pill" i "looksmaxxing"? Możesz być brutalnym ekstremistą
+ - [https://ithardware.pl/aktualnosci/fbi_uzywasz_okreslen_jak_chad_red_pill_i_looksmaxxing_mozesz_byc_brutalnym_ekstremista-26765.html](https://ithardware.pl/aktualnosci/fbi_uzywasz_okreslen_jak_chad_red_pill_i_looksmaxxing_mozesz_byc_brutalnym_ekstremista-26765.html)
+ - date published: 2023-04-12 07:39:00+00:00
+ - user: rumpel
+ - tags: ['newspeak', 'propaganda', 'fbi']
+
 ## Niemcy. Coraz więcej pacjentów skarżących się na objawy po szczepieniu przeciw COVID-19
  - [https://www.polsatnews.pl/wiadomosc/2023-04-03/niemcy-coraz-wiecej-pacjentow-skarzacych-sie-na-objawy-po-szczepieniu-przeciw-covid-19/](https://www.polsatnews.pl/wiadomosc/2023-04-03/niemcy-coraz-wiecej-pacjentow-skarzacych-sie-na-objawy-po-szczepieniu-przeciw-covid-19/)
  - date published: 2023-04-03 11:44:00+00:00

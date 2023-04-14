@@ -656,7 +656,7 @@
  - [https://www.wykop.pl/link/6845567/w-europie-zaczyna-sie-masowe-bankructwo-hoteli-i-restauracji/](https://www.wykop.pl/link/6845567/w-europie-zaczyna-sie-masowe-bankructwo-hoteli-i-restauracji/)
  - date published: 2022-10-04 20:10:01+00:00
  - user: None
- - tags: ['covid', 'global reset', 'war', 'crisis', 'russia']
+ - tags: ['war', 'crisis', 'great reset', 'covid', 'russia']
 
 ## Przedszkola dla gejów i lesbijek w Berlinie. W zarządzie "adwokat pedofilów"
  - [https://www.wykop.pl/link/6845341/przedszkola-dla-gejow-i-lesbijek-w-berlinie-w-zarzadzie-adwokat-pedofilow/](https://www.wykop.pl/link/6845341/przedszkola-dla-gejow-i-lesbijek-w-berlinie-w-zarzadzie-adwokat-pedofilow/)
@@ -1268,7 +1268,7 @@
  - [https://m.wirtualnemedia.pl/m/artykul/niemiecki-wydawca-wycofuje-ksiazki-o-winnetou-razism#.YwxIfjV-QSA.wykop](https://m.wirtualnemedia.pl/m/artykul/niemiecki-wydawca-wycofuje-ksiazki-o-winnetou-razism#.YwxIfjV-QSA.wykop)
  - date published: 2022-08-29 08:37:40.696185+00:00
  - user: None
- - tags: ['karl may', 'woke', 'fahrenheit451', 'censorship']
+ - tags: ['censorship', 'woke', 'karl may', 'fahrenheit 451']
 
 ## André Staltz - Time Till Open Source Alternative
  - [https://staltz.com/time-till-open-source-alternative.html](https://staltz.com/time-till-open-source-alternative.html)
@@ -1448,7 +1448,7 @@
  - [https://wiadomosci.onet.pl/kraj/facebook-zawiesil-strone-konfederacji-bedzie-pozew-cenzura-powraca/pk4fkq1](https://wiadomosci.onet.pl/kraj/facebook-zawiesil-strone-konfederacji-bedzie-pozew-cenzura-powraca/pk4fkq1)
  - date published: 2022-01-05 12:04:50+00:00
  - user: None
- - tags: ['facebook', 'cenzura', 'konfederacja']
+ - tags: ['facebook', 'konfederacja', 'moderation', 'censorship']
 
 ## Jak informuje pkwp.org Facebook zmniejszył zasięgi akcji ukazującej problem gwałconych chrześcijanek w państwach islamskich. Zablokowano petycję w ich obronie.
  - [https://obywatelenieba.pl/2022/01/04/facebook-przeciw-przesladowanym-chrzescijankom/](https://obywatelenieba.pl/2022/01/04/facebook-przeciw-przesladowanym-chrzescijankom/)

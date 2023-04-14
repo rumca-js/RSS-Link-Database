@@ -50,7 +50,7 @@
  - [https://www.abc.net.au/news/2015-08-26/secret-anti-paedophile-operation-saves-children-from-abuse/6720304](https://www.abc.net.au/news/2015-08-26/secret-anti-paedophile-operation-saves-children-from-abuse/6720304)
  - date published: 2015-08-26 21:31:58+00:00
  - user: rumpel
- - tags: ['australia', 'paedophile']
+ - tags: ['paedophilia', 'australia']
 
 ## How the American government is trying to control what you think - The Washington Post
  - [https://www.washingtonpost.com/posteverything/wp/2015/09/24/the-new-propaganda-how-the-american-government-is-trying-to-control-what-you-think/](https://www.washingtonpost.com/posteverything/wp/2015/09/24/the-new-propaganda-how-the-american-government-is-trying-to-control-what-you-think/)

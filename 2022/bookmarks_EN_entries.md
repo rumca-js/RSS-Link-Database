@@ -104,7 +104,7 @@
  - [https://www.youtube.com/watch?v=jWBTnrkz6lY](https://www.youtube.com/watch?v=jWBTnrkz6lY)
  - date published: 2022-12-29 17:29:08+00:00
  - user: rumpel
- - tags: ['face recognition', 'corporatocracy', 'tech feudalism']
+ - tags: ['face recognition', 'corporatocracy', 'technofeudalism']
 
 ## Elon Musk slams Fauci for infamous 'I am science' quote that refuted all criticism of COVID policy
  - [https://www.dailymail.co.uk/news/article-11582583/Elon-Musk-slams-Fauci-infamous-science-quote-refuted-criticism-COVID-policy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11582583/Elon-Musk-slams-Fauci-infamous-science-quote-refuted-criticism-COVID-policy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -860,7 +860,7 @@
  - [https://reclaimthenet.org/trudeau-canada-hate-speech-censorship-bill-possible-return/](https://reclaimthenet.org/trudeau-canada-hate-speech-censorship-bill-possible-return/)
  - date published: 2022-12-16 18:47:27+00:00
  - user: None
- - tags: ['trudeau', 'censorship', 'canada']
+ - tags: ['canada', 'censorship', 'justin trudeau']
 
 ## Elon Bans Mastodon Links as Twitter Purge Continues
  - [https://gizmodo.com/elon-musk-twitter-ban-mastodon-1849903839](https://gizmodo.com/elon-musk-twitter-ban-mastodon-1849903839)
@@ -2396,7 +2396,7 @@
  - [https://www.dailymail.co.uk/news/article-11432117/Covid-Australia-ABCs-Dr-Norman-Swans-huge-mistakes-pandemic.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11432117/Covid-Australia-ABCs-Dr-Norman-Swans-huge-mistakes-pandemic.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2022-11-16 03:04:29+00:00
  - user: rumpel
- - tags: ['covid', 'fear', 'propaganda']
+ - tags: ['propaganda', 'fearmongering', 'covid', 'australia']
 
 ## Digital Books wear out faster than Physical Books
  - [http://blog.archive.org/2022/11/15/digital-books-wear-out-faster-than-physical-books/](http://blog.archive.org/2022/11/15/digital-books-wear-out-faster-than-physical-books/)
@@ -3230,7 +3230,7 @@
  - [https://www.foxnews.com/media/from-hunter-biden-wuhan-lab-leak-theory-eight-times-media-admitted-major-narrative-wrong](https://www.foxnews.com/media/from-hunter-biden-wuhan-lab-leak-theory-eight-times-media-admitted-major-narrative-wrong)
  - date published: 2022-11-01 06:00:17+00:00
  - user: None
- - tags: ['biden', 'lie', 'covid', 'psyop', 'censorship', 'manipulation', 'media']
+ - tags: ['joe biden', 'psyop', 'censorship', 'hunter biden', 'lie', 'media', 'manipulation', 'covid']
 
 ## One year after the Facebook Files: 'When power is highly concentrated, whistleblowers need to be encouraged and protected'
  - [https://www.lemonde.fr/en/pixels/article/2022/11/01/one-year-after-the-facebook-files-when-power-is-highly-concentrated-whistleblowers-need-to-be-encouraged-and-protected_6002490_13.html](https://www.lemonde.fr/en/pixels/article/2022/11/01/one-year-after-the-facebook-files-when-power-is-highly-concentrated-whistleblowers-need-to-be-encouraged-and-protected_6002490_13.html)
@@ -4166,7 +4166,7 @@
  - [https://www.dailymail.co.uk/news/article-11343529/Judge-orders-Fauci-Biden-officials-deposed-social-media-collusion-case.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11343529/Judge-orders-Fauci-Biden-officials-deposed-social-media-collusion-case.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2022-10-22 15:12:53+00:00
  - user: None
- - tags: ['biden', 'fauci', 'covid', 'social media']
+ - tags: ['social media', 'covid', 'joe biden', 'fauci']
 
 ## What Is Technofeudalism?
  - [https://nymag.com/intelligencer/2022/10/what-is-technofeudalism.html](https://nymag.com/intelligencer/2022/10/what-is-technofeudalism.html)
@@ -4862,7 +4862,7 @@
  - [https://www.bbc.co.uk/news/world-us-canada-63177892?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-63177892?at_medium=RSS&at_campaign=KARANGA)
  - date published: 2022-10-07 19:02:27+00:00
  - user: None
- - tags: ['new york', 'migrant', 'migration', 'crisis']
+ - tags: ['new york', 'crisis', 'immmigration']
 
 ## Stonewall survey finds more than a quarter of 'Gen Z' 16 to 25-year-olds identify as LGBTQ
  - [https://www.dailymail.co.uk/news/article-11292135/Stonewall-survey-finds-quarter-Gen-Z-16-25-year-olds-identify-LGBTQ.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11292135/Stonewall-survey-finds-quarter-Gen-Z-16-25-year-olds-identify-LGBTQ.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -6050,7 +6050,7 @@
  - [https://www.kapwing.com/blog/google-erased-our-website/](https://www.kapwing.com/blog/google-erased-our-website/)
  - date published: 2022-09-19 07:12:21+00:00
  - user: None
- - tags: ['monotpoly', 'youtube-dl', 'google', 'censorship', 'dmca']
+ - tags: ['youtube-dl', 'censorship', 'dmca', 'monotpoly', 'google', 'open source']
 
 ## Google, Microsoft can get your passwords via web browser's spellcheck
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58927](https://www.codeproject.com/script/News/View.aspx?nwid=58927)
@@ -6908,7 +6908,7 @@
  - [https://www.foxnews.com/opinion/biden-ignores-chinas-infiltration-us-universities](https://www.foxnews.com/opinion/biden-ignores-chinas-infiltration-us-universities)
  - date published: 2022-09-06 06:00:26+00:00
  - user: None
- - tags: ['china', 'china war']
+ - tags: ['china', 'espionage']
 
 ## Apple is gaining on Facebook and Google in online ads after iOS privacy change, report shows
  - [https://www.reddit.com/r/news/comments/x71fcv/apple_is_gaining_on_facebook_and_google_in_online/](https://www.reddit.com/r/news/comments/x71fcv/apple_is_gaining_on_facebook_and_google_in_online/)
@@ -7442,7 +7442,7 @@
  - [https://bomega.pl/zbigniew-brzezinski-obawia-sie-globalnego-przebudzenia-konferencja-cfr/](https://bomega.pl/zbigniew-brzezinski-obawia-sie-globalnego-przebudzenia-konferencja-cfr/)
  - date published: 2022-08-24 12:50:55.802328+00:00
  - user: None
- - tags: ['conspiracy theory', 'feudalism', 'brzezinski']
+ - tags: ['bigbrother', 'brzezinski', 'conspiracy theory', 'corporatocracy', 'technofeudalism']
 
 ## ShadowGate – A Banned Documentary Covering The Deep State Coup
  - [https://libertariannews.org/2020/08/15/shadowgate-a-banned-documentary-covering-the-deep-state-coup/](https://libertariannews.org/2020/08/15/shadowgate-a-banned-documentary-covering-the-deep-state-coup/)
@@ -7520,7 +7520,7 @@
  - [https://www.euronews.com/2022/08/24/german-publisher-pulls-winnetou-books-after-accusations-of-racism](https://www.euronews.com/2022/08/24/german-publisher-pulls-winnetou-books-after-accusations-of-racism)
  - date published: 2022-08-24 09:38:24+00:00
  - user: rumpel
- - tags: ['fahrenheit451', 'karl may', 'orwell', 'censorship']
+ - tags: ['orwell', 'censorship', 'karl may', 'fahrenheit 451']
 
 ## How corporations used Covid crysis
  - [https://www.youtube.com/watch?v=7jH0w8Jdgjk](https://www.youtube.com/watch?v=7jH0w8Jdgjk)
@@ -7581,6 +7581,12 @@
  - date published: 2022-08-22 07:59:49.462089+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Serious adverse events of special interest following mRNA COVID-19 vaccination in randomized trials in adults - PubMed
+ - [https://pubmed.ncbi.nlm.nih.gov/36055877/](https://pubmed.ncbi.nlm.nih.gov/36055877/)
+ - date published: 2022-08-22 07:19:32+00:00
+ - user: rumpel
+ - tags: ['vaccine', 'covid']
 
 ## Why don't we do email verification in reverse?
  - [https://blog.yossarian.net/2022/08/20/Why-dont-we-do-email-verification-in-reverse#fnref:simplified](https://blog.yossarian.net/2022/08/20/Why-dont-we-do-email-verification-in-reverse#fnref:simplified)
@@ -8206,6 +8212,12 @@
  - user: rumpel
  - tags: ['climate change']
 
+## Citizens and businesses have spoken – corruption remains a serious problem in EU countries
+ - [https://home-affairs.ec.europa.eu/news/citizens-and-businesses-have-spoken-corruption-remains-serious-problem-eu-countries-2022-07-13_en](https://home-affairs.ec.europa.eu/news/citizens-and-businesses-have-spoken-corruption-remains-serious-problem-eu-countries-2022-07-13_en)
+ - date published: 2022-07-13 14:19:04+00:00
+ - user: rumpel
+ - tags: ['corruption', 'politics', 'manufacturing consent']
+
 ## The hardest technical solutions are right in front of your face.
  - [https://lukesmith.xyz/articles/obvious-technical-solutions/](https://lukesmith.xyz/articles/obvious-technical-solutions/)
  - date published: 2022-07-12 20:16:31+00:00
@@ -8552,7 +8564,7 @@
  - [https://www.globalresearch.ca/top-10-scariest-things-come-out-wef/5783410](https://www.globalresearch.ca/top-10-scariest-things-come-out-wef/5783410)
  - date published: 2022-06-19 18:08:11+00:00
  - user: rumpel
- - tags: ['global reset', 'wef', 'world economic forum', 'dystopian']
+ - tags: ['great reset', 'wef', 'world economic forum', 'dystopian']
 
 ## Pop-ups are dead, long live pop-ups: or, the bait-and-switch hidden in today’s cookie announcement – Hi, I'm Heather Burns
  - [https://webdevlaw.uk/2022/06/17/data-reform-bill-cookie-popups/](https://webdevlaw.uk/2022/06/17/data-reform-bill-cookie-popups/)
@@ -9105,6 +9117,18 @@
  - date published: 2022-05-18 20:00:21.929118+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## The Disinformation Governance Board Is Dead. Here’s The Right Way To Fight Disinformation.
+ - [https://www.forbes.com/sites/jillgoldenziel/2022/05/18/the-disinformation-governance-board-is-dead-heres-the-right-way-to-fight-disinformation/](https://www.forbes.com/sites/jillgoldenziel/2022/05/18/the-disinformation-governance-board-is-dead-heres-the-right-way-to-fight-disinformation/)
+ - date published: 2022-05-18 19:53:26+00:00
+ - user: rumpel
+ - tags: ['bigbrother', 'disinformation governance board', 'misinformation', 'ministry of truth']
+
+## Disinformation Governance Board 'paused' after just 3 weeks
+ - [https://www.washingtonpost.com/technology/2022/05/18/disinformation-board-dhs-nina-jankowicz/](https://www.washingtonpost.com/technology/2022/05/18/disinformation-board-dhs-nina-jankowicz/)
+ - date published: 2022-05-18 19:50:10+00:00
+ - user: rumpel
+ - tags: ['bigbrother', 'disinformation governance board', 'misinformation', 'ministry of truth']
 
 ## Black Lives Matter spent at least $12 million on mansions
  - [https://nypost.com/2022/05/17/black-lives-matter-spent-at-least-12-million-on-mansions/](https://nypost.com/2022/05/17/black-lives-matter-spent-at-least-12-million-on-mansions/)
@@ -10420,6 +10444,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## FDA Begins Releasing Pfizer COVID Vax Documents | MedPage Today
+ - [https://www.medpagetoday.com/special-reports/exclusives/97544](https://www.medpagetoday.com/special-reports/exclusives/97544)
+ - date published: 2022-03-07 19:23:51+00:00
+ - user: rumpel
+ - tags: ['fda', 'vaccine', 'covid']
+
 ## My lizard brain is no match for infinite scroll · Caffeinspiration
  - [https://alexanderell.is/posts/infinite-scroll/](https://alexanderell.is/posts/infinite-scroll/)
  - date published: 2022-03-07 08:35:10.444865+00:00
@@ -10479,6 +10509,12 @@
  - date published: 2022-03-04 05:00:00+00:00
  - user: None
  - tags: $tags
+
+## Internal Memo Shows Biden, CDC Following Poll Numbers, Not Science • Children's Health Defense
+ - [https://childrenshealthdefense.org/defender/internal-memo-biden-cdc-following-poll-numbers-not-science/](https://childrenshealthdefense.org/defender/internal-memo-biden-cdc-following-poll-numbers-not-science/)
+ - date published: 2022-03-03 19:26:34+00:00
+ - user: rumpel
+ - tags: ['scienceisdead', 'cdc', 'joe biden']
 
 ## SPAs were a mistake | Go Make Things
  - [https://gomakethings.com/spas-were-a-mistake/](https://gomakethings.com/spas-were-a-mistake/)
@@ -10557,6 +10593,12 @@
  - date published: 2022-02-23 22:38:16.283429+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## World Economic Forum pushes digital ID system that will determine access to services
+ - [https://reclaimthenet.org/world-economic-forum-pushes-digital-id](https://reclaimthenet.org/world-economic-forum-pushes-digital-id)
+ - date published: 2022-02-22 18:58:40+00:00
+ - user: rumpel
+ - tags: ['digital id', 'world economic forum']
 
 ## Mask Mandates Don’t Need to Make Sense - The Atlantic
  - [https://www.theatlantic.com/health/archive/2022/02/covid-mask-mandate-washington-dc/622860/](https://www.theatlantic.com/health/archive/2022/02/covid-mask-mandate-washington-dc/622860/)
@@ -10660,6 +10702,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Canada's House of Commons erupts after Trudeau accuses Jewish MP of supporting swastikas | Fox News
+ - [https://www.foxnews.com/world/canada-house-commons-erupts-after-trudeau-accuses-first-jewish-woman-mp-supporting-swastikas](https://www.foxnews.com/world/canada-house-commons-erupts-after-trudeau-accuses-first-jewish-woman-mp-supporting-swastikas)
+ - date published: 2022-02-16 15:40:54+00:00
+ - user: rumpel
+ - tags: ['canada', 'justin trudeau']
+
 ## Building an iPod for 2022
  - [https://ellie.wtf/ipod/](https://ellie.wtf/ipod/)
  - date published: 2022-02-16 08:50:42.950552+00:00
@@ -10683,6 +10731,12 @@
  - date published: 2022-02-15 20:41:44+00:00
  - user: rumpel
  - tags: ['canada', 'covid', 'freedom convoy']
+
+## Tech exec used access to White House computers to look for dirt on Trump, says special counsel
+ - [https://www.nbcnews.com/politics/justice-department/tech-exec-used-access-white-house-computers-look-dirt-trump-says-speci-rcna16123](https://www.nbcnews.com/politics/justice-department/tech-exec-used-access-white-house-computers-look-dirt-trump-says-speci-rcna16123)
+ - date published: 2022-02-15 18:56:41+00:00
+ - user: rumpel
+ - tags: ['donald trump', 'bigbrother', 'hillary clinton']
 
 ## Google Search Is Dying | Hacker News
  - [https://news.ycombinator.com/item?id=30347719](https://news.ycombinator.com/item?id=30347719)
@@ -10827,6 +10881,12 @@
  - date published: 2022-02-08 16:12:37+00:00
  - user: rumpel
  - tags: ['privacy', 'tiktok']
+
+## Examining The Democratic Super Pac That Is Behind Efforts To Cancel Joe Rogan » Calfkicker.com
+ - [https://calfkicker.com/examining-the-democratic-super-pac-that-is-behind-efforts-to-cancel-joe-rogan/](https://calfkicker.com/examining-the-democratic-super-pac-that-is-behind-efforts-to-cancel-joe-rogan/)
+ - date published: 2022-02-08 15:34:11+00:00
+ - user: rumpel
+ - tags: ['manufacturing consent', 'joe rogan', 'covid', 'censorship']
 
 ## IRS To Ditch Biometric Requirement for Online Access – Krebs on Security
  - [https://krebsonsecurity.com/2022/02/irs-to-ditch-biometric-requirement-for-online-access/](https://krebsonsecurity.com/2022/02/irs-to-ditch-biometric-requirement-for-online-access/)
@@ -11061,6 +11121,12 @@
  - date published: 2022-01-26 21:07:38.254055+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## UK government spent £40,000 hiding secretive Clearing House unit | openDemocracy
+ - [https://www.opendemocracy.net/en/opendemocracyuk/uk-government-40000-hiding-clearing-house-unit-foi-legal-battle/](https://www.opendemocracy.net/en/opendemocracyuk/uk-government-40000-hiding-clearing-house-unit-foi-legal-battle/)
+ - date published: 2022-01-26 19:46:09+00:00
+ - user: rumpel
+ - tags: ['bigbrother', 'censorship', 'orwell', 'surveillance', 'covid', 'clearing house']
 
 ## The Prisoner Who Revolutionized Chinese Language With a Teacup | WIRED
  - [https://www.wired.com/story/kingdom-of-characters-jing-tsu-china-language-information/](https://www.wired.com/story/kingdom-of-characters-jing-tsu-china-language-information/)
@@ -11511,6 +11577,12 @@
  - date published: 2022-01-05 16:23:57+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## 'Mass formation psychosis' gets a warning from Google - The Post
+ - [https://unherd.com/thepost/mass-formation-psychosis-gets-a-warning-from-google/](https://unherd.com/thepost/mass-formation-psychosis-gets-a-warning-from-google/)
+ - date published: 2022-01-05 15:31:28+00:00
+ - user: rumpel
+ - tags: ['mass formation psychosis', 'fearmongering', 'covid', 'google', 'technofeudalism']
 
 ## Python Type Hints - How to Handle Optional Imports - Adam Johnson
  - [https://adamj.eu/tech/2021/12/29/python-type-hints-optional-imports/](https://adamj.eu/tech/2021/12/29/python-type-hints-optional-imports/)

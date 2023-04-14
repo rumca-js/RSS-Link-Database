@@ -292,6 +292,12 @@
  - user: rumpel
  - tags: ['lockdown', 'covid']
 
+## UK government running ‘Orwellian’ unit to block release of ‘sensitive’ information | openDemocracy
+ - [https://www.opendemocracy.net/en/freedom-of-information/uk-government-running-orwellian-unit-to-block-release-of-sensitive-information/](https://www.opendemocracy.net/en/freedom-of-information/uk-government-running-orwellian-unit-to-block-release-of-sensitive-information/)
+ - date published: 2020-11-23 19:43:36+00:00
+ - user: rumpel
+ - tags: ['bigbrother', 'censorship', 'orwell', 'surveillance', 'covid', 'clearing house']
+
 ## Post-lockdown SARS-CoV-2 nucleic acid screening in nearly ten million residents of Wuhan, China
  - [https://www.nature.com/articles/s41467-020-19802-w](https://www.nature.com/articles/s41467-020-19802-w)
  - date published: 2020-11-20 11:39:07+00:00
@@ -375,6 +381,12 @@
  - date published: 2020-10-29 21:51:16+00:00
  - user: rumpel
  - tags: ['pandemic', 'amazon']
+
+## RIAA's YouTube-DL Takedown Ticks Off Developers and GitHub's CEO * TorrentFreak
+ - [https://torrentfreak.com/riaas-youtube-dl-takedown-ticks-of-developers-and-githubs-ceo-201027/](https://torrentfreak.com/riaas-youtube-dl-takedown-ticks-of-developers-and-githubs-ceo-201027/)
+ - date published: 2020-10-27 20:11:38+00:00
+ - user: rumpel
+ - tags: ['open source', 'youtube-dl', 'github']
 
 ## The Heinous Background of WHO Director-General Tedros Adhanom Ghebreyesus
  - [https://www.rodefshalom613.org/2020/10/the-heinous-background-of-who-director-general-tedros-adhanom-ghebreyesus/](https://www.rodefshalom613.org/2020/10/the-heinous-background-of-who-director-general-tedros-adhanom-ghebreyesus/)
@@ -1100,7 +1112,7 @@
  - [https://observers.france24.com/en/europe/20220106-debunked-covid-19-migrant-coffins-documentary-bergamo](https://observers.france24.com/en/europe/20220106-debunked-covid-19-migrant-coffins-documentary-bergamo)
  - date published: 2020-04-01 07:43:17+00:00
  - user: rumpel
- - tags: ['misinformation', 'wuhan', 'propaganda', 'fear mongering', 'disinformation', 'covid']
+ - tags: ['propaganda', 'misinformation', 'wuhan', 'fearmongering', 'covid', 'disinformation']
 
 ## Are You a Slave to your Software Knowledge?
  - [https://sagegerard.com/stop-learning-so-much.html](https://sagegerard.com/stop-learning-so-much.html)
@@ -1204,11 +1216,23 @@
  - user: rumpel
  - tags: ['quarantine', 'covid', 'australia']
 
+## How to Survive the 21st Century - Yuval Noah Harari | Open Transcripts
+ - [http://opentranscripts.org/transcript/survive-21st-century/](http://opentranscripts.org/transcript/survive-21st-century/)
+ - date published: 2020-01-24 19:03:56+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence', 'hacking people', 'algorithms', 'yuval noah harari', 'world economic forum']
+
 ## Disturbing Footages Show People Collapsing in Virus-Hit Chinese City of Wuhan
  - [https://www.tasnimnews.com/en/news/2020/01/24/2188257/disturbing-footages-show-people-collapsing-in-virus-hit-chinese-city-of-wuhan](https://www.tasnimnews.com/en/news/2020/01/24/2188257/disturbing-footages-show-people-collapsing-in-virus-hit-chinese-city-of-wuhan)
  - date published: 2020-01-24 07:54:11+00:00
  - user: rumpel
  - tags: ['lableak', 'wuhan', 'propaganda', 'fearmongering', 'covid']
+
+## Yuval Noah Harari: How to Survive the 21st Century- Davos 2020
+ - [https://www.youtube.com/watch?v=gG6WnMb9Fho](https://www.youtube.com/watch?v=gG6WnMb9Fho)
+ - date published: 2020-01-24 00:00:00+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence', 'hacking people', 'algorithms', 'yuval noah harari', 'world economic forum']
 
 ## The Secretive Company That Might End Privacy as We Know It - The New York Times
  - [https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html](https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html)

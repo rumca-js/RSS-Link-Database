@@ -74,7 +74,7 @@
  - [https://mashable.com/archive/edward-snowden-revelations#EX._mWvT8kq3](https://mashable.com/archive/edward-snowden-revelations#EX._mWvT8kq3)
  - date published: 2014-06-05 14:55:15+00:00
  - user: rumpel
- - tags: ['edward snowden', 'prism', 'surveillance', 'big brother']
+ - tags: ['surveillance', 'bigbrother', 'prism', 'edward snowden']
 
 ## Facebook Could Decide an Election Without Anyone Ever Finding Out
  - [https://newrepublic.com/article/117878/information-fiduciary-solution-facebook-digital-gerrymandering](https://newrepublic.com/article/117878/information-fiduciary-solution-facebook-digital-gerrymandering)

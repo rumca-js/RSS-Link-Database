@@ -118,6 +118,12 @@
  - user: rumpel
  - tags: ['paedophilia', 'lgbt', 'daniel cohn-bendit']
 
+## Justin Trudeau said he admired China’s dictatorship. Canadians should have believed him - The Maine Wire
+ - [https://www.themainewire.com/2022/02/justin-trudeau-said-he-admired-chinas-dictatorship-canadians-should-have-believed-him/](https://www.themainewire.com/2022/02/justin-trudeau-said-he-admired-chinas-dictatorship-canadians-should-have-believed-him/)
+ - date published: 2013-04-13 15:37:35+00:00
+ - user: rumpel
+ - tags: ['canada', 'justin trudeau']
+
 ## The Untouchables (full documentary) | FRONTLINE
  - [https://www.youtube.com/watch?v=B4TWN54KqfQ](https://www.youtube.com/watch?v=B4TWN54KqfQ)
  - date published: 2013-03-04 22:56:07+00:00

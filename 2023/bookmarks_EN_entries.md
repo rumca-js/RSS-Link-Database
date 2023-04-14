@@ -1,14 +1,44 @@
+## YouTube-Dl Hosting Ban Paves the Way to Privatized Censorship
+ - [https://torrentfreak.com/youtube-dl-hosting-ban-paves-the-way-to-privatized-censorship-230411/](https://torrentfreak.com/youtube-dl-hosting-ban-paves-the-way-to-privatized-censorship-230411/)
+ - date published: 2023-04-13 10:19:39+00:00
+ - user: rumpel
+ - tags: ['open source', 'youtube-dl', 'github']
+
 ## WHY Companies MUST be WOKE or REALLY GO BROKE
  - [https://www.youtube.com/watch?v=uCYdKeajDdU](https://www.youtube.com/watch?v=uCYdKeajDdU)
  - date published: 2023-04-12 20:00:09+00:00
  - user: rumpel
  - tags: ['blackrock', 'esg', 'woke']
 
+## Alex Berenson Sues Biden, Pfizer Board Member Over Twitter Ban
+ - [https://www.theepochtimes.com/alex-berenson-sues-biden-pfizer-board-member-over-twitter-ban_5189521.html](https://www.theepochtimes.com/alex-berenson-sues-biden-pfizer-board-member-over-twitter-ban_5189521.html)
+ - date published: 2023-04-12 15:39:24+00:00
+ - user: rumpel
+ - tags: ['twitter', 'bigbrother', 'censorship', 'pfizer', 'corporatocracy']
+
 ## GPT-4 Outperforms Elite Crowdworkers, Saving Researchers $500k and 20k hours
  - [https://www.artisana.ai/articles/gpt-4-outperforms-elite-crowdworkers-saving-researchers-usd500-000-and-20](https://www.artisana.ai/articles/gpt-4-outperforms-elite-crowdworkers-saving-researchers-usd500-000-and-20)
  - date published: 2023-04-11 23:09:42+00:00
  - user: rumpel
  - tags: ['artificial intelligence', 'gpt4']
+
+## CDC “behavior change” project targeted vaccine critics, was funded by Pfizer and New York “Misinformation Response Unit”
+ - [https://reclaimthenet.org/cdc-behavior-change-project-targeted-vaccine-critics](https://reclaimthenet.org/cdc-behavior-change-project-targeted-vaccine-critics)
+ - date published: 2023-04-11 18:01:23+00:00
+ - user: rumpel
+ - tags: ['manufacturing consent', 'misinformation response unit', 'cdc', 'censorship']
+
+## FBI documents associate internet slang like ‘based’ and ‘red pill’ with ‘extremism’
+ - [https://www.adelaidenow.com.au/technology/online/fbi-documents-associate-internet-slang-like-based-and-red-pill-with-extremism/news-story/ddd80d4878aaae8b033e24286cf3577a](https://www.adelaidenow.com.au/technology/online/fbi-documents-associate-internet-slang-like-based-and-red-pill-with-extremism/news-story/ddd80d4878aaae8b033e24286cf3577a)
+ - date published: 2023-04-11 07:24:51+00:00
+ - user: rumpel
+ - tags: ['newspeak', 'propaganda', 'fbi']
+
+## Based and redpilled: the FBI links internet slang to violent extremism | Dazed
+ - [https://www.dazeddigital.com/life-culture/article/59622/1/based-and-redpilled-the-fbi-links-internet-slang-to-violent-extremism-incel](https://www.dazeddigital.com/life-culture/article/59622/1/based-and-redpilled-the-fbi-links-internet-slang-to-violent-extremism-incel)
+ - date published: 2023-04-11 07:23:38+00:00
+ - user: rumpel
+ - tags: ['newspeak', 'propaganda', 'fbi']
 
 ## India to require US social media platforms to abide by government-run fact-checker
  - [https://reclaimthenet.org/india-to-require-us-social-media-platforms-to-abide-by-government-run-fact-checker](https://reclaimthenet.org/india-to-require-us-social-media-platforms-to-abide-by-government-run-fact-checker)
@@ -20,7 +50,7 @@
  - [https://www.youtube.com/watch?v=nLIp4wd0oXs](https://www.youtube.com/watch?v=nLIp4wd0oXs)
  - date published: 2023-04-09 17:11:24+00:00
  - user: rumpel
- - tags: ['hacking']
+ - tags: ['flipper zero', 'hacking']
 
 ## W 2030 r. możesz nie kupić żadnego samochodu. Nawet elektryka. Tak Bruksela namieszała
  - [https://spidersweb.pl/bizblog/w-2030-r-nie-kupimy-zadnego-samochodu/](https://spidersweb.pl/bizblog/w-2030-r-nie-kupimy-zadnego-samochodu/)
@@ -34,11 +64,23 @@
  - user: rumpel
  - tags: ['psychology', 'free will']
 
+## Amazon Bans Flipper Zero, Claiming It Violates Policy Against Card Skimming Devices
+ - [https://gizmodo.com/amazon-bans-flipper-zero-card-skimming-on-tiktok-1850313284](https://gizmodo.com/amazon-bans-flipper-zero-card-skimming-on-tiktok-1850313284)
+ - date published: 2023-04-07 20:00:43+00:00
+ - user: rumpel
+ - tags: ['flipper zero', 'hacking']
+
 ## Tesla workers shared images from car cameras, including “scenes of intimacy”
  - [https://arstechnica.com/tech-policy/2023/04/tesla-workers-shared-images-from-car-cameras-including-scenes-of-intimacy/](https://arstechnica.com/tech-policy/2023/04/tesla-workers-shared-images-from-car-cameras-including-scenes-of-intimacy/)
  - date published: 2023-04-06 17:46:54+00:00
  - user: rumpel
  - tags: ['tesla', 'privacy']
+
+## JPMorgan CEO suggests government seize private property to quicken climate initiatives
+ - [https://www.foxnews.com/media/jp-morgan-ceo-suggests-government-seize-private-property-quicken-climate-initiatives](https://www.foxnews.com/media/jp-morgan-ceo-suggests-government-seize-private-property-quicken-climate-initiatives)
+ - date published: 2023-04-06 17:30:45+00:00
+ - user: rumpel
+ - tags: ['climate change']
 
 ## Ontario Party Pushes Law Prohibiting Protests Near Drag Shows
  - [https://www.breitbart.com/europe/2023/04/06/ontario-party-pushes-law-banning-protests-near-drag-shows-and-2slgbtqi-events-fines-up-to-25000/](https://www.breitbart.com/europe/2023/04/06/ontario-party-pushes-law-banning-protests-near-drag-shows-and-2slgbtqi-events-fines-up-to-25000/)
@@ -411,6 +453,12 @@
  - date published: 2023-03-24 06:21:32+00:00
  - user: rumpel
  - tags: ['digital money', 'tech control', 'cbdc']
+
+## Ford will lose $3 billion on electric vehicles in 2023, it says | Ars Technica
+ - [https://arstechnica.com/cars/2023/03/ford-will-lose-3-billion-on-electric-vehicles-in-2023-it-says/](https://arstechnica.com/cars/2023/03/ford-will-lose-3-billion-on-electric-vehicles-in-2023-it-says/)
+ - date published: 2023-03-23 14:09:59+00:00
+ - user: rumpel
+ - tags: ['climate change', 'electric vehicles']
 
 ## Statistical and Numerical Errors Made by the US Centers for Disease Control and Prevention During the COVID-19 Pandemic by Kelley Krohnert, Alyson Haslam, Tracy Beth Hoeg, Vinay Prasad :: SSRN
  - [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4381627](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4381627)
@@ -1280,7 +1328,7 @@
  - [https://www.itv.com/news/2023-02-20/what-is-a-15-minute-city-and-why-is-the-idea-so-controversial](https://www.itv.com/news/2023-02-20/what-is-a-15-minute-city-and-why-is-the-idea-so-controversial)
  - date published: 2023-02-21 07:10:41+00:00
  - user: rumpel
- - tags: ['15minutecity', 'pollution', 'climate change']
+ - tags: ['15minutecities', 'pollution', 'climate change']
 
 ## The Age of Advertising Must Come to an End
  - [https://antoniomelonio.substack.com/p/the-age-of-advertising-must-come](https://antoniomelonio.substack.com/p/the-age-of-advertising-must-come)
@@ -1665,6 +1713,12 @@
  - date published: 2023-02-06 13:01:42+00:00
  - user: rumpel
  - tags: ['atmosphere', 'climate change', 'sun-dimming', 'solar radiation modification']
+
+## Cyber Apocalypse 2023: Is The World Heading For A “Catastrophic” Event?
+ - [https://www.forbes.com/sites/bernardmarr/2023/02/06/cyber-apocalypse-2023-is-the-world-heading-for-a-catastrophic-event/](https://www.forbes.com/sites/bernardmarr/2023/02/06/cyber-apocalypse-2023-is-the-world-heading-for-a-catastrophic-event/)
+ - date published: 2023-02-06 07:16:35+00:00
+ - user: rumpel
+ - tags: ['fearmongering', 'wrold economic forum', 'cyber apocalypse']
 
 ## Study links adoption of EV with less air pollution and improved health
  - [https://keck.usc.edu/study-links-adoption-of-electric-vehicles-with-less-air-pollution-and-improved-health/](https://keck.usc.edu/study-links-adoption-of-electric-vehicles-with-less-air-pollution-and-improved-health/)
@@ -2462,7 +2516,7 @@
  - [https://thehackernews.com/2023/01/tiktok-fined-54-million-by-french.html](https://thehackernews.com/2023/01/tiktok-fined-54-million-by-french.html)
  - date published: 2023-01-14 05:01:00+00:00
  - user: rumpel
- - tags: ['privacy', 'techfeudalism', 'bigtech']
+ - tags: ['bigtech', 'privacy', 'technofeudalism']
 
 ## Meta sues “scraping-for-hire” service that sells user data to law enforcement
  - [https://arstechnica.com/?p=1910046](https://arstechnica.com/?p=1910046)
@@ -2498,7 +2552,7 @@
  - [https://www.openmediavault.org/](https://www.openmediavault.org/)
  - date published: 2023-01-13 20:21:37+00:00
  - user: rumpel
- - tags: ['localcloud', 'digital bunker', 'selfhost']
+ - tags: ['openmediavault', 'network attached storage', 'selfhost']
 
 ## CutiePi tablet - Raspberry Pi, Untethered
  - [https://cutiepi.io/](https://cutiepi.io/)

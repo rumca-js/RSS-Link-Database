@@ -304,6 +304,12 @@
  - user: rumpel
  - tags: ['nancy pelosi']
 
+## World Economic Forum simulates global cyberattack that could bring about “Great Reset” – NaturalNews.com
+ - [https://naturalnews.com/2021-12-16-world-economic-forum-global-cyberattack-great-reset.html](https://naturalnews.com/2021-12-16-world-economic-forum-global-cyberattack-great-reset.html)
+ - date published: 2021-12-16 19:13:31+00:00
+ - user: rumpel
+ - tags: ['fearmongering', 'wrold economic forum', 'cyber apocalypse']
+
 ## Joe Biden said in July that if you get vaccinated, you will not get COVID | Washington Examiner
  - [https://www.washingtonexaminer.com/opinion/in-july-joe-biden-said-that-if-you-get-vaccinated-you-will-not-get-covid](https://www.washingtonexaminer.com/opinion/in-july-joe-biden-said-that-if-you-get-vaccinated-you-will-not-get-covid)
  - date published: 2021-12-16 15:23:21+00:00
@@ -710,7 +716,7 @@
  - [https://www.theblaze.com/news/bill-gates-bankroll-media-outlets](https://www.theblaze.com/news/bill-gates-bankroll-media-outlets)
  - date published: 2021-11-18 20:46:37+00:00
  - user: rumpel
- - tags: ['media', 'manufacturing consent', 'billionaries', 'bill gates']
+ - tags: ['billionaires', 'manufacturing consent', 'bill gates', 'media']
 
 ## ‘The algorithm has primacy over media … over each of us, and it controls what we do’
  - [https://hls.harvard.edu/today/the-algorithm-has-primacy-over-media-over-each-of-us-and-it-controls-what-we-do/](https://hls.harvard.edu/today/the-algorithm-has-primacy-over-media-over-each-of-us-and-it-controls-what-we-do/)
@@ -1952,7 +1958,7 @@
  - [https://deadline.com/2021/09/joe-rogan-covid-test-dave-chappelle-tour-vaccinations-1234825866/](https://deadline.com/2021/09/joe-rogan-covid-test-dave-chappelle-tour-vaccinations-1234825866/)
  - date published: 2021-09-04 20:05:15+00:00
  - user: rumpel
- - tags: ['disinformation', 'smear campaign', 'joe rogan', 'covid', 'big brother']
+ - tags: ['bigbrother', 'covid', 'smear campaign', 'joe rogan', 'disinformation']
 
 ## Covid: What do parents think about vaccinating children? - BBC News
  - [https://www.bbc.co.uk/news/uk-58447040](https://www.bbc.co.uk/news/uk-58447040)
@@ -2096,7 +2102,7 @@
  - [https://mobile.twitter.com/kylejohnmorris/status/1431714982782066688](https://mobile.twitter.com/kylejohnmorris/status/1431714982782066688)
  - date published: 2021-08-29 08:33:45.240263+00:00
  - user: Thomas Pain
- - tags: ['censorhip', 'facebok', 'vaccine', 'covid']
+ - tags: ['facebook', 'covid', 'vaccine', 'censorhip']
 
 ## The real OnlyFans scandal is the unaccountable power of platforms and banks | Jillian C York | The Guardian
  - [https://www.theguardian.com/commentisfree/2021/aug/28/onlyfans-scandal-platforms-banks-ban-sexual-content-sex-workers](https://www.theguardian.com/commentisfree/2021/aug/28/onlyfans-scandal-platforms-banks-ban-sexual-content-sex-workers)
@@ -2385,6 +2391,12 @@
  - date published: 2021-08-19 14:10:44.514106+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Grading Celebrities on How Much They’ve Hyped the Vaccine | Glamour
+ - [https://www.glamour.com/story/celebrities-who-have-gotten-the-vaccine](https://www.glamour.com/story/celebrities-who-have-gotten-the-vaccine)
+ - date published: 2021-08-18 15:29:24+00:00
+ - user: rumpel
+ - tags: ['propaganda', 'covid', 'vaccine']
 
 ## All the Ways Spotify Tracks You—and How to Stop It | WIRED
  - [https://www.wired.com/story/spotify-tracking-how-to-stop-it/](https://www.wired.com/story/spotify-tracking-how-to-stop-it/)
@@ -2792,7 +2804,7 @@
  - [https://www.nicolletinvest.com/navigator/the-ties-that-bind-blackrock-and-biden](https://www.nicolletinvest.com/navigator/the-ties-that-bind-blackrock-and-biden)
  - date published: 2021-07-21 22:50:01+00:00
  - user: rumpel
- - tags: ['blackrock', 'manufacturing consent', 'corporatocracy', 'biden']
+ - tags: ['blackrock', 'joe biden', 'corporatocracy', 'manufacturing consent']
 
 ## Covid in Scotland: Surgery backlog 'could take years' to tackle - BBC News
  - [https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-57903174](https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-57903174)
@@ -3272,7 +3284,7 @@
  - [https://www.youtube.com/watch?v=OHE442ISkUU](https://www.youtube.com/watch?v=OHE442ISkUU)
  - date published: 2021-06-25 22:14:30+00:00
  - user: rumpel
- - tags: ['virtue signalling', 'gender', 'woke', 'white privilage', 'joe rogan', 'sexism']
+ - tags: ['virtue signalling', 'gender', 'woke', 'white privilege', 'joe rogan', 'sexism']
 
 ## Is Jesus Historical? What Do The Romans Say About Him?
  - [https://www.youtube.com/watch?v=A41Tm5FDKns](https://www.youtube.com/watch?v=A41Tm5FDKns)
@@ -3316,6 +3328,12 @@
  - user: rumpel
  - tags: ['hackers', 'lazarus', 'north korea']
 
+## Colossal Financial Pyramid: BlackRock and The WEF "Great Reset" - Global ResearchGlobal Research - Centre for Research on Globalization
+ - [https://www.globalresearch.ca/more-blackrock-than-you-might-imagine/5748159](https://www.globalresearch.ca/more-blackrock-than-you-might-imagine/5748159)
+ - date published: 2021-06-20 19:15:23+00:00
+ - user: rumpel
+ - tags: ['blackrock', 'world economic forum', 'great reset']
+
 ## ‘CDC has been wrong all along, and they knew it’, says Ron DeSantis as judge rules CDC can’t regulate cruises | The Independent
  - [https://www.independent.co.uk/news/world/americas/cdc-florida-covid-cruise-judge-b1869088.html](https://www.independent.co.uk/news/world/americas/cdc-florida-covid-cruise-judge-b1869088.html)
  - date published: 2021-06-19 19:30:04+00:00
@@ -3345,6 +3363,18 @@
  - date published: 2021-06-10 20:21:13+00:00
  - user: rumpel
  - tags: ['distancing', 'covid']
+
+## UK government loses legal battle over transparency of ‘Orwellian’ unit | Freedom of information | The Guardian
+ - [https://www.theguardian.com/politics/2021/jun/08/uk-government-loses-legal-battle-transparency-orwellian-unit](https://www.theguardian.com/politics/2021/jun/08/uk-government-loses-legal-battle-transparency-orwellian-unit)
+ - date published: 2021-06-08 19:46:59+00:00
+ - user: rumpel
+ - tags: ['bigbrother', 'censorship', 'orwell', 'surveillance', 'covid', 'clearing house']
+
+## Judge slams Michael Gove’s office as openDemocracy wins transparency court case | openDemocracy
+ - [https://www.opendemocracy.net/en/freedom-of-information/foi-clearing-house-michael-gove-cabinet-office-opendemocracy-wins-court-case-uk-government/](https://www.opendemocracy.net/en/freedom-of-information/foi-clearing-house-michael-gove-cabinet-office-opendemocracy-wins-court-case-uk-government/)
+ - date published: 2021-06-08 19:44:41+00:00
+ - user: rumpel
+ - tags: ['bigbrother', 'censorship', 'orwell', 'surveillance', 'covid', 'clearing house']
 
 ## Bats and Pangolins not sold at Wuhan markets, says Oxford research
  - [https://www.oxfordstudent.com/2021/06/08/bats-and-pangolins-not-sold-at-wuhan-markets-says-oxford-research/](https://www.oxfordstudent.com/2021/06/08/bats-and-pangolins-not-sold-at-wuhan-markets-says-oxford-research/)
@@ -3512,7 +3542,7 @@
  - [https://edition.cnn.com/2021/05/21/business/covid-vaccine-billionaires/index.html](https://edition.cnn.com/2021/05/21/business/covid-vaccine-billionaires/index.html)
  - date published: 2021-05-21 20:15:15+00:00
  - user: rumpel
- - tags: ['billionaires', 'manufacturing consent', 'big pfarma', 'covid', 'vaccine']
+ - tags: ['manufacturing consent', 'vaccine', 'billionaires', 'big pharma', 'covid']
 
 ## World Economic Forum Urges Companies To Fire Unvaccinated Employees As Part of ‘Jobs Reset,’ Deletes Tweet After Backlash
  - [https://nationalfile.com/world-economic-forum-urges-companies-to-fire-unvaccinated-employees-as-part-of-jobs-reset-deletes-tweet-after-backlash/](https://nationalfile.com/world-economic-forum-urges-companies-to-fire-unvaccinated-employees-as-part-of-jobs-reset-deletes-tweet-after-backlash/)
@@ -3555,6 +3585,12 @@
  - date published: 2021-05-16 09:06:10+00:00
  - user: None
  - tags: ['fauci', 'transmission', 'covid']
+
+## Vaccine passports: why they are good for society
+ - [https://theconversation.com/vaccine-passports-why-they-are-good-for-society-160419](https://theconversation.com/vaccine-passports-why-they-are-good-for-society-160419)
+ - date published: 2021-05-15 15:30:27+00:00
+ - user: rumpel
+ - tags: ['propaganda', 'covid', 'vaccine']
 
 ## Neuroscience Professor Removed From APA Discussion After Saying There Are Only Two Sexes
  - [https://www.newsweek.com/neuroscience-professor-removed-apa-discussion-after-saying-there-are-only-two-genders-1591697](https://www.newsweek.com/neuroscience-professor-removed-apa-discussion-after-saying-there-are-only-two-genders-1591697)
@@ -3728,7 +3764,7 @@
  - [https://www.youtube.com/watch?v=HvD0TgE34HA](https://www.youtube.com/watch?v=HvD0TgE34HA)
  - date published: 2021-04-15 07:28:02+00:00
  - user: rumpel
- - tags: ['global warning', 'climate change', 'all time']
+ - tags: ['all time', 'climate change', 'global warming']
 
 ## CNN staffer tells Project Veritas network played up COVID-19 death toll for ratings
  - [https://nypost.com/2021/04/14/cnn-staffer-tells-project-veritas-network-played-up-covid-19-death-toll-for-ratings/](https://nypost.com/2021/04/14/cnn-staffer-tells-project-veritas-network-played-up-covid-19-death-toll-for-ratings/)
@@ -3824,7 +3860,7 @@
  - [https://www.nytimes.com/2021/03/24/world/covid-coverage-by-the-us-national-media-is-an-outlier-a-study-finds.html](https://www.nytimes.com/2021/03/24/world/covid-coverage-by-the-us-national-media-is-an-outlier-a-study-finds.html)
  - date published: 2021-03-24 21:37:41+00:00
  - user: rumpel
- - tags: ['covid', 'fear mongering', 'media', 'scienceisdead', 'propaganda']
+ - tags: ['scienceisdead', 'propaganda', 'media', 'fearmongering', 'covid']
 
 ## Biden calls for gun control following Boulder shooting – DW – 03/23/2021
  - [https://www.dw.com/en/colorado-shooting-us-president-joe-biden-calls-for-gun-control/a-56963483](https://www.dw.com/en/colorado-shooting-us-president-joe-biden-calls-for-gun-control/a-56963483)
@@ -3962,7 +3998,7 @@
  - [https://www.dailymail.co.uk/news/article-9272929/Biden-COVID-adviser-explain-closed-California-isnt-doing-better-open-Florida.html](https://www.dailymail.co.uk/news/article-9272929/Biden-COVID-adviser-explain-closed-California-isnt-doing-better-open-Florida.html)
  - date published: 2021-02-18 21:28:10+00:00
  - user: rumpel
- - tags: ['lockdown', 'california', 'biden', 'florida', 'covid']
+ - tags: ['california', 'lockdown', 'joe biden', 'florida', 'covid']
 
 ## Opinion | Don’t Go Down the Rabbit Hole - The New York Times
  - [https://www.nytimes.com/2021/02/18/opinion/fake-news-media-attention.html](https://www.nytimes.com/2021/02/18/opinion/fake-news-media-attention.html)
@@ -4124,7 +4160,7 @@
  - [https://www.nbcnews.com/tech/tech-news/how-facebook-twitter-decided-take-down-trump-s-accounts-n1254317](https://www.nbcnews.com/tech/tech-news/how-facebook-twitter-decided-take-down-trump-s-accounts-n1254317)
  - date published: 2021-01-14 13:13:13+00:00
  - user: rumpel
- - tags: ['twitter', 'bigbrother', 'censorship', 'facebook', 'collusion', 'extremism', 'jan6', 'moderation']
+ - tags: ['moderation', 'twitter', 'facebook', 'bigbrother', 'january 6', 'censorship', 'collusion', 'extremism']
 
 ## Cyberfaszyzm
  - [https://polityko.com/2021/01/13/cyberfaszyzm/](https://polityko.com/2021/01/13/cyberfaszyzm/)
