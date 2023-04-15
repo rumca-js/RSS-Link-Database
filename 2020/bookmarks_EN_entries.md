@@ -4,6 +4,12 @@
  - user: None
  - tags: ['bigbrother', 'covid']
 
+## Section 215 Expired: Year in Review 2020 | Electronic Frontier Foundation
+ - [https://www.eff.org/deeplinks/2020/12/section-215-expired-year-review-2020](https://www.eff.org/deeplinks/2020/12/section-215-expired-year-review-2020)
+ - date published: 2020-12-29 15:10:10+00:00
+ - user: rumpel
+ - tags: ['tech control', 'big brother', 'patriot act', 'surveillance']
+
 ## UK: Only 377 people under 60 without preexisting conditions have died of COVID in Eng.
  - [https://twitter.com/Fox_Claire/status/1342847212208984065](https://twitter.com/Fox_Claire/status/1342847212208984065)
  - date published: 2020-12-26 21:03:33+00:00
@@ -686,7 +692,7 @@
  - [https://www.reuters.com/article/health-coronavirus-germany-vaccine-idUSKBN2661KP](https://www.reuters.com/article/health-coronavirus-germany-vaccine-idUSKBN2661KP)
  - date published: 2020-08-15 21:59:40+00:00
  - user: rumpel
- - tags: ['pfizer', 'vaccine', 'biontech', 'covid profit']
+ - tags: ['pfizer', 'covid', 'vaccine', 'biontech']
 
 ## Why is no one safe until everyone is safe during a pandemic? | Gavi, the Vaccine Alliance
  - [https://www.gavi.org/vaccineswork/why-no-one-safe-until-everyone-safe-during-pandemic](https://www.gavi.org/vaccineswork/why-no-one-safe-until-everyone-safe-during-pandemic)
@@ -776,7 +782,7 @@
  - [https://www.reuters.com/article/us-health-coronavirus-moderna-funding-idUSKCN24R0IN](https://www.reuters.com/article/us-health-coronavirus-moderna-funding-idUSKCN24R0IN)
  - date published: 2020-07-26 22:02:16+00:00
  - user: rumpel
- - tags: ['moderna', 'vaccine', 'covid profit']
+ - tags: ['moderna', 'covid', 'vaccine']
 
 ## Legal Docs: St. Louis Prosecutor Tampered With Evidence In McCloskey Gun Case
  - [https://thefederalist.com/2020/07/23/legal-docs-st-louis-prosecutor-tampered-with-evidence-in-mccloskey-gun-case](https://thefederalist.com/2020/07/23/legal-docs-st-louis-prosecutor-tampered-with-evidence-in-mccloskey-gun-case)
@@ -957,6 +963,12 @@
  - date published: 2020-06-15 07:31:10+00:00
  - user: None
  - tags: ['berlin', 'government', 'paedophilia']
+
+## The New York Times Used to Be a Model of Diverse Opinion. What Happened?  - POLITICO
+ - [https://www.politico.com/news/magazine/2020/06/14/how-the-new-york-times-survived-the-1960s-316530](https://www.politico.com/news/magazine/2020/06/14/how-the-new-york-times-survived-the-1960s-316530)
+ - date published: 2020-06-14 14:37:12+00:00
+ - user: rumpel
+ - tags: ['new york times']
 
 ## Christopher Columbus statues are being beheaded and torn down during Black Lives Matter protests
  - [https://www.insider.com/christopher-columbus-statues-vandalized-during-protests-2020-6](https://www.insider.com/christopher-columbus-statues-vandalized-during-protests-2020-6)

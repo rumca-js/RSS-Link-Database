@@ -46,6 +46,12 @@
  - user: rumpel
  - tags: ['bigbrother', 'afganistan', 'america', 'war', 'data leak']
 
+## Nestlé drives rainforest destruction pushing orangutans to brink of extinction - Greenpeace USA
+ - [https://www.greenpeace.org/usa/news/nestle-drives-rainforest-destr/](https://www.greenpeace.org/usa/news/nestle-drives-rainforest-destr/)
+ - date published: 2010-07-06 12:23:40+00:00
+ - user: rumpel
+ - tags: ['climate change', 'palm oil', 'nestle', 'pollution']
+
 ## Google mistakenly collected WiFi data on unsecured networks - May. 14, 2010
  - [https://money.cnn.com/2010/05/14/technology/Google_mistaken_wifi_collection/index.htm](https://money.cnn.com/2010/05/14/technology/Google_mistaken_wifi_collection/index.htm)
  - date published: 2010-05-14 08:48:45+00:00

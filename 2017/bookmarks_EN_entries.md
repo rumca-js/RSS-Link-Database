@@ -104,7 +104,7 @@
  - [https://www.youtube.com/watch?v=4jef2C4T1_A](https://www.youtube.com/watch?v=4jef2C4T1_A)
  - date published: 2017-10-04 20:58:00+00:00
  - user: rumpel
- - tags: ['lgbt', 'peterson', 'homosexual', 'gay']
+ - tags: ['gay', 'lgbt', 'jordan peterson', 'homosexual']
 
 ## 47 White Guilt Propaganda Tactics Used by Media and Political Elites to Push for Third World Immigration; motives
  - [https://isgp-studies.com/immigration-white-guilt-warfare-manual](https://isgp-studies.com/immigration-white-guilt-warfare-manual)
@@ -128,7 +128,7 @@
  - [https://www.youtube.com/watch?v=Zy4a8T45GiQ](https://www.youtube.com/watch?v=Zy4a8T45GiQ)
  - date published: 2017-09-18 20:18:08+00:00
  - user: rumpel
- - tags: ['feminism', 'peterson']
+ - tags: ['feminism', 'jordan peterson']
 
 ## Ridley Scott Tells the REAL REASON Why David Hates Humans and Engineers
  - [https://www.youtube.com/watch?v=UsEs1PwpU8Y](https://www.youtube.com/watch?v=UsEs1PwpU8Y)
@@ -200,7 +200,7 @@
  - [https://www.youtube.com/watch?v=f5rUPatnXSE](https://www.youtube.com/watch?v=f5rUPatnXSE)
  - date published: 2017-08-12 16:19:07+00:00
  - user: None
- - tags: ['peterson', 'politicalcorrectness']
+ - tags: ['jordan peterson', 'political correctness']
 
 ## James Damore: The fired Google engineer wrote his memo after he went to a 'shaming,' 'secretive' diversity program
  - [https://www.businessinsider.com/james-damore-wrote-his-memo-after-attending-a-google-diversity-programme-2017-8?IR=T](https://www.businessinsider.com/james-damore-wrote-his-memo-after-attending-a-google-diversity-programme-2017-8?IR=T)

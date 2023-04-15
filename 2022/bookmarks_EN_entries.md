@@ -320,7 +320,7 @@
  - [https://www.dailywire.com/news/joe-rogans-podcast-shows-horrifying-slave-conditions-used-to-mine-materials-needed-for-electric-cars](https://www.dailywire.com/news/joe-rogans-podcast-shows-horrifying-slave-conditions-used-to-mine-materials-needed-for-electric-cars)
  - date published: 2022-12-24 16:37:37+00:00
  - user: rumpel
- - tags: ['electric vehicles', 'climate drama', 'climate change']
+ - tags: ['slave labour', 'electric vehicles', 'climate drama', 'climate change']
 
 ## Lessons from COVID require tough questions
  - [http://www.msn.com/en-us/news/politics/lessons-from-covid-require-tough-questions/ar-AA15D1Qo?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/lessons-from-covid-require-tough-questions/ar-AA15D1Qo?li=BBnbcA1&srcref=rss)
@@ -722,7 +722,7 @@
  - [https://www.dailymail.co.uk/news/article-11552469/Emails-FBI-repeatedly-grilled-Twitter-execs-state-propaganda-app.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11552469/Emails-FBI-repeatedly-grilled-Twitter-execs-state-propaganda-app.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2022-12-19 00:36:52+00:00
  - user: None
- - tags: ['fbi', 'surveillance', 'government', 'twitter', 'censorship']
+ - tags: ['propaganda', 'twitter', 'fbi', 'government', 'censorship', 'surveillance']
 
 ## Biodiversity: 'Anything adopted at the COP15 will be compromised before even being signed'
  - [https://www.lemonde.fr/en/opinion/article/2022/12/19/biodiversity-anything-adopted-at-the-cop15-will-be-compromised-before-even-being-signed_6008248_23.html](https://www.lemonde.fr/en/opinion/article/2022/12/19/biodiversity-anything-adopted-at-the-cop15-will-be-compromised-before-even-being-signed_6008248_23.html)
@@ -884,7 +884,7 @@
  - [https://thehackernews.com/2022/12/ex-twitter-employee-gets-35-years-jail.html](https://thehackernews.com/2022/12/ex-twitter-employee-gets-35-years-jail.html)
  - date published: 2022-12-16 13:08:00+00:00
  - user: None
- - tags: ['twitter']
+ - tags: ['twitter', 'espionage']
 
 ## Tech giants band together to set up open-source mapping platform
  - [https://www.techradar.com/news/tech-giants-band-together-to-set-up-open-source-mapping-platform](https://www.techradar.com/news/tech-giants-band-together-to-set-up-open-source-mapping-platform)
@@ -1298,7 +1298,7 @@
  - [https://www.foxnews.com/opinion/twitter-files-overlooked-finding-dorsey-zuckerberg-half-america-shrug-censorship](https://www.foxnews.com/opinion/twitter-files-overlooked-finding-dorsey-zuckerberg-half-america-shrug-censorship)
  - date published: 2022-12-10 12:00:09+00:00
  - user: None
- - tags: ['twitter', 'twitter files']
+ - tags: ['twitter', 'twitter files', 'censorship']
 
 ## Keep Your Identity Small (2009)
  - [http://www.paulgraham.com/identity.html](http://www.paulgraham.com/identity.html)
@@ -2462,7 +2462,7 @@
  - [https://www.youtube.com/watch?v=D5X0tAecfF4](https://www.youtube.com/watch?v=D5X0tAecfF4)
  - date published: 2022-11-14 17:08:04+00:00
  - user: None
- - tags: ['marxism', 'peterson', 'woke']
+ - tags: ['esg', 'woke', 'jordan peterson', 'marxism']
 
 ## Google Agrees to $392 Million Privacy Settlement With 40 States
  - [https://www.nytimes.com/2022/11/14/technology/google-privacy-settlement.html](https://www.nytimes.com/2022/11/14/technology/google-privacy-settlement.html)
@@ -2558,7 +2558,7 @@
  - [https://www.dailywire.com/news/dr-jordan-b-peterson-social-media-is-part-of-pollution-of-the-domain-of-public-discourse](https://www.dailywire.com/news/dr-jordan-b-peterson-social-media-is-part-of-pollution-of-the-domain-of-public-discourse)
  - date published: 2022-11-12 18:09:52+00:00
  - user: None
- - tags: ['peterson', 'social media']
+ - tags: ['social media', 'jordan peterson']
 
 ## Browsers, JSON, and FormData - Jim Nielsen’s Blog
  - [https://blog.jim-nielsen.com/2022/browsers-json-formdata/](https://blog.jim-nielsen.com/2022/browsers-json-formdata/)
@@ -3284,7 +3284,7 @@
  - [https://www.dailywire.com/news/twitter-blows-up-at-professor-after-demanding-pandemic-amnesty-in-atlantic-op-ed](https://www.dailywire.com/news/twitter-blows-up-at-professor-after-demanding-pandemic-amnesty-in-atlantic-op-ed)
  - date published: 2022-10-31 14:53:53+00:00
  - user: None
- - tags: ['twitter', 'pandemic amnesty']
+ - tags: ['pandemic amnesty', 'twitter', 'covid']
 
 ## Egypt's farmers fear rising social tensions over scarce water | Reuters
  - [https://www.reuters.com/business/cop/egypts-farmers-fear-rising-social-tensions-over-scarce-water-2022-10-31/](https://www.reuters.com/business/cop/egypts-farmers-fear-rising-social-tensions-over-scarce-water-2022-10-31/)
@@ -3500,7 +3500,7 @@
  - [https://www.youtube.com/watch?v=tF5spyudTYA](https://www.youtube.com/watch?v=tF5spyudTYA)
  - date published: 2022-10-28 20:25:45+00:00
  - user: None
- - tags: ['climate change', 'all time', 'peterson', 'environmentalism']
+ - tags: ['jordan peterson', 'climate change', 'all time', 'environmentalism']
 
 ## Conduct probe exonerates scientist accused of obscuring pandemic’s origin
  - [https://www.science.org/content/article/nam-exonerates-daszak](https://www.science.org/content/article/nam-exonerates-daszak)
@@ -4550,7 +4550,7 @@
  - [https://apnews.com/article/fact-check-pfizer-transmission-european-parliament-950413863226](https://apnews.com/article/fact-check-pfizer-transmission-european-parliament-950413863226)
  - date published: 2022-10-13 21:59:50+00:00
  - user: None
- - tags: ['pfizer', 'biden lie', 'fauci lie', 'covid']
+ - tags: ['transmission', 'pfizer', 'covid']
 
 ## Meta’s New Headset Will Track Your Eyes for Targeted Ads
  - [https://gizmodo.com/meta-quest-pro-vr-headset-track-eyes-ads-facebook-1849654424](https://gizmodo.com/meta-quest-pro-vr-headset-track-eyes-ads-facebook-1849654424)
@@ -8710,6 +8710,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## New data shows newspaper revenues down sharply | The Hill
+ - [https://thehill.com/homenews/state-watch/3517259-new-data-shows-newspaper-revenues-down-sharply/](https://thehill.com/homenews/state-watch/3517259-new-data-shows-newspaper-revenues-down-sharply/)
+ - date published: 2022-06-09 14:10:23+00:00
+ - user: rumpel
+ - tags: ['digital media', 'digital transformation', 'legacy media', 'media']
+
 ## I’ve locked myself out of my digital life – Terence Eden’s Blog
  - [https://shkspr.mobi/blog/2022/06/ive-locked-myself-out-of-my-digital-life/](https://shkspr.mobi/blog/2022/06/ive-locked-myself-out-of-my-digital-life/)
  - date published: 2022-06-08 05:56:41.312238+00:00
@@ -10004,7 +10010,7 @@
  - [https://www.theverge.com/2022/3/31/23004339/uk-twitter-user-sentenced-grossly-offensive-tweet-tom-moore-joseph-kelly](https://www.theverge.com/2022/3/31/23004339/uk-twitter-user-sentenced-grossly-offensive-tweet-tom-moore-joseph-kelly)
  - date published: 2022-04-02 08:09:30.108971+00:00
  - user: Thomas Pain
- - tags: ['twitter', 'hate speech']
+ - tags: ['twitter', 'hate speech', 'censorship']
 
 ## A few things to know before stealing my 914 - Hagerty Media
  - [https://www.hagerty.com/media/advice/a-few-things-to-know-before-you-steal-my-914/](https://www.hagerty.com/media/advice/a-few-things-to-know-before-you-steal-my-914/)
@@ -10364,7 +10370,7 @@
  - [https://www.youtube.com/watch?v=fHxV_YURY28](https://www.youtube.com/watch?v=fHxV_YURY28)
  - date published: 2022-03-11 22:00:32+00:00
  - user: rumpel
- - tags: ['bigpharma', 'pandemic', 'covid profit']
+ - tags: ['pandemic', 'covid', 'big pharma']
 
 ## Azure moves ahead of AWS in cloud adoption – report • The Register
  - [https://www.theregister.com/2022/03/09/state_of_cloud_survey/](https://www.theregister.com/2022/03/09/state_of_cloud_survey/)

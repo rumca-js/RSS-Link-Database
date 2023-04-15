@@ -1,3 +1,9 @@
+## NOP czy nie NOP? Nagle przestała chodzić. Pfizer: Ściśle monitorujemy takie zdarzenia
+ - [https://wydarzenia.interia.pl/kraj/news-nop-czy-nie-nop-nagle-przestala-chodzic-pfizer-scisle-monito,nId,6704142](https://wydarzenia.interia.pl/kraj/news-nop-czy-nie-nop-nagle-przestala-chodzic-pfizer-scisle-monito,nId,6704142)
+ - date published: 2023-04-14 04:59:46+00:00
+ - user: rumpel
+ - tags: ['pfizer', 'covid', 'vaccine']
+
 ## NOP – niepożądany odczyn poszczepienny. Czym jest i jak często występuje? - Szczepienie przeciwko COVID-19 - Portal Gov.pl
  - [https://www.gov.pl/web/szczepimysie/niepozadane-odczyny-poszczepienne](https://www.gov.pl/web/szczepimysie/niepozadane-odczyny-poszczepienne)
  - date published: 2023-04-13 07:21:29+00:00

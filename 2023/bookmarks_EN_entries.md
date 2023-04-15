@@ -1,3 +1,33 @@
+## Assassination Classroom Has Been Banned in Florida and Wisconsin Schools
+ - [https://www.cbr.com/assassination-classroom-banned-florida-wisconsin/](https://www.cbr.com/assassination-classroom-banned-florida-wisconsin/)
+ - date published: 2023-04-14 19:30:21+00:00
+ - user: rumpel
+ - tags: ['fahrenheit 451']
+
+## Farmers Win the Right to Repair Their Own Tractors in Colorado
+ - [https://www.vice.com/en/article/wxj5nz/farmers-win-the-right-to-repair-their-own-tractors-in-colorado](https://www.vice.com/en/article/wxj5nz/farmers-win-the-right-to-repair-their-own-tractors-in-colorado)
+ - date published: 2023-04-14 13:30:25+00:00
+ - user: rumpel
+ - tags: ['right to repair']
+
+## Why The New York Times Is Collapsing: The Coming NYT Crisis
+ - [https://www.youtube.com/watch?v=_wJ3ZqQVgtg](https://www.youtube.com/watch?v=_wJ3ZqQVgtg)
+ - date published: 2023-04-14 10:08:32+00:00
+ - user: rumpel
+ - tags: ['manufacturing consent', 'digital transformation', 'new york times', 'blackrock', 'digital media']
+
+## Universal Declaration of Human Rights | United Nations
+ - [https://www.un.org/en/about-us/universal-declaration-of-human-rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights)
+ - date published: 2023-04-14 06:39:06+00:00
+ - user: rumpel
+ - tags: ['human rights', 'privacy']
+
+## Your iPhone Was Built with Child Labor
+ - [https://www.thefp.com/p/your-iphone-was-built-with-child](https://www.thefp.com/p/your-iphone-was-built-with-child)
+ - date published: 2023-04-14 01:16:15+00:00
+ - user: rumpel
+ - tags: ['slave labour', 'smartphone', 'child labour']
+
 ## YouTube-Dl Hosting Ban Paves the Way to Privatized Censorship
  - [https://torrentfreak.com/youtube-dl-hosting-ban-paves-the-way-to-privatized-censorship-230411/](https://torrentfreak.com/youtube-dl-hosting-ban-paves-the-way-to-privatized-censorship-230411/)
  - date published: 2023-04-13 10:19:39+00:00
@@ -15,6 +45,12 @@
  - date published: 2023-04-12 15:39:24+00:00
  - user: rumpel
  - tags: ['twitter', 'bigbrother', 'censorship', 'pfizer', 'corporatocracy']
+
+## TRADING WITH THE ENEMY - Seymour Hersh
+ - [https://seymourhersh.substack.com/p/trading-with-the-enemy](https://seymourhersh.substack.com/p/trading-with-the-enemy)
+ - date published: 2023-04-12 06:53:54+00:00
+ - user: rumpel
+ - tags: ['war', 'ukraine']
 
 ## GPT-4 Outperforms Elite Crowdworkers, Saving Researchers $500k and 20k hours
  - [https://www.artisana.ai/articles/gpt-4-outperforms-elite-crowdworkers-saving-researchers-usd500-000-and-20](https://www.artisana.ai/articles/gpt-4-outperforms-elite-crowdworkers-saving-researchers-usd500-000-and-20)
@@ -310,11 +346,23 @@
  - user: rumpel
  - tags: ['covid', 'vaccine']
 
+## Opinion | Dr. Fauci Could Have Said a Lot More - The New York Times
+ - [https://www.nytimes.com/2023/03/28/opinion/covid-lab-leak-theory-disinformation.html](https://www.nytimes.com/2023/03/28/opinion/covid-lab-leak-theory-disinformation.html)
+ - date published: 2023-03-28 14:33:40+00:00
+ - user: rumpel
+ - tags: ['covid', 'fauci', 'wuhan']
+
 ## AI could replace equivalent of 300 million jobs - report - BBC News
  - [https://www.bbc.com/news/technology-65102150?utm_source=bankier.pl&utm_medium=content&utm_campaign=article](https://www.bbc.com/news/technology-65102150?utm_source=bankier.pl&utm_medium=content&utm_campaign=article)
  - date published: 2023-03-28 12:33:11+00:00
  - user: rumpel
  - tags: ['artificial intelligence']
+
+## Musk is remaking Twitter into a climate denier sanctuary – Ketan Joshi
+ - [https://ketanjoshi.co/2023/03/28/musk-is-remaking-twitter-into-a-climate-denier-sanctuary/](https://ketanjoshi.co/2023/03/28/musk-is-remaking-twitter-into-a-climate-denier-sanctuary/)
+ - date published: 2023-03-28 11:02:40+00:00
+ - user: rumpel
+ - tags: ['twitter', 'climate change', 'elon musk']
 
 ## How the world is turning against social media
  - [https://www.theguardian.com/technology/2023/mar/28/techscape-france-tiktok-ban-facebook](https://www.theguardian.com/technology/2023/mar/28/techscape-france-tiktok-ban-facebook)
@@ -566,7 +614,7 @@
  - [https://www.foxnews.com/media/latest-twitter-files-tackle-great-covid-19-lie-machine-flagging-true-content-disinformation](https://www.foxnews.com/media/latest-twitter-files-tackle-great-covid-19-lie-machine-flagging-true-content-disinformation)
  - date published: 2023-03-17 17:39:58+00:00
  - user: rumpel
- - tags: ['twitter files', 'covid', 'twitter']
+ - tags: ['twitter', 'twitter files', 'disinformation', 'covid']
 
 ## Most January 6 footage aired by Tucker Carlson wasn't reviewed by Capitol Police first, USCP attorney says | CNN Politics
  - [https://edition.cnn.com/2023/03/17/politics/fox-news-january-6-footage-capitol-police/index.html](https://edition.cnn.com/2023/03/17/politics/fox-news-january-6-footage-capitol-police/index.html)
@@ -1766,7 +1814,7 @@
  - [https://www.youtube.com/watch?v=L_cjujecPsE](https://www.youtube.com/watch?v=L_cjujecPsE)
  - date published: 2023-02-02 23:38:02+00:00
  - user: rumpel
- - tags: ['future', 'monopoly', 'peterson', 'climate change', 'corporatocracy']
+ - tags: ['future', 'monopoly', 'climate change', 'corporatocracy', 'jordan peterson']
 
 ## Trump vs Biden: ChatGPT is as biased as the people working on AI bots
  - [https://www.firstpost.com/world/bias-in-ai-bots-chatgpt-writes-poem-admiring-joe-biden-refuses-to-write-one-admiring-donald-trump-12088662.html](https://www.firstpost.com/world/bias-in-ai-bots-chatgpt-writes-poem-admiring-joe-biden-refuses-to-write-one-admiring-donald-trump-12088662.html)
@@ -1970,7 +2018,7 @@
  - [https://www.bleepingcomputer.com/news/security/us-no-fly-list-shared-on-a-hacking-forum-government-investigating/](https://www.bleepingcomputer.com/news/security/us-no-fly-list-shared-on-a-hacking-forum-government-investigating/)
  - date published: 2023-01-30 15:17:40+00:00
  - user: rumpel
- - tags: ['noprivacy', 'data leak', 'hack']
+ - tags: ['data leak', 'hack']
 
 ## Utah bans gender-affirming surgery for young trans people
  - [https://www.theguardian.com/us-news/2023/jan/30/utah-gender-affirming-care-ban-law](https://www.theguardian.com/us-news/2023/jan/30/utah-gender-affirming-care-ban-law)
@@ -2186,7 +2234,7 @@
  - [https://www.dedigger.com/](https://www.dedigger.com/)
  - date published: 2023-01-23 14:20:43+00:00
  - user: rumpel
- - tags: ['google', 'noprivacy']
+ - tags: ['privacy', 'google']
 
 ## Judge questions clarity of new California law targeting doctors who share COVID-19 misinformation
  - [https://www.sacbee.com/news/politics-government/article271502447.html](https://www.sacbee.com/news/politics-government/article271502447.html)
@@ -2355,6 +2403,12 @@
  - date published: 2023-01-18 07:00:38+00:00
  - user: rumpel
  - tags: ['lgbt', 'woke', 'hate speech', 'movies', 'racism']
+
+## Investigation: Ukraine buys huge amounts of Russian fuels from Bulgaria – EURACTIV.com
+ - [https://www.euractiv.com/section/global-europe/news/investigation-ukraine-buys-huge-amounts-of-russian-fuels-from-bulgaria/](https://www.euractiv.com/section/global-europe/news/investigation-ukraine-buys-huge-amounts-of-russian-fuels-from-bulgaria/)
+ - date published: 2023-01-18 06:59:10+00:00
+ - user: rumpel
+ - tags: ['war', 'ukraine']
 
 ## Stop feeding the hype and start resisting
  - [https://irisvanrooijcogsci.com/2023/01/14/stop-feeding-the-hype-and-start-resisting/](https://irisvanrooijcogsci.com/2023/01/14/stop-feeding-the-hype-and-start-resisting/)
@@ -2870,7 +2924,7 @@
  - [https://www.louderwithcrowder.com/jordan-peterson-releases-complaint](https://www.louderwithcrowder.com/jordan-peterson-releases-complaint)
  - date published: 2023-01-08 15:01:12+00:00
  - user: rumpel
- - tags: ['cancel culture', 'peterson']
+ - tags: ['jordan peterson', 'cancel culture']
 
 ## Seattle schools sue tech giants over social media harm
  - [https://apnews.com/article/social-media-seattle-lawsuits-mental-health-965a8f373e3bfed8157571912cc3b542](https://apnews.com/article/social-media-seattle-lawsuits-mental-health-965a8f373e3bfed8157571912cc3b542)
@@ -3050,7 +3104,7 @@
  - [https://nypost.com/2023/01/05/jordan-peterson-could-lose-psychologist-license-if-he-refuses-social-media-re-education/](https://nypost.com/2023/01/05/jordan-peterson-could-lose-psychologist-license-if-he-refuses-social-media-re-education/)
  - date published: 2023-01-05 08:30:23+00:00
  - user: rumpel
- - tags: ['freedom', 'peterson', 'censorship']
+ - tags: ['freedom', 'jordan peterson', 'censorship']
 
 ## The WHO thinks 'anti-vaccine activism' is deadlier than terrorism
  - [https://www.msn.com/en-us/news/world/the-who-thinks-anti-vaccine-activism-is-deadlier-than-terrorism/ar-AA15Xzm5](https://www.msn.com/en-us/news/world/the-who-thinks-anti-vaccine-activism-is-deadlier-than-terrorism/ar-AA15Xzm5)

@@ -62,7 +62,7 @@
  - [https://www.bloomberg.com/opinion/articles/2021-12-29/china-s-water-shortage-is-scary-for-india-thailand-vietnam](https://www.bloomberg.com/opinion/articles/2021-12-29/china-s-water-shortage-is-scary-for-india-thailand-vietnam)
  - date published: 2021-12-29 20:39:33+00:00
  - user: rumpel
- - tags: ['pollution', 'china', 'climate change']
+ - tags: ['china', 'pollution', 'climate change', 'sweet water']
 
 ## What January 6 Insurrectionists Wanted — and What They Lost
  - [https://nymag.com/intelligencer/2021/12/january-6-insurrection-us-capitol-riots.html](https://nymag.com/intelligencer/2021/12/january-6-insurrection-us-capitol-riots.html)
@@ -1792,6 +1792,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## NYT deletes 'unsubstantiated' claim about Post's Hunter Biden report
+ - [https://nypost.com/2021/09/14/nyt-deletes-unsubstantiated-claim-about-posts-hunter-biden-report/](https://nypost.com/2021/09/14/nyt-deletes-unsubstantiated-claim-about-posts-hunter-biden-report/)
+ - date published: 2021-09-14 14:27:54+00:00
+ - user: rumpel
+ - tags: ['hunter biden', 'new york times', 'censorship']
+
 ## The Dead Internet Theory (Part 1)
  - [https://www.youtube.com/watch?v=DEn758DVF9I](https://www.youtube.com/watch?v=DEn758DVF9I)
  - date published: 2021-09-13 18:10:02+00:00
@@ -2463,6 +2469,12 @@
  - date published: 2021-08-12 07:21:11.696140+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Nestlé and Kellogg’s linked to shocking palm oil abuse in Papua New Guinea | Euronews
+ - [https://www.euronews.com/green/2021/10/08/nestle-kellogg-s-linked-to-shocking-palm-oil-abuses-in-papua-new-guinea](https://www.euronews.com/green/2021/10/08/nestle-kellogg-s-linked-to-shocking-palm-oil-abuses-in-papua-new-guinea)
+ - date published: 2021-08-10 12:22:33+00:00
+ - user: rumpel
+ - tags: ['slave labour', 'kellog', 'palm oil', 'pollution', 'climate change', 'papua new guinea', 'nestle']
 
 ## Photos, Video Leaked From Obama’s Allegedly ‘Scaled Back’ 60th Birthday Party | The Daily Wire
  - [https://www.dailywire.com/news/photos-video-leaked-from-obamas-allegedly-scaled-back-60th-birthday-party](https://www.dailywire.com/news/photos-video-leaked-from-obamas-allegedly-scaled-back-60th-birthday-party)
@@ -3622,6 +3634,12 @@
  - user: rumpel
  - tags: ['china', 'weapon', 'covid']
 
+## How the New York Times publishes lies to serve a biased narrative
+ - [https://nypost.com/2021/05/08/how-the-new-york-times-publishes-lies-to-serve-a-biased-narrative/](https://nypost.com/2021/05/08/how-the-new-york-times-publishes-lies-to-serve-a-biased-narrative/)
+ - date published: 2021-05-08 14:31:12+00:00
+ - user: rumpel
+ - tags: ['big brother', 'manufacturing consent', 'new york times', 'ministry of truth']
+
 ## EU signs deal with Pfizer for up to 1.8 billion COVID vaccine doses
  - [https://nypost.com/2021/05/08/eu-signs-deal-with-pfizer-for-up-to-1-8b-covid-vaccine-doses/](https://nypost.com/2021/05/08/eu-signs-deal-with-pfizer-for-up-to-1-8b-covid-vaccine-doses/)
  - date published: 2021-05-08 07:40:19+00:00
@@ -3951,6 +3969,12 @@
  - date published: 2021-03-08 08:09:50+00:00
  - user: rumpel
  - tags: ['woke', 'newspeak', 'orwell']
+
+## Ex-Times Reporter Who Used Racial Slur Publishes a Lengthy Defense - The New York Times
+ - [https://www.nytimes.com/2021/03/01/business/donald-mcneil-new-york-times-racial-slur.html](https://www.nytimes.com/2021/03/01/business/donald-mcneil-new-york-times-racial-slur.html)
+ - date published: 2021-03-01 14:25:55+00:00
+ - user: rumpel
+ - tags: ['america', 'hate speech', 'racism']
 
 ## The real reason why Bill Gates is now the US’ biggest farmland owner
  - [https://nypost.com/2021/02/27/why-bill-gates-is-now-the-us-biggest-farmland-owner/](https://nypost.com/2021/02/27/why-bill-gates-is-now-the-us-biggest-farmland-owner/)

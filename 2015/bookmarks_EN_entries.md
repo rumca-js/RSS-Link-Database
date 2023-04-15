@@ -106,6 +106,12 @@
  - user: rumpel
  - tags: ['george soros', 'manufacturing consent', 'elite', 'billionaires', 'media']
 
+## 5 key takeaways from State of the News Media 2015 | Pew Research Center
+ - [https://www.pewresearch.org/fact-tank/2015/04/29/5-key-takeaways-from-state-of-the-news-media-2015/](https://www.pewresearch.org/fact-tank/2015/04/29/5-key-takeaways-from-state-of-the-news-media-2015/)
+ - date published: 2015-04-29 14:09:05+00:00
+ - user: rumpel
+ - tags: ['digital media', 'digital transformation', 'legacy media', 'media']
+
 ## My father was gay. Yet I oppose legalizing same-sex marriage.
  - [https://www.chicagotribune.com/news/ct-gay-marriage-canada-oppose-perspec-0422-jm-20150421-story.html](https://www.chicagotribune.com/news/ct-gay-marriage-canada-oppose-perspec-0422-jm-20150421-story.html)
  - date published: 2015-04-22 20:47:17+00:00

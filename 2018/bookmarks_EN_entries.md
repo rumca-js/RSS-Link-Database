@@ -308,7 +308,7 @@
  - [https://www.youtube.com/watch?v=Ddzf9Mm4hdY](https://www.youtube.com/watch?v=Ddzf9Mm4hdY)
  - date published: 2018-05-17 16:37:30+00:00
  - user: rumpel
- - tags: ['feminism', 'peterson']
+ - tags: ['feminism', 'jordan peterson']
 
 ## Revealed: Ecuador spent millions on spy operation for Julian Assange
  - [https://www.theguardian.com/world/2018/may/15/revealed-ecuador-spent-millions-julian-assange-spy-operation-embassy-london](https://www.theguardian.com/world/2018/may/15/revealed-ecuador-spent-millions-julian-assange-spy-operation-embassy-london)
@@ -422,7 +422,7 @@
  - [https://www.youtube.com/watch?v=PRYvqrWcmmE](https://www.youtube.com/watch?v=PRYvqrWcmmE)
  - date published: 2018-04-03 12:35:07+00:00
  - user: rumpel
- - tags: ['inequality', 'google', 'damore', 'peterson', 'feminism']
+ - tags: ['inequality', 'damore', 'feminism', 'jordan peterson', 'google']
 
 ## It's not just Facebook. Thousands of companies are spying on you (opinion) | CNN
  - [https://edition.cnn.com/2018/03/26/opinions/data-company-spying-opinion-schneier/index.html](https://edition.cnn.com/2018/03/26/opinions/data-company-spying-opinion-schneier/index.html)
@@ -490,6 +490,12 @@
  - user: rumpel
  - tags: ['woke', 'pronouns', 'newspeak']
 
+## Did the Chief Executive Officer of Nestlé Say Water Is Not a Human Right? | Snopes.com
+ - [https://www.snopes.com/fact-check/nestle-ceo-water-not-human-right/](https://www.snopes.com/fact-check/nestle-ceo-water-not-human-right/)
+ - date published: 2018-01-18 12:10:38+00:00
+ - user: rumpel
+ - tags: ['sweet water', 'climate change', 'nestle']
+
 ## How Tencent became the world's most valuable social network firm – with barely any advertising
  - [https://theconversation.com/how-tencent-became-the-worlds-most-valuable-social-network-firm-with-barely-any-advertising-90334](https://theconversation.com/how-tencent-became-the-worlds-most-valuable-social-network-firm-with-barely-any-advertising-90334)
  - date published: 2018-01-18 11:13:42+00:00
@@ -506,7 +512,7 @@
  - [https://www.youtube.com/watch?v=aMcjxSThD54](https://www.youtube.com/watch?v=aMcjxSThD54)
  - date published: 2018-01-16 16:34:58+00:00
  - user: rumpel
- - tags: ['feminism', 'inequality', 'peterson', 'cathy newman']
+ - tags: ['cathy newman', 'feminism', 'jordan peterson', 'inequality']
 
 ## Tencent, the $500bn Chinese tech firm you may never have heard of
  - [https://www.theguardian.com/business/2018/jan/13/tencent-the-500bn-chinese-tech-firm-you-may-never-have-heard-of](https://www.theguardian.com/business/2018/jan/13/tencent-the-500bn-chinese-tech-firm-you-may-never-have-heard-of)
