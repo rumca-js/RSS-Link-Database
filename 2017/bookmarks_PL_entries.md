@@ -28,6 +28,12 @@
  - user: rumpel
  - tags: ['bigbrother', 'germany']
 
+## Szef Ringier Axel Springer instruuje swoich dziennikarzy, jak oceniać polski rząd. Wysłał specjalny list
+ - [https://www.tysol.pl/a5495-szef-ringier-axel-springer-instruuje-swoich-dziennikarzy-jak-oceniac-polski-rzad-wyslal-specjalny-list](https://www.tysol.pl/a5495-szef-ringier-axel-springer-instruuje-swoich-dziennikarzy-jak-oceniac-polski-rzad-wyslal-specjalny-list)
+ - date published: 2017-03-17 07:40:17+00:00
+ - user: rumpel
+ - tags: ['axel springer', 'media', 'manufacturing consent']
+
 ## Kanclerz Merkel zapomniała, co Niemcy robią z mediami w Polsce
  - [https://spidersweb.pl/2017/02/niemieckie-media-w-polsce.html](https://spidersweb.pl/2017/02/niemieckie-media-w-polsce.html)
  - date published: 2017-02-08 11:57:10+00:00

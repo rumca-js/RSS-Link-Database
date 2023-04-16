@@ -1,3 +1,9 @@
+## Montana on cusp of becoming first state to block TikTok downloads
+ - [https://www.nbcnews.com/tech/internet/montana-passes-bill-blocking-users-downloading-tiktok-rcna79622](https://www.nbcnews.com/tech/internet/montana-passes-bill-blocking-users-downloading-tiktok-rcna79622)
+ - date published: 2023-04-14 21:06:36+00:00
+ - user: rumpel
+ - tags: ['tiktok', 'china']
+
 ## Assassination Classroom Has Been Banned in Florida and Wisconsin Schools
  - [https://www.cbr.com/assassination-classroom-banned-florida-wisconsin/](https://www.cbr.com/assassination-classroom-banned-florida-wisconsin/)
  - date published: 2023-04-14 19:30:21+00:00
@@ -28,11 +34,29 @@
  - user: rumpel
  - tags: ['slave labour', 'smartphone', 'child labour']
 
+## ‘I’m all for climate change’: Axel Springer CEO faces heat over leaked messages
+ - [https://www.theguardian.com/world/2023/apr/13/axel-springer-ceo-mathias-dopfner-leaked-messages-reported](https://www.theguardian.com/world/2023/apr/13/axel-springer-ceo-mathias-dopfner-leaked-messages-reported)
+ - date published: 2023-04-13 14:39:56+00:00
+ - user: rumpel
+ - tags: ['leak', 'media', 'manufacturing consent', 'axel springer', 'germany']
+
 ## YouTube-Dl Hosting Ban Paves the Way to Privatized Censorship
  - [https://torrentfreak.com/youtube-dl-hosting-ban-paves-the-way-to-privatized-censorship-230411/](https://torrentfreak.com/youtube-dl-hosting-ban-paves-the-way-to-privatized-censorship-230411/)
  - date published: 2023-04-13 10:19:39+00:00
  - user: rumpel
  - tags: ['open source', 'youtube-dl', 'github']
+
+## Axel Springer CEO tried to use Bild to influence the outcome of Germany’s election, leaked messages show | Nieman Journalism Lab
+ - [https://www.niemanlab.org/reading/axel-springer-ceo-tried-to-use-bild-to-influence-the-outcome-of-germanys-election-leaked-messages-show/](https://www.niemanlab.org/reading/axel-springer-ceo-tried-to-use-bild-to-influence-the-outcome-of-germanys-election-leaked-messages-show/)
+ - date published: 2023-04-13 07:43:34+00:00
+ - user: rumpel
+ - tags: ['elections', 'axel springer', 'media', 'germany']
+
+## U.S., Western allies have special forces in Ukraine, leaked documents show | Fortune
+ - [https://fortune.com/2023/04/12/us-nato-special-forces-military-ukraine-leaked-documents/](https://fortune.com/2023/04/12/us-nato-special-forces-military-ukraine-leaked-documents/)
+ - date published: 2023-04-12 20:49:25+00:00
+ - user: rumpel
+ - tags: ['leak', 'war', 'ukraine']
 
 ## WHY Companies MUST be WOKE or REALLY GO BROKE
  - [https://www.youtube.com/watch?v=uCYdKeajDdU](https://www.youtube.com/watch?v=uCYdKeajDdU)
@@ -105,6 +129,12 @@
  - date published: 2023-04-07 20:00:43+00:00
  - user: rumpel
  - tags: ['flipper zero', 'hacking']
+
+## Countries worldwide are dropping the US dollar: De-dollarization in China, Russia, Brazil, ASEAN - Geopolitical Economy Report
+ - [https://geopoliticaleconomy.com/2023/04/06/dedollarization-china-russia-brazil-asean/](https://geopoliticaleconomy.com/2023/04/06/dedollarization-china-russia-brazil-asean/)
+ - date published: 2023-04-06 20:54:59+00:00
+ - user: rumpel
+ - tags: ['china', 'dollar', 'asean', 'brasil', 'russia']
 
 ## Tesla workers shared images from car cameras, including “scenes of intimacy”
  - [https://arstechnica.com/tech-policy/2023/04/tesla-workers-shared-images-from-car-cameras-including-scenes-of-intimacy/](https://arstechnica.com/tech-policy/2023/04/tesla-workers-shared-images-from-car-cameras-including-scenes-of-intimacy/)
@@ -320,7 +350,7 @@
  - [https://www.foxbusiness.com/markets/brazil-china-strike-trade-deal-agreement-ditch-us-dollar](https://www.foxbusiness.com/markets/brazil-china-strike-trade-deal-agreement-ditch-us-dollar)
  - date published: 2023-03-29 17:20:40+00:00
  - user: rumpel
- - tags: ['china', 'brasil']
+ - tags: ['china', 'dollar', 'brasil']
 
 ## 'Patriot Act on Steroids:' Conservatives Slam RESTRICT Act on Social Media
  - [https://www.breitbart.com/tech/2023/03/29/patriot-act-on-steroids-conservatives-slam-restrict-act-on-social-media/](https://www.breitbart.com/tech/2023/03/29/patriot-act-on-steroids-conservatives-slam-restrict-act-on-social-media/)
