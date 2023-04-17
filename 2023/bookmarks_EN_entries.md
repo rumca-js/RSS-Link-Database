@@ -1,3 +1,9 @@
+## Robert F. Kennedy Jr: “CBDCs are the ultimate mechanisms for social surveillance and control”
+ - [https://reclaimthenet.org/rfk-jr-cbdcs-surveillance-control](https://reclaimthenet.org/rfk-jr-cbdcs-surveillance-control)
+ - date published: 2023-04-14 23:22:57+00:00
+ - user: rumpel
+ - tags: ['big brother', 'surveillance', 'cbdc']
+
 ## Montana on cusp of becoming first state to block TikTok downloads
  - [https://www.nbcnews.com/tech/internet/montana-passes-bill-blocking-users-downloading-tiktok-rcna79622](https://www.nbcnews.com/tech/internet/montana-passes-bill-blocking-users-downloading-tiktok-rcna79622)
  - date published: 2023-04-14 21:06:36+00:00
@@ -9,6 +15,12 @@
  - date published: 2023-04-14 19:30:21+00:00
  - user: rumpel
  - tags: ['fahrenheit 451']
+
+## Netherlands to broaden euthanasia rules to cover children of all ages
+ - [https://www.theguardian.com/society/2023/apr/14/netherlands-to-broaden-euthanasia-rules-to-cover-children-of-all-ages](https://www.theguardian.com/society/2023/apr/14/netherlands-to-broaden-euthanasia-rules-to-cover-children-of-all-ages)
+ - date published: 2023-04-14 15:20:50+00:00
+ - user: rumpel
+ - tags: ['euthanasia', 'netherlands']
 
 ## Farmers Win the Right to Repair Their Own Tractors in Colorado
  - [https://www.vice.com/en/article/wxj5nz/farmers-win-the-right-to-repair-their-own-tractors-in-colorado](https://www.vice.com/en/article/wxj5nz/farmers-win-the-right-to-repair-their-own-tractors-in-colorado)
@@ -33,6 +45,12 @@
  - date published: 2023-04-14 01:16:15+00:00
  - user: rumpel
  - tags: ['slave labour', 'smartphone', 'child labour']
+
+## Biden Administration is sued, accused of pressuring Twitter to censor journalist Alex Berenson
+ - [https://reclaimthenet.org/alex-berenson-sues-biden-administration-censorship](https://reclaimthenet.org/alex-berenson-sues-biden-administration-censorship)
+ - date published: 2023-04-13 18:17:14+00:00
+ - user: rumpel
+ - tags: ['alex berenson', 'covid', 'twitter', 'censorship']
 
 ## ‘I’m all for climate change’: Axel Springer CEO faces heat over leaked messages
  - [https://www.theguardian.com/world/2023/apr/13/axel-springer-ceo-mathias-dopfner-leaked-messages-reported](https://www.theguardian.com/world/2023/apr/13/axel-springer-ceo-mathias-dopfner-leaked-messages-reported)
@@ -357,6 +375,12 @@
  - date published: 2023-03-29 06:04:09+00:00
  - user: rumpel
  - tags: ['restrict act', 'tech control']
+
+## Politicians, journalists are locked out of Twitter for tweets about trans shooter targeting Nashville Christian school
+ - [https://reclaimthenet.org/twitter-censors-tweets-nashville-shooter](https://reclaimthenet.org/twitter-censors-tweets-nashville-shooter)
+ - date published: 2023-03-29 02:34:25+00:00
+ - user: rumpel
+ - tags: ['trans', 'woke', 'hate speech', 'christianophobia']
 
 ## Microsoft's Software Is Malware
  - [https://www.gnu.org/proprietary/malware-microsoft.en.html](https://www.gnu.org/proprietary/malware-microsoft.en.html)

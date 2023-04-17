@@ -1,3 +1,9 @@
+## Dziesięć Przykazań Okultu - Kamienny Monument z Georgia (Georgia Guide Stone) - Artykuł Radio Liberty
+ - [http://www.grazingsheep.com/polski/radio-liberty/kamienny-monument-georgia-guidestones.asp](http://www.grazingsheep.com/polski/radio-liberty/kamienny-monument-georgia-guidestones.asp)
+ - date published: 2001-11-16 10:25:43+00:00
+ - user: rumpel
+ - tags: ['new age', 'secret societies', 'occult', 'georgia guide stone']
+
 ## Surveillance Under the USA/PATRIOT Act | American Civil Liberties Union
  - [https://www.aclu.org/other/surveillance-under-usapatriot-act](https://www.aclu.org/other/surveillance-under-usapatriot-act)
  - date published: 2001-10-26 06:06:03+00:00

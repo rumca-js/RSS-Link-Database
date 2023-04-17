@@ -1124,7 +1124,7 @@
  - [https://observers.france24.com/en/europe/20220106-debunked-covid-19-migrant-coffins-documentary-bergamo](https://observers.france24.com/en/europe/20220106-debunked-covid-19-migrant-coffins-documentary-bergamo)
  - date published: 2020-04-01 07:43:17+00:00
  - user: rumpel
- - tags: ['propaganda', 'misinformation', 'wuhan', 'fearmongering', 'covid', 'disinformation']
+ - tags: ['wuhan', 'fearmongering', 'bergamo', 'misinformation', 'disinformation', 'propaganda', 'covid']
 
 ## Are You a Slave to your Software Knowledge?
  - [https://sagegerard.com/stop-learning-so-much.html](https://sagegerard.com/stop-learning-so-much.html)
@@ -1149,6 +1149,12 @@
  - date published: 2020-03-20 14:11:41+00:00
  - user: None
  - tags: $tags
+
+## Did Video Show Italian Army Trucks Transporting Coffins Amid COVID-19 Pandemic? | Snopes.com
+ - [https://www.snopes.com/fact-check/italy-army-coffins-coronavirus/](https://www.snopes.com/fact-check/italy-army-coffins-coronavirus/)
+ - date published: 2020-03-16 08:13:33+00:00
+ - user: rumpel
+ - tags: ['bergamo', 'covid']
 
 ## An assistant professor says he was fired because he dared to talk about human population variation and got slandered as a eugenicist.
  - [https://www.insidehighered.com/news/2020/03/12/assistant-professor-says-hes-been-fired-because-he-dared-talk-about-human-population](https://www.insidehighered.com/news/2020/03/12/assistant-professor-says-hes-been-fired-because-he-dared-talk-about-human-population)
@@ -1179,6 +1185,12 @@
  - date published: 2020-02-21 21:54:24+00:00
  - user: rumpel
  - tags: ['feminism', 'family', 'christianophobia']
+
+## Cały świat to widział. Ciężarówki z trumnami wyjeżdżały jedna za drugą - Sport WP SportoweFakty
+ - [https://sportowefakty.wp.pl/pilka-nozna/1045427/ciezarowki-z-trumnami-wyjezdzaly-jedna-za-druga-caly-swiat-to-widzial](https://sportowefakty.wp.pl/pilka-nozna/1045427/ciezarowki-z-trumnami-wyjezdzaly-jedna-za-druga-caly-swiat-to-widzial)
+ - date published: 2020-02-19 07:54:22+00:00
+ - user: rumpel
+ - tags: ['italy', 'bergamo', 'covid']
 
 ## Why YOUTUBE is DYING (Creatively and Artistically)
  - [https://www.youtube.com/watch?v=Ln1qbgZz_TQ](https://www.youtube.com/watch?v=Ln1qbgZz_TQ)

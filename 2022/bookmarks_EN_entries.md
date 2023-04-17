@@ -7642,6 +7642,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Twitter Becomes a Tool of Government Censorship - WSJ
+ - [https://www.wsj.com/articles/twitter-becomes-a-tool-of-government-censors-alex-berenson-twitter-facebook-ban-covid-misinformation-first-amendment-psaki-murthy-section-230-antitrust-11660732095](https://www.wsj.com/articles/twitter-becomes-a-tool-of-government-censors-alex-berenson-twitter-facebook-ban-covid-misinformation-first-amendment-psaki-murthy-section-230-antitrust-11660732095)
+ - date published: 2022-08-17 08:35:54+00:00
+ - user: rumpel
+ - tags: ['big brother', 'manufacturing consent', 'alex berenson', 'orwell', 'ministry of truth', 'censorship', 'covid', 'twitter']
+
 ## Using the Same Arch Linux Installation for a Decade
  - [https://meribold.org/2022/08/16/same-arch-linux-installation-for-a-decade/](https://meribold.org/2022/08/16/same-arch-linux-installation-for-a-decade/)
  - date published: 2022-08-16 22:26:00.566773+00:00
@@ -8313,6 +8319,12 @@
  - date published: 2022-07-08 11:42:11.310492+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Georgia Guidestones: 'America's Stonehenge' demolished after blast - BBC News
+ - [https://www.bbc.com/news/world-us-canada-62073675](https://www.bbc.com/news/world-us-canada-62073675)
+ - date published: 2022-07-07 10:27:42+00:00
+ - user: rumpel
+ - tags: ['secret societies', 'georgia guide stone', 'conspiracy theories']
 
 ## Maya Forstater: Woman discriminated against over trans tweets, tribunal rules - BBC News
  - [https://www.bbc.co.uk/news/uk-62061929](https://www.bbc.co.uk/news/uk-62061929)

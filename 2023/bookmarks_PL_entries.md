@@ -1,3 +1,9 @@
+## Skandal w Niemczech. Ujawniono kontrowersyjne e-maile szefa Axel Springer
+ - [https://www.bankier.pl/wiadomosc/Skandal-w-Niemczech-Ujawniono-kontrowersyjne-e-maile-szefa-Axel-Springer-8523511.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Skandal-w-Niemczech-Ujawniono-kontrowersyjne-e-maile-szefa-Axel-Springer-8523511.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - date published: 2023-04-16 10:20:00+00:00
+ - user: rumpel
+ - tags: ['axel springer']
+
 ## NOP czy nie NOP? Nagle przestała chodzić. Pfizer: Ściśle monitorujemy takie zdarzenia
  - [https://wydarzenia.interia.pl/kraj/news-nop-czy-nie-nop-nagle-przestala-chodzic-pfizer-scisle-monito,nId,6704142](https://wydarzenia.interia.pl/kraj/news-nop-czy-nie-nop-nagle-przestala-chodzic-pfizer-scisle-monito,nId,6704142)
  - date published: 2023-04-14 04:59:46+00:00

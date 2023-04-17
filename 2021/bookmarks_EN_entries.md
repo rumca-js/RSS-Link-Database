@@ -3766,6 +3766,12 @@
  - user: rumpel
  - tags: ['kids', 'lgbt', 'indoctrination', 'sexualisation']
 
+## ‘Covid is just an excuse’: the scandal of Rome’s saturated cemeteries | Italy | The Guardian
+ - [https://www.theguardian.com/world/2021/apr/29/shameful-situation-rome-cemeteries-run-out-of-space](https://www.theguardian.com/world/2021/apr/29/shameful-situation-rome-cemeteries-run-out-of-space)
+ - date published: 2021-04-19 08:16:06+00:00
+ - user: rumpel
+ - tags: ['misinformation', 'italy', 'covid']
+
 ## Breonna Taylor's mom slams BLM Louisville as a 'fraud'
  - [https://nypost.com/2021/04/17/breonna-taylors-mom-slams-blm-louisville-as-a-fraud/](https://nypost.com/2021/04/17/breonna-taylors-mom-slams-blm-louisville-as-a-fraud/)
  - date published: 2021-04-17 19:50:40+00:00
