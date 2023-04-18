@@ -70,6 +70,12 @@
  - user: rumpel
  - tags: ['elections', 'axel springer', 'media', 'germany']
 
+## “You Just Lied!” - Elon Musk DESTROYS BBC Reporter LIVE
+ - [https://www.youtube.com/watch?v=JzKA2aLvN1Q](https://www.youtube.com/watch?v=JzKA2aLvN1Q)
+ - date published: 2023-04-13 00:00:00+00:00
+ - user: rumpel
+ - tags: ['elon musk', 'propaganda', 'bbc']
+
 ## U.S., Western allies have special forces in Ukraine, leaked documents show | Fortune
  - [https://fortune.com/2023/04/12/us-nato-special-forces-military-ukraine-leaked-documents/](https://fortune.com/2023/04/12/us-nato-special-forces-military-ukraine-leaked-documents/)
  - date published: 2023-04-12 20:49:25+00:00
