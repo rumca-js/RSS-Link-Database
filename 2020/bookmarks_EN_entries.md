@@ -2,7 +2,7 @@
  - [https://summit.news/2020/12/30/uk-woman-arrested-for-filming-inside-empty-hospital/](https://summit.news/2020/12/30/uk-woman-arrested-for-filming-inside-empty-hospital/)
  - date published: 2020-12-30 07:29:04+00:00
  - user: None
- - tags: ['bigbrother', 'covid']
+ - tags: ['big brother', 'covid']
 
 ## Section 215 Expired: Year in Review 2020 | Electronic Frontier Foundation
  - [https://www.eff.org/deeplinks/2020/12/section-215-expired-year-review-2020](https://www.eff.org/deeplinks/2020/12/section-215-expired-year-review-2020)
@@ -32,7 +32,7 @@
  - [https://www.aier.org/article/who-deletes-naturally-acquired-immunity-from-its-website/](https://www.aier.org/article/who-deletes-naturally-acquired-immunity-from-its-website/)
  - date published: 2020-12-23 11:38:00+00:00
  - user: None
- - tags: ['who', 'covid', 'scienceisdead']
+ - tags: ['who', 'covid', 'science is dead']
 
 ## Writer Defends New Netflix Drama Bridgerton for Depicting Queen Charlotte as Black
  - [https://people.com/royals/writer-of-new-netflix-drama-bridgerton-defends-depicting-queen-charlotte-as-black/](https://people.com/royals/writer-of-new-netflix-drama-bridgerton-defends-depicting-queen-charlotte-as-black/)
@@ -56,7 +56,7 @@
  - [https://www.youtube.com/watch?v=vJ1cfb-5pHQ](https://www.youtube.com/watch?v=vJ1cfb-5pHQ)
  - date published: 2020-12-22 20:29:45+00:00
  - user: None
- - tags: ['google', 'bigtech']
+ - tags: ['google', 'big tech']
 
 ## Why is Facebook censoring private messages?
  - [https://www.quora.com/Why-is-Facebook-censoring-private-messages?share=1](https://www.quora.com/Why-is-Facebook-censoring-private-messages?share=1)
@@ -146,13 +146,13 @@
  - [https://thenewdaily.com.au/life/tech/2020/12/10/dutton-surveillance-bill-australia/](https://thenewdaily.com.au/life/tech/2020/12/10/dutton-surveillance-bill-australia/)
  - date published: 2020-12-10 13:10:45+00:00
  - user: None
- - tags: ['surveillance', 'bigbrother', 'privacy']
+ - tags: ['surveillance', 'big brother', 'privacy']
 
 ## Sci-fi surveillance: Europe's secretive push into biometric technology
  - [https://www.theguardian.com/world/2020/dec/10/sci-fi-surveillance-europes-secretive-push-into-biometric-technology](https://www.theguardian.com/world/2020/dec/10/sci-fi-surveillance-europes-secretive-push-into-biometric-technology)
  - date published: 2020-12-10 13:00:02+00:00
  - user: rumpel
- - tags: ['surveillance', 'corporatocracy', 'bigbrother', 'biometric']
+ - tags: ['surveillance', 'corporatocracy', 'big brother', 'biometric']
 
 ## Facebook hit with antitrust lawsuit from FTC and 48 state attorneys general - ABC News
  - [https://abcnews.go.com/Business/facebook-hit-antitrust-lawsuit-ftc-48-state-attorneys/story?id=74623634](https://abcnews.go.com/Business/facebook-hit-antitrust-lawsuit-ftc-48-state-attorneys/story?id=74623634)
@@ -290,7 +290,7 @@
  - [https://www.bloomberg.com/news/articles/2020-11-24/deals-with-apple-aapl-mozilla-show-how-google-googl-discourages-competition](https://www.bloomberg.com/news/articles/2020-11-24/deals-with-apple-aapl-mozilla-show-how-google-googl-discourages-competition)
  - date published: 2020-11-24 19:57:32+00:00
  - user: rumpel
- - tags: ['bigtech', 'google', 'manufacturing consent', 'mozilla', 'apple']
+ - tags: ['big tech', 'google', 'manufacturing consent', 'mozilla', 'apple']
 
 ## 13 law enforcement agencies that refuse to enforce California’s new curfew and why – Investment Watch
  - [https://www.investmentwatchblog.com/13-law-enforcement-agencies-that-refuse-to-enforce-californias-new-curfew-and-why/](https://www.investmentwatchblog.com/13-law-enforcement-agencies-that-refuse-to-enforce-californias-new-curfew-and-why/)
@@ -302,7 +302,7 @@
  - [https://www.opendemocracy.net/en/freedom-of-information/uk-government-running-orwellian-unit-to-block-release-of-sensitive-information/](https://www.opendemocracy.net/en/freedom-of-information/uk-government-running-orwellian-unit-to-block-release-of-sensitive-information/)
  - date published: 2020-11-23 19:43:36+00:00
  - user: rumpel
- - tags: ['bigbrother', 'censorship', 'orwell', 'surveillance', 'covid', 'clearing house']
+ - tags: ['big brother', 'censorship', 'orwell', 'surveillance', 'covid', 'clearing house']
 
 ## Post-lockdown SARS-CoV-2 nucleic acid screening in nearly ten million residents of Wuhan, China
  - [https://www.nature.com/articles/s41467-020-19802-w](https://www.nature.com/articles/s41467-020-19802-w)
@@ -346,6 +346,12 @@
  - user: None
  - tags: $tags
 
+## Covid-19 vaccines may have potentially unpleasant side effects
+ - [https://www.nbcnews.com/health/health-news/covid-19-vaccines-may-have-potentially-unpleasant-side-effects-n1247485](https://www.nbcnews.com/health/health-news/covid-19-vaccines-may-have-potentially-unpleasant-side-effects-n1247485)
+ - date published: 2020-11-12 20:08:06+00:00
+ - user: rumpel
+ - tags: $tags
+
 ## Are Babies Really Being Sold to Gay Couples in a Brussels Child Fair?
  - [https://www.albawaba.com/node/are-babies-really-being-sold-gay-couples-brussels-child-fair-1392439](https://www.albawaba.com/node/are-babies-really-being-sold-gay-couples-brussels-child-fair-1392439)
  - date published: 2020-11-12 08:45:01+00:00
@@ -356,7 +362,13 @@
  - [https://news.trust.org/item/20201110191107-tecjt/](https://news.trust.org/item/20201110191107-tecjt/)
  - date published: 2020-11-10 22:01:46+00:00
  - user: rumpel
- - tags: ['norway', 'hate speech', 'lgbt', 'trans']
+ - tags: ['norway', 'hate speech', 'lgbt', 'transgender']
+
+## Coronavirus: Britons should be paid to take COVID-19 vaccine, says Oxford professor | UK News | Sky News
+ - [https://news.sky.com/story/coronavirus-britons-should-be-paid-to-take-covid-19-vaccine-says-oxford-professor-12125012](https://news.sky.com/story/coronavirus-britons-should-be-paid-to-take-covid-19-vaccine-says-oxford-professor-12125012)
+ - date published: 2020-11-06 20:04:34+00:00
+ - user: rumpel
+ - tags: ['covid', 'vaccine']
 
 ## Netherlands uncovers network helping Ugandan asylum seekers fake being gay
  - [https://www.reuters.com/article/us-netherlands-lgbt-asylum-trfn-idUSKBN27L29M](https://www.reuters.com/article/us-netherlands-lgbt-asylum-trfn-idUSKBN27L29M)
@@ -380,7 +392,7 @@
  - [https://www.cnn.com/2020/10/30/world/epstein-donations-international-peace-institute-resign/index.html](https://www.cnn.com/2020/10/30/world/epstein-donations-international-peace-institute-resign/index.html)
  - date published: 2020-10-31 00:39:16+00:00
  - user: rumpel
- - tags: ['corporatocracy', 'epstein', 'hypocrisy', 'elites']
+ - tags: ['corporatocracy', 'jeffrey epstein', 'hypocrisy', 'elites']
 
 ## Amazon third-quarter earnings soar as pandemic sales triple profits | Amazon | The Guardian
  - [https://www.theguardian.com/technology/2020/oct/29/amazon-profits-latest-earnings-report-third-quarter-pandemic](https://www.theguardian.com/technology/2020/oct/29/amazon-profits-latest-earnings-report-third-quarter-pandemic)
@@ -404,13 +416,13 @@
  - [https://www.npr.org/2020/10/22/926290942/google-paid-apple-billions-to-dominate-search-on-iphones-justice-department-says](https://www.npr.org/2020/10/22/926290942/google-paid-apple-billions-to-dominate-search-on-iphones-justice-department-says)
  - date published: 2020-10-22 16:32:28+00:00
  - user: rumpel
- - tags: ['google', 'google search', 'apple', 'corporatocracy']
+ - tags: ['google', 'search engines', 'apple', 'corporatocracy']
 
 ## The DOJ Just Slammed Google With a Landmark Antitrust Case | Entrepreneur
  - [https://www.entrepreneur.com/business-news/the-doj-just-slammed-google-with-a-landmark-antitrust-case/358109](https://www.entrepreneur.com/business-news/the-doj-just-slammed-google-with-a-landmark-antitrust-case/358109)
  - date published: 2020-10-20 11:15:42+00:00
  - user: rumpel
- - tags: ['google', 'antitrust', 'bigtech']
+ - tags: ['google', 'antitrust', 'big tech']
 
 ## Facebook, Twitter employees send over 90% of political donations to Democrats: report | Fox News
  - [https://www.foxnews.com/politics/facebook-twitter-employees-donations-democrats](https://www.foxnews.com/politics/facebook-twitter-employees-donations-democrats)
@@ -452,7 +464,7 @@
  - [https://www.nytimes.com/2020/10/05/nyregion/us-wechat-ban.html](https://www.nytimes.com/2020/10/05/nyregion/us-wechat-ban.html)
  - date published: 2020-10-05 16:16:09+00:00
  - user: rumpel
- - tags: ['china', 'privacy', 'wechat', 'surveillance']
+ - tags: ['everything app', 'surveillance', 'technofeudalism', 'wechat', 'china', 'privacy']
 
 ## Dr Martin Feeley: I lost my job for speaking out
  - [https://www.independent.ie/world-news/coronavirus/i-lost-my-job-for-speaking-out-but-i-have-no-regrets-dr-martin-feeley-on-his-coronavirus-views-39585808.html](https://www.independent.ie/world-news/coronavirus/i-lost-my-job-for-speaking-out-but-i-have-no-regrets-dr-martin-feeley-on-his-coronavirus-views-39585808.html)
@@ -482,7 +494,7 @@
  - [https://www.privateinternetaccess.com/blog/french-bar-owners-arrested-for-offering-free-wifi-but-not-keeping-logs/](https://www.privateinternetaccess.com/blog/french-bar-owners-arrested-for-offering-free-wifi-but-not-keeping-logs/)
  - date published: 2020-09-30 13:08:38+00:00
  - user: None
- - tags: ['freedom', 'government', 'surveillance', 'bigbrother']
+ - tags: ['freedom', 'government', 'surveillance', 'big brother']
 
 ## Louisiana man, 36, is arrested when Florida parents discover he has been living in their 15-year-old daughter's closet for more than a MONTH
  - [https://www.dailymail.co.uk/news/article-8789849/Louisiana-man-living-15-year-old-Florida-girls-closet-MONTH.html](https://www.dailymail.co.uk/news/article-8789849/Louisiana-man-living-15-year-old-Florida-girls-closet-MONTH.html)
@@ -506,7 +518,7 @@
  - [https://www.vox.com/energy-and-environment/2020/9/25/21452055/climate-change-exxon-bp-shell-total-chevron-oil-gas](https://www.vox.com/energy-and-environment/2020/9/25/21452055/climate-change-exxon-bp-shell-total-chevron-oil-gas)
  - date published: 2020-09-25 12:49:31+00:00
  - user: rumpel
- - tags: ['propaganda', 'scienceisdead', 'climate change', 'media manipulation']
+ - tags: ['propaganda', 'science is dead', 'climate change', 'media manipulation']
 
 ## BLM removes website language blasting 'nuclear family structure'
  - [https://nypost.com/2020/09/24/blm-removes-website-language-blasting-nuclear-family-structure/](https://nypost.com/2020/09/24/blm-removes-website-language-blasting-nuclear-family-structure/)
@@ -530,7 +542,7 @@
  - [https://reclaimthenet.org/gates-foundation-funds-facebook-fact-checkers/](https://reclaimthenet.org/gates-foundation-funds-facebook-fact-checkers/)
  - date published: 2020-09-21 07:17:36+00:00
  - user: None
- - tags: ['bill gates', 'facebook', 'factcheck']
+ - tags: ['bill gates', 'facebook', 'fact check']
 
 ## Myth as History: Rohl's New Chronology
  - [https://notrelated.xyz/audio/s02/S02E03_-_Myth_as_History_Rohls_New_Chronology.ogg](https://notrelated.xyz/audio/s02/S02E03_-_Myth_as_History_Rohls_New_Chronology.ogg)
@@ -578,13 +590,19 @@
  - [https://www.nytimes.com/2020/09/04/technology/wechat-china-united-states.html](https://www.nytimes.com/2020/09/04/technology/wechat-china-united-states.html)
  - date published: 2020-09-04 16:12:51+00:00
  - user: rumpel
- - tags: ['wechat', 'bigbrother', 'surveillance', 'manufacturing consent', 'privacy', 'bigtech']
+ - tags: ['everything app', 'big brother', 'surveillance', 'technofeudalism', 'wechat', 'privacy', 'manufacturing consent', 'big tech']
 
 ## Portland's grim reality: 100 days of protests, many violent | AP News
  - [https://apnews.com/article/virus-outbreak-ap-top-news-race-and-ethnicity-id-state-wire-or-state-wire-b57315d97dd2146c4a89b4636faa7b70](https://apnews.com/article/virus-outbreak-ap-top-news-race-and-ethnicity-id-state-wire-or-state-wire-b57315d97dd2146c4a89b4636faa7b70)
  - date published: 2020-09-04 14:30:38+00:00
  - user: rumpel
- - tags: ['blm', 'black lives matter']
+ - tags: ['black lives matter', 'defund the police', 'blm']
+
+## Covid: Australian anti-lockdown suspect's arrest draws controversy - BBC News
+ - [https://www.bbc.com/news/world-australia-54007824](https://www.bbc.com/news/world-australia-54007824)
+ - date published: 2020-09-03 19:50:21+00:00
+ - user: rumpel
+ - tags: ['lockdown', 'facebook', 'covid', 'censorship', 'australia']
 
 ## Hedonism, Asceticism and the Hermetic Answer
  - [https://lukesmith.xyz/articles/hedonism-asceticism-and-the-hermetic-answer/](https://lukesmith.xyz/articles/hedonism-asceticism-and-the-hermetic-answer/)
@@ -602,7 +620,7 @@
  - [https://www.theatlantic.com/ideas/archive/2020/09/academics-are-really-really-worried-about-their-freedom/615724/](https://www.theatlantic.com/ideas/archive/2020/09/academics-are-really-really-worried-about-their-freedom/615724/)
  - date published: 2020-09-01 22:02:49+00:00
  - user: rumpel
- - tags: ['woke', 'science', 'cancel culture', 'censorship', 'scienceisdead', 'race']
+ - tags: ['woke', 'science', 'cancel culture', 'censorship', 'science is dead', 'race']
 
 ## Google Meet, Microsoft Teams, Webex Privacy Issues - Consumer Reports
  - [https://www.consumerreports.org/video-conferencing-services/videoconferencing-privacy-issues-google-microsoft-webex-a7383469308/](https://www.consumerreports.org/video-conferencing-services/videoconferencing-privacy-issues-google-microsoft-webex-a7383469308/)
@@ -614,7 +632,7 @@
  - [https://www.dailymail.co.uk/news/article-8783517/Australian-government-introduces-250million-facial-recognition-access-Centrelink-benefits-dole.html](https://www.dailymail.co.uk/news/article-8783517/Australian-government-introduces-250million-facial-recognition-access-Centrelink-benefits-dole.html)
  - date published: 2020-08-29 20:08:11+00:00
  - user: rumpel
- - tags: ['biometric', 'bigbrother', 'facial recognition', 'privacy']
+ - tags: ['biometric', 'big brother', 'facial recognition', 'privacy']
 
 ## Coronavirus sceptics, conspiracy theorists and anti-vaxxers protest in London
  - [https://www.theguardian.com/world/2020/aug/29/coronavirus-sceptics-conspiracy-theorists-anti-vaxxers-protest-london](https://www.theguardian.com/world/2020/aug/29/coronavirus-sceptics-conspiracy-theorists-anti-vaxxers-protest-london)
@@ -680,7 +698,7 @@
  - [https://nypost.com/2020/08/19/protesters-burn-government-building-during-riot-in-portland/](https://nypost.com/2020/08/19/protesters-burn-government-building-during-riot-in-portland/)
  - date published: 2020-08-19 14:32:19+00:00
  - user: rumpel
- - tags: ['blm', 'black lives matter']
+ - tags: ['black lives matter', 'defund the police', 'blm']
 
 ## Write Code as If You Had to Support It for the Rest of Your Life
  - [https://medium.com/oreillymedia/write-code-as-if-you-had-to-support-it-for-the-rest-of-your-life-a707d3442f1a](https://medium.com/oreillymedia/write-code-as-if-you-had-to-support-it-for-the-rest-of-your-life-a707d3442f1a)
@@ -728,7 +746,7 @@
  - [https://www.bbc.com/news/uk-england-oxfordshire-53650010](https://www.bbc.com/news/uk-england-oxfordshire-53650010)
  - date published: 2020-08-05 10:55:02+00:00
  - user: rumpel
- - tags: ['gender', 'censorship', 'bigbrother']
+ - tags: ['gender', 'censorship', 'big brother']
 
 ## 6 ways to improve your debugging skills
  - [https://www.functionize.com/blog/6-ways-to-improve-your-debugging-skills/](https://www.functionize.com/blog/6-ways-to-improve-your-debugging-skills/)
@@ -746,7 +764,7 @@
  - [https://arstechnica.com/tech-policy/2020/08/beware-of-find-my-phone-wi-fi-and-bluetooth-nsa-tells-mobile-users/](https://arstechnica.com/tech-policy/2020/08/beware-of-find-my-phone-wi-fi-and-bluetooth-nsa-tells-mobile-users/)
  - date published: 2020-08-04 20:05:35+00:00
  - user: None
- - tags: ['privacy', 'surveillance', 'bigbrother', 'nsa']
+ - tags: ['privacy', 'surveillance', 'big brother', 'nsa']
 
 ## Google Home might be listening to more than just wake words after secret update
  - [https://www.techradar.com/news/google-home-might-be-listening-to-more-than-just-wake-words-after-secret-update](https://www.techradar.com/news/google-home-might-be-listening-to-more-than-just-wake-words-after-secret-update)
@@ -818,13 +836,13 @@
  - [https://www.rt.com/usa/495320-suspect-epstein-judge-shooting-suicide/](https://www.rt.com/usa/495320-suspect-epstein-judge-shooting-suicide/)
  - date published: 2020-07-20 19:40:28+00:00
  - user: None
- - tags: ['epstein']
+ - tags: ['jeffrey epstein']
 
 ## Epstein case: Attorney who was found dead named as primary suspect in fatal shooting at federal judge’s home
  - [https://edition.cnn.com/2020/07/19/us/federal-judge-esther-salas-shooting-investigation/index.html](https://edition.cnn.com/2020/07/19/us/federal-judge-esther-salas-shooting-investigation/index.html)
  - date published: 2020-07-19 19:38:39+00:00
  - user: None
- - tags: ['epstein']
+ - tags: ['jeffrey epstein']
 
 ## WEF founder: Must prepare for an angrier world
  - [https://www.youtube.com/watch?v=LJTnkzl3K64](https://www.youtube.com/watch?v=LJTnkzl3K64)
@@ -848,7 +866,7 @@
  - [https://supersoldiertalk.com/confessions-of-a-dead-man-personal-driver-of-jeffrey-epstein-and-other-elites-tells-all/](https://supersoldiertalk.com/confessions-of-a-dead-man-personal-driver-of-jeffrey-epstein-and-other-elites-tells-all/)
  - date published: 2020-07-10 15:28:46+00:00
  - user: rumpel
- - tags: ['epstein', '4chan', 'unverified']
+ - tags: ['jeffrey epstein', '4chan', 'unverified']
 
 ## Climate Change Is An Absolute Nightmare - This Is Why
  - [https://www.youtube.com/watch?v=uqwvf6R1_QY](https://www.youtube.com/watch?v=uqwvf6R1_QY)
@@ -860,19 +878,19 @@
  - [https://www.cnn.com/2020/07/07/business/jeffrey-epstein-deutsche-bank-fine/index.html](https://www.cnn.com/2020/07/07/business/jeffrey-epstein-deutsche-bank-fine/index.html)
  - date published: 2020-07-07 17:23:32+00:00
  - user: rumpel
- - tags: ['billionairs', 'epstein', 'elites']
+ - tags: ['billionairs', 'jeffrey epstein', 'elites']
 
 ## Confessions Of A Dead Man: Personal Driver Of Jeffrey Epstein And Other Elites Tells All
  - [https://cloverchronicle.com/2020/07/03/confessions-of-a-dead-man-personal-driver-of-jeffrey-epstein-and-other-elites-tells-all/](https://cloverchronicle.com/2020/07/03/confessions-of-a-dead-man-personal-driver-of-jeffrey-epstein-and-other-elites-tells-all/)
  - date published: 2020-07-03 15:28:00+00:00
  - user: rumpel
- - tags: ['epstein', '4chan', 'unverified']
+ - tags: ['jeffrey epstein', '4chan', 'unverified']
 
 ## Judge Rules Virginia Giuffre's Lawyers Must 'Destroy' Jeffrey Epstein Files
  - [https://www.newsweek.com/judge-rules-virginia-giuffres-lawyers-must-destroy-jeffrey-epstein-files-1514909](https://www.newsweek.com/judge-rules-virginia-giuffres-lawyers-must-destroy-jeffrey-epstein-files-1514909)
  - date published: 2020-07-02 19:43:29+00:00
  - user: None
- - tags: ['epstein']
+ - tags: ['jeffrey epstein']
 
 ## I built my own camera with a Raspberry Pi 4 - The Verge
  - [https://www.theverge.com/21306907/diy-camera-raspberry-pi-high-quality-how-to-build-video-c-cs-mount-lenses](https://www.theverge.com/21306907/diy-camera-raspberry-pi-high-quality-how-to-build-video-c-cs-mount-lenses)
@@ -956,7 +974,7 @@
  - [https://www.theguardian.com/culture/2020/jun/15/john-oliver-police-use-facial-recognition](https://www.theguardian.com/culture/2020/jun/15/john-oliver-police-use-facial-recognition)
  - date published: 2020-06-15 16:20:35+00:00
  - user: rumpel
- - tags: ['surveillance', 'facial recognition', 'bigbrother']
+ - tags: ['surveillance', 'facial recognition', 'big brother']
 
 ## Berlin authorities placed children with pedophiles
  - [https://www.dw.com/en/berlin-authorities-placed-children-with-pedophiles-for-30-years/a-53814208](https://www.dw.com/en/berlin-authorities-placed-children-with-pedophiles-for-30-years/a-53814208)
@@ -1046,13 +1064,19 @@
  - [https://www.theguardian.com/uk-news/2020/may/21/face-mask-rules-more-political-than-scientific-says-expert](https://www.theguardian.com/uk-news/2020/may/21/face-mask-rules-more-political-than-scientific-says-expert)
  - date published: 2020-05-20 23:01:39+00:00
  - user: rumpel
- - tags: ['masks', 'covid', 'scienceisdead']
+ - tags: ['masks', 'covid', 'science is dead']
 
 ## Where New Yorkers Moved to Escape Coronavirus - The New York Times
  - [https://www.nytimes.com/interactive/2020/05/16/nyregion/nyc-coronavirus-moving-leaving.html](https://www.nytimes.com/interactive/2020/05/16/nyregion/nyc-coronavirus-moving-leaving.html)
  - date published: 2020-05-16 20:09:25+00:00
  - user: rumpel
  - tags: ['lockdown', 'covid']
+
+## Visa Applies For Digital Dollar Blockchain Patent
+ - [https://www.forbes.com/sites/jasonbrett/2020/05/14/visa-submits-patent-application-for-digital-dollar-using-blockchain/?utm_source=TWITTER&utm_medium=social&utm_content=3343342103&utm_campaign=sprinklrForbesCrypto#6e9451585b63](https://www.forbes.com/sites/jasonbrett/2020/05/14/visa-submits-patent-application-for-digital-dollar-using-blockchain/?utm_source=TWITTER&utm_medium=social&utm_content=3343342103&utm_campaign=sprinklrForbesCrypto#6e9451585b63)
+ - date published: 2020-05-14 20:27:22+00:00
+ - user: rumpel
+ - tags: ['digital dollar', 'digital money', 'visa']
 
 ## More than 100,000 small businesses have permanently closed due to coronavirus, study estimates – The Hill
  - [https://thehill.com/changing-america/well-being/longevity/497519-more-than-100000-small-businesses-have-permanently/](https://thehill.com/changing-america/well-being/longevity/497519-more-than-100000-small-businesses-have-permanently/)
@@ -1160,7 +1184,13 @@
  - [https://www.insidehighered.com/news/2020/03/12/assistant-professor-says-hes-been-fired-because-he-dared-talk-about-human-population](https://www.insidehighered.com/news/2020/03/12/assistant-professor-says-hes-been-fired-because-he-dared-talk-about-human-population)
  - date published: 2020-03-12 20:05:49+00:00
  - user: rumpel
- - tags: ['scienceisdead', 'iq', 'science']
+ - tags: ['science is dead', 'iq', 'science']
+
+## A Military-Funded Biosensor Could Be the Future of Pandemic Detection - Defense One
+ - [https://www.defenseone.com/technology/2020/03/military-funded-biosensor-could-be-future-pandemic-detection/163497/](https://www.defenseone.com/technology/2020/03/military-funded-biosensor-could-be-future-pandemic-detection/163497/)
+ - date published: 2020-03-03 20:13:44+00:00
+ - user: rumpel
+ - tags: ['chip', 'covid', 'pandemic', 'biometric', 'profusa']
 
 ## Surgeon General Urges the Public to Stop Buying Face Masks - The New York Times
  - [https://www.nytimes.com/2020/02/29/health/coronavirus-n95-face-masks.html](https://www.nytimes.com/2020/02/29/health/coronavirus-n95-face-masks.html)
@@ -1220,7 +1250,7 @@
  - [https://www.dailymail.co.uk/news/article-7950655/Mother-trying-transition-son-girl-loses-court-judge-orders-parents-joint-custody.html](https://www.dailymail.co.uk/news/article-7950655/Mother-trying-transition-son-girl-loses-court-judge-orders-parents-joint-custody.html)
  - date published: 2020-01-31 08:51:05+00:00
  - user: rumpel
- - tags: ['trans', 'family', 'america', 'lgbt']
+ - tags: ['transgender', 'family', 'america', 'lgbt']
 
 ## Coronavirus Outbreak: Man lies dead on a street in China
  - [https://www.youtube.com/watch?v=CYKeefzKGOI](https://www.youtube.com/watch?v=CYKeefzKGOI)
@@ -1274,19 +1304,19 @@
  - [https://www.thegatewaypundit.com/2020/01/facebook-glitch-reveals-greta-thunbergs-posts-are-written-by-her-father-report/](https://www.thegatewaypundit.com/2020/01/facebook-glitch-reveals-greta-thunbergs-posts-are-written-by-her-father-report/)
  - date published: 2020-01-14 19:00:28+00:00
  - user: rumpel
- - tags: ['climate change', 'corporatocracy', 'greta', 'thunberg']
+ - tags: ['climate change', 'greta thunberg', 'corporatocracy']
 
 ## Facebook Glitch Reveals Father, Activist Behind Greta Thunberg’s Facebook Page. Greta Responds.
  - [https://www.dailywire.com/news/facebook-glitch-reveals-father-activist-behind-greta-thunbergs-facebook-page-greta-responds](https://www.dailywire.com/news/facebook-glitch-reveals-father-activist-behind-greta-thunbergs-facebook-page-greta-responds)
  - date published: 2020-01-13 19:01:16+00:00
  - user: rumpel
- - tags: ['greta', 'corporatocracy', 'thunberg', 'climate change']
+ - tags: ['climate change', 'greta thunberg', 'corporatocracy']
 
 ## Anger over use of facial recognition at south Wales football derby
  - [https://www.theguardian.com/technology/2020/jan/12/anger-over-use-facial-recognition-south-wales-football-derby-cardiff-swansea](https://www.theguardian.com/technology/2020/jan/12/anger-over-use-facial-recognition-south-wales-football-derby-cardiff-swansea)
  - date published: 2020-01-12 14:05:26+00:00
  - user: rumpel
- - tags: ['surveillance', 'facial recognition', 'bigbrother']
+ - tags: ['surveillance', 'facial recognition', 'big brother']
 
 ## Ring Fired Employees for Watching Customer Videos
  - [https://www.vice.com/en/article/y3mdvk/ring-fired-employees-abusing-video-data](https://www.vice.com/en/article/y3mdvk/ring-fired-employees-abusing-video-data)
@@ -1310,7 +1340,7 @@
  - [https://www.thecrimemag.com/epsteins-prison-cell/](https://www.thecrimemag.com/epsteins-prison-cell/)
  - date published: 2020-01-05 12:15:41+00:00
  - user: None
- - tags: ['epstein', 'prison cell']
+ - tags: ['jeffrey epstein', 'prison cell']
 
 ## Why Stakeholder Capitalism Will Fail
  - [https://www.forbes.com/sites/stevedenning/2020/01/05/why-stakeholder-capitalism-will-fail/](https://www.forbes.com/sites/stevedenning/2020/01/05/why-stakeholder-capitalism-will-fail/)

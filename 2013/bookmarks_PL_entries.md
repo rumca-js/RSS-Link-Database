@@ -4,6 +4,12 @@
  - user: rumpel
  - tags: ['germany', 'green', 'zieloni']
 
+## Pfizer zapłaci 491 mld dolarów kary - rp.pl
+ - [https://www.rp.pl/biznes/art12941831-pfizer-zaplaci-491-mld-dolarow-kary](https://www.rp.pl/biznes/art12941831-pfizer-zaplaci-491-mld-dolarow-kary)
+ - date published: 2013-07-31 20:09:29+00:00
+ - user: rumpel
+ - tags: ['big pfarma', 'manufacturing consent', 'pfizer']
+
 ## Francuski dziennik „Le Figaro” opublikował wyznania mężczyzny wychowanego przez dwie lesbijki. Ukazują one osobisty i intymny dramat człowieka liczącego dzisiaj 66 lat.
  - [https://pch24.pl/mezczyzna-wychowany-przez-lesbijki-to-gwalt-przeciw-mojej-naturze/](https://pch24.pl/mezczyzna-wychowany-przez-lesbijki-to-gwalt-przeciw-mojej-naturze/)
  - date published: 2013-01-15 08:52:33+00:00

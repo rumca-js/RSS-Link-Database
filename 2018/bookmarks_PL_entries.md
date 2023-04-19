@@ -10,6 +10,12 @@
  - user: rumpel
  - tags: ['fozz', 'folzmann', 'kaczynski']
 
+## Huragan wokół wadliwych szczepionek. MZ: Nie jesteśmy w stanie pilnować każdej lodówki - GazetaPrawna.pl
+ - [https://serwisy.gazetaprawna.pl/zdrowie/artykuly/1102427,wadliwe-szczepionki-w-polsce-mz.html](https://serwisy.gazetaprawna.pl/zdrowie/artykuly/1102427,wadliwe-szczepionki-w-polsce-mz.html)
+ - date published: 2018-02-06 20:07:11+00:00
+ - user: rumpel
+ - tags: ['poland', 'vaccine']
+
 ## niePatenty - Maciej Drozdowski
  - [http://www.cs.put.poznan.pl/mdrozdowski/txt/niePatenty.pdf](http://www.cs.put.poznan.pl/mdrozdowski/txt/niePatenty.pdf)
  - date published: 2018-01-05 09:05:09+00:00

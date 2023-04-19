@@ -20,13 +20,13 @@
  - [https://freerepublic.com/focus/bloggers/2923825/posts](https://freerepublic.com/focus/bloggers/2923825/posts)
  - date published: 2012-08-27 12:08:35+00:00
  - user: rumpel
- - tags: ['psyop', 'social media', 'social engineering', 'factcheck', 'annenberg']
+ - tags: ['psyop', 'social media', 'social engineering', 'fact check', 'annenberg']
 
 ## Giving In to the Surveillance State
  - [https://www.nytimes.com/2012/08/23/opinion/whos-watching-the-nsa-watchers.html](https://www.nytimes.com/2012/08/23/opinion/whos-watching-the-nsa-watchers.html)
  - date published: 2012-08-22 19:26:27+00:00
  - user: None
- - tags: ['surveillance', 'bigbrother', 'nsa', 'privacy']
+ - tags: ['surveillance', 'big brother', 'nsa', 'privacy']
 
 ## Pfizer settles foreign bribery case with U.S. government | Reuters
  - [https://www.reuters.com/article/us-pfizer-settlement-idUSBRE8760WM20120807](https://www.reuters.com/article/us-pfizer-settlement-idUSBRE8760WM20120807)

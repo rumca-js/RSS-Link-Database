@@ -8,7 +8,7 @@
  - [http://edition.cnn.com/2014/11/10/opinion/google-new-mission-statement/index.html?eref=edition](http://edition.cnn.com/2014/11/10/opinion/google-new-mission-statement/index.html?eref=edition)
  - date published: 2014-11-10 14:48:05+00:00
  - user: rumpel
- - tags: ['bigtech', 'corporatocracy', 'google']
+ - tags: ['big tech', 'corporatocracy', 'google']
 
 ## 5 facts about evolution and religion
  - [https://www.pewresearch.org/fact-tank/2014/10/30/5-facts-about-evolution-and-religion/](https://www.pewresearch.org/fact-tank/2014/10/30/5-facts-about-evolution-and-religion/)
@@ -32,7 +32,7 @@
  - [http://www.theguardian.com/film/2014/oct/16/citizen-four-review-edward-snowden-documentary](http://www.theguardian.com/film/2014/oct/16/citizen-four-review-edward-snowden-documentary)
  - date published: 2014-10-16 14:00:04+00:00
  - user: rumpel
- - tags: ['citizenfour', 'surveillance', 'bigbrother']
+ - tags: ['citizenfour', 'surveillance', 'big brother']
 
 ## 7 Propaganda Techniques Used on You Every Day
  - [https://www.youtube.com/watch?v=q8R9MDt4jEc](https://www.youtube.com/watch?v=q8R9MDt4jEc)
@@ -44,13 +44,13 @@
  - [https://www.youtube.com/watch?v=XiGwAvd5mvM](https://www.youtube.com/watch?v=XiGwAvd5mvM)
  - date published: 2014-10-10 20:56:29+00:00
  - user: rumpel
- - tags: ['citizenfour', 'snowden', 'surveillance', 'privacy', 'bigbrother']
+ - tags: ['citizenfour', 'snowden', 'surveillance', 'privacy', 'big brother']
 
 ## The Internet Slowdown protest for net neutrality needs to target regulators
  - [http://www.theguardian.com/commentisfree/2014/sep/10/internet-slowdown-protest-net-neutrality-fcc-regulators](http://www.theguardian.com/commentisfree/2014/sep/10/internet-slowdown-protest-net-neutrality-fcc-regulators)
  - date published: 2014-09-10 11:50:59+00:00
  - user: rumpel
- - tags: ['net neutrality', 'power', 'politics', 'bigtech']
+ - tags: ['net neutrality', 'power', 'politics', 'big tech']
 
 ## 2030: Privacy's Dead. What happens next?
  - [https://www.youtube.com/watch?v=_kBlH-DQsEg](https://www.youtube.com/watch?v=_kBlH-DQsEg)
@@ -74,13 +74,19 @@
  - [https://mashable.com/archive/edward-snowden-revelations#EX._mWvT8kq3](https://mashable.com/archive/edward-snowden-revelations#EX._mWvT8kq3)
  - date published: 2014-06-05 14:55:15+00:00
  - user: rumpel
- - tags: ['surveillance', 'bigbrother', 'prism', 'edward snowden']
+ - tags: ['surveillance', 'big brother', 'prism', 'edward snowden']
 
 ## Facebook Could Decide an Election Without Anyone Ever Finding Out
  - [https://newrepublic.com/article/117878/information-fiduciary-solution-facebook-digital-gerrymandering](https://newrepublic.com/article/117878/information-fiduciary-solution-facebook-digital-gerrymandering)
  - date published: 2014-06-02 11:14:27+00:00
  - user: None
  - tags: ['corporatocracy', 'election', 'privacy', 'facebook']
+
+## John Minto: GCSB holding doors open while US buddies invade our privacy - NZ Herald
+ - [https://www.nzherald.co.nz/nz/john-minto-gcsb-holding-doors-open-while-us-buddies-invade-our-privacy/JHCIWLWLUM5DSZRFKSYOAEX4CE/?c_id=1&objectid=11222413](https://www.nzherald.co.nz/nz/john-minto-gcsb-holding-doors-open-while-us-buddies-invade-our-privacy/JHCIWLWLUM5DSZRFKSYOAEX4CE/?c_id=1&objectid=11222413)
+ - date published: 2014-05-19 08:29:08+00:00
+ - user: rumpel
+ - tags: ['privacy', 'edward snowden', 'new zealand', 'surveillance', 'america', 'big brother']
 
 ## University of Texas at Austin 2014 Commencement Address - Admiral William H. McRaven
  - [https://www.youtube.com/watch?v=pxBQLFLei70](https://www.youtube.com/watch?v=pxBQLFLei70)
@@ -92,13 +98,13 @@
  - [https://betanews.com/2014/05/16/microsoft-openly-offered-cloud-data-to-the-nsa/](https://betanews.com/2014/05/16/microsoft-openly-offered-cloud-data-to-the-nsa/)
  - date published: 2014-05-16 09:07:48+00:00
  - user: rumpel
- - tags: ['nsa', 'privacy', 'bigbrother', 'backdoor', 'technofeudalism', 'manufacturing consent', 'bigtech', 'microsoft']
+ - tags: ['nsa', 'privacy', 'big brother', 'backdoor', 'technofeudalism', 'manufacturing consent', 'big tech', 'microsoft']
 
 ## Microsoft openly offered cloud data to support NSA PRISM programme | ITProPortal
  - [https://web.archive.org/web/20190421070310/https://www.itproportal.com/2014/05/14/microsoft-openly-offered-cloud-data-fbi-and-nsa/](https://web.archive.org/web/20190421070310/https://www.itproportal.com/2014/05/14/microsoft-openly-offered-cloud-data-fbi-and-nsa/)
  - date published: 2014-05-14 09:05:44+00:00
  - user: rumpel
- - tags: ['surveillance', 'prism', 'nsa', 'privacy', 'bigbrother', 'bigtech', 'microsoft']
+ - tags: ['surveillance', 'prism', 'nsa', 'privacy', 'big brother', 'big tech', 'microsoft']
 
 ## Everyone is under surveillance now, says whistleblower Edward Snowden
  - [http://www.theguardian.com/world/2014/may/03/everyone-is-under-surveillance-now-says-whistleblower-edward-snowden](http://www.theguardian.com/world/2014/may/03/everyone-is-under-surveillance-now-says-whistleblower-edward-snowden)

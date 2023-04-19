@@ -128,13 +128,13 @@
  - [https://en.wikipedia.org/wiki/Grievance_studies_affair](https://en.wikipedia.org/wiki/Grievance_studies_affair)
  - date published: 2021-12-26 20:04:14+00:00
  - user: rumpel
- - tags: ['propaganda', 'science', 'grievance', 'scienceisdead', 'sokal']
+ - tags: ['propaganda', 'science', 'grievance', 'science is dead', 'sokal']
 
 ## Sokal affair
  - [https://en.wikipedia.org/wiki/Sokal_affair](https://en.wikipedia.org/wiki/Sokal_affair)
  - date published: 2021-12-26 20:03:05+00:00
  - user: rumpel
- - tags: ['sokal', 'propaganda', 'science', 'scienceisdead', 'sokal affair']
+ - tags: ['sokal', 'propaganda', 'science', 'science is dead', 'sokal affair']
 
 ## Bohemian Grove
  - [https://en.m.wikipedia.org/wiki/Bohemian_Grove](https://en.m.wikipedia.org/wiki/Bohemian_Grove)
@@ -194,7 +194,7 @@
  - [https://www.bbc.co.uk/news/uk-politics-59735218](https://www.bbc.co.uk/news/uk-politics-59735218)
  - date published: 2021-12-22 08:35:29.336205+00:00
  - user: Thomas Pain
- - tags: ['law', 'trans', 'gender']
+ - tags: ['law', 'transgender', 'gender']
 
 ## McDonald's faces a French fries shortage in Japan - BBC News
  - [https://www.bbc.co.uk/news/business-59750613](https://www.bbc.co.uk/news/business-59750613)
@@ -266,7 +266,7 @@
  - [https://www.youtube.com/watch?v=TM00M-dRMBk](https://www.youtube.com/watch?v=TM00M-dRMBk)
  - date published: 2021-12-19 21:36:45+00:00
  - user: rumpel
- - tags: ['capitalism', 'bigtech']
+ - tags: ['capitalism', 'big tech']
 
 ## Lithuania evacuates its embassy in China | The Economist
  - [https://www.economist.com/china/lithuania-evacuates-its-embassy-in-china/21806843](https://www.economist.com/china/lithuania-evacuates-its-embassy-in-china/21806843)
@@ -332,7 +332,7 @@
  - [https://www.theguardian.com/technology/2021/dec/15/documents-link-huawei-uyghur-surveillance-projects-report-claims](https://www.theguardian.com/technology/2021/dec/15/documents-link-huawei-uyghur-surveillance-projects-report-claims)
  - date published: 2021-12-15 13:39:46+00:00
  - user: rumpel
- - tags: ['genocide', 'uyghur', 'china', 'bigtech']
+ - tags: ['genocide', 'uyghur', 'china', 'big tech']
 
 ## Idea that Omicron is milder is a myth, warns Chris Whitty - despite low hospitalisations | The Sun
  - [https://www.thesun.co.uk/health/17051174/idea-omicron-milder-myth-warns-chris-whitty/](https://www.thesun.co.uk/health/17051174/idea-omicron-milder-myth-warns-chris-whitty/)
@@ -350,13 +350,13 @@
  - [https://nypost.com/2021/12/14/facebook-admits-the-truth-fact-checks-are-really-just-lefty-opinion/](https://nypost.com/2021/12/14/facebook-admits-the-truth-fact-checks-are-really-just-lefty-opinion/)
  - date published: 2021-12-14 20:30:03+00:00
  - user: rumpel
- - tags: ['fact-check', 'facebook', 'covid']
+ - tags: ['fact check', 'facebook', 'covid']
 
 ## Announcement: Clearview AI ordered to comply with recommendations to stop collecting, sharing images - Office of the Privacy Commissioner of Canada
  - [https://www.priv.gc.ca/en/opc-news/news-and-announcements/2021/an_211214/](https://www.priv.gc.ca/en/opc-news/news-and-announcements/2021/an_211214/)
  - date published: 2021-12-14 19:19:51+00:00
  - user: rumpel
- - tags: ['privacy', 'surveillance', 'facial recognition', 'bigbrother', 'clearview', 'artificial intelligence']
+ - tags: ['privacy', 'surveillance', 'facial recognition', 'big brother', 'clearview', 'artificial intelligence']
 
 ## Politician says Germany should ban Telegram unless it tackles extremist content
  - [https://news.yahoo.com/politician-says-germany-ban-telegram-182425996.html](https://news.yahoo.com/politician-says-germany-ban-telegram-182425996.html)
@@ -422,7 +422,7 @@
  - [https://www.telegraph.co.uk/world-news/2021/12/07/evidence-jeffrey-epsteins-safe-went-missing-fbi-raid-court-hears/](https://www.telegraph.co.uk/world-news/2021/12/07/evidence-jeffrey-epsteins-safe-went-missing-fbi-raid-court-hears/)
  - date published: 2021-12-07 22:37:20+00:00
  - user: rumpel
- - tags: ['fbi', 'epstein']
+ - tags: ['fbi', 'jeffrey epstein']
 
 ## Apple broke up with me 😢
  - [https://merecivilian.com/apple-broke-up-with-me/](https://merecivilian.com/apple-broke-up-with-me/)
@@ -446,7 +446,7 @@
  - [https://www.reuters.com/business/cop/australia-says-us-facial-recognition-software-firm-clearview-breached-privacy-2021-11-03/](https://www.reuters.com/business/cop/australia-says-us-facial-recognition-software-firm-clearview-breached-privacy-2021-11-03/)
  - date published: 2021-12-03 19:20:51+00:00
  - user: rumpel
- - tags: ['privacy', 'surveillance', 'facial recognition', 'bigbrother', 'australia', 'clearview', 'artificial intelligence']
+ - tags: ['privacy', 'surveillance', 'facial recognition', 'big brother', 'australia', 'clearview', 'artificial intelligence']
 
 ## LEGO has designed a set that can't be taken apart | Brickset: LEGO set guide and database
  - [https://brickset.com/article/67650/lego-has-designed-a-set-that-can-t-be-taken-apart](https://brickset.com/article/67650/lego-has-designed-a-set-that-can-t-be-taken-apart)
@@ -458,7 +458,7 @@
  - [https://nationalpost.com/news/canada/canada-transgender-treatment](https://nationalpost.com/news/canada/canada-transgender-treatment)
  - date published: 2021-12-03 08:49:22+00:00
  - user: rumpel
- - tags: ['kids', 'canada', 'lgbt', 'trans']
+ - tags: ['kids', 'canada', 'lgbt', 'transgender']
 
 ## Microsoft says its own Edge browser is more trustworthy than "so 2008" Google Chrome - Neowin
  - [https://www.neowin.net/news/microsoft-says-its-own-edge-browser-is-more-trustworthy-than-so-2008-google-chrome/](https://www.neowin.net/news/microsoft-says-its-own-edge-browser-is-more-trustworthy-than-so-2008-google-chrome/)
@@ -512,7 +512,7 @@
  - [https://www.yourtango.com/news/chester-bennington-conspiracy-theory-chris-cornell-john-podesta-pizzagate-ghislaine-maxwell](https://www.yourtango.com/news/chester-bennington-conspiracy-theory-chris-cornell-john-podesta-pizzagate-ghislaine-maxwell)
  - date published: 2021-11-29 21:24:58+00:00
  - user: rumpel
- - tags: ['paedophilia', 'ghislaine', 'chester bennington', 'conspiracy theory', 'linkin park']
+ - tags: ['paedophilia', 'ghislaine maxwell', 'chester bennington', 'conspiracy theory', 'linkin park']
 
 ## Why Paper Jams Persist | The New Yorker
  - [https://www.newyorker.com/magazine/2018/02/12/why-paper-jams-persist](https://www.newyorker.com/magazine/2018/02/12/why-paper-jams-persist)
@@ -542,7 +542,7 @@
  - [https://www.abc.net.au/news/science/2021-11-30/online-bullying-trolling-identity-verification-legislation/100658084](https://www.abc.net.au/news/science/2021-11-30/online-bullying-trolling-identity-verification-legislation/100658084)
  - date published: 2021-11-29 07:33:20+00:00
  - user: rumpel
- - tags: ['privacy', 'tech control', 'anonymity', 'bigtech']
+ - tags: ['privacy', 'tech control', 'anonymity', 'big tech']
 
 ## Inside Bohemian Grove, The Secret California Club For Powerful Men
  - [https://allthatsinteresting.com/bohemian-grove](https://allthatsinteresting.com/bohemian-grove)
@@ -656,7 +656,7 @@
  - [https://www.pinknews.co.uk/2021/11/19/gender-affirming-healthcare-cis-people-trans/](https://www.pinknews.co.uk/2021/11/19/gender-affirming-healthcare-cis-people-trans/)
  - date published: 2021-11-22 14:51:48.260654+00:00
  - user: Thomas Pain
- - tags: ['trans', 'gender']
+ - tags: ['transgender', 'gender']
 
 ## Who, and Where, Is Chinese Tennis Star Peng Shuai? - The New York Times
  - [https://www.nytimes.com/2021/11/21/world/asia/where-is-peng-shuai.html](https://www.nytimes.com/2021/11/21/world/asia/where-is-peng-shuai.html)
@@ -722,7 +722,7 @@
  - [https://hls.harvard.edu/today/the-algorithm-has-primacy-over-media-over-each-of-us-and-it-controls-what-we-do/](https://hls.harvard.edu/today/the-algorithm-has-primacy-over-media-over-each-of-us-and-it-controls-what-we-do/)
  - date published: 2021-11-18 20:12:44+00:00
  - user: rumpel
- - tags: ['bigtech', 'elites', 'algorithm', 'media']
+ - tags: ['big tech', 'elites', 'algorithm', 'media']
 
 ## Understanding why our build got 15x slower with Webpack 5 - Tines Engineering
  - [https://engineering.tines.com/blog/understanding-why-our-build-got-15x-slower-with-webpack](https://engineering.tines.com/blog/understanding-why-our-build-got-15x-slower-with-webpack)
@@ -812,7 +812,7 @@
  - [https://www.youtube.com/watch?v=7AZSkF9fNRM](https://www.youtube.com/watch?v=7AZSkF9fNRM)
  - date published: 2021-11-15 08:41:06+00:00
  - user: None
- - tags: ['bigbrother', 'covid', 'lockdown']
+ - tags: ['big brother', 'covid', 'lockdown']
 
 ## Thousands protest Austria's COVID lockdown for the unvaccinated | DW News
  - [https://www.youtube.com/watch?v=KifHYc2tm3o](https://www.youtube.com/watch?v=KifHYc2tm3o)
@@ -860,7 +860,7 @@
  - [https://www.theguardian.com/australia-news/2021/nov/12/australias-only-working-carbon-capture-and-storage-project-fails-to-meet-target](https://www.theguardian.com/australia-news/2021/nov/12/australias-only-working-carbon-capture-and-storage-project-fails-to-meet-target)
  - date published: 2021-11-12 13:36:49+00:00
  - user: rumpel
- - tags: ['carbon capture', 'propaganda', 'scienceisdead', 'climate change']
+ - tags: ['carbon capture', 'propaganda', 'science is dead', 'climate change']
 
 ## Pfizer CEO calls those spreading vaccine misinformation 'criminals'
  - [https://www.nbcnews.com/news/us-news/pfizer-ceo-calls-spreading-vaccine-misinformation-criminals-rcna5124](https://www.nbcnews.com/news/us-news/pfizer-ceo-calls-spreading-vaccine-misinformation-criminals-rcna5124)
@@ -992,7 +992,7 @@
  - [https://www.theguardian.com/world/2021/nov/03/facial-recognition-firm-cleaview-ai-to-appeal-order-to-stop-collecting-images-of-australians](https://www.theguardian.com/world/2021/nov/03/facial-recognition-firm-cleaview-ai-to-appeal-order-to-stop-collecting-images-of-australians)
  - date published: 2021-11-03 19:21:58+00:00
  - user: rumpel
- - tags: ['privacy', 'surveillance', 'facial recognition', 'bigbrother', 'australia', 'clearview', 'artificial intelligence']
+ - tags: ['privacy', 'surveillance', 'facial recognition', 'big brother', 'australia', 'clearview', 'artificial intelligence']
 
 ## Do-nothing scripting: the key to gradual automation – Dan Slimmon
  - [https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/](https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/)
@@ -1082,7 +1082,7 @@
  - [https://www.bbc.co.uk/news/world-us-canada-59076614](https://www.bbc.co.uk/news/world-us-canada-59076614)
  - date published: 2021-10-28 22:00:40.700079+00:00
  - user: Thomas Pain
- - tags: ['woke', 'trans', 'uk', 'gender']
+ - tags: ['woke', 'transgender', 'uk', 'gender']
 
 ## Viewing website HTML code is not illegal or “hacking,” prof. tells Missouri gov. | Ars Technica
  - [https://arstechnica.com/tech-policy/2021/10/viewing-website-html-code-is-not-illegal-or-hacking-prof-tells-missouri-gov/](https://arstechnica.com/tech-policy/2021/10/viewing-website-html-code-is-not-illegal-or-hacking-prof-tells-missouri-gov/)
@@ -1358,7 +1358,7 @@
  - [https://icdt.ir/en/media-cognitive-warfare-and-one-world-government-social-engineering/](https://icdt.ir/en/media-cognitive-warfare-and-one-world-government-social-engineering/)
  - date published: 2021-10-13 13:03:47+00:00
  - user: None
- - tags: ['government', 'social engineering', 'bigbrother', 'propaganda', 'social media']
+ - tags: ['government', 'social engineering', 'big brother', 'propaganda', 'social media']
 
 ## Firefox Suggest: An Anatomy of a PR Incident
  - [https://www.quippd.com/writing/2021/10/10/firefox-suggest-an-anatomy.html](https://www.quippd.com/writing/2021/10/10/firefox-suggest-an-anatomy.html)
@@ -1418,7 +1418,7 @@
  - [https://backlinko.com/google-ranking-factors](https://backlinko.com/google-ranking-factors)
  - date published: 2021-10-10 14:34:07+00:00
  - user: rumpel
- - tags: ['algorithms', 'google search']
+ - tags: ['algorithms', 'search engines']
 
 ## Luxury student complex in Glasgow 'unfinished and filthy' - BBC News
  - [https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58849933](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-58849933)
@@ -1514,7 +1514,7 @@
  - [https://bigthink.com/the-present/social-media-algorithms-manipulate-you/](https://bigthink.com/the-present/social-media-algorithms-manipulate-you/)
  - date published: 2021-10-07 15:57:13+00:00
  - user: rumpel
- - tags: ['algorithms', 'social media', 'social engineering', 'bigtech']
+ - tags: ['algorithms', 'social media', 'social engineering', 'big tech']
 
 ## Saudi-Led Group Completes Purchase of Newcastle United - The New York Times
  - [https://www.nytimes.com/2021/10/07/sports/soccer/newcastle-saudi-premier-league.html](https://www.nytimes.com/2021/10/07/sports/soccer/newcastle-saudi-premier-league.html)
@@ -1532,7 +1532,7 @@
  - [https://www.pinknews.co.uk/2021/07/13/x-passports-supreme-court-day-2/](https://www.pinknews.co.uk/2021/07/13/x-passports-supreme-court-day-2/)
  - date published: 2021-10-07 05:51:28.844135+00:00
  - user: Thomas Pain
- - tags: ['bigbrother', 'uk', 'gender']
+ - tags: ['big brother', 'uk', 'gender']
 
 ## More details about the October 4 outage - Facebook Engineering
  - [https://engineering.fb.com/2021/10/05/networking-traffic/outage-details/](https://engineering.fb.com/2021/10/05/networking-traffic/outage-details/)
@@ -1562,7 +1562,7 @@
  - [https://www.independent.co.uk/news/world/americas/canadian-tribunal-transgender-nonbinary-restaurant-worker-pronouns-b1931972.html](https://www.independent.co.uk/news/world/americas/canadian-tribunal-transgender-nonbinary-restaurant-worker-pronouns-b1931972.html)
  - date published: 2021-10-04 21:54:58+00:00
  - user: rumpel
- - tags: ['trans', 'lgbt', 'inequality', 'newspeak', 'bigbrother']
+ - tags: ['transgender', 'lgbt', 'inequality', 'newspeak', 'big brother']
 
 ## The Problem of Marital Loneliness | The New Yorker
  - [https://www.newyorker.com/culture/cultural-comment/the-problem-of-marital-loneliness](https://www.newyorker.com/culture/cultural-comment/the-problem-of-marital-loneliness)
@@ -1724,7 +1724,7 @@
  - [https://www.youtube.com/watch?v=N8P6MTOQlyk](https://www.youtube.com/watch?v=N8P6MTOQlyk)
  - date published: 2021-09-20 20:33:11+00:00
  - user: None
- - tags: ['algorithm', 'internet', 'search engines', 'dead internet', 'google search']
+ - tags: ['algorithm', 'internet', 'search engines', 'dead internet', 'search engines']
 
 ## DRASTIC Analysis of the DEFUSE Documents – D.R.A.S.T.I.C. Research
  - [https://drasticresearch.org/2021/09/20/1583/](https://drasticresearch.org/2021/09/20/1583/)
@@ -1874,7 +1874,7 @@
  - [https://www.theguardian.com/us-news/2021/sep/10/september-11-us-reaction-forever-wars-rights-insurrection](https://www.theguardian.com/us-news/2021/sep/10/september-11-us-reaction-forever-wars-rights-insurrection)
  - date published: 2021-09-10 21:32:03+00:00
  - user: rumpel
- - tags: ['911', 'bigbrother', 'america']
+ - tags: ['911', 'big brother', 'america']
 
 ## Biden Doubled Mask Fines for Travelers. What Does it Mean for Passengers? - The New York Times
  - [https://www.nytimes.com/2021/09/10/travel/mask-fine-costs-flights-tsa.html](https://www.nytimes.com/2021/09/10/travel/mask-fine-costs-flights-tsa.html)
@@ -1964,7 +1964,7 @@
  - [https://deadline.com/2021/09/joe-rogan-covid-test-dave-chappelle-tour-vaccinations-1234825866/](https://deadline.com/2021/09/joe-rogan-covid-test-dave-chappelle-tour-vaccinations-1234825866/)
  - date published: 2021-09-04 20:05:15+00:00
  - user: rumpel
- - tags: ['bigbrother', 'covid', 'smear campaign', 'joe rogan', 'disinformation']
+ - tags: ['big brother', 'covid', 'smear campaign', 'joe rogan', 'disinformation']
 
 ## Covid: What do parents think about vaccinating children? - BBC News
  - [https://www.bbc.co.uk/news/uk-58447040](https://www.bbc.co.uk/news/uk-58447040)
@@ -2000,7 +2000,7 @@
  - [https://news.ycombinator.com/item?id=28391709](https://news.ycombinator.com/item?id=28391709)
  - date published: 2021-09-03 07:41:31.052337+00:00
  - user: Thomas Pain
- - tags: ['surveillance', 'anonymity', 'bigbrother', 'privacy', 'australia']
+ - tags: ['surveillance', 'anonymity', 'big brother', 'privacy', 'australia']
 
 ## Experiments on a $50 DIY air purifier you can make in 30s
  - [https://dynomight.net/2020/12/15/some-real-data-on-a-DIY-box-fan-air-purifier/](https://dynomight.net/2020/12/15/some-real-data-on-a-DIY-box-fan-air-purifier/)
@@ -2030,7 +2030,7 @@
  - [https://www.theverge.com/2021/9/1/22649909/internet-sthudowns-government-freedom-speech-data-access-now-jigsaw](https://www.theverge.com/2021/9/1/22649909/internet-sthudowns-government-freedom-speech-data-access-now-jigsaw)
  - date published: 2021-09-02 14:37:12.172749+00:00
  - user: Thomas Pain
- - tags: ['censorship', 'bigbrother', 'government']
+ - tags: ['censorship', 'big brother', 'government']
 
 ## 15 million Covid vaccine doses thrown away in the U.S. since March, new data shows
  - [https://www.nbcnews.com/news/us-news/america-has-wasted-least-15-million-covid-vaccine-doses-march-n1278211](https://www.nbcnews.com/news/us-news/america-has-wasted-least-15-million-covid-vaccine-doses-march-n1278211)
@@ -2216,7 +2216,7 @@
  - [https://9to5mac.com/2021/08/25/analysts-google-to-pay-apple-15-billion-to-remain-default-safari-search-engine-in-2021/](https://9to5mac.com/2021/08/25/analysts-google-to-pay-apple-15-billion-to-remain-default-safari-search-engine-in-2021/)
  - date published: 2021-08-25 16:31:48+00:00
  - user: rumpel
- - tags: ['google', 'google search', 'apple', 'corporatocracy']
+ - tags: ['google', 'search engines', 'apple', 'corporatocracy']
 
 ## ‘Picking quarrels and provoking trouble’: how China’s catch-all crime muzzles dissent | South China Morning Post
  - [https://www.scmp.com/news/china/politics/article/3146188/picking-quarrels-and-provoking-trouble-how-chinas-catch-all](https://www.scmp.com/news/china/politics/article/3146188/picking-quarrels-and-provoking-trouble-how-chinas-catch-all)
@@ -2588,7 +2588,7 @@
  - [https://www.thecollegefix.com/professor-suggests-it-should-be-a-federal-hate-crime-to-criticize-fauci-and-other-government-funded-scientists/](https://www.thecollegefix.com/professor-suggests-it-should-be-a-federal-hate-crime-to-criticize-fauci-and-other-government-funded-scientists/)
  - date published: 2021-08-04 19:50:29+00:00
  - user: rumpel
- - tags: ['covid', 'scienceisdead', 'fauci']
+ - tags: ['covid', 'science is dead', 'fauci']
 
 ## Facebook is reportedly trying to analyze encrypted data without decrypting it | TechSpot
  - [https://www.techspot.com/news/90660-facebook-reportedly-trying-analyze-encrypted-data-without-decrypting.html](https://www.techspot.com/news/90660-facebook-reportedly-trying-analyze-encrypted-data-without-decrypting.html)
@@ -2762,7 +2762,7 @@
  - [https://www.bbc.co.uk/news/world-australia-57952516](https://www.bbc.co.uk/news/world-australia-57952516)
  - date published: 2021-07-24 07:02:04+00:00
  - user: rumpel
- - tags: ['covid', 'lockdown']
+ - tags: ['lockdown', 'covid', 'australia']
 
 ## Interesting Go Memory Issue | Ben E. C. Boyter
  - [https://boyter.org/posts/interesting-go-memory-issue/](https://boyter.org/posts/interesting-go-memory-issue/)
@@ -2912,13 +2912,13 @@
  - [https://www.eff.org/deeplinks/2021/07/right-or-left-you-should-be-worried-about-big-tech-censorship](https://www.eff.org/deeplinks/2021/07/right-or-left-you-should-be-worried-about-big-tech-censorship)
  - date published: 2021-07-19 07:11:14.053288+00:00
  - user: Thomas Pain
- - tags: ['censorship', 'bigtech', 'surveillance']
+ - tags: ['censorship', 'big tech', 'surveillance']
 
 ## Revealed: leak uncovers global abuse of cyber-surveillance weapon | Surveillance | The Guardian
  - [https://www.theguardian.com/world/2021/jul/18/revealed-leak-uncovers-global-abuse-of-cyber-surveillance-weapon-nso-group-pegasus](https://www.theguardian.com/world/2021/jul/18/revealed-leak-uncovers-global-abuse-of-cyber-surveillance-weapon-nso-group-pegasus)
  - date published: 2021-07-18 21:55:29.750497+00:00
  - user: Thomas Pain
- - tags: ['pegasus', 'surveillance', 'bigbrother', 'israel', 'privacy']
+ - tags: ['pegasus', 'surveillance', 'big brother', 'israel', 'privacy']
 
 ## Inserting One Billion Rows in SQLite Under A Minute - blag
  - [https://avi.im/blag/2021/fast-sqlite-inserts/](https://avi.im/blag/2021/fast-sqlite-inserts/)
@@ -3014,7 +3014,7 @@
  - [https://nypost.com/2021/07/16/government-dictating-what-social-media-bans-is-tyrannical/](https://nypost.com/2021/07/16/government-dictating-what-social-media-bans-is-tyrannical/)
  - date published: 2021-07-16 20:28:57+00:00
  - user: rumpel
- - tags: ['bigbrother', 'covid', 'censorship']
+ - tags: ['big brother', 'covid', 'censorship']
 
 ## Target removes J&J sunscreens from stores, website | Reuters
  - [https://www.reuters.com/business/healthcare-pharmaceuticals/target-removes-jj-sunscreens-stores-website-2021-07-16/](https://www.reuters.com/business/healthcare-pharmaceuticals/target-removes-jj-sunscreens-stores-website-2021-07-16/)
@@ -3092,7 +3092,7 @@
  - [https://nypost.com/2021/07/15/white-house-flagging-posts-for-facebook-to-censor-due-to-covid-19-misinformation/](https://nypost.com/2021/07/15/white-house-flagging-posts-for-facebook-to-censor-due-to-covid-19-misinformation/)
  - date published: 2021-07-15 19:45:42+00:00
  - user: rumpel
- - tags: ['disinformation', 'covid', 'bigbrother', 'censorship']
+ - tags: ['disinformation', 'covid', 'big brother', 'censorship']
 
 ## Mass Bogus DMCA Takedowns Impersonate Reddit to Attack Downloading Tools * TorrentFreak
  - [https://torrentfreak.com/mass-bogus-dmca-takedowns-impersonate-reddit-to-attack-downloading-tools-210715/](https://torrentfreak.com/mass-bogus-dmca-takedowns-impersonate-reddit-to-attack-downloading-tools-210715/)
@@ -3200,13 +3200,13 @@
  - [https://www.foxnews.com/media/biden-slammed-plans-monitor-text-messages-vaccine-misinformation](https://www.foxnews.com/media/biden-slammed-plans-monitor-text-messages-vaccine-misinformation)
  - date published: 2021-07-13 19:46:36+00:00
  - user: rumpel
- - tags: ['surveillance', 'tech control', 'covid', 'vaccine', 'bigbrother']
+ - tags: ['surveillance', 'tech control', 'covid', 'vaccine', 'big brother']
 
 ## Google Fined $593 Million In Dispute Over Paying French Publishers For News : NPR
  - [https://www.npr.org/2021/07/13/1015596060/france-fines-google-592m-in-a-dispute-over-paying-news-publishers-for-content](https://www.npr.org/2021/07/13/1015596060/france-fines-google-592m-in-a-dispute-over-paying-news-publishers-for-content)
  - date published: 2021-07-13 11:36:27+00:00
  - user: rumpel
- - tags: ['google', 'technofeudalism', 'bigtech']
+ - tags: ['google', 'technofeudalism', 'big tech']
 
 ## Why we need to give insects the role they deserve in our food systems | World Economic Forum
  - [https://www.weforum.org/agenda/2021/07/why-we-need-to-give-insects-the-role-they-deserve-in-our-food-systems/](https://www.weforum.org/agenda/2021/07/why-we-need-to-give-insects-the-role-they-deserve-in-our-food-systems/)
@@ -3218,7 +3218,7 @@
  - [https://nypost.com/2021/07/12/dnc-biden-allies-want-phone-carriers-to-vet-anti-vax-messages/](https://nypost.com/2021/07/12/dnc-biden-allies-want-phone-carriers-to-vet-anti-vax-messages/)
  - date published: 2021-07-12 19:47:54+00:00
  - user: rumpel
- - tags: ['vaccine', 'covid', 'bigbrother', 'surveillance']
+ - tags: ['vaccine', 'covid', 'big brother', 'surveillance']
 
 ## Communist Cuba Begins Cracking Down On Freedom Protesters, Internet Service Cut In Areas | The Daily Wire
  - [https://www.dailywire.com/news/communist-cuba-begins-cracking-down-on-freedom-protesters-internet-and-cell-service-cut](https://www.dailywire.com/news/communist-cuba-begins-cracking-down-on-freedom-protesters-internet-and-cell-service-cut)
@@ -3278,7 +3278,7 @@
  - [https://medicine.wustl.edu/news/covid-19-vaccine-generates-immune-structures-critical-for-lasting-immunity/](https://medicine.wustl.edu/news/covid-19-vaccine-generates-immune-structures-critical-for-lasting-immunity/)
  - date published: 2021-06-28 07:58:09+00:00
  - user: rumpel
- - tags: ['scienceisdead', 'vaccine', 'covid lie']
+ - tags: ['science is dead', 'vaccine', 'covid lie']
 
 ## Coronavirus Origins: Washington Post Corrects Year-Old Article Calling Lab-Leak Theory 'Debunked' | National Review
  - [https://www.nationalreview.com/news/washington-post-corrects-year-old-article-calling-lab-leak-theory-debunked/](https://www.nationalreview.com/news/washington-post-corrects-year-old-article-calling-lab-leak-theory-debunked/)
@@ -3314,7 +3314,7 @@
  - [https://arstechnica.com/tech-policy/2021/06/eu-antitrust-regulators-launch-probe-into-googles-floc-plan/](https://arstechnica.com/tech-policy/2021/06/eu-antitrust-regulators-launch-probe-into-googles-floc-plan/)
  - date published: 2021-06-22 21:17:41+00:00
  - user: rumpel
- - tags: ['bigtech', 'google', 'cookies', 'monopoly', 'antitrust']
+ - tags: ['big tech', 'google', 'cookies', 'monopoly', 'antitrust']
 
 ## Even creepier COVID tracking: Google silently pushed app to users’ phones [Updated]
  - [https://arstechnica.com/gadgets/2021/06/even-creepier-covid-tracking-google-silently-pushed-app-to-users-phones/](https://arstechnica.com/gadgets/2021/06/even-creepier-covid-tracking-google-silently-pushed-app-to-users-phones/)
@@ -3332,7 +3332,7 @@
  - [https://www.breitbart.com/science/2021/06/21/fauci-doubles-down-people-who-criticize-me-are-actually-criticizing-science/](https://www.breitbart.com/science/2021/06/21/fauci-doubles-down-people-who-criticize-me-are-actually-criticizing-science/)
  - date published: 2021-06-21 17:24:57+00:00
  - user: rumpel
- - tags: ['scienceisdead', 'covid', 'science', 'fauci']
+ - tags: ['science is dead', 'covid', 'science', 'fauci']
 
 ## The Lazarus heist: How North Korea almost pulled off a billion-dollar hack
  - [https://www.bbc.co.uk/news/stories-57520169](https://www.bbc.co.uk/news/stories-57520169)
@@ -3350,7 +3350,7 @@
  - [https://www.independent.co.uk/news/world/americas/cdc-florida-covid-cruise-judge-b1869088.html](https://www.independent.co.uk/news/world/americas/cdc-florida-covid-cruise-judge-b1869088.html)
  - date published: 2021-06-19 19:30:04+00:00
  - user: rumpel
- - tags: ['cdc', 'covid', 'bigbrother']
+ - tags: ['cdc', 'covid', 'big brother']
 
 ## He authorized Moderna's vaccine 6 months ago. Now, ex-FDA chief Hahn joins biotech's backer
  - [https://www.fiercebiotech.com/biotech/six-months-after-granting-moderna-covid-19-eua-ex-fda-commish-joins-biotech-s-founding](https://www.fiercebiotech.com/biotech/six-months-after-granting-moderna-covid-19-eua-ex-fda-commish-joins-biotech-s-founding)
@@ -3380,13 +3380,13 @@
  - [https://www.theguardian.com/politics/2021/jun/08/uk-government-loses-legal-battle-transparency-orwellian-unit](https://www.theguardian.com/politics/2021/jun/08/uk-government-loses-legal-battle-transparency-orwellian-unit)
  - date published: 2021-06-08 19:46:59+00:00
  - user: rumpel
- - tags: ['bigbrother', 'censorship', 'orwell', 'surveillance', 'covid', 'clearing house']
+ - tags: ['big brother', 'censorship', 'orwell', 'surveillance', 'covid', 'clearing house']
 
 ## Judge slams Michael Gove’s office as openDemocracy wins transparency court case | openDemocracy
  - [https://www.opendemocracy.net/en/freedom-of-information/foi-clearing-house-michael-gove-cabinet-office-opendemocracy-wins-court-case-uk-government/](https://www.opendemocracy.net/en/freedom-of-information/foi-clearing-house-michael-gove-cabinet-office-opendemocracy-wins-court-case-uk-government/)
  - date published: 2021-06-08 19:44:41+00:00
  - user: rumpel
- - tags: ['bigbrother', 'censorship', 'orwell', 'surveillance', 'covid', 'clearing house']
+ - tags: ['big brother', 'censorship', 'orwell', 'surveillance', 'covid', 'clearing house']
 
 ## Bats and Pangolins not sold at Wuhan markets, says Oxford research
  - [https://www.oxfordstudent.com/2021/06/08/bats-and-pangolins-not-sold-at-wuhan-markets-says-oxford-research/](https://www.oxfordstudent.com/2021/06/08/bats-and-pangolins-not-sold-at-wuhan-markets-says-oxford-research/)
@@ -3404,7 +3404,7 @@
  - [https://reason.com/2021/06/04/lab-leak-misinformation-media-fauci-covid-19/](https://reason.com/2021/06/04/lab-leak-misinformation-media-fauci-covid-19/)
  - date published: 2021-06-04 19:26:23+00:00
  - user: rumpel
- - tags: ['misinformation', 'censorship', 'scienceisdead', 'wuhan', 'covid']
+ - tags: ['misinformation', 'censorship', 'science is dead', 'wuhan', 'covid']
 
 ## Who is Peter Daszak, the nonprofit exec who sent taxpayer money to Wuhan lab?
  - [https://nypost.com/2021/06/04/who-is-peter-daszak-exec-who-sent-taxpayer-money-to-wuhan-lab/](https://nypost.com/2021/06/04/who-is-peter-daszak-exec-who-sent-taxpayer-money-to-wuhan-lab/)
@@ -3458,19 +3458,19 @@
  - [https://www.forbes.com/sites/roberthart/2021/05/26/biden-team-shut-down-secretive-trump-era-project-pursuing-the-wuhan-lab-leak-theory/](https://www.forbes.com/sites/roberthart/2021/05/26/biden-team-shut-down-secretive-trump-era-project-pursuing-the-wuhan-lab-leak-theory/)
  - date published: 2021-06-01 19:39:24+00:00
  - user: rumpel
- - tags: ['joe biden', 'wuhan', 'covid', 'bigbrother', 'lableak']
+ - tags: ['joe biden', 'wuhan', 'covid', 'big brother', 'lableak']
 
 ## Digital Identity: EU to lay out plans for Europe-wide digital identity wallet
  - [https://www.nfcw.com/2021/06/01/372591/eu-to-lay-out-plans-for-europe-wide-digital-identity-wallet/](https://www.nfcw.com/2021/06/01/372591/eu-to-lay-out-plans-for-europe-wide-digital-identity-wallet/)
  - date published: 2021-06-01 12:59:16+00:00
  - user: None
- - tags: ['digital identity', 'government control', 'bigbrother', 'privacy', 'digital passport']
+ - tags: ['digital identity', 'government control', 'big brother', 'privacy', 'digital passport']
 
 ## Why are people talking about Dr Anthony Fauci's emails?
  - [https://www.bbc.com/news/world-us-canada-57336280](https://www.bbc.com/news/world-us-canada-57336280)
  - date published: 2021-06-01 11:41:11+00:00
  - user: None
- - tags: ['fauci', 'censorship', 'zuckerberg', 'covid']
+ - tags: ['fauci', 'censorship', 'mark zuckerberg', 'covid']
 
 ## U.S. spied on Merkel and other Europeans through Danish cables - broadcaster DR
  - [https://www.reuters.com/world/europe/us-security-agency-spied-merkel-other-top-european-officials-through-danish-2021-05-30/](https://www.reuters.com/world/europe/us-security-agency-spied-merkel-other-top-european-officials-through-danish-2021-05-30/)
@@ -3494,13 +3494,13 @@
  - [https://www.bbc.com/news/technology-57122120](https://www.bbc.com/news/technology-57122120)
  - date published: 2021-05-27 20:19:38+00:00
  - user: None
- - tags: ['microsoft', 'surveillance', 'bigtech', 'orwell']
+ - tags: ['microsoft', 'surveillance', 'big tech', 'orwell']
 
 ## NGOs file complaints against Clearview AI in five countries | Computer Weekly
  - [https://www.computerweekly.com/news/252501435/NGOs-file-complaints-against-Clearview-AI-in-five-countries](https://www.computerweekly.com/news/252501435/NGOs-file-complaints-against-Clearview-AI-in-five-countries)
  - date published: 2021-05-27 19:23:24+00:00
  - user: rumpel
- - tags: ['privacy', 'surveillance', 'facial recognition', 'bigbrother', 'clearview', 'artificial intelligence']
+ - tags: ['privacy', 'surveillance', 'facial recognition', 'big brother', 'clearview', 'artificial intelligence']
 
 ## Black Lives Matter co-founder Patrisse Cullors resigns amid controversy
  - [https://nypost.com/2021/05/27/black-lives-matter-co-founder-patrisse-cullors-resigns-amid-controversy/](https://nypost.com/2021/05/27/black-lives-matter-co-founder-patrisse-cullors-resigns-amid-controversy/)
@@ -3542,7 +3542,7 @@
  - [https://www.youtube.com/watch?v=s54H5d34GWE](https://www.youtube.com/watch?v=s54H5d34GWE)
  - date published: 2021-05-24 07:32:48+00:00
  - user: None
- - tags: ['bill gates', 'epstein']
+ - tags: ['bill gates', 'jeffrey epstein']
 
 ## Spirited Away - Why Work Is Toxic
  - [https://www.youtube.com/watch?v=tkxR1TcG4n4](https://www.youtube.com/watch?v=tkxR1TcG4n4)
@@ -3566,7 +3566,7 @@
  - [https://nypost.com/2021/05/18/bill-gates-hoped-epstein-would-help-him-win-a-nobel-report/](https://nypost.com/2021/05/18/bill-gates-hoped-epstein-would-help-him-win-a-nobel-report/)
  - date published: 2021-05-18 15:59:39+00:00
  - user: rumpel
- - tags: ['bill gates', 'epstein', 'nobel']
+ - tags: ['bill gates', 'jeffrey epstein', 'nobel']
 
 ## Huge Eufy privacy breach shows live and recorded cam feeds to strangers [U: Statement]
  - [https://9to5mac.com/2021/05/17/huge-eufy-privacy-breach/](https://9to5mac.com/2021/05/17/huge-eufy-privacy-breach/)
@@ -3608,7 +3608,7 @@
  - [https://www.newsweek.com/neuroscience-professor-removed-apa-discussion-after-saying-there-are-only-two-genders-1591697](https://www.newsweek.com/neuroscience-professor-removed-apa-discussion-after-saying-there-are-only-two-genders-1591697)
  - date published: 2021-05-14 20:54:35+00:00
  - user: rumpel
- - tags: ['intolerance', 'gender', 'scienceisdead']
+ - tags: ['intolerance', 'gender', 'science is dead']
 
 ## Use of fear to control behaviour in Covid crisis was ‘totalitarian’, admit scientists
  - [https://www.telegraph.co.uk/news/2021/05/14/scientists-admit-totalitarian-use-fear-control-behaviour-covid/](https://www.telegraph.co.uk/news/2021/05/14/scientists-admit-totalitarian-use-fear-control-behaviour-covid/)
@@ -3740,13 +3740,13 @@
  - [https://nypost.com/2021/04/25/youre-no-safer-from-covid-social-distancing-at-6-or-60-feet-study/](https://nypost.com/2021/04/25/youre-no-safer-from-covid-social-distancing-at-6-or-60-feet-study/)
  - date published: 2021-04-25 19:33:08+00:00
  - user: rumpel
- - tags: ['social distancing', 'covid', 'scienceisdead']
+ - tags: ['social distancing', 'covid', 'science is dead']
 
 ## Richard Dawkins loses ‘humanist of the year’ title over trans comments
  - [https://www.theguardian.com/books/2021/apr/20/richard-dawkins-loses-humanist-of-the-year-trans-comments?CMP=fb_gu](https://www.theguardian.com/books/2021/apr/20/richard-dawkins-loses-humanist-of-the-year-trans-comments?CMP=fb_gu)
  - date published: 2021-04-21 22:05:57+00:00
  - user: rumpel
- - tags: ['intolerance', 'censorship', 'lgbt', 'trans']
+ - tags: ['intolerance', 'censorship', 'lgbt', 'transgender']
 
 ## Leaked EU-Pfizer contract shows price for COVID vaccines set at 15.5 euros per dose
  - [https://finance.yahoo.com/news/leaked-eu-pfizer-contract-shows-123021585.html](https://finance.yahoo.com/news/leaked-eu-pfizer-contract-shows-123021585.html)
@@ -3884,7 +3884,7 @@
  - [https://www.nytimes.com/2021/03/24/world/covid-coverage-by-the-us-national-media-is-an-outlier-a-study-finds.html](https://www.nytimes.com/2021/03/24/world/covid-coverage-by-the-us-national-media-is-an-outlier-a-study-finds.html)
  - date published: 2021-03-24 21:37:41+00:00
  - user: rumpel
- - tags: ['scienceisdead', 'propaganda', 'media', 'fearmongering', 'covid']
+ - tags: ['science is dead', 'propaganda', 'media', 'fearmongering', 'covid']
 
 ## Biden calls for gun control following Boulder shooting – DW – 03/23/2021
  - [https://www.dw.com/en/colorado-shooting-us-president-joe-biden-calls-for-gun-control/a-56963483](https://www.dw.com/en/colorado-shooting-us-president-joe-biden-calls-for-gun-control/a-56963483)
@@ -3896,7 +3896,7 @@
  - [https://www.youtube.com/watch?v=D9iF4k16be0](https://www.youtube.com/watch?v=D9iF4k16be0)
  - date published: 2021-03-21 20:51:19+00:00
  - user: None
- - tags: ['bill gates', 'epstein']
+ - tags: ['bill gates', 'jeffrey epstein']
 
 ## Pfizer CEO Bourla’s Pay Climbed 17% to $21 Million in 2020
  - [https://www.bloomberg.com/news/articles/2021-03-12/pfizer-ceo-bourla-s-pay-climbed-17-to-21-million-in-2020](https://www.bloomberg.com/news/articles/2021-03-12/pfizer-ceo-bourla-s-pay-climbed-17-to-21-million-in-2020)
@@ -3938,7 +3938,7 @@
  - [https://www.newsweek.com/florida-sees-same-covid-case-rate-california-despite-no-statewide-restrictions-1576211](https://www.newsweek.com/florida-sees-same-covid-case-rate-california-despite-no-statewide-restrictions-1576211)
  - date published: 2021-03-15 19:24:58+00:00
  - user: rumpel
- - tags: ['lockdown', 'covid', 'scienceisdead']
+ - tags: ['lockdown', 'covid', 'science is dead']
 
 ## LA County judge authorizes cutting off restaurant's electricity for trying to survive pandemic | Fox News
  - [https://www.foxnews.com/us/la-county-judge-authorizes-burbank-cut-off-electricity-restaurant-trying-survive-covid-pandemic](https://www.foxnews.com/us/la-county-judge-authorizes-burbank-cut-off-electricity-restaurant-trying-survive-covid-pandemic)
@@ -3956,13 +3956,13 @@
  - [https://policetribune.com/portland-rioters-try-set-fire-to-federal-courthouse-hours-after-security-fence-is-removed/](https://policetribune.com/portland-rioters-try-set-fire-to-federal-courthouse-hours-after-security-fence-is-removed/)
  - date published: 2021-03-12 19:26:38+00:00
  - user: rumpel
- - tags: ['protest', 'black lives matter']
+ - tags: ['defund the police', 'black lives matter', 'protest']
 
 ## A man lives in a society where citizens police each other with their mobile phones. | Utopia
  - [https://www.youtube.com/watch?v=vJYaXy5mmA8](https://www.youtube.com/watch?v=vJYaXy5mmA8)
  - date published: 2021-03-12 15:09:15+00:00
  - user: rumpel
- - tags: ['orwell', 'all time', 'surveillance', 'utopia', 'digital id', 'bigbrother']
+ - tags: ['orwell', 'all time', 'surveillance', 'utopia', 'digital id', 'big brother']
 
 ## Printed to Death: Dollar Due to Crash in 2021
  - [https://www.outsiderclub.com/printed-to-death-dollar-due-to-crash-in-2021/98588](https://www.outsiderclub.com/printed-to-death-dollar-due-to-crash-in-2021/98588)
@@ -4010,7 +4010,7 @@
  - [https://www.youtube.com/watch?v=8xl2mWK9LsE](https://www.youtube.com/watch?v=8xl2mWK9LsE)
  - date published: 2021-02-21 13:36:49+00:00
  - user: rumpel
- - tags: ['dead internet', 'algorithms', 'google search']
+ - tags: ['dead internet', 'algorithms', 'search engines']
 
 ## Yanis Varoufakis: Capitalism has become 'techno-feudalism' | UpFront
  - [https://www.youtube.com/watch?v=_jW0xUmUaUc](https://www.youtube.com/watch?v=_jW0xUmUaUc)
@@ -4034,7 +4034,7 @@
  - [https://www.nytimes.com/2021/02/18/opinion/fake-news-media-attention.html](https://www.nytimes.com/2021/02/18/opinion/fake-news-media-attention.html)
  - date published: 2021-02-18 20:03:45+00:00
  - user: rumpel
- - tags: ['critical thinking', 'covid', 'scienceisdead']
+ - tags: ['critical thinking', 'covid', 'science is dead']
 
 ## Social Media as Social Control.
  - [https://www.youtube.com/watch?v=4ZCuAbjdfsg](https://www.youtube.com/watch?v=4ZCuAbjdfsg)
@@ -4058,7 +4058,7 @@
  - [https://cceit.com/german-ministry-hired-scientists-to-induce-corona-fear/](https://cceit.com/german-ministry-hired-scientists-to-induce-corona-fear/)
  - date published: 2021-02-10 21:14:43+00:00
  - user: rumpel
- - tags: ['germany', 'covid lie', 'covid', 'scienceisdead', 'lockdown']
+ - tags: ['germany', 'covid lie', 'covid', 'science is dead', 'lockdown']
 
 ## Germany Hired Scientists To Develop Fake Coronavirus Model To Justify Strict Lockdown
  - [https://greatgameindia.com/germany-hired-scientists-fake-coronavirus-model/](https://greatgameindia.com/germany-hired-scientists-fake-coronavirus-model/)
@@ -4094,7 +4094,7 @@
  - [https://www.nytimes.com/2021/01/29/opinion/sunday/facebook-surveillance-society-technology.html](https://www.nytimes.com/2021/01/29/opinion/sunday/facebook-surveillance-society-technology.html)
  - date published: 2021-01-29 13:12:13+00:00
  - user: rumpel
- - tags: ['social media', 'bigbrother', 'censorship', 'surveillance', 'moderation']
+ - tags: ['social media', 'big brother', 'censorship', 'surveillance', 'moderation']
 
 ## Bill Gates will spray chemicals in the atmosphere in June using thousands of planes - NeeWS
  - [https://tekdeeps.com/bill-gates-will-spray-chemicals-in-the-atmosphere-in-june-using-thousands-of-planes-neews/](https://tekdeeps.com/bill-gates-will-spray-chemicals-in-the-atmosphere-in-june-using-thousands-of-planes-neews/)
@@ -4190,13 +4190,13 @@
  - [https://www.nbcnews.com/tech/tech-news/how-facebook-twitter-decided-take-down-trump-s-accounts-n1254317](https://www.nbcnews.com/tech/tech-news/how-facebook-twitter-decided-take-down-trump-s-accounts-n1254317)
  - date published: 2021-01-14 13:13:13+00:00
  - user: rumpel
- - tags: ['moderation', 'twitter', 'facebook', 'bigbrother', 'january 6', 'censorship', 'collusion', 'extremism']
+ - tags: ['moderation', 'twitter', 'facebook', 'big brother', 'january 6', 'censorship', 'collusion', 'extremism']
 
 ## Cyberfaszyzm
  - [https://polityko.com/2021/01/13/cyberfaszyzm/](https://polityko.com/2021/01/13/cyberfaszyzm/)
  - date published: 2021-01-13 13:15:58+00:00
  - user: rumpel
- - tags: ['privacy', 'bigtech', 'bigbrother', 'censorship', 'surveillance', 'hunter biden']
+ - tags: ['privacy', 'big tech', 'big brother', 'censorship', 'surveillance', 'hunter biden']
 
 ## PBS lawyer resigns after being caught in Veritas sting | AP News
  - [https://apnews.com/article/donald-trump-entertainment-coronavirus-pandemic-8f586d687ab332777a7a059457ff818e](https://apnews.com/article/donald-trump-entertainment-coronavirus-pandemic-8f586d687ab332777a7a059457ff818e)

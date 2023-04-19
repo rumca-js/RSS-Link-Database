@@ -56,13 +56,13 @@
  - [https://www.washingtonpost.com/posteverything/wp/2015/09/24/the-new-propaganda-how-the-american-government-is-trying-to-control-what-you-think/](https://www.washingtonpost.com/posteverything/wp/2015/09/24/the-new-propaganda-how-the-american-government-is-trying-to-control-what-you-think/)
  - date published: 2015-08-24 15:18:52+00:00
  - user: None
- - tags: ['socialengineering', 'propaganda', 'government', 'bigbrother']
+ - tags: ['socialengineering', 'propaganda', 'government', 'big brother']
 
 ## NSA staff used spy tools on spouses, ex-lovers: watchdog
  - [https://www.reuters.com/article/us-usa-surveillance-watchdog-idUSBRE98Q14G20130927](https://www.reuters.com/article/us-usa-surveillance-watchdog-idUSBRE98Q14G20130927)
  - date published: 2015-08-24 12:45:42+00:00
  - user: None
- - tags: ['surveillance', 'nsa', 'privacy', 'bigbrother']
+ - tags: ['surveillance', 'nsa', 'privacy', 'big brother']
 
 ## Even when told not to, Windows 10 just can’t stop talking to Microsoft | Ars Technica
  - [https://arstechnica.com/information-technology/2015/08/even-when-told-not-to-windows-10-just-cant-stop-talking-to-microsoft/](https://arstechnica.com/information-technology/2015/08/even-when-told-not-to-windows-10-just-cant-stop-talking-to-microsoft/)
@@ -122,7 +122,7 @@
  - [https://www.youtube.com/watch?v=5dNbWGaaxWM](https://www.youtube.com/watch?v=5dNbWGaaxWM)
  - date published: 2015-04-16 16:16:43+00:00
  - user: None
- - tags: ['socialism', 'totalitarianism', 'politicalcorrectness', 'zizek', 'propaganda']
+ - tags: ['slavoj zizek', 'virtue signalling', 'political correctness', 'propaganda', 'totalitarianism', 'socialism']
 
 ## Bill Gates: The next outbreak? We’re not ready | TED
  - [https://www.youtube.com/watch?v=6Af6b_wyiwI](https://www.youtube.com/watch?v=6Af6b_wyiwI)
@@ -140,7 +140,7 @@
  - [https://www.gawker.com/billionaire-pervert-jeffrey-epstein-and-his-famous-frie-1679246399](https://www.gawker.com/billionaire-pervert-jeffrey-epstein-and-his-famous-frie-1679246399)
  - date published: 2015-01-22 19:55:29+00:00
  - user: rumpel
- - tags: ['billionairs', 'epstein', 'elites']
+ - tags: ['billionairs', 'jeffrey epstein', 'elites']
 
 ## Chinese Cancer Villages Show The High Human Cost Of Industrialization
  - [https://allthatsinteresting.com/chinese-cancer-villages](https://allthatsinteresting.com/chinese-cancer-villages)
@@ -158,7 +158,7 @@
  - [https://www.mirror.co.uk/news/world-news/prince-andrew-allegation-first-pictures-4925112](https://www.mirror.co.uk/news/world-news/prince-andrew-allegation-first-pictures-4925112)
  - date published: 2015-01-05 19:58:26+00:00
  - user: rumpel
- - tags: ['billionairs', 'epstein', 'prince andrew', 'elites']
+ - tags: ['billionairs', 'jeffrey epstein', 'prince andrew', 'elites']
 
 ## Robustness principle
  - [https://en.wikipedia.org/wiki/Robustness_principle](https://en.wikipedia.org/wiki/Robustness_principle)

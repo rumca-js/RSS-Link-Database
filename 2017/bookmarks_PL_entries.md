@@ -14,7 +14,7 @@
  - [https://newsbook.pl/2017/08/05/szwecja-terrorysci-moga-byc-dobrymi-rodzicami-polakom-zabiora-dzieci-za-nadopiekunczosc](https://newsbook.pl/2017/08/05/szwecja-terrorysci-moga-byc-dobrymi-rodzicami-polakom-zabiora-dzieci-za-nadopiekunczosc)
  - date published: 2017-08-05 08:54:59+00:00
  - user: rumpel
- - tags: ['kids', 'bigbrother', 'sweden']
+ - tags: ['kids', 'big brother', 'sweden']
 
 ## Opozycja nie obroni sądów przed PiS. Ma niewielkie pole manewru
  - [https://www.polityka.pl/tygodnikpolityka/kraj/1712492,1,opozycja-nie-obroni-sadow-przed-pis-ma-niewielkie-pole-manewru.read](https://www.polityka.pl/tygodnikpolityka/kraj/1712492,1,opozycja-nie-obroni-sadow-przed-pis-ma-niewielkie-pole-manewru.read)
@@ -26,7 +26,7 @@
  - [https://www.polskieradio.pl/130/5925/Artykul/1779858,Powody-zabierania-rodzicom-ich-dzieci-w-Niemczech-sa-absurdalne](https://www.polskieradio.pl/130/5925/Artykul/1779858,Powody-zabierania-rodzicom-ich-dzieci-w-Niemczech-sa-absurdalne)
  - date published: 2017-06-21 08:57:38+00:00
  - user: rumpel
- - tags: ['bigbrother', 'germany']
+ - tags: ['big brother', 'germany']
 
 ## Szef Ringier Axel Springer instruuje swoich dziennikarzy, jak oceniać polski rząd. Wysłał specjalny list
  - [https://www.tysol.pl/a5495-szef-ringier-axel-springer-instruuje-swoich-dziennikarzy-jak-oceniac-polski-rzad-wyslal-specjalny-list](https://www.tysol.pl/a5495-szef-ringier-axel-springer-instruuje-swoich-dziennikarzy-jak-oceniac-polski-rzad-wyslal-specjalny-list)
@@ -38,7 +38,7 @@
  - [https://spidersweb.pl/2017/02/niemieckie-media-w-polsce.html](https://spidersweb.pl/2017/02/niemieckie-media-w-polsce.html)
  - date published: 2017-02-08 11:57:10+00:00
  - user: None
- - tags: ['government', 'control', 'media', 'bigbrother']
+ - tags: ['government', 'control', 'media', 'big brother']
 
 ## Przeczywistość: Pizzagate
  - [http://przeczywistosc.pl/pizzagate/](http://przeczywistosc.pl/pizzagate/)

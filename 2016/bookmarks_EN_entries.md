@@ -8,7 +8,7 @@
  - [https://www.theguardian.com/technology/2016/dec/16/google-autocomplete-rightwing-bias-algorithm-political-propaganda](https://www.theguardian.com/technology/2016/dec/16/google-autocomplete-rightwing-bias-algorithm-political-propaganda)
  - date published: 2016-12-16 14:31:58+00:00
  - user: rumpel
- - tags: ['algorithms', 'social engineering', 'psyop', 'google search']
+ - tags: ['algorithms', 'social engineering', 'psyop', 'search engines']
 
 ## Clinton mega donor George Soros leads line-up of liberal billionaires who are funding Facebook's fake news fact checker
  - [https://www.dailymail.co.uk/news/article-4041910/Clinton-mega-donor-George-Soros-leads-line-liberal-billionaires-funding-Facebook-s-fake-news-fact-checker.html](https://www.dailymail.co.uk/news/article-4041910/Clinton-mega-donor-George-Soros-leads-line-liberal-billionaires-funding-Facebook-s-fake-news-fact-checker.html)
@@ -44,7 +44,7 @@
  - [https://www.rutherford.org/publications_resources/john_whiteheads_commentary/when_it_comes_to_fake_news_the_u.s._government_is_the_biggest_culprit](https://www.rutherford.org/publications_resources/john_whiteheads_commentary/when_it_comes_to_fake_news_the_u.s._government_is_the_biggest_culprit)
  - date published: 2016-11-21 15:16:47+00:00
  - user: None
- - tags: ['government', 'fakenews', 'factcheck', 'misinformation', 'bigbrother', 'all time', 'disinformation']
+ - tags: ['government', 'fakenews', 'fact check', 'misinformation', 'big brother', 'all time', 'disinformation']
 
 ## How Teens In The Balkans Are Duping Trump Supporters With Fake News
  - [https://www.buzzfeednews.com/article/craigsilverman/how-macedonia-became-a-global-hub-for-pro-trump-misinfo](https://www.buzzfeednews.com/article/craigsilverman/how-macedonia-became-a-global-hub-for-pro-trump-misinfo)
@@ -142,6 +142,12 @@
  - user: None
  - tags: ['propaganda', 'inclusion', 'diversity', 'equity']
 
+## Profusa awarded $7.5M DARPA grant to work on implantable biosensors | Fierce Biotech
+ - [https://www.fiercebiotech.com/medical-devices/profusa-awarded-7-5-million-darpa-grant-to-work-implantable-biosensors](https://www.fiercebiotech.com/medical-devices/profusa-awarded-7-5-million-darpa-grant-to-work-implantable-biosensors)
+ - date published: 2016-07-12 20:14:30+00:00
+ - user: rumpel
+ - tags: ['biometric', 'profusa', 'chip']
+
 ## Pfizer agrees to opioid marketing deal to escape a lawsuit by Chicago - STAT
  - [https://www.statnews.com/pharmalot/2016/07/06/pfizer-opioids-chicago-painkiller/](https://www.statnews.com/pharmalot/2016/07/06/pfizer-opioids-chicago-painkiller/)
  - date published: 2016-07-06 20:56:30+00:00
@@ -170,7 +176,7 @@
  - [https://www.theglobeandmail.com/technology/google-under-fire-after-video-suggests-biased-search-results-favour-clinton/article30402737/](https://www.theglobeandmail.com/technology/google-under-fire-after-video-suggests-biased-search-results-favour-clinton/article30402737/)
  - date published: 2016-06-10 14:15:29+00:00
  - user: rumpel
- - tags: ['dead internet', 'bigtech', 'google search', 'algorithms', 'media bias', 'manufacturing consent']
+ - tags: ['dead internet', 'big tech', 'search engines', 'algorithms', 'media bias', 'manufacturing consent']
 
 ## Marshall McLuhan 1977 Interview - Violence as a Quest for Identity
  - [https://www.youtube.com/watch?v=ULI3x8WIxus](https://www.youtube.com/watch?v=ULI3x8WIxus)
@@ -224,7 +230,7 @@
  - [https://www.youtube.com/watch?v=1S0aBV-Waeo](https://www.youtube.com/watch?v=1S0aBV-Waeo)
  - date published: 2016-03-02 10:02:31+00:00
  - user: rumpel
- - tags: ['hacker', 'programming', 'bufferoverflow']
+ - tags: ['buffer overflow', 'hacker', 'programming']
 
 ## Ashley Madison data breach
  - [https://en.wikipedia.org/wiki/Ashley_Madison_data_breach](https://en.wikipedia.org/wiki/Ashley_Madison_data_breach)
@@ -242,7 +248,7 @@
  - [https://news.yahoo.com/us-surveillance-merkel-wider-thought-wikileaks-142951516.html](https://news.yahoo.com/us-surveillance-merkel-wider-thought-wikileaks-142951516.html)
  - date published: 2016-02-23 11:48:12+00:00
  - user: None
- - tags: ['surveillance', 'merkel', 'wikileaks', 'bigbrother', 'all time']
+ - tags: ['surveillance', 'merkel', 'wikileaks', 'big brother', 'all time']
 
 ## Lifetime of electrical appliances becoming shorter and shorter
  - [https://www.umweltbundesamt.de/en/press/pressinformation/lifetime-of-electrical-appliances-becoming-shorter](https://www.umweltbundesamt.de/en/press/pressinformation/lifetime-of-electrical-appliances-becoming-shorter)

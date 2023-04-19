@@ -38,7 +38,7 @@
  - [https://www.money.pl/gospodarka/urzad-bedzie-blokowal-strony-internetowe-kolejna-granica-przekroczona-6582516203985472a.html](https://www.money.pl/gospodarka/urzad-bedzie-blokowal-strony-internetowe-kolejna-granica-przekroczona-6582516203985472a.html)
  - date published: 2020-12-04 07:04:19+00:00
  - user: None
- - tags: ['tech control', 'bigbrother', 'censorship', 'internet', 'freedom']
+ - tags: ['tech control', 'big brother', 'censorship', 'internet', 'freedom']
 
 ## Lekarz: Strategia testowania i izolowania jest samobójcza
  - [https://tarnogorski.info/pilne-kierownik-oddzia/](https://tarnogorski.info/pilne-kierownik-oddzia/)
@@ -52,11 +52,23 @@
  - user: rumpel
  - tags: ['google']
 
+## Prezes Pfizera sprzedał swoje akcje w dniu ogłoszenia sukcesu badań nad szczepionką. Zarobił 5,6 mln dol.
+ - [https://businessinsider.com.pl/wiadomosci/prezes-pfizera-sprzedal-swoje-akcje-w-dniu-ogloszenia-sukcesu-badan-nad-szczepionka/y1ccgzn](https://businessinsider.com.pl/wiadomosci/prezes-pfizera-sprzedal-swoje-akcje-w-dniu-ogloszenia-sukcesu-badan-nad-szczepionka/y1ccgzn)
+ - date published: 2020-11-11 20:10:48+00:00
+ - user: rumpel
+ - tags: ['billionaires', 'big pharma', 'manufacturing consent', 'pfizer']
+
 ## Targi dla gejów. „Handel dziećmi będzie uchodzić za prawo człowieka”
  - [https://www.tvp.info/50701017/homoseksualisci-moga-kupic-dzieci-trwaja-miedzynarodowe-targi](https://www.tvp.info/50701017/homoseksualisci-moga-kupic-dzieci-trwaja-miedzynarodowe-targi)
  - date published: 2020-11-07 08:46:55+00:00
  - user: rumpel
  - tags: ['kids', 'lgbt', 'surrogacy']
+
+## KE ma umowę z Johnson&Johnson na 400 mln dawek szczepionki na Covid-19 - Bankier.pl
+ - [https://www.bankier.pl/wiadomosc/KE-ma-umowe-z-Johnson-Johnson-na-400-mln-dawek-szczepionki-na-Covid-19-7985549.html](https://www.bankier.pl/wiadomosc/KE-ma-umowe-z-Johnson-Johnson-na-400-mln-dawek-szczepionki-na-Covid-19-7985549.html)
+ - date published: 2020-10-21 20:00:49+00:00
+ - user: rumpel
+ - tags: ['johnson and johnson', 'covid', 'vaccine']
 
 ## Jak facebook amazon monopolizują dane osobowe. Giganty technologiczne i nowy porządek świata.WWR#112
  - [https://www.youtube.com/watch?v=PbqLcEsm1qE](https://www.youtube.com/watch?v=PbqLcEsm1qE)
@@ -70,11 +82,17 @@
  - user: rumpel
  - tags: ['lgbt', 'inequality', 'margot']
 
+## Powstało izolatorium dla zakażonych koronawirusem | 24jgora.pl
+ - [https://24jgora.pl/artykul/powstalo-izolatorium/1085260](https://24jgora.pl/artykul/powstalo-izolatorium/1085260)
+ - date published: 2020-10-01 19:53:32+00:00
+ - user: rumpel
+ - tags: ['poland', 'quarantine', 'covid']
+
 ## Dzieci odebrane Polce przez Jugendamt zostaną na razie u muzułmanów
  - [https://wiadomosci.dziennik.pl/swiat/artykuly/7802606,jugendamt-polka-dzieci-rodzina-muzulmanie-niemcy.html](https://wiadomosci.dziennik.pl/swiat/artykuly/7802606,jugendamt-polka-dzieci-rodzina-muzulmanie-niemcy.html)
  - date published: 2020-09-21 08:55:52+00:00
  - user: rumpel
- - tags: ['kids', 'bigbrother', 'germany']
+ - tags: ['kids', 'big brother', 'germany']
 
 ## The Patriarchy Paradox
  - [https://www.youtube.com/watch?v=wTHgMxQEoPI](https://www.youtube.com/watch?v=wTHgMxQEoPI)
@@ -86,7 +104,13 @@
  - [https://www.bankier.pl/wiadomosc/Ekspert-Rzad-w-ustawie-o-cyberbezpieczenstwie-wprowadza-cenzure-internetu-7964382.html](https://www.bankier.pl/wiadomosc/Ekspert-Rzad-w-ustawie-o-cyberbezpieczenstwie-wprowadza-cenzure-internetu-7964382.html)
  - date published: 2020-09-18 07:03:50+00:00
  - user: None
- - tags: ['bigbrother', 'tech control', 'free speech', 'censorship']
+ - tags: ['big brother', 'tech control', 'free speech', 'censorship']
+
+## Pracodawca może zwolnić pracownika za odmowę szczepienia - rp.pl
+ - [https://www.rp.pl/prawo-w-firmie/art8821281-pracodawca-moze-zwolnic-pracownika-za-odmowe-szczepienia](https://www.rp.pl/prawo-w-firmie/art8821281-pracodawca-moze-zwolnic-pracownika-za-odmowe-szczepienia)
+ - date published: 2020-09-16 20:00:16+00:00
+ - user: rumpel
+ - tags: ['mandates', 'covid', 'vaccine']
 
 ## Chińscy hakerzy latami kontrolowali systemy TeamViewera – i nie tylko
  - [https://zaufanatrzeciastrona.pl/post/chinscy-hakerzy-latami-kontrolowali-systemy-teamviewera-i-nie-tylko/](https://zaufanatrzeciastrona.pl/post/chinscy-hakerzy-latami-kontrolowali-systemy-teamviewera-i-nie-tylko/)
@@ -116,7 +140,7 @@
  - [https://niezalezna.pl/342733-obowiazkowe-zajecia-z-lewackiej-ideologii-dla-studentow-z-kalifornii-zmieniono-priorytety](https://niezalezna.pl/342733-obowiazkowe-zajecia-z-lewackiej-ideologii-dla-studentow-z-kalifornii-zmieniono-priorytety)
  - date published: 2020-07-25 20:08:11+00:00
  - user: rumpel
- - tags: ['scienceisdead', 'universities', 'left', 'propaganda']
+ - tags: ['science is dead', 'universities', 'left', 'propaganda']
 
 ## Google: koniec z zarabianiem na teoriach spiskowych!
  - [https://www.tabletowo.pl/google-koniec-z-zarabianiem-na-teoriach-spiskowych](https://www.tabletowo.pl/google-koniec-z-zarabianiem-na-teoriach-spiskowych)
@@ -140,7 +164,7 @@
  - [https://www.rp.pl/spoleczenstwo/art654161-eksperyment-kentlera-jak-w-niemczech-przekazywano-dzieci-pedofilom](https://www.rp.pl/spoleczenstwo/art654161-eksperyment-kentlera-jak-w-niemczech-przekazywano-dzieci-pedofilom)
  - date published: 2020-06-26 07:32:08+00:00
  - user: None
- - tags: ['government', 'kentler', 'paedophilia', 'germany', 'bigbrother']
+ - tags: ['government', 'kentler', 'paedophilia', 'germany', 'big brother']
 
 ## Zwykły bohater #2 Nauczyciel
  - [https://www.youtube.com/watch?v=gCObZjzFv-8](https://www.youtube.com/watch?v=gCObZjzFv-8)
@@ -153,6 +177,18 @@
  - date published: 2020-06-18 22:18:53+00:00
  - user: rumpel
  - tags: ['germany', 'kentler', 'paedophilia']
+
+## Brat ministra Szumowskiego t�umaczy si� z afery z maseczkami
+ - [https://www.tokfm.pl/Tokfm/7,103087,25965883,brat-ministra-szumowskiego-tlumaczy-sie-z-afery-z-maseczkami.html](https://www.tokfm.pl/Tokfm/7,103087,25965883,brat-ministra-szumowskiego-tlumaczy-sie-z-afery-z-maseczkami.html)
+ - date published: 2020-05-22 20:28:16+00:00
+ - user: rumpel
+ - tags: ['poland', 'szumowski', 'covid']
+
+## Ministerstwo zdrowia kupiło maseczki od znajomego ministra Szumowskiego. Teraz żąda zwrotu pieniędzy - Money.pl
+ - [https://www.money.pl/gospodarka/ministerstwo-zdrowia-kupilo-maseczki-od-znajomego-ministra-szumowskiego-teraz-zada-zwrotu-pieniedzy-6509608986204289a.html](https://www.money.pl/gospodarka/ministerstwo-zdrowia-kupilo-maseczki-od-znajomego-ministra-szumowskiego-teraz-zada-zwrotu-pieniedzy-6509608986204289a.html)
+ - date published: 2020-05-12 20:29:09+00:00
+ - user: rumpel
+ - tags: ['poland', 'szumowski', 'covid', 'masks']
 
 ## Jest afera. Każdy smartfon Xiaomi to podobno „backdoor z funkcjonalnością telefonu”
  - [https://www.benchmark.pl/aktualnosci/smartfony-xiaomi-zbieraja-wszystkie-dane-o-uzytkowniku.html](https://www.benchmark.pl/aktualnosci/smartfony-xiaomi-zbieraja-wszystkie-dane-o-uzytkowniku.html)

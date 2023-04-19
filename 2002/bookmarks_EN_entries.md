@@ -8,5 +8,5 @@
  - [https://nymag.com/nymetro/news/people/n_7912/](https://nymag.com/nymetro/news/people/n_7912/)
  - date published: 2002-10-28 20:06:02+00:00
  - user: rumpel
- - tags: ['billionairs', 'epstein', 'elites']
+ - tags: ['billionairs', 'jeffrey epstein', 'elites']
 

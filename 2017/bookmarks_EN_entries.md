@@ -38,7 +38,7 @@
  - [https://www.youtube.com/watch?v=WWDmelZxgoI](https://www.youtube.com/watch?v=WWDmelZxgoI)
  - date published: 2017-11-21 20:37:18+00:00
  - user: None
- - tags: ['bigtech', 'google', 'monopoly', 'corporatocracy', 'power']
+ - tags: ['big tech', 'google', 'monopoly', 'corporatocracy', 'power']
 
 ## Who Created Engineers ? Origins Explained || Theories
  - [https://www.youtube.com/watch?v=kSp07bwW1tA](https://www.youtube.com/watch?v=kSp07bwW1tA)
@@ -68,7 +68,7 @@
  - [http://www.coalpha.org/Google-as-a-search-engine-is-becoming-useless-td7576886.html](http://www.coalpha.org/Google-as-a-search-engine-is-becoming-useless-td7576886.html)
  - date published: 2017-10-23 16:30:02+00:00
  - user: rumpel
- - tags: ['google search']
+ - tags: ['search engines']
 
 ## Eye Symbolism in Blade Runner 2049 Explained || Hidden Messages Analysis
  - [https://www.youtube.com/watch?v=jRSZd8xYaL4](https://www.youtube.com/watch?v=jRSZd8xYaL4)
@@ -140,7 +140,7 @@
  - [https://www.youtube.com/watch?v=VIW2OBOzu7Y](https://www.youtube.com/watch?v=VIW2OBOzu7Y)
  - date published: 2017-09-06 12:36:58+00:00
  - user: rumpel
- - tags: ['google', 'damore', 'rogan', 'feminism']
+ - tags: ['google', 'damore', 'joe rogan', 'feminism']
 
 ## Dennis Meadows Interview p4/4 (A 'peaceful collapse' & many revolutions...)
  - [https://www.youtube.com/watch?v=Dbo6uvJBtZg](https://www.youtube.com/watch?v=Dbo6uvJBtZg)
@@ -152,7 +152,7 @@
  - [https://www.independent.co.uk/tech/twitter-new-terms-of-service-truth-original-content-tweets-embed-messages-posts-a7929256.html](https://www.independent.co.uk/tech/twitter-new-terms-of-service-truth-original-content-tweets-embed-messages-posts-a7929256.html)
  - date published: 2017-09-04 12:04:50+00:00
  - user: None
- - tags: ['bigtech', 'social media', 'subscription']
+ - tags: ['big tech', 'social media', 'subscription']
 
 ## California bill seeks to punish 'misgendering' with jail time | Catholic News Agency
  - [https://www.catholicnewsagency.com/news/36720/california-bill-seeks-to-punish-misgendering-with-jail-time](https://www.catholicnewsagency.com/news/36720/california-bill-seeks-to-punish-misgendering-with-jail-time)
@@ -176,13 +176,13 @@
  - [http://www.cnn.com/2017/08/24/asia/indian-court-right-to-privacy/index.html](http://www.cnn.com/2017/08/24/asia/indian-court-right-to-privacy/index.html)
  - date published: 2017-08-25 02:03:01+00:00
  - user: rumpel
- - tags: ['freedom', 'privacy', 'bigbrother']
+ - tags: ['freedom', 'privacy', 'big brother']
 
 ## NSA: Egregious Cases Of US Government Employees Abusing Databases To Spy On Americans
  - [https://www.businessinsider.com/how-nsa-can-abuse-data-on-americans-2013-7?IR=T](https://www.businessinsider.com/how-nsa-can-abuse-data-on-americans-2013-7?IR=T)
  - date published: 2017-08-24 13:37:57+00:00
  - user: None
- - tags: ['surveillance', 'nsa', 'privacy', 'bigbrother']
+ - tags: ['surveillance', 'nsa', 'privacy', 'big brother']
 
 ## The Actual Science of James Damore’s Google Memo
  - [https://www.wired.com/story/the-pernicious-science-of-james-damores-google-memo/](https://www.wired.com/story/the-pernicious-science-of-james-damores-google-memo/)
@@ -218,7 +218,7 @@
  - [https://www.youtube.com/watch?v=IdjdNgvF42o](https://www.youtube.com/watch?v=IdjdNgvF42o)
  - date published: 2017-08-03 22:21:57+00:00
  - user: rumpel
- - tags: ['ben shapiro', 'joe rogan', 'woke', 'trans']
+ - tags: ['ben shapiro', 'joe rogan', 'woke', 'transgender']
 
 ## Top 10 F-Droid Best Apps that are Not on Google Play - TechWiser
  - [https://techwiser.com/f-droid-best-apps/](https://techwiser.com/f-droid-best-apps/)
@@ -236,7 +236,7 @@
  - [https://nakedsecurity.sophos.com/2017/07/14/vault-7-new-wikileaks-dump-details-android-sms-snooping-malware/](https://nakedsecurity.sophos.com/2017/07/14/vault-7-new-wikileaks-dump-details-android-sms-snooping-malware/)
  - date published: 2017-07-14 21:47:09+00:00
  - user: rumpel
- - tags: ['wikileaks', 'cia', 'trojan', 'assange', 'malware', 'bigbrother']
+ - tags: ['wikileaks', 'cia', 'trojan', 'assange', 'malware', 'big brother']
 
 ## Millions of Android Devices Hit With CopyCat Malware | McAfee Blog
  - [https://www.mcafee.com/blogs/mobile-security/android-devices-hit-with-copycat-malware/](https://www.mcafee.com/blogs/mobile-security/android-devices-hit-with-copycat-malware/)
@@ -260,7 +260,7 @@
  - [http://money.cnn.com/2017/06/27/technology/business/google-eu-antitrust-fine/index.html](http://money.cnn.com/2017/06/27/technology/business/google-eu-antitrust-fine/index.html)
  - date published: 2017-06-27 13:24:36+00:00
  - user: rumpel
- - tags: ['manipulation', 'fine', 'google', 'algorithms', 'bigtech']
+ - tags: ['algorithms', 'fine', 'search engines', 'technofeudalism', 'google', 'corporatocracy', 'big tech']
 
 ## Google will stop scanning your Gmail messages to sell targeted ads
  - [https://www.theverge.com/2017/6/23/15862492/google-gmail-advertising-targeting-privacy-coud-business](https://www.theverge.com/2017/6/23/15862492/google-gmail-advertising-targeting-privacy-coud-business)
@@ -338,7 +338,7 @@
  - [https://capitalresearch.org/article/dishonest-fact-checkers/](https://capitalresearch.org/article/dishonest-fact-checkers/)
  - date published: 2017-03-10 12:34:06+00:00
  - user: rumpel
- - tags: ['factcheck', 'media bias', 'scienceisdead']
+ - tags: ['fact check', 'media bias', 'science is dead']
 
 ## What is the WikiLeaks Vault 7 release about CIA TV snooping powers and what is the Weeping Angel virus Samsung hack? | The Sun
  - [https://www.thesun.co.uk/news/3037357/wikileaks-vault-7-samsung-tv-weeping-angel-cia/](https://www.thesun.co.uk/news/3037357/wikileaks-vault-7-samsung-tv-weeping-angel-cia/)
@@ -368,7 +368,7 @@
  - [https://www.nytimes.com/2017/03/07/world/europe/wikileaks-cia-hacking.html](https://www.nytimes.com/2017/03/07/world/europe/wikileaks-cia-hacking.html)
  - date published: 2017-03-07 21:41:31+00:00
  - user: rumpel
- - tags: ['wikileaks', 'cia', 'trojan', 'assange', 'malware', 'bigbrother']
+ - tags: ['wikileaks', 'cia', 'trojan', 'assange', 'malware', 'big brother']
 
 ## Noam Chomsky - The 5 Filters of the Mass Media Machine
  - [https://www.youtube.com/watch?v=34LGPIXvU5M](https://www.youtube.com/watch?v=34LGPIXvU5M)
@@ -392,13 +392,13 @@
  - [https://www.bitdefender.com/blog/hotforsecurity/selfie-app-meitu-allegedly-leaks-data-to-chinese-government](https://www.bitdefender.com/blog/hotforsecurity/selfie-app-meitu-allegedly-leaks-data-to-chinese-government)
  - date published: 2017-01-25 12:04:50+00:00
  - user: None
- - tags: ['bigbrother', 'china', 'surveillance', 'meitu', 'data leak']
+ - tags: ['big brother', 'china', 'surveillance', 'meitu', 'data leak']
 
 ## Fact Sheet: Activity at the Wuhan Institute of Virology
  - [https://2017-2021.state.gov/fact-sheet-activity-at-the-wuhan-institute-of-virology/index.html](https://2017-2021.state.gov/fact-sheet-activity-at-the-wuhan-institute-of-virology/index.html)
  - date published: 2017-01-20 07:25:32+00:00
  - user: rumpel
- - tags: ['gainoffunction', 'usa', 'covid', 'wuhan']
+ - tags: ['gain of function', 'covid', 'usa', 'wuhan']
 
 ## Having babies really does change women's brains
  - [https://www.abc.net.au/news/2017-01-07/having-babies-changes-womens-brains/8165466](https://www.abc.net.au/news/2017-01-07/having-babies-changes-womens-brains/8165466)

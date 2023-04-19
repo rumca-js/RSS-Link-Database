@@ -86,7 +86,7 @@
  - [https://www.polsatnews.pl/wiadomosc/2021-10-07/australia-rzad-chce-zakazac-anonimowych-komentarzy-media-spolecznosciowe-to-palac-tchorzy/](https://www.polsatnews.pl/wiadomosc/2021-10-07/australia-rzad-chce-zakazac-anonimowych-komentarzy-media-spolecznosciowe-to-palac-tchorzy/)
  - date published: 2021-10-07 20:22:14+00:00
  - user: None
- - tags: ['privacy', 'bigbrother', 'tech control', 'australia']
+ - tags: ['privacy', 'big brother', 'tech control', 'australia']
 
 ## Wyrok TSUE w sprawie Turowa. Polska musi płacić, inaczej KE zabezpieczy część pieniędzy z funduszy
  - [https://www.onet.pl/informacje/onetwiadomosci/kara-za-kopalnie-w-turowie-polska-musi-placic-jakie-dzialania-moze-podjac-ke/yw3yp46,79cfc278](https://www.onet.pl/informacje/onetwiadomosci/kara-za-kopalnie-w-turowie-polska-musi-placic-jakie-dzialania-moze-podjac-ke/yw3yp46,79cfc278)
@@ -140,13 +140,13 @@
  - [https://portal-polski.pl/hiszpania-zmiana-plci-od-14-roku-zycia-bez-ograniczen/7199/](https://portal-polski.pl/hiszpania-zmiana-plci-od-14-roku-zycia-bez-ograniczen/7199/)
  - date published: 2021-07-01 22:27:07+00:00
  - user: rumpel
- - tags: ['kids', 'trans', 'spain', 'gender', 'bigbrother', 'lgbt']
+ - tags: ['kids', 'transgender', 'spain', 'gender', 'big brother', 'lgbt']
 
 ## Rząd nakazał przedsiębiorcom segregację na szczepionych i nieszczepionych, ale zapomniał powiedzieć, jak mają to robić
  - [https://panoptykon.org/zaszczepieni-ponad-limitami](https://panoptykon.org/zaszczepieni-ponad-limitami)
  - date published: 2021-07-01 21:43:26+00:00
  - user: rumpel
- - tags: ['bigbrother', 'covid', 'vaccine', 'government']
+ - tags: ['big brother', 'covid', 'vaccine', 'government']
 
 ## Kiedy WHO zmieniła definicję odporności stada? Zmiana treści definicji terminu Odporność Stadna. [listopad 2020]
  - [https://pubmedinfo.org/2021/06/16/kiedy-who-zmienila-definicje-odpornosci-stada/](https://pubmedinfo.org/2021/06/16/kiedy-who-zmienila-definicje-odpornosci-stada/)
@@ -164,7 +164,7 @@
  - [https://medianarodowe.com/2021/05/12/szalenstwo-postepu-rodzice-twierdza-ze-ich-4-letnie-dziecko-jest-transplciowe-wideo/](https://medianarodowe.com/2021/05/12/szalenstwo-postepu-rodzice-twierdza-ze-ich-4-letnie-dziecko-jest-transplciowe-wideo/)
  - date published: 2021-05-12 08:59:27+00:00
  - user: rumpel
- - tags: ['trans', 'family', 'lgbt']
+ - tags: ['transgender', 'family', 'lgbt']
 
 ## Prezydent Estonii w Polsat News: nie powinniśmy wracać do świata sprzed pandemii
  - [https://www.polsatnews.pl/wiadomosc/2021-05-05/prezydent-estonii-w-polsat-news-nie-powinnismy-wracac-do-swiata-sprzed-pandemii/](https://www.polsatnews.pl/wiadomosc/2021-05-05/prezydent-estonii-w-polsat-news-nie-powinnismy-wracac-do-swiata-sprzed-pandemii/)
@@ -272,7 +272,7 @@
  - [https://www.komputerswiat.pl/aktualnosci/internet/rzad-nowelizuje-ustawe-o-cyberbezpieczenstwie-bedzie-mogl-wylaczac-serwisy/wnhl9hg](https://www.komputerswiat.pl/aktualnosci/internet/rzad-nowelizuje-ustawe-o-cyberbezpieczenstwie-bedzie-mogl-wylaczac-serwisy/wnhl9hg)
  - date published: 2021-01-29 13:08:11+00:00
  - user: None
- - tags: ['surveillance', 'privacy', 'bigbrother', 'tech control']
+ - tags: ['surveillance', 'privacy', 'big brother', 'tech control']
 
 ## Niemcy: Złamiesz kwarantannę - trafisz do obozu
  - [https://www.rp.pl/swiat/art8695031-niemcy-zlamiesz-kwarantanne-trafisz-do-obozu](https://www.rp.pl/swiat/art8695031-niemcy-zlamiesz-kwarantanne-trafisz-do-obozu)
@@ -290,11 +290,11 @@
  - [https://www.bankier.pl/wiadomosc/Economist-Swiat-nie-moze-pozwolic-oligopolom-technologicznym-na-przejecie-kontroli-nad-podstawowymi-swobodami-8038414.html](https://www.bankier.pl/wiadomosc/Economist-Swiat-nie-moze-pozwolic-oligopolom-technologicznym-na-przejecie-kontroli-nad-podstawowymi-swobodami-8038414.html)
  - date published: 2021-01-16 20:15:49+00:00
  - user: None
- - tags: ['olygopoly', 'freedom', 'bigtech']
+ - tags: ['olygopoly', 'freedom', 'big tech']
 
 ## Władzę nad światem przejmuje Big Tech. Czy to już koniec wolności słowa?
  - [https://geekweek.interia.pl/styl-zycia/news-wladze-nad-swiatem-przejmuje-big-tech-czy-to-juz-koniec-woln,nId,5547055](https://geekweek.interia.pl/styl-zycia/news-wladze-nad-swiatem-przejmuje-big-tech-czy-to-juz-koniec-woln,nId,5547055)
  - date published: 2021-01-11 13:17:34+00:00
  - user: rumpel
- - tags: ['democracy', 'bigtech', 'freedom', 'bigbrother', 'censorship', 'moderation']
+ - tags: ['democracy', 'big tech', 'freedom', 'big brother', 'censorship', 'moderation']
 

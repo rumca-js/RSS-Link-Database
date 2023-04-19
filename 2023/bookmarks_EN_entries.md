@@ -1,3 +1,63 @@
+## Is Elon Musk creating a utopian city? The hellish, heavenly history of company towns
+ - [https://www.theguardian.com/society/2023/apr/18/is-elon-musk-creating-a-utopian-city-the-hellish-heavenly-history-of-company-towns](https://www.theguardian.com/society/2023/apr/18/is-elon-musk-creating-a-utopian-city-the-hellish-heavenly-history-of-company-towns)
+ - date published: 2023-04-18 09:00:40+00:00
+ - user: rumpel
+ - tags: ['company towns']
+
+## Girl Too Young For Tattoo Offered Irreversible Gender Surgery
+ - [https://www.youtube.com/watch?v=yRQB61VWmw8](https://www.youtube.com/watch?v=yRQB61VWmw8)
+ - date published: 2023-04-17 20:11:35+00:00
+ - user: rumpel
+ - tags: ['woke', 'transgender', 'gender']
+
+## Panic at Google: Samsung considers dumping search for Bing and ChatGPT
+ - [https://arstechnica.com/?p=1932211](https://arstechnica.com/?p=1932211)
+ - date published: 2023-04-17 17:42:00+00:00
+ - user: rumpel
+ - tags: ['google', 'search engines', 'chatgpt']
+
+## Chaos Rules In Chicago, The Lack Of Two-Parent Homes Is To Blame
+ - [https://www.dailywire.com/news/chaos-rules-in-chicago-the-lack-of-two-parent-homes-is-to-blame](https://www.dailywire.com/news/chaos-rules-in-chicago-the-lack-of-two-parent-homes-is-to-blame)
+ - date published: 2023-04-17 17:02:00+00:00
+ - user: rumpel
+ - tags: ['defund the police', 'chicago']
+
+## Microsoft Isn’t Done Shoving Ads Into Windows 11
+ - [https://gizmodo.com/microsoft-windows-11-ads-start-menu-365-onedrive-badgin-1850343412](https://gizmodo.com/microsoft-windows-11-ads-start-menu-365-onedrive-badgin-1850343412)
+ - date published: 2023-04-17 15:05:00+00:00
+ - user: rumpel
+ - tags: ['microsoft', 'ads', 'windows']
+
+## AT&T launches medical radar device that monitors older adults through walls
+ - [https://www.theverge.com/2023/4/17/23686246/att-cherish-serenity-medical-radar-device-monitor-falls-privacy](https://www.theverge.com/2023/4/17/23686246/att-cherish-serenity-medical-radar-device-monitor-falls-privacy)
+ - date published: 2023-04-17 13:31:10+00:00
+ - user: rumpel
+ - tags: ['big brother', 'privacy', 'technofeudalism', 'big tech']
+
+## “Take your best shot, Zuckerberg.” Kari Lake blasts Facebook censorship
+ - [https://reclaimthenet.org/kari-lake-blasts-facebook-censorship](https://reclaimthenet.org/kari-lake-blasts-facebook-censorship)
+ - date published: 2023-04-17 12:01:10+00:00
+ - user: rumpel
+ - tags: ['corporatocracy', 'meta', 'big tech', 'facebook', 'censorship']
+
+## Steam restricts thousands of accounts for calling a review helpful - WIN.gg
+ - [https://win.gg/news/steam-restricts-thousands-of-accounts-for-calling-a-review-helpful/](https://win.gg/news/steam-restricts-thousands-of-accounts-for-calling-a-review-helpful/)
+ - date published: 2023-04-17 07:59:08+00:00
+ - user: rumpel
+ - tags: ['valve', 'technofeudalism', 'corporatocracy', 'steam']
+
+## Christians celebrate Holy Fire ritual under Israeli restrictions
+ - [https://www.aljazeera.com/gallery/2023/4/16/christians-celebrate-holy-fire-ritual-under-israeli-restrictions](https://www.aljazeera.com/gallery/2023/4/16/christians-celebrate-holy-fire-ritual-under-israeli-restrictions)
+ - date published: 2023-04-16 09:26:50+00:00
+ - user: rumpel
+ - tags: ['israel', 'christianophobia']
+
+## Google CEO: “can we change the setting of this group to history-off” [pdf]
+ - [https://ia601707.us.archive.org/28/items/gov.uscourts.cand.364454/gov.uscourts.cand.364454.385.0.pdf](https://ia601707.us.archive.org/28/items/gov.uscourts.cand.364454/gov.uscourts.cand.364454.385.0.pdf)
+ - date published: 2023-04-15 22:19:26+00:00
+ - user: rumpel
+ - tags: ['google', 'corporatocracy', 'monopoly']
+
 ## Robert F. Kennedy Jr: “CBDCs are the ultimate mechanisms for social surveillance and control”
  - [https://reclaimthenet.org/rfk-jr-cbdcs-surveillance-control](https://reclaimthenet.org/rfk-jr-cbdcs-surveillance-control)
  - date published: 2023-04-14 23:22:57+00:00
@@ -64,11 +124,23 @@
  - user: rumpel
  - tags: ['open source', 'youtube-dl', 'github']
 
+## Legislation to protect trans youth seeking lifesaving care passes the House - Sen. Marko Liias
+ - [https://senatedemocrats.wa.gov/liias/2023/04/13/legislation-to-protect-trans-youth-seeking-lifesaving-care-passes-the-house/](https://senatedemocrats.wa.gov/liias/2023/04/13/legislation-to-protect-trans-youth-seeking-lifesaving-care-passes-the-house/)
+ - date published: 2023-04-13 09:21:44+00:00
+ - user: rumpel
+ - tags: ['woke', 'transgender', 'gender', 'big brother']
+
 ## Axel Springer CEO tried to use Bild to influence the outcome of Germany’s election, leaked messages show | Nieman Journalism Lab
  - [https://www.niemanlab.org/reading/axel-springer-ceo-tried-to-use-bild-to-influence-the-outcome-of-germanys-election-leaked-messages-show/](https://www.niemanlab.org/reading/axel-springer-ceo-tried-to-use-bild-to-influence-the-outcome-of-germanys-election-leaked-messages-show/)
  - date published: 2023-04-13 07:43:34+00:00
  - user: rumpel
  - tags: ['elections', 'axel springer', 'media', 'germany']
+
+## Minors seeking gender-affirming treatment can shelter without parent's knowledge if bill passes - MyNorthwest.com
+ - [https://mynorthwest.com/3874975/minors-seeking-gender-affirming-treatment-shelter-without-parents-knowledge-bill/](https://mynorthwest.com/3874975/minors-seeking-gender-affirming-treatment-shelter-without-parents-knowledge-bill/)
+ - date published: 2023-04-13 07:28:35+00:00
+ - user: rumpel
+ - tags: ['big brother', 'lgbt', 'gender', 'family', 'transgender', 'america']
 
 ## “You Just Lied!” - Elon Musk DESTROYS BBC Reporter LIVE
  - [https://www.youtube.com/watch?v=JzKA2aLvN1Q](https://www.youtube.com/watch?v=JzKA2aLvN1Q)
@@ -92,13 +164,19 @@
  - [https://www.theepochtimes.com/alex-berenson-sues-biden-pfizer-board-member-over-twitter-ban_5189521.html](https://www.theepochtimes.com/alex-berenson-sues-biden-pfizer-board-member-over-twitter-ban_5189521.html)
  - date published: 2023-04-12 15:39:24+00:00
  - user: rumpel
- - tags: ['twitter', 'bigbrother', 'censorship', 'pfizer', 'corporatocracy']
+ - tags: ['twitter', 'big brother', 'censorship', 'pfizer', 'corporatocracy']
 
 ## TRADING WITH THE ENEMY - Seymour Hersh
  - [https://seymourhersh.substack.com/p/trading-with-the-enemy](https://seymourhersh.substack.com/p/trading-with-the-enemy)
  - date published: 2023-04-12 06:53:54+00:00
  - user: rumpel
  - tags: ['war', 'ukraine']
+
+## MrBeast and the Trans Agenda in Gen Z Entertainment - Intellectual Takeout
+ - [https://intellectualtakeout.org/2023/04/mrbeast-trans-gen-z-entertainment/](https://intellectualtakeout.org/2023/04/mrbeast-trans-gen-z-entertainment/)
+ - date published: 2023-04-12 05:54:08+00:00
+ - user: rumpel
+ - tags: ['transgender', 'woke', 'egoism']
 
 ## GPT-4 Outperforms Elite Crowdworkers, Saving Researchers $500k and 20k hours
  - [https://www.artisana.ai/articles/gpt-4-outperforms-elite-crowdworkers-saving-researchers-usd500-000-and-20](https://www.artisana.ai/articles/gpt-4-outperforms-elite-crowdworkers-saving-researchers-usd500-000-and-20)
@@ -128,7 +206,13 @@
  - [https://reclaimthenet.org/india-to-require-us-social-media-platforms-to-abide-by-government-run-fact-checker](https://reclaimthenet.org/india-to-require-us-social-media-platforms-to-abide-by-government-run-fact-checker)
  - date published: 2023-04-10 14:47:46+00:00
  - user: rumpel
- - tags: ['india', 'fact-check']
+ - tags: ['india', 'fact check']
+
+## Posts distort proposed LGBTQ ‘safety zone’ bill in Canada | AP News
+ - [https://apnews.com/article/fact-check-canada-bill-LGBTQ-777684926093](https://apnews.com/article/fact-check-canada-bill-LGBTQ-777684926093)
+ - date published: 2023-04-10 07:24:00+00:00
+ - user: rumpel
+ - tags: ['lgbt', 'woke', 'canada', 'gender']
 
 ## This Makes Hacking TOO Easy - Flipper Zero
  - [https://www.youtube.com/watch?v=nLIp4wd0oXs](https://www.youtube.com/watch?v=nLIp4wd0oXs)
@@ -248,7 +332,7 @@
  - [https://www.dailymail.co.uk/news/article-11935809/New-Zealand-Prime-Minister-Chris-Hipkins-lost-words-reporter-asks-define-woman.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11935809/New-Zealand-Prime-Minister-Chris-Hipkins-lost-words-reporter-asks-define-woman.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2023-04-04 05:26:05+00:00
  - user: rumpel
- - tags: ['woke', 'whatisawoman']
+ - tags: ['woke', 'what is a woman']
 
 ## Twitter’s open-source code has references to “Government Requested” influence
  - [https://reclaimthenet.org/twitters-open-source-code-has-references-to-government-requested-influence](https://reclaimthenet.org/twitters-open-source-code-has-references-to-government-requested-influence)
@@ -272,7 +356,7 @@
  - [https://www.nytimes.com/2023/04/02/us/politics/nso-contract-us-spy.html](https://www.nytimes.com/2023/04/02/us/politics/nso-contract-us-spy.html)
  - date published: 2023-04-02 23:32:42+00:00
  - user: rumpel
- - tags: ['america', 'bigbrother', 'surveillance']
+ - tags: ['america', 'big brother', 'surveillance']
 
 ## The Day Windows Died
  - [https://thomasbandt.com/the-day-windows-died](https://thomasbandt.com/the-day-windows-died)
@@ -302,7 +386,7 @@
  - [https://businessinsider.com.pl/biznes/google-amazon-i-meta-pogarszaja-swoje-podstawowe-produkty-robia-to-celowo/8hqsn68](https://businessinsider.com.pl/biznes/google-amazon-i-meta-pogarszaja-swoje-podstawowe-produkty-robia-to-celowo/8hqsn68)
  - date published: 2023-04-01 04:05:00+00:00
  - user: rumpel
- - tags: ['google', 'algorithms', 'meta', 'amazon', 'google search']
+ - tags: ['dark design', 'meta', 'algorithms', 'search engines', 'amazon', 'google']
 
 ## Italian privacy regulator bans ChatGPT
  - [https://www.politico.eu/article/italian-privacy-regulator-bans-chatgpt/](https://www.politico.eu/article/italian-privacy-regulator-bans-chatgpt/)
@@ -314,7 +398,7 @@
  - [https://arstechnica.com/tech-policy/2023/03/facebook-gets-to-decide-whether-eu-users-can-object-to-invasive-targeted-ads/](https://arstechnica.com/tech-policy/2023/03/facebook-gets-to-decide-whether-eu-users-can-object-to-invasive-targeted-ads/)
  - date published: 2023-03-31 07:43:09+00:00
  - user: rumpel
- - tags: ['privacy', 'meta', 'surveillance', 'technofeudalism', 'bigtech']
+ - tags: ['privacy', 'meta', 'surveillance', 'technofeudalism', 'big tech']
 
 ## Gmail is killing independent email
  - [http://www.igregious.com/2023/03/gmail-is-breaking-email.html](http://www.igregious.com/2023/03/gmail-is-breaking-email.html)
@@ -326,7 +410,7 @@
  - [https://www.youtube.com/watch?v=p1GONgRrdKs](https://www.youtube.com/watch?v=p1GONgRrdKs)
  - date published: 2023-03-30 18:46:39+00:00
  - user: rumpel
- - tags: ['censorship', 'twitter', 'bigbrother', 'surveillance', 'twitter files', 'social media']
+ - tags: ['censorship', 'twitter', 'big brother', 'surveillance', 'twitter files', 'social media']
 
 ## Digital Euro to have built-in limitations, as Central Bank President says it will never be as private as cash
  - [https://reclaimthenet.org/digital-euro-to-have-built-in-limitations](https://reclaimthenet.org/digital-euro-to-have-built-in-limitations)
@@ -386,7 +470,7 @@
  - [https://reclaimthenet.org/twitter-censors-tweets-nashville-shooter](https://reclaimthenet.org/twitter-censors-tweets-nashville-shooter)
  - date published: 2023-03-29 02:34:25+00:00
  - user: rumpel
- - tags: ['trans', 'woke', 'hate speech', 'christianophobia']
+ - tags: ['transgender', 'woke', 'hate speech', 'christianophobia']
 
 ## Microsoft's Software Is Malware
  - [https://www.gnu.org/proprietary/malware-microsoft.en.html](https://www.gnu.org/proprietary/malware-microsoft.en.html)
@@ -440,13 +524,13 @@
  - [https://www.bbc.com/news/technology-65057011](https://www.bbc.com/news/technology-65057011)
  - date published: 2023-03-28 00:25:31+00:00
  - user: rumpel
- - tags: ['privacy', 'surveillance', 'facial recognition', 'bigbrother', 'clearview', 'artificial intelligence']
+ - tags: ['privacy', 'surveillance', 'facial recognition', 'big brother', 'clearview', 'artificial intelligence']
 
 ## The FBI’s Contract to Buy Mass Internet Data
  - [https://www.vice.com/en/article/dy3z9a/fbi-bought-netflow-data-team-cymru-contract](https://www.vice.com/en/article/dy3z9a/fbi-bought-netflow-data-team-cymru-contract)
  - date published: 2023-03-27 19:34:20+00:00
  - user: rumpel
- - tags: ['surveillance', 'fbi', 'bigbrother', 'privacy laundering']
+ - tags: ['surveillance', 'fbi', 'big brother', 'privacy laundering']
 
 ## Greenland ice sheet is close to a melting point of no return
  - [https://news.agu.org/press-release/the-greenland-ice-sheet-is-close-to-a-melting-point-of-no-return/](https://news.agu.org/press-release/the-greenland-ice-sheet-is-close-to-a-melting-point-of-no-return/)
@@ -572,7 +656,7 @@
  - [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4381627](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4381627)
  - date published: 2023-03-23 10:01:44+00:00
  - user: rumpel
- - tags: ['scienceisdead', 'propaganda', 'fearmongering', 'covid']
+ - tags: ['science is dead', 'propaganda', 'fearmongering', 'covid']
 
 ## Moviemaking and Gamemaking Are Converging
  - [https://www.economist.com/special-report/2023/03/20/moviemaking-and-gamemaking-are-converging](https://www.economist.com/special-report/2023/03/20/moviemaking-and-gamemaking-are-converging)
@@ -626,7 +710,7 @@
  - [https://www.youtube.com/watch?v=89FoKRtpAy4](https://www.youtube.com/watch?v=89FoKRtpAy4)
  - date published: 2023-03-21 17:02:00+00:00
  - user: rumpel
- - tags: ['scienceisdead', 'fearmongering', 'covid', 'media']
+ - tags: ['science is dead', 'fearmongering', 'covid', 'media']
 
 ## How Wall Street bought single-family homes and put them up for rent
  - [https://www.cnbc.com/2023/02/21/how-wall-street-bought-single-family-homes-and-put-them-up-for-rent.html](https://www.cnbc.com/2023/02/21/how-wall-street-bought-single-family-homes-and-put-them-up-for-rent.html)
@@ -728,7 +812,7 @@
  - [https://reclaimthenet.org/brazil-had-a-secret-program-to-track-peoples-location-via-cell-phone](https://reclaimthenet.org/brazil-had-a-secret-program-to-track-peoples-location-via-cell-phone)
  - date published: 2023-03-16 17:31:22+00:00
  - user: rumpel
- - tags: ['surveillance', 'privacy', 'bigbrother']
+ - tags: ['surveillance', 'privacy', 'big brother']
 
 ## Coding won’t exist in 5 years? You might be right.
  - [https://www.youtube.com/watch?v=brAwZ5l_fuQ](https://www.youtube.com/watch?v=brAwZ5l_fuQ)
@@ -752,7 +836,7 @@
  - [https://www.theepochtimes.com/cdc-bought-phone-data-to-monitor-americans-compliance-with-lockdowns-contracts-show_5118737.html](https://www.theepochtimes.com/cdc-bought-phone-data-to-monitor-americans-compliance-with-lockdowns-contracts-show_5118737.html)
  - date published: 2023-03-16 12:06:57+00:00
  - user: rumpel
- - tags: ['privacy', 'surveillance', 'covid', 'lockdown', 'bigbrother']
+ - tags: ['privacy', 'surveillance', 'covid', 'lockdown', 'big brother']
 
 ## Russia Sentences Soldier Who Admitted to War Crimes in Ukraine - The Moscow Times
  - [https://www.themoscowtimes.com/2023/03/16/russia-sentences-soldier-who-admitted-to-war-crimes-in-ukraine-a80494](https://www.themoscowtimes.com/2023/03/16/russia-sentences-soldier-who-admitted-to-war-crimes-in-ukraine-a80494)
@@ -818,7 +902,7 @@
  - [https://www.bloomberg.com/news/articles/2023-03-13/cia-tells-sxsw-that-spy-technology-needs-to-be-supercharged](https://www.bloomberg.com/news/articles/2023-03-13/cia-tells-sxsw-that-spy-technology-needs-to-be-supercharged)
  - date published: 2023-03-13 17:51:05+00:00
  - user: rumpel
- - tags: ['manufacturing consent', 'bigbrother', 'surveillance', 'artificial intelligence']
+ - tags: ['manufacturing consent', 'big brother', 'surveillance', 'artificial intelligence']
 
 ## Losing Signal
  - [https://ploum.net/2023-03-09-losing-signal.html](https://ploum.net/2023-03-09-losing-signal.html)
@@ -848,7 +932,7 @@
  - [https://www.youtube.com/watch?v=tUk169XL58w](https://www.youtube.com/watch?v=tUk169XL58w)
  - date published: 2023-03-12 20:00:27+00:00
  - user: rumpel
- - tags: ['microsoft', 'dark design', 'embrace extend extinguish']
+ - tags: ['dark design', 'embrace extend extinguish', 'linux', 'microsoft', 'corporatocracy']
 
 ## Till the LAST UKRAINIAN  [Documentary]
  - [https://www.youtube.com/watch?v=wcn3_V2_rJ0](https://www.youtube.com/watch?v=wcn3_V2_rJ0)
@@ -872,7 +956,7 @@
  - [https://www.outkick.com/climate-expert-greta-thunberg-deletes-2018-tweet-saying-world-will-end-in-2023-because-the-world-has-not-ended/](https://www.outkick.com/climate-expert-greta-thunberg-deletes-2018-tweet-saying-world-will-end-in-2023-because-the-world-has-not-ended/)
  - date published: 2023-03-11 19:54:05+00:00
  - user: rumpel
- - tags: ['climate change', 'thunberg']
+ - tags: ['climate change', 'greta thunberg']
 
 ## ChatGPT's API Is So Good and Cheap, It Makes Most Text Generating AI Obsolete
  - [https://minimaxir.com/2023/03/new-chatgpt-overlord/](https://minimaxir.com/2023/03/new-chatgpt-overlord/)
@@ -890,13 +974,13 @@
  - [https://www.foxnews.com/tech/invasive-cell-phone-surveillance-monitors-calls-text-messages](https://www.foxnews.com/tech/invasive-cell-phone-surveillance-monitors-calls-text-messages)
  - date published: 2023-03-11 16:00:27+00:00
  - user: rumpel
- - tags: ['stingray', 'privacy', 'bigbrother', 'surveillance']
+ - tags: ['stingray', 'privacy', 'big brother', 'surveillance']
 
 ## Post-decency politics: House Democrats use a hearing to attack free speech and a free press
  - [https://thehill.com/opinion/judiciary/3895242-post-decency-politics-house-democrats-use-a-hearing-to-attack-free-speech-and-a-free-press/](https://thehill.com/opinion/judiciary/3895242-post-decency-politics-house-democrats-use-a-hearing-to-attack-free-speech-and-a-free-press/)
  - date published: 2023-03-11 16:00:00+00:00
  - user: rumpel
- - tags: ['bigbrother', 'censorship', 'twitter', 'twitter files', 'free speech', 'moderation']
+ - tags: ['big brother', 'censorship', 'twitter', 'twitter files', 'free speech', 'moderation']
 
 ## GitHub - awesome-selfhosted/awesome-selfhosted: A list of Free Software network services and web applications which can be hosted on your own servers
  - [https://github.com/awesome-selfhosted/awesome-selfhosted#bookmarks-and-link-sharing](https://github.com/awesome-selfhosted/awesome-selfhosted#bookmarks-and-link-sharing)
@@ -920,7 +1004,7 @@
  - [https://www.theguardian.com/global-development/2023/mar/11/profiteering-of-covid-pandemic-must-never-be-repeated-world-figures-warn](https://www.theguardian.com/global-development/2023/mar/11/profiteering-of-covid-pandemic-must-never-be-repeated-world-figures-warn)
  - date published: 2023-03-11 06:01:11+00:00
  - user: rumpel
- - tags: ['bigpharma', 'covid']
+ - tags: ['big pharma', 'covid']
 
 ## What does Silicon Valley Bank’s collapse mean for the financial system?
  - [https://www.economist.com/finance-and-economics/2023/03/10/what-does-silicon-valley-banks-collapse-mean-for-the-financial-system](https://www.economist.com/finance-and-economics/2023/03/10/what-does-silicon-valley-banks-collapse-mean-for-the-financial-system)
@@ -974,7 +1058,7 @@
  - [https://www.wired.com/story/fbi-purchase-location-data-wray-senate/](https://www.wired.com/story/fbi-purchase-location-data-wray-senate/)
  - date published: 2023-03-09 05:18:40+00:00
  - user: rumpel
- - tags: ['surveillance', 'corporatocracy', 'bigbrother', 'fbi']
+ - tags: ['surveillance', 'corporatocracy', 'big brother', 'fbi']
 
 ## Facebook's powerful large language model leaks online
  - [https://www.vice.com/en/article/xgwqgw/facebooks-powerful-large-language-model-leaks-online-4chan-llama](https://www.vice.com/en/article/xgwqgw/facebooks-powerful-large-language-model-leaks-online-4chan-llama)
@@ -1018,12 +1102,6 @@
  - user: rumpel
  - tags: ['deepfake']
 
-## Od aplikacji mObywatel, do Tożsamości Suwerennej. Jak to wpłynie na nasze życie?
- - [https://www.youtube.com/watch?v=2L2Hr2QOOJk](https://www.youtube.com/watch?v=2L2Hr2QOOJk)
- - date published: 2023-03-08 05:00:02+00:00
- - user: rumpel
- - tags: ['digital passport', 'digital identity', 'mobywatel', 'government control']
-
 ## UK Parliament makes it illegal to pray near abortion facilities | Catholic News Agency
  - [https://www.catholicnewsagency.com/news/253814/uk-parliament-bans-pro-life-outreach-and-prayer-near-abortion-facilities](https://www.catholicnewsagency.com/news/253814/uk-parliament-bans-pro-life-outreach-and-prayer-near-abortion-facilities)
  - date published: 2023-03-07 19:40:56+00:00
@@ -1046,7 +1124,7 @@
  - [https://www.wired.com/story/algorithms-welfare-state-politics/](https://www.wired.com/story/algorithms-welfare-state-politics/)
  - date published: 2023-03-07 12:59:28+00:00
  - user: rumpel
- - tags: ['bigbrother', 'surveillance']
+ - tags: ['big brother', 'surveillance']
 
 ## Twitch starts to address 'deepfake porn', and the first thing to go is that phrase | PC Gamer
  - [https://www.pcgamer.com/twitch-starts-to-address-deepfake-porn-and-the-first-thing-to-go-is-that-phrase/](https://www.pcgamer.com/twitch-starts-to-address-deepfake-porn-and-the-first-thing-to-go-is-that-phrase/)
@@ -1076,13 +1154,13 @@
  - [https://www.washingtontimes.com/news/2023/mar/6/dr-fauci-and-art-covid-cover-/](https://www.washingtontimes.com/news/2023/mar/6/dr-fauci-and-art-covid-cover-/)
  - date published: 2023-03-06 19:01:46+00:00
  - user: rumpel
- - tags: ['covid', 'scienceisdead', 'fauci']
+ - tags: ['covid', 'science is dead', 'fauci']
 
 ## Google Search Is Dying (2022) | Hacker News
  - [https://news.ycombinator.com/item?id=35039360](https://news.ycombinator.com/item?id=35039360)
  - date published: 2023-03-06 16:23:52+00:00
  - user: rumpel
- - tags: ['google search']
+ - tags: ['search engines']
 
 ## Is Toyota's Smart City Crazier Than NEOM?
  - [https://www.youtube.com/watch?v=kQn8RAzqJpY](https://www.youtube.com/watch?v=kQn8RAzqJpY)
@@ -1094,19 +1172,19 @@
  - [https://dkb.blog/p/google-search-is-dying](https://dkb.blog/p/google-search-is-dying)
  - date published: 2023-03-06 10:21:45+00:00
  - user: rumpel
- - tags: ['google search', 'algorithms']
+ - tags: ['search engines', 'algorithms']
 
 ## New emails show Fauci commissioned paper to disprove Wuhan lab leak theory
  - [https://nypost.com/2023/03/05/new-emails-show-fauci-commissioned-paper-to-disprove-wuhan-lab-leak-theory/](https://nypost.com/2023/03/05/new-emails-show-fauci-commissioned-paper-to-disprove-wuhan-lab-leak-theory/)
  - date published: 2023-03-05 20:24:28+00:00
  - user: rumpel
- - tags: ['covid', 'scienceisdead', 'fauci']
+ - tags: ['covid', 'science is dead', 'fauci']
 
 ## Facebook and Google hand over user data, help police prosecute abortion seekers
  - [https://www.businessinsider.com/police-getting-help-social-media-to-prosecute-people-seeking-abortions-2023-2](https://www.businessinsider.com/police-getting-help-social-media-to-prosecute-people-seeking-abortions-2023-2)
  - date published: 2023-03-05 09:24:05+00:00
  - user: rumpel
- - tags: ['google', 'bigbrother', 'privacy', 'surveillance', 'facebook']
+ - tags: ['google', 'big brother', 'privacy', 'surveillance', 'facebook']
 
 ## Matt Hancock: Leaked messages suggest plan to frighten public - BBC News
  - [https://www.bbc.com/news/uk-64848106](https://www.bbc.com/news/uk-64848106)
@@ -1220,7 +1298,7 @@
  - [https://www.youtube.com/watch?v=iyMTTPGcSpI](https://www.youtube.com/watch?v=iyMTTPGcSpI)
  - date published: 2023-03-01 18:19:46+00:00
  - user: rumpel
- - tags: ['dark design', 'technofeudalism']
+ - tags: ['dark design', 'technofeudalism', 'everything app', 'twitter']
 
 ## Dr.  Amazon will see you now
  - [https://www.youtube.com/watch?v=Orc9G5DbiCg](https://www.youtube.com/watch?v=Orc9G5DbiCg)
@@ -1322,7 +1400,7 @@
  - [https://www.theepochtimes.com/trudeau-says-google-blocking-canadians-from-accessing-news-content-a-terrible-mistake_5082258.html](https://www.theepochtimes.com/trudeau-says-google-blocking-canadians-from-accessing-news-content-a-terrible-mistake_5082258.html)
  - date published: 2023-02-25 04:54:20+00:00
  - user: rumpel
- - tags: ['google', 'canada', 'technofeudalism', 'news', 'bigtech']
+ - tags: ['google', 'canada', 'technofeudalism', 'news', 'big tech']
 
 ## Covid-19: Primary vaccination for general population no longer recommended by the French health authority
  - [https://www.lemonde.fr/en/health/article/2023/02/25/covid-19-primary-vaccination-for-general-population-no-longer-recommended-by-the-french-health-authority_6017208_14.html](https://www.lemonde.fr/en/health/article/2023/02/25/covid-19-primary-vaccination-for-general-population-no-longer-recommended-by-the-french-health-authority_6017208_14.html)
@@ -1334,19 +1412,19 @@
  - [https://arstechnica.com/?p=1919839](https://arstechnica.com/?p=1919839)
  - date published: 2023-02-24 17:28:58+00:00
  - user: rumpel
- - tags: ['google', 'antitrust', 'privacy', 'bigtech']
+ - tags: ['google', 'antitrust', 'privacy', 'big tech']
 
 ## Signal app warns it will quit UK if law weakens end-to-end encryption
  - [https://www.theguardian.com/technology/2023/feb/24/signal-app-warns-it-will-quit-uk-if-law-weakens-end-to-end-encryption](https://www.theguardian.com/technology/2023/feb/24/signal-app-warns-it-will-quit-uk-if-law-weakens-end-to-end-encryption)
  - date published: 2023-02-24 14:08:55+00:00
  - user: rumpel
- - tags: ['signal', 'bigbrother', 'surveillance', 'england', 'privacy']
+ - tags: ['signal', 'big brother', 'surveillance', 'england', 'privacy']
 
 ## Google blocks news content for some Canadians in response to proposed rules
  - [https://www.theverge.com/2023/2/24/23613187/google-canada-news-block-online-act-bill-c-18](https://www.theverge.com/2023/2/24/23613187/google-canada-news-block-online-act-bill-c-18)
  - date published: 2023-02-24 09:55:31+00:00
  - user: rumpel
- - tags: ['google', 'canada', 'technofeudalism', 'news', 'bigtech']
+ - tags: ['google', 'canada', 'technofeudalism', 'news', 'big tech']
 
 ## North Korean hackers stole a record $1.7B of crypto last year
  - [https://www.economist.com/asia/2023/02/22/north-korean-hackers-stole-a-record-17bn-of-crypto-last-year](https://www.economist.com/asia/2023/02/22/north-korean-hackers-stole-a-record-17bn-of-crypto-last-year)
@@ -1358,7 +1436,7 @@
  - [https://www.forbes.com/sites/marisadellatto/2023/02/26/timeline-how-the-covid-lab-leak-origin-story-went-from-conspiracy-theory-to-government-debate/](https://www.forbes.com/sites/marisadellatto/2023/02/26/timeline-how-the-covid-lab-leak-origin-story-went-from-conspiracy-theory-to-government-debate/)
  - date published: 2023-02-23 19:24:10+00:00
  - user: rumpel
- - tags: ['covid', 'scienceisdead', 'wuhan']
+ - tags: ['covid', 'science is dead', 'wuhan']
 
 ## Tell HN: Do not store any funds in PayPal or use them for anything critical
  - [https://news.ycombinator.com/item?id=34913596](https://news.ycombinator.com/item?id=34913596)
@@ -1382,13 +1460,13 @@
  - [https://foundation.mozilla.org/en/blog/mozilla-study-data-privacy-labels-for-most-top-apps-in-google-play-store-are-false-or-misleading/](https://foundation.mozilla.org/en/blog/mozilla-study-data-privacy-labels-for-most-top-apps-in-google-play-store-are-false-or-misleading/)
  - date published: 2023-02-23 11:25:13+00:00
  - user: rumpel
- - tags: ['play store', 'google', 'antitrust', 'android', 'privacy', 'bigtech']
+ - tags: ['play store', 'google', 'antitrust', 'android', 'privacy', 'big tech']
 
 ## DOJ seeks court sanctions against Google over 'intentional destruction' of chat logs | CNN Business
  - [https://edition.cnn.com/2023/02/23/tech/doj-sanctions-google-intentional-destruction-chat-logs/index.html](https://edition.cnn.com/2023/02/23/tech/doj-sanctions-google-intentional-destruction-chat-logs/index.html)
  - date published: 2023-02-23 11:13:47+00:00
  - user: rumpel
- - tags: ['google', 'antitrust', 'bigtech']
+ - tags: ['google', 'antitrust', 'big tech']
 
 ## Ubuntu Flavors Agree to Stop Using Flatpak
  - [https://www.omgubuntu.co.uk/2023/02/ubuntu-flavors-no-flatpak](https://www.omgubuntu.co.uk/2023/02/ubuntu-flavors-no-flatpak)
@@ -1424,13 +1502,13 @@
  - [https://nypost.com/2023/02/21/south-parks-brutally-honest-take-on-trans-rights-abortion/](https://nypost.com/2023/02/21/south-parks-brutally-honest-take-on-trans-rights-abortion/)
  - date published: 2023-02-21 12:03:18+00:00
  - user: rumpel
- - tags: ['trans', 'south park', 'woke', 'abortion']
+ - tags: ['transgender', 'south park', 'woke', 'abortion']
 
 ## Opinion | The Mask Mandates Did Nothing. Will Any Lessons Be Learned? - The New York Times
  - [https://www.nytimes.com/2023/02/21/opinion/do-mask-mandates-work.html](https://www.nytimes.com/2023/02/21/opinion/do-mask-mandates-work.html)
  - date published: 2023-02-21 09:45:23+00:00
  - user: rumpel
- - tags: ['masks', 'covid lie', 'covid', 'scienceisdead', 'mandates']
+ - tags: ['masks', 'covid lie', 'covid', 'science is dead', 'mandates']
 
 ## What is a 15-minute city and why is the idea so controversial?
  - [https://www.itv.com/news/2023-02-20/what-is-a-15-minute-city-and-why-is-the-idea-so-controversial](https://www.itv.com/news/2023-02-20/what-is-a-15-minute-city-and-why-is-the-idea-so-controversial)
@@ -1484,7 +1562,7 @@
  - [https://www.cbsnews.com/news/roald-dahls-changes-childrens-books-rushdie-telegraph/?intcid=CNM-00-10abd1h](https://www.cbsnews.com/news/roald-dahls-changes-childrens-books-rushdie-telegraph/?intcid=CNM-00-10abd1h)
  - date published: 2023-02-19 07:46:19+00:00
  - user: rumpel
- - tags: ['ministryoftruth', 'fahrenheit 451', 'newspeak', 'censorship']
+ - tags: ['ministry of truth', 'fahrenheit 451', 'newspeak', 'censorship']
 
 ## Heavy police presence as demonstrators face off during Oxford LTN protest
  - [https://www.youtube.com/watch?v=Ajyo-965RuM](https://www.youtube.com/watch?v=Ajyo-965RuM)
@@ -1496,7 +1574,7 @@
  - [https://9to5mac.com/2023/02/17/google-apple-chrome-search-revenue/](https://9to5mac.com/2023/02/17/google-apple-chrome-search-revenue/)
  - date published: 2023-02-18 17:49:23+00:00
  - user: rumpel
- - tags: ['bigtech', 'google', 'apple', 'manufacturing consent']
+ - tags: ['big tech', 'google', 'apple', 'manufacturing consent']
 
 ## John Carmack on Functional Programming in C++ (2018)
  - [http://www.sevangelatos.com/john-carmack-on/](http://www.sevangelatos.com/john-carmack-on/)
@@ -1538,19 +1616,19 @@
  - [https://davidrozado.substack.com/p/political-bias-chatgpt](https://davidrozado.substack.com/p/political-bias-chatgpt)
  - date published: 2023-02-17 09:16:09+00:00
  - user: rumpel
- - tags: ['bigtech', 'media bias', 'chatgpt', 'artificial intelligence']
+ - tags: ['big tech', 'media bias', 'chatgpt', 'artificial intelligence']
 
 ## Augustus Gloop no longer fat as Roald Dahl goes PC
  - [https://www.telegraph.co.uk/news/2023/02/17/roald-dahl-woke-overhaul-offensive-words-removed/](https://www.telegraph.co.uk/news/2023/02/17/roald-dahl-woke-overhaul-offensive-words-removed/)
  - date published: 2023-02-17 07:47:10+00:00
  - user: rumpel
- - tags: ['ministryoftruth', 'fahrenheit 451', 'newspeak', 'censorship']
+ - tags: ['ministry of truth', 'fahrenheit 451', 'newspeak', 'censorship']
 
 ## App founder quits Google, says company doesn’t serve users anymore
  - [https://arstechnica.com/gadgets/2023/02/app-founder-quits-google-says-company-doesnt-serve-users-anymore/](https://arstechnica.com/gadgets/2023/02/app-founder-quits-google-says-company-doesnt-serve-users-anymore/)
  - date published: 2023-02-17 05:00:00+00:00
  - user: rumpel
- - tags: ['monopoly', 'google', 'bigtech']
+ - tags: ['monopoly', 'google', 'big tech']
 
 ## Core-JS chief complains open source is broken, no one will pay for it
  - [https://www.theregister.com/2023/02/15/corejs_russia_open_source/](https://www.theregister.com/2023/02/15/corejs_russia_open_source/)
@@ -1574,7 +1652,7 @@
  - [https://arstechnica.com/?p=1917626](https://arstechnica.com/?p=1917626)
  - date published: 2023-02-14 22:29:43+00:00
  - user: rumpel
- - tags: ['privacy', 'surveillance', 'google', 'bigtech', 'android']
+ - tags: ['privacy', 'surveillance', 'google', 'big tech', 'android']
 
 ## Use 'egg-producing' not 'female', say scientists in call to phase out binary language
  - [https://www.telegraph.co.uk/news/2023/02/14/words-male-female-should-banned-science-enforce-idea-sex-binary/](https://www.telegraph.co.uk/news/2023/02/14/words-male-female-should-banned-science-enforce-idea-sex-binary/)
@@ -1622,7 +1700,7 @@
  - [https://www.gamespot.com/articles/xbox-game-pass-does-decrease-base-game-sales-microsoft-says/1100-6511473/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/xbox-game-pass-does-decrease-base-game-sales-microsoft-says/1100-6511473/?ftag=CAD-01-10abi2f)
  - date published: 2023-02-13 18:05:00+00:00
  - user: rumpel
- - tags: ['subscription', 'lie', 'bigtech', 'microsoft', 'gamepass']
+ - tags: ['subscription', 'lie', 'big tech', 'microsoft', 'gamepass']
 
 ## I Can Save You Money! – Raspberry Pi Alternatives
  - [https://www.youtube.com/watch?v=uJvCVw1yONQ](https://www.youtube.com/watch?v=uJvCVw1yONQ)
@@ -1640,7 +1718,7 @@
  - [https://www.youtube.com/watch?v=eWQGYpSoiYU](https://www.youtube.com/watch?v=eWQGYpSoiYU)
  - date published: 2023-02-13 15:56:28+00:00
  - user: rumpel
- - tags: ['bigtech', 'tweeter files', 'bigbrother', 'censorship', 'moderation']
+ - tags: ['big tech', 'tweeter files', 'big brother', 'censorship', 'moderation']
 
 ## Google's Go may add telemetry that's on by default
  - [https://www.theregister.com/2023/02/10/googles_go_programming_language_telemetry_debate/](https://www.theregister.com/2023/02/10/googles_go_programming_language_telemetry_debate/)
@@ -1652,7 +1730,7 @@
  - [https://arstechnica.com/?p=1917024](https://arstechnica.com/?p=1917024)
  - date published: 2023-02-12 13:27:05+00:00
  - user: rumpel
- - tags: ['surveillance', 'bigbrother', 'fbi']
+ - tags: ['surveillance', 'big brother', 'fbi']
 
 ## After Snowden, we quit our jobs to build privacy software. It reached 1.0
  - [https://safing.io/blog/2023/02/07/snowden-changed-everything/](https://safing.io/blog/2023/02/07/snowden-changed-everything/)
@@ -1664,7 +1742,7 @@
  - [https://reclaimthenet.org/justin-trudeau-health-data](https://reclaimthenet.org/justin-trudeau-health-data)
  - date published: 2023-02-11 22:55:58+00:00
  - user: rumpel
- - tags: ['bigbrother', 'privacy', 'bigpharma', 'surveillance']
+ - tags: ['privacy', 'big pharma', 'surveillance', 'justin trudeau', 'big brother']
 
 ## Ask HN: How can Netflix and Amazon Prime be this bad at recommending content?
  - [https://news.ycombinator.com/item?id=34754284](https://news.ycombinator.com/item?id=34754284)
@@ -1724,19 +1802,19 @@
  - [https://www.thefp.com/p/i-thought-i-was-saving-trans-kids](https://www.thefp.com/p/i-thought-i-was-saving-trans-kids)
  - date published: 2023-02-09 20:15:04+00:00
  - user: rumpel
- - tags: ['lgbt', 'trans', 'gender', 'dysphoria']
+ - tags: ['lgbt', 'transgender', 'gender', 'dysphoria']
 
 ## The OPEN WEB is DYING...
  - [https://www.youtube.com/watch?v=pjTzQJxw-20](https://www.youtube.com/watch?v=pjTzQJxw-20)
  - date published: 2023-02-09 17:34:16+00:00
  - user: rumpel
- - tags: ['dead internet', 'algorithms', 'internet']
+ - tags: ['algorithms', 'tech control', 'dead internet', 'technofeudalism', 'internet']
 
 ## Fingerprints of Unvaccinated NYC Teachers Flagged to FBI – Teachers For Choice
  - [https://teachersforchoice.org/2023/02/09/fingerprints-of-unvaccinated-nyc-teachers-flagged-to-fbi/](https://teachersforchoice.org/2023/02/09/fingerprints-of-unvaccinated-nyc-teachers-flagged-to-fbi/)
  - date published: 2023-02-09 10:44:18+00:00
  - user: rumpel
- - tags: ['mandates', 'vaccine', 'bigbrother', 'technofeudalism', 'covid']
+ - tags: ['mandates', 'vaccine', 'big brother', 'technofeudalism', 'covid']
 
 ## Google's AI chatbot, Bard, sparks a $100 billion loss in Alphabet shares : NPR
  - [https://www.npr.org/2023/02/09/1155650909/google-chatbot--error-bard-shares](https://www.npr.org/2023/02/09/1155650909/google-chatbot--error-bard-shares)
@@ -1754,7 +1832,7 @@
  - [https://www.economist.com/business/2023/02/08/is-googles-20-year-search-dominance-about-to-end](https://www.economist.com/business/2023/02/08/is-googles-20-year-search-dominance-about-to-end)
  - date published: 2023-02-08 20:57:27+00:00
  - user: rumpel
- - tags: ['artificial intelligence', 'chatgpt', 'algorithms', 'google']
+ - tags: ['algorithms', 'search engines', 'chatgpt', 'google', 'artificial intelligence']
 
 ## Windows 11: a spyware machine out of users' control
  - [https://www.techspot.com/news/97535-windows-11-spyware-machine-out-users-control.html](https://www.techspot.com/news/97535-windows-11-spyware-machine-out-users-control.html)
@@ -1802,13 +1880,13 @@
  - [https://www.gizmodo.com.au/2023/02/top-android-phones-from-china-are-packed-with-spyware-research-finds/](https://www.gizmodo.com.au/2023/02/top-android-phones-from-china-are-packed-with-spyware-research-finds/)
  - date published: 2023-02-08 07:41:53+00:00
  - user: rumpel
- - tags: ['smartphone', 'bigbrother', 'china', 'privacy', 'surveillance', 'android']
+ - tags: ['smartphone', 'big brother', 'china', 'privacy', 'surveillance', 'android']
 
 ## Turkey Blocks Twitter After Public Criticism of Quake Response | Balkan Insight
  - [https://balkaninsight.com/2023/02/08/turkey-blocks-twitter-after-public-criticism-of-quake-response/](https://balkaninsight.com/2023/02/08/turkey-blocks-twitter-after-public-criticism-of-quake-response/)
  - date published: 2023-02-08 07:31:02+00:00
  - user: rumpel
- - tags: ['bigbrother', 'turkey', 'censorship', 'twitter']
+ - tags: ['big brother', 'turkey', 'censorship', 'twitter']
 
 ## Google and Mozilla are working on iOS browsers that aren't based on WebKit
  - [https://arstechnica.com/gadgets/2023/02/google-and-mozilla-are-working-on-ios-browsers-that-break-current-app-store-rules/](https://arstechnica.com/gadgets/2023/02/google-and-mozilla-are-working-on-ios-browsers-that-break-current-app-store-rules/)
@@ -1832,7 +1910,7 @@
  - [https://keck.usc.edu/study-links-adoption-of-electric-vehicles-with-less-air-pollution-and-improved-health/](https://keck.usc.edu/study-links-adoption-of-electric-vehicles-with-less-air-pollution-and-improved-health/)
  - date published: 2023-02-04 19:07:35+00:00
  - user: rumpel
- - tags: ['electric cars']
+ - tags: ['electric vehicles']
 
 ## All the big tech layoffs of 2023
  - [https://www.engadget.com/tech-layoffs-183005204.html?src=rss](https://www.engadget.com/tech-layoffs-183005204.html?src=rss)
@@ -1850,13 +1928,13 @@
  - [https://www.forbes.com/sites/arthurherman/2023/02/03/wechat-chinas-other-trojan-horse/](https://www.forbes.com/sites/arthurherman/2023/02/03/wechat-chinas-other-trojan-horse/)
  - date published: 2023-02-03 16:04:40+00:00
  - user: rumpel
- - tags: ['china', 'privacy', 'wechat', 'surveillance']
+ - tags: ['everything app', 'surveillance', 'wechat', 'china', 'privacy']
 
 ## Biometric technology could kill off paper passports, says border boss
  - [https://www.theguardian.com/politics/2023/feb/03/biometric-technology-paper-passports-redundant](https://www.theguardian.com/politics/2023/feb/03/biometric-technology-paper-passports-redundant)
  - date published: 2023-02-03 13:44:17+00:00
  - user: rumpel
- - tags: ['surveillance', 'bigbrother', 'biometric']
+ - tags: ['surveillance', 'big brother', 'biometric']
 
 ## Exclusive Q&A John Carmack’s ‘Different Path’ to Artificial General Intelligence
  - [https://dallasinnovates.com/exclusive-qa-john-carmacks-different-path-to-artificial-general-intelligence/](https://dallasinnovates.com/exclusive-qa-john-carmacks-different-path-to-artificial-general-intelligence/)
@@ -1898,7 +1976,7 @@
  - [https://www.youtube.com/watch?v=o2HkjhK7aa4](https://www.youtube.com/watch?v=o2HkjhK7aa4)
  - date published: 2023-02-02 18:00:30+00:00
  - user: rumpel
- - tags: ['vaccine', 'bigpharma', 'covid', 'who', 'bill gates']
+ - tags: ['vaccine', 'big pharma', 'covid', 'who', 'bill gates']
 
 ## The Netherlands' DPA says central passport database 'entails major privacy risks'
  - [https://iapp.org/news/a/dutch-dpa-says-central-passport-database-entails-major-privacy-risks/](https://iapp.org/news/a/dutch-dpa-says-central-passport-database-entails-major-privacy-risks/)
@@ -1976,7 +2054,7 @@
  - [https://bgr.com/tech/gmail-creator-says-chatgpt-might-destroy-google-within-2-years/](https://bgr.com/tech/gmail-creator-says-chatgpt-might-destroy-google-within-2-years/)
  - date published: 2023-02-01 05:00:00+00:00
  - user: rumpel
- - tags: ['artificial intelligence', 'algorithms', 'chatgpt', 'google']
+ - tags: ['algorithms', 'search engines', 'chatgpt', 'google', 'artificial intelligence']
 
 ## Write Simply
  - [http://www.paulgraham.com/simply.html](http://www.paulgraham.com/simply.html)
@@ -2018,7 +2096,7 @@
  - [https://www.youtube.com/watch?v=kXL6DgUh4u8](https://www.youtube.com/watch?v=kXL6DgUh4u8)
  - date published: 2023-01-31 08:30:56+00:00
  - user: rumpel
- - tags: ['tedkaczynski', 'unabomber']
+ - tags: ['ted kaczynski', 'unabomber', 'technology']
 
 ## Chinese province drops restrictions on unmarried people having children in bid to halt plummeting birth rate
  - [https://www.cnn.com/2023/01/31/china/china-sichuan-birth-registration-unmarried-intl-hnk/index.html](https://www.cnn.com/2023/01/31/china/china-sichuan-birth-registration-unmarried-intl-hnk/index.html)
@@ -2042,7 +2120,7 @@
  - [https://www.theepochtimes.com/facebook-seeks-to-block-3-7-billion-uk-mass-action-over-market-dominance_5020488.html](https://www.theepochtimes.com/facebook-seeks-to-block-3-7-billion-uk-mass-action-over-market-dominance_5020488.html)
  - date published: 2023-01-31 02:11:22+00:00
  - user: rumpel
- - tags: ['corporatocracy', 'facebook', 'bigtech']
+ - tags: ['corporatocracy', 'facebook', 'big tech']
 
 ## Google Fired Exec For Not Being ‘Inclusive’ By Favoring High Performers, Lawsuit Alleges
  - [https://www.dailywire.com/news/google-fired-exec-for-not-being-inclusive-by-favoring-high-performers-lawsuit-alleges](https://www.dailywire.com/news/google-fired-exec-for-not-being-inclusive-by-favoring-high-performers-lawsuit-alleges)
@@ -2084,7 +2162,7 @@
  - [https://www.theguardian.com/us-news/2023/jan/30/utah-gender-affirming-care-ban-law](https://www.theguardian.com/us-news/2023/jan/30/utah-gender-affirming-care-ban-law)
  - date published: 2023-01-30 14:26:23+00:00
  - user: rumpel
- - tags: ['gender', 'trans']
+ - tags: ['gender', 'transgender']
 
 ## California Firefighters Use 6,000 Gallons of Water to Put Out Tesla Fire on Highway 50
  - [https://www.theepochtimes.com/california-firefighters-use-6000-gallons-of-water-to-put-out-tesla-fire-on-highway-50_5018487.html](https://www.theepochtimes.com/california-firefighters-use-6000-gallons-of-water-to-put-out-tesla-fire-on-highway-50_5018487.html)
@@ -2138,13 +2216,13 @@
  - [https://blog.archive.org/2023/01/27/bbc-modi-documentary-removal/](https://blog.archive.org/2023/01/27/bbc-modi-documentary-removal/)
  - date published: 2023-01-28 15:21:01+00:00
  - user: rumpel
- - tags: ['modi', 'india', 'censorship', 'bigbrother', 'bbc']
+ - tags: ['modi', 'india', 'censorship', 'big brother', 'bbc']
 
 ## Facebook fires worker who refused to do 'negative testing': 'awsuit
  - [https://nypost.com/2023/01/28/facebook-fires-worker-who-refused-to-do-negative-testing-awsuit/](https://nypost.com/2023/01/28/facebook-fires-worker-who-refused-to-do-negative-testing-awsuit/)
  - date published: 2023-01-28 07:43:51+00:00
  - user: rumpel
- - tags: ['facebook', 'dark design', 'bigtech']
+ - tags: ['facebook', 'dark design', 'big tech']
 
 ## AI, Art and the Lawsuits
  - [https://www.youtube.com/watch?v=aRPY0ctBCzM](https://www.youtube.com/watch?v=aRPY0ctBCzM)
@@ -2180,7 +2258,7 @@
  - [https://devclass.com/2023/01/24/eus-proposed-ce-mark-for-software-could-have-dire-impact-on-open-source/](https://devclass.com/2023/01/24/eus-proposed-ce-mark-for-software-could-have-dire-impact-on-open-source/)
  - date published: 2023-01-27 05:00:00+00:00
  - user: rumpel
- - tags: ['bigbrother', 'open source', 'tech control', 'cyber resilience act']
+ - tags: ['big brother', 'open source', 'tech control', 'cyber resilience act']
 
 ## Sci-Hub: knowledge as a human right
  - [https://sci-hub.ru/](https://sci-hub.ru/)
@@ -2204,7 +2282,7 @@
  - [https://fortune.com/2023/01/25/india-modi-bbc-documentary-ban-social-media-anti-muslim-riots/](https://fortune.com/2023/01/25/india-modi-bbc-documentary-ban-social-media-anti-muslim-riots/)
  - date published: 2023-01-26 20:55:36+00:00
  - user: rumpel
- - tags: ['modi', 'india', 'censorship', 'bigbrother', 'bbc']
+ - tags: ['modi', 'india', 'censorship', 'big brother', 'bbc']
 
 ## Amazon Warns Employees to Beware of ChatGPT
  - [https://gizmodo.com/amazon-chatgpt-ai-software-job-coding-1850034383](https://gizmodo.com/amazon-chatgpt-ai-software-job-coding-1850034383)
@@ -2240,7 +2318,7 @@
  - [https://reclaimthenet.org/argentina-biometric/](https://reclaimthenet.org/argentina-biometric/)
  - date published: 2023-01-25 19:15:20+00:00
  - user: rumpel
- - tags: ['bigtech', 'bigbrother', 'biometric', 'facial recognition']
+ - tags: ['big tech', 'big brother', 'biometric', 'facial recognition']
 
 ## citadel.org code of conduct
  - [https://www.citadel.org/code_of_conduct.html](https://www.citadel.org/code_of_conduct.html)
@@ -2264,13 +2342,13 @@
  - [https://www.theverge.com/2023/1/24/23569127/google-advertising-monopoly-antitrust-lawsuit-federal-government](https://www.theverge.com/2023/1/24/23569127/google-advertising-monopoly-antitrust-lawsuit-federal-government)
  - date published: 2023-01-24 18:57:35+00:00
  - user: rumpel
- - tags: ['bigtech', 'google', 'ads', 'monopoly', 'ad business']
+ - tags: ['big tech', 'google', 'ads', 'monopoly', 'ad business']
 
 ## DOJ Sues Google, Seeking to Break Up Online Ad Business
  - [https://www.wsj.com/articles/u-s-sues-google-for-alleged-antitrust-violations-in-its-ad-tech-business-11674582792?mod=rss_Technology](https://www.wsj.com/articles/u-s-sues-google-for-alleged-antitrust-violations-in-its-ad-tech-business-11674582792?mod=rss_Technology)
  - date published: 2023-01-24 18:57:00+00:00
  - user: rumpel
- - tags: ['google', 'bigtech', 'bigbrother', 'ads']
+ - tags: ['google', 'big tech', 'big brother', 'ads']
 
 ## What is the Cyber Resilience Act and why it’s dangerous for Open Source - Voices of Open Source
  - [https://blog.opensource.org/what-is-the-cyber-resilience-act-and-why-its-important-for-open-source/](https://blog.opensource.org/what-is-the-cyber-resilience-act-and-why-its-important-for-open-source/)
@@ -2282,7 +2360,7 @@
  - [https://lucaserb.substack.com/p/brief-bear](https://lucaserb.substack.com/p/brief-bear)
  - date published: 2023-01-24 17:17:27+00:00
  - user: rumpel
- - tags: ['algorithms', 'google search']
+ - tags: ['algorithms', 'search engines']
 
 ## FBI Says North Korean Hackers Behind $100 Million Horizon Bridge Crypto Theft
  - [https://thehackernews.com/2023/01/fbi-says-north-korean-hackers-behind.html](https://thehackernews.com/2023/01/fbi-says-north-korean-hackers-behind.html)
@@ -2342,7 +2420,7 @@
  - [https://www.thenation.com/article/economy/big-pharma-greed-knows-no-bounds/](https://www.thenation.com/article/economy/big-pharma-greed-knows-no-bounds/)
  - date published: 2023-01-21 18:04:27+00:00
  - user: rumpel
- - tags: ['corporatocracy', 'covid', 'vaccine', 'bigpharma', 'profit', 'moderna']
+ - tags: ['corporatocracy', 'covid', 'vaccine', 'big pharma', 'profit', 'moderna']
 
 ## You don't have to engage with people on the Internet
  - [https://xeiaso.net/blog/lesson-online-feedback](https://xeiaso.net/blog/lesson-online-feedback)
@@ -2390,7 +2468,7 @@
  - [https://www.cnn.com/2023/01/20/tech/meta-microsoft-google-supreme-court-tech-algorithms/index.html](https://www.cnn.com/2023/01/20/tech/meta-microsoft-google-supreme-court-tech-algorithms/index.html)
  - date published: 2023-01-20 14:07:43+00:00
  - user: rumpel
- - tags: ['bigbrother', 'moderation', 'law', 'liability', 'twitter', 'microsoft', 'bigtech']
+ - tags: ['big brother', 'moderation', 'law', 'liability', 'twitter', 'microsoft', 'big tech']
 
 ## 300+ models of MSI motherboards have Secure Boot turned off. Is yours affected? | Ars Technica
  - [https://arstechnica.com/information-technology/2023/01/300-models-of-msi-motherboards-have-secure-boot-turned-off-is-yours-affected/](https://arstechnica.com/information-technology/2023/01/300-models-of-msi-motherboards-have-secure-boot-turned-off-is-yours-affected/)
@@ -2432,7 +2510,7 @@
  - [https://www.propublica.org/article/websites-selling-abortion-pills-share-sensitive-data-with-google](https://www.propublica.org/article/websites-selling-abortion-pills-share-sensitive-data-with-google)
  - date published: 2023-01-19 16:24:21+00:00
  - user: rumpel
- - tags: ['google', 'bigtech', 'privacy']
+ - tags: ['google', 'big tech', 'privacy']
 
 ## The Linux Foundation wants to set up its own open source metaverse
  - [https://www.techradar.com/news/the-linux-foundation-wants-to-set-up-its-own-open-source-metaverse](https://www.techradar.com/news/the-linux-foundation-wants-to-set-up-its-own-open-source-metaverse)
@@ -2498,7 +2576,7 @@
  - [https://www.thescottishsun.co.uk/news/10077552/transgender-woman-rape/](https://www.thescottishsun.co.uk/news/10077552/transgender-woman-rape/)
  - date published: 2023-01-17 16:32:36+00:00
  - user: rumpel
- - tags: ['gender', 'woke', 'trans']
+ - tags: ['gender', 'woke', 'transgender']
 
 ## Blocking Scotland’s gender bill is no anti-woke crusade. But it’s not a democratic outrage either | Martin Kettle
  - [https://www.theguardian.com/commentisfree/2023/jan/17/blocking-scotland-gender-recognition-bill-rishi-sunak](https://www.theguardian.com/commentisfree/2023/jan/17/blocking-scotland-gender-recognition-bill-rishi-sunak)
@@ -2522,7 +2600,7 @@
  - [https://www.bleepingcomputer.com/news/security/hackers-push-malware-via-google-search-ads-for-vlc-7-zip-ccleaner/](https://www.bleepingcomputer.com/news/security/hackers-push-malware-via-google-search-ads-for-vlc-7-zip-ccleaner/)
  - date published: 2023-01-17 07:33:20+00:00
  - user: rumpel
- - tags: ['google search', 'ads', 'malware']
+ - tags: ['search engines', 'ads', 'malware']
 
 ## Banks still investing heavily in fossil fuels despite net zero pledges – study
  - [https://www.theguardian.com/environment/2023/jan/17/banks-still-investing-heavily-in-fossil-fuels-despite-net-zero-pledges-study](https://www.theguardian.com/environment/2023/jan/17/banks-still-investing-heavily-in-fossil-fuels-despite-net-zero-pledges-study)
@@ -2552,7 +2630,7 @@
  - [https://www.youtube.com/watch?v=kL8rHf_idt0](https://www.youtube.com/watch?v=kL8rHf_idt0)
  - date published: 2023-01-16 17:21:03+00:00
  - user: rumpel
- - tags: ['youtube', 'dead internet', 'all time', 'algorithms']
+ - tags: ['all time', 'algorithms', 'dead internet', 'search engines', 'youtube']
 
 ## YouTube Doesn't “Get It”
  - [https://news.ycombinator.com/item?id=34402292](https://news.ycombinator.com/item?id=34402292)
@@ -2576,7 +2654,7 @@
  - [https://www.amnesty.org/en/latest/news/2021/06/scale-new-york-police-facial-recognition-revealed/](https://www.amnesty.org/en/latest/news/2021/06/scale-new-york-police-facial-recognition-revealed/)
  - date published: 2023-01-15 17:15:17+00:00
  - user: rumpel
- - tags: ['surveillance', 'facial recognition', 'bigbrother']
+ - tags: ['surveillance', 'facial recognition', 'big brother']
 
 ## Climate Activism Isn't About the Planet. It's About the Boredom of the Bourgeoisie | Opinion
  - [https://www.newsweek.com/climate-activism-isnt-about-planet-its-about-boredom-bourgeoisie-opinion-1773846](https://www.newsweek.com/climate-activism-isnt-about-planet-its-about-boredom-bourgeoisie-opinion-1773846)
@@ -2600,7 +2678,7 @@
  - [https://nypost.com/2023/01/14/dr-leana-wen-writes-that-covid-deaths-are-being-overcounted/](https://nypost.com/2023/01/14/dr-leana-wen-writes-that-covid-deaths-are-being-overcounted/)
  - date published: 2023-01-14 21:05:24+00:00
  - user: rumpel
- - tags: ['scienceisdead', 'statistics', 'covid', 'propaganda']
+ - tags: ['science is dead', 'statistics', 'covid', 'propaganda']
 
 ## How Police Exploited the Capitol Riot’s Digital Records
  - [https://spectrum.ieee.org/capitol-riot](https://spectrum.ieee.org/capitol-riot)
@@ -2630,7 +2708,7 @@
  - [https://thehackernews.com/2023/01/tiktok-fined-54-million-by-french.html](https://thehackernews.com/2023/01/tiktok-fined-54-million-by-french.html)
  - date published: 2023-01-14 05:01:00+00:00
  - user: rumpel
- - tags: ['bigtech', 'privacy', 'technofeudalism']
+ - tags: ['big tech', 'privacy', 'technofeudalism']
 
 ## Meta sues “scraping-for-hire” service that sells user data to law enforcement
  - [https://arstechnica.com/?p=1910046](https://arstechnica.com/?p=1910046)
@@ -2684,7 +2762,7 @@
  - [https://www.reuters.com/world/india/india-lets-banks-use-face-recognition-iris-scan-some-transactions-sources-2023-01-13/](https://www.reuters.com/world/india/india-lets-banks-use-face-recognition-iris-scan-some-transactions-sources-2023-01-13/)
  - date published: 2023-01-13 17:01:29+00:00
  - user: rumpel
- - tags: ['surveillance', 'tech control', 'biometric', 'facial recognition', 'bigbrother', 'india', 'corporatocracy']
+ - tags: ['surveillance', 'tech control', 'biometric', 'facial recognition', 'big brother', 'india', 'corporatocracy']
 
 ## We could stumble into AI catastrophe
  - [https://www.cold-takes.com/how-we-could-stumble-into-ai-catastrophe/](https://www.cold-takes.com/how-we-could-stumble-into-ai-catastrophe/)
@@ -2756,13 +2834,13 @@
  - [https://www.theguardian.com/technology/2023/jan/12/meta-voyager-labs-surveillance-fake-accounts](https://www.theguardian.com/technology/2023/jan/12/meta-voyager-labs-surveillance-fake-accounts)
  - date published: 2023-01-12 20:46:24+00:00
  - user: rumpel
- - tags: ['privacy', 'moderation', 'bigbrother', 'surveillance']
+ - tags: ['privacy', 'moderation', 'big brother', 'surveillance']
 
 ## ExxonMobil accurately predicted climate change while publicly dismissing it
  - [https://www.theverge.com/23550834/exxonmobil-climate-change-predictions-shockingly-accurate](https://www.theverge.com/23550834/exxonmobil-climate-change-predictions-shockingly-accurate)
  - date published: 2023-01-12 19:00:00+00:00
  - user: rumpel
- - tags: ['climate science', 'scienceisdead', 'climate change']
+ - tags: ['climate science', 'science is dead', 'climate change']
 
 ## Own Your Data
  - [https://yourdigitalrights.org](https://yourdigitalrights.org)
@@ -2786,7 +2864,7 @@
  - [https://arstechnica.com/?p=1909458](https://arstechnica.com/?p=1909458)
  - date published: 2023-01-12 14:17:41+00:00
  - user: rumpel
- - tags: ['apple', 'surveillance', 'censorship', 'bigtech']
+ - tags: ['apple', 'surveillance', 'censorship', 'big tech']
 
 ## YouTube's new profanity rules are punishing creators retroactively, and they're furious
  - [https://www.pcgamer.com/youtubes-new-profanity-rules-are-punishing-creators-retroactively-and-theyre-furious](https://www.pcgamer.com/youtubes-new-profanity-rules-are-punishing-creators-retroactively-and-theyre-furious)
@@ -2828,25 +2906,25 @@
  - [http://www.msn.com/en-us/news/crime/jpmorgan-honcho-may-have-been-involved-in-epstein-sex-ring-lawsuit-alleges/ar-AA16edBA?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/crime/jpmorgan-honcho-may-have-been-involved-in-epstein-sex-ring-lawsuit-alleges/ar-AA16edBA?li=BBnbcA1&srcref=rss)
  - date published: 2023-01-11 20:02:43.857380+00:00
  - user: rumpel
- - tags: ['epstein', 'jpmorgan']
+ - tags: ['jeffrey epstein', 'jpmorgan']
 
 ## Lying for a Climate Crusade
  - [https://cremieux.substack.com/p/lying-for-climate-crusading](https://cremieux.substack.com/p/lying-for-climate-crusading)
  - date published: 2023-01-11 14:52:23+00:00
  - user: rumpel
- - tags: ['climate change', 'sjw', 'fake activism', 'scienceisdead']
+ - tags: ['climate change', 'sjw', 'fake activism', 'science is dead']
 
 ## Iran to use facial recognition to identify women without hijabs
  - [https://arstechnica.com/?p=1909128](https://arstechnica.com/?p=1909128)
  - date published: 2023-01-11 14:30:34+00:00
  - user: rumpel
- - tags: ['surveillance', 'facial recognition', 'bigbrother', 'tech control']
+ - tags: ['surveillance', 'facial recognition', 'big brother', 'tech control']
 
 ## FDA vaccine advisers 'disappointed' and 'angry' that early data about new Covid-19 booster shot wasn't presented for review last year | CNN
  - [https://edition.cnn.com/2023/01/11/health/moderna-bivalent-transparency/index.html](https://edition.cnn.com/2023/01/11/health/moderna-bivalent-transparency/index.html)
  - date published: 2023-01-11 13:47:16+00:00
  - user: rumpel
- - tags: ['scienceisdead', 'covid', 'fda', 'vaccine']
+ - tags: ['science is dead', 'covid', 'fda', 'vaccine']
 
 ## Django Styleguide
  - [https://github.com/HackSoftware/Django-Styleguide](https://github.com/HackSoftware/Django-Styleguide)
@@ -2864,7 +2942,7 @@
  - [https://www.dailysignal.com/2023/01/10/twitter-files-unveils-how-pfizer-official-colluded-with-big-tech-to-censor-speech-on-covid-19/](https://www.dailysignal.com/2023/01/10/twitter-files-unveils-how-pfizer-official-colluded-with-big-tech-to-censor-speech-on-covid-19/)
  - date published: 2023-01-10 21:13:07+00:00
  - user: rumpel
- - tags: ['covid', 'twitter', 'twitter files', 'bigtech', 'pfizer', 'censorship']
+ - tags: ['covid', 'twitter', 'twitter files', 'big tech', 'pfizer', 'censorship']
 
 ## 'The Sheer Greed Is Obscene': Moderna Plans 4,000% Markup for Covid Vaccine
  - [https://www.commondreams.org/news/moderna-vaccine-price-markup](https://www.commondreams.org/news/moderna-vaccine-price-markup)
@@ -2888,7 +2966,7 @@
  - [https://www.bbc.co.uk/news/health-64209221](https://www.bbc.co.uk/news/health-64209221)
  - date published: 2023-01-10 11:58:34+00:00
  - user: rumpel
- - tags: ['scienceisdead', 'covid', 'vaccine']
+ - tags: ['science is dead', 'covid', 'vaccine']
 
 ## U.S. Carbon Emissions Grew in 2022, Even As Renewables Surpassed Coal
  - [https://www.nytimes.com/2023/01/10/climate/us-carbon-emissions-2022.html](https://www.nytimes.com/2023/01/10/climate/us-carbon-emissions-2022.html)
@@ -2942,7 +3020,7 @@
  - [https://dailysceptic.org/2023/01/09/the-white-house-covid-censorship-machine/](https://dailysceptic.org/2023/01/09/the-white-house-covid-censorship-machine/)
  - date published: 2023-01-09 17:00:00+00:00
  - user: rumpel
- - tags: ['bigbrother', 'covid', 'censorship']
+ - tags: ['big brother', 'covid', 'censorship']
 
 ## Lizzo says cancel culture has become 'misused and misdirected'
  - [https://www.cnn.com/2023/01/09/entertainment/lizzo-cancel-culture/index.html](https://www.cnn.com/2023/01/09/entertainment/lizzo-cancel-culture/index.html)
@@ -2966,7 +3044,7 @@
  - [https://www.wsj.com/articles/white-house-covid-censorship-machine-social-media-facebook-meta-executive-rob-flaherty-free-speech-google-11673203704](https://www.wsj.com/articles/white-house-covid-censorship-machine-social-media-facebook-meta-executive-rob-flaherty-free-speech-google-11673203704)
  - date published: 2023-01-08 16:23:11+00:00
  - user: rumpel
- - tags: ['social media', 'bigbrother', 'censorship']
+ - tags: ['social media', 'big brother', 'censorship']
 
 ## Ex-Virginia Tech soccer player allegedly benched for refusing to kneel gets $100K settlement: attorney
  - [https://www.foxnews.com/us/ex-virginia-tech-soccer-player-allegedly-benched-for-refusing-to-kneel-gets-100k-settlement-attorney?intcmp=fb_fnc&fbclid=IwAR3dbkA7mXU9Fyj-tKRWrG_YVmaGM32lz7Of2FbU4euukWcREO3dnE1I94k](https://www.foxnews.com/us/ex-virginia-tech-soccer-player-allegedly-benched-for-refusing-to-kneel-gets-100k-settlement-attorney?intcmp=fb_fnc&fbclid=IwAR3dbkA7mXU9Fyj-tKRWrG_YVmaGM32lz7Of2FbU4euukWcREO3dnE1I94k)
@@ -2978,7 +3056,7 @@
  - [https://dailysceptic.org/2023/01/08/how-childline-became-captured-by-trans-ideology/](https://dailysceptic.org/2023/01/08/how-childline-became-captured-by-trans-ideology/)
  - date published: 2023-01-08 15:17:58+00:00
  - user: rumpel
- - tags: ['woke', 'trans', 'kids', 'gender']
+ - tags: ['woke', 'transgender', 'kids', 'gender']
 
 ## Jordan Peterson releases Ontario College's complaints against him, it's basically a promo for Jordan's Twitter
  - [https://www.louderwithcrowder.com/jordan-peterson-releases-complaint](https://www.louderwithcrowder.com/jordan-peterson-releases-complaint)
@@ -3008,7 +3086,7 @@
  - [https://www.dailymail.co.uk/news/article-11609947/DC-Comics-fans-outraged-new-Batman-plot-sees-Joker-PREGNANT-birth.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11609947/DC-Comics-fans-outraged-new-Batman-plot-sees-Joker-PREGNANT-birth.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2023-01-07 22:18:42+00:00
  - user: rumpel
- - tags: ['woke', 'trans']
+ - tags: ['woke', 'transgender']
 
 ## SteamDeck Destroyed The Linux Steam Marketshare
  - [https://www.youtube.com/watch?v=xbvoyzeQu1M](https://www.youtube.com/watch?v=xbvoyzeQu1M)
@@ -3086,13 +3164,13 @@
  - [https://www.dailymail.co.uk/news/article-11605409/Desperate-father-pleads-pediatrician-wife-NOT-chemically-castrate-son-9.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11605409/Desperate-father-pleads-pediatrician-wife-NOT-chemically-castrate-son-9.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2023-01-06 06:58:31+00:00
  - user: rumpel
- - tags: ['woke', 'trans']
+ - tags: ['woke', 'transgender']
 
 ## Whatever happened to Google Search?
  - [https://www.ft.com/content/228af985-7bf2-4efd-ad73-ae11d1623a58](https://www.ft.com/content/228af985-7bf2-4efd-ad73-ae11d1623a58)
  - date published: 2023-01-06 05:00:17+00:00
  - user: rumpel
- - tags: ['google', 'google search', 'dead internet']
+ - tags: ['google', 'search engines', 'dead internet']
 
 ## Google obtains thousands of medical records from the Dept of Defense
  - [https://gcaptain.com/us-navy-opens-medical-vault-for-google/](https://gcaptain.com/us-navy-opens-medical-vault-for-google/)
@@ -3110,7 +3188,7 @@
  - [https://www.wired.com/story/meta-surveillance-capitalism/](https://www.wired.com/story/meta-surveillance-capitalism/)
  - date published: 2023-01-05 22:46:27+00:00
  - user: rumpel
- - tags: ['surveillance', 'bigbrother', 'gdpr', 'corporatocracy', 'ads']
+ - tags: ['surveillance', 'big brother', 'gdpr', 'corporatocracy', 'ads']
 
 ## Advanced and easy YouTube archiver now stable
  - [https://github.com/Owez/yark](https://github.com/Owez/yark)
@@ -3122,19 +3200,19 @@
  - [https://www.theepochtimes.com/free-speech-under-threat-from-police-in-scotland-says-index-on-censorship_4964018.html](https://www.theepochtimes.com/free-speech-under-threat-from-police-in-scotland-says-index-on-censorship_4964018.html)
  - date published: 2023-01-05 17:00:25+00:00
  - user: rumpel
- - tags: ['bigbrother', 'censorship', 'woke', 'free speech']
+ - tags: ['big brother', 'censorship', 'woke', 'free speech']
 
 ## No Biological Evidence For ‘Gender Identity’ Exists, Group Of Scientists, Researchers Says
  - [https://www.dailywire.com/news/no-biological-evidence-for-gender-identity-exists-group-of-scientists-researchers-says](https://www.dailywire.com/news/no-biological-evidence-for-gender-identity-exists-group-of-scientists-researchers-says)
  - date published: 2023-01-05 15:55:58+00:00
  - user: rumpel
- - tags: ['gender', 'scienceisdead', 'science', 'woke']
+ - tags: ['gender', 'science is dead', 'science', 'woke']
 
 ## ‘Disruptive’ science has declined
  - [https://www.nature.com/articles/d41586-022-04577-5](https://www.nature.com/articles/d41586-022-04577-5)
  - date published: 2023-01-05 15:39:37+00:00
  - user: rumpel
- - tags: ['scienceisdead']
+ - tags: ['science is dead']
 
 ## Control Your Tech Before It Controls You
  - [https://www.forbes.com/sites/forbestechcouncil/2023/01/05/control-your-tech-before-it-controls-you/](https://www.forbes.com/sites/forbestechcouncil/2023/01/05/control-your-tech-before-it-controls-you/)
@@ -3188,7 +3266,7 @@
  - [https://www.youtube.com/watch?v=MO6V8gxayeA](https://www.youtube.com/watch?v=MO6V8gxayeA)
  - date published: 2023-01-04 18:33:59+00:00
  - user: rumpel
- - tags: ['bigbrother', 'right to repair']
+ - tags: ['big brother', 'right to repair']
 
 ## Ireland fines Meta 390M euros in latest privacy crackdown
  - [https://abcnews.go.com/International/wireStory/ireland-fines-meta-390m-euros-latest-privacy-crackdown-96181101](https://abcnews.go.com/International/wireStory/ireland-fines-meta-390m-euros-latest-privacy-crackdown-96181101)
@@ -3242,7 +3320,7 @@
  - [https://www.louderwithcrowder.com/jeffrey-epstein-virgin-islands](https://www.louderwithcrowder.com/jeffrey-epstein-virgin-islands)
  - date published: 2023-01-03 17:20:02+00:00
  - user: rumpel
- - tags: ['epstein', 'jpmorgan']
+ - tags: ['jeffrey epstein', 'jpmorgan']
 
 ## Zelensky Accused of Censorship Over Ukraine Media Law
  - [https://www.newsweek.com/zelensky-accused-censorship-over-ukraine-media-law-1770958](https://www.newsweek.com/zelensky-accused-censorship-over-ukraine-media-law-1770958)
@@ -3254,7 +3332,7 @@
  - [https://thewebisfucked.com/](https://thewebisfucked.com/)
  - date published: 2023-01-03 15:02:47+00:00
  - user: rumpel
- - tags: ['internet', 'dead internet', 'web30', 'bigtech', 'bloatware']
+ - tags: ['internet', 'dead internet', 'web30', 'big tech', 'bloatware']
 
 ## Proposed Electric Vehicle Mandate Will Cost at Least $99 Billion: Environment Canada
  - [https://www.theepochtimes.com/proposed-electric-vehicle-mandate-will-cost-at-least-99-billion-environment-canada_4958736.html](https://www.theepochtimes.com/proposed-electric-vehicle-mandate-will-cost-at-least-99-billion-environment-canada_4958736.html)
@@ -3272,7 +3350,7 @@
  - [https://dailysceptic.org/2023/01/03/state-power-and-covid-crimes/](https://dailysceptic.org/2023/01/03/state-power-and-covid-crimes/)
  - date published: 2023-01-03 07:00:00+00:00
  - user: rumpel
- - tags: ['bigbrother', 'mandates', 'covid']
+ - tags: ['big brother', 'mandates', 'covid']
 
 ## Ex-Home Depot CEO blasts ‘socialism’ for killing the US work ethic
  - [http://www.msn.com/en-us/news/technology/ex-home-depot-ceo-blasts-socialism-for-killing-the-us-work-ethic/ar-AA15TUeE?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/ex-home-depot-ceo-blasts-socialism-for-killing-the-us-work-ethic/ar-AA15TUeE?li=BBnbcA1&srcref=rss)
@@ -3314,7 +3392,7 @@
  - [https://levelup-edu.com/bezos-gates-zuckerberg-behind-every-self-made-millionaire-is-a-father-with-money/](https://levelup-edu.com/bezos-gates-zuckerberg-behind-every-self-made-millionaire-is-a-father-with-money/)
  - date published: 2023-01-01 22:31:55+00:00
  - user: rumpel
- - tags: ['bigtech', 'zuckerberg', 'billionaires', 'bezos', 'gates']
+ - tags: ['jeff bezos', 'bill gates', 'billionaires', 'mark zuckerberg', 'big tech']
 
 ## 2023 LGBTQ+ Student Possibility Programme
  - [https://www.goldmansachs.com/careers/students/programs/emea/lgbt-student-possibility-program.html](https://www.goldmansachs.com/careers/students/programs/emea/lgbt-student-possibility-program.html)
@@ -3338,5 +3416,5 @@
  - [https://www.npr.org/2022/12/30/1146221454/epstein-jpmorgan-virgin-islands-lawsuit](https://www.npr.org/2022/12/30/1146221454/epstein-jpmorgan-virgin-islands-lawsuit)
  - date published: 2023-01-01 04:31:31+00:00
  - user: rumpel
- - tags: ['epstein', 'jpmorgan']
+ - tags: ['jeffrey epstein', 'jpmorgan']
 

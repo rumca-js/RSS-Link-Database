@@ -8,19 +8,19 @@
  - [https://forsal.pl/artykuly/1443406,el-confidencial-strajki-klimatyczne-i-wielki-biznes-za-greta-thunberg-stoja-duze-koncerny-i-fundusze.html](https://forsal.pl/artykuly/1443406,el-confidencial-strajki-klimatyczne-i-wielki-biznes-za-greta-thunberg-stoja-duze-koncerny-i-fundusze.html)
  - date published: 2019-12-06 18:52:18+00:00
  - user: rumpel
- - tags: ['greta', 'corporatocracy', 'thunberg', 'climate change']
+ - tags: ['climate change', 'greta thunberg', 'corporatocracy']
 
 ## W Norwegii urzędnicy zabrali Polce dziecko, bo zobaczyli na stole szampana. Czy mogą teraz odpowiadać przed polskim sądem?
  - [https://bezprawnik.pl/przed-polskim-sadem-barnevernet-norwegia](https://bezprawnik.pl/przed-polskim-sadem-barnevernet-norwegia)
  - date published: 2019-10-24 08:56:59+00:00
  - user: rumpel
- - tags: ['norway', 'bigbrother']
+ - tags: ['norway', 'big brother']
 
 ## FBI w polskiej chmurze. Tajemnice polskich firm zagrożone? - rp.pl
  - [https://cyfrowa.rp.pl/globalne-interesy/art17977641-fbi-w-polskiej-chmurze-tajemnice-polskich-firm-zagrozone](https://cyfrowa.rp.pl/globalne-interesy/art17977641-fbi-w-polskiej-chmurze-tajemnice-polskich-firm-zagrozone)
  - date published: 2019-10-20 09:04:25+00:00
  - user: rumpel
- - tags: ['technofeudalism', 'bigbrother', 'surveillance', 'fbi']
+ - tags: ['technofeudalism', 'big brother', 'surveillance', 'fbi']
 
 ## W jakim stopniu brak ojca wpływa na życie dziecka?
  - [http://www.silaojca.pl/w-jakim-stopniu-brak-ojca-wplywa-na-zycie-dziecka/](http://www.silaojca.pl/w-jakim-stopniu-brak-ojca-wplywa-na-zycie-dziecka/)
@@ -56,19 +56,19 @@
  - [https://www.geekweek.pl/news/2019-10-07/francja-pierwszym-krajem-w-europie-ktory-wprowadzi-masowy-system-inwigilacji-ludzi/](https://www.geekweek.pl/news/2019-10-07/francja-pierwszym-krajem-w-europie-ktory-wprowadzi-masowy-system-inwigilacji-ludzi/)
  - date published: 2019-08-24 13:09:09+00:00
  - user: None
- - tags: ['surveillance', 'tech control', 'biometric', 'facial recognition', 'bigbrother', 'india', 'corporatocracy']
+ - tags: ['surveillance', 'tech control', 'biometric', 'facial recognition', 'big brother', 'india', 'corporatocracy']
 
 ## Oskarżenia pod adresem Grety Thunberg. „Stoją za nią PR-owcy i koncerny”
  - [https://energetyka24.com/klimat/oskarzenia-pod-adresem-grety-thunberg-stoja-za-nia-pr-owcy-i-koncerny](https://energetyka24.com/klimat/oskarzenia-pod-adresem-grety-thunberg-stoja-za-nia-pr-owcy-i-koncerny)
  - date published: 2019-08-20 18:56:06+00:00
  - user: rumpel
- - tags: ['greta', 'corporatocracy', 'thunberg', 'climate change']
+ - tags: ['climate change', 'greta thunberg', 'corporatocracy']
 
 ## Václav Klaus o Grecie Thunberg: "To całkowite szaleństwo naszych czasów!"
  - [http://www.strefax.info/2019/08/vaclav-klaus-o-grecie-thunberg-to.html](http://www.strefax.info/2019/08/vaclav-klaus-o-grecie-thunberg-to.html)
  - date published: 2019-08-19 18:54:07+00:00
  - user: rumpel
- - tags: ['greta', 'corporatocracy', 'thunberg', 'climate change']
+ - tags: ['climate change', 'greta thunberg', 'corporatocracy']
 
 ## Akcja "Żywa Książka" budzi sprzeciw Ordo Iuris. "Pod pozorem lekcji tolerancji oswaja się ludzi z agendą LGBT"
  - [https://wiadomosci.dziennik.pl/wydarzenia/artykuly/602791,zywa-ksiazka-ordo-iuris-lgbt-kontrowersje.html](https://wiadomosci.dziennik.pl/wydarzenia/artykuly/602791,zywa-ksiazka-ordo-iuris-lgbt-kontrowersje.html)

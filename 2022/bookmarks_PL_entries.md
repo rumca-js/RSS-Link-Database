@@ -56,7 +56,7 @@
  - [https://tvn24.pl/swiat/hiszpania-deputowani-przyjeli-ustawe-umozliwiajaca-zmiane-plci-14-latkom-6550172?source=rss](https://tvn24.pl/swiat/hiszpania-deputowani-przyjeli-ustawe-umozliwiajaca-zmiane-plci-14-latkom-6550172?source=rss)
  - date published: 2022-12-23 06:58:30+00:00
  - user: rumpel
- - tags: ['trans', 'woke', 'spain']
+ - tags: ['transgender', 'woke', 'spain']
 
 ## Klatka Skinnera
  - [https://pl.m.wikipedia.org/wiki/Klatka_Skinnera](https://pl.m.wikipedia.org/wiki/Klatka_Skinnera)
@@ -128,7 +128,7 @@
  - [https://forsal.pl/biznes/ekologia/artykuly/8606380,cynizm-i-hipokryzja-wielkie-korporacje-zarabiaja-krocie-i-udaja-ze-to-jest-w-naszym-interesie.html](https://forsal.pl/biznes/ekologia/artykuly/8606380,cynizm-i-hipokryzja-wielkie-korporacje-zarabiaja-krocie-i-udaja-ze-to-jest-w-naszym-interesie.html)
  - date published: 2022-12-09 22:42:57+00:00
  - user: None
- - tags: ['bigtech', 'hypocrisy', 'corporatocracy']
+ - tags: ['big tech', 'hypocrisy', 'corporatocracy']
 
 ## Niedzielski: Jest duża nadwyżka szczepionek przeciwko Covid-19
  - [https://forsal.pl/lifestyle/zdrowie/artykuly/8606647,nadwyzka-szczepionek-przeciwko-covid-19.html](https://forsal.pl/lifestyle/zdrowie/artykuly/8606647,nadwyzka-szczepionek-przeciwko-covid-19.html)
@@ -176,7 +176,7 @@
  - [https://www.youtube.com/watch?v=5Fv-LKT_cEc](https://www.youtube.com/watch?v=5Fv-LKT_cEc)
  - date published: 2022-11-30 10:51:39+00:00
  - user: None
- - tags: ['zuckerberg', 'antitrust', 'bigtech', 'facebook', 'meta']
+ - tags: ['mark zuckerberg', 'antitrust', 'big tech', 'facebook', 'meta']
 
 ## Cyfrowy paszport i rozpoznawanie twarzy. Te linie lotnicze mają plan na zmniejszenie kolejek na lotnisku
  - [https://www.bankier.pl/wiadomosc/Cyfrowy-paszport-i-rozpoznawanie-twarzy-Te-linie-lotnicze-maja-plan-na-zmniejszenie-kolejek-na-lotnisku-8444586.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Cyfrowy-paszport-i-rozpoznawanie-twarzy-Te-linie-lotnicze-maja-plan-na-zmniejszenie-kolejek-na-lotnisku-8444586.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -188,7 +188,7 @@
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29182047,chinskie-kamery-zakazane-w-usa-i-wielkiej-brytanii-sa-zamontowane.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29182047,chinskie-kamery-zakazane-w-usa-i-wielkiej-brytanii-sa-zamontowane.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
  - date published: 2022-11-25 10:17:00+00:00
  - user: None
- - tags: ['surveillance', 'china']
+ - tags: ['espionage', 'surveillance', 'china']
 
 ## Apple i Amazon zaszkodzili branży? Firmy oskarżone o zmowę cenową
  - [https://ithardware.pl/aktualnosci/apple_i_amazon_zaszkodzili_branzy_firmy_oskarzone_o_zmowe_cenowa-24324.html](https://ithardware.pl/aktualnosci/apple_i_amazon_zaszkodzili_branzy_firmy_oskarzone_o_zmowe_cenowa-24324.html)
@@ -290,7 +290,7 @@
  - [https://ithardware.pl/aktualnosci/wiekszosc_projektow_biznesowych_metaverse_zniknie_do_2025_r-24071.html](https://ithardware.pl/aktualnosci/wiekszosc_projektow_biznesowych_metaverse_zniknie_do_2025_r-24071.html)
  - date published: 2022-10-30 13:24:20+00:00
  - user: None
- - tags: ['zuckerberg', 'metaverse', 'virtual reality', 'facebook', 'meta']
+ - tags: ['mark zuckerberg', 'metaverse', 'virtual reality', 'facebook', 'meta']
 
 ## Powtórka z wielkiej recesji? W USA słabnie optymizm co do losów przyszłego pokolenia
  - [https://www.bankier.pl/wiadomosc/Powtorka-z-wielkiej-recesji-W-USA-slabnie-optymizm-co-do-losow-przyszlego-pokolenia-8428884.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Powtorka-z-wielkiej-recesji-W-USA-slabnie-optymizm-co-do-losow-przyszlego-pokolenia-8428884.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -416,7 +416,7 @@
  - [https://www.bankier.pl/wiadomosc/Wybory-w-Chinach-Xi-zerwal-z-niepisanym-limitem-wieku-i-pozostal-w-kluczowym-organie-partii-8427249.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Wybory-w-Chinach-Xi-zerwal-z-niepisanym-limitem-wieku-i-pozostal-w-kluczowym-organie-partii-8427249.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date published: 2022-10-22 09:35:00+00:00
  - user: None
- - tags: ['jinping', 'socialism', 'china']
+ - tags: ['xi jinping', 'china', 'socialism']
 
 ## Płatność kartą na bazarze i w toalecie? Tego chcą Polacy
  - [https://www.bankier.pl/wiadomosc/Platnosc-karta-na-bazarze-i-w-toalecie-Tego-chca-Polacy-8426116.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Platnosc-karta-na-bazarze-i-w-toalecie-Tego-chca-Polacy-8426116.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -536,7 +536,7 @@
  - [https://www.polsatnews.pl/wiadomosc/2022-10-09/w-co-gra-elon-musk-silikonowi-chlopcy-probuja-zarzadzac-swiatem/](https://www.polsatnews.pl/wiadomosc/2022-10-09/w-co-gra-elon-musk-silikonowi-chlopcy-probuja-zarzadzac-swiatem/)
  - date published: 2022-10-09 06:56:00+00:00
  - user: None
- - tags: ['elite', 'elon musk', 'bigtech', 'billionaires']
+ - tags: ['elite', 'elon musk', 'big tech', 'billionaires']
 
 ## Czeka nas kolejna epidemia. Do 2050 roku ta wada będzie dotyczyć połowy ludzkości
  - [https://wydarzenia.interia.pl/kraj/news-czeka-nas-kolejna-epidemia-do-2050-roku-ta-wada-bedzie-dotyc,nId,6316138](https://wydarzenia.interia.pl/kraj/news-czeka-nas-kolejna-epidemia-do-2050-roku-ta-wada-bedzie-dotyc,nId,6316138)
@@ -650,7 +650,7 @@
  - [https://www.youtube.com/watch?v=8If5X_KR6Pg](https://www.youtube.com/watch?v=8If5X_KR6Pg)
  - date published: 2022-10-05 10:25:29+00:00
  - user: None
- - tags: ['scienceisdead']
+ - tags: ['science is dead']
 
 ## W Europie zaczyna się masowe bankructwo hoteli i restauracji
  - [https://www.wykop.pl/link/6845567/w-europie-zaczyna-sie-masowe-bankructwo-hoteli-i-restauracji/](https://www.wykop.pl/link/6845567/w-europie-zaczyna-sie-masowe-bankructwo-hoteli-i-restauracji/)
@@ -920,7 +920,7 @@
  - [https://ithardware.pl/aktualnosci/usa_przeznaczy_prawie_700_000_dolarow_na_szukanie_ekstremizmu_w_grach_wideo-23418.html](https://ithardware.pl/aktualnosci/usa_przeznaczy_prawie_700_000_dolarow_na_szukanie_ekstremizmu_w_grach_wideo-23418.html)
  - date published: 2022-09-21 09:24:10+00:00
  - user: None
- - tags: ['surveillance', 'disinformation', 'tech control', 'misinformation', 'bigbrother', 'usa']
+ - tags: ['surveillance', 'disinformation', 'tech control', 'misinformation', 'big brother', 'usa']
 
 ## Pod presją USA tureckie banki odcinają rosyjski system płatności Mir
  - [https://www.wykop.pl/link/6825921/pod-presja-usa-tureckie-banki-odcinaja-rosyjski-system-platnosci-mir/](https://www.wykop.pl/link/6825921/pod-presja-usa-tureckie-banki-odcinaja-rosyjski-system-platnosci-mir/)
@@ -932,7 +932,7 @@
  - [https://www.rp.pl/polityka/art37096721-europejska-komisja-oskarza-pis-inwigilacja-brejzy-pegasusem-kosztowala-20-mln-zl](https://www.rp.pl/polityka/art37096721-europejska-komisja-oskarza-pis-inwigilacja-brejzy-pegasusem-kosztowala-20-mln-zl)
  - date published: 2022-09-21 06:57:44+00:00
  - user: rumpel
- - tags: ['bigbrother', 'surveillance', 'privacy', 'pegasus']
+ - tags: ['big brother', 'surveillance', 'privacy', 'pegasus']
 
 ## Prof. Bralczyk broni „Murzyna”. TikTok usuwa jego wypowiedź - TrueStory
  - [https://truestory.pl/prof-bralczyk-broni-murzyna-tiktok-usuwa-jego-wypowiedz/](https://truestory.pl/prof-bralczyk-broni-murzyna-tiktok-usuwa-jego-wypowiedz/)
@@ -1000,12 +1000,6 @@
  - user: None
  - tags: $tags
 
-## „Razem”: Wyłączanie atomu w czasie walki z emisjami CO2 to zbrodnia klimatyczna
- - [https://www.wykop.pl/link/6819225/razem-wylaczanie-atomu-w-czasie-walki-z-emisjami-co2-to-zbrodnia-klimatyczna/](https://www.wykop.pl/link/6819225/razem-wylaczanie-atomu-w-czasie-walki-z-emisjami-co2-to-zbrodnia-klimatyczna/)
- - date published: 2022-09-16 06:26:01+00:00
- - user: None
- - tags: ['atom', 'climate change']
-
 ## Afera respiratorowa. Brak chętnych na zakup sprzętu
  - [https://www.bankier.pl/wiadomosc/Afera-respiratorowa-Brak-chetnych-na-zakup-sprzetu-8406671.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Afera-respiratorowa-Brak-chetnych-na-zakup-sprzetu-8406671.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date published: 2022-09-15 16:19:00+00:00
@@ -1046,7 +1040,7 @@
  - [https://www.bankier.pl/wiadomosc/Wladze-Chin-cenzuruja-opisy-lockdownu-w-Sinciangu-kaza-mediom-pokazywac-usmiechnietych-seniorow-8404863.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Wladze-Chin-cenzuruja-opisy-lockdownu-w-Sinciangu-kaza-mediom-pokazywac-usmiechnietych-seniorow-8404863.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date published: 2022-09-13 08:16:00+00:00
  - user: None
- - tags: ['china', 'bigbrother', 'media']
+ - tags: ['china', 'big brother', 'media']
 
 ## Ciekawostka jak działa Google, a jak działa Bing...
  - [https://www.wykop.pl/link/6814873/ciekawostka-jak-dziala-google-a-jak-dziala-bing/](https://www.wykop.pl/link/6814873/ciekawostka-jak-dziala-google-a-jak-dziala-bing/)
@@ -1262,7 +1256,7 @@
  - [https://ithardware.pl/aktualnosci/weryfikatorzy_faktow_facebooka_beda_komentowali_wpisy_nieweryfikowalne-22997.html](https://ithardware.pl/aktualnosci/weryfikatorzy_faktow_facebooka_beda_komentowali_wpisy_nieweryfikowalne-22997.html)
  - date published: 2022-08-29 09:02:10+00:00
  - user: None
- - tags: ['facebook', 'factcheck', 'censorship']
+ - tags: ['facebook', 'fact check', 'censorship']
 
 ## Cenzura książek Karola Maya
  - [https://m.wirtualnemedia.pl/m/artykul/niemiecki-wydawca-wycofuje-ksiazki-o-winnetou-razism#.YwxIfjV-QSA.wykop](https://m.wirtualnemedia.pl/m/artykul/niemiecki-wydawca-wycofuje-ksiazki-o-winnetou-razism#.YwxIfjV-QSA.wykop)
@@ -1286,7 +1280,7 @@
  - [https://ithardware.pl/aktualnosci/pakistan_grozi_odcieciem_dysydentow_od_biometrycznego_systemu_cyfrowej_identyfikacji-22922.html](https://ithardware.pl/aktualnosci/pakistan_grozi_odcieciem_dysydentow_od_biometrycznego_systemu_cyfrowej_identyfikacji-22922.html)
  - date published: 2022-08-24 21:03:40+00:00
  - user: None
- - tags: ['biometrics', 'surveillance', 'bigtech', 'pakistan', 'bigbrother']
+ - tags: ['biometrics', 'surveillance', 'big tech', 'pakistan', 'big brother']
 
 ## "Oto dlaczego nigdy nie będę miał ""inteligentnego dzwonka do drzwi"""
  - [https://antyweb.pl/amazon-ring-inteligentny-dzwonek](https://antyweb.pl/amazon-ring-inteligentny-dzwonek)
@@ -1376,7 +1370,7 @@
  - [https://wyborcza.pl/7,75399,28112842,premier-justin-trudeau-wprowadza-stan-wyjatkowy-w-kanadzie.html?squid_js=false](https://wyborcza.pl/7,75399,28112842,premier-justin-trudeau-wprowadza-stan-wyjatkowy-w-kanadzie.html?squid_js=false)
  - date published: 2022-02-14 06:53:45+00:00
  - user: None
- - tags: ['covid', 'freedom convoy', 'lockdown', 'canada']
+ - tags: ['lockdown', 'canada', 'justin trudeau', 'covid', 'freedom convoy']
 
 ## Google udostępniło dane lokalizacji z telefonów protestujących. FBI polowało na biorących udział w zamieszkach
  - [https://www.komputerswiat.pl/aktualnosci/wydarzenia/google-udostepnilo-dane-lokalizacji-z-telefonow-protestujacych-fbi-polowalo-na/e7b87kx](https://www.komputerswiat.pl/aktualnosci/wydarzenia/google-udostepnilo-dane-lokalizacji-z-telefonow-protestujacych-fbi-polowalo-na/e7b87kx)
@@ -1388,7 +1382,7 @@
  - [https://oko.press/pegasus-czyli-jak-kaczynski-zrobil-idiotow-z-premiera-ministrow-i-rzecznika](https://oko.press/pegasus-czyli-jak-kaczynski-zrobil-idiotow-z-premiera-ministrow-i-rzecznika)
  - date published: 2022-02-07 06:56:39+00:00
  - user: rumpel
- - tags: ['bigbrother', 'surveillance', 'privacy', 'pegasus']
+ - tags: ['big brother', 'surveillance', 'privacy', 'pegasus']
 
 ## "Kanada: Stan wyjątkowy w stolicy Kanady. W związku z protestami ""konwoju wolności"""
  - [https://tvn24.pl/swiat/kanada-ottawa-stan-wyjatkowy-i-protesty-przeciwko-obowiazkowym-szczepieniom-i-obostrzeniom-5588250](https://tvn24.pl/swiat/kanada-ottawa-stan-wyjatkowy-i-protesty-przeciwko-obowiazkowym-szczepieniom-i-obostrzeniom-5588250)
@@ -1442,7 +1436,7 @@
  - [https://www.rp.pl/polityka/art19262671-poslowie-pis-zaprzeczali-lub-wysmiewali-temat-pegasusa-kaczynski-potwierdzil-posiadanie](https://www.rp.pl/polityka/art19262671-poslowie-pis-zaprzeczali-lub-wysmiewali-temat-pegasusa-kaczynski-potwierdzil-posiadanie)
  - date published: 2022-01-07 06:57:17+00:00
  - user: rumpel
- - tags: ['bigbrother', 'surveillance', 'pegasus', 'privacy']
+ - tags: ['big brother', 'surveillance', 'pegasus', 'privacy']
 
 ## Facebook zawiesil strone konfederacji bedzie pozew cenzura powraca
  - [https://wiadomosci.onet.pl/kraj/facebook-zawiesil-strone-konfederacji-bedzie-pozew-cenzura-powraca/pk4fkq1](https://wiadomosci.onet.pl/kraj/facebook-zawiesil-strone-konfederacji-bedzie-pozew-cenzura-powraca/pk4fkq1)

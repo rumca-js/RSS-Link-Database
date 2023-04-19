@@ -14,7 +14,7 @@
  - [http://edition.cnn.com/2010/US/12/01/wikileaks.amazon/index.html?eref=edition](http://edition.cnn.com/2010/US/12/01/wikileaks.amazon/index.html?eref=edition)
  - date published: 2010-12-02 03:49:13+00:00
  - user: rumpel
- - tags: ['wikileaks', 'bigtech', 'deplatform', 'amazon']
+ - tags: ['wikileaks', 'big tech', 'deplatform', 'amazon']
 
 ## Eva Hart speaks about her memories of the Titanic . .  survivor interview
  - [https://www.youtube.com/watch?v=MD5J43Z9AWI](https://www.youtube.com/watch?v=MD5J43Z9AWI)
@@ -44,7 +44,7 @@
  - [https://www.theguardian.com/world/2010/jul/25/afghanistan-war-logs-military-leaks](https://www.theguardian.com/world/2010/jul/25/afghanistan-war-logs-military-leaks)
  - date published: 2010-07-25 21:33:58+00:00
  - user: rumpel
- - tags: ['bigbrother', 'afganistan', 'america', 'war', 'data leak']
+ - tags: ['big brother', 'afganistan', 'america', 'war', 'data leak']
 
 ## Nestlé drives rainforest destruction pushing orangutans to brink of extinction - Greenpeace USA
  - [https://www.greenpeace.org/usa/news/nestle-drives-rainforest-destr/](https://www.greenpeace.org/usa/news/nestle-drives-rainforest-destr/)
@@ -62,7 +62,7 @@
  - [https://www.zdnet.com/article/facebook-does-not-erase-user-deleted-content/](https://www.zdnet.com/article/facebook-does-not-erase-user-deleted-content/)
  - date published: 2010-04-28 11:40:35+00:00
  - user: rumpel
- - tags: ['surveillance', 'facebook', 'dark design', 'tracking', 'technofeudalism', 'privacy', 'bigtech']
+ - tags: ['surveillance', 'facebook', 'dark design', 'tracking', 'technofeudalism', 'privacy', 'big tech']
 
 ## Face masks to prevent transmission of influenza virus: a systematic review | Epidemiology & Infection | Cambridge Core
  - [https://www.cambridge.org/core/journals/epidemiology-and-infection/article/face-masks-to-prevent-transmission-of-influenza-virus-a-systematic-review/64D368496EBDE0AFCC6639CCC9D8BC05](https://www.cambridge.org/core/journals/epidemiology-and-infection/article/face-masks-to-prevent-transmission-of-influenza-virus-a-systematic-review/64D368496EBDE0AFCC6639CCC9D8BC05)

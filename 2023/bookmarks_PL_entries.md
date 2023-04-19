@@ -1,8 +1,32 @@
+## Przewodnicząca KE Ursula von der Leyen pozwana w związku z kontraktami z Pfizerem
+ - [https://www.bankier.pl/wiadomosc/Przewodniczaca-KE-Ursula-von-der-Leyen-pozwana-w-zwiazku-z-kontraktami-z-Pfizerem-8524425.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Przewodniczaca-KE-Ursula-von-der-Leyen-pozwana-w-zwiazku-z-kontraktami-z-Pfizerem-8524425.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - date published: 2023-04-17 17:15:00+00:00
+ - user: rumpel
+ - tags: ['covid', 'vaccine', 'pfizer']
+
+## Prezes UOKiK wygrał w sądzie z Biedronką. Ogromna kara dla Jeronimo Martins - blog Redakcja
+ - [https://www.salon24.pl/newsroom/1296510,prezesa-uokik-wygral-w-sadzie-z-biedronka-ogromna-kara-dla-jeronimo-martins](https://www.salon24.pl/newsroom/1296510,prezesa-uokik-wygral-w-sadzie-z-biedronka-ogromna-kara-dla-jeronimo-martins)
+ - date published: 2023-04-17 07:08:21+00:00
+ - user: rumpel
+ - tags: ['corporatocracy', 'biedronka']
+
 ## Skandal w Niemczech. Ujawniono kontrowersyjne e-maile szefa Axel Springer
  - [https://www.bankier.pl/wiadomosc/Skandal-w-Niemczech-Ujawniono-kontrowersyjne-e-maile-szefa-Axel-Springer-8523511.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Skandal-w-Niemczech-Ujawniono-kontrowersyjne-e-maile-szefa-Axel-Springer-8523511.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date published: 2023-04-16 10:20:00+00:00
  - user: rumpel
  - tags: ['axel springer']
+
+## Niemcy. Niemcy zamykają ostatnie elektrownie atomowe, wielkie wyzwanie przed największą gospodarką Europy - TVN24 Biznes
+ - [https://tvn24.pl/biznes/ze-swiata/niemcy-niemcy-zamykaja-ostatnie-elektrownie-atomowe-wielkie-wyzwanie-przed-najwieksza-gospodarka-europy-6919294](https://tvn24.pl/biznes/ze-swiata/niemcy-niemcy-zamykaja-ostatnie-elektrownie-atomowe-wielkie-wyzwanie-przed-najwieksza-gospodarka-europy-6919294)
+ - date published: 2023-04-15 07:35:41+00:00
+ - user: rumpel
+ - tags: ['atom', 'climate change', 'germany']
+
+## Prezydent Biden i prezes Pfizera pozwani za wymuszanie cenzury. Z Twitterem już wygrał
+ - [https://ithardware.pl/aktualnosci/prezydent_biden_i_prezes_pfizera_pozwani_za_wymuszanie_cenzury_z_twitterem_juz_wygral-26799.html](https://ithardware.pl/aktualnosci/prezydent_biden_i_prezes_pfizera_pozwani_za_wymuszanie_cenzury_z_twitterem_juz_wygral-26799.html)
+ - date published: 2023-04-14 09:38:40+00:00
+ - user: rumpel
+ - tags: ['twitter', 'joe biden', 'censorship', 'pfizer']
 
 ## NOP czy nie NOP? Nagle przestała chodzić. Pfizer: Ściśle monitorujemy takie zdarzenia
  - [https://wydarzenia.interia.pl/kraj/news-nop-czy-nie-nop-nagle-przestala-chodzic-pfizer-scisle-monito,nId,6704142](https://wydarzenia.interia.pl/kraj/news-nop-czy-nie-nop-nagle-przestala-chodzic-pfizer-scisle-monito,nId,6704142)
@@ -104,7 +128,13 @@
  - [https://konkret24.tvn24.pl/polityka/inwigilacja-pegasusem-pis-jest-kontrola-sadu-tlumaczymy-dlaczego-to-iluzja-6805222](https://konkret24.tvn24.pl/polityka/inwigilacja-pegasusem-pis-jest-kontrola-sadu-tlumaczymy-dlaczego-to-iluzja-6805222)
  - date published: 2023-03-08 06:58:37+00:00
  - user: rumpel
- - tags: ['bigbrother', 'surveillance', 'privacy', 'pegasus']
+ - tags: ['big brother', 'surveillance', 'privacy', 'pegasus']
+
+## Od aplikacji mObywatel, do Tożsamości Suwerennej. Jak to wpłynie na nasze życie?
+ - [https://www.youtube.com/watch?v=2L2Hr2QOOJk](https://www.youtube.com/watch?v=2L2Hr2QOOJk)
+ - date published: 2023-03-08 05:00:02+00:00
+ - user: rumpel
+ - tags: ['digital passport', 'digital identity', 'mobywatel', 'government control']
 
 ## 19 lekarzy i naukowców stanie przed sądem w Poznaniu. Chodzi o COVID-19 | Głos Wielkopolski
  - [https://gloswielkopolski.pl/19-lekarzy-i-naukowcow-stanie-przed-sadem-w-poznaniu-chodzi-o-covid19/ar/c14-17330665](https://gloswielkopolski.pl/19-lekarzy-i-naukowcow-stanie-przed-sadem-w-poznaniu-chodzi-o-covid19/ar/c14-17330665)
@@ -140,7 +170,7 @@
  - [https://wydarzenia.interia.pl/zagranica/news-hiszpania-nowe-prawo-dotyczace-zmiany-plci-wsrod-dzieci,nId,6601787](https://wydarzenia.interia.pl/zagranica/news-hiszpania-nowe-prawo-dotyczace-zmiany-plci-wsrod-dzieci,nId,6601787)
  - date published: 2023-02-16 15:41:57+00:00
  - user: rumpel
- - tags: ['lgbt', 'spain', 'trans', 'gender']
+ - tags: ['lgbt', 'spain', 'transgender', 'gender']
 
 ## Richard Coudenhove-Kalergi i idea paneuropejska w okresie międzywojennym | prof. Adam Wielomski
  - [https://www.youtube.com/watch?v=w4CY1ub19mY](https://www.youtube.com/watch?v=w4CY1ub19mY)
@@ -158,7 +188,7 @@
  - [https://www.wirtualnemedia.pl/artykul/koniec-nczas-com-blokada-portal-najwyzszy-czas-tomasz-sommer-abw](https://www.wirtualnemedia.pl/artykul/koniec-nczas-com-blokada-portal-najwyzszy-czas-tomasz-sommer-abw)
  - date published: 2023-02-11 20:17:33+00:00
  - user: rumpel
- - tags: ['censorship', 'bigbrother', 'moderation', 'bigtech']
+ - tags: ['censorship', 'big brother', 'moderation', 'big tech']
 
 ## Bill Gates ma cztery odrzutowce. Miliarder t�umaczy, czemu nimi lata, cho� walczy o klimat
  - [https://next.gazeta.pl/next/7,172392,29450499,bill-gates-ma-cztery-odrzutowce-miliarder-tlumaczy-czemu-nimi.html#do_w=52&do_v=478&fallback=true&do_st=RS&do_sid=604&do_a=604&s=BoxBizImg7&do_upid=478_ti&do_utid=29450499&do_uvid=1675973616132](https://next.gazeta.pl/next/7,172392,29450499,bill-gates-ma-cztery-odrzutowce-miliarder-tlumaczy-czemu-nimi.html#do_w=52&do_v=478&fallback=true&do_st=RS&do_sid=604&do_a=604&s=BoxBizImg7&do_upid=478_ti&do_utid=29450499&do_uvid=1675973616132)
@@ -374,7 +404,7 @@
  - [https://www.instalki.pl/aktualnosci/technika/57587-ile-kosztuje-ladowanie-samochodow-elektrycznych-w-2023.html](https://www.instalki.pl/aktualnosci/technika/57587-ile-kosztuje-ladowanie-samochodow-elektrycznych-w-2023.html)
  - date published: 2023-01-06 10:07:18.994947+00:00
  - user: rumpel
- - tags: ['electric cars']
+ - tags: ['electric vehicles']
 
 ## Zdewastowano ponad 30 grobów na anglikańskim cmentarzu w Jerozolimie. Sprawcy zostali nagrani przez kamery.
  - [https://obywatelenieba.pl/2023/01/06/zdewastowano-chrzescijanski-cmentarz/](https://obywatelenieba.pl/2023/01/06/zdewastowano-chrzescijanski-cmentarz/)

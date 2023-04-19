@@ -20,7 +20,7 @@
  - [https://www.christianpost.com/news/new-york-public-school-rejects-student-christian-club-oks-lgbt-pride-club.html?fbclid=IwAR0XGOCi2lUIsLetSjnCZN91O05rCeaWGsR0z2E5dBtfH_E-2OEFqVqi3eA](https://www.christianpost.com/news/new-york-public-school-rejects-student-christian-club-oks-lgbt-pride-club.html?fbclid=IwAR0XGOCi2lUIsLetSjnCZN91O05rCeaWGsR0z2E5dBtfH_E-2OEFqVqi3eA)
  - date published: 2019-12-12 21:08:10+00:00
  - user: rumpel
- - tags: ['lgbt', 'christianophobia', 'newyork', 'inequality']
+ - tags: ['new york', 'lgbt', 'inequality', 'christianophobia']
 
 ## The utopian 1920s scheme for five global superstates - Big Think
  - [https://bigthink.com/strange-maps/coudenhove-kalergi-map/](https://bigthink.com/strange-maps/coudenhove-kalergi-map/)
@@ -32,7 +32,7 @@
  - [https://www.zdnet.com/article/russian-police-raid-nginx-moscow-office/](https://www.zdnet.com/article/russian-police-raid-nginx-moscow-office/)
  - date published: 2019-12-12 08:05:46+00:00
  - user: rumpel
- - tags: ['bigbrother', 'nginx', 'russia']
+ - tags: ['big brother', 'nginx', 'russia']
 
 ## The Untold Truth Of The Satanic Temple
  - [https://www.grunge.com/132693/the-untold-truth-of-the-satanic-temple/](https://www.grunge.com/132693/the-untold-truth-of-the-satanic-temple/)
@@ -50,7 +50,7 @@
  - [https://www.cnn.com/2019/11/25/tech/berners-lee-web-safer-plan-scli-intl/index.html](https://www.cnn.com/2019/11/25/tech/berners-lee-web-safer-plan-scli-intl/index.html)
  - date published: 2019-11-25 12:39:10+00:00
  - user: rumpel
- - tags: ['bigtech', 'internet', 'tim berners-lee', 'surveillance', 'privacy', 'all time', 'dystopia']
+ - tags: ['big tech', 'internet', 'tim berners-lee', 'surveillance', 'privacy', 'all time', 'dystopia']
 
 ## How to keep employees happy: LinkedIn study reveals three factors
  - [https://www.techrepublic.com/article/how-to-keep-employees-happy-linkedin-study-reveals-three-factors/](https://www.techrepublic.com/article/how-to-keep-employees-happy-linkedin-study-reveals-three-factors/)
@@ -68,19 +68,19 @@
  - [https://www.businessinsider.com/google-manipulates-search-results-report-2019-11?IR=T](https://www.businessinsider.com/google-manipulates-search-results-report-2019-11?IR=T)
  - date published: 2019-11-15 14:12:35+00:00
  - user: rumpel
- - tags: ['dead internet', 'bigtech', 'google search', 'algorithms', 'media bias']
+ - tags: ['dead internet', 'big tech', 'search engines', 'algorithms', 'media bias']
 
 ## Google regularly changes search results: WSJ
  - [https://www.cnbc.com/2019/11/15/google-tweaks-its-algorithm-to-change-search-results-wsj.html](https://www.cnbc.com/2019/11/15/google-tweaks-its-algorithm-to-change-search-results-wsj.html)
  - date published: 2019-11-15 14:08:29+00:00
  - user: rumpel
- - tags: ['dead internet', 'bigtech', 'google search', 'algorithms', 'media bias', 'moderation', 'manufacturing consent']
+ - tags: ['dead internet', 'big tech', 'search engines', 'algorithms', 'media bias', 'moderation', 'manufacturing consent']
 
 ## Jonathan Pageau: The Surprising Symbolism of 666
  - [https://www.youtube.com/watch?v=qM_kQjpAK6g](https://www.youtube.com/watch?v=qM_kQjpAK6g)
  - date published: 2019-11-14 20:16:44+00:00
  - user: rumpel
- - tags: ['pageau', '666']
+ - tags: ['666', 'jonathan pageau', 'symbolism']
 
 ## Facebook has shut down 5.4 billion fake accounts this year, but millions likely remain | CNN Business
  - [https://edition.cnn.com/2019/11/13/tech/facebook-fake-accounts/index.html](https://edition.cnn.com/2019/11/13/tech/facebook-fake-accounts/index.html)
@@ -104,7 +104,7 @@
  - [https://www.christianheadlines.com/contributors/mikaela-matthews/79-year-old-man-beat-on-new-york-subway-for-preaching-gospel.html](https://www.christianheadlines.com/contributors/mikaela-matthews/79-year-old-man-beat-on-new-york-subway-for-preaching-gospel.html)
  - date published: 2019-11-05 20:56:43+00:00
  - user: rumpel
- - tags: ['lgbt', 'trans', 'intolerance']
+ - tags: ['lgbt', 'transgender', 'intolerance']
 
 ## Blizzard, Hearthstone and the Hong Kong protests: What you need to know
  - [https://www.cnet.com/culture/blizzard-hearthstone-and-the-hong-kong-protests-heres-what-you-need-to-know/](https://www.cnet.com/culture/blizzard-hearthstone-and-the-hong-kong-protests-heres-what-you-need-to-know/)
@@ -158,7 +158,7 @@
  - [https://theintercept.com/2019/10/10/fbi-nsa-mass-surveillance-abuse/](https://theintercept.com/2019/10/10/fbi-nsa-mass-surveillance-abuse/)
  - date published: 2019-10-10 13:37:51+00:00
  - user: None
- - tags: ['privacy', 'nsa', 'surveillance', 'fbi', 'bigbrother']
+ - tags: ['privacy', 'nsa', 'surveillance', 'fbi', 'big brother']
 
 ## Google pulls Hong Kong protest game for violating rules against ‘capitalizing on sensitive events’
  - [https://www.theverge.com/2019/10/10/20908034/google-hong-kong-protest-game-play-store-removed-rules](https://www.theverge.com/2019/10/10/20908034/google-hong-kong-protest-game-play-store-removed-rules)
@@ -212,13 +212,13 @@
  - [https://www.theguardian.com/technology/2019/oct/05/facial-recognition-technology-hurtling-towards-surveillance-state](https://www.theguardian.com/technology/2019/oct/05/facial-recognition-technology-hurtling-towards-surveillance-state)
  - date published: 2019-10-05 09:00:43+00:00
  - user: rumpel
- - tags: ['biometric', 'facial recognition', 'india', 'surveillance', 'bigbrother', 'corporatocracy']
+ - tags: ['biometric', 'facial recognition', 'india', 'surveillance', 'big brother', 'corporatocracy']
 
 ## Eyes Wide Shut and the Moral Bankruptcy of the American Elite
  - [https://lawliberty.org/eyes-wide-shut-and-the-moral-bankruptcy-of-the-american-elite/](https://lawliberty.org/eyes-wide-shut-and-the-moral-bankruptcy-of-the-american-elite/)
  - date published: 2019-10-04 20:29:42+00:00
  - user: rumpel
- - tags: ['eyes wide shut', 'epstein', 'billionaires']
+ - tags: ['eyes wide shut', 'jeffrey epstein', 'billionaires']
 
 ## Twitter executive for Middle East is British Army 'psyops' soldier | Middle East Eye
  - [https://www.middleeasteye.net/news/twitter-executive-also-part-time-officer-uk-army-psychological-warfare-unit](https://www.middleeasteye.net/news/twitter-executive-also-part-time-officer-uk-army-psychological-warfare-unit)
@@ -242,7 +242,7 @@
  - [https://greenjihad.com/2019/09/29/the-green-swindlers-behind-greta-thunberg/](https://greenjihad.com/2019/09/29/the-green-swindlers-behind-greta-thunberg/)
  - date published: 2019-09-29 20:06:07+00:00
  - user: rumpel
- - tags: ['greta', 'corporatocracy', 'thunberg', 'climate change']
+ - tags: ['climate change', 'greta thunberg', 'corporatocracy']
 
 ## 8 Things You May Not Know About Our Air Defense on 9/11 > U.S. Department of Defense > Defense Department News
  - [https://www.defense.gov/News/News-Stories/Article/Article/1955624/8-things-you-may-not-know-about-our-air-defense-on-911/](https://www.defense.gov/News/News-Stories/Article/Article/1955624/8-things-you-may-not-know-about-our-air-defense-on-911/)
@@ -272,7 +272,7 @@
  - [https://pluralist.com/ingmar-rentzhog-greta-thunberg/](https://pluralist.com/ingmar-rentzhog-greta-thunberg/)
  - date published: 2019-08-25 19:03:53+00:00
  - user: rumpel
- - tags: ['corporatocracy', 'thunberg', 'climate change', 'climate drama', 'greta']
+ - tags: ['climate change', 'greta thunberg', 'corporatocracy', 'climate drama']
 
 ## Your Siri Recordings are Analyzed by Actual Humans Contracted by Apple!
  - [https://www.digitalinformationworld.com/2019/08/contractors-hear-private-recordings-apple-siri.html](https://www.digitalinformationworld.com/2019/08/contractors-hear-private-recordings-apple-siri.html)
@@ -290,7 +290,7 @@
  - [https://www.nytimes.com/2019/08/22/business/epstein-mit-media-lab.html](https://www.nytimes.com/2019/08/22/business/epstein-mit-media-lab.html)
  - date published: 2019-08-22 12:18:53+00:00
  - user: None
- - tags: ['donations', 'money', 'epstein', 'mit']
+ - tags: ['donations', 'money', 'jeffrey epstein', 'mit']
 
 ## Get Woke Go Broke: Gillette Backflips After $12 Billion Toxic Masculinity Disaster — Hopes to Lure Sexist Pigs Back with New Ad Campaign
  - [https://www.thegatewaypundit.com/2019/08/get-woke-go-broke-gillette-backflips-after-12-billion-toxic-masculinity-disaster-hopes-to-lure-sexist-pigs-back-with-new-ad-campaign/](https://www.thegatewaypundit.com/2019/08/get-woke-go-broke-gillette-backflips-after-12-billion-toxic-masculinity-disaster-hopes-to-lure-sexist-pigs-back-with-new-ad-campaign/)
@@ -314,7 +314,7 @@
  - [https://www.thetimes.co.uk/article/greta-thunberg-and-the-plot-to-forge-a-climate-warrior-9blhz9mjv?region=global](https://www.thetimes.co.uk/article/greta-thunberg-and-the-plot-to-forge-a-climate-warrior-9blhz9mjv?region=global)
  - date published: 2019-08-18 20:04:55+00:00
  - user: rumpel
- - tags: ['greta', 'corporatocracy', 'thunberg', 'climate change']
+ - tags: ['climate change', 'greta thunberg', 'corporatocracy']
 
 ## Ottawa's first 'Black Mass' has protesters seeing red | CTV News
  - [https://ottawa.ctvnews.ca/ottawa-s-first-black-mass-has-protesters-seeing-red-1.4554309](https://ottawa.ctvnews.ca/ottawa-s-first-black-mass-has-protesters-seeing-red-1.4554309)
@@ -326,13 +326,13 @@
  - [https://www.theguardian.com/technology/2019/aug/16/privacy-campaigners-uk-facial-recognition-epidemic](https://www.theguardian.com/technology/2019/aug/16/privacy-campaigners-uk-facial-recognition-epidemic)
  - date published: 2019-08-16 11:49:03+00:00
  - user: rumpel
- - tags: ['privacy', 'biometric', 'facial recognition', 'india', 'surveillance', 'bigbrother', 'corporatocracy']
+ - tags: ['privacy', 'biometric', 'facial recognition', 'india', 'surveillance', 'big brother', 'corporatocracy']
 
 ## Haunting photos show Jeffrey Epstein’s ‘Pedophile Island’ in the Caribbean
  - [https://nypost.com/2019/08/15/haunting-photos-show-jeffrey-epsteins-pedophile-island-in-the-caribbean/#1](https://nypost.com/2019/08/15/haunting-photos-show-jeffrey-epsteins-pedophile-island-in-the-caribbean/#1)
  - date published: 2019-08-15 08:26:20+00:00
  - user: None
- - tags: ['island', 'secret societies', 'epstein', 'paedophilia']
+ - tags: ['island', 'secret societies', 'jeffrey epstein', 'paedophilia']
 
 ## Volkswagen and Philadelphia ads banned for gender stereotypes
  - [https://www.cnn.com/2019/08/14/media/uk-adverts-banned-gender-stereotypes-scli-gbr-intl/index.html](https://www.cnn.com/2019/08/14/media/uk-adverts-banned-gender-stereotypes-scli-gbr-intl/index.html)
@@ -350,13 +350,13 @@
  - [https://www.foxnews.com/us/jeffrey-epstein-former-cellmate-apparent-suicide-attempt](https://www.foxnews.com/us/jeffrey-epstein-former-cellmate-apparent-suicide-attempt)
  - date published: 2019-08-12 12:17:45+00:00
  - user: None
- - tags: ['epstein', 'prison cell']
+ - tags: ['jeffrey epstein', 'prison cell']
 
 ## Death of Jeffrey Epstein
  - [https://en.wikipedia.org/wiki/Death_of_Jeffrey_Epstein](https://en.wikipedia.org/wiki/Death_of_Jeffrey_Epstein)
  - date published: 2019-08-10 19:36:32+00:00
  - user: None
- - tags: ['epstein']
+ - tags: ['jeffrey epstein']
 
 ## Biden says 'poor kids are just as bright and just as talented as white kids'
  - [https://www.nbcnews.com/politics/2020-election/biden-says-poor-kids-are-just-bright-just-talented-white-n1040686](https://www.nbcnews.com/politics/2020-election/biden-says-poor-kids-are-just-bright-just-talented-white-n1040686)
@@ -380,13 +380,13 @@
  - [https://www.ccn.com/google-manipulates-search-results-former-engineer-shockingly-confirms/](https://www.ccn.com/google-manipulates-search-results-former-engineer-shockingly-confirms/)
  - date published: 2019-08-01 14:10:59+00:00
  - user: rumpel
- - tags: ['dead internet', 'bigtech', 'google search', 'algorithms', 'media bias', 'manufacturing consent']
+ - tags: ['dead internet', 'big tech', 'search engines', 'algorithms', 'media bias', 'manufacturing consent']
 
 ## MAN, I FEEL LIKE A WOMAN: Walsh absolutely wrecks entire transgender argument
  - [https://www.youtube.com/watch?v=J0a0fllObFk](https://www.youtube.com/watch?v=J0a0fllObFk)
  - date published: 2019-07-30 08:48:08+00:00
  - user: rumpel
- - tags: ['trans', 'gender', 'woke', 'lgbt']
+ - tags: ['transgender', 'gender', 'woke', 'lgbt']
 
 ## Ben Shapiro Vs Climate Change | UBC Talk
  - [https://www.youtube.com/watch?v=wRk1p8Lzwvo](https://www.youtube.com/watch?v=wRk1p8Lzwvo)
@@ -422,31 +422,31 @@
  - [https://www.newsweek.com/eyes-wide-shut-missing-footage-epstein-kubrick-death-1449108](https://www.newsweek.com/eyes-wide-shut-missing-footage-epstein-kubrick-death-1449108)
  - date published: 2019-07-12 20:30:36+00:00
  - user: rumpel
- - tags: ['eyes wide shut', 'kubrick', 'epstein', 'billionaires']
+ - tags: ['eyes wide shut', 'kubrick', 'jeffrey epstein', 'billionaires']
 
 ## How online surveillance is killing private conversations
  - [https://www.theguardian.com/world/2019/jul/11/can-we-talk-in-confidence-the-death-of-candour-in-the-age-of-surveillance](https://www.theguardian.com/world/2019/jul/11/can-we-talk-in-confidence-the-death-of-candour-in-the-age-of-surveillance)
  - date published: 2019-07-11 05:00:51+00:00
  - user: rumpel
- - tags: ['surveillance', 'privacy', 'bigtech']
+ - tags: ['surveillance', 'privacy', 'big tech']
 
 ## So Was QAnon … Right?
  - [https://nymag.com/intelligencer/2019/07/does-the-jeffrey-epstein-indictment-qanon.html](https://nymag.com/intelligencer/2019/07/does-the-jeffrey-epstein-indictment-qanon.html)
  - date published: 2019-07-09 19:54:40+00:00
  - user: rumpel
- - tags: ['epstein', 'qanon']
+ - tags: ['jeffrey epstein', 'qanon']
 
 ## $56 Million Upper East Side Mansion Where Epstein Allegedly Abused Girls
  - [https://www.nytimes.com/2019/07/08/nyregion/jeffrey-epstein-nyc-mansion.html](https://www.nytimes.com/2019/07/08/nyregion/jeffrey-epstein-nyc-mansion.html)
  - date published: 2019-07-08 20:03:14+00:00
  - user: rumpel
- - tags: ['epstein', 'mansion']
+ - tags: ['jeffrey epstein', 'mansion']
 
 ## Everything We Know About the Sex Crimes Case Against Jeffrey Epstein
  - [https://nymag.com/intelligencer/2019/07/all-we-know-about-the-new-case-against-jeffrey-epstein.html](https://nymag.com/intelligencer/2019/07/all-we-know-about-the-new-case-against-jeffrey-epstein.html)
  - date published: 2019-07-08 19:57:17+00:00
  - user: rumpel
- - tags: ['billionairs', 'epstein', 'elites']
+ - tags: ['billionairs', 'jeffrey epstein', 'elites']
 
 ## A parasitological evaluation of edible insects and their role in the transmission of parasitic diseases to humans and animals - PMC
  - [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6613697/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6613697/)
@@ -488,7 +488,7 @@
  - [https://www.economist.com/graphic-detail/2019/06/08/google-rewards-reputable-reporting-not-left-wing-politics](https://www.economist.com/graphic-detail/2019/06/08/google-rewards-reputable-reporting-not-left-wing-politics)
  - date published: 2019-06-08 14:36:32+00:00
  - user: rumpel
- - tags: ['algorithms', 'google search']
+ - tags: ['algorithms', 'search engines']
 
 ## The Do Black card has a carbon emissions limit
  - [https://www.fastcompany.com/90344150/this-credit-card-wont-let-you-buy-anything-else-after-youve-hit-your-annual-carbon-limit](https://www.fastcompany.com/90344150/this-credit-card-wont-let-you-buy-anything-else-after-youve-hit-your-annual-carbon-limit)
@@ -566,7 +566,7 @@
  - [https://blog.collegevine.com/the-list-of-all-u-s-colleges-with-a-gender-studies-gender-and-sexuality-studies-major/](https://blog.collegevine.com/the-list-of-all-u-s-colleges-with-a-gender-studies-gender-and-sexuality-studies-major/)
  - date published: 2019-04-16 20:07:17+00:00
  - user: rumpel
- - tags: ['universities', 'scienceisdead', 'gender']
+ - tags: ['universities', 'science is dead', 'gender']
 
 ## Amazon employees are listening to what you say to Alexa — here's how to stop them
  - [https://www.cnbc.com/2019/04/11/how-to-stop-amazon-from-listening-to-what-you-say-to-alexa.html](https://www.cnbc.com/2019/04/11/how-to-stop-amazon-from-listening-to-what-you-say-to-alexa.html)
@@ -584,7 +584,7 @@
  - [https://www.dailymail.co.uk/news/article-6897269/Workers-transgender-clinic-quit-concerns-unregulated-live-experiments-children.html](https://www.dailymail.co.uk/news/article-6897269/Workers-transgender-clinic-quit-concerns-unregulated-live-experiments-children.html)
  - date published: 2019-04-08 08:58:27+00:00
  - user: rumpel
- - tags: ['trans', 'family', 'lgbt', 'woke']
+ - tags: ['transgender', 'family', 'lgbt', 'woke']
 
 ## The quickest way to get into a fight in a 1960s Australian pub | RetroFocus
  - [https://www.youtube.com/watch?v=esBLinbJydI](https://www.youtube.com/watch?v=esBLinbJydI)
@@ -626,13 +626,13 @@
  - [https://www.quora.com/Why-does-Google-limit-results-to-only-like-30-pages-even-for-very-popular-search-terms?share=1](https://www.quora.com/Why-does-Google-limit-results-to-only-like-30-pages-even-for-very-popular-search-terms?share=1)
  - date published: 2019-02-26 11:59:59+00:00
  - user: rumpel
- - tags: ['google search']
+ - tags: ['search engines']
 
 ## Lawyer slams 'ridiculous' case which saw teen prosecuted for Instagramming N-word rap lyrics - Liverpool Echo
  - [https://www.liverpoolecho.co.uk/news/liverpool-news/teen-prosecuted-n-word-rap-15874476](https://www.liverpoolecho.co.uk/news/liverpool-news/teen-prosecuted-n-word-rap-15874476)
  - date published: 2019-02-22 09:33:04+00:00
  - user: rumpel
- - tags: ['privacy', 'racism', 'censorship', 'free speech', 'bigbrother']
+ - tags: ['privacy', 'racism', 'censorship', 'free speech', 'big brother']
 
 ## Sweden sees microchip implant revolution | Al Jazeera English
  - [https://www.youtube.com/watch?v=dl_gemn9a9E](https://www.youtube.com/watch?v=dl_gemn9a9E)
@@ -650,7 +650,7 @@
  - [https://www.cnn.com/2019/02/17/tech/facebook-fake-news-disinformation-report/index.html](https://www.cnn.com/2019/02/17/tech/facebook-fake-news-disinformation-report/index.html)
  - date published: 2019-02-18 10:10:15+00:00
  - user: rumpel
- - tags: ['privacy', 'facebook', 'bigtech']
+ - tags: ['privacy', 'facebook', 'big tech']
 
 ## WEF defends jet-setting elites amid climate change agenda
  - [https://www.cnbc.com/2019/01/25/wef-defends-jet-setting-elites-amid-climate-change-agenda.html](https://www.cnbc.com/2019/01/25/wef-defends-jet-setting-elites-amid-climate-change-agenda.html)
@@ -674,7 +674,7 @@
  - [https://theintercept.com/2019/01/10/amazon-ring-security-camera/](https://theintercept.com/2019/01/10/amazon-ring-security-camera/)
  - date published: 2019-01-10 12:17:38+00:00
  - user: None
- - tags: ['privacy', 'tracking', 'iot', 'amazon', 'bigtech']
+ - tags: ['privacy', 'tracking', 'iot', 'amazon', 'big tech']
 
 ## Inheritance — What your mother never told you
  - [https://isocpp.org/wiki/faq/strange-inheritance](https://isocpp.org/wiki/faq/strange-inheritance)

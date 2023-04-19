@@ -20,13 +20,13 @@
  - [https://www.theguardian.com/technology/2018/dec/04/google-facebook-anti-conservative-bias-claims](https://www.theguardian.com/technology/2018/dec/04/google-facebook-anti-conservative-bias-claims)
  - date published: 2018-12-04 19:51:59+00:00
  - user: None
- - tags: ['facebook', 'google', 'censorship', 'algorithms']
+ - tags: ['facebook', 'algorithms', 'censorship', 'search engines', 'google']
 
 ## Google Shows Personalized Search Results When Logged Out, According to New Study
  - [https://www.searchenginejournal.com/google-shows-personalized-search-results-when-logged-out-according-to-new-study/281329/](https://www.searchenginejournal.com/google-shows-personalized-search-results-when-logged-out-according-to-new-study/281329/)
  - date published: 2018-12-04 14:01:53+00:00
  - user: rumpel
- - tags: ['algorithms', 'privacy', 'bigtech', 'google search']
+ - tags: ['algorithms', 'privacy', 'big tech', 'search engines']
 
 ## How a future Trump Cabinet member gave a serial sex abuser the deal of a lifetime
  - [https://www.miamiherald.com/news/local/article220097825.html](https://www.miamiherald.com/news/local/article220097825.html)
@@ -56,7 +56,7 @@
  - [https://www.youtube.com/watch?v=OlqU_JMTzd4](https://www.youtube.com/watch?v=OlqU_JMTzd4)
  - date published: 2018-10-30 20:27:37+00:00
  - user: rumpel
- - tags: ['lgbt', 'rogan', 'sjw', 'woke', 'feminism', 'grievance']
+ - tags: ['lgbt', 'joe rogan', 'sjw', 'woke', 'feminism', 'grievance']
 
 ## 'City of surveillance': privacy expert quits Toronto's smart-city project
  - [https://www.theguardian.com/world/2018/oct/23/toronto-smart-city-surveillance-ann-cavoukian-resigns-privacy](https://www.theguardian.com/world/2018/oct/23/toronto-smart-city-surveillance-ann-cavoukian-resigns-privacy)
@@ -80,7 +80,7 @@
  - [https://www.youtube.com/watch?v=SrsCEbi5N7Y](https://www.youtube.com/watch?v=SrsCEbi5N7Y)
  - date published: 2018-10-13 13:51:29+00:00
  - user: rumpel
- - tags: ['dead internet', 'gołe search', 'algorithms', 'duckduckgo']
+ - tags: ['dead internet', 'gołe search', 'algorithms', 'duckduckgo', 'search engines']
 
 ## The Agricultural Revolution Has Been A Disaster for the Human Race.
  - [https://notrelated.xyz/audio/s01/S01E05_-_The_Agricultural_Revolution_Has_Been_a_Disaster_for_the_Human_Race.mp3](https://notrelated.xyz/audio/s01/S01E05_-_The_Agricultural_Revolution_Has_Been_a_Disaster_for_the_Human_Race.mp3)
@@ -140,7 +140,7 @@
  - [https://www.cnbc.com/2018/09/04/jack-dorsey-to-congress-full-written-testimony-on-political-bias.html](https://www.cnbc.com/2018/09/04/jack-dorsey-to-congress-full-written-testimony-on-political-bias.html)
  - date published: 2018-09-04 11:18:42+00:00
  - user: rumpel
- - tags: ['twitter files', 'shadowban', 'jackdorsey', 'twitter']
+ - tags: ['shadowban', 'jack dorsey', 'twitter', 'twitter files']
 
 ## Capitalism, Socialism and Democracy
  - [https://notrelated.xyz/audio/s01/S01E02_-_Capitalism_Socialism_and_Democracy.mp3](https://notrelated.xyz/audio/s01/S01E02_-_Capitalism_Socialism_and_Democracy.mp3)
@@ -182,7 +182,7 @@
  - [http://money.cnn.com/2018/08/21/technology/google-data-collection/index.html](http://money.cnn.com/2018/08/21/technology/google-data-collection/index.html)
  - date published: 2018-08-21 04:26:57+00:00
  - user: rumpel
- - tags: ['bigtech', 'privacy', 'surveillance', 'google']
+ - tags: ['big tech', 'privacy', 'surveillance', 'google']
 
 ## An Introduction to Not Related! and to Luke Smith
  - [https://notrelated.xyz/audio/s01/S01E00_-_Not_Related_Introduction_and_on_Luke_Smith.mp3](https://notrelated.xyz/audio/s01/S01E00_-_Not_Related_Introduction_and_on_Luke_Smith.mp3)
@@ -236,7 +236,7 @@
  - [https://www.theverge.com/2018/7/18/17580694/google-android-eu-fine-antitrust](https://www.theverge.com/2018/7/18/17580694/google-android-eu-fine-antitrust)
  - date published: 2018-07-18 13:57:43+00:00
  - user: rumpel
- - tags: ['chrome', 'browser', 'bigtech', 'antitrust', 'android', 'google']
+ - tags: ['chrome', 'browser', 'big tech', 'antitrust', 'android', 'google']
 
 ## Social Engineering as a Threat to Societies: The Cambridge Analytica Case
  - [https://www.realcleardefense.com/articles/2018/07/18/social_engineering_as_a_threat_to_societies_the_cambridge_analytica_case_113620.html](https://www.realcleardefense.com/articles/2018/07/18/social_engineering_as_a_threat_to_societies_the_cambridge_analytica_case_113620.html)
@@ -254,7 +254,7 @@
  - [https://www.dailymail.co.uk/sciencetech/article-5916671/Your-smartphone-NOT-listening-does-record-video-do.html](https://www.dailymail.co.uk/sciencetech/article-5916671/Your-smartphone-NOT-listening-does-record-video-do.html)
  - date published: 2018-07-04 12:04:50+00:00
  - user: rumpel
- - tags: ['bigtech', 'security', 'privacy']
+ - tags: ['big tech', 'security', 'privacy']
 
 ## No, Canadians cannot be jailed or fined just for using the wrong gender pronoun | Fact Check
  - [https://factcheck.afp.com/no-canadians-cannot-be-jailed-or-fined-just-using-wrong-gender-pronoun](https://factcheck.afp.com/no-canadians-cannot-be-jailed-or-fined-just-using-wrong-gender-pronoun)
