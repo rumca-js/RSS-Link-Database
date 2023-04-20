@@ -26,7 +26,7 @@
  - [https://abcnews.go.com/US/york-governor-declares-racism-public-health-emergency-amid/story?id=82002884](https://abcnews.go.com/US/york-governor-declares-racism-public-health-emergency-amid/story?id=82002884)
  - date published: 2021-12-30 20:07:17+00:00
  - user: rumpel
- - tags: ['america', 'racism']
+ - tags: ['usa', 'racism']
 
 ## GCC 12 Adds Support For Using The Mold Linker - Phoronix
  - [https://www.phoronix.com/scan.php?page=news_item&px=GCC-12-Mold-Linker](https://www.phoronix.com/scan.php?page=news_item&px=GCC-12-Mold-Linker)
@@ -194,7 +194,7 @@
  - [https://www.bbc.co.uk/news/uk-politics-59735218](https://www.bbc.co.uk/news/uk-politics-59735218)
  - date published: 2021-12-22 08:35:29.336205+00:00
  - user: Thomas Pain
- - tags: ['law', 'transgender', 'gender']
+ - tags: ['gender', 'woke', 'big brother', 'transgender']
 
 ## McDonald's faces a French fries shortage in Japan - BBC News
  - [https://www.bbc.co.uk/news/business-59750613](https://www.bbc.co.uk/news/business-59750613)
@@ -224,7 +224,7 @@
  - [https://www.the-sun.com/news/4315751/donald-trump-epstein-lolita-express-ghislaine-maxwell/](https://www.the-sun.com/news/4315751/donald-trump-epstein-lolita-express-ghislaine-maxwell/)
  - date published: 2021-12-21 11:50:07+00:00
  - user: rumpel
- - tags: ['jeffrey epstein', 'elite', 'billionaires', 'donald trump']
+ - tags: ['donald trump', 'elites', 'jeffrey epstein', 'billionaires']
 
 ## Omicron coverage reveals how the establishment, media keep us scared
  - [https://nypost.com/2021/12/21/omicron-coverage-reveals-how-the-establishment-media-keep-us-scared/](https://nypost.com/2021/12/21/omicron-coverage-reveals-how-the-establishment-media-keep-us-scared/)
@@ -356,7 +356,7 @@
  - [https://www.priv.gc.ca/en/opc-news/news-and-announcements/2021/an_211214/](https://www.priv.gc.ca/en/opc-news/news-and-announcements/2021/an_211214/)
  - date published: 2021-12-14 19:19:51+00:00
  - user: rumpel
- - tags: ['privacy', 'surveillance', 'facial recognition', 'big brother', 'clearview', 'artificial intelligence']
+ - tags: ['big brother', 'clearview', 'privacy', 'surveillance', 'artificial intelligence', 'facial recognition', 'biometric']
 
 ## Politician says Germany should ban Telegram unless it tackles extremist content
  - [https://news.yahoo.com/politician-says-germany-ban-telegram-182425996.html](https://news.yahoo.com/politician-says-germany-ban-telegram-182425996.html)
@@ -446,7 +446,7 @@
  - [https://www.reuters.com/business/cop/australia-says-us-facial-recognition-software-firm-clearview-breached-privacy-2021-11-03/](https://www.reuters.com/business/cop/australia-says-us-facial-recognition-software-firm-clearview-breached-privacy-2021-11-03/)
  - date published: 2021-12-03 19:20:51+00:00
  - user: rumpel
- - tags: ['privacy', 'surveillance', 'facial recognition', 'big brother', 'australia', 'clearview', 'artificial intelligence']
+ - tags: ['big brother', 'clearview', 'privacy', 'surveillance', 'artificial intelligence', 'facial recognition', 'australia', 'biometric']
 
 ## LEGO has designed a set that can't be taken apart | Brickset: LEGO set guide and database
  - [https://brickset.com/article/67650/lego-has-designed-a-set-that-can-t-be-taken-apart](https://brickset.com/article/67650/lego-has-designed-a-set-that-can-t-be-taken-apart)
@@ -458,7 +458,7 @@
  - [https://nationalpost.com/news/canada/canada-transgender-treatment](https://nationalpost.com/news/canada/canada-transgender-treatment)
  - date published: 2021-12-03 08:49:22+00:00
  - user: rumpel
- - tags: ['kids', 'canada', 'lgbt', 'transgender']
+ - tags: ['children', 'canada', 'woke', 'lgbt', 'transgender']
 
 ## Microsoft says its own Edge browser is more trustworthy than "so 2008" Google Chrome - Neowin
  - [https://www.neowin.net/news/microsoft-says-its-own-edge-browser-is-more-trustworthy-than-so-2008-google-chrome/](https://www.neowin.net/news/microsoft-says-its-own-edge-browser-is-more-trustworthy-than-so-2008-google-chrome/)
@@ -836,7 +836,7 @@
  - [https://www.bbc.co.uk/news/business-59256223](https://www.bbc.co.uk/news/business-59256223)
  - date published: 2021-11-12 21:57:43+00:00
  - user: rumpel
- - tags: ['profits', 'astrazeneca', 'vaccine', 'covid']
+ - tags: ['vaccine', 'covid', 'astrazeneca']
 
 ## Project Veritas: Journalists or Political Spies?  - The New York Times
  - [https://www.nytimes.com/2021/11/11/us/politics/project-veritas-journalism-political-spying.html](https://www.nytimes.com/2021/11/11/us/politics/project-veritas-journalism-political-spying.html)
@@ -866,7 +866,7 @@
  - [https://www.nbcnews.com/news/us-news/pfizer-ceo-calls-spreading-vaccine-misinformation-criminals-rcna5124](https://www.nbcnews.com/news/us-news/pfizer-ceo-calls-spreading-vaccine-misinformation-criminals-rcna5124)
  - date published: 2021-11-11 20:34:49+00:00
  - user: rumpel
- - tags: ['pfizer', 'propaganda', 'covid', 'misinformation']
+ - tags: ['big pharma', 'misinformation', 'covid', 'propaganda', 'pfizer']
 
 ## The Invisible JavaScript Backdoor – Certitude Blog
  - [https://certitude.consulting/blog/en/invisible-backdoor/](https://certitude.consulting/blog/en/invisible-backdoor/)
@@ -944,7 +944,7 @@
  - [https://www.youtube.com/watch?v=yRWmKh13b50](https://www.youtube.com/watch?v=yRWmKh13b50)
  - date published: 2021-11-07 00:00:00+00:00
  - user: rumpel
- - tags: ['america', 'crisis', 'homeless']
+ - tags: ['usa', 'crisis', 'homeless']
 
 ## Most US States Suing to Stop Biden COVID-19 Vaxx Mandate
  - [https://www.businessinsider.com/vaccine-mandate-biden-covid-19-states-sue-unconstitutional-2021-11?IR=T](https://www.businessinsider.com/vaccine-mandate-biden-covid-19-states-sue-unconstitutional-2021-11?IR=T)
@@ -992,7 +992,7 @@
  - [https://www.theguardian.com/world/2021/nov/03/facial-recognition-firm-cleaview-ai-to-appeal-order-to-stop-collecting-images-of-australians](https://www.theguardian.com/world/2021/nov/03/facial-recognition-firm-cleaview-ai-to-appeal-order-to-stop-collecting-images-of-australians)
  - date published: 2021-11-03 19:21:58+00:00
  - user: rumpel
- - tags: ['privacy', 'surveillance', 'facial recognition', 'big brother', 'australia', 'clearview', 'artificial intelligence']
+ - tags: ['big brother', 'clearview', 'privacy', 'surveillance', 'artificial intelligence', 'facial recognition', 'australia', 'biometric']
 
 ## Do-nothing scripting: the key to gradual automation – Dan Slimmon
  - [https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/](https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/)
@@ -1052,7 +1052,7 @@
  - [https://www.npr.org/2021/10/30/1049603171/germany-gender-neutral-language-german](https://www.npr.org/2021/10/30/1049603171/germany-gender-neutral-language-german)
  - date published: 2021-10-30 08:09:10+00:00
  - user: rumpel
- - tags: ['woke', 'newspeak', 'orwell']
+ - tags: ['newspeak', 'woke', 'social engineering']
 
 ## Architect Resigns in Protest over UCSB Mega-Dorm - The Santa Barbara Independent
  - [https://www.independent.com/2021/10/28/architect-resigns-in-protest-over-ucsb-mega-dorm/](https://www.independent.com/2021/10/28/architect-resigns-in-protest-over-ucsb-mega-dorm/)
@@ -1064,7 +1064,7 @@
  - [https://cruxnow.com/church-in-europe/2021/10/italys-disputed-homophobia-bill-defeated-in-senate](https://cruxnow.com/church-in-europe/2021/10/italys-disputed-homophobia-bill-defeated-in-senate)
  - date published: 2021-10-29 22:00:47+00:00
  - user: rumpel
- - tags: ['inequality', 'italy', 'lgbt']
+ - tags: ['woke', 'inequality', 'lgbt', 'italy']
 
 ## Streaming’s dirty secret: how viewing Netflix top 10 creates vast quantity of CO2 | TV streaming | The Guardian
  - [https://www.theguardian.com/tv-and-radio/2021/oct/29/streamings-dirty-secret-how-viewing-netflix-top-10-creates-vast-quantity-of-co2](https://www.theguardian.com/tv-and-radio/2021/oct/29/streamings-dirty-secret-how-viewing-netflix-top-10-creates-vast-quantity-of-co2)
@@ -1082,7 +1082,7 @@
  - [https://www.bbc.co.uk/news/world-us-canada-59076614](https://www.bbc.co.uk/news/world-us-canada-59076614)
  - date published: 2021-10-28 22:00:40.700079+00:00
  - user: Thomas Pain
- - tags: ['woke', 'transgender', 'uk', 'gender']
+ - tags: ['woke', 'transgender', 'england', 'gender']
 
 ## Viewing website HTML code is not illegal or “hacking,” prof. tells Missouri gov. | Ars Technica
  - [https://arstechnica.com/tech-policy/2021/10/viewing-website-html-code-is-not-illegal-or-hacking-prof-tells-missouri-gov/](https://arstechnica.com/tech-policy/2021/10/viewing-website-html-code-is-not-illegal-or-hacking-prof-tells-missouri-gov/)
@@ -1118,7 +1118,7 @@
  - [https://www.reuters.com/world/allegation-cia-murder-plot-is-game-changer-assange-extradition-hearing-fiancee-2021-10-25/](https://www.reuters.com/world/allegation-cia-murder-plot-is-game-changer-assange-extradition-hearing-fiancee-2021-10-25/)
  - date published: 2021-10-25 19:49:35+00:00
  - user: None
- - tags: ['assange', 'wikileaks']
+ - tags: ['julian assange', 'wikileaks']
 
 ## Notes From the Meeting On Python GIL Removal Between Python Core and Sam Gross - Łukasz Langa
  - [https://lukasz.langa.pl/5d044f91-49c1-4170-aed1-62b6763e6ad0/](https://lukasz.langa.pl/5d044f91-49c1-4170-aed1-62b6763e6ad0/)
@@ -1436,7 +1436,7 @@
  - [https://www.nytimes.com/2021/10/09/business/moderna-covid-vaccine.html](https://www.nytimes.com/2021/10/09/business/moderna-covid-vaccine.html)
  - date published: 2021-10-09 21:54:34+00:00
  - user: rumpel
- - tags: ['hypocrisy', 'covid', 'moderna']
+ - tags: ['big pharma', 'covid', 'hypocrisy', 'moderna']
 
 ## Apple’s fortress of secrecy is crumbling from the inside - The Verge
  - [https://www.theverge.com/22700898/apple-company-culture-change-secrecy-employee-unrest](https://www.theverge.com/22700898/apple-company-culture-change-secrecy-employee-unrest)
@@ -1508,7 +1508,7 @@
  - [https://www.reuters.com/world/europe/finland-pauses-use-moderna-covid-19-vaccine-young-men-2021-10-07/](https://www.reuters.com/world/europe/finland-pauses-use-moderna-covid-19-vaccine-young-men-2021-10-07/)
  - date published: 2021-10-07 16:31:39+00:00
  - user: rumpel
- - tags: ['covid', 'vaccine', 'moderna']
+ - tags: ['vaccine', 'covid', 'big pharma', 'moderna']
 
 ## Here’s exactly how social media algorithms can manipulate you - Big Think
  - [https://bigthink.com/the-present/social-media-algorithms-manipulate-you/](https://bigthink.com/the-present/social-media-algorithms-manipulate-you/)
@@ -1532,7 +1532,7 @@
  - [https://www.pinknews.co.uk/2021/07/13/x-passports-supreme-court-day-2/](https://www.pinknews.co.uk/2021/07/13/x-passports-supreme-court-day-2/)
  - date published: 2021-10-07 05:51:28.844135+00:00
  - user: Thomas Pain
- - tags: ['big brother', 'uk', 'gender']
+ - tags: ['gender', 'england', 'woke', 'big brother']
 
 ## More details about the October 4 outage - Facebook Engineering
  - [https://engineering.fb.com/2021/10/05/networking-traffic/outage-details/](https://engineering.fb.com/2021/10/05/networking-traffic/outage-details/)
@@ -1562,7 +1562,7 @@
  - [https://www.independent.co.uk/news/world/americas/canadian-tribunal-transgender-nonbinary-restaurant-worker-pronouns-b1931972.html](https://www.independent.co.uk/news/world/americas/canadian-tribunal-transgender-nonbinary-restaurant-worker-pronouns-b1931972.html)
  - date published: 2021-10-04 21:54:58+00:00
  - user: rumpel
- - tags: ['transgender', 'lgbt', 'inequality', 'newspeak', 'big brother']
+ - tags: ['inequality', 'big brother', 'newspeak', 'woke', 'lgbt', 'transgender']
 
 ## The Problem of Marital Loneliness | The New Yorker
  - [https://www.newyorker.com/culture/cultural-comment/the-problem-of-marital-loneliness](https://www.newyorker.com/culture/cultural-comment/the-problem-of-marital-loneliness)
@@ -1670,7 +1670,7 @@
  - [https://www.theguardian.com/media/2021/sep/27/senior-cia-officials-trump-discussed-assassinating-julian-assange](https://www.theguardian.com/media/2021/sep/27/senior-cia-officials-trump-discussed-assassinating-julian-assange)
  - date published: 2021-09-27 21:26:41+00:00
  - user: rumpel
- - tags: ['wikileaks', 'cia', 'assange']
+ - tags: ['wikileaks', 'cia', 'julian assange']
 
 ## Kids who grew up with search engines could change STEM education forever - The Verge
  - [https://www.theverge.com/22684730/students-file-folder-directory-structure-education-gen-z](https://www.theverge.com/22684730/students-file-folder-directory-structure-education-gen-z)
@@ -1874,7 +1874,7 @@
  - [https://www.theguardian.com/us-news/2021/sep/10/september-11-us-reaction-forever-wars-rights-insurrection](https://www.theguardian.com/us-news/2021/sep/10/september-11-us-reaction-forever-wars-rights-insurrection)
  - date published: 2021-09-10 21:32:03+00:00
  - user: rumpel
- - tags: ['911', 'big brother', 'america']
+ - tags: ['911', 'big brother', 'usa']
 
 ## Biden Doubled Mask Fines for Travelers. What Does it Mean for Passengers? - The New York Times
  - [https://www.nytimes.com/2021/09/10/travel/mask-fine-costs-flights-tsa.html](https://www.nytimes.com/2021/09/10/travel/mask-fine-costs-flights-tsa.html)
@@ -1910,7 +1910,7 @@
  - [https://thefederalist.com/2021/09/08/national-archives-issues-harmful-content-warning-on-constitution-all-other-founding-documents/](https://thefederalist.com/2021/09/08/national-archives-issues-harmful-content-warning-on-constitution-all-other-founding-documents/)
  - date published: 2021-09-08 20:04:51+00:00
  - user: rumpel
- - tags: ['racism', 'orwell', 'history', 'ministry of truth', 'sexism']
+ - tags: ['ministry of truth', 'big brother', 'racism', 'history', 'sexism', 'censorship']
 
 ## Walid Ziouche - Saving costs asking for Forgiveness in Python
  - [https://walid.dev/blog/saving-costs-asking-for-forgiveness-in-python/](https://walid.dev/blog/saving-costs-asking-for-forgiveness-in-python/)
@@ -1940,7 +1940,7 @@
  - [https://www.psychologytoday.com/us/blog/ethically-speaking/202109/the-paradox-of-virtue-signaling](https://www.psychologytoday.com/us/blog/ethically-speaking/202109/the-paradox-of-virtue-signaling)
  - date published: 2021-09-06 13:33:32+00:00
  - user: rumpel
- - tags: ['blm', 'virtue signaling', 'black lives matter', 'lgbt', 'hypocrisy', 'propaganda']
+ - tags: ['hypocrisy', 'black lives matter', 'propaganda', 'blm', 'virtue signaling', 'woke', 'lgbt']
 
 ## “Emojibake” are considered harmful | by Fredrick Brennan | Sep, 2021 | Medium
  - [https://fredrickbrennan.medium.com/emojibake-are-considered-harmful-f87e65cf4c6e](https://fredrickbrennan.medium.com/emojibake-are-considered-harmful-f87e65cf4c6e)
@@ -2108,7 +2108,7 @@
  - [https://mobile.twitter.com/kylejohnmorris/status/1431714982782066688](https://mobile.twitter.com/kylejohnmorris/status/1431714982782066688)
  - date published: 2021-08-29 08:33:45.240263+00:00
  - user: Thomas Pain
- - tags: ['facebook', 'covid', 'vaccine', 'censorhip']
+ - tags: ['vaccine', 'covid', 'facebook', 'censorship']
 
 ## The real OnlyFans scandal is the unaccountable power of platforms and banks | Jillian C York | The Guardian
  - [https://www.theguardian.com/commentisfree/2021/aug/28/onlyfans-scandal-platforms-banks-ban-sexual-content-sex-workers](https://www.theguardian.com/commentisfree/2021/aug/28/onlyfans-scandal-platforms-banks-ban-sexual-content-sex-workers)
@@ -2486,7 +2486,7 @@
  - [https://thecritic.co.uk/being-a-snowflake-is-bad-for-your-mental-health/](https://thecritic.co.uk/being-a-snowflake-is-bad-for-your-mental-health/)
  - date published: 2021-08-09 07:14:51+00:00
  - user: rumpel
- - tags: ['psychology', 'snowflake', 'sjw']
+ - tags: ['snowflake', 'sjw', 'activism', 'psychology', 'woke']
 
 ## The Infrastructure Bill Requires New Cars To Come With Unproven Drunk Driving Detection Technology – Reason.com
  - [https://reason.com/2021/08/06/the-infrastructure-bill-requires-new-cars-to-come-with-unproven-drunk-driving-detection-technology/](https://reason.com/2021/08/06/the-infrastructure-bill-requires-new-cars-to-come-with-unproven-drunk-driving-detection-technology/)
@@ -2690,7 +2690,7 @@
  - [https://www.youtube.com/watch?v=YB6gwOBClwE](https://www.youtube.com/watch?v=YB6gwOBClwE)
  - date published: 2021-07-29 00:00:00+00:00
  - user: rumpel
- - tags: ['america', 'crisis', 'drugs']
+ - tags: ['usa', 'crisis', 'drugs']
 
 ## The NHS App has quietly become a vaccine passport | WIRED UK
  - [https://www.wired.co.uk/article/nhs-app-covid-vaccine-passport](https://www.wired.co.uk/article/nhs-app-covid-vaccine-passport)
@@ -3020,7 +3020,7 @@
  - [https://www.reuters.com/business/healthcare-pharmaceuticals/target-removes-jj-sunscreens-stores-website-2021-07-16/](https://www.reuters.com/business/healthcare-pharmaceuticals/target-removes-jj-sunscreens-stores-website-2021-07-16/)
  - date published: 2021-07-16 20:22:42+00:00
  - user: rumpel
- - tags: ['johnson and johnson']
+ - tags: ['johnson and johnson', 'big pharma']
 
 ## Wikipedia co-founder says site is now 'propaganda' for left-leaning 'establishment'
  - [https://nypost.com/2021/07/16/wikipedia-co-founder-says-site-is-now-propaganda-for-left-leaning-establishment/](https://nypost.com/2021/07/16/wikipedia-co-founder-says-site-is-now-propaganda-for-left-leaning-establishment/)
@@ -3260,7 +3260,7 @@
  - [https://www.youtube.com/watch?v=Xprabkl1LD4](https://www.youtube.com/watch?v=Xprabkl1LD4)
  - date published: 2021-07-05 22:29:19+00:00
  - user: rumpel
- - tags: ['kids', 'lgbt', 'indoctrination', 'sexualisation']
+ - tags: ['children', 'sexualisation', 'indoctrination', 'woke', 'lgbt']
 
 ## Coke Faces Down Most Serious Backlash Yet For Their “Woke” Agenda
  - [https://www.redvoicemedia.com/2021/07/coke-faces-down-most-serious-backlash-yet-for-their-woke-agenda/](https://www.redvoicemedia.com/2021/07/coke-faces-down-most-serious-backlash-yet-for-their-woke-agenda/)
@@ -3272,7 +3272,7 @@
  - [https://www.medialens.org/2021/a-remarkable-silence-media-blackout-after-key-witness-against-assange-admits-lying/](https://www.medialens.org/2021/a-remarkable-silence-media-blackout-after-key-witness-against-assange-admits-lying/)
  - date published: 2021-07-01 12:04:49+00:00
  - user: None
- - tags: ['wikileaks', 'assange']
+ - tags: ['wikileaks', 'julian assange']
 
 ## COVID-19 vaccine generates immune structures critical for lasting immunity – Washington University School of Medicine in St. Louis
  - [https://medicine.wustl.edu/news/covid-19-vaccine-generates-immune-structures-critical-for-lasting-immunity/](https://medicine.wustl.edu/news/covid-19-vaccine-generates-immune-structures-critical-for-lasting-immunity/)
@@ -3380,13 +3380,13 @@
  - [https://www.theguardian.com/politics/2021/jun/08/uk-government-loses-legal-battle-transparency-orwellian-unit](https://www.theguardian.com/politics/2021/jun/08/uk-government-loses-legal-battle-transparency-orwellian-unit)
  - date published: 2021-06-08 19:46:59+00:00
  - user: rumpel
- - tags: ['big brother', 'censorship', 'orwell', 'surveillance', 'covid', 'clearing house']
+ - tags: ['big brother', 'covid', 'clearing house', 'surveillance', 'censorship']
 
 ## Judge slams Michael Gove’s office as openDemocracy wins transparency court case | openDemocracy
  - [https://www.opendemocracy.net/en/freedom-of-information/foi-clearing-house-michael-gove-cabinet-office-opendemocracy-wins-court-case-uk-government/](https://www.opendemocracy.net/en/freedom-of-information/foi-clearing-house-michael-gove-cabinet-office-opendemocracy-wins-court-case-uk-government/)
  - date published: 2021-06-08 19:44:41+00:00
  - user: rumpel
- - tags: ['big brother', 'censorship', 'orwell', 'surveillance', 'covid', 'clearing house']
+ - tags: ['big brother', 'covid', 'clearing house', 'surveillance', 'censorship']
 
 ## Bats and Pangolins not sold at Wuhan markets, says Oxford research
  - [https://www.oxfordstudent.com/2021/06/08/bats-and-pangolins-not-sold-at-wuhan-markets-says-oxford-research/](https://www.oxfordstudent.com/2021/06/08/bats-and-pangolins-not-sold-at-wuhan-markets-says-oxford-research/)
@@ -3398,7 +3398,7 @@
  - [https://www.mumsnet.com/talk/womens_rights/4282164-Anyone-remember-that-Danish-TV-show-pairing-children-with-naked-adults](https://www.mumsnet.com/talk/womens_rights/4282164-Anyone-remember-that-Danish-TV-show-pairing-children-with-naked-adults)
  - date published: 2021-06-07 22:21:55+00:00
  - user: rumpel
- - tags: ['kids', 'lgbt', 'indoctrination', 'sexualisation']
+ - tags: ['children', 'sexualisation', 'indoctrination', 'woke', 'lgbt']
 
 ## The Media's Lab Leak Debacle Shows Why Banning 'Misinformation' Is a Terrible Idea
  - [https://reason.com/2021/06/04/lab-leak-misinformation-media-fauci-covid-19/](https://reason.com/2021/06/04/lab-leak-misinformation-media-fauci-covid-19/)
@@ -3428,7 +3428,7 @@
  - [https://www.npr.org/2021/06/02/1002479412/a-virginia-teacher-was-put-on-leave-after-opposing-a-new-policy-for-trans-studen](https://www.npr.org/2021/06/02/1002479412/a-virginia-teacher-was-put-on-leave-after-opposing-a-new-policy-for-trans-studen)
  - date published: 2021-06-02 21:17:09+00:00
  - user: rumpel
- - tags: ['lgbt', 'gender', 'intolerance', 'america']
+ - tags: ['intolerance', 'usa', 'gender', 'woke', 'lgbt']
 
 ## Fauci's Emails Expose His Lies About Masks in Stunning Fashion – RedState
  - [https://redstate.com/bonchie/2021/06/02/faucis-emails-expose-his-lies-about-masks-in-stunning-fashion-n390282](https://redstate.com/bonchie/2021/06/02/faucis-emails-expose-his-lies-about-masks-in-stunning-fashion-n390282)
@@ -3482,13 +3482,13 @@
  - [https://www.today.com/popculture/blue-s-clues-releases-lgbtq-themed-sing-along-video-pride-t220295](https://www.today.com/popculture/blue-s-clues-releases-lgbtq-themed-sing-along-video-pride-t220295)
  - date published: 2021-05-29 22:28:41+00:00
  - user: rumpel
- - tags: ['kids', 'lgbt', 'indoctrination', 'sexualisation']
+ - tags: ['children', 'sexualisation', 'indoctrination', 'woke', 'lgbt']
 
 ## The Takeover has Already Begun - A Secret Video Reveals All by @RICHARD GRANNON
  - [https://www.youtube.com/watch?v=npkZQGD7LOM](https://www.youtube.com/watch?v=npkZQGD7LOM)
  - date published: 2021-05-27 21:17:48+00:00
  - user: None
- - tags: ['socialism', 'america']
+ - tags: ['socialism', 'usa']
 
 ## Microsoft president: Orwell’s 1984 could happen in 2024
  - [https://www.bbc.com/news/technology-57122120](https://www.bbc.com/news/technology-57122120)
@@ -3500,7 +3500,7 @@
  - [https://www.computerweekly.com/news/252501435/NGOs-file-complaints-against-Clearview-AI-in-five-countries](https://www.computerweekly.com/news/252501435/NGOs-file-complaints-against-Clearview-AI-in-five-countries)
  - date published: 2021-05-27 19:23:24+00:00
  - user: rumpel
- - tags: ['privacy', 'surveillance', 'facial recognition', 'big brother', 'clearview', 'artificial intelligence']
+ - tags: ['big brother', 'clearview', 'privacy', 'surveillance', 'artificial intelligence', 'facial recognition', 'biometric']
 
 ## Black Lives Matter co-founder Patrisse Cullors resigns amid controversy
  - [https://nypost.com/2021/05/27/black-lives-matter-co-founder-patrisse-cullors-resigns-amid-controversy/](https://nypost.com/2021/05/27/black-lives-matter-co-founder-patrisse-cullors-resigns-amid-controversy/)
@@ -3608,7 +3608,7 @@
  - [https://www.newsweek.com/neuroscience-professor-removed-apa-discussion-after-saying-there-are-only-two-genders-1591697](https://www.newsweek.com/neuroscience-professor-removed-apa-discussion-after-saying-there-are-only-two-genders-1591697)
  - date published: 2021-05-14 20:54:35+00:00
  - user: rumpel
- - tags: ['intolerance', 'gender', 'science is dead']
+ - tags: ['intolerance', 'science is dead', 'gender', 'woke', 'censorship']
 
 ## Use of fear to control behaviour in Covid crisis was ‘totalitarian’, admit scientists
  - [https://www.telegraph.co.uk/news/2021/05/14/scientists-admit-totalitarian-use-fear-control-behaviour-covid/](https://www.telegraph.co.uk/news/2021/05/14/scientists-admit-totalitarian-use-fear-control-behaviour-covid/)
@@ -3638,13 +3638,13 @@
  - [https://nypost.com/2021/05/08/how-the-new-york-times-publishes-lies-to-serve-a-biased-narrative/](https://nypost.com/2021/05/08/how-the-new-york-times-publishes-lies-to-serve-a-biased-narrative/)
  - date published: 2021-05-08 14:31:12+00:00
  - user: rumpel
- - tags: ['big brother', 'manufacturing consent', 'new york times', 'ministry of truth']
+ - tags: ['ministry of truth', 'manufacturing consent', 'big brother', 'propaganda', 'new york times']
 
 ## EU signs deal with Pfizer for up to 1.8 billion COVID vaccine doses
  - [https://nypost.com/2021/05/08/eu-signs-deal-with-pfizer-for-up-to-1-8b-covid-vaccine-doses/](https://nypost.com/2021/05/08/eu-signs-deal-with-pfizer-for-up-to-1-8b-covid-vaccine-doses/)
  - date published: 2021-05-08 07:40:19+00:00
  - user: None
- - tags: ['pfizer', 'vaccine', 'covid']
+ - tags: ['pfizer', 'vaccine', 'covid', 'big pharma']
 
 ## Report: China emissions exceed all developed nations combined
  - [https://www.bbc.com/news/world-asia-57018837](https://www.bbc.com/news/world-asia-57018837)
@@ -3704,7 +3704,7 @@
  - [https://techstartups.com/2021/04/30/bill-gates-turned-55-million-investment-pfizers-partner-biontech-550-million-just-two-years/](https://techstartups.com/2021/04/30/bill-gates-turned-55-million-investment-pfizers-partner-biontech-550-million-just-two-years/)
  - date published: 2021-04-30 21:26:09+00:00
  - user: rumpel
- - tags: ['covid', 'pfizer', 'mrna', 'vaccine', 'biontech']
+ - tags: ['big pharma', 'vaccine', 'covid', 'biontech', 'pfizer', 'mrna']
 
 ## TERREG: European Parliament confirms new online censorship powers
  - [https://edri.org/our-work/european-parliament-confirms-new-online-censorship-powers/](https://edri.org/our-work/european-parliament-confirms-new-online-censorship-powers/)
@@ -3746,13 +3746,13 @@
  - [https://www.theguardian.com/books/2021/apr/20/richard-dawkins-loses-humanist-of-the-year-trans-comments?CMP=fb_gu](https://www.theguardian.com/books/2021/apr/20/richard-dawkins-loses-humanist-of-the-year-trans-comments?CMP=fb_gu)
  - date published: 2021-04-21 22:05:57+00:00
  - user: rumpel
- - tags: ['intolerance', 'censorship', 'lgbt', 'transgender']
+ - tags: ['intolerance', 'censorship', 'woke', 'lgbt', 'transgender']
 
 ## Leaked EU-Pfizer contract shows price for COVID vaccines set at 15.5 euros per dose
  - [https://finance.yahoo.com/news/leaked-eu-pfizer-contract-shows-123021585.html](https://finance.yahoo.com/news/leaked-eu-pfizer-contract-shows-123021585.html)
  - date published: 2021-04-21 07:42:09+00:00
  - user: rumpel
- - tags: ['pfizer', 'contract', 'covid']
+ - tags: ['pfizer', 'covid', 'big pharma', 'contract']
 
 ## TERREG: Controversial EU anti-terror Internet regulation TERREG about to be adopted
  - [https://www.patrick-breyer.de/en/controversial-eu-anti-terror-internet-regulation-terreg-about-to-be-adopted/](https://www.patrick-breyer.de/en/controversial-eu-anti-terror-internet-regulation-terreg-about-to-be-adopted/)
@@ -3764,7 +3764,7 @@
  - [https://defiantamerica.com/shock-video-children-being-paraded-across-the-stage-urging-them-to-pose-for-cash-at-a-los-angeles-drag-club-in-the-middle-of-the-night/](https://defiantamerica.com/shock-video-children-being-paraded-across-the-stage-urging-them-to-pose-for-cash-at-a-los-angeles-drag-club-in-the-middle-of-the-night/)
  - date published: 2021-04-19 22:15:58+00:00
  - user: rumpel
- - tags: ['kids', 'lgbt', 'indoctrination', 'sexualisation']
+ - tags: ['children', 'sexualisation', 'indoctrination', 'woke', 'lgbt']
 
 ## ‘Covid is just an excuse’: the scandal of Rome’s saturated cemeteries | Italy | The Guardian
  - [https://www.theguardian.com/world/2021/apr/29/shameful-situation-rome-cemeteries-run-out-of-space](https://www.theguardian.com/world/2021/apr/29/shameful-situation-rome-cemeteries-run-out-of-space)
@@ -3806,7 +3806,7 @@
  - [https://nationalinterest.org/blog/coronavirus/why-did-johnson-johnson-vaccine-get-suspended-and-what-comes-next-182682](https://nationalinterest.org/blog/coronavirus/why-did-johnson-johnson-vaccine-get-suspended-and-what-comes-next-182682)
  - date published: 2021-04-13 07:20:43+00:00
  - user: None
- - tags: ['johnson and johnson', 'vaccine', 'covid']
+ - tags: ['vaccine', 'johnson and johnson', 'covid', 'big pharma']
 
 ## Do we Need Nuclear Energy to Stop Climate Change?
  - [https://www.youtube.com/watch?v=EhAemz1v7dQ](https://www.youtube.com/watch?v=EhAemz1v7dQ)
@@ -3902,13 +3902,13 @@
  - [https://www.bloomberg.com/news/articles/2021-03-12/pfizer-ceo-bourla-s-pay-climbed-17-to-21-million-in-2020](https://www.bloomberg.com/news/articles/2021-03-12/pfizer-ceo-bourla-s-pay-climbed-17-to-21-million-in-2020)
  - date published: 2021-03-21 18:27:24+00:00
  - user: rumpel
- - tags: ['pfizer', 'money', 'covid']
+ - tags: ['pfizer', 'covid', 'big pharma', 'money']
 
 ## How Reddit Makes Money
  - [https://www.investopedia.com/articles/investing/093015/how-reddit-makes-money.asp](https://www.investopedia.com/articles/investing/093015/how-reddit-makes-money.asp)
  - date published: 2021-03-21 14:06:54+00:00
  - user: rumpel
- - tags: ['ads', 'ad business']
+ - tags: ['ad business', 'reddit']
 
 ## China Arrests at Least Ten Christians in Raid of Private Bible Study
  - [https://www.breitbart.com/asia/2021/03/19/china-arrests-least-ten-christians-raid-private-bible-study/](https://www.breitbart.com/asia/2021/03/19/china-arrests-least-ten-christians-raid-private-bible-study/)
@@ -3974,13 +3974,13 @@
  - [https://www.politico.eu/article/debate-over-gender-inclusive-neutral-language-divides-germany/](https://www.politico.eu/article/debate-over-gender-inclusive-neutral-language-divides-germany/)
  - date published: 2021-03-08 08:09:50+00:00
  - user: rumpel
- - tags: ['woke', 'newspeak', 'orwell']
+ - tags: ['newspeak', 'germany', 'woke']
 
 ## Ex-Times Reporter Who Used Racial Slur Publishes a Lengthy Defense - The New York Times
  - [https://www.nytimes.com/2021/03/01/business/donald-mcneil-new-york-times-racial-slur.html](https://www.nytimes.com/2021/03/01/business/donald-mcneil-new-york-times-racial-slur.html)
  - date published: 2021-03-01 14:25:55+00:00
  - user: rumpel
- - tags: ['america', 'hate speech', 'racism']
+ - tags: ['usa', 'hate speech', 'racism']
 
 ## The real reason why Bill Gates is now the US’ biggest farmland owner
  - [https://nypost.com/2021/02/27/why-bill-gates-is-now-the-us-biggest-farmland-owner/](https://nypost.com/2021/02/27/why-bill-gates-is-now-the-us-biggest-farmland-owner/)
@@ -3998,7 +3998,7 @@
  - [https://www.youtube.com/watch?v=Krf0Cm-FKro](https://www.youtube.com/watch?v=Krf0Cm-FKro)
  - date published: 2021-02-25 08:33:35+00:00
  - user: rumpel
- - tags: ['gender', 'rand paul', 'rachel levine']
+ - tags: ['gender', 'rand paul', 'woke', 'rachel levine']
 
 ## Biden’s ‘kids in cages’ prove his hypocrisy on immigration
  - [https://nypost.com/2021/02/24/bidens-kids-in-cages-prove-his-hypocrisy-on-immigration/](https://nypost.com/2021/02/24/bidens-kids-in-cages-prove-his-hypocrisy-on-immigration/)
@@ -4106,7 +4106,7 @@
  - [https://www.nationalreview.com/corner/biden-signs-executive-order-allowing-the-u-s-to-fund-global-abortions/](https://www.nationalreview.com/corner/biden-signs-executive-order-allowing-the-u-s-to-fund-global-abortions/)
  - date published: 2021-01-28 20:59:31+00:00
  - user: rumpel
- - tags: ['abortion', 'america']
+ - tags: ['abortion', 'usa']
 
 ## Why using fear to promote COVID-19 vaccination and mask wearing could backfire
  - [https://theconversation.com/why-using-fear-to-promote-covid-19-vaccination-and-mask-wearing-could-backfire-153865](https://theconversation.com/why-using-fear-to-promote-covid-19-vaccination-and-mask-wearing-could-backfire-153865)
@@ -4208,7 +4208,7 @@
  - [https://www.nytimes.com/2021/01/12/health/covid-vaccine-death.html](https://www.nytimes.com/2021/01/12/health/covid-vaccine-death.html)
  - date published: 2021-01-12 13:00:20+00:00
  - user: rumpel
- - tags: ['covid', 'vaccine', 'pfizer']
+ - tags: ['pfizer', 'vaccine', 'covid', 'big pharma']
 
 ## Biden receives second dose of COVID-19 vaccine
  - [https://nypost.com/2021/01/11/biden-receives-second-dose-of-covid-19-vaccine/](https://nypost.com/2021/01/11/biden-receives-second-dose-of-covid-19-vaccine/)
@@ -4286,7 +4286,7 @@
  - [https://thehill.com/changing-america/respect/diversity-inclusion/532518-house-introduces-gender-neutral-language-in-new](https://thehill.com/changing-america/respect/diversity-inclusion/532518-house-introduces-gender-neutral-language-in-new)
  - date published: 2021-01-04 21:53:34+00:00
  - user: rumpel
- - tags: ['lgbt', 'newspeak', 'pronouns', 'gender', 'social engineering']
+ - tags: ['social engineering', 'pronouns', 'gender', 'newspeak', 'woke', 'lgbt']
 
 ## House Democrats open 117th Congress with prayer ending 'amen and a-woman' - Washington Times
  - [https://www.washingtontimes.com/news/2021/jan/3/house-democrats-open-117th-congress-prayer-ending-/](https://www.washingtontimes.com/news/2021/jan/3/house-democrats-open-117th-congress-prayer-ending-/)

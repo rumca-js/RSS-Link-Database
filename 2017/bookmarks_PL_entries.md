@@ -2,7 +2,7 @@
  - [https://www.parkiet.com/gospodarka-swiatowa/art20557591-amerykanska-wojna-opiumowa](https://www.parkiet.com/gospodarka-swiatowa/art20557591-amerykanska-wojna-opiumowa)
  - date published: 2017-12-18 16:54:37+00:00
  - user: rumpel
- - tags: ['war', 'drugs', 'china', 'america']
+ - tags: ['war', 'drugs', 'china', 'usa']
 
 ## ILE JEST WARTA TWOJA PRYWATNOŚĆ?
  - [https://www.youtube.com/watch?v=qk3HNcNOqRA](https://www.youtube.com/watch?v=qk3HNcNOqRA)
@@ -14,7 +14,7 @@
  - [https://newsbook.pl/2017/08/05/szwecja-terrorysci-moga-byc-dobrymi-rodzicami-polakom-zabiora-dzieci-za-nadopiekunczosc](https://newsbook.pl/2017/08/05/szwecja-terrorysci-moga-byc-dobrymi-rodzicami-polakom-zabiora-dzieci-za-nadopiekunczosc)
  - date published: 2017-08-05 08:54:59+00:00
  - user: rumpel
- - tags: ['kids', 'big brother', 'sweden']
+ - tags: ['children', 'big brother', 'sweden']
 
 ## Opozycja nie obroni sądów przed PiS. Ma niewielkie pole manewru
  - [https://www.polityka.pl/tygodnikpolityka/kraj/1712492,1,opozycja-nie-obroni-sadow-przed-pis-ma-niewielkie-pole-manewru.read](https://www.polityka.pl/tygodnikpolityka/kraj/1712492,1,opozycja-nie-obroni-sadow-przed-pis-ma-niewielkie-pole-manewru.read)

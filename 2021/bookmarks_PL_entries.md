@@ -20,7 +20,7 @@
  - [https://www.pokoleniex.com/swiat/2021/12/14/pierwsze-poufne-dokumenty-pfizera-ujawnione-z-nakazu-sadowego](https://www.pokoleniex.com/swiat/2021/12/14/pierwsze-poufne-dokumenty-pfizera-ujawnione-z-nakazu-sadowego)
  - date published: 2021-12-14 11:33:54+00:00
  - user: None
- - tags: ['covid', 'pfizer', 'fda', 'vaccine']
+ - tags: ['big pharma', 'vaccine', 'covid', 'pfizer', 'fda']
 
 ## "Pierwsze ""poufne"" dokumenty Pfizera ujawnione z nakazu sądowego"
  - [https://www.pokoleniex.com/swiat/2021/12/14/pierwsze-poufne-dokumenty-pfizera-ujawnione-z-nakazu-sadowego/](https://www.pokoleniex.com/swiat/2021/12/14/pierwsze-poufne-dokumenty-pfizera-ujawnione-z-nakazu-sadowego/)
@@ -140,7 +140,7 @@
  - [https://portal-polski.pl/hiszpania-zmiana-plci-od-14-roku-zycia-bez-ograniczen/7199/](https://portal-polski.pl/hiszpania-zmiana-plci-od-14-roku-zycia-bez-ograniczen/7199/)
  - date published: 2021-07-01 22:27:07+00:00
  - user: rumpel
- - tags: ['kids', 'transgender', 'spain', 'gender', 'big brother', 'lgbt']
+ - tags: ['children', 'spain', 'big brother', 'gender', 'woke', 'lgbt', 'transgender']
 
 ## Rząd nakazał przedsiębiorcom segregację na szczepionych i nieszczepionych, ale zapomniał powiedzieć, jak mają to robić
  - [https://panoptykon.org/zaszczepieni-ponad-limitami](https://panoptykon.org/zaszczepieni-ponad-limitami)
@@ -164,7 +164,7 @@
  - [https://medianarodowe.com/2021/05/12/szalenstwo-postepu-rodzice-twierdza-ze-ich-4-letnie-dziecko-jest-transplciowe-wideo/](https://medianarodowe.com/2021/05/12/szalenstwo-postepu-rodzice-twierdza-ze-ich-4-letnie-dziecko-jest-transplciowe-wideo/)
  - date published: 2021-05-12 08:59:27+00:00
  - user: rumpel
- - tags: ['transgender', 'family', 'lgbt']
+ - tags: ['family', 'propaganda', 'indoctrination', 'woke', 'lgbt', 'transgender']
 
 ## Prezydent Estonii w Polsat News: nie powinniśmy wracać do świata sprzed pandemii
  - [https://www.polsatnews.pl/wiadomosc/2021-05-05/prezydent-estonii-w-polsat-news-nie-powinnismy-wracac-do-swiata-sprzed-pandemii/](https://www.polsatnews.pl/wiadomosc/2021-05-05/prezydent-estonii-w-polsat-news-nie-powinnismy-wracac-do-swiata-sprzed-pandemii/)
@@ -176,13 +176,13 @@
  - [https://www.wnp.pl/rynki-zagraniczne/dania-nagi-uczestnik-programu-telewizyjnego-dla-dzieci-skazany-za-pedofilie,466308.html](https://www.wnp.pl/rynki-zagraniczne/dania-nagi-uczestnik-programu-telewizyjnego-dla-dzieci-skazany-za-pedofilie,466308.html)
  - date published: 2021-04-30 22:23:58+00:00
  - user: rumpel
- - tags: ['kids', 'indoctrination', 'paedophilia', 'sexualisation']
+ - tags: ['children', 'indoctrination', 'paedophilia', 'sexualisation']
 
 ## Gwałt po nowemu. O zgubnych konsekwencjach lewicowego paradygmatu
  - [https://klubjagiellonski.pl/2021/04/27/gwalt-po-nowemu-o-zgubnych-konsekwencjach-lewicowego-paradygmatu-polemika/](https://klubjagiellonski.pl/2021/04/27/gwalt-po-nowemu-o-zgubnych-konsekwencjach-lewicowego-paradygmatu-polemika/)
  - date published: 2021-04-27 20:24:07+00:00
  - user: rumpel
- - tags: ['feminism', 'discrimination', 'poland', 'rape']
+ - tags: ['feminism', 'poland', 'inequality', 'rape', 'discrimination']
 
 ## „Nie szczepisz się, nie pracujesz z ludźmi”. Dyrektor UCK wzywa do wprowadzenia szczepionkowych sankcji
  - [https://m.pch24.pl/nie-szczepisz-sie-nie-pracujesz-z-ludzmi-lekarz-wzywa-do-wprowadzenia-szczepionkowych-sankcji/](https://m.pch24.pl/nie-szczepisz-sie-nie-pracujesz-z-ludzmi-lekarz-wzywa-do-wprowadzenia-szczepionkowych-sankcji/)
@@ -195,6 +195,12 @@
  - date published: 2021-04-14 21:41:09+00:00
  - user: rumpel
  - tags: ['media', 'covid', 'fearmongering']
+
+## Zaszczepieni preparatami mRNA bardziej podatni na inne warianty wirusa? Badania z Izraela niepokoją. Za wcześnie na picie szampana
+ - [https://wpolityce.pl/spoleczenstwo/546883-badania-z-izraela-niepokoja-za-wczesnie-na-picie-szampana](https://wpolityce.pl/spoleczenstwo/546883-badania-z-izraela-niepokoja-za-wczesnie-na-picie-szampana)
+ - date published: 2021-04-13 14:07:37+00:00
+ - user: rumpel
+ - tags: ['israel', 'vaccine', 'pfizer', 'covid', 'mrna']
 
 ## Cyfrowy juan to śledzona i scentralizowana waluta Chin, która zastępuje fizyczne pieniądze
  - [https://ithardware.pl/aktualnosci/cyfrowy_juan_to_cyfrowa_sledzona_i_scentralizowana_waluta_chin_ktora_zastapi_fizyczne_pieniadze-15649.html](https://ithardware.pl/aktualnosci/cyfrowy_juan_to_cyfrowa_sledzona_i_scentralizowana_waluta_chin_ktora_zastapi_fizyczne_pieniadze-15649.html)
@@ -297,4 +303,18 @@
  - date published: 2021-01-11 13:17:34+00:00
  - user: rumpel
  - tags: ['democracy', 'big tech', 'freedom', 'big brother', 'censorship', 'moderation']
+
+## Koronawirus. Szczepionka dla celebrytów: Wiktor Zborowski, Krzysztof Materna, Andrzej Seweryn i Maria Seweryn. Kontrowersje już nie tylko wokół Jandy i Millera | TVP Info - tvp.info
+ - [https://www.tvp.info/51615749/koronawirus-szczepionka-dla-celebrytow-wiktor-zborowski-krzysztof-materna-andrzej-seweryn-i-maria-seweryn-kontrowersje-juz-nie-tylko-wokol-jandy-i-millera-tvp-info](https://www.tvp.info/51615749/koronawirus-szczepionka-dla-celebrytow-wiktor-zborowski-krzysztof-materna-andrzej-seweryn-i-maria-seweryn-kontrowersje-juz-nie-tylko-wokol-jandy-i-millera-tvp-info)
+ - date published: 2021-01-02 06:44:36+00:00
+ - user: rumpel
+ - tags: ['covid', 'vaccine']
+
+## Koronawirus. Niedzielski: rozważamy ograniczenia dla niezaszczepionych
+        
+        - Wiadomości
+ - [https://wiadomosci.onet.pl/kraj/koronawirus-niedzielski-rozwazamy-ograniczenia-dla-niezaszczepionych/lg4300d?utm_source=t.co_viasg_wiadomosci&utm_medium=social&utm_campaign=leo_automatic&srcc=ucs&utm_v=2](https://wiadomosci.onet.pl/kraj/koronawirus-niedzielski-rozwazamy-ograniczenia-dla-niezaszczepionych/lg4300d?utm_source=t.co_viasg_wiadomosci&utm_medium=social&utm_campaign=leo_automatic&srcc=ucs&utm_v=2)
+ - date published: 2021-01-01 06:50:52+00:00
+ - user: rumpel
+ - tags: ['poland', 'covid', 'vaccine']
 

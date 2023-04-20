@@ -32,13 +32,13 @@
  - [https://www.theguardian.com/world/2011/aug/11/pfizer-nigeria-meningitis-drug-compensation](https://www.theguardian.com/world/2011/aug/11/pfizer-nigeria-meningitis-drug-compensation)
  - date published: 2011-08-12 07:10:26+00:00
  - user: rumpel
- - tags: ['vaccine', 'pfizer']
+ - tags: ['pfizer', 'vaccine', 'big pharma']
 
 ## Pfizer: Nigeria drug trial victims get compensation
  - [https://www.bbc.com/news/world-africa-14493277](https://www.bbc.com/news/world-africa-14493277)
  - date published: 2011-08-11 20:58:19+00:00
  - user: rumpel
- - tags: ['nigeria', 'pfizer', 'vaccine']
+ - tags: ['pfizer', 'vaccine', 'big pharma', 'nigeria']
 
 ## Basta Bunga Bunga
  - [https://www.newyorker.com/magazine/2011/06/06/basta-bunga-bunga](https://www.newyorker.com/magazine/2011/06/06/basta-bunga-bunga)

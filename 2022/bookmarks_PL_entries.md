@@ -32,7 +32,7 @@
  - [https://sekurak.pl/izraelska-firma-oferuje-hackowanie-kamer-cctv-dostep-do-feedow-zmiana-feedow-dostep-do-nagran/](https://sekurak.pl/izraelska-firma-oferuje-hackowanie-kamer-cctv-dostep-do-feedow-zmiana-feedow-dostep-do-nagran/)
  - date published: 2022-12-27 09:01:01+00:00
  - user: rumpel
- - tags: ['israel', 'hacker']
+ - tags: ['israel', 'hackers']
 
 ## 71 chińskich samolotów bojowych i siedem okrętów aktywnych w rejonie Tajwanu
  - [https://forsal.pl/swiat/artykuly/8617866,tajwan-71-chinskich-samolotow-bojowych-i-siedem-okretow-aktywnych-w-rejonie-tajwanu.html](https://forsal.pl/swiat/artykuly/8617866,tajwan-71-chinskich-samolotow-bojowych-i-siedem-okretow-aktywnych-w-rejonie-tajwanu.html)
@@ -146,7 +146,7 @@
  - [https://forsal.pl/biznes/energetyka/artykuly/8605747,wielka-brytania-kopalnia-wegla-rzad-wydal-zgode.html](https://forsal.pl/biznes/energetyka/artykuly/8605747,wielka-brytania-kopalnia-wegla-rzad-wydal-zgode.html)
  - date published: 2022-12-08 07:19:57+00:00
  - user: None
- - tags: ['climate drama', 'uk', 'climate change', 'carbon']
+ - tags: ['climate drama', 'england', 'climate change', 'carbon']
 
 ## ePUAP do zaorania. Wszystkie sprawy urzędowe załatwisz przez telefon i aplikację mObywatel
  - [https://www.chip.pl/2022/12/mobywatel-zamiast-epuap](https://www.chip.pl/2022/12/mobywatel-zamiast-epuap)
@@ -398,13 +398,13 @@
  - [https://wydarzenia.interia.pl/zagranica/news-smartfony-moga-pokazac-kiedy-umrzemy-najnowsze-badania-nauko,nId,6367662](https://wydarzenia.interia.pl/zagranica/news-smartfony-moga-pokazac-kiedy-umrzemy-najnowsze-badania-nauko,nId,6367662)
  - date published: 2022-10-24 14:10:33+00:00
  - user: None
- - tags: ['technlogy', 'smartphone']
+ - tags: ['smartphone', 'technology']
 
 ## USA: Odmówiła upieczenia tortu na ślub homoseksualnej pary. Sąd przyznał jej rację
  - [https://www.polsatnews.pl/wiadomosc/2022-10-24/usa-odmowila-upieczenia-tortu-na-slub-homoseksualnej-pary-sad-przyznal-jej-racje/](https://www.polsatnews.pl/wiadomosc/2022-10-24/usa-odmowila-upieczenia-tortu-na-slub-homoseksualnej-pary-sad-przyznal-jej-racje/)
  - date published: 2022-10-24 13:27:00+00:00
  - user: None
- - tags: ['lgbt']
+ - tags: ['usa', 'woke', 'lgbt']
 
 ## Chińskie procesory graficzne Biren nie zostaną wyprodukowane przez TSMC. Powodem są ograniczenia USA
  - [https://ithardware.pl/aktualnosci/chinskie_procesory_graficzne_biren_nie_zostana_wyprodukowane_przez_tsmc_powodem_sa_ograniczenia_usa-23980.html](https://ithardware.pl/aktualnosci/chinskie_procesory_graficzne_biren_nie_zostana_wyprodukowane_przez_tsmc_powodem_sa_ograniczenia_usa-23980.html)
@@ -536,7 +536,7 @@
  - [https://www.polsatnews.pl/wiadomosc/2022-10-09/w-co-gra-elon-musk-silikonowi-chlopcy-probuja-zarzadzac-swiatem/](https://www.polsatnews.pl/wiadomosc/2022-10-09/w-co-gra-elon-musk-silikonowi-chlopcy-probuja-zarzadzac-swiatem/)
  - date published: 2022-10-09 06:56:00+00:00
  - user: None
- - tags: ['elite', 'elon musk', 'big tech', 'billionaires']
+ - tags: ['big tech', 'elites', 'elon musk', 'billionaires']
 
 ## Czeka nas kolejna epidemia. Do 2050 roku ta wada będzie dotyczyć połowy ludzkości
  - [https://wydarzenia.interia.pl/kraj/news-czeka-nas-kolejna-epidemia-do-2050-roku-ta-wada-bedzie-dotyc,nId,6316138](https://wydarzenia.interia.pl/kraj/news-czeka-nas-kolejna-epidemia-do-2050-roku-ta-wada-bedzie-dotyc,nId,6316138)
@@ -584,7 +584,7 @@
  - [https://ithardware.pl/aktualnosci/google_chrome_to_nie_tylko_najpopularniejsza_przegladarka_ale_tez_najbardziej_podatna_na_ataki-23732.html](https://ithardware.pl/aktualnosci/google_chrome_to_nie_tylko_najpopularniejsza_przegladarka_ale_tez_najbardziej_podatna_na_ataki-23732.html)
  - date published: 2022-10-07 21:30:00+00:00
  - user: None
- - tags: ['google', 'chrome', 'hacker']
+ - tags: ['hackers', 'chrome', 'google']
 
 ## Poznań Game Arena już pierwszego dnia przyciągnęła tłumy
  - [https://epoznan.pl/news-news-133165-poznan_game_arena_juz_pierwszego_dnia_przyciagnela_tlumy?rss=1](https://epoznan.pl/news-news-133165-poznan_game_arena_juz_pierwszego_dnia_przyciagnela_tlumy?rss=1)
@@ -662,19 +662,19 @@
  - [https://www.wykop.pl/link/6845341/przedszkola-dla-gejow-i-lesbijek-w-berlinie-w-zarzadzie-adwokat-pedofilow/](https://www.wykop.pl/link/6845341/przedszkola-dla-gejow-i-lesbijek-w-berlinie-w-zarzadzie-adwokat-pedofilow/)
  - date published: 2022-10-04 19:51:01+00:00
  - user: None
- - tags: ['paedophilia', 'germany', 'lgbt']
+ - tags: ['woke', 'lgbt', 'germany', 'paedophilia']
 
 ## Przedszkole LGBT w Berlinie. Kontrowersyjna postać w zarządzie
  - [https://www.polsatnews.pl/wiadomosc/2022-10-04/przedszkole-lgbt-w-berlinie-kontrowersyjna-postac-w-zarzadzie/](https://www.polsatnews.pl/wiadomosc/2022-10-04/przedszkole-lgbt-w-berlinie-kontrowersyjna-postac-w-zarzadzie/)
  - date published: 2022-10-04 14:04:00+00:00
  - user: None
- - tags: ['berlin', 'lgbt']
+ - tags: ['woke', 'berlin', 'lgbt']
 
 ## Berlin: Wkrótce otwarcie przedszkola LGBT. W zarządzie "adwokat pedofilów"
  - [https://wydarzenia.interia.pl/zagranica/news-berlin-wkrotce-otwarcie-przedszkola-lgbt-w-zarzadzie-adwokat,nId,6326318](https://wydarzenia.interia.pl/zagranica/news-berlin-wkrotce-otwarcie-przedszkola-lgbt-w-zarzadzie-adwokat,nId,6326318)
  - date published: 2022-10-04 10:48:08+00:00
  - user: rumpel
- - tags: ['paedophilia', 'germany', 'lgbt']
+ - tags: ['woke', 'lgbt', 'germany', 'paedophilia']
 
 ## Media: Wielka Brytania wprowadzi zakaz azylu dla migrantów nielegalnie przekraczających kanał La Manche
  - [https://www.bankier.pl/wiadomosc/Media-Wielka-Brytania-wprowadzi-zakaz-azylu-dla-migrantow-nielegalnie-przekraczajacych-kanal-La-Manche-8416684.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Media-Wielka-Brytania-wprowadzi-zakaz-azylu-dla-migrantow-nielegalnie-przekraczajacych-kanal-La-Manche-8416684.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -1082,7 +1082,7 @@
  - [https://www.wykop.pl/link/6811875/intelowi-zakazano-produkcji-procesorow-w-chinach-przez-nastepne-10-lat/](https://www.wykop.pl/link/6811875/intelowi-zakazano-produkcji-procesorow-w-chinach-przez-nastepne-10-lat/)
  - date published: 2022-09-10 21:02:01+00:00
  - user: None
- - tags: ['america', 'china', 'tradewar']
+ - tags: ['usa', 'china', 'tradewar']
 
 ## "Trwa totalna wojna światowa". Dosadne słowa papieża Franciszka
  - [https://wydarzenia.interia.pl/zagranica/news-trwa-totalna-wojna-swiatowa-dosadne-slowa-papieza-franciszka,nId,6277224](https://wydarzenia.interia.pl/zagranica/news-trwa-totalna-wojna-swiatowa-dosadne-slowa-papieza-franciszka,nId,6277224)
@@ -1208,7 +1208,7 @@
  - [https://www.bankier.pl/wiadomosc/W-Google-Play-odkryto-35-aplikacji-zawierajacych-szkodliwe-oprogramowanie-pobrano-je-ponad-2-mln-razy-8398914.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/W-Google-Play-odkryto-35-aplikacji-zawierajacych-szkodliwe-oprogramowanie-pobrano-je-ponad-2-mln-razy-8398914.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date published: 2022-09-03 17:00:00+00:00
  - user: None
- - tags: ['malware', 'google', 'play store']
+ - tags: ['vulnerability', 'malware', 'google', 'play store']
 
 ## Samsung znów został zhakowany. Firma potwierdza przejęcie danych
  - [https://ithardware.pl/aktualnosci/samsung_znow_zostal_zhakowany_firma_potwierdza_przejecie_danych-23095.html](https://ithardware.pl/aktualnosci/samsung_znow_zostal_zhakowany_firma_potwierdza_przejecie_danych-23095.html)
@@ -1406,7 +1406,7 @@
  - [https://panodkultury.com.pl/komiksy/komiks-maus-zakazany-cenzura-w-usa/](https://panodkultury.com.pl/komiksy/komiks-maus-zakazany-cenzura-w-usa/)
  - date published: 2022-01-30 14:00:43+00:00
  - user: rumpel
- - tags: ['america', 'fahrenheit 451', 'censorship']
+ - tags: ['usa', 'fahrenheit 451', 'censorship']
 
 ## Pracownicy rzeszowskiego szpitala przeciwko obowiązkowi szczepień. Gotowi są odejść z pracy
  - [https://pch24.pl/pracownicy-rzeszowskiego-szpitala-przeciwko-obowiazkowi-szczepien-gotowi-sa-odejsc-z-pracy/](https://pch24.pl/pracownicy-rzeszowskiego-szpitala-przeciwko-obowiazkowi-szczepien-gotowi-sa-odejsc-z-pracy/)
@@ -1430,7 +1430,7 @@
  - [https://legaartis.pl/blog/2022/01/07/fda-ma-8-miesiecy-na-publikacje-dokumentacji-szczepionki/](https://legaartis.pl/blog/2022/01/07/fda-ma-8-miesiecy-na-publikacje-dokumentacji-szczepionki/)
  - date published: 2022-01-07 07:04:39+00:00
  - user: None
- - tags: ['covid', 'pfizer', 'fda', 'vaccine']
+ - tags: ['big pharma', 'vaccine', 'covid', 'pfizer', 'fda']
 
 ## Posłowie PiS zaprzeczali lub wyśmiewali temat Pegasusa. Kaczyński potwierdził posiadanie - rp.pl
  - [https://www.rp.pl/polityka/art19262671-poslowie-pis-zaprzeczali-lub-wysmiewali-temat-pegasusa-kaczynski-potwierdzil-posiadanie](https://www.rp.pl/polityka/art19262671-poslowie-pis-zaprzeczali-lub-wysmiewali-temat-pegasusa-kaczynski-potwierdzil-posiadanie)
@@ -1448,5 +1448,5 @@
  - [https://obywatelenieba.pl/2022/01/04/facebook-przeciw-przesladowanym-chrzescijankom/](https://obywatelenieba.pl/2022/01/04/facebook-przeciw-przesladowanym-chrzescijankom/)
  - date published: 2022-01-04 12:51:29+00:00
  - user: rumpel
- - tags: ['inequality', 'christianophobia', 'feminism', 'facebook', 'hypocrisy']
+ - tags: ['feminism', 'inequality', 'facebook', 'hypocrisy', 'christianophobia', 'censorship']
 

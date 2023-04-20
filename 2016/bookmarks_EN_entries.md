@@ -14,7 +14,7 @@
  - [https://www.dailymail.co.uk/news/article-4041910/Clinton-mega-donor-George-Soros-leads-line-liberal-billionaires-funding-Facebook-s-fake-news-fact-checker.html](https://www.dailymail.co.uk/news/article-4041910/Clinton-mega-donor-George-Soros-leads-line-liberal-billionaires-funding-Facebook-s-fake-news-fact-checker.html)
  - date published: 2016-12-16 13:56:18+00:00
  - user: None
- - tags: ['fact-checker', 'elites', 'facebook', 'george soros', 'fakenews', 'billionaires']
+ - tags: ['fakenews', 'fact check', 'elites', 'facebook', 'george soros', 'billionaires']
 
 ## The Most Mysterious Man in 20th-Century Politics | Article | Culture.pl
  - [https://culture.pl/en/article/the-most-mysterious-man-in-20th-century-politics](https://culture.pl/en/article/the-most-mysterious-man-in-20th-century-politics)
@@ -50,7 +50,7 @@
  - [https://www.buzzfeednews.com/article/craigsilverman/how-macedonia-became-a-global-hub-for-pro-trump-misinfo](https://www.buzzfeednews.com/article/craigsilverman/how-macedonia-became-a-global-hub-for-pro-trump-misinfo)
  - date published: 2016-11-03 13:47:25+00:00
  - user: None
- - tags: ['socialengineering', 'socialmedia', 'fakenews', 'donald trump']
+ - tags: ['fakenews', 'donald trump', 'social media', 'social engineering']
 
 ## Anonymity: The Greatest Weapon Against Oppression - Learn Liberty
  - [https://www.youtube.com/watch?v=YrIKY8Ot97o](https://www.youtube.com/watch?v=YrIKY8Ot97o)
@@ -152,7 +152,7 @@
  - [https://www.statnews.com/pharmalot/2016/07/06/pfizer-opioids-chicago-painkiller/](https://www.statnews.com/pharmalot/2016/07/06/pfizer-opioids-chicago-painkiller/)
  - date published: 2016-07-06 20:56:30+00:00
  - user: rumpel
- - tags: ['pfizer']
+ - tags: ['pfizer', 'big pharma']
 
 ## Chilcot Report: Tony Blair Told George W. Bush, “If We Win Quickly, Everyone Will Be Our Friend”
  - [https://theintercept.com/2016/07/06/chilcot-report-tony-blair-told-george-w-bush-if-we-win-quickly-everyone-will-be-our-friend/](https://theintercept.com/2016/07/06/chilcot-report-tony-blair-told-george-w-bush-if-we-win-quickly-everyone-will-be-our-friend/)
@@ -218,7 +218,7 @@
  - [https://www.aei.org/carpe-diem/why-socialism-always-fails/](https://www.aei.org/carpe-diem/why-socialism-always-fails/)
  - date published: 2016-03-22 16:38:36+00:00
  - user: None
- - tags: ['socialism', 'central planning', 'america']
+ - tags: ['socialism', 'central planning', 'usa']
 
 ## Wintergatan - Marble Machine (music instrument using 2000 marbles)
  - [https://www.youtube.com/watch?v=IvUU8joBb1Q](https://www.youtube.com/watch?v=IvUU8joBb1Q)
@@ -230,7 +230,7 @@
  - [https://www.youtube.com/watch?v=1S0aBV-Waeo](https://www.youtube.com/watch?v=1S0aBV-Waeo)
  - date published: 2016-03-02 10:02:31+00:00
  - user: rumpel
- - tags: ['buffer overflow', 'hacker', 'programming']
+ - tags: ['vulnerability', 'hackers', 'programming', 'buffer overflow']
 
 ## Ashley Madison data breach
  - [https://en.wikipedia.org/wiki/Ashley_Madison_data_breach](https://en.wikipedia.org/wiki/Ashley_Madison_data_breach)
@@ -278,5 +278,5 @@
  - [https://humansbefree.com/2016/01/feminism-how-the-rockefellers-re-engineered-women-and-why.html](https://humansbefree.com/2016/01/feminism-how-the-rockefellers-re-engineered-women-and-why.html)
  - date published: 2016-01-01 21:06:57+00:00
  - user: rumpel
- - tags: ['feminism', 'russo', 'conspiracy theory', 'rockefeller', 'social engineering']
+ - tags: ['conspiracy theory', 'feminism', 'social engineering', 'aaron russo', 'rockefeller']
 

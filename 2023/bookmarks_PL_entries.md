@@ -2,7 +2,7 @@
  - [https://www.bankier.pl/wiadomosc/Przewodniczaca-KE-Ursula-von-der-Leyen-pozwana-w-zwiazku-z-kontraktami-z-Pfizerem-8524425.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Przewodniczaca-KE-Ursula-von-der-Leyen-pozwana-w-zwiazku-z-kontraktami-z-Pfizerem-8524425.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date published: 2023-04-17 17:15:00+00:00
  - user: rumpel
- - tags: ['covid', 'vaccine', 'pfizer']
+ - tags: ['pfizer', 'vaccine', 'covid', 'big pharma']
 
 ## Prezes UOKiK wygrał w sądzie z Biedronką. Ogromna kara dla Jeronimo Martins - blog Redakcja
  - [https://www.salon24.pl/newsroom/1296510,prezesa-uokik-wygral-w-sadzie-z-biedronka-ogromna-kara-dla-jeronimo-martins](https://www.salon24.pl/newsroom/1296510,prezesa-uokik-wygral-w-sadzie-z-biedronka-ogromna-kara-dla-jeronimo-martins)
@@ -26,13 +26,13 @@
  - [https://ithardware.pl/aktualnosci/prezydent_biden_i_prezes_pfizera_pozwani_za_wymuszanie_cenzury_z_twitterem_juz_wygral-26799.html](https://ithardware.pl/aktualnosci/prezydent_biden_i_prezes_pfizera_pozwani_za_wymuszanie_cenzury_z_twitterem_juz_wygral-26799.html)
  - date published: 2023-04-14 09:38:40+00:00
  - user: rumpel
- - tags: ['twitter', 'joe biden', 'censorship', 'pfizer']
+ - tags: ['big pharma', 'joe biden', 'pfizer', 'censorship', 'twitter']
 
 ## NOP czy nie NOP? Nagle przestała chodzić. Pfizer: Ściśle monitorujemy takie zdarzenia
  - [https://wydarzenia.interia.pl/kraj/news-nop-czy-nie-nop-nagle-przestala-chodzic-pfizer-scisle-monito,nId,6704142](https://wydarzenia.interia.pl/kraj/news-nop-czy-nie-nop-nagle-przestala-chodzic-pfizer-scisle-monito,nId,6704142)
  - date published: 2023-04-14 04:59:46+00:00
  - user: rumpel
- - tags: ['pfizer', 'covid', 'vaccine']
+ - tags: ['pfizer', 'covid', 'big pharma', 'vaccine']
 
 ## NOP – niepożądany odczyn poszczepienny. Czym jest i jak często występuje? - Szczepienie przeciwko COVID-19 - Portal Gov.pl
  - [https://www.gov.pl/web/szczepimysie/niepozadane-odczyny-poszczepienne](https://www.gov.pl/web/szczepimysie/niepozadane-odczyny-poszczepienne)
@@ -104,7 +104,7 @@
  - [https://obserwatorgospodarczy.pl/2023/03/13/hiszpania-uchwala-nowe-prawo-przynajmniej-40-kobiet-w-zarzadach-spolek/](https://obserwatorgospodarczy.pl/2023/03/13/hiszpania-uchwala-nowe-prawo-przynajmniej-40-kobiet-w-zarzadach-spolek/)
  - date published: 2023-03-13 19:56:01+00:00
  - user: rumpel
- - tags: ['feminism', 'spain', 'inequality']
+ - tags: ['spain', 'feminism', 'sexism', 'inequality']
 
 ## Spadkobiercy Urbana, czyli wiarygodność materiałów | Portal i.pl
  - [https://i.pl/spadkobiercy-urbana-czyli-wiarygodnosc-materialow/ar/c15-17357845](https://i.pl/spadkobiercy-urbana-czyli-wiarygodnosc-materialow/ar/c15-17357845)
@@ -170,7 +170,7 @@
  - [https://wydarzenia.interia.pl/zagranica/news-hiszpania-nowe-prawo-dotyczace-zmiany-plci-wsrod-dzieci,nId,6601787](https://wydarzenia.interia.pl/zagranica/news-hiszpania-nowe-prawo-dotyczace-zmiany-plci-wsrod-dzieci,nId,6601787)
  - date published: 2023-02-16 15:41:57+00:00
  - user: rumpel
- - tags: ['lgbt', 'spain', 'transgender', 'gender']
+ - tags: ['spain', 'gender', 'woke', 'lgbt', 'transgender']
 
 ## Richard Coudenhove-Kalergi i idea paneuropejska w okresie międzywojennym | prof. Adam Wielomski
  - [https://www.youtube.com/watch?v=w4CY1ub19mY](https://www.youtube.com/watch?v=w4CY1ub19mY)
@@ -194,7 +194,7 @@
  - [https://next.gazeta.pl/next/7,172392,29450499,bill-gates-ma-cztery-odrzutowce-miliarder-tlumaczy-czemu-nimi.html#do_w=52&do_v=478&fallback=true&do_st=RS&do_sid=604&do_a=604&s=BoxBizImg7&do_upid=478_ti&do_utid=29450499&do_uvid=1675973616132](https://next.gazeta.pl/next/7,172392,29450499,bill-gates-ma-cztery-odrzutowce-miliarder-tlumaczy-czemu-nimi.html#do_w=52&do_v=478&fallback=true&do_st=RS&do_sid=604&do_a=604&s=BoxBizImg7&do_upid=478_ti&do_utid=29450499&do_uvid=1675973616132)
  - date published: 2023-02-09 13:55:07+00:00
  - user: rumpel
- - tags: ['bill gates', 'climate change', 'billionaires', 'hipycrisy']
+ - tags: ['bill gates', 'hypocrisy', 'climate change', 'billionaires']
 
 ## Gotówka wycofana z obiegu? Polacy zdecydowali | Wiadomości Radio ZET
  - [https://wiadomosci.radiozet.pl/Biznes/gotowka-wycofana-z-obiegu-polacy-zdecydowali](https://wiadomosci.radiozet.pl/Biznes/gotowka-wycofana-z-obiegu-polacy-zdecydowali)
@@ -428,7 +428,7 @@
  - [https://zaimki.pl/](https://zaimki.pl/)
  - date published: 2023-01-01 22:08:10+00:00
  - user: rumpel
- - tags: ['gender', 'pronouns', 'social engineering', 'newspeak']
+ - tags: ['social engineering', 'pronouns', 'gender', 'newspeak', 'woke']
 
 ## Mikroplastiki to poważny problem, ale ten filtr go rozwiąże
  - [https://www.chip.pl/2023/01/filtr-usuwajacy-mikroplastiki-z-wody](https://www.chip.pl/2023/01/filtr-usuwajacy-mikroplastiki-z-wody)

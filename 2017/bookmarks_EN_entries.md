@@ -62,7 +62,7 @@
  - [https://www.huffingtonpost.co.uk/entry/british-politicians-fake-news_uk_58b60832e4b0a8a9b7870126](https://www.huffingtonpost.co.uk/entry/british-politicians-fake-news_uk_58b60832e4b0a8a9b7870126)
  - date published: 2017-11-03 15:36:18+00:00
  - user: None
- - tags: ['fakenews', 'disinformation', 'uk', 'donald trump']
+ - tags: ['fakenews', 'disinformation', 'england', 'donald trump']
 
 ## Google as a search engine is becoming useless
  - [http://www.coalpha.org/Google-as-a-search-engine-is-becoming-useless-td7576886.html](http://www.coalpha.org/Google-as-a-search-engine-is-becoming-useless-td7576886.html)
@@ -104,7 +104,7 @@
  - [https://www.youtube.com/watch?v=4jef2C4T1_A](https://www.youtube.com/watch?v=4jef2C4T1_A)
  - date published: 2017-10-04 20:58:00+00:00
  - user: rumpel
- - tags: ['gay', 'lgbt', 'jordan peterson', 'homosexual']
+ - tags: ['homosexuality', 'woke', 'lgbt', 'jordan peterson']
 
 ## 47 White Guilt Propaganda Tactics Used by Media and Political Elites to Push for Third World Immigration; motives
  - [https://isgp-studies.com/immigration-white-guilt-warfare-manual](https://isgp-studies.com/immigration-white-guilt-warfare-manual)
@@ -212,7 +212,7 @@
  - [https://www.theguardian.com/global-development/2017/aug/08/how-big-brands-including-sports-direct-unwittingly-used-slave-labour](https://www.theguardian.com/global-development/2017/aug/08/how-big-brands-including-sports-direct-unwittingly-used-slave-labour)
  - date published: 2017-08-08 06:00:31+00:00
  - user: rumpel
- - tags: ['uk', 'poland', 'slave labour']
+ - tags: ['england', 'poland', 'slave labour']
 
 ## Joe Rogan & Ben Shapiro on the Transgender Movement, Men vs. Women in Sports
  - [https://www.youtube.com/watch?v=IdjdNgvF42o](https://www.youtube.com/watch?v=IdjdNgvF42o)
@@ -236,13 +236,19 @@
  - [https://nakedsecurity.sophos.com/2017/07/14/vault-7-new-wikileaks-dump-details-android-sms-snooping-malware/](https://nakedsecurity.sophos.com/2017/07/14/vault-7-new-wikileaks-dump-details-android-sms-snooping-malware/)
  - date published: 2017-07-14 21:47:09+00:00
  - user: rumpel
- - tags: ['wikileaks', 'cia', 'trojan', 'assange', 'malware', 'big brother']
+ - tags: ['big brother', 'malware', 'surveillance', 'vulnerability', 'trojan', 'wikileaks', 'julian assange', 'cia']
 
 ## Millions of Android Devices Hit With CopyCat Malware | McAfee Blog
  - [https://www.mcafee.com/blogs/mobile-security/android-devices-hit-with-copycat-malware/](https://www.mcafee.com/blogs/mobile-security/android-devices-hit-with-copycat-malware/)
  - date published: 2017-07-11 17:26:10+00:00
  - user: rumpel
- - tags: ['copycat', 'android', 'malware']
+ - tags: ['vulnerability', 'copycat', 'android', 'malware']
+
+## Court rules that 'F**k White People' posters are not racist | The Independent | The Independent
+ - [https://www.independent.co.uk/news/world/africa/f-k-white-people-racist-hate-speech-posters-art-south-africa-iziko-south-african-national-gallery-cape-party-western-cape-magistrate-court-a7830441.html](https://www.independent.co.uk/news/world/africa/f-k-white-people-racist-hate-speech-posters-art-south-africa-iziko-south-african-national-gallery-cape-party-western-cape-magistrate-court-a7830441.html)
+ - date published: 2017-07-08 15:57:04+00:00
+ - user: rumpel
+ - tags: ['america', 'hate speech', 'racism']
 
 ## Android devices hit with CopyCat malware - CNET
  - [https://www.cnet.com/news/privacy/android-hack-copycat-malware-device-outdated-14-million/](https://www.cnet.com/news/privacy/android-hack-copycat-malware-device-outdated-14-million/)
@@ -254,7 +260,7 @@
  - [https://www.theguardian.com/technology/2017/jul/03/notpetya-malware-attacks-ukraine-warrant-retaliation-nato-researcher-tomas-minarik](https://www.theguardian.com/technology/2017/jul/03/notpetya-malware-attacks-ukraine-warrant-retaliation-nato-researcher-tomas-minarik)
  - date published: 2017-07-03 12:34:43+00:00
  - user: rumpel
- - tags: ['virus', 'notpetya']
+ - tags: ['vulnerability', 'virus', 'notpetya']
 
 ## EU slaps Google with record $2.7B fine for search manipulation
  - [http://money.cnn.com/2017/06/27/technology/business/google-eu-antitrust-fine/index.html](http://money.cnn.com/2017/06/27/technology/business/google-eu-antitrust-fine/index.html)
@@ -278,7 +284,7 @@
  - [https://www.theguardian.com/technology/2017/jun/16/wannacry-ransomware-attack-linked-north-korea-lazarus-group](https://www.theguardian.com/technology/2017/jun/16/wannacry-ransomware-attack-linked-north-korea-lazarus-group)
  - date published: 2017-06-16 13:24:45+00:00
  - user: rumpel
- - tags: ['virus', 'wannacry']
+ - tags: ['vulnerability', 'virus', 'wannacry']
 
 ## Intel Chief Says He Cannot Reveal How Many Americans the NSA Spied On Because He Cannot Count Them All
  - [https://gizmodo.com/intel-chief-says-he-cannot-reveal-how-many-americans-th-1796058363](https://gizmodo.com/intel-chief-says-he-cannot-reveal-how-many-americans-th-1796058363)
@@ -290,13 +296,13 @@
  - [https://www.theguardian.com/technology/2017/may/15/accidental-hero-who-halted-cyber-attack-is-22-year-old-english-blogger](https://www.theguardian.com/technology/2017/may/15/accidental-hero-who-halted-cyber-attack-is-22-year-old-english-blogger)
  - date published: 2017-05-15 21:54:58+00:00
  - user: rumpel
- - tags: ['virus', 'wannacry']
+ - tags: ['vulnerability', 'virus', 'wannacry']
 
 ## Ransomware 'WannaCry' attack explained
  - [http://www.cnn.com/videos/cnnmoney/2017/05/13/ransomware-wannacry-attack-explained.cnn](http://www.cnn.com/videos/cnnmoney/2017/05/13/ransomware-wannacry-attack-explained.cnn)
  - date published: 2017-05-13 14:33:58+00:00
  - user: rumpel
- - tags: ['virus', 'wannacry']
+ - tags: ['vulnerability', 'virus', 'wannacry']
 
 ## These three firms own corporate America
  - [https://theconversation.com/these-three-firms-own-corporate-america-77072](https://theconversation.com/these-three-firms-own-corporate-america-77072)
@@ -344,13 +350,13 @@
  - [https://www.thesun.co.uk/news/3037357/wikileaks-vault-7-samsung-tv-weeping-angel-cia/](https://www.thesun.co.uk/news/3037357/wikileaks-vault-7-samsung-tv-weeping-angel-cia/)
  - date published: 2017-03-09 21:48:33+00:00
  - user: rumpel
- - tags: ['wikileaks', 'cia', 'vault7', 'malware']
+ - tags: ['surveilllance', 'vault7', 'malware', 'vulnerability', 'wikileaks', 'cia']
 
 ## Security experts say 'Vault 7' leak describes common, public hacks
  - [https://money.cnn.com/2017/03/09/technology/cia-smart-tv-wikileaks-public-hacks/](https://money.cnn.com/2017/03/09/technology/cia-smart-tv-wikileaks-public-hacks/)
  - date published: 2017-03-09 08:46:05+00:00
  - user: rumpel
- - tags: ['smarttv', 'privacy', 'iot', 'tracking']
+ - tags: ['iot', 'privacy', 'tracking', 'smarthome']
 
 ## FBI: 'No such thing as absolute privacy'
  - [http://www.cnn.com/2017/03/08/politics/james-comey-privacy-cybersecurity/index.html](http://www.cnn.com/2017/03/08/politics/james-comey-privacy-cybersecurity/index.html)
@@ -362,13 +368,13 @@
  - [https://www.bleepingcomputer.com/news/security/vault-7-cia-borrowed-code-from-public-malware/](https://www.bleepingcomputer.com/news/security/vault-7-cia-borrowed-code-from-public-malware/)
  - date published: 2017-03-08 21:45:34+00:00
  - user: rumpel
- - tags: ['wikileaks', 'cia', 'vault7', 'malware']
+ - tags: ['vault7', 'malware', 'surveillance', 'vulnerability', 'wikileaks', 'cia']
 
 ## WikiLeaks Releases Trove of Alleged C.I.A. Hacking Documents - The New York Times
  - [https://www.nytimes.com/2017/03/07/world/europe/wikileaks-cia-hacking.html](https://www.nytimes.com/2017/03/07/world/europe/wikileaks-cia-hacking.html)
  - date published: 2017-03-07 21:41:31+00:00
  - user: rumpel
- - tags: ['wikileaks', 'cia', 'trojan', 'assange', 'malware', 'big brother']
+ - tags: ['big brother', 'malware', 'surveillance', 'vulnerability', 'trojan', 'wikileaks', 'julian assange', 'cia']
 
 ## Noam Chomsky - The 5 Filters of the Mass Media Machine
  - [https://www.youtube.com/watch?v=34LGPIXvU5M](https://www.youtube.com/watch?v=34LGPIXvU5M)

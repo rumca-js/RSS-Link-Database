@@ -38,13 +38,13 @@
  - [https://www.youtube.com/watch?v=q8R9MDt4jEc](https://www.youtube.com/watch?v=q8R9MDt4jEc)
  - date published: 2014-10-15 16:09:26+00:00
  - user: None
- - tags: ['government', 'socialengineering', 'propaganda']
+ - tags: ['social engineering', 'big brother', 'propaganda']
 
 ## Citizenfour Official Trailer 1 (2014) - Edward Snowden Documentary HD
  - [https://www.youtube.com/watch?v=XiGwAvd5mvM](https://www.youtube.com/watch?v=XiGwAvd5mvM)
  - date published: 2014-10-10 20:56:29+00:00
  - user: rumpel
- - tags: ['citizenfour', 'snowden', 'surveillance', 'privacy', 'big brother']
+ - tags: ['citizenfour', 'edward snowden', 'big brother', 'privacy', 'surveillance']
 
 ## The Internet Slowdown protest for net neutrality needs to target regulators
  - [http://www.theguardian.com/commentisfree/2014/sep/10/internet-slowdown-protest-net-neutrality-fcc-regulators](http://www.theguardian.com/commentisfree/2014/sep/10/internet-slowdown-protest-net-neutrality-fcc-regulators)
@@ -86,7 +86,7 @@
  - [https://www.nzherald.co.nz/nz/john-minto-gcsb-holding-doors-open-while-us-buddies-invade-our-privacy/JHCIWLWLUM5DSZRFKSYOAEX4CE/?c_id=1&objectid=11222413](https://www.nzherald.co.nz/nz/john-minto-gcsb-holding-doors-open-while-us-buddies-invade-our-privacy/JHCIWLWLUM5DSZRFKSYOAEX4CE/?c_id=1&objectid=11222413)
  - date published: 2014-05-19 08:29:08+00:00
  - user: rumpel
- - tags: ['privacy', 'edward snowden', 'new zealand', 'surveillance', 'america', 'big brother']
+ - tags: ['privacy', 'edward snowden', 'new zealand', 'surveillance', 'usa', 'big brother']
 
 ## University of Texas at Austin 2014 Commencement Address - Admiral William H. McRaven
  - [https://www.youtube.com/watch?v=pxBQLFLei70](https://www.youtube.com/watch?v=pxBQLFLei70)

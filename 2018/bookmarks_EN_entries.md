@@ -98,7 +98,7 @@
  - [https://www.youtube.com/watch?v=dn6x_9CLTB4](https://www.youtube.com/watch?v=dn6x_9CLTB4)
  - date published: 2018-10-04 17:01:34+00:00
  - user: None
- - tags: ['keyes', 'lgbt', 'homosexual', 'culture']
+ - tags: ['alan keyes', 'family', 'homosexual', 'culture', 'woke', 'lgbt']
 
 ## How to Remove Elements from an Associative Container in C++
  - [https://www.fluentcpp.com/2018/09/21/remove-elements-associative-container-cpp/](https://www.fluentcpp.com/2018/09/21/remove-elements-associative-container-cpp/)
@@ -194,7 +194,7 @@
  - [https://www.reuters.com/article/us-pfizer-biontech-alliance-idUSKBN1L10F5](https://www.reuters.com/article/us-pfizer-biontech-alliance-idUSKBN1L10F5)
  - date published: 2018-08-16 21:23:22+00:00
  - user: rumpel
- - tags: ['covid', 'pfizer', 'mrna', 'vaccine', 'biontech']
+ - tags: ['big pharma', 'vaccine', 'covid', 'biontech', 'pfizer', 'mrna']
 
 ## In full: Rowan Atkinson on free speech
  - [https://www.youtube.com/watch?v=BiqDZlAZygU](https://www.youtube.com/watch?v=BiqDZlAZygU)
@@ -296,13 +296,13 @@
  - [https://www.zdnet.com/article/google-erases-dont-be-evil-from-code-of-conduct-after-18-years/](https://www.zdnet.com/article/google-erases-dont-be-evil-from-code-of-conduct-after-18-years/)
  - date published: 2018-05-21 20:52:49+00:00
  - user: rumpel
- - tags: ['google', 'dontbeevil']
+ - tags: ["don't be evil", 'google']
 
 ## Google quietly removes ‘don’t be evil’ preface from code of conduct | The Independent | The Independent
  - [https://www.independent.co.uk/tech/google-dont-be-evil-code-conduct-removed-alphabet-a8361276.html](https://www.independent.co.uk/tech/google-dont-be-evil-code-conduct-removed-alphabet-a8361276.html)
  - date published: 2018-05-21 20:51:39+00:00
  - user: rumpel
- - tags: ['google', 'dontbeevil']
+ - tags: ["don't be evil", 'google']
 
 ## Jordan Peterson calmly dismantles feminism infront of two feminists
  - [https://www.youtube.com/watch?v=Ddzf9Mm4hdY](https://www.youtube.com/watch?v=Ddzf9Mm4hdY)
@@ -314,7 +314,7 @@
  - [https://www.theguardian.com/world/2018/may/15/revealed-ecuador-spent-millions-julian-assange-spy-operation-embassy-london](https://www.theguardian.com/world/2018/may/15/revealed-ecuador-spent-millions-julian-assange-spy-operation-embassy-london)
  - date published: 2018-05-15 16:00:13+00:00
  - user: rumpel
- - tags: ['wikileaks', 'spying', 'assange', 'politics']
+ - tags: ['wikileaks', 'spying', 'julian assange', 'politics']
 
 ## All the Rage in Sweden: Embedding Microchips Under Your Skin
  - [https://futurism.com/sweden-microchip-trend](https://futurism.com/sweden-microchip-trend)
@@ -392,7 +392,7 @@
  - [https://www.zdnet.com/article/mozilla-the-ad-economy-is-broken-and-its-making-the-internet-sick/](https://www.zdnet.com/article/mozilla-the-ad-economy-is-broken-and-its-making-the-internet-sick/)
  - date published: 2018-04-10 06:43:44+00:00
  - user: None
- - tags: ['internet', 'ads', 'all time', 'adeconomy']
+ - tags: ['internet', 'ad business', 'all time', 'ad economy']
 
 ## How much VR user data is Oculus giving to Facebook?
  - [https://www.theverge.com/2018/4/9/17206650/oculus-facebook-vr-user-data-mining-privacy-policy-advertising](https://www.theverge.com/2018/4/9/17206650/oculus-facebook-vr-user-data-mining-privacy-policy-advertising)
@@ -458,7 +458,7 @@
  - [https://readwrite.com/concerns-slowly-killing-ad-tech/](https://readwrite.com/concerns-slowly-killing-ad-tech/)
  - date published: 2018-03-14 11:27:13+00:00
  - user: rumpel
- - tags: ['ads']
+ - tags: ['ad business']
 
 ## UN blames Facebook for spreading hate speech in possible Myanmar genocide of Rohingya Muslims
  - [https://www.businessinsider.com/r-un-investigators-cite-facebook-role-in-myanmar-crisis-2018-3?IR=T](https://www.businessinsider.com/r-un-investigators-cite-facebook-role-in-myanmar-crisis-2018-3?IR=T)
@@ -482,7 +482,7 @@
  - [https://www.cnn.com/2018/02/15/politics/white-house-russia-notpetya/index.html](https://www.cnn.com/2018/02/15/politics/white-house-russia-notpetya/index.html)
  - date published: 2018-02-15 22:28:54+00:00
  - user: rumpel
- - tags: ['virus', 'notpetya']
+ - tags: ['vulnerability', 'virus', 'notpetya']
 
 ## New California Law Allows Jail Time for Using Wrong Gender Pronoun — San Diego Criminal Lawyers Blog — February 2, 2018
  - [https://www.sandiegocriminallawyersblog.com/new-california-law-allows-jail-time-using-wrong-gender-pronoun/](https://www.sandiegocriminallawyersblog.com/new-california-law-allows-jail-time-using-wrong-gender-pronoun/)

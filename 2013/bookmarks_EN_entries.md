@@ -44,13 +44,13 @@
  - [https://www.justice.gov/opa/pr/johnson-johnson-pay-more-22-billion-resolve-criminal-and-civil-investigations](https://www.justice.gov/opa/pr/johnson-johnson-pay-more-22-billion-resolve-criminal-and-civil-investigations)
  - date published: 2013-11-04 20:05:26+00:00
  - user: rumpel
- - tags: ['johnson and johnson']
+ - tags: ['johnson and johnson', 'big pharma']
 
 ## Norway's gender quota law has made boards more professional: state fund boss | Reuters
  - [https://www.reuters.com/article/us-nordic-investment-fund-idUSBRE98T0LM20130930](https://www.reuters.com/article/us-nordic-investment-fund-idUSBRE98T0LM20130930)
  - date published: 2013-09-30 20:58:03+00:00
  - user: rumpel
- - tags: ['feminism', 'norway']
+ - tags: ['norway', 'feminism', 'sexism']
 
 ## Google knows nearly every Wi-Fi password in the world
  - [https://www.computerworld.com/article/2474851/android-google-knows-nearly-every-wi-fi-password-in-the-world.html](https://www.computerworld.com/article/2474851/android-google-knows-nearly-every-wi-fi-password-in-the-world.html)
@@ -116,7 +116,7 @@
  - [https://worldcrunch.com/culture-society/the-ugliest-open-secret-of-german-politics-pedophiles-in-the-green-party039s-past](https://worldcrunch.com/culture-society/the-ugliest-open-secret-of-german-politics-pedophiles-in-the-green-party039s-past)
  - date published: 2013-05-23 20:57:26+00:00
  - user: rumpel
- - tags: ['paedophilia', 'germany', 'lgbt']
+ - tags: ['woke', 'lgbt', 'germany', 'paedophilia']
 
 ## Green party in Germany to investigate backing for paedophiles in 80s
  - [https://www.theguardian.com/world/2013/may/14/green-party-germany-paedophiles-80s](https://www.theguardian.com/world/2013/may/14/green-party-germany-paedophiles-80s)
@@ -128,7 +128,7 @@
  - [https://c-fam.org/turtle_bay/daniel-cohn-bendit-and-the-1968-revolution-paedophilia-as-part-of-their-political-agenda/](https://c-fam.org/turtle_bay/daniel-cohn-bendit-and-the-1968-revolution-paedophilia-as-part-of-their-political-agenda/)
  - date published: 2013-04-21 21:03:18+00:00
  - user: rumpel
- - tags: ['paedophilia', 'lgbt', 'daniel cohn-bendit']
+ - tags: ['daniel cohn-bendit', 'woke', 'lgbt', 'paedophilia']
 
 ## Justin Trudeau said he admired China’s dictatorship. Canadians should have believed him - The Maine Wire
  - [https://www.themainewire.com/2022/02/justin-trudeau-said-he-admired-chinas-dictatorship-canadians-should-have-believed-him/](https://www.themainewire.com/2022/02/justin-trudeau-said-he-admired-chinas-dictatorship-canadians-should-have-believed-him/)

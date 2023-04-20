@@ -56,7 +56,7 @@
  - [https://www.washingtonpost.com/posteverything/wp/2015/09/24/the-new-propaganda-how-the-american-government-is-trying-to-control-what-you-think/](https://www.washingtonpost.com/posteverything/wp/2015/09/24/the-new-propaganda-how-the-american-government-is-trying-to-control-what-you-think/)
  - date published: 2015-08-24 15:18:52+00:00
  - user: None
- - tags: ['socialengineering', 'propaganda', 'government', 'big brother']
+ - tags: ['big brother', 'government', 'social engineering', 'propaganda']
 
 ## NSA staff used spy tools on spouses, ex-lovers: watchdog
  - [https://www.reuters.com/article/us-usa-surveillance-watchdog-idUSBRE98Q14G20130927](https://www.reuters.com/article/us-usa-surveillance-watchdog-idUSBRE98Q14G20130927)
@@ -80,7 +80,7 @@
  - [https://theconversation.com/the-manipulation-of-the-american-mind-edward-bernays-and-the-birth-of-public-relations-44393](https://theconversation.com/the-manipulation-of-the-american-mind-edward-bernays-and-the-birth-of-public-relations-44393)
  - date published: 2015-07-09 11:40:48+00:00
  - user: rumpel
- - tags: ['propaganda', 'pr', 'america']
+ - tags: ['propaganda', 'pr', 'usa']
 
 ## Microsoft's new small print – how your personal data is (ab)used - European Digital Rights (EDRi)
  - [https://edri.org/our-work/microsofts-new-small-print-how-your-personal-data-abused/](https://edri.org/our-work/microsofts-new-small-print-how-your-personal-data-abused/)
@@ -104,7 +104,7 @@
  - [https://www.foxnews.com/opinion/why-dont-we-hear-about-soros-ties-to-over-30-major-news-organizations](https://www.foxnews.com/opinion/why-dont-we-hear-about-soros-ties-to-over-30-major-news-organizations)
  - date published: 2015-05-07 12:40:31+00:00
  - user: rumpel
- - tags: ['george soros', 'manufacturing consent', 'elite', 'billionaires', 'media']
+ - tags: ['manufacturing consent', 'elites', 'george soros', 'media', 'billionaires']
 
 ## 5 key takeaways from State of the News Media 2015 | Pew Research Center
  - [https://www.pewresearch.org/fact-tank/2015/04/29/5-key-takeaways-from-state-of-the-news-media-2015/](https://www.pewresearch.org/fact-tank/2015/04/29/5-key-takeaways-from-state-of-the-news-media-2015/)
@@ -117,6 +117,12 @@
  - date published: 2015-04-22 20:47:17+00:00
  - user: rumpel
  - tags: ['lgbt', 'dawn stefanowicz']
+
+## Cloth masks: Dangerous to your health?
+ - [https://www.sciencedaily.com/releases/2015/04/150422121724.htm](https://www.sciencedaily.com/releases/2015/04/150422121724.htm)
+ - date published: 2015-04-22 05:42:21+00:00
+ - user: rumpel
+ - tags: ['covid', 'masks']
 
 ## Slavoj Žižek: Political Correctness is a More Dangerous Form of Totalitarianism | Big Think
  - [https://www.youtube.com/watch?v=5dNbWGaaxWM](https://www.youtube.com/watch?v=5dNbWGaaxWM)

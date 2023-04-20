@@ -22,17 +22,47 @@
  - user: rumpel
  - tags: ['covid', 'surveillance', 'spain', 'vaccine']
 
+## Prof. Konrad Rejdak: To nie będzie panaceum na wszystko. Ruszą lubelskie badania nad amantadyną w leczeniu COVID - Polskie Radio Lublin
+ - [https://radio.lublin.pl/2020/12/prof-konrad-rejdak-to-nie-bedzie-panaceum-na-wszystko-rusza-lubelskie-badania-nad-amantadyna-w-leczeniu-covid/](https://radio.lublin.pl/2020/12/prof-konrad-rejdak-to-nie-bedzie-panaceum-na-wszystko-rusza-lubelskie-badania-nad-amantadyna-w-leczeniu-covid/)
+ - date published: 2020-12-20 06:53:30+00:00
+ - user: rumpel
+ - tags: ['amantadine', 'covid']
+
+## Koronawirus: naukowcy z RPA odkryli nową mutację Sars-Cov-2 - tvp.info
+ - [https://www.tvp.info/51409466/koronawirus-naukowcy-z-rpa-odkryli-nowa-mutacje-sars-cov-2](https://www.tvp.info/51409466/koronawirus-naukowcy-z-rpa-odkryli-nowa-mutacje-sars-cov-2)
+ - date published: 2020-12-19 06:25:12+00:00
+ - user: rumpel
+ - tags: ['covid', 'mutation']
+
 ## Władza w ramach walki z terroryzmem sprawdzi rachunki drobnych przedsiębiorców
  - [https://bezprawnik.pl/wladza-sprawdzi-twojego-windowsa/](https://bezprawnik.pl/wladza-sprawdzi-twojego-windowsa/)
  - date published: 2020-12-18 13:07:40+00:00
  - user: rumpel
  - tags: ['surveillance', 'privacy', 'terrorism', 'tech control']
 
+## Amantadyna. Naukowcy z Cambridge potwierdzają odkrycie Polaków - WP Wiadomości
+ - [https://wiadomosci.wp.pl/amantadyna-naukowcy-z-cambridge-potwierdzaja-odkrycie-polakow-6586888034057024a](https://wiadomosci.wp.pl/amantadyna-naukowcy-z-cambridge-potwierdzaja-odkrycie-polakow-6586888034057024a)
+ - date published: 2020-12-16 06:52:44+00:00
+ - user: rumpel
+ - tags: ['amantadine', 'covid']
+
+## Prezes Pfizera nie dostał jeszcze własnej szczepionki. Nie chce "wpychać się do kolejki"
+ - [https://dorzeczy.pl/swiat/165180/prezes-pfizera-nie-dostal-jeszcze-wlasnej-szczepionki-nie-chce-wpychac-sie-do-kolejki.html](https://dorzeczy.pl/swiat/165180/prezes-pfizera-nie-dostal-jeszcze-wlasnej-szczepionki-nie-chce-wpychac-sie-do-kolejki.html)
+ - date published: 2020-12-16 06:19:13+00:00
+ - user: rumpel
+ - tags: ['pfizer', 'covid', 'big pharma']
+
 ## Izraleskie firmy zlokalizują każdego smartfona do 1 metra. Wykorzystując reklamy.
  - [https://www.androidowy.pl/izraleska-firma-zlokalizuje-kazdego-do-1-metra-wykorzystujac-reklamy/386/](https://www.androidowy.pl/izraleska-firma-zlokalizuje-kazdego-do-1-metra-wykorzystujac-reklamy/386/)
  - date published: 2020-12-12 12:04:50+00:00
  - user: None
- - tags: ['ads', 'tracking', 'israel', 'privacy']
+ - tags: ['israel', 'ad business', 'privacy', 'tracking']
+
+## Minister zdrowia: Jako dowód szczepienia na COVID będzie można pokazać kod QR - rp.pl
+ - [https://www.rp.pl/diagnostyka-i-terapie/art8734721-minister-zdrowia-jako-dowod-szczepienia-na-covid-bedzie-mozna-pokazac-kod-qr](https://www.rp.pl/diagnostyka-i-terapie/art8734721-minister-zdrowia-jako-dowod-szczepienia-na-covid-bedzie-mozna-pokazac-kod-qr)
+ - date published: 2020-12-09 06:26:29+00:00
+ - user: rumpel
+ - tags: ['qr codes', 'covid']
 
 ## Urząd będzie blokował strony internetowe. Kolejna granica przekroczona
  - [https://www.money.pl/gospodarka/urzad-bedzie-blokowal-strony-internetowe-kolejna-granica-przekroczona-6582516203985472a.html](https://www.money.pl/gospodarka/urzad-bedzie-blokowal-strony-internetowe-kolejna-granica-przekroczona-6582516203985472a.html)
@@ -62,13 +92,13 @@
  - [https://www.tvp.info/50701017/homoseksualisci-moga-kupic-dzieci-trwaja-miedzynarodowe-targi](https://www.tvp.info/50701017/homoseksualisci-moga-kupic-dzieci-trwaja-miedzynarodowe-targi)
  - date published: 2020-11-07 08:46:55+00:00
  - user: rumpel
- - tags: ['kids', 'lgbt', 'surrogacy']
+ - tags: ['children', 'surrogacy', 'woke', 'lgbt']
 
 ## KE ma umowę z Johnson&Johnson na 400 mln dawek szczepionki na Covid-19 - Bankier.pl
  - [https://www.bankier.pl/wiadomosc/KE-ma-umowe-z-Johnson-Johnson-na-400-mln-dawek-szczepionki-na-Covid-19-7985549.html](https://www.bankier.pl/wiadomosc/KE-ma-umowe-z-Johnson-Johnson-na-400-mln-dawek-szczepionki-na-Covid-19-7985549.html)
  - date published: 2020-10-21 20:00:49+00:00
  - user: rumpel
- - tags: ['johnson and johnson', 'covid', 'vaccine']
+ - tags: ['vaccine', 'johnson and johnson', 'covid', 'big pharma']
 
 ## Jak facebook amazon monopolizują dane osobowe. Giganty technologiczne i nowy porządek świata.WWR#112
  - [https://www.youtube.com/watch?v=PbqLcEsm1qE](https://www.youtube.com/watch?v=PbqLcEsm1qE)
@@ -80,7 +110,7 @@
  - [https://www.tvp.info/50178233/artykul-o-margot-na-anglojezycznej-wikipedii-z-najwyzszym-poziomem-ochrony-tylko-nieliczni-moga-ingerowac-w-tresc-wieszwiecej](https://www.tvp.info/50178233/artykul-o-margot-na-anglojezycznej-wikipedii-z-najwyzszym-poziomem-ochrony-tylko-nieliczni-moga-ingerowac-w-tresc-wieszwiecej)
  - date published: 2020-10-04 21:09:53+00:00
  - user: rumpel
- - tags: ['lgbt', 'inequality', 'margot']
+ - tags: ['woke', 'margot', 'inequality', 'lgbt']
 
 ## Powstało izolatorium dla zakażonych koronawirusem | 24jgora.pl
  - [https://24jgora.pl/artykul/powstalo-izolatorium/1085260](https://24jgora.pl/artykul/powstalo-izolatorium/1085260)
@@ -92,7 +122,7 @@
  - [https://wiadomosci.dziennik.pl/swiat/artykuly/7802606,jugendamt-polka-dzieci-rodzina-muzulmanie-niemcy.html](https://wiadomosci.dziennik.pl/swiat/artykuly/7802606,jugendamt-polka-dzieci-rodzina-muzulmanie-niemcy.html)
  - date published: 2020-09-21 08:55:52+00:00
  - user: rumpel
- - tags: ['kids', 'big brother', 'germany']
+ - tags: ['children', 'big brother', 'germany']
 
 ## The Patriarchy Paradox
  - [https://www.youtube.com/watch?v=wTHgMxQEoPI](https://www.youtube.com/watch?v=wTHgMxQEoPI)
@@ -122,7 +152,7 @@
  - [https://www.donald.pl/artykuly/kAQZehtP/dziennikarka-do-rzeczy-kobieta-ktora-zlozy-zawiadomienie-o-byciu-ofiara-przemocy-moze-latwo-sie-wzbogacic](https://www.donald.pl/artykuly/kAQZehtP/dziennikarka-do-rzeczy-kobieta-ktora-zlozy-zawiadomienie-o-byciu-ofiara-przemocy-moze-latwo-sie-wzbogacic)
  - date published: 2020-07-27 20:19:25+00:00
  - user: rumpel
- - tags: ['feminism', 'discrimination', 'poland']
+ - tags: ['discrimination', 'feminism', 'poland', 'inequality']
 
 ## Kobiety są zdecydowanym beneficjentem systemu, w przeciwieństwie do mężczyzn
  - [https://obserwatorgospodarczy.pl/2020/07/27/kobiety-sa-zdecydowanym-beneficjentem-systemu-w-przeciwienstwie-do-mezczyzn/](https://obserwatorgospodarczy.pl/2020/07/27/kobiety-sa-zdecydowanym-beneficjentem-systemu-w-przeciwienstwie-do-mezczyzn/)
@@ -158,7 +188,7 @@
  - [https://noizz.pl/lgbt/norwegia-priorytetowo-przyjmie-uchodzcow-lgbt/zzy65sy](https://noizz.pl/lgbt/norwegia-priorytetowo-przyjmie-uchodzcow-lgbt/zzy65sy)
  - date published: 2020-07-07 21:00:09+00:00
  - user: rumpel
- - tags: ['lgbt', 'inequality']
+ - tags: ['woke', 'norway', 'inequality', 'lgbt']
 
 ## Eksperyment Kentlera. Jak w Niemczech przekazywano dzieci pedofilom
  - [https://www.rp.pl/spoleczenstwo/art654161-eksperyment-kentlera-jak-w-niemczech-przekazywano-dzieci-pedofilom](https://www.rp.pl/spoleczenstwo/art654161-eksperyment-kentlera-jak-w-niemczech-przekazywano-dzieci-pedofilom)
@@ -177,6 +207,20 @@
  - date published: 2020-06-18 22:18:53+00:00
  - user: rumpel
  - tags: ['germany', 'kentler', 'paedophilia']
+
+## Koronawirus: Polska. Rząd przepłacał za testy
+        
+        - Wiadomości
+ - [https://wiadomosci.onet.pl/tylko-w-onecie/koronawirus-polska-rzad-przeplacal-za-testy/lqmcpcx](https://wiadomosci.onet.pl/tylko-w-onecie/koronawirus-polska-rzad-przeplacal-za-testy/lqmcpcx)
+ - date published: 2020-05-28 06:55:50+00:00
+ - user: rumpel
+ - tags: ['poland', 'covid', 'tests']
+
+## Onet: Polski rząd przepłacał za testy na koronawirusa z Turcji - RMF 24
+ - [https://www.rmf24.pl/raporty/raport-koronawirus-z-chin/polska/news-onet-polski-rzad-przeplacal-za-testy-na-koronawirusa-z-turcj,nId,4521809#crp_state=1](https://www.rmf24.pl/raporty/raport-koronawirus-z-chin/polska/news-onet-polski-rzad-przeplacal-za-testy-na-koronawirusa-z-turcj,nId,4521809#crp_state=1)
+ - date published: 2020-05-28 05:37:59+00:00
+ - user: rumpel
+ - tags: ['poland', 'covid', 'tests']
 
 ## Brat ministra Szumowskiego t�umaczy si� z afery z maseczkami
  - [https://www.tokfm.pl/Tokfm/7,103087,25965883,brat-ministra-szumowskiego-tlumaczy-sie-z-afery-z-maseczkami.html](https://www.tokfm.pl/Tokfm/7,103087,25965883,brat-ministra-szumowskiego-tlumaczy-sie-z-afery-z-maseczkami.html)

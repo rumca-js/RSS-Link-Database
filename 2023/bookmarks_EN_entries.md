@@ -1,3 +1,15 @@
+## Making a Linux home server sleep on idle and wake on demand – the simple way
+ - [https://dgross.ca/blog/linux-home-server-auto-sleep/](https://dgross.ca/blog/linux-home-server-auto-sleep/)
+ - date published: 2023-04-19 12:05:50+00:00
+ - user: rumpel
+ - tags: ['selfhost', 'linux', 'smarthome']
+
+## Fox and Dominion settle for $787.5m in defamation lawsuit over election lies
+ - [https://www.theguardian.com/us-news/2023/apr/18/fox-dominion-settle-us-defamation-lawsuit](https://www.theguardian.com/us-news/2023/apr/18/fox-dominion-settle-us-defamation-lawsuit)
+ - date published: 2023-04-18 20:24:44+00:00
+ - user: rumpel
+ - tags: ['january 6', 'fox news', 'disinformation', 'elections']
+
 ## Is Elon Musk creating a utopian city? The hellish, heavenly history of company towns
  - [https://www.theguardian.com/society/2023/apr/18/is-elon-musk-creating-a-utopian-city-the-hellish-heavenly-history-of-company-towns](https://www.theguardian.com/society/2023/apr/18/is-elon-musk-creating-a-utopian-city-the-hellish-heavenly-history-of-company-towns)
  - date published: 2023-04-18 09:00:40+00:00
@@ -26,7 +38,7 @@
  - [https://gizmodo.com/microsoft-windows-11-ads-start-menu-365-onedrive-badgin-1850343412](https://gizmodo.com/microsoft-windows-11-ads-start-menu-365-onedrive-badgin-1850343412)
  - date published: 2023-04-17 15:05:00+00:00
  - user: rumpel
- - tags: ['microsoft', 'ads', 'windows']
+ - tags: ['windows', 'microsoft', 'ad business']
 
 ## AT&T launches medical radar device that monitors older adults through walls
  - [https://www.theverge.com/2023/4/17/23686246/att-cherish-serenity-medical-radar-device-monitor-falls-privacy](https://www.theverge.com/2023/4/17/23686246/att-cherish-serenity-medical-radar-device-monitor-falls-privacy)
@@ -45,6 +57,12 @@
  - date published: 2023-04-17 07:59:08+00:00
  - user: rumpel
  - tags: ['valve', 'technofeudalism', 'corporatocracy', 'steam']
+
+## Google's AI experts on the future of artificial intelligence | 60 Minutes - CBS News
+ - [https://www.cbsnews.com/news/google-artificial-intelligence-future-60-minutes-transcript-2023-04-16/?ftag=CNM-00-10aab7d&linkId=210097927](https://www.cbsnews.com/news/google-artificial-intelligence-future-60-minutes-transcript-2023-04-16/?ftag=CNM-00-10aab7d&linkId=210097927)
+ - date published: 2023-04-16 19:43:58+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
 
 ## Christians celebrate Holy Fire ritual under Israeli restrictions
  - [https://www.aljazeera.com/gallery/2023/4/16/christians-celebrate-holy-fire-ritual-under-israeli-restrictions](https://www.aljazeera.com/gallery/2023/4/16/christians-celebrate-holy-fire-ritual-under-israeli-restrictions)
@@ -140,7 +158,7 @@
  - [https://mynorthwest.com/3874975/minors-seeking-gender-affirming-treatment-shelter-without-parents-knowledge-bill/](https://mynorthwest.com/3874975/minors-seeking-gender-affirming-treatment-shelter-without-parents-knowledge-bill/)
  - date published: 2023-04-13 07:28:35+00:00
  - user: rumpel
- - tags: ['big brother', 'lgbt', 'gender', 'family', 'transgender', 'america']
+ - tags: ['big brother', 'family', 'usa', 'gender', 'woke', 'lgbt', 'transgender']
 
 ## “You Just Lied!” - Elon Musk DESTROYS BBC Reporter LIVE
  - [https://www.youtube.com/watch?v=JzKA2aLvN1Q](https://www.youtube.com/watch?v=JzKA2aLvN1Q)
@@ -164,7 +182,7 @@
  - [https://www.theepochtimes.com/alex-berenson-sues-biden-pfizer-board-member-over-twitter-ban_5189521.html](https://www.theepochtimes.com/alex-berenson-sues-biden-pfizer-board-member-over-twitter-ban_5189521.html)
  - date published: 2023-04-12 15:39:24+00:00
  - user: rumpel
- - tags: ['twitter', 'big brother', 'censorship', 'pfizer', 'corporatocracy']
+ - tags: ['big pharma', 'big brother', 'pfizer', 'corporatocracy', 'censorship', 'twitter']
 
 ## TRADING WITH THE ENEMY - Seymour Hersh
  - [https://seymourhersh.substack.com/p/trading-with-the-enemy](https://seymourhersh.substack.com/p/trading-with-the-enemy)
@@ -218,7 +236,7 @@
  - [https://www.youtube.com/watch?v=nLIp4wd0oXs](https://www.youtube.com/watch?v=nLIp4wd0oXs)
  - date published: 2023-04-09 17:11:24+00:00
  - user: rumpel
- - tags: ['flipper zero', 'hacking']
+ - tags: ['hackers', 'flipper zero']
 
 ## W 2030 r. możesz nie kupić żadnego samochodu. Nawet elektryka. Tak Bruksela namieszała
  - [https://spidersweb.pl/bizblog/w-2030-r-nie-kupimy-zadnego-samochodu/](https://spidersweb.pl/bizblog/w-2030-r-nie-kupimy-zadnego-samochodu/)
@@ -236,7 +254,7 @@
  - [https://gizmodo.com/amazon-bans-flipper-zero-card-skimming-on-tiktok-1850313284](https://gizmodo.com/amazon-bans-flipper-zero-card-skimming-on-tiktok-1850313284)
  - date published: 2023-04-07 20:00:43+00:00
  - user: rumpel
- - tags: ['flipper zero', 'hacking']
+ - tags: ['hackers', 'flipper zero']
 
 ## Countries worldwide are dropping the US dollar: De-dollarization in China, Russia, Brazil, ASEAN - Geopolitical Economy Report
  - [https://geopoliticaleconomy.com/2023/04/06/dedollarization-china-russia-brazil-asean/](https://geopoliticaleconomy.com/2023/04/06/dedollarization-china-russia-brazil-asean/)
@@ -272,13 +290,13 @@
  - [https://www.techradar.com/news/hackers-can-crack-smart-garage-doors-due-to-this-embarrassing-security-flaw](https://www.techradar.com/news/hackers-can-crack-smart-garage-doors-due-to-this-embarrassing-security-flaw)
  - date published: 2023-04-05 14:51:08+00:00
  - user: rumpel
- - tags: ['smart home']
+ - tags: ['vulnerability', 'smart home']
 
 ## Johnson and Johnson Reaches Deal for $8.9B Talc Settlement
  - [https://www.nytimes.com/2023/04/04/business/media/johnson-johnson-talc-settlement.html](https://www.nytimes.com/2023/04/04/business/media/johnson-johnson-talc-settlement.html)
  - date published: 2023-04-05 13:32:46+00:00
  - user: rumpel
- - tags: ['johnson and johnson']
+ - tags: ['johnson and johnson', 'big pharma']
 
 ## GPT4 impersonating a FTP server at ftp.disney.com
  - [https://www.filestash.app/2023/04/01/chat-gpt-acting-as-a-ftp-server/](https://www.filestash.app/2023/04/01/chat-gpt-acting-as-a-ftp-server/)
@@ -356,7 +374,7 @@
  - [https://www.nytimes.com/2023/04/02/us/politics/nso-contract-us-spy.html](https://www.nytimes.com/2023/04/02/us/politics/nso-contract-us-spy.html)
  - date published: 2023-04-02 23:32:42+00:00
  - user: rumpel
- - tags: ['america', 'big brother', 'surveillance']
+ - tags: ['usa', 'big brother', 'surveillance']
 
 ## The Day Windows Died
  - [https://thomasbandt.com/the-day-windows-died](https://thomasbandt.com/the-day-windows-died)
@@ -404,7 +422,7 @@
  - [http://www.igregious.com/2023/03/gmail-is-breaking-email.html](http://www.igregious.com/2023/03/gmail-is-breaking-email.html)
  - date published: 2023-03-31 00:37:41+00:00
  - user: rumpel
- - tags: ['google', 'technofeudalism', 'selfhost', 'corporatocracy']
+ - tags: ['google', 'email', 'corporatocracy', 'selfhost', 'technofeudalism']
 
 ## How Intelligence Agencies Infiltrated Social Media Companies
  - [https://www.youtube.com/watch?v=p1GONgRrdKs](https://www.youtube.com/watch?v=p1GONgRrdKs)
@@ -524,7 +542,7 @@
  - [https://www.bbc.com/news/technology-65057011](https://www.bbc.com/news/technology-65057011)
  - date published: 2023-03-28 00:25:31+00:00
  - user: rumpel
- - tags: ['privacy', 'surveillance', 'facial recognition', 'big brother', 'clearview', 'artificial intelligence']
+ - tags: ['big brother', 'clearview', 'privacy', 'surveillance', 'artificial intelligence', 'facial recognition', 'biometric']
 
 ## The FBI’s Contract to Buy Mass Internet Data
  - [https://www.vice.com/en/article/dy3z9a/fbi-bought-netflow-data-team-cymru-contract](https://www.vice.com/en/article/dy3z9a/fbi-bought-netflow-data-team-cymru-contract)
@@ -590,7 +608,7 @@
  - [https://www.foxnews.com/media/polish-immigrant-survived-socialism-ideology-infiltrating-us-done-within](https://www.foxnews.com/media/polish-immigrant-survived-socialism-ideology-infiltrating-us-done-within)
  - date published: 2023-03-26 12:00:31+00:00
  - user: rumpel
- - tags: ['america', 'socialism']
+ - tags: ['usa', 'socialism']
 
 ## What to know about digital blackface in social media | CNN
  - [https://edition.cnn.com/2023/03/26/us/digital-blackface-social-media-explainer-blake-cec/index.html](https://edition.cnn.com/2023/03/26/us/digital-blackface-social-media-explainer-blake-cec/index.html)
@@ -668,7 +686,7 @@
  - [https://www.dailymail.co.uk/news/article-11892967/Your-refrigerator-spying-Senate-committee-clamps-smart-devices.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11892967/Your-refrigerator-spying-Senate-committee-clamps-smart-devices.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2023-03-23 05:59:08+00:00
  - user: rumpel
- - tags: ['smart devices act', 'smart devices']
+ - tags: ['smarthome', 'smart devices act', 'privacy', 'surveillance', 'vulnerability']
 
 ## Human rights tribunal says white people cannot claim discrimination | Financial Post
  - [https://financialpost.com/opinion/ontario-human-rights-tribunal-discrimination](https://financialpost.com/opinion/ontario-human-rights-tribunal-discrimination)
@@ -680,7 +698,7 @@
  - [https://www.youtube.com/watch?v=ahehEsOIRIg](https://www.youtube.com/watch?v=ahehEsOIRIg)
  - date published: 2023-03-22 02:05:51+00:00
  - user: rumpel
- - tags: ['hackers', 'crypto', 'lazarus', 'north korea']
+ - tags: ['lazarus', 'crypto', 'hackers', 'north korea']
 
 ## Oops, Windows’ screenshot tool may be saving stuff you cropped out, too
  - [https://www.theverge.com/2023/3/21/23650657/windows-snipping-tool-crop-screenshots-vulnerability](https://www.theverge.com/2023/3/21/23650657/windows-snipping-tool-crop-screenshots-vulnerability)
@@ -844,6 +862,12 @@
  - user: rumpel
  - tags: ['russia', 'ukraine', 'war']
 
+## Gods in the machine? The rise of artificial intelligence may result in new religions
+ - [https://theconversation.com/gods-in-the-machine-the-rise-of-artificial-intelligence-may-result-in-new-religions-201068](https://theconversation.com/gods-in-the-machine-the-rise-of-artificial-intelligence-may-result-in-new-religions-201068)
+ - date published: 2023-03-15 19:36:17+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence', 'religion']
+
 ## Linux desktop leaders unite behind Flathub app store. Here's why
  - [https://www.zdnet.com/article/linux-desktop-leaders-unite-behind-flathub-app-store-heres-why/](https://www.zdnet.com/article/linux-desktop-leaders-unite-behind-flathub-app-store-heres-why/)
  - date published: 2023-03-15 15:36:07+00:00
@@ -914,7 +938,7 @@
  - [https://arstechnica.com/information-technology/2023/03/botnet-that-knows-your-name-and-quotes-your-email-is-back-with-new-tricks/](https://arstechnica.com/information-technology/2023/03/botnet-that-knows-your-name-and-quotes-your-email-is-back-with-new-tricks/)
  - date published: 2023-03-13 09:24:51+00:00
  - user: rumpel
- - tags: ['malware', 'botnet', 'vulnerabilities']
+ - tags: ['vulnerability', 'malware', 'botnet']
 
 ## BREAKING: 300th Catholic Church Attacked Since 2020 - CatholicVote org
  - [https://catholicvote.org/breaking-300th-catholic-church-attacked-since-2020/](https://catholicvote.org/breaking-300th-catholic-church-attacked-since-2020/)
@@ -986,7 +1010,7 @@
  - [https://github.com/awesome-selfhosted/awesome-selfhosted#bookmarks-and-link-sharing](https://github.com/awesome-selfhosted/awesome-selfhosted#bookmarks-and-link-sharing)
  - date published: 2023-03-11 14:22:36+00:00
  - user: rumpel
- - tags: ['selfhost']
+ - tags: ['selfhost', 'smarthome']
 
 ## Republicans try to reframe January 6 as a sightseeing tour – will it work?
  - [https://www.theguardian.com/us-news/2023/mar/11/republicans-reframing-january-6-attack](https://www.theguardian.com/us-news/2023/mar/11/republicans-reframing-january-6-attack)
@@ -1112,7 +1136,7 @@
  - [https://gizmodo.com/fbi-facial-recognition-janus-horus-1850198100](https://gizmodo.com/fbi-facial-recognition-janus-horus-1850198100)
  - date published: 2023-03-07 19:04:00+00:00
  - user: rumpel
- - tags: ['surveillance', 'facial recognition', 'fbi']
+ - tags: ['surveillance', 'facial recognition', 'fbi', 'biometric']
 
 ## Jan. 6 footage shows DOJ,  court focused on Shaman's costume, not crime
  - [https://nypost.com/2023/03/07/jan-6-footage-shows-doj-court-focused-on-shamans-costume-not-crime/](https://nypost.com/2023/03/07/jan-6-footage-shows-doj-court-focused-on-shamans-costume-not-crime/)
@@ -1244,7 +1268,7 @@
  - [https://www.theregister.com/2023/03/01/blacklotus_malware_eset/](https://www.theregister.com/2023/03/01/blacklotus_malware_eset/)
  - date published: 2023-03-03 05:01:28+00:00
  - user: rumpel
- - tags: ['blacklotus', 'malware']
+ - tags: ['vulnerability', 'malware', 'blacklotus']
 
 ## The moral case against equity language
  - [https://www.theatlantic.com/magazine/archive/2023/04/equity-language-guides-sierra-club-banned-words/673085/](https://www.theatlantic.com/magazine/archive/2023/04/equity-language-guides-sierra-club-banned-words/673085/)
@@ -1430,7 +1454,7 @@
  - [https://www.economist.com/asia/2023/02/22/north-korean-hackers-stole-a-record-17bn-of-crypto-last-year](https://www.economist.com/asia/2023/02/22/north-korean-hackers-stole-a-record-17bn-of-crypto-last-year)
  - date published: 2023-02-24 07:08:21+00:00
  - user: rumpel
- - tags: ['hackers', 'crypto', 'north korea']
+ - tags: ['north korea', 'crypto', 'hackers', 'lazarus']
 
 ## Timeline: How The Covid Lab Leak Origin Story Went From 'Conspiracy Theory' To Government Debate
  - [https://www.forbes.com/sites/marisadellatto/2023/02/26/timeline-how-the-covid-lab-leak-origin-story-went-from-conspiracy-theory-to-government-debate/](https://www.forbes.com/sites/marisadellatto/2023/02/26/timeline-how-the-covid-lab-leak-origin-story-went-from-conspiracy-theory-to-government-debate/)
@@ -1520,7 +1544,7 @@
  - [https://antoniomelonio.substack.com/p/the-age-of-advertising-must-come](https://antoniomelonio.substack.com/p/the-age-of-advertising-must-come)
  - date published: 2023-02-20 22:31:31+00:00
  - user: rumpel
- - tags: ['ads', 'ad business']
+ - tags: ['internet', 'ad business']
 
 ## It's not Orwellian for publishers to edit Roald Dahl, just commercially savvy | Gaby Hinsliff
  - [https://www.theguardian.com/commentisfree/2023/feb/20/roald-dahl-industry-classics-parents](https://www.theguardian.com/commentisfree/2023/feb/20/roald-dahl-industry-classics-parents)
@@ -1538,7 +1562,7 @@
  - [https://tvpworld.com/66452162/uk-govt-scheme-flags-shakespeare-lotr-as-key-texts-for-white-supremacists](https://tvpworld.com/66452162/uk-govt-scheme-flags-shakespeare-lotr-as-key-texts-for-white-supremacists)
  - date published: 2023-02-20 09:27:34+00:00
  - user: rumpel
- - tags: ['white supremacy', 'woke', 'racism', 'censorship', 'orwell', 'fahrenheit 451']
+ - tags: ['fahrenheit 451', 'racism', 'white supremacy', 'woke', 'censorship']
 
 ## UK tests tracking citizens’ habits, rewarding them for good behavior
  - [https://reclaimthenet.org/uk-tests-tracking-citizens-habits-rewarding-them-for-good-behavior](https://reclaimthenet.org/uk-tests-tracking-citizens-habits-rewarding-them-for-good-behavior)
@@ -1562,7 +1586,7 @@
  - [https://www.cbsnews.com/news/roald-dahls-changes-childrens-books-rushdie-telegraph/?intcid=CNM-00-10abd1h](https://www.cbsnews.com/news/roald-dahls-changes-childrens-books-rushdie-telegraph/?intcid=CNM-00-10abd1h)
  - date published: 2023-02-19 07:46:19+00:00
  - user: rumpel
- - tags: ['ministry of truth', 'fahrenheit 451', 'newspeak', 'censorship']
+ - tags: ['fahrenheit 451', 'newspeak', 'censorship']
 
 ## Heavy police presence as demonstrators face off during Oxford LTN protest
  - [https://www.youtube.com/watch?v=Ajyo-965RuM](https://www.youtube.com/watch?v=Ajyo-965RuM)
@@ -1610,7 +1634,7 @@
  - [https://www.dailymail.co.uk/news/article-11764775/Yes-Minister-flagged-beleaguered-counter-terror-Prevent-scheme.html](https://www.dailymail.co.uk/news/article-11764775/Yes-Minister-flagged-beleaguered-counter-terror-Prevent-scheme.html)
  - date published: 2023-02-17 09:31:23+00:00
  - user: rumpel
- - tags: ['woke', 'white supremacy', 'orwell', 'censorship', 'fahrenheit 451']
+ - tags: ['white supremacy', 'fahrenheit 451', 'woke', 'censorship']
 
 ## The Political Bias of ChatGPT – Extended Analysis
  - [https://davidrozado.substack.com/p/political-bias-chatgpt](https://davidrozado.substack.com/p/political-bias-chatgpt)
@@ -1622,7 +1646,7 @@
  - [https://www.telegraph.co.uk/news/2023/02/17/roald-dahl-woke-overhaul-offensive-words-removed/](https://www.telegraph.co.uk/news/2023/02/17/roald-dahl-woke-overhaul-offensive-words-removed/)
  - date published: 2023-02-17 07:47:10+00:00
  - user: rumpel
- - tags: ['ministry of truth', 'fahrenheit 451', 'newspeak', 'censorship']
+ - tags: ['fahrenheit 451', 'newspeak', 'censorship']
 
 ## App founder quits Google, says company doesn’t serve users anymore
  - [https://arstechnica.com/gadgets/2023/02/app-founder-quits-google-says-company-doesnt-serve-users-anymore/](https://arstechnica.com/gadgets/2023/02/app-founder-quits-google-says-company-doesnt-serve-users-anymore/)
@@ -1670,7 +1694,7 @@
  - [https://nakedsecurity.sophos.com/2023/02/10/reddit-admits-it-was-hacked-and-data-stolen-says-dont-panic/](https://nakedsecurity.sophos.com/2023/02/10/reddit-admits-it-was-hacked-and-data-stolen-says-dont-panic/)
  - date published: 2023-02-14 05:00:00+00:00
  - user: rumpel
- - tags: ['data leak', 'hack']
+ - tags: ['data leak', 'hackers']
 
 ## Face masks made ‘little to no difference’ in spread of COVID, scientific review finds
  - [https://www.foxnews.com/health/face-masks-difference-spread-covid-scientific-review](https://www.foxnews.com/health/face-masks-difference-spread-covid-scientific-review)
@@ -1688,7 +1712,7 @@
  - [https://www.politico.eu/article/new-york-times-sue-european-union-ursula-von-der-leyen-pfizer-texts/](https://www.politico.eu/article/new-york-times-sue-european-union-ursula-von-der-leyen-pfizer-texts/)
  - date published: 2023-02-13 20:21:44+00:00
  - user: rumpel
- - tags: ['vaccine', 'covid', 'pfizer']
+ - tags: ['pfizer', 'vaccine', 'covid', 'big pharma']
 
 ## MIT No-AI License
  - [https://ognjen.io/mit-no-ai/](https://ognjen.io/mit-no-ai/)
@@ -1736,7 +1760,7 @@
  - [https://safing.io/blog/2023/02/07/snowden-changed-everything/](https://safing.io/blog/2023/02/07/snowden-changed-everything/)
  - date published: 2023-02-12 11:11:59+00:00
  - user: rumpel
- - tags: ['privacy', 'selfhost', 'programming']
+ - tags: ['programming', 'privacy', 'selfhost', 'smarthome']
 
 ## Justin Trudeau to fund provincial healthcare, only if premiers agree to increased data collection
  - [https://reclaimthenet.org/justin-trudeau-health-data](https://reclaimthenet.org/justin-trudeau-health-data)
@@ -1766,13 +1790,13 @@
  - [https://www.washingtonexaminer.com/restoring-america/faith-freedom-self-reliance/miyares-garland-wray-anti-catholic-fbi](https://www.washingtonexaminer.com/restoring-america/faith-freedom-self-reliance/miyares-garland-wray-anti-catholic-fbi)
  - date published: 2023-02-10 20:25:02+00:00
  - user: rumpel
- - tags: ['fbi', 'christianophobia', 'america']
+ - tags: ['fbi', 'christianophobia', 'usa']
 
 ## Miyares calls for investigation of leaked 'anti-Catholic' FBI memo
  - [https://www.wtvr.com/news/local-news/miyares-investigation-leaked-fbi-memo-anti-catholic-bigotry-february-10-2023](https://www.wtvr.com/news/local-news/miyares-investigation-leaked-fbi-memo-anti-catholic-bigotry-february-10-2023)
  - date published: 2023-02-10 20:24:30+00:00
  - user: rumpel
- - tags: ['fbi', 'christianophobia', 'america']
+ - tags: ['fbi', 'christianophobia', 'usa']
 
 ## On Academic Freedom
  - [https://acoup.blog/2023/02/10/fireside-friday-february-10-2023-on-academic-freedom/](https://acoup.blog/2023/02/10/fireside-friday-february-10-2023-on-academic-freedom/)
@@ -1802,7 +1826,7 @@
  - [https://www.thefp.com/p/i-thought-i-was-saving-trans-kids](https://www.thefp.com/p/i-thought-i-was-saving-trans-kids)
  - date published: 2023-02-09 20:15:04+00:00
  - user: rumpel
- - tags: ['lgbt', 'transgender', 'gender', 'dysphoria']
+ - tags: ['dysphoria', 'gender', 'woke', 'lgbt', 'transgender']
 
 ## The OPEN WEB is DYING...
  - [https://www.youtube.com/watch?v=pjTzQJxw-20](https://www.youtube.com/watch?v=pjTzQJxw-20)
@@ -1826,7 +1850,7 @@
  - [https://www.photoprism.app/](https://www.photoprism.app/)
  - date published: 2023-02-08 23:06:04+00:00
  - user: rumpel
- - tags: ['selfhost']
+ - tags: ['photo server', 'selfhost', 'smarthome']
 
 ## Is Google’s 20-year search dominance about to end?
  - [https://www.economist.com/business/2023/02/08/is-googles-20-year-search-dominance-about-to-end](https://www.economist.com/business/2023/02/08/is-googles-20-year-search-dominance-about-to-end)
@@ -1874,7 +1898,7 @@
  - [https://www.gulf-insider.com/uk-regulator-finds-pfizer-guilty-of-violating-three-sections-of-british-pharmaceuticals-code-of-practice/](https://www.gulf-insider.com/uk-regulator-finds-pfizer-guilty-of-violating-three-sections-of-british-pharmaceuticals-code-of-practice/)
  - date published: 2023-02-08 08:18:44+00:00
  - user: rumpel
- - tags: ['vaccine', 'pfizer', 'covid']
+ - tags: ['pfizer', 'vaccine', 'covid', 'big pharma']
 
 ## Top Android Phones From China Are Packed With Spyware, Research Finds
  - [https://www.gizmodo.com.au/2023/02/top-android-phones-from-china-are-packed-with-spyware-research-finds/](https://www.gizmodo.com.au/2023/02/top-android-phones-from-china-are-packed-with-spyware-research-finds/)
@@ -2030,7 +2054,7 @@
  - [https://reclaimthenet.org/uk-tribunal-rules-mi5-mass-surveillance-data-was-stored-unlawfully/](https://reclaimthenet.org/uk-tribunal-rules-mi5-mass-surveillance-data-was-stored-unlawfully/)
  - date published: 2023-02-01 16:03:47+00:00
  - user: rumpel
- - tags: ['surveillance', 'uk']
+ - tags: ['surveillance', 'england']
 
 ## Academia’s culture of overwork almost broke me, so I’m working to undo it
  - [https://www.nature.com/articles/d41586-023-00241-8](https://www.nature.com/articles/d41586-023-00241-8)
@@ -2114,7 +2138,7 @@
  - [https://www.ft.com/content/47db95b4-ce9f-42c7-8b37-86483c85267a](https://www.ft.com/content/47db95b4-ce9f-42c7-8b37-86483c85267a)
  - date published: 2023-01-31 05:00:36+00:00
  - user: rumpel
- - tags: ['elite', 'billionaires', 'climate change']
+ - tags: ['elites', 'climate change', 'billionaires']
 
 ## Facebook Seeks to Block $3.7 Billion UK Mass Action Over Market Dominance
  - [https://www.theepochtimes.com/facebook-seeks-to-block-3-7-billion-uk-mass-action-over-market-dominance_5020488.html](https://www.theepochtimes.com/facebook-seeks-to-block-3-7-billion-uk-mass-action-over-market-dominance_5020488.html)
@@ -2156,7 +2180,7 @@
  - [https://www.bleepingcomputer.com/news/security/us-no-fly-list-shared-on-a-hacking-forum-government-investigating/](https://www.bleepingcomputer.com/news/security/us-no-fly-list-shared-on-a-hacking-forum-government-investigating/)
  - date published: 2023-01-30 15:17:40+00:00
  - user: rumpel
- - tags: ['data leak', 'hack']
+ - tags: ['data leak', 'hackers']
 
 ## Utah bans gender-affirming surgery for young trans people
  - [https://www.theguardian.com/us-news/2023/jan/30/utah-gender-affirming-care-ban-law](https://www.theguardian.com/us-news/2023/jan/30/utah-gender-affirming-care-ban-law)
@@ -2234,25 +2258,25 @@
  - [https://joinpeertube.org/](https://joinpeertube.org/)
  - date published: 2023-01-27 10:15:02+00:00
  - user: rumpel
- - tags: ['selfhost', 'digital bunker']
+ - tags: ['selfhost', 'peertube']
 
 ## citadel.org
  - [https://www.citadel.org/](https://www.citadel.org/)
  - date published: 2023-01-27 10:14:04+00:00
  - user: rumpel
- - tags: ['smarthome', 'selfhost', 'digital bunker']
+ - tags: ['citadel', 'selfhost', 'smarthome']
 
 ## TrueNAS - Welcome to the Open Storage Era
  - [https://www.truenas.com/](https://www.truenas.com/)
  - date published: 2023-01-27 10:13:25+00:00
  - user: rumpel
- - tags: ['smarthome', 'selfhost', 'digital bunker']
+ - tags: ['selfhost', 'truenas', 'smarthome']
 
 ## BookStack
  - [https://www.bookstackapp.com/](https://www.bookstackapp.com/)
  - date published: 2023-01-27 10:11:32+00:00
  - user: rumpel
- - tags: ['selfhost', 'digital bunker']
+ - tags: ['selfhost', 'bookstack']
 
 ## EU’s proposed CE mark for software could have dire impact on open source
  - [https://devclass.com/2023/01/24/eus-proposed-ce-mark-for-software-could-have-dire-impact-on-open-source/](https://devclass.com/2023/01/24/eus-proposed-ce-mark-for-software-could-have-dire-impact-on-open-source/)
@@ -2342,13 +2366,13 @@
  - [https://www.theverge.com/2023/1/24/23569127/google-advertising-monopoly-antitrust-lawsuit-federal-government](https://www.theverge.com/2023/1/24/23569127/google-advertising-monopoly-antitrust-lawsuit-federal-government)
  - date published: 2023-01-24 18:57:35+00:00
  - user: rumpel
- - tags: ['big tech', 'google', 'ads', 'monopoly', 'ad business']
+ - tags: ['big tech', 'monopoly', 'ad business', 'google']
 
 ## DOJ Sues Google, Seeking to Break Up Online Ad Business
  - [https://www.wsj.com/articles/u-s-sues-google-for-alleged-antitrust-violations-in-its-ad-tech-business-11674582792?mod=rss_Technology](https://www.wsj.com/articles/u-s-sues-google-for-alleged-antitrust-violations-in-its-ad-tech-business-11674582792?mod=rss_Technology)
  - date published: 2023-01-24 18:57:00+00:00
  - user: rumpel
- - tags: ['google', 'big tech', 'big brother', 'ads']
+ - tags: ['big tech', 'ad business', 'google', 'big brother']
 
 ## What is the Cyber Resilience Act and why it’s dangerous for Open Source - Voices of Open Source
  - [https://blog.opensource.org/what-is-the-cyber-resilience-act-and-why-its-important-for-open-source/](https://blog.opensource.org/what-is-the-cyber-resilience-act-and-why-its-important-for-open-source/)
@@ -2366,7 +2390,7 @@
  - [https://thehackernews.com/2023/01/fbi-says-north-korean-hackers-behind.html](https://thehackernews.com/2023/01/fbi-says-north-korean-hackers-behind.html)
  - date published: 2023-01-24 11:58:00+00:00
  - user: rumpel
- - tags: ['hackers', 'crypto', 'north korea']
+ - tags: ['north korea', 'crypto', 'hackers', 'lazarus']
 
 ## de🔸digger find public files in Google Drive
  - [https://www.dedigger.com/](https://www.dedigger.com/)
@@ -2444,7 +2468,7 @@
  - [https://www.youtube.com/watch?v=KvewuoL2VcY](https://www.youtube.com/watch?v=KvewuoL2VcY)
  - date published: 2023-01-20 19:39:06+00:00
  - user: rumpel
- - tags: ['wikileaks', 'cia', 'assange']
+ - tags: ['wikileaks', 'cia', 'julian assange']
 
 ## Towards a Reproducible F-Droid
  - [https://f-droid.org/2023/01/15/towards-a-reproducible-fdroid.html](https://f-droid.org/2023/01/15/towards-a-reproducible-fdroid.html)
@@ -2504,7 +2528,7 @@
  - [https://www.theepochtimes.com/israel-ministry-of-health-finds-pfizer-agreement-after-claiming-it-couldnt-be-located_4996166.html](https://www.theepochtimes.com/israel-ministry-of-health-finds-pfizer-agreement-after-claiming-it-couldnt-be-located_4996166.html)
  - date published: 2023-01-19 18:41:15+00:00
  - user: rumpel
- - tags: ['pfizer', 'israel', 'covid']
+ - tags: ['israel', 'pfizer', 'covid', 'big pharma']
 
 ## Online pharmacies selling abortion pills send fingerprints to Google Analytics
  - [https://www.propublica.org/article/websites-selling-abortion-pills-share-sensitive-data-with-google](https://www.propublica.org/article/websites-selling-abortion-pills-share-sensitive-data-with-google)
@@ -2528,7 +2552,7 @@
  - [https://www.vice.com/en/article/y3p7xj/scientists-are-getting-eerily-good-at-using-wifi-to-see-people-through-walls-in-detail](https://www.vice.com/en/article/y3p7xj/scientists-are-getting-eerily-good-at-using-wifi-to-see-people-through-walls-in-detail)
  - date published: 2023-01-19 05:00:00+00:00
  - user: rumpel
- - tags: ['privacy', 'digital bunker', 'security', 'smarthome']
+ - tags: ['security', 'privacy', 'smarthome']
 
 ## New York City to provide free abortion pills at four clinics
  - [https://www.theguardian.com/us-news/2023/jan/18/new-york-city-provides-free-abortion-pills-clinics](https://www.theguardian.com/us-news/2023/jan/18/new-york-city-provides-free-abortion-pills-clinics)
@@ -2588,7 +2612,7 @@
  - [https://townhall.com/tipsheet/miacathell/2023/01/17/zulock-case-pt-1-n2618219](https://townhall.com/tipsheet/miacathell/2023/01/17/zulock-case-pt-1-n2618219)
  - date published: 2023-01-17 16:12:51+00:00
  - user: rumpel
- - tags: ['lgbt', 'paedophilia']
+ - tags: ['paedophilia', 'woke', 'lgbt']
 
 ## The FBI Identified a Tor User
  - [https://www.schneier.com/blog/archives/2023/01/the-fbi-identified-a-tor-user.html](https://www.schneier.com/blog/archives/2023/01/the-fbi-identified-a-tor-user.html)
@@ -2600,7 +2624,7 @@
  - [https://www.bleepingcomputer.com/news/security/hackers-push-malware-via-google-search-ads-for-vlc-7-zip-ccleaner/](https://www.bleepingcomputer.com/news/security/hackers-push-malware-via-google-search-ads-for-vlc-7-zip-ccleaner/)
  - date published: 2023-01-17 07:33:20+00:00
  - user: rumpel
- - tags: ['search engines', 'ads', 'malware']
+ - tags: ['hackers', 'search engines', 'ad business', 'malware']
 
 ## Banks still investing heavily in fossil fuels despite net zero pledges – study
  - [https://www.theguardian.com/environment/2023/jan/17/banks-still-investing-heavily-in-fossil-fuels-despite-net-zero-pledges-study](https://www.theguardian.com/environment/2023/jan/17/banks-still-investing-heavily-in-fossil-fuels-despite-net-zero-pledges-study)
@@ -2654,13 +2678,13 @@
  - [https://www.amnesty.org/en/latest/news/2021/06/scale-new-york-police-facial-recognition-revealed/](https://www.amnesty.org/en/latest/news/2021/06/scale-new-york-police-facial-recognition-revealed/)
  - date published: 2023-01-15 17:15:17+00:00
  - user: rumpel
- - tags: ['surveillance', 'facial recognition', 'big brother']
+ - tags: ['surveillance', 'facial recognition', 'big brother', 'biometric']
 
 ## Climate Activism Isn't About the Planet. It's About the Boredom of the Bourgeoisie | Opinion
  - [https://www.newsweek.com/climate-activism-isnt-about-planet-its-about-boredom-bourgeoisie-opinion-1773846](https://www.newsweek.com/climate-activism-isnt-about-planet-its-about-boredom-bourgeoisie-opinion-1773846)
  - date published: 2023-01-15 13:00:01+00:00
  - user: rumpel
- - tags: ['billionaires', 'elite', 'climate change', 'carbon footprint']
+ - tags: ['elites', 'carbon footprint', 'climate change', 'billionaires']
 
 ## I'm Shadow Banned by DuckDuckGo (and Bing)
  - [https://daverupert.com/2023/01/shadow-banned-by-duckduckgo-and-bing/](https://daverupert.com/2023/01/shadow-banned-by-duckduckgo-and-bing/)
@@ -2726,7 +2750,7 @@
  - [https://github.com/pi-hole/pi-hole](https://github.com/pi-hole/pi-hole)
  - date published: 2023-01-13 22:22:31+00:00
  - user: rumpel
- - tags: ['raspberry', 'digital bunker', 'smarthome', 'selfhost']
+ - tags: ['raspberry', 'selfhost', 'smarthome']
 
 ## Private jet emissions sky-high at Davos, group says
  - [https://thehill.com/policy/equilibrium-sustainability/3812793-private-jet-emissions-sky-high-at-davos-group-says/](https://thehill.com/policy/equilibrium-sustainability/3812793-private-jet-emissions-sky-high-at-davos-group-says/)
@@ -2744,7 +2768,7 @@
  - [https://www.openmediavault.org/](https://www.openmediavault.org/)
  - date published: 2023-01-13 20:21:37+00:00
  - user: rumpel
- - tags: ['openmediavault', 'network attached storage', 'selfhost']
+ - tags: ['selfhost', 'openmediavault', 'smarthome']
 
 ## CutiePi tablet - Raspberry Pi, Untethered
  - [https://cutiepi.io/](https://cutiepi.io/)
@@ -2786,19 +2810,19 @@
  - [https://www.portainer.io/](https://www.portainer.io/)
  - date published: 2023-01-13 13:03:10+00:00
  - user: rumpel
- - tags: ['digital bunker', 'selfhost', 'smarthome']
+ - tags: ['container management', 'selfhost', 'smarthome']
 
 ## GitHub - LukeSmithxyz/emailwiz: Script that installs/configures a Dovecot, Postfix, Spam Assassin, OpenDKIM Debian web server
  - [https://github.com/LukeSmithxyz/emailwiz](https://github.com/LukeSmithxyz/emailwiz)
  - date published: 2023-01-13 13:01:24+00:00
  - user: rumpel
- - tags: ['digital bunker', 'selfhost', 'smarthome']
+ - tags: ['email server', 'selfhost', 'smarthome']
 
 ## GitHub - awesome-selfhosted/awesome-selfhosted: A list of Free Software network services and web applications which can be hosted on your own servers
  - [https://github.com/awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
  - date published: 2023-01-13 12:59:05+00:00
  - user: rumpel
- - tags: ['smarthome', 'digital bunker', 'selfhost']
+ - tags: ['selfhost', 'smarthome']
 
 ## Plex Smart Manufacturing Platform | Plex, by Rockwell Automation
  - [https://www.plex.com/](https://www.plex.com/)
@@ -2816,19 +2840,19 @@
  - [https://volumio.com](https://volumio.com)
  - date published: 2023-01-13 12:53:09+00:00
  - user: rumpel
- - tags: ['digital bunker', 'volumio', 'smarthome']
+ - tags: ['selfhost', 'volumio', 'smarthome']
 
 ## Nextcloud
  - [https://nextcloud.com/install/](https://nextcloud.com/install/)
  - date published: 2023-01-13 10:08:29+00:00
  - user: rumpel
- - tags: ['smarthome', 'nas', 'digital bunker', 'local cloud', 'selfhost']
+ - tags: ['selfhost', 'cloud', 'smarthome']
 
 ## U.S. FDA, CDC see early signal of possible Pfizer bivalent COVID shot link to stroke | Reuters
  - [https://www.reuters.com/business/healthcare-pharmaceuticals/us-says-pfizers-bivalent-covid-shot-may-be-linked-stroke-older-adults-2023-01-13/](https://www.reuters.com/business/healthcare-pharmaceuticals/us-says-pfizers-bivalent-covid-shot-may-be-linked-stroke-older-adults-2023-01-13/)
  - date published: 2023-01-13 09:13:42+00:00
  - user: rumpel
- - tags: ['pfizer', 'vaccine', 'covid']
+ - tags: ['pfizer', 'vaccine', 'covid', 'big pharma']
 
 ## Meta alleges surveillance firm collected data on 600,000 users via fake accounts
  - [https://www.theguardian.com/technology/2023/jan/12/meta-voyager-labs-surveillance-fake-accounts](https://www.theguardian.com/technology/2023/jan/12/meta-voyager-labs-surveillance-fake-accounts)
@@ -2876,7 +2900,7 @@
  - [https://www.washingtonpost.com/technology/2023/01/12/elon-musk-net-worth-record-loss/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2023/01/12/elon-musk-net-worth-record-loss/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - date published: 2023-01-12 09:47:55+00:00
  - user: rumpel
- - tags: ['elite', 'elon musk', 'billionaires', 'twitter']
+ - tags: ['elites', 'twitter', 'elon musk', 'billionaires']
 
 ## Roomba testers feel misled after intimate images ended up on Facebook
  - [https://www.technologyreview.com/2023/01/10/1066500/roomba-irobot-robot-vacuum-beta-product-testers-consent-agreement-misled/](https://www.technologyreview.com/2023/01/10/1066500/roomba-irobot-robot-vacuum-beta-product-testers-consent-agreement-misled/)
@@ -2912,13 +2936,13 @@
  - [https://cremieux.substack.com/p/lying-for-climate-crusading](https://cremieux.substack.com/p/lying-for-climate-crusading)
  - date published: 2023-01-11 14:52:23+00:00
  - user: rumpel
- - tags: ['climate change', 'sjw', 'fake activism', 'science is dead']
+ - tags: ['activism', 'sjw', 'science is dead', 'climate change']
 
 ## Iran to use facial recognition to identify women without hijabs
  - [https://arstechnica.com/?p=1909128](https://arstechnica.com/?p=1909128)
  - date published: 2023-01-11 14:30:34+00:00
  - user: rumpel
- - tags: ['surveillance', 'facial recognition', 'big brother', 'tech control']
+ - tags: ['big brother', 'surveillance', 'facial recognition', 'tech control', 'biometric']
 
 ## FDA vaccine advisers 'disappointed' and 'angry' that early data about new Covid-19 booster shot wasn't presented for review last year | CNN
  - [https://edition.cnn.com/2023/01/11/health/moderna-bivalent-transparency/index.html](https://edition.cnn.com/2023/01/11/health/moderna-bivalent-transparency/index.html)
@@ -2942,7 +2966,7 @@
  - [https://www.dailysignal.com/2023/01/10/twitter-files-unveils-how-pfizer-official-colluded-with-big-tech-to-censor-speech-on-covid-19/](https://www.dailysignal.com/2023/01/10/twitter-files-unveils-how-pfizer-official-colluded-with-big-tech-to-censor-speech-on-covid-19/)
  - date published: 2023-01-10 21:13:07+00:00
  - user: rumpel
- - tags: ['covid', 'twitter', 'twitter files', 'big tech', 'pfizer', 'censorship']
+ - tags: ['big tech', 'big pharma', 'covid', 'twitter', 'pfizer', 'censorship', 'twitter files']
 
 ## 'The Sheer Greed Is Obscene': Moderna Plans 4,000% Markup for Covid Vaccine
  - [https://www.commondreams.org/news/moderna-vaccine-price-markup](https://www.commondreams.org/news/moderna-vaccine-price-markup)
@@ -2960,7 +2984,7 @@
  - [https://www.techspot.com/news/97215-facial-recognition-leads-week-long-wrongful-imprisonment.html](https://www.techspot.com/news/97215-facial-recognition-leads-week-long-wrongful-imprisonment.html)
  - date published: 2023-01-10 16:51:05+00:00
  - user: rumpel
- - tags: ['surveillance', 'america']
+ - tags: ['surveillance', 'usa']
 
 ## UK: Excess deaths in 2022 among worst in 50 years
  - [https://www.bbc.co.uk/news/health-64209221](https://www.bbc.co.uk/news/health-64209221)
@@ -3008,13 +3032,13 @@
  - [https://en.wikipedia.org/wiki/Monroe_Doctrine](https://en.wikipedia.org/wiki/Monroe_Doctrine)
  - date published: 2023-01-09 21:01:12+00:00
  - user: rumpel
- - tags: ['war', 'politics', 'america']
+ - tags: ['war', 'politics', 'usa']
 
 ## CDC publishes language guidelines
  - [https://reclaimthenet.org/cdc-newspeak/](https://reclaimthenet.org/cdc-newspeak/)
  - date published: 2023-01-09 20:12:54+00:00
  - user: rumpel
- - tags: ['newspeak', 'orwell', 'woke']
+ - tags: ['newspeak', 'woke', 'social engineering']
 
 ## The White House Covid Censorship Machine
  - [https://dailysceptic.org/2023/01/09/the-white-house-covid-censorship-machine/](https://dailysceptic.org/2023/01/09/the-white-house-covid-censorship-machine/)
@@ -3056,7 +3080,7 @@
  - [https://dailysceptic.org/2023/01/08/how-childline-became-captured-by-trans-ideology/](https://dailysceptic.org/2023/01/08/how-childline-became-captured-by-trans-ideology/)
  - date published: 2023-01-08 15:17:58+00:00
  - user: rumpel
- - tags: ['woke', 'transgender', 'kids', 'gender']
+ - tags: ['woke', 'transgender', 'children', 'gender']
 
 ## Jordan Peterson releases Ontario College's complaints against him, it's basically a promo for Jordan's Twitter
  - [https://www.louderwithcrowder.com/jordan-peterson-releases-complaint](https://www.louderwithcrowder.com/jordan-peterson-releases-complaint)
@@ -3104,7 +3128,7 @@
  - [https://www.telegraph.co.uk/news/2023/01/07/uk-police-forces-spend-66000-lgbt-rainbow-cars-shoelaces-flags/](https://www.telegraph.co.uk/news/2023/01/07/uk-police-forces-spend-66000-lgbt-rainbow-cars-shoelaces-flags/)
  - date published: 2023-01-07 16:24:26+00:00
  - user: rumpel
- - tags: ['lgbt', 'uk', 'inequality', 'woke', 'propaganda']
+ - tags: ['lgbt', 'england', 'inequality', 'woke', 'propaganda']
 
 ## The creator economy: the top 1% and everyone else
  - [https://therationalist.substack.com/p/the-creator-economy-the-top-1-and](https://therationalist.substack.com/p/the-creator-economy-the-top-1-and)
@@ -3116,7 +3140,7 @@
  - [https://ussanews.com/2023/01/07/satanic-pedophile-ring-shut-victims-in-oven-forced-them-to-kill-animals-filmed-them-being-gang-raped/](https://ussanews.com/2023/01/07/satanic-pedophile-ring-shut-victims-in-oven-forced-them-to-kill-animals-filmed-them-being-gang-raped/)
  - date published: 2023-01-07 08:43:02+00:00
  - user: rumpel
- - tags: ['kids', 'satanism']
+ - tags: ['children', 'satanism']
 
 ## Jack Ma to give up control of China’s Ant Group, firm says
  - [https://www.theguardian.com/business/2023/jan/07/jack-ma-to-give-up-control-of-chinas-ant-group-firm-says](https://www.theguardian.com/business/2023/jan/07/jack-ma-to-give-up-control-of-chinas-ant-group-firm-says)
@@ -3152,7 +3176,7 @@
  - [https://www.theguardian.com/education/2023/jan/06/harvard-kennedy-school-blocks-role-former-head-human-rights-watch-israel](https://www.theguardian.com/education/2023/jan/06/harvard-kennedy-school-blocks-role-former-head-human-rights-watch-israel)
  - date published: 2023-01-06 11:00:48+00:00
  - user: rumpel
- - tags: ['antisemitism', 'israel', 'censorship', 'america']
+ - tags: ['antisemitism', 'israel', 'censorship', 'usa']
 
 ## Six Hardest Truths of 2023
  - [https://www.youtube.com/watch?v=oknQHbKFTZE](https://www.youtube.com/watch?v=oknQHbKFTZE)
@@ -3188,13 +3212,13 @@
  - [https://www.wired.com/story/meta-surveillance-capitalism/](https://www.wired.com/story/meta-surveillance-capitalism/)
  - date published: 2023-01-05 22:46:27+00:00
  - user: rumpel
- - tags: ['surveillance', 'big brother', 'gdpr', 'corporatocracy', 'ads']
+ - tags: ['big brother', 'gdpr', 'surveillance', 'ad business', 'corporatocracy']
 
 ## Advanced and easy YouTube archiver now stable
  - [https://github.com/Owez/yark](https://github.com/Owez/yark)
  - date published: 2023-01-05 18:45:19+00:00
  - user: rumpel
- - tags: ['youtube', 'digital bunker', 'smarthome']
+ - tags: ['youtube', 'selfhost', 'smarthome']
 
 ## Free Speech Under Threat from Police in Scotland, Says Index on Censorship
  - [https://www.theepochtimes.com/free-speech-under-threat-from-police-in-scotland-says-index-on-censorship_4964018.html](https://www.theepochtimes.com/free-speech-under-threat-from-police-in-scotland-says-index-on-censorship_4964018.html)
@@ -3290,13 +3314,13 @@
  - [https://chriscoyier.net/2023/01/04/what-does-it-look-like-for-the-web-to-lose/](https://chriscoyier.net/2023/01/04/what-does-it-look-like-for-the-web-to-lose/)
  - date published: 2023-01-04 11:45:48+00:00
  - user: rumpel
- - tags: ['webapp', 'web', 'programming', 'pwa', 'android', 'internet', 'dark design']
+ - tags: ['android', 'dark design', 'webapp', 'pwa', 'programming', 'internet']
 
 ## FDA to expand availability of abortion pills
  - [http://www.msn.com/en-us/news/politics/fda-to-expand-availability-of-abortion-pills/ar-AA15WOky?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/fda-to-expand-availability-of-abortion-pills/ar-AA15WOky?li=BBnbcA1&srcref=rss)
  - date published: 2023-01-04 02:54:06.208295+00:00
  - user: rumpel
- - tags: ['depopulation', 'fda', 'abortion', 'america']
+ - tags: ['depopulation', 'fda', 'abortion', 'usa']
 
 ## China ESG reckoning looms for investors
  - [https://www.ft.com/content/55058f28-8c47-40c8-9919-8ded9daa53e9](https://www.ft.com/content/55058f28-8c47-40c8-9919-8ded9daa53e9)
@@ -3344,7 +3368,7 @@
  - [https://startafuckingblog.com/](https://startafuckingblog.com/)
  - date published: 2023-01-03 13:41:25+00:00
  - user: rumpel
- - tags: ['digital bunker', 'selfhost', 'blog']
+ - tags: ['blog', 'selfhost']
 
 ## State Power and Covid Crimes
  - [https://dailysceptic.org/2023/01/03/state-power-and-covid-crimes/](https://dailysceptic.org/2023/01/03/state-power-and-covid-crimes/)
@@ -3356,7 +3380,7 @@
  - [http://www.msn.com/en-us/news/technology/ex-home-depot-ceo-blasts-socialism-for-killing-the-us-work-ethic/ar-AA15TUeE?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/ex-home-depot-ceo-blasts-socialism-for-killing-the-us-work-ethic/ar-AA15TUeE?li=BBnbcA1&srcref=rss)
  - date published: 2023-01-02 20:51:37.823485+00:00
  - user: rumpel
- - tags: ['socialism', 'america']
+ - tags: ['socialism', 'usa']
 
 ## Bitcoin core developer claims to have lost 200 BTC in hack
  - [https://cointelegraph.com/news/bitcoin-core-developer-claims-to-have-lost-200-btc-in-hack](https://cointelegraph.com/news/bitcoin-core-developer-claims-to-have-lost-200-btc-in-hack)
@@ -3368,7 +3392,7 @@
  - [https://piunikaweb.com/2023/01/02/opinion-youtube-ads-have-become-a-disaster/](https://piunikaweb.com/2023/01/02/opinion-youtube-ads-have-become-a-disaster/)
  - date published: 2023-01-02 10:56:03+00:00
  - user: rumpel
- - tags: ['ads', 'technofeudalism', 'youtube', 'subscription']
+ - tags: ['subscription', 'ad business', 'youtube', 'technofeudalism']
 
 ## Preparing for Less Privacy
  - [https://www.jefftk.com/p/preparing-for-less-privacy](https://www.jefftk.com/p/preparing-for-less-privacy)
@@ -3398,13 +3422,13 @@
  - [https://www.goldmansachs.com/careers/students/programs/emea/lgbt-student-possibility-program.html](https://www.goldmansachs.com/careers/students/programs/emea/lgbt-student-possibility-program.html)
  - date published: 2023-01-01 21:06:41+00:00
  - user: rumpel
- - tags: ['lgbt', 'inequality']
+ - tags: ['woke', 'science is dead', 'inequality', 'lgbt']
 
 ## MHB 2023 Western Europe Conference - Parenting Options for European Gay Men
  - [https://menhavingbabies.org/surrogacy-seminars/brussels/](https://menhavingbabies.org/surrogacy-seminars/brussels/)
  - date published: 2023-01-01 08:46:07+00:00
  - user: rumpel
- - tags: ['kids', 'lgbt', 'surrogacy']
+ - tags: ['children', 'surrogacy', 'woke', 'lgbt']
 
 ## The Twitter Files should disturb liberal critics of Elon Musk – and here’s why | Kenan Malik
  - [https://www.theguardian.com/commentisfree/2023/jan/01/the-twitter-files-should-disturb-liberal-critics-of-elon-musk-and-heres-why](https://www.theguardian.com/commentisfree/2023/jan/01/the-twitter-files-should-disturb-liberal-critics-of-elon-musk-and-heres-why)

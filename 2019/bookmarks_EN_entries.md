@@ -14,7 +14,7 @@
  - [https://www.bbc.com/news/world-us-canada-50861259](https://www.bbc.com/news/world-us-canada-50861259)
  - date published: 2019-12-19 20:53:18+00:00
  - user: rumpel
- - tags: ['lgbt', 'inequality']
+ - tags: ['woke', 'inequality', 'lgbt']
 
 ## New York public school rejects student Christian club, OKs LGBT Pride Club
  - [https://www.christianpost.com/news/new-york-public-school-rejects-student-christian-club-oks-lgbt-pride-club.html?fbclid=IwAR0XGOCi2lUIsLetSjnCZN91O05rCeaWGsR0z2E5dBtfH_E-2OEFqVqi3eA](https://www.christianpost.com/news/new-york-public-school-rejects-student-christian-club-oks-lgbt-pride-club.html?fbclid=IwAR0XGOCi2lUIsLetSjnCZN91O05rCeaWGsR0z2E5dBtfH_E-2OEFqVqi3eA)
@@ -128,13 +128,13 @@
  - [https://www.reuters.com/article/us-usa-health-j-j-expert-exclusive-idUSKBN1X912O](https://www.reuters.com/article/us-usa-health-j-j-expert-exclusive-idUSKBN1X912O)
  - date published: 2019-10-30 20:25:18+00:00
  - user: rumpel
- - tags: ['johnson and johnson']
+ - tags: ['johnson and johnson', 'big pharma']
 
 ## Edward Snowden: How Your Cell Phone Spies on You
  - [https://www.youtube.com/watch?v=VFns39RXPrU](https://www.youtube.com/watch?v=VFns39RXPrU)
  - date published: 2019-10-23 19:56:19+00:00
  - user: None
- - tags: ['smartphone', 'snowden', 'privacy']
+ - tags: ['smartphone', 'privacy', 'edward snowden']
 
 ## Smart City: How do you live in a Smart City? | Future Smart City Projects | Surveillance or Utopia?
  - [https://www.youtube.com/watch?v=VRRPy-yEKRM](https://www.youtube.com/watch?v=VRRPy-yEKRM)
@@ -182,7 +182,7 @@
  - [https://www.theguardian.com/technology/2019/oct/09/alexa-are-you-invading-my-privacy-the-dark-side-of-our-voice-assistants](https://www.theguardian.com/technology/2019/oct/09/alexa-are-you-invading-my-privacy-the-dark-side-of-our-voice-assistants)
  - date published: 2019-10-09 05:00:41+00:00
  - user: rumpel
- - tags: ['orwell', 'privacy', 'smartdevice', 'iot', 'surveillance']
+ - tags: ['big tech', 'voice assistant', 'privacy', 'surveillance', 'iot', 'technofeudalism']
 
 ## The Cave Rescuer Suing Elon Musk Claims The Tesla CEO Fabricated Pedophilia Claims Against Him
  - [https://www.buzzfeednews.com/article/ryanmac/unsworth-reply-elon-musk-fucking-idiot](https://www.buzzfeednews.com/article/ryanmac/unsworth-reply-elon-musk-fucking-idiot)
@@ -200,7 +200,7 @@
  - [https://www.pewresearch.org/politics/2019/10/07/in-their-own-words-behind-americans-views-of-socialism-and-capitalism/](https://www.pewresearch.org/politics/2019/10/07/in-their-own-words-behind-americans-views-of-socialism-and-capitalism/)
  - date published: 2019-10-07 14:16:45+00:00
  - user: rumpel
- - tags: ['socialism', 'america']
+ - tags: ['socialism', 'usa']
 
 ## The Nazis' love affair with the occult - Big Think
  - [https://bigthink.com/the-present/nazis-occult/](https://bigthink.com/the-present/nazis-occult/)
@@ -404,7 +404,7 @@
  - [https://thefederalist.com/2019/07/22/public-library-deletes-pictures-drag-queens-fondling-children-story-hour/](https://thefederalist.com/2019/07/22/public-library-deletes-pictures-drag-queens-fondling-children-story-hour/)
  - date published: 2019-07-22 22:12:22+00:00
  - user: rumpel
- - tags: ['kids', 'lgbt', 'indoctrination']
+ - tags: ['children', 'lgbt', 'indoctrination']
 
 ## Why you should stop working so hard.
  - [https://www.youtube.com/watch?v=NglDal-ycjU](https://www.youtube.com/watch?v=NglDal-ycjU)
@@ -524,7 +524,7 @@
  - [https://thebridgehead.ca/2019/04/30/pre-teen-drag-kids-highlight-just-how-fast-our-culture-has-crumbled](https://thebridgehead.ca/2019/04/30/pre-teen-drag-kids-highlight-just-how-fast-our-culture-has-crumbled)
  - date published: 2019-04-30 22:11:33+00:00
  - user: rumpel
- - tags: ['kids', 'canada', 'indoctrination', 'lgbt', 'drag']
+ - tags: ['children', 'canada', 'drag', 'sexualization', 'indoctrination', 'woke', 'lgbt']
 
 ## Satanic Temple Wins IRS Recognition as an Official House of Worship
  - [https://www.bloomberg.com/news/articles/2019-04-26/the-satanic-temple-gets-irs-nod-as-official-house-of-worship](https://www.bloomberg.com/news/articles/2019-04-26/the-satanic-temple-gets-irs-nod-as-official-house-of-worship)
@@ -566,7 +566,7 @@
  - [https://blog.collegevine.com/the-list-of-all-u-s-colleges-with-a-gender-studies-gender-and-sexuality-studies-major/](https://blog.collegevine.com/the-list-of-all-u-s-colleges-with-a-gender-studies-gender-and-sexuality-studies-major/)
  - date published: 2019-04-16 20:07:17+00:00
  - user: rumpel
- - tags: ['universities', 'science is dead', 'gender']
+ - tags: ['universities', 'science is dead', 'gender', 'indoctrination', 'woke']
 
 ## Amazon employees are listening to what you say to Alexa — here's how to stop them
  - [https://www.cnbc.com/2019/04/11/how-to-stop-amazon-from-listening-to-what-you-say-to-alexa.html](https://www.cnbc.com/2019/04/11/how-to-stop-amazon-from-listening-to-what-you-say-to-alexa.html)
@@ -602,7 +602,7 @@
  - [https://abc13.com/drag-queen-story-time-sex-offender-houston-public-library/5203743/](https://abc13.com/drag-queen-story-time-sex-offender-houston-public-library/5203743/)
  - date published: 2019-03-19 22:14:03+00:00
  - user: rumpel
- - tags: ['libraryreading', 'sexualisation', 'kids', 'lgbt']
+ - tags: ['children', 'sexualisation', 'libraryreading', 'woke', 'lgbt']
 
 ## The Flaws of Academic Statistics: the Null Ritual
  - [https://notrelated.xyz/audio/s01/S01E08_-_The_Flaws_of_Academic_Statistics_the_Null_Ritual.mp3](https://notrelated.xyz/audio/s01/S01E08_-_The_Flaws_of_Academic_Statistics_the_Null_Ritual.mp3)
@@ -614,7 +614,7 @@
  - [https://www.theguardian.com/world/2019/mar/08/german-academics-and-authors-call-for-end-to-gender-nonsense](https://www.theguardian.com/world/2019/mar/08/german-academics-and-authors-call-for-end-to-gender-nonsense)
  - date published: 2019-03-08 09:07:02+00:00
  - user: rumpel
- - tags: ['social engineering', 'gender', 'pronouns', 'newspeak']
+ - tags: ['social engineering', 'pronouns', 'science is dead', 'gender', 'newspeak', 'woke']
 
 ## Revealed: Facebook’s global lobbying against data privacy laws
  - [https://www.theguardian.com/technology/2019/mar/02/facebook-global-lobbying-campaign-against-data-privacy-laws-investment](https://www.theguardian.com/technology/2019/mar/02/facebook-global-lobbying-campaign-against-data-privacy-laws-investment)
@@ -710,5 +710,5 @@
  - [https://www.youtube.com/watch?v=UEgA8kHuYvs](https://www.youtube.com/watch?v=UEgA8kHuYvs)
  - date published: 2019-01-04 21:28:23+00:00
  - user: rumpel
- - tags: ['children', 'sexualisation', 'lgbt']
+ - tags: ['woke', 'children', 'lgbt', 'sexualisation']
 

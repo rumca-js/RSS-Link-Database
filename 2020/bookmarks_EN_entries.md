@@ -40,6 +40,12 @@
  - user: rumpel
  - tags: ['woke', 'netflix']
 
+## Covid-19 vaccine 'will not be required to access public transport' says French health minister - The Local
+ - [https://www.thelocal.fr/20201222/the-everyday-restrictions-people-who-refuse-the-covid-19-vaccine-in-france-could-face](https://www.thelocal.fr/20201222/the-everyday-restrictions-people-who-refuse-the-covid-19-vaccine-in-france-could-face)
+ - date published: 2020-12-23 06:50:16+00:00
+ - user: rumpel
+ - tags: ['mandates', 'covid', 'vaccine']
+
 ## Zoom Shared US User Data With Beijing
  - [https://www.ntd.com/zoom-shared-us-user-data-with-beijing_544087.html](https://www.ntd.com/zoom-shared-us-user-data-with-beijing_544087.html)
  - date published: 2020-12-23 06:49:58+00:00
@@ -76,11 +82,17 @@
  - user: None
  - tags: ['smart cirty', 'privacy']
 
+## How should you talk to friends and relatives who believe conspiracy theories? - BBC News
+ - [https://www.bbc.com/news/blogs-trending-55350794](https://www.bbc.com/news/blogs-trending-55350794)
+ - date published: 2020-12-21 06:33:43+00:00
+ - user: rumpel
+ - tags: ['conspiracy theories', 'covid', 'propaganda']
+
 ## Anti-lockdown protesters arrested as hundreds gather in central London just hours before tier 4 announcement
  - [https://www.independent.co.uk/news/uk/anti-lockdown-protest-arrest-police-tier-4-b1776545.html](https://www.independent.co.uk/news/uk/anti-lockdown-protest-arrest-police-tier-4-b1776545.html)
  - date published: 2020-12-20 10:16:49+00:00
  - user: rumpel
- - tags: ['uk', 'london', 'protest', 'england', 'lockdown', 'covid']
+ - tags: ['covid', 'london', 'lockdown', 'protest', 'england']
 
 ## WHO (finally) admits PCR tests create false positives
  - [https://off-guardian.org/2020/12/18/who-finally-admits-pcr-tests-create-false-positives/](https://off-guardian.org/2020/12/18/who-finally-admits-pcr-tests-create-false-positives/)
@@ -194,7 +206,7 @@
  - [https://www.spectator.co.uk/article/eton-was-right-to-sack-will-knowland/](https://www.spectator.co.uk/article/eton-was-right-to-sack-will-knowland/)
  - date published: 2020-12-03 20:33:35+00:00
  - user: rumpel
- - tags: ['feminism', 'patriarchy', 'censorship', 'gender', 'inequality']
+ - tags: ['feminism', 'inequality', 'patriarchy', 'gender', 'woke', 'censorship']
 
 ## California plans sweeping stay-at-home order as Covid cases surge | California | The Guardian
  - [https://www.theguardian.com/us-news/2020/dec/03/california-covid-restrictions-stay-at-home-order](https://www.theguardian.com/us-news/2020/dec/03/california-covid-restrictions-stay-at-home-order)
@@ -212,7 +224,7 @@
  - [https://www.independent.co.uk/news/health/coronavirus-pfizer-vaccine-legal-indemnity-safety-ministers-b1765124.html](https://www.independent.co.uk/news/health/coronavirus-pfizer-vaccine-legal-indemnity-safety-ministers-b1765124.html)
  - date published: 2020-12-02 22:05:32+00:00
  - user: rumpel
- - tags: ['pfizer', 'uk', 'nop', 'covid']
+ - tags: ['pfizer', 'england', 'nop', 'covid']
 
 ## Corona’s orchestra of panic: How the press’ fear-mongering is distorting information | European Journalism Observatory - EJO
  - [https://en.ejo.ch/specialist-journalism/coronas-orchestra-of-panic-how-the-press-fear-mongering-is-distorting-information-about-covid-19](https://en.ejo.ch/specialist-journalism/coronas-orchestra-of-panic-how-the-press-fear-mongering-is-distorting-information-about-covid-19)
@@ -248,13 +260,13 @@
  - [https://www.dw.com/en/wikileaks-cablegate-10-years-on-an-unvarnished-look-at-us-foreign-policy/a-55755239](https://www.dw.com/en/wikileaks-cablegate-10-years-on-an-unvarnished-look-at-us-foreign-policy/a-55755239)
  - date published: 2020-11-28 20:05:21+00:00
  - user: None
- - tags: ['cablegate', 'hillary clinton', 'assange', 'wikileaks']
+ - tags: ['cablegate', 'hillary clinton', 'julian assange', 'wikileaks']
 
 ## New Jersey Starbucks barista claims she was fired for refusing to wear a Pride T-shirt because of her religious beliefs
  - [https://www.dailymail.co.uk/news/article-8993007/New-Jersey-Starbucks-barista-claims-fired-refusing-wear-Pride-T-shirt.html](https://www.dailymail.co.uk/news/article-8993007/New-Jersey-Starbucks-barista-claims-fired-refusing-wear-Pride-T-shirt.html)
  - date published: 2020-11-27 22:05:08+00:00
  - user: rumpel
- - tags: ['intolerance', 'america', 'lgbt']
+ - tags: ['intolerance', 'woke', 'lgbt', 'usa']
 
 ## You Own Nothing: The True Cost of Digital Media
  - [https://www.youtube.com/watch?v=iSGu_P185s4](https://www.youtube.com/watch?v=iSGu_P185s4)
@@ -273,6 +285,12 @@
  - date published: 2020-11-26 08:49:28+00:00
  - user: rumpel
  - tags: ['surveillance', 'windows', 'microsoft']
+
+## Where's the cure for the infodemic? Our World Vs Virus podcast | World Economic Forum
+ - [https://www.weforum.org/agenda/2020/11/misinformation-infodemic-world-vs-virus-podcast/](https://www.weforum.org/agenda/2020/11/misinformation-infodemic-world-vs-virus-podcast/)
+ - date published: 2020-11-26 06:33:14+00:00
+ - user: rumpel
+ - tags: ['misinformation', 'censorship', 'pledgetopause', 'propaganda']
 
 ## "A grave mistake", Kenney apologizes for lockdown
  - [https://www.youtube.com/watch?v=ylTCTcSM09Y](https://www.youtube.com/watch?v=ylTCTcSM09Y)
@@ -302,7 +320,7 @@
  - [https://www.opendemocracy.net/en/freedom-of-information/uk-government-running-orwellian-unit-to-block-release-of-sensitive-information/](https://www.opendemocracy.net/en/freedom-of-information/uk-government-running-orwellian-unit-to-block-release-of-sensitive-information/)
  - date published: 2020-11-23 19:43:36+00:00
  - user: rumpel
- - tags: ['big brother', 'censorship', 'orwell', 'surveillance', 'covid', 'clearing house']
+ - tags: ['ministry of truth', 'big brother', 'covid', 'clearing house', 'surveillance', 'censorship']
 
 ## Post-lockdown SARS-CoV-2 nucleic acid screening in nearly ten million residents of Wuhan, China
  - [https://www.nature.com/articles/s41467-020-19802-w](https://www.nature.com/articles/s41467-020-19802-w)
@@ -356,13 +374,13 @@
  - [https://www.albawaba.com/node/are-babies-really-being-sold-gay-couples-brussels-child-fair-1392439](https://www.albawaba.com/node/are-babies-really-being-sold-gay-couples-brussels-child-fair-1392439)
  - date published: 2020-11-12 08:45:01+00:00
  - user: rumpel
- - tags: ['kids', 'lgbt', 'surrogacy']
+ - tags: ['children', 'lgbt', 'surrogacy']
 
 ## Norway outlaws hate speech against trans people
  - [https://news.trust.org/item/20201110191107-tecjt/](https://news.trust.org/item/20201110191107-tecjt/)
  - date published: 2020-11-10 22:01:46+00:00
  - user: rumpel
- - tags: ['norway', 'hate speech', 'lgbt', 'transgender']
+ - tags: ['hate speech', 'censorship', 'norway', 'woke', 'lgbt', 'transgender']
 
 ## Coronavirus: Britons should be paid to take COVID-19 vaccine, says Oxford professor | UK News | Sky News
  - [https://news.sky.com/story/coronavirus-britons-should-be-paid-to-take-covid-19-vaccine-says-oxford-professor-12125012](https://news.sky.com/story/coronavirus-britons-should-be-paid-to-take-covid-19-vaccine-says-oxford-professor-12125012)
@@ -374,7 +392,7 @@
  - [https://www.reuters.com/article/us-netherlands-lgbt-asylum-trfn-idUSKBN27L29M](https://www.reuters.com/article/us-netherlands-lgbt-asylum-trfn-idUSKBN27L29M)
  - date published: 2020-11-05 21:05:40+00:00
  - user: rumpel
- - tags: ['gay', 'lgbt', 'inequality', 'netherlands']
+ - tags: ['netherlands', 'inequality', 'homosexuality', 'woke', 'lgbt']
 
 ## Deconstructing the Lebanese central bank’s Ponzi scheme | The Economist
  - [https://www.economist.com/finance-and-economics/2020/11/05/deconstructing-the-lebanese-central-banks-ponzi-scheme](https://www.economist.com/finance-and-economics/2020/11/05/deconstructing-the-lebanese-central-banks-ponzi-scheme)
@@ -418,6 +436,12 @@
  - user: rumpel
  - tags: ['google', 'search engines', 'apple', 'corporatocracy']
 
+## United Nations Secretary-General calls for individual action to combat misinformation | Africa Renewal
+ - [https://www.un.org/africarenewal/news/united-nations-secretary-general-calls-individual-action-combat-misinformation](https://www.un.org/africarenewal/news/united-nations-secretary-general-calls-individual-action-combat-misinformation)
+ - date published: 2020-10-22 06:30:50+00:00
+ - user: rumpel
+ - tags: ['misinformation', 'censorship', 'pledgetopause', 'propaganda']
+
 ## The DOJ Just Slammed Google With a Landmark Antitrust Case | Entrepreneur
  - [https://www.entrepreneur.com/business-news/the-doj-just-slammed-google-with-a-landmark-antitrust-case/358109](https://www.entrepreneur.com/business-news/the-doj-just-slammed-google-with-a-landmark-antitrust-case/358109)
  - date published: 2020-10-20 11:15:42+00:00
@@ -429,6 +453,12 @@
  - date published: 2020-10-16 19:47:48+00:00
  - user: rumpel
  - tags: ['twitter', 'corporatocracy', 'facebook', 'manufacturing consent']
+
+## YouTube to ban videos spreading misinformation on COVID-19 vaccines  | World Economic Forum
+ - [https://www.weforum.org/agenda/2020/10/youtube-bans-coronavirus-vaccine-misinformation](https://www.weforum.org/agenda/2020/10/youtube-bans-coronavirus-vaccine-misinformation)
+ - date published: 2020-10-15 06:27:44+00:00
+ - user: rumpel
+ - tags: ['youtube', 'misinformation', 'covid', 'vaccine', 'moderation', 'technofeudalism', 'censorship']
 
 ## Facebook to ban ads discouraging vaccination
  - [https://www.theguardian.com/technology/2020/oct/13/facebook-vaccine-ads-ban](https://www.theguardian.com/technology/2020/oct/13/facebook-vaccine-ads-ban)
@@ -458,7 +488,7 @@
  - [https://www.thenation.com/article/economy/bill-gates-investments-covid/](https://www.thenation.com/article/economy/bill-gates-investments-covid/)
  - date published: 2020-10-05 17:20:37+00:00
  - user: rumpel
- - tags: ['bill gates', 'billionaires', 'covid', 'elite']
+ - tags: ['bill gates', 'covid', 'elites', 'billionaires']
 
 ## A WeChat Ban Would End Their Lifeline - The New York Times
  - [https://www.nytimes.com/2020/10/05/nyregion/us-wechat-ban.html](https://www.nytimes.com/2020/10/05/nyregion/us-wechat-ban.html)
@@ -566,7 +596,7 @@
  - [https://variety.com/2020/digital/news/netflix-defends-cuties-against-sexualization-young-girls-1234766347/](https://variety.com/2020/digital/news/netflix-defends-cuties-against-sexualization-young-girls-1234766347/)
  - date published: 2020-09-10 08:25:33+00:00
  - user: rumpel
- - tags: ['woke', 'cuties', 'netflix', 'kids', 'sexualization']
+ - tags: ['woke', 'cuties', 'netflix', 'children', 'sexualization']
 
 ## Oscars' woke quota will backfire on Hollywood spectacularly
  - [https://nypost.com/2020/09/09/oscars-woke-quota-will-backfire-on-hollywood-spectacularly/](https://nypost.com/2020/09/09/oscars-woke-quota-will-backfire-on-hollywood-spectacularly/)
@@ -584,7 +614,7 @@
  - [https://www.euronews.com/2020/07/09/norway-will-prioritise-lesbian-gay-bisexual-and-transgender-refugees](https://www.euronews.com/2020/07/09/norway-will-prioritise-lesbian-gay-bisexual-and-transgender-refugees)
  - date published: 2020-09-07 21:01:23+00:00
  - user: rumpel
- - tags: ['norway', 'lgbt', 'inequality']
+ - tags: ['woke', 'norway', 'inequality', 'lgbt']
 
 ## Forget TikTok. China’s Powerhouse App Is WeChat. - The New York Times
  - [https://www.nytimes.com/2020/09/04/technology/wechat-china-united-states.html](https://www.nytimes.com/2020/09/04/technology/wechat-china-united-states.html)
@@ -614,7 +644,7 @@
  - [https://southfloridagaynews.com/National/california-acts-to-increase-lgbt-racial-diversity-on-corporate-boards.html](https://southfloridagaynews.com/National/california-acts-to-increase-lgbt-racial-diversity-on-corporate-boards.html)
  - date published: 2020-09-02 21:12:40+00:00
  - user: rumpel
- - tags: ['inequality', 'lgbt', 'socialism']
+ - tags: ['woke', 'socialism', 'inequality', 'lgbt']
 
 ## Academics Are Really, Really Worried About Their Freedom
  - [https://www.theatlantic.com/ideas/archive/2020/09/academics-are-really-really-worried-about-their-freedom/615724/](https://www.theatlantic.com/ideas/archive/2020/09/academics-are-really-really-worried-about-their-freedom/615724/)
@@ -638,7 +668,7 @@
  - [https://www.theguardian.com/world/2020/aug/29/coronavirus-sceptics-conspiracy-theorists-anti-vaxxers-protest-london](https://www.theguardian.com/world/2020/aug/29/coronavirus-sceptics-conspiracy-theorists-anti-vaxxers-protest-london)
  - date published: 2020-08-29 15:12:08+00:00
  - user: rumpel
- - tags: ['covid', 'mediamisleadingtitle', 'protest', 'lockdown']
+ - tags: ['protest', 'covid', 'lockdown', 'propaganda']
 
 ## The Social Dilemma | Official Trailer | NetflixThe Social Dilemma | Official Trailer | Netflix
  - [https://www.youtube.com/watch?v=uaaC57tcci0](https://www.youtube.com/watch?v=uaaC57tcci0)
@@ -686,13 +716,13 @@
  - [https://www.cleveland19.com/2020/08/18/goodyear-employees-say-new-zero-tolerance-policy-akron-hq-is-discriminatory/](https://www.cleveland19.com/2020/08/18/goodyear-employees-say-new-zero-tolerance-policy-akron-hq-is-discriminatory/)
  - date published: 2020-08-19 21:11:08+00:00
  - user: rumpel
- - tags: ['politics', 'lgbt', 'inequality']
+ - tags: ['woke', 'politics', 'inequality', 'lgbt']
 
 ## New P2P botnet infects SSH servers all over the world
  - [https://arstechnica.com/information-technology/2020/08/new-p2p-botnet-infects-ssh-servers-all-over-the-world/](https://arstechnica.com/information-technology/2020/08/new-p2p-botnet-infects-ssh-servers-all-over-the-world/)
  - date published: 2020-08-19 20:04:48+00:00
  - user: None
- - tags: ['virus', 'botnet']
+ - tags: ['vulnerability', 'virus', 'botnet']
 
 ## Protesters burn government building during riot in Portland
  - [https://nypost.com/2020/08/19/protesters-burn-government-building-during-riot-in-portland/](https://nypost.com/2020/08/19/protesters-burn-government-building-during-riot-in-portland/)
@@ -710,13 +740,13 @@
  - [https://www.reuters.com/article/health-coronavirus-germany-vaccine-idUSKBN2661KP](https://www.reuters.com/article/health-coronavirus-germany-vaccine-idUSKBN2661KP)
  - date published: 2020-08-15 21:59:40+00:00
  - user: rumpel
- - tags: ['pfizer', 'covid', 'vaccine', 'biontech']
+ - tags: ['big pharma', 'vaccine', 'covid', 'biontech', 'pfizer']
 
 ## Why is no one safe until everyone is safe during a pandemic? | Gavi, the Vaccine Alliance
  - [https://www.gavi.org/vaccineswork/why-no-one-safe-until-everyone-safe-during-pandemic](https://www.gavi.org/vaccineswork/why-no-one-safe-until-everyone-safe-during-pandemic)
  - date published: 2020-08-14 22:07:07+00:00
  - user: rumpel
- - tags: ['propaganda', 'covid', 'pandeminc', 'vaccine']
+ - tags: ['vaccine', 'covid', 'pandemic', 'propaganda']
 
 ## NSA and FBI warn that new Linux malware threatens national security
  - [https://arstechnica.com/information-technology/2020/08/nsa-and-fbi-warn-that-new-linux-malware-threatens-national-security/](https://arstechnica.com/information-technology/2020/08/nsa-and-fbi-warn-that-new-linux-malware-threatens-national-security/)
@@ -788,7 +818,7 @@
  - [https://www.dailymail.co.uk/news/article-8568833/Paedophile-Labour-councillor-worked-childrens-home-walks-free.html](https://www.dailymail.co.uk/news/article-8568833/Paedophile-Labour-councillor-worked-childrens-home-walks-free.html)
  - date published: 2020-07-28 21:09:04+00:00
  - user: rumpel
- - tags: ['inequality', 'lgbt', 'paedophilia']
+ - tags: ['woke', 'paedophilia', 'inequality', 'lgbt']
 
 ## INSANE: Netflix Pushes Trans Propaganda On KIDS Show; Shapiro Responds
  - [https://www.youtube.com/watch?v=HxbOM6swuTg](https://www.youtube.com/watch?v=HxbOM6swuTg)
@@ -800,7 +830,7 @@
  - [https://www.reuters.com/article/us-health-coronavirus-moderna-funding-idUSKCN24R0IN](https://www.reuters.com/article/us-health-coronavirus-moderna-funding-idUSKCN24R0IN)
  - date published: 2020-07-26 22:02:16+00:00
  - user: rumpel
- - tags: ['moderna', 'covid', 'vaccine']
+ - tags: ['vaccine', 'covid', 'big pharma', 'moderna']
 
 ## Legal Docs: St. Louis Prosecutor Tampered With Evidence In McCloskey Gun Case
  - [https://thefederalist.com/2020/07/23/legal-docs-st-louis-prosecutor-tampered-with-evidence-in-mccloskey-gun-case](https://thefederalist.com/2020/07/23/legal-docs-st-louis-prosecutor-tampered-with-evidence-in-mccloskey-gun-case)
@@ -886,6 +916,12 @@
  - user: rumpel
  - tags: ['jeffrey epstein', '4chan', 'unverified']
 
+## Bill Gates' Sphere of Influence
+ - [https://i.redd.it/u0zf525kep851.jpg](https://i.redd.it/u0zf525kep851.jpg)
+ - date published: 2020-07-03 06:23:31+00:00
+ - user: rumpel
+ - tags: ['manufacturing consent', 'covid', 'bill gates']
+
 ## Judge Rules Virginia Giuffre's Lawyers Must 'Destroy' Jeffrey Epstein Files
  - [https://www.newsweek.com/judge-rules-virginia-giuffres-lawyers-must-destroy-jeffrey-epstein-files-1514909](https://www.newsweek.com/judge-rules-virginia-giuffres-lawyers-must-destroy-jeffrey-epstein-files-1514909)
  - date published: 2020-07-02 19:43:29+00:00
@@ -938,13 +974,13 @@
  - [https://www.bleepingcomputer.com/news/security/almost-300-windows-10-executables-vulnerable-to-dll-hijacking/](https://www.bleepingcomputer.com/news/security/almost-300-windows-10-executables-vulnerable-to-dll-hijacking/)
  - date published: 2020-06-27 06:48:07+00:00
  - user: None
- - tags: ['windows', 'hacker']
+ - tags: ['vulnerability', 'windows', 'hackers']
 
 ## BLM co-founder describes herself as 'trained Marxist'
  - [https://nypost.com/2020/06/25/blm-co-founder-describes-herself-as-trained-marxist/](https://nypost.com/2020/06/25/blm-co-founder-describes-herself-as-trained-marxist/)
  - date published: 2020-06-25 21:03:29+00:00
  - user: rumpel
- - tags: ['socialism', 'black lives matter', 'marxism', 'america']
+ - tags: ['socialism', 'black lives matter', 'marxism', 'usa']
 
 ## How do you deal with people who refuse to wear a mask? - The Verge
  - [https://www.theverge.com/21303553/face-mask-coronavirus-cdc-etiquette-public](https://www.theverge.com/21303553/face-mask-coronavirus-cdc-etiquette-public)
@@ -974,7 +1010,7 @@
  - [https://www.theguardian.com/culture/2020/jun/15/john-oliver-police-use-facial-recognition](https://www.theguardian.com/culture/2020/jun/15/john-oliver-police-use-facial-recognition)
  - date published: 2020-06-15 16:20:35+00:00
  - user: rumpel
- - tags: ['surveillance', 'facial recognition', 'big brother']
+ - tags: ['surveillance', 'facial recognition', 'big brother', 'biometric']
 
 ## Berlin authorities placed children with pedophiles
  - [https://www.dw.com/en/berlin-authorities-placed-children-with-pedophiles-for-30-years/a-53814208](https://www.dw.com/en/berlin-authorities-placed-children-with-pedophiles-for-30-years/a-53814208)
@@ -998,7 +1034,7 @@
  - [https://smarthomepursuits.com/install-webmin-on-raspberry-pi-for-web-based-administration/](https://smarthomepursuits.com/install-webmin-on-raspberry-pi-for-web-based-administration/)
  - date published: 2020-06-09 10:44:56+00:00
  - user: rumpel
- - tags: ['selfhost', 'webmin']
+ - tags: ['webmin', 'selfhost', 'linux', 'smarthome']
 
 ## 'Big concerns' over Gates foundation's potential to become largest WHO donor
  - [https://www.devex.com/news/big-concerns-over-gates-foundation-s-potential-to-become-largest-who-donor-97377](https://www.devex.com/news/big-concerns-over-gates-foundation-s-potential-to-become-largest-who-donor-97377)
@@ -1030,6 +1066,12 @@
  - user: None
  - tags: ['blizzard', 'blm', 'black lives matter', 'hong kong', 'censorship', 'china', 'corporatocracy']
 
+## Coronavirus: Sweden's top epidemiologist Anders Tegnell admits mistakes with COVID-19 strategy
+ - [https://www.smh.com.au/world/europe/man-behind-sweden-s-controversial-coronavirus-strategy-admits-mistakes-20200603-p54z99.html](https://www.smh.com.au/world/europe/man-behind-sweden-s-controversial-coronavirus-strategy-admits-mistakes-20200603-p54z99.html)
+ - date published: 2020-06-03 05:39:34+00:00
+ - user: rumpel
+ - tags: $tags
+
 ## US Senators Introduce 'Lawful Access to Encrypted Data Act' - With Backdoor Mandate
  - [https://news.bitcoin.com/lawful-access-to-encrypted-data-act-backdoor/](https://news.bitcoin.com/lawful-access-to-encrypted-data-act-backdoor/)
  - date published: 2020-06-02 12:26:32+00:00
@@ -1053,6 +1095,12 @@
  - date published: 2020-05-27 19:48:09+00:00
  - user: rumpel
  - tags: ['covid']
+
+## Swedish economy on track for 7% contraction this year - Fin Min | Reuters
+ - [https://www.reuters.com/article/health-coronavirus-sweden-economy/swedish-economy-on-track-for-7-contraction-this-year-fin-min-idUSS3N29P01Z](https://www.reuters.com/article/health-coronavirus-sweden-economy/swedish-economy-on-track-for-7-contraction-this-year-fin-min-idUSS3N29P01Z)
+ - date published: 2020-05-26 05:39:58+00:00
+ - user: rumpel
+ - tags: ['lockdown', 'covid', 'sweden']
 
 ## BlackRock: Unofficial Fourth Arm Of Government | The WealthAdvisor
  - [https://www.thewealthadvisor.com/article/blackrock-unofficial-fourth-arm-government](https://www.thewealthadvisor.com/article/blackrock-unofficial-fourth-arm-government)
@@ -1154,7 +1202,7 @@
  - [https://sagegerard.com/stop-learning-so-much.html](https://sagegerard.com/stop-learning-so-much.html)
  - date published: 2020-03-31 09:10:22+00:00
  - user: rumpel
- - tags: ['science', 'programming', 'knowledge']
+ - tags: ['programming', 'science']
 
 ## NYC's Footprint Amid The COVID-19 Outbreak
  - [https://www.youtube.com/watch?v=Q5BFrDocPNs](https://www.youtube.com/watch?v=Q5BFrDocPNs)
@@ -1202,7 +1250,7 @@
  - [https://www.techradar.com/news/your-smart-speaker-could-be-accidentally-listening-in-on-your-conversations](https://www.techradar.com/news/your-smart-speaker-could-be-accidentally-listening-in-on-your-conversations)
  - date published: 2020-02-26 20:50:35+00:00
  - user: None
- - tags: ['privacy', 'iot', 'smart']
+ - tags: ['vulnerability', 'iot', 'privacy', 'smarthome']
 
 ## BlackRock’s black box: the technology hub of modern finance - Financial Times | Busi Buggy
  - [https://busibuggy.blogspot.com/2020/02/blackrocks-black-box-technology-hub-of.html](https://busibuggy.blogspot.com/2020/02/blackrocks-black-box-technology-hub-of.html)
@@ -1250,7 +1298,7 @@
  - [https://www.dailymail.co.uk/news/article-7950655/Mother-trying-transition-son-girl-loses-court-judge-orders-parents-joint-custody.html](https://www.dailymail.co.uk/news/article-7950655/Mother-trying-transition-son-girl-loses-court-judge-orders-parents-joint-custody.html)
  - date published: 2020-01-31 08:51:05+00:00
  - user: rumpel
- - tags: ['transgender', 'family', 'america', 'lgbt']
+ - tags: ['family', 'usa', 'woke', 'lgbt', 'transgender']
 
 ## Coronavirus Outbreak: Man lies dead on a street in China
  - [https://www.youtube.com/watch?v=CYKeefzKGOI](https://www.youtube.com/watch?v=CYKeefzKGOI)
@@ -1316,7 +1364,7 @@
  - [https://www.theguardian.com/technology/2020/jan/12/anger-over-use-facial-recognition-south-wales-football-derby-cardiff-swansea](https://www.theguardian.com/technology/2020/jan/12/anger-over-use-facial-recognition-south-wales-football-derby-cardiff-swansea)
  - date published: 2020-01-12 14:05:26+00:00
  - user: rumpel
- - tags: ['surveillance', 'facial recognition', 'big brother']
+ - tags: ['surveillance', 'facial recognition', 'big brother', 'biometric']
 
 ## Ring Fired Employees for Watching Customer Videos
  - [https://www.vice.com/en/article/y3mdvk/ring-fired-employees-abusing-video-data](https://www.vice.com/en/article/y3mdvk/ring-fired-employees-abusing-video-data)
@@ -1358,7 +1406,7 @@
  - [https://www.theregister.com/2020/06/01/linux_5_7/](https://www.theregister.com/2020/06/01/linux_5_7/)
  - date published: 2020-01-01 13:56:53+00:00
  - user: rumpel
- - tags: ['torvalds', 'linux', 'kernel']
+ - tags: ['kernel', 'linux', 'linus torvalds']
 
 ## The Turning Point
  - [https://www.youtube.com/watch?v=p7LDk4D3Q3U](https://www.youtube.com/watch?v=p7LDk4D3Q3U)

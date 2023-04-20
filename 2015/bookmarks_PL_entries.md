@@ -8,5 +8,5 @@
  - [https://www.rp.pl/Rodzina/307269961-Szwecja-a-ustawa-o-przymusowej-opiece-panstwa-nad-dziecmi.html](https://www.rp.pl/Rodzina/307269961-Szwecja-a-ustawa-o-przymusowej-opiece-panstwa-nad-dziecmi.html)
  - date published: 2015-07-26 08:54:11+00:00
  - user: rumpel
- - tags: ['kids', 'big brother', 'sweden']
+ - tags: ['children', 'big brother', 'sweden']
 

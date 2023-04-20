@@ -2,7 +2,7 @@
  - [https://www.rp.pl/przestepczosc/art973621-usa-15-lat-wiezienia-za-spalenie-flagi-lgbt](https://www.rp.pl/przestepczosc/art973621-usa-15-lat-wiezienia-za-spalenie-flagi-lgbt)
  - date published: 2019-12-20 20:52:09+00:00
  - user: rumpel
- - tags: ['lgbt', 'inequality', 'america']
+ - tags: ['woke', 'inequality', 'lgbt', 'usa']
 
 ## “El Confidencial”: Strajki klimatyczne i wielki biznes. Za Gretą Thunberg stoją duże koncerny i fundusze
  - [https://forsal.pl/artykuly/1443406,el-confidencial-strajki-klimatyczne-i-wielki-biznes-za-greta-thunberg-stoja-duze-koncerny-i-fundusze.html](https://forsal.pl/artykuly/1443406,el-confidencial-strajki-klimatyczne-i-wielki-biznes-za-greta-thunberg-stoja-duze-koncerny-i-fundusze.html)
@@ -32,7 +32,7 @@
  - [https://www.youtube.com/watch?v=f7_IX9NtjnI](https://www.youtube.com/watch?v=f7_IX9NtjnI)
  - date published: 2019-09-26 20:37:58+00:00
  - user: None
- - tags: ['snowden', 'privacy', 'internet']
+ - tags: ['internet', 'privacy', 'edward snowden']
 
 ## Małgorzata Wołczyk: Orwell w Hiszpanii, czyli jak Zapatero urządził Hiszpanów
  - [https://teologiapolityczna.pl/malgorzata-wolczyk-orwell-w-hiszpanii-czyli-jak-zapatero-urzadzil-hiszpanow](https://teologiapolityczna.pl/malgorzata-wolczyk-orwell-w-hiszpanii-czyli-jak-zapatero-urzadzil-hiszpanow)
@@ -74,7 +74,7 @@
  - [https://wiadomosci.dziennik.pl/wydarzenia/artykuly/602791,zywa-ksiazka-ordo-iuris-lgbt-kontrowersje.html](https://wiadomosci.dziennik.pl/wydarzenia/artykuly/602791,zywa-ksiazka-ordo-iuris-lgbt-kontrowersje.html)
  - date published: 2019-07-17 22:15:14+00:00
  - user: rumpel
- - tags: ['kids', 'sexualisation', 'libraryreading', 'lgbt', 'indoctrination']
+ - tags: ['children', 'sexualisation', 'propaganda', 'libraryreading', 'indoctrination', 'woke', 'lgbt']
 
 ## Koniec naszego świata
  - [https://www.tvp.info/43374228/koniec-naszego-swiata](https://www.tvp.info/43374228/koniec-naszego-swiata)

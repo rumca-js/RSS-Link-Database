@@ -2,7 +2,7 @@
  - [https://www.washingtonpost.com/wp-dyn/content/article/2010/12/21/AR2010122104599.html?hpid=topnews](https://www.washingtonpost.com/wp-dyn/content/article/2010/12/21/AR2010122104599.html?hpid=topnews)
  - date published: 2010-12-21 21:36:34+00:00
  - user: rumpel
- - tags: ['wikileaks', 'cia', 'assange']
+ - tags: ['wikileaks', 'cia', 'julian assange']
 
 ## Facebook–Cambridge Analytica data scandal
  - [https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal](https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal)
@@ -38,13 +38,13 @@
  - [https://ionainstitute.ie/how-radicals-tried-to-sexually-liberate-children/](https://ionainstitute.ie/how-radicals-tried-to-sexually-liberate-children/)
  - date published: 2010-08-05 21:04:24+00:00
  - user: rumpel
- - tags: ['kids', 'paedophilia', 'lgbt']
+ - tags: ['children', 'paedophilia', 'sexualization', 'woke', 'lgbt']
 
 ## Afghanistan war logs: Massive leak of secret files exposes truth of occupation | Afghanistan: the war logs | The Guardian
  - [https://www.theguardian.com/world/2010/jul/25/afghanistan-war-logs-military-leaks](https://www.theguardian.com/world/2010/jul/25/afghanistan-war-logs-military-leaks)
  - date published: 2010-07-25 21:33:58+00:00
  - user: rumpel
- - tags: ['big brother', 'afganistan', 'america', 'war', 'data leak']
+ - tags: ['big brother', 'afganistan', 'usa', 'war', 'data leak']
 
 ## Nestlé drives rainforest destruction pushing orangutans to brink of extinction - Greenpeace USA
  - [https://www.greenpeace.org/usa/news/nestle-drives-rainforest-destr/](https://www.greenpeace.org/usa/news/nestle-drives-rainforest-destr/)
