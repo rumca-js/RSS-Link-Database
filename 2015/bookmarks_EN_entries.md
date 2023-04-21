@@ -32,7 +32,7 @@
  - [https://www.youtube.com/watch?v=tTBWfkE7BXU](https://www.youtube.com/watch?v=tTBWfkE7BXU)
  - date published: 2015-10-15 16:13:28+00:00
  - user: None
- - tags: ['all time', 'chomsky', 'manufacturing consent', 'social media', 'propaganda', 'corporatocracy']
+ - tags: ['noam chomsky', 'corporatocracy', 'manufacturing consent', 'social media', 'propaganda', 'all time']
 
 ## The Website Obesity Crisis
  - [https://idlewords.com/talks/website_obesity.htm](https://idlewords.com/talks/website_obesity.htm)

@@ -104,7 +104,7 @@
  - [https://www.youtube.com/watch?v=4jef2C4T1_A](https://www.youtube.com/watch?v=4jef2C4T1_A)
  - date published: 2017-10-04 20:58:00+00:00
  - user: rumpel
- - tags: ['homosexuality', 'woke', 'lgbt', 'jordan peterson']
+ - tags: ['homosexuality', 'the left wing', 'lgbt', 'jordan peterson']
 
 ## 47 White Guilt Propaganda Tactics Used by Media and Political Elites to Push for Third World Immigration; motives
  - [https://isgp-studies.com/immigration-white-guilt-warfare-manual](https://isgp-studies.com/immigration-white-guilt-warfare-manual)
@@ -158,7 +158,7 @@
  - [https://www.catholicnewsagency.com/news/36720/california-bill-seeks-to-punish-misgendering-with-jail-time](https://www.catholicnewsagency.com/news/36720/california-bill-seeks-to-punish-misgendering-with-jail-time)
  - date published: 2017-09-02 11:07:46+00:00
  - user: rumpel
- - tags: ['woke', 'pronouns', 'newspeak']
+ - tags: ['the left wing', 'pronouns', 'newspeak']
 
 ## What Most People Don't Know About The Illuminati
  - [https://www.grunge.com/35035/secret-history-illuminati/](https://www.grunge.com/35035/secret-history-illuminati/)
@@ -218,7 +218,7 @@
  - [https://www.youtube.com/watch?v=IdjdNgvF42o](https://www.youtube.com/watch?v=IdjdNgvF42o)
  - date published: 2017-08-03 22:21:57+00:00
  - user: rumpel
- - tags: ['ben shapiro', 'joe rogan', 'woke', 'transgender']
+ - tags: ['ben shapiro', 'joe rogan', 'the left wing', 'transgender']
 
 ## Top 10 F-Droid Best Apps that are Not on Google Play - TechWiser
  - [https://techwiser.com/f-droid-best-apps/](https://techwiser.com/f-droid-best-apps/)
@@ -380,7 +380,7 @@
  - [https://www.youtube.com/watch?v=34LGPIXvU5M](https://www.youtube.com/watch?v=34LGPIXvU5M)
  - date published: 2017-03-02 21:06:22+00:00
  - user: rumpel
- - tags: ['social media', 'chomsky', 'propaganda', 'all time']
+ - tags: ['noam chomsky', 'social media', 'all time', 'propaganda']
 
 ## No one went to prison after 2008 financial crisis — and the fault lies with us
  - [https://www.dallasnews.com/business/personal-finance/2017/02/13/no-one-went-to-prison-after-2008-financial-crisis-and-the-fault-lies-with-us/](https://www.dallasnews.com/business/personal-finance/2017/02/13/no-one-went-to-prison-after-2008-financial-crisis-and-the-fault-lies-with-us/)

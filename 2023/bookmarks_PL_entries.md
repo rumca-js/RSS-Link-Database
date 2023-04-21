@@ -1,3 +1,9 @@
+## "Le Figaro": Trwa "meksykanizacja Francji" - wojny gangów narkotykowych od Paryża po Marsylię
+ - [https://forsal.pl/swiat/aktualnosci/artykuly/8702662,le-figaro-trwa-meksykanizacja-francji-wojny-gangow-narkotykowych-od-paryza-po-marsylie.html](https://forsal.pl/swiat/aktualnosci/artykuly/8702662,le-figaro-trwa-meksykanizacja-francji-wojny-gangow-narkotykowych-od-paryza-po-marsylie.html)
+ - date published: 2023-04-20 08:25:29+00:00
+ - user: rumpel
+ - tags: ['immigration', 'france']
+
 ## Przewodnicząca KE Ursula von der Leyen pozwana w związku z kontraktami z Pfizerem
  - [https://www.bankier.pl/wiadomosc/Przewodniczaca-KE-Ursula-von-der-Leyen-pozwana-w-zwiazku-z-kontraktami-z-Pfizerem-8524425.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Przewodniczaca-KE-Ursula-von-der-Leyen-pozwana-w-zwiazku-z-kontraktami-z-Pfizerem-8524425.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date published: 2023-04-17 17:15:00+00:00
@@ -56,7 +62,7 @@
  - [https://ithardware.pl/aktualnosci/cyfrowe_euro_z_niskim_stalym_limitem_na_gospodarstwo_i_dziennymi_limitami_wydatkow-26606.html](https://ithardware.pl/aktualnosci/cyfrowe_euro_z_niskim_stalym_limitem_na_gospodarstwo_i_dziennymi_limitami_wydatkow-26606.html)
  - date published: 2023-04-01 13:15:40+00:00
  - user: rumpel
- - tags: ['digital money', 'tech control', 'cbdc']
+ - tags: ['cbdc', 'technofeudalism']
 
 ## Rekordowa liczba podróży prywatnymi odrzutowcami w Europie
  - [https://forsal.pl/transport/aktualnosci/artykuly/8692131,rekordowa-liczba-podrozy-prywatnymi-odrzutowcami-w-europie.html](https://forsal.pl/transport/aktualnosci/artykuly/8692131,rekordowa-liczba-podrozy-prywatnymi-odrzutowcami-w-europie.html)
@@ -80,7 +86,7 @@
  - [https://ithardware.pl/aktualnosci/ue_planuje_wymusic_akceptacje_cyfrowego_euro_i_bezgotowkowa_przyszlosc-26438.html](https://ithardware.pl/aktualnosci/ue_planuje_wymusic_akceptacje_cyfrowego_euro_i_bezgotowkowa_przyszlosc-26438.html)
  - date published: 2023-03-22 09:02:40+00:00
  - user: rumpel
- - tags: ['cbdc', 'tech control', 'european union', 'digital money']
+ - tags: ['european union', 'cbdc', 'tech control']
 
 ## Trzecia rocznica pandemii. Koszty promocji i nazwiska reklamujących szczepionki - Gazeta Trybunalska
  - [https://gazetatrybunalska.info/2023/03/trzecia-rocznica-pandemii-koszty-promocji-i-nazwiska-reklamujacych-szczepionki/](https://gazetatrybunalska.info/2023/03/trzecia-rocznica-pandemii-koszty-promocji-i-nazwiska-reklamujacych-szczepionki/)
@@ -170,7 +176,7 @@
  - [https://wydarzenia.interia.pl/zagranica/news-hiszpania-nowe-prawo-dotyczace-zmiany-plci-wsrod-dzieci,nId,6601787](https://wydarzenia.interia.pl/zagranica/news-hiszpania-nowe-prawo-dotyczace-zmiany-plci-wsrod-dzieci,nId,6601787)
  - date published: 2023-02-16 15:41:57+00:00
  - user: rumpel
- - tags: ['spain', 'gender', 'woke', 'lgbt', 'transgender']
+ - tags: ['spain', 'gender', 'the left wing', 'lgbt', 'transgender']
 
 ## Richard Coudenhove-Kalergi i idea paneuropejska w okresie międzywojennym | prof. Adam Wielomski
  - [https://www.youtube.com/watch?v=w4CY1ub19mY](https://www.youtube.com/watch?v=w4CY1ub19mY)
@@ -416,7 +422,7 @@
  - [https://forsal.pl/swiat/unia-europejska/artykuly/8626375,niemcy-daja-budzet-ue-25-mld-euro-otrzymuja-132-mld-euro-rocznie.html](https://forsal.pl/swiat/unia-europejska/artykuly/8626375,niemcy-daja-budzet-ue-25-mld-euro-otrzymuja-132-mld-euro-rocznie.html)
  - date published: 2023-01-04 12:09:46+00:00
  - user: rumpel
- - tags: ['eu', 'germany']
+ - tags: ['european union', 'germany']
 
 ## Jest szczepionkowa ugoda. Pierwszy producent wstrzymuje dostawy
  - [https://www.money.pl/gospodarka/jest-szczepionkowa-ugoda-pierwszy-producent-wstrzymuje-dostawy-6851139086457696a.html](https://www.money.pl/gospodarka/jest-szczepionkowa-ugoda-pierwszy-producent-wstrzymuje-dostawy-6851139086457696a.html)
@@ -428,7 +434,7 @@
  - [https://zaimki.pl/](https://zaimki.pl/)
  - date published: 2023-01-01 22:08:10+00:00
  - user: rumpel
- - tags: ['social engineering', 'pronouns', 'gender', 'newspeak', 'woke']
+ - tags: ['social engineering', 'pronouns', 'gender', 'newspeak', 'the left wing']
 
 ## Mikroplastiki to poważny problem, ale ten filtr go rozwiąże
  - [https://www.chip.pl/2023/01/filtr-usuwajacy-mikroplastiki-z-wody](https://www.chip.pl/2023/01/filtr-usuwajacy-mikroplastiki-z-wody)

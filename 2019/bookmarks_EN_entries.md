@@ -14,7 +14,7 @@
  - [https://www.bbc.com/news/world-us-canada-50861259](https://www.bbc.com/news/world-us-canada-50861259)
  - date published: 2019-12-19 20:53:18+00:00
  - user: rumpel
- - tags: ['woke', 'inequality', 'lgbt']
+ - tags: ['the left wing', 'inequality', 'lgbt']
 
 ## New York public school rejects student Christian club, OKs LGBT Pride Club
  - [https://www.christianpost.com/news/new-york-public-school-rejects-student-christian-club-oks-lgbt-pride-club.html?fbclid=IwAR0XGOCi2lUIsLetSjnCZN91O05rCeaWGsR0z2E5dBtfH_E-2OEFqVqi3eA](https://www.christianpost.com/news/new-york-public-school-rejects-student-christian-club-oks-lgbt-pride-club.html?fbclid=IwAR0XGOCi2lUIsLetSjnCZN91O05rCeaWGsR0z2E5dBtfH_E-2OEFqVqi3eA)
@@ -26,7 +26,7 @@
  - [https://bigthink.com/strange-maps/coudenhove-kalergi-map/](https://bigthink.com/strange-maps/coudenhove-kalergi-map/)
  - date published: 2019-12-12 10:19:51+00:00
  - user: rumpel
- - tags: ['european union', 'kalergi']
+ - tags: ['european union', 'coudenhove-kalergi']
 
 ## Russian police raid NGINX Moscow office | ZDNET
  - [https://www.zdnet.com/article/russian-police-raid-nginx-moscow-office/](https://www.zdnet.com/article/russian-police-raid-nginx-moscow-office/)
@@ -244,6 +244,12 @@
  - user: rumpel
  - tags: ['climate change', 'greta thunberg', 'corporatocracy']
 
+## Three Catholic churches in El Paso targeted in arson attacks, the FBI says
+ - [https://www.cnn.com/2019/09/22/us/el-paso-churches-arson-attacks/index.html](https://www.cnn.com/2019/09/22/us/el-paso-churches-arson-attacks/index.html)
+ - date published: 2019-09-22 09:03:03+00:00
+ - user: rumpel
+ - tags: ['christianophobia']
+
 ## 8 Things You May Not Know About Our Air Defense on 9/11 > U.S. Department of Defense > Defense Department News
  - [https://www.defense.gov/News/News-Stories/Article/Article/1955624/8-things-you-may-not-know-about-our-air-defense-on-911/](https://www.defense.gov/News/News-Stories/Article/Article/1955624/8-things-you-may-not-know-about-our-air-defense-on-911/)
  - date published: 2019-09-11 15:32:49+00:00
@@ -260,7 +266,7 @@
  - [https://www.thewrap.com/lgbtq-comedians-respond-to-dave-chappelles-sticks-and-stones/](https://www.thewrap.com/lgbtq-comedians-respond-to-dave-chappelles-sticks-and-stones/)
  - date published: 2019-09-05 20:03:27+00:00
  - user: rumpel
- - tags: ['woke', 'lgbt', 'comedy']
+ - tags: ['the left wing', 'lgbt', 'comedy']
 
 ## Our journey to type checking 4 million lines of Python
  - [https://dropbox.tech/application/our-journey-to-type-checking-4-million-lines-of-python](https://dropbox.tech/application/our-journey-to-type-checking-4-million-lines-of-python)
@@ -296,7 +302,7 @@
  - [https://www.thegatewaypundit.com/2019/08/get-woke-go-broke-gillette-backflips-after-12-billion-toxic-masculinity-disaster-hopes-to-lure-sexist-pigs-back-with-new-ad-campaign/](https://www.thegatewaypundit.com/2019/08/get-woke-go-broke-gillette-backflips-after-12-billion-toxic-masculinity-disaster-hopes-to-lure-sexist-pigs-back-with-new-ad-campaign/)
  - date published: 2019-08-22 09:09:32+00:00
  - user: rumpel
- - tags: ['gillette', 'woke', 'go woke go broke']
+ - tags: ['gillette', 'the left wing', 'go woke go broke']
 
 ## Why Are So Many Developers Hating on Object-Oriented Programming?
  - [https://thenewstack.io/why-are-so-many-developers-hating-on-object-oriented-programming/](https://thenewstack.io/why-are-so-many-developers-hating-on-object-oriented-programming/)
@@ -338,7 +344,7 @@
  - [https://www.cnn.com/2019/08/14/media/uk-adverts-banned-gender-stereotypes-scli-gbr-intl/index.html](https://www.cnn.com/2019/08/14/media/uk-adverts-banned-gender-stereotypes-scli-gbr-intl/index.html)
  - date published: 2019-08-14 11:27:26+00:00
  - user: rumpel
- - tags: ['social engineering', 'woke']
+ - tags: ['social engineering', 'the left wing']
 
 ## A HIDDEN LIFE - official trailer for Franz Jägerstätter
  - [https://www.youtube.com/watch?v=qJXmdY4lVR0](https://www.youtube.com/watch?v=qJXmdY4lVR0)
@@ -350,7 +356,7 @@
  - [https://www.foxnews.com/us/jeffrey-epstein-former-cellmate-apparent-suicide-attempt](https://www.foxnews.com/us/jeffrey-epstein-former-cellmate-apparent-suicide-attempt)
  - date published: 2019-08-12 12:17:45+00:00
  - user: None
- - tags: ['jeffrey epstein', 'prison cell']
+ - tags: ['jeffrey epstein']
 
 ## Death of Jeffrey Epstein
  - [https://en.wikipedia.org/wiki/Death_of_Jeffrey_Epstein](https://en.wikipedia.org/wiki/Death_of_Jeffrey_Epstein)
@@ -386,7 +392,7 @@
  - [https://www.youtube.com/watch?v=J0a0fllObFk](https://www.youtube.com/watch?v=J0a0fllObFk)
  - date published: 2019-07-30 08:48:08+00:00
  - user: rumpel
- - tags: ['transgender', 'gender', 'woke', 'lgbt']
+ - tags: ['transgender', 'gender', 'the left wing', 'lgbt']
 
 ## Ben Shapiro Vs Climate Change | UBC Talk
  - [https://www.youtube.com/watch?v=wRk1p8Lzwvo](https://www.youtube.com/watch?v=wRk1p8Lzwvo)
@@ -398,7 +404,7 @@
  - [https://edition.cnn.com/2019/07/22/tech/google-street-view-privacy-lawsuit-settlement/index.html](https://edition.cnn.com/2019/07/22/tech/google-street-view-privacy-lawsuit-settlement/index.html)
  - date published: 2019-07-25 08:49:32+00:00
  - user: rumpel
- - tags: ['google', 'privacy', 'street', 'surveillance']
+ - tags: ['google', 'privacy', 'surveillance', 'law', 'corporatocracy']
 
 ## Public Library Deletes Pictures Of Drag Queens Fondling Children At Story Hour
  - [https://thefederalist.com/2019/07/22/public-library-deletes-pictures-drag-queens-fondling-children-story-hour/](https://thefederalist.com/2019/07/22/public-library-deletes-pictures-drag-queens-fondling-children-story-hour/)
@@ -470,7 +476,7 @@
  - [https://www.cnn.com/2019/06/14/media/uk-gender-stereotypes-advertising-ban-scli-gbr-intl/index.html](https://www.cnn.com/2019/06/14/media/uk-gender-stereotypes-advertising-ban-scli-gbr-intl/index.html)
  - date published: 2019-06-14 11:32:55+00:00
  - user: rumpel
- - tags: ['social engineering', 'stereotypes', 'woke']
+ - tags: ['social engineering', 'stereotypes', 'the left wing']
 
 ## Report: The U.S. Military Emits More CO2 Than Many Industrialized Nations [Infographic]
  - [https://www.forbes.com/sites/niallmccarthy/2019/06/13/report-the-u-s-military-emits-more-co2-than-many-industrialized-nations-infographic/?sh=678b045e4372](https://www.forbes.com/sites/niallmccarthy/2019/06/13/report-the-u-s-military-emits-more-co2-than-many-industrialized-nations-infographic/?sh=678b045e4372)
@@ -494,7 +500,13 @@
  - [https://www.fastcompany.com/90344150/this-credit-card-wont-let-you-buy-anything-else-after-youve-hit-your-annual-carbon-limit](https://www.fastcompany.com/90344150/this-credit-card-wont-let-you-buy-anything-else-after-youve-hit-your-annual-carbon-limit)
  - date published: 2019-06-05 06:39:22+00:00
  - user: rumpel
- - tags: ['carbon limit', 'digital money', 'tech control', 'cbdc']
+ - tags: ['carbon limit', 'technofeudalism', 'cbdc']
+
+## US Catholic Church spent $300 million on abuse-related costs in 12 months
+ - [https://www.cnn.com/2019/06/04/us/catholic-church-300-million-abuse-claims/index.html](https://www.cnn.com/2019/06/04/us/catholic-church-300-million-abuse-claims/index.html)
+ - date published: 2019-06-04 22:39:57+00:00
+ - user: rumpel
+ - tags: ['church']
 
 ## Why should you read “The Master and Margarita”? - Alex Gendler
  - [https://www.youtube.com/watch?v=miNBicrLiXo](https://www.youtube.com/watch?v=miNBicrLiXo)
@@ -524,7 +536,7 @@
  - [https://thebridgehead.ca/2019/04/30/pre-teen-drag-kids-highlight-just-how-fast-our-culture-has-crumbled](https://thebridgehead.ca/2019/04/30/pre-teen-drag-kids-highlight-just-how-fast-our-culture-has-crumbled)
  - date published: 2019-04-30 22:11:33+00:00
  - user: rumpel
- - tags: ['children', 'canada', 'drag', 'sexualization', 'indoctrination', 'woke', 'lgbt']
+ - tags: ['children', 'canada', 'drag', 'sexualization', 'indoctrination', 'the left wing', 'lgbt']
 
 ## Satanic Temple Wins IRS Recognition as an Official House of Worship
  - [https://www.bloomberg.com/news/articles/2019-04-26/the-satanic-temple-gets-irs-nod-as-official-house-of-worship](https://www.bloomberg.com/news/articles/2019-04-26/the-satanic-temple-gets-irs-nod-as-official-house-of-worship)
@@ -566,7 +578,7 @@
  - [https://blog.collegevine.com/the-list-of-all-u-s-colleges-with-a-gender-studies-gender-and-sexuality-studies-major/](https://blog.collegevine.com/the-list-of-all-u-s-colleges-with-a-gender-studies-gender-and-sexuality-studies-major/)
  - date published: 2019-04-16 20:07:17+00:00
  - user: rumpel
- - tags: ['universities', 'science is dead', 'gender', 'indoctrination', 'woke']
+ - tags: ['universities', 'science is dead', 'gender', 'indoctrination', 'the left wing']
 
 ## Amazon employees are listening to what you say to Alexa — here's how to stop them
  - [https://www.cnbc.com/2019/04/11/how-to-stop-amazon-from-listening-to-what-you-say-to-alexa.html](https://www.cnbc.com/2019/04/11/how-to-stop-amazon-from-listening-to-what-you-say-to-alexa.html)
@@ -584,7 +596,7 @@
  - [https://www.dailymail.co.uk/news/article-6897269/Workers-transgender-clinic-quit-concerns-unregulated-live-experiments-children.html](https://www.dailymail.co.uk/news/article-6897269/Workers-transgender-clinic-quit-concerns-unregulated-live-experiments-children.html)
  - date published: 2019-04-08 08:58:27+00:00
  - user: rumpel
- - tags: ['transgender', 'family', 'lgbt', 'woke']
+ - tags: ['transgender', 'family', 'lgbt', 'the left wing']
 
 ## The quickest way to get into a fight in a 1960s Australian pub | RetroFocus
  - [https://www.youtube.com/watch?v=esBLinbJydI](https://www.youtube.com/watch?v=esBLinbJydI)
@@ -602,7 +614,7 @@
  - [https://abc13.com/drag-queen-story-time-sex-offender-houston-public-library/5203743/](https://abc13.com/drag-queen-story-time-sex-offender-houston-public-library/5203743/)
  - date published: 2019-03-19 22:14:03+00:00
  - user: rumpel
- - tags: ['children', 'sexualisation', 'libraryreading', 'woke', 'lgbt']
+ - tags: ['lgbt', 'libraryreading', 'rape', 'sexualisation', 'the left wing', 'children']
 
 ## The Flaws of Academic Statistics: the Null Ritual
  - [https://notrelated.xyz/audio/s01/S01E08_-_The_Flaws_of_Academic_Statistics_the_Null_Ritual.mp3](https://notrelated.xyz/audio/s01/S01E08_-_The_Flaws_of_Academic_Statistics_the_Null_Ritual.mp3)
@@ -614,7 +626,7 @@
  - [https://www.theguardian.com/world/2019/mar/08/german-academics-and-authors-call-for-end-to-gender-nonsense](https://www.theguardian.com/world/2019/mar/08/german-academics-and-authors-call-for-end-to-gender-nonsense)
  - date published: 2019-03-08 09:07:02+00:00
  - user: rumpel
- - tags: ['social engineering', 'pronouns', 'science is dead', 'gender', 'newspeak', 'woke']
+ - tags: ['social engineering', 'pronouns', 'science is dead', 'gender', 'newspeak', 'the left wing']
 
 ## Revealed: Facebook’s global lobbying against data privacy laws
  - [https://www.theguardian.com/technology/2019/mar/02/facebook-global-lobbying-campaign-against-data-privacy-laws-investment](https://www.theguardian.com/technology/2019/mar/02/facebook-global-lobbying-campaign-against-data-privacy-laws-investment)
@@ -710,5 +722,5 @@
  - [https://www.youtube.com/watch?v=UEgA8kHuYvs](https://www.youtube.com/watch?v=UEgA8kHuYvs)
  - date published: 2019-01-04 21:28:23+00:00
  - user: rumpel
- - tags: ['woke', 'children', 'lgbt', 'sexualisation']
+ - tags: ['the left wing', 'children', 'lgbt', 'sexualisation']
 

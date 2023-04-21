@@ -110,7 +110,7 @@
  - [https://kotaku.com/the-exceptional-beauty-of-doom-3s-source-code-5975610](https://kotaku.com/the-exceptional-beauty-of-doom-3s-source-code-5975610)
  - date published: 2016-08-22 09:54:50+00:00
  - user: rumpel
- - tags: ['doom3', 'programming', 'games']
+ - tags: ['programming', 'doom', 'games']
 
 ## Coal Burning Causes the Most Air Pollution Deaths in China, Study Finds
  - [https://www.nytimes.com/2016/08/18/world/asia/china-coal-health-smog-pollution.html](https://www.nytimes.com/2016/08/18/world/asia/china-coal-health-smog-pollution.html)
@@ -182,7 +182,7 @@
  - [https://www.youtube.com/watch?v=ULI3x8WIxus](https://www.youtube.com/watch?v=ULI3x8WIxus)
  - date published: 2016-06-05 13:07:32+00:00
  - user: rumpel
- - tags: ['surveillance', 'mcluhan', 'identity']
+ - tags: ['surveillance', 'marshall mcluhan', 'identity']
 
 ## Is my phone powered by child labour? - Amnesty International
  - [https://www.amnesty.org/en/latest/campaigns/2016/06/drc-cobalt-child-labour/](https://www.amnesty.org/en/latest/campaigns/2016/06/drc-cobalt-child-labour/)
@@ -200,7 +200,7 @@
  - [https://nypost.com/2016/05/19/city-issues-new-guidelines-on-transgender-pronouns/](https://nypost.com/2016/05/19/city-issues-new-guidelines-on-transgender-pronouns/)
  - date published: 2016-05-19 11:06:48+00:00
  - user: rumpel
- - tags: ['woke', 'pronouns', 'newspeak']
+ - tags: ['the left wing', 'pronouns', 'newspeak']
 
 ## Social Autopsy! - Ending Anonymity Online [BAD IDEA]
  - [https://www.youtube.com/watch?v=6SARo5HtjkQ](https://www.youtube.com/watch?v=6SARo5HtjkQ)
@@ -248,7 +248,7 @@
  - [https://news.yahoo.com/us-surveillance-merkel-wider-thought-wikileaks-142951516.html](https://news.yahoo.com/us-surveillance-merkel-wider-thought-wikileaks-142951516.html)
  - date published: 2016-02-23 11:48:12+00:00
  - user: None
- - tags: ['surveillance', 'merkel', 'wikileaks', 'big brother', 'all time']
+ - tags: ['big brother', 'all time', 'surveillance', 'wikileaks', 'angela merkel']
 
 ## Lifetime of electrical appliances becoming shorter and shorter
  - [https://www.umweltbundesamt.de/en/press/pressinformation/lifetime-of-electrical-appliances-becoming-shorter](https://www.umweltbundesamt.de/en/press/pressinformation/lifetime-of-electrical-appliances-becoming-shorter)

@@ -194,7 +194,7 @@
  - [https://www.bbc.co.uk/news/uk-politics-59735218](https://www.bbc.co.uk/news/uk-politics-59735218)
  - date published: 2021-12-22 08:35:29.336205+00:00
  - user: Thomas Pain
- - tags: ['gender', 'woke', 'big brother', 'transgender']
+ - tags: ['gender', 'the left wing', 'big brother', 'transgender']
 
 ## McDonald's faces a French fries shortage in Japan - BBC News
  - [https://www.bbc.co.uk/news/business-59750613](https://www.bbc.co.uk/news/business-59750613)
@@ -458,7 +458,7 @@
  - [https://nationalpost.com/news/canada/canada-transgender-treatment](https://nationalpost.com/news/canada/canada-transgender-treatment)
  - date published: 2021-12-03 08:49:22+00:00
  - user: rumpel
- - tags: ['children', 'canada', 'woke', 'lgbt', 'transgender']
+ - tags: ['children', 'canada', 'the left wing', 'lgbt', 'transgender']
 
 ## Microsoft says its own Edge browser is more trustworthy than "so 2008" Google Chrome - Neowin
  - [https://www.neowin.net/news/microsoft-says-its-own-edge-browser-is-more-trustworthy-than-so-2008-google-chrome/](https://www.neowin.net/news/microsoft-says-its-own-edge-browser-is-more-trustworthy-than-so-2008-google-chrome/)
@@ -1022,7 +1022,7 @@
  - [https://www.youtube.com/watch?v=0u8eZcPnWeU](https://www.youtube.com/watch?v=0u8eZcPnWeU)
  - date published: 2021-11-01 10:40:04+00:00
  - user: rumpel
- - tags: ['privacy', 'propaganda', 'surveillance', 'digital money', 'cbdc']
+ - tags: ['surveillance', 'privacy', 'propaganda', 'cbdc']
 
 ## Wacom drawing tablets track the name of every application that you open | Robert Heaton
  - [https://robertheaton.com/2020/02/05/wacom-drawing-tablets-track-name-of-every-application-you-open/](https://robertheaton.com/2020/02/05/wacom-drawing-tablets-track-name-of-every-application-you-open/)
@@ -1052,7 +1052,7 @@
  - [https://www.npr.org/2021/10/30/1049603171/germany-gender-neutral-language-german](https://www.npr.org/2021/10/30/1049603171/germany-gender-neutral-language-german)
  - date published: 2021-10-30 08:09:10+00:00
  - user: rumpel
- - tags: ['newspeak', 'woke', 'social engineering']
+ - tags: ['newspeak', 'the left wing', 'social engineering']
 
 ## Architect Resigns in Protest over UCSB Mega-Dorm - The Santa Barbara Independent
  - [https://www.independent.com/2021/10/28/architect-resigns-in-protest-over-ucsb-mega-dorm/](https://www.independent.com/2021/10/28/architect-resigns-in-protest-over-ucsb-mega-dorm/)
@@ -1064,7 +1064,7 @@
  - [https://cruxnow.com/church-in-europe/2021/10/italys-disputed-homophobia-bill-defeated-in-senate](https://cruxnow.com/church-in-europe/2021/10/italys-disputed-homophobia-bill-defeated-in-senate)
  - date published: 2021-10-29 22:00:47+00:00
  - user: rumpel
- - tags: ['woke', 'inequality', 'lgbt', 'italy']
+ - tags: ['the left wing', 'inequality', 'lgbt', 'italy']
 
 ## Streaming’s dirty secret: how viewing Netflix top 10 creates vast quantity of CO2 | TV streaming | The Guardian
  - [https://www.theguardian.com/tv-and-radio/2021/oct/29/streamings-dirty-secret-how-viewing-netflix-top-10-creates-vast-quantity-of-co2](https://www.theguardian.com/tv-and-radio/2021/oct/29/streamings-dirty-secret-how-viewing-netflix-top-10-creates-vast-quantity-of-co2)
@@ -1076,13 +1076,13 @@
  - [https://www.youtube.com/watch?v=lEkvD5To02U](https://www.youtube.com/watch?v=lEkvD5To02U)
  - date published: 2021-10-29 07:44:54+00:00
  - user: None
- - tags: ['eu', 'contract', 'covid']
+ - tags: ['european union', 'contract', 'covid']
 
 ## US issues first gender-neutral 'X' passport - BBC News
  - [https://www.bbc.co.uk/news/world-us-canada-59076614](https://www.bbc.co.uk/news/world-us-canada-59076614)
  - date published: 2021-10-28 22:00:40.700079+00:00
  - user: Thomas Pain
- - tags: ['woke', 'transgender', 'england', 'gender']
+ - tags: ['the left wing', 'transgender', 'england', 'gender']
 
 ## Viewing website HTML code is not illegal or “hacking,” prof. tells Missouri gov. | Ars Technica
  - [https://arstechnica.com/tech-policy/2021/10/viewing-website-html-code-is-not-illegal-or-hacking-prof-tells-missouri-gov/](https://arstechnica.com/tech-policy/2021/10/viewing-website-html-code-is-not-illegal-or-hacking-prof-tells-missouri-gov/)
@@ -1286,7 +1286,7 @@
  - [https://www.youtube.com/watch?v=O-tJNuHqHW8](https://www.youtube.com/watch?v=O-tJNuHqHW8)
  - date published: 2021-10-18 23:11:12+00:00
  - user: rumpel
- - tags: ['blackrock', 'woke', 'climate change', 'esg']
+ - tags: ['blackrock', 'the left wing', 'climate change', 'esg']
 
 ## The Javascript "ecosystem" is a hot mess and so is software development in general - nadh.in
  - [https://nadh.in/blog/javascript-ecosystem-software-development-are-a-hot-mess/](https://nadh.in/blog/javascript-ecosystem-software-development-are-a-hot-mess/)
@@ -1334,7 +1334,7 @@
  - [https://hackernoon.com/cbdcs-how-dangerous-are-they](https://hackernoon.com/cbdcs-how-dangerous-are-they)
  - date published: 2021-10-15 10:47:45+00:00
  - user: rumpel
- - tags: ['privacy', 'all time', 'surveillance', 'digital money', 'cbdc']
+ - tags: ['surveillance', 'cbdc', 'privacy', 'all time']
 
 ## Missouri governor vows criminal prosecution of reporter who found flaw in state website • Missouri Independent
  - [https://missouriindependent.com/2021/10/14/missouri-governor-vows-criminal-prosecution-of-reporter-who-found-flaw-in-state-website/](https://missouriindependent.com/2021/10/14/missouri-governor-vows-criminal-prosecution-of-reporter-who-found-flaw-in-state-website/)
@@ -1532,7 +1532,7 @@
  - [https://www.pinknews.co.uk/2021/07/13/x-passports-supreme-court-day-2/](https://www.pinknews.co.uk/2021/07/13/x-passports-supreme-court-day-2/)
  - date published: 2021-10-07 05:51:28.844135+00:00
  - user: Thomas Pain
- - tags: ['gender', 'england', 'woke', 'big brother']
+ - tags: ['gender', 'england', 'the left wing', 'big brother']
 
 ## More details about the October 4 outage - Facebook Engineering
  - [https://engineering.fb.com/2021/10/05/networking-traffic/outage-details/](https://engineering.fb.com/2021/10/05/networking-traffic/outage-details/)
@@ -1562,7 +1562,7 @@
  - [https://www.independent.co.uk/news/world/americas/canadian-tribunal-transgender-nonbinary-restaurant-worker-pronouns-b1931972.html](https://www.independent.co.uk/news/world/americas/canadian-tribunal-transgender-nonbinary-restaurant-worker-pronouns-b1931972.html)
  - date published: 2021-10-04 21:54:58+00:00
  - user: rumpel
- - tags: ['inequality', 'big brother', 'newspeak', 'woke', 'lgbt', 'transgender']
+ - tags: ['inequality', 'big brother', 'newspeak', 'the left wing', 'lgbt', 'transgender']
 
 ## The Problem of Marital Loneliness | The New Yorker
  - [https://www.newyorker.com/culture/cultural-comment/the-problem-of-marital-loneliness](https://www.newyorker.com/culture/cultural-comment/the-problem-of-marital-loneliness)
@@ -1574,7 +1574,7 @@
  - [https://www.them.us/story/canadian-court-rules-misgendering-human-rights-violation](https://www.them.us/story/canadian-court-rules-misgendering-human-rights-violation)
  - date published: 2021-10-04 10:41:36+00:00
  - user: rumpel
- - tags: ['woke', 'pronouns', 'newspeak']
+ - tags: ['the left wing', 'pronouns', 'newspeak']
 
 ## Lime fights back against QR code snatchers - BBC News
  - [https://www.bbc.co.uk/news/technology-58680605](https://www.bbc.co.uk/news/technology-58680605)
@@ -1940,7 +1940,7 @@
  - [https://www.psychologytoday.com/us/blog/ethically-speaking/202109/the-paradox-of-virtue-signaling](https://www.psychologytoday.com/us/blog/ethically-speaking/202109/the-paradox-of-virtue-signaling)
  - date published: 2021-09-06 13:33:32+00:00
  - user: rumpel
- - tags: ['hypocrisy', 'black lives matter', 'propaganda', 'blm', 'virtue signaling', 'woke', 'lgbt']
+ - tags: ['hypocrisy', 'black lives matter', 'propaganda', 'blm', 'virtue signaling', 'the left wing', 'lgbt']
 
 ## “Emojibake” are considered harmful | by Fredrick Brennan | Sep, 2021 | Medium
  - [https://fredrickbrennan.medium.com/emojibake-are-considered-harmful-f87e65cf4c6e](https://fredrickbrennan.medium.com/emojibake-are-considered-harmful-f87e65cf4c6e)
@@ -2144,7 +2144,7 @@
  - [https://news.ycombinator.com/item?id=28341737](https://news.ycombinator.com/item?id=28341737)
  - date published: 2021-08-28 14:20:18+00:00
  - user: rumpel
- - tags: ['privacy', 'messaner', 'censorship', 'facebook']
+ - tags: ['censorship', 'facebook', 'messanger', 'privacy']
 
 ## the_future_of_dpy.md
  - [https://gist.github.com/Rapptz/4a2f62751b9600a31a0d3c78100287f1](https://gist.github.com/Rapptz/4a2f62751b9600a31a0d3c78100287f1)
@@ -2318,7 +2318,7 @@
  - [https://www.theguardian.com/culture/2021/aug/24/cancel-me-john-cleese-to-present-channel-4-show-on-woke-thought](https://www.theguardian.com/culture/2021/aug/24/cancel-me-john-cleese-to-present-channel-4-show-on-woke-thought)
  - date published: 2021-08-24 07:29:07+00:00
  - user: rumpel
- - tags: ['cancel culture', 'free speech', 'woke']
+ - tags: ['cancel culture', 'free speech', 'the left wing']
 
 ## Should Your Web History Impact Your Credit Score? The IMF Thinks So - ExtremeTech
  - [https://www.extremetech.com/internet/326088-should-your-web-history-impact-your-credit-score-the-imf-thinks-so](https://www.extremetech.com/internet/326088-should-your-web-history-impact-your-credit-score-the-imf-thinks-so)
@@ -2486,7 +2486,7 @@
  - [https://thecritic.co.uk/being-a-snowflake-is-bad-for-your-mental-health/](https://thecritic.co.uk/being-a-snowflake-is-bad-for-your-mental-health/)
  - date published: 2021-08-09 07:14:51+00:00
  - user: rumpel
- - tags: ['snowflake', 'sjw', 'activism', 'psychology', 'woke']
+ - tags: ['snowflake', 'sjw', 'activism', 'psychology', 'the left wing']
 
 ## The Infrastructure Bill Requires New Cars To Come With Unproven Drunk Driving Detection Technology – Reason.com
  - [https://reason.com/2021/08/06/the-infrastructure-bill-requires-new-cars-to-come-with-unproven-drunk-driving-detection-technology/](https://reason.com/2021/08/06/the-infrastructure-bill-requires-new-cars-to-come-with-unproven-drunk-driving-detection-technology/)
@@ -3260,13 +3260,13 @@
  - [https://www.youtube.com/watch?v=Xprabkl1LD4](https://www.youtube.com/watch?v=Xprabkl1LD4)
  - date published: 2021-07-05 22:29:19+00:00
  - user: rumpel
- - tags: ['children', 'sexualisation', 'indoctrination', 'woke', 'lgbt']
+ - tags: ['children', 'sexualisation', 'indoctrination', 'the left wing', 'lgbt']
 
 ## Coke Faces Down Most Serious Backlash Yet For Their “Woke” Agenda
  - [https://www.redvoicemedia.com/2021/07/coke-faces-down-most-serious-backlash-yet-for-their-woke-agenda/](https://www.redvoicemedia.com/2021/07/coke-faces-down-most-serious-backlash-yet-for-their-woke-agenda/)
  - date published: 2021-07-02 09:10:14+00:00
  - user: rumpel
- - tags: ['woke', 'go woke go broke', 'coke']
+ - tags: ['the left wing', 'go woke go broke', 'coke']
 
 ## A Remarkable Silence: Media Blackout After Key Witness Against Assange Admits Lying
  - [https://www.medialens.org/2021/a-remarkable-silence-media-blackout-after-key-witness-against-assange-admits-lying/](https://www.medialens.org/2021/a-remarkable-silence-media-blackout-after-key-witness-against-assange-admits-lying/)
@@ -3296,7 +3296,7 @@
  - [https://www.youtube.com/watch?v=OHE442ISkUU](https://www.youtube.com/watch?v=OHE442ISkUU)
  - date published: 2021-06-25 22:14:30+00:00
  - user: rumpel
- - tags: ['virtue signalling', 'gender', 'woke', 'white privilege', 'joe rogan', 'sexism']
+ - tags: ['virtue signalling', 'gender', 'the left wing', 'white privilege', 'joe rogan', 'sexism']
 
 ## Is Jesus Historical? What Do The Romans Say About Him?
  - [https://www.youtube.com/watch?v=A41Tm5FDKns](https://www.youtube.com/watch?v=A41Tm5FDKns)
@@ -3398,7 +3398,7 @@
  - [https://www.mumsnet.com/talk/womens_rights/4282164-Anyone-remember-that-Danish-TV-show-pairing-children-with-naked-adults](https://www.mumsnet.com/talk/womens_rights/4282164-Anyone-remember-that-Danish-TV-show-pairing-children-with-naked-adults)
  - date published: 2021-06-07 22:21:55+00:00
  - user: rumpel
- - tags: ['children', 'sexualisation', 'indoctrination', 'woke', 'lgbt']
+ - tags: ['children', 'sexualisation', 'indoctrination', 'the left wing', 'lgbt']
 
 ## The Media's Lab Leak Debacle Shows Why Banning 'Misinformation' Is a Terrible Idea
  - [https://reason.com/2021/06/04/lab-leak-misinformation-media-fauci-covid-19/](https://reason.com/2021/06/04/lab-leak-misinformation-media-fauci-covid-19/)
@@ -3428,7 +3428,7 @@
  - [https://www.npr.org/2021/06/02/1002479412/a-virginia-teacher-was-put-on-leave-after-opposing-a-new-policy-for-trans-studen](https://www.npr.org/2021/06/02/1002479412/a-virginia-teacher-was-put-on-leave-after-opposing-a-new-policy-for-trans-studen)
  - date published: 2021-06-02 21:17:09+00:00
  - user: rumpel
- - tags: ['intolerance', 'usa', 'gender', 'woke', 'lgbt']
+ - tags: ['intolerance', 'usa', 'gender', 'the left wing', 'lgbt']
 
 ## Fauci's Emails Expose His Lies About Masks in Stunning Fashion – RedState
  - [https://redstate.com/bonchie/2021/06/02/faucis-emails-expose-his-lies-about-masks-in-stunning-fashion-n390282](https://redstate.com/bonchie/2021/06/02/faucis-emails-expose-his-lies-about-masks-in-stunning-fashion-n390282)
@@ -3476,13 +3476,13 @@
  - [https://www.reuters.com/world/europe/us-security-agency-spied-merkel-other-top-european-officials-through-danish-2021-05-30/](https://www.reuters.com/world/europe/us-security-agency-spied-merkel-other-top-european-officials-through-danish-2021-05-30/)
  - date published: 2021-05-31 11:51:40+00:00
  - user: None
- - tags: ['surveillance', 'merkel']
+ - tags: ['surveillance', 'angela merkel']
 
 ## 'Blue's Clues' releases LGBTQ-themed sing-along video for Pride Month
  - [https://www.today.com/popculture/blue-s-clues-releases-lgbtq-themed-sing-along-video-pride-t220295](https://www.today.com/popculture/blue-s-clues-releases-lgbtq-themed-sing-along-video-pride-t220295)
  - date published: 2021-05-29 22:28:41+00:00
  - user: rumpel
- - tags: ['children', 'sexualisation', 'indoctrination', 'woke', 'lgbt']
+ - tags: ['children', 'sexualisation', 'indoctrination', 'the left wing', 'lgbt']
 
 ## The Takeover has Already Begun - A Secret Video Reveals All by @RICHARD GRANNON
  - [https://www.youtube.com/watch?v=npkZQGD7LOM](https://www.youtube.com/watch?v=npkZQGD7LOM)
@@ -3608,7 +3608,7 @@
  - [https://www.newsweek.com/neuroscience-professor-removed-apa-discussion-after-saying-there-are-only-two-genders-1591697](https://www.newsweek.com/neuroscience-professor-removed-apa-discussion-after-saying-there-are-only-two-genders-1591697)
  - date published: 2021-05-14 20:54:35+00:00
  - user: rumpel
- - tags: ['intolerance', 'science is dead', 'gender', 'woke', 'censorship']
+ - tags: ['intolerance', 'science is dead', 'gender', 'the left wing', 'censorship']
 
 ## Use of fear to control behaviour in Covid crisis was ‘totalitarian’, admit scientists
  - [https://www.telegraph.co.uk/news/2021/05/14/scientists-admit-totalitarian-use-fear-control-behaviour-covid/](https://www.telegraph.co.uk/news/2021/05/14/scientists-admit-totalitarian-use-fear-control-behaviour-covid/)
@@ -3620,7 +3620,7 @@
  - [https://thepostmillennial.com/get-woke-go-broke-disney-revenues-plummet-after-woke-corporate-culture-revealed](https://thepostmillennial.com/get-woke-go-broke-disney-revenues-plummet-after-woke-corporate-culture-revealed)
  - date published: 2021-05-14 09:08:30+00:00
  - user: rumpel
- - tags: ['disney', 'woke', 'go woke go broke']
+ - tags: ['disney', 'the left wing', 'go woke go broke']
 
 ## Scientist call to investigate the origins of COVID-19
  - [https://www.science.org/doi/10.1126/science.abj0016](https://www.science.org/doi/10.1126/science.abj0016)
@@ -3680,7 +3680,7 @@
  - [https://lukesmith.xyz/articles/conspiratorial-thinking-and-multiple-outs/](https://lukesmith.xyz/articles/conspiratorial-thinking-and-multiple-outs/)
  - date published: 2021-05-05 00:00:00+00:00
  - user: None
- - tags: ['conspiracy theories']
+ - tags: ['conspiracy theory']
 
 ## The Problems with Utilitarianism
  - [https://lukesmith.xyz/articles/the-problems-with-utilitarianism/](https://lukesmith.xyz/articles/the-problems-with-utilitarianism/)
@@ -3746,7 +3746,7 @@
  - [https://www.theguardian.com/books/2021/apr/20/richard-dawkins-loses-humanist-of-the-year-trans-comments?CMP=fb_gu](https://www.theguardian.com/books/2021/apr/20/richard-dawkins-loses-humanist-of-the-year-trans-comments?CMP=fb_gu)
  - date published: 2021-04-21 22:05:57+00:00
  - user: rumpel
- - tags: ['intolerance', 'censorship', 'woke', 'lgbt', 'transgender']
+ - tags: ['intolerance', 'censorship', 'the left wing', 'lgbt', 'transgender']
 
 ## Leaked EU-Pfizer contract shows price for COVID vaccines set at 15.5 euros per dose
  - [https://finance.yahoo.com/news/leaked-eu-pfizer-contract-shows-123021585.html](https://finance.yahoo.com/news/leaked-eu-pfizer-contract-shows-123021585.html)
@@ -3764,7 +3764,7 @@
  - [https://defiantamerica.com/shock-video-children-being-paraded-across-the-stage-urging-them-to-pose-for-cash-at-a-los-angeles-drag-club-in-the-middle-of-the-night/](https://defiantamerica.com/shock-video-children-being-paraded-across-the-stage-urging-them-to-pose-for-cash-at-a-los-angeles-drag-club-in-the-middle-of-the-night/)
  - date published: 2021-04-19 22:15:58+00:00
  - user: rumpel
- - tags: ['children', 'sexualisation', 'indoctrination', 'woke', 'lgbt']
+ - tags: ['children', 'sexualisation', 'indoctrination', 'the left wing', 'lgbt']
 
 ## ‘Covid is just an excuse’: the scandal of Rome’s saturated cemeteries | Italy | The Guardian
  - [https://www.theguardian.com/world/2021/apr/29/shameful-situation-rome-cemeteries-run-out-of-space](https://www.theguardian.com/world/2021/apr/29/shameful-situation-rome-cemeteries-run-out-of-space)
@@ -3800,7 +3800,7 @@
  - [https://www.washingtonexaminer.com/news/cnn-director-boasts-removing-trump-from-office-spreading-propaganda](https://www.washingtonexaminer.com/news/cnn-director-boasts-removing-trump-from-office-spreading-propaganda)
  - date published: 2021-04-13 19:58:50+00:00
  - user: rumpel
- - tags: ['propaganda', 'donald trump']
+ - tags: ['donald trump', 'manufacturing consent', 'propaganda']
 
 ## Why Did the Johnson & Johnson Vaccine Get Suspended and What Comes Next?
  - [https://nationalinterest.org/blog/coronavirus/why-did-johnson-johnson-vaccine-get-suspended-and-what-comes-next-182682](https://nationalinterest.org/blog/coronavirus/why-did-johnson-johnson-vaccine-get-suspended-and-what-comes-next-182682)
@@ -3842,7 +3842,7 @@
  - [https://www.nationalreview.com/news/hundreds-of-transgender-california-inmates-request-transfers-to-womens-prisons/](https://www.nationalreview.com/news/hundreds-of-transgender-california-inmates-request-transfers-to-womens-prisons/)
  - date published: 2021-04-05 19:53:54+00:00
  - user: rumpel
- - tags: ['transgender', 'woke']
+ - tags: ['the left wing', 'transgender', 'rape']
 
 ## If You Sell a House These Days, the Buyer Might Be a Pension Fund
  - [https://www.wsj.com/articles/if-you-sell-a-house-these-days-the-buyer-might-be-a-pension-fund-11617544801](https://www.wsj.com/articles/if-you-sell-a-house-these-days-the-buyer-might-be-a-pension-fund-11617544801)
@@ -3974,7 +3974,7 @@
  - [https://www.politico.eu/article/debate-over-gender-inclusive-neutral-language-divides-germany/](https://www.politico.eu/article/debate-over-gender-inclusive-neutral-language-divides-germany/)
  - date published: 2021-03-08 08:09:50+00:00
  - user: rumpel
- - tags: ['newspeak', 'germany', 'woke']
+ - tags: ['newspeak', 'germany', 'the left wing']
 
 ## Ex-Times Reporter Who Used Racial Slur Publishes a Lengthy Defense - The New York Times
  - [https://www.nytimes.com/2021/03/01/business/donald-mcneil-new-york-times-racial-slur.html](https://www.nytimes.com/2021/03/01/business/donald-mcneil-new-york-times-racial-slur.html)
@@ -3998,7 +3998,7 @@
  - [https://www.youtube.com/watch?v=Krf0Cm-FKro](https://www.youtube.com/watch?v=Krf0Cm-FKro)
  - date published: 2021-02-25 08:33:35+00:00
  - user: rumpel
- - tags: ['gender', 'rand paul', 'woke', 'rachel levine']
+ - tags: ['gender', 'rand paul', 'the left wing', 'rachel levine']
 
 ## Biden’s ‘kids in cages’ prove his hypocrisy on immigration
  - [https://nypost.com/2021/02/24/bidens-kids-in-cages-prove-his-hypocrisy-on-immigration/](https://nypost.com/2021/02/24/bidens-kids-in-cages-prove-his-hypocrisy-on-immigration/)
@@ -4076,7 +4076,7 @@
  - [https://www.foxnews.com/politics/aoc-under-fire-amid-details-that-she-wasnt-in-capitol-building-during-riots](https://www.foxnews.com/politics/aoc-under-fire-amid-details-that-she-wasnt-in-capitol-building-during-riots)
  - date published: 2021-02-03 20:45:01+00:00
  - user: rumpel
- - tags: ['january 6']
+ - tags: ['the left wing', 'propaganda', 'january 6']
 
 ## “COVID-19 Jails” Open in Germany for Quarantine Offenders - The New American
  - [https://thenewamerican.com/covid-19-jails-open-in-germany-for-quarantine-offenders/](https://thenewamerican.com/covid-19-jails-open-in-germany-for-quarantine-offenders/)
@@ -4124,7 +4124,7 @@
  - [https://www.cnbc.com/2021/01/25/google-says-pac-wont-fund-congress-members-against-election-results.html](https://www.cnbc.com/2021/01/25/google-says-pac-wont-fund-congress-members-against-election-results.html)
  - date published: 2021-01-25 20:36:52+00:00
  - user: rumpel
- - tags: ['january 6', 'google']
+ - tags: ['manufacturing consent', 'google', 'january 6']
 
 ## Newsom claims lifting lockdown isn't 'political' but critics point to recall threat | AllSides
  - [https://www.allsides.com/news/2021-01-25-2043/newsom-claims-lifting-lockdown-isnt-political-critics-point-recall-threat](https://www.allsides.com/news/2021-01-25-2043/newsom-claims-lifting-lockdown-isnt-political-critics-point-recall-threat)
@@ -4154,13 +4154,13 @@
  - [https://www.breitbart.com/tech/2021/01/21/facebook-gives-fbi-private-messages-of-capitol-hill-protesters/](https://www.breitbart.com/tech/2021/01/21/facebook-gives-fbi-private-messages-of-capitol-hill-protesters/)
  - date published: 2021-01-21 12:26:49+00:00
  - user: None
- - tags: ['surveillance', 'election', 'facebook']
+ - tags: ['surveillance', 'privacy', 'facebook', 'election']
 
 ## Incoming White House Climate Team Blames 'Systemic Racism' for Climate Change
  - [https://freebeacon.com/elections/incoming-white-house-climate-team-blames-systemic-racism-for-climate-change/](https://freebeacon.com/elections/incoming-white-house-climate-team-blames-systemic-racism-for-climate-change/)
  - date published: 2021-01-18 20:30:52+00:00
  - user: rumpel
- - tags: ['woke', 'climate change']
+ - tags: ['the left wing', 'climate change', 'racism']
 
 ## Does the West Actually Care About the Uighur Genocide in China or Is It a Handy Excuse for Conflict?
  - [https://www.theorganicprepper.com/china-uighur-genocide/](https://www.theorganicprepper.com/china-uighur-genocide/)
@@ -4250,7 +4250,7 @@
  - [https://www.businessinsider.com/reddit-bans-donald-trump-forum-us-capitol-rioters-2021-1?IR=T](https://www.businessinsider.com/reddit-bans-donald-trump-forum-us-capitol-rioters-2021-1?IR=T)
  - date published: 2021-01-08 15:02:52+00:00
  - user: rumpel
- - tags: ['january 6']
+ - tags: ['the right wing', 'donald trump', 'january 6']
 
 ## Twitter Suspended Trump's Account Permanently
  - [https://www.businessinsider.com/twitter-suspended-president-donald-trumps-account-permanently-2021-1?IR=T](https://www.businessinsider.com/twitter-suspended-president-donald-trumps-account-permanently-2021-1?IR=T)
@@ -4274,7 +4274,7 @@
  - [https://thehill.com/policy/technology/533204-trump-suspended-indefinitely-from-snapchat/](https://thehill.com/policy/technology/533204-trump-suspended-indefinitely-from-snapchat/)
  - date published: 2021-01-07 15:02:24+00:00
  - user: rumpel
- - tags: ['january 6', 'donald trump', 'snapchat']
+ - tags: ['snapchat', 'donald trump', 'the right wing', 'january 6']
 
 ## Dead Internet Theory: Most of the Internet is Fake
  - [https://forum.agoraroad.com/index.php?threads/dead-internet-theory-most-of-the-internet-is-fake.3011/](https://forum.agoraroad.com/index.php?threads/dead-internet-theory-most-of-the-internet-is-fake.3011/)
@@ -4286,13 +4286,13 @@
  - [https://thehill.com/changing-america/respect/diversity-inclusion/532518-house-introduces-gender-neutral-language-in-new](https://thehill.com/changing-america/respect/diversity-inclusion/532518-house-introduces-gender-neutral-language-in-new)
  - date published: 2021-01-04 21:53:34+00:00
  - user: rumpel
- - tags: ['social engineering', 'pronouns', 'gender', 'newspeak', 'woke', 'lgbt']
+ - tags: ['social engineering', 'pronouns', 'gender', 'newspeak', 'the left wing', 'lgbt']
 
 ## House Democrats open 117th Congress with prayer ending 'amen and a-woman' - Washington Times
  - [https://www.washingtontimes.com/news/2021/jan/3/house-democrats-open-117th-congress-prayer-ending-/](https://www.washingtontimes.com/news/2021/jan/3/house-democrats-open-117th-congress-prayer-ending-/)
  - date published: 2021-01-03 20:13:03+00:00
  - user: rumpel
- - tags: ['woke', 'newspeak']
+ - tags: ['the left wing', 'newspeak']
 
 ## Why am I so Anti-Video Gaymes?
  - [https://www.youtube.com/watch?v=L5xd5yejPBE](https://www.youtube.com/watch?v=L5xd5yejPBE)

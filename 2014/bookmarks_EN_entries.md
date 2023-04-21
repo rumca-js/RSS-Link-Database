@@ -128,7 +128,7 @@
  - [https://www.reuters.com/article/us-mozilla-ceo-resignation/mozilla-ceo-resigns-opposition-to-gay-marriage-drew-fire-idUSBREA321Y320140403](https://www.reuters.com/article/us-mozilla-ceo-resignation/mozilla-ceo-resigns-opposition-to-gay-marriage-drew-fire-idUSBREA321Y320140403)
  - date published: 2014-04-03 09:11:24+00:00
  - user: rumpel
- - tags: ['intolerance', 'woke', 'mozilla']
+ - tags: ['the left wing', 'mozilla', 'intolerance', 'censorship']
 
 ## Heartbleed - Wikipedia
  - [https://en.wikipedia.org/wiki/Heartbleed](https://en.wikipedia.org/wiki/Heartbleed)
@@ -140,5 +140,5 @@
  - [https://www.kansascity.com/news/local/article337100.html](https://www.kansascity.com/news/local/article337100.html)
  - date published: 2014-01-22 07:45:37+00:00
  - user: rumpel
- - tags: ['woke', 'lgbt']
+ - tags: ['the left wing', 'lgbt']
 

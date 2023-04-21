@@ -38,7 +38,7 @@
  - [https://people.com/royals/writer-of-new-netflix-drama-bridgerton-defends-depicting-queen-charlotte-as-black/](https://people.com/royals/writer-of-new-netflix-drama-bridgerton-defends-depicting-queen-charlotte-as-black/)
  - date published: 2020-12-23 09:06:00+00:00
  - user: rumpel
- - tags: ['woke', 'netflix']
+ - tags: ['the left wing', 'netflix']
 
 ## Covid-19 vaccine 'will not be required to access public transport' says French health minister - The Local
  - [https://www.thelocal.fr/20201222/the-everyday-restrictions-people-who-refuse-the-covid-19-vaccine-in-france-could-face](https://www.thelocal.fr/20201222/the-everyday-restrictions-people-who-refuse-the-covid-19-vaccine-in-france-could-face)
@@ -68,7 +68,7 @@
  - [https://www.quora.com/Why-is-Facebook-censoring-private-messages?share=1](https://www.quora.com/Why-is-Facebook-censoring-private-messages?share=1)
  - date published: 2020-12-22 14:19:18+00:00
  - user: rumpel
- - tags: ['privacy', 'messaner', 'censorship', 'facebook']
+ - tags: ['censorship', 'facebook', 'messanger', 'privacy']
 
 ## Biden receives first dose of Covid-19 vaccine on live television
  - [https://www.cnn.com/2020/12/21/politics/bidens-coronavirus-vaccination/index.html](https://www.cnn.com/2020/12/21/politics/bidens-coronavirus-vaccination/index.html)
@@ -206,7 +206,7 @@
  - [https://www.spectator.co.uk/article/eton-was-right-to-sack-will-knowland/](https://www.spectator.co.uk/article/eton-was-right-to-sack-will-knowland/)
  - date published: 2020-12-03 20:33:35+00:00
  - user: rumpel
- - tags: ['feminism', 'inequality', 'patriarchy', 'gender', 'woke', 'censorship']
+ - tags: ['feminism', 'inequality', 'patriarchy', 'gender', 'the left wing', 'censorship']
 
 ## California plans sweeping stay-at-home order as Covid cases surge | California | The Guardian
  - [https://www.theguardian.com/us-news/2020/dec/03/california-covid-restrictions-stay-at-home-order](https://www.theguardian.com/us-news/2020/dec/03/california-covid-restrictions-stay-at-home-order)
@@ -266,7 +266,7 @@
  - [https://www.dailymail.co.uk/news/article-8993007/New-Jersey-Starbucks-barista-claims-fired-refusing-wear-Pride-T-shirt.html](https://www.dailymail.co.uk/news/article-8993007/New-Jersey-Starbucks-barista-claims-fired-refusing-wear-Pride-T-shirt.html)
  - date published: 2020-11-27 22:05:08+00:00
  - user: rumpel
- - tags: ['intolerance', 'woke', 'lgbt', 'usa']
+ - tags: ['intolerance', 'the left wing', 'lgbt', 'usa']
 
 ## You Own Nothing: The True Cost of Digital Media
  - [https://www.youtube.com/watch?v=iSGu_P185s4](https://www.youtube.com/watch?v=iSGu_P185s4)
@@ -380,7 +380,7 @@
  - [https://news.trust.org/item/20201110191107-tecjt/](https://news.trust.org/item/20201110191107-tecjt/)
  - date published: 2020-11-10 22:01:46+00:00
  - user: rumpel
- - tags: ['hate speech', 'censorship', 'norway', 'woke', 'lgbt', 'transgender']
+ - tags: ['hate speech', 'censorship', 'norway', 'the left wing', 'lgbt', 'transgender']
 
 ## Coronavirus: Britons should be paid to take COVID-19 vaccine, says Oxford professor | UK News | Sky News
  - [https://news.sky.com/story/coronavirus-britons-should-be-paid-to-take-covid-19-vaccine-says-oxford-professor-12125012](https://news.sky.com/story/coronavirus-britons-should-be-paid-to-take-covid-19-vaccine-says-oxford-professor-12125012)
@@ -392,7 +392,7 @@
  - [https://www.reuters.com/article/us-netherlands-lgbt-asylum-trfn-idUSKBN27L29M](https://www.reuters.com/article/us-netherlands-lgbt-asylum-trfn-idUSKBN27L29M)
  - date published: 2020-11-05 21:05:40+00:00
  - user: rumpel
- - tags: ['netherlands', 'inequality', 'homosexuality', 'woke', 'lgbt']
+ - tags: ['netherlands', 'inequality', 'homosexuality', 'the left wing', 'lgbt']
 
 ## Deconstructing the Lebanese central bank’s Ponzi scheme | The Economist
  - [https://www.economist.com/finance-and-economics/2020/11/05/deconstructing-the-lebanese-central-banks-ponzi-scheme](https://www.economist.com/finance-and-economics/2020/11/05/deconstructing-the-lebanese-central-banks-ponzi-scheme)
@@ -423,6 +423,12 @@
  - date published: 2020-10-27 20:11:38+00:00
  - user: rumpel
  - tags: ['open source', 'youtube-dl', 'github']
+
+## Introducing homo augmentus - Nokia Bell Labs
+ - [https://www.bell-labs.com/institute/blog/introducing-homo-augmentus/](https://www.bell-labs.com/institute/blog/introducing-homo-augmentus/)
+ - date published: 2020-10-27 10:07:50+00:00
+ - user: rumpel
+ - tags: ['transhumanism']
 
 ## The Heinous Background of WHO Director-General Tedros Adhanom Ghebreyesus
  - [https://www.rodefshalom613.org/2020/10/the-heinous-background-of-who-director-general-tedros-adhanom-ghebreyesus/](https://www.rodefshalom613.org/2020/10/the-heinous-background-of-who-director-general-tedros-adhanom-ghebreyesus/)
@@ -512,7 +518,7 @@
  - [https://www.youtube.com/watch?v=dE8p-mcFdNg](https://www.youtube.com/watch?v=dE8p-mcFdNg)
  - date published: 2020-10-02 11:39:09+00:00
  - user: rumpel
- - tags: ['propaganda', 'woke', 'socialism', 'social engineering', 'grievance']
+ - tags: ['propaganda', 'the left wing', 'socialism', 'social engineering', 'grievance']
 
 ## Aldous Huxley - The Most Brutally Honest 8 Minutes Of Your Life!
  - [https://www.youtube.com/watch?v=67fm4D5Ii6E](https://www.youtube.com/watch?v=67fm4D5Ii6E)
@@ -596,13 +602,13 @@
  - [https://variety.com/2020/digital/news/netflix-defends-cuties-against-sexualization-young-girls-1234766347/](https://variety.com/2020/digital/news/netflix-defends-cuties-against-sexualization-young-girls-1234766347/)
  - date published: 2020-09-10 08:25:33+00:00
  - user: rumpel
- - tags: ['woke', 'cuties', 'netflix', 'children', 'sexualization']
+ - tags: ['the left wing', 'cuties', 'netflix', 'children', 'sexualization']
 
 ## Oscars' woke quota will backfire on Hollywood spectacularly
  - [https://nypost.com/2020/09/09/oscars-woke-quota-will-backfire-on-hollywood-spectacularly/](https://nypost.com/2020/09/09/oscars-woke-quota-will-backfire-on-hollywood-spectacularly/)
  - date published: 2020-09-09 14:51:17+00:00
  - user: rumpel
- - tags: ['socialism', 'oscars', 'hollywood', 'woke']
+ - tags: ['socialism', 'oscars', 'hollywood', 'the left wing']
 
 ## Rak jest groźniejszy niż koronawirus!
  - [https://wco.pl/2020/09/09/rak-jest-grozniejszy-niz-koronawirus/](https://wco.pl/2020/09/09/rak-jest-grozniejszy-niz-koronawirus/)
@@ -614,7 +620,7 @@
  - [https://www.euronews.com/2020/07/09/norway-will-prioritise-lesbian-gay-bisexual-and-transgender-refugees](https://www.euronews.com/2020/07/09/norway-will-prioritise-lesbian-gay-bisexual-and-transgender-refugees)
  - date published: 2020-09-07 21:01:23+00:00
  - user: rumpel
- - tags: ['woke', 'norway', 'inequality', 'lgbt']
+ - tags: ['the left wing', 'norway', 'inequality', 'lgbt']
 
 ## Forget TikTok. China’s Powerhouse App Is WeChat. - The New York Times
  - [https://www.nytimes.com/2020/09/04/technology/wechat-china-united-states.html](https://www.nytimes.com/2020/09/04/technology/wechat-china-united-states.html)
@@ -644,13 +650,13 @@
  - [https://southfloridagaynews.com/National/california-acts-to-increase-lgbt-racial-diversity-on-corporate-boards.html](https://southfloridagaynews.com/National/california-acts-to-increase-lgbt-racial-diversity-on-corporate-boards.html)
  - date published: 2020-09-02 21:12:40+00:00
  - user: rumpel
- - tags: ['woke', 'socialism', 'inequality', 'lgbt']
+ - tags: ['the left wing', 'socialism', 'inequality', 'lgbt']
 
 ## Academics Are Really, Really Worried About Their Freedom
  - [https://www.theatlantic.com/ideas/archive/2020/09/academics-are-really-really-worried-about-their-freedom/615724/](https://www.theatlantic.com/ideas/archive/2020/09/academics-are-really-really-worried-about-their-freedom/615724/)
  - date published: 2020-09-01 22:02:49+00:00
  - user: rumpel
- - tags: ['woke', 'science', 'cancel culture', 'censorship', 'science is dead', 'race']
+ - tags: ['the left wing', 'science', 'cancel culture', 'censorship', 'science is dead', 'race']
 
 ## Google Meet, Microsoft Teams, Webex Privacy Issues - Consumer Reports
  - [https://www.consumerreports.org/video-conferencing-services/videoconferencing-privacy-issues-google-microsoft-webex-a7383469308/](https://www.consumerreports.org/video-conferencing-services/videoconferencing-privacy-issues-google-microsoft-webex-a7383469308/)
@@ -704,7 +710,7 @@
  - [https://www.theeastafrican.co.ke/tea/news/east-africa/us-tells-kenya-to-support-israel-or-forget-free-trade-deal-2304192](https://www.theeastafrican.co.ke/tea/news/east-africa/us-tells-kenya-to-support-israel-or-forget-free-trade-deal-2304192)
  - date published: 2020-08-21 12:51:44+00:00
  - user: None
- - tags: ['us', 'israel']
+ - tags: ['israel', 'usa']
 
 ## US coronavirus deaths could top 6,000 a day by December in worst-case scenario, expert predicts
  - [https://edition.cnn.com/world/live-news/coronavirus-pandemic-08-21-20-intl#h_e869402891201d42d0937c0fe789a1df](https://edition.cnn.com/world/live-news/coronavirus-pandemic-08-21-20-intl#h_e869402891201d42d0937c0fe789a1df)
@@ -716,7 +722,7 @@
  - [https://www.cleveland19.com/2020/08/18/goodyear-employees-say-new-zero-tolerance-policy-akron-hq-is-discriminatory/](https://www.cleveland19.com/2020/08/18/goodyear-employees-say-new-zero-tolerance-policy-akron-hq-is-discriminatory/)
  - date published: 2020-08-19 21:11:08+00:00
  - user: rumpel
- - tags: ['woke', 'politics', 'inequality', 'lgbt']
+ - tags: ['the left wing', 'politics', 'inequality', 'lgbt']
 
 ## New P2P botnet infects SSH servers all over the world
  - [https://arstechnica.com/information-technology/2020/08/new-p2p-botnet-infects-ssh-servers-all-over-the-world/](https://arstechnica.com/information-technology/2020/08/new-p2p-botnet-infects-ssh-servers-all-over-the-world/)
@@ -818,13 +824,13 @@
  - [https://www.dailymail.co.uk/news/article-8568833/Paedophile-Labour-councillor-worked-childrens-home-walks-free.html](https://www.dailymail.co.uk/news/article-8568833/Paedophile-Labour-councillor-worked-childrens-home-walks-free.html)
  - date published: 2020-07-28 21:09:04+00:00
  - user: rumpel
- - tags: ['woke', 'paedophilia', 'inequality', 'lgbt']
+ - tags: ['the left wing', 'paedophilia', 'inequality', 'lgbt']
 
 ## INSANE: Netflix Pushes Trans Propaganda On KIDS Show; Shapiro Responds
  - [https://www.youtube.com/watch?v=HxbOM6swuTg](https://www.youtube.com/watch?v=HxbOM6swuTg)
  - date published: 2020-07-27 09:07:25+00:00
  - user: rumpel
- - tags: ['woke', 'netflix']
+ - tags: ['the left wing', 'netflix']
 
 ## Moderna gets further $472 million U.S. award for coronavirus vaccine development | Reuters
  - [https://www.reuters.com/article/us-health-coronavirus-moderna-funding-idUSKCN24R0IN](https://www.reuters.com/article/us-health-coronavirus-moderna-funding-idUSKCN24R0IN)
@@ -884,7 +890,7 @@
  - [https://www.youtube.com/watch?v=dw9lmEp7Q6E](https://www.youtube.com/watch?v=dw9lmEp7Q6E)
  - date published: 2020-07-14 09:01:59+00:00
  - user: rumpel
- - tags: ['woke', 'lgbt', 'inequality', 'bafta']
+ - tags: ['the left wing', 'lgbt', 'inequality', 'bafta']
 
 ## McCloskey case: Police seize gun at home of St. Louis couple who pointed weapons at protesters
  - [https://www.cbsnews.com/news/mark-patricia-mccloskey-guns-seized-at-st-louis-home-couple-who-pointed-weapons-at-protesters/](https://www.cbsnews.com/news/mark-patricia-mccloskey-guns-seized-at-st-louis-home-couple-who-pointed-weapons-at-protesters/)
@@ -1058,7 +1064,7 @@
  - [https://hbr.org/2020/06/the-10-commitments-companies-must-make-to-advance-racial-justice](https://hbr.org/2020/06/the-10-commitments-companies-must-make-to-advance-racial-justice)
  - date published: 2020-06-04 09:12:09+00:00
  - user: rumpel
- - tags: ['racism', 'inequality', 'racial', 'indoctrination', 'woke']
+ - tags: ['indoctrination', 'inequality', 'the left wing', 'racism']
 
 ## Blizzard Called Out For BLM Protest Support After Blitzchung Hong Kong Controversy
  - [https://screenrant.com/blizzard-protest-blackout-black-lives-matter-hong-kong/](https://screenrant.com/blizzard-protest-blackout-black-lives-matter-hong-kong/)
@@ -1082,7 +1088,7 @@
  - [https://www.youtube.com/watch?v=iJOb9xHggS4](https://www.youtube.com/watch?v=iJOb9xHggS4)
  - date published: 2020-05-29 07:20:46+00:00
  - user: rumpel
- - tags: ['free speech', 'woke']
+ - tags: ['free speech', 'the left wing']
 
 ## Roko's Basilisk: The Most Terrifying Thought Experiment
  - [https://www.youtube.com/watch?v=ut-zGHLAVLI](https://www.youtube.com/watch?v=ut-zGHLAVLI)
@@ -1298,7 +1304,7 @@
  - [https://www.dailymail.co.uk/news/article-7950655/Mother-trying-transition-son-girl-loses-court-judge-orders-parents-joint-custody.html](https://www.dailymail.co.uk/news/article-7950655/Mother-trying-transition-son-girl-loses-court-judge-orders-parents-joint-custody.html)
  - date published: 2020-01-31 08:51:05+00:00
  - user: rumpel
- - tags: ['family', 'usa', 'woke', 'lgbt', 'transgender']
+ - tags: ['family', 'usa', 'the left wing', 'lgbt', 'transgender']
 
 ## Coronavirus Outbreak: Man lies dead on a street in China
  - [https://www.youtube.com/watch?v=CYKeefzKGOI](https://www.youtube.com/watch?v=CYKeefzKGOI)
@@ -1382,13 +1388,13 @@
  - [https://www.youtube.com/watch?v=WRbaQrb3Jhk](https://www.youtube.com/watch?v=WRbaQrb3Jhk)
  - date published: 2020-01-07 07:37:49+00:00
  - user: rumpel
- - tags: ['cancel culture', 'free speech', 'woke']
+ - tags: ['cancel culture', 'free speech', 'the left wing']
 
 ## A Look Inside Jeffrey Epstein’s Prison Cell
  - [https://www.thecrimemag.com/epsteins-prison-cell/](https://www.thecrimemag.com/epsteins-prison-cell/)
  - date published: 2020-01-05 12:15:41+00:00
  - user: None
- - tags: ['jeffrey epstein', 'prison cell']
+ - tags: ['jeffrey epstein']
 
 ## Why Stakeholder Capitalism Will Fail
  - [https://www.forbes.com/sites/stevedenning/2020/01/05/why-stakeholder-capitalism-will-fail/](https://www.forbes.com/sites/stevedenning/2020/01/05/why-stakeholder-capitalism-will-fail/)

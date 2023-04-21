@@ -14,5 +14,5 @@
  - [https://pch24.pl/mezczyzna-wychowany-przez-lesbijki-to-gwalt-przeciw-mojej-naturze/](https://pch24.pl/mezczyzna-wychowany-przez-lesbijki-to-gwalt-przeciw-mojej-naturze/)
  - date published: 2013-01-15 08:52:33+00:00
  - user: rumpel
- - tags: ['woke', 'lgbt']
+ - tags: ['the left wing', 'lgbt']
 

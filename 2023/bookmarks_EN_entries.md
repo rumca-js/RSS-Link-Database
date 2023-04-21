@@ -1,14 +1,68 @@
+## YouTube demonetizes political commentator Matt Walsh
+ - [https://reclaimthenet.org/youtube-demonetizes-matt-walsh](https://reclaimthenet.org/youtube-demonetizes-matt-walsh)
+ - date published: 2023-04-20 14:52:44+00:00
+ - user: rumpel
+ - tags: ['censorship', 'technofeudalism', 'matt walsh', 'youtube', 'big tech']
+
+## Can ActivityPub save the internet?
+ - [https://www.theverge.com/2023/4/20/23689570/activitypub-protocol-standard-social-network](https://www.theverge.com/2023/4/20/23689570/activitypub-protocol-standard-social-network)
+ - date published: 2023-04-20 14:30:00+00:00
+ - user: rumpel
+ - tags: ['mastodon', 'activitypub', 'internet', 'fediverse']
+
+## Amazon.com: The transHuman Code: How To Program Your Future: 9781626346291: Carlos Moreira, David Fergusson: Books
+ - [https://www.amazon.com/transHuman-Code-Program-Your-Future/dp/1626346291](https://www.amazon.com/transHuman-Code-Program-Your-Future/dp/1626346291)
+ - date published: 2023-04-20 10:01:27+00:00
+ - user: rumpel
+ - tags: ['transhumanism', 'artificial intelligence']
+
+## Christians become a target of Israel's rising far-right
+ - [https://www.nbcnews.com/news/world/israel-palestinians-christians-attacks-holy-land-jewish-extremists-rcna80441](https://www.nbcnews.com/news/world/israel-palestinians-christians-attacks-holy-land-jewish-extremists-rcna80441)
+ - date published: 2023-04-20 10:00:00+00:00
+ - user: rumpel
+ - tags: ['the right wing', 'israel', 'christianophobia']
+
+## OpenAI’s hunger for data is coming back to bite it
+ - [https://www.technologyreview.com/2023/04/19/1071789/openais-hunger-for-data-is-coming-back-to-bite-it/](https://www.technologyreview.com/2023/04/19/1071789/openais-hunger-for-data-is-coming-back-to-bite-it/)
+ - date published: 2023-04-20 04:08:45+00:00
+ - user: rumpel
+ - tags: ['openai', 'law', 'artificial intelligence']
+
+## Record Labels Panic as A.I. Generated Song Becomes Hit Single
+ - [https://darkfutura.substack.com/p/record-labels-panic-as-ai-generated](https://darkfutura.substack.com/p/record-labels-panic-as-ai-generated)
+ - date published: 2023-04-20 02:17:31+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
+
+## Canada’s Liberals shut down debate over online censorship plans
+ - [https://reclaimthenet.org/canadas-liberals-shut-down-debate-over-online-censorship-plans](https://reclaimthenet.org/canadas-liberals-shut-down-debate-over-online-censorship-plans)
+ - date published: 2023-04-19 14:19:07+00:00
+ - user: rumpel
+ - tags: ['censorship', 'moderation', 'canada', 'misinformation', 'bill c-11']
+
 ## Making a Linux home server sleep on idle and wake on demand – the simple way
  - [https://dgross.ca/blog/linux-home-server-auto-sleep/](https://dgross.ca/blog/linux-home-server-auto-sleep/)
  - date published: 2023-04-19 12:05:50+00:00
  - user: rumpel
  - tags: ['selfhost', 'linux', 'smarthome']
 
+## Idaho teacher and LGBT activist arrested on charges of raping 16-year-old boy | The Post Millennial | thepostmillennial.com
+ - [https://thepostmillennial.com/idaho-teacher-and-lgbt-activist-arrested-on-charges-of-raping-16-year-old-boy?utm_campaign=64483&s=09](https://thepostmillennial.com/idaho-teacher-and-lgbt-activist-arrested-on-charges-of-raping-16-year-old-boy?utm_campaign=64483&s=09)
+ - date published: 2023-04-19 09:06:52+00:00
+ - user: rumpel
+ - tags: ['the left wing', 'lgbt', 'rape']
+
 ## Fox and Dominion settle for $787.5m in defamation lawsuit over election lies
  - [https://www.theguardian.com/us-news/2023/apr/18/fox-dominion-settle-us-defamation-lawsuit](https://www.theguardian.com/us-news/2023/apr/18/fox-dominion-settle-us-defamation-lawsuit)
  - date published: 2023-04-18 20:24:44+00:00
  - user: rumpel
- - tags: ['january 6', 'fox news', 'disinformation', 'elections']
+ - tags: ['the right wing', 'elections', 'disinformation', 'fox news', 'january 6']
+
+## Patti LuPone bashes Christian Right as no different from the Taliban in rant on 'The View': 'I could cry'
+ - [https://www.foxnews.com/media/patti-lupone-bashes-christian-right-different-taliban-rant-the-view-could-cry](https://www.foxnews.com/media/patti-lupone-bashes-christian-right-different-taliban-rant-the-view-could-cry)
+ - date published: 2023-04-18 13:35:40+00:00
+ - user: rumpel
+ - tags: ['christianophobia', 'hate speech']
 
 ## Is Elon Musk creating a utopian city? The hellish, heavenly history of company towns
  - [https://www.theguardian.com/society/2023/apr/18/is-elon-musk-creating-a-utopian-city-the-hellish-heavenly-history-of-company-towns](https://www.theguardian.com/society/2023/apr/18/is-elon-musk-creating-a-utopian-city-the-hellish-heavenly-history-of-company-towns)
@@ -20,7 +74,7 @@
  - [https://www.youtube.com/watch?v=yRQB61VWmw8](https://www.youtube.com/watch?v=yRQB61VWmw8)
  - date published: 2023-04-17 20:11:35+00:00
  - user: rumpel
- - tags: ['woke', 'transgender', 'gender']
+ - tags: ['the left wing', 'transgender', 'gender']
 
 ## Panic at Google: Samsung considers dumping search for Bing and ChatGPT
  - [https://arstechnica.com/?p=1932211](https://arstechnica.com/?p=1932211)
@@ -62,7 +116,7 @@
  - [https://www.cbsnews.com/news/google-artificial-intelligence-future-60-minutes-transcript-2023-04-16/?ftag=CNM-00-10aab7d&linkId=210097927](https://www.cbsnews.com/news/google-artificial-intelligence-future-60-minutes-transcript-2023-04-16/?ftag=CNM-00-10aab7d&linkId=210097927)
  - date published: 2023-04-16 19:43:58+00:00
  - user: rumpel
- - tags: ['artificial intelligence']
+ - tags: ['artificial intelligence', 'transhumanism']
 
 ## Christians celebrate Holy Fire ritual under Israeli restrictions
  - [https://www.aljazeera.com/gallery/2023/4/16/christians-celebrate-holy-fire-ritual-under-israeli-restrictions](https://www.aljazeera.com/gallery/2023/4/16/christians-celebrate-holy-fire-ritual-under-israeli-restrictions)
@@ -146,7 +200,7 @@
  - [https://senatedemocrats.wa.gov/liias/2023/04/13/legislation-to-protect-trans-youth-seeking-lifesaving-care-passes-the-house/](https://senatedemocrats.wa.gov/liias/2023/04/13/legislation-to-protect-trans-youth-seeking-lifesaving-care-passes-the-house/)
  - date published: 2023-04-13 09:21:44+00:00
  - user: rumpel
- - tags: ['woke', 'transgender', 'gender', 'big brother']
+ - tags: ['the left wing', 'transgender', 'gender', 'big brother']
 
 ## Axel Springer CEO tried to use Bild to influence the outcome of Germany’s election, leaked messages show | Nieman Journalism Lab
  - [https://www.niemanlab.org/reading/axel-springer-ceo-tried-to-use-bild-to-influence-the-outcome-of-germanys-election-leaked-messages-show/](https://www.niemanlab.org/reading/axel-springer-ceo-tried-to-use-bild-to-influence-the-outcome-of-germanys-election-leaked-messages-show/)
@@ -158,7 +212,7 @@
  - [https://mynorthwest.com/3874975/minors-seeking-gender-affirming-treatment-shelter-without-parents-knowledge-bill/](https://mynorthwest.com/3874975/minors-seeking-gender-affirming-treatment-shelter-without-parents-knowledge-bill/)
  - date published: 2023-04-13 07:28:35+00:00
  - user: rumpel
- - tags: ['big brother', 'family', 'usa', 'gender', 'woke', 'lgbt', 'transgender']
+ - tags: ['big brother', 'family', 'usa', 'gender', 'the left wing', 'lgbt', 'transgender']
 
 ## “You Just Lied!” - Elon Musk DESTROYS BBC Reporter LIVE
  - [https://www.youtube.com/watch?v=JzKA2aLvN1Q](https://www.youtube.com/watch?v=JzKA2aLvN1Q)
@@ -176,7 +230,7 @@
  - [https://www.youtube.com/watch?v=uCYdKeajDdU](https://www.youtube.com/watch?v=uCYdKeajDdU)
  - date published: 2023-04-12 20:00:09+00:00
  - user: rumpel
- - tags: ['blackrock', 'esg', 'woke']
+ - tags: ['blackrock', 'esg', 'the left wing']
 
 ## Alex Berenson Sues Biden, Pfizer Board Member Over Twitter Ban
  - [https://www.theepochtimes.com/alex-berenson-sues-biden-pfizer-board-member-over-twitter-ban_5189521.html](https://www.theepochtimes.com/alex-berenson-sues-biden-pfizer-board-member-over-twitter-ban_5189521.html)
@@ -194,13 +248,13 @@
  - [https://intellectualtakeout.org/2023/04/mrbeast-trans-gen-z-entertainment/](https://intellectualtakeout.org/2023/04/mrbeast-trans-gen-z-entertainment/)
  - date published: 2023-04-12 05:54:08+00:00
  - user: rumpel
- - tags: ['transgender', 'woke', 'egoism']
+ - tags: ['transgender', 'the left wing', 'egoism']
 
 ## GPT-4 Outperforms Elite Crowdworkers, Saving Researchers $500k and 20k hours
  - [https://www.artisana.ai/articles/gpt-4-outperforms-elite-crowdworkers-saving-researchers-usd500-000-and-20](https://www.artisana.ai/articles/gpt-4-outperforms-elite-crowdworkers-saving-researchers-usd500-000-and-20)
  - date published: 2023-04-11 23:09:42+00:00
  - user: rumpel
- - tags: ['artificial intelligence', 'gpt4']
+ - tags: ['artificial intelligence', 'gpt-4']
 
 ## CDC “behavior change” project targeted vaccine critics, was funded by Pfizer and New York “Misinformation Response Unit”
  - [https://reclaimthenet.org/cdc-behavior-change-project-targeted-vaccine-critics](https://reclaimthenet.org/cdc-behavior-change-project-targeted-vaccine-critics)
@@ -226,11 +280,17 @@
  - user: rumpel
  - tags: ['india', 'fact check']
 
+## FBI sought to develop sources in Catholic churches to combat domestic terrorism, docs show
+ - [https://www.foxnews.com/politics/fbi-sought-develop-sources-catholic-churches-internal-documents-show](https://www.foxnews.com/politics/fbi-sought-develop-sources-catholic-churches-internal-documents-show)
+ - date published: 2023-04-10 14:02:04+00:00
+ - user: rumpel
+ - tags: ['fbi', 'christianophobia']
+
 ## Posts distort proposed LGBTQ ‘safety zone’ bill in Canada | AP News
  - [https://apnews.com/article/fact-check-canada-bill-LGBTQ-777684926093](https://apnews.com/article/fact-check-canada-bill-LGBTQ-777684926093)
  - date published: 2023-04-10 07:24:00+00:00
  - user: rumpel
- - tags: ['lgbt', 'woke', 'canada', 'gender']
+ - tags: ['lgbt', 'the left wing', 'canada', 'gender']
 
 ## This Makes Hacking TOO Easy - Flipper Zero
  - [https://www.youtube.com/watch?v=nLIp4wd0oXs](https://www.youtube.com/watch?v=nLIp4wd0oXs)
@@ -278,7 +338,7 @@
  - [https://www.breitbart.com/europe/2023/04/06/ontario-party-pushes-law-banning-protests-near-drag-shows-and-2slgbtqi-events-fines-up-to-25000/](https://www.breitbart.com/europe/2023/04/06/ontario-party-pushes-law-banning-protests-near-drag-shows-and-2slgbtqi-events-fines-up-to-25000/)
  - date published: 2023-04-06 10:43:05+00:00
  - user: rumpel
- - tags: ['woke', 'pronouns', 'newspeak']
+ - tags: ['the left wing', 'pronouns', 'newspeak']
 
 ## AI Is Coming for Voice Actors. Artists Everywhere Should Take Note
  - [https://thewalrus.ca/ai-is-coming-for-voice-actors-artists-everywhere-should-take-note/](https://thewalrus.ca/ai-is-coming-for-voice-actors-artists-everywhere-should-take-note/)
@@ -302,7 +362,7 @@
  - [https://www.filestash.app/2023/04/01/chat-gpt-acting-as-a-ftp-server/](https://www.filestash.app/2023/04/01/chat-gpt-acting-as-a-ftp-server/)
  - date published: 2023-04-05 06:54:05+00:00
  - user: rumpel
- - tags: ['artificial intelligence', 'gpt4']
+ - tags: ['artificial intelligence', 'gpt-4']
 
 ## PWAs in App Stores
  - [https://web.dev/pwas-in-app-stores/](https://web.dev/pwas-in-app-stores/)
@@ -320,13 +380,13 @@
  - [https://www.youtube.com/watch?v=o07kRSvz7yM](https://www.youtube.com/watch?v=o07kRSvz7yM)
  - date published: 2023-04-04 13:00:36+00:00
  - user: rumpel
- - tags: ['artificial intelligence']
+ - tags: ['openai', 'microsoft', 'artificial intelligence']
 
 ## We are hurtling toward a glitchy, spammy, scammy, AI-powered internet
  - [https://www.technologyreview.com/2023/04/04/1070938/we-are-hurtling-toward-a-glitchy-spammy-scammy-ai-powered-internet/](https://www.technologyreview.com/2023/04/04/1070938/we-are-hurtling-toward-a-glitchy-spammy-scammy-ai-powered-internet/)
  - date published: 2023-04-04 12:11:05+00:00
  - user: rumpel
- - tags: ['artificial intelligence']
+ - tags: ['internet', 'artificial intelligence']
 
 ## Acceptable Hate: Assaults on Christianity Go Overlooked | Opinion
  - [https://www.newsweek.com/acceptable-hate-assaults-christianity-go-overlooked-opinion-1791866](https://www.newsweek.com/acceptable-hate-assaults-christianity-go-overlooked-opinion-1791866)
@@ -338,7 +398,7 @@
  - [https://www.nytimes.com/2023/04/04/us/politics/george-soros-bragg-trump.html](https://www.nytimes.com/2023/04/04/us/politics/george-soros-bragg-trump.html)
  - date published: 2023-04-04 09:00:19+00:00
  - user: rumpel
- - tags: ['george soros', 'donald trump']
+ - tags: ['the right wing', 'donald trump', 'george soros']
 
 ## Samsung warns fab employees of ChatGPT after confidential data leaks | TechSpot
  - [https://www.techspot.com/news/98181-samsung-warns-employees-chatgpt-privacy-dangers-following-confidential.html](https://www.techspot.com/news/98181-samsung-warns-employees-chatgpt-privacy-dangers-following-confidential.html)
@@ -350,7 +410,7 @@
  - [https://www.dailymail.co.uk/news/article-11935809/New-Zealand-Prime-Minister-Chris-Hipkins-lost-words-reporter-asks-define-woman.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11935809/New-Zealand-Prime-Minister-Chris-Hipkins-lost-words-reporter-asks-define-woman.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2023-04-04 05:26:05+00:00
  - user: rumpel
- - tags: ['woke', 'what is a woman']
+ - tags: ['the left wing', 'what is a woman']
 
 ## Twitter’s open-source code has references to “Government Requested” influence
  - [https://reclaimthenet.org/twitters-open-source-code-has-references-to-government-requested-influence](https://reclaimthenet.org/twitters-open-source-code-has-references-to-government-requested-influence)
@@ -410,7 +470,7 @@
  - [https://www.politico.eu/article/italian-privacy-regulator-bans-chatgpt/](https://www.politico.eu/article/italian-privacy-regulator-bans-chatgpt/)
  - date published: 2023-03-31 10:49:15+00:00
  - user: rumpel
- - tags: ['chatgpt', 'artificial intelligence']
+ - tags: ['italy', 'chatgpt', 'artificial intelligence']
 
 ## Meta wants EU users to apply for permission to opt out of data collection
  - [https://arstechnica.com/tech-policy/2023/03/facebook-gets-to-decide-whether-eu-users-can-object-to-invasive-targeted-ads/](https://arstechnica.com/tech-policy/2023/03/facebook-gets-to-decide-whether-eu-users-can-object-to-invasive-targeted-ads/)
@@ -434,7 +494,7 @@
  - [https://reclaimthenet.org/digital-euro-to-have-built-in-limitations](https://reclaimthenet.org/digital-euro-to-have-built-in-limitations)
  - date published: 2023-03-30 16:22:24+00:00
  - user: rumpel
- - tags: ['digital money', 'tech control', 'cbdc']
+ - tags: ['cbdc', 'technofeudalism', 'tech control']
 
 ## State Treasurers Reject ESG: You Should Too | Derek Kreifels | EP 344
  - [https://www.youtube.com/watch?v=EwGz8Ab2VB8](https://www.youtube.com/watch?v=EwGz8Ab2VB8)
@@ -488,7 +548,7 @@
  - [https://reclaimthenet.org/twitter-censors-tweets-nashville-shooter](https://reclaimthenet.org/twitter-censors-tweets-nashville-shooter)
  - date published: 2023-03-29 02:34:25+00:00
  - user: rumpel
- - tags: ['transgender', 'woke', 'hate speech', 'christianophobia']
+ - tags: ['transgender', 'the left wing', 'hate speech', 'christianophobia']
 
 ## Microsoft's Software Is Malware
  - [https://www.gnu.org/proprietary/malware-microsoft.en.html](https://www.gnu.org/proprietary/malware-microsoft.en.html)
@@ -566,7 +626,7 @@
  - [https://nypost.com/2023/03/27/agatha-christie-novels-to-be-edited-for-modern-readers/](https://nypost.com/2023/03/27/agatha-christie-novels-to-be-edited-for-modern-readers/)
  - date published: 2023-03-27 12:02:22+00:00
  - user: rumpel
- - tags: ['newspeak', 'woke', 'fahrenheit 451']
+ - tags: ['newspeak', 'the left wing', 'fahrenheit 451']
 
 ## The chat control proposal does not belong in democratic societies
  - [https://mullvad.net/en/chatcontrol](https://mullvad.net/en/chatcontrol)
@@ -578,7 +638,7 @@
  - [https://www.youtube.com/watch?v=yAmuVJ7jkpA](https://www.youtube.com/watch?v=yAmuVJ7jkpA)
  - date published: 2023-03-27 00:00:00+00:00
  - user: rumpel
- - tags: ['newspeak', 'woke', 'fahrenheit 451']
+ - tags: ['newspeak', 'the left wing', 'fahrenheit 451']
 
 ## AI Art is Inevitable
  - [https://www.youtube.com/watch?v=VsXYTunk7OY](https://www.youtube.com/watch?v=VsXYTunk7OY)
@@ -614,7 +674,7 @@
  - [https://edition.cnn.com/2023/03/26/us/digital-blackface-social-media-explainer-blake-cec/index.html](https://edition.cnn.com/2023/03/26/us/digital-blackface-social-media-explainer-blake-cec/index.html)
  - date published: 2023-03-26 07:07:51+00:00
  - user: rumpel
- - tags: ['inequality', 'racism', 'woke', 'black lives matter']
+ - tags: ['inequality', 'racism', 'the left wing', 'black lives matter']
 
 ## The Future is a Dead Mall - Decentraland and the Metaverse
  - [https://www.youtube.com/watch?v=EiZhdpLXZ8Q](https://www.youtube.com/watch?v=EiZhdpLXZ8Q)
@@ -632,7 +692,7 @@
  - [https://thehill.com/opinion/technology/3916458-cancel-culture-is-no-laughing-matter-comedy-on-the-edge/](https://thehill.com/opinion/technology/3916458-cancel-culture-is-no-laughing-matter-comedy-on-the-edge/)
  - date published: 2023-03-24 18:00:00+00:00
  - user: rumpel
- - tags: ['woke', 'cancel culture']
+ - tags: ['the left wing', 'cancel culture']
 
 ## Deutsche Bank is no Credit Suisse, despite investors’ fears | Nils Pratley
  - [https://www.theguardian.com/business/nils-pratley-on-finance/2023/mar/24/deutsche-bank-credit-suisse-investors-shares](https://www.theguardian.com/business/nils-pratley-on-finance/2023/mar/24/deutsche-bank-credit-suisse-investors-shares)
@@ -662,7 +722,7 @@
  - [https://cointelegraph.com/news/the-world-could-be-facing-a-dark-future-thanks-to-cbdcs](https://cointelegraph.com/news/the-world-could-be-facing-a-dark-future-thanks-to-cbdcs)
  - date published: 2023-03-24 06:21:32+00:00
  - user: rumpel
- - tags: ['digital money', 'tech control', 'cbdc']
+ - tags: ['cbdc', 'technofeudalism', 'tech control']
 
 ## Ford will lose $3 billion on electric vehicles in 2023, it says | Ars Technica
  - [https://arstechnica.com/cars/2023/03/ford-will-lose-3-billion-on-electric-vehicles-in-2023-it-says/](https://arstechnica.com/cars/2023/03/ford-will-lose-3-billion-on-electric-vehicles-in-2023-it-says/)
@@ -1016,7 +1076,7 @@
  - [https://www.theguardian.com/us-news/2023/mar/11/republicans-reframing-january-6-attack](https://www.theguardian.com/us-news/2023/mar/11/republicans-reframing-january-6-attack)
  - date published: 2023-03-11 07:00:15+00:00
  - user: rumpel
- - tags: ['january 6']
+ - tags: ['the right wing', 'january 6']
 
 ## The Deception Over Climate is Even Worse Than the Deception Over Covid
  - [https://dailysceptic.org/2023/03/11/the-deception-over-climate-is-even-worse-than-the-deception-over-covid/](https://dailysceptic.org/2023/03/11/the-deception-over-climate-is-even-worse-than-the-deception-over-covid/)
@@ -1077,6 +1137,12 @@
  - date published: 2023-03-09 16:22:19+00:00
  - user: rumpel
  - tags: ['fauci', 'covid']
+
+## THOMAS: The Government wants to control what you watch with Bill C-11 | Toronto Sun
+ - [https://torontosun.com/opinion/columnists/thomas-the-government-wants-to-control-what-you-watch-with-bill-c-11](https://torontosun.com/opinion/columnists/thomas-the-government-wants-to-control-what-you-watch-with-bill-c-11)
+ - date published: 2023-03-09 11:10:36+00:00
+ - user: rumpel
+ - tags: ['censorship', 'moderation', 'canada', 'bill c-11', 'big brother']
 
 ## The FBI Just Admitted It Bought US Location Data
  - [https://www.wired.com/story/fbi-purchase-location-data-wray-senate/](https://www.wired.com/story/fbi-purchase-location-data-wray-senate/)
@@ -1274,7 +1340,7 @@
  - [https://www.theatlantic.com/magazine/archive/2023/04/equity-language-guides-sierra-club-banned-words/673085/](https://www.theatlantic.com/magazine/archive/2023/04/equity-language-guides-sierra-club-banned-words/673085/)
  - date published: 2023-03-02 18:43:54+00:00
  - user: rumpel
- - tags: ['newspeak', 'woke']
+ - tags: ['newspeak', 'the left wing']
 
 ## Matt Hancock: Eight government WhatsApp Covid messages revealed
  - [https://www.bbc.co.uk/news/uk-64823096?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-64823096?at_medium=RSS&at_campaign=KARANGA)
@@ -1310,7 +1376,7 @@
  - [https://www.cnbc.com/2023/03/02/resumes-including-they/them-pronouns-are-more-likely-to-be-overlooked.html](https://www.cnbc.com/2023/03/02/resumes-including-they/them-pronouns-are-more-likely-to-be-overlooked.html)
  - date published: 2023-03-02 07:45:07+00:00
  - user: rumpel
- - tags: ['pronouns', 'newspeak', 'woke']
+ - tags: ['pronouns', 'newspeak', 'the left wing']
 
 ## AGENT ELVIS - Official Trailer (2023) Matthew McConaughey, Johnny Knoxville, Don Cheadle
  - [https://www.youtube.com/watch?v=zFJ6wZHNkd8](https://www.youtube.com/watch?v=zFJ6wZHNkd8)
@@ -1384,6 +1450,12 @@
  - user: rumpel
  - tags: ['rpa', 'south africa', 'crisis']
 
+## Book bans slowly taking over some Florida schools
+ - [https://www.abcactionnews.com/news/state/book-bans-slowly-taking-over-some-florida-schools](https://www.abcactionnews.com/news/state/book-bans-slowly-taking-over-some-florida-schools)
+ - date published: 2023-02-27 07:00:36+00:00
+ - user: rumpel
+ - tags: ['the right wing', 'fahrenheit 451']
+
 ## Lab Leak Most Likely Caused Pandemic, Energy Dept. Says
  - [https://www.nytimes.com/2023/02/26/us/politics/china-lab-leak-coronavirus-pandemic.html](https://www.nytimes.com/2023/02/26/us/politics/china-lab-leak-coronavirus-pandemic.html)
  - date published: 2023-02-27 01:47:02+00:00
@@ -1412,7 +1484,7 @@
  - [https://thehill.com/opinion/judiciary/3873943-yes-hate-speech-is-constitutionally-protected/](https://thehill.com/opinion/judiciary/3873943-yes-hate-speech-is-constitutionally-protected/)
  - date published: 2023-02-25 15:00:00+00:00
  - user: rumpel
- - tags: ['woke', 'cancel culture', 'free speech', 'hate speech', 'newspeak']
+ - tags: ['the left wing', 'cancel culture', 'free speech', 'hate speech', 'newspeak']
 
 ## Signal says it'll shut down in UK if Online Safety Bill approved
  - [https://www.theregister.com/2023/02/25/signal_uk_online_safety_bill/](https://www.theregister.com/2023/02/25/signal_uk_online_safety_bill/)
@@ -1478,7 +1550,7 @@
  - [https://newdiscourses.com/translations-from-the-wokish/](https://newdiscourses.com/translations-from-the-wokish/)
  - date published: 2023-02-23 11:44:36+00:00
  - user: rumpel
- - tags: ['james lindsay', 'newspeak', 'woke', 'grievance']
+ - tags: ['james lindsay', 'newspeak', 'the left wing', 'grievance']
 
 ## Mozilla Foundation - Mozilla Study: Data Privacy Labels for Most Top Apps in Google Play Store are False or Misleading
  - [https://foundation.mozilla.org/en/blog/mozilla-study-data-privacy-labels-for-most-top-apps-in-google-play-store-are-false-or-misleading/](https://foundation.mozilla.org/en/blog/mozilla-study-data-privacy-labels-for-most-top-apps-in-google-play-store-are-false-or-misleading/)
@@ -1526,7 +1598,7 @@
  - [https://nypost.com/2023/02/21/south-parks-brutally-honest-take-on-trans-rights-abortion/](https://nypost.com/2023/02/21/south-parks-brutally-honest-take-on-trans-rights-abortion/)
  - date published: 2023-02-21 12:03:18+00:00
  - user: rumpel
- - tags: ['transgender', 'south park', 'woke', 'abortion']
+ - tags: ['transgender', 'south park', 'the left wing', 'abortion']
 
 ## Opinion | The Mask Mandates Did Nothing. Will Any Lessons Be Learned? - The New York Times
  - [https://www.nytimes.com/2023/02/21/opinion/do-mask-mandates-work.html](https://www.nytimes.com/2023/02/21/opinion/do-mask-mandates-work.html)
@@ -1562,7 +1634,7 @@
  - [https://tvpworld.com/66452162/uk-govt-scheme-flags-shakespeare-lotr-as-key-texts-for-white-supremacists](https://tvpworld.com/66452162/uk-govt-scheme-flags-shakespeare-lotr-as-key-texts-for-white-supremacists)
  - date published: 2023-02-20 09:27:34+00:00
  - user: rumpel
- - tags: ['fahrenheit 451', 'racism', 'white supremacy', 'woke', 'censorship']
+ - tags: ['fahrenheit 451', 'racism', 'white supremacy', 'the left wing', 'censorship']
 
 ## UK tests tracking citizens’ habits, rewarding them for good behavior
  - [https://reclaimthenet.org/uk-tests-tracking-citizens-habits-rewarding-them-for-good-behavior](https://reclaimthenet.org/uk-tests-tracking-citizens-habits-rewarding-them-for-good-behavior)
@@ -1574,7 +1646,7 @@
  - [https://www.foxnews.com/media/woke-california-university-slammed-dehumanized-initiative-encouraging-students-tell-professors](https://www.foxnews.com/media/woke-california-university-slammed-dehumanized-initiative-encouraging-students-tell-professors)
  - date published: 2023-02-19 14:51:49+00:00
  - user: rumpel
- - tags: ['woke', 'racism', 'socialism']
+ - tags: ['the left wing', 'racism', 'socialism']
 
 ## The Norvig – Chomsky Debate on Statistical Learning in AI
  - [http://web.cse.ohio-state.edu/~stiff.4/cse3521/norvig-chomsky.html](http://web.cse.ohio-state.edu/~stiff.4/cse3521/norvig-chomsky.html)
@@ -1634,7 +1706,7 @@
  - [https://www.dailymail.co.uk/news/article-11764775/Yes-Minister-flagged-beleaguered-counter-terror-Prevent-scheme.html](https://www.dailymail.co.uk/news/article-11764775/Yes-Minister-flagged-beleaguered-counter-terror-Prevent-scheme.html)
  - date published: 2023-02-17 09:31:23+00:00
  - user: rumpel
- - tags: ['white supremacy', 'fahrenheit 451', 'woke', 'censorship']
+ - tags: ['white supremacy', 'fahrenheit 451', 'the left wing', 'censorship']
 
 ## The Political Bias of ChatGPT – Extended Analysis
  - [https://davidrozado.substack.com/p/political-bias-chatgpt](https://davidrozado.substack.com/p/political-bias-chatgpt)
@@ -1666,6 +1738,12 @@
  - user: rumpel
  - tags: ['theft', 'intellectual property', 'china', 'espionage']
 
+## Portuguese Catholic Church shaken by report of 5,000 child-victims of sexual abuse
+ - [https://www.lemonde.fr/en/international/article/2023/02/15/portuguese-catholic-church-shaken-by-report-of-5-000-child-victims-of-sexual-abuse_6015830_4.html](https://www.lemonde.fr/en/international/article/2023/02/15/portuguese-catholic-church-shaken-by-report-of-5-000-child-victims-of-sexual-abuse_6015830_4.html)
+ - date published: 2023-02-15 03:09:24+00:00
+ - user: rumpel
+ - tags: ['church', 'portugal']
+
 ## Yes, Elon Musk created a special system for showing you all his tweets first
  - [https://www.theverge.com/2023/2/14/23600358/elon-musk-tweets-algorithm-changes-twitter](https://www.theverge.com/2023/2/14/23600358/elon-musk-tweets-algorithm-changes-twitter)
  - date published: 2023-02-15 01:19:46+00:00
@@ -1682,13 +1760,13 @@
  - [https://www.telegraph.co.uk/news/2023/02/14/words-male-female-should-banned-science-enforce-idea-sex-binary/](https://www.telegraph.co.uk/news/2023/02/14/words-male-female-should-banned-science-enforce-idea-sex-binary/)
  - date published: 2023-02-14 20:51:01+00:00
  - user: rumpel
- - tags: ['newspeak', 'woke']
+ - tags: ['newspeak', 'the left wing']
 
 ## EU Parliament votes to effectively ban new combustion engine cars by 2035
  - [https://www.theverge.com/2023/2/14/23599412/eu-parliament-vote-ban-combustion-engine-cars-vans-2035-law](https://www.theverge.com/2023/2/14/23599412/eu-parliament-vote-ban-combustion-engine-cars-vans-2035-law)
  - date published: 2023-02-14 17:02:55+00:00
  - user: rumpel
- - tags: ['eu', 'electric vehicles', 'climate change']
+ - tags: ['european union', 'electric vehicles', 'climate change']
 
 ## Reddit admits it was hacked and data stolen, says “Don’t panic”
  - [https://nakedsecurity.sophos.com/2023/02/10/reddit-admits-it-was-hacked-and-data-stolen-says-dont-panic/](https://nakedsecurity.sophos.com/2023/02/10/reddit-admits-it-was-hacked-and-data-stolen-says-dont-panic/)
@@ -1826,7 +1904,7 @@
  - [https://www.thefp.com/p/i-thought-i-was-saving-trans-kids](https://www.thefp.com/p/i-thought-i-was-saving-trans-kids)
  - date published: 2023-02-09 20:15:04+00:00
  - user: rumpel
- - tags: ['dysphoria', 'gender', 'woke', 'lgbt', 'transgender']
+ - tags: ['dysphoria', 'gender', 'the left wing', 'lgbt', 'transgender']
 
 ## The OPEN WEB is DYING...
  - [https://www.youtube.com/watch?v=pjTzQJxw-20](https://www.youtube.com/watch?v=pjTzQJxw-20)
@@ -1868,7 +1946,7 @@
  - [https://www.foxnews.com/politics/bill-gates-defense-flying-private-echoes-john-kerry-excuse-jet-setting-around-world](https://www.foxnews.com/politics/bill-gates-defense-flying-private-echoes-john-kerry-excuse-jet-setting-around-world)
  - date published: 2023-02-08 17:05:15+00:00
  - user: rumpel
- - tags: ['bill gates', 'climate change', 'billionaires', 'hipycrisy']
+ - tags: ['hypocrisy', 'billionaires', 'bill gates', 'climate change']
 
 ## How America Took Out The Nord Stream Pipeline
  - [https://seymourhersh.substack.com/p/how-america-took-out-the-nord-stream](https://seymourhersh.substack.com/p/how-america-took-out-the-nord-stream)
@@ -2102,7 +2180,7 @@
  - [https://www.techradar.com/news/top-password-manager-denies-its-entire-database-can-be-stolen](https://www.techradar.com/news/top-password-manager-denies-its-entire-database-can-be-stolen)
  - date published: 2023-01-31 19:13:27+00:00
  - user: rumpel
- - tags: ['open source', 'keepass']
+ - tags: ['keepass', 'open source', 'leak']
 
 ## India’s population will start to shrink sooner than expected (2021)
  - [https://www.economist.com/asia/2021/12/02/indias-population-will-start-to-shrink-sooner-than-expected](https://www.economist.com/asia/2021/12/02/indias-population-will-start-to-shrink-sooner-than-expected)
@@ -2150,7 +2228,7 @@
  - [https://www.dailywire.com/news/google-fired-exec-for-not-being-inclusive-by-favoring-high-performers-lawsuit-alleges](https://www.dailywire.com/news/google-fired-exec-for-not-being-inclusive-by-favoring-high-performers-lawsuit-alleges)
  - date published: 2023-01-30 18:34:52+00:00
  - user: rumpel
- - tags: ['google', 'woke']
+ - tags: ['google', 'the left wing']
 
 ## Dutch Gov’t Plans New Digital ID Project With Canada, Says WEF Initiative Is Done
  - [https://www.theepochtimes.com/dutch-govt-plans-new-digital-id-project-with-canada-says-wef-initiative-is-done_5020401.html](https://www.theepochtimes.com/dutch-govt-plans-new-digital-id-project-with-canada-says-wef-initiative-is-done_5020401.html)
@@ -2348,7 +2426,7 @@
  - [https://www.citadel.org/code_of_conduct.html](https://www.citadel.org/code_of_conduct.html)
  - date published: 2023-01-25 16:14:15+00:00
  - user: rumpel
- - tags: ['code of conduct', 'woke', 'citadel']
+ - tags: ['code of conduct', 'the left wing', 'citadel']
 
 ## POSSE - IndieWeb
  - [https://indieweb.org/POSSE](https://indieweb.org/POSSE)
@@ -2403,6 +2481,12 @@
  - date published: 2023-01-23 13:39:38+00:00
  - user: rumpel
  - tags: ['censorship', 'california', 'covid']
+
+## Attacks against Catholic churches approach 300 incidents since May 2020: report
+ - [https://www.foxnews.com/us/attacks-catholic-churches-approach-300-incidents-may-2020-report](https://www.foxnews.com/us/attacks-catholic-churches-approach-300-incidents-may-2020-report)
+ - date published: 2023-01-23 07:00:06+00:00
+ - user: rumpel
+ - tags: ['christianophobia']
 
 ## Pegasus, Israel and a massacre of Mexican students
  - [https://www.lemonde.fr/en/international/article/2023/01/23/pegasus-israel-and-a-massacre-of-mexican-students_6012654_4.html](https://www.lemonde.fr/en/international/article/2023/01/23/pegasus-israel-and-a-massacre-of-mexican-students_6012654_4.html)
@@ -2546,7 +2630,7 @@
  - [https://en.wikipedia.org/wiki/Richard_von_Coudenhove-Kalergi](https://en.wikipedia.org/wiki/Richard_von_Coudenhove-Kalergi)
  - date published: 2023-01-19 10:18:54+00:00
  - user: rumpel
- - tags: ['immigration', 'conspiracy theory', 'depopulation', 'kalergi']
+ - tags: ['immigration', 'conspiracy theory', 'depopulation', 'coudenhove-kalergi']
 
 ## Scientists are getting eerily good at using WiFi to 'see' people through walls in detail
  - [https://www.vice.com/en/article/y3p7xj/scientists-are-getting-eerily-good-at-using-wifi-to-see-people-through-walls-in-detail](https://www.vice.com/en/article/y3p7xj/scientists-are-getting-eerily-good-at-using-wifi-to-see-people-through-walls-in-detail)
@@ -2564,7 +2648,7 @@
  - [https://www.theguardian.com/commentisfree/2023/jan/18/velma-lesbian-detective-scooby-doo-fans-hate](https://www.theguardian.com/commentisfree/2023/jan/18/velma-lesbian-detective-scooby-doo-fans-hate)
  - date published: 2023-01-18 07:00:38+00:00
  - user: rumpel
- - tags: ['lgbt', 'woke', 'hate speech', 'movies', 'racism']
+ - tags: ['lgbt', 'the left wing', 'hate speech', 'movies', 'racism']
 
 ## Investigation: Ukraine buys huge amounts of Russian fuels from Bulgaria – EURACTIV.com
  - [https://www.euractiv.com/section/global-europe/news/investigation-ukraine-buys-huge-amounts-of-russian-fuels-from-bulgaria/](https://www.euractiv.com/section/global-europe/news/investigation-ukraine-buys-huge-amounts-of-russian-fuels-from-bulgaria/)
@@ -2600,19 +2684,19 @@
  - [https://www.thescottishsun.co.uk/news/10077552/transgender-woman-rape/](https://www.thescottishsun.co.uk/news/10077552/transgender-woman-rape/)
  - date published: 2023-01-17 16:32:36+00:00
  - user: rumpel
- - tags: ['gender', 'woke', 'transgender']
+ - tags: ['the left wing', 'gender', 'transgender', 'rape']
 
 ## Blocking Scotland’s gender bill is no anti-woke crusade. But it’s not a democratic outrage either | Martin Kettle
  - [https://www.theguardian.com/commentisfree/2023/jan/17/blocking-scotland-gender-recognition-bill-rishi-sunak](https://www.theguardian.com/commentisfree/2023/jan/17/blocking-scotland-gender-recognition-bill-rishi-sunak)
  - date published: 2023-01-17 16:32:18+00:00
  - user: rumpel
- - tags: ['woke', 'gender', 'law', 'scotland']
+ - tags: ['the left wing', 'gender', 'law', 'scotland']
 
 ## TAPES: We Investigated a Suburban LGBTQ Pedophile Ring. Here's What We Found.
  - [https://townhall.com/tipsheet/miacathell/2023/01/17/zulock-case-pt-1-n2618219](https://townhall.com/tipsheet/miacathell/2023/01/17/zulock-case-pt-1-n2618219)
  - date published: 2023-01-17 16:12:51+00:00
  - user: rumpel
- - tags: ['paedophilia', 'woke', 'lgbt']
+ - tags: ['the left wing', 'lgbt', 'paedophilia']
 
 ## The FBI Identified a Tor User
  - [https://www.schneier.com/blog/archives/2023/01/the-fbi-identified-a-tor-user.html](https://www.schneier.com/blog/archives/2023/01/the-fbi-identified-a-tor-user.html)
@@ -2744,7 +2828,7 @@
  - [https://www.youtube.com/watch?v=tUWe11I_7Oo](https://www.youtube.com/watch?v=tUWe11I_7Oo)
  - date published: 2023-01-13 23:00:02+00:00
  - user: rumpel
- - tags: ['feminism', 'woke', 'movies', 'propaganda']
+ - tags: ['feminism', 'the left wing', 'movies', 'propaganda']
 
 ## GitHub – pi-hole/pi-hole: A black hole for Internet advertisements
  - [https://github.com/pi-hole/pi-hole](https://github.com/pi-hole/pi-hole)
@@ -2876,7 +2960,7 @@
  - [https://www.cnn.com/2023/01/12/americas/brazil-riots-condemned-polling-intl/index.html](https://www.cnn.com/2023/01/12/americas/brazil-riots-condemned-polling-intl/index.html)
  - date published: 2023-01-12 16:48:09+00:00
  - user: rumpel
- - tags: ['government', 'january 6', 'brazil', 'crisis']
+ - tags: ['the right wing', 'government', 'brazil', 'crisis', 'january 6']
 
 ## The Hidden Consequences Of The Plastic Pollution Crisis
  - [https://www.forbes.com/sites/mariannelehnis/2023/01/12/the-hidden-consequences-of-the-plastic-pollution-crisis/](https://www.forbes.com/sites/mariannelehnis/2023/01/12/the-hidden-consequences-of-the-plastic-pollution-crisis/)
@@ -3038,7 +3122,7 @@
  - [https://reclaimthenet.org/cdc-newspeak/](https://reclaimthenet.org/cdc-newspeak/)
  - date published: 2023-01-09 20:12:54+00:00
  - user: rumpel
- - tags: ['newspeak', 'woke', 'social engineering']
+ - tags: ['newspeak', 'the left wing', 'social engineering']
 
 ## The White House Covid Censorship Machine
  - [https://dailysceptic.org/2023/01/09/the-white-house-covid-censorship-machine/](https://dailysceptic.org/2023/01/09/the-white-house-covid-censorship-machine/)
@@ -3050,7 +3134,7 @@
  - [https://www.cnn.com/2023/01/09/entertainment/lizzo-cancel-culture/index.html](https://www.cnn.com/2023/01/09/entertainment/lizzo-cancel-culture/index.html)
  - date published: 2023-01-09 15:55:11+00:00
  - user: rumpel
- - tags: ['woke', 'cancel culture', 'censorship']
+ - tags: ['the left wing', 'cancel culture', 'censorship']
 
 ## Adobe is almost definitely using your content to train AI
  - [https://www.techradar.com/news/adobe-is-almost-definitely-using-your-content-to-train-ai](https://www.techradar.com/news/adobe-is-almost-definitely-using-your-content-to-train-ai)
@@ -3080,7 +3164,7 @@
  - [https://dailysceptic.org/2023/01/08/how-childline-became-captured-by-trans-ideology/](https://dailysceptic.org/2023/01/08/how-childline-became-captured-by-trans-ideology/)
  - date published: 2023-01-08 15:17:58+00:00
  - user: rumpel
- - tags: ['woke', 'transgender', 'children', 'gender']
+ - tags: ['the left wing', 'transgender', 'children', 'gender']
 
 ## Jordan Peterson releases Ontario College's complaints against him, it's basically a promo for Jordan's Twitter
  - [https://www.louderwithcrowder.com/jordan-peterson-releases-complaint](https://www.louderwithcrowder.com/jordan-peterson-releases-complaint)
@@ -3110,7 +3194,7 @@
  - [https://www.dailymail.co.uk/news/article-11609947/DC-Comics-fans-outraged-new-Batman-plot-sees-Joker-PREGNANT-birth.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11609947/DC-Comics-fans-outraged-new-Batman-plot-sees-Joker-PREGNANT-birth.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2023-01-07 22:18:42+00:00
  - user: rumpel
- - tags: ['woke', 'transgender']
+ - tags: ['the left wing', 'transgender']
 
 ## SteamDeck Destroyed The Linux Steam Marketshare
  - [https://www.youtube.com/watch?v=xbvoyzeQu1M](https://www.youtube.com/watch?v=xbvoyzeQu1M)
@@ -3122,13 +3206,13 @@
  - [https://semiengineering.com/how-secure-are-risc-v-chips/](https://semiengineering.com/how-secure-are-risc-v-chips/)
  - date published: 2023-01-07 17:52:08+00:00
  - user: rumpel
- - tags: ['riscv']
+ - tags: ['risc-v']
 
 ## UK police forces spend £66,000 on LGBT rainbow cars, shoelaces and flags
  - [https://www.telegraph.co.uk/news/2023/01/07/uk-police-forces-spend-66000-lgbt-rainbow-cars-shoelaces-flags/](https://www.telegraph.co.uk/news/2023/01/07/uk-police-forces-spend-66000-lgbt-rainbow-cars-shoelaces-flags/)
  - date published: 2023-01-07 16:24:26+00:00
  - user: rumpel
- - tags: ['lgbt', 'england', 'inequality', 'woke', 'propaganda']
+ - tags: ['lgbt', 'england', 'inequality', 'the left wing', 'propaganda']
 
 ## The creator economy: the top 1% and everyone else
  - [https://therationalist.substack.com/p/the-creator-economy-the-top-1-and](https://therationalist.substack.com/p/the-creator-economy-the-top-1-and)
@@ -3146,7 +3230,7 @@
  - [https://www.theguardian.com/business/2023/jan/07/jack-ma-to-give-up-control-of-chinas-ant-group-firm-says](https://www.theguardian.com/business/2023/jan/07/jack-ma-to-give-up-control-of-chinas-ant-group-firm-says)
  - date published: 2023-01-07 05:38:26+00:00
  - user: rumpel
- - tags: ['antgroup', 'china', 'socialism', 'jackma']
+ - tags: ['socialism', 'antgroup', 'china', 'jack ma']
 
 ## China suspends social media accounts of COVID policy critics
  - [http://www.msn.com/en-us/health/health-news/china-suspends-social-media-accounts-of-covid-policy-critics/ar-AA163Yjc?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/health/health-news/china-suspends-social-media-accounts-of-covid-policy-critics/ar-AA163Yjc?li=BBnbcA1&srcref=rss)
@@ -3176,7 +3260,7 @@
  - [https://www.theguardian.com/education/2023/jan/06/harvard-kennedy-school-blocks-role-former-head-human-rights-watch-israel](https://www.theguardian.com/education/2023/jan/06/harvard-kennedy-school-blocks-role-former-head-human-rights-watch-israel)
  - date published: 2023-01-06 11:00:48+00:00
  - user: rumpel
- - tags: ['antisemitism', 'israel', 'censorship', 'usa']
+ - tags: ['censorship', 'israel', 'antisemitism', 'usa']
 
 ## Six Hardest Truths of 2023
  - [https://www.youtube.com/watch?v=oknQHbKFTZE](https://www.youtube.com/watch?v=oknQHbKFTZE)
@@ -3188,7 +3272,7 @@
  - [https://www.dailymail.co.uk/news/article-11605409/Desperate-father-pleads-pediatrician-wife-NOT-chemically-castrate-son-9.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11605409/Desperate-father-pleads-pediatrician-wife-NOT-chemically-castrate-son-9.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2023-01-06 06:58:31+00:00
  - user: rumpel
- - tags: ['woke', 'transgender']
+ - tags: ['the left wing', 'transgender']
 
 ## Whatever happened to Google Search?
  - [https://www.ft.com/content/228af985-7bf2-4efd-ad73-ae11d1623a58](https://www.ft.com/content/228af985-7bf2-4efd-ad73-ae11d1623a58)
@@ -3224,13 +3308,13 @@
  - [https://www.theepochtimes.com/free-speech-under-threat-from-police-in-scotland-says-index-on-censorship_4964018.html](https://www.theepochtimes.com/free-speech-under-threat-from-police-in-scotland-says-index-on-censorship_4964018.html)
  - date published: 2023-01-05 17:00:25+00:00
  - user: rumpel
- - tags: ['big brother', 'censorship', 'woke', 'free speech']
+ - tags: ['big brother', 'censorship', 'the left wing', 'free speech']
 
 ## No Biological Evidence For ‘Gender Identity’ Exists, Group Of Scientists, Researchers Says
  - [https://www.dailywire.com/news/no-biological-evidence-for-gender-identity-exists-group-of-scientists-researchers-says](https://www.dailywire.com/news/no-biological-evidence-for-gender-identity-exists-group-of-scientists-researchers-says)
  - date published: 2023-01-05 15:55:58+00:00
  - user: rumpel
- - tags: ['gender', 'science is dead', 'science', 'woke']
+ - tags: ['gender', 'science is dead', 'science', 'the left wing']
 
 ## ‘Disruptive’ science has declined
  - [https://www.nature.com/articles/d41586-022-04577-5](https://www.nature.com/articles/d41586-022-04577-5)
@@ -3308,7 +3392,7 @@
  - [https://www.politico.eu/article/what-rich-countries-get-wrong-about-the-eu-budget-east-west-euroskeptic-cohesion-policy/](https://www.politico.eu/article/what-rich-countries-get-wrong-about-the-eu-budget-east-west-euroskeptic-cohesion-policy/)
  - date published: 2023-01-04 12:12:57+00:00
  - user: rumpel
- - tags: ['eu', 'germany']
+ - tags: ['european union', 'germany']
 
 ## What does it look like for the web to lose? - Chris Coyier
  - [https://chriscoyier.net/2023/01/04/what-does-it-look-like-for-the-web-to-lose/](https://chriscoyier.net/2023/01/04/what-does-it-look-like-for-the-web-to-lose/)
@@ -3338,7 +3422,7 @@
  - [https://arstechnica.com/gadgets/2023/01/google-announces-official-android-support-for-risc-v/](https://arstechnica.com/gadgets/2023/01/google-announces-official-android-support-for-risc-v/)
  - date published: 2023-01-03 22:47:11+00:00
  - user: rumpel
- - tags: ['risc', 'android', 'google']
+ - tags: ['google', 'android', 'risc-v']
 
 ## ​​Virgin Islands Attorney General FIRED after naming names in Jeffrey Epstein lawsuit
  - [https://www.louderwithcrowder.com/jeffrey-epstein-virgin-islands](https://www.louderwithcrowder.com/jeffrey-epstein-virgin-islands)
@@ -3362,7 +3446,7 @@
  - [https://www.theepochtimes.com/proposed-electric-vehicle-mandate-will-cost-at-least-99-billion-environment-canada_4958736.html](https://www.theepochtimes.com/proposed-electric-vehicle-mandate-will-cost-at-least-99-billion-environment-canada_4958736.html)
  - date published: 2023-01-03 14:28:45+00:00
  - user: rumpel
- - tags: ['ev', 'electric vehicles']
+ - tags: ['climate change', 'electric vehicles']
 
 ## Start a Fucking Blog
  - [https://startafuckingblog.com/](https://startafuckingblog.com/)
@@ -3375,6 +3459,12 @@
  - date published: 2023-01-03 07:00:00+00:00
  - user: rumpel
  - tags: ['big brother', 'mandates', 'covid']
+
+## PREMIERING 1/3 at 7:30PM ET: Dr. Aaron Kheriaty: Self-Spreading Vaccines, Transhumanist Ideology, and Government Gag Orders—The New Technocracy Threatening Hippocratic Medicine and The Nuremberg Code
+ - [https://www.theepochtimes.com/dr-aaron-kheriaty-self-spreading-vaccines-transhumanist-ideology-and-government-gag-orders-the-new-technocracy-threatening-hippocratic-medicine-and-the-nuremberg-code_4943584.html](https://www.theepochtimes.com/dr-aaron-kheriaty-self-spreading-vaccines-transhumanist-ideology-and-government-gag-orders-the-new-technocracy-threatening-hippocratic-medicine-and-the-nuremberg-code_4943584.html)
+ - date published: 2023-01-03 00:33:57+00:00
+ - user: rumpel
+ - tags: ['transhumanism', 'vaccine', 'technofeudalism', 'covid']
 
 ## Ex-Home Depot CEO blasts ‘socialism’ for killing the US work ethic
  - [http://www.msn.com/en-us/news/technology/ex-home-depot-ceo-blasts-socialism-for-killing-the-us-work-ethic/ar-AA15TUeE?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/ex-home-depot-ceo-blasts-socialism-for-killing-the-us-work-ethic/ar-AA15TUeE?li=BBnbcA1&srcref=rss)
@@ -3422,13 +3512,13 @@
  - [https://www.goldmansachs.com/careers/students/programs/emea/lgbt-student-possibility-program.html](https://www.goldmansachs.com/careers/students/programs/emea/lgbt-student-possibility-program.html)
  - date published: 2023-01-01 21:06:41+00:00
  - user: rumpel
- - tags: ['woke', 'science is dead', 'inequality', 'lgbt']
+ - tags: ['the left wing', 'science is dead', 'inequality', 'lgbt']
 
 ## MHB 2023 Western Europe Conference - Parenting Options for European Gay Men
  - [https://menhavingbabies.org/surrogacy-seminars/brussels/](https://menhavingbabies.org/surrogacy-seminars/brussels/)
  - date published: 2023-01-01 08:46:07+00:00
  - user: rumpel
- - tags: ['children', 'surrogacy', 'woke', 'lgbt']
+ - tags: ['children', 'surrogacy', 'the left wing', 'lgbt']
 
 ## The Twitter Files should disturb liberal critics of Elon Musk – and here’s why | Kenan Malik
  - [https://www.theguardian.com/commentisfree/2023/jan/01/the-twitter-files-should-disturb-liberal-critics-of-elon-musk-and-heres-why](https://www.theguardian.com/commentisfree/2023/jan/01/the-twitter-files-should-disturb-liberal-critics-of-elon-musk-and-heres-why)

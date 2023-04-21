@@ -92,7 +92,7 @@
  - [https://www.tvp.info/50701017/homoseksualisci-moga-kupic-dzieci-trwaja-miedzynarodowe-targi](https://www.tvp.info/50701017/homoseksualisci-moga-kupic-dzieci-trwaja-miedzynarodowe-targi)
  - date published: 2020-11-07 08:46:55+00:00
  - user: rumpel
- - tags: ['children', 'surrogacy', 'woke', 'lgbt']
+ - tags: ['children', 'surrogacy', 'the left wing', 'lgbt']
 
 ## KE ma umowę z Johnson&Johnson na 400 mln dawek szczepionki na Covid-19 - Bankier.pl
  - [https://www.bankier.pl/wiadomosc/KE-ma-umowe-z-Johnson-Johnson-na-400-mln-dawek-szczepionki-na-Covid-19-7985549.html](https://www.bankier.pl/wiadomosc/KE-ma-umowe-z-Johnson-Johnson-na-400-mln-dawek-szczepionki-na-Covid-19-7985549.html)
@@ -110,7 +110,7 @@
  - [https://www.tvp.info/50178233/artykul-o-margot-na-anglojezycznej-wikipedii-z-najwyzszym-poziomem-ochrony-tylko-nieliczni-moga-ingerowac-w-tresc-wieszwiecej](https://www.tvp.info/50178233/artykul-o-margot-na-anglojezycznej-wikipedii-z-najwyzszym-poziomem-ochrony-tylko-nieliczni-moga-ingerowac-w-tresc-wieszwiecej)
  - date published: 2020-10-04 21:09:53+00:00
  - user: rumpel
- - tags: ['woke', 'margot', 'inequality', 'lgbt']
+ - tags: ['the left wing', 'margot', 'inequality', 'lgbt']
 
 ## Powstało izolatorium dla zakażonych koronawirusem | 24jgora.pl
  - [https://24jgora.pl/artykul/powstalo-izolatorium/1085260](https://24jgora.pl/artykul/powstalo-izolatorium/1085260)
@@ -188,7 +188,7 @@
  - [https://noizz.pl/lgbt/norwegia-priorytetowo-przyjmie-uchodzcow-lgbt/zzy65sy](https://noizz.pl/lgbt/norwegia-priorytetowo-przyjmie-uchodzcow-lgbt/zzy65sy)
  - date published: 2020-07-07 21:00:09+00:00
  - user: rumpel
- - tags: ['woke', 'norway', 'inequality', 'lgbt']
+ - tags: ['the left wing', 'norway', 'inequality', 'lgbt']
 
 ## Eksperyment Kentlera. Jak w Niemczech przekazywano dzieci pedofilom
  - [https://www.rp.pl/spoleczenstwo/art654161-eksperyment-kentlera-jak-w-niemczech-przekazywano-dzieci-pedofilom](https://www.rp.pl/spoleczenstwo/art654161-eksperyment-kentlera-jak-w-niemczech-przekazywano-dzieci-pedofilom)

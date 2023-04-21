@@ -8,7 +8,7 @@
  - [https://www.theguardian.com/politics/2007/dec/04/gayrights.immigrationpolicy](https://www.theguardian.com/politics/2007/dec/04/gayrights.immigrationpolicy)
  - date published: 2007-12-04 07:41:10+00:00
  - user: rumpel
- - tags: ['woke', 'lgbt']
+ - tags: ['the left wing', 'lgbt']
 
 ## Aaron Russo Interview
  - [https://www.youtube.com/watch?v=LSGZ4Hkdyg4](https://www.youtube.com/watch?v=LSGZ4Hkdyg4)

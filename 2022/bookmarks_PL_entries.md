@@ -50,19 +50,19 @@
  - [https://spidersweb.pl/autoblog/samochod-elektryczny-zima-ladowanie/](https://spidersweb.pl/autoblog/samochod-elektryczny-zima-ladowanie/)
  - date published: 2022-12-23 07:49:53+00:00
  - user: rumpel
- - tags: ['auta elektryczne', 'ev', 'electric vehicles']
+ - tags: ['climate change', 'electric vehicles']
 
 ## Hiszpania o krok od nowej ustawy o uznaniu płci. Deklarację będą mogli składać już 14-latkowie
  - [https://tvn24.pl/swiat/hiszpania-deputowani-przyjeli-ustawe-umozliwiajaca-zmiane-plci-14-latkom-6550172?source=rss](https://tvn24.pl/swiat/hiszpania-deputowani-przyjeli-ustawe-umozliwiajaca-zmiane-plci-14-latkom-6550172?source=rss)
  - date published: 2022-12-23 06:58:30+00:00
  - user: rumpel
- - tags: ['transgender', 'woke', 'spain']
+ - tags: ['transgender', 'the left wing', 'spain']
 
 ## Klatka Skinnera
  - [https://pl.m.wikipedia.org/wiki/Klatka_Skinnera](https://pl.m.wikipedia.org/wiki/Klatka_Skinnera)
  - date published: 2022-12-21 18:57:21+00:00
  - user: None
- - tags: ['propaganda', 'science']
+ - tags: ['social media', 'science', 'propaganda']
 
 ## Okno Overtona
  - [https://pl.m.wikipedia.org/wiki/Okno_Overtona](https://pl.m.wikipedia.org/wiki/Okno_Overtona)
@@ -254,7 +254,7 @@
  - [https://www.bankier.pl/wiadomosc/Wenezuela-i-Kolumbia-zapowiedzialy-calkowita-integracje-swoich-gospodarek-8432274.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Wenezuela-i-Kolumbia-zapowiedzialy-calkowita-integracje-swoich-gospodarek-8432274.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date published: 2022-11-02 04:14:00+00:00
  - user: None
- - tags: ['columbia', 'venesuela']
+ - tags: ['venezuela', 'columbia']
 
 ## Koreańczycy zbudują elektrownię atomową w Polsce. "Budują w budżecie i w terminie"
  - [https://www.polsatnews.pl/wiadomosc/2022-11-01/koreanczycy-zbuduja-elektrownie-atomowa-w-polsce-buduja-w-budzecie-i-w-terminie/](https://www.polsatnews.pl/wiadomosc/2022-11-01/koreanczycy-zbuduja-elektrownie-atomowa-w-polsce-buduja-w-budzecie-i-w-terminie/)
@@ -302,7 +302,7 @@
  - [https://wydarzenia.interia.pl/zagranica/news-telefon-liz-truss-zhakowany-media-wyciekly-tajne-dane,nId,6380088](https://wydarzenia.interia.pl/zagranica/news-telefon-liz-truss-zhakowany-media-wyciekly-tajne-dane,nId,6380088)
  - date published: 2022-10-30 08:43:22+00:00
  - user: None
- - tags: ['liz truss', 'smartphones', 'security', 'politics', 'spy']
+ - tags: ['liz truss', 'security', 'politics', 'leak', 'espionage', 'smartphone']
 
 ## Chiny znów objęły lockdownem ponad 200 mln osób. Winne: nowe warianty COVID-19
  - [https://www.bankier.pl/wiadomosc/Chiny-znow-objely-lockdownem-ponad-200-mln-osob-Winne-nowe-warianty-COVID-19-8431271.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Chiny-znow-objely-lockdownem-ponad-200-mln-osob-Winne-nowe-warianty-COVID-19-8431271.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -404,7 +404,7 @@
  - [https://www.polsatnews.pl/wiadomosc/2022-10-24/usa-odmowila-upieczenia-tortu-na-slub-homoseksualnej-pary-sad-przyznal-jej-racje/](https://www.polsatnews.pl/wiadomosc/2022-10-24/usa-odmowila-upieczenia-tortu-na-slub-homoseksualnej-pary-sad-przyznal-jej-racje/)
  - date published: 2022-10-24 13:27:00+00:00
  - user: None
- - tags: ['usa', 'woke', 'lgbt']
+ - tags: ['usa', 'the left wing', 'lgbt']
 
 ## Chińskie procesory graficzne Biren nie zostaną wyprodukowane przez TSMC. Powodem są ograniczenia USA
  - [https://ithardware.pl/aktualnosci/chinskie_procesory_graficzne_biren_nie_zostana_wyprodukowane_przez_tsmc_powodem_sa_ograniczenia_usa-23980.html](https://ithardware.pl/aktualnosci/chinskie_procesory_graficzne_biren_nie_zostana_wyprodukowane_przez_tsmc_powodem_sa_ograniczenia_usa-23980.html)
@@ -482,7 +482,7 @@
  - [https://wydarzenia.interia.pl/zagranica/news-aktywistki-oblaly-zupa-slynne-dzielo-van-gogha,nId,6347907](https://wydarzenia.interia.pl/zagranica/news-aktywistki-oblaly-zupa-slynne-dzielo-van-gogha,nId,6347907)
  - date published: 2022-10-14 13:39:40+00:00
  - user: None
- - tags: ['climate drama', 'climate change', 'woke', 'activism']
+ - tags: ['climate drama', 'climate change', 'the left wing', 'activism']
 
 ## "Rodzice dopłacą do lekcji albo będą musieli odbierać dzieci ze szkoły o 13". Co z darmową edukacją w Polsce?
  - [https://www.bankier.pl/wiadomosc/Rodzice-doplaca-do-lekcji-albo-beda-musieli-odbierac-dzieci-ze-szkoly-o-13-Co-z-darmowa-edukacja-w-Polsce-8423074.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Rodzice-doplaca-do-lekcji-albo-beda-musieli-odbierac-dzieci-ze-szkoly-o-13-Co-z-darmowa-edukacja-w-Polsce-8423074.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -608,7 +608,7 @@
  - [https://www.polsatnews.pl/wiadomosc/2022-10-06/wielka-brytania-lista-zakazanych-zwrotow-w-nowym-poradniku-odradza-mowic-panie-i-panowie/](https://www.polsatnews.pl/wiadomosc/2022-10-06/wielka-brytania-lista-zakazanych-zwrotow-w-nowym-poradniku-odradza-mowic-panie-i-panowie/)
  - date published: 2022-10-06 08:15:00+00:00
  - user: None
- - tags: ['lgbt', 'newspeak', 'inequality', 'woke', 'social engineering']
+ - tags: ['lgbt', 'newspeak', 'inequality', 'the left wing', 'social engineering']
 
 ## Polacy nie są już takimi patriotami na zakupach
  - [https://www.bankier.pl/wiadomosc/Polacy-nie-sa-juz-takimi-patriotami-na-zakupach-8418224.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Polacy-nie-sa-juz-takimi-patriotami-na-zakupach-8418224.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -662,19 +662,19 @@
  - [https://www.wykop.pl/link/6845341/przedszkola-dla-gejow-i-lesbijek-w-berlinie-w-zarzadzie-adwokat-pedofilow/](https://www.wykop.pl/link/6845341/przedszkola-dla-gejow-i-lesbijek-w-berlinie-w-zarzadzie-adwokat-pedofilow/)
  - date published: 2022-10-04 19:51:01+00:00
  - user: None
- - tags: ['woke', 'lgbt', 'germany', 'paedophilia']
+ - tags: ['the left wing', 'lgbt', 'germany', 'paedophilia']
 
 ## Przedszkole LGBT w Berlinie. Kontrowersyjna postać w zarządzie
  - [https://www.polsatnews.pl/wiadomosc/2022-10-04/przedszkole-lgbt-w-berlinie-kontrowersyjna-postac-w-zarzadzie/](https://www.polsatnews.pl/wiadomosc/2022-10-04/przedszkole-lgbt-w-berlinie-kontrowersyjna-postac-w-zarzadzie/)
  - date published: 2022-10-04 14:04:00+00:00
  - user: None
- - tags: ['woke', 'berlin', 'lgbt']
+ - tags: ['the left wing', 'lgbt', 'berlin']
 
 ## Berlin: Wkrótce otwarcie przedszkola LGBT. W zarządzie "adwokat pedofilów"
  - [https://wydarzenia.interia.pl/zagranica/news-berlin-wkrotce-otwarcie-przedszkola-lgbt-w-zarzadzie-adwokat,nId,6326318](https://wydarzenia.interia.pl/zagranica/news-berlin-wkrotce-otwarcie-przedszkola-lgbt-w-zarzadzie-adwokat,nId,6326318)
  - date published: 2022-10-04 10:48:08+00:00
  - user: rumpel
- - tags: ['woke', 'lgbt', 'germany', 'paedophilia']
+ - tags: ['the left wing', 'lgbt', 'germany', 'paedophilia']
 
 ## Media: Wielka Brytania wprowadzi zakaz azylu dla migrantów nielegalnie przekraczających kanał La Manche
  - [https://www.bankier.pl/wiadomosc/Media-Wielka-Brytania-wprowadzi-zakaz-azylu-dla-migrantow-nielegalnie-przekraczajacych-kanal-La-Manche-8416684.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Media-Wielka-Brytania-wprowadzi-zakaz-azylu-dla-migrantow-nielegalnie-przekraczajacych-kanal-La-Manche-8416684.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -812,7 +812,7 @@
  - [https://epoznan.pl/news-news-132809-w_poznaniu_odbedzie_sie_seks_festiwal_w_programie_dlaczego_warto_ogladac_porno_i_przyszlosc_sex_zabawek_jest_niebinarna?rss=1](https://epoznan.pl/news-news-132809-w_poznaniu_odbedzie_sie_seks_festiwal_w_programie_dlaczego_warto_ogladac_porno_i_przyszlosc_sex_zabawek_jest_niebinarna?rss=1)
  - date published: 2022-09-27 06:05:00+00:00
  - user: None
- - tags: ['woke', 'indoctrination', 'propaganda']
+ - tags: ['the left wing', 'indoctrination', 'propaganda']
 
 ## Szok brytyjski. Złośliwi przezwali Wielką Brytanię „rynkiem tonącym”
  - [https://www.bankier.pl/wiadomosc/Wielka-Brytania-rynek-tonacy-8412259.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Wielka-Brytania-rynek-tonacy-8412259.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -1262,7 +1262,7 @@
  - [https://m.wirtualnemedia.pl/m/artykul/niemiecki-wydawca-wycofuje-ksiazki-o-winnetou-razism#.YwxIfjV-QSA.wykop](https://m.wirtualnemedia.pl/m/artykul/niemiecki-wydawca-wycofuje-ksiazki-o-winnetou-razism#.YwxIfjV-QSA.wykop)
  - date published: 2022-08-29 08:37:40.696185+00:00
  - user: None
- - tags: ['censorship', 'woke', 'karl may', 'fahrenheit 451']
+ - tags: ['censorship', 'the left wing', 'karl may', 'fahrenheit 451']
 
 ## André Staltz - Time Till Open Source Alternative
  - [https://staltz.com/time-till-open-source-alternative.html](https://staltz.com/time-till-open-source-alternative.html)
@@ -1280,7 +1280,7 @@
  - [https://ithardware.pl/aktualnosci/pakistan_grozi_odcieciem_dysydentow_od_biometrycznego_systemu_cyfrowej_identyfikacji-22922.html](https://ithardware.pl/aktualnosci/pakistan_grozi_odcieciem_dysydentow_od_biometrycznego_systemu_cyfrowej_identyfikacji-22922.html)
  - date published: 2022-08-24 21:03:40+00:00
  - user: None
- - tags: ['biometrics', 'surveillance', 'big tech', 'pakistan', 'big brother']
+ - tags: ['biometric', 'surveillance', 'big brother', 'big tech', 'pakistan']
 
 ## "Oto dlaczego nigdy nie będę miał ""inteligentnego dzwonka do drzwi"""
  - [https://antyweb.pl/amazon-ring-inteligentny-dzwonek](https://antyweb.pl/amazon-ring-inteligentny-dzwonek)

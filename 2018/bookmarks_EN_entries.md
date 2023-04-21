@@ -8,7 +8,7 @@
  - [https://www.youtube.com/watch?v=8qCHRYMe66g](https://www.youtube.com/watch?v=8qCHRYMe66g)
  - date published: 2018-12-11 21:34:27+00:00
  - user: rumpel
- - tags: ['ideology', 'propaganda', 'theleft', 'sjw']
+ - tags: ['propaganda', 'ideology', 'sjw', 'the left wing']
 
 ## Harvard Scientists Begin Experiment To Block Out The Sun
  - [https://www.forbes.com/sites/trevornace/2018/12/05/harvard-scientists-begin-experiment-to-block-out-the-sun/](https://www.forbes.com/sites/trevornace/2018/12/05/harvard-scientists-begin-experiment-to-block-out-the-sun/)
@@ -56,7 +56,7 @@
  - [https://www.youtube.com/watch?v=OlqU_JMTzd4](https://www.youtube.com/watch?v=OlqU_JMTzd4)
  - date published: 2018-10-30 20:27:37+00:00
  - user: rumpel
- - tags: ['lgbt', 'joe rogan', 'sjw', 'woke', 'feminism', 'grievance']
+ - tags: ['lgbt', 'joe rogan', 'sjw', 'the left wing', 'feminism', 'grievance']
 
 ## 'City of surveillance': privacy expert quits Toronto's smart-city project
  - [https://www.theguardian.com/world/2018/oct/23/toronto-smart-city-surveillance-ann-cavoukian-resigns-privacy](https://www.theguardian.com/world/2018/oct/23/toronto-smart-city-surveillance-ann-cavoukian-resigns-privacy)
@@ -80,7 +80,7 @@
  - [https://www.youtube.com/watch?v=SrsCEbi5N7Y](https://www.youtube.com/watch?v=SrsCEbi5N7Y)
  - date published: 2018-10-13 13:51:29+00:00
  - user: rumpel
- - tags: ['dead internet', 'gołe search', 'algorithms', 'duckduckgo', 'search engines']
+ - tags: ['search engines', 'duckduckgo', 'dead internet', 'algorithms']
 
 ## The Agricultural Revolution Has Been A Disaster for the Human Race.
  - [https://notrelated.xyz/audio/s01/S01E05_-_The_Agricultural_Revolution_Has_Been_a_Disaster_for_the_Human_Race.mp3](https://notrelated.xyz/audio/s01/S01E05_-_The_Agricultural_Revolution_Has_Been_a_Disaster_for_the_Human_Race.mp3)
@@ -98,7 +98,7 @@
  - [https://www.youtube.com/watch?v=dn6x_9CLTB4](https://www.youtube.com/watch?v=dn6x_9CLTB4)
  - date published: 2018-10-04 17:01:34+00:00
  - user: None
- - tags: ['alan keyes', 'family', 'homosexual', 'culture', 'woke', 'lgbt']
+ - tags: ['alan keyes', 'family', 'homosexual', 'culture', 'the left wing', 'lgbt']
 
 ## How to Remove Elements from an Associative Container in C++
  - [https://www.fluentcpp.com/2018/09/21/remove-elements-associative-container-cpp/](https://www.fluentcpp.com/2018/09/21/remove-elements-associative-container-cpp/)
@@ -170,7 +170,7 @@
  - [https://www.nytimes.com/2018/08/28/business/media/rotten-tomatoes-critics.html](https://www.nytimes.com/2018/08/28/business/media/rotten-tomatoes-critics.html)
  - date published: 2018-08-28 08:49:46+00:00
  - user: None
- - tags: ['rotten tomatoes', 'inequality', 'movies', 'woke', 'inclusive']
+ - tags: ['rotten tomatoes', 'inequality', 'movies', 'the left wing', 'inclusive']
 
 ## The Origin of Consciousness in the Breakdown of the Bicameral Mind
  - [https://notrelated.xyz/audio/s01/S01E01_-_The_Origin_of_Consciousness_in_the_Breakdown_of_the_Bicameral_Mind.mp3](https://notrelated.xyz/audio/s01/S01E01_-_The_Origin_of_Consciousness_in_the_Breakdown_of_the_Bicameral_Mind.mp3)
@@ -200,7 +200,7 @@
  - [https://www.youtube.com/watch?v=BiqDZlAZygU](https://www.youtube.com/watch?v=BiqDZlAZygU)
  - date published: 2018-08-15 07:16:33+00:00
  - user: rumpel
- - tags: ['cancel culture', 'woke', 'free speech']
+ - tags: ['cancel culture', 'the left wing', 'free speech']
 
 ## What are the most pressing world problems?
  - [https://80000hours.org/problem-profiles/](https://80000hours.org/problem-profiles/)
@@ -260,7 +260,7 @@
  - [https://factcheck.afp.com/no-canadians-cannot-be-jailed-or-fined-just-using-wrong-gender-pronoun](https://factcheck.afp.com/no-canadians-cannot-be-jailed-or-fined-just-using-wrong-gender-pronoun)
  - date published: 2018-06-26 10:40:51+00:00
  - user: rumpel
- - tags: ['woke', 'pronouns', 'newspeak']
+ - tags: ['the left wing', 'pronouns', 'newspeak']
 
 ## How the Gorgon gas plant could wipe out a year's worth of Australia's solar emissions savings - ABC News
  - [https://www.abc.net.au/news/2018-06-21/gorgon-gas-plant-wiping-out-a-year-of-solar-emission-savings/9890386](https://www.abc.net.au/news/2018-06-21/gorgon-gas-plant-wiping-out-a-year-of-solar-emission-savings/9890386)
@@ -314,7 +314,7 @@
  - [https://www.theguardian.com/world/2018/may/15/revealed-ecuador-spent-millions-julian-assange-spy-operation-embassy-london](https://www.theguardian.com/world/2018/may/15/revealed-ecuador-spent-millions-julian-assange-spy-operation-embassy-london)
  - date published: 2018-05-15 16:00:13+00:00
  - user: rumpel
- - tags: ['wikileaks', 'spying', 'julian assange', 'politics']
+ - tags: ['espionage', 'julian assange', 'wikileaks', 'politics']
 
 ## All the Rage in Sweden: Embedding Microchips Under Your Skin
  - [https://futurism.com/sweden-microchip-trend](https://futurism.com/sweden-microchip-trend)
@@ -392,7 +392,7 @@
  - [https://www.zdnet.com/article/mozilla-the-ad-economy-is-broken-and-its-making-the-internet-sick/](https://www.zdnet.com/article/mozilla-the-ad-economy-is-broken-and-its-making-the-internet-sick/)
  - date published: 2018-04-10 06:43:44+00:00
  - user: None
- - tags: ['internet', 'ad business', 'all time', 'ad economy']
+ - tags: ['all time', 'ad business', 'internet']
 
 ## How much VR user data is Oculus giving to Facebook?
  - [https://www.theverge.com/2018/4/9/17206650/oculus-facebook-vr-user-data-mining-privacy-policy-advertising](https://www.theverge.com/2018/4/9/17206650/oculus-facebook-vr-user-data-mining-privacy-policy-advertising)
@@ -488,7 +488,13 @@
  - [https://www.sandiegocriminallawyersblog.com/new-california-law-allows-jail-time-using-wrong-gender-pronoun/](https://www.sandiegocriminallawyersblog.com/new-california-law-allows-jail-time-using-wrong-gender-pronoun/)
  - date published: 2018-02-02 11:05:53+00:00
  - user: rumpel
- - tags: ['woke', 'pronouns', 'newspeak']
+ - tags: ['the left wing', 'pronouns', 'newspeak']
+
+## Joe Rogan Experience #1070 - Jordan Peterson
+ - [https://www.youtube.com/watch?v=6T7pUEZfgdI](https://www.youtube.com/watch?v=6T7pUEZfgdI)
+ - date published: 2018-01-30 00:00:00+00:00
+ - user: rumpel
+ - tags: ['jordan peterson']
 
 ## Did the Chief Executive Officer of Nestlé Say Water Is Not a Human Right? | Snopes.com
  - [https://www.snopes.com/fact-check/nestle-ceo-water-not-human-right/](https://www.snopes.com/fact-check/nestle-ceo-water-not-human-right/)

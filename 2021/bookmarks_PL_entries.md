@@ -110,7 +110,7 @@
  - [https://whatnext.pl/540012-transgraniczne-platnosci-wirtualna-waluta/](https://whatnext.pl/540012-transgraniczne-platnosci-wirtualna-waluta/)
  - date published: 2021-08-04 14:57:33+00:00
  - user: None
- - tags: ['digital money', 'cbdc']
+ - tags: ['cbdc']
 
 ## Ponad 750 mln zł wydane na energetykę jądrową. Elektrowni brak
  - [https://biznes.trojmiasto.pl/Ponad-750-mln-zl-wydane-na-energetyke-jadrowa-Elektrowni-brak-n158212.html](https://biznes.trojmiasto.pl/Ponad-750-mln-zl-wydane-na-energetyke-jadrowa-Elektrowni-brak-n158212.html)
@@ -140,7 +140,7 @@
  - [https://portal-polski.pl/hiszpania-zmiana-plci-od-14-roku-zycia-bez-ograniczen/7199/](https://portal-polski.pl/hiszpania-zmiana-plci-od-14-roku-zycia-bez-ograniczen/7199/)
  - date published: 2021-07-01 22:27:07+00:00
  - user: rumpel
- - tags: ['children', 'spain', 'big brother', 'gender', 'woke', 'lgbt', 'transgender']
+ - tags: ['children', 'spain', 'big brother', 'gender', 'the left wing', 'lgbt', 'transgender']
 
 ## Rząd nakazał przedsiębiorcom segregację na szczepionych i nieszczepionych, ale zapomniał powiedzieć, jak mają to robić
  - [https://panoptykon.org/zaszczepieni-ponad-limitami](https://panoptykon.org/zaszczepieni-ponad-limitami)
@@ -164,7 +164,7 @@
  - [https://medianarodowe.com/2021/05/12/szalenstwo-postepu-rodzice-twierdza-ze-ich-4-letnie-dziecko-jest-transplciowe-wideo/](https://medianarodowe.com/2021/05/12/szalenstwo-postepu-rodzice-twierdza-ze-ich-4-letnie-dziecko-jest-transplciowe-wideo/)
  - date published: 2021-05-12 08:59:27+00:00
  - user: rumpel
- - tags: ['family', 'propaganda', 'indoctrination', 'woke', 'lgbt', 'transgender']
+ - tags: ['family', 'propaganda', 'indoctrination', 'the left wing', 'lgbt', 'transgender']
 
 ## Prezydent Estonii w Polsat News: nie powinniśmy wracać do świata sprzed pandemii
  - [https://www.polsatnews.pl/wiadomosc/2021-05-05/prezydent-estonii-w-polsat-news-nie-powinnismy-wracac-do-swiata-sprzed-pandemii/](https://www.polsatnews.pl/wiadomosc/2021-05-05/prezydent-estonii-w-polsat-news-nie-powinnismy-wracac-do-swiata-sprzed-pandemii/)

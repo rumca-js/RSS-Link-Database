@@ -38,7 +38,7 @@
  - [https://ionainstitute.ie/how-radicals-tried-to-sexually-liberate-children/](https://ionainstitute.ie/how-radicals-tried-to-sexually-liberate-children/)
  - date published: 2010-08-05 21:04:24+00:00
  - user: rumpel
- - tags: ['children', 'paedophilia', 'sexualization', 'woke', 'lgbt']
+ - tags: ['children', 'paedophilia', 'sexualization', 'the left wing', 'lgbt']
 
 ## Afghanistan war logs: Massive leak of secret files exposes truth of occupation | Afghanistan: the war logs | The Guardian
  - [https://www.theguardian.com/world/2010/jul/25/afghanistan-war-logs-military-leaks](https://www.theguardian.com/world/2010/jul/25/afghanistan-war-logs-military-leaks)
@@ -56,7 +56,7 @@
  - [https://money.cnn.com/2010/05/14/technology/Google_mistaken_wifi_collection/index.htm](https://money.cnn.com/2010/05/14/technology/Google_mistaken_wifi_collection/index.htm)
  - date published: 2010-05-14 08:48:45+00:00
  - user: rumpel
- - tags: ['privacy', 'google', 'streets', 'surveillance']
+ - tags: ['google', 'privacy', 'surveillance', 'corporactocracy', 'law']
 
 ## Facebook does not erase user-deleted content | ZDNET
  - [https://www.zdnet.com/article/facebook-does-not-erase-user-deleted-content/](https://www.zdnet.com/article/facebook-does-not-erase-user-deleted-content/)

@@ -2,7 +2,7 @@
  - [https://www.rp.pl/przestepczosc/art973621-usa-15-lat-wiezienia-za-spalenie-flagi-lgbt](https://www.rp.pl/przestepczosc/art973621-usa-15-lat-wiezienia-za-spalenie-flagi-lgbt)
  - date published: 2019-12-20 20:52:09+00:00
  - user: rumpel
- - tags: ['woke', 'inequality', 'lgbt', 'usa']
+ - tags: ['the left wing', 'inequality', 'lgbt', 'usa']
 
 ## “El Confidencial”: Strajki klimatyczne i wielki biznes. Za Gretą Thunberg stoją duże koncerny i fundusze
  - [https://forsal.pl/artykuly/1443406,el-confidencial-strajki-klimatyczne-i-wielki-biznes-za-greta-thunberg-stoja-duze-koncerny-i-fundusze.html](https://forsal.pl/artykuly/1443406,el-confidencial-strajki-klimatyczne-i-wielki-biznes-za-greta-thunberg-stoja-duze-koncerny-i-fundusze.html)
@@ -74,7 +74,7 @@
  - [https://wiadomosci.dziennik.pl/wydarzenia/artykuly/602791,zywa-ksiazka-ordo-iuris-lgbt-kontrowersje.html](https://wiadomosci.dziennik.pl/wydarzenia/artykuly/602791,zywa-ksiazka-ordo-iuris-lgbt-kontrowersje.html)
  - date published: 2019-07-17 22:15:14+00:00
  - user: rumpel
- - tags: ['children', 'sexualisation', 'propaganda', 'libraryreading', 'indoctrination', 'woke', 'lgbt']
+ - tags: ['children', 'sexualisation', 'propaganda', 'libraryreading', 'indoctrination', 'the left wing', 'lgbt']
 
 ## Koniec naszego świata
  - [https://www.tvp.info/43374228/koniec-naszego-swiata](https://www.tvp.info/43374228/koniec-naszego-swiata)
@@ -98,5 +98,5 @@
  - [https://www.smyku.pl/texts/zabija-nas-wszystkich.html](https://www.smyku.pl/texts/zabija-nas-wszystkich.html)
  - date published: 2019-01-26 07:23:00+00:00
  - user: None
- - tags: ['right-wing conspiracy', 'conspiracy theory']
+ - tags: ['the right wing', 'conspiracy theory']
 
