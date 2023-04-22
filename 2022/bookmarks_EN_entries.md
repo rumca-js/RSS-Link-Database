@@ -5012,7 +5012,7 @@
  - [https://www.foxnews.com/politics/church-sponsored-lgbtq-pride-event-promotes-kids-activities-drag-shows](https://www.foxnews.com/politics/church-sponsored-lgbtq-pride-event-promotes-kids-activities-drag-shows)
  - date published: 2022-10-04 16:10:21+00:00
  - user: None
- - tags: ['drag shows', 'the left wing', 'lgbt', 'sexualisation']
+ - tags: ['drag shows', 'the left wing', 'lgbt', 'sexualization']
 
 ## There Is No Excuse for Ye’s ‘White Lives Matter’ Shirt - The New York Times
  - [https://www.nytimes.com/2022/10/04/style/yeezy-kanye-west-paris-fashion-week.html](https://www.nytimes.com/2022/10/04/style/yeezy-kanye-west-paris-fashion-week.html)
@@ -10581,6 +10581,12 @@
  - date published: 2022-03-02 07:03:08.241393+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Investigate Russia’s covert funding of US anti-fossil fuel groups | The Hill
+ - [https://thehill.com/opinion/energy-environment/596304-investigate-russias-covert-funding-of-us-anti-fossil-fuel-groups/](https://thehill.com/opinion/energy-environment/596304-investigate-russias-covert-funding-of-us-anti-fossil-fuel-groups/)
+ - date published: 2022-03-01 09:58:04+00:00
+ - user: rumpel
+ - tags: ['climate change', 'russia']
 
 ## How to take credit for someone else's work on GitHub
  - [https://repography.com/blog/how-to-take-credit-for-someone-elses-work-on-github](https://repography.com/blog/how-to-take-credit-for-someone-elses-work-on-github)

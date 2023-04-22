@@ -614,7 +614,7 @@
  - [https://abc13.com/drag-queen-story-time-sex-offender-houston-public-library/5203743/](https://abc13.com/drag-queen-story-time-sex-offender-houston-public-library/5203743/)
  - date published: 2019-03-19 22:14:03+00:00
  - user: rumpel
- - tags: ['lgbt', 'libraryreading', 'rape', 'sexualisation', 'the left wing', 'children']
+ - tags: ['lgbt', 'libraryreading', 'rape', 'sexualization', 'the left wing', 'children']
 
 ## The Flaws of Academic Statistics: the Null Ritual
  - [https://notrelated.xyz/audio/s01/S01E08_-_The_Flaws_of_Academic_Statistics_the_Null_Ritual.mp3](https://notrelated.xyz/audio/s01/S01E08_-_The_Flaws_of_Academic_Statistics_the_Null_Ritual.mp3)
@@ -722,5 +722,5 @@
  - [https://www.youtube.com/watch?v=UEgA8kHuYvs](https://www.youtube.com/watch?v=UEgA8kHuYvs)
  - date published: 2019-01-04 21:28:23+00:00
  - user: rumpel
- - tags: ['the left wing', 'children', 'lgbt', 'sexualisation']
+ - tags: ['the left wing', 'children', 'lgbt', 'sexualization']
 

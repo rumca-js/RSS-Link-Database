@@ -70,6 +70,12 @@
  - user: None
  - tags: ['blackrock', 'larry fink', 'esg']
 
+## Letter to the Editor: Why Dr. Tedros Adhanom should not lead the World Health Organization - Addis Standard
+ - [https://addisstandard.com/letter-editor-dr-tedros-adhanom-not-lead-world-health-organization/](https://addisstandard.com/letter-editor-dr-tedros-adhanom-not-lead-world-health-organization/)
+ - date published: 2016-09-27 20:52:39+00:00
+ - user: rumpel
+ - tags: ['who', 'tedros adhanom']
+
 ## Black Lives Matter vs All Lives Matter Supporters (Social Experiment)
  - [https://www.youtube.com/watch?v=SL8f5iWrzN0](https://www.youtube.com/watch?v=SL8f5iWrzN0)
  - date published: 2016-09-26 00:00:00+00:00

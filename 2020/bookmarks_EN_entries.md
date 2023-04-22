@@ -118,6 +118,12 @@
  - user: None
  - tags: ['vaccine', 'covid']
 
+## Tedros Adhanom: WHO chief may face genocide charges
+ - [https://www.thetimes.co.uk/article/who-chief-tedros-adhanom-ghebreyesus-may-face-genocide-charges-2fbfz7sff](https://www.thetimes.co.uk/article/who-chief-tedros-adhanom-ghebreyesus-may-face-genocide-charges-2fbfz7sff)
+ - date published: 2020-12-14 20:55:52+00:00
+ - user: rumpel
+ - tags: ['who', 'tedros adhanom']
+
 ## WEF: Private Property And Privacy Will Vanish By 2030
  - [https://www.technocracy.news/wef-private-property-and-privacy-will-vanish-by-2030/](https://www.technocracy.news/wef-private-property-and-privacy-will-vanish-by-2030/)
  - date published: 2020-12-14 18:04:34+00:00
@@ -434,7 +440,7 @@
  - [https://www.rodefshalom613.org/2020/10/the-heinous-background-of-who-director-general-tedros-adhanom-ghebreyesus/](https://www.rodefshalom613.org/2020/10/the-heinous-background-of-who-director-general-tedros-adhanom-ghebreyesus/)
  - date published: 2020-10-23 18:41:12+00:00
  - user: rumpel
- - tags: ['tedros adhanom ghebreyesus', 'who']
+ - tags: ['who', 'tedros adhanom']
 
 ## Google Paid Apple Billions To Dominate Search On iPhones, Justice Department Says : NPR
  - [https://www.npr.org/2020/10/22/926290942/google-paid-apple-billions-to-dominate-search-on-iphones-justice-department-says](https://www.npr.org/2020/10/22/926290942/google-paid-apple-billions-to-dominate-search-on-iphones-justice-department-says)
@@ -1179,6 +1185,12 @@
  - date published: 2020-04-18 06:52:28+00:00
  - user: rumpel
  - tags: ['wuhan', 'covid', 'lableak']
+
+## BRUTAL: 5 awful facts about WHO’s Tedros Adhanom
+ - [https://www.youtube.com/watch?v=XPSlqF5pjrw](https://www.youtube.com/watch?v=XPSlqF5pjrw)
+ - date published: 2020-04-04 00:00:00+00:00
+ - user: rumpel
+ - tags: ['who', 'tedros adhanom']
 
 ## 3 Undeniable Reasons Why You Need Online Anonymity
  - [https://www.makeuseof.com/tag/3-undeniable-reasons-need-online-anonymity/](https://www.makeuseof.com/tag/3-undeniable-reasons-need-online-anonymity/)

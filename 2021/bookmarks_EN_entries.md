@@ -3260,7 +3260,7 @@
  - [https://www.youtube.com/watch?v=Xprabkl1LD4](https://www.youtube.com/watch?v=Xprabkl1LD4)
  - date published: 2021-07-05 22:29:19+00:00
  - user: rumpel
- - tags: ['children', 'sexualisation', 'indoctrination', 'the left wing', 'lgbt']
+ - tags: ['children', 'sexualization', 'indoctrination', 'the left wing', 'lgbt']
 
 ## Coke Faces Down Most Serious Backlash Yet For Their “Woke” Agenda
  - [https://www.redvoicemedia.com/2021/07/coke-faces-down-most-serious-backlash-yet-for-their-woke-agenda/](https://www.redvoicemedia.com/2021/07/coke-faces-down-most-serious-backlash-yet-for-their-woke-agenda/)
@@ -3398,7 +3398,7 @@
  - [https://www.mumsnet.com/talk/womens_rights/4282164-Anyone-remember-that-Danish-TV-show-pairing-children-with-naked-adults](https://www.mumsnet.com/talk/womens_rights/4282164-Anyone-remember-that-Danish-TV-show-pairing-children-with-naked-adults)
  - date published: 2021-06-07 22:21:55+00:00
  - user: rumpel
- - tags: ['children', 'sexualisation', 'indoctrination', 'the left wing', 'lgbt']
+ - tags: ['children', 'sexualization', 'indoctrination', 'the left wing', 'lgbt']
 
 ## The Media's Lab Leak Debacle Shows Why Banning 'Misinformation' Is a Terrible Idea
  - [https://reason.com/2021/06/04/lab-leak-misinformation-media-fauci-covid-19/](https://reason.com/2021/06/04/lab-leak-misinformation-media-fauci-covid-19/)
@@ -3482,7 +3482,7 @@
  - [https://www.today.com/popculture/blue-s-clues-releases-lgbtq-themed-sing-along-video-pride-t220295](https://www.today.com/popculture/blue-s-clues-releases-lgbtq-themed-sing-along-video-pride-t220295)
  - date published: 2021-05-29 22:28:41+00:00
  - user: rumpel
- - tags: ['children', 'sexualisation', 'indoctrination', 'the left wing', 'lgbt']
+ - tags: ['children', 'sexualization', 'indoctrination', 'the left wing', 'lgbt']
 
 ## The Takeover has Already Begun - A Secret Video Reveals All by @RICHARD GRANNON
  - [https://www.youtube.com/watch?v=npkZQGD7LOM](https://www.youtube.com/watch?v=npkZQGD7LOM)
@@ -3764,7 +3764,7 @@
  - [https://defiantamerica.com/shock-video-children-being-paraded-across-the-stage-urging-them-to-pose-for-cash-at-a-los-angeles-drag-club-in-the-middle-of-the-night/](https://defiantamerica.com/shock-video-children-being-paraded-across-the-stage-urging-them-to-pose-for-cash-at-a-los-angeles-drag-club-in-the-middle-of-the-night/)
  - date published: 2021-04-19 22:15:58+00:00
  - user: rumpel
- - tags: ['children', 'sexualisation', 'indoctrination', 'the left wing', 'lgbt']
+ - tags: ['children', 'sexualization', 'indoctrination', 'the left wing', 'lgbt']
 
 ## ‘Covid is just an excuse’: the scandal of Rome’s saturated cemeteries | Italy | The Guardian
  - [https://www.theguardian.com/world/2021/apr/29/shameful-situation-rome-cemeteries-run-out-of-space](https://www.theguardian.com/world/2021/apr/29/shameful-situation-rome-cemeteries-run-out-of-space)

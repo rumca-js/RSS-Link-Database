@@ -1,3 +1,21 @@
+## ANDY NGO REPORTS: Oregon teachers' aide, ‘drag mom’ to child drag queen sentenced to less than 1 year in jail for 11 felony child sex crimes | The Post Millennial | thepostmillennial.com
+ - [https://thepostmillennial.com/andy-ngo-reports-oregon-teachers-aide-drag-mom-to-child-drag-queen-sentenced-to-less-than-1-year-in-prison-for-11-felony-child-sex-crimes?utm_campaign=64470](https://thepostmillennial.com/andy-ngo-reports-oregon-teachers-aide-drag-mom-to-child-drag-queen-sentenced-to-less-than-1-year-in-prison-for-11-felony-child-sex-crimes?utm_campaign=64470)
+ - date published: 2023-04-20 20:45:54+00:00
+ - user: rumpel
+ - tags: ['the left wing', 'paedophilia', 'sexualization']
+
+## AI is Evolving Faster Than You Think Pt. 2 (Art and Beyond)
+ - [https://www.youtube.com/watch?v=gQfQiXP9yZA](https://www.youtube.com/watch?v=gQfQiXP9yZA)
+ - date published: 2023-04-20 19:38:41+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
+
+## Facebook $725m settlement fund opens to US claims
+ - [https://www.bbc.co.uk/news/technology-65338916?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-65338916?at_medium=RSS&at_campaign=KARANGA)
+ - date published: 2023-04-20 17:21:26+00:00
+ - user: rumpel
+ - tags: ['facebook', 'privacy']
+
 ## YouTube demonetizes political commentator Matt Walsh
  - [https://reclaimthenet.org/youtube-demonetizes-matt-walsh](https://reclaimthenet.org/youtube-demonetizes-matt-walsh)
  - date published: 2023-04-20 14:52:44+00:00
@@ -21,6 +39,12 @@
  - date published: 2023-04-20 10:00:00+00:00
  - user: rumpel
  - tags: ['the right wing', 'israel', 'christianophobia']
+
+## A Plea for Fairness for Non-Profit Developers of Open Source Software
+ - [https://www.isc.org/blogs/2023-cyber-resilience-act-letter/](https://www.isc.org/blogs/2023-cyber-resilience-act-letter/)
+ - date published: 2023-04-20 08:15:32+00:00
+ - user: rumpel
+ - tags: ['open source']
 
 ## OpenAI’s hunger for data is coming back to bite it
  - [https://www.technologyreview.com/2023/04/19/1071789/openais-hunger-for-data-is-coming-back-to-bite-it/](https://www.technologyreview.com/2023/04/19/1071789/openais-hunger-for-data-is-coming-back-to-bite-it/)
@@ -80,7 +104,7 @@
  - [https://arstechnica.com/?p=1932211](https://arstechnica.com/?p=1932211)
  - date published: 2023-04-17 17:42:00+00:00
  - user: rumpel
- - tags: ['google', 'search engines', 'chatgpt']
+ - tags: ['search engines', 'google', 'chatgpt', 'artificial intelligence']
 
 ## Chaos Rules In Chicago, The Lack Of Two-Parent Homes Is To Blame
  - [https://www.dailywire.com/news/chaos-rules-in-chicago-the-lack-of-two-parent-homes-is-to-blame](https://www.dailywire.com/news/chaos-rules-in-chicago-the-lack-of-two-parent-homes-is-to-blame)
@@ -261,6 +285,12 @@
  - date published: 2023-04-11 18:01:23+00:00
  - user: rumpel
  - tags: ['manufacturing consent', 'misinformation response unit', 'cdc', 'censorship']
+
+## China's game art industry reportedly decimated by growing AI use
+ - [https://www.gamedeveloper.com/art/china-s-game-art-industry-reportedly-decimated-ai-art-use](https://www.gamedeveloper.com/art/china-s-game-art-industry-reportedly-decimated-ai-art-use)
+ - date published: 2023-04-11 17:25:15+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
 
 ## FBI documents associate internet slang like ‘based’ and ‘red pill’ with ‘extremism’
  - [https://www.adelaidenow.com.au/technology/online/fbi-documents-associate-internet-slang-like-based-and-red-pill-with-extremism/news-story/ddd80d4878aaae8b033e24286cf3577a](https://www.adelaidenow.com.au/technology/online/fbi-documents-associate-internet-slang-like-based-and-red-pill-with-extremism/news-story/ddd80d4878aaae8b033e24286cf3577a)

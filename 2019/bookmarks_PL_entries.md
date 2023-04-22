@@ -74,7 +74,7 @@
  - [https://wiadomosci.dziennik.pl/wydarzenia/artykuly/602791,zywa-ksiazka-ordo-iuris-lgbt-kontrowersje.html](https://wiadomosci.dziennik.pl/wydarzenia/artykuly/602791,zywa-ksiazka-ordo-iuris-lgbt-kontrowersje.html)
  - date published: 2019-07-17 22:15:14+00:00
  - user: rumpel
- - tags: ['children', 'sexualisation', 'propaganda', 'libraryreading', 'indoctrination', 'the left wing', 'lgbt']
+ - tags: ['children', 'sexualization', 'propaganda', 'libraryreading', 'indoctrination', 'the left wing', 'lgbt']
 
 ## Koniec naszego świata
  - [https://www.tvp.info/43374228/koniec-naszego-swiata](https://www.tvp.info/43374228/koniec-naszego-swiata)

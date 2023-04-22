@@ -176,7 +176,7 @@
  - [https://www.wnp.pl/rynki-zagraniczne/dania-nagi-uczestnik-programu-telewizyjnego-dla-dzieci-skazany-za-pedofilie,466308.html](https://www.wnp.pl/rynki-zagraniczne/dania-nagi-uczestnik-programu-telewizyjnego-dla-dzieci-skazany-za-pedofilie,466308.html)
  - date published: 2021-04-30 22:23:58+00:00
  - user: rumpel
- - tags: ['children', 'indoctrination', 'paedophilia', 'sexualisation']
+ - tags: ['children', 'indoctrination', 'paedophilia', 'sexualization']
 
 ## Gwałt po nowemu. O zgubnych konsekwencjach lewicowego paradygmatu
  - [https://klubjagiellonski.pl/2021/04/27/gwalt-po-nowemu-o-zgubnych-konsekwencjach-lewicowego-paradygmatu-polemika/](https://klubjagiellonski.pl/2021/04/27/gwalt-po-nowemu-o-zgubnych-konsekwencjach-lewicowego-paradygmatu-polemika/)
