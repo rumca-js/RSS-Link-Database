@@ -124,11 +124,23 @@
  - user: rumpel
  - tags: ['covid', 'masks']
 
+## Crypto ‘Front Door’ Debate Likely to Go On For Years | Threatpost
+ - [https://threatpost.com/crypto-front-door-debate-likely-to-go-on-for-years/112350/](https://threatpost.com/crypto-front-door-debate-likely-to-go-on-for-years/112350/)
+ - date published: 2015-04-21 07:42:36+00:00
+ - user: rumpel
+ - tags: ['privacy', 'surveillance', 'big brother', 'encryption', 'crypto wars']
+
 ## Slavoj Žižek: Political Correctness is a More Dangerous Form of Totalitarianism | Big Think
  - [https://www.youtube.com/watch?v=5dNbWGaaxWM](https://www.youtube.com/watch?v=5dNbWGaaxWM)
  - date published: 2015-04-16 16:16:43+00:00
  - user: None
  - tags: ['slavoj zizek', 'virtue signalling', 'political correctness', 'propaganda', 'totalitarianism', 'socialism']
+
+## The NSA wants 'front door' access to your encrypted data | Extremetech
+ - [https://www.extremetech.com/defense/203275-the-nsa-wants-front-door-access-to-your-encrypted-data](https://www.extremetech.com/defense/203275-the-nsa-wants-front-door-access-to-your-encrypted-data)
+ - date published: 2015-04-13 07:41:23+00:00
+ - user: rumpel
+ - tags: ['privacy', 'surveillance', 'big brother', 'nsa', 'encryption', 'crypto wars']
 
 ## Bill Gates: The next outbreak? We’re not ready | TED
  - [https://www.youtube.com/watch?v=6Af6b_wyiwI](https://www.youtube.com/watch?v=6Af6b_wyiwI)
@@ -153,6 +165,18 @@
  - date published: 2015-01-22 08:04:30+00:00
  - user: rumpel
  - tags: ['co2', 'climate change', 'pollution']
+
+## Can the government ban encryption? - BBC News
+ - [https://www.bbc.com/news/technology-30794953](https://www.bbc.com/news/technology-30794953)
+ - date published: 2015-01-13 07:43:47+00:00
+ - user: rumpel
+ - tags: ['privacy', 'surveillance', 'big brother', 'encryption', 'crypto wars']
+
+## UK prime minister wants backdoors into messaging apps or he’ll ban them | Ars Technica
+ - [https://arstechnica.com/tech-policy/2015/01/uk-prime-minister-wants-backdoors-into-messaging-apps-or-hell-ban-them/](https://arstechnica.com/tech-policy/2015/01/uk-prime-minister-wants-backdoors-into-messaging-apps-or-hell-ban-them/)
+ - date published: 2015-01-12 07:44:48+00:00
+ - user: rumpel
+ - tags: ['privacy', 'surveillance', 'big brother', 'encryption', 'crypto wars']
 
 ## WikiLeaks: Can Hillary Clinton survive 'cablegate'?
  - [https://theweek.com/articles/488919/wikileaks-hillary-clinton-survive-cablegate](https://theweek.com/articles/488919/wikileaks-hillary-clinton-survive-cablegate)

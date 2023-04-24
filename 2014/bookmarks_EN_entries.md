@@ -28,6 +28,12 @@
  - user: rumpel
  - tags: ['surveillance', 'nsa', 'cloud computing', 'technofeudalism', 'microsoft']
 
+## The FBI Director’s Evidence Against Encryption Is Pathetic
+ - [https://theintercept.com/2014/10/17/draft-two-cases-cited-fbi-dude-dumb-dumb/](https://theintercept.com/2014/10/17/draft-two-cases-cited-fbi-dude-dumb-dumb/)
+ - date published: 2014-10-17 07:32:51+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'big brother', 'fbi', 'encryption', 'crypto wars']
+
 ## Citizenfour review  gripping Snowden documentary offers portrait of power, paranoia and one remarkable man
  - [http://www.theguardian.com/film/2014/oct/16/citizen-four-review-edward-snowden-documentary](http://www.theguardian.com/film/2014/oct/16/citizen-four-review-edward-snowden-documentary)
  - date published: 2014-10-16 14:00:04+00:00
@@ -45,6 +51,24 @@
  - date published: 2014-10-10 20:56:29+00:00
  - user: rumpel
  - tags: ['citizenfour', 'edward snowden', 'big brother', 'privacy', 'surveillance']
+
+## Crypto wars redux: why the FBI's desire to unlock your private life must be resisted | Cory Doctorow | The Guardian
+ - [https://www.theguardian.com/technology/2014/oct/09/crypto-wars-redux-why-the-fbis-desire-to-unlock-your-private-life-must-be-resisted](https://www.theguardian.com/technology/2014/oct/09/crypto-wars-redux-why-the-fbis-desire-to-unlock-your-private-life-must-be-resisted)
+ - date published: 2014-10-09 07:34:15+00:00
+ - user: rumpel
+ - tags: ['privacy', 'surveillance', 'big brother', 'encryption', 'crypto wars']
+
+## Washington Post's Clueless Editorial On Phone Encryption: No Backdoors, But How About A Magical 'Golden Key'? | Techdirt
+ - [https://www.techdirt.com/2014/10/06/washington-posts-braindead-editorial-phone-encryption-no-backdoors-how-about-magical-golden-key/](https://www.techdirt.com/2014/10/06/washington-posts-braindead-editorial-phone-encryption-no-backdoors-how-about-magical-golden-key/)
+ - date published: 2014-10-06 07:28:52+00:00
+ - user: rumpel
+ - tags: ['privacy', 'encryption', 'crypto wars', 'surveillance']
+
+## Why can’t Apple decrypt your iPhone? – A Few Thoughts on Cryptographic Engineering
+ - [https://blog.cryptographyengineering.com/2014/10/04/why-cant-apple-decrypt-your-iphone/](https://blog.cryptographyengineering.com/2014/10/04/why-cant-apple-decrypt-your-iphone/)
+ - date published: 2014-10-04 07:28:52+00:00
+ - user: rumpel
+ - tags: ['privacy', 'encryption', 'apple', 'iphone']
 
 ## The Internet Slowdown protest for net neutrality needs to target regulators
  - [http://www.theguardian.com/commentisfree/2014/sep/10/internet-slowdown-protest-net-neutrality-fcc-regulators](http://www.theguardian.com/commentisfree/2014/sep/10/internet-slowdown-protest-net-neutrality-fcc-regulators)
@@ -141,4 +165,10 @@
  - date published: 2014-01-22 07:45:37+00:00
  - user: rumpel
  - tags: ['the left wing', 'lgbt']
+
+## The Crypto Wars: Governments Working to Undermine Encryption
+ - [https://www.eff.org/document/crypto-wars-governments-working-undermine-encryption](https://www.eff.org/document/crypto-wars-governments-working-undermine-encryption)
+ - date published: 2014-01-02 07:13:53+00:00
+ - user: rumpel
+ - tags: ['privacy', 'surveillance', 'big brother', 'encryption', 'crypto wars']
 

@@ -1,8 +1,32 @@
+## Chinese Censorship Is Quietly Rewriting the Covid-19 Story
+ - [https://www.nytimes.com/2023/04/23/world/europe/chinese-censorship-covid.html](https://www.nytimes.com/2023/04/23/world/europe/chinese-censorship-covid.html)
+ - date published: 2023-04-23 09:00:21+00:00
+ - user: rumpel
+ - tags: ['covid']
+
 ## iPhone Doomed to Failure (2008)
  - [https://www.networkworld.com/article/2350353/apple-iphone-doomed-to-failure----windows-mobile-7-plans-for-2009-leaked.html](https://www.networkworld.com/article/2350353/apple-iphone-doomed-to-failure----windows-mobile-7-plans-for-2009-leaked.html)
  - date published: 2023-04-22 19:11:59+00:00
  - user: rumpel
  - tags: ['iphone', 'apple']
+
+## Fire Mark Zuckerberg
+ - [https://ez.substack.com/p/fire-mark-zuckerberg](https://ez.substack.com/p/fire-mark-zuckerberg)
+ - date published: 2023-04-21 18:29:21+00:00
+ - user: rumpel
+ - tags: ['facebook', 'meta', 'mark zuckerberg']
+
+## 'Devastating' melt of Greenland, Antarctic ice sheets found
+ - [https://phys.org/news/2023-04-devastating-greenland-antarctic-ice-sheets.html](https://phys.org/news/2023-04-devastating-greenland-antarctic-ice-sheets.html)
+ - date published: 2023-04-21 17:57:25+00:00
+ - user: rumpel
+ - tags: ['antarctic', 'climate change']
+
+## The coming war on end-to-end encryption
+ - [https://community.qbix.com/t/the-coming-war-on-end-to-end-encryption/214](https://community.qbix.com/t/the-coming-war-on-end-to-end-encryption/214)
+ - date published: 2023-04-21 17:00:12+00:00
+ - user: rumpel
+ - tags: ['privacy', 'corporatocracy', 'big brother', 'anonymity', 'tech control']
 
 ## ANDY NGO REPORTS: Oregon teachers' aide, ‘drag mom’ to child drag queen sentenced to less than 1 year in jail for 11 felony child sex crimes | The Post Millennial | thepostmillennial.com
  - [https://thepostmillennial.com/andy-ngo-reports-oregon-teachers-aide-drag-mom-to-child-drag-queen-sentenced-to-less-than-1-year-in-prison-for-11-felony-child-sex-crimes?utm_campaign=64470](https://thepostmillennial.com/andy-ngo-reports-oregon-teachers-aide-drag-mom-to-child-drag-queen-sentenced-to-less-than-1-year-in-prison-for-11-felony-child-sex-crimes?utm_campaign=64470)
@@ -351,6 +375,12 @@
  - date published: 2023-04-07 20:00:43+00:00
  - user: rumpel
  - tags: ['hackers', 'flipper zero']
+
+## Russian FSB has the keys to Telegram and Viber messengers and uses them for espionage - Ukrainian intelligence - Euromaidan Press
+ - [https://euromaidanpress.com/2023/04/07/russian-fsb-has-the-keys-to-telegram-and-viber-social-networks-and-uses-them-for-espionage-ukraines-intelligence/](https://euromaidanpress.com/2023/04/07/russian-fsb-has-the-keys-to-telegram-and-viber-social-networks-and-uses-them-for-espionage-ukraines-intelligence/)
+ - date published: 2023-04-07 06:42:42+00:00
+ - user: rumpel
+ - tags: ['privacy', 'surveillance', 'telegram', 'russia']
 
 ## Countries worldwide are dropping the US dollar: De-dollarization in China, Russia, Brazil, ASEAN - Geopolitical Economy Report
  - [https://geopoliticaleconomy.com/2023/04/06/dedollarization-china-russia-brazil-asean/](https://geopoliticaleconomy.com/2023/04/06/dedollarization-china-russia-brazil-asean/)

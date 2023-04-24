@@ -1696,6 +1696,12 @@
  - user: None
  - tags: $tags
 
+## Russia is spying on Telegram chats in occupied Ukrainian regions. Here's how.
+ - [https://www.pwnallthethings.com/p/russia-is-spying-on-telegram-chats](https://www.pwnallthethings.com/p/russia-is-spying-on-telegram-chats)
+ - date published: 2022-12-03 06:44:28+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'telegram', 'russia']
+
 ## New Zealand admits it has access to Facebook takedown portal to censor content
  - [https://reclaimthenet.org/new-zealand-government-facebook-content-takedown-portal/](https://reclaimthenet.org/new-zealand-government-facebook-content-takedown-portal/)
  - date published: 2022-12-03 02:40:32+00:00
@@ -3088,6 +3094,12 @@
  - user: None
  - tags: ['covid', 'lockdown']
 
+## Europe’s climate warming at twice rate of global average, says report
+ - [https://www.theguardian.com/environment/2022/nov/02/europes-climate-warming-at-twice-rate-of-global-average-says-report](https://www.theguardian.com/environment/2022/nov/02/europes-climate-warming-at-twice-rate-of-global-average-says-report)
+ - date published: 2022-11-02 14:00:04+00:00
+ - user: rumpel
+ - tags: ['climate change', 'global warming']
+
 ## COVID Lockdown Tyrants Want Us To Forget, Grant ‘Pandemic Amnesty.’ Matt Walsh Has Some Thoughts.
  - [https://www.dailywire.com/news/covid-lockdown-tyrants-want-us-to-forget-grant-pandemic-amnesty-matt-walsh-has-some-thoughts](https://www.dailywire.com/news/covid-lockdown-tyrants-want-us-to-forget-grant-pandemic-amnesty-matt-walsh-has-some-thoughts)
  - date published: 2022-11-02 11:56:28+00:00
@@ -3807,6 +3819,12 @@
  - date published: 2022-10-26 07:52:21+00:00
  - user: None
  - tags: ['autonomous vehicles', 'self-driving']
+
+## Mark Zuckerberg Is Going To Kill His Company
+ - [https://ez.substack.com/p/mark-zuckerberg-is-going-to-kill](https://ez.substack.com/p/mark-zuckerberg-is-going-to-kill)
+ - date published: 2022-10-26 06:58:03+00:00
+ - user: rumpel
+ - tags: ['facebook', 'meta', 'mark zuckerberg']
 
 ## Harvard's robotic tentacle gripper is pure nightmare fuel
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59308](https://www.codeproject.com/script/News/View.aspx?nwid=59308)
@@ -8379,6 +8397,12 @@
  - date published: 2022-07-05 19:41:49.219146+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Telegram reportedly surrendered user data to authorities despite insisting '0 bytes' had ever been shared
+ - [https://www.androidpolice.com/telegram-germany-user-data-surrendered/](https://www.androidpolice.com/telegram-germany-user-data-surrendered/)
+ - date published: 2022-07-05 06:44:28+00:00
+ - user: rumpel
+ - tags: ['privacy', 'surveillance', 'telegram', 'russia']
 
 ## Nigerian Ife head: Why UK police are holding a priceless sculpture - BBC News
  - [https://www.bbc.co.uk/news/world-africa-61826273](https://www.bbc.co.uk/news/world-africa-61826273)

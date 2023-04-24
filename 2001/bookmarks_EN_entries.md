@@ -16,3 +16,9 @@
  - user: rumpel
  - tags: ['terrorism', 'surveillance', 'patriot act']
 
+## Crypto (book) - Wikipedia
+ - [https://en.m.wikipedia.org/wiki/Crypto_(book)](https://en.m.wikipedia.org/wiki/Crypto_(book))
+ - date published: 2001-04-23 07:18:36+00:00
+ - user: rumpel
+ - tags: ['crypto', 'encryption']
+

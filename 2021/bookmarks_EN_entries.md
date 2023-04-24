@@ -2470,6 +2470,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## The Arctic has warmed nearly four times faster than the globe since 1979 | Communications Earth & Environment
+ - [https://www.nature.com/articles/s43247-022-00498-3](https://www.nature.com/articles/s43247-022-00498-3)
+ - date published: 2021-08-11 07:06:25+00:00
+ - user: rumpel
+ - tags: ['climate change', 'global warming']
+
 ## Nestlé and Kellogg’s linked to shocking palm oil abuse in Papua New Guinea | Euronews
  - [https://www.euronews.com/green/2021/10/08/nestle-kellogg-s-linked-to-shocking-palm-oil-abuses-in-papua-new-guinea](https://www.euronews.com/green/2021/10/08/nestle-kellogg-s-linked-to-shocking-palm-oil-abuses-in-papua-new-guinea)
  - date published: 2021-08-10 12:22:33+00:00

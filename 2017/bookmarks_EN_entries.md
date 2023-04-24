@@ -34,6 +34,12 @@
  - user: rumpel
  - tags: ['society', 'art', 'population', 'psychology']
 
+## As DOJ calls for “responsible encryption,” expert asks “responsible to whom?” | Ars Technica
+ - [https://arstechnica.com/tech-policy/2017/11/as-doj-calls-for-responsible-encryption-expert-asks-responsible-to-whom/](https://arstechnica.com/tech-policy/2017/11/as-doj-calls-for-responsible-encryption-expert-asks-responsible-to-whom/)
+ - date published: 2017-11-24 07:40:19+00:00
+ - user: rumpel
+ - tags: ['privacy', 'surveillance', 'big brother', 'encryption', 'crypto wars']
+
 ## 10 Reasons You Should Be AFRAID of GOOGLE
  - [https://www.youtube.com/watch?v=WWDmelZxgoI](https://www.youtube.com/watch?v=WWDmelZxgoI)
  - date published: 2017-11-21 20:37:18+00:00

@@ -178,6 +178,12 @@
  - user: rumpel
  - tags: ['world economic forum', 'capitalism', 'marxism']
 
+## The undercover war on your internet secrets: How online surveillance cracked our trust in the web - TechRepublic
+ - [https://web.archive.org/web/20160612190952/http://www.techrepublic.com/article/the-undercover-war-on-your-internet-secrets-how-online-surveillance-cracked-our-trust-in-the-web/](https://web.archive.org/web/20160612190952/http://www.techrepublic.com/article/the-undercover-war-on-your-internet-secrets-how-online-surveillance-cracked-our-trust-in-the-web/)
+ - date published: 2016-06-12 07:16:27+00:00
+ - user: rumpel
+ - tags: ['privacy', 'surveillance', 'big brother', 'crypto wars', 'encryption', 'internet']
+
 ## Google accused of ‘biased’ search results favouring Clinton - The Globe and Mail
  - [https://www.theglobeandmail.com/technology/google-under-fire-after-video-suggests-biased-search-results-favour-clinton/article30402737/](https://www.theglobeandmail.com/technology/google-under-fire-after-video-suggests-biased-search-results-favour-clinton/article30402737/)
  - date published: 2016-06-10 14:15:29+00:00
@@ -213,6 +219,12 @@
  - date published: 2016-04-15 20:28:52+00:00
  - user: None
  - tags: ['anonymity', 'free speech', 'privacy', 'tracking', 'censorship']
+
+## Senate bill effectively bans strong encryption - The Daily Dot
+ - [https://www.dailydot.com/debug/encryption-backdoors-legislation-richard-burr-diane-feinstein/](https://www.dailydot.com/debug/encryption-backdoors-legislation-richard-burr-diane-feinstein/)
+ - date published: 2016-04-08 07:36:49+00:00
+ - user: rumpel
+ - tags: ['privacy', 'surveillance', 'big brother', 'encryption', 'crypto wars']
 
 ## Photographer Captures Bee-less Dystopia in China (PHOTOS)
  - [https://weather.com/science/environment/news/world-without-bees](https://weather.com/science/environment/news/world-without-bees)
@@ -273,6 +285,12 @@
  - date published: 2016-01-28 10:27:05+00:00
  - user: None
  - tags: ['aaron swartz']
+
+## Yet another bill seeks to weaken encryption-by-default on smartphones | Ars Technica
+ - [https://arstechnica.com/tech-policy/2016/01/yet-another-bill-seeks-to-weaken-encryption-by-default-on-smartphones/](https://arstechnica.com/tech-policy/2016/01/yet-another-bill-seeks-to-weaken-encryption-by-default-on-smartphones/)
+ - date published: 2016-01-21 07:35:32+00:00
+ - user: rumpel
+ - tags: ['privacy', 'surveillance', 'big brother', 'encryption', 'crypto wars']
 
 ## Microsoft may be collecting more data than initially thought - gHacks Tech News
  - [https://www.ghacks.net/2016/01/05/microsoft-may-be-collecting-more-data-than-initially-thought/](https://www.ghacks.net/2016/01/05/microsoft-may-be-collecting-more-data-than-initially-thought/)

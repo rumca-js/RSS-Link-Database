@@ -10,6 +10,12 @@
  - user: None
  - tags: ['surveillance', 'nsa', 'big brother', 'privacy']
 
+## Exclusive: Secret contract tied NSA and security industry pioneer | Reuters
+ - [https://www.reuters.com/article/us-usa-security-rsa-idUSBRE9BJ1C220131220](https://www.reuters.com/article/us-usa-security-rsa-idUSBRE9BJ1C220131220)
+ - date published: 2013-12-20 07:26:32+00:00
+ - user: rumpel
+ - tags: ['privacy', 'surveillance', 'manufacturing consent', 'big brother', 'nsa', 'encryption', 'crypto wars']
+
 ## PRISM
  - [https://en.wikipedia.org/wiki/PRISM](https://en.wikipedia.org/wiki/PRISM)
  - date published: 2013-12-11 20:58:07+00:00
@@ -57,6 +63,18 @@
  - date published: 2013-09-15 12:04:50+00:00
  - user: None
  - tags: ['google', 'wifi', 'big tech', 'corporatocracy', 'privacy']
+
+## New York Times provides new details about NSA backdoor in crypto spec | Ars Technica
+ - [https://arstechnica.com/information-technology/2013/09/new-york-times-provides-new-details-about-nsa-backdoor-in-crypto-spec/](https://arstechnica.com/information-technology/2013/09/new-york-times-provides-new-details-about-nsa-backdoor-in-crypto-spec/)
+ - date published: 2013-09-11 07:24:34+00:00
+ - user: rumpel
+ - tags: ['privacy', 'surveillance', 'big brother', 'anonymity', 'encryption', 'crypto wars']
+
+## N.S.A. Able to Foil Basic Safeguards of Privacy on Web - The New York Times
+ - [https://www.nytimes.com/2013/09/06/us/nsa-foils-much-internet-encryption.html](https://www.nytimes.com/2013/09/06/us/nsa-foils-much-internet-encryption.html)
+ - date published: 2013-09-05 07:23:09+00:00
+ - user: rumpel
+ - tags: ['privacy', 'big brother', 'anonymity', 'encryption', 'crypto wars']
 
 ## Germany warns: You just CAN'T TRUST some Windows 8 PCs • The Register
  - [https://www.theregister.com/2013/08/23/nsa_germany_windows_8/](https://www.theregister.com/2013/08/23/nsa_germany_windows_8/)
@@ -123,6 +141,12 @@
  - date published: 2013-05-14 20:58:23+00:00
  - user: rumpel
  - tags: ['paedophilia', 'germany']
+
+## Documents Reveal N.S.A. Campaign Against Encryption - Document - NYTimes.com
+ - [https://archive.nytimes.com/www.nytimes.com/interactive/2013/09/05/us/documents-reveal-nsa-campaign-against-encryption.html](https://archive.nytimes.com/www.nytimes.com/interactive/2013/09/05/us/documents-reveal-nsa-campaign-against-encryption.html)
+ - date published: 2013-04-23 07:21:05+00:00
+ - user: rumpel
+ - tags: ['privacy', 'surveillance', 'big brother', 'anonymity', 'encryption', 'crypto wars']
 
 ## Daniel Cohn-Bendit and the 1968 Revolution: Paedophilia as Part of their Political Agenda
  - [https://c-fam.org/turtle_bay/daniel-cohn-bendit-and-the-1968-revolution-paedophilia-as-part-of-their-political-agenda/](https://c-fam.org/turtle_bay/daniel-cohn-bendit-and-the-1968-revolution-paedophilia-as-part-of-their-political-agenda/)

@@ -34,6 +34,12 @@
  - user: rumpel
  - tags: ['big brother', 'nginx', 'russia']
 
+## Senators threaten encryption regulation for tech companies
+ - [https://www.cnbc.com/2019/12/10/senators-threaten-encryption-regulation-for-tech-companies.html](https://www.cnbc.com/2019/12/10/senators-threaten-encryption-regulation-for-tech-companies.html)
+ - date published: 2019-12-10 07:38:08+00:00
+ - user: rumpel
+ - tags: ['privacy', 'surveillance', 'big brother', 'tech control', 'encryption', 'crypto wars']
+
 ## The Untold Truth Of The Satanic Temple
  - [https://www.grunge.com/132693/the-untold-truth-of-the-satanic-temple/](https://www.grunge.com/132693/the-untold-truth-of-the-satanic-temple/)
  - date published: 2019-12-09 13:28:24+00:00

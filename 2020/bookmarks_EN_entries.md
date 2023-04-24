@@ -1252,6 +1252,12 @@
  - user: rumpel
  - tags: ['science is dead', 'iq', 'science']
 
+## The EARN IT Bill Is the Government’s Plan to Scan Every Message Online | Electronic Frontier Foundation
+ - [https://www.eff.org/deeplinks/2020/03/earn-it-bill-governments-not-so-secret-plan-scan-every-message-online](https://www.eff.org/deeplinks/2020/03/earn-it-bill-governments-not-so-secret-plan-scan-every-message-online)
+ - date published: 2020-03-12 07:47:45+00:00
+ - user: rumpel
+ - tags: ['privacy', 'surveillance', 'earn it act', 'big brother', 'encryption', 'crypto wars']
+
 ## A Military-Funded Biosensor Could Be the Future of Pandemic Detection - Defense One
  - [https://www.defenseone.com/technology/2020/03/military-funded-biosensor-could-be-future-pandemic-detection/163497/](https://www.defenseone.com/technology/2020/03/military-funded-biosensor-could-be-future-pandemic-detection/163497/)
  - date published: 2020-03-03 20:13:44+00:00
@@ -1335,6 +1341,12 @@
  - date published: 2020-01-30 20:15:13+00:00
  - user: rumpel
  - tags: ['quarantine', 'covid', 'australia']
+
+## The EARN IT Act: How to Ban End-to-End Encryption Without Actually Banning It | Center for Internet and Society
+ - [https://cyberlaw.stanford.edu/blog/2020/01/earn-it-act-how-ban-end-end-encryption-without-actually-banning-it](https://cyberlaw.stanford.edu/blog/2020/01/earn-it-act-how-ban-end-end-encryption-without-actually-banning-it)
+ - date published: 2020-01-30 07:46:45+00:00
+ - user: rumpel
+ - tags: ['privacy', 'surveillance', 'earn it act', 'big brother', 'encryption', 'crypto wars']
 
 ## How to Survive the 21st Century - Yuval Noah Harari | Open Transcripts
  - [http://opentranscripts.org/transcript/survive-21st-century/](http://opentranscripts.org/transcript/survive-21st-century/)
