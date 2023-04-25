@@ -4,6 +4,12 @@
  - user: rumpel
  - tags: ['surveillance']
 
+## Gain-of-function experiments: time for a real debate - PMC
+ - [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7097416/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7097416/)
+ - date published: 2014-12-08 07:25:37+00:00
+ - user: rumpel
+ - tags: ['covid', 'sars']
+
 ## Can Google be trusted?
  - [http://edition.cnn.com/2014/11/10/opinion/google-new-mission-statement/index.html?eref=edition](http://edition.cnn.com/2014/11/10/opinion/google-new-mission-statement/index.html?eref=edition)
  - date published: 2014-11-10 14:48:05+00:00
@@ -15,6 +21,12 @@
  - date published: 2014-10-30 19:52:34+00:00
  - user: rumpel
  - tags: ['church', 'evolution', 'religion']
+
+## White House halts funding on risky flu studies | Reuters
+ - [https://www.reuters.com/article/us-biosafety-research-usa-idUSKCN0I91ZD20141020](https://www.reuters.com/article/us-biosafety-research-usa-idUSKCN0I91ZD20141020)
+ - date published: 2014-10-20 07:21:36+00:00
+ - user: rumpel
+ - tags: ['covid', 'sars']
 
 ## White House to Cut Funding for Risky Biological Study - The New York Times
  - [https://www.nytimes.com/2014/10/18/us/white-house-to-cut-funding-for-risky-biological-study.html](https://www.nytimes.com/2014/10/18/us/white-house-to-cut-funding-for-risky-biological-study.html)

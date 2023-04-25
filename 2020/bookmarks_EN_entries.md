@@ -1342,6 +1342,12 @@
  - user: rumpel
  - tags: ['quarantine', 'covid', 'australia']
 
+## Facebook will remove some coronavirus conspiracy theories | Mashable
+ - [https://mashable.com/article/facebook-will-remove-coronavirus-conspiracy-theories](https://mashable.com/article/facebook-will-remove-coronavirus-conspiracy-theories)
+ - date published: 2020-01-30 08:40:59+00:00
+ - user: rumpel
+ - tags: ['moderation', 'lableak', 'facebook', 'wuhan', 'covid', 'censorship']
+
 ## The EARN IT Act: How to Ban End-to-End Encryption Without Actually Banning It | Center for Internet and Society
  - [https://cyberlaw.stanford.edu/blog/2020/01/earn-it-act-how-ban-end-end-encryption-without-actually-banning-it](https://cyberlaw.stanford.edu/blog/2020/01/earn-it-act-how-ban-end-end-encryption-without-actually-banning-it)
  - date published: 2020-01-30 07:46:45+00:00

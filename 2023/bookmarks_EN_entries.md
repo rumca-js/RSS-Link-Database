@@ -1,3 +1,9 @@
+## 85% of business leaders would let a robot make their decisions
+ - [https://www.zdnet.com/article/85-of-business-leaders-would-let-a-robot-make-their-decisions/](https://www.zdnet.com/article/85-of-business-leaders-would-let-a-robot-make-their-decisions/)
+ - date published: 2023-04-24 04:00:00+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
+
 ## Chinese Censorship Is Quietly Rewriting the Covid-19 Story
  - [https://www.nytimes.com/2023/04/23/world/europe/chinese-censorship-covid.html](https://www.nytimes.com/2023/04/23/world/europe/chinese-censorship-covid.html)
  - date published: 2023-04-23 09:00:21+00:00
@@ -27,6 +33,12 @@
  - date published: 2023-04-21 17:00:12+00:00
  - user: rumpel
  - tags: ['privacy', 'corporatocracy', 'big brother', 'anonymity', 'tech control']
+
+## Boston's SatanCon expected to be largest ever gathering of Satanists | WBUR News
+ - [https://www.wbur.org/news/2023/04/21/satanic-temple-satancon-boston](https://www.wbur.org/news/2023/04/21/satanic-temple-satancon-boston)
+ - date published: 2023-04-21 09:59:00+00:00
+ - user: rumpel
+ - tags: ['satancon', 'satanism', 'occult']
 
 ## ANDY NGO REPORTS: Oregon teachers' aide, ‘drag mom’ to child drag queen sentenced to less than 1 year in jail for 11 felony child sex crimes | The Post Millennial | thepostmillennial.com
  - [https://thepostmillennial.com/andy-ngo-reports-oregon-teachers-aide-drag-mom-to-child-drag-queen-sentenced-to-less-than-1-year-in-prison-for-11-felony-child-sex-crimes?utm_campaign=64470](https://thepostmillennial.com/andy-ngo-reports-oregon-teachers-aide-drag-mom-to-child-drag-queen-sentenced-to-less-than-1-year-in-prison-for-11-felony-child-sex-crimes?utm_campaign=64470)
@@ -208,6 +220,12 @@
  - user: rumpel
  - tags: ['euthanasia', 'netherlands']
 
+## Sam Smith Slammed For ‘Satanic,’ Overtly Sexual Performance With No Age Restrictions
+ - [https://www.dailywire.com/news/sam-smith-slammed-for-satanic-overtly-sexual-performance-with-no-age-restrictions](https://www.dailywire.com/news/sam-smith-slammed-for-satanic-overtly-sexual-performance-with-no-age-restrictions)
+ - date published: 2023-04-14 13:52:49+00:00
+ - user: rumpel
+ - tags: ['sexualisation', 'satanism']
+
 ## Farmers Win the Right to Repair Their Own Tractors in Colorado
  - [https://www.vice.com/en/article/wxj5nz/farmers-win-the-right-to-repair-their-own-tractors-in-colorado](https://www.vice.com/en/article/wxj5nz/farmers-win-the-right-to-repair-their-own-tractors-in-colorado)
  - date published: 2023-04-14 13:30:25+00:00
@@ -310,6 +328,12 @@
  - user: rumpel
  - tags: ['artificial intelligence', 'gpt-4']
 
+## IMF unveils Unicoin – a global CBDC
+ - [https://reclaimthenet.org/imf-unveils-unicoin-a-global-cbdc](https://reclaimthenet.org/imf-unveils-unicoin-a-global-cbdc)
+ - date published: 2023-04-11 18:27:31+00:00
+ - user: rumpel
+ - tags: ['unicoin', 'cbdc']
+
 ## CDC “behavior change” project targeted vaccine critics, was funded by Pfizer and New York “Misinformation Response Unit”
  - [https://reclaimthenet.org/cdc-behavior-change-project-targeted-vaccine-critics](https://reclaimthenet.org/cdc-behavior-change-project-targeted-vaccine-critics)
  - date published: 2023-04-11 18:01:23+00:00
@@ -345,6 +369,12 @@
  - date published: 2023-04-10 14:02:04+00:00
  - user: rumpel
  - tags: ['fbi', 'christianophobia']
+
+## The Digital Currency Monetary Authority (DCMA) Launches an International Central Bank Digital Currency (CBDC)
+ - [https://www.prnewswire.com/news-releases/the-digital-currency-monetary-authority-dcma-launches-an-international-central-bank-digital-currency-cbdc-301793163.html](https://www.prnewswire.com/news-releases/the-digital-currency-monetary-authority-dcma-launches-an-international-central-bank-digital-currency-cbdc-301793163.html)
+ - date published: 2023-04-10 13:34:04+00:00
+ - user: rumpel
+ - tags: ['unicoin', 'cbdc']
 
 ## Posts distort proposed LGBTQ ‘safety zone’ bill in Canada | AP News
  - [https://apnews.com/article/fact-check-canada-bill-LGBTQ-777684926093](https://apnews.com/article/fact-check-canada-bill-LGBTQ-777684926093)
@@ -1334,7 +1364,7 @@
  - [https://nypost.com/2023/03/05/new-emails-show-fauci-commissioned-paper-to-disprove-wuhan-lab-leak-theory/](https://nypost.com/2023/03/05/new-emails-show-fauci-commissioned-paper-to-disprove-wuhan-lab-leak-theory/)
  - date published: 2023-03-05 20:24:28+00:00
  - user: rumpel
- - tags: ['covid', 'science is dead', 'fauci']
+ - tags: ['lableak', 'science is dead', 'wuhan', 'fauci', 'covid']
 
 ## Facebook and Google hand over user data, help police prosecute abortion seekers
  - [https://www.businessinsider.com/police-getting-help-social-media-to-prosecute-people-seeking-abortions-2023-2](https://www.businessinsider.com/police-getting-help-social-media-to-prosecute-people-seeking-abortions-2023-2)

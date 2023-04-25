@@ -4144,6 +4144,12 @@
  - user: rumpel
  - tags: ['instagram', 'privacy', 'technofeudalism']
 
+## Dr. Anthony Fauci: The Highest Paid Employee In The Entire U.S. Federal Government
+ - [https://www.forbes.com/sites/adamandrzejewski/2021/01/25/dr-anthony-fauci-the-highest-paid-employee-in-the-entire-us-federal-government/](https://www.forbes.com/sites/adamandrzejewski/2021/01/25/dr-anthony-fauci-the-highest-paid-employee-in-the-entire-us-federal-government/)
+ - date published: 2021-01-25 08:59:10+00:00
+ - user: rumpel
+ - tags: ['fauci', 'covid']
+
 ## California ignores public records request, keeps coronavirus data hidden  | Fox News
  - [https://www.foxnews.com/politics/california-ignores-public-records-request-keeps-coronavirus-data-hidden](https://www.foxnews.com/politics/california-ignores-public-records-request-keeps-coronavirus-data-hidden)
  - date published: 2021-01-23 20:34:23+00:00

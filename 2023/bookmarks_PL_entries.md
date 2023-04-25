@@ -4,6 +4,12 @@
  - user: rumpel
  - tags: ['immigration', 'france']
 
+## Czy to jest zamach na wolność finansową? Powstaje pierwsza międzynarodowa waluta cyfrowa | FXMAG INWESTOR
+ - [https://www.fxmag.pl/artykul/czy-to-jest-zamach-na-wolnosc-finansowa-powstaje-pierwsza-miedzynarodowa-waluta-cyfrowa](https://www.fxmag.pl/artykul/czy-to-jest-zamach-na-wolnosc-finansowa-powstaje-pierwsza-miedzynarodowa-waluta-cyfrowa)
+ - date published: 2023-04-18 13:33:09+00:00
+ - user: rumpel
+ - tags: ['unicoin', 'cbdc']
+
 ## Przewodnicząca KE Ursula von der Leyen pozwana w związku z kontraktami z Pfizerem
  - [https://www.bankier.pl/wiadomosc/Przewodniczaca-KE-Ursula-von-der-Leyen-pozwana-w-zwiazku-z-kontraktami-z-Pfizerem-8524425.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Przewodniczaca-KE-Ursula-von-der-Leyen-pozwana-w-zwiazku-z-kontraktami-z-Pfizerem-8524425.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date published: 2023-04-17 17:15:00+00:00

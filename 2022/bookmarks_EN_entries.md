@@ -11284,6 +11284,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Dr. Fauci is highest-paid government employee
+ - [https://www.fox4now.com/news/national/dr-anthony-fauci-is-the-highest-paid-us-government-employee](https://www.fox4now.com/news/national/dr-anthony-fauci-is-the-highest-paid-us-government-employee)
+ - date published: 2022-01-24 08:59:38+00:00
+ - user: rumpel
+ - tags: ['fauci', 'covid']
+
 ## Finding love as a trans woman - BBC News
  - [https://www.bbc.co.uk/news/world-us-canada-60086567](https://www.bbc.co.uk/news/world-us-canada-60086567)
  - date published: 2022-01-23 22:04:01.863014+00:00

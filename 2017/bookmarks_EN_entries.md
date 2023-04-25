@@ -388,6 +388,12 @@
  - user: rumpel
  - tags: ['noam chomsky', 'social media', 'all time', 'propaganda']
 
+## China to Permit Lab Poised to Study World's Most Dangerous Pathogens - Scientific American
+ - [https://www.scientificamerican.com/article/china-to-permit-lab-poised-to-study-worlds-most-dangerous-pathogens/](https://www.scientificamerican.com/article/china-to-permit-lab-poised-to-study-worlds-most-dangerous-pathogens/)
+ - date published: 2017-02-22 07:27:05+00:00
+ - user: rumpel
+ - tags: ['covid', 'china', 'sars']
+
 ## No one went to prison after 2008 financial crisis — and the fault lies with us
  - [https://www.dallasnews.com/business/personal-finance/2017/02/13/no-one-went-to-prison-after-2008-financial-crisis-and-the-fault-lies-with-us/](https://www.dallasnews.com/business/personal-finance/2017/02/13/no-one-went-to-prison-after-2008-financial-crisis-and-the-fault-lies-with-us/)
  - date published: 2017-02-13 09:46:55+00:00
