@@ -1210,6 +1210,12 @@
  - user: rumpel
  - tags: ['china', 'covid', 'wuhan']
 
+## 'Absolutely wrong': how UK's coronavirus test strategy unravelled | Coronavirus | The Guardian
+ - [https://www.theguardian.com/world/2020/apr/01/absolutely-wrong-how-uk-coronavirus-test-strategy-unravelled](https://www.theguardian.com/world/2020/apr/01/absolutely-wrong-how-uk-coronavirus-test-strategy-unravelled)
+ - date published: 2020-04-01 16:15:20+00:00
+ - user: rumpel
+ - tags: ['covid', 'covid tests', 'science is dead']
+
 ## Misused photo of migrants’ coffins used to cast doubt on Covid-19 in Italy
  - [https://observers.france24.com/en/europe/20220106-debunked-covid-19-migrant-coffins-documentary-bergamo](https://observers.france24.com/en/europe/20220106-debunked-covid-19-migrant-coffins-documentary-bergamo)
  - date published: 2020-04-01 07:43:17+00:00

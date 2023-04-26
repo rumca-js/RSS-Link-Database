@@ -1534,6 +1534,12 @@
  - user: Thomas Pain
  - tags: ['gender', 'england', 'the left wing', 'big brother']
 
+## Canada imposes COVID-19 vaccine mandate on federal workers, transportation | Reuters
+ - [https://www.reuters.com/world/americas/unvaccinated-federal-workers-canada-will-be-put-unpaid-leave-globe-mail-2021-10-06/](https://www.reuters.com/world/americas/unvaccinated-federal-workers-canada-will-be-put-unpaid-leave-globe-mail-2021-10-06/)
+ - date published: 2021-10-06 14:23:48+00:00
+ - user: rumpel
+ - tags: ['covid', 'mandates']
+
 ## More details about the October 4 outage - Facebook Engineering
  - [https://engineering.fb.com/2021/10/05/networking-traffic/outage-details/](https://engineering.fb.com/2021/10/05/networking-traffic/outage-details/)
  - date published: 2021-10-06 06:09:00.862654+00:00

@@ -8062,6 +8062,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## COVID-19 Ottawa: 2022 death toll surpasses 2021 total | CTV News
+ - [https://ottawa.ctvnews.ca/ottawa-s-covid-19-death-toll-in-2022-surpasses-2021-total-1.6002795](https://ottawa.ctvnews.ca/ottawa-s-covid-19-death-toll-in-2022-surpasses-2021-total-1.6002795)
+ - date published: 2022-07-26 14:35:00+00:00
+ - user: rumpel
+ - tags: ['science is dead', 'canada', 'covid']
+
 ## You should take more screenshots – alexwlchan
  - [https://alexwlchan.net/2022/07/screenshots/](https://alexwlchan.net/2022/07/screenshots/)
  - date published: 2022-07-25 09:13:15.595912+00:00

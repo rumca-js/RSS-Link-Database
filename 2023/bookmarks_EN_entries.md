@@ -1,3 +1,21 @@
+## ChatGPT costs an eye-watering $700,000/day to operate, claims new research
+ - [https://www.techspot.com/news/98422-chatgpt-costs-eye-watering-700000day-operate-claims-new.html](https://www.techspot.com/news/98422-chatgpt-costs-eye-watering-700000day-operate-claims-new.html)
+ - date published: 2023-04-25 04:00:00+00:00
+ - user: rumpel
+ - tags: ['chatgpt', 'climate change', 'artificial intelligence']
+
+## after ten years, John Deere FINALLY lost
+ - [https://www.youtube.com/watch?v=4gZwaIjpZB0](https://www.youtube.com/watch?v=4gZwaIjpZB0)
+ - date published: 2023-04-25 03:15:45+00:00
+ - user: rumpel
+ - tags: ['right to repair']
+
+## You Won't Believe How Companies Can LEGALLY Lie To You!
+ - [https://www.youtube.com/watch?v=uDYTr8jjDw0](https://www.youtube.com/watch?v=uDYTr8jjDw0)
+ - date published: 2023-04-25 00:23:20+00:00
+ - user: rumpel
+ - tags: ['job']
+
 ## 85% of business leaders would let a robot make their decisions
  - [https://www.zdnet.com/article/85-of-business-leaders-would-let-a-robot-make-their-decisions/](https://www.zdnet.com/article/85-of-business-leaders-would-let-a-robot-make-their-decisions/)
  - date published: 2023-04-24 04:00:00+00:00
@@ -2667,6 +2685,12 @@
  - date published: 2023-01-20 16:50:27+00:00
  - user: rumpel
  - tags: ['google', 'dead internet', 'gmail']
+
+## Couple pimped their adopted sons out to  pedophile ring: report
+ - [https://nypost.com/2023/01/20/couple-pimped-their-adopted-sons-out-to-pedophile-ring-report/](https://nypost.com/2023/01/20/couple-pimped-their-adopted-sons-out-to-pedophile-ring-report/)
+ - date published: 2023-01-20 15:14:20+00:00
+ - user: rumpel
+ - tags: ['the left wing', 'paedophilia', 'sexualization']
 
 ## Meta, Twitter, Microsoft and others urge Supreme Court not to allow lawsuits against tech algorithms
  - [https://www.cnn.com/2023/01/20/tech/meta-microsoft-google-supreme-court-tech-algorithms/index.html](https://www.cnn.com/2023/01/20/tech/meta-microsoft-google-supreme-court-tech-algorithms/index.html)
