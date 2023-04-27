@@ -1,3 +1,27 @@
+## Mastodon Has Already Won
+ - [https://d-s.sh/2023/mastodon-has-already-won/](https://d-s.sh/2023/mastodon-has-already-won/)
+ - date published: 2023-04-26 15:43:01+00:00
+ - user: rumpel
+ - tags: ['mastodon', 'open source']
+
+## Mastodon Is Doomed
+ - [https://justingarrison.com/blog/2023-04-24-mastodon-is-doomed/](https://justingarrison.com/blog/2023-04-24-mastodon-is-doomed/)
+ - date published: 2023-04-26 14:09:03+00:00
+ - user: rumpel
+ - tags: ['mastodon', 'fediverse', 'decentralisation']
+
+## The lesson about the end of nuclear in Germany
+ - [https://jeromeaparis.substack.com/p/the-real-lesson-about-the-end-of](https://jeromeaparis.substack.com/p/the-real-lesson-about-the-end-of)
+ - date published: 2023-04-26 09:30:54+00:00
+ - user: rumpel
+ - tags: ['climate change']
+
+## Florida surgeon general altered Covid-19 vaccine analysis to suggest higher risk for younger men -- Politico | CNN
+ - [https://edition.cnn.com/2023/04/25/health/florida-covid-vaccine-analysis-ladapo/index.html](https://edition.cnn.com/2023/04/25/health/florida-covid-vaccine-analysis-ladapo/index.html)
+ - date published: 2023-04-25 07:08:00+00:00
+ - user: rumpel
+ - tags: ['anti-vax', 'misinformation', 'vaccine', 'the right wing', 'covid']
+
 ## ChatGPT costs an eye-watering $700,000/day to operate, claims new research
  - [https://www.techspot.com/news/98422-chatgpt-costs-eye-watering-700000day-operate-claims-new.html](https://www.techspot.com/news/98422-chatgpt-costs-eye-watering-700000day-operate-claims-new.html)
  - date published: 2023-04-25 04:00:00+00:00
@@ -16,11 +40,35 @@
  - user: rumpel
  - tags: ['job']
 
+## Why I'm not worried about AI causing mass unemployment
+ - [https://www.understandingai.org/p/software-didnt-eat-the-world](https://www.understandingai.org/p/software-didnt-eat-the-world)
+ - date published: 2023-04-24 16:44:30+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
+
+## European Parliament calls for ban on facial recognition
+ - [https://www.politico.eu/article/european-parliament-ban-facial-recognition-brussels/](https://www.politico.eu/article/european-parliament-ban-facial-recognition-brussels/)
+ - date published: 2023-04-24 15:17:07+00:00
+ - user: rumpel
+ - tags: ['biometric', 'facial recognition']
+
+## Trans teen died from vaginoplasty complications during landmark Dutch study used to justify child sex changes | The Post Millennial | thepostmillennial.com
+ - [https://thepostmillennial.com/trans-teen-died-from-vaginoplasty-complications-during-landmark-dutch-study-used-to-justify-child-sex-changes](https://thepostmillennial.com/trans-teen-died-from-vaginoplasty-complications-during-landmark-dutch-study-used-to-justify-child-sex-changes)
+ - date published: 2023-04-24 07:02:38+00:00
+ - user: rumpel
+ - tags: ['transgender', 'the left wing', 'sex change']
+
 ## 85% of business leaders would let a robot make their decisions
  - [https://www.zdnet.com/article/85-of-business-leaders-would-let-a-robot-make-their-decisions/](https://www.zdnet.com/article/85-of-business-leaders-would-let-a-robot-make-their-decisions/)
  - date published: 2023-04-24 04:00:00+00:00
  - user: rumpel
  - tags: ['artificial intelligence']
+
+## Lockdown’s cancer bomb may soon be worse than Covid itself
+ - [https://www.telegraph.co.uk/news/2023/04/24/lockdowns-cancer-bomb-may-soon-be-worse-than-covid-itself/](https://www.telegraph.co.uk/news/2023/04/24/lockdowns-cancer-bomb-may-soon-be-worse-than-covid-itself/)
+ - date published: 2023-04-23 10:31:06+00:00
+ - user: rumpel
+ - tags: ['covid', 'lockdown']
 
 ## Chinese Censorship Is Quietly Rewriting the Covid-19 Story
  - [https://www.nytimes.com/2023/04/23/world/europe/chinese-censorship-covid.html](https://www.nytimes.com/2023/04/23/world/europe/chinese-censorship-covid.html)
@@ -3476,7 +3524,7 @@
  - [https://www.msn.com/en-us/news/world/the-who-thinks-anti-vaccine-activism-is-deadlier-than-terrorism/ar-AA15Xzm5](https://www.msn.com/en-us/news/world/the-who-thinks-anti-vaccine-activism-is-deadlier-than-terrorism/ar-AA15Xzm5)
  - date published: 2023-01-04 22:29:52+00:00
  - user: rumpel
- - tags: ['agression', 'covid', 'vaccine']
+ - tags: ['anti-vax', 'covid', 'agression', 'vaccine']
 
 ## Apple fined $8.5 million in France over targeted App Store ads
  - [https://www.engadget.com/apple-france-fine-app-store-targeted-ads-211750930.html?src=rss](https://www.engadget.com/apple-france-fine-app-store-targeted-ads-211750930.html?src=rss)

@@ -4346,7 +4346,7 @@
  - [https://arstechnica.com/?p=1891666](https://arstechnica.com/?p=1891666)
  - date published: 2022-10-20 19:31:25+00:00
  - user: None
- - tags: ['censorship', 'moderation', 'facebook', 'vaccine', 'covid']
+ - tags: ['moderation', 'anti-vax', 'facebook', 'vaccine', 'covid', 'censorship']
 
 ## Saudis Sought Oil Production Cut So Deep It Surprised Even Russia
  - [https://theintercept.com/2022/10/20/saudi-oil-production-cut/](https://theintercept.com/2022/10/20/saudi-oil-production-cut/)
@@ -4682,7 +4682,7 @@
  - [https://www.foxnews.com/media/florida-surgeon-general-blocked-sharing-covid-vaccine-study-twitter-enormous-deal](https://www.foxnews.com/media/florida-surgeon-general-blocked-sharing-covid-vaccine-study-twitter-enormous-deal)
  - date published: 2022-10-11 17:37:42+00:00
  - user: None
- - tags: ['vaccine', 'moderation', 'censorship', 'covid']
+ - tags: ['moderation', 'anti-vax', 'vaccine', 'the right wing', 'covid', 'censorship']
 
 ## Meta Quest Pro hands-on: The $1,500 headset that ‘will enable the metaverse’
  - [https://www.engadget.com/meta-quest-pro-hands-on-specs-price-the-headset-that-will-enable-the-metaverse-173253437.html?src=rss](https://www.engadget.com/meta-quest-pro-hands-on-specs-price-the-headset-that-will-enable-the-metaverse-173253437.html?src=rss)
@@ -4832,7 +4832,7 @@
  - [https://www.floridahealth.gov/newsroom/2022/10/20220512-guidance-mrna-covid19-vaccine.pr.html](https://www.floridahealth.gov/newsroom/2022/10/20220512-guidance-mrna-covid19-vaccine.pr.html)
  - date published: 2022-10-08 15:01:24+00:00
  - user: None
- - tags: ['covid', 'vaccine', 'mrna']
+ - tags: ['mrna', 'anti-vax', 'vaccine', 'the right wing', 'covid']
 
 ## Elon Musk blames woke colleges for turning his transgender daughter Vivian, 18, against him
  - [https://www.dailymail.co.uk/news/article-11293657/Elon-Musk-blames-woke-colleges-turning-transgender-daughter-Vivian-18-against-him.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11293657/Elon-Musk-blames-woke-colleges-turning-transgender-daughter-Vivian-18-against-him.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -8066,7 +8066,7 @@
  - [https://ottawa.ctvnews.ca/ottawa-s-covid-19-death-toll-in-2022-surpasses-2021-total-1.6002795](https://ottawa.ctvnews.ca/ottawa-s-covid-19-death-toll-in-2022-surpasses-2021-total-1.6002795)
  - date published: 2022-07-26 14:35:00+00:00
  - user: rumpel
- - tags: ['science is dead', 'canada', 'covid']
+ - tags: ['science is dead', 'covid', 'canada', 'lockdown']
 
 ## You should take more screenshots – alexwlchan
  - [https://alexwlchan.net/2022/07/screenshots/](https://alexwlchan.net/2022/07/screenshots/)
@@ -9117,6 +9117,12 @@
  - date published: 2022-05-23 14:06:01.485706+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Boris Johnson pictured drinking at No 10 lockdown event - BBC News
+ - [https://www.bbc.com/news/uk-politics-61557064](https://www.bbc.com/news/uk-politics-61557064)
+ - date published: 2022-05-23 09:04:27+00:00
+ - user: rumpel
+ - tags: ['covid', 'lockdown', 'boris johnson']
 
 ## Migrating millions of lines of code to TypeScript
  - [https://stripe.com/blog/migrating-to-typescript](https://stripe.com/blog/migrating-to-typescript)
@@ -11158,6 +11164,12 @@
  - user: rumpel
  - tags: ['censorship', 'maus']
 
+## Justin Trudeau flees for a secret location as up to 50,000 'Freedom Convoy' truckers hit Ottawa | Daily Mail Online
+ - [https://www.dailymail.co.uk/news/article-10456147/Justin-Trudeau-flees-secret-location-50-000-Freedom-Convoy-truckers-hit-Ottawa.html](https://www.dailymail.co.uk/news/article-10456147/Justin-Trudeau-flees-secret-location-50-000-Freedom-Convoy-truckers-hit-Ottawa.html)
+ - date published: 2022-01-30 09:36:41+00:00
+ - user: rumpel
+ - tags: ['covid', 'justin trudeau', 'lockdown', 'mandates']
+
 ## Canadian Province Bans Support Protests Of Trucker ‘Freedom Convoy,’ Jordan Peterson Unloads: ‘Beware’ | The Daily Wire
  - [https://www.dailywire.com/news/canadian-province-bans-support-protests-of-trucker-freedom-convoy-jordan-peterson-unloads-beware](https://www.dailywire.com/news/canadian-province-bans-support-protests-of-trucker-freedom-convoy-jordan-peterson-unloads-beware)
  - date published: 2022-01-29 20:37:35+00:00
@@ -11289,6 +11301,12 @@
  - date published: 2022-01-24 11:20:57.844304+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Gartner Predicts Hyperscalers’ Carbon Emissions Will Drive Cloud Purchase Decisions by 2025
+ - [https://www.gartner.com/en/newsroom/press-releases/2022-01-24-gartner-predicts-hyperscalers-carbon-emissions-will-drive-cloud-purchase-decsions-by-2025](https://www.gartner.com/en/newsroom/press-releases/2022-01-24-gartner-predicts-hyperscalers-carbon-emissions-will-drive-cloud-purchase-decsions-by-2025)
+ - date published: 2022-01-24 10:54:00+00:00
+ - user: rumpel
+ - tags: ['cloud computing', 'esg', 'climate change']
 
 ## Dr. Fauci is highest-paid government employee
  - [https://www.fox4now.com/news/national/dr-anthony-fauci-is-the-highest-paid-us-government-employee](https://www.fox4now.com/news/national/dr-anthony-fauci-is-the-highest-paid-us-government-employee)
@@ -11606,7 +11624,7 @@
  - [https://www.nbcnews.com/news/us-news/youth-suicide-attempts-soared-during-pandemic-cdc-report-says-n1270463](https://www.nbcnews.com/news/us-news/youth-suicide-attempts-soared-during-pandemic-cdc-report-says-n1270463)
  - date published: 2022-01-09 15:36:01.889780+00:00
  - user: Thomas Pain
- - tags: $tags
+ - tags: ['covid', 'lockdown']
 
 ## Avoid meaningless binary labels — Bobbie Chen
  - [https://bobbiechen.com/blog/2022/1/5/avoid-meaningless-binary-labels](https://bobbiechen.com/blog/2022/1/5/avoid-meaningless-binary-labels)

@@ -1,3 +1,9 @@
+## W Chinach pensja już w CBDC | BitHub.pl
+ - [https://bithub.pl/kryptowaluty/w-chinach-pensja-juz-w-cbdc/](https://bithub.pl/kryptowaluty/w-chinach-pensja-juz-w-cbdc/)
+ - date published: 2023-04-23 14:55:25+00:00
+ - user: rumpel
+ - tags: ['cbdc', 'china']
+
 ## "Le Figaro": Trwa "meksykanizacja Francji" - wojny gangów narkotykowych od Paryża po Marsylię
  - [https://forsal.pl/swiat/aktualnosci/artykuly/8702662,le-figaro-trwa-meksykanizacja-francji-wojny-gangow-narkotykowych-od-paryza-po-marsylie.html](https://forsal.pl/swiat/aktualnosci/artykuly/8702662,le-figaro-trwa-meksykanizacja-francji-wojny-gangow-narkotykowych-od-paryza-po-marsylie.html)
  - date published: 2023-04-20 08:25:29+00:00

@@ -10,6 +10,12 @@
  - user: rumpel
  - tags: ['tech control', 'big brother', 'patriot act', 'surveillance']
 
+## Citizen journalist jailed for 4 years over Wuhan virus reporting | Coronavirus pandemic News | Al Jazeera
+ - [https://www.aljazeera.com/news/2020/12/28/chinese-citizen-journalist-faces-trial-for-wuhan-virus-reporting](https://www.aljazeera.com/news/2020/12/28/chinese-citizen-journalist-faces-trial-for-wuhan-virus-reporting)
+ - date published: 2020-12-28 06:57:00+00:00
+ - user: rumpel
+ - tags: ['covid', 'wuhan', 'china']
+
 ## UK: Only 377 people under 60 without preexisting conditions have died of COVID in Eng.
  - [https://twitter.com/Fox_Claire/status/1342847212208984065](https://twitter.com/Fox_Claire/status/1342847212208984065)
  - date published: 2020-12-26 21:03:33+00:00
@@ -248,7 +254,7 @@
  - [https://edition.cnn.com/2020/11/28/asia/japan-suicide-women-covid-dst-intl-hnk/index.html](https://edition.cnn.com/2020/11/28/asia/japan-suicide-women-covid-dst-intl-hnk/index.html)
  - date published: 2020-11-29 19:49:32+00:00
  - user: rumpel
- - tags: ['covid']
+ - tags: ['covid', 'lockdown']
 
 ## Car Tires Are a Major Pollution Problem - The Atlantic
  - [https://www.theatlantic.com/science/archive/2020/11/car-tires-pollution-microplastic/617216/](https://www.theatlantic.com/science/archive/2020/11/car-tires-pollution-microplastic/617216/)
@@ -1132,6 +1138,12 @@
  - user: rumpel
  - tags: ['lockdown', 'covid']
 
+## Partygate: A timeline of the lockdown parties - BBC News
+ - [https://www.bbc.com/news/uk-politics-59952395](https://www.bbc.com/news/uk-politics-59952395)
+ - date published: 2020-05-15 09:05:37+00:00
+ - user: rumpel
+ - tags: ['england', 'boris johnson', 'partygate', 'covid', 'lockdown']
+
 ## Visa Applies For Digital Dollar Blockchain Patent
  - [https://www.forbes.com/sites/jasonbrett/2020/05/14/visa-submits-patent-application-for-digital-dollar-using-blockchain/?utm_source=TWITTER&utm_medium=social&utm_content=3343342103&utm_campaign=sprinklrForbesCrypto#6e9451585b63](https://www.forbes.com/sites/jasonbrett/2020/05/14/visa-submits-patent-application-for-digital-dollar-using-blockchain/?utm_source=TWITTER&utm_medium=social&utm_content=3343342103&utm_campaign=sprinklrForbesCrypto#6e9451585b63)
  - date published: 2020-05-14 20:27:22+00:00
@@ -1245,6 +1257,12 @@
  - date published: 2020-03-20 14:11:41+00:00
  - user: None
  - tags: $tags
+
+## First Day of Stay at Home Order in the United States
+ - [https://www.timeanddate.com/holidays/us/lockdown-day-1](https://www.timeanddate.com/holidays/us/lockdown-day-1)
+ - date published: 2020-03-19 07:52:07+00:00
+ - user: rumpel
+ - tags: ['covid', 'lockdown']
 
 ## Did Video Show Italian Army Trucks Transporting Coffins Amid COVID-19 Pandemic? | Snopes.com
  - [https://www.snopes.com/fact-check/italy-army-coffins-coronavirus/](https://www.snopes.com/fact-check/italy-army-coffins-coronavirus/)

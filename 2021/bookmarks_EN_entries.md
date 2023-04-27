@@ -938,7 +938,7 @@
  - [https://www.tampabay.com/news/florida/2021/11/07/californias-covid-19-case-rate-now-twice-floridas/](https://www.tampabay.com/news/florida/2021/11/07/californias-covid-19-case-rate-now-twice-floridas/)
  - date published: 2021-11-07 20:33:36+00:00
  - user: rumpel
- - tags: ['covid', 'statistics']
+ - tags: ['statistics', 'covid', 'lockdown']
 
 ## The Oakland, California Homeless Problem is Beyond Belief
  - [https://www.youtube.com/watch?v=yRWmKh13b50](https://www.youtube.com/watch?v=yRWmKh13b50)
@@ -2649,6 +2649,12 @@
  - date published: 2021-08-02 10:52:05.951828+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Why Microsoft uses the term ‘net zero’ carefully | Greenbiz
+ - [https://www.greenbiz.com/article/why-microsoft-uses-term-net-zero-carefully](https://www.greenbiz.com/article/why-microsoft-uses-term-net-zero-carefully)
+ - date published: 2021-08-02 10:50:08+00:00
+ - user: rumpel
+ - tags: ['science is dead', 'net zero', 'climate change']
 
 ## Why printers add secret tracking dots - BBC Future
  - [https://www.bbc.com/future/article/20170607-why-printers-add-secret-tracking-dots](https://www.bbc.com/future/article/20170607-why-printers-add-secret-tracking-dots)

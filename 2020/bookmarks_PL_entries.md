@@ -10,6 +10,12 @@
  - user: rumpel
  - tags: ['propaganda', 'transmission', 'covid', 'covid lie']
 
+## Opisywała sytuację w Wuhanie na początku pandemii. 37-latka skazana na 4 lata więzienia - RMF 24
+ - [https://www.rmf24.pl/raporty/raport-koronawirus-z-chin/najnowsze-fakty/news-opisywala-sytuacje-w-wuhanie-na-poczatku-pandemii-37-latka-s,nId,4953093#crp_state=1](https://www.rmf24.pl/raporty/raport-koronawirus-z-chin/najnowsze-fakty/news-opisywala-sytuacje-w-wuhanie-na-poczatku-pandemii-37-latka-s,nId,4953093#crp_state=1)
+ - date published: 2020-12-28 06:56:12+00:00
+ - user: rumpel
+ - tags: ['covid', 'wuhan', 'china']
+
 ## Netflix usuwa więcej niż kiedykolwiek. Zniknie 129 tytułów, w tym „Harry Potter” i „Władca Pierścien
  - [https://spidersweb.pl/rozrywka/2020/12/25/netflix-grudzien-2020-harry-potter-przyjaciele-usuwane-31-grudnia](https://spidersweb.pl/rozrywka/2020/12/25/netflix-grudzien-2020-harry-potter-przyjaciele-usuwane-31-grudnia)
  - date published: 2020-12-25 12:04:50+00:00
