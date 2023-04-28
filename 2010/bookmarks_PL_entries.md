@@ -8,5 +8,5 @@
  - [https://www.polityka.pl/tygodnikpolityka/rynek/1503524,1,skandynawskie-parytety-w-biznesie.read](https://www.polityka.pl/tygodnikpolityka/rynek/1503524,1,skandynawskie-parytety-w-biznesie.read)
  - date published: 2010-02-25 13:55:37+00:00
  - user: rumpel
- - tags: ['propaganda', 'feminism', 'brainwashing', 'socialism', 'sexism']
+ - tags: ['propaganda', 'feminism', 'socialism', 'sexism']
 

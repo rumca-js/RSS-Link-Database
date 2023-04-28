@@ -26,7 +26,7 @@
  - [https://www.youtube.com/watch?v=8Q-3qwEDyPM](https://www.youtube.com/watch?v=8Q-3qwEDyPM)
  - date published: 2015-10-26 16:07:21+00:00
  - user: None
- - tags: ['edward bernays', 'disinformation', 'propaganda', 'misinformation', 'bernays']
+ - tags: ['edward bernays', 'disinformation', 'misinformation', 'propaganda']
 
 ## Noam Chomsky - Manufacturing Consent
  - [https://www.youtube.com/watch?v=tTBWfkE7BXU](https://www.youtube.com/watch?v=tTBWfkE7BXU)

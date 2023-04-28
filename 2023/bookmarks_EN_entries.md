@@ -1,3 +1,27 @@
+## Metacritic announces stricter censorship after negative user reviews of Horizon Forbidden West: Burning Shores
+ - [https://reclaimthenet.org/metacritic-announces-stricter-censorship-horizon-burning-shores](https://reclaimthenet.org/metacritic-announces-stricter-censorship-horizon-burning-shores)
+ - date published: 2023-04-27 17:00:04+00:00
+ - user: rumpel
+ - tags: ['propaganda', 'censorship']
+
+## Global Warming Trend 'Only 1/2 of the Climate Model Simulations' Says New Paper
+ - [https://reason.com/2023/04/27/global-warming-trend-is-only-one-half-of-the-climate-model-simulations-says-new-paper/](https://reason.com/2023/04/27/global-warming-trend-is-only-one-half-of-the-climate-model-simulations-says-new-paper/)
+ - date published: 2023-04-27 16:35:00+00:00
+ - user: rumpel
+ - tags: ['climate change', 'global warming']
+
+## Banning Gas-Powered Cars Won't Save the Environment | Opinion
+ - [https://www.newsweek.com/banning-gas-powered-cars-wont-save-environment-opinion-1796894](https://www.newsweek.com/banning-gas-powered-cars-wont-save-environment-opinion-1796894)
+ - date published: 2023-04-27 10:30:01+00:00
+ - user: rumpel
+ - tags: ['electric vehicles']
+
+## Brazil judge orders temporary suspension of Telegram
+ - [https://apnews.com/article/brazil-telegram-suspension-social-media-school-violence-d72acaacd3c1b4d07c2c4fcb094f4ce6](https://apnews.com/article/brazil-telegram-suspension-social-media-school-violence-d72acaacd3c1b4d07c2c4fcb094f4ce6)
+ - date published: 2023-04-27 01:51:58+00:00
+ - user: rumpel
+ - tags: ['the right wing', 'crypto wars', 'telegram', 'big brother']
+
 ## Mastodon Has Already Won
  - [https://d-s.sh/2023/mastodon-has-already-won/](https://d-s.sh/2023/mastodon-has-already-won/)
  - date published: 2023-04-26 15:43:01+00:00
@@ -9,6 +33,12 @@
  - date published: 2023-04-26 14:09:03+00:00
  - user: rumpel
  - tags: ['mastodon', 'fediverse', 'decentralisation']
+
+## Prokuratura "nie ma 100-proc. pewności", że handlarz bronią od respiratorów nie żyje
+ - [https://wyborcza.pl/7,75398,29702938,prokuratura-nie-ma-100-proc-pewnosci-ze-handlarz-bronia.html#S.MT-K.C-B.1-L.1.duzy](https://wyborcza.pl/7,75398,29702938,prokuratura-nie-ma-100-proc-pewnosci-ze-handlarz-bronia.html#S.MT-K.C-B.1-L.1.duzy)
+ - date published: 2023-04-26 10:31:47+00:00
+ - user: rumpel
+ - tags: ['covid', 'poland']
 
 ## The lesson about the end of nuclear in Germany
  - [https://jeromeaparis.substack.com/p/the-real-lesson-about-the-end-of](https://jeromeaparis.substack.com/p/the-real-lesson-about-the-end-of)
@@ -190,6 +220,12 @@
  - user: rumpel
  - tags: ['the right wing', 'elections', 'disinformation', 'fox news', 'january 6']
 
+## Biden and the Media Are Electric-Vehicle Grifters - WSJ
+ - [https://www.wsj.com/articles/joe-biden-and-the-media-are-ev-grifters-carbon-tax-emissions-fossil-fuels-subsidies-3c6d6a21?mod=hp_opin_pos_4#cxrecs_s](https://www.wsj.com/articles/joe-biden-and-the-media-are-ev-grifters-carbon-tax-emissions-fossil-fuels-subsidies-3c6d6a21?mod=hp_opin_pos_4#cxrecs_s)
+ - date published: 2023-04-18 14:01:28+00:00
+ - user: rumpel
+ - tags: ['electric vehicles', 'climate change']
+
 ## Patti LuPone bashes Christian Right as no different from the Taliban in rant on 'The View': 'I could cry'
  - [https://www.foxnews.com/media/patti-lupone-bashes-christian-right-different-taliban-rant-the-view-could-cry](https://www.foxnews.com/media/patti-lupone-bashes-christian-right-different-taliban-rant-the-view-could-cry)
  - date published: 2023-04-18 13:35:40+00:00
@@ -290,7 +326,7 @@
  - [https://www.dailywire.com/news/sam-smith-slammed-for-satanic-overtly-sexual-performance-with-no-age-restrictions](https://www.dailywire.com/news/sam-smith-slammed-for-satanic-overtly-sexual-performance-with-no-age-restrictions)
  - date published: 2023-04-14 13:52:49+00:00
  - user: rumpel
- - tags: ['sexualisation', 'satanism']
+ - tags: ['sexualization', 'satanism']
 
 ## Farmers Win the Right to Repair Their Own Tractors in Colorado
  - [https://www.vice.com/en/article/wxj5nz/farmers-win-the-right-to-repair-their-own-tractors-in-colorado](https://www.vice.com/en/article/wxj5nz/farmers-win-the-right-to-repair-their-own-tractors-in-colorado)
@@ -1280,7 +1316,7 @@
  - [https://www.forbes.com/sites/brianbushard/2023/03/10/svb-financial-ceo-sold-36-million-in-stock-before-banks-collapse/](https://www.forbes.com/sites/brianbushard/2023/03/10/svb-financial-ceo-sold-36-million-in-stock-before-banks-collapse/)
  - date published: 2023-03-10 15:02:56+00:00
  - user: rumpel
- - tags: ['silicon valley bank', 'svb', 'crisis']
+ - tags: ['crisis', 'silicon valley bank']
 
 ## Mullvad's campaign against EU chat control
  - [https://mullvad.net/en/chatcontrol/campaign](https://mullvad.net/en/chatcontrol/campaign)
@@ -1640,7 +1676,7 @@
  - [https://biz.crast.net/a-woman-who-was-locked-out-of-her-apple-account-minutes-after-her-iphone-was-stolen-and-10000-was-taken-from-her-bank-account-says-apple-was-not-helpful-at-all/](https://biz.crast.net/a-woman-who-was-locked-out-of-her-apple-account-minutes-after-her-iphone-was-stolen-and-10000-was-taken-from-her-bank-account-says-apple-was-not-helpful-at-all/)
  - date published: 2023-02-26 07:31:37+00:00
  - user: rumpel
- - tags: ['iphone', 'technofeudalism', 'theft', 'apple']
+ - tags: ['apple', 'technofeudalism', 'iphone']
 
 ## Yes, hate speech is constitutionally protected
  - [https://thehill.com/opinion/judiciary/3873943-yes-hate-speech-is-constitutionally-protected/](https://thehill.com/opinion/judiciary/3873943-yes-hate-speech-is-constitutionally-protected/)
@@ -1898,7 +1934,7 @@
  - [https://www.cnn.com/2023/02/15/tech/asml-china-employee-data-breach-intl-hnk/index.html](https://www.cnn.com/2023/02/15/tech/asml-china-employee-data-breach-intl-hnk/index.html)
  - date published: 2023-02-16 04:57:57+00:00
  - user: rumpel
- - tags: ['theft', 'intellectual property', 'china', 'espionage']
+ - tags: ['intellectual property', 'espionage', 'china']
 
 ## Portuguese Catholic Church shaken by report of 5,000 child-victims of sexual abuse
  - [https://www.lemonde.fr/en/international/article/2023/02/15/portuguese-catholic-church-shaken-by-report-of-5-000-child-victims-of-sexual-abuse_6015830_4.html](https://www.lemonde.fr/en/international/article/2023/02/15/portuguese-catholic-church-shaken-by-report-of-5-000-child-victims-of-sexual-abuse_6015830_4.html)
@@ -2564,7 +2600,7 @@
  - [https://www.bizpacreview.com/2023/01/26/creepy-rbg-medusa-statue-erected-at-nyc-courthouse-in-part-of-an-urgent-and-cultural-reckoning-1327894/](https://www.bizpacreview.com/2023/01/26/creepy-rbg-medusa-statue-erected-at-nyc-courthouse-in-part-of-an-urgent-and-cultural-reckoning-1327894/)
  - date published: 2023-01-26 07:37:42+00:00
  - user: rumpel
- - tags: ['satanic', 'abortion']
+ - tags: ['abortion', 'satanism']
 
 ## Why is Trump allowed back on Facebook and will Meta’s ‘guardrails’ contain him?
  - [https://www.theguardian.com/us-news/2023/jan/26/why-is-donald-trump-being-allowed-back-on-facebook-instagram-ban-meta-guardrails](https://www.theguardian.com/us-news/2023/jan/26/why-is-donald-trump-being-allowed-back-on-facebook-instagram-ban-meta-guardrails)

@@ -284,7 +284,7 @@
  - [https://www.rp.pl/swiat/art8695031-niemcy-zlamiesz-kwarantanne-trafisz-do-obozu](https://www.rp.pl/swiat/art8695031-niemcy-zlamiesz-kwarantanne-trafisz-do-obozu)
  - date published: 2021-01-21 14:12:34+00:00
  - user: rumpel
- - tags: ['vaccine', 'camps', 'germany']
+ - tags: ['quarantine', 'covid', 'germany', 'vaccine']
 
 ## Szpitale tymczasowe kosztowały ponad 500 mln zł. Dlaczego stoją puste?
  - [https://www.medonet.pl/koronawirus/koronawirus-w-polsce,szpitale-tymczasowe-kosztowaly-ponad-500-mln-zlotych--dlaczego-stoja-puste-,artykul,98771495.html](https://www.medonet.pl/koronawirus/koronawirus-w-polsce,szpitale-tymczasowe-kosztowaly-ponad-500-mln-zlotych--dlaczego-stoja-puste-,artykul,98771495.html)

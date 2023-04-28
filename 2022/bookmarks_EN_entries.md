@@ -26,7 +26,7 @@
  - [https://www.youtube.com/watch?v=k9kXnm9uW5k](https://www.youtube.com/watch?v=k9kXnm9uW5k)
  - date published: 2022-12-31 02:31:29+00:00
  - user: rumpel
- - tags: ['luis rossmann', 'right to repair', 'corporatocracy']
+ - tags: ['louis rossmann', 'right to repair', 'corporatocracy']
 
 ## Google to pay Indiana $20 million to resolve privacy suit
  - [https://abcnews.go.com/Business/wireStory/google-pay-indiana-20-million-resolve-privacy-suit-95988766](https://abcnews.go.com/Business/wireStory/google-pay-indiana-20-million-resolve-privacy-suit-95988766)
@@ -104,7 +104,7 @@
  - [https://www.youtube.com/watch?v=jWBTnrkz6lY](https://www.youtube.com/watch?v=jWBTnrkz6lY)
  - date published: 2022-12-29 17:29:08+00:00
  - user: rumpel
- - tags: ['face recognition', 'corporatocracy', 'technofeudalism']
+ - tags: ['technofeudalism', 'facial recognition', 'corporatocracy']
 
 ## Elon Musk slams Fauci for infamous 'I am science' quote that refuted all criticism of COVID policy
  - [https://www.dailymail.co.uk/news/article-11582583/Elon-Musk-slams-Fauci-infamous-science-quote-refuted-criticism-COVID-policy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11582583/Elon-Musk-slams-Fauci-infamous-science-quote-refuted-criticism-COVID-policy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -266,7 +266,7 @@
  - [https://www.theepochtimes.com/big-tech-is-eliminating-human-and-civil-rights-by-proxy-security-expert_4940278.html](https://www.theepochtimes.com/big-tech-is-eliminating-human-and-civil-rights-by-proxy-security-expert_4940278.html)
  - date published: 2022-12-25 19:33:38+00:00
  - user: rumpel
- - tags: ['censorship', 'censorship laundering', 'surveillance', 'big tech', 'bigbrothercollusion']
+ - tags: ['privacy', 'surveillance', 'big tech', 'corporatocracy', 'censorship laundering', 'censorship']
 
 ## The FBI was the primary link between the intelligence community and Twitter
  - [https://threadreaderapp.com/thread/1606701397109796866.html](https://threadreaderapp.com/thread/1606701397109796866.html)
@@ -1736,7 +1736,7 @@
  - [https://seths.blog/2022/12/the-reasons-search-is-getting-worse/](https://seths.blog/2022/12/the-reasons-search-is-getting-worse/)
  - date published: 2022-12-02 14:33:55+00:00
  - user: rumpel
- - tags: ['dead internet', 'google', 'search engine']
+ - tags: ['google', 'dead internet', 'search engines']
 
 ## Smartphones wiped out 97% of the compact camera market
  - [https://asia.nikkei.com/Business/Business-trends/Panasonic-Nikon-quit-developing-low-end-compact-digital-cameras](https://asia.nikkei.com/Business/Business-trends/Panasonic-Nikon-quit-developing-low-end-compact-digital-cameras)
@@ -2198,7 +2198,7 @@
  - [https://www.dailymail.co.uk/news/article-11455653/Quentin-Tarantino-says-Marvel-actors-arent-movie-stars-bemoans-Marvel-ization-cinema.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11455653/Quentin-Tarantino-says-Marvel-actors-arent-movie-stars-bemoans-Marvel-ization-cinema.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2022-11-22 12:51:59+00:00
  - user: None
- - tags: ['movies', 'tarantino', 'marvel']
+ - tags: ['movies', 'marvel', 'quentin tarantino']
 
 ## Mycroft – open source voice assistant
  - [https://mycroft.ai/](https://mycroft.ai/)
@@ -2240,7 +2240,7 @@
  - [https://brownstone.org/articles/covid-to-cbdc-to-full-control/](https://brownstone.org/articles/covid-to-cbdc-to-full-control/)
  - date published: 2022-11-21 20:04:57+00:00
  - user: rumpel
- - tags: ['technofeudlaism', 'covid', 'cbdc']
+ - tags: ['covid', 'technofeudalism', 'cbdc']
 
 ## Elon Musk reveals why he will never let Alex Jones back on Twitter
  - [https://www.dailymail.co.uk/news/article-11451899/Elon-Musk-reveals-never-let-Alex-Jones-Twitter.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11451899/Elon-Musk-reveals-never-let-Alex-Jones-Twitter.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -3434,7 +3434,7 @@
  - [https://www.louderwithcrowder.com/youtube-suspends-louder-crowder-musk](https://www.louderwithcrowder.com/youtube-suspends-louder-crowder-musk)
  - date published: 2022-10-29 21:14:04+00:00
  - user: None
- - tags: ['censorship', 'twitter', 'crowder', 'elon musk', 'youtube']
+ - tags: ['elon musk', 'youtube', 'twitter', 'louder with crowder', 'censorship']
 
 ## AdGuardHome: Network-wide ads and trackers blocking DNS server
  - [https://github.com/AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)
@@ -4010,7 +4010,7 @@
  - [https://www.theverge.com/2022/10/24/23421405/hauwei-justice-department-garland-chinese-spies](https://www.theverge.com/2022/10/24/23421405/hauwei-justice-department-garland-chinese-spies)
  - date published: 2022-10-24 19:35:27+00:00
  - user: None
- - tags: ['hawei', 'spies', 'china']
+ - tags: ['espionage', 'hawei', 'china']
 
 ## The EU's Proposed Cyber Resilience Act Will Damage the Open Source Ecosystem - Internet Society
  - [https://www.internetsociety.org/blog/2022/10/the-eus-proposed-cyber-resilience-act-will-damage-the-open-source-ecosystem/](https://www.internetsociety.org/blog/2022/10/the-eus-proposed-cyber-resilience-act-will-damage-the-open-source-ecosystem/)
@@ -4538,7 +4538,7 @@
  - [https://www.nytimes.com/2022/10/14/world/asia/china-internet-protest-xi-jinping.html](https://www.nytimes.com/2022/10/14/world/asia/china-internet-protest-xi-jinping.html)
  - date published: 2022-10-14 10:53:15+00:00
  - user: None
- - tags: ['protests', 'china', 'censorship']
+ - tags: ['protest', 'china', 'censorship']
 
 ## Meta's VR legs video wasn't what it seemed
  - [https://www.engadget.com/meta-vr-legs-video-mocap-105007370.html?src=rss](https://www.engadget.com/meta-vr-legs-video-mocap-105007370.html?src=rss)
@@ -5936,7 +5936,7 @@
  - [https://dailysceptic.org/2022/09/21/paypal-demonetises-the-daily-sceptic/](https://dailysceptic.org/2022/09/21/paypal-demonetises-the-daily-sceptic/)
  - date published: 2022-09-21 11:33:32+00:00
  - user: rumpel
- - tags: ['censorship', 'paypal', 'daily sceptic', 'moderation']
+ - tags: ['daily sceptic', 'misinformation', 'paypal', 'moderation']
 
 ## FBI Suspends Whistleblower Who Criticized Bureau’s Handling Of January 6 Investigations: Report
  - [https://www.dailywire.com/news/fbi-suspends-whistleblower-who-criticized-bureaus-handling-of-january-6-investigations-report](https://www.dailywire.com/news/fbi-suspends-whistleblower-who-criticized-bureaus-handling-of-january-6-investigations-report)
@@ -6086,7 +6086,7 @@
  - [https://www.tiktok.com/legal/privacy-policy-us?lang=en](https://www.tiktok.com/legal/privacy-policy-us?lang=en)
  - date published: 2022-09-18 10:28:53+00:00
  - user: None
- - tags: ['surveillance', 'tiktok', 'big tech', 'privacy', 'bigbrothre']
+ - tags: ['privacy', 'surveillance', 'big tech', 'corporatocracy', 'technofeudalism', 'tiktok']
 
 ## School District Defends Trans Shop Teacher Whose Enormous Fake Breasts Spurred Internet Furor
  - [https://www.dailywire.com/news/school-district-defends-trans-shop-teacher-whose-enormous-fake-breasts-spurred-internet-furor](https://www.dailywire.com/news/school-district-defends-trans-shop-teacher-whose-enormous-fake-breasts-spurred-internet-furor)
@@ -6698,7 +6698,7 @@
  - [https://www.wsj.com/articles/renewables-carbon-credits-do-not-cut-emissions-united-nations-verra-gold-standard-11662644900](https://www.wsj.com/articles/renewables-carbon-credits-do-not-cut-emissions-united-nations-verra-gold-standard-11662644900)
  - date published: 2022-09-09 16:01:08+00:00
  - user: rumpel
- - tags: ['emissions', 'climate drama', 'climate change', 'carbon']
+ - tags: ['science is dead', 'climate drama', 'climate change']
 
 ## Ask HN: Why do we need central bank digital currency (CBDC)?
  - [https://news.ycombinator.com/item?id=32777875](https://news.ycombinator.com/item?id=32777875)
@@ -7088,7 +7088,7 @@
  - [https://www.foxnews.com/world/fbi-issue-warning-anti-vaxxer-crossed-canadian-border-protest-us-open-report](https://www.foxnews.com/world/fbi-issue-warning-anti-vaxxer-crossed-canadian-border-protest-us-open-report)
  - date published: 2022-09-03 19:19:26+00:00
  - user: None
- - tags: ['protest', 'fbi', 'anti-vaxx', 'common-sense']
+ - tags: ['anti-vax', 'protest', 'fbi']
 
 ## The World’s Energy Problem Is Far Worse Than We’re Being Told
  - [https://oilprice.com/Energy/Crude-Oil/The-Worlds-Energy-Problem-Is-Far-Worse-Than-Were-Being-Told.html](https://oilprice.com/Energy/Crude-Oil/The-Worlds-Energy-Problem-Is-Far-Worse-Than-Were-Being-Told.html)
@@ -8624,7 +8624,7 @@
  - [https://www.globalresearch.ca/top-10-scariest-things-come-out-wef/5783410](https://www.globalresearch.ca/top-10-scariest-things-come-out-wef/5783410)
  - date published: 2022-06-19 18:08:11+00:00
  - user: rumpel
- - tags: ['great reset', 'wef', 'world economic forum', 'dystopian']
+ - tags: ['dystopia', 'wef', 'great reset', 'world economic forum']
 
 ## Pop-ups are dead, long live pop-ups: or, the bait-and-switch hidden in today’s cookie announcement – Hi, I'm Heather Burns
  - [https://webdevlaw.uk/2022/06/17/data-reform-bill-cookie-popups/](https://webdevlaw.uk/2022/06/17/data-reform-bill-cookie-popups/)
@@ -10150,6 +10150,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## ‘The last thing you want to see’: The backlash against Mother’s Day opt-out emails | The Independent
+ - [https://www.independent.co.uk/life-style/women/mothers-day-emails-opt-out-b2043940.html](https://www.independent.co.uk/life-style/women/mothers-day-emails-opt-out-b2043940.html)
+ - date published: 2022-03-27 14:17:23+00:00
+ - user: rumpel
+ - tags: ['family']
+
 ## Google destroyed my Google Play Developer Account and my work for the last 2 years. | by Andrei Savchuk | Mar, 2022 | Dev Genius
  - [https://blog.devgenius.io/google-destroyed-my-google-play-developer-account-and-my-work-for-the-last-2-years-c4aa5034a221](https://blog.devgenius.io/google-destroyed-my-google-play-developer-account-and-my-work-for-the-last-2-years-c4aa5034a221)
  - date published: 2022-03-27 11:00:25.822831+00:00
@@ -11534,7 +11540,7 @@
  - [https://www.foxnews.com/media/mainstream-media-insulting-unvaccinated-americans-covid](https://www.foxnews.com/media/mainstream-media-insulting-unvaccinated-americans-covid)
  - date published: 2022-01-13 10:05:24+00:00
  - user: rumpel
- - tags: ['covid', 'antivax', 'covid shaming']
+ - tags: ['anti-vax', 'covid', 'covid shaming']
 
 ## Google hired union-busting consultants to convince employees “unions suck” | Ars Technica
  - [https://arstechnica.com/tech-policy/2022/01/google-hired-union-busting-consultants-to-convince-employees-unions-suck/](https://arstechnica.com/tech-policy/2022/01/google-hired-union-busting-consultants-to-convince-employees-unions-suck/)

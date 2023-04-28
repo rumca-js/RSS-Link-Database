@@ -3242,7 +3242,7 @@
  - [https://www.dailywire.com/news/communist-cuba-begins-cracking-down-on-freedom-protesters-internet-and-cell-service-cut](https://www.dailywire.com/news/communist-cuba-begins-cracking-down-on-freedom-protesters-internet-and-cell-service-cut)
  - date published: 2021-07-12 19:42:49+00:00
  - user: rumpel
- - tags: ['freedom', 'prostest', 'cuba']
+ - tags: ['freedom', 'prostests', 'cuba']
 
 ## POLITICO-Harvard poll: Most Americans believe Covid leaked from lab  - POLITICO
  - [https://www.politico.com/news/2021/07/09/poll-covid-wuhan-lab-leak-498847](https://www.politico.com/news/2021/07/09/poll-covid-wuhan-lab-leak-498847)
@@ -4090,6 +4090,12 @@
  - user: rumpel
  - tags: ['wuhan', 'covid', 'who', 'lableak']
 
+## Interner E-Mail-Verkehr: Innenministerium spannte Wissenschaftler ein - WELT
+ - [https://www.welt.de/politik/deutschland/article225864597/Interner-E-Mail-Verkehr-Innenministerium-spannte-Wissenschaftler-ein.html](https://www.welt.de/politik/deutschland/article225864597/Interner-E-Mail-Verkehr-Innenministerium-spannte-Wissenschaftler-ein.html)
+ - date published: 2021-02-07 15:02:12+00:00
+ - user: rumpel
+ - tags: ['covid', 'germany', 'lockdown']
+
 ## AOC faces backlash as critics point out she wasn't in Capitol building during riot | Fox News
  - [https://www.foxnews.com/politics/aoc-under-fire-amid-details-that-she-wasnt-in-capitol-building-during-riots](https://www.foxnews.com/politics/aoc-under-fire-amid-details-that-she-wasnt-in-capitol-building-during-riots)
  - date published: 2021-02-03 20:45:01+00:00
@@ -4268,7 +4274,7 @@
  - [https://www.bbc.com/news/uk-scotland-edinburgh-east-fife-55601318](https://www.bbc.com/news/uk-scotland-edinburgh-east-fife-55601318)
  - date published: 2021-01-09 10:20:09+00:00
  - user: rumpel
- - tags: ['protests', 'covid', 'lockdown', 'scotland']
+ - tags: ['scotland', 'protest', 'covid', 'lockdown']
 
 ## Reddit Bans Pro-Trump Subreddit for Inciting Violence
  - [https://www.businessinsider.com/reddit-bans-donald-trump-forum-us-capitol-rioters-2021-1?IR=T](https://www.businessinsider.com/reddit-bans-donald-trump-forum-us-capitol-rioters-2021-1?IR=T)

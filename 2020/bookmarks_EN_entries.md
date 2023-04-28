@@ -554,7 +554,7 @@
  - [https://economictimes.indiatimes.com/news/international/world-news/three-million-uyghurs-detained-in-concentration-camps-by-beijing-activist/articleshow/78343963.cms](https://economictimes.indiatimes.com/news/international/world-news/three-million-uyghurs-detained-in-concentration-camps-by-beijing-activist/articleshow/78343963.cms)
  - date published: 2020-09-27 20:56:51+00:00
  - user: rumpel
- - tags: ['uyghurs', 'china', 'genocide']
+ - tags: ['uyghur', 'genocide', 'china']
 
 ## BLM leader arrested for allegedly spending $200K in donations on tailored suits, a house, and guns | Washington Examiner
  - [https://www.washingtonexaminer.com/news/blm-leader-arrested-for-allegedly-spending-200k-in-donations-on-tailored-suits-a-house-and-guns](https://www.washingtonexaminer.com/news/blm-leader-arrested-for-allegedly-spending-200k-in-donations-on-tailored-suits-a-house-and-guns)
@@ -1148,7 +1148,7 @@
  - [https://www.forbes.com/sites/jasonbrett/2020/05/14/visa-submits-patent-application-for-digital-dollar-using-blockchain/?utm_source=TWITTER&utm_medium=social&utm_content=3343342103&utm_campaign=sprinklrForbesCrypto#6e9451585b63](https://www.forbes.com/sites/jasonbrett/2020/05/14/visa-submits-patent-application-for-digital-dollar-using-blockchain/?utm_source=TWITTER&utm_medium=social&utm_content=3343342103&utm_campaign=sprinklrForbesCrypto#6e9451585b63)
  - date published: 2020-05-14 20:27:22+00:00
  - user: rumpel
- - tags: ['digital dollar', 'digital money', 'visa']
+ - tags: ['cbdc', 'visa']
 
 ## More than 100,000 small businesses have permanently closed due to coronavirus, study estimates – The Hill
  - [https://thehill.com/changing-america/well-being/longevity/497519-more-than-100000-small-businesses-have-permanently/](https://thehill.com/changing-america/well-being/longevity/497519-more-than-100000-small-businesses-have-permanently/)

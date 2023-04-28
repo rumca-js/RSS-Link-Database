@@ -356,7 +356,7 @@
  - [https://www.thesun.co.uk/news/3037357/wikileaks-vault-7-samsung-tv-weeping-angel-cia/](https://www.thesun.co.uk/news/3037357/wikileaks-vault-7-samsung-tv-weeping-angel-cia/)
  - date published: 2017-03-09 21:48:33+00:00
  - user: rumpel
- - tags: ['surveilllance', 'vault7', 'malware', 'vulnerability', 'wikileaks', 'cia']
+ - tags: ['vulnerability', 'surveillance', 'vault7', 'wikileaks', 'malware', 'cia']
 
 ## Security experts say 'Vault 7' leak describes common, public hacks
  - [https://money.cnn.com/2017/03/09/technology/cia-smart-tv-wikileaks-public-hacks/](https://money.cnn.com/2017/03/09/technology/cia-smart-tv-wikileaks-public-hacks/)

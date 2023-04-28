@@ -938,7 +938,7 @@
  - [https://truestory.pl/prof-bralczyk-broni-murzyna-tiktok-usuwa-jego-wypowiedz/](https://truestory.pl/prof-bralczyk-broni-murzyna-tiktok-usuwa-jego-wypowiedz/)
  - date published: 2022-09-20 10:00:53+00:00
  - user: rumpel
- - tags: ['murzyn', 'poland', 'political correctness']
+ - tags: ['murzyn', 'newspeak', 'technofeudalism', 'poland', 'political correctness', 'censorship']
 
 ## How Singapore Got Insanely Rich
  - [https://www.youtube.com/watch?v=XSOgcpRbrCo](https://www.youtube.com/watch?v=XSOgcpRbrCo)

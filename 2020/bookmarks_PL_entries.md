@@ -232,13 +232,13 @@
  - [https://www.tokfm.pl/Tokfm/7,103087,25965883,brat-ministra-szumowskiego-tlumaczy-sie-z-afery-z-maseczkami.html](https://www.tokfm.pl/Tokfm/7,103087,25965883,brat-ministra-szumowskiego-tlumaczy-sie-z-afery-z-maseczkami.html)
  - date published: 2020-05-22 20:28:16+00:00
  - user: rumpel
- - tags: ['poland', 'szumowski', 'covid']
+ - tags: ['łukasz szumowski', 'covid', 'poland']
 
 ## Ministerstwo zdrowia kupiło maseczki od znajomego ministra Szumowskiego. Teraz żąda zwrotu pieniędzy - Money.pl
  - [https://www.money.pl/gospodarka/ministerstwo-zdrowia-kupilo-maseczki-od-znajomego-ministra-szumowskiego-teraz-zada-zwrotu-pieniedzy-6509608986204289a.html](https://www.money.pl/gospodarka/ministerstwo-zdrowia-kupilo-maseczki-od-znajomego-ministra-szumowskiego-teraz-zada-zwrotu-pieniedzy-6509608986204289a.html)
  - date published: 2020-05-12 20:29:09+00:00
  - user: rumpel
- - tags: ['poland', 'szumowski', 'covid', 'masks']
+ - tags: ['łukasz szumowski', 'covid', 'masks', 'poland']
 
 ## Jest afera. Każdy smartfon Xiaomi to podobno „backdoor z funkcjonalnością telefonu”
  - [https://www.benchmark.pl/aktualnosci/smartfony-xiaomi-zbieraja-wszystkie-dane-o-uzytkowniku.html](https://www.benchmark.pl/aktualnosci/smartfony-xiaomi-zbieraja-wszystkie-dane-o-uzytkowniku.html)

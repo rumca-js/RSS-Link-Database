@@ -64,6 +64,12 @@
  - user: rumpel
  - tags: ['managment', 'programming', 'it']
 
+## Solar Panels Produce Tons of Toxic Waste—Literally - Foundation for Economic Education
+ - [https://fee.org/articles/solar-panels-produce-tons-of-toxic-waste-literally/?gclid=CjwKCAjw0ZiiBhBKEiwA4PT9z2w-UEr_2Ka1BOTL6i4t8buUedbYA_HVBJknXDuLgPTjlxTLkyWBPhoCIEIQAvD_BwE](https://fee.org/articles/solar-panels-produce-tons-of-toxic-waste-literally/?gclid=CjwKCAjw0ZiiBhBKEiwA4PT9z2w-UEr_2Ka1BOTL6i4t8buUedbYA_HVBJknXDuLgPTjlxTLkyWBPhoCIEIQAvD_BwE)
+ - date published: 2019-11-18 13:59:58+00:00
+ - user: rumpel
+ - tags: ['solar panels', 'climate change']
+
 ## Spirited Away Revealed: The Real Mythology & Folklore Explained!
  - [https://www.youtube.com/watch?v=GRVpWwMXrl8](https://www.youtube.com/watch?v=GRVpWwMXrl8)
  - date published: 2019-11-16 20:41:30+00:00
@@ -352,6 +358,12 @@
  - user: rumpel
  - tags: ['social engineering', 'the left wing']
 
+## Copper: Powering Up The Electric Vehicle | Wood Mackenzie
+ - [https://www.woodmac.com/news/opinion/copper-powering-up-the-electric-vehicle/](https://www.woodmac.com/news/opinion/copper-powering-up-the-electric-vehicle/)
+ - date published: 2019-08-13 14:02:26+00:00
+ - user: rumpel
+ - tags: ['electric vehicles']
+
 ## A HIDDEN LIFE - official trailer for Franz Jägerstätter
  - [https://www.youtube.com/watch?v=qJXmdY4lVR0](https://www.youtube.com/watch?v=qJXmdY4lVR0)
  - date published: 2019-08-13 10:18:41+00:00
@@ -542,7 +554,7 @@
  - [https://thebridgehead.ca/2019/04/30/pre-teen-drag-kids-highlight-just-how-fast-our-culture-has-crumbled](https://thebridgehead.ca/2019/04/30/pre-teen-drag-kids-highlight-just-how-fast-our-culture-has-crumbled)
  - date published: 2019-04-30 22:11:33+00:00
  - user: rumpel
- - tags: ['children', 'canada', 'drag', 'sexualization', 'indoctrination', 'the left wing', 'lgbt']
+ - tags: ['sexualization', 'the left wing', 'indoctrination', 'children', 'lgbt', 'canada']
 
 ## Satanic Temple Wins IRS Recognition as an Official House of Worship
  - [https://www.bloomberg.com/news/articles/2019-04-26/the-satanic-temple-gets-irs-nod-as-official-house-of-worship](https://www.bloomberg.com/news/articles/2019-04-26/the-satanic-temple-gets-irs-nod-as-official-house-of-worship)
