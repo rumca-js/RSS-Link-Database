@@ -620,7 +620,7 @@
  - [https://nypost.com/2020/09/09/oscars-woke-quota-will-backfire-on-hollywood-spectacularly/](https://nypost.com/2020/09/09/oscars-woke-quota-will-backfire-on-hollywood-spectacularly/)
  - date published: 2020-09-09 14:51:17+00:00
  - user: rumpel
- - tags: ['socialism', 'oscars', 'hollywood', 'the left wing']
+ - tags: ['oscars', 'the left wing', 'woke', 'socialism', 'hollywood']
 
 ## Rak jest groźniejszy niż koronawirus!
  - [https://wco.pl/2020/09/09/rak-jest-grozniejszy-niz-koronawirus/](https://wco.pl/2020/09/09/rak-jest-grozniejszy-niz-koronawirus/)
@@ -1299,6 +1299,12 @@
  - date published: 2020-02-26 20:50:35+00:00
  - user: None
  - tags: ['vulnerability', 'iot', 'privacy', 'smarthome']
+
+## Prince Andrew Linked to Another 'Predator': Alleged Pedophile and Rapist Peter Nygard
+ - [https://humansbefree.com/2020/02/prince-andrew-peter-nygard.html](https://humansbefree.com/2020/02/prince-andrew-peter-nygard.html)
+ - date published: 2020-02-26 10:24:40+00:00
+ - user: rumpel
+ - tags: ['prince andrew', 'peter nygard', 'paedophilia']
 
 ## BlackRock’s black box: the technology hub of modern finance - Financial Times | Busi Buggy
  - [https://busibuggy.blogspot.com/2020/02/blackrocks-black-box-technology-hub-of.html](https://busibuggy.blogspot.com/2020/02/blackrocks-black-box-technology-hub-of.html)

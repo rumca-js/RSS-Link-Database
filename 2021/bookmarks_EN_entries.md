@@ -394,6 +394,12 @@
  - user: rumpel
  - tags: ['vulnerability', 'log4j']
 
+## The Atlantic goes tone-deaf on child sex trafficking - The Spectator World
+ - [https://thespectator.com/topic/atlantic-child-sex-trafficking-ghislaine-maxwell/](https://thespectator.com/topic/atlantic-child-sex-trafficking-ghislaine-maxwell/)
+ - date published: 2021-12-10 10:30:20+00:00
+ - user: rumpel
+ - tags: ['jeffrey epstein', 'sex-trafficking']
+
 ## Chrome Users Beware: Manifest V3 is Deceitful and Threatening | Electronic Frontier Foundation
  - [https://www.eff.org/deeplinks/2021/12/chrome-users-beware-manifest-v3-deceitful-and-threatening](https://www.eff.org/deeplinks/2021/12/chrome-users-beware-manifest-v3-deceitful-and-threatening)
  - date published: 2021-12-10 08:09:00.543457+00:00
@@ -453,6 +459,12 @@
  - date published: 2021-12-03 16:24:20.716912+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Jeffrey Epstein Visited Clinton's White House 17 Times
+ - [https://humansbefree.com/2021/12/jeffrey-epstein-visited-clintons-white-house-17-times.html](https://humansbefree.com/2021/12/jeffrey-epstein-visited-clintons-white-house-17-times.html)
+ - date published: 2021-12-03 10:25:25+00:00
+ - user: rumpel
+ - tags: ['jeffrey epstein', 'bill clinton']
 
 ## Canada too quick to treat gender dysphoria in minors with hormones, surgery: critics
  - [https://nationalpost.com/news/canada/canada-transgender-treatment](https://nationalpost.com/news/canada/canada-transgender-treatment)
@@ -3586,6 +3598,12 @@
  - user: rumpel
  - tags: ['bill gates', 'jeffrey epstein', 'nobel']
 
+## Billy Boy and Jeffrey Epstein Traded Advice on Bill's 'Toxic' Marriage & Jeff's Pedo Image Rehab, During Secretive 'Men's Club' Gatherings
+ - [https://humansbefree.com/2021/05/bill-gates-and-jeffrey-epstein-traded-advice-on-bills-toxic-marriage-jeffs-pedo-image-rehab-during-secretive-mens-club-gatherings.html](https://humansbefree.com/2021/05/bill-gates-and-jeffrey-epstein-traded-advice-on-bills-toxic-marriage-jeffs-pedo-image-rehab-during-secretive-mens-club-gatherings.html)
+ - date published: 2021-05-17 10:23:41+00:00
+ - user: rumpel
+ - tags: $tags
+
 ## Huge Eufy privacy breach shows live and recorded cam feeds to strangers [U: Statement]
  - [https://9to5mac.com/2021/05/17/huge-eufy-privacy-breach/](https://9to5mac.com/2021/05/17/huge-eufy-privacy-breach/)
  - date published: 2021-05-17 10:19:18+00:00
@@ -4065,6 +4083,12 @@
  - date published: 2021-02-15 20:47:39+00:00
  - user: rumpel
  - tags: ['covid']
+
+## Maciej Pawlicki Na 17 członków Rady Medycznej 12 jest w stanie konfliktu interesów
+ - [https://twitter.com/MaciejRPawlicki/status/1360597436868161538](https://twitter.com/MaciejRPawlicki/status/1360597436868161538)
+ - date published: 2021-02-13 20:09:34+00:00
+ - user: rumpel
+ - tags: ['propaganda', 'covid', 'vaccine']
 
 ## Veganism Is the Pinnacle of Bugmanism
  - [https://lukesmith.xyz/articles/veganism-is-the-pinnacle-of-bugmanism/](https://lukesmith.xyz/articles/veganism-is-the-pinnacle-of-bugmanism/)

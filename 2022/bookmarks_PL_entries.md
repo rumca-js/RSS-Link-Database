@@ -1414,11 +1414,23 @@
  - user: rumpel
  - tags: ['vaccine', 'mandates', 'covid']
 
+## Rozpad Rady Medycznej. 13 członków złożyło rezygnację - Wydarzenia w INTERIA.PL
+ - [https://wydarzenia.interia.pl/raport-koronawirus-chiny/news-rozpad-rady-medycznej-13-czlonkow-zlozylo-wnioski-do-premier,nId,5769419](https://wydarzenia.interia.pl/raport-koronawirus-chiny/news-rozpad-rady-medycznej-13-czlonkow-zlozylo-wnioski-do-premier,nId,5769419)
+ - date published: 2022-01-14 20:11:00+00:00
+ - user: rumpel
+ - tags: ['covid']
+
 ## Dr Sutkowski:  za 2-3 tygodnie będzie armagedon. "Kroczymy doliną śmierci"
  - [https://www.rynekzdrowia.pl/Polityka-zdrowotna/Dr-Sutkowski-za-2-3-tygodnie-bedzie-armagedon-Kroczymy-dolina-smierci,228581,14.html](https://www.rynekzdrowia.pl/Polityka-zdrowotna/Dr-Sutkowski-za-2-3-tygodnie-bedzie-armagedon-Kroczymy-dolina-smierci,228581,14.html)
  - date published: 2022-01-13 11:07:40+00:00
  - user: rumpel
  - tags: ['propaganda', 'covid', 'fearmongering']
+
+## Prof. Horban o małopolskiej kurator oświaty: powinna zostać zdymisjonowana - Puls Medycyny - pulsmedycyny.pl
+ - [https://pulsmedycyny.pl/prof-horban-o-malopolskiej-kurator-oswiaty-powinna-zostac-zdymisjonowana-1138380](https://pulsmedycyny.pl/prof-horban-o-malopolskiej-kurator-oswiaty-powinna-zostac-zdymisjonowana-1138380)
+ - date published: 2022-01-12 07:42:25+00:00
+ - user: rumpel
+ - tags: ['propaganda', 'covid', 'censorship']
 
 ## Omikron to nawet 200 tys. zakażeń dziennie. Dr Grzesiowski: tsunami, armagedon | Wiadomości Radio ZET
  - [https://wiadomosci.radiozet.pl/Polska/Omikron-to-nawet-200-tys.-zakazen-dziennie.-Dr-Grzesiowski-tsunami-armagedon](https://wiadomosci.radiozet.pl/Polska/Omikron-to-nawet-200-tys.-zakazen-dziennie.-Dr-Grzesiowski-tsunami-armagedon)

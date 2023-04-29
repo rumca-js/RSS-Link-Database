@@ -8,7 +8,7 @@
  - [https://www.tvp.info/57595618/koronawirus-prof-horban-nadciaga-prawdziwe-tsunami](https://www.tvp.info/57595618/koronawirus-prof-horban-nadciaga-prawdziwe-tsunami)
  - date published: 2021-12-23 11:02:46+00:00
  - user: rumpel
- - tags: ['propaganda', 'covid']
+ - tags: ['propaganda', 'covid', 'fearmongering']
 
 ## Cyfrowy pieniądz: NBP pracuje nad cyfrowym pieniądzem banku centralnego
  - [https://www.wirtualnemedia.pl/artykul/nbp-cyfrowy-pieniadz-banku-centralnego](https://www.wirtualnemedia.pl/artykul/nbp-cyfrowy-pieniadz-banku-centralnego)
@@ -88,17 +88,35 @@
  - user: None
  - tags: ['privacy', 'big brother', 'tech control', 'australia']
 
+## „Gawiedź niezaszczepiona wymrze rychło”. Oburzający wpis Środy, która komentuje posłów Konfederacji - tvp.info
+ - [https://www.tvp.info/56189233/gawiedz-niezaszczepiona-wymrze-rychlo-oburzajacy-wpis-srody-ktora-komentuje-poslow-konfederacji](https://www.tvp.info/56189233/gawiedz-niezaszczepiona-wymrze-rychlo-oburzajacy-wpis-srody-ktora-komentuje-poslow-konfederacji)
+ - date published: 2021-10-04 07:33:33+00:00
+ - user: rumpel
+ - tags: ['propaganda', 'covid', 'hate speech', 'poland']
+
 ## Wyrok TSUE w sprawie Turowa. Polska musi płacić, inaczej KE zabezpieczy część pieniędzy z funduszy
  - [https://www.onet.pl/informacje/onetwiadomosci/kara-za-kopalnie-w-turowie-polska-musi-placic-jakie-dzialania-moze-podjac-ke/yw3yp46,79cfc278](https://www.onet.pl/informacje/onetwiadomosci/kara-za-kopalnie-w-turowie-polska-musi-placic-jakie-dzialania-moze-podjac-ke/yw3yp46,79cfc278)
  - date published: 2021-09-23 06:58:09+00:00
  - user: None
  - tags: ['poland', 'turow']
 
+## Krystyna Janda: Zastanawiam się, czy grać spektakle z aktorami niezaszczepionymi - Dziennik.pl
+ - [https://kultura.dziennik.pl/teatr/artykuly/8252180,krystyna-janda-szczepienia-spektakl-aktor-covid-19.html](https://kultura.dziennik.pl/teatr/artykuly/8252180,krystyna-janda-szczepienia-spektakl-aktor-covid-19.html)
+ - date published: 2021-09-22 07:41:11+00:00
+ - user: rumpel
+ - tags: ['propaganda', 'covid', 'hate speech', 'poland']
+
 ## Z Facebooka zniknęło tysiące postów, dotyczących styczniowego ataku na Kongres USA
  - [https://www.onet.pl/informacje/onetwiadomosci/z-facebooka-zniknelo-tysiace-postow-dotyczacych-styczniowego-ataku-na-kongres-usa/04f4jlp,79cfc278](https://www.onet.pl/informacje/onetwiadomosci/z-facebooka-zniknelo-tysiace-postow-dotyczacych-styczniowego-ataku-na-kongres-usa/04f4jlp,79cfc278)
  - date published: 2021-09-01 12:58:18+00:00
  - user: rumpel
  - tags: ['censorship', 'facebook', 'january 6', 'manufacturing consent']
+
+## Prezes PiS: wszystkie partie powinny podpisać wspólne porozumienie w sprawie walki z epidemią COVID-19
+ - [https://www.pap.pl/aktualnosci/news%2C925132%2Cprezes-pis-wszystkie-partie-powinny-podpisac-wspolne-porozumienie-w-sprawie](https://www.pap.pl/aktualnosci/news%2C925132%2Cprezes-pis-wszystkie-partie-powinny-podpisac-wspolne-porozumienie-w-sprawie)
+ - date published: 2021-08-07 07:45:32+00:00
+ - user: rumpel
+ - tags: ['covid', 'poland']
 
 ## How does Go calculate len()..? – tpaschalis – software, systems
  - [https://tpaschalis.github.io/golang-len/](https://tpaschalis.github.io/golang-len/)
@@ -123,6 +141,18 @@
  - date published: 2021-07-27 21:53:56+00:00
  - user: rumpel
  - tags: ['propaganda', 'covid', 'hate speech', 'vaccine']
+
+## Tomasz Lis - obowiązkowe szczepienia
+ - [https://twitter.com/lis_tomasz/status/1419667101485252610](https://twitter.com/lis_tomasz/status/1419667101485252610)
+ - date published: 2021-07-26 07:43:46+00:00
+ - user: rumpel
+ - tags: ['covid', 'hate speech', 'vaccine']
+
+## Tomasz Trela - Antyszczepionkowcy
+ - [https://twitter.com/poselTTrela/status/1419758808906223623?s=20](https://twitter.com/poselTTrela/status/1419758808906223623?s=20)
+ - date published: 2021-07-26 07:39:57+00:00
+ - user: rumpel
+ - tags: ['propaganda', 'covid', 'hate speech']
 
 ## Zostałem szczepionkowym rasistą. „Ludzie w pełni zaszczepieni powinni mieć specjalne przywileje”
  - [https://www.wprost.pl/kraj/10467413/zostalem-szczepionkowym-rasista-zaszczepieni-powinni-miec-przywileje.html](https://www.wprost.pl/kraj/10467413/zostalem-szczepionkowym-rasista-zaszczepieni-powinni-miec-przywileje.html)

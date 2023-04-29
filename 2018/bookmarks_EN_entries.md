@@ -136,6 +136,12 @@
  - user: rumpel
  - tags: ['alex jones']
 
+## Nike's support of Colin Kaepernick has some destroying their shoes | CNN
+ - [https://edition.cnn.com/2018/09/04/us/colin-kaepernick-nike-sneakers-intl/index.html](https://edition.cnn.com/2018/09/04/us/colin-kaepernick-nike-sneakers-intl/index.html)
+ - date published: 2018-09-05 11:40:09+00:00
+ - user: rumpel
+ - tags: ['go woke go broke']
+
 ## Jack Dorsey to Congress: 'Twitter does not use political ideology'
  - [https://www.cnbc.com/2018/09/04/jack-dorsey-to-congress-full-written-testimony-on-political-bias.html](https://www.cnbc.com/2018/09/04/jack-dorsey-to-congress-full-written-testimony-on-political-bias.html)
  - date published: 2018-09-04 11:18:42+00:00
@@ -423,6 +429,12 @@
  - date published: 2018-04-03 12:35:07+00:00
  - user: rumpel
  - tags: ['inequality', 'damore', 'feminism', 'jordan peterson', 'google']
+
+## Sinclair Faces Backlash Over Scripted Anti-Media Promos - Variety
+ - [https://variety.com/2018/tv/news/sinclair-promos-backlash-1202741019/](https://variety.com/2018/tv/news/sinclair-promos-backlash-1202741019/)
+ - date published: 2018-04-01 09:48:50+00:00
+ - user: rumpel
+ - tags: ['propaganda', 'legacy media', 'democracy']
 
 ## It's not just Facebook. Thousands of companies are spying on you (opinion) | CNN
  - [https://edition.cnn.com/2018/03/26/opinions/data-company-spying-opinion-schneier/index.html](https://edition.cnn.com/2018/03/26/opinions/data-company-spying-opinion-schneier/index.html)

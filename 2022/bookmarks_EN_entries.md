@@ -248,7 +248,7 @@
  - [https://www.youtube.com/watch?v=_zcA3rtywXQ](https://www.youtube.com/watch?v=_zcA3rtywXQ)
  - date published: 2022-12-26 08:29:18+00:00
  - user: rumpel
- - tags: ['hypocrisy', 'esg', 'china', 'the left wing']
+ - tags: ['the left wing', 'woke', 'hypocrisy', 'china', 'esg']
 
 ## Rogue antibody and mystery pathogen behind AstraZeneca blood clots: study
  - [https://www.smh.com.au/national/rogue-antibody-and-mystery-pathogen-behind-astrazeneca-blood-clots-study-20221223-p5c8gl.html](https://www.smh.com.au/national/rogue-antibody-and-mystery-pathogen-behind-astrazeneca-blood-clots-study-20221223-p5c8gl.html)
@@ -308,7 +308,7 @@
  - [https://www.breitbart.com/entertainment/2022/12/25/hollywood-lost-more-than-500-billion-in-market-value-in-2022/](https://www.breitbart.com/entertainment/2022/12/25/hollywood-lost-more-than-500-billion-in-market-value-in-2022/)
  - date published: 2022-12-25 13:14:44+00:00
  - user: rumpel
- - tags: ['the left wing', 'disney', 'netflix', 'hollywood']
+ - tags: ['disney', 'go woke go broke', 'the left wing', 'hollywood', 'netflix']
 
 ## Twitter Data Breach: Data of 400M Users Up for Sale on Dark Web
  - [https://thecyberexpress.com/twitter-data-breach-400-million-users-for-sale/](https://thecyberexpress.com/twitter-data-breach-400-million-users-for-sale/)
@@ -680,7 +680,7 @@
  - [https://thehackernews.com/2022/12/ftc-fines-fortnite-maker-epic-games-275.html](https://thehackernews.com/2022/12/ftc-fines-fortnite-maker-epic-games-275.html)
  - date published: 2022-12-20 06:33:00+00:00
  - user: None
- - tags: ['children epic games', 'privacy']
+ - tags: ['privacy', 'epic games']
 
 ## BlackRock plans no big changes to ESG stance despite backlash
  - [https://www.reuters.com/business/sustainable-business/blackrock-plans-no-big-changes-esg-stance-despite-backlash-2022-12-19/](https://www.reuters.com/business/sustainable-business/blackrock-plans-no-big-changes-esg-stance-despite-backlash-2022-12-19/)
@@ -1286,7 +1286,7 @@
  - [https://nypost.com/2022/12/10/jack-dorsey-told-congress-under-oath-twitter-was-not-shadow-banning/](https://nypost.com/2022/12/10/jack-dorsey-told-congress-under-oath-twitter-was-not-shadow-banning/)
  - date published: 2022-12-10 13:08:40+00:00
  - user: None
- - tags: ['shadow-ban', 'twitter', 'twitter files']
+ - tags: ['shadowban', 'twitter', 'twitter files']
 
 ## 'Twitter Files' most overlooked finding? That Dorsey, Zuckerberg and half of America shrug at censorship
  - [https://www.foxnews.com/opinion/twitter-files-overlooked-finding-dorsey-zuckerberg-half-america-shrug-censorship](https://www.foxnews.com/opinion/twitter-files-overlooked-finding-dorsey-zuckerberg-half-america-shrug-censorship)
@@ -1660,6 +1660,12 @@
  - user: None
  - tags: ['china', 'india', 'apple']
 
+## LEGACY MEDIA is "Extremely Dangerous to Our Democracy"
+ - [https://www.youtube.com/watch?v=fzYj11qWb-M](https://www.youtube.com/watch?v=fzYj11qWb-M)
+ - date published: 2022-12-04 00:00:00+00:00
+ - user: rumpel
+ - tags: ['propaganda', 'legacy media', 'democracy']
+
 ## Musk declares New York Times ‘lobbying firm for far left’ after reportedly ignoring ‘Twitter Files’ story
  - [https://www.foxnews.com/media/musk-declares-new-york-times-lobbying-firm-for-far-left-after-reportedly-ignoring-twitter-files-story](https://www.foxnews.com/media/musk-declares-new-york-times-lobbying-firm-for-far-left-after-reportedly-ignoring-twitter-files-story)
  - date published: 2022-12-03 21:03:29+00:00
@@ -1814,7 +1820,7 @@
  - [https://nypost.com/2022/12/01/after-disneys-strange-world-bombs-film-critic-says-go-woke-go-broke/](https://nypost.com/2022/12/01/after-disneys-strange-world-bombs-film-critic-says-go-woke-go-broke/)
  - date published: 2022-12-01 08:05:53+00:00
  - user: rumpel
- - tags: ['movies', 'the left wing']
+ - tags: ['go woke go broke', 'the left wing', 'movies']
 
 ## At SpaceX, work was taken away from me in case I “might retire or die.”
  - [https://www.lioness.co/post/at-spacex-work-was-taken-away-from-me-in-case-i-might-retire-or-die](https://www.lioness.co/post/at-spacex-work-was-taken-away-from-me-in-case-i-might-retire-or-die)
@@ -1958,7 +1964,7 @@
  - [https://www.androidauthority.com/oled-tv-vs-movie-theater-3241026/](https://www.androidauthority.com/oled-tv-vs-movie-theater-3241026/)
  - date published: 2022-11-28 15:47:01+00:00
  - user: None
- - tags: ['cinema', 'movies', 'oled']
+ - tags: ['movies', 'cinema']
 
 ## Meta fined $276 million over Facebook data leak involving more than 533 million users
  - [https://www.theverge.com/2022/11/28/23481786/meta-fine-facebook-data-leak-ireland-dpc-gdpr](https://www.theverge.com/2022/11/28/23481786/meta-fine-facebook-data-leak-ireland-dpc-gdpr)
@@ -2066,7 +2072,7 @@
  - [https://www.dailywire.com/news/animated-gay-teen-romance-film-is-woke-disneys-latest-box-office-bomb](https://www.dailywire.com/news/animated-gay-teen-romance-film-is-woke-disneys-latest-box-office-bomb)
  - date published: 2022-11-26 11:42:23+00:00
  - user: None
- - tags: ['disney', 'lgbt', 'the left wing']
+ - tags: ['lgbt', 'the left wing', 'disney', 'go woke go broke']
 
 ## The Science for Determining Climate-Change Damage Is Unsettled
  - [https://www.wsj.com/articles/the-science-for-determining-climate-change-damage-is-unsettled-11669436469](https://www.wsj.com/articles/the-science-for-determining-climate-change-damage-is-unsettled-11669436469)
@@ -2318,7 +2324,7 @@
  - [https://www.theguardian.com/us-news/2022/nov/18/judge-florida-ron-desantis-stop-woke-law](https://www.theguardian.com/us-news/2022/nov/18/judge-florida-ron-desantis-stop-woke-law)
  - date published: 2022-11-18 15:12:55+00:00
  - user: None
- - tags: ['distopian', 'the left wing', 'lgbt']
+ - tags: ['dystopia', 'the left wing', 'lgbt']
 
 ## Members fear Society of Authors has been 'lost' to cancel culture amid JK Rowling row
  - [https://www.dailymail.co.uk/news/article-11443527/Members-fear-Society-Authors-lost-cancel-culture-amid-JK-Rowling-row.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11443527/Members-fear-Society-Authors-lost-cancel-culture-amid-JK-Rowling-row.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -3458,7 +3464,7 @@
  - [https://www.forbes.com/sites/markminevich/2022/10/29/digital-government-is-no-longer-an-option-it-is-an-imperative/](https://www.forbes.com/sites/markminevich/2022/10/29/digital-government-is-no-longer-an-option-it-is-an-imperative/)
  - date published: 2022-10-29 14:30:20+00:00
  - user: None
- - tags: ['big tech', 'smartcity', 'digital government']
+ - tags: ['big tech', 'digital government', 'smart city']
 
 ## Netflix's Password Sharing Crackdown Is Coming     - CNET
  - [https://www.cnet.com/culture/entertainment/netflixs-password-sharing-crackdown-is-coming/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/netflixs-password-sharing-crackdown-is-coming/#ftag=CADf328eec)
@@ -10750,11 +10756,11 @@
  - user: rumpel
  - tags: ['billionairs', 'jeffrey epstein', 'elites']
 
-## Kanada: Ottawa Police Chief says police will come after protesters for months to come
+## Ottawa Police Chief says police will come after protesters for months to come “with financial sanctions and criminal charges”
  - [https://westphaliantimes.com/ottawa-police-chief-says-law-enforcement-will-come-after-protestors-even-if-they-go-home/](https://westphaliantimes.com/ottawa-police-chief-says-law-enforcement-will-come-after-protestors-even-if-they-go-home/)
  - date published: 2022-02-19 06:53:36+00:00
- - user: None
- - tags: ['kanada', 'protest', 'covid']
+ - user: rumpel
+ - tags: ['protest', 'propaganda', 'fearmongering', 'covid', 'canada']
 
 ## Windows 11 Pro will soon require a Microsoft Account
  - [https://www.theverge.com/2022/2/18/22940517/windows-11-pro-require-microsoft-account-internet-connection](https://www.theverge.com/2022/2/18/22940517/windows-11-pro-require-microsoft-account-internet-connection)
@@ -11529,6 +11535,12 @@
  - date published: 2022-01-13 15:37:35.631003+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Downing Street’s controversial ‘Nudge Unit’ accused of exploiting scare tactics during Covid crisis
+ - [https://www.telegraph.co.uk/politics/2022/01/13/downing-streets-controversial-nudge-unit-accused-exploiting/](https://www.telegraph.co.uk/politics/2022/01/13/downing-streets-controversial-nudge-unit-accused-exploiting/)
+ - date published: 2022-01-13 13:07:14+00:00
+ - user: rumpel
+ - tags: ['covid', 'fearmongering']
 
 ## Computer says no! Showgirl, mankind, whitewash and blacklist are just some of the words that don't make it past Microsoft Word's new woke filter (but don't worry, you can turn it off)
  - [https://www.dailymail.co.uk/news/article-10398999/Blacklist-postman-mankind-just-words-wont-fly-Microsofts-woke-filter.html](https://www.dailymail.co.uk/news/article-10398999/Blacklist-postman-mankind-just-words-wont-fly-Microsofts-woke-filter.html)

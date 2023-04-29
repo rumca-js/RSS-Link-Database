@@ -214,6 +214,12 @@
  - user: rumpel
  - tags: ['the left wing', 'pronouns', 'newspeak']
 
+## Why The Female-Led Ghostbusters Reboot Failed At The Box Office
+ - [https://tvovermind.com/why-the-ghostbusters-reboot-failed-at-the-box-office-failed/](https://tvovermind.com/why-the-ghostbusters-reboot-failed-at-the-box-office-failed/)
+ - date published: 2016-04-28 11:52:16+00:00
+ - user: rumpel
+ - tags: ['go woke go broke']
+
 ## Social Autopsy! - Ending Anonymity Online [BAD IDEA]
  - [https://www.youtube.com/watch?v=6SARo5HtjkQ](https://www.youtube.com/watch?v=6SARo5HtjkQ)
  - date published: 2016-04-15 20:28:52+00:00

@@ -1,3 +1,9 @@
+## Reddit - laurene powell jobs and ghistlaine maxwell
+ - [https://www.reddit.com/r/pics/comments/oe202b/laurene_powel_jobs_steve_jobs_widow_and_ghislaine/](https://www.reddit.com/r/pics/comments/oe202b/laurene_powel_jobs_steve_jobs_widow_and_ghislaine/)
+ - date published: 2023-04-28 10:34:05+00:00
+ - user: rumpel
+ - tags: ['laurene powell jobs', 'ghistlaine maxwell']
+
 ## Metacritic announces stricter censorship after negative user reviews of Horizon Forbidden West: Burning Shores
  - [https://reclaimthenet.org/metacritic-announces-stricter-censorship-horizon-burning-shores](https://reclaimthenet.org/metacritic-announces-stricter-censorship-horizon-burning-shores)
  - date published: 2023-04-27 17:00:04+00:00
@@ -70,6 +76,12 @@
  - user: rumpel
  - tags: ['job']
 
+## Pfizer Quietly Financed Groups Lobbying for COVID Vaccine Mandates
+ - [https://www.leefang.com/p/pfizer-quietly-financed-groups-lobbying](https://www.leefang.com/p/pfizer-quietly-financed-groups-lobbying)
+ - date published: 2023-04-24 20:06:32+00:00
+ - user: rumpel
+ - tags: ['covid', 'pfizer']
+
 ## Why I'm not worried about AI causing mass unemployment
  - [https://www.understandingai.org/p/software-didnt-eat-the-world](https://www.understandingai.org/p/software-didnt-eat-the-world)
  - date published: 2023-04-24 16:44:30+00:00
@@ -93,6 +105,12 @@
  - date published: 2023-04-24 04:00:00+00:00
  - user: rumpel
  - tags: ['artificial intelligence']
+
+## Bud Light-Dylan Mulvaney: sales drop induces 'panic' from brand | Ad Age
+ - [https://adage.com/article/marketing-news-strategy/bud-light-dylan-mulvaney-sales-drop-induces-panic-brand/2489971](https://adage.com/article/marketing-news-strategy/bud-light-dylan-mulvaney-sales-drop-induces-panic-brand/2489971)
+ - date published: 2023-04-23 11:38:33+00:00
+ - user: rumpel
+ - tags: ['go woke go broke']
 
 ## Lockdown’s cancer bomb may soon be worse than Covid itself
  - [https://www.telegraph.co.uk/news/2023/04/24/lockdowns-cancer-bomb-may-soon-be-worse-than-covid-itself/](https://www.telegraph.co.uk/news/2023/04/24/lockdowns-cancer-bomb-may-soon-be-worse-than-covid-itself/)
@@ -273,6 +291,12 @@
  - date published: 2023-04-17 12:01:10+00:00
  - user: rumpel
  - tags: ['corporatocracy', 'meta', 'big tech', 'facebook', 'censorship']
+
+## Disney lost over $300 million after two 'woke' kids movies bombed | Films | Entertainment | Express.co.uk
+ - [https://www.express.co.uk/entertainment/films/1759191/Disney-woke-movies-Strange-World-Lightyear](https://www.express.co.uk/entertainment/films/1759191/Disney-woke-movies-Strange-World-Lightyear)
+ - date published: 2023-04-17 11:48:38+00:00
+ - user: rumpel
+ - tags: ['go woke go broke', 'disney']
 
 ## Steam restricts thousands of accounts for calling a review helpful - WIN.gg
  - [https://win.gg/news/steam-restricts-thousands-of-accounts-for-calling-a-review-helpful/](https://win.gg/news/steam-restricts-thousands-of-accounts-for-calling-a-review-helpful/)
@@ -836,7 +860,7 @@
  - [https://www.youtube.com/watch?v=yAmuVJ7jkpA](https://www.youtube.com/watch?v=yAmuVJ7jkpA)
  - date published: 2023-03-27 00:00:00+00:00
  - user: rumpel
- - tags: ['newspeak', 'the left wing', 'fahrenheit 451']
+ - tags: ['the left wing', 'fahrenheit 451', 'woke', 'newspeak']
 
 ## AI Art is Inevitable
  - [https://www.youtube.com/watch?v=VsXYTunk7OY](https://www.youtube.com/watch?v=VsXYTunk7OY)
@@ -1304,7 +1328,7 @@
  - [https://nypost.com/2023/03/10/gen-z-millennials-think-womens-rights-have-gone-too-far/](https://nypost.com/2023/03/10/gen-z-millennials-think-womens-rights-have-gone-too-far/)
  - date published: 2023-03-10 19:14:17+00:00
  - user: rumpel
- - tags: ['feminism']
+ - tags: ['feminism', 'sexism']
 
 ## Google, Meta hired talent to do 'fake work'
  - [https://fortune.com/2023/03/10/google-over-hired-talent-do-nothing-fake-work-stop-working-rivals-former-paypal-boss-keith-rabois/](https://fortune.com/2023/03/10/google-over-hired-talent-do-nothing-fake-work-stop-working-rivals-former-paypal-boss-keith-rabois/)
@@ -3220,6 +3244,12 @@
  - user: rumpel
  - tags: ['jeffrey epstein', 'jpmorgan']
 
+## Jes Staley had ‘profound friendship’ with Jeffrey Epstein, court documents claim
+ - [https://www.theguardian.com/business/2023/jan/11/jes-staley-had-profound-friendship-with-jeffrey-epstein-court-documents-claim](https://www.theguardian.com/business/2023/jan/11/jes-staley-had-profound-friendship-with-jeffrey-epstein-court-documents-claim)
+ - date published: 2023-01-11 18:18:14+00:00
+ - user: rumpel
+ - tags: ['jpmorgan', 'jeffrey epstein']
+
 ## Lying for a Climate Crusade
  - [https://cremieux.substack.com/p/lying-for-climate-crusading](https://cremieux.substack.com/p/lying-for-climate-crusading)
  - date published: 2023-01-11 14:52:23+00:00
@@ -3279,6 +3309,12 @@
  - date published: 2023-01-10 11:58:34+00:00
  - user: rumpel
  - tags: ['science is dead', 'covid', 'vaccine']
+
+## M&M's new packaging is causing a stir | CNN Business
+ - [https://edition.cnn.com/2023/01/10/business/m-and-ms-female-pack/index.html](https://edition.cnn.com/2023/01/10/business/m-and-ms-female-pack/index.html)
+ - date published: 2023-01-10 11:40:36+00:00
+ - user: rumpel
+ - tags: ['go woke go broke']
 
 ## U.S. Carbon Emissions Grew in 2022, Even As Renewables Surpassed Coal
  - [https://www.nytimes.com/2023/01/10/climate/us-carbon-emissions-2022.html](https://www.nytimes.com/2023/01/10/climate/us-carbon-emissions-2022.html)
@@ -3422,7 +3458,7 @@
  - [https://therationalist.substack.com/p/the-creator-economy-the-top-1-and](https://therationalist.substack.com/p/the-creator-economy-the-top-1-and)
  - date published: 2023-01-07 13:22:53+00:00
  - user: rumpel
- - tags: ['creativ', 'internet', 'success', 'creator']
+ - tags: ['creator', 'creator economy', 'internet', 'success']
 
 ## Satanic Pedophile Ring Shut Victims In oven, Forced Them To Kill Animals & Filmed Them Being Gang Raped
  - [https://ussanews.com/2023/01/07/satanic-pedophile-ring-shut-victims-in-oven-forced-them-to-kill-animals-filmed-them-being-gang-raped/](https://ussanews.com/2023/01/07/satanic-pedophile-ring-shut-victims-in-oven-forced-them-to-kill-animals-filmed-them-being-gang-raped/)

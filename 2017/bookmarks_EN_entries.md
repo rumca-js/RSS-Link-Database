@@ -232,6 +232,12 @@
  - user: rumpel
  - tags: ['f-droid', 'android']
 
+## The American empire and its media | MR Online
+ - [https://mronline.org/2017/07/23/the-american-empire-and-its-media/](https://mronline.org/2017/07/23/the-american-empire-and-its-media/)
+ - date published: 2017-07-23 09:28:08+00:00
+ - user: rumpel
+ - tags: ['manufacturing consent', 'council on foreign relations', 'monopoly', 'corporatocracy']
+
 ## SUFFERING IN SILENCE Linkin Park singer Chester Bennington revealed horrific child abuse was behind his substance abuse issues
  - [https://www.thesun.co.uk/tvandshowbiz/4064403/linkin-park-singer-chester-bennington-revealed-horrific-child-abuse-was-behind-substance-abuse-issues/](https://www.thesun.co.uk/tvandshowbiz/4064403/linkin-park-singer-chester-bennington-revealed-horrific-child-abuse-was-behind-substance-abuse-issues/)
  - date published: 2017-07-20 21:17:39+00:00
@@ -321,6 +327,12 @@
  - date published: 2017-04-15 23:05:15+00:00
  - user: rumpel
  - tags: ['george soros']
+
+## Pepsi advert with Kendall Jenner pulled after huge backlash | The Independent | The Independent
+ - [https://www.independent.co.uk/arts-entertainment/tv/news/pepsi-advert-pulled-kendall-jenner-protest-video-cancelled-removed-a7668986.html](https://www.independent.co.uk/arts-entertainment/tv/news/pepsi-advert-pulled-kendall-jenner-protest-video-cancelled-removed-a7668986.html)
+ - date published: 2017-04-05 11:58:05+00:00
+ - user: rumpel
+ - tags: ['go woke go broke', 'propaganda']
 
 ## China has fished itself out of its own waters, so Chinese fishermen are now sticking their rods in other nations’ seas
  - [https://qz.com/948980/china-has-fished-itself-out-of-its-own-waters-so-chinese-fishermen-are-now-sticking-their-rods-in-other-nations-seas](https://qz.com/948980/china-has-fished-itself-out-of-its-own-waters-so-chinese-fishermen-are-now-sticking-their-rods-in-other-nations-seas)

@@ -124,6 +124,12 @@
  - user: None
  - tags: ['china', 'blizzard', 'censorship']
 
+## Ultra-Woke ‘Terminator: Dark Fate' Projected to Lose More than $120 million — World of Reel
+ - [https://www.worldofreel.com/blog/2019/11/dg22fjrmgo52liuoe5zuxalukvw8ll](https://www.worldofreel.com/blog/2019/11/dg22fjrmgo52liuoe5zuxalukvw8ll)
+ - date published: 2019-11-04 11:49:39+00:00
+ - user: rumpel
+ - tags: ['go woke go broke']
+
 ## The Farmer Who Took On One Of The World’s Biggest Chemical Corporations
  - [https://www.sciencefriday.com/articles/dupont-bilott-book-exposure/](https://www.sciencefriday.com/articles/dupont-bilott-book-exposure/)
  - date published: 2019-11-01 14:39:52+00:00
@@ -165,6 +171,12 @@
  - date published: 2019-10-16 09:00:13+00:00
  - user: rumpel
  - tags: ['technofeudalism', 'biometric']
+
+## Bill Gates Met With Jeffrey Epstein Many Times, Despite His Past - The New York Times
+ - [https://www.nytimes.com/2019/10/12/business/jeffrey-epstein-bill-gates.html](https://www.nytimes.com/2019/10/12/business/jeffrey-epstein-bill-gates.html)
+ - date published: 2019-10-12 10:23:00+00:00
+ - user: rumpel
+ - tags: ['bill gates', 'jeffrey epstein']
 
 ## NSA: A Declassified Court Ruling Shows How the FBI Abused NSA Mass Surveillance Data
  - [https://theintercept.com/2019/10/10/fbi-nsa-mass-surveillance-abuse/](https://theintercept.com/2019/10/10/fbi-nsa-mass-surveillance-abuse/)
@@ -489,6 +501,12 @@
  - date published: 2019-06-24 21:34:08+00:00
  - user: rumpel
  - tags: ['google', 'facebook', 'amazon', 'antitrust']
+
+## 'Men in Black: International' Review: Another Franchise Bites the Woke-Dust
+ - [https://www.breitbart.com/entertainment/2019/06/14/men-in-black-international-review-another-franchise-bites-the-woke-dust/](https://www.breitbart.com/entertainment/2019/06/14/men-in-black-international-review-another-franchise-bites-the-woke-dust/)
+ - date published: 2019-06-14 11:55:24+00:00
+ - user: rumpel
+ - tags: ['go woke go broke']
 
 ## Sexist commercials now banned in UK
  - [https://www.cnn.com/2019/06/14/media/uk-gender-stereotypes-advertising-ban-scli-gbr-intl/index.html](https://www.cnn.com/2019/06/14/media/uk-gender-stereotypes-advertising-ban-scli-gbr-intl/index.html)
