@@ -1,3 +1,75 @@
+## Help make mass surveillance of entire populations uneconomical
+ - [https://prism-break.org/en/](https://prism-break.org/en/)
+ - date published: 2023-05-01 12:42:40+00:00
+ - user: rumpel
+ - tags: ['selfhost', 'surveillance']
+
+## Indian government bans 14 messenger apps including Element, Briar and Threema
+ - [https://news.abplive.com/technology/india-ban-messaging-messenger-apps-mobile-pakistan-terrorism-connection-crypviser-enigma-safeswiss-bchat-1599074](https://news.abplive.com/technology/india-ban-messaging-messenger-apps-mobile-pakistan-terrorism-connection-crypviser-enigma-safeswiss-bchat-1599074)
+ - date published: 2023-05-01 04:51:24+00:00
+ - user: rumpel
+ - tags: ['crypto wars', 'censorship']
+
+## Four Questions Concerning the Internet
+ - [https://paulkingsnorth.substack.com/p/the-universal](https://paulkingsnorth.substack.com/p/the-universal)
+ - date published: 2023-04-30 19:23:44+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
+
+## AI has hacked the operating system of human civilisation
+ - [https://www.economist.com/by-invitation/2023/04/28/yuval-noah-harari-argues-that-ai-has-hacked-the-operating-system-of-human-civilisation](https://www.economist.com/by-invitation/2023/04/28/yuval-noah-harari-argues-that-ai-has-hacked-the-operating-system-of-human-civilisation)
+ - date published: 2023-04-30 18:42:11+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
+
+## Example of why you should not use FaceID to unlock your phone
+ - [https://mastodon.social/@runasand/110286780839680620](https://mastodon.social/@runasand/110286780839680620)
+ - date published: 2023-04-30 14:22:50+00:00
+ - user: rumpel
+ - tags: ['facial recognition', 'privacy']
+
+## CIA Director, Noam Chomsky Named in Epstein’s Calendar: Report – Rolling Stone
+ - [https://www.rollingstone.com/culture/culture-news/cia-director-noam-chomsky-epstein-calendar-1234726393/](https://www.rollingstone.com/culture/culture-news/cia-director-noam-chomsky-epstein-calendar-1234726393/)
+ - date published: 2023-04-30 12:27:42+00:00
+ - user: rumpel
+ - tags: ['jeffrey epstein']
+
+## Epstein's Private Calendar Reveals Prominent Names, Including CIA Chief, Goldman's Top Lawyer
+ - [https://www.wsj.com/articles/jeffrey-epstein-calendar-cia-director-goldman-sachs-noam-chomsky-c9f6a3ff](https://www.wsj.com/articles/jeffrey-epstein-calendar-cia-director-goldman-sachs-noam-chomsky-c9f6a3ff)
+ - date published: 2023-04-30 11:59:00+00:00
+ - user: rumpel
+ - tags: ['jeffrey epstein', 'cia']
+
+## Criticizing China’s lockdowns are a “microaggression” and should be reported through online portal, UK university says
+ - [https://reclaimthenet.org/microaggression-reported-through-online-portal-uk-university](https://reclaimthenet.org/microaggression-reported-through-online-portal-uk-university)
+ - date published: 2023-04-29 19:24:25+00:00
+ - user: rumpel
+ - tags: ['censorship', 'lockdown', 'england', 'zero covid', 'china']
+
+## By building an open ecosystem, Google has locked me in forever
+ - [https://www.androidauthority.com/google-open-ecosystem-lock-3315205/](https://www.androidauthority.com/google-open-ecosystem-lock-3315205/)
+ - date published: 2023-04-29 18:00:43+00:00
+ - user: rumpel
+ - tags: ['selfhost']
+
+## Telegram CEO tells Brazil’s government its censorship demands are “impossible”
+ - [https://reclaimthenet.org/telegram-ceo-tells-brazils-government-its-censorship-demands-are-impossible](https://reclaimthenet.org/telegram-ceo-tells-brazils-government-its-censorship-demands-are-impossible)
+ - date published: 2023-04-29 15:08:17+00:00
+ - user: rumpel
+ - tags: ['telegram', 'privacy']
+
+## Britain Is Dead
+ - [https://www.palladiummag.com/2023/04/27/britain-is-dead/](https://www.palladiummag.com/2023/04/27/britain-is-dead/)
+ - date published: 2023-04-29 01:59:29+00:00
+ - user: rumpel
+ - tags: ['england']
+
+## Chinese hackers outnumber FBI cyber staff 50 to 1, bureau director says
+ - [https://www.cnbc.com/2023/04/28/chinese-hackers-outnumber-fbi-cyber-staff-50-to-1-director-wray-says.html](https://www.cnbc.com/2023/04/28/chinese-hackers-outnumber-fbi-cyber-staff-50-to-1-director-wray-says.html)
+ - date published: 2023-04-28 15:07:30+00:00
+ - user: rumpel
+ - tags: ['china']
+
 ## Reddit - laurene powell jobs and ghistlaine maxwell
  - [https://www.reddit.com/r/pics/comments/oe202b/laurene_powel_jobs_steve_jobs_widow_and_ghislaine/](https://www.reddit.com/r/pics/comments/oe202b/laurene_powel_jobs_steve_jobs_widow_and_ghislaine/)
  - date published: 2023-04-28 10:34:05+00:00
