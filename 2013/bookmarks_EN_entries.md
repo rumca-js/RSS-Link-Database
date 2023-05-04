@@ -88,6 +88,12 @@
  - user: None
  - tags: ['aaron swartz']
 
+## The Creepy, Long-Standing Practice of Undersea Cable Tapping - The Atlantic
+ - [https://www.theatlantic.com/international/archive/2013/07/the-creepy-long-standing-practice-of-undersea-cable-tapping/277855/](https://www.theatlantic.com/international/archive/2013/07/the-creepy-long-standing-practice-of-undersea-cable-tapping/277855/)
+ - date published: 2013-07-16 07:18:12+00:00
+ - user: rumpel
+ - tags: ['nsa', 'surveillance']
+
 ## Microsoft handed the NSA access to encrypted messages | NSA | The Guardian
  - [https://www.theguardian.com/world/2013/jul/11/microsoft-nsa-collaboration-user-data](https://www.theguardian.com/world/2013/jul/11/microsoft-nsa-collaboration-user-data)
  - date published: 2013-07-12 09:04:18+00:00

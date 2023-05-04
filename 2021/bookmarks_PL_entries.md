@@ -14,7 +14,7 @@
  - [https://www.wirtualnemedia.pl/artykul/nbp-cyfrowy-pieniadz-banku-centralnego](https://www.wirtualnemedia.pl/artykul/nbp-cyfrowy-pieniadz-banku-centralnego)
  - date published: 2021-12-16 14:57:42+00:00
  - user: None
- - tags: ['digital money']
+ - tags: ['cbdc']
 
 ## Pierwsze "poufne" dokumenty Pfizera ujawnione z nakazu sądowego
  - [https://www.pokoleniex.com/swiat/2021/12/14/pierwsze-poufne-dokumenty-pfizera-ujawnione-z-nakazu-sadowego](https://www.pokoleniex.com/swiat/2021/12/14/pierwsze-poufne-dokumenty-pfizera-ujawnione-z-nakazu-sadowego)
@@ -236,7 +236,7 @@
  - [https://ithardware.pl/aktualnosci/cyfrowy_juan_to_cyfrowa_sledzona_i_scentralizowana_waluta_chin_ktora_zastapi_fizyczne_pieniadze-15649.html](https://ithardware.pl/aktualnosci/cyfrowy_juan_to_cyfrowa_sledzona_i_scentralizowana_waluta_chin_ktora_zastapi_fizyczne_pieniadze-15649.html)
  - date published: 2021-04-07 08:20:36+00:00
  - user: None
- - tags: ['digital money']
+ - tags: ['cbdc', 'digital yuan']
 
 ## W 2018 r. dyplomaci ostrzegali przed eksperymentami z koronawirusem w Wuhan. Nikt ich nie słuchał
  - [https://wiadomosci.onet.pl/politico/koronawirus-w-2018-r-dyplomaci-ostrzegali-przed-eksperymentami-w-wuhan/y6ywbv9](https://wiadomosci.onet.pl/politico/koronawirus-w-2018-r-dyplomaci-ostrzegali-przed-eksperymentami-w-wuhan/y6ywbv9)
@@ -248,7 +248,7 @@
  - [https://next.gazeta.pl/next/7,151003,26916907,lockdown-zakaz-spotkan-i-godzina-policyjna-jakie-obostrzenia.html](https://next.gazeta.pl/next/7,151003,26916907,lockdown-zakaz-spotkan-i-godzina-policyjna-jakie-obostrzenia.html)
  - date published: 2021-03-25 14:09:30+00:00
  - user: rumpel
- - tags: ['restrictions', 'lockdown', 'curfew']
+ - tags: ['lockdown', 'curfew', 'covid']
 
 ## Przez niemal pół wieku w Niemczech funkcjonował ruch dążący do legalizacji pedofilii. Wstrząsający raport
  - [https://wiez.pl/2021/03/15/przez-niemal-pol-wieku-w-niemczech-funkcjonowal-ruch-dazacy-do-legalizacji-pedofilii-wstrzasajacy-raport/](https://wiez.pl/2021/03/15/przez-niemal-pol-wieku-w-niemczech-funkcjonowal-ruch-dazacy-do-legalizacji-pedofilii-wstrzasajacy-raport/)

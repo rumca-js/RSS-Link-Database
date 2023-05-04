@@ -8,7 +8,7 @@
  - [https://en.m.wikipedia.org/wiki/Robert_Bilott](https://en.m.wikipedia.org/wiki/Robert_Bilott)
  - date published: 1999-12-28 18:10:17+00:00
  - user: rumpel
- - tags: ['example', 'pollution', 'billot']
+ - tags: ['pollution', 'example', 'robert billot']
 
 ## Only real men have fabs • The Register
  - [https://www.theregister.com/1999/02/25/only_real_men_have_fabs/](https://www.theregister.com/1999/02/25/only_real_men_have_fabs/)

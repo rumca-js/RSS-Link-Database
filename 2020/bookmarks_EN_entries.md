@@ -236,7 +236,7 @@
  - [https://www.independent.co.uk/news/health/coronavirus-pfizer-vaccine-legal-indemnity-safety-ministers-b1765124.html](https://www.independent.co.uk/news/health/coronavirus-pfizer-vaccine-legal-indemnity-safety-ministers-b1765124.html)
  - date published: 2020-12-02 22:05:32+00:00
  - user: rumpel
- - tags: ['pfizer', 'england', 'nop', 'covid']
+ - tags: ['pfizer', 'covid', 'england', 'vaccine']
 
 ## Corona’s orchestra of panic: How the press’ fear-mongering is distorting information | European Journalism Observatory - EJO
  - [https://en.ejo.ch/specialist-journalism/coronas-orchestra-of-panic-how-the-press-fear-mongering-is-distorting-information-about-covid-19](https://en.ejo.ch/specialist-journalism/coronas-orchestra-of-panic-how-the-press-fear-mongering-is-distorting-information-about-covid-19)
@@ -333,6 +333,12 @@
  - date published: 2020-11-23 19:43:36+00:00
  - user: rumpel
  - tags: ['ministry of truth', 'big brother', 'covid', 'clearing house', 'surveillance', 'censorship']
+
+## China's Xi Jinping is calling for a global Covid QR code. He may struggle to convince the world
+ - [https://www.cnn.com/2020/11/23/asia/china-xi-qr-code-coronavirus-intl-hnk/index.html](https://www.cnn.com/2020/11/23/asia/china-xi-qr-code-coronavirus-intl-hnk/index.html)
+ - date published: 2020-11-23 09:09:34+00:00
+ - user: rumpel
+ - tags: ['covid', 'tech control', 'qr codes', 'big brother']
 
 ## Post-lockdown SARS-CoV-2 nucleic acid screening in nearly ten million residents of Wuhan, China
  - [https://www.nature.com/articles/s41467-020-19802-w](https://www.nature.com/articles/s41467-020-19802-w)
@@ -494,7 +500,7 @@
  - [https://m.gsmarena.com/eus_digital_service_act_will_allow_you_to_uninstall_bloatware-news-45578.php](https://m.gsmarena.com/eus_digital_service_act_will_allow_you_to_uninstall_bloatware-news-45578.php)
  - date published: 2020-10-10 18:35:47+00:00
  - user: None
- - tags: ['digital service act', 'dsa', 'tech control']
+ - tags: ['digital service act', 'tech control']
 
 ## COVID-19 to Add as Many as 150 Million Extreme Poor by 2021
  - [https://www.worldbank.org/en/news/press-release/2020/10/07/covid-19-to-add-as-many-as-150-million-extreme-poor-by-2021](https://www.worldbank.org/en/news/press-release/2020/10/07/covid-19-to-add-as-many-as-150-million-extreme-poor-by-2021)

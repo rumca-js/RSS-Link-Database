@@ -1,3 +1,57 @@
+## Facebook furious at FTC after agency proposes ban on monetizing youth data
+ - [https://arstechnica.com/?p=1936426](https://arstechnica.com/?p=1936426)
+ - date published: 2023-05-03 17:44:04+00:00
+ - user: rumpel
+ - tags: ['facebook', 'privacy']
+
+## Brazil pushes back on big tech firms' campaign against 'fake news law' | Reuters
+ - [https://www.reuters.com/world/americas/brazil-lawmakers-vote-controversial-bill-clean-up-social-media-2023-05-02/](https://www.reuters.com/world/americas/brazil-lawmakers-vote-controversial-bill-clean-up-social-media-2023-05-02/)
+ - date published: 2023-05-03 16:16:49+00:00
+ - user: rumpel
+ - tags: ['brasil', 'moderation', 'censorship', 'fake news', 'bill 2630']
+
+## Google, Microsoft CEOs Called to AI Meeting at White House
+ - [https://www.reuters.com/technology/google-microsoft-openai-ceos-attend-white-house-ai-meeting-official-2023-05-02/](https://www.reuters.com/technology/google-microsoft-openai-ceos-attend-white-house-ai-meeting-official-2023-05-02/)
+ - date published: 2023-05-03 14:18:46+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
+
+## The Framework Laptop 13
+ - [https://frame.work/blog/announcing-the-framework-laptop-13-powered-by-amd-ryzen](https://frame.work/blog/announcing-the-framework-laptop-13-powered-by-amd-ryzen)
+ - date published: 2023-05-03 13:36:24+00:00
+ - user: rumpel
+ - tags: ['dyi', 'framework']
+
+## De-dollarization is happening at a ‘stunning’ pace
+ - [https://www.bloomberg.com/news/articles/2023-04-18/de-dollarization-is-happening-at-a-stunning-pace-jen-says](https://www.bloomberg.com/news/articles/2023-04-18/de-dollarization-is-happening-at-a-stunning-pace-jen-says)
+ - date published: 2023-05-03 02:15:12+00:00
+ - user: rumpel
+ - tags: ['fiat currency', 'dollar']
+
+## Immunologist is investigated by University for liking vaccine skeptic tweets, gender surgery criticism
+ - [https://reclaimthenet.org/dr-mark-tykocinski-for-liking-vaccine-skeptic-tweets](https://reclaimthenet.org/dr-mark-tykocinski-for-liking-vaccine-skeptic-tweets)
+ - date published: 2023-05-03 01:42:29+00:00
+ - user: rumpel
+ - tags: ['social media', 'censorship']
+
+## AI could create religions to control humans, warns Sapiens author Harari
+ - [https://www.thetimes.co.uk/article/ai-will-could-religions-to-to-control-humans-warns-sapiens-author-harari-fhbzgbv7b](https://www.thetimes.co.uk/article/ai-will-could-religions-to-to-control-humans-warns-sapiens-author-harari-fhbzgbv7b)
+ - date published: 2023-05-02 22:24:57+00:00
+ - user: rumpel
+ - tags: ['yuval noah harari', 'artificial intelligence']
+
+## Ireland’s plan to criminalize “hate speech” takes a “guilty until proven innocent” approach
+ - [https://reclaimthenet.org/irelands-plan-to-criminalize-hate-speech](https://reclaimthenet.org/irelands-plan-to-criminalize-hate-speech)
+ - date published: 2023-05-02 17:19:04+00:00
+ - user: rumpel
+ - tags: ['hate speech', 'ireland']
+
+## Privacyguides.org – The guide to restoring your online privacy
+ - [https://www.privacyguides.org/en/](https://www.privacyguides.org/en/)
+ - date published: 2023-05-01 20:00:52+00:00
+ - user: rumpel
+ - tags: ['privacy']
+
 ## Help make mass surveillance of entire populations uneconomical
  - [https://prism-break.org/en/](https://prism-break.org/en/)
  - date published: 2023-05-01 12:42:40+00:00
@@ -20,7 +74,7 @@
  - [https://www.economist.com/by-invitation/2023/04/28/yuval-noah-harari-argues-that-ai-has-hacked-the-operating-system-of-human-civilisation](https://www.economist.com/by-invitation/2023/04/28/yuval-noah-harari-argues-that-ai-has-hacked-the-operating-system-of-human-civilisation)
  - date published: 2023-04-30 18:42:11+00:00
  - user: rumpel
- - tags: ['artificial intelligence']
+ - tags: ['artificial intelligence', 'yuval noah harari']
 
 ## Example of why you should not use FaceID to unlock your phone
  - [https://mastodon.social/@runasand/110286780839680620](https://mastodon.social/@runasand/110286780839680620)
@@ -44,7 +98,7 @@
  - [https://reclaimthenet.org/microaggression-reported-through-online-portal-uk-university](https://reclaimthenet.org/microaggression-reported-through-online-portal-uk-university)
  - date published: 2023-04-29 19:24:25+00:00
  - user: rumpel
- - tags: ['censorship', 'lockdown', 'england', 'zero covid', 'china']
+ - tags: ['lockdown', 'china', 'england', 'hate speech', 'censorship', 'zero covid']
 
 ## By building an open ecosystem, Google has locked me in forever
  - [https://www.androidauthority.com/google-open-ecosystem-lock-3315205/](https://www.androidauthority.com/google-open-ecosystem-lock-3315205/)
@@ -52,11 +106,23 @@
  - user: rumpel
  - tags: ['selfhost']
 
+## Get The TLDR Of Any YouTube Video
+ - [https://www.you-tldr.com/](https://www.you-tldr.com/)
+ - date published: 2023-04-29 17:07:24+00:00
+ - user: rumpel
+ - tags: ['youtube']
+
 ## Telegram CEO tells Brazil’s government its censorship demands are “impossible”
  - [https://reclaimthenet.org/telegram-ceo-tells-brazils-government-its-censorship-demands-are-impossible](https://reclaimthenet.org/telegram-ceo-tells-brazils-government-its-censorship-demands-are-impossible)
  - date published: 2023-04-29 15:08:17+00:00
  - user: rumpel
  - tags: ['telegram', 'privacy']
+
+## Internet in a Box
+ - [https://internet-in-a-box.org/](https://internet-in-a-box.org/)
+ - date published: 2023-04-29 04:57:44+00:00
+ - user: rumpel
+ - tags: ['selfhost']
 
 ## Britain Is Dead
  - [https://www.palladiummag.com/2023/04/27/britain-is-dead/](https://www.palladiummag.com/2023/04/27/britain-is-dead/)
@@ -614,7 +680,7 @@
  - [https://geopoliticaleconomy.com/2023/04/06/dedollarization-china-russia-brazil-asean/](https://geopoliticaleconomy.com/2023/04/06/dedollarization-china-russia-brazil-asean/)
  - date published: 2023-04-06 20:54:59+00:00
  - user: rumpel
- - tags: ['china', 'dollar', 'asean', 'brasil', 'russia']
+ - tags: ['fiat currency', 'china', 'asean', 'brasil', 'dollar', 'russia']
 
 ## Tesla workers shared images from car cameras, including “scenes of intimacy”
  - [https://arstechnica.com/tech-policy/2023/04/tesla-workers-shared-images-from-car-cameras-including-scenes-of-intimacy/](https://arstechnica.com/tech-policy/2023/04/tesla-workers-shared-images-from-car-cameras-including-scenes-of-intimacy/)
@@ -830,7 +896,7 @@
  - [https://www.foxbusiness.com/markets/brazil-china-strike-trade-deal-agreement-ditch-us-dollar](https://www.foxbusiness.com/markets/brazil-china-strike-trade-deal-agreement-ditch-us-dollar)
  - date published: 2023-03-29 17:20:40+00:00
  - user: rumpel
- - tags: ['china', 'dollar', 'brasil']
+ - tags: ['china', 'brasil', 'dollar', 'fiat currency']
 
 ## 'Patriot Act on Steroids:' Conservatives Slam RESTRICT Act on Social Media
  - [https://www.breitbart.com/tech/2023/03/29/patriot-act-on-steroids-conservatives-slam-restrict-act-on-social-media/](https://www.breitbart.com/tech/2023/03/29/patriot-act-on-steroids-conservatives-slam-restrict-act-on-social-media/)
@@ -1136,7 +1202,7 @@
  - [https://edition.cnn.com/2023/03/17/politics/fox-news-january-6-footage-capitol-police/index.html](https://edition.cnn.com/2023/03/17/politics/fox-news-january-6-footage-capitol-police/index.html)
  - date published: 2023-03-17 15:08:28+00:00
  - user: rumpel
- - tags: ['tucker carlson', 'january 6']
+ - tags: ['january 6', 'the right wing', 'tucker carlson']
 
 ## U.S. government agencies may have been double billed for projects in Wuhan, China, records indicate; probe launched - CBS News
  - [https://www.cbsnews.com/news/us-government-agencies-may-have-been-double-billed-projects-wuhan-china-records-indicate-probe/](https://www.cbsnews.com/news/us-government-agencies-may-have-been-double-billed-projects-wuhan-china-records-indicate-probe/)
@@ -3416,7 +3482,7 @@
  - [https://www.jonandnic.com/2023/01/08/old-man-yells-at-cloud/](https://www.jonandnic.com/2023/01/08/old-man-yells-at-cloud/)
  - date published: 2023-01-10 01:58:53+00:00
  - user: rumpel
- - tags: ['techconcerns', 'dead internet', 'games', 'subscription', 'algorithms', 'electric vehicles', 'social media']
+ - tags: ['technology', 'subscription', 'electric vehicles', 'games', 'social media', 'dead internet', 'algorithms']
 
 ## Microsoft’s new AI can simulate anyone’s voice with 3 seconds of audio
  - [https://arstechnica.com/?p=1908618](https://arstechnica.com/?p=1908618)
@@ -3668,7 +3734,7 @@
  - [https://www.msn.com/en-us/news/world/the-who-thinks-anti-vaccine-activism-is-deadlier-than-terrorism/ar-AA15Xzm5](https://www.msn.com/en-us/news/world/the-who-thinks-anti-vaccine-activism-is-deadlier-than-terrorism/ar-AA15Xzm5)
  - date published: 2023-01-04 22:29:52+00:00
  - user: rumpel
- - tags: ['anti-vax', 'covid', 'agression', 'vaccine']
+ - tags: ['misinformation', 'covid', 'anti-vax', 'vaccine', 'propaganda']
 
 ## Apple fined $8.5 million in France over targeted App Store ads
  - [https://www.engadget.com/apple-france-fine-app-store-targeted-ads-211750930.html?src=rss](https://www.engadget.com/apple-france-fine-app-store-targeted-ads-211750930.html?src=rss)

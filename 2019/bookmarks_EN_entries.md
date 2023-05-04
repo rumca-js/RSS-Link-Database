@@ -320,7 +320,7 @@
  - [https://www.nytimes.com/2019/08/22/business/epstein-mit-media-lab.html](https://www.nytimes.com/2019/08/22/business/epstein-mit-media-lab.html)
  - date published: 2019-08-22 12:18:53+00:00
  - user: None
- - tags: ['donations', 'money', 'jeffrey epstein', 'mit']
+ - tags: ['mit', 'jeffrey epstein']
 
 ## Get Woke Go Broke: Gillette Backflips After $12 Billion Toxic Masculinity Disaster — Hopes to Lure Sexist Pigs Back with New Ad Campaign
  - [https://www.thegatewaypundit.com/2019/08/get-woke-go-broke-gillette-backflips-after-12-billion-toxic-masculinity-disaster-hopes-to-lure-sexist-pigs-back-with-new-ad-campaign/](https://www.thegatewaypundit.com/2019/08/get-woke-go-broke-gillette-backflips-after-12-billion-toxic-masculinity-disaster-hopes-to-lure-sexist-pigs-back-with-new-ad-campaign/)

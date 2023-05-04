@@ -80,7 +80,7 @@
  - [https://theconversation.com/the-manipulation-of-the-american-mind-edward-bernays-and-the-birth-of-public-relations-44393](https://theconversation.com/the-manipulation-of-the-american-mind-edward-bernays-and-the-birth-of-public-relations-44393)
  - date published: 2015-07-09 11:40:48+00:00
  - user: rumpel
- - tags: ['propaganda', 'pr', 'usa']
+ - tags: ['public relations', 'usa', 'propaganda']
 
 ## Microsoft's new small print – how your personal data is (ab)used - European Digital Rights (EDRi)
  - [https://edri.org/our-work/microsofts-new-small-print-how-your-personal-data-abused/](https://edri.org/our-work/microsofts-new-small-print-how-your-personal-data-abused/)
@@ -142,6 +142,12 @@
  - user: rumpel
  - tags: ['privacy', 'surveillance', 'big brother', 'nsa', 'encryption', 'crypto wars']
 
+## China's Great Cannon
+ - [https://citizenlab.ca/2015/04/chinas-great-cannon/](https://citizenlab.ca/2015/04/chinas-great-cannon/)
+ - date published: 2015-04-10 07:15:20+00:00
+ - user: rumpel
+ - tags: ['china great cannon', 'ddos']
+
 ## Bill Gates: The next outbreak? We’re not ready | TED
  - [https://www.youtube.com/watch?v=6Af6b_wyiwI](https://www.youtube.com/watch?v=6Af6b_wyiwI)
  - date published: 2015-04-03 07:28:00+00:00
@@ -182,7 +188,7 @@
  - [https://theweek.com/articles/488919/wikileaks-hillary-clinton-survive-cablegate](https://theweek.com/articles/488919/wikileaks-hillary-clinton-survive-cablegate)
  - date published: 2015-01-09 20:02:24+00:00
  - user: None
- - tags: ['hillary clinton', 'hillary', 'wikileaks', 'cablegate']
+ - tags: ['cablegate', 'wikileaks', 'hillary clinton']
 
 ## Prince Andrew allegation: First pictures of paedo tycoon Jeffrey Epstein's £4k-a-night island lair
  - [https://www.mirror.co.uk/news/world-news/prince-andrew-allegation-first-pictures-4925112](https://www.mirror.co.uk/news/world-news/prince-andrew-allegation-first-pictures-4925112)

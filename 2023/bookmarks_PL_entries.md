@@ -64,7 +64,7 @@
  - [https://www.gov.pl/web/szczepimysie/niepozadane-odczyny-poszczepienne](https://www.gov.pl/web/szczepimysie/niepozadane-odczyny-poszczepienne)
  - date published: 2023-04-13 07:21:29+00:00
  - user: rumpel
- - tags: ['vaccine', 'covid', 'nop']
+ - tags: ['covid', 'vaccine']
 
 ## FBI: Używasz określeń jak "Chad", "red pill" i "looksmaxxing"? Możesz być brutalnym ekstremistą
  - [https://ithardware.pl/aktualnosci/fbi_uzywasz_okreslen_jak_chad_red_pill_i_looksmaxxing_mozesz_byc_brutalnym_ekstremista-26765.html](https://ithardware.pl/aktualnosci/fbi_uzywasz_okreslen_jak_chad_red_pill_i_looksmaxxing_mozesz_byc_brutalnym_ekstremista-26765.html)
@@ -226,7 +226,7 @@
  - [https://wiadomosci.radiozet.pl/Biznes/gotowka-wycofana-z-obiegu-polacy-zdecydowali](https://wiadomosci.radiozet.pl/Biznes/gotowka-wycofana-z-obiegu-polacy-zdecydowali)
  - date published: 2023-02-06 13:52:40+00:00
  - user: rumpel
- - tags: ['digital money']
+ - tags: ['poland', 'cbdc']
 
 ## Anulowałem abonament na Netflix. Nowy sposób walki z współdzieleniem kont zakrawa o nieśmieszny żart
  - [https://www.chip.pl/2023/02/netflix-wspoldzielenie-konta-felieton](https://www.chip.pl/2023/02/netflix-wspoldzielenie-konta-felieton)

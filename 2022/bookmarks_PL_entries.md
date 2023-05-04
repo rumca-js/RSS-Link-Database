@@ -578,7 +578,7 @@
  - [https://ithardware.pl/aktualnosci/swift_oglasza_przelom_w_eksperymentach_z_cbdc-23733.html](https://ithardware.pl/aktualnosci/swift_oglasza_przelom_w_eksperymentach_z_cbdc-23733.html)
  - date published: 2022-10-08 09:01:50+00:00
  - user: None
- - tags: ['digital money', 'cdbc']
+ - tags: ['cdbc', 'swift']
 
 ## Google Chrome to nie tylko najpopularniejsza przeglądarka, ale też najbardziej podatna na ataki
  - [https://ithardware.pl/aktualnosci/google_chrome_to_nie_tylko_najpopularniejsza_przegladarka_ale_tez_najbardziej_podatna_na_ataki-23732.html](https://ithardware.pl/aktualnosci/google_chrome_to_nie_tylko_najpopularniejsza_przegladarka_ale_tez_najbardziej_podatna_na_ataki-23732.html)
@@ -1310,7 +1310,7 @@
  - [https://dorzeczy.pl/opinie/332758/pospieszalski-oswajanie.html](https://dorzeczy.pl/opinie/332758/pospieszalski-oswajanie.html)
  - date published: 2022-08-07 14:58:22+00:00
  - user: None
- - tags: ['digital money', 'social score']
+ - tags: ['social score', 'cbdc']
 
 ## Kafka i lalka
  - [https://kempinsky.pl/kafka-i-lalka/](https://kempinsky.pl/kafka-i-lalka/)
@@ -1400,7 +1400,7 @@
  - [https://www.instalki.pl/aktualnosci/internet/52287-negatywne-recenzje-na-mapach-google-konsekwencje.html?fbclid=IwAR0rfsYRy1xtTSvAzonuRifzd-YUKXvvk9QJEmxUSXNr-amWXtPMAlfjINM](https://www.instalki.pl/aktualnosci/internet/52287-negatywne-recenzje-na-mapach-google-konsekwencje.html?fbclid=IwAR0rfsYRy1xtTSvAzonuRifzd-YUKXvvk9QJEmxUSXNr-amWXtPMAlfjINM)
  - date published: 2022-02-06 21:31:13+00:00
  - user: rumpel
- - tags: ['corporatocracy', 'google', 'maps', 'technofeudalism', 'wrongthink']
+ - tags: ['wrong think', 'maps', 'censorship', 'technofeudalism', 'corporatocracy', 'google']
 
 ## Komiks "Maus" zakazany. Cenzura w USA - PAN OD KULTURY
  - [https://panodkultury.com.pl/komiksy/komiks-maus-zakazany-cenzura-w-usa/](https://panodkultury.com.pl/komiksy/komiks-maus-zakazany-cenzura-w-usa/)

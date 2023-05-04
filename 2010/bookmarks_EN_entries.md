@@ -56,7 +56,7 @@
  - [https://money.cnn.com/2010/05/14/technology/Google_mistaken_wifi_collection/index.htm](https://money.cnn.com/2010/05/14/technology/Google_mistaken_wifi_collection/index.htm)
  - date published: 2010-05-14 08:48:45+00:00
  - user: rumpel
- - tags: ['google', 'privacy', 'surveillance', 'corporactocracy', 'law']
+ - tags: ['privacy', 'surveillance', 'corporatocracy', 'google', 'law']
 
 ## Facebook does not erase user-deleted content | ZDNET
  - [https://www.zdnet.com/article/facebook-does-not-erase-user-deleted-content/](https://www.zdnet.com/article/facebook-does-not-erase-user-deleted-content/)

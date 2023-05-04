@@ -16,6 +16,12 @@
  - user: rumpel
  - tags: ['big tech', 'corporatocracy', 'google']
 
+## Verizon Injecting Perma-Cookies to Track Mobile Customers, Bypassing Privacy Controls | Electronic Frontier Foundation
+ - [https://www.eff.org/deeplinks/2014/11/verizon-x-uidh](https://www.eff.org/deeplinks/2014/11/verizon-x-uidh)
+ - date published: 2014-11-03 07:17:11+00:00
+ - user: rumpel
+ - tags: ['verizon', 'privacy', 'corporatocracy', 'surveillance']
+
 ## 5 facts about evolution and religion
  - [https://www.pewresearch.org/fact-tank/2014/10/30/5-facts-about-evolution-and-religion/](https://www.pewresearch.org/fact-tank/2014/10/30/5-facts-about-evolution-and-religion/)
  - date published: 2014-10-30 19:52:34+00:00

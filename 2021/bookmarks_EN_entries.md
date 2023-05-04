@@ -368,7 +368,7 @@
  - [https://www.smh.com.au/national/the-price-of-freedom-how-anti-lockdown-protest-leaders-make-money-from-the-movement-20211130-p59de5.html](https://www.smh.com.au/national/the-price-of-freedom-how-anti-lockdown-protest-leaders-make-money-from-the-movement-20211130-p59de5.html)
  - date published: 2021-12-12 10:00:50+00:00
  - user: rumpel
- - tags: ['australia', 'lockdown', 'covid', 'money']
+ - tags: ['lockdown', 'australia', 'covid']
 
 ## "Open Source" is Broken - Xe
  - [https://xeiaso.net/blog/open-source-broken-2021-12-11](https://xeiaso.net/blog/open-source-broken-2021-12-11)
@@ -794,7 +794,7 @@
  - [https://reliefweb.int/report/world/pfizer-biontech-and-moderna-making-1000-profit-every-second-while-world-s-poorest](https://reliefweb.int/report/world/pfizer-biontech-and-moderna-making-1000-profit-every-second-while-world-s-poorest)
  - date published: 2021-11-16 18:45:13+00:00
  - user: rumpel
- - tags: ['covid', 'money']
+ - tags: ['pfizer', 'moderna', 'covid']
 
 ## Goodbye, Clean Code — Overreacted
  - [https://overreacted.io/goodbye-clean-code/](https://overreacted.io/goodbye-clean-code/)
@@ -1594,12 +1594,6 @@
  - user: rumpel
  - tags: ['the left wing', 'pronouns', 'newspeak']
 
-## Lime fights back against QR code snatchers - BBC News
- - [https://www.bbc.co.uk/news/technology-58680605](https://www.bbc.co.uk/news/technology-58680605)
- - date published: 2021-10-03 11:24:42.885794+00:00
- - user: Thomas Pain
- - tags: $tags
-
 ## How Google destroyed our startup by terminating our Google Play Developer Account | by 6Ace Games | Oct, 2021 | Medium
  - [https://medium.com/@sixacegames/how-google-destroyed-our-startup-by-terminating-our-google-play-developer-account-6a8cca09ea88](https://medium.com/@sixacegames/how-google-destroyed-our-startup-by-terminating-our-google-play-developer-account-6a8cca09ea88)
  - date published: 2021-10-03 07:23:38.905114+00:00
@@ -2144,7 +2138,7 @@
  - [https://www.patrick-breyer.de/en/upcoming-vote-on-digital-services-act-in-juri-committee-pirate-mep-patrick-breyer-fears-massive-threats-to-fundamental-rights/?fbclid=IwAR3gQPfBLKxBUEsFuSI8PIFh4Rl5ghIW4oEtDPq_murNcmCLLwJ5qXSfsjI](https://www.patrick-breyer.de/en/upcoming-vote-on-digital-services-act-in-juri-committee-pirate-mep-patrick-breyer-fears-massive-threats-to-fundamental-rights/?fbclid=IwAR3gQPfBLKxBUEsFuSI8PIFh4Rl5ghIW4oEtDPq_murNcmCLLwJ5qXSfsjI)
  - date published: 2021-08-28 20:21:24+00:00
  - user: None
- - tags: ['surveillance', 'tech control', 'digital service act', 'privacy', 'dsa']
+ - tags: ['privacy', 'digital service act', 'surveillance', 'tech control']
 
 ## 🏡 Neil's Place - DoomPhone
  - [https://neilbostian.github.io/#/doomphone](https://neilbostian.github.io/#/doomphone)
@@ -3254,7 +3248,7 @@
  - [https://www.dailywire.com/news/communist-cuba-begins-cracking-down-on-freedom-protesters-internet-and-cell-service-cut](https://www.dailywire.com/news/communist-cuba-begins-cracking-down-on-freedom-protesters-internet-and-cell-service-cut)
  - date published: 2021-07-12 19:42:49+00:00
  - user: rumpel
- - tags: ['freedom', 'prostests', 'cuba']
+ - tags: ['cuba', 'freedom', 'prostest']
 
 ## POLITICO-Harvard poll: Most Americans believe Covid leaked from lab  - POLITICO
  - [https://www.politico.com/news/2021/07/09/poll-covid-wuhan-lab-leak-498847](https://www.politico.com/news/2021/07/09/poll-covid-wuhan-lab-leak-498847)
@@ -3404,7 +3398,7 @@
  - [https://www.dailymail.co.uk/news/article-9672347/Social-distancing-stay-FOREVER-says-Communist-supporting-SAGE-Covid-scientist-Susan-Michie.html](https://www.dailymail.co.uk/news/article-9672347/Social-distancing-stay-FOREVER-says-Communist-supporting-SAGE-Covid-scientist-Susan-Michie.html)
  - date published: 2021-06-10 20:21:13+00:00
  - user: rumpel
- - tags: ['distancing', 'covid']
+ - tags: ['social distance', 'covid']
 
 ## UK government loses legal battle over transparency of ‘Orwellian’ unit | Freedom of information | The Guardian
  - [https://www.theguardian.com/politics/2021/jun/08/uk-government-loses-legal-battle-transparency-orwellian-unit](https://www.theguardian.com/politics/2021/jun/08/uk-government-loses-legal-battle-transparency-orwellian-unit)
@@ -3938,7 +3932,7 @@
  - [https://www.bloomberg.com/news/articles/2021-03-12/pfizer-ceo-bourla-s-pay-climbed-17-to-21-million-in-2020](https://www.bloomberg.com/news/articles/2021-03-12/pfizer-ceo-bourla-s-pay-climbed-17-to-21-million-in-2020)
  - date published: 2021-03-21 18:27:24+00:00
  - user: rumpel
- - tags: ['pfizer', 'covid', 'big pharma', 'money']
+ - tags: ['pfizer', 'big pharma', 'covid']
 
 ## How Reddit Makes Money
  - [https://www.investopedia.com/articles/investing/093015/how-reddit-makes-money.asp](https://www.investopedia.com/articles/investing/093015/how-reddit-makes-money.asp)
@@ -4004,7 +3998,7 @@
  - [https://www.outsiderclub.com/printed-to-death-dollar-due-to-crash-in-2021/98588](https://www.outsiderclub.com/printed-to-death-dollar-due-to-crash-in-2021/98588)
  - date published: 2021-03-10 07:14:20+00:00
  - user: None
- - tags: $tags
+ - tags: ['fiat currency', 'crisis', 'fed', 'dollar']
 
 ## Debate over gender-neutral language divides Germany – POLITICO
  - [https://www.politico.eu/article/debate-over-gender-inclusive-neutral-language-divides-germany/](https://www.politico.eu/article/debate-over-gender-inclusive-neutral-language-divides-germany/)
@@ -4052,7 +4046,7 @@
  - [https://www.youtube.com/watch?v=_jW0xUmUaUc](https://www.youtube.com/watch?v=_jW0xUmUaUc)
  - date published: 2021-02-19 21:05:32+00:00
  - user: None
- - tags: ['corporatocracy', 'varoufakis', 'technofeudalism', 'capitalism']
+ - tags: ['technofeudalism', 'yanis varoufakis', 'corporatocracy', 'capitalism']
 
 ## Zawodowiec (2002) - polski film dokumentalny
  - [https://www.youtube.com/watch?v=a6AVCDMHWfg](https://www.youtube.com/watch?v=a6AVCDMHWfg)

@@ -278,7 +278,7 @@
  - [http://money.cnn.com/2017/06/27/technology/business/google-eu-antitrust-fine/index.html](http://money.cnn.com/2017/06/27/technology/business/google-eu-antitrust-fine/index.html)
  - date published: 2017-06-27 13:24:36+00:00
  - user: rumpel
- - tags: ['algorithms', 'fine', 'search engines', 'technofeudalism', 'google', 'corporatocracy', 'big tech']
+ - tags: ['search engines', 'dark design', 'corporatocracy', 'fine', 'big tech', 'technofeudalism', 'google', 'algorithms']
 
 ## Google will stop scanning your Gmail messages to sell targeted ads
  - [https://www.theverge.com/2017/6/23/15862492/google-gmail-advertising-targeting-privacy-coud-business](https://www.theverge.com/2017/6/23/15862492/google-gmail-advertising-targeting-privacy-coud-business)

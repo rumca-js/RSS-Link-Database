@@ -488,7 +488,7 @@
  - [https://pudding.cool/2022/12/yard-sale/](https://pudding.cool/2022/12/yard-sale/)
  - date published: 2022-12-22 08:28:34+00:00
  - user: None
- - tags: ['money', 'society', 'elites', 'billionaires']
+ - tags: ['elites', 'billionaires', 'society']
 
 ## Marketing CEO explains how some news, tech corporations are committing 'business suicide'
  - [https://www.foxnews.com/media/marketing-ceo-explains-news-tech-corporations-committing-business-suicide](https://www.foxnews.com/media/marketing-ceo-explains-news-tech-corporations-committing-business-suicide)
@@ -710,7 +710,7 @@
  - [https://www.theguardian.com/commentisfree/2022/dec/19/in-2022-i-decided-to-get-away-from-screens-and-read-more-books-it-was-wonderful](https://www.theguardian.com/commentisfree/2022/dec/19/in-2022-i-decided-to-get-away-from-screens-and-read-more-books-it-was-wonderful)
  - date published: 2022-12-19 11:08:16+00:00
  - user: None
- - tags: ['unplug']
+ - tags: ['digital dementia', 'life balance']
 
 ## Twitter announces, then quickly retracts ban on promoting other social media
  - [http://www.msn.com/en-us/news/technology/twitter-announces-then-quickly-retracts-ban-on-promoting-other-social-media/ar-AA15qjms?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/twitter-announces-then-quickly-retracts-ban-on-promoting-other-social-media/ar-AA15qjms?li=BBnbcA1&srcref=rss)
@@ -734,7 +734,7 @@
  - [https://www.lemonde.fr/en/opinion/article/2022/12/19/biodiversity-anything-adopted-at-the-cop15-will-be-compromised-before-even-being-signed_6008248_23.html](https://www.lemonde.fr/en/opinion/article/2022/12/19/biodiversity-anything-adopted-at-the-cop15-will-be-compromised-before-even-being-signed_6008248_23.html)
  - date published: 2022-12-19 00:26:21+00:00
  - user: None
- - tags: ['biurocracy', 'climate change']
+ - tags: ['climate change']
 
 ## Israeli Ministry of Health claimed in court they were unable to locate a signed agreement with Pfizer
  - [https://expose-news.com/2022/12/18/israeli-gov-unable-to-locate-agreement-with-pfizer/](https://expose-news.com/2022/12/18/israeli-gov-unable-to-locate-agreement-with-pfizer/)
@@ -950,7 +950,7 @@
  - [https://en.m.wikipedia.org/wiki/Bilderberg_meeting](https://en.m.wikipedia.org/wiki/Bilderberg_meeting)
  - date published: 2022-12-15 20:13:23+00:00
  - user: None
- - tags: ['bilderberg meeting', 'secret societies', 'bilderberg']
+ - tags: ['bilderberg meeting', 'secret societies']
 
 ## Corporate coalition pushes government to create digital ID infrastructure
  - [https://reclaimthenet.org/corporations-push-for-digital-id/](https://reclaimthenet.org/corporations-push-for-digital-id/)
@@ -1034,7 +1034,7 @@
  - [https://www.cnet.com/personal-finance/taxes/if-you-make-over-600-on-paypal-venmo-or-cash-app-the-irs-will-know-about-it/#ftag=CADf328eec](https://www.cnet.com/personal-finance/taxes/if-you-make-over-600-on-paypal-venmo-or-cash-app-the-irs-will-know-about-it/#ftag=CADf328eec)
  - date published: 2022-12-14 17:15:00+00:00
  - user: None
- - tags: ['government', 'digital money', 'money', 'control', 'big brother']
+ - tags: ['cbdc', 'government', 'surveillance', 'big brother']
 
 ## Privacy concerns are raised over Chinese surveillance companies’ access to UK business crime data
  - [https://reclaimthenet.org/dahua-and-hikvision-uk-data-access/](https://reclaimthenet.org/dahua-and-hikvision-uk-data-access/)
@@ -1304,7 +1304,7 @@
  - [https://www.dailymail.co.uk/news/article-11523295/Hunter-Biden-sells-paintings-225-000-anonymous-buyers.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11523295/Hunter-Biden-sells-paintings-225-000-anonymous-buyers.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2022-12-10 05:55:07+00:00
  - user: None
- - tags: ['hunter biden', 'money']
+ - tags: ['hunter biden', 'joe biden']
 
 ## Elon Musk's 'Twitter Files' reveal internal debate to remove Mike Huckabee tweet including election joke
  - [http://www.msn.com/en-us/news/technology/elon-musk-s-twitter-files-reveal-internal-debate-to-remove-mike-huckabee-tweet-including-election-joke/ar-AA1572de?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/elon-musk-s-twitter-files-reveal-internal-debate-to-remove-mike-huckabee-tweet-including-election-joke/ar-AA1572de?li=BBnbcA1&srcref=rss)
@@ -2696,7 +2696,7 @@
  - [https://www.asiamarkets.com/china-russia-gold-reserve-currency/](https://www.asiamarkets.com/china-russia-gold-reserve-currency/)
  - date published: 2022-11-09 08:02:07+00:00
  - user: rumpel
- - tags: ['gold', 'china', 'brics', 'petrodollar', 'crisis', 'digital money']
+ - tags: ['cbdc', 'fiat currency', 'crisis', 'brics', 'china']
 
 ## Disney now matches Netflix's subscriber numbers across its combined services
  - [https://www.engadget.com/disney-streaming-services-earnings-055415800.html?src=rss](https://www.engadget.com/disney-streaming-services-earnings-055415800.html?src=rss)
@@ -3374,7 +3374,7 @@
  - [https://www.forbes.com/sites/cindygordon/2022/10/30/employee-happiness-is-a-leading-indicator-of-profitability-and-productivity/](https://www.forbes.com/sites/cindygordon/2022/10/30/employee-happiness-is-a-leading-indicator-of-profitability-and-productivity/)
  - date published: 2022-10-30 22:16:43+00:00
  - user: None
- - tags: ['company', 'empleyee']
+ - tags: ['work']
 
 ## Islamic extremism in UK is 'a bigger issue than we are willing to accept', Home Office source claims
  - [https://www.dailymail.co.uk/news/article-11371013/Islamic-extremism-UK-bigger-issue-willing-accept-Home-Office-source-claims.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11371013/Islamic-extremism-UK-bigger-issue-willing-accept-Home-Office-source-claims.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -3428,7 +3428,7 @@
  - [https://nicoyaresearch.com/russia-and-china-may-be-preparing-a-new-gold-backed-currency/](https://nicoyaresearch.com/russia-and-china-may-be-preparing-a-new-gold-backed-currency/)
  - date published: 2022-10-30 08:04:27+00:00
  - user: rumpel
- - tags: ['gold', 'china', 'brics', 'petrodollar', 'crisis', 'digital money']
+ - tags: ['cbdc', 'fiat currency', 'crisis', 'brics', 'china']
 
 ## Elon Musk, Bill Gates... 'We need to imagine new ways to control the propensity of billionaires to replace the State'
  - [https://www.lemonde.fr/en/opinion/article/2022/10/30/elon-musk-bill-gates-we-need-to-imagine-new-ways-to-control-the-propensity-of-billionaires-to-replace-the-state_6002257_23.html](https://www.lemonde.fr/en/opinion/article/2022/10/30/elon-musk-bill-gates-we-need-to-imagine-new-ways-to-control-the-propensity-of-billionaires-to-replace-the-state_6002257_23.html)
@@ -3680,7 +3680,7 @@
  - [https://github.com/diem/diem](https://github.com/diem/diem)
  - date published: 2022-10-27 14:25:32+00:00
  - user: None
- - tags: ['programming', 'crypto']
+ - tags: ['facebook', 'programming', 'crypto', 'diem']
 
 ## Google Kills Chrome For Millions Of Windows Users
  - [https://www.forbes.com/sites/gordonkelly/2022/10/27/google-chrome-browser-windows-support-new-end-date/](https://www.forbes.com/sites/gordonkelly/2022/10/27/google-chrome-browser-windows-support-new-end-date/)
@@ -3770,7 +3770,7 @@
  - [https://www.wired.com/1997/12/es-attention/](https://www.wired.com/1997/12/es-attention/)
  - date published: 2022-10-26 16:20:46+00:00
  - user: None
- - tags: ['dystopia', 'digital dementia']
+ - tags: ['digital dementia', 'dystopia', 'internet']
 
 ## Cambridge University draws criticism for 'woke' gender-neutral German curriculum
  - [https://www.foxnews.com/world/cambridge-university-draws-criticism-woke-gender-neutral-german-curriculum](https://www.foxnews.com/world/cambridge-university-draws-criticism-woke-gender-neutral-german-curriculum)
@@ -4016,7 +4016,7 @@
  - [https://www.theverge.com/2022/10/24/23421405/hauwei-justice-department-garland-chinese-spies](https://www.theverge.com/2022/10/24/23421405/hauwei-justice-department-garland-chinese-spies)
  - date published: 2022-10-24 19:35:27+00:00
  - user: None
- - tags: ['espionage', 'hawei', 'china']
+ - tags: ['china', 'huawei', 'espionage']
 
 ## The EU's Proposed Cyber Resilience Act Will Damage the Open Source Ecosystem - Internet Society
  - [https://www.internetsociety.org/blog/2022/10/the-eus-proposed-cyber-resilience-act-will-damage-the-open-source-ecosystem/](https://www.internetsociety.org/blog/2022/10/the-eus-proposed-cyber-resilience-act-will-damage-the-open-source-ecosystem/)
@@ -4592,7 +4592,7 @@
  - [https://www.dailymail.co.uk/news/article-11311859/Woke-doctor-blasted-hailing-transgender-teens-BOLD-suicide.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11311859/Woke-doctor-blasted-hailing-transgender-teens-BOLD-suicide.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2022-10-13 15:32:54+00:00
  - user: None
- - tags: ['suicide', 'transgender', 'the left wing']
+ - tags: ['transgender', 'the left wing']
 
 ## Martin Scorsese Says Hollywood's Obsession With Box Office Numbers Is "Repulsive"
  - [https://www.gamespot.com/articles/martin-scorsese-says-hollywoods-obsession-with-box-office-numbers-is-repulsive/1100-6508245/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/martin-scorsese-says-hollywoods-obsession-with-box-office-numbers-is-repulsive/1100-6508245/?ftag=CAD-01-10abi2f)
@@ -4604,7 +4604,7 @@
  - [https://gizmodo.com/truth-social-google-play-store-donald-trump-1849652590](https://gizmodo.com/truth-social-google-play-store-donald-trump-1849652590)
  - date published: 2022-10-13 14:25:00+00:00
  - user: None
- - tags: ['playstore', 'google', 'moderation', 'censorship']
+ - tags: ['google', 'moderation', 'censorship', 'play store']
 
 ## Back to the office? Don't expect to be more productive when you get there
  - [https://www.zdnet.com/article/back-to-the-office-dont-expect-to-be-more-productive-when-you-get-there/#ftag=RSSbaffb68](https://www.zdnet.com/article/back-to-the-office-dont-expect-to-be-more-productive-when-you-get-there/#ftag=RSSbaffb68)
@@ -4886,7 +4886,7 @@
  - [https://www.dailymail.co.uk/news/article-11292135/Stonewall-survey-finds-quarter-Gen-Z-16-25-year-olds-identify-LGBTQ.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11292135/Stonewall-survey-finds-quarter-Gen-Z-16-25-year-olds-identify-LGBTQ.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2022-10-07 16:52:49+00:00
  - user: None
- - tags: ['indoctrination', 'genz', 'the left wing', 'lgbt']
+ - tags: ['gen z', 'indoctrination', 'lgbt', 'the left wing']
 
 ## Biden issues order boosting privacy checks for data flows from Europe
  - [https://www.washingtonpost.com/technology/2022/10/07/biden-data-transfer-executive-order/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2022/10/07/biden-data-transfer-executive-order/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
@@ -5318,7 +5318,7 @@
  - [https://news.yahoo.com/youtube-removes-incoming-italian-prime-191944852.html](https://news.yahoo.com/youtube-removes-incoming-italian-prime-191944852.html)
  - date published: 2022-09-29 07:16:54+00:00
  - user: rumpel
- - tags: ['meloni', 'censorship', 'youtube']
+ - tags: ['youtube', 'giorgia meloni', 'censorship']
 
 ## 78% of business professionals are up for meetings in the metaverse
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59039](https://www.codeproject.com/script/News/View.aspx?nwid=59039)
@@ -6074,7 +6074,7 @@
  - [https://www.kapwing.com/blog/google-erased-our-website/](https://www.kapwing.com/blog/google-erased-our-website/)
  - date published: 2022-09-19 07:12:21+00:00
  - user: None
- - tags: ['youtube-dl', 'censorship', 'dmca', 'monotpoly', 'google', 'open source']
+ - tags: ['monopoly', 'corporatocracy', 'dmca', 'open source', 'censorship', 'youtube-dl', 'google']
 
 ## Google, Microsoft can get your passwords via web browser's spellcheck
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58927](https://www.codeproject.com/script/News/View.aspx?nwid=58927)
@@ -6375,6 +6375,12 @@
  - date published: 2022-09-14 15:30:31+00:00
  - user: None
  - tags: $tags
+
+## Ever wondered how a QR code works?
+ - [https://typefully.com/DanHollick/qr-codes-T7tLlNi](https://typefully.com/DanHollick/qr-codes-T7tLlNi)
+ - date published: 2022-09-14 14:17:43+00:00
+ - user: rumpel
+ - tags: ['qr codes']
 
 ## Progressives who turned San Fran into a hellhole are begging for ideas to save city: DAVID MARCUS
  - [https://www.dailymail.co.uk/news/article-11206757/Progressives-turned-San-Fran-hellhole-begging-ideas-save-city-DAVID-MARCUS.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11206757/Progressives-turned-San-Fran-hellhole-begging-ideas-save-city-DAVID-MARCUS.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -7316,7 +7322,7 @@
  - [https://gsiexchange.com/follow-the-yellow-bric-road-to-a-new-digital-reserve-currency/](https://gsiexchange.com/follow-the-yellow-bric-road-to-a-new-digital-reserve-currency/)
  - date published: 2022-08-29 16:56:15+00:00
  - user: rumpel
- - tags: ['digital money', 'gold']
+ - tags: ['fiat currency', 'brics', 'cbdc']
 
 ## Fear of Landing – Post-Pandemic Mystery at Heathrow
  - [https://fearoflanding.com/demystifying/post-pandemic-mystery-at-heathrow/](https://fearoflanding.com/demystifying/post-pandemic-mystery-at-heathrow/)
@@ -7778,7 +7784,7 @@
  - [https://unlimitedhangout.com/2022/09/investigative-reports/sustainable-debt-slavery/](https://unlimitedhangout.com/2022/09/investigative-reports/sustainable-debt-slavery/)
  - date published: 2022-08-13 07:41:38+00:00
  - user: None
- - tags: ['sustainable debt goals', 'sustainable debt slavery']
+ - tags: ['sustainable debt goals']
 
 ## I Don’t Like Go’s Default HTTP Handlers · Preslav Rachev
  - [https://preslav.me/2022/08/09/i-dont-like-golang-default-http-handlers/](https://preslav.me/2022/08/09/i-dont-like-golang-default-http-handlers/)
@@ -8096,7 +8102,7 @@
  - [https://mspoweruser.com/report-google-is-spying-on-competing-apps-on-android-to-give-its-own-services-a-boost](https://mspoweruser.com/report-google-is-spying-on-competing-apps-on-android-to-give-its-own-services-a-boost)
  - date published: 2022-07-24 12:04:49+00:00
  - user: rumpel
- - tags: ['big tech', 'monopoly', 'google', 'dark design', 'esptionage']
+ - tags: ['monopoly', 'dark design', 'big tech', 'espionage', 'google']
 
 ## How a Clip From Stray Got Me Banned From Twitter
  - [https://www.fanbyte.com/features/how-a-clip-from-stray-got-me-banned-from-twitter/](https://www.fanbyte.com/features/how-a-clip-from-stray-got-me-banned-from-twitter/)
@@ -8192,7 +8198,7 @@
  - [https://kanekoa.substack.com/p/sri-lankas-green-new-deal-brings](https://kanekoa.substack.com/p/sri-lankas-green-new-deal-brings)
  - date published: 2022-07-17 22:50:53+00:00
  - user: rumpel
- - tags: ['climate change', 'gnd', 'climate drama', 'great new deal']
+ - tags: ['climate drama', 'great new deal', 'climate change']
 
 ## Scratch is a big deal | Bryan Braun - Frontend Developer
  - [https://www.bryanbraun.com/2022/07/16/scratch-is-a-big-deal/](https://www.bryanbraun.com/2022/07/16/scratch-is-a-big-deal/)
@@ -10018,12 +10024,6 @@
  - user: Thomas Pain
  - tags: $tags
 
-## Dallas Got Rick Rolled With a Giant QR Code on April Fools Day | Dallas Observer
- - [https://www.dallasobserver.com/music/dallas-got-rick-rolled-with-a-giant-qr-code-on-april-fools-day-13716928](https://www.dallasobserver.com/music/dallas-got-rick-rolled-with-a-giant-qr-code-on-april-fools-day-13716928)
- - date published: 2022-04-06 07:23:59.055765+00:00
- - user: Thomas Pain
- - tags: $tags
-
 ## TikTok doesn't show the war in Ukraine to Russian users – Oslo og Viken
  - [https://www.nrk.no/osloogviken/xl/tiktok-doesn_t-show-the-war-in-ukraine-to-russian-users-1.15921522](https://www.nrk.no/osloogviken/xl/tiktok-doesn_t-show-the-war-in-ukraine-to-russian-users-1.15921522)
  - date published: 2022-04-06 07:10:36+00:00
@@ -10364,7 +10364,7 @@
  - [https://www.cnbc.com/2022/03/18/pfizer-ceo-albert-bourla-received-24point3-million-in-total-compensation-for-2021.html](https://www.cnbc.com/2022/03/18/pfizer-ceo-albert-bourla-received-24point3-million-in-total-compensation-for-2021.html)
  - date published: 2022-03-18 18:28:27+00:00
  - user: rumpel
- - tags: ['pfizer', 'covid', 'big pharma', 'money']
+ - tags: ['pfizer', 'big pharma', 'covid']
 
 ## Each Firefox download has a unique identifier - gHacks Tech News
  - [https://www.ghacks.net/2022/03/17/each-firefox-download-has-a-unique-identifier/](https://www.ghacks.net/2022/03/17/each-firefox-download-has-a-unique-identifier/)
@@ -11768,7 +11768,7 @@
  - [https://www.foxnews.com/politics/nancy-abudu-biden-nominee-voter-suppression](https://www.foxnews.com/politics/nancy-abudu-biden-nominee-voter-suppression)
  - date published: 2022-01-02 20:05:45+00:00
  - user: rumpel
- - tags: ['voting', 'joe biden']
+ - tags: ['elections', 'joe biden']
 
 ## Twitter Permanently Suspends Marjorie Taylor Greene’s Account
  - [https://www.nytimes.com/2022/01/02/technology/marjorie-taylor-greene-twitter.html](https://www.nytimes.com/2022/01/02/technology/marjorie-taylor-greene-twitter.html)
