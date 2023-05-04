@@ -69,18 +69,35 @@ With these data we can perform further analysis:
  - Google earns by selling your attention, and services of other big tech companies. It is hard to imagine that it will make a user-friendly service. It will create investor, producer friendly service
  - We cannot replace Google search. We can however provide additional functionality
 
-## Analysis of Tools
+## Tags
 
-Archive.org:
- - Is not reliable. Sometimes it gets painfully slow. It is still better than nothing
- - Most mainstream media RSS is covered, but the coverage is spotty. Not all days are covered
+Each bookmarked entry should contain a 'tag'. It should describe a category of the link.
 
-RSS tools:
- - Some do not provide ability to bookmark entries
- - Some do not provide ability to add tags entries (useful for searching entries with a particular tag)
- - Some do not provide ability to search for a particular title, etc. Searching mechanisms are limiting
- - There is no ability to fetch archived data. I have been using archive.org to import historic RSS data, but not all data are available
- - Some of RSS tools are not local (feedly), which for me is a problem
+Currently most popular tags:
+ - covid
+ - privacy
+ - censorship
+ - surveillance
+ - big brother
+ - the left wing
+ - climate change
+ - vaccine
+ - google
+ - propaganda
+
+Some tags names might be confusing. Therefore I provide a little bit of help in understanding the idea behind the tag naming convention.
+
+ - SelfHost - everything related to hosting things by yourself. May it be NextCloud, apache server, etc.
+ - Technofeudalism - everything about reliance on big tech solutions. Imagine a world in which you have no free will, but you need to listen to your media platform overlords
+ - Big Brother - everything where the government shows its true nature
+ - Corporatocracy - everything that shows that corporations are above government
+ - Science Is Dead - everything that proves that you cannot trust science today
+ - Manufacturing consent - everything that proves that nodes in a society, the 'system' operates in unison. Government works with banks, corporations agree with banks. There is mutual agreement in many places
+ - The left wing - everything related to virtue signalling, LGBT, woke, SJW
+ - The right wing - everything related to claims for election fraud, donald trump
+ - Hate speech - hate speech is often accepted against majorities (for example agains white people). A hate speech is a hate speech. Let's restore its meaning. Every kind of agression against any other might be hate speech.
+ - Racism - fixed quotas in companies, based on race, is racist. Making interviews for just 'black' people is also racist
+ - Sexism - fixed quotas in companies, based on sex, is sexist. Making interviews for females, or adding special points to one sex in tests, or results is sexist
 
 # Additional thoughts
 
