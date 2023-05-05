@@ -73,7 +73,7 @@ With these data we can perform further analysis:
 
 ## Tags
 
-Each bookmarked entry should contain a 'tag'. It should describe a category of the link.
+Each bookmarked entry should contain a 'tag' that describes its category. With tags it is easy to filter relevant information.
 
 Currently most popular tags:
  - covid
