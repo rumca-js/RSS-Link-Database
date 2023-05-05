@@ -56,7 +56,7 @@
  - [https://www.geekweek.pl/news/2019-10-07/francja-pierwszym-krajem-w-europie-ktory-wprowadzi-masowy-system-inwigilacji-ludzi/](https://www.geekweek.pl/news/2019-10-07/francja-pierwszym-krajem-w-europie-ktory-wprowadzi-masowy-system-inwigilacji-ludzi/)
  - date published: 2019-08-24 13:09:09+00:00
  - user: None
- - tags: ['surveillance', 'tech control', 'biometric', 'facial recognition', 'big brother', 'india', 'corporatocracy']
+ - tags: ['france', 'government control', 'surveillance', 'big brother', 'corporatocracy', 'facial recognition', 'biometric']
 
 ## Oskarżenia pod adresem Grety Thunberg. „Stoją za nią PR-owcy i koncerny”
  - [https://energetyka24.com/klimat/oskarzenia-pod-adresem-grety-thunberg-stoja-za-nia-pr-owcy-i-koncerny](https://energetyka24.com/klimat/oskarzenia-pod-adresem-grety-thunberg-stoja-za-nia-pr-owcy-i-koncerny)
@@ -74,7 +74,7 @@
  - [https://wiadomosci.dziennik.pl/wydarzenia/artykuly/602791,zywa-ksiazka-ordo-iuris-lgbt-kontrowersje.html](https://wiadomosci.dziennik.pl/wydarzenia/artykuly/602791,zywa-ksiazka-ordo-iuris-lgbt-kontrowersje.html)
  - date published: 2019-07-17 22:15:14+00:00
  - user: rumpel
- - tags: ['children', 'sexualization', 'propaganda', 'libraryreading', 'indoctrination', 'the left wing', 'lgbt']
+ - tags: ['indoctrination', 'children', 'the left wing', 'sexualization', 'lgbt', 'propaganda']
 
 ## Koniec naszego świata
  - [https://www.tvp.info/43374228/koniec-naszego-swiata](https://www.tvp.info/43374228/koniec-naszego-swiata)

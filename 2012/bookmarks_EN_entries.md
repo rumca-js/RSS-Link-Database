@@ -41,6 +41,12 @@ Foreign Bribery Investigation | OPA | Department of Justice
  - user: rumpel
  - tags: ['pfizer', 'manufacturing consent', 'big pharma']
 
+## Google: government requests to censor content "alarming" | Reuters
+ - [https://www.reuters.com/article/us-google-censorship-idUSBRE85H0S220120618](https://www.reuters.com/article/us-google-censorship-idUSBRE85H0S220120618)
+ - date published: 2012-06-18 08:14:21+00:00
+ - user: rumpel
+ - tags: ['google', 'censorship', 'big brother']
+
 ## These 6 Corporations Control 90% Of The Media In America
  - [https://www.businessinsider.com/these-6-corporations-control-90-of-the-media-in-america-2012-6?IR=T](https://www.businessinsider.com/these-6-corporations-control-90-of-the-media-in-america-2012-6?IR=T)
  - date published: 2012-06-14 15:24:05+00:00
@@ -69,7 +75,7 @@ Foreign Bribery Investigation | OPA | Department of Justice
  - [https://edition.cnn.com/2012/04/16/world/europe/italy-berlusconi-trial/index.html](https://edition.cnn.com/2012/04/16/world/europe/italy-berlusconi-trial/index.html)
  - date published: 2012-04-16 20:35:25+00:00
  - user: rumpel
- - tags: ['politicians', 'berlusconi', 'bunga bunga', 'billionaires']
+ - tags: ['politicians', 'silvio berlusconi', 'bunga bunga', 'billionaires']
 
 ## The flip side to Bill Gates' charity billions
  - [https://newint.org/features/2012/04/01/bill-gates-charitable-giving-ethics](https://newint.org/features/2012/04/01/bill-gates-charitable-giving-ethics)
@@ -87,17 +93,17 @@ Foreign Bribery Investigation | OPA | Department of Justice
  - [https://venturebeat.com/business/what-is-acta-and-why-are-thousands-of-europeans-protesting-it/](https://venturebeat.com/business/what-is-acta-and-why-are-thousands-of-europeans-protesting-it/)
  - date published: 2012-03-08 10:49:43+00:00
  - user: rumpel
- - tags: ['surveillance', 'tech control', 'protest', 'privacy', 'censorship', 'acta']
+ - tags: ['surveillance', 'government control', 'protest', 'privacy', 'censorship', 'acta']
 
 ## Acta protests: Thousands take to streets across Europe - BBC News
  - [https://www.bbc.com/news/technology-16999497](https://www.bbc.com/news/technology-16999497)
  - date published: 2012-03-08 10:47:47+00:00
  - user: rumpel
- - tags: ['surveillance', 'tech control', 'protest', 'privacy', 'censorship', 'acta']
+ - tags: ['surveillance', 'government control', 'protest', 'privacy', 'censorship', 'acta']
 
 ## EU countries sign unpopular anti-counterfeit treaty
  - [https://euobserver.com/rule-of-law/115043](https://euobserver.com/rule-of-law/115043)
  - date published: 2012-01-27 10:50:13+00:00
  - user: rumpel
- - tags: ['surveillance', 'tech control', 'protest', 'privacy', 'censorship', 'acta']
+ - tags: ['surveillance', 'government control', 'protest', 'privacy', 'censorship', 'acta']
 

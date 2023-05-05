@@ -44,7 +44,7 @@
  - [https://www.newyorker.com/magazine/2011/06/06/basta-bunga-bunga](https://www.newyorker.com/magazine/2011/06/06/basta-bunga-bunga)
  - date published: 2011-06-06 20:34:27+00:00
  - user: rumpel
- - tags: ['politicians', 'berlusconi', 'bunga bunga', 'billionaires']
+ - tags: ['politicians', 'silvio berlusconi', 'bunga bunga', 'billionaires']
 
 ## The Myth of U.S. Democracy and the Reality of U.S. Corporatocracy
  - [https://www.huffpost.com/entry/the-myth-of-us-democracy-corporatocracy_b_836573](https://www.huffpost.com/entry/the-myth-of-us-democracy-corporatocracy_b_836573)
@@ -56,7 +56,7 @@
  - [https://www.theatlantic.com/international/archive/2011/04/the-berlusconi-in-us-all-bunga-bungas-real-meaning/236871/](https://www.theatlantic.com/international/archive/2011/04/the-berlusconi-in-us-all-bunga-bungas-real-meaning/236871/)
  - date published: 2011-04-06 20:33:30+00:00
  - user: rumpel
- - tags: ['bunga bunga', 'berlusconi']
+ - tags: ['bunga bunga', 'silvio berlusconi']
 
 ## Microsoft co-founder lays bare his battles with Bill Gates
  - [https://www.theguardian.com/technology/2011/mar/30/microsoft-paul-allen-bill-gates](https://www.theguardian.com/technology/2011/mar/30/microsoft-paul-allen-bill-gates)

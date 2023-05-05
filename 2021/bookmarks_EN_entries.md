@@ -554,7 +554,7 @@
  - [https://www.abc.net.au/news/science/2021-11-30/online-bullying-trolling-identity-verification-legislation/100658084](https://www.abc.net.au/news/science/2021-11-30/online-bullying-trolling-identity-verification-legislation/100658084)
  - date published: 2021-11-29 07:33:20+00:00
  - user: rumpel
- - tags: ['privacy', 'tech control', 'anonymity', 'big tech']
+ - tags: ['privacy', 'government control', 'anonymity', 'big tech']
 
 ## Inside Bohemian Grove, The Secret California Club For Powerful Men
  - [https://allthatsinteresting.com/bohemian-grove](https://allthatsinteresting.com/bohemian-grove)
@@ -578,7 +578,7 @@
  - [https://www.youtube.com/watch?v=5okSlrbgELA](https://www.youtube.com/watch?v=5okSlrbgELA)
  - date published: 2021-11-27 21:15:13+00:00
  - user: None
- - tags: $tags
+ - tags: ['freedom', 'mainstream media']
 
 ## The Internet is Held Together With Spit & Baling Wire – Krebs on Security
  - [https://krebsonsecurity.com/2021/11/the-internet-is-held-together-with-spit-baling-wire/](https://krebsonsecurity.com/2021/11/the-internet-is-held-together-with-spit-baling-wire/)
@@ -662,7 +662,7 @@
  - [https://mailbox.org/en/post/chat-control-the-latest-eu-plans-to-outlaw-encryption-and-introduce-telecommunications-surveillance?nl](https://mailbox.org/en/post/chat-control-the-latest-eu-plans-to-outlaw-encryption-and-introduce-telecommunications-surveillance?nl)
  - date published: 2021-11-23 17:34:06.057843+00:00
  - user: Thomas Pain
- - tags: ['surveillance', 'chat control', 'privacy', 'tech control']
+ - tags: ['surveillance', 'chat control', 'privacy', 'government control']
 
 ## Cis people benefit from gender-affirming healthcare, not just trans folk
  - [https://www.pinknews.co.uk/2021/11/19/gender-affirming-healthcare-cis-people-trans/](https://www.pinknews.co.uk/2021/11/19/gender-affirming-healthcare-cis-people-trans/)
@@ -812,7 +812,7 @@
  - [https://www.amazon.com/Real-Anthony-Fauci-Democracy-Childrens/dp/1510766804](https://www.amazon.com/Real-Anthony-Fauci-Democracy-Childrens/dp/1510766804)
  - date published: 2021-11-16 11:30:30+00:00
  - user: rumpel
- - tags: ['covid', 'fauci']
+ - tags: ['covid', 'anthony fauci']
 
 ## The secret court case 50 years ago that has robbed transgender people of their rights ever since
  - [https://inews.co.uk/news/long-reads/secret-court-case-50-years-ago-robbed-transgender-people-rights-1291857](https://inews.co.uk/news/long-reads/secret-court-case-50-years-ago-robbed-transgender-people-rights-1291857)
@@ -985,12 +985,6 @@
 ## An oral history of Bank Python
  - [https://calpaterson.com/bank-python.html](https://calpaterson.com/bank-python.html)
  - date published: 2021-11-04 17:32:15.189179+00:00
- - user: Thomas Pain
- - tags: $tags
-
-## How GoGuardian AI Spyware Took Over Schools, Student Devices During Covid - Bloomberg
- - [https://www.bloomberg.com/news/features/2021-10-28/how-goguardian-ai-spyware-took-over-schools-student-devices-during-covid](https://www.bloomberg.com/news/features/2021-10-28/how-goguardian-ai-spyware-took-over-schools-student-devices-during-covid)
- - date published: 2021-11-04 16:50:30.708179+00:00
  - user: Thomas Pain
  - tags: $tags
 
@@ -1268,7 +1262,7 @@
  - [https://www.washingtonexaminer.com/opinion/nih-admits-fauci-lied-about-funding-wuhan-gain-of-function-experiments](https://www.washingtonexaminer.com/opinion/nih-admits-fauci-lied-about-funding-wuhan-gain-of-function-experiments)
  - date published: 2021-10-20 20:23:09+00:00
  - user: rumpel
- - tags: ['wuhan', 'covid', 'fauci']
+ - tags: ['wuhan', 'covid', 'anthony fauci']
 
 ## Free Chinese VPN exposed data from over a million users
  - [https://www.techradar.com/news/free-chinese-vpn-exposed-data-from-a-million-users](https://www.techradar.com/news/free-chinese-vpn-exposed-data-from-a-million-users)
@@ -1280,7 +1274,7 @@
  - [https://www.abc.net.au/news/2021-10-20/pfizer-covid-19-vaccine-contracts/100553958](https://www.abc.net.au/news/2021-10-20/pfizer-covid-19-vaccine-contracts/100553958)
  - date published: 2021-10-20 07:43:01+00:00
  - user: None
- - tags: $tags
+ - tags: ['pfizer', 'corporatocracy', 'big pharma']
 
 ## mdk.fr – How APT does its fancy progress bar
  - [https://mdk.fr/blog/how-apt-does-its-fancy-progress-bar.html](https://mdk.fr/blog/how-apt-does-its-fancy-progress-bar.html)
@@ -1321,12 +1315,6 @@
 ## Valve bans blockchain games and NFTs on Steam, Epic will try to make it work - The Verge
  - [https://www.theverge.com/2021/10/15/22728425/valve-steam-blockchain-nft-crypto-ban-games-age-of-rust](https://www.theverge.com/2021/10/15/22728425/valve-steam-blockchain-nft-crypto-ban-games-age-of-rust)
  - date published: 2021-10-16 10:35:21.578316+00:00
- - user: Thomas Pain
- - tags: $tags
-
-## Most Canadians believe Facebook harms their mental health, survey suggests - The Globe and Mail
- - [https://www.theglobeandmail.com/canada/article-most-canadians-believe-facebook-harms-their-mental-health-survey-2/](https://www.theglobeandmail.com/canada/article-most-canadians-believe-facebook-harms-their-mental-health-survey-2/)
- - date published: 2021-10-16 10:31:22.507536+00:00
  - user: Thomas Pain
  - tags: $tags
 
@@ -1406,7 +1394,7 @@
  - [https://www.bryanbraun.com/2021/09/21/i-keep-making-things-out-of-checkboxes/](https://www.bryanbraun.com/2021/09/21/i-keep-making-things-out-of-checkboxes/)
  - date published: 2021-10-11 19:09:46.629773+00:00
  - user: Thomas Pain
- - tags: $tags
+ - tags: ['programming']
 
 ## China again blocks Wikimedia Foundation’s accreditation to World Intellectual Property Organization – Wikimedia Foundation
  - [https://wikimediafoundation.org/news/2021/10/05/china-again-blocks-wikimedia-foundations-accreditation-to-world-intellectual-property-organization/](https://wikimediafoundation.org/news/2021/10/05/china-again-blocks-wikimedia-foundations-accreditation-to-world-intellectual-property-organization/)
@@ -1551,6 +1539,12 @@
  - date published: 2021-10-06 14:23:48+00:00
  - user: rumpel
  - tags: ['covid', 'mandates']
+
+## Tim Pool Permanently BANNED By TikTok, Likely Due To Hosting Alex Jones, Who Broke No Rules
+ - [https://www.newswars.com/tim-pool-permanently-banned-by-tiktok-likely-due-to-hosting-alex-jones-who-broke-no-rules/](https://www.newswars.com/tim-pool-permanently-banned-by-tiktok-likely-due-to-hosting-alex-jones-who-broke-no-rules/)
+ - date published: 2021-10-06 12:04:50+00:00
+ - user: rumpel
+ - tags: ['deplatform', 'tim pool', 'tiktok']
 
 ## More details about the October 4 outage - Facebook Engineering
  - [https://engineering.fb.com/2021/10/05/networking-traffic/outage-details/](https://engineering.fb.com/2021/10/05/networking-traffic/outage-details/)
@@ -2126,7 +2120,7 @@
  - [https://www.theguardian.com/commentisfree/2021/aug/28/onlyfans-scandal-platforms-banks-ban-sexual-content-sex-workers](https://www.theguardian.com/commentisfree/2021/aug/28/onlyfans-scandal-platforms-banks-ban-sexual-content-sex-workers)
  - date published: 2021-08-29 08:31:59.806516+00:00
  - user: Thomas Pain
- - tags: $tags
+ - tags: ['corporatocracy', 'technofeudalism', 'onlyfans']
 
 ## Running DOOM on a Hacked CaptionCall Landline
  - [https://joshumax.github.io/general/2021/08/11/running-doom-on-captioncall.html](https://joshumax.github.io/general/2021/08/11/running-doom-on-captioncall.html)
@@ -2138,7 +2132,7 @@
  - [https://www.patrick-breyer.de/en/upcoming-vote-on-digital-services-act-in-juri-committee-pirate-mep-patrick-breyer-fears-massive-threats-to-fundamental-rights/?fbclid=IwAR3gQPfBLKxBUEsFuSI8PIFh4Rl5ghIW4oEtDPq_murNcmCLLwJ5qXSfsjI](https://www.patrick-breyer.de/en/upcoming-vote-on-digital-services-act-in-juri-committee-pirate-mep-patrick-breyer-fears-massive-threats-to-fundamental-rights/?fbclid=IwAR3gQPfBLKxBUEsFuSI8PIFh4Rl5ghIW4oEtDPq_murNcmCLLwJ5qXSfsjI)
  - date published: 2021-08-28 20:21:24+00:00
  - user: None
- - tags: ['privacy', 'digital service act', 'surveillance', 'tech control']
+ - tags: ['privacy', 'digital service act', 'surveillance', 'government control']
 
 ## 🏡 Neil's Place - DoomPhone
  - [https://neilbostian.github.io/#/doomphone](https://neilbostian.github.io/#/doomphone)
@@ -2402,7 +2396,7 @@
  - [https://www.bloomberg.com/news/articles/2021-08-19/onlyfans-to-block-sexually-explicit-videos-starting-in-october](https://www.bloomberg.com/news/articles/2021-08-19/onlyfans-to-block-sexually-explicit-videos-starting-in-october)
  - date published: 2021-08-20 11:55:58.064635+00:00
  - user: Thomas Pain
- - tags: $tags
+ - tags: ['technofeudalism', 'onlyfans']
 
 ## Inside YouTube’s Dissociative Identity Disorder Community
  - [https://www.thecut.com/2021/08/dissociative-identity-disorder-youtube.html](https://www.thecut.com/2021/08/dissociative-identity-disorder-youtube.html)
@@ -2462,7 +2456,7 @@
  - [https://news.ycombinator.com/item?id=28172490](https://news.ycombinator.com/item?id=28172490)
  - date published: 2021-08-14 08:52:33.219672+00:00
  - user: Thomas Pain
- - tags: $tags
+ - tags: ['play store', 'technofeudalism', 'open source']
 
 ## What Is the Fediverse and Can It Decentralize the Web?
  - [https://www.makeuseof.com/what-is-the-fediverse-and-can-it-decentralize-the-web/](https://www.makeuseof.com/what-is-the-fediverse-and-can-it-decentralize-the-web/)
@@ -2606,7 +2600,7 @@
  - [https://www.thecollegefix.com/professor-suggests-it-should-be-a-federal-hate-crime-to-criticize-fauci-and-other-government-funded-scientists/](https://www.thecollegefix.com/professor-suggests-it-should-be-a-federal-hate-crime-to-criticize-fauci-and-other-government-funded-scientists/)
  - date published: 2021-08-04 19:50:29+00:00
  - user: rumpel
- - tags: ['covid', 'science is dead', 'fauci']
+ - tags: ['covid', 'science is dead', 'anthony fauci']
 
 ## Facebook is reportedly trying to analyze encrypted data without decrypting it | TechSpot
  - [https://www.techspot.com/news/90660-facebook-reportedly-trying-analyze-encrypted-data-without-decrypting.html](https://www.techspot.com/news/90660-facebook-reportedly-trying-analyze-encrypted-data-without-decrypting.html)
@@ -2978,7 +2972,7 @@
  - [https://apnews.com/article/europe-business-health-government-and-politics-france-d25494f4cf4ca6c6d1464188a89ece6f](https://apnews.com/article/europe-business-health-government-and-politics-france-d25494f4cf4ca6c6d1464188a89ece6f)
  - date published: 2021-07-17 19:59:30+00:00
  - user: rumpel
- - tags: ['protest', 'tech control', 'vaccine', 'covid']
+ - tags: ['protest', 'government control', 'vaccine', 'covid']
 
 ## Words
  - [https://justinjackson.ca/words.html](https://justinjackson.ca/words.html)
@@ -3224,7 +3218,7 @@
  - [https://www.foxnews.com/media/biden-slammed-plans-monitor-text-messages-vaccine-misinformation](https://www.foxnews.com/media/biden-slammed-plans-monitor-text-messages-vaccine-misinformation)
  - date published: 2021-07-13 19:46:36+00:00
  - user: rumpel
- - tags: ['surveillance', 'tech control', 'covid', 'vaccine', 'big brother']
+ - tags: ['surveillance', 'government control', 'covid', 'vaccine', 'big brother']
 
 ## Google Fined $593 Million In Dispute Over Paying French Publishers For News : NPR
  - [https://www.npr.org/2021/07/13/1015596060/france-fines-google-592m-in-a-dispute-over-paying-news-publishers-for-content](https://www.npr.org/2021/07/13/1015596060/france-fines-google-592m-in-a-dispute-over-paying-news-publishers-for-content)
@@ -3272,7 +3266,7 @@
  - [https://european-pirateparty.eu/parliament-approves-chatcontrol/](https://european-pirateparty.eu/parliament-approves-chatcontrol/)
  - date published: 2021-07-06 12:55:03+00:00
  - user: None
- - tags: ['surveillance', 'chat control', 'privacy', 'tech control']
+ - tags: ['surveillance', 'chat control', 'privacy', 'government control']
 
 ## How Low Interest Rates Sent Institutions Like Blackrock Into Bidding Wars For Homes - Better Dwelling
  - [https://betterdwelling.com/how-low-interest-rates-sent-institutions-like-blackrock-into-bidding-wars-for-homes/](https://betterdwelling.com/how-low-interest-rates-sent-institutions-like-blackrock-into-bidding-wars-for-homes/)
@@ -3297,6 +3291,12 @@
  - date published: 2021-07-01 12:04:49+00:00
  - user: None
  - tags: ['wikileaks', 'julian assange']
+
+## Canadian Indigenous Group Says More Graves Found At New Site : NPR
+ - [https://www.npr.org/2021/07/01/1012100926/graves-found-at-new-site-canadian-indigenous-group-says](https://www.npr.org/2021/07/01/1012100926/graves-found-at-new-site-canadian-indigenous-group-says)
+ - date published: 2021-07-01 08:57:23+00:00
+ - user: rumpel
+ - tags: ['canada', 'church scandal', 'religion']
 
 ## COVID-19 vaccine generates immune structures critical for lasting immunity – Washington University School of Medicine in St. Louis
  - [https://medicine.wustl.edu/news/covid-19-vaccine-generates-immune-structures-critical-for-lasting-immunity/](https://medicine.wustl.edu/news/covid-19-vaccine-generates-immune-structures-critical-for-lasting-immunity/)
@@ -3326,13 +3326,19 @@
  - [https://www.youtube.com/watch?v=A41Tm5FDKns](https://www.youtube.com/watch?v=A41Tm5FDKns)
  - date published: 2021-06-24 20:17:29+00:00
  - user: rumpel
- - tags: ['history', 'bible', 'jesus']
+ - tags: ['jesus christ', 'history', 'bible']
 
 ## Pfizer, Moderna COVID-19 vaccines will get label warning over rare heart risk, FDA says
  - [https://www.fiercepharma.com/pharma/fda-says-label-warning-coming-for-heart-inflammation-pfizer-bnt-moderna-covid-19-vaccines](https://www.fiercepharma.com/pharma/fda-says-label-warning-coming-for-heart-inflammation-pfizer-bnt-moderna-covid-19-vaccines)
  - date published: 2021-06-24 18:00:32+00:00
  - user: None
  - tags: ['vaccine', 'covid']
+
+## Over 600 bodies found at church-run Indigenous school in Canada, groups report  - Portland Press Herald
+ - [https://www.pressherald.com/2021/06/24/over-600-bodies-found-at-church-run-indigenous-school-in-canada-groups-report/](https://www.pressherald.com/2021/06/24/over-600-bodies-found-at-church-run-indigenous-school-in-canada-groups-report/)
+ - date published: 2021-06-24 08:57:52+00:00
+ - user: rumpel
+ - tags: ['canada', 'church scandal', 'religion']
 
 ## EU launches antitrust probe into Google banning third-party cookies in Chrome | Ars Technica
  - [https://arstechnica.com/tech-policy/2021/06/eu-antitrust-regulators-launch-probe-into-googles-floc-plan/](https://arstechnica.com/tech-policy/2021/06/eu-antitrust-regulators-launch-probe-into-googles-floc-plan/)
@@ -3356,7 +3362,7 @@
  - [https://www.breitbart.com/science/2021/06/21/fauci-doubles-down-people-who-criticize-me-are-actually-criticizing-science/](https://www.breitbart.com/science/2021/06/21/fauci-doubles-down-people-who-criticize-me-are-actually-criticizing-science/)
  - date published: 2021-06-21 17:24:57+00:00
  - user: rumpel
- - tags: ['science is dead', 'covid', 'science', 'fauci']
+ - tags: ['science is dead', 'covid', 'science', 'anthony fauci']
 
 ## The Lazarus heist: How North Korea almost pulled off a billion-dollar hack
  - [https://www.bbc.co.uk/news/stories-57520169](https://www.bbc.co.uk/news/stories-57520169)
@@ -3440,7 +3446,7 @@
  - [https://www.youtube.com/watch?v=2YmpRI9KDh8](https://www.youtube.com/watch?v=2YmpRI9KDh8)
  - date published: 2021-06-03 21:09:28+00:00
  - user: None
- - tags: ['covid', 'covid lie', 'fauci']
+ - tags: ['covid', 'covid lie', 'anthony fauci']
 
 ## The Lab-Leak Theory: Inside the Fight to Uncover COVID-19’s Origins
  - [https://www.vanityfair.com/news/2021/06/the-lab-leak-theory-inside-the-fight-to-uncover-covid-19s-origins](https://www.vanityfair.com/news/2021/06/the-lab-leak-theory-inside-the-fight-to-uncover-covid-19s-origins)
@@ -3458,7 +3464,7 @@
  - [https://redstate.com/bonchie/2021/06/02/faucis-emails-expose-his-lies-about-masks-in-stunning-fashion-n390282](https://redstate.com/bonchie/2021/06/02/faucis-emails-expose-his-lies-about-masks-in-stunning-fashion-n390282)
  - date published: 2021-06-02 19:28:27+00:00
  - user: rumpel
- - tags: ['masks', 'covid', 'fauci']
+ - tags: ['masks', 'covid', 'anthony fauci']
 
 ## Gates Foundation grants Annenberg Institute $999,260 | Annenberg Institute at Brown
  - [https://www.annenberginstitute.org/news/gates-foundation-grants-annenberg-institute-999260](https://www.annenberginstitute.org/news/gates-foundation-grants-annenberg-institute-999260)
@@ -3470,7 +3476,7 @@
  - [https://nypost.com/2021/06/02/fauci-was-warned-that-covid-may-have-been-engineered-emails/](https://nypost.com/2021/06/02/fauci-was-warned-that-covid-may-have-been-engineered-emails/)
  - date published: 2021-06-02 07:23:57+00:00
  - user: rumpel
- - tags: ['covid', 'leak', 'email', 'fauci']
+ - tags: ['covid', 'leak', 'email', 'anthony fauci']
 
 ## We Now Know Why Facebook May Have Censored the Lab Leak Theory
  - [https://townhall.com/tipsheet/katiepavlich/2021/06/02/we-now-know-why-facebook-may-have-censored-the-lab-leak-theory-n2590360](https://townhall.com/tipsheet/katiepavlich/2021/06/02/we-now-know-why-facebook-may-have-censored-the-lab-leak-theory-n2590360)
@@ -3494,7 +3500,7 @@
  - [https://www.bbc.com/news/world-us-canada-57336280](https://www.bbc.com/news/world-us-canada-57336280)
  - date published: 2021-06-01 11:41:11+00:00
  - user: None
- - tags: ['fauci', 'censorship', 'mark zuckerberg', 'covid']
+ - tags: ['anthony fauci', 'censorship', 'mark zuckerberg', 'covid']
 
 ## U.S. spied on Merkel and other Europeans through Danish cables - broadcaster DR
  - [https://www.reuters.com/world/europe/us-security-agency-spied-merkel-other-top-european-officials-through-danish-2021-05-30/](https://www.reuters.com/world/europe/us-security-agency-spied-merkel-other-top-european-officials-through-danish-2021-05-30/)
@@ -3536,7 +3542,7 @@
  - [https://noqreport.com/2021/05/26/wuhan-lab-caught-deleting-files-proving-fauci-funding/](https://noqreport.com/2021/05/26/wuhan-lab-caught-deleting-files-proving-fauci-funding/)
  - date published: 2021-05-26 20:27:54+00:00
  - user: rumpel
- - tags: ['wuhan', 'covid', 'fauci']
+ - tags: ['wuhan', 'covid', 'anthony fauci']
 
 ## Facebook lifts ban on posts claiming COVID-19 was man-made, amid revitalized origins debate - ABC News
  - [https://abcnews.go.com/Technology/facebook-lifts-ban-posts-claiming-covid-19-man/story?id=77931433](https://abcnews.go.com/Technology/facebook-lifts-ban-posts-claiming-covid-19-man/story?id=77931433)
@@ -3554,7 +3560,7 @@
  - [https://nypost.com/2021/05/25/fauci-admits-nih-funding-of-wuhan-lab-denies-gain-of-function/](https://nypost.com/2021/05/25/fauci-admits-nih-funding-of-wuhan-lab-denies-gain-of-function/)
  - date published: 2021-05-25 07:18:24+00:00
  - user: rumpel
- - tags: ['wuhan', 'lableak', 'fauci']
+ - tags: ['wuhan', 'lableak', 'anthony fauci']
 
 ## Report: Wuhan Lab Staff Went To Hospital With Covid-Like Symptoms Before Confirmed Outbreak, New Intelligence Finds
  - [https://www.forbes.com/sites/jonathanponciano/2021/05/23/report-wuhan-lab-staff-hospital-covid-19-symptoms-virus-origins/](https://www.forbes.com/sites/jonathanponciano/2021/05/23/report-wuhan-lab-staff-hospital-covid-19-symptoms-virus-origins/)
@@ -3620,13 +3626,13 @@
  - [https://totalityofevidence.com/timeline/fauci-the-vaccinated-stop-viral-transmission/](https://totalityofevidence.com/timeline/fauci-the-vaccinated-stop-viral-transmission/)
  - date published: 2021-05-16 09:08:03+00:00
  - user: None
- - tags: ['covid lie', 'fauci', 'transmission', 'covid']
+ - tags: ['covid lie', 'anthony fauci', 'transmission', 'covid']
 
 ## Fauci: Vaccinated people become ‘dead ends’ for the coronavirus
  - [https://thehill.com/homenews/sunday-talk-shows/553773-fauci-vaccinated-people-become-dead-ends-for-the-coronavirus/](https://thehill.com/homenews/sunday-talk-shows/553773-fauci-vaccinated-people-become-dead-ends-for-the-coronavirus/)
  - date published: 2021-05-16 09:06:10+00:00
  - user: None
- - tags: ['fauci', 'transmission', 'covid']
+ - tags: ['anthony fauci', 'transmission', 'covid']
 
 ## Vaccine passports: why they are good for society
  - [https://theconversation.com/vaccine-passports-why-they-are-good-for-society-160419](https://theconversation.com/vaccine-passports-why-they-are-good-for-society-160419)
@@ -3740,7 +3746,7 @@
  - [https://edri.org/our-work/european-parliament-confirms-new-online-censorship-powers/](https://edri.org/our-work/european-parliament-confirms-new-online-censorship-powers/)
  - date published: 2021-04-29 13:12:20+00:00
  - user: None
- - tags: ['censorship', 'tech control', 'terreg']
+ - tags: ['censorship', 'government control', 'terreg']
 
 ## Why Google Should Stop Logging Contact-Tracing Data
  - [https://blog.appcensus.io/2021/04/27/why-google-should-stop-logging-contact-tracing-data/](https://blog.appcensus.io/2021/04/27/why-google-should-stop-logging-contact-tracing-data/)
@@ -3788,7 +3794,7 @@
  - [https://www.patrick-breyer.de/en/controversial-eu-anti-terror-internet-regulation-terreg-about-to-be-adopted/](https://www.patrick-breyer.de/en/controversial-eu-anti-terror-internet-regulation-terreg-about-to-be-adopted/)
  - date published: 2021-04-20 13:00:57+00:00
  - user: None
- - tags: ['censorship', 'tech control', 'terreg']
+ - tags: ['censorship', 'government control', 'terreg']
 
 ## Shock Video: Children Being Paraded Across The Stage Urging Them To Pose For Cash At A Los Angeles Drag Club In The Middle Of The Night
  - [https://defiantamerica.com/shock-video-children-being-paraded-across-the-stage-urging-them-to-pose-for-cash-at-a-los-angeles-drag-club-in-the-middle-of-the-night/](https://defiantamerica.com/shock-video-children-being-paraded-across-the-stage-urging-them-to-pose-for-cash-at-a-los-angeles-drag-club-in-the-middle-of-the-night/)
@@ -3854,7 +3860,7 @@
  - [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3793804](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3793804)
  - date published: 2021-04-12 07:18:11+00:00
  - user: None
- - tags: $tags
+ - tags: ['esg']
 
 ## Inside BLM co-founder Patrisse Khan-Cullors' real-estate buying binge
  - [https://nypost.com/2021/04/10/inside-blm-co-founder-patrisse-khan-cullors-real-estate-buying-binge/](https://nypost.com/2021/04/10/inside-blm-co-founder-patrisse-khan-cullors-real-estate-buying-binge/)
@@ -3908,7 +3914,7 @@
  - [https://www.liberties.eu/en/stories/terrorist-content-regulation-open-letter-to-meps/43410](https://www.liberties.eu/en/stories/terrorist-content-regulation-open-letter-to-meps/43410)
  - date published: 2021-03-25 13:00:34+00:00
  - user: None
- - tags: ['moderation', 'tech control', 'censorship', 'free speech', 'terreg']
+ - tags: ['moderation', 'government control', 'censorship', 'free speech', 'terreg']
 
 ## Covid coverage by the U.S. national media is an outlier, a study finds. - The New York Times
  - [https://www.nytimes.com/2021/03/24/world/covid-coverage-by-the-us-national-media-is-an-outlier-a-study-finds.html](https://www.nytimes.com/2021/03/24/world/covid-coverage-by-the-us-national-media-is-an-outlier-a-study-finds.html)
@@ -3992,7 +3998,7 @@
  - [https://www.youtube.com/watch?v=vJYaXy5mmA8](https://www.youtube.com/watch?v=vJYaXy5mmA8)
  - date published: 2021-03-12 15:09:15+00:00
  - user: rumpel
- - tags: ['orwell', 'all time', 'surveillance', 'utopia', 'digital id', 'big brother']
+ - tags: ['orwell', 'all time', 'surveillance', 'utopia', 'digital identity', 'big brother']
 
 ## Printed to Death: Dollar Due to Crash in 2021
  - [https://www.outsiderclub.com/printed-to-death-dollar-due-to-crash-in-2021/98588](https://www.outsiderclub.com/printed-to-death-dollar-due-to-crash-in-2021/98588)
@@ -4090,18 +4096,6 @@
  - user: None
  - tags: $tags
 
-## German ministry hired scientists to induce corona fear
- - [https://cceit.com/german-ministry-hired-scientists-to-induce-corona-fear/](https://cceit.com/german-ministry-hired-scientists-to-induce-corona-fear/)
- - date published: 2021-02-10 21:14:43+00:00
- - user: rumpel
- - tags: ['germany', 'covid lie', 'covid', 'science is dead', 'lockdown']
-
-## Germany Hired Scientists To Develop Fake Coronavirus Model To Justify Strict Lockdown
- - [https://greatgameindia.com/germany-hired-scientists-fake-coronavirus-model/](https://greatgameindia.com/germany-hired-scientists-fake-coronavirus-model/)
- - date published: 2021-02-09 21:14:12+00:00
- - user: rumpel
- - tags: ['fearmongering', 'germany', 'covid lie', 'covid', 'lockdown']
-
 ## WHO says COVID-19 unlikely to have leaked from China lab
  - [https://nypost.com/2021/02/09/who-team-coronavirus-unlikely-to-have-leaked-from-china-lab/](https://nypost.com/2021/02/09/who-team-coronavirus-unlikely-to-have-leaked-from-china-lab/)
  - date published: 2021-02-09 07:26:42+00:00
@@ -4184,7 +4178,7 @@
  - [https://www.forbes.com/sites/adamandrzejewski/2021/01/25/dr-anthony-fauci-the-highest-paid-employee-in-the-entire-us-federal-government/](https://www.forbes.com/sites/adamandrzejewski/2021/01/25/dr-anthony-fauci-the-highest-paid-employee-in-the-entire-us-federal-government/)
  - date published: 2021-01-25 08:59:10+00:00
  - user: rumpel
- - tags: ['fauci', 'covid']
+ - tags: ['anthony fauci', 'covid']
 
 ## California ignores public records request, keeps coronavirus data hidden  | Fox News
  - [https://www.foxnews.com/politics/california-ignores-public-records-request-keeps-coronavirus-data-hidden](https://www.foxnews.com/politics/california-ignores-public-records-request-keeps-coronavirus-data-hidden)
@@ -4238,7 +4232,7 @@
  - [https://www.nbcnews.com/tech/tech-news/how-facebook-twitter-decided-take-down-trump-s-accounts-n1254317](https://www.nbcnews.com/tech/tech-news/how-facebook-twitter-decided-take-down-trump-s-accounts-n1254317)
  - date published: 2021-01-14 13:13:13+00:00
  - user: rumpel
- - tags: ['moderation', 'twitter', 'facebook', 'big brother', 'january 6', 'censorship', 'collusion', 'extremism']
+ - tags: ['extremism', 'twitter', 'big brother', 'censorship', 'manufacturing consent', 'facebook', 'january 6', 'moderation']
 
 ## Cyberfaszyzm
  - [https://polityko.com/2021/01/13/cyberfaszyzm/](https://polityko.com/2021/01/13/cyberfaszyzm/)
@@ -4310,7 +4304,7 @@
  - [https://www.nbcnews.com/tech/tech-news/twitter-permanently-bans-president-donald-trump-n1253588](https://www.nbcnews.com/tech/tech-news/twitter-permanently-bans-president-donald-trump-n1253588)
  - date published: 2021-01-08 12:04:50+00:00
  - user: None
- - tags: ['censorship', 'twitter', 'january 6', 'donald trump']
+ - tags: ['twitter', 'censorship', 'deplatform', 'donald trump', 'january 6']
 
 ## Known Antifa members posed as pro-Trump to infiltrate Capitol riot: sources
  - [https://nypost.com/2021/01/07/known-antifa-members-posed-as-pro-trump-to-infiltrate-capitol-riot-sources/](https://nypost.com/2021/01/07/known-antifa-members-posed-as-pro-trump-to-infiltrate-capitol-riot-sources/)
@@ -4322,7 +4316,7 @@
  - [https://thehill.com/policy/technology/533204-trump-suspended-indefinitely-from-snapchat/](https://thehill.com/policy/technology/533204-trump-suspended-indefinitely-from-snapchat/)
  - date published: 2021-01-07 15:02:24+00:00
  - user: rumpel
- - tags: ['snapchat', 'donald trump', 'the right wing', 'january 6']
+ - tags: ['snapchat', 'the right wing', 'deplatform', 'donald trump', 'january 6']
 
 ## Dead Internet Theory: Most of the Internet is Fake
  - [https://forum.agoraroad.com/index.php?threads/dead-internet-theory-most-of-the-internet-is-fake.3011/](https://forum.agoraroad.com/index.php?threads/dead-internet-theory-most-of-the-internet-is-fake.3011/)

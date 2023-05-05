@@ -86,7 +86,7 @@
  - [https://www.polsatnews.pl/wiadomosc/2021-10-07/australia-rzad-chce-zakazac-anonimowych-komentarzy-media-spolecznosciowe-to-palac-tchorzy/](https://www.polsatnews.pl/wiadomosc/2021-10-07/australia-rzad-chce-zakazac-anonimowych-komentarzy-media-spolecznosciowe-to-palac-tchorzy/)
  - date published: 2021-10-07 20:22:14+00:00
  - user: None
- - tags: ['privacy', 'big brother', 'tech control', 'australia']
+ - tags: ['privacy', 'big brother', 'government control', 'australia']
 
 ## „Gawiedź niezaszczepiona wymrze rychło”. Oburzający wpis Środy, która komentuje posłów Konfederacji - tvp.info
  - [https://www.tvp.info/56189233/gawiedz-niezaszczepiona-wymrze-rychlo-oburzajacy-wpis-srody-ktora-komentuje-poslow-konfederacji](https://www.tvp.info/56189233/gawiedz-niezaszczepiona-wymrze-rychlo-oburzajacy-wpis-srody-ktora-komentuje-poslow-konfederacji)
@@ -164,7 +164,7 @@
  - [https://www.telepolis.pl/wiadomosci/wydarzenia/chatcontrol-unia-europejska-chce-kontrolowac-komunikatory-i-poczte](https://www.telepolis.pl/wiadomosci/wydarzenia/chatcontrol-unia-europejska-chce-kontrolowac-komunikatory-i-poczte)
  - date published: 2021-07-09 12:57:59+00:00
  - user: None
- - tags: ['surveillance', 'chat control', 'tech control', 'privacy', 'security']
+ - tags: ['surveillance', 'chat control', 'government control', 'privacy', 'security']
 
 ## Hiszpania: zmiana płci od 14 roku życia bez ograniczeń
  - [https://portal-polski.pl/hiszpania-zmiana-plci-od-14-roku-zycia-bez-ograniczen/7199/](https://portal-polski.pl/hiszpania-zmiana-plci-od-14-roku-zycia-bez-ograniczen/7199/)
@@ -260,7 +260,7 @@
  - [https://www.dw.com/pl/who-odrzuca-planowane-unijne-paszporty-szczepie%C5%84/a-56793688](https://www.dw.com/pl/who-odrzuca-planowane-unijne-paszporty-szczepie%C5%84/a-56793688)
  - date published: 2021-03-06 14:06:37+00:00
  - user: rumpel
- - tags: ['who', 'vaccine', 'passport', 'covid', 'digital id']
+ - tags: ['digital identity', 'who', 'vaccine passport', 'covid', 'vaccine']
 
 ## Ilu lekarzy faktycznie jest już zaszczepionych?
  - [https://www.medonet.pl/porozmawiajmyoszczepionce/szczepionka-na-covid-19,szczepienia-na-covid-19--ilu-lekarzy-jest-juz-zaszczepionych--sprzeczne-dane,artykul,41949295.html](https://www.medonet.pl/porozmawiajmyoszczepionce/szczepionka-na-covid-19,szczepienia-na-covid-19--ilu-lekarzy-jest-juz-zaszczepionych--sprzeczne-dane,artykul,41949295.html)
@@ -308,7 +308,7 @@
  - [https://www.komputerswiat.pl/aktualnosci/internet/rzad-nowelizuje-ustawe-o-cyberbezpieczenstwie-bedzie-mogl-wylaczac-serwisy/wnhl9hg](https://www.komputerswiat.pl/aktualnosci/internet/rzad-nowelizuje-ustawe-o-cyberbezpieczenstwie-bedzie-mogl-wylaczac-serwisy/wnhl9hg)
  - date published: 2021-01-29 13:08:11+00:00
  - user: None
- - tags: ['surveillance', 'privacy', 'big brother', 'tech control']
+ - tags: ['surveillance', 'privacy', 'big brother', 'government control']
 
 ## Niemcy: Złamiesz kwarantannę - trafisz do obozu
  - [https://www.rp.pl/swiat/art8695031-niemcy-zlamiesz-kwarantanne-trafisz-do-obozu](https://www.rp.pl/swiat/art8695031-niemcy-zlamiesz-kwarantanne-trafisz-do-obozu)

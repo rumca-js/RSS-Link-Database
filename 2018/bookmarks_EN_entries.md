@@ -134,7 +134,7 @@
  - [https://www.theguardian.com/technology/2018/sep/06/twitter-permanently-bans-conspiracy-theorist-alex-jones](https://www.theguardian.com/technology/2018/sep/06/twitter-permanently-bans-conspiracy-theorist-alex-jones)
  - date published: 2018-09-06 22:01:20+00:00
  - user: rumpel
- - tags: ['alex jones']
+ - tags: ['deplatform', 'alex jones']
 
 ## Nike's support of Colin Kaepernick has some destroying their shoes | CNN
  - [https://edition.cnn.com/2018/09/04/us/colin-kaepernick-nike-sneakers-intl/index.html](https://edition.cnn.com/2018/09/04/us/colin-kaepernick-nike-sneakers-intl/index.html)
@@ -279,6 +279,12 @@
  - date published: 2018-06-15 19:50:48+00:00
  - user: None
  - tags: ['artificial intelligence', 'science']
+
+## Azealia Banks’ Twitter Account Deactivated After Insulting Monet X Change | Billboard – Billboard
+ - [https://www.billboard.com/culture/pride/azealia-banks-twitter-account-deactivated-monet-x-change-8459619/](https://www.billboard.com/culture/pride/azealia-banks-twitter-account-deactivated-monet-x-change-8459619/)
+ - date published: 2018-06-06 12:17:34+00:00
+ - user: rumpel
+ - tags: ['azealia banks', 'twitter', 'deplatform']
 
 ## Facebook confirms data-sharing agreements with Chinese firms
  - [https://www.bbc.com/news/business-44379593](https://www.bbc.com/news/business-44379593)

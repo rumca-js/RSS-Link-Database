@@ -26,7 +26,7 @@
  - [https://www.pewresearch.org/fact-tank/2014/10/30/5-facts-about-evolution-and-religion/](https://www.pewresearch.org/fact-tank/2014/10/30/5-facts-about-evolution-and-religion/)
  - date published: 2014-10-30 19:52:34+00:00
  - user: rumpel
- - tags: ['church', 'evolution', 'religion']
+ - tags: ['religion', 'evolution']
 
 ## White House halts funding on risky flu studies | Reuters
  - [https://www.reuters.com/article/us-biosafety-research-usa-idUSKCN0I91ZD20141020](https://www.reuters.com/article/us-biosafety-research-usa-idUSKCN0I91ZD20141020)

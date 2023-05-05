@@ -40,7 +40,7 @@
  - [https://www.bankier.pl/wiadomosc/Skandal-w-Niemczech-Ujawniono-kontrowersyjne-e-maile-szefa-Axel-Springer-8523511.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Skandal-w-Niemczech-Ujawniono-kontrowersyjne-e-maile-szefa-Axel-Springer-8523511.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date published: 2023-04-16 10:20:00+00:00
  - user: rumpel
- - tags: ['axel springer']
+ - tags: ['axel springer', 'germany']
 
 ## Niemcy. Niemcy zamykają ostatnie elektrownie atomowe, wielkie wyzwanie przed największą gospodarką Europy - TVN24 Biznes
  - [https://tvn24.pl/biznes/ze-swiata/niemcy-niemcy-zamykaja-ostatnie-elektrownie-atomowe-wielkie-wyzwanie-przed-najwieksza-gospodarka-europy-6919294](https://tvn24.pl/biznes/ze-swiata/niemcy-niemcy-zamykaja-ostatnie-elektrownie-atomowe-wielkie-wyzwanie-przed-najwieksza-gospodarka-europy-6919294)
@@ -106,7 +106,7 @@
  - [https://ithardware.pl/aktualnosci/ue_planuje_wymusic_akceptacje_cyfrowego_euro_i_bezgotowkowa_przyszlosc-26438.html](https://ithardware.pl/aktualnosci/ue_planuje_wymusic_akceptacje_cyfrowego_euro_i_bezgotowkowa_przyszlosc-26438.html)
  - date published: 2023-03-22 09:02:40+00:00
  - user: rumpel
- - tags: ['european union', 'cbdc', 'tech control']
+ - tags: ['european union', 'cbdc', 'government control']
 
 ## Trzecia rocznica pandemii. Koszty promocji i nazwiska reklamujących szczepionki - Gazeta Trybunalska
  - [https://gazetatrybunalska.info/2023/03/trzecia-rocznica-pandemii-koszty-promocji-i-nazwiska-reklamujacych-szczepionki/](https://gazetatrybunalska.info/2023/03/trzecia-rocznica-pandemii-koszty-promocji-i-nazwiska-reklamujacych-szczepionki/)
@@ -382,13 +382,13 @@
  - [https://tvn24.pl/polska/policja-znowu-kupuje-cellebrite-czym-jest-ta-izraelska-technologia-szpiegowska-6624777?source=rss](https://tvn24.pl/polska/policja-znowu-kupuje-cellebrite-czym-jest-ta-izraelska-technologia-szpiegowska-6624777?source=rss)
  - date published: 2023-01-11 16:08:10+00:00
  - user: rumpel
- - tags: ['surveillance', 'tech control', 'privacy', 'poland', 'cellebrite']
+ - tags: ['surveillance', 'government control', 'privacy', 'poland', 'cellebrite']
 
 ## Szokujące ustalenia prokuratury w sprawie księdza pedofila. Gdyby bp Skworc reagował, udałoby się uniknąć wielu dramatów
  - [https://www.onet.pl/informacje/onetwiadomosci/szokujace-ustalenia-prokuratury-w-sprawie-ksiedza-pedofila-nie-poniosl-kary/yns502l,79cfc278](https://www.onet.pl/informacje/onetwiadomosci/szokujace-ustalenia-prokuratury-w-sprawie-ksiedza-pedofila-nie-poniosl-kary/yns502l,79cfc278)
  - date published: 2023-01-11 15:32:06+00:00
  - user: rumpel
- - tags: ['church scandal']
+ - tags: ['church scandal', 'religion']
 
 ## Karcher przyznał się do zawyżania cen sprzętu w Polsce przez ponad 20 lat - Instalki.pl
  - [https://www.instalki.pl/aktualnosci/hardware/57669-karcher-przyznal-sie-do-zawyzania-cen-sprzetu-w-polsce-przez-ponad-20-lat.html](https://www.instalki.pl/aktualnosci/hardware/57669-karcher-przyznal-sie-do-zawyzania-cen-sprzetu-w-polsce-przez-ponad-20-lat.html)
@@ -400,7 +400,7 @@
  - [https://www.instalki.pl/aktualnosci/bezpieczenstwo/57671-inwigilacja-internet-suzby-polska-ue-prawo.html](https://www.instalki.pl/aktualnosci/bezpieczenstwo/57671-inwigilacja-internet-suzby-polska-ue-prawo.html)
  - date published: 2023-01-11 14:01:11.645010+00:00
  - user: rumpel
- - tags: ['surveillance', 'tech control', 'poland']
+ - tags: ['surveillance', 'government control', 'poland']
 
 ## Zawartość „chmury”, komunikatorów, usunięte treści. Nowa policyjna broń w walce z przestępczością?
  - [https://www.rmf24.pl/fakty/news-zawartosc-chmury-komunikatorow-usuniete-tresci-nowa-policyjn,nId,6527601#crp_state=1](https://www.rmf24.pl/fakty/news-zawartosc-chmury-komunikatorow-usuniete-tresci-nowa-policyjn,nId,6527601#crp_state=1)

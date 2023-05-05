@@ -20,7 +20,7 @@
  - [https://www.polityka.pl/tygodnikpolityka/kraj/1712492,1,opozycja-nie-obroni-sadow-przed-pis-ma-niewielkie-pole-manewru.read](https://www.polityka.pl/tygodnikpolityka/kraj/1712492,1,opozycja-nie-obroni-sadow-przed-pis-ma-niewielkie-pole-manewru.read)
  - date published: 2017-07-14 07:09:53+00:00
  - user: None
- - tags: $tags
+ - tags: ['poland']
 
 ## „Powody zabierania rodzicom ich dzieci w Niemczech są absurdalne”
  - [https://www.polskieradio.pl/130/5925/Artykul/1779858,Powody-zabierania-rodzicom-ich-dzieci-w-Niemczech-sa-absurdalne](https://www.polskieradio.pl/130/5925/Artykul/1779858,Powody-zabierania-rodzicom-ich-dzieci-w-Niemczech-sa-absurdalne)

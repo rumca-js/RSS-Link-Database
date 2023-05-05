@@ -2,7 +2,7 @@
  - [https://www.techexplorist.com/using-lots-social-media-accounts-causes-anxiety/4451/](https://www.techexplorist.com/using-lots-social-media-accounts-causes-anxiety/4451/)
  - date published: 2016-12-20 12:04:50+00:00
  - user: None
- - tags: $tags
+ - tags: ['digital dementia', 'social media']
 
 ## How Google's search algorithm spreads false information with a rightwing bias | Google | The Guardian
  - [https://www.theguardian.com/technology/2016/dec/16/google-autocomplete-rightwing-bias-algorithm-political-propaganda](https://www.theguardian.com/technology/2016/dec/16/google-autocomplete-rightwing-bias-algorithm-political-propaganda)

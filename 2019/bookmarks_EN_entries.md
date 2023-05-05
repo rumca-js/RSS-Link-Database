@@ -16,6 +16,12 @@
  - user: rumpel
  - tags: ['the left wing', 'inequality', 'lgbt']
 
+## Opinion | Twelve Million Phones, One Dataset, Zero Privacy - The New York Times
+ - [https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html](https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html)
+ - date published: 2019-12-19 20:45:17+00:00
+ - user: rumpel
+ - tags: ['big brother', 'privacy', 'surveillance', 'anonymity']
+
 ## New York public school rejects student Christian club, OKs LGBT Pride Club
  - [https://www.christianpost.com/news/new-york-public-school-rejects-student-christian-club-oks-lgbt-pride-club.html?fbclid=IwAR0XGOCi2lUIsLetSjnCZN91O05rCeaWGsR0z2E5dBtfH_E-2OEFqVqi3eA](https://www.christianpost.com/news/new-york-public-school-rejects-student-christian-club-oks-lgbt-pride-club.html?fbclid=IwAR0XGOCi2lUIsLetSjnCZN91O05rCeaWGsR0z2E5dBtfH_E-2OEFqVqi3eA)
  - date published: 2019-12-12 21:08:10+00:00
@@ -38,7 +44,7 @@
  - [https://www.cnbc.com/2019/12/10/senators-threaten-encryption-regulation-for-tech-companies.html](https://www.cnbc.com/2019/12/10/senators-threaten-encryption-regulation-for-tech-companies.html)
  - date published: 2019-12-10 07:38:08+00:00
  - user: rumpel
- - tags: ['privacy', 'surveillance', 'big brother', 'tech control', 'encryption', 'crypto wars']
+ - tags: ['privacy', 'surveillance', 'big brother', 'government control', 'encryption', 'crypto wars']
 
 ## The Untold Truth Of The Satanic Temple
  - [https://www.grunge.com/132693/the-untold-truth-of-the-satanic-temple/](https://www.grunge.com/132693/the-untold-truth-of-the-satanic-temple/)
@@ -50,7 +56,7 @@
  - [https://www.bleepingcomputer.com/news/security/top-25-most-dangerous-vulnerabilities-refreshed-after-8-years/](https://www.bleepingcomputer.com/news/security/top-25-most-dangerous-vulnerabilities-refreshed-after-8-years/)
  - date published: 2019-11-27 09:09:31+00:00
  - user: rumpel
- - tags: ['vulnerabilities', 'leak', 'hackers']
+ - tags: ['vulnerability', 'leak', 'hackers']
 
 ## He invented the web. Now he's warning of a looming 'digital dystopia'
  - [https://www.cnn.com/2019/11/25/tech/berners-lee-web-safer-plan-scli-intl/index.html](https://www.cnn.com/2019/11/25/tech/berners-lee-web-safer-plan-scli-intl/index.html)
@@ -170,7 +176,7 @@
  - [https://www.theguardian.com/technology/2019/oct/16/glitch-india-biometric-welfare-system-starvation](https://www.theguardian.com/technology/2019/oct/16/glitch-india-biometric-welfare-system-starvation)
  - date published: 2019-10-16 09:00:13+00:00
  - user: rumpel
- - tags: ['technofeudalism', 'biometric']
+ - tags: ['biometric', 'technofeudalism', 'india']
 
 ## Bill Gates Met With Jeffrey Epstein Many Times, Despite His Past - The New York Times
  - [https://www.nytimes.com/2019/10/12/business/jeffrey-epstein-bill-gates.html](https://www.nytimes.com/2019/10/12/business/jeffrey-epstein-bill-gates.html)
@@ -236,7 +242,7 @@
  - [https://www.theguardian.com/technology/2019/oct/05/facial-recognition-technology-hurtling-towards-surveillance-state](https://www.theguardian.com/technology/2019/oct/05/facial-recognition-technology-hurtling-towards-surveillance-state)
  - date published: 2019-10-05 09:00:43+00:00
  - user: rumpel
- - tags: ['biometric', 'facial recognition', 'india', 'surveillance', 'big brother', 'corporatocracy']
+ - tags: ['surveillance', 'big brother', 'corporatocracy', 'facial recognition', 'biometric']
 
 ## Eyes Wide Shut and the Moral Bankruptcy of the American Elite
  - [https://lawliberty.org/eyes-wide-shut-and-the-moral-bankruptcy-of-the-american-elite/](https://lawliberty.org/eyes-wide-shut-and-the-moral-bankruptcy-of-the-american-elite/)
@@ -254,7 +260,7 @@
  - [https://www.irishcentral.com/news/bishop-mccarrick-crimes](https://www.irishcentral.com/news/bishop-mccarrick-crimes)
  - date published: 2019-09-30 15:33:50+00:00
  - user: rumpel
- - tags: ['church scandal']
+ - tags: ['church scandal', 'religion', 'catholic']
 
 ## Playing more video games could increase creative thinking at work
  - [https://www.weforum.org/agenda/2019/09/gamification-revolutionise-creative-thinking](https://www.weforum.org/agenda/2019/09/gamification-revolutionise-creative-thinking)
@@ -284,7 +290,7 @@
  - [https://www.youtube.com/watch?v=Qjkt3X2WLrw](https://www.youtube.com/watch?v=Qjkt3X2WLrw)
  - date published: 2019-09-09 20:34:52+00:00
  - user: None
- - tags: $tags
+ - tags: ['tesla', 'privacy']
 
 ## LGBTQ Comedians Respond to Dave Chappelle’s ‘Sticks and Stones’
  - [https://www.thewrap.com/lgbtq-comedians-respond-to-dave-chappelles-sticks-and-stones/](https://www.thewrap.com/lgbtq-comedians-respond-to-dave-chappelles-sticks-and-stones/)
@@ -356,7 +362,7 @@
  - [https://www.theguardian.com/technology/2019/aug/16/privacy-campaigners-uk-facial-recognition-epidemic](https://www.theguardian.com/technology/2019/aug/16/privacy-campaigners-uk-facial-recognition-epidemic)
  - date published: 2019-08-16 11:49:03+00:00
  - user: rumpel
- - tags: ['privacy', 'biometric', 'facial recognition', 'india', 'surveillance', 'big brother', 'corporatocracy']
+ - tags: ['surveillance', 'big brother', 'corporatocracy', 'facial recognition', 'biometric', 'privacy', 'england']
 
 ## Haunting photos show Jeffrey Epstein’s ‘Pedophile Island’ in the Caribbean
  - [https://nypost.com/2019/08/15/haunting-photos-show-jeffrey-epsteins-pedophile-island-in-the-caribbean/#1](https://nypost.com/2019/08/15/haunting-photos-show-jeffrey-epsteins-pedophile-island-in-the-caribbean/#1)
@@ -476,7 +482,7 @@
  - [https://www.nytimes.com/2019/07/08/nyregion/jeffrey-epstein-nyc-mansion.html](https://www.nytimes.com/2019/07/08/nyregion/jeffrey-epstein-nyc-mansion.html)
  - date published: 2019-07-08 20:03:14+00:00
  - user: rumpel
- - tags: ['jeffrey epstein', 'mansion']
+ - tags: ['jeffrey epstein']
 
 ## Everything We Know About the Sex Crimes Case Against Jeffrey Epstein
  - [https://nymag.com/intelligencer/2019/07/all-we-know-about-the-new-case-against-jeffrey-epstein.html](https://nymag.com/intelligencer/2019/07/all-we-know-about-the-new-case-against-jeffrey-epstein.html)
@@ -542,7 +548,7 @@
  - [https://www.cnn.com/2019/06/04/us/catholic-church-300-million-abuse-claims/index.html](https://www.cnn.com/2019/06/04/us/catholic-church-300-million-abuse-claims/index.html)
  - date published: 2019-06-04 22:39:57+00:00
  - user: rumpel
- - tags: ['church']
+ - tags: ['church scandal', 'catholic', 'religion']
 
 ## Why should you read “The Master and Margarita”? - Alex Gendler
  - [https://www.youtube.com/watch?v=miNBicrLiXo](https://www.youtube.com/watch?v=miNBicrLiXo)
@@ -650,7 +656,7 @@
  - [https://abc13.com/drag-queen-story-time-sex-offender-houston-public-library/5203743/](https://abc13.com/drag-queen-story-time-sex-offender-houston-public-library/5203743/)
  - date published: 2019-03-19 22:14:03+00:00
  - user: rumpel
- - tags: ['lgbt', 'libraryreading', 'rape', 'sexualization', 'the left wing', 'children']
+ - tags: ['sexualization', 'indoctrination', 'rape', 'the left wing', 'children', 'lgbt']
 
 ## The Flaws of Academic Statistics: the Null Ritual
  - [https://notrelated.xyz/audio/s01/S01E08_-_The_Flaws_of_Academic_Statistics_the_Null_Ritual.mp3](https://notrelated.xyz/audio/s01/S01E08_-_The_Flaws_of_Academic_Statistics_the_Null_Ritual.mp3)

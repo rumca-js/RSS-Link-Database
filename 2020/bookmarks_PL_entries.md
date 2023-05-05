@@ -44,7 +44,7 @@
  - [https://bezprawnik.pl/wladza-sprawdzi-twojego-windowsa/](https://bezprawnik.pl/wladza-sprawdzi-twojego-windowsa/)
  - date published: 2020-12-18 13:07:40+00:00
  - user: rumpel
- - tags: ['surveillance', 'privacy', 'terrorism', 'tech control']
+ - tags: ['surveillance', 'privacy', 'terrorism', 'government control']
 
 ## Amantadyna. Naukowcy z Cambridge potwierdzają odkrycie Polaków - WP Wiadomości
  - [https://wiadomosci.wp.pl/amantadyna-naukowcy-z-cambridge-potwierdzaja-odkrycie-polakow-6586888034057024a](https://wiadomosci.wp.pl/amantadyna-naukowcy-z-cambridge-potwierdzaja-odkrycie-polakow-6586888034057024a)
@@ -64,6 +64,12 @@
  - user: None
  - tags: ['israel', 'ad business', 'privacy', 'tracking']
 
+## Polska zgoda na przyspieszenie klimatyczne UE – DW – 11.12.2020
+ - [https://www.dw.com/pl/klimat-polska-szczyt-ue-55proc/a-55909122](https://www.dw.com/pl/klimat-polska-szczyt-ue-55proc/a-55909122)
+ - date published: 2020-12-11 14:19:42+00:00
+ - user: rumpel
+ - tags: ['climate change', 'fit for 55']
+
 ## Minister zdrowia: Jako dowód szczepienia na COVID będzie można pokazać kod QR - rp.pl
  - [https://www.rp.pl/diagnostyka-i-terapie/art8734721-minister-zdrowia-jako-dowod-szczepienia-na-covid-bedzie-mozna-pokazac-kod-qr](https://www.rp.pl/diagnostyka-i-terapie/art8734721-minister-zdrowia-jako-dowod-szczepienia-na-covid-bedzie-mozna-pokazac-kod-qr)
  - date published: 2020-12-09 06:26:29+00:00
@@ -74,7 +80,7 @@
  - [https://www.money.pl/gospodarka/urzad-bedzie-blokowal-strony-internetowe-kolejna-granica-przekroczona-6582516203985472a.html](https://www.money.pl/gospodarka/urzad-bedzie-blokowal-strony-internetowe-kolejna-granica-przekroczona-6582516203985472a.html)
  - date published: 2020-12-04 07:04:19+00:00
  - user: None
- - tags: ['tech control', 'big brother', 'censorship', 'internet', 'freedom']
+ - tags: ['government control', 'big brother', 'censorship', 'internet', 'freedom']
 
 ## Lekarz: Strategia testowania i izolowania jest samobójcza
  - [https://tarnogorski.info/pilne-kierownik-oddzia/](https://tarnogorski.info/pilne-kierownik-oddzia/)
@@ -140,7 +146,7 @@
  - [https://www.bankier.pl/wiadomosc/Ekspert-Rzad-w-ustawie-o-cyberbezpieczenstwie-wprowadza-cenzure-internetu-7964382.html](https://www.bankier.pl/wiadomosc/Ekspert-Rzad-w-ustawie-o-cyberbezpieczenstwie-wprowadza-cenzure-internetu-7964382.html)
  - date published: 2020-09-18 07:03:50+00:00
  - user: None
- - tags: ['big brother', 'tech control', 'free speech', 'censorship']
+ - tags: ['big brother', 'government control', 'free speech', 'censorship']
 
 ## Pracodawca może zwolnić pracownika za odmowę szczepienia - rp.pl
  - [https://www.rp.pl/prawo-w-firmie/art8821281-pracodawca-moze-zwolnic-pracownika-za-odmowe-szczepienia](https://www.rp.pl/prawo-w-firmie/art8821281-pracodawca-moze-zwolnic-pracownika-za-odmowe-szczepienia)

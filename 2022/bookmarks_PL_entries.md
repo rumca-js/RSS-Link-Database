@@ -182,7 +182,7 @@
  - [https://www.bankier.pl/wiadomosc/Cyfrowy-paszport-i-rozpoznawanie-twarzy-Te-linie-lotnicze-maja-plan-na-zmniejszenie-kolejek-na-lotnisku-8444586.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Cyfrowy-paszport-i-rozpoznawanie-twarzy-Te-linie-lotnicze-maja-plan-na-zmniejszenie-kolejek-na-lotnisku-8444586.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date published: 2022-11-26 07:00:00+00:00
  - user: None
- - tags: ['digital passport', 'digital identity', 'tech control', 'government control']
+ - tags: ['digital passport', 'digital identity', 'government control', 'government control']
 
 ## Chińskie kamery zakazane w USA i Wielkiej Brytanii. Są zamontowane w pięciu polskich ministerstwach
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29182047,chinskie-kamery-zakazane-w-usa-i-wielkiej-brytanii-sa-zamontowane.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29182047,chinskie-kamery-zakazane-w-usa-i-wielkiej-brytanii-sa-zamontowane.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -206,7 +206,7 @@
  - [https://www.wykop.pl/link/6891593/afera-we-francuskim-kosciele-11-biskupow-zamieszanych-w-przemoc-seksualna/](https://www.wykop.pl/link/6891593/afera-we-francuskim-kosciele-11-biskupow-zamieszanych-w-przemoc-seksualna/)
  - date published: 2022-11-08 07:25:02+00:00
  - user: None
- - tags: ['france', 'church']
+ - tags: ['france', 'church scandal', 'religion']
 
 ## Ameryka jedzie na rezerwie
  - [https://www.bankier.pl/wiadomosc/Ameryka-jedzie-na-rezerwie-8435106.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Ameryka-jedzie-na-rezerwie-8435106.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -344,7 +344,7 @@
  - [https://wydarzenia.interia.pl/kraj/news-wazna-deklaracja-kep-kosciol-otwiera-sie-na-kobiety,nId,6371958](https://wydarzenia.interia.pl/kraj/news-wazna-deklaracja-kep-kosciol-otwiera-sie-na-kobiety,nId,6371958)
  - date published: 2022-10-26 12:41:09+00:00
  - user: None
- - tags: ['poland', 'church']
+ - tags: ['catholic', 'poland', 'religion']
 
 ## Były prezes chińskiego państwowego banku aresztowany
  - [https://www.bankier.pl/wiadomosc/Byly-prezes-chinskiego-panstwowego-banku-aresztowany-8429176.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Byly-prezes-chinskiego-panstwowego-banku-aresztowany-8429176.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -406,12 +406,6 @@
  - user: None
  - tags: ['usa', 'the left wing', 'lgbt']
 
-## Chińskie procesory graficzne Biren nie zostaną wyprodukowane przez TSMC. Powodem są ograniczenia USA
- - [https://ithardware.pl/aktualnosci/chinskie_procesory_graficzne_biren_nie_zostana_wyprodukowane_przez_tsmc_powodem_sa_ograniczenia_usa-23980.html](https://ithardware.pl/aktualnosci/chinskie_procesory_graficzne_biren_nie_zostana_wyprodukowane_przez_tsmc_powodem_sa_ograniczenia_usa-23980.html)
- - date published: 2022-10-23 09:04:40+00:00
- - user: None
- - tags: $tags
-
 ## Wybory w Chinach. Xi zerwał z niepisanym limitem wieku i pozostał w kluczowym organie partii
  - [https://www.bankier.pl/wiadomosc/Wybory-w-Chinach-Xi-zerwal-z-niepisanym-limitem-wieku-i-pozostal-w-kluczowym-organie-partii-8427249.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Wybory-w-Chinach-Xi-zerwal-z-niepisanym-limitem-wieku-i-pozostal-w-kluczowym-organie-partii-8427249.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date published: 2022-10-22 09:35:00+00:00
@@ -464,7 +458,7 @@
  - [https://www.bankier.pl/wiadomosc/Polityka-zero-covid-hamuje-chinska-gospodarke-ale-ma-byc-utrzymana-8425179.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Polityka-zero-covid-hamuje-chinska-gospodarke-ale-ma-byc-utrzymana-8425179.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date published: 2022-10-19 06:06:00+00:00
  - user: None
- - tags: $tags
+ - tags: ['china', 'zero covid']
 
 ## Inwazja na Ukrainę przyspiesza katastrofę demograficzną w Rosji
  - [https://www.bankier.pl/wiadomosc/Inwazja-na-Ukraine-przyspiesza-katastrofe-demograficzna-w-Rosji-8424783.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Inwazja-na-Ukraine-przyspiesza-katastrofe-demograficzna-w-Rosji-8424783.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -502,12 +496,6 @@
  - user: None
  - tags: ['taiwan', 'tsmc', 'china']
 
-## Valve wprowadziło przeprojektowaną wersję mobilnej aplikacji Steam
- - [https://ithardware.pl/aktualnosci/valve_wprowadzilo_przeprojektowana_wersje_mobilnej_aplikacji_steam-23826.html](https://ithardware.pl/aktualnosci/valve_wprowadzilo_przeprojektowana_wersje_mobilnej_aplikacji_steam-23826.html)
- - date published: 2022-10-13 09:54:00+00:00
- - user: None
- - tags: $tags
-
 ## Wiemy, ile Microsoft zarabia na Game Pass. Zawrotne sumy
  - [https://ithardware.pl/aktualnosci/wielmy_ile_microsoft_zarabia_na_game_pass_zawrotne_sumy-23763.html](https://ithardware.pl/aktualnosci/wielmy_ile_microsoft_zarabia_na_game_pass_zawrotne_sumy-23763.html)
  - date published: 2022-10-10 11:20:10+00:00
@@ -524,7 +512,7 @@
  - [https://www.youtube.com/watch?v=LdVgb8Q8BRY](https://www.youtube.com/watch?v=LdVgb8Q8BRY)
  - date published: 2022-10-10 07:58:32+00:00
  - user: None
- - tags: ['schwab', 'wef', 'world economic forum', 'morawiecki', 'davos', 'nwo']
+ - tags: ['mateusz morawiecki', 'world economic forum', 'davos', 'nwo', 'wef', 'klaus schwab']
 
 ## Fiskus zagląda do kont bankowych. Rzecznik Praw Obywatelskich jest...
  - [https://www.wykop.pl/link/6851735/fiskus-zaglada-do-kont-bankowych-rzecznik-praw-obywatelskich-jest/](https://www.wykop.pl/link/6851735/fiskus-zaglada-do-kont-bankowych-rzecznik-praw-obywatelskich-jest/)
@@ -620,7 +608,7 @@
  - [https://www.bankier.pl/wiadomosc/Fundusz-Koscielny-puchnie-Rzad-przeznaczy-rekordowa-kwote-na-skladki-osob-duchownych-8418211.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Fundusz-Koscielny-puchnie-Rzad-przeznaczy-rekordowa-kwote-na-skladki-osob-duchownych-8418211.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date published: 2022-10-06 05:50:00+00:00
  - user: None
- - tags: ['poland', 'church']
+ - tags: ['religion', 'poland', 'catholic']
 
 ## Niemcy i Hiszpania nie zważają na sprzeciw Francji. Zbudują rurociąg MidCat
  - [https://wydarzenia.interia.pl/zagranica/news-niemcy-i-hiszpania-nie-zwazaja-na-sprzeciw-francji-zbuduja-r,nId,6328837](https://wydarzenia.interia.pl/zagranica/news-niemcy-i-hiszpania-nie-zwazaja-na-sprzeciw-francji-zbuduja-r,nId,6328837)
@@ -632,7 +620,7 @@
  - [https://wiez.pl/2022/10/05/jedraszewski-nie-stanal-w-prawdzie/](https://wiez.pl/2022/10/05/jedraszewski-nie-stanal-w-prawdzie/)
  - date published: 2022-10-05 15:35:05+00:00
  - user: rumpel
- - tags: ['poland', 'church scandal']
+ - tags: ['church scandal', 'poland', 'religion']
 
 ## Czechy wprowadziły ceny maksymalne na energię elektryczną i gaz
  - [https://www.bankier.pl/wiadomosc/Czechy-wprowadzily-ceny-maksymalne-na-energie-elektryczna-i-gaz-8417886.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Czechy-wprowadzily-ceny-maksymalne-na-energie-elektryczna-i-gaz-8417886.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -680,7 +668,7 @@
  - [https://www.bankier.pl/wiadomosc/Media-Wielka-Brytania-wprowadzi-zakaz-azylu-dla-migrantow-nielegalnie-przekraczajacych-kanal-La-Manche-8416684.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Media-Wielka-Brytania-wprowadzi-zakaz-azylu-dla-migrantow-nielegalnie-przekraczajacych-kanal-La-Manche-8416684.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date published: 2022-10-03 23:51:00+00:00
  - user: None
- - tags: $tags
+ - tags: ['england', 'immigration']
 
 ## Sony zablokuje przejęcie Activision Blizzard? Szef PlayStation miał odwiedzić centralę UE
  - [https://ithardware.pl/aktualnosci/sony_zablokuje_przejecie_activision_blizzard_szef_playstation_mial_odwiedzic_centrale_ue-23657.html](https://ithardware.pl/aktualnosci/sony_zablokuje_przejecie_activision_blizzard_szef_playstation_mial_odwiedzic_centrale_ue-23657.html)
@@ -700,12 +688,6 @@
  - user: None
  - tags: ['crisis', 'turkey']
 
-## Tesla bije rekordy, a i tak rozczarowuje
- - [https://www.bankier.pl/wiadomosc/Tesla-bije-rekordy-a-i-tak-rozczarowuje-8415997.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Tesla-bije-rekordy-a-i-tak-rozczarowuje-8415997.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
- - date published: 2022-10-03 06:40:00+00:00
- - user: None
- - tags: $tags
-
 ## Z powodu inflacji coraz więcej Amerykanów żyje od wypłaty do wypłaty
  - [https://www.bankier.pl/wiadomosc/Z-powodu-inflacji-coraz-wiecej-Amerykanow-zyje-od-wyplaty-do-wyplaty-8415460.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Z-powodu-inflacji-coraz-wiecej-Amerykanow-zyje-od-wyplaty-do-wyplaty-8415460.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date published: 2022-10-02 08:00:00+00:00
@@ -723,12 +705,6 @@
  - date published: 2022-10-02 03:45:01+00:00
  - user: None
  - tags: ['sweden', 'vaccine', 'covid']
-
-## Polski rząd szykuje się do ucieczki? Zastępca Kamińskiego: Kampania mająca na celu wytworzenie paniki
- - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28975568,polski-rzad-szykuje-sie-do-ucieczki-zastepca-kaminskiego-to.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28975568,polski-rzad-szykuje-sie-do-ucieczki-zastepca-kaminskiego-to.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
- - date published: 2022-10-01 19:09:00+00:00
- - user: None
- - tags: $tags
 
 ## prof noga inflacja
  - [https://www.rmf24.pl/tylko-w-rmf24/rozmowa-w-poludnie/news-prof-noga-inflacja-przekroczy-20-proc-w-grudniu,nId,6318441#crp_state=1](https://www.rmf24.pl/tylko-w-rmf24/rozmowa-w-poludnie/news-prof-noga-inflacja-przekroczy-20-proc-w-grudniu,nId,6318441#crp_state=1)
@@ -752,7 +728,7 @@
  - [https://www.wykop.pl/link/6839177/bruce-willis-sprzedal-swoja-twarz-deepfake-sprawi-ze-zagra-go-inny-aktor/](https://www.wykop.pl/link/6839177/bruce-willis-sprzedal-swoja-twarz-deepfake-sprawi-ze-zagra-go-inny-aktor/)
  - date published: 2022-09-29 20:05:01+00:00
  - user: None
- - tags: $tags
+ - tags: ['bruce willis', 'deep fakes']
 
 ## "Łukaszenka szykuje się do wojny". Na Białoruś przyjedzie 120 tys. rosyjskich żołnierzy
  - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-lukaszenka-szykuje-sie-do-wojny-na-bialorus-przyjedzie-120-t,nId,6316391](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-lukaszenka-szykuje-sie-do-wojny-na-bialorus-przyjedzie-120-t,nId,6316391)
@@ -771,12 +747,6 @@
  - date published: 2022-09-29 03:16:01+00:00
  - user: None
  - tags: ['booster', 'covid', 'fda']
-
-## Niemcy ze wschodu wątpią w demokrację. "Trudno cokolwiek zrozumieć"
- - [https://wydarzenia.interia.pl/zagranica/news-niemcy-ze-wschodu-watpia-w-demokracje-trudno-cokolwiek-zrozu,nId,6314366](https://wydarzenia.interia.pl/zagranica/news-niemcy-ze-wschodu-watpia-w-demokracje-trudno-cokolwiek-zrozu,nId,6314366)
- - date published: 2022-09-28 17:10:55+00:00
- - user: None
- - tags: $tags
 
 ## Niemiecki resort sprawiedliwości "uruchamia system donosicielstwa"? Wyjaśniamy
  - [https://konkret24.tvn24.pl/r/niemiecki-resort-sprawiedliwo-ci--uruchamia-system-donosicielstwa---wyja-niamy,1119875.html?source=rss](https://konkret24.tvn24.pl/r/niemiecki-resort-sprawiedliwo-ci--uruchamia-system-donosicielstwa---wyja-niamy,1119875.html?source=rss)
@@ -848,13 +818,7 @@
  - [https://ithardware.pl/aktualnosci/niemcy_rzad_tworzy_setki_falszywych_kont_prawicowo_ekstremistycznych_w_mediach_spolecznosciowych-23491.html](https://ithardware.pl/aktualnosci/niemcy_rzad_tworzy_setki_falszywych_kont_prawicowo_ekstremistycznych_w_mediach_spolecznosciowych-23491.html)
  - date published: 2022-09-25 10:29:30+00:00
  - user: None
- - tags: $tags
-
-## Niemcy forsują nowy zapis. "Zakaz przyjmowania lukratywnych posad"
- - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-niemcy-forsuja-nowy-zapis-zakaz-przyjmowania-lukratywnych-po,nId,6307619](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-niemcy-forsuja-nowy-zapis-zakaz-przyjmowania-lukratywnych-po,nId,6307619)
- - date published: 2022-09-25 09:50:40+00:00
- - user: None
- - tags: $tags
+ - tags: ['big brother', 'germany', 'government control', 'disinformation']
 
 ## 10 milionów dzieci na świecie straciło rodzica lub opiekuna w wyniku COVID-19
  - [https://www.bankier.pl/wiadomosc/10-milionow-dzieci-na-swiecie-stracilo-rodzica-lub-opiekuna-w-wyniku-COVID-19-8408616.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/10-milionow-dzieci-na-swiecie-stracilo-rodzica-lub-opiekuna-w-wyniku-COVID-19-8408616.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -886,12 +850,6 @@
  - user: None
  - tags: $tags
 
-## Tramwaje można zlikwidować. Tylko na Śląsku cena prądu o... 100 mln zł w górę
- - [https://www.wykop.pl/link/6829475/tramwaje-mozna-zlikwidowac-tylko-na-slasku-cena-pradu-o-100-mln-zl-w-gore/](https://www.wykop.pl/link/6829475/tramwaje-mozna-zlikwidowac-tylko-na-slasku-cena-pradu-o-100-mln-zl-w-gore/)
- - date published: 2022-09-23 10:17:01+00:00
- - user: None
- - tags: $tags
-
 ## "Nie" dla mężczyzn jedzących mięso. PETA wzywa do strajku seksualnego
  - [https://wydarzenia.interia.pl/zagranica/news-nie-dla-mezczyzn-jedzacych-mieso-peta-wzywa-do-strajku-seksu,nId,6302073](https://wydarzenia.interia.pl/zagranica/news-nie-dla-mezczyzn-jedzacych-mieso-peta-wzywa-do-strajku-seksu,nId,6302073)
  - date published: 2022-09-22 17:36:08+00:00
@@ -910,17 +868,11 @@
  - user: None
  - tags: $tags
 
-## Metawersum pogrąży Zuckerberga? CEO Meta stracił już 70 mld USD, notowania firmy lecą w dół
- - [https://ithardware.pl/aktualnosci/metawersum_pograzy_zuckerberga_ceo_meta_stracil_juz_70_mld_usd_notowania_firmy_leca_w_dol-23424.html](https://ithardware.pl/aktualnosci/metawersum_pograzy_zuckerberga_ceo_meta_stracil_juz_70_mld_usd_notowania_firmy_leca_w_dol-23424.html)
- - date published: 2022-09-21 12:20:20+00:00
- - user: None
- - tags: $tags
-
 ## USA przeznaczy prawie 700 000 dolarów na szukanie „ekstremizmu” w grach wideo
  - [https://ithardware.pl/aktualnosci/usa_przeznaczy_prawie_700_000_dolarow_na_szukanie_ekstremizmu_w_grach_wideo-23418.html](https://ithardware.pl/aktualnosci/usa_przeznaczy_prawie_700_000_dolarow_na_szukanie_ekstremizmu_w_grach_wideo-23418.html)
  - date published: 2022-09-21 09:24:10+00:00
  - user: None
- - tags: ['surveillance', 'disinformation', 'tech control', 'misinformation', 'big brother', 'usa']
+ - tags: ['surveillance', 'disinformation', 'government control', 'misinformation', 'big brother', 'usa']
 
 ## Pod presją USA tureckie banki odcinają rosyjski system płatności Mir
  - [https://www.wykop.pl/link/6825921/pod-presja-usa-tureckie-banki-odcinaja-rosyjski-system-platnosci-mir/](https://www.wykop.pl/link/6825921/pod-presja-usa-tureckie-banki-odcinaja-rosyjski-system-platnosci-mir/)
@@ -962,7 +914,7 @@
  - [https://www.wykop.pl/link/6822249/kosciol-katolicki-w-europie-jest-trupem/](https://www.wykop.pl/link/6822249/kosciol-katolicki-w-europie-jest-trupem/)
  - date published: 2022-09-18 12:58:02+00:00
  - user: None
- - tags: ['poland', 'church']
+ - tags: ['catholic', 'poland', 'religion']
 
 ## Krystyna Janda prosi w sieci o pieniądze. Internet zapłonął, wypomniano...
  - [https://www.wykop.pl/link/6821639/krystyna-janda-prosi-w-sieci-o-pieniadze-internet-zaplonal-wypomniano/](https://www.wykop.pl/link/6821639/krystyna-janda-prosi-w-sieci-o-pieniadze-internet-zaplonal-wypomniano/)
@@ -1072,12 +1024,6 @@
  - user: None
  - tags: ['crypto', 'bitcoin']
 
-## Brytyjski rząd wyda fortunę na dopłaty do rachunków za energię.
- - [https://www.wykop.pl/link/6810875/brytyjski-rzad-wyda-fortune-na-doplaty-do-rachunkow-za-energie/](https://www.wykop.pl/link/6810875/brytyjski-rzad-wyda-fortune-na-doplaty-do-rachunkow-za-energie/)
- - date published: 2022-09-10 21:40:01+00:00
- - user: None
- - tags: $tags
-
 ## Intelowi zakazano produkcji procesorów w Chinach przez następne 10 lat
  - [https://www.wykop.pl/link/6811875/intelowi-zakazano-produkcji-procesorow-w-chinach-przez-nastepne-10-lat/](https://www.wykop.pl/link/6811875/intelowi-zakazano-produkcji-procesorow-w-chinach-przez-nastepne-10-lat/)
  - date published: 2022-09-10 21:02:01+00:00
@@ -1102,29 +1048,17 @@
  - user: None
  - tags: $tags
 
-## Rząd chce obowiązkowych aplikacji w smartfonie. Czy tego chcesz, czy nie
- - [https://www.wykop.pl/link/6808431/rzad-chce-obowiazkowych-aplikacji-w-smartfonie-czy-tego-chcesz-czy-nie/](https://www.wykop.pl/link/6808431/rzad-chce-obowiazkowych-aplikacji-w-smartfonie-czy-tego-chcesz-czy-nie/)
- - date published: 2022-09-07 21:10:01+00:00
- - user: None
- - tags: $tags
+## Rząd chce, byś miał te aplikacje w swoim smartfonie. Czy tego chcesz, czy nie - WP Wiadomości
+ - [https://wiadomosci.wp.pl/rzad-chce-bys-mial-te-aplikacje-w-swoim-smartfonie-czy-tego-chcesz-czy-nie-6809792441891456a](https://wiadomosci.wp.pl/rzad-chce-bys-mial-te-aplikacje-w-swoim-smartfonie-czy-tego-chcesz-czy-nie-6809792441891456a)
+ - date published: 2022-09-07 10:33:16+00:00
+ - user: rumpel
+ - tags: ['government control', 'poland']
 
 ## Twitter odmawiał usuwania materiałów pedofilskich, choć prosiły o to ofiary i ich rodziny
  - [https://ithardware.pl/aktualnosci/twitter_odmawial_usuwania_materialow_pedofilskich_choc_prosily_o_to_ofiary_i_ich_rodziny-23158.html](https://ithardware.pl/aktualnosci/twitter_odmawial_usuwania_materialow_pedofilskich_choc_prosily_o_to_ofiary_i_ich_rodziny-23158.html)
  - date published: 2022-09-07 09:37:50+00:00
  - user: None
  - tags: ['paedophilia', 'moderation', 'twitter', 'censorship']
-
-## Amerykańskie firmy technologiczne otrzymały zakaz inwestowania w Chinach
- - [https://www.bankier.pl/wiadomosc/Amerykanskie-firmy-technologiczne-otrzymaly-zakaz-inwestowania-w-Chinach-8401764.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Amerykanskie-firmy-technologiczne-otrzymaly-zakaz-inwestowania-w-Chinach-8401764.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
- - date published: 2022-09-07 06:26:00+00:00
- - user: None
- - tags: $tags
-
-## Jaki jest wpływ tiktoka na społeczeństwo?
- - [https://www.wykop.pl/link/6806737/jaki-jest-wplyw-tiktoka-na-spoleczenstwo/](https://www.wykop.pl/link/6806737/jaki-jest-wplyw-tiktoka-na-spoleczenstwo/)
- - date published: 2022-09-07 06:06:01+00:00
- - user: None
- - tags: $tags
 
 ## Jak władza "gotowała" wyrok w TK ws. pozwów o obostrzenia covidowe
  - [https://www.wykop.pl/link/6807021/jak-wladza-gotowala-wyrok-w-tk-ws-pozwow-o-obostrzenia-covidowe/](https://www.wykop.pl/link/6807021/jak-wladza-gotowala-wyrok-w-tk-ws-pozwow-o-obostrzenia-covidowe/)
@@ -1138,17 +1072,17 @@
  - user: None
  - tags: $tags
 
-## Afera mailowa. Tak rząd przygotowywał się na pozwy w związku z pandemią
- - [https://www.wykop.pl/link/6806507/afera-mailowa-tak-rzad-przygotowywal-sie-na-pozwy-w-zwiazku-z-pandemia/](https://www.wykop.pl/link/6806507/afera-mailowa-tak-rzad-przygotowywal-sie-na-pozwy-w-zwiazku-z-pandemia/)
- - date published: 2022-09-06 19:04:02+00:00
- - user: None
- - tags: $tags
+## Afera mailowa. Tak rząd przygotowywał się na pozwy w związku z pandemią - WP Wiadomości
+ - [https://wiadomosci.wp.pl/afera-mailowa-tak-rzad-przygotowywal-sie-na-pozwy-w-zwiazku-z-pandemia-6809480446421632a](https://wiadomosci.wp.pl/afera-mailowa-tak-rzad-przygotowywal-sie-na-pozwy-w-zwiazku-z-pandemia-6809480446421632a)
+ - date published: 2022-09-06 10:35:38+00:00
+ - user: rumpel
+ - tags: ['poland', 'covid', 'law']
 
 ## Niemcy przedłużają pracę dwóch z trzech elektrowni atomowych
  - [https://www.bankier.pl/wiadomosc/Niemcy-przedluzaja-prace-dwoch-z-trzech-elektrowni-atomowych-8400995.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Niemcy-przedluzaja-prace-dwoch-z-trzech-elektrowni-atomowych-8400995.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date published: 2022-09-05 18:27:00+00:00
  - user: None
- - tags: $tags
+ - tags: ['germany', 'climate change', 'atom']
 
 ## Turcja wydrukuje 250 tys. węgierskich paszportów biometrycznych w tym roku
  - [https://www.bankier.pl/wiadomosc/Turcja-wydrukuje-250-tys-wegierskich-paszportow-biometrycznych-w-tym-roku-8400905.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Turcja-wydrukuje-250-tys-wegierskich-paszportow-biometrycznych-w-tym-roku-8400905.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -1210,12 +1144,6 @@
  - user: None
  - tags: ['vulnerability', 'malware', 'google', 'play store']
 
-## Samsung znów został zhakowany. Firma potwierdza przejęcie danych
- - [https://ithardware.pl/aktualnosci/samsung_znow_zostal_zhakowany_firma_potwierdza_przejecie_danych-23095.html](https://ithardware.pl/aktualnosci/samsung_znow_zostal_zhakowany_firma_potwierdza_przejecie_danych-23095.html)
- - date published: 2022-09-03 15:40:00+00:00
- - user: None
- - tags: $tags
-
 ## Służby PiS chcą zablokować stronę publikującą maile ze skrzynki Dworczyka
  - [https://www.wykop.pl/link/6802629/sluzby-pis-chca-zablokowac-strone-publikujaca-maile-ze-skrzynki-dworczyka/](https://www.wykop.pl/link/6802629/sluzby-pis-chca-zablokowac-strone-publikujaca-maile-ze-skrzynki-dworczyka/)
  - date published: 2022-09-03 10:36:01+00:00
@@ -1225,12 +1153,6 @@
 ## Pięć wtyczek do Google Chrome potajemnie zbierało dane. Rozszerzenia pobrało wielu użytkowników
  - [https://ithardware.pl/aktualnosci/piec_wtyczek_do_google_chrome_potajemnie_zbieralo_dane_rozszerzenia_pobralo_wielu_uzytkownikow-23088.html](https://ithardware.pl/aktualnosci/piec_wtyczek_do_google_chrome_potajemnie_zbieralo_dane_rozszerzenia_pobralo_wielu_uzytkownikow-23088.html)
  - date published: 2022-09-02 21:50:00+00:00
- - user: None
- - tags: $tags
-
-## Ponad 50% Amerykanów korzysta z iPhona. Jak Apple stało się gigantem na rynku smartfonów?
- - [https://ithardware.pl/aktualnosci/ponad_50_amerykanow_korzysta_z_iphona_jak_apple_stalo_sie_gigantem_na_rynku_smartfonow-23086.html](https://ithardware.pl/aktualnosci/ponad_50_amerykanow_korzysta_z_iphona_jak_apple_stalo_sie_gigantem_na_rynku_smartfonow-23086.html)
- - date published: 2022-09-02 19:12:20+00:00
  - user: None
  - tags: $tags
 
@@ -1245,12 +1167,6 @@
  - date published: 2022-08-31 20:53:45+00:00
  - user: rumpel
  - tags: ['germany', 'agriculture']
-
-## Zakład Pascala
- - [https://pl.wikipedia.org/wiki/Zak%C5%82ad_Pascala](https://pl.wikipedia.org/wiki/Zak%C5%82ad_Pascala)
- - date published: 2022-08-31 06:25:56+00:00
- - user: None
- - tags: ['religion', 'all time']
 
 ## Weryfikatorzy faktów Facebooka będą komentowali wpisy... nieweryfikowalne
  - [https://ithardware.pl/aktualnosci/weryfikatorzy_faktow_facebooka_beda_komentowali_wpisy_nieweryfikowalne-22997.html](https://ithardware.pl/aktualnosci/weryfikatorzy_faktow_facebooka_beda_komentowali_wpisy_nieweryfikowalne-22997.html)
@@ -1292,7 +1208,7 @@
  - [https://ithardware.pl/aktualnosci/oracle_pozwane_za_gromadzenie_i_sprzedaz_danych_osobowych_miliardow_osob-22905.html](https://ithardware.pl/aktualnosci/oracle_pozwane_za_gromadzenie_i_sprzedaz_danych_osobowych_miliardow_osob-22905.html)
  - date published: 2022-08-23 21:03:02+00:00
  - user: None
- - tags: $tags
+ - tags: ['oracle', 'privacy', 'fine']
 
 ## Amazon rośnie w siłę. Czy sięgnie po dane medyczne? [OPINIA]
  - [https://cyberdefence24.pl/prywatnosc/amazon-rosnie-w-sile-czy-siegnie-po-dane-medyczne-opinia](https://cyberdefence24.pl/prywatnosc/amazon-rosnie-w-sile-czy-siegnie-po-dane-medyczne-opinia)
@@ -1304,7 +1220,7 @@
  - [https://avlab.pl/przegladarki-tiktok-instagram-facebook-dzialaja-jak-keylogger/](https://avlab.pl/przegladarki-tiktok-instagram-facebook-dzialaja-jak-keylogger/)
  - date published: 2022-08-20 12:04:49+00:00
  - user: None
- - tags: ['tiktok', 'privacy', 'facebook', 'keylogger', 'instagram', 'vulnerabilities']
+ - tags: ['tiktok', 'privacy', 'facebook', 'keylogger', 'instagram', 'vulnerability']
 
 ## Oswajanie z cyfrowym pieniądzem
  - [https://dorzeczy.pl/opinie/332758/pospieszalski-oswajanie.html](https://dorzeczy.pl/opinie/332758/pospieszalski-oswajanie.html)
@@ -1454,7 +1370,7 @@
  - [https://wiadomosci.onet.pl/kraj/facebook-zawiesil-strone-konfederacji-bedzie-pozew-cenzura-powraca/pk4fkq1](https://wiadomosci.onet.pl/kraj/facebook-zawiesil-strone-konfederacji-bedzie-pozew-cenzura-powraca/pk4fkq1)
  - date published: 2022-01-05 12:04:50+00:00
  - user: None
- - tags: ['facebook', 'konfederacja', 'moderation', 'censorship']
+ - tags: ['censorship', 'konfederacja', 'the right wing', 'facebook', 'moderation']
 
 ## Jak informuje pkwp.org Facebook zmniejszył zasięgi akcji ukazującej problem gwałconych chrześcijanek w państwach islamskich. Zablokowano petycję w ich obronie.
  - [https://obywatelenieba.pl/2022/01/04/facebook-przeciw-przesladowanym-chrzescijankom/](https://obywatelenieba.pl/2022/01/04/facebook-przeciw-przesladowanym-chrzescijankom/)

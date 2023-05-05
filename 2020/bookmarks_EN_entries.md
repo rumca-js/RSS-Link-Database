@@ -8,7 +8,7 @@
  - [https://www.eff.org/deeplinks/2020/12/section-215-expired-year-review-2020](https://www.eff.org/deeplinks/2020/12/section-215-expired-year-review-2020)
  - date published: 2020-12-29 15:10:10+00:00
  - user: rumpel
- - tags: ['tech control', 'big brother', 'patriot act', 'surveillance']
+ - tags: ['government control', 'big brother', 'patriot act', 'surveillance']
 
 ## Citizen journalist jailed for 4 years over Wuhan virus reporting | Coronavirus pandemic News | Al Jazeera
  - [https://www.aljazeera.com/news/2020/12/28/chinese-citizen-journalist-faces-trial-for-wuhan-virus-reporting](https://www.aljazeera.com/news/2020/12/28/chinese-citizen-journalist-faces-trial-for-wuhan-virus-reporting)
@@ -338,7 +338,7 @@
  - [https://www.cnn.com/2020/11/23/asia/china-xi-qr-code-coronavirus-intl-hnk/index.html](https://www.cnn.com/2020/11/23/asia/china-xi-qr-code-coronavirus-intl-hnk/index.html)
  - date published: 2020-11-23 09:09:34+00:00
  - user: rumpel
- - tags: ['covid', 'tech control', 'qr codes', 'big brother']
+ - tags: ['covid', 'government control', 'qr codes', 'big brother']
 
 ## Post-lockdown SARS-CoV-2 nucleic acid screening in nearly ten million residents of Wuhan, China
  - [https://www.nature.com/articles/s41467-020-19802-w](https://www.nature.com/articles/s41467-020-19802-w)
@@ -500,7 +500,7 @@
  - [https://m.gsmarena.com/eus_digital_service_act_will_allow_you_to_uninstall_bloatware-news-45578.php](https://m.gsmarena.com/eus_digital_service_act_will_allow_you_to_uninstall_bloatware-news-45578.php)
  - date published: 2020-10-10 18:35:47+00:00
  - user: None
- - tags: ['digital service act', 'tech control']
+ - tags: ['digital service act', 'government control']
 
 ## COVID-19 to Add as Many as 150 Million Extreme Poor by 2021
  - [https://www.worldbank.org/en/news/press-release/2020/10/07/covid-19-to-add-as-many-as-150-million-extreme-poor-by-2021](https://www.worldbank.org/en/news/press-release/2020/10/07/covid-19-to-add-as-many-as-150-million-extreme-poor-by-2021)
@@ -1190,7 +1190,7 @@
  - [https://www.newsweek.com/dr-fauci-backed-controversial-wuhan-lab-millions-us-dollars-risky-coronavirus-research-1500741](https://www.newsweek.com/dr-fauci-backed-controversial-wuhan-lab-millions-us-dollars-risky-coronavirus-research-1500741)
  - date published: 2020-04-28 20:20:32+00:00
  - user: rumpel
- - tags: ['wuhan', 'covid', 'fauci']
+ - tags: ['wuhan', 'covid', 'anthony fauci']
 
 ## Amazon uses data from third-party sellers to develop its own products, WSJ investigation finds
  - [https://www.cnbc.com/2020/04/23/wsj-amazon-uses-data-from-third-party-sellers-to-develop-its-own-products.html](https://www.cnbc.com/2020/04/23/wsj-amazon-uses-data-from-third-party-sellers-to-develop-its-own-products.html)
@@ -1246,6 +1246,18 @@
  - user: rumpel
  - tags: ['programming', 'science']
 
+## A psychologist’s take on why people report their neighbours | CTV News
+ - [https://www.ctvnews.ca/health/coronavirus/people-are-reporting-on-their-neighbours-over-covid-19-concerns-1.4872683](https://www.ctvnews.ca/health/coronavirus/people-are-reporting-on-their-neighbours-over-covid-19-concerns-1.4872683)
+ - date published: 2020-03-28 20:28:16+00:00
+ - user: rumpel
+ - tags: ['canada', 'snitch line', 'covid']
+
+## London unveils 'snitch line' for COVID-19 rule violations | CTV News
+ - [https://london.ctvnews.ca/london-unveils-snitch-line-for-covid-19-rule-violations-1.4871449](https://london.ctvnews.ca/london-unveils-snitch-line-for-covid-19-rule-violations-1.4871449)
+ - date published: 2020-03-27 20:26:52+00:00
+ - user: rumpel
+ - tags: ['mandates', 'england', 'covid', 'snitch line']
+
 ## NYC's Footprint Amid The COVID-19 Outbreak
  - [https://www.youtube.com/watch?v=Q5BFrDocPNs](https://www.youtube.com/watch?v=Q5BFrDocPNs)
  - date published: 2020-03-26 20:00:02+00:00
@@ -1263,6 +1275,12 @@
  - date published: 2020-03-20 14:11:41+00:00
  - user: None
  - tags: $tags
+
+## Did New Zealand PM Jacinda Ardern Once Say, 'Unless You Hear It from Us, It Is Not the Truth'? | Snopes.com
+ - [https://www.snopes.com/fact-check/jacinda-ardern-truth/](https://www.snopes.com/fact-check/jacinda-ardern-truth/)
+ - date published: 2020-03-19 20:36:10+00:00
+ - user: rumpel
+ - tags: ['science is dead', 'covid', 'propaganda']
 
 ## First Day of Stay at Home Order in the United States
  - [https://www.timeanddate.com/holidays/us/lockdown-day-1](https://www.timeanddate.com/holidays/us/lockdown-day-1)
@@ -1286,7 +1304,7 @@
  - [https://www.eff.org/deeplinks/2020/03/earn-it-bill-governments-not-so-secret-plan-scan-every-message-online](https://www.eff.org/deeplinks/2020/03/earn-it-bill-governments-not-so-secret-plan-scan-every-message-online)
  - date published: 2020-03-12 07:47:45+00:00
  - user: rumpel
- - tags: ['privacy', 'surveillance', 'earn it act', 'big brother', 'encryption', 'crypto wars']
+ - tags: ['government control', 'surveillance', 'big brother', 'crypto wars', 'privacy', 'earn it act', 'encryption']
 
 ## A Military-Funded Biosensor Could Be the Future of Pandemic Detection - Defense One
  - [https://www.defenseone.com/technology/2020/03/military-funded-biosensor-could-be-future-pandemic-detection/163497/](https://www.defenseone.com/technology/2020/03/military-funded-biosensor-could-be-future-pandemic-detection/163497/)
@@ -1388,7 +1406,7 @@
  - [https://cyberlaw.stanford.edu/blog/2020/01/earn-it-act-how-ban-end-end-encryption-without-actually-banning-it](https://cyberlaw.stanford.edu/blog/2020/01/earn-it-act-how-ban-end-end-encryption-without-actually-banning-it)
  - date published: 2020-01-30 07:46:45+00:00
  - user: rumpel
- - tags: ['privacy', 'surveillance', 'earn it act', 'big brother', 'encryption', 'crypto wars']
+ - tags: ['government control', 'surveillance', 'big brother', 'crypto wars', 'privacy', 'earn it act', 'encryption']
 
 ## How to Survive the 21st Century - Yuval Noah Harari | Open Transcripts
  - [http://opentranscripts.org/transcript/survive-21st-century/](http://opentranscripts.org/transcript/survive-21st-century/)

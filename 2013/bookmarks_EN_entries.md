@@ -38,7 +38,7 @@
  - [https://www.zdnet.com/article/nsa-spies-on-its-own-five-eyes-spy-partners/](https://www.zdnet.com/article/nsa-spies-on-its-own-five-eyes-spy-partners/)
  - date published: 2013-11-20 14:40:44+00:00
  - user: None
- - tags: ['surveillance', 'nsa', 'five-eyes']
+ - tags: ['five eyes', 'surveillance', 'nsa']
 
 ## An old mans advice.
  - [https://www.youtube.com/watch?v=9fvETktnaRw](https://www.youtube.com/watch?v=9fvETktnaRw)
