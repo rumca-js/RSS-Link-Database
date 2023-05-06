@@ -1,3 +1,9 @@
+## Sam Harris: Islam Is Not a Religion of Peace
+ - [https://www.youtube.com/watch?v=LfKLV6rmLxE](https://www.youtube.com/watch?v=LfKLV6rmLxE)
+ - date published: 2010-12-30 00:00:00+00:00
+ - user: rumpel
+ - tags: ['religion', 'islam']
+
 ## CIA launches task force to assess impact of U.S. cables' exposure by WikiLeaks
  - [https://www.washingtonpost.com/wp-dyn/content/article/2010/12/21/AR2010122104599.html?hpid=topnews](https://www.washingtonpost.com/wp-dyn/content/article/2010/12/21/AR2010122104599.html?hpid=topnews)
  - date published: 2010-12-21 21:36:34+00:00
@@ -45,6 +51,12 @@
  - date published: 2010-07-25 21:33:58+00:00
  - user: rumpel
  - tags: ['big brother', 'afganistan', 'usa', 'war', 'data leak']
+
+## Uganda blasts kill 74; Somali Islamists claim responsibilty
+ - [http://edition.cnn.com/2010/WORLD/africa/07/12/uganda.bombings/index.html?eref=edition](http://edition.cnn.com/2010/WORLD/africa/07/12/uganda.bombings/index.html?eref=edition)
+ - date published: 2010-07-12 12:59:09+00:00
+ - user: rumpel
+ - tags: ['religion', 'islam']
 
 ## Nestlé drives rainforest destruction pushing orangutans to brink of extinction - Greenpeace USA
  - [https://www.greenpeace.org/usa/news/nestle-drives-rainforest-destr/](https://www.greenpeace.org/usa/news/nestle-drives-rainforest-destr/)

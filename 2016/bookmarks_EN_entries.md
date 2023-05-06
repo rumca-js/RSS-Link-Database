@@ -142,6 +142,12 @@
  - user: rumpel
  - tags: ['archive']
 
+## France church attack: Priest killed by two 'IS militants' - BBC News
+ - [https://www.bbc.com/news/world-europe-36892785](https://www.bbc.com/news/world-europe-36892785)
+ - date published: 2016-07-26 07:36:49+00:00
+ - user: rumpel
+ - tags: ['france', 'islam', 'immigration', 'christianophobia']
+
 ## The Left’s New Weapon: ‘Diversity and Inclusion’
  - [https://www.lifezette.com/2016/07/lefts-new-weapon-diversity-inclusion/](https://www.lifezette.com/2016/07/lefts-new-weapon-diversity-inclusion/)
  - date published: 2016-07-14 15:47:42+00:00
@@ -237,6 +243,12 @@
  - date published: 2016-03-25 18:04:15+00:00
  - user: rumpel
  - tags: ['china', 'pollution']
+
+## Why Belgium? 5 reasons terrorists hit heart of Europe | CNN
+ - [https://edition.cnn.com/2016/03/24/europe/belgium-why-terrorists-struck/index.html](https://edition.cnn.com/2016/03/24/europe/belgium-why-terrorists-struck/index.html)
+ - date published: 2016-03-24 07:49:58+00:00
+ - user: rumpel
+ - tags: ['extremism', 'islam', 'belgium', 'religion', 'terrorism']
 
 ## Why Socialism Always Fails
  - [https://www.aei.org/carpe-diem/why-socialism-always-fails/](https://www.aei.org/carpe-diem/why-socialism-always-fails/)

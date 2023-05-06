@@ -190,6 +190,12 @@
  - user: None
  - tags: ['cablegate', 'wikileaks', 'hillary clinton']
 
+## Charlie Hebdo shooting - Wikipedia
+ - [https://en.wikipedia.org/wiki/Charlie_Hebdo_shooting](https://en.wikipedia.org/wiki/Charlie_Hebdo_shooting)
+ - date published: 2015-01-07 07:35:46+00:00
+ - user: rumpel
+ - tags: ['france', 'islam', 'immigration']
+
 ## Prince Andrew allegation: First pictures of paedo tycoon Jeffrey Epstein's £4k-a-night island lair
  - [https://www.mirror.co.uk/news/world-news/prince-andrew-allegation-first-pictures-4925112](https://www.mirror.co.uk/news/world-news/prince-andrew-allegation-first-pictures-4925112)
  - date published: 2015-01-05 19:58:26+00:00

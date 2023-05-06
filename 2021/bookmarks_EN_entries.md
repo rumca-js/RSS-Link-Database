@@ -422,7 +422,7 @@
  - [https://www.dailymail.co.uk/news/article-10292665/George-Soros-funneled-3M-dark-money-hub-activists-working-defund-police-grants-show.html](https://www.dailymail.co.uk/news/article-10292665/George-Soros-funneled-3M-dark-money-hub-activists-working-defund-police-grants-show.html)
  - date published: 2021-12-09 07:30:06+00:00
  - user: rumpel
- - tags: ['billionaires', 'george soros', 'black lives matter']
+ - tags: ['george soros', 'billionaires', 'defund the police', 'black lives matter']
 
 ## Evidence from Jeffrey Epstein's safe 'went missing' after FBI raid, court hears in Ghislaine Maxwell trial
  - [https://www.telegraph.co.uk/world-news/2021/12/07/evidence-jeffrey-epsteins-safe-went-missing-fbi-raid-court-hears/](https://www.telegraph.co.uk/world-news/2021/12/07/evidence-jeffrey-epsteins-safe-went-missing-fbi-raid-court-hears/)
@@ -1341,6 +1341,12 @@
  - date published: 2021-10-15 08:00:40.275009+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Sweden adds three new places to list of 'vulnerable areas' - The Local
+ - [https://www.thelocal.se/20211015/three-new-entries-added-to-swedens-list-of-vulnerable-areas](https://www.thelocal.se/20211015/three-new-entries-added-to-swedens-list-of-vulnerable-areas)
+ - date published: 2021-10-15 07:23:43+00:00
+ - user: rumpel
+ - tags: ['sweden', 'immigration']
 
 ## Apple silently fixes iOS zero-day, asks bug reporter to keep quiet
  - [https://www.bleepingcomputer.com/news/apple/apple-silently-fixes-ios-zero-day-asks-bug-reporter-to-keep-quiet/](https://www.bleepingcomputer.com/news/apple/apple-silently-fixes-ios-zero-day-asks-bug-reporter-to-keep-quiet/)
@@ -3242,7 +3248,7 @@
  - [https://www.dailywire.com/news/communist-cuba-begins-cracking-down-on-freedom-protesters-internet-and-cell-service-cut](https://www.dailywire.com/news/communist-cuba-begins-cracking-down-on-freedom-protesters-internet-and-cell-service-cut)
  - date published: 2021-07-12 19:42:49+00:00
  - user: rumpel
- - tags: ['cuba', 'freedom', 'prostest']
+ - tags: ['cuba', 'protest', 'freedom']
 
 ## POLITICO-Harvard poll: Most Americans believe Covid leaked from lab  - POLITICO
  - [https://www.politico.com/news/2021/07/09/poll-covid-wuhan-lab-leak-498847](https://www.politico.com/news/2021/07/09/poll-covid-wuhan-lab-leak-498847)
@@ -3814,6 +3820,12 @@
  - user: rumpel
  - tags: ['fraud', 'black lives matter']
 
+## Facebook blocks users from sharing DailyMail.com story about BLM founder's property empire | Daily Mail Online
+ - [https://www.dailymail.co.uk/news/article-9477097/Facebook-blocks-users-sharing-DailyMail-com-story-BLM-founders-property-empire.html](https://www.dailymail.co.uk/news/article-9477097/Facebook-blocks-users-sharing-DailyMail-com-story-BLM-founders-property-empire.html)
+ - date published: 2021-04-16 08:45:26+00:00
+ - user: rumpel
+ - tags: ['dailymail', 'censorship', 'facebook', 'black lives matter']
+
 ## James O'Keefe's Twitter suspended one day after CNN exposé
  - [https://nypost.com/2021/04/15/james-okeefes-twitter-suspended-one-day-after-cnn-expose/](https://nypost.com/2021/04/15/james-okeefes-twitter-suspended-one-day-after-cnn-expose/)
  - date published: 2021-04-15 20:00:06+00:00
@@ -3867,6 +3879,12 @@
  - date published: 2021-04-10 19:51:55+00:00
  - user: rumpel
  - tags: ['hypocrisy', 'black lives matter']
+
+## #Upscaling hd 50 fps - Volkswagen Golf GTi - Singing in the Rain (2005, UK)
+ - [https://www.youtube.com/watch?v=Myxb1f07cAo](https://www.youtube.com/watch?v=Myxb1f07cAo)
+ - date published: 2021-04-10 00:00:00+00:00
+ - user: rumpel
+ - tags: ['funny']
 
 ## Facebook does not plan to notify half-billion users affected by data leak
  - [https://www.reuters.com/article/us-facebook-data-leak/facebook-does-not-plan-to-notify-half-billion-users-affected-by-data-leak-idUSKBN2BU2ZY](https://www.reuters.com/article/us-facebook-data-leak/facebook-does-not-plan-to-notify-half-billion-users-affected-by-data-leak-idUSKBN2BU2ZY)
@@ -4198,6 +4216,12 @@
  - user: None
  - tags: ['surveillance', 'privacy', 'facebook', 'election']
 
+## Fact check: Discussion of deaths in elderly vaccine recipients in Norway lacks context | Reuters
+ - [https://www.reuters.com/article/uk-factcheck-norway-idUSKBN29P2R1](https://www.reuters.com/article/uk-factcheck-norway-idUSKBN29P2R1)
+ - date published: 2021-01-20 20:10:09+00:00
+ - user: rumpel
+ - tags: ['covid', 'vaccine']
+
 ## Incoming White House Climate Team Blames 'Systemic Racism' for Climate Change
  - [https://freebeacon.com/elections/incoming-white-house-climate-team-blames-systemic-racism-for-climate-change/](https://freebeacon.com/elections/incoming-white-house-climate-team-blames-systemic-racism-for-climate-change/)
  - date published: 2021-01-18 20:30:52+00:00
@@ -4215,6 +4239,12 @@
  - date published: 2021-01-18 11:19:45+00:00
  - user: None
  - tags: ['hollywood', 'movies']
+
+## 23 die in Norway after receiving Pfizer COVID-19 vaccine
+ - [https://nypost.com/2021/01/15/23-die-in-norway-after-receiving-pfizer-covid-19-vaccine/](https://nypost.com/2021/01/15/23-die-in-norway-after-receiving-pfizer-covid-19-vaccine/)
+ - date published: 2021-01-15 20:10:53+00:00
+ - user: rumpel
+ - tags: ['covid', 'vaccine', 'norway']
 
 ## COVID Lockdowns May Have No Clear Benefit vs Other Voluntary Measures, International Study Shows
  - [https://www.newsweek.com/covid-lockdowns-have-no-clear-benefit-vs-other-voluntary-measures-international-study-shows-1561656?amp=1&__twitter_impression=true](https://www.newsweek.com/covid-lockdowns-have-no-clear-benefit-vs-other-voluntary-measures-international-study-shows-1561656?amp=1&__twitter_impression=true)

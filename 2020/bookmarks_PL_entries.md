@@ -70,6 +70,12 @@
  - user: rumpel
  - tags: ['climate change', 'fit for 55']
 
+## Szwecja. Zabójstwo honorowe w autobusie pełnym ludzi. Ojciec i synowie skazani - Polsat News
+ - [https://www.polsatnews.pl/wiadomosc/2020-12-11/szwecja-zabojstwo-honorowe-w-autobusie-pelnym-ludzi-ojciec-i-synowie-skazani/?ref=aside_najnowsze](https://www.polsatnews.pl/wiadomosc/2020-12-11/szwecja-zabojstwo-honorowe-w-autobusie-pelnym-ludzi-ojciec-i-synowie-skazani/?ref=aside_najnowsze)
+ - date published: 2020-12-11 07:44:06+00:00
+ - user: rumpel
+ - tags: ['sweden', 'immigration']
+
 ## Minister zdrowia: Jako dowód szczepienia na COVID będzie można pokazać kod QR - rp.pl
  - [https://www.rp.pl/diagnostyka-i-terapie/art8734721-minister-zdrowia-jako-dowod-szczepienia-na-covid-bedzie-mozna-pokazac-kod-qr](https://www.rp.pl/diagnostyka-i-terapie/art8734721-minister-zdrowia-jako-dowod-szczepienia-na-covid-bedzie-mozna-pokazac-kod-qr)
  - date published: 2020-12-09 06:26:29+00:00
@@ -106,17 +112,35 @@
  - user: rumpel
  - tags: ['children', 'surrogacy', 'the left wing', 'lgbt']
 
+## Austria: ataki w centrum Wiednia. Są zabici, wielu rannych - Polsat News
+ - [https://www.polsatnews.pl/wiadomosc/2020-11-02/wieden-atak-na-synagoge-doszlo-do-strzelaniny/](https://www.polsatnews.pl/wiadomosc/2020-11-02/wieden-atak-na-synagoge-doszlo-do-strzelaniny/)
+ - date published: 2020-11-02 07:43:07+00:00
+ - user: rumpel
+ - tags: ['austria', 'islam', 'terrorism']
+
 ## KE ma umowę z Johnson&Johnson na 400 mln dawek szczepionki na Covid-19 - Bankier.pl
  - [https://www.bankier.pl/wiadomosc/KE-ma-umowe-z-Johnson-Johnson-na-400-mln-dawek-szczepionki-na-Covid-19-7985549.html](https://www.bankier.pl/wiadomosc/KE-ma-umowe-z-Johnson-Johnson-na-400-mln-dawek-szczepionki-na-Covid-19-7985549.html)
  - date published: 2020-10-21 20:00:49+00:00
  - user: rumpel
  - tags: ['vaccine', 'johnson and johnson', 'covid', 'big pharma']
 
+## Zabójstwo nauczyciela we Francji. Uczniowie: boimy się - Polsat News
+ - [https://www.polsatnews.pl/wiadomosc/2020-10-17/zabojstwo-nauczyciela-we-francji-uczniowie-boimy-sie/?ref=aside_najnowsze](https://www.polsatnews.pl/wiadomosc/2020-10-17/zabojstwo-nauczyciela-we-francji-uczniowie-boimy-sie/?ref=aside_najnowsze)
+ - date published: 2020-10-17 07:38:51+00:00
+ - user: rumpel
+ - tags: ['france', 'islam', 'immigration']
+
 ## Jak facebook amazon monopolizują dane osobowe. Giganty technologiczne i nowy porządek świata.WWR#112
  - [https://www.youtube.com/watch?v=PbqLcEsm1qE](https://www.youtube.com/watch?v=PbqLcEsm1qE)
  - date published: 2020-10-15 20:09:58+00:00
  - user: None
  - tags: ['facebook', 'privacy', 'corporatocracy']
+
+## Udawali homoseksualizm, żeby dostać azyl? Nawet kilkaset przypadków w Holandii - Polsat News
+ - [https://www.polsatnews.pl/wiadomosc/2020-10-06/udawali-homoseksualizm-zeby-dostac-azyl-nawet-kilkaset-przypadkow-w-holandii/?ref=aside_najnowsze](https://www.polsatnews.pl/wiadomosc/2020-10-06/udawali-homoseksualizm-zeby-dostac-azyl-nawet-kilkaset-przypadkow-w-holandii/?ref=aside_najnowsze)
+ - date published: 2020-10-06 08:14:18+00:00
+ - user: rumpel
+ - tags: ['the left wing', 'holand', 'immigration']
 
 ## Artykuł o „Margot” na Wikipedii z najwyższym poziomem ochrony. Tylko nieliczni mogą zmieniać treść
  - [https://www.tvp.info/50178233/artykul-o-margot-na-anglojezycznej-wikipedii-z-najwyzszym-poziomem-ochrony-tylko-nieliczni-moga-ingerowac-w-tresc-wieszwiecej](https://www.tvp.info/50178233/artykul-o-margot-na-anglojezycznej-wikipedii-z-najwyzszym-poziomem-ochrony-tylko-nieliczni-moga-ingerowac-w-tresc-wieszwiecej)
@@ -129,6 +153,12 @@
  - date published: 2020-10-01 19:53:32+00:00
  - user: rumpel
  - tags: ['poland', 'quarantine', 'covid']
+
+## Islamski terrorysta wyłudził 100 tys. euro od francuskiego państwa - RMF 24
+ - [https://www.rmf24.pl/fakty/swiat/news-islamski-terrorysta-wyludzil-100-tys-euro-od-francuskiego-pa,nId,4761431](https://www.rmf24.pl/fakty/swiat/news-islamski-terrorysta-wyludzil-100-tys-euro-od-francuskiego-pa,nId,4761431)
+ - date published: 2020-09-29 07:38:08+00:00
+ - user: rumpel
+ - tags: ['france', 'islam', 'charlie hebdo', 'immigration']
 
 ## Dzieci odebrane Polce przez Jugendamt zostaną na razie u muzułmanów
  - [https://wiadomosci.dziennik.pl/swiat/artykuly/7802606,jugendamt-polka-dzieci-rodzina-muzulmanie-niemcy.html](https://wiadomosci.dziennik.pl/swiat/artykuly/7802606,jugendamt-polka-dzieci-rodzina-muzulmanie-niemcy.html)
@@ -184,6 +214,12 @@
  - user: rumpel
  - tags: ['science is dead', 'universities', 'left', 'propaganda']
 
+## Nigeria: młodzi weselnicy kolejnymi ofiarami terroru wobec chrześcijan
+ - [https://misyjne.pl/misja/nigeria-mlodzi-weselnicy-kolejnymi-ofiarami-terroru-wobec-chrzescijan/](https://misyjne.pl/misja/nigeria-mlodzi-weselnicy-kolejnymi-ofiarami-terroru-wobec-chrzescijan/)
+ - date published: 2020-07-22 08:12:57+00:00
+ - user: rumpel
+ - tags: ['christianophobia', 'religion', 'islam', 'nigeria']
+
 ## Google: koniec z zarabianiem na teoriach spiskowych!
  - [https://www.tabletowo.pl/google-koniec-z-zarabianiem-na-teoriach-spiskowych](https://www.tabletowo.pl/google-koniec-z-zarabianiem-na-teoriach-spiskowych)
  - date published: 2020-07-18 06:56:37+00:00
@@ -200,7 +236,7 @@
  - [https://noizz.pl/lgbt/norwegia-priorytetowo-przyjmie-uchodzcow-lgbt/zzy65sy](https://noizz.pl/lgbt/norwegia-priorytetowo-przyjmie-uchodzcow-lgbt/zzy65sy)
  - date published: 2020-07-07 21:00:09+00:00
  - user: rumpel
- - tags: ['the left wing', 'norway', 'inequality', 'lgbt']
+ - tags: ['norway', 'immigration', 'the left wing', 'inequality', 'lgbt']
 
 ## Eksperyment Kentlera. Jak w Niemczech przekazywano dzieci pedofilom
  - [https://www.rp.pl/spoleczenstwo/art654161-eksperyment-kentlera-jak-w-niemczech-przekazywano-dzieci-pedofilom](https://www.rp.pl/spoleczenstwo/art654161-eksperyment-kentlera-jak-w-niemczech-przekazywano-dzieci-pedofilom)

@@ -124,6 +124,18 @@
  - user: None
  - tags: ['social media', 'digital dementia']
 
+## Reality Check: Are migrants driving crime in Germany? - BBC News
+ - [https://www.bbc.com/news/world-europe-45419466](https://www.bbc.com/news/world-europe-45419466)
+ - date published: 2018-09-13 10:05:54+00:00
+ - user: rumpel
+ - tags: ['germany', 'immigration']
+
+## Chile Church scandal: 'How I escaped the priest who abused me for decades' - BBC News
+ - [https://www.bbc.com/news/stories-45486176](https://www.bbc.com/news/stories-45486176)
+ - date published: 2018-09-13 07:28:23+00:00
+ - user: rumpel
+ - tags: ['church scandal', 'chile', 'religion', 'catholic']
+
 ## Bannon falls victim to free speech storm
  - [https://www.cnn.com/2018/09/08/uk/free-speech-bannon-universities-opinion-intl/index.html](https://www.cnn.com/2018/09/08/uk/free-speech-bannon-universities-opinion-intl/index.html)
  - date published: 2018-09-08 16:15:27+00:00
@@ -434,7 +446,7 @@
  - [https://www.youtube.com/watch?v=PRYvqrWcmmE](https://www.youtube.com/watch?v=PRYvqrWcmmE)
  - date published: 2018-04-03 12:35:07+00:00
  - user: rumpel
- - tags: ['inequality', 'damore', 'feminism', 'jordan peterson', 'google']
+ - tags: ['inequality', 'james damore', 'feminism', 'jordan peterson', 'google']
 
 ## Sinclair Faces Backlash Over Scripted Anti-Media Promos - Variety
  - [https://variety.com/2018/tv/news/sinclair-promos-backlash-1202741019/](https://variety.com/2018/tv/news/sinclair-promos-backlash-1202741019/)
@@ -567,4 +579,10 @@
  - date published: 2018-01-04 12:06:43+00:00
  - user: rumpel
  - tags: ['intel', 'meltdown', 'vulnerability', 'spectre']
+
+## Violent crime rises in Germany and is attributed to refugees | Reuters
+ - [https://www.reuters.com/article/us-europe-migrants-germany-crime-idUSKBN1ES16J](https://www.reuters.com/article/us-europe-migrants-germany-crime-idUSKBN1ES16J)
+ - date published: 2018-01-03 10:02:54+00:00
+ - user: rumpel
+ - tags: ['germany', 'immigration']
 

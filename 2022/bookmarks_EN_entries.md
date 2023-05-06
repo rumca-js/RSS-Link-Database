@@ -842,7 +842,7 @@
  - [https://reclaimthenet.org/fbi-responds-after-revelations-it-flagged-tweets-for-censorship/](https://reclaimthenet.org/fbi-responds-after-revelations-it-flagged-tweets-for-censorship/)
  - date published: 2022-12-17 01:56:35+00:00
  - user: None
- - tags: ['censorship', 'fbi', 'tweeter']
+ - tags: ['censorship', 'fbi', 'twitter']
 
 ## John Carmack is leaving Meta
  - [https://www.theverge.com/2022/12/16/23513622/john-carmack-leaving-meta-virtual-reality-oculus-cto](https://www.theverge.com/2022/12/16/23513622/john-carmack-leaving-meta-virtual-reality-oculus-cto)
@@ -944,7 +944,7 @@
  - [https://www.theepochtimes.com/twitter-censorship-contributed-to-destructive-pandemic-policies-and-is-criminal-says-former-white-house-covid-adviser_4927500.html](https://www.theepochtimes.com/twitter-censorship-contributed-to-destructive-pandemic-policies-and-is-criminal-says-former-white-house-covid-adviser_4927500.html)
  - date published: 2022-12-16 02:42:19+00:00
  - user: None
- - tags: ['covid', 'collateral damage']
+ - tags: ['covid collateral damage', 'covid']
 
 ## Skull and Bones
  - [https://en.m.wikipedia.org/wiki/Skull_and_Bones](https://en.m.wikipedia.org/wiki/Skull_and_Bones)
@@ -1364,7 +1364,7 @@
  - [https://www.theepochtimes.com/australian-covid-measures-led-to-lowest-elective-surgery-numbers-in-a-decade_4908265.html](https://www.theepochtimes.com/australian-covid-measures-led-to-lowest-elective-surgery-numbers-in-a-decade_4908265.html)
  - date published: 2022-12-08 23:54:01+00:00
  - user: rumpel
- - tags: ['covid', 'collateraldeaths']
+ - tags: ['covid collateral damage', 'covid']
 
 ## The Great Climate Con | Alex Epstein | #312
  - [https://www.youtube.com/watch?v=eDWq7-eP5sE](https://www.youtube.com/watch?v=eDWq7-eP5sE)
@@ -2012,7 +2012,7 @@
  - [https://www.dailymail.co.uk/news/article-11473469/Stalkers-using-Amazon-Alexa-devices-terrorise-victims-experts-warn.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11473469/Stalkers-using-Amazon-Alexa-devices-terrorise-victims-experts-warn.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2022-11-27 01:40:33+00:00
  - user: None
- - tags: ['privacy', 'smarthome', 'hackers']
+ - tags: ['privacy', 'smart home', 'hackers']
 
 ## Cracking my windshield and earning $10,000 on the Tesla Bug Bounty Program | Sam Curry
  - [https://samcurry.net/cracking-my-windshield-and-earning-10000-on-the-tesla-bug-bounty-program/](https://samcurry.net/cracking-my-windshield-and-earning-10000-on-the-tesla-bug-bounty-program/)
@@ -2036,7 +2036,7 @@
  - [https://www.dailymail.co.uk/news/article-11472163/Former-CEO-says-considered-suicide-suffering-social-terrorism-workers-views.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11472163/Former-CEO-says-considered-suicide-suffering-social-terrorism-workers-views.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2022-11-26 16:20:29+00:00
  - user: None
- - tags: ['sjw', 'social terrorism', 'abortion']
+ - tags: ['the left wing', 'abortion', 'christianophobia', 'intolerance']
 
 ## WhatsApp data leak: 500M user records for sale
  - [https://cybernews.com/news/whatsapp-data-leak/](https://cybernews.com/news/whatsapp-data-leak/)
@@ -2156,13 +2156,13 @@
  - [https://www.youtube.com/watch?v=qOjiCbxP5Lc](https://www.youtube.com/watch?v=qOjiCbxP5Lc)
  - date published: 2022-11-23 10:24:40+00:00
  - user: None
- - tags: ['smarthome', 'privacy']
+ - tags: ['smart home', 'privacy']
 
 ## Someone has to say it: Voice assistants are not doing it for big tech
  - [https://www.theregister.com/2022/11/23/voice_assistants_fail/](https://www.theregister.com/2022/11/23/voice_assistants_fail/)
  - date published: 2022-11-23 09:33:40+00:00
  - user: None
- - tags: ['big tech', 'algorithm', 'voice assistant', 'smarthome']
+ - tags: ['big tech', 'algorithm', 'voice assistant', 'smart home']
 
 ## WikiLeaks is struggling to stay online as millions of documents disappear
  - [https://www.dailydot.com/debug/wikileaks-website-assange-hacked-documents/](https://www.dailydot.com/debug/wikileaks-website-assange-hacked-documents/)
@@ -2888,7 +2888,7 @@
  - [https://rsapkf.org/weblog/q2z/](https://rsapkf.org/weblog/q2z/)
  - date published: 2022-11-04 16:22:38+00:00
  - user: None
- - tags: ['selfhost', 'privacy', 'rss', 'smarthome']
+ - tags: ['selfhost', 'privacy', 'rss', 'smart home']
 
 ## Google to remove all VPN ad blockers that don’t comply with their policy
  - [https://community.blokada.org/t/google-to-remove-all-vpn-ad-blockers-that-don-t-comply/27586](https://community.blokada.org/t/google-to-remove-all-vpn-ad-blockers-that-don-t-comply/27586)
@@ -3320,7 +3320,7 @@
  - [https://www.dailymail.co.uk/news/article-11371013/Islamic-extremism-UK-bigger-issue-willing-accept-Home-Office-source-claims.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11371013/Islamic-extremism-UK-bigger-issue-willing-accept-Home-Office-source-claims.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2022-10-30 18:39:30+00:00
  - user: None
- - tags: ['islam', 'england']
+ - tags: ['extremism', 'england', 'islam', 'religion']
 
 ## China braces for wave of workers fleeing iPhone factory in Covid-hit Zhengzhou
  - [https://www.theguardian.com/technology/2022/oct/30/china-braces-for-wave-of-workers-fleeing-iphone-factory-in-covid-hit-zhengzhou](https://www.theguardian.com/technology/2022/oct/30/china-braces-for-wave-of-workers-fleeing-iphone-factory-in-covid-hit-zhengzhou)
@@ -3386,7 +3386,7 @@
  - [https://github.com/AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)
  - date published: 2022-10-29 20:29:38+00:00
  - user: None
- - tags: ['tracking', 'privacy', 'selfhost', 'smarthome']
+ - tags: ['tracking', 'privacy', 'selfhost', 'smart home']
 
 ## Kanye doubles-down on anti-Semitic claims by sharing SPREADSHEET filled with names of Jewish execs
  - [https://www.dailymail.co.uk/news/article-11368801/Kanye-doubles-anti-Semitic-claims-sharing-SPREADSHEET-filled-names-Jewish-execs.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11368801/Kanye-doubles-anti-Semitic-claims-sharing-SPREADSHEET-filled-names-Jewish-execs.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -7286,7 +7286,7 @@
  - [https://www.briefcam.com/resources/blog/what-is-smart-city-surveillance/](https://www.briefcam.com/resources/blog/what-is-smart-city-surveillance/)
  - date published: 2022-08-24 12:04:50.112875+00:00
  - user: None
- - tags: ['smart cities', 'surveillance']
+ - tags: ['smart city', 'surveillance']
 
 ## Operant Conditioning: So, You Think You Can Beat Social Media Addiction
  - [https://www.studynotesaba.com/so-you-think-you-can-beat-social-media-addiction/](https://www.studynotesaba.com/so-you-think-you-can-beat-social-media-addiction/)
@@ -7376,7 +7376,7 @@
  - [https://adguard.com/en/blog/smart-tv-ad-blocking.html](https://adguard.com/en/blog/smart-tv-ad-blocking.html)
  - date published: 2022-08-22 13:50:49.108687+00:00
  - user: Thomas Pain
- - tags: ['smarthome', 'tracking', 'privacy', 'ad business', 'technofeudalism']
+ - tags: ['smart home', 'tracking', 'privacy', 'ad business', 'technofeudalism']
 
 ## Bill Gates lavished the media with $319 million in funding
  - [https://thecountersignal.com/bill-gates-lavished-the-media-with-319-million-in-funding/](https://thecountersignal.com/bill-gates-lavished-the-media-with-319-million-in-funding/)
@@ -7742,7 +7742,7 @@
  - [https://specbranch.com/posts/one-big-server/](https://specbranch.com/posts/one-big-server/)
  - date published: 2022-08-03 09:05:02.350491+00:00
  - user: Thomas Pain
- - tags: ['selfhost', 'smarthome']
+ - tags: ['selfhost', 'smart home']
 
 ## Gas prices to push up farmers’ fertiliser costs by nearly £2bn | Guernsey Press
  - [https://guernseypress.com/news/uk-news/2022/09/02/gas-prices-to-push-up-farmers-fertiliser-costs-by-nearly-2bn/](https://guernseypress.com/news/uk-news/2022/09/02/gas-prices-to-push-up-farmers-fertiliser-costs-by-nearly-2bn/)
@@ -8828,7 +8828,7 @@
  - [https://mtlynch.io/budget-nas/](https://mtlynch.io/budget-nas/)
  - date published: 2022-05-29 14:02:45+00:00
  - user: Thomas Pain
- - tags: ['selfhost', 'homelab', 'smarthome']
+ - tags: ['selfhost', 'homelab', 'smart home']
 
 ## I'm Retiring From the Engineering Profession
  - [https://www.strongtowns.org/journal/2022/5/23/im-retiring-from-the-engineering-profession](https://www.strongtowns.org/journal/2022/5/23/im-retiring-from-the-engineering-profession)
@@ -10016,7 +10016,7 @@
  - [https://rohanrd.xyz/posts/why-you-should-start-self-hosting/](https://rohanrd.xyz/posts/why-you-should-start-self-hosting/)
  - date published: 2022-03-24 06:52:25.054150+00:00
  - user: Thomas Pain
- - tags: ['raspberry', 'selfhost', 'smarthome']
+ - tags: ['raspberry', 'selfhost', 'smart home']
 
 ## Judge Jackson Refuses to Define ‘Woman’ during Confirmation Hearing: ‘I’m Not a Biologist’
  - [https://news.yahoo.com/judge-jackson-refuses-define-woman-122717280.html](https://news.yahoo.com/judge-jackson-refuses-define-woman-122717280.html)
@@ -10106,13 +10106,13 @@
  - [https://expose-news.com/2022/03/19/the-genocide-of-the-peoples-of-europe/](https://expose-news.com/2022/03/19/the-genocide-of-the-peoples-of-europe/)
  - date published: 2022-03-19 20:15:46+00:00
  - user: None
- - tags: ['coudenhove-kalergi', 'conspiracy theory', 'immigration', 'genocide']
+ - tags: ['conspiracy theory', 'genocide', 'immigration', 'the right wing', 'coudenhove-kalergi']
 
 ## The Coudenhove-Kalergi Plan – The Genocide of the Peoples of Europe
  - [https://www.nutritruth.org/single-post/the-coudenhove-kalergi-plan-the-genocide-of-the-peoples-of-europe](https://www.nutritruth.org/single-post/the-coudenhove-kalergi-plan-the-genocide-of-the-peoples-of-europe)
  - date published: 2022-03-19 20:15:46+00:00
  - user: None
- - tags: ['genocide', 'depopulation', 'immigration', 'coudenhove-kalergi']
+ - tags: ['depopulation', 'genocide', 'immigration', 'the right wing', 'coudenhove-kalergi']
 
 ## The British government reportedly asked when Microsoft would 'get rid' of algorithms | Windows Central
  - [https://www.windowscentral.com/british-government-reported-asked-when-microsoft-would-get-rid-algorithms](https://www.windowscentral.com/british-government-reported-asked-when-microsoft-would-get-rid-algorithms)
@@ -11198,7 +11198,7 @@
  - [https://www.nature.com/articles/d41586-022-00104-8](https://www.nature.com/articles/d41586-022-00104-8)
  - date published: 2022-01-18 09:45:12+00:00
  - user: rumpel
- - tags: ['science is dead', 'covid', 'lockdown', 'collateraldeaths', 'deathtoll']
+ - tags: ['science is dead', 'lockdown', 'covid collateral damage', 'covid', 'deathtoll']
 
 ## The curious case of the Raspberry Pi in the network closet
  - [https://blog.haschek.at/2019/the-curious-case-of-the-RasPi-in-our-network.html](https://blog.haschek.at/2019/the-curious-case-of-the-RasPi-in-our-network.html)
@@ -11601,4 +11601,10 @@
  - date published: 2022-01-01 11:38:22.700894+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Organized crime to remain primary security threat in Sweden throughout 2021 - Sweden Analysis | MAX Security
+ - [https://www.max-security.com/security-blog/organized-crime-to-remain-primary-security-threat-in-sweden-throughout-2021-sweden-analysis/](https://www.max-security.com/security-blog/organized-crime-to-remain-primary-security-threat-in-sweden-throughout-2021-sweden-analysis/)
+ - date published: 2022-01-01 07:26:15+00:00
+ - user: rumpel
+ - tags: ['sweden', 'immigration']
 

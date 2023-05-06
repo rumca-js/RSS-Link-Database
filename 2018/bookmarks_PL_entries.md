@@ -8,7 +8,7 @@
  - [https://www.wolniisolidarni.czest.pl/2018/10/23/jak-pieniadze-z-fozz-pomogly-kaczynskim/?doing_wp_cron=1676647021.7999219894409179687500](https://www.wolniisolidarni.czest.pl/2018/10/23/jak-pieniadze-z-fozz-pomogly-kaczynskim/?doing_wp_cron=1676647021.7999219894409179687500)
  - date published: 2018-10-23 20:09:11+00:00
  - user: rumpel
- - tags: ['fozz', 'folzmann', 'kaczynski']
+ - tags: ['jarosław kaczynski', 'fozz', 'michał folzmann']
 
 ## Huragan wokół wadliwych szczepionek. MZ: Nie jesteśmy w stanie pilnować każdej lodówki - GazetaPrawna.pl
  - [https://serwisy.gazetaprawna.pl/zdrowie/artykuly/1102427,wadliwe-szczepionki-w-polsce-mz.html](https://serwisy.gazetaprawna.pl/zdrowie/artykuly/1102427,wadliwe-szczepionki-w-polsce-mz.html)

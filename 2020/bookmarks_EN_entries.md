@@ -86,7 +86,7 @@
  - [https://www.axis.com/blog/secure-insights/surveillance-smarter-safer-city/](https://www.axis.com/blog/secure-insights/surveillance-smarter-safer-city/)
  - date published: 2020-12-21 12:04:50+00:00
  - user: None
- - tags: ['smart cirty', 'privacy']
+ - tags: ['smart city', 'privacy']
 
 ## How should you talk to friends and relatives who believe conspiracy theories? - BBC News
  - [https://www.bbc.com/news/blogs-trending-55350794](https://www.bbc.com/news/blogs-trending-55350794)
@@ -362,7 +362,7 @@
  - [https://www.urbanet.info/why-smart-city-data-treatens-citizens-right-to-privacy/](https://www.urbanet.info/why-smart-city-data-treatens-citizens-right-to-privacy/)
  - date published: 2020-11-18 12:04:50+00:00
  - user: None
- - tags: ['smart cirty', 'privacy']
+ - tags: ['smart city', 'privacy']
 
 ## Turn Off Gmail's 'Smart' Features to Avoid Tracking
  - [https://lifehacker.com/turn-off-gmails-smart-features-to-avoid-tracking-1845691806](https://lifehacker.com/turn-off-gmails-smart-features-to-avoid-tracking-1845691806)
@@ -754,6 +754,12 @@
  - user: rumpel
  - tags: ['black lives matter', 'defund the police', 'blm']
 
+## Berlin, Unfälle auf Autobahn A 100: Iraker verletzt 6 Menschen | Regional | BILD.de
+ - [https://www.bild.de/regional/berlin/berlin-aktuell/unfall-chaos-auf-a100-sprengstoff-alarm-auf-berliner-stadtautobahn-72457770.bild.html](https://www.bild.de/regional/berlin/berlin-aktuell/unfall-chaos-auf-a100-sprengstoff-alarm-auf-berliner-stadtautobahn-72457770.bild.html)
+ - date published: 2020-08-19 07:35:07+00:00
+ - user: rumpel
+ - tags: ['germany', 'immigration']
+
 ## Write Code as If You Had to Support It for the Rest of Your Life
  - [https://medium.com/oreillymedia/write-code-as-if-you-had-to-support-it-for-the-rest-of-your-life-a707d3442f1a](https://medium.com/oreillymedia/write-code-as-if-you-had-to-support-it-for-the-rest-of-your-life-a707d3442f1a)
  - date published: 2020-08-17 09:59:59+00:00
@@ -778,11 +784,35 @@
  - user: None
  - tags: ['linux', 'fbi', 'malware', 'nsa']
 
+## The federal government's premier nuclear research lab hosted a 3-day reeducation camp for white males
+ - [https://twitter.com/realchrisrufo/status/1293603172842221570](https://twitter.com/realchrisrufo/status/1293603172842221570)
+ - date published: 2020-08-12 08:56:27+00:00
+ - user: rumpel
+ - tags: ['big brother', 'propaganda', 'indoctrination', 'black lives matter']
+
 ## Why your 'Carbon Footprint' Is A Lie | Climate Town
  - [https://www.youtube.com/watch?v=1J9LOqiXdpE](https://www.youtube.com/watch?v=1J9LOqiXdpE)
  - date published: 2020-08-12 07:47:34+00:00
  - user: None
  - tags: ['climate change', 'carbon footprint', 'carbon emissions']
+
+## Black Lives Matter is a Domestic Terrorist Organization | Change My Mind
+ - [https://www.youtube.com/watch?v=yITK_Bm78mI](https://www.youtube.com/watch?v=yITK_Bm78mI)
+ - date published: 2020-08-11 00:00:00+00:00
+ - user: rumpel
+ - tags: ['extremism', 'terrorism', 'black lives matter']
+
+## The Leaked BLM School Materials Are Insane
+ - [https://www.youtube.com/watch?v=jyRjbK-yKSk](https://www.youtube.com/watch?v=jyRjbK-yKSk)
+ - date published: 2020-08-11 00:00:00+00:00
+ - user: rumpel
+ - tags: ['the left wing', 'indoctrination', 'black lives matter']
+
+## Public School Teachers Openly Fear Parents Overhearing the Leftist Brainwashing During Virtual Classroom Sessions – RedState
+ - [https://redstate.com/brandon_morse/2020/08/10/teachers-brainwash-n250658](https://redstate.com/brandon_morse/2020/08/10/teachers-brainwash-n250658)
+ - date published: 2020-08-10 08:51:56+00:00
+ - user: rumpel
+ - tags: ['the left wing', 'racism', 'america', 'indoctrination']
 
 ## 400+ Qualcomm Chip Vulnerabilities Threaten Millions of Android Phones
  - [https://www.darkreading.com/vulnerabilities---threats/400+-qualcomm-chip-vulnerabilities-threaten-millions-of-android-phones/d/d-id/1338613](https://www.darkreading.com/vulnerabilities---threats/400+-qualcomm-chip-vulnerabilities-threaten-millions-of-android-phones/d/d-id/1338613)
@@ -832,6 +862,18 @@
  - user: None
  - tags: $tags
 
+## Germany: Muslim migrant rapes 11-year-old girl, is released after a month, then rapes 13-year-old girl
+ - [https://www.jihadwatch.org/2020/07/germany-muslim-migrant-rapes-11-year-old-girl-is-released-after-a-month-then-rapes-13-year-old-girl](https://www.jihadwatch.org/2020/07/germany-muslim-migrant-rapes-11-year-old-girl-is-released-after-a-month-then-rapes-13-year-old-girl)
+ - date published: 2020-07-30 07:34:02+00:00
+ - user: rumpel
+ - tags: ['germany', 'rape', 'immigration']
+
+## Nigel Farage: The UK is housing 48,000 illegal migrants in hotels
+ - [https://www.youtube.com/watch?v=Y_rHVBE1bNk](https://www.youtube.com/watch?v=Y_rHVBE1bNk)
+ - date published: 2020-07-30 00:00:00+00:00
+ - user: rumpel
+ - tags: ['england', 'immigration']
+
 ## How George Soros broke the Bank of England | by Siddharth Singh | Zecide AI | Medium
  - [https://medium.com/zecide-ai/how-george-soros-broke-the-bank-of-england-891611e9d8a6](https://medium.com/zecide-ai/how-george-soros-broke-the-bank-of-england-891611e9d8a6)
  - date published: 2020-07-29 07:40:15+00:00
@@ -844,11 +886,23 @@
  - user: rumpel
  - tags: ['the left wing', 'paedophilia', 'inequality', 'lgbt']
 
+## MacKenzie Scott donates $1.7bn since Amazon boss divorce - BBC News
+ - [https://www.bbc.co.uk/news/business-53574954](https://www.bbc.co.uk/news/business-53574954)
+ - date published: 2020-07-28 08:41:39+00:00
+ - user: rumpel
+ - tags: ['mackenzie scott', 'black lives matter', 'jeff bezos', 'amazon']
+
 ## INSANE: Netflix Pushes Trans Propaganda On KIDS Show; Shapiro Responds
  - [https://www.youtube.com/watch?v=HxbOM6swuTg](https://www.youtube.com/watch?v=HxbOM6swuTg)
  - date published: 2020-07-27 09:07:25+00:00
  - user: rumpel
  - tags: ['the left wing', 'netflix']
+
+## 'I feel like I need to buy a firearm': Radio host who mocked Trump for demanding rioting in Seattle stop sees his apartment building damaged | Washington Examiner
+ - [https://www.washingtonexaminer.com/news/i-feel-like-i-need-to-buy-a-firearm-radio-host-who-mocked-trump-for-demanding-rioting-in-seattle-stop-sees-his-apartment-building-damaged](https://www.washingtonexaminer.com/news/i-feel-like-i-need-to-buy-a-firearm-radio-host-who-mocked-trump-for-demanding-rioting-in-seattle-stop-sees-his-apartment-building-damaged)
+ - date published: 2020-07-27 08:57:31+00:00
+ - user: rumpel
+ - tags: ['prostests', 'the left wing', 'black lives matter']
 
 ## Moderna gets further $472 million U.S. award for coronavirus vaccine development | Reuters
  - [https://www.reuters.com/article/us-health-coronavirus-moderna-funding-idUSKCN24R0IN](https://www.reuters.com/article/us-health-coronavirus-moderna-funding-idUSKCN24R0IN)
@@ -909,6 +963,24 @@
  - date published: 2020-07-14 09:01:59+00:00
  - user: rumpel
  - tags: ['the left wing', 'lgbt', 'inequality', 'bafta']
+
+## ‘Black Lives Matter activists’ flood murdered ‘All Lives Matter’ mom’s social media pages with mocking messages – The US Sun | The US Sun
+ - [https://www.the-sun.com/news/1137649/indiana-mom-all-black-lives-matter-shot-facebook/](https://www.the-sun.com/news/1137649/indiana-mom-all-black-lives-matter-shot-facebook/)
+ - date published: 2020-07-14 08:47:50+00:00
+ - user: rumpel
+ - tags: ['hypocrisy', 'racism', 'all lives matter', 'black lives matter']
+
+## George Soros’s Foundation Pours $220 Million Into Racial Equality Push - The New York Times
+ - [https://www.nytimes.com/2020/07/13/us/politics/george-soros-racial-justice-organizations.html](https://www.nytimes.com/2020/07/13/us/politics/george-soros-racial-justice-organizations.html)
+ - date published: 2020-07-13 08:43:45+00:00
+ - user: rumpel
+ - tags: ['george soros', 'inequality', 'black lives matter']
+
+## They Don't Want You To Know: Reddit Mods Remove Viral GP Article About Woman Murdered for Saying 'All Lives Matter' | The Gateway Pundit | by Cassandra MacDonald
+ - [https://www.thegatewaypundit.com/2020/07/dont-want-know-reddit-mods-remove-viral-article-woman-murdered-saying-lives-matter/](https://www.thegatewaypundit.com/2020/07/dont-want-know-reddit-mods-remove-viral-article-woman-murdered-saying-lives-matter/)
+ - date published: 2020-07-12 08:46:19+00:00
+ - user: rumpel
+ - tags: ['technofeudalism', 'black lives matter', 'censorship', 'all lives matter', 'reddit']
 
 ## McCloskey case: Police seize gun at home of St. Louis couple who pointed weapons at protesters
  - [https://www.cbsnews.com/news/mark-patricia-mccloskey-guns-seized-at-st-louis-home-couple-who-pointed-weapons-at-protesters/](https://www.cbsnews.com/news/mark-patricia-mccloskey-guns-seized-at-st-louis-home-couple-who-pointed-weapons-at-protesters/)
@@ -1054,11 +1126,23 @@
  - user: rumpel
  - tags: ['protest', 'culture', 'blm', 'black lives matter']
 
+## If You Don’t Support Black Lives Matter, You're Fired
+ - [https://thefederalist.com/2020/06/11/if-you-dont-support-black-lives-matter-youre-fired/](https://thefederalist.com/2020/06/11/if-you-dont-support-black-lives-matter-youre-fired/)
+ - date published: 2020-06-11 08:47:08+00:00
+ - user: rumpel
+ - tags: ['propaganda', 'black lives matter', 'manufacturing consent']
+
+## #ShutDownSTEM - MIT School of Science
+ - [https://science.mit.edu/shutdownstem](https://science.mit.edu/shutdownstem)
+ - date published: 2020-06-10 08:54:37+00:00
+ - user: rumpel
+ - tags: ['science is dead', 'science is racist', 'math is racist', 'the left wing', 'propaganda']
+
 ## How To install Webmin On Raspberry Pi OS (For Remote Administration) - Smart Home Pursuits
  - [https://smarthomepursuits.com/install-webmin-on-raspberry-pi-for-web-based-administration/](https://smarthomepursuits.com/install-webmin-on-raspberry-pi-for-web-based-administration/)
  - date published: 2020-06-09 10:44:56+00:00
  - user: rumpel
- - tags: ['webmin', 'selfhost', 'linux', 'smarthome']
+ - tags: ['webmin', 'selfhost', 'linux', 'smart home']
 
 ## 'Big concerns' over Gates foundation's potential to become largest WHO donor
  - [https://www.devex.com/news/big-concerns-over-gates-foundation-s-potential-to-become-largest-who-donor-97377](https://www.devex.com/news/big-concerns-over-gates-foundation-s-potential-to-become-largest-who-donor-97377)
@@ -1322,7 +1406,7 @@
  - [https://www.techradar.com/news/your-smart-speaker-could-be-accidentally-listening-in-on-your-conversations](https://www.techradar.com/news/your-smart-speaker-could-be-accidentally-listening-in-on-your-conversations)
  - date published: 2020-02-26 20:50:35+00:00
  - user: None
- - tags: ['vulnerability', 'iot', 'privacy', 'smarthome']
+ - tags: ['vulnerability', 'iot', 'privacy', 'smart home']
 
 ## Prince Andrew Linked to Another 'Predator': Alleged Pedophile and Rapist Peter Nygard
  - [https://humansbefree.com/2020/02/prince-andrew-peter-nygard.html](https://humansbefree.com/2020/02/prince-andrew-peter-nygard.html)

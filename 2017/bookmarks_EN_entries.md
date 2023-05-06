@@ -116,7 +116,7 @@
  - [https://isgp-studies.com/immigration-white-guilt-warfare-manual](https://isgp-studies.com/immigration-white-guilt-warfare-manual)
  - date published: 2017-09-29 12:11:46+00:00
  - user: rumpel
- - tags: ['immigration', 'propaganda', 'hate speech']
+ - tags: ['hate speech', 'the right wing', 'immigration', 'propaganda']
 
 ## Is Reality Real? The Simulation Argument
  - [https://www.youtube.com/watch?v=tlTKTTt47WE](https://www.youtube.com/watch?v=tlTKTTt47WE)
@@ -146,7 +146,7 @@
  - [https://www.youtube.com/watch?v=VIW2OBOzu7Y](https://www.youtube.com/watch?v=VIW2OBOzu7Y)
  - date published: 2017-09-06 12:36:58+00:00
  - user: rumpel
- - tags: ['google', 'damore', 'joe rogan', 'feminism']
+ - tags: ['google', 'james damore', 'joe rogan', 'feminism']
 
 ## Dennis Meadows Interview p4/4 (A 'peaceful collapse' & many revolutions...)
  - [https://www.youtube.com/watch?v=Dbo6uvJBtZg](https://www.youtube.com/watch?v=Dbo6uvJBtZg)
@@ -212,7 +212,7 @@
  - [https://www.businessinsider.com/james-damore-wrote-his-memo-after-attending-a-google-diversity-programme-2017-8?IR=T](https://www.businessinsider.com/james-damore-wrote-his-memo-after-attending-a-google-diversity-programme-2017-8?IR=T)
  - date published: 2017-08-09 14:56:41+00:00
  - user: rumpel
- - tags: ['inequality', 'feminism', 'google', 'damore']
+ - tags: ['inequality', 'feminism', 'google', 'james damore']
 
 ## How big brands including Sports Direct unwittingly used slave labour
  - [https://www.theguardian.com/global-development/2017/aug/08/how-big-brands-including-sports-direct-unwittingly-used-slave-labour](https://www.theguardian.com/global-development/2017/aug/08/how-big-brands-including-sports-direct-unwittingly-used-slave-labour)
@@ -328,6 +328,12 @@
  - user: rumpel
  - tags: ['george soros']
 
+## Why Muslims are the world’s fastest-growing religious group | Pew Research Center
+ - [https://www.pewresearch.org/fact-tank/2017/04/06/why-muslims-are-the-worlds-fastest-growing-religious-group](https://www.pewresearch.org/fact-tank/2017/04/06/why-muslims-are-the-worlds-fastest-growing-religious-group)
+ - date published: 2017-04-06 07:41:04+00:00
+ - user: rumpel
+ - tags: ['religion', 'islam']
+
 ## Pepsi advert with Kendall Jenner pulled after huge backlash | The Independent | The Independent
  - [https://www.independent.co.uk/arts-entertainment/tv/news/pepsi-advert-pulled-kendall-jenner-protest-video-cancelled-removed-a7668986.html](https://www.independent.co.uk/arts-entertainment/tv/news/pepsi-advert-pulled-kendall-jenner-protest-video-cancelled-removed-a7668986.html)
  - date published: 2017-04-05 11:58:05+00:00
@@ -374,7 +380,7 @@
  - [https://money.cnn.com/2017/03/09/technology/cia-smart-tv-wikileaks-public-hacks/](https://money.cnn.com/2017/03/09/technology/cia-smart-tv-wikileaks-public-hacks/)
  - date published: 2017-03-09 08:46:05+00:00
  - user: rumpel
- - tags: ['iot', 'privacy', 'tracking', 'smarthome']
+ - tags: ['iot', 'privacy', 'tracking', 'smart home']
 
 ## FBI: 'No such thing as absolute privacy'
  - [http://www.cnn.com/2017/03/08/politics/james-comey-privacy-cybersecurity/index.html](http://www.cnn.com/2017/03/08/politics/james-comey-privacy-cybersecurity/index.html)

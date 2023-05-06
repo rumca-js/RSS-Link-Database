@@ -10,6 +10,12 @@
  - user: rumpel
  - tags: ['covid', 'sars']
 
+## Is Islam A Dangerous Religion?
+ - [https://www.youtube.com/watch?v=4hJ0lsQvLiQ](https://www.youtube.com/watch?v=4hJ0lsQvLiQ)
+ - date published: 2014-11-27 00:00:00+00:00
+ - user: rumpel
+ - tags: ['religion', 'islam']
+
 ## Can Google be trusted?
  - [http://edition.cnn.com/2014/11/10/opinion/google-new-mission-statement/index.html?eref=edition](http://edition.cnn.com/2014/11/10/opinion/google-new-mission-statement/index.html?eref=edition)
  - date published: 2014-11-10 14:48:05+00:00
@@ -27,6 +33,12 @@
  - date published: 2014-10-30 19:52:34+00:00
  - user: rumpel
  - tags: ['religion', 'evolution']
+
+## How strong is the link between faith and terrorism?
+ - [http://edition.cnn.com/2014/10/26/opinion/aslan-islam-doesnt-cause-terrorism/index.html?eref=edition](http://edition.cnn.com/2014/10/26/opinion/aslan-islam-doesnt-cause-terrorism/index.html?eref=edition)
+ - date published: 2014-10-26 20:33:30+00:00
+ - user: rumpel
+ - tags: ['religion', 'islam', 'terrorism']
 
 ## White House halts funding on risky flu studies | Reuters
  - [https://www.reuters.com/article/us-biosafety-research-usa-idUSKCN0I91ZD20141020](https://www.reuters.com/article/us-biosafety-research-usa-idUSKCN0I91ZD20141020)
@@ -177,6 +189,12 @@
  - date published: 2014-04-01 11:11:39+00:00
  - user: rumpel
  - tags: ['vulnerability', 'heartbleed']
+
+## Nigeria’s Boko Haram targets Christian town and fishing village in latest attacks
+ - [http://edition.cnn.com/2014/02/16/world/africa/nigeria-boko-haram-attacks/index.html?eref=edition](http://edition.cnn.com/2014/02/16/world/africa/nigeria-boko-haram-attacks/index.html?eref=edition)
+ - date published: 2014-02-17 09:23:02+00:00
+ - user: rumpel
+ - tags: ['christianophobia', 'islam', 'nigeria']
 
 ## Judge rules that Kansan who provided sperm to lesbian couple owes child support  Read more at: https://www.kansascity.com/news/local/article337100.html#storylink=cpy
  - [https://www.kansascity.com/news/local/article337100.html](https://www.kansascity.com/news/local/article337100.html)

@@ -32,7 +32,7 @@
  - [https://bigthink.com/strange-maps/coudenhove-kalergi-map/](https://bigthink.com/strange-maps/coudenhove-kalergi-map/)
  - date published: 2019-12-12 10:19:51+00:00
  - user: rumpel
- - tags: ['european union', 'coudenhove-kalergi']
+ - tags: ['european union', 'coudenhove-kalergi', 'the right wing']
 
 ## Russian police raid NGINX Moscow office | ZDNET
  - [https://www.zdnet.com/article/russian-police-raid-nginx-moscow-office/](https://www.zdnet.com/article/russian-police-raid-nginx-moscow-office/)

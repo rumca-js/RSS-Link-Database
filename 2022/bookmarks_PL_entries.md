@@ -1232,7 +1232,7 @@
  - [https://kempinsky.pl/kafka-i-lalka/](https://kempinsky.pl/kafka-i-lalka/)
  - date published: 2022-07-28 20:01:02+00:00
  - user: rumpel
- - tags: ['kafka', 'franz kafka']
+ - tags: ['franz kafka']
 
 ## Ukraina bezgotówkowa i wspierana całkowicie przez AI. "Niezniszczalny cyfrowo europejski Izrael"
  - [https://ithardware.pl/aktualnosci/ukraina_bezgotowkowa_i_wspierana_calkowicie_przez_ai_niezniszczalny_cyfrowo_europejski_izrael-22328.html](https://ithardware.pl/aktualnosci/ukraina_bezgotowkowa_i_wspierana_calkowicie_przez_ai_niezniszczalny_cyfrowo_europejski_izrael-22328.html)

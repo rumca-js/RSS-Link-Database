@@ -28,6 +28,12 @@
  - user: rumpel
  - tags: ['protest', 'billionaires', 'occupy wall street']
 
+## Christian Crusader | Southern Poverty Law Center
+ - [https://www.splcenter.org/fighting-hate/intelligence-report/2015/christian-crusader](https://www.splcenter.org/fighting-hate/intelligence-report/2015/christian-crusader)
+ - date published: 2011-08-24 07:52:21+00:00
+ - user: rumpel
+ - tags: ['extremism', 'religion', 'anders breivik']
+
 ## Pfizer pays out to Nigerian families of meningitis drug trial victims | Nigeria | The Guardian
  - [https://www.theguardian.com/world/2011/aug/11/pfizer-nigeria-meningitis-drug-compensation](https://www.theguardian.com/world/2011/aug/11/pfizer-nigeria-meningitis-drug-compensation)
  - date published: 2011-08-12 07:10:26+00:00
