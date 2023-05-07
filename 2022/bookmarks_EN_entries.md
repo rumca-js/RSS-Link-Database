@@ -2170,6 +2170,12 @@
  - user: None
  - tags: ['internet', 'internet rot', 'wikileaks']
 
+## Syphilis in England, 2019 to 2021 - GOV.UK
+ - [https://www.gov.uk/government/publications/syphilis-quarterly-data-for-england/syphilis-in-england-2019-to-2021](https://www.gov.uk/government/publications/syphilis-quarterly-data-for-england/syphilis-in-england-2019-to-2021)
+ - date published: 2022-11-22 19:53:13+00:00
+ - user: rumpel
+ - tags: ['england', 'homosexuality', 'syphilis']
+
 ## Scary! CCP is to impose a communal lifestyle. A planned economy is about to go full swing
  - [https://www.youtube.com/watch?v=0KY29wZD1mg](https://www.youtube.com/watch?v=0KY29wZD1mg)
  - date published: 2022-11-22 18:45:10+00:00
@@ -2679,6 +2685,12 @@
  - date published: 2022-11-08 21:20:00+00:00
  - user: rumpel
  - tags: ['tracking', 'privacy', 'big tech', 'apple']
+
+## Sweden Wins! Country That Refused Lockdown and Kept Schools Open Has Lowest Pandemic Mortality in the World – The Daily Sceptic
+ - [https://dailysceptic.org/2022/11/08/sweden-wins-country-that-refused-lockdown-and-kept-schools-open-has-lowest-pandemic-cumulative-excess-mortality-in-the-world/](https://dailysceptic.org/2022/11/08/sweden-wins-country-that-refused-lockdown-and-kept-schools-open-has-lowest-pandemic-cumulative-excess-mortality-in-the-world/)
+ - date published: 2022-11-08 19:59:46+00:00
+ - user: rumpel
+ - tags: ['science is dead', 'lockdown', 'covid']
 
 ## The Lie That Facebook Sold You
  - [https://havenweb.org/2022/11/02/facebook-lie.html](https://havenweb.org/2022/11/02/facebook-lie.html)
@@ -3316,6 +3328,12 @@
  - user: None
  - tags: ['work']
 
+## HIV Rates Among Gay And Bisexual Men In London – Sdlgbtn
+ - [https://www.sdlgbtn.com/hiv-rates-among-gay-and-bisexual-men-in-london/](https://www.sdlgbtn.com/hiv-rates-among-gay-and-bisexual-men-in-london/)
+ - date published: 2022-10-30 19:51:50+00:00
+ - user: rumpel
+ - tags: ['the left wing', 'homosexuality']
+
 ## Islamic extremism in UK is 'a bigger issue than we are willing to accept', Home Office source claims
  - [https://www.dailymail.co.uk/news/article-11371013/Islamic-extremism-UK-bigger-issue-willing-accept-Home-Office-source-claims.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11371013/Islamic-extremism-UK-bigger-issue-willing-accept-Home-Office-source-claims.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2022-10-30 18:39:30+00:00
@@ -3579,6 +3597,12 @@
  - date published: 2022-10-27 20:44:28+00:00
  - user: None
  - tags: ['ad business', 'google']
+
+## HIV & AIDS Trends and U.S. Statistics Overview | HIV.gov
+ - [https://www.hiv.gov/hiv-basics/overview/data-and-trends/statistics/](https://www.hiv.gov/hiv-basics/overview/data-and-trends/statistics/)
+ - date published: 2022-10-27 19:48:03+00:00
+ - user: rumpel
+ - tags: ['the left wing', 'homosexuality']
 
 ## FBI Whistleblower Leaks Document To Project Veritas Showing Agency Allegedly Labeling ‘Misinformation’ Under ‘Election Crimes’
  - [https://www.dailywire.com/news/fbi-whistleblower-leaks-document-to-project-veritas-showing-agency-allegedly-labeling-misinformation-under-election-crimes](https://www.dailywire.com/news/fbi-whistleblower-leaks-document-to-project-veritas-showing-agency-allegedly-labeling-misinformation-under-election-crimes)
@@ -8356,6 +8380,12 @@
  - user: rumpel
  - tags: ['search engines', 'ad business']
 
+## CDC investigates 'one of the worst outbreaks of meningococcal disease' in US history among gay and bisexual men in Florida | CNN
+ - [https://edition.cnn.com/2022/06/22/health/florida-meningococcal-disease-outbreak/index.html](https://edition.cnn.com/2022/06/22/health/florida-meningococcal-disease-outbreak/index.html)
+ - date published: 2022-06-23 19:54:01+00:00
+ - user: rumpel
+ - tags: ['the left wing', 'homosexuality']
+
 ## Observations on 6 years of journaling | ᕕ( ᐛ )ᕗ Herman's blog
  - [https://herman.bearblog.dev/years-of-journaling/](https://herman.bearblog.dev/years-of-journaling/)
  - date published: 2022-06-23 17:23:55.838223+00:00
@@ -10666,17 +10696,11 @@
  - user: Thomas Pain
  - tags: $tags
 
-## Key Senators Have Voted For The Anti-Encryption EARN IT Act | Electronic Frontier Foundation
- - [https://www.eff.org/deeplinks/2022/02/key-senators-have-voted-anti-encryption-earn-it-act](https://www.eff.org/deeplinks/2022/02/key-senators-have-voted-anti-encryption-earn-it-act)
- - date published: 2022-02-12 08:54:19.393944+00:00
- - user: Thomas Pain
- - tags: $tags
-
 ## Senator Blumenthal, After Years Of Denial, Admits He's Targeting Encryption With EARN IT | Techdirt
  - [https://www.techdirt.com/articles/20220210/09311048445/senator-blumenthal-after-years-denial-admits-hes-targeting-encryption-with-earn-it.shtml](https://www.techdirt.com/articles/20220210/09311048445/senator-blumenthal-after-years-denial-admits-hes-targeting-encryption-with-earn-it.shtml)
  - date published: 2022-02-12 08:54:04.706807+00:00
  - user: Thomas Pain
- - tags: $tags
+ - tags: ['earn it act', 'big brother', 'crypto wars', 'government control']
 
 ## Rights watchdog 'should lose status' over trans row - BBC News
  - [https://www.bbc.co.uk/news/education-60331962](https://www.bbc.co.uk/news/education-60331962)

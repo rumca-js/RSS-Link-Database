@@ -154,6 +154,12 @@
  - user: rumpel
  - tags: ['propaganda', 'covid', 'hate speech']
 
+## Prof. Simon: Ci pacjenci, którzy wcześniej nie wierzyli w COVID, potem pięć razy dziennie pytają mnie, czy będą żyli | WP abcZdrowie
+ - [https://portal.abczdrowie.pl/prof-simon-jestem-zwolennikiem-radykalnych-metod](https://portal.abczdrowie.pl/prof-simon-jestem-zwolennikiem-radykalnych-metod)
+ - date published: 2021-07-11 20:05:32+00:00
+ - user: rumpel
+ - tags: ['fearmongering', 'covid', 'propaganda']
+
 ## Zostałem szczepionkowym rasistą. „Ludzie w pełni zaszczepieni powinni mieć specjalne przywileje”
  - [https://www.wprost.pl/kraj/10467413/zostalem-szczepionkowym-rasista-zaszczepieni-powinni-miec-przywileje.html](https://www.wprost.pl/kraj/10467413/zostalem-szczepionkowym-rasista-zaszczepieni-powinni-miec-przywileje.html)
  - date published: 2021-07-09 21:53:19+00:00
@@ -243,6 +249,12 @@
  - date published: 2021-04-07 08:20:36+00:00
  - user: None
  - tags: ['cbdc', 'digital yuan']
+
+## Prof. Krzysztof Simon o liczbie zgon�w: B�yskawicznie d��ymy do statystyk z wrze�nia 1939 roku
+ - [https://wiadomosci.gazeta.pl/wiadomosci/7,173952,26952224,prof-krzysztof-simon-o-liczbie-zgonow-blyskawicznie-dazymy.html](https://wiadomosci.gazeta.pl/wiadomosci/7,173952,26952224,prof-krzysztof-simon-o-liczbie-zgonow-blyskawicznie-dazymy.html)
+ - date published: 2021-04-06 20:01:07+00:00
+ - user: rumpel
+ - tags: ['covid', 'propaganda']
 
 ## W 2018 r. dyplomaci ostrzegali przed eksperymentami z koronawirusem w Wuhan. Nikt ich nie słuchał
  - [https://wiadomosci.onet.pl/politico/koronawirus-w-2018-r-dyplomaci-ostrzegali-przed-eksperymentami-w-wuhan/y6ywbv9](https://wiadomosci.onet.pl/politico/koronawirus-w-2018-r-dyplomaci-ostrzegali-przed-eksperymentami-w-wuhan/y6ywbv9)

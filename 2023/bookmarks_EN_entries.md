@@ -1,8 +1,20 @@
+## Click Click Click
+ - [https://clickclickclick.click/](https://clickclickclick.click/)
+ - date published: 2023-05-06 14:26:02+00:00
+ - user: rumpel
+ - tags: ['funny', 'project']
+
 ## Immigration and crime - Wikipedia
  - [https://en.wikipedia.org/wiki/Immigration_and_crime](https://en.wikipedia.org/wiki/Immigration_and_crime)
  - date published: 2023-05-05 10:07:21+00:00
  - user: rumpel
  - tags: ['immigration']
+
+## India bans Element – the flagship client for the Matrix network
+ - [https://element.io/blog/india-bans-flagship-client-for-the-matrix-network/](https://element.io/blog/india-bans-flagship-client-for-the-matrix-network/)
+ - date published: 2023-05-05 09:15:40+00:00
+ - user: rumpel
+ - tags: ['privacy', 'crypto wars', 'government control', 'india', 'element']
 
 ## List of Islamist terrorist attacks - Wikipedia
  - [https://en.wikipedia.org/wiki/List_of_Islamist_terrorist_attacks](https://en.wikipedia.org/wiki/List_of_Islamist_terrorist_attacks)
@@ -14,7 +26,7 @@
  - [https://tutanota.com/blog/posts/earn-it-barr-encryption](https://tutanota.com/blog/posts/earn-it-barr-encryption)
  - date published: 2023-05-05 06:54:34+00:00
  - user: rumpel
- - tags: ['earn it act', 'surveillance']
+ - tags: ['earn it act', 'big brother', 'surveillance', 'government control']
 
 ## JPMorgan Chase is warned to back off political and ideological censorship
  - [https://reclaimthenet.org/jpmorgan-chase-is-warned-to-back-off-political-and-ideological-censorship](https://reclaimthenet.org/jpmorgan-chase-is-warned-to-back-off-political-and-ideological-censorship)
@@ -26,7 +38,7 @@
  - [https://www.youtube.com/watch?v=n1S7PSyrvSs](https://www.youtube.com/watch?v=n1S7PSyrvSs)
  - date published: 2023-05-04 19:13:37+00:00
  - user: rumpel
- - tags: ['earn it act', 'surveillance']
+ - tags: ['earn it act', 'big brother', 'surveillance', 'government control']
 
 ## The Twitter Files: Behind the Scenes | David Zweig | EP 354
  - [https://www.youtube.com/watch?v=sz_8B3vCjGk](https://www.youtube.com/watch?v=sz_8B3vCjGk)
@@ -100,6 +112,12 @@
  - user: rumpel
  - tags: ['dyi', 'framework']
 
+## MSFT is forcing Outlook and Teams to open links in Edge and IT admins are angry
+ - [https://www.theverge.com/2023/5/3/23709297/microsoft-edge-force-outlook-teams-web-links-open](https://www.theverge.com/2023/5/3/23709297/microsoft-edge-force-outlook-teams-web-links-open)
+ - date published: 2023-05-03 09:47:15+00:00
+ - user: rumpel
+ - tags: ['microsoft', 'windows', 'dark design']
+
 ## caroline: Tiny Desk Concert
  - [https://www.youtube.com/watch?v=r_PNkXFdTog](https://www.youtube.com/watch?v=r_PNkXFdTog)
  - date published: 2023-05-03 09:00:36+00:00
@@ -129,6 +147,12 @@
  - date published: 2023-05-02 22:24:57+00:00
  - user: rumpel
  - tags: ['yuval noah harari', 'artificial intelligence']
+
+## Elon Musk Dunks on ‘Woke’ Vice’s Looming Bankruptcy
+ - [https://www.thedailybeast.com/elon-musk-dunks-on-woke-vices-looming-bankruptcy](https://www.thedailybeast.com/elon-musk-dunks-on-woke-vices-looming-bankruptcy)
+ - date published: 2023-05-02 19:56:00+00:00
+ - user: rumpel
+ - tags: ['go woke go broke', 'the left wing', 'vice']
 
 ## Ireland’s plan to criminalize “hate speech” takes a “guilty until proven innocent” approach
  - [https://reclaimthenet.org/irelands-plan-to-criminalize-hate-speech](https://reclaimthenet.org/irelands-plan-to-criminalize-hate-speech)
@@ -224,7 +248,7 @@
  - [https://reclaimthenet.org/telegram-ceo-tells-brazils-government-its-censorship-demands-are-impossible](https://reclaimthenet.org/telegram-ceo-tells-brazils-government-its-censorship-demands-are-impossible)
  - date published: 2023-04-29 15:08:17+00:00
  - user: rumpel
- - tags: ['brasil', 'surveillance', 'big brother', 'censorship', 'telegram', 'privacy']
+ - tags: ['privacy', 'telegram', 'censorship', 'crypto wars', 'brasil', 'big brother', 'surveillance']
 
 ## Internet in a Box
  - [https://internet-in-a-box.org/](https://internet-in-a-box.org/)

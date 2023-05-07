@@ -1,3 +1,9 @@
+## Ewa Kopacz accused of being anti NEW WORLD ORDER because she is concerned about the H1N1 vaccination
+ - [https://www.youtube.com/watch?v=yn3ElOkqND0](https://www.youtube.com/watch?v=yn3ElOkqND0)
+ - date published: 2009-11-17 00:00:00+00:00
+ - user: rumpel
+ - tags: ['swine flu', 'vaccine']
+
 ## Pfizer zapłaci 2,3 mld dolarów kary - Forsal.pl
  - [https://forsal.pl/artykuly/349186,pfizer-zaplaci-23-mld-dolarow-kary.html](https://forsal.pl/artykuly/349186,pfizer-zaplaci-23-mld-dolarow-kary.html)
  - date published: 2009-09-03 20:08:34+00:00

@@ -4,6 +4,24 @@
  - user: rumpel
  - tags: ['pfizer', 'big pharma']
 
+## Swine flu could kill 40 Britons a day by end of summer, says chief medical officer | Daily Mail Online
+ - [https://www.dailymail.co.uk/news/article-1197054/Swine-flu-kill-40-Britons-day-end-summer-says-chief-medical-officer.html](https://www.dailymail.co.uk/news/article-1197054/Swine-flu-kill-40-Britons-day-end-summer-says-chief-medical-officer.html)
+ - date published: 2009-07-04 20:13:44+00:00
+ - user: rumpel
+ - tags: ['fearmongering', 'swine flu']
+
+## Teenager is fourth person in UK to die from swine flu | Swine flu | The Guardian
+ - [https://www.theguardian.com/world/2009/jul/03/swine-flu-london-teenager-death](https://www.theguardian.com/world/2009/jul/03/swine-flu-london-teenager-death)
+ - date published: 2009-07-03 20:15:13+00:00
+ - user: rumpel
+ - tags: ['fearmongering', 'swine flu']
+
+## WHO declares swine flu pandemic | Swine flu | The Guardian
+ - [https://www.theguardian.com/world/2009/jun/11/swine-flu-pandemic-who-declares](https://www.theguardian.com/world/2009/jun/11/swine-flu-pandemic-who-declares)
+ - date published: 2009-06-11 20:14:29+00:00
+ - user: rumpel
+ - tags: ['pandemic', 'who', 'swine flu']
+
 ## The Future of Artificial Intelligence - The New York Times
  - [https://www.nytimes.com/2009/05/24/weekinreview/24markoff.html](https://www.nytimes.com/2009/05/24/weekinreview/24markoff.html)
  - date published: 2009-05-23 07:17:54+00:00
@@ -15,4 +33,10 @@
  - date published: 2009-05-07 21:30:07+00:00
  - user: rumpel
  - tags: ['paedophilia', 'the left wing', 'lgbt']
+
+## First Mexico fatal flu victim sought help for days | Reuters
+ - [https://www.reuters.com/article/us-flu-mexico-sb-idUSTRE53S93K20090429](https://www.reuters.com/article/us-flu-mexico-sb-idUSTRE53S93K20090429)
+ - date published: 2009-04-29 20:15:58+00:00
+ - user: rumpel
+ - tags: ['pandemic', 'swine flu', 'mexico']
 

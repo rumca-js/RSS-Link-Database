@@ -574,6 +574,12 @@
  - user: rumpel
  - tags: ['artificial intelligence']
 
+## 'How to sell an epidemic': a Marc Van Ranst conspiracy theory, explained
+ - [https://www.brusselstimes.com/155486/how-to-sell-an-epidemic-a-marc-van-ranst-conspiracy-theory-explained-chatham-house-pandemic-vlaams-belang-h1n1](https://www.brusselstimes.com/155486/how-to-sell-an-epidemic-a-marc-van-ranst-conspiracy-theory-explained-chatham-house-pandemic-vlaams-belang-h1n1)
+ - date published: 2019-05-06 20:21:22+00:00
+ - user: rumpel
+ - tags: ['fearmongering', 'swine flu', 'covid', 'propaganda']
+
 ## Pre-teen “Drag Kids” highlight just how fast our culture has crumbled
  - [https://thebridgehead.ca/2019/04/30/pre-teen-drag-kids-highlight-just-how-fast-our-culture-has-crumbled](https://thebridgehead.ca/2019/04/30/pre-teen-drag-kids-highlight-just-how-fast-our-culture-has-crumbled)
  - date published: 2019-04-30 22:11:33+00:00

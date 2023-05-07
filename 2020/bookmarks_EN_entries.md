@@ -448,6 +448,12 @@
  - user: rumpel
  - tags: ['transhumanism']
 
+## Covid-19 Deaths: The Price for Not Wearing Masks is Perhaps 130,000 Lives - The New York Times
+ - [https://www.nytimes.com/2020/10/23/health/covid-deaths.html](https://www.nytimes.com/2020/10/23/health/covid-deaths.html)
+ - date published: 2020-10-23 19:41:35+00:00
+ - user: rumpel
+ - tags: ['covid', 'masks']
+
 ## The Heinous Background of WHO Director-General Tedros Adhanom Ghebreyesus
  - [https://www.rodefshalom613.org/2020/10/the-heinous-background-of-who-director-general-tedros-adhanom-ghebreyesus/](https://www.rodefshalom613.org/2020/10/the-heinous-background-of-who-director-general-tedros-adhanom-ghebreyesus/)
  - date published: 2020-10-23 18:41:12+00:00

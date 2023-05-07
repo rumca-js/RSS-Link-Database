@@ -76,6 +76,12 @@
  - user: rumpel
  - tags: ['surveillance', 'facebook', 'dark design', 'tracking', 'technofeudalism', 'privacy', 'big tech']
 
+## Reconstruction of a Mass Hysteria: The Swine Flu Panic of 2009 - DER SPIEGEL
+ - [https://www.spiegel.de/international/world/reconstruction-of-a-mass-hysteria-the-swine-flu-panic-of-2009-a-682613.html](https://www.spiegel.de/international/world/reconstruction-of-a-mass-hysteria-the-swine-flu-panic-of-2009-a-682613.html)
+ - date published: 2010-03-12 20:08:00+00:00
+ - user: rumpel
+ - tags: ['fearmongering', 'swine flu', 'mass formation psychosis']
+
 ## Face masks to prevent transmission of influenza virus: a systematic review | Epidemiology & Infection | Cambridge Core
  - [https://www.cambridge.org/core/journals/epidemiology-and-infection/article/face-masks-to-prevent-transmission-of-influenza-virus-a-systematic-review/64D368496EBDE0AFCC6639CCC9D8BC05](https://www.cambridge.org/core/journals/epidemiology-and-infection/article/face-masks-to-prevent-transmission-of-influenza-virus-a-systematic-review/64D368496EBDE0AFCC6639CCC9D8BC05)
  - date published: 2010-01-22 15:33:49+00:00

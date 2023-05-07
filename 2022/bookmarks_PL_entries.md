@@ -266,7 +266,7 @@
  - [https://teleshow.wp.pl/jerzy-owsiak-przegral-proces-barbara-piela-moje-serce-powoli-umiera-6826854577212320a](https://teleshow.wp.pl/jerzy-owsiak-przegral-proces-barbara-piela-moje-serce-powoli-umiera-6826854577212320a)
  - date published: 2022-11-01 08:18:37+00:00
  - user: None
- - tags: ['owsiak', 'wielka orkiestra']
+ - tags: ['wielka orkiestra', 'jerzy owsiak']
 
 ## MFW: Inflacja w Polsce w 2023 będzie drugą najwyższą w Europie po Turcji
  - [https://www.wykop.pl/link/6882365/mfw-inflacja-w-polsce-w-2023-bedzie-druga-najwyzsza-w-europie-po-turcji/](https://www.wykop.pl/link/6882365/mfw-inflacja-w-polsce-w-2023-bedzie-druga-najwyzsza-w-europie-po-turcji/)
@@ -1275,6 +1275,12 @@
  - date published: 2022-04-02 22:17:08.617713+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Ponad 2 mln Ukraińców trafiło do Polski, są słabo wyszczepieni. Co dalej z epidemią?
+ - [https://www.medonet.pl/koronawirus/koronawirus-w-polsce,w-polsce-sa-2-mln-ukraincow--slabo-zaszczepionych--zakazenia-wzrosna-,artykul,05474959.html](https://www.medonet.pl/koronawirus/koronawirus-w-polsce,w-polsce-sa-2-mln-ukraincow--slabo-zaszczepionych--zakazenia-wzrosna-,artykul,05474959.html)
+ - date published: 2022-03-21 19:58:37+00:00
+ - user: rumpel
+ - tags: ['ukraine', 'vaccine', 'covid', 'russia', 'war']
 
 ## Szpitale tymczasowe kosztowały setki milionów złotych. Teraz czekają na zamknięcie
  - [https://www.money.pl/gospodarka/szpitale-tymczasowe-kosztowaly-setki-milionow-zlotych-teraz-czekaja-na-zamkniecie-6744796203420224a.html](https://www.money.pl/gospodarka/szpitale-tymczasowe-kosztowaly-setki-milionow-zlotych-teraz-czekaja-na-zamkniecie-6744796203420224a.html)
