@@ -1,3 +1,21 @@
+## Windows 11: TPMs and Digital Sovereignty
+ - [https://secret.club/2021/06/28/windows11-tpms.html](https://secret.club/2021/06/28/windows11-tpms.html)
+ - date published: 2023-05-06 21:33:29+00:00
+ - user: rumpel
+ - tags: ['microsoft', 'windows', 'dark design', 'tpm', 'walled garden', 'sovereignty']
+
+## The grid isn’t ready for 300M EVs by 2030
+ - [https://www.weforum.org/agenda/2023/01/electric-cars-charging-habits](https://www.weforum.org/agenda/2023/01/electric-cars-charging-habits)
+ - date published: 2023-05-06 15:11:05+00:00
+ - user: rumpel
+ - tags: ['electric vehicles', 'climate change']
+
+## Ocean-surface temperatures are breaking records
+ - [https://www.economist.com/graphic-detail/2023/05/05/ocean-surface-temperatures-are-breaking-records](https://www.economist.com/graphic-detail/2023/05/05/ocean-surface-temperatures-are-breaking-records)
+ - date published: 2023-05-06 14:32:53+00:00
+ - user: rumpel
+ - tags: ['climate change', 'global warming']
+
 ## Click Click Click
  - [https://clickclickclick.click/](https://clickclickclick.click/)
  - date published: 2023-05-06 14:26:02+00:00
