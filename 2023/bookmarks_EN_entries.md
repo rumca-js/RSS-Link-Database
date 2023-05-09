@@ -1,3 +1,27 @@
+## Street Fighter II, paper trails (2021)
+ - [https://fabiensanglard.net/sf2_sheets/index.html](https://fabiensanglard.net/sf2_sheets/index.html)
+ - date published: 2023-05-08 08:30:58+00:00
+ - user: rumpel
+ - tags: ['games', 'street fighter ii']
+
+## Please don’t upload my code on GitHub
+ - [https://nogithub.codeberg.page/](https://nogithub.codeberg.page/)
+ - date published: 2023-05-08 07:55:44+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence', 'github']
+
+## A Group Is Its Own Worst Enemy [pdf] (2005)
+ - [https://gwern.net/doc/technology/2005-shirky-agroupisitsownworstenemy.pdf](https://gwern.net/doc/technology/2005-shirky-agroupisitsownworstenemy.pdf)
+ - date published: 2023-05-07 21:55:26+00:00
+ - user: rumpel
+ - tags: ['programming', 'management']
+
+## OpenAI CEO says the remote work ‘experiment’ was a mistake–and ‘it’s over’
+ - [https://fortune.com/2023/05/05/openai-ceo-sam-altman-remote-work-mistake-return-to-office/](https://fortune.com/2023/05/05/openai-ceo-sam-altman-remote-work-mistake-return-to-office/)
+ - date published: 2023-05-07 18:20:30+00:00
+ - user: rumpel
+ - tags: ['work', 'openai', 'remote work']
+
 ## Windows 11: TPMs and Digital Sovereignty
  - [https://secret.club/2021/06/28/windows11-tpms.html](https://secret.club/2021/06/28/windows11-tpms.html)
  - date published: 2023-05-06 21:33:29+00:00

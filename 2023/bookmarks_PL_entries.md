@@ -1,3 +1,9 @@
+## Prof. Lew-Starowicz: stale mam do czynienia ze złą diagnostyką. 80 proc. dorosłych porzuca pragnienie zmiany płci | Polska Agencja Prasowa SA
+ - [https://www.pap.pl/aktualnosci/news%2C1568660%2Cprof-lew-starowicz-stale-mam-do-czynienia-ze-zla-diagnostyka-80-proc](https://www.pap.pl/aktualnosci/news%2C1568660%2Cprof-lew-starowicz-stale-mam-do-czynienia-ze-zla-diagnostyka-80-proc)
+ - date published: 2023-05-05 09:42:40+00:00
+ - user: rumpel
+ - tags: ['gender', 'lew starowicz', 'transgender']
+
 ## Przepisy covidowe niekonstytucyjne. Eksperci: nie powinny już funkcjonować
         
         - Wiadomości
