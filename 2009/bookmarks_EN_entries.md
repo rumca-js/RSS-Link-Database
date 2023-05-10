@@ -1,8 +1,26 @@
+## Edward Sharpe And The Magnetic Zeroes: NPR Music Tiny Desk Concert
+ - [https://www.youtube.com/watch?v=XWIvfE01J0k](https://www.youtube.com/watch?v=XWIvfE01J0k)
+ - date published: 2009-11-02 00:00:00+00:00
+ - user: rumpel
+ - tags: ['concert', 'music']
+
 ## Pfizer fined $2.3 billion for illegal marketing in off-label drug case - ABC News
  - [https://abcnews.go.com/Business/pfizer-fined-23-billion-illegal-marketing-off-label/story?id=8477617](https://abcnews.go.com/Business/pfizer-fined-23-billion-illegal-marketing-off-label/story?id=8477617)
  - date published: 2009-09-02 20:27:25+00:00
  - user: rumpel
  - tags: ['pfizer', 'big pharma']
+
+## LEGO - 8-bit trip
+ - [https://www.youtube.com/watch?v=4qsWFFuYZYI](https://www.youtube.com/watch?v=4qsWFFuYZYI)
+ - date published: 2009-08-21 00:00:00+00:00
+ - user: rumpel
+ - tags: ['chiptune', 'music']
+
+## meow mix
+ - [https://www.youtube.com/watch?v=GSMCRD35ch4](https://www.youtube.com/watch?v=GSMCRD35ch4)
+ - date published: 2009-08-08 00:00:00+00:00
+ - user: rumpel
+ - tags: ['art']
 
 ## Swine flu could kill 40 Britons a day by end of summer, says chief medical officer | Daily Mail Online
  - [https://www.dailymail.co.uk/news/article-1197054/Swine-flu-kill-40-Britons-day-end-summer-says-chief-medical-officer.html](https://www.dailymail.co.uk/news/article-1197054/Swine-flu-kill-40-Britons-day-end-summer-says-chief-medical-officer.html)
@@ -39,4 +57,10 @@
  - date published: 2009-04-29 20:15:58+00:00
  - user: rumpel
  - tags: ['pandemic', 'swine flu', 'mexico']
+
+## Dub FX 'Flow' feat. Mr Woodnote
+ - [https://www.youtube.com/watch?v=WhBoR_tgXCI](https://www.youtube.com/watch?v=WhBoR_tgXCI)
+ - date published: 2009-04-20 00:00:00+00:00
+ - user: rumpel
+ - tags: ['music']
 

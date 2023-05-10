@@ -3704,7 +3704,7 @@
  - [https://news.itsfoss.com/vanilla-os-beta/](https://news.itsfoss.com/vanilla-os-beta/)
  - date published: 2022-10-26 20:26:39+00:00
  - user: rumpel
- - tags: ['ubuntu', 'linux']
+ - tags: ['linux distro', 'linux']
 
 ## Scientists: COVID Restrictions Caused ‘Immunity Gap,’ Leading To Virus Uptick In Children
  - [https://www.dailywire.com/news/scientists-covid-restrictions-caused-immunity-gap-leading-to-virus-uptick-in-children](https://www.dailywire.com/news/scientists-covid-restrictions-caused-immunity-gap-leading-to-virus-uptick-in-children)
@@ -3908,7 +3908,7 @@
  - [https://www.memorysafety.org/blog/rust-in-linux-just-the-beginning/](https://www.memorysafety.org/blog/rust-in-linux-just-the-beginning/)
  - date published: 2022-10-25 06:54:41+00:00
  - user: None
- - tags: ['linux kernel']
+ - tags: ['linux kernel', 'linux']
 
 ## Matthew Perry on the challenges of finding true love when you're filthy rich
  - [https://www.foxnews.com/entertainment/matthew-perry-challenges-finding-true-love-when-youre-filthy-rich](https://www.foxnews.com/entertainment/matthew-perry-challenges-finding-true-love-when-youre-filthy-rich)
@@ -3938,7 +3938,7 @@
  - [https://eklitzke.org/the-cult-of-dd](https://eklitzke.org/the-cult-of-dd)
  - date published: 2022-10-25 00:44:03+00:00
  - user: None
- - tags: ['linux']
+ - tags: ['scripts', 'linux']
 
 ## “The Truth Matters” : Matt Walsh Speaks At UW-Madison
  - [https://www.dailywire.com/news/the-truth-matters-matt-walsh-speaks-at-uw-madison](https://www.dailywire.com/news/the-truth-matters-matt-walsh-speaks-at-uw-madison)
@@ -4563,6 +4563,12 @@
  - date published: 2022-10-12 18:17:30+00:00
  - user: None
  - tags: ['vaccine', 'covid']
+
+## Rings of Power: Galadriel is "Secretly" a Mary Sue and Here's Why
+ - [https://www.youtube.com/watch?v=eLDfSP3ONpo](https://www.youtube.com/watch?v=eLDfSP3ONpo)
+ - date published: 2022-10-12 17:30:11+00:00
+ - user: rumpel
+ - tags: ['movies', 'mary sue']
 
 ## Social Media Is Wrong About Microwaves
  - [https://lifehacker.com/social-media-is-wrong-about-microwaves-1849648107](https://lifehacker.com/social-media-is-wrong-about-microwaves-1849648107)
@@ -5528,7 +5534,7 @@
  - [https://clivethompson.medium.com/linux-on-the-laptop-works-so-damn-well-that-its-boring-29014b347941](https://clivethompson.medium.com/linux-on-the-laptop-works-so-damn-well-that-its-boring-29014b347941)
  - date published: 2022-09-24 17:04:50+00:00
  - user: None
- - tags: ['laptop', 'linux']
+ - tags: ['linux']
 
 ## Universal settles after Despicable Me character 'made racist OK symbol while stood next to children'
  - [https://www.dailymail.co.uk/news/article-11245077/Universal-settles-race-discrimination-lawsuit-claims-Despicable-character-OK-symbol.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11245077/Universal-settles-race-discrimination-lawsuit-claims-Despicable-character-OK-symbol.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -6849,6 +6855,12 @@
  - date published: 2022-09-05 00:31:18+00:00
  - user: None
  - tags: $tags
+
+## The Less I Know The Better | @TameImpala | funk cover Elise Trouw & Dave Koz
+ - [https://www.youtube.com/watch?v=k5K7B3cUO9U](https://www.youtube.com/watch?v=k5K7B3cUO9U)
+ - date published: 2022-09-05 00:00:00+00:00
+ - user: rumpel
+ - tags: ['music']
 
 ## The Isreali PECC We’ll have to think medico-legal – how to present our findings to avoid lawsuits
  - [https://twitter.com/PECC_eng/status/1566440239731712003](https://twitter.com/PECC_eng/status/1566440239731712003)
@@ -8420,7 +8432,7 @@
  - [https://www.youtube.com/watch?v=tp1M4lP2ceQ https://www.youtube.com/watch?v=UjGpHbf1m1Q](https://www.youtube.com/watch?v=tp1M4lP2ceQ https://www.youtube.com/watch?v=UjGpHbf1m1Q)
  - date published: 2022-06-22 11:28:07+00:00
  - user: None
- - tags: ['transhumanism']
+ - tags: ['movies', 'transhumanism']
 
 ## The driving enthusiast’s dilemma with electric cars | Ars Technica
  - [https://arstechnica.com/cars/2022/06/the-driving-enthusiasts-dilemma-about-electric-cars/](https://arstechnica.com/cars/2022/06/the-driving-enthusiasts-dilemma-about-electric-cars/)
@@ -10084,6 +10096,12 @@
  - user: None
  - tags: ['fact check', 'misinformation', 'free speech', 'censorship']
 
+## Mr.Kitty • After Dark || Jennifer Connelly • Career Opportunities
+ - [https://www.youtube.com/watch?v=As3LGNTlPQ0](https://www.youtube.com/watch?v=As3LGNTlPQ0)
+ - date published: 2022-03-22 00:00:00+00:00
+ - user: rumpel
+ - tags: ['music']
+
 ## His software sang the words of God. Then it went silent.
  - [https://www.inputmag.com/features/tropetrainer-thomas-buchler-torah-software](https://www.inputmag.com/features/tropetrainer-thomas-buchler-torah-software)
  - date published: 2022-03-21 23:10:37.750246+00:00
@@ -10209,6 +10227,12 @@
  - date published: 2022-03-16 20:52:52+00:00
  - user: rumpel
  - tags: ['ddos', 'hackers', 'programming']
+
+## Ufopornoo! - Higher Quality
+ - [https://www.youtube.com/watch?v=W5UkA2Gg-Cc](https://www.youtube.com/watch?v=W5UkA2Gg-Cc)
+ - date published: 2022-03-16 00:00:00+00:00
+ - user: rumpel
+ - tags: ['funny']
 
 ## The three-minute rule: the scientific way to tackle your most-hated chores | Life and style | The Guardian
  - [https://www.theguardian.com/lifeandstyle/2022/mar/14/three-minute-rule-scientific-way-tackle-most-hated-chores](https://www.theguardian.com/lifeandstyle/2022/mar/14/three-minute-rule-scientific-way-tackle-most-hated-chores)

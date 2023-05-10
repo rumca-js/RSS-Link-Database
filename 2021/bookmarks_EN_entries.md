@@ -946,6 +946,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Last of original SCO v IBM Linux lawsuit settled | ZDNET
+ - [https://www.zdnet.com/article/last-of-original-sco-v-ibm-linux-lawsuit-settled/](https://www.zdnet.com/article/last-of-original-sco-v-ibm-linux-lawsuit-settled/)
+ - date published: 2021-11-08 08:34:10+00:00
+ - user: rumpel
+ - tags: ['sco group', 'linux']
+
 ## California’s COVID-19 case rate now twice Florida’s
  - [https://www.tampabay.com/news/florida/2021/11/07/californias-covid-19-case-rate-now-twice-floridas/](https://www.tampabay.com/news/florida/2021/11/07/californias-covid-19-case-rate-now-twice-floridas/)
  - date published: 2021-11-07 20:33:36+00:00
@@ -2482,6 +2488,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Monolink live at Gaatafushi Island, in the Maldives for Cercle and W Hotels
+ - [https://www.youtube.com/watch?v=_SvwdK_HibQ](https://www.youtube.com/watch?v=_SvwdK_HibQ)
+ - date published: 2021-08-12 00:00:00+00:00
+ - user: rumpel
+ - tags: ['concert', 'music']
+
 ## The Arctic has warmed nearly four times faster than the globe since 1979 | Communications Earth & Environment
  - [https://www.nature.com/articles/s43247-022-00498-3](https://www.nature.com/articles/s43247-022-00498-3)
  - date published: 2021-08-11 07:06:25+00:00
@@ -2739,6 +2751,12 @@
  - date published: 2021-07-27 08:56:27.970769+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Altin Gun - Full Performance (Live on KEXP at Home)
+ - [https://www.youtube.com/watch?v=o9g_iyBR7xo](https://www.youtube.com/watch?v=o9g_iyBR7xo)
+ - date published: 2021-07-27 00:00:00+00:00
+ - user: rumpel
+ - tags: ['concert', 'music']
 
 ## It's Already Happening But People Don't See It - Alan Watts on Rat Race
  - [https://www.youtube.com/watch?v=iYaPFZW7Q30](https://www.youtube.com/watch?v=iYaPFZW7Q30)
@@ -3226,6 +3244,12 @@
  - user: rumpel
  - tags: ['surveillance', 'government control', 'covid', 'vaccine', 'big brother']
 
+## Salvatore Ganacci - Step-Grandma
+ - [https://www.youtube.com/watch?v=StYkb5kbM3o](https://www.youtube.com/watch?v=StYkb5kbM3o)
+ - date published: 2021-07-13 14:00:09+00:00
+ - user: rumpel
+ - tags: ['music']
+
 ## Google Fined $593 Million In Dispute Over Paying French Publishers For News : NPR
  - [https://www.npr.org/2021/07/13/1015596060/france-fines-google-592m-in-a-dispute-over-paying-news-publishers-for-content](https://www.npr.org/2021/07/13/1015596060/france-fines-google-592m-in-a-dispute-over-paying-news-publishers-for-content)
  - date published: 2021-07-13 11:36:27+00:00
@@ -3670,6 +3694,12 @@
  - user: rumpel
  - tags: ['wuhan', 'covid', 'lableak']
 
+## Glass Animals - Space Ghost Coast To Coast (Official Video)
+ - [https://www.youtube.com/watch?v=WSEpDD8j6-c](https://www.youtube.com/watch?v=WSEpDD8j6-c)
+ - date published: 2021-05-13 00:00:00+00:00
+ - user: rumpel
+ - tags: ['music']
+
 ## Chinese document discussing weaponising coronaviruses provides 'chilling' informati
  - [https://www.youtube.com/watch?v=kuKPBur_TiI](https://www.youtube.com/watch?v=kuKPBur_TiI)
  - date published: 2021-05-09 21:15:57+00:00
@@ -3801,6 +3831,12 @@
  - date published: 2021-04-20 13:00:57+00:00
  - user: None
  - tags: ['censorship', 'government control', 'terreg']
+
+## C. Tangana: Tiny Desk (Home) Concert
+ - [https://www.youtube.com/watch?v=SW6L_lTrIFg](https://www.youtube.com/watch?v=SW6L_lTrIFg)
+ - date published: 2021-04-20 00:00:00+00:00
+ - user: rumpel
+ - tags: ['concert', 'music']
 
 ## Shock Video: Children Being Paraded Across The Stage Urging Them To Pose For Cash At A Los Angeles Drag Club In The Middle Of The Night
  - [https://defiantamerica.com/shock-video-children-being-paraded-across-the-stage-urging-them-to-pose-for-cash-at-a-los-angeles-drag-club-in-the-middle-of-the-night/](https://defiantamerica.com/shock-video-children-being-paraded-across-the-stage-urging-them-to-pose-for-cash-at-a-los-angeles-drag-club-in-the-middle-of-the-night/)
@@ -4030,6 +4066,12 @@
  - user: rumpel
  - tags: ['newspeak', 'germany', 'the left wing']
 
+## J. S. Bach - Partita in C moll BWV 997 -  Evangelina Mascardi, Liuto barocco
+ - [https://www.youtube.com/watch?v=1JYjcwW9MmM](https://www.youtube.com/watch?v=1JYjcwW9MmM)
+ - date published: 2021-03-05 00:00:00+00:00
+ - user: rumpel
+ - tags: ['music']
+
 ## Ex-Times Reporter Who Used Racial Slur Publishes a Lengthy Defense - The New York Times
  - [https://www.nytimes.com/2021/03/01/business/donald-mcneil-new-york-times-racial-slur.html](https://www.nytimes.com/2021/03/01/business/donald-mcneil-new-york-times-racial-slur.html)
  - date published: 2021-03-01 14:25:55+00:00
@@ -4126,11 +4168,23 @@
  - user: rumpel
  - tags: ['covid', 'germany', 'lockdown']
 
+## Apashe - Uebok VIP [Music Video]
+ - [https://www.youtube.com/watch?v=gM4xZy39kNE](https://www.youtube.com/watch?v=gM4xZy39kNE)
+ - date published: 2021-02-05 00:00:00+00:00
+ - user: rumpel
+ - tags: ['music']
+
 ## AOC faces backlash as critics point out she wasn't in Capitol building during riot | Fox News
  - [https://www.foxnews.com/politics/aoc-under-fire-amid-details-that-she-wasnt-in-capitol-building-during-riots](https://www.foxnews.com/politics/aoc-under-fire-amid-details-that-she-wasnt-in-capitol-building-during-riots)
  - date published: 2021-02-03 20:45:01+00:00
  - user: rumpel
  - tags: ['the left wing', 'propaganda', 'january 6']
+
+## Roosevelt - SPIN Session (01.25.21)
+ - [https://www.youtube.com/watch?v=ronaHU05RC0](https://www.youtube.com/watch?v=ronaHU05RC0)
+ - date published: 2021-02-02 00:00:00+00:00
+ - user: rumpel
+ - tags: ['concert', 'music']
 
 ## “COVID-19 Jails” Open in Germany for Quarantine Offenders - The New American
  - [https://thenewamerican.com/covid-19-jails-open-in-germany-for-quarantine-offenders/](https://thenewamerican.com/covid-19-jails-open-in-germany-for-quarantine-offenders/)
@@ -4270,6 +4324,12 @@
  - user: rumpel
  - tags: ['privacy', 'big tech', 'big brother', 'censorship', 'surveillance', 'hunter biden']
 
+## PROF - Squad Goals (Official Music Video)
+ - [https://www.youtube.com/watch?v=iDaUy4T7rVI](https://www.youtube.com/watch?v=iDaUy4T7rVI)
+ - date published: 2021-01-13 00:00:00+00:00
+ - user: rumpel
+ - tags: ['music']
+
 ## PBS lawyer resigns after being caught in Veritas sting | AP News
  - [https://apnews.com/article/donald-trump-entertainment-coronavirus-pandemic-8f586d687ab332777a7a059457ff818e](https://apnews.com/article/donald-trump-entertainment-coronavirus-pandemic-8f586d687ab332777a7a059457ff818e)
  - date published: 2021-01-12 20:29:03+00:00
@@ -4336,6 +4396,12 @@
  - user: None
  - tags: ['twitter', 'censorship', 'deplatform', 'donald trump', 'january 6']
 
+## Jazmine Sullivan: Tiny Desk (Home) Concert
+ - [https://www.youtube.com/watch?v=KgrCYvVYSRE](https://www.youtube.com/watch?v=KgrCYvVYSRE)
+ - date published: 2021-01-08 00:00:00+00:00
+ - user: rumpel
+ - tags: ['concert', 'music']
+
 ## Known Antifa members posed as pro-Trump to infiltrate Capitol riot: sources
  - [https://nypost.com/2021/01/07/known-antifa-members-posed-as-pro-trump-to-infiltrate-capitol-riot-sources/](https://nypost.com/2021/01/07/known-antifa-members-posed-as-pro-trump-to-infiltrate-capitol-riot-sources/)
  - date published: 2021-01-07 20:19:34+00:00
@@ -4353,6 +4419,12 @@
  - date published: 2021-01-05 20:44:59+00:00
  - user: None
  - tags: ['dead internet', 'algorithm', 'all time']
+
+## Small Forward | Best Of
+ - [https://www.youtube.com/watch?v=iUXOg76vfDc](https://www.youtube.com/watch?v=iUXOg76vfDc)
+ - date published: 2021-01-05 00:00:00+00:00
+ - user: rumpel
+ - tags: ['full album', 'music']
 
 ## House introduces gender-neutral language in new rules for Congress
  - [https://thehill.com/changing-america/respect/diversity-inclusion/532518-house-introduces-gender-neutral-language-in-new](https://thehill.com/changing-america/respect/diversity-inclusion/532518-house-introduces-gender-neutral-language-in-new)

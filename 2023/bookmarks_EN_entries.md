@@ -112,6 +112,12 @@
  - user: rumpel
  - tags: ['google', 'biometric', 'privacy', 'passwords']
 
+## Ex-Uber security chief sentenced for data-breach cover-up - ABC News
+ - [https://abcnews.go.com/US/wireStory/uber-security-chief-sentenced-data-breach-cover-99095920](https://abcnews.go.com/US/wireStory/uber-security-chief-sentenced-data-breach-cover-99095920)
+ - date published: 2023-05-04 08:17:07+00:00
+ - user: rumpel
+ - tags: ['uber', 'hackers', 'data leak']
+
 ## Google rolls out passkey technology in ‘beginning of the end’ for passwords
  - [https://www.theguardian.com/technology/2023/may/04/google-rolls-out-passkey-technology-in-beginning-of-the-end-for-passwords](https://www.theguardian.com/technology/2023/may/04/google-rolls-out-passkey-technology-in-beginning-of-the-end-for-passwords)
  - date published: 2023-05-04 07:28:57+00:00
@@ -164,7 +170,7 @@
  - [https://www.youtube.com/watch?v=r_PNkXFdTog](https://www.youtube.com/watch?v=r_PNkXFdTog)
  - date published: 2023-05-03 09:00:36+00:00
  - user: rumpel
- - tags: ['music']
+ - tags: ['concert', 'music']
 
 ## Six Libyans face death penalty for converting to Christianity
  - [https://www.theguardian.com/global-development/2023/may/03/six-libyans-face-death-penalty-for-converting-to-christianity](https://www.theguardian.com/global-development/2023/may/03/six-libyans-face-death-penalty-for-converting-to-christianity)
@@ -386,7 +392,7 @@
  - [https://www.youtube.com/watch?v=Tu_PRf1tyjI](https://www.youtube.com/watch?v=Tu_PRf1tyjI)
  - date published: 2023-04-26 09:00:20+00:00
  - user: rumpel
- - tags: ['music']
+ - tags: ['concert', 'music']
 
 ## Florida surgeon general altered Covid-19 vaccine analysis to suggest higher risk for younger men -- Politico | CNN
  - [https://edition.cnn.com/2023/04/25/health/florida-covid-vaccine-analysis-ladapo/index.html](https://edition.cnn.com/2023/04/25/health/florida-covid-vaccine-analysis-ladapo/index.html)
@@ -856,6 +862,12 @@
  - user: rumpel
  - tags: ['unicoin', 'cbdc']
 
+## Careless Whisper | @georgemichael | funk cover ft. @elisetrouw & Dave Koz
+ - [https://www.youtube.com/watch?v=NBo98gJkrP4](https://www.youtube.com/watch?v=NBo98gJkrP4)
+ - date published: 2023-04-10 13:00:13+00:00
+ - user: rumpel
+ - tags: ['music']
+
 ## Posts distort proposed LGBTQ ‘safety zone’ bill in Canada | AP News
  - [https://apnews.com/article/fact-check-canada-bill-LGBTQ-777684926093](https://apnews.com/article/fact-check-canada-bill-LGBTQ-777684926093)
  - date published: 2023-04-10 07:24:00+00:00
@@ -884,7 +896,7 @@
  - [https://www.youtube.com/watch?v=4iQmPv_dTI0](https://www.youtube.com/watch?v=4iQmPv_dTI0)
  - date published: 2023-04-07 21:04:02+00:00
  - user: rumpel
- - tags: ['music']
+ - tags: ['concert', 'music']
 
 ## Amazon Bans Flipper Zero, Claiming It Violates Policy Against Card Skimming Devices
  - [https://gizmodo.com/amazon-bans-flipper-zero-card-skimming-on-tiktok-1850313284](https://gizmodo.com/amazon-bans-flipper-zero-card-skimming-on-tiktok-1850313284)
@@ -1190,7 +1202,7 @@
  - [https://www.youtube.com/watch?v=vt0J3IEYkIg](https://www.youtube.com/watch?v=vt0J3IEYkIg)
  - date published: 2023-03-28 09:00:40+00:00
  - user: rumpel
- - tags: ['music']
+ - tags: ['concert', 'music']
 
 ## Patriot Act on steroids: anti-TikTok Trojan horse for censorship, surveillance
  - [https://dossier.substack.com/p/the-patriot-act-on-steroids-dc-uniparty](https://dossier.substack.com/p/the-patriot-act-on-steroids-dc-uniparty)
@@ -1400,7 +1412,7 @@
  - [https://www.youtube.com/watch?v=XP7Qx1FF1hA](https://www.youtube.com/watch?v=XP7Qx1FF1hA)
  - date published: 2023-03-21 08:31:05+00:00
  - user: rumpel
- - tags: ['open source', 'technofeudalism', 'right to repair', 'linux', 'corporatocracy']
+ - tags: ['open source', 'right to repair', 'corporatocracy', 'technofeudalism']
 
 ## Stanford’s Alpaca shows that OpenAI may have a problem
  - [https://the-decoder.com/stanfords-alpaca-shows-that-openai-may-have-a-problem/](https://the-decoder.com/stanfords-alpaca-shows-that-openai-may-have-a-problem/)
@@ -3442,6 +3454,12 @@
  - user: rumpel
  - tags: ['big tech', 'privacy', 'technofeudalism']
 
+## Altin Gün @ Eurosonic 2021
+ - [https://www.youtube.com/watch?v=wZwrp_DIru0](https://www.youtube.com/watch?v=wZwrp_DIru0)
+ - date published: 2023-01-14 00:00:00+00:00
+ - user: rumpel
+ - tags: ['concert', 'music']
+
 ## Meta sues “scraping-for-hire” service that sells user data to law enforcement
  - [https://arstechnica.com/?p=1910046](https://arstechnica.com/?p=1910046)
  - date published: 2023-01-13 23:28:05+00:00
@@ -3836,7 +3854,7 @@
  - [https://www.youtube.com/watch?v=xbvoyzeQu1M](https://www.youtube.com/watch?v=xbvoyzeQu1M)
  - date published: 2023-01-07 20:00:18+00:00
  - user: rumpel
- - tags: ['linux']
+ - tags: ['steam', 'linux']
 
 ## How secure are RISC-V chips?
  - [https://semiengineering.com/how-secure-are-risc-v-chips/](https://semiengineering.com/how-secure-are-risc-v-chips/)

@@ -22,11 +22,23 @@
  - user: rumpel
  - tags: ['wuhan', 'covid']
 
+## Aurora: NPR Music Tiny Desk Concert
+ - [https://www.youtube.com/watch?v=evBgLWQwAFA](https://www.youtube.com/watch?v=evBgLWQwAFA)
+ - date published: 2015-11-09 00:00:00+00:00
+ - user: rumpel
+ - tags: ['concert', 'music']
+
 ## How to Control What People Do | Propaganda - EDWARD BERNAYS | Animated Book Summary
  - [https://www.youtube.com/watch?v=8Q-3qwEDyPM](https://www.youtube.com/watch?v=8Q-3qwEDyPM)
  - date published: 2015-10-26 16:07:21+00:00
  - user: None
  - tags: ['edward bernays', 'disinformation', 'misinformation', 'propaganda']
+
+## Christian Scott aTunde Adjuah: NPR Music Tiny Desk Concert
+ - [https://www.youtube.com/watch?v=mVJjmyFfuts](https://www.youtube.com/watch?v=mVJjmyFfuts)
+ - date published: 2015-10-20 00:00:00+00:00
+ - user: rumpel
+ - tags: ['concert', 'music']
 
 ## Noam Chomsky - Manufacturing Consent
  - [https://www.youtube.com/watch?v=tTBWfkE7BXU](https://www.youtube.com/watch?v=tTBWfkE7BXU)
@@ -40,11 +52,29 @@
  - user: rumpel
  - tags: ['internet', 'webdev']
 
+## Pinball Dreams (PC/DOS) 1992, 21th Century Entertainment, Spidersoft
+ - [https://www.youtube.com/watch?v=MSaohyJ_E2w](https://www.youtube.com/watch?v=MSaohyJ_E2w)
+ - date published: 2015-10-09 00:00:00+00:00
+ - user: rumpel
+ - tags: ['chiptune', 'music']
+
 ## Why is Ukraine the West's Fault? Featuring John Mearsheimer
  - [https://www.youtube.com/watch?v=JrMiSQAGOS4](https://www.youtube.com/watch?v=JrMiSQAGOS4)
  - date published: 2015-09-25 20:42:33+00:00
  - user: rumpel
  - tags: ['ukraine', 'all time', 'lecture', 'war', 'war', 'ukraine']
+
+## Gina Chavez: NPR Music Tiny Desk Concert
+ - [https://www.youtube.com/watch?v=sRZi4QQEGBI](https://www.youtube.com/watch?v=sRZi4QQEGBI)
+ - date published: 2015-09-22 00:00:00+00:00
+ - user: rumpel
+ - tags: ['concert', 'music']
+
+## Chris Stapleton: NPR Music Tiny Desk Concert
+ - [https://www.youtube.com/watch?v=YcHL0kUFPhw](https://www.youtube.com/watch?v=YcHL0kUFPhw)
+ - date published: 2015-09-14 00:00:00+00:00
+ - user: rumpel
+ - tags: ['concert', 'music']
 
 ## Secret 'dark net' operation saves scores of children from abuse; ringleader Shannon McCoole behind bars after police take over child porn site
  - [https://www.abc.net.au/news/2015-08-26/secret-anti-paedophile-operation-saves-children-from-abuse/6720304](https://www.abc.net.au/news/2015-08-26/secret-anti-paedophile-operation-saves-children-from-abuse/6720304)
@@ -76,6 +106,18 @@
  - user: rumpel
  - tags: ['memento', 'nolan', 'movies']
 
+## Ott - Fairchildren [Full Album]
+ - [https://www.youtube.com/watch?v=qMSZBJL5AkI](https://www.youtube.com/watch?v=qMSZBJL5AkI)
+ - date published: 2015-08-11 00:00:00+00:00
+ - user: rumpel
+ - tags: ['full album', 'music']
+
+## Lorn - Acid Rain (Official Music Video)
+ - [https://www.youtube.com/watch?v=nxg4C365LbQ](https://www.youtube.com/watch?v=nxg4C365LbQ)
+ - date published: 2015-07-16 00:00:00+00:00
+ - user: rumpel
+ - tags: ['music']
+
 ## The manipulation of the American mind: Edward Bernays and the birth of public relations
  - [https://theconversation.com/the-manipulation-of-the-american-mind-edward-bernays-and-the-birth-of-public-relations-44393](https://theconversation.com/the-manipulation-of-the-american-mind-edward-bernays-and-the-birth-of-public-relations-44393)
  - date published: 2015-07-09 11:40:48+00:00
@@ -87,6 +129,18 @@
  - date published: 2015-06-17 09:01:02+00:00
  - user: rumpel
  - tags: ['privacy', 'windows', 'microsoft', 'telemetry']
+
+## 8-bit Music Chiptune RELOADED
+ - [https://www.youtube.com/watch?v=OSJ0rW0d5AY](https://www.youtube.com/watch?v=OSJ0rW0d5AY)
+ - date published: 2015-06-04 00:00:00+00:00
+ - user: rumpel
+ - tags: $tags
+
+## Genevieve: NPR Music Tiny Desk Concert
+ - [https://www.youtube.com/watch?v=EZ4Hum70sTk](https://www.youtube.com/watch?v=EZ4Hum70sTk)
+ - date published: 2015-06-02 00:00:00+00:00
+ - user: rumpel
+ - tags: ['concert', 'music']
 
 ## 4 reasons YouTube still doesn't make a profit
  - [https://www.cbsnews.com/news/4-reasons-youtube-still-doesnt-make-a-profit/](https://www.cbsnews.com/news/4-reasons-youtube-still-doesnt-make-a-profit/)
@@ -111,6 +165,12 @@
  - date published: 2015-04-29 14:09:05+00:00
  - user: rumpel
  - tags: ['digital media', 'digital transformation', 'legacy media', 'media']
+
+## DakhaBrakha: NPR Music Tiny Desk Concert
+ - [https://www.youtube.com/watch?v=hsNKSbTNd5I](https://www.youtube.com/watch?v=hsNKSbTNd5I)
+ - date published: 2015-04-25 00:00:00+00:00
+ - user: rumpel
+ - tags: ['concert', 'music']
 
 ## My father was gay. Yet I oppose legalizing same-sex marriage.
  - [https://www.chicagotribune.com/news/ct-gay-marriage-canada-oppose-perspec-0422-jm-20150421-story.html](https://www.chicagotribune.com/news/ct-gay-marriage-canada-oppose-perspec-0422-jm-20150421-story.html)
@@ -148,11 +208,29 @@
  - user: rumpel
  - tags: ['china great cannon', 'ddos']
 
+## Death Cab For Cutie: NPR Music Tiny Desk Concert
+ - [https://www.youtube.com/watch?v=mi6uRT7PxTQ](https://www.youtube.com/watch?v=mi6uRT7PxTQ)
+ - date published: 2015-04-07 00:00:00+00:00
+ - user: rumpel
+ - tags: ['concert', 'music']
+
 ## Bill Gates: The next outbreak? We’re not ready | TED
  - [https://www.youtube.com/watch?v=6Af6b_wyiwI](https://www.youtube.com/watch?v=6Af6b_wyiwI)
  - date published: 2015-04-03 07:28:00+00:00
  - user: None
  - tags: ['ted', 'pandemic', 'bill gates']
+
+## Fantastic Negrito: NPR Music Tiny Desk Concert
+ - [https://www.youtube.com/watch?v=ymYjwsFz8iM](https://www.youtube.com/watch?v=ymYjwsFz8iM)
+ - date published: 2015-03-09 00:00:00+00:00
+ - user: rumpel
+ - tags: ['concert', 'music']
+
+## J.S. Bach - Toccata and Fugue in D Minor BWV 565 // Amy Turk, Harp
+ - [https://www.youtube.com/watch?v=oPmKRtWta4E](https://www.youtube.com/watch?v=oPmKRtWta4E)
+ - date published: 2015-02-22 00:00:00+00:00
+ - user: rumpel
+ - tags: ['music']
 
 ## What’s with the 50/72 rule?
  - [https://preslav.me/2015/02/21/what-s-with-the-50-72-rule/](https://preslav.me/2015/02/21/what-s-with-the-50-72-rule/)
@@ -171,6 +249,18 @@
  - date published: 2015-01-22 08:04:30+00:00
  - user: rumpel
  - tags: ['co2', 'climate change', 'pollution']
+
+## Fury Of The Furries OST - The Forest
+ - [https://www.youtube.com/watch?v=5TPs9inJabM](https://www.youtube.com/watch?v=5TPs9inJabM)
+ - date published: 2015-01-21 00:00:00+00:00
+ - user: rumpel
+ - tags: ['chiptune', 'music']
+
+## Отава Ё – Сумецкая (русские частушки под драку) Otava Yo - russian couplets while fighting
+ - [https://www.youtube.com/watch?v=0JQ0xnJyb0A](https://www.youtube.com/watch?v=0JQ0xnJyb0A)
+ - date published: 2015-01-21 00:00:00+00:00
+ - user: rumpel
+ - tags: ['music']
 
 ## Can the government ban encryption? - BBC News
  - [https://www.bbc.com/news/technology-30794953](https://www.bbc.com/news/technology-30794953)

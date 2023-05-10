@@ -10,3 +10,9 @@
  - user: rumpel
  - tags: ['iraq', 'halliburton']
 
+## SCO–Linux disputes - Wikipedia
+ - [https://en.wikipedia.org/wiki/SCO%E2%80%93Linux_disputes](https://en.wikipedia.org/wiki/SCO%E2%80%93Linux_disputes)
+ - date published: 2003-03-06 08:35:27+00:00
+ - user: rumpel
+ - tags: ['sco group', 'linux']
+

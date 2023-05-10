@@ -4,11 +4,23 @@
  - user: None
  - tags: $tags
 
+## H.E.R.: NPR Music Tiny Desk Concert
+ - [https://www.youtube.com/watch?v=hxxcEzM8r-4](https://www.youtube.com/watch?v=hxxcEzM8r-4)
+ - date published: 2018-12-13 00:00:00+00:00
+ - user: rumpel
+ - tags: ['concert', 'music']
+
 ## Why the Left Think They are Better | Peter Hitchens
  - [https://www.youtube.com/watch?v=8qCHRYMe66g](https://www.youtube.com/watch?v=8qCHRYMe66g)
  - date published: 2018-12-11 21:34:27+00:00
  - user: rumpel
  - tags: ['propaganda', 'ideology', 'sjw', 'the left wing']
+
+## Joey Alexander: NPR Music Tiny Desk Concert
+ - [https://www.youtube.com/watch?v=_NIFz8wRvMs](https://www.youtube.com/watch?v=_NIFz8wRvMs)
+ - date published: 2018-12-07 00:00:00+00:00
+ - user: rumpel
+ - tags: ['concert', 'music']
 
 ## Harvard Scientists Begin Experiment To Block Out The Sun
  - [https://www.forbes.com/sites/trevornace/2018/12/05/harvard-scientists-begin-experiment-to-block-out-the-sun/](https://www.forbes.com/sites/trevornace/2018/12/05/harvard-scientists-begin-experiment-to-block-out-the-sun/)
@@ -46,17 +58,35 @@
  - user: None
  - tags: $tags
 
+## The HU - Wolf Totem (Official Music Video)
+ - [https://www.youtube.com/watch?v=jM8dCGIm6yc](https://www.youtube.com/watch?v=jM8dCGIm6yc)
+ - date published: 2018-11-16 00:00:00+00:00
+ - user: rumpel
+ - tags: ['music']
+
 ## Facebook reportedly discredited critics by linking them to George Soros
  - [https://www.theguardian.com/technology/2018/nov/14/facebook-george-soros-pr-firm-discredit-critics-crisis](https://www.theguardian.com/technology/2018/nov/14/facebook-george-soros-pr-firm-discredit-critics-crisis)
  - date published: 2018-11-15 03:25:19+00:00
  - user: rumpel
  - tags: ['george soros', 'facebook', 'propaganda', 'misinformation']
 
+## Crazy - Gnarls Barkley - On The Street Funk cover feat. Dannielle DeAndrea!
+ - [https://www.youtube.com/watch?v=JZQzAWzSsn4](https://www.youtube.com/watch?v=JZQzAWzSsn4)
+ - date published: 2018-11-05 00:00:00+00:00
+ - user: rumpel
+ - tags: ['music']
+
 ## Joe Rogan - Exposing Social Justice with Peter Boghossian & James Lindsay
  - [https://www.youtube.com/watch?v=OlqU_JMTzd4](https://www.youtube.com/watch?v=OlqU_JMTzd4)
  - date published: 2018-10-30 20:27:37+00:00
  - user: rumpel
  - tags: ['lgbt', 'joe rogan', 'sjw', 'the left wing', 'feminism', 'grievance']
+
+## Chromeo: NPR Music Tiny Desk Concert
+ - [https://www.youtube.com/watch?v=UlAa0dc-E4w](https://www.youtube.com/watch?v=UlAa0dc-E4w)
+ - date published: 2018-10-26 00:00:00+00:00
+ - user: rumpel
+ - tags: ['concert', 'music']
 
 ## 'City of surveillance': privacy expert quits Toronto's smart-city project
  - [https://www.theguardian.com/world/2018/oct/23/toronto-smart-city-surveillance-ann-cavoukian-resigns-privacy](https://www.theguardian.com/world/2018/oct/23/toronto-smart-city-surveillance-ann-cavoukian-resigns-privacy)
@@ -69,6 +99,18 @@
  - date published: 2018-10-22 19:59:32+00:00
  - user: rumpel
  - tags: ['microchips', 'chip', 'sweden']
+
+## Florence + the Machine: NPR Music Tiny Desk Concert
+ - [https://www.youtube.com/watch?v=EkPrXL-H5Qc](https://www.youtube.com/watch?v=EkPrXL-H5Qc)
+ - date published: 2018-10-22 00:00:00+00:00
+ - user: rumpel
+ - tags: ['concert', 'music']
+
+## Café Tacvba: NPR Music Tiny Desk Concert
+ - [https://www.youtube.com/watch?v=O70s9aV_9_Q](https://www.youtube.com/watch?v=O70s9aV_9_Q)
+ - date published: 2018-10-19 00:00:00+00:00
+ - user: rumpel
+ - tags: ['concert', 'music']
 
 ## A Clockwork Orange - Film Analysis & Meaning [Full HD]
  - [https://www.youtube.com/watch?v=dOvP58ioBRc](https://www.youtube.com/watch?v=dOvP58ioBRc)
@@ -88,6 +130,12 @@
  - user: None
  - tags: ['agriculture']
 
+## LITTLE BIG – SKIBIDI (official music video)
+ - [https://www.youtube.com/watch?v=mDFBTdToRmw](https://www.youtube.com/watch?v=mDFBTdToRmw)
+ - date published: 2018-10-05 00:00:00+00:00
+ - user: rumpel
+ - tags: ['music', 'funny']
+
 ## John Carpenter’s ‘They Live’ Was Supposed to Be a Warning. We Didn’t Heed It. We Didn’t Even Understand It.
  - [https://www.theringer.com/movies/2018/10/4/17933020/they-live-john-carpenter-america-donald-trump](https://www.theringer.com/movies/2018/10/4/17933020/they-live-john-carpenter-america-donald-trump)
  - date published: 2018-10-04 20:28:53+00:00
@@ -100,17 +148,35 @@
  - user: None
  - tags: ['homosexuality', 'culture', 'the left wing', 'family', 'alan keyes', 'lgbt']
 
+## The HU - Yuve Yuve Yu (Official Music Video)
+ - [https://www.youtube.com/watch?v=v4xZUr0BEfE](https://www.youtube.com/watch?v=v4xZUr0BEfE)
+ - date published: 2018-09-28 00:00:00+00:00
+ - user: rumpel
+ - tags: ['music']
+
 ## How to Remove Elements from an Associative Container in C++
  - [https://www.fluentcpp.com/2018/09/21/remove-elements-associative-container-cpp/](https://www.fluentcpp.com/2018/09/21/remove-elements-associative-container-cpp/)
  - date published: 2018-09-21 13:29:42+00:00
  - user: rumpel
  - tags: ['c++', 'programming']
 
+## GoGo Penguin: NPR Music Tiny Desk Concert
+ - [https://www.youtube.com/watch?v=47XlUL6sRow](https://www.youtube.com/watch?v=47XlUL6sRow)
+ - date published: 2018-09-21 00:00:00+00:00
+ - user: rumpel
+ - tags: ['concert', 'music']
+
 ## Democracy: Rule of the NPCs
  - [https://notrelated.xyz/audio/s01/S01E04_-_Democracy_Rule_of_the_NPCs.mp3](https://notrelated.xyz/audio/s01/S01E04_-_Democracy_Rule_of_the_NPCs.mp3)
  - date published: 2018-09-19 04:00:00+00:00
  - user: None
  - tags: $tags
+
+## Hobo Johnson and The Lovemakers: NPR Music Tiny Desk Concert
+ - [https://www.youtube.com/watch?v=A8a2EosJIbM](https://www.youtube.com/watch?v=A8a2EosJIbM)
+ - date published: 2018-09-19 00:00:00+00:00
+ - user: rumpel
+ - tags: ['concert', 'music']
 
 ## Are looks important to women? (1967) | RetroFocus
  - [https://www.youtube.com/watch?v=h0njPX3SUUU](https://www.youtube.com/watch?v=h0njPX3SUUU)
@@ -141,6 +207,12 @@
  - date published: 2018-09-08 16:15:27+00:00
  - user: rumpel
  - tags: ['censorship', 'free speech']
+
+## Forest Swords - Crow (Official Visual)
+ - [https://www.youtube.com/watch?v=lan-Pjv99Xk](https://www.youtube.com/watch?v=lan-Pjv99Xk)
+ - date published: 2018-09-07 00:00:00+00:00
+ - user: rumpel
+ - tags: ['music']
 
 ## Twitter permanently bans conspiracy theorist Alex Jones
  - [https://www.theguardian.com/technology/2018/sep/06/twitter-permanently-bans-conspiracy-theorist-alex-jones](https://www.theguardian.com/technology/2018/sep/06/twitter-permanently-bans-conspiracy-theorist-alex-jones)
@@ -190,6 +262,12 @@
  - user: None
  - tags: ['rotten tomatoes', 'inequality', 'movies', 'the left wing', 'inclusive']
 
+## Vitas - The 7th Element
+ - [https://www.youtube.com/watch?v=989-7xsRLR4](https://www.youtube.com/watch?v=989-7xsRLR4)
+ - date published: 2018-08-27 00:00:00+00:00
+ - user: rumpel
+ - tags: ['music', 'funny']
+
 ## The Origin of Consciousness in the Breakdown of the Bicameral Mind
  - [https://notrelated.xyz/audio/s01/S01E01_-_The_Origin_of_Consciousness_in_the_Breakdown_of_the_Bicameral_Mind.mp3](https://notrelated.xyz/audio/s01/S01E01_-_The_Origin_of_Consciousness_in_the_Breakdown_of_the_Bicameral_Mind.mp3)
  - date published: 2018-08-24 04:00:00+00:00
@@ -220,11 +298,29 @@
  - user: rumpel
  - tags: ['cancel culture', 'the left wing', 'free speech']
 
+## Hang Massive - The Secret Kissing of the Sun and Moon [ Official Video ]
+ - [https://www.youtube.com/watch?v=nvmOoSFhhJ4](https://www.youtube.com/watch?v=nvmOoSFhhJ4)
+ - date published: 2018-08-09 00:00:00+00:00
+ - user: rumpel
+ - tags: ['music']
+
 ## What are the most pressing world problems?
  - [https://80000hours.org/problem-profiles/](https://80000hours.org/problem-profiles/)
  - date published: 2018-08-04 17:15:30+00:00
  - user: rumpel
  - tags: ['crisis', 'climate change']
+
+## half•alive - still feel. [OFFICIAL VIDEO]
+ - [https://www.youtube.com/watch?v=KOOhPfMbuIQ](https://www.youtube.com/watch?v=KOOhPfMbuIQ)
+ - date published: 2018-08-03 00:00:00+00:00
+ - user: rumpel
+ - tags: ['music']
+
+## Jungle - Heavy, California
+ - [https://www.youtube.com/watch?v=w4LkSRXrK34](https://www.youtube.com/watch?v=w4LkSRXrK34)
+ - date published: 2018-07-30 00:00:00+00:00
+ - user: rumpel
+ - tags: ['music']
 
 ## Is there life on other planets? (1962) | RetroFocus
  - [https://www.youtube.com/watch?v=EkvffcxQzMY](https://www.youtube.com/watch?v=EkvffcxQzMY)
@@ -268,6 +364,12 @@
  - user: rumpel
  - tags: ['programming', 'python']
 
+## The House of the Rising Sun--trad. blues, Daniel Estrem, baroque lute
+ - [https://www.youtube.com/watch?v=xJh865acA-U](https://www.youtube.com/watch?v=xJh865acA-U)
+ - date published: 2018-07-06 00:00:00+00:00
+ - user: rumpel
+ - tags: ['music']
+
 ## Is your phone WATCHING you? Apps aren't secretly listening to your private conversations but some will record video of everything you do
  - [https://www.dailymail.co.uk/sciencetech/article-5916671/Your-smartphone-NOT-listening-does-record-video-do.html](https://www.dailymail.co.uk/sciencetech/article-5916671/Your-smartphone-NOT-listening-does-record-video-do.html)
  - date published: 2018-07-04 12:04:50+00:00
@@ -279,6 +381,12 @@
  - date published: 2018-06-26 10:40:51+00:00
  - user: rumpel
  - tags: ['the left wing', 'pronouns', 'newspeak']
+
+## Tautumeitas - Raganu Nakts (Official Music Video)
+ - [https://www.youtube.com/watch?v=LsgO5OTUsRU](https://www.youtube.com/watch?v=LsgO5OTUsRU)
+ - date published: 2018-06-23 00:00:00+00:00
+ - user: rumpel
+ - tags: ['music']
 
 ## How the Gorgon gas plant could wipe out a year's worth of Australia's solar emissions savings - ABC News
  - [https://www.abc.net.au/news/2018-06-21/gorgon-gas-plant-wiping-out-a-year-of-solar-emission-savings/9890386](https://www.abc.net.au/news/2018-06-21/gorgon-gas-plant-wiping-out-a-year-of-solar-emission-savings/9890386)
@@ -304,6 +412,18 @@
  - user: None
  - tags: ['manufacturing consent', 'privacy', 'china', 'facebook', 'meta']
 
+## Ill Camille: NPR Music Tiny Desk Concert
+ - [https://www.youtube.com/watch?v=OXPfeg09IOE](https://www.youtube.com/watch?v=OXPfeg09IOE)
+ - date published: 2018-06-01 00:00:00+00:00
+ - user: rumpel
+ - tags: ['concert', 'music']
+
+## Juanes & Mon Laferte: NPR Music Tiny Desk Concert
+ - [https://www.youtube.com/watch?v=aWjihS2LHLs](https://www.youtube.com/watch?v=aWjihS2LHLs)
+ - date published: 2018-05-30 00:00:00+00:00
+ - user: rumpel
+ - tags: ['concert', 'music']
+
 ## New Zealand's Five Eyes membership called into question over 'China links' | New Zealand | The Guardian
  - [https://www.theguardian.com/world/2018/may/28/new-zealands-five-eyes-membership-called-into-question-over-china-links](https://www.theguardian.com/world/2018/may/28/new-zealands-five-eyes-membership-called-into-question-over-china-links)
  - date published: 2018-05-28 18:16:50+00:00
@@ -315,6 +435,12 @@
  - date published: 2018-05-25 14:47:48+00:00
  - user: rumpel
  - tags: ['censorship', 'moderation', 'facebook', 'pepe']
+
+## Jamiroquai Bee Gees Mashup - Pomplamoose
+ - [https://www.youtube.com/watch?v=ooZR4LSuppk](https://www.youtube.com/watch?v=ooZR4LSuppk)
+ - date published: 2018-05-24 00:00:00+00:00
+ - user: rumpel
+ - tags: ['music']
 
 ## Google erases 'Don't be evil' from code of conduct after 18 years | ZDNET
  - [https://www.zdnet.com/article/google-erases-dont-be-evil-from-code-of-conduct-after-18-years/](https://www.zdnet.com/article/google-erases-dont-be-evil-from-code-of-conduct-after-18-years/)
@@ -375,6 +501,18 @@
  - date published: 2018-05-01 07:27:13+00:00
  - user: None
  - tags: ['who', 'bill gates']
+
+## "INTERROGATING ZUCKERBERG" — A Bad Lip Reading
+ - [https://www.youtube.com/watch?v=_zCDvOsdL9Q](https://www.youtube.com/watch?v=_zCDvOsdL9Q)
+ - date published: 2018-04-24 00:00:00+00:00
+ - user: rumpel
+ - tags: ['funny']
+
+## Pumped Up Kicks Radiohead Mashup - Pomplamoose
+ - [https://www.youtube.com/watch?v=WkbnUi1KRQY](https://www.youtube.com/watch?v=WkbnUi1KRQY)
+ - date published: 2018-04-18 00:00:00+00:00
+ - user: rumpel
+ - tags: ['music']
 
 ## You Won’t Believe What Obama Says In This Video! 😉
  - [https://www.youtube.com/watch?v=cQ54GDm1eL0](https://www.youtube.com/watch?v=cQ54GDm1eL0)
@@ -472,6 +610,12 @@
  - user: rumpel
  - tags: ['programming', 'gcc']
 
+## GLITCH - A Synthwave Mix
+ - [https://www.youtube.com/watch?v=isIj3tuQTDY](https://www.youtube.com/watch?v=isIj3tuQTDY)
+ - date published: 2018-03-21 00:00:00+00:00
+ - user: rumpel
+ - tags: ['full album', 'music']
+
 ## Windows 10: Microsoft is looking to force people to use its Edge browser
  - [https://www.theguardian.com/technology/2018/mar/19/windows-10-microsoft-force-people-edge-browser-windows-mail-chrome-firefox](https://www.theguardian.com/technology/2018/mar/19/windows-10-microsoft-force-people-edge-browser-windows-mail-chrome-firefox)
  - date published: 2018-03-19 12:46:36+00:00
@@ -496,11 +640,29 @@
  - user: None
  - tags: ['hate speech', 'myanmar', 'facebook', 'privacy']
 
+## Altın Gün - Goca Dünya (Live on KEXP)
+ - [https://www.youtube.com/watch?v=FyQ_5uLyFMo](https://www.youtube.com/watch?v=FyQ_5uLyFMo)
+ - date published: 2018-03-03 00:00:00+00:00
+ - user: rumpel
+ - tags: ['music']
+
+## Rone - Origami (Official Video)
+ - [https://www.youtube.com/watch?v=hVv331iLMXM](https://www.youtube.com/watch?v=hVv331iLMXM)
+ - date published: 2018-03-01 00:00:00+00:00
+ - user: rumpel
+ - tags: ['music']
+
 ## Elon Musk's family once owned an emerald mine in Zambia — here's the fascinating story of how they came to own it
  - [https://www.businessinsider.co.za/how-elon-musks-family-came-to-own-an-emerald-mine-2018-2](https://www.businessinsider.co.za/how-elon-musks-family-came-to-own-an-emerald-mine-2018-2)
  - date published: 2018-02-28 15:50:37+00:00
  - user: rumpel
  - tags: ['elon musk', 'elites', 'billionaires']
+
+## Big Daddy Kane: NPR Music Tiny Desk Concert
+ - [https://www.youtube.com/watch?v=p8Uw1cl4xjg](https://www.youtube.com/watch?v=p8Uw1cl4xjg)
+ - date published: 2018-02-26 00:00:00+00:00
+ - user: rumpel
+ - tags: ['concert', 'music']
 
 ## This is what happened when Norway mandated that women make up 40% of the boardroom - MarketWatch
  - [https://www.marketwatch.com/story/this-is-what-happened-when-norway-mandated-that-women-make-up-40-of-the-boardroom-2018-02-20-1088264](https://www.marketwatch.com/story/this-is-what-happened-when-norway-mandated-that-women-make-up-40-of-the-boardroom-2018-02-20-1088264)
@@ -514,17 +676,41 @@
  - user: rumpel
  - tags: ['vulnerability', 'virus', 'notpetya']
 
+## Ibeyi: NPR Music Tiny Desk Concert
+ - [https://www.youtube.com/watch?v=GeApLkyH8jg](https://www.youtube.com/watch?v=GeApLkyH8jg)
+ - date published: 2018-02-14 00:00:00+00:00
+ - user: rumpel
+ - tags: ['concert', 'music']
+
+## Lovefool - Pomplamoose (Live) - The Cardigans
+ - [https://www.youtube.com/watch?v=QoI6f3drCWY](https://www.youtube.com/watch?v=QoI6f3drCWY)
+ - date published: 2018-02-08 00:00:00+00:00
+ - user: rumpel
+ - tags: ['music']
+
 ## New California Law Allows Jail Time for Using Wrong Gender Pronoun — San Diego Criminal Lawyers Blog — February 2, 2018
  - [https://www.sandiegocriminallawyersblog.com/new-california-law-allows-jail-time-using-wrong-gender-pronoun/](https://www.sandiegocriminallawyersblog.com/new-california-law-allows-jail-time-using-wrong-gender-pronoun/)
  - date published: 2018-02-02 11:05:53+00:00
  - user: rumpel
  - tags: ['the left wing', 'pronouns', 'newspeak']
 
+## Özgür Baba - Dertli Dolap
+ - [https://www.youtube.com/watch?v=cIMKJ43TFLs](https://www.youtube.com/watch?v=cIMKJ43TFLs)
+ - date published: 2018-01-30 00:00:00+00:00
+ - user: rumpel
+ - tags: ['music']
+
 ## Joe Rogan Experience #1070 - Jordan Peterson
  - [https://www.youtube.com/watch?v=6T7pUEZfgdI](https://www.youtube.com/watch?v=6T7pUEZfgdI)
  - date published: 2018-01-30 00:00:00+00:00
  - user: rumpel
  - tags: ['jordan peterson']
+
+## Light in Babylon - Hinech Yafa (2013)
+ - [https://www.youtube.com/watch?v=Y6T49f-nUvw](https://www.youtube.com/watch?v=Y6T49f-nUvw)
+ - date published: 2018-01-19 00:00:00+00:00
+ - user: rumpel
+ - tags: ['music']
 
 ## Did the Chief Executive Officer of Nestlé Say Water Is Not a Human Right? | Snopes.com
  - [https://www.snopes.com/fact-check/nestle-ceo-water-not-human-right/](https://www.snopes.com/fact-check/nestle-ceo-water-not-human-right/)

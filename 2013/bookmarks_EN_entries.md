@@ -1,3 +1,9 @@
+## WHAT DOES THE FAX SAY?  (North Korea Ylvis The Fox Parody Music Video HD)
+ - [https://www.youtube.com/watch?v=pxDgQJBVJxg](https://www.youtube.com/watch?v=pxDgQJBVJxg)
+ - date published: 2013-12-22 00:00:00+00:00
+ - user: rumpel
+ - tags: ['music', 'funny']
+
 ## Five Eyes
  - [https://en.wikipedia.org/wiki/Five_Eyes](https://en.wikipedia.org/wiki/Five_Eyes)
  - date published: 2013-12-21 14:41:21+00:00
@@ -40,6 +46,12 @@
  - user: None
  - tags: ['five eyes', 'surveillance', 'nsa']
 
+## Lazerhawk ~ Redline Full Album
+ - [https://www.youtube.com/watch?v=QpDn4-Na5co](https://www.youtube.com/watch?v=QpDn4-Na5co)
+ - date published: 2013-11-14 00:00:00+00:00
+ - user: rumpel
+ - tags: ['full album', 'music']
+
 ## An old mans advice.
  - [https://www.youtube.com/watch?v=9fvETktnaRw](https://www.youtube.com/watch?v=9fvETktnaRw)
  - date published: 2013-11-07 00:00:00+00:00
@@ -52,6 +64,12 @@
  - user: rumpel
  - tags: ['johnson and johnson', 'big pharma']
 
+## YOU MAN - "BIRDCAGE"
+ - [https://www.youtube.com/watch?v=PD3RCwNseqQ](https://www.youtube.com/watch?v=PD3RCwNseqQ)
+ - date published: 2013-10-30 00:00:00+00:00
+ - user: rumpel
+ - tags: ['music']
+
 ## Norway's gender quota law has made boards more professional: state fund boss | Reuters
  - [https://www.reuters.com/article/us-nordic-investment-fund-idUSBRE98T0LM20130930](https://www.reuters.com/article/us-nordic-investment-fund-idUSBRE98T0LM20130930)
  - date published: 2013-09-30 20:58:03+00:00
@@ -63,6 +81,12 @@
  - date published: 2013-09-15 12:04:50+00:00
  - user: None
  - tags: ['google', 'wifi', 'big tech', 'corporatocracy', 'privacy']
+
+## Ott - Skylon [Full Album]
+ - [https://www.youtube.com/watch?v=V4Iow4cWvP0](https://www.youtube.com/watch?v=V4Iow4cWvP0)
+ - date published: 2013-09-15 00:00:00+00:00
+ - user: rumpel
+ - tags: ['full album', 'music']
 
 ## New York Times provides new details about NSA backdoor in crypto spec | Ars Technica
  - [https://arstechnica.com/information-technology/2013/09/new-york-times-provides-new-details-about-nsa-backdoor-in-crypto-spec/](https://arstechnica.com/information-technology/2013/09/new-york-times-provides-new-details-about-nsa-backdoor-in-crypto-spec/)
@@ -81,6 +105,12 @@
  - date published: 2013-08-23 08:33:05+00:00
  - user: rumpel
  - tags: ['vulnerability', 'tpm', 'windows', 'security']
+
+## Lorn - Sega Sunset
+ - [https://www.youtube.com/watch?v=mauV2NdCs60](https://www.youtube.com/watch?v=mauV2NdCs60)
+ - date published: 2013-08-18 00:00:00+00:00
+ - user: rumpel
+ - tags: ['music']
 
 ## MIT releases report on its actions in the Aaron Swartz case
  - [https://news.mit.edu/2013/mit-releases-swartz-report-0730](https://news.mit.edu/2013/mit-releases-swartz-report-0730)
@@ -136,6 +166,12 @@
  - user: rumpel
  - tags: ['big tech', 'big brother', 'manufacturing consent', 'nsa']
 
+## Gasoline - A Journey Into Abstract Hip-Hop [Full album]
+ - [https://www.youtube.com/watch?v=3q8nGnls1Ow](https://www.youtube.com/watch?v=3q8nGnls1Ow)
+ - date published: 2013-05-24 00:00:00+00:00
+ - user: rumpel
+ - tags: ['full album', 'music']
+
 ## The Ugliest Open Secret Of German Politics: Pedophiles In The Green Party's Past
  - [https://worldcrunch.com/culture-society/the-ugliest-open-secret-of-german-politics-pedophiles-in-the-green-party039s-past](https://worldcrunch.com/culture-society/the-ugliest-open-secret-of-german-politics-pedophiles-in-the-green-party039s-past)
  - date published: 2013-05-23 20:57:26+00:00
@@ -147,6 +183,12 @@
  - date published: 2013-05-14 20:58:23+00:00
  - user: rumpel
  - tags: ['paedophilia', 'germany']
+
+## Amiga music: Yo! Joe! (compilation - Dolby Headphone)
+ - [https://www.youtube.com/watch?v=mc1KWRllaI4](https://www.youtube.com/watch?v=mc1KWRllaI4)
+ - date published: 2013-05-10 00:00:00+00:00
+ - user: rumpel
+ - tags: ['chiptune', 'music']
 
 ## Documents Reveal N.S.A. Campaign Against Encryption - Document - NYTimes.com
  - [https://archive.nytimes.com/www.nytimes.com/interactive/2013/09/05/us/documents-reveal-nsa-campaign-against-encryption.html](https://archive.nytimes.com/www.nytimes.com/interactive/2013/09/05/us/documents-reveal-nsa-campaign-against-encryption.html)
@@ -166,11 +208,23 @@
  - user: rumpel
  - tags: ['canada', 'justin trudeau']
 
+## Amiga Music: Jester Compilation #1
+ - [https://www.youtube.com/watch?v=kEBW8A3bw-Q](https://www.youtube.com/watch?v=kEBW8A3bw-Q)
+ - date published: 2013-03-10 00:00:00+00:00
+ - user: rumpel
+ - tags: ['chiptune', 'music']
+
 ## The Untouchables (full documentary) | FRONTLINE
  - [https://www.youtube.com/watch?v=B4TWN54KqfQ](https://www.youtube.com/watch?v=B4TWN54KqfQ)
  - date published: 2013-03-04 22:56:07+00:00
  - user: rumpel
  - tags: ['blackrock', 'wall street']
+
+## Most awesome 8-bit song ever, now in HD
+ - [https://www.youtube.com/watch?v=nFp_2eJlfYg](https://www.youtube.com/watch?v=nFp_2eJlfYg)
+ - date published: 2013-01-27 00:00:00+00:00
+ - user: rumpel
+ - tags: ['chiptune', 'music']
 
 ## Bonobo - Cirrus (Official Video)
  - [https://www.youtube.com/watch?v=WF34N4gJAKE](https://www.youtube.com/watch?v=WF34N4gJAKE)
@@ -178,11 +232,23 @@
  - user: rumpel
  - tags: ['art', 'music']
 
+## LIGHT IN BABYLON - Hinech Yafa    -    Istanbul
+ - [https://www.youtube.com/watch?v=aKJvbTEnp0I](https://www.youtube.com/watch?v=aKJvbTEnp0I)
+ - date published: 2013-01-21 00:00:00+00:00
+ - user: rumpel
+ - tags: ['music']
+
 ## Internet Activist, a Creator of RSS, Is Dead at 26, Apparently a Suicide
  - [https://www.nytimes.com/2013/01/13/technology/aaron-swartz-internet-activist-dies-at-26.html](https://www.nytimes.com/2013/01/13/technology/aaron-swartz-internet-activist-dies-at-26.html)
  - date published: 2013-01-12 10:28:59+00:00
  - user: None
  - tags: ['rss', 'aaron swartz']
+
+## NTR Podium: Lavinia Meijer speelt Philip Glass
+ - [https://www.youtube.com/watch?v=hV2-zFh3tAU](https://www.youtube.com/watch?v=hV2-zFh3tAU)
+ - date published: 2013-01-09 00:00:00+00:00
+ - user: rumpel
+ - tags: ['music']
 
 ## Unix philosophy
  - [https://en.wikipedia.org/wiki/Unix_philosophy](https://en.wikipedia.org/wiki/Unix_philosophy)

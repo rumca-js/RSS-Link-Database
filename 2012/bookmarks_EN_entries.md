@@ -10,6 +10,24 @@
  - user: None
  - tags: ['climate change', 'carbon footprint', 'carbon emissions']
 
+## Rone - Bye Bye Macadam (Official Video)
+ - [https://www.youtube.com/watch?v=kfoJUeyMsOE](https://www.youtube.com/watch?v=kfoJUeyMsOE)
+ - date published: 2012-12-18 00:00:00+00:00
+ - user: rumpel
+ - tags: ['music']
+
+## The Knife - We Share Our Mothers Health
+ - [https://www.youtube.com/watch?v=gtdE7yMDdiA](https://www.youtube.com/watch?v=gtdE7yMDdiA)
+ - date published: 2012-11-29 00:00:00+00:00
+ - user: rumpel
+ - tags: ['music']
+
+## Aphex Twin - Vordhosbn
+ - [https://www.youtube.com/watch?v=XYrQC-jWMFM](https://www.youtube.com/watch?v=XYrQC-jWMFM)
+ - date published: 2012-10-07 00:00:00+00:00
+ - user: rumpel
+ - tags: ['music']
+
 ## Decline of bees forces China’s apple farmers to pollinate by hand
  - [https://chinadialogue.net/en/food/5193-decline-of-bees-forces-china-s-apple-farmers-to-pollinate-by-hand/](https://chinadialogue.net/en/food/5193-decline-of-bees-forces-china-s-apple-farmers-to-pollinate-by-hand/)
  - date published: 2012-10-02 18:06:03+00:00
@@ -28,6 +46,18 @@
  - user: None
  - tags: ['surveillance', 'big brother', 'nsa', 'privacy']
 
+## Amiga Music: Jogeir Liljedahl Compilation #1
+ - [https://www.youtube.com/watch?v=eclMFa0mD1c](https://www.youtube.com/watch?v=eclMFa0mD1c)
+ - date published: 2012-08-16 00:00:00+00:00
+ - user: rumpel
+ - tags: ['chiptune', 'music']
+
+## Wizard Of Meh
+ - [https://www.youtube.com/watch?v=0Fk2BaM1la0](https://www.youtube.com/watch?v=0Fk2BaM1la0)
+ - date published: 2012-08-12 00:00:00+00:00
+ - user: rumpel
+ - tags: ['music']
+
 ## Pfizer settles foreign bribery case with U.S. government | Reuters
  - [https://www.reuters.com/article/us-pfizer-settlement-idUSBRE8760WM20120807](https://www.reuters.com/article/us-pfizer-settlement-idUSBRE8760WM20120807)
  - date published: 2012-08-07 19:57:30+00:00
@@ -40,6 +70,12 @@ Foreign Bribery Investigation | OPA | Department of Justice
  - date published: 2012-08-07 19:56:42+00:00
  - user: rumpel
  - tags: ['pfizer', 'manufacturing consent', 'big pharma']
+
+## The Evolution of PC Games
+ - [https://www.youtube.com/watch?v=OuO-s1kugLs](https://www.youtube.com/watch?v=OuO-s1kugLs)
+ - date published: 2012-07-17 00:00:00+00:00
+ - user: rumpel
+ - tags: ['chiptune', 'music']
 
 ## Google: government requests to censor content "alarming" | Reuters
  - [https://www.reuters.com/article/us-google-censorship-idUSBRE85H0S220120618](https://www.reuters.com/article/us-google-censorship-idUSBRE85H0S220120618)
@@ -71,6 +107,12 @@ Foreign Bribery Investigation | OPA | Department of Justice
  - user: rumpel
  - tags: ['ansic', 'programming']
 
+## Отава Ё - Про Ивана Groove (русское готическое R'N'B) - Otava Yo
+ - [https://www.youtube.com/watch?v=YbBU06irWT8](https://www.youtube.com/watch?v=YbBU06irWT8)
+ - date published: 2012-04-23 00:00:00+00:00
+ - user: rumpel
+ - tags: ['music']
+
 ## Berlusconi’s ‘bunga bunga’ women testify at his trial
  - [https://edition.cnn.com/2012/04/16/world/europe/italy-berlusconi-trial/index.html](https://edition.cnn.com/2012/04/16/world/europe/italy-berlusconi-trial/index.html)
  - date published: 2012-04-16 20:35:25+00:00
@@ -101,9 +143,27 @@ Foreign Bribery Investigation | OPA | Department of Justice
  - user: rumpel
  - tags: ['surveillance', 'government control', 'protest', 'privacy', 'censorship', 'acta']
 
+## LazerHawk - King of The Streets
+ - [https://www.youtube.com/watch?v=eyZQUEMZlCU](https://www.youtube.com/watch?v=eyZQUEMZlCU)
+ - date published: 2012-03-06 00:00:00+00:00
+ - user: rumpel
+ - tags: ['music']
+
+## Estas Tonne - The Song of the Golden Dragon
+ - [https://www.youtube.com/watch?v=7gphiFVVtUI](https://www.youtube.com/watch?v=7gphiFVVtUI)
+ - date published: 2012-02-29 00:00:00+00:00
+ - user: rumpel
+ - tags: ['music']
+
 ## EU countries sign unpopular anti-counterfeit treaty
  - [https://euobserver.com/rule-of-law/115043](https://euobserver.com/rule-of-law/115043)
  - date published: 2012-01-27 10:50:13+00:00
  - user: rumpel
  - tags: ['surveillance', 'government control', 'protest', 'privacy', 'censorship', 'acta']
+
+## Fallout 2 - The Tribute
+ - [https://www.youtube.com/watch?v=y82euAFSg7U](https://www.youtube.com/watch?v=y82euAFSg7U)
+ - date published: 2012-01-16 00:00:00+00:00
+ - user: rumpel
+ - tags: ['music']
 

@@ -1,3 +1,9 @@
+## Tribute to Fallouts
+ - [https://www.youtube.com/watch?v=p-mVa7D-ZPY](https://www.youtube.com/watch?v=p-mVa7D-ZPY)
+ - date published: 2007-12-27 00:00:00+00:00
+ - user: rumpel
+ - tags: ['music']
+
 ## Unintended victims of Gates Foundation generosity
  - [https://www.latimes.com/nation/la-na-gates16dec16-story.html](https://www.latimes.com/nation/la-na-gates16dec16-story.html)
  - date published: 2007-12-16 20:56:30+00:00
@@ -16,6 +22,12 @@
  - user: None
  - tags: ['conspiracy theory', 'aaron russo']
 
+## Amiga music tribute
+ - [https://www.youtube.com/watch?v=EuXVy6qXyuI](https://www.youtube.com/watch?v=EuXVy6qXyuI)
+ - date published: 2007-08-30 00:00:00+00:00
+ - user: rumpel
+ - tags: ['chiptune', 'music']
+
 ## Windows By Stealth: The Updates You Don't Want | Slated
  - [https://slated.org/windows_by_stealth_the_updates_you_dont_want](https://slated.org/windows_by_stealth_the_updates_you_dont_want)
  - date published: 2007-08-26 08:30:16+00:00
@@ -28,9 +40,33 @@
  - user: rumpel
  - tags: ['technofeudalism', 'windows', 'microsoft']
 
+## 100 Amiga games in 10 minutes!
+ - [https://www.youtube.com/watch?v=hUoJBerFDsA](https://www.youtube.com/watch?v=hUoJBerFDsA)
+ - date published: 2007-06-09 00:00:00+00:00
+ - user: rumpel
+ - tags: ['chiptune', 'music']
+
+## Amiga game music compilation
+ - [https://www.youtube.com/watch?v=nTz5iwmtkrs](https://www.youtube.com/watch?v=nTz5iwmtkrs)
+ - date published: 2007-06-02 00:00:00+00:00
+ - user: rumpel
+ - tags: ['chiptune', 'music']
+
+## A500 Gods - Intro
+ - [https://www.youtube.com/watch?v=xN0VIgO3U0k](https://www.youtube.com/watch?v=xN0VIgO3U0k)
+ - date published: 2007-05-09 00:00:00+00:00
+ - user: rumpel
+ - tags: ['chiptune', 'music']
+
 ## Biden's description of Obama draws scrutiny - CNN.com
  - [https://edition.cnn.com/2007/POLITICS/01/31/biden.obama/](https://edition.cnn.com/2007/POLITICS/01/31/biden.obama/)
  - date published: 2007-02-09 20:26:13+00:00
  - user: rumpel
  - tags: ['barack obama', 'joe biden']
+
+## Goldfrapp - Ride A White Horse
+ - [https://www.youtube.com/watch?v=nFF8bubMc40](https://www.youtube.com/watch?v=nFF8bubMc40)
+ - date published: 2007-02-07 00:00:00+00:00
+ - user: rumpel
+ - tags: ['music']
 

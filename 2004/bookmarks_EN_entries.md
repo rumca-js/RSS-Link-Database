@@ -10,3 +10,9 @@
  - user: rumpel
  - tags: ['media matters', 'media']
 
+## SCO sues its own customers over Linux | Network World
+ - [https://www.networkworld.com/article/2331156/sco-sues-its-own-customers-over-linux.html](https://www.networkworld.com/article/2331156/sco-sues-its-own-customers-over-linux.html)
+ - date published: 2004-03-10 08:35:01+00:00
+ - user: rumpel
+ - tags: ['sco group', 'linux']
+
