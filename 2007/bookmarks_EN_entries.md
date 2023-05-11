@@ -64,9 +64,3 @@
  - user: rumpel
  - tags: ['barack obama', 'joe biden']
 
-## Goldfrapp - Ride A White Horse
- - [https://www.youtube.com/watch?v=nFF8bubMc40](https://www.youtube.com/watch?v=nFF8bubMc40)
- - date published: 2007-02-07 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
-

@@ -1,9 +1,3 @@
-## Edward Sharpe And The Magnetic Zeroes: NPR Music Tiny Desk Concert
- - [https://www.youtube.com/watch?v=XWIvfE01J0k](https://www.youtube.com/watch?v=XWIvfE01J0k)
- - date published: 2009-11-02 00:00:00+00:00
- - user: rumpel
- - tags: ['concert', 'music']
-
 ## Pfizer fined $2.3 billion for illegal marketing in off-label drug case - ABC News
  - [https://abcnews.go.com/Business/pfizer-fined-23-billion-illegal-marketing-off-label/story?id=8477617](https://abcnews.go.com/Business/pfizer-fined-23-billion-illegal-marketing-off-label/story?id=8477617)
  - date published: 2009-09-02 20:27:25+00:00
@@ -57,10 +51,4 @@
  - date published: 2009-04-29 20:15:58+00:00
  - user: rumpel
  - tags: ['pandemic', 'swine flu', 'mexico']
-
-## Dub FX 'Flow' feat. Mr Woodnote
- - [https://www.youtube.com/watch?v=WhBoR_tgXCI](https://www.youtube.com/watch?v=WhBoR_tgXCI)
- - date published: 2009-04-20 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
 

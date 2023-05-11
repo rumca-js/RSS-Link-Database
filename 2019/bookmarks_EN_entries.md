@@ -10,12 +10,6 @@
  - user: rumpel
  - tags: ['dupoint', 'movies', 'pollution', 'climate change']
 
-## "MY STICK!" — A Bad Lip Reading of The Last Jedi
- - [https://www.youtube.com/watch?v=3Xl0Qr0uXuY](https://www.youtube.com/watch?v=3Xl0Qr0uXuY)
- - date published: 2019-12-25 00:00:00+00:00
- - user: rumpel
- - tags: ['music', 'funny']
-
 ## Fifteen years in Iowa jail for burning pride flag
  - [https://www.bbc.com/news/world-us-canada-50861259](https://www.bbc.com/news/world-us-canada-50861259)
  - date published: 2019-12-19 20:53:18+00:00
@@ -58,12 +52,6 @@
  - user: rumpel
  - tags: ['satanic temple']
 
-## Altin Gün - Yaniyorum - Old Growth Sessions @Pickathon 2019 S04E03
- - [https://www.youtube.com/watch?v=fw7L7ZO4z_A](https://www.youtube.com/watch?v=fw7L7ZO4z_A)
- - date published: 2019-12-05 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
-
 ## Top 25 Most Dangerous Vulnerabilities Refreshed After 8 Years
  - [https://www.bleepingcomputer.com/news/security/top-25-most-dangerous-vulnerabilities-refreshed-after-8-years/](https://www.bleepingcomputer.com/news/security/top-25-most-dangerous-vulnerabilities-refreshed-after-8-years/)
  - date published: 2019-11-27 09:09:31+00:00
@@ -75,12 +63,6 @@
  - date published: 2019-11-25 12:39:10+00:00
  - user: rumpel
  - tags: ['big tech', 'internet', 'tim berners-lee', 'surveillance', 'privacy', 'all time', 'dystopia']
-
-## Burna Boy: NPR Music Tiny Desk Concert
- - [https://www.youtube.com/watch?v=xaaYgVRZTnE](https://www.youtube.com/watch?v=xaaYgVRZTnE)
- - date published: 2019-11-25 00:00:00+00:00
- - user: rumpel
- - tags: ['concert', 'music']
 
 ## How to keep employees happy: LinkedIn study reveals three factors
  - [https://www.techrepublic.com/article/how-to-keep-employees-happy-linkedin-study-reveals-three-factors/](https://www.techrepublic.com/article/how-to-keep-employees-happy-linkedin-study-reveals-three-factors/)
@@ -111,12 +93,6 @@
  - date published: 2019-11-15 14:08:29+00:00
  - user: rumpel
  - tags: ['dead internet', 'big tech', 'search engines', 'algorithms', 'media bias', 'moderation', 'manufacturing consent']
-
-## LITTLE BIG - GO BANANAS (Official Music Video)
- - [https://www.youtube.com/watch?v=ADlGkXAz1D0](https://www.youtube.com/watch?v=ADlGkXAz1D0)
- - date published: 2019-11-15 00:00:00+00:00
- - user: rumpel
- - tags: ['music', 'funny']
 
 ## Jonathan Pageau: The Surprising Symbolism of 666
  - [https://www.youtube.com/watch?v=qM_kQjpAK6g](https://www.youtube.com/watch?v=qM_kQjpAK6g)
@@ -178,18 +154,6 @@
  - user: rumpel
  - tags: ['johnson and johnson', 'big pharma']
 
-## HorrorLand
- - [https://www.youtube.com/watch?v=NhEXRQ5ndI0](https://www.youtube.com/watch?v=NhEXRQ5ndI0)
- - date published: 2019-10-29 15:47:22+00:00
- - user: rumpel
- - tags: ['music']
-
-## Mr. Blue Sky | Electric Light Orchestra | Pomplamoose
- - [https://www.youtube.com/watch?v=PyUNDr0EcAk](https://www.youtube.com/watch?v=PyUNDr0EcAk)
- - date published: 2019-10-24 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
-
 ## Edward Snowden: How Your Cell Phone Spies on You
  - [https://www.youtube.com/watch?v=VFns39RXPrU](https://www.youtube.com/watch?v=VFns39RXPrU)
  - date published: 2019-10-23 19:56:19+00:00
@@ -207,12 +171,6 @@
  - date published: 2019-10-18 07:29:13+00:00
  - user: None
  - tags: ['event 201', 'pandemic', 'bill gates', 'covid']
-
-## Harder, Better, Faster, Stronger | Daft Punk | Pomplamoose
- - [https://www.youtube.com/watch?v=fUpdfpOPf4Y](https://www.youtube.com/watch?v=fUpdfpOPf4Y)
- - date published: 2019-10-17 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
 
 ## How a glitch in India's biometric welfare system can be lethal
  - [https://www.theguardian.com/technology/2019/oct/16/glitch-india-biometric-welfare-system-starvation](https://www.theguardian.com/technology/2019/oct/16/glitch-india-biometric-welfare-system-starvation)
@@ -237,12 +195,6 @@
  - date published: 2019-10-10 12:10:31+00:00
  - user: None
  - tags: ['hong kong', 'china', 'censorship', 'google']
-
-## Reverse Dance. Medieval Dance. Hurdy-Gurdy, Organ & Drum
- - [https://www.youtube.com/watch?v=bvNZeh6f8vE](https://www.youtube.com/watch?v=bvNZeh6f8vE)
- - date published: 2019-10-10 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
 
 ## How The Joker Smashes Our Political Narratives
  - [https://www.youtube.com/watch?v=H74BbcTs6xs](https://www.youtube.com/watch?v=H74BbcTs6xs)
@@ -298,12 +250,6 @@
  - user: rumpel
  - tags: ['eyes wide shut', 'jeffrey epstein', 'billionaires']
 
-## Digital Love | Daft Punk | Pomplamoose
- - [https://www.youtube.com/watch?v=xy98W3a26gs](https://www.youtube.com/watch?v=xy98W3a26gs)
- - date published: 2019-10-04 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
-
 ## Twitter executive for Middle East is British Army 'psyops' soldier | Middle East Eye
  - [https://www.middleeasteye.net/news/twitter-executive-also-part-time-officer-uk-army-psychological-warfare-unit](https://www.middleeasteye.net/news/twitter-executive-also-part-time-officer-uk-army-psychological-warfare-unit)
  - date published: 2019-09-30 20:36:52+00:00
@@ -333,12 +279,6 @@
  - date published: 2019-09-22 09:03:03+00:00
  - user: rumpel
  - tags: ['christianophobia']
-
-## Apashe - Good News (Official Music Video)
- - [https://www.youtube.com/watch?v=Slv9aYoC4FM](https://www.youtube.com/watch?v=Slv9aYoC4FM)
- - date published: 2019-09-18 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
 
 ## 8 Things You May Not Know About Our Air Defense on 9/11 > U.S. Department of Defense > Defense Department News
  - [https://www.defense.gov/News/News-Stories/Article/Article/1955624/8-things-you-may-not-know-about-our-air-defense-on-911/](https://www.defense.gov/News/News-Stories/Article/Article/1955624/8-things-you-may-not-know-about-our-air-defense-on-911/)
@@ -424,12 +364,6 @@
  - user: rumpel
  - tags: ['surveillance', 'big brother', 'corporatocracy', 'facial recognition', 'biometric', 'privacy', 'england']
 
-## Among Authors: NPR Music Tiny Desk Concert
- - [https://www.youtube.com/watch?v=j0uhEHIU6Sk](https://www.youtube.com/watch?v=j0uhEHIU6Sk)
- - date published: 2019-08-16 00:00:00+00:00
- - user: rumpel
- - tags: ['concert', 'music']
-
 ## Haunting photos show Jeffrey Epstein’s ‘Pedophile Island’ in the Caribbean
  - [https://nypost.com/2019/08/15/haunting-photos-show-jeffrey-epsteins-pedophile-island-in-the-caribbean/#1](https://nypost.com/2019/08/15/haunting-photos-show-jeffrey-epsteins-pedophile-island-in-the-caribbean/#1)
  - date published: 2019-08-15 08:26:20+00:00
@@ -496,12 +430,6 @@
  - user: rumpel
  - tags: ['transgender', 'gender', 'the left wing', 'lgbt']
 
-## Jacob Collier: NPR Music Tiny Desk Concert
- - [https://www.youtube.com/watch?v=vPBirt1YhuM](https://www.youtube.com/watch?v=vPBirt1YhuM)
- - date published: 2019-07-29 00:00:00+00:00
- - user: rumpel
- - tags: ['concert', 'music']
-
 ## Ben Shapiro Vs Climate Change | UBC Talk
  - [https://www.youtube.com/watch?v=wRk1p8Lzwvo](https://www.youtube.com/watch?v=wRk1p8Lzwvo)
  - date published: 2019-07-27 14:40:12+00:00
@@ -513,12 +441,6 @@
  - date published: 2019-07-25 08:49:32+00:00
  - user: rumpel
  - tags: ['google', 'privacy', 'surveillance', 'law', 'corporatocracy']
-
-## Daft Punk | Something About Us | Pomplamoose
- - [https://www.youtube.com/watch?v=2CCNswShJRc](https://www.youtube.com/watch?v=2CCNswShJRc)
- - date published: 2019-07-25 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
 
 ## Public Library Deletes Pictures Of Drag Queens Fondling Children At Story Hour
  - [https://thefederalist.com/2019/07/22/public-library-deletes-pictures-drag-queens-fondling-children-story-hour/](https://thefederalist.com/2019/07/22/public-library-deletes-pictures-drag-queens-fondling-children-story-hour/)
@@ -550,12 +472,6 @@
  - user: rumpel
  - tags: ['surveillance', 'privacy', 'big tech']
 
-## I'm Still Standing | Elton John | Pomplamoose
- - [https://www.youtube.com/watch?v=eB5EZXLv6PM](https://www.youtube.com/watch?v=eB5EZXLv6PM)
- - date published: 2019-07-11 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
-
 ## So Was QAnon … Right?
  - [https://nymag.com/intelligencer/2019/07/does-the-jeffrey-epstein-indictment-qanon.html](https://nymag.com/intelligencer/2019/07/does-the-jeffrey-epstein-indictment-qanon.html)
  - date published: 2019-07-09 19:54:40+00:00
@@ -585,18 +501,6 @@
  - date published: 2019-07-05 08:18:45+00:00
  - user: rumpel
  - tags: ['sexualization', 'children']
-
-## Far Caspian | Best Of
- - [https://www.youtube.com/watch?v=1t2BAVzJVL4](https://www.youtube.com/watch?v=1t2BAVzJVL4)
- - date published: 2019-07-04 00:00:00+00:00
- - user: rumpel
- - tags: ['full album', 'music']
-
-## Betty Who: NPR Music Tiny Desk Concert
- - [https://www.youtube.com/watch?v=3AaXv14akQc](https://www.youtube.com/watch?v=3AaXv14akQc)
- - date published: 2019-07-03 00:00:00+00:00
- - user: rumpel
- - tags: ['concert', 'music']
 
 ## Amazon, Google and Facebook warrant antitrust scrutiny for many reasons – not just because they're large
  - [https://theconversation.com/amazon-google-and-facebook-warrant-antitrust-scrutiny-for-many-reasons-not-just-because-theyre-large-118370](https://theconversation.com/amazon-google-and-facebook-warrant-antitrust-scrutiny-for-many-reasons-not-just-because-theyre-large-118370)
@@ -634,12 +538,6 @@
  - user: rumpel
  - tags: ['algorithms', 'search engines']
 
-## Jungle - Full Performance (Live on KEXP)
- - [https://www.youtube.com/watch?v=m2ABEOVoikg](https://www.youtube.com/watch?v=m2ABEOVoikg)
- - date published: 2019-06-07 00:00:00+00:00
- - user: rumpel
- - tags: ['concert', 'music']
-
 ## The Do Black card has a carbon emissions limit
  - [https://www.fastcompany.com/90344150/this-credit-card-wont-let-you-buy-anything-else-after-youve-hit-your-annual-carbon-limit](https://www.fastcompany.com/90344150/this-credit-card-wont-let-you-buy-anything-else-after-youve-hit-your-annual-carbon-limit)
  - date published: 2019-06-05 06:39:22+00:00
@@ -669,18 +567,6 @@
  - date published: 2019-05-26 13:59:11+00:00
  - user: rumpel
  - tags: ['open source']
-
-## Worakls , N'to , Joachim Pastor Mix Special Hungry Music Mixed by Ben C
- - [https://www.youtube.com/watch?v=Et0bFcvSImY](https://www.youtube.com/watch?v=Et0bFcvSImY)
- - date published: 2019-05-19 00:00:00+00:00
- - user: rumpel
- - tags: ['full album', 'music']
-
-## NINGEN ISU /  Heartless Scat（人間椅子 / 無情のスキャット）
- - [https://www.youtube.com/watch?v=CbI79e5iZKs](https://www.youtube.com/watch?v=CbI79e5iZKs)
- - date published: 2019-05-14 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
 
 ## BlackRock Completes Acquisition of eFront | eFront
  - [https://www.efront.com/en/news-press-releases/blackrock-completes-acquisition-of-efront-industry-leading-alternatives-investment-software-provider](https://www.efront.com/en/news-press-releases/blackrock-completes-acquisition-of-efront-industry-leading-alternatives-investment-software-provider)
@@ -736,12 +622,6 @@
  - user: None
  - tags: ['feminism', 'gender', 'inequality']
 
-## Salvatore Ganacci - Horse (Official Music Video)
- - [https://www.youtube.com/watch?v=NkRkuI0ZgX0](https://www.youtube.com/watch?v=NkRkuI0ZgX0)
- - date published: 2019-04-17 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
-
 ## Apple Is Not Your Friend - The Facebook Feud
  - [https://www.youtube.com/watch?v=y8SjmcVJOjw](https://www.youtube.com/watch?v=y8SjmcVJOjw)
  - date published: 2019-04-16 20:17:46+00:00
@@ -772,12 +652,6 @@
  - user: rumpel
  - tags: ['transgender', 'family', 'lgbt', 'the left wing']
 
-## Roosevelt - Full Performance (Live on KEXP)
- - [https://www.youtube.com/watch?v=XE2bZLQKFHg](https://www.youtube.com/watch?v=XE2bZLQKFHg)
- - date published: 2019-04-08 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
-
 ## The quickest way to get into a fight in a 1960s Australian pub | RetroFocus
  - [https://www.youtube.com/watch?v=esBLinbJydI](https://www.youtube.com/watch?v=esBLinbJydI)
  - date published: 2019-04-05 00:00:00+00:00
@@ -802,12 +676,6 @@
  - user: None
  - tags: $tags
 
-## Meg Myers: NPR Music Tiny Desk Concert
- - [https://www.youtube.com/watch?v=vSMt8qbhu0w](https://www.youtube.com/watch?v=vSMt8qbhu0w)
- - date published: 2019-03-13 00:00:00+00:00
- - user: rumpel
- - tags: ['concert', 'music']
-
 ## German academics and authors call for end to 'gender nonsense' | Germany | The Guardian
  - [https://www.theguardian.com/world/2019/mar/08/german-academics-and-authors-call-for-end-to-gender-nonsense](https://www.theguardian.com/world/2019/mar/08/german-academics-and-authors-call-for-end-to-gender-nonsense)
  - date published: 2019-03-08 09:07:02+00:00
@@ -825,12 +693,6 @@
  - date published: 2019-02-26 11:59:59+00:00
  - user: rumpel
  - tags: ['search engines']
-
-## Hang Massive - End of Sky [Official Video]
- - [https://www.youtube.com/watch?v=oEJk3Vjii74](https://www.youtube.com/watch?v=oEJk3Vjii74)
- - date published: 2019-02-26 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
 
 ## Lawyer slams 'ridiculous' case which saw teen prosecuted for Instagramming N-word rap lyrics - Liverpool Echo
  - [https://www.liverpoolecho.co.uk/news/liverpool-news/teen-prosecuted-n-word-rap-15874476](https://www.liverpoolecho.co.uk/news/liverpool-news/teen-prosecuted-n-word-rap-15874476)
@@ -873,18 +735,6 @@
  - date published: 2019-01-17 13:23:59+00:00
  - user: rumpel
  - tags: ['c++', 'programming']
-
-## Jungle - Casio
- - [https://www.youtube.com/watch?v=7nJRGARveVc](https://www.youtube.com/watch?v=7nJRGARveVc)
- - date published: 2019-01-15 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
-
-## Aurora - Full Performance (Live on KEXP)
- - [https://www.youtube.com/watch?v=P_XguuxLo10](https://www.youtube.com/watch?v=P_XguuxLo10)
- - date published: 2019-01-14 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
 
 ## Yo-Yo Ma - Bach: Cello Suite No. 1 in G Major, Prélude (Official Video)
  - [https://www.youtube.com/watch?v=1prweT95Mo0](https://www.youtube.com/watch?v=1prweT95Mo0)

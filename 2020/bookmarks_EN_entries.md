@@ -214,12 +214,6 @@
  - user: rumpel
  - tags: ['esg', 'china']
 
-## Dua Lipa: Tiny Desk (Home) Concert
- - [https://www.youtube.com/watch?v=F4neLJQC1_E](https://www.youtube.com/watch?v=F4neLJQC1_E)
- - date published: 2020-12-04 00:00:00+00:00
- - user: rumpel
- - tags: ['concert', 'music']
-
 ## Who Is Brian Deese? Biden Taps Former Obama Climate Aide : Biden Transition Updates : NPR
  - [https://www.npr.org/sections/biden-transition-updates/2020/12/03/942205555/biden-names-blackrocks-brian-deese-as-his-top-economic-aide](https://www.npr.org/sections/biden-transition-updates/2020/12/03/942205555/biden-names-blackrocks-brian-deese-as-his-top-economic-aide)
  - date published: 2020-12-03 22:48:15+00:00
@@ -436,12 +430,6 @@
  - user: None
  - tags: ['censorship', 'twitter', 'donald trump']
 
-## The Sound Defects   The Iron Horse Full album
- - [https://www.youtube.com/watch?v=z2cespNiHC4](https://www.youtube.com/watch?v=z2cespNiHC4)
- - date published: 2020-11-04 00:00:00+00:00
- - user: rumpel
- - tags: ['full album', 'music']
-
 ## Epstein donations force resignation at international peace organization
  - [https://www.cnn.com/2020/10/30/world/epstein-donations-international-peace-institute-resign/index.html](https://www.cnn.com/2020/10/30/world/epstein-donations-international-peace-institute-resign/index.html)
  - date published: 2020-10-31 00:39:16+00:00
@@ -501,12 +489,6 @@
  - date published: 2020-10-16 19:47:48+00:00
  - user: rumpel
  - tags: ['twitter', 'corporatocracy', 'facebook', 'manufacturing consent']
-
-## Hugo Kant - Far From Home
- - [https://www.youtube.com/watch?v=2_aRBPJekjw](https://www.youtube.com/watch?v=2_aRBPJekjw)
- - date published: 2020-10-16 00:00:00+00:00
- - user: rumpel
- - tags: ['full album', 'music']
 
 ## YouTube to ban videos spreading misinformation on COVID-19 vaccines  | World Economic Forum
  - [https://www.weforum.org/agenda/2020/10/youtube-bans-coronavirus-vaccine-misinformation](https://www.weforum.org/agenda/2020/10/youtube-bans-coronavirus-vaccine-misinformation)
@@ -621,12 +603,6 @@
  - date published: 2020-09-23 14:32:51+00:00
  - user: rumpel
  - tags: ['co2', 'climate change', 'global warming']
-
-## Iron Maiden - Fear of the Dark - Bardcore
- - [https://www.youtube.com/watch?v=XWIGbHhSsGs](https://www.youtube.com/watch?v=XWIGbHhSsGs)
- - date published: 2020-09-22 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
 
 ## Carbon emissions of richest 1 percent more than double the emissions of the poorest half of humanity
  - [https://www.oxfam.org/en/press-releases/carbon-emissions-richest-1-percent-more-double-emissions-poorest-half-humanity](https://www.oxfam.org/en/press-releases/carbon-emissions-richest-1-percent-more-double-emissions-poorest-half-humanity)
@@ -765,12 +741,6 @@
  - date published: 2020-08-24 13:58:32+00:00
  - user: rumpel
  - tags: ['security', 'linux', 'administration']
-
-## System of a Down - Aerials - Medieval Style - Bardcore
- - [https://www.youtube.com/watch?v=tAVkuRKwuDI](https://www.youtube.com/watch?v=tAVkuRKwuDI)
- - date published: 2020-08-23 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
 
 ## US tells Kenya to publicly support Israel or forget free trade deal
  - [https://www.theeastafrican.co.ke/tea/news/east-africa/us-tells-kenya-to-support-israel-or-forget-free-trade-deal-2304192](https://www.theeastafrican.co.ke/tea/news/east-africa/us-tells-kenya-to-support-israel-or-forget-free-trade-deal-2304192)
@@ -916,12 +886,6 @@
  - user: rumpel
  - tags: ['germany', 'rape', 'immigration']
 
-## Instant Crush | Daft Punk | Pomplamoose
- - [https://www.youtube.com/watch?v=5GRRsZip6-o](https://www.youtube.com/watch?v=5GRRsZip6-o)
- - date published: 2020-07-30 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
-
 ## Nigel Farage: The UK is housing 48,000 illegal migrants in hotels
  - [https://www.youtube.com/watch?v=Y_rHVBE1bNk](https://www.youtube.com/watch?v=Y_rHVBE1bNk)
  - date published: 2020-07-30 00:00:00+00:00
@@ -957,12 +921,6 @@
  - date published: 2020-07-27 08:57:31+00:00
  - user: rumpel
  - tags: ['prostests', 'the left wing', 'black lives matter']
-
-## THE REAL SLIM SHADY | Medieval Bardcore Version | Eminem vs Beedle the Bardcore
- - [https://www.youtube.com/watch?v=3okjFDo2aSU](https://www.youtube.com/watch?v=3okjFDo2aSU)
- - date published: 2020-07-27 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
 
 ## Moderna gets further $472 million U.S. award for coronavirus vaccine development | Reuters
  - [https://www.reuters.com/article/us-health-coronavirus-moderna-funding-idUSKCN24R0IN](https://www.reuters.com/article/us-health-coronavirus-moderna-funding-idUSKCN24R0IN)
@@ -1036,23 +994,11 @@
  - user: rumpel
  - tags: ['george soros', 'inequality', 'black lives matter']
 
-## LOSE YOURSELF | Medieval Bardcore Version | 8 Mile | Eminem vs Beedle the Bardcore
- - [https://www.youtube.com/watch?v=zg3Ggn3CMgU](https://www.youtube.com/watch?v=zg3Ggn3CMgU)
- - date published: 2020-07-13 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
-
 ## They Don't Want You To Know: Reddit Mods Remove Viral GP Article About Woman Murdered for Saying 'All Lives Matter' | The Gateway Pundit | by Cassandra MacDonald
  - [https://www.thegatewaypundit.com/2020/07/dont-want-know-reddit-mods-remove-viral-article-woman-murdered-saying-lives-matter/](https://www.thegatewaypundit.com/2020/07/dont-want-know-reddit-mods-remove-viral-article-woman-murdered-saying-lives-matter/)
  - date published: 2020-07-12 08:46:19+00:00
  - user: rumpel
  - tags: ['technofeudalism', 'black lives matter', 'censorship', 'all lives matter', 'reddit']
-
-## GANGSTA'S PARADISE | Medieval Bardcore Version
- - [https://www.youtube.com/watch?v=dywM446-vcE](https://www.youtube.com/watch?v=dywM446-vcE)
- - date published: 2020-07-12 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
 
 ## McCloskey case: Police seize gun at home of St. Louis couple who pointed weapons at protesters
  - [https://www.cbsnews.com/news/mark-patricia-mccloskey-guns-seized-at-st-louis-home-couple-who-pointed-weapons-at-protesters/](https://www.cbsnews.com/news/mark-patricia-mccloskey-guns-seized-at-st-louis-home-couple-who-pointed-weapons-at-protesters/)
@@ -1132,12 +1078,6 @@
  - user: None
  - tags: ['inequality', 'reddit', 'hate speech']
 
-## Glass Animals - Heat Waves (Official Video)
- - [https://www.youtube.com/watch?v=mRD0-GxqHVo](https://www.youtube.com/watch?v=mRD0-GxqHVo)
- - date published: 2020-06-29 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
-
 ## It's probably time to stop recommending Clean Code
  - [https://qntm.org/clean](https://qntm.org/clean)
  - date published: 2020-06-28 09:56:27+00:00
@@ -1162,12 +1102,6 @@
  - user: rumpel
  - tags: ['propaganda', 'fearmongering', 'mask', 'covid', 'mandates']
 
-## Somebody That I Used To Know (Bardcore | Medieval Style Cover with Vocals)
- - [https://www.youtube.com/watch?v=Ch1aVmjvYTI](https://www.youtube.com/watch?v=Ch1aVmjvYTI)
- - date published: 2020-06-21 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
-
 ## BlackRock Is Biggest Beneficiary of Fed Purchases of Corporate Bond ETFs | Barron's
  - [https://www.barrons.com/articles/blackrock-is-biggest-beneficiary-of-fed-purchases-of-corporate-bond-etfs-51591034726](https://www.barrons.com/articles/blackrock-is-biggest-beneficiary-of-fed-purchases-of-corporate-bond-etfs-51591034726)
  - date published: 2020-06-20 16:50:04+00:00
@@ -1179,12 +1113,6 @@
  - date published: 2020-06-19 09:06:18+00:00
  - user: rumpel
  - tags: ['uyghur', 'china']
-
-## Metallica - Nothing Else Matters - Medieval Style - Bardcore
- - [https://www.youtube.com/watch?v=wCUx9nOt9u8](https://www.youtube.com/watch?v=wCUx9nOt9u8)
- - date published: 2020-06-19 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
 
 ## Steam Games Pulled by Indie Devs Over Valve's Silence on Black Lives Matter
  - [https://www.dualshockers.com/steam-games-pulled-indie-developers-over-valve-silence-black-lives-matter/](https://www.dualshockers.com/steam-games-pulled-indie-developers-over-valve-silence-black-lives-matter/)
@@ -1233,12 +1161,6 @@
  - date published: 2020-06-09 10:44:56+00:00
  - user: rumpel
  - tags: ['webmin', 'selfhost', 'linux', 'smart home']
-
-## Hadestown: NPR Music Tiny Desk Concert
- - [https://www.youtube.com/watch?v=XKwDFDDr_VA](https://www.youtube.com/watch?v=XKwDFDDr_VA)
- - date published: 2020-06-08 00:00:00+00:00
- - user: rumpel
- - tags: ['concert', 'music']
 
 ## 'Big concerns' over Gates foundation's potential to become largest WHO donor
  - [https://www.devex.com/news/big-concerns-over-gates-foundation-s-potential-to-become-largest-who-donor-97377](https://www.devex.com/news/big-concerns-over-gates-foundation-s-potential-to-become-largest-who-donor-97377)
@@ -1318,12 +1240,6 @@
  - user: rumpel
  - tags: ['masks', 'covid', 'science is dead']
 
-## Frances Quinlan: NPR Music Tiny Desk Concert
- - [https://www.youtube.com/watch?v=kjXNLLlbnRc](https://www.youtube.com/watch?v=kjXNLLlbnRc)
- - date published: 2020-05-20 00:00:00+00:00
- - user: rumpel
- - tags: ['concert', 'music']
-
 ## Where New Yorkers Moved to Escape Coronavirus - The New York Times
  - [https://www.nytimes.com/interactive/2020/05/16/nyregion/nyc-coronavirus-moving-leaving.html](https://www.nytimes.com/interactive/2020/05/16/nyregion/nyc-coronavirus-moving-leaving.html)
  - date published: 2020-05-16 20:09:25+00:00
@@ -1360,23 +1276,11 @@
  - user: rumpel
  - tags: ['wuhan', 'covid', 'covid origins']
 
-## Jon Batiste: NPR Music Tiny Desk Concert
- - [https://www.youtube.com/watch?v=ze4xcmBFvaE](https://www.youtube.com/watch?v=ze4xcmBFvaE)
- - date published: 2020-05-11 00:00:00+00:00
- - user: rumpel
- - tags: ['concert', 'music']
-
 ## Politics matters most to slaves.
  - [https://lukesmith.xyz/articles/politics-matters-most-to-slaves/](https://lukesmith.xyz/articles/politics-matters-most-to-slaves/)
  - date published: 2020-05-09 00:00:00+00:00
  - user: None
  - tags: $tags
-
-## LITTLE BIG - HYPNODANCER (Official Music Video)
- - [https://www.youtube.com/watch?v=RhMYBfF7-hE](https://www.youtube.com/watch?v=RhMYBfF7-hE)
- - date published: 2020-05-08 00:00:00+00:00
- - user: rumpel
- - tags: ['music', 'funny']
 
 ## U.S. Field Hospitals Stand Down, Most Without Treating Any COVID-19 Patients
  - [https://www.npr.org/2020/05/07/851712311/u-s-field-hospitals-stand-down-most-without-treating-any-covid-19-patients?t=1609407487809](https://www.npr.org/2020/05/07/851712311/u-s-field-hospitals-stand-down-most-without-treating-any-covid-19-patients?t=1609407487809)
@@ -1384,23 +1288,11 @@
  - user: rumpel
  - tags: ['lockdown', 'covid']
 
-## Parcels - Live Vol. 1 (Complete Footage)
- - [https://www.youtube.com/watch?v=e4TFD2PfVPw](https://www.youtube.com/watch?v=e4TFD2PfVPw)
- - date published: 2020-04-30 00:00:00+00:00
- - user: rumpel
- - tags: ['concert', 'music']
-
 ## Dr. Fauci Backed Controversial Wuhan Lab with U.S. Dollars for Risky Coronavirus Research
  - [https://www.newsweek.com/dr-fauci-backed-controversial-wuhan-lab-millions-us-dollars-risky-coronavirus-research-1500741](https://www.newsweek.com/dr-fauci-backed-controversial-wuhan-lab-millions-us-dollars-risky-coronavirus-research-1500741)
  - date published: 2020-04-28 20:20:32+00:00
  - user: rumpel
  - tags: ['wuhan', 'covid', 'anthony fauci']
-
-## Aurora - Full performance (Live at The Current)
- - [https://www.youtube.com/watch?v=Ti1Iae6AcaU](https://www.youtube.com/watch?v=Ti1Iae6AcaU)
- - date published: 2020-04-28 00:00:00+00:00
- - user: rumpel
- - tags: ['concert', 'music']
 
 ## Amazon uses data from third-party sellers to develop its own products, WSJ investigation finds
  - [https://www.cnbc.com/2020/04/23/wsj-amazon-uses-data-from-third-party-sellers-to-develop-its-own-products.html](https://www.cnbc.com/2020/04/23/wsj-amazon-uses-data-from-third-party-sellers-to-develop-its-own-products.html)
@@ -1413,18 +1305,6 @@
  - date published: 2020-04-18 06:52:28+00:00
  - user: rumpel
  - tags: ['wuhan', 'covid', 'lableak']
-
-## Heilung Norupo [Official Music Video]
- - [https://www.youtube.com/watch?v=64CACoHNBEI](https://www.youtube.com/watch?v=64CACoHNBEI)
- - date published: 2020-04-17 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
-
-## Parcels - Redline / IknowhowIfeel / Elude (Live from Hansa Studios, Berlin)
- - [https://www.youtube.com/watch?v=3kBIxmjun1U](https://www.youtube.com/watch?v=3kBIxmjun1U)
- - date published: 2020-04-16 00:00:00+00:00
- - user: rumpel
- - tags: ['concert', 'music']
 
 ## BRUTAL: 5 awful facts about WHO’s Tedros Adhanom
  - [https://www.youtube.com/watch?v=XPSlqF5pjrw](https://www.youtube.com/watch?v=XPSlqF5pjrw)
@@ -1443,12 +1323,6 @@
  - date published: 2020-04-03 07:26:22+00:00
  - user: rumpel
  - tags: ['wuhan', 'lableak', 'propaganda', 'fearmongering', 'covid']
-
-## IGORRR - DOWNGRADE  DESERT
- - [https://www.youtube.com/watch?v=YCqG9B8j-cI](https://www.youtube.com/watch?v=YCqG9B8j-cI)
- - date published: 2020-04-02 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
 
 ## Whistleblowing coronavirus doctor mysteriously vanishes
  - [https://nypost.com/2020/04/01/whistleblowing-coronavirus-doctor-mysteriously-vanishes/](https://nypost.com/2020/04/01/whistleblowing-coronavirus-doctor-mysteriously-vanishes/)
@@ -1474,12 +1348,6 @@
  - user: rumpel
  - tags: ['programming', 'science']
 
-## Trampsta & Heavy Drop - Toxibombs (Video)
- - [https://www.youtube.com/watch?v=BSz1j_y35ro](https://www.youtube.com/watch?v=BSz1j_y35ro)
- - date published: 2020-03-31 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
-
 ## A psychologist’s take on why people report their neighbours | CTV News
  - [https://www.ctvnews.ca/health/coronavirus/people-are-reporting-on-their-neighbours-over-covid-19-concerns-1.4872683](https://www.ctvnews.ca/health/coronavirus/people-are-reporting-on-their-neighbours-over-covid-19-concerns-1.4872683)
  - date published: 2020-03-28 20:28:16+00:00
@@ -1492,12 +1360,6 @@
  - user: rumpel
  - tags: ['mandates', 'england', 'covid', 'snitch line']
 
-## Igorrr - Spirituality and Distortion (FULL ALBUM)
- - [https://www.youtube.com/watch?v=KNJ0B5uU1QQ](https://www.youtube.com/watch?v=KNJ0B5uU1QQ)
- - date published: 2020-03-27 00:00:00+00:00
- - user: rumpel
- - tags: ['full album', 'music']
-
 ## NYC's Footprint Amid The COVID-19 Outbreak
  - [https://www.youtube.com/watch?v=Q5BFrDocPNs](https://www.youtube.com/watch?v=Q5BFrDocPNs)
  - date published: 2020-03-26 20:00:02+00:00
@@ -1509,12 +1371,6 @@
  - date published: 2020-03-25 22:38:13+00:00
  - user: rumpel
  - tags: ['blackrock']
-
-## Harry Styles: NPR Music Tiny Desk Concert
- - [https://www.youtube.com/watch?v=jIIuzB11dsA](https://www.youtube.com/watch?v=jIIuzB11dsA)
- - date published: 2020-03-23 00:00:00+00:00
- - user: rumpel
- - tags: ['concert', 'music']
 
 ## Yuval Noah Harari: the world after coronavirus | Free to read
  - [https://www.ft.com/content/19d90308-6858-11ea-a3c9-1fe6fedcca75#comments-anchor](https://www.ft.com/content/19d90308-6858-11ea-a3c9-1fe6fedcca75#comments-anchor)
@@ -1534,12 +1390,6 @@
  - user: rumpel
  - tags: ['covid', 'lockdown']
 
-## Danheim - Skapanir (Full album 2020) Nordic Folk & Dark Viking Music
- - [https://www.youtube.com/watch?v=Va297erJjJ4](https://www.youtube.com/watch?v=Va297erJjJ4)
- - date published: 2020-03-17 00:00:00+00:00
- - user: rumpel
- - tags: ['full album', 'music']
-
 ## Did Video Show Italian Army Trucks Transporting Coffins Amid COVID-19 Pandemic? | Snopes.com
  - [https://www.snopes.com/fact-check/italy-army-coffins-coronavirus/](https://www.snopes.com/fact-check/italy-army-coffins-coronavirus/)
  - date published: 2020-03-16 08:13:33+00:00
@@ -1557,12 +1407,6 @@
  - date published: 2020-03-12 07:47:45+00:00
  - user: rumpel
  - tags: ['government control', 'surveillance', 'big brother', 'crypto wars', 'privacy', 'earn it act', 'encryption']
-
-## Bob Weir And Wolf Bros: NPR Music Tiny Desk Concert
- - [https://www.youtube.com/watch?v=4l_gUwdPrNY](https://www.youtube.com/watch?v=4l_gUwdPrNY)
- - date published: 2020-03-09 00:00:00+00:00
- - user: rumpel
- - tags: ['concert', 'music']
 
 ## A Military-Funded Biosensor Could Be the Future of Pandemic Detection - Defense One
  - [https://www.defenseone.com/technology/2020/03/military-funded-biosensor-could-be-future-pandemic-detection/163497/](https://www.defenseone.com/technology/2020/03/military-funded-biosensor-could-be-future-pandemic-detection/163497/)
@@ -1702,12 +1546,6 @@
  - user: rumpel
  - tags: ['climate change', 'greta thunberg', 'corporatocracy']
 
-## IGORRR - VERY NOISE
- - [https://www.youtube.com/watch?v=Osqf4oIK0E8](https://www.youtube.com/watch?v=Osqf4oIK0E8)
- - date published: 2020-01-14 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
-
 ## Facebook Glitch Reveals Father, Activist Behind Greta Thunberg’s Facebook Page. Greta Responds.
  - [https://www.dailywire.com/news/facebook-glitch-reveals-father-activist-behind-greta-thunbergs-facebook-page-greta-responds](https://www.dailywire.com/news/facebook-glitch-reveals-father-activist-behind-greta-thunbergs-facebook-page-greta-responds)
  - date published: 2020-01-13 19:01:16+00:00
@@ -1719,12 +1557,6 @@
  - date published: 2020-01-12 14:05:26+00:00
  - user: rumpel
  - tags: ['surveillance', 'facial recognition', 'big brother', 'biometric']
-
-## Daniel Norgren: NPR Music Tiny Desk Concert
- - [https://www.youtube.com/watch?v=nHVLEst0-5g](https://www.youtube.com/watch?v=nHVLEst0-5g)
- - date published: 2020-01-10 00:00:00+00:00
- - user: rumpel
- - tags: ['concert', 'music']
 
 ## Ring Fired Employees for Watching Customer Videos
  - [https://www.vice.com/en/article/y3mdvk/ring-fired-employees-abusing-video-data](https://www.vice.com/en/article/y3mdvk/ring-fired-employees-abusing-video-data)

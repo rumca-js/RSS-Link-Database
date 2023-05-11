@@ -22,23 +22,11 @@
  - user: rumpel
  - tags: ['blackrock', 'fintech']
 
-## System of a Down - Toxicity - Medieval Style - Bardcore
- - [https://www.youtube.com/watch?v=X5d8bnvO2JQ](https://www.youtube.com/watch?v=X5d8bnvO2JQ)
- - date published: 2017-12-19 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
-
 ## Avoid getters and setters whenever possible
  - [https://dev.to/scottshipp/avoid-getters-and-setters-whenever-possible-c8m](https://dev.to/scottshipp/avoid-getters-and-setters-whenever-possible-c8m)
  - date published: 2017-12-08 10:06:42+00:00
  - user: rumpel
  - tags: ['programming', 'design patterns']
-
-## Vladimir Cauchemar - Aulos (Official Music Video)
- - [https://www.youtube.com/watch?v=hpjV962DLWs](https://www.youtube.com/watch?v=hpjV962DLWs)
- - date published: 2017-12-04 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
 
 ## Happiness
  - [https://www.youtube.com/watch?v=e9dZQelULDk](https://www.youtube.com/watch?v=e9dZQelULDk)
@@ -52,12 +40,6 @@
  - user: rumpel
  - tags: ['privacy', 'surveillance', 'big brother', 'encryption', 'crypto wars']
 
-## Danheim - Berserkir
- - [https://www.youtube.com/watch?v=Qj1RS9vHcsw](https://www.youtube.com/watch?v=Qj1RS9vHcsw)
- - date published: 2017-11-22 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
-
 ## 10 Reasons You Should Be AFRAID of GOOGLE
  - [https://www.youtube.com/watch?v=WWDmelZxgoI](https://www.youtube.com/watch?v=WWDmelZxgoI)
  - date published: 2017-11-21 20:37:18+00:00
@@ -69,12 +51,6 @@
  - date published: 2017-11-15 20:23:24+00:00
  - user: rumpel
  - tags: ['movies', 'prometheus']
-
-## Aequilibrium. Medieval Tune. Hurdy-Gurdy With Organ
- - [https://www.youtube.com/watch?v=wwyznoWJDHI](https://www.youtube.com/watch?v=wwyznoWJDHI)
- - date published: 2017-11-07 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
 
 ## Fake “Flat Earth” Conspiracy Finally Outed As C.I.A. Psyop
  - [https://themillenniumreport.com/2017/11/fake-flat-earth-conspiracy-finally-outed-as-cia-psyop/](https://themillenniumreport.com/2017/11/fake-flat-earth-conspiracy-finally-outed-as-cia-psyop/)
@@ -93,12 +69,6 @@
  - date published: 2017-11-03 15:36:18+00:00
  - user: None
  - tags: ['fakenews', 'disinformation', 'england', 'donald trump']
-
-## Danheim - Mannavegr (Full Album 2017) Viking Era & Viking War Music
- - [https://www.youtube.com/watch?v=8tilKaOINmE](https://www.youtube.com/watch?v=8tilKaOINmE)
- - date published: 2017-11-01 00:00:00+00:00
- - user: rumpel
- - tags: ['full album', 'music']
 
 ## Google as a search engine is becoming useless
  - [http://www.coalpha.org/Google-as-a-search-engine-is-becoming-useless-td7576886.html](http://www.coalpha.org/Google-as-a-search-engine-is-becoming-useless-td7576886.html)
@@ -142,35 +112,17 @@
  - user: rumpel
  - tags: ['homosexuality', 'the left wing', 'lgbt', 'jordan peterson']
 
-## Chronixx: NPR Music Tiny Desk Concert
- - [https://www.youtube.com/watch?v=tFdebIZJah8](https://www.youtube.com/watch?v=tFdebIZJah8)
- - date published: 2017-10-04 00:00:00+00:00
- - user: rumpel
- - tags: ['concert', 'music']
-
 ## 47 White Guilt Propaganda Tactics Used by Media and Political Elites to Push for Third World Immigration; motives
  - [https://isgp-studies.com/immigration-white-guilt-warfare-manual](https://isgp-studies.com/immigration-white-guilt-warfare-manual)
  - date published: 2017-09-29 12:11:46+00:00
  - user: rumpel
  - tags: ['hate speech', 'the right wing', 'immigration', 'propaganda']
 
-## Bomba Estereo: NPR Music Tiny Desk Concert
- - [https://www.youtube.com/watch?v=3oY-GQVzAX8](https://www.youtube.com/watch?v=3oY-GQVzAX8)
- - date published: 2017-09-29 00:00:00+00:00
- - user: rumpel
- - tags: ['concert', 'music']
-
 ## Is Reality Real? The Simulation Argument
  - [https://www.youtube.com/watch?v=tlTKTTt47WE](https://www.youtube.com/watch?v=tlTKTTt47WE)
  - date published: 2017-09-21 07:46:14+00:00
  - user: None
  - tags: ['simulation']
-
-## Bleachers: NPR Music Tiny Desk Concert
- - [https://www.youtube.com/watch?v=QCtkkX2f18M](https://www.youtube.com/watch?v=QCtkkX2f18M)
- - date published: 2017-09-19 00:00:00+00:00
- - user: rumpel
- - tags: ['concert', 'music']
 
 ## Spotlight: How is AI disrupting financial industry - Xinhua | English.news.cn
  - [http://www.xinhuanet.com/english/2017-09/18/c_136616606.htm](http://www.xinhuanet.com/english/2017-09/18/c_136616606.htm)
@@ -220,12 +172,6 @@
  - user: rumpel
  - tags: ['illuminati', 'secret societies']
 
-## DJ Premier & The Badder Band: NPR Music Tiny Desk Concert
- - [https://www.youtube.com/watch?v=Pvn20PjBa3k](https://www.youtube.com/watch?v=Pvn20PjBa3k)
- - date published: 2017-08-28 00:00:00+00:00
- - user: rumpel
- - tags: ['concert', 'music']
-
 ## school tried to ban Orwell book
  - [https://www.spokesman.com/stories/2017/sep/26/to-ban-or-not-to-ban-school-leaders-consider-class/](https://www.spokesman.com/stories/2017/sep/26/to-ban-or-not-to-ban-school-leaders-consider-class/)
  - date published: 2017-08-26 08:48:53+00:00
@@ -249,12 +195,6 @@
  - date published: 2017-08-15 14:55:12+00:00
  - user: rumpel
  - tags: ['google', 'google memo', 'james damore']
-
-## Fmaa
- - [https://www.youtube.com/watch?v=vtfKVoUYzyE](https://www.youtube.com/watch?v=vtfKVoUYzyE)
- - date published: 2017-08-15 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
 
 ## Full text of ex-Google engineer James Damore’s memo
  - [https://menrightsindia.net/2017/08/full-text-of-ex-google-engineer-james-damores-memo.html](https://menrightsindia.net/2017/08/full-text-of-ex-google-engineer-james-damores-memo.html)
@@ -291,12 +231,6 @@
  - date published: 2017-08-02 16:31:46+00:00
  - user: rumpel
  - tags: ['f-droid', 'android']
-
-## Auļi un Tautumeitas - Dzied’  papriekšu, brāļa māsa
- - [https://www.youtube.com/watch?v=rETv-fv6RWs](https://www.youtube.com/watch?v=rETv-fv6RWs)
- - date published: 2017-07-25 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
 
 ## The American empire and its media | MR Online
  - [https://mronline.org/2017/07/23/the-american-empire-and-its-media/](https://mronline.org/2017/07/23/the-american-empire-and-its-media/)
@@ -394,12 +328,6 @@
  - user: rumpel
  - tags: ['blackrock', 'corporatocracy', 'vanguard']
 
-## Forest Swords - Panic (Official Video)
- - [https://www.youtube.com/watch?v=wyUSfuL9dxY](https://www.youtube.com/watch?v=wyUSfuL9dxY)
- - date published: 2017-04-26 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
-
 ## The dirty tricks that demonise George Soros | Nick Cohen
  - [https://www.theguardian.com/commentisfree/2017/apr/15/dirty-tricks-demonise-george-soros](https://www.theguardian.com/commentisfree/2017/apr/15/dirty-tricks-demonise-george-soros)
  - date published: 2017-04-15 23:05:15+00:00
@@ -478,29 +406,11 @@
  - user: rumpel
  - tags: ['big brother', 'malware', 'surveillance', 'vulnerability', 'trojan', 'wikileaks', 'julian assange', 'cia']
 
-## Dirty Dozen Brass Band: NPR Music Tiny Desk Concert
- - [https://www.youtube.com/watch?v=HXr3nrd33U0](https://www.youtube.com/watch?v=HXr3nrd33U0)
- - date published: 2017-03-07 00:00:00+00:00
- - user: rumpel
- - tags: ['concert', 'music']
-
-## Roosevelt - Moving On (Official Video)
- - [https://www.youtube.com/watch?v=-4FWJmHfLC0](https://www.youtube.com/watch?v=-4FWJmHfLC0)
- - date published: 2017-03-07 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
-
 ## Noam Chomsky - The 5 Filters of the Mass Media Machine
  - [https://www.youtube.com/watch?v=34LGPIXvU5M](https://www.youtube.com/watch?v=34LGPIXvU5M)
  - date published: 2017-03-02 21:06:22+00:00
  - user: rumpel
  - tags: ['noam chomsky', 'social media', 'all time', 'propaganda']
-
-## The Blaze - TERRITORY (Official Video)
- - [https://www.youtube.com/watch?v=54fea7wuV6s](https://www.youtube.com/watch?v=54fea7wuV6s)
- - date published: 2017-02-23 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
 
 ## China to Permit Lab Poised to Study World's Most Dangerous Pathogens - Scientific American
  - [https://www.scientificamerican.com/article/china-to-permit-lab-poised-to-study-worlds-most-dangerous-pathogens/](https://www.scientificamerican.com/article/china-to-permit-lab-poised-to-study-worlds-most-dangerous-pathogens/)
@@ -514,12 +424,6 @@
  - user: None
  - tags: ['politics', 'manufacturing consent', 'corruption', 'billionaires']
 
-## D.R.A.M.: NPR Music Tiny Desk Concert
- - [https://www.youtube.com/watch?v=NwjN3UCBW14](https://www.youtube.com/watch?v=NwjN3UCBW14)
- - date published: 2017-02-08 00:00:00+00:00
- - user: rumpel
- - tags: ['concert', 'music']
-
 ## Media Matters Says It Is Secretly Working with Facebook to Fight ‘Fake News’
  - [https://freebeacon.com/politics/media-matters-says-secretly-working-facebook-fight-fake-news/](https://freebeacon.com/politics/media-matters-says-secretly-working-facebook-fight-fake-news/)
  - date published: 2017-01-26 20:14:15+00:00
@@ -532,33 +436,15 @@
  - user: None
  - tags: ['big brother', 'china', 'surveillance', 'meitu', 'data leak']
 
-## Wardruna - Best Of All Albums (Pagan/Nordic/Viking Music)
- - [https://www.youtube.com/watch?v=5EuWiI8z9N8](https://www.youtube.com/watch?v=5EuWiI8z9N8)
- - date published: 2017-01-22 00:00:00+00:00
- - user: rumpel
- - tags: ['full album', 'music']
-
 ## Fact Sheet: Activity at the Wuhan Institute of Virology
  - [https://2017-2021.state.gov/fact-sheet-activity-at-the-wuhan-institute-of-virology/index.html](https://2017-2021.state.gov/fact-sheet-activity-at-the-wuhan-institute-of-virology/index.html)
  - date published: 2017-01-20 07:25:32+00:00
  - user: rumpel
  - tags: ['gain of function', 'covid', 'usa', 'wuhan']
 
-## Axel Thesleff - Bad Karma (Official Music Video)
- - [https://www.youtube.com/watch?v=-sNWKbnaFkg](https://www.youtube.com/watch?v=-sNWKbnaFkg)
- - date published: 2017-01-13 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
-
 ## Having babies really does change women's brains
  - [https://www.abc.net.au/news/2017-01-07/having-babies-changes-womens-brains/8165466](https://www.abc.net.au/news/2017-01-07/having-babies-changes-womens-brains/8165466)
  - date published: 2017-01-06 08:38:05+00:00
  - user: rumpel
  - tags: ['family', 'science']
-
-## Heilung Krigsgaldr [Official Video]
- - [https://www.youtube.com/watch?v=K7ZqZVunCb4](https://www.youtube.com/watch?v=K7ZqZVunCb4)
- - date published: 2017-01-04 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
 

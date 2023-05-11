@@ -6856,12 +6856,6 @@
  - user: None
  - tags: $tags
 
-## The Less I Know The Better | @TameImpala | funk cover Elise Trouw & Dave Koz
- - [https://www.youtube.com/watch?v=k5K7B3cUO9U](https://www.youtube.com/watch?v=k5K7B3cUO9U)
- - date published: 2022-09-05 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
-
 ## The Isreali PECC We’ll have to think medico-legal – how to present our findings to avoid lawsuits
  - [https://twitter.com/PECC_eng/status/1566440239731712003](https://twitter.com/PECC_eng/status/1566440239731712003)
  - date published: 2022-09-04 21:55:56+00:00
@@ -9502,12 +9496,6 @@
  - user: rumpel
  - tags: ['processor', 'tsmc', 'hardware']
 
-## Gnome - Wenceslas (Official Video)
- - [https://www.youtube.com/watch?v=LzG-qji05Lc](https://www.youtube.com/watch?v=LzG-qji05Lc)
- - date published: 2022-04-21 16:48:34+00:00
- - user: rumpel
- - tags: ['music', 'funny']
-
 ## ‘Jack Dorsey’s First Tweet’ NFT Went on Sale for $48M. It Ended With a Top Bid of Just $280
  - [https://www.coindesk.com/business/2022/04/13/jack-dorseys-first-tweet-nft-went-on-sale-for-48m-it-ended-with-a-top-bid-of-just-280/](https://www.coindesk.com/business/2022/04/13/jack-dorseys-first-tweet-nft-went-on-sale-for-48m-it-ended-with-a-top-bid-of-just-280/)
  - date published: 2022-04-21 06:45:19.870657+00:00
@@ -10095,12 +10083,6 @@
  - date published: 2022-03-22 13:54:27+00:00
  - user: None
  - tags: ['fact check', 'misinformation', 'free speech', 'censorship']
-
-## Mr.Kitty • After Dark || Jennifer Connelly • Career Opportunities
- - [https://www.youtube.com/watch?v=As3LGNTlPQ0](https://www.youtube.com/watch?v=As3LGNTlPQ0)
- - date published: 2022-03-22 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
 
 ## His software sang the words of God. Then it went silent.
  - [https://www.inputmag.com/features/tropetrainer-thomas-buchler-torah-software](https://www.inputmag.com/features/tropetrainer-thomas-buchler-torah-software)
@@ -11517,12 +11499,6 @@
  - date published: 2022-01-08 11:19:29.295555+00:00
  - user: Thomas Pain
  - tags: $tags
-
-## Pepe the frog - music clip (Marvel83' - Golden Dawn)
- - [https://www.youtube.com/watch?v=vJMP7RBsoms](https://www.youtube.com/watch?v=vJMP7RBsoms)
- - date published: 2022-01-07 16:47:24+00:00
- - user: rumpel
- - tags: ['art', 'music']
 
 ## I Miss RSS - Wilcosky
  - [https://www.wilcosky.com/d/20-i-miss-rss](https://www.wilcosky.com/d/20-i-miss-rss)

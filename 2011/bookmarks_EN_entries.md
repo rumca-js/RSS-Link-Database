@@ -1,9 +1,3 @@
-## Hang Massive - Once Again - 2011 ( hang drum duo ) ( HD )
- - [https://www.youtube.com/watch?v=xk3BvNLeNgw](https://www.youtube.com/watch?v=xk3BvNLeNgw)
- - date published: 2011-12-29 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
-
 ## Microsoft: We can remotely delete Windows 8 apps | Computerworld
  - [https://www.computerworld.com/article/2732767/microsoft--we-can-remotely-delete-windows-8-apps.html](https://www.computerworld.com/article/2732767/microsoft--we-can-remotely-delete-windows-8-apps.html)
  - date published: 2011-12-08 08:37:03+00:00
@@ -33,12 +27,6 @@
  - date published: 2011-10-14 07:14:55+00:00
  - user: rumpel
  - tags: ['protest', 'billionaires', 'occupy wall street']
-
-## Beirut: NPR Music Tiny Desk Concert
- - [https://www.youtube.com/watch?v=Z0UISCEe52Y](https://www.youtube.com/watch?v=Z0UISCEe52Y)
- - date published: 2011-09-22 00:00:00+00:00
- - user: rumpel
- - tags: ['concert', 'music']
 
 ## Christian Crusader | Southern Poverty Law Center
  - [https://www.splcenter.org/fighting-hate/intelligence-report/2015/christian-crusader](https://www.splcenter.org/fighting-hate/intelligence-report/2015/christian-crusader)
@@ -75,12 +63,6 @@
  - date published: 2011-05-25 21:02:25+00:00
  - user: rumpel
  - tags: ['corporatocracy', 'oligopoly', 'billionaires', 'elites']
-
-## John Feeley - Cello suite no.1 in D by J.S. Bach
- - [https://www.youtube.com/watch?v=pGipFrts650](https://www.youtube.com/watch?v=pGipFrts650)
- - date published: 2011-04-26 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
 
 ## The Berlusconi in Us All: Bunga Bunga's Real Meaning
  - [https://www.theatlantic.com/international/archive/2011/04/the-berlusconi-in-us-all-bunga-bungas-real-meaning/236871/](https://www.theatlantic.com/international/archive/2011/04/the-berlusconi-in-us-all-bunga-bungas-real-meaning/236871/)

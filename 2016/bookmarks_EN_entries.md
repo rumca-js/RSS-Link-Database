@@ -34,12 +34,6 @@
  - user: None
  - tags: ['democracy']
 
-## "SEAGULLS! (Stop It Now)" -- A Bad Lip Reading of The Empire Strikes Back
- - [https://www.youtube.com/watch?v=U9t-slLl30E](https://www.youtube.com/watch?v=U9t-slLl30E)
- - date published: 2016-11-25 00:00:00+00:00
- - user: rumpel
- - tags: ['music', 'funny']
-
 ## Microsoft shares Windows 10 telemetry data with third parties [Updated]
  - [https://betanews.com/2016/11/24/microsoft-shares-windows-10-telemetry-data-with-third-parties/](https://betanews.com/2016/11/24/microsoft-shares-windows-10-telemetry-data-with-third-parties/)
  - date published: 2016-11-24 08:54:13+00:00
@@ -51,12 +45,6 @@
  - date published: 2016-11-21 15:16:47+00:00
  - user: None
  - tags: ['government', 'fakenews', 'fact check', 'misinformation', 'big brother', 'all time', 'disinformation']
-
-## J Cut & Kolt Siewerts - The Flute Tune (Soulpride Extended Remix)
- - [https://www.youtube.com/watch?v=X2cl6_DVpFI](https://www.youtube.com/watch?v=X2cl6_DVpFI)
- - date published: 2016-11-09 00:00:00+00:00
- - user: rumpel
- - tags: ['music', 'funny']
 
 ## How Teens In The Balkans Are Duping Trump Supporters With Fake News
  - [https://www.buzzfeednews.com/article/craigsilverman/how-macedonia-became-a-global-hub-for-pro-trump-misinfo](https://www.buzzfeednews.com/article/craigsilverman/how-macedonia-became-a-global-hub-for-pro-trump-misinfo)
@@ -82,12 +70,6 @@
  - user: None
  - tags: ['blackrock', 'larry fink', 'esg']
 
-## Blue Man Group: NPR Music Tiny Desk Concert
- - [https://www.youtube.com/watch?v=qTJfITfbYNA](https://www.youtube.com/watch?v=qTJfITfbYNA)
- - date published: 2016-10-03 00:00:00+00:00
- - user: rumpel
- - tags: ['concert', 'music']
-
 ## Letter to the Editor: Why Dr. Tedros Adhanom should not lead the World Health Organization - Addis Standard
  - [https://addisstandard.com/letter-editor-dr-tedros-adhanom-not-lead-world-health-organization/](https://addisstandard.com/letter-editor-dr-tedros-adhanom-not-lead-world-health-organization/)
  - date published: 2016-09-27 20:52:39+00:00
@@ -105,18 +87,6 @@
  - date published: 2016-09-24 13:32:10+00:00
  - user: rumpel
  - tags: ['c++', 'programming']
-
-## Single Ladies - Beyoncé - Pomplamoose (Live Album Available!)
- - [https://www.youtube.com/watch?v=HO7plRlaCDY](https://www.youtube.com/watch?v=HO7plRlaCDY)
- - date published: 2016-09-16 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
-
-## LORN - ANVIL [Official Music Video]
- - [https://www.youtube.com/watch?v=CqaAs_3azSs](https://www.youtube.com/watch?v=CqaAs_3azSs)
- - date published: 2016-09-14 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
 
 ## A Clockwork Orange - What it all Meant
  - [https://www.youtube.com/watch?v=ZvK9PEcqiLo](https://www.youtube.com/watch?v=ZvK9PEcqiLo)
@@ -148,12 +118,6 @@
  - user: rumpel
  - tags: ['programming', 'doom', 'games']
 
-## Anderson .Paak & The Free Nationals: NPR Music Tiny Desk Concert
- - [https://www.youtube.com/watch?v=ferZnZ0_rSM](https://www.youtube.com/watch?v=ferZnZ0_rSM)
- - date published: 2016-08-22 00:00:00+00:00
- - user: rumpel
- - tags: ['concert', 'music']
-
 ## Coal Burning Causes the Most Air Pollution Deaths in China, Study Finds
  - [https://www.nytimes.com/2016/08/18/world/asia/china-coal-health-smog-pollution.html](https://www.nytimes.com/2016/08/18/world/asia/china-coal-health-smog-pollution.html)
  - date published: 2016-08-18 07:59:12+00:00
@@ -183,12 +147,6 @@
  - date published: 2016-07-26 07:36:49+00:00
  - user: rumpel
  - tags: ['france', 'islam', 'immigration', 'christianophobia']
-
-## Eric Clapton - Tokyo, Japan (Budokan) - Feb 25 2009 - Full Concert
- - [https://www.youtube.com/watch?v=eO7oknTaltE](https://www.youtube.com/watch?v=eO7oknTaltE)
- - date published: 2016-07-22 00:00:00+00:00
- - user: rumpel
- - tags: ['concert', 'music']
 
 ## The Left’s New Weapon: ‘Diversity and Inclusion’
  - [https://www.lifezette.com/2016/07/lefts-new-weapon-diversity-inclusion/](https://www.lifezette.com/2016/07/lefts-new-weapon-diversity-inclusion/)
@@ -256,12 +214,6 @@
  - user: rumpel
  - tags: ['technofeudalism', 'windows']
 
-## Andrew Bird: NPR Music Tiny Desk Concert
- - [https://www.youtube.com/watch?v=QGAzPtwUJJU](https://www.youtube.com/watch?v=QGAzPtwUJJU)
- - date published: 2016-05-31 00:00:00+00:00
- - user: rumpel
- - tags: ['concert', 'music']
-
 ## ► Best of 8-bit Electro Gaming Mix September 2015 ◄ ~(￣▽￣)~ | Xefox Music
  - [https://www.youtube.com/watch?v=k0bQuzp9Iss](https://www.youtube.com/watch?v=k0bQuzp9Iss)
  - date published: 2016-05-23 00:00:00+00:00
@@ -298,12 +250,6 @@
  - user: rumpel
  - tags: ['privacy', 'surveillance', 'big brother', 'encryption', 'crypto wars']
 
-## Anthony Hamilton: NPR Music Tiny Desk Concert
- - [https://www.youtube.com/watch?v=C3lcprigQ0E](https://www.youtube.com/watch?v=C3lcprigQ0E)
- - date published: 2016-03-28 00:00:00+00:00
- - user: rumpel
- - tags: ['concert', 'music']
-
 ## Photographer Captures Bee-less Dystopia in China (PHOTOS)
  - [https://weather.com/science/environment/news/world-without-bees](https://weather.com/science/environment/news/world-without-bees)
  - date published: 2016-03-25 18:04:15+00:00
@@ -321,12 +267,6 @@
  - date published: 2016-03-22 16:38:36+00:00
  - user: None
  - tags: ['socialism', 'central planning', 'usa']
-
-## Julien Baker: NPR Music Tiny Desk Concert
- - [https://www.youtube.com/watch?v=tADWPTqR_4A](https://www.youtube.com/watch?v=tADWPTqR_4A)
- - date published: 2016-03-07 00:00:00+00:00
- - user: rumpel
- - tags: ['concert', 'music']
 
 ## Wintergatan - Marble Machine (music instrument using 2000 marbles)
  - [https://www.youtube.com/watch?v=IvUU8joBb1Q](https://www.youtube.com/watch?v=IvUU8joBb1Q)
@@ -358,29 +298,11 @@
  - user: None
  - tags: ['big brother', 'all time', 'surveillance', 'wikileaks', 'angela merkel']
 
-## Ben Folds: NPR Music Tiny Desk Concert
- - [https://www.youtube.com/watch?v=VNMms_zGbnI](https://www.youtube.com/watch?v=VNMms_zGbnI)
- - date published: 2016-02-16 00:00:00+00:00
- - user: rumpel
- - tags: ['concert', 'music']
-
 ## Lifetime of electrical appliances becoming shorter and shorter
  - [https://www.umweltbundesamt.de/en/press/pressinformation/lifetime-of-electrical-appliances-becoming-shorter](https://www.umweltbundesamt.de/en/press/pressinformation/lifetime-of-electrical-appliances-becoming-shorter)
  - date published: 2016-02-15 14:27:49+00:00
  - user: rumpel
  - tags: ['climate change', 'right to repair']
-
-## Vitas - 7th Element (russian blblblblbl)
- - [https://www.youtube.com/watch?v=B5-X_3_Kpww](https://www.youtube.com/watch?v=B5-X_3_Kpww)
- - date published: 2016-02-13 00:00:00+00:00
- - user: rumpel
- - tags: ['music', 'funny']
-
-## Debussy - Deux Arabesques (Harpe) - Héloïse de Jenlis
- - [https://www.youtube.com/watch?v=hWTe3C_RoDo](https://www.youtube.com/watch?v=hWTe3C_RoDo)
- - date published: 2016-02-07 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
 
 ## Snowden files reveal US and UK spied on feeds from Israeli drones and jets
  - [http://www.theguardian.com/world/2016/jan/29/snowden-files-us-uk-spied-feeds-israeli-drones-jets](http://www.theguardian.com/world/2016/jan/29/snowden-files-us-uk-spied-feeds-israeli-drones-jets)
@@ -405,12 +327,6 @@
  - date published: 2016-01-05 08:57:01+00:00
  - user: rumpel
  - tags: ['privacy', 'windows', 'microsoft', 'telemetry']
-
-## "BUSHES OF LOVE" -- Extended Lyric Video
- - [https://www.youtube.com/watch?v=RySHDUU2juM](https://www.youtube.com/watch?v=RySHDUU2juM)
- - date published: 2016-01-02 00:00:00+00:00
- - user: rumpel
- - tags: ['music', 'funny']
 
 ## Feminism: How the Rockefellers Re-Engineered Women and Why
  - [https://humansbefree.com/2016/01/feminism-how-the-rockefellers-re-engineered-women-and-why.html](https://humansbefree.com/2016/01/feminism-how-the-rockefellers-re-engineered-women-and-why.html)

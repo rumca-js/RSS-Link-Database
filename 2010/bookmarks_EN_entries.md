@@ -34,12 +34,6 @@
  - user: rumpel
  - tags: ['george soros', 'media matters', 'media']
 
-## Kimbra - "Plain Gold Ring" (Live at Sing Sing Studios)
- - [https://www.youtube.com/watch?v=6i1mr9amqeg](https://www.youtube.com/watch?v=6i1mr9amqeg)
- - date published: 2010-09-30 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
-
 ## Dennis Meadows: Limiting Growth to Save the World
  - [https://ourworld.unu.edu/en/dennis-meadows-limiting-growth-to-save-the-world](https://ourworld.unu.edu/en/dennis-meadows-limiting-growth-to-save-the-world)
  - date published: 2010-09-27 13:45:59+00:00
@@ -70,12 +64,6 @@
  - user: rumpel
  - tags: ['big brother', 'afganistan', 'usa', 'war', 'data leak']
 
-## Robert de Visée Prélude et Allemande, Jonas Nordberg, theorbo
- - [https://www.youtube.com/watch?v=qeUcGD4rRRc](https://www.youtube.com/watch?v=qeUcGD4rRRc)
- - date published: 2010-07-21 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
-
 ## Uganda blasts kill 74; Somali Islamists claim responsibilty
  - [http://edition.cnn.com/2010/WORLD/africa/07/12/uganda.bombings/index.html?eref=edition](http://edition.cnn.com/2010/WORLD/africa/07/12/uganda.bombings/index.html?eref=edition)
  - date published: 2010-07-12 12:59:09+00:00
@@ -88,23 +76,11 @@
  - user: rumpel
  - tags: ['climate change', 'palm oil', 'nestle', 'pollution']
 
-## Kimbra - "Settle Down"
- - [https://www.youtube.com/watch?v=yHV04eSGzAA](https://www.youtube.com/watch?v=yHV04eSGzAA)
- - date published: 2010-07-06 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
-
 ## Google mistakenly collected WiFi data on unsecured networks - May. 14, 2010
  - [https://money.cnn.com/2010/05/14/technology/Google_mistaken_wifi_collection/index.htm](https://money.cnn.com/2010/05/14/technology/Google_mistaken_wifi_collection/index.htm)
  - date published: 2010-05-14 08:48:45+00:00
  - user: rumpel
  - tags: ['privacy', 'surveillance', 'corporatocracy', 'google', 'law']
-
-## AFX (808 State) - Flow Coma
- - [https://www.youtube.com/watch?v=8SP_OE3qrbk](https://www.youtube.com/watch?v=8SP_OE3qrbk)
- - date published: 2010-05-02 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
 
 ## Facebook does not erase user-deleted content | ZDNET
  - [https://www.zdnet.com/article/facebook-does-not-erase-user-deleted-content/](https://www.zdnet.com/article/facebook-does-not-erase-user-deleted-content/)

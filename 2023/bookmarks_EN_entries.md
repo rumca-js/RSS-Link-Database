@@ -1,3 +1,9 @@
+## Google promised to delete sensitive data. It logged my abortion clinic visit
+ - [https://www.washingtonpost.com/technology/2023/05/09/google-privacy-abortion-data/](https://www.washingtonpost.com/technology/2023/05/09/google-privacy-abortion-data/)
+ - date published: 2023-05-09 13:14:33+00:00
+ - user: rumpel
+ - tags: ['anonymity', 'technofeudalism', 'privacy', 'corporatocracy']
+
 ## Street Fighter II, paper trails (2021)
  - [https://fabiensanglard.net/sf2_sheets/index.html](https://fabiensanglard.net/sf2_sheets/index.html)
  - date published: 2023-05-08 08:30:58+00:00
@@ -165,12 +171,6 @@
  - date published: 2023-05-03 09:47:15+00:00
  - user: rumpel
  - tags: ['microsoft', 'windows', 'dark design']
-
-## caroline: Tiny Desk Concert
- - [https://www.youtube.com/watch?v=r_PNkXFdTog](https://www.youtube.com/watch?v=r_PNkXFdTog)
- - date published: 2023-05-03 09:00:36+00:00
- - user: rumpel
- - tags: ['concert', 'music']
 
 ## Six Libyans face death penalty for converting to Christianity
  - [https://www.theguardian.com/global-development/2023/may/03/six-libyans-face-death-penalty-for-converting-to-christianity](https://www.theguardian.com/global-development/2023/may/03/six-libyans-face-death-penalty-for-converting-to-christianity)
@@ -387,12 +387,6 @@
  - date published: 2023-04-26 09:30:54+00:00
  - user: rumpel
  - tags: ['germany', 'climate change', 'atom']
-
-## Bill Orcutt Guitar Quartet: Tiny Desk Concert
- - [https://www.youtube.com/watch?v=Tu_PRf1tyjI](https://www.youtube.com/watch?v=Tu_PRf1tyjI)
- - date published: 2023-04-26 09:00:20+00:00
- - user: rumpel
- - tags: ['concert', 'music']
 
 ## Florida surgeon general altered Covid-19 vaccine analysis to suggest higher risk for younger men -- Politico | CNN
  - [https://edition.cnn.com/2023/04/25/health/florida-covid-vaccine-analysis-ladapo/index.html](https://edition.cnn.com/2023/04/25/health/florida-covid-vaccine-analysis-ladapo/index.html)
@@ -862,12 +856,6 @@
  - user: rumpel
  - tags: ['unicoin', 'cbdc']
 
-## Careless Whisper | @georgemichael | funk cover ft. @elisetrouw & Dave Koz
- - [https://www.youtube.com/watch?v=NBo98gJkrP4](https://www.youtube.com/watch?v=NBo98gJkrP4)
- - date published: 2023-04-10 13:00:13+00:00
- - user: rumpel
- - tags: ['music']
-
 ## Posts distort proposed LGBTQ ‘safety zone’ bill in Canada | AP News
  - [https://apnews.com/article/fact-check-canada-bill-LGBTQ-777684926093](https://apnews.com/article/fact-check-canada-bill-LGBTQ-777684926093)
  - date published: 2023-04-10 07:24:00+00:00
@@ -891,12 +879,6 @@
  - date published: 2023-04-08 02:18:29+00:00
  - user: rumpel
  - tags: ['psychology', 'free will']
-
-## Fred again..: Tiny Desk Concert
- - [https://www.youtube.com/watch?v=4iQmPv_dTI0](https://www.youtube.com/watch?v=4iQmPv_dTI0)
- - date published: 2023-04-07 21:04:02+00:00
- - user: rumpel
- - tags: ['concert', 'music']
 
 ## Amazon Bans Flipper Zero, Claiming It Violates Policy Against Card Skimming Devices
  - [https://gizmodo.com/amazon-bans-flipper-zero-card-skimming-on-tiktok-1850313284](https://gizmodo.com/amazon-bans-flipper-zero-card-skimming-on-tiktok-1850313284)
@@ -1197,12 +1179,6 @@
  - date published: 2023-03-28 10:53:33+00:00
  - user: rumpel
  - tags: ['social media']
-
-## The Beths: Tiny Desk Concert
- - [https://www.youtube.com/watch?v=vt0J3IEYkIg](https://www.youtube.com/watch?v=vt0J3IEYkIg)
- - date published: 2023-03-28 09:00:40+00:00
- - user: rumpel
- - tags: ['concert', 'music']
 
 ## Patriot Act on steroids: anti-TikTok Trojan horse for censorship, surveillance
  - [https://dossier.substack.com/p/the-patriot-act-on-steroids-dc-uniparty](https://dossier.substack.com/p/the-patriot-act-on-steroids-dc-uniparty)
@@ -3453,12 +3429,6 @@
  - date published: 2023-01-14 05:01:00+00:00
  - user: rumpel
  - tags: ['big tech', 'privacy', 'technofeudalism']
-
-## Altin Gün @ Eurosonic 2021
- - [https://www.youtube.com/watch?v=wZwrp_DIru0](https://www.youtube.com/watch?v=wZwrp_DIru0)
- - date published: 2023-01-14 00:00:00+00:00
- - user: rumpel
- - tags: ['concert', 'music']
 
 ## Meta sues “scraping-for-hire” service that sells user data to law enforcement
  - [https://arstechnica.com/?p=1910046](https://arstechnica.com/?p=1910046)

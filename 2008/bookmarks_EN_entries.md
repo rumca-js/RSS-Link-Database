@@ -10,18 +10,6 @@
  - user: rumpel
  - tags: ['environment', 'society', 'climate change', 'ted', 'lecture', 'crisis', 'sociology']
 
-## Dub FX 10/10/2008 'Love Someone'
- - [https://www.youtube.com/watch?v=UiInBOVHpO8](https://www.youtube.com/watch?v=UiInBOVHpO8)
- - date published: 2008-10-16 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
-
-## AFX - PWSteal.Ldpinch.D
- - [https://www.youtube.com/watch?v=Ad4zMZHwjRk](https://www.youtube.com/watch?v=Ad4zMZHwjRk)
- - date published: 2008-09-13 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
-
 ## Is Google Making Us Stupid? - The Atlantic
  - [https://www.theatlantic.com/magazine/archive/2008/07/is-google-making-us-stupid/306868/](https://www.theatlantic.com/magazine/archive/2008/07/is-google-making-us-stupid/306868/)
  - date published: 2008-07-20 11:33:08+00:00

@@ -160,12 +160,6 @@
  - user: rumpel
  - tags: ['france', 'islam', 'charlie hebdo', 'immigration']
 
-## Izabela Trojanowska -  Iza (Cała płyta 1981 HQ)
- - [https://www.youtube.com/watch?v=9zC862eV4Mc](https://www.youtube.com/watch?v=9zC862eV4Mc)
- - date published: 2020-09-23 00:00:00+00:00
- - user: rumpel
- - tags: ['full album', 'music']
-
 ## Dzieci odebrane Polce przez Jugendamt zostaną na razie u muzułmanów
  - [https://wiadomosci.dziennik.pl/swiat/artykuly/7802606,jugendamt-polka-dzieci-rodzina-muzulmanie-niemcy.html](https://wiadomosci.dziennik.pl/swiat/artykuly/7802606,jugendamt-polka-dzieci-rodzina-muzulmanie-niemcy.html)
  - date published: 2020-09-21 08:55:52+00:00

@@ -1,9 +1,3 @@
-## WHAT DOES THE FAX SAY?  (North Korea Ylvis The Fox Parody Music Video HD)
- - [https://www.youtube.com/watch?v=pxDgQJBVJxg](https://www.youtube.com/watch?v=pxDgQJBVJxg)
- - date published: 2013-12-22 00:00:00+00:00
- - user: rumpel
- - tags: ['music', 'funny']
-
 ## Five Eyes
  - [https://en.wikipedia.org/wiki/Five_Eyes](https://en.wikipedia.org/wiki/Five_Eyes)
  - date published: 2013-12-21 14:41:21+00:00
@@ -45,12 +39,6 @@
  - date published: 2013-11-20 14:40:44+00:00
  - user: None
  - tags: ['five eyes', 'surveillance', 'nsa']
-
-## Lazerhawk ~ Redline Full Album
- - [https://www.youtube.com/watch?v=QpDn4-Na5co](https://www.youtube.com/watch?v=QpDn4-Na5co)
- - date published: 2013-11-14 00:00:00+00:00
- - user: rumpel
- - tags: ['full album', 'music']
 
 ## An old mans advice.
  - [https://www.youtube.com/watch?v=9fvETktnaRw](https://www.youtube.com/watch?v=9fvETktnaRw)
@@ -166,12 +154,6 @@
  - user: rumpel
  - tags: ['big tech', 'big brother', 'manufacturing consent', 'nsa']
 
-## Gasoline - A Journey Into Abstract Hip-Hop [Full album]
- - [https://www.youtube.com/watch?v=3q8nGnls1Ow](https://www.youtube.com/watch?v=3q8nGnls1Ow)
- - date published: 2013-05-24 00:00:00+00:00
- - user: rumpel
- - tags: ['full album', 'music']
-
 ## The Ugliest Open Secret Of German Politics: Pedophiles In The Green Party's Past
  - [https://worldcrunch.com/culture-society/the-ugliest-open-secret-of-german-politics-pedophiles-in-the-green-party039s-past](https://worldcrunch.com/culture-society/the-ugliest-open-secret-of-german-politics-pedophiles-in-the-green-party039s-past)
  - date published: 2013-05-23 20:57:26+00:00
@@ -226,29 +208,11 @@
  - user: rumpel
  - tags: ['chiptune', 'music']
 
-## Bonobo - Cirrus (Official Video)
- - [https://www.youtube.com/watch?v=WF34N4gJAKE](https://www.youtube.com/watch?v=WF34N4gJAKE)
- - date published: 2013-01-24 00:00:00+00:00
- - user: rumpel
- - tags: ['art', 'music']
-
-## LIGHT IN BABYLON - Hinech Yafa    -    Istanbul
- - [https://www.youtube.com/watch?v=aKJvbTEnp0I](https://www.youtube.com/watch?v=aKJvbTEnp0I)
- - date published: 2013-01-21 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
-
 ## Internet Activist, a Creator of RSS, Is Dead at 26, Apparently a Suicide
  - [https://www.nytimes.com/2013/01/13/technology/aaron-swartz-internet-activist-dies-at-26.html](https://www.nytimes.com/2013/01/13/technology/aaron-swartz-internet-activist-dies-at-26.html)
  - date published: 2013-01-12 10:28:59+00:00
  - user: None
  - tags: ['rss', 'aaron swartz']
-
-## NTR Podium: Lavinia Meijer speelt Philip Glass
- - [https://www.youtube.com/watch?v=hV2-zFh3tAU](https://www.youtube.com/watch?v=hV2-zFh3tAU)
- - date published: 2013-01-09 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
 
 ## Unix philosophy
  - [https://en.wikipedia.org/wiki/Unix_philosophy](https://en.wikipedia.org/wiki/Unix_philosophy)

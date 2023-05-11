@@ -1,9 +1,3 @@
-## Jungle - Full Performance (Live on KEXP)
- - [https://www.youtube.com/watch?v=t8c9jlRkEdM](https://www.youtube.com/watch?v=t8c9jlRkEdM)
- - date published: 2014-12-12 00:00:00+00:00
- - user: rumpel
- - tags: ['concert', 'music']
-
 ## Mass surveillance exposed by Snowden ‘not justified by fight against terrorism’
  - [http://www.theguardian.com/world/2014/dec/08/mass-surveillance-exposed-edward-snowden-not-justified-by-fight-against-terrorism](http://www.theguardian.com/world/2014/dec/08/mass-surveillance-exposed-edward-snowden-not-justified-by-fight-against-terrorism)
  - date published: 2014-12-08 14:03:00+00:00
@@ -27,12 +21,6 @@
  - date published: 2014-11-10 14:48:05+00:00
  - user: rumpel
  - tags: ['big tech', 'corporatocracy', 'google']
-
-## Saintseneca - Full Performance (Live on KEXP)
- - [https://www.youtube.com/watch?v=noK1apXzlcA](https://www.youtube.com/watch?v=noK1apXzlcA)
- - date published: 2014-11-08 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
 
 ## Verizon Injecting Perma-Cookies to Track Mobile Customers, Bypassing Privacy Controls | Electronic Frontier Foundation
  - [https://www.eff.org/deeplinks/2014/11/verizon-x-uidh](https://www.eff.org/deeplinks/2014/11/verizon-x-uidh)
@@ -106,35 +94,11 @@
  - user: rumpel
  - tags: ['privacy', 'encryption', 'crypto wars', 'surveillance']
 
-## Dynatron - Rise To The Stars
- - [https://www.youtube.com/watch?v=EoHFSx7nhVg](https://www.youtube.com/watch?v=EoHFSx7nhVg)
- - date published: 2014-10-05 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
-
 ## Why can’t Apple decrypt your iPhone? – A Few Thoughts on Cryptographic Engineering
  - [https://blog.cryptographyengineering.com/2014/10/04/why-cant-apple-decrypt-your-iphone/](https://blog.cryptographyengineering.com/2014/10/04/why-cant-apple-decrypt-your-iphone/)
  - date published: 2014-10-04 07:28:52+00:00
  - user: rumpel
  - tags: ['privacy', 'encryption', 'apple', 'iphone']
-
-## J.S. Bach: Prelude in C Minor "pour le luth" BWV 999;  David Tayler, archlute 4K UHD video
- - [https://www.youtube.com/watch?v=FnpaMm_2QYc](https://www.youtube.com/watch?v=FnpaMm_2QYc)
- - date published: 2014-10-04 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
-
-## Hermione Mix
- - [https://www.youtube.com/watch?v=lrsNeqANI3k](https://www.youtube.com/watch?v=lrsNeqANI3k)
- - date published: 2014-09-29 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
-
-## The Trouble
- - [https://www.youtube.com/watch?v=FRSr0GprIIw](https://www.youtube.com/watch?v=FRSr0GprIIw)
- - date published: 2014-09-18 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
 
 ## The Internet Slowdown protest for net neutrality needs to target regulators
  - [http://www.theguardian.com/commentisfree/2014/sep/10/internet-slowdown-protest-net-neutrality-fcc-regulators](http://www.theguardian.com/commentisfree/2014/sep/10/internet-slowdown-protest-net-neutrality-fcc-regulators)
@@ -154,12 +118,6 @@
  - user: rumpel
  - tags: ["pervert's guide", 'carpenter', 'they live']
 
-## Saintseneca: NPR Music Tiny Desk Concert
- - [https://www.youtube.com/watch?v=X8hnp9M4JCo](https://www.youtube.com/watch?v=X8hnp9M4JCo)
- - date published: 2014-07-29 00:00:00+00:00
- - user: rumpel
- - tags: ['concert', 'music']
-
 ## Amiga Lotus Turbo Challenge 2 Intro OST High Quality
  - [https://www.youtube.com/watch?v=vETonlaTZ4c](https://www.youtube.com/watch?v=vETonlaTZ4c)
  - date published: 2014-06-29 00:00:00+00:00
@@ -177,12 +135,6 @@
  - date published: 2014-06-05 14:55:15+00:00
  - user: rumpel
  - tags: ['surveillance', 'big brother', 'prism', 'edward snowden']
-
-## Erik Satie - Gnossiennes 1,2,3 [HQ]
- - [https://www.youtube.com/watch?v=aTi9czvLa-4](https://www.youtube.com/watch?v=aTi9czvLa-4)
- - date published: 2014-06-04 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
 
 ## Facebook Could Decide an Election Without Anyone Ever Finding Out
  - [https://newrepublic.com/article/117878/information-fiduciary-solution-facebook-digital-gerrymandering](https://newrepublic.com/article/117878/information-fiduciary-solution-facebook-digital-gerrymandering)
@@ -220,12 +172,6 @@
  - user: rumpel
  - tags: ['surveillance']
 
-## Wake Me Up Before You Go-Go - Wham! - Pomplamoose cover
- - [https://www.youtube.com/watch?v=wZNYDzNGB-Q](https://www.youtube.com/watch?v=wZNYDzNGB-Q)
- - date published: 2014-04-30 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
-
 ## Why Science Does Not Disprove God
  - [https://time.com/77676/why-science-does-not-disprove-god/](https://time.com/77676/why-science-does-not-disprove-god/)
  - date published: 2014-04-27 19:51:44+00:00
@@ -250,23 +196,11 @@
  - user: rumpel
  - tags: ['vulnerability', 'heartbleed']
 
-## Forest Swords - The Weight Of Gold (Official Video)
- - [https://www.youtube.com/watch?v=XnVXLrGnU5I](https://www.youtube.com/watch?v=XnVXLrGnU5I)
- - date published: 2014-03-07 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
-
 ## Nigeria’s Boko Haram targets Christian town and fishing village in latest attacks
  - [http://edition.cnn.com/2014/02/16/world/africa/nigeria-boko-haram-attacks/index.html?eref=edition](http://edition.cnn.com/2014/02/16/world/africa/nigeria-boko-haram-attacks/index.html?eref=edition)
  - date published: 2014-02-17 09:23:02+00:00
  - user: rumpel
  - tags: ['christianophobia', 'islam', 'nigeria']
-
-## Nicey Nicey
- - [https://www.youtube.com/watch?v=tZp6IgveE5o](https://www.youtube.com/watch?v=tZp6IgveE5o)
- - date published: 2014-02-17 00:00:00+00:00
- - user: rumpel
- - tags: ['music']
 
 ## Judge rules that Kansan who provided sperm to lesbian couple owes child support  Read more at: https://www.kansascity.com/news/local/article337100.html#storylink=cpy
  - [https://www.kansascity.com/news/local/article337100.html](https://www.kansascity.com/news/local/article337100.html)
