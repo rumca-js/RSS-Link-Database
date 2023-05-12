@@ -82,6 +82,12 @@
  - user: rumpel
  - tags: ['memento', 'nolan', 'movies']
 
+## javascript - How to skip ad after 5 seconds using the YouTube JS API? - Stack Overflow
+ - [https://stackoverflow.com/questions/31522813/how-to-skip-ad-after-5-seconds-using-the-youtube-js-api](https://stackoverflow.com/questions/31522813/how-to-skip-ad-after-5-seconds-using-the-youtube-js-api)
+ - date published: 2015-07-20 11:32:20+00:00
+ - user: rumpel
+ - tags: ['youtube', 'scripts']
+
 ## The manipulation of the American mind: Edward Bernays and the birth of public relations
  - [https://theconversation.com/the-manipulation-of-the-american-mind-edward-bernays-and-the-birth-of-public-relations-44393](https://theconversation.com/the-manipulation-of-the-american-mind-edward-bernays-and-the-birth-of-public-relations-44393)
  - date published: 2015-07-09 11:40:48+00:00

@@ -47,6 +47,12 @@ Foreign Bribery Investigation | OPA | Department of Justice
  - user: rumpel
  - tags: ['pfizer', 'manufacturing consent', 'big pharma']
 
+## Rob Pike on the Origin of Unix Dot File Names
+ - [http://xahlee.info/UnixResource_dir/writ/unix_origin_of_dot_filename.html](http://xahlee.info/UnixResource_dir/writ/unix_origin_of_dot_filename.html)
+ - date published: 2012-08-03 13:31:29+00:00
+ - user: rumpel
+ - tags: ['linux']
+
 ## The Evolution of PC Games
  - [https://www.youtube.com/watch?v=OuO-s1kugLs](https://www.youtube.com/watch?v=OuO-s1kugLs)
  - date published: 2012-07-17 00:00:00+00:00

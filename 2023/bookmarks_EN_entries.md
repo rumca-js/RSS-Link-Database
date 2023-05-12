@@ -1,8 +1,32 @@
+## YouTube tests blocking videos unless you disable ad blockers
+ - [https://www.bleepingcomputer.com/news/technology/youtube-tests-blocking-videos-unless-you-disable-ad-blockers/](https://www.bleepingcomputer.com/news/technology/youtube-tests-blocking-videos-unless-you-disable-ad-blockers/)
+ - date published: 2023-05-10 19:45:03+00:00
+ - user: rumpel
+ - tags: ['technofeudalism', 'ad business', 'youtube']
+
+## Google breaking European privacy law by hoarding personal data of job candidates
+ - [https://fortune.com/2023/05/10/exclusive-google-recruitment-ghire-gdpr-violation-whistleblower/](https://fortune.com/2023/05/10/exclusive-google-recruitment-ghire-gdpr-violation-whistleblower/)
+ - date published: 2023-05-10 14:37:48+00:00
+ - user: rumpel
+ - tags: ['privacy', 'google', 'gdpr']
+
 ## Google promised to delete sensitive data. It logged my abortion clinic visit
  - [https://www.washingtonpost.com/technology/2023/05/09/google-privacy-abortion-data/](https://www.washingtonpost.com/technology/2023/05/09/google-privacy-abortion-data/)
  - date published: 2023-05-09 13:14:33+00:00
  - user: rumpel
  - tags: ['anonymity', 'technofeudalism', 'privacy', 'corporatocracy']
+
+## Lab-grown meat could be 25 times worse for the climate than beef | New Scientist
+ - [https://www.newscientist.com/article/2372229-lab-grown-meat-could-be-25-times-worse-for-the-climate-than-beef/](https://www.newscientist.com/article/2372229-lab-grown-meat-could-be-25-times-worse-for-the-climate-than-beef/)
+ - date published: 2023-05-09 12:55:34+00:00
+ - user: rumpel
+ - tags: ['climate change', 'artificial meat']
+
+## Leaked EU Council legal analysis: EU chat control plans for indiscriminately searching private messages doomed to failure – Patrick Breyer
+ - [https://www.patrick-breyer.de/en/leaked-eu-council-legal-analysis-eu-chat-control-plans-for-indiscriminately-searching-private-messages-doomed-to-failure/](https://www.patrick-breyer.de/en/leaked-eu-council-legal-analysis-eu-chat-control-plans-for-indiscriminately-searching-private-messages-doomed-to-failure/)
+ - date published: 2023-05-08 11:21:44+00:00
+ - user: rumpel
+ - tags: ['crypto wars', 'chat control', 'surveillance', 'privacy', 'government control']
 
 ## Street Fighter II, paper trails (2021)
  - [https://fabiensanglard.net/sf2_sheets/index.html](https://fabiensanglard.net/sf2_sheets/index.html)
