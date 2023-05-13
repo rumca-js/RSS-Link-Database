@@ -1,3 +1,9 @@
+## Millions of mobile phones come pre-infected with malware, say researchers
+ - [https://www.theregister.com/2023/05/11/bh_asia_mobile_phones/](https://www.theregister.com/2023/05/11/bh_asia_mobile_phones/)
+ - date published: 2023-05-11 20:45:02+00:00
+ - user: rumpel
+ - tags: ['vulnerability', 'smartphone l']
+
 ## YouTube tests blocking videos unless you disable ad blockers
  - [https://www.bleepingcomputer.com/news/technology/youtube-tests-blocking-videos-unless-you-disable-ad-blockers/](https://www.bleepingcomputer.com/news/technology/youtube-tests-blocking-videos-unless-you-disable-ad-blockers/)
  - date published: 2023-05-10 19:45:03+00:00
@@ -3453,6 +3459,12 @@
  - date published: 2023-01-14 05:01:00+00:00
  - user: rumpel
  - tags: ['big tech', 'privacy', 'technofeudalism']
+
+## Altin Gün @ Eurosonic 2021
+ - [https://www.youtube.com/watch?v=wZwrp_DIru0](https://www.youtube.com/watch?v=wZwrp_DIru0)
+ - date published: 2023-01-14 00:00:00+00:00
+ - user: rumpel
+ - tags: $tags
 
 ## Meta sues “scraping-for-hire” service that sells user data to law enforcement
  - [https://arstechnica.com/?p=1910046](https://arstechnica.com/?p=1910046)

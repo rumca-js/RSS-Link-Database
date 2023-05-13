@@ -136,6 +136,12 @@
  - user: rumpel
  - tags: ['politics', 'black lives matter', 'manufacturing consent']
 
+## YouTube Adpocalypse | Wikitubia | Fandom
+ - [https://youtube.fandom.com/wiki/YouTube_Adpocalypse](https://youtube.fandom.com/wiki/YouTube_Adpocalypse)
+ - date published: 2016-08-12 14:29:46+00:00
+ - user: rumpel
+ - tags: ['ad business', 'adpocalypse', 'youtube']
+
 ## Racism in America Small Town 1950s Case Study Documentary Film
  - [https://www.youtube.com/watch?v=cCW58RCgqOQ](https://www.youtube.com/watch?v=cCW58RCgqOQ)
  - date published: 2016-08-04 00:00:00+00:00
