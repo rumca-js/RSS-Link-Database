@@ -1,3 +1,33 @@
+## Twitter Conspiracy Bozos Are Freaking Out Over Elon's WEF-Friendly CEO Pick
+ - [https://gizmodo.com/linda-yaccarino-twitter-ceo-wef-conspiracy-elon-musk-1850433392](https://gizmodo.com/linda-yaccarino-twitter-ceo-wef-conspiracy-elon-musk-1850433392)
+ - date published: 2023-05-13 12:30:00+00:00
+ - user: rumpel
+ - tags: ['elin musk', 'twitter', 'world economic forum']
+
+## Why Conscious AI Is a Bad, Bad Idea
+ - [https://nautil.us/why-conscious-ai-is-a-bad-bad-idea-302937/](https://nautil.us/why-conscious-ai-is-a-bad-bad-idea-302937/)
+ - date published: 2023-05-13 10:59:47+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
+
+## Open-source disposable email service
+ - [https://sorry.idont.date/](https://sorry.idont.date/)
+ - date published: 2023-05-12 19:13:06+00:00
+ - user: rumpel
+ - tags: ['selfhost', 'email server']
+
+## Pneumonia may be responsible for most COVID-19 deaths, Northwestern U finds
+ - [https://www.beckershospitalreview.com/infection-control/pneumonia-may-be-responsible-for-most-covid-19-deaths-northwestern-u-finds.html](https://www.beckershospitalreview.com/infection-control/pneumonia-may-be-responsible-for-most-covid-19-deaths-northwestern-u-finds.html)
+ - date published: 2023-05-12 13:37:37+00:00
+ - user: rumpel
+ - tags: ['covid']
+
+## EU's Cyber Resilience Act contains a poison pill
+ - [https://www.theregister.com/2023/05/12/eu_cyber_resilience_act/](https://www.theregister.com/2023/05/12/eu_cyber_resilience_act/)
+ - date published: 2023-05-12 09:49:14+00:00
+ - user: rumpel
+ - tags: ['government control', 'cyber resilience act']
+
 ## Millions of mobile phones come pre-infected with malware, say researchers
  - [https://www.theregister.com/2023/05/11/bh_asia_mobile_phones/](https://www.theregister.com/2023/05/11/bh_asia_mobile_phones/)
  - date published: 2023-05-11 20:45:02+00:00
