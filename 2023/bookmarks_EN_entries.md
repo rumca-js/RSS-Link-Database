@@ -1,3 +1,45 @@
+## Government’s UKHSA uses mobile networks to track population movement
+ - [https://www.openaccessgovernment.org/governments-ukhsa-mobile-networks-track-population-movement/158966/](https://www.openaccessgovernment.org/governments-ukhsa-mobile-networks-track-population-movement/158966/)
+ - date published: 2023-05-15 13:40:42+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'england']
+
+## Uncensored (Language) Models
+ - [https://erichartford.com/uncensored-models](https://erichartford.com/uncensored-models)
+ - date published: 2023-05-15 10:33:30+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
+
+## This Blog is hosted on my Android phone
+ - [https://androidblog.a.pinggy.io/](https://androidblog.a.pinggy.io/)
+ - date published: 2023-05-15 05:53:17+00:00
+ - user: rumpel
+ - tags: ['selfhost']
+
+## Surveillance of reporter a 'serious attack on freedom of the press in Canada'
+ - [https://www.cbc.ca/news/canada/montreal/la-presse-patrick-lagace-cjfe-edward-snowden-1.3829383](https://www.cbc.ca/news/canada/montreal/la-presse-patrick-lagace-cjfe-edward-snowden-1.3829383)
+ - date published: 2023-05-14 22:53:58+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'canada']
+
+## 47% of all internet traffic came from bots in 2022
+ - [https://www.securitymagazine.com/articles/99339-47-of-all-internet-traffic-came-from-bots-in-2022](https://www.securitymagazine.com/articles/99339-47-of-all-internet-traffic-came-from-bots-in-2022)
+ - date published: 2023-05-14 14:49:43+00:00
+ - user: rumpel
+ - tags: ['dead internet']
+
+## The Pandemic May Be Over But UK Mobile Networks Are Still Monitoring Population Movement
+ - [https://reclaimthenet.org/uk-mobile-networks-are-still-monitoring-population-movement](https://reclaimthenet.org/uk-mobile-networks-are-still-monitoring-population-movement)
+ - date published: 2023-05-13 20:44:42+00:00
+ - user: rumpel
+ - tags: ['covid', 'surveillance']
+
+## Fake scientific papers are alarmingly common
+ - [https://www.science.org/content/article/fake-scientific-papers-are-alarmingly-common](https://www.science.org/content/article/fake-scientific-papers-are-alarmingly-common)
+ - date published: 2023-05-13 14:49:45+00:00
+ - user: rumpel
+ - tags: ['science is dead']
+
 ## Twitter Conspiracy Bozos Are Freaking Out Over Elon's WEF-Friendly CEO Pick
  - [https://gizmodo.com/linda-yaccarino-twitter-ceo-wef-conspiracy-elon-musk-1850433392](https://gizmodo.com/linda-yaccarino-twitter-ceo-wef-conspiracy-elon-musk-1850433392)
  - date published: 2023-05-13 12:30:00+00:00
@@ -57,6 +99,12 @@
  - date published: 2023-05-09 12:55:34+00:00
  - user: rumpel
  - tags: ['climate change', 'artificial meat']
+
+## Google is increasing the number of ads in Gmail, showing them in the middle of inboxes | TechSpot
+ - [https://www.techspot.com/news/98598-google-increasing-number-ads-gmail-showing-them-middle.html](https://www.techspot.com/news/98598-google-increasing-number-ads-gmail-showing-them-middle.html)
+ - date published: 2023-05-08 11:59:42+00:00
+ - user: rumpel
+ - tags: ['google', 'technofeudalism', 'ad business']
 
 ## Leaked EU Council legal analysis: EU chat control plans for indiscriminately searching private messages doomed to failure – Patrick Breyer
  - [https://www.patrick-breyer.de/en/leaked-eu-council-legal-analysis-eu-chat-control-plans-for-indiscriminately-searching-private-messages-doomed-to-failure/](https://www.patrick-breyer.de/en/leaked-eu-council-legal-analysis-eu-chat-control-plans-for-indiscriminately-searching-private-messages-doomed-to-failure/)
@@ -171,6 +219,12 @@
  - date published: 2023-05-04 13:19:32+00:00
  - user: rumpel
  - tags: ['digital markets act']
+
+## Google “We have no moat, and neither does OpenAI”
+ - [https://www.semianalysis.com/p/google-we-have-no-moat-and-neither](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
+ - date published: 2023-05-04 10:19:13+00:00
+ - user: rumpel
+ - tags: ['open source', 'artificial intelligence']
 
 ## Google to abolish passwords for ‘passkeys’: Here’s what to know
  - [https://www.aljazeera.com/news/2023/5/4/google-to-abolish-passwords-for-passkeys-heres-what-to-know](https://www.aljazeera.com/news/2023/5/4/google-to-abolish-passwords-for-passkeys-heres-what-to-know)
@@ -448,6 +502,12 @@
  - user: rumpel
  - tags: ['germany', 'climate change', 'atom']
 
+## Justin Trudeau accused of rewriting history by claiming he never forced anyone to get vaccinated
+ - [https://www.foxnews.com/media/justin-trudeau-accused-rewriting-history-claiming-never-forced-anyone-get-vaccinated](https://www.foxnews.com/media/justin-trudeau-accused-rewriting-history-claiming-never-forced-anyone-get-vaccinated)
+ - date published: 2023-04-25 15:11:13+00:00
+ - user: rumpel
+ - tags: ['covid', 'mandates', 'vaccine', 'justin trudeau']
+
 ## Florida surgeon general altered Covid-19 vaccine analysis to suggest higher risk for younger men -- Politico | CNN
  - [https://edition.cnn.com/2023/04/25/health/florida-covid-vaccine-analysis-ladapo/index.html](https://edition.cnn.com/2023/04/25/health/florida-covid-vaccine-analysis-ladapo/index.html)
  - date published: 2023-04-25 07:08:00+00:00
@@ -699,6 +759,12 @@
  - date published: 2023-04-17 11:48:38+00:00
  - user: rumpel
  - tags: ['go woke go broke', 'disney']
+
+## Windows 11 Start menu ads look set to get even worse – this is getting painful now
+ - [https://www.techradar.com/news/windows-11-start-menu-ads-look-set-to-get-even-worse-this-is-getting-painful-now](https://www.techradar.com/news/windows-11-start-menu-ads-look-set-to-get-even-worse-this-is-getting-painful-now)
+ - date published: 2023-04-17 09:41:36+00:00
+ - user: rumpel
+ - tags: ['microsoft', 'windows 11', 'ad business', 'windows']
 
 ## Steam restricts thousands of accounts for calling a review helpful - WIN.gg
  - [https://win.gg/news/steam-restricts-thousands-of-accounts-for-calling-a-review-helpful/](https://win.gg/news/steam-restricts-thousands-of-accounts-for-calling-a-review-helpful/)
@@ -2614,6 +2680,12 @@
  - user: rumpel
  - tags: ['nord stream', 'russia']
 
+## Is Windows 11 spying on you? New report details eye-opening levels of telemetry
+ - [https://www.techradar.com/news/is-windows-11-spying-on-you-new-report-details-eye-opening-levels-of-telemetry](https://www.techradar.com/news/is-windows-11-spying-on-you-new-report-details-eye-opening-levels-of-telemetry)
+ - date published: 2023-02-08 14:34:46+00:00
+ - user: rumpel
+ - tags: ['windows 11', 'microsoft', 'telemetry', 'windows', 'dark design']
+
 ## GOP Rep Nancy Mace Rips Ex-Twitter Official for Censoring Stanford Doc’s Covid Opinions | National Review
  - [https://www.nationalreview.com/news/whered-you-go-to-medical-school-gop-rep-rips-ex-twitter-official-for-censoring-stanford-docs-covid-opinions/](https://www.nationalreview.com/news/whered-you-go-to-medical-school-gop-rep-rips-ex-twitter-official-for-censoring-stanford-docs-covid-opinions/)
  - date published: 2023-02-08 13:57:58+00:00
@@ -2631,6 +2703,12 @@
  - date published: 2023-02-08 12:10:12+00:00
  - user: rumpel
  - tags: ['artificial intelligence', 'chatgpt', 'privacy']
+
+## Windows 11 Collects an Awful Lot of Telemetry About Your PC | Extremetech
+ - [https://www.extremetech.com/computing/342941-windows-11-collects-an-awful-lot-of-telemetry-about-your-pc](https://www.extremetech.com/computing/342941-windows-11-collects-an-awful-lot-of-telemetry-about-your-pc)
+ - date published: 2023-02-08 11:51:12+00:00
+ - user: rumpel
+ - tags: ['windows 11', 'microsoft', 'telemetry', 'windows', 'dark design']
 
 ## UK Regulator Finds Pfizer Guilty of Violating Three Sections of British Pharmaceuticals Code of Practice
  - [https://www.gulf-insider.com/uk-regulator-finds-pfizer-guilty-of-violating-three-sections-of-british-pharmaceuticals-code-of-practice/](https://www.gulf-insider.com/uk-regulator-finds-pfizer-guilty-of-violating-three-sections-of-british-pharmaceuticals-code-of-practice/)

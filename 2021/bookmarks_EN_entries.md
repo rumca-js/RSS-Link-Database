@@ -214,6 +214,18 @@
  - user: None
  - tags: ['climate science', 'carbon footprint', 'climate change']
 
+## GitHub - CompVis/stable-diffusion: A latent text-to-image diffusion model
+ - [https://github.com/CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion)
+ - date published: 2021-12-21 13:59:36+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence', 'stable diffusion']
+
+## Stable Diffusion - Wikipedia
+ - [https://en.wikipedia.org/wiki/Stable_Diffusion](https://en.wikipedia.org/wiki/Stable_Diffusion)
+ - date published: 2021-12-21 13:58:56+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence', 'stable diffusion']
+
 ## Boeing and Airbus warn US over 5G safety concerns - BBC News
  - [https://www.bbc.co.uk/news/business-59737194](https://www.bbc.co.uk/news/business-59737194)
  - date published: 2021-12-21 12:40:48.353648+00:00
@@ -3752,7 +3764,7 @@
  - [https://techstartups.com/2021/04/30/bill-gates-turned-55-million-investment-pfizers-partner-biontech-550-million-just-two-years/](https://techstartups.com/2021/04/30/bill-gates-turned-55-million-investment-pfizers-partner-biontech-550-million-just-two-years/)
  - date published: 2021-04-30 21:26:09+00:00
  - user: rumpel
- - tags: ['big pharma', 'vaccine', 'covid', 'biontech', 'pfizer', 'mrna']
+ - tags: ['vaccine', 'mrna', 'bill gates', 'covid', 'pfizer', 'biontech', 'big pharma']
 
 ## TERREG: European Parliament confirms new online censorship powers
  - [https://edri.org/our-work/european-parliament-confirms-new-online-censorship-powers/](https://edri.org/our-work/european-parliament-confirms-new-online-censorship-powers/)
