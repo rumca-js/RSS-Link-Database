@@ -418,6 +418,12 @@
  - user: rumpel
  - tags: ['privacy', 'censorship', 'surveillance', 'free speech']
 
+## Robert Kiyosaki 2019 - The Speech That Broke The Internet!!! KEEP THEM POOR!
+ - [https://www.youtube.com/watch?v=azq0S0DKS50](https://www.youtube.com/watch?v=azq0S0DKS50)
+ - date published: 2019-08-06 00:00:00+00:00
+ - user: rumpel
+ - tags: ['motivation']
+
 ## Google Manipulates Search Results, Former Engineer Shockingly Confirms
  - [https://www.ccn.com/google-manipulates-search-results-former-engineer-shockingly-confirms/](https://www.ccn.com/google-manipulates-search-results-former-engineer-shockingly-confirms/)
  - date published: 2019-08-01 14:10:59+00:00

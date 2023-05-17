@@ -218,7 +218,7 @@
  - [https://www.theepochtimes.com/police-in-australia-ask-people-to-snitch-on-conspiracy-theorist-neighbors_4945846.html](https://www.theepochtimes.com/police-in-australia-ask-people-to-snitch-on-conspiracy-theorist-neighbors_4945846.html)
  - date published: 2022-12-26 17:59:56+00:00
  - user: rumpel
- - tags: ['covid', 'big brother', 'conspiracy theory', 'misinformation', 'polarisation']
+ - tags: ['covid', 'conspiracy theory', 'big brother', 'polarisation']
 
 ## NHS Orders Interview Panels to Justify Hiring White Job Applicants – The Daily Sceptic
  - [https://dailysceptic.org/2022/12/26/nhs-orders-interview-panels-to-justify-hiring-white-job-applicants/](https://dailysceptic.org/2022/12/26/nhs-orders-interview-panels-to-justify-hiring-white-job-applicants/)
@@ -230,7 +230,7 @@
  - [https://www.dailymail.co.uk/news/article-11574573/Twitter-suppressed-covid-information-doctors-experts.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11574573/Twitter-suppressed-covid-information-doctors-experts.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2022-12-26 15:14:28+00:00
  - user: rumpel
- - tags: ['covid', 'disinformation', 'censorship', 'misinformation', 'big brother']
+ - tags: ['covid', 'big brother', 'censorship']
 
 ## Elon Musk Says ‘Almost Every Conspiracy Theory That People Had About Twitter Turned Out to Be True’
  - [https://www.theepochtimes.com/elon-musk-says-almost-every-conspiracy-theory-that-people-had-about-twitter-turned-out-to-be-true_4945425.html](https://www.theepochtimes.com/elon-musk-says-almost-every-conspiracy-theory-that-people-had-about-twitter-turned-out-to-be-true_4945425.html)
@@ -2150,7 +2150,7 @@
  - [https://www.theepochtimes.com/bill-c-11-raising-serious-doubts-about-crtcs-independence-from-feds_4881932.html](https://www.theepochtimes.com/bill-c-11-raising-serious-doubts-about-crtcs-independence-from-feds_4881932.html)
  - date published: 2022-11-23 17:28:01+00:00
  - user: None
- - tags: ['bill c-11', 'government control']
+ - tags: ['government control', 'canada', 'bill c-11']
 
 ## Eufy leaking your "private" images/faces & names... to the cloud.
  - [https://www.youtube.com/watch?v=qOjiCbxP5Lc](https://www.youtube.com/watch?v=qOjiCbxP5Lc)
@@ -5366,7 +5366,7 @@
  - [https://www.nytimes.com/2022/09/27/technology/meta-chinese-influence-us-elections.html](https://www.nytimes.com/2022/09/27/technology/meta-chinese-influence-us-elections.html)
  - date published: 2022-09-27 12:15:06+00:00
  - user: None
- - tags: ['meta', 'china', 'misinformation']
+ - tags: ['elections', 'espionage', 'meta', 'china']
 
 ## Google warns EU plans to make tech giants pay for networks is outdated concept
  - [https://www.techradar.com/news/google-warns-eu-plans-to-make-tech-giants-pay-for-networks-is-outdated-concept/](https://www.techradar.com/news/google-warns-eu-plans-to-make-tech-giants-pay-for-networks-is-outdated-concept/)
@@ -8884,6 +8884,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## JPMorgan Employees Describe Fear Over Mass Workplace Surveillance
+ - [https://www.businessinsider.com/jpmorgan-chase-employees-describe-fear-mass-workplace-data-surveillance-wadu-2022-5?IR=T](https://www.businessinsider.com/jpmorgan-chase-employees-describe-fear-mass-workplace-data-surveillance-wadu-2022-5?IR=T)
+ - date published: 2022-05-27 14:51:33+00:00
+ - user: rumpel
+ - tags: ['survaillance', 'jpmorgan']
+
 ## A Brief History of the LGBTQ Acronym
  - [https://www.yahoo.com/lifestyle/brief-history-lgbtq-acronym-183200888.html](https://www.yahoo.com/lifestyle/brief-history-lgbtq-acronym-183200888.html)
  - date published: 2022-05-27 14:13:08+00:00
@@ -8980,6 +8986,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## The real Dune
+ - [https://www.youtube.com/watch?v=R0krUthYxF4](https://www.youtube.com/watch?v=R0krUthYxF4)
+ - date published: 2022-05-22 00:00:00+00:00
+ - user: rumpel
+ - tags: ['dune', 'books']
+
 ## Predatory community
  - [https://blog.mollywhite.net/predatory-community/#fnref:fn1](https://blog.mollywhite.net/predatory-community/#fnref:fn1)
  - date published: 2022-05-21 07:52:06.649721+00:00
@@ -9032,7 +9044,7 @@
  - [https://www.forbes.com/sites/jillgoldenziel/2022/05/18/the-disinformation-governance-board-is-dead-heres-the-right-way-to-fight-disinformation/](https://www.forbes.com/sites/jillgoldenziel/2022/05/18/the-disinformation-governance-board-is-dead-heres-the-right-way-to-fight-disinformation/)
  - date published: 2022-05-18 19:53:26+00:00
  - user: rumpel
- - tags: ['ministry of truth', 'surveillance', 'misinformation', 'big brother', 'disinformation governance board']
+ - tags: ['ministry of truth', 'government control', 'disinformation governance board', 'surveillance', 'misinformation', 'big brother']
 
 ## Disinformation Governance Board 'paused' after just 3 weeks
  - [https://www.washingtonpost.com/technology/2022/05/18/disinformation-board-dhs-nina-jankowicz/](https://www.washingtonpost.com/technology/2022/05/18/disinformation-board-dhs-nina-jankowicz/)
@@ -10210,6 +10222,12 @@
  - user: rumpel
  - tags: ['ddos', 'hackers', 'programming']
 
+## Secret behind Hollywood's power. And why they are afraid of the WOKE.
+ - [https://www.youtube.com/watch?v=WJzXUSl20kM](https://www.youtube.com/watch?v=WJzXUSl20kM)
+ - date published: 2022-03-16 00:00:00+00:00
+ - user: rumpel
+ - tags: ['woke', 'movies', 'hollywood']
+
 ## Ufopornoo! - Higher Quality
  - [https://www.youtube.com/watch?v=W5UkA2Gg-Cc](https://www.youtube.com/watch?v=W5UkA2Gg-Cc)
  - date published: 2022-03-16 00:00:00+00:00
@@ -10575,6 +10593,12 @@
  - date published: 2022-02-19 06:53:36+00:00
  - user: rumpel
  - tags: ['protest', 'propaganda', 'fearmongering', 'covid', 'canada']
+
+## A Timeline of Narnia History | Narnia Lore | The Seven Ages of Narnia
+ - [https://www.youtube.com/watch?v=Vy_nbi_Gl7k](https://www.youtube.com/watch?v=Vy_nbi_Gl7k)
+ - date published: 2022-02-19 00:00:00+00:00
+ - user: rumpel
+ - tags: ['books', 'narnia']
 
 ## Windows 11 Pro will soon require a Microsoft Account
  - [https://www.theverge.com/2022/2/18/22940517/windows-11-pro-require-microsoft-account-internet-connection](https://www.theverge.com/2022/2/18/22940517/windows-11-pro-require-microsoft-account-internet-connection)

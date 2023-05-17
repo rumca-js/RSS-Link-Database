@@ -80,5 +80,5 @@
  - [https://www.theguardian.com/technology/2011/mar/17/us-spy-operation-social-networks](https://www.theguardian.com/technology/2011/mar/17/us-spy-operation-social-networks)
  - date published: 2011-03-17 15:28:40+00:00
  - user: None
- - tags: ['fakenews', 'psyop', 'government', 'big brother', 'fact check', 'misinformation', 'disinformation', 'propaganda', 'social media']
+ - tags: ['psyop', 'fact check', 'propaganda', 'government', 'fakenews', 'social media', 'disinformation', 'big brother']
 

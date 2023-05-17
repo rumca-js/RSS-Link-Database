@@ -1,3 +1,9 @@
+## The UK’s Secretive Web Surveillance Program Is Ramping Up
+ - [https://www.wired.com/story/internet-connection-records-uk-surveillance/](https://www.wired.com/story/internet-connection-records-uk-surveillance/)
+ - date published: 2023-05-15 14:46:40+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'england']
+
 ## Government’s UKHSA uses mobile networks to track population movement
  - [https://www.openaccessgovernment.org/governments-ukhsa-mobile-networks-track-population-movement/158966/](https://www.openaccessgovernment.org/governments-ukhsa-mobile-networks-track-population-movement/158966/)
  - date published: 2023-05-15 13:40:42+00:00
@@ -9,6 +15,18 @@
  - date published: 2023-05-15 10:33:30+00:00
  - user: rumpel
  - tags: ['artificial intelligence']
+
+## The Nakba: Five Palestinian towns massacred 75 years ago
+ - [https://www.aljazeera.com/news/2023/5/15/the-nakba-five-palestinian-towns-massacred-75-years-ago](https://www.aljazeera.com/news/2023/5/15/the-nakba-five-palestinian-towns-massacred-75-years-ago)
+ - date published: 2023-05-15 09:44:39+00:00
+ - user: rumpel
+ - tags: ['palestine', 'nakba', 'israel']
+
+## Telly Start-Up Offers Dual-Screen Smart TVs For Free – Deadline
+ - [https://deadline.com/2023/05/telly-startup-pluto-tv-smart-tv-streaming-advertising-1235362087/](https://deadline.com/2023/05/telly-startup-pluto-tv-smart-tv-streaming-advertising-1235362087/)
+ - date published: 2023-05-15 08:28:50+00:00
+ - user: rumpel
+ - tags: ['ad business', 'privacy', 'technofeudalism']
 
 ## This Blog is hosted on my Android phone
  - [https://androidblog.a.pinggy.io/](https://androidblog.a.pinggy.io/)
@@ -123,6 +141,12 @@
  - date published: 2023-05-08 07:55:44+00:00
  - user: rumpel
  - tags: ['artificial intelligence', 'github']
+
+## Canada Liberal’s Assault on Press Freedom: The Plot To Censor ‘Untraceable Sources’
+ - [https://reclaimthenet.org/canada-liberals-propose-unverified-sources-ban](https://reclaimthenet.org/canada-liberals-propose-unverified-sources-ban)
+ - date published: 2023-05-07 23:23:34+00:00
+ - user: rumpel
+ - tags: ['canada', 'censorship']
 
 ## A Group Is Its Own Worst Enemy [pdf] (2005)
  - [https://gwern.net/doc/technology/2005-shirky-agroupisitsownworstenemy.pdf](https://gwern.net/doc/technology/2005-shirky-agroupisitsownworstenemy.pdf)
@@ -260,7 +284,7 @@
  - [https://www.reuters.com/world/americas/brazil-lawmakers-vote-controversial-bill-clean-up-social-media-2023-05-02/](https://www.reuters.com/world/americas/brazil-lawmakers-vote-controversial-bill-clean-up-social-media-2023-05-02/)
  - date published: 2023-05-03 16:16:49+00:00
  - user: rumpel
- - tags: ['brasil', 'misinformation', 'censorship', 'bill 2630', 'moderation']
+ - tags: ['brasil', 'moderation', 'government control', 'censorship', 'misinformation', 'bill 2630']
 
 ## Google, Microsoft CEOs Called to AI Meeting at White House
  - [https://www.reuters.com/technology/google-microsoft-openai-ceos-attend-white-house-ai-meeting-official-2023-05-02/](https://www.reuters.com/technology/google-microsoft-openai-ceos-attend-white-house-ai-meeting-official-2023-05-02/)
@@ -320,7 +344,7 @@
  - [https://reclaimthenet.org/irelands-plan-to-criminalize-hate-speech](https://reclaimthenet.org/irelands-plan-to-criminalize-hate-speech)
  - date published: 2023-05-02 17:19:04+00:00
  - user: rumpel
- - tags: ['government control', 'hate speech', 'bill 2022', 'ireland']
+ - tags: ['ireland', 'government control', 'censorship', 'bill 2022']
 
 ## IBM plans to replace 7,800 jobs with AI over time, pauses hiring certain positions
  - [https://arstechnica.com/?p=1935937](https://arstechnica.com/?p=1935937)
@@ -332,13 +356,19 @@
  - [https://www.catholicnewsagency.com/news/254219/hate-speech-bill-advances-in-ireland-amid-fears-it-would-silence-jk-rowling-catholicand-the-catholic-church](https://www.catholicnewsagency.com/news/254219/hate-speech-bill-advances-in-ireland-amid-fears-it-would-silence-jk-rowling-catholicand-the-catholic-church)
  - date published: 2023-05-02 09:45:03+00:00
  - user: rumpel
- - tags: ['censorship', 'ireland', 'bill 2022', 'big brother']
+ - tags: ['ireland', 'government control', 'censorship', 'big brother', 'bill 2022']
 
 ## Privacyguides.org – The guide to restoring your online privacy
  - [https://www.privacyguides.org/en/](https://www.privacyguides.org/en/)
  - date published: 2023-05-01 20:00:52+00:00
  - user: rumpel
  - tags: ['privacy']
+
+## Bill C-11 Becomes Law, Forcing Streamers To Support Canadian Content - MarketWatch
+ - [https://www.marketwatch.com/press-release/bill-c-11-becomes-law-forcing-streamers-to-support-canadian-content-2023-05-01](https://www.marketwatch.com/press-release/bill-c-11-becomes-law-forcing-streamers-to-support-canadian-content-2023-05-01)
+ - date published: 2023-05-01 12:47:52+00:00
+ - user: rumpel
+ - tags: ['canada', 'bill c-11']
 
 ## Help make mass surveillance of entire populations uneconomical
  - [https://prism-break.org/en/](https://prism-break.org/en/)
@@ -482,7 +512,7 @@
  - [https://www.theguardian.com/politics/2023/apr/26/former-tory-mp-andrew-bridgen-expelled-permanently-from-party](https://www.theguardian.com/politics/2023/apr/26/former-tory-mp-andrew-bridgen-expelled-permanently-from-party)
  - date published: 2023-04-26 14:24:03+00:00
  - user: rumpel
- - tags: ['covid', 'misinformation', 'anti-vax', 'the right wing', 'andrew bridgen']
+ - tags: ['covid', 'andrew bridgen', 'anti-vax', 'the right wing']
 
 ## Mastodon Is Doomed
  - [https://justingarrison.com/blog/2023-04-24-mastodon-is-doomed/](https://justingarrison.com/blog/2023-04-24-mastodon-is-doomed/)
@@ -512,7 +542,7 @@
  - [https://edition.cnn.com/2023/04/25/health/florida-covid-vaccine-analysis-ladapo/index.html](https://edition.cnn.com/2023/04/25/health/florida-covid-vaccine-analysis-ladapo/index.html)
  - date published: 2023-04-25 07:08:00+00:00
  - user: rumpel
- - tags: ['anti-vax', 'misinformation', 'vaccine', 'the right wing', 'covid']
+ - tags: ['vaccine', 'covid', 'anti-vax', 'the right wing']
 
 ## ChatGPT costs an eye-watering $700,000/day to operate, claims new research
  - [https://www.techspot.com/news/98422-chatgpt-costs-eye-watering-700000day-operate-claims-new.html](https://www.techspot.com/news/98422-chatgpt-costs-eye-watering-700000day-operate-claims-new.html)
@@ -674,7 +704,7 @@
  - [https://reclaimthenet.org/canadas-liberals-shut-down-debate-over-online-censorship-plans](https://reclaimthenet.org/canadas-liberals-shut-down-debate-over-online-censorship-plans)
  - date published: 2023-04-19 14:19:07+00:00
  - user: rumpel
- - tags: ['censorship', 'moderation', 'canada', 'misinformation', 'bill c-11']
+ - tags: ['moderation', 'government control', 'censorship', 'canada', 'misinformation', 'bill c-11']
 
 ## Making a Linux home server sleep on idle and wake on demand – the simple way
  - [https://dgross.ca/blog/linux-home-server-auto-sleep/](https://dgross.ca/blog/linux-home-server-auto-sleep/)
@@ -944,7 +974,7 @@
  - [https://reclaimthenet.org/cdc-behavior-change-project-targeted-vaccine-critics](https://reclaimthenet.org/cdc-behavior-change-project-targeted-vaccine-critics)
  - date published: 2023-04-11 18:01:23+00:00
  - user: rumpel
- - tags: ['manufacturing consent', 'misinformation response unit', 'cdc', 'censorship']
+ - tags: ['manufacturing consent', 'misinformation response unit', 'cdc', 'censorship', 'misinformation']
 
 ## China's game art industry reportedly decimated by growing AI use
  - [https://www.gamedeveloper.com/art/china-s-game-art-industry-reportedly-decimated-ai-art-use](https://www.gamedeveloper.com/art/china-s-game-art-industry-reportedly-decimated-ai-art-use)
@@ -1262,7 +1292,7 @@
  - [https://www.youtube.com/watch?v=xudlYSLFls8](https://www.youtube.com/watch?v=xudlYSLFls8)
  - date published: 2023-03-29 00:00:00+00:00
  - user: rumpel
- - tags: ['restrict act', 'tech control']
+ - tags: ['government control', 'restrict act']
 
 ## Microsoft's Software Is Malware
  - [https://www.gnu.org/proprietary/malware-microsoft.en.html](https://www.gnu.org/proprietary/malware-microsoft.en.html)
@@ -1568,7 +1598,7 @@
  - [https://inews.co.uk/news/politics/andrew-bridgen-disgraced-mp-anti-vax-conspiracy-theories-commons-speaker-2217694?ico=most_popular](https://inews.co.uk/news/politics/andrew-bridgen-disgraced-mp-anti-vax-conspiracy-theories-commons-speaker-2217694?ico=most_popular)
  - date published: 2023-03-17 07:19:58+00:00
  - user: rumpel
- - tags: ['covid', 'misinformation', 'anti-vax', 'the right wing', 'vaccine', 'andrew bridgen']
+ - tags: ['the right wing', 'andrew bridgen', 'vaccine', 'covid', 'anti-vax']
 
 ## Musk says Twitter will make tweet recommendation algorithm code open source on March 31 | Shacknews
  - [https://www.shacknews.com/article/134640/musk-twitter-open-source-code-recommended-tweets-march-31](https://www.shacknews.com/article/134640/musk-twitter-open-source-code-recommended-tweets-march-31)
@@ -3854,7 +3884,7 @@
  - [https://github.com/SpartanJ/ecode](https://github.com/SpartanJ/ecode)
  - date published: 2023-01-10 05:21:10+00:00
  - user: rumpel
- - tags: ['programming', 'tools']
+ - tags: ['programming']
 
 ## The mistake that killed Japan’s software industry
  - [https://www.disruptingjapan.com/the-forgotten-mistake-that-killed-japans-software-industry/](https://www.disruptingjapan.com/the-forgotten-mistake-that-killed-japans-software-industry/)
@@ -3986,7 +4016,7 @@
  - [https://therationalist.substack.com/p/the-creator-economy-the-top-1-and](https://therationalist.substack.com/p/the-creator-economy-the-top-1-and)
  - date published: 2023-01-07 13:22:53+00:00
  - user: rumpel
- - tags: ['creator', 'creator economy', 'internet', 'success']
+ - tags: ['internet', 'creator economy', 'creator']
 
 ## Satanic Pedophile Ring Shut Victims In oven, Forced Them To Kill Animals & Filmed Them Being Gang Raped
  - [https://ussanews.com/2023/01/07/satanic-pedophile-ring-shut-victims-in-oven-forced-them-to-kill-animals-filmed-them-being-gang-raped/](https://ussanews.com/2023/01/07/satanic-pedophile-ring-shut-victims-in-oven-forced-them-to-kill-animals-filmed-them-being-gang-raped/)
@@ -4124,7 +4154,7 @@
  - [https://www.msn.com/en-us/news/world/the-who-thinks-anti-vaccine-activism-is-deadlier-than-terrorism/ar-AA15Xzm5](https://www.msn.com/en-us/news/world/the-who-thinks-anti-vaccine-activism-is-deadlier-than-terrorism/ar-AA15Xzm5)
  - date published: 2023-01-04 22:29:52+00:00
  - user: rumpel
- - tags: ['misinformation', 'covid', 'anti-vax', 'vaccine', 'propaganda']
+ - tags: ['vaccine', 'covid', 'propaganda', 'anti-vax']
 
 ## Apple fined $8.5 million in France over targeted App Store ads
  - [https://www.engadget.com/apple-france-fine-app-store-targeted-ads-211750930.html?src=rss](https://www.engadget.com/apple-france-fine-app-store-targeted-ads-211750930.html?src=rss)

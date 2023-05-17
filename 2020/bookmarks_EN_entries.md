@@ -338,7 +338,7 @@
  - [https://www.opendemocracy.net/en/freedom-of-information/uk-government-running-orwellian-unit-to-block-release-of-sensitive-information/](https://www.opendemocracy.net/en/freedom-of-information/uk-government-running-orwellian-unit-to-block-release-of-sensitive-information/)
  - date published: 2020-11-23 19:43:36+00:00
  - user: rumpel
- - tags: ['ministry of truth', 'big brother', 'covid', 'clearing house', 'surveillance', 'censorship']
+ - tags: ['clearing house', 'ministry of truth', 'censorship', 'surveillance', 'covid', 'england', 'big brother']
 
 ## China's Xi Jinping is calling for a global Covid QR code. He may struggle to convince the world
  - [https://www.cnn.com/2020/11/23/asia/china-xi-qr-code-coronavirus-intl-hnk/index.html](https://www.cnn.com/2020/11/23/asia/china-xi-qr-code-coronavirus-intl-hnk/index.html)
@@ -825,6 +825,12 @@
  - date published: 2020-08-11 00:00:00+00:00
  - user: rumpel
  - tags: ['the left wing', 'indoctrination', 'black lives matter']
+
+## How To Read MORE!
+ - [https://www.youtube.com/watch?v=asvhBpSSDbA](https://www.youtube.com/watch?v=asvhBpSSDbA)
+ - date published: 2020-08-11 00:00:00+00:00
+ - user: rumpel
+ - tags: ['books']
 
 ## Public School Teachers Openly Fear Parents Overhearing the Leftist Brainwashing During Virtual Classroom Sessions – RedState
  - [https://redstate.com/brandon_morse/2020/08/10/teachers-brainwash-n250658](https://redstate.com/brandon_morse/2020/08/10/teachers-brainwash-n250658)
@@ -1419,6 +1425,12 @@
  - date published: 2020-02-29 15:28:58+00:00
  - user: rumpel
  - tags: ['masks', 'covid']
+
+## Charlie's Angels — How Gender Obsession Can Ruin a Film | Anatomy Of A Failure
+ - [https://www.youtube.com/watch?v=xeX4qvP5mGg](https://www.youtube.com/watch?v=xeX4qvP5mGg)
+ - date published: 2020-02-28 00:00:00+00:00
+ - user: rumpel
+ - tags: ['movies', 'go woke go broke']
 
 ## Your smart speaker could be listening in on your conversations by accident
  - [https://www.techradar.com/news/your-smart-speaker-could-be-accidentally-listening-in-on-your-conversations](https://www.techradar.com/news/your-smart-speaker-could-be-accidentally-listening-in-on-your-conversations)

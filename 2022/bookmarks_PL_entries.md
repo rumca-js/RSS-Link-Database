@@ -896,7 +896,7 @@
  - [https://www.youtube.com/watch?v=XSOgcpRbrCo](https://www.youtube.com/watch?v=XSOgcpRbrCo)
  - date published: 2022-09-20 06:28:12+00:00
  - user: None
- - tags: $tags
+ - tags: ['singapore']
 
 ## Leśnik ratował bieliki, dostawał nagrody. Nadleśnictwo go zwolniło. "To...
  - [https://www.wykop.pl/link/6824445/lesnik-ratowal-bieliki-dostawal-nagrody-nadlesnictwo-go-zwolnilo-to/](https://www.wykop.pl/link/6824445/lesnik-ratowal-bieliki-dostawal-nagrody-nadlesnictwo-go-zwolnilo-to/)

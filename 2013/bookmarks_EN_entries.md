@@ -70,12 +70,6 @@
  - user: None
  - tags: ['google', 'wifi', 'big tech', 'corporatocracy', 'privacy']
 
-## Ott - Skylon [Full Album]
- - [https://www.youtube.com/watch?v=V4Iow4cWvP0](https://www.youtube.com/watch?v=V4Iow4cWvP0)
- - date published: 2013-09-15 00:00:00+00:00
- - user: rumpel
- - tags: ['full album', 'music']
-
 ## New York Times provides new details about NSA backdoor in crypto spec | Ars Technica
  - [https://arstechnica.com/information-technology/2013/09/new-york-times-provides-new-details-about-nsa-backdoor-in-crypto-spec/](https://arstechnica.com/information-technology/2013/09/new-york-times-provides-new-details-about-nsa-backdoor-in-crypto-spec/)
  - date published: 2013-09-11 07:24:34+00:00
@@ -207,6 +201,12 @@
  - date published: 2013-01-27 00:00:00+00:00
  - user: rumpel
  - tags: ['chiptune', 'music']
+
+## Aaron Swartz Excerpts
+ - [https://www.youtube.com/watch?v=-OhyBJxg9RA](https://www.youtube.com/watch?v=-OhyBJxg9RA)
+ - date published: 2013-01-22 00:00:00+00:00
+ - user: rumpel
+ - tags: ['internet', 'aaron swartz']
 
 ## Internet Activist, a Creator of RSS, Is Dead at 26, Apparently a Suicide
  - [https://www.nytimes.com/2013/01/13/technology/aaron-swartz-internet-activist-dies-at-26.html](https://www.nytimes.com/2013/01/13/technology/aaron-swartz-internet-activist-dies-at-26.html)

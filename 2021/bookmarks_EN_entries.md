@@ -1594,6 +1594,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Communication Professor Reacts to Bill Gates Interview on PBS
+ - [https://www.youtube.com/watch?v=79ExQWKb2vA](https://www.youtube.com/watch?v=79ExQWKb2vA)
+ - date published: 2021-10-05 00:00:00+00:00
+ - user: rumpel
+ - tags: ['jeffrey epstein', 'bill gates']
+
 ## Trans, non-binary server awarded $30,000 in employment dispute over pronouns
  - [https://www.independent.co.uk/news/world/americas/canadian-tribunal-transgender-nonbinary-restaurant-worker-pronouns-b1931972.html](https://www.independent.co.uk/news/world/americas/canadian-tribunal-transgender-nonbinary-restaurant-worker-pronouns-b1931972.html)
  - date published: 2021-10-04 21:54:58+00:00
@@ -1791,6 +1797,12 @@
  - date published: 2021-09-17 07:00:39.687180+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Why we’re always at war (Documentary)
+ - [https://www.youtube.com/watch?v=1TPuBmuYa18](https://www.youtube.com/watch?v=1TPuBmuYa18)
+ - date published: 2021-09-17 00:00:00+00:00
+ - user: rumpel
+ - tags: ['democracy', 'america', 'war']
 
 ## The American Style of Quotation Mark Punctuation Makes No Sense
  - [https://www.erichgrunewald.com/posts/the-american-style-of-quotation-mark-punctuation-makes-no-sense/](https://www.erichgrunewald.com/posts/the-american-style-of-quotation-mark-punctuation-makes-no-sense/)
@@ -3434,7 +3446,7 @@
  - [https://www.theguardian.com/politics/2021/jun/08/uk-government-loses-legal-battle-transparency-orwellian-unit](https://www.theguardian.com/politics/2021/jun/08/uk-government-loses-legal-battle-transparency-orwellian-unit)
  - date published: 2021-06-08 19:46:59+00:00
  - user: rumpel
- - tags: ['big brother', 'covid', 'clearing house', 'surveillance', 'censorship']
+ - tags: ['clearing house', 'censorship', 'surveillance', 'covid', 'england', 'big brother']
 
 ## Judge slams Michael Gove’s office as openDemocracy wins transparency court case | openDemocracy
  - [https://www.opendemocracy.net/en/freedom-of-information/foi-clearing-house-michael-gove-cabinet-office-opendemocracy-wins-court-case-uk-government/](https://www.opendemocracy.net/en/freedom-of-information/foi-clearing-house-michael-gove-cabinet-office-opendemocracy-wins-court-case-uk-government/)
