@@ -10,6 +10,12 @@
  - user: rumpel
  - tags: ['jarosław kaczynski', 'fozz', 'michał folzmann']
 
+## 8 minut które zabiło Andrzeja Leppera
+ - [https://www.youtube.com/watch?v=jdYPsCUDVrU](https://www.youtube.com/watch?v=jdYPsCUDVrU)
+ - date published: 2018-04-26 00:00:00+00:00
+ - user: rumpel
+ - tags: ['conspiracy theories', 'andrzej lepper']
+
 ## Huragan wokół wadliwych szczepionek. MZ: Nie jesteśmy w stanie pilnować każdej lodówki - GazetaPrawna.pl
  - [https://serwisy.gazetaprawna.pl/zdrowie/artykuly/1102427,wadliwe-szczepionki-w-polsce-mz.html](https://serwisy.gazetaprawna.pl/zdrowie/artykuly/1102427,wadliwe-szczepionki-w-polsce-mz.html)
  - date published: 2018-02-06 20:07:11+00:00

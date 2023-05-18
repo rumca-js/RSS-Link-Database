@@ -1,3 +1,33 @@
+## ChatGPT is not ‘artificial intelligence.’ It’s theft
+ - [https://www.americamagazine.org/faith/2023/05/15/chatgpt-artificial-intelligence-theft-245283](https://www.americamagazine.org/faith/2023/05/15/chatgpt-artificial-intelligence-theft-245283)
+ - date published: 2023-05-16 22:00:02+00:00
+ - user: rumpel
+ - tags: ['chatgpt', 'artificial intelligence']
+
+## US Secret Service: “blockchain is an opportunity to track money”
+ - [https://coinpaper.com/1505/us-secret-service-blockchain-is-an-amazing-opportunity-to-track-money](https://coinpaper.com/1505/us-secret-service-blockchain-is-an-amazing-opportunity-to-track-money)
+ - date published: 2023-05-16 18:40:26+00:00
+ - user: rumpel
+ - tags: ['cbdc', 'blockchain']
+
+## John Durham concludes FBI never should have launched full Trump-Russia probe | CNN Politics
+ - [https://edition.cnn.com/2023/05/15/politics/john-durham-report-fbi-trump-released/index.html](https://edition.cnn.com/2023/05/15/politics/john-durham-report-fbi-trump-released/index.html)
+ - date published: 2023-05-16 12:27:39+00:00
+ - user: rumpel
+ - tags: ['fbi', 'donald trump', 'elections']
+
+## Facebook deletes 'Jesus died so you could live' post over 'hate speech' violation, former writer for TheBlaze says - TheBlaze
+ - [https://www.theblaze.com/news/facebook-deletes-jesus-died-so-you-could-live-post-over-hate-speech-violation-former-writer-for-theblaze-says#toggle-gdpr](https://www.theblaze.com/news/facebook-deletes-jesus-died-so-you-could-live-post-over-hate-speech-violation-former-writer-for-theblaze-says#toggle-gdpr)
+ - date published: 2023-05-15 19:10:42+00:00
+ - user: rumpel
+ - tags: ['christianophobia']
+
+## It had to happen.
+ - [https://www.youtube.com/watch?v=mKH-loZG5ss](https://www.youtube.com/watch?v=mKH-loZG5ss)
+ - date published: 2023-05-15 17:33:20+00:00
+ - user: rumpel
+ - tags: ['indoctrination', 'gender', 'sexualization', 'lgbt']
+
 ## The UK’s Secretive Web Surveillance Program Is Ramping Up
  - [https://www.wired.com/story/internet-connection-records-uk-surveillance/](https://www.wired.com/story/internet-connection-records-uk-surveillance/)
  - date published: 2023-05-15 14:46:40+00:00
@@ -70,6 +100,12 @@
  - user: rumpel
  - tags: ['artificial intelligence']
 
+## Outrage over WHO advice on sexuality for infants
+ - [https://www.telegraph.co.uk/news/2023/05/13/outrage-over-who-advice-on-sexuality-for-infants/](https://www.telegraph.co.uk/news/2023/05/13/outrage-over-who-advice-on-sexuality-for-infants/)
+ - date published: 2023-05-13 08:29:08+00:00
+ - user: rumpel
+ - tags: ['who', 'children', 'sexualization']
+
 ## Open-source disposable email service
  - [https://sorry.idont.date/](https://sorry.idont.date/)
  - date published: 2023-05-12 19:13:06+00:00
@@ -94,6 +130,12 @@
  - user: rumpel
  - tags: ['vulnerability', 'smartphone l']
 
+## Leak of MSI UEFI signing keys stokes fears of “doomsday” supply chain attack
+ - [https://arstechnica.com/?p=1938422](https://arstechnica.com/?p=1938422)
+ - date published: 2023-05-11 00:56:47+00:00
+ - user: rumpel
+ - tags: ['data leak']
+
 ## YouTube tests blocking videos unless you disable ad blockers
  - [https://www.bleepingcomputer.com/news/technology/youtube-tests-blocking-videos-unless-you-disable-ad-blockers/](https://www.bleepingcomputer.com/news/technology/youtube-tests-blocking-videos-unless-you-disable-ad-blockers/)
  - date published: 2023-05-10 19:45:03+00:00
@@ -117,6 +159,12 @@
  - date published: 2023-05-09 12:55:34+00:00
  - user: rumpel
  - tags: ['climate change', 'artificial meat']
+
+## US Disrupts Russia's Sophisticated 'Snake' Cyberespionage Malware  - SecurityWeek
+ - [https://www.securityweek.com/us-disrupts-russias-sophisticated-snake-cyberespionage-malware/](https://www.securityweek.com/us-disrupts-russias-sophisticated-snake-cyberespionage-malware/)
+ - date published: 2023-05-09 12:15:07+00:00
+ - user: rumpel
+ - tags: ['uroboros', 'malware', 'snake malware']
 
 ## Google is increasing the number of ads in Gmail, showing them in the middle of inboxes | TechSpot
  - [https://www.techspot.com/news/98598-google-increasing-number-ads-gmail-showing-them-middle.html](https://www.techspot.com/news/98598-google-increasing-number-ads-gmail-showing-them-middle.html)
@@ -4210,6 +4258,12 @@
  - user: rumpel
  - tags: ['surveillance', 'esg', 'china', 'censorship']
 
+## Covidians
+ - [https://www.youtube.com/watch?v=JoA2mEb7daE](https://www.youtube.com/watch?v=JoA2mEb7daE)
+ - date published: 2023-01-04 00:00:00+00:00
+ - user: rumpel
+ - tags: ['covid']
+
 ## Apple and Amazon lost a 'staggering' $800 billion in market cap in 2022. Here's what that looks like
  - [https://www.cnbc.com/2023/01/03/apple-and-amazon-lost-a-staggering-800-billion-in-market-cap-in-2022.html](https://www.cnbc.com/2023/01/03/apple-and-amazon-lost-a-staggering-800-billion-in-market-cap-in-2022.html)
  - date published: 2023-01-03 23:19:00+00:00
@@ -4317,6 +4371,12 @@
  - date published: 2023-01-01 08:46:07+00:00
  - user: rumpel
  - tags: ['children', 'surrogacy', 'the left wing', 'lgbt']
+
+## Are Vaccines Fueling New Covid Variants? - WSJ
+ - [https://www.wsj.com/articles/are-vaccines-fueling-new-covid-variants-xbb-northeast-antibodies-mutation-strain-immune-imprinting-11672483618](https://www.wsj.com/articles/are-vaccines-fueling-new-covid-variants-xbb-northeast-antibodies-mutation-strain-immune-imprinting-11672483618)
+ - date published: 2023-01-01 08:34:35+00:00
+ - user: rumpel
+ - tags: ['covid', 'vaccine']
 
 ## The Twitter Files should disturb liberal critics of Elon Musk – and here’s why | Kenan Malik
  - [https://www.theguardian.com/commentisfree/2023/jan/01/the-twitter-files-should-disturb-liberal-critics-of-elon-musk-and-heres-why](https://www.theguardian.com/commentisfree/2023/jan/01/the-twitter-files-should-disturb-liberal-critics-of-elon-musk-and-heres-why)

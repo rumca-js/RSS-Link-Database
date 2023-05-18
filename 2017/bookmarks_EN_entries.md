@@ -310,6 +310,12 @@
  - user: rumpel
  - tags: ['surveillance', 'nsa']
 
+## You’ll never guess where Russian spies are hiding their control servers | Ars Technica
+ - [https://arstechnica.com/information-technology/2017/06/russian-hackers-turn-to-britney-spears-for-help-concealing-espionage-malware/](https://arstechnica.com/information-technology/2017/06/russian-hackers-turn-to-britney-spears-for-help-concealing-espionage-malware/)
+ - date published: 2017-06-06 12:17:08+00:00
+ - user: rumpel
+ - tags: ['turla', 'uroboros', 'malware']
+
 ## 'Accidental hero' who halted cyber-attack is English blogger aged 22 | Cybercrime | The Guardian
  - [https://www.theguardian.com/technology/2017/may/15/accidental-hero-who-halted-cyber-attack-is-22-year-old-english-blogger](https://www.theguardian.com/technology/2017/may/15/accidental-hero-who-halted-cyber-attack-is-22-year-old-english-blogger)
  - date published: 2017-05-15 21:54:58+00:00

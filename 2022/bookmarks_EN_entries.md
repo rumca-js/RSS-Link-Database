@@ -8062,6 +8062,12 @@
  - user: rumpel
  - tags: ['technofeudalism', 'privacy']
 
+## This Life Advice Will Leave You Speechless, One of The Most Eye Opening Videos Ever | Alan Watts
+ - [https://www.youtube.com/watch?v=9JWsGQ1_414](https://www.youtube.com/watch?v=9JWsGQ1_414)
+ - date published: 2022-07-15 00:00:00+00:00
+ - user: rumpel
+ - tags: ['alan watts', 'psychology', 'motivation']
+
 ## Sri Lanka President Reaches Singapore After Fleeing Protests
  - [https://www.bloomberg.com/news/articles/2022-07-14/sri-lanka-president-arrives-in-singapore-after-fleeing-protests](https://www.bloomberg.com/news/articles/2022-07-14/sri-lanka-president-arrives-in-singapore-after-fleeing-protests)
  - date published: 2022-07-14 14:10:26+00:00
@@ -9278,7 +9284,7 @@
  - [https://komoroske.com/slime-mold/](https://komoroske.com/slime-mold/)
  - date published: 2022-05-04 11:56:13+00:00
  - user: rumpel
- - tags: ['corporations', 'psychology', 'motivation']
+ - tags: ['corporations', 'management']
 
 ## Considered “18+” | daniel.haxx.se
  - [https://daniel.haxx.se/blog/2022/05/02/considered-18/](https://daniel.haxx.se/blog/2022/05/02/considered-18/)

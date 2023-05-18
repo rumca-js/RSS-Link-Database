@@ -160,6 +160,12 @@
  - user: None
  - tags: ['smartphone', 'privacy', 'edward snowden']
 
+## Joe Rogan Experience #1368 - Edward Snowden
+ - [https://www.youtube.com/watch?v=efs3QRr8LWw](https://www.youtube.com/watch?v=efs3QRr8LWw)
+ - date published: 2019-10-23 00:00:00+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'privacy', 'big brother', 'edward snowden', 'censorship']
+
 ## Smart City: How do you live in a Smart City? | Future Smart City Projects | Surveillance or Utopia?
  - [https://www.youtube.com/watch?v=VRRPy-yEKRM](https://www.youtube.com/watch?v=VRRPy-yEKRM)
  - date published: 2019-10-22 19:55:30+00:00
@@ -279,6 +285,18 @@
  - date published: 2019-09-22 09:03:03+00:00
  - user: rumpel
  - tags: ['christianophobia']
+
+## Edward Snowden - “Permanent Record” & Life as an Exiled NSA Whistleblower | The Daily Show
+ - [https://www.youtube.com/watch?v=PArFP7ZJrtg](https://www.youtube.com/watch?v=PArFP7ZJrtg)
+ - date published: 2019-09-20 00:00:00+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'edward snowden', 'privacy']
+
+## Permanent Record: Snowden, Edward: 9781250237231: Amazon.com: Books
+ - [https://www.amazon.com/Permanent-Record-Edward-Snowden/dp/1250237238](https://www.amazon.com/Permanent-Record-Edward-Snowden/dp/1250237238)
+ - date published: 2019-09-17 10:18:42+00:00
+ - user: rumpel
+ - tags: ['books', 'edward snowden']
 
 ## 8 Things You May Not Know About Our Air Defense on 9/11 > U.S. Department of Defense > Defense Department News
  - [https://www.defense.gov/News/News-Stories/Article/Article/1955624/8-things-you-may-not-know-about-our-air-defense-on-911/](https://www.defense.gov/News/News-Stories/Article/Article/1955624/8-things-you-may-not-know-about-our-air-defense-on-911/)

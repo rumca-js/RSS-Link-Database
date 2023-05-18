@@ -778,6 +778,12 @@
  - user: None
  - tags: ['kyle rittenhouse']
 
+## The Forgotten Suicide Bomber
+ - [https://www.youtube.com/watch?v=CLRforUVW48](https://www.youtube.com/watch?v=CLRforUVW48)
+ - date published: 2021-11-18 00:00:00+00:00
+ - user: rumpel
+ - tags: ['immigration', 'england']
+
 ## Biden nominates Ghislaine Maxwell's judge, Memphis litigator to appeals courts | Reuters
  - [https://www.reuters.com/legal/government/biden-nominates-ghislaine-maxwells-judge-memphis-litigator-appeals-courts-2021-11-17/](https://www.reuters.com/legal/government/biden-nominates-ghislaine-maxwells-judge-memphis-litigator-appeals-courts-2021-11-17/)
  - date published: 2021-11-17 21:11:58+00:00
@@ -2774,7 +2780,7 @@
  - [https://www.youtube.com/watch?v=iYaPFZW7Q30](https://www.youtube.com/watch?v=iYaPFZW7Q30)
  - date published: 2021-07-27 00:00:00+00:00
  - user: rumpel
- - tags: ['lifestyle', 'motivation']
+ - tags: ['lifestyle', 'alan watts', 'psychology', 'motivation']
 
 ## Signal on Android: Images sent to wrong contacts | Hacker News
  - [https://news.ycombinator.com/item?id=27950763](https://news.ycombinator.com/item?id=27950763)
