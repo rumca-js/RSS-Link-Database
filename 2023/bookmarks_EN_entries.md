@@ -1,3 +1,21 @@
+## Session Transcripts | Dive deep into individual user sessions with fast, informative, and privacy-conscious transcripts. | Request Metrics
+ - [https://requestmetrics.com/feature/session-transcripts/](https://requestmetrics.com/feature/session-transcripts/)
+ - date published: 2023-05-18 04:54:44+00:00
+ - user: rumpel
+ - tags: ['google analytics', 'selfhost']
+
+## DuckDuckGo owns the #2 position in mobile market share in the US
+ - [https://help.duckduckgo.com/duckduckgo-help-pages/company/advertise-on-duckduckgo-search/](https://help.duckduckgo.com/duckduckgo-help-pages/company/advertise-on-duckduckgo-search/)
+ - date published: 2023-05-17 19:02:15+00:00
+ - user: rumpel
+ - tags: ['duckduckgo']
+
+## Google Analytics 4 Has Me So Frustrated, We Built Our Own Analytics Service
+ - [https://requestmetrics.com/blog/product/google-analytics-4-has-me-so-frustrated-we-built-our-own-analytics-service/](https://requestmetrics.com/blog/product/google-analytics-4-has-me-so-frustrated-we-built-our-own-analytics-service/)
+ - date published: 2023-05-17 17:22:19+00:00
+ - user: rumpel
+ - tags: ['google analytics']
+
 ## ChatGPT is not ‘artificial intelligence.’ It’s theft
  - [https://www.americamagazine.org/faith/2023/05/15/chatgpt-artificial-intelligence-theft-245283](https://www.americamagazine.org/faith/2023/05/15/chatgpt-artificial-intelligence-theft-245283)
  - date published: 2023-05-16 22:00:02+00:00
