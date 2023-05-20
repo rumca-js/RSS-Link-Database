@@ -1,8 +1,32 @@
+## Stop Saying C/C++
+ - [https://brycevandegrift.xyz/blog/stop-saying-c-and-c++/](https://brycevandegrift.xyz/blog/stop-saying-c-and-c++/)
+ - date published: 2023-05-19 00:00:17+00:00
+ - user: rumpel
+ - tags: ['programming', 'c++']
+
+## The Great CPU Stagnation
+ - [http://databasearchitects.blogspot.com/2023/04/the-great-cpu-stagnation.html](http://databasearchitects.blogspot.com/2023/04/the-great-cpu-stagnation.html)
+ - date published: 2023-05-18 15:33:13+00:00
+ - user: rumpel
+ - tags: ['moore law', 'hardware']
+
+## YouTube is bringing unskippable 30-second ads to TV
+ - [https://www.theverge.com/2023/5/18/23728150/youtube-tv-unskippable-ads-premium-pause-commercial](https://www.theverge.com/2023/5/18/23728150/youtube-tv-unskippable-ads-premium-pause-commercial)
+ - date published: 2023-05-18 09:26:22+00:00
+ - user: rumpel
+ - tags: ['technofeudalism', 'youtube']
+
 ## Session Transcripts | Dive deep into individual user sessions with fast, informative, and privacy-conscious transcripts. | Request Metrics
  - [https://requestmetrics.com/feature/session-transcripts/](https://requestmetrics.com/feature/session-transcripts/)
  - date published: 2023-05-18 04:54:44+00:00
  - user: rumpel
  - tags: ['google analytics', 'selfhost']
+
+## Has ChatGPT Been Neutered?
+ - [https://news.ycombinator.com/item?id=35983824](https://news.ycombinator.com/item?id=35983824)
+ - date published: 2023-05-18 03:23:13+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
 
 ## DuckDuckGo owns the #2 position in mobile market share in the US
  - [https://help.duckduckgo.com/duckduckgo-help-pages/company/advertise-on-duckduckgo-search/](https://help.duckduckgo.com/duckduckgo-help-pages/company/advertise-on-duckduckgo-search/)

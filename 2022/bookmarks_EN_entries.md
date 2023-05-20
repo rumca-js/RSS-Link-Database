@@ -4276,6 +4276,12 @@
  - user: None
  - tags: ['facebook', 'misinformation', 'moderation', 'tiktok']
 
+## Pfizer, blanked out pages
+ - [https://www.youtube.com/watch?v=HnSnQor8zDY](https://www.youtube.com/watch?v=HnSnQor8zDY)
+ - date published: 2022-10-21 00:00:00+00:00
+ - user: rumpel
+ - tags: ['covid', 'big pharma', 'vaccine', 'contract']
+
 ## Apple Is an Ad Company Now
  - [https://www.wired.com/story/apple-is-an-ad-company-now/](https://www.wired.com/story/apple-is-an-ad-company-now/)
  - date published: 2022-10-20 21:52:57+00:00
@@ -5470,6 +5476,12 @@
  - user: None
  - tags: ['ad business', 'google']
 
+## 50 Years Ago, Sugar Industry Quietly Paid Scientists to Point Blame at Fat
+ - [https://www.npr.org/sections/thetwo-way/2016/09/13/493739074/50-years-ago-sugar-industry-quietly-paid-scientists-to-point-blame-at-fat](https://www.npr.org/sections/thetwo-way/2016/09/13/493739074/50-years-ago-sugar-industry-quietly-paid-scientists-to-point-blame-at-fat)
+ - date published: 2022-09-26 02:19:06+00:00
+ - user: rumpel
+ - tags: ['corruption', 'manufacturing consent', 'harvard', 'propaganda', 'sugar', 'fat', 'scienceisdead']
+
 ## James Stanley - Solving Protohackers with Fly.io
  - [https://incoherency.co.uk/blog/stories/protohackers-flyio.html](https://incoherency.co.uk/blog/stories/protohackers-flyio.html)
  - date published: 2022-09-25 22:27:13.848228+00:00
@@ -5685,6 +5697,12 @@
  - date published: 2022-09-22 18:01:45+00:00
  - user: None
  - tags: $tags
+
+## MEP Cristian Terhes Grills AstraZeneca, Moderna About Vaccines and Contracts During EU Covid Committee Meeting - Europe Reloaded
+ - [https://www.europereloaded.com/mep-cristian-terhes-grills-astrazeneca-moderna-about-vaccines-and-vaccine-contracts-during-eu-covid-committee-meeting/](https://www.europereloaded.com/mep-cristian-terhes-grills-astrazeneca-moderna-about-vaccines-and-vaccine-contracts-during-eu-covid-committee-meeting/)
+ - date published: 2022-09-22 16:41:57+00:00
+ - user: rumpel
+ - tags: ['covid', 'vaccine']
 
 ## Lebanon's banks to stay shut indefinitely
  - [https://www.cnn.com/2022/09/22/asia/lebanon-banks-shut-holdups-intl/index.html](https://www.cnn.com/2022/09/22/asia/lebanon-banks-shut-holdups-intl/index.html)

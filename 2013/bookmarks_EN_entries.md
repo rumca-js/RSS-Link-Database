@@ -148,6 +148,12 @@
  - user: rumpel
  - tags: ['big tech', 'big brother', 'manufacturing consent', 'nsa']
 
+## Please drink a verification can.
+ - [https://www.reddit.com/r/4chan/comments/1ggg4u/please_drink_a_verification_can/](https://www.reddit.com/r/4chan/comments/1ggg4u/please_drink_a_verification_can/)
+ - date published: 2013-06-13 08:11:30+00:00
+ - user: rumpel
+ - tags: ['technofeudalism']
+
 ## The Ugliest Open Secret Of German Politics: Pedophiles In The Green Party's Past
  - [https://worldcrunch.com/culture-society/the-ugliest-open-secret-of-german-politics-pedophiles-in-the-green-party039s-past](https://worldcrunch.com/culture-society/the-ugliest-open-secret-of-german-politics-pedophiles-in-the-green-party039s-past)
  - date published: 2013-05-23 20:57:26+00:00
