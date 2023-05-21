@@ -58,6 +58,12 @@
  - user: rumpel
  - tags: ['fbi', 'donald trump', 'elections']
 
+## Microsoft is scanning the inside of password-protected zip files for malware
+ - [https://arstechnica.com/?p=1939441](https://arstechnica.com/?p=1939441)
+ - date published: 2023-05-16 00:15:24+00:00
+ - user: rumpel
+ - tags: ['microsoft', 'technofeudalism']
+
 ## Facebook deletes 'Jesus died so you could live' post over 'hate speech' violation, former writer for TheBlaze says - TheBlaze
  - [https://www.theblaze.com/news/facebook-deletes-jesus-died-so-you-could-live-post-over-hate-speech-violation-former-writer-for-theblaze-says#toggle-gdpr](https://www.theblaze.com/news/facebook-deletes-jesus-died-so-you-could-live-post-over-hate-speech-violation-former-writer-for-theblaze-says#toggle-gdpr)
  - date published: 2023-05-15 19:10:42+00:00
