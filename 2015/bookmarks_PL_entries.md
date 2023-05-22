@@ -4,6 +4,12 @@
  - user: None
  - tags: ['nwo', 'secret societies', 'conspiracy theory', 'john kennedy']
 
+## Adam Szustak OP: Świadectwo [PL\ENG]
+ - [https://www.youtube.com/watch?v=Df9J68y2YeA](https://www.youtube.com/watch?v=Df9J68y2YeA)
+ - date published: 2015-09-01 00:00:00+00:00
+ - user: rumpel
+ - tags: ['religion']
+
 ## Szwecja a ustawa o przymusowej opiece państwa nad dziećmi
  - [https://www.rp.pl/Rodzina/307269961-Szwecja-a-ustawa-o-przymusowej-opiece-panstwa-nad-dziecmi.html](https://www.rp.pl/Rodzina/307269961-Szwecja-a-ustawa-o-przymusowej-opiece-panstwa-nad-dziecmi.html)
  - date published: 2015-07-26 08:54:11+00:00

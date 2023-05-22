@@ -5480,7 +5480,7 @@
  - [https://www.npr.org/sections/thetwo-way/2016/09/13/493739074/50-years-ago-sugar-industry-quietly-paid-scientists-to-point-blame-at-fat](https://www.npr.org/sections/thetwo-way/2016/09/13/493739074/50-years-ago-sugar-industry-quietly-paid-scientists-to-point-blame-at-fat)
  - date published: 2022-09-26 02:19:06+00:00
  - user: rumpel
- - tags: ['corruption', 'manufacturing consent', 'harvard', 'propaganda', 'sugar', 'fat', 'scienceisdead']
+ - tags: ['corruption', 'propaganda', 'sugar', 'manufacturing consent', 'fat', 'science is dead', 'harvard']
 
 ## James Stanley - Solving Protohackers with Fly.io
  - [https://incoherency.co.uk/blog/stories/protohackers-flyio.html](https://incoherency.co.uk/blog/stories/protohackers-flyio.html)
@@ -8912,7 +8912,7 @@
  - [https://www.businessinsider.com/jpmorgan-chase-employees-describe-fear-mass-workplace-data-surveillance-wadu-2022-5?IR=T](https://www.businessinsider.com/jpmorgan-chase-employees-describe-fear-mass-workplace-data-surveillance-wadu-2022-5?IR=T)
  - date published: 2022-05-27 14:51:33+00:00
  - user: rumpel
- - tags: ['survaillance', 'jpmorgan']
+ - tags: ['survaillence', 'jpmorgan']
 
 ## A Brief History of the LGBTQ Acronym
  - [https://www.yahoo.com/lifestyle/brief-history-lgbtq-acronym-183200888.html](https://www.yahoo.com/lifestyle/brief-history-lgbtq-acronym-183200888.html)
@@ -10196,7 +10196,7 @@
  - [https://www.youtube.com/watch?v=_oqbLSisnME](https://www.youtube.com/watch?v=_oqbLSisnME)
  - date published: 2022-03-19 00:00:00+00:00
  - user: rumpel
- - tags: ['archive']
+ - tags: ['history', 'documentary', 'archive']
 
 ## Court says non-open 'open source' code is false advertising • The Register
  - [https://www.theregister.com/2022/03/17/court_open_source/](https://www.theregister.com/2022/03/17/court_open_source/)
@@ -10510,6 +10510,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## So They DO Run The World
+ - [https://www.youtube.com/watch?v=-b8TBPSTuiM](https://www.youtube.com/watch?v=-b8TBPSTuiM)
+ - date published: 2022-02-28 00:00:00+00:00
+ - user: rumpel
+ - tags: ['world economic forum']
+
 ## How Zelensky Gave the World a Jewish Hero - The Atlantic
  - [https://www.theatlantic.com/international/archive/2022/02/zelensky-ukraine-president-jewish-hero/622945/](https://www.theatlantic.com/international/archive/2022/02/zelensky-ukraine-president-jewish-hero/622945/)
  - date published: 2022-02-27 16:09:33+00:00
@@ -10762,6 +10768,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Jordan Peterson's TERRIFYING Speech (held back in 2008) | "I Came To A Terrible Conclusion!"
+ - [https://www.youtube.com/watch?v=ZdP1jlxHibc](https://www.youtube.com/watch?v=ZdP1jlxHibc)
+ - date published: 2022-02-12 00:00:00+00:00
+ - user: rumpel
+ - tags: ['motivation']
+
 ## How We Write GitHub Actions in Go · Blend Engineering: Full Stack Finance
  - [https://full-stack.blend.com/how-we-write-github-actions-in-go.html#authoring-an-action-todays-landscape](https://full-stack.blend.com/how-we-write-github-actions-in-go.html#authoring-an-action-todays-landscape)
  - date published: 2022-02-11 18:57:36+00:00
@@ -10773,6 +10785,12 @@
  - date published: 2022-02-11 11:34:06+00:00
  - user: rumpel
  - tags: ['pollution', 'climate change', 'electric vehicles']
+
+## John Abramson: Big Pharma | Lex Fridman Podcast #263
+ - [https://www.youtube.com/watch?v=arrokG3wCdE](https://www.youtube.com/watch?v=arrokG3wCdE)
+ - date published: 2022-02-11 00:00:00+00:00
+ - user: rumpel
+ - tags: ['big pharma']
 
 ## Judge freezes access to funds donated to protesting truckers in Canada : NPR
  - [https://www.npr.org/2022/02/10/1080022827/a-canadian-judge-has-frozen-access-to-donations-for-the-trucker-convoy-protest](https://www.npr.org/2022/02/10/1080022827/a-canadian-judge-has-frozen-access-to-donations-for-the-trucker-convoy-protest)
@@ -10912,6 +10930,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Jordan Peterson's FASCINATING Analysis On The Selfconscious Conditions (Which one are you?)
+ - [https://www.youtube.com/watch?v=ikp8StSFBZQ](https://www.youtube.com/watch?v=ikp8StSFBZQ)
+ - date published: 2022-02-06 00:00:00+00:00
+ - user: rumpel
+ - tags: ['motivation']
+
 ## SPAM blacklisting is out of control | Roastisdio.us Blog
  - [https://blog.roastidio.us/posts/spam_blacklists_are_out_of_control/](https://blog.roastidio.us/posts/spam_blacklists_are_out_of_control/)
  - date published: 2022-02-05 20:52:56.742213+00:00
@@ -10989,6 +11013,12 @@
  - date published: 2022-02-01 08:47:47.625540+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## The Tragic Tale of Twitter
+ - [https://www.youtube.com/watch?v=7NXr-8rIOg8](https://www.youtube.com/watch?v=7NXr-8rIOg8)
+ - date published: 2022-02-01 00:00:00+00:00
+ - user: rumpel
+ - tags: ['twitter']
 
 ## Police investigate ‘illegal’ acts at Ottawa anti-vaccine mandate trucker protests
  - [https://www.washingtonpost.com/world/2022/01/31/canada-ottawa-protests-trucker-coronavirus-vaccine/](https://www.washingtonpost.com/world/2022/01/31/canada-ottawa-protests-trucker-coronavirus-vaccine/)
@@ -11139,6 +11169,12 @@
  - date published: 2022-01-25 09:31:41.948853+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Comparing a $65,000 3D Printer to a $350 home 3D printer
+ - [https://www.youtube.com/watch?v=bwyZjG5qxL8](https://www.youtube.com/watch?v=bwyZjG5qxL8)
+ - date published: 2022-01-25 00:00:00+00:00
+ - user: rumpel
+ - tags: ['3d printer']
 
 ## Emails reveal scientists suspected COVID leaked from Wuhan lab – then quickly censored themselves
  - [https://nypost.com/2022/01/24/emails-reveal-suspected-covid-leaked-from-a-wuhan-lab-then-censored-themselves/](https://nypost.com/2022/01/24/emails-reveal-suspected-covid-leaked-from-a-wuhan-lab-then-censored-themselves/)

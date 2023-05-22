@@ -256,6 +256,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## The wisdom of the shaman don Juan. Quotes and aphorisms from the work of Carlos Castaneda
+ - [https://www.youtube.com/watch?v=7kWVuabom54](https://www.youtube.com/watch?v=7kWVuabom54)
+ - date published: 2021-12-21 00:00:00+00:00
+ - user: rumpel
+ - tags: ['motivation']
+
 ## New York bill would create literal internment camps for the unvaccinated at the Governor's whim – HotAir
  - [https://hotair.com/jazz-shaw/2021/12/20/new-york-bill-would-create-literal-internment-camps-for-the-unvaccinated-at-the-governors-whim-n436568](https://hotair.com/jazz-shaw/2021/12/20/new-york-bill-would-create-literal-internment-camps-for-the-unvaccinated-at-the-governors-whim-n436568)
  - date published: 2021-12-20 21:00:56+00:00
@@ -520,6 +526,12 @@
  - user: None
  - tags: ['lockdown', 'germany', 'covid']
 
+## Life's an RPG And You Messed Up Your Build
+ - [https://www.youtube.com/watch?v=JgkYRyqloVA](https://www.youtube.com/watch?v=JgkYRyqloVA)
+ - date published: 2021-12-02 00:00:00+00:00
+ - user: rumpel
+ - tags: ['motivation']
+
 ## Will We Need COVID-19 Boosters Every 6 Months?
  - [https://www.healthline.com/health-news/are-we-going-to-need-covid-19-boosters-every-6-months-what-experts-think#Will-boosters-become-an-annual-thing?](https://www.healthline.com/health-news/are-we-going-to-need-covid-19-boosters-every-6-months-what-experts-think#Will-boosters-become-an-annual-thing?)
  - date published: 2021-12-01 08:06:38+00:00
@@ -604,6 +616,12 @@
  - user: rumpel
  - tags: ['australia', 'lockdown', 'covid', 'protest']
 
+## The Underground Man - Fyodor Dostoevsky's Warning to The World
+ - [https://www.youtube.com/watch?v=_OEp9fds9v4](https://www.youtube.com/watch?v=_OEp9fds9v4)
+ - date published: 2021-11-27 00:00:00+00:00
+ - user: rumpel
+ - tags: ['totalitarianism']
+
 ## AWKGo, an AWK-to-Go compiler
  - [https://benhoyt.com/writings/awkgo/](https://benhoyt.com/writings/awkgo/)
  - date published: 2021-11-26 20:23:10+00:00
@@ -633,6 +651,12 @@
  - date published: 2021-11-25 06:46:49.075463+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## PLATO’s Most Genius and Powerful Quotes, Sayings and Thoughts that are full of wisdom
+ - [https://www.youtube.com/watch?v=lYYmAF7_wk0](https://www.youtube.com/watch?v=lYYmAF7_wk0)
+ - date published: 2021-11-25 00:00:00+00:00
+ - user: rumpel
+ - tags: ['motivation']
 
 ## Fifty percent of Facebook Messenger’s total voice traffic comes from Cambodia. Here’s why - Rest of World
  - [https://restofworld.org/2021/facebook-didnt-know-why-half-of-messengers-voice-traffic-comes-from-cambodia-heres-why/](https://restofworld.org/2021/facebook-didnt-know-why-half-of-messengers-voice-traffic-comes-from-cambodia-heres-why/)
@@ -970,6 +994,12 @@
  - user: rumpel
  - tags: ['sco group', 'linux']
 
+## BEST MARK TAWAIN’S quotes that will change the way you think | life changing quote
+ - [https://www.youtube.com/watch?v=rKUWnzcCRd8](https://www.youtube.com/watch?v=rKUWnzcCRd8)
+ - date published: 2021-11-08 00:00:00+00:00
+ - user: rumpel
+ - tags: ['quotes', 'motivation']
+
 ## California’s COVID-19 case rate now twice Florida’s
  - [https://www.tampabay.com/news/florida/2021/11/07/californias-covid-19-case-rate-now-twice-floridas/](https://www.tampabay.com/news/florida/2021/11/07/californias-covid-19-case-rate-now-twice-floridas/)
  - date published: 2021-11-07 20:33:36+00:00
@@ -1173,6 +1203,12 @@
  - date published: 2021-10-25 07:40:48+00:00
  - user: None
  - tags: ['elites', 'blackrock', 'family tree', 'larry fink']
+
+## Why Didn't I Know This Before! Confucius Quotes That Still Ring True
+ - [https://www.youtube.com/watch?v=7xjFuPschD8](https://www.youtube.com/watch?v=7xjFuPschD8)
+ - date published: 2021-10-25 00:00:00+00:00
+ - user: rumpel
+ - tags: ['quotes', 'motivation']
 
 ## Corporate Transition
  - [https://www.elle.com/life-love/a37507807/0106-0108-corporate-transition-october-2021/](https://www.elle.com/life-love/a37507807/0106-0108-corporate-transition-october-2021/)
@@ -1664,7 +1700,7 @@
  - [https://www.youtube.com/watch?v=6VfJ0BJvt7Y](https://www.youtube.com/watch?v=6VfJ0BJvt7Y)
  - date published: 2021-09-30 21:14:05+00:00
  - user: None
- - tags: $tags
+ - tags: ['totalitarianism']
 
 ## A World Without Sci-Hub – Palladium
  - [https://palladiummag.com/2021/09/24/a-world-without-sci-hub/](https://palladiummag.com/2021/09/24/a-world-without-sci-hub/)
@@ -1688,7 +1724,7 @@
  - [https://www.youtube.com/watch?v=JyjRCuF9pd8](https://www.youtube.com/watch?v=JyjRCuF9pd8)
  - date published: 2021-09-29 00:00:00+00:00
  - user: rumpel
- - tags: ['archive']
+ - tags: ['history', 'documentary', 'archive']
 
 ## Women's and trans rights are not in conflict, says Angela Rayner - BBC News
  - [https://www.bbc.co.uk/news/uk-politics-58724514](https://www.bbc.co.uk/news/uk-politics-58724514)
@@ -1761,6 +1797,12 @@
  - date published: 2021-09-21 07:45:28+00:00
  - user: None
  - tags: ['climate change']
+
+## Advice from an Old King Before You Inherit the Throne
+ - [https://www.youtube.com/watch?v=Kc1EMOGLKaU](https://www.youtube.com/watch?v=Kc1EMOGLKaU)
+ - date published: 2021-09-21 00:00:00+00:00
+ - user: rumpel
+ - tags: ['quotes', 'motivation']
 
 ## Search Engines are Totally Useless Now...
  - [https://www.youtube.com/watch?v=N8P6MTOQlyk](https://www.youtube.com/watch?v=N8P6MTOQlyk)
@@ -2564,7 +2606,7 @@
  - [https://www.youtube.com/watch?v=vEMlvpMY7yw](https://www.youtube.com/watch?v=vEMlvpMY7yw)
  - date published: 2021-08-07 21:16:39+00:00
  - user: None
- - tags: ['orwell']
+ - tags: ['totalitarianism', 'orwell']
 
 ## Ryan Reynolds: Why Free Guy is more than a 'video game movie' - BBC News
  - [https://www.bbc.co.uk/news/entertainment-arts-58061823](https://www.bbc.co.uk/news/entertainment-arts-58061823)
@@ -3706,6 +3748,12 @@
  - user: rumpel
  - tags: ['wuhan', 'covid', 'lableak']
 
+## Why 99% Of Movies Today Are Garbage - Chris Gore
+ - [https://www.youtube.com/watch?v=12f0ligwS5s](https://www.youtube.com/watch?v=12f0ligwS5s)
+ - date published: 2021-05-13 00:00:00+00:00
+ - user: rumpel
+ - tags: ['movies']
+
 ## Chinese document discussing weaponising coronaviruses provides 'chilling' informati
  - [https://www.youtube.com/watch?v=kuKPBur_TiI](https://www.youtube.com/watch?v=kuKPBur_TiI)
  - date published: 2021-05-09 21:15:57+00:00
@@ -4161,6 +4209,12 @@
  - date published: 2021-02-07 15:02:12+00:00
  - user: rumpel
  - tags: ['covid', 'germany', 'lockdown']
+
+## Facebook blocked in Myanmar: The war for Disinformation
+ - [https://www.youtube.com/watch?v=90EFjsG-nws](https://www.youtube.com/watch?v=90EFjsG-nws)
+ - date published: 2021-02-06 00:00:00+00:00
+ - user: rumpel
+ - tags: ['disinformation', 'myanmar', 'facebook']
 
 ## AOC faces backlash as critics point out she wasn't in Capitol building during riot | Fox News
  - [https://www.foxnews.com/politics/aoc-under-fire-amid-details-that-she-wasnt-in-capitol-building-during-riots](https://www.foxnews.com/politics/aoc-under-fire-amid-details-that-she-wasnt-in-capitol-building-during-riots)

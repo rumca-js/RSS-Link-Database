@@ -146,7 +146,7 @@
  - [https://www.youtube.com/watch?v=cCW58RCgqOQ](https://www.youtube.com/watch?v=cCW58RCgqOQ)
  - date published: 2016-08-04 00:00:00+00:00
  - user: rumpel
- - tags: ['archive']
+ - tags: ['history', 'racism', 'documentary', 'archive']
 
 ## France church attack: Priest killed by two 'IS militants' - BBC News
  - [https://www.bbc.com/news/world-europe-36892785](https://www.bbc.com/news/world-europe-36892785)

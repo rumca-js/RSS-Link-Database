@@ -322,6 +322,12 @@
  - user: rumpel
  - tags: ['programming', 'python']
 
+## My Summary of The Meditations of Marcus Aurelius | (22 Stoic Principles)
+ - [https://www.youtube.com/watch?v=Hu0xDtK3g3Q](https://www.youtube.com/watch?v=Hu0xDtK3g3Q)
+ - date published: 2019-08-26 00:00:00+00:00
+ - user: rumpel
+ - tags: ['stoicism', 'quotes', 'motivation']
+
 ## SWEDISH PR GURU RAISED MILLIONS BY HELPING MAKE GRETA THUNBERG A CLIMATE CELEBRITY
  - [https://pluralist.com/ingmar-rentzhog-greta-thunberg/](https://pluralist.com/ingmar-rentzhog-greta-thunberg/)
  - date published: 2019-08-25 19:03:53+00:00

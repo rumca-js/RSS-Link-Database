@@ -242,7 +242,7 @@
  - [https://www.youtube.com/watch?v=e4FZkXvAY94](https://www.youtube.com/watch?v=e4FZkXvAY94)
  - date published: 2018-07-24 00:00:00+00:00
  - user: rumpel
- - tags: ['archive']
+ - tags: ['history', 'documentary', 'archive']
 
 ## How to give IT project estimates—and when not to estimate at all
  - [https://www.hpe.com/us/en/insights/articles/how-to-give-it-project-estimates-and-when-not-to-estimate-at-all-1807.html](https://www.hpe.com/us/en/insights/articles/how-to-give-it-project-estimates-and-when-not-to-estimate-at-all-1807.html)
@@ -490,6 +490,12 @@
  - user: None
  - tags: ['facebook', 'censorship', 'propaganda', 'donald trump', 'cambridge analytica']
 
+## Privacy and Social Media
+ - [https://www.youtube.com/watch?v=sMLVkBxke20](https://www.youtube.com/watch?v=sMLVkBxke20)
+ - date published: 2018-03-16 00:00:00+00:00
+ - user: rumpel
+ - tags: ['privacy', 'social media', 'anonymity']
+
 ## These Are The Concerns Slowly Killing Ad-Tech
  - [https://readwrite.com/concerns-slowly-killing-ad-tech/](https://readwrite.com/concerns-slowly-killing-ad-tech/)
  - date published: 2018-03-14 11:27:13+00:00
@@ -513,6 +519,12 @@
  - date published: 2018-02-20 20:58:03+00:00
  - user: rumpel
  - tags: ['feminism', 'norway', 'sexism']
+
+## Jordan Peterson's Life Advice Will Change Your Future (MUST WATCH)
+ - [https://www.youtube.com/watch?v=wqEsTPaUZF0](https://www.youtube.com/watch?v=wqEsTPaUZF0)
+ - date published: 2018-02-19 00:00:00+00:00
+ - user: rumpel
+ - tags: ['motivation']
 
 ## White House blasts Russia for NotPetya cyberattack
  - [https://www.cnn.com/2018/02/15/politics/white-house-russia-notpetya/index.html](https://www.cnn.com/2018/02/15/politics/white-house-russia-notpetya/index.html)
@@ -555,6 +567,12 @@
  - date published: 2018-01-18 06:47:39+00:00
  - user: None
  - tags: ['privacy', 'surveillance', 'google', 'skygofree', 'android']
+
+## Jordan B. Peterson on 12 Rules for Life
+ - [https://www.youtube.com/watch?v=-5RCmu-HuTg](https://www.youtube.com/watch?v=-5RCmu-HuTg)
+ - date published: 2018-01-17 00:00:00+00:00
+ - user: rumpel
+ - tags: ['motivation']
 
 ## Jordan Peterson debate on the gender pay gap, campus protests and postmodernism
  - [https://www.youtube.com/watch?v=aMcjxSThD54](https://www.youtube.com/watch?v=aMcjxSThD54)

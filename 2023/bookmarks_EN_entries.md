@@ -1,3 +1,15 @@
+## Potentially millions of Android TVs and phones come with malware preinstalled
+ - [https://arstechnica.com/information-technology/2023/05/potentially-millions-of-android-tvs-and-phones-come-with-malware-preinstalled/](https://arstechnica.com/information-technology/2023/05/potentially-millions-of-android-tvs-and-phones-come-with-malware-preinstalled/)
+ - date published: 2023-05-21 12:56:52+00:00
+ - user: rumpel
+ - tags: ['malware', 'vulnerability', 'android']
+
+## Popular Pirate Bay Proxy Site Disappears from GitHub
+ - [https://torrentfreak.com/popular-pirate-bay-proxy-site-disappears-from-github-230520/](https://torrentfreak.com/popular-pirate-bay-proxy-site-disappears-from-github-230520/)
+ - date published: 2023-05-20 20:39:22+00:00
+ - user: rumpel
+ - tags: ['the pirate bay']
+
 ## Stop Saying C/C++
  - [https://brycevandegrift.xyz/blog/stop-saying-c-and-c++/](https://brycevandegrift.xyz/blog/stop-saying-c-and-c++/)
  - date published: 2023-05-19 00:00:17+00:00

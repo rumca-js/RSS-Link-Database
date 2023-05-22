@@ -58,6 +58,12 @@
  - user: None
  - tags: ['psyop', 'conspiracy theory', 'deep state', 'cia', 'flatearth']
 
+## Jordan Peterson on the meaning of life for men. MUST WATCH
+ - [https://www.youtube.com/watch?v=NX2ep5fCJZ8](https://www.youtube.com/watch?v=NX2ep5fCJZ8)
+ - date published: 2017-11-04 00:00:00+00:00
+ - user: rumpel
+ - tags: ['motivation']
+
 ## More Human than Human - A Blade Runner Analysis
  - [https://www.youtube.com/watch?v=gcQk3qM3Ok0](https://www.youtube.com/watch?v=gcQk3qM3Ok0)
  - date published: 2017-11-03 20:20:52+00:00
@@ -122,7 +128,7 @@
  - [https://www.youtube.com/watch?v=tlTKTTt47WE](https://www.youtube.com/watch?v=tlTKTTt47WE)
  - date published: 2017-09-21 07:46:14+00:00
  - user: None
- - tags: ['simulation']
+ - tags: ['simulation', 'reality']
 
 ## Spotlight: How is AI disrupting financial industry - Xinhua | English.news.cn
  - [http://www.xinhuanet.com/english/2017-09/18/c_136616606.htm](http://www.xinhuanet.com/english/2017-09/18/c_136616606.htm)

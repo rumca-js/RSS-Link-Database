@@ -160,6 +160,12 @@
  - user: rumpel
  - tags: ['privacy', 'surveillance', 'big brother', 'nsa', 'encryption', 'crypto wars']
 
+## Glenn Greenwald: "Edward Snowden and the Secrets of the National Security State"
+ - [https://www.youtube.com/watch?v=-1jAOJHvll0](https://www.youtube.com/watch?v=-1jAOJHvll0)
+ - date published: 2015-04-13 00:00:00+00:00
+ - user: rumpel
+ - tags: ['privacy', 'surveillance', 'edward snowden']
+
 ## China's Great Cannon
  - [https://citizenlab.ca/2015/04/chinas-great-cannon/](https://citizenlab.ca/2015/04/chinas-great-cannon/)
  - date published: 2015-04-10 07:15:20+00:00
@@ -171,6 +177,12 @@
  - date published: 2015-04-03 07:28:00+00:00
  - user: None
  - tags: ['ted', 'pandemic', 'bill gates']
+
+## The Rothschilds and Waddesdon
+ - [https://www.youtube.com/watch?v=I65LfGNo1A8](https://www.youtube.com/watch?v=I65LfGNo1A8)
+ - date published: 2015-03-12 00:00:00+00:00
+ - user: rumpel
+ - tags: ['rothschilds']
 
 ## What’s with the 50/72 rule?
  - [https://preslav.me/2015/02/21/what-s-with-the-50-72-rule/](https://preslav.me/2015/02/21/what-s-with-the-50-72-rule/)

@@ -68,7 +68,7 @@
  - [https://www.youtube.com/watch?v=vJ1cfb-5pHQ](https://www.youtube.com/watch?v=vJ1cfb-5pHQ)
  - date published: 2020-12-22 20:29:45+00:00
  - user: None
- - tags: ['google', 'big tech']
+ - tags: ['technofeudalism', 'big tech', 'google']
 
 ## Why is Facebook censoring private messages?
  - [https://www.quora.com/Why-is-Facebook-censoring-private-messages?share=1](https://www.quora.com/Why-is-Facebook-censoring-private-messages?share=1)
@@ -135,6 +135,12 @@
  - date published: 2020-12-14 18:04:34+00:00
  - user: rumpel
  - tags: ['corporatocracy', 'future', 'property', 'wef', 'world economic forum', 'privacy', 'technofeudalism']
+
+## 12 Stoic Lessons That Will Immediately Change Your Life – Ryan Holiday
+ - [https://www.youtube.com/watch?v=0oVsLkPqXWo](https://www.youtube.com/watch?v=0oVsLkPqXWo)
+ - date published: 2020-12-14 00:00:00+00:00
+ - user: rumpel
+ - tags: ['stoicism', 'motivation']
 
 ## Command Line Bibles
  - [https://lukesmith.xyz/articles/command-line-bibles/](https://lukesmith.xyz/articles/command-line-bibles/)
