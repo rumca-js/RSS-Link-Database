@@ -3020,7 +3020,7 @@
  - [https://www.dailymail.co.uk/news/article-11381789/Americans-wide-margins-want-race-kept-college-admissions-says-poll.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11381789/Americans-wide-margins-want-race-kept-college-admissions-says-poll.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2022-11-02 19:47:04+00:00
  - user: None
- - tags: ['criticalrace', 'blm', 'black lives matter']
+ - tags: ['black lives matter', 'blm']
 
 ## Mark Zuckerberg’s metaverse is a joke not shared equally with investors  | Nils Pratley
  - [https://www.theguardian.com/business/nils-pratley-on-finance/2022/nov/02/mark-zuckerberg-metaverse-is-a-joke-not-shared-equally-with-investors](https://www.theguardian.com/business/nils-pratley-on-finance/2022/nov/02/mark-zuckerberg-metaverse-is-a-joke-not-shared-equally-with-investors)
@@ -3746,7 +3746,7 @@
  - [https://www.theverge.com/2022/10/26/23424316/app-store-gambling-ads-listings-apple-developers](https://www.theverge.com/2022/10/26/23424316/app-store-gambling-ads-listings-apple-developers)
  - date published: 2022-10-26 14:18:33+00:00
  - user: None
- - tags: ['ad company', 'ad business', 'apple']
+ - tags: ['apple', 'ad business']
 
 ## Free cloud dev accounts are being abused for crypto mining
  - [https://www.techradar.com/news/free-cloud-dev-accounts-are-being-abused-for-crypto-mining/](https://www.techradar.com/news/free-cloud-dev-accounts-are-being-abused-for-crypto-mining/)
@@ -8098,6 +8098,12 @@
  - user: rumpel
  - tags: ['sri lanka', 'crisis']
 
+## Schools for scandal | The Economist
+ - [https://www.economist.com/interactive/united-states/2022/07/14/critical-race-theory-is-being-weaponised-whats-the-fuss-about](https://www.economist.com/interactive/united-states/2022/07/14/critical-race-theory-is-being-weaponised-whats-the-fuss-about)
+ - date published: 2022-07-14 07:15:56+00:00
+ - user: rumpel
+ - tags: ['critical race theory', 'black lives matter']
+
 ## New working speculative execution attack sends Intel and AMD scrambling | Ars Technica
  - [https://arstechnica.com/information-technology/2022/07/intel-and-amd-cpus-vulnerable-to-a-new-speculative-execution-attack/](https://arstechnica.com/information-technology/2022/07/intel-and-amd-cpus-vulnerable-to-a-new-speculative-execution-attack/)
  - date published: 2022-07-13 16:11:46.489191+00:00
@@ -8912,7 +8918,7 @@
  - [https://www.businessinsider.com/jpmorgan-chase-employees-describe-fear-mass-workplace-data-surveillance-wadu-2022-5?IR=T](https://www.businessinsider.com/jpmorgan-chase-employees-describe-fear-mass-workplace-data-surveillance-wadu-2022-5?IR=T)
  - date published: 2022-05-27 14:51:33+00:00
  - user: rumpel
- - tags: ['survaillence', 'jpmorgan']
+ - tags: ['jpmorgan', 'surveillance']
 
 ## A Brief History of the LGBTQ Acronym
  - [https://www.yahoo.com/lifestyle/brief-history-lgbtq-acronym-183200888.html](https://www.yahoo.com/lifestyle/brief-history-lgbtq-acronym-183200888.html)
@@ -9435,6 +9441,12 @@
  - date published: 2022-04-27 11:49:02+00:00
  - user: rumpel
  - tags: ['bill clinton', 'elites', 'ghislaine maxwell', 'billionaires', 'jeffrey epstein']
+
+## Wikipedia’s Left-Wing Bias
+ - [https://www.dailysignal.com/2022/04/27/wikipedias-left-wing-bias/](https://www.dailysignal.com/2022/04/27/wikipedias-left-wing-bias/)
+ - date published: 2022-04-27 06:54:58+00:00
+ - user: rumpel
+ - tags: ['wikipedia']
 
 ## How Companies Lie To You About End-to-End Encryption
  - [https://www.youtube.com/watch?v=Ht56t_UMwsc](https://www.youtube.com/watch?v=Ht56t_UMwsc)

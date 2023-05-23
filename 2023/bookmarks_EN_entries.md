@@ -1,3 +1,57 @@
+## Leaked Government Document Shows Spain Wants to Ban End-to-End Encryption
+ - [https://www.wired.com/story/europe-break-encryption-leaked-document-csa-law/](https://www.wired.com/story/europe-break-encryption-leaked-document-csa-law/)
+ - date published: 2023-05-22 19:31:47+00:00
+ - user: rumpel
+ - tags: ['tech control', 'privacy', 'crypto wars', 'surveillance']
+
+## models - LocalLLaMA
+ - [https://www.reddit.com/r/LocalLLaMA/wiki/models/](https://www.reddit.com/r/LocalLLaMA/wiki/models/)
+ - date published: 2023-05-22 10:31:43+00:00
+ - user: rumpel
+ - tags: ['selfhost', 'llama', 'artificial intelligence']
+
+## Stuart Ross Communications Internship - Transport for London
+ - [https://tfl.gov.uk/corporate/careers/stuart-ross-communications-internship](https://tfl.gov.uk/corporate/careers/stuart-ross-communications-internship)
+ - date published: 2023-05-22 09:25:08+00:00
+ - user: rumpel
+ - tags: ['racism']
+
+## Noyb win: € 1.2B fine against Meta over EU-US data transfers
+ - [https://noyb.eu/en/edpb-decision-facebooks-eu-us-data-transfers-stop-transfers-fine-and-repatriation](https://noyb.eu/en/edpb-decision-facebooks-eu-us-data-transfers-stop-transfers-fine-and-repatriation)
+ - date published: 2023-05-22 09:18:25+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'meta', 'gdpr']
+
+## Donald Trump - Wikipedia
+ - [https://en.wikipedia.org/wiki/Donald_Trump](https://en.wikipedia.org/wiki/Donald_Trump)
+ - date published: 2023-05-22 06:57:25+00:00
+ - user: rumpel
+ - tags: ['propaganda', 'donald trump']
+
+## White pride - Wikipedia
+ - [https://en.m.wikipedia.org/wiki/White_pride](https://en.m.wikipedia.org/wiki/White_pride)
+ - date published: 2023-05-22 06:52:03+00:00
+ - user: rumpel
+ - tags: ['black lives matter']
+
+## Asian pride - Wikipedia
+ - [https://en.m.wikipedia.org/wiki/Asian_pride](https://en.m.wikipedia.org/wiki/Asian_pride)
+ - date published: 2023-05-22 06:51:46+00:00
+ - user: rumpel
+ - tags: ['black lives matter']
+
+## Black pride - Wikipedia
+ - [https://en.wikipedia.org/wiki/Black_pride](https://en.wikipedia.org/wiki/Black_pride)
+ - date published: 2023-05-22 06:51:14+00:00
+ - user: rumpel
+ - tags: ['black lives matter']
+
+## Jeffrey Epstein allegedly tried to extort Bill Gates over extramarital affair
+ - [https://www.theguardian.com/us-news/2023/may/21/jeffrey-epstein-extort-bill-gates-extramarital-affair](https://www.theguardian.com/us-news/2023/may/21/jeffrey-epstein-extort-bill-gates-extramarital-affair)
+ - date published: 2023-05-21 20:08:40+00:00
+ - user: rumpel
+ - tags: ['jeffrey epstein', 'bill gates']
+
 ## Potentially millions of Android TVs and phones come with malware preinstalled
  - [https://arstechnica.com/information-technology/2023/05/potentially-millions-of-android-tvs-and-phones-come-with-malware-preinstalled/](https://arstechnica.com/information-technology/2023/05/potentially-millions-of-android-tvs-and-phones-come-with-malware-preinstalled/)
  - date published: 2023-05-21 12:56:52+00:00
@@ -9,6 +63,12 @@
  - date published: 2023-05-20 20:39:22+00:00
  - user: rumpel
  - tags: ['the pirate bay']
+
+## Anuna De Wever Van Der Heyden
+ - [https://twitter.com/AnunaDe/status/1659486023615643649](https://twitter.com/AnunaDe/status/1659486023615643649)
+ - date published: 2023-05-19 09:32:09+00:00
+ - user: rumpel
+ - tags: ['racism']
 
 ## Stop Saying C/C++
  - [https://brycevandegrift.xyz/blog/stop-saying-c-and-c++/](https://brycevandegrift.xyz/blog/stop-saying-c-and-c++/)
@@ -417,6 +477,12 @@
  - date published: 2023-05-03 09:47:15+00:00
  - user: rumpel
  - tags: ['microsoft', 'windows', 'dark design']
+
+## Donald Trump seeks to move New York hush money criminal case to federal court | CNN Politics
+ - [https://edition.cnn.com/2023/05/04/politics/trump-bragg-hearing/index.html](https://edition.cnn.com/2023/05/04/politics/trump-bragg-hearing/index.html)
+ - date published: 2023-05-03 07:19:30+00:00
+ - user: rumpel
+ - tags: ['donald trump']
 
 ## Six Libyans face death penalty for converting to Christianity
  - [https://www.theguardian.com/global-development/2023/may/03/six-libyans-face-death-penalty-for-converting-to-christianity](https://www.theguardian.com/global-development/2023/may/03/six-libyans-face-death-penalty-for-converting-to-christianity)

@@ -1366,6 +1366,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Elon Musk: "Delete Your Facebook and Use The Alternative Instead"
+ - [https://www.youtube.com/watch?v=I77LHabHav8](https://www.youtube.com/watch?v=I77LHabHav8)
+ - date published: 2021-10-17 00:00:00+00:00
+ - user: rumpel
+ - tags: ['privacy', 'facebook']
+
 ## Female Spanish thriller writer Carmen Mola revealed to be three men
  - [https://www.theguardian.com/books/2021/oct/16/female-spanish-thriller-writer-carmen-mola-revealed-to-be-three-men](https://www.theguardian.com/books/2021/oct/16/female-spanish-thriller-writer-carmen-mola-revealed-to-be-three-men)
  - date published: 2021-10-16 20:30:23+00:00
@@ -1791,6 +1797,12 @@
  - date published: 2021-09-24 15:21:58.230753+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## WATCH: Bill Gates says meetings with Jeffrey Epstein were 'a mistake'
+ - [https://www.youtube.com/watch?v=LNAwUxZ5nfw](https://www.youtube.com/watch?v=LNAwUxZ5nfw)
+ - date published: 2021-09-22 00:00:00+00:00
+ - user: rumpel
+ - tags: ['jeffrey epstein', 'bill gates']
 
 ## Fast Fashion Is Hot Garbage | Climate Town
  - [https://www.youtube.com/watch?v=F6R_WTDdx7I](https://www.youtube.com/watch?v=F6R_WTDdx7I)
@@ -3758,7 +3770,7 @@
  - [https://www.youtube.com/watch?v=kuKPBur_TiI](https://www.youtube.com/watch?v=kuKPBur_TiI)
  - date published: 2021-05-09 21:15:57+00:00
  - user: rumpel
- - tags: ['china', 'weapon', 'covid']
+ - tags: ['china', 'covid']
 
 ## How the New York Times publishes lies to serve a biased narrative
  - [https://nypost.com/2021/05/08/how-the-new-york-times-publishes-lies-to-serve-a-biased-narrative/](https://nypost.com/2021/05/08/how-the-new-york-times-publishes-lies-to-serve-a-biased-narrative/)
@@ -3868,6 +3880,12 @@
  - user: rumpel
  - tags: ['social distancing', 'covid', 'science is dead']
 
+## Great Reset: Why Are Facebook REALLY Providing Free Internet?
+ - [https://www.youtube.com/watch?v=17IZPgxcQm8](https://www.youtube.com/watch?v=17IZPgxcQm8)
+ - date published: 2021-04-25 00:00:00+00:00
+ - user: rumpel
+ - tags: ['facebook', 'internet']
+
 ## Richard Dawkins loses ‘humanist of the year’ title over trans comments
  - [https://www.theguardian.com/books/2021/apr/20/richard-dawkins-loses-humanist-of-the-year-trans-comments?CMP=fb_gu](https://www.theguardian.com/books/2021/apr/20/richard-dawkins-loses-humanist-of-the-year-trans-comments?CMP=fb_gu)
  - date published: 2021-04-21 22:05:57+00:00
@@ -3969,6 +3987,12 @@
  - date published: 2021-04-10 00:00:00+00:00
  - user: rumpel
  - tags: ['funny']
+
+## When Life Hurts, Stop Clinging to It | The Philosophy of Epictetus
+ - [https://www.youtube.com/watch?v=p2KHo95Qknk](https://www.youtube.com/watch?v=p2KHo95Qknk)
+ - date published: 2021-04-08 00:00:00+00:00
+ - user: rumpel
+ - tags: ['epictetus', 'motivation']
 
 ## Facebook does not plan to notify half-billion users affected by data leak
  - [https://www.reuters.com/article/us-facebook-data-leak/facebook-does-not-plan-to-notify-half-billion-users-affected-by-data-leak-idUSKBN2BU2ZY](https://www.reuters.com/article/us-facebook-data-leak/facebook-does-not-plan-to-notify-half-billion-users-affected-by-data-leak-idUSKBN2BU2ZY)
@@ -4150,6 +4174,12 @@
  - user: rumpel
  - tags: ['dead internet', 'algorithms', 'search engines']
 
+## Wikipedia co-founder Larry Sanger slams site's leftist bias and claims 'neutrality' is gone | Daily Mail Online
+ - [https://www.dailymail.co.uk/news/article-9283061/Wikipedia-founder-Larry-Sanger-slams-sites-leftist-bias-claims-neutrality-gone.html](https://www.dailymail.co.uk/news/article-9283061/Wikipedia-founder-Larry-Sanger-slams-sites-leftist-bias-claims-neutrality-gone.html)
+ - date published: 2021-02-21 06:54:18+00:00
+ - user: rumpel
+ - tags: ['wikipedia', 'larry sanger']
+
 ## Yanis Varoufakis: Capitalism has become 'techno-feudalism' | UpFront
  - [https://www.youtube.com/watch?v=_jW0xUmUaUc](https://www.youtube.com/watch?v=_jW0xUmUaUc)
  - date published: 2021-02-19 21:05:32+00:00
@@ -4173,6 +4203,12 @@
  - date published: 2021-02-18 20:03:45+00:00
  - user: rumpel
  - tags: ['critical thinking', 'covid', 'science is dead']
+
+## Inside Wikipedia's leftist bias: socialism pages whitewashed, communist atrocities buried | Fox News
+ - [https://www.foxnews.com/politics/wikipedia-bias-socialism-pages-whitewashed](https://www.foxnews.com/politics/wikipedia-bias-socialism-pages-whitewashed)
+ - date published: 2021-02-18 06:52:31+00:00
+ - user: rumpel
+ - tags: ['wikipedia']
 
 ## Social Media as Social Control.
  - [https://www.youtube.com/watch?v=4ZCuAbjdfsg](https://www.youtube.com/watch?v=4ZCuAbjdfsg)

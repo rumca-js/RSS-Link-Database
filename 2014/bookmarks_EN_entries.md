@@ -142,6 +142,12 @@
  - user: None
  - tags: ['corporatocracy', 'election', 'privacy', 'facebook']
 
+## Jim Carrey at MIU: Commencement Address at the 2014 Graduation  (EN, FR, ES, RU, GR,...)
+ - [https://www.youtube.com/watch?v=V80-gPkpH6M](https://www.youtube.com/watch?v=V80-gPkpH6M)
+ - date published: 2014-05-30 00:00:00+00:00
+ - user: rumpel
+ - tags: ['motivation']
+
 ## John Minto: GCSB holding doors open while US buddies invade our privacy - NZ Herald
  - [https://www.nzherald.co.nz/nz/john-minto-gcsb-holding-doors-open-while-us-buddies-invade-our-privacy/JHCIWLWLUM5DSZRFKSYOAEX4CE/?c_id=1&objectid=11222413](https://www.nzherald.co.nz/nz/john-minto-gcsb-holding-doors-open-while-us-buddies-invade-our-privacy/JHCIWLWLUM5DSZRFKSYOAEX4CE/?c_id=1&objectid=11222413)
  - date published: 2014-05-19 08:29:08+00:00

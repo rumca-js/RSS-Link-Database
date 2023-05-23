@@ -208,6 +208,12 @@
  - user: rumpel
  - tags: ['chiptune', 'music']
 
+## Is Wikipedia More Biased Than Encyclopædia Britannica? - HBS Working Knowledge
+ - [https://hbswk.hbs.edu/item/is-wikipedia-more-biased-than-encyclopdia-britannica](https://hbswk.hbs.edu/item/is-wikipedia-more-biased-than-encyclopdia-britannica)
+ - date published: 2015-01-19 06:55:34+00:00
+ - user: rumpel
+ - tags: ['wikipedia']
+
 ## Can the government ban encryption? - BBC News
  - [https://www.bbc.com/news/technology-30794953](https://www.bbc.com/news/technology-30794953)
  - date published: 2015-01-13 07:43:47+00:00

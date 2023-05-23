@@ -616,6 +616,12 @@
  - user: rumpel
  - tags: ['fearmongering', 'swine flu', 'covid', 'propaganda']
 
+## Arnold Schwarzenegger 2018 - The speech that broke the internet - Most Inspiring ever
+ - [https://www.youtube.com/watch?v=u_ktRTWMX3M](https://www.youtube.com/watch?v=u_ktRTWMX3M)
+ - date published: 2019-05-02 00:00:00+00:00
+ - user: rumpel
+ - tags: ['motivation']
+
 ## Pre-teen “Drag Kids” highlight just how fast our culture has crumbled
  - [https://thebridgehead.ca/2019/04/30/pre-teen-drag-kids-highlight-just-how-fast-our-culture-has-crumbled](https://thebridgehead.ca/2019/04/30/pre-teen-drag-kids-highlight-just-how-fast-our-culture-has-crumbled)
  - date published: 2019-04-30 22:11:33+00:00

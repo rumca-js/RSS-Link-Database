@@ -14,7 +14,7 @@
  - [https://www.quora.com/Is-flat-earth-theory-just-a-myth-created-by-CIA-in-one-of-their-covert-operations](https://www.quora.com/Is-flat-earth-theory-just-a-myth-created-by-CIA-in-one-of-their-covert-operations)
  - date published: 2017-12-21 15:00:51+00:00
  - user: None
- - tags: ['conspiracy theory', 'cia', 'flatearth', 'deep state']
+ - tags: ['cia', 'conspiracy theory', 'flat earth', 'deep state']
 
 ## BlackRock's Edge: Why Technology Is Creating The Amazon Of Wall Street
  - [https://www.forbes.com/sites/antoinegara/2017/12/19/blackrocks-edge-why-technology-is-creating-a-6-trillion-amazon-of-wall-street/](https://www.forbes.com/sites/antoinegara/2017/12/19/blackrocks-edge-why-technology-is-creating-a-6-trillion-amazon-of-wall-street/)
@@ -56,7 +56,7 @@
  - [https://themillenniumreport.com/2017/11/fake-flat-earth-conspiracy-finally-outed-as-cia-psyop/](https://themillenniumreport.com/2017/11/fake-flat-earth-conspiracy-finally-outed-as-cia-psyop/)
  - date published: 2017-11-06 14:57:08+00:00
  - user: None
- - tags: ['psyop', 'conspiracy theory', 'deep state', 'cia', 'flatearth']
+ - tags: ['flat earth', 'deep state', 'cia', 'conspiracy theory', 'psyop']
 
 ## Jordan Peterson on the meaning of life for men. MUST WATCH
  - [https://www.youtube.com/watch?v=NX2ep5fCJZ8](https://www.youtube.com/watch?v=NX2ep5fCJZ8)

@@ -502,11 +502,23 @@
  - user: rumpel
  - tags: ['youtube', 'misinformation', 'covid', 'vaccine', 'moderation', 'technofeudalism', 'censorship']
 
+## Big Pharma is Broken (Documentary)
+ - [https://www.youtube.com/watch?v=OiOAPu-sfOI](https://www.youtube.com/watch?v=OiOAPu-sfOI)
+ - date published: 2020-10-14 00:00:00+00:00
+ - user: rumpel
+ - tags: ['america', 'big pharma']
+
 ## Facebook to ban ads discouraging vaccination
  - [https://www.theguardian.com/technology/2020/oct/13/facebook-vaccine-ads-ban](https://www.theguardian.com/technology/2020/oct/13/facebook-vaccine-ads-ban)
  - date published: 2020-10-13 13:18:42+00:00
  - user: rumpel
  - tags: ['censorship', 'facebook', 'meta', 'vaccine', 'moderation']
+
+## How to Trick Your Brain to Like Doing Hard Things – Atomic Habits by James Clear
+ - [https://www.youtube.com/watch?v=o7w5r5PfBKo](https://www.youtube.com/watch?v=o7w5r5PfBKo)
+ - date published: 2020-10-12 00:00:00+00:00
+ - user: rumpel
+ - tags: ['motivation']
 
 ## WHO official urges world leaders to stop using lockdowns as primary virus control method | Washington Examiner
  - [https://www.washingtonexaminer.com/news/who-official-urges-world-leaders-to-stop-using-lockdowns-as-primary-virus-control-method](https://www.washingtonexaminer.com/news/who-official-urges-world-leaders-to-stop-using-lockdowns-as-primary-virus-control-method)
@@ -598,6 +610,12 @@
  - user: rumpel
  - tags: ['propaganda', 'science is dead', 'climate change', 'media manipulation']
 
+## Dlaczego nie warto słuchać ludzi sukcesu?
+ - [https://www.youtube.com/watch?v=Ye6GmyUjJyI](https://www.youtube.com/watch?v=Ye6GmyUjJyI)
+ - date published: 2020-09-25 00:00:00+00:00
+ - user: rumpel
+ - tags: $tags
+
 ## BLM removes website language blasting 'nuclear family structure'
  - [https://nypost.com/2020/09/24/blm-removes-website-language-blasting-nuclear-family-structure/](https://nypost.com/2020/09/24/blm-removes-website-language-blasting-nuclear-family-structure/)
  - date published: 2020-09-24 21:02:02+00:00
@@ -633,6 +651,12 @@
  - date published: 2020-09-20 06:39:30+00:00
  - user: None
  - tags: ['covid', 'freedom']
+
+## Why I Live a Simple Life
+ - [https://www.youtube.com/watch?v=7zRGEDBkIMU](https://www.youtube.com/watch?v=7zRGEDBkIMU)
+ - date published: 2020-09-20 00:00:00+00:00
+ - user: rumpel
+ - tags: ['motivation']
 
 ## Trump Admin to Ban TikTok, WeChat From U.S. App Stores - The New York Times
  - [https://www.nytimes.com/2020/09/18/business/trump-tik-tok-wechat-ban.html](https://www.nytimes.com/2020/09/18/business/trump-tik-tok-wechat-ban.html)
@@ -717,6 +741,12 @@
  - date published: 2020-08-29 15:12:08+00:00
  - user: rumpel
  - tags: ['protest', 'covid', 'lockdown', 'propaganda']
+
+## 'They spied on my campaign': How Trump transformed a conspiracy theory into a political rallying cry | CNN Politics
+ - [https://edition.cnn.com/2020/08/29/politics/trump-spying-campaign-obama-fact-check/index.html](https://edition.cnn.com/2020/08/29/politics/trump-spying-campaign-obama-fact-check/index.html)
+ - date published: 2020-08-29 07:17:55+00:00
+ - user: rumpel
+ - tags: ['fbi', 'donald trump']
 
 ## The Social Dilemma | Official Trailer | NetflixThe Social Dilemma | Official Trailer | Netflix
  - [https://www.youtube.com/watch?v=uaaC57tcci0](https://www.youtube.com/watch?v=uaaC57tcci0)
@@ -1299,6 +1329,18 @@
  - date published: 2020-05-07 21:04:58+00:00
  - user: rumpel
  - tags: ['lockdown', 'covid']
+
+## Trump claims to have evidence coronavirus started in Chinese lab but offers no details
+ - [https://www.theguardian.com/us-news/2020/apr/30/donald-trump-coronavirus-chinese-lab-claim](https://www.theguardian.com/us-news/2020/apr/30/donald-trump-coronavirus-chinese-lab-claim)
+ - date published: 2020-05-01 03:51:23+00:00
+ - user: rumpel
+ - tags: ['lableak', 'covid', 'wuhan']
+
+## TAOISM | The Art of Not Trying
+ - [https://www.youtube.com/watch?v=tLAZvESoVgI](https://www.youtube.com/watch?v=tLAZvESoVgI)
+ - date published: 2020-04-30 00:00:00+00:00
+ - user: rumpel
+ - tags: ['taoism', 'motivation']
 
 ## Dr. Fauci Backed Controversial Wuhan Lab with U.S. Dollars for Risky Coronavirus Research
  - [https://www.newsweek.com/dr-fauci-backed-controversial-wuhan-lab-millions-us-dollars-risky-coronavirus-research-1500741](https://www.newsweek.com/dr-fauci-backed-controversial-wuhan-lab-millions-us-dollars-risky-coronavirus-research-1500741)

@@ -316,6 +316,12 @@
  - user: rumpel
  - tags: ['censorship', 'moderation', 'facebook', 'pepe']
 
+## Trump Claims FBI Spied on His Campaign. Here Are the Facts | Time
+ - [https://time.com/5288607/donald-trump-fbi-spygate/](https://time.com/5288607/donald-trump-fbi-spygate/)
+ - date published: 2018-05-23 07:17:26+00:00
+ - user: rumpel
+ - tags: ['fbi', 'donald trump']
+
 ## Google erases 'Don't be evil' from code of conduct after 18 years | ZDNET
  - [https://www.zdnet.com/article/google-erases-dont-be-evil-from-code-of-conduct-after-18-years/](https://www.zdnet.com/article/google-erases-dont-be-evil-from-code-of-conduct-after-18-years/)
  - date published: 2018-05-21 20:52:49+00:00
