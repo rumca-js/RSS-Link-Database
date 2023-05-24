@@ -10,6 +10,12 @@
  - user: rumpel
  - tags: ['pollution', 'example', 'robert billot']
 
+## How MS played the incompatibility card against DR-DOS • The Register
+ - [https://www.theregister.com/1999/11/05/how_ms_played_the_incompatibility/](https://www.theregister.com/1999/11/05/how_ms_played_the_incompatibility/)
+ - date published: 1999-11-05 12:10:10+00:00
+ - user: rumpel
+ - tags: ['dr-dos', 'microsoft', 'dark design']
+
 ## Only real men have fabs • The Register
  - [https://www.theregister.com/1999/02/25/only_real_men_have_fabs/](https://www.theregister.com/1999/02/25/only_real_men_have_fabs/)
  - date published: 1999-02-25 07:45:33+00:00

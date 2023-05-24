@@ -116,7 +116,7 @@
  - [https://www.youtube.com/watch?v=h0njPX3SUUU](https://www.youtube.com/watch?v=h0njPX3SUUU)
  - date published: 2018-09-17 00:00:00+00:00
  - user: rumpel
- - tags: ['archive']
+ - tags: ['documentary', 'history', 'archive']
 
 ## Why you should delete your social media accounts
  - [https://www.youtube.com/watch?v=3J1MIDTi9h8](https://www.youtube.com/watch?v=3J1MIDTi9h8)
@@ -230,7 +230,7 @@
  - [https://www.youtube.com/watch?v=EkvffcxQzMY](https://www.youtube.com/watch?v=EkvffcxQzMY)
  - date published: 2018-07-29 00:00:00+00:00
  - user: rumpel
- - tags: ['archive']
+ - tags: ['documentary', 'history', 'archive']
 
 ## If you can quit social media, but don’t, then you’re part of the problem, Jaron Lanier says
  - [https://www.vox.com/2018/7/27/17618756/jaron-lanier-deleting-social-media-book-kara-swisher-too-embarrassed-podcast](https://www.vox.com/2018/7/27/17618756/jaron-lanier-deleting-social-media-book-kara-swisher-too-embarrassed-podcast)
@@ -368,7 +368,7 @@
  - [https://www.techworm.net/2014/10/microsofts-windows-10-permission-watch-every-move.html](https://www.techworm.net/2014/10/microsofts-windows-10-permission-watch-every-move.html)
  - date published: 2018-05-10 09:02:08+00:00
  - user: rumpel
- - tags: ['surveillance', 'privacy', 'windows', 'microsoft']
+ - tags: ['eula', 'dark design', 'surveillance', 'privacy', 'windows', 'microsoft']
 
 ## The Facebook and Cambridge Analytica scandal, explained with a simple diagram
  - [https://www.vox.com/policy-and-politics/2018/3/23/17151916/facebook-cambridge-analytica-trump-diagram](https://www.vox.com/policy-and-politics/2018/3/23/17151916/facebook-cambridge-analytica-trump-diagram)
@@ -488,7 +488,7 @@
  - [https://www.theguardian.com/technology/2018/mar/19/windows-10-microsoft-force-people-edge-browser-windows-mail-chrome-firefox](https://www.theguardian.com/technology/2018/mar/19/windows-10-microsoft-force-people-edge-browser-windows-mail-chrome-firefox)
  - date published: 2018-03-19 12:46:36+00:00
  - user: rumpel
- - tags: ['technofeudalism', 'windows', 'microsoft']
+ - tags: ['windows', 'technofeudalism', 'microsoft', 'dark design']
 
 ## Revealed: 50 million Facebook profiles harvested for Cambridge Analytica in major data breach
  - [https://www.theguardian.com/news/2018/mar/17/cambridge-analytica-facebook-influence-us-election](https://www.theguardian.com/news/2018/mar/17/cambridge-analytica-facebook-influence-us-election)

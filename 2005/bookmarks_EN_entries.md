@@ -10,3 +10,9 @@
  - user: rumpel
  - tags: ['vulnerability', 'scandal', 'rootkit', 'sony']
 
+## IE7 nukes Google, Yahoo! search • The Register
+ - [https://www.theregister.com/2005/07/28/ie7_nukes_rival_search/](https://www.theregister.com/2005/07/28/ie7_nukes_rival_search/)
+ - date published: 2005-07-28 12:05:34+00:00
+ - user: rumpel
+ - tags: ['google', 'search engines', 'microsoft', 'dark design']
+

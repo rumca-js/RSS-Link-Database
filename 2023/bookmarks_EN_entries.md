@@ -1,8 +1,44 @@
+## ‘A Dangerous Path’: Christian Banned From Teaching After ‘Misgendering’ Student
+ - [https://www.dailywire.com/news/a-dangerous-path-christian-banned-from-teaching-after-misgendering-student](https://www.dailywire.com/news/a-dangerous-path-christian-banned-from-teaching-after-misgendering-student)
+ - date published: 2023-05-23 15:56:11+00:00
+ - user: rumpel
+ - tags: ['the left wing', 'pronouns', 'newspeak']
+
+## FBI abused spy law but only like 280k times in a year
+ - [https://www.theregister.com/2023/05/22/fbi_fisa_abuse/](https://www.theregister.com/2023/05/22/fbi_fisa_abuse/)
+ - date published: 2023-05-23 07:26:53+00:00
+ - user: rumpel
+ - tags: ['privacy', 'big brother', 'fbi', 'surveillance']
+
+## Vanilla OS 2.0 Orchid base is changing from Ubuntu to Debian
+ - [https://vanillaos.org/2023/03/07/vanilla-os-2.0-orchid-initial-work.html](https://vanillaos.org/2023/03/07/vanilla-os-2.0-orchid-initial-work.html)
+ - date published: 2023-05-23 02:14:20+00:00
+ - user: rumpel
+ - tags: ['ubuntu', 'linux']
+
+## Reddit comments and submissions from 2005-06 to 2022-12 collected by Pushshift
+ - [https://academictorrents.com/details/7c0645c94321311bb05bd879ddee4d0eba08aaee](https://academictorrents.com/details/7c0645c94321311bb05bd879ddee4d0eba08aaee)
+ - date published: 2023-05-23 01:17:32+00:00
+ - user: rumpel
+ - tags: ['data', 'selfhost', 'project']
+
 ## Leaked Government Document Shows Spain Wants to Ban End-to-End Encryption
  - [https://www.wired.com/story/europe-break-encryption-leaked-document-csa-law/](https://www.wired.com/story/europe-break-encryption-leaked-document-csa-law/)
  - date published: 2023-05-22 19:31:47+00:00
  - user: rumpel
- - tags: ['tech control', 'privacy', 'crypto wars', 'surveillance']
+ - tags: ['crypto wars', 'surveillance', 'privacy', 'spain', 'tech control']
+
+## Amazon’s palm-scanning technology can let you buy a drink without getting out your ID
+ - [https://www.theverge.com/2023/5/22/23732823/amazon-one-palm-scanning-technology-age-verification](https://www.theverge.com/2023/5/22/23732823/amazon-one-palm-scanning-technology-age-verification)
+ - date published: 2023-05-22 16:50:26+00:00
+ - user: rumpel
+ - tags: ['privacy', 'digital identity', 'biometric']
+
+## Facebook hit with record €1.2 billion GDPR fine for transferring EU data to US
+ - [https://arstechnica.com/?p=1940912](https://arstechnica.com/?p=1940912)
+ - date published: 2023-05-22 16:36:40+00:00
+ - user: rumpel
+ - tags: ['meta', 'facebook', 'gdpr']
 
 ## models - LocalLLaMA
  - [https://www.reddit.com/r/LocalLLaMA/wiki/models/](https://www.reddit.com/r/LocalLLaMA/wiki/models/)
@@ -100,6 +136,12 @@
  - user: rumpel
  - tags: ['artificial intelligence']
 
+## Media Blackout on Biden Bombshells—It’s the Laptop All Over Again
+ - [https://amac.us/media-blackout-on-biden-bombshells-its-the-laptop-all-over-again/](https://amac.us/media-blackout-on-biden-bombshells-its-the-laptop-all-over-again/)
+ - date published: 2023-05-17 19:17:44+00:00
+ - user: rumpel
+ - tags: ['hunter biden', 'joe biden']
+
 ## DuckDuckGo owns the #2 position in mobile market share in the US
  - [https://help.duckduckgo.com/duckduckgo-help-pages/company/advertise-on-duckduckgo-search/](https://help.duckduckgo.com/duckduckgo-help-pages/company/advertise-on-duckduckgo-search/)
  - date published: 2023-05-17 19:02:15+00:00
@@ -111,6 +153,12 @@
  - date published: 2023-05-17 17:22:19+00:00
  - user: rumpel
  - tags: ['google analytics']
+
+## EU passes first regulatory framework for cryptocurrency • The Register
+ - [https://www.theregister.com/2023/05/17/eu_passes_cryptocurrency_regs/](https://www.theregister.com/2023/05/17/eu_passes_cryptocurrency_regs/)
+ - date published: 2023-05-17 11:34:52+00:00
+ - user: rumpel
+ - tags: ['markets in cryptoassets', 'crypto', 'tech control', 'europe']
 
 ## ChatGPT is not ‘artificial intelligence.’ It’s theft
  - [https://www.americamagazine.org/faith/2023/05/15/chatgpt-artificial-intelligence-theft-245283](https://www.americamagazine.org/faith/2023/05/15/chatgpt-artificial-intelligence-theft-245283)
@@ -1912,6 +1960,12 @@
  - user: rumpel
  - tags: ['signal', 'centralisation']
 
+## Norway offers a step forward in eliminating gender ideology
+ - [https://www.washingtonexaminer.com/restoring-america/courage-strength-optimism/norway-offers-a-step-forward-in-eliminating-gender-ideology](https://www.washingtonexaminer.com/restoring-america/courage-strength-optimism/norway-offers-a-step-forward-in-eliminating-gender-ideology)
+ - date published: 2023-03-13 14:30:03+00:00
+ - user: rumpel
+ - tags: ['woke', 'lgbt', 'transgender']
+
 ## Botnet that knows your name and quotes your email is back with new tricks | Ars Technica
  - [https://arstechnica.com/information-technology/2023/03/botnet-that-knows-your-name-and-quotes-your-email-is-back-with-new-tricks/](https://arstechnica.com/information-technology/2023/03/botnet-that-knows-your-name-and-quotes-your-email-is-back-with-new-tricks/)
  - date published: 2023-03-13 09:24:51+00:00
@@ -2870,7 +2924,7 @@
  - [https://www.techspot.com/news/97535-windows-11-spyware-machine-out-users-control.html](https://www.techspot.com/news/97535-windows-11-spyware-machine-out-users-control.html)
  - date published: 2023-02-08 18:39:54+00:00
  - user: rumpel
- - tags: ['windows', 'telemetry', 'microsoft', 'privacy', 'tracking']
+ - tags: ['tracking', 'dark design', 'telemetry', 'privacy', 'windows', 'microsoft']
 
 ## Bill Gates' defense of flying private echoes John Kerry excuse for jet-setting around world
  - [https://www.foxnews.com/politics/bill-gates-defense-flying-private-echoes-john-kerry-excuse-jet-setting-around-world](https://www.foxnews.com/politics/bill-gates-defense-flying-private-echoes-john-kerry-excuse-jet-setting-around-world)
@@ -3842,7 +3896,7 @@
  - [https://archive.org/](https://archive.org/)
  - date published: 2023-01-13 14:35:11+00:00
  - user: rumpel
- - tags: ['internet', 'archive']
+ - tags: ['internet', 'internet archive']
 
 ## The Satanic Temple - Wikipedia
  - [https://en.wikipedia.org/wiki/The_Satanic_Temple](https://en.wikipedia.org/wiki/The_Satanic_Temple)
@@ -3890,7 +3944,7 @@
  - [https://nextcloud.com/install/](https://nextcloud.com/install/)
  - date published: 2023-01-13 10:08:29+00:00
  - user: rumpel
- - tags: ['selfhost', 'cloud', 'smart home']
+ - tags: ['cloud computing', 'selfhost', 'smart home']
 
 ## U.S. FDA, CDC see early signal of possible Pfizer bivalent COVID shot link to stroke | Reuters
  - [https://www.reuters.com/business/healthcare-pharmaceuticals/us-says-pfizers-bivalent-covid-shot-may-be-linked-stroke-older-adults-2023-01-13/](https://www.reuters.com/business/healthcare-pharmaceuticals/us-says-pfizers-bivalent-covid-shot-may-be-linked-stroke-older-adults-2023-01-13/)

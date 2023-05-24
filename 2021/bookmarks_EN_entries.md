@@ -352,6 +352,12 @@
  - user: rumpel
  - tags: ['genocide', 'uyghur', 'china', 'big tech']
 
+## Is Culture Stuck?. ilm studios decided to just release new… | by The Lindy Newsletter | Medium
+ - [https://medium.com/@lindynewsletter/is-culture-stuck-eb3171262f9e](https://medium.com/@lindynewsletter/is-culture-stuck-eb3171262f9e)
+ - date published: 2021-12-15 12:14:21+00:00
+ - user: rumpel
+ - tags: ['culture']
+
 ## Idea that Omicron is milder is a myth, warns Chris Whitty - despite low hospitalisations | The Sun
  - [https://www.thesun.co.uk/health/17051174/idea-omicron-milder-myth-warns-chris-whitty/](https://www.thesun.co.uk/health/17051174/idea-omicron-milder-myth-warns-chris-whitty/)
  - date published: 2021-12-15 11:38:00+00:00
@@ -1466,7 +1472,7 @@
  - [https://www.bryanbraun.com/2021/09/21/i-keep-making-things-out-of-checkboxes/](https://www.bryanbraun.com/2021/09/21/i-keep-making-things-out-of-checkboxes/)
  - date published: 2021-10-11 19:09:46.629773+00:00
  - user: Thomas Pain
- - tags: ['programming']
+ - tags: ['project', 'programming']
 
 ## China again blocks Wikimedia Foundation’s accreditation to World Intellectual Property Organization – Wikimedia Foundation
  - [https://wikimediafoundation.org/news/2021/10/05/china-again-blocks-wikimedia-foundations-accreditation-to-world-intellectual-property-organization/](https://wikimediafoundation.org/news/2021/10/05/china-again-blocks-wikimedia-foundations-accreditation-to-world-intellectual-property-organization/)
@@ -1719,6 +1725,12 @@
  - date published: 2021-09-29 16:41:28.503523+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Behind the Scenes of the Natural Origin Narrative
+ - [https://www.theepochtimes.com/behind-the-scenes-of-the-natural-origin-narrative_4023181.html](https://www.theepochtimes.com/behind-the-scenes-of-the-natural-origin-narrative_4023181.html)
+ - date published: 2021-09-29 14:22:27+00:00
+ - user: rumpel
+ - tags: ['covid', 'wuhan', 'anthony fauci', 'lableak']
 
 ## My Wife Was Dying of Brain Cancer. My Boss at Amazon Told Me to Perform or Quit. – Mother Jones
  - [https://www.motherjones.com/politics/2021/09/my-wife-was-dying-of-brain-cancer-my-boss-at-amazon-told-me-to-perform-or-quit/](https://www.motherjones.com/politics/2021/09/my-wife-was-dying-of-brain-cancer-my-boss-at-amazon-told-me-to-perform-or-quit/)
@@ -4298,7 +4310,7 @@
  - [https://www.youtube.com/watch?v=DWnc-ZlIo5s](https://www.youtube.com/watch?v=DWnc-ZlIo5s)
  - date published: 2021-01-28 00:00:00+00:00
  - user: rumpel
- - tags: ['archive']
+ - tags: ['documentary', 'history', 'archive']
 
 ## Google says PAC won't fund Congress members against election results
  - [https://www.cnbc.com/2021/01/25/google-says-pac-wont-fund-congress-members-against-election-results.html](https://www.cnbc.com/2021/01/25/google-says-pac-wont-fund-congress-members-against-election-results.html)

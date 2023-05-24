@@ -56,7 +56,7 @@
  - [https://i-hls.com/archives/40964](https://i-hls.com/archives/40964)
  - date published: 2014-10-17 09:06:52+00:00
  - user: rumpel
- - tags: ['surveillance', 'nsa', 'cloud computing', 'technofeudalism', 'microsoft']
+ - tags: ['cloud computing', 'dark design', 'surveillance', 'nsa', 'technofeudalism', 'microsoft']
 
 ## The FBI Director’s Evidence Against Encryption Is Pathetic
  - [https://theintercept.com/2014/10/17/draft-two-cases-cited-fbi-dude-dumb-dumb/](https://theintercept.com/2014/10/17/draft-two-cases-cited-fbi-dude-dumb-dumb/)
@@ -164,7 +164,7 @@
  - [https://betanews.com/2014/05/16/microsoft-openly-offered-cloud-data-to-the-nsa/](https://betanews.com/2014/05/16/microsoft-openly-offered-cloud-data-to-the-nsa/)
  - date published: 2014-05-16 09:07:48+00:00
  - user: rumpel
- - tags: ['nsa', 'privacy', 'big brother', 'backdoor', 'technofeudalism', 'manufacturing consent', 'big tech', 'microsoft']
+ - tags: ['big tech', 'cloud computing', 'manufacturing consent', 'privacy', 'nsa', 'microsoft', 'technofeudalism', 'backdoor', 'big brother']
 
 ## Microsoft openly offered cloud data to support NSA PRISM programme | ITProPortal
  - [https://web.archive.org/web/20190421070310/https://www.itproportal.com/2014/05/14/microsoft-openly-offered-cloud-data-fbi-and-nsa/](https://web.archive.org/web/20190421070310/https://www.itproportal.com/2014/05/14/microsoft-openly-offered-cloud-data-fbi-and-nsa/)

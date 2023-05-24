@@ -26,7 +26,7 @@
  - [https://www.youtube.com/watch?v=MD5J43Z9AWI](https://www.youtube.com/watch?v=MD5J43Z9AWI)
  - date published: 2010-11-30 00:00:00+00:00
  - user: rumpel
- - tags: ['archive']
+ - tags: ['documentary', 'history']
 
 ## Media Matters Receives $1 Million From George Soros
  - [https://philanthropynewsdigest.org/news/media-matters-receives-1-million-from-george-soros](https://philanthropynewsdigest.org/news/media-matters-receives-1-million-from-george-soros)

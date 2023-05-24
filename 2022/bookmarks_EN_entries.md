@@ -4826,7 +4826,7 @@
  - [https://www.canada.ca/en/conservation-institute/services/conservation-preservation-publications/canadian-conservation-institute-notes/longevity-recordable-cds-dvds.html](https://www.canada.ca/en/conservation-institute/services/conservation-preservation-publications/canadian-conservation-institute-notes/longevity-recordable-cds-dvds.html)
  - date published: 2022-10-07 05:39:48+00:00
  - user: None
- - tags: ['backup', 'archive']
+ - tags: ['dvds', 'blue-rays', 'backup', 'cds']
 
 ## Meta’s flagship metaverse app is too buggy and employees are barely using it, says exec in charge
  - [https://www.reddit.com/r/technology/comments/xxm3oo/metas_flagship_metaverse_app_is_too_buggy_and/](https://www.reddit.com/r/technology/comments/xxm3oo/metas_flagship_metaverse_app_is_too_buggy_and/)
@@ -5534,7 +5534,7 @@
  - [https://www.businessinsider.com/car-feature-subscriptions-add-ons-bmw-ford-toyota-gm-2022-2?IR=T](https://www.businessinsider.com/car-feature-subscriptions-add-ons-bmw-ford-toyota-gm-2022-2?IR=T)
  - date published: 2022-09-24 20:43:07+00:00
  - user: None
- - tags: ['technofeudalism', 'subscription']
+ - tags: ['subscription', 'technofeudalism', 'dark design']
 
 ## Bill Gates says political polarization 'may bring it all to an end' and could even lead to a civil war
  - [https://www.reddit.com/r/politics/comments/xn2q5t/bill_gates_says_political_polarization_may_bring/](https://www.reddit.com/r/politics/comments/xn2q5t/bill_gates_says_political_polarization_may_bring/)
@@ -6308,7 +6308,7 @@
  - [https://zanshin.net/2022/09/11/automating-a-reading-list/](https://zanshin.net/2022/09/11/automating-a-reading-list/)
  - date published: 2022-09-13 23:53:24+00:00
  - user: Thomas Pain
- - tags: ['selfhost']
+ - tags: ['data', 'selfhost', 'project']
 
 ## China's Xi to meet Putin in first foreign trip since pandemic
  - [https://www.bbc.co.uk/news/world-asia-china-62885151?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-china-62885151?at_medium=RSS&at_campaign=KARANGA)
@@ -6674,7 +6674,7 @@
  - [https://www.tdpain.net/blog/a-year-of-reading](https://www.tdpain.net/blog/a-year-of-reading)
  - date published: 2022-09-08 01:20:32+00:00
  - user: None
- - tags: ['selfhost', 'search engines']
+ - tags: ['data', 'selfhost', 'project']
 
 ## Your attention span is being robbed!
  - [https://unstructed.tech/2022/09/07/your-attention-span-is-being-robbed/](https://unstructed.tech/2022/09/07/your-attention-span-is-being-robbed/)
@@ -10118,7 +10118,7 @@
  - [https://www.youtube.com/watch?v=GUZ0jTU1o5s](https://www.youtube.com/watch?v=GUZ0jTU1o5s)
  - date published: 2022-03-23 00:00:00+00:00
  - user: rumpel
- - tags: ['archive']
+ - tags: ['documentary', 'history', 'archive']
 
 ## The New Filter Mandate Bill Is An Unmitigated Disaster | Electronic Frontier Foundation
  - [https://www.eff.org/deeplinks/2022/03/new-filter-mandate-bill-unmitigated-disaster](https://www.eff.org/deeplinks/2022/03/new-filter-mandate-bill-unmitigated-disaster)
@@ -10322,7 +10322,7 @@
  - [https://www.reviewgeek.com/111381/you-dont-really-ever-own-an-ev/](https://www.reviewgeek.com/111381/you-dont-really-ever-own-an-ev/)
  - date published: 2022-03-12 08:47:24.909762+00:00
  - user: Thomas Pain
- - tags: ['electric vehicles', 'technofeudalism', 'climate change']
+ - tags: ['climate change', 'electric vehicles', 'technofeudalism', 'dark design']
 
 ## Twitter makes it harder to choose the old reverse-chronological feed - The Verge
  - [https://www.theverge.com/2022/3/10/22971307/twitter-home-timeline-algorithmic-reverse-chronological-feed](https://www.theverge.com/2022/3/10/22971307/twitter-home-timeline-algorithmic-reverse-chronological-feed)
@@ -11295,6 +11295,12 @@
  - date published: 2022-01-20 10:39:04+00:00
  - user: rumpel
  - tags: ['corporatocracy', 'internet', 'africa', 'monopoly']
+
+## Scientists Who Were Instrumental to COVID-19 ‘Natural Origin’ Narrative Received Over $50 Million in NIAID Funding in 2020–21
+ - [https://www.theepochtimes.com/scientists-who-were-instrumental-to-covid-19-natural-origins-narrative-received-over-50-million-in-niaid-funding-in-2020-2021_4220769.html](https://www.theepochtimes.com/scientists-who-were-instrumental-to-covid-19-natural-origins-narrative-received-over-50-million-in-niaid-funding-in-2020-2021_4220769.html)
+ - date published: 2022-01-19 14:23:35+00:00
+ - user: rumpel
+ - tags: ['covid', 'wuhan', 'niaid', 'lableak']
 
 ## Facebook versus the BMJ: when fact checking goes wrong
  - [https://www.bmj.com/content/376/bmj.o95](https://www.bmj.com/content/376/bmj.o95)

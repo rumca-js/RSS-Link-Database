@@ -1040,7 +1040,7 @@
  - [https://www.thegatewaypundit.com/2020/07/dont-want-know-reddit-mods-remove-viral-article-woman-murdered-saying-lives-matter/](https://www.thegatewaypundit.com/2020/07/dont-want-know-reddit-mods-remove-viral-article-woman-murdered-saying-lives-matter/)
  - date published: 2020-07-12 08:46:19+00:00
  - user: rumpel
- - tags: ['technofeudalism', 'black lives matter', 'censorship', 'all lives matter', 'reddit']
+ - tags: ['racism', 'all lives matter', 'reddit', 'censorship', 'black lives matter', 'technofeudalism']
 
 ## McCloskey case: Police seize gun at home of St. Louis couple who pointed weapons at protesters
  - [https://www.cbsnews.com/news/mark-patricia-mccloskey-guns-seized-at-st-louis-home-couple-who-pointed-weapons-at-protesters/](https://www.cbsnews.com/news/mark-patricia-mccloskey-guns-seized-at-st-louis-home-couple-who-pointed-weapons-at-protesters/)
@@ -1359,6 +1359,12 @@
  - date published: 2020-04-18 06:52:28+00:00
  - user: rumpel
  - tags: ['wuhan', 'covid', 'lableak']
+
+## Trump, aides flirt with China lab coronavirus conspiracy theory | Coronavirus pandemic News | Al Jazeera
+ - [https://www.aljazeera.com/news/2020/4/17/trump-aides-flirt-with-china-lab-coronavirus-conspiracy-theory](https://www.aljazeera.com/news/2020/4/17/trump-aides-flirt-with-china-lab-coronavirus-conspiracy-theory)
+ - date published: 2020-04-17 14:25:08+00:00
+ - user: rumpel
+ - tags: ['covid', 'wuhan', 'lableak', 'donald trump']
 
 ## BRUTAL: 5 awful facts about WHO’s Tedros Adhanom
  - [https://www.youtube.com/watch?v=XPSlqF5pjrw](https://www.youtube.com/watch?v=XPSlqF5pjrw)

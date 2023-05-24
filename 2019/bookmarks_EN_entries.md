@@ -110,7 +110,7 @@
  - [https://www.youtube.com/watch?v=fzI9FNjXQ0o](https://www.youtube.com/watch?v=fzI9FNjXQ0o)
  - date published: 2019-11-13 09:44:26+00:00
  - user: rumpel
- - tags: ['github', 'archive', 'programming']
+ - tags: ['arctic code vault', 'github', 'programming']
 
 ## YouTube says it has ‘no obligation’ to host anyone’s video
  - [https://www.theverge.com/2019/11/11/20955864/youtube-terms-of-service-update-terminations-children-content-ftc](https://www.theverge.com/2019/11/11/20955864/youtube-terms-of-service-update-terminations-children-content-ftc)
@@ -692,7 +692,7 @@
  - [https://www.youtube.com/watch?v=esBLinbJydI](https://www.youtube.com/watch?v=esBLinbJydI)
  - date published: 2019-04-05 00:00:00+00:00
  - user: rumpel
- - tags: ['archive']
+ - tags: ['documentary', 'history', 'archive']
 
 ## Manufactured Discontent and Fortnite
  - [https://www.youtube.com/watch?v=dPHPNgIihR0](https://www.youtube.com/watch?v=dPHPNgIihR0)
