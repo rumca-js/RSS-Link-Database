@@ -1072,6 +1072,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Revealed: Ursula von der Leyen used private jet to travel just 31 miles
+ - [https://www.telegraph.co.uk/world-news/2021/11/02/revealed-air-miles-ursula-used-private-jet-travel-just-31-miles/](https://www.telegraph.co.uk/world-news/2021/11/02/revealed-air-miles-ursula-used-private-jet-travel-just-31-miles/)
+ - date published: 2021-11-02 12:18:42+00:00
+ - user: rumpel
+ - tags: ['climate change', 'ursula von der leyen']
+
 ## Why Modern Movies Suck - They're Written By Children
  - [https://www.youtube.com/watch?v=CQ92cggLMx8](https://www.youtube.com/watch?v=CQ92cggLMx8)
  - date published: 2021-11-02 11:24:42+00:00
@@ -3993,12 +3999,6 @@
  - date published: 2021-04-10 19:51:55+00:00
  - user: rumpel
  - tags: ['hypocrisy', 'black lives matter']
-
-## #Upscaling hd 50 fps - Volkswagen Golf GTi - Singing in the Rain (2005, UK)
- - [https://www.youtube.com/watch?v=Myxb1f07cAo](https://www.youtube.com/watch?v=Myxb1f07cAo)
- - date published: 2021-04-10 00:00:00+00:00
- - user: rumpel
- - tags: ['funny']
 
 ## When Life Hurts, Stop Clinging to It | The Philosophy of Epictetus
  - [https://www.youtube.com/watch?v=p2KHo95Qknk](https://www.youtube.com/watch?v=p2KHo95Qknk)

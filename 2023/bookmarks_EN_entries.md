@@ -1,3 +1,21 @@
+## Crypto Wars - Wikipedia
+ - [https://en.wikipedia.org/wiki/Crypto_Wars](https://en.wikipedia.org/wiki/Crypto_Wars)
+ - date published: 2023-05-24 12:27:19+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'privacy', 'crypto wars', 'big brother']
+
+## Dear Ubuntu
+ - [https://hackaday.com/2023/05/22/dear-ubuntu/](https://hackaday.com/2023/05/22/dear-ubuntu/)
+ - date published: 2023-05-24 05:04:45+00:00
+ - user: rumpel
+ - tags: ['ubuntu']
+
+## COCAINE SHARK - Official Trailer (2023) Samantha Coolidge, Ryan Dalton
+ - [https://www.youtube.com/watch?v=AdNeKUvO6pg](https://www.youtube.com/watch?v=AdNeKUvO6pg)
+ - date published: 2023-05-24 02:00:07+00:00
+ - user: rumpel
+ - tags: ['movies', 'funny']
+
 ## ‘A Dangerous Path’: Christian Banned From Teaching After ‘Misgendering’ Student
  - [https://www.dailywire.com/news/a-dangerous-path-christian-banned-from-teaching-after-misgendering-student](https://www.dailywire.com/news/a-dangerous-path-christian-banned-from-teaching-after-misgendering-student)
  - date published: 2023-05-23 15:56:11+00:00
@@ -117,6 +135,12 @@
  - date published: 2023-05-18 15:33:13+00:00
  - user: rumpel
  - tags: ['moore law', 'hardware']
+
+## Disney To Produce More LGBTQ+ Content In New Partnership With Equalpride - The Publica
+ - [https://www.thepublica.com/disney-to-produce-more-lgbtq-content-in-new-partnership-with-equalpride/](https://www.thepublica.com/disney-to-produce-more-lgbtq-content-in-new-partnership-with-equalpride/)
+ - date published: 2023-05-18 15:33:12+00:00
+ - user: rumpel
+ - tags: ['disney', 'woke', 'lgbt', 'the left wing']
 
 ## YouTube is bringing unskippable 30-second ads to TV
  - [https://www.theverge.com/2023/5/18/23728150/youtube-tv-unskippable-ads-premium-pause-commercial](https://www.theverge.com/2023/5/18/23728150/youtube-tv-unskippable-ads-premium-pause-commercial)
@@ -1263,6 +1287,12 @@
  - date published: 2023-04-07 20:00:43+00:00
  - user: rumpel
  - tags: ['hackers', 'flipper zero']
+
+## Inside the woke scoring system guiding American companies
+ - [https://nypost.com/2023/04/07/inside-the-woke-scoring-system-guiding-american-companies/](https://nypost.com/2023/04/07/inside-the-woke-scoring-system-guiding-american-companies/)
+ - date published: 2023-04-07 17:03:59+00:00
+ - user: rumpel
+ - tags: ['woke', 'the left wing', 'blackrock', 'corporate equality index', 'esg', 'cei']
 
 ## Russian FSB has the keys to Telegram and Viber messengers and uses them for espionage - Ukrainian intelligence - Euromaidan Press
  - [https://euromaidanpress.com/2023/04/07/russian-fsb-has-the-keys-to-telegram-and-viber-social-networks-and-uses-them-for-espionage-ukraines-intelligence/](https://euromaidanpress.com/2023/04/07/russian-fsb-has-the-keys-to-telegram-and-viber-social-networks-and-uses-them-for-espionage-ukraines-intelligence/)

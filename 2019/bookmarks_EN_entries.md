@@ -298,6 +298,12 @@
  - user: rumpel
  - tags: ['books', 'edward snowden']
 
+## Full Interview: Edward Snowden On Trump, Privacy, And Threats To Democracy | The 11th Hour | MSNBC
+ - [https://www.youtube.com/watch?v=e9yK1QndJSM](https://www.youtube.com/watch?v=e9yK1QndJSM)
+ - date published: 2019-09-17 00:00:00+00:00
+ - user: rumpel
+ - tags: ['privacy', 'edward snowden', 'surveillance']
+
 ## 8 Things You May Not Know About Our Air Defense on 9/11 > U.S. Department of Defense > Defense Department News
  - [https://www.defense.gov/News/News-Stories/Article/Article/1955624/8-things-you-may-not-know-about-our-air-defense-on-911/](https://www.defense.gov/News/News-Stories/Article/Article/1955624/8-things-you-may-not-know-about-our-air-defense-on-911/)
  - date published: 2019-09-11 15:32:49+00:00

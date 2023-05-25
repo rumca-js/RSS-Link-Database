@@ -136,12 +136,6 @@
  - user: None
  - tags: ['covid']
 
-## Człowiek-choinka poszukiwany. Poprzecinał opony 20 aut na terenie hurtowni mięsa [WIDEO]
- - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29239751,czlowiek-choinka-poszukiwany-przez-policje-za-atak-na-hurtownie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,29239751,czlowiek-choinka-poszukiwany-przez-policje-za-atak-na-hurtownie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
- - date published: 2022-12-08 13:54:00+00:00
- - user: rumpel
- - tags: ['funny']
-
 ## Wielka Brytania po raz pierwszy od 35 lat zbuduje kopalnię węgla. Rząd wydał zgodę
  - [https://forsal.pl/biznes/energetyka/artykuly/8605747,wielka-brytania-kopalnia-wegla-rzad-wydal-zgode.html](https://forsal.pl/biznes/energetyka/artykuly/8605747,wielka-brytania-kopalnia-wegla-rzad-wydal-zgode.html)
  - date published: 2022-12-08 07:19:57+00:00

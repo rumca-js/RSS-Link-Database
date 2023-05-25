@@ -1,3 +1,15 @@
+## UE szykuje się do zakazu szyfrowania. Wyciekła oficjalna ankieta z opiniami państw członkowskich
+ - [https://ithardware.pl/aktualnosci/wyciekla_lista_krajow_ue_zwalczajacych_szyfrowanie_komunikatorow_znamy_stanowisko_polski_i_innych-27433.html](https://ithardware.pl/aktualnosci/wyciekla_lista_krajow_ue_zwalczajacych_szyfrowanie_komunikatorow_znamy_stanowisko_polski_i_innych-27433.html)
+ - date published: 2023-05-24 07:59:10+00:00
+ - user: rumpel
+ - tags: ['crypto wars']
+
+## Zakaz krótkich lotów we Francji. Nie obejmuje "elit"
+ - [https://dorzeczy.pl/ekonomia/442410/zakaz-krotkich-lotow-we-francji-nie-obejmuje-elit.html](https://dorzeczy.pl/ekonomia/442410/zakaz-krotkich-lotow-we-francji-nie-obejmuje-elit.html)
+ - date published: 2023-05-23 12:17:44+00:00
+ - user: rumpel
+ - tags: ['climate change', 'france']
+
 ## Fakty i mity - Nauka o klimacie | naukaoklimacie.pl
  - [https://naukaoklimacie.pl/fakty-i-mity/](https://naukaoklimacie.pl/fakty-i-mity/)
  - date published: 2023-05-11 12:46:22+00:00
