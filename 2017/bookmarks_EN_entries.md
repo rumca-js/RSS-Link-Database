@@ -356,7 +356,7 @@
  - [https://www.independent.co.uk/arts-entertainment/tv/news/pepsi-advert-pulled-kendall-jenner-protest-video-cancelled-removed-a7668986.html](https://www.independent.co.uk/arts-entertainment/tv/news/pepsi-advert-pulled-kendall-jenner-protest-video-cancelled-removed-a7668986.html)
  - date published: 2017-04-05 11:58:05+00:00
  - user: rumpel
- - tags: ['go woke go broke', 'propaganda']
+ - tags: ['go woke go broke', 'propaganda', 'the left wing']
 
 ## China has fished itself out of its own waters, so Chinese fishermen are now sticking their rods in other nations’ seas
  - [https://qz.com/948980/china-has-fished-itself-out-of-its-own-waters-so-chinese-fishermen-are-now-sticking-their-rods-in-other-nations-seas](https://qz.com/948980/china-has-fished-itself-out-of-its-own-waters-so-chinese-fishermen-are-now-sticking-their-rods-in-other-nations-seas)

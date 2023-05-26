@@ -1768,6 +1768,12 @@
  - user: rumpel
  - tags: ['dead internet']
 
+## Woke American Comics vs Manga
+ - [https://www.youtube.com/watch?v=Elgqtwhqh5I](https://www.youtube.com/watch?v=Elgqtwhqh5I)
+ - date published: 2021-09-28 00:00:00+00:00
+ - user: rumpel
+ - tags: ['go woke go broke', 'lgbt', 'indoctrination', 'the left wing', 'comics']
+
 ## CIA officials under Trump discussed assassinating Julian Assange – report | Julian Assange | The Guardian
  - [https://www.theguardian.com/media/2021/sep/27/senior-cia-officials-trump-discussed-assassinating-julian-assange](https://www.theguardian.com/media/2021/sep/27/senior-cia-officials-trump-discussed-assassinating-julian-assange)
  - date published: 2021-09-27 21:26:41+00:00

@@ -1450,6 +1450,12 @@
  - user: rumpel
  - tags: ['covid', 'lockdown']
 
+## Marvel criticised for new ‘woke’ superheroes called ‘Snowflake’ and ‘Safespace’ | The Independent | The Independent
+ - [https://www.independent.co.uk/arts-entertainment/books/news/marvel-comics-snowflake-safespace-non-binary-new-warriors-mcu-twitter-a9410541.html](https://www.independent.co.uk/arts-entertainment/books/news/marvel-comics-snowflake-safespace-non-binary-new-warriors-mcu-twitter-a9410541.html)
+ - date published: 2020-03-19 06:59:41+00:00
+ - user: rumpel
+ - tags: ['go woke go broke', 'lgbt', 'indoctrination', 'the left wing', 'comics']
+
 ## Did Video Show Italian Army Trucks Transporting Coffins Amid COVID-19 Pandemic? | Snopes.com
  - [https://www.snopes.com/fact-check/italy-army-coffins-coronavirus/](https://www.snopes.com/fact-check/italy-army-coffins-coronavirus/)
  - date published: 2020-03-16 08:13:33+00:00
@@ -1484,7 +1490,7 @@
  - [https://www.youtube.com/watch?v=xeX4qvP5mGg](https://www.youtube.com/watch?v=xeX4qvP5mGg)
  - date published: 2020-02-28 00:00:00+00:00
  - user: rumpel
- - tags: ['movies', 'go woke go broke']
+ - tags: ['go woke go broke', 'the left wing', 'movies']
 
 ## Your smart speaker could be listening in on your conversations by accident
  - [https://www.techradar.com/news/your-smart-speaker-could-be-accidentally-listening-in-on-your-conversations](https://www.techradar.com/news/your-smart-speaker-could-be-accidentally-listening-in-on-your-conversations)

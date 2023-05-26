@@ -196,6 +196,12 @@
  - user: rumpel
  - tags: ['the left wing']
 
+## Woke comic books are laughable money-losers — but DC, Marvel push them
+ - [https://nypost.com/2022/12/27/woke-comic-books-are-laughable-money-losers-but-dc-marvel-push-them/](https://nypost.com/2022/12/27/woke-comic-books-are-laughable-money-losers-but-dc-marvel-push-them/)
+ - date published: 2022-12-27 06:58:11+00:00
+ - user: rumpel
+ - tags: ['go woke go broke', 'lgbt', 'indoctrination', 'the left wing', 'comics']
+
 ## Rachel Levine ripped for demanding censorship of 'misinformation' on 'gender-affirming care' for kids
  - [https://www.foxnews.com/media/rachel-levine-ripped-demanding-censorship-misinformation-gender-affirming-care-kids](https://www.foxnews.com/media/rachel-levine-ripped-demanding-censorship-misinformation-gender-affirming-care-kids)
  - date published: 2022-12-26 23:00:18+00:00
@@ -2235,6 +2241,12 @@
  - date published: 2022-11-21 20:04:57+00:00
  - user: rumpel
  - tags: ['covid', 'technofeudalism', 'cbdc']
+
+## LGBTQ+ groups condemn Fifa over OneLove armband sanctions threat
+ - [https://www.theguardian.com/football/2022/nov/21/lgbt-groups-condemn-fifa-over-onelove-armband-sanctions-threat](https://www.theguardian.com/football/2022/nov/21/lgbt-groups-condemn-fifa-over-onelove-armband-sanctions-threat)
+ - date published: 2022-11-21 13:11:21+00:00
+ - user: rumpel
+ - tags: ['intolerance', 'woke', 'lgbt', 'freedom', 'the left wing']
 
 ## Elon Musk reveals why he will never let Alex Jones back on Twitter
  - [https://www.dailymail.co.uk/news/article-11451899/Elon-Musk-reveals-never-let-Alex-Jones-Twitter.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11451899/Elon-Musk-reveals-never-let-Alex-Jones-Twitter.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -8278,6 +8290,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Why Marvel's New Warriors Reboot Was Never Published
+ - [https://www.cbr.com/what-happened-new-warriors-30th-anniversary-marvel/](https://www.cbr.com/what-happened-new-warriors-30th-anniversary-marvel/)
+ - date published: 2022-07-04 06:57:11+00:00
+ - user: rumpel
+ - tags: ['go woke go broke', 'marvel', 'indoctrination', 'the left wing', 'comics']
+
 ## It's Quite Hard to Lose a Duolingo Streak
  - [https://leejo.github.io/2022/07/03/duolingo_streak/](https://leejo.github.io/2022/07/03/duolingo_streak/)
  - date published: 2022-07-03 21:23:41+00:00
@@ -10262,7 +10280,7 @@
  - [https://www.youtube.com/watch?v=WJzXUSl20kM](https://www.youtube.com/watch?v=WJzXUSl20kM)
  - date published: 2022-03-16 00:00:00+00:00
  - user: rumpel
- - tags: ['woke', 'movies', 'hollywood']
+ - tags: ['woke', 'hollywood', 'the left wing', 'movies']
 
 ## Ufopornoo! - Higher Quality
  - [https://www.youtube.com/watch?v=W5UkA2Gg-Cc](https://www.youtube.com/watch?v=W5UkA2Gg-Cc)

@@ -1,3 +1,9 @@
+## Polscy Sprawiedliwi wśród Narodów Świata – Wikipedia, wolna encyklopedia
+ - [https://pl.wikipedia.org/wiki/Polscy_Sprawiedliwi_w%C5%9Br%C3%B3d_Narod%C3%B3w_%C5%9Awiata](https://pl.wikipedia.org/wiki/Polscy_Sprawiedliwi_w%C5%9Br%C3%B3d_Narod%C3%B3w_%C5%9Awiata)
+ - date published: 2023-05-25 11:53:17+00:00
+ - user: rumpel
+ - tags: ['israel', 'poland', 'holocaust']
+
 ## UE szykuje się do zakazu szyfrowania. Wyciekła oficjalna ankieta z opiniami państw członkowskich
  - [https://ithardware.pl/aktualnosci/wyciekla_lista_krajow_ue_zwalczajacych_szyfrowanie_komunikatorow_znamy_stanowisko_polski_i_innych-27433.html](https://ithardware.pl/aktualnosci/wyciekla_lista_krajow_ue_zwalczajacych_szyfrowanie_komunikatorow_znamy_stanowisko_polski_i_innych-27433.html)
  - date published: 2023-05-24 07:59:10+00:00

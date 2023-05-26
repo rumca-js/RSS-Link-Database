@@ -1,3 +1,27 @@
+## Aurora Store Accounts Blocked by Google
+ - [https://gitlab.com/AuroraOSS/AuroraStore/-/issues/912](https://gitlab.com/AuroraOSS/AuroraStore/-/issues/912)
+ - date published: 2023-05-25 19:00:50+00:00
+ - user: rumpel
+ - tags: ['google', 'play store', 'aurora']
+
+## Polish Righteous Among the Nations - Wikipedia
+ - [https://en.wikipedia.org/wiki/Polish_Righteous_Among_the_Nations](https://en.wikipedia.org/wiki/Polish_Righteous_Among_the_Nations)
+ - date published: 2023-05-25 11:55:43+00:00
+ - user: rumpel
+ - tags: ['israel', 'poland', 'holocaust']
+
+## The QR-code menu is being shown the door
+ - [https://www.nytimes.com/2023/05/22/dining/restaurant-qr-code-menu.html](https://www.nytimes.com/2023/05/22/dining/restaurant-qr-code-menu.html)
+ - date published: 2023-05-25 00:17:14+00:00
+ - user: rumpel
+ - tags: ['qr codes', 'covid']
+
+## Target removes some Pride Month products after threats against employees
+ - [https://www.npr.org/2023/05/24/1177963864/target-pride-month-lgbtq-products-threats](https://www.npr.org/2023/05/24/1177963864/target-pride-month-lgbtq-products-threats)
+ - date published: 2023-05-24 19:53:44+00:00
+ - user: rumpel
+ - tags: ['woke', 'lgbt', 'pride', 'the left wing', 'indoctrination']
+
 ## Crypto Wars - Wikipedia
  - [https://en.wikipedia.org/wiki/Crypto_Wars](https://en.wikipedia.org/wiki/Crypto_Wars)
  - date published: 2023-05-24 12:27:19+00:00
@@ -21,6 +45,12 @@
  - date published: 2023-05-23 15:56:11+00:00
  - user: rumpel
  - tags: ['the left wing', 'pronouns', 'newspeak']
+
+## Twitter Files Extra: The Covid Censorship Requests of Australia's Department of Home Affairs
+ - [https://www.racket.news/p/twitter-files-extra-the-covid-censorship](https://www.racket.news/p/twitter-files-extra-the-covid-censorship)
+ - date published: 2023-05-23 08:00:19+00:00
+ - user: rumpel
+ - tags: ['censorship', 'covid', 'twitter', 'twitter files']
 
 ## FBI abused spy law but only like 280k times in a year
  - [https://www.theregister.com/2023/05/22/fbi_fisa_abuse/](https://www.theregister.com/2023/05/22/fbi_fisa_abuse/)
@@ -75,6 +105,12 @@
  - date published: 2023-05-22 09:18:25+00:00
  - user: rumpel
  - tags: ['surveillance', 'meta', 'gdpr']
+
+## Antic probe reveals Canberra silenced 4213 Covid posts
+ - [https://www.theaustralian.com.au/nation/antic-probe-reveals-canberra-silenced-4213-covid-posts/news-story/9afc4362197af63454bd3fa89285c282?amp&nk=75123c3603747a0fb6a011617db93217-1684746559](https://www.theaustralian.com.au/nation/antic-probe-reveals-canberra-silenced-4213-covid-posts/news-story/9afc4362197af63454bd3fa89285c282?amp&nk=75123c3603747a0fb6a011617db93217-1684746559)
+ - date published: 2023-05-22 07:57:42+00:00
+ - user: rumpel
+ - tags: ['australia', 'censorship', 'covid']
 
 ## Donald Trump - Wikipedia
  - [https://en.wikipedia.org/wiki/Donald_Trump](https://en.wikipedia.org/wiki/Donald_Trump)
@@ -267,6 +303,12 @@
  - date published: 2023-05-14 14:49:43+00:00
  - user: rumpel
  - tags: ['dead internet']
+
+## Transformers' new non-binary robot tells children gender neutral pronouns are 'wonderful'
+ - [https://www.telegraph.co.uk/world-news/2023/05/14/transformers-spin-off-robot-teaches-kids-about-non/](https://www.telegraph.co.uk/world-news/2023/05/14/transformers-spin-off-robot-teaches-kids-about-non/)
+ - date published: 2023-05-14 06:51:50+00:00
+ - user: rumpel
+ - tags: ['transformers', 'woke', 'pronouns', 'the left wing', 'gender', 'indoctrination', 'newspeak']
 
 ## The Pandemic May Be Over But UK Mobile Networks Are Still Monitoring Population Movement
  - [https://reclaimthenet.org/uk-mobile-networks-are-still-monitoring-population-movement](https://reclaimthenet.org/uk-mobile-networks-are-still-monitoring-population-movement)
@@ -842,7 +884,7 @@
  - [https://adage.com/article/marketing-news-strategy/bud-light-dylan-mulvaney-sales-drop-induces-panic-brand/2489971](https://adage.com/article/marketing-news-strategy/bud-light-dylan-mulvaney-sales-drop-induces-panic-brand/2489971)
  - date published: 2023-04-23 11:38:33+00:00
  - user: rumpel
- - tags: ['go woke go broke']
+ - tags: ['go woke go broke', 'the left wing']
 
 ## Lockdown’s cancer bomb may soon be worse than Covid itself
  - [https://www.telegraph.co.uk/news/2023/04/24/lockdowns-cancer-bomb-may-soon-be-worse-than-covid-itself/](https://www.telegraph.co.uk/news/2023/04/24/lockdowns-cancer-bomb-may-soon-be-worse-than-covid-itself/)
@@ -1034,7 +1076,7 @@
  - [https://www.express.co.uk/entertainment/films/1759191/Disney-woke-movies-Strange-World-Lightyear](https://www.express.co.uk/entertainment/films/1759191/Disney-woke-movies-Strange-World-Lightyear)
  - date published: 2023-04-17 11:48:38+00:00
  - user: rumpel
- - tags: ['go woke go broke', 'disney']
+ - tags: ['indoctrination', 'disney', 'go woke go broke', 'the left wing']
 
 ## Windows 11 Start menu ads look set to get even worse – this is getting painful now
  - [https://www.techradar.com/news/windows-11-start-menu-ads-look-set-to-get-even-worse-this-is-getting-painful-now](https://www.techradar.com/news/windows-11-start-menu-ads-look-set-to-get-even-worse-this-is-getting-painful-now)
@@ -1634,7 +1676,7 @@
  - [https://www.youtube.com/watch?v=yAmuVJ7jkpA](https://www.youtube.com/watch?v=yAmuVJ7jkpA)
  - date published: 2023-03-27 00:00:00+00:00
  - user: rumpel
- - tags: ['the left wing', 'fahrenheit 451', 'woke', 'newspeak']
+ - tags: ['woke', 'fahrenheit 451', 'newspeak', 'the left wing']
 
 ## AI Art is Inevitable
  - [https://www.youtube.com/watch?v=VsXYTunk7OY](https://www.youtube.com/watch?v=VsXYTunk7OY)
@@ -4130,7 +4172,7 @@
  - [https://edition.cnn.com/2023/01/10/business/m-and-ms-female-pack/index.html](https://edition.cnn.com/2023/01/10/business/m-and-ms-female-pack/index.html)
  - date published: 2023-01-10 11:40:36+00:00
  - user: rumpel
- - tags: ['go woke go broke']
+ - tags: ['go woke go broke', 'the left wing']
 
 ## U.S. Carbon Emissions Grew in 2022, Even As Renewables Surpassed Coal
  - [https://www.nytimes.com/2023/01/10/climate/us-carbon-emissions-2022.html](https://www.nytimes.com/2023/01/10/climate/us-carbon-emissions-2022.html)

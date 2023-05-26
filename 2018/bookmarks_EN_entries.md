@@ -152,7 +152,7 @@
  - [https://edition.cnn.com/2018/09/04/us/colin-kaepernick-nike-sneakers-intl/index.html](https://edition.cnn.com/2018/09/04/us/colin-kaepernick-nike-sneakers-intl/index.html)
  - date published: 2018-09-05 11:40:09+00:00
  - user: rumpel
- - tags: ['go woke go broke']
+ - tags: ['go woke go broke', 'the left wing']
 
 ## Jack Dorsey to Congress: 'Twitter does not use political ideology'
  - [https://www.cnbc.com/2018/09/04/jack-dorsey-to-congress-full-written-testimony-on-political-bias.html](https://www.cnbc.com/2018/09/04/jack-dorsey-to-congress-full-written-testimony-on-political-bias.html)

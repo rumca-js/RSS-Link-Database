@@ -134,7 +134,7 @@
  - [https://www.worldofreel.com/blog/2019/11/dg22fjrmgo52liuoe5zuxalukvw8ll](https://www.worldofreel.com/blog/2019/11/dg22fjrmgo52liuoe5zuxalukvw8ll)
  - date published: 2019-11-04 11:49:39+00:00
  - user: rumpel
- - tags: ['go woke go broke']
+ - tags: ['go woke go broke', 'the left wing']
 
 ## The Farmer Who Took On One Of The World’s Biggest Chemical Corporations
  - [https://www.sciencefriday.com/articles/dupont-bilott-book-exposure/](https://www.sciencefriday.com/articles/dupont-bilott-book-exposure/)
@@ -548,7 +548,7 @@
  - [https://www.breitbart.com/entertainment/2019/06/14/men-in-black-international-review-another-franchise-bites-the-woke-dust/](https://www.breitbart.com/entertainment/2019/06/14/men-in-black-international-review-another-franchise-bites-the-woke-dust/)
  - date published: 2019-06-14 11:55:24+00:00
  - user: rumpel
- - tags: ['go woke go broke']
+ - tags: ['go woke go broke', 'the left wing']
 
 ## Sexist commercials now banned in UK
  - [https://www.cnn.com/2019/06/14/media/uk-gender-stereotypes-advertising-ban-scli-gbr-intl/index.html](https://www.cnn.com/2019/06/14/media/uk-gender-stereotypes-advertising-ban-scli-gbr-intl/index.html)
