@@ -1,3 +1,9 @@
+## Amazon Backs Out of Climate Pledge, Deletes Shipment Zero Initiative Blogpost
+ - [https://www.businessinsider.com/amazon-shipment-zero-gives-up-most-important-part-climate-pledge-2023-5](https://www.businessinsider.com/amazon-shipment-zero-gives-up-most-important-part-climate-pledge-2023-5)
+ - date published: 2023-05-26 01:43:22+00:00
+ - user: rumpel
+ - tags: ['climate change']
+
 ## Aurora Store Accounts Blocked by Google
  - [https://gitlab.com/AuroraOSS/AuroraStore/-/issues/912](https://gitlab.com/AuroraOSS/AuroraStore/-/issues/912)
  - date published: 2023-05-25 19:00:50+00:00
