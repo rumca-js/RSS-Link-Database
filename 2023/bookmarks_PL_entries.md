@@ -438,6 +438,12 @@
  - user: rumpel
  - tags: ['surveillance', 'subscription', 'misinformation', 'moderation', 'privacy']
 
+## Św. MAKSYMILIAN KOLBE – Portal historyczny TerazHistoria.pl
+ - [https://terazhistoria.pl/sw-maksymilian-kolbe/](https://terazhistoria.pl/sw-maksymilian-kolbe/)
+ - date published: 2023-01-08 18:12:48+00:00
+ - user: rumpel
+ - tags: ['israel holocaust', 'maksymilian kolbe', 'example']
+
 ## Dyskryminacja klasowa nadal jest faktem. Stała się paliwem dla populistów
  - [https://forsal.pl/gospodarka/polityka/artykuly/8626908,dyskryminacja-klasowa-nadal-jest-faktem-stala-sie-paliwem-dla-populistow.html](https://forsal.pl/gospodarka/polityka/artykuly/8626908,dyskryminacja-klasowa-nadal-jest-faktem-stala-sie-paliwem-dla-populistow.html)
  - date published: 2023-01-08 07:00:00+00:00

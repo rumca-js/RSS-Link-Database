@@ -1136,7 +1136,7 @@
  - [https://www.bankier.pl/wiadomosc/W-Google-Play-odkryto-35-aplikacji-zawierajacych-szkodliwe-oprogramowanie-pobrano-je-ponad-2-mln-razy-8398914.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/W-Google-Play-odkryto-35-aplikacji-zawierajacych-szkodliwe-oprogramowanie-pobrano-je-ponad-2-mln-razy-8398914.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date published: 2022-09-03 17:00:00+00:00
  - user: None
- - tags: ['vulnerability', 'malware', 'google', 'play store']
+ - tags: ['vulnerability', 'google', 'malware', 'app store', 'play store']
 
 ## Służby PiS chcą zablokować stronę publikującą maile ze skrzynki Dworczyka
  - [https://www.wykop.pl/link/6802629/sluzby-pis-chca-zablokowac-strone-publikujaca-maile-ze-skrzynki-dworczyka/](https://www.wykop.pl/link/6802629/sluzby-pis-chca-zablokowac-strone-publikujaca-maile-ze-skrzynki-dworczyka/)

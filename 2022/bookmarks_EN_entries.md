@@ -4556,7 +4556,7 @@
  - [https://gizmodo.com/truth-social-google-play-store-donald-trump-1849652590](https://gizmodo.com/truth-social-google-play-store-donald-trump-1849652590)
  - date published: 2022-10-13 14:25:00+00:00
  - user: None
- - tags: ['google', 'moderation', 'censorship', 'play store']
+ - tags: ['google', 'app store', 'play store', 'moderation', 'censorship']
 
 ## Back to the office? Don't expect to be more productive when you get there
  - [https://www.zdnet.com/article/back-to-the-office-dont-expect-to-be-more-productive-when-you-get-there/#ftag=RSSbaffb68](https://www.zdnet.com/article/back-to-the-office-dont-expect-to-be-more-productive-when-you-get-there/#ftag=RSSbaffb68)
@@ -7034,7 +7034,7 @@
  - [https://techcrunch.com/2022/09/01/google-blocks-truth-social-from-the-play-store-will-apple-be-next/](https://techcrunch.com/2022/09/01/google-blocks-truth-social-from-the-play-store-will-apple-be-next/)
  - date published: 2022-09-02 07:27:13+00:00
  - user: None
- - tags: ['play store', 'monopoly', 'social media', 'censorship', 'google', 'big tech']
+ - tags: ['big tech', 'google', 'monopoly', 'app store', 'play store', 'social media', 'censorship']
 
 ## China Locks Down Chengdu as Covid Cases Rise
  - [https://www.nytimes.com/2022/09/01/world/asia/china-covid-lockdown-chengdu.html](https://www.nytimes.com/2022/09/01/world/asia/china-covid-lockdown-chengdu.html)

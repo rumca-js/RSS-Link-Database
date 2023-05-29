@@ -2576,7 +2576,7 @@
  - [https://news.ycombinator.com/item?id=28172490](https://news.ycombinator.com/item?id=28172490)
  - date published: 2021-08-14 08:52:33.219672+00:00
  - user: Thomas Pain
- - tags: ['play store', 'technofeudalism', 'open source']
+ - tags: ['open source', 'play store', 'app store', 'technofeudalism']
 
 ## What Is the Fediverse and Can It Decentralize the Web?
  - [https://www.makeuseof.com/what-is-the-fediverse-and-can-it-decentralize-the-web/](https://www.makeuseof.com/what-is-the-fediverse-and-can-it-decentralize-the-web/)

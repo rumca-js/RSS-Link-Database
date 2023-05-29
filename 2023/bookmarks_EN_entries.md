@@ -1,3 +1,15 @@
+## Private Spies Hired by FBI and Corporations Infiltrate Discord, Reddit, WhatsApp
+ - [https://www.leefang.com/p/private-spies-hired-by-the-fbi-and](https://www.leefang.com/p/private-spies-hired-by-the-fbi-and)
+ - date published: 2023-05-28 03:58:56+00:00
+ - user: rumpel
+ - tags: ['psyop', 'fbi', 'social media']
+
+## Google account deleted after 2 hours of Aurora
+ - [https://old.reddit.com/r/degoogle/comments/13td3iq/google_account_deleted_after_2_hours_of_aurora/](https://old.reddit.com/r/degoogle/comments/13td3iq/google_account_deleted_after_2_hours_of_aurora/)
+ - date published: 2023-05-27 22:20:53+00:00
+ - user: rumpel
+ - tags: ['google', 'app store', 'aurora', 'technofeudalism']
+
 ## Amazon Backs Out of Climate Pledge, Deletes Shipment Zero Initiative Blogpost
  - [https://www.businessinsider.com/amazon-shipment-zero-gives-up-most-important-part-climate-pledge-2023-5](https://www.businessinsider.com/amazon-shipment-zero-gives-up-most-important-part-climate-pledge-2023-5)
  - date published: 2023-05-26 01:43:22+00:00
@@ -8,7 +20,7 @@
  - [https://gitlab.com/AuroraOSS/AuroraStore/-/issues/912](https://gitlab.com/AuroraOSS/AuroraStore/-/issues/912)
  - date published: 2023-05-25 19:00:50+00:00
  - user: rumpel
- - tags: ['google', 'play store', 'aurora']
+ - tags: ['google', 'play store', 'app store', 'aurora']
 
 ## Polish Righteous Among the Nations - Wikipedia
  - [https://en.wikipedia.org/wiki/Polish_Righteous_Among_the_Nations](https://en.wikipedia.org/wiki/Polish_Righteous_Among_the_Nations)
@@ -153,6 +165,12 @@
  - date published: 2023-05-21 12:56:52+00:00
  - user: rumpel
  - tags: ['malware', 'vulnerability', 'android']
+
+## THE UNVACCINATED | "Nobody is Safe!"
+ - [https://www.youtube.com/watch?v=zI3yU5Z2adI](https://www.youtube.com/watch?v=zI3yU5Z2adI)
+ - date published: 2023-05-21 00:00:00+00:00
+ - user: rumpel
+ - tags: ['propaganda', 'covid']
 
 ## Popular Pirate Bay Proxy Site Disappears from GitHub
  - [https://torrentfreak.com/popular-pirate-bay-proxy-site-disappears-from-github-230520/](https://torrentfreak.com/popular-pirate-bay-proxy-site-disappears-from-github-230520/)
@@ -1774,6 +1792,12 @@
  - user: rumpel
  - tags: ['climate change', 'electric vehicles']
 
+## Assessing COVID-19 pandemic policies and behaviours and their economic and educational trade-offs across US states from Jan 1, 2020, to July 31, 2022: an observational analysis
+ - [https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)00461-0/fulltext](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)00461-0/fulltext)
+ - date published: 2023-03-23 12:01:14+00:00
+ - user: rumpel
+ - tags: ['lockdown', 'covid']
+
 ## Statistical and Numerical Errors Made by the US Centers for Disease Control and Prevention During the COVID-19 Pandemic by Kelley Krohnert, Alyson Haslam, Tracy Beth Hoeg, Vinay Prasad :: SSRN
  - [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4381627](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4381627)
  - date published: 2023-03-23 10:01:44+00:00
@@ -2606,7 +2630,7 @@
  - [https://foundation.mozilla.org/en/blog/mozilla-study-data-privacy-labels-for-most-top-apps-in-google-play-store-are-false-or-misleading/](https://foundation.mozilla.org/en/blog/mozilla-study-data-privacy-labels-for-most-top-apps-in-google-play-store-are-false-or-misleading/)
  - date published: 2023-02-23 11:25:13+00:00
  - user: rumpel
- - tags: ['play store', 'google', 'antitrust', 'android', 'privacy', 'big tech']
+ - tags: ['big tech', 'google', 'antitrust', 'app store', 'android', 'privacy', 'play store']
 
 ## DOJ seeks court sanctions against Google over 'intentional destruction' of chat logs | CNN Business
  - [https://edition.cnn.com/2023/02/23/tech/doj-sanctions-google-intentional-destruction-chat-logs/index.html](https://edition.cnn.com/2023/02/23/tech/doj-sanctions-google-intentional-destruction-chat-logs/index.html)
