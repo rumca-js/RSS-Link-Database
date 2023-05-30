@@ -538,12 +538,6 @@
  - user: None
  - tags: ['propaganda', 'science']
 
-## Babylon Bee chief criticizes social media’s censorship of satire
- - [https://reclaimthenet.org/babylon-bee-chief-criticizes-social-medias-censorship/](https://reclaimthenet.org/babylon-bee-chief-criticizes-social-medias-censorship/)
- - date published: 2022-12-21 19:46:50+00:00
- - user: None
- - tags: $tags
-
 ## More than 400 'pedophile dens' are in California where up to 18 sex predators live together
  - [https://www.dailymail.co.uk/news/article-11495915/More-400-pedophile-dens-California-18-sex-predators-live-together.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11495915/More-400-pedophile-dens-California-18-sex-predators-live-together.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2022-12-21 19:42:59+00:00
@@ -1928,7 +1922,7 @@
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59656](https://www.codeproject.com/script/News/View.aspx?nwid=59656)
  - date published: 2022-11-29 05:00:00+00:00
  - user: None
- - tags: $tags
+ - tags: ['data leak', 'privacy']
 
 ## Apple Has No Easy Road Out of China
  - [https://www.wsj.com/articles/apple-has-no-easy-road-out-of-china-11669661578?mod=rss_Technology](https://www.wsj.com/articles/apple-has-no-easy-road-out-of-china-11669661578?mod=rss_Technology)
@@ -2260,12 +2254,6 @@
  - user: None
  - tags: ['big brother', 'transgender', 'the left wing', 'gender']
 
-## Elon Musk calls The New York Times 'boring': 'Far left brainwashing at this point'
- - [https://www.foxnews.com/media/elon-musk-calls-new-york-times-boring-far-left-brainwashing-at-this-point](https://www.foxnews.com/media/elon-musk-calls-new-york-times-boring-far-left-brainwashing-at-this-point)
- - date published: 2022-11-20 19:33:47+00:00
- - user: None
- - tags: $tags
-
 ## Elon Musk Reinstated Donald Trump On Twitter. Now The Real Drama Begins
  - [https://www.forbes.com/sites/johnbbrandon/2022/11/20/elon-musk-reinstated-donald-trump-on-twitter-now-the-real-drama-begins/](https://www.forbes.com/sites/johnbbrandon/2022/11/20/elon-musk-reinstated-donald-trump-on-twitter-now-the-real-drama-begins/)
  - date published: 2022-11-20 15:48:31+00:00
@@ -2434,12 +2422,6 @@
  - user: None
  - tags: ['covid zero', 'covid', 'china']
 
-## Israel will not cooperate with FBI inquiry into killing of Palestinian American journalist
- - [https://www.theguardian.com/world/2022/nov/14/shireen-abu-akleh-killing-israel-fbi-investigation](https://www.theguardian.com/world/2022/nov/14/shireen-abu-akleh-killing-israel-fbi-investigation)
- - date published: 2022-11-14 21:51:28+00:00
- - user: None
- - tags: $tags
-
 ## Viral TikTok shared by newlyweds has commenters blasting ‘controversial’ marriage guidelines
  - [https://www.foxnews.com/lifestyle/viral-tiktok-newlyweds-commenters-blasting-controversial-marriage-guidelines](https://www.foxnews.com/lifestyle/viral-tiktok-newlyweds-commenters-blasting-controversial-marriage-guidelines)
  - date published: 2022-11-14 21:42:32+00:00
@@ -2578,12 +2560,6 @@
  - user: None
  - tags: ['robots', 'amazon']
 
-## The World Is Run by People No Smarter Than You
- - [https://www.swyx.io/no-smarter](https://www.swyx.io/no-smarter)
- - date published: 2022-11-11 15:43:39+00:00
- - user: None
- - tags: $tags
-
 ## Scientists find a surprising answer to the future of computers — paper
  - [https://www.digitaltrends.com/computing/scientists-find-answer-to-future-computers-in-paper/](https://www.digitaltrends.com/computing/scientists-find-answer-to-future-computers-in-paper/)
  - date published: 2022-11-11 15:39:21.348041+00:00
@@ -2668,12 +2644,6 @@
  - user: None
  - tags: ['smartphone']
 
-## President Xi dons army fatigues after announcing China will be focusing on preparations for war
- - [https://www.dailymail.co.uk/news/article-11407131/President-Xi-dons-army-fatigues-announcing-China-focusing-preparations-war.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11407131/President-Xi-dons-army-fatigues-announcing-China-focusing-preparations-war.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - date published: 2022-11-09 09:56:11+00:00
- - user: None
- - tags: $tags
-
 ## How China and Russia plan to launch a new currency
  - [https://www.asiamarkets.com/china-russia-gold-reserve-currency/](https://www.asiamarkets.com/china-russia-gold-reserve-currency/)
  - date published: 2022-11-09 08:02:07+00:00
@@ -2756,7 +2726,7 @@
  - [https://martinfowler.com/articles/your-org-run-mastodon.html](https://martinfowler.com/articles/your-org-run-mastodon.html)
  - date published: 2022-11-07 18:07:47+00:00
  - user: None
- - tags: $tags
+ - tags: ['fediverse']
 
 ## Is There Too Much CSS Now?
  - [https://css-tricks.com/is-there-too-much-css-now/](https://css-tricks.com/is-there-too-much-css-now/)
@@ -2811,12 +2781,6 @@
  - date published: 2022-11-06 08:58:33+00:00
  - user: rumpel
  - tags: ['finland', 'covid', 'covid lie']
-
-## Meta’s Meltdown Shows How Big Tech’s Invincible Era Is Over
- - [https://www.bloomberg.com/news/articles/2022-11-03/meta-meta-stock-price-underscores-faang-company-troubles](https://www.bloomberg.com/news/articles/2022-11-03/meta-meta-stock-price-underscores-faang-company-troubles)
- - date published: 2022-11-06 01:38:04+00:00
- - user: None
- - tags: $tags
 
 ## Facebook probably has your phone number, even if you never shared it. Now it has a secret tool to let you delete it.
  - [https://www.businessinsider.com/facebook-has-hidden-tool-to-delete-your-phone-number-email-2022-10?IR=T](https://www.businessinsider.com/facebook-has-hidden-tool-to-delete-your-phone-number-email-2022-10?IR=T)
@@ -2954,7 +2918,7 @@
  - [https://www.youtube.com/watch?v=F2ngB-zjVmM](https://www.youtube.com/watch?v=F2ngB-zjVmM)
  - date published: 2022-11-03 17:50:22+00:00
  - user: None
- - tags: ['sjw', 'movies', 'activism', 'modern audience', 'the left wing']
+ - tags: ['movies', 'the left wing', 'hollywood', 'propaganda']
 
 ## YouTube sorting option for viewing oldest channel video missing or not available? Here's why
  - [https://piunikaweb.com/2022/11/02/youtube-sorting-option-for-viewing-oldest-video-missing-heres-why/](https://piunikaweb.com/2022/11/02/youtube-sorting-option-for-viewing-oldest-video-missing-heres-why/)
@@ -3196,12 +3160,6 @@
  - user: None
  - tags: ['science', 'the left wing']
 
-## ARM to prohibit proximity of CPU w 3rd-party modules in one chip
- - [https://www.ryzencpu.com/2022/10/arm-will-prohibit-proximity-of-its-cpu.html](https://www.ryzencpu.com/2022/10/arm-will-prohibit-proximity-of-its-cpu.html)
- - date published: 2022-11-01 10:11:25+00:00
- - user: None
- - tags: $tags
-
 ## FB and Twitter have special portals for the government to take down content
  - [https://twitter.com/lhfang/status/1587104660355096576](https://twitter.com/lhfang/status/1587104660355096576)
  - date published: 2022-11-01 08:07:01+00:00
@@ -3370,12 +3328,6 @@
  - user: None
  - tags: ['moderation', 'twitter']
 
-## Twitter deal may signal point when the ‘everything bubble’ bursts
- - [https://www.theguardian.com/business/2022/oct/30/twitter-deal-may-signal-turning-point-when-the-everything-bubble-bursts](https://www.theguardian.com/business/2022/oct/30/twitter-deal-may-signal-turning-point-when-the-everything-bubble-bursts)
- - date published: 2022-10-30 10:16:25+00:00
- - user: None
- - tags: $tags
-
 ## Italy to reinstate health workers who did not comply with COVID vaccine mandates
  - [https://www.foxnews.com/world/italy-reinstate-health-workers-suspended-not-complying-covid-vaccine-mandates](https://www.foxnews.com/world/italy-reinstate-health-workers-suspended-not-complying-covid-vaccine-mandates)
  - date published: 2022-10-30 09:02:34+00:00
@@ -3417,12 +3369,6 @@
  - date published: 2022-10-29 20:29:38+00:00
  - user: None
  - tags: ['tracking', 'privacy', 'selfhost', 'smart home']
-
-## Kanye doubles-down on anti-Semitic claims by sharing SPREADSHEET filled with names of Jewish execs
- - [https://www.dailymail.co.uk/news/article-11368801/Kanye-doubles-anti-Semitic-claims-sharing-SPREADSHEET-filled-names-Jewish-execs.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11368801/Kanye-doubles-anti-Semitic-claims-sharing-SPREADSHEET-filled-names-Jewish-execs.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - date published: 2022-10-29 18:56:24+00:00
- - user: None
- - tags: $tags
 
 ## Florida medical board votes to ban gender-affirming care for transgender minors
  - [https://www.reddit.com/r/news/comments/ygnjd3/florida_medical_board_votes_to_ban/](https://www.reddit.com/r/news/comments/ygnjd3/florida_medical_board_votes_to_ban/)
@@ -3759,12 +3705,6 @@
  - date published: 2022-10-26 14:18:33+00:00
  - user: None
  - tags: ['apple', 'ad business']
-
-## Free cloud dev accounts are being abused for crypto mining
- - [https://www.techradar.com/news/free-cloud-dev-accounts-are-being-abused-for-crypto-mining/](https://www.techradar.com/news/free-cloud-dev-accounts-are-being-abused-for-crypto-mining/)
- - date published: 2022-10-26 14:03:35+00:00
- - user: None
- - tags: $tags
 
 ## The only way of being anonymous in Sweden is illegal
  - [https://commit.pizza/2022/10/16/the-only-way-of-being-anonymous-in-sweden-is-illegal/](https://commit.pizza/2022/10/16/the-only-way-of-being-anonymous-in-sweden-is-illegal/)
@@ -4204,12 +4144,6 @@
  - user: None
  - tags: $tags
 
-## New Android 13 QPR1 beta feature allows battery share to turn on automatically
- - [https://www.androidauthority.com/battery-share-pixel-7-3223462/](https://www.androidauthority.com/battery-share-pixel-7-3223462/)
- - date published: 2022-10-21 19:11:52+00:00
- - user: None
- - tags: $tags
-
 ## NYU professor fired because his class was 'too hard' slams colleges for 'coddling students'
  - [https://www.dailymail.co.uk/news/article-11340307/NYU-professor-fired-class-hard-slams-colleges-coddling-students.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11340307/NYU-professor-fired-class-hard-slams-colleges-coddling-students.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2022-10-21 19:03:08+00:00
@@ -4330,12 +4264,6 @@
  - user: None
  - tags: ['crisis', 'wikipedia', 'england']
 
-## Dr. Phil asks woke educators: ‘What makes you think you know better’ than parents what’s best for kids?
- - [https://www.foxnews.com/media/dr-phil-asks-woke-educators-makes-think-know-better-parents-best-kids](https://www.foxnews.com/media/dr-phil-asks-woke-educators-makes-think-know-better-parents-best-kids)
- - date published: 2022-10-20 09:00:58+00:00
- - user: None
- - tags: $tags
-
 ## More than 100 pro-life orgs, churches attacked since Dobbs leak
  - [https://www.foxnews.com/politics/100-pro-life-orgs-churches-attacked-dobbs-leak](https://www.foxnews.com/politics/100-pro-life-orgs-churches-attacked-dobbs-leak)
  - date published: 2022-10-20 06:00:26+00:00
@@ -4363,12 +4291,6 @@
 ## Hackers Threaten to Release Medical Info of Australian Actors, Politicians, Activists, and More
  - [https://gizmodo.com/hacker-medical-australian-actors-ransom-politicians-dox-1849675881](https://gizmodo.com/hacker-medical-australian-actors-ransom-politicians-dox-1849675881)
  - date published: 2022-10-19 08:00:00+00:00
- - user: None
- - tags: $tags
-
-## Meta will have to sell Giphy after losing UK appeal
- - [https://www.codeproject.com/script/News/View.aspx?nwid=59234](https://www.codeproject.com/script/News/View.aspx?nwid=59234)
- - date published: 2022-10-19 04:00:00+00:00
  - user: None
  - tags: $tags
 
@@ -4561,12 +4483,6 @@
 ## Back to the office? Don't expect to be more productive when you get there
  - [https://www.zdnet.com/article/back-to-the-office-dont-expect-to-be-more-productive-when-you-get-there/#ftag=RSSbaffb68](https://www.zdnet.com/article/back-to-the-office-dont-expect-to-be-more-productive-when-you-get-there/#ftag=RSSbaffb68)
  - date published: 2022-10-13 14:00:24+00:00
- - user: None
- - tags: $tags
-
-## NYC schools 'overwhelmed' by influx of migrant students: 'We are not prepared for this'
- - [https://www.foxnews.com/media/nyc-schools-overwhelmed-influx-migrant-students-prepared](https://www.foxnews.com/media/nyc-schools-overwhelmed-influx-migrant-students-prepared)
- - date published: 2022-10-13 13:45:56+00:00
  - user: None
  - tags: $tags
 
@@ -4864,12 +4780,6 @@
  - user: None
  - tags: ['hate speech', 'gender', 'the left wing', 'transgender']
 
-## Kanye West doubles down amid 'White Lives Matter' clothing backlash: 'THEY DO'
- - [https://www.foxnews.com/entertainment/kanye-west-doubles-down-amid-white-lives-matter-clothing-backlash-they-do](https://www.foxnews.com/entertainment/kanye-west-doubles-down-amid-white-lives-matter-clothing-backlash-they-do)
- - date published: 2022-10-06 04:33:13+00:00
- - user: None
- - tags: $tags
-
 ## This new Linux kernel update can damage your laptop display
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59102](https://www.codeproject.com/script/News/View.aspx?nwid=59102)
  - date published: 2022-10-06 04:00:00+00:00
@@ -4953,12 +4863,6 @@
  - date published: 2022-10-04 19:46:52+00:00
  - user: None
  - tags: ['elon musk', 'twitter']
-
-## NY Times fashion critic melts down over Kanye's 'White Lives Matter' shirt, says it could 'feed' 'violence'
- - [https://www.foxnews.com/media/ny-times-fashion-critic-melts-down-kanyes-white-lives-matter-shirt-says-could-feed-violence](https://www.foxnews.com/media/ny-times-fashion-critic-melts-down-kanyes-white-lives-matter-shirt-says-could-feed-violence)
- - date published: 2022-10-04 19:04:59+00:00
- - user: None
- - tags: $tags
 
 ## Church-sponsored LGBTQ pride event promotes ‘kid’s activities,’ ‘drag shows’
  - [https://www.foxnews.com/politics/church-sponsored-lgbtq-pride-event-promotes-kids-activities-drag-shows](https://www.foxnews.com/politics/church-sponsored-lgbtq-pride-event-promotes-kids-activities-drag-shows)
@@ -5294,7 +5198,7 @@
  - [https://spectrum.ieee.org/meet-an-open-source-pc-that-can-fit-in-your-pocket](https://spectrum.ieee.org/meet-an-open-source-pc-that-can-fit-in-your-pocket)
  - date published: 2022-09-28 02:54:34+00:00
  - user: None
- - tags: $tags
+ - tags: ['open source', 'project']
 
 ## Apple removes Russia’s largest social network from the App Store
  - [https://www.theverge.com/2022/9/27/23375831/vk-russia-apple-app-store-removed-social-media](https://www.theverge.com/2022/9/27/23375831/vk-russia-apple-app-store-removed-social-media)
@@ -5432,7 +5336,7 @@
  - [https://www.bbc.co.uk/news/world-latin-america-63036839?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-latin-america-63036839?at_medium=RSS&at_campaign=KARANGA)
  - date published: 2022-09-27 00:15:24+00:00
  - user: None
- - tags: $tags
+ - tags: ['brasil', 'crisis']
 
 ## Experts debate the ethics of LinkedIn’s algorithm experiments on 20M users
  - [https://arstechnica.com/?p=1884675](https://arstechnica.com/?p=1884675)
@@ -5578,23 +5482,11 @@
  - user: None
  - tags: $tags
 
-## I used OpenAI’s new tech to transcribe audio right on my laptop
- - [https://www.theverge.com/2022/9/23/23367296/openai-whisper-transcription-speech-recognition-open-source](https://www.theverge.com/2022/9/23/23367296/openai-whisper-transcription-speech-recognition-open-source)
- - date published: 2022-09-23 21:38:19+00:00
- - user: None
- - tags: $tags
-
 ## Google Home can now use Nest speakers to detect your presence
  - [https://www.engadget.com/google-home-nest-speaker-presence-detection-211055011.html?src=rss](https://www.engadget.com/google-home-nest-speaker-presence-detection-211055011.html?src=rss)
  - date published: 2022-09-23 21:10:55+00:00
  - user: None
  - tags: ['privacy', 'big brother', 'big tech', 'google', 'surveillance']
-
-## Leading Transgender Health Association Seeks to Include ‘Eunuch’ As ‘Gender Identity’
- - [https://www.dailywire.com/news/leading-transgender-health-association-seeks-to-include-eunuch-as-gender-identity](https://www.dailywire.com/news/leading-transgender-health-association-seeks-to-include-eunuch-as-gender-identity)
- - date published: 2022-09-23 21:06:23+00:00
- - user: None
- - tags: $tags
 
 ## Facebook reverses ban on ads from Conservative children's book publisher after outrage from Fox News
  - [https://www.dailymail.co.uk/news/article-11244203/Facebook-reverses-ban-ads-Conservative-childrens-book-publisher-outrage-Fox-News.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11244203/Facebook-reverses-ban-ads-Conservative-childrens-book-publisher-outrage-Fox-News.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -5770,17 +5662,11 @@
  - user: None
  - tags: ['usa', 'defund the police', 'florida']
 
-## Florida asks Supreme Court to decide fight over social media regulation
- - [https://www.engadget.com/florida-supreme-court-petition-social-media-regulation-195239421.html?src=rss](https://www.engadget.com/florida-supreme-court-petition-social-media-regulation-195239421.html?src=rss)
- - date published: 2022-09-21 19:52:39+00:00
- - user: None
- - tags: $tags
-
 ## I tried replacing Google with TikTok, and it worked better than I thought
  - [https://www.theverge.com/23365101/tiktok-search-google-replacement](https://www.theverge.com/23365101/tiktok-search-google-replacement)
  - date published: 2022-09-21 16:30:54+00:00
  - user: None
- - tags: $tags
+ - tags: ['algorithms', 'tiktok', 'google search']
 
 ## NYC crime surge leaves former NY gov 'extremely worried' businesses will flee 'frightened' city
  - [https://www.foxnews.com/media/nyc-crime-surge-former-ny-gov-extremely-worried-businesses-flee-frightened-city](https://www.foxnews.com/media/nyc-crime-surge-former-ny-gov-extremely-worried-businesses-flee-frightened-city)
@@ -5809,12 +5695,6 @@
 ## No, YouTube, I will not subscribe to Premium
  - [https://www.androidauthority.com/youtube-premium-popups-ads-3209067/](https://www.androidauthority.com/youtube-premium-popups-ads-3209067/)
  - date published: 2022-09-21 12:00:24+00:00
- - user: None
- - tags: $tags
-
-## Is the Covid-19 pandemic really 'over'?
- - [https://www.cnn.com/2022/09/21/world/coronavirus-newsletter-intl-07-21-22/index.html](https://www.cnn.com/2022/09/21/world/coronavirus-newsletter-intl-07-21-22/index.html)
- - date published: 2022-09-21 11:55:17+00:00
  - user: None
  - tags: $tags
 
@@ -5893,12 +5773,6 @@
 ## Judge Says Texas’ Bill to Stop Social Media From Curbing Hate Speech Will 'Cultivate Ideas'
  - [https://gizmodo.com/texas-social-media-censorship-5th-circuit-big-tech-1849553590](https://gizmodo.com/texas-social-media-censorship-5th-circuit-big-tech-1849553590)
  - date published: 2022-09-19 17:55:00+00:00
- - user: None
- - tags: $tags
-
-## Apple is top funder of lobby group that says it represents small developers
- - [https://arstechnica.com/?p=1882617](https://arstechnica.com/?p=1882617)
- - date published: 2022-09-19 17:52:47+00:00
  - user: None
  - tags: $tags
 
@@ -5986,17 +5860,11 @@
  - user: None
  - tags: $tags
 
-## New Android phones could be more powerful than iPhone 14 Pro, leak suggests
- - [https://www.techradar.com/news/new-android-phones-could-be-more-powerful-than-iphone-14-pro-leak-suggests/](https://www.techradar.com/news/new-android-phones-could-be-more-powerful-than-iphone-14-pro-leak-suggests/)
- - date published: 2022-09-18 06:00:24+00:00
- - user: None
- - tags: $tags
-
 ## NYC fires another 850 teachers and teaching aides after they failed to get COVID vaccine by Sept 5
  - [https://www.dailymail.co.uk/news/article-11223587/NYC-fires-850-teachers-teaching-aides-failed-COVID-vaccine-Sept-5.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11223587/NYC-fires-850-teachers-teaching-aides-failed-COVID-vaccine-Sept-5.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2022-09-18 05:29:57+00:00
  - user: None
- - tags: $tags
+ - tags: ['covid', 'censorship']
 
 ## Facebook: Breastfeeding clothing firm has lost thousands after being hit by no-nudity rule
  - [https://www.dailymail.co.uk/news/article-11223421/Facebook-Breastfeeding-clothing-firm-lost-thousands-hit-no-nudity-rule.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11223421/Facebook-Breastfeeding-clothing-firm-lost-thousands-hit-no-nudity-rule.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -6172,12 +6040,6 @@
  - user: None
  - tags: $tags
 
-## EA announces kernel-level anti-cheat system for PC games
- - [https://www.codeproject.com/script/News/View.aspx?nwid=58893](https://www.codeproject.com/script/News/View.aspx?nwid=58893)
- - date published: 2022-09-15 04:00:00+00:00
- - user: None
- - tags: $tags
-
 ## Google fails to overturn EU Android antitrust ruling but reduces its fine by 5 percent
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58880](https://www.codeproject.com/script/News/View.aspx?nwid=58880)
  - date published: 2022-09-15 04:00:00+00:00
@@ -6188,19 +6050,13 @@
  - [https://www.chicagomag.com/chicago-magazine/october-2022/the-long-haul/](https://www.chicagomag.com/chicago-magazine/october-2022/the-long-haul/)
  - date published: 2022-09-15 02:05:41+00:00
  - user: None
- - tags: $tags
+ - tags: ['covid']
 
 ## Former BlackRock executive argues ESG is bad for society and your wallet in WSJ op-ed
  - [https://www.foxnews.com/media/former-blackrock-executive-argues-esg-bad-society-wallet-wsj-op-ed](https://www.foxnews.com/media/former-blackrock-executive-argues-esg-bad-society-wallet-wsj-op-ed)
  - date published: 2022-09-15 00:17:43+00:00
  - user: None
  - tags: ['blackrock', 'esg']
-
-## TikTok won't commit to stopping US data flows to China
- - [https://www.cnn.com/2022/09/14/tech/tiktok-china-data/index.html](https://www.cnn.com/2022/09/14/tech/tiktok-china-data/index.html)
- - date published: 2022-09-14 23:29:34+00:00
- - user: None
- - tags: $tags
 
 ## Why We Question the Safety Profile of mRNA COVID-19 Vaccines
  - [https://sensiblemed.substack.com/p/why-we-question-the-safety-of-covid](https://sensiblemed.substack.com/p/why-we-question-the-safety-of-covid)
@@ -6226,23 +6082,11 @@
  - user: None
  - tags: ['manufacturing consent', 'bill gates', 'elites', 'covid', 'billionaires']
 
-## California is suing Amazon alleging the company contributed to high costs of products state-wide
- - [https://www.dailymail.co.uk/news/article-11212837/California-suing-Amazon-alleging-company-contributed-high-costs-products-state-wide.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11212837/California-suing-Amazon-alleging-company-contributed-high-costs-products-state-wide.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - date published: 2022-09-14 19:49:52+00:00
- - user: None
- - tags: $tags
-
 ## Ohio school board meeting gets heated over 'woke' policy keeping parents in dark about kids’ gender changes
  - [https://www.foxnews.com/politics/ohio-school-board-meeting-gets-heated-policy-keeping-parents-dark-students-name-pronoun-change](https://www.foxnews.com/politics/ohio-school-board-meeting-gets-heated-policy-keeping-parents-dark-students-name-pronoun-change)
  - date published: 2022-09-14 19:28:12+00:00
  - user: None
  - tags: ['the left wing', 'transgender', 'gender', 'school']
-
-## Discord revolutionizes online conversations with... forums
- - [https://www.engadget.com/discord-forum-channels-185223867.html?src=rss](https://www.engadget.com/discord-forum-channels-185223867.html?src=rss)
- - date published: 2022-09-14 18:52:23+00:00
- - user: None
- - tags: $tags
 
 ## Big Tech must prove content moderation works or pay $15K daily fines in Calif.
  - [https://arstechnica.com/?p=1881219](https://arstechnica.com/?p=1881219)
@@ -6250,11 +6094,11 @@
  - user: None
  - tags: ['censorship', 'moderation', 'big tech']
 
-## TikTok search results are reportedly swarming with misinformation
- - [https://www.engadget.com/tiktok-search-results-misinformation-153031730.html?src=rss](https://www.engadget.com/tiktok-search-results-misinformation-153031730.html?src=rss)
- - date published: 2022-09-14 15:30:31+00:00
- - user: None
- - tags: $tags
+## European Commission’s EU digital identity wallet pilot program proposed by six countries « Euro Weekly News
+ - [https://euroweeklynews.com/2022/09/14/eu-digital-identity-wallet/](https://euroweeklynews.com/2022/09/14/eu-digital-identity-wallet/)
+ - date published: 2022-09-14 15:26:50+00:00
+ - user: rumpel
+ - tags: ['tech control', 'digital identity']
 
 ## Ever wondered how a QR code works?
  - [https://typefully.com/DanHollick/qr-codes-T7tLlNi](https://typefully.com/DanHollick/qr-codes-T7tLlNi)
@@ -6322,12 +6166,6 @@
  - user: Thomas Pain
  - tags: ['data', 'selfhost', 'project']
 
-## China's Xi to meet Putin in first foreign trip since pandemic
- - [https://www.bbc.co.uk/news/world-asia-china-62885151?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-china-62885151?at_medium=RSS&at_campaign=KARANGA)
- - date published: 2022-09-13 23:35:15+00:00
- - user: None
- - tags: $tags
-
 ## Bill Gates concerned about maintaining focus on public health during economic downturn
  - [https://www.foxnews.com/health/bill-gates-concerned-maintaining-focus-public-health-economic-downturn](https://www.foxnews.com/health/bill-gates-concerned-maintaining-focus-public-health-economic-downturn)
  - date published: 2022-09-13 16:28:44+00:00
@@ -6350,7 +6188,7 @@
  - [https://www.theverge.com/2022/9/13/23349037/mark-bergen-youtube-creators-tiktok-algorithm](https://www.theverge.com/2022/9/13/23349037/mark-bergen-youtube-creators-tiktok-algorithm)
  - date published: 2022-09-13 15:54:59+00:00
  - user: None
- - tags: $tags
+ - tags: ['youtube']
 
 ## Twitter misleading the public, whistleblower says
  - [https://www.bbc.co.uk/news/technology-62889754?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-62889754?at_medium=RSS&at_campaign=KARANGA)
@@ -6434,7 +6272,7 @@
  - [https://www.thesunmagazine.org/issues/175/why-schools-dont-educate](https://www.thesunmagazine.org/issues/175/why-schools-dont-educate)
  - date published: 2022-09-12 18:31:19+00:00
  - user: None
- - tags: $tags
+ - tags: ['school', 'education']
 
 ## Leftist says wanting biological children with your partner is transphobic: 'It feeds into the stigma'
  - [https://www.louderwithcrowder.com/wanting-biological-children-is-transphobic](https://www.louderwithcrowder.com/wanting-biological-children-is-transphobic)
@@ -6514,12 +6352,6 @@
  - user: None
  - tags: ['climate change', 'electric vehicles']
 
-## Americans spend MORE money on taxes than on food, clothing and healthcare combined
- - [https://www.dailymail.co.uk/news/article-11200267/Americans-spend-money-taxes-food-clothing-healthcare-combined.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11200267/Americans-spend-money-taxes-food-clothing-healthcare-combined.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - date published: 2022-09-10 20:40:50+00:00
- - user: None
- - tags: $tags
-
 ## Cancer breakthrough is a ‘wake-up’ call on danger of air pollution
  - [https://www.theguardian.com/science/2022/sep/10/cancer-breakthrough-is-a-wake-up-call-on-danger-of-air-pollution](https://www.theguardian.com/science/2022/sep/10/cancer-breakthrough-is-a-wake-up-call-on-danger-of-air-pollution)
  - date published: 2022-09-10 16:12:36+00:00
@@ -6566,7 +6398,7 @@
  - [https://www.dailywire.com/news/why-is-legacy-media-so-boring-cnn-pushes-climate-change-blm-reparations-and-more-while-discussing-king-charles-iii](https://www.dailywire.com/news/why-is-legacy-media-so-boring-cnn-pushes-climate-change-blm-reparations-and-more-while-discussing-king-charles-iii)
  - date published: 2022-09-09 18:03:42+00:00
  - user: None
- - tags: $tags
+ - tags: ['legacy media', 'propaganda']
 
 ## Apple could lose billions after DOJ slaps Google with antitrust action
  - [https://www.androidauthority.com/google-doj-antitrust-action-3207188/](https://www.androidauthority.com/google-doj-antitrust-action-3207188/)
@@ -6626,7 +6458,7 @@
  - [https://www.wired.com/story/apple-passkeys-password-iphone-mac-ios16-ventura/](https://www.wired.com/story/apple-passkeys-password-iphone-mac-ios16-ventura/)
  - date published: 2022-09-09 03:43:38+00:00
  - user: None
- - tags: $tags
+ - tags: ['password']
 
 ## http://http://http://@http://http://?http://#http:// | daniel.haxx.se
  - [https://daniel.haxx.se/blog/2022/09/08/http-http-http-http-http-http-http/](https://daniel.haxx.se/blog/2022/09/08/http-http-http-http-http-http-http/)

@@ -706,6 +706,12 @@
  - user: Thomas Pain
  - tags: ['surveillance', 'chat control', 'privacy', 'government control']
 
+## Why Modern Movies Suck - They're Destroying Our Heroes
+ - [https://www.youtube.com/watch?v=qY-GLeHS0Ik](https://www.youtube.com/watch?v=qY-GLeHS0Ik)
+ - date published: 2021-11-23 00:00:00+00:00
+ - user: rumpel
+ - tags: ['movies', 'hollywood']
+
 ## Cis people benefit from gender-affirming healthcare, not just trans folk
  - [https://www.pinknews.co.uk/2021/11/19/gender-affirming-healthcare-cis-people-trans/](https://www.pinknews.co.uk/2021/11/19/gender-affirming-healthcare-cis-people-trans/)
  - date published: 2021-11-22 14:51:48.260654+00:00

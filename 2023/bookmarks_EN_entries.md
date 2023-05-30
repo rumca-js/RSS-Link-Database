@@ -1,3 +1,21 @@
+## Favoree - Discover quality channels from YouTube
+ - [https://www.favoree.io/](https://www.favoree.io/)
+ - date published: 2023-05-29 20:13:47+00:00
+ - user: rumpel
+ - tags: ['youtube']
+
+## AI Is About To Change The World Forever - And It Gives Me A Headache
+ - [https://www.youtube.com/watch?v=lHguKr6nS4Q](https://www.youtube.com/watch?v=lHguKr6nS4Q)
+ - date published: 2023-05-29 14:11:35+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
+
+## YouTube removed dislike counts, so this guy made Rotten Tomatoes for YouTube
+ - [https://bgr.com/tech/youtube-removed-dislike-counts-so-this-guy-made-rotten-tomatoes-for-youtube-videos/](https://bgr.com/tech/youtube-removed-dislike-counts-so-this-guy-made-rotten-tomatoes-for-youtube-videos/)
+ - date published: 2023-05-28 16:42:30+00:00
+ - user: rumpel
+ - tags: ['youtube', 'project']
+
 ## Private Spies Hired by FBI and Corporations Infiltrate Discord, Reddit, WhatsApp
  - [https://www.leefang.com/p/private-spies-hired-by-the-fbi-and](https://www.leefang.com/p/private-spies-hired-by-the-fbi-and)
  - date published: 2023-05-28 03:58:56+00:00
@@ -15,6 +33,12 @@
  - date published: 2023-05-26 01:43:22+00:00
  - user: rumpel
  - tags: ['climate change']
+
+## Neuralink: Elon Musk's brain chip firm says US approval won for human study
+ - [https://www.bbc.co.uk/news/health-65717487?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/health-65717487?at_medium=RSS&at_campaign=KARANGA)
+ - date published: 2023-05-26 01:38:44+00:00
+ - user: rumpel
+ - tags: ['neuralink']
 
 ## Aurora Store Accounts Blocked by Google
  - [https://gitlab.com/AuroraOSS/AuroraStore/-/issues/912](https://gitlab.com/AuroraOSS/AuroraStore/-/issues/912)
@@ -3927,12 +3951,6 @@
  - date published: 2023-01-14 05:01:00+00:00
  - user: rumpel
  - tags: ['big tech', 'privacy', 'technofeudalism']
-
-## Altin Gün @ Eurosonic 2021
- - [https://www.youtube.com/watch?v=wZwrp_DIru0](https://www.youtube.com/watch?v=wZwrp_DIru0)
- - date published: 2023-01-14 00:00:00+00:00
- - user: rumpel
- - tags: $tags
 
 ## Meta sues “scraping-for-hire” service that sells user data to law enforcement
  - [https://arstechnica.com/?p=1910046](https://arstechnica.com/?p=1910046)

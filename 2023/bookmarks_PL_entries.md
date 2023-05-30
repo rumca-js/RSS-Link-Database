@@ -1,3 +1,9 @@
+## Unia Europejska: Identyfikator cyfrowy dla wszystkich do 2030 roku
+ - [https://ithardware.pl/aktualnosci/unia_europejska_identyfikator_cyfrowy_dla_wszystkich_do_2030_roku-27516.html](https://ithardware.pl/aktualnosci/unia_europejska_identyfikator_cyfrowy_dla_wszystkich_do_2030_roku-27516.html)
+ - date published: 2023-05-29 07:45:40+00:00
+ - user: rumpel
+ - tags: ['tech control', 'digital identity']
+
 ## Polscy Sprawiedliwi wśród Narodów Świata – Wikipedia, wolna encyklopedia
  - [https://pl.wikipedia.org/wiki/Polscy_Sprawiedliwi_w%C5%9Br%C3%B3d_Narod%C3%B3w_%C5%9Awiata](https://pl.wikipedia.org/wiki/Polscy_Sprawiedliwi_w%C5%9Br%C3%B3d_Narod%C3%B3w_%C5%9Awiata)
  - date published: 2023-05-25 11:53:17+00:00

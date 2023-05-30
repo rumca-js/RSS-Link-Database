@@ -316,12 +316,6 @@
  - user: None
  - tags: $tags
 
-## Politico: USA przyspieszają rozmieszczenie zmodernizowanych bomb atomowych w Europie
- - [https://www.bankier.pl/wiadomosc/Politico-USA-przyspieszaja-rozmieszczenie-zmodernizowanych-bomb-atomowych-w-Europie-8429750.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Politico-USA-przyspieszaja-rozmieszczenie-zmodernizowanych-bomb-atomowych-w-Europie-8429750.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
- - date published: 2022-10-27 08:44:00+00:00
- - user: None
- - tags: $tags
-
 ## Służby biją na alarm. Strach przed planami Chin
  - [https://www.wykop.pl/link/6876677/sluzby-bija-na-alarm-strach-przed-planami-chin/](https://www.wykop.pl/link/6876677/sluzby-bija-na-alarm-strach-przed-planami-chin/)
  - date published: 2022-10-27 07:21:01+00:00
@@ -459,12 +453,6 @@
  - date published: 2022-10-18 12:21:00+00:00
  - user: rumpel
  - tags: ['demographics', 'russia']
-
-## Groźna moda na jedzenie muchomorów? Winni nieodpowiedzialni influencerzy
- - [https://www.bankier.pl/wiadomosc/Grozna-moda-na-jedzenie-muchomorow-Winni-nieodpowiedzialni-influencerzy-8423675.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Grozna-moda-na-jedzenie-muchomorow-Winni-nieodpowiedzialni-influencerzy-8423675.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
- - date published: 2022-10-16 07:03:00+00:00
- - user: None
- - tags: $tags
 
 ## Aktywistki oblały zupą słynne dzieło van Gogha
  - [https://wydarzenia.interia.pl/zagranica/news-aktywistki-oblaly-zupa-slynne-dzielo-van-gogha,nId,6347907](https://wydarzenia.interia.pl/zagranica/news-aktywistki-oblaly-zupa-slynne-dzielo-van-gogha,nId,6347907)
@@ -604,12 +592,6 @@
  - user: None
  - tags: ['religion', 'poland', 'catholic']
 
-## Niemcy i Hiszpania nie zważają na sprzeciw Francji. Zbudują rurociąg MidCat
- - [https://wydarzenia.interia.pl/zagranica/news-niemcy-i-hiszpania-nie-zwazaja-na-sprzeciw-francji-zbuduja-r,nId,6328837](https://wydarzenia.interia.pl/zagranica/news-niemcy-i-hiszpania-nie-zwazaja-na-sprzeciw-francji-zbuduja-r,nId,6328837)
- - date published: 2022-10-05 17:06:55+00:00
- - user: None
- - tags: $tags
-
 ## Wtedy po raz pierwszy nie stanął w prawdzie. Abp Jędraszewski a sprawa abp. Paetza
  - [https://wiez.pl/2022/10/05/jedraszewski-nie-stanal-w-prawdzie/](https://wiez.pl/2022/10/05/jedraszewski-nie-stanal-w-prawdzie/)
  - date published: 2022-10-05 15:35:05+00:00
@@ -663,12 +645,6 @@
  - date published: 2022-10-03 23:51:00+00:00
  - user: None
  - tags: ['england', 'immigration']
-
-## Sony zablokuje przejęcie Activision Blizzard? Szef PlayStation miał odwiedzić centralę UE
- - [https://ithardware.pl/aktualnosci/sony_zablokuje_przejecie_activision_blizzard_szef_playstation_mial_odwiedzic_centrale_ue-23657.html](https://ithardware.pl/aktualnosci/sony_zablokuje_przejecie_activision_blizzard_szef_playstation_mial_odwiedzic_centrale_ue-23657.html)
- - date published: 2022-10-03 19:30:00+00:00
- - user: None
- - tags: $tags
 
 ## Nie uciekniemy przed cyfrowym złotym. Banki już się przygotowują
  - [https://www.wnp.pl](https://www.wnp.pl)
@@ -844,23 +820,11 @@
  - user: None
  - tags: $tags
 
-## "Nie" dla mężczyzn jedzących mięso. PETA wzywa do strajku seksualnego
- - [https://wydarzenia.interia.pl/zagranica/news-nie-dla-mezczyzn-jedzacych-mieso-peta-wzywa-do-strajku-seksu,nId,6302073](https://wydarzenia.interia.pl/zagranica/news-nie-dla-mezczyzn-jedzacych-mieso-peta-wzywa-do-strajku-seksu,nId,6302073)
- - date published: 2022-09-22 17:36:08+00:00
- - user: None
- - tags: $tags
-
-## Miasta oszczędzają na oświetleniu ulic, w Śremie mieszkańcy domagają się włączenia światła
- - [https://epoznan.pl/news-news-132652-miasta_oszczedzaja_na_oswietleniu_ulic_w_sremie_mieszkancy_domagaja_sie_wlaczenia_swiatla?rss=1](https://epoznan.pl/news-news-132652-miasta_oszczedzaja_na_oswietleniu_ulic_w_sremie_mieszkancy_domagaja_sie_wlaczenia_swiatla?rss=1)
- - date published: 2022-09-22 05:30:00+00:00
- - user: None
- - tags: $tags
-
 ## Nowe technologie coraz mocniej wkraczają na rynek pracy. Kolejną rewolucję wywoła metawersum
  - [https://www.bankier.pl/wiadomosc/Nowe-technologie-coraz-mocniej-wkraczaja-na-rynek-pracy-Kolejna-rewolucje-wywola-metawersum-8409917.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Nowe-technologie-coraz-mocniej-wkraczaja-na-rynek-pracy-Kolejna-rewolucje-wywola-metawersum-8409917.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date published: 2022-09-22 05:25:00+00:00
  - user: None
- - tags: $tags
+ - tags: ['metaverse']
 
 ## USA przeznaczy prawie 700 000 dolarów na szukanie „ekstremizmu” w grach wideo
  - [https://ithardware.pl/aktualnosci/usa_przeznaczy_prawie_700_000_dolarow_na_szukanie_ekstremizmu_w_grach_wideo-23418.html](https://ithardware.pl/aktualnosci/usa_przeznaczy_prawie_700_000_dolarow_na_szukanie_ekstremizmu_w_grach_wideo-23418.html)
@@ -914,7 +878,7 @@
  - [https://www.wykop.pl/link/6821639/krystyna-janda-prosi-w-sieci-o-pieniadze-internet-zaplonal-wypomniano/](https://www.wykop.pl/link/6821639/krystyna-janda-prosi-w-sieci-o-pieniadze-internet-zaplonal-wypomniano/)
  - date published: 2022-09-17 22:29:01+00:00
  - user: None
- - tags: $tags
+ - tags: ['drama', 'krystyna janda']
 
 ## Tragiczne efekty inflacji w Turcji
  - [https://www.wykop.pl/link/6821711/tragiczne-efekty-inflacji-w-turcji/](https://www.wykop.pl/link/6821711/tragiczne-efekty-inflacji-w-turcji/)
@@ -940,11 +904,11 @@
  - user: None
  - tags: $tags
 
-## Szef BMW za utrzymaniem aut spalinowych, ale i rozwojem innych źródeł napędu
- - [https://www.wykop.pl/link/6819615/szef-bmw-za-utrzymaniem-aut-spalinowych-ale-i-rozwojem-innych-zrodel-napedu/](https://www.wykop.pl/link/6819615/szef-bmw-za-utrzymaniem-aut-spalinowych-ale-i-rozwojem-innych-zrodel-napedu/)
- - date published: 2022-09-16 10:18:01+00:00
- - user: None
- - tags: $tags
+## Za szybkie przejście na prąd to nic dobrego – twierdzi szef BMW - Magazyn Auto
+ - [https://magazynauto.pl/wiadomosci/zbyt-szybkie-przejscie-na-elekromobilnosc-nie-bedzie-niczym-dobrym-twierdzi-szef-bmw,aid,2449](https://magazynauto.pl/wiadomosci/zbyt-szybkie-przejscie-na-elekromobilnosc-nie-bedzie-niczym-dobrym-twierdzi-szef-bmw,aid,2449)
+ - date published: 2022-09-16 20:24:29+00:00
+ - user: rumpel
+ - tags: ['climate change', 'electric vehicles']
 
 ## Afera respiratorowa. Brak chętnych na zakup sprzętu
  - [https://www.bankier.pl/wiadomosc/Afera-respiratorowa-Brak-chetnych-na-zakup-sprzetu-8406671.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Afera-respiratorowa-Brak-chetnych-na-zakup-sprzetu-8406671.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -1023,12 +987,6 @@
  - date published: 2022-09-10 21:02:01+00:00
  - user: None
  - tags: ['usa', 'china', 'tradewar']
-
-## "Trwa totalna wojna światowa". Dosadne słowa papieża Franciszka
- - [https://wydarzenia.interia.pl/zagranica/news-trwa-totalna-wojna-swiatowa-dosadne-slowa-papieza-franciszka,nId,6277224](https://wydarzenia.interia.pl/zagranica/news-trwa-totalna-wojna-swiatowa-dosadne-slowa-papieza-franciszka,nId,6277224)
- - date published: 2022-09-10 11:32:44+00:00
- - user: None
- - tags: $tags
 
 ## Netflix ma zaprzestać nieprzyzwoitych treści LGBT m.in. w materiałach dla dzieci
  - [https://ithardware.pl/aktualnosci/netflix_ma_zaprzestac_nieprzyzwoitych_tresci_lgbt_m_in_w_materialach_dla_dzieci-23202.html](https://ithardware.pl/aktualnosci/netflix_ma_zaprzestac_nieprzyzwoitych_tresci_lgbt_m_in_w_materialach_dla_dzieci-23202.html)
