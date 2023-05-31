@@ -1,3 +1,9 @@
+## Twitter's Algorithm: Amplifying Anger, Animosity, and Affective Polarization
+ - [https://arxiv.org/abs/2305.16941](https://arxiv.org/abs/2305.16941)
+ - date published: 2023-05-30 07:18:14+00:00
+ - user: rumpel
+ - tags: ['social media', 'polarization']
+
 ## Favoree - Discover quality channels from YouTube
  - [https://www.favoree.io/](https://www.favoree.io/)
  - date published: 2023-05-29 20:13:47+00:00
@@ -10,11 +16,23 @@
  - user: rumpel
  - tags: ['artificial intelligence']
 
+## ‘The Little Mermaid’ Already in Danger of Sinking at the Overseas Box Office
+ - [https://wegotthiscovered.com/movies/the-little-mermaid-in-danger-of-sinking-at-the-overseas-box-office-and-theres-no-prizes-for-guessing-why/](https://wegotthiscovered.com/movies/the-little-mermaid-in-danger-of-sinking-at-the-overseas-box-office-and-theres-no-prizes-for-guessing-why/)
+ - date published: 2023-05-29 13:00:19+00:00
+ - user: rumpel
+ - tags: ['go woke go broke', 'movies', 'censorship', 'disney']
+
 ## YouTube removed dislike counts, so this guy made Rotten Tomatoes for YouTube
  - [https://bgr.com/tech/youtube-removed-dislike-counts-so-this-guy-made-rotten-tomatoes-for-youtube-videos/](https://bgr.com/tech/youtube-removed-dislike-counts-so-this-guy-made-rotten-tomatoes-for-youtube-videos/)
  - date published: 2023-05-28 16:42:30+00:00
  - user: rumpel
  - tags: ['youtube', 'project']
+
+## Near the Western Wall, Jewish radicals shout at Christian Evangelicals to 'go home' | The Times of Israel
+ - [https://www.timesofisrael.com/near-the-western-wall-jewish-radicals-shout-at-christian-evangelicals-to-go-home/](https://www.timesofisrael.com/near-the-western-wall-jewish-radicals-shout-at-christian-evangelicals-to-go-home/)
+ - date published: 2023-05-28 13:18:24+00:00
+ - user: rumpel
+ - tags: ['christianophobia', 'israel']
 
 ## Private Spies Hired by FBI and Corporations Infiltrate Discord, Reddit, WhatsApp
  - [https://www.leefang.com/p/private-spies-hired-by-the-fbi-and](https://www.leefang.com/p/private-spies-hired-by-the-fbi-and)
@@ -27,6 +45,24 @@
  - date published: 2023-05-27 22:20:53+00:00
  - user: rumpel
  - tags: ['google', 'app store', 'aurora', 'technofeudalism']
+
+## Police Looking for Suspect After Calgary Church Set on Fire
+ - [https://www.theepochtimes.com/police-on-the-hunt-for-suspect-after-calgary-church-set-on-fire_5295769.html](https://www.theepochtimes.com/police-on-the-hunt-for-suspect-after-calgary-church-set-on-fire_5295769.html)
+ - date published: 2023-05-27 16:38:26+00:00
+ - user: rumpel
+ - tags: ['christianophobia', 'canada']
+
+## Lululemon employees reportedly fired for calling 911 during robbery
+ - [https://nypost.com/2023/05/27/lululemon-employees-reportedly-fired-for-calling-911-during-robbery/](https://nypost.com/2023/05/27/lululemon-employees-reportedly-fired-for-calling-911-during-robbery/)
+ - date published: 2023-05-27 07:40:42+00:00
+ - user: rumpel
+ - tags: ['racism']
+
+## ‘Massive’ Tesla data leak reveals thousands of alleged safety complaints
+ - [https://www.theguardian.com/technology/2023/may/26/tesla-data-leak-customers-employees-safety-complaints](https://www.theguardian.com/technology/2023/may/26/tesla-data-leak-customers-employees-safety-complaints)
+ - date published: 2023-05-26 22:08:13+00:00
+ - user: rumpel
+ - tags: ['electric vehicles', 'tesla', 'data leak', 'climate change']
 
 ## Amazon Backs Out of Climate Pledge, Deletes Shipment Zero Initiative Blogpost
  - [https://www.businessinsider.com/amazon-shipment-zero-gives-up-most-important-part-climate-pledge-2023-5](https://www.businessinsider.com/amazon-shipment-zero-gives-up-most-important-part-climate-pledge-2023-5)
@@ -52,6 +88,12 @@
  - user: rumpel
  - tags: ['israel', 'poland', 'holocaust']
 
+## Two Men Charged After Catholic Church in Northern Alberta Gutted by Arson
+ - [https://www.theepochtimes.com/two-men-charged-after-catholic-church-in-northern-alberta-gutted-by-arson_5290005.html](https://www.theepochtimes.com/two-men-charged-after-catholic-church-in-northern-alberta-gutted-by-arson_5290005.html)
+ - date published: 2023-05-25 02:11:10+00:00
+ - user: rumpel
+ - tags: ['christianophobia', 'canada']
+
 ## The QR-code menu is being shown the door
  - [https://www.nytimes.com/2023/05/22/dining/restaurant-qr-code-menu.html](https://www.nytimes.com/2023/05/22/dining/restaurant-qr-code-menu.html)
  - date published: 2023-05-25 00:17:14+00:00
@@ -63,6 +105,12 @@
  - date published: 2023-05-24 19:53:44+00:00
  - user: rumpel
  - tags: ['woke', 'lgbt', 'pride', 'the left wing', 'indoctrination']
+
+## The Little Mermaid’s Rotten Tomatoes Is A Hilarious Reality Check For Disney’s Remakes
+ - [https://screenrant.com/little-mermaid-2023-rotten-tomatoes-score-disney-remakes/](https://screenrant.com/little-mermaid-2023-rotten-tomatoes-score-disney-remakes/)
+ - date published: 2023-05-24 13:00:19+00:00
+ - user: rumpel
+ - tags: ['go woke go broke', 'movies', 'disney']
 
 ## Crypto Wars - Wikipedia
  - [https://en.wikipedia.org/wiki/Crypto_Wars](https://en.wikipedia.org/wiki/Crypto_Wars)
@@ -81,6 +129,12 @@
  - date published: 2023-05-24 02:00:07+00:00
  - user: rumpel
  - tags: ['movies', 'funny']
+
+## Illinois probe reveals rampant sexual abuse in Catholic Church
+ - [https://www.aljazeera.com/news/2023/5/24/illinois-probe-reveals-rampant-sexual-abuse-in-catholic-church](https://www.aljazeera.com/news/2023/5/24/illinois-probe-reveals-rampant-sexual-abuse-in-catholic-church)
+ - date published: 2023-05-24 01:02:08+00:00
+ - user: rumpel
+ - tags: ['church scandal', 'religion', 'catholic']
 
 ## ‘A Dangerous Path’: Christian Banned From Teaching After ‘Misgendering’ Student
  - [https://www.dailywire.com/news/a-dangerous-path-christian-banned-from-teaching-after-misgendering-student](https://www.dailywire.com/news/a-dangerous-path-christian-banned-from-teaching-after-misgendering-student)
@@ -447,6 +501,12 @@
  - date published: 2023-05-09 12:15:07+00:00
  - user: rumpel
  - tags: ['uroboros', 'malware', 'snake malware']
+
+## Ranking by Engagement — Integrity Institute
+ - [https://integrityinstitute.org/blog/ranking-by-engagement](https://integrityinstitute.org/blog/ranking-by-engagement)
+ - date published: 2023-05-08 13:45:59+00:00
+ - user: rumpel
+ - tags: ['social media', 'polarization']
 
 ## Google is increasing the number of ads in Gmail, showing them in the middle of inboxes | TechSpot
  - [https://www.techspot.com/news/98598-google-increasing-number-ads-gmail-showing-them-middle.html](https://www.techspot.com/news/98598-google-increasing-number-ads-gmail-showing-them-middle.html)
@@ -1281,6 +1341,12 @@
  - date published: 2023-04-12 13:20:12+00:00
  - user: rumpel
  - tags: ['christianophobia']
+
+## Church: Israel limiting rights of 'Holy Fire' worshippers
+ - [https://www.washingtonpost.com/world/2023/04/12/israel-greek-church-restrictions-holy-fire/b4340382-d92d-11ed-aebd-3fd2ac4c460a_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_world](https://www.washingtonpost.com/world/2023/04/12/israel-greek-church-restrictions-holy-fire/b4340382-d92d-11ed-aebd-3fd2ac4c460a_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_world)
+ - date published: 2023-04-12 09:04:56+00:00
+ - user: rumpel
+ - tags: ['christianophobia', 'israel']
 
 ## TRADING WITH THE ENEMY - Seymour Hersh
  - [https://seymourhersh.substack.com/p/trading-with-the-enemy](https://seymourhersh.substack.com/p/trading-with-the-enemy)
@@ -4017,6 +4083,12 @@
  - date published: 2023-01-13 14:35:11+00:00
  - user: rumpel
  - tags: ['internet', 'internet archive']
+
+## Jerusalem Christians on edge after 'Death to Christians' scrawled on Old City walls | All Israel News
+ - [https://allisrael.com/jerusalem-christians-on-edge-after-death-to-christians-arabs-armenians-scrawled-on-old-city-walls](https://allisrael.com/jerusalem-christians-on-edge-after-death-to-christians-arabs-armenians-scrawled-on-old-city-walls)
+ - date published: 2023-01-13 13:17:48+00:00
+ - user: rumpel
+ - tags: ['christianophobia', 'israel']
 
 ## The Satanic Temple - Wikipedia
  - [https://en.wikipedia.org/wiki/The_Satanic_Temple](https://en.wikipedia.org/wiki/The_Satanic_Temple)

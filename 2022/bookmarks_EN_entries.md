@@ -932,7 +932,7 @@
  - [https://www.foxnews.com/us/elon-musk-suspending-cnn-nyt-journalists-twitter-users-decrying-double-standard-no-shame](https://www.foxnews.com/us/elon-musk-suspending-cnn-nyt-journalists-twitter-users-decrying-double-standard-no-shame)
  - date published: 2022-12-16 06:27:43+00:00
  - user: None
- - tags: $tags
+ - tags: ['elon musk', 'hypocrisy']
 
 ## New web tracking technique is bypassing privacy protections
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59839](https://www.codeproject.com/script/News/View.aspx?nwid=59839)

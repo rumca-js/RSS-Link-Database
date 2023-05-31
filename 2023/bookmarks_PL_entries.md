@@ -4,6 +4,18 @@
  - user: rumpel
  - tags: ['tech control', 'digital identity']
 
+## Kilka milionów loginów i haseł z Polski wyciekło do sieci | Zaufana Trzecia Strona
+ - [https://zaufanatrzeciastrona.pl/post/kilka-milionow-loginow-i-hasel-z-polski-wycieklo-do-sieci/](https://zaufanatrzeciastrona.pl/post/kilka-milionow-loginow-i-hasel-z-polski-wycieklo-do-sieci/)
+ - date published: 2023-05-29 07:38:47+00:00
+ - user: rumpel
+ - tags: ['data leak']
+
+## Tesla ma problem. Pracownik ujawnił tysiące skarg na auta elektryczne - Instalki.pl
+ - [https://www.instalki.pl/aktualnosci/technika/59356-tesla-wyciek-100-gb-skargi-handelsblatt.html](https://www.instalki.pl/aktualnosci/technika/59356-tesla-wyciek-100-gb-skargi-handelsblatt.html)
+ - date published: 2023-05-29 07:27:02.626362+00:00
+ - user: rumpel
+ - tags: ['electric vehicles', 'climate change']
+
 ## Polscy Sprawiedliwi wśród Narodów Świata – Wikipedia, wolna encyklopedia
  - [https://pl.wikipedia.org/wiki/Polscy_Sprawiedliwi_w%C5%9Br%C3%B3d_Narod%C3%B3w_%C5%9Awiata](https://pl.wikipedia.org/wiki/Polscy_Sprawiedliwi_w%C5%9Br%C3%B3d_Narod%C3%B3w_%C5%9Awiata)
  - date published: 2023-05-25 11:53:17+00:00
