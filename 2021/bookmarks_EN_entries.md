@@ -4,6 +4,12 @@
  - user: Thomas Pain
  - tags: ['python', 'programming']
 
+## Log4j – Apache Log4j Security Vulnerabilities
+ - [https://logging.apache.org/log4j/2.x/security.html](https://logging.apache.org/log4j/2.x/security.html)
+ - date published: 2021-12-31 12:23:16+00:00
+ - user: rumpel
+ - tags: ['log4j', 'vulnerability']
+
 ## University loses 77TB of research data due to backup error
  - [https://www.bleepingcomputer.com/news/security/university-loses-77tb-of-research-data-due-to-backup-error/](https://www.bleepingcomputer.com/news/security/university-loses-77tb-of-research-data-due-to-backup-error/)
  - date published: 2021-12-31 10:40:58.742282+00:00
@@ -1688,7 +1694,7 @@
  - [https://medium.com/@sixacegames/how-google-destroyed-our-startup-by-terminating-our-google-play-developer-account-6a8cca09ea88](https://medium.com/@sixacegames/how-google-destroyed-our-startup-by-terminating-our-google-play-developer-account-6a8cca09ea88)
  - date published: 2021-10-03 07:23:38.905114+00:00
  - user: Thomas Pain
- - tags: $tags
+ - tags: ['google', 'technofeudalism']
 
 ## A Conspiracy To Kill IE6
  - [https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6](https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6)
@@ -3062,7 +3068,7 @@
  - [https://www.theguardian.com/world/2021/jul/18/revealed-leak-uncovers-global-abuse-of-cyber-surveillance-weapon-nso-group-pegasus](https://www.theguardian.com/world/2021/jul/18/revealed-leak-uncovers-global-abuse-of-cyber-surveillance-weapon-nso-group-pegasus)
  - date published: 2021-07-18 21:55:29.750497+00:00
  - user: Thomas Pain
- - tags: ['pegasus', 'surveillance', 'big brother', 'israel', 'privacy']
+ - tags: ['pegasus', 'big brother', 'spyware', 'privacy', 'surveillance', 'israel']
 
 ## Inserting One Billion Rows in SQLite Under A Minute - blag
  - [https://avi.im/blag/2021/fast-sqlite-inserts/](https://avi.im/blag/2021/fast-sqlite-inserts/)
@@ -3326,7 +3332,7 @@
  - [https://news.ycombinator.com/item?id=27814080](https://news.ycombinator.com/item?id=27814080)
  - date published: 2021-07-13 22:25:42.431079+00:00
  - user: Thomas Pain
- - tags: $tags
+ - tags: ['project', 'selfhost']
 
 ## One Database Transaction Too Many | Haki Benita
  - [https://hakibenita.com/django-nested-transaction](https://hakibenita.com/django-nested-transaction)
@@ -3338,7 +3344,7 @@
  - [https://www.thedrive.com/news/41493/teslas-16000-quote-for-a-700-fix-is-why-right-to-repair-matters](https://www.thedrive.com/news/41493/teslas-16000-quote-for-a-700-fix-is-why-right-to-repair-matters)
  - date published: 2021-07-13 22:14:18.423350+00:00
  - user: Thomas Pain
- - tags: $tags
+ - tags: ['right to repair', 'tesla']
 
 ## Critics slam Biden administration's reported plan to monitor vaccine misinformation in text messages | Fox News
  - [https://www.foxnews.com/media/biden-slammed-plans-monitor-text-messages-vaccine-misinformation](https://www.foxnews.com/media/biden-slammed-plans-monitor-text-messages-vaccine-misinformation)
@@ -3440,7 +3446,7 @@
  - [https://forum.agoraroad.com/index.php?threads/corporations-are-the-reason-why-we-have-a-alt-right-alt-left-war.3387/](https://forum.agoraroad.com/index.php?threads/corporations-are-the-reason-why-we-have-a-alt-right-alt-left-war.3387/)
  - date published: 2021-06-26 12:04:49+00:00
  - user: None
- - tags: $tags
+ - tags: ['social media', 'polarization']
 
 ## What Started the Cultural Fixation on Gender?
  - [https://www.youtube.com/watch?v=OHE442ISkUU](https://www.youtube.com/watch?v=OHE442ISkUU)
@@ -3512,7 +3518,7 @@
  - [https://www.fiercebiotech.com/biotech/six-months-after-granting-moderna-covid-19-eua-ex-fda-commish-joins-biotech-s-founding](https://www.fiercebiotech.com/biotech/six-months-after-granting-moderna-covid-19-eua-ex-fda-commish-joins-biotech-s-founding)
  - date published: 2021-06-14 06:58:41+00:00
  - user: None
- - tags: $tags
+ - tags: ['vaccine', 'manufacturing consent', 'moderna']
 
 ## Society is Artificial Due to Feedback Loops Created by Unwitting Marketers
  - [https://forum.agoraroad.com/index.php?threads/society-is-artificial-due-to-feedback-loops-created-by-unwitting-marketers.3342/](https://forum.agoraroad.com/index.php?threads/society-is-artificial-due-to-feedback-loops-created-by-unwitting-marketers.3342/)
@@ -3728,7 +3734,7 @@
  - [https://humansbefree.com/2021/05/bill-gates-and-jeffrey-epstein-traded-advice-on-bills-toxic-marriage-jeffs-pedo-image-rehab-during-secretive-mens-club-gatherings.html](https://humansbefree.com/2021/05/bill-gates-and-jeffrey-epstein-traded-advice-on-bills-toxic-marriage-jeffs-pedo-image-rehab-during-secretive-mens-club-gatherings.html)
  - date published: 2021-05-17 10:23:41+00:00
  - user: rumpel
- - tags: $tags
+ - tags: ['bill gates', 'jeffrey epstein']
 
 ## Huge Eufy privacy breach shows live and recorded cam feeds to strangers [U: Statement]
  - [https://9to5mac.com/2021/05/17/huge-eufy-privacy-breach/](https://9to5mac.com/2021/05/17/huge-eufy-privacy-breach/)
@@ -4051,8 +4057,8 @@
 ## YouTube Channel Deletion
  - [https://lukesmith.xyz/updates/deletion/](https://lukesmith.xyz/updates/deletion/)
  - date published: 2021-03-26 00:00:00+00:00
- - user: None
- - tags: $tags
+ - user: rumpel
+ - tags: ['technofeudalism', 'censorship']
 
 ## Kamala Harris and Bill Clinton touting girls' empowerment together is a bad joke
  - [https://www.nbcnews.com/think/opinion/kamala-harris-bill-clinton-touting-girls-empowerment-together-bad-joke-ncna1261977](https://www.nbcnews.com/think/opinion/kamala-harris-bill-clinton-touting-girls-empowerment-together-bad-joke-ncna1261977)

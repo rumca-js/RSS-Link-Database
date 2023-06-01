@@ -202,7 +202,7 @@
  - [https://konkret24.tvn24.pl/polityka/inwigilacja-pegasusem-pis-jest-kontrola-sadu-tlumaczymy-dlaczego-to-iluzja-6805222](https://konkret24.tvn24.pl/polityka/inwigilacja-pegasusem-pis-jest-kontrola-sadu-tlumaczymy-dlaczego-to-iluzja-6805222)
  - date published: 2023-03-08 06:58:37+00:00
  - user: rumpel
- - tags: ['big brother', 'surveillance', 'privacy', 'pegasus']
+ - tags: ['pegasus', 'big brother', 'spyware', 'privacy', 'surveillance']
 
 ## Od aplikacji mObywatel, do Tożsamości Suwerennej. Jak to wpłynie na nasze życie?
  - [https://www.youtube.com/watch?v=2L2Hr2QOOJk](https://www.youtube.com/watch?v=2L2Hr2QOOJk)

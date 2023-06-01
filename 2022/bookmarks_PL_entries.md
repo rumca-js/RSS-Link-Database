@@ -16,12 +16,6 @@
  - user: rumpel
  - tags: ['amazon', 'allegro', 'monopoly']
 
-## Największe holenderskie banki wprowadziły opłaty na pokrycie kosztów kontroli prania pieniędzy
- - [https://forsal.pl/biznes/bankowosc/artykuly/8618385,holandia-banki-oplaty-kontrola-prania-pieniedzy.html](https://forsal.pl/biznes/bankowosc/artykuly/8618385,holandia-banki-oplaty-kontrola-prania-pieniedzy.html)
- - date published: 2022-12-27 10:26:07+00:00
- - user: rumpel
- - tags: $tags
-
 ## Śmierć prasy coraz bliżej. "Tego trendu nie da się już odwrócić"
  - [https://www.bankier.pl/wiadomosc/Smierc-prasy-coraz-blizej-Tego-trendu-nie-da-sie-juz-odwrocic-8462789.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Smierc-prasy-coraz-blizej-Tego-trendu-nie-da-sie-juz-odwrocic-8462789.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date published: 2022-12-27 10:15:00+00:00
@@ -62,7 +56,7 @@
  - [https://pl.m.wikipedia.org/wiki/Klatka_Skinnera](https://pl.m.wikipedia.org/wiki/Klatka_Skinnera)
  - date published: 2022-12-21 18:57:21+00:00
  - user: None
- - tags: ['social media', 'science', 'propaganda']
+ - tags: ['science', 'skinner box', 'social media', 'propaganda']
 
 ## Okno Overtona
  - [https://pl.m.wikipedia.org/wiki/Okno_Overtona](https://pl.m.wikipedia.org/wiki/Okno_Overtona)
@@ -232,12 +226,6 @@
  - user: None
  - tags: ['car sharing', 'technofeudalism', 'subscription']
 
-## Wielu pracowników obawia się postępującej robotyzacji. Eksperci uspokajają i wymieniają korzyści
- - [https://www.bankier.pl/wiadomosc/Wielu-pracownikow-obawia-sie-postepujacej-robotyzacji-Eksperci-uspokajaja-i-wymieniaja-korzysci-8432290.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Wielu-pracownikow-obawia-sie-postepujacej-robotyzacji-Eksperci-uspokajaja-i-wymieniaja-korzysci-8432290.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
- - date published: 2022-11-02 05:25:00+00:00
- - user: None
- - tags: $tags
-
 ## Pekin umacnia wpływy w Niemczech. "Bild" wymienił lobbujących polityków
  - [https://wydarzenia.interia.pl/zagranica/news-pekin-umacnia-wplywy-w-niemczech-bild-wymienil-lobbujacych-p,nId,6385264](https://wydarzenia.interia.pl/zagranica/news-pekin-umacnia-wplywy-w-niemczech-bild-wymienil-lobbujacych-p,nId,6385264)
  - date published: 2022-11-02 05:20:38+00:00
@@ -308,7 +296,7 @@
  - [https://www.bankier.pl/wiadomosc/Chiny-przejmuja-niemieckie-firmy-Glownie-technologiczne-Bild-Scholz-to-lobbysta-Pekinu-8431108.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Chiny-przejmuja-niemieckie-firmy-Glownie-technologiczne-Bild-Scholz-to-lobbysta-Pekinu-8431108.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date published: 2022-10-29 05:52:00+00:00
  - user: None
- - tags: $tags
+ - tags: ['china', 'espionage']
 
 ## Pełna cyfryzacja recept staje się faktem. Dane nie pozostawiają wątpliwości
  - [https://www.bankier.pl/wiadomosc/Pelna-cyfryzacja-recept-staje-sie-faktem-Dane-nie-pozostawiaja-watpliwosci-8429787.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Pelna-cyfryzacja-recept-staje-sie-faktem-Dane-nie-pozostawiaja-watpliwosci-8429787.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -380,7 +368,7 @@
  - [https://www.wykop.pl/link/6873285/polityczna-organizacja-trumpa-wydaje-91-zebranych-pieniedzy-na-koszty-wlasne/](https://www.wykop.pl/link/6873285/polityczna-organizacja-trumpa-wydaje-91-zebranych-pieniedzy-na-koszty-wlasne/)
  - date published: 2022-10-24 14:19:01+00:00
  - user: None
- - tags: $tags
+ - tags: ['donald trump', 'the right wing']
 
 ## Smartfony mogą pokazać, kiedy umrzemy. Najnowsze badania naukowców
  - [https://wydarzenia.interia.pl/zagranica/news-smartfony-moga-pokazac-kiedy-umrzemy-najnowsze-badania-nauko,nId,6367662](https://wydarzenia.interia.pl/zagranica/news-smartfony-moga-pokazac-kiedy-umrzemy-najnowsze-badania-nauko,nId,6367662)
@@ -440,7 +428,7 @@
  - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-media-putin-wprowadza-stan-wojenny-w-anektowanych-obwodach,nId,6357629](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-media-putin-wprowadza-stan-wojenny-w-anektowanych-obwodach,nId,6357629)
  - date published: 2022-10-19 12:01:53+00:00
  - user: None
- - tags: $tags
+ - tags: ['russia']
 
 ## Polityka „zero covid” hamuje chińską gospodarkę, ale ma być utrzymana
  - [https://www.bankier.pl/wiadomosc/Polityka-zero-covid-hamuje-chinska-gospodarke-ale-ma-byc-utrzymana-8425179.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Polityka-zero-covid-hamuje-chinska-gospodarke-ale-ma-byc-utrzymana-8425179.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -650,7 +638,7 @@
  - [https://www.wnp.pl](https://www.wnp.pl)
  - date published: 2022-10-03 14:39:08+00:00
  - user: None
- - tags: $tags
+ - tags: ['poland', 'cbdc']
 
 ## Tak galopuje inflacja w Turcji. Erdogan dolewa oliwy do ognia
  - [https://www.bankier.pl/wiadomosc/Tak-galopuje-inflacja-w-Turcji-Erdogan-dolewa-oliwy-do-ognia-8416049.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Tak-galopuje-inflacja-w-Turcji-Erdogan-dolewa-oliwy-do-ognia-8416049.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -700,12 +688,6 @@
  - user: None
  - tags: ['bruce willis', 'deep fakes']
 
-## "Łukaszenka szykuje się do wojny". Na Białoruś przyjedzie 120 tys. rosyjskich żołnierzy
- - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-lukaszenka-szykuje-sie-do-wojny-na-bialorus-przyjedzie-120-t,nId,6316391](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-lukaszenka-szykuje-sie-do-wojny-na-bialorus-przyjedzie-120-t,nId,6316391)
- - date published: 2022-09-29 16:41:17+00:00
- - user: None
- - tags: $tags
-
 ## Łódź. Są nowe dane - uczniowie masowo rezygnują z lekcji religii. "Nie wiemy dlaczego"
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28965332,lodz-sa-nowe-dane-uczniowie-masowo-rezygnuja-z-lekcji-religii.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28965332,lodz-sa-nowe-dane-uczniowie-masowo-rezygnuja-z-lekcji-religii.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
  - date published: 2022-09-29 04:00:00+00:00
@@ -742,23 +724,11 @@
  - user: None
  - tags: ['climate change', 'germany']
 
-## Coraz więcej Polaków ma konto w kilku bankach. Klienci szukają okazyjnych lokat
- - [https://www.bankier.pl/wiadomosc/Coraz-wiecej-Polakow-ma-konto-w-kilku-bankach-Klienci-szukaja-okazyjnych-lokat-8412434.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Coraz-wiecej-Polakow-ma-konto-w-kilku-bankach-Klienci-szukaja-okazyjnych-lokat-8412434.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
- - date published: 2022-09-27 12:00:00+00:00
- - user: None
- - tags: $tags
-
 ## W Poznaniu odbędzie się seks festiwal. W programie &quot;Dlaczego warto oglądać porno?&quot; i &quot;Przyszłość sex-zabawek jest niebinarna&quot;
  - [https://epoznan.pl/news-news-132809-w_poznaniu_odbedzie_sie_seks_festiwal_w_programie_dlaczego_warto_ogladac_porno_i_przyszlosc_sex_zabawek_jest_niebinarna?rss=1](https://epoznan.pl/news-news-132809-w_poznaniu_odbedzie_sie_seks_festiwal_w_programie_dlaczego_warto_ogladac_porno_i_przyszlosc_sex_zabawek_jest_niebinarna?rss=1)
  - date published: 2022-09-27 06:05:00+00:00
  - user: None
  - tags: ['the left wing', 'indoctrination', 'propaganda']
-
-## Szok brytyjski. Złośliwi przezwali Wielką Brytanię „rynkiem tonącym”
- - [https://www.bankier.pl/wiadomosc/Wielka-Brytania-rynek-tonacy-8412259.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Wielka-Brytania-rynek-tonacy-8412259.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
- - date published: 2022-09-27 05:30:00+00:00
- - user: None
- - tags: $tags
 
 ## Czy na świecie i w Polsce możliwa jest ekonomia umiaru?
  - [https://www.bankier.pl/wiadomosc/Czy-na-swiecie-i-w-Polsce-mozliwa-jest-ekonomia-umiaru-8411836.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Czy-na-swiecie-i-w-Polsce-mozliwa-jest-ekonomia-umiaru-8411836.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -776,7 +746,7 @@
  - [https://www.polsatnews.pl/wiadomosc/2022-09-26/usa-tlum-mlodych-osob-zdemolowal-sklep/](https://www.polsatnews.pl/wiadomosc/2022-09-26/usa-tlum-mlodych-osob-zdemolowal-sklep/)
  - date published: 2022-09-26 08:52:00+00:00
  - user: None
- - tags: $tags
+ - tags: ['usa', 'america', 'black lives matter']
 
 ## Praca zdalna w Belgii coraz popularniejsza. Liczba osób wykonujących telepracę podwoiła się od 2018 roku
  - [https://www.bankier.pl/wiadomosc/Praca-zdalna-w-Belgii-coraz-popularniejsza-Liczba-osob-wykonujacych-teleprace-podwoila-sie-od-2018-roku-8408380.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Praca-zdalna-w-Belgii-coraz-popularniejsza-Liczba-osob-wykonujacych-teleprace-podwoila-sie-od-2018-roku-8408380.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -842,7 +812,7 @@
  - [https://www.rp.pl/polityka/art37096721-europejska-komisja-oskarza-pis-inwigilacja-brejzy-pegasusem-kosztowala-20-mln-zl](https://www.rp.pl/polityka/art37096721-europejska-komisja-oskarza-pis-inwigilacja-brejzy-pegasusem-kosztowala-20-mln-zl)
  - date published: 2022-09-21 06:57:44+00:00
  - user: rumpel
- - tags: ['big brother', 'surveillance', 'privacy', 'pegasus']
+ - tags: ['pegasus', 'big brother', 'spyware', 'privacy', 'surveillance']
 
 ## Prof. Bralczyk broni „Murzyna”. TikTok usuwa jego wypowiedź - TrueStory
  - [https://truestory.pl/prof-bralczyk-broni-murzyna-tiktok-usuwa-jego-wypowiedz/](https://truestory.pl/prof-bralczyk-broni-murzyna-tiktok-usuwa-jego-wypowiedz/)
@@ -1064,7 +1034,7 @@
  - [https://www.bankier.pl/wiadomosc/Koronawirus-skrocil-srednia-dlugosc-zycia-Amerykanow-To-najwiekszy-spadek-od-niemal-100-lat-8398555.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Koronawirus-skrocil-srednia-dlugosc-zycia-Amerykanow-To-najwiekszy-spadek-od-niemal-100-lat-8398555.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date published: 2022-09-04 11:00:00+00:00
  - user: None
- - tags: $tags
+ - tags: ['america', 'covid']
 
 ## Marsze Równości przeszły ulicami Katowic i Lublina. "Chyba zwiększyła się akceptacja"
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28866113,marsze-rownosci-przeszly-ulicami-katowic-i-lublina-chyba-zwiekszyla.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28866113,marsze-rownosci-przeszly-ulicami-katowic-i-lublina-chyba-zwiekszyla.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
@@ -1076,7 +1046,7 @@
  - [https://www.wykop.pl/link/6802813/sondaz-36-niemcow-uwaza-ze-izrael-traktuje-palestynczykow-jak-nazisci-zydow/](https://www.wykop.pl/link/6802813/sondaz-36-niemcow-uwaza-ze-izrael-traktuje-palestynczykow-jak-nazisci-zydow/)
  - date published: 2022-09-03 20:21:01+00:00
  - user: None
- - tags: $tags
+ - tags: ['israel', 'palestine']
 
 ## Ogromne protesty w centrum Pragi – nawet 100 tys. osób wyszło na ulicę
  - [https://www.wykop.pl/link/6803083/ogromne-protesty-w-centrum-pragi-nawet-100-tys-osob-wyszlo-na-ulice/](https://www.wykop.pl/link/6803083/ogromne-protesty-w-centrum-pragi-nawet-100-tys-osob-wyszlo-na-ulice/)
@@ -1154,7 +1124,7 @@
  - [https://antyweb.pl/amazon-ring-inteligentny-dzwonek](https://antyweb.pl/amazon-ring-inteligentny-dzwonek)
  - date published: 2022-08-24 12:04:49.806768+00:00
  - user: None
- - tags: $tags
+ - tags: ['technofeudalism', 'anonymity', 'privacy']
 
 ## Oracle pozwane za gromadzenie i sprzedaż danych osobowych miliardów osób
  - [https://ithardware.pl/aktualnosci/oracle_pozwane_za_gromadzenie_i_sprzedaz_danych_osobowych_miliardow_osob-22905.html](https://ithardware.pl/aktualnosci/oracle_pozwane_za_gromadzenie_i_sprzedaz_danych_osobowych_miliardow_osob-22905.html)
@@ -1256,7 +1226,7 @@
  - [https://oko.press/pegasus-czyli-jak-kaczynski-zrobil-idiotow-z-premiera-ministrow-i-rzecznika](https://oko.press/pegasus-czyli-jak-kaczynski-zrobil-idiotow-z-premiera-ministrow-i-rzecznika)
  - date published: 2022-02-07 06:56:39+00:00
  - user: rumpel
- - tags: ['big brother', 'surveillance', 'privacy', 'pegasus']
+ - tags: ['pegasus', 'big brother', 'spyware', 'privacy', 'surveillance']
 
 ## "Kanada: Stan wyjątkowy w stolicy Kanady. W związku z protestami ""konwoju wolności"""
  - [https://tvn24.pl/swiat/kanada-ottawa-stan-wyjatkowy-i-protesty-przeciwko-obowiazkowym-szczepieniom-i-obostrzeniom-5588250](https://tvn24.pl/swiat/kanada-ottawa-stan-wyjatkowy-i-protesty-przeciwko-obowiazkowym-szczepieniom-i-obostrzeniom-5588250)
@@ -1268,7 +1238,7 @@
  - [https://wydarzenia.interia.pl/zagranica/news-kanada-aresztowania-konfiskata-paliwa-stan-wyjatkowy-w-ottaw,nId,5819159](https://wydarzenia.interia.pl/zagranica/news-kanada-aresztowania-konfiskata-paliwa-stan-wyjatkowy-w-ottaw,nId,5819159)
  - date published: 2022-02-07 06:53:30+00:00
  - user: None
- - tags: $tags
+ - tags: ['freedom convoy', 'canada', 'covid', 'lockdown']
 
 ## Piszesz negatywne recenzje na Mapach Google? No to lepiej uważaj
  - [https://www.instalki.pl/aktualnosci/internet/52287-negatywne-recenzje-na-mapach-google-konsekwencje.html?fbclid=IwAR0rfsYRy1xtTSvAzonuRifzd-YUKXvvk9QJEmxUSXNr-amWXtPMAlfjINM](https://www.instalki.pl/aktualnosci/internet/52287-negatywne-recenzje-na-mapach-google-konsekwencje.html?fbclid=IwAR0rfsYRy1xtTSvAzonuRifzd-YUKXvvk9QJEmxUSXNr-amWXtPMAlfjINM)
@@ -1322,7 +1292,7 @@
  - [https://www.rp.pl/polityka/art19262671-poslowie-pis-zaprzeczali-lub-wysmiewali-temat-pegasusa-kaczynski-potwierdzil-posiadanie](https://www.rp.pl/polityka/art19262671-poslowie-pis-zaprzeczali-lub-wysmiewali-temat-pegasusa-kaczynski-potwierdzil-posiadanie)
  - date published: 2022-01-07 06:57:17+00:00
  - user: rumpel
- - tags: ['big brother', 'surveillance', 'pegasus', 'privacy']
+ - tags: ['pegasus', 'big brother', 'spyware', 'privacy', 'surveillance']
 
 ## Facebook zawiesil strone konfederacji bedzie pozew cenzura powraca
  - [https://wiadomosci.onet.pl/kraj/facebook-zawiesil-strone-konfederacji-bedzie-pozew-cenzura-powraca/pk4fkq1](https://wiadomosci.onet.pl/kraj/facebook-zawiesil-strone-konfederacji-bedzie-pozew-cenzura-powraca/pk4fkq1)

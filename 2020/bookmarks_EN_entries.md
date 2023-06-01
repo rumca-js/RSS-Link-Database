@@ -152,7 +152,7 @@
  - [https://lukesmith.xyz/articles/only-use-old-computers/](https://lukesmith.xyz/articles/only-use-old-computers/)
  - date published: 2020-12-11 00:00:00+00:00
  - user: None
- - tags: $tags
+ - tags: ['linux']
 
 ## Science vs. Soyence
  - [https://lukesmith.xyz/articles/science-vs-soyence/](https://lukesmith.xyz/articles/science-vs-soyence/)
@@ -567,12 +567,6 @@
  - date published: 2020-10-02 11:39:09+00:00
  - user: rumpel
  - tags: ['propaganda', 'the left wing', 'socialism', 'social engineering', 'grievance']
-
-## Fingerbib
- - [https://www.youtube.com/watch?v=v3-KGSuJy_s](https://www.youtube.com/watch?v=v3-KGSuJy_s)
- - date published: 2020-10-02 00:00:00+00:00
- - user: rumpel
- - tags: $tags
 
 ## Aldous Huxley - The Most Brutally Honest 8 Minutes Of Your Life!
  - [https://www.youtube.com/watch?v=67fm4D5Ii6E](https://www.youtube.com/watch?v=67fm4D5Ii6E)

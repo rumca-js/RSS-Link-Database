@@ -104,7 +104,7 @@
  - [https://www.youtube.com/watch?v=OSJ0rW0d5AY](https://www.youtube.com/watch?v=OSJ0rW0d5AY)
  - date published: 2015-06-04 00:00:00+00:00
  - user: rumpel
- - tags: $tags
+ - tags: ['chiptune']
 
 ## 4 reasons YouTube still doesn't make a profit
  - [https://www.cbsnews.com/news/4-reasons-youtube-still-doesnt-make-a-profit/](https://www.cbsnews.com/news/4-reasons-youtube-still-doesnt-make-a-profit/)

@@ -392,7 +392,7 @@
  - [https://www.thesun.co.uk/news/3037357/wikileaks-vault-7-samsung-tv-weeping-angel-cia/](https://www.thesun.co.uk/news/3037357/wikileaks-vault-7-samsung-tv-weeping-angel-cia/)
  - date published: 2017-03-09 21:48:33+00:00
  - user: rumpel
- - tags: ['vulnerability', 'surveillance', 'vault7', 'wikileaks', 'malware', 'cia']
+ - tags: ['cia', 'vulnerability', 'spyware', 'malware', 'wikileaks', 'surveillance', 'vault7']
 
 ## Security experts say 'Vault 7' leak describes common, public hacks
  - [https://money.cnn.com/2017/03/09/technology/cia-smart-tv-wikileaks-public-hacks/](https://money.cnn.com/2017/03/09/technology/cia-smart-tv-wikileaks-public-hacks/)
@@ -410,7 +410,7 @@
  - [https://www.bleepingcomputer.com/news/security/vault-7-cia-borrowed-code-from-public-malware/](https://www.bleepingcomputer.com/news/security/vault-7-cia-borrowed-code-from-public-malware/)
  - date published: 2017-03-08 21:45:34+00:00
  - user: rumpel
- - tags: ['vault7', 'malware', 'surveillance', 'vulnerability', 'wikileaks', 'cia']
+ - tags: ['cia', 'vulnerability', 'spyware', 'malware', 'wikileaks', 'surveillance', 'vault7']
 
 ## WikiLeaks Releases Trove of Alleged C.I.A. Hacking Documents - The New York Times
  - [https://www.nytimes.com/2017/03/07/world/europe/wikileaks-cia-hacking.html](https://www.nytimes.com/2017/03/07/world/europe/wikileaks-cia-hacking.html)

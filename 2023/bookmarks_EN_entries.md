@@ -1,3 +1,27 @@
+## Google bans Downloader app after TV firms complain it can load a pirate website | Ars Technica
+ - [https://arstechnica.com/tech-policy/2023/05/google-bans-downloader-app-after-tv-firms-complain-it-can-load-a-pirate-website/](https://arstechnica.com/tech-policy/2023/05/google-bans-downloader-app-after-tv-firms-complain-it-can-load-a-pirate-website/)
+ - date published: 2023-05-31 17:22:45+00:00
+ - user: rumpel
+ - tags: ['google', 'technofeudalism']
+
+## The Downfall of Mobile Gaming
+ - [https://www.youtube.com/watch?v=ntz2c2z54dg](https://www.youtube.com/watch?v=ntz2c2z54dg)
+ - date published: 2023-05-31 11:07:24+00:00
+ - user: rumpel
+ - tags: ['mobile gams', 'games']
+
+## Why won’t Google give an answer on whether Bard was trained on Gmail data?
+ - [https://skiff.com/blog/was-bard-trained-on-gmail-data](https://skiff.com/blog/was-bard-trained-on-gmail-data)
+ - date published: 2023-05-31 07:34:49+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence', 'bard', 'law', 'privacy', 'technofeudalism', 'google']
+
+## Paragon Graphite is a Pegasus spyware clone used in the US
+ - [https://www.gamingdeputy.com/paragon-graphite-is-a-pegasus-spyware-clone-used-in-the-us/](https://www.gamingdeputy.com/paragon-graphite-is-a-pegasus-spyware-clone-used-in-the-us/)
+ - date published: 2023-05-31 06:43:48+00:00
+ - user: rumpel
+ - tags: ['spyware', 'pegasus', 'paragon graphite']
+
 ## Twitter's Algorithm: Amplifying Anger, Animosity, and Affective Polarization
  - [https://arxiv.org/abs/2305.16941](https://arxiv.org/abs/2305.16941)
  - date published: 2023-05-30 07:18:14+00:00
@@ -21,6 +45,12 @@
  - date published: 2023-05-29 13:00:19+00:00
  - user: rumpel
  - tags: ['go woke go broke', 'movies', 'censorship', 'disney']
+
+## Lex Tusk podpisana, złoty i giełda w dół. Oto dlaczego rynek tak zareagował
+ - [https://businessinsider.com.pl/gielda/wiadomosci/lex-tusk-podpisana-zloty-i-gielda-w-dol-oto-dlaczego-rynek-tak-zareagowal/047yqw4](https://businessinsider.com.pl/gielda/wiadomosci/lex-tusk-podpisana-zloty-i-gielda-w-dol-oto-dlaczego-rynek-tak-zareagowal/047yqw4)
+ - date published: 2023-05-29 10:17:54+00:00
+ - user: rumpel
+ - tags: ['poland']
 
 ## YouTube removed dislike counts, so this guy made Rotten Tomatoes for YouTube
  - [https://bgr.com/tech/youtube-removed-dislike-counts-so-this-guy-made-rotten-tomatoes-for-youtube-videos/](https://bgr.com/tech/youtube-removed-dislike-counts-so-this-guy-made-rotten-tomatoes-for-youtube-videos/)
@@ -2804,7 +2834,7 @@
  - [https://reclaimthenet.org/uk-tests-tracking-citizens-habits-rewarding-them-for-good-behavior](https://reclaimthenet.org/uk-tests-tracking-citizens-habits-rewarding-them-for-good-behavior)
  - date published: 2023-02-19 16:29:23+00:00
  - user: rumpel
- - tags: ['privacy', 'surveillance', 'social score']
+ - tags: ['skinner box', 'surveillance', 'social score', 'privacy']
 
 ## 'Woke' California university slammed for 'dehumanized' initiative encouraging students to tell on professors
  - [https://www.foxnews.com/media/woke-california-university-slammed-dehumanized-initiative-encouraging-students-tell-professors](https://www.foxnews.com/media/woke-california-university-slammed-dehumanized-initiative-encouraging-students-tell-professors)
@@ -3686,7 +3716,7 @@
  - [https://www.lemonde.fr/en/international/article/2023/01/23/pegasus-israel-and-a-massacre-of-mexican-students_6012654_4.html](https://www.lemonde.fr/en/international/article/2023/01/23/pegasus-israel-and-a-massacre-of-mexican-students_6012654_4.html)
  - date published: 2023-01-23 01:14:49+00:00
  - user: rumpel
- - tags: ['privacy', 'mexic', 'surveillance', 'pegasus']
+ - tags: ['pegasus', 'mexic', 'spyware', 'privacy', 'surveillance']
 
 ## Huge crowds in Israel again protest Netanyahu’s legal changes | Benjamin Netanyahu News
  - [https://www.reddit.com/r/news/comments/10isxst/huge_crowds_in_israel_again_protest_netanyahus/](https://www.reddit.com/r/news/comments/10isxst/huge_crowds_in_israel_again_protest_netanyahus/)
