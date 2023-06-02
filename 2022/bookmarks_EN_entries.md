@@ -1880,7 +1880,7 @@
  - [https://techmonitor.ai/policy/online-safety-bill-changes-end-to-end-encryption](https://techmonitor.ai/policy/online-safety-bill-changes-end-to-end-encryption)
  - date published: 2022-11-29 06:50:23+00:00
  - user: rumpel
- - tags: ['surveillance', 'privacy', 'big brother', 'government control']
+ - tags: ['big brother', 'privacy', 'england', 'online safety bill', 'surveillance', 'government control']
 
 ## 5.4 million Twitter users' stolen data leaked online — more shared privately
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59656](https://www.codeproject.com/script/News/View.aspx?nwid=59656)
@@ -3974,7 +3974,7 @@
  - [https://www.foxnews.com/us/elite-nyc-private-schools-make-parents-sign-anti-racist-commitment-attend-anti-racist-training](https://www.foxnews.com/us/elite-nyc-private-schools-make-parents-sign-anti-racist-commitment-attend-anti-racist-training)
  - date published: 2022-10-22 22:31:18+00:00
  - user: None
- - tags: ['propaganda', 'usa', 'race', 'indoctrination']
+ - tags: ['indoctrination', 'propaganda', 'usa', 'racism']
 
 ## The Raspberry Pi 400 in My Bedroom
  - [https://joeldare.com/private-analtyics-and-my-raspberry-pi-400.html](https://joeldare.com/private-analtyics-and-my-raspberry-pi-400.html)
@@ -4286,7 +4286,7 @@
  - [https://www.dailymail.co.uk/news/article-11322969/Defund-police-advocate-Cori-Bush-spent-500-000-campaign-funds-PRIVATE-security.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11322969/Defund-police-advocate-Cori-Bush-spent-500-000-campaign-funds-PRIVATE-security.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2022-10-17 08:54:32+00:00
  - user: None
- - tags: ['hypocrisy', 'blm', 'race', 'defund the police', 'black lives matter']
+ - tags: ['blm', 'racism', 'hypocrisy', 'defund the police', 'black lives matter']
 
 ## Christian childcare teacher who refused to read LGBT books to kids sues after being fired: 'Blatantly illegal'
  - [https://www.foxnews.com/us/christian-childcare-teacher-refused-read-lgbt-books-kids-sues-being-fired-blatantly-illegal](https://www.foxnews.com/us/christian-childcare-teacher-refused-read-lgbt-books-kids-sues-being-fired-blatantly-illegal)
@@ -7460,7 +7460,7 @@
  - [https://www.eff.org/deeplinks/2022/08/uks-online-safety-bill-attacks-free-speech-and-encryption](https://www.eff.org/deeplinks/2022/08/uks-online-safety-bill-attacks-free-speech-and-encryption)
  - date published: 2022-08-05 06:49:00+00:00
  - user: rumpel
- - tags: ['surveillance', 'government control', 'england', 'privacy', 'big brother']
+ - tags: ['big brother', 'privacy', 'england', 'online safety bill', 'surveillance', 'government control']
 
 ## The OG Social Network: Other People’s Websites - Jim Nielsen’s Blog
  - [https://blog.jim-nielsen.com/2022/other-peoples-websites/](https://blog.jim-nielsen.com/2022/other-peoples-websites/)
@@ -7832,7 +7832,7 @@
  - [https://www.eff.org/deeplinks/2022/07/ring-reveals-they-give-videos-police-without-user-consent-or-warrant](https://www.eff.org/deeplinks/2022/07/ring-reveals-they-give-videos-police-without-user-consent-or-warrant)
  - date published: 2022-07-15 08:06:28+00:00
  - user: rumpel
- - tags: ['technofeudalism', 'privacy']
+ - tags: ['technofeudalism', 'privacy', 'ring']
 
 ## This Life Advice Will Leave You Speechless, One of The Most Eye Opening Videos Ever | Alan Watts
  - [https://www.youtube.com/watch?v=9JWsGQ1_414](https://www.youtube.com/watch?v=9JWsGQ1_414)

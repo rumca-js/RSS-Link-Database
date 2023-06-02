@@ -1,3 +1,9 @@
+## Hakerzy ujawnili dane użytkowników Allegro, Onetu, WP i Facebooka. Rząd oferuje weryfikację
+ - [https://www.wirtualnemedia.pl/artykul/wyciek-danych-haslo-login-allegro-onetu-wp-facebook-jak-sprawdzic-moje-dane](https://www.wirtualnemedia.pl/artykul/wyciek-danych-haslo-login-allegro-onetu-wp-facebook-jak-sprawdzic-moje-dane)
+ - date published: 2023-06-01 01:51:00+00:00
+ - user: rumpel
+ - tags: ['data leak', 'hackers']
+
 ## Unia Europejska: Identyfikator cyfrowy dla wszystkich do 2030 roku
  - [https://ithardware.pl/aktualnosci/unia_europejska_identyfikator_cyfrowy_dla_wszystkich_do_2030_roku-27516.html](https://ithardware.pl/aktualnosci/unia_europejska_identyfikator_cyfrowy_dla_wszystkich_do_2030_roku-27516.html)
  - date published: 2023-05-29 07:45:40+00:00
@@ -15,6 +21,12 @@
  - date published: 2023-05-29 07:27:02.626362+00:00
  - user: rumpel
  - tags: ['electric vehicles', 'climate change']
+
+## Lex Tusk - co zawiera i dlaczego jest groźna - rp.pl
+ - [https://www.rp.pl/prawo-karne/art38529891-lex-tusk-co-zawiera-i-dlaczego-jest-grozna](https://www.rp.pl/prawo-karne/art38529891-lex-tusk-co-zawiera-i-dlaczego-jest-grozna)
+ - date published: 2023-05-29 06:59:30+00:00
+ - user: rumpel
+ - tags: ['prawo i sprawiedliwość', 'poland', 'lex tusk']
 
 ## Polscy Sprawiedliwi wśród Narodów Świata – Wikipedia, wolna encyklopedia
  - [https://pl.wikipedia.org/wiki/Polscy_Sprawiedliwi_w%C5%9Br%C3%B3d_Narod%C3%B3w_%C5%9Awiata](https://pl.wikipedia.org/wiki/Polscy_Sprawiedliwi_w%C5%9Br%C3%B3d_Narod%C3%B3w_%C5%9Awiata)
@@ -448,7 +460,7 @@
  - [https://www.instalki.pl/aktualnosci/bezpieczenstwo/57671-inwigilacja-internet-suzby-polska-ue-prawo.html](https://www.instalki.pl/aktualnosci/bezpieczenstwo/57671-inwigilacja-internet-suzby-polska-ue-prawo.html)
  - date published: 2023-01-11 14:01:11.645010+00:00
  - user: rumpel
- - tags: ['surveillance', 'government control', 'poland']
+ - tags: ['surveillance', 'poland', 'government control', 'prawo i sprawiedliwość']
 
 ## Zawartość „chmury”, komunikatorów, usunięte treści. Nowa policyjna broń w walce z przestępczością?
  - [https://www.rmf24.pl/fakty/news-zawartosc-chmury-komunikatorow-usuniete-tresci-nowa-policyjn,nId,6527601#crp_state=1](https://www.rmf24.pl/fakty/news-zawartosc-chmury-komunikatorow-usuniete-tresci-nowa-policyjn,nId,6527601#crp_state=1)

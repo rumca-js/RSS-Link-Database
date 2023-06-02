@@ -88,6 +88,12 @@
  - user: rumpel
  - tags: ['poland', 'climate change', 'atom']
 
+## 500 Plus już na pierwsze dziecko. PiS wprowadza zmiany w swoim programie. Kiedy będzie pierwsza wypłata? - Money.pl
+ - [https://www.money.pl/gospodarka/500-plus-juz-na-pierwsze-dziecko-pis-wprowadza-zmiany-w-swoim-programie-kiedy-bedzie-pierwsza-wyplata-6353632862681217a.html](https://www.money.pl/gospodarka/500-plus-juz-na-pierwsze-dziecko-pis-wprowadza-zmiany-w-swoim-programie-kiedy-bedzie-pierwsza-wyplata-6353632862681217a.html)
+ - date published: 2019-02-26 07:12:30+00:00
+ - user: rumpel
+ - tags: ['poland', 'prawo i sprawiedliwość']
+
 ## Sektor finansowy ogrywa demokrację, możemy się obudzić w świecie zamieszek i rewolucji
  - [https://next.gazeta.pl/next/7,151003,24456145,sektor-finansowy-ogrywa-demokracje-mozemy-sie-obudzic-w-swiecie.html](https://next.gazeta.pl/next/7,151003,24456145,sektor-finansowy-ogrywa-demokracje-mozemy-sie-obudzic-w-swiecie.html)
  - date published: 2019-02-15 07:12:55+00:00

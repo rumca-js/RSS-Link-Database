@@ -566,7 +566,7 @@
  - [https://boundingintocomics.com/2019/06/11/report-facebook-bans-the-word-honk/](https://boundingintocomics.com/2019/06/11/report-facebook-bans-the-word-honk/)
  - date published: 2019-06-11 22:09:15+00:00
  - user: rumpel
- - tags: ['facebook', 'censorship']
+ - tags: ['facebook', 'newspeak', 'censorship']
 
 ## Google rewards reputable reporting, not left-wing politics | The Economist
  - [https://www.economist.com/graphic-detail/2019/06/08/google-rewards-reputable-reporting-not-left-wing-politics](https://www.economist.com/graphic-detail/2019/06/08/google-rewards-reputable-reporting-not-left-wing-politics)

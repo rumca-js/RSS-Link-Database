@@ -1,8 +1,128 @@
+## Twitter to Limit Daily Wire Gender Docu as Hateful Content, CEO Claims - Variety
+ - [https://variety.com/2023/digital/news/elon-musk-twitter-daily-wire-what-is-a-woman-hateful-content-1235630370/](https://variety.com/2023/digital/news/elon-musk-twitter-daily-wire-what-is-a-woman-hateful-content-1235630370/)
+ - date published: 2023-06-01 15:53:08+00:00
+ - user: rumpel
+ - tags: ['what is a woman', 'free speech', 'hate speech', 'twitter', 'matt walsh', 'censorship']
+
+## Twitter Backs Out Of Streaming “What Is A Woman?” Documentary, Cites “Misgendering,” Daily Wire Says
+ - [https://reclaimthenet.org/twitter-backs-out-of-streaming-what-is-a-woman-documentary](https://reclaimthenet.org/twitter-backs-out-of-streaming-what-is-a-woman-documentary)
+ - date published: 2023-06-01 14:49:37+00:00
+ - user: rumpel
+ - tags: ['what is a woman', 'free speech', 'twitter', 'matt walsh', 'censorship']
+
+## Is Coding Education - As We Know It - Dead? How Large Language Models Are Changing Programmers
+ - [https://www.forbes.com/sites/nishatalagala/2023/06/01/is-coding-educationas-we-know-itdead-how-large-language-models-are-changing-programmers/](https://www.forbes.com/sites/nishatalagala/2023/06/01/is-coding-educationas-we-know-itdead-how-large-language-models-are-changing-programmers/)
+ - date published: 2023-06-01 14:36:49+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence', 'programming']
+
+## Research Finds Women Are Advantaged in Being Hired in Academic Science
+ - [https://journals.sagepub.com/doi/full/10.1177/15291006231163179](https://journals.sagepub.com/doi/full/10.1177/15291006231163179)
+ - date published: 2023-06-01 13:21:21+00:00
+ - user: rumpel
+ - tags: ['feminism', 'sexism']
+
+## Privacy: One of the Most Fundamental Human Rights, yet Constantly Under Threat
+ - [https://escapebigtech.info/posts/privacy-one-of-the-most-fundamental-human-rights-yet-constantly-under-threat/](https://escapebigtech.info/posts/privacy-one-of-the-most-fundamental-human-rights-yet-constantly-under-threat/)
+ - date published: 2023-06-01 13:07:57+00:00
+ - user: rumpel
+ - tags: ['big brother', 'privacy', 'surveillance']
+
+## Security.txt file now mandatory for Dutch government websites
+ - [https://netherlands.postsen.com/trends/198695/Securitytxt-now-mandatory-for-Dutch-government-websites.html](https://netherlands.postsen.com/trends/198695/Securitytxt-now-mandatory-for-Dutch-government-websites.html)
+ - date published: 2023-06-01 09:27:28+00:00
+ - user: rumpel
+ - tags: ['internet', 'vulnerability', 'security', 'open source', 'government control']
+
+## Return YouTube Dislike – Get this Extension for 🦊 Firefox (en-US)
+ - [https://addons.mozilla.org/en-US/firefox/addon/return-youtube-dislikes/](https://addons.mozilla.org/en-US/firefox/addon/return-youtube-dislikes/)
+ - date published: 2023-06-01 07:47:21+00:00
+ - user: rumpel
+ - tags: ['browser extensions']
+
+## Ghostery – Privacy Ad Blocker – Get this Extension for 🦊 Firefox (en-US)
+ - [https://addons.mozilla.org/en-US/firefox/addon/ghostery/](https://addons.mozilla.org/en-US/firefox/addon/ghostery/)
+ - date published: 2023-06-01 07:46:53+00:00
+ - user: rumpel
+ - tags: ['browser extensions']
+
+## Ninja Cookie – Get this Extension for 🦊 Firefox (en-US)
+ - [https://addons.mozilla.org/en-US/firefox/addon/ninja-cookie/](https://addons.mozilla.org/en-US/firefox/addon/ninja-cookie/)
+ - date published: 2023-06-01 07:46:31+00:00
+ - user: rumpel
+ - tags: ['browser extensions']
+
+## NoScript Security Suite – Get this Extension for 🦊 Firefox (en-US)
+ - [https://addons.mozilla.org/en-US/firefox/addon/noscript/](https://addons.mozilla.org/en-US/firefox/addon/noscript/)
+ - date published: 2023-06-01 07:46:09+00:00
+ - user: rumpel
+ - tags: ['browser extensions']
+
+## Enhancer for YouTube™ – Get this Extension for 🦊 Firefox (en-US)
+ - [https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/](https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/)
+ - date published: 2023-06-01 07:43:21+00:00
+ - user: rumpel
+ - tags: ['browser extensions']
+
+## File sharing in Japan - Wikipedia
+ - [https://en.wikipedia.org/wiki/File_sharing_in_Japan](https://en.wikipedia.org/wiki/File_sharing_in_Japan)
+ - date published: 2023-06-01 06:29:01+00:00
+ - user: rumpel
+ - tags: ['japan', 'piracy']
+
+## Minnesota woman to pay $220,000 fine for 24 illegally downloaded songs | Piracy | The Guardian
+ - [https://www.theguardian.com/technology/2012/sep/11/minnesota-woman-songs-illegally-downloaded](https://www.theguardian.com/technology/2012/sep/11/minnesota-woman-songs-illegally-downloaded)
+ - date published: 2023-06-01 06:26:25+00:00
+ - user: rumpel
+ - tags: ['piracy']
+
+## Urgent WordPress Update Fixes Critical Flaw in Jetpack Plugin on Million of Sites
+ - [https://thehackernews.com/2023/06/urgent-wordpress-update-fixes-critical.html](https://thehackernews.com/2023/06/urgent-wordpress-update-fixes-critical.html)
+ - date published: 2023-06-01 04:01:00+00:00
+ - user: rumpel
+ - tags: ['wordpress', 'open source', 'vulnerability']
+
+## Amazon to pay over $30M for Ring and Alexa privacy violations
+ - [https://www.axios.com/2023/05/31/ftc-ring-employees-illegally-accessed-user-private-videos](https://www.axios.com/2023/05/31/ftc-ring-employees-illegally-accessed-user-private-videos)
+ - date published: 2023-06-01 03:11:37+00:00
+ - user: rumpel
+ - tags: ['privacy', 'alexa', 'smart assistant', 'anonymity', 'ring', 'amazon']
+
+## FTC Says Ring Employees Illegally Surveilled Customers, Failed to Stop Hackers
+ - [https://www.ftc.gov/news-events/news/press-releases/2023/05/ftc-says-ring-employees-illegally-surveilled-customers-failed-stop-hackers-taking-control-users](https://www.ftc.gov/news-events/news/press-releases/2023/05/ftc-says-ring-employees-illegally-surveilled-customers-failed-stop-hackers-taking-control-users)
+ - date published: 2023-05-31 23:51:48+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'privacy', 'anonymity', 'ring']
+
+## Japan Goes All In: Copyright Doesn’t Apply to AI Training
+ - [https://technomancers.ai/japan-goes-all-in-copyright-doesnt-apply-to-ai-training/](https://technomancers.ai/japan-goes-all-in-copyright-doesnt-apply-to-ai-training/)
+ - date published: 2023-05-31 20:58:13+00:00
+ - user: rumpel
+ - tags: ['japan', 'law', 'artificial intelligence', 'corporatocracy']
+
+## Old Reddit is open source
+ - [https://github.com/reddit-archive/reddit](https://github.com/reddit-archive/reddit)
+ - date published: 2023-05-31 19:30:53+00:00
+ - user: rumpel
+ - tags: ['open source', 'selfhost', 'reddit']
+
 ## Google bans Downloader app after TV firms complain it can load a pirate website | Ars Technica
  - [https://arstechnica.com/tech-policy/2023/05/google-bans-downloader-app-after-tv-firms-complain-it-can-load-a-pirate-website/](https://arstechnica.com/tech-policy/2023/05/google-bans-downloader-app-after-tv-firms-complain-it-can-load-a-pirate-website/)
  - date published: 2023-05-31 17:22:45+00:00
  - user: rumpel
  - tags: ['google', 'technofeudalism']
+
+## Millions of PC Motherboards Were Sold with a Firmware Backdoor
+ - [https://www.wired.com/story/gigabyte-motherboard-firmware-backdoor/](https://www.wired.com/story/gigabyte-motherboard-firmware-backdoor/)
+ - date published: 2023-05-31 13:35:56+00:00
+ - user: rumpel
+ - tags: ['backdoor', 'vulnerability']
+
+## Iconic Torrent Site Rarbg Shuts Down, All Content Releases Stop
+ - [https://torrentfreak.com/iconic-torrent-site-rarbg-shuts-down-all-content-releases-stop-230531/](https://torrentfreak.com/iconic-torrent-site-rarbg-shuts-down-all-content-releases-stop-230531/)
+ - date published: 2023-05-31 12:52:57+00:00
+ - user: rumpel
+ - tags: ['piracy', 'torrent', 'rarbg']
 
 ## The Downfall of Mobile Gaming
  - [https://www.youtube.com/watch?v=ntz2c2z54dg](https://www.youtube.com/watch?v=ntz2c2z54dg)
@@ -15,6 +135,12 @@
  - date published: 2023-05-31 07:34:49+00:00
  - user: rumpel
  - tags: ['artificial intelligence', 'bard', 'law', 'privacy', 'technofeudalism', 'google']
+
+## RAF told to ‘stop choosing useless white male pilots’, leak reveals
+ - [https://www.telegraph.co.uk/news/2023/05/31/stop-hiring-useless-white-male-pilots-raf-told/](https://www.telegraph.co.uk/news/2023/05/31/stop-hiring-useless-white-male-pilots-raf-told/)
+ - date published: 2023-05-31 07:01:12+00:00
+ - user: rumpel
+ - tags: ['racism', 'england']
 
 ## Paragon Graphite is a Pegasus spyware clone used in the US
  - [https://www.gamingdeputy.com/paragon-graphite-is-a-pegasus-spyware-clone-used-in-the-us/](https://www.gamingdeputy.com/paragon-graphite-is-a-pegasus-spyware-clone-used-in-the-us/)
@@ -50,13 +176,19 @@
  - [https://businessinsider.com.pl/gielda/wiadomosci/lex-tusk-podpisana-zloty-i-gielda-w-dol-oto-dlaczego-rynek-tak-zareagowal/047yqw4](https://businessinsider.com.pl/gielda/wiadomosci/lex-tusk-podpisana-zloty-i-gielda-w-dol-oto-dlaczego-rynek-tak-zareagowal/047yqw4)
  - date published: 2023-05-29 10:17:54+00:00
  - user: rumpel
- - tags: ['poland']
+ - tags: ['prawo i sprawiedliwość', 'poland', 'lex tusk']
 
 ## YouTube removed dislike counts, so this guy made Rotten Tomatoes for YouTube
  - [https://bgr.com/tech/youtube-removed-dislike-counts-so-this-guy-made-rotten-tomatoes-for-youtube-videos/](https://bgr.com/tech/youtube-removed-dislike-counts-so-this-guy-made-rotten-tomatoes-for-youtube-videos/)
  - date published: 2023-05-28 16:42:30+00:00
  - user: rumpel
  - tags: ['youtube', 'project']
+
+## 'Ratings Terrorism:' Overseas Response To 'The Little Mermaid'
+ - [https://www.disneydining.com/ratings-terrorism-1-movie-in-the-world-the-little-mermaid-live-action-remake-lf1/](https://www.disneydining.com/ratings-terrorism-1-movie-in-the-world-the-little-mermaid-live-action-remake-lf1/)
+ - date published: 2023-05-28 13:35:57+00:00
+ - user: rumpel
+ - tags: ['disney', 'movies', 'go woke go broke']
 
 ## Near the Western Wall, Jewish radicals shout at Christian Evangelicals to 'go home' | The Times of Israel
  - [https://www.timesofisrael.com/near-the-western-wall-jewish-radicals-shout-at-christian-evangelicals-to-go-home/](https://www.timesofisrael.com/near-the-western-wall-jewish-radicals-shout-at-christian-evangelicals-to-go-home/)

@@ -1090,6 +1090,12 @@
  - user: rumpel
  - tags: ['germany', 'agriculture']
 
+## Czeka nas wielki dług. Rząd stworzył budżet widmo z mnóstwem dziur - Money.pl
+ - [https://www.money.pl/gospodarka/czeka-nas-wielki-dlug-rzad-stworzyl-budzet-widmo-z-mnostwem-dziur-6807303691635616a.html](https://www.money.pl/gospodarka/czeka-nas-wielki-dlug-rzad-stworzyl-budzet-widmo-z-mnostwem-dziur-6807303691635616a.html)
+ - date published: 2022-08-31 07:06:54+00:00
+ - user: rumpel
+ - tags: ['poland', 'prawo i sprawiedliwość']
+
 ## Weryfikatorzy faktów Facebooka będą komentowali wpisy... nieweryfikowalne
  - [https://ithardware.pl/aktualnosci/weryfikatorzy_faktow_facebooka_beda_komentowali_wpisy_nieweryfikowalne-22997.html](https://ithardware.pl/aktualnosci/weryfikatorzy_faktow_facebooka_beda_komentowali_wpisy_nieweryfikowalne-22997.html)
  - date published: 2022-08-29 09:02:10+00:00

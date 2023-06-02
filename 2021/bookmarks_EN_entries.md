@@ -2926,6 +2926,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Ottawa outlines new legislation to define and crack down on online hate speech | CBC News
+ - [https://www.cbc.ca/news/politics/hate-speech-bill-c36-1.6077606](https://www.cbc.ca/news/politics/hate-speech-bill-c36-1.6077606)
+ - date published: 2021-07-23 16:36:52+00:00
+ - user: rumpel
+ - tags: ['canada', 'bill c-36', 'free speech', 'hate speech', 'government control']
+
 ## Exclusive: Discord is getting threads – this is what it looks like | TechRadar
  - [https://www.techradar.com/news/threads-are-finally-coming-to-discord](https://www.techradar.com/news/threads-are-finally-coming-to-discord)
  - date published: 2021-07-23 15:20:33.364012+00:00

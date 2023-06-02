@@ -4,6 +4,12 @@
  - user: rumpel
  - tags: ['war', 'drugs', 'china', 'usa']
 
+## Program 500+ tylko do małżeństw? Samotne matki na celowniku PiS
+ - [https://www.polityka.pl/tygodnikpolityka/spoleczenstwo/1723444,1,500-tylko-dla-malzenstw-program-pis-nie-nadaza-za-rzeczywistoscia.read](https://www.polityka.pl/tygodnikpolityka/spoleczenstwo/1723444,1,500-tylko-dla-malzenstw-program-pis-nie-nadaza-za-rzeczywistoscia.read)
+ - date published: 2017-10-14 07:13:11+00:00
+ - user: rumpel
+ - tags: ['poland', 'prawo i sprawiedliwość']
+
 ## ILE JEST WARTA TWOJA PRYWATNOŚĆ?
  - [https://www.youtube.com/watch?v=qk3HNcNOqRA](https://www.youtube.com/watch?v=qk3HNcNOqRA)
  - date published: 2017-10-02 20:36:30+00:00
@@ -20,7 +26,7 @@
  - [https://www.polityka.pl/tygodnikpolityka/kraj/1712492,1,opozycja-nie-obroni-sadow-przed-pis-ma-niewielkie-pole-manewru.read](https://www.polityka.pl/tygodnikpolityka/kraj/1712492,1,opozycja-nie-obroni-sadow-przed-pis-ma-niewielkie-pole-manewru.read)
  - date published: 2017-07-14 07:09:53+00:00
  - user: None
- - tags: ['poland']
+ - tags: ['poland', 'prawo i sprawiedliwość']
 
 ## „Powody zabierania rodzicom ich dzieci w Niemczech są absurdalne”
  - [https://www.polskieradio.pl/130/5925/Artykul/1779858,Powody-zabierania-rodzicom-ich-dzieci-w-Niemczech-sa-absurdalne](https://www.polskieradio.pl/130/5925/Artykul/1779858,Powody-zabierania-rodzicom-ich-dzieci-w-Niemczech-sa-absurdalne)

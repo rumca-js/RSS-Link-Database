@@ -16,3 +16,9 @@
  - user: None
  - tags: ['depopulation', 'conspiracy theory', 'immigration', 'the right wing', 'coudenhove-kalergi']
 
+## 500 zł na dziecko: Ustawa 500+ weszła w życie. Jest w Dzienniku Ustaw. Wypłaty ruszą w kwietniu
+ - [https://www.portalsamorzadowy.pl/polityka-i-spoleczenstwo/500-zl-na-dziecko-ustawa-500-weszla-w-zycie-jest-w-dzienniku-ustaw-wyplaty-rusza-w-kwietniu,77792.html](https://www.portalsamorzadowy.pl/polityka-i-spoleczenstwo/500-zl-na-dziecko-ustawa-500-weszla-w-zycie-jest-w-dzienniku-ustaw-wyplaty-rusza-w-kwietniu,77792.html)
+ - date published: 2016-02-17 07:13:35+00:00
+ - user: rumpel
+ - tags: ['poland', 'prawo i sprawiedliwość']
+

@@ -716,7 +716,7 @@
  - [https://www.theatlantic.com/ideas/archive/2020/09/academics-are-really-really-worried-about-their-freedom/615724/](https://www.theatlantic.com/ideas/archive/2020/09/academics-are-really-really-worried-about-their-freedom/615724/)
  - date published: 2020-09-01 22:02:49+00:00
  - user: rumpel
- - tags: ['the left wing', 'science', 'cancel culture', 'censorship', 'science is dead', 'race']
+ - tags: ['science', 'racism', 'the left wing', 'censorship', 'science is dead', 'cancel culture']
 
 ## Google Meet, Microsoft Teams, Webex Privacy Issues - Consumer Reports
  - [https://www.consumerreports.org/video-conferencing-services/videoconferencing-privacy-issues-google-microsoft-webex-a7383469308/](https://www.consumerreports.org/video-conferencing-services/videoconferencing-privacy-issues-google-microsoft-webex-a7383469308/)
@@ -1628,7 +1628,7 @@
  - [https://www.vice.com/en/article/y3mdvk/ring-fired-employees-abusing-video-data](https://www.vice.com/en/article/y3mdvk/ring-fired-employees-abusing-video-data)
  - date published: 2020-01-08 12:16:22+00:00
  - user: None
- - tags: ['iot', 'privacy', 'amazon', 'tracking']
+ - tags: ['iot', 'privacy', 'tracking', 'ring', 'amazon']
 
 ## New Virus Discovered by Chinese Scientists Investigating Pneumonia Outbreak
  - [https://www.wsj.com/articles/new-virus-discovered-by-chinese-scientists-investigating-pneumonia-outbreak-11578485668?mod=article_inline](https://www.wsj.com/articles/new-virus-discovered-by-chinese-scientists-investigating-pneumonia-outbreak-11578485668?mod=article_inline)

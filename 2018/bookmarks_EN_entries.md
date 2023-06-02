@@ -254,7 +254,7 @@
  - [https://www.theverge.com/2018/7/18/17580694/google-android-eu-fine-antitrust](https://www.theverge.com/2018/7/18/17580694/google-android-eu-fine-antitrust)
  - date published: 2018-07-18 13:57:43+00:00
  - user: rumpel
- - tags: ['chrome', 'browser', 'big tech', 'antitrust', 'android', 'google']
+ - tags: ['android', 'antitrust', 'big tech', 'google', 'chrome']
 
 ## Social Engineering as a Threat to Societies: The Cambridge Analytica Case
  - [https://www.realcleardefense.com/articles/2018/07/18/social_engineering_as_a_threat_to_societies_the_cambridge_analytica_case_113620.html](https://www.realcleardefense.com/articles/2018/07/18/social_engineering_as_a_threat_to_societies_the_cambridge_analytica_case_113620.html)
@@ -387,6 +387,12 @@
  - date published: 2018-04-24 00:00:00+00:00
  - user: rumpel
  - tags: ['funny']
+
+## Woman guilty of 'racist' Snap Dogg rap lyric Instagram post - BBC News
+ - [https://www.bbc.com/news/uk-england-merseyside-43816921](https://www.bbc.com/news/uk-england-merseyside-43816921)
+ - date published: 2018-04-19 06:35:07+00:00
+ - user: rumpel
+ - tags: ['racism', 'instagram', 'censorship']
 
 ## You Won’t Believe What Obama Says In This Video! 😉
  - [https://www.youtube.com/watch?v=cQ54GDm1eL0](https://www.youtube.com/watch?v=cQ54GDm1eL0)

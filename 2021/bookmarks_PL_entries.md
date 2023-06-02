@@ -88,6 +88,12 @@
  - user: None
  - tags: ['privacy', 'big brother', 'government control', 'australia']
 
+## Dług publiczny rośnie lawinowo. Ekonomiści ostrzegają przed skutkami - Money.pl
+ - [https://www.money.pl/gospodarka/dlug-publiczny-rosnie-lawinowo-ekonomisci-ostrzegaja-przed-skutkami-6690562911193728a.html](https://www.money.pl/gospodarka/dlug-publiczny-rosnie-lawinowo-ekonomisci-ostrzegaja-przed-skutkami-6690562911193728a.html)
+ - date published: 2021-10-05 07:06:14+00:00
+ - user: rumpel
+ - tags: ['poland', 'prawo i sprawiedliwość']
+
 ## „Gawiedź niezaszczepiona wymrze rychło”. Oburzający wpis Środy, która komentuje posłów Konfederacji - tvp.info
  - [https://www.tvp.info/56189233/gawiedz-niezaszczepiona-wymrze-rychlo-oburzajacy-wpis-srody-ktora-komentuje-poslow-konfederacji](https://www.tvp.info/56189233/gawiedz-niezaszczepiona-wymrze-rychlo-oburzajacy-wpis-srody-ktora-komentuje-poslow-konfederacji)
  - date published: 2021-10-04 07:33:33+00:00
@@ -98,7 +104,7 @@
  - [https://www.onet.pl/informacje/onetwiadomosci/kara-za-kopalnie-w-turowie-polska-musi-placic-jakie-dzialania-moze-podjac-ke/yw3yp46,79cfc278](https://www.onet.pl/informacje/onetwiadomosci/kara-za-kopalnie-w-turowie-polska-musi-placic-jakie-dzialania-moze-podjac-ke/yw3yp46,79cfc278)
  - date published: 2021-09-23 06:58:09+00:00
  - user: None
- - tags: ['poland', 'turow']
+ - tags: ['turow', 'poland', 'prawo i sprawiedliwość']
 
 ## Krystyna Janda: Zastanawiam się, czy grać spektakle z aktorami niezaszczepionymi - Dziennik.pl
  - [https://kultura.dziennik.pl/teatr/artykuly/8252180,krystyna-janda-szczepienia-spektakl-aktor-covid-19.html](https://kultura.dziennik.pl/teatr/artykuly/8252180,krystyna-janda-szczepienia-spektakl-aktor-covid-19.html)
@@ -195,6 +201,12 @@
  - date published: 2021-05-16 13:02:46+00:00
  - user: rumpel
  - tags: ['censorship', 'covid', 'moderation', 'vaccine', 'propaganda', 'facebook', 'misinformation']
+
+## Polski Ład. Politycy i ekonomiści komentują. "Zapłacą przedsiębiorcy i lepiej zarabiający" - Bankier.pl
+ - [https://www.bankier.pl/wiadomosc/Nowy-Polski-Lad-Komentarze-8113555.html](https://www.bankier.pl/wiadomosc/Nowy-Polski-Lad-Komentarze-8113555.html)
+ - date published: 2021-05-15 07:05:03+00:00
+ - user: rumpel
+ - tags: ['polski ład', 'poland', 'prawo i sprawiedliwość']
 
 ## Rodzice twierdzą, że ich 4-letnie dziecko jest transpłciowe [WIDEO]
  - [https://medianarodowe.com/2021/05/12/szalenstwo-postepu-rodzice-twierdza-ze-ich-4-letnie-dziecko-jest-transplciowe-wideo/](https://medianarodowe.com/2021/05/12/szalenstwo-postepu-rodzice-twierdza-ze-ich-4-letnie-dziecko-jest-transplciowe-wideo/)
