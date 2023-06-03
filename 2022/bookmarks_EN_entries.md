@@ -2860,12 +2860,6 @@
  - user: None
  - tags: $tags
 
-## Joe Manchin tells CEOs it's 'foolish' for them to give money to political candidates while 'asking nothing in return'
- - [https://www.reddit.com/r/politics/comments/ylk9ps/joe_manchin_tells_ceos_its_foolish_for_them_to/](https://www.reddit.com/r/politics/comments/ylk9ps/joe_manchin_tells_ceos_its_foolish_for_them_to/)
- - date published: 2022-11-04 00:49:41+00:00
- - user: None
- - tags: $tags
-
 ## Linux Boot Partitions
  - [https://0pointer.net/blog/linux-boot-partitions.html](https://0pointer.net/blog/linux-boot-partitions.html)
  - date published: 2022-11-03 18:13:25+00:00
@@ -2919,6 +2913,12 @@
  - date published: 2022-11-03 10:56:59+00:00
  - user: rumpel
  - tags: ['propaganda', 'covid']
+
+## Manchin: 'Foolish' for CEOs to Give Money and Ask 'Nothing in Return'
+ - [https://www.businessinsider.com/joe-manchin-ceos-foolish-give-money-nothing-in-return-2022-11?IR=T](https://www.businessinsider.com/joe-manchin-ceos-foolish-give-money-nothing-in-return-2022-11?IR=T)
+ - date published: 2022-11-03 06:24:00+00:00
+ - user: rumpel
+ - tags: ['manufacturing consent', 'corporatocracy']
 
 ## TikTok says staff in China can access UK and EU user data
  - [https://www.bbc.co.uk/news/business-63494951?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63494951?at_medium=RSS&at_campaign=KARANGA)

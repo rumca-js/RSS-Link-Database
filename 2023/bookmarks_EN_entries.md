@@ -76,6 +76,12 @@
  - user: rumpel
  - tags: ['piracy']
 
+## Applicants seeking to join RAF described as 'useless white male pilots' in bid to hit 'impossible' diversity targets  | UK News | Sky News
+ - [https://news.sky.com/story/raf-recruiters-were-advised-against-selecting-useless-white-male-pilots-to-hit-diversity-targets-12893684](https://news.sky.com/story/raf-recruiters-were-advised-against-selecting-useless-white-male-pilots-to-hit-diversity-targets-12893684)
+ - date published: 2023-06-01 05:58:20+00:00
+ - user: rumpel
+ - tags: ['america', 'racism']
+
 ## Urgent WordPress Update Fixes Critical Flaw in Jetpack Plugin on Million of Sites
  - [https://thehackernews.com/2023/06/urgent-wordpress-update-fixes-critical.html](https://thehackernews.com/2023/06/urgent-wordpress-update-fixes-critical.html)
  - date published: 2023-06-01 04:01:00+00:00
