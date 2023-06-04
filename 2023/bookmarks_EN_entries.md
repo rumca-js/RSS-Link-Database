@@ -1,3 +1,33 @@
+## How the CIA used Crypto AG encryption devices to spy on countries for decades
+ - [https://www.washingtonpost.com/graphics/2020/world/national-security/cia-crypto-encryption-machines-espionage/](https://www.washingtonpost.com/graphics/2020/world/national-security/cia-crypto-encryption-machines-espionage/)
+ - date published: 2023-06-03 11:03:42+00:00
+ - user: rumpel
+ - tags: ['america', 'big brother', 'surveillance', 'spyware', 'tech control', 'crypto wars', 'government control', 'crypto ag', 'cia', 'espionage']
+
+## Szefowa Coca-Cola HBC w Polsce: wyrównamy liczbę kobiet i mężczyzn w kierownictwie [WYWIAD]
+ - [https://businessinsider.com.pl/firmy/szefowa-coca-cola-hbc-chce-w-kierownictwie-tyle-kobiet-co-mezczyzn-ma-plan/d6kexfe](https://businessinsider.com.pl/firmy/szefowa-coca-cola-hbc-chce-w-kierownictwie-tyle-kobiet-co-mezczyzn-ma-plan/d6kexfe)
+ - date published: 2023-06-03 04:47:46+00:00
+ - user: rumpel
+ - tags: ['quotas', 'feminism', 'sexism']
+
+## Tomb Raider
+ - [https://www.filfre.net/2023/06/tomb-raider/](https://www.filfre.net/2023/06/tomb-raider/)
+ - date published: 2023-06-03 00:15:14+00:00
+ - user: rumpel
+ - tags: ['tomb raider', 'games']
+
+## FTC: Former Amazon Ring Employee Spied On Women With Cameras In Bathrooms and Bedrooms
+ - [https://reclaimthenet.org/ring-employee-spied-on-women](https://reclaimthenet.org/ring-employee-spied-on-women)
+ - date published: 2023-06-02 20:37:45+00:00
+ - user: rumpel
+ - tags: ['privacy', 'anonymity', 'technofeudalism', 'ring']
+
+## Ministers’ had ‘chilling’ secret unit to curb lockdown dissent
+ - [https://www.telegraph.co.uk/news/2023/06/02/counter-disinformation-unit-government-covid-lockdown/](https://www.telegraph.co.uk/news/2023/06/02/counter-disinformation-unit-government-covid-lockdown/)
+ - date published: 2023-06-02 19:51:07+00:00
+ - user: rumpel
+ - tags: ['england', 'covid', 'counter-disinformation unit']
+
 ## Twitter to Limit Daily Wire Gender Docu as Hateful Content, CEO Claims - Variety
  - [https://variety.com/2023/digital/news/elon-musk-twitter-daily-wire-what-is-a-woman-hateful-content-1235630370/](https://variety.com/2023/digital/news/elon-musk-twitter-daily-wire-what-is-a-woman-hateful-content-1235630370/)
  - date published: 2023-06-01 15:53:08+00:00

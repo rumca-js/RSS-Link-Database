@@ -1,3 +1,9 @@
+## Kasy samoobsługowe demontowane w kolejnych krajach. Jest ważny powód - Instalki.pl
+ - [https://www.instalki.pl/aktualnosci/technika/59435-kasy-samoobslugowe-demontowane-w-kolejnych-krajach-jest-wazny-powod.html](https://www.instalki.pl/aktualnosci/technika/59435-kasy-samoobslugowe-demontowane-w-kolejnych-krajach-jest-wazny-powod.html)
+ - date published: 2023-06-03 17:46:08.673382+00:00
+ - user: rumpel
+ - tags: ['sociology']
+
 ## Hakerzy ujawnili dane użytkowników Allegro, Onetu, WP i Facebooka. Rząd oferuje weryfikację
  - [https://www.wirtualnemedia.pl/artykul/wyciek-danych-haslo-login-allegro-onetu-wp-facebook-jak-sprawdzic-moje-dane](https://www.wirtualnemedia.pl/artykul/wyciek-danych-haslo-login-allegro-onetu-wp-facebook-jak-sprawdzic-moje-dane)
  - date published: 2023-06-01 01:51:00+00:00
