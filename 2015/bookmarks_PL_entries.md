@@ -16,3 +16,9 @@
  - user: rumpel
  - tags: ['children', 'big brother', 'sweden']
 
+## Dania rezygnuje z gotówki. Historyczny krok - Money.pl
+ - [https://www.money.pl/banki/wiadomosci/artykul/dania-rezygnuje-z-gotowki-historyczny-krok,174,0,1786798.html](https://www.money.pl/banki/wiadomosci/artykul/dania-rezygnuje-z-gotowki-historyczny-krok,174,0,1786798.html)
+ - date published: 2015-05-06 09:47:14+00:00
+ - user: rumpel
+ - tags: ['digital money', 'cbdc', 'denmark']
+

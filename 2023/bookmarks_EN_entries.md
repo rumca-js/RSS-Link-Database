@@ -1,3 +1,27 @@
+## The AI firm that conducted ‘state surveillance’ of your social media posts
+ - [https://www.telegraph.co.uk/news/2023/06/03/logically-ai-firm-social-media-posts-covid/](https://www.telegraph.co.uk/news/2023/06/03/logically-ai-firm-social-media-posts-covid/)
+ - date published: 2023-06-04 12:23:14+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'censorship', 'artificial intelligence']
+
+## Why Is GPS Free?
+ - [https://old.reddit.com/r/AskHistorians/comments/13y7ee7/why_is_gps_free/](https://old.reddit.com/r/AskHistorians/comments/13y7ee7/why_is_gps_free/)
+ - date published: 2023-06-03 18:52:34+00:00
+ - user: rumpel
+ - tags: ['gps']
+
+## CIA, MKUltra, and the cover-up of U.S. germ warfare in the Korean war (2022)
+ - [https://jeff-kaye.medium.com/cia-mkultra-and-the-cover-up-of-u-s-germ-warfare-in-the-korean-war-3e3cce505d35](https://jeff-kaye.medium.com/cia-mkultra-and-the-cover-up-of-u-s-germ-warfare-in-the-korean-war-3e3cce505d35)
+ - date published: 2023-06-03 18:06:06+00:00
+ - user: rumpel
+ - tags: ['mkultra', 'psyop', 'cia']
+
+## Utah school district that banned Bible considers removing Book of Mormon
+ - [https://www.theguardian.com/books/2023/jun/03/utah-school-district-book-of-morman-ban](https://www.theguardian.com/books/2023/jun/03/utah-school-district-book-of-morman-ban)
+ - date published: 2023-06-03 15:22:11+00:00
+ - user: rumpel
+ - tags: ['christianophobia']
+
 ## How the CIA used Crypto AG encryption devices to spy on countries for decades
  - [https://www.washingtonpost.com/graphics/2020/world/national-security/cia-crypto-encryption-machines-espionage/](https://www.washingtonpost.com/graphics/2020/world/national-security/cia-crypto-encryption-machines-espionage/)
  - date published: 2023-06-03 11:03:42+00:00
