@@ -2030,7 +2030,7 @@
  - [https://www.youtube.com/watch?v=48AOOynnmqU](https://www.youtube.com/watch?v=48AOOynnmqU)
  - date published: 2022-11-25 14:39:54+00:00
  - user: rumpel
- - tags: ['algorithms', 'search engines']
+ - tags: ['algorithms', 'dead internet', 'search engines']
 
 ## "Tantura" Exposes the Lie at the Heart of Israel's Founding Myth
  - [https://theintercept.com/2022/11/25/tantura-movie-israel-palestine/](https://theintercept.com/2022/11/25/tantura-movie-israel-palestine/)

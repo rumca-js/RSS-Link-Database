@@ -1,3 +1,21 @@
+## Why Did Usenet Fail?
+ - [https://shkspr.mobi/blog/2023/06/why-did-usenet-fail/](https://shkspr.mobi/blog/2023/06/why-did-usenet-fail/)
+ - date published: 2023-06-05 11:39:28+00:00
+ - user: rumpel
+ - tags: ['user interface']
+
+## Tell HN: My Reddit account was banned after adding my subs to the protest
+ - [https://news.ycombinator.com/item?id=36192312](https://news.ycombinator.com/item?id=36192312)
+ - date published: 2023-06-05 04:34:54+00:00
+ - user: rumpel
+ - tags: ['reddit', 'technofeudalism']
+
+## San Francisco Homeowners Lose $260B in Value
+ - [https://www.hoover.org/research/san-francisco-homeowners-lose-260-billion-value](https://www.hoover.org/research/san-francisco-homeowners-lose-260-billion-value)
+ - date published: 2023-06-05 03:32:10+00:00
+ - user: rumpel
+ - tags: ['america', 'the left wing', 'san francisco']
+
 ## The AI firm that conducted ‘state surveillance’ of your social media posts
  - [https://www.telegraph.co.uk/news/2023/06/03/logically-ai-firm-social-media-posts-covid/](https://www.telegraph.co.uk/news/2023/06/03/logically-ai-firm-social-media-posts-covid/)
  - date published: 2023-06-04 12:23:14+00:00
