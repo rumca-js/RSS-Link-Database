@@ -1,3 +1,27 @@
+## Reddit permanently bans account of user advocating Lemmy migration
+ - [https://lemmy.ml/post/1152281](https://lemmy.ml/post/1152281)
+ - date published: 2023-06-06 17:06:52+00:00
+ - user: rumpel
+ - tags: ['reddit']
+
+## Reddit’s plan to kill third-party apps sparks widespread protests
+ - [https://arstechnica.com/gadgets/2023/06/reddits-plan-to-kill-third-party-apps-sparks-widespread-protests/](https://arstechnica.com/gadgets/2023/06/reddits-plan-to-kill-third-party-apps-sparks-widespread-protests/)
+ - date published: 2023-06-06 10:52:36+00:00
+ - user: rumpel
+ - tags: ['reddit']
+
+## Why SQLite is so great for the edge
+ - [https://blog.turso.tech/why-sqlite-is-so-great-for-the-edge-ee00a3a9a55f](https://blog.turso.tech/why-sqlite-is-so-great-for-the-edge-ee00a3a9a55f)
+ - date published: 2023-06-06 05:37:28+00:00
+ - user: rumpel
+ - tags: ['programming', 'sqlite']
+
+## AI Does Not Help Programmers
+ - [https://cacm.acm.org/blogs/blog-cacm/273577-ai-does-not-help-programmers/fulltext](https://cacm.acm.org/blogs/blog-cacm/273577-ai-does-not-help-programmers/fulltext)
+ - date published: 2023-06-05 19:51:50+00:00
+ - user: rumpel
+ - tags: ['programming', 'artificial intelligence']
+
 ## Why Did Usenet Fail?
  - [https://shkspr.mobi/blog/2023/06/why-did-usenet-fail/](https://shkspr.mobi/blog/2023/06/why-did-usenet-fail/)
  - date published: 2023-06-05 11:39:28+00:00
@@ -21,6 +45,12 @@
  - date published: 2023-06-04 12:23:14+00:00
  - user: rumpel
  - tags: ['surveillance', 'censorship', 'artificial intelligence']
+
+## Lockdown benefits ‘a drop in the bucket compared to the costs’, landmark study concludes
+ - [https://www.telegraph.co.uk/news/2023/06/04/first-lockdown-prevented-1700-deaths-landmark-study-finds/](https://www.telegraph.co.uk/news/2023/06/04/first-lockdown-prevented-1700-deaths-landmark-study-finds/)
+ - date published: 2023-06-04 06:39:53+00:00
+ - user: rumpel
+ - tags: ['covid', 'lockdown']
 
 ## Why Is GPS Free?
  - [https://old.reddit.com/r/AskHistorians/comments/13y7ee7/why_is_gps_free/](https://old.reddit.com/r/AskHistorians/comments/13y7ee7/why_is_gps_free/)
@@ -718,6 +748,12 @@
  - user: rumpel
  - tags: ['technofeudalism', 'ad business', 'youtube']
 
+## Linus’ 10 Rules for Good Videos
+ - [https://www.youtube.com/watch?v=mouSkcAltqM](https://www.youtube.com/watch?v=mouSkcAltqM)
+ - date published: 2023-05-10 16:00:35+00:00
+ - user: rumpel
+ - tags: ['hobby', 'youtuber']
+
 ## Google breaking European privacy law by hoarding personal data of job candidates
  - [https://fortune.com/2023/05/10/exclusive-google-recruitment-ghire-gdpr-violation-whistleblower/](https://fortune.com/2023/05/10/exclusive-google-recruitment-ghire-gdpr-violation-whistleblower/)
  - date published: 2023-05-10 14:37:48+00:00
@@ -1388,7 +1424,7 @@
  - [https://www.youtube.com/watch?v=yRQB61VWmw8](https://www.youtube.com/watch?v=yRQB61VWmw8)
  - date published: 2023-04-17 20:11:35+00:00
  - user: rumpel
- - tags: ['the left wing', 'transgender', 'gender']
+ - tags: ['gender', 'transgender', 'the left wing']
 
 ## Panic at Google: Samsung considers dumping search for Bing and ChatGPT
  - [https://arstechnica.com/?p=1932211](https://arstechnica.com/?p=1932211)
@@ -2396,7 +2432,7 @@
  - [https://www.washingtonexaminer.com/restoring-america/courage-strength-optimism/norway-offers-a-step-forward-in-eliminating-gender-ideology](https://www.washingtonexaminer.com/restoring-america/courage-strength-optimism/norway-offers-a-step-forward-in-eliminating-gender-ideology)
  - date published: 2023-03-13 14:30:03+00:00
  - user: rumpel
- - tags: ['woke', 'lgbt', 'transgender']
+ - tags: ['woke', 'lgbt', 'transgender', 'the left wing']
 
 ## Botnet that knows your name and quotes your email is back with new tricks | Ars Technica
  - [https://arstechnica.com/information-technology/2023/03/botnet-that-knows-your-name-and-quotes-your-email-is-back-with-new-tricks/](https://arstechnica.com/information-technology/2023/03/botnet-that-knows-your-name-and-quotes-your-email-is-back-with-new-tricks/)

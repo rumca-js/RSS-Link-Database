@@ -1,3 +1,9 @@
+## Komisja Europejska nie chce obciążyć prywatnych odrzutowców opłatami za emisje | Energetyka24
+ - [https://energetyka24.com/klimat/wiadomosci/komisja-europejska-nie-chce-obciazyc-prywatnych-odrzutowcow-oplatami-za-emisje](https://energetyka24.com/klimat/wiadomosci/komisja-europejska-nie-chce-obciazyc-prywatnych-odrzutowcow-oplatami-za-emisje)
+ - date published: 2023-06-05 13:03:42+00:00
+ - user: rumpel
+ - tags: ['climate change', 'elites']
+
 ## Kasy samoobsługowe demontowane w kolejnych krajach. Jest ważny powód - Instalki.pl
  - [https://www.instalki.pl/aktualnosci/technika/59435-kasy-samoobslugowe-demontowane-w-kolejnych-krajach-jest-wazny-powod.html](https://www.instalki.pl/aktualnosci/technika/59435-kasy-samoobslugowe-demontowane-w-kolejnych-krajach-jest-wazny-powod.html)
  - date published: 2023-06-03 17:46:08.673382+00:00
@@ -62,7 +68,7 @@
  - [https://www.pap.pl/aktualnosci/news%2C1568660%2Cprof-lew-starowicz-stale-mam-do-czynienia-ze-zla-diagnostyka-80-proc](https://www.pap.pl/aktualnosci/news%2C1568660%2Cprof-lew-starowicz-stale-mam-do-czynienia-ze-zla-diagnostyka-80-proc)
  - date published: 2023-05-05 09:42:40+00:00
  - user: rumpel
- - tags: ['gender', 'lew starowicz', 'transgender']
+ - tags: ['transgender', 'gender', 'lew starowicz', 'the left wing']
 
 ## Przepisy covidowe niekonstytucyjne. Eksperci: nie powinny już funkcjonować
         
