@@ -670,6 +670,12 @@
  - user: None
  - tags: ['newspeak', 'the left wing', 'social engineering', 'stanford']
 
+## Charity volunteer arrested, charged for silent prayer “thoughtcrime” near abortion facility - ADF UK
+ - [https://adf.uk/woman-charged-for-thoughtcrime/](https://adf.uk/woman-charged-for-thoughtcrime/)
+ - date published: 2022-12-20 13:01:57+00:00
+ - user: rumpel
+ - tags: ['england', 'the left wing', 'christianophobia']
+
 ## FTC Fines Fortnite Maker Epic Games $275 Million for Violating Children's Privacy Law
  - [https://thehackernews.com/2022/12/ftc-fines-fortnite-maker-epic-games-275.html](https://thehackernews.com/2022/12/ftc-fines-fortnite-maker-epic-games-275.html)
  - date published: 2022-12-20 06:33:00+00:00
@@ -1772,7 +1778,7 @@
  - [https://www.youtube.com/watch?v=ON52n1Xa4I0](https://www.youtube.com/watch?v=ON52n1Xa4I0)
  - date published: 2022-12-01 14:09:06+00:00
  - user: rumpel
- - tags: ['covid', 'digital passport', 'digital identity']
+ - tags: ['digital identity', 'covid', 'vaccine passport', 'digital passport']
 
 ## After Disney's 'Strange World' bombs, film critic says ‘go woke, go broke’
  - [https://nypost.com/2022/12/01/after-disneys-strange-world-bombs-film-critic-says-go-woke-go-broke/](https://nypost.com/2022/12/01/after-disneys-strange-world-bombs-film-critic-says-go-woke-go-broke/)
@@ -2282,7 +2288,7 @@
  - [https://www.theepochtimes.com/g-20-promotes-who-standardized-global-vaccine-passport-and-digital-health-identity-scheme_4869188.html](https://www.theepochtimes.com/g-20-promotes-who-standardized-global-vaccine-passport-and-digital-health-identity-scheme_4869188.html)
  - date published: 2022-11-17 13:06:53+00:00
  - user: None
- - tags: ['digital identity', 'government control', 'digital passport']
+ - tags: ['digital identity', 'government control', 'vaccine passport', 'digital passport']
 
 ## Democrat pushes legislation to ban Trump from ever holding office
  - [https://www.dailymail.co.uk/news/article-11436517/Democrat-pushes-legislation-ban-Trump-holding-office.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11436517/Democrat-pushes-legislation-ban-Trump-holding-office.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -8842,6 +8848,12 @@
  - user: rumpel
  - tags: ['ministry of truth', 'surveillance', 'misinformation', 'big brother', 'disinformation governance board']
 
+## ESG scores similar to China's social credit system, designed to transform society, think tank director says | Fox Business
+ - [https://www.foxbusiness.com/economy/esg-scores-similar-china-social-credit-system-designed-to-transform-society-think-tank-director-says](https://www.foxbusiness.com/economy/esg-scores-similar-china-social-credit-system-designed-to-transform-society-think-tank-director-says)
+ - date published: 2022-05-18 13:38:44+00:00
+ - user: rumpel
+ - tags: ['america', 'social score', 'esg']
+
 ## Black Lives Matter spent at least $12 million on mansions
  - [https://nypost.com/2022/05/17/black-lives-matter-spent-at-least-12-million-on-mansions/](https://nypost.com/2022/05/17/black-lives-matter-spent-at-least-12-million-on-mansions/)
  - date published: 2022-05-17 19:55:33+00:00
@@ -10910,7 +10922,7 @@
  - [https://twitter.com/Piotr_Schramm/status/1486384858754699268](https://twitter.com/Piotr_Schramm/status/1486384858754699268)
  - date published: 2022-01-26 08:23:55+00:00
  - user: None
- - tags: ['digital identity', 'government control', 'digital passport']
+ - tags: ['digital identity', 'government control', 'vaccine passport', 'digital passport']
 
 ## FDA Asks the Court to Delay First 55,000 Page Production Until May and Pfizer Moves to Intervene in the Lawsuit
  - [https://aaronsiri.substack.com/p/fda-asks-the-court-to-delay-first](https://aaronsiri.substack.com/p/fda-asks-the-court-to-delay-first)

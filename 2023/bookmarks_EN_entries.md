@@ -1,14 +1,80 @@
+## Sisters of Perpetual Indulgence - Wikipedia
+ - [https://en.wikipedia.org/wiki/Sisters_of_Perpetual_Indulgence](https://en.wikipedia.org/wiki/Sisters_of_Perpetual_Indulgence)
+ - date published: 2023-06-07 14:31:57+00:00
+ - user: rumpel
+ - tags: ['the left wing', 'christianophobia']
+
+## 10 years after Snowden's first leak, what have we learned?
+ - [https://www.theregister.com/2023/06/07/10_years_after_snowden/](https://www.theregister.com/2023/06/07/10_years_after_snowden/)
+ - date published: 2023-06-07 14:24:33+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'privacy', 'edward snowden']
+
+## Former ByteDance exec: Chinese Communist Party tracked Hong Kong protesters via data
+ - [https://abcnews.go.com/International/wireStory/former-bytedance-executive-chinese-communist-party-tracked-hong-99894243](https://abcnews.go.com/International/wireStory/former-bytedance-executive-chinese-communist-party-tracked-hong-99894243)
+ - date published: 2023-06-07 12:22:52+00:00
+ - user: rumpel
+ - tags: ['technofeudalism', 'bytedance', 'china']
+
+## List of conspiracy theories - Wikipedia
+ - [https://en.wikipedia.org/wiki/List_of_conspiracy_theories](https://en.wikipedia.org/wiki/List_of_conspiracy_theories)
+ - date published: 2023-06-07 07:27:08+00:00
+ - user: rumpel
+ - tags: ['conspiracy theories']
+
+## White genocide conspiracy theory - Wikipedia
+ - [https://en.wikipedia.org/wiki/White_genocide_conspiracy_theory](https://en.wikipedia.org/wiki/White_genocide_conspiracy_theory)
+ - date published: 2023-06-07 07:25:14+00:00
+ - user: rumpel
+ - tags: ['white genocide', 'conspiracy theories', 'coudenhove-kalergi', 'the right wing']
+
+## AI images outperforming photos on Adobe Stock (17 cent RPI/m VS 3.75 cent)
+ - [https://www.stockperformer.com/blog/is-ai-killing-the-stock-industry-a-data-perspective/](https://www.stockperformer.com/blog/is-ai-killing-the-stock-industry-a-data-perspective/)
+ - date published: 2023-06-07 05:45:07+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
+
+## Microsoft has no shame: Bing spit on my ‘Chrome’ search with a fake AI answer
+ - [https://www.theverge.com/2023/6/6/23736289/microsoft-bing-chrome-search-fake-ai-chatbot](https://www.theverge.com/2023/6/6/23736289/microsoft-bing-chrome-search-fake-ai-chatbot)
+ - date published: 2023-06-07 02:15:57+00:00
+ - user: rumpel
+ - tags: ['manufacturing consent', 'artificial intelligence', 'dark design']
+
+## How Apple's Vision Pro Will Change Society Forever
+ - [https://www.youtube.com/watch?v=M2LWcHIyNWQ](https://www.youtube.com/watch?v=M2LWcHIyNWQ)
+ - date published: 2023-06-07 02:08:02+00:00
+ - user: rumpel
+ - tags: ['virtual reality']
+
+## U.S. Was Aware of Ukrainian Plan to Bomb Nord Stream Pipeline Before Attack
+ - [https://www.nytimes.com/2023/06/06/us/politics/nord-stream-pipeline-attack-intelligence.html](https://www.nytimes.com/2023/06/06/us/politics/nord-stream-pipeline-attack-intelligence.html)
+ - date published: 2023-06-06 20:11:26+00:00
+ - user: rumpel
+ - tags: ['nord stream', 'america']
+
 ## Reddit permanently bans account of user advocating Lemmy migration
  - [https://lemmy.ml/post/1152281](https://lemmy.ml/post/1152281)
  - date published: 2023-06-06 17:06:52+00:00
  - user: rumpel
- - tags: ['reddit']
+ - tags: ['reddit', 'censorship']
+
+## Legendary drag queen, polarizing activist Sister Roma honored by CA state legislature in Sacramento amid controversy - ABC7 San Francisco
+ - [https://abc7news.com/sister-roma-state-capitol-protest-the-sisters-of-perpetual-indulgence-honored-in-sacramento/13348438/](https://abc7news.com/sister-roma-state-capitol-protest-the-sisters-of-perpetual-indulgence-honored-in-sacramento/13348438/)
+ - date published: 2023-06-06 14:26:38+00:00
+ - user: rumpel
+ - tags: ['america', 'christianophobia', 'the left wing', 'lgbt']
 
 ## Reddit’s plan to kill third-party apps sparks widespread protests
  - [https://arstechnica.com/gadgets/2023/06/reddits-plan-to-kill-third-party-apps-sparks-widespread-protests/](https://arstechnica.com/gadgets/2023/06/reddits-plan-to-kill-third-party-apps-sparks-widespread-protests/)
  - date published: 2023-06-06 10:52:36+00:00
  - user: rumpel
- - tags: ['reddit']
+ - tags: ['reddit', 'technofeudalism']
+
+## WHO to set up global digital health certificate system - Chinadaily.com.cn
+ - [https://global.chinadaily.com.cn/a/202306/06/WS647f3e81a31033ad3f7bac8d.html](https://global.chinadaily.com.cn/a/202306/06/WS647f3e81a31033ad3f7bac8d.html)
+ - date published: 2023-06-06 07:09:04+00:00
+ - user: rumpel
+ - tags: ['digital identity', 'vaccine passport', 'covid', 'digital passport', 'who']
 
 ## Why SQLite is so great for the edge
  - [https://blog.turso.tech/why-sqlite-is-so-great-for-the-edge-ee00a3a9a55f](https://blog.turso.tech/why-sqlite-is-so-great-for-the-edge-ee00a3a9a55f)
@@ -22,11 +88,35 @@
  - user: rumpel
  - tags: ['programming', 'artificial intelligence']
 
+## Adams wants New Yorkers to house migrants in 'private residences'
+ - [https://nypost.com/2023/06/05/adams-wants-new-yorkers-to-house-migrants-in-private-residences/](https://nypost.com/2023/06/05/adams-wants-new-yorkers-to-house-migrants-in-private-residences/)
+ - date published: 2023-06-05 14:39:02+00:00
+ - user: rumpel
+ - tags: ['america', 'immigration', 'the left wing']
+
+## “family parade” in West Hollywood.
+ - [https://twitter.com/GrahamAllen_1/status/1665772989529354240](https://twitter.com/GrahamAllen_1/status/1665772989529354240)
+ - date published: 2023-06-05 14:34:06+00:00
+ - user: rumpel
+ - tags: ['sexualization', 'normalization', 'the left wing', 'lgbt']
+
+## Rotenburger AfD-Kreistagsmitglied Marie-Thérèse Kaiser der Volksverhetzung schuldig | Rotenburg (Wümme)
+ - [https://www.kreiszeitung.de/lokales/rotenburg/rotenburg-ort120515/kreistagsmitglied-der-volksverhetzung-schuldig-rotenburger-afd-92316379.html?s=09](https://www.kreiszeitung.de/lokales/rotenburg/rotenburg-ort120515/kreistagsmitglied-der-volksverhetzung-schuldig-rotenburger-afd-92316379.html?s=09)
+ - date published: 2023-06-05 14:09:13+00:00
+ - user: rumpel
+ - tags: ['germany', 'immigration']
+
 ## Why Did Usenet Fail?
  - [https://shkspr.mobi/blog/2023/06/why-did-usenet-fail/](https://shkspr.mobi/blog/2023/06/why-did-usenet-fail/)
  - date published: 2023-06-05 11:39:28+00:00
  - user: rumpel
  - tags: ['user interface']
+
+## University of Cincinnati student alleges professor failed her project for using the term 'biological women'
+ - [https://nypost.com/2023/06/05/university-of-cincinnati-student-alleges-professor-failed-her-project-for-using-the-term-biological-women/](https://nypost.com/2023/06/05/university-of-cincinnati-student-alleges-professor-failed-her-project-for-using-the-term-biological-women/)
+ - date published: 2023-06-05 05:32:47+00:00
+ - user: rumpel
+ - tags: ['gender', 'censorship', 'the left wing']
 
 ## Tell HN: My Reddit account was banned after adding my subs to the protest
  - [https://news.ycombinator.com/item?id=36192312](https://news.ycombinator.com/item?id=36192312)
@@ -39,6 +129,12 @@
  - date published: 2023-06-05 03:32:10+00:00
  - user: rumpel
  - tags: ['america', 'the left wing', 'san francisco']
+
+## Police Corruption! Christian Arrested in PA for Preaching Three Words at Pride Event: 'God is Not-' -
+ - [https://protestia.com/2023/06/04/police-corruption-christian-arrested-in-pa-for-preaching-three-words-at-pride-event-god-is-not/](https://protestia.com/2023/06/04/police-corruption-christian-arrested-in-pa-for-preaching-three-words-at-pride-event-god-is-not/)
+ - date published: 2023-06-04 12:55:24+00:00
+ - user: rumpel
+ - tags: ['america', 'lgbt', 'the left wing', 'christianophobia']
 
 ## The AI firm that conducted ‘state surveillance’ of your social media posts
  - [https://www.telegraph.co.uk/news/2023/06/03/logically-ai-firm-social-media-posts-covid/](https://www.telegraph.co.uk/news/2023/06/03/logically-ai-firm-social-media-posts-covid/)
@@ -219,6 +315,12 @@
  - date published: 2023-05-31 17:22:45+00:00
  - user: rumpel
  - tags: ['google', 'technofeudalism']
+
+## North Korea elected to World Health Organization executive board
+ - [https://www.foxnews.com/world/north-korea-elected-who-executive-board](https://www.foxnews.com/world/north-korea-elected-who-executive-board)
+ - date published: 2023-05-31 13:53:29+00:00
+ - user: rumpel
+ - tags: ['north korea', 'who']
 
 ## Millions of PC Motherboards Were Sold with a Firmware Backdoor
  - [https://www.wired.com/story/gigabyte-motherboard-firmware-backdoor/](https://www.wired.com/story/gigabyte-motherboard-firmware-backdoor/)
@@ -3554,7 +3656,7 @@
  - [https://iapp.org/news/a/dutch-dpa-says-central-passport-database-entails-major-privacy-risks/](https://iapp.org/news/a/dutch-dpa-says-central-passport-database-entails-major-privacy-risks/)
  - date published: 2023-02-02 17:05:23+00:00
  - user: rumpel
- - tags: ['centralization', 'digital identity']
+ - tags: ['digital identity', 'centralization', 'vulnerability', 'digital passport']
 
 ## Will walled gardens rule VR?
  - [https://worldish.substack.com/p/will-walled-gardens-rule-vr](https://worldish.substack.com/p/will-walled-gardens-rule-vr)
@@ -4101,6 +4203,12 @@
  - date published: 2023-01-19 16:08:10+00:00
  - user: rumpel
  - tags: ['linux', 'open source', 'metaverse']
+
+## Army vet fined for silent prayer (for his late son) in PSPO zone near abortion facility in Bournemouth.
+ - [https://twitter.com/LoisMcLatch/status/1616054556001210369?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1616054556001210369%7Ctwgr%5Ef3ee1bd6c95aead32f32df57ff4266cc1980e5af%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.louderwithcrowder.com%2Fprayer-army-vet-fined](https://twitter.com/LoisMcLatch/status/1616054556001210369?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1616054556001210369%7Ctwgr%5Ef3ee1bd6c95aead32f32df57ff4266cc1980e5af%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.louderwithcrowder.com%2Fprayer-army-vet-fined)
+ - date published: 2023-01-19 13:00:29+00:00
+ - user: rumpel
+ - tags: ['england', 'the left wing', 'christianophobia']
 
 ## Richard von Coudenhove-Kalergi - Wikipedia
  - [https://en.wikipedia.org/wiki/Richard_von_Coudenhove-Kalergi](https://en.wikipedia.org/wiki/Richard_von_Coudenhove-Kalergi)

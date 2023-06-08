@@ -88,6 +88,12 @@
  - user: None
  - tags: ['privacy', 'big brother', 'government control', 'australia']
 
+## Francja. Raport komisji ds. pedofilii. 216 tys. ofiar w ciągu 70 lat - Polsat News
+ - [https://www.polsatnews.pl/wiadomosc/2021-10-05/francja-raport-komisji-ds-pedofilii-216-tys-ofiar-w-ciagu-70-lat/](https://www.polsatnews.pl/wiadomosc/2021-10-05/francja-raport-komisji-ds-pedofilii-216-tys-ofiar-w-ciagu-70-lat/)
+ - date published: 2021-10-05 13:53:40+00:00
+ - user: rumpel
+ - tags: ['religion', 'france', 'church scandal']
+
 ## Dług publiczny rośnie lawinowo. Ekonomiści ostrzegają przed skutkami - Money.pl
  - [https://www.money.pl/gospodarka/dlug-publiczny-rosnie-lawinowo-ekonomisci-ostrzegaja-przed-skutkami-6690562911193728a.html](https://www.money.pl/gospodarka/dlug-publiczny-rosnie-lawinowo-ekonomisci-ostrzegaja-przed-skutkami-6690562911193728a.html)
  - date published: 2021-10-05 07:06:14+00:00
@@ -296,7 +302,7 @@
  - [https://www.dw.com/pl/who-odrzuca-planowane-unijne-paszporty-szczepie%C5%84/a-56793688](https://www.dw.com/pl/who-odrzuca-planowane-unijne-paszporty-szczepie%C5%84/a-56793688)
  - date published: 2021-03-06 14:06:37+00:00
  - user: rumpel
- - tags: ['digital identity', 'who', 'vaccine passport', 'covid', 'vaccine']
+ - tags: ['vaccine', 'digital identity', 'vaccine passport', 'covid', 'digital passport', 'who']
 
 ## Ilu lekarzy faktycznie jest już zaszczepionych?
  - [https://www.medonet.pl/porozmawiajmyoszczepionce/szczepionka-na-covid-19,szczepienia-na-covid-19--ilu-lekarzy-jest-juz-zaszczepionych--sprzeczne-dane,artykul,41949295.html](https://www.medonet.pl/porozmawiajmyoszczepionce/szczepionka-na-covid-19,szczepienia-na-covid-19--ilu-lekarzy-jest-juz-zaszczepionych--sprzeczne-dane,artykul,41949295.html)

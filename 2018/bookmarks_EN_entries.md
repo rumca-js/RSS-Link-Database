@@ -280,6 +280,12 @@
  - user: rumpel
  - tags: ['the left wing', 'pronouns', 'newspeak']
 
+## Deutsche Polizeiliche Kriminalstatistik 2017: Straftaten gegen die sexuelle Selbstbestimmung — Steemit
+ - [https://steemit.com/deutsch/@derhorus/deutsche-polizeiliche-kriminalstatistik-2017-straftaten-gegen-die-sexuelle-selbstbestimmung](https://steemit.com/deutsch/@derhorus/deutsche-polizeiliche-kriminalstatistik-2017-straftaten-gegen-die-sexuelle-selbstbestimmung)
+ - date published: 2018-06-22 14:05:07+00:00
+ - user: rumpel
+ - tags: ['germany', 'immigration']
+
 ## How the Gorgon gas plant could wipe out a year's worth of Australia's solar emissions savings - ABC News
  - [https://www.abc.net.au/news/2018-06-21/gorgon-gas-plant-wiping-out-a-year-of-solar-emission-savings/9890386](https://www.abc.net.au/news/2018-06-21/gorgon-gas-plant-wiping-out-a-year-of-solar-emission-savings/9890386)
  - date published: 2018-06-20 13:43:41+00:00

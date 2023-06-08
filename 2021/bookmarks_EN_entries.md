@@ -4120,6 +4120,12 @@
  - user: rumpel
  - tags: ['jeffrey epstein', 'ghislaine maxwell']
 
+## WHO says it will not encourage vaccine passports for ‘ethical or scientific’ reasons | The Independent
+ - [https://www.independent.co.uk/news/world/who-vaccine-passports-hans-kluge-b1819043.html](https://www.independent.co.uk/news/world/who-vaccine-passports-hans-kluge-b1819043.html)
+ - date published: 2021-03-18 07:15:05+00:00
+ - user: rumpel
+ - tags: ['vaccine passport', 'digital passport', 'who']
+
 ## Portland cut police funding and got a 2,000% surge in murders | Washington Examiner
  - [https://www.washingtonexaminer.com/opinion/portland-cut-police-funding-and-got-a-2-000-surge-in-murders](https://www.washingtonexaminer.com/opinion/portland-cut-police-funding-and-got-a-2-000-surge-in-murders)
  - date published: 2021-03-16 19:30:01+00:00
