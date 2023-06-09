@@ -1,3 +1,9 @@
+## Moja historia cofnięcia zmiany płci. Tranzycja i detranzycja
+ - [https://www.totylkoteoria.pl/tranzycja-detranzycja-zmiana-plci/](https://www.totylkoteoria.pl/tranzycja-detranzycja-zmiana-plci/)
+ - date published: 2023-06-08 06:37:22+00:00
+ - user: rumpel
+ - tags: ['homosexuality', 'transgender']
+
 ## Komisja Europejska nie chce obciążyć prywatnych odrzutowców opłatami za emisje | Energetyka24
  - [https://energetyka24.com/klimat/wiadomosci/komisja-europejska-nie-chce-obciazyc-prywatnych-odrzutowcow-oplatami-za-emisje](https://energetyka24.com/klimat/wiadomosci/komisja-europejska-nie-chce-obciazyc-prywatnych-odrzutowcow-oplatami-za-emisje)
  - date published: 2023-06-05 13:03:42+00:00
@@ -215,6 +221,12 @@
  - date published: 2023-03-09 20:15:47+00:00
  - user: rumpel
  - tags: ['jan pawel 2']
+
+## Fiskus sprawdzi nasze dane na OLX, Allegro i Vinted. Skarbówka dowie się, co i za ile sprzedajemy
+ - [https://www.bankier.pl/wiadomosc/Fiskus-OLX-Allegro-i-Vinted-Skarbowka-dowie-sie-co-i-za-ile-sprzedajemy-8502133.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Fiskus-OLX-Allegro-i-Vinted-Skarbowka-dowie-sie-co-i-za-ile-sprzedajemy-8502133.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - date published: 2023-03-09 08:45:00+00:00
+ - user: rumpel
+ - tags: ['fiskus', 'government control', 'poland', 'allegro']
 
 ## Francja niemal całkowicie sparaliżowana na wiele tygodni. Francuzi nie chcą reformy emerytalnej | Niezalezna.pl
  - [https://niezalezna.pl/477646-francja-protesty-strajki-paraliz-wiek-emerytalny](https://niezalezna.pl/477646-francja-protesty-strajki-paraliz-wiek-emerytalny)

@@ -1,3 +1,9 @@
+## Twitch’s new ad rules will hurt streamers, charities, and brands
+ - [https://www.theverge.com/2023/6/7/23752437/twitch-new-ad-rules](https://www.theverge.com/2023/6/7/23752437/twitch-new-ad-rules)
+ - date published: 2023-06-07 18:20:50+00:00
+ - user: rumpel
+ - tags: ['ad business', 'twitch', 'technofeudalism']
+
 ## Sisters of Perpetual Indulgence - Wikipedia
  - [https://en.wikipedia.org/wiki/Sisters_of_Perpetual_Indulgence](https://en.wikipedia.org/wiki/Sisters_of_Perpetual_Indulgence)
  - date published: 2023-06-07 14:31:57+00:00
@@ -153,6 +159,12 @@
  - date published: 2023-06-03 18:52:34+00:00
  - user: rumpel
  - tags: ['gps']
+
+## Fiskus na Instagramie i Facebooku. Urzędnicy sprawdzają podatników w mediach społecznościowych
+ - [https://businessinsider.com.pl/twoje-pieniadze/fiskus-na-instagramie-i-facebooku-urzednicy-sprawdzaja-podatnikow-w-mediach/s39bcer](https://businessinsider.com.pl/twoje-pieniadze/fiskus-na-instagramie-i-facebooku-urzednicy-sprawdzaja-podatnikow-w-mediach/s39bcer)
+ - date published: 2023-06-03 18:45:00+00:00
+ - user: rumpel
+ - tags: ['fiskus', 'government control']
 
 ## CIA, MKUltra, and the cover-up of U.S. germ warfare in the Korean war (2022)
  - [https://jeff-kaye.medium.com/cia-mkultra-and-the-cover-up-of-u-s-germ-warfare-in-the-korean-war-3e3cce505d35](https://jeff-kaye.medium.com/cia-mkultra-and-the-cover-up-of-u-s-germ-warfare-in-the-korean-war-3e3cce505d35)
@@ -3398,7 +3410,7 @@
  - [https://news.ycombinator.com/item?id=34754284](https://news.ycombinator.com/item?id=34754284)
  - date published: 2023-02-11 17:26:18+00:00
  - user: rumpel
- - tags: ['algorithms', 'recommendation']
+ - tags: ['algorithms']
 
 ## Microsoft vs. Google: The Endgame
  - [https://shrimalmadhur.substack.com/p/microsoft-vs-google-the-endgame](https://shrimalmadhur.substack.com/p/microsoft-vs-google-the-endgame)
@@ -4521,6 +4533,12 @@
  - date published: 2023-01-13 10:08:29+00:00
  - user: rumpel
  - tags: ['cloud computing', 'selfhost', 'smart home']
+
+## Client hints or client lies? | Vivaldi Browser
+ - [https://vivaldi.com/blog/technology/client-hints-or-client-lies/](https://vivaldi.com/blog/technology/client-hints-or-client-lies/)
+ - date published: 2023-01-13 09:26:38+00:00
+ - user: rumpel
+ - tags: ['html', 'vivaldi', 'user agent', 'chrome', 'google', 'browser']
 
 ## U.S. FDA, CDC see early signal of possible Pfizer bivalent COVID shot link to stroke | Reuters
  - [https://www.reuters.com/business/healthcare-pharmaceuticals/us-says-pfizers-bivalent-covid-shot-may-be-linked-stroke-older-adults-2023-01-13/](https://www.reuters.com/business/healthcare-pharmaceuticals/us-says-pfizers-bivalent-covid-shot-may-be-linked-stroke-older-adults-2023-01-13/)

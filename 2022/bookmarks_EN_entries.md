@@ -122,7 +122,7 @@
  - [http://www.msn.com/en-us/news/politics/why-hasn-t-pandemic-aid-fraud-become-a-bigger-scandal/ar-AA15LTA0?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/why-hasn-t-pandemic-aid-fraud-become-a-bigger-scandal/ar-AA15LTA0?li=BBnbcA1&srcref=rss)
  - date published: 2022-12-29 13:21:28.213916+00:00
  - user: rumpel
- - tags: ['covid', 'fraud', 'pandmic']
+ - tags: ['covid', 'fraud', 'pandemic']
 
 ## Google Probably Knows Where You Went for the Holidays. Here's How to Stop It
  - [http://www.msn.com/en-us/news/technology/google-probably-knows-where-you-went-for-the-holidays-here-s-how-to-stop-it/ar-AAM5YFv?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/google-probably-knows-where-you-went-for-the-holidays-here-s-how-to-stop-it/ar-AAM5YFv?li=BBnbcA1&srcref=rss)
@@ -8469,6 +8469,12 @@
  - date published: 2022-06-06 07:49:13.887706+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Researchers Found Puberty Blockers And Hormones Didn’t Improve Trans Kids’ Mental Health At Their Clinic. Then They Published A Study Claiming The Opposite. (Updated)
+ - [https://jessesingal.substack.com/p/researchers-found-puberty-blockers](https://jessesingal.substack.com/p/researchers-found-puberty-blockers)
+ - date published: 2022-06-06 06:29:04+00:00
+ - user: rumpel
+ - tags: ['transgender', 'gender', 'the left wing']
 
 ## I only care about the helpful notifications, not the promotional ones · Caffeinspiration
  - [https://alexanderell.is/posts/sneaking-notifications/](https://alexanderell.is/posts/sneaking-notifications/)

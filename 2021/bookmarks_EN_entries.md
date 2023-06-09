@@ -3562,6 +3562,12 @@
  - user: rumpel
  - tags: ['covid', 'wuhan']
 
+## If you have to be persuaded, reminded pressured, lied to, incentivized, forced, bullied, socially shamed, guilt-tripped, threatened, punished and criminalized
+ - [https://www.reddit.com/r/quotes/comments/q59twe/is_this_a_real_quote_i_cant_seem_to_find_it_on/](https://www.reddit.com/r/quotes/comments/q59twe/is_this_a_real_quote_i_cant_seem_to_find_it_on/)
+ - date published: 2021-06-08 15:10:39+00:00
+ - user: rumpel
+ - tags: ['psychology', 'virtue signalling', 'covid']
+
 ## Anyone remember that Danish TV show pairing children with naked adults?
  - [https://www.mumsnet.com/talk/womens_rights/4282164-Anyone-remember-that-Danish-TV-show-pairing-children-with-naked-adults](https://www.mumsnet.com/talk/womens_rights/4282164-Anyone-remember-that-Danish-TV-show-pairing-children-with-naked-adults)
  - date published: 2021-06-07 22:21:55+00:00
