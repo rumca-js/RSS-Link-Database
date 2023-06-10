@@ -28,6 +28,12 @@
  - user: rumpel
  - tags: ['conspiracy theory', 'pizzagate', 'paedophilia']
 
+## Goodbye car ownership, hello clean air: welcome to the future of transport | World Economic Forum
+ - [https://www.weforum.org/agenda/2016/12/goodbye-car-ownership-hello-clean-air-this-is-the-future-of-transport/](https://www.weforum.org/agenda/2016/12/goodbye-car-ownership-hello-clean-air-this-is-the-future-of-transport/)
+ - date published: 2016-12-09 14:52:10+00:00
+ - user: rumpel
+ - tags: ['climate change', 'technofeudalism', 'electric vehicles', 'corporatocracy', 'world economic forum']
+
 ## Why Socrates Hated Democracy
  - [https://www.youtube.com/watch?v=fLJBzhcSWTk](https://www.youtube.com/watch?v=fLJBzhcSWTk)
  - date published: 2016-11-28 21:06:29+00:00

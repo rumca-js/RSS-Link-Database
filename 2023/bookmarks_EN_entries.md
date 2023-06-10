@@ -1,3 +1,39 @@
+## Turkish citizens' personal data offered online after government site hacked
+ - [https://balkaninsight.com/2023/06/09/turkish-citizens-personal-data-offered-online-after-govt-site-hacked/](https://balkaninsight.com/2023/06/09/turkish-citizens-personal-data-offered-online-after-govt-site-hacked/)
+ - date published: 2023-06-09 17:51:12+00:00
+ - user: rumpel
+ - tags: ['hackers', 'data leak']
+
+## ‘The Force has left Lucasfilm’: how Disney can salvage its $4B investment
+ - [https://fortune.com/2023/06/03/indiana-jones-dial-of-destiny-lucasfilm-star-wars-worry-for-disney-bob-iger/](https://fortune.com/2023/06/03/indiana-jones-dial-of-destiny-lucasfilm-star-wars-worry-for-disney-bob-iger/)
+ - date published: 2023-06-09 16:35:47+00:00
+ - user: rumpel
+ - tags: ['movies', 'disney', 'go woke go broke']
+
+## ‘Call Of Duty’ Removes Nickmercs Operator Skin From Shop After LGBTQ Comments
+ - [https://www.forbes.com/sites/paultassi/2023/06/09/call-of-duty-removes-nickmercs-operator-skin-from-shop-after-lgbtq-comments/](https://www.forbes.com/sites/paultassi/2023/06/09/call-of-duty-removes-nickmercs-operator-skin-from-shop-after-lgbtq-comments/)
+ - date published: 2023-06-09 13:02:26+00:00
+ - user: rumpel
+ - tags: ['lgbt', 'censorship', 'the left wing']
+
+## Google un-bans Downloader app, but developer still mad about “broken” DMCA
+ - [https://arstechnica.com/tech-policy/2023/06/google-un-bans-downloader-app-but-developer-still-mad-about-broken-dmca/](https://arstechnica.com/tech-policy/2023/06/google-un-bans-downloader-app-but-developer-still-mad-about-broken-dmca/)
+ - date published: 2023-06-09 08:04:21+00:00
+ - user: rumpel
+ - tags: ['app store', 'google', 'corporatocracy', 'technofeudalism']
+
+## How's the Stack Overflow strike going?
+ - [https://jlericson.com/2023/06/07/strike_progress.html](https://jlericson.com/2023/06/07/strike_progress.html)
+ - date published: 2023-06-09 05:01:14+00:00
+ - user: rumpel
+ - tags: ['protest', 'stack overflow']
+
+## WHO Funding EXPOSED By Former Director General 😳
+ - [https://www.youtube.com/watch?v=3Mbby-n5wPE](https://www.youtube.com/watch?v=3Mbby-n5wPE)
+ - date published: 2023-06-08 23:00:01+00:00
+ - user: rumpel
+ - tags: ['who']
+
 ## Twitch’s new ad rules will hurt streamers, charities, and brands
  - [https://www.theverge.com/2023/6/7/23752437/twitch-new-ad-rules](https://www.theverge.com/2023/6/7/23752437/twitch-new-ad-rules)
  - date published: 2023-06-07 18:20:50+00:00

@@ -1,3 +1,15 @@
+## Nigeria: 168 zabitych w atakach na chrześcijańskie wsie - Chrześcijański Serwis Informacyjny
+ - [https://chrzescijanin.pl/168-zabitych-w-atakach-na-chrzescijanskie-wsie/](https://chrzescijanin.pl/168-zabitych-w-atakach-na-chrzescijanskie-wsie/)
+ - date published: 2023-06-08 14:48:02+00:00
+ - user: rumpel
+ - tags: ['nigeria', 'christianophobia']
+
+## Jest porozumienie ws. relokacji migrantów mimo sprzeciwu Polski - RMF 24
+ - [https://www.rmf24.pl/fakty/swiat/news-jest-porozumienie-ws-relokacji-migrantow-mimo-sprzeciwu-pols,nId,6829558#crp_state=1](https://www.rmf24.pl/fakty/swiat/news-jest-porozumienie-ws-relokacji-migrantow-mimo-sprzeciwu-pols,nId,6829558#crp_state=1)
+ - date published: 2023-06-08 08:10:59+00:00
+ - user: rumpel
+ - tags: ['poland', 'immigration']
+
 ## Moja historia cofnięcia zmiany płci. Tranzycja i detranzycja
  - [https://www.totylkoteoria.pl/tranzycja-detranzycja-zmiana-plci/](https://www.totylkoteoria.pl/tranzycja-detranzycja-zmiana-plci/)
  - date published: 2023-06-08 06:37:22+00:00

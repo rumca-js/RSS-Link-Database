@@ -436,6 +436,12 @@
  - user: rumpel
  - tags: ['feminism', 'norway']
 
+## Science proves communism makes nations poorer and less healthy
+ - [https://nypost.com/2018/04/11/science-proves-communism-makes-nations-poorer-and-less-healthy/](https://nypost.com/2018/04/11/science-proves-communism-makes-nations-poorer-and-less-healthy/)
+ - date published: 2018-04-11 19:50:05+00:00
+ - user: rumpel
+ - tags: ['socialism', 'society']
+
 ## Mozilla: The ad economy is broken and it's making the internet sick
  - [https://www.zdnet.com/article/mozilla-the-ad-economy-is-broken-and-its-making-the-internet-sick/](https://www.zdnet.com/article/mozilla-the-ad-economy-is-broken-and-its-making-the-internet-sick/)
  - date published: 2018-04-10 06:43:44+00:00
