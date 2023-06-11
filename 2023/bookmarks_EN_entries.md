@@ -1,3 +1,21 @@
+## Invidious - An open source alternative front-end to YouTube
+ - [https://invidious.io/](https://invidious.io/)
+ - date published: 2023-06-10 06:38:34+00:00
+ - user: rumpel
+ - tags: ['selfhost']
+
+## Desktop Linux is insecure – 2023
+ - [https://bjornpagen.com/en_US/desktop%20linux%20is%20insecure](https://bjornpagen.com/en_US/desktop%20linux%20is%20insecure)
+ - date published: 2023-06-10 04:18:43+00:00
+ - user: rumpel
+ - tags: ['linux']
+
+## Have you noticed how much shit the internet has become now? (2007)
+ - [https://old.sage.moe/g/thread/721239](https://old.sage.moe/g/thread/721239)
+ - date published: 2023-06-09 19:20:54+00:00
+ - user: rumpel
+ - tags: ['web20', 'web30', 'internet', 'web10']
+
 ## Turkish citizens' personal data offered online after government site hacked
  - [https://balkaninsight.com/2023/06/09/turkish-citizens-personal-data-offered-online-after-govt-site-hacked/](https://balkaninsight.com/2023/06/09/turkish-citizens-personal-data-offered-online-after-govt-site-hacked/)
  - date published: 2023-06-09 17:51:12+00:00

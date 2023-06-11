@@ -694,6 +694,12 @@
  - user: rumpel
  - tags: ['transgender', 'family', 'lgbt', 'the left wing']
 
+## The golden age of YouTube is over - The Verge
+ - [https://www.theverge.com/2019/4/5/18287318/youtube-logan-paul-pewdiepie-demonetization-adpocalypse-premium-influencers-creators](https://www.theverge.com/2019/4/5/18287318/youtube-logan-paul-pewdiepie-demonetization-adpocalypse-premium-influencers-creators)
+ - date published: 2019-04-05 06:50:09+00:00
+ - user: rumpel
+ - tags: ['web20', 'internet', 'youtube']
+
 ## The quickest way to get into a fight in a 1960s Australian pub | RetroFocus
  - [https://www.youtube.com/watch?v=esBLinbJydI](https://www.youtube.com/watch?v=esBLinbJydI)
  - date published: 2019-04-05 00:00:00+00:00

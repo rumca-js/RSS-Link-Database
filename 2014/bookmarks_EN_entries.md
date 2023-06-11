@@ -46,6 +46,12 @@
  - user: rumpel
  - tags: ['covid', 'sars']
 
+## How many times Muslims invaded Europe vs. Europeans invaded Muslim countries?
+ - [https://www.youtube.com/watch?v=c7y2LRcf4kc](https://www.youtube.com/watch?v=c7y2LRcf4kc)
+ - date published: 2014-10-20 00:00:00+00:00
+ - user: rumpel
+ - tags: ['crusades', 'religion', 'catholic']
+
 ## White House to Cut Funding for Risky Biological Study - The New York Times
  - [https://www.nytimes.com/2014/10/18/us/white-house-to-cut-funding-for-risky-biological-study.html](https://www.nytimes.com/2014/10/18/us/white-house-to-cut-funding-for-risky-biological-study.html)
  - date published: 2014-10-18 14:48:23+00:00

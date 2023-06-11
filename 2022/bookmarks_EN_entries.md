@@ -9952,6 +9952,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Why youtubers are leaving YouTube
+ - [https://www.youtube.com/watch?v=A4SxKYCQxo0](https://www.youtube.com/watch?v=A4SxKYCQxo0)
+ - date published: 2022-03-20 00:00:00+00:00
+ - user: rumpel
+ - tags: ['content creation']
+
 ## Web3.0: A Libertarian Dystopia
  - [https://www.youtube.com/watch?v=u-sNSjS8cq0](https://www.youtube.com/watch?v=u-sNSjS8cq0)
  - date published: 2022-03-19 20:47:38+00:00
