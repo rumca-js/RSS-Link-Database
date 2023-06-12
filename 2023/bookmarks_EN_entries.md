@@ -1,3 +1,9 @@
+## Inside the Wuhan lab weeks before Covid
+ - [https://www.thetimes.co.uk/article/inside-wuhan-lab-covid-pandemic-china-america-qhjwwwvm0](https://www.thetimes.co.uk/article/inside-wuhan-lab-covid-pandemic-china-america-qhjwwwvm0)
+ - date published: 2023-06-10 23:13:13+00:00
+ - user: rumpel
+ - tags: ['covid', 'wuhan']
+
 ## Invidious - An open source alternative front-end to YouTube
  - [https://invidious.io/](https://invidious.io/)
  - date published: 2023-06-10 06:38:34+00:00
@@ -111,6 +117,12 @@
  - date published: 2023-06-06 20:11:26+00:00
  - user: rumpel
  - tags: ['nord stream', 'america']
+
+## UK Health Security Agency data shows large increase in STI diagnoses in gay and bisexual men in 2022 - Scene Magazine - From the heart of LGBTQ+ Life
+ - [https://www.gscene.com/news/health/uk-health-security-agency-data-shows-large-increase-in-sti-diagnoses-in-gay-and-bisexual-men-in-2022/](https://www.gscene.com/news/health/uk-health-security-agency-data-shows-large-increase-in-sti-diagnoses-in-gay-and-bisexual-men-in-2022/)
+ - date published: 2023-06-06 20:07:37+00:00
+ - user: rumpel
+ - tags: ['syphilis', 'england', 'the left wing', 'homosexuality']
 
 ## Reddit permanently bans account of user advocating Lemmy migration
  - [https://lemmy.ml/post/1152281](https://lemmy.ml/post/1152281)
