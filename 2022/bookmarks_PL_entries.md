@@ -200,13 +200,7 @@
  - [https://www.bankier.pl/wiadomosc/Ameryka-jedzie-na-rezerwie-8435106.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Ameryka-jedzie-na-rezerwie-8435106.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date published: 2022-11-08 05:00:00+00:00
  - user: None
- - tags: $tags
-
-## Liderzy swiatowi, apelujacy o ograniczenie spozycia miesa i walke...
- - [https://www.wykop.pl/link/6892155/liderzy-swiatowi-apelujacy-o-ograniczenie-spozycia-miesa-i-walke/](https://www.wykop.pl/link/6892155/liderzy-swiatowi-apelujacy-o-ograniczenie-spozycia-miesa-i-walke/)
- - date published: 2022-11-07 21:28:01+00:00
- - user: None
- - tags: $tags
+ - tags: ['joe biden']
 
 ## Zamyka restaurację z gwiazdką Michelin. Stracił smak i węch przez COVID-19
  - [https://wydarzenia.interia.pl/zagranica/news-zamyka-restauracje-z-gwiazdka-michelin-stracil-smak-i-wech-p,nId,6392210](https://wydarzenia.interia.pl/zagranica/news-zamyka-restauracje-z-gwiazdka-michelin-stracil-smak-i-wech-p,nId,6392210)
@@ -266,19 +260,13 @@
  - [https://www.bankier.pl/wiadomosc/Centra-handlowe-zapomnialy-o-pandemii-Obroty-znacznie-wzrosly-8431788.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Centra-handlowe-zapomnialy-o-pandemii-Obroty-znacznie-wzrosly-8431788.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date published: 2022-10-31 11:43:00+00:00
  - user: None
- - tags: $tags
+ - tags: ['covid']
 
 ## Analitycy: Większość projektów biznesowych Metaverse zniknie do 2025 r.
  - [https://ithardware.pl/aktualnosci/wiekszosc_projektow_biznesowych_metaverse_zniknie_do_2025_r-24071.html](https://ithardware.pl/aktualnosci/wiekszosc_projektow_biznesowych_metaverse_zniknie_do_2025_r-24071.html)
  - date published: 2022-10-30 13:24:20+00:00
  - user: None
  - tags: ['mark zuckerberg', 'metaverse', 'virtual reality', 'facebook', 'meta']
-
-## Powtórka z wielkiej recesji? W USA słabnie optymizm co do losów przyszłego pokolenia
- - [https://www.bankier.pl/wiadomosc/Powtorka-z-wielkiej-recesji-W-USA-slabnie-optymizm-co-do-losow-przyszlego-pokolenia-8428884.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Powtorka-z-wielkiej-recesji-W-USA-slabnie-optymizm-co-do-losow-przyszlego-pokolenia-8428884.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
- - date published: 2022-10-30 09:00:00+00:00
- - user: None
- - tags: $tags
 
 ## Telefon Liz Truss zhakowany. Media: Wyciekły tajne dane
  - [https://wydarzenia.interia.pl/zagranica/news-telefon-liz-truss-zhakowany-media-wyciekly-tajne-dane,nId,6380088](https://wydarzenia.interia.pl/zagranica/news-telefon-liz-truss-zhakowany-media-wyciekly-tajne-dane,nId,6380088)
@@ -290,7 +278,7 @@
  - [https://www.bankier.pl/wiadomosc/Chiny-znow-objely-lockdownem-ponad-200-mln-osob-Winne-nowe-warianty-COVID-19-8431271.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Chiny-znow-objely-lockdownem-ponad-200-mln-osob-Winne-nowe-warianty-COVID-19-8431271.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date published: 2022-10-29 18:49:00+00:00
  - user: None
- - tags: $tags
+ - tags: ['china', 'covid', 'lockdown']
 
 ## Chiny przejmują niemieckie firmy. Głównie technologiczne. Bild: Scholz to lobbysta Pekinu
  - [https://www.bankier.pl/wiadomosc/Chiny-przejmuja-niemieckie-firmy-Glownie-technologiczne-Bild-Scholz-to-lobbysta-Pekinu-8431108.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Chiny-przejmuja-niemieckie-firmy-Glownie-technologiczne-Bild-Scholz-to-lobbysta-Pekinu-8431108.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -345,12 +333,6 @@
  - date published: 2022-10-25 11:22:28+00:00
  - user: rumpel
  - tags: ['covid', 'hospital']
-
-## Rodzice oburzeni. Pierwsze niemieckie miasto z taką regulacją
- - [https://www.wykop.pl/link/6873985/rodzice-oburzeni-pierwsze-niemieckie-miasto-z-taka-regulacja/](https://www.wykop.pl/link/6873985/rodzice-oburzeni-pierwsze-niemieckie-miasto-z-taka-regulacja/)
- - date published: 2022-10-24 23:35:02+00:00
- - user: None
- - tags: $tags
 
 ## Koszt jazdy elektrykiem porównywalny z autem spalinowym [Raport]
  - [https://www.bankier.pl/wiadomosc/Koszt-jazdy-elektrykiem-porownywalny-z-autem-spalinowym-Raport-8427995.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Koszt-jazdy-elektrykiem-porownywalny-z-autem-spalinowym-Raport-8427995.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -418,12 +400,6 @@
  - user: None
  - tags: ['telegram', 'censorship', 'germany']
 
-## Xi Jinping ostrzega przed „sztormem”. Chiny mierzą się z poważnymi wyzwaniami
- - [https://www.bankier.pl/wiadomosc/Xi-Jinping-ostrzega-przed-sztormem-Chiny-mierza-sie-z-powaznymi-wyzwaniami-8425833.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Xi-Jinping-ostrzega-przed-sztormem-Chiny-mierza-sie-z-powaznymi-wyzwaniami-8425833.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
- - date published: 2022-10-20 06:16:00+00:00
- - user: None
- - tags: $tags
-
 ## Media: Putin wprowadza stan wojenny w anektowanych obwodach
  - [https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-media-putin-wprowadza-stan-wojenny-w-anektowanych-obwodach,nId,6357629](https://wydarzenia.interia.pl/raporty/raport-ukraina-rosja/aktualnosci/news-media-putin-wprowadza-stan-wojenny-w-anektowanych-obwodach,nId,6357629)
  - date published: 2022-10-19 12:01:53+00:00
@@ -454,12 +430,6 @@
  - user: None
  - tags: $tags
 
-## Mark Wahlberg wyprowadził się z Hollywood. Chce zapewnić swoim dzieciom "lepsze życie"
- - [https://tvn24.pl/kultura-i-styl/hollywood-mark-wahlberg-przeprowadzil-sie-do-nevady-6163475?source=rss](https://tvn24.pl/kultura-i-styl/hollywood-mark-wahlberg-przeprowadzil-sie-do-nevady-6163475?source=rss)
- - date published: 2022-10-14 13:12:51+00:00
- - user: None
- - tags: $tags
-
 ## TSMC chce niszczenia fabryk w przypadku chińskiej inwazji. I tak ich nie wykorzystają
  - [https://ithardware.pl/aktualnosci/tsmc_przeciwko_niszczeniu_fabryk_w_przypadku_chinskiej_inwazji_i_tak_ich_nie_wykorzystaja-23827.html](https://ithardware.pl/aktualnosci/tsmc_przeciwko_niszczeniu_fabryk_w_przypadku_chinskiej_inwazji_i_tak_ich_nie_wykorzystaja-23827.html)
  - date published: 2022-10-13 10:09:00+00:00
@@ -476,7 +446,7 @@
  - [https://ithardware.pl/aktualnosci/lufthansa_zakazuje_airtagow_pasazerowie_osmieszaja_przewoznika_samemu_namierzajac_zagubiony_bagaz-23766.html](https://ithardware.pl/aktualnosci/lufthansa_zakazuje_airtagow_pasazerowie_osmieszaja_przewoznika_samemu_namierzajac_zagubiony_bagaz-23766.html)
  - date published: 2022-10-10 10:12:50+00:00
  - user: None
- - tags: $tags
+ - tags: ['public transport']
 
 ## Morawiecki zapowiedział aktywny udział PL w 4-tej rewolucji Schwaba
  - [https://www.youtube.com/watch?v=LdVgb8Q8BRY](https://www.youtube.com/watch?v=LdVgb8Q8BRY)
@@ -488,7 +458,7 @@
  - [https://www.wykop.pl/link/6851735/fiskus-zaglada-do-kont-bankowych-rzecznik-praw-obywatelskich-jest/](https://www.wykop.pl/link/6851735/fiskus-zaglada-do-kont-bankowych-rzecznik-praw-obywatelskich-jest/)
  - date published: 2022-10-09 07:14:01+00:00
  - user: None
- - tags: $tags
+ - tags: ['digital money', 'government control']
 
 ## W co gra Elon Musk? "Silikonowi chłopcy próbują zarządzać światem"
  - [https://www.polsatnews.pl/wiadomosc/2022-10-09/w-co-gra-elon-musk-silikonowi-chlopcy-probuja-zarzadzac-swiatem/](https://www.polsatnews.pl/wiadomosc/2022-10-09/w-co-gra-elon-musk-silikonowi-chlopcy-probuja-zarzadzac-swiatem/)
@@ -518,7 +488,7 @@
  - [https://www.wykop.pl/link/6851451/amazon-jak-niszczy-planete-i-ludzi/](https://www.wykop.pl/link/6851451/amazon-jak-niszczy-planete-i-ludzi/)
  - date published: 2022-10-08 19:15:02+00:00
  - user: None
- - tags: $tags
+ - tags: ['amazon', 'pollution']
 
 ## Nie ma 2 płci - nowa bajka LPG+ Netflixa
  - [https://www.wykop.pl/link/6851713/nie-ma-2-plci-nowa-bajka-lpg-netflixa/](https://www.wykop.pl/link/6851713/nie-ma-2-plci-nowa-bajka-lpg-netflixa/)
@@ -543,12 +513,6 @@
  - date published: 2022-10-07 21:30:00+00:00
  - user: None
  - tags: ['hackers', 'chrome', 'google']
-
-## Poznań Game Arena już pierwszego dnia przyciągnęła tłumy
- - [https://epoznan.pl/news-news-133165-poznan_game_arena_juz_pierwszego_dnia_przyciagnela_tlumy?rss=1](https://epoznan.pl/news-news-133165-poznan_game_arena_juz_pierwszego_dnia_przyciagnela_tlumy?rss=1)
- - date published: 2022-10-07 20:15:00+00:00
- - user: None
- - tags: $tags
 
 ## Byli pracownicy MF: prawdziwy deficyt budżetu to 206 mld zł
  - [https://www.wykop.pl/link/6850163/byli-pracownicy-mf-prawdziwy-deficyt-budzetu-to-206-mld-zl/](https://www.wykop.pl/link/6850163/byli-pracownicy-mf-prawdziwy-deficyt-budzetu-to-206-mld-zl/)
@@ -688,12 +652,6 @@
  - user: None
  - tags: ['bruce willis', 'deep fakes']
 
-## Łódź. Są nowe dane - uczniowie masowo rezygnują z lekcji religii. "Nie wiemy dlaczego"
- - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28965332,lodz-sa-nowe-dane-uczniowie-masowo-rezygnuja-z-lekcji-religii.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28965332,lodz-sa-nowe-dane-uczniowie-masowo-rezygnuja-z-lekcji-religii.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
- - date published: 2022-09-29 04:00:00+00:00
- - user: None
- - tags: $tags
-
 ## Doradca FDA ostrzega, że zdrowi młodzi ludzie NIE powinni brać nowej dawki COVID
  - [https://www.wykop.pl/link/6837757/doradca-fda-ostrzega-ze-zdrowi-mlodzi-ludzie-nie-powinni-brac-nowej-dawki-covid/](https://www.wykop.pl/link/6837757/doradca-fda-ostrzega-ze-zdrowi-mlodzi-ludzie-nie-powinni-brac-nowej-dawki-covid/)
  - date published: 2022-09-29 03:16:01+00:00
@@ -740,7 +698,7 @@
  - [https://wydarzenia.interia.pl/zagranica/news-kuba-spoleczenstwo-poparlo-legalizacje-malzenstw-jednoplciow,nId,6309663](https://wydarzenia.interia.pl/zagranica/news-kuba-spoleczenstwo-poparlo-legalizacje-malzenstw-jednoplciow,nId,6309663)
  - date published: 2022-09-26 15:18:34+00:00
  - user: None
- - tags: $tags
+ - tags: ['cuba', 'the left wing', 'homosexuality']
 
 ## USA: Około 100 nieletnich zdemolowało sklep. Agresywny tłum rozgoniła policja
  - [https://www.polsatnews.pl/wiadomosc/2022-09-26/usa-tlum-mlodych-osob-zdemolowal-sklep/](https://www.polsatnews.pl/wiadomosc/2022-09-26/usa-tlum-mlodych-osob-zdemolowal-sklep/)
@@ -784,12 +742,6 @@
  - user: None
  - tags: $tags
 
-## Fed idzie na zderzenie z recesją. Dow Jones poniżej 30 000 pkt.
- - [https://www.bankier.pl/wiadomosc/Fed-idzie-na-zderzenie-z-recesja-8411160.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Fed-idzie-na-zderzenie-z-recesja-8411160.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
- - date published: 2022-09-23 21:05:00+00:00
- - user: None
- - tags: $tags
-
 ## Nowe technologie coraz mocniej wkraczają na rynek pracy. Kolejną rewolucję wywoła metawersum
  - [https://www.bankier.pl/wiadomosc/Nowe-technologie-coraz-mocniej-wkraczaja-na-rynek-pracy-Kolejna-rewolucje-wywola-metawersum-8409917.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Nowe-technologie-coraz-mocniej-wkraczaja-na-rynek-pracy-Kolejna-rewolucje-wywola-metawersum-8409917.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date published: 2022-09-22 05:25:00+00:00
@@ -806,7 +758,7 @@
  - [https://www.wykop.pl/link/6825921/pod-presja-usa-tureckie-banki-odcinaja-rosyjski-system-platnosci-mir/](https://www.wykop.pl/link/6825921/pod-presja-usa-tureckie-banki-odcinaja-rosyjski-system-platnosci-mir/)
  - date published: 2022-09-21 08:26:01+00:00
  - user: None
- - tags: $tags
+ - tags: ['turkey', 'war', 'russia']
 
 ## Europejska komisja oskarża PiS. Inwigilacja Brejzy Pegasusem kosztowała 20 mln zł - rp.pl
  - [https://www.rp.pl/polityka/art37096721-europejska-komisja-oskarza-pis-inwigilacja-brejzy-pegasusem-kosztowala-20-mln-zl](https://www.rp.pl/polityka/art37096721-europejska-komisja-oskarza-pis-inwigilacja-brejzy-pegasusem-kosztowala-20-mln-zl)
@@ -836,7 +788,7 @@
  - [https://www.bankier.pl/wiadomosc/Rosja-bezwstydnie-kradnie-prawa-intelektualne-i-cofa-sie-w-czasie-8407877.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Rosja-bezwstydnie-kradnie-prawa-intelektualne-i-cofa-sie-w-czasie-8407877.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date published: 2022-09-18 13:24:00+00:00
  - user: None
- - tags: $tags
+ - tags: ['russia']
 
 ## "Kościół katolicki w Europie jest trupem"
  - [https://www.wykop.pl/link/6822249/kosciol-katolicki-w-europie-jest-trupem/](https://www.wykop.pl/link/6822249/kosciol-katolicki-w-europie-jest-trupem/)
@@ -1082,7 +1034,7 @@
  - [https://www.wykop.pl/link/6800805/chiny-wprowadzily-covidowy-lockdown-w-21-milionowym-chengdu/](https://www.wykop.pl/link/6800805/chiny-wprowadzily-covidowy-lockdown-w-21-milionowym-chengdu/)
  - date published: 2022-09-02 06:03:01+00:00
  - user: None
- - tags: $tags
+ - tags: ['china', 'covid', 'lockdown']
 
 ## Niemieccy rolnicy mają dość. Protestowali przeciwko polityce klimatycznej UE - Money.pl
  - [https://www.money.pl/gospodarka/niemieccy-rolnicy-maja-dosc-protestowali-przeciwko-polityce-klimatycznej-ue-6807430977067520a.html](https://www.money.pl/gospodarka/niemieccy-rolnicy-maja-dosc-protestowali-przeciwko-polityce-klimatycznej-ue-6807430977067520a.html)

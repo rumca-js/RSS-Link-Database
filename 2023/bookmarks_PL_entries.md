@@ -1,3 +1,9 @@
+## Teva zapłaci miliony dolarów kary. Firma farmaceutyczna napędzała kryzys opioidowy - Bankier.pl
+ - [https://www.bankier.pl/wiadomosc/Teva-zaplaci-miliony-dolarow-kary-Firma-farmaceutyczna-napedzala-kryzys-opioidowy-8557212.html](https://www.bankier.pl/wiadomosc/Teva-zaplaci-miliony-dolarow-kary-Firma-farmaceutyczna-napedzala-kryzys-opioidowy-8557212.html)
+ - date published: 2023-06-10 06:48:58+00:00
+ - user: rumpel
+ - tags: ['big pharma']
+
 ## Nigeria: 168 zabitych w atakach na chrześcijańskie wsie - Chrześcijański Serwis Informacyjny
  - [https://chrzescijanin.pl/168-zabitych-w-atakach-na-chrzescijanskie-wsie/](https://chrzescijanin.pl/168-zabitych-w-atakach-na-chrzescijanskie-wsie/)
  - date published: 2023-06-08 14:48:02+00:00
@@ -521,12 +527,6 @@
  - date published: 2023-01-07 12:30:00+00:00
  - user: rumpel
  - tags: ['newspeak', 'social media']
-
-## Masz radio w aucie? Musisz płacić abonament RTV. W 2023 wzrosły kary - Instalki.pl
- - [https://www.instalki.pl/aktualnosci/rozrywka/57591-masz-radio-w-aucie-plac-abonament-rtv-w-2023-wzrosly-kary.html](https://www.instalki.pl/aktualnosci/rozrywka/57591-masz-radio-w-aucie-plac-abonament-rtv-w-2023-wzrosly-kary.html)
- - date published: 2023-01-06 20:08:36.080047+00:00
- - user: rumpel
- - tags: $tags
 
 ## Ile kosztuje ładowanie samochodów elektrycznych w 2023? Policzyłem to i jestem przerażony - Instalki.pl
  - [https://www.instalki.pl/aktualnosci/technika/57587-ile-kosztuje-ladowanie-samochodow-elektrycznych-w-2023.html](https://www.instalki.pl/aktualnosci/technika/57587-ile-kosztuje-ladowanie-samochodow-elektrycznych-w-2023.html)

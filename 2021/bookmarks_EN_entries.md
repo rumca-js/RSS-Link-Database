@@ -62,7 +62,7 @@
  - [https://reason.com/2021/12/29/facebook-masks-false-information-science-feedback-wrong-covid/](https://reason.com/2021/12/29/facebook-masks-false-information-science-feedback-wrong-covid/)
  - date published: 2021-12-30 09:02:20.918611+00:00
  - user: Thomas Pain
- - tags: $tags
+ - tags: ['facebook', 'censorship', 'fact-check', 'science is dead']
 
 ## China Is Running Out of Water and That’s Scary for Asia
  - [https://www.bloomberg.com/opinion/articles/2021-12-29/china-s-water-shortage-is-scary-for-india-thailand-vietnam](https://www.bloomberg.com/opinion/articles/2021-12-29/china-s-water-shortage-is-scary-for-india-thailand-vietnam)
@@ -176,7 +176,7 @@
  - [https://jeffhuang.com/productivity_text_file/](https://jeffhuang.com/productivity_text_file/)
  - date published: 2021-12-24 08:50:48.739393+00:00
  - user: Thomas Pain
- - tags: $tags
+ - tags: ['programming']
 
 ## AWS power failure killed some hardware and instances • The Register
  - [https://www.theregister.com/2021/12/22/aws_outage/](https://www.theregister.com/2021/12/22/aws_outage/)
@@ -304,6 +304,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## My Bose QC-35 II headphones suddenly burst into flames and left me with chemical burns
+ - [https://recursive-public-rants.blogspot.com/2021/12/my-bose-qc-35-ii-headphones-suddenly.html](https://recursive-public-rants.blogspot.com/2021/12/my-bose-qc-35-ii-headphones-suddenly.html)
+ - date published: 2021-12-19 12:55:10.261953+00:00
+ - user: Thomas Pain
+ - tags: $tags
+
 ## A380: Last of the superjumbos handed to new owner - BBC News
  - [https://www.bbc.co.uk/news/business-59667835](https://www.bbc.co.uk/news/business-59667835)
  - date published: 2021-12-18 09:55:52.784733+00:00
@@ -404,7 +410,7 @@
  - [https://xeiaso.net/blog/open-source-broken-2021-12-11](https://xeiaso.net/blog/open-source-broken-2021-12-11)
  - date published: 2021-12-12 09:05:44.970602+00:00
  - user: Thomas Pain
- - tags: $tags
+ - tags: ['open source']
 
 ## Professional maintainers: a wake-up call
  - [https://blog.filippo.io/professional-maintainers/](https://blog.filippo.io/professional-maintainers/)
@@ -1078,6 +1084,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Signal >> Blog >> Improving first impressions on Signal
+ - [https://signal.org/blog/keeping-spam-off-signal/](https://signal.org/blog/keeping-spam-off-signal/)
+ - date published: 2021-11-03 17:21:23.286916+00:00
+ - user: Thomas Pain
+ - tags: $tags
+
 ## Trump's new social media platform found using Mastodon code: Our statement - Official Mastodon Blog
  - [https://blog.joinmastodon.org/2021/10/trumps-new-social-media-platform-found-using-mastodon-code/](https://blog.joinmastodon.org/2021/10/trumps-new-social-media-platform-found-using-mastodon-code/)
  - date published: 2021-11-03 08:26:47.760948+00:00
@@ -1141,6 +1153,12 @@
 ## Architect Resigns in Protest over UCSB Mega-Dorm - The Santa Barbara Independent
  - [https://www.independent.com/2021/10/28/architect-resigns-in-protest-over-ucsb-mega-dorm/](https://www.independent.com/2021/10/28/architect-resigns-in-protest-over-ucsb-mega-dorm/)
  - date published: 2021-10-30 08:07:42.890249+00:00
+ - user: Thomas Pain
+ - tags: $tags
+
+## Signal >> Government Requests >> Grand jury subpoena for Signal user data, Central District of California (again!)
+ - [https://signal.org/bigbrother/cd-california-grand-jury/](https://signal.org/bigbrother/cd-california-grand-jury/)
+ - date published: 2021-10-30 08:01:55.850142+00:00
  - user: Thomas Pain
  - tags: $tags
 
@@ -1336,6 +1354,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Why I Hate Frameworks, Benji Smith.
+ - [https://www.fredrikholmqvist.com/pages/why-i-hate-frameworks.html](https://www.fredrikholmqvist.com/pages/why-i-hate-frameworks.html)
+ - date published: 2021-10-21 07:47:06.865598+00:00
+ - user: Thomas Pain
+ - tags: $tags
+
 ## Leave no trace: how a teenage hacker lost himself online | Hacking | The Guardian
  - [https://www.theguardian.com/technology/2021/oct/14/leave-no-trace-how-a-teenage-hacker-lost-himself-online](https://www.theguardian.com/technology/2021/oct/14/leave-no-trace-how-a-teenage-hacker-lost-himself-online)
  - date published: 2021-10-20 22:39:49.099132+00:00
@@ -1369,6 +1393,12 @@
 ## PM urged to enact ‘David’s law’ against social media abuse after Amess’s death | UK news | The Guardian
  - [https://www.theguardian.com/uk-news/2021/oct/18/pm-urged-to-enact-davids-law-against-social-media-abuse-after-amesss-death](https://www.theguardian.com/uk-news/2021/oct/18/pm-urged-to-enact-davids-law-against-social-media-abuse-after-amesss-death)
  - date published: 2021-10-19 10:22:25.835162+00:00
+ - user: Thomas Pain
+ - tags: $tags
+
+## The Day My Script Killed 10,000 Phones in South America
+ - [https://new.pythonforengineers.com/blog/the-day-i/](https://new.pythonforengineers.com/blog/the-day-i/)
+ - date published: 2021-10-19 10:20:29.410779+00:00
  - user: Thomas Pain
  - tags: $tags
 
@@ -1491,6 +1521,12 @@
  - date published: 2021-10-11 19:09:46.629773+00:00
  - user: Thomas Pain
  - tags: ['project', 'programming']
+
+## IoT Hacking and Rickrolling My High School District | WhiteHoodHacker
+ - [https://whitehoodhacker.net/posts/2021-10-04-the-big-rick](https://whitehoodhacker.net/posts/2021-10-04-the-big-rick)
+ - date published: 2021-10-11 16:38:19.234623+00:00
+ - user: Thomas Pain
+ - tags: $tags
 
 ## China again blocks Wikimedia Foundation’s accreditation to World Intellectual Property Organization – Wikimedia Foundation
  - [https://wikimediafoundation.org/news/2021/10/05/china-again-blocks-wikimedia-foundations-accreditation-to-world-intellectual-property-organization/](https://wikimediafoundation.org/news/2021/10/05/china-again-blocks-wikimedia-foundations-accreditation-to-world-intellectual-property-organization/)
@@ -1882,6 +1918,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## The Perils of an .xyz Domain
+ - [https://www.spotvirtual.com/blog/the-perils-of-an-xyz-domain/](https://www.spotvirtual.com/blog/the-perils-of-an-xyz-domain/)
+ - date published: 2021-09-17 07:17:03.795999+00:00
+ - user: Thomas Pain
+ - tags: $tags
+
 ## #Shitlassian - story about how Atlassian fired me because my wife had cancer
  - [https://shitlassian.com/](https://shitlassian.com/)
  - date published: 2021-09-17 07:12:04.194879+00:00
@@ -2008,6 +2050,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Go is pass-by-value — but it might not always feel like it | neilalexander.dev
+ - [https://neilalexander.dev/2021/08/29/go-pass-by-value.html](https://neilalexander.dev/2021/08/29/go-pass-by-value.html)
+ - date published: 2021-09-11 07:45:05.313418+00:00
+ - user: Thomas Pain
+ - tags: $tags
+
 ## How 9/11 led the US to forever wars, eroded rights – and insurrection | September 11 2001 | The Guardian
  - [https://www.theguardian.com/us-news/2021/sep/10/september-11-us-reaction-forever-wars-rights-insurrection](https://www.theguardian.com/us-news/2021/sep/10/september-11-us-reaction-forever-wars-rights-insurrection)
  - date published: 2021-09-10 21:32:03+00:00
@@ -2065,6 +2113,12 @@
 ## After six months on Mars, NASA's tiny copter is still flying high
  - [https://phys.org/news/2021-09-months-mars-nasa-tiny-copter.html](https://phys.org/news/2021-09-months-mars-nasa-tiny-copter.html)
  - date published: 2021-09-07 16:28:01.721062+00:00
+ - user: Thomas Pain
+ - tags: $tags
+
+## Germany wants smartphone makers to offer 7 years of software updates
+ - [https://www.xda-developers.com/germany-smartphone-makers-7-years-software-updates/](https://www.xda-developers.com/germany-smartphone-makers-7-years-software-updates/)
+ - date published: 2021-09-07 16:21:39.084311+00:00
  - user: Thomas Pain
  - tags: $tags
 
@@ -2209,6 +2263,12 @@
 ## China cuts children's online gaming to one hour - BBC News
  - [https://www.bbc.co.uk/news/technology-58384457](https://www.bbc.co.uk/news/technology-58384457)
  - date published: 2021-08-30 12:51:00.405271+00:00
+ - user: Thomas Pain
+ - tags: $tags
+
+## Federal government to expand use of facial recognition despite growing concerns
+ - [https://www.msn.com/en-us/news/us/federal-government-to-expand-use-of-facial-recognition-despite-growing-concerns/ar-AANKdmh](https://www.msn.com/en-us/news/us/federal-government-to-expand-use-of-facial-recognition-despite-growing-concerns/ar-AANKdmh)
+ - date published: 2021-08-30 12:03:48.395296+00:00
  - user: Thomas Pain
  - tags: $tags
 
@@ -2698,6 +2758,18 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Joshua Spriestersbach arrested after case of mistaken identity in Hawaii - The Washington Post
+ - [https://www.washingtonpost.com/nation/2021/08/05/hawaii-mistaken-identity-arrest/](https://www.washingtonpost.com/nation/2021/08/05/hawaii-mistaken-identity-arrest/)
+ - date published: 2021-08-06 08:59:12.878182+00:00
+ - user: Thomas Pain
+ - tags: $tags
+
+## A growing number of Americans are renouncing their citizenship - Axios
+ - [https://www.axios.com/wealthy-people-are-renouncing-american-citizenship-67fbada4-e2e4-4699-b106-c986839f209d.html](https://www.axios.com/wealthy-people-are-renouncing-american-citizenship-67fbada4-e2e4-4699-b106-c986839f209d.html)
+ - date published: 2021-08-06 08:54:17.832843+00:00
+ - user: Thomas Pain
+ - tags: $tags
+
 ## Ben Nuttall - The surreal experience of my first developer job
  - [https://bennuttall.com/the-surreal-experience-of-my-first-developer-job/](https://bennuttall.com/the-surreal-experience-of-my-first-developer-job/)
  - date published: 2021-08-05 09:43:45.413713+00:00
@@ -2749,6 +2821,12 @@
 ## Launchpad now runs on Python 3! | Colin Watson's blog
  - [https://www.chiark.greenend.org.uk/~cjwatson/blog/lp-python3.html](https://www.chiark.greenend.org.uk/~cjwatson/blog/lp-python3.html)
  - date published: 2021-08-03 22:19:31.852851+00:00
+ - user: Thomas Pain
+ - tags: $tags
+
+## The push for a "PBS for the internet" - Axios
+ - [https://www.axios.com/pbs-internet-online-information-nonprofit-e9a78344-ae58-4214-9cb6-974ab9576cb1.html](https://www.axios.com/pbs-internet-online-information-nonprofit-e9a78344-ae58-4214-9cb6-974ab9576cb1.html)
+ - date published: 2021-08-03 06:37:12.291568+00:00
  - user: Thomas Pain
  - tags: $tags
 
@@ -2845,6 +2923,24 @@
 ## The NHS App has quietly become a vaccine passport | WIRED UK
  - [https://www.wired.co.uk/article/nhs-app-covid-vaccine-passport](https://www.wired.co.uk/article/nhs-app-covid-vaccine-passport)
  - date published: 2021-07-28 11:15:40.188043+00:00
+ - user: Thomas Pain
+ - tags: $tags
+
+## Video game developers at Activision Blizzard say they'll walk out Wednesday - Axios
+ - [https://www.axios.com/activision-blizzard-walkout-harassment-lawsuit-fefa807b-107e-41e2-a6e2-78a086119e04.html](https://www.axios.com/activision-blizzard-walkout-harassment-lawsuit-fefa807b-107e-41e2-a6e2-78a086119e04.html)
+ - date published: 2021-07-28 06:25:43.393737+00:00
+ - user: Thomas Pain
+ - tags: $tags
+
+## Moving SciPy to the Meson build system | Quansight Labs
+ - [https://labs.quansight.org/blog/2021/07/moving-scipy-to-meson/](https://labs.quansight.org/blog/2021/07/moving-scipy-to-meson/)
+ - date published: 2021-07-27 22:14:15.044897+00:00
+ - user: Thomas Pain
+ - tags: $tags
+
+## For developers, Apple’s Safari is crap and outdated – Perry Sun | Blog
+ - [https://blog.perrysun.com/2021/07/15/for-developers-safari-is-crap-and-outdated/](https://blog.perrysun.com/2021/07/15/for-developers-safari-is-crap-and-outdated/)
+ - date published: 2021-07-27 14:55:36.947814+00:00
  - user: Thomas Pain
  - tags: $tags
 
@@ -3178,6 +3274,12 @@
  - user: rumpel
  - tags: ['johnson and johnson', 'big pharma']
 
+## Creating the Golfcart Programming Language — Andrew Healey
+ - [https://healeycodes.com/creating-the-golfcart-programming-language/](https://healeycodes.com/creating-the-golfcart-programming-language/)
+ - date published: 2021-07-16 16:37:35.844184+00:00
+ - user: Thomas Pain
+ - tags: $tags
+
 ## Wikipedia co-founder says site is now 'propaganda' for left-leaning 'establishment'
  - [https://nypost.com/2021/07/16/wikipedia-co-founder-says-site-is-now-propaganda-for-left-leaning-establishment/](https://nypost.com/2021/07/16/wikipedia-co-founder-says-site-is-now-propaganda-for-left-leaning-establishment/)
  - date published: 2021-07-16 14:40:26+00:00
@@ -3405,6 +3507,12 @@
  - date published: 2021-07-06 12:55:03+00:00
  - user: None
  - tags: ['surveillance', 'chat control', 'privacy', 'government control']
+
+## June heatwave was the ‘most extreme’ on record for North America - The Verge
+ - [https://www.theverge.com/2021/7/30/22602208/june-heatwave-most-extreme-summer-record-north-america](https://www.theverge.com/2021/7/30/22602208/june-heatwave-most-extreme-summer-record-north-america)
+ - date published: 2021-07-06 11:24:28+00:00
+ - user: rumpel
+ - tags: ['climate change', 'global warming']
 
 ## How Low Interest Rates Sent Institutions Like Blackrock Into Bidding Wars For Homes - Better Dwelling
  - [https://betterdwelling.com/how-low-interest-rates-sent-institutions-like-blackrock-into-bidding-wars-for-homes/](https://betterdwelling.com/how-low-interest-rates-sent-institutions-like-blackrock-into-bidding-wars-for-homes/)

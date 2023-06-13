@@ -52,6 +52,12 @@
  - user: rumpel
  - tags: ['george soros', 'facebook', 'propaganda', 'misinformation']
 
+## NGO Admits Teaching Migrants How To Trick EU Border Guards (VIDEO)
+ - [https://greekcitytimes.com/2018/11/14/ngo-admits-teaching-migrants-how-to-trick-eu-border-guards-video/](https://greekcitytimes.com/2018/11/14/ngo-admits-teaching-migrants-how-to-trick-eu-border-guards-video/)
+ - date published: 2018-11-14 06:47:12+00:00
+ - user: rumpel
+ - tags: ['immigration', 'england']
+
 ## Joe Rogan - Exposing Social Justice with Peter Boghossian & James Lindsay
  - [https://www.youtube.com/watch?v=OlqU_JMTzd4](https://www.youtube.com/watch?v=OlqU_JMTzd4)
  - date published: 2018-10-30 20:27:37+00:00

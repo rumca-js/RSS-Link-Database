@@ -1,3 +1,21 @@
+## Is liberalism digging its own demographic grave? (2022)
+ - [https://www.thearticle.com/is-liberalism-digging-its-own-demographic-grave](https://www.thearticle.com/is-liberalism-digging-its-own-demographic-grave)
+ - date published: 2023-06-12 13:23:30+00:00
+ - user: rumpel
+ - tags: ['the left wing', 'society']
+
+## An America-Less Internet
+ - [https://www.nthbrock.com/posts/americaless-internet/](https://www.nthbrock.com/posts/americaless-internet/)
+ - date published: 2023-06-12 10:07:41+00:00
+ - user: rumpel
+ - tags: ['centralization']
+
+## The Unabomber Was an AI Doomer
+ - [https://newsletter.pessimistsarchive.org/p/the-unabomber-was-an-ai-doomer-obviously](https://newsletter.pessimistsarchive.org/p/the-unabomber-was-an-ai-doomer-obviously)
+ - date published: 2023-06-12 08:49:47+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence', 'unabomber', 'ted kaczynski']
+
 ## Inside the Wuhan lab weeks before Covid
  - [https://www.thetimes.co.uk/article/inside-wuhan-lab-covid-pandemic-china-america-qhjwwwvm0](https://www.thetimes.co.uk/article/inside-wuhan-lab-covid-pandemic-china-america-qhjwwwvm0)
  - date published: 2023-06-10 23:13:13+00:00
@@ -249,6 +267,12 @@
  - date published: 2023-06-03 11:03:42+00:00
  - user: rumpel
  - tags: ['america', 'big brother', 'surveillance', 'spyware', 'tech control', 'crypto wars', 'government control', 'crypto ag', 'cia', 'espionage']
+
+## The distribution model is changing
+ - [https://www.ypsidanger.com/the-distribution-model-is-changing/](https://www.ypsidanger.com/the-distribution-model-is-changing/)
+ - date published: 2023-06-03 10:58:12+00:00
+ - user: rumpel
+ - tags: ['linux', 'open source', 'flatpak']
 
 ## Szefowa Coca-Cola HBC w Polsce: wyrównamy liczbę kobiet i mężczyzn w kierownictwie [WYWIAD]
  - [https://businessinsider.com.pl/firmy/szefowa-coca-cola-hbc-chce-w-kierownictwie-tyle-kobiet-co-mezczyzn-ma-plan/d6kexfe](https://businessinsider.com.pl/firmy/szefowa-coca-cola-hbc-chce-w-kierownictwie-tyle-kobiet-co-mezczyzn-ma-plan/d6kexfe)
@@ -1412,7 +1436,7 @@
  - [https://www.youtube.com/watch?v=uDYTr8jjDw0](https://www.youtube.com/watch?v=uDYTr8jjDw0)
  - date published: 2023-04-25 00:23:20+00:00
  - user: rumpel
- - tags: ['job']
+ - tags: ['work']
 
 ## Pfizer Quietly Financed Groups Lobbying for COVID Vaccine Mandates
  - [https://www.leefang.com/p/pfizer-quietly-financed-groups-lobbying](https://www.leefang.com/p/pfizer-quietly-financed-groups-lobbying)
@@ -2936,7 +2960,7 @@
  - [https://christianheilmann.com/2023/03/03/continuous-growth-is-cancer/](https://christianheilmann.com/2023/03/03/continuous-growth-is-cancer/)
  - date published: 2023-03-03 23:29:02+00:00
  - user: rumpel
- - tags: ['job', 'work']
+ - tags: ['work']
 
 ## The EU's new Cyber Resilience Act is about to tell us how to code
  - [https://berthub.eu/articles/posts/eu-cra-secure-coding-solution/](https://berthub.eu/articles/posts/eu-cra-secure-coding-solution/)
@@ -3585,6 +3609,12 @@
  - date published: 2023-02-08 14:57:56+00:00
  - user: rumpel
  - tags: ['nord stream', 'russia']
+
+## Sweden puts brakes on treatments for trans minors
+ - [https://www.france24.com/en/live-news/20230208-sweden-puts-brakes-on-treatments-for-trans-minors](https://www.france24.com/en/live-news/20230208-sweden-puts-brakes-on-treatments-for-trans-minors)
+ - date published: 2023-02-08 14:34:50+00:00
+ - user: rumpel
+ - tags: ['the left wing', 'transgender', 'lgbt', 'sweden']
 
 ## Is Windows 11 spying on you? New report details eye-opening levels of telemetry
  - [https://www.techradar.com/news/is-windows-11-spying-on-you-new-report-details-eye-opening-levels-of-telemetry](https://www.techradar.com/news/is-windows-11-spying-on-you-new-report-details-eye-opening-levels-of-telemetry)
@@ -4653,6 +4683,12 @@
  - date published: 2023-01-12 13:00:50+00:00
  - user: rumpel
  - tags: ['technofeudalism', 'youtube', 'subscription']
+
+## Past eight years confirmed to be the eight warmest on record | World Meteorological Organization
+ - [https://public.wmo.int/en/media/press-release/past-eight-years-confirmed-be-eight-warmest-record#:~:text=GENEVA%2C%2012%20January%202023%20%2D%20The,by%20the%20World%20Meteorological%20Organization.](https://public.wmo.int/en/media/press-release/past-eight-years-confirmed-be-eight-warmest-record#:~:text=GENEVA%2C%2012%20January%202023%20%2D%20The,by%20the%20World%20Meteorological%20Organization.)
+ - date published: 2023-01-12 11:23:48+00:00
+ - user: rumpel
+ - tags: ['climate change', 'global warming']
 
 ## Elon Musk breaks world record for ‘worst loss of fortune,’ Guinness says
  - [https://www.washingtonpost.com/technology/2023/01/12/elon-musk-net-worth-record-loss/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2023/01/12/elon-musk-net-worth-record-loss/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
