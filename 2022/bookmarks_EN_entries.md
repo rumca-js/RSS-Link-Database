@@ -568,17 +568,17 @@
  - user: rumpel
  - tags: ['pfizer', 'vaccine', 'covid', 'big pharma']
 
+## A Robot Vacuum Recorded A Woman In Her Bathroom, And The Screenshots Ended Up On Social Media - AfroTech
+ - [https://afrotech.com/robot-vacuum-takes-intimate-photos-of-woman](https://afrotech.com/robot-vacuum-takes-intimate-photos-of-woman)
+ - date published: 2022-12-21 09:26:07+00:00
+ - user: rumpel
+ - tags: ['privacy', 'roomba', 'amazon']
+
 ## UK says sharing Netflix passwords could be illegal
  - [https://appleinsider.com/articles/22/12/21/uk-says-sharing-netflix-passwords-could-be-illegal](https://appleinsider.com/articles/22/12/21/uk-says-sharing-netflix-passwords-could-be-illegal)
  - date published: 2022-12-21 07:30:45+00:00
  - user: None
  - tags: ['digital identity', 'netflix']
-
-## A Robot Vacuum Recorded A Woman In Her Bathroom, And The Screenshots Ended Up On Social Media
- - [https://news.yahoo.com/robot-vacuum-recorded-woman-her-154213069.html](https://news.yahoo.com/robot-vacuum-recorded-woman-her-154213069.html)
- - date published: 2022-12-21 07:24:00+00:00
- - user: None
- - tags: ['roomba', 'privacy', 'social media', 'vacuum', 'facebook']
 
 ## China reports no new Covid-19 deaths after changing definition of Covid fatality
  - [https://www.lemonde.fr/en/china/article/2022/12/21/china-reports-no-new-covid-19-deaths-after-changing-definition-of-covid-fatality_6008566_162.html](https://www.lemonde.fr/en/china/article/2022/12/21/china-reports-no-new-covid-19-deaths-after-changing-definition-of-covid-fatality_6008566_162.html)
@@ -2246,7 +2246,7 @@
  - [https://www.dailymail.co.uk/news/article-11443527/Members-fear-Society-Authors-lost-cancel-culture-amid-JK-Rowling-row.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11443527/Members-fear-Society-Authors-lost-cancel-culture-amid-JK-Rowling-row.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2022-11-18 14:37:20+00:00
  - user: None
- - tags: ['england', 'cancel culature']
+ - tags: ['england', 'cancel culture']
 
 ## Call of Duty is a Government Psyop: These Documents Prove It
  - [https://www.mintpressnews.com/call-of-duty-is-a-government-psyop-these-documents-prove-it/282781/](https://www.mintpressnews.com/call-of-duty-is-a-government-psyop-these-documents-prove-it/282781/)
@@ -2438,7 +2438,7 @@
  - [https://www.breitbart.com/entertainment/2022/11/11/disney-stock-suffers-worst-day-in-21-years/](https://www.breitbart.com/entertainment/2022/11/11/disney-stock-suffers-worst-day-in-21-years/)
  - date published: 2022-11-13 14:50:04+00:00
  - user: None
- - tags: ['stock', 'the left wing', 'disney']
+ - tags: ['disney', 'the left wing']
 
 ## FBI reportedly considered using Pegasus spyware in criminal investigations
  - [https://www.engadget.com/fbi-reportedly-considered-using-pegasus-spyware-195512125.html?src=rss](https://www.engadget.com/fbi-reportedly-considered-using-pegasus-spyware-195512125.html?src=rss)
@@ -2762,7 +2762,7 @@
  - [https://www.techradar.com/news/intels-pay-as-you-go-cpu-platform-finally-has-a-name-but-is-still-shrouded-in-secrecy/](https://www.techradar.com/news/intels-pay-as-you-go-cpu-platform-finally-has-a-name-but-is-still-shrouded-in-secrecy/)
  - date published: 2022-11-04 20:25:21+00:00
  - user: None
- - tags: $tags
+ - tags: ['intel', 'technofeudalism', 'subscription']
 
 ## Virginia teacher fired for refusing to use student's preferred pronouns speaks out, says he's been blacklisted
  - [https://www.foxnews.com/media/virginia-teacher-fired-refusing-students-preferred-pronouns-speaks-out-blacklisted](https://www.foxnews.com/media/virginia-teacher-fired-refusing-students-preferred-pronouns-speaks-out-blacklisted)
@@ -2841,12 +2841,6 @@
  - date published: 2022-11-03 14:23:24+00:00
  - user: None
  - tags: ['youtube']
-
-## Gmail can now help you track the packages you ordered online
- - [https://www.zdnet.com/article/gmail-can-now-help-you-track-the-packages-you-ordered-online/#ftag=RSSbaffb68](https://www.zdnet.com/article/gmail-can-now-help-you-track-the-packages-you-ordered-online/#ftag=RSSbaffb68)
- - date published: 2022-11-03 13:04:44+00:00
- - user: None
- - tags: $tags
 
 ## TikTok reveals staff in China will be able to SPY on UK user data from next month
  - [https://www.dailymail.co.uk/sciencetech/article-11385575/TikTok-reveals-staff-China-able-SPY-UK-user-data-month.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/sciencetech/article-11385575/TikTok-reveals-staff-China-able-SPY-UK-user-data-month.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -2978,7 +2972,7 @@
  - [https://www.theguardian.com/world/2022/nov/02/china-bans-celebrities-lapsed-morals-endorsing-products](https://www.theguardian.com/world/2022/nov/02/china-bans-celebrities-lapsed-morals-endorsing-products)
  - date published: 2022-11-02 11:31:16+00:00
  - user: None
- - tags: ['china', 'big brother', 'clebrities', 'social credit']
+ - tags: ['big brother', 'celebrities', 'china', 'social credit']
 
 ## Anti-Woke YouTube Competitor Rumble Tells France Au Revoir Over Censorship Demands
  - [https://www.dailywire.com/news/anti-woke-youtube-competitor-rumble-tells-france-au-revoir-over-censorship-demands](https://www.dailywire.com/news/anti-woke-youtube-competitor-rumble-tells-france-au-revoir-over-censorship-demands)
@@ -3195,12 +3189,6 @@
  - date published: 2022-10-30 18:39:30+00:00
  - user: None
  - tags: ['extremism', 'england', 'islam', 'religion']
-
-## China braces for wave of workers fleeing iPhone factory in Covid-hit Zhengzhou
- - [https://www.theguardian.com/technology/2022/oct/30/china-braces-for-wave-of-workers-fleeing-iphone-factory-in-covid-hit-zhengzhou](https://www.theguardian.com/technology/2022/oct/30/china-braces-for-wave-of-workers-fleeing-iphone-factory-in-covid-hit-zhengzhou)
- - date published: 2022-10-30 14:03:24+00:00
- - user: None
- - tags: $tags
 
 ## PS4/PS5 exploit that is “essentially unpatchable”
  - [https://arstechnica.com/gaming/2022/09/console-hacker-reveals-ps4-ps5-exploit-that-is-essentially-unpatchable/](https://arstechnica.com/gaming/2022/09/console-hacker-reveals-ps4-ps5-exploit-that-is-essentially-unpatchable/)
@@ -4180,12 +4168,6 @@
  - user: rumpel
  - tags: ['booster', 'moderna', 'vaccine', 'covid']
 
-## Tim Allen Trolls ‘Wokees,’ Asks The Question Everyone Is Wondering About This Group
- - [https://www.dailywire.com/news/tim-allen-trolls-wokees-asks-the-question-everyone-is-wondering-about-this-group](https://www.dailywire.com/news/tim-allen-trolls-wokees-asks-the-question-everyone-is-wondering-about-this-group)
- - date published: 2022-10-18 14:33:27+00:00
- - user: None
- - tags: $tags
-
 ## Jake Tran Exploits His Audience And No One Cares
  - [https://www.youtube.com/watch?v=xp12iqINfQY](https://www.youtube.com/watch?v=xp12iqINfQY)
  - date published: 2022-10-18 09:56:36+00:00
@@ -4460,7 +4442,7 @@
  - [https://lemire.me/blog/2020/07/12/science-is-the-belief-in-the-ignorance-of-experts/](https://lemire.me/blog/2020/07/12/science-is-the-belief-in-the-ignorance-of-experts/)
  - date published: 2022-10-10 23:31:37+00:00
  - user: None
- - tags: ['dogmat', 'science is dead', 'science']
+ - tags: ['dogma', 'science is dead', 'science']
 
 ## This California City Is Rapidly Running Out of Water
  - [https://gizmodo.com/this-california-city-is-rapidly-running-out-of-water-1849638749](https://gizmodo.com/this-california-city-is-rapidly-running-out-of-water-1849638749)
@@ -5986,12 +5968,6 @@
  - user: None
  - tags: ['dark design', 'fastfood', 'kfc']
 
-## The Fed's war on inflation may take the US economy down with it
- - [https://www.cnn.com/2022/09/13/business/nightcap-inflation-economy-fed/index.html](https://www.cnn.com/2022/09/13/business/nightcap-inflation-economy-fed/index.html)
- - date published: 2022-09-14 00:00:14+00:00
- - user: None
- - tags: $tags
-
 ## Automating a Reading List - Zanshin.net
  - [https://zanshin.net/2022/09/11/automating-a-reading-list/](https://zanshin.net/2022/09/11/automating-a-reading-list/)
  - date published: 2022-09-13 23:53:24+00:00
@@ -6055,12 +6031,6 @@
 ## Google faces £22billion 'ad tech' lawsuit from publishers in Europe
  - [https://www.dailymail.co.uk/news/article-11205555/Google-faces-22billion-ad-tech-lawsuit-publishers-Europe.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11205555/Google-faces-22billion-ad-tech-lawsuit-publishers-Europe.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2022-09-13 08:28:18+00:00
- - user: None
- - tags: $tags
-
-## UK unemployment at lowest rate for 48 years
- - [https://www.bbc.co.uk/news/business-62877700?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-62877700?at_medium=RSS&at_campaign=KARANGA)
- - date published: 2022-09-13 06:46:55+00:00
  - user: None
  - tags: $tags
 
@@ -6518,7 +6488,7 @@
  - [https://www.reddit.com/r/news/comments/x6a7s2/woman_follows_cheating_boyfriend_using_apple/](https://www.reddit.com/r/news/comments/x6a7s2/woman_follows_cheating_boyfriend_using_apple/)
  - date published: 2022-09-05 07:40:15+00:00
  - user: None
- - tags: $tags
+ - tags: ['airtag']
 
 ## What I’ve learned from having Covid
  - [https://scottaaronson.blog/?p=6704](https://scottaaronson.blog/?p=6704)
@@ -6572,7 +6542,7 @@
  - [https://twitter.com/svbelmeha/status/1566063915515133952](https://twitter.com/svbelmeha/status/1566063915515133952)
  - date published: 2022-09-04 08:19:57+00:00
  - user: None
- - tags: $tags
+ - tags: ['apple', 'corporatocracy', 'technofeudalism']
 
 ## Amazon delays The Rings of Power ratings to combat fake reviews | The Lord of the Rings: The Rings of Power | The Guardian
  - [https://www.theguardian.com/tv-and-radio/2022/sep/04/amazon-delays-rings-of-power-ratings-combat-fake-reviews](https://www.theguardian.com/tv-and-radio/2022/sep/04/amazon-delays-rings-of-power-ratings-combat-fake-reviews)
@@ -8834,7 +8804,7 @@
  - [https://www.scottkennedy.us/balance.html](https://www.scottkennedy.us/balance.html)
  - date published: 2022-05-12 06:41:59.495194+00:00
  - user: Thomas Pain
- - tags: ['corporation', 'lifebalance', 'work', 'google']
+ - tags: ['work', 'google', 'life balance']
 
 ## I Miss Heroku's DevEx - Xe
  - [https://xeiaso.net/blog/heroku-devex-2022-05-12](https://xeiaso.net/blog/heroku-devex-2022-05-12)
@@ -8979,6 +8949,12 @@
  - date published: 2022-05-05 05:54:34.738380+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## A city in crisis: How fentanyl devastated San Francisco - BBC Newsnight
+ - [https://www.youtube.com/watch?v=GWBzxr3c29s](https://www.youtube.com/watch?v=GWBzxr3c29s)
+ - date published: 2022-05-05 00:00:00+00:00
+ - user: rumpel
+ - tags: ['america', 'homelessness']
 
 ## Microsoft Can Kiss My A** | Do You Own Your PC?
  - [https://www.youtube.com/watch?v=Lv5xHfZnk4s](https://www.youtube.com/watch?v=Lv5xHfZnk4s)
@@ -9146,7 +9122,7 @@
  - [https://www.youtube.com/watch?v=Ht56t_UMwsc](https://www.youtube.com/watch?v=Ht56t_UMwsc)
  - date published: 2022-04-26 12:15:06+00:00
  - user: None
- - tags: ['encryption', 'big tech', 'privacy']
+ - tags: ['crypto wars', 'big tech', 'encryption', 'privacy']
 
 ## Tory health minister Sajid Javid attacks NHS gender services for trans kids
  - [https://www.pinknews.co.uk/2022/04/21/sajid-javid-tory-nhs-gender-services-trans/](https://www.pinknews.co.uk/2022/04/21/sajid-javid-tory-nhs-gender-services-trans/)
@@ -10245,6 +10221,12 @@
  - date published: 2022-02-28 17:13:23+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Scientists Discover DNA Chunk in COVID That Matches Moderna Patented Sequence from Before Pandemic - SWFI
+ - [https://www.swfinstitute.org/news/91484/scientists-discover-dna-chunk-in-covid-that-matches-moderna-patented-sequence-from-before-pandemic](https://www.swfinstitute.org/news/91484/scientists-discover-dna-chunk-in-covid-that-matches-moderna-patented-sequence-from-before-pandemic)
+ - date published: 2022-02-28 06:57:09+00:00
+ - user: rumpel
+ - tags: ['moderna', 'covid', 'wuhan', 'vaccine', 'pandemic']
 
 ## So They DO Run The World
  - [https://www.youtube.com/watch?v=-b8TBPSTuiM](https://www.youtube.com/watch?v=-b8TBPSTuiM)

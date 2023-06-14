@@ -470,7 +470,7 @@
  - [https://merecivilian.com/apple-broke-up-with-me/](https://merecivilian.com/apple-broke-up-with-me/)
  - date published: 2021-12-07 07:29:43.778873+00:00
  - user: Thomas Pain
- - tags: $tags
+ - tags: ['apple', 'corporatocracy', 'technofeudalism']
 
 ## Google Pixel repairs resulted in leaked pics and a privacy nightmare - The Verge
  - [https://www.theverge.com/2021/12/4/22817758/broken-google-pixel-phone-privacy-leak](https://www.theverge.com/2021/12/4/22817758/broken-google-pixel-phone-privacy-leak)
@@ -530,7 +530,7 @@
  - [https://embedded.substack.com/p/instagram-is-facebook-now](https://embedded.substack.com/p/instagram-is-facebook-now)
  - date published: 2021-12-02 18:22:31.730006+00:00
  - user: Thomas Pain
- - tags: $tags
+ - tags: ['facebook', 'algorithmss', 'instagram']
 
 ## Project Zero: This shouldn't have happened: A vulnerability postmortem
  - [https://googleprojectzero.blogspot.com/2021/12/this-shouldnt-have-happened.html](https://googleprojectzero.blogspot.com/2021/12/this-shouldnt-have-happened.html)
@@ -716,7 +716,7 @@
  - [https://mailbox.org/en/post/chat-control-the-latest-eu-plans-to-outlaw-encryption-and-introduce-telecommunications-surveillance?nl](https://mailbox.org/en/post/chat-control-the-latest-eu-plans-to-outlaw-encryption-and-introduce-telecommunications-surveillance?nl)
  - date published: 2021-11-23 17:34:06.057843+00:00
  - user: Thomas Pain
- - tags: ['surveillance', 'chat control', 'privacy', 'government control']
+ - tags: ['crypto wars', 'surveillance', 'government control', 'privacy', 'encryption', 'chat control']
 
 ## Why Modern Movies Suck - They're Destroying Our Heroes
  - [https://www.youtube.com/watch?v=qY-GLeHS0Ik](https://www.youtube.com/watch?v=qY-GLeHS0Ik)
@@ -1034,7 +1034,7 @@
  - [https://www.youtube.com/watch?v=yRWmKh13b50](https://www.youtube.com/watch?v=yRWmKh13b50)
  - date published: 2021-11-07 00:00:00+00:00
  - user: rumpel
- - tags: ['usa', 'crisis', 'homeless']
+ - tags: ['usa', 'homelessness', 'crisis']
 
 ## Most US States Suing to Stop Biden COVID-19 Vaxx Mandate
  - [https://www.businessinsider.com/vaccine-mandate-biden-covid-19-states-sue-unconstitutional-2021-11?IR=T](https://www.businessinsider.com/vaccine-mandate-biden-covid-19-states-sue-unconstitutional-2021-11?IR=T)
@@ -1474,6 +1474,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## The Origins of San Francisco's Homeless Problem
+ - [https://www.youtube.com/watch?v=rn6NlXh5dH8](https://www.youtube.com/watch?v=rn6NlXh5dH8)
+ - date published: 2021-10-14 00:00:00+00:00
+ - user: rumpel
+ - tags: ['america', 'homelessness']
+
 ## The tyranny of “diversity, equity, and inclusion”
  - [https://wng.org/opinions/the-tyranny-of-diversity-equity-and-inclusion-1634136777](https://wng.org/opinions/the-tyranny-of-diversity-equity-and-inclusion-1634136777)
  - date published: 2021-10-13 15:45:57+00:00
@@ -1870,6 +1876,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Leaked Grant Proposal Details High-Risk Coronavirus Research
+ - [https://theintercept.com/2021/09/23/coronavirus-research-grant-darpa/](https://theintercept.com/2021/09/23/coronavirus-research-grant-darpa/)
+ - date published: 2021-09-23 06:55:00+00:00
+ - user: rumpel
+ - tags: ['covid', 'wuhan']
+
 ## WATCH: Bill Gates says meetings with Jeffrey Epstein were 'a mistake'
  - [https://www.youtube.com/watch?v=LNAwUxZ5nfw](https://www.youtube.com/watch?v=LNAwUxZ5nfw)
  - date published: 2021-09-22 00:00:00+00:00
@@ -2187,6 +2199,12 @@
  - date published: 2021-09-04 09:48:11.744999+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## The Dark Reality of Los Angeles
+ - [https://www.youtube.com/watch?v=cdkvvafeMzk](https://www.youtube.com/watch?v=cdkvvafeMzk)
+ - date published: 2021-09-04 00:00:00+00:00
+ - user: rumpel
+ - tags: ['america', 'homelessness']
 
 ## The Australian federal government is planning to de-anonymize the internet | Hacker News
  - [https://news.ycombinator.com/item?id=28391709](https://news.ycombinator.com/item?id=28391709)
@@ -3406,12 +3424,6 @@
  - user: Thomas Pain
  - tags: $tags
 
-## Firefox 89 delivered more speed—today’s Firefox 90 adds SmartBlock 2.0 | Ars Technica
- - [https://arstechnica.com/gadgets/2021/07/firefox-90-ramps-up-private-browsing-with-new-smartblock-2-0/?utm_source=tldrnewsletter](https://arstechnica.com/gadgets/2021/07/firefox-90-ramps-up-private-browsing-with-new-smartblock-2-0/?utm_source=tldrnewsletter)
- - date published: 2021-07-14 10:37:10.131427+00:00
- - user: Thomas Pain
- - tags: $tags
-
 ## Delta Variant: Everything You Need to Know - by Tomas Pueyo - Uncharted Territories
  - [https://unchartedterritories.tomaspueyo.com/p/delta-variant-everything-you-need](https://unchartedterritories.tomaspueyo.com/p/delta-variant-everything-you-need)
  - date published: 2021-07-14 09:30:26.849678+00:00
@@ -3421,12 +3433,6 @@
 ## Update: SaveVideo is Back: u_SaveVideo
  - [https://www.reddit.com/user/SaveVideo/comments/ojohbq/update_savevideo_is_back/?utm_source=reddit&utm_medium=usertext&utm_name=u_SaveVideo&utm_content=t3_oimo6y](https://www.reddit.com/user/SaveVideo/comments/ojohbq/update_savevideo_is_back/?utm_source=reddit&utm_medium=usertext&utm_name=u_SaveVideo&utm_content=t3_oimo6y)
  - date published: 2021-07-14 05:50:45.834518+00:00
- - user: Thomas Pain
- - tags: $tags
-
-## My business might have 32 days before it's shut down by NYC [video] | Hacker News
- - [https://news.ycombinator.com/item?id=27810019](https://news.ycombinator.com/item?id=27810019)
- - date published: 2021-07-13 22:46:51.208831+00:00
  - user: Thomas Pain
  - tags: $tags
 

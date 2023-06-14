@@ -1,3 +1,9 @@
+## Blokada pornografii dla nieletnich. Ustawa o ochronie w sieci już w Sejmie – Biznes Wprost
+ - [https://biznes.wprost.pl/technologie/internet/11261809/blokada-pornografii-dla-nieletnich-ustawa-o-ochronie-w-sieci-juz-w-sejmie.html](https://biznes.wprost.pl/technologie/internet/11261809/blokada-pornografii-dla-nieletnich-ustawa-o-ochronie-w-sieci-juz-w-sejmie.html)
+ - date published: 2023-06-13 20:57:20+00:00
+ - user: rumpel
+ - tags: ['tech control', 'government control', 'censorship', 'poland']
+
 ## Teva zapłaci miliony dolarów kary. Firma farmaceutyczna napędzała kryzys opioidowy - Bankier.pl
  - [https://www.bankier.pl/wiadomosc/Teva-zaplaci-miliony-dolarow-kary-Firma-farmaceutyczna-napedzala-kryzys-opioidowy-8557212.html](https://www.bankier.pl/wiadomosc/Teva-zaplaci-miliony-dolarow-kary-Firma-farmaceutyczna-napedzala-kryzys-opioidowy-8557212.html)
  - date published: 2023-06-10 06:48:58+00:00
@@ -514,7 +520,7 @@
  - [https://terazhistoria.pl/sw-maksymilian-kolbe/](https://terazhistoria.pl/sw-maksymilian-kolbe/)
  - date published: 2023-01-08 18:12:48+00:00
  - user: rumpel
- - tags: ['israel holocaust', 'maksymilian kolbe', 'example']
+ - tags: ['israel', 'example', 'holocaust', 'maksymilian kolbe']
 
 ## Dyskryminacja klasowa nadal jest faktem. Stała się paliwem dla populistów
  - [https://forsal.pl/gospodarka/polityka/artykuly/8626908,dyskryminacja-klasowa-nadal-jest-faktem-stala-sie-paliwem-dla-populistow.html](https://forsal.pl/gospodarka/polityka/artykuly/8626908,dyskryminacja-klasowa-nadal-jest-faktem-stala-sie-paliwem-dla-populistow.html)

@@ -26,7 +26,7 @@
  - [https://www.pokoleniex.com/swiat/2021/12/14/pierwsze-poufne-dokumenty-pfizera-ujawnione-z-nakazu-sadowego/](https://www.pokoleniex.com/swiat/2021/12/14/pierwsze-poufne-dokumenty-pfizera-ujawnione-z-nakazu-sadowego/)
  - date published: 2021-12-14 07:05:12+00:00
  - user: None
- - tags: $tags
+ - tags: ['pfizer', 'covid']
 
 ## Dziwne rozbieżności w danych o zgonach na COVID-19. Region regionowi nierówny
  - [https://businessinsider.com.pl/wiadomosci/dziwne-rozbieznosci-w-danych-o-zgonach-na-covid-19-region-regionowi-nierowny/qdrsy0w](https://businessinsider.com.pl/wiadomosci/dziwne-rozbieznosci-w-danych-o-zgonach-na-covid-19-region-regionowi-nierowny/qdrsy0w)
@@ -200,7 +200,7 @@
  - [https://pubmedinfo.org/2021/06/16/kiedy-who-zmienila-definicje-odpornosci-stada/](https://pubmedinfo.org/2021/06/16/kiedy-who-zmienila-definicje-odpornosci-stada/)
  - date published: 2021-06-16 22:12:17+00:00
  - user: rumpel
- - tags: ['who', 'herd imunity', 'covid']
+ - tags: ['herd immunity', 'who', 'covid']
 
 ## Facebook zakazuje sceptycyzmu wobec szczepień przeciw COVID-19
  - [https://ithardware.pl/aktualnosci/facebook_zakazuje_sceptycyzmu_wobec_szczepien_przeciw_covid_19-16200.html](https://ithardware.pl/aktualnosci/facebook_zakazuje_sceptycyzmu_wobec_szczepien_przeciw_covid_19-16200.html)

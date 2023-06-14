@@ -1,3 +1,33 @@
+## What Did Pfizer CEO Say in 2019 About Pills with Ingestible Sensors?
+ - [https://www.youtube.com/watch?v=ORB4j8Z1W1A](https://www.youtube.com/watch?v=ORB4j8Z1W1A)
+ - date published: 2023-06-13 17:57:06+00:00
+ - user: rumpel
+ - tags: ['pfizer', 'big pharma']
+
+## Meta to Buy Almost 7M Carbon Credits
+ - [https://carboncredits.com/meta-to-buy-almost-7-million-carbon-credits-from-aspiration/](https://carboncredits.com/meta-to-buy-almost-7-million-carbon-credits-from-aspiration/)
+ - date published: 2023-06-13 03:01:21+00:00
+ - user: rumpel
+ - tags: ['meta', 'climate change', 'carbon credits']
+
+## The US Is Openly Stockpiling Dirt on All Its Citizens
+ - [https://www.wired.com/story/odni-commercially-available-information-report/](https://www.wired.com/story/odni-commercially-available-information-report/)
+ - date published: 2023-06-12 20:21:08+00:00
+ - user: rumpel
+ - tags: ['government control', 'surveillance', 'privacy laundering', 'big brother']
+
+## Lawsuit: Password Company Bitwarden Fired Catholic Employee For Listing Pronouns As “Assigned By God”
+ - [https://reclaimthenet.org/bitwarden-fired-catholic-employee-pronouns](https://reclaimthenet.org/bitwarden-fired-catholic-employee-pronouns)
+ - date published: 2023-06-12 19:44:24+00:00
+ - user: rumpel
+ - tags: ['christianophobia', 'the left wing', 'pronouns', 'gender']
+
+## A Tale of Unwanted Disruption: My Week Without Amazon
+ - [https://medium.com/@bjax_/a-tale-of-unwanted-disruption-my-week-without-amazon-df1074e3818b](https://medium.com/@bjax_/a-tale-of-unwanted-disruption-my-week-without-amazon-df1074e3818b)
+ - date published: 2023-06-12 16:33:27+00:00
+ - user: rumpel
+ - tags: ['amazon', 'technofeudalism', 'alexa', 'smart home']
+
 ## Is liberalism digging its own demographic grave? (2022)
  - [https://www.thearticle.com/is-liberalism-digging-its-own-demographic-grave](https://www.thearticle.com/is-liberalism-digging-its-own-demographic-grave)
  - date published: 2023-06-12 13:23:30+00:00
@@ -10,11 +40,23 @@
  - user: rumpel
  - tags: ['centralization']
 
+## Video Shows Trans Influencer Going Topless On White House Lawn At Biden Pride Month Celebration | The Daily Caller
+ - [https://dailycaller.com/2023/06/12/trans-influencer-topless-white-house-biden-pride-month-celebration/](https://dailycaller.com/2023/06/12/trans-influencer-topless-white-house-biden-pride-month-celebration/)
+ - date published: 2023-06-12 09:14:30+00:00
+ - user: rumpel
+ - tags: ['sexualization', 'the left wing', 'trangender', 'propaganda']
+
 ## The Unabomber Was an AI Doomer
  - [https://newsletter.pessimistsarchive.org/p/the-unabomber-was-an-ai-doomer-obviously](https://newsletter.pessimistsarchive.org/p/the-unabomber-was-an-ai-doomer-obviously)
  - date published: 2023-06-12 08:49:47+00:00
  - user: rumpel
  - tags: ['artificial intelligence', 'unabomber', 'ted kaczynski']
+
+## Daily Wire Hit With YouTube Censorship Wave, Faces Possible Ban
+ - [https://reclaimthenet.org/daily-wire-hit-with-youtube-censorship-wave](https://reclaimthenet.org/daily-wire-hit-with-youtube-censorship-wave)
+ - date published: 2023-06-12 02:22:53+00:00
+ - user: rumpel
+ - tags: ['daily wire', 'deplatform', 'technofeudalism', 'censorship']
 
 ## Inside the Wuhan lab weeks before Covid
  - [https://www.thetimes.co.uk/article/inside-wuhan-lab-covid-pandemic-china-america-qhjwwwvm0](https://www.thetimes.co.uk/article/inside-wuhan-lab-covid-pandemic-china-america-qhjwwwvm0)
@@ -52,11 +94,23 @@
  - user: rumpel
  - tags: ['movies', 'disney', 'go woke go broke']
 
+## Covid disinformation unit made 'hourly contact' with tech firms to flag dissent, says Sarah Connolly
+ - [https://www.telegraph.co.uk/news/2023/06/09/covid-disinformation-unit-hourly-tech-lockdown-dissent/](https://www.telegraph.co.uk/news/2023/06/09/covid-disinformation-unit-hourly-tech-lockdown-dissent/)
+ - date published: 2023-06-09 14:08:01+00:00
+ - user: rumpel
+ - tags: ['covid', 'government control', 'misinformation', 'counter disinformation unit', 'big brother', 'technofeudalism']
+
 ## ‘Call Of Duty’ Removes Nickmercs Operator Skin From Shop After LGBTQ Comments
  - [https://www.forbes.com/sites/paultassi/2023/06/09/call-of-duty-removes-nickmercs-operator-skin-from-shop-after-lgbtq-comments/](https://www.forbes.com/sites/paultassi/2023/06/09/call-of-duty-removes-nickmercs-operator-skin-from-shop-after-lgbtq-comments/)
  - date published: 2023-06-09 13:02:26+00:00
  - user: rumpel
  - tags: ['lgbt', 'censorship', 'the left wing']
+
+## FBI Flagged Twitter Accounts Of American Journalists Over Ukraine War Disinformation
+ - [https://reclaimthenet.org/fbi-flagged-twitter-accounts-ukraine](https://reclaimthenet.org/fbi-flagged-twitter-accounts-ukraine)
+ - date published: 2023-06-09 10:35:52+00:00
+ - user: rumpel
+ - tags: ['mainstream media', 'government control', 'twitter', 'big brother', 'fbi']
 
 ## Google un-bans Downloader app, but developer still mad about “broken” DMCA
  - [https://arstechnica.com/tech-policy/2023/06/google-un-bans-downloader-app-but-developer-still-mad-about-broken-dmca/](https://arstechnica.com/tech-policy/2023/06/google-un-bans-downloader-app-but-developer-still-mad-about-broken-dmca/)
@@ -195,6 +249,12 @@
  - date published: 2023-06-05 14:09:13+00:00
  - user: rumpel
  - tags: ['germany', 'immigration']
+
+## Criminalization of encryption : the 8 december case – La Quadrature du Net
+ - [https://www.laquadrature.net/en/2023/06/05/criminalization-of-encryption-the-8-december-case/](https://www.laquadrature.net/en/2023/06/05/criminalization-of-encryption-the-8-december-case/)
+ - date published: 2023-06-05 13:17:27+00:00
+ - user: rumpel
+ - tags: ['crypto wars', 'anonymity', 'government control', 'signal', 'privacy', 'linux', 'france']
 
 ## Why Did Usenet Fail?
  - [https://shkspr.mobi/blog/2023/06/why-did-usenet-fail/](https://shkspr.mobi/blog/2023/06/why-did-usenet-fail/)
@@ -616,6 +676,12 @@
  - user: rumpel
  - tags: ['the left wing', 'pronouns', 'newspeak']
 
+## Leaked EU files suggest Spain supports end-to-end encryption ban
+ - [https://www.siliconrepublic.com/enterprise/leaked-eu-files-end-to-end-encryption-spain-ireland-csam](https://www.siliconrepublic.com/enterprise/leaked-eu-files-end-to-end-encryption-spain-ireland-csam)
+ - date published: 2023-05-23 13:24:11+00:00
+ - user: rumpel
+ - tags: ['crypto wars', 'surveillance', 'spain', 'privacy', 'tech control']
+
 ## Twitter Files Extra: The Covid Censorship Requests of Australia's Department of Home Affairs
  - [https://www.racket.news/p/twitter-files-extra-the-covid-censorship](https://www.racket.news/p/twitter-files-extra-the-covid-censorship)
  - date published: 2023-05-23 08:00:19+00:00
@@ -814,6 +880,12 @@
  - user: rumpel
  - tags: ['fbi', 'donald trump', 'elections']
 
+## DHS engaged in massive censorship laundering scheme â your government is trying to erase your First Amendment rights
+ - [https://www.newstarget.com/2023-05-16-dhs-censorship-laundering-scheme-erase-first-amendment.html](https://www.newstarget.com/2023-05-16-dhs-censorship-laundering-scheme-erase-first-amendment.html)
+ - date published: 2023-05-16 07:13:17+00:00
+ - user: rumpel
+ - tags: ['government control', 'censorship laundering', 'big brother']
+
 ## Microsoft is scanning the inside of password-protected zip files for malware
  - [https://arstechnica.com/?p=1939441](https://arstechnica.com/?p=1939441)
  - date published: 2023-05-16 00:15:24+00:00
@@ -885,6 +957,12 @@
  - date published: 2023-05-14 06:51:50+00:00
  - user: rumpel
  - tags: ['transformers', 'woke', 'pronouns', 'the left wing', 'gender', 'indoctrination', 'newspeak']
+
+## Biden calls white supremacy greatest terrorism threat - The Washington Post
+ - [https://www.washingtonpost.com/politics/2023/05/14/biden-white-supremacy-howard-university/](https://www.washingtonpost.com/politics/2023/05/14/biden-white-supremacy-howard-university/)
+ - date published: 2023-05-14 06:46:18+00:00
+ - user: rumpel
+ - tags: ['racism', 'white supremacy', 'joe biden']
 
 ## The Pandemic May Be Over But UK Mobile Networks Are Still Monitoring Population Movement
  - [https://reclaimthenet.org/uk-mobile-networks-are-still-monitoring-population-movement](https://reclaimthenet.org/uk-mobile-networks-are-still-monitoring-population-movement)
@@ -1456,6 +1534,12 @@
  - user: rumpel
  - tags: ['biometric', 'facial recognition']
 
+## UK Threatens End-to-End Encryption
+ - [https://www.schneier.com/blog/archives/2023/04/uk-threatens-end-to-end-encryption.html](https://www.schneier.com/blog/archives/2023/04/uk-threatens-end-to-end-encryption.html)
+ - date published: 2023-04-24 11:52:22+00:00
+ - user: rumpel
+ - tags: ['crypto wars', 'surveillance', 'privacy', 'tech control']
+
 ## Trans teen died from vaginoplasty complications during landmark Dutch study used to justify child sex changes | The Post Millennial | thepostmillennial.com
  - [https://thepostmillennial.com/trans-teen-died-from-vaginoplasty-complications-during-landmark-dutch-study-used-to-justify-child-sex-changes](https://thepostmillennial.com/trans-teen-died-from-vaginoplasty-complications-during-landmark-dutch-study-used-to-justify-child-sex-changes)
  - date published: 2023-04-24 07:02:38+00:00
@@ -1623,6 +1707,12 @@
  - date published: 2023-04-18 09:00:40+00:00
  - user: rumpel
  - tags: ['company towns']
+
+## Elon Musk reveals US intel agencies had 'full access' to private Twitter DMs, discloses new encryption feature
+ - [https://www.foxnews.com/media/elon-musk-us-intel-agencies-full-access-private-twitter-dms-discloses-new-encryption-feature](https://www.foxnews.com/media/elon-musk-us-intel-agencies-full-access-private-twitter-dms-discloses-new-encryption-feature)
+ - date published: 2023-04-17 21:58:11+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'elon musk', 'twitter files', 'privacy', 'twitter', 'big brother']
 
 ## Girl Too Young For Tattoo Offered Irreversible Gender Surgery
  - [https://www.youtube.com/watch?v=yRQB61VWmw8](https://www.youtube.com/watch?v=yRQB61VWmw8)
@@ -2770,6 +2860,12 @@
  - user: rumpel
  - tags: ['surveillance', 'chat control', 'privacy', 'government control']
 
+## WhatsApp says it will leave the UK rather than weaken encryption under Online Safety Bill
+ - [https://www.theverge.com/2023/3/10/23633601/uk-online-safety-bill-encryption-whatsapp-leave](https://www.theverge.com/2023/3/10/23633601/uk-online-safety-bill-encryption-whatsapp-leave)
+ - date published: 2023-03-10 10:53:00+00:00
+ - user: rumpel
+ - tags: ['crypto wars', 'england', 'online safety bill']
+
 ## Women’s rights have gone ‘too far’, say majority of Gen Z and millennials, study shows
  - [https://www.telegraph.co.uk/news/2023/03/09/womens-rights-have-gone-far-say-majority-gen-z-millennials-study/](https://www.telegraph.co.uk/news/2023/03/09/womens-rights-have-gone-far-say-majority-gen-z-millennials-study/)
  - date published: 2023-03-09 20:18:16+00:00
@@ -3830,7 +3926,7 @@
  - [https://www.cnn.com/2023/02/01/tech/apple-google-commerce-department/index.html](https://www.cnn.com/2023/02/01/tech/apple-google-commerce-department/index.html)
  - date published: 2023-02-01 14:09:29+00:00
  - user: rumpel
- - tags: ['monopoly', 'gatekeeper', 'apple', 'appstore', 'google']
+ - tags: ['gatekeeper', 'apple', 'monopoly', 'app store', 'google']
 
 ## Gmail creator says ChatGPT might ‘destroy’ Google within 2 years
  - [https://bgr.com/tech/gmail-creator-says-chatgpt-might-destroy-google-within-2-years/](https://bgr.com/tech/gmail-creator-says-chatgpt-might-destroy-google-within-2-years/)

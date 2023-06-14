@@ -4,6 +4,12 @@
  - user: None
  - tags: ['fact check', 'propaganda', 'government', 'iraq', 'disinformation', 'big brother']
 
+## White Supremacist Infiltration of Law Enforcement
+ - [https://nsarchive.gwu.edu/sites/default/files/documents/qxf56q-o0zwb/02.pdf](https://nsarchive.gwu.edu/sites/default/files/documents/qxf56q-o0zwb/02.pdf)
+ - date published: 2006-10-17 06:47:35+00:00
+ - user: rumpel
+ - tags: ['racism', 'white supremacy']
+
 ## Cannon Fodder Amiga game intro
  - [https://www.youtube.com/watch?v=PiYuq6Ac3a0](https://www.youtube.com/watch?v=PiYuq6Ac3a0)
  - date published: 2006-05-07 00:00:00+00:00

@@ -1138,6 +1138,12 @@
  - user: rumpel
  - tags: ['propaganda', 'fearmongering', 'mask', 'covid', 'mandates']
 
+## Why the Lawful Access to Encrypted Data Act is a Threat to your Privacy
+ - [https://www.globalsign.com/en/blog/why-lawful-access-encrypted-data-act-threat-your-rights-and-privacy](https://www.globalsign.com/en/blog/why-lawful-access-encrypted-data-act-threat-your-rights-and-privacy)
+ - date published: 2020-06-23 11:06:20+00:00
+ - user: rumpel
+ - tags: ['lawful access to encrypted data act', 'privacy', 'government control', 'surveillance']
+
 ## BlackRock Is Biggest Beneficiary of Fed Purchases of Corporate Bond ETFs | Barron's
  - [https://www.barrons.com/articles/blackrock-is-biggest-beneficiary-of-fed-purchases-of-corporate-bond-etfs-51591034726](https://www.barrons.com/articles/blackrock-is-biggest-beneficiary-of-fed-purchases-of-corporate-bond-etfs-51591034726)
  - date published: 2020-06-20 16:50:04+00:00
@@ -1238,7 +1244,7 @@
  - [https://news.bitcoin.com/lawful-access-to-encrypted-data-act-backdoor/](https://news.bitcoin.com/lawful-access-to-encrypted-data-act-backdoor/)
  - date published: 2020-06-02 12:26:32+00:00
  - user: None
- - tags: $tags
+ - tags: ['lawful access to encrypted data act', 'privacy', 'government control', 'surveillance']
 
 ## Ricky Gervais – Golden Globes 2020 (Uncensored, HD)
  - [https://www.youtube.com/watch?v=iJOb9xHggS4](https://www.youtube.com/watch?v=iJOb9xHggS4)

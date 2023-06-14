@@ -628,6 +628,12 @@
  - user: rumpel
  - tags: ['motivation']
 
+## Joe Rogan | What is Going on with the Homeless in LA?
+ - [https://www.youtube.com/watch?v=CJU1bQ4Pq6Q](https://www.youtube.com/watch?v=CJU1bQ4Pq6Q)
+ - date published: 2019-05-01 00:00:00+00:00
+ - user: rumpel
+ - tags: ['america', 'homelessness']
+
 ## Pre-teen “Drag Kids” highlight just how fast our culture has crumbled
  - [https://thebridgehead.ca/2019/04/30/pre-teen-drag-kids-highlight-just-how-fast-our-culture-has-crumbled](https://thebridgehead.ca/2019/04/30/pre-teen-drag-kids-highlight-just-how-fast-our-culture-has-crumbled)
  - date published: 2019-04-30 22:11:33+00:00
@@ -668,7 +674,7 @@
  - [https://www.youtube.com/watch?v=y8SjmcVJOjw](https://www.youtube.com/watch?v=y8SjmcVJOjw)
  - date published: 2019-04-16 20:17:46+00:00
  - user: None
- - tags: $tags
+ - tags: ['apple']
 
 ## The List of All U.S Colleges With a Gender Studies/Gender and Sexuality Studies Major
  - [https://blog.collegevine.com/the-list-of-all-u-s-colleges-with-a-gender-studies-gender-and-sexuality-studies-major/](https://blog.collegevine.com/the-list-of-all-u-s-colleges-with-a-gender-studies-gender-and-sexuality-studies-major/)

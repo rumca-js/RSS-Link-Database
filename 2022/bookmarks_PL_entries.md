@@ -202,12 +202,6 @@
  - user: None
  - tags: ['joe biden']
 
-## Zamyka restaurację z gwiazdką Michelin. Stracił smak i węch przez COVID-19
- - [https://wydarzenia.interia.pl/zagranica/news-zamyka-restauracje-z-gwiazdka-michelin-stracil-smak-i-wech-p,nId,6392210](https://wydarzenia.interia.pl/zagranica/news-zamyka-restauracje-z-gwiazdka-michelin-stracil-smak-i-wech-p,nId,6392210)
- - date published: 2022-11-05 19:14:45+00:00
- - user: None
- - tags: $tags
-
 ## Apple jest wart więcej niż Google, Facebook i Amazon razem wzięte. Jeśli to nie jest monopol, to nie wiem, co nim jest
  - [https://www.chip.pl/2022/11/apple-monopol-2022](https://www.chip.pl/2022/11/apple-monopol-2022)
  - date published: 2022-11-04 16:00:00+00:00
@@ -314,7 +308,7 @@
  - [https://www.bankier.pl/wiadomosc/Byly-prezes-chinskiego-panstwowego-banku-aresztowany-8429176.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Byly-prezes-chinskiego-panstwowego-banku-aresztowany-8429176.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date published: 2022-10-26 11:25:00+00:00
  - user: None
- - tags: $tags
+ - tags: ['china']
 
 ## USA: Demokraci chcieli negocjacji z Rosją. Kontrowersyjny list do Bidena
  - [https://wydarzenia.interia.pl/zagranica/news-usa-demokraci-chcieli-negocjacji-z-rosja-kontrowersyjny-list,nId,6371667](https://wydarzenia.interia.pl/zagranica/news-usa-demokraci-chcieli-negocjacji-z-rosja-kontrowersyjny-list,nId,6371667)
@@ -722,7 +716,7 @@
  - [https://www.bankier.pl/wiadomosc/10-milionow-dzieci-na-swiecie-stracilo-rodzica-lub-opiekuna-w-wyniku-COVID-19-8408616.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/10-milionow-dzieci-na-swiecie-stracilo-rodzica-lub-opiekuna-w-wyniku-COVID-19-8408616.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date published: 2022-09-25 09:00:00+00:00
  - user: None
- - tags: $tags
+ - tags: ['covid']
 
 ## Drogo jak nigdy, castingi, aukcje. Horror na rynku najmu [REPORTAŻ INTERII]
  - [https://wydarzenia.interia.pl/kraj/news-drogo-jak-nigdy-castingi-aukcje-horror-na-rynku-najmu-report,nId,6303919](https://wydarzenia.interia.pl/kraj/news-drogo-jak-nigdy-castingi-aukcje-horror-na-rynku-najmu-report,nId,6303919)
@@ -824,7 +818,7 @@
  - [https://www.wykop.pl/link/6820919/usa-wiceszef-cia-przywodca-chrl-chce-by-wojsko-bylo-w-stanie-zajac/](https://www.wykop.pl/link/6820919/usa-wiceszef-cia-przywodca-chrl-chce-by-wojsko-bylo-w-stanie-zajac/)
  - date published: 2022-09-17 12:52:01+00:00
  - user: None
- - tags: $tags
+ - tags: ['china', 'taiwan']
 
 ## Za szybkie przejście na prąd to nic dobrego – twierdzi szef BMW - Magazyn Auto
  - [https://magazynauto.pl/wiadomosci/zbyt-szybkie-przejscie-na-elekromobilnosc-nie-bedzie-niczym-dobrym-twierdzi-szef-bmw,aid,2449](https://magazynauto.pl/wiadomosci/zbyt-szybkie-przejscie-na-elekromobilnosc-nie-bedzie-niczym-dobrym-twierdzi-szef-bmw,aid,2449)
@@ -873,12 +867,6 @@
  - date published: 2022-09-13 08:16:00+00:00
  - user: None
  - tags: ['china', 'big brother', 'media']
-
-## Ciekawostka jak działa Google, a jak działa Bing...
- - [https://www.wykop.pl/link/6814873/ciekawostka-jak-dziala-google-a-jak-dziala-bing/](https://www.wykop.pl/link/6814873/ciekawostka-jak-dziala-google-a-jak-dziala-bing/)
- - date published: 2022-09-12 21:28:01+00:00
- - user: None
- - tags: $tags
 
 ## To koniec Chomikuj.pl? Zapadł przełomowy wyrok w sprawie popularnej platformy
  - [https://ithardware.pl/aktualnosci/to_koniec_chomikuj_pl_zapadl_przelomowy_wyrok_w_sprawie_popularnej_platformy-23252.html](https://ithardware.pl/aktualnosci/to_koniec_chomikuj_pl_zapadl_przelomowy_wyrok_w_sprawie_popularnej_platformy-23252.html)
@@ -974,7 +962,7 @@
  - [https://niebezpiecznik.pl/post/cloudflare-sie-ugial-i-usunal-hejterskie-forum-ale-troche-zaluje/](https://niebezpiecznik.pl/post/cloudflare-sie-ugial-i-usunal-hejterskie-forum-ale-troche-zaluje/)
  - date published: 2022-09-05 09:56:19+00:00
  - user: None
- - tags: $tags
+ - tags: ['moderation', 'hate speech', 'censorship', 'cloudflare']
 
 ## Koniec „ery obfitości” staje się faktem? Niektórzy widzą w tym szansę
  - [https://www.bankier.pl/wiadomosc/Macron-wieszczy-koniec-ery-obfitosci-Ale-wlasciwie-dla-kogo-8399613.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Macron-wieszczy-koniec-ery-obfitosci-Ale-wlasciwie-dla-kogo-8399613.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -987,12 +975,6 @@
  - date published: 2022-09-04 11:00:00+00:00
  - user: None
  - tags: ['america', 'covid']
-
-## Marsze Równości przeszły ulicami Katowic i Lublina. "Chyba zwiększyła się akceptacja"
- - [https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28866113,marsze-rownosci-przeszly-ulicami-katowic-i-lublina-chyba-zwiekszyla.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28866113,marsze-rownosci-przeszly-ulicami-katowic-i-lublina-chyba-zwiekszyla.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10663636)
- - date published: 2022-09-04 09:00:00+00:00
- - user: None
- - tags: $tags
 
 ## Sondaż: 36% Niemców uważa, że Izrael traktuje Palestyńczyków jak naziści Żydów
  - [https://www.wykop.pl/link/6802813/sondaz-36-niemcow-uwaza-ze-izrael-traktuje-palestynczykow-jak-nazisci-zydow/](https://www.wykop.pl/link/6802813/sondaz-36-niemcow-uwaza-ze-izrael-traktuje-palestynczykow-jak-nazisci-zydow/)
@@ -1022,7 +1004,7 @@
  - [https://www.wykop.pl/link/6802629/sluzby-pis-chca-zablokowac-strone-publikujaca-maile-ze-skrzynki-dworczyka/](https://www.wykop.pl/link/6802629/sluzby-pis-chca-zablokowac-strone-publikujaca-maile-ze-skrzynki-dworczyka/)
  - date published: 2022-09-03 10:36:01+00:00
  - user: None
- - tags: $tags
+ - tags: ['prawo i sprawiedliwość', 'poland']
 
 ## Pięć wtyczek do Google Chrome potajemnie zbierało dane. Rozszerzenia pobrało wielu użytkowników
  - [https://ithardware.pl/aktualnosci/piec_wtyczek_do_google_chrome_potajemnie_zbieralo_dane_rozszerzenia_pobralo_wielu_uzytkownikow-23088.html](https://ithardware.pl/aktualnosci/piec_wtyczek_do_google_chrome_potajemnie_zbieralo_dane_rozszerzenia_pobralo_wielu_uzytkownikow-23088.html)
