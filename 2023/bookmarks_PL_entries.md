@@ -50,7 +50,7 @@
  - [https://ithardware.pl/aktualnosci/unia_europejska_identyfikator_cyfrowy_dla_wszystkich_do_2030_roku-27516.html](https://ithardware.pl/aktualnosci/unia_europejska_identyfikator_cyfrowy_dla_wszystkich_do_2030_roku-27516.html)
  - date published: 2023-05-29 07:45:40+00:00
  - user: rumpel
- - tags: ['tech control', 'digital identity']
+ - tags: ['digital identity', 'government control']
 
 ## Kilka milionów loginów i haseł z Polski wyciekło do sieci | Zaufana Trzecia Strona
  - [https://zaufanatrzeciastrona.pl/post/kilka-milionow-loginow-i-hasel-z-polski-wycieklo-do-sieci/](https://zaufanatrzeciastrona.pl/post/kilka-milionow-loginow-i-hasel-z-polski-wycieklo-do-sieci/)

@@ -1300,6 +1300,12 @@
  - user: rumpel
  - tags: ['cbdc', 'visa']
 
+## 6 Powermods Control 118/500 Top Subreddits
+ - [https://www.reddit.com/r/everything/comments/gjgf1z/6_powermods_control_118500_top_subreddits/](https://www.reddit.com/r/everything/comments/gjgf1z/6_powermods_control_118500_top_subreddits/)
+ - date published: 2020-05-14 08:40:03+00:00
+ - user: rumpel
+ - tags: ['technofeudalism', 'reddit', 'moderation']
+
 ## More than 100,000 small businesses have permanently closed due to coronavirus, study estimates – The Hill
  - [https://thehill.com/changing-america/well-being/longevity/497519-more-than-100000-small-businesses-have-permanently/](https://thehill.com/changing-america/well-being/longevity/497519-more-than-100000-small-businesses-have-permanently/)
  - date published: 2020-05-13 20:41:10+00:00
@@ -1545,6 +1551,12 @@
  - date published: 2020-02-12 09:13:20+00:00
  - user: rumpel
  - tags: ['leader', 'managment', 'programming']
+
+## U.K. Educator Uses YouTube To Treat Panic Of Coronavirus Myths
+ - [https://www.forbes.com/sites/johnscottlewinski/2020/02/07/uk-doctor-uses-youtube-to-treat-panic-of-coronavirus-myths/](https://www.forbes.com/sites/johnscottlewinski/2020/02/07/uk-doctor-uses-youtube-to-treat-panic-of-coronavirus-myths/)
+ - date published: 2020-02-07 08:51:27+00:00
+ - user: rumpel
+ - tags: ['dr. john campbell', 'covid']
 
 ## Texas mother trying to transition her seven-year-old son into a girl loses in court as judge orders her to share custody with ex-husband who says boy is just 'confused'
  - [https://www.dailymail.co.uk/news/article-7950655/Mother-trying-transition-son-girl-loses-court-judge-orders-parents-joint-custody.html](https://www.dailymail.co.uk/news/article-7950655/Mother-trying-transition-son-girl-loses-court-judge-orders-parents-joint-custody.html)

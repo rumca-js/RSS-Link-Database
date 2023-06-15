@@ -202,6 +202,18 @@
  - user: rumpel
  - tags: ['blackrock', 'wall street']
 
+## Aaron Swartz's battle to free the PACER legal document database - The Verge
+ - [https://www.theverge.com/2013/2/8/3968824/aaron-swartzs-battle-to-free-the-pacer-legal-document-database](https://www.theverge.com/2013/2/8/3968824/aaron-swartzs-battle-to-free-the-pacer-legal-document-database)
+ - date published: 2013-02-09 10:03:57+00:00
+ - user: rumpel
+ - tags: ['aaron swartz', 'pacer']
+
+## The inside story of Aaron Swartz’s campaign to liberate court filings | Ars Technica
+ - [https://arstechnica.com/tech-policy/2013/02/the-inside-story-of-aaron-swartzs-campaign-to-liberate-court-filings/2/](https://arstechnica.com/tech-policy/2013/02/the-inside-story-of-aaron-swartzs-campaign-to-liberate-court-filings/2/)
+ - date published: 2013-02-08 10:04:44+00:00
+ - user: rumpel
+ - tags: ['aaron swartz', 'pacer']
+
 ## Most awesome 8-bit song ever, now in HD
  - [https://www.youtube.com/watch?v=nFp_2eJlfYg](https://www.youtube.com/watch?v=nFp_2eJlfYg)
  - date published: 2013-01-27 00:00:00+00:00

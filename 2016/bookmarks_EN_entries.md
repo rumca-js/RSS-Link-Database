@@ -40,6 +40,12 @@
  - user: None
  - tags: ['democracy']
 
+## Reddit CEO admits he edited Trump supporters' comments on social network | The Independent | The Independent
+ - [https://www.independent.co.uk/tech/reddit-donald-trump-steve-huffman-spez-pizzagate-trolls-hillary-clinton-a7436406.html](https://www.independent.co.uk/tech/reddit-donald-trump-steve-huffman-spez-pizzagate-trolls-hillary-clinton-a7436406.html)
+ - date published: 2016-11-24 10:21:03+00:00
+ - user: rumpel
+ - tags: ['manufacturing consent', 'technofeudalism', 'reddit', 'corporatocracy', 'donald trump']
+
 ## Microsoft shares Windows 10 telemetry data with third parties [Updated]
  - [https://betanews.com/2016/11/24/microsoft-shares-windows-10-telemetry-data-with-third-parties/](https://betanews.com/2016/11/24/microsoft-shares-windows-10-telemetry-data-with-third-parties/)
  - date published: 2016-11-24 08:54:13+00:00

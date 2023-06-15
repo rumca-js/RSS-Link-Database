@@ -16,6 +16,12 @@
  - user: rumpel
  - tags: ['terrorism', 'surveillance', 'patriot act']
 
+## PACER (law) - Wikipedia
+ - [https://en.wikipedia.org/wiki/PACER_(law)](https://en.wikipedia.org/wiki/PACER_(law))
+ - date published: 2001-06-14 10:05:19+00:00
+ - user: rumpel
+ - tags: ['pacer']
+
 ## Crypto (book) - Wikipedia
  - [https://en.m.wikipedia.org/wiki/Crypto_(book)](https://en.m.wikipedia.org/wiki/Crypto_(book))
  - date published: 2001-04-23 07:18:36+00:00

@@ -494,7 +494,7 @@
  - [https://edition.cnn.com/2018/03/26/opinions/data-company-spying-opinion-schneier/index.html](https://edition.cnn.com/2018/03/26/opinions/data-company-spying-opinion-schneier/index.html)
  - date published: 2018-03-26 07:33:03+00:00
  - user: rumpel
- - tags: ['facebook', 'corporatocracy', 'privacy']
+ - tags: ['corporatocracy', 'surveillance', 'privacy', 'facebook']
 
 ## Why have we given up our privacy to Facebook and other sites so willingly?
  - [https://www.theguardian.com/uk-news/2018/mar/21/why-have-we-given-up-our-privacy-to-facebook-and-other-sites-so-willingly](https://www.theguardian.com/uk-news/2018/mar/21/why-have-we-given-up-our-privacy-to-facebook-and-other-sites-so-willingly)

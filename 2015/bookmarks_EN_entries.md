@@ -94,6 +94,12 @@
  - user: rumpel
  - tags: ['public relations', 'usa', 'propaganda']
 
+## Reddit Victoria Taylor: Dismissed AMA Coordinator Breaks Silence | Time
+ - [https://time.com/3950496/reddit-victoria-taylor-post/](https://time.com/3950496/reddit-victoria-taylor-post/)
+ - date published: 2015-07-08 10:27:26+00:00
+ - user: rumpel
+ - tags: ['reddit']
+
 ## Microsoft's new small print – how your personal data is (ab)used - European Digital Rights (EDRi)
  - [https://edri.org/our-work/microsofts-new-small-print-how-your-personal-data-abused/](https://edri.org/our-work/microsofts-new-small-print-how-your-personal-data-abused/)
  - date published: 2015-06-17 09:01:02+00:00
@@ -111,6 +117,12 @@
  - date published: 2015-05-27 12:04:50+00:00
  - user: None
  - tags: ['youtube', 'algorithm']
+
+## Reddit CEO Ellen Pao: Free speech on site not absolute | Fortune
+ - [https://fortune.com/2015/05/20/reddit-free-speech-ellen-pao/](https://fortune.com/2015/05/20/reddit-free-speech-ellen-pao/)
+ - date published: 2015-05-20 10:14:42+00:00
+ - user: rumpel
+ - tags: ['moderation', 'censorship', 'reddit', 'free speech']
 
 ## A old man's advice
  - [https://www.youtube.com/watch?v=JhckVlgYZJE](https://www.youtube.com/watch?v=JhckVlgYZJE)

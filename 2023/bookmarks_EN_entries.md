@@ -1,8 +1,38 @@
+## What Reddit Got Wrong
+ - [https://www.eff.org/deeplinks/2023/06/what-reddit-got-wrong](https://www.eff.org/deeplinks/2023/06/what-reddit-got-wrong)
+ - date published: 2023-06-14 16:41:20+00:00
+ - user: rumpel
+ - tags: ['reddit']
+
+## The Reddit blackout has left Google barren and full of holes – TechRadar
+ - [https://www.techradar.com/opinion/the-reddit-blackout-has-left-google-barren-and-full-of-holes](https://www.techradar.com/opinion/the-reddit-blackout-has-left-google-barren-and-full-of-holes)
+ - date published: 2023-06-14 15:13:48+00:00
+ - user: rumpel
+ - tags: ['search engines']
+
+## Reddit Is OpenAI's Moat
+ - [https://www.cyberdemon.org/2023/06/14/reddit-moat.html](https://www.cyberdemon.org/2023/06/14/reddit-moat.html)
+ - date published: 2023-06-14 13:52:56+00:00
+ - user: rumpel
+ - tags: ['openai', 'reddit', 'artificial intelligence']
+
+## Reddit stripping moderators of rights and forcing subreddits to go public
+ - [https://famichiki.jp/@Tsutsuku/110537730270070245](https://famichiki.jp/@Tsutsuku/110537730270070245)
+ - date published: 2023-06-13 20:45:18+00:00
+ - user: rumpel
+ - tags: ['reddit']
+
 ## What Did Pfizer CEO Say in 2019 About Pills with Ingestible Sensors?
  - [https://www.youtube.com/watch?v=ORB4j8Z1W1A](https://www.youtube.com/watch?v=ORB4j8Z1W1A)
  - date published: 2023-06-13 17:57:06+00:00
  - user: rumpel
  - tags: ['pfizer', 'big pharma']
+
+## Finish your projects
+ - [https://github.com/readme/guides/finish-your-projects](https://github.com/readme/guides/finish-your-projects)
+ - date published: 2023-06-13 17:33:10+00:00
+ - user: rumpel
+ - tags: ['hobby']
 
 ## Meta to Buy Almost 7M Carbon Credits
  - [https://carboncredits.com/meta-to-buy-almost-7-million-carbon-credits-from-aspiration/](https://carboncredits.com/meta-to-buy-almost-7-million-carbon-credits-from-aspiration/)
@@ -129,6 +159,12 @@
  - date published: 2023-06-08 23:00:01+00:00
  - user: rumpel
  - tags: ['who']
+
+## Cuba to Host Secret China Spy Base Focusing on U.S.
+ - [https://www.wsj.com/articles/cuba-to-host-secret-chinese-spy-base-focusing-on-u-s-b2fed0e0](https://www.wsj.com/articles/cuba-to-host-secret-chinese-spy-base-focusing-on-u-s-b2fed0e0)
+ - date published: 2023-06-08 11:00:00+00:00
+ - user: rumpel
+ - tags: ['america', 'espionage', 'china']
 
 ## Twitch’s new ad rules will hurt streamers, charities, and brands
  - [https://www.theverge.com/2023/6/7/23752437/twitch-new-ad-rules](https://www.theverge.com/2023/6/7/23752437/twitch-new-ad-rules)
@@ -680,7 +716,7 @@
  - [https://www.siliconrepublic.com/enterprise/leaked-eu-files-end-to-end-encryption-spain-ireland-csam](https://www.siliconrepublic.com/enterprise/leaked-eu-files-end-to-end-encryption-spain-ireland-csam)
  - date published: 2023-05-23 13:24:11+00:00
  - user: rumpel
- - tags: ['crypto wars', 'surveillance', 'spain', 'privacy', 'tech control']
+ - tags: ['privacy', 'surveillance', 'spain', 'crypto wars', 'government control']
 
 ## Twitter Files Extra: The Covid Censorship Requests of Australia's Department of Home Affairs
  - [https://www.racket.news/p/twitter-files-extra-the-covid-censorship](https://www.racket.news/p/twitter-files-extra-the-covid-censorship)
@@ -710,7 +746,7 @@
  - [https://www.wired.com/story/europe-break-encryption-leaked-document-csa-law/](https://www.wired.com/story/europe-break-encryption-leaked-document-csa-law/)
  - date published: 2023-05-22 19:31:47+00:00
  - user: rumpel
- - tags: ['crypto wars', 'surveillance', 'privacy', 'spain', 'tech control']
+ - tags: ['privacy', 'surveillance', 'spain', 'crypto wars', 'government control']
 
 ## Amazon’s palm-scanning technology can let you buy a drink without getting out your ID
  - [https://www.theverge.com/2023/5/22/23732823/amazon-one-palm-scanning-technology-age-verification](https://www.theverge.com/2023/5/22/23732823/amazon-one-palm-scanning-technology-age-verification)
@@ -860,7 +896,7 @@
  - [https://www.theregister.com/2023/05/17/eu_passes_cryptocurrency_regs/](https://www.theregister.com/2023/05/17/eu_passes_cryptocurrency_regs/)
  - date published: 2023-05-17 11:34:52+00:00
  - user: rumpel
- - tags: ['markets in cryptoassets', 'crypto', 'tech control', 'europe']
+ - tags: ['crypto', 'europe', 'government control', 'markets in cryptoassets']
 
 ## ChatGPT is not ‘artificial intelligence.’ It’s theft
  - [https://www.americamagazine.org/faith/2023/05/15/chatgpt-artificial-intelligence-theft-245283](https://www.americamagazine.org/faith/2023/05/15/chatgpt-artificial-intelligence-theft-245283)
@@ -1312,6 +1348,12 @@
  - user: rumpel
  - tags: ['ireland', 'government control', 'censorship', 'big brother', 'bill 2022']
 
+## Dr. John Campbell Suspended from YouTube for 'Medical Misinformation' | Hacker News
+ - [https://news.ycombinator.com/item?id=35791530](https://news.ycombinator.com/item?id=35791530)
+ - date published: 2023-05-02 08:55:09+00:00
+ - user: rumpel
+ - tags: ['censorship', 'youtube', 'covid', 'dr. john campbell', 'misinformation']
+
 ## Privacyguides.org – The guide to restoring your online privacy
  - [https://www.privacyguides.org/en/](https://www.privacyguides.org/en/)
  - date published: 2023-05-01 20:00:52+00:00
@@ -1538,7 +1580,7 @@
  - [https://www.schneier.com/blog/archives/2023/04/uk-threatens-end-to-end-encryption.html](https://www.schneier.com/blog/archives/2023/04/uk-threatens-end-to-end-encryption.html)
  - date published: 2023-04-24 11:52:22+00:00
  - user: rumpel
- - tags: ['crypto wars', 'surveillance', 'privacy', 'tech control']
+ - tags: ['crypto wars', 'privacy', 'government control', 'surveillance']
 
 ## Trans teen died from vaginoplasty complications during landmark Dutch study used to justify child sex changes | The Post Millennial | thepostmillennial.com
  - [https://thepostmillennial.com/trans-teen-died-from-vaginoplasty-complications-during-landmark-dutch-study-used-to-justify-child-sex-changes](https://thepostmillennial.com/trans-teen-died-from-vaginoplasty-complications-during-landmark-dutch-study-used-to-justify-child-sex-changes)
@@ -1683,6 +1725,12 @@
  - date published: 2023-04-18 20:24:44+00:00
  - user: rumpel
  - tags: ['the right wing', 'elections', 'disinformation', 'fox news', 'january 6']
+
+## Reddit Wants to Get Paid for Helping to Teach Big A.I. Systems
+ - [https://www.nytimes.com/2023/04/18/technology/reddit-ai-openai-google.html](https://www.nytimes.com/2023/04/18/technology/reddit-ai-openai-google.html)
+ - date published: 2023-04-18 17:00:06+00:00
+ - user: rumpel
+ - tags: ['reddit']
 
 ## EARN IT Act Is Back, And It’s Still Terribly Destructive | Techdirt
  - [https://www.techdirt.com/2023/04/18/earn-it-act-is-back-and-its-still-terribly-destructive/](https://www.techdirt.com/2023/04/18/earn-it-act-is-back-and-its-still-terribly-destructive/)
@@ -2811,12 +2859,6 @@
  - date published: 2023-03-11 07:00:15+00:00
  - user: rumpel
  - tags: ['the right wing', 'january 6']
-
-## The Deception Over Climate is Even Worse Than the Deception Over Covid
- - [https://dailysceptic.org/2023/03/11/the-deception-over-climate-is-even-worse-than-the-deception-over-covid/](https://dailysceptic.org/2023/03/11/the-deception-over-climate-is-even-worse-than-the-deception-over-covid/)
- - date published: 2023-03-11 07:00:00+00:00
- - user: rumpel
- - tags: ['climate change']
 
 ## ‘Profiteering’ of Covid pandemic must never be repeated, world figures warn
  - [https://www.theguardian.com/global-development/2023/mar/11/profiteering-of-covid-pandemic-must-never-be-repeated-world-figures-warn](https://www.theguardian.com/global-development/2023/mar/11/profiteering-of-covid-pandemic-must-never-be-repeated-world-figures-warn)

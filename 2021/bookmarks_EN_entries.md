@@ -4210,6 +4210,12 @@
  - user: rumpel
  - tags: ['gun control', 'joe biden']
 
+## Bill Gates tells Reddit why he's bought so much farmland
+ - [https://agfundernews.com/bill-gates-tells-reddit-why-hes-acquired-so-much-farmland](https://agfundernews.com/bill-gates-tells-reddit-why-hes-acquired-so-much-farmland)
+ - date published: 2021-03-22 14:26:56+00:00
+ - user: rumpel
+ - tags: ['bill gates', 'billionaires']
+
 ## Bill Gates Won't Stop Lying About Epstein Connections
  - [https://www.youtube.com/watch?v=D9iF4k16be0](https://www.youtube.com/watch?v=D9iF4k16be0)
  - date published: 2021-03-21 20:51:19+00:00

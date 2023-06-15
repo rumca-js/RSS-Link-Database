@@ -3584,7 +3584,7 @@
  - [https://www.reuters.com/article/us-amazon-com-jobs-automation-insight-idUSKCN1MK08G](https://www.reuters.com/article/us-amazon-com-jobs-automation-insight-idUSKCN1MK08G)
  - date published: 2022-10-26 12:22:22+00:00
  - user: None
- - tags: ['inequality', 'science', 'amazon', 'artificial intelligence']
+ - tags: ['science', 'sexism', 'artificial intelligence', 'inequality', 'amazon']
 
 ## Chinese stock markets plunge as Xi Jinping begins third term as leader
  - [https://www.dailymail.co.uk/news/article-11356255/Chinese-stock-markets-plunge-Xi-Jinping-begins-term-leader.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11356255/Chinese-stock-markets-plunge-Xi-Jinping-begins-term-leader.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -5312,7 +5312,7 @@
  - [https://www.techradar.com/news/facebook-sued-for-allegedly-spying-on-users-via-in-app-web-browser/](https://www.techradar.com/news/facebook-sued-for-allegedly-spying-on-users-via-in-app-web-browser/)
  - date published: 2022-09-23 19:11:05+00:00
  - user: None
- - tags: ['facebook', 'anonymity', 'privacy']
+ - tags: ['surviellance', 'privacy', 'anonymity', 'facebook']
 
 ## Something weird is going on in Diablo 2: Resurrected and we have no idea what it is
  - [https://www.pcgamer.com/something-weird-is-going-on-in-diablo-2-resurrected-and-we-have-no-idea-what-it-is](https://www.pcgamer.com/something-weird-is-going-on-in-diablo-2-resurrected-and-we-have-no-idea-what-it-is)
@@ -5912,7 +5912,7 @@
  - [https://euroweeklynews.com/2022/09/14/eu-digital-identity-wallet/](https://euroweeklynews.com/2022/09/14/eu-digital-identity-wallet/)
  - date published: 2022-09-14 15:26:50+00:00
  - user: rumpel
- - tags: ['tech control', 'digital identity']
+ - tags: ['digital identity', 'government control']
 
 ## Ever wondered how a QR code works?
  - [https://typefully.com/DanHollick/qr-codes-T7tLlNi](https://typefully.com/DanHollick/qr-codes-T7tLlNi)
@@ -9987,6 +9987,12 @@
  - date published: 2022-03-15 06:47:32.011242+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Vimeo is telling creators to suddenly pay thousands of dollars — or leave the platform - The Verge
+ - [https://www.theverge.com/2022/3/15/22979126/vimeo-patreon-creators-price-increase](https://www.theverge.com/2022/3/15/22979126/vimeo-patreon-creators-price-increase)
+ - date published: 2022-03-15 06:38:02+00:00
+ - user: rumpel
+ - tags: ['vimeo', 'technofeudalism', 'patreon', 'corporatocracy']
 
 ## Putin changes law on leased jets to keep them flying - BBC News
  - [https://www.bbc.co.uk/news/business-60741161](https://www.bbc.co.uk/news/business-60741161)
