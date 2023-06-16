@@ -1,3 +1,33 @@
+## Raspberry Pi 4
+ - [https://konstakang.com/devices/rpi4/](https://konstakang.com/devices/rpi4/)
+ - date published: 2023-06-15 15:54:54+00:00
+ - user: rumpel
+ - tags: ['raspberry']
+
+## AI Jesus gives gaming tips and discusses anime on Twitch | Metro News
+ - [https://metro.co.uk/2023/06/15/ai-jesus-gives-gaming-tips-and-discusses-anime-on-twitch-18955708/](https://metro.co.uk/2023/06/15/ai-jesus-gives-gaming-tips-and-discusses-anime-on-twitch-18955708/)
+ - date published: 2023-06-15 11:01:20+00:00
+ - user: rumpel
+ - tags: ['religion', 'artificial intelligence']
+
+## Long-awaited Partygate report details how Boris Johnson misled parliament
+ - [https://www.theguardian.com/politics/2023/jun/15/partygate-report-published-boris-johnson-misled-parliament](https://www.theguardian.com/politics/2023/jun/15/partygate-report-published-boris-johnson-misled-parliament)
+ - date published: 2023-06-15 08:05:54+00:00
+ - user: rumpel
+ - tags: ['boris johnson', 'lockdown', 'covid']
+
+## How to crawl a quarter billion webpages in 40 hours (2012)
+ - [https://michaelnielsen.org/ddi/how-to-crawl-a-quarter-billion-webpages-in-40-hours/](https://michaelnielsen.org/ddi/how-to-crawl-a-quarter-billion-webpages-in-40-hours/)
+ - date published: 2023-06-15 07:33:37+00:00
+ - user: rumpel
+ - tags: ['webscraping', 'web crawl', 'programming']
+
+## Why does nuclear power plant construction cost so much?
+ - [https://progress.institute/nuclear-power-plant-construction-costs/](https://progress.institute/nuclear-power-plant-construction-costs/)
+ - date published: 2023-06-14 21:52:32+00:00
+ - user: rumpel
+ - tags: ['climate change']
+
 ## What Reddit Got Wrong
  - [https://www.eff.org/deeplinks/2023/06/what-reddit-got-wrong](https://www.eff.org/deeplinks/2023/06/what-reddit-got-wrong)
  - date published: 2023-06-14 16:41:20+00:00
@@ -16,11 +46,23 @@
  - user: rumpel
  - tags: ['openai', 'reddit', 'artificial intelligence']
 
+## GTA Online removes over 180 cars, moves some behind a paywall | VGC
+ - [https://www.videogameschronicle.com/news/gta-online-removes-over-180-cars-moves-some-behind-a-paywall/](https://www.videogameschronicle.com/news/gta-online-removes-over-180-cars-moves-some-behind-a-paywall/)
+ - date published: 2023-06-14 10:54:36+00:00
+ - user: rumpel
+ - tags: ['technofeudalism', 'corporatocracy']
+
 ## Reddit stripping moderators of rights and forcing subreddits to go public
  - [https://famichiki.jp/@Tsutsuku/110537730270070245](https://famichiki.jp/@Tsutsuku/110537730270070245)
  - date published: 2023-06-13 20:45:18+00:00
  - user: rumpel
  - tags: ['reddit']
+
+## French Bill Would Allow Law Enforcement To Remotely Switch On Microphones When Surveilling Suspects
+ - [https://reclaimthenet.org/french-bill-law-enforcement-remotely-switch-on-microphones](https://reclaimthenet.org/french-bill-law-enforcement-remotely-switch-on-microphones)
+ - date published: 2023-06-13 18:45:11+00:00
+ - user: rumpel
+ - tags: ['technofeudalism', 'privacy', 'big brother', 'surveillance']
 
 ## What Did Pfizer CEO Say in 2019 About Pills with Ingestible Sensors?
  - [https://www.youtube.com/watch?v=ORB4j8Z1W1A](https://www.youtube.com/watch?v=ORB4j8Z1W1A)
@@ -135,6 +177,12 @@
  - date published: 2023-06-09 13:02:26+00:00
  - user: rumpel
  - tags: ['lgbt', 'censorship', 'the left wing']
+
+## Millions of Turkish residents’ private data leaked online
+ - [https://www.duvarenglish.com/millions-of-turkish-residents-private-data-leaked-online-news-62538](https://www.duvarenglish.com/millions-of-turkish-residents-private-data-leaked-online-news-62538)
+ - date published: 2023-06-09 10:58:14+00:00
+ - user: rumpel
+ - tags: ['data leak']
 
 ## FBI Flagged Twitter Accounts Of American Journalists Over Ukraine War Disinformation
  - [https://reclaimthenet.org/fbi-flagged-twitter-accounts-ukraine](https://reclaimthenet.org/fbi-flagged-twitter-accounts-ukraine)
