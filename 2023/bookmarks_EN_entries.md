@@ -1,3 +1,15 @@
+## European Union votes to bring back replaceable phone batteries
+ - [https://www.techspot.com/news/99102-european-union-votes-bring-back-replaceable-phone-batteries.html](https://www.techspot.com/news/99102-european-union-votes-bring-back-replaceable-phone-batteries.html)
+ - date published: 2023-06-16 18:32:06+00:00
+ - user: rumpel
+ - tags: ['smartphone']
+
+## Reddit is removing moderators that protest by taking their communities private
+ - [https://old.reddit.com/r/ModCoord/comments/14aeq5j/new_admin_post_if_a_moderator_team_unanimously/](https://old.reddit.com/r/ModCoord/comments/14aeq5j/new_admin_post_if_a_moderator_team_unanimously/)
+ - date published: 2023-06-16 03:49:30+00:00
+ - user: rumpel
+ - tags: ['reddit']
+
 ## Raspberry Pi 4
  - [https://konstakang.com/devices/rpi4/](https://konstakang.com/devices/rpi4/)
  - date published: 2023-06-15 15:54:54+00:00
@@ -39,6 +51,18 @@
  - date published: 2023-06-14 15:13:48+00:00
  - user: rumpel
  - tags: ['search engines']
+
+## US spy agencies are buying the same surveillance data advertisers crave
+ - [https://www.theverge.com/2023/6/14/23759585/odni-spy-report-surveillance-data-location-tracking](https://www.theverge.com/2023/6/14/23759585/odni-spy-report-surveillance-data-location-tracking)
+ - date published: 2023-06-14 14:51:56+00:00
+ - user: rumpel
+ - tags: ['big brother', 'america', 'privacy', 'surveillance', 'anonymity']
+
+## Brakuje już ponad sześciu miliardów na mrożenie cen energii więc zapłacą też Polacy - BiznesAlert.pl
+ - [https://biznesalert.pl/brakuje-juz-ponad-szesciu-miliardow-na-mrozenie-cen-energii-wiec-zaplaca-tez-polacy/](https://biznesalert.pl/brakuje-juz-ponad-szesciu-miliardow-na-mrozenie-cen-energii-wiec-zaplaca-tez-polacy/)
+ - date published: 2023-06-14 14:12:44+00:00
+ - user: rumpel
+ - tags: ['prawo i sprawiedliwość', 'poland']
 
 ## Reddit Is OpenAI's Moat
  - [https://www.cyberdemon.org/2023/06/14/reddit-moat.html](https://www.cyberdemon.org/2023/06/14/reddit-moat.html)
@@ -3273,6 +3297,12 @@
  - date published: 2023-02-28 00:32:24+00:00
  - user: rumpel
  - tags: ['programming', 'cmake']
+
+## China permits two new coal power plants per week in 2022 – Centre for Research on Energy and Clean Air
+ - [https://energyandcleanair.org/publication/china-permits-two-new-coal-power-plants-per-week-in-2022/](https://energyandcleanair.org/publication/china-permits-two-new-coal-power-plants-per-week-in-2022/)
+ - date published: 2023-02-27 12:51:13+00:00
+ - user: rumpel
+ - tags: ['climate change', 'atom', 'coal power plants']
 
 ## South Africa on the verge of 'collapse' as blackouts threaten all-out civil war  | Science | News | Express.co.uk
  - [https://www.express.co.uk/news/science/1740247/south-africa-verge-collapse-civil-war-threat-looms-blackout-fears](https://www.express.co.uk/news/science/1740247/south-africa-verge-collapse-civil-war-threat-looms-blackout-fears)
