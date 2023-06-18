@@ -1,3 +1,9 @@
+## Korupcja na Ukrainie. Były wiceminister obrony aresztowany - rp.pl
+ - [https://www.rp.pl/przestepczosc/art38619671-korupcja-na-ukrainie-byly-wiceminister-obrony-aresztowany](https://www.rp.pl/przestepczosc/art38619671-korupcja-na-ukrainie-byly-wiceminister-obrony-aresztowany)
+ - date published: 2023-06-16 09:02:16+00:00
+ - user: rumpel
+ - tags: ['ukraine']
+
 ## Blokada pornografii dla nieletnich. Ustawa o ochronie w sieci już w Sejmie – Biznes Wprost
  - [https://biznes.wprost.pl/technologie/internet/11261809/blokada-pornografii-dla-nieletnich-ustawa-o-ochronie-w-sieci-juz-w-sejmie.html](https://biznes.wprost.pl/technologie/internet/11261809/blokada-pornografii-dla-nieletnich-ustawa-o-ochronie-w-sieci-juz-w-sejmie.html)
  - date published: 2023-06-13 20:57:20+00:00
