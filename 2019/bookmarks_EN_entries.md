@@ -610,6 +610,12 @@
  - user: rumpel
  - tags: ['blackrock', 'aladdin', 'efront', 'artificial intelligence']
 
+## Stolen NSA hacking tools were used in the wild 14 months before Shadow Brokers leak | Ars Technica
+ - [https://arstechnica.com/information-technology/2019/05/stolen-nsa-hacking-tools-were-used-in-the-wild-14-months-before-shadow-brokers-leak/](https://arstechnica.com/information-technology/2019/05/stolen-nsa-hacking-tools-were-used-in-the-wild-14-months-before-shadow-brokers-leak/)
+ - date published: 2019-05-07 18:05:55+00:00
+ - user: rumpel
+ - tags: ['hackers', 'nsa', 'vulnerability', 'surveillance', 'shadow brokers']
+
 ## Using AI to predict breast cancer and personalize care | MIT News | Massachusetts Institute of Technology
  - [https://news.mit.edu/2019/using-ai-predict-breast-cancer-and-personalize-care-0507](https://news.mit.edu/2019/using-ai-predict-breast-cancer-and-personalize-care-0507)
  - date published: 2019-05-07 07:19:50+00:00

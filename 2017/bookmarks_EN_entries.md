@@ -346,6 +346,12 @@
  - user: rumpel
  - tags: ['george soros']
 
+## NSA-leaking Shadow Brokers just dumped its most damaging release yet | Ars Technica
+ - [https://arstechnica.com/information-technology/2017/04/nsa-leaking-shadow-brokers-just-dumped-its-most-damaging-release-yet/](https://arstechnica.com/information-technology/2017/04/nsa-leaking-shadow-brokers-just-dumped-its-most-damaging-release-yet/)
+ - date published: 2017-04-14 18:02:36+00:00
+ - user: rumpel
+ - tags: ['nsa', 'surveillance', 'vulnerability', 'shadow brokers']
+
 ## Why Muslims are the world’s fastest-growing religious group | Pew Research Center
  - [https://www.pewresearch.org/fact-tank/2017/04/06/why-muslims-are-the-worlds-fastest-growing-religious-group](https://www.pewresearch.org/fact-tank/2017/04/06/why-muslims-are-the-worlds-fastest-growing-religious-group)
  - date published: 2017-04-06 07:41:04+00:00
