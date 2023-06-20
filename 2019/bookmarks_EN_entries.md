@@ -406,6 +406,12 @@
  - user: rumpel
  - tags: ['social engineering', 'the left wing']
 
+## Major breach found in biometrics system used by banks, UK police and defence firms
+ - [https://www.theguardian.com/technology/2019/aug/14/major-breach-found-in-biometrics-system-used-by-banks-uk-police-and-defence-firms](https://www.theguardian.com/technology/2019/aug/14/major-breach-found-in-biometrics-system-used-by-banks-uk-police-and-defence-firms)
+ - date published: 2019-08-14 07:11:17+00:00
+ - user: rumpel
+ - tags: ['data leak', 'biometric']
+
 ## Copper: Powering Up The Electric Vehicle | Wood Mackenzie
  - [https://www.woodmac.com/news/opinion/copper-powering-up-the-electric-vehicle/](https://www.woodmac.com/news/opinion/copper-powering-up-the-electric-vehicle/)
  - date published: 2019-08-13 14:02:26+00:00

@@ -160,6 +160,12 @@
  - user: rumpel
  - tags: ['history', 'racism', 'documentary', 'archive']
 
+## SwiftKey suspends cloud syncing after private data leak
+ - [https://www.androidauthority.com/swiftkey-suspends-service-data-leak-706680/](https://www.androidauthority.com/swiftkey-suspends-service-data-leak-706680/)
+ - date published: 2016-07-31 15:12:58+00:00
+ - user: rumpel
+ - tags: ['data leak', 'cloud computing']
+
 ## France church attack: Priest killed by two 'IS militants' - BBC News
  - [https://www.bbc.com/news/world-europe-36892785](https://www.bbc.com/news/world-europe-36892785)
  - date published: 2016-07-26 07:36:49+00:00
@@ -202,11 +208,23 @@
  - user: rumpel
  - tags: ['world economic forum', 'capitalism', 'marxism']
 
+## Intel x86s hide another CPU that can take over your machine (you can't audit it) | Boing Boing
+ - [https://boingboing.net/2016/06/15/intel-x86-processors-ship-with.html](https://boingboing.net/2016/06/15/intel-x86-processors-ship-with.html)
+ - date published: 2016-06-15 14:49:12+00:00
+ - user: rumpel
+ - tags: ['intel management engine', 'surveillance', 'tracking']
+
 ## The undercover war on your internet secrets: How online surveillance cracked our trust in the web - TechRepublic
  - [https://web.archive.org/web/20160612190952/http://www.techrepublic.com/article/the-undercover-war-on-your-internet-secrets-how-online-surveillance-cracked-our-trust-in-the-web/](https://web.archive.org/web/20160612190952/http://www.techrepublic.com/article/the-undercover-war-on-your-internet-secrets-how-online-surveillance-cracked-our-trust-in-the-web/)
  - date published: 2016-06-12 07:16:27+00:00
  - user: rumpel
  - tags: ['privacy', 'surveillance', 'big brother', 'crypto wars', 'encryption', 'internet']
+
+## Intel & ME, and why we should get rid of ME — Free Software Foundation — Working together for free software
+ - [https://www.fsf.org/blogs/licensing/intel-me-and-why-we-should-get-rid-of-me](https://www.fsf.org/blogs/licensing/intel-me-and-why-we-should-get-rid-of-me)
+ - date published: 2016-06-10 14:56:49+00:00
+ - user: rumpel
+ - tags: ['intel management engine', 'surveillance', 'tracking']
 
 ## Google accused of ‘biased’ search results favouring Clinton - The Globe and Mail
  - [https://www.theglobeandmail.com/technology/google-under-fire-after-video-suggests-biased-search-results-favour-clinton/article30402737/](https://www.theglobeandmail.com/technology/google-under-fire-after-video-suggests-biased-search-results-favour-clinton/article30402737/)
@@ -309,6 +327,12 @@
  - date published: 2016-02-28 22:11:09+00:00
  - user: rumpel
  - tags: ['privacy', 'data leak']
+
+## Can the government force you to unlock your own phone? | Jacob Reisberg | The Guardian
+ - [https://www.theguardian.com/commentisfree/2016/feb/26/can-government-force-you-to-unlock-your-phone-fifth-amendment](https://www.theguardian.com/commentisfree/2016/feb/26/can-government-force-you-to-unlock-your-phone-fifth-amendment)
+ - date published: 2016-02-26 15:10:46+00:00
+ - user: rumpel
+ - tags: ['biometric', 'privacy']
 
 ## US surveillance of Merkel wider than thought: WikiLeaks
  - [https://news.yahoo.com/us-surveillance-merkel-wider-thought-wikileaks-142951516.html](https://news.yahoo.com/us-surveillance-merkel-wider-thought-wikileaks-142951516.html)

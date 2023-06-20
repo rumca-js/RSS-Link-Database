@@ -16,6 +16,18 @@
  - user: rumpel
  - tags: ['dr-dos', 'microsoft', 'dark design']
 
+## A Mysterious Component Roils Microsoft
+ - [https://archive.nytimes.com/www.nytimes.com/library/tech/99/09/biztech/articles/04soft.html](https://archive.nytimes.com/www.nytimes.com/library/tech/99/09/biztech/articles/04soft.html)
+ - date published: 1999-09-04 15:03:48+00:00
+ - user: rumpel
+ - tags: ['backdoor', 'microsoft', 'nsa', 'windows', 'surveillance']
+
+## Sci/Tech  Windows 'back door' security alert
+ - [http://news.bbc.co.uk/2/hi/sci/tech/437967.stm](http://news.bbc.co.uk/2/hi/sci/tech/437967.stm)
+ - date published: 1999-09-03 15:05:50+00:00
+ - user: rumpel
+ - tags: ['backdoor', 'microsoft', 'nsa', 'windows', 'surveillance']
+
 ## Only real men have fabs • The Register
  - [https://www.theregister.com/1999/02/25/only_real_men_have_fabs/](https://www.theregister.com/1999/02/25/only_real_men_have_fabs/)
  - date published: 1999-02-25 07:45:33+00:00

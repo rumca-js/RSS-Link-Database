@@ -1,3 +1,9 @@
+## Hacker fakes German minister's fingerprints using photos of her hands | Hacking | The Guardian
+ - [https://www.theguardian.com/technology/2014/dec/30/hacker-fakes-german-ministers-fingerprints-using-photos-of-her-hands](https://www.theguardian.com/technology/2014/dec/30/hacker-fakes-german-ministers-fingerprints-using-photos-of-her-hands)
+ - date published: 2014-12-30 15:08:38+00:00
+ - user: rumpel
+ - tags: ['hackers', 'biometric']
+
 ## Mass surveillance exposed by Snowden ‘not justified by fight against terrorism’
  - [http://www.theguardian.com/world/2014/dec/08/mass-surveillance-exposed-edward-snowden-not-justified-by-fight-against-terrorism](http://www.theguardian.com/world/2014/dec/08/mass-surveillance-exposed-edward-snowden-not-justified-by-fight-against-terrorism)
  - date published: 2014-12-08 14:03:00+00:00

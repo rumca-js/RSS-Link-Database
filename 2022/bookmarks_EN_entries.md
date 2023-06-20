@@ -446,7 +446,7 @@
  - [https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
  - date published: 2022-12-22 17:17:46+00:00
  - user: rumpel
- - tags: ['propgramming']
+ - tags: ['programming']
 
 ## France fines Microsoft €60M for imposing advertising cookies
  - [https://www.rfi.fr/en/france/20221222-france-fines-microsoft-%E2%82%AC60m-for-imposing-advertising-cookies](https://www.rfi.fr/en/france/20221222-france-fines-microsoft-%E2%82%AC60m-for-imposing-advertising-cookies)

@@ -530,7 +530,7 @@
  - [https://embedded.substack.com/p/instagram-is-facebook-now](https://embedded.substack.com/p/instagram-is-facebook-now)
  - date published: 2021-12-02 18:22:31.730006+00:00
  - user: Thomas Pain
- - tags: ['facebook', 'algorithmss', 'instagram']
+ - tags: ['instagram', 'algorithms', 'facebook']
 
 ## Project Zero: This shouldn't have happened: A vulnerability postmortem
  - [https://googleprojectzero.blogspot.com/2021/12/this-shouldnt-have-happened.html](https://googleprojectzero.blogspot.com/2021/12/this-shouldnt-have-happened.html)
@@ -1401,6 +1401,12 @@
  - date published: 2021-10-19 10:20:29.410779+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Trainwreck claims he's made $360 million in 16 months by promoting gambling on his Twitch streams
+ - [https://www.sportskeeda.com/esports/news-trainwreck-claims-made-360-million-promoting-gambling](https://www.sportskeeda.com/esports/news-trainwreck-claims-made-360-million-promoting-gambling)
+ - date published: 2021-10-19 07:10:34+00:00
+ - user: rumpel
+ - tags: ['social media']
 
 ## ESG: Woke to Broke
  - [https://www.youtube.com/watch?v=O-tJNuHqHW8](https://www.youtube.com/watch?v=O-tJNuHqHW8)

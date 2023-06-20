@@ -1,3 +1,9 @@
+## I don't trust Signal
+ - [https://blog.dijit.sh//i-don-t-trust-signal](https://blog.dijit.sh//i-don-t-trust-signal)
+ - date published: 2023-06-19 03:05:27+00:00
+ - user: rumpel
+ - tags: ['signal', 'open source']
+
 ## European Union votes to bring back replaceable phone batteries
  - [https://www.techspot.com/news/99102-european-union-votes-bring-back-replaceable-phone-batteries.html](https://www.techspot.com/news/99102-european-union-votes-bring-back-replaceable-phone-batteries.html)
  - date published: 2023-06-16 18:32:06+00:00
@@ -608,7 +614,7 @@
  - [https://www.youtube.com/watch?v=ntz2c2z54dg](https://www.youtube.com/watch?v=ntz2c2z54dg)
  - date published: 2023-05-31 11:07:24+00:00
  - user: rumpel
- - tags: ['mobile gams', 'games']
+ - tags: ['games']
 
 ## Why won’t Google give an answer on whether Bard was trained on Gmail data?
  - [https://skiff.com/blog/was-bard-trained-on-gmail-data](https://skiff.com/blog/was-bard-trained-on-gmail-data)
@@ -3182,7 +3188,7 @@
  - [https://www.politico.eu/article/belgium-farmer-protests-brussels-nitrogen-emissions/](https://www.politico.eu/article/belgium-farmer-protests-brussels-nitrogen-emissions/)
  - date published: 2023-03-03 08:48:19+00:00
  - user: rumpel
- - tags: ['agriculture', 'belgia']
+ - tags: ['belgium', 'agriculture']
 
 ## It's official: BlackLotus malware can bypass secure boot
  - [https://www.theregister.com/2023/03/01/blacklotus_malware_eset/](https://www.theregister.com/2023/03/01/blacklotus_malware_eset/)

@@ -1100,7 +1100,7 @@
  - [https://www.rt.com/op-ed/493295-stop-hate-advertising-extortion-astroturf/](https://www.rt.com/op-ed/493295-stop-hate-advertising-extortion-astroturf/)
  - date published: 2020-06-29 12:14:35+00:00
  - user: None
- - tags: ['propaganda', 'censorship', 'facebook', 'hate speech', 'free speech', 'hypocrisy', 'stophateforprofit']
+ - tags: ['free speech', 'propaganda', 'stop hate for profit', 'hypocrisy', 'hate speech', 'facebook', 'censorship']
 
 ## Face masks: Want to prevent another shutdown, save 33,000 lives and protect yourself? Wear a face mask, doctors say | CNN
  - [https://edition.cnn.com/2020/06/25/health/face-mask-guidance-covid-19/index.html](https://edition.cnn.com/2020/06/25/health/face-mask-guidance-covid-19/index.html)

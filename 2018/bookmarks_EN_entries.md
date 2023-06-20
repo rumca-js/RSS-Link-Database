@@ -364,6 +364,12 @@
  - user: rumpel
  - tags: ['microchips', 'chip', 'sweden']
 
+## Scawy big no functionality at all UwU · Issue #15 · mpaland/printf · GitHub
+ - [https://github.com/mpaland/printf/issues/15](https://github.com/mpaland/printf/issues/15)
+ - date published: 2018-05-12 12:08:25+00:00
+ - user: rumpel
+ - tags: ['programming', 'funny']
+
 ## Sanji in Kamabakka kingdom - One Piece
  - [https://www.youtube.com/watch?v=tKjlf6DMXTk](https://www.youtube.com/watch?v=tKjlf6DMXTk)
  - date published: 2018-05-11 15:51:38+00:00
@@ -621,6 +627,12 @@
  - date published: 2018-01-10 20:22:32+00:00
  - user: rumpel
  - tags: ['movies', 'prometheus']
+
+## The Intel Management Engine: an attack on computer users' freedom — Free Software Foundation — Working together for free software
+ - [https://www.fsf.org/blogs/sysadmin/the-management-engine-an-attack-on-computer-users-freedom](https://www.fsf.org/blogs/sysadmin/the-management-engine-an-attack-on-computer-users-freedom)
+ - date published: 2018-01-10 14:56:17+00:00
+ - user: rumpel
+ - tags: ['intel management engine', 'surveillance', 'tracking']
 
 ## Why the C Language Will Never Stop You from Making Mistakes
  - [https://thephd.dev/your-c-compiler-and-standard-library-will-not-help-you](https://thephd.dev/your-c-compiler-and-standard-library-will-not-help-you)

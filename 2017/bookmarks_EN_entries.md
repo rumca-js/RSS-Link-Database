@@ -28,6 +28,24 @@
  - user: rumpel
  - tags: ['programming', 'design patterns']
 
+## Smartphone Keyboards Are a Privacy Nightmare
+ - [https://www.howtogeek.com/335428/smartphone-keyboards-are-a-privacy-nightmare/](https://www.howtogeek.com/335428/smartphone-keyboards-are-a-privacy-nightmare/)
+ - date published: 2017-12-06 15:13:30+00:00
+ - user: rumpel
+ - tags: ['smartphone', 'data leak', 'surveillance', 'privacy']
+
+## A popular virtual keyboard app leaks 31 million users' personal data | ZDNET
+ - [https://www.zdnet.com/article/popular-virtual-keyboard-leaks-31-million-user-data/](https://www.zdnet.com/article/popular-virtual-keyboard-leaks-31-million-user-data/)
+ - date published: 2017-12-05 15:14:16+00:00
+ - user: rumpel
+ - tags: ['smartphone', 'data leak', 'privacy']
+
+## ​Computer vendors start disabling Intel Management Engine | ZDNET
+ - [https://www.zdnet.com/article/computer-vendors-start-disabling-intel-management-engine/](https://www.zdnet.com/article/computer-vendors-start-disabling-intel-management-engine/)
+ - date published: 2017-12-04 14:54:30+00:00
+ - user: rumpel
+ - tags: ['intel management engine', 'surveillance', 'tracking', 'vulnerability']
+
 ## Happiness
  - [https://www.youtube.com/watch?v=e9dZQelULDk](https://www.youtube.com/watch?v=e9dZQelULDk)
  - date published: 2017-11-25 07:18:36+00:00
@@ -46,6 +64,18 @@
  - user: None
  - tags: ['big tech', 'google', 'monopoly', 'corporatocracy', 'power']
 
+## Intel: We've found severe bugs in secretive Management Engine, affecting millions | ZDNET
+ - [https://www.zdnet.com/article/intel-weve-found-severe-bugs-in-secretive-management-engine-affecting-millions/](https://www.zdnet.com/article/intel-weve-found-severe-bugs-in-secretive-management-engine-affecting-millions/)
+ - date published: 2017-11-21 14:51:11+00:00
+ - user: rumpel
+ - tags: ['intel management engine', 'surveillance', 'tracking']
+
+## Intel Management Engine Flaws Leave Millions of PCs Exposed | WIRED
+ - [https://www.wired.com/story/intel-management-engine-vulnerabilities-pcs-servers-iot/](https://www.wired.com/story/intel-management-engine-vulnerabilities-pcs-servers-iot/)
+ - date published: 2017-11-20 14:53:32+00:00
+ - user: rumpel
+ - tags: ['intel management engine', 'surveillance', 'tracking', 'vulnerability']
+
 ## Who Created Engineers ? Origins Explained || Theories
  - [https://www.youtube.com/watch?v=kSp07bwW1tA](https://www.youtube.com/watch?v=kSp07bwW1tA)
  - date published: 2017-11-15 20:23:24+00:00
@@ -57,6 +87,12 @@
  - date published: 2017-11-06 14:57:08+00:00
  - user: None
  - tags: ['flat earth', 'deep state', 'cia', 'conspiracy theory', 'psyop']
+
+## MINIX: ​Intel's hidden in-chip operating system | ZDNET
+ - [https://www.zdnet.com/article/minix-intels-hidden-in-chip-operating-system/](https://www.zdnet.com/article/minix-intels-hidden-in-chip-operating-system/)
+ - date published: 2017-11-06 14:55:04+00:00
+ - user: rumpel
+ - tags: ['intel management engine', 'minix', 'surveillance', 'tracking']
 
 ## Jordan Peterson on the meaning of life for men. MUST WATCH
  - [https://www.youtube.com/watch?v=NX2ep5fCJZ8](https://www.youtube.com/watch?v=NX2ep5fCJZ8)
@@ -75,6 +111,12 @@
  - date published: 2017-11-03 15:36:18+00:00
  - user: None
  - tags: ['fakenews', 'disinformation', 'england', 'donald trump']
+
+## What is MINIX? The most popular OS in the world, thanks to Intel | Network World
+ - [https://www.networkworld.com/article/3236064/minix-the-most-popular-os-in-the-world-thanks-to-intel.html](https://www.networkworld.com/article/3236064/minix-the-most-popular-os-in-the-world-thanks-to-intel.html)
+ - date published: 2017-11-02 14:55:39+00:00
+ - user: rumpel
+ - tags: ['intel management engine', 'minix', 'surveillance', 'tracking']
 
 ## Google as a search engine is becoming useless
  - [http://www.coalpha.org/Google-as-a-search-engine-is-becoming-useless-td7576886.html](http://www.coalpha.org/Google-as-a-search-engine-is-becoming-useless-td7576886.html)
@@ -171,6 +213,12 @@
  - date published: 2017-09-02 11:07:46+00:00
  - user: rumpel
  - tags: ['the left wing', 'pronouns', 'newspeak']
+
+## Now you, too, can disable Intel ME 'backdoor' thanks to the NSA | CSO Online
+ - [https://www.csoonline.com/article/3220476/researchers-say-now-you-too-can-disable-intel-me-backdoor-thanks-to-the-nsa.html](https://www.csoonline.com/article/3220476/researchers-say-now-you-too-can-disable-intel-me-backdoor-thanks-to-the-nsa.html)
+ - date published: 2017-08-29 14:50:19+00:00
+ - user: rumpel
+ - tags: ['nsa', 'tracking', 'surveillance', 'intel management engine']
 
 ## What Most People Don't Know About The Illuminati
  - [https://www.grunge.com/35035/secret-history-illuminati/](https://www.grunge.com/35035/secret-history-illuminati/)
@@ -340,6 +388,18 @@
  - user: rumpel
  - tags: ['blackrock', 'corporatocracy', 'vanguard']
 
+## Intel's Management Engine is a security hazard, and users need a way to disable it | Electronic Frontier Foundation
+ - [https://www.eff.org/deeplinks/2017/05/intels-management-engine-security-hazard-and-users-need-way-disable-it](https://www.eff.org/deeplinks/2017/05/intels-management-engine-security-hazard-and-users-need-way-disable-it)
+ - date published: 2017-05-08 14:51:45+00:00
+ - user: rumpel
+ - tags: ['intel management engine', 'surveillance', 'tracking']
+
+## mjg59 | Intel's remote AMT vulnerablity
+ - [https://mjg59.dreamwidth.org/48429.html](https://mjg59.dreamwidth.org/48429.html)
+ - date published: 2017-05-01 14:52:58+00:00
+ - user: rumpel
+ - tags: ['intel management engine', 'surveillance', 'tracking']
+
 ## The dirty tricks that demonise George Soros | Nick Cohen
  - [https://www.theguardian.com/commentisfree/2017/apr/15/dirty-tricks-demonise-george-soros](https://www.theguardian.com/commentisfree/2017/apr/15/dirty-tricks-demonise-george-soros)
  - date published: 2017-04-15 23:05:15+00:00
@@ -351,6 +411,12 @@
  - date published: 2017-04-14 18:02:36+00:00
  - user: rumpel
  - tags: ['nsa', 'surveillance', 'vulnerability', 'shadow brokers']
+
+## EternalBlue - Wikipedia
+ - [https://en.wikipedia.org/wiki/EternalBlue](https://en.wikipedia.org/wiki/EternalBlue)
+ - date published: 2017-04-14 15:04:35+00:00
+ - user: rumpel
+ - tags: ['shadow brokers', 'wannacry', 'eternalblue', 'trojan', 'vulnerability', 'nsa']
 
 ## Why Muslims are the world’s fastest-growing religious group | Pew Research Center
  - [https://www.pewresearch.org/fact-tank/2017/04/06/why-muslims-are-the-worlds-fastest-growing-religious-group](https://www.pewresearch.org/fact-tank/2017/04/06/why-muslims-are-the-worlds-fastest-growing-religious-group)
