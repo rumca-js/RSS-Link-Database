@@ -1,3 +1,9 @@
+## Korupcja przy eksporcie zboża z Ukrainy. Milion dolarów łapówek miesięcznie - Money.pl
+ - [https://www.money.pl/gospodarka/milion-dolarow-lapowek-miesiecznie-korupcja-przy-eksporcie-zboza-z-ukrainy-6910673317431968a.html](https://www.money.pl/gospodarka/milion-dolarow-lapowek-miesiecznie-korupcja-przy-eksporcie-zboza-z-ukrainy-6910673317431968a.html)
+ - date published: 2023-06-19 07:10:12+00:00
+ - user: rumpel
+ - tags: ['ukraine']
+
 ## Korupcja na Ukrainie. Były wiceminister obrony aresztowany - rp.pl
  - [https://www.rp.pl/przestepczosc/art38619671-korupcja-na-ukrainie-byly-wiceminister-obrony-aresztowany](https://www.rp.pl/przestepczosc/art38619671-korupcja-na-ukrainie-byly-wiceminister-obrony-aresztowany)
  - date published: 2023-06-16 09:02:16+00:00
