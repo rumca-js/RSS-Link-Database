@@ -1,14 +1,68 @@
+## Email proves Microsoft's Activision bid is designed to eliminate Playstation
+ - [https://www.axios.com/2023/06/20/exhibit-k-microsoft-activision](https://www.axios.com/2023/06/20/exhibit-k-microsoft-activision)
+ - date published: 2023-06-21 15:09:07+00:00
+ - user: rumpel
+ - tags: ['microsoft']
+
+## LandChad.net
+ - [https://landchad.net/](https://landchad.net/)
+ - date published: 2023-06-21 14:12:09+00:00
+ - user: rumpel
+ - tags: ['selfhost']
+
+## Clickbait Remover for Youtube - Chrome Web Store
+ - [https://chrome.google.com/webstore/detail/clickbait-remover-for-you/omoinegiohhgbikclijaniebjpkeopip](https://chrome.google.com/webstore/detail/clickbait-remover-for-you/omoinegiohhgbikclijaniebjpkeopip)
+ - date published: 2023-06-21 06:42:23+00:00
+ - user: rumpel
+ - tags: ['browser extensions']
+
+## Unhook - Remove YouTube Recommended Videos - Chrome Web Store
+ - [https://chrome.google.com/webstore/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid](https://chrome.google.com/webstore/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid)
+ - date published: 2023-06-21 06:42:23+00:00
+ - user: rumpel
+ - tags: ['browser extensions']
+
+## Youtube-shorts block - Chrome Web Store
+ - [https://chrome.google.com/webstore/detail/youtube-shorts-block/jiaopdjbehhjgokpphdfgmapkobbnmjp](https://chrome.google.com/webstore/detail/youtube-shorts-block/jiaopdjbehhjgokpphdfgmapkobbnmjp)
+ - date published: 2023-06-21 06:41:18+00:00
+ - user: rumpel
+ - tags: ['browser extensions']
+
+## I won't pay on your website
+ - [https://github.com/juspay/hyperswitch/wiki/Why-I-won%27t-pay-on-your-website](https://github.com/juspay/hyperswitch/wiki/Why-I-won%27t-pay-on-your-website)
+ - date published: 2023-06-21 06:33:33+00:00
+ - user: rumpel
+ - tags: ['web design', 'programming']
+
 ## Gitlab has introduced a five-user limit for free groups
  - [https://docs.gitlab.com/ee/user/free_user_limit.html](https://docs.gitlab.com/ee/user/free_user_limit.html)
  - date published: 2023-06-20 17:14:32+00:00
  - user: rumpel
  - tags: ['technofeudalism']
 
+## BREAKING: James O’Keefe exposes BlackRock recruiter bragging about deciding people’s fate, saying ‘war is good for business’ | The Post Millennial | thepostmillennial.com
+ - [https://thepostmillennial.com/breaking-james-okeefe-exposes-blackrock-recruiter-bragging-about-deciding-peoples-fate-saying-war-is-good-for-business](https://thepostmillennial.com/breaking-james-okeefe-exposes-blackrock-recruiter-bragging-about-deciding-peoples-fate-saying-war-is-good-for-business)
+ - date published: 2023-06-20 14:57:29+00:00
+ - user: rumpel
+ - tags: ['banksters', 'blackrock', 'vanguard']
+
 ## Undb – Private first, unified, self-hosted no code database
  - [https://github.com/undb-xyz/undb](https://github.com/undb-xyz/undb)
  - date published: 2023-06-20 14:34:13+00:00
  - user: rumpel
  - tags: ['selfhost']
+
+## BMI standards are 'racist’: American Medical Association
+ - [https://nypost.com/2023/06/20/bmi-standards-are-racist-american-medical-association/](https://nypost.com/2023/06/20/bmi-standards-are-racist-american-medical-association/)
+ - date published: 2023-06-20 11:56:36+00:00
+ - user: rumpel
+ - tags: ['racism', 'science is dead', 'america']
+
+## Reddit confirms BlackCat ransomware gang stole its data • The Register
+ - [https://www.theregister.com/2023/06/20/reddit_confirms_blackcat_extortion_attempt/](https://www.theregister.com/2023/06/20/reddit_confirms_blackcat_extortion_attempt/)
+ - date published: 2023-06-20 10:02:31+00:00
+ - user: rumpel
+ - tags: ['data leak', 'hackers', 'reddit']
 
 ## Don't Use Mocks
  - [https://joeblu.com/blog/2023_06_mocks/](https://joeblu.com/blog/2023_06_mocks/)
@@ -848,7 +902,7 @@
  - [https://academictorrents.com/details/7c0645c94321311bb05bd879ddee4d0eba08aaee](https://academictorrents.com/details/7c0645c94321311bb05bd879ddee4d0eba08aaee)
  - date published: 2023-05-23 01:17:32+00:00
  - user: rumpel
- - tags: ['data', 'selfhost', 'project']
+ - tags: ['data', 'selfhost', 'project', 'reddit']
 
 ## Leaked Government Document Shows Spain Wants to Ban End-to-End Encryption
  - [https://www.wired.com/story/europe-break-encryption-leaked-document-csa-law/](https://www.wired.com/story/europe-break-encryption-leaked-document-csa-law/)

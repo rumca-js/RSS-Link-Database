@@ -4,3 +4,9 @@
  - user: rumpel
  - tags: ['china', 'mel gibson', 'australia']
 
+## The Tao of Programming
+ - [http://www.mit.edu/~xela/tao.html](http://www.mit.edu/~xela/tao.html)
+ - date published: 1987-06-21 07:33:34+00:00
+ - user: rumpel
+ - tags: ['funny', 'programming']
+
