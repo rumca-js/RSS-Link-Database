@@ -628,6 +628,12 @@
  - user: rumpel
  - tags: ['artificial intelligence']
 
+## Opinion | Google’s Sundar Pichai: Privacy Should Not Be a Luxury Good - The New York Times
+ - [https://www.nytimes.com/2019/05/07/opinion/google-sundar-pichai-privacy.html](https://www.nytimes.com/2019/05/07/opinion/google-sundar-pichai-privacy.html)
+ - date published: 2019-05-07 06:29:51+00:00
+ - user: rumpel
+ - tags: ['privacy', 'anonymity', 'google', 'surveillance', 'sundar pichai']
+
 ## 'How to sell an epidemic': a Marc Van Ranst conspiracy theory, explained
  - [https://www.brusselstimes.com/155486/how-to-sell-an-epidemic-a-marc-van-ranst-conspiracy-theory-explained-chatham-house-pandemic-vlaams-belang-h1n1](https://www.brusselstimes.com/155486/how-to-sell-an-epidemic-a-marc-van-ranst-conspiracy-theory-explained-chatham-house-pandemic-vlaams-belang-h1n1)
  - date published: 2019-05-06 20:21:22+00:00

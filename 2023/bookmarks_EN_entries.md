@@ -1,3 +1,15 @@
+## Everything Owned by Nestlé - List of Nestlé Companies
+ - [https://wyomingllcattorney.com/Blog/Everything-Owned-by-Nestle](https://wyomingllcattorney.com/Blog/Everything-Owned-by-Nestle)
+ - date published: 2023-06-22 21:28:15+00:00
+ - user: rumpel
+ - tags: ['nestle', 'corporatocracy', 'monopoly']
+
+## Amazon duped millions of consumers into enrolling in Prime, US FTC says
+ - [https://www.reuters.com/legal/amazon-duped-millions-consumers-into-enrolling-prime-ftc-2023-06-21/](https://www.reuters.com/legal/amazon-duped-millions-consumers-into-enrolling-prime-ftc-2023-06-21/)
+ - date published: 2023-06-21 23:35:09+00:00
+ - user: rumpel
+ - tags: ['amazon']
+
 ## Email proves Microsoft's Activision bid is designed to eliminate Playstation
  - [https://www.axios.com/2023/06/20/exhibit-k-microsoft-activision](https://www.axios.com/2023/06/20/exhibit-k-microsoft-activision)
  - date published: 2023-06-21 15:09:07+00:00

@@ -1,3 +1,9 @@
+## Dziura w moj.gov.pl - można było podejrzeć dane Polaków z bazy paszportów.
+ - [https://niebezpiecznik.pl/post/dziura-w-rzadowym-systemie-mozna-bylo-podejrzec-cudze-paszporty-i-nie-tylko/](https://niebezpiecznik.pl/post/dziura-w-rzadowym-systemie-mozna-bylo-podejrzec-cudze-paszporty-i-nie-tylko/)
+ - date published: 2023-06-22 10:59:37+00:00
+ - user: rumpel
+ - tags: ['data leak']
+
 ## Korupcja przy eksporcie zboża z Ukrainy. Milion dolarów łapówek miesięcznie - Money.pl
  - [https://www.money.pl/gospodarka/milion-dolarow-lapowek-miesiecznie-korupcja-przy-eksporcie-zboza-z-ukrainy-6910673317431968a.html](https://www.money.pl/gospodarka/milion-dolarow-lapowek-miesiecznie-korupcja-przy-eksporcie-zboza-z-ukrainy-6910673317431968a.html)
  - date published: 2023-06-19 07:10:12+00:00
