@@ -112,6 +112,12 @@
  - user: None
  - tags: ['usa', 'war', 'china']
 
+## Produktywni ludzie nie sprawdzają ciągle smartfona. Oto co robią zamiast tego
+ - [https://businessinsider.com.pl/rozwoj-osobisty/zdrowie/jak-zwiekszyc-produktywnosc-w-pracy-rada-dotyczaca-smartfona/fjw656f](https://businessinsider.com.pl/rozwoj-osobisty/zdrowie/jak-zwiekszyc-produktywnosc-w-pracy-rada-dotyczaca-smartfona/fjw656f)
+ - date published: 2022-12-14 05:41:00+00:00
+ - user: None
+ - tags: ['digital dementia', 'smartphone']
+
 ## "Uroczyste obchody" zamiast Bożego Narodzenia. Wytyczne dla brytyjskich urzędników
  - [https://wydarzenia.interia.pl/zagranica/news-uroczyste-obchody-zamiast-bozego-narodzenia-wytyczne-dla-bry,nId,6466557](https://wydarzenia.interia.pl/zagranica/news-uroczyste-obchody-zamiast-bozego-narodzenia-wytyczne-dla-bry,nId,6466557)
  - date published: 2022-12-11 20:16:10+00:00

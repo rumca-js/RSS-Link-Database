@@ -40,6 +40,12 @@
  - user: None
  - tags: ['who', 'covid', 'science is dead']
 
+## A New Google | Daniel Gross
+ - [https://dcgross.com/a-new-google](https://dcgross.com/a-new-google)
+ - date published: 2020-12-23 09:31:57+00:00
+ - user: rumpel
+ - tags: ['dead internet', 'algorithms', 'search engines']
+
 ## Writer Defends New Netflix Drama Bridgerton for Depicting Queen Charlotte as Black
  - [https://people.com/royals/writer-of-new-netflix-drama-bridgerton-defends-depicting-queen-charlotte-as-black/](https://people.com/royals/writer-of-new-netflix-drama-bridgerton-defends-depicting-queen-charlotte-as-black/)
  - date published: 2020-12-23 09:06:00+00:00

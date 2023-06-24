@@ -52,17 +52,35 @@
  - user: rumpel
  - tags: ['climate change', 'elites']
 
+## Fiskus na Instagramie i Facebooku. Urzędnicy sprawdzają podatników w mediach społecznościowych
+ - [https://businessinsider.com.pl/twoje-pieniadze/fiskus-na-instagramie-i-facebooku-urzednicy-sprawdzaja-podatnikow-w-mediach/s39bcer](https://businessinsider.com.pl/twoje-pieniadze/fiskus-na-instagramie-i-facebooku-urzednicy-sprawdzaja-podatnikow-w-mediach/s39bcer)
+ - date published: 2023-06-03 18:45:00+00:00
+ - user: rumpel
+ - tags: ['fiskus', 'government control']
+
 ## Kasy samoobsługowe demontowane w kolejnych krajach. Jest ważny powód - Instalki.pl
  - [https://www.instalki.pl/aktualnosci/technika/59435-kasy-samoobslugowe-demontowane-w-kolejnych-krajach-jest-wazny-powod.html](https://www.instalki.pl/aktualnosci/technika/59435-kasy-samoobslugowe-demontowane-w-kolejnych-krajach-jest-wazny-powod.html)
  - date published: 2023-06-03 17:46:08.673382+00:00
  - user: rumpel
  - tags: ['sociology']
 
+## Szefowa Coca-Cola HBC w Polsce: wyrównamy liczbę kobiet i mężczyzn w kierownictwie [WYWIAD]
+ - [https://businessinsider.com.pl/firmy/szefowa-coca-cola-hbc-chce-w-kierownictwie-tyle-kobiet-co-mezczyzn-ma-plan/d6kexfe](https://businessinsider.com.pl/firmy/szefowa-coca-cola-hbc-chce-w-kierownictwie-tyle-kobiet-co-mezczyzn-ma-plan/d6kexfe)
+ - date published: 2023-06-03 04:47:46+00:00
+ - user: rumpel
+ - tags: ['quotas', 'feminism', 'sexism']
+
 ## Hakerzy ujawnili dane użytkowników Allegro, Onetu, WP i Facebooka. Rząd oferuje weryfikację
  - [https://www.wirtualnemedia.pl/artykul/wyciek-danych-haslo-login-allegro-onetu-wp-facebook-jak-sprawdzic-moje-dane](https://www.wirtualnemedia.pl/artykul/wyciek-danych-haslo-login-allegro-onetu-wp-facebook-jak-sprawdzic-moje-dane)
  - date published: 2023-06-01 01:51:00+00:00
  - user: rumpel
  - tags: ['data leak', 'hackers']
+
+## Lex Tusk podpisana, złoty i giełda w dół. Oto dlaczego rynek tak zareagował
+ - [https://businessinsider.com.pl/gielda/wiadomosci/lex-tusk-podpisana-zloty-i-gielda-w-dol-oto-dlaczego-rynek-tak-zareagowal/047yqw4](https://businessinsider.com.pl/gielda/wiadomosci/lex-tusk-podpisana-zloty-i-gielda-w-dol-oto-dlaczego-rynek-tak-zareagowal/047yqw4)
+ - date published: 2023-05-29 10:17:54+00:00
+ - user: rumpel
+ - tags: ['prawo i sprawiedliwość', 'poland', 'lex tusk']
 
 ## Unia Europejska: Identyfikator cyfrowy dla wszystkich do 2030 roku
  - [https://ithardware.pl/aktualnosci/unia_europejska_identyfikator_cyfrowy_dla_wszystkich_do_2030_roku-27516.html](https://ithardware.pl/aktualnosci/unia_europejska_identyfikator_cyfrowy_dla_wszystkich_do_2030_roku-27516.html)
@@ -203,6 +221,12 @@
  - date published: 2023-04-01 13:15:40+00:00
  - user: rumpel
  - tags: ['cbdc', 'technofeudalism']
+
+## Google, Amazon i Meta pogarszają swoje podstawowe produkty. Robią to celowo
+ - [https://businessinsider.com.pl/biznes/google-amazon-i-meta-pogarszaja-swoje-podstawowe-produkty-robia-to-celowo/8hqsn68](https://businessinsider.com.pl/biznes/google-amazon-i-meta-pogarszaja-swoje-podstawowe-produkty-robia-to-celowo/8hqsn68)
+ - date published: 2023-04-01 04:05:00+00:00
+ - user: rumpel
+ - tags: ['dark design', 'meta', 'algorithms', 'search engines', 'amazon', 'google']
 
 ## Rekordowa liczba podróży prywatnymi odrzutowcami w Europie
  - [https://forsal.pl/transport/aktualnosci/artykuly/8692131,rekordowa-liczba-podrozy-prywatnymi-odrzutowcami-w-europie.html](https://forsal.pl/transport/aktualnosci/artykuly/8692131,rekordowa-liczba-podrozy-prywatnymi-odrzutowcami-w-europie.html)
@@ -354,6 +378,12 @@
  - user: rumpel
  - tags: ['poland', 'cbdc']
 
+## Sztuczna inteligencja może odebrać pracę. Oto 10 zawodów, które zastąpi
+ - [https://businessinsider.com.pl/technologie/sztuczna-inteligencja-moze-odebrac-prace-oto-10-zawodow-na-celowniku/m96bw6c](https://businessinsider.com.pl/technologie/sztuczna-inteligencja-moze-odebrac-prace-oto-10-zawodow-na-celowniku/m96bw6c)
+ - date published: 2023-02-03 17:48:25+00:00
+ - user: rumpel
+ - tags: ['chatgpt', 'artificial intelligence']
+
 ## Anulowałem abonament na Netflix. Nowy sposób walki z współdzieleniem kont zakrawa o nieśmieszny żart
  - [https://www.chip.pl/2023/02/netflix-wspoldzielenie-konta-felieton](https://www.chip.pl/2023/02/netflix-wspoldzielenie-konta-felieton)
  - date published: 2023-02-03 16:06:22+00:00
@@ -365,6 +395,18 @@
  - date published: 2023-02-02 16:51:07.258692+00:00
  - user: rumpel
  - tags: ['hypocrisy', 'climate change']
+
+## Inflacja w Chorwacji po wejściu do strefy euro nie wzrosła, tylko spadła
+ - [https://businessinsider.com.pl/gospodarka/piec-najciekawszych-wydarzen-w-gospodarce-teraz-2022023/ndyxye8](https://businessinsider.com.pl/gospodarka/piec-najciekawszych-wydarzen-w-gospodarce-teraz-2022023/ndyxye8)
+ - date published: 2023-02-02 06:09:23+00:00
+ - user: rumpel
+ - tags: ['croatia', 'euro']
+
+## Zapomnijcie o ChatGPT. Fundusz inwestycyjny sterowany sztuczną inteligencją po cichu rozbija bank
+ - [https://businessinsider.com.pl/wiadomosci/zapomnijcie-o-chatgpt-fundusz-sterowany-sztuczna-inteligencja-rozbija-bank/th4lpsh](https://businessinsider.com.pl/wiadomosci/zapomnijcie-o-chatgpt-fundusz-sterowany-sztuczna-inteligencja-rozbija-bank/th4lpsh)
+ - date published: 2023-02-01 18:01:48+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
 
 ## Chaos na ulicach, szalejące ceny i zamęt nawet w kostnicach. RPA walczy o przetrwanie
  - [https://wydarzenia.interia.pl/zagranica/news-chaos-na-ulicach-szalejace-ceny-i-zamet-nawet-w-kostnicach-r,nId,6568724](https://wydarzenia.interia.pl/zagranica/news-chaos-na-ulicach-szalejace-ceny-i-zamet-nawet-w-kostnicach-r,nId,6568724)

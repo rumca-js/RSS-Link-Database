@@ -1048,12 +1048,6 @@
  - user: rumpel
  - tags: ['war', 'russia', 'orwell']
 
-## Produktywni ludzie nie sprawdzają ciągle smartfona. Oto co robią zamiast tego
- - [https://businessinsider.com.pl/rozwoj-osobisty/zdrowie/jak-zwiekszyc-produktywnosc-w-pracy-rada-dotyczaca-smartfona/fjw656f](https://businessinsider.com.pl/rozwoj-osobisty/zdrowie/jak-zwiekszyc-produktywnosc-w-pracy-rada-dotyczaca-smartfona/fjw656f)
- - date published: 2022-12-14 05:41:00+00:00
- - user: None
- - tags: ['digital dementia', 'smartphone']
-
 ## Ex-Twitter CEO Jack Dorsey insists there was 'no ill intent or hidden agendas' amid fallout from Twitter Files
  - [https://www.foxnews.com/media/ex-twitter-ceo-jack-dorsey-insists-no-ill-intent-hidden-agendas-amid-fallout-twitter-files](https://www.foxnews.com/media/ex-twitter-ceo-jack-dorsey-insists-no-ill-intent-hidden-agendas-amid-fallout-twitter-files)
  - date published: 2022-12-14 02:30:19+00:00

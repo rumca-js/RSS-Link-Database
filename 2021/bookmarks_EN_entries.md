@@ -556,6 +556,12 @@
  - user: rumpel
  - tags: ['booster', 'covid', 'vaccine']
 
+## Ask HN: Has Google search become quantitatively worse? | Hacker News
+ - [https://news.ycombinator.com/item?id=29392702](https://news.ycombinator.com/item?id=29392702)
+ - date published: 2021-11-30 09:32:54+00:00
+ - user: rumpel
+ - tags: ['dead internet', 'google', 'search algorithms']
+
 ## This Robot Already Owns Everything (And it's just getting started) : Blackrock Aladdin
  - [https://www.youtube.com/watch?v=AWBRldjVzuM](https://www.youtube.com/watch?v=AWBRldjVzuM)
  - date published: 2021-11-29 22:52:15+00:00
@@ -2272,6 +2278,12 @@
  - user: None
  - tags: ['security', 'privacy', 'smartphone', 'surveillance']
 
+## The 'Dead-Internet Theory' Is Wrong but Feels True - The Atlantic
+ - [https://www.theatlantic.com/technology/archive/2021/08/dead-internet-theory-wrong-but-feels-true/619937/](https://www.theatlantic.com/technology/archive/2021/08/dead-internet-theory-wrong-but-feels-true/619937/)
+ - date published: 2021-08-31 09:37:09+00:00
+ - user: rumpel
+ - tags: ['internet', 'search algorithms', 'dead internet']
+
 ## CPS talking to Lyft, Uber after bus drivers quit over vaccine mandate
  - [https://chicago.suntimes.com/education/2021/8/30/22648862/cps-school-bus-driver-vaccine-mandate-uber-lyft-lightfoot-public-schools](https://chicago.suntimes.com/education/2021/8/30/22648862/cps-school-bus-driver-vaccine-mandate-uber-lyft-lightfoot-public-schools)
  - date published: 2021-08-30 21:44:17+00:00
@@ -2931,6 +2943,12 @@
  - date published: 2021-07-29 13:04:49+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## The mermaid is taking over Google search in Norway - ALEXSKRA
+ - [https://alexskra.com/blog/the-mermaid-is-taking-over-google-search-in-norway/](https://alexskra.com/blog/the-mermaid-is-taking-over-google-search-in-norway/)
+ - date published: 2021-07-29 09:36:07+00:00
+ - user: rumpel
+ - tags: ['google', 'search algorithms', 'seo', 'algorithms', 'dead internet']
 
 ## IPv4 pricing | Hacker News
  - [https://news.ycombinator.com/item?id=27982968](https://news.ycombinator.com/item?id=27982968)

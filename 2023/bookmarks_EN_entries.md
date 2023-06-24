@@ -1,8 +1,26 @@
+## Reddit is in danger of a death spiral
+ - [https://www.zdnet.com/article/reddit-is-in-danger-of-a-death-spiral/#ftag=RSSbaffb68](https://www.zdnet.com/article/reddit-is-in-danger-of-a-death-spiral/#ftag=RSSbaffb68)
+ - date published: 2023-06-23 07:37:40+00:00
+ - user: rumpel
+ - tags: ['reddit']
+
+## Canadians will no longer have access to news content on Facebook and Instagram
+ - [https://www.cbc.ca/news/politics/online-news-act-meta-facebook-1.6885634](https://www.cbc.ca/news/politics/online-news-act-meta-facebook-1.6885634)
+ - date published: 2023-06-22 21:31:03+00:00
+ - user: rumpel
+ - tags: ['online news act', 'canada', 'instagram', 'facebook', 'bill c-18']
+
 ## Everything Owned by Nestlé - List of Nestlé Companies
  - [https://wyomingllcattorney.com/Blog/Everything-Owned-by-Nestle](https://wyomingllcattorney.com/Blog/Everything-Owned-by-Nestle)
  - date published: 2023-06-22 21:28:15+00:00
  - user: rumpel
  - tags: ['nestle', 'corporatocracy', 'monopoly']
+
+## Amazon cancels my account after exposing account lockout for "racist doorbell"
+ - [https://www.youtube.com/watch?v=Kcohq313q00](https://www.youtube.com/watch?v=Kcohq313q00)
+ - date published: 2023-06-22 20:32:41+00:00
+ - user: rumpel
+ - tags: ['technofeudalism', 'corporatocracy', 'amazon']
 
 ## Amazon duped millions of consumers into enrolling in Prime, US FTC says
  - [https://www.reuters.com/legal/amazon-duped-millions-consumers-into-enrolling-prime-ftc-2023-06-21/](https://www.reuters.com/legal/amazon-duped-millions-consumers-into-enrolling-prime-ftc-2023-06-21/)
@@ -514,12 +532,6 @@
  - user: rumpel
  - tags: ['gps']
 
-## Fiskus na Instagramie i Facebooku. Urzędnicy sprawdzają podatników w mediach społecznościowych
- - [https://businessinsider.com.pl/twoje-pieniadze/fiskus-na-instagramie-i-facebooku-urzednicy-sprawdzaja-podatnikow-w-mediach/s39bcer](https://businessinsider.com.pl/twoje-pieniadze/fiskus-na-instagramie-i-facebooku-urzednicy-sprawdzaja-podatnikow-w-mediach/s39bcer)
- - date published: 2023-06-03 18:45:00+00:00
- - user: rumpel
- - tags: ['fiskus', 'government control']
-
 ## CIA, MKUltra, and the cover-up of U.S. germ warfare in the Korean war (2022)
  - [https://jeff-kaye.medium.com/cia-mkultra-and-the-cover-up-of-u-s-germ-warfare-in-the-korean-war-3e3cce505d35](https://jeff-kaye.medium.com/cia-mkultra-and-the-cover-up-of-u-s-germ-warfare-in-the-korean-war-3e3cce505d35)
  - date published: 2023-06-03 18:06:06+00:00
@@ -543,12 +555,6 @@
  - date published: 2023-06-03 10:58:12+00:00
  - user: rumpel
  - tags: ['linux', 'open source', 'flatpak']
-
-## Szefowa Coca-Cola HBC w Polsce: wyrównamy liczbę kobiet i mężczyzn w kierownictwie [WYWIAD]
- - [https://businessinsider.com.pl/firmy/szefowa-coca-cola-hbc-chce-w-kierownictwie-tyle-kobiet-co-mezczyzn-ma-plan/d6kexfe](https://businessinsider.com.pl/firmy/szefowa-coca-cola-hbc-chce-w-kierownictwie-tyle-kobiet-co-mezczyzn-ma-plan/d6kexfe)
- - date published: 2023-06-03 04:47:46+00:00
- - user: rumpel
- - tags: ['quotas', 'feminism', 'sexism']
 
 ## Tomb Raider
  - [https://www.filfre.net/2023/06/tomb-raider/](https://www.filfre.net/2023/06/tomb-raider/)
@@ -753,12 +759,6 @@
  - date published: 2023-05-29 13:00:19+00:00
  - user: rumpel
  - tags: ['go woke go broke', 'movies', 'censorship', 'disney']
-
-## Lex Tusk podpisana, złoty i giełda w dół. Oto dlaczego rynek tak zareagował
- - [https://businessinsider.com.pl/gielda/wiadomosci/lex-tusk-podpisana-zloty-i-gielda-w-dol-oto-dlaczego-rynek-tak-zareagowal/047yqw4](https://businessinsider.com.pl/gielda/wiadomosci/lex-tusk-podpisana-zloty-i-gielda-w-dol-oto-dlaczego-rynek-tak-zareagowal/047yqw4)
- - date published: 2023-05-29 10:17:54+00:00
- - user: rumpel
- - tags: ['prawo i sprawiedliwość', 'poland', 'lex tusk']
 
 ## YouTube removed dislike counts, so this guy made Rotten Tomatoes for YouTube
  - [https://bgr.com/tech/youtube-removed-dislike-counts-so-this-guy-made-rotten-tomatoes-for-youtube-videos/](https://bgr.com/tech/youtube-removed-dislike-counts-so-this-guy-made-rotten-tomatoes-for-youtube-videos/)
@@ -1598,7 +1598,7 @@
  - [https://www.androidauthority.com/google-open-ecosystem-lock-3315205/](https://www.androidauthority.com/google-open-ecosystem-lock-3315205/)
  - date published: 2023-04-29 18:00:43+00:00
  - user: rumpel
- - tags: ['selfhost']
+ - tags: ['selfhost', 'walled garden', 'monopoly']
 
 ## Get The TLDR Of Any YouTube Video
  - [https://www.you-tldr.com/](https://www.you-tldr.com/)
@@ -2397,12 +2397,6 @@
  - date published: 2023-04-01 12:43:31+00:00
  - user: rumpel
  - tags: ['funny', 'programming']
-
-## Google, Amazon i Meta pogarszają swoje podstawowe produkty. Robią to celowo
- - [https://businessinsider.com.pl/biznes/google-amazon-i-meta-pogarszaja-swoje-podstawowe-produkty-robia-to-celowo/8hqsn68](https://businessinsider.com.pl/biznes/google-amazon-i-meta-pogarszaja-swoje-podstawowe-produkty-robia-to-celowo/8hqsn68)
- - date published: 2023-04-01 04:05:00+00:00
- - user: rumpel
- - tags: ['dark design', 'meta', 'algorithms', 'search engines', 'amazon', 'google']
 
 ## Italian privacy regulator bans ChatGPT
  - [https://www.politico.eu/article/italian-privacy-regulator-bans-chatgpt/](https://www.politico.eu/article/italian-privacy-regulator-bans-chatgpt/)
@@ -4012,12 +4006,6 @@
  - user: rumpel
  - tags: ['crisis']
 
-## Sztuczna inteligencja może odebrać pracę. Oto 10 zawodów, które zastąpi
- - [https://businessinsider.com.pl/technologie/sztuczna-inteligencja-moze-odebrac-prace-oto-10-zawodow-na-celowniku/m96bw6c](https://businessinsider.com.pl/technologie/sztuczna-inteligencja-moze-odebrac-prace-oto-10-zawodow-na-celowniku/m96bw6c)
- - date published: 2023-02-03 17:48:25+00:00
- - user: rumpel
- - tags: ['chatgpt', 'artificial intelligence']
-
 ## UK’s “Nudge Unit” recommends various online psychological manipulations when people shop and travel to push a “net zero society”
  - [https://reclaimthenet.org/uk-nudge-unit-psychological-manipulations-net-zero-society](https://reclaimthenet.org/uk-nudge-unit-psychological-manipulations-net-zero-society)
  - date published: 2023-02-03 17:09:01+00:00
@@ -4096,12 +4084,6 @@
  - user: rumpel
  - tags: ['chatgpt', 'artificial intelligence']
 
-## Inflacja w Chorwacji po wejściu do strefy euro nie wzrosła, tylko spadła
- - [https://businessinsider.com.pl/gospodarka/piec-najciekawszych-wydarzen-w-gospodarce-teraz-2022023/ndyxye8](https://businessinsider.com.pl/gospodarka/piec-najciekawszych-wydarzen-w-gospodarce-teraz-2022023/ndyxye8)
- - date published: 2023-02-02 06:09:23+00:00
- - user: rumpel
- - tags: ['croatia', 'euro']
-
 ## EU chat control law will ban open source operating systems - Blog | Mullvad VPN
  - [https://mullvad.net/en/blog/2023/2/1/eu-chat-control-law-will-ban-open-source-operating-systems/](https://mullvad.net/en/blog/2023/2/1/eu-chat-control-law-will-ban-open-source-operating-systems/)
  - date published: 2023-02-01 18:36:14+00:00
@@ -4113,12 +4095,6 @@
  - date published: 2023-02-01 18:20:39+00:00
  - user: rumpel
  - tags: ['hypocrisy', 'right to repair', 'apple']
-
-## Zapomnijcie o ChatGPT. Fundusz inwestycyjny sterowany sztuczną inteligencją po cichu rozbija bank
- - [https://businessinsider.com.pl/wiadomosci/zapomnijcie-o-chatgpt-fundusz-sterowany-sztuczna-inteligencja-rozbija-bank/th4lpsh](https://businessinsider.com.pl/wiadomosci/zapomnijcie-o-chatgpt-fundusz-sterowany-sztuczna-inteligencja-rozbija-bank/th4lpsh)
- - date published: 2023-02-01 18:01:48+00:00
- - user: rumpel
- - tags: ['artificial intelligence']
 
 ## Society isn't changing fast enough to stop climate change: study
  - [https://thehill.com/policy/energy-environment/3839348-society-isnt-changing-fast-enough-to-stop-climate-change-study/](https://thehill.com/policy/energy-environment/3839348-society-isnt-changing-fast-enough-to-stop-climate-change-study/)
