@@ -202,6 +202,12 @@
  - user: rumpel
  - tags: ['blackrock', 'wall street']
 
+## Samoloty pasa¿erskie zu¿ywaj± na pasa¿era mniej ni¿ 4 litry na 100 km
+ - [http://www.samolotypasazerskie.pl/samoloty-pasazerskie-zuzywaja-na-pasazera-mniej-niz-4-litry-na-100-km](http://www.samolotypasazerskie.pl/samoloty-pasazerskie-zuzywaja-na-pasazera-mniej-niz-4-litry-na-100-km)
+ - date published: 2013-02-15 15:33:36+00:00
+ - user: rumpel
+ - tags: ['climate change', 'global warming']
+
 ## Aaron Swartz's battle to free the PACER legal document database - The Verge
  - [https://www.theverge.com/2013/2/8/3968824/aaron-swartzs-battle-to-free-the-pacer-legal-document-database](https://www.theverge.com/2013/2/8/3968824/aaron-swartzs-battle-to-free-the-pacer-legal-document-database)
  - date published: 2013-02-09 10:03:57+00:00

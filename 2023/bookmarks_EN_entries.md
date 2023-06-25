@@ -1,3 +1,9 @@
+## Red Hat strikes a crushing blow against RHEL downstreams • The Register
+ - [https://www.theregister.com/2023/06/23/red_hat_centos_move/](https://www.theregister.com/2023/06/23/red_hat_centos_move/)
+ - date published: 2023-06-23 17:09:26+00:00
+ - user: rumpel
+ - tags: ['open source', 'red hat']
+
 ## Reddit is in danger of a death spiral
  - [https://www.zdnet.com/article/reddit-is-in-danger-of-a-death-spiral/#ftag=RSSbaffb68](https://www.zdnet.com/article/reddit-is-in-danger-of-a-death-spiral/#ftag=RSSbaffb68)
  - date published: 2023-06-23 07:37:40+00:00
