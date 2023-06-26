@@ -1,3 +1,9 @@
+## Australia: NSW Leader Wants To Ban Online Live Streaming of Climate Change Protests
+ - [https://reclaimthenet.org/nsw-wants-to-ban-online-climate-change-protest-streaming](https://reclaimthenet.org/nsw-wants-to-ban-online-climate-change-protest-streaming)
+ - date published: 2023-06-24 19:09:08+00:00
+ - user: rumpel
+ - tags: ['climate change', 'protests', 'australia']
+
 ## Red Hat strikes a crushing blow against RHEL downstreams • The Register
  - [https://www.theregister.com/2023/06/23/red_hat_centos_move/](https://www.theregister.com/2023/06/23/red_hat_centos_move/)
  - date published: 2023-06-23 17:09:26+00:00
