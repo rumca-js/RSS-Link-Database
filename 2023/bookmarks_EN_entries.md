@@ -166,6 +166,12 @@
  - user: rumpel
  - tags: ['webscraping', 'web crawl', 'programming']
 
+## Davos Is Coming for Your Cars
+ - [https://www.wsj.com/articles/world-economic-forum-paper-reduce-cars-by-2050-davos-private-jets-climate-f0bb64b9](https://www.wsj.com/articles/world-economic-forum-paper-reduce-cars-by-2050-davos-private-jets-climate-f0bb64b9)
+ - date published: 2023-06-14 22:42:00+00:00
+ - user: rumpel
+ - tags: ['world economic forum', 'wef', 'climate change', 'davos']
+
 ## Why does nuclear power plant construction cost so much?
  - [https://progress.institute/nuclear-power-plant-construction-costs/](https://progress.institute/nuclear-power-plant-construction-costs/)
  - date published: 2023-06-14 21:52:32+00:00

@@ -1,3 +1,9 @@
+## Eksperci WEF ostrzegają: trzeba ograniczyć liczbę aut na świecie - Motoryzacja w INTERIA.PL
+ - [https://motoryzacja.interia.pl/wiadomosci/news-eksperci-wef-ostrzegaja-trzeba-ograniczyc-liczbe-aut-na-swie,nId,6856931](https://motoryzacja.interia.pl/wiadomosci/news-eksperci-wef-ostrzegaja-trzeba-ograniczyc-liczbe-aut-na-swie,nId,6856931)
+ - date published: 2023-06-25 08:49:12+00:00
+ - user: rumpel
+ - tags: ['world economic forum', 'wef', 'climate change', 'davos']
+
 ## Lotnictwo. Prywatne odrzutowce generują 10 razy więcej gazów cieplarnianych niż loty rejsowe - raport amerykańskiego Instytutu Studiów Politycznych - TVN24 Biznes
  - [https://tvn24.pl/biznes/ze-swiata/lotnictwo-prywatne-odrzutowce-generuja-10-razy-wiecej-gazow-cieplarnianych-niz-loty-rejsowe-raport-amerykanskiego-instytutu-studiow-politycznych-7189114](https://tvn24.pl/biznes/ze-swiata/lotnictwo-prywatne-odrzutowce-generuja-10-razy-wiecej-gazow-cieplarnianych-niz-loty-rejsowe-raport-amerykanskiego-instytutu-studiow-politycznych-7189114)
  - date published: 2023-06-24 15:31:15+00:00
