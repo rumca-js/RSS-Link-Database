@@ -1,3 +1,15 @@
+## A popular Bluetooth car battery monitor that siphons up all your location data
+ - [https://doubleagent.net/2023/05/21/a-car-battery-monitor-tracking-your-location](https://doubleagent.net/2023/05/21/a-car-battery-monitor-tracking-your-location)
+ - date published: 2023-06-26 20:45:47+00:00
+ - user: rumpel
+ - tags: ['electric vehicles', 'china', 'tracking', 'android', 'anonymity', 'privacy', 'espionage']
+
+## Israeli Reporter Goes Undercover as Priest – and Gets Spat at - Israel News - Haaretz.com
+ - [https://www.haaretz.com/israel-news/2023-06-26/ty-article/.premium/israeli-reporter-goes-undercover-as-priest-and-gets-spat-at/00000188-f775-d6ce-abb9-f77780680000](https://www.haaretz.com/israel-news/2023-06-26/ty-article/.premium/israeli-reporter-goes-undercover-as-priest-and-gets-spat-at/00000188-f775-d6ce-abb9-f77780680000)
+ - date published: 2023-06-26 19:05:51+00:00
+ - user: rumpel
+ - tags: ['christianophobia', 'israel']
+
 ## Australia: NSW Leader Wants To Ban Online Live Streaming of Climate Change Protests
  - [https://reclaimthenet.org/nsw-wants-to-ban-online-climate-change-protest-streaming](https://reclaimthenet.org/nsw-wants-to-ban-online-climate-change-protest-streaming)
  - date published: 2023-06-24 19:09:08+00:00
