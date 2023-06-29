@@ -1,3 +1,9 @@
+## Dane milionów Polaków na Seszelach. Dostęp po 40 zł
+ - [https://wydarzenia.interia.pl/tylko-w-interii/news-dane-milionow-polakow-na-seszelach-dostep-po-40-zl,nId,6867040](https://wydarzenia.interia.pl/tylko-w-interii/news-dane-milionow-polakow-na-seszelach-dostep-po-40-zl,nId,6867040)
+ - date published: 2023-06-28 10:08:32+00:00
+ - user: rumpel
+ - tags: ['data leak', 'poland']
+
 ## Eksperci WEF ostrzegają: trzeba ograniczyć liczbę aut na świecie - Motoryzacja w INTERIA.PL
  - [https://motoryzacja.interia.pl/wiadomosci/news-eksperci-wef-ostrzegaja-trzeba-ograniczyc-liczbe-aut-na-swie,nId,6856931](https://motoryzacja.interia.pl/wiadomosci/news-eksperci-wef-ostrzegaja-trzeba-ograniczyc-liczbe-aut-na-swie,nId,6856931)
  - date published: 2023-06-25 08:49:12+00:00
@@ -15,6 +21,12 @@
  - date published: 2023-06-22 10:59:37+00:00
  - user: rumpel
  - tags: ['data leak']
+
+## Polska apka szpiegująca użytkowników Androida została zhackowana. Wyciekły dane podsłuchiwanych nią ofiar
+ - [https://niebezpiecznik.pl/post/letmespy-android-wyciek-hacked/](https://niebezpiecznik.pl/post/letmespy-android-wyciek-hacked/)
+ - date published: 2023-06-21 12:43:30+00:00
+ - user: rumpel
+ - tags: ['data leak', 'letmespy', 'hackers', 'android', 'stalkerware']
 
 ## Korupcja przy eksporcie zboża z Ukrainy. Milion dolarów łapówek miesięcznie - Money.pl
  - [https://www.money.pl/gospodarka/milion-dolarow-lapowek-miesiecznie-korupcja-przy-eksporcie-zboza-z-ukrainy-6910673317431968a.html](https://www.money.pl/gospodarka/milion-dolarow-lapowek-miesiecznie-korupcja-przy-eksporcie-zboza-z-ukrainy-6910673317431968a.html)

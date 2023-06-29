@@ -1,3 +1,21 @@
+## The Secretive Surveillance Wizards Helping ICE Wiretap Facebook and Google Users
+ - [https://www.forbes.com/sites/thomasbrewster/2022/02/23/meet-the-secretive-surveillance-wizards-helping-the-fbi-and-ice-wiretap-facebook-and-google-users/](https://www.forbes.com/sites/thomasbrewster/2022/02/23/meet-the-secretive-surveillance-wizards-helping-the-fbi-and-ice-wiretap-facebook-and-google-users/)
+ - date published: 2023-06-28 14:30:39+00:00
+ - user: rumpel
+ - tags: ['penlink', 'surveillance', 'google', 'facebook', 'big brother']
+
+## Britain must prepare for harder lockdowns, warns Matt Hancock
+ - [https://www.telegraph.co.uk/news/2023/06/27/britain-harder-lockdowns-covid-inquiry-matt-hancock/](https://www.telegraph.co.uk/news/2023/06/27/britain-harder-lockdowns-covid-inquiry-matt-hancock/)
+ - date published: 2023-06-28 13:41:18.698157+00:00
+ - user: rumpel
+ - tags: ['lockdown', 'covid']
+
+## LetMeSpy, a stalkerware app spying on thousands, says it was hacked
+ - [https://techcrunch.com/2023/06/27/letmespy-hacked-spyware-thousands/](https://techcrunch.com/2023/06/27/letmespy-hacked-spyware-thousands/)
+ - date published: 2023-06-27 21:27:25+00:00
+ - user: rumpel
+ - tags: ['data leak', 'letmespy', 'hackers', 'android', 'stalkerware']
+
 ## A popular Bluetooth car battery monitor that siphons up all your location data
  - [https://doubleagent.net/2023/05/21/a-car-battery-monitor-tracking-your-location](https://doubleagent.net/2023/05/21/a-car-battery-monitor-tracking-your-location)
  - date published: 2023-06-26 20:45:47+00:00
@@ -9,6 +27,12 @@
  - date published: 2023-06-26 19:05:51+00:00
  - user: rumpel
  - tags: ['christianophobia', 'israel']
+
+## Electric cars pothole damage is double that of petrol, Telegraph data show
+ - [https://www.telegraph.co.uk/news/2023/06/26/pothole-electric-cars-damage-roads-double-petrol-telegraph/](https://www.telegraph.co.uk/news/2023/06/26/pothole-electric-cars-damage-roads-double-petrol-telegraph/)
+ - date published: 2023-06-26 12:49:27+00:00
+ - user: rumpel
+ - tags: ['electric vehicles']
 
 ## Australia: NSW Leader Wants To Ban Online Live Streaming of Climate Change Protests
  - [https://reclaimthenet.org/nsw-wants-to-ban-online-climate-change-protest-streaming](https://reclaimthenet.org/nsw-wants-to-ban-online-climate-change-protest-streaming)
