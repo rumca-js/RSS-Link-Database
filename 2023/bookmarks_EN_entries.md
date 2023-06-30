@@ -1,3 +1,9 @@
+## Baseball-Sized Hail Smashing into Panels at 150 MPH Destroys Solar Farm
+ - [https://cowboystatedaily.com/2023/06/27/baseball-sized-hail-smashing-into-panels-at-150-mph-destroys-scottsbluff-solar-farm/](https://cowboystatedaily.com/2023/06/27/baseball-sized-hail-smashing-into-panels-at-150-mph-destroys-scottsbluff-solar-farm/)
+ - date published: 2023-06-29 11:27:54+00:00
+ - user: rumpel
+ - tags: ['climate change', 'solar panels']
+
 ## The Secretive Surveillance Wizards Helping ICE Wiretap Facebook and Google Users
  - [https://www.forbes.com/sites/thomasbrewster/2022/02/23/meet-the-secretive-surveillance-wizards-helping-the-fbi-and-ice-wiretap-facebook-and-google-users/](https://www.forbes.com/sites/thomasbrewster/2022/02/23/meet-the-secretive-surveillance-wizards-helping-the-fbi-and-ice-wiretap-facebook-and-google-users/)
  - date published: 2023-06-28 14:30:39+00:00
@@ -16,6 +22,12 @@
  - user: rumpel
  - tags: ['data leak', 'letmespy', 'hackers', 'android', 'stalkerware']
 
+## Transgender People Have Higher Suicide Risk, Says Landmark Study from Denmark - The New York Times
+ - [https://www.nytimes.com/2023/06/27/health/transgender-suicide-risk-denmark.html?smtyp=cur&smid=tw-nytimes](https://www.nytimes.com/2023/06/27/health/transgender-suicide-risk-denmark.html?smtyp=cur&smid=tw-nytimes)
+ - date published: 2023-06-27 08:37:47+00:00
+ - user: rumpel
+ - tags: ['the left wing', 'transgender', 'denmark']
+
 ## A popular Bluetooth car battery monitor that siphons up all your location data
  - [https://doubleagent.net/2023/05/21/a-car-battery-monitor-tracking-your-location](https://doubleagent.net/2023/05/21/a-car-battery-monitor-tracking-your-location)
  - date published: 2023-06-26 20:45:47+00:00
@@ -33,6 +45,18 @@
  - date published: 2023-06-26 12:49:27+00:00
  - user: rumpel
  - tags: ['electric vehicles']
+
+## New Report Reveals CISA Tried to Cover Up Censorship Practices | House Judiciary Committee Republicans
+ - [https://judiciary.house.gov/media/press-releases/new-report-reveals-cisa-tried-cover-censorship-practices](https://judiciary.house.gov/media/press-releases/new-report-reveals-cisa-tried-cover-censorship-practices)
+ - date published: 2023-06-26 08:02:13+00:00
+ - user: rumpel
+ - tags: ['censorship']
+
+## Dominican basketball player who previously blamed COVID vaccine for rare heart condition dies of heart attack
+ - [https://www.foxnews.com/sports/dominican-basketball-player-who-previously-blamed-covid-vaccine-for-rare-heart-condition-dies-of-heart-attack](https://www.foxnews.com/sports/dominican-basketball-player-who-previously-blamed-covid-vaccine-for-rare-heart-condition-dies-of-heart-attack)
+ - date published: 2023-06-24 19:32:42+00:00
+ - user: rumpel
+ - tags: ['vaccine', 'covid']
 
 ## Australia: NSW Leader Wants To Ban Online Live Streaming of Climate Change Protests
  - [https://reclaimthenet.org/nsw-wants-to-ban-online-climate-change-protest-streaming](https://reclaimthenet.org/nsw-wants-to-ban-online-climate-change-protest-streaming)
@@ -790,6 +814,12 @@
  - user: rumpel
  - tags: ['spyware', 'pegasus', 'paragon graphite']
 
+## 60 terrible tips for a C++ developer
+ - [https://pvs-studio.com/en/blog/posts/cpp/1053/](https://pvs-studio.com/en/blog/posts/cpp/1053/)
+ - date published: 2023-05-30 14:27:26+00:00
+ - user: rumpel
+ - tags: ['c++', 'programming']
+
 ## Twitter's Algorithm: Amplifying Anger, Animosity, and Affective Polarization
  - [https://arxiv.org/abs/2305.16941](https://arxiv.org/abs/2305.16941)
  - date published: 2023-05-30 07:18:14+00:00
@@ -879,6 +909,12 @@
  - date published: 2023-05-25 19:00:50+00:00
  - user: rumpel
  - tags: ['google', 'play store', 'app store', 'aurora']
+
+## A brain implant changed her life. Then it was removed against her will. | MIT Technology Review
+ - [https://www.technologyreview.com/2023/05/25/1073634/brain-implant-removed-against-her-will/](https://www.technologyreview.com/2023/05/25/1073634/brain-implant-removed-against-her-will/)
+ - date published: 2023-05-25 14:07:45+00:00
+ - user: rumpel
+ - tags: ['implants', 'technofeudalism', 'corporatocracy']
 
 ## Polish Righteous Among the Nations - Wikipedia
  - [https://en.wikipedia.org/wiki/Polish_Righteous_Among_the_Nations](https://en.wikipedia.org/wiki/Polish_Righteous_Among_the_Nations)

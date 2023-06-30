@@ -9376,6 +9376,12 @@
  - user: rumpel
  - tags: ['hypocrisy', 'black lives matter']
 
+## At last, Atlassian sees an end to its outage ... in two weeks • The Register
+ - [https://www.theregister.com/AMP/2022/04/11/atlassian_outage_backups/](https://www.theregister.com/AMP/2022/04/11/atlassian_outage_backups/)
+ - date published: 2022-04-12 13:42:29.786489+00:00
+ - user: Thomas Pain
+ - tags: $tags
+
 ## What Le Corbusier got right about office space | Tim Harford
  - [https://timharford.com/2022/04/what-le-corbusier-got-right-about-office-space/](https://timharford.com/2022/04/what-le-corbusier-got-right-about-office-space/)
  - date published: 2022-04-12 11:56:55.257586+00:00

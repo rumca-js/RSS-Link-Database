@@ -1,3 +1,9 @@
+## Skala wymuszeń, korupcji i bezkarności największa w historii Ukrainy. Firmy mówią dość
+ - [https://businessinsider.com.pl/gospodarka/korupcja-w-ukrainie-na-niespotykana-skale-firmy-zaapelowaly-do-prezydenta/cg7ejz2](https://businessinsider.com.pl/gospodarka/korupcja-w-ukrainie-na-niespotykana-skale-firmy-zaapelowaly-do-prezydenta/cg7ejz2)
+ - date published: 2023-06-28 16:24:10+00:00
+ - user: rumpel
+ - tags: ['ukraine']
+
 ## Dane milionów Polaków na Seszelach. Dostęp po 40 zł
  - [https://wydarzenia.interia.pl/tylko-w-interii/news-dane-milionow-polakow-na-seszelach-dostep-po-40-zl,nId,6867040](https://wydarzenia.interia.pl/tylko-w-interii/news-dane-milionow-polakow-na-seszelach-dostep-po-40-zl,nId,6867040)
  - date published: 2023-06-28 10:08:32+00:00
@@ -8,7 +14,7 @@
  - [https://motoryzacja.interia.pl/wiadomosci/news-eksperci-wef-ostrzegaja-trzeba-ograniczyc-liczbe-aut-na-swie,nId,6856931](https://motoryzacja.interia.pl/wiadomosci/news-eksperci-wef-ostrzegaja-trzeba-ograniczyc-liczbe-aut-na-swie,nId,6856931)
  - date published: 2023-06-25 08:49:12+00:00
  - user: rumpel
- - tags: ['world economic forum', 'wef', 'climate change', 'davos']
+ - tags: ['climate change', 'wef', 'world economic forum', 'electric vehicles', 'davos']
 
 ## Lotnictwo. Prywatne odrzutowce generują 10 razy więcej gazów cieplarnianych niż loty rejsowe - raport amerykańskiego Instytutu Studiów Politycznych - TVN24 Biznes
  - [https://tvn24.pl/biznes/ze-swiata/lotnictwo-prywatne-odrzutowce-generuja-10-razy-wiecej-gazow-cieplarnianych-niz-loty-rejsowe-raport-amerykanskiego-instytutu-studiow-politycznych-7189114](https://tvn24.pl/biznes/ze-swiata/lotnictwo-prywatne-odrzutowce-generuja-10-razy-wiecej-gazow-cieplarnianych-niz-loty-rejsowe-raport-amerykanskiego-instytutu-studiow-politycznych-7189114)

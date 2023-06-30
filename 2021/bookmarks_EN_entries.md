@@ -4408,6 +4408,12 @@
  - user: None
  - tags: ['social media', 'social control']
 
+## How one Texas storm exposed an energy grid unprepared for climate change
+ - [https://www.nbcnews.com/science/environment/one-texas-storm-exposed-energy-grid-unprepared-climate-change-rcna289](https://www.nbcnews.com/science/environment/one-texas-storm-exposed-energy-grid-unprepared-climate-change-rcna289)
+ - date published: 2021-02-17 13:10:58+00:00
+ - user: rumpel
+ - tags: ['climate change', 'solar panels']
+
 ## Cuomo's COVID cover-up hid nearly 1,900 NYC nursing home deaths
  - [https://nypost.com/2021/02/15/cuomos-covid-cover-up-hid-nearly-1900-nyc-nursing-home-deaths/](https://nypost.com/2021/02/15/cuomos-covid-cover-up-hid-nearly-1900-nyc-nursing-home-deaths/)
  - date published: 2021-02-15 20:47:39+00:00
