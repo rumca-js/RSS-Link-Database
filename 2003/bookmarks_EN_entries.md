@@ -1,18 +1,18 @@
 ## Halliburton: $61M Overcharge? - CBS News
  - [https://www.cbsnews.com/news/halliburton-61m-overcharge/](https://www.cbsnews.com/news/halliburton-61m-overcharge/)
- - date published: 2003-12-12 17:02:49+00:00
+ - date published: 2003-12-12T17:02:49+00:00
  - user: rumpel
  - tags: ['iraq', 'halliburton']
 
 ## Iraq: Halliburton Reaping Huge Profits | corpwatch
  - [https://www.corpwatch.org/article/iraq-halliburton-reaping-huge-profits](https://www.corpwatch.org/article/iraq-halliburton-reaping-huge-profits)
- - date published: 2003-08-28 16:59:48+00:00
+ - date published: 2003-08-28T16:59:48+00:00
  - user: rumpel
  - tags: ['iraq', 'halliburton']
 
 ## SCO–Linux disputes - Wikipedia
  - [https://en.wikipedia.org/wiki/SCO%E2%80%93Linux_disputes](https://en.wikipedia.org/wiki/SCO%E2%80%93Linux_disputes)
- - date published: 2003-03-06 08:35:27+00:00
+ - date published: 2003-03-06T08:35:27+00:00
  - user: rumpel
  - tags: ['sco group', 'linux']
 

@@ -14,6 +14,6 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
   <link>https://renegat0x0.ddns.net/</link>
   <description>Link archive</description>
   <language>en-US</language>
-<item><title>![CDATA[Manifest Theodora Kaczynskiego]]</title><description>![CDATA[test]]</description><pubDate>1995-12-16 07:23:07+00:00</pubDate><link>http://ted-manifesto.prv.pl/</link></item><guid isPermaLink="false">http://ted-manifesto.prv.pl/</guid>
+<item><title>![CDATA[Manifest Theodora Kaczynskiego]]</title><description>![CDATA[test]]</description><pubDate>1995-12-16T07:23:07+00:00</pubDate><link>http://ted-manifesto.prv.pl/</link></item><guid isPermaLink="false">http://ted-manifesto.prv.pl/</guid>
 
 </channel></rss>
