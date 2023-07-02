@@ -1,3 +1,21 @@
+## GPT-Migrate converts repos from one lang/framework to another
+ - [https://github.com/0xpayne/gpt-migrate](https://github.com/0xpayne/gpt-migrate)
+ - date published: 2023-07-02T03:46:33+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
+
+## Reddit And Twitter: The New Giants Of Anti-Social Media
+ - [https://www.forbes.com/sites/barrycollins/2023/07/01/reddit-and-twitter-the-new-giants-of-anti-social-media/](https://www.forbes.com/sites/barrycollins/2023/07/01/reddit-and-twitter-the-new-giants-of-anti-social-media/)
+ - date published: 2023-07-01T09:06:45+00:00
+ - user: rumpel
+ - tags: ['social media', 'twitter', 'reddit']
+
+## YouTube is testing an ad-blocker crackdown
+ - [https://www.zdnet.com/article/youtube-is-testing-an-ad-blocker-crackdown/#ftag=RSSbaffb68](https://www.zdnet.com/article/youtube-is-testing-an-ad-blocker-crackdown/#ftag=RSSbaffb68)
+ - date published: 2023-06-30T20:01:37+00:00
+ - user: rumpel
+ - tags: ['youtube', 'ad business']
+
 ## French Gov Wants to Inject Domain Blocking Lists Directly into Web Browsers
  - [https://torrentfreak.com/french-govt-wants-to-inject-domain-blocking-lists-directly-into-web-browsers-230630/](https://torrentfreak.com/french-govt-wants-to-inject-domain-blocking-lists-directly-into-web-browsers-230630/)
  - date published: 2023-06-30T09:33:35+00:00
@@ -10,6 +28,12 @@
  - user: rumpel
  - tags: ['search engines', 'algorithms', 'selfhost']
 
+## Colonel 'forced out of Army' after stating 'men cannot be women'
+ - [https://www.telegraph.co.uk/news/2023/06/29/colonel-forced-out-of-army-after-saying-men-cant-be-women/](https://www.telegraph.co.uk/news/2023/06/29/colonel-forced-out-of-army-after-saying-men-cant-be-women/)
+ - date published: 2023-06-29T15:37:00+00:00
+ - user: rumpel
+ - tags: ['censorship', 'intolerance', 'the left wing']
+
 ## German Catholic church ‘dying painful death’ as 500,000 leave in a year
  - [https://www.theguardian.com/world/2023/jun/29/german-catholic-church-dying-painful-death-as-500000-leave-in-a-year](https://www.theguardian.com/world/2023/jun/29/german-catholic-church-dying-painful-death-as-500000-leave-in-a-year)
  - date published: 2023-06-29T12:50:44+00:00
@@ -21,6 +45,12 @@
  - date published: 2023-06-29T11:27:54+00:00
  - user: rumpel
  - tags: ['climate change', 'solar panels']
+
+## Android's slow creep towards being closed source continues on - open source elements deprecated
+ - [https://www.youtube.com/watch?v=-QSr5eKjMjA](https://www.youtube.com/watch?v=-QSr5eKjMjA)
+ - date published: 2023-06-28T21:05:34+00:00
+ - user: rumpel
+ - tags: ['open source', 'android']
 
 ## The Secretive Surveillance Wizards Helping ICE Wiretap Facebook and Google Users
  - [https://www.forbes.com/sites/thomasbrewster/2022/02/23/meet-the-secretive-surveillance-wizards-helping-the-fbi-and-ice-wiretap-facebook-and-google-users/](https://www.forbes.com/sites/thomasbrewster/2022/02/23/meet-the-secretive-surveillance-wizards-helping-the-fbi-and-ice-wiretap-facebook-and-google-users/)
