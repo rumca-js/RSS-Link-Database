@@ -410,7 +410,7 @@
  - [https://www.bbc.com/news/uk-england-merseyside-43816921](https://www.bbc.com/news/uk-england-merseyside-43816921)
  - date published: 2018-04-19T06:35:07+00:00
  - user: rumpel
- - tags: ['racism', 'instagram', 'censorship']
+ - tags: ['censorship', 'social media', 'instagram', 'racism']
 
 ## You Won’t Believe What Obama Says In This Video! 😉
  - [https://www.youtube.com/watch?v=cQ54GDm1eL0](https://www.youtube.com/watch?v=cQ54GDm1eL0)

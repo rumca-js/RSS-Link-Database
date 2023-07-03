@@ -1,3 +1,21 @@
+## Googling for answers costs you time
+ - [https://prashanth.world/seo-ruining-programming-help/](https://prashanth.world/seo-ruining-programming-help/)
+ - date published: 2023-07-02T20:16:35+00:00
+ - user: rumpel
+ - tags: ['seo', 'algorithms', 'search engines', 'google']
+
+## Google Search's Death by a Thousand Cuts
+ - [https://matt-rickard.com/google-searchs-death-by-a-thousand-cuts](https://matt-rickard.com/google-searchs-death-by-a-thousand-cuts)
+ - date published: 2023-07-02T18:14:13+00:00
+ - user: rumpel
+ - tags: ['search engines', 'google']
+
+## UK retail electricity prices hit -19p/kWh today
+ - [https://github.com/jonatron/randomstuff/blob/main/agile_prices.png](https://github.com/jonatron/randomstuff/blob/main/agile_prices.png)
+ - date published: 2023-07-02T07:31:55+00:00
+ - user: rumpel
+ - tags: ['solar panels']
+
 ## GPT-Migrate converts repos from one lang/framework to another
  - [https://github.com/0xpayne/gpt-migrate](https://github.com/0xpayne/gpt-migrate)
  - date published: 2023-07-02T03:46:33+00:00
@@ -15,6 +33,12 @@
  - date published: 2023-06-30T20:01:37+00:00
  - user: rumpel
  - tags: ['youtube', 'ad business']
+
+## Terry Pratchett’s Discworld series gets content warning over ‘outdated’ attitudes
+ - [https://www.telegraph.co.uk/news/2023/06/30/terry-pratchett-discworld-content-warning-outdated-attitude/](https://www.telegraph.co.uk/news/2023/06/30/terry-pratchett-discworld-content-warning-outdated-attitude/)
+ - date published: 2023-06-30T18:14:14+00:00
+ - user: rumpel
+ - tags: ['fahrenheit 451']
 
 ## French Gov Wants to Inject Domain Blocking Lists Directly into Web Browsers
  - [https://torrentfreak.com/french-govt-wants-to-inject-domain-blocking-lists-directly-into-web-browsers-230630/](https://torrentfreak.com/french-govt-wants-to-inject-domain-blocking-lists-directly-into-web-browsers-230630/)

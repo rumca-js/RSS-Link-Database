@@ -130,6 +130,12 @@
  - user: rumpel
  - tags: ["pervert's guide", 'carpenter', 'they live']
 
+## Doing Something is Better Than Doing Nothing for Most People, Study Shows | UVA Today
+ - [https://news.virginia.edu/content/doing-something-better-doing-nothing-most-people-study-shows](https://news.virginia.edu/content/doing-something-better-doing-nothing-most-people-study-shows)
+ - date published: 2014-07-03T08:17:49+00:00
+ - user: rumpel
+ - tags: ['addiction', 'digital dementia']
+
 ## Amiga Lotus Turbo Challenge 2 Intro OST High Quality
  - [https://www.youtube.com/watch?v=vETonlaTZ4c](https://www.youtube.com/watch?v=vETonlaTZ4c)
  - date published: 2014-06-29T00:00:00+00:00

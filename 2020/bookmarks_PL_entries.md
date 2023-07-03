@@ -206,7 +206,7 @@
  - [https://ithardware.pl/aktualnosci/instagram_podglada_uzytkownikow_podczas_przegladania_tresci_w_portalu-12894.html](https://ithardware.pl/aktualnosci/instagram_podglada_uzytkownikow_podczas_przegladania_tresci_w_portalu-12894.html)
  - date published: 2020-07-27T12:04:49+00:00
  - user: None
- - tags: ['privacy', 'instagram']
+ - tags: ['social media', 'instagram', 'privacy']
 
 ## Obowiązkowe zajęcia z lewackiej ideologii dla studentów z Kalifornii. "Uczelnia chce się przypodobać"
  - [https://niezalezna.pl/342733-obowiazkowe-zajecia-z-lewackiej-ideologii-dla-studentow-z-kalifornii-zmieniono-priorytety](https://niezalezna.pl/342733-obowiazkowe-zajecia-z-lewackiej-ideologii-dla-studentow-z-kalifornii-zmieniono-priorytety)

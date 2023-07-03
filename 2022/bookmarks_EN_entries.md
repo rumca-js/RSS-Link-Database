@@ -1412,7 +1412,7 @@
  - [https://www.cnet.com/news/social-media/instagram-will-now-tell-you-if-youve-been-shadowbanned/#ftag=CADf328eec](https://www.cnet.com/news/social-media/instagram-will-now-tell-you-if-youve-been-shadowbanned/#ftag=CADf328eec)
  - date published: 2022-12-07T19:52:00+00:00
  - user: None
- - tags: ['censorship', 'shadowban', 'instagram']
+ - tags: ['shadowban', 'censorship', 'social media', 'instagram']
 
 ## Apple drops controversial plans for child sexual abuse imagery scanning
  - [https://www.theverge.com/2022/12/7/23498588/apple-csam-icloud-photos-scanning-encryption](https://www.theverge.com/2022/12/7/23498588/apple-csam-icloud-photos-scanning-encryption)
@@ -9105,6 +9105,12 @@
  - date published: 2022-04-29T07:42:00.766673+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## At Least 66.5% of Links to Sites in the Last 9 Years Are Dead (Ahrefs Study on Link Rot)
+ - [https://ahrefs.com/blog/link-rot-study/](https://ahrefs.com/blog/link-rot-study/)
+ - date published: 2022-04-29T07:36:45+00:00
+ - user: rumpel
+ - tags: ['internet', 'dead internet', 'link rot']
 
 ## The Worst Bug Ever—Randomly Losing Your Best Players | by Pocket Gems | Pocket Gems Tech Blog | Apr, 2022 | Medium
  - [https://medium.com/pocket-gems/the-worst-bug-ever-randomly-losing-your-best-players-c4c5d25048c4](https://medium.com/pocket-gems/the-worst-bug-ever-randomly-losing-your-best-players-c4c5d25048c4)

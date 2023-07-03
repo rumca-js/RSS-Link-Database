@@ -184,6 +184,12 @@
  - user: rumpel
  - tags: ['feminism', 'jordan peterson']
 
+## Secret documents: German foreign spy agency BND attacks the anonymity network Tor and advises not to use it
+ - [https://netzpolitik.org/2017/secret-documents-reveal-german-foreign-spy-agency-bnd-attacks-the-anonymity-network-tor-and-advises-not-to-use-it/](https://netzpolitik.org/2017/secret-documents-reveal-german-foreign-spy-agency-bnd-attacks-the-anonymity-network-tor-and-advises-not-to-use-it/)
+ - date published: 2017-09-15T12:32:09+00:00
+ - user: rumpel
+ - tags: ['bnd', 'germany', 'psyop', 'anonymity', 'tor', 'privacy', 'espionage']
+
 ## Ridley Scott Tells the REAL REASON Why David Hates Humans and Engineers
  - [https://www.youtube.com/watch?v=UsEs1PwpU8Y](https://www.youtube.com/watch?v=UsEs1PwpU8Y)
  - date published: 2017-09-09T20:24:09+00:00

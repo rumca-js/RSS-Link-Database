@@ -2008,6 +2008,12 @@
  - user: rumpel
  - tags: ['hunter biden', 'new york times', 'censorship']
 
+## Facebook documents show how toxic Instagram is for teens: WSJ
+ - [https://www.cnbc.com/2021/09/14/facebook-documents-show-how-toxic-instagram-is-for-teens-wsj.html](https://www.cnbc.com/2021/09/14/facebook-documents-show-how-toxic-instagram-is-for-teens-wsj.html)
+ - date published: 2021-09-14T08:26:01+00:00
+ - user: rumpel
+ - tags: ['facook', 'instagram', 'social media']
+
 ## The Dead Internet Theory (Part 1)
  - [https://www.youtube.com/watch?v=DEn758DVF9I](https://www.youtube.com/watch?v=DEn758DVF9I)
  - date published: 2021-09-13T18:10:02+00:00
@@ -3010,6 +3016,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Facebook says it's moving forward with Instagram for kids despite backlash | CNN Business
+ - [https://edition.cnn.com/2021/07/27/tech/instagram-kids/index.html](https://edition.cnn.com/2021/07/27/tech/instagram-kids/index.html)
+ - date published: 2021-07-27T08:28:25+00:00
+ - user: rumpel
+ - tags: ['facebook', 'social media', 'instagram']
+
 ## It's Already Happening But People Don't See It - Alan Watts on Rat Race
  - [https://www.youtube.com/watch?v=iYaPFZW7Q30](https://www.youtube.com/watch?v=iYaPFZW7Q30)
  - date published: 2021-07-27T00:00:00+00:00
@@ -3586,6 +3598,12 @@
  - user: rumpel
  - tags: ['canada', 'church scandal', 'religion']
 
+## The Rotting Internet Is a Collective Hallucination - The Atlantic
+ - [https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/](https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/)
+ - date published: 2021-06-30T07:39:45+00:00
+ - user: rumpel
+ - tags: ['internet', 'dead internet', 'link rot']
+
 ## COVID-19 vaccine generates immune structures critical for lasting immunity – Washington University School of Medicine in St. Louis
  - [https://medicine.wustl.edu/news/covid-19-vaccine-generates-immune-structures-critical-for-lasting-immunity/](https://medicine.wustl.edu/news/covid-19-vaccine-generates-immune-structures-critical-for-lasting-immunity/)
  - date published: 2021-06-28T07:58:09+00:00
@@ -3879,6 +3897,12 @@
  - date published: 2021-05-21T20:15:15+00:00
  - user: rumpel
  - tags: ['manufacturing consent', 'vaccine', 'billionaires', 'big pharma', 'covid']
+
+## New research shows how many important links on the web get lost to time - The Verge
+ - [https://www.theverge.com/2021/5/21/22447690/link-rot-research-new-york-times-domain-hijacking](https://www.theverge.com/2021/5/21/22447690/link-rot-research-new-york-times-domain-hijacking)
+ - date published: 2021-05-21T07:40:58+00:00
+ - user: rumpel
+ - tags: ['internet', 'dead internet', 'link rot']
 
 ## World Economic Forum Urges Companies To Fire Unvaccinated Employees As Part of ‘Jobs Reset,’ Deletes Tweet After Backlash
  - [https://nationalfile.com/world-economic-forum-urges-companies-to-fire-unvaccinated-employees-as-part-of-jobs-reset-deletes-tweet-after-backlash/](https://nationalfile.com/world-economic-forum-urges-companies-to-fire-unvaccinated-employees-as-part-of-jobs-reset-deletes-tweet-after-backlash/)
@@ -4532,7 +4556,7 @@
  - [https://winknews.com/2021/01/25/new-instagram-terms-of-service-could-put-your-data-at-risk/](https://winknews.com/2021/01/25/new-instagram-terms-of-service-could-put-your-data-at-risk/)
  - date published: 2021-01-25T20:09:20+00:00
  - user: rumpel
- - tags: ['instagram', 'privacy', 'technofeudalism']
+ - tags: ['social media', 'technofeudalism', 'instagram', 'privacy']
 
 ## Dr. Anthony Fauci: The Highest Paid Employee In The Entire U.S. Federal Government
  - [https://www.forbes.com/sites/adamandrzejewski/2021/01/25/dr-anthony-fauci-the-highest-paid-employee-in-the-entire-us-federal-government/](https://www.forbes.com/sites/adamandrzejewski/2021/01/25/dr-anthony-fauci-the-highest-paid-employee-in-the-entire-us-federal-government/)

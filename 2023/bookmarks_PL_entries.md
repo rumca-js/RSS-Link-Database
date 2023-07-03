@@ -34,6 +34,12 @@
  - user: rumpel
  - tags: ['data leak', 'letmespy', 'hackers', 'android', 'stalkerware']
 
+## Uproszczenie procedur wizowych, więcej państw uzyska wizę w ministerstwie - rp.pl
+ - [https://www.rp.pl/cudzoziemcy/art38629391-latwiejszy-wjazd-do-polski-dla-obywateli-ponad-20-panstw](https://www.rp.pl/cudzoziemcy/art38629391-latwiejszy-wjazd-do-polski-dla-obywateli-ponad-20-panstw)
+ - date published: 2023-06-20T10:41:48+00:00
+ - user: rumpel
+ - tags: ['poland', 'immigration']
+
 ## Korupcja przy eksporcie zboża z Ukrainy. Milion dolarów łapówek miesięcznie - Money.pl
  - [https://www.money.pl/gospodarka/milion-dolarow-lapowek-miesiecznie-korupcja-przy-eksporcie-zboza-z-ukrainy-6910673317431968a.html](https://www.money.pl/gospodarka/milion-dolarow-lapowek-miesiecznie-korupcja-przy-eksporcie-zboza-z-ukrainy-6910673317431968a.html)
  - date published: 2023-06-19T07:10:12+00:00

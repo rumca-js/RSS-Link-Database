@@ -1088,7 +1088,7 @@
  - [https://avlab.pl/przegladarki-tiktok-instagram-facebook-dzialaja-jak-keylogger/](https://avlab.pl/przegladarki-tiktok-instagram-facebook-dzialaja-jak-keylogger/)
  - date published: 2022-08-20T12:04:49+00:00
  - user: None
- - tags: ['tiktok', 'privacy', 'facebook', 'keylogger', 'instagram', 'vulnerability']
+ - tags: ['vulnerability', 'keylogger', 'tiktok', 'instagram', 'social media', 'privacy', 'facebook']
 
 ## Oswajanie z cyfrowym pieniądzem
  - [https://dorzeczy.pl/opinie/332758/pospieszalski-oswajanie.html](https://dorzeczy.pl/opinie/332758/pospieszalski-oswajanie.html)

@@ -500,7 +500,7 @@
  - [https://www.bbc.com/news/newsbeat-48952123](https://www.bbc.com/news/newsbeat-48952123)
  - date published: 2019-07-13T11:20:17+00:00
  - user: None
- - tags: ['instagram', 'celebrity', 'dead internet']
+ - tags: ['social media', 'celebrity', 'dead internet', 'instagram']
 
 ## In 'Eyes Wide Shut' Stanley Kubrick Captured Horrors of Jeffrey Epstein Era
  - [https://www.newsweek.com/eyes-wide-shut-missing-footage-epstein-kubrick-death-1449108](https://www.newsweek.com/eyes-wide-shut-missing-footage-epstein-kubrick-death-1449108)
