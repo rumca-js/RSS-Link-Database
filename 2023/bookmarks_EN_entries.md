@@ -1,3 +1,9 @@
+## Self-Driving Cars Are Surveillance Cameras on Wheels
+ - [https://www.schneier.com/blog/archives/2023/07/self-driving-cars-are-surveillance-cameras-on-wheels.html](https://www.schneier.com/blog/archives/2023/07/self-driving-cars-are-surveillance-cameras-on-wheels.html)
+ - date published: 2023-07-03T13:11:59+00:00
+ - user: rumpel
+ - tags: ['electric vehicles', 'privacy', 'surveillance', 'dark design']
+
 ## Googling for answers costs you time
  - [https://prashanth.world/seo-ruining-programming-help/](https://prashanth.world/seo-ruining-programming-help/)
  - date published: 2023-07-02T20:16:35+00:00
@@ -147,6 +153,12 @@
  - date published: 2023-06-23T17:09:26+00:00
  - user: rumpel
  - tags: ['open source', 'red hat']
+
+## Wenstrup Reveals Explosive Emails from Fauci Ally, Requests Additional Communications - United States House Committee on Oversight and Accountability
+ - [https://oversight.house.gov/release/wenstrup-reveals-explosive-emails-from-fauci-ally-requests-additional-communications/](https://oversight.house.gov/release/wenstrup-reveals-explosive-emails-from-fauci-ally-requests-additional-communications/)
+ - date published: 2023-06-23T14:22:06+00:00
+ - user: rumpel
+ - tags: ['wuhan', 'anthony fauci', 'manufacturing consent', 'covid', 'lab leak']
 
 ## Reddit is in danger of a death spiral
  - [https://www.zdnet.com/article/reddit-is-in-danger-of-a-death-spiral/#ftag=RSSbaffb68](https://www.zdnet.com/article/reddit-is-in-danger-of-a-death-spiral/#ftag=RSSbaffb68)
@@ -3392,7 +3404,7 @@
  - [https://nypost.com/2023/03/05/new-emails-show-fauci-commissioned-paper-to-disprove-wuhan-lab-leak-theory/](https://nypost.com/2023/03/05/new-emails-show-fauci-commissioned-paper-to-disprove-wuhan-lab-leak-theory/)
  - date published: 2023-03-05T20:24:28+00:00
  - user: rumpel
- - tags: ['lableak', 'science is dead', 'wuhan', 'anthony fauci', 'covid']
+ - tags: ['lab leak', 'science is dead', 'wuhan', 'anthony fauci', 'covid']
 
 ## Facebook and Google hand over user data, help police prosecute abortion seekers
  - [https://www.businessinsider.com/police-getting-help-social-media-to-prosecute-people-seeking-abortions-2023-2](https://www.businessinsider.com/police-getting-help-social-media-to-prosecute-people-seeking-abortions-2023-2)
@@ -3536,7 +3548,7 @@
  - [https://www.bbc.com/news/world-us-canada-64806903](https://www.bbc.com/news/world-us-canada-64806903)
  - date published: 2023-03-01T07:38:23+00:00
  - user: rumpel
- - tags: ['wuhan', 'lableak', 'fbi', 'covid']
+ - tags: ['wuhan', 'lab leak', 'fbi', 'covid']
 
 ## Ford files patent to allow self-driving cars to drive away from owners who don't keep up with payments | PC Gamer
  - [https://www.pcgamer.com/ford-files-patent-to-allow-self-driving-cars-to-drive-away-from-their-owners/](https://www.pcgamer.com/ford-files-patent-to-allow-self-driving-cars-to-drive-away-from-their-owners/)
@@ -3590,13 +3602,13 @@
  - [https://www.nytimes.com/2023/02/26/us/politics/china-lab-leak-coronavirus-pandemic.html](https://www.nytimes.com/2023/02/26/us/politics/china-lab-leak-coronavirus-pandemic.html)
  - date published: 2023-02-27T01:47:02+00:00
  - user: rumpel
- - tags: ['wuhan', 'lableak', 'covid']
+ - tags: ['wuhan', 'lab leak', 'covid']
 
 ## Covid Likely Originated From Lab Leak, Energy Department Reportedly Finds—But Biden Aide Says There’s No ‘Definitive Answer’
  - [https://www.forbes.com/sites/marisadellatto/2023/02/26/covid-likely-originated-from-lab-leak-energy-department-reportedly-finds-but-biden-aide-says-theres-no-definitive-answer/](https://www.forbes.com/sites/marisadellatto/2023/02/26/covid-likely-originated-from-lab-leak-energy-department-reportedly-finds-but-biden-aide-says-theres-no-definitive-answer/)
  - date published: 2023-02-26T16:52:23+00:00
  - user: rumpel
- - tags: ['lableak', 'covid']
+ - tags: ['lab leak', 'covid']
 
 ## James Bond books edited to remove racist references
  - [https://www.telegraph.co.uk/news/2023/02/25/james-bond-books-edited-remove-racist-references/](https://www.telegraph.co.uk/news/2023/02/25/james-bond-books-edited-remove-racist-references/)
@@ -3926,7 +3938,7 @@
  - [https://www.politico.eu/article/new-york-times-sue-european-union-ursula-von-der-leyen-pfizer-texts/](https://www.politico.eu/article/new-york-times-sue-european-union-ursula-von-der-leyen-pfizer-texts/)
  - date published: 2023-02-13T20:21:44+00:00
  - user: rumpel
- - tags: ['pfizer', 'vaccine', 'covid', 'big pharma']
+ - tags: ['new york times', 'big pharma', 'vaccine', 'covid', 'pfizer']
 
 ## MIT No-AI License
  - [https://ognjen.io/mit-no-ai/](https://ognjen.io/mit-no-ai/)
@@ -4672,6 +4684,12 @@
  - user: rumpel
  - tags: ['artificial intelligence']
 
+## Pluralistic: Tiktok’s enshittification (21 Jan 2023) – Pluralistic: Daily links from Cory Doctorow
+ - [https://pluralistic.net/2023/01/21/potemkin-ai/](https://pluralistic.net/2023/01/21/potemkin-ai/)
+ - date published: 2023-01-21T18:32:03+00:00
+ - user: rumpel
+ - tags: ['ad business', 'seo', 'algorithms', 'search engines']
+
 ## Big Pharma Greed’s Knows No Bounds
  - [https://www.thenation.com/article/economy/big-pharma-greed-knows-no-bounds/](https://www.thenation.com/article/economy/big-pharma-greed-knows-no-bounds/)
  - date published: 2023-01-21T18:04:27+00:00
@@ -4719,6 +4737,12 @@
  - date published: 2023-01-20T16:50:27+00:00
  - user: rumpel
  - tags: ['google', 'dead internet', 'gmail']
+
+## TikTok’s Secret ‘Heating’ Button Can Make Anyone Go Viral
+ - [https://www.forbes.com/sites/emilybaker-white/2023/01/20/tiktoks-secret-heating-button-can-make-anyone-go-viral/](https://www.forbes.com/sites/emilybaker-white/2023/01/20/tiktoks-secret-heating-button-can-make-anyone-go-viral/)
+ - date published: 2023-01-20T15:15:58+00:00
+ - user: rumpel
+ - tags: ['social media', 'tiktok', 'dark design', 'technofeudalism', 'search engines', 'corporatocracy', 'algorithms']
 
 ## Couple pimped their adopted sons out to  pedophile ring: report
  - [https://nypost.com/2023/01/20/couple-pimped-their-adopted-sons-out-to-pedophile-ring-report/](https://nypost.com/2023/01/20/couple-pimped-their-adopted-sons-out-to-pedophile-ring-report/)

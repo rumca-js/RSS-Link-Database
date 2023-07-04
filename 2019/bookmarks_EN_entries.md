@@ -706,12 +706,6 @@
  - user: None
  - tags: ['privacy', 'iot', 'amazon']
 
-## Your Car Is a Better Spy than Facebook
- - [https://www.youtube.com/watch?v=WX2SWUMt_fk](https://www.youtube.com/watch?v=WX2SWUMt_fk)
- - date published: 2019-04-09T20:16:56+00:00
- - user: None
- - tags: ['surveillance', 'car', 'privacy']
-
 ## End the transgender 'unregulated live experiment on children' say whistleblowing workers who have quit clinic treating patients as young as THREE
  - [https://www.dailymail.co.uk/news/article-6897269/Workers-transgender-clinic-quit-concerns-unregulated-live-experiments-children.html](https://www.dailymail.co.uk/news/article-6897269/Workers-transgender-clinic-quit-concerns-unregulated-live-experiments-children.html)
  - date published: 2019-04-08T08:58:27+00:00

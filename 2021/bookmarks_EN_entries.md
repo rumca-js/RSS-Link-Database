@@ -550,6 +550,12 @@
  - user: rumpel
  - tags: ['motivation']
 
+## Buried In Biden's Infrastructure Bill Is A Mandatory Backdoor Kill Switch For Your Car | HotHardware
+ - [https://hothardware.com/news/bidens-infrastructure-bill-mandatory-backdoor-car-kill-switch](https://hothardware.com/news/bidens-infrastructure-bill-mandatory-backdoor-car-kill-switch)
+ - date published: 2021-12-01T15:49:06+00:00
+ - user: rumpel
+ - tags: ['backdoor', 'electric vehicles', 'infrastructure bill', 'vulnerability']
+
 ## Will We Need COVID-19 Boosters Every 6 Months?
  - [https://www.healthline.com/health-news/are-we-going-to-need-covid-19-boosters-every-6-months-what-experts-think#Will-boosters-become-an-annual-thing?](https://www.healthline.com/health-news/are-we-going-to-need-covid-19-boosters-every-6-months-what-experts-think#Will-boosters-become-an-annual-thing?)
  - date published: 2021-12-01T08:06:38+00:00
@@ -1808,7 +1814,7 @@
  - [https://www.theepochtimes.com/behind-the-scenes-of-the-natural-origin-narrative_4023181.html](https://www.theepochtimes.com/behind-the-scenes-of-the-natural-origin-narrative_4023181.html)
  - date published: 2021-09-29T14:22:27+00:00
  - user: rumpel
- - tags: ['covid', 'wuhan', 'anthony fauci', 'lableak']
+ - tags: ['covid', 'wuhan', 'anthony fauci', 'lab leak']
 
 ## My Wife Was Dying of Brain Cancer. My Boss at Amazon Told Me to Perform or Quit. – Mother Jones
  - [https://www.motherjones.com/politics/2021/09/my-wife-was-dying-of-brain-cancer-my-boss-at-amazon-told-me-to-perform-or-quit/](https://www.motherjones.com/politics/2021/09/my-wife-was-dying-of-brain-cancer-my-boss-at-amazon-told-me-to-perform-or-quit/)
@@ -1906,6 +1912,12 @@
  - user: rumpel
  - tags: ['jeffrey epstein', 'bill gates']
 
+## Inside Facebook’s Push to Defend Its Image - The New York Times
+ - [https://www.nytimes.com/2021/09/21/technology/zuckerberg-facebook-project-amplify.html](https://www.nytimes.com/2021/09/21/technology/zuckerberg-facebook-project-amplify.html)
+ - date published: 2021-09-21T19:59:50+00:00
+ - user: rumpel
+ - tags: ['meta', 'mark zuckerberg', 'algorityhms', 'search engines', 'social media', 'facebook', 'manufacturing consent']
+
 ## Fast Fashion Is Hot Garbage | Climate Town
  - [https://www.youtube.com/watch?v=F6R_WTDdx7I](https://www.youtube.com/watch?v=F6R_WTDdx7I)
  - date published: 2021-09-21T07:45:28+00:00
@@ -1918,17 +1930,11 @@
  - user: rumpel
  - tags: ['quotes', 'motivation']
 
-## Search Engines are Totally Useless Now...
- - [https://www.youtube.com/watch?v=N8P6MTOQlyk](https://www.youtube.com/watch?v=N8P6MTOQlyk)
- - date published: 2021-09-20T20:33:11+00:00
- - user: None
- - tags: ['algorithm', 'internet', 'search engines', 'dead internet', 'search engines']
-
 ## DRASTIC Analysis of the DEFUSE Documents – D.R.A.S.T.I.C. Research
  - [https://drasticresearch.org/2021/09/20/1583/](https://drasticresearch.org/2021/09/20/1583/)
  - date published: 2021-09-20T14:51:24+00:00
  - user: rumpel
- - tags: ['wuhan', 'lableak', 'covid']
+ - tags: ['wuhan', 'lab leak', 'covid']
 
 ## Why you need a personal laptop - The Verge
  - [https://www.theverge.com/22671697/personal-laptop-work-security-privacy](https://www.theverge.com/22671697/personal-laptop-work-security-privacy)
@@ -3536,7 +3542,7 @@
  - [https://www.politico.com/news/2021/07/09/poll-covid-wuhan-lab-leak-498847](https://www.politico.com/news/2021/07/09/poll-covid-wuhan-lab-leak-498847)
  - date published: 2021-07-09T19:35:21+00:00
  - user: rumpel
- - tags: ['wuhan', 'covid', 'lableak']
+ - tags: ['wuhan', 'covid', 'lab leak']
 
 ## Inside Nancy Pelosi’s Husband’s $5 Million Alphabet Options Windfall
  - [https://www.forbes.com/sites/antoinegara/2021/07/08/inside-nancy-pelosis-husbands-5-million-alphabet-options-windfall/](https://www.forbes.com/sites/antoinegara/2021/07/08/inside-nancy-pelosis-husbands-5-million-alphabet-options-windfall/)
@@ -3573,6 +3579,12 @@
  - date published: 2021-07-05T22:29:19+00:00
  - user: rumpel
  - tags: ['children', 'sexualization', 'indoctrination', 'the left wing', 'lgbt']
+
+## Here's a Look Inside Facebook's Data Wars - The New York Times
+ - [https://www.nytimes.com/2021/07/14/technology/facebook-data.html](https://www.nytimes.com/2021/07/14/technology/facebook-data.html)
+ - date published: 2021-07-04T20:03:09+00:00
+ - user: rumpel
+ - tags: ['meta', 'crowdtangle', 'the right wing', 'facebook']
 
 ## Coke Faces Down Most Serious Backlash Yet For Their “Woke” Agenda
  - [https://www.redvoicemedia.com/2021/07/coke-faces-down-most-serious-backlash-yet-for-their-woke-agenda/](https://www.redvoicemedia.com/2021/07/coke-faces-down-most-serious-backlash-yet-for-their-woke-agenda/)
@@ -3664,6 +3676,12 @@
  - user: rumpel
  - tags: ['lockdown', 'covid']
 
+## Amazon Sidewalk will create entire smart neighborhoods. Here's what you should know - CNET
+ - [https://www.cnet.com/home/smart-home/amazon-sidewalk-will-create-entire-smart-neighborhoods-faq-ble-900-mhz/](https://www.cnet.com/home/smart-home/amazon-sidewalk-will-create-entire-smart-neighborhoods-faq-ble-900-mhz/)
+ - date published: 2021-06-21T17:49:49+00:00
+ - user: rumpel
+ - tags: ['smart city', 'amazon', 'corporatocracy', 'sidewalk', 'surveillance']
+
 ## Fauci Doubles Down: People Who Criticize Me Are ‘Actually Criticizing Science’
  - [https://www.breitbart.com/science/2021/06/21/fauci-doubles-down-people-who-criticize-me-are-actually-criticizing-science/](https://www.breitbart.com/science/2021/06/21/fauci-doubles-down-people-who-criticize-me-are-actually-criticizing-science/)
  - date published: 2021-06-21T17:24:57+00:00
@@ -3688,6 +3706,12 @@
  - user: rumpel
  - tags: ['cdc', 'covid', 'big brother']
 
+## Sidewalk: The Next Frontier Of Amazon’s Surveillance Infrastructure | ACLU
+ - [https://www.aclu.org/news/privacy-technology/sidewalk-the-next-frontier-of-amazons-surveillance-infrastructure](https://www.aclu.org/news/privacy-technology/sidewalk-the-next-frontier-of-amazons-surveillance-infrastructure)
+ - date published: 2021-06-18T17:51:50+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'sidewalk', 'amazon', 'corporatocracy']
+
 ## He authorized Moderna's vaccine 6 months ago. Now, ex-FDA chief Hahn joins biotech's backer
  - [https://www.fiercebiotech.com/biotech/six-months-after-granting-moderna-covid-19-eua-ex-fda-commish-joins-biotech-s-founding](https://www.fiercebiotech.com/biotech/six-months-after-granting-moderna-covid-19-eua-ex-fda-commish-joins-biotech-s-founding)
  - date published: 2021-06-14T06:58:41+00:00
@@ -3711,6 +3735,12 @@
  - date published: 2021-06-10T20:21:13+00:00
  - user: rumpel
  - tags: ['social distance', 'covid']
+
+## Amazon Sidewalk Mesh Network Raises Security, Privacy Concerns - SecurityWeek
+ - [https://www.securityweek.com/amazon-sidewalk-mesh-network-raises-security-privacy-concerns/](https://www.securityweek.com/amazon-sidewalk-mesh-network-raises-security-privacy-concerns/)
+ - date published: 2021-06-09T18:02:26+00:00
+ - user: rumpel
+ - tags: ['mesh network', 'amazon', 'privacy', 'vulnerability', 'corporatocracy', 'surveillance']
 
 ## UK government loses legal battle over transparency of ‘Orwellian’ unit | Freedom of information | The Guardian
  - [https://www.theguardian.com/politics/2021/jun/08/uk-government-loses-legal-battle-transparency-orwellian-unit](https://www.theguardian.com/politics/2021/jun/08/uk-government-loses-legal-battle-transparency-orwellian-unit)
@@ -3752,7 +3782,7 @@
  - [https://nypost.com/2021/06/04/who-is-peter-daszak-exec-who-sent-taxpayer-money-to-wuhan-lab/](https://nypost.com/2021/06/04/who-is-peter-daszak-exec-who-sent-taxpayer-money-to-wuhan-lab/)
  - date published: 2021-06-04T07:17:33+00:00
  - user: rumpel
- - tags: ['wuhan', 'covid', 'daszak', 'covid origins', 'lableak']
+ - tags: ['wuhan', 'covid', 'daszak', 'covid origins', 'lab leak']
 
 ## What Fauci's EXPOSED Emails REVEAL
  - [https://www.youtube.com/watch?v=2YmpRI9KDh8](https://www.youtube.com/watch?v=2YmpRI9KDh8)
@@ -3764,7 +3794,7 @@
  - [https://www.vanityfair.com/news/2021/06/the-lab-leak-theory-inside-the-fight-to-uncover-covid-19s-origins](https://www.vanityfair.com/news/2021/06/the-lab-leak-theory-inside-the-fight-to-uncover-covid-19s-origins)
  - date published: 2021-06-03T07:19:42+00:00
  - user: rumpel
- - tags: ['wuhan', 'covid', 'lableak']
+ - tags: ['wuhan', 'covid', 'lab leak']
 
 ## A Virginia Teacher Was Put On Leave After Opposing New Rights For Trans Students
  - [https://www.npr.org/2021/06/02/1002479412/a-virginia-teacher-was-put-on-leave-after-opposing-a-new-policy-for-trans-studen](https://www.npr.org/2021/06/02/1002479412/a-virginia-teacher-was-put-on-leave-after-opposing-a-new-policy-for-trans-studen)
@@ -3794,13 +3824,13 @@
  - [https://townhall.com/tipsheet/katiepavlich/2021/06/02/we-now-know-why-facebook-may-have-censored-the-lab-leak-theory-n2590360](https://townhall.com/tipsheet/katiepavlich/2021/06/02/we-now-know-why-facebook-may-have-censored-the-lab-leak-theory-n2590360)
  - date published: 2021-06-02T06:52:01+00:00
  - user: None
- - tags: ['censorship', 'lableak', 'facebook']
+ - tags: ['censorship', 'lab leak', 'facebook']
 
 ## Biden Team Reportedly Shut Down Secretive Trump-Era Project Pursuing The Wuhan Lab-Leak Theory
  - [https://www.forbes.com/sites/roberthart/2021/05/26/biden-team-shut-down-secretive-trump-era-project-pursuing-the-wuhan-lab-leak-theory/](https://www.forbes.com/sites/roberthart/2021/05/26/biden-team-shut-down-secretive-trump-era-project-pursuing-the-wuhan-lab-leak-theory/)
  - date published: 2021-06-01T19:39:24+00:00
  - user: rumpel
- - tags: ['joe biden', 'wuhan', 'covid', 'big brother', 'lableak']
+ - tags: ['joe biden', 'wuhan', 'covid', 'big brother', 'lab leak']
 
 ## Digital Identity: EU to lay out plans for Europe-wide digital identity wallet
  - [https://www.nfcw.com/2021/06/01/372591/eu-to-lay-out-plans-for-europe-wide-digital-identity-wallet/](https://www.nfcw.com/2021/06/01/372591/eu-to-lay-out-plans-for-europe-wide-digital-identity-wallet/)
@@ -3866,13 +3896,13 @@
  - [https://thehill.com/homenews/news/555657-facebook-reverses-policy-to-allow-posts-speculating-that-covid-19-was-made-in-a/](https://thehill.com/homenews/news/555657-facebook-reverses-policy-to-allow-posts-speculating-that-covid-19-was-made-in-a/)
  - date published: 2021-05-26T19:36:37+00:00
  - user: rumpel
- - tags: ['censorship', 'wuhan', 'covid', 'facebook', 'lableak']
+ - tags: ['censorship', 'wuhan', 'covid', 'facebook', 'lab leak']
 
 ## Fauci admits ‘modest’ NIH funding of Wuhan lab but denies ‘gain of function
  - [https://nypost.com/2021/05/25/fauci-admits-nih-funding-of-wuhan-lab-denies-gain-of-function/](https://nypost.com/2021/05/25/fauci-admits-nih-funding-of-wuhan-lab-denies-gain-of-function/)
  - date published: 2021-05-25T07:18:24+00:00
  - user: rumpel
- - tags: ['wuhan', 'lableak', 'anthony fauci']
+ - tags: ['wuhan', 'lab leak', 'anthony fauci']
 
 ## Report: Wuhan Lab Staff Went To Hospital With Covid-Like Symptoms Before Confirmed Outbreak, New Intelligence Finds
  - [https://www.forbes.com/sites/jonathanponciano/2021/05/23/report-wuhan-lab-staff-hospital-covid-19-symptoms-virus-origins/](https://www.forbes.com/sites/jonathanponciano/2021/05/23/report-wuhan-lab-staff-hospital-covid-19-symptoms-virus-origins/)
@@ -3980,7 +4010,7 @@
  - [https://www.science.org/doi/10.1126/science.abj0016](https://www.science.org/doi/10.1126/science.abj0016)
  - date published: 2021-05-14T07:21:19+00:00
  - user: rumpel
- - tags: ['wuhan', 'covid', 'lableak']
+ - tags: ['wuhan', 'covid', 'lab leak']
 
 ## Why 99% Of Movies Today Are Garbage - Chris Gore
  - [https://www.youtube.com/watch?v=12f0ligwS5s](https://www.youtube.com/watch?v=12f0ligwS5s)
@@ -4005,6 +4035,12 @@
  - date published: 2021-05-08T07:40:19+00:00
  - user: None
  - tags: ['pfizer', 'vaccine', 'covid', 'big pharma']
+
+## Amazon and Apple Built Vast Wireless Networks Using Your Devices. Here’s How They Work. - WSJ
+ - [https://www.wsj.com/articles/amazon-apple-wireless-networks-sidewalk-find-my-11620397704?st=jcvbx2bc04mmaz3&reflink=article_copyURL_share](https://www.wsj.com/articles/amazon-apple-wireless-networks-sidewalk-find-my-11620397704?st=jcvbx2bc04mmaz3&reflink=article_copyURL_share)
+ - date published: 2021-05-07T17:16:14+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'sidewalk', 'amazon', 'apple']
 
 ## Report: China emissions exceed all developed nations combined
  - [https://www.bbc.com/news/world-asia-57018837](https://www.bbc.com/news/world-asia-57018837)
@@ -4204,6 +4240,12 @@
  - user: rumpel
  - tags: ['hypocrisy', 'black lives matter']
 
+## Your Car Is a Better Spy than Facebook
+ - [https://www.youtube.com/watch?v=WX2SWUMt_fk](https://www.youtube.com/watch?v=WX2SWUMt_fk)
+ - date published: 2021-04-09T00:00:00+00:00
+ - user: None
+ - tags: ['electric vehicles', 'privacy', 'surveillance']
+
 ## When Life Hurts, Stop Clinging to It | The Philosophy of Epictetus
  - [https://www.youtube.com/watch?v=p2KHo95Qknk](https://www.youtube.com/watch?v=p2KHo95Qknk)
  - date published: 2021-04-08T00:00:00+00:00
@@ -4402,12 +4444,6 @@
  - user: rumpel
  - tags: ['immigration', 'hypocrisy', 'black lives matter']
 
-## Is Google Search Getting Less Accurate?
- - [https://www.youtube.com/watch?v=8xl2mWK9LsE](https://www.youtube.com/watch?v=8xl2mWK9LsE)
- - date published: 2021-02-21T13:36:49+00:00
- - user: rumpel
- - tags: ['dead internet', 'algorithms', 'search engines']
-
 ## Wikipedia co-founder Larry Sanger slams site's leftist bias and claims 'neutrality' is gone | Daily Mail Online
  - [https://www.dailymail.co.uk/news/article-9283061/Wikipedia-founder-Larry-Sanger-slams-sites-leftist-bias-claims-neutrality-gone.html](https://www.dailymail.co.uk/news/article-9283061/Wikipedia-founder-Larry-Sanger-slams-sites-leftist-bias-claims-neutrality-gone.html)
  - date published: 2021-02-21T06:54:18+00:00
@@ -4478,7 +4514,7 @@
  - [https://nypost.com/2021/02/09/who-team-coronavirus-unlikely-to-have-leaked-from-china-lab/](https://nypost.com/2021/02/09/who-team-coronavirus-unlikely-to-have-leaked-from-china-lab/)
  - date published: 2021-02-09T07:26:42+00:00
  - user: rumpel
- - tags: ['wuhan', 'covid', 'who', 'lableak']
+ - tags: ['wuhan', 'covid', 'who', 'lab leak']
 
 ## Interner E-Mail-Verkehr: Innenministerium spannte Wissenschaftler ein - WELT
  - [https://www.welt.de/politik/deutschland/article225864597/Interner-E-Mail-Verkehr-Innenministerium-spannte-Wissenschaftler-ein.html](https://www.welt.de/politik/deutschland/article225864597/Interner-E-Mail-Verkehr-Innenministerium-spannte-Wissenschaftler-ein.html)

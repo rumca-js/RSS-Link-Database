@@ -82,6 +82,12 @@
  - user: rumpel
  - tags: ['memento', 'nolan', 'movies']
 
+## Hackers Remotely Kill a Jeep on the Highway—With Me in It | WIRED
+ - [https://www.wired.com/2015/07/hackers-remotely-kill-jeep-highway/](https://www.wired.com/2015/07/hackers-remotely-kill-jeep-highway/)
+ - date published: 2015-07-21T15:43:34+00:00
+ - user: rumpel
+ - tags: ['electric vehicles', 'hackers', 'vulnerability']
+
 ## javascript - How to skip ad after 5 seconds using the YouTube JS API? - Stack Overflow
  - [https://stackoverflow.com/questions/31522813/how-to-skip-ad-after-5-seconds-using-the-youtube-js-api](https://stackoverflow.com/questions/31522813/how-to-skip-ad-after-5-seconds-using-the-youtube-js-api)
  - date published: 2015-07-20T11:32:20+00:00

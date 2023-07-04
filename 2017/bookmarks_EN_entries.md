@@ -22,6 +22,12 @@
  - user: rumpel
  - tags: ['blackrock', 'fintech']
 
+## You Give Up a Lot of Privacy Just Opening Emails. Here's How to Stop It | WIRED
+ - [https://www.wired.com/story/how-email-open-tracking-quietly-took-over-the-web/](https://www.wired.com/story/how-email-open-tracking-quietly-took-over-the-web/)
+ - date published: 2017-12-11T18:41:30+00:00
+ - user: rumpel
+ - tags: ['tracking', 'privacy', 'email']
+
 ## Avoid getters and setters whenever possible
  - [https://dev.to/scottshipp/avoid-getters-and-setters-whenever-possible-c8m](https://dev.to/scottshipp/avoid-getters-and-setters-whenever-possible-c8m)
  - date published: 2017-12-08T10:06:42+00:00

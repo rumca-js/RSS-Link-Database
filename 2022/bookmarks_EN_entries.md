@@ -1352,7 +1352,7 @@
  - [https://usrtk.org/covid-19-origins/emails-show-wuhan-lab-collaborator-played-central-role-in-public-messaging-about-covid-19-origins/](https://usrtk.org/covid-19-origins/emails-show-wuhan-lab-collaborator-played-central-role-in-public-messaging-about-covid-19-origins/)
  - date published: 2022-12-08T19:05:34+00:00
  - user: rumpel
- - tags: ['covid', 'wuhan', 'daszak', 'lableak']
+ - tags: ['covid', 'wuhan', 'daszak', 'lab leak']
 
 ## You are being LIED to about inflation (here's the REAL cause)
  - [https://www.youtube.com/watch?v=px4LkyuMs0I](https://www.youtube.com/watch?v=px4LkyuMs0I)
@@ -1570,6 +1570,12 @@
  - user: None
  - tags: ['big brother', 'propaganda', 'gender', 'the left wing', 'lgbt', 'transgender']
 
+## Yes, It’s Censorship. Stop picking that nit, it’ll never… | by Cory Doctorow | Medium
+ - [https://doctorow.medium.com/yes-its-censorship-2026c9edc0fd](https://doctorow.medium.com/yes-its-censorship-2026c9edc0fd)
+ - date published: 2022-12-04T19:54:04+00:00
+ - user: rumpel
+ - tags: ['censorship', 'moderation', 'social media']
+
 ## Former Twitter censor stands by decision to ban satire site Babylon Bee – “not funny,” “dangerous”
  - [https://reclaimthenet.org/yoel-roth-babylon-bee/](https://reclaimthenet.org/yoel-roth-babylon-bee/)
  - date published: 2022-12-04T19:46:29+00:00
@@ -1616,7 +1622,7 @@
  - [http://www.msn.com/en-us/news/world/fauci-suggested-fbi-be-warned-about-possible-lab-leak-before-he-dismissed-hypothesis/ar-AA14SMEq?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/fauci-suggested-fbi-be-warned-about-possible-lab-leak-before-he-dismissed-hypothesis/ar-AA14SMEq?li=BBnbcA1&srcref=rss)
  - date published: 2022-12-04T08:02:07.377169+00:00
  - user: None
- - tags: ['wuhan', 'lableak', 'anthony fauci']
+ - tags: ['wuhan', 'lab leak', 'anthony fauci']
 
 ## Apple to move 40-45% iPhone production to India
  - [https://www.wsj.com/articles/apple-china-factory-protests-foxconn-manufacturing-production-supply-chain-11670023099](https://www.wsj.com/articles/apple-china-factory-protests-foxconn-manufacturing-production-supply-chain-11670023099)
@@ -2014,12 +2020,6 @@
  - user: None
  - tags: ['the left wing', 'movies', 'rotten tomatoes']
 
-## Why Google Search Has Become So Bad
- - [https://www.youtube.com/watch?v=48AOOynnmqU](https://www.youtube.com/watch?v=48AOOynnmqU)
- - date published: 2022-11-25T14:39:54+00:00
- - user: rumpel
- - tags: ['algorithms', 'dead internet', 'search engines']
-
 ## "Tantura" Exposes the Lie at the Heart of Israel's Founding Myth
  - [https://theintercept.com/2022/11/25/tantura-movie-israel-palestine/](https://theintercept.com/2022/11/25/tantura-movie-israel-palestine/)
  - date published: 2022-11-25T11:00:32+00:00
@@ -2031,6 +2031,12 @@
  - date published: 2022-11-25T05:00:00+00:00
  - user: None
  - tags: ['intel', 'technofeudalism', 'subscription']
+
+## What Happened To Google Search?
+ - [https://www.youtube.com/watch?v=48AOOynnmqU](https://www.youtube.com/watch?v=48AOOynnmqU)
+ - date published: 2022-11-25T00:00:00+00:00
+ - user: rumpel
+ - tags: ['algorithms', 'dead internet', 'search engines']
 
 ## Right to abortion in France: The necessary steps before it gets enshrined in the constitution
  - [https://www.lemonde.fr/en/politics/article/2022/11/24/right-to-abortion-in-france-the-necessary-steps-before-it-gets-enshrined-in-the-constitution_6005536_5.html](https://www.lemonde.fr/en/politics/article/2022/11/24/right-to-abortion-in-france-the-necessary-steps-before-it-gets-enshrined-in-the-constitution_6005536_5.html)
@@ -2222,7 +2228,7 @@
  - [https://theintercept.com/2022/05/19/covid-lab-leak-evidence-jeffrey-sachs/](https://theintercept.com/2022/05/19/covid-lab-leak-evidence-jeffrey-sachs/)
  - date published: 2022-11-19T13:39:08+00:00
  - user: rumpel
- - tags: ['covid', 'lableak', 'jeffrey sachs']
+ - tags: ['covid', 'lab leak', 'jeffrey sachs']
 
 ## Is TikTok Really A National Security Threat?
  - [https://www.forbes.com/sites/petersuciu/2022/11/18/is-tiktok-really-a-national-security-threat/](https://www.forbes.com/sites/petersuciu/2022/11/18/is-tiktok-really-a-national-security-threat/)
@@ -3770,7 +3776,7 @@
  - [https://www.foxnews.com/politics/state-ags-fauci-zuckerberg-colluded-kill-covid-lab-leak-theory](https://www.foxnews.com/politics/state-ags-fauci-zuckerberg-colluded-kill-covid-lab-leak-theory)
  - date published: 2022-10-24T21:19:21+00:00
  - user: None
- - tags: ['lableak', 'mark zuckerberg', 'anthony fauci', 'misinformation', 'covid']
+ - tags: ['lab leak', 'mark zuckerberg', 'anthony fauci', 'misinformation', 'covid']
 
 ## END of Human PROGRESS is NOW
  - [https://www.youtube.com/watch?v=zum672SQX8Q](https://www.youtube.com/watch?v=zum672SQX8Q)
@@ -7182,7 +7188,7 @@
 
 ## YES, They Really Are *Deleting* the Internet And it’s WAY Worse Than You Think
  - [https://www.youtube.com/watch?v=8O_NvPpbsbw](https://www.youtube.com/watch?v=8O_NvPpbsbw)
- - date published: 2022-08-15T15:38:28+00:00
+ - date published: 2022-08-15T00:00:00+00:00
  - user: None
  - tags: ['search engines', 'internet', 'dead internet']
 
@@ -8998,6 +9004,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Tracking Exposed: Demanding That the Gods Explain Themselves | Electronic Frontier Foundation
+ - [https://www.eff.org/deeplinks/2022/05/tracking-exposed-demanding-gods-explain-themselves](https://www.eff.org/deeplinks/2022/05/tracking-exposed-demanding-gods-explain-themselves)
+ - date published: 2022-05-02T18:36:48+00:00
+ - user: rumpel
+ - tags: ['algospeak', 'algorithms', 'search engines', 'social media']
+
 ## New government maps show nearly all of the West is in drought and it's not even summer yet: "This is unprecedented" - CBS News
  - [https://www.cbsnews.com/news/west-climate-change-water/](https://www.cbsnews.com/news/west-climate-change-water/)
  - date published: 2022-05-02T13:43:51.776205+00:00
@@ -9946,6 +9958,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Online Safety made dangerous | Open Rights Group
+ - [https://www.openrightsgroup.org/blog/online-safety-made-dangerous/](https://www.openrightsgroup.org/blog/online-safety-made-dangerous/)
+ - date published: 2022-03-17T19:51:57+00:00
+ - user: rumpel
+ - tags: ['crypto wars', 'online safety bill', 'government control', 'big brother', 'tech control']
+
 ## Szpila: Biały heteronormatywny ochrzczony Polak szkodzi planecie
  - [https://wyborcza.pl/magazyn/7,124059,28232815,szpila-bialy-heteronormatywny-ochrzczony-polak-szkodzi-planecie.html](https://wyborcza.pl/magazyn/7,124059,28232815,szpila-bialy-heteronormatywny-ochrzczony-polak-szkodzi-planecie.html)
  - date published: 2022-03-17T16:02:27+00:00
@@ -10330,6 +10348,12 @@
  - user: Thomas Pain
  - tags: ['privacy', 'tracking', 'anonymity']
 
+## Is Google Search Getting Less Accurate?
+ - [https://www.youtube.com/watch?v=8xl2mWK9LsE](https://www.youtube.com/watch?v=8xl2mWK9LsE)
+ - date published: 2022-02-21T00:00:00+00:00
+ - user: rumpel
+ - tags: ['dead internet', 'algorithms', 'search engines']
+
 ## Kanada: W Kanadzie policja tratuje ludzi, a „wolny świat” milczy! Dlaczego?
  - [https://www.prokapitalizm.pl/w-kanadzie-policja-tratuje-ludzi-a-wolny-swiat-milczy-dlaczego/](https://www.prokapitalizm.pl/w-kanadzie-policja-tratuje-ludzi-a-wolny-swiat-milczy-dlaczego/)
  - date published: 2022-02-20T06:51:15+00:00
@@ -10576,6 +10600,12 @@
  - user: rumpel
  - tags: ['wef', 'world economic forum', 'eatingbugs']
 
+## That broken tech/content culture cycle - Anil Dash
+ - [https://www.anildash.com/2022/02/09/the-stupid-tech-content-culture-cycle/](https://www.anildash.com/2022/02/09/the-stupid-tech-content-culture-cycle/)
+ - date published: 2022-02-09T20:13:52+00:00
+ - user: rumpel
+ - tags: ['corporatocracy', 'algorithms', 'monopoly', 'search engines']
+
 ## Nick Brown Smelled Bull
  - [https://narratively.com/nick-brown-smelled-bull/](https://narratively.com/nick-brown-smelled-bull/)
  - date published: 2022-02-09T00:10:46.476596+00:00
@@ -10736,7 +10766,7 @@
  - [https://conservativeinstitute.org/conservative-news/senate-report-implicates-fauci-in-wuhan-lab-leak-cover-up.htm](https://conservativeinstitute.org/conservative-news/senate-report-implicates-fauci-in-wuhan-lab-leak-cover-up.htm)
  - date published: 2022-02-04T06:55:19+00:00
  - user: None
- - tags: ['lableak', 'wuhan', 'anthony fauci', 'covid']
+ - tags: ['lab leak', 'wuhan', 'anthony fauci', 'covid']
 
 ## Don’t Feed the Beast – the Great Recruitment Agency Infestation
  - [https://gist.github.com/CumpsD/696599d1bd4cd472a0565869672933da](https://gist.github.com/CumpsD/696599d1bd4cd472a0565869672933da)
@@ -10934,7 +10964,7 @@
  - [https://nypost.com/2022/01/24/emails-reveal-suspected-covid-leaked-from-a-wuhan-lab-then-censored-themselves/](https://nypost.com/2022/01/24/emails-reveal-suspected-covid-leaked-from-a-wuhan-lab-then-censored-themselves/)
  - date published: 2022-01-24T21:48:29+00:00
  - user: rumpel
- - tags: ['lableak', 'covid', 'censorship', 'science is dead', 'anthony fauci', 'manufacturing consent', 'wuhan']
+ - tags: ['lab leak', 'covid', 'censorship', 'science is dead', 'anthony fauci', 'manufacturing consent', 'wuhan']
 
 ## At D.C. rally, anti-vaccine activists protest covid mandates - The Washington Post
  - [https://www.washingtonpost.com/dc-md-va/2022/01/23/dc-anti-vaccine-rally-mandates-protest/](https://www.washingtonpost.com/dc-md-va/2022/01/23/dc-anti-vaccine-rally-mandates-protest/)
@@ -11042,7 +11072,7 @@
  - [https://www.theepochtimes.com/scientists-who-were-instrumental-to-covid-19-natural-origins-narrative-received-over-50-million-in-niaid-funding-in-2020-2021_4220769.html](https://www.theepochtimes.com/scientists-who-were-instrumental-to-covid-19-natural-origins-narrative-received-over-50-million-in-niaid-funding-in-2020-2021_4220769.html)
  - date published: 2022-01-19T14:23:35+00:00
  - user: rumpel
- - tags: ['covid', 'wuhan', 'niaid', 'lableak']
+ - tags: ['covid', 'wuhan', 'niaid', 'lab leak']
 
 ## Facebook versus the BMJ: when fact checking goes wrong
  - [https://www.bmj.com/content/376/bmj.o95](https://www.bmj.com/content/376/bmj.o95)

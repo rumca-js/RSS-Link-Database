@@ -664,6 +664,12 @@
  - user: rumpel
  - tags: ['china', 'tiktok']
 
+## Tracking Viral Misinformation: Latest Updates - The New York Times
+ - [https://www.nytimes.com/live/2020/2020-election-misinformation-distortions#facebook-sent-flawed-data-to-misinformation-researchers](https://www.nytimes.com/live/2020/2020-election-misinformation-distortions#facebook-sent-flawed-data-to-misinformation-researchers)
+ - date published: 2020-09-15T20:08:59+00:00
+ - user: rumpel
+ - tags: ['technofeudalism', 'corporatocracy', 'science is dead', 'facebook', 'manufacturing consent']
+
 ## Netflix Defends ‘Cuties’ as ‘Social Commentary’ Against Sexualization of Young Children
  - [https://variety.com/2020/digital/news/netflix-defends-cuties-against-sexualization-young-girls-1234766347/](https://variety.com/2020/digital/news/netflix-defends-cuties-against-sexualization-young-girls-1234766347/)
  - date published: 2020-09-10T08:25:33+00:00
@@ -770,7 +776,7 @@
  - [https://en.wikipedia.org/wiki/COVID-19_lab_leak_theory](https://en.wikipedia.org/wiki/COVID-19_lab_leak_theory)
  - date published: 2020-08-25T06:52:20+00:00
  - user: rumpel
- - tags: ['covid', 'lableak']
+ - tags: ['covid', 'lab leak']
 
 ## Enough with the Linux security FUD
  - [https://www.zdnet.com/article/enough-with-the-linux-security-fud/](https://www.zdnet.com/article/enough-with-the-linux-security-fud/)
@@ -1342,11 +1348,17 @@
  - user: rumpel
  - tags: ['lockdown', 'covid']
 
+## Anthony Fauci just crushed Donald Trump's theory on the origins of the coronavirus | CNN Politics
+ - [https://edition.cnn.com/2020/05/05/politics/fauci-trump-coronavirus-wuhan-lab/index.html](https://edition.cnn.com/2020/05/05/politics/fauci-trump-coronavirus-wuhan-lab/index.html)
+ - date published: 2020-05-05T14:18:16+00:00
+ - user: rumpel
+ - tags: ['wuhan', 'anthony fauci', 'covid', 'lab leak']
+
 ## Trump claims to have evidence coronavirus started in Chinese lab but offers no details
  - [https://www.theguardian.com/us-news/2020/apr/30/donald-trump-coronavirus-chinese-lab-claim](https://www.theguardian.com/us-news/2020/apr/30/donald-trump-coronavirus-chinese-lab-claim)
  - date published: 2020-05-01T03:51:23+00:00
  - user: rumpel
- - tags: ['lableak', 'covid', 'wuhan']
+ - tags: ['lab leak', 'covid', 'wuhan']
 
 ## TAOISM | The Art of Not Trying
  - [https://www.youtube.com/watch?v=tLAZvESoVgI](https://www.youtube.com/watch?v=tLAZvESoVgI)
@@ -1370,13 +1382,13 @@
  - [https://www.livescience.com/coronavirus-wuhan-lab-complicated-origins.html](https://www.livescience.com/coronavirus-wuhan-lab-complicated-origins.html)
  - date published: 2020-04-18T06:52:28+00:00
  - user: rumpel
- - tags: ['wuhan', 'covid', 'lableak']
+ - tags: ['wuhan', 'covid', 'lab leak']
 
 ## Trump, aides flirt with China lab coronavirus conspiracy theory | Coronavirus pandemic News | Al Jazeera
  - [https://www.aljazeera.com/news/2020/4/17/trump-aides-flirt-with-china-lab-coronavirus-conspiracy-theory](https://www.aljazeera.com/news/2020/4/17/trump-aides-flirt-with-china-lab-coronavirus-conspiracy-theory)
  - date published: 2020-04-17T14:25:08+00:00
  - user: rumpel
- - tags: ['covid', 'wuhan', 'lableak', 'donald trump']
+ - tags: ['covid', 'wuhan', 'lab leak', 'donald trump']
 
 ## BRUTAL: 5 awful facts about WHO’s Tedros Adhanom
  - [https://www.youtube.com/watch?v=XPSlqF5pjrw](https://www.youtube.com/watch?v=XPSlqF5pjrw)
@@ -1394,7 +1406,7 @@
  - [https://edition.cnn.com/2020/04/03/americas/guayaquil-ecuador-overwhelmed-coronavirus-intl/index.html](https://edition.cnn.com/2020/04/03/americas/guayaquil-ecuador-overwhelmed-coronavirus-intl/index.html)
  - date published: 2020-04-03T07:26:22+00:00
  - user: rumpel
- - tags: ['wuhan', 'lableak', 'propaganda', 'fearmongering', 'covid']
+ - tags: ['wuhan', 'lab leak', 'propaganda', 'fearmongering', 'covid']
 
 ## Whistleblowing coronavirus doctor mysteriously vanishes
  - [https://nypost.com/2020/04/01/whistleblowing-coronavirus-doctor-mysteriously-vanishes/](https://nypost.com/2020/04/01/whistleblowing-coronavirus-doctor-mysteriously-vanishes/)
@@ -1550,7 +1562,7 @@
  - [https://www.cnbc.com/2020/02/14/facebook-google-amazon-met-with-who-to-talk-coronavirus-misinformation.html](https://www.cnbc.com/2020/02/14/facebook-google-amazon-met-with-who-to-talk-coronavirus-misinformation.html)
  - date published: 2020-02-14T13:01:29+00:00
  - user: rumpel
- - tags: ['censorship', 'who', 'amazon', 'google', 'misinformation', 'facebook', 'lableak', 'covid']
+ - tags: ['censorship', 'who', 'amazon', 'google', 'misinformation', 'facebook', 'lab leak', 'covid']
 
 ## Becoming a Technical Leader
  - [https://www.linkedin.com/pulse/becoming-technical-leader-michael-vanhoutte/](https://www.linkedin.com/pulse/becoming-technical-leader-michael-vanhoutte/)
@@ -1574,13 +1586,13 @@
  - [https://www.youtube.com/watch?v=CYKeefzKGOI](https://www.youtube.com/watch?v=CYKeefzKGOI)
  - date published: 2020-01-31T07:48:27+00:00
  - user: rumpel
- - tags: ['wuhan', 'lableak', 'propaganda', 'fearmongering', 'covid']
+ - tags: ['wuhan', 'lab leak', 'propaganda', 'fearmongering', 'covid']
 
 ## A man lies dead in the street: the image that captures the Wuhan coronavirus crisis
  - [https://www.theguardian.com/world/2020/jan/31/a-man-lies-dead-in-the-street-the-image-that-captures-the-wuhan-coronavirus-crisis](https://www.theguardian.com/world/2020/jan/31/a-man-lies-dead-in-the-street-the-image-that-captures-the-wuhan-coronavirus-crisis)
  - date published: 2020-01-31T07:24:23+00:00
  - user: rumpel
- - tags: ['wuhan', 'lableak', 'propaganda', 'fearmongering', 'covid']
+ - tags: ['wuhan', 'lab leak', 'propaganda', 'fearmongering', 'covid']
 
 ## Australia defends plan to create island quarantine camp | AP News
  - [https://apnews.com/c129280f6ab2a832908b8dcf4888364b](https://apnews.com/c129280f6ab2a832908b8dcf4888364b)
@@ -1592,7 +1604,7 @@
  - [https://mashable.com/article/facebook-will-remove-coronavirus-conspiracy-theories](https://mashable.com/article/facebook-will-remove-coronavirus-conspiracy-theories)
  - date published: 2020-01-30T08:40:59+00:00
  - user: rumpel
- - tags: ['moderation', 'lableak', 'facebook', 'wuhan', 'covid', 'censorship']
+ - tags: ['moderation', 'lab leak', 'facebook', 'wuhan', 'covid', 'censorship']
 
 ## The EARN IT Act: How to Ban End-to-End Encryption Without Actually Banning It | Center for Internet and Society
  - [https://cyberlaw.stanford.edu/blog/2020/01/earn-it-act-how-ban-end-end-encryption-without-actually-banning-it](https://cyberlaw.stanford.edu/blog/2020/01/earn-it-act-how-ban-end-end-encryption-without-actually-banning-it)
@@ -1610,7 +1622,7 @@
  - [https://www.tasnimnews.com/en/news/2020/01/24/2188257/disturbing-footages-show-people-collapsing-in-virus-hit-chinese-city-of-wuhan](https://www.tasnimnews.com/en/news/2020/01/24/2188257/disturbing-footages-show-people-collapsing-in-virus-hit-chinese-city-of-wuhan)
  - date published: 2020-01-24T07:54:11+00:00
  - user: rumpel
- - tags: ['lableak', 'wuhan', 'propaganda', 'fearmongering', 'covid']
+ - tags: ['lab leak', 'wuhan', 'propaganda', 'fearmongering', 'covid']
 
 ## Yuval Noah Harari: How to Survive the 21st Century- Davos 2020
  - [https://www.youtube.com/watch?v=gG6WnMb9Fho](https://www.youtube.com/watch?v=gG6WnMb9Fho)
@@ -1658,7 +1670,7 @@
  - [https://www.wsj.com/articles/new-virus-discovered-by-chinese-scientists-investigating-pneumonia-outbreak-11578485668?mod=article_inline](https://www.wsj.com/articles/new-virus-discovered-by-chinese-scientists-investigating-pneumonia-outbreak-11578485668?mod=article_inline)
  - date published: 2020-01-08T07:50:34+00:00
  - user: rumpel
- - tags: ['lableak', 'covid origins', 'covid', 'fearmongering']
+ - tags: ['lab leak', 'covid origins', 'covid', 'fearmongering']
 
 ## Joe Rogan on Ricky Gervais' Golden Globes Monologue
  - [https://www.youtube.com/watch?v=WRbaQrb3Jhk](https://www.youtube.com/watch?v=WRbaQrb3Jhk)

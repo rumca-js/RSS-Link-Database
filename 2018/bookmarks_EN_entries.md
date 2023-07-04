@@ -76,6 +76,12 @@
  - user: rumpel
  - tags: ['microchips', 'chip', 'sweden']
 
+## A New Facebook Suit Makes ‘Pivot to Video’ Even More Myopic | WIRED
+ - [https://www.wired.com/story/facebook-lawsuit-pivot-to-video-mistake/](https://www.wired.com/story/facebook-lawsuit-pivot-to-video-mistake/)
+ - date published: 2018-10-17T20:06:57+00:00
+ - user: rumpel
+ - tags: ['meta', 'technofeudalism', 'corporatocracy', 'facebook', 'manufacturing consent']
+
 ## A Clockwork Orange - Film Analysis & Meaning [Full HD]
  - [https://www.youtube.com/watch?v=dOvP58ioBRc](https://www.youtube.com/watch?v=dOvP58ioBRc)
  - date published: 2018-10-13T20:37:55+00:00
@@ -84,7 +90,7 @@
 
 ## Google vs DuckDuckGo | Search engine manipulation, censorship and why you should switch
  - [https://www.youtube.com/watch?v=SrsCEbi5N7Y](https://www.youtube.com/watch?v=SrsCEbi5N7Y)
- - date published: 2018-10-13T13:51:29+00:00
+ - date published: 2018-10-13T00:00:00+00:00
  - user: rumpel
  - tags: ['search engines', 'duckduckgo', 'dead internet', 'algorithms']
 
