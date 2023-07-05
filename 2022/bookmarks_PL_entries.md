@@ -1192,6 +1192,12 @@
  - user: rumpel
  - tags: ['wrong think', 'maps', 'censorship', 'technofeudalism', 'corporatocracy', 'google']
 
+## Ksiądz z filmu Sekielskich prawomocnie uniewinniony. Wyrok ws. Adama S. - tvp.info
+ - [https://www.tvp.info/58272688/ksiadz-z-filmu-sekielskich-prawomocnie-uniewinniony-wyrok-ws-adama-s](https://www.tvp.info/58272688/ksiadz-z-filmu-sekielskich-prawomocnie-uniewinniony-wyrok-ws-adama-s)
+ - date published: 2022-02-02T11:50:12+00:00
+ - user: rumpel
+ - tags: ['church scandal', 'religion']
+
 ## Komiks "Maus" zakazany. Cenzura w USA - PAN OD KULTURY
  - [https://panodkultury.com.pl/komiksy/komiks-maus-zakazany-cenzura-w-usa/](https://panodkultury.com.pl/komiksy/komiks-maus-zakazany-cenzura-w-usa/)
  - date published: 2022-01-30T14:00:43+00:00

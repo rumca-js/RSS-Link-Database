@@ -5572,6 +5572,12 @@
  - user: None
  - tags: ['covid', 'pandemic']
 
+## PayPal shuts down accounts of Free Speech Union
+ - [https://www.telegraph.co.uk/news/2022/09/20/paypal-shuts-accounts-free-speech-union/](https://www.telegraph.co.uk/news/2022/09/20/paypal-shuts-accounts-free-speech-union/)
+ - date published: 2022-09-20T11:54:15+00:00
+ - user: rumpel
+ - tags: ['the left wing', 'social score', 'intolerance', 'corporatocracy', 'censorship', 'technofeudalism', 'free speech', 'paypal']
+
 ## I accidentally started a movement – Policing the Police by scraping court data
  - [https://news.ycombinator.com/item?id=32902945](https://news.ycombinator.com/item?id=32902945)
  - date published: 2022-09-19T19:42:21+00:00

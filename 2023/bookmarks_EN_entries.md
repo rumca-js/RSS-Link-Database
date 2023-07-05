@@ -1,3 +1,15 @@
+## The Hypocrisy of Mandatory Diversity Statements
+ - [https://www.theatlantic.com/ideas/archive/2023/07/hypocrisy-mandatory-diversity-statements/674611/](https://www.theatlantic.com/ideas/archive/2023/07/hypocrisy-mandatory-diversity-statements/674611/)
+ - date published: 2023-07-04T11:36:59+00:00
+ - user: rumpel
+ - tags: ['sexism', 'the left wing', 'hypocrisy', 'racism']
+
+## Influencers Are Modern Day Cult Leaders - Content Capo
+ - [https://www.youtube.com/watch?v=geZSuEYfebc](https://www.youtube.com/watch?v=geZSuEYfebc)
+ - date published: 2023-07-04T06:17:58+00:00
+ - user: rumpel
+ - tags: ['social media', 'influencers']
+
 ## Self-Driving Cars Are Surveillance Cameras on Wheels
  - [https://www.schneier.com/blog/archives/2023/07/self-driving-cars-are-surveillance-cameras-on-wheels.html](https://www.schneier.com/blog/archives/2023/07/self-driving-cars-are-surveillance-cameras-on-wheels.html)
  - date published: 2023-07-03T13:11:59+00:00
@@ -9,6 +21,18 @@
  - date published: 2023-07-02T20:16:35+00:00
  - user: rumpel
  - tags: ['seo', 'algorithms', 'search engines', 'google']
+
+## Box Office: ‘Indiana Jones and the Dial of Destiny’ Bombs: Here’s Why – Deadline
+ - [https://deadline.com/2023/07/box-office-indiana-jones-and-the-dial-of-destiny-1235427644/](https://deadline.com/2023/07/box-office-indiana-jones-and-the-dial-of-destiny-1235427644/)
+ - date published: 2023-07-02T19:52:49+00:00
+ - user: rumpel
+ - tags: ['disney', 'movies', 'go woke go broke']
+
+## Banks told to uphold free speech after accounts blacklisted
+ - [https://www.telegraph.co.uk/business/2023/07/02/banks-warned-uphold-free-speech-accounts-blacklisted/](https://www.telegraph.co.uk/business/2023/07/02/banks-warned-uphold-free-speech-accounts-blacklisted/)
+ - date published: 2023-07-02T19:33:55+00:00
+ - user: rumpel
+ - tags: ['the right wing', 'cancel culture', 'england', 'deplatform', 'social score', 'censorship']
 
 ## Google Search's Death by a Thousand Cuts
  - [https://matt-rickard.com/google-searchs-death-by-a-thousand-cuts](https://matt-rickard.com/google-searchs-death-by-a-thousand-cuts)
@@ -45,6 +69,12 @@
  - date published: 2023-06-30T18:14:14+00:00
  - user: rumpel
  - tags: ['fahrenheit 451']
+
+## Nigel Farage: After my banking travails, I fear Britain is lost
+ - [https://www.telegraph.co.uk/news/2023/06/30/farage-after-my-banking-travails-i-fear-britain-is-lost/](https://www.telegraph.co.uk/news/2023/06/30/farage-after-my-banking-travails-i-fear-britain-is-lost/)
+ - date published: 2023-06-30T11:55:53+00:00
+ - user: rumpel
+ - tags: ['nigel farage', 'the right wing', 'banksters', 'deplatform', 'corporatocracy', 'censorship', 'technofeudalism', 'free speech']
 
 ## French Gov Wants to Inject Domain Blocking Lists Directly into Web Browsers
  - [https://torrentfreak.com/french-govt-wants-to-inject-domain-blocking-lists-directly-into-web-browsers-230630/](https://torrentfreak.com/french-govt-wants-to-inject-domain-blocking-lists-directly-into-web-browsers-230630/)
@@ -93,6 +123,12 @@
  - date published: 2023-06-28T13:41:18.698157+00:00
  - user: rumpel
  - tags: ['lockdown', 'covid']
+
+## Google may have misled dozens of advertisers and violated its own guidelines - report
+ - [https://www.theguardian.com/technology/2023/jun/28/google-may-have-misled-dozens-of-advertisers-and-violated-its-own-guidelines-report](https://www.theguardian.com/technology/2023/jun/28/google-may-have-misled-dozens-of-advertisers-and-violated-its-own-guidelines-report)
+ - date published: 2023-06-28T05:13:30+00:00
+ - user: rumpel
+ - tags: ['ad business', 'google']
 
 ## LetMeSpy, a stalkerware app spying on thousands, says it was hacked
  - [https://techcrunch.com/2023/06/27/letmespy-hacked-spyware-thousands/](https://techcrunch.com/2023/06/27/letmespy-hacked-spyware-thousands/)
