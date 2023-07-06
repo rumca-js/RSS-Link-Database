@@ -760,6 +760,12 @@
  - user: rumpel
  - tags: ['social media', 'social dilemma', 'society']
 
+## How to Destroy Surveillance Capitalism, a New Book by Cory Doctorow | OneZero
+ - [https://onezero.medium.com/how-to-destroy-surveillance-capitalism-8135e6744d59](https://onezero.medium.com/how-to-destroy-surveillance-capitalism-8135e6744d59)
+ - date published: 2020-08-26T08:09:11+00:00
+ - user: rumpel
+ - tags: ['surveillance capitalism', 'surveillance']
+
 ## Google stifles growing YouTube competitor LBRY by banning it from Play Store for pedantic reasons
  - [https://reclaimthenet.org/google-bans-lbry/](https://reclaimthenet.org/google-bans-lbry/)
  - date published: 2020-08-25T20:07:21+00:00

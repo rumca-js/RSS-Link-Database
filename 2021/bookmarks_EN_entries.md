@@ -1432,6 +1432,12 @@
  - user: rumpel
  - tags: ['blackrock', 'the left wing', 'climate change', 'esg']
 
+## Lawmakers: Amazon ‘may have lied to Congress’ about its business practices  - The Washington Post
+ - [https://www.washingtonpost.com/business/2021/10/18/amazon-congress-letter-third-party-data/](https://www.washingtonpost.com/business/2021/10/18/amazon-congress-letter-third-party-data/)
+ - date published: 2021-10-18T08:02:31+00:00
+ - user: rumpel
+ - tags: ['jeff bezos', 'corporatocracy', 'amazon', 'technofeudalism']
+
 ## The Javascript "ecosystem" is a hot mess and so is software development in general - nadh.in
  - [https://nadh.in/blog/javascript-ecosystem-software-development-are-a-hot-mess/](https://nadh.in/blog/javascript-ecosystem-software-development-are-a-hot-mess/)
  - date published: 2021-10-17T10:31:15+00:00
@@ -1515,6 +1521,12 @@
  - date published: 2021-10-13T13:03:47+00:00
  - user: None
  - tags: ['government', 'social engineering', 'big brother', 'propaganda', 'social media']
+
+## Amazon copied products and rigged search results, documents show
+ - [https://www.reuters.com/investigates/special-report/amazon-india-rigging/](https://www.reuters.com/investigates/special-report/amazon-india-rigging/)
+ - date published: 2021-10-13T08:03:21+00:00
+ - user: rumpel
+ - tags: ['corporatocracy', 'algorithms', 'technofeudalism', 'search engines', 'amazon']
 
 ## Firefox Suggest: An Anatomy of a PR Incident
  - [https://www.quippd.com/writing/2021/10/10/firefox-suggest-an-anatomy.html](https://www.quippd.com/writing/2021/10/10/firefox-suggest-an-anatomy.html)

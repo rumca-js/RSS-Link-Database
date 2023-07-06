@@ -1,3 +1,27 @@
+## Amazon CEO Asks His Hollywood Studio to Explain Its Big Spending
+ - [https://www.bloomberg.com/news/newsletters/2023-07-05/amazon-ceo-asks-his-hollywood-studio-to-explain-its-big-spending](https://www.bloomberg.com/news/newsletters/2023-07-05/amazon-ceo-asks-his-hollywood-studio-to-explain-its-big-spending)
+ - date published: 2023-07-05T14:57:07+00:00
+ - user: rumpel
+ - tags: ['amazon', 'movies', 'hollywood', 'go woke go broke']
+
+## Monday Was the Hottest Day Ever as Global Temperatures Rise
+ - [https://www.bloomberg.com/news/articles/2023-07-04/world-records-hottest-day-ever-on-july-3](https://www.bloomberg.com/news/articles/2023-07-04/world-records-hottest-day-ever-on-july-3)
+ - date published: 2023-07-05T04:20:21+00:00
+ - user: rumpel
+ - tags: ['global warming', 'climate change']
+
+## Bottles – Easily run Windows software on Linux
+ - [https://usebottles.com/](https://usebottles.com/)
+ - date published: 2023-07-04T21:47:58+00:00
+ - user: rumpel
+ - tags: ['linux']
+
+## How to build a website without frameworks and tons of libraries
+ - [https://www.kodingkitty.com/blog/how-to-build-a-website/](https://www.kodingkitty.com/blog/how-to-build-a-website/)
+ - date published: 2023-07-04T18:47:55+00:00
+ - user: rumpel
+ - tags: ['selfhost']
+
 ## The Hypocrisy of Mandatory Diversity Statements
  - [https://www.theatlantic.com/ideas/archive/2023/07/hypocrisy-mandatory-diversity-statements/674611/](https://www.theatlantic.com/ideas/archive/2023/07/hypocrisy-mandatory-diversity-statements/674611/)
  - date published: 2023-07-04T11:36:59+00:00
@@ -69,12 +93,6 @@
  - date published: 2023-06-30T18:14:14+00:00
  - user: rumpel
  - tags: ['fahrenheit 451']
-
-## Nigel Farage: After my banking travails, I fear Britain is lost
- - [https://www.telegraph.co.uk/news/2023/06/30/farage-after-my-banking-travails-i-fear-britain-is-lost/](https://www.telegraph.co.uk/news/2023/06/30/farage-after-my-banking-travails-i-fear-britain-is-lost/)
- - date published: 2023-06-30T11:55:53+00:00
- - user: rumpel
- - tags: ['nigel farage', 'the right wing', 'banksters', 'deplatform', 'corporatocracy', 'censorship', 'technofeudalism', 'free speech']
 
 ## French Gov Wants to Inject Domain Blocking Lists Directly into Web Browsers
  - [https://torrentfreak.com/french-govt-wants-to-inject-domain-blocking-lists-directly-into-web-browsers-230630/](https://torrentfreak.com/french-govt-wants-to-inject-domain-blocking-lists-directly-into-web-browsers-230630/)
@@ -400,6 +418,12 @@
  - user: rumpel
  - tags: ['technofeudalism', 'corporatocracy']
 
+## Google risks forced breakup of ad business as EU alleges shocking misconduct | Ars Technica
+ - [https://arstechnica.com/tech-policy/2023/06/google-may-soon-be-ordered-to-break-up-its-lucrative-ad-business-eu-warns/](https://arstechnica.com/tech-policy/2023/06/google-may-soon-be-ordered-to-break-up-its-lucrative-ad-business-eu-warns/)
+ - date published: 2023-06-14T08:06:26+00:00
+ - user: rumpel
+ - tags: ['monopoly', 'google', 'ad business']
+
 ## Reddit stripping moderators of rights and forcing subreddits to go public
  - [https://famichiki.jp/@Tsutsuku/110537730270070245](https://famichiki.jp/@Tsutsuku/110537730270070245)
  - date published: 2023-06-13T20:45:18+00:00
@@ -513,6 +537,12 @@
  - date published: 2023-06-09T16:35:47+00:00
  - user: rumpel
  - tags: ['movies', 'disney', 'go woke go broke']
+
+## The Enshittification Lifecycle of Online Platforms
+ - [https://kottke.org/23/01/the-enshittification-lifecycle-of-online-platforms](https://kottke.org/23/01/the-enshittification-lifecycle-of-online-platforms)
+ - date published: 2023-06-09T16:30:10+00:00
+ - user: rumpel
+ - tags: ['enshittification', 'internet', 'ad business']
 
 ## Covid disinformation unit made 'hourly contact' with tech firms to flag dissent, says Sarah Connolly
  - [https://www.telegraph.co.uk/news/2023/06/09/covid-disinformation-unit-hourly-tech-lockdown-dissent/](https://www.telegraph.co.uk/news/2023/06/09/covid-disinformation-unit-hourly-tech-lockdown-dissent/)
@@ -1083,6 +1113,12 @@
  - date published: 2023-05-24T12:27:19+00:00
  - user: rumpel
  - tags: ['surveillance', 'privacy', 'crypto wars', 'big brother']
+
+## To Save the News, We Must Shatter Ad-Tech | Electronic Frontier Foundation
+ - [https://www.eff.org/deeplinks/2023/05/save-news-we-must-shatter-ad-tech](https://www.eff.org/deeplinks/2023/05/save-news-we-must-shatter-ad-tech)
+ - date published: 2023-05-24T08:05:09+00:00
+ - user: rumpel
+ - tags: ['news media', 'mainstream media', 'ad business', 'legacy media']
 
 ## Dear Ubuntu
  - [https://hackaday.com/2023/05/22/dear-ubuntu/](https://hackaday.com/2023/05/22/dear-ubuntu/)
@@ -3232,6 +3268,12 @@
  - user: rumpel
  - tags: ['stingray', 'privacy', 'big brother', 'surveillance']
 
+## Users, advertisers – we are all trapped in the enshittification of the internet | John Naughton
+ - [https://www.theguardian.com/commentisfree/2023/mar/11/users-advertisers-we-are-all-trapped-in-the-enshittification-of-the-internet](https://www.theguardian.com/commentisfree/2023/mar/11/users-advertisers-we-are-all-trapped-in-the-enshittification-of-the-internet)
+ - date published: 2023-03-11T16:00:24+00:00
+ - user: rumpel
+ - tags: ['enshittification', 'ad business', 'internet']
+
 ## Post-decency politics: House Democrats use a hearing to attack free speech and a free press
  - [https://thehill.com/opinion/judiciary/3895242-post-decency-politics-house-democrats-use-a-hearing-to-attack-free-speech-and-a-free-press/](https://thehill.com/opinion/judiciary/3895242-post-decency-politics-house-democrats-use-a-hearing-to-attack-free-speech-and-a-free-press/)
  - date published: 2023-03-11T16:00:00+00:00
@@ -4724,7 +4766,7 @@
  - [https://pluralistic.net/2023/01/21/potemkin-ai/](https://pluralistic.net/2023/01/21/potemkin-ai/)
  - date published: 2023-01-21T18:32:03+00:00
  - user: rumpel
- - tags: ['ad business', 'seo', 'algorithms', 'search engines']
+ - tags: ['enshittification', 'seo', 'ad business', 'search engines', 'algorithms', 'internet']
 
 ## Big Pharma Greed’s Knows No Bounds
  - [https://www.thenation.com/article/economy/big-pharma-greed-knows-no-bounds/](https://www.thenation.com/article/economy/big-pharma-greed-knows-no-bounds/)

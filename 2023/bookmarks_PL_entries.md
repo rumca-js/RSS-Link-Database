@@ -1,3 +1,9 @@
+## Jeśli zielona transformacja ma się udać, potrzeba 700 mld euro rocznie. Media dotarły do projektu raportu KE
+ - [https://forsal.pl/biznes/ekologia/artykuly/8747074,jesli-zielona-transformacja-ma-sie-udac-potrzeba-700-mld-euro-rocznie.html](https://forsal.pl/biznes/ekologia/artykuly/8747074,jesli-zielona-transformacja-ma-sie-udac-potrzeba-700-mld-euro-rocznie.html)
+ - date published: 2023-07-05T11:54:32+00:00
+ - user: rumpel
+ - tags: ['climate change', 'global warming']
+
 ## Skala wymuszeń, korupcji i bezkarności największa w historii Ukrainy. Firmy mówią dość
  - [https://businessinsider.com.pl/gospodarka/korupcja-w-ukrainie-na-niespotykana-skale-firmy-zaapelowaly-do-prezydenta/cg7ejz2](https://businessinsider.com.pl/gospodarka/korupcja-w-ukrainie-na-niespotykana-skale-firmy-zaapelowaly-do-prezydenta/cg7ejz2)
  - date published: 2023-06-28T16:24:10+00:00
