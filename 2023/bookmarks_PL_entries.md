@@ -1,3 +1,9 @@
+## Wyjaśnień ws. umowy z Pfizerem nie będzie. Parlament Europejski kapituluje
+ - [https://forsal.pl/swiat/unia-europejska/artykuly/8747464,wyjasnien-ws-umowy-z-pfizerem-nie-bedzie-parlament-europejski-kapitu.html](https://forsal.pl/swiat/unia-europejska/artykuly/8747464,wyjasnien-ws-umowy-z-pfizerem-nie-bedzie-parlament-europejski-kapitu.html)
+ - date published: 2023-07-06T05:36:31+00:00
+ - user: rumpel
+ - tags: ['covid', 'vaccine', 'pfizer']
+
 ## Jeśli zielona transformacja ma się udać, potrzeba 700 mld euro rocznie. Media dotarły do projektu raportu KE
  - [https://forsal.pl/biznes/ekologia/artykuly/8747074,jesli-zielona-transformacja-ma-sie-udac-potrzeba-700-mld-euro-rocznie.html](https://forsal.pl/biznes/ekologia/artykuly/8747074,jesli-zielona-transformacja-ma-sie-udac-potrzeba-700-mld-euro-rocznie.html)
  - date published: 2023-07-05T11:54:32+00:00

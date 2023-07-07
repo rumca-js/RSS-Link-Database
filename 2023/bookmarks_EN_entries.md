@@ -1,3 +1,21 @@
+## Nearly half of the tap water in the US is contaminated with ‘forever chemicals,’
+ - [https://www.cnn.com/2023/07/05/health/pfas-nearly-half-us-tap-water-wellness/index.html](https://www.cnn.com/2023/07/05/health/pfas-nearly-half-us-tap-water-wellness/index.html)
+ - date published: 2023-07-06T14:50:29+00:00
+ - user: rumpel
+ - tags: ['pollution']
+
+## France passes bill to allow police remotely activate phone camera, microphone
+ - [https://gazettengr.com/france-passes-bill-to-allow-police-remotely-activate-phone-camera-microphone-spy-on-people/](https://gazettengr.com/france-passes-bill-to-allow-police-remotely-activate-phone-camera-microphone-spy-on-people/)
+ - date published: 2023-07-06T14:09:05+00:00
+ - user: rumpel
+ - tags: ['france', 'technofeudalism', 'surveillance', 'privacy']
+
+## Judge rules White House pressured social networks to “suppress free speech”
+ - [https://arstechnica.com/tech-policy/2023/07/judge-rules-white-house-pressured-social-networks-to-suppress-free-speech/](https://arstechnica.com/tech-policy/2023/07/judge-rules-white-house-pressured-social-networks-to-suppress-free-speech/)
+ - date published: 2023-07-06T12:19:39+00:00
+ - user: rumpel
+ - tags: ['government control', 'free speech', 'corporatocracy', 'technofeudalism']
+
 ## Amazon CEO Asks His Hollywood Studio to Explain Its Big Spending
  - [https://www.bloomberg.com/news/newsletters/2023-07-05/amazon-ceo-asks-his-hollywood-studio-to-explain-its-big-spending](https://www.bloomberg.com/news/newsletters/2023-07-05/amazon-ceo-asks-his-hollywood-studio-to-explain-its-big-spending)
  - date published: 2023-07-05T14:57:07+00:00
@@ -104,7 +122,7 @@
  - [https://github.com/karust/openserp](https://github.com/karust/openserp)
  - date published: 2023-06-29T20:04:15+00:00
  - user: rumpel
- - tags: ['search engines', 'algorithms', 'selfhost']
+ - tags: ['google', 'search engines', 'algorithms', 'selfhost']
 
 ## Colonel 'forced out of Army' after stating 'men cannot be women'
  - [https://www.telegraph.co.uk/news/2023/06/29/colonel-forced-out-of-army-after-saying-men-cant-be-women/](https://www.telegraph.co.uk/news/2023/06/29/colonel-forced-out-of-army-after-saying-men-cant-be-women/)

@@ -1174,6 +1174,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## MEPs European Parliament stand up for freedom against Digital Green Certificate Covid Pass ENG NED
+ - [https://www.youtube.com/watch?v=AZNG3KpaTOg](https://www.youtube.com/watch?v=AZNG3KpaTOg)
+ - date published: 2021-10-30T00:00:00+00:00
+ - user: rumpel
+ - tags: ['cristian terhes', 'covid', 'vaccine']
+
 ## Italy’s disputed homophobia bill defeated in Senate
  - [https://cruxnow.com/church-in-europe/2021/10/italys-disputed-homophobia-bill-defeated-in-senate](https://cruxnow.com/church-in-europe/2021/10/italys-disputed-homophobia-bill-defeated-in-senate)
  - date published: 2021-10-29T22:00:47+00:00

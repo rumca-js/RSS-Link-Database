@@ -4094,7 +4094,7 @@
  - [https://www.youtube.com/watch?v=HnSnQor8zDY](https://www.youtube.com/watch?v=HnSnQor8zDY)
  - date published: 2022-10-21T00:00:00+00:00
  - user: rumpel
- - tags: ['covid', 'big pharma', 'vaccine', 'contract']
+ - tags: ['cristian terhes', 'covid', 'vaccine', 'big pharma']
 
 ## Apple Is an Ad Company Now
  - [https://www.wired.com/story/apple-is-an-ad-company-now/](https://www.wired.com/story/apple-is-an-ad-company-now/)
@@ -5426,7 +5426,7 @@
  - [https://www.europereloaded.com/mep-cristian-terhes-grills-astrazeneca-moderna-about-vaccines-and-vaccine-contracts-during-eu-covid-committee-meeting/](https://www.europereloaded.com/mep-cristian-terhes-grills-astrazeneca-moderna-about-vaccines-and-vaccine-contracts-during-eu-covid-committee-meeting/)
  - date published: 2022-09-22T16:41:57+00:00
  - user: rumpel
- - tags: ['covid', 'vaccine']
+ - tags: ['cristian terhes', 'covid', 'vaccine']
 
 ## Lebanon's banks to stay shut indefinitely
  - [https://www.cnn.com/2022/09/22/asia/lebanon-banks-shut-holdups-intl/index.html](https://www.cnn.com/2022/09/22/asia/lebanon-banks-shut-holdups-intl/index.html)
