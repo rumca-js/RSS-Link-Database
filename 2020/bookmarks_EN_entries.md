@@ -1244,7 +1244,7 @@
  - [https://hbr.org/2020/06/the-10-commitments-companies-must-make-to-advance-racial-justice](https://hbr.org/2020/06/the-10-commitments-companies-must-make-to-advance-racial-justice)
  - date published: 2020-06-04T09:12:09+00:00
  - user: rumpel
- - tags: ['indoctrination', 'inequality', 'the left wing', 'racism']
+ - tags: ['propaganda', 'indoctrination', 'inequality', 'racism', 'the left wing']
 
 ## Blizzard Called Out For BLM Protest Support After Blitzchung Hong Kong Controversy
  - [https://screenrant.com/blizzard-protest-blackout-black-lives-matter-hong-kong/](https://screenrant.com/blizzard-protest-blackout-black-lives-matter-hong-kong/)
@@ -1486,6 +1486,12 @@
  - user: rumpel
  - tags: ['go woke go broke', 'lgbt', 'indoctrination', 'the left wing', 'comics']
 
+## Israeli Spyware Firm Wants to Track Data to Stop Coronavirus Spreading
+ - [https://www.bloomberg.com/news/articles/2020-03-17/surveillance-company-nso-supplying-data-analysis-to-stop-virus](https://www.bloomberg.com/news/articles/2020-03-17/surveillance-company-nso-supplying-data-analysis-to-stop-virus)
+ - date published: 2020-03-17T09:52:00+00:00
+ - user: rumpel
+ - tags: ['nso group ltd', 'big brother', 'surveillance', 'pandemics', 'israel']
+
 ## Did Video Show Italian Army Trucks Transporting Coffins Amid COVID-19 Pandemic? | Snopes.com
  - [https://www.snopes.com/fact-check/italy-army-coffins-coronavirus/](https://www.snopes.com/fact-check/italy-army-coffins-coronavirus/)
  - date published: 2020-03-16T08:13:33+00:00
@@ -1575,6 +1581,12 @@
  - date published: 2020-02-12T09:13:20+00:00
  - user: rumpel
  - tags: ['leader', 'managment', 'programming']
+
+## How the CIA used Crypto AG encryption devices to spy on countries for decades
+ - [https://www.washingtonpost.com/graphics/2020/world/national-security/cia-crypto-encryption-machines-espionage/](https://www.washingtonpost.com/graphics/2020/world/national-security/cia-crypto-encryption-machines-espionage/)
+ - date published: 2020-02-11T11:03:42+00:00
+ - user: rumpel
+ - tags: ['america', 'big brother', 'surveillance', 'spyware', 'tech control', 'crypto wars', 'government control', 'crypto ag', 'cia', 'espionage']
 
 ## U.K. Educator Uses YouTube To Treat Panic Of Coronavirus Myths
  - [https://www.forbes.com/sites/johnscottlewinski/2020/02/07/uk-doctor-uses-youtube-to-treat-panic-of-coronavirus-myths/](https://www.forbes.com/sites/johnscottlewinski/2020/02/07/uk-doctor-uses-youtube-to-treat-panic-of-coronavirus-myths/)

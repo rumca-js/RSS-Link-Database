@@ -40,6 +40,12 @@
  - user: rumpel
  - tags: ['big brother', 'nginx', 'russia']
 
+## Google Hands Feds 1,500 Phone Locations In Unprecedented ‘Geofence’ Search
+ - [https://www.forbes.com/sites/thomasbrewster/2019/12/11/google-gives-feds-1500-leads-to-arsonist-smartphones-in-unprecedented-geofence-search/](https://www.forbes.com/sites/thomasbrewster/2019/12/11/google-gives-feds-1500-leads-to-arsonist-smartphones-in-unprecedented-geofence-search/)
+ - date published: 2019-12-11T09:55:37+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'tracking', 'google', 'technofeudalism']
+
 ## Senators threaten encryption regulation for tech companies
  - [https://www.cnbc.com/2019/12/10/senators-threaten-encryption-regulation-for-tech-companies.html](https://www.cnbc.com/2019/12/10/senators-threaten-encryption-regulation-for-tech-companies.html)
  - date published: 2019-12-10T07:38:08+00:00
@@ -700,6 +706,12 @@
  - user: rumpel
  - tags: ['universities', 'science is dead', 'gender', 'indoctrination', 'the left wing']
 
+## Tracking Phones, Google Is a Dragnet for the Police - The New York Times
+ - [https://www.nytimes.com/interactive/2019/04/13/us/google-location-tracking-police.html](https://www.nytimes.com/interactive/2019/04/13/us/google-location-tracking-police.html)
+ - date published: 2019-04-13T09:54:57+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'tracking', 'google', 'corporatocracy']
+
 ## Amazon employees are listening to what you say to Alexa — here's how to stop them
  - [https://www.cnbc.com/2019/04/11/how-to-stop-amazon-from-listening-to-what-you-say-to-alexa.html](https://www.cnbc.com/2019/04/11/how-to-stop-amazon-from-listening-to-what-you-say-to-alexa.html)
  - date published: 2019-04-11T20:49:08+00:00
@@ -783,6 +795,12 @@
  - date published: 2019-02-18T10:10:15+00:00
  - user: rumpel
  - tags: ['privacy', 'facebook', 'big tech']
+
+## How did the police know you were near a crime scene? Google told them | MPR News
+ - [https://www.mprnews.org/story/2019/02/07/google-location-police-search-warrants](https://www.mprnews.org/story/2019/02/07/google-location-police-search-warrants)
+ - date published: 2019-02-07T09:56:21+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'tracking', 'google']
 
 ## WEF defends jet-setting elites amid climate change agenda
  - [https://www.cnbc.com/2019/01/25/wef-defends-jet-setting-elites-amid-climate-change-agenda.html](https://www.cnbc.com/2019/01/25/wef-defends-jet-setting-elites-amid-climate-change-agenda.html)

@@ -674,7 +674,7 @@
  - [https://ithardware.pl/aktualnosci/blizzard_bedzie_nagrywal_rozmowy_glosowe_w_overwatch_2-23549.html](https://ithardware.pl/aktualnosci/blizzard_bedzie_nagrywal_rozmowy_glosowe_w_overwatch_2-23549.html)
  - date published: 2022-09-27T21:30:00+00:00
  - user: None
- - tags: ['privacy', 'surveillance', 'technofeudalism']
+ - tags: ['privacy', 'surveillance', 'technofeudalism', 'blizzard']
 
 ## Niemcy chcą przedłużyć pracę dwóch elektrowni jądrowych
  - [https://www.bankier.pl/wiadomosc/Niemcy-chca-przedluzyc-prace-dwoch-elektrowni-jadrowych-8412895.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Niemcy-chca-przedluzyc-prace-dwoch-elektrowni-jadrowych-8412895.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -752,7 +752,7 @@
  - [https://ithardware.pl/aktualnosci/usa_przeznaczy_prawie_700_000_dolarow_na_szukanie_ekstremizmu_w_grach_wideo-23418.html](https://ithardware.pl/aktualnosci/usa_przeznaczy_prawie_700_000_dolarow_na_szukanie_ekstremizmu_w_grach_wideo-23418.html)
  - date published: 2022-09-21T09:24:10+00:00
  - user: None
- - tags: ['surveillance', 'disinformation', 'government control', 'misinformation', 'big brother', 'usa']
+ - tags: ['surveillance', 'usa', 'misinformation', 'big brother', 'government control', 'extremism', 'disinformation']
 
 ## Pod presją USA tureckie banki odcinają rosyjski system płatności Mir
  - [https://www.wykop.pl/link/6825921/pod-presja-usa-tureckie-banki-odcinaja-rosyjski-system-platnosci-mir/](https://www.wykop.pl/link/6825921/pod-presja-usa-tureckie-banki-odcinaja-rosyjski-system-platnosci-mir/)
@@ -1064,7 +1064,7 @@
  - [https://ithardware.pl/aktualnosci/pakistan_grozi_odcieciem_dysydentow_od_biometrycznego_systemu_cyfrowej_identyfikacji-22922.html](https://ithardware.pl/aktualnosci/pakistan_grozi_odcieciem_dysydentow_od_biometrycznego_systemu_cyfrowej_identyfikacji-22922.html)
  - date published: 2022-08-24T21:03:40+00:00
  - user: None
- - tags: ['biometric', 'surveillance', 'big brother', 'big tech', 'pakistan']
+ - tags: ['technofeudalism', 'big brother', 'surveillance', 'big tech', 'biometric', 'pakistan']
 
 ## "Oto dlaczego nigdy nie będę miał ""inteligentnego dzwonka do drzwi"""
  - [https://antyweb.pl/amazon-ring-inteligentny-dzwonek](https://antyweb.pl/amazon-ring-inteligentny-dzwonek)

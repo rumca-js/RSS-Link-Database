@@ -608,7 +608,7 @@
  - [https://www.csoonline.com/article/3248825/security/skygofree-powerful-android-spyware-with-advanced-surveillance-tools.html](https://www.csoonline.com/article/3248825/security/skygofree-powerful-android-spyware-with-advanced-surveillance-tools.html)
  - date published: 2018-01-18T06:47:39+00:00
  - user: None
- - tags: ['privacy', 'surveillance', 'google', 'skygofree', 'android']
+ - tags: ['espionage', 'skygofree', 'google', 'android', 'privacy', 'surveillance']
 
 ## Jordan B. Peterson on 12 Rules for Life
  - [https://www.youtube.com/watch?v=-5RCmu-HuTg](https://www.youtube.com/watch?v=-5RCmu-HuTg)

@@ -1,3 +1,51 @@
+## Companies Think Their Idiot Customers Will Accidentally Cancel Their Subscriptions if It's Too Easy
+ - [https://gizmodo.com/cancel-subscription-ftc-click-to-cancel-pushback-1850615222](https://gizmodo.com/cancel-subscription-ftc-click-to-cancel-pushback-1850615222)
+ - date published: 2023-07-07T17:23:00+00:00
+ - user: rumpel
+ - tags: ['dark design']
+
+## Charger outages leave northern Ontario EV drivers stranded
+ - [https://www.cbc.ca/news/canada/thunder-bay/ev-charger-outtages-northern-ontario-1.6895863](https://www.cbc.ca/news/canada/thunder-bay/ev-charger-outtages-northern-ontario-1.6895863)
+ - date published: 2023-07-07T14:32:20+00:00
+ - user: rumpel
+ - tags: ['electric vehicles']
+
+## Privacy concerns with Facebook - Wikipedia
+ - [https://en.wikipedia.org/wiki/Privacy_concerns_with_Facebook](https://en.wikipedia.org/wiki/Privacy_concerns_with_Facebook)
+ - date published: 2023-07-07T11:35:38+00:00
+ - user: rumpel
+ - tags: ['privacy', 'meta', 'facebook']
+
+## Criticism of Facebook - Wikipedia
+ - [https://en.wikipedia.org/wiki/Criticism_of_Facebook](https://en.wikipedia.org/wiki/Criticism_of_Facebook)
+ - date published: 2023-07-07T11:34:15+00:00
+ - user: rumpel
+ - tags: ['meta', 'censorship', 'social media', 'facebook']
+
+## Sensorvault - Wikipedia
+ - [https://en.wikipedia.org/wiki/Sensorvault](https://en.wikipedia.org/wiki/Sensorvault)
+ - date published: 2023-07-07T09:54:03+00:00
+ - user: rumpel
+ - tags: ['tracking', 'google', 'sensorvault']
+
+## 32“ E Ink screen that displays daily newspapers on your wall
+ - [https://projecteink.com/pages/about](https://projecteink.com/pages/about)
+ - date published: 2023-07-07T08:58:32+00:00
+ - user: rumpel
+ - tags: ['selfhost', 'project']
+
+## GitHub - outcoldman/hackernews-personal-blogs: List of Public Blogs of Hacker News users
+ - [https://github.com/outcoldman/hackernews-personal-blogs/tree/master](https://github.com/outcoldman/hackernews-personal-blogs/tree/master)
+ - date published: 2023-07-07T06:16:01+00:00
+ - user: rumpel
+ - tags: ['project', 'blogs']
+
+## All the red flags in the Threads privacy policy
+ - [https://qz.com/threads-meta-delayed-launch-eu-privacy-policy-concerns-1850609340](https://qz.com/threads-meta-delayed-launch-eu-privacy-policy-concerns-1850609340)
+ - date published: 2023-07-07T00:22:21+00:00
+ - user: rumpel
+ - tags: ['mark zuckerberg', 'facebook', 'meta']
+
 ## Nearly half of the tap water in the US is contaminated with ‘forever chemicals,’
  - [https://www.cnn.com/2023/07/05/health/pfas-nearly-half-us-tap-water-wellness/index.html](https://www.cnn.com/2023/07/05/health/pfas-nearly-half-us-tap-water-wellness/index.html)
  - date published: 2023-07-06T14:50:29+00:00
@@ -22,6 +70,12 @@
  - user: rumpel
  - tags: ['amazon', 'movies', 'hollywood', 'go woke go broke']
 
+## These Cruise Ships Emit More Air Pollution Than All the Cars in Europe
+ - [https://www.businessinsider.com/cruise-ship-air-pollution-carnival-cars-europe-study-2023-6?IR=T](https://www.businessinsider.com/cruise-ship-air-pollution-carnival-cars-europe-study-2023-6?IR=T)
+ - date published: 2023-07-05T10:52:02+00:00
+ - user: rumpel
+ - tags: ['electric vehicles', 'climate change', 'global warming']
+
 ## Monday Was the Hottest Day Ever as Global Temperatures Rise
  - [https://www.bloomberg.com/news/articles/2023-07-04/world-records-hottest-day-ever-on-july-3](https://www.bloomberg.com/news/articles/2023-07-04/world-records-hottest-day-ever-on-july-3)
  - date published: 2023-07-05T04:20:21+00:00
@@ -45,6 +99,12 @@
  - date published: 2023-07-04T11:36:59+00:00
  - user: rumpel
  - tags: ['sexism', 'the left wing', 'hypocrisy', 'racism']
+
+## Gunman arrested for Philadelphia mass shooting that left 5 dead is BLM activist who wore women's clothes
+ - [https://nypost.com/2023/07/04/kimbrady-carriker-ided-as-philadelphia-gunman-accused-of-killing-5/](https://nypost.com/2023/07/04/kimbrady-carriker-ided-as-philadelphia-gunman-accused-of-killing-5/)
+ - date published: 2023-07-04T10:57:07+00:00
+ - user: rumpel
+ - tags: ['the left wing', 'black lives matters', 'inequality']
 
 ## Influencers Are Modern Day Cult Leaders - Content Capo
  - [https://www.youtube.com/watch?v=geZSuEYfebc](https://www.youtube.com/watch?v=geZSuEYfebc)
@@ -123,6 +183,12 @@
  - date published: 2023-06-29T20:04:15+00:00
  - user: rumpel
  - tags: ['google', 'search engines', 'algorithms', 'selfhost']
+
+## Meta wants to turn Facebook into an App Store replacement
+ - [https://9to5mac.com/2023/06/29/meta-facebook-app-store/](https://9to5mac.com/2023/06/29/meta-facebook-app-store/)
+ - date published: 2023-06-29T17:27:47+00:00
+ - user: rumpel
+ - tags: ['digital service act']
 
 ## Colonel 'forced out of Army' after stating 'men cannot be women'
  - [https://www.telegraph.co.uk/news/2023/06/29/colonel-forced-out-of-army-after-saying-men-cant-be-women/](https://www.telegraph.co.uk/news/2023/06/29/colonel-forced-out-of-army-after-saying-men-cant-be-women/)
@@ -795,12 +861,6 @@
  - date published: 2023-06-03T15:22:11+00:00
  - user: rumpel
  - tags: ['christianophobia']
-
-## How the CIA used Crypto AG encryption devices to spy on countries for decades
- - [https://www.washingtonpost.com/graphics/2020/world/national-security/cia-crypto-encryption-machines-espionage/](https://www.washingtonpost.com/graphics/2020/world/national-security/cia-crypto-encryption-machines-espionage/)
- - date published: 2023-06-03T11:03:42+00:00
- - user: rumpel
- - tags: ['america', 'big brother', 'surveillance', 'spyware', 'tech control', 'crypto wars', 'government control', 'crypto ag', 'cia', 'espionage']
 
 ## The distribution model is changing
  - [https://www.ypsidanger.com/the-distribution-model-is-changing/](https://www.ypsidanger.com/the-distribution-model-is-changing/)
@@ -1520,7 +1580,7 @@
  - [https://www.youtube.com/watch?v=mouSkcAltqM](https://www.youtube.com/watch?v=mouSkcAltqM)
  - date published: 2023-05-10T16:00:35+00:00
  - user: rumpel
- - tags: ['hobby', 'youtuber']
+ - tags: ['content creation', 'linus sebastian', 'movies', 'youtuber']
 
 ## Google breaking European privacy law by hoarding personal data of job candidates
  - [https://fortune.com/2023/05/10/exclusive-google-recruitment-ghire-gdpr-violation-whistleblower/](https://fortune.com/2023/05/10/exclusive-google-recruitment-ghire-gdpr-violation-whistleblower/)
@@ -1954,12 +2014,6 @@
  - user: rumpel
  - tags: ['mastodon', 'open source']
 
-## Former Tory MP Andrew Bridgen expelled permanently from party
- - [https://www.theguardian.com/politics/2023/apr/26/former-tory-mp-andrew-bridgen-expelled-permanently-from-party](https://www.theguardian.com/politics/2023/apr/26/former-tory-mp-andrew-bridgen-expelled-permanently-from-party)
- - date published: 2023-04-26T14:24:03+00:00
- - user: rumpel
- - tags: ['covid', 'andrew bridgen', 'anti-vax', 'the right wing']
-
 ## Mastodon Is Doomed
  - [https://justingarrison.com/blog/2023-04-24-mastodon-is-doomed/](https://justingarrison.com/blog/2023-04-24-mastodon-is-doomed/)
  - date published: 2023-04-26T14:09:03+00:00
@@ -2055,6 +2109,12 @@
  - date published: 2023-04-23T10:31:06+00:00
  - user: rumpel
  - tags: ['covid collateral damage', 'covid', 'lockdown']
+
+## Israel Police use of NSO spyware set to be probed by Knesset subcommittee | The Times of Israel
+ - [https://www.timesofisrael.com/israel-police-use-of-nso-spyware-set-to-be-probed-by-knesset-subcommittee/](https://www.timesofisrael.com/israel-police-use-of-nso-spyware-set-to-be-probed-by-knesset-subcommittee/)
+ - date published: 2023-04-23T09:50:31+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'espionage', 'israel', 'pegasus']
 
 ## Chinese Censorship Is Quietly Rewriting the Covid-19 Story
  - [https://www.nytimes.com/2023/04/23/world/europe/chinese-censorship-covid.html](https://www.nytimes.com/2023/04/23/world/europe/chinese-censorship-covid.html)
@@ -3070,12 +3130,6 @@
  - user: rumpel
  - tags: ['covid', 'wuhan']
 
-## Andrew Bridgen: Disgraced MP free to raise anti-vax conspiracy theories in the Commons, Speaker says
- - [https://inews.co.uk/news/politics/andrew-bridgen-disgraced-mp-anti-vax-conspiracy-theories-commons-speaker-2217694?ico=most_popular](https://inews.co.uk/news/politics/andrew-bridgen-disgraced-mp-anti-vax-conspiracy-theories-commons-speaker-2217694?ico=most_popular)
- - date published: 2023-03-17T07:19:58+00:00
- - user: rumpel
- - tags: ['the right wing', 'andrew bridgen', 'vaccine', 'covid', 'anti-vax']
-
 ## Musk says Twitter will make tweet recommendation algorithm code open source on March 31 | Shacknews
  - [https://www.shacknews.com/article/134640/musk-twitter-open-source-code-recommended-tweets-march-31](https://www.shacknews.com/article/134640/musk-twitter-open-source-code-recommended-tweets-march-31)
  - date published: 2023-03-17T06:27:32+00:00
@@ -3800,7 +3854,7 @@
  - [https://edition.cnn.com/2023/02/23/tech/doj-sanctions-google-intentional-destruction-chat-logs/index.html](https://edition.cnn.com/2023/02/23/tech/doj-sanctions-google-intentional-destruction-chat-logs/index.html)
  - date published: 2023-02-23T11:13:47+00:00
  - user: rumpel
- - tags: ['google', 'antitrust', 'big tech']
+ - tags: ['google', 'sundar pichai', 'antitrust', 'big tech']
 
 ## Ubuntu Flavors Agree to Stop Using Flatpak
  - [https://www.omgubuntu.co.uk/2023/02/ubuntu-flavors-no-flatpak](https://www.omgubuntu.co.uk/2023/02/ubuntu-flavors-no-flatpak)
@@ -4250,7 +4304,7 @@
  - [https://www.gizmodo.com.au/2023/02/top-android-phones-from-china-are-packed-with-spyware-research-finds/](https://www.gizmodo.com.au/2023/02/top-android-phones-from-china-are-packed-with-spyware-research-finds/)
  - date published: 2023-02-08T07:41:53+00:00
  - user: rumpel
- - tags: ['smartphone', 'big brother', 'china', 'privacy', 'surveillance', 'android']
+ - tags: ['big brother', 'privacy', 'smartphone', 'china', 'android', 'espionage', 'surveillance']
 
 ## Turkey Blocks Twitter After Public Criticism of Quake Response | Balkan Insight
  - [https://balkaninsight.com/2023/02/08/turkey-blocks-twitter-after-public-criticism-of-quake-response/](https://balkaninsight.com/2023/02/08/turkey-blocks-twitter-after-public-criticism-of-quake-response/)
@@ -5433,12 +5487,6 @@
  - date published: 2023-01-09T20:12:54+00:00
  - user: rumpel
  - tags: ['newspeak', 'the left wing', 'social engineering']
-
-## The White House Covid Censorship Machine
- - [https://dailysceptic.org/2023/01/09/the-white-house-covid-censorship-machine/](https://dailysceptic.org/2023/01/09/the-white-house-covid-censorship-machine/)
- - date published: 2023-01-09T17:00:00+00:00
- - user: rumpel
- - tags: ['big brother', 'covid', 'censorship']
 
 ## Lizzo says cancel culture has become 'misused and misdirected'
  - [https://www.cnn.com/2023/01/09/entertainment/lizzo-cancel-culture/index.html](https://www.cnn.com/2023/01/09/entertainment/lizzo-cancel-culture/index.html)

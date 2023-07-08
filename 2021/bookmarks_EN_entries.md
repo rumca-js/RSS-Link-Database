@@ -386,7 +386,7 @@
  - [https://nypost.com/2021/12/14/facebook-admits-the-truth-fact-checks-are-really-just-lefty-opinion/](https://nypost.com/2021/12/14/facebook-admits-the-truth-fact-checks-are-really-just-lefty-opinion/)
  - date published: 2021-12-14T20:30:03+00:00
  - user: rumpel
- - tags: ['fact check', 'facebook', 'covid']
+ - tags: ['covid', 'facebook', 'propaganda', 'fact check']
 
 ## Announcement: Clearview AI ordered to comply with recommendations to stop collecting, sharing images - Office of the Privacy Commissioner of Canada
  - [https://www.priv.gc.ca/en/opc-news/news-and-announcements/2021/an_211214/](https://www.priv.gc.ca/en/opc-news/news-and-announcements/2021/an_211214/)
@@ -1191,12 +1191,6 @@
  - date published: 2021-10-29T08:40:19+00:00
  - user: rumpel
  - tags: ['netflix', 'climate change', 'climate drama', 'carbon emissions', 'youtube']
-
-## MEP's stand up for our right to freedom after imposing Digital Green Certificate to enter Parliament
- - [https://www.youtube.com/watch?v=lEkvD5To02U](https://www.youtube.com/watch?v=lEkvD5To02U)
- - date published: 2021-10-29T07:44:54+00:00
- - user: None
- - tags: ['european union', 'contract', 'covid']
 
 ## US issues first gender-neutral 'X' passport - BBC News
  - [https://www.bbc.co.uk/news/world-us-canada-59076614](https://www.bbc.co.uk/news/world-us-canada-59076614)
@@ -3866,7 +3860,7 @@
  - [https://www.reuters.com/world/europe/us-security-agency-spied-merkel-other-top-european-officials-through-danish-2021-05-30/](https://www.reuters.com/world/europe/us-security-agency-spied-merkel-other-top-european-officials-through-danish-2021-05-30/)
  - date published: 2021-05-31T11:51:40+00:00
  - user: None
- - tags: ['surveillance', 'angela merkel']
+ - tags: ['angela merkel', 'surveillance', 'espionage']
 
 ## 'Blue's Clues' releases LGBTQ-themed sing-along video for Pride Month
  - [https://www.today.com/popculture/blue-s-clues-releases-lgbtq-themed-sing-along-video-pride-t220295](https://www.today.com/popculture/blue-s-clues-releases-lgbtq-themed-sing-along-video-pride-t220295)

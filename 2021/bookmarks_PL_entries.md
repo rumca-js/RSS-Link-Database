@@ -16,17 +16,11 @@
  - user: None
  - tags: ['cbdc']
 
-## Pierwsze "poufne" dokumenty Pfizera ujawnione z nakazu sądowego
- - [https://www.pokoleniex.com/swiat/2021/12/14/pierwsze-poufne-dokumenty-pfizera-ujawnione-z-nakazu-sadowego](https://www.pokoleniex.com/swiat/2021/12/14/pierwsze-poufne-dokumenty-pfizera-ujawnione-z-nakazu-sadowego)
- - date published: 2021-12-14T11:33:54+00:00
- - user: None
- - tags: ['big pharma', 'vaccine', 'covid', 'pfizer', 'fda']
-
 ## "Pierwsze ""poufne"" dokumenty Pfizera ujawnione z nakazu sądowego"
  - [https://www.pokoleniex.com/swiat/2021/12/14/pierwsze-poufne-dokumenty-pfizera-ujawnione-z-nakazu-sadowego/](https://www.pokoleniex.com/swiat/2021/12/14/pierwsze-poufne-dokumenty-pfizera-ujawnione-z-nakazu-sadowego/)
  - date published: 2021-12-14T07:05:12+00:00
  - user: None
- - tags: ['pfizer', 'covid']
+ - tags: ['covid', 'vaccine', 'pfizer', 'big pharma']
 
 ## Dziwne rozbieżności w danych o zgonach na COVID-19. Region regionowi nierówny
  - [https://businessinsider.com.pl/wiadomosci/dziwne-rozbieznosci-w-danych-o-zgonach-na-covid-19-region-regionowi-nierowny/qdrsy0w](https://businessinsider.com.pl/wiadomosci/dziwne-rozbieznosci-w-danych-o-zgonach-na-covid-19-region-regionowi-nierowny/qdrsy0w)
@@ -327,12 +321,6 @@
  - date published: 2021-02-19T09:42:45+00:00
  - user: rumpel
  - tags: ['documentary']
-
-## "Kanadyjczycy są aresztowani i wywożeni". Prawnicy reagują na koronawirusowe restrykcje
- - [https://www.polsatnews.pl/wiadomosc/2021-02-04/kanadyjczycy-sa-aresztowani-i-wywozeni-prawnicy-reaguja-na-koronawirusowe-restrykcje](https://www.polsatnews.pl/wiadomosc/2021-02-04/kanadyjczycy-sa-aresztowani-i-wywozeni-prawnicy-reaguja-na-koronawirusowe-restrykcje)
- - date published: 2021-02-04T21:35:56+00:00
- - user: rumpel
- - tags: ['canada', 'covid']
 
 ## "Kanadyjczycy są aresztowani i wywożeni". Prawnicy reagują na koronawirusowe restrykcje
  - [https://www.polsatnews.pl/wiadomosc/2021-02-04/kanadyjczycy-sa-aresztowani-i-wywozeni-prawnicy-reaguja-na-koronawirusowe-restrykcje/](https://www.polsatnews.pl/wiadomosc/2021-02-04/kanadyjczycy-sa-aresztowani-i-wywozeni-prawnicy-reaguja-na-koronawirusowe-restrykcje/)

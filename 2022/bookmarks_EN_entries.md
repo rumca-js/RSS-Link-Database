@@ -908,7 +908,7 @@
  - [https://en.wikipedia.org/wiki/Criticism_of_Microsoft](https://en.wikipedia.org/wiki/Criticism_of_Microsoft)
  - date published: 2022-12-16T07:25:37+00:00
  - user: None
- - tags: ['controversy', 'bill gates', 'microsoft', 'all time']
+ - tags: ['microsoft', 'all time', 'dark design', 'bill gates', 'corporatocracy']
 
 ## Elon Musk suspending CNN, NYT journalists from Twitter has users decrying double standard: 'No shame'
  - [https://www.foxnews.com/us/elon-musk-suspending-cnn-nyt-journalists-twitter-users-decrying-double-standard-no-shame](https://www.foxnews.com/us/elon-musk-suspending-cnn-nyt-journalists-twitter-users-decrying-double-standard-no-shame)
@@ -1550,7 +1550,7 @@
  - [https://www.youtube.com/watch?v=RwW0Yfy0oCw](https://www.youtube.com/watch?v=RwW0Yfy0oCw)
  - date published: 2022-12-05T14:32:49+00:00
  - user: None
- - tags: ['monopoly', 'chips', 'all time']
+ - tags: ['monopoly', 'tsmc', 'chips', 'all time']
 
 ## Nobody’s using CBDCs. India’s piloting one anyway
  - [https://techmonitor.ai/policy/digital-economy/nobodys-using-cbdcs-indias-piloting-one-anyway](https://techmonitor.ai/policy/digital-economy/nobodys-using-cbdcs-indias-piloting-one-anyway)
@@ -2984,7 +2984,7 @@
  - [https://www.dailywire.com/news/anti-woke-youtube-competitor-rumble-tells-france-au-revoir-over-censorship-demands](https://www.dailywire.com/news/anti-woke-youtube-competitor-rumble-tells-france-au-revoir-over-censorship-demands)
  - date published: 2022-11-02T09:21:52+00:00
  - user: None
- - tags: ['the right wing', 'rumple', 'donald trump', 'censorship', 'moderation']
+ - tags: ['the right wing', 'donald trump', 'censorship', 'rumble', 'moderation']
 
 ## Biden blasted for blaming high inflation on ‘war in Iraq,’ confusion on where his son died: ‘This is just sad’
  - [https://www.foxnews.com/media/biden-blasted-blaming-high-inflation-war-iraq-confusion-son-died-sad](https://www.foxnews.com/media/biden-blasted-blaming-high-inflation-war-iraq-confusion-son-died-sad)
@@ -3710,7 +3710,7 @@
  - [https://niespodd.github.io/webrtc-local-ip-leak/](https://niespodd.github.io/webrtc-local-ip-leak/)
  - date published: 2022-10-25T08:19:02+00:00
  - user: None
- - tags: ['google', 'privacy', 'chromium']
+ - tags: ['google', 'privacy', 'chromium', 'vulnerability']
 
 ## Don’t let the great ESG self-deception infect climate tech investing
  - [https://www.maddyness.com/uk/2022/10/24/dont-let-the-great-esg-self-deception-infect-climate-tech-investing/](https://www.maddyness.com/uk/2022/10/24/dont-let-the-great-esg-self-deception-infect-climate-tech-investing/)
@@ -7766,7 +7766,7 @@
  - [https://www.bloomberg.com/news/features/2022-07-12/wechat-is-china-s-beloved-surveillance-tool?leadSource=uverify%20wall](https://www.bloomberg.com/news/features/2022-07-12/wechat-is-china-s-beloved-surveillance-tool?leadSource=uverify%20wall)
  - date published: 2022-07-12T15:58:01+00:00
  - user: rumpel
- - tags: ['wechat', 'big brother', 'surveillance', 'privacy', 'big tech', 'china']
+ - tags: ['wechat', 'china', 'big tech', 'surveillance', 'privacy', 'everything app', 'big brother']
 
 ## Photographer Documents All 12,795 Items That She Owns | PetaPixel
  - [https://petapixel.com/2022/07/08/photographer-documents-all-12795-items-that-she-owns/](https://petapixel.com/2022/07/08/photographer-documents-all-12795-items-that-she-owns/)
@@ -9824,7 +9824,7 @@
  - [https://news.yahoo.com/judge-jackson-refuses-define-woman-122717280.html](https://news.yahoo.com/judge-jackson-refuses-define-woman-122717280.html)
  - date published: 2022-03-23T22:43:23+00:00
  - user: rumpel
- - tags: ['science is dead', 'feminism', 'propaganda', 'what is a woman']
+ - tags: ['feminism', 'propaganda', 'science is dead', 'indoctrination', 'what is a woman']
 
 ## Lia Thomas: Florida governor Ron DeSantis refuses to recognise Thomas win - BBC Sport
  - [https://www.bbc.co.uk/sport/swimming/60842863](https://www.bbc.co.uk/sport/swimming/60842863)
