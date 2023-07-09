@@ -242,7 +242,7 @@
  - [https://www.the-sun.com/news/4315751/donald-trump-epstein-lolita-express-ghislaine-maxwell/](https://www.the-sun.com/news/4315751/donald-trump-epstein-lolita-express-ghislaine-maxwell/)
  - date published: 2021-12-21T11:50:07+00:00
  - user: rumpel
- - tags: ['donald trump', 'elites', 'jeffrey epstein', 'billionaires']
+ - tags: ['lolita express', 'donald trump', 'billionaires', 'jeffrey epstein', 'elites']
 
 ## Omicron coverage reveals how the establishment, media keep us scared
  - [https://nypost.com/2021/12/21/omicron-coverage-reveals-how-the-establishment-media-keep-us-scared/](https://nypost.com/2021/12/21/omicron-coverage-reveals-how-the-establishment-media-keep-us-scared/)

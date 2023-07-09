@@ -1,3 +1,15 @@
+## How and Why I Stopped Buying New Laptops (2020)
+ - [https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops/](https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops/)
+ - date published: 2023-07-08T17:47:28+00:00
+ - user: rumpel
+ - tags: ['project']
+
+## Scams upon scams: The data-driven advertising grift
+ - [https://anotherangrywoman.com/2023/07/05/scams-upon-scams-the-data-driven-advertising-grift/](https://anotherangrywoman.com/2023/07/05/scams-upon-scams-the-data-driven-advertising-grift/)
+ - date published: 2023-07-08T12:12:31+00:00
+ - user: rumpel
+ - tags: ['google', 'facebook', 'ad business']
+
 ## Companies Think Their Idiot Customers Will Accidentally Cancel Their Subscriptions if It's Too Easy
  - [https://gizmodo.com/cancel-subscription-ftc-click-to-cancel-pushback-1850615222](https://gizmodo.com/cancel-subscription-ftc-click-to-cancel-pushback-1850615222)
  - date published: 2023-07-07T17:23:00+00:00
@@ -9,6 +21,12 @@
  - date published: 2023-07-07T14:32:20+00:00
  - user: rumpel
  - tags: ['electric vehicles']
+
+## Film companies demand names of Reddit users who discussed piracy in 2011 | Ars Technica
+ - [https://arstechnica.com/tech-policy/2023/07/film-companies-demand-names-of-reddit-users-who-discussed-piracy-in-2011/?utm_brand=arstechnica&utm_social-type=owned&utm_source=mastodon&utm_medium=social](https://arstechnica.com/tech-policy/2023/07/film-companies-demand-names-of-reddit-users-who-discussed-piracy-in-2011/?utm_brand=arstechnica&utm_social-type=owned&utm_source=mastodon&utm_medium=social)
+ - date published: 2023-07-07T12:38:30+00:00
+ - user: rumpel
+ - tags: ['reddit', 'corporatocracy', 'piracy', 'social media']
 
 ## Privacy concerns with Facebook - Wikipedia
  - [https://en.wikipedia.org/wiki/Privacy_concerns_with_Facebook](https://en.wikipedia.org/wiki/Privacy_concerns_with_Facebook)
@@ -134,7 +152,7 @@
  - [https://www.telegraph.co.uk/business/2023/07/02/banks-warned-uphold-free-speech-accounts-blacklisted/](https://www.telegraph.co.uk/business/2023/07/02/banks-warned-uphold-free-speech-accounts-blacklisted/)
  - date published: 2023-07-02T19:33:55+00:00
  - user: rumpel
- - tags: ['the right wing', 'cancel culture', 'england', 'deplatform', 'social score', 'censorship']
+ - tags: ['deplatform', 'censorship', 'social score', 'the right wing', 'free speech', 'england', 'cancel culture']
 
 ## Google Search's Death by a Thousand Cuts
  - [https://matt-rickard.com/google-searchs-death-by-a-thousand-cuts](https://matt-rickard.com/google-searchs-death-by-a-thousand-cuts)
@@ -194,7 +212,7 @@
  - [https://www.telegraph.co.uk/news/2023/06/29/colonel-forced-out-of-army-after-saying-men-cant-be-women/](https://www.telegraph.co.uk/news/2023/06/29/colonel-forced-out-of-army-after-saying-men-cant-be-women/)
  - date published: 2023-06-29T15:37:00+00:00
  - user: rumpel
- - tags: ['censorship', 'intolerance', 'the left wing']
+ - tags: ['censorship', 'the left wing', 'intolerance', 'science is dead']
 
 ## German Catholic church ‘dying painful death’ as 500,000 leave in a year
  - [https://www.theguardian.com/world/2023/jun/29/german-catholic-church-dying-painful-death-as-500000-leave-in-a-year](https://www.theguardian.com/world/2023/jun/29/german-catholic-church-dying-painful-death-as-500000-leave-in-a-year)
@@ -328,6 +346,12 @@
  - user: rumpel
  - tags: ['amazon']
 
+## Peter Mandelson stayed at Jeffrey Epstein's New York home while he was in jail for sex crimes
+ - [https://www.dailymail.co.uk/news/article-12218843/Peter-Mandelson-stayed-Jeffrey-Epsteins-New-York-home-jail-sex-crimes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12218843/Peter-Mandelson-stayed-Jeffrey-Epsteins-New-York-home-jail-sex-crimes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - date published: 2023-06-21T15:27:56+00:00
+ - user: rumpel
+ - tags: ['peter mandelson', 'tony blair', 'jeffrey epstein']
+
 ## Email proves Microsoft's Activision bid is designed to eliminate Playstation
  - [https://www.axios.com/2023/06/20/exhibit-k-microsoft-activision](https://www.axios.com/2023/06/20/exhibit-k-microsoft-activision)
  - date published: 2023-06-21T15:09:07+00:00
@@ -406,11 +430,23 @@
  - user: rumpel
  - tags: ['artificial intelligence']
 
+## Epstein claimed to have set up meetings with senior UK ministers
+ - [https://www.ft.com/content/2710193e-0188-4269-ba56-166c6effa234](https://www.ft.com/content/2710193e-0188-4269-ba56-166c6effa234)
+ - date published: 2023-06-19T22:11:39+00:00
+ - user: rumpel
+ - tags: ['jeffrey epstein', 'manufacturing comsent']
+
 ## I don't trust Signal
  - [https://blog.dijit.sh//i-don-t-trust-signal](https://blog.dijit.sh//i-don-t-trust-signal)
  - date published: 2023-06-19T03:05:27+00:00
  - user: rumpel
  - tags: ['signal', 'open source']
+
+## Jeffrey Epstein: US Virgin Islands' Former First Lady email revealed
+ - [https://www.dailymail.co.uk/news/article-12203915/Jeffrey-Epstein-Virgin-Islands-Former-Lady-email-revealed.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12203915/Jeffrey-Epstein-Virgin-Islands-Former-Lady-email-revealed.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - date published: 2023-06-16T20:29:21+00:00
+ - user: rumpel
+ - tags: ['jeffrey epstein']
 
 ## European Union votes to bring back replaceable phone batteries
  - [https://www.techspot.com/news/99102-european-union-votes-bring-back-replaceable-phone-batteries.html](https://www.techspot.com/news/99102-european-union-votes-bring-back-replaceable-phone-batteries.html)
@@ -495,6 +531,12 @@
  - date published: 2023-06-14T13:52:56+00:00
  - user: rumpel
  - tags: ['openai', 'reddit', 'artificial intelligence']
+
+## Jeffrey Epstein bragged about a lunch meeting with Elon Musk in 2012
+ - [https://www.dailymail.co.uk/news/article-12190037/Jeffrey-Epstein-bragged-lunch-meeting-Elon-Musk-2012.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12190037/Jeffrey-Epstein-bragged-lunch-meeting-Elon-Musk-2012.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - date published: 2023-06-14T13:01:28+00:00
+ - user: rumpel
+ - tags: ['jeffrey epstein']
 
 ## GTA Online removes over 180 cars, moves some behind a paywall | VGC
  - [https://www.videogameschronicle.com/news/gta-online-removes-over-180-cars-moves-some-behind-a-paywall/](https://www.videogameschronicle.com/news/gta-online-removes-over-180-cars-moves-some-behind-a-paywall/)
@@ -892,6 +934,12 @@
  - user: rumpel
  - tags: ['church scandal', 'spain', 'religion']
 
+## Sleepless nights, letter to Nassar: Epstein’s final days revealed
+ - [https://www.aljazeera.com/economy/2023/6/2/sleepless-nights-letter-to-nassar-epsteins-final-days-revealed](https://www.aljazeera.com/economy/2023/6/2/sleepless-nights-letter-to-nassar-epsteins-final-days-revealed)
+ - date published: 2023-06-02T04:30:07+00:00
+ - user: rumpel
+ - tags: ['jeffrey epstein']
+
 ## Twitter to Limit Daily Wire Gender Docu as Hateful Content, CEO Claims - Variety
  - [https://variety.com/2023/digital/news/elon-musk-twitter-daily-wire-what-is-a-woman-hateful-content-1235630370/](https://variety.com/2023/digital/news/elon-musk-twitter-daily-wire-what-is-a-woman-hateful-content-1235630370/)
  - date published: 2023-06-01T15:53:08+00:00
@@ -1059,6 +1107,12 @@
  - date published: 2023-05-30T14:27:26+00:00
  - user: rumpel
  - tags: ['c++', 'programming']
+
+## Trove of Jeffrey Epstein's emails and calendar entries reveal's pedophile's network of power
+ - [https://www.dailymail.co.uk/news/article-12136305/Trove-Jeffrey-Epsteins-emails-calendar-entries-reveals-pedophiles-network-power.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12136305/Trove-Jeffrey-Epsteins-emails-calendar-entries-reveals-pedophiles-network-power.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - date published: 2023-05-30T13:01:31+00:00
+ - user: rumpel
+ - tags: ['jeffrey epstein']
 
 ## Twitter's Algorithm: Amplifying Anger, Animosity, and Affective Polarization
  - [https://arxiv.org/abs/2305.16941](https://arxiv.org/abs/2305.16941)
@@ -3856,6 +3910,12 @@
  - user: rumpel
  - tags: ['google', 'sundar pichai', 'antitrust', 'big tech']
 
+## Church of England considers gender neutral pronouns for God : NPR
+ - [https://www.npr.org/2023/02/10/1155792333/god-gender-pronouns-church-of-england](https://www.npr.org/2023/02/10/1155792333/god-gender-pronouns-church-of-england)
+ - date published: 2023-02-23T05:41:11+00:00
+ - user: rumpel
+ - tags: ['language', 'pronouns']
+
 ## Ubuntu Flavors Agree to Stop Using Flatpak
  - [https://www.omgubuntu.co.uk/2023/02/ubuntu-flavors-no-flatpak](https://www.omgubuntu.co.uk/2023/02/ubuntu-flavors-no-flatpak)
  - date published: 2023-02-22T12:05:44+00:00
@@ -5570,7 +5630,7 @@
  - [https://www.telegraph.co.uk/news/2023/01/07/uk-police-forces-spend-66000-lgbt-rainbow-cars-shoelaces-flags/](https://www.telegraph.co.uk/news/2023/01/07/uk-police-forces-spend-66000-lgbt-rainbow-cars-shoelaces-flags/)
  - date published: 2023-01-07T16:24:26+00:00
  - user: rumpel
- - tags: ['lgbt', 'england', 'inequality', 'the left wing', 'propaganda']
+ - tags: ['the left wing', 'inequality', 'police', 'lgbt', 'england', 'propaganda']
 
 ## The creator economy: the top 1% and everyone else
  - [https://therationalist.substack.com/p/the-creator-economy-the-top-1-and](https://therationalist.substack.com/p/the-creator-economy-the-top-1-and)

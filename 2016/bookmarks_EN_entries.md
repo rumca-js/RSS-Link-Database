@@ -262,6 +262,12 @@
  - user: rumpel
  - tags: ['the left wing', 'pronouns', 'newspeak']
 
+## Flight logs show Bill Clinton flew on sex offender's jet much more than previously known | Fox News
+ - [https://www.foxnews.com/us/flight-logs-show-bill-clinton-flew-on-sex-offenders-jet-much-more-than-previously-known](https://www.foxnews.com/us/flight-logs-show-bill-clinton-flew-on-sex-offenders-jet-much-more-than-previously-known)
+ - date published: 2016-05-13T21:34:34+00:00
+ - user: rumpel
+ - tags: ['bill clinton', 'lolita express', 'jeffrey epstein']
+
 ## Why The Female-Led Ghostbusters Reboot Failed At The Box Office
  - [https://tvovermind.com/why-the-ghostbusters-reboot-failed-at-the-box-office-failed/](https://tvovermind.com/why-the-ghostbusters-reboot-failed-at-the-box-office-failed/)
  - date published: 2016-04-28T11:52:16+00:00

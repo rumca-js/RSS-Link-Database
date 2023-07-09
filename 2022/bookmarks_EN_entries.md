@@ -7324,6 +7324,12 @@
  - user: rumpel
  - tags: ['blm', 'black lives matter', 'hypocrisy']
 
+## Amazon wants to map your home, so it bought iRobot - The Verge
+ - [https://www.theverge.com/23293687/amazon-irobot-acquisition-purchase-smarthome-intelligence-privacy-analysis](https://www.theverge.com/23293687/amazon-irobot-acquisition-purchase-smarthome-intelligence-privacy-analysis)
+ - date published: 2022-08-05T12:37:08+00:00
+ - user: rumpel
+ - tags: ['irobot', 'amazon', 'corporatocracy', 'privacy', 'technofeudalism']
+
 ## AstraZeneca: Vaccine death payout of £120k 'inadequate' - fiancée
  - [https://www.bbc.com/news/uk-england-tyne-61885899](https://www.bbc.com/news/uk-england-tyne-61885899)
  - date published: 2022-08-05T12:04:55+00:00

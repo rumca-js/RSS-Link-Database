@@ -69,7 +69,7 @@ Foreign Bribery Investigation | OPA | Department of Justice
  - [https://www.businessinsider.com/these-6-corporations-control-90-of-the-media-in-america-2012-6?IR=T](https://www.businessinsider.com/these-6-corporations-control-90-of-the-media-in-america-2012-6?IR=T)
  - date published: 2012-06-14T15:24:05+00:00
  - user: None
- - tags: ['media', 'propaganda', 'corporations', 'corporatocracy', 'government']
+ - tags: ['corporations', 'corporatocracy', 'media', 'government', 'propaganda', 'legacy media']
 
 ## Doom3 Source Code Review: Introduction
  - [https://fabiensanglard.net/doom3/](https://fabiensanglard.net/doom3/)
