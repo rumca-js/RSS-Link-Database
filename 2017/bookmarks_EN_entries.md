@@ -162,7 +162,7 @@
 
 ## Jordan Peterson - Gay Marriage
  - [https://www.youtube.com/watch?v=4jef2C4T1_A](https://www.youtube.com/watch?v=4jef2C4T1_A)
- - date published: 2017-10-04T20:58:00+00:00
+ - date published: 2017-10-04T00:00:00+00:00
  - user: rumpel
  - tags: ['homosexuality', 'the left wing', 'lgbt', 'jordan peterson']
 
@@ -184,23 +184,29 @@
  - user: rumpel
  - tags: ['blackrock', 'fintech', 'artificial intelligence']
 
-## Jordan Peterson: Why You Won't Have a Career
- - [https://www.youtube.com/watch?v=Zy4a8T45GiQ](https://www.youtube.com/watch?v=Zy4a8T45GiQ)
- - date published: 2017-09-18T20:18:08+00:00
- - user: rumpel
- - tags: ['feminism', 'jordan peterson']
-
 ## Secret documents: German foreign spy agency BND attacks the anonymity network Tor and advises not to use it
  - [https://netzpolitik.org/2017/secret-documents-reveal-german-foreign-spy-agency-bnd-attacks-the-anonymity-network-tor-and-advises-not-to-use-it/](https://netzpolitik.org/2017/secret-documents-reveal-german-foreign-spy-agency-bnd-attacks-the-anonymity-network-tor-and-advises-not-to-use-it/)
  - date published: 2017-09-15T12:32:09+00:00
  - user: rumpel
  - tags: ['bnd', 'germany', 'psyop', 'anonymity', 'tor', 'privacy', 'espionage']
 
+## Jordan Peterson | Political Correctness and Postmodernism
+ - [https://www.youtube.com/watch?v=f5rUPatnXSE](https://www.youtube.com/watch?v=f5rUPatnXSE)
+ - date published: 2017-09-12T00:00:00+00:00
+ - user: None
+ - tags: ['jordan peterson', 'political correctness']
+
 ## Ridley Scott Tells the REAL REASON Why David Hates Humans and Engineers
  - [https://www.youtube.com/watch?v=UsEs1PwpU8Y](https://www.youtube.com/watch?v=UsEs1PwpU8Y)
  - date published: 2017-09-09T20:24:09+00:00
  - user: rumpel
  - tags: ['movies', 'prometheus']
+
+## Jordan Peterson: Why You Won't Have a Career
+ - [https://www.youtube.com/watch?v=Zy4a8T45GiQ](https://www.youtube.com/watch?v=Zy4a8T45GiQ)
+ - date published: 2017-09-08T00:00:00+00:00
+ - user: rumpel
+ - tags: ['feminism', 'jordan peterson']
 
 ## Joe Rogan - James Damore on the Backlash from the Google Memo Controversy
  - [https://www.youtube.com/watch?v=VIW2OBOzu7Y](https://www.youtube.com/watch?v=VIW2OBOzu7Y)
@@ -267,12 +273,6 @@
  - date published: 2017-08-13T14:57:59+00:00
  - user: rumpel
  - tags: ['google', 'google memo', 'james damore']
-
-## Jordan Peterson | Political Correctness and Postmodernism
- - [https://www.youtube.com/watch?v=f5rUPatnXSE](https://www.youtube.com/watch?v=f5rUPatnXSE)
- - date published: 2017-08-12T16:19:07+00:00
- - user: None
- - tags: ['jordan peterson', 'political correctness']
 
 ## James Damore: The fired Google engineer wrote his memo after he went to a 'shaming,' 'secretive' diversity program
  - [https://www.businessinsider.com/james-damore-wrote-his-memo-after-attending-a-google-diversity-programme-2017-8?IR=T](https://www.businessinsider.com/james-damore-wrote-his-memo-after-attending-a-google-diversity-programme-2017-8?IR=T)

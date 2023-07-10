@@ -690,7 +690,7 @@
 
 ## Giorgia Meloni's electrifying speech at the World Congress of Families, English subtitles
  - [https://www.youtube.com/watch?v=y_Z1LClnhsk](https://www.youtube.com/watch?v=y_Z1LClnhsk)
- - date published: 2019-04-17T20:53:10+00:00
+ - date published: 2019-04-17T00:00:00+00:00
  - user: None
  - tags: ['feminism', 'gender', 'inequality']
 

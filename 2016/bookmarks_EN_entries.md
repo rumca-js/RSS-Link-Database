@@ -66,7 +66,7 @@
 
 ## Anonymity: The Greatest Weapon Against Oppression - Learn Liberty
  - [https://www.youtube.com/watch?v=YrIKY8Ot97o](https://www.youtube.com/watch?v=YrIKY8Ot97o)
- - date published: 2016-10-27T20:31:36+00:00
+ - date published: 2016-10-27T00:00:00+00:00
  - user: None
  - tags: ['anonymity', 'free speech', 'privacy', 'tracking', 'censorship']
 
@@ -276,7 +276,7 @@
 
 ## Social Autopsy! - Ending Anonymity Online [BAD IDEA]
  - [https://www.youtube.com/watch?v=6SARo5HtjkQ](https://www.youtube.com/watch?v=6SARo5HtjkQ)
- - date published: 2016-04-15T20:28:52+00:00
+ - date published: 2016-04-15T00:00:00+00:00
  - user: None
  - tags: ['anonymity', 'free speech', 'privacy', 'tracking', 'censorship']
 

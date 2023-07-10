@@ -10,6 +10,12 @@
  - user: rumpel
  - tags: ['jarosław kaczynski', 'fozz', 'michał folzmann']
 
+## Były szef CIA potentatem medialnym na Bałkanach
+ - [https://dorzeczy.pl/swiat/67364/byly-szef-cia-potentatem-medialnym-na-balkanach.html](https://dorzeczy.pl/swiat/67364/byly-szef-cia-potentatem-medialnym-na-balkanach.html)
+ - date published: 2018-06-24T15:22:25+00:00
+ - user: rumpel
+ - tags: ['legacy media', 'cia', 'social media', 'david petraeus', 'psyop']
+
 ## 8 minut które zabiło Andrzeja Leppera
  - [https://www.youtube.com/watch?v=jdYPsCUDVrU](https://www.youtube.com/watch?v=jdYPsCUDVrU)
  - date published: 2018-04-26T00:00:00+00:00

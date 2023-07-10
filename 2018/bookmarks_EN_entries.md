@@ -228,7 +228,7 @@
 
 ## In full: Rowan Atkinson on free speech
  - [https://www.youtube.com/watch?v=BiqDZlAZygU](https://www.youtube.com/watch?v=BiqDZlAZygU)
- - date published: 2018-08-15T07:16:33+00:00
+ - date published: 2018-08-15T00:00:00+00:00
  - user: rumpel
  - tags: ['cancel culture', 'the left wing', 'free speech']
 
@@ -354,7 +354,7 @@
 
 ## Jordan Peterson calmly dismantles feminism infront of two feminists
  - [https://www.youtube.com/watch?v=Ddzf9Mm4hdY](https://www.youtube.com/watch?v=Ddzf9Mm4hdY)
- - date published: 2018-05-17T16:37:30+00:00
+ - date published: 2018-05-17T00:00:00+00:00
  - user: rumpel
  - tags: ['feminism', 'jordan peterson']
 
@@ -492,7 +492,7 @@
 
 ## Dr. Jordan Peterson on the James Damore Memo
  - [https://www.youtube.com/watch?v=PRYvqrWcmmE](https://www.youtube.com/watch?v=PRYvqrWcmmE)
- - date published: 2018-04-03T12:35:07+00:00
+ - date published: 2018-04-03T00:00:00+00:00
  - user: rumpel
  - tags: ['inequality', 'james damore', 'feminism', 'jordan peterson', 'google']
 
@@ -618,7 +618,7 @@
 
 ## Jordan Peterson debate on the gender pay gap, campus protests and postmodernism
  - [https://www.youtube.com/watch?v=aMcjxSThD54](https://www.youtube.com/watch?v=aMcjxSThD54)
- - date published: 2018-01-16T16:34:58+00:00
+ - date published: 2018-01-16T00:00:00+00:00
  - user: rumpel
  - tags: ['cathy newman', 'feminism', 'jordan peterson', 'inequality']
 

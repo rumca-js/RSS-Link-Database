@@ -46,6 +46,12 @@
  - user: rumpel
  - tags: ['spain', 'feminism', 'socialism']
 
+## Axel Springer w rękach Amerykanów. Miliarder kupił akcje
+ - [https://dorzeczy.pl/ekonomia/112043/axel-springer-w-rekach-amerykanow-miliarder-kupil-akcje.html](https://dorzeczy.pl/ekonomia/112043/axel-springer-w-rekach-amerykanow-miliarder-kupil-akcje.html)
+ - date published: 2019-08-27T15:25:39+00:00
+ - user: rumpel
+ - tags: ['axel springer', 'legacy media']
+
 ## Axel Springer w rękach Amerykanów. Miliarder kupił większość akcji
  - [https://dorzeczy.pl/ekonomia/112043/Axel-Springer-w-rekach-Amerykanow-Miliarder-kupil-wiekszosc-akcji.html](https://dorzeczy.pl/ekonomia/112043/Axel-Springer-w-rekach-Amerykanow-Miliarder-kupil-wiekszosc-akcji.html)
  - date published: 2019-08-27T11:58:25+00:00

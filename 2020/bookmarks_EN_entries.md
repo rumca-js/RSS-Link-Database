@@ -1024,23 +1024,23 @@
  - user: None
  - tags: ['jeffrey epstein']
 
-## WEF founder: Must prepare for an angrier world
- - [https://www.youtube.com/watch?v=LJTnkzl3K64](https://www.youtube.com/watch?v=LJTnkzl3K64)
- - date published: 2020-07-14T21:12:36+00:00
- - user: rumpel
- - tags: ['world economic forum', 'klaus schwab', 'wef']
-
-## New BAFTA Gaming Standards are INSANE
- - [https://www.youtube.com/watch?v=dw9lmEp7Q6E](https://www.youtube.com/watch?v=dw9lmEp7Q6E)
- - date published: 2020-07-14T09:01:59+00:00
- - user: rumpel
- - tags: ['the left wing', 'lgbt', 'inequality', 'bafta']
-
 ## ‘Black Lives Matter activists’ flood murdered ‘All Lives Matter’ mom’s social media pages with mocking messages – The US Sun | The US Sun
  - [https://www.the-sun.com/news/1137649/indiana-mom-all-black-lives-matter-shot-facebook/](https://www.the-sun.com/news/1137649/indiana-mom-all-black-lives-matter-shot-facebook/)
  - date published: 2020-07-14T08:47:50+00:00
  - user: rumpel
  - tags: ['hypocrisy', 'racism', 'all lives matter', 'black lives matter']
+
+## WEF founder: Must prepare for an angrier world
+ - [https://www.youtube.com/watch?v=LJTnkzl3K64](https://www.youtube.com/watch?v=LJTnkzl3K64)
+ - date published: 2020-07-14T00:00:00+00:00
+ - user: rumpel
+ - tags: ['world economic forum', 'klaus schwab', 'wef']
+
+## New BAFTA Gaming Standards are INSANE
+ - [https://www.youtube.com/watch?v=dw9lmEp7Q6E](https://www.youtube.com/watch?v=dw9lmEp7Q6E)
+ - date published: 2020-07-14T00:00:00+00:00
+ - user: rumpel
+ - tags: ['the left wing', 'lgbt', 'inequality', 'bafta']
 
 ## George Soros’s Foundation Pours $220 Million Into Racial Equality Push - The New York Times
  - [https://www.nytimes.com/2020/07/13/us/politics/george-soros-racial-justice-organizations.html](https://www.nytimes.com/2020/07/13/us/politics/george-soros-racial-justice-organizations.html)
@@ -1266,7 +1266,7 @@
 
 ## Ricky Gervais – Golden Globes 2020 (Uncensored, HD)
  - [https://www.youtube.com/watch?v=iJOb9xHggS4](https://www.youtube.com/watch?v=iJOb9xHggS4)
- - date published: 2020-05-29T07:20:46+00:00
+ - date published: 2020-05-29T00:00:00+00:00
  - user: rumpel
  - tags: ['free speech', 'the left wing']
 
@@ -1692,7 +1692,7 @@
 
 ## Joe Rogan on Ricky Gervais' Golden Globes Monologue
  - [https://www.youtube.com/watch?v=WRbaQrb3Jhk](https://www.youtube.com/watch?v=WRbaQrb3Jhk)
- - date published: 2020-01-07T07:37:49+00:00
+ - date published: 2020-01-07T00:00:00+00:00
  - user: rumpel
  - tags: ['cancel culture', 'free speech', 'the left wing']
 

@@ -450,7 +450,7 @@
 
 ## Morawiecki zapowiedział aktywny udział PL w 4-tej rewolucji Schwaba
  - [https://www.youtube.com/watch?v=LdVgb8Q8BRY](https://www.youtube.com/watch?v=LdVgb8Q8BRY)
- - date published: 2022-10-10T07:58:32+00:00
+ - date published: 2022-10-10T00:00:00+00:00
  - user: None
  - tags: ['mateusz morawiecki', 'world economic forum', 'davos', 'nwo', 'wef', 'klaus schwab']
 

@@ -862,12 +862,6 @@
  - user: Thomas Pain
  - tags: $tags
 
-## Youtube removing dislikes is good actually.
- - [https://www.youtube.com/watch?v=qukO3pKmqFY](https://www.youtube.com/watch?v=qukO3pKmqFY)
- - date published: 2021-11-16T20:30:47+00:00
- - user: None
- - tags: ['free speech', 'hate speech', 'dislikes', 'corporatocracy', 'censorship', 'youtube']
-
 ## Pfizer, BioNTech and Moderna making $1,000 profit every second while world’s poorest countries remain largely unvaccinated
  - [https://reliefweb.int/report/world/pfizer-biontech-and-moderna-making-1000-profit-every-second-while-world-s-poorest](https://reliefweb.int/report/world/pfizer-biontech-and-moderna-making-1000-profit-every-second-while-world-s-poorest)
  - date published: 2021-11-16T18:45:13+00:00
@@ -891,6 +885,12 @@
  - date published: 2021-11-16T11:30:30+00:00
  - user: rumpel
  - tags: ['covid', 'anthony fauci']
+
+## Youtube removing dislikes is good actually.
+ - [https://www.youtube.com/watch?v=qukO3pKmqFY](https://www.youtube.com/watch?v=qukO3pKmqFY)
+ - date published: 2021-11-16T00:00:00+00:00
+ - user: None
+ - tags: ['free speech', 'hate speech', 'dislikes', 'corporatocracy', 'censorship', 'youtube']
 
 ## The secret court case 50 years ago that has robbed transgender people of their rights ever since
  - [https://inews.co.uk/news/long-reads/secret-court-case-50-years-ago-robbed-transgender-people-rights-1291857](https://inews.co.uk/news/long-reads/secret-court-case-50-years-ago-robbed-transgender-people-rights-1291857)

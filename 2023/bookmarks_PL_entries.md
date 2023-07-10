@@ -1,3 +1,15 @@
+## "Mam za sobą trzy nieudane związki z Polakami. Nigdy więcej" [LIST] - Kobieta
+ - [https://www.onet.pl/styl-zycia/onetkobieta/polki-nie-znajda-w-naszym-kraju-partnerow-na-swoim-poziomie-szkoda-mi-ich/1fpqhbx,2b83378a](https://www.onet.pl/styl-zycia/onetkobieta/polki-nie-znajda-w-naszym-kraju-partnerow-na-swoim-poziomie-szkoda-mi-ich/1fpqhbx,2b83378a)
+ - date published: 2023-07-09T08:26:27+00:00
+ - user: rumpel
+ - tags: ['feminism', 'propaganda']
+
+## Zdradzają partnerów na urlopie. Mówią, że potem są lepszymi żonami                 - Kobieta
+ - [https://kobieta.onet.pl/wiadomosci/zdradzaja-partnerow-na-urlopie-mowia-ze-potem-sa-lepszymi-zonami/7g434kg?utm_source=kobieta.onet.pl_viasg_kobieta&utm_medium=referal&utm_campaign=leo_automatic&srcc=undefined&utm_v=2](https://kobieta.onet.pl/wiadomosci/zdradzaja-partnerow-na-urlopie-mowia-ze-potem-sa-lepszymi-zonami/7g434kg?utm_source=kobieta.onet.pl_viasg_kobieta&utm_medium=referal&utm_campaign=leo_automatic&srcc=undefined&utm_v=2)
+ - date published: 2023-07-08T08:24:58+00:00
+ - user: rumpel
+ - tags: ['feminism', 'propaganda']
+
 ## Wyjaśnień ws. umowy z Pfizerem nie będzie. Parlament Europejski kapituluje
  - [https://forsal.pl/swiat/unia-europejska/artykuly/8747464,wyjasnien-ws-umowy-z-pfizerem-nie-bedzie-parlament-europejski-kapitu.html](https://forsal.pl/swiat/unia-europejska/artykuly/8747464,wyjasnien-ws-umowy-z-pfizerem-nie-bedzie-parlament-europejski-kapitu.html)
  - date published: 2023-07-06T05:36:31+00:00

@@ -4,12 +4,6 @@
  - user: rumpel
  - tags: ['gender', 'the left wing', 'transgender']
 
-## You Don’t Have to be a Conspiracy Theorist to be Worried About the World Economic Forum
- - [https://dailysceptic.org/2022/12/31/you-dont-have-to-be-a-conspiracy-theorist-to-be-worried-about-the-world-economic-forum/](https://dailysceptic.org/2022/12/31/you-dont-have-to-be-a-conspiracy-theorist-to-be-worried-about-the-world-economic-forum/)
- - date published: 2022-12-31T19:00:00+00:00
- - user: rumpel
- - tags: ['wef', 'world economic forum', 'conspiracy theory']
-
 ## U.S. universities, rich in data, struggle to capture its value, study finds
  - [https://newsroom.ucla.edu/releases/universities-struggle-to-leverage-data](https://newsroom.ucla.edu/releases/universities-struggle-to-leverage-data)
  - date published: 2022-12-31T17:54:29+00:00
@@ -4588,12 +4582,6 @@
  - user: None
  - tags: $tags
 
-## WEF has been ‘upfront’ about ‘Great Reset’ agenda
- - [https://www.youtube.com/watch?v=6Iy-YrmDMX4](https://www.youtube.com/watch?v=6Iy-YrmDMX4)
- - date published: 2022-10-07T07:19:48+00:00
- - user: None
- - tags: ['wef', 'world economic forum', 'great reset']
-
 ## Longevity of Recordable CDs, DVDs and Blu-Rays
  - [https://www.canada.ca/en/conservation-institute/services/conservation-preservation-publications/canadian-conservation-institute-notes/longevity-recordable-cds-dvds.html](https://www.canada.ca/en/conservation-institute/services/conservation-preservation-publications/canadian-conservation-institute-notes/longevity-recordable-cds-dvds.html)
  - date published: 2022-10-07T05:39:48+00:00
@@ -4605,6 +4593,12 @@
  - date published: 2022-10-07T01:31:40+00:00
  - user: None
  - tags: ['meta', 'horizon']
+
+## WEF has been ‘upfront’ about ‘Great Reset’ agenda
+ - [https://www.youtube.com/watch?v=6Iy-YrmDMX4](https://www.youtube.com/watch?v=6Iy-YrmDMX4)
+ - date published: 2022-10-07T00:00:00+00:00
+ - user: None
+ - tags: ['wef', 'world economic forum', 'great reset']
 
 ## Man, in his 60s, is arrested over racist WhatsApp group chat involving former and serving Met cops
  - [https://www.dailymail.co.uk/news/article-11288203/Man-60s-arrested-racist-WhatsApp-group-chat-involving-former-serving-Met-cops.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11288203/Man-60s-arrested-racist-WhatsApp-group-chat-involving-former-serving-Met-cops.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -5518,12 +5512,6 @@
  - user: None
  - tags: ['youtube']
 
-## PayPal Demonetises the Daily Sceptic
- - [https://dailysceptic.org/2022/09/21/paypal-demonetises-the-daily-sceptic/](https://dailysceptic.org/2022/09/21/paypal-demonetises-the-daily-sceptic/)
- - date published: 2022-09-21T11:33:32+00:00
- - user: rumpel
- - tags: ['daily sceptic', 'misinformation', 'paypal', 'moderation']
-
 ## FBI Suspends Whistleblower Who Criticized Bureau’s Handling Of January 6 Investigations: Report
  - [https://www.dailywire.com/news/fbi-suspends-whistleblower-who-criticized-bureaus-handling-of-january-6-investigations-report](https://www.dailywire.com/news/fbi-suspends-whistleblower-who-criticized-bureaus-handling-of-january-6-investigations-report)
  - date published: 2022-09-21T11:02:35+00:00
@@ -5644,12 +5632,6 @@
  - user: rumpel
  - tags: ['moderation', 'censorship']
 
-## How Google is KILLING your AD BLOCKERS and tracker blockers with Manifest v3
- - [https://www.youtube.com/watch?v=8KWCLhHrblE](https://www.youtube.com/watch?v=8KWCLhHrblE)
- - date published: 2022-09-19T07:21:33+00:00
- - user: None
- - tags: ['corporatocracy', 'ad business', 'manifest v3', 'google']
-
 ## Google removed our website from search because it uses YouTube-dl
  - [https://www.kapwing.com/blog/google-erased-our-website/](https://www.kapwing.com/blog/google-erased-our-website/)
  - date published: 2022-09-19T07:12:21+00:00
@@ -5661,6 +5643,12 @@
  - date published: 2022-09-19T04:00:00+00:00
  - user: None
  - tags: $tags
+
+## How Google is KILLING your AD BLOCKERS and tracker blockers with Manifest v3
+ - [https://www.youtube.com/watch?v=8KWCLhHrblE](https://www.youtube.com/watch?v=8KWCLhHrblE)
+ - date published: 2022-09-19T00:00:00+00:00
+ - user: None
+ - tags: ['corporatocracy', 'ad business', 'manifest v3', 'google']
 
 ## The $300B Google-Meta advertising duopoly is under attack
  - [https://www.economist.com/business/2022/09/18/the-300bn-google-meta-advertising-duopoly-is-under-attack](https://www.economist.com/business/2022/09/18/the-300bn-google-meta-advertising-duopoly-is-under-attack)
@@ -8289,6 +8277,12 @@
  - date published: 2022-06-10T15:57:48.100519+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## How Jordan Peterson Canceled Himself
+ - [https://www.forbes.com/sites/danidiplacido/2022/07/09/how-jordan-peterson-canceled-himself/](https://www.forbes.com/sites/danidiplacido/2022/07/09/how-jordan-peterson-canceled-himself/)
+ - date published: 2022-06-09T18:12:58+00:00
+ - user: rumpel
+ - tags: ['instagram', 'twitter', 'censorship', 'cancel culture', 'jordan peterson', 'deplatform']
 
 ## New data shows newspaper revenues down sharply | The Hill
  - [https://thehill.com/homenews/state-watch/3517259-new-data-shows-newspaper-revenues-down-sharply/](https://thehill.com/homenews/state-watch/3517259-new-data-shows-newspaper-revenues-down-sharply/)
@@ -10942,12 +10936,6 @@
  - user: None
  - tags: ['big pharma', 'vaccine', 'covid', 'pfizer', 'fda']
 
-## Jordan Peterson's Realization About the Bible
- - [https://www.youtube.com/watch?v=Vt9K6kmpx44](https://www.youtube.com/watch?v=Vt9K6kmpx44)
- - date published: 2022-01-25T20:12:15+00:00
- - user: rumpel
- - tags: ['jordan peterson', 'bible']
-
 ## Infix Operators in Python
  - [http://tomerfiliba.com/blog/Infix-Operators/](http://tomerfiliba.com/blog/Infix-Operators/)
  - date published: 2022-01-25T12:00:23.476911+00:00
@@ -10971,6 +10959,12 @@
  - date published: 2022-01-25T00:00:00+00:00
  - user: rumpel
  - tags: ['3d printer']
+
+## Jordan Peterson's Realization About the Bible
+ - [https://www.youtube.com/watch?v=Vt9K6kmpx44](https://www.youtube.com/watch?v=Vt9K6kmpx44)
+ - date published: 2022-01-25T00:00:00+00:00
+ - user: rumpel
+ - tags: ['jordan peterson', 'bible']
 
 ## Emails reveal scientists suspected COVID leaked from Wuhan lab – then quickly censored themselves
  - [https://nypost.com/2022/01/24/emails-reveal-suspected-covid-leaked-from-a-wuhan-lab-then-censored-themselves/](https://nypost.com/2022/01/24/emails-reveal-suspected-covid-leaked-from-a-wuhan-lab-then-censored-themselves/)
@@ -11487,12 +11481,6 @@
  - date published: 2022-01-02T20:05:45+00:00
  - user: rumpel
  - tags: ['elections', 'joe biden']
-
-## Twitter Permanently Suspends Marjorie Taylor Greene’s Account
- - [https://www.nytimes.com/2022/01/02/technology/marjorie-taylor-greene-twitter.html](https://www.nytimes.com/2022/01/02/technology/marjorie-taylor-greene-twitter.html)
- - date published: 2022-01-02T12:26:38+00:00
- - user: None
- - tags: ['twitter', 'free speech', 'marjorie taylor greene', 'censorship', 'deplatform', 'moderation']
 
 ## YouTube removes viral Joe Rogan interview with Dr. Robert Malone
  - [https://thepostmillennial.com/youtube-removes-joe-rogan-interview-with-dr-robert-malone-from-youtube](https://thepostmillennial.com/youtube-removes-joe-rogan-interview-with-dr-robert-malone-from-youtube)

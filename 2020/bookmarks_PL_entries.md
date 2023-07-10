@@ -168,7 +168,7 @@
 
 ## The Patriarchy Paradox
  - [https://www.youtube.com/watch?v=wTHgMxQEoPI](https://www.youtube.com/watch?v=wTHgMxQEoPI)
- - date published: 2020-09-19T20:37:21+00:00
+ - date published: 2020-09-19T00:00:00+00:00
  - user: rumpel
  - tags: ['feminism', 'gender', 'patriarchy', 'inequality']
 

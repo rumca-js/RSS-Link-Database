@@ -154,6 +154,12 @@
  - user: rumpel
  - tags: ['technofeudalism']
 
+## Tempora - Wikipedia
+ - [https://en.m.wikipedia.org/wiki/Tempora](https://en.m.wikipedia.org/wiki/Tempora)
+ - date published: 2013-06-09T10:56:57+00:00
+ - user: rumpel
+ - tags: ['tempora', 'england', 'gchq', 'edward snowden', 'surveillance']
+
 ## The Ugliest Open Secret Of German Politics: Pedophiles In The Green Party's Past
  - [https://worldcrunch.com/culture-society/the-ugliest-open-secret-of-german-politics-pedophiles-in-the-green-party039s-past](https://worldcrunch.com/culture-society/the-ugliest-open-secret-of-german-politics-pedophiles-in-the-green-party039s-past)
  - date published: 2013-05-23T20:57:26+00:00

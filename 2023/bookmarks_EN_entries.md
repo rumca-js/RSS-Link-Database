@@ -1,3 +1,15 @@
+## YouTube Censors Jordan Peterson For “Hate Speech”
+ - [https://reclaimthenet.org/youtube-censors-jordan-peterson-for-hate-speech](https://reclaimthenet.org/youtube-censors-jordan-peterson-for-hate-speech)
+ - date published: 2023-07-09T18:07:41+00:00
+ - user: rumpel
+ - tags: ['youtube', 'jordan peterson', 'censorship', 'free speech']
+
+## Readwise Reader | The first read-it-later app built for power readers.
+ - [https://readwise.io/read](https://readwise.io/read)
+ - date published: 2023-07-09T10:32:47+00:00
+ - user: rumpel
+ - tags: ['rss', 'rss client']
+
 ## How and Why I Stopped Buying New Laptops (2020)
  - [https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops/](https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops/)
  - date published: 2023-07-08T17:47:28+00:00
@@ -232,6 +244,12 @@
  - user: rumpel
  - tags: ['open source', 'android']
 
+## Mozilla wants Pocket users to switch to Firefox accounts, which may not be a bad thing
+ - [https://www.techradar.com/computing/firefox/mozilla-wants-pocket-users-to-switch-to-firefox-accounts-which-may-not-be-a-bad-thing](https://www.techradar.com/computing/firefox/mozilla-wants-pocket-users-to-switch-to-firefox-accounts-which-may-not-be-a-bad-thing)
+ - date published: 2023-06-28T20:55:47+00:00
+ - user: rumpel
+ - tags: ['link aggregation', 'pocket']
+
 ## The Secretive Surveillance Wizards Helping ICE Wiretap Facebook and Google Users
  - [https://www.forbes.com/sites/thomasbrewster/2022/02/23/meet-the-secretive-surveillance-wizards-helping-the-fbi-and-ice-wiretap-facebook-and-google-users/](https://www.forbes.com/sites/thomasbrewster/2022/02/23/meet-the-secretive-surveillance-wizards-helping-the-fbi-and-ice-wiretap-facebook-and-google-users/)
  - date published: 2023-06-28T14:30:39+00:00
@@ -339,6 +357,12 @@
  - date published: 2023-06-22T20:32:41+00:00
  - user: rumpel
  - tags: ['technofeudalism', 'corporatocracy', 'amazon']
+
+## Nearly 100,000 more deaths involving heart conditions and stroke than usual since pandemic began - BHF
+ - [https://www.bhf.org.uk/what-we-do/news-from-the-bhf/news-archive/2023/june/100000-excess-deaths-cardiovascular-disease](https://www.bhf.org.uk/what-we-do/news-from-the-bhf/news-archive/2023/june/100000-excess-deaths-cardiovascular-disease)
+ - date published: 2023-06-22T10:51:31+00:00
+ - user: rumpel
+ - tags: ['covid', 'vaccine']
 
 ## Amazon duped millions of consumers into enrolling in Prime, US FTC says
  - [https://www.reuters.com/legal/amazon-duped-millions-consumers-into-enrolling-prime-ftc-2023-06-21/](https://www.reuters.com/legal/amazon-duped-millions-consumers-into-enrolling-prime-ftc-2023-06-21/)
@@ -2654,7 +2678,7 @@
  - [https://www.foxnews.com/media/jp-morgan-ceo-suggests-government-seize-private-property-quicken-climate-initiatives](https://www.foxnews.com/media/jp-morgan-ceo-suggests-government-seize-private-property-quicken-climate-initiatives)
  - date published: 2023-04-06T17:30:45+00:00
  - user: rumpel
- - tags: ['climate change']
+ - tags: ['jpmorgan', 'climate change']
 
 ## Ontario Party Pushes Law Prohibiting Protests Near Drag Shows
  - [https://www.breitbart.com/europe/2023/04/06/ontario-party-pushes-law-banning-protests-near-drag-shows-and-2slgbtqi-events-fines-up-to-25000/](https://www.breitbart.com/europe/2023/04/06/ontario-party-pushes-law-banning-protests-near-drag-shows-and-2slgbtqi-events-fines-up-to-25000/)
@@ -4672,12 +4696,6 @@
  - user: rumpel
  - tags: ['dark factory', 'futurism']
 
-## The Re-Education of Jordan Peterson: Why His Clinical Psychology License is Under Threat
- - [https://www.youtube.com/watch?v=aLH8UwKG9Qs](https://www.youtube.com/watch?v=aLH8UwKG9Qs)
- - date published: 2023-01-28T18:52:57+00:00
- - user: rumpel
- - tags: ['cancel culture', 'jordan peterson']
-
 ## DoD FAQ: Is Open Source Software Commercial Software? Yes.
  - [https://dodcio.defense.gov/Open-Source-Software-FAQ/#q-is-oss-commercial-software-is-it-cots](https://dodcio.defense.gov/Open-Source-Software-FAQ/#q-is-oss-commercial-software-is-it-cots)
  - date published: 2023-01-28T18:52:04+00:00
@@ -4695,6 +4713,12 @@
  - date published: 2023-01-28T07:43:51+00:00
  - user: rumpel
  - tags: ['facebook', 'dark design', 'big tech']
+
+## The Re-Education of Jordan Peterson: Why His Clinical Psychology License is Under Threat
+ - [https://www.youtube.com/watch?v=aLH8UwKG9Qs](https://www.youtube.com/watch?v=aLH8UwKG9Qs)
+ - date published: 2023-01-28T00:00:00+00:00
+ - user: rumpel
+ - tags: ['cancel culture', 'jordan peterson']
 
 ## AI, Art and the Lawsuits
  - [https://www.youtube.com/watch?v=aRPY0ctBCzM](https://www.youtube.com/watch?v=aRPY0ctBCzM)
