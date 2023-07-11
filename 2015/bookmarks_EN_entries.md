@@ -8,7 +8,7 @@
  - [https://theintercept.com/2015/12/28/recently-bought-a-windows-computer-microsoft-probably-has-your-encryption-key/](https://theintercept.com/2015/12/28/recently-bought-a-windows-computer-microsoft-probably-has-your-encryption-key/)
  - date published: 2015-12-28T08:31:14+00:00
  - user: rumpel
- - tags: ['vulnerability', 'windows', 'backdoor', 'encryption']
+ - tags: ['vulnerability', 'windows', 'backdoor', 'technofeudalism', 'crypto wars', 'encryption']
 
 ## Why Microsoft yanked its latest Windows 10 update download: It hijacked privacy settings • The Register
  - [https://www.theregister.com/2015/11/25/windows_10_download_explained/](https://www.theregister.com/2015/11/25/windows_10_download_explained/)
@@ -30,7 +30,7 @@
 
 ## Noam Chomsky - Manufacturing Consent
  - [https://www.youtube.com/watch?v=tTBWfkE7BXU](https://www.youtube.com/watch?v=tTBWfkE7BXU)
- - date published: 2015-10-15T16:13:28+00:00
+ - date published: 2015-10-15T00:00:00+00:00
  - user: None
  - tags: ['noam chomsky', 'corporatocracy', 'manufacturing consent', 'social media', 'propaganda', 'all time']
 

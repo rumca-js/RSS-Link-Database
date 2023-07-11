@@ -1,3 +1,9 @@
+## The controller pattern is awful (and other OO heresy)
+ - [https://eev.ee/blog/2013/03/03/the-controller-pattern-is-awful-and-other-oo-heresy/](https://eev.ee/blog/2013/03/03/the-controller-pattern-is-awful-and-other-oo-heresy/)
+ - date published: 2023-07-10T08:27:04+00:00
+ - user: rumpel
+ - tags: ['programming']
+
 ## YouTube Censors Jordan Peterson For “Hate Speech”
  - [https://reclaimthenet.org/youtube-censors-jordan-peterson-for-hate-speech](https://reclaimthenet.org/youtube-censors-jordan-peterson-for-hate-speech)
  - date published: 2023-07-09T18:07:41+00:00
@@ -380,7 +386,7 @@
  - [https://www.axios.com/2023/06/20/exhibit-k-microsoft-activision](https://www.axios.com/2023/06/20/exhibit-k-microsoft-activision)
  - date published: 2023-06-21T15:09:07+00:00
  - user: rumpel
- - tags: ['microsoft']
+ - tags: ['dark design', 'microsoft']
 
 ## LandChad.net
  - [https://landchad.net/](https://landchad.net/)
@@ -658,11 +664,17 @@
  - user: rumpel
  - tags: ['covid', 'wuhan']
 
+## Did Google mislead advertisers about TrueView skippable in-stream ads for the past three years?
+ - [https://adalytics.io/blog/invalid-google-video-partner-trueview-ads](https://adalytics.io/blog/invalid-google-video-partner-trueview-ads)
+ - date published: 2023-06-10T10:34:01+00:00
+ - user: rumpel
+ - tags: ['google', 'ad business', 'trueview']
+
 ## Invidious - An open source alternative front-end to YouTube
  - [https://invidious.io/](https://invidious.io/)
  - date published: 2023-06-10T06:38:34+00:00
  - user: rumpel
- - tags: ['selfhost']
+ - tags: ['selfhost', 'youtube', 'open source']
 
 ## Desktop Linux is insecure – 2023
  - [https://bjornpagen.com/en_US/desktop%20linux%20is%20insecure](https://bjornpagen.com/en_US/desktop%20linux%20is%20insecure)
@@ -1184,7 +1196,7 @@
  - [https://www.leefang.com/p/private-spies-hired-by-the-fbi-and](https://www.leefang.com/p/private-spies-hired-by-the-fbi-and)
  - date published: 2023-05-28T03:58:56+00:00
  - user: rumpel
- - tags: ['psyop', 'fbi', 'social media']
+ - tags: ['social media', 'psyop', 'fbi']
 
 ## Google account deleted after 2 hours of Aurora
  - [https://old.reddit.com/r/degoogle/comments/13td3iq/google_account_deleted_after_2_hours_of_aurora/](https://old.reddit.com/r/degoogle/comments/13td3iq/google_account_deleted_after_2_hours_of_aurora/)
@@ -3592,12 +3604,6 @@
  - user: rumpel
  - tags: ['tiktok']
 
-## Joe Rogan blasts George Soros: 'An evil person in a Batman movie'
- - [https://www.youtube.com/watch?v=npJNERfBAes](https://www.youtube.com/watch?v=npJNERfBAes)
- - date published: 2023-03-06T21:03:49+00:00
- - user: rumpel
- - tags: ['billionaires', 'elites', 'george soros', 'manufacturing consent']
-
 ## Spain Set To Introduce Law Requiring 40% Women In Company Boards
  - [https://www.ndtv.com/world-news/spain-set-to-introduce-law-requiring-40-women-in-company-boards-3840067](https://www.ndtv.com/world-news/spain-set-to-introduce-law-requiring-40-women-in-company-boards-3840067)
  - date published: 2023-03-06T19:56:38+00:00
@@ -5367,6 +5373,12 @@
  - date published: 2023-01-13T09:13:42+00:00
  - user: rumpel
  - tags: ['pfizer', 'vaccine', 'covid', 'big pharma']
+
+## Joe Rogan blasts George Soros: 'An evil person in a Batman movie'
+ - [https://www.youtube.com/watch?v=npJNERfBAes](https://www.youtube.com/watch?v=npJNERfBAes)
+ - date published: 2023-01-13T00:00:00+00:00
+ - user: rumpel
+ - tags: ['billionaires', 'elites', 'george soros', 'manufacturing consent']
 
 ## Meta alleges surveillance firm collected data on 600,000 users via fake accounts
  - [https://www.theguardian.com/technology/2023/jan/12/meta-voyager-labs-surveillance-fake-accounts](https://www.theguardian.com/technology/2023/jan/12/meta-voyager-labs-surveillance-fake-accounts)

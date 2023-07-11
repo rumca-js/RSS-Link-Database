@@ -10318,6 +10318,12 @@
  - user: None
  - tags: ['smartphone']
 
+## NSA-linked Bvp47 Linux backdoor widely undetected for 10 years
+ - [https://www.bleepingcomputer.com/news/security/nsa-linked-bvp47-linux-backdoor-widely-undetected-for-10-years/](https://www.bleepingcomputer.com/news/security/nsa-linked-bvp47-linux-backdoor-widely-undetected-for-10-years/)
+ - date published: 2022-02-23T05:43:31+00:00
+ - user: rumpel
+ - tags: ['backdoor', 'linux', 'nsa', 'surveillance', 'bvp47']
+
 ## World Economic Forum pushes digital ID system that will determine access to services
  - [https://reclaimthenet.org/world-economic-forum-pushes-digital-id](https://reclaimthenet.org/world-economic-forum-pushes-digital-id)
  - date published: 2022-02-22T18:58:40+00:00

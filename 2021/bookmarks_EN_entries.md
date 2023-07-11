@@ -554,7 +554,7 @@
  - [https://hothardware.com/news/bidens-infrastructure-bill-mandatory-backdoor-car-kill-switch](https://hothardware.com/news/bidens-infrastructure-bill-mandatory-backdoor-car-kill-switch)
  - date published: 2021-12-01T15:49:06+00:00
  - user: rumpel
- - tags: ['backdoor', 'electric vehicles', 'infrastructure bill', 'vulnerability']
+ - tags: ['vulnerability', 'backdoor', 'technofeudalism', 'electric vehicles', 'infrastructure bill']
 
 ## Will We Need COVID-19 Boosters Every 6 Months?
  - [https://www.healthline.com/health-news/are-we-going-to-need-covid-19-boosters-every-6-months-what-experts-think#Will-boosters-become-an-annual-thing?](https://www.healthline.com/health-news/are-we-going-to-need-covid-19-boosters-every-6-months-what-experts-think#Will-boosters-become-an-annual-thing?)

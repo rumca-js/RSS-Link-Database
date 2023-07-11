@@ -40,6 +40,12 @@
  - user: None
  - tags: ['espionage', 'surveillance', 'five eyes', 'nsa']
 
+## NSA Asked Linus Torvalds To Install Backdoors Into GNU/Linux – Falkvinge on Liberty
+ - [https://falkvinge.net/2013/11/17/nsa-asked-linus-torvalds-to-install-backdoors-into-gnulinux/](https://falkvinge.net/2013/11/17/nsa-asked-linus-torvalds-to-install-backdoors-into-gnulinux/)
+ - date published: 2013-11-17T05:57:58+00:00
+ - user: rumpel
+ - tags: ['backdoor', 'surveillance', 'linux', 'nsa', 'vulnerability', 'linus torvalds']
+
 ## An old mans advice.
  - [https://www.youtube.com/watch?v=9fvETktnaRw](https://www.youtube.com/watch?v=9fvETktnaRw)
  - date published: 2013-11-07T00:00:00+00:00

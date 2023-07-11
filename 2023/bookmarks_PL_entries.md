@@ -1,8 +1,8 @@
-## "Mam za sobą trzy nieudane związki z Polakami. Nigdy więcej" [LIST] - Kobieta
- - [https://www.onet.pl/styl-zycia/onetkobieta/polki-nie-znajda-w-naszym-kraju-partnerow-na-swoim-poziomie-szkoda-mi-ich/1fpqhbx,2b83378a](https://www.onet.pl/styl-zycia/onetkobieta/polki-nie-znajda-w-naszym-kraju-partnerow-na-swoim-poziomie-szkoda-mi-ich/1fpqhbx,2b83378a)
- - date published: 2023-07-09T08:26:27+00:00
+## Spadek napiÄcia z prÄdu, prÄd jednofazowy i trÃ³jfazowy, dÅugoÅÄ, przekrÃ³j lub Årednica przewodu- Calcoolator.pl - Kalkulator online.
+ - [https://calcoolator.pl/spadek_napiecia_z_pradu_jednofazowy_trojfazowy.html](https://calcoolator.pl/spadek_napiecia_z_pradu_jednofazowy_trojfazowy.html)
+ - date published: 2023-07-10T09:40:46+00:00
  - user: rumpel
- - tags: ['feminism', 'propaganda']
+ - tags: ['online calculator']
 
 ## Zdradzają partnerów na urlopie. Mówią, że potem są lepszymi żonami                 - Kobieta
  - [https://kobieta.onet.pl/wiadomosci/zdradzaja-partnerow-na-urlopie-mowia-ze-potem-sa-lepszymi-zonami/7g434kg?utm_source=kobieta.onet.pl_viasg_kobieta&utm_medium=referal&utm_campaign=leo_automatic&srcc=undefined&utm_v=2](https://kobieta.onet.pl/wiadomosci/zdradzaja-partnerow-na-urlopie-mowia-ze-potem-sa-lepszymi-zonami/7g434kg?utm_source=kobieta.onet.pl_viasg_kobieta&utm_medium=referal&utm_campaign=leo_automatic&srcc=undefined&utm_v=2)
