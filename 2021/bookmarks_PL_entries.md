@@ -130,12 +130,6 @@
  - user: Thomas Pain
  - tags: $tags
 
-## Cyfrowy pieniądz: Cztery państwa przetestują transgraniczne płatności wirtualną walutą
- - [https://whatnext.pl/540012-transgraniczne-platnosci-wirtualna-waluta/](https://whatnext.pl/540012-transgraniczne-platnosci-wirtualna-waluta/)
- - date published: 2021-08-04T14:57:33+00:00
- - user: None
- - tags: ['cbdc']
-
 ## Ponad 750 mln zł wydane na energetykę jądrową. Elektrowni brak
  - [https://biznes.trojmiasto.pl/Ponad-750-mln-zl-wydane-na-energetyke-jadrowa-Elektrowni-brak-n158212.html](https://biznes.trojmiasto.pl/Ponad-750-mln-zl-wydane-na-energetyke-jadrowa-Elektrowni-brak-n158212.html)
  - date published: 2021-07-28T14:38:59+00:00
@@ -255,12 +249,6 @@
  - date published: 2021-04-13T14:07:37+00:00
  - user: rumpel
  - tags: ['israel', 'vaccine', 'pfizer', 'covid', 'mrna']
-
-## Cyfrowy juan to śledzona i scentralizowana waluta Chin, która zastępuje fizyczne pieniądze
- - [https://ithardware.pl/aktualnosci/cyfrowy_juan_to_cyfrowa_sledzona_i_scentralizowana_waluta_chin_ktora_zastapi_fizyczne_pieniadze-15649.html](https://ithardware.pl/aktualnosci/cyfrowy_juan_to_cyfrowa_sledzona_i_scentralizowana_waluta_chin_ktora_zastapi_fizyczne_pieniadze-15649.html)
- - date published: 2021-04-07T08:20:36+00:00
- - user: None
- - tags: ['cbdc', 'digital yuan']
 
 ## Prof. Krzysztof Simon o liczbie zgon�w: B�yskawicznie d��ymy do statystyk z wrze�nia 1939 roku
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,173952,26952224,prof-krzysztof-simon-o-liczbie-zgonow-blyskawicznie-dazymy.html](https://wiadomosci.gazeta.pl/wiadomosci/7,173952,26952224,prof-krzysztof-simon-o-liczbie-zgonow-blyskawicznie-dazymy.html)

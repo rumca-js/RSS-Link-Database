@@ -2236,6 +2236,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Why Project Dunbar Is One of the Industry’s Most Significant Partnerships | The Fintech Times
+ - [https://thefintechtimes.com/why-project-dunbar-is-one-of-the-industrys-most-significant-partnerships/](https://thefintechtimes.com/why-project-dunbar-is-one-of-the-industrys-most-significant-partnerships/)
+ - date published: 2021-09-04T09:48:51+00:00
+ - user: rumpel
+ - tags: ['project dunbar', 'cbdc']
+
 ## Rejected internal applicants twice as likely to quit | Cornell Chronicle
  - [https://news.cornell.edu/stories/2021/08/rejected-internal-applicants-twice-likely-quit](https://news.cornell.edu/stories/2021/08/rejected-internal-applicants-twice-likely-quit)
  - date published: 2021-09-04T09:48:11.744999+00:00
@@ -4215,6 +4221,12 @@
  - date published: 2021-04-14T21:42:08+00:00
  - user: rumpel
  - tags: ['cnn', 'media', 'covid', 'fearmongering']
+
+## Digital Currency: Yuan comes with an expiry date: Spend or it will vanish, ET BFSI
+ - [https://bfsi.economictimes.indiatimes.com/news/policy/digital-currency-yuan-comes-with-an-expiry-date-spend-or-it-will-vanish/82059471](https://bfsi.economictimes.indiatimes.com/news/policy/digital-currency-yuan-comes-with-an-expiry-date-spend-or-it-will-vanish/82059471)
+ - date published: 2021-04-14T09:41:18+00:00
+ - user: rumpel
+ - tags: ['digital yuan', 'big brother', 'cbdc']
 
 ## CNN director shown on undercover video boasting about removing Trump from office and admitting to spreading propaganda | Washington Examiner
  - [https://www.washingtonexaminer.com/news/cnn-director-boasts-removing-trump-from-office-spreading-propaganda](https://www.washingtonexaminer.com/news/cnn-director-boasts-removing-trump-from-office-spreading-propaganda)

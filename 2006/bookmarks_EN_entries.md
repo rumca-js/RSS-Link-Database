@@ -10,6 +10,12 @@
  - user: rumpel
  - tags: ['racism', 'white supremacy']
 
+## FBI taps cell phone mic as eavesdropping tool (2006)
+ - [https://www.cnet.com/news/privacy/fbi-taps-cell-phone-mic-as-eavesdropping-tool/](https://www.cnet.com/news/privacy/fbi-taps-cell-phone-mic-as-eavesdropping-tool/)
+ - date published: 2006-07-11T18:19:16+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'big brother', 'espionage', 'fbi']
+
 ## Cannon Fodder Amiga game intro
  - [https://www.youtube.com/watch?v=PiYuq6Ac3a0](https://www.youtube.com/watch?v=PiYuq6Ac3a0)
  - date published: 2006-05-07T00:00:00+00:00

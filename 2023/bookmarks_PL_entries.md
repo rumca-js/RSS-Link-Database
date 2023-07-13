@@ -22,6 +22,12 @@
  - user: rumpel
  - tags: ['climate change', 'global warming']
 
+## Cyfrowe Euro z zaszytymi funkcjami! Zdziwisz się, kto o nich zadecyduje!
+ - [https://www.youtube.com/watch?v=42vlkuxG_84](https://www.youtube.com/watch?v=42vlkuxG_84)
+ - date published: 2023-06-29T21:40:45+00:00
+ - user: rumpel
+ - tags: ['digital euro', 'cbdc']
+
 ## Skala wymuszeń, korupcji i bezkarności największa w historii Ukrainy. Firmy mówią dość
  - [https://businessinsider.com.pl/gospodarka/korupcja-w-ukrainie-na-niespotykana-skale-firmy-zaapelowaly-do-prezydenta/cg7ejz2](https://businessinsider.com.pl/gospodarka/korupcja-w-ukrainie-na-niespotykana-skale-firmy-zaapelowaly-do-prezydenta/cg7ejz2)
  - date published: 2023-06-28T16:24:10+00:00
@@ -204,12 +210,6 @@
  - user: rumpel
  - tags: ['law', 'covid', 'big brother']
 
-## W Chinach pensja już w CBDC | BitHub.pl
- - [https://bithub.pl/kryptowaluty/w-chinach-pensja-juz-w-cbdc/](https://bithub.pl/kryptowaluty/w-chinach-pensja-juz-w-cbdc/)
- - date published: 2023-04-23T14:55:25+00:00
- - user: rumpel
- - tags: ['cbdc', 'china']
-
 ## "Le Figaro": Trwa "meksykanizacja Francji" - wojny gangów narkotykowych od Paryża po Marsylię
  - [https://forsal.pl/swiat/aktualnosci/artykuly/8702662,le-figaro-trwa-meksykanizacja-francji-wojny-gangow-narkotykowych-od-paryza-po-marsylie.html](https://forsal.pl/swiat/aktualnosci/artykuly/8702662,le-figaro-trwa-meksykanizacja-francji-wojny-gangow-narkotykowych-od-paryza-po-marsylie.html)
  - date published: 2023-04-20T08:25:29+00:00
@@ -275,12 +275,6 @@
  - date published: 2023-04-03T11:44:00+00:00
  - user: rumpel
  - tags: ['covid', 'vaccine']
-
-## Cyfrowe euro z niskim stałym limitem na gospodarstwo i limitami transakcji
- - [https://ithardware.pl/aktualnosci/cyfrowe_euro_z_niskim_stalym_limitem_na_gospodarstwo_i_dziennymi_limitami_wydatkow-26606.html](https://ithardware.pl/aktualnosci/cyfrowe_euro_z_niskim_stalym_limitem_na_gospodarstwo_i_dziennymi_limitami_wydatkow-26606.html)
- - date published: 2023-04-01T13:15:40+00:00
- - user: rumpel
- - tags: ['cbdc', 'technofeudalism']
 
 ## Google, Amazon i Meta pogarszają swoje podstawowe produkty. Robią to celowo
  - [https://businessinsider.com.pl/biznes/google-amazon-i-meta-pogarszaja-swoje-podstawowe-produkty-robia-to-celowo/8hqsn68](https://businessinsider.com.pl/biznes/google-amazon-i-meta-pogarszaja-swoje-podstawowe-produkty-robia-to-celowo/8hqsn68)

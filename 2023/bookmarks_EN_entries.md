@@ -1,3 +1,39 @@
+## Chinese Group Storm-0558 Hacked European Govt Emails, Microsoft
+ - [https://www.hackread.com/chinese-group-storm-0558-hacked-europe-microsoft/](https://www.hackread.com/chinese-group-storm-0558-hacked-europe-microsoft/)
+ - date published: 2023-07-12T18:15:35+00:00
+ - user: rumpel
+ - tags: ['storm-0558', 'espionage', 'china', 'vulnerability', 'hackers']
+
+## I Am Leaving
+ - [https://briefs.video/videos/i-am-leaving/](https://briefs.video/videos/i-am-leaving/)
+ - date published: 2023-07-12T08:37:11+00:00
+ - user: rumpel
+ - tags: ['technofeudalism', 'funny']
+
+## The Heat Will Kill You First by Jeff Goodell | Hachette Book Group
+ - [https://www.hachettebookgroup.com/titles/jeff-goodell/the-heat-will-kill-you-first/9780316497572/?lens=little-brown](https://www.hachettebookgroup.com/titles/jeff-goodell/the-heat-will-kill-you-first/9780316497572/?lens=little-brown)
+ - date published: 2023-07-12T05:43:05+00:00
+ - user: rumpel
+ - tags: ['climate change']
+
+## Why Bill Gates Isn’t too Worried About the Risks of AI
+ - [https://time.com/6293735/bill-gates-ai-risk/](https://time.com/6293735/bill-gates-ai-risk/)
+ - date published: 2023-07-11T17:00:26+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
+
+## Newpipe.net removed from Google search results due to DMCA take down request
+ - [https://newpipe.net/blog/pinned/announcement/newpipe-net-dmca-google-search/](https://newpipe.net/blog/pinned/announcement/newpipe-net-dmca-google-search/)
+ - date published: 2023-07-11T15:38:04+00:00
+ - user: rumpel
+ - tags: ['technofeudalism', 'dmca', 'google', 'censorship', 'algorithms', 'youtube', 'corporatocracy', 'search engines']
+
+## Brazil’s CBDC pilot contains code that can freeze or reduce funds, dev claims
+ - [https://cointelegraph.com/news/brazil-cbdc-pilot-source-code-can-freeze-funds](https://cointelegraph.com/news/brazil-cbdc-pilot-source-code-can-freeze-funds)
+ - date published: 2023-07-11T09:29:13+00:00
+ - user: rumpel
+ - tags: ['technofeudalism', 'banksters', 'brazil', 'cbdc']
+
 ## The controller pattern is awful (and other OO heresy)
  - [https://eev.ee/blog/2013/03/03/the-controller-pattern-is-awful-and-other-oo-heresy/](https://eev.ee/blog/2013/03/03/the-controller-pattern-is-awful-and-other-oo-heresy/)
  - date published: 2023-07-10T08:27:04+00:00
@@ -27,6 +63,12 @@
  - date published: 2023-07-08T12:12:31+00:00
  - user: rumpel
  - tags: ['google', 'facebook', 'ad business']
+
+## Leading member of Just Stop Oil is revealed to have an estimated £1million pension pot from Shell  | Daily Mail Online
+ - [https://www.dailymail.co.uk/news/article-12278417/Leading-member-Just-Stop-Oil-revealed-estimated-1million-pension-pot-Shell.html](https://www.dailymail.co.uk/news/article-12278417/Leading-member-Just-Stop-Oil-revealed-estimated-1million-pension-pot-Shell.html)
+ - date published: 2023-07-08T06:03:19+00:00
+ - user: rumpel
+ - tags: ['climate change']
 
 ## Companies Think Their Idiot Customers Will Accidentally Cancel Their Subscriptions if It's Too Easy
  - [https://gizmodo.com/cancel-subscription-ftc-click-to-cancel-pushback-1850615222](https://gizmodo.com/cancel-subscription-ftc-click-to-cancel-pushback-1850615222)
@@ -3513,6 +3555,12 @@
  - date published: 2023-03-09T16:22:19+00:00
  - user: rumpel
  - tags: ['anthony fauci', 'covid']
+
+## Is Hollywood Replacing Redheaded Characters with Black Actors?
+ - [https://www.fortressofsolitude.co.za/is-hollywood-replacing-redheaded-characters-with-black-actors/](https://www.fortressofsolitude.co.za/is-hollywood-replacing-redheaded-characters-with-black-actors/)
+ - date published: 2023-03-09T13:21:34+00:00
+ - user: rumpel
+ - tags: ['hollywood', 'movies', 'disney']
 
 ## THOMAS: The Government wants to control what you watch with Bill C-11 | Toronto Sun
  - [https://torontosun.com/opinion/columnists/thomas-the-government-wants-to-control-what-you-watch-with-bill-c-11](https://torontosun.com/opinion/columnists/thomas-the-government-wants-to-control-what-you-watch-with-bill-c-11)

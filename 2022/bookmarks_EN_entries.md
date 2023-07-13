@@ -1766,7 +1766,7 @@
  - [https://www.youtube.com/watch?v=ON52n1Xa4I0](https://www.youtube.com/watch?v=ON52n1Xa4I0)
  - date published: 2022-12-01T14:09:06+00:00
  - user: rumpel
- - tags: ['digital identity', 'covid', 'vaccine passport', 'digital passport']
+ - tags: ['digital identity', 'digital passport', 'cbdc', 'covid', 'vaccine passport']
 
 ## After Disney's 'Strange World' bombs, film critic says ‘go woke, go broke’
  - [https://nypost.com/2022/12/01/after-disneys-strange-world-bombs-film-critic-says-go-woke-go-broke/](https://nypost.com/2022/12/01/after-disneys-strange-world-bombs-film-critic-says-go-woke-go-broke/)
@@ -2667,6 +2667,12 @@
  - date published: 2022-11-07T11:56:43+00:00
  - user: rumpel
  - tags: ['elites', 'billionaires', 'cop27', 'climate change', 'hypocrisy']
+
+## Digital euro may have transaction limits and store-of-value caps | The Block
+ - [https://www.theblock.co/post/183646/digital-euro-transaction-limits-store-value-caps](https://www.theblock.co/post/183646/digital-euro-transaction-limits-store-value-caps)
+ - date published: 2022-11-07T09:52:33+00:00
+ - user: rumpel
+ - tags: ['digital euro', 'cbdc']
 
 ## Why scientists are using the word scary over the climate crisis
  - [https://www.theguardian.com/environment/2022/nov/07/why-scientists-are-using-the-word-scary-over-the-climate-crisis](https://www.theguardian.com/environment/2022/nov/07/why-scientists-are-using-the-word-scary-over-the-climate-crisis)

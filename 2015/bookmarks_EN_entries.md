@@ -136,6 +136,12 @@
  - user: rumpel
  - tags: ['motivation']
 
+## Denmark’s new rules on cash mark the beginning of the end for physical money | MoneyWeek
+ - [https://moneyweek.com/merryns-blog/denmarks-new-rules-on-cash-mark-the-beginning-of-the-end-for-physical-money](https://moneyweek.com/merryns-blog/denmarks-new-rules-on-cash-mark-the-beginning-of-the-end-for-physical-money)
+ - date published: 2015-05-12T09:47:03+00:00
+ - user: rumpel
+ - tags: ['digital money', 'denmark', 'cbdc']
+
 ## Why Don't We Hear About Soros' Ties to Over 30 Major News Organizations? | Fox News
  - [https://www.foxnews.com/opinion/why-dont-we-hear-about-soros-ties-to-over-30-major-news-organizations](https://www.foxnews.com/opinion/why-dont-we-hear-about-soros-ties-to-over-30-major-news-organizations)
  - date published: 2015-05-07T12:40:31+00:00
