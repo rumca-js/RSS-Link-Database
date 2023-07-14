@@ -1,3 +1,9 @@
+## Tax preparers that shared private data with Meta, Google could be fined billions
+ - [https://arstechnica.com/tech-policy/2023/07/meta-wont-say-what-happened-to-taxpayer-data-it-may-have-illegally-collected/](https://arstechnica.com/tech-policy/2023/07/meta-wont-say-what-happened-to-taxpayer-data-it-may-have-illegally-collected/)
+ - date published: 2023-07-12T21:07:50+00:00
+ - user: rumpel
+ - tags: ['cloud computing', 'privacy']
+
 ## Chinese Group Storm-0558 Hacked European Govt Emails, Microsoft
  - [https://www.hackread.com/chinese-group-storm-0558-hacked-europe-microsoft/](https://www.hackread.com/chinese-group-storm-0558-hacked-europe-microsoft/)
  - date published: 2023-07-12T18:15:35+00:00
@@ -141,6 +147,12 @@
  - date published: 2023-07-06T12:19:39+00:00
  - user: rumpel
  - tags: ['government control', 'free speech', 'corporatocracy', 'technofeudalism']
+
+## A Key Ruling Against Social-Media Censorship
+ - [https://www.wsj.com/articles/a-key-ruling-against-social-media-censorship-missouri-v-biden-government-covid-9b457364](https://www.wsj.com/articles/a-key-ruling-against-social-media-censorship-missouri-v-biden-government-covid-9b457364)
+ - date published: 2023-07-05T16:21:00+00:00
+ - user: rumpel
+ - tags: ['censorship', 'big brother', 'covid']
 
 ## Amazon CEO Asks His Hollywood Studio to Explain Its Big Spending
  - [https://www.bloomberg.com/news/newsletters/2023-07-05/amazon-ceo-asks-his-hollywood-studio-to-explain-its-big-spending](https://www.bloomberg.com/news/newsletters/2023-07-05/amazon-ceo-asks-his-hollywood-studio-to-explain-its-big-spending)
@@ -309,6 +321,12 @@
  - date published: 2023-06-28T13:41:18.698157+00:00
  - user: rumpel
  - tags: ['lockdown', 'covid']
+
+## EU calls for global talks on climate geoengineering risks | Reuters
+ - [https://www.reuters.com/sustainability/eu-calls-global-talks-climate-geoengineering-risks-2023-06-28/](https://www.reuters.com/sustainability/eu-calls-global-talks-climate-geoengineering-risks-2023-06-28/)
+ - date published: 2023-06-28T05:15:18+00:00
+ - user: rumpel
+ - tags: ['climate change', 'geoengineering']
 
 ## Google may have misled dozens of advertisers and violated its own guidelines - report
  - [https://www.theguardian.com/technology/2023/jun/28/google-may-have-misled-dozens-of-advertisers-and-violated-its-own-guidelines-report](https://www.theguardian.com/technology/2023/jun/28/google-may-have-misled-dozens-of-advertisers-and-violated-its-own-guidelines-report)
@@ -513,6 +531,12 @@
  - date published: 2023-06-19T03:05:27+00:00
  - user: rumpel
  - tags: ['signal', 'open source']
+
+## Keygen Library Player (4504 tracks)
+ - [https://cable.ayra.ch/webxmp/](https://cable.ayra.ch/webxmp/)
+ - date published: 2023-06-18T07:42:02+00:00
+ - user: rumpel
+ - tags: ['keygen']
 
 ## Jeffrey Epstein: US Virgin Islands' Former First Lady email revealed
  - [https://www.dailymail.co.uk/news/article-12203915/Jeffrey-Epstein-Virgin-Islands-Former-Lady-email-revealed.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12203915/Jeffrey-Epstein-Virgin-Islands-Former-Lady-email-revealed.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1641,6 +1665,12 @@
  - date published: 2023-05-14T06:46:18+00:00
  - user: rumpel
  - tags: ['racism', 'white supremacy', 'joe biden']
+
+## Twitter’s Elon Musk Defends Decision To Limit Tweets in Turkey During Tight Presidential Election | Vanity Fair
+ - [https://www.vanityfair.com/news/2023/05/twitter-musk-censors-turkey-election-erdogan](https://www.vanityfair.com/news/2023/05/twitter-musk-censors-turkey-election-erdogan)
+ - date published: 2023-05-14T05:20:36+00:00
+ - user: rumpel
+ - tags: ['hypocrisy', 'elon musk', 'twitter', 'free speech', 'censorship']
 
 ## The Pandemic May Be Over But UK Mobile Networks Are Still Monitoring Population Movement
  - [https://reclaimthenet.org/uk-mobile-networks-are-still-monitoring-population-movement](https://reclaimthenet.org/uk-mobile-networks-are-still-monitoring-population-movement)

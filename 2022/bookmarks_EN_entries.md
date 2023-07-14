@@ -68,7 +68,7 @@
  - [https://www.washingtonexaminer.com/opinion/larry-fink-and-blackrock-require-congressional-scrutiny-over-china-tech-industry-funding](https://www.washingtonexaminer.com/opinion/larry-fink-and-blackrock-require-congressional-scrutiny-over-china-tech-industry-funding)
  - date published: 2022-12-30T10:46:06+00:00
  - user: rumpel
- - tags: ['hypocrisy', 'olygopoly', 'blackrock', 'nwo', 'china', 'larry fink', 'corruption', 'monopoly']
+ - tags: ['hypocrisy', 'corruption', 'larry fink', 'china', 'nwo', 'blackrock', 'oligopoly', 'monopoly']
 
 ## BBC is 'warping modern Britain' by allowing 'woke viewpoints' in dramas, report warns
  - [https://www.dailymail.co.uk/news/article-11585077/BBC-warping-modern-Britain-allowing-woke-viewpoints-dramas-report-warns.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11585077/BBC-warping-modern-Britain-allowing-woke-viewpoints-dramas-report-warns.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -278,7 +278,7 @@
  - [https://experimentalhistory.substack.com/p/oligopoly-everywhere](https://experimentalhistory.substack.com/p/oligopoly-everywhere)
  - date published: 2022-12-25T16:27:31+00:00
  - user: rumpel
- - tags: ['corporatocracy', 'oligopoly']
+ - tags: ['monopoly', 'corporatocracy', 'oligopoly']
 
 ## The FBI won’t name other social media companies it pays
  - [https://reclaimthenet.org/the-fbi-wont-name-other-social-media-companies-it-pays/](https://reclaimthenet.org/the-fbi-wont-name-other-social-media-companies-it-pays/)
