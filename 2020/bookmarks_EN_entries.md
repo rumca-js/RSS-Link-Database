@@ -1690,6 +1690,12 @@
  - user: rumpel
  - tags: ['lab leak', 'covid origins', 'covid', 'fearmongering']
 
+## Antivirus firm Avast is reportedly selling users' web browsing data - CNET
+ - [https://www.cnet.com/news/privacy/antivirus-firm-avast-is-reportedly-selling-users-web-browsing-data/](https://www.cnet.com/news/privacy/antivirus-firm-avast-is-reportedly-selling-users-web-browsing-data/)
+ - date published: 2020-01-07T06:31:32+00:00
+ - user: rumpel
+ - tags: ['privacy', 'avast', 'antivirus']
+
 ## Joe Rogan on Ricky Gervais' Golden Globes Monologue
  - [https://www.youtube.com/watch?v=WRbaQrb3Jhk](https://www.youtube.com/watch?v=WRbaQrb3Jhk)
  - date published: 2020-01-07T00:00:00+00:00

@@ -1,3 +1,27 @@
+## Police Department Uses Clearview AI for a Year, to the Surprise of Its Oversight
+ - [https://www.techdirt.com/2023/07/13/an-indiana-police-department-has-been-using-clearview-ai-for-a-year-much-to-the-surprise-of-its-oversight/](https://www.techdirt.com/2023/07/13/an-indiana-police-department-has-been-using-clearview-ai-for-a-year-much-to-the-surprise-of-its-oversight/)
+ - date published: 2023-07-14T13:23:43+00:00
+ - user: rumpel
+ - tags: ['clearview']
+
+## Voice Actor Turns Instagram's Terms of Service into 51-Minute Sleep Aid
+ - [https://www.vice.com/en/article/7kxkgx/voice-actor-turns-instagrams-terms-of-service-into-51-minute-sleep-aid](https://www.vice.com/en/article/7kxkgx/voice-actor-turns-instagrams-terms-of-service-into-51-minute-sleep-aid)
+ - date published: 2023-07-14T11:57:37+00:00
+ - user: rumpel
+ - tags: ['technofeudalism', 'corporatocracy']
+
+## Social media riot shutdowns possible under EU content law, top official says
+ - [https://www.politico.eu/article/social-media-riot-shutdowns-possible-under-eu-content-law-breton-says/](https://www.politico.eu/article/social-media-riot-shutdowns-possible-under-eu-content-law-breton-says/)
+ - date published: 2023-07-14T05:35:55+00:00
+ - user: rumpel
+ - tags: ['censorship', 'tech control', 'technofeudalism']
+
+## NYU hosts anti-racism workshop where White parents reflect on 'internalized White superiority'
+ - [https://www.foxnews.com/media/nyu-hosts-anti-racism-workshop-white-parents-reflect-internalized-white-superiority](https://www.foxnews.com/media/nyu-hosts-anti-racism-workshop-white-parents-reflect-internalized-white-superiority)
+ - date published: 2023-07-13T16:00:39+00:00
+ - user: rumpel
+ - tags: ['racism', 'indoctrination']
+
 ## Tax preparers that shared private data with Meta, Google could be fined billions
  - [https://arstechnica.com/tech-policy/2023/07/meta-wont-say-what-happened-to-taxpayer-data-it-may-have-illegally-collected/](https://arstechnica.com/tech-policy/2023/07/meta-wont-say-what-happened-to-taxpayer-data-it-may-have-illegally-collected/)
  - date published: 2023-07-12T21:07:50+00:00
@@ -207,6 +231,12 @@
  - date published: 2023-07-03T13:11:59+00:00
  - user: rumpel
  - tags: ['electric vehicles', 'privacy', 'surveillance', 'dark design']
+
+## Nachricht von Ella | Without Consent
+ - [https://www.youtube.com/watch?v=F4WZ_k0vUDM](https://www.youtube.com/watch?v=F4WZ_k0vUDM)
+ - date published: 2023-07-03T00:00:00+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence', 'privacy']
 
 ## Googling for answers costs you time
  - [https://prashanth.world/seo-ruining-programming-help/](https://prashanth.world/seo-ruining-programming-help/)
