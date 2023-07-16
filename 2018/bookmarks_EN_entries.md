@@ -382,17 +382,17 @@
  - user: None
  - tags: ['lgbt']
 
-## BlackRock - The company that owns the world?
- - [https://www.youtube.com/watch?v=A4foal20UTA](https://www.youtube.com/watch?v=A4foal20UTA)
- - date published: 2018-05-10T21:07:50+00:00
- - user: None
- - tags: ['all time', 'blackrock']
-
 ## Microsoft's Windows 10 has permission to spy on you
  - [https://www.techworm.net/2014/10/microsofts-windows-10-permission-watch-every-move.html](https://www.techworm.net/2014/10/microsofts-windows-10-permission-watch-every-move.html)
  - date published: 2018-05-10T09:02:08+00:00
  - user: rumpel
  - tags: ['eula', 'dark design', 'surveillance', 'privacy', 'windows', 'microsoft']
+
+## BlackRock - The company that owns the world?
+ - [https://www.youtube.com/watch?v=A4foal20UTA](https://www.youtube.com/watch?v=A4foal20UTA)
+ - date published: 2018-05-10T00:00:00+00:00
+ - user: None
+ - tags: ['all time', 'blackrock']
 
 ## The Facebook and Cambridge Analytica scandal, explained with a simple diagram
  - [https://www.vox.com/policy-and-politics/2018/3/23/17151916/facebook-cambridge-analytica-trump-diagram](https://www.vox.com/policy-and-politics/2018/3/23/17151916/facebook-cambridge-analytica-trump-diagram)

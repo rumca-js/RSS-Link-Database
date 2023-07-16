@@ -10786,12 +10786,6 @@
  - user: None
  - tags: ['lab leak', 'wuhan', 'anthony fauci', 'covid']
 
-## Don’t Feed the Beast – the Great Recruitment Agency Infestation
- - [https://gist.github.com/CumpsD/696599d1bd4cd472a0565869672933da](https://gist.github.com/CumpsD/696599d1bd4cd472a0565869672933da)
- - date published: 2022-02-02T20:10:58.711325+00:00
- - user: Thomas Pain
- - tags: $tags
-
 ## Career Advice Nobody Gave Me: Never Ignore a Recruiter | by Alex Chesser | Feb, 2022 | Index
  - [https://index.medium.com/career-advice-nobody-gave-me-never-ignore-a-recruiter-4474eac9556](https://index.medium.com/career-advice-nobody-gave-me-never-ignore-a-recruiter-4474eac9556)
  - date published: 2022-02-02T19:47:33.984274+00:00

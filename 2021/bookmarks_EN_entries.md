@@ -568,12 +568,6 @@
  - user: rumpel
  - tags: ['dead internet', 'google', 'search algorithms']
 
-## This Robot Already Owns Everything (And it's just getting started) : Blackrock Aladdin
- - [https://www.youtube.com/watch?v=AWBRldjVzuM](https://www.youtube.com/watch?v=AWBRldjVzuM)
- - date published: 2021-11-29T22:52:15+00:00
- - user: rumpel
- - tags: ['blackrock', 'aladdin', 'artificial intelligence', 'corporatocracy']
-
 ## Bizarre Conspiracy Theory That Linkin Park's Chester Bennington Was Murdered Tied To Ghislaine Maxwell
  - [https://www.yourtango.com/news/chester-bennington-conspiracy-theory-chris-cornell-john-podesta-pizzagate-ghislaine-maxwell](https://www.yourtango.com/news/chester-bennington-conspiracy-theory-chris-cornell-john-podesta-pizzagate-ghislaine-maxwell)
  - date published: 2021-11-29T21:24:58+00:00
@@ -609,6 +603,12 @@
  - date published: 2021-11-29T07:33:20+00:00
  - user: rumpel
  - tags: ['privacy', 'government control', 'anonymity', 'big tech']
+
+## This Robot Already Owns Everything (And it's just getting started) : Blackrock Aladdin
+ - [https://www.youtube.com/watch?v=AWBRldjVzuM](https://www.youtube.com/watch?v=AWBRldjVzuM)
+ - date published: 2021-11-29T00:00:00+00:00
+ - user: rumpel
+ - tags: ['blackrock', 'aladdin', 'artificial intelligence', 'corporatocracy']
 
 ## Inside Bohemian Grove, The Secret California Club For Powerful Men
  - [https://allthatsinteresting.com/bohemian-grove](https://allthatsinteresting.com/bohemian-grove)
@@ -1341,12 +1341,6 @@
  - date published: 2021-10-21T20:11:58+00:00
  - user: rumpel
  - tags: ['socialism', 'racism']
-
-## BlackRock: The Company that Owns the World
- - [https://www.youtube.com/watch?v=1n4zkdfKUAE](https://www.youtube.com/watch?v=1n4zkdfKUAE)
- - date published: 2021-10-21T08:30:47+00:00
- - user: None
- - tags: ['blackrock']
 
 ## We Analyzed 425,909 Favicons • iconmap.io
  - [https://iconmap.io/blog](https://iconmap.io/blog)
@@ -2752,6 +2746,12 @@
  - user: rumpel
  - tags: ['slave labour', 'kellog', 'palm oil', 'pollution', 'climate change', 'papua new guinea', 'nestle']
 
+## BlackRock: The Company that Owns the World
+ - [https://www.youtube.com/watch?v=1n4zkdfKUAE](https://www.youtube.com/watch?v=1n4zkdfKUAE)
+ - date published: 2021-08-10T00:00:00+00:00
+ - user: None
+ - tags: ['blackrock']
+
 ## Photos, Video Leaked From Obama’s Allegedly ‘Scaled Back’ 60th Birthday Party | The Daily Wire
  - [https://www.dailywire.com/news/photos-video-leaked-from-obamas-allegedly-scaled-back-60th-birthday-party](https://www.dailywire.com/news/photos-video-leaked-from-obamas-allegedly-scaled-back-60th-birthday-party)
  - date published: 2021-08-09T19:52:29+00:00
@@ -3930,7 +3930,7 @@
 
 ## Saagar Enjeti: Epstein Guards ADMIT Faking Records As Bill Gates Revelations Continue
  - [https://www.youtube.com/watch?v=s54H5d34GWE](https://www.youtube.com/watch?v=s54H5d34GWE)
- - date published: 2021-05-24T07:32:48+00:00
+ - date published: 2021-05-24T00:00:00+00:00
  - user: None
  - tags: ['bill gates', 'jeffrey epstein']
 
@@ -3951,6 +3951,12 @@
  - date published: 2021-05-21T07:40:58+00:00
  - user: rumpel
  - tags: ['internet', 'dead internet', 'link rot']
+
+## Bill Gates Won't Stop Lying About Epstein Connections
+ - [https://www.youtube.com/watch?v=D9iF4k16be0](https://www.youtube.com/watch?v=D9iF4k16be0)
+ - date published: 2021-05-21T00:00:00+00:00
+ - user: None
+ - tags: ['bill gates', 'jeffrey epstein']
 
 ## World Economic Forum Urges Companies To Fire Unvaccinated Employees As Part of ‘Jobs Reset,’ Deletes Tweet After Backlash
  - [https://nationalfile.com/world-economic-forum-urges-companies-to-fire-unvaccinated-employees-as-part-of-jobs-reset-deletes-tweet-after-backlash/](https://nationalfile.com/world-economic-forum-urges-companies-to-fire-unvaccinated-employees-as-part-of-jobs-reset-deletes-tweet-after-backlash/)
@@ -4347,12 +4353,6 @@
  - date published: 2021-03-22T14:26:56+00:00
  - user: rumpel
  - tags: ['bill gates', 'billionaires']
-
-## Bill Gates Won't Stop Lying About Epstein Connections
- - [https://www.youtube.com/watch?v=D9iF4k16be0](https://www.youtube.com/watch?v=D9iF4k16be0)
- - date published: 2021-03-21T20:51:19+00:00
- - user: None
- - tags: ['bill gates', 'jeffrey epstein']
 
 ## Pfizer CEO Bourla’s Pay Climbed 17% to $21 Million in 2020
  - [https://www.bloomberg.com/news/articles/2021-03-12/pfizer-ceo-bourla-s-pay-climbed-17-to-21-million-in-2020](https://www.bloomberg.com/news/articles/2021-03-12/pfizer-ceo-bourla-s-pay-climbed-17-to-21-million-in-2020)

@@ -1,3 +1,45 @@
+## GitHub - nicbou/ursus: Static site generator for All About Berlin
+ - [https://github.com/nicbou/ursus](https://github.com/nicbou/ursus)
+ - date published: 2023-07-15T10:18:13+00:00
+ - user: rumpel
+ - tags: ['selfhost', 'static site', 'project']
+
+## IndieWeb Discovery – Tracy Durnell
+ - [https://tracydurnell.com/2021/10/05/indieweb-discovery/](https://tracydurnell.com/2021/10/05/indieweb-discovery/)
+ - date published: 2023-07-15T06:30:42+00:00
+ - user: rumpel
+ - tags: ['blog']
+
+## GitHub - DIYgod/RSSHub: 🍰 Everything is RSSible
+ - [https://github.com/DIYgod/RSSHub/](https://github.com/DIYgod/RSSHub/)
+ - date published: 2023-07-15T06:26:22+00:00
+ - user: rumpel
+ - tags: ['rss', 'project']
+
+## FreshRSS, a free, self-hostable feeds aggregator
+ - [https://freshrss.org/](https://freshrss.org/)
+ - date published: 2023-07-15T06:22:13+00:00
+ - user: rumpel
+ - tags: ['selfhost,rss,rss client']
+
+## I Conscientiously Object to Self-Driving Cars
+ - [https://raypatrick.xyz/blog/2023/05/27/i-conscientiously-object-to-self-driving-cars/](https://raypatrick.xyz/blog/2023/05/27/i-conscientiously-object-to-self-driving-cars/)
+ - date published: 2023-07-15T02:21:51+00:00
+ - user: rumpel
+ - tags: ['electric vehicles']
+
+## Generate RSS feed for any website using CSS selectors
+ - [https://rss-bridge.org/bridge01/#bridge-CssSelectorBridge](https://rss-bridge.org/bridge01/#bridge-CssSelectorBridge)
+ - date published: 2023-07-14T20:23:44+00:00
+ - user: rumpel
+ - tags: ['rss', 'project']
+
+## Pulling my site from Google over AI training
+ - [https://tracydurnell.com/2023/07/11/pulling-my-site-from-google-over-ai-training/](https://tracydurnell.com/2023/07/11/pulling-my-site-from-google-over-ai-training/)
+ - date published: 2023-07-14T17:44:24+00:00
+ - user: rumpel
+ - tags: ['selfhost']
+
 ## Police Department Uses Clearview AI for a Year, to the Surprise of Its Oversight
  - [https://www.techdirt.com/2023/07/13/an-indiana-police-department-has-been-using-clearview-ai-for-a-year-much-to-the-surprise-of-its-oversight/](https://www.techdirt.com/2023/07/13/an-indiana-police-department-has-been-using-clearview-ai-for-a-year-much-to-the-surprise-of-its-oversight/)
  - date published: 2023-07-14T13:23:43+00:00
@@ -16,11 +58,23 @@
  - user: rumpel
  - tags: ['censorship', 'tech control', 'technofeudalism']
 
+## FTC investigating OpenAI on data collection and publication of false information
+ - [https://www.theverge.com/2023/7/13/23793911/ftc-openai-investigation-consumer-ai-false-information](https://www.theverge.com/2023/7/13/23793911/ftc-openai-investigation-consumer-ai-false-information)
+ - date published: 2023-07-13T17:34:57+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence', 'misinformation', 'openai']
+
 ## NYU hosts anti-racism workshop where White parents reflect on 'internalized White superiority'
  - [https://www.foxnews.com/media/nyu-hosts-anti-racism-workshop-white-parents-reflect-internalized-white-superiority](https://www.foxnews.com/media/nyu-hosts-anti-racism-workshop-white-parents-reflect-internalized-white-superiority)
  - date published: 2023-07-13T16:00:39+00:00
  - user: rumpel
  - tags: ['racism', 'indoctrination']
+
+## LG to offer subscriptions for appliances and televisions • The Register
+ - [https://www.theregister.com/2023/07/13/lg_smart_life_solutions_strategy/](https://www.theregister.com/2023/07/13/lg_smart_life_solutions_strategy/)
+ - date published: 2023-07-13T10:06:16+00:00
+ - user: rumpel
+ - tags: ['lg', 'technofeudalism']
 
 ## Tax preparers that shared private data with Meta, Google could be fined billions
  - [https://arstechnica.com/tech-policy/2023/07/meta-wont-say-what-happened-to-taxpayer-data-it-may-have-illegally-collected/](https://arstechnica.com/tech-policy/2023/07/meta-wont-say-what-happened-to-taxpayer-data-it-may-have-illegally-collected/)
@@ -33,6 +87,12 @@
  - date published: 2023-07-12T18:15:35+00:00
  - user: rumpel
  - tags: ['storm-0558', 'espionage', 'china', 'vulnerability', 'hackers']
+
+## Google hit with lawsuit alleging it stole data from millions of users to train its AI tools | CNN Business
+ - [https://edition.cnn.com/2023/07/11/tech/google-ai-lawsuit/index.html](https://edition.cnn.com/2023/07/11/tech/google-ai-lawsuit/index.html)
+ - date published: 2023-07-12T10:03:05+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence', 'google']
 
 ## I Am Leaving
  - [https://briefs.video/videos/i-am-leaving/](https://briefs.video/videos/i-am-leaving/)
@@ -146,7 +206,7 @@
  - [https://github.com/outcoldman/hackernews-personal-blogs/tree/master](https://github.com/outcoldman/hackernews-personal-blogs/tree/master)
  - date published: 2023-07-07T06:16:01+00:00
  - user: rumpel
- - tags: ['project', 'blogs']
+ - tags: ['blog', 'project']
 
 ## All the red flags in the Threads privacy policy
  - [https://qz.com/threads-meta-delayed-launch-eu-privacy-policy-concerns-1850609340](https://qz.com/threads-meta-delayed-launch-eu-privacy-policy-concerns-1850609340)
@@ -3544,12 +3604,6 @@
  - user: rumpel
  - tags: ['big brother', 'censorship', 'twitter', 'twitter files', 'free speech', 'moderation']
 
-## GitHub - awesome-selfhosted/awesome-selfhosted: A list of Free Software network services and web applications which can be hosted on your own servers
- - [https://github.com/awesome-selfhosted/awesome-selfhosted#bookmarks-and-link-sharing](https://github.com/awesome-selfhosted/awesome-selfhosted#bookmarks-and-link-sharing)
- - date published: 2023-03-11T14:22:36+00:00
- - user: rumpel
- - tags: ['selfhost', 'smart home']
-
 ## Republicans try to reframe January 6 as a sightseeing tour – will it work?
  - [https://www.theguardian.com/us-news/2023/mar/11/republicans-reframing-january-6-attack](https://www.theguardian.com/us-news/2023/mar/11/republicans-reframing-january-6-attack)
  - date published: 2023-03-11T07:00:15+00:00
@@ -5438,13 +5492,13 @@
  - [https://github.com/LukeSmithxyz/emailwiz](https://github.com/LukeSmithxyz/emailwiz)
  - date published: 2023-01-13T13:01:24+00:00
  - user: rumpel
- - tags: ['email server', 'selfhost', 'smart home']
+ - tags: ['smart home,. project', 'selfhost', 'email server']
 
 ## GitHub - awesome-selfhosted/awesome-selfhosted: A list of Free Software network services and web applications which can be hosted on your own servers
  - [https://github.com/awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
  - date published: 2023-01-13T12:59:05+00:00
  - user: rumpel
- - tags: ['selfhost', 'smart home']
+ - tags: ['selfhost', 'project', 'smart home']
 
 ## Plex Smart Manufacturing Platform | Plex, by Rockwell Automation
  - [https://www.plex.com/](https://www.plex.com/)
