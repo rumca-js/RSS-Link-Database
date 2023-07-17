@@ -1,3 +1,9 @@
+## Eksperymenty LGBT na dzieciach. Wywiad z potworem
+ - [https://wpolityce.pl/spoleczenstwo/654778-eksperymenty-lgbt-na-dzieciach-wywiad-z-potworem](https://wpolityce.pl/spoleczenstwo/654778-eksperymenty-lgbt-na-dzieciach-wywiad-z-potworem)
+ - date published: 2023-07-16T07:08:51+00:00
+ - user: rumpel
+ - tags: ['transgender', 'the left wing']
+
 ## Spadek napiÄcia z prÄdu, prÄd jednofazowy i trÃ³jfazowy, dÅugoÅÄ, przekrÃ³j lub Årednica przewodu- Calcoolator.pl - Kalkulator online.
  - [https://calcoolator.pl/spadek_napiecia_z_pradu_jednofazowy_trojfazowy.html](https://calcoolator.pl/spadek_napiecia_z_pradu_jednofazowy_trojfazowy.html)
  - date published: 2023-07-10T09:40:46+00:00

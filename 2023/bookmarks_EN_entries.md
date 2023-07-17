@@ -1,8 +1,62 @@
+## GitHub - tubearchivist/tubearchivist: Your self hosted YouTube media server
+ - [https://github.com/tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist)
+ - date published: 2023-07-16T19:42:57+00:00
+ - user: rumpel
+ - tags: ['selfhost', 'youtube']
+
+## Son of Canadian pastor slams PM Justin Trudeau for taking 'freedom and democracy' away from citizens
+ - [https://www.dailymail.co.uk/news/article-12304469/Son-Canadian-pastor-slams-PM-Justin-Trudeau-taking-freedom-democracy-away-citizens.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12304469/Son-Canadian-pastor-slams-PM-Justin-Trudeau-taking-freedom-democracy-away-citizens.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - date published: 2023-07-16T19:22:14+00:00
+ - user: rumpel
+ - tags: ['canada', 'freedom convoy']
+
+## GitHub - go-task/task: A task runner / simpler Make alternative written in Go
+ - [https://github.com/go-task/task](https://github.com/go-task/task)
+ - date published: 2023-07-16T10:28:26+00:00
+ - user: rumpel
+ - tags: ['programming']
+
+## No CSS Club – because no JavaScript was not hardcore enough
+ - [https://nocss.club/](https://nocss.club/)
+ - date published: 2023-07-16T10:17:23+00:00
+ - user: rumpel
+ - tags: ['selfhost', 'webdev', 'web10']
+
+## What the media won't tell you about US heat waves (2022)
+ - [https://rogerpielkejr.substack.com/p/what-the-media-wont-tell-you-about-9f9](https://rogerpielkejr.substack.com/p/what-the-media-wont-tell-you-about-9f9)
+ - date published: 2023-07-16T09:07:28+00:00
+ - user: rumpel
+ - tags: ['climate change']
+
+## How to Use AI to Do Stuff: An Opinionated Guide
+ - [https://www.oneusefulthing.org/p/how-to-use-ai-to-do-stuff-an-opinionated](https://www.oneusefulthing.org/p/how-to-use-ai-to-do-stuff-an-opinionated)
+ - date published: 2023-07-16T04:51:38+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
+
+## Nobody cares about your blog
+ - [https://www.alexmolas.com/2023/07/15/nobody-cares-about-your-blog.html](https://www.alexmolas.com/2023/07/15/nobody-cares-about-your-blog.html)
+ - date published: 2023-07-15T22:47:53+00:00
+ - user: rumpel
+ - tags: ['blog']
+
 ## GitHub - nicbou/ursus: Static site generator for All About Berlin
  - [https://github.com/nicbou/ursus](https://github.com/nicbou/ursus)
  - date published: 2023-07-15T10:18:13+00:00
  - user: rumpel
  - tags: ['selfhost', 'static site', 'project']
+
+## People who are gay, lesbian or bi have more mental health and substance use problems, survey finds | CNN
+ - [https://edition.cnn.com/2023/06/13/health/lgb-people-mental-health-substance-use/index.html](https://edition.cnn.com/2023/06/13/health/lgb-people-mental-health-substance-use/index.html)
+ - date published: 2023-07-15T07:38:34+00:00
+ - user: rumpel
+ - tags: ['lgbt', 'the left wing']
+
+## Kamala Harris says US must ‘reduce population’ to fight climate change in latest gaffe
+ - [https://nypost.com/2023/07/15/kamala-harris-says-us-must-reduce-population-to-fight-climate-change-in-latest-gaffe/](https://nypost.com/2023/07/15/kamala-harris-says-us-must-reduce-population-to-fight-climate-change-in-latest-gaffe/)
+ - date published: 2023-07-15T07:16:00+00:00
+ - user: rumpel
+ - tags: ['depopulation', 'climate change']
 
 ## IndieWeb Discovery – Tracy Durnell
  - [https://tracydurnell.com/2021/10/05/indieweb-discovery/](https://tracydurnell.com/2021/10/05/indieweb-discovery/)
@@ -130,6 +184,12 @@
  - user: rumpel
  - tags: ['programming']
 
+## Church teaches pupils to learn the 'white supremacy pyramid'
+ - [https://www.telegraph.co.uk/news/2023/07/10/you-benefit-from-white-privilege-church-of-england-school/](https://www.telegraph.co.uk/news/2023/07/10/you-benefit-from-white-privilege-church-of-england-school/)
+ - date published: 2023-07-10T08:21:52+00:00
+ - user: rumpel
+ - tags: ['racism', 'indoctrination']
+
 ## YouTube Censors Jordan Peterson For “Hate Speech”
  - [https://reclaimthenet.org/youtube-censors-jordan-peterson-for-hate-speech](https://reclaimthenet.org/youtube-censors-jordan-peterson-for-hate-speech)
  - date published: 2023-07-09T18:07:41+00:00
@@ -201,6 +261,12 @@
  - date published: 2023-07-07T08:58:32+00:00
  - user: rumpel
  - tags: ['selfhost', 'project']
+
+## Blair Peters transgender surgeon
+ - [https://twitter.com/ChesterTweet/status/1677408960591085570](https://twitter.com/ChesterTweet/status/1677408960591085570)
+ - date published: 2023-07-07T07:10:21+00:00
+ - user: rumpel
+ - tags: ['lgbt', 'transgender', 'the left wing']
 
 ## GitHub - outcoldman/hackernews-personal-blogs: List of Public Blogs of Hacker News users
  - [https://github.com/outcoldman/hackernews-personal-blogs/tree/master](https://github.com/outcoldman/hackernews-personal-blogs/tree/master)
