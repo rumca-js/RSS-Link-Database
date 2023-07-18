@@ -7258,6 +7258,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Facebook messages are key evidence in abortion prosecution : NPR
+ - [https://www.npr.org/2022/08/12/1117092169/nebraska-cops-used-facebook-messages-to-investigate-an-alleged-illegal-abortion](https://www.npr.org/2022/08/12/1117092169/nebraska-cops-used-facebook-messages-to-investigate-an-alleged-illegal-abortion)
+ - date published: 2022-08-12T06:11:59+00:00
+ - user: rumpel
+ - tags: ['technofeudalism', 'privacy']
+
 ## LinkedIn Profiles Indicate 300 Current TikTok And ByteDance Employees Used To Work For Chinese State Media—And Some Still Do
  - [https://www.forbes.com/sites/emilybaker-white/2022/08/10/bytedance-tiktok-china-state-media-propaganda/](https://www.forbes.com/sites/emilybaker-white/2022/08/10/bytedance-tiktok-china-state-media-propaganda/)
  - date published: 2022-08-11T21:10:20+00:00

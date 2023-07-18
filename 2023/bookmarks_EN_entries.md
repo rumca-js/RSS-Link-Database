@@ -1,3 +1,21 @@
+## Meta faces $100K daily fine over privacy concerns in user advertising
+ - [https://abcnews.go.com/Technology/wireStory/meta-faces-100k-daily-fine-norway-regulator-privacy-101342705](https://abcnews.go.com/Technology/wireStory/meta-faces-100k-daily-fine-norway-regulator-privacy-101342705)
+ - date published: 2023-07-17T17:04:00+00:00
+ - user: rumpel
+ - tags: ['meta', 'privacy']
+
+## Palantir Technologies - Wikipedia
+ - [https://en.m.wikipedia.org/wiki/Palantir_Technologies](https://en.m.wikipedia.org/wiki/Palantir_Technologies)
+ - date published: 2023-07-17T16:20:43+00:00
+ - user: rumpel
+ - tags: ['palantir', 'big brother', 'surveillance', 'big data']
+
+## Europe should cap energy use of richest to stay within carbon budget, study says
+ - [https://www.theguardian.com/environment/2023/jul/17/europe-cap-luxury-energy-use-emissions-carbon-budget-targets-study](https://www.theguardian.com/environment/2023/jul/17/europe-cap-luxury-energy-use-emissions-carbon-budget-targets-study)
+ - date published: 2023-07-17T15:00:30+00:00
+ - user: rumpel
+ - tags: ['global warming', 'billionaires', 'climate change']
+
 ## GitHub - tubearchivist/tubearchivist: Your self hosted YouTube media server
  - [https://github.com/tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist)
  - date published: 2023-07-16T19:42:57+00:00
@@ -8,7 +26,13 @@
  - [https://www.dailymail.co.uk/news/article-12304469/Son-Canadian-pastor-slams-PM-Justin-Trudeau-taking-freedom-democracy-away-citizens.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12304469/Son-Canadian-pastor-slams-PM-Justin-Trudeau-taking-freedom-democracy-away-citizens.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2023-07-16T19:22:14+00:00
  - user: rumpel
- - tags: ['canada', 'freedom convoy']
+ - tags: ['canada', 'justin trudeau', 'freedom convoy']
+
+## Israel Quietly Embeds AI Systems in Deadly Military Operations
+ - [https://www.bloomberg.com/news/articles/2023-07-16/israel-using-ai-systems-to-plan-deadly-military-operations#xj4y7vzkg](https://www.bloomberg.com/news/articles/2023-07-16/israel-using-ai-systems-to-plan-deadly-military-operations#xj4y7vzkg)
+ - date published: 2023-07-16T18:02:56+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
 
 ## GitHub - go-task/task: A task runner / simpler Make alternative written in Go
  - [https://github.com/go-task/task](https://github.com/go-task/task)
@@ -178,6 +202,12 @@
  - user: rumpel
  - tags: ['technofeudalism', 'banksters', 'brazil', 'cbdc']
 
+## How Palantir Is Shaping the Future of Warfare
+ - [https://time.com/6293398/palantir-future-of-warfare-ukraine/](https://time.com/6293398/palantir-future-of-warfare-ukraine/)
+ - date published: 2023-07-10T17:30:26+00:00
+ - user: rumpel
+ - tags: ['big data', 'artificial intelligence', 'machine learning', 'palantir', 'surveillance']
+
 ## The controller pattern is awful (and other OO heresy)
  - [https://eev.ee/blog/2013/03/03/the-controller-pattern-is-awful-and-other-oo-heresy/](https://eev.ee/blog/2013/03/03/the-controller-pattern-is-awful-and-other-oo-heresy/)
  - date published: 2023-07-10T08:27:04+00:00
@@ -201,6 +231,12 @@
  - date published: 2023-07-09T10:32:47+00:00
  - user: rumpel
  - tags: ['rss', 'rss client']
+
+## Mark Zuckerberg Hides His Kids' Faces on Social Media. Should You?
+ - [https://www.businessinsider.com/mark-zuckerberg-hides-kids-faces-on-social-media-should-you-2023-7?IR=T](https://www.businessinsider.com/mark-zuckerberg-hides-kids-faces-on-social-media-should-you-2023-7?IR=T)
+ - date published: 2023-07-09T06:56:32+00:00
+ - user: rumpel
+ - tags: ['social media', 'privacy']
 
 ## How and Why I Stopped Buying New Laptops (2020)
  - [https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops/](https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops/)
