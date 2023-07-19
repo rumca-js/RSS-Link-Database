@@ -1,3 +1,9 @@
+## AI is not ready for large scale adoption but will be biggest bubble of all time, says Stability AI CEO
+ - [https://www.coinspeaker.com/ai-adoption-bubble-stability-ai/](https://www.coinspeaker.com/ai-adoption-bubble-stability-ai/)
+ - date published: 2023-07-18T04:00:00+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
+
 ## Meta faces $100K daily fine over privacy concerns in user advertising
  - [https://abcnews.go.com/Technology/wireStory/meta-faces-100k-daily-fine-norway-regulator-privacy-101342705](https://abcnews.go.com/Technology/wireStory/meta-faces-100k-daily-fine-norway-regulator-privacy-101342705)
  - date published: 2023-07-17T17:04:00+00:00
@@ -2385,6 +2391,12 @@
  - date published: 2023-04-26T09:30:54+00:00
  - user: rumpel
  - tags: ['germany', 'climate change', 'atom']
+
+## Amazon reviews are being written by AI chatbots
+ - [https://www.cnbc.com/2023/04/25/amazon-reviews-are-being-written-by-ai-chatbots.html](https://www.cnbc.com/2023/04/25/amazon-reviews-are-being-written-by-ai-chatbots.html)
+ - date published: 2023-04-25T19:05:12+00:00
+ - user: rumpel
+ - tags: ['dead internet', 'amazon', 'artificial intelligence']
 
 ## Justin Trudeau accused of rewriting history by claiming he never forced anyone to get vaccinated
  - [https://www.foxnews.com/media/justin-trudeau-accused-rewriting-history-claiming-never-forced-anyone-get-vaccinated](https://www.foxnews.com/media/justin-trudeau-accused-rewriting-history-claiming-never-forced-anyone-get-vaccinated)

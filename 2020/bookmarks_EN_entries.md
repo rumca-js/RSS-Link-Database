@@ -496,6 +496,12 @@
  - user: rumpel
  - tags: ['google', 'antitrust', 'big tech']
 
+## Amazon fake reviews reach holiday season levels during pandemic -  BNN Bloomberg
+ - [https://www.bnnbloomberg.ca/amazon-fake-reviews-reach-holiday-season-levels-during-pandemic-1.1509892](https://www.bnnbloomberg.ca/amazon-fake-reviews-reach-holiday-season-levels-during-pandemic-1.1509892)
+ - date published: 2020-10-19T19:01:00+00:00
+ - user: rumpel
+ - tags: ['amazon']
+
 ## Facebook, Twitter employees send over 90% of political donations to Democrats: report | Fox News
  - [https://www.foxnews.com/politics/facebook-twitter-employees-donations-democrats](https://www.foxnews.com/politics/facebook-twitter-employees-donations-democrats)
  - date published: 2020-10-16T19:47:48+00:00

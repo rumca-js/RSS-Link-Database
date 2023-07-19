@@ -706,6 +706,12 @@
  - user: rumpel
  - tags: ['universities', 'science is dead', 'gender', 'indoctrination', 'the left wing']
 
+## Amazon's Fake Review Problem Is Getting Worse
+ - [https://www.forbes.com/sites/emmawoollacott/2019/04/16/amazons-fake-review-problem-is-getting-worse/](https://www.forbes.com/sites/emmawoollacott/2019/04/16/amazons-fake-review-problem-is-getting-worse/)
+ - date published: 2019-04-16T18:57:48+00:00
+ - user: rumpel
+ - tags: ['amazon']
+
 ## Tracking Phones, Google Is a Dragnet for the Police - The New York Times
  - [https://www.nytimes.com/interactive/2019/04/13/us/google-location-tracking-police.html](https://www.nytimes.com/interactive/2019/04/13/us/google-location-tracking-police.html)
  - date published: 2019-04-13T09:54:57+00:00
