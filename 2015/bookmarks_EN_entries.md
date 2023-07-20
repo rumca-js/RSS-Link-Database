@@ -22,6 +22,12 @@
  - user: rumpel
  - tags: ['wuhan', 'covid']
 
+## Modern Educayshun
+ - [https://www.youtube.com/watch?v=iKcWu0tsiZM](https://www.youtube.com/watch?v=iKcWu0tsiZM)
+ - date published: 2015-11-09T00:00:00+00:00
+ - user: rumpel
+ - tags: ['the left wing', 'indoctrination']
+
 ## How to Control What People Do | Propaganda - EDWARD BERNAYS | Animated Book Summary
  - [https://www.youtube.com/watch?v=8Q-3qwEDyPM](https://www.youtube.com/watch?v=8Q-3qwEDyPM)
  - date published: 2015-10-26T16:07:21+00:00
@@ -198,7 +204,7 @@
 
 ## Bill Gates: The next outbreak? We’re not ready | TED
  - [https://www.youtube.com/watch?v=6Af6b_wyiwI](https://www.youtube.com/watch?v=6Af6b_wyiwI)
- - date published: 2015-04-03T07:28:00+00:00
+ - date published: 2015-04-03T00:00:00+00:00
  - user: None
  - tags: ['ted', 'pandemic', 'bill gates']
 
@@ -237,6 +243,12 @@
  - date published: 2015-01-19T06:55:34+00:00
  - user: rumpel
  - tags: ['wikipedia']
+
+## #Equality
+ - [https://www.youtube.com/watch?v=XM-HJT8_esM](https://www.youtube.com/watch?v=XM-HJT8_esM)
+ - date published: 2015-01-18T00:00:00+00:00
+ - user: rumpel
+ - tags: ['the left wing', 'sexism', 'racism']
 
 ## Can the government ban encryption? - BBC News
  - [https://www.bbc.com/news/technology-30794953](https://www.bbc.com/news/technology-30794953)

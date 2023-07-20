@@ -174,7 +174,7 @@
 
 ## Smart City: How do you live in a Smart City? | Future Smart City Projects | Surveillance or Utopia?
  - [https://www.youtube.com/watch?v=VRRPy-yEKRM](https://www.youtube.com/watch?v=VRRPy-yEKRM)
- - date published: 2019-10-22T19:55:30+00:00
+ - date published: 2019-10-22T00:00:00+00:00
  - user: None
  - tags: ['smart city', 'privacy', 'surveillance']
 
@@ -308,7 +308,7 @@
  - [https://www.youtube.com/watch?v=e9yK1QndJSM](https://www.youtube.com/watch?v=e9yK1QndJSM)
  - date published: 2019-09-17T00:00:00+00:00
  - user: rumpel
- - tags: ['privacy', 'edward snowden', 'surveillance']
+ - tags: ['edward snowden', 'surveillance', 'democracy', 'privacy']
 
 ## 8 Things You May Not Know About Our Air Defense on 9/11 > U.S. Department of Defense > Defense Department News
  - [https://www.defense.gov/News/News-Stories/Article/Article/1955624/8-things-you-may-not-know-about-our-air-defense-on-911/](https://www.defense.gov/News/News-Stories/Article/Article/1955624/8-things-you-may-not-know-about-our-air-defense-on-911/)
@@ -472,12 +472,6 @@
  - user: rumpel
  - tags: ['dead internet', 'big tech', 'search engines', 'algorithms', 'media bias', 'manufacturing consent']
 
-## MAN, I FEEL LIKE A WOMAN: Walsh absolutely wrecks entire transgender argument
- - [https://www.youtube.com/watch?v=J0a0fllObFk](https://www.youtube.com/watch?v=J0a0fllObFk)
- - date published: 2019-07-30T08:48:08+00:00
- - user: rumpel
- - tags: ['transgender', 'gender', 'the left wing', 'lgbt']
-
 ## Ben Shapiro Vs Climate Change | UBC Talk
  - [https://www.youtube.com/watch?v=wRk1p8Lzwvo](https://www.youtube.com/watch?v=wRk1p8Lzwvo)
  - date published: 2019-07-27T14:40:12+00:00
@@ -549,6 +543,12 @@
  - date published: 2019-07-05T08:18:45+00:00
  - user: rumpel
  - tags: ['sexualization', 'children']
+
+## MAN, I FEEL LIKE A WOMAN: Walsh absolutely wrecks entire transgender argument
+ - [https://www.youtube.com/watch?v=J0a0fllObFk](https://www.youtube.com/watch?v=J0a0fllObFk)
+ - date published: 2019-06-30T00:00:00+00:00
+ - user: rumpel
+ - tags: ['transgender', 'gender', 'the left wing', 'lgbt']
 
 ## Amazon, Google and Facebook warrant antitrust scrutiny for many reasons – not just because they're large
  - [https://theconversation.com/amazon-google-and-facebook-warrant-antitrust-scrutiny-for-many-reasons-not-just-because-theyre-large-118370](https://theconversation.com/amazon-google-and-facebook-warrant-antitrust-scrutiny-for-many-reasons-not-just-because-theyre-large-118370)
@@ -870,7 +870,7 @@
 
 ## Desmond Napoles "Child Drag Queen" Exploited By Adults
  - [https://www.youtube.com/watch?v=UEgA8kHuYvs](https://www.youtube.com/watch?v=UEgA8kHuYvs)
- - date published: 2019-01-04T21:28:23+00:00
+ - date published: 2019-01-03T00:00:00+00:00
  - user: rumpel
  - tags: ['the left wing', 'children', 'lgbt', 'sexualization']
 

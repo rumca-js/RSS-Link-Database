@@ -288,7 +288,7 @@
 
 ## Joe Rogan & Ben Shapiro on the Transgender Movement, Men vs. Women in Sports
  - [https://www.youtube.com/watch?v=IdjdNgvF42o](https://www.youtube.com/watch?v=IdjdNgvF42o)
- - date published: 2017-08-03T22:21:57+00:00
+ - date published: 2017-08-03T00:00:00+00:00
  - user: rumpel
  - tags: ['ben shapiro', 'joe rogan', 'the left wing', 'transgender']
 

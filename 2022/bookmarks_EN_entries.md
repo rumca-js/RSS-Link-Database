@@ -244,17 +244,17 @@
  - user: rumpel
  - tags: ['taiwan', 'crisis', 'china']
 
-## “Woke” Investors Funding China’s Human Rights Abuses
- - [https://www.youtube.com/watch?v=_zcA3rtywXQ](https://www.youtube.com/watch?v=_zcA3rtywXQ)
- - date published: 2022-12-26T08:29:18+00:00
- - user: rumpel
- - tags: ['the left wing', 'woke', 'hypocrisy', 'china', 'esg']
-
 ## Rogue antibody and mystery pathogen behind AstraZeneca blood clots: study
  - [https://www.smh.com.au/national/rogue-antibody-and-mystery-pathogen-behind-astrazeneca-blood-clots-study-20221223-p5c8gl.html](https://www.smh.com.au/national/rogue-antibody-and-mystery-pathogen-behind-astrazeneca-blood-clots-study-20221223-p5c8gl.html)
  - date published: 2022-12-26T08:04:35+00:00
  - user: rumpel
  - tags: ['astrazeneca', 'vaccine', 'covid']
+
+## “Woke” Investors Funding China’s Human Rights Abuses
+ - [https://www.youtube.com/watch?v=_zcA3rtywXQ](https://www.youtube.com/watch?v=_zcA3rtywXQ)
+ - date published: 2022-12-26T00:00:00+00:00
+ - user: rumpel
+ - tags: ['the left wing', 'woke', 'hypocrisy', 'china', 'esg']
 
 ## I Disapprove of What You Say, but Will Defend Your Right to Say It (2015)
  - [https://quoteinvestigator.com/2015/06/01/defend-say/](https://quoteinvestigator.com/2015/06/01/defend-say/)
@@ -644,7 +644,7 @@
  - [https://reclaimthenet.org/aspen-institute-tabletop-exercise-hunter-biden-censorship/](https://reclaimthenet.org/aspen-institute-tabletop-exercise-hunter-biden-censorship/)
  - date published: 2022-12-20T19:10:46+00:00
  - user: rumpel
- - tags: ['twitter files', 'hunter biden']
+ - tags: ['hunter biden', 'joe biden', 'manufacturing consent', 'twitter files']
 
 ## Canada redefined economic impact as “violence” to justify freezing protesters’ bank accounts
  - [https://reclaimthenet.org/canada-redefined-economic-impact-as-violence-ea/](https://reclaimthenet.org/canada-redefined-economic-impact-as-violence-ea/)
@@ -1912,12 +1912,6 @@
  - user: None
  - tags: ['meta', 'privacy', 'facebook']
 
-## FULL INTERVIEW: Dr Jordan Peterson on COVID hysteria and the culture wars
- - [https://www.youtube.com/watch?v=gfGOSpg9Pds](https://www.youtube.com/watch?v=gfGOSpg9Pds)
- - date published: 2022-11-28T14:05:55+00:00
- - user: rumpel
- - tags: ['covid', 'culture wars', 'fearmongering', 'lockdown']
-
 ## BSAG » Hold me closer, tiny keyboard
  - [https://www.rousette.org.uk/archives/hold-me-closer-tiny-keyboard/](https://www.rousette.org.uk/archives/hold-me-closer-tiny-keyboard/)
  - date published: 2022-11-28T10:29:05+00:00
@@ -1929,6 +1923,12 @@
  - date published: 2022-11-28T05:00:00+00:00
  - user: None
  - tags: ['digital dementia', 'psychology', 'smartphone']
+
+## FULL INTERVIEW: Dr Jordan Peterson on COVID hysteria and the culture wars
+ - [https://www.youtube.com/watch?v=gfGOSpg9Pds](https://www.youtube.com/watch?v=gfGOSpg9Pds)
+ - date published: 2022-11-28T00:00:00+00:00
+ - user: rumpel
+ - tags: ['covid', 'culture wars', 'fearmongering', 'lockdown']
 
 ## Disney’s ‘Strange World’ On Track To Lose $100 Million
  - [https://www.dailywire.com/news/disneys-strange-world-on-track-to-lose-100-million](https://www.dailywire.com/news/disneys-strange-world-on-track-to-lose-100-million)
@@ -3051,12 +3051,6 @@
  - date published: 2022-11-01T10:40:54+00:00
  - user: None
  - tags: ['cbdc', 'singapore']
-
-## Woke doctor pledge replaces Hippocratic oath for Minnesota medical students
- - [https://www.youtube.com/watch?v=U_c7CcVspfI](https://www.youtube.com/watch?v=U_c7CcVspfI)
- - date published: 2022-11-01T10:22:59+00:00
- - user: None
- - tags: ['science', 'the left wing']
 
 ## FB and Twitter have special portals for the government to take down content
  - [https://twitter.com/lhfang/status/1587104660355096576](https://twitter.com/lhfang/status/1587104660355096576)
@@ -4222,12 +4216,6 @@
  - user: rumpel
  - tags: ['tool', 'programming', 'compiler']
 
-## HOW CBDCs TAKE AWAY OUR FREEDOMS ft Nigel Farage
- - [https://www.youtube.com/watch?v=N8t7npjutik](https://www.youtube.com/watch?v=N8t7npjutik)
- - date published: 2022-10-16T10:34:21+00:00
- - user: None
- - tags: ['cbdc', 'technofeudalism']
-
 ## China Doubles Down on ‘Covid Zero’ Despite Economic Toll
  - [https://www.nytimes.com/2022/10/16/world/asia/china-is-sticking-to-its-zero-covid-policy.html](https://www.nytimes.com/2022/10/16/world/asia/china-is-sticking-to-its-zero-covid-policy.html)
  - date published: 2022-10-16T08:30:25+00:00
@@ -4239,6 +4227,12 @@
  - date published: 2022-10-16T07:24:23.835423+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## HOW CBDCs TAKE AWAY OUR FREEDOMS ft Nigel Farage
+ - [https://www.youtube.com/watch?v=N8t7npjutik](https://www.youtube.com/watch?v=N8t7npjutik)
+ - date published: 2022-10-16T00:00:00+00:00
+ - user: None
+ - tags: ['cbdc', 'technofeudalism']
 
 ## Public Relations Company for Big Pharma Now “Embedding” Employees at CDC
  - [https://disinformationchronicle.substack.com/p/weve-unlocked-the-article-weber-shandwick](https://disinformationchronicle.substack.com/p/weve-unlocked-the-article-weber-shandwick)
@@ -4341,6 +4335,12 @@
  - date published: 2022-10-13T14:25:00+00:00
  - user: None
  - tags: ['google', 'app store', 'play store', 'moderation', 'censorship']
+
+## Woke doctor pledge replaces Hippocratic oath for Minnesota medical students
+ - [https://www.youtube.com/watch?v=U_c7CcVspfI](https://www.youtube.com/watch?v=U_c7CcVspfI)
+ - date published: 2022-10-13T00:00:00+00:00
+ - user: None
+ - tags: ['science', 'the left wing']
 
 ## Alex Jones to pay $965M to Sandy Hook victims
  - [https://www.bbc.co.uk/news/world-us-canada-63237092](https://www.bbc.co.uk/news/world-us-canada-63237092)
@@ -5474,7 +5474,7 @@
  - [https://gizmodo.com/ncis-whistleblower-military-data-broker-cymru-wyden-1849564984](https://gizmodo.com/ncis-whistleblower-military-data-broker-cymru-wyden-1849564984)
  - date published: 2022-09-21T21:58:00+00:00
  - user: None
- - tags: ['big brother', 'pentagon', 'surveillance', 'america']
+ - tags: ['big brother', 'privacy laundering', 'surveillance', 'pentagon', 'america']
 
 ## More than 40,000 NYers have migrated to FL due to soaring crime, eye-watering taxes and  living cost
  - [https://www.dailymail.co.uk/news/article-11236391/More-40-000-NYers-migrated-FL-soaring-crime-eye-watering-taxes-living-cost.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11236391/More-40-000-NYers-migrated-FL-soaring-crime-eye-watering-taxes-living-cost.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -6884,13 +6884,13 @@
  - [https://www.breitbart.com/the-media/2022/08/26/poll-79-percent-say-donald-trump-would-have-won-hunters-laptop-was-known-voters/](https://www.breitbart.com/the-media/2022/08/26/poll-79-percent-say-donald-trump-would-have-won-hunters-laptop-was-known-voters/)
  - date published: 2022-08-26T09:18:12+00:00
  - user: rumpel
- - tags: ['hunter biden', 'politics']
+ - tags: ['hunter biden', 'joe biden', 'politics']
 
 ## 2020 election outcome would differ with Hunter Biden laptop coverage: poll
  - [https://nypost.com/2022/08/26/2020-election-outcome-would-differ-with-hunter-biden-laptop-coverage-poll/](https://nypost.com/2022/08/26/2020-election-outcome-would-differ-with-hunter-biden-laptop-coverage-poll/)
  - date published: 2022-08-26T09:17:40+00:00
  - user: rumpel
- - tags: ['hunter biden', 'politics']
+ - tags: ['hunter biden', 'joe biden', 'politics']
 
 ## The Legacy of Heroku's Free Tier - Xe
  - [https://xeiaso.net/blog/rip-heroku](https://xeiaso.net/blog/rip-heroku)
@@ -8416,12 +8416,6 @@
  - user: Thomas Pain
  - tags: $tags
 
-## Matt Walsh Revisits His What Is A Woman Interview With Dr. Forcier
- - [https://www.youtube.com/watch?v=zdDB8wU73NA](https://www.youtube.com/watch?v=zdDB8wU73NA)
- - date published: 2022-06-03T12:30:46+00:00
- - user: rumpel
- - tags: ['what is a woman', 'gender', 'newspeak', 'the left wing', 'lgbt']
-
 ## Europe's hope to scan devices for unlawful files criticized • The Register
  - [https://www.theregister.com/2022/06/02/eu_child_protection/?td=keepreading-top](https://www.theregister.com/2022/06/02/eu_child_protection/?td=keepreading-top)
  - date published: 2022-06-03T10:01:36.564116+00:00
@@ -8445,6 +8439,12 @@
  - date published: 2022-06-03T06:58:22+00:00
  - user: rumpel
  - tags: ['blm', 'black lives matter', 'hate speech', 'usa', 'racism']
+
+## Matt Walsh Revisits His What Is A Woman Interview With Dr. Forcier
+ - [https://www.youtube.com/watch?v=zdDB8wU73NA](https://www.youtube.com/watch?v=zdDB8wU73NA)
+ - date published: 2022-06-03T00:00:00+00:00
+ - user: rumpel
+ - tags: ['what is a woman', 'gender', 'newspeak', 'the left wing', 'lgbt']
 
 ## A Letter to Discord for not Supporting the Linux Desktop | TheEvilSkeleton
  - [https://theevilskeleton.gitlab.io/2022/05/29/a-letter-to-discord-for-not-supporting-the-linux-desktop.html](https://theevilskeleton.gitlab.io/2022/05/29/a-letter-to-discord-for-not-supporting-the-linux-desktop.html)
@@ -8800,12 +8800,6 @@
  - user: None
  - tags: ['wef', 'world economic forum', 'depopulation', 'population']
 
-## OFFICIAL TRAILER: "WHAT IS A WOMAN?"
- - [https://www.youtube.com/watch?v=42ivIRd9N8E](https://www.youtube.com/watch?v=42ivIRd9N8E)
- - date published: 2022-05-14T12:29:42+00:00
- - user: rumpel
- - tags: ['what is a woman', 'gender', 'newspeak', 'the left wing', 'lgbt']
-
 ## Rosenzweig – The Apple GPU and the Impossible Bug
  - [https://rosenzweig.io/blog/asahi-gpu-part-5.html](https://rosenzweig.io/blog/asahi-gpu-part-5.html)
  - date published: 2022-05-14T07:14:41.765458+00:00
@@ -8817,6 +8811,12 @@
  - date published: 2022-05-14T07:03:27.048293+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## OFFICIAL TRAILER: "WHAT IS A WOMAN?"
+ - [https://www.youtube.com/watch?v=42ivIRd9N8E](https://www.youtube.com/watch?v=42ivIRd9N8E)
+ - date published: 2022-05-14T00:00:00+00:00
+ - user: rumpel
+ - tags: ['what is a woman', 'gender', 'newspeak', 'the left wing', 'lgbt']
 
 ## The Splinternet | This Is How The Internet Dies
  - [https://www.youtube.com/watch?v=D6QwK9EpN5M](https://www.youtube.com/watch?v=D6QwK9EpN5M)
@@ -8986,12 +8986,6 @@
  - user: rumpel
  - tags: ['america', 'homelessness']
 
-## Microsoft Can Kiss My A** | Do You Own Your PC?
- - [https://www.youtube.com/watch?v=Lv5xHfZnk4s](https://www.youtube.com/watch?v=Lv5xHfZnk4s)
- - date published: 2022-05-04T20:25:51+00:00
- - user: None
- - tags: ['windows', 'subscription']
-
 ## Writing a Book for O'Reilly - Party One
  - [https://www.thecodepainter.co.uk/blog/20220503/writeabook01](https://www.thecodepainter.co.uk/blog/20220503/writeabook01)
  - date published: 2022-05-04T19:10:34+00:00
@@ -9021,6 +9015,12 @@
  - date published: 2022-05-03T15:56:20.291948+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Microsoft Can Kiss My A** | Do You Own Your PC?
+ - [https://www.youtube.com/watch?v=Lv5xHfZnk4s](https://www.youtube.com/watch?v=Lv5xHfZnk4s)
+ - date published: 2022-05-03T00:00:00+00:00
+ - user: None
+ - tags: ['windows', 'subscription']
 
 ## Tracking Exposed: Demanding That the Gods Explain Themselves | Electronic Frontier Foundation
  - [https://www.eff.org/deeplinks/2022/05/tracking-exposed-demanding-gods-explain-themselves](https://www.eff.org/deeplinks/2022/05/tracking-exposed-demanding-gods-explain-themselves)
@@ -10576,6 +10576,12 @@
  - user: rumpel
  - tags: ['big pharma']
 
+## The Dead Internet Theory 3
+ - [https://www.youtube.com/watch?v=RFb1Ctnqw0E](https://www.youtube.com/watch?v=RFb1Ctnqw0E)
+ - date published: 2022-02-11T00:00:00+00:00
+ - user: None
+ - tags: ['dead internet']
+
 ## Judge freezes access to funds donated to protesting truckers in Canada : NPR
  - [https://www.npr.org/2022/02/10/1080022827/a-canadian-judge-has-frozen-access-to-donations-for-the-trucker-convoy-protest](https://www.npr.org/2022/02/10/1080022827/a-canadian-judge-has-frozen-access-to-donations-for-the-trucker-convoy-protest)
  - date published: 2022-02-10T20:37:09+00:00
@@ -10593,12 +10599,6 @@
  - date published: 2022-02-10T20:19:16+00:00
  - user: rumpel
  - tags: ['project veritas', 'covid', 'gain of function']
-
-## The Dead Internet Theory (Part 3)
- - [https://www.youtube.com/watch?v=RFb1Ctnqw0E](https://www.youtube.com/watch?v=RFb1Ctnqw0E)
- - date published: 2022-02-10T18:13:44+00:00
- - user: None
- - tags: ['dead internet']
 
 ## Young Men and Society: We Will Only Get Out What We Put In | Institute for Family Studies
  - [https://ifstudies.org/blog/young-men-and-society-we-will-only-get-out-what-we-put-in](https://ifstudies.org/blog/young-men-and-society-we-will-only-get-out-what-we-put-in)
@@ -11098,12 +11098,6 @@
  - user: rumpel
  - tags: ['science', 'facebook', 'censorship', 'fact check', 'science is dead', 'bmj']
 
-## Jordan Peterson: Female Totalitarianism | with James Orr & Arif Ahmed (Cambridge)
- - [https://www.youtube.com/watch?v=fwow0lrwY8U](https://www.youtube.com/watch?v=fwow0lrwY8U)
- - date published: 2022-01-18T20:59:14+00:00
- - user: None
- - tags: ['totalitarianism', 'socialism', 'the left wing']
-
 ## Make debugging suck less. Keep a logbook. 📓 | Conor Lamb
  - [https://conorcorp.github.io/posts/make-debuggin-suck-less/](https://conorcorp.github.io/posts/make-debuggin-suck-less/)
  - date published: 2022-01-18T17:07:59.170151+00:00
@@ -11127,6 +11121,12 @@
  - date published: 2022-01-18T08:27:14.377498+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Jordan Peterson: Female Totalitarianism | with James Orr & Arif Ahmed (Cambridge)
+ - [https://www.youtube.com/watch?v=fwow0lrwY8U](https://www.youtube.com/watch?v=fwow0lrwY8U)
+ - date published: 2022-01-18T00:00:00+00:00
+ - user: None
+ - tags: ['totalitarianism', 'socialism', 'the left wing']
 
 ## Your app is not compliant with Google Play Policies: A story from hell | Sylvia van Os
  - [https://sylviavanos.nl/blog/2021/12/24/google_play_hell.html](https://sylviavanos.nl/blog/2021/12/24/google_play_hell.html)

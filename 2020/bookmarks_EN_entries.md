@@ -70,17 +70,17 @@
  - user: rumpel
  - tags: ['vaccine', 'mandates', 'france', 'covid']
 
-## The Great Google Crash: The World’s Dependency Revealed
- - [https://www.youtube.com/watch?v=vJ1cfb-5pHQ](https://www.youtube.com/watch?v=vJ1cfb-5pHQ)
- - date published: 2020-12-22T20:29:45+00:00
- - user: None
- - tags: ['technofeudalism', 'big tech', 'google']
-
 ## Why is Facebook censoring private messages?
  - [https://www.quora.com/Why-is-Facebook-censoring-private-messages?share=1](https://www.quora.com/Why-is-Facebook-censoring-private-messages?share=1)
  - date published: 2020-12-22T14:19:18+00:00
  - user: rumpel
  - tags: ['censorship', 'facebook', 'messanger', 'privacy']
+
+## The Great Google Crash: The World’s Dependency Revealed
+ - [https://www.youtube.com/watch?v=vJ1cfb-5pHQ](https://www.youtube.com/watch?v=vJ1cfb-5pHQ)
+ - date published: 2020-12-22T00:00:00+00:00
+ - user: None
+ - tags: ['technofeudalism', 'big tech', 'google']
 
 ## Biden receives first dose of Covid-19 vaccine on live television
  - [https://www.cnn.com/2020/12/21/politics/bidens-coronavirus-vaccination/index.html](https://www.cnn.com/2020/12/21/politics/bidens-coronavirus-vaccination/index.html)
@@ -182,7 +182,7 @@
  - [https://thenewdaily.com.au/life/tech/2020/12/10/dutton-surveillance-bill-australia/](https://thenewdaily.com.au/life/tech/2020/12/10/dutton-surveillance-bill-australia/)
  - date published: 2020-12-10T13:10:45+00:00
  - user: None
- - tags: ['surveillance', 'big brother', 'privacy']
+ - tags: ['surveillance bill', 'big brother', 'surveillance', 'australia', 'privacy']
 
 ## Sci-fi surveillance: Europe's secretive push into biometric technology
  - [https://www.theguardian.com/world/2020/dec/10/sci-fi-surveillance-europes-secretive-push-into-biometric-technology](https://www.theguardian.com/world/2020/dec/10/sci-fi-surveillance-europes-secretive-push-into-biometric-technology)
@@ -300,7 +300,7 @@
 
 ## You Own Nothing: The True Cost of Digital Media
  - [https://www.youtube.com/watch?v=iSGu_P185s4](https://www.youtube.com/watch?v=iSGu_P185s4)
- - date published: 2020-11-27T20:54:09+00:00
+ - date published: 2020-11-27T00:00:00+00:00
  - user: rumpel
  - tags: ['technofeudalism', 'digital media', 'subscription']
 
@@ -576,7 +576,7 @@
 
 ## 'Woke utopia', the end of the West & a new cult - James Lindsay interview - BQ #33
  - [https://www.youtube.com/watch?v=dE8p-mcFdNg](https://www.youtube.com/watch?v=dE8p-mcFdNg)
- - date published: 2020-10-02T11:39:09+00:00
+ - date published: 2020-10-02T00:00:00+00:00
  - user: rumpel
  - tags: ['propaganda', 'the left wing', 'socialism', 'social engineering', 'grievance']
 
@@ -970,17 +970,17 @@
  - user: rumpel
  - tags: ['mackenzie scott', 'black lives matter', 'jeff bezos', 'amazon']
 
-## INSANE: Netflix Pushes Trans Propaganda On KIDS Show; Shapiro Responds
- - [https://www.youtube.com/watch?v=HxbOM6swuTg](https://www.youtube.com/watch?v=HxbOM6swuTg)
- - date published: 2020-07-27T09:07:25+00:00
- - user: rumpel
- - tags: ['the left wing', 'netflix']
-
 ## 'I feel like I need to buy a firearm': Radio host who mocked Trump for demanding rioting in Seattle stop sees his apartment building damaged | Washington Examiner
  - [https://www.washingtonexaminer.com/news/i-feel-like-i-need-to-buy-a-firearm-radio-host-who-mocked-trump-for-demanding-rioting-in-seattle-stop-sees-his-apartment-building-damaged](https://www.washingtonexaminer.com/news/i-feel-like-i-need-to-buy-a-firearm-radio-host-who-mocked-trump-for-demanding-rioting-in-seattle-stop-sees-his-apartment-building-damaged)
  - date published: 2020-07-27T08:57:31+00:00
  - user: rumpel
  - tags: ['prostests', 'the left wing', 'black lives matter']
+
+## INSANE: Netflix Pushes Trans Propaganda On KIDS Show; Shapiro Responds
+ - [https://www.youtube.com/watch?v=HxbOM6swuTg](https://www.youtube.com/watch?v=HxbOM6swuTg)
+ - date published: 2020-07-27T00:00:00+00:00
+ - user: rumpel
+ - tags: ['the left wing', 'netflix']
 
 ## Moderna gets further $472 million U.S. award for coronavirus vaccine development | Reuters
  - [https://www.reuters.com/article/us-health-coronavirus-moderna-funding-idUSKCN24R0IN](https://www.reuters.com/article/us-health-coronavirus-moderna-funding-idUSKCN24R0IN)
@@ -1566,7 +1566,7 @@
 
 ## Why YOUTUBE is DYING (Creatively and Artistically)
  - [https://www.youtube.com/watch?v=Ln1qbgZz_TQ](https://www.youtube.com/watch?v=Ln1qbgZz_TQ)
- - date published: 2020-02-17T20:52:51+00:00
+ - date published: 2020-02-17T00:00:00+00:00
  - user: None
  - tags: ['all time', 'dead internet', 'youtube']
 

@@ -6,7 +6,7 @@
 
 ## Why the Left Think They are Better | Peter Hitchens
  - [https://www.youtube.com/watch?v=8qCHRYMe66g](https://www.youtube.com/watch?v=8qCHRYMe66g)
- - date published: 2018-12-11T21:34:27+00:00
+ - date published: 2018-12-11T00:00:00+00:00
  - user: rumpel
  - tags: ['propaganda', 'ideology', 'sjw', 'the left wing']
 
@@ -60,7 +60,7 @@
 
 ## Joe Rogan - Exposing Social Justice with Peter Boghossian & James Lindsay
  - [https://www.youtube.com/watch?v=OlqU_JMTzd4](https://www.youtube.com/watch?v=OlqU_JMTzd4)
- - date published: 2018-10-30T20:27:37+00:00
+ - date published: 2018-10-30T00:00:00+00:00
  - user: rumpel
  - tags: ['lgbt', 'joe rogan', 'sjw', 'the left wing', 'feminism', 'grievance']
 
@@ -108,7 +108,7 @@
 
 ## Alan Keyes: Best argument against gay marriage
  - [https://www.youtube.com/watch?v=dn6x_9CLTB4](https://www.youtube.com/watch?v=dn6x_9CLTB4)
- - date published: 2018-10-04T17:01:34+00:00
+ - date published: 2018-10-03T00:00:00+00:00
  - user: None
  - tags: ['homosexuality', 'culture', 'the left wing', 'family', 'alan keyes', 'lgbt']
 

@@ -1,3 +1,15 @@
+## Disinformation reimagined: how AI could erode democracy in the 2024 US elections
+ - [https://www.theguardian.com/us-news/2023/jul/19/ai-generated-disinformation-us-elections](https://www.theguardian.com/us-news/2023/jul/19/ai-generated-disinformation-us-elections)
+ - date published: 2023-07-19T14:00:02+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
+
+## Nigel Farage’s Coutts account closed as bank felt he did not ‘align with their values’
+ - [https://www.telegraph.co.uk/news/2023/07/18/nigel-farage-coutts-bank-account-closed-align-with-values/](https://www.telegraph.co.uk/news/2023/07/18/nigel-farage-coutts-bank-account-closed-align-with-values/)
+ - date published: 2023-07-18T16:15:04+00:00
+ - user: rumpel
+ - tags: ['deplatform', 'manufacturing consent', 'nigel farage', 'censorship']
+
 ## AI is not ready for large scale adoption but will be biggest bubble of all time, says Stability AI CEO
  - [https://www.coinspeaker.com/ai-adoption-bubble-stability-ai/](https://www.coinspeaker.com/ai-adoption-bubble-stability-ai/)
  - date published: 2023-07-18T04:00:00+00:00
@@ -394,6 +406,12 @@
  - user: rumpel
  - tags: ['social media', 'influencers']
 
+## Litigation Over Misleading Climate Claims Has 'Exploded' Over the Past Few Years - DeSmog
+ - [https://www.desmog.com/2023/07/03/climate-washing-lawsuits-increase-big-oil-pr/](https://www.desmog.com/2023/07/03/climate-washing-lawsuits-increase-big-oil-pr/)
+ - date published: 2023-07-03T13:25:43+00:00
+ - user: rumpel
+ - tags: ['green washing', 'climate change']
+
 ## Self-Driving Cars Are Surveillance Cameras on Wheels
  - [https://www.schneier.com/blog/archives/2023/07/self-driving-cars-are-surveillance-cameras-on-wheels.html](https://www.schneier.com/blog/archives/2023/07/self-driving-cars-are-surveillance-cameras-on-wheels.html)
  - date published: 2023-07-03T13:11:59+00:00
@@ -537,6 +555,12 @@
  - date published: 2023-06-27T21:27:25+00:00
  - user: rumpel
  - tags: ['data leak', 'letmespy', 'hackers', 'android', 'stalkerware']
+
+## Professor says he was fired for teaching sex is determined by chromosomes
+ - [https://nypost.com/2023/06/27/professor-says-he-was-fired-for-teaching-that-sex-is-determined-by-chromosomes/](https://nypost.com/2023/06/27/professor-says-he-was-fired-for-teaching-that-sex-is-determined-by-chromosomes/)
+ - date published: 2023-06-27T15:29:38+00:00
+ - user: rumpel
+ - tags: ['the left wing', 'science is dead']
 
 ## Transgender People Have Higher Suicide Risk, Says Landmark Study from Denmark - The New York Times
  - [https://www.nytimes.com/2023/06/27/health/transgender-suicide-risk-denmark.html?smtyp=cur&smid=tw-nytimes](https://www.nytimes.com/2023/06/27/health/transgender-suicide-risk-denmark.html?smtyp=cur&smid=tw-nytimes)
@@ -908,7 +932,7 @@
  - [https://dailycaller.com/2023/06/12/trans-influencer-topless-white-house-biden-pride-month-celebration/](https://dailycaller.com/2023/06/12/trans-influencer-topless-white-house-biden-pride-month-celebration/)
  - date published: 2023-06-12T09:14:30+00:00
  - user: rumpel
- - tags: ['sexualization', 'the left wing', 'trangender', 'propaganda']
+ - tags: ['joe biden', 'propaganda', 'sexualization', 'the left wing', 'trangender']
 
 ## The Unabomber Was an AI Doomer
  - [https://newsletter.pessimistsarchive.org/p/the-unabomber-was-an-ai-doomer-obviously](https://newsletter.pessimistsarchive.org/p/the-unabomber-was-an-ai-doomer-obviously)
@@ -1658,7 +1682,7 @@
  - [https://en.m.wikipedia.org/wiki/White_pride](https://en.m.wikipedia.org/wiki/White_pride)
  - date published: 2023-05-22T06:52:03+00:00
  - user: rumpel
- - tags: ['black lives matter']
+ - tags: ['indoctrination', 'propaganda', 'black lives matter']
 
 ## Asian pride - Wikipedia
  - [https://en.m.wikipedia.org/wiki/Asian_pride](https://en.m.wikipedia.org/wiki/Asian_pride)
@@ -1670,7 +1694,7 @@
  - [https://en.wikipedia.org/wiki/Black_pride](https://en.wikipedia.org/wiki/Black_pride)
  - date published: 2023-05-22T06:51:14+00:00
  - user: rumpel
- - tags: ['black lives matter']
+ - tags: ['indoctrination', 'propaganda', 'black lives matter']
 
 ## Jeffrey Epstein allegedly tried to extort Bill Gates over extramarital affair
  - [https://www.theguardian.com/us-news/2023/may/21/jeffrey-epstein-extort-bill-gates-extramarital-affair](https://www.theguardian.com/us-news/2023/may/21/jeffrey-epstein-extort-bill-gates-extramarital-affair)
@@ -2818,12 +2842,6 @@
  - user: rumpel
  - tags: ['leak', 'war', 'ukraine']
 
-## WHY Companies MUST be WOKE or REALLY GO BROKE
- - [https://www.youtube.com/watch?v=uCYdKeajDdU](https://www.youtube.com/watch?v=uCYdKeajDdU)
- - date published: 2023-04-12T20:00:09+00:00
- - user: rumpel
- - tags: ['blackrock', 'esg', 'the left wing']
-
 ## Alex Berenson Sues Biden, Pfizer Board Member Over Twitter Ban
  - [https://www.theepochtimes.com/alex-berenson-sues-biden-pfizer-board-member-over-twitter-ban_5189521.html](https://www.theepochtimes.com/alex-berenson-sues-biden-pfizer-board-member-over-twitter-ban_5189521.html)
  - date published: 2023-04-12T15:39:24+00:00
@@ -3884,7 +3902,7 @@
  - [https://www.ndtv.com/world-news/spain-set-to-introduce-law-requiring-40-women-in-company-boards-3840067](https://www.ndtv.com/world-news/spain-set-to-introduce-law-requiring-40-women-in-company-boards-3840067)
  - date published: 2023-03-06T19:56:38+00:00
  - user: rumpel
- - tags: ['feminism', 'inequality', 'spain', 'sexism']
+ - tags: ['quotas', 'feminism', 'sexism', 'inequality', 'spain']
 
 ## Dr. Fauci and the art of the COVID cover-up - Washington Times
  - [https://www.washingtontimes.com/news/2023/mar/6/dr-fauci-and-art-covid-cover-/](https://www.washingtontimes.com/news/2023/mar/6/dr-fauci-and-art-covid-cover-/)
@@ -4424,7 +4442,7 @@
  - [https://www.telegraph.co.uk/news/2023/02/14/words-male-female-should-banned-science-enforce-idea-sex-binary/](https://www.telegraph.co.uk/news/2023/02/14/words-male-female-should-banned-science-enforce-idea-sex-binary/)
  - date published: 2023-02-14T20:51:01+00:00
  - user: rumpel
- - tags: ['newspeak', 'the left wing']
+ - tags: ['the left wing', 'indoctrination', 'newspeak']
 
 ## EU Parliament votes to effectively ban new combustion engine cars by 2035
  - [https://www.theverge.com/2023/2/14/23599412/eu-parliament-vote-ban-combustion-engine-cars-vans-2035-law](https://www.theverge.com/2023/2/14/23599412/eu-parliament-vote-ban-combustion-engine-cars-vans-2035-law)
@@ -5086,12 +5104,6 @@
  - user: rumpel
  - tags: ['facebook', 'censorship', 'meta', 'moderation', 'donald trump']
 
-## Bill Gates MRNA Grift EXPOSED? Billionaire TRASHES Jab Despite Reaping MASSIVE Profits: Brie & Robby
- - [https://www.youtube.com/watch?v=kGctGh3vvJg](https://www.youtube.com/watch?v=kGctGh3vvJg)
- - date published: 2023-01-25T21:28:07+00:00
- - user: rumpel
- - tags: ['bill gates', 'covid', 'mrna', 'vaccine']
-
 ## In Argentina, getting a new SIM card will now require giving up biometric data
  - [https://reclaimthenet.org/argentina-biometric/](https://reclaimthenet.org/argentina-biometric/)
  - date published: 2023-01-25T19:15:20+00:00
@@ -5109,6 +5121,12 @@
  - date published: 2023-01-25T13:27:47+00:00
  - user: rumpel
  - tags: ['selfhost']
+
+## Bill Gates MRNA Grift EXPOSED? Billionaire TRASHES Jab Despite Reaping MASSIVE Profits: Brie & Robby
+ - [https://www.youtube.com/watch?v=kGctGh3vvJg](https://www.youtube.com/watch?v=kGctGh3vvJg)
+ - date published: 2023-01-25T00:00:00+00:00
+ - user: rumpel
+ - tags: ['bill gates', 'covid', 'mrna', 'vaccine']
 
 ## Appliance makers sad that 50% of customers won’t connect smart appliances
  - [https://arstechnica.com/gadgets/2023/01/half-of-smart-appliances-remain-disconnected-from-internet-makers-lament/](https://arstechnica.com/gadgets/2023/01/half-of-smart-appliances-remain-disconnected-from-internet-makers-lament/)

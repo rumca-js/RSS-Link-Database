@@ -562,12 +562,6 @@
  - user: None
  - tags: $tags
 
-## Sekretarz ONZ: Jesteśmy właścicielami nauki i uważamy, że świat powinien o tym wiedzieć!
- - [https://www.youtube.com/watch?v=8If5X_KR6Pg](https://www.youtube.com/watch?v=8If5X_KR6Pg)
- - date published: 2022-10-05T10:25:29+00:00
- - user: None
- - tags: ['science is dead']
-
 ## W Europie zaczyna się masowe bankructwo hoteli i restauracji
  - [https://www.wykop.pl/link/6845567/w-europie-zaczyna-sie-masowe-bankructwo-hoteli-i-restauracji/](https://www.wykop.pl/link/6845567/w-europie-zaczyna-sie-masowe-bankructwo-hoteli-i-restauracji/)
  - date published: 2022-10-04T20:10:01+00:00
@@ -591,6 +585,12 @@
  - date published: 2022-10-04T10:48:08+00:00
  - user: rumpel
  - tags: ['the left wing', 'lgbt', 'germany', 'paedophilia']
+
+## Sekretarz ONZ: Jesteśmy właścicielami nauki i uważamy, że świat powinien o tym wiedzieć!
+ - [https://www.youtube.com/watch?v=8If5X_KR6Pg](https://www.youtube.com/watch?v=8If5X_KR6Pg)
+ - date published: 2022-10-04T00:00:00+00:00
+ - user: None
+ - tags: ['science is dead']
 
 ## Media: Wielka Brytania wprowadzi zakaz azylu dla migrantów nielegalnie przekraczających kanał La Manche
  - [https://www.bankier.pl/wiadomosc/Media-Wielka-Brytania-wprowadzi-zakaz-azylu-dla-migrantow-nielegalnie-przekraczajacych-kanal-La-Manche-8416684.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Media-Wielka-Brytania-wprowadzi-zakaz-azylu-dla-migrantow-nielegalnie-przekraczajacych-kanal-La-Manche-8416684.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)

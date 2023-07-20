@@ -234,7 +234,7 @@
 
 ## Marshall McLuhan 1977 Interview - Violence as a Quest for Identity
  - [https://www.youtube.com/watch?v=ULI3x8WIxus](https://www.youtube.com/watch?v=ULI3x8WIxus)
- - date published: 2016-06-05T13:07:32+00:00
+ - date published: 2016-06-05T00:00:00+00:00
  - user: rumpel
  - tags: ['surveillance', 'marshall mcluhan', 'identity']
 
@@ -380,5 +380,5 @@
  - [https://humansbefree.com/2016/01/feminism-how-the-rockefellers-re-engineered-women-and-why.html](https://humansbefree.com/2016/01/feminism-how-the-rockefellers-re-engineered-women-and-why.html)
  - date published: 2016-01-01T21:06:57+00:00
  - user: rumpel
- - tags: ['conspiracy theory', 'feminism', 'social engineering', 'aaron russo', 'rockefeller']
+ - tags: ['propaganda', 'conspiracy theory', 'aaron russo', 'feminism', 'rockefeller', 'social engineering']
 

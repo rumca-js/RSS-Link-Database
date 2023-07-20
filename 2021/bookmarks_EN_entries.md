@@ -568,6 +568,12 @@
  - user: rumpel
  - tags: ['dead internet', 'google', 'search algorithms']
 
+## Media Bias Around Kyle Rittenhouse Case
+ - [https://frankspeech.com/article/media-bias-around-kyle-rittenhouse-case](https://frankspeech.com/article/media-bias-around-kyle-rittenhouse-case)
+ - date published: 2021-11-30T08:13:09+00:00
+ - user: None
+ - tags: ['inequality', 'black lives matter', 'media bias', 'blm', 'kyle rittenhouse']
+
 ## Bizarre Conspiracy Theory That Linkin Park's Chester Bennington Was Murdered Tied To Ghislaine Maxwell
  - [https://www.yourtango.com/news/chester-bennington-conspiracy-theory-chris-cornell-john-podesta-pizzagate-ghislaine-maxwell](https://www.yourtango.com/news/chester-bennington-conspiracy-theory-chris-cornell-john-podesta-pizzagate-ghislaine-maxwell)
  - date published: 2021-11-29T21:24:58+00:00
@@ -704,7 +710,7 @@
  - [https://news.yahoo.com/kyle-rittenhouses-trial-exposes-biases-205230938.html](https://news.yahoo.com/kyle-rittenhouses-trial-exposes-biases-205230938.html)
  - date published: 2021-11-24T08:13:59+00:00
  - user: rumpel
- - tags: ['kyle rittenhouse', 'media bias', 'blm', 'black lives matter']
+ - tags: ['the left wing', 'propaganda', 'black lives matter', 'media bias', 'blm', 'kyle rittenhouse']
 
 ## My journey to type checking 7521 lines of Python
  - [https://nskm.xyz/posts/stcmp2/](https://nskm.xyz/posts/stcmp2/)
@@ -1126,17 +1132,17 @@
  - user: rumpel
  - tags: ['vaccine', 'covid']
 
-## Central Bank Digital Currencies Explained
- - [https://www.youtube.com/watch?v=0u8eZcPnWeU](https://www.youtube.com/watch?v=0u8eZcPnWeU)
- - date published: 2021-11-01T10:40:04+00:00
- - user: rumpel
- - tags: ['surveillance', 'privacy', 'propaganda', 'cbdc']
-
 ## Wacom drawing tablets track the name of every application that you open | Robert Heaton
  - [https://robertheaton.com/2020/02/05/wacom-drawing-tablets-track-name-of-every-application-you-open/](https://robertheaton.com/2020/02/05/wacom-drawing-tablets-track-name-of-every-application-you-open/)
  - date published: 2021-11-01T10:20:25.536873+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Central Bank Digital Currencies Explained
+ - [https://www.youtube.com/watch?v=0u8eZcPnWeU](https://www.youtube.com/watch?v=0u8eZcPnWeU)
+ - date published: 2021-11-01T00:00:00+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'privacy', 'propaganda', 'cbdc']
 
 ## Metaverse: Ready Player One Becomes Reality
  - [https://www.youtube.com/watch?v=3A-1gK9gDuU](https://www.youtube.com/watch?v=3A-1gK9gDuU)
@@ -1420,17 +1426,17 @@
  - user: rumpel
  - tags: ['social media']
 
-## ESG: Woke to Broke
- - [https://www.youtube.com/watch?v=O-tJNuHqHW8](https://www.youtube.com/watch?v=O-tJNuHqHW8)
- - date published: 2021-10-18T23:11:12+00:00
- - user: rumpel
- - tags: ['blackrock', 'the left wing', 'climate change', 'esg']
-
 ## Lawmakers: Amazon ‘may have lied to Congress’ about its business practices  - The Washington Post
  - [https://www.washingtonpost.com/business/2021/10/18/amazon-congress-letter-third-party-data/](https://www.washingtonpost.com/business/2021/10/18/amazon-congress-letter-third-party-data/)
  - date published: 2021-10-18T08:02:31+00:00
  - user: rumpel
  - tags: ['jeff bezos', 'corporatocracy', 'amazon', 'technofeudalism']
+
+## ESG: Woke to Broke
+ - [https://www.youtube.com/watch?v=O-tJNuHqHW8](https://www.youtube.com/watch?v=O-tJNuHqHW8)
+ - date published: 2021-10-18T00:00:00+00:00
+ - user: rumpel
+ - tags: ['blackrock', 'the left wing', 'climate change', 'esg']
 
 ## The Javascript "ecosystem" is a hot mess and so is software development in general - nadh.in
  - [https://nadh.in/blog/javascript-ecosystem-software-development-are-a-hot-mess/](https://nadh.in/blog/javascript-ecosystem-software-development-are-a-hot-mess/)
@@ -1834,6 +1840,12 @@
  - user: rumpel
  - tags: ['history', 'documentary', 'archive']
 
+## The Dead Internet Theory 2
+ - [https://www.youtube.com/watch?v=6FtPvDGrpkA](https://www.youtube.com/watch?v=6FtPvDGrpkA)
+ - date published: 2021-09-29T00:00:00+00:00
+ - user: rumpel
+ - tags: ['dead internet']
+
 ## Women's and trans rights are not in conflict, says Angela Rayner - BBC News
  - [https://www.bbc.co.uk/news/uk-politics-58724514](https://www.bbc.co.uk/news/uk-politics-58724514)
  - date published: 2021-09-28T22:18:09.444819+00:00
@@ -1845,12 +1857,6 @@
  - date published: 2021-09-28T18:24:29.874388+00:00
  - user: Thomas Pain
  - tags: $tags
-
-## The Dead Internet Theory (Part 2)
- - [https://www.youtube.com/watch?v=6FtPvDGrpkA](https://www.youtube.com/watch?v=6FtPvDGrpkA)
- - date published: 2021-09-28T18:11:10+00:00
- - user: rumpel
- - tags: ['dead internet']
 
 ## Woke American Comics vs Manga
  - [https://www.youtube.com/watch?v=Elgqtwhqh5I](https://www.youtube.com/watch?v=Elgqtwhqh5I)
@@ -2018,19 +2024,13 @@
  - [https://nypost.com/2021/09/14/nyt-deletes-unsubstantiated-claim-about-posts-hunter-biden-report/](https://nypost.com/2021/09/14/nyt-deletes-unsubstantiated-claim-about-posts-hunter-biden-report/)
  - date published: 2021-09-14T14:27:54+00:00
  - user: rumpel
- - tags: ['hunter biden', 'new york times', 'censorship']
+ - tags: ['hunter biden', 'joe biden', 'new york times', 'censorship']
 
 ## Facebook documents show how toxic Instagram is for teens: WSJ
  - [https://www.cnbc.com/2021/09/14/facebook-documents-show-how-toxic-instagram-is-for-teens-wsj.html](https://www.cnbc.com/2021/09/14/facebook-documents-show-how-toxic-instagram-is-for-teens-wsj.html)
  - date published: 2021-09-14T08:26:01+00:00
  - user: rumpel
  - tags: ['facook', 'instagram', 'social media']
-
-## The Dead Internet Theory (Part 1)
- - [https://www.youtube.com/watch?v=DEn758DVF9I](https://www.youtube.com/watch?v=DEn758DVF9I)
- - date published: 2021-09-13T18:10:02+00:00
- - user: None
- - tags: ['dead internet']
 
 ## How to back up your data and keep it safe - BBC News
  - [https://www.bbc.co.uk/news/business-58050387](https://www.bbc.co.uk/news/business-58050387)
@@ -2061,6 +2061,12 @@
  - date published: 2021-09-13T13:21:14.633058+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## The Dead Internet Theory
+ - [https://www.youtube.com/watch?v=DEn758DVF9I](https://www.youtube.com/watch?v=DEn758DVF9I)
+ - date published: 2021-09-13T00:00:00+00:00
+ - user: None
+ - tags: ['dead internet']
 
 ## soft question - Visually stunning math concepts which are easy to explain - Mathematics Stack Exchange
  - [https://math.stackexchange.com/questions/733754/visually-stunning-math-concepts-which-are-easy-to-explain](https://math.stackexchange.com/questions/733754/visually-stunning-math-concepts-which-are-easy-to-explain)
@@ -3592,12 +3598,6 @@
  - user: rumpel
  - tags: ['blackrock']
 
-## The Meaning of Pride ft. Drag Queen Nina West
- - [https://www.youtube.com/watch?v=Xprabkl1LD4](https://www.youtube.com/watch?v=Xprabkl1LD4)
- - date published: 2021-07-05T22:29:19+00:00
- - user: rumpel
- - tags: ['children', 'sexualization', 'indoctrination', 'the left wing', 'lgbt']
-
 ## Here's a Look Inside Facebook's Data Wars - The New York Times
  - [https://www.nytimes.com/2021/07/14/technology/facebook-data.html](https://www.nytimes.com/2021/07/14/technology/facebook-data.html)
  - date published: 2021-07-04T20:03:09+00:00
@@ -3654,7 +3654,7 @@
 
 ## What Started the Cultural Fixation on Gender?
  - [https://www.youtube.com/watch?v=OHE442ISkUU](https://www.youtube.com/watch?v=OHE442ISkUU)
- - date published: 2021-06-25T22:14:30+00:00
+ - date published: 2021-06-25T00:00:00+00:00
  - user: rumpel
  - tags: ['virtue signalling', 'gender', 'the left wing', 'white privilege', 'joe rogan', 'sexism']
 
@@ -3787,6 +3787,12 @@
 ## Anyone remember that Danish TV show pairing children with naked adults?
  - [https://www.mumsnet.com/talk/womens_rights/4282164-Anyone-remember-that-Danish-TV-show-pairing-children-with-naked-adults](https://www.mumsnet.com/talk/womens_rights/4282164-Anyone-remember-that-Danish-TV-show-pairing-children-with-naked-adults)
  - date published: 2021-06-07T22:21:55+00:00
+ - user: rumpel
+ - tags: ['children', 'sexualization', 'indoctrination', 'the left wing', 'lgbt']
+
+## The Meaning of Pride ft. Drag Queen Nina West 🏳️‍🌈 (Pride Song)
+ - [https://www.youtube.com/watch?v=Xprabkl1LD4](https://www.youtube.com/watch?v=Xprabkl1LD4)
+ - date published: 2021-06-05T00:00:00+00:00
  - user: rumpel
  - tags: ['children', 'sexualization', 'indoctrination', 'the left wing', 'lgbt']
 
@@ -4424,7 +4430,7 @@
  - [https://www.youtube.com/watch?v=vJYaXy5mmA8](https://www.youtube.com/watch?v=vJYaXy5mmA8)
  - date published: 2021-03-12T15:09:15+00:00
  - user: rumpel
- - tags: ['orwell', 'all time', 'surveillance', 'utopia', 'digital identity', 'big brother']
+ - tags: ['big brother', 'surveillance', 'digital identity', 'utopia', 'all time', 'orwell', 'social score']
 
 ## Printed to Death: Dollar Due to Crash in 2021
  - [https://www.outsiderclub.com/printed-to-death-dollar-due-to-crash-in-2021/98588](https://www.outsiderclub.com/printed-to-death-dollar-due-to-crash-in-2021/98588)
@@ -4458,7 +4464,7 @@
 
 ## Rand Paul questions Rachel Levine on gender-affirming care for minors
  - [https://www.youtube.com/watch?v=Krf0Cm-FKro](https://www.youtube.com/watch?v=Krf0Cm-FKro)
- - date published: 2021-02-25T08:33:35+00:00
+ - date published: 2021-02-25T00:00:00+00:00
  - user: rumpel
  - tags: ['gender', 'rand paul', 'the left wing', 'rachel levine']
 
@@ -4474,17 +4480,17 @@
  - user: rumpel
  - tags: ['wikipedia', 'larry sanger']
 
-## Yanis Varoufakis: Capitalism has become 'techno-feudalism' | UpFront
- - [https://www.youtube.com/watch?v=_jW0xUmUaUc](https://www.youtube.com/watch?v=_jW0xUmUaUc)
- - date published: 2021-02-19T21:05:32+00:00
- - user: None
- - tags: ['technofeudalism', 'yanis varoufakis', 'corporatocracy', 'capitalism']
-
 ## Zawodowiec (2002) - polski film dokumentalny
  - [https://www.youtube.com/watch?v=a6AVCDMHWfg](https://www.youtube.com/watch?v=a6AVCDMHWfg)
  - date published: 2021-02-19T09:42:45+00:00
  - user: rumpel
  - tags: ['documentary']
+
+## Yanis Varoufakis: Capitalism has become 'techno-feudalism' | UpFront
+ - [https://www.youtube.com/watch?v=_jW0xUmUaUc](https://www.youtube.com/watch?v=_jW0xUmUaUc)
+ - date published: 2021-02-19T00:00:00+00:00
+ - user: None
+ - tags: ['technofeudalism', 'yanis varoufakis', 'corporatocracy', 'capitalism']
 
 ## Moment Biden COVID adviser is UNABLE to explain why lockdown-loving California isn't doing better than open-all-hours Florida
  - [https://www.dailymail.co.uk/news/article-9272929/Biden-COVID-adviser-explain-closed-California-isnt-doing-better-open-Florida.html](https://www.dailymail.co.uk/news/article-9272929/Biden-COVID-adviser-explain-closed-California-isnt-doing-better-open-Florida.html)

@@ -84,13 +84,13 @@
 
 ## 7 Propaganda Techniques Used on You Every Day
  - [https://www.youtube.com/watch?v=q8R9MDt4jEc](https://www.youtube.com/watch?v=q8R9MDt4jEc)
- - date published: 2014-10-15T16:09:26+00:00
+ - date published: 2014-10-15T00:00:00+00:00
  - user: None
  - tags: ['social engineering', 'big brother', 'propaganda']
 
 ## Citizenfour Official Trailer 1 (2014) - Edward Snowden Documentary HD
  - [https://www.youtube.com/watch?v=XiGwAvd5mvM](https://www.youtube.com/watch?v=XiGwAvd5mvM)
- - date published: 2014-10-10T20:56:29+00:00
+ - date published: 2014-10-10T00:00:00+00:00
  - user: rumpel
  - tags: ['citizenfour', 'edward snowden', 'big brother', 'privacy', 'surveillance']
 
