@@ -1,3 +1,15 @@
+## Koniec kilkunastu pirackich serwisów. Twórca skarży się na Canal+ i policję
+ - [https://www.wirtualnemedia.pl/artykul/koniec-serwisy-pirackie-warez-torrent-zamkiete-zniknely-dlaczego](https://www.wirtualnemedia.pl/artykul/koniec-serwisy-pirackie-warez-torrent-zamkiete-zniknely-dlaczego)
+ - date published: 2023-07-20T20:08:18.494693+00:00
+ - user: rumpel
+ - tags: ['piracy']
+
+## Skrywana tajemnica firm Adidas i Puma (II w¶)
+ - [http://www.retronauta.pl/skrywana-tajemnica-firm-adidas-i-puma](http://www.retronauta.pl/skrywana-tajemnica-firm-adidas-i-puma)
+ - date published: 2023-07-20T19:16:19+00:00
+ - user: rumpel
+ - tags: ['puma', 'adidas', 'holocaust', 'germany']
+
 ## Eksperymenty LGBT na dzieciach. Wywiad z potworem
  - [https://wpolityce.pl/spoleczenstwo/654778-eksperymenty-lgbt-na-dzieciach-wywiad-z-potworem](https://wpolityce.pl/spoleczenstwo/654778-eksperymenty-lgbt-na-dzieciach-wywiad-z-potworem)
  - date published: 2023-07-16T07:08:51+00:00

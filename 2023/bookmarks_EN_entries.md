@@ -1,3 +1,45 @@
+## Django Packages : Reusable apps, sites and tools directory for Django
+ - [https://djangopackages.org/](https://djangopackages.org/)
+ - date published: 2023-07-20T18:03:00+00:00
+ - user: rumpel
+ - tags: ['selfhost', 'programming', 'django']
+
+## GitHub - phpbb/phpbb at itsfoss.com
+ - [https://github.com/phpbb/phpbb?ref=itsfoss.com](https://github.com/phpbb/phpbb?ref=itsfoss.com)
+ - date published: 2023-07-20T17:39:16+00:00
+ - user: rumpel
+ - tags: ['selfhost']
+
+## bbPress.org
+ - [https://bbpress.org/](https://bbpress.org/)
+ - date published: 2023-07-20T17:38:33+00:00
+ - user: rumpel
+ - tags: ['selfhost']
+
+## Talkyard
+ - [https://www.talkyard.io/](https://www.talkyard.io/)
+ - date published: 2023-07-20T17:37:21+00:00
+ - user: rumpel
+ - tags: ['selfhost']
+
+## Discourse is the place to build civilized communities | Discourse - Civilized Discussion
+ - [https://discourse.org/](https://discourse.org/)
+ - date published: 2023-07-20T17:36:20+00:00
+ - user: rumpel
+ - tags: ['selfhost']
+
+## RELEASED: FBI document detailing alleged $10M Biden bribery scheme publicized by Republicans - Burisma CEO Zlochevsky called Hunter 'stupid' but necessary to keep on board because 'his dad' then-Vice President Joe Biden could 'protect' from 'problems'
+ - [https://www.dailymail.co.uk/news/article-12320527/RELEASED-FBI-document-detailing-alleged-10M-Biden-bribery-scheme-publicized-Republicans-Burisma-CEO-Zlochevsky-called-Hunter-stupid-necessary-board-dad-Vice-President-Joe-Biden-protect-problems.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12320527/RELEASED-FBI-document-detailing-alleged-10M-Biden-bribery-scheme-publicized-Republicans-Burisma-CEO-Zlochevsky-called-Hunter-stupid-necessary-board-dad-Vice-President-Joe-Biden-protect-problems.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - date published: 2023-07-20T16:35:20+00:00
+ - user: rumpel
+ - tags: ['hunter biden', 'joe biden']
+
+## Google Shattered Human Connection
+ - [https://staltz.com/google-shattered-human-connection.html](https://staltz.com/google-shattered-human-connection.html)
+ - date published: 2023-07-20T10:47:33+00:00
+ - user: rumpel
+ - tags: ['internet']
+
 ## Disinformation reimagined: how AI could erode democracy in the 2024 US elections
  - [https://www.theguardian.com/us-news/2023/jul/19/ai-generated-disinformation-us-elections](https://www.theguardian.com/us-news/2023/jul/19/ai-generated-disinformation-us-elections)
  - date published: 2023-07-19T14:00:02+00:00
@@ -555,6 +597,12 @@
  - date published: 2023-06-27T21:27:25+00:00
  - user: rumpel
  - tags: ['data leak', 'letmespy', 'hackers', 'android', 'stalkerware']
+
+## More than 100 U.S. political elites have family links to slavery
+ - [https://www.reuters.com/investigates/special-report/usa-slavery-lawmakers/](https://www.reuters.com/investigates/special-report/usa-slavery-lawmakers/)
+ - date published: 2023-06-27T16:58:04+00:00
+ - user: rumpel
+ - tags: ['racism']
 
 ## Professor says he was fired for teaching sex is determined by chromosomes
  - [https://nypost.com/2023/06/27/professor-says-he-was-fired-for-teaching-that-sex-is-determined-by-chromosomes/](https://nypost.com/2023/06/27/professor-says-he-was-fired-for-teaching-that-sex-is-determined-by-chromosomes/)
@@ -2037,6 +2085,12 @@
  - date published: 2023-05-07T18:20:30+00:00
  - user: rumpel
  - tags: ['work', 'openai', 'remote work']
+
+## Yet another problem with recycling: It spews microplastics
+ - [https://arstechnica.com/?p=1937358](https://arstechnica.com/?p=1937358)
+ - date published: 2023-05-07T14:58:14+00:00
+ - user: rumpel
+ - tags: ['pollution']
 
 ## Windows 11: TPMs and Digital Sovereignty
  - [https://secret.club/2021/06/28/windows11-tpms.html](https://secret.club/2021/06/28/windows11-tpms.html)
