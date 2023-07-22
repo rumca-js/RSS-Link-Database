@@ -406,6 +406,12 @@
  - user: rumpel
  - tags: $tags
 
+## How to Use Shelter to Sandbox Apps on Android
+ - [https://www.makeuseof.com/shelter-sandbox-android-apps/](https://www.makeuseof.com/shelter-sandbox-android-apps/)
+ - date published: 2020-11-12T17:26:21+00:00
+ - user: rumpel
+ - tags: ['android', 'lineageos']
+
 ## Are Babies Really Being Sold to Gay Couples in a Brussels Child Fair?
  - [https://www.albawaba.com/node/are-babies-really-being-sold-gay-couples-brussels-child-fair-1392439](https://www.albawaba.com/node/are-babies-really-being-sold-gay-couples-brussels-child-fair-1392439)
  - date published: 2020-11-12T08:45:01+00:00

@@ -3544,6 +3544,12 @@
  - user: None
  - tags: ['meta', 'privacy']
 
+## How Long Do Electric Car Batteries Last? - Car and Driver
+ - [https://www.caranddriver.com/research/a31875141/electric-car-battery-life/](https://www.caranddriver.com/research/a31875141/electric-car-battery-life/)
+ - date published: 2022-10-26T16:53:37+00:00
+ - user: rumpel
+ - tags: ['electric vehicles']
+
 ## The currency of the new economy won't be money, but attention (1997)
  - [https://www.wired.com/1997/12/es-attention/](https://www.wired.com/1997/12/es-attention/)
  - date published: 2022-10-26T16:20:46+00:00

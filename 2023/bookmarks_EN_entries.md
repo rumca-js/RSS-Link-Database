@@ -1,3 +1,39 @@
+## Download APK on Android with Free Online APK Downloader - APKPure
+ - [https://m.apkpure.com/](https://m.apkpure.com/)
+ - date published: 2023-07-21T17:22:58+00:00
+ - user: rumpel
+ - tags: ['android', 'lineageos']
+
+## Apk mirror
+ - [https://www.apkmirror.com/apk/lineageos/](https://www.apkmirror.com/apk/lineageos/)
+ - date published: 2023-07-21T17:21:28+00:00
+ - user: rumpel
+ - tags: ['android', 'lineageos']
+
+## XDA Forums
+ - [https://forum.xda-developers.com/](https://forum.xda-developers.com/)
+ - date published: 2023-07-21T17:15:30+00:00
+ - user: rumpel
+ - tags: ['android', 'lineageos']
+
+## Mojeek
+ - [https://www.mojeek.com/](https://www.mojeek.com/)
+ - date published: 2023-07-21T15:42:44+00:00
+ - user: rumpel
+ - tags: ['search engines']
+
+## Apple: Proposed UK law is a ‘serious, direct threat’ to security, privacy
+ - [https://www.computerworld.com/article/3703055/apple-proposed-uk-law-is-a-serious-direct-threat-to-security-privacy.html#tk.rss_all](https://www.computerworld.com/article/3703055/apple-proposed-uk-law-is-a-serious-direct-threat-to-security-privacy.html#tk.rss_all)
+ - date published: 2023-07-21T11:22:00+00:00
+ - user: rumpel
+ - tags: ['anonymity', 'england', 'crypto wars', 'apple', 'privacy']
+
+## Leaked Docs Reveal Reuters and UK Gov Helped Overthrow Egyptian Democracy
+ - [https://orinocotribune.com/leaked-documents-reveal-reuters-helped-overthrow-egyptian-democracy/](https://orinocotribune.com/leaked-documents-reveal-reuters-helped-overthrow-egyptian-democracy/)
+ - date published: 2023-07-20T22:42:35+00:00
+ - user: rumpel
+ - tags: ['espionage', 'england', 'reuters', 'egypt']
+
 ## Django Packages : Reusable apps, sites and tools directory for Django
  - [https://djangopackages.org/](https://djangopackages.org/)
  - date published: 2023-07-20T18:03:00+00:00
@@ -39,6 +75,12 @@
  - date published: 2023-07-20T10:47:33+00:00
  - user: rumpel
  - tags: ['internet']
+
+## Flying in Europe up to 30 times cheaper than train, says Greenpeace
+ - [https://www.theguardian.com/environment/2023/jul/20/flying-in-europe-up-to-30-times-cheaper-than-train-says-greenpeace](https://www.theguardian.com/environment/2023/jul/20/flying-in-europe-up-to-30-times-cheaper-than-train-says-greenpeace)
+ - date published: 2023-07-19T23:01:13+00:00
+ - user: rumpel
+ - tags: ['climate change', 'global warming']
 
 ## Disinformation reimagined: how AI could erode democracy in the 2024 US elections
  - [https://www.theguardian.com/us-news/2023/jul/19/ai-generated-disinformation-us-elections](https://www.theguardian.com/us-news/2023/jul/19/ai-generated-disinformation-us-elections)
@@ -159,6 +201,12 @@
  - date published: 2023-07-15T06:22:13+00:00
  - user: rumpel
  - tags: ['selfhost,rss,rss client']
+
+## How Israel weaponises museums to erase Palestinian existence
+ - [https://www.aljazeera.com/opinions/2023/7/15/how-israel-weaponises-museums-to-erase-palestinian-existence](https://www.aljazeera.com/opinions/2023/7/15/how-israel-weaponises-museums-to-erase-palestinian-existence)
+ - date published: 2023-07-15T05:06:35+00:00
+ - user: rumpel
+ - tags: ['palestine', 'israel']
 
 ## I Conscientiously Object to Self-Driving Cars
  - [https://raypatrick.xyz/blog/2023/05/27/i-conscientiously-object-to-self-driving-cars/](https://raypatrick.xyz/blog/2023/05/27/i-conscientiously-object-to-self-driving-cars/)
@@ -657,6 +705,12 @@
  - date published: 2023-06-24T19:09:08+00:00
  - user: rumpel
  - tags: ['climate change', 'protests', 'australia']
+
+## Scientists alarmed by extreme marine heat wave in North Atlantic - The Washington Post
+ - [https://www.washingtonpost.com/weather/2023/06/23/ocean-heatwave-northatlantic-uk-climate/](https://www.washingtonpost.com/weather/2023/06/23/ocean-heatwave-northatlantic-uk-climate/)
+ - date published: 2023-06-23T19:03:13+00:00
+ - user: rumpel
+ - tags: ['climate change', 'global warming']
 
 ## Red Hat strikes a crushing blow against RHEL downstreams • The Register
  - [https://www.theregister.com/2023/06/23/red_hat_centos_move/](https://www.theregister.com/2023/06/23/red_hat_centos_move/)
@@ -1582,6 +1636,12 @@
  - user: rumpel
  - tags: ['implants', 'technofeudalism', 'corporatocracy']
 
+## US lawmakers urge PayPal to end ban on Palestinians in Occupied Territories
+ - [https://www.arabnews.com/node/2310186/business-economy](https://www.arabnews.com/node/2310186/business-economy)
+ - date published: 2023-05-25T13:24:32+00:00
+ - user: rumpel
+ - tags: ['palestine', 'paypal']
+
 ## Polish Righteous Among the Nations - Wikipedia
  - [https://en.wikipedia.org/wiki/Polish_Righteous_Among_the_Nations](https://en.wikipedia.org/wiki/Polish_Righteous_Among_the_Nations)
  - date published: 2023-05-25T11:55:43+00:00
@@ -1959,6 +2019,12 @@
  - date published: 2023-05-13T12:30:00+00:00
  - user: rumpel
  - tags: ['elin musk', 'twitter', 'world economic forum']
+
+## Israel denies the Nakba while perpetuating it
+ - [https://www.aljazeera.com/opinions/2023/5/13/israel-denies-the-nakba-while-perpetuating-it](https://www.aljazeera.com/opinions/2023/5/13/israel-denies-the-nakba-while-perpetuating-it)
+ - date published: 2023-05-13T11:02:00+00:00
+ - user: rumpel
+ - tags: ['palestine', 'nakba']
 
 ## Why Conscious AI Is a Bad, Bad Idea
  - [https://nautil.us/why-conscious-ai-is-a-bad-bad-idea-302937/](https://nautil.us/why-conscious-ai-is-a-bad-bad-idea-302937/)
