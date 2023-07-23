@@ -28,6 +28,12 @@
  - user: rumpel
  - tags: ['protest', 'billionaires', 'occupy wall street']
 
+## Facebook denies cookie tracking allegations (2011)
+ - [https://www.zdnet.com/article/facebook-denies-cookie-tracking-allegations/](https://www.zdnet.com/article/facebook-denies-cookie-tracking-allegations/)
+ - date published: 2011-09-22T01:48:35+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'tracking', 'facebook', 'privacy']
+
 ## Christian Crusader | Southern Poverty Law Center
  - [https://www.splcenter.org/fighting-hate/intelligence-report/2015/christian-crusader](https://www.splcenter.org/fighting-hate/intelligence-report/2015/christian-crusader)
  - date published: 2011-08-24T07:52:21+00:00

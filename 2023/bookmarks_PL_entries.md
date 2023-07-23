@@ -1,3 +1,9 @@
+## Niemcy boją się chodzić na baseny. "Obelgi i groźby śmierci są na porządku dziennym"
+ - [https://forsal.pl/lifestyle/aktualnosci/artykuly/8891054,niemcy-boja-sie-chodzic-na-baseny-obelgi-i-grozby-smierci-sa-na-porz.html](https://forsal.pl/lifestyle/aktualnosci/artykuly/8891054,niemcy-boja-sie-chodzic-na-baseny-obelgi-i-grozby-smierci-sa-na-porz.html)
+ - date published: 2023-07-22T06:54:39+00:00
+ - user: rumpel
+ - tags: ['immigration']
+
 ## Koniec kilkunastu pirackich serwisów. Twórca skarży się na Canal+ i policję
  - [https://www.wirtualnemedia.pl/artykul/koniec-serwisy-pirackie-warez-torrent-zamkiete-zniknely-dlaczego](https://www.wirtualnemedia.pl/artykul/koniec-serwisy-pirackie-warez-torrent-zamkiete-zniknely-dlaczego)
  - date published: 2023-07-20T20:08:18.494693+00:00

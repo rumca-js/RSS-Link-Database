@@ -1112,7 +1112,7 @@
  - [https://www.theverge.com/21306907/diy-camera-raspberry-pi-high-quality-how-to-build-video-c-cs-mount-lenses](https://www.theverge.com/21306907/diy-camera-raspberry-pi-high-quality-how-to-build-video-c-cs-mount-lenses)
  - date published: 2020-07-01T16:58:28+00:00
  - user: rumpel
- - tags: ['raspberry', 'programming']
+ - tags: ['raspberry pi', 'programming']
 
 ## YouTube bans David Duke and other US far-right users
  - [https://www.theguardian.com/technology/2020/jun/30/youtube-bans-david-duke-and-other-us-far-right-users](https://www.theguardian.com/technology/2020/jun/30/youtube-bans-david-duke-and-other-us-far-right-users)

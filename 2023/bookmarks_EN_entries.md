@@ -1,3 +1,27 @@
+## KonstaKANG.com -
+ - [https://konstakang.com/](https://konstakang.com/)
+ - date published: 2023-07-22T16:03:53+00:00
+ - user: rumpel
+ - tags: ['android', 'raspberry pi', 'lineageos']
+
+## Why even let users set their own passwords?
+ - [https://www.devever.net/~hl/passwords](https://www.devever.net/~hl/passwords)
+ - date published: 2023-07-22T13:36:22+00:00
+ - user: rumpel
+ - tags: ['passwords', 'programming']
+
+## Plane – open-source Jira alternative
+ - [https://plane.so](https://plane.so)
+ - date published: 2023-07-22T08:21:40+00:00
+ - user: rumpel
+ - tags: ['selfhost']
+
+## Climate records tumble, leaving Earth in uncharted territory – scientists
+ - [https://www.bbc.co.uk/news/science-environment-66229065](https://www.bbc.co.uk/news/science-environment-66229065)
+ - date published: 2023-07-22T04:58:26+00:00
+ - user: rumpel
+ - tags: ['global warming', 'climate change']
+
 ## Download APK on Android with Free Online APK Downloader - APKPure
  - [https://m.apkpure.com/](https://m.apkpure.com/)
  - date published: 2023-07-21T17:22:58+00:00
@@ -88,11 +112,23 @@
  - user: rumpel
  - tags: ['artificial intelligence']
 
+## Save Open Source: The Impending Tragedy of the Cyber Resilience Act - The Apache Software Foundation Blog
+ - [https://news.apache.org/foundation/entry/save-open-source-the-impending-tragedy-of-the-cyber-resilience-act](https://news.apache.org/foundation/entry/save-open-source-the-impending-tragedy-of-the-cyber-resilience-act)
+ - date published: 2023-07-18T16:44:08+00:00
+ - user: rumpel
+ - tags: ['european union', 'cyber resilience act', 'open source']
+
 ## Nigel Farage’s Coutts account closed as bank felt he did not ‘align with their values’
  - [https://www.telegraph.co.uk/news/2023/07/18/nigel-farage-coutts-bank-account-closed-align-with-values/](https://www.telegraph.co.uk/news/2023/07/18/nigel-farage-coutts-bank-account-closed-align-with-values/)
  - date published: 2023-07-18T16:15:04+00:00
  - user: rumpel
  - tags: ['deplatform', 'manufacturing consent', 'nigel farage', 'censorship']
+
+## Amazon’s in-van surveillance footage of delivery drivers is leaking online
+ - [https://www.theverge.com/2023/7/18/23798611/amazon-van-driver-surveillance-camera-footage-leak-reddit](https://www.theverge.com/2023/7/18/23798611/amazon-van-driver-surveillance-camera-footage-leak-reddit)
+ - date published: 2023-07-18T13:01:57+00:00
+ - user: rumpel
+ - tags: ['data leak', 'surveillance', 'amazon', 'privacy']
 
 ## AI is not ready for large scale adoption but will be biggest bubble of all time, says Stability AI CEO
  - [https://www.coinspeaker.com/ai-adoption-bubble-stability-ai/](https://www.coinspeaker.com/ai-adoption-bubble-stability-ai/)
@@ -111,6 +147,12 @@
  - date published: 2023-07-17T16:20:43+00:00
  - user: rumpel
  - tags: ['palantir', 'big brother', 'surveillance', 'big data']
+
+## German media self-censors about foreign origins of 5 'Germans' arrested for rape of young girl in Mallorca, and this trend will only get worse
+ - [https://rmx.news/crime/german-media-self-censors-about-foreign-origins-of-5-germans-arrested-for-rape-of-young-girl-in-mallorca-and-this-trend-will-only-get-worse/](https://rmx.news/crime/german-media-self-censors-about-foreign-origins-of-5-germans-arrested-for-rape-of-young-girl-in-mallorca-and-this-trend-will-only-get-worse/)
+ - date published: 2023-07-17T15:21:28+00:00
+ - user: rumpel
+ - tags: ['immigration']
 
 ## Europe should cap energy use of richest to stay within carbon budget, study says
  - [https://www.theguardian.com/environment/2023/jul/17/europe-cap-luxury-energy-use-emissions-carbon-budget-targets-study](https://www.theguardian.com/environment/2023/jul/17/europe-cap-luxury-energy-use-emissions-carbon-budget-targets-study)
@@ -884,7 +926,7 @@
  - [https://konstakang.com/devices/rpi4/](https://konstakang.com/devices/rpi4/)
  - date published: 2023-06-15T15:54:54+00:00
  - user: rumpel
- - tags: ['raspberry']
+ - tags: ['android', 'raspberry pi', 'lineageos']
 
 ## Google Warns Employees About Chatbots—Including Its Own Bard—Out Of Privacy Concerns, Report Says
  - [https://www.forbes.com/sites/anafaguy/2023/06/15/google-warns-employees-about-chatbots-including-its-own-bard-out-of-privacy-concerns-report-says/](https://www.forbes.com/sites/anafaguy/2023/06/15/google-warns-employees-about-chatbots-including-its-own-bard-out-of-privacy-concerns-report-says/)
@@ -4610,7 +4652,7 @@
  - [https://www.youtube.com/watch?v=uJvCVw1yONQ](https://www.youtube.com/watch?v=uJvCVw1yONQ)
  - date published: 2023-02-13T17:59:07+00:00
  - user: rumpel
- - tags: ['raspberry']
+ - tags: ['raspberry pi']
 
 ## I tried using AI. It scared me.
  - [https://www.youtube.com/watch?v=jPhJbKBuNnA](https://www.youtube.com/watch?v=jPhJbKBuNnA)
@@ -5672,7 +5714,7 @@
  - [https://github.com/pi-hole/pi-hole](https://github.com/pi-hole/pi-hole)
  - date published: 2023-01-13T22:22:31+00:00
  - user: rumpel
- - tags: ['raspberry', 'selfhost', 'smart home']
+ - tags: ['raspberry pi', 'smart home', 'selfhost']
 
 ## Private jet emissions sky-high at Davos, group says
  - [https://thehill.com/policy/equilibrium-sustainability/3812793-private-jet-emissions-sky-high-at-davos-group-says/](https://thehill.com/policy/equilibrium-sustainability/3812793-private-jet-emissions-sky-high-at-davos-group-says/)
@@ -5696,7 +5738,7 @@
  - [https://cutiepi.io/](https://cutiepi.io/)
  - date published: 2023-01-13T18:25:23+00:00
  - user: rumpel
- - tags: ['raspberry']
+ - tags: ['raspberry pi']
 
 ## One in ten WEF attendees used private jet
  - [https://www.tagesanzeiger.ch/wef-2023-klimaschutz-privatjet-greenpeace-heuchelei-davos-259413788377](https://www.tagesanzeiger.ch/wef-2023-klimaschutz-privatjet-greenpeace-heuchelei-davos-259413788377)

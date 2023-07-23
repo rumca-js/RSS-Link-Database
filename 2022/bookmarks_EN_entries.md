@@ -488,7 +488,7 @@
  - [https://www.pcgamer.com/rasberry-pi-5-pushed-back-to-make-more-pi-for-everyone](https://www.pcgamer.com/rasberry-pi-5-pushed-back-to-make-more-pi-for-everyone)
  - date published: 2022-12-22T03:11:19+00:00
  - user: None
- - tags: ['raspberry', 'hardware']
+ - tags: ['raspberry pi', 'hardware']
 
 ## George Soros Funding Criminal Justice Reform Plants In Legacy Media
  - [https://www.dailywire.com/news/george-soros-funding-criminal-justice-reform-plants-in-legacy-media](https://www.dailywire.com/news/george-soros-funding-criminal-justice-reform-plants-in-legacy-media)
@@ -548,7 +548,7 @@
  - [https://www.techradar.com/news/dont-expect-a-raspberry-pi-5-in-2023](https://www.techradar.com/news/dont-expect-a-raspberry-pi-5-in-2023)
  - date published: 2022-12-21T16:33:01+00:00
  - user: None
- - tags: ['raspberry']
+ - tags: ['raspberry pi']
 
 ## Report: Attacks on Christian Churches Nearly Triple in Four Years
  - [https://www.breitbart.com/politics/2022/12/21/report-attacks-on-christian-churches-nearly-triple-in-four-years/](https://www.breitbart.com/politics/2022/12/21/report-attacks-on-christian-churches-nearly-triple-in-four-years/)
@@ -2084,7 +2084,7 @@
  - [https://www.zdnet.com/article/best-raspberry-pi-alternative/](https://www.zdnet.com/article/best-raspberry-pi-alternative/)
  - date published: 2022-11-23T18:27:29+00:00
  - user: rumpel
- - tags: ['raspberry']
+ - tags: ['raspberry pi']
 
 ## Bill C-11 Raising Serious Doubts About CRTC’s Independence From Feds
  - [https://www.theepochtimes.com/bill-c-11-raising-serious-doubts-about-crtcs-independence-from-feds_4881932.html](https://www.theepochtimes.com/bill-c-11-raising-serious-doubts-about-crtcs-independence-from-feds_4881932.html)
@@ -3074,7 +3074,7 @@
  - [https://ounapuu.ee/posts/2022/11/01/finding-use-case-for-raspberry-pi/](https://ounapuu.ee/posts/2022/11/01/finding-use-case-for-raspberry-pi/)
  - date published: 2022-11-01T04:25:25+00:00
  - user: None
- - tags: ['raspberry']
+ - tags: ['raspberry pi']
 
 ## Big Tech Earnings Put Advertising, Privacy, And User Experience In Focus
  - [https://www.forbes.com/sites/danielnewman/2022/10/31/big-tech-earnings-put-advertising-privacy-and-user-experience-in-focus/](https://www.forbes.com/sites/danielnewman/2022/10/31/big-tech-earnings-put-advertising-privacy-and-user-experience-in-focus/)
@@ -3356,13 +3356,13 @@
  - [https://www.heyhomepage.com/?module=blog&link=1&post=4](https://www.heyhomepage.com/?module=blog&link=1&post=4)
  - date published: 2022-10-28T10:24:59+00:00
  - user: None
- - tags: ['raspberry']
+ - tags: ['raspberry pi']
 
 ## Microsoft: Raspberry Robin USB worm hits nearly 1,000 organizations in the past month
  - [https://www.zdnet.com/article/microsoft-raspberry-robin-usb-worm-hits-nearly-1000-organizations-in-the-past-month/#ftag=RSSbaffb68](https://www.zdnet.com/article/microsoft-raspberry-robin-usb-worm-hits-nearly-1000-organizations-in-the-past-month/#ftag=RSSbaffb68)
  - date published: 2022-10-28T10:01:47+00:00
  - user: None
- - tags: ['vulnerability', 'raspberry']
+ - tags: ['raspberry pi', 'vulnerability']
 
 ## Mark Zuckerberg is lost in the abyss of a struggling metaverse
  - [https://www.lemonde.fr/en/pixels/article/2022/10/28/mark-zuckerberg-is-lost-in-the-abyss-of-a-struggling-metaverse_6002091_13.html](https://www.lemonde.fr/en/pixels/article/2022/10/28/mark-zuckerberg-is-lost-in-the-abyss-of-a-struggling-metaverse_6002091_13.html)
@@ -3686,7 +3686,7 @@
  - [https://www.clockworkpi.com/](https://www.clockworkpi.com/)
  - date published: 2022-10-25T14:45:00+00:00
  - user: None
- - tags: ['raspberry']
+ - tags: ['raspberry pi']
 
 ## I recorded user behaviour on my competitor’s websites (2018)
  - [https://dejanmarketing.com/competitor-hack/](https://dejanmarketing.com/competitor-hack/)
@@ -3908,7 +3908,7 @@
  - [https://joeldare.com/private-analtyics-and-my-raspberry-pi-400.html](https://joeldare.com/private-analtyics-and-my-raspberry-pi-400.html)
  - date published: 2022-10-22T22:24:40+00:00
  - user: None
- - tags: ['raspberry']
+ - tags: ['raspberry pi', 'selfhost']
 
 ## Judge rules Fauci be deposed in lawsuit alleging White House worked with Big Tech to censor speech
  - [https://www.foxnews.com/politics/judge-rules-fauci-deposed-lawsuit-alleging-white-house-worked-with-big-tech-censor-speech](https://www.foxnews.com/politics/judge-rules-fauci-deposed-lawsuit-alleging-white-house-worked-with-big-tech-censor-speech)
@@ -4790,7 +4790,7 @@
  - [https://www.jeffgeerling.com/blog/2022/you-cant-buy-raspberry-pi-right-now](https://www.jeffgeerling.com/blog/2022/you-cant-buy-raspberry-pi-right-now)
  - date published: 2022-10-03T18:11:01+00:00
  - user: None
- - tags: ['raspberry', 'crisis']
+ - tags: ['crisis', 'raspberry pi']
 
 ## RNC Accuses Google Of Sending Election Emails To Spam, Files FEC Complaint
  - [https://www.dailywire.com/news/rnc-accuses-google-of-sending-election-emails-to-spam-files-fec-complaint](https://www.dailywire.com/news/rnc-accuses-google-of-sending-election-emails-to-spam-files-fec-complaint)
@@ -9128,7 +9128,7 @@
  - [https://rachelbythebay.com/w/2022/04/27/thermo/](https://rachelbythebay.com/w/2022/04/27/thermo/)
  - date published: 2022-04-29T21:03:05.068149+00:00
  - user: Thomas Pain
- - tags: ['raspberry']
+ - tags: ['raspberry pi']
 
 ## Dropbox unplugged its own datacenter to test resilience • The Register
  - [https://www.theregister.com/2022/04/27/dropbox_unplugged_datacenter/](https://www.theregister.com/2022/04/27/dropbox_unplugged_datacenter/)
@@ -9836,7 +9836,7 @@
  - [https://rohanrd.xyz/posts/why-you-should-start-self-hosting/](https://rohanrd.xyz/posts/why-you-should-start-self-hosting/)
  - date published: 2022-03-24T06:52:25.054150+00:00
  - user: Thomas Pain
- - tags: ['raspberry', 'selfhost', 'smart home']
+ - tags: ['raspberry pi', 'smart home', 'selfhost']
 
 ## Judge Jackson Refuses to Define ‘Woman’ during Confirmation Hearing: ‘I’m Not a Biologist’
  - [https://news.yahoo.com/judge-jackson-refuses-define-woman-122717280.html](https://news.yahoo.com/judge-jackson-refuses-define-woman-122717280.html)
