@@ -1,3 +1,21 @@
+## PSA: Ubisoft is deleting "inactive accounts" and the games those accounts have bought
+ - [https://www.techradar.com/gaming/psa-ubisoft-is-deleting-inactive-accounts-and-the-games-those-accounts-have-bought](https://www.techradar.com/gaming/psa-ubisoft-is-deleting-inactive-accounts-and-the-games-those-accounts-have-bought)
+ - date published: 2023-07-23T17:56:38+00:00
+ - user: rumpel
+ - tags: ['games', 'ubisoft', 'technofeudalism']
+
+## Web Environment Integrity API Proposal | Hacker News
+ - [https://news.ycombinator.com/item?id=36817305](https://news.ycombinator.com/item?id=36817305)
+ - date published: 2023-07-23T07:44:18+00:00
+ - user: rumpel
+ - tags: ['web environment integrity', 'webscraping']
+
+## Databag – tiny self-hosted federated messenger for the decentralized web
+ - [https://github.com/balzack/databag](https://github.com/balzack/databag)
+ - date published: 2023-07-22T18:02:19+00:00
+ - user: rumpel
+ - tags: ['selfhost']
+
 ## KonstaKANG.com -
  - [https://konstakang.com/](https://konstakang.com/)
  - date published: 2023-07-22T16:03:53+00:00
@@ -51,6 +69,12 @@
  - date published: 2023-07-21T11:22:00+00:00
  - user: rumpel
  - tags: ['anonymity', 'england', 'crypto wars', 'apple', 'privacy']
+
+## Google engineers want to make ad-blocking (near) impossible
+ - [https://stackdiary.com/web-environment-integrity/](https://stackdiary.com/web-environment-integrity/)
+ - date published: 2023-07-21T06:12:31+00:00
+ - user: rumpel
+ - tags: ['google', 'privacy', 'web environment integrity', 'surveillance', 'drm']
 
 ## Leaked Docs Reveal Reuters and UK Gov Helped Overthrow Egyptian Democracy
  - [https://orinocotribune.com/leaked-documents-reveal-reuters-helped-overthrow-egyptian-democracy/](https://orinocotribune.com/leaked-documents-reveal-reuters-helped-overthrow-egyptian-democracy/)

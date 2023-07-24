@@ -7516,6 +7516,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Remote attestation is coming back. How much freedom will it take? – Gabriel Sieben
+ - [https://gabrielsieben.tech/2022/07/29/remote-assertion-is-coming-back-how-much-freedom-will-it-take/](https://gabrielsieben.tech/2022/07/29/remote-assertion-is-coming-back-how-much-freedom-will-it-take/)
+ - date published: 2022-07-29T07:21:23+00:00
+ - user: rumpel
+ - tags: ['palladium', 'secure boot', 'tpm', 'web environment integrity', 'microsoft', 'pluton']
+
 ## The Truman Show Tried To Warn You
  - [https://www.youtube.com/watch?v=cHdp4iGjVUs](https://www.youtube.com/watch?v=cHdp4iGjVUs)
  - date published: 2022-07-28T20:39:02+00:00

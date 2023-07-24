@@ -166,6 +166,12 @@
  - user: rumpel
  - tags: ['tempora', 'england', 'gchq', 'edward snowden', 'surveillance']
 
+## EFF Makes Formal Objection to DRM in HTML5 | Electronic Frontier Foundation
+ - [https://www.eff.org/press/releases/eff-makes-formal-objection-drm-html5](https://www.eff.org/press/releases/eff-makes-formal-objection-drm-html5)
+ - date published: 2013-05-29T06:35:30+00:00
+ - user: rumpel
+ - tags: ['eff', 'drm', 'web30', 'internet']
+
 ## The Ugliest Open Secret Of German Politics: Pedophiles In The Green Party's Past
  - [https://worldcrunch.com/culture-society/the-ugliest-open-secret-of-german-politics-pedophiles-in-the-green-party039s-past](https://worldcrunch.com/culture-society/the-ugliest-open-secret-of-german-politics-pedophiles-in-the-green-party039s-past)
  - date published: 2013-05-23T20:57:26+00:00
