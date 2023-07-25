@@ -502,6 +502,12 @@
  - user: rumpel
  - tags: ['big brother', 'malware', 'surveillance', 'vulnerability', 'trojan', 'wikileaks', 'julian assange', 'cia']
 
+## Vault7 - Home
+ - [https://wikileaks.org/ciav7p1/](https://wikileaks.org/ciav7p1/)
+ - date published: 2017-03-07T12:03:10+00:00
+ - user: rumpel
+ - tags: ['vulnerability', 'wikileaks', 'malware', 'cia', 'surveilllance', 'vault7']
+
 ## Noam Chomsky - The 5 Filters of the Mass Media Machine
  - [https://www.youtube.com/watch?v=34LGPIXvU5M](https://www.youtube.com/watch?v=34LGPIXvU5M)
  - date published: 2017-03-02T21:06:22+00:00

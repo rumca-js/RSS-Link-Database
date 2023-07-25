@@ -220,6 +220,12 @@
  - user: rumpel
  - tags: ['programming', 'git']
 
+## The World's Email Encryption Software Relies on One Guy, Who is Going Broke — ProPublica
+ - [https://www.propublica.org/article/the-worlds-email-encryption-software-relies-on-one-guy-who-is-going-broke](https://www.propublica.org/article/the-worlds-email-encryption-software-relies-on-one-guy-who-is-going-broke)
+ - date published: 2015-02-05T12:02:20+00:00
+ - user: rumpel
+ - tags: ['open source']
+
 ## Billionaire Pervert Jeffrey Epstein and His Famous Friends: A Primer
  - [https://www.gawker.com/billionaire-pervert-jeffrey-epstein-and-his-famous-frie-1679246399](https://www.gawker.com/billionaire-pervert-jeffrey-epstein-and-his-famous-frie-1679246399)
  - date published: 2015-01-22T19:55:29+00:00

@@ -2024,7 +2024,7 @@
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59628](https://www.codeproject.com/script/News/View.aspx?nwid=59628)
  - date published: 2022-11-25T05:00:00+00:00
  - user: None
- - tags: ['intel', 'technofeudalism', 'subscription']
+ - tags: ['subscription', 'technofeudalism', 'intel']
 
 ## What Happened To Google Search?
  - [https://www.youtube.com/watch?v=48AOOynnmqU](https://www.youtube.com/watch?v=48AOOynnmqU)
@@ -2079,6 +2079,12 @@
  - date published: 2022-11-23T23:53:25.190104+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Mercedes locks faster acceleration behind a yearly $1,200 subscription - The Verge
+ - [https://www.theverge.com/2022/11/23/23474969/mercedes-car-subscription-faster-acceleration-feature-price](https://www.theverge.com/2022/11/23/23474969/mercedes-car-subscription-faster-acceleration-feature-price)
+ - date published: 2022-11-23T20:58:59+00:00
+ - user: rumpel
+ - tags: ['electric vehicles', 'technofeudalism', 'subscribtion', 'mercedes']
 
 ## The 5 best Raspberry Pi alternatives of 2023 | ZDNET
  - [https://www.zdnet.com/article/best-raspberry-pi-alternative/](https://www.zdnet.com/article/best-raspberry-pi-alternative/)
@@ -6302,7 +6308,7 @@
  - [https://jacksoncunningham.medium.com/digital-exile-how-i-got-banned-for-life-from-airbnb-615434c6eeba](https://jacksoncunningham.medium.com/digital-exile-how-i-got-banned-for-life-from-airbnb-615434c6eeba)
  - date published: 2022-09-08T06:28:55+00:00
  - user: None
- - tags: ['technofeudalism', 'censorship']
+ - tags: ['censorship', 'subscription', 'technofeudalism']
 
 ## Facebook engineers admit they don’t know what they do with your data
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58810](https://www.codeproject.com/script/News/View.aspx?nwid=58810)
@@ -6536,7 +6542,7 @@
  - [https://bgr.com/tech/22000-smart-thermostats-in-colorado-locked-over-energy-emergency-sparking-outrage/](https://bgr.com/tech/22000-smart-thermostats-in-colorado-locked-over-energy-emergency-sparking-outrage/)
  - date published: 2022-09-04T13:02:11+00:00
  - user: rumpel
- - tags: ['electricity', 'technofeudalism', 'colorado', 'big brother', 'climate change']
+ - tags: ['big brother', 'climate change', 'subscription', 'electricity', 'colorado', 'technofeudalism']
 
 ## Uber’s Still Not Profitable
  - [https://doctorow.medium.com/ubers-still-not-profitable-bd483309e4b](https://doctorow.medium.com/ubers-still-not-profitable-bd483309e4b)
@@ -6554,7 +6560,7 @@
  - [https://twitter.com/svbelmeha/status/1566063915515133952](https://twitter.com/svbelmeha/status/1566063915515133952)
  - date published: 2022-09-04T08:19:57+00:00
  - user: None
- - tags: ['apple', 'corporatocracy', 'technofeudalism']
+ - tags: ['subscription', 'technofeudalism', 'corporatocracy', 'apple']
 
 ## Amazon delays The Rings of Power ratings to combat fake reviews | The Lord of the Rings: The Rings of Power | The Guardian
  - [https://www.theguardian.com/tv-and-radio/2022/sep/04/amazon-delays-rings-of-power-ratings-combat-fake-reviews](https://www.theguardian.com/tv-and-radio/2022/sep/04/amazon-delays-rings-of-power-ratings-combat-fake-reviews)

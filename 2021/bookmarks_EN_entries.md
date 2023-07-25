@@ -466,6 +466,12 @@
  - user: rumpel
  - tags: ['fbi', 'jeffrey epstein']
 
+## Apple CEO Tim Cook 'Secretly' Signed $275 Billion Deal With China in 2016 - MacRumors
+ - [https://www.macrumors.com/2021/12/07/apple-ceo-tim-cook-secret-deal-with-china/](https://www.macrumors.com/2021/12/07/apple-ceo-tim-cook-secret-deal-with-china/)
+ - date published: 2021-12-07T11:42:09+00:00
+ - user: rumpel
+ - tags: ['manufacturing consent', 'tim cook', 'apple', 'china']
+
 ## Apple broke up with me 😢
  - [https://merecivilian.com/apple-broke-up-with-me/](https://merecivilian.com/apple-broke-up-with-me/)
  - date published: 2021-12-07T07:29:43.778873+00:00
@@ -3921,6 +3927,12 @@
  - date published: 2021-05-26T19:36:37+00:00
  - user: rumpel
  - tags: ['censorship', 'wuhan', 'covid', 'facebook', 'lab leak']
+
+## The Cover-Up Continues: The Truth About Bill Gates, Microsoft, and Jeffrey Epstein
+ - [https://unlimitedhangout.com/2021/05/investigative-reports/the-cover-up-continues-the-truth-about-bill-gates-microsoft-and-jeffrey-epstein/](https://unlimitedhangout.com/2021/05/investigative-reports/the-cover-up-continues-the-truth-about-bill-gates-microsoft-and-jeffrey-epstein/)
+ - date published: 2021-05-25T11:53:31+00:00
+ - user: rumpel
+ - tags: ['jeffrey epstein', 'microsoft', 'bill gates']
 
 ## Fauci admits ‘modest’ NIH funding of Wuhan lab but denies ‘gain of function
  - [https://nypost.com/2021/05/25/fauci-admits-nih-funding-of-wuhan-lab-denies-gain-of-function/](https://nypost.com/2021/05/25/fauci-admits-nih-funding-of-wuhan-lab-denies-gain-of-function/)

@@ -136,6 +136,12 @@
  - user: None
  - tags: ['china', 'blizzard', 'censorship']
 
+## Jeffrey Epstein: ABC stopped report 'amid Palace threats' - BBC News
+ - [https://www.bbc.com/news/world-us-canada-50296742](https://www.bbc.com/news/world-us-canada-50296742)
+ - date published: 2019-11-05T11:52:27+00:00
+ - user: rumpel
+ - tags: ['royal family', 'prince andrew', 'jeffrey epstein', 'england', 'manufacturing consent']
+
 ## Ultra-Woke ‘Terminator: Dark Fate' Projected to Lose More than $120 million — World of Reel
  - [https://www.worldofreel.com/blog/2019/11/dg22fjrmgo52liuoe5zuxalukvw8ll](https://www.worldofreel.com/blog/2019/11/dg22fjrmgo52liuoe5zuxalukvw8ll)
  - date published: 2019-11-04T11:49:39+00:00
@@ -423,6 +429,12 @@
  - date published: 2019-08-13T14:02:26+00:00
  - user: rumpel
  - tags: ['electric vehicles']
+
+## FDNY Reviewed 4chan Post About Jeffrey Epstein’s Death
+ - [https://www.buzzfeednews.com/article/janelytvynenko/fdny-review-jeffrey-epstein-4chan-post](https://www.buzzfeednews.com/article/janelytvynenko/fdny-review-jeffrey-epstein-4chan-post)
+ - date published: 2019-08-13T11:54:26+00:00
+ - user: rumpel
+ - tags: ['jeffrey epstein', '4chan']
 
 ## A HIDDEN LIFE - official trailer for Franz Jägerstätter
  - [https://www.youtube.com/watch?v=qJXmdY4lVR0](https://www.youtube.com/watch?v=qJXmdY4lVR0)

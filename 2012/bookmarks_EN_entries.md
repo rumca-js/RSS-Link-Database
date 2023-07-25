@@ -131,3 +131,9 @@ Foreign Bribery Investigation | OPA | Department of Justice
  - user: rumpel
  - tags: ['music']
 
+## Lockdown: The coming war on general-purpose computing – Cory Doctorow's MEMEX
+ - [https://memex.craphound.com/2012/01/10/lockdown-the-coming-war-on-general-purpose-computing/](https://memex.craphound.com/2012/01/10/lockdown-the-coming-war-on-general-purpose-computing/)
+ - date published: 2012-01-10T21:09:15+00:00
+ - user: rumpel
+ - tags: ['technofeudalism', 'drm']
+

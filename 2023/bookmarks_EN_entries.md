@@ -1,14 +1,32 @@
+## Is global warming behind Greece's wildfires? | The Spectator
+ - [https://www.spectator.co.uk/article/is-global-warming-behind-greeces-wildfires/?utm_medium=email&utm_source=CampaignMonitor_Editorial&utm_campaign=LNCH%20%2020230724%20%20House%20Ads%20%20SM+CID_0776dd8250bddc49e15a401e12e5979d](https://www.spectator.co.uk/article/is-global-warming-behind-greeces-wildfires/?utm_medium=email&utm_source=CampaignMonitor_Editorial&utm_campaign=LNCH%20%2020230724%20%20House%20Ads%20%20SM+CID_0776dd8250bddc49e15a401e12e5979d)
+ - date published: 2023-07-24T16:14:04+00:00
+ - user: rumpel
+ - tags: ['global warming', 'climate change']
+
+## U.S. Senate bill crafted with DEA targets end-to-end encryption
+ - [https://therecord.media/senate-dea-bill-targets-end-to-end-encryption-requires-companies-to-report-drugs](https://therecord.media/senate-dea-bill-targets-end-to-end-encryption-requires-companies-to-report-drugs)
+ - date published: 2023-07-24T00:01:48+00:00
+ - user: rumpel
+ - tags: ['cooper davis act', 'crypto wars', 'privacy', 'surveillance']
+
 ## PSA: Ubisoft is deleting "inactive accounts" and the games those accounts have bought
  - [https://www.techradar.com/gaming/psa-ubisoft-is-deleting-inactive-accounts-and-the-games-those-accounts-have-bought](https://www.techradar.com/gaming/psa-ubisoft-is-deleting-inactive-accounts-and-the-games-those-accounts-have-bought)
  - date published: 2023-07-23T17:56:38+00:00
  - user: rumpel
- - tags: ['games', 'ubisoft', 'technofeudalism']
+ - tags: ['ubisoft', 'subscription', 'games', 'technofeudalism']
 
 ## Web Environment Integrity API Proposal | Hacker News
  - [https://news.ycombinator.com/item?id=36817305](https://news.ycombinator.com/item?id=36817305)
  - date published: 2023-07-23T07:44:18+00:00
  - user: rumpel
  - tags: ['web environment integrity', 'webscraping']
+
+## YOUTUBE GOES PAY for PLAY - this is just getting sad...
+ - [https://www.youtube.com/watch?v=tZ8xuQnpvIE](https://www.youtube.com/watch?v=tZ8xuQnpvIE)
+ - date published: 2023-07-23T00:00:00+00:00
+ - user: rumpel
+ - tags: ['youtube', 'subscription', 'technofeudalism', 'ad business']
 
 ## Databag – tiny self-hosted federated messenger for the decentralized web
  - [https://github.com/balzack/databag](https://github.com/balzack/databag)
@@ -326,7 +344,7 @@
  - [https://www.theregister.com/2023/07/13/lg_smart_life_solutions_strategy/](https://www.theregister.com/2023/07/13/lg_smart_life_solutions_strategy/)
  - date published: 2023-07-13T10:06:16+00:00
  - user: rumpel
- - tags: ['lg', 'technofeudalism']
+ - tags: ['subscription', 'technofeudalism', 'lg']
 
 ## Tax preparers that shared private data with Meta, Google could be fined billions
  - [https://arstechnica.com/tech-policy/2023/07/meta-wont-say-what-happened-to-taxpayer-data-it-may-have-illegally-collected/](https://arstechnica.com/tech-policy/2023/07/meta-wont-say-what-happened-to-taxpayer-data-it-may-have-illegally-collected/)
@@ -350,7 +368,7 @@
  - [https://briefs.video/videos/i-am-leaving/](https://briefs.video/videos/i-am-leaving/)
  - date published: 2023-07-12T08:37:11+00:00
  - user: rumpel
- - tags: ['technofeudalism', 'funny']
+ - tags: ['subscription', 'technofeudalism', 'funny']
 
 ## The Heat Will Kill You First by Jeff Goodell | Hachette Book Group
  - [https://www.hachettebookgroup.com/titles/jeff-goodell/the-heat-will-kill-you-first/9780316497572/?lens=little-brown](https://www.hachettebookgroup.com/titles/jeff-goodell/the-heat-will-kill-you-first/9780316497572/?lens=little-brown)
@@ -1214,7 +1232,7 @@
  - [https://www.theverge.com/2023/6/7/23752437/twitch-new-ad-rules](https://www.theverge.com/2023/6/7/23752437/twitch-new-ad-rules)
  - date published: 2023-06-07T18:20:50+00:00
  - user: rumpel
- - tags: ['ad business', 'twitch', 'technofeudalism']
+ - tags: ['subscription', 'technofeudalism', 'ad business', 'twitch']
 
 ## Sisters of Perpetual Indulgence - Wikipedia
  - [https://en.wikipedia.org/wiki/Sisters_of_Perpetual_Indulgence](https://en.wikipedia.org/wiki/Sisters_of_Perpetual_Indulgence)
@@ -1922,7 +1940,7 @@
  - [https://www.theverge.com/2023/5/18/23728150/youtube-tv-unskippable-ads-premium-pause-commercial](https://www.theverge.com/2023/5/18/23728150/youtube-tv-unskippable-ads-premium-pause-commercial)
  - date published: 2023-05-18T09:26:22+00:00
  - user: rumpel
- - tags: ['technofeudalism', 'youtube']
+ - tags: ['youtube', 'subscription', 'technofeudalism', 'ad business']
 
 ## Session Transcripts | Dive deep into individual user sessions with fast, informative, and privacy-conscious transcripts. | Request Metrics
  - [https://requestmetrics.com/feature/session-transcripts/](https://requestmetrics.com/feature/session-transcripts/)
@@ -2403,6 +2421,12 @@
  - date published: 2023-05-02T22:24:57+00:00
  - user: rumpel
  - tags: ['yuval noah harari', 'artificial intelligence']
+
+## New Tool Shows if Your Car Might Be Tracking You, Selling Your Data
+ - [https://www.vice.com/en/article/n7enex/tool-shows-if-car-selling-data-privacy4cars-vehicle-privacy-report](https://www.vice.com/en/article/n7enex/tool-shows-if-car-selling-data-privacy4cars-vehicle-privacy-report)
+ - date published: 2023-05-02T21:03:03+00:00
+ - user: rumpel
+ - tags: ['electric vehicles', 'technofeudalism', 'privacy', 'surveillance']
 
 ## Elon Musk Dunks on ‘Woke’ Vice’s Looming Bankruptcy
  - [https://www.thedailybeast.com/elon-musk-dunks-on-woke-vices-looming-bankruptcy](https://www.thedailybeast.com/elon-musk-dunks-on-woke-vices-looming-bankruptcy)
@@ -3284,7 +3308,7 @@
  - [https://thomasbandt.com/the-day-windows-died](https://thomasbandt.com/the-day-windows-died)
  - date published: 2023-04-02T22:05:23+00:00
  - user: rumpel
- - tags: ['subscription', 'windows']
+ - tags: ['windows', 'technofeudalism', 'subscription', 'enshittification']
 
 ## Own your work
  - [https://josem.co/own-your-work/](https://josem.co/own-your-work/)
@@ -5650,6 +5674,12 @@
  - user: rumpel
  - tags: ['algorithms', 'dead internet', 'youtube']
 
+## Sony's new tech could block sideloading piracy apps on Android TV
+ - [https://www.androidauthority.com/sony-patent-piracy-app-android-tv-3266895/](https://www.androidauthority.com/sony-patent-piracy-app-android-tv-3266895/)
+ - date published: 2023-01-16T08:12:19+00:00
+ - user: rumpel
+ - tags: ['sony', 'technofeudalism']
+
 ## The global health-care collapse
  - [https://www.economist.com/finance-and-economics/2023/01/15/the-global-health-care-collapse](https://www.economist.com/finance-and-economics/2023/01/15/the-global-health-care-collapse)
  - date published: 2023-01-15T22:33:46+00:00
@@ -5900,7 +5930,7 @@
  - [https://www.pcgamer.com/youtubes-new-profanity-rules-are-punishing-creators-retroactively-and-theyre-furious](https://www.pcgamer.com/youtubes-new-profanity-rules-are-punishing-creators-retroactively-and-theyre-furious)
  - date published: 2023-01-12T13:00:50+00:00
  - user: rumpel
- - tags: ['technofeudalism', 'youtube', 'subscription']
+ - tags: ['youtube', 'subscription', 'technofeudalism']
 
 ## Past eight years confirmed to be the eight warmest on record | World Meteorological Organization
  - [https://public.wmo.int/en/media/press-release/past-eight-years-confirmed-be-eight-warmest-record#:~:text=GENEVA%2C%2012%20January%202023%20%2D%20The,by%20the%20World%20Meteorological%20Organization.](https://public.wmo.int/en/media/press-release/past-eight-years-confirmed-be-eight-warmest-record#:~:text=GENEVA%2C%2012%20January%202023%20%2D%20The,by%20the%20World%20Meteorological%20Organization.)
@@ -5973,6 +6003,12 @@
  - date published: 2023-01-11T12:31:52+00:00
  - user: rumpel
  - tags: ['programming', 'django']
+
+## Sony Patents Anti-Piracy Blacklist for Smart TVs and Media Players
+ - [https://torrentfreak.com/sony-patents-anti-piracy-blacklist-for-smart-tvs-and-media-players-230111/](https://torrentfreak.com/sony-patents-anti-piracy-blacklist-for-smart-tvs-and-media-players-230111/)
+ - date published: 2023-01-11T08:13:31+00:00
+ - user: rumpel
+ - tags: ['sony', 'technofeudalism']
 
 ## Clever code considered harmful
  - [https://www.joshwcomeau.com/career/clever-code-considered-harmful/](https://www.joshwcomeau.com/career/clever-code-considered-harmful/)

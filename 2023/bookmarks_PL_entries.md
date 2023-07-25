@@ -564,12 +564,6 @@
  - user: rumpel
  - tags: ['spain', 'immigration']
 
-## Telewizor odmówi ci wyświetlenia danej treści. Nie, to nie żart         - TELEPOLIS.PL
- - [https://www.telepolis.pl/tech/sprzet/telewizory-sony-zabezpieczenie-piractwo](https://www.telepolis.pl/tech/sprzet/telewizory-sony-zabezpieczenie-piractwo)
- - date published: 2023-01-16T06:47:16+00:00
- - user: rumpel
- - tags: ['sony', 'technofeudalism', 'moderation', 'censorship']
-
 ## Demografia. Więcej niż wyzwanie dekady
  - [https://forsal.pl/gospodarka/demografia/artykuly/8636131,demografia-wiecej-niz-wyzwanie-dekady.html](https://forsal.pl/gospodarka/demografia/artykuly/8636131,demografia-wiecej-niz-wyzwanie-dekady.html)
  - date published: 2023-01-16T05:00:00+00:00
