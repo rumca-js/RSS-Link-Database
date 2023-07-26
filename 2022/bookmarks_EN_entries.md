@@ -5546,7 +5546,7 @@
  - [https://www.spectator.co.uk/article/why-is-canada-euthanising-the-poor-](https://www.spectator.co.uk/article/why-is-canada-euthanising-the-poor-)
  - date published: 2022-09-21T08:59:23+00:00
  - user: None
- - tags: ['euthanasia', 'canada', 'social engineering']
+ - tags: ['euthanasia', 'canada', 'depopulation', 'social engineering']
 
 ## Google now lets you request the removal of search results that contain personal data
  - [https://www.engadget.com/google-results-about-you-app-rolling-out-084913547.html?src=rss](https://www.engadget.com/google-results-about-you-app-rolling-out-084913547.html?src=rss)
@@ -7653,6 +7653,12 @@
  - date published: 2022-07-20T08:11:10.671425+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Study: Blacks 14 percent of the U.S. population; 52 percent of homicide victims | The Birmingham Times
+ - [https://www.birminghamtimes.com/2022/07/study-blacks-14-percent-of-the-u-s-population-52-percent-of-homicide-victims/](https://www.birminghamtimes.com/2022/07/study-blacks-14-percent-of-the-u-s-population-52-percent-of-homicide-victims/)
+ - date published: 2022-07-19T09:46:34+00:00
+ - user: rumpel
+ - tags: ['racism', 'science is dead', 'crime']
 
 ## Matysiak: Wyłączanie atomu w czasie walki z emisjami CO2 to zbrodnia klimatyczna (ROZMOWA) - BiznesAlert.pl
  - [https://biznesalert.pl/pola-matysiak-emisje-co2-atom-niemcy-rozmowa/](https://biznesalert.pl/pola-matysiak-emisje-co2-atom-niemcy-rozmowa/)

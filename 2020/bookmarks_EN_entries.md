@@ -806,7 +806,7 @@
  - [https://www.theeastafrican.co.ke/tea/news/east-africa/us-tells-kenya-to-support-israel-or-forget-free-trade-deal-2304192](https://www.theeastafrican.co.ke/tea/news/east-africa/us-tells-kenya-to-support-israel-or-forget-free-trade-deal-2304192)
  - date published: 2020-08-21T12:51:44+00:00
  - user: None
- - tags: ['israel', 'usa']
+ - tags: ['usa', 'israel', 'manufacturing consent']
 
 ## US coronavirus deaths could top 6,000 a day by December in worst-case scenario, expert predicts
  - [https://edition.cnn.com/world/live-news/coronavirus-pandemic-08-21-20-intl#h_e869402891201d42d0937c0fe789a1df](https://edition.cnn.com/world/live-news/coronavirus-pandemic-08-21-20-intl#h_e869402891201d42d0937c0fe789a1df)

@@ -64,6 +64,12 @@
  - user: rumpel
  - tags: ['lgbt', 'joe rogan', 'sjw', 'the left wing', 'feminism', 'grievance']
 
+## AN UNCONVENTIONAL APPROACH TO POPULATION POLICY: Use the Feminist Revolution To Reverse World Population Growth - Negative Population Growth
+ - [https://npg.org/library/press-releases/13380.html](https://npg.org/library/press-releases/13380.html)
+ - date published: 2018-10-25T07:32:56+00:00
+ - user: rumpel
+ - tags: ['feminism', 'depopulation', 'climate change']
+
 ## 'City of surveillance': privacy expert quits Toronto's smart-city project
  - [https://www.theguardian.com/world/2018/oct/23/toronto-smart-city-surveillance-ann-cavoukian-resigns-privacy](https://www.theguardian.com/world/2018/oct/23/toronto-smart-city-surveillance-ann-cavoukian-resigns-privacy)
  - date published: 2018-10-23T12:04:50+00:00

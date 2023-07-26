@@ -1,3 +1,9 @@
+## Kto zabija w Ameryce albo 13/64 – HOPLOFOBIA.INFO
+ - [https://www.hoplofobia.info/kto-zabija-w-ameryce-albo-13-64/](https://www.hoplofobia.info/kto-zabija-w-ameryce-albo-13-64/)
+ - date published: 2023-07-25T09:42:38+00:00
+ - user: rumpel
+ - tags: ['racism', 'science is dead', 'crime']
+
 ## Niemcy boją się chodzić na baseny. "Obelgi i groźby śmierci są na porządku dziennym"
  - [https://forsal.pl/lifestyle/aktualnosci/artykuly/8891054,niemcy-boja-sie-chodzic-na-baseny-obelgi-i-grozby-smierci-sa-na-porz.html](https://forsal.pl/lifestyle/aktualnosci/artykuly/8891054,niemcy-boja-sie-chodzic-na-baseny-obelgi-i-grozby-smierci-sa-na-porz.html)
  - date published: 2023-07-22T06:54:39+00:00

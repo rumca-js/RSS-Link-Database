@@ -268,6 +268,12 @@
  - user: rumpel
  - tags: ['depopulation', 'climate change']
 
+## Nobel Prize-Winning Scientist: ‘Climate Crisis Is a Hoax To Depopulate the Planet’ - The People's Voice
+ - [https://thepeoplesvoice.tv/nobel-prize-winning-scientist-climate-crisis-is-a-hoax-to-depopulate-the-planet/](https://thepeoplesvoice.tv/nobel-prize-winning-scientist-climate-crisis-is-a-hoax-to-depopulate-the-planet/)
+ - date published: 2023-07-15T07:11:18+00:00
+ - user: rumpel
+ - tags: ['climate change', 'dr. john clauser', 'depopulation']
+
 ## IndieWeb Discovery – Tracy Durnell
  - [https://tracydurnell.com/2021/10/05/indieweb-discovery/](https://tracydurnell.com/2021/10/05/indieweb-discovery/)
  - date published: 2023-07-15T06:30:42+00:00
@@ -327,6 +333,12 @@
  - date published: 2023-07-14T05:35:55+00:00
  - user: rumpel
  - tags: ['censorship', 'tech control', 'technofeudalism']
+
+## Student gets UNO reversed on question about white privilege
+ - [https://www.youtube.com/watch?v=UXMrH0BMLqg](https://www.youtube.com/watch?v=UXMrH0BMLqg)
+ - date published: 2023-07-14T00:00:00+00:00
+ - user: rumpel
+ - tags: ['racism', 'science is dead', 'crime']
 
 ## FTC investigating OpenAI on data collection and publication of false information
  - [https://www.theverge.com/2023/7/13/23793911/ftc-openai-investigation-consumer-ai-false-information](https://www.theverge.com/2023/7/13/23793911/ftc-openai-investigation-consumer-ai-false-information)
@@ -915,6 +927,12 @@
  - date published: 2023-06-20T10:02:31+00:00
  - user: rumpel
  - tags: ['data leak', 'hackers', 'reddit']
+
+## Cameroon launches video surveillance with live facial recognition in largest city | Biometric Update
+ - [https://www.biometricupdate.com/202306/cameroon-launches-video-surveillance-with-live-facial-recognition-in-largest-city](https://www.biometricupdate.com/202306/cameroon-launches-video-surveillance-with-live-facial-recognition-in-largest-city)
+ - date published: 2023-06-20T07:58:53+00:00
+ - user: rumpel
+ - tags: ['biometric', 'cameroon', 'facial recognition']
 
 ## Don't Use Mocks
  - [https://joeblu.com/blog/2023_06_mocks/](https://joeblu.com/blog/2023_06_mocks/)
@@ -3254,7 +3272,7 @@
  - [https://www.technologyreview.com/2023/04/04/1070938/we-are-hurtling-toward-a-glitchy-spammy-scammy-ai-powered-internet/](https://www.technologyreview.com/2023/04/04/1070938/we-are-hurtling-toward-a-glitchy-spammy-scammy-ai-powered-internet/)
  - date published: 2023-04-04T12:11:05+00:00
  - user: rumpel
- - tags: ['internet', 'artificial intelligence']
+ - tags: ['internet', 'artificial intelligence', 'web30']
 
 ## Acceptable Hate: Assaults on Christianity Go Overlooked | Opinion
  - [https://www.newsweek.com/acceptable-hate-assaults-christianity-go-overlooked-opinion-1791866](https://www.newsweek.com/acceptable-hate-assaults-christianity-go-overlooked-opinion-1791866)
@@ -3734,7 +3752,7 @@
  - [https://tylerglaiel.substack.com/p/can-gpt-4-actually-write-code](https://tylerglaiel.substack.com/p/can-gpt-4-actually-write-code)
  - date published: 2023-03-17T04:39:19+00:00
  - user: rumpel
- - tags: ['chatgpt', 'artificial intelligence', 'gpt-4']
+ - tags: ['chatgpt', 'gpt-4', 'programming', 'artificial intelligence']
 
 ## Google says hackers could silently own your phone until Samsung fixes its modems
  - [https://www.theverge.com/2023/3/16/23644013/samsung-exynos-modem-security-issue-project-zero](https://www.theverge.com/2023/3/16/23644013/samsung-exynos-modem-security-issue-project-zero)
@@ -3764,7 +3782,7 @@
  - [https://www.youtube.com/watch?v=brAwZ5l_fuQ](https://www.youtube.com/watch?v=brAwZ5l_fuQ)
  - date published: 2023-03-16T15:53:30+00:00
  - user: rumpel
- - tags: ['artificial intelligence']
+ - tags: ['programming', 'artificial intelligence']
 
 ## Amazon sued for not telling New York store customers about facial recognition
  - [https://www.nbcnews.com/tech/security/amazon-sued-not-telling-new-york-store-customers-facial-recognition-rcna75290](https://www.nbcnews.com/tech/security/amazon-sued-not-telling-new-york-store-customers-facial-recognition-rcna75290)
@@ -5012,7 +5030,7 @@
  - [https://lajili.com/posts/post-2/](https://lajili.com/posts/post-2/)
  - date published: 2023-02-02T15:25:26+00:00
  - user: rumpel
- - tags: ['chatgpt', 'artificial intelligence']
+ - tags: ['internet', 'chatgpt', 'artificial intelligence', 'web30']
 
 ## EU chat control law will ban open source operating systems - Blog | Mullvad VPN
  - [https://mullvad.net/en/blog/2023/2/1/eu-chat-control-law-will-ban-open-source-operating-systems/](https://mullvad.net/en/blog/2023/2/1/eu-chat-control-law-will-ban-open-source-operating-systems/)
@@ -6110,7 +6128,7 @@
  - [https://www.techradar.com/news/adobe-is-almost-definitely-using-your-content-to-train-ai](https://www.techradar.com/news/adobe-is-almost-definitely-using-your-content-to-train-ai)
  - date published: 2023-01-09T14:49:22+00:00
  - user: rumpel
- - tags: ['copyright', 'law', 'artificial intelligence']
+ - tags: ['artificial intelligence', 'law', 'copyright', 'dark design']
 
 ## A village to be evicted for coal – the defense of Luetzerath in Germany
  - [https://freedomnews.org.uk/2023/01/09/a-village-to-be-evicted-for-coal-the-defense-of-luetzerath-in-germany/](https://freedomnews.org.uk/2023/01/09/a-village-to-be-evicted-for-coal-the-defense-of-luetzerath-in-germany/)
@@ -6230,7 +6248,7 @@
  - [https://www.theguardian.com/education/2023/jan/06/harvard-kennedy-school-blocks-role-former-head-human-rights-watch-israel](https://www.theguardian.com/education/2023/jan/06/harvard-kennedy-school-blocks-role-former-head-human-rights-watch-israel)
  - date published: 2023-01-06T11:00:48+00:00
  - user: rumpel
- - tags: ['censorship', 'israel', 'antisemitism', 'usa']
+ - tags: ['manufacturing consent', 'antisemitism', 'censorship', 'usa', 'israel']
 
 ## Six Hardest Truths of 2023
  - [https://www.youtube.com/watch?v=oknQHbKFTZE](https://www.youtube.com/watch?v=oknQHbKFTZE)
