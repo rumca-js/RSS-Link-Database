@@ -10,6 +10,12 @@
  - user: rumpel
  - tags: ['government control', 'big brother', 'patriot act', 'surveillance']
 
+## In 2023, you won’t be able to fly most drones in the US without broadcasting your location - The Verge
+ - [https://www.theverge.com/2020/12/28/22203398/faa-remote-id-rules-location-night-over-people](https://www.theverge.com/2020/12/28/22203398/faa-remote-id-rules-location-night-over-people)
+ - date published: 2020-12-28T21:12:41+00:00
+ - user: rumpel
+ - tags: ['geolocation', 'stones', 'faa']
+
 ## Citizen journalist jailed for 4 years over Wuhan virus reporting | Coronavirus pandemic News | Al Jazeera
  - [https://www.aljazeera.com/news/2020/12/28/chinese-citizen-journalist-faces-trial-for-wuhan-virus-reporting](https://www.aljazeera.com/news/2020/12/28/chinese-citizen-journalist-faces-trial-for-wuhan-virus-reporting)
  - date published: 2020-12-28T06:57:00+00:00

@@ -1,3 +1,69 @@
+## One dead in cargo ship fire, electric car suspected source, Dutch coastguard says | Reuters
+ - [https://www.reuters.com/world/europe/one-dead-several-wounded-after-fire-cargo-ship-dutch-coast-guard-2023-07-26/](https://www.reuters.com/world/europe/one-dead-several-wounded-after-fire-cargo-ship-dutch-coast-guard-2023-07-26/)
+ - date published: 2023-07-26T12:37:53+00:00
+ - user: rumpel
+ - tags: ['electric vehicles']
+
+## Engineering Blogs
+ - [https://engineeringblogs.xyz/](https://engineeringblogs.xyz/)
+ - date published: 2023-07-26T11:47:49+00:00
+ - user: rumpel
+ - tags: ['programming', 'blog']
+
+## Google vs. the Open Web
+ - [https://interpeer.io/blog/2023/07/google-vs-the-open-web/](https://interpeer.io/blog/2023/07/google-vs-the-open-web/)
+ - date published: 2023-07-26T09:52:53+00:00
+ - user: rumpel
+ - tags: ['web environment integrity']
+
+## Lobsters - invitation mechanism
+ - [https://lobste.rs/about#invitations](https://lobste.rs/about#invitations)
+ - date published: 2023-07-26T07:13:44+00:00
+ - user: rumpel
+ - tags: ['selfhost']
+
+## nginx
+ - [https://nginx.org/en/](https://nginx.org/en/)
+ - date published: 2023-07-26T06:33:21+00:00
+ - user: rumpel
+ - tags: ['selfhost']
+
+## The world’s fastest framework for building websites | Hugo
+ - [https://gohugo.io/](https://gohugo.io/)
+ - date published: 2023-07-26T06:31:40+00:00
+ - user: rumpel
+ - tags: ['selfhost']
+
+## GitHub - lobsters/lobsters: Computing-focused community centered around link aggregation and discussion
+ - [https://github.com/lobsters/lobsters](https://github.com/lobsters/lobsters)
+ - date published: 2023-07-26T06:29:01+00:00
+ - user: rumpel
+ - tags: ['link aggregation', 'selfhost']
+
+## Big Tech's Takeover and Destruction of Open Protocols and Networks
+ - [https://cheapskatesguide.org/articles/big-tech-takeovers.html](https://cheapskatesguide.org/articles/big-tech-takeovers.html)
+ - date published: 2023-07-26T02:04:37+00:00
+ - user: rumpel
+ - tags: ['dark design', 'corporatocracy', 'open source']
+
+## OpenAI can’t tell if something was written by AI after all
+ - [https://www.theverge.com/2023/7/25/23807487/openai-ai-generated-low-accuracy](https://www.theverge.com/2023/7/25/23807487/openai-ai-generated-low-accuracy)
+ - date published: 2023-07-25T21:30:17+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
+
+## Unpacking Google’s new “dangerous” Web-Environment-Integrity specification
+ - [https://vivaldi.com/blog/googles-new-dangerous-web-environment-integrity-spec/](https://vivaldi.com/blog/googles-new-dangerous-web-environment-integrity-spec/)
+ - date published: 2023-07-25T20:06:38+00:00
+ - user: rumpel
+ - tags: ['web environment integrity', 'google']
+
+## The ESRB wants to start using facial scanning technology to check people's ages | PC Gamer
+ - [https://www.pcgamer.com/the-esrb-wants-to-start-using-facial-recognition-to-check-peoples-ages/](https://www.pcgamer.com/the-esrb-wants-to-start-using-facial-recognition-to-check-peoples-ages/)
+ - date published: 2023-07-24T20:08:38+00:00
+ - user: rumpel
+ - tags: ['facial recognition', 'biometrics']
+
 ## Is global warming behind Greece's wildfires? | The Spectator
  - [https://www.spectator.co.uk/article/is-global-warming-behind-greeces-wildfires/?utm_medium=email&utm_source=CampaignMonitor_Editorial&utm_campaign=LNCH%20%2020230724%20%20House%20Ads%20%20SM+CID_0776dd8250bddc49e15a401e12e5979d](https://www.spectator.co.uk/article/is-global-warming-behind-greeces-wildfires/?utm_medium=email&utm_source=CampaignMonitor_Editorial&utm_campaign=LNCH%20%2020230724%20%20House%20Ads%20%20SM+CID_0776dd8250bddc49e15a401e12e5979d)
  - date published: 2023-07-24T16:14:04+00:00
@@ -147,6 +213,12 @@
  - date published: 2023-07-19T23:01:13+00:00
  - user: rumpel
  - tags: ['climate change', 'global warming']
+
+## YouTube Is Pulling ‘Sound Of Freedom’ Interviews, Reviews – Summit News
+ - [https://summit.news/2023/07/19/youtube-is-pulling-sound-of-freedom-interviews-reviews/](https://summit.news/2023/07/19/youtube-is-pulling-sound-of-freedom-interviews-reviews/)
+ - date published: 2023-07-19T14:10:03+00:00
+ - user: rumpel
+ - tags: ['sound of freedom', 'youtube', 'censorship']
 
 ## Disinformation reimagined: how AI could erode democracy in the 2024 US elections
  - [https://www.theguardian.com/us-news/2023/jul/19/ai-generated-disinformation-us-elections](https://www.theguardian.com/us-news/2023/jul/19/ai-generated-disinformation-us-elections)
@@ -5247,6 +5319,12 @@
  - date published: 2023-01-28T00:00:00+00:00
  - user: rumpel
  - tags: ['cancel culture', 'jordan peterson']
+
+## Canada’s Bill C-26: Yet Another Government Power Grab | easyDNS
+ - [https://easydns.com/blog/2023/01/27/canadas-bill-c-26-yet-another-government-power-grab/](https://easydns.com/blog/2023/01/27/canadas-bill-c-26-yet-another-government-power-grab/)
+ - date published: 2023-01-27T18:41:40+00:00
+ - user: rumpel
+ - tags: ['canada', 'tech control', 'bill c-26']
 
 ## AI, Art and the Lawsuits
  - [https://www.youtube.com/watch?v=aRPY0ctBCzM](https://www.youtube.com/watch?v=aRPY0ctBCzM)
