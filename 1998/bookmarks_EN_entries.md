@@ -10,3 +10,9 @@
  - user: rumpel
  - tags: ['dead internet', 'algorithms', 'search engines']
 
+## Contrite Tobacco Executives Admit Health Risks Before Congress
+ - [https://www.washingtonpost.com/wp-srv/national/longterm/tobacco/stories/incongress013098.htm](https://www.washingtonpost.com/wp-srv/national/longterm/tobacco/stories/incongress013098.htm)
+ - date published: 1998-01-30T09:29:56+00:00
+ - user: rumpel
+ - tags: ['congress', 'tobacco', 'manufacturing consent', 'cigarettes']
+

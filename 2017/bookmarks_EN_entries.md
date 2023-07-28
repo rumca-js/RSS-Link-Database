@@ -52,6 +52,12 @@
  - user: rumpel
  - tags: ['intel management engine', 'surveillance', 'tracking', 'vulnerability']
 
+## The Occupation of Water - Amnesty International
+ - [https://www.amnesty.org/en/latest/campaigns/2017/11/the-occupation-of-water/](https://www.amnesty.org/en/latest/campaigns/2017/11/the-occupation-of-water/)
+ - date published: 2017-11-29T18:14:27+00:00
+ - user: rumpel
+ - tags: ['palisteine', 'israel']
+
 ## Happiness
  - [https://www.youtube.com/watch?v=e9dZQelULDk](https://www.youtube.com/watch?v=e9dZQelULDk)
  - date published: 2017-11-25T07:18:36+00:00

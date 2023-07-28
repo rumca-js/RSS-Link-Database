@@ -1210,6 +1210,12 @@
  - user: None
  - tags: ['censorship', 'facebook']
 
+## The Dead Sea is dying. These beautiful, ominous photos show the impact : The Picture Show : NPR
+ - [https://www.npr.org/sections/pictureshow/2022/12/11/1139524126/photos-dead-sea-water-level-dropping-sinkholes-erosion](https://www.npr.org/sections/pictureshow/2022/12/11/1139524126/photos-dead-sea-water-level-dropping-sinkholes-erosion)
+ - date published: 2022-12-11T19:54:01+00:00
+ - user: rumpel
+ - tags: ['dear sea', 'israel']
+
 ## Rep Kevin McCarthy calls for investigation into social media censorship following Twitter disclosures
  - [https://reclaimthenet.org/mccarthy-calls-for-investigation-into-social-media-censorship/](https://reclaimthenet.org/mccarthy-calls-for-investigation-into-social-media-censorship/)
  - date published: 2022-12-11T18:25:45+00:00
@@ -9520,6 +9526,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Interview with a Senior Python Developer - Part1
+ - [https://www.youtube.com/watch?v=BgxklT94W0I](https://www.youtube.com/watch?v=BgxklT94W0I)
+ - date published: 2022-04-09T00:00:00+00:00
+ - user: rumpel
+ - tags: ['funny', 'programming']
+
 ## Troy Hunt: Beg Bounties
  - [https://www.troyhunt.com/beg-bounties/](https://www.troyhunt.com/beg-bounties/)
  - date published: 2022-04-08T11:23:32.508595+00:00
@@ -9718,6 +9730,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Interview with a VIM Enthusiast
+ - [https://www.youtube.com/watch?v=9n1dtmzqnCU](https://www.youtube.com/watch?v=9n1dtmzqnCU)
+ - date published: 2022-04-02T00:00:00+00:00
+ - user: rumpel
+ - tags: ['funny', 'programming']
+
 ## Doctors suspended over anti-vax claims win court appeals
  - [https://www.rnz.co.nz/news/national/464442/doctors-suspended-over-anti-vax-claims-win-court-appeals](https://www.rnz.co.nz/news/national/464442/doctors-suspended-over-anti-vax-claims-win-court-appeals)
  - date published: 2022-04-01T09:54:12+00:00
@@ -9801,6 +9819,12 @@
  - date published: 2022-03-26T18:58:02.396994+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Interview with a Postdoc, Junior Python Developer
+ - [https://www.youtube.com/watch?v=YnL9vAFphmE](https://www.youtube.com/watch?v=YnL9vAFphmE)
+ - date published: 2022-03-26T00:00:00+00:00
+ - user: rumpel
+ - tags: ['funny', 'programming']
 
 ## BlackRock's Fink says Russia-Ukraine crisis could accelerate digital currencies
  - [https://www.reuters.com/technology/blackrocks-fink-says-russia-ukraine-crisis-could-accelerate-digital-currencies-2022-03-24/](https://www.reuters.com/technology/blackrocks-fink-says-russia-ukraine-crisis-could-accelerate-digital-currencies-2022-03-24/)
@@ -9975,6 +9999,12 @@
  - date published: 2022-03-19T00:00:00+00:00
  - user: rumpel
  - tags: ['history', 'documentary', 'archive']
+
+## Interview with Senior PHP Developer
+ - [https://www.youtube.com/watch?v=GzRfvwo1iNU](https://www.youtube.com/watch?v=GzRfvwo1iNU)
+ - date published: 2022-03-19T00:00:00+00:00
+ - user: rumpel
+ - tags: ['funny', 'programming']
 
 ## Court says non-open 'open source' code is false advertising • The Register
  - [https://www.theregister.com/2022/03/17/court_open_source/](https://www.theregister.com/2022/03/17/court_open_source/)
@@ -10444,6 +10474,12 @@
  - user: rumpel
  - tags: ['books', 'narnia']
 
+## Interview with Senior C++ Developer
+ - [https://www.youtube.com/watch?v=s7wLYzRJt3s](https://www.youtube.com/watch?v=s7wLYzRJt3s)
+ - date published: 2022-02-19T00:00:00+00:00
+ - user: rumpel
+ - tags: ['funny', 'programming']
+
 ## Windows 11 Pro will soon require a Microsoft Account
  - [https://www.theverge.com/2022/2/18/22940517/windows-11-pro-require-microsoft-account-internet-connection](https://www.theverge.com/2022/2/18/22940517/windows-11-pro-require-microsoft-account-internet-connection)
  - date published: 2022-02-18T20:52:01+00:00
@@ -10858,6 +10894,12 @@
  - user: rumpel
  - tags: ['wuhan', 'censorship', 'covid', 'covid origins']
 
+## Interview with Senior JS Developer
+ - [https://www.youtube.com/watch?v=Uo3cL4nrGOk](https://www.youtube.com/watch?v=Uo3cL4nrGOk)
+ - date published: 2022-01-31T00:00:00+00:00
+ - user: rumpel
+ - tags: ['funny', 'programming']
+
 ## A UX designer walks into a Tesla Bar – Scott Jenson
  - [https://jenson.org/tesla/](https://jenson.org/tesla/)
  - date published: 2022-01-30T23:07:41.507686+00:00
@@ -10964,7 +11006,7 @@
  - [https://9to5google.com/2022/01/25/google-topics-api-floc/](https://9to5google.com/2022/01/25/google-topics-api-floc/)
  - date published: 2022-01-26T10:44:18.214581+00:00
  - user: Thomas Pain
- - tags: ['google', 'floc', 'cookies']
+ - tags: ['ad business', 'google', 'cookies', 'floc']
 
 ## Piotr Schramm - Digital Identity: Komisja Europejska chce przekształcić bilet koronowy w "cyfrowy identyfikator"
  - [https://twitter.com/Piotr_Schramm/status/1486384858754699268](https://twitter.com/Piotr_Schramm/status/1486384858754699268)

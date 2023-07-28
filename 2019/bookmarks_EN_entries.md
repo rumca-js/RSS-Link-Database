@@ -58,6 +58,12 @@
  - user: rumpel
  - tags: ['satanic temple']
 
+## Behind the One-Way Mirror: A Deep Dive Into the Technology of Corporate Surveillance | Electronic Frontier Foundation
+ - [https://www.eff.org/wp/behind-the-one-way-mirror](https://www.eff.org/wp/behind-the-one-way-mirror)
+ - date published: 2019-12-02T11:48:04+00:00
+ - user: rumpel
+ - tags: ['ad business', 'corporatocracy', 'surviellance']
+
 ## Top 25 Most Dangerous Vulnerabilities Refreshed After 8 Years
  - [https://www.bleepingcomputer.com/news/security/top-25-most-dangerous-vulnerabilities-refreshed-after-8-years/](https://www.bleepingcomputer.com/news/security/top-25-most-dangerous-vulnerabilities-refreshed-after-8-years/)
  - date published: 2019-11-27T09:09:31+00:00

@@ -34,6 +34,12 @@
  - user: None
  - tags: ['internet', 'privacy', 'edward snowden']
 
+## Żywot programisty
+ - [https://www.youtube.com/watch?v=_q-l6Cn6WxY](https://www.youtube.com/watch?v=_q-l6Cn6WxY)
+ - date published: 2019-09-08T00:00:00+00:00
+ - user: rumpel
+ - tags: ['funny', 'programming']
+
 ## Małgorzata Wołczyk: Orwell w Hiszpanii, czyli jak Zapatero urządził Hiszpanów
  - [https://teologiapolityczna.pl/malgorzata-wolczyk-orwell-w-hiszpanii-czyli-jak-zapatero-urzadzil-hiszpanow](https://teologiapolityczna.pl/malgorzata-wolczyk-orwell-w-hiszpanii-czyli-jak-zapatero-urzadzil-hiszpanow)
  - date published: 2019-09-03T10:25:12+00:00

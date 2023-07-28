@@ -1,3 +1,27 @@
+## Google's browser security plan slammed as dangerous, terrible, DRM for websites
+ - [https://www.theregister.com/2023/07/27/google_web_environment_integrity/](https://www.theregister.com/2023/07/27/google_web_environment_integrity/)
+ - date published: 2023-07-27T13:22:41+00:00
+ - user: rumpel
+ - tags: ['web environment integrity', 'google']
+
+## Climate Worries Are More Exhausting Than the Heat Itself | Opinion
+ - [https://www.newsweek.com/climate-worries-are-more-exhausting-heat-itself-opinion-1815635](https://www.newsweek.com/climate-worries-are-more-exhausting-heat-itself-opinion-1815635)
+ - date published: 2023-07-27T10:00:01+00:00
+ - user: rumpel
+ - tags: ['tend your garden', 'climate change']
+
+## Pix surpasses credit and debit card transactions in Brazil
+ - [https://philaverse.substack.com/p/report-pix-surpasses-credit-and-debit](https://philaverse.substack.com/p/report-pix-surpasses-credit-and-debit)
+ - date published: 2023-07-27T01:37:04+00:00
+ - user: rumpel
+ - tags: ['brasil', 'cbdc']
+
+## Kids Online Safety Act is still a danger to our rights online
+ - [https://www.eff.org/deeplinks/2023/05/kids-online-safety-act-still-huge-danger-our-rights-online](https://www.eff.org/deeplinks/2023/05/kids-online-safety-act-still-huge-danger-our-rights-online)
+ - date published: 2023-07-26T21:07:07+00:00
+ - user: rumpel
+ - tags: ['kids online safety act', 'privacy', 'surveillance']
+
 ## One dead in cargo ship fire, electric car suspected source, Dutch coastguard says | Reuters
  - [https://www.reuters.com/world/europe/one-dead-several-wounded-after-fire-cargo-ship-dutch-coast-guard-2023-07-26/](https://www.reuters.com/world/europe/one-dead-several-wounded-after-fire-cargo-ship-dutch-coast-guard-2023-07-26/)
  - date published: 2023-07-26T12:37:53+00:00
@@ -55,6 +79,18 @@
 ## Unpacking Google’s new “dangerous” Web-Environment-Integrity specification
  - [https://vivaldi.com/blog/googles-new-dangerous-web-environment-integrity-spec/](https://vivaldi.com/blog/googles-new-dangerous-web-environment-integrity-spec/)
  - date published: 2023-07-25T20:06:38+00:00
+ - user: rumpel
+ - tags: ['web environment integrity', 'google']
+
+## Researchers find deliberate backdoor in police radio encryption algorithm
+ - [https://arstechnica.com/?p=1956349](https://arstechnica.com/?p=1956349)
+ - date published: 2023-07-25T13:05:32+00:00
+ - user: rumpel
+ - tags: ['encryption', 'backdoory', 'crypto wars']
+
+## Google Web Environment Integrity draft draws developer rage • The Register
+ - [https://www.theregister.com/2023/07/25/google_web_environment_integrity/](https://www.theregister.com/2023/07/25/google_web_environment_integrity/)
+ - date published: 2023-07-25T11:56:56+00:00
  - user: rumpel
  - tags: ['web environment integrity', 'google']
 
@@ -2086,6 +2122,12 @@
  - user: rumpel
  - tags: ['fbi', 'donald trump', 'elections']
 
+## California’s New Math Framework Doesn’t Add Up - Education Next
+ - [https://www.educationnext.org/californias-new-math-framework-doesnt-add-up/](https://www.educationnext.org/californias-new-math-framework-doesnt-add-up/)
+ - date published: 2023-05-16T07:34:34+00:00
+ - user: rumpel
+ - tags: ['science is dead', 'racism', 'california math framework', 'math is racist']
+
 ## DHS engaged in massive censorship laundering scheme â your government is trying to erase your First Amendment rights
  - [https://www.newstarget.com/2023-05-16-dhs-censorship-laundering-scheme-erase-first-amendment.html](https://www.newstarget.com/2023-05-16-dhs-censorship-laundering-scheme-erase-first-amendment.html)
  - date published: 2023-05-16T07:13:17+00:00
@@ -2151,6 +2193,12 @@
  - date published: 2023-05-14T22:53:58+00:00
  - user: rumpel
  - tags: ['surveillance', 'canada']
+
+## Using the Internet for the 1st time [Recipe Websites]
+ - [https://www.youtube.com/watch?v=pq7NLMwynYg](https://www.youtube.com/watch?v=pq7NLMwynYg)
+ - date published: 2023-05-14T18:38:19+00:00
+ - user: rumpel
+ - tags: ['funny', 'programming']
 
 ## 47% of all internet traffic came from bots in 2022
  - [https://www.securitymagazine.com/articles/99339-47-of-all-internet-traffic-came-from-bots-in-2022](https://www.securitymagazine.com/articles/99339-47-of-all-internet-traffic-came-from-bots-in-2022)

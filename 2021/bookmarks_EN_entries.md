@@ -1228,6 +1228,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Lawmakers study Big Tobacco perjury before Big Oil showdown | Congressman Ro Khanna
+ - [https://khanna.house.gov/media/in-the-news/lawmakers-study-big-tobacco-perjury-big-oil-showdown](https://khanna.house.gov/media/in-the-news/lawmakers-study-big-tobacco-perjury-big-oil-showdown)
+ - date published: 2021-10-27T09:32:52+00:00
+ - user: rumpel
+ - tags: ['tobacco', 'cigarettes', 'congress', 'monopoly', 'corporatocracy', 'manufacturing consent', 'big oil']
+
 ## Ideas | The “Phone Disaster”: How WeChat became digital traps for Chinese Uyghurs - Rest of World
  - [https://restofworld.org/2021/china-smartphone-uyghurs/](https://restofworld.org/2021/china-smartphone-uyghurs/)
  - date published: 2021-10-26T14:22:27.543216+00:00
@@ -3802,6 +3808,12 @@
  - user: rumpel
  - tags: ['children', 'sexualization', 'indoctrination', 'the left wing', 'lgbt']
 
+## Microsoft's Bing censors image results for "tank man" on anniversary of Tiananmen Square massacre
+ - [https://reclaimthenet.org/microsofts-bing-censors-tank-man](https://reclaimthenet.org/microsofts-bing-censors-tank-man)
+ - date published: 2021-06-04T21:20:46+00:00
+ - user: rumpel
+ - tags: ['china', 'censorship', 'microsoft']
+
 ## The Media's Lab Leak Debacle Shows Why Banning 'Misinformation' Is a Terrible Idea
  - [https://reason.com/2021/06/04/lab-leak-misinformation-media-fauci-covid-19/](https://reason.com/2021/06/04/lab-leak-misinformation-media-fauci-covid-19/)
  - date published: 2021-06-04T19:26:23+00:00
@@ -4455,6 +4467,12 @@
  - date published: 2021-03-08T08:09:50+00:00
  - user: rumpel
  - tags: ['newspeak', 'germany', 'the left wing']
+
+## Google’s FLoC Is a Terrible Idea | Electronic Frontier Foundation
+ - [https://www.eff.org/deeplinks/2021/03/googles-floc-terrible-idea](https://www.eff.org/deeplinks/2021/03/googles-floc-terrible-idea)
+ - date published: 2021-03-03T11:46:17+00:00
+ - user: rumpel
+ - tags: ['google', 'floc', 'add business', 'privacy']
 
 ## Ex-Times Reporter Who Used Racial Slur Publishes a Lengthy Defense - The New York Times
  - [https://www.nytimes.com/2021/03/01/business/donald-mcneil-new-york-times-racial-slur.html](https://www.nytimes.com/2021/03/01/business/donald-mcneil-new-york-times-racial-slur.html)
