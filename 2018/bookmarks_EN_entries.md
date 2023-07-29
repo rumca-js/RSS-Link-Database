@@ -100,6 +100,12 @@
  - user: rumpel
  - tags: ['search engines', 'duckduckgo', 'dead internet', 'algorithms']
 
+## Rothschild Land Purchases and Early Israel – SursockHouse
+ - [https://sursockhouse.com/rothschild-land-purchases-and-early-israel/](https://sursockhouse.com/rothschild-land-purchases-and-early-israel/)
+ - date published: 2018-10-10T12:25:35+00:00
+ - user: rumpel
+ - tags: ['israel', 'rothschild']
+
 ## The Agricultural Revolution Has Been A Disaster for the Human Race.
  - [https://notrelated.xyz/audio/s01/S01E05_-_The_Agricultural_Revolution_Has_Been_a_Disaster_for_the_Human_Race.mp3](https://notrelated.xyz/audio/s01/S01E05_-_The_Agricultural_Revolution_Has_Been_a_Disaster_for_the_Human_Race.mp3)
  - date published: 2018-10-08T04:00:00+00:00

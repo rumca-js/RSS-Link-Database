@@ -328,6 +328,12 @@
  - user: rumpel
  - tags: ['911']
 
+## Council on Foreign Relations, another beneficiary of Epstein largesse, grapples with how to handle his donations - The Washington Post
+ - [https://www.washingtonpost.com/politics/council-on-foreign-relations-another-beneficiary-of-epstein-largesse-grapples-with-how-to-handle-his-donations/2019/09/10/1d5630e2-d324-11e9-86ac-0f250cc91758_story.html](https://www.washingtonpost.com/politics/council-on-foreign-relations-another-beneficiary-of-epstein-largesse-grapples-with-how-to-handle-his-donations/2019/09/10/1d5630e2-d324-11e9-86ac-0f250cc91758_story.html)
+ - date published: 2019-09-10T11:56:27+00:00
+ - user: rumpel
+ - tags: ['jeffrey epstein', 'billionaires', 'council on foreign relations', 'elite']
+
 ## Why Tesla is a Privacy Nightmare
  - [https://www.youtube.com/watch?v=Qjkt3X2WLrw](https://www.youtube.com/watch?v=Qjkt3X2WLrw)
  - date published: 2019-09-09T20:34:52+00:00
@@ -742,6 +748,12 @@
  - user: None
  - tags: ['privacy', 'iot', 'amazon']
 
+## Allison Mack of ‘Smallville’ Pleads Guilty in Case of Nxivm ‘Sex Cult’ Where Women Were Branded - The New York Times
+ - [https://www.nytimes.com/2019/04/08/nyregion/nxivm-allison-mack.html](https://www.nytimes.com/2019/04/08/nyregion/nxivm-allison-mack.html)
+ - date published: 2019-04-08T11:44:03+00:00
+ - user: rumpel
+ - tags: ['allison mack', 'sect', 'cult', 'nxivm']
+
 ## End the transgender 'unregulated live experiment on children' say whistleblowing workers who have quit clinic treating patients as young as THREE
  - [https://www.dailymail.co.uk/news/article-6897269/Workers-transgender-clinic-quit-concerns-unregulated-live-experiments-children.html](https://www.dailymail.co.uk/news/article-6897269/Workers-transgender-clinic-quit-concerns-unregulated-live-experiments-children.html)
  - date published: 2019-04-08T08:58:27+00:00
@@ -770,7 +782,7 @@
  - [https://abc13.com/drag-queen-story-time-sex-offender-houston-public-library/5203743/](https://abc13.com/drag-queen-story-time-sex-offender-houston-public-library/5203743/)
  - date published: 2019-03-19T22:14:03+00:00
  - user: rumpel
- - tags: ['sexualization', 'indoctrination', 'rape', 'the left wing', 'children', 'lgbt']
+ - tags: ['the left wing', 'sexualization', 'children', 'rape', 'indoctrination', 'paedophilia', 'lgbt']
 
 ## The Flaws of Academic Statistics: the Null Ritual
  - [https://notrelated.xyz/audio/s01/S01E08_-_The_Flaws_of_Academic_Statistics_the_Null_Ritual.mp3](https://notrelated.xyz/audio/s01/S01E08_-_The_Flaws_of_Academic_Statistics_the_Null_Ritual.mp3)
@@ -825,6 +837,12 @@
  - date published: 2019-02-07T09:56:21+00:00
  - user: rumpel
  - tags: ['surveillance', 'tracking', 'google']
+
+## ‘John of God’ cult leader allegedly ran child sex slave farm
+ - [https://nypost.com/2019/01/31/john-of-god-cult-leader-allegedly-ran-child-sex-slave-farm/](https://nypost.com/2019/01/31/john-of-god-cult-leader-allegedly-ran-child-sex-slave-farm/)
+ - date published: 2019-01-31T11:29:14+00:00
+ - user: rumpel
+ - tags: ['sect', 'john of god', 'paedophilia', 'cult', 'brazil']
 
 ## WEF defends jet-setting elites amid climate change agenda
  - [https://www.cnbc.com/2019/01/25/wef-defends-jet-setting-elites-amid-climate-change-agenda.html](https://www.cnbc.com/2019/01/25/wef-defends-jet-setting-elites-amid-climate-change-agenda.html)

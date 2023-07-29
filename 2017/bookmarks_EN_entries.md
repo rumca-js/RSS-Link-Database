@@ -22,6 +22,18 @@
  - user: rumpel
  - tags: ['blackrock', 'fintech']
 
+## Former NXIVM member says she was invited into a secret sorority, then branded - ABC News
+ - [https://abcnews.go.com/US/nxivm-member-invited-secret-sorority-branded/story?id=51617201](https://abcnews.go.com/US/nxivm-member-invited-secret-sorority-branded/story?id=51617201)
+ - date published: 2017-12-15T11:42:52+00:00
+ - user: rumpel
+ - tags: ['secret society', 'nxivm']
+
+## Chamath Palihapitiya: Why Failing Fast Fails | Stanford Graduate School of Business
+ - [https://www.gsb.stanford.edu/insights/chamath-palihapitiya-why-failing-fast-fails](https://www.gsb.stanford.edu/insights/chamath-palihapitiya-why-failing-fast-fails)
+ - date published: 2017-12-12T12:02:13+00:00
+ - user: rumpel
+ - tags: ['billionaires', 'elite', 'rothschild']
+
 ## You Give Up a Lot of Privacy Just Opening Emails. Here's How to Stop It | WIRED
  - [https://www.wired.com/story/how-email-open-tracking-quietly-took-over-the-web/](https://www.wired.com/story/how-email-open-tracking-quietly-took-over-the-web/)
  - date published: 2017-12-11T18:41:30+00:00

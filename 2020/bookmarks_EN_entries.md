@@ -706,6 +706,12 @@
  - user: None
  - tags: ['covid', 'cancer']
 
+## 4Chan /x/ Board - Epstein's employee exposes all that happened (repost)
+ - [https://www.youtube.com/watch?v=bLsCoqwpvCw](https://www.youtube.com/watch?v=bLsCoqwpvCw)
+ - date published: 2020-09-08T00:00:00+00:00
+ - user: rumpel
+ - tags: ['jeffrey epstein', 'unverified']
+
 ## Norway will prioritise lesbian, gay, bisexual and transgender refugees
  - [https://www.euronews.com/2020/07/09/norway-will-prioritise-lesbian-gay-bisexual-and-transgender-refugees](https://www.euronews.com/2020/07/09/norway-will-prioritise-lesbian-gay-bisexual-and-transgender-refugees)
  - date published: 2020-09-07T21:01:23+00:00
@@ -1101,6 +1107,12 @@
  - date published: 2020-07-03T15:28:00+00:00
  - user: rumpel
  - tags: ['jeffrey epstein', '4chan', 'unverified']
+
+## The Ghislaine Maxwell I know | The Spectator
+ - [https://www.spectator.co.uk/article/the-ghislaine-maxwell-i-know/](https://www.spectator.co.uk/article/the-ghislaine-maxwell-i-know/)
+ - date published: 2020-07-03T12:05:38+00:00
+ - user: rumpel
+ - tags: ['ghislaine maxwell', 'alan dershowitz', 'jeffrey epstein', 'lynn de rothschild', 'evelyn de rothschild']
 
 ## Bill Gates' Sphere of Influence
  - [https://i.redd.it/u0zf525kep851.jpg](https://i.redd.it/u0zf525kep851.jpg)
@@ -1582,6 +1594,12 @@
  - user: None
  - tags: ['all time', 'dead internet', 'youtube']
 
+## Lynn de Rothschild – one of the closest people to Epstein
+ - [https://www.reddit.com/r/Epstein/comments/f4sap8/lynn_de_rothschild_one_of_the_closest_people_to/](https://www.reddit.com/r/Epstein/comments/f4sap8/lynn_de_rothschild_one_of_the_closest_people_to/)
+ - date published: 2020-02-16T12:12:06+00:00
+ - user: rumpel
+ - tags: ['jeffrey epstein', 'lynn de rothschild']
+
 ## UK police deny responsibility for poster urging parents to report kids for using Kali Linux | ZDNET
  - [https://www.zdnet.com/article/uk-police-distance-themselves-from-poster-warning-parents-to-report-kids-for-using-kali-linux/](https://www.zdnet.com/article/uk-police-distance-themselves-from-poster-warning-parents-to-report-kids-for-using-kali-linux/)
  - date published: 2020-02-14T21:03:32+00:00
@@ -1665,6 +1683,12 @@
  - date published: 2020-01-24T00:00:00+00:00
  - user: rumpel
  - tags: ['artificial intelligence', 'hacking people', 'algorithms', 'yuval noah harari', 'world economic forum']
+
+## 2 lawyers on Trump defense team shared Epstein as a client
+ - [https://www.ksat.com/news/politics/2020/01/24/2-lawyers-on-trump-defense-team-shared-epstein-as-a-client/](https://www.ksat.com/news/politics/2020/01/24/2-lawyers-on-trump-defense-team-shared-epstein-as-a-client/)
+ - date published: 2020-01-23T11:48:14+00:00
+ - user: rumpel
+ - tags: ['jeffrey epstein', 'donald trump']
 
 ## The Secretive Company That Might End Privacy as We Know It - The New York Times
  - [https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html](https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html)

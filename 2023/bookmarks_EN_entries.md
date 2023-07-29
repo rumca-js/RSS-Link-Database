@@ -1,3 +1,39 @@
+## The U.K. Government Is Close to Eroding Encryption Worldwide
+ - [https://www.eff.org/deeplinks/2023/07/uk-government-very-close-eroding-encryption-worldwide](https://www.eff.org/deeplinks/2023/07/uk-government-very-close-eroding-encryption-worldwide)
+ - date published: 2023-07-28T21:01:41+00:00
+ - user: rumpel
+ - tags: ['online safety bill', 'privacy', 'surveillance', 'crypto wars']
+
+## Carrier ablaze off Dutch coast carrying almost 500 electric cars | Reuters
+ - [https://www.reuters.com/world/europe/carrier-ablaze-off-dutch-coast-carrying-almost-500-electric-cars-2023-07-28/](https://www.reuters.com/world/europe/carrier-ablaze-off-dutch-coast-carrying-almost-500-electric-cars-2023-07-28/)
+ - date published: 2023-07-28T13:28:25+00:00
+ - user: rumpel
+ - tags: ['electric vehicles', 'climate change']
+
+## File Downloads – Epstein's Black Book
+ - [https://epsteinsblackbook.com/files](https://epsteinsblackbook.com/files)
+ - date published: 2023-07-28T12:10:21+00:00
+ - user: rumpel
+ - tags: ['jeffrey epstein']
+
+## All Names – Epstein's Black Book
+ - [https://epsteinsblackbook.com/all-names](https://epsteinsblackbook.com/all-names)
+ - date published: 2023-07-28T12:10:01+00:00
+ - user: rumpel
+ - tags: ['jeffrey epstein']
+
+## Virginia Giuffre - Wikipedia
+ - [https://en.wikipedia.org/wiki/Virginia_Giuffre](https://en.wikipedia.org/wiki/Virginia_Giuffre)
+ - date published: 2023-07-28T11:11:04+00:00
+ - user: rumpel
+ - tags: ['jeffrey epstein', 'virginia giuffre']
+
+## How to Find Scientific Literature
+ - [https://www.emilkirkegaard.com/p/how-to-find-scientific-literature](https://www.emilkirkegaard.com/p/how-to-find-scientific-literature)
+ - date published: 2023-07-28T04:29:09+00:00
+ - user: rumpel
+ - tags: ['books', 'science']
+
 ## Google's browser security plan slammed as dangerous, terrible, DRM for websites
  - [https://www.theregister.com/2023/07/27/google_web_environment_integrity/](https://www.theregister.com/2023/07/27/google_web_environment_integrity/)
  - date published: 2023-07-27T13:22:41+00:00
@@ -22,6 +58,18 @@
  - user: rumpel
  - tags: ['kids online safety act', 'privacy', 'surveillance']
 
+## Ex-JPMorgan executive Jes Staley casually joked about Jeffrey Epstein's taste for underage girls with other executives, emails reveal
+ - [https://www.dailymail.co.uk/news/article-12337223/Former-JPMorgan-exec-Jes-Staley-casually-joked-Jeffrey-Epsteins-taste-underage-girls-executives-emails-reveal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12337223/Former-JPMorgan-exec-Jes-Staley-casually-joked-Jeffrey-Epsteins-taste-underage-girls-executives-emails-reveal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - date published: 2023-07-26T18:47:23+00:00
+ - user: rumpel
+ - tags: ['jpmorgan', 'jeffrey epstein', 'jes staley']
+
+## Australia could finalize digital ID legislation by mid-2024, but long road still ahead | Biometric Update
+ - [https://www.biometricupdate.com/202307/australia-could-finalize-digital-id-legislation-by-mid-2024-but-long-road-still-ahead](https://www.biometricupdate.com/202307/australia-could-finalize-digital-id-legislation-by-mid-2024-but-long-road-still-ahead)
+ - date published: 2023-07-26T14:13:17+00:00
+ - user: rumpel
+ - tags: ['australia', 'digital identity']
+
 ## One dead in cargo ship fire, electric car suspected source, Dutch coastguard says | Reuters
  - [https://www.reuters.com/world/europe/one-dead-several-wounded-after-fire-cargo-ship-dutch-coast-guard-2023-07-26/](https://www.reuters.com/world/europe/one-dead-several-wounded-after-fire-cargo-ship-dutch-coast-guard-2023-07-26/)
  - date published: 2023-07-26T12:37:53+00:00
@@ -33,6 +81,12 @@
  - date published: 2023-07-26T11:47:49+00:00
  - user: rumpel
  - tags: ['programming', 'blog']
+
+## Lawsuit alleges billionaire Leon Black raped autistic teen at Epstein's townhouse
+ - [https://www.nbcnews.com/news/us-news/lawsuit-accuses-billionaire-leon-black-raping-autistic-teenager-jeffre-rcna96373](https://www.nbcnews.com/news/us-news/lawsuit-accuses-billionaire-leon-black-raping-autistic-teenager-jeffre-rcna96373)
+ - date published: 2023-07-26T11:02:39+00:00
+ - user: rumpel
+ - tags: ['jeffrey epstein', 'leon black', 'billionaries', 'elite']
 
 ## Google vs. the Open Web
  - [https://interpeer.io/blog/2023/07/google-vs-the-open-web/](https://interpeer.io/blog/2023/07/google-vs-the-open-web/)
@@ -76,17 +130,41 @@
  - user: rumpel
  - tags: ['artificial intelligence']
 
+## Paedophile financier Jeffrey Epstein arranged talks between Prince Andrew and a major US bank at Buckingham Palace THREE years after Duke claimed to have broken off their friendship, court documents suggest
+ - [https://www.dailymail.co.uk/news/article-12337159/Paedophile-financier-Jeffrey-Epstein-arranged-talks-Prince-Andrew-major-bank-Buckingham-Palace-THREE-years-Duke-claimed-broken-friendship-court-documents-suggest.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12337159/Paedophile-financier-Jeffrey-Epstein-arranged-talks-Prince-Andrew-major-bank-Buckingham-Palace-THREE-years-Duke-claimed-broken-friendship-court-documents-suggest.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - date published: 2023-07-25T21:17:11+00:00
+ - user: rumpel
+ - tags: ['jeffrey epstein', 'prince andrew']
+
 ## Unpacking Google’s new “dangerous” Web-Environment-Integrity specification
  - [https://vivaldi.com/blog/googles-new-dangerous-web-environment-integrity-spec/](https://vivaldi.com/blog/googles-new-dangerous-web-environment-integrity-spec/)
  - date published: 2023-07-25T20:06:38+00:00
  - user: rumpel
  - tags: ['web environment integrity', 'google']
 
+## Billionaire Leon Black's $158M payment to Jeffrey Epstein sparks Senate investigation
+ - [https://thehill.com/homenews/senate/4118792-billionaire-leon-blacks-158m-payment-to-jeffrey-epstein-sparks-senate-investigation/](https://thehill.com/homenews/senate/4118792-billionaire-leon-blacks-158m-payment-to-jeffrey-epstein-sparks-senate-investigation/)
+ - date published: 2023-07-25T18:50:37+00:00
+ - user: rumpel
+ - tags: ['jeffrey epstein', 'leon black', 'billionaires', 'elite']
+
+## JPMorgan resisted ditching Jeffrey Epstein as client despite child sex charges because he brought wealthy clients to bank including Google co-founder Sergey Brin, lawsuit claims
+ - [https://www.dailymail.co.uk/news/article-12335541/JPMorgan-resisted-ditching-Jeffrey-Epstein-client-despite-child-sex-charges-brought-wealthy-clients-bank-including-Google-founder-Sergey-Brin-lawsuit-claims.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12335541/JPMorgan-resisted-ditching-Jeffrey-Epstein-client-despite-child-sex-charges-brought-wealthy-clients-bank-including-Google-founder-Sergey-Brin-lawsuit-claims.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - date published: 2023-07-25T13:16:30+00:00
+ - user: rumpel
+ - tags: ['jpmorgan', 'jeffrey epstein']
+
 ## Researchers find deliberate backdoor in police radio encryption algorithm
  - [https://arstechnica.com/?p=1956349](https://arstechnica.com/?p=1956349)
  - date published: 2023-07-25T13:05:32+00:00
  - user: rumpel
  - tags: ['encryption', 'backdoory', 'crypto wars']
+
+## JP Morgan faces fresh accusations over ties to Jeffrey Epstein
+ - [https://www.theguardian.com/us-news/2023/jul/25/jp-morgan-jeffrey-epstein-us-virgin-islands](https://www.theguardian.com/us-news/2023/jul/25/jp-morgan-jeffrey-epstein-us-virgin-islands)
+ - date published: 2023-07-25T12:48:10+00:00
+ - user: rumpel
+ - tags: ['jpmorgan', 'jeffrey epstein']
 
 ## Google Web Environment Integrity draft draws developer rage • The Register
  - [https://www.theregister.com/2023/07/25/google_web_environment_integrity/](https://www.theregister.com/2023/07/25/google_web_environment_integrity/)
@@ -189,6 +267,12 @@
  - date published: 2023-07-21T11:22:00+00:00
  - user: rumpel
  - tags: ['anonymity', 'england', 'crypto wars', 'apple', 'privacy']
+
+## Leon Black Agreed to Pay $62.5 Million to Settle Epstein-Related Claims - The New York Times
+ - [https://www.nytimes.com/2023/07/21/business/leon-black-settlement-jeffrey-epstein-claims.html](https://www.nytimes.com/2023/07/21/business/leon-black-settlement-jeffrey-epstein-claims.html)
+ - date published: 2023-07-21T09:49:39+00:00
+ - user: rumpel
+ - tags: ['jeffrey epstein', 'leon black']
 
 ## Google engineers want to make ad-blocking (near) impossible
  - [https://stackdiary.com/web-environment-integrity/](https://stackdiary.com/web-environment-integrity/)
@@ -357,6 +441,12 @@
  - date published: 2023-07-15T22:47:53+00:00
  - user: rumpel
  - tags: ['blog']
+
+## Court documents reveal Prince Andrew asked Jeffrey Epstein for help over $200million oil deal
+ - [https://www.dailymail.co.uk/news/article-12302777/Court-documents-reveal-Prince-Andrew-asked-Jeffrey-Epstein-help-200million-oil-deal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12302777/Court-documents-reveal-Prince-Andrew-asked-Jeffrey-Epstein-help-200million-oil-deal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - date published: 2023-07-15T21:15:37+00:00
+ - user: rumpel
+ - tags: ['jeffrey epstein', 'billionaires', 'elite', 'prince andrew']
 
 ## GitHub - nicbou/ursus: Static site generator for All About Berlin
  - [https://github.com/nicbou/ursus](https://github.com/nicbou/ursus)
@@ -646,6 +736,12 @@
  - user: rumpel
  - tags: ['government control', 'free speech', 'corporatocracy', 'technofeudalism']
 
+## Joe Biden launched ‘Orwellian Ministry of Truth’ to shut down Covid dissent, judge says
+ - [https://www.telegraph.co.uk/world-news/2023/07/04/joe-biden-white-house-accused-covid-vaccine-censorship/](https://www.telegraph.co.uk/world-news/2023/07/04/joe-biden-white-house-accused-covid-vaccine-censorship/)
+ - date published: 2023-07-05T20:36:33+00:00
+ - user: rumpel
+ - tags: ['censorship', 'covid', 'jego biden']
+
 ## A Key Ruling Against Social-Media Censorship
  - [https://www.wsj.com/articles/a-key-ruling-against-social-media-censorship-missouri-v-biden-government-covid-9b457364](https://www.wsj.com/articles/a-key-ruling-against-social-media-censorship-missouri-v-biden-government-covid-9b457364)
  - date published: 2023-07-05T16:21:00+00:00
@@ -692,7 +788,7 @@
  - [https://nypost.com/2023/07/04/kimbrady-carriker-ided-as-philadelphia-gunman-accused-of-killing-5/](https://nypost.com/2023/07/04/kimbrady-carriker-ided-as-philadelphia-gunman-accused-of-killing-5/)
  - date published: 2023-07-04T10:57:07+00:00
  - user: rumpel
- - tags: ['the left wing', 'black lives matters', 'inequality']
+ - tags: ['inequality', 'the left wing', 'black lives matter']
 
 ## Influencers Are Modern Day Cult Leaders - Content Capo
  - [https://www.youtube.com/watch?v=geZSuEYfebc](https://www.youtube.com/watch?v=geZSuEYfebc)
@@ -1562,7 +1658,7 @@
  - [https://www.telegraph.co.uk/news/2023/06/02/counter-disinformation-unit-government-covid-lockdown/](https://www.telegraph.co.uk/news/2023/06/02/counter-disinformation-unit-government-covid-lockdown/)
  - date published: 2023-06-02T19:51:07+00:00
  - user: rumpel
- - tags: ['england', 'covid', 'counter-disinformation unit']
+ - tags: ['covid', 'counter disinformation unit', 'england']
 
 ## Spain's Catholic Church Finds Church Personnel Abused Hundreds
  - [https://www.wsj.com/articles/spains-catholic-church-finds-church-personnel-abused-hundreds-3047140a](https://www.wsj.com/articles/spains-catholic-church-finds-church-personnel-abused-hundreds-3047140a)
@@ -1713,6 +1809,12 @@
  - date published: 2023-05-31T12:52:57+00:00
  - user: rumpel
  - tags: ['piracy', 'torrent', 'rarbg']
+
+## Jamie Dimon Says He Never Discussed Jeffrey Epstein's Accounts at JPMorgan; Jes Staley Says Dimon Did
+ - [https://www.wsj.com/articles/jamie-dimon-says-he-never-discussed-jeffrey-epsteins-accounts-at-jpmorgan-jes-staley-says-dimon-did-b11f0da5](https://www.wsj.com/articles/jamie-dimon-says-he-never-discussed-jeffrey-epsteins-accounts-at-jpmorgan-jes-staley-says-dimon-did-b11f0da5)
+ - date published: 2023-05-31T11:14:00+00:00
+ - user: rumpel
+ - tags: ['jpmorgan', 'jeffrey epstein', 'jes staley', 'jamie dimon']
 
 ## The Downfall of Mobile Gaming
  - [https://www.youtube.com/watch?v=ntz2c2z54dg](https://www.youtube.com/watch?v=ntz2c2z54dg)
@@ -1882,6 +1984,12 @@
  - user: rumpel
  - tags: ['go woke go broke', 'movies', 'disney']
 
+## Epstein Revelations Expose the Crumbling Rothschild Khazarian Mafia Pedo-Empire, Part 2 -
+ - [https://thegovernmentrag.com/articles/epstein-revelations-expose-the-crumbling-rothschild-khazarian-mafia-pedo-empire-part-2/](https://thegovernmentrag.com/articles/epstein-revelations-expose-the-crumbling-rothschild-khazarian-mafia-pedo-empire-part-2/)
+ - date published: 2023-05-24T12:47:51+00:00
+ - user: rumpel
+ - tags: ['jeffrey epstein', 'rothschild']
+
 ## Crypto Wars - Wikipedia
  - [https://en.wikipedia.org/wiki/Crypto_Wars](https://en.wikipedia.org/wiki/Crypto_Wars)
  - date published: 2023-05-24T12:27:19+00:00
@@ -2026,6 +2134,12 @@
  - user: rumpel
  - tags: ['malware', 'vulnerability', 'android']
 
+## The Latest Epstein Revelations Expose the Crumbling Rothschild Khazarian Mafia Pedo-Empire, Part 1 -
+ - [https://thegovernmentrag.com/articles/the-latest-epstein-revelations-expose-the-crumbling-rothschild-khazarian-mafia-pedo-empire-part-1/](https://thegovernmentrag.com/articles/the-latest-epstein-revelations-expose-the-crumbling-rothschild-khazarian-mafia-pedo-empire-part-1/)
+ - date published: 2023-05-21T12:47:03+00:00
+ - user: rumpel
+ - tags: ['jeffrey epstein', 'rothschild']
+
 ## THE UNVACCINATED | "Nobody is Safe!"
  - [https://www.youtube.com/watch?v=zI3yU5Z2adI](https://www.youtube.com/watch?v=zI3yU5Z2adI)
  - date published: 2023-05-21T00:00:00+00:00
@@ -2067,6 +2181,12 @@
  - date published: 2023-05-18T09:26:22+00:00
  - user: rumpel
  - tags: ['youtube', 'subscription', 'technofeudalism', 'ad business']
+
+## Założyciel serwisu gejowskiego Cruiser został skazany za przestępstwa seksualne wobec 13 dzieci
+ - [https://nyadagbladet-se.translate.goog/inrikes/homosajten-qruisers-grundare-doms-for-sexualbrott-mot-13-barn/?_x_tr_sl=auto&_x_tr_tl=pl&_x_tr_hl=en-GB](https://nyadagbladet-se.translate.goog/inrikes/homosajten-qruisers-grundare-doms-for-sexualbrott-mot-13-barn/?_x_tr_sl=auto&_x_tr_tl=pl&_x_tr_hl=en-GB)
+ - date published: 2023-05-18T07:07:01+00:00
+ - user: rumpel
+ - tags: ['paedophilia', 'lgbt']
 
 ## Session Transcripts | Dive deep into individual user sessions with fast, informative, and privacy-conscious transcripts. | Request Metrics
  - [https://requestmetrics.com/feature/session-transcripts/](https://requestmetrics.com/feature/session-transcripts/)
@@ -2523,6 +2643,12 @@
  - date published: 2023-05-03T13:36:24+00:00
  - user: rumpel
  - tags: ['dyi', 'framework']
+
+## LinkedIn's Reid Hoffman visited Jeffrey Epstein's private island
+ - [https://nypost.com/2023/05/03/linkedins-reid-hoffman-visited-jeffrey-epsteins-private-island/](https://nypost.com/2023/05/03/linkedins-reid-hoffman-visited-jeffrey-epsteins-private-island/)
+ - date published: 2023-05-03T09:54:53+00:00
+ - user: rumpel
+ - tags: ['jeffrey epstein', 'linkedin', 'reid hoffman']
 
 ## MSFT is forcing Outlook and Teams to open links in Edge and IT admins are angry
  - [https://www.theverge.com/2023/5/3/23709297/microsoft-edge-force-outlook-teams-web-links-open](https://www.theverge.com/2023/5/3/23709297/microsoft-edge-force-outlook-teams-web-links-open)

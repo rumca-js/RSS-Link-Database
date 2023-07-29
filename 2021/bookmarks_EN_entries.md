@@ -472,6 +472,12 @@
  - user: rumpel
  - tags: ['manufacturing consent', 'tim cook', 'apple', 'china']
 
+## FBI Used Saw to Open Jeffrey Epstein Safe With Hard Drives, Diamonds
+ - [https://www.insider.com/fbi-used-saw-open-jeffrey-epstein-safe-hard-drives-diamonds-2021-12](https://www.insider.com/fbi-used-saw-open-jeffrey-epstein-safe-hard-drives-diamonds-2021-12)
+ - date published: 2021-12-07T10:06:00+00:00
+ - user: rumpel
+ - tags: ['jeffrey epstein']
+
 ## Apple broke up with me 😢
  - [https://merecivilian.com/apple-broke-up-with-me/](https://merecivilian.com/apple-broke-up-with-me/)
  - date published: 2021-12-07T07:29:43.778873+00:00
@@ -1137,6 +1143,12 @@
  - date published: 2021-11-01T21:14:18+00:00
  - user: rumpel
  - tags: ['vaccine', 'covid']
+
+## Barclays chief Jes Staley steps down after Epstein investigation | Barclays | The Guardian
+ - [https://www.theguardian.com/business/2021/nov/01/barclays-jes-staley-steps-down-fca-investigation](https://www.theguardian.com/business/2021/nov/01/barclays-jes-staley-steps-down-fca-investigation)
+ - date published: 2021-11-01T11:20:45+00:00
+ - user: rumpel
+ - tags: ['jpmorgan', 'jeffrey epstein', 'jes staley']
 
 ## Wacom drawing tablets track the name of every application that you open | Robert Heaton
  - [https://robertheaton.com/2020/02/05/wacom-drawing-tablets-track-name-of-every-application-you-open/](https://robertheaton.com/2020/02/05/wacom-drawing-tablets-track-name-of-every-application-you-open/)

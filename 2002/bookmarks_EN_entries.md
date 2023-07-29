@@ -10,3 +10,9 @@
  - user: rumpel
  - tags: ['billionairs', 'jeffrey epstein', 'elites']
 
+## Was Jeffrey Epstein a Spy? – Rolling Stone
+ - [https://www.rollingstone.com/culture/culture-features/jeffrey-epstein-steven-hoffenberg-intelligence-agencies-spy-1197708/](https://www.rollingstone.com/culture/culture-features/jeffrey-epstein-steven-hoffenberg-intelligence-agencies-spy-1197708/)
+ - date published: 2002-07-15T10:17:42+00:00
+ - user: rumpel
+ - tags: ['robert maxwell', 'jeffrey epstein', 'espionage']
+

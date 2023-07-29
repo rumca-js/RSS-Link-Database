@@ -88,6 +88,12 @@
  - user: rumpel
  - tags: ['memento', 'nolan', 'movies']
 
+## Woman says Epstein forced her to have sex with former PM Barak | The Times of Israel
+ - [https://www.timesofisrael.com/woman-says-epstein-forced-her-to-have-sex-with-former-pm-barak/](https://www.timesofisrael.com/woman-says-epstein-forced-her-to-have-sex-with-former-pm-barak/)
+ - date published: 2015-07-28T10:57:56+00:00
+ - user: rumpel
+ - tags: ['israel', 'ehud barak', 'jeffrey epstein']
+
 ## Hackers Remotely Kill a Jeep on the Highway—With Me in It | WIRED
  - [https://www.wired.com/2015/07/hackers-remotely-kill-jeep-highway/](https://www.wired.com/2015/07/hackers-remotely-kill-jeep-highway/)
  - date published: 2015-07-21T15:43:34+00:00
@@ -212,7 +218,7 @@
  - [https://www.youtube.com/watch?v=I65LfGNo1A8](https://www.youtube.com/watch?v=I65LfGNo1A8)
  - date published: 2015-03-12T00:00:00+00:00
  - user: rumpel
- - tags: ['rothschilds']
+ - tags: ['rothschild']
 
 ## What’s with the 50/72 rule?
  - [https://preslav.me/2015/02/21/what-s-with-the-50-72-rule/](https://preslav.me/2015/02/21/what-s-with-the-50-72-rule/)

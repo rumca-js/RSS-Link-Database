@@ -4054,12 +4054,6 @@
  - user: None
  - tags: ['smart rings', 'smart']
 
-## Facebook and TikTok are approving ads with 'blatant' misinformation about voting in midterms, researchers say
- - [https://www.reddit.com/r/news/comments/y9zdtt/facebook_and_tiktok_are_approving_ads_with/](https://www.reddit.com/r/news/comments/y9zdtt/facebook_and_tiktok_are_approving_ads_with/)
- - date published: 2022-10-21T17:26:12+00:00
- - user: None
- - tags: ['misinformation', 'facebook', 'tiktok']
-
 ## Google sued for collecting biometric data without consent
  - [https://www.techradar.com/news/google-sued-for-collecting-biometric-data-without-consent/](https://www.techradar.com/news/google-sued-for-collecting-biometric-data-without-consent/)
  - date published: 2022-10-21T17:08:49+00:00
@@ -10701,6 +10695,12 @@
  - date published: 2022-02-09T00:10:46.476596+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Secret Sex Parties of the Mega-Rich | Informer
+ - [https://www.youtube.com/watch?v=AXyzDxxQRSA](https://www.youtube.com/watch?v=AXyzDxxQRSA)
+ - date published: 2022-02-09T00:00:00+00:00
+ - user: rumpel
+ - tags: ['secret societies', 'billionaires', 'elite']
 
 ## Canadian Prime Minister Justin Trudeau, mandates - TheBlaze
  - [https://www.theblaze.com/news/trudeau-canada-mandates-restrictions](https://www.theblaze.com/news/trudeau-canada-mandates-restrictions)
