@@ -11152,6 +11152,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Raspberry Pi IRC Server: Setup your own Chat Network - Pi My Life Up
+ - [https://pimylifeup.com/raspberry-pi-irc-server/](https://pimylifeup.com/raspberry-pi-irc-server/)
+ - date published: 2022-01-20T11:37:30+00:00
+ - user: rumpel
+ - tags: ['raspberry pi', 'selfhost']
+
 ## How Facebook took over the internet in Africa – and changed everything | Facebook | The Guardian
  - [https://www.theguardian.com/technology/2022/jan/20/facebook-second-life-the-unstoppable-rise-of-the-tech-company-in-africa](https://www.theguardian.com/technology/2022/jan/20/facebook-second-life-the-unstoppable-rise-of-the-tech-company-in-africa)
  - date published: 2022-01-20T10:39:04+00:00

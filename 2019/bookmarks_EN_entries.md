@@ -340,6 +340,12 @@
  - user: None
  - tags: ['tesla', 'privacy']
 
+## 17 Reasons NOT To Be A Manager – charity.wtf
+ - [https://charity.wtf/2019/09/08/reasons-not-to-be-a-manager/](https://charity.wtf/2019/09/08/reasons-not-to-be-a-manager/)
+ - date published: 2019-09-08T19:38:18+00:00
+ - user: rumpel
+ - tags: ['management']
+
 ## LGBTQ Comedians Respond to Dave Chappelle’s ‘Sticks and Stones’
  - [https://www.thewrap.com/lgbtq-comedians-respond-to-dave-chappelles-sticks-and-stones/](https://www.thewrap.com/lgbtq-comedians-respond-to-dave-chappelles-sticks-and-stones/)
  - date published: 2019-09-05T20:03:27+00:00

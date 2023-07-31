@@ -3694,6 +3694,12 @@
  - user: None
  - tags: ['vaccine', 'covid']
 
+## Vaccines: Reasons for Concern - by Alex Berenson
+ - [https://alexberenson.substack.com/p/vaccines-reasons-for-concern-569](https://alexberenson.substack.com/p/vaccines-reasons-for-concern-569)
+ - date published: 2021-06-24T09:22:55+00:00
+ - user: rumpel
+ - tags: ['covid', 'vaccine']
+
 ## Over 600 bodies found at church-run Indigenous school in Canada, groups report  - Portland Press Herald
  - [https://www.pressherald.com/2021/06/24/over-600-bodies-found-at-church-run-indigenous-school-in-canada-groups-report/](https://www.pressherald.com/2021/06/24/over-600-bodies-found-at-church-run-indigenous-school-in-canada-groups-report/)
  - date published: 2021-06-24T08:57:52+00:00

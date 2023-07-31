@@ -1,8 +1,56 @@
+## Meta Forced to Reveal Anonymous Facebook User's Identity Over Defamatory Posts
+ - [https://stackdiary.com/meta-forced-to-reveal-anonymous-facebook-users-identity/](https://stackdiary.com/meta-forced-to-reveal-anonymous-facebook-users-identity/)
+ - date published: 2023-07-31T13:55:11+00:00
+ - user: rumpel
+ - tags: ['privacy', 'moderation', 'meta', 'anonymity']
+
+## Bystroushaak's blog
+ - [https://blog.rfox.eu/](https://blog.rfox.eu/)
+ - date published: 2023-07-29T15:15:11+00:00
+ - user: rumpel
+ - tags: ['blog']
+
+## Make the Web Great Again
+ - [https://koshka.love/mwwwga.html](https://koshka.love/mwwwga.html)
+ - date published: 2023-07-29T11:39:55+00:00
+ - user: rumpel
+ - tags: ['web10', 'blog', 'internet']
+
+## IRC Is the Only Viable Chat Protocol
+ - [https://koshka.love/babel/irc-forever.html](https://koshka.love/babel/irc-forever.html)
+ - date published: 2023-07-29T10:12:18+00:00
+ - user: rumpel
+ - tags: ['irc', 'selfhost']
+
+## Jeffrey Epstein - Wikipedia
+ - [https://en.m.wikipedia.org/wiki/Jeffrey_Epstein](https://en.m.wikipedia.org/wiki/Jeffrey_Epstein)
+ - date published: 2023-07-29T07:18:18+00:00
+ - user: rumpel
+ - tags: ['jeffrey epstein']
+
+## Spy Agencies Were Involved in Controversial UK Counter Disinformation Unit Since Its Inception
+ - [https://reclaimthenet.org/uk-counter-disinformation-unit-spy-agencies-inception](https://reclaimthenet.org/uk-counter-disinformation-unit-spy-agencies-inception)
+ - date published: 2023-07-28T22:13:06+00:00
+ - user: rumpel
+ - tags: ['big brother', 'espionage', 'miniatury of truty', 'misinformation', 'disinformation unit']
+
+## Ring is having a major outage
+ - [https://status.ring.com](https://status.ring.com)
+ - date published: 2023-07-28T22:05:32+00:00
+ - user: rumpel
+ - tags: ['ring', 'technofeudalism']
+
 ## The U.K. Government Is Close to Eroding Encryption Worldwide
  - [https://www.eff.org/deeplinks/2023/07/uk-government-very-close-eroding-encryption-worldwide](https://www.eff.org/deeplinks/2023/07/uk-government-very-close-eroding-encryption-worldwide)
  - date published: 2023-07-28T21:01:41+00:00
  - user: rumpel
  - tags: ['online safety bill', 'privacy', 'surveillance', 'crypto wars']
+
+## Government vs. Free Speech
+ - [https://www.wsj.com/articles/government-vs-free-speech-deda9dce](https://www.wsj.com/articles/government-vs-free-speech-deda9dce)
+ - date published: 2023-07-28T19:16:00+00:00
+ - user: rumpel
+ - tags: ['covid']
 
 ## Carrier ablaze off Dutch coast carrying almost 500 electric cars | Reuters
  - [https://www.reuters.com/world/europe/carrier-ablaze-off-dutch-coast-carrying-almost-500-electric-cars-2023-07-28/](https://www.reuters.com/world/europe/carrier-ablaze-off-dutch-coast-carrying-almost-500-electric-cars-2023-07-28/)
@@ -27,6 +75,12 @@
  - date published: 2023-07-28T11:11:04+00:00
  - user: rumpel
  - tags: ['jeffrey epstein', 'virginia giuffre']
+
+## mRNA Covid jabs have caused silent heart damage to tens of millions of people, a shocking new study suggests
+ - [https://alexberenson.substack.com/p/mrna-covid-jabs-have-caused-silent](https://alexberenson.substack.com/p/mrna-covid-jabs-have-caused-silent)
+ - date published: 2023-07-28T09:22:23+00:00
+ - user: rumpel
+ - tags: ['covid', 'vaccine', 'moderna']
 
 ## How to Find Scientific Literature
  - [https://www.emilkirkegaard.com/p/how-to-find-scientific-literature](https://www.emilkirkegaard.com/p/how-to-find-scientific-literature)

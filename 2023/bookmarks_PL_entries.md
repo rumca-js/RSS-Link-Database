@@ -1,3 +1,15 @@
+## Wojna o krowę – Wikipedia, wolna encyklopedia
+ - [https://pl.m.wikipedia.org/wiki/Wojna_o_krow%C4%99](https://pl.m.wikipedia.org/wiki/Wojna_o_krow%C4%99)
+ - date published: 2023-07-30T19:49:15+00:00
+ - user: rumpel
+ - tags: ['history']
+
+## Włochy zawieszają świadczenie dla 170 tys. obywateli. Prawie pięć lat nie pracowali, ale to koniec | Biznes na Next.Gazeta.pl
+ - [https://next.gazeta.pl/next/7,151003,30024617,wlochy-zawieszaja-swiadczenie-dla-170-tys-obywateli-prawie.html](https://next.gazeta.pl/next/7,151003,30024617,wlochy-zawieszaja-swiadczenie-dla-170-tys-obywateli-prawie.html)
+ - date published: 2023-07-30T19:16:09+00:00
+ - user: rumpel
+ - tags: ['guaranteed income', 'the left wing']
+
 ## Kto zabija w Ameryce albo 13/64 – HOPLOFOBIA.INFO
  - [https://www.hoplofobia.info/kto-zabija-w-ameryce-albo-13-64/](https://www.hoplofobia.info/kto-zabija-w-ameryce-albo-13-64/)
  - date published: 2023-07-25T09:42:38+00:00
