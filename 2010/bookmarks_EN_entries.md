@@ -46,6 +46,12 @@
  - user: rumpel
  - tags: ['funny']
 
+## Gaddafi wants EU cash to stop African migrants - BBC News
+ - [https://www.bbc.com/news/world-europe-11139345](https://www.bbc.com/news/world-europe-11139345)
+ - date published: 2010-08-31T12:33:07+00:00
+ - user: rumpel
+ - tags: ['muammar gaddafi', 'immigration']
+
 ## Best of Chiptune [8 bit music, retro visuals]
  - [https://www.youtube.com/watch?v=rf_p3-8fTo0](https://www.youtube.com/watch?v=rf_p3-8fTo0)
  - date published: 2010-08-28T00:00:00+00:00

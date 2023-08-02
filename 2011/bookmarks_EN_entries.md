@@ -34,6 +34,12 @@
  - user: rumpel
  - tags: ['surveillance', 'tracking', 'facebook', 'privacy']
 
+## Gaddafi wanted to create immigrant "inferno": Italy | Reuters
+ - [https://www.reuters.com/article/us-italy-libya-lampedusa-idUSTRE77P23U20110826](https://www.reuters.com/article/us-italy-libya-lampedusa-idUSTRE77P23U20110826)
+ - date published: 2011-08-26T12:40:01+00:00
+ - user: rumpel
+ - tags: ['muammar gaddafi', 'immigration']
+
 ## Christian Crusader | Southern Poverty Law Center
  - [https://www.splcenter.org/fighting-hate/intelligence-report/2015/christian-crusader](https://www.splcenter.org/fighting-hate/intelligence-report/2015/christian-crusader)
  - date published: 2011-08-24T07:52:21+00:00

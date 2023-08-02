@@ -1,3 +1,9 @@
+## No Doubt - It's My Life (Edited)
+ - [https://www.youtube.com/watch?v=ubvV498pyIM](https://www.youtube.com/watch?v=ubvV498pyIM)
+ - date published: 2009-10-06T00:00:00+00:00
+ - user: rumpel
+ - tags: ['random']
+
 ## Pfizer fined $2.3 billion for illegal marketing in off-label drug case - ABC News
  - [https://abcnews.go.com/Business/pfizer-fined-23-billion-illegal-marketing-off-label/story?id=8477617](https://abcnews.go.com/Business/pfizer-fined-23-billion-illegal-marketing-off-label/story?id=8477617)
  - date published: 2009-09-02T20:27:25+00:00

@@ -1,8 +1,20 @@
+## TikTok Bans Rockstar Ronnie Radke for Unfiltered Commentary on Transgender Issues
+ - [https://reclaimthenet.org/tiktok-bans-rockstar-ronnie-radke](https://reclaimthenet.org/tiktok-bans-rockstar-ronnie-radke)
+ - date published: 2023-07-31T23:41:07+00:00
+ - user: rumpel
+ - tags: ['science is dead', 'censorship']
+
 ## Meta Forced to Reveal Anonymous Facebook User's Identity Over Defamatory Posts
  - [https://stackdiary.com/meta-forced-to-reveal-anonymous-facebook-users-identity/](https://stackdiary.com/meta-forced-to-reveal-anonymous-facebook-users-identity/)
  - date published: 2023-07-31T13:55:11+00:00
  - user: rumpel
  - tags: ['privacy', 'moderation', 'meta', 'anonymity']
+
+## Home Office secretly backs facial recognition technology to curb shoplifting
+ - [https://www.theguardian.com/technology/2023/jul/29/home-office-secretly-backs-facial-recognition-technology-to-curb-shoplifting](https://www.theguardian.com/technology/2023/jul/29/home-office-secretly-backs-facial-recognition-technology-to-curb-shoplifting)
+ - date published: 2023-07-29T16:11:38+00:00
+ - user: rumpel
+ - tags: ['facial recognition', 'biometrics']
 
 ## Bystroushaak's blog
  - [https://blog.rfox.eu/](https://blog.rfox.eu/)
