@@ -124,6 +124,12 @@
  - user: None
  - tags: ['privacy', 'tracking']
 
+## The fear of being seen as racist - BBC News
+ - [https://www.bbc.com/news/magazine-28967427](https://www.bbc.com/news/magazine-28967427)
+ - date published: 2014-08-30T11:21:17+00:00
+ - user: rumpel
+ - tags: ['immigration', 'racism', 'police']
+
 ## Slavoj Žižek on "They Live" (The Pervert's Guide to Ideology)
  - [https://www.youtube.com/watch?v=TVwKjGbz60k](https://www.youtube.com/watch?v=TVwKjGbz60k)
  - date published: 2014-08-05T20:28:02+00:00

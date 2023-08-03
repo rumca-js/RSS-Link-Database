@@ -304,12 +304,6 @@
  - user: rumpel
  - tags: ['the left wing', 'pronouns', 'newspeak']
 
-## Deutsche Polizeiliche Kriminalstatistik 2017: Straftaten gegen die sexuelle Selbstbestimmung — Steemit
- - [https://steemit.com/deutsch/@derhorus/deutsche-polizeiliche-kriminalstatistik-2017-straftaten-gegen-die-sexuelle-selbstbestimmung](https://steemit.com/deutsch/@derhorus/deutsche-polizeiliche-kriminalstatistik-2017-straftaten-gegen-die-sexuelle-selbstbestimmung)
- - date published: 2018-06-22T14:05:07+00:00
- - user: rumpel
- - tags: ['germany', 'immigration']
-
 ## How the Gorgon gas plant could wipe out a year's worth of Australia's solar emissions savings - ABC News
  - [https://www.abc.net.au/news/2018-06-21/gorgon-gas-plant-wiping-out-a-year-of-solar-emission-savings/9890386](https://www.abc.net.au/news/2018-06-21/gorgon-gas-plant-wiping-out-a-year-of-solar-emission-savings/9890386)
  - date published: 2018-06-20T13:43:41+00:00
@@ -345,6 +339,12 @@
  - date published: 2018-05-25T14:47:48+00:00
  - user: rumpel
  - tags: ['censorship', 'moderation', 'facebook', 'pepe']
+
+## I'm An Englishman. Very Powerful  FREE TOMMY ROBINSON
+ - [https://www.youtube.com/watch?v=6tL5exJg4ms](https://www.youtube.com/watch?v=6tL5exJg4ms)
+ - date published: 2018-05-25T00:00:00+00:00
+ - user: rumpel
+ - tags: ['immigration']
 
 ## Trump Claims FBI Spied on His Campaign. Here Are the Facts | Time
  - [https://time.com/5288607/donald-trump-fbi-spygate/](https://time.com/5288607/donald-trump-fbi-spygate/)
@@ -561,6 +561,12 @@
  - date published: 2018-03-13T11:23:25+00:00
  - user: None
  - tags: ['hate speech', 'myanmar', 'facebook', 'privacy']
+
+## British Police Failed to Stop Child-Sex Ring over Racism Fears | National Review
+ - [https://www.nationalreview.com/2018/03/british-police-failed-stop-child-sex-ring-over-racism-fears/](https://www.nationalreview.com/2018/03/british-police-failed-stop-child-sex-ring-over-racism-fears/)
+ - date published: 2018-03-11T11:25:48+00:00
+ - user: rumpel
+ - tags: ['immigration', 'racism']
 
 ## Elon Musk's family once owned an emerald mine in Zambia — here's the fascinating story of how they came to own it
  - [https://www.businessinsider.co.za/how-elon-musks-family-came-to-own-an-emerald-mine-2018-2](https://www.businessinsider.co.za/how-elon-musks-family-came-to-own-an-emerald-mine-2018-2)

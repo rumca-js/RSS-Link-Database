@@ -1,3 +1,9 @@
+## "Przemoc osiągnęła swój szczyt". Belgijski policjant o przerażającej brutalności przestępców w Brukseli | Polska Agencja Prasowa SA
+ - [https://www.pap.pl/aktualnosci/news%2C1603692%2Cprzemoc-osiagnela-swoj-szczyt-belgijski-policjant-o-przerazajacej](https://www.pap.pl/aktualnosci/news%2C1603692%2Cprzemoc-osiagnela-swoj-szczyt-belgijski-policjant-o-przerazajacej)
+ - date published: 2023-08-01T10:32:06+00:00
+ - user: rumpel
+ - tags: ['immigration']
+
 ## Wojna o krowę – Wikipedia, wolna encyklopedia
  - [https://pl.m.wikipedia.org/wiki/Wojna_o_krow%C4%99](https://pl.m.wikipedia.org/wiki/Wojna_o_krow%C4%99)
  - date published: 2023-07-30T19:49:15+00:00

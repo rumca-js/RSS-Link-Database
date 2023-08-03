@@ -1,3 +1,51 @@
+## Companies with good ESG scores pollute as much as low-rated rivals
+ - [https://www.ft.com/content/b9582d62-cc6f-4b76-b0f9-5b37cf15dce4](https://www.ft.com/content/b9582d62-cc6f-4b76-b0f9-5b37cf15dce4)
+ - date published: 2023-08-02T17:16:31+00:00
+ - user: rumpel
+ - tags: ['esg', 'climate change']
+
+## Pluralistic: Forcing your computer to rat you out (02 August 2023)
+ - [https://pluralistic.net/2023/08/02/self-incrimination/](https://pluralistic.net/2023/08/02/self-incrimination/)
+ - date published: 2023-08-02T16:14:55+00:00
+ - user: rumpel
+ - tags: ['privacy', 'web environment integrity']
+
+## How Normiefication Causes Everything to Go to the Dogs
+ - [https://koshka.love/babel/normiefication.html](https://koshka.love/babel/normiefication.html)
+ - date published: 2023-08-02T13:08:54+00:00
+ - user: rumpel
+ - tags: ['enshittification', 'web20', 'internet']
+
+## South America is living one of the climate extreme events
+ - [https://twitter.com/extremetemps/status/1686485331539820545](https://twitter.com/extremetemps/status/1686485331539820545)
+ - date published: 2023-08-02T10:43:28+00:00
+ - user: rumpel
+ - tags: ['global warming', 'climate change']
+
+## GitHub Pages | Websites for you and your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are live.
+ - [https://pages.github.com/](https://pages.github.com/)
+ - date published: 2023-08-02T09:06:06+00:00
+ - user: rumpel
+ - tags: ['github', 'selfhost']
+
+## Stopping at 90%
+ - [https://austinhenley.com/blog/90percent.html](https://austinhenley.com/blog/90percent.html)
+ - date published: 2023-08-02T06:16:57+00:00
+ - user: rumpel
+ - tags: ['selfhost']
+
+## I'm Betting on HTML
+ - [https://catskull.net/html.html](https://catskull.net/html.html)
+ - date published: 2023-08-02T03:31:57+00:00
+ - user: rumpel
+ - tags: ['selfhost', 'web10']
+
+## Transform Your Android Device into a Linux Desktop
+ - [https://mrs-t.medium.com/transform-your-android-device-into-a-linux-desktop-110a3d084ac6](https://mrs-t.medium.com/transform-your-android-device-into-a-linux-desktop-110a3d084ac6)
+ - date published: 2023-08-01T21:24:08+00:00
+ - user: rumpel
+ - tags: ['linux', 'android']
+
 ## TikTok Bans Rockstar Ronnie Radke for Unfiltered Commentary on Transgender Issues
  - [https://reclaimthenet.org/tiktok-bans-rockstar-ronnie-radke](https://reclaimthenet.org/tiktok-bans-rockstar-ronnie-radke)
  - date published: 2023-07-31T23:41:07+00:00
@@ -296,7 +344,7 @@
  - [https://plane.so](https://plane.so)
  - date published: 2023-07-22T08:21:40+00:00
  - user: rumpel
- - tags: ['selfhost']
+ - tags: ['selfhost', 'jira']
 
 ## Climate records tumble, leaving Earth in uncharted territory – scientists
  - [https://www.bbc.co.uk/news/science-environment-66229065](https://www.bbc.co.uk/news/science-environment-66229065)
@@ -825,6 +873,12 @@
  - date published: 2023-07-05T10:52:02+00:00
  - user: rumpel
  - tags: ['electric vehicles', 'climate change', 'global warming']
+
+## Ready, Set, Launch: Creating a Static Site With GitHub Pages
+ - [https://kinsta.com/blog/github-pages/](https://kinsta.com/blog/github-pages/)
+ - date published: 2023-07-05T09:04:45+00:00
+ - user: rumpel
+ - tags: ['github', 'selfhost']
 
 ## Monday Was the Hottest Day Ever as Global Temperatures Rise
  - [https://www.bloomberg.com/news/articles/2023-07-04/world-records-hottest-day-ever-on-july-3](https://www.bloomberg.com/news/articles/2023-07-04/world-records-hottest-day-ever-on-july-3)
@@ -1539,6 +1593,12 @@
  - date published: 2023-06-07T12:22:52+00:00
  - user: rumpel
  - tags: ['technofeudalism', 'bytedance', 'china']
+
+## Lululemon stands by decision to fire employees who intervened in robbery | CNN Business
+ - [https://edition.cnn.com/2023/06/06/business/lululemon-fires-employees-stop-robbery/index.html](https://edition.cnn.com/2023/06/06/business/lululemon-fires-employees-stop-robbery/index.html)
+ - date published: 2023-06-07T11:04:34+00:00
+ - user: rumpel
+ - tags: ['racism']
 
 ## List of conspiracy theories - Wikipedia
  - [https://en.wikipedia.org/wiki/List_of_conspiracy_theories](https://en.wikipedia.org/wiki/List_of_conspiracy_theories)
