@@ -406,6 +406,12 @@
  - user: None
  - tags: ['all time', 'blackrock']
 
+## Kate Is The Real Villain Of Sicario
+ - [https://www.youtube.com/watch?v=Omkf9s80gIQ](https://www.youtube.com/watch?v=Omkf9s80gIQ)
+ - date published: 2018-05-08T00:00:00+00:00
+ - user: rumpel
+ - tags: ['movies']
+
 ## The Facebook and Cambridge Analytica scandal, explained with a simple diagram
  - [https://www.vox.com/policy-and-politics/2018/3/23/17151916/facebook-cambridge-analytica-trump-diagram](https://www.vox.com/policy-and-politics/2018/3/23/17151916/facebook-cambridge-analytica-trump-diagram)
  - date published: 2018-05-02T11:10:30+00:00

@@ -1,3 +1,9 @@
+## Arizona driver says he was 'trapped' in hot Tesla after battery died
+ - [https://www.abc15.com/news/local-news/investigations/arizona-driver-says-he-was-trapped-in-hot-tesla-after-battery-died](https://www.abc15.com/news/local-news/investigations/arizona-driver-says-he-was-trapped-in-hot-tesla-after-battery-died)
+ - date published: 2023-08-02T21:52:31+00:00
+ - user: rumpel
+ - tags: ['electric vehicles', 'technofeudalism']
+
 ## Companies with good ESG scores pollute as much as low-rated rivals
  - [https://www.ft.com/content/b9582d62-cc6f-4b76-b0f9-5b37cf15dce4](https://www.ft.com/content/b9582d62-cc6f-4b76-b0f9-5b37cf15dce4)
  - date published: 2023-08-02T17:16:31+00:00
@@ -8,7 +14,7 @@
  - [https://pluralistic.net/2023/08/02/self-incrimination/](https://pluralistic.net/2023/08/02/self-incrimination/)
  - date published: 2023-08-02T16:14:55+00:00
  - user: rumpel
- - tags: ['privacy', 'web environment integrity']
+ - tags: ['web environment integrity', 'technofeudalism', 'privacy']
 
 ## How Normiefication Causes Everything to Go to the Dogs
  - [https://koshka.love/babel/normiefication.html](https://koshka.love/babel/normiefication.html)
@@ -46,6 +52,12 @@
  - user: rumpel
  - tags: ['linux', 'android']
 
+## Putin Outlaws Anonymity: Identity Verification For Online Services, VPN Bypass Advice a Crime * TorrentFreak
+ - [https://torrentfreak.com/putin-outlaws-anonymity-user-id-verification-for-online-services-vpn-bypass-advice-a-crime-230801/](https://torrentfreak.com/putin-outlaws-anonymity-user-id-verification-for-online-services-vpn-bypass-advice-a-crime-230801/)
+ - date published: 2023-08-01T13:06:28+00:00
+ - user: rumpel
+ - tags: ['anonymity', 'digital identity', 'privacy']
+
 ## TikTok Bans Rockstar Ronnie Radke for Unfiltered Commentary on Transgender Issues
  - [https://reclaimthenet.org/tiktok-bans-rockstar-ronnie-radke](https://reclaimthenet.org/tiktok-bans-rockstar-ronnie-radke)
  - date published: 2023-07-31T23:41:07+00:00
@@ -75,6 +87,12 @@
  - date published: 2023-07-29T11:39:55+00:00
  - user: rumpel
  - tags: ['web10', 'blog', 'internet']
+
+## Instead of obtaining a warrant, the NSA would like to keep buying your data
+ - [https://www.wired.com/story/nsa-ndaa-lobbying-privacy-loophole/](https://www.wired.com/story/nsa-ndaa-lobbying-privacy-loophole/)
+ - date published: 2023-07-29T11:38:43+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'manufacturing consent', 'espionage']
 
 ## IRC Is the Only Viable Chat Protocol
  - [https://koshka.love/babel/irc-forever.html](https://koshka.love/babel/irc-forever.html)
@@ -111,6 +129,12 @@
  - date published: 2023-07-28T19:16:00+00:00
  - user: rumpel
  - tags: ['covid']
+
+## Quick!
+ - [https://www.youtube.com/watch?v=OEtV3QlPUaU](https://www.youtube.com/watch?v=OEtV3QlPUaU)
+ - date published: 2023-07-28T18:53:33+00:00
+ - user: rumpel
+ - tags: ['fearmongering']
 
 ## Carrier ablaze off Dutch coast carrying almost 500 electric cars | Reuters
  - [https://www.reuters.com/world/europe/carrier-ablaze-off-dutch-coast-carrying-almost-500-electric-cars-2023-07-28/](https://www.reuters.com/world/europe/carrier-ablaze-off-dutch-coast-carrying-almost-500-electric-cars-2023-07-28/)

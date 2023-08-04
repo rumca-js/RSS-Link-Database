@@ -2332,12 +2332,6 @@
  - user: None
  - tags: ['black lives matter', 'propaganda', 'blm', 'ideology']
 
-## Austria to ban COVID vaccine opponents from wearing symbols that reference Holocaust
- - [https://www.foxnews.com/world/austria-ban-covid-vaccine-opponents-wearing-symbols-reference-holocaust](https://www.foxnews.com/world/austria-ban-covid-vaccine-opponents-wearing-symbols-reference-holocaust)
- - date published: 2022-11-15T19:35:28+00:00
- - user: None
- - tags: ['covid', 'vaccine', 'austria']
-
 ## Disney+ demands users’ age and gender so it can “deliver targeted advertising”
  - [https://reclaimthenet.org/disney-plus-demands-users-age-and-gender/](https://reclaimthenet.org/disney-plus-demands-users-age-and-gender/)
  - date published: 2022-11-15T16:28:34+00:00
@@ -7101,12 +7095,6 @@
  - date published: 2022-08-21T21:01:55+00:00
  - user: None
  - tags: ['technofeudalism', 'google']
-
-## Forget DEAD Internet: WEF & Google are DELETING It
- - [https://www.youtube.com/watch?v=aWhzHECM9is](https://www.youtube.com/watch?v=aWhzHECM9is)
- - date published: 2022-08-20T18:07:46+00:00
- - user: None
- - tags: ['wef', 'world economic forum', 'google', 'dead internet']
 
 ## It wasn't for nothing - Grasping gexps
  - [https://gexp.no/it-wasnt-for-nothing.html](https://gexp.no/it-wasnt-for-nothing.html)

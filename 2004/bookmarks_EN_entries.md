@@ -4,6 +4,12 @@
  - user: rumpel
  - tags: ['flu', 'covid', 'vaccine', 'anthony fauci']
 
+## George Soros: The 'God' Who Carries Around Some Dangerous Demons - Los Angeles Times
+ - [https://www.latimes.com/archives/la-xpm-2004-oct-04-oe-ehrenfeld4-story.html](https://www.latimes.com/archives/la-xpm-2004-oct-04-oe-ehrenfeld4-story.html)
+ - date published: 2004-10-04T17:43:52+00:00
+ - user: rumpel
+ - tags: ['elite', 'george soros', 'billionaires']
+
 ## New Internet Site Turns Critical Eyes and Ears to the Right
  - [https://www.nytimes.com/2004/05/03/us/new-internet-site-turns-critical-eyes-and-ears-to-the-right.html](https://www.nytimes.com/2004/05/03/us/new-internet-site-turns-critical-eyes-and-ears-to-the-right.html)
  - date published: 2004-05-03T20:05:49+00:00

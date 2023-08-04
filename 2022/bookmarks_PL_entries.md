@@ -124,6 +124,12 @@
  - user: None
  - tags: ['christianophobia', 'england']
 
+## Ludziom trzeba odebrać wolność w internecie - prof. Andrzej Zybertowicz
+ - [https://www.youtube.com/watch?v=PK6H0qI7fCY](https://www.youtube.com/watch?v=PK6H0qI7fCY)
+ - date published: 2022-12-11T00:00:00+00:00
+ - user: rumpel
+ - tags: ['anonymity', 'digital identity', 'privacy']
+
 ## Cynizm i hipokryzja. Wielkie korporacje zarabiają krocie i udają, że to jest w naszym interesie
  - [https://forsal.pl/biznes/ekologia/artykuly/8606380,cynizm-i-hipokryzja-wielkie-korporacje-zarabiaja-krocie-i-udaja-ze-to-jest-w-naszym-interesie.html](https://forsal.pl/biznes/ekologia/artykuly/8606380,cynizm-i-hipokryzja-wielkie-korporacje-zarabiaja-krocie-i-udaja-ze-to-jest-w-naszym-interesie.html)
  - date published: 2022-12-09T22:42:57+00:00
