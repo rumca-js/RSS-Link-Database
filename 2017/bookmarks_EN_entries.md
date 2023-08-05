@@ -32,7 +32,7 @@
  - [https://www.gsb.stanford.edu/insights/chamath-palihapitiya-why-failing-fast-fails](https://www.gsb.stanford.edu/insights/chamath-palihapitiya-why-failing-fast-fails)
  - date published: 2017-12-12T12:02:13+00:00
  - user: rumpel
- - tags: ['billionaires', 'elite', 'rothschild']
+ - tags: ['chamath palihapitiya', 'billionaires', 'plutocracy', 'rothschild', 'elite']
 
 ## You Give Up a Lot of Privacy Just Opening Emails. Here's How to Stop It | WIRED
  - [https://www.wired.com/story/how-email-open-tracking-quietly-took-over-the-web/](https://www.wired.com/story/how-email-open-tracking-quietly-took-over-the-web/)
@@ -189,6 +189,12 @@
  - date published: 2017-09-29T12:11:46+00:00
  - user: rumpel
  - tags: ['hate speech', 'the right wing', 'immigration', 'propaganda']
+
+## Apple: iPhones Are Too 'Complex' to Let You Fix Them
+ - [https://www.vice.com/en/article/xwgg8z/apple-iphones-are-too-complex-to-allow-unauthorized-repair](https://www.vice.com/en/article/xwgg8z/apple-iphones-are-too-complex-to-allow-unauthorized-repair)
+ - date published: 2017-09-22T17:12:46+00:00
+ - user: rumpel
+ - tags: ['apple', 'hypocrisy', 'iphone']
 
 ## Is Reality Real? The Simulation Argument
  - [https://www.youtube.com/watch?v=tlTKTTt47WE](https://www.youtube.com/watch?v=tlTKTTt47WE)
@@ -554,7 +560,7 @@
  - [https://www.dallasnews.com/business/personal-finance/2017/02/13/no-one-went-to-prison-after-2008-financial-crisis-and-the-fault-lies-with-us/](https://www.dallasnews.com/business/personal-finance/2017/02/13/no-one-went-to-prison-after-2008-financial-crisis-and-the-fault-lies-with-us/)
  - date published: 2017-02-13T09:46:55+00:00
  - user: None
- - tags: ['politics', 'manufacturing consent', 'corruption', 'billionaires']
+ - tags: ['billionaires', 'corruption', 'manufacturing consent', 'politics', 'plutocracy']
 
 ## Media Matters Says It Is Secretly Working with Facebook to Fight ‘Fake News’
  - [https://freebeacon.com/politics/media-matters-says-secretly-working-facebook-fight-fake-news/](https://freebeacon.com/politics/media-matters-says-secretly-working-facebook-fight-fake-news/)

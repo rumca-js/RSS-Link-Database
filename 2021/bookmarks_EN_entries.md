@@ -286,6 +286,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## The Energy Vault is a Dumb Idea, Here's Why
+ - [https://www.youtube.com/watch?v=iGGOjD_OtAM](https://www.youtube.com/watch?v=iGGOjD_OtAM)
+ - date published: 2021-12-20T00:00:00+00:00
+ - user: rumpel
+ - tags: ['climate change']
+
 ## THE METAVERSE: A Guide to the Future of Capitalism
  - [https://www.youtube.com/watch?v=TM00M-dRMBk](https://www.youtube.com/watch?v=TM00M-dRMBk)
  - date published: 2021-12-19T21:36:45+00:00
@@ -824,7 +830,7 @@
  - [https://hls.harvard.edu/today/the-algorithm-has-primacy-over-media-over-each-of-us-and-it-controls-what-we-do/](https://hls.harvard.edu/today/the-algorithm-has-primacy-over-media-over-each-of-us-and-it-controls-what-we-do/)
  - date published: 2021-11-18T20:12:44+00:00
  - user: rumpel
- - tags: ['big tech', 'elites', 'algorithm', 'media']
+ - tags: ['media', 'algorithm', 'search engines', 'big tech', 'elites']
 
 ## Understanding why our build got 15x slower with Webpack 5 - Tines Engineering
  - [https://engineering.tines.com/blog/understanding-why-our-build-got-15x-slower-with-webpack](https://engineering.tines.com/blog/understanding-why-our-build-got-15x-slower-with-webpack)
@@ -4228,6 +4234,12 @@
  - user: rumpel
  - tags: ['pfizer', 'covid', 'big pharma', 'contract']
 
+## There's about a 150 people who run the world | Chamath Palihapitiya
+ - [https://www.youtube.com/watch?v=VKu3Te_jUn4](https://www.youtube.com/watch?v=VKu3Te_jUn4)
+ - date published: 2021-04-21T00:00:00+00:00
+ - user: rumpel
+ - tags: ['billionaires', 'elite', 'chamath palihapitiya', 'plutocracy']
+
 ## TERREG: Controversial EU anti-terror Internet regulation TERREG about to be adopted
  - [https://www.patrick-breyer.de/en/controversial-eu-anti-terror-internet-regulation-terreg-about-to-be-adopted/](https://www.patrick-breyer.de/en/controversial-eu-anti-terror-internet-regulation-terreg-about-to-be-adopted/)
  - date published: 2021-04-20T13:00:57+00:00
@@ -4701,6 +4713,12 @@
  - date published: 2021-01-20T20:10:09+00:00
  - user: rumpel
  - tags: ['covid', 'vaccine']
+
+## Do We Live In A Plutocratic Oligarchy? Why It Matters For Democracy – Lifestyle Democracy
+ - [https://www.lifestyledemocracy.com/do-we-live-in-a-plutocratic-oligarchy-why-it-matters-for-democracy/](https://www.lifestyledemocracy.com/do-we-live-in-a-plutocratic-oligarchy-why-it-matters-for-democracy/)
+ - date published: 2021-01-19T20:45:01+00:00
+ - user: rumpel
+ - tags: ['oligarchy', 'corporatocracy', 'democracy', 'plutocracy']
 
 ## Incoming White House Climate Team Blames 'Systemic Racism' for Climate Change
  - [https://freebeacon.com/elections/incoming-white-house-climate-team-blames-systemic-racism-for-climate-change/](https://freebeacon.com/elections/incoming-white-house-climate-team-blames-systemic-racism-for-climate-change/)

@@ -16,6 +16,12 @@
  - user: rumpel
  - tags: ['psychology', 'future', 'digital dementia', 'google']
 
+## iPhone Doomed to Failure (2008)
+ - [https://www.networkworld.com/article/2350353/apple-iphone-doomed-to-failure----windows-mobile-7-plans-for-2009-leaked.html](https://www.networkworld.com/article/2350353/apple-iphone-doomed-to-failure----windows-mobile-7-plans-for-2009-leaked.html)
+ - date published: 2008-04-22T19:11:59+00:00
+ - user: rumpel
+ - tags: ['iphone', 'apple']
+
 ## What Puma and Adidas Have to Do With the Nazis
  - [https://www.thecut.com/2008/03/what_puma_and_adidas_have_to_d_1.html](https://www.thecut.com/2008/03/what_puma_and_adidas_have_to_d_1.html)
  - date published: 2008-03-28T19:21:17+00:00

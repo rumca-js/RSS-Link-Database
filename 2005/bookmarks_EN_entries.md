@@ -16,3 +16,9 @@
  - user: rumpel
  - tags: ['google', 'search engines', 'microsoft', 'dark design']
 
+## Medical Journals Are an Extension of the Marketing Arm of Pharmaceutical Companies | PLOS Medicine
+ - [https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020138](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020138)
+ - date published: 2005-05-17T07:00:49+00:00
+ - user: rumpel
+ - tags: ['ad business', 'manufacturing consent', 'big pharma']
+

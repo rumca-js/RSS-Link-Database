@@ -494,7 +494,7 @@
  - [https://www.npr.org/2020/10/22/926290942/google-paid-apple-billions-to-dominate-search-on-iphones-justice-department-says](https://www.npr.org/2020/10/22/926290942/google-paid-apple-billions-to-dominate-search-on-iphones-justice-department-says)
  - date published: 2020-10-22T16:32:28+00:00
  - user: rumpel
- - tags: ['google', 'search engines', 'apple', 'corporatocracy']
+ - tags: ['corporatocracy', 'search engines', 'iphone', 'google', 'apple']
 
 ## United Nations Secretary-General calls for individual action to combat misinformation | Africa Renewal
  - [https://www.un.org/africarenewal/news/united-nations-secretary-general-calls-individual-action-combat-misinformation](https://www.un.org/africarenewal/news/united-nations-secretary-general-calls-individual-action-combat-misinformation)
@@ -927,6 +927,12 @@
  - date published: 2020-08-05T09:57:01+00:00
  - user: rumpel
  - tags: ['programming', 'debugging']
+
+## Who are the 150 people that run the world?
+ - [https://www.reddit.com/r/chamath/comments/l4naui/who_are_the_150_people_that_run_the_world/](https://www.reddit.com/r/chamath/comments/l4naui/who_are_the_150_people_that_run_the_world/)
+ - date published: 2020-08-04T21:20:41+00:00
+ - user: rumpel
+ - tags: ['chamath palihapitiya', 'billionaires', 'plutocracy', 'banksters', 'elite']
 
 ## Victoria Police arrest James Bartolo for online support of anti-lockdown protests
  - [https://www.abc.net.au/news/2020-09-04/victoria-police-arrest-fourth-person-for-supporting-protests/12630904](https://www.abc.net.au/news/2020-09-04/victoria-police-arrest-fourth-person-for-supporting-protests/12630904)

@@ -1628,7 +1628,7 @@
  - [https://www.wsj.com/articles/apple-china-factory-protests-foxconn-manufacturing-production-supply-chain-11670023099](https://www.wsj.com/articles/apple-china-factory-protests-foxconn-manufacturing-production-supply-chain-11670023099)
  - date published: 2022-12-04T07:22:34+00:00
  - user: None
- - tags: ['china', 'india', 'apple']
+ - tags: ['apple', 'india', 'iphone', 'china']
 
 ## LEGACY MEDIA is "Extremely Dangerous to Our Democracy"
  - [https://www.youtube.com/watch?v=fzYj11qWb-M](https://www.youtube.com/watch?v=fzYj11qWb-M)
@@ -1772,7 +1772,7 @@
  - [https://www.youtube.com/watch?v=ON52n1Xa4I0](https://www.youtube.com/watch?v=ON52n1Xa4I0)
  - date published: 2022-12-01T14:09:06+00:00
  - user: rumpel
- - tags: ['digital identity', 'digital passport', 'cbdc', 'covid', 'vaccine passport']
+ - tags: ['digital passport', 'vaccine passport', 'covid', 'cbdc', 'digital identity', 'social credit']
 
 ## After Disney's 'Strange World' bombs, film critic says ‘go woke, go broke’
  - [https://nypost.com/2022/12/01/after-disneys-strange-world-bombs-film-critic-says-go-woke-go-broke/](https://nypost.com/2022/12/01/after-disneys-strange-world-bombs-film-critic-says-go-woke-go-broke/)
@@ -3038,7 +3038,7 @@
  - [https://www.androidauthority.com/apple-imessage-dma-3229780/](https://www.androidauthority.com/apple-imessage-dma-3229780/)
  - date published: 2022-11-01T17:19:50+00:00
  - user: rumpel
- - tags: ['apple', 'digital markets act']
+ - tags: ['apple', 'digital markets act', 'iphone']
 
 ## Your company brand may soon be held hostage to Adobe, Pantone
  - [https://www.computerworld.com/article/3678297/your-company-brand-may-soon-be-held-hostage-to-adobe-pantone.html#tk.rss_all](https://www.computerworld.com/article/3678297/your-company-brand-may-soon-be-held-hostage-to-adobe-pantone.html#tk.rss_all)
@@ -3866,7 +3866,7 @@
  - [https://www.techradar.com/news/ads-nearly-ruined-the-iphones-app-store-and-apples-about-to-add-more-of-them/](https://www.techradar.com/news/ads-nearly-ruined-the-iphones-app-store-and-apples-about-to-add-more-of-them/)
  - date published: 2022-10-24T10:52:32+00:00
  - user: None
- - tags: ['ad business', 'apple']
+ - tags: ['ad business', 'apple', 'iphone']
 
 ## How Physicists Proved The Universe Isn't Locally Real - Nobel Prize in Physics 2022 EXPLAINED
  - [https://www.youtube.com/watch?v=txlCvCSefYQ](https://www.youtube.com/watch?v=txlCvCSefYQ)
@@ -6854,7 +6854,7 @@
  - [https://www.bbc.co.uk/news/uk-wales-62597165?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-wales-62597165?at_medium=RSS&at_campaign=KARANGA)
  - date published: 2022-08-27T06:57:52+00:00
  - user: rumpel
- - tags: ['lgbt', 'inequality', 'hypocrisy']
+ - tags: ['lgbt', 'hypocrisy', 'inequality', 'rainbow washing']
 
 ## Europe’s Deepening Fertilizer Crunch Threatens Food Crisis
  - [https://www.bloomberg.com/news/articles/2022-08-26/europe-s-fertilizer-crisis-deepens-with-70-of-capacity-hit](https://www.bloomberg.com/news/articles/2022-08-26/europe-s-fertilizer-crisis-deepens-with-70-of-capacity-hit)
@@ -7017,6 +7017,12 @@
  - date published: 2022-08-24T09:38:24+00:00
  - user: rumpel
  - tags: ['karl may', 'censorship', 'fahrenheit 451']
+
+## Alex Berenson Is Back on Twitter - The Atlantic
+ - [https://www.theatlantic.com/technology/archive/2022/08/alex-berenson-twitter-ban-lawsuit-covid-misinformation/671219/](https://www.theatlantic.com/technology/archive/2022/08/alex-berenson-twitter-ban-lawsuit-covid-misinformation/671219/)
+ - date published: 2022-08-24T07:10:55+00:00
+ - user: rumpel
+ - tags: ['twitter', 'alex berenson', 'censorship']
 
 ## How corporations used Covid crysis
  - [https://www.youtube.com/watch?v=7jH0w8Jdgjk](https://www.youtube.com/watch?v=7jH0w8Jdgjk)

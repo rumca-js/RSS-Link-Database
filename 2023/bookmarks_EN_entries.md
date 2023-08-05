@@ -1,3 +1,45 @@
+## Pluralistic: Fighting junk fees is "woke" (04 August 2023)
+ - [https://pluralistic.net/2023/08/04/owning-the-libs/](https://pluralistic.net/2023/08/04/owning-the-libs/)
+ - date published: 2023-08-04T18:45:51+00:00
+ - user: rumpel
+ - tags: ['corporatocracy', 'plutocracy', 'democracy']
+
+## keygenmusic.tk - tracker music player
+ - [https://keygenmusic.tk/#](https://keygenmusic.tk/#)
+ - date published: 2023-08-04T10:03:02+00:00
+ - user: rumpel
+ - tags: ['chiptune']
+
+## GitHub - sxiii/keygen-music: Keygen Music Opensource Radio Repository
+ - [https://github.com/sxiii/keygen-music](https://github.com/sxiii/keygen-music)
+ - date published: 2023-08-04T10:01:22+00:00
+ - user: rumpel
+ - tags: ['chiptune']
+
+## Essential Keygen Music : Free Download, Borrow, and Streaming : Internet Archive
+ - [https://archive.org/details/essential-keygen-music](https://archive.org/details/essential-keygen-music)
+ - date published: 2023-08-04T09:59:48+00:00
+ - user: rumpel
+ - tags: ['chiptune']
+
+## Kohina Web Player
+ - [https://player.kohina.com/streamplayer/](https://player.kohina.com/streamplayer/)
+ - date published: 2023-08-04T09:55:01+00:00
+ - user: rumpel
+ - tags: ['chiptune']
+
+## Remixes | AmigaRemix
+ - [https://www.amigaremix.com/](https://www.amigaremix.com/)
+ - date published: 2023-08-04T09:44:22+00:00
+ - user: rumpel
+ - tags: ['chiptune']
+
+## Patrick Bet-David Deconstructs BlackRock and ESG Ratings
+ - [https://www.youtube.com/watch?v=Mvh4o6x3-GQ](https://www.youtube.com/watch?v=Mvh4o6x3-GQ)
+ - date published: 2023-08-03T17:08:04+00:00
+ - user: rumpel
+ - tags: ['vanguard', 'esg', 'plutocracy', 'blackrock']
+
 ## Arizona driver says he was 'trapped' in hot Tesla after battery died
  - [https://www.abc15.com/news/local-news/investigations/arizona-driver-says-he-was-trapped-in-hot-tesla-after-battery-died](https://www.abc15.com/news/local-news/investigations/arizona-driver-says-he-was-trapped-in-hot-tesla-after-battery-died)
  - date published: 2023-08-02T21:52:31+00:00
@@ -9,6 +51,12 @@
  - date published: 2023-08-02T17:16:31+00:00
  - user: rumpel
  - tags: ['esg', 'climate change']
+
+## Apple Explains Why It Won’t Make iPhones With Replaceable Batteries
+ - [https://www.inverse.com/tech/apple-explains-why-it-wont-make-iphones-with-replaceable-batteries](https://www.inverse.com/tech/apple-explains-why-it-wont-make-iphones-with-replaceable-batteries)
+ - date published: 2023-08-02T17:10:58+00:00
+ - user: rumpel
+ - tags: ['apple', 'hypocrisy', 'iphone']
 
 ## Pluralistic: Forcing your computer to rat you out (02 August 2023)
  - [https://pluralistic.net/2023/08/02/self-incrimination/](https://pluralistic.net/2023/08/02/self-incrimination/)
@@ -69,6 +117,12 @@
  - date published: 2023-07-31T13:55:11+00:00
  - user: rumpel
  - tags: ['privacy', 'moderation', 'meta', 'anonymity']
+
+## Massive Corruption in Reconstruction: From MILLIONS in Corruption to President Office
+ - [https://www.youtube.com/watch?v=2cNK1DdbK34](https://www.youtube.com/watch?v=2cNK1DdbK34)
+ - date published: 2023-07-31T00:00:00+00:00
+ - user: rumpel
+ - tags: ['war', 'ukraine', 'corruption']
 
 ## Home Office secretly backs facial recognition technology to curb shoplifting
  - [https://www.theguardian.com/technology/2023/jul/29/home-office-secretly-backs-facial-recognition-technology-to-curb-shoplifting](https://www.theguardian.com/technology/2023/jul/29/home-office-secretly-backs-facial-recognition-technology-to-curb-shoplifting)
@@ -207,6 +261,12 @@
  - date published: 2023-07-26T14:13:17+00:00
  - user: rumpel
  - tags: ['australia', 'digital identity']
+
+## Why it’s impossible to compete with Google Search
+ - [https://www.theverge.com/23802382/search-engine-google-neeva-android](https://www.theverge.com/23802382/search-engine-google-neeva-android)
+ - date published: 2023-07-26T13:00:00+00:00
+ - user: rumpel
+ - tags: ['search engines', 'neeva']
 
 ## One dead in cargo ship fire, electric car suspected source, Dutch coastguard says | Reuters
  - [https://www.reuters.com/world/europe/one-dead-several-wounded-after-fire-cargo-ship-dutch-coast-guard-2023-07-26/](https://www.reuters.com/world/europe/one-dead-several-wounded-after-fire-cargo-ship-dutch-coast-guard-2023-07-26/)
@@ -1246,6 +1306,12 @@
  - user: rumpel
  - tags: ['web design', 'programming']
 
+## New emails show COVID vaccine mandates were based on a lie | Washington Examiner
+ - [https://www.washingtonexaminer.com/opinion/new-emails-show-covid-vaccine-mandates-were-based-on-a-lie](https://www.washingtonexaminer.com/opinion/new-emails-show-covid-vaccine-mandates-were-based-on-a-lie)
+ - date published: 2023-06-20T18:00:28+00:00
+ - user: rumpel
+ - tags: ['vaccine', 'covid']
+
 ## Gitlab has introduced a five-user limit for free groups
  - [https://docs.gitlab.com/ee/user/free_user_limit.html](https://docs.gitlab.com/ee/user/free_user_limit.html)
  - date published: 2023-06-20T17:14:32+00:00
@@ -1310,7 +1376,7 @@
  - [https://cable.ayra.ch/webxmp/](https://cable.ayra.ch/webxmp/)
  - date published: 2023-06-18T07:42:02+00:00
  - user: rumpel
- - tags: ['keygen']
+ - tags: ['chiptune']
 
 ## Jeffrey Epstein: US Virgin Islands' Former First Lady email revealed
  - [https://www.dailymail.co.uk/news/article-12203915/Jeffrey-Epstein-Virgin-Islands-Former-Lady-email-revealed.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12203915/Jeffrey-Epstein-Virgin-Islands-Former-Lady-email-revealed.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -3136,12 +3202,6 @@
  - user: rumpel
  - tags: ['covid']
 
-## iPhone Doomed to Failure (2008)
- - [https://www.networkworld.com/article/2350353/apple-iphone-doomed-to-failure----windows-mobile-7-plans-for-2009-leaked.html](https://www.networkworld.com/article/2350353/apple-iphone-doomed-to-failure----windows-mobile-7-plans-for-2009-leaked.html)
- - date published: 2023-04-22T19:11:59+00:00
- - user: rumpel
- - tags: ['iphone', 'apple']
-
 ## Fire Mark Zuckerberg
  - [https://ez.substack.com/p/fire-mark-zuckerberg](https://ez.substack.com/p/fire-mark-zuckerberg)
  - date published: 2023-04-21T18:29:21+00:00
@@ -3368,7 +3428,7 @@
  - [https://reclaimthenet.org/rfk-jr-cbdcs-surveillance-control](https://reclaimthenet.org/rfk-jr-cbdcs-surveillance-control)
  - date published: 2023-04-14T23:22:57+00:00
  - user: rumpel
- - tags: ['big brother', 'surveillance', 'cbdc']
+ - tags: ['big brother', 'cbdc', 'robert kennedy', 'surveillance']
 
 ## Montana on cusp of becoming first state to block TikTok downloads
  - [https://www.nbcnews.com/tech/internet/montana-passes-bill-blocking-users-downloading-tiktok-rcna79622](https://www.nbcnews.com/tech/internet/montana-passes-bill-blocking-users-downloading-tiktok-rcna79622)
@@ -5344,6 +5404,12 @@
  - user: rumpel
  - tags: ['electric vehicles']
 
+## Which World Countries Have the Most Gold?
+ - [https://www.madisontrust.com/information-center/which-world-countries-have-the-most-gold/](https://www.madisontrust.com/information-center/which-world-countries-have-the-most-gold/)
+ - date published: 2023-02-04T17:00:05+00:00
+ - user: rumpel
+ - tags: ['gold']
+
 ## All the big tech layoffs of 2023
  - [https://www.engadget.com/tech-layoffs-183005204.html?src=rss](https://www.engadget.com/tech-layoffs-183005204.html?src=rss)
  - date published: 2023-02-03T18:30:05+00:00
@@ -6308,7 +6374,7 @@
  - [https://www.youtube.com/watch?v=npJNERfBAes](https://www.youtube.com/watch?v=npJNERfBAes)
  - date published: 2023-01-13T00:00:00+00:00
  - user: rumpel
- - tags: ['billionaires', 'elites', 'george soros', 'manufacturing consent']
+ - tags: ['billionaires', 'manufacturing consent', 'george soros', 'plutocracy', 'elites']
 
 ## Meta alleges surveillance firm collected data on 600,000 users via fake accounts
  - [https://www.theguardian.com/technology/2023/jan/12/meta-voyager-labs-surveillance-fake-accounts](https://www.theguardian.com/technology/2023/jan/12/meta-voyager-labs-surveillance-fake-accounts)
@@ -6902,7 +6968,7 @@
  - [https://levelup-edu.com/bezos-gates-zuckerberg-behind-every-self-made-millionaire-is-a-father-with-money/](https://levelup-edu.com/bezos-gates-zuckerberg-behind-every-self-made-millionaire-is-a-father-with-money/)
  - date published: 2023-01-01T22:31:55+00:00
  - user: rumpel
- - tags: ['jeff bezos', 'bill gates', 'billionaires', 'mark zuckerberg', 'big tech']
+ - tags: ['jeff bezos', 'billionaires', 'bill gates', 'plutocracy', 'big tech', 'mark zuckerberg']
 
 ## 2023 LGBTQ+ Student Possibility Programme
  - [https://www.goldmansachs.com/careers/students/programs/emea/lgbt-student-possibility-program.html](https://www.goldmansachs.com/careers/students/programs/emea/lgbt-student-possibility-program.html)

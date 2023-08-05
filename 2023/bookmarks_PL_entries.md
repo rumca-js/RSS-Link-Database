@@ -298,7 +298,7 @@
  - [https://ithardware.pl/aktualnosci/prezydent_biden_i_prezes_pfizera_pozwani_za_wymuszanie_cenzury_z_twitterem_juz_wygral-26799.html](https://ithardware.pl/aktualnosci/prezydent_biden_i_prezes_pfizera_pozwani_za_wymuszanie_cenzury_z_twitterem_juz_wygral-26799.html)
  - date published: 2023-04-14T09:38:40+00:00
  - user: rumpel
- - tags: ['big pharma', 'joe biden', 'pfizer', 'censorship', 'twitter']
+ - tags: ['pfizer', 'alex berenson', 'censorship', 'twitter', 'joe biden', 'big pharma']
 
 ## NOP czy nie NOP? Nagle przestała chodzić. Pfizer: Ściśle monitorujemy takie zdarzenia
  - [https://wydarzenia.interia.pl/kraj/news-nop-czy-nie-nop-nagle-przestala-chodzic-pfizer-scisle-monito,nId,6704142](https://wydarzenia.interia.pl/kraj/news-nop-czy-nie-nop-nagle-przestala-chodzic-pfizer-scisle-monito,nId,6704142)

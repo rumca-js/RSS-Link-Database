@@ -34,6 +34,12 @@
  - user: rumpel
  - tags: ['george soros', 'media matters', 'media']
 
+## Information from pharmaceutical companies and the quality, quantity, and cost of physicians' prescribing: a systematic review - PubMed
+ - [https://pubmed.ncbi.nlm.nih.gov/20976098/](https://pubmed.ncbi.nlm.nih.gov/20976098/)
+ - date published: 2010-10-19T07:02:50+00:00
+ - user: rumpel
+ - tags: ['ad business', 'manufacturing consent', 'big pharma']
+
 ## Dennis Meadows: Limiting Growth to Save the World
  - [https://ourworld.unu.edu/en/dennis-meadows-limiting-growth-to-save-the-world](https://ourworld.unu.edu/en/dennis-meadows-limiting-growth-to-save-the-world)
  - date published: 2010-09-27T13:45:59+00:00
