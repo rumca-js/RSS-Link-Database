@@ -10,6 +10,12 @@
  - user: rumpel
  - tags: ['billionairs', 'jeffrey epstein', 'elites']
 
+## How Jeffrey Epstein Bankrolled The Exclusive Edge Foundation And Reaped The Benefits
+ - [https://www.buzzfeednews.com/article/peteraldhous/jeffrey-epstein-john-brockman-edge-foundation](https://www.buzzfeednews.com/article/peteraldhous/jeffrey-epstein-john-brockman-edge-foundation)
+ - date published: 2002-08-05T07:11:18+00:00
+ - user: rumpel
+ - tags: ['jeffrey epstein']
+
 ## Was Jeffrey Epstein a Spy? – Rolling Stone
  - [https://www.rollingstone.com/culture/culture-features/jeffrey-epstein-steven-hoffenberg-intelligence-agencies-spy-1197708/](https://www.rollingstone.com/culture/culture-features/jeffrey-epstein-steven-hoffenberg-intelligence-agencies-spy-1197708/)
  - date published: 2002-07-15T10:17:42+00:00

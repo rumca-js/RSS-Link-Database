@@ -1,8 +1,26 @@
+## I do not use a debugger (2016)
+ - [https://lemire.me/blog/2016/06/21/i-do-not-use-a-debugger/](https://lemire.me/blog/2016/06/21/i-do-not-use-a-debugger/)
+ - date published: 2023-08-05T19:00:39+00:00
+ - user: rumpel
+ - tags: ['programming', 'debugger']
+
+## Just Normal Web Things
+ - [https://heather-buchel.com/blog/2023/07/just-normal-web-things/](https://heather-buchel.com/blog/2023/07/just-normal-web-things/)
+ - date published: 2023-08-05T16:07:40+00:00
+ - user: rumpel
+ - tags: ['web20', 'web10', 'web30']
+
 ## Pluralistic: Fighting junk fees is "woke" (04 August 2023)
  - [https://pluralistic.net/2023/08/04/owning-the-libs/](https://pluralistic.net/2023/08/04/owning-the-libs/)
  - date published: 2023-08-04T18:45:51+00:00
  - user: rumpel
  - tags: ['corporatocracy', 'plutocracy', 'democracy']
+
+## BOMBSHELL: Pfizer employees were given a *special batch*… different from what was forced into the general population
+ - [https://twitter.com/Resist_05/status/1687332318728671233?s=20](https://twitter.com/Resist_05/status/1687332318728671233?s=20)
+ - date published: 2023-08-04T17:17:00+00:00
+ - user: rumpel
+ - tags: ['vaccine', 'pfizer', 'covid']
 
 ## keygenmusic.tk - tracker music player
  - [https://keygenmusic.tk/#](https://keygenmusic.tk/#)
@@ -5397,6 +5415,12 @@
  - date published: 2023-02-06T07:16:35+00:00
  - user: rumpel
  - tags: ['fearmongering', 'wrold economic forum', 'cyber apocalypse']
+
+## Jeffrey Epstein: A Jewish Individual?, by Jason Cannon - The Unz Review
+ - [https://www.unz.com/article/jeffrey-epstein-a-jewish-individual/](https://www.unz.com/article/jeffrey-epstein-a-jewish-individual/)
+ - date published: 2023-02-05T07:00:45+00:00
+ - user: rumpel
+ - tags: ['israel', 'jeffrey epstein']
 
 ## Study links adoption of EV with less air pollution and improved health
  - [https://keck.usc.edu/study-links-adoption-of-electric-vehicles-with-less-air-pollution-and-improved-health/](https://keck.usc.edu/study-links-adoption-of-electric-vehicles-with-less-air-pollution-and-improved-health/)
