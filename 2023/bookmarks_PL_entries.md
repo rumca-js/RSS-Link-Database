@@ -1,3 +1,9 @@
+## Pomocnik Allegro - Chrome Web Store
+ - [https://chrome.google.com/webstore/detail/pomocnik-allegro/mppahmgdcnapaalefnpnfoekkpggkkol?hl=pl](https://chrome.google.com/webstore/detail/pomocnik-allegro/mppahmgdcnapaalefnpnfoekkpggkkol?hl=pl)
+ - date published: 2023-08-06T14:15:37+00:00
+ - user: rumpel
+ - tags: ['browser extension']
+
 ## "Przemoc osiągnęła swój szczyt". Belgijski policjant o przerażającej brutalności przestępców w Brukseli | Polska Agencja Prasowa SA
  - [https://www.pap.pl/aktualnosci/news%2C1603692%2Cprzemoc-osiagnela-swoj-szczyt-belgijski-policjant-o-przerazajacej](https://www.pap.pl/aktualnosci/news%2C1603692%2Cprzemoc-osiagnela-swoj-szczyt-belgijski-policjant-o-przerazajacej)
  - date published: 2023-08-01T10:32:06+00:00
@@ -237,6 +243,12 @@
  - date published: 2023-05-23T12:17:44+00:00
  - user: rumpel
  - tags: ['climate change', 'france']
+
+## Wykluczeni w imię tęczy. Ideologia zżera francuski futbol | Fronda.pl
+ - [https://www.fronda.pl/a/Wykluczeni-w-imie-teczy-Ideologia-zzera-francuski-futbol,215288.html](https://www.fronda.pl/a/Wykluczeni-w-imie-teczy-Ideologia-zzera-francuski-futbol,215288.html)
+ - date published: 2023-05-16T08:00:41+00:00
+ - user: rumpel
+ - tags: ['lgbt', 'intolerance', 'the left wing']
 
 ## Fakty i mity - Nauka o klimacie | naukaoklimacie.pl
  - [https://naukaoklimacie.pl/fakty-i-mity/](https://naukaoklimacie.pl/fakty-i-mity/)

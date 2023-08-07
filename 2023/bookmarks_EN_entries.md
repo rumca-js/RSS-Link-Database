@@ -1,3 +1,21 @@
+## Why I Find Bullshit Work Intolerable
+ - [https://shubhamjain.co/2023/08/06/bullshit-work-intolerable/](https://shubhamjain.co/2023/08/06/bullshit-work-intolerable/)
+ - date published: 2023-08-06T18:19:25+00:00
+ - user: rumpel
+ - tags: ['management']
+
+## Father dies in house fire after 'lithium battery pack charging an e-bike sparked blaze'
+ - [https://www.dailymail.co.uk/news/article-12378547/Father-dies-house-fire-lithium-battery-pack-charging-e-bike-sparked-blaze.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12378547/Father-dies-house-fire-lithium-battery-pack-charging-e-bike-sparked-blaze.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - date published: 2023-08-06T17:20:29+00:00
+ - user: rumpel
+ - tags: ['electric vehicles']
+
+## Goodhart's law - Wikipedia
+ - [https://en.wikipedia.org/wiki/Goodhart%27s_law](https://en.wikipedia.org/wiki/Goodhart%27s_law)
+ - date published: 2023-08-06T09:41:28+00:00
+ - user: rumpel
+ - tags: ['managment']
+
 ## I do not use a debugger (2016)
  - [https://lemire.me/blog/2016/06/21/i-do-not-use-a-debugger/](https://lemire.me/blog/2016/06/21/i-do-not-use-a-debugger/)
  - date published: 2023-08-05T19:00:39+00:00
@@ -2505,6 +2523,12 @@
  - date published: 2023-05-15T17:33:20+00:00
  - user: rumpel
  - tags: ['indoctrination', 'gender', 'sexualization', 'lgbt']
+
+## French league footballers refuse to wear rainbow-coloured jerseys
+ - [https://www.aljazeera.com/news/2023/5/15/french-league-footballers-refuse-to-wear-rainbow-coloured-jerseys](https://www.aljazeera.com/news/2023/5/15/french-league-footballers-refuse-to-wear-rainbow-coloured-jerseys)
+ - date published: 2023-05-15T15:23:17+00:00
+ - user: rumpel
+ - tags: ['intolerance', 'the left wing', 'censorship']
 
 ## The UK’s Secretive Web Surveillance Program Is Ramping Up
  - [https://www.wired.com/story/internet-connection-records-uk-surveillance/](https://www.wired.com/story/internet-connection-records-uk-surveillance/)

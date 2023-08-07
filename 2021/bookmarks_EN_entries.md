@@ -2482,6 +2482,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Facebook’s Secret War on Switching Costs | Electronic Frontier Foundation
+ - [https://www.eff.org/deeplinks/2021/08/facebooks-secret-war-switching-costs](https://www.eff.org/deeplinks/2021/08/facebooks-secret-war-switching-costs)
+ - date published: 2021-08-27T09:36:41+00:00
+ - user: rumpel
+ - tags: ['dark design', 'network effect', 'facebook']
+
 ## Reddit takes a teach-the-controversy approach to pandemic and vaccines | Ars Technica
  - [https://arstechnica.com/tech-policy/2021/08/reddit-resists-banning-pandemic-misinformation-allows-vaccine-dissent/](https://arstechnica.com/tech-policy/2021/08/reddit-resists-banning-pandemic-misinformation-allows-vaccine-dissent/)
  - date published: 2021-08-27T09:36:08.953930+00:00
