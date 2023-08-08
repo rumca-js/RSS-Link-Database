@@ -1,3 +1,9 @@
+## British gas starts to turn off Hive smart home devices forever
+ - [https://www.t3.com/news/british-gas-starts-to-turn-off-hive-smart-home-devices-forever](https://www.t3.com/news/british-gas-starts-to-turn-off-hive-smart-home-devices-forever)
+ - date published: 2023-08-07T05:25:36+00:00
+ - user: rumpel
+ - tags: ['subscribtion', 'technofeudalism']
+
 ## Why I Find Bullshit Work Intolerable
  - [https://shubhamjain.co/2023/08/06/bullshit-work-intolerable/](https://shubhamjain.co/2023/08/06/bullshit-work-intolerable/)
  - date published: 2023-08-06T18:19:25+00:00
@@ -105,6 +111,12 @@
  - date published: 2023-08-02T13:08:54+00:00
  - user: rumpel
  - tags: ['enshittification', 'web20', 'internet']
+
+## The Unwitting Coup: Was the Response to COVID Effectively a Coup by the Western Intelligence Community?
+ - [https://www.michaelpsenger.com/p/the-unwitting-coup-was-the-response](https://www.michaelpsenger.com/p/the-unwitting-coup-was-the-response)
+ - date published: 2023-08-02T11:39:13+00:00
+ - user: rumpel
+ - tags: ['big brother', 'covid']
 
 ## South America is living one of the climate extreme events
  - [https://twitter.com/extremetemps/status/1686485331539820545](https://twitter.com/extremetemps/status/1686485331539820545)
