@@ -1,3 +1,15 @@
+## To opt out of Grammarly AI training requires business account with 500+ users
+ - [https://front-end.social/@fox/110846484782705013](https://front-end.social/@fox/110846484782705013)
+ - date published: 2023-08-08T00:15:44+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence', 'technofeudalism', 'privacy']
+
+## "It's Not Natural" - Why Are 20% of Kids Suddenly LGBTQ?
+ - [https://www.youtube.com/watch?v=v3z4-lFckZ8](https://www.youtube.com/watch?v=v3z4-lFckZ8)
+ - date published: 2023-08-08T00:00:00+00:00
+ - user: rumpel
+ - tags: ['lgbt', 'the left wing']
+
 ## British gas starts to turn off Hive smart home devices forever
  - [https://www.t3.com/news/british-gas-starts-to-turn-off-hive-smart-home-devices-forever](https://www.t3.com/news/british-gas-starts-to-turn-off-hive-smart-home-devices-forever)
  - date published: 2023-08-07T05:25:36+00:00

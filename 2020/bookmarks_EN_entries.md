@@ -610,6 +610,12 @@
  - user: rumpel
  - tags: ['virtual reality', 'vrchat']
 
+## Tom Hardy responds to a question by a gay activist about his sexuality
+ - [https://www.youtube.com/watch?v=VI-dGH0-f_c](https://www.youtube.com/watch?v=VI-dGH0-f_c)
+ - date published: 2020-09-28T00:00:00+00:00
+ - user: rumpel
+ - tags: ['lgbt', 'the left wing']
+
 ## Three million Uyghurs detained in concentration camps by Beijing: Activist - The Economic Times
  - [https://economictimes.indiatimes.com/news/international/world-news/three-million-uyghurs-detained-in-concentration-camps-by-beijing-activist/articleshow/78343963.cms](https://economictimes.indiatimes.com/news/international/world-news/three-million-uyghurs-detained-in-concentration-camps-by-beijing-activist/articleshow/78343963.cms)
  - date published: 2020-09-27T20:56:51+00:00

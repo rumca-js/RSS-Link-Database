@@ -4,6 +4,12 @@
  - user: None
  - tags: ['fact check', 'propaganda', 'government', 'iraq', 'disinformation', 'big brother']
 
+## I Hate the News
+ - [http://www.aaronsw.com/weblog/hatethenews](http://www.aaronsw.com/weblog/hatethenews)
+ - date published: 2006-10-20T22:20:30+00:00
+ - user: rumpel
+ - tags: ['aaron swartz', 'legacy media', 'news']
+
 ## White Supremacist Infiltration of Law Enforcement
  - [https://nsarchive.gwu.edu/sites/default/files/documents/qxf56q-o0zwb/02.pdf](https://nsarchive.gwu.edu/sites/default/files/documents/qxf56q-o0zwb/02.pdf)
  - date published: 2006-10-17T06:47:35+00:00
