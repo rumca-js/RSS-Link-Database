@@ -520,6 +520,12 @@
  - user: rumpel
  - tags: ['propaganda', 'legacy media', 'democracy']
 
+## Sinclair Broadcast Group Slammed for Video Montage of Local Anchors Reading Anti-Media Script – The Hollywood Reporter
+ - [https://www.hollywoodreporter.com/news/general-news/sinclair-broadcast-group-slammed-video-montage-local-anchors-reading-anti-media-script-1098838/](https://www.hollywoodreporter.com/news/general-news/sinclair-broadcast-group-slammed-video-montage-local-anchors-reading-anti-media-script-1098838/)
+ - date published: 2018-04-01T06:16:10+00:00
+ - user: rumpel
+ - tags: ['propaganda', 'manufacturing consent']
+
 ## It's not just Facebook. Thousands of companies are spying on you (opinion) | CNN
  - [https://edition.cnn.com/2018/03/26/opinions/data-company-spying-opinion-schneier/index.html](https://edition.cnn.com/2018/03/26/opinions/data-company-spying-opinion-schneier/index.html)
  - date published: 2018-03-26T07:33:03+00:00

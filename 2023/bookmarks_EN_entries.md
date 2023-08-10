@@ -1,3 +1,15 @@
+## Who ACTUALLY runs the world? (Documentary)
+ - [https://www.youtube.com/watch?v=OcBynl35Cts](https://www.youtube.com/watch?v=OcBynl35Cts)
+ - date published: 2023-08-09T15:15:01+00:00
+ - user: rumpel
+ - tags: ['blackrock']
+
+## Low-cost Smartwatch powered by ESP32 module
+ - [https://linuxgizmos.com/low-cost-smartwatch-powered-by-esp32-s3-module/](https://linuxgizmos.com/low-cost-smartwatch-powered-by-esp32-s3-module/)
+ - date published: 2023-08-08T19:35:48+00:00
+ - user: rumpel
+ - tags: ['smart watch', 'project']
+
 ## To opt out of Grammarly AI training requires business account with 500+ users
  - [https://front-end.social/@fox/110846484782705013](https://front-end.social/@fox/110846484782705013)
  - date published: 2023-08-08T00:15:44+00:00
@@ -57,6 +69,12 @@
  - date published: 2023-08-04T17:17:00+00:00
  - user: rumpel
  - tags: ['vaccine', 'pfizer', 'covid']
+
+## ‘PayPal needs to embrace free speech if it wants to operate in UK’
+ - [https://www.telegraph.co.uk/news/2023/08/04/paypal-free-speech-operate-uk/](https://www.telegraph.co.uk/news/2023/08/04/paypal-free-speech-operate-uk/)
+ - date published: 2023-08-04T17:07:46+00:00
+ - user: rumpel
+ - tags: ['free speech', 'debanking', 'censorship', 'paypal']
 
 ## keygenmusic.tk - tracker music player
  - [https://keygenmusic.tk/#](https://keygenmusic.tk/#)

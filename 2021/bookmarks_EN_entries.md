@@ -356,7 +356,7 @@
  - [https://www.webfx.com/blog/internet/the-6-companies-that-own-almost-all-media-infographic/](https://www.webfx.com/blog/internet/the-6-companies-that-own-almost-all-media-infographic/)
  - date published: 2021-12-16T11:59:17+00:00
  - user: None
- - tags: $tags
+ - tags: ['corporatocracy', 'movies', 'legacy media', 'media']
 
 ## ‘No hospitalisations and no deaths’: All three US vaccines ‘highly efficacious’, Fauci says
  - [https://www.independent.co.uk/news/world/americas/us-politics/vaccine-covid-fauci-deaths-b1808878.html](https://www.independent.co.uk/news/world/americas/us-politics/vaccine-covid-fauci-deaths-b1808878.html)
