@@ -1,3 +1,9 @@
+## The Yandex Leak: How a Russian Search Giant Uses Consumer Data
+ - [https://www.confiant.com/news/the-yandex-leak-how-a-russian-search-giant-uses-consumer-data](https://www.confiant.com/news/the-yandex-leak-how-a-russian-search-giant-uses-consumer-data)
+ - date published: 2023-08-10T10:20:01+00:00
+ - user: rumpel
+ - tags: ['anonymitl', 'russia', 'surveillance', 'yandex', 'big brother', 'search engines', 'privacy', 'data leak']
+
 ## Who ACTUALLY runs the world? (Documentary)
  - [https://www.youtube.com/watch?v=OcBynl35Cts](https://www.youtube.com/watch?v=OcBynl35Cts)
  - date published: 2023-08-09T15:15:01+00:00

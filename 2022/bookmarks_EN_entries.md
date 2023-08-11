@@ -9772,6 +9772,12 @@
  - user: None
  - tags: ['hollywood', 'movies']
 
+## Data-harvesting code in mobile apps sends user data to “Russia’s Google” | Ars Technica
+ - [https://arstechnica.com/information-technology/2022/03/data-harvesting-code-in-mobile-apps-sends-user-data-to-russias-google/](https://arstechnica.com/information-technology/2022/03/data-harvesting-code-in-mobile-apps-sends-user-data-to-russias-google/)
+ - date published: 2022-03-29T17:57:33+00:00
+ - user: rumpel
+ - tags: ['russia', 'surveillance', 'tracking', 'yandex', 'privacy', 'anonymity']
+
 ## I wasted $40k on a fantastic startup idea - by Tom - TJCX
  - [https://blog.tjcx.me/p/40k-fantastic-startup-idea?s=r](https://blog.tjcx.me/p/40k-fantastic-startup-idea?s=r)
  - date published: 2022-03-29T06:27:03.403375+00:00

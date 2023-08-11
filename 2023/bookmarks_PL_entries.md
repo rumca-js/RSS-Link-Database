@@ -1,3 +1,9 @@
+## Auta wodorowe to przyszłość? Naprawa kosztuje 2 razy więcej niż całe auto, a żywotność to... 10 lat
+ - [https://ithardware.pl/aktualnosci/auta_wodorowe_sa_super_naprawa_kosztuje_2_razy_wiecej_niz_cale_auto_a_zywotnosc_to_10_lat-28709.html](https://ithardware.pl/aktualnosci/auta_wodorowe_sa_super_naprawa_kosztuje_2_razy_wiecej_niz_cale_auto_a_zywotnosc_to_10_lat-28709.html)
+ - date published: 2023-08-09T08:30:50+00:00
+ - user: rumpel
+ - tags: ['electric vehicles']
+
 ## Pomocnik Allegro - Chrome Web Store
  - [https://chrome.google.com/webstore/detail/pomocnik-allegro/mppahmgdcnapaalefnpnfoekkpggkkol?hl=pl](https://chrome.google.com/webstore/detail/pomocnik-allegro/mppahmgdcnapaalefnpnfoekkpggkkol?hl=pl)
  - date published: 2023-08-06T14:15:37+00:00
