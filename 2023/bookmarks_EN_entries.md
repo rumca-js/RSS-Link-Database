@@ -1,3 +1,9 @@
+## Create a self-hosted chat service with your own Matrix server | victoria.dev
+ - [https://victoria.dev/blog/create-a-self-hosted-chat-service-with-your-own-matrix-server/](https://victoria.dev/blog/create-a-self-hosted-chat-service-with-your-own-matrix-server/)
+ - date published: 2023-08-11T06:45:11+00:00
+ - user: rumpel
+ - tags: ['selfhost', 'matrix']
+
 ## The Yandex Leak: How a Russian Search Giant Uses Consumer Data
  - [https://www.confiant.com/news/the-yandex-leak-how-a-russian-search-giant-uses-consumer-data](https://www.confiant.com/news/the-yandex-leak-how-a-russian-search-giant-uses-consumer-data)
  - date published: 2023-08-10T10:20:01+00:00
