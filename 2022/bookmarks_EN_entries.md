@@ -7100,7 +7100,7 @@
  - [https://www.nytimes.com/2022/08/21/technology/google-surveillance-toddler-photo.html](https://www.nytimes.com/2022/08/21/technology/google-surveillance-toddler-photo.html)
  - date published: 2022-08-21T21:01:55+00:00
  - user: None
- - tags: ['technofeudalism', 'google']
+ - tags: ['google', 'technofeudalism', 'deplatform']
 
 ## It wasn't for nothing - Grasping gexps
  - [https://gexp.no/it-wasnt-for-nothing.html](https://gexp.no/it-wasnt-for-nothing.html)

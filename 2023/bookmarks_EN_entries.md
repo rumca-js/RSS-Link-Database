@@ -1,8 +1,26 @@
+## Universal & Google Reportedly in Licensing Talks About AI Voice Cloning – Billboard
+ - [https://www.billboard.com/pro/universal-music-google-ai-voice-cloning-licensing-talks-umg-wmg/](https://www.billboard.com/pro/universal-music-google-ai-voice-cloning-licensing-talks-umg-wmg/)
+ - date published: 2023-08-12T07:09:35+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
+
+## How Google Ruined Creativity Forever
+ - [https://www.youtube.com/watch?v=pSIHNCNcTiA](https://www.youtube.com/watch?v=pSIHNCNcTiA)
+ - date published: 2023-08-12T01:38:22+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
+
 ## Create a self-hosted chat service with your own Matrix server | victoria.dev
  - [https://victoria.dev/blog/create-a-self-hosted-chat-service-with-your-own-matrix-server/](https://victoria.dev/blog/create-a-self-hosted-chat-service-with-your-own-matrix-server/)
  - date published: 2023-08-11T06:45:11+00:00
  - user: rumpel
  - tags: ['selfhost', 'matrix']
+
+## The Internet is not forever after all: CNET deletes old articles to game Google | Ars Technica
+ - [https://arstechnica.com/information-technology/2023/08/the-internet-is-not-forever-after-all-cnet-deletes-old-articles-to-game-google/](https://arstechnica.com/information-technology/2023/08/the-internet-is-not-forever-after-all-cnet-deletes-old-articles-to-game-google/)
+ - date published: 2023-08-10T19:25:25+00:00
+ - user: rumpel
+ - tags: ['fahrenheit 451']
 
 ## The Yandex Leak: How a Russian Search Giant Uses Consumer Data
  - [https://www.confiant.com/news/the-yandex-leak-how-a-russian-search-giant-uses-consumer-data](https://www.confiant.com/news/the-yandex-leak-how-a-russian-search-giant-uses-consumer-data)
@@ -867,6 +885,12 @@
  - date published: 2023-07-12T08:37:11+00:00
  - user: rumpel
  - tags: ['subscription', 'technofeudalism', 'funny']
+
+## Stop AI 'crushing' music, urges leading industry body: "Taking other people’s work without their permission contravenes basic principles of property rights" | MusicRadar
+ - [https://www.musicradar.com/news/stop-ai-crushing-music](https://www.musicradar.com/news/stop-ai-crushing-music)
+ - date published: 2023-07-12T07:15:16+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
 
 ## The Heat Will Kill You First by Jeff Goodell | Hachette Book Group
  - [https://www.hachettebookgroup.com/titles/jeff-goodell/the-heat-will-kill-you-first/9780316497572/?lens=little-brown](https://www.hachettebookgroup.com/titles/jeff-goodell/the-heat-will-kill-you-first/9780316497572/?lens=little-brown)
@@ -3610,6 +3634,12 @@
  - user: rumpel
  - tags: ['big brother', 'family', 'usa', 'gender', 'the left wing', 'lgbt', 'transgender']
 
+## Universal Music urges the streaming services to ensure their platforms aren’t being scraped by music-making AI tools | Complete Music Update
+ - [https://completemusicupdate.com/article/universal-music-urges-the-streaming-services-to-ensure-their-platforms-arent-being-scraped-by-music-making-ai-tools/](https://completemusicupdate.com/article/universal-music-urges-the-streaming-services-to-ensure-their-platforms-arent-being-scraped-by-music-making-ai-tools/)
+ - date published: 2023-04-13T07:16:46+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
+
 ## “You Just Lied!” - Elon Musk DESTROYS BBC Reporter LIVE
  - [https://www.youtube.com/watch?v=JzKA2aLvN1Q](https://www.youtube.com/watch?v=JzKA2aLvN1Q)
  - date published: 2023-04-13T00:00:00+00:00
@@ -5032,6 +5062,12 @@
  - user: rumpel
  - tags: ['data leak']
 
+## AI Is Expensive: Google's Chatbot May Cost Company Billions
+ - [https://www.businessinsider.com/ai-expensive-google-chatbot-bard-may-cost-company-billions-dollars-2023-2?IR=T](https://www.businessinsider.com/ai-expensive-google-chatbot-bard-may-cost-company-billions-dollars-2023-2?IR=T)
+ - date published: 2023-02-22T07:31:10+00:00
+ - user: rumpel
+ - tags: ['climate change', 'google', 'artificial intelligence', 'bard']
+
 ## Supreme Court Declines to Hear Wikimedia’s Challenge to NSA Mass Surveillance
  - [https://diff.wikimedia.org/2023/02/21/u-s-supreme-court-declines-to-hear-wikimedia-foundations-challenge-to-nsa-mass-surveillance/](https://diff.wikimedia.org/2023/02/21/u-s-supreme-court-declines-to-hear-wikimedia-foundations-challenge-to-nsa-mass-surveillance/)
  - date published: 2023-02-21T18:15:27+00:00
@@ -5199,6 +5235,12 @@
  - date published: 2023-02-16T04:57:57+00:00
  - user: rumpel
  - tags: ['intellectual property', 'espionage', 'china']
+
+## ChatGPT collected our data without permission and is going to make billions off it
+ - [https://scroll.in/article/1043525/chatgpt-collected-our-data-without-permission-and-is-going-to-make-billions-off-it](https://scroll.in/article/1043525/chatgpt-collected-our-data-without-permission-and-is-going-to-make-billions-off-it)
+ - date published: 2023-02-15T07:29:24+00:00
+ - user: rumpel
+ - tags: ['openai', 'chatgpt', 'artificial intelligence']
 
 ## Portuguese Catholic Church shaken by report of 5,000 child-victims of sexual abuse
  - [https://www.lemonde.fr/en/international/article/2023/02/15/portuguese-catholic-church-shaken-by-report-of-5-000-child-victims-of-sexual-abuse_6015830_4.html](https://www.lemonde.fr/en/international/article/2023/02/15/portuguese-catholic-church-shaken-by-report-of-5-000-child-victims-of-sexual-abuse_6015830_4.html)
