@@ -196,6 +196,12 @@
  - user: rumpel
  - tags: ['surveillance', 'prism', 'nsa', 'privacy', 'big brother', 'big tech', 'microsoft']
 
+## Ex-NSA Chief: 'We Kill People Based on Metadata' - ABC News
+ - [https://abcnews.go.com/blogs/headlines/2014/05/ex-nsa-chief-we-kill-people-based-on-metadata](https://abcnews.go.com/blogs/headlines/2014/05/ex-nsa-chief-we-kill-people-based-on-metadata)
+ - date published: 2014-05-12T06:03:20+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'nsa', 'privacy', 'big brother']
+
 ## Everyone is under surveillance now, says whistleblower Edward Snowden
  - [http://www.theguardian.com/world/2014/may/03/everyone-is-under-surveillance-now-says-whistleblower-edward-snowden](http://www.theguardian.com/world/2014/may/03/everyone-is-under-surveillance-now-says-whistleblower-edward-snowden)
  - date published: 2014-05-03T05:27:51+00:00

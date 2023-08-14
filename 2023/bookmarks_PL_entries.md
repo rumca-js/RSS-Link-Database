@@ -142,6 +142,12 @@
  - user: rumpel
  - tags: ['ukraine']
 
+## Jak zrobić dobrą siekierę? Porady kowala Romka: "Ostrze wstawione równo w obuch tak jak strzelił"
+ - [https://www.youtube.com/watch?v=SkKCS0pO87I](https://www.youtube.com/watch?v=SkKCS0pO87I)
+ - date published: 2023-06-16T00:00:00+00:00
+ - user: rumpel
+ - tags: ['hobby', 'blacksmith']
+
 ## Blokada pornografii dla nieletnich. Ustawa o ochronie w sieci już w Sejmie – Biznes Wprost
  - [https://biznes.wprost.pl/technologie/internet/11261809/blokada-pornografii-dla-nieletnich-ustawa-o-ochronie-w-sieci-juz-w-sejmie.html](https://biznes.wprost.pl/technologie/internet/11261809/blokada-pornografii-dla-nieletnich-ustawa-o-ochronie-w-sieci-juz-w-sejmie.html)
  - date published: 2023-06-13T20:57:20+00:00

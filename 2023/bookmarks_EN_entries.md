@@ -1,3 +1,27 @@
+## Modern flat Earth beliefs - Wikipedia
+ - [https://en.m.wikipedia.org/wiki/Modern_flat_Earth_beliefs](https://en.m.wikipedia.org/wiki/Modern_flat_Earth_beliefs)
+ - date published: 2023-08-13T06:50:08+00:00
+ - user: rumpel
+ - tags: ['flat earth']
+
+## QAnon - Wikipedia
+ - [https://en.m.wikipedia.org/wiki/QAnon](https://en.m.wikipedia.org/wiki/QAnon)
+ - date published: 2023-08-13T06:30:39+00:00
+ - user: rumpel
+ - tags: ['qanon']
+
+## Generative AI – A curated list of Generative AI projects and services
+ - [https://github.com/steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai)
+ - date published: 2023-08-13T05:57:34+00:00
+ - user: rumpel
+ - tags: ['generative ai', 'artificial intelligence', 'project']
+
+## A Blog Post with Every HTML Element
+ - [https://www.patrickweaver.net/blog/a-blog-post-with-every-html-element/](https://www.patrickweaver.net/blog/a-blog-post-with-every-html-element/)
+ - date published: 2023-08-12T22:19:37+00:00
+ - user: rumpel
+ - tags: ['html']
+
 ## Universal & Google Reportedly in Licensing Talks About AI Voice Cloning – Billboard
  - [https://www.billboard.com/pro/universal-music-google-ai-voice-cloning-licensing-talks-umg-wmg/](https://www.billboard.com/pro/universal-music-google-ai-voice-cloning-licensing-talks-umg-wmg/)
  - date published: 2023-08-12T07:09:35+00:00
