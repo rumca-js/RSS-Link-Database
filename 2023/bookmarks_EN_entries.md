@@ -1,3 +1,21 @@
+## They Bypass YouTube Video Download Throttling
+ - [https://blog.0x7d0.dev/history/how-they-bypass-youtube-video-download-throttling/](https://blog.0x7d0.dev/history/how-they-bypass-youtube-video-download-throttling/)
+ - date published: 2023-08-14T04:02:58+00:00
+ - user: rumpel
+ - tags: ['youtube-dl']
+
+## Brave's Independent Search Engine Is Finally Good
+ - [https://www.youtube.com/watch?v=Uu1Gc3GM7CM](https://www.youtube.com/watch?v=Uu1Gc3GM7CM)
+ - date published: 2023-08-13T21:00:20+00:00
+ - user: rumpel
+ - tags: ['search engines']
+
+## ‘I've got nothing to hide’ and other misunderstandings of privacy (2007)
+ - [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=998565](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=998565)
+ - date published: 2023-08-13T18:23:29+00:00
+ - user: rumpel
+ - tags: ['privacy', 'data mining', 'surveillance']
+
 ## Modern flat Earth beliefs - Wikipedia
  - [https://en.m.wikipedia.org/wiki/Modern_flat_Earth_beliefs](https://en.m.wikipedia.org/wiki/Modern_flat_Earth_beliefs)
  - date published: 2023-08-13T06:50:08+00:00
@@ -51,6 +69,12 @@
  - date published: 2023-08-10T10:20:01+00:00
  - user: rumpel
  - tags: ['anonymitl', 'russia', 'surveillance', 'yandex', 'big brother', 'search engines', 'privacy', 'data leak']
+
+## Massachusetts couple denied foster care application over LGBTQ views, complaint says
+ - [https://www.nbcnews.com/nbc-out/out-news/massachusetts-couple-denied-foster-care-application-lgbtq-views-compla-rcna99339](https://www.nbcnews.com/nbc-out/out-news/massachusetts-couple-denied-foster-care-application-lgbtq-views-compla-rcna99339)
+ - date published: 2023-08-10T09:44:04+00:00
+ - user: rumpel
+ - tags: ['inequality', 'the left wing', 'christianophobia', 'lgbt']
 
 ## Who ACTUALLY runs the world? (Documentary)
  - [https://www.youtube.com/watch?v=OcBynl35Cts](https://www.youtube.com/watch?v=OcBynl35Cts)
@@ -243,6 +267,12 @@
  - date published: 2023-07-31T23:41:07+00:00
  - user: rumpel
  - tags: ['science is dead', 'censorship']
+
+## MacBook Pro 2021 Has ‘Reduced Useability’ Because Of New Apple Software Lockdown
+ - [https://www.forbes.com/sites/jaymcgregor/2023/07/31/macbook-pro-2021--2022-have-reduced-useability-because-of-new-software-lockdown/](https://www.forbes.com/sites/jaymcgregor/2023/07/31/macbook-pro-2021--2022-have-reduced-useability-because-of-new-software-lockdown/)
+ - date published: 2023-07-31T16:13:07+00:00
+ - user: rumpel
+ - tags: ['right to repair']
 
 ## Meta Forced to Reveal Anonymous Facebook User's Identity Over Defamatory Posts
  - [https://stackdiary.com/meta-forced-to-reveal-anonymous-facebook-users-identity/](https://stackdiary.com/meta-forced-to-reveal-anonymous-facebook-users-identity/)
