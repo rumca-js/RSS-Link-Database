@@ -1,8 +1,26 @@
+## Paedophile priest Gerald Ridsdale sentenced to eighth jail term over historic abuse - ABC News
+ - [https://www.abc.net.au/news/2023-08-15/paedophile-priest-gerald-ridsdale-sentenced-for-eighth-time/102730164](https://www.abc.net.au/news/2023-08-15/paedophile-priest-gerald-ridsdale-sentenced-for-eighth-time/102730164)
+ - date published: 2023-08-15T17:35:03+00:00
+ - user: rumpel
+ - tags: ['church scandal']
+
+## Xbox introduces new strike system to curtail bad behavior
+ - [https://www.theverge.com/2023/8/15/23832505/xbox-strike-enforcement-tool-community-standards](https://www.theverge.com/2023/8/15/23832505/xbox-strike-enforcement-tool-community-standards)
+ - date published: 2023-08-15T15:31:00+00:00
+ - user: rumpel
+ - tags: ['technofeudalism', 'moderation', 'censorship', 'corporatocracy']
+
 ## They Bypass YouTube Video Download Throttling
  - [https://blog.0x7d0.dev/history/how-they-bypass-youtube-video-download-throttling/](https://blog.0x7d0.dev/history/how-they-bypass-youtube-video-download-throttling/)
  - date published: 2023-08-14T04:02:58+00:00
  - user: rumpel
  - tags: ['youtube-dl']
+
+## Microsoft finds vulnerabilities it says could be used to shut down power plants
+ - [https://arstechnica.com/security/2023/08/microsoft-finds-vulnerabilities-it-says-could-be-used-to-shut-down-power-plants/](https://arstechnica.com/security/2023/08/microsoft-finds-vulnerabilities-it-says-could-be-used-to-shut-down-power-plants/)
+ - date published: 2023-08-14T04:00:00+00:00
+ - user: rumpel
+ - tags: ['vulnerability']
 
 ## Brave's Independent Search Engine Is Finally Good
  - [https://www.youtube.com/watch?v=Uu1Gc3GM7CM](https://www.youtube.com/watch?v=Uu1Gc3GM7CM)
@@ -255,6 +273,12 @@
  - date published: 2023-08-01T21:24:08+00:00
  - user: rumpel
  - tags: ['linux', 'android']
+
+## JPMorgan handled Jeffrey Epstein's $1.1M in payments to 'women and girls' AFTER the bank said it shut his accounts because he was a convicted sex offender, lawsuit claims
+ - [https://www.dailymail.co.uk/news/article-12361315/JPMorgan-handled-Jeffrey-Epsteins-1-1M-payments-women-girls-bank-said-shut-accounts-convicted-sex-offender-lawsuit-claims.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12361315/JPMorgan-handled-Jeffrey-Epsteins-1-1M-payments-women-girls-bank-said-shut-accounts-convicted-sex-offender-lawsuit-claims.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - date published: 2023-08-01T17:21:46+00:00
+ - user: rumpel
+ - tags: ['jeffrey epstein', 'jpmorgan']
 
 ## Putin Outlaws Anonymity: Identity Verification For Online Services, VPN Bypass Advice a Crime * TorrentFreak
  - [https://torrentfreak.com/putin-outlaws-anonymity-user-id-verification-for-online-services-vpn-bypass-advice-a-crime-230801/](https://torrentfreak.com/putin-outlaws-anonymity-user-id-verification-for-online-services-vpn-bypass-advice-a-crime-230801/)
@@ -926,7 +950,7 @@
  - [https://www.hackread.com/chinese-group-storm-0558-hacked-europe-microsoft/](https://www.hackread.com/chinese-group-storm-0558-hacked-europe-microsoft/)
  - date published: 2023-07-12T18:15:35+00:00
  - user: rumpel
- - tags: ['storm-0558', 'espionage', 'china', 'vulnerability', 'hackers']
+ - tags: ['storm-0558', 'espionage', 'china', 'vulnerability', 'hackers', 'microsoft']
 
 ## Google hit with lawsuit alleging it stole data from millions of users to train its AI tools | CNN Business
  - [https://edition.cnn.com/2023/07/11/tech/google-ai-lawsuit/index.html](https://edition.cnn.com/2023/07/11/tech/google-ai-lawsuit/index.html)
@@ -5295,6 +5319,12 @@
  - date published: 2023-02-15T07:29:24+00:00
  - user: rumpel
  - tags: ['openai', 'chatgpt', 'artificial intelligence']
+
+## Jordan Uses Probability/Statistics to expose to Trans Glorification pa... | TikTok
+ - [https://www.tiktok.com/@project_shadow_us/video/7199634730810363182](https://www.tiktok.com/@project_shadow_us/video/7199634730810363182)
+ - date published: 2023-02-15T05:44:28+00:00
+ - user: rumpel
+ - tags: ['the left wing', 'transgender']
 
 ## Portuguese Catholic Church shaken by report of 5,000 child-victims of sexual abuse
  - [https://www.lemonde.fr/en/international/article/2023/02/15/portuguese-catholic-church-shaken-by-report-of-5-000-child-victims-of-sexual-abuse_6015830_4.html](https://www.lemonde.fr/en/international/article/2023/02/15/portuguese-catholic-church-shaken-by-report-of-5-000-child-victims-of-sexual-abuse_6015830_4.html)

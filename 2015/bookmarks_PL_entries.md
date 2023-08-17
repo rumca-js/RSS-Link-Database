@@ -16,3 +16,9 @@
  - user: rumpel
  - tags: ['children', 'big brother', 'sweden']
 
+## ks. Piotr Pawlukiewicz -  Małżeństwo, labirynt czy droga do nieba?
+ - [https://www.youtube.com/watch?v=wFP0VX1pugE](https://www.youtube.com/watch?v=wFP0VX1pugE)
+ - date published: 2015-04-15T00:00:00+00:00
+ - user: rumpel
+ - tags: ['religion']
+

@@ -1426,6 +1426,12 @@
  - user: rumpel
  - tags: ['wuhan', 'covid', 'lab leak']
 
+## Visualizing the Length of the Fine Print, for 14 Popular Apps - Visual Capitalist
+ - [https://www.visualcapitalist.com/terms-of-service-visualizing-the-length-of-internet-agreements/](https://www.visualcapitalist.com/terms-of-service-visualizing-the-length-of-internet-agreements/)
+ - date published: 2020-04-18T05:35:32+00:00
+ - user: rumpel
+ - tags: ['terms of service', 'technofeudalism', 'eula', 'corporatocracy']
+
 ## Trump, aides flirt with China lab coronavirus conspiracy theory | Coronavirus pandemic News | Al Jazeera
  - [https://www.aljazeera.com/news/2020/4/17/trump-aides-flirt-with-china-lab-coronavirus-conspiracy-theory](https://www.aljazeera.com/news/2020/4/17/trump-aides-flirt-with-china-lab-coronavirus-conspiracy-theory)
  - date published: 2020-04-17T14:25:08+00:00
