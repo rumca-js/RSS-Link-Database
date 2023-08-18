@@ -1,3 +1,15 @@
+## Tape Storage Might Be Computing’s Climate Savior
+ - [https://spectrum.ieee.org/tape-storage-sustainable-option](https://spectrum.ieee.org/tape-storage-sustainable-option)
+ - date published: 2023-08-17T01:16:48+00:00
+ - user: rumpel
+ - tags: ['backup', 'tape storage']
+
+## ChatGPT DOES have a left-wing bias: Scientists confirm the AI bot's responses favour the Democrats in the US and the Labour Party in the UK
+ - [https://www.dailymail.co.uk/sciencetech/article-12413139/ChatGPT-DOES-left-wing-bias-Scientists-confirm-AI-bots-responses-favour-Democrats-Labour-Party-UK.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/sciencetech/article-12413139/ChatGPT-DOES-left-wing-bias-Scientists-confirm-AI-bots-responses-favour-Democrats-Labour-Party-UK.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - date published: 2023-08-16T23:01:46+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence', 'chatgpt']
+
 ## Paedophile priest Gerald Ridsdale sentenced to eighth jail term over historic abuse - ABC News
  - [https://www.abc.net.au/news/2023-08-15/paedophile-priest-gerald-ridsdale-sentenced-for-eighth-time/102730164](https://www.abc.net.au/news/2023-08-15/paedophile-priest-gerald-ridsdale-sentenced-for-eighth-time/102730164)
  - date published: 2023-08-15T17:35:03+00:00
@@ -202,6 +214,12 @@
  - user: rumpel
  - tags: ['chiptune']
 
+## Pfizer can't explain why their Covid Vax causes myocarditis - Senate Estimates 3.8.23
+ - [https://www.youtube.com/watch?v=yNSCQyPv-7U](https://www.youtube.com/watch?v=yNSCQyPv-7U)
+ - date published: 2023-08-04T00:00:00+00:00
+ - user: rumpel
+ - tags: ['pfizer', 'vaccine', 'covid']
+
 ## Patrick Bet-David Deconstructs BlackRock and ESG Ratings
  - [https://www.youtube.com/watch?v=Mvh4o6x3-GQ](https://www.youtube.com/watch?v=Mvh4o6x3-GQ)
  - date published: 2023-08-03T17:08:04+00:00
@@ -291,6 +309,12 @@
  - date published: 2023-07-31T23:41:07+00:00
  - user: rumpel
  - tags: ['science is dead', 'censorship']
+
+## The Coming Cinema Apocalypse (Is Here) - by Ted Hope
+ - [https://tedhope.substack.com/p/the-coming-cinema-apocalypse](https://tedhope.substack.com/p/the-coming-cinema-apocalypse)
+ - date published: 2023-07-31T21:04:18+00:00
+ - user: rumpel
+ - tags: ['technofeudalism', 'subscribtions', 'movies']
 
 ## MacBook Pro 2021 Has ‘Reduced Useability’ Because Of New Apple Software Lockdown
  - [https://www.forbes.com/sites/jaymcgregor/2023/07/31/macbook-pro-2021--2022-have-reduced-useability-because-of-new-software-lockdown/](https://www.forbes.com/sites/jaymcgregor/2023/07/31/macbook-pro-2021--2022-have-reduced-useability-because-of-new-software-lockdown/)
@@ -1730,7 +1754,7 @@
  - [https://www.thearticle.com/is-liberalism-digging-its-own-demographic-grave](https://www.thearticle.com/is-liberalism-digging-its-own-demographic-grave)
  - date published: 2023-06-12T13:23:30+00:00
  - user: rumpel
- - tags: ['the left wing', 'society']
+ - tags: ['depopulation', 'the left wing', 'society']
 
 ## An America-Less Internet
  - [https://www.nthbrock.com/posts/americaless-internet/](https://www.nthbrock.com/posts/americaless-internet/)
@@ -5601,6 +5625,12 @@
  - date published: 2023-02-08T07:31:02+00:00
  - user: rumpel
  - tags: ['big brother', 'turkey', 'censorship', 'twitter']
+
+## 'Woke' ChatGPT refuses to praise Donald Trump, or tell a joke about women | Daily Mail Online
+ - [https://www.dailymail.co.uk/sciencetech/article-11726579/ChatGPT-accused-woke-refusing-praise-Donald-Trump.html](https://www.dailymail.co.uk/sciencetech/article-11726579/ChatGPT-accused-woke-refusing-praise-Donald-Trump.html)
+ - date published: 2023-02-08T06:16:21+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence', 'chatgpt']
 
 ## Google and Mozilla are working on iOS browsers that aren't based on WebKit
  - [https://arstechnica.com/gadgets/2023/02/google-and-mozilla-are-working-on-ios-browsers-that-break-current-app-store-rules/](https://arstechnica.com/gadgets/2023/02/google-and-mozilla-are-working-on-ios-browsers-that-break-current-app-store-rules/)
