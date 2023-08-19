@@ -1,3 +1,51 @@
+## Moderna pays NIAID $400M under new COVID vaccine license
+ - [https://www.fiercepharma.com/pharma/moderna-pays-us-government-400m-catch-payment-under-new-covid-19-vaccine-license](https://www.fiercepharma.com/pharma/moderna-pays-us-government-400m-catch-payment-under-new-covid-19-vaccine-license)
+ - date published: 2023-08-18T20:45:10+00:00
+ - user: rumpel
+ - tags: ['moderna', 'nih', 'covid', 'vaccine']
+
+## Dude,Where's My Donations? Wikimedia gives another $1M to non-Wikimedia projects
+ - [https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-08-15/News_and_notes](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-08-15/News_and_notes)
+ - date published: 2023-08-18T17:59:06+00:00
+ - user: rumpel
+ - tags: ['wikipedia']
+
+## Deja Vu: The FBI Proves Again It Can’t Be Trusted with Section 702
+ - [https://www.eff.org/deeplinks/2023/07/deja-vu-fbi-proves-again-it-cant-be-trusted-section-702](https://www.eff.org/deeplinks/2023/07/deja-vu-fbi-proves-again-it-cant-be-trusted-section-702)
+ - date published: 2023-08-18T15:07:32+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'fbi']
+
+## UK birth slump dubbed ‘good for planet’
+ - [https://www.telegraph.co.uk/business/2023/08/17/20-year-low-for-baby-born-in-england-good-news-for-planet/](https://www.telegraph.co.uk/business/2023/08/17/20-year-low-for-baby-born-in-england-good-news-for-planet/)
+ - date published: 2023-08-18T11:34:57+00:00
+ - user: rumpel
+ - tags: ['depopulation']
+
+## Microplastics detected in the marine air from Norway to the high Arctic
+ - [https://scienceswitch.com/2023/08/18/microplastics-detected-in-the-marine-air-from-norway-to-the-high-arctic/](https://scienceswitch.com/2023/08/18/microplastics-detected-in-the-marine-air-from-norway-to-the-high-arctic/)
+ - date published: 2023-08-18T02:47:21+00:00
+ - user: rumpel
+ - tags: ['microplastic', 'pollution']
+
+## The richest Americans account for 40 percent of U.S. climate emissions
+ - [https://www.washingtonpost.com/climate-environment/2023/08/17/greenhouse-emissions-income-inequality/](https://www.washingtonpost.com/climate-environment/2023/08/17/greenhouse-emissions-income-inequality/)
+ - date published: 2023-08-17T21:55:15+00:00
+ - user: rumpel
+ - tags: ['global warming', 'climate change']
+
+## 90% of Great Lakes water samples have unsafe microplastic levels – report
+ - [https://www.theguardian.com/environment/2023/aug/17/great-lakes-water-microplastic-pollution-contamination](https://www.theguardian.com/environment/2023/aug/17/great-lakes-water-microplastic-pollution-contamination)
+ - date published: 2023-08-17T14:00:18+00:00
+ - user: rumpel
+ - tags: ['microplastic', 'pollution']
+
+## Troops guard Pakistani Christians after mob torches churches | Reuters
+ - [https://www.reuters.com/world/asia-pacific/troops-deployed-guard-pakistani-christians-after-mob-torches-churches-2023-08-17/](https://www.reuters.com/world/asia-pacific/troops-deployed-guard-pakistani-christians-after-mob-torches-churches-2023-08-17/)
+ - date published: 2023-08-17T05:31:04+00:00
+ - user: rumpel
+ - tags: ['christianophobia', 'pakistan']
+
 ## Tape Storage Might Be Computing’s Climate Savior
  - [https://spectrum.ieee.org/tape-storage-sustainable-option](https://spectrum.ieee.org/tape-storage-sustainable-option)
  - date published: 2023-08-17T01:16:48+00:00
@@ -21,6 +69,12 @@
  - date published: 2023-08-15T15:31:00+00:00
  - user: rumpel
  - tags: ['technofeudalism', 'moderation', 'censorship', 'corporatocracy']
+
+## Microplastics Found In Human Hearts For First Time, Showing Impact Of Pollution
+ - [https://www.forbes.com/sites/brucelee/2023/08/14/microplastics-found-in-human-hearts-for-first-time-showing-impact-of-pollution/](https://www.forbes.com/sites/brucelee/2023/08/14/microplastics-found-in-human-hearts-for-first-time-showing-impact-of-pollution/)
+ - date published: 2023-08-14T18:40:37+00:00
+ - user: rumpel
+ - tags: ['microplastic', 'pollution']
 
 ## They Bypass YouTube Video Download Throttling
  - [https://blog.0x7d0.dev/history/how-they-bypass-youtube-video-download-throttling/](https://blog.0x7d0.dev/history/how-they-bypass-youtube-video-download-throttling/)
@@ -1287,6 +1341,12 @@
  - date published: 2023-06-30T18:14:14+00:00
  - user: rumpel
  - tags: ['fahrenheit 451']
+
+## Microwaved plastic containers release microplastics into food
+ - [https://pubs.acs.org/doi/10.1021/acs.est.3c01942](https://pubs.acs.org/doi/10.1021/acs.est.3c01942)
+ - date published: 2023-06-30T10:56:50+00:00
+ - user: rumpel
+ - tags: ['microplastic', 'pollution']
 
 ## French Gov Wants to Inject Domain Blocking Lists Directly into Web Browsers
  - [https://torrentfreak.com/french-govt-wants-to-inject-domain-blocking-lists-directly-into-web-browsers-230630/](https://torrentfreak.com/french-govt-wants-to-inject-domain-blocking-lists-directly-into-web-browsers-230630/)
@@ -2798,7 +2858,7 @@
  - [https://gizmodo.com/linda-yaccarino-twitter-ceo-wef-conspiracy-elon-musk-1850433392](https://gizmodo.com/linda-yaccarino-twitter-ceo-wef-conspiracy-elon-musk-1850433392)
  - date published: 2023-05-13T12:30:00+00:00
  - user: rumpel
- - tags: ['elin musk', 'twitter', 'world economic forum']
+ - tags: ['twitter', 'world economic forum', 'elon musk']
 
 ## Israel denies the Nakba while perpetuating it
  - [https://www.aljazeera.com/opinions/2023/5/13/israel-denies-the-nakba-while-perpetuating-it](https://www.aljazeera.com/opinions/2023/5/13/israel-denies-the-nakba-while-perpetuating-it)
@@ -6584,7 +6644,7 @@
  - [https://github.com/LukeSmithxyz/emailwiz](https://github.com/LukeSmithxyz/emailwiz)
  - date published: 2023-01-13T13:01:24+00:00
  - user: rumpel
- - tags: ['smart home,. project', 'selfhost', 'email server']
+ - tags: ['selfhost', 'project', 'email server', 'smart home']
 
 ## GitHub - awesome-selfhosted/awesome-selfhosted: A list of Free Software network services and web applications which can be hosted on your own servers
  - [https://github.com/awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)

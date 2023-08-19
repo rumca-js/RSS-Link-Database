@@ -62,7 +62,7 @@
  - [https://reason.com/2021/12/29/facebook-masks-false-information-science-feedback-wrong-covid/](https://reason.com/2021/12/29/facebook-masks-false-information-science-feedback-wrong-covid/)
  - date published: 2021-12-30T09:02:20.918611+00:00
  - user: Thomas Pain
- - tags: ['facebook', 'censorship', 'fact-check', 'science is dead']
+ - tags: ['fact check', 'censorship', 'science is dead', 'facebook']
 
 ## China Is Running Out of Water and That’s Scary for Asia
  - [https://www.bloomberg.com/opinion/articles/2021-12-29/china-s-water-shortage-is-scary-for-india-thailand-vietnam](https://www.bloomberg.com/opinion/articles/2021-12-29/china-s-water-shortage-is-scary-for-india-thailand-vietnam)

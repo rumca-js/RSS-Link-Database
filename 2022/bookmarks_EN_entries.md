@@ -8,7 +8,7 @@
  - [https://newsroom.ucla.edu/releases/universities-struggle-to-leverage-data](https://newsroom.ucla.edu/releases/universities-struggle-to-leverage-data)
  - date published: 2022-12-31T17:54:29+00:00
  - user: rumpel
- - tags: ['bigdata']
+ - tags: ['big data']
 
 ## Bring back personal blogging
  - [https://www.theverge.com/23513418/bring-back-personal-blogging](https://www.theverge.com/23513418/bring-back-personal-blogging)
