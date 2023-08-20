@@ -6412,6 +6412,12 @@
  - user: None
  - tags: ['meta', 'facebook', 'privacy']
 
+## Walmart Is Facing a Class Action Over Its Alleged Use of Surveillance Cameras and Clearview AI's Facial Recognition Database
+ - [https://www.businessinsider.com/walmart-is-facing-a-class-action-over-its-alleged-use-of-surveillance-cameras-and-clearview-ais-facial-recognition-database-2022-9?IR=T](https://www.businessinsider.com/walmart-is-facing-a-class-action-over-its-alleged-use-of-surveillance-cameras-and-clearview-ais-facial-recognition-database-2022-9?IR=T)
+ - date published: 2022-09-06T15:02:31+00:00
+ - user: rumpel
+ - tags: ['technofeudalism', 'corporatocracy', 'biometrics', 'surveillance', 'privacy', 'facial recognition', 'walmart', 'america', 'clearview ai']
+
 ## Teacher refuses to use preferred pronouns gets arrested for contempt of court: 'I wouldn't call a boy a girl'
  - [https://www.louderwithcrowder.com/teacher-arrested-ireland](https://www.louderwithcrowder.com/teacher-arrested-ireland)
  - date published: 2022-09-06T14:35:25+00:00
@@ -9645,6 +9651,12 @@
  - date published: 2022-04-06T07:10:36+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## CitizenLab Reports Jordan Used NSO Group Spyware to Hack Activists Devices - DAWN
+ - [https://dawnmena.org/citizenlab-reports-jordan-used-nso-group-spyware-to-hack-activists-devices/](https://dawnmena.org/citizenlab-reports-jordan-used-nso-group-spyware-to-hack-activists-devices/)
+ - date published: 2022-04-05T18:01:18+00:00
+ - user: rumpel
+ - tags: ['pegasus', 'jordan', 'surveillance', 'privacy', 'anonymity', 'nso']
 
 ## A Tale of Yak Shaving: Accidentally Making a Language, for an Engine, for a Game
  - [https://verdagon.dev/blog/yak-shave-language-engine-game](https://verdagon.dev/blog/yak-shave-language-engine-game)

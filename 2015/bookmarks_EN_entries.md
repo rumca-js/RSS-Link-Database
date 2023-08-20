@@ -220,6 +220,12 @@
  - user: rumpel
  - tags: ['rothschild']
 
+## In-store analytics: tracking real-world customers just like online shoppers | TechRadar
+ - [https://www.techradar.com/news/world-of-tech/future-tech/in-store-analytics-tracking-real-world-customers-just-like-online-shoppers-1286293](https://www.techradar.com/news/world-of-tech/future-tech/in-store-analytics-tracking-real-world-customers-just-like-online-shoppers-1286293)
+ - date published: 2015-02-27T15:12:46+00:00
+ - user: rumpel
+ - tags: ['corporatocracy', 'surveillance', 'privacy', 'technofeudalism']
+
 ## What’s with the 50/72 rule?
  - [https://preslav.me/2015/02/21/what-s-with-the-50-72-rule/](https://preslav.me/2015/02/21/what-s-with-the-50-72-rule/)
  - date published: 2015-02-21T09:57:43+00:00

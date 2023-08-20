@@ -112,6 +112,12 @@
  - user: rumpel
  - tags: ['nsa', 'surveillance']
 
+## Attention, Shoppers: Store Is Tracking Your Cell - The New York Times
+ - [https://www.nytimes.com/2013/07/15/business/attention-shopper-stores-are-tracking-your-cell.html](https://www.nytimes.com/2013/07/15/business/attention-shopper-stores-are-tracking-your-cell.html)
+ - date published: 2013-07-14T15:11:32+00:00
+ - user: rumpel
+ - tags: ['corporatocracy', 'surveillance', 'privacy', 'technofeudalism']
+
 ## Microsoft handed the NSA access to encrypted messages | NSA | The Guardian
  - [https://www.theguardian.com/world/2013/jul/11/microsoft-nsa-collaboration-user-data](https://www.theguardian.com/world/2013/jul/11/microsoft-nsa-collaboration-user-data)
  - date published: 2013-07-12T09:04:18+00:00
@@ -207,6 +213,12 @@
  - date published: 2013-04-13T15:37:35+00:00
  - user: rumpel
  - tags: ['canada', 'justin trudeau']
+
+## How Stores Spy on You - Consumer Reports
+ - [https://www.consumerreports.org/cro/2013/03/how-stores-spy-on-you/index.htm](https://www.consumerreports.org/cro/2013/03/how-stores-spy-on-you/index.htm)
+ - date published: 2013-03-19T15:07:37+00:00
+ - user: rumpel
+ - tags: ['corporatocracy', 'surveillance', 'privacy', 'technofeudalism']
 
 ## Amiga Music: Jester Compilation #1
  - [https://www.youtube.com/watch?v=kEBW8A3bw-Q](https://www.youtube.com/watch?v=kEBW8A3bw-Q)

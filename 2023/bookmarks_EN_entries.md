@@ -1,3 +1,15 @@
+## Twitter/X has removed all media posted before 2014
+ - [https://twitter.com/tomcoates/status/1692922211416334597](https://twitter.com/tomcoates/status/1692922211416334597)
+ - date published: 2023-08-19T15:41:39+00:00
+ - user: rumpel
+ - tags: ['fahrenheit 451']
+
+## Why the U.S Economy is Collapsing: The Coming Economic Crisis
+ - [https://www.youtube.com/watch?v=BvFAt3IK7z8](https://www.youtube.com/watch?v=BvFAt3IK7z8)
+ - date published: 2023-08-19T00:55:38+00:00
+ - user: rumpel
+ - tags: ['great reset']
+
 ## Moderna pays NIAID $400M under new COVID vaccine license
  - [https://www.fiercepharma.com/pharma/moderna-pays-us-government-400m-catch-payment-under-new-covid-19-vaccine-license](https://www.fiercepharma.com/pharma/moderna-pays-us-government-400m-catch-payment-under-new-covid-19-vaccine-license)
  - date published: 2023-08-18T20:45:10+00:00
@@ -40,6 +52,12 @@
  - user: rumpel
  - tags: ['microplastic', 'pollution']
 
+## Petition to stop France from forcing browsers like Firefox to censor websites
+ - [https://foundation.mozilla.org/en/campaigns/sign-our-petition-to-stop-france-from-forcing-browsers-like-mozillas-firefox-to-censor-websites/](https://foundation.mozilla.org/en/campaigns/sign-our-petition-to-stop-france-from-forcing-browsers-like-mozillas-firefox-to-censor-websites/)
+ - date published: 2023-08-17T08:23:22+00:00
+ - user: rumpel
+ - tags: ['france', 'censorship', 'government control', 'sren bill', 'free speech']
+
 ## Troops guard Pakistani Christians after mob torches churches | Reuters
  - [https://www.reuters.com/world/asia-pacific/troops-deployed-guard-pakistani-christians-after-mob-torches-churches-2023-08-17/](https://www.reuters.com/world/asia-pacific/troops-deployed-guard-pakistani-christians-after-mob-torches-churches-2023-08-17/)
  - date published: 2023-08-17T05:31:04+00:00
@@ -57,6 +75,12 @@
  - date published: 2023-08-16T23:01:46+00:00
  - user: rumpel
  - tags: ['artificial intelligence', 'chatgpt']
+
+## To my people on Maui— is all of this true?
+ - [https://twitter.com/Alec_Zeck/status/1691555105034629391?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1691555105034629391%7Ctwgr%5Eb7c627f44c0e4e5e66b72b609d241ab5c8186c2d%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.newswars.com%2Fpolice-formed-blockade-prevented-people-from-evacuating-lahaina-wildfire-maui-resident-claims%2F](https://twitter.com/Alec_Zeck/status/1691555105034629391?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1691555105034629391%7Ctwgr%5Eb7c627f44c0e4e5e66b72b609d241ab5c8186c2d%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.newswars.com%2Fpolice-formed-blockade-prevented-people-from-evacuating-lahaina-wildfire-maui-resident-claims%2F)
+ - date published: 2023-08-15T17:53:12+00:00
+ - user: rumpel
+ - tags: ['maui fires', 'climate change']
 
 ## Paedophile priest Gerald Ridsdale sentenced to eighth jail term over historic abuse - ABC News
  - [https://www.abc.net.au/news/2023-08-15/paedophile-priest-gerald-ridsdale-sentenced-for-eighth-time/102730164](https://www.abc.net.au/news/2023-08-15/paedophile-priest-gerald-ridsdale-sentenced-for-eighth-time/102730164)
@@ -94,12 +118,6 @@
  - user: rumpel
  - tags: ['search engines']
 
-## ‘I've got nothing to hide’ and other misunderstandings of privacy (2007)
- - [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=998565](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=998565)
- - date published: 2023-08-13T18:23:29+00:00
- - user: rumpel
- - tags: ['privacy', 'data mining', 'surveillance']
-
 ## Modern flat Earth beliefs - Wikipedia
  - [https://en.m.wikipedia.org/wiki/Modern_flat_Earth_beliefs](https://en.m.wikipedia.org/wiki/Modern_flat_Earth_beliefs)
  - date published: 2023-08-13T06:50:08+00:00
@@ -123,6 +141,12 @@
  - date published: 2023-08-12T22:19:37+00:00
  - user: rumpel
  - tags: ['html']
+
+## King of Jordan approves ‘draconian’ cybercrime law
+ - [https://www.aljazeera.com/news/2023/8/12/king-of-jordan-approves-draconian-cybercrime-law](https://www.aljazeera.com/news/2023/8/12/king-of-jordan-approves-draconian-cybercrime-law)
+ - date published: 2023-08-12T20:03:42+00:00
+ - user: rumpel
+ - tags: ['cyber-crime bill', 'censorship', 'government control', 'big brother', 'jordan', 'free speech', 'hate speech']
 
 ## Universal & Google Reportedly in Licensing Talks About AI Voice Cloning – Billboard
  - [https://www.billboard.com/pro/universal-music-google-ai-voice-cloning-licensing-talks-umg-wmg/](https://www.billboard.com/pro/universal-music-google-ai-voice-cloning-licensing-talks-umg-wmg/)
@@ -165,6 +189,12 @@
  - date published: 2023-08-09T15:15:01+00:00
  - user: rumpel
  - tags: ['blackrock']
+
+## Australian Banks Restricting Cash Raises CBDC Fears
+ - [https://reclaimthenet.org/australian-banks-restricting-cash-raises-cbdc-fears](https://reclaimthenet.org/australian-banks-restricting-cash-raises-cbdc-fears)
+ - date published: 2023-08-09T14:50:03+00:00
+ - user: rumpel
+ - tags: ['cbdc', 'digital money']
 
 ## Low-cost Smartwatch powered by ESP32 module
  - [https://linuxgizmos.com/low-cost-smartwatch-powered-by-esp32-s3-module/](https://linuxgizmos.com/low-cost-smartwatch-powered-by-esp32-s3-module/)
@@ -980,7 +1010,7 @@
  - [https://www.techdirt.com/2023/07/13/an-indiana-police-department-has-been-using-clearview-ai-for-a-year-much-to-the-surprise-of-its-oversight/](https://www.techdirt.com/2023/07/13/an-indiana-police-department-has-been-using-clearview-ai-for-a-year-much-to-the-surprise-of-its-oversight/)
  - date published: 2023-07-14T13:23:43+00:00
  - user: rumpel
- - tags: ['clearview']
+ - tags: ['clearview ai']
 
 ## Voice Actor Turns Instagram's Terms of Service into 51-Minute Sleep Aid
  - [https://www.vice.com/en/article/7kxkgx/voice-actor-turns-instagrams-terms-of-service-into-51-minute-sleep-aid](https://www.vice.com/en/article/7kxkgx/voice-actor-turns-instagrams-terms-of-service-into-51-minute-sleep-aid)
@@ -4232,7 +4262,7 @@
  - [https://www.bbc.com/news/technology-65057011](https://www.bbc.com/news/technology-65057011)
  - date published: 2023-03-28T00:25:31+00:00
  - user: rumpel
- - tags: ['big brother', 'clearview', 'privacy', 'surveillance', 'artificial intelligence', 'facial recognition', 'biometric']
+ - tags: ['big brother', 'clearview ai', 'privacy', 'surveillance', 'artificial intelligence', 'facial recognition', 'biometric']
 
 ## The FBI’s Contract to Buy Mass Internet Data
  - [https://www.vice.com/en/article/dy3z9a/fbi-bought-netflow-data-team-cymru-contract](https://www.vice.com/en/article/dy3z9a/fbi-bought-netflow-data-team-cymru-contract)

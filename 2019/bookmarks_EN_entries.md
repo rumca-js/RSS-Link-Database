@@ -796,6 +796,12 @@
  - user: None
  - tags: $tags
 
+## How retailers can track your movements inside their stores.
+ - [https://www.cnbc.com/2019/03/08/how-retailers-can-track-your-movements-inside-their-stores.html](https://www.cnbc.com/2019/03/08/how-retailers-can-track-your-movements-inside-their-stores.html)
+ - date published: 2019-03-08T15:04:59+00:00
+ - user: rumpel
+ - tags: ['tracking', 'biometrics', 'corporatocracy', 'technofeudalism', 'surveillance', 'privacy', 'facial recognition']
+
 ## German academics and authors call for end to 'gender nonsense' | Germany | The Guardian
  - [https://www.theguardian.com/world/2019/mar/08/german-academics-and-authors-call-for-end-to-gender-nonsense](https://www.theguardian.com/world/2019/mar/08/german-academics-and-authors-call-for-end-to-gender-nonsense)
  - date published: 2019-03-08T09:07:02+00:00

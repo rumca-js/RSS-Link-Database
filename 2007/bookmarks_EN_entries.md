@@ -40,6 +40,12 @@
  - user: rumpel
  - tags: ['technofeudalism', 'windows', 'microsoft']
 
+## ‘I've got nothing to hide’ and other misunderstandings of privacy (2007)
+ - [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=998565](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=998565)
+ - date published: 2007-07-12T18:23:29+00:00
+ - user: rumpel
+ - tags: ['privacy', 'data mining', 'surveillance']
+
 ## 100 Amiga games in 10 minutes!
  - [https://www.youtube.com/watch?v=hUoJBerFDsA](https://www.youtube.com/watch?v=hUoJBerFDsA)
  - date published: 2007-06-09T00:00:00+00:00

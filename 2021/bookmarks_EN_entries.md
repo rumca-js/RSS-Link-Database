@@ -398,7 +398,7 @@
  - [https://www.priv.gc.ca/en/opc-news/news-and-announcements/2021/an_211214/](https://www.priv.gc.ca/en/opc-news/news-and-announcements/2021/an_211214/)
  - date published: 2021-12-14T19:19:51+00:00
  - user: rumpel
- - tags: ['big brother', 'clearview', 'privacy', 'surveillance', 'artificial intelligence', 'facial recognition', 'biometric']
+ - tags: ['big brother', 'clearview ai', 'privacy', 'surveillance', 'artificial intelligence', 'facial recognition', 'biometric']
 
 ## Politician says Germany should ban Telegram unless it tackles extremist content
  - [https://news.yahoo.com/politician-says-germany-ban-telegram-182425996.html](https://news.yahoo.com/politician-says-germany-ban-telegram-182425996.html)
@@ -506,7 +506,7 @@
  - [https://www.reuters.com/business/cop/australia-says-us-facial-recognition-software-firm-clearview-breached-privacy-2021-11-03/](https://www.reuters.com/business/cop/australia-says-us-facial-recognition-software-firm-clearview-breached-privacy-2021-11-03/)
  - date published: 2021-12-03T19:20:51+00:00
  - user: rumpel
- - tags: ['big brother', 'clearview', 'privacy', 'surveillance', 'artificial intelligence', 'facial recognition', 'australia', 'biometric']
+ - tags: ['big brother', 'clearview ai', 'privacy', 'surveillance', 'artificial intelligence', 'facial recognition', 'australia', 'biometric']
 
 ## LEGO has designed a set that can't be taken apart | Brickset: LEGO set guide and database
  - [https://brickset.com/article/67650/lego-has-designed-a-set-that-can-t-be-taken-apart](https://brickset.com/article/67650/lego-has-designed-a-set-that-can-t-be-taken-apart)
@@ -1112,7 +1112,7 @@
  - [https://www.theguardian.com/world/2021/nov/03/facial-recognition-firm-cleaview-ai-to-appeal-order-to-stop-collecting-images-of-australians](https://www.theguardian.com/world/2021/nov/03/facial-recognition-firm-cleaview-ai-to-appeal-order-to-stop-collecting-images-of-australians)
  - date published: 2021-11-03T19:21:58+00:00
  - user: rumpel
- - tags: ['big brother', 'clearview', 'privacy', 'surveillance', 'artificial intelligence', 'facial recognition', 'australia', 'biometric']
+ - tags: ['big brother', 'clearview ai', 'privacy', 'surveillance', 'artificial intelligence', 'facial recognition', 'australia', 'biometric']
 
 ## Do-nothing scripting: the key to gradual automation – Dan Slimmon
  - [https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/](https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/)
@@ -3944,7 +3944,7 @@
  - [https://www.computerweekly.com/news/252501435/NGOs-file-complaints-against-Clearview-AI-in-five-countries](https://www.computerweekly.com/news/252501435/NGOs-file-complaints-against-Clearview-AI-in-five-countries)
  - date published: 2021-05-27T19:23:24+00:00
  - user: rumpel
- - tags: ['big brother', 'clearview', 'privacy', 'surveillance', 'artificial intelligence', 'facial recognition', 'biometric']
+ - tags: ['big brother', 'clearview ai', 'privacy', 'surveillance', 'artificial intelligence', 'facial recognition', 'biometric']
 
 ## Black Lives Matter co-founder Patrisse Cullors resigns amid controversy
  - [https://nypost.com/2021/05/27/black-lives-matter-co-founder-patrisse-cullors-resigns-amid-controversy/](https://nypost.com/2021/05/27/black-lives-matter-co-founder-patrisse-cullors-resigns-amid-controversy/)
