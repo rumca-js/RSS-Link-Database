@@ -1,3 +1,9 @@
+## Cellebrite asks cops to keep its phone hacking tech ‘hush hush’
+ - [https://techcrunch.com/2023/08/19/cellebrite-asks-cops-to-keep-its-phone-hacking-tech-hush-hush/](https://techcrunch.com/2023/08/19/cellebrite-asks-cops-to-keep-its-phone-hacking-tech-hush-hush/)
+ - date published: 2023-08-19T23:09:17+00:00
+ - user: rumpel
+ - tags: ['cellebrite', 'privacy', 'surveillance', 'big brother']
+
 ## Twitter/X has removed all media posted before 2014
  - [https://twitter.com/tomcoates/status/1692922211416334597](https://twitter.com/tomcoates/status/1692922211416334597)
  - date published: 2023-08-19T15:41:39+00:00
