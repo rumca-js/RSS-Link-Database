@@ -166,6 +166,12 @@
  - user: rumpel
  - tags: ['technofeudalism']
 
+## NSA Built Back Door In All Microsoft Windows Software Since 1999 :: The Market Oracle ::
+ - [http://www.marketoracle.co.uk/Article40836.html](http://www.marketoracle.co.uk/Article40836.html)
+ - date published: 2013-06-10T09:10:48+00:00
+ - user: rumpel
+ - tags: ['dark design', 'surveillance', 'privacy', 'windows', 'nsa', 'backdoor', 'big brother']
+
 ## Tempora - Wikipedia
  - [https://en.m.wikipedia.org/wiki/Tempora](https://en.m.wikipedia.org/wiki/Tempora)
  - date published: 2013-06-09T10:56:57+00:00
