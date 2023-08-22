@@ -418,6 +418,12 @@
  - user: rumpel
  - tags: ['turla', 'uroboros', 'malware']
 
+## RSPH |  Instagram Ranked Worst for Young People’s Mental Health
+ - [https://www.rsph.org.uk/about-us/news/instagram-ranked-worst-for-young-people-s-mental-health.html?mc_cid=319c2432e2&mc_eid=fb26c9199a](https://www.rsph.org.uk/about-us/news/instagram-ranked-worst-for-young-people-s-mental-health.html?mc_cid=319c2432e2&mc_eid=fb26c9199a)
+ - date published: 2017-05-19T08:21:51+00:00
+ - user: rumpel
+ - tags: ['social media', 'psychology', 'instagram']
+
 ## 'Accidental hero' who halted cyber-attack is English blogger aged 22 | Cybercrime | The Guardian
  - [https://www.theguardian.com/technology/2017/may/15/accidental-hero-who-halted-cyber-attack-is-22-year-old-english-blogger](https://www.theguardian.com/technology/2017/may/15/accidental-hero-who-halted-cyber-attack-is-22-year-old-english-blogger)
  - date published: 2017-05-15T21:54:58+00:00
