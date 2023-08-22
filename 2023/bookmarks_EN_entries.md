@@ -3742,6 +3742,12 @@
  - user: rumpel
  - tags: ['israel', 'christianophobia']
 
+## Shared post - Trans therapist charged over sexually assaulting autistic children in Indiana
+ - [https://ngo.locals.com/post/3856550/trans-therapist-charged-over-sexually-assaulting-autistic-children-in-indiana](https://ngo.locals.com/post/3856550/trans-therapist-charged-over-sexually-assaulting-autistic-children-in-indiana)
+ - date published: 2023-04-16T07:22:02+00:00
+ - user: rumpel
+ - tags: ['the left wing', 'paedophilia', 'transgender', 'rape']
+
 ## Google CEO: “can we change the setting of this group to history-off” [pdf]
  - [https://ia601707.us.archive.org/28/items/gov.uscourts.cand.364454/gov.uscourts.cand.364454.385.0.pdf](https://ia601707.us.archive.org/28/items/gov.uscourts.cand.364454/gov.uscourts.cand.364454.385.0.pdf)
  - date published: 2023-04-15T22:19:26+00:00
