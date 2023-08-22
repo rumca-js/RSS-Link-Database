@@ -16,6 +16,12 @@
  - user: rumpel
  - tags: ['racism', 'white supremacy']
 
+## ACPI (Linus Torvalds)
+ - [https://yarchive.net/comp/linux/acpi.html](https://yarchive.net/comp/linux/acpi.html)
+ - date published: 2006-10-06T12:08:47+00:00
+ - user: rumpel
+ - tags: ['acpi', 'linus torvalds', 'intel', 'hardware']
+
 ## FBI taps cell phone mic as eavesdropping tool (2006)
  - [https://www.cnet.com/news/privacy/fbi-taps-cell-phone-mic-as-eavesdropping-tool/](https://www.cnet.com/news/privacy/fbi-taps-cell-phone-mic-as-eavesdropping-tool/)
  - date published: 2006-07-11T18:19:16+00:00

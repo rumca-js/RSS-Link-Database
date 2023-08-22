@@ -10,6 +10,12 @@
  - user: rumpel
  - tags: ['vulnerability', 'scandal', 'rootkit', 'sony']
 
+## Five pitfalls of Linux sockets programming
+ - [https://developer.ibm.com/tutorials/l-sockpit/](https://developer.ibm.com/tutorials/l-sockpit/)
+ - date published: 2005-09-20T13:27:56+00:00
+ - user: rumpel
+ - tags: ['scripts', 'programming', 'linux']
+
 ## IE7 nukes Google, Yahoo! search • The Register
  - [https://www.theregister.com/2005/07/28/ie7_nukes_rival_search/](https://www.theregister.com/2005/07/28/ie7_nukes_rival_search/)
  - date published: 2005-07-28T12:05:34+00:00

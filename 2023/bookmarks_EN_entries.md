@@ -1,3 +1,15 @@
+## Meta Pays Supposedly Independent Australian “Fact-Checkers” 800 Dollars Per Fact-Check
+ - [https://reclaimthenet.org/meta-pays-supposedly-independent-australian-fact-checkers-800-dollars-per-fact-check](https://reclaimthenet.org/meta-pays-supposedly-independent-australian-fact-checkers-800-dollars-per-fact-check)
+ - date published: 2023-08-21T18:49:20+00:00
+ - user: rumpel
+ - tags: ['fact check']
+
+## Social selling factory in Indonesia
+ - [https://twitter.com/LinusEkenstam/status/1693382979291156942](https://twitter.com/LinusEkenstam/status/1693382979291156942)
+ - date published: 2023-08-20T14:24:05+00:00
+ - user: rumpel
+ - tags: ['social media']
+
 ## Cellebrite asks cops to keep its phone hacking tech ‘hush hush’
  - [https://techcrunch.com/2023/08/19/cellebrite-asks-cops-to-keep-its-phone-hacking-tech-hush-hush/](https://techcrunch.com/2023/08/19/cellebrite-asks-cops-to-keep-its-phone-hacking-tech-hush-hush/)
  - date published: 2023-08-19T23:09:17+00:00
@@ -4011,6 +4023,12 @@
  - date published: 2023-04-05T22:37:43+00:00
  - user: rumpel
  - tags: ['artificial intelligence']
+
+## Hiszpańskie feministki zemściły się na proboszczu. Zachęcał do...
+ - [https://opoka.org.pl/News/Swiat/2023/hiszpanskie-feministki-zemscily-sie-na-proboszczu-ktory](https://opoka.org.pl/News/Swiat/2023/hiszpanskie-feministki-zemscily-sie-na-proboszczu-ktory)
+ - date published: 2023-04-05T18:31:52+00:00
+ - user: rumpel
+ - tags: ['christianophobia', 'feminism']
 
 ## Hackers can crack smart garage doors due to this embarrassing security flaw
  - [https://www.techradar.com/news/hackers-can-crack-smart-garage-doors-due-to-this-embarrassing-security-flaw](https://www.techradar.com/news/hackers-can-crack-smart-garage-doors-due-to-this-embarrassing-security-flaw)
