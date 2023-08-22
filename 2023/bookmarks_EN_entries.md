@@ -5764,6 +5764,12 @@
  - user: rumpel
  - tags: ['atmosphere', 'climate change', 'sun-dimming', 'solar radiation modification']
 
+## AI-generated ‘Seinfeld’ suspended on Twitch for AI-generated transphobic jokes
+ - [https://techcrunch.com/2023/02/06/ai-generated-seinfeld-suspended-on-twitch-for-ai-generated-transphobic-jokes/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAM5Q17dJz_Y8nXC7zkkXHgPOViW8fba3qrqAPzf-eEewG5sQWApn9gp2VH6jhWgCCjqm_UkUbABWdQAqe0r65Lh-c1HpIkU68n4nVq__xNYJIiQCmr_lOVzMNkxYsox16lHOxt1_sA--td39f7sxFfB6AnS6sOITQEfr4Eugic3I](https://techcrunch.com/2023/02/06/ai-generated-seinfeld-suspended-on-twitch-for-ai-generated-transphobic-jokes/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAM5Q17dJz_Y8nXC7zkkXHgPOViW8fba3qrqAPzf-eEewG5sQWApn9gp2VH6jhWgCCjqm_UkUbABWdQAqe0r65Lh-c1HpIkU68n4nVq__xNYJIiQCmr_lOVzMNkxYsox16lHOxt1_sA--td39f7sxFfB6AnS6sOITQEfr4Eugic3I)
+ - date published: 2023-02-06T10:23:23+00:00
+ - user: rumpel
+ - tags: ['chatgpt', 'artificial intelligence', 'censorship']
+
 ## Cyber Apocalypse 2023: Is The World Heading For A “Catastrophic” Event?
  - [https://www.forbes.com/sites/bernardmarr/2023/02/06/cyber-apocalypse-2023-is-the-world-heading-for-a-catastrophic-event/](https://www.forbes.com/sites/bernardmarr/2023/02/06/cyber-apocalypse-2023-is-the-world-heading-for-a-catastrophic-event/)
  - date published: 2023-02-06T07:16:35+00:00
