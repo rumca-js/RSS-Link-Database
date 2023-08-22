@@ -4090,6 +4090,12 @@
  - user: rumpel
  - tags: ['the right wing', 'donald trump', 'george soros']
 
+## Alcohol recovery startups Monument and Tempest shared patients’ private data with advertisers
+ - [https://techcrunch.com/2023/04/04/monument-tempest-alcohol-data-breach/?guccounter=1&guce_referrer=aHR0cHM6Ly9kdWNrZHVja2dvLmNvbS8&guce_referrer_sig=AQAAALpqbET_aBcuneFWIRiVrdvKeocobrGL9FZN-pmjCdFlktfCC99cjV0g9PlnKOOIT8BW8oQaZ-XkWfSNT0WiF9K1AHHAjRPOf9gj0_B1snjkP267bQE-ICZ0Hwr51Vs5lqzPLtrVLl9pfbgs2B82SvjvQ9qE-IS4-pTelJsg1mrQ](https://techcrunch.com/2023/04/04/monument-tempest-alcohol-data-breach/?guccounter=1&guce_referrer=aHR0cHM6Ly9kdWNrZHVja2dvLmNvbS8&guce_referrer_sig=AQAAALpqbET_aBcuneFWIRiVrdvKeocobrGL9FZN-pmjCdFlktfCC99cjV0g9PlnKOOIT8BW8oQaZ-XkWfSNT0WiF9K1AHHAjRPOf9gj0_B1snjkP267bQE-ICZ0Hwr51Vs5lqzPLtrVLl9pfbgs2B82SvjvQ9qE-IS4-pTelJsg1mrQ)
+ - date published: 2023-04-04T07:19:34+00:00
+ - user: rumpel
+ - tags: ['ad business', 'privacy']
+
 ## Samsung warns fab employees of ChatGPT after confidential data leaks | TechSpot
  - [https://www.techspot.com/news/98181-samsung-warns-employees-chatgpt-privacy-dangers-following-confidential.html](https://www.techspot.com/news/98181-samsung-warns-employees-chatgpt-privacy-dangers-following-confidential.html)
  - date published: 2023-04-04T07:14:05+00:00
