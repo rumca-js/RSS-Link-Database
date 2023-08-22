@@ -1906,6 +1906,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Kidnapping, assassination and a London shoot-out: Inside the CIA's secret war plans against WikiLeaks
+ - [https://news.yahoo.com/kidnapping-assassination-and-a-london-shoot-out-inside-the-ci-as-secret-war-plans-against-wiki-leaks-090057786.html](https://news.yahoo.com/kidnapping-assassination-and-a-london-shoot-out-inside-the-ci-as-secret-war-plans-against-wiki-leaks-090057786.html)
+ - date published: 2021-09-26T21:27:39+00:00
+ - user: rumpel
+ - tags: ['wikileaks', 'cia', 'julian assange']
+
 ## Labour conference: Not right to say only women have a cervix, says Starmer - BBC News
  - [https://www.bbc.co.uk/news/uk-politics-58698406](https://www.bbc.co.uk/news/uk-politics-58698406)
  - date published: 2021-09-26T20:10:45.850037+00:00
