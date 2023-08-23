@@ -16,6 +16,12 @@
  - user: rumpel
  - tags: ['dr-dos', 'microsoft', 'dark design']
 
+## Why I wrote PGP
+ - [https://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html](https://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html)
+ - date published: 1999-09-08T19:26:27+00:00
+ - user: None
+ - tags: ['anonymity', 'privacy']
+
 ## A Mysterious Component Roils Microsoft
  - [https://archive.nytimes.com/www.nytimes.com/library/tech/99/09/biztech/articles/04soft.html](https://archive.nytimes.com/www.nytimes.com/library/tech/99/09/biztech/articles/04soft.html)
  - date published: 1999-09-04T15:03:48+00:00

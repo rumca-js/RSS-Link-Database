@@ -6568,6 +6568,12 @@
  - user: rumpel
  - tags: ['movies', 'censorship']
 
+## Carlos Fenollosa - Blog
+ - [https://cfenollosa.com/blog/after-self-hosting-my-email-for-twenty-three-years-i-have-thrown-in-the-towel-the-oligopoly-has-won.html](https://cfenollosa.com/blog/after-self-hosting-my-email-for-twenty-three-years-i-have-thrown-in-the-towel-the-oligopoly-has-won.html)
+ - date published: 2022-09-04T06:00:33+00:00
+ - user: rumpel
+ - tags: ['email', 'selfhost', 'technofeudalism']
+
 ## Black Lives Matter leader is accused of pilfering $10M from the organization
  - [https://www.dailymail.co.uk/news/article-11176931/Black-Lives-Matter-leader-accused-pilfering-10M-organization.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11176931/Black-Lives-Matter-leader-accused-pilfering-10M-organization.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2022-09-03T21:28:31+00:00

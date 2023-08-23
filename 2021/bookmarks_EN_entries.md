@@ -1964,7 +1964,7 @@
  - [https://www.nytimes.com/2021/09/21/technology/zuckerberg-facebook-project-amplify.html](https://www.nytimes.com/2021/09/21/technology/zuckerberg-facebook-project-amplify.html)
  - date published: 2021-09-21T19:59:50+00:00
  - user: rumpel
- - tags: ['meta', 'mark zuckerberg', 'algorityhms', 'search engines', 'social media', 'facebook', 'manufacturing consent']
+ - tags: ['search engines', 'social media', 'manufacturing consent', 'algorithms', 'facebook', 'mark zuckerberg', 'meta']
 
 ## Fast Fashion Is Hot Garbage | Climate Town
  - [https://www.youtube.com/watch?v=F6R_WTDdx7I](https://www.youtube.com/watch?v=F6R_WTDdx7I)
@@ -4514,7 +4514,7 @@
  - [https://www.eff.org/deeplinks/2021/03/googles-floc-terrible-idea](https://www.eff.org/deeplinks/2021/03/googles-floc-terrible-idea)
  - date published: 2021-03-03T11:46:17+00:00
  - user: rumpel
- - tags: ['google', 'floc', 'add business', 'privacy']
+ - tags: ['google', 'ad business', 'floc', 'privacy']
 
 ## Ex-Times Reporter Who Used Racial Slur Publishes a Lengthy Defense - The New York Times
  - [https://www.nytimes.com/2021/03/01/business/donald-mcneil-new-york-times-racial-slur.html](https://www.nytimes.com/2021/03/01/business/donald-mcneil-new-york-times-racial-slur.html)
