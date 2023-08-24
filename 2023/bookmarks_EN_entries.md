@@ -4882,6 +4882,12 @@
  - user: rumpel
  - tags: ['china', 'restrict act', 'tiktok']
 
+## Men in Scotland who loudly boast about sexual conquests in public could face jail
+ - [https://12ft.io/proxy?q=https%3A%2F%2Fwww.telegraph.co.uk%2Fpolitics%2F2023%2F03%2F08%2Fmen-scotland-who-loudly-boast-sexual-conquests-public-could%2F](https://12ft.io/proxy?q=https%3A%2F%2Fwww.telegraph.co.uk%2Fpolitics%2F2023%2F03%2F08%2Fmen-scotland-who-loudly-boast-sexual-conquests-public-could%2F)
+ - date published: 2023-03-08T15:50:09+00:00
+ - user: rumpel
+ - tags: ['scotland', 'misogyny', 'censorship', 'sexism']
+
 ## The privacy loophole in your doorbell
  - [https://www.politico.com/news/2023/03/07/privacy-loophole-ring-doorbell-00084979](https://www.politico.com/news/2023/03/07/privacy-loophole-ring-doorbell-00084979)
  - date published: 2023-03-08T14:58:32+00:00

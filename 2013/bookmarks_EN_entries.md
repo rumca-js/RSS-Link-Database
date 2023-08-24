@@ -124,6 +124,12 @@
  - user: rumpel
  - tags: ['nsa', 'privacy', 'big brother', 'backdoor', 'manufacturing consent', 'big tech', 'microsoft']
 
+## Use Android? You’re Probably Giving Google All Your Wifi Passwords
+ - [https://micahflee.com/2013/07/use-android-youre-probably-giving-google-all-your-wifi-passwords/](https://micahflee.com/2013/07/use-android-youre-probably-giving-google-all-your-wifi-passwords/)
+ - date published: 2013-07-11T12:04:49+00:00
+ - user: None
+ - tags: ['google', 'security', 'wifi']
+
 ## A look at the black underbelly of Windows 8.1 'Blue' | InfoWorld
  - [https://www.infoworld.com/article/2611451/a-look-at-the-black-underbelly-of-windows-8-1--blue-.html](https://www.infoworld.com/article/2611451/a-look-at-the-black-underbelly-of-windows-8-1--blue-.html)
  - date published: 2013-07-08T09:09:54+00:00

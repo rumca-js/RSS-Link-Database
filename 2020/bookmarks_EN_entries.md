@@ -370,6 +370,12 @@
  - user: None
  - tags: ['china', 'transmission', 'covid', 'wuhan']
 
+## How Kyle Rittenhouse and Joseph Rosenbaum's paths crossed in a fatal encounter | Visual Forensics
+ - [https://www.youtube.com/watch?v=LBM9Ke_JI1Q](https://www.youtube.com/watch?v=LBM9Ke_JI1Q)
+ - date published: 2020-11-19T00:00:00+00:00
+ - user: rumpel
+ - tags: ['kyle rittenhouse']
+
 ## Danish study finds face masks provide limited protection to wearer | Reuters
  - [https://www.reuters.com/article/us-health-coronavirus-facemasks-idUSKBN27Y1YW](https://www.reuters.com/article/us-health-coronavirus-facemasks-idUSKBN27Y1YW)
  - date published: 2020-11-18T19:57:37+00:00

@@ -694,6 +694,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Kyle Rittenhouse's Acquittal
+ - [https://www.youtube.com/watch?v=HPodw7efhfc](https://www.youtube.com/watch?v=HPodw7efhfc)
+ - date published: 2021-11-26T00:00:00+00:00
+ - user: rumpel
+ - tags: ['kyle rittenhouse', 'propaganda']
+
 ## Is my cat Turing-complete? | Belay the C++
  - [https://belaycpp.com/2021/11/24/is-my-cat-turing-complete/](https://belaycpp.com/2021/11/24/is-my-cat-turing-complete/)
  - date published: 2021-11-25T09:07:25.768886+00:00
@@ -723,12 +729,6 @@
  - date published: 2021-11-24T11:40:03+00:00
  - user: rumpel
  - tags: ['covid', 'vaccine']
-
-## Kyle Rittenhouse's trial exposes biases among left-leaning media
- - [https://news.yahoo.com/kyle-rittenhouses-trial-exposes-biases-205230938.html](https://news.yahoo.com/kyle-rittenhouses-trial-exposes-biases-205230938.html)
- - date published: 2021-11-24T08:13:59+00:00
- - user: rumpel
- - tags: ['the left wing', 'propaganda', 'black lives matter', 'media bias', 'blm', 'kyle rittenhouse']
 
 ## My journey to type checking 7521 lines of Python
  - [https://nskm.xyz/posts/stcmp2/](https://nskm.xyz/posts/stcmp2/)
@@ -794,7 +794,7 @@
  - [https://www.washingtonexaminer.com/news/gofundme-reverses-ban-on-kyle-rittenhouse-fundraisers-after-acquittal](https://www.washingtonexaminer.com/news/gofundme-reverses-ban-on-kyle-rittenhouse-fundraisers-after-acquittal)
  - date published: 2021-11-20T20:41:41+00:00
  - user: rumpel
- - tags: ['kyle rittenhouse']
+ - tags: ['kyle rittenhouse', 'censorship', 'gofundme']
 
 ## Cats track their owners’ movements, research finds | Cats | The Guardian
  - [https://www.theguardian.com/lifeandstyle/2021/nov/10/cats-track-their-owners-movements-research-finds](https://www.theguardian.com/lifeandstyle/2021/nov/10/cats-track-their-owners-movements-research-finds)
@@ -873,6 +873,12 @@
  - date published: 2021-11-17T21:11:58+00:00
  - user: rumpel
  - tags: ['jeffrey epstein', 'ghislaine maxwell']
+
+## The Media's Verdict on Kyle Rittenhouse
+ - [https://www.thefp.com/p/the-medias-verdict-on-kyle-rittenhouse](https://www.thefp.com/p/the-medias-verdict-on-kyle-rittenhouse)
+ - date published: 2021-11-17T09:05:24+00:00
+ - user: rumpel
+ - tags: ['the left wing', 'propaganda', 'media bias', 'kyle rittenhouse']
 
 ## Freddie Sayers investigates Austria's lockdown of the unvaccinated
  - [https://www.youtube.com/watch?v=y9io1MZz_7E](https://www.youtube.com/watch?v=y9io1MZz_7E)
@@ -1233,6 +1239,12 @@
  - date published: 2021-10-28T11:17:37.725544+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## A Fatal Night in Kenosha: How the Rittenhouse Shootings Unfolded | Visual Investigations
+ - [https://www.youtube.com/watch?v=VpTW2AJE9MQ](https://www.youtube.com/watch?v=VpTW2AJE9MQ)
+ - date published: 2021-10-28T00:00:00+00:00
+ - user: rumpel
+ - tags: ['kyle rittenhouse']
 
 ## ‘I left university and adopted my brother and sister’ - BBC News
  - [https://www.bbc.co.uk/news/stories-59009682](https://www.bbc.co.uk/news/stories-59009682)
