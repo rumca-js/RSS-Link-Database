@@ -1,3 +1,9 @@
+## Bolt zacznie nagrywać Polaków. Projekt budzi kontrowersje
+ - [https://www.rp.pl/transport/art38995261-bolt-zacznie-nagrywac-polakow-projekt-budzi-kontrowersje](https://www.rp.pl/transport/art38995261-bolt-zacznie-nagrywac-polakow-projekt-budzi-kontrowersje)
+ - date published: 2023-08-24T01:16:30.138756+00:00
+ - user: rumpel
+ - tags: ['privac', 'technofeudalism', 'bolt', 'poland', 'surveillance']
+
 ## Znikająca Hiszpania
  - [https://forsal.pl/gospodarka/demografia/artykuly/9220831,znikajaca-hiszpania.html](https://forsal.pl/gospodarka/demografia/artykuly/9220831,znikajaca-hiszpania.html)
  - date published: 2023-08-17T04:00:35+00:00

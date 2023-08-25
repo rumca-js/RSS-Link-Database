@@ -1,3 +1,15 @@
+## Watch all episodes of The Chosen for free
+ - [https://watch.thechosen.tv/](https://watch.thechosen.tv/)
+ - date published: 2023-08-24T20:15:12+00:00
+ - user: rumpel
+ - tags: ['religion']
+
+## RELEASE: After years of opposition, Apple calls for passage of Right to Repair in California
+ - [https://pirg.org/media-center/release-after-years-of-opposition-apple-calls-for-passage-of-right-to-repair-in-california/](https://pirg.org/media-center/release-after-years-of-opposition-apple-calls-for-passage-of-right-to-repair-in-california/)
+ - date published: 2023-08-23T09:56:50+00:00
+ - user: rumpel
+ - tags: ['right to repair']
+
 ## Meta Pays Supposedly Independent Australian “Fact-Checkers” 800 Dollars Per Fact-Check
  - [https://reclaimthenet.org/meta-pays-supposedly-independent-australian-fact-checkers-800-dollars-per-fact-check](https://reclaimthenet.org/meta-pays-supposedly-independent-australian-fact-checkers-800-dollars-per-fact-check)
  - date published: 2023-08-21T18:49:20+00:00
@@ -129,6 +141,12 @@
  - date published: 2023-08-14T04:00:00+00:00
  - user: rumpel
  - tags: ['vulnerability']
+
+## AI facial recognition led to 8-month pregnant woman's wrongful carjacking arrest in front of kids: lawsuit
+ - [https://www.foxnews.com/us/ai-facial-recognition-led-8-month-pregnant-womans-wrongful-carjacking-arrest-front-kids-lawsuit](https://www.foxnews.com/us/ai-facial-recognition-led-8-month-pregnant-womans-wrongful-carjacking-arrest-front-kids-lawsuit)
+ - date published: 2023-08-14T02:00:39+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence', 'facial recognition', 'biometrics']
 
 ## Brave's Independent Search Engine Is Finally Good
  - [https://www.youtube.com/watch?v=Uu1Gc3GM7CM](https://www.youtube.com/watch?v=Uu1Gc3GM7CM)
