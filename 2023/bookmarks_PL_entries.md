@@ -694,7 +694,7 @@
  - [https://www.onet.pl/informacje/onetwiadomosci/szokujace-ustalenia-prokuratury-w-sprawie-ksiedza-pedofila-nie-poniosl-kary/yns502l,79cfc278](https://www.onet.pl/informacje/onetwiadomosci/szokujace-ustalenia-prokuratury-w-sprawie-ksiedza-pedofila-nie-poniosl-kary/yns502l,79cfc278)
  - date published: 2023-01-11T15:32:06+00:00
  - user: rumpel
- - tags: ['church scandal', 'religion']
+ - tags: ['church scandal']
 
 ## Karcher przyznał się do zawyżania cen sprzętu w Polsce przez ponad 20 lat - Instalki.pl
  - [https://www.instalki.pl/aktualnosci/hardware/57669-karcher-przyznal-sie-do-zawyzania-cen-sprzetu-w-polsce-przez-ponad-20-lat.html](https://www.instalki.pl/aktualnosci/hardware/57669-karcher-przyznal-sie-do-zawyzania-cen-sprzetu-w-polsce-przez-ponad-20-lat.html)

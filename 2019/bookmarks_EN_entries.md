@@ -284,7 +284,7 @@
  - [https://www.irishcentral.com/news/bishop-mccarrick-crimes](https://www.irishcentral.com/news/bishop-mccarrick-crimes)
  - date published: 2019-09-30T15:33:50+00:00
  - user: rumpel
- - tags: ['church scandal', 'religion', 'catholic']
+ - tags: ['church scandal', 'catholic']
 
 ## Playing more video games could increase creative thinking at work
  - [https://www.weforum.org/agenda/2019/09/gamification-revolutionise-creative-thinking](https://www.weforum.org/agenda/2019/09/gamification-revolutionise-creative-thinking)
@@ -626,7 +626,7 @@
  - [https://www.cnn.com/2019/06/04/us/catholic-church-300-million-abuse-claims/index.html](https://www.cnn.com/2019/06/04/us/catholic-church-300-million-abuse-claims/index.html)
  - date published: 2019-06-04T22:39:57+00:00
  - user: rumpel
- - tags: ['church scandal', 'catholic', 'religion']
+ - tags: ['church scandal', 'catholic']
 
 ## Why should you read “The Master and Margarita”? - Alex Gendler
  - [https://www.youtube.com/watch?v=miNBicrLiXo](https://www.youtube.com/watch?v=miNBicrLiXo)

@@ -1558,6 +1558,12 @@
  - user: rumpel
  - tags: ['government control', 'surveillance', 'big brother', 'crypto wars', 'privacy', 'earn it act', 'encryption']
 
+## Socialist Tells Ben Shapiro: Workers Should Own the Means of Production
+ - [https://www.youtube.com/watch?v=3xq-q6a9tCM](https://www.youtube.com/watch?v=3xq-q6a9tCM)
+ - date published: 2020-03-08T00:00:00+00:00
+ - user: rumpel
+ - tags: ['ben shapiro', 'social democracy']
+
 ## A Military-Funded Biosensor Could Be the Future of Pandemic Detection - Defense One
  - [https://www.defenseone.com/technology/2020/03/military-funded-biosensor-could-be-future-pandemic-detection/163497/](https://www.defenseone.com/technology/2020/03/military-funded-biosensor-could-be-future-pandemic-detection/163497/)
  - date published: 2020-03-03T20:13:44+00:00

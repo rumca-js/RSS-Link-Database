@@ -266,7 +266,7 @@
  - [https://businessinsider.com.pl/wiadomosci/arcybiskup-slawoj-leszek-glodz-ukarany-ma-majatek-wart-miliony/bw0gs42?utm_source=duckduckgo.com_viasg_businessinsider&utm_medium=referal&utm_campaign=leo_automatic&srcc=undefined&utm_v=2](https://businessinsider.com.pl/wiadomosci/arcybiskup-slawoj-leszek-glodz-ukarany-ma-majatek-wart-miliony/bw0gs42?utm_source=duckduckgo.com_viasg_businessinsider&utm_medium=referal&utm_campaign=leo_automatic&srcc=undefined&utm_v=2)
  - date published: 2021-03-30T07:29:28+00:00
  - user: rumpel
- - tags: ['church scandal', 'religion', 'slawoj leszek glodz', 'catholic']
+ - tags: ['catholic', 'church scandal', 'slawoj leszek glodz']
 
 ## Lockdown, zakaz spotkań i godzina policyjna. Jakie obostrzenia obowiązują w innych krajach Europy?
  - [https://next.gazeta.pl/next/7,151003,26916907,lockdown-zakaz-spotkan-i-godzina-policyjna-jakie-obostrzenia.html](https://next.gazeta.pl/next/7,151003,26916907,lockdown-zakaz-spotkan-i-godzina-policyjna-jakie-obostrzenia.html)

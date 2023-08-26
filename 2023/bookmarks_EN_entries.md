@@ -1,14 +1,56 @@
+## Web Scraping for Me, but Not for Thee
+ - [https://blog.ericgoldman.org/archives/2023/08/web-scraping-for-me-but-not-for-thee-guest-blog-post.htm](https://blog.ericgoldman.org/archives/2023/08/web-scraping-for-me-but-not-for-thee-guest-blog-post.htm)
+ - date published: 2023-08-25T19:44:30.396266+00:00
+ - user: rumpel
+ - tags: ['web scraping']
+
+## The Wikipedia Propaganda Machine
+ - [https://www.youtube.com/watch?v=rj76CcZt1m4](https://www.youtube.com/watch?v=rj76CcZt1m4)
+ - date published: 2023-08-25T15:28:34.249454+00:00
+ - user: rumpel
+ - tags: ['propaganda', 'wikipedia']
+
+## ShareDrop
+ - [https://www.sharedrop.io/](https://www.sharedrop.io/)
+ - date published: 2023-08-25T11:40:04+00:00
+ - user: rumpel
+ - tags: ['selfhost', 'project']
+
+## Paper cups are just as toxic as plastic cups
+ - [https://www.gu.se/en/news/paper-cups-are-just-as-toxic-as-plastic-cups](https://www.gu.se/en/news/paper-cups-are-just-as-toxic-as-plastic-cups)
+ - date published: 2023-08-25T11:10:46.356898+00:00
+ - user: rumpel
+ - tags: ['pollution']
+
+## New York Times, CNN and ABC block OpenAI’s GPTBot web crawler from accessing content
+ - [https://www.theguardian.com/technology/2023/aug/25/new-york-times-cnn-and-abc-block-openais-gptbot-web-crawler-from-scraping-content](https://www.theguardian.com/technology/2023/aug/25/new-york-times-cnn-and-abc-block-openais-gptbot-web-crawler-from-scraping-content)
+ - date published: 2023-08-25T01:30:29.555238+00:00
+ - user: rumpel
+ - tags: ['openai', 'chatgpt']
+
 ## Watch all episodes of The Chosen for free
  - [https://watch.thechosen.tv/](https://watch.thechosen.tv/)
  - date published: 2023-08-24T20:15:12+00:00
  - user: rumpel
  - tags: ['religion']
 
+## LANDrop – Drop any files to any devices on your LAN
+ - [https://landrop.app/](https://landrop.app/)
+ - date published: 2023-08-24T20:03:36.812017+00:00
+ - user: rumpel
+ - tags: ['selfhost', 'project']
+
 ## RELEASE: After years of opposition, Apple calls for passage of Right to Repair in California
  - [https://pirg.org/media-center/release-after-years-of-opposition-apple-calls-for-passage-of-right-to-repair-in-california/](https://pirg.org/media-center/release-after-years-of-opposition-apple-calls-for-passage-of-right-to-repair-in-california/)
  - date published: 2023-08-23T09:56:50+00:00
  - user: rumpel
  - tags: ['right to repair']
+
+## San Francisco Roman Catholic archdiocese files for bankruptcy amid sex abuse lawsuits
+ - [https://www.foxnews.com/us/san-francisco-roman-catholic-archdiocese-files-bankruptcy-amid-sex-abuse-lawsuits](https://www.foxnews.com/us/san-francisco-roman-catholic-archdiocese-files-bankruptcy-amid-sex-abuse-lawsuits)
+ - date published: 2023-08-21T19:17:41+00:00
+ - user: rumpel
+ - tags: ['church scandal']
 
 ## Meta Pays Supposedly Independent Australian “Fact-Checkers” 800 Dollars Per Fact-Check
  - [https://reclaimthenet.org/meta-pays-supposedly-independent-australian-fact-checkers-800-dollars-per-fact-check](https://reclaimthenet.org/meta-pays-supposedly-independent-australian-fact-checkers-800-dollars-per-fact-check)
@@ -58,6 +100,12 @@
  - user: rumpel
  - tags: ['surveillance', 'fbi']
 
+## Cologne Catholic diocese clergy and staff used work computers for porn, German media reports
+ - [https://www.bbc.co.uk/news/world-europe-66543503?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-66543503?at_medium=RSS&at_campaign=KARANGA)
+ - date published: 2023-08-18T12:10:26+00:00
+ - user: rumpel
+ - tags: ['church scandal']
+
 ## UK birth slump dubbed ‘good for planet’
  - [https://www.telegraph.co.uk/business/2023/08/17/20-year-low-for-baby-born-in-england-good-news-for-planet/](https://www.telegraph.co.uk/business/2023/08/17/20-year-low-for-baby-born-in-england-good-news-for-planet/)
  - date published: 2023-08-18T11:34:57+00:00
@@ -75,6 +123,12 @@
  - date published: 2023-08-17T21:55:15+00:00
  - user: rumpel
  - tags: ['global warming', 'climate change']
+
+## Pro-life UK man charged for praying by abortion clinic has ‘chilling’ warning for US: It could happen to you
+ - [https://www.foxnews.com/media/pro-life-uk-man-charged-praying-abortion-clinic-chilling-warning-us-could-happen-you](https://www.foxnews.com/media/pro-life-uk-man-charged-praying-abortion-clinic-chilling-warning-us-could-happen-you)
+ - date published: 2023-08-17T16:00:30+00:00
+ - user: rumpel
+ - tags: ['england', 'christianophobia']
 
 ## 90% of Great Lakes water samples have unsafe microplastic levels – report
  - [https://www.theguardian.com/environment/2023/aug/17/great-lakes-water-microplastic-pollution-contamination](https://www.theguardian.com/environment/2023/aug/17/great-lakes-water-microplastic-pollution-contamination)
@@ -507,6 +561,12 @@
  - date published: 2023-07-28T21:01:41+00:00
  - user: rumpel
  - tags: ['online safety bill', 'privacy', 'surveillance', 'crypto wars']
+
+## Catholic diocese agrees to pay $100 million settlement to hundreds of abuse victims
+ - [https://www.nbcnews.com/news/us-news/catholic-diocese-agrees-pay-100-million-settlement-hundreds-abuse-vict-rcna96904](https://www.nbcnews.com/news/us-news/catholic-diocese-agrees-pay-100-million-settlement-hundreds-abuse-vict-rcna96904)
+ - date published: 2023-07-28T19:53:52+00:00
+ - user: rumpel
+ - tags: ['church scandal']
 
 ## Government vs. Free Speech
  - [https://www.wsj.com/articles/government-vs-free-speech-deda9dce](https://www.wsj.com/articles/government-vs-free-speech-deda9dce)
@@ -2222,7 +2282,7 @@
  - [https://www.wsj.com/articles/spains-catholic-church-finds-church-personnel-abused-hundreds-3047140a](https://www.wsj.com/articles/spains-catholic-church-finds-church-personnel-abused-hundreds-3047140a)
  - date published: 2023-06-02T15:14:00+00:00
  - user: rumpel
- - tags: ['church scandal', 'spain', 'religion']
+ - tags: ['spain', 'church scandal']
 
 ## Sleepless nights, letter to Nassar: Epstein’s final days revealed
  - [https://www.aljazeera.com/economy/2023/6/2/sleepless-nights-letter-to-nassar-epsteins-final-days-revealed](https://www.aljazeera.com/economy/2023/6/2/sleepless-nights-letter-to-nassar-epsteins-final-days-revealed)
@@ -2576,7 +2636,7 @@
  - [https://www.aljazeera.com/news/2023/5/24/illinois-probe-reveals-rampant-sexual-abuse-in-catholic-church](https://www.aljazeera.com/news/2023/5/24/illinois-probe-reveals-rampant-sexual-abuse-in-catholic-church)
  - date published: 2023-05-24T01:02:08+00:00
  - user: rumpel
- - tags: ['church scandal', 'religion', 'catholic']
+ - tags: ['church scandal', 'catholic']
 
 ## ‘A Dangerous Path’: Christian Banned From Teaching After ‘Misgendering’ Student
  - [https://www.dailywire.com/news/a-dangerous-path-christian-banned-from-teaching-after-misgendering-student](https://www.dailywire.com/news/a-dangerous-path-christian-banned-from-teaching-after-misgendering-student)
@@ -4810,6 +4870,12 @@
  - user: rumpel
  - tags: ['crisis']
 
+## Świadectwo energetyczne budynku 2023 - od kiedy obowiązkowe? Kto musi mieć świadectwo energetyczne? Kto je wystawia? - murator.pl
+ - [https://muratordom.pl/prawo/formalnosci-budowlane/swiadectwo-energetyczne-budynku-2023-kto-musi-miec-od-kiedy-obowiazkowe-kto-wydaje-swiadectwo-energetyczne-aa-4x7T-Y5yx-D8eE.html](https://muratordom.pl/prawo/formalnosci-budowlane/swiadectwo-energetyczne-budynku-2023-kto-musi-miec-od-kiedy-obowiazkowe-kto-wydaje-swiadectwo-energetyczne-aa-4x7T-Y5yx-D8eE.html)
+ - date published: 2023-03-10T20:58:18+00:00
+ - user: rumpel
+ - tags: ['big brother', 'climate change']
+
 ## Disney Plus is in BIG Trouble (And They're Not Alone)
  - [https://www.youtube.com/watch?v=4N88pOhyKyE](https://www.youtube.com/watch?v=4N88pOhyKyE)
  - date published: 2023-03-10T20:28:59+00:00
@@ -5504,7 +5570,7 @@
  - [https://www.lemonde.fr/en/international/article/2023/02/15/portuguese-catholic-church-shaken-by-report-of-5-000-child-victims-of-sexual-abuse_6015830_4.html](https://www.lemonde.fr/en/international/article/2023/02/15/portuguese-catholic-church-shaken-by-report-of-5-000-child-victims-of-sexual-abuse_6015830_4.html)
  - date published: 2023-02-15T03:09:24+00:00
  - user: rumpel
- - tags: ['portugal', 'church scandal', 'catholic', 'religion']
+ - tags: ['portugal', 'church scandal', 'catholic']
 
 ## Yes, Elon Musk created a special system for showing you all his tweets first
  - [https://www.theverge.com/2023/2/14/23600358/elon-musk-tweets-algorithm-changes-twitter](https://www.theverge.com/2023/2/14/23600358/elon-musk-tweets-algorithm-changes-twitter)

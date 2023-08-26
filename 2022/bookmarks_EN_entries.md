@@ -1090,6 +1090,12 @@
  - user: None
  - tags: ['european union', 'qatar', 'corruption']
 
+## Argentina is not black enough for the Washington Post | Washington Examiner
+ - [https://www.washingtonexaminer.com/opinion/argentina-is-not-black-enough-for-the-washington-post](https://www.washingtonexaminer.com/opinion/argentina-is-not-black-enough-for-the-washington-post)
+ - date published: 2022-12-13T11:43:36+00:00
+ - user: rumpel
+ - tags: ['racism']
+
 ## As ESG Is Gamed With Greenwashing, Better Energy Uses Future Fit.
  - [https://www.forbes.com/sites/roslynlayton/2022/12/13/as-esg-is-gamed-with-greenwashing-better-energy-uses-future-fit/](https://www.forbes.com/sites/roslynlayton/2022/12/13/as-esg-is-gamed-with-greenwashing-better-energy-uses-future-fit/)
  - date published: 2022-12-13T09:01:53+00:00
@@ -1275,6 +1281,12 @@
  - date published: 2022-12-10T12:00:09+00:00
  - user: None
  - tags: ['twitter', 'twitter files', 'censorship']
+
+## Argentina is not black enough for the Washington Post
+ - [https://twitter.com/LLibertadAvanza/status/1601659384572309504?ref_src=twsrc%5Etfw](https://twitter.com/LLibertadAvanza/status/1601659384572309504?ref_src=twsrc%5Etfw)
+ - date published: 2022-12-10T11:45:43+00:00
+ - user: rumpel
+ - tags: ['racism']
 
 ## Keep Your Identity Small (2009)
  - [http://www.paulgraham.com/identity.html](http://www.paulgraham.com/identity.html)

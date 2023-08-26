@@ -82,6 +82,12 @@
  - user: None
  - tags: ['blackrock', 'larry fink', 'esg']
 
+## Elon Musk Explains Why SpaceX Only Hires Americans | Inverse
+ - [https://m.youtube.com/watch?v=CIvtiNpKEY0](https://m.youtube.com/watch?v=CIvtiNpKEY0)
+ - date published: 2016-09-28T00:00:00+00:00
+ - user: rumpel
+ - tags: ['racism', 'the left wing', 'social democracy']
+
 ## Letter to the Editor: Why Dr. Tedros Adhanom should not lead the World Health Organization - Addis Standard
  - [https://addisstandard.com/letter-editor-dr-tedros-adhanom-not-lead-world-health-organization/](https://addisstandard.com/letter-editor-dr-tedros-adhanom-not-lead-world-health-organization/)
  - date published: 2016-09-27T20:52:39+00:00
