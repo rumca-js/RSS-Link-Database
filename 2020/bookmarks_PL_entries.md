@@ -182,7 +182,7 @@
  - [https://www.rp.pl/prawo-w-firmie/art8821281-pracodawca-moze-zwolnic-pracownika-za-odmowe-szczepienia](https://www.rp.pl/prawo-w-firmie/art8821281-pracodawca-moze-zwolnic-pracownika-za-odmowe-szczepienia)
  - date published: 2020-09-16T20:00:16+00:00
  - user: rumpel
- - tags: ['mandates', 'covid', 'vaccine']
+ - tags: ['covid mandates', 'covid', 'vaccine']
 
 ## Chińscy hakerzy latami kontrolowali systemy TeamViewera – i nie tylko
  - [https://zaufanatrzeciastrona.pl/post/chinscy-hakerzy-latami-kontrolowali-systemy-teamviewera-i-nie-tylko/](https://zaufanatrzeciastrona.pl/post/chinscy-hakerzy-latami-kontrolowali-systemy-teamviewera-i-nie-tylko/)

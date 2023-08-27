@@ -62,7 +62,7 @@
  - [https://www.thelocal.fr/20201222/the-everyday-restrictions-people-who-refuse-the-covid-19-vaccine-in-france-could-face](https://www.thelocal.fr/20201222/the-everyday-restrictions-people-who-refuse-the-covid-19-vaccine-in-france-could-face)
  - date published: 2020-12-23T06:50:16+00:00
  - user: rumpel
- - tags: ['mandates', 'covid', 'vaccine']
+ - tags: ['covid mandates', 'covid', 'vaccine']
 
 ## Zoom Shared US User Data With Beijing
  - [https://www.ntd.com/zoom-shared-us-user-data-with-beijing_544087.html](https://www.ntd.com/zoom-shared-us-user-data-with-beijing_544087.html)
@@ -74,7 +74,7 @@
  - [https://summit.news/2020/12/22/french-law-would-ban-people-who-dont-get-covid-vaccine-from-using-public-transport/](https://summit.news/2020/12/22/french-law-would-ban-people-who-dont-get-covid-vaccine-from-using-public-transport/)
  - date published: 2020-12-22T22:07:50+00:00
  - user: rumpel
- - tags: ['vaccine', 'mandates', 'france', 'covid']
+ - tags: ['vaccine', 'covid mandates', 'france', 'covid']
 
 ## Why is Facebook censoring private messages?
  - [https://www.quora.com/Why-is-Facebook-censoring-private-messages?share=1](https://www.quora.com/Why-is-Facebook-censoring-private-messages?share=1)
@@ -206,7 +206,7 @@
  - [https://theconversation.com/what-psychology-can-tell-us-about-why-some-people-dont-wear-masks-and-how-to-change-their-minds-150343](https://theconversation.com/what-psychology-can-tell-us-about-why-some-people-dont-wear-masks-and-how-to-change-their-minds-150343)
  - date published: 2020-12-09T10:01:53+00:00
  - user: rumpel
- - tags: ['masks', 'propaganda', 'mandates', 'covid']
+ - tags: ['masks', 'propaganda', 'covid mandates', 'covid']
 
 ## SoCal restaurant owners defy orders to close despite regional stay-at-home order - ABC7 Los Angeles
  - [https://abc7.com/california-coronavirus-socal-lockdown-stay-at-home-order-gov-gavin-newsom/8595340/](https://abc7.com/california-coronavirus-socal-lockdown-stay-at-home-order-gov-gavin-newsom/8595340/)
@@ -1028,13 +1028,13 @@
  - [https://theconversation.com/a-200-fine-for-not-wearing-a-mask-is-fair-as-long-as-free-masks-go-to-those-in-need-142988](https://theconversation.com/a-200-fine-for-not-wearing-a-mask-is-fair-as-long-as-free-masks-go-to-those-in-need-142988)
  - date published: 2020-07-22T09:56:58+00:00
  - user: rumpel
- - tags: ['masks', 'propaganda', 'mandates', 'covid']
+ - tags: ['masks', 'propaganda', 'covid mandates', 'covid']
 
 ## Shaming people who refuse to wear face masks isn’t a good look
  - [https://www.theguardian.com/commentisfree/2020/jul/22/shaming-people-who-refuse-to-wear-face-masks-isnt-a-good-look](https://www.theguardian.com/commentisfree/2020/jul/22/shaming-people-who-refuse-to-wear-face-masks-isnt-a-good-look)
  - date published: 2020-07-22T06:00:05+00:00
  - user: rumpel
- - tags: ['masks', 'propaganda', 'mandates', 'covid']
+ - tags: ['masks', 'propaganda', 'covid mandates', 'covid']
 
 ## Gunmen Kill 18 Wedding Guests in Northern Nigeria
  - [https://www.thedefensepost.com/2020/07/21/gunmen-wedding-nigeria/](https://www.thedefensepost.com/2020/07/21/gunmen-wedding-nigeria/)
@@ -1166,7 +1166,7 @@
  - [https://edition.cnn.com/2020/06/25/health/face-mask-guidance-covid-19/index.html](https://edition.cnn.com/2020/06/25/health/face-mask-guidance-covid-19/index.html)
  - date published: 2020-06-29T09:48:31+00:00
  - user: rumpel
- - tags: ['masks', 'mandates', 'covid']
+ - tags: ['masks', 'covid mandates', 'covid']
 
 ## "Reddit will allow racist hate speech directed at ""majority"" populations and conservatives"
  - [https://twitter.com/TomFitton/status/1277667890913738753](https://twitter.com/TomFitton/status/1277667890913738753)
@@ -1196,7 +1196,7 @@
  - [https://www.theverge.com/21303553/face-mask-coronavirus-cdc-etiquette-public](https://www.theverge.com/21303553/face-mask-coronavirus-cdc-etiquette-public)
  - date published: 2020-06-25T10:00:20+00:00
  - user: rumpel
- - tags: ['propaganda', 'fearmongering', 'mask', 'covid', 'mandates']
+ - tags: ['propaganda', 'fearmongering', 'mask', 'covid', 'covid mandates']
 
 ## Why the Lawful Access to Encrypted Data Act is a Threat to your Privacy
  - [https://www.globalsign.com/en/blog/why-lawful-access-encrypted-data-act-threat-your-rights-and-privacy](https://www.globalsign.com/en/blog/why-lawful-access-encrypted-data-act-threat-your-rights-and-privacy)
@@ -1323,6 +1323,12 @@
  - date published: 2020-05-27T19:48:09+00:00
  - user: rumpel
  - tags: ['covid']
+
+## Critical analysis of Andersen et al. The proximal origin of SARS-CoV-2
+ - [https://drasticresearch.files.wordpress.com/2023/05/an-argument-against-natural-covid-19-creation-copy-2.pdf](https://drasticresearch.files.wordpress.com/2023/05/an-argument-against-natural-covid-19-creation-copy-2.pdf)
+ - date published: 2020-05-26T14:16:40+00:00
+ - user: rumpel
+ - tags: ['covid', 'wuhan', 'lab leak']
 
 ## Swedish economy on track for 7% contraction this year - Fin Min | Reuters
  - [https://www.reuters.com/article/health-coronavirus-sweden-economy/swedish-economy-on-track-for-7-contraction-this-year-fin-min-idUSS3N29P01Z](https://www.reuters.com/article/health-coronavirus-sweden-economy/swedish-economy-on-track-for-7-contraction-this-year-fin-min-idUSS3N29P01Z)
@@ -1496,7 +1502,7 @@
  - [https://london.ctvnews.ca/london-unveils-snitch-line-for-covid-19-rule-violations-1.4871449](https://london.ctvnews.ca/london-unveils-snitch-line-for-covid-19-rule-violations-1.4871449)
  - date published: 2020-03-27T20:26:52+00:00
  - user: rumpel
- - tags: ['mandates', 'england', 'covid', 'snitch line']
+ - tags: ['covid mandates', 'england', 'covid', 'snitch line']
 
 ## NYC's Footprint Amid The COVID-19 Outbreak
  - [https://www.youtube.com/watch?v=Q5BFrDocPNs](https://www.youtube.com/watch?v=Q5BFrDocPNs)

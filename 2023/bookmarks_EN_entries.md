@@ -4,6 +4,12 @@
  - user: rumpel
  - tags: ['web scraping']
 
+## Paper drinking straws may be harmful and may not be better for the environment than plastic versions | ScienceDaily
+ - [https://www.sciencedaily.com/releases/2023/08/230825122044.htm#:~:text=PFAS%20were%20found%20in%20the,to%20water%2C%20heat%20and%20stains.](https://www.sciencedaily.com/releases/2023/08/230825122044.htm#:~:text=PFAS%20were%20found%20in%20the,to%20water%2C%20heat%20and%20stains.)
+ - date published: 2023-08-25T17:18:31+00:00
+ - user: rumpel
+ - tags: ['pollution']
+
 ## The Wikipedia Propaganda Machine
  - [https://www.youtube.com/watch?v=rj76CcZt1m4](https://www.youtube.com/watch?v=rj76CcZt1m4)
  - date published: 2023-08-25T15:28:34.249454+00:00
@@ -21,6 +27,12 @@
  - date published: 2023-08-25T11:10:46.356898+00:00
  - user: rumpel
  - tags: ['pollution']
+
+## Greece wildfires: 79 people arrested for arson
+ - [https://www.bbc.co.uk/news/uk-66612781?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/uk-66612781?at_medium=RSS&at_campaign=KARANGA)
+ - date published: 2023-08-25T06:51:11.537302+00:00
+ - user: rumpel
+ - tags: ['greece', 'global warming', 'climate change']
 
 ## New York Times, CNN and ABC block OpenAI’s GPTBot web crawler from accessing content
  - [https://www.theguardian.com/technology/2023/aug/25/new-york-times-cnn-and-abc-block-openais-gptbot-web-crawler-from-scraping-content](https://www.theguardian.com/technology/2023/aug/25/new-york-times-cnn-and-abc-block-openais-gptbot-web-crawler-from-scraping-content)
@@ -94,6 +106,12 @@
  - user: rumpel
  - tags: ['wikipedia']
 
+## Hawaii wildfires: Maui emergency chief quits after sirens criticism - BBC News
+ - [https://www.bbc.co.uk/news/world-us-canada-66540472](https://www.bbc.co.uk/news/world-us-canada-66540472)
+ - date published: 2023-08-18T17:06:51+00:00
+ - user: rumpel
+ - tags: ['hawaii', 'global warming', 'climate change']
+
 ## Deja Vu: The FBI Proves Again It Can’t Be Trusted with Section 702
  - [https://www.eff.org/deeplinks/2023/07/deja-vu-fbi-proves-again-it-cant-be-trusted-section-702](https://www.eff.org/deeplinks/2023/07/deja-vu-fbi-proves-again-it-cant-be-trusted-section-702)
  - date published: 2023-08-18T15:07:32+00:00
@@ -164,7 +182,7 @@
  - [https://twitter.com/Alec_Zeck/status/1691555105034629391?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1691555105034629391%7Ctwgr%5Eb7c627f44c0e4e5e66b72b609d241ab5c8186c2d%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.newswars.com%2Fpolice-formed-blockade-prevented-people-from-evacuating-lahaina-wildfire-maui-resident-claims%2F](https://twitter.com/Alec_Zeck/status/1691555105034629391?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1691555105034629391%7Ctwgr%5Eb7c627f44c0e4e5e66b72b609d241ab5c8186c2d%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.newswars.com%2Fpolice-formed-blockade-prevented-people-from-evacuating-lahaina-wildfire-maui-resident-claims%2F)
  - date published: 2023-08-15T17:53:12+00:00
  - user: rumpel
- - tags: ['maui fires', 'climate change']
+ - tags: ['hawaii', 'climate change']
 
 ## Paedophile priest Gerald Ridsdale sentenced to eighth jail term over historic abuse - ABC News
  - [https://www.abc.net.au/news/2023-08-15/paedophile-priest-gerald-ridsdale-sentenced-for-eighth-time/102730164](https://www.abc.net.au/news/2023-08-15/paedophile-priest-gerald-ridsdale-sentenced-for-eighth-time/102730164)
@@ -393,6 +411,12 @@
  - date published: 2023-08-04T00:00:00+00:00
  - user: rumpel
  - tags: ['pfizer', 'vaccine', 'covid']
+
+## Pfizer claims no one was forced to get the Jab
+ - [https://www.youtube.com/watch?v=Vm9dfzGt9FI](https://www.youtube.com/watch?v=Vm9dfzGt9FI)
+ - date published: 2023-08-04T00:00:00+00:00
+ - user: rumpel
+ - tags: ['vaccine', 'covid', 'pandemic amnesty', 'covid mandates', 'pfizer']
 
 ## Patrick Bet-David Deconstructs BlackRock and ESG Ratings
  - [https://www.youtube.com/watch?v=Mvh4o6x3-GQ](https://www.youtube.com/watch?v=Mvh4o6x3-GQ)
@@ -1708,11 +1732,17 @@
  - user: rumpel
  - tags: ['web design', 'programming']
 
+## Why Stockton Rush didn't hire '50-year-old white guys' for Titanic sub tours
+ - [https://nypost.com/2023/06/21/why-stockton-rush-didnt-hire-50-year-old-white-guys-for-titanic-sub-tours/](https://nypost.com/2023/06/21/why-stockton-rush-didnt-hire-50-year-old-white-guys-for-titanic-sub-tours/)
+ - date published: 2023-06-21T05:32:15+00:00
+ - user: rumpel
+ - tags: ['racism']
+
 ## New emails show COVID vaccine mandates were based on a lie | Washington Examiner
  - [https://www.washingtonexaminer.com/opinion/new-emails-show-covid-vaccine-mandates-were-based-on-a-lie](https://www.washingtonexaminer.com/opinion/new-emails-show-covid-vaccine-mandates-were-based-on-a-lie)
  - date published: 2023-06-20T18:00:28+00:00
  - user: rumpel
- - tags: ['vaccine', 'covid']
+ - tags: ['vaccine', 'covid', 'covid mandates']
 
 ## Gitlab has introduced a five-user limit for free groups
  - [https://docs.gitlab.com/ee/user/free_user_limit.html](https://docs.gitlab.com/ee/user/free_user_limit.html)
@@ -2373,6 +2403,12 @@
  - date published: 2023-06-01T05:58:20+00:00
  - user: rumpel
  - tags: ['america', 'racism']
+
+## Complex Systems Won't Survive the Competence Crisis
+ - [https://www.palladiummag.com/2023/06/01/complex-systems-wont-survive-the-competence-crisis/](https://www.palladiummag.com/2023/06/01/complex-systems-wont-survive-the-competence-crisis/)
+ - date published: 2023-06-01T05:39:39+00:00
+ - user: rumpel
+ - tags: ['racism', 'meritocracy', 'diversity', 'the left wing']
 
 ## Urgent WordPress Update Fixes Critical Flaw in Jetpack Plugin on Million of Sites
  - [https://thehackernews.com/2023/06/urgent-wordpress-update-fixes-critical.html](https://thehackernews.com/2023/06/urgent-wordpress-update-fixes-critical.html)
@@ -3524,7 +3560,7 @@
  - [https://www.foxnews.com/media/justin-trudeau-accused-rewriting-history-claiming-never-forced-anyone-get-vaccinated](https://www.foxnews.com/media/justin-trudeau-accused-rewriting-history-claiming-never-forced-anyone-get-vaccinated)
  - date published: 2023-04-25T15:11:13+00:00
  - user: rumpel
- - tags: ['covid', 'mandates', 'vaccine', 'justin trudeau']
+ - tags: ['covid', 'covid mandates', 'vaccine', 'justin trudeau']
 
 ## Florida surgeon general altered Covid-19 vaccine analysis to suggest higher risk for younger men -- Politico | CNN
  - [https://edition.cnn.com/2023/04/25/health/florida-covid-vaccine-analysis-ladapo/index.html](https://edition.cnn.com/2023/04/25/health/florida-covid-vaccine-analysis-ladapo/index.html)
@@ -3554,7 +3590,7 @@
  - [https://www.leefang.com/p/pfizer-quietly-financed-groups-lobbying](https://www.leefang.com/p/pfizer-quietly-financed-groups-lobbying)
  - date published: 2023-04-24T20:06:32+00:00
  - user: rumpel
- - tags: ['pfizer', 'covid money', 'covid']
+ - tags: ['pfizer', 'covid mandates', 'covid', 'covid money']
 
 ## Why I'm not worried about AI causing mass unemployment
  - [https://www.understandingai.org/p/software-didnt-eat-the-world](https://www.understandingai.org/p/software-didnt-eat-the-world)
@@ -4185,6 +4221,12 @@
  - date published: 2023-04-04T05:26:05+00:00
  - user: rumpel
  - tags: ['the left wing', 'what is a woman']
+
+## Clearview AI scraped 30 billion images from Facebook and gave them to cops: it puts everyone into a 'perpetual police line-up' | Business Insider India
+ - [https://www.businessinsider.in/tech/news/clearview-ai-scraped-30-billion-images-from-facebook-and-gave-them-to-cops-it-puts-everyone-into-a-perpetual-police-line-up/articleshow/99199449.cms](https://www.businessinsider.in/tech/news/clearview-ai-scraped-30-billion-images-from-facebook-and-gave-them-to-cops-it-puts-everyone-into-a-perpetual-police-line-up/articleshow/99199449.cms)
+ - date published: 2023-04-03T19:18:23+00:00
+ - user: rumpel
+ - tags: ['big brother', 'clearview ai', 'privacy', 'surveillance', 'artificial intelligence', 'facial recognition', 'biometric']
 
 ## Twitter’s open-source code has references to “Government Requested” influence
  - [https://reclaimthenet.org/twitters-open-source-code-has-references-to-government-requested-influence](https://reclaimthenet.org/twitters-open-source-code-has-references-to-government-requested-influence)
@@ -5342,7 +5384,7 @@
  - [https://www.youtube.com/watch?v=pr0LkPMZ-qc](https://www.youtube.com/watch?v=pr0LkPMZ-qc)
  - date published: 2023-02-23T16:00:34+00:00
  - user: rumpel
- - tags: ['covid']
+ - tags: ['covid', 'covid mandates']
 
 ## New Discourses - Translations from the Wokish
  - [https://newdiscourses.com/translations-from-the-wokish/](https://newdiscourses.com/translations-from-the-wokish/)
@@ -5355,6 +5397,12 @@
  - date published: 2023-02-23T11:25:13+00:00
  - user: rumpel
  - tags: ['big tech', 'google', 'antitrust', 'app store', 'android', 'privacy', 'play store']
+
+## Popular Android apps’ Play Store privacy labels don’t match up to their claims, Mozilla says
+ - [https://techcrunch.com/2023/02/23/popular-android-apps-play-store-privacy-labels-dont-match-up-to-their-claims-mozilla-says/?guccounter=1&guce_referrer=aHR0cHM6Ly9kdWNrZHVja2dvLmNvbS8&guce_referrer_sig=AQAAAA8CMPe2xFx46GFLjx44Kny3HRbwtyZ71NqgO1zdZXMjGalUPTSQAjSJpQmtKT8CD0pNpOXg-drJuAfmwM2leVGqjRfCrJMnxtQY5HOdwlNI9vdq6gB1CuCqF953_7zmVHh6bjLmcVede8zsHPXSBPpQujuG2XP3IrZxNOJOuYW_](https://techcrunch.com/2023/02/23/popular-android-apps-play-store-privacy-labels-dont-match-up-to-their-claims-mozilla-says/?guccounter=1&guce_referrer=aHR0cHM6Ly9kdWNrZHVja2dvLmNvbS8&guce_referrer_sig=AQAAAA8CMPe2xFx46GFLjx44Kny3HRbwtyZ71NqgO1zdZXMjGalUPTSQAjSJpQmtKT8CD0pNpOXg-drJuAfmwM2leVGqjRfCrJMnxtQY5HOdwlNI9vdq6gB1CuCqF953_7zmVHh6bjLmcVede8zsHPXSBPpQujuG2XP3IrZxNOJOuYW_)
+ - date published: 2023-02-23T11:23:24+00:00
+ - user: rumpel
+ - tags: ['antitrust', 'google', 'android', 'dark design', 'privacy']
 
 ## DOJ seeks court sanctions against Google over 'intentional destruction' of chat logs | CNN Business
  - [https://edition.cnn.com/2023/02/23/tech/doj-sanctions-google-intentional-destruction-chat-logs/index.html](https://edition.cnn.com/2023/02/23/tech/doj-sanctions-google-intentional-destruction-chat-logs/index.html)
@@ -5414,7 +5462,7 @@
  - [https://www.nytimes.com/2023/02/21/opinion/do-mask-mandates-work.html](https://www.nytimes.com/2023/02/21/opinion/do-mask-mandates-work.html)
  - date published: 2023-02-21T09:45:23+00:00
  - user: rumpel
- - tags: ['masks', 'covid lie', 'covid', 'science is dead', 'mandates']
+ - tags: ['masks', 'covid lie', 'covid', 'science is dead', 'covid mandates']
 
 ## What is a 15-minute city and why is the idea so controversial?
  - [https://www.itv.com/news/2023-02-20/what-is-a-15-minute-city-and-why-is-the-idea-so-controversial](https://www.itv.com/news/2023-02-20/what-is-a-15-minute-city-and-why-is-the-idea-so-controversial)
@@ -5510,7 +5558,7 @@
  - [https://www.city-journal.org/new-cochrane-study-on-masks-and-covid](https://www.city-journal.org/new-cochrane-study-on-masks-and-covid)
  - date published: 2023-02-17T09:46:25+00:00
  - user: rumpel
- - tags: ['masks', 'mandates', 'covid', 'covid lie']
+ - tags: ['masks', 'covid mandates', 'covid', 'covid lie']
 
 ## Yes Minister and The Thick of It were flagged by beleaguered counter-terror Prevent scheme | Daily Mail Online
  - [https://www.dailymail.co.uk/news/article-11764775/Yes-Minister-flagged-beleaguered-counter-terror-Prevent-scheme.html](https://www.dailymail.co.uk/news/article-11764775/Yes-Minister-flagged-beleaguered-counter-terror-Prevent-scheme.html)
@@ -5606,7 +5654,7 @@
  - [https://www.foxnews.com/health/face-masks-difference-spread-covid-scientific-review](https://www.foxnews.com/health/face-masks-difference-spread-covid-scientific-review)
  - date published: 2023-02-14T00:17:48+00:00
  - user: rumpel
- - tags: ['masks', 'covid']
+ - tags: ['covid', 'covid mandates', 'masks']
 
 ## Why the word 'freedom' is such a useful rallying cry for protesters | CBC Radio
  - [https://www.cbc.ca/radio/checkup/what-s-your-reaction-to-the-ottawa-standoff-and-the-border-blockades-1.6349636/why-the-word-freedom-is-such-a-useful-rallying-cry-for-protesters-1.6349865](https://www.cbc.ca/radio/checkup/what-s-your-reaction-to-the-ottawa-standoff-and-the-border-blockades-1.6349636/why-the-word-freedom-is-such-a-useful-rallying-cry-for-protesters-1.6349865)
@@ -5744,7 +5792,13 @@
  - [https://teachersforchoice.org/2023/02/09/fingerprints-of-unvaccinated-nyc-teachers-flagged-to-fbi/](https://teachersforchoice.org/2023/02/09/fingerprints-of-unvaccinated-nyc-teachers-flagged-to-fbi/)
  - date published: 2023-02-09T10:44:18+00:00
  - user: rumpel
- - tags: ['mandates', 'vaccine', 'big brother', 'technofeudalism', 'covid']
+ - tags: ['covid mandates', 'vaccine', 'big brother', 'technofeudalism', 'covid']
+
+## What the Church of Satan made of Sam Smith’s ‘Unholy’ Grammys performance
+ - [https://news.yahoo.com/church-satan-made-sam-smith-064616456.html](https://news.yahoo.com/church-satan-made-sam-smith-064616456.html)
+ - date published: 2023-02-09T07:54:18+00:00
+ - user: rumpel
+ - tags: ['satanism', 'grammy']
 
 ## Google's AI chatbot, Bard, sparks a $100 billion loss in Alphabet shares : NPR
  - [https://www.npr.org/2023/02/09/1155650909/google-chatbot--error-bard-shares](https://www.npr.org/2023/02/09/1155650909/google-chatbot--error-bard-shares)
@@ -7400,7 +7454,7 @@
  - [https://dailysceptic.org/2023/01/03/state-power-and-covid-crimes/](https://dailysceptic.org/2023/01/03/state-power-and-covid-crimes/)
  - date published: 2023-01-03T07:00:00+00:00
  - user: rumpel
- - tags: ['big brother', 'mandates', 'covid']
+ - tags: ['big brother', 'covid mandates', 'covid']
 
 ## PREMIERING 1/3 at 7:30PM ET: Dr. Aaron Kheriaty: Self-Spreading Vaccines, Transhumanist Ideology, and Government Gag Orders—The New Technocracy Threatening Hippocratic Medicine and The Nuremberg Code
  - [https://www.theepochtimes.com/dr-aaron-kheriaty-self-spreading-vaccines-transhumanist-ideology-and-government-gag-orders-the-new-technocracy-threatening-hippocratic-medicine-and-the-nuremberg-code_4943584.html](https://www.theepochtimes.com/dr-aaron-kheriaty-self-spreading-vaccines-transhumanist-ideology-and-government-gag-orders-the-new-technocracy-threatening-hippocratic-medicine-and-the-nuremberg-code_4943584.html)

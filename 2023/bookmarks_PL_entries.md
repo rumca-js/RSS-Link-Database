@@ -592,7 +592,7 @@
  - [https://www.bankier.pl/wiadomosc/Nie-szczep-sie-Lekarze-zniechecajacy-do-szczepien-moga-poniesc-kare-za-swoja-postawe-8476698.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Nie-szczep-sie-Lekarze-zniechecajacy-do-szczepien-moga-poniesc-kare-za-swoja-postawe-8476698.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date published: 2023-01-23T12:40:00+00:00
  - user: rumpel
- - tags: ['censorship', 'moderation', 'covid', 'vaccine']
+ - tags: ['vaccine', 'moderation', 'censorship', 'covid', 'covid mandates']
 
 ## Postępowania przeciwko lekarzom zniechęcającym do szczepień
  - [https://www.prawo.pl/zdrowie/postepowania-przeciwko-lekarzom-zniechecajacym-do-szczepien,519414.html](https://www.prawo.pl/zdrowie/postepowania-przeciwko-lekarzom-zniechecajacym-do-szczepien,519414.html)

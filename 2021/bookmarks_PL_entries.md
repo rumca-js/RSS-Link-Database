@@ -236,7 +236,7 @@
  - [https://m.pch24.pl/nie-szczepisz-sie-nie-pracujesz-z-ludzmi-lekarz-wzywa-do-wprowadzenia-szczepionkowych-sankcji/](https://m.pch24.pl/nie-szczepisz-sie-nie-pracujesz-z-ludzmi-lekarz-wzywa-do-wprowadzenia-szczepionkowych-sankcji/)
  - date published: 2021-04-17T14:11:45+00:00
  - user: rumpel
- - tags: ['mandates', 'covid', 'vaccine']
+ - tags: ['covid mandates', 'covid', 'vaccine']
 
 ## Dyrektor CNN: Nakręcaliśmy zgony covidowe dla zwiększenia ratingów
  - [https://www.tvp.info/53301671/nagrania-dyrektora-cnn-charlie-chester-mowi-o-nakrecaniu-zgonow-na-covid-19-ujawnione-nagrania-donald-trump-i-epidemia-koronawirusa-w-usa](https://www.tvp.info/53301671/nagrania-dyrektora-cnn-charlie-chester-mowi-o-nakrecaniu-zgonow-na-covid-19-ujawnione-nagrania-donald-trump-i-epidemia-koronawirusa-w-usa)
@@ -302,7 +302,7 @@
  - [https://naszapolska.pl/2021/02/28/segregacja-sanitarna-na-swiecie-w-izraelu-dziala-od-tygodnia-a-w-innych-krajach/](https://naszapolska.pl/2021/02/28/segregacja-sanitarna-na-swiecie-w-izraelu-dziala-od-tygodnia-a-w-innych-krajach/)
  - date published: 2021-02-28T14:05:08+00:00
  - user: rumpel
- - tags: ['israel', 'covid', 'vaccine', 'segregation', 'mandates']
+ - tags: ['israel', 'covid', 'vaccine', 'segregation', 'covid mandates']
 
 ## Zawodowiec (2002) - polski film dokumentalny
  - [https://www.youtube.com/watch?v=a6AVCDMHWfg](https://www.youtube.com/watch?v=a6AVCDMHWfg)
@@ -320,7 +320,7 @@
  - [https://www.p-tv.nl/wiadomosci/306,rada-europy-brak-obowiazku-szczepienia](https://www.p-tv.nl/wiadomosci/306,rada-europy-brak-obowiazku-szczepienia)
  - date published: 2021-02-03T14:03:36+00:00
  - user: rumpel
- - tags: ['vaccine', 'segregation', 'mandates', 'covid']
+ - tags: ['vaccine', 'segregation', 'covid mandates', 'covid']
 
 ## Rząd nowelizuje ustawę o cyberbezpieczeństwie. Będzie mógł wyłączać serwisy internetowe bez uzasadnienia
  - [https://www.komputerswiat.pl/aktualnosci/internet/rzad-nowelizuje-ustawe-o-cyberbezpieczenstwie-bedzie-mogl-wylaczac-serwisy/wnhl9hg](https://www.komputerswiat.pl/aktualnosci/internet/rzad-nowelizuje-ustawe-o-cyberbezpieczenstwie-bedzie-mogl-wylaczac-serwisy/wnhl9hg)

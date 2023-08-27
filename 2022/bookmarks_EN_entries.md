@@ -3224,7 +3224,7 @@
  - [https://www.foxnews.com/world/italy-reinstate-health-workers-suspended-not-complying-covid-vaccine-mandates](https://www.foxnews.com/world/italy-reinstate-health-workers-suspended-not-complying-covid-vaccine-mandates)
  - date published: 2022-10-30T09:02:34+00:00
  - user: None
- - tags: ['covid', 'mandates', 'vaccine']
+ - tags: ['covid', 'covid mandates', 'vaccine']
 
 ## Giza virtual trip in pyramid
  - [https://giza.mused.org/en/](https://giza.mused.org/en/)
@@ -10430,7 +10430,7 @@
  - [https://www.theatlantic.com/health/archive/2022/02/covid-mask-mandate-washington-dc/622860/](https://www.theatlantic.com/health/archive/2022/02/covid-mask-mandate-washington-dc/622860/)
  - date published: 2022-02-22T09:53:09+00:00
  - user: rumpel
- - tags: ['masks', 'mandates', 'covid']
+ - tags: ['masks', 'covid mandates', 'covid']
 
 ## MEMEX - I have no capslock and I must scream [ 2022-02-21 ]
  - [https://memex.marginalia.nu/log/48-i-have-no-capslock.gmi](https://memex.marginalia.nu/log/48-i-have-no-capslock.gmi)
@@ -10706,7 +10706,7 @@
  - [https://www.dailywire.com/news/freedom-wins-canadian-provinces-lift-covid-mandates-after-trucker-protests](https://www.dailywire.com/news/freedom-wins-canadian-provinces-lift-covid-mandates-after-trucker-protests)
  - date published: 2022-02-09T20:54:25+00:00
  - user: rumpel
- - tags: ['canada', 'covid', 'mandates', 'freedom convoy']
+ - tags: ['canada', 'covid', 'covid mandates', 'freedom convoy']
 
 ## 5 reasons why eating insects can reduce climate change | World Economic Forum
  - [https://www.weforum.org/agenda/2022/02/how-insects-positively-impact-climate-change/](https://www.weforum.org/agenda/2022/02/how-insects-positively-impact-climate-change/)
@@ -10736,7 +10736,7 @@
  - [https://www.theblaze.com/news/trudeau-canada-mandates-restrictions](https://www.theblaze.com/news/trudeau-canada-mandates-restrictions)
  - date published: 2022-02-08T20:56:08+00:00
  - user: rumpel
- - tags: ['canada', 'covid', 'mandates', 'freedom convoy']
+ - tags: ['canada', 'covid', 'covid mandates', 'freedom convoy']
 
 ## Semantic Compression
  - [https://caseymuratori.com/blog_0015](https://caseymuratori.com/blog_0015)
@@ -10864,6 +10864,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## FDA: Nakaz sądowy odtajnienia dokumentów
+ - [https://phmpt.org/wp-content/uploads/2022/02/056-ORDER-GRANTING-IN-PART-THE-MOTION-TO-MODIFY-THE-PRODUCTION-SCHEDULE-AND-ADDOPTS-THE-JOINT-STATUS-REPORT-MODIFIED-AGREED-PRODUCTION-SCHEDULE.pdf](https://phmpt.org/wp-content/uploads/2022/02/056-ORDER-GRANTING-IN-PART-THE-MOTION-TO-MODIFY-THE-PRODUCTION-SCHEDULE-AND-ADDOPTS-THE-JOINT-STATUS-REPORT-MODIFIED-AGREED-PRODUCTION-SCHEDULE.pdf)
+ - date published: 2022-02-05T07:04:06+00:00
+ - user: None
+ - tags: ['big pharma', 'vaccine', 'covid', 'pfizer', 'fda']
+
 ## ‘Beginning of the end’: GoFundMe faces avalanche of backlash after yanking Freedom Convoy campaign
  - [https://www.bizpacreview.com/2022/02/05/beginning-of-the-end-gofundme-faces-avalanche-of-backlash-after-yanking-freedom-convoy-campaign-1197369/](https://www.bizpacreview.com/2022/02/05/beginning-of-the-end-gofundme-faces-avalanche-of-backlash-after-yanking-freedom-convoy-campaign-1197369/)
  - date published: 2022-02-05T06:41:16+00:00
@@ -10946,7 +10952,7 @@
  - [https://www.businessinsider.com/thousands-canada-protest-covid-19-vaccine-mandates-truckers-justin-trudeau-2022-1?IR=T](https://www.businessinsider.com/thousands-canada-protest-covid-19-vaccine-mandates-truckers-justin-trudeau-2022-1?IR=T)
  - date published: 2022-01-30T20:40:11+00:00
  - user: rumpel
- - tags: ['canada', 'covid', 'freedom convoy']
+ - tags: ['canada', 'freedom convoy', 'covid', 'covid mandates']
 
 ## Nova Scotia outlaws support on highway for 'freedom' truckers days after massive protest | Fox News
  - [https://www.foxnews.com/world/nova-scotia-outlaws-gathering-highway-freedom-convoy-truckers-vaccine-mandate](https://www.foxnews.com/world/nova-scotia-outlaws-gathering-highway-freedom-convoy-truckers-vaccine-mandate)
@@ -10964,7 +10970,7 @@
  - [https://www.dailymail.co.uk/news/article-10456147/Justin-Trudeau-flees-secret-location-50-000-Freedom-Convoy-truckers-hit-Ottawa.html](https://www.dailymail.co.uk/news/article-10456147/Justin-Trudeau-flees-secret-location-50-000-Freedom-Convoy-truckers-hit-Ottawa.html)
  - date published: 2022-01-30T09:36:41+00:00
  - user: rumpel
- - tags: ['covid', 'justin trudeau', 'lockdown', 'mandates']
+ - tags: ['covid', 'justin trudeau', 'lockdown', 'covid mandates']
 
 ## Canadian Province Bans Support Protests Of Trucker ‘Freedom Convoy,’ Jordan Peterson Unloads: ‘Beware’ | The Daily Wire
  - [https://www.dailywire.com/news/canadian-province-bans-support-protests-of-trucker-freedom-convoy-jordan-peterson-unloads-beware](https://www.dailywire.com/news/canadian-province-bans-support-protests-of-trucker-freedom-convoy-jordan-peterson-unloads-beware)
@@ -11090,7 +11096,7 @@
  - [https://www.washingtonpost.com/dc-md-va/2022/01/23/dc-anti-vaccine-rally-mandates-protest/](https://www.washingtonpost.com/dc-md-va/2022/01/23/dc-anti-vaccine-rally-mandates-protest/)
  - date published: 2022-01-24T20:44:07+00:00
  - user: rumpel
- - tags: ['protest', 'covid', 'mandates']
+ - tags: ['protest', 'covid', 'covid mandates']
 
 ## Shell CCS facility in Canada emits more than it captures, study says
  - [https://www.cnbc.com/2022/01/24/shell-ccs-facility-in-canada-emits-more-than-it-captures-study-says.html](https://www.cnbc.com/2022/01/24/shell-ccs-facility-in-canada-emits-more-than-it-captures-study-says.html)
@@ -11354,7 +11360,7 @@
  - [https://www.nytimes.com/2022/01/13/us/politics/supreme-court-biden-vaccine-mandate.html](https://www.nytimes.com/2022/01/13/us/politics/supreme-court-biden-vaccine-mandate.html)
  - date published: 2022-01-13T20:25:48+00:00
  - user: rumpel
- - tags: ['vaccine', 'mandates', 'joe biden']
+ - tags: ['vaccine', 'covid mandates', 'joe biden']
 
 ## The Laurels: NHS gender clinic only assessed two patients in 12 months
  - [https://www.pinknews.co.uk/2021/03/08/the-laurels-nhs-trans-waiting-times-west-england-gender-identity-clinic-waiting-list-exeter-devon-partnership-trust-transgender/](https://www.pinknews.co.uk/2021/03/08/the-laurels-nhs-trans-waiting-times-west-england-gender-identity-clinic-waiting-list-exeter-devon-partnership-trust-transgender/)

@@ -272,7 +272,7 @@
  - [https://hotair.com/jazz-shaw/2021/12/20/new-york-bill-would-create-literal-internment-camps-for-the-unvaccinated-at-the-governors-whim-n436568](https://hotair.com/jazz-shaw/2021/12/20/new-york-bill-would-create-literal-internment-camps-for-the-unvaccinated-at-the-governors-whim-n436568)
  - date published: 2021-12-20T21:00:56+00:00
  - user: rumpel
- - tags: ['mandates', 'covid', 'vaccine']
+ - tags: ['covid mandates', 'covid', 'vaccine']
 
 ## Tesla allegedly remotely unlocks Model 3 owner's car, uses smart summon to help repo agent - Alt Car news
  - [https://tiremeetsroad.com/2021/03/18/tesla-allegedly-remotely-unlocks-model-3-owners-car-uses-smart-summon-to-help-repo-agent/](https://tiremeetsroad.com/2021/03/18/tesla-allegedly-remotely-unlocks-model-3-owners-car-uses-smart-summon-to-help-repo-agent/)
@@ -746,7 +746,7 @@
  - [https://www.nytimes.com/2021/11/19/world/europe/austria-covid-vaccine-mandate-lockdown.html](https://www.nytimes.com/2021/11/19/world/europe/austria-covid-vaccine-mandate-lockdown.html)
  - date published: 2021-11-23T20:52:49+00:00
  - user: rumpel
- - tags: ['mandates', 'covid', 'vaccine']
+ - tags: ['covid mandates', 'covid', 'vaccine']
 
 ## Chat control: The latest EU plans to outlaw encryption and introduce telecommunications surveillance | mailbox.org
  - [https://mailbox.org/en/post/chat-control-the-latest-eu-plans-to-outlaw-encryption-and-introduce-telecommunications-surveillance?nl](https://mailbox.org/en/post/chat-control-the-latest-eu-plans-to-outlaw-encryption-and-introduce-telecommunications-surveillance?nl)
@@ -944,7 +944,7 @@
  - [https://www.cnbc.com/2021/11/13/federal-appeals-court-calls-biden-vaccine-mandate-fatally-flawed-and-staggeringly-overbroad-.html](https://www.cnbc.com/2021/11/13/federal-appeals-court-calls-biden-vaccine-mandate-fatally-flawed-and-staggeringly-overbroad-.html)
  - date published: 2021-11-13T20:37:35+00:00
  - user: rumpel
- - tags: ['covid', 'mandates']
+ - tags: ['covid', 'covid mandates']
 
 ## Latest Windows 11 overrides attempts to avoid using Edge • The Register
  - [https://www.theregister.com/2021/11/11/latest_windows_11_build_enforces_edge_links/](https://www.theregister.com/2021/11/11/latest_windows_11_build_enforces_edge_links/)
@@ -1082,7 +1082,7 @@
  - [https://www.businessinsider.com/vaccine-mandate-biden-covid-19-states-sue-unconstitutional-2021-11?IR=T](https://www.businessinsider.com/vaccine-mandate-biden-covid-19-states-sue-unconstitutional-2021-11?IR=T)
  - date published: 2021-11-06T20:10:39+00:00
  - user: rumpel
- - tags: ['mandates', 'vaccine', 'covid']
+ - tags: ['covid mandates', 'vaccine', 'covid']
 
 ## incolumitas.com – So you want to Scrape like the Big Boys? 🚀
  - [https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/](https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/)
@@ -1754,7 +1754,7 @@
  - [https://www.reuters.com/world/americas/unvaccinated-federal-workers-canada-will-be-put-unpaid-leave-globe-mail-2021-10-06/](https://www.reuters.com/world/americas/unvaccinated-federal-workers-canada-will-be-put-unpaid-leave-globe-mail-2021-10-06/)
  - date published: 2021-10-06T14:23:48+00:00
  - user: rumpel
- - tags: ['covid', 'mandates']
+ - tags: ['covid', 'covid mandates']
 
 ## Tim Pool Permanently BANNED By TikTok, Likely Due To Hosting Alex Jones, Who Broke No Rules
  - [https://www.newswars.com/tim-pool-permanently-banned-by-tiktok-likely-due-to-hosting-alex-jones-who-broke-no-rules/](https://www.newswars.com/tim-pool-permanently-banned-by-tiktok-likely-due-to-hosting-alex-jones-who-broke-no-rules/)
@@ -2168,7 +2168,7 @@
  - [https://www.nytimes.com/2021/09/10/travel/mask-fine-costs-flights-tsa.html](https://www.nytimes.com/2021/09/10/travel/mask-fine-costs-flights-tsa.html)
  - date published: 2021-09-10T09:58:33+00:00
  - user: rumpel
- - tags: ['masks', 'mandates', 'covid']
+ - tags: ['masks', 'covid mandates', 'covid']
 
 ## The end of phone calls: why young people have silenced their ringtones | Mobile phones | The Guardian
  - [https://www.theguardian.com/technology/2021/aug/30/the-end-of-phone-calls-why-young-people-have-silenced-their-ringtones](https://www.theguardian.com/technology/2021/aug/30/the-end-of-phone-calls-why-young-people-have-silenced-their-ringtones)
@@ -2372,7 +2372,7 @@
  - [https://chicago.suntimes.com/education/2021/8/30/22648862/cps-school-bus-driver-vaccine-mandate-uber-lyft-lightfoot-public-schools](https://chicago.suntimes.com/education/2021/8/30/22648862/cps-school-bus-driver-vaccine-mandate-uber-lyft-lightfoot-public-schools)
  - date published: 2021-08-30T21:44:17+00:00
  - user: rumpel
- - tags: ['vaccine', 'mandates', 'covid']
+ - tags: ['vaccine', 'covid mandates', 'covid']
 
 ## Manchester Pride: Protest held over festival management - BBC News
  - [https://www.bbc.co.uk/news/uk-england-manchester-58369410](https://www.bbc.co.uk/news/uk-england-manchester-58369410)
@@ -2673,6 +2673,12 @@
  - date published: 2021-08-22T08:38:52.278847+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## United Airlines fires 593 people for not complying with COVID vaccine mandate - ABC7 Chicago
+ - [https://abc7chicago.com/united-airlines-covid-vaccine-mandate-jobs/11058442/](https://abc7chicago.com/united-airlines-covid-vaccine-mandate-jobs/11058442/)
+ - date published: 2021-08-21T18:28:55+00:00
+ - user: rumpel
+ - tags: ['vaccine', 'covid', 'covid mandates']
 
 ## Australia anti-lockdown rallies: protesters violently clash with police in Melbourne
  - [https://www.theguardian.com/australia-news/2021/aug/21/australia-anti-lockdown-rallies-protesters-violently-clash-with-police-in-melbourne](https://www.theguardian.com/australia-news/2021/aug/21/australia-anti-lockdown-rallies-protesters-violently-clash-with-police-in-melbourne)
@@ -4040,7 +4046,7 @@
  - [https://nationalfile.com/world-economic-forum-urges-companies-to-fire-unvaccinated-employees-as-part-of-jobs-reset-deletes-tweet-after-backlash/](https://nationalfile.com/world-economic-forum-urges-companies-to-fire-unvaccinated-employees-as-part-of-jobs-reset-deletes-tweet-after-backlash/)
  - date published: 2021-05-18T22:10:14+00:00
  - user: rumpel
- - tags: ['vaccine', 'world economic forum', 'fearmongering', 'mandates', 'wef', 'covid']
+ - tags: ['vaccine', 'world economic forum', 'fearmongering', 'covid mandates', 'wef', 'covid']
 
 ## Bill Gates reportedly hoped Jeffrey Epstein would help him win a Nobel
  - [https://nypost.com/2021/05/18/bill-gates-hoped-epstein-would-help-him-win-a-nobel-report/](https://nypost.com/2021/05/18/bill-gates-hoped-epstein-would-help-him-win-a-nobel-report/)
@@ -4221,6 +4227,12 @@
  - date published: 2021-04-27T19:32:41+00:00
  - user: rumpel
  - tags: ['lockdown', 'cdc', 'covid']
+
+## Bill Gates under fire for saying vaccine formulas shouldn’t be shared with developing world
+ - [https://news.yahoo.com/bill-gates-under-fire-saying-200557167.html](https://news.yahoo.com/bill-gates-under-fire-saying-200557167.html)
+ - date published: 2021-04-26T20:30:20+00:00
+ - user: rumpel
+ - tags: ['corporatocracy', 'covid', 'vaccine', 'bill gates', 'big pharma']
 
 ## Apple Is Terrible for Your Privacy
  - [https://www.youtube.com/watch?v=r38Epj6ldKU](https://www.youtube.com/watch?v=r38Epj6ldKU)

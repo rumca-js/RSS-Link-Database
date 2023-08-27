@@ -8,7 +8,7 @@
  - [https://forsal.pl/lifestyle/zdrowie/artykuly/8621235,niemcy-restrykcje-covidowe-sondaz.html](https://forsal.pl/lifestyle/zdrowie/artykuly/8621235,niemcy-restrykcje-covidowe-sondaz.html)
  - date published: 2022-12-29T16:23:33+00:00
  - user: rumpel
- - tags: ['social engineering', 'mandates', 'covid']
+ - tags: ['social engineering', 'covid mandates', 'covid']
 
 ## Allegro ma, delikatnie mówiąc, prze***ane. UOKiK wymierzy spółce ponad 210 mln zł kary
  - [https://www.chip.pl/2022/12/allegro-uokik-kary-210-mln-zl](https://www.chip.pl/2022/12/allegro-uokik-kary-210-mln-zl)
@@ -1142,7 +1142,7 @@
  - [https://poradnikprzedsiebiorcy.pl/-zwolnienie-pracownika-za-brak-szczepienia-na-covid-19](https://poradnikprzedsiebiorcy.pl/-zwolnienie-pracownika-za-brak-szczepienia-na-covid-19)
  - date published: 2022-04-07T14:10:51+00:00
  - user: rumpel
- - tags: ['vaccine', 'mandates', 'covid']
+ - tags: ['vaccine', 'covid mandates', 'covid']
 
 ## Chris's Wiki :: blog/programming/GoOnIdentifierVisibility
  - [https://utcc.utoronto.ca/~cks/space/blog/programming/GoOnIdentifierVisibility](https://utcc.utoronto.ca/~cks/space/blog/programming/GoOnIdentifierVisibility)
@@ -1214,7 +1214,7 @@
  - [https://pch24.pl/pracownicy-rzeszowskiego-szpitala-przeciwko-obowiazkowi-szczepien-gotowi-sa-odejsc-z-pracy/](https://pch24.pl/pracownicy-rzeszowskiego-szpitala-przeciwko-obowiazkowi-szczepien-gotowi-sa-odejsc-z-pracy/)
  - date published: 2022-01-28T21:54:49+00:00
  - user: rumpel
- - tags: ['vaccine', 'mandates', 'covid']
+ - tags: ['vaccine', 'covid mandates', 'covid']
 
 ## Rozpad Rady Medycznej. 13 członków złożyło rezygnację - Wydarzenia w INTERIA.PL
  - [https://wydarzenia.interia.pl/raport-koronawirus-chiny/news-rozpad-rady-medycznej-13-czlonkow-zlozylo-wnioski-do-premier,nId,5769419](https://wydarzenia.interia.pl/raport-koronawirus-chiny/news-rozpad-rady-medycznej-13-czlonkow-zlozylo-wnioski-do-premier,nId,5769419)

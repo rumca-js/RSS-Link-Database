@@ -70,6 +70,12 @@
  - user: rumpel
  - tags: ['politicians', 'silvio berlusconi', 'bunga bunga', 'billionaires']
 
+## Suspension, Ban or Hellban?
+ - [https://blog.codinghorror.com/suspension-ban-or-hellban/](https://blog.codinghorror.com/suspension-ban-or-hellban/)
+ - date published: 2011-06-04T06:04:20+00:00
+ - user: rumpel
+ - tags: ['censorship', 'shadowban', 'moderation']
+
 ## Baaa
  - [https://www.youtube.com/watch?v=WQO-aOdJLiw](https://www.youtube.com/watch?v=WQO-aOdJLiw)
  - date published: 2011-06-01T00:00:00+00:00
