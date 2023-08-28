@@ -1,3 +1,9 @@
+## Pogoda w INTERIA.PL – długoterminowa (na 25 dni) prognoza pogody dla Polski, Europy i Świata
+ - [https://pogoda.interia.pl/](https://pogoda.interia.pl/)
+ - date published: 2023-08-27T18:24:23+00:00
+ - user: rumpel
+ - tags: ['weather']
+
 ## Bolt zacznie nagrywać Polaków. Projekt budzi kontrowersje
  - [https://www.rp.pl/transport/art38995261-bolt-zacznie-nagrywac-polakow-projekt-budzi-kontrowersje](https://www.rp.pl/transport/art38995261-bolt-zacznie-nagrywac-polakow-projekt-budzi-kontrowersje)
  - date published: 2023-08-24T01:16:30.138756+00:00

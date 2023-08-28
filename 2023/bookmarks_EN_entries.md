@@ -1,3 +1,15 @@
+## Study: Carbon offsets aren’t doing their job, overstate impact
+ - [https://arstechnica.com/science/2023/08/study-carbon-offsets-arent-doing-their-job-overstate-impact/](https://arstechnica.com/science/2023/08/study-carbon-offsets-arent-doing-their-job-overstate-impact/)
+ - date published: 2023-08-27T19:22:51.220520+00:00
+ - user: rumpel
+ - tags: ['climate change', 'carbon offsets', 'global warming']
+
+## 90% of “eco-friendly” paper straws contain traces of toxic forever chemicals
+ - [https://scienceswitch.com/2023/08/27/90-of-eco-friendly-paper-straws-contain-traces-of-toxic-forever-chemicals/](https://scienceswitch.com/2023/08/27/90-of-eco-friendly-paper-straws-contain-traces-of-toxic-forever-chemicals/)
+ - date published: 2023-08-26T20:39:30.853939+00:00
+ - user: rumpel
+ - tags: ['pollution']
+
 ## Web Scraping for Me, but Not for Thee
  - [https://blog.ericgoldman.org/archives/2023/08/web-scraping-for-me-but-not-for-thee-guest-blog-post.htm](https://blog.ericgoldman.org/archives/2023/08/web-scraping-for-me-but-not-for-thee-guest-blog-post.htm)
  - date published: 2023-08-25T19:44:30.396266+00:00
@@ -69,6 +81,18 @@
  - date published: 2023-08-21T18:49:20+00:00
  - user: rumpel
  - tags: ['fact check']
+
+## The UN is Building a “Digital Army” To Fight What it Calls “Deadly Disinformation”
+ - [https://reclaimthenet.org/the-un-is-building-a-digital-army](https://reclaimthenet.org/the-un-is-building-a-digital-army)
+ - date published: 2023-08-21T17:42:13+00:00
+ - user: rumpel
+ - tags: ['censorship', 'united nations', 'moderation', 'disinformation']
+
+## How conservatives use ‘verbal jiu-jitsu’ to turn liberals’ language against them | CNN Politics
+ - [https://edition.cnn.com/2023/08/20/politics/conservatives-verbal-combat-blake-cec/index.html](https://edition.cnn.com/2023/08/20/politics/conservatives-verbal-combat-blake-cec/index.html)
+ - date published: 2023-08-20T20:50:36+00:00
+ - user: rumpel
+ - tags: ['language', 'woke', 'propaganda', 'social engineering']
 
 ## Social selling factory in Indonesia
  - [https://twitter.com/LinusEkenstam/status/1693382979291156942](https://twitter.com/LinusEkenstam/status/1693382979291156942)
@@ -1371,6 +1395,12 @@
  - date published: 2023-07-05T14:57:07+00:00
  - user: rumpel
  - tags: ['amazon', 'movies', 'hollywood', 'go woke go broke']
+
+## New law could allow GCHQ to monitor UK internet logs in real-time to tackle fraud
+ - [https://therecord.media/new-law-could-allow-uk-gchq-to-monitor-internet-logs-in-real-time](https://therecord.media/new-law-could-allow-uk-gchq-to-monitor-internet-logs-in-real-time)
+ - date published: 2023-07-05T10:55:13+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'gchq', 'tempora', 'england']
 
 ## These Cruise Ships Emit More Air Pollution Than All the Cars in Europe
  - [https://www.businessinsider.com/cruise-ship-air-pollution-carnival-cars-europe-study-2023-6?IR=T](https://www.businessinsider.com/cruise-ship-air-pollution-carnival-cars-europe-study-2023-6?IR=T)
@@ -3645,6 +3675,12 @@
  - date published: 2023-04-23T09:00:21+00:00
  - user: rumpel
  - tags: ['covid']
+
+## Greenhouse gas emissions - Our World in Data
+ - [https://ourworldindata.org/greenhouse-gas-emissions](https://ourworldindata.org/greenhouse-gas-emissions)
+ - date published: 2023-04-23T07:03:27+00:00
+ - user: rumpel
+ - tags: ['science', 'climate change']
 
 ## Fire Mark Zuckerberg
  - [https://ez.substack.com/p/fire-mark-zuckerberg](https://ez.substack.com/p/fire-mark-zuckerberg)

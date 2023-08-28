@@ -88,6 +88,12 @@
  - user: rumpel
  - tags: ['meta', 'technofeudalism', 'corporatocracy', 'facebook', 'manufacturing consent']
 
+## What Is the 'NPC' Meme? Liberals Rage at Cartoons Mocking Their Scripted Thoughts
+ - [https://www.breitbart.com/tech/2018/10/16/what-is-the-npc-meme-liberals-rage-at-cartoons-mocking-their-scripted-thoughts/](https://www.breitbart.com/tech/2018/10/16/what-is-the-npc-meme-liberals-rage-at-cartoons-mocking-their-scripted-thoughts/)
+ - date published: 2018-10-16T20:25:58+00:00
+ - user: rumpel
+ - tags: ['twitter', 'censorship', 'the left wing']
+
 ## A Clockwork Orange - Film Analysis & Meaning [Full HD]
  - [https://www.youtube.com/watch?v=dOvP58ioBRc](https://www.youtube.com/watch?v=dOvP58ioBRc)
  - date published: 2018-10-13T20:37:55+00:00

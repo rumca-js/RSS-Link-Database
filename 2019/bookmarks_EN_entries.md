@@ -598,6 +598,12 @@
  - user: rumpel
  - tags: ['social engineering', 'stereotypes', 'the left wing']
 
+## World Economic Forum and UN Sign Strategic Partnership Framework > Press releases | World Economic Forum
+ - [https://www.weforum.org/press/2019/06/world-economic-forum-and-un-sign-strategic-partnership-framework](https://www.weforum.org/press/2019/06/world-economic-forum-and-un-sign-strategic-partnership-framework)
+ - date published: 2019-06-13T18:19:56+00:00
+ - user: rumpel
+ - tags: ['world economic forum', 'united nations', 'manufacturing consent']
+
 ## Report: The U.S. Military Emits More CO2 Than Many Industrialized Nations [Infographic]
  - [https://www.forbes.com/sites/niallmccarthy/2019/06/13/report-the-u-s-military-emits-more-co2-than-many-industrialized-nations-infographic/?sh=678b045e4372](https://www.forbes.com/sites/niallmccarthy/2019/06/13/report-the-u-s-military-emits-more-co2-than-many-industrialized-nations-infographic/?sh=678b045e4372)
  - date published: 2019-06-13T12:54:42+00:00

@@ -106,6 +106,12 @@
  - user: rumpel
  - tags: ['movies', 'prometheus']
 
+## Study finds that 77 percent of Wikipedia articles are written by just one percent of editors | TechSpot
+ - [https://www.techspot.com/news/71800-study-77-wikipedia-articles-written-1-editors.html](https://www.techspot.com/news/71800-study-77-wikipedia-articles-written-1-editors.html)
+ - date published: 2017-11-09T20:34:16+00:00
+ - user: rumpel
+ - tags: ['wikipedia']
+
 ## Fake “Flat Earth” Conspiracy Finally Outed As C.I.A. Psyop
  - [https://themillenniumreport.com/2017/11/fake-flat-earth-conspiracy-finally-outed-as-cia-psyop/](https://themillenniumreport.com/2017/11/fake-flat-earth-conspiracy-finally-outed-as-cia-psyop/)
  - date published: 2017-11-06T14:57:08+00:00

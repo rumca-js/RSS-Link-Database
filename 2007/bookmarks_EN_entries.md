@@ -40,6 +40,12 @@
  - user: rumpel
  - tags: ['technofeudalism', 'windows', 'microsoft']
 
+## CIA, FBI computers used for Wikipedia edits | Reuters
+ - [https://www.reuters.com/article/us-security-wikipedia-idUSN1642896020070816](https://www.reuters.com/article/us-security-wikipedia-idUSN1642896020070816)
+ - date published: 2007-08-16T20:37:12+00:00
+ - user: rumpel
+ - tags: ['wikipedia', 'fbi', 'manufacturing consent', 'propaganda', 'cia']
+
 ## ‘I've got nothing to hide’ and other misunderstandings of privacy (2007)
  - [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=998565](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=998565)
  - date published: 2007-07-12T18:23:29+00:00

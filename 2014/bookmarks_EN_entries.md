@@ -136,6 +136,12 @@
  - user: rumpel
  - tags: ["pervert's guide", 'carpenter', 'they live']
 
+## Congress Is Still Editing Wikipedia a Lot -- Here's How We Know
+ - [https://gizmodo.com/congress-is-still-editing-wikipedia-a-lot-heres-how-1605295946](https://gizmodo.com/congress-is-still-editing-wikipedia-a-lot-heres-how-1605295946)
+ - date published: 2014-07-15T20:36:07+00:00
+ - user: rumpel
+ - tags: ['wikipedia', 'propaganda']
+
 ## Doing Something is Better Than Doing Nothing for Most People, Study Shows | UVA Today
  - [https://news.virginia.edu/content/doing-something-better-doing-nothing-most-people-study-shows](https://news.virginia.edu/content/doing-something-better-doing-nothing-most-people-study-shows)
  - date published: 2014-07-03T08:17:49+00:00
