@@ -164,7 +164,7 @@
  - [https://www.bbc.com/news/stories-45486176](https://www.bbc.com/news/stories-45486176)
  - date published: 2018-09-13T07:28:23+00:00
  - user: rumpel
- - tags: ['church scandal', 'chile', 'religion', 'catholic']
+ - tags: ['religion', 'church scandal', 'chile', 'catholic']
 
 ## Bannon falls victim to free speech storm
  - [https://www.cnn.com/2018/09/08/uk/free-speech-bannon-universities-opinion-intl/index.html](https://www.cnn.com/2018/09/08/uk/free-speech-bannon-universities-opinion-intl/index.html)
@@ -584,7 +584,7 @@
  - [https://www.nationalreview.com/2018/03/british-police-failed-stop-child-sex-ring-over-racism-fears/](https://www.nationalreview.com/2018/03/british-police-failed-stop-child-sex-ring-over-racism-fears/)
  - date published: 2018-03-11T11:25:48+00:00
  - user: rumpel
- - tags: ['immigration', 'racism']
+ - tags: ['racism', 'police', 'immigration']
 
 ## Elon Musk's family once owned an emerald mine in Zambia — here's the fascinating story of how they came to own it
  - [https://www.businessinsider.co.za/how-elon-musks-family-came-to-own-an-emerald-mine-2018-2](https://www.businessinsider.co.za/how-elon-musks-family-came-to-own-an-emerald-mine-2018-2)

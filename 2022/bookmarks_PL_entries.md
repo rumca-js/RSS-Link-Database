@@ -206,7 +206,7 @@
  - [https://www.wykop.pl/link/6891593/afera-we-francuskim-kosciele-11-biskupow-zamieszanych-w-przemoc-seksualna/](https://www.wykop.pl/link/6891593/afera-we-francuskim-kosciele-11-biskupow-zamieszanych-w-przemoc-seksualna/)
  - date published: 2022-11-08T07:25:02+00:00
  - user: None
- - tags: ['france', 'church scandal']
+ - tags: ['church scandal', 'religion', 'france']
 
 ## Ameryka jedzie na rezerwie
  - [https://www.bankier.pl/wiadomosc/Ameryka-jedzie-na-rezerwie-8435106.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Ameryka-jedzie-na-rezerwie-8435106.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -554,7 +554,7 @@
  - [https://wiez.pl/2022/10/05/jedraszewski-nie-stanal-w-prawdzie/](https://wiez.pl/2022/10/05/jedraszewski-nie-stanal-w-prawdzie/)
  - date published: 2022-10-05T15:35:05+00:00
  - user: rumpel
- - tags: ['church scandal', 'poland']
+ - tags: ['church scandal', 'religion', 'poland']
 
 ## Czechy wprowadziły ceny maksymalne na energię elektryczną i gaz
  - [https://www.bankier.pl/wiadomosc/Czechy-wprowadzily-ceny-maksymalne-na-energie-elektryczna-i-gaz-8417886.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Czechy-wprowadzily-ceny-maksymalne-na-energie-elektryczna-i-gaz-8417886.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)

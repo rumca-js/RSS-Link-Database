@@ -308,7 +308,7 @@
  - [https://www.itv.com/news/2017-08-10/fear-of-being-called-racist-stopping-people-from-raising-child-abuse-concerns](https://www.itv.com/news/2017-08-10/fear-of-being-called-racist-stopping-people-from-raising-child-abuse-concerns)
  - date published: 2017-08-10T11:27:23+00:00
  - user: rumpel
- - tags: ['immigration', 'racism']
+ - tags: ['racism', 'police', 'immigration']
 
 ## James Damore: The fired Google engineer wrote his memo after he went to a 'shaming,' 'secretive' diversity program
  - [https://www.businessinsider.com/james-damore-wrote-his-memo-after-attending-a-google-diversity-programme-2017-8?IR=T](https://www.businessinsider.com/james-damore-wrote-his-memo-after-attending-a-google-diversity-programme-2017-8?IR=T)
@@ -320,7 +320,7 @@
  - [https://www.telegraph.co.uk/news/2017/08/08/police-afraid-racism-complaints-use-stop-search-powers/](https://www.telegraph.co.uk/news/2017/08/08/police-afraid-racism-complaints-use-stop-search-powers/)
  - date published: 2017-08-08T11:16:36+00:00
  - user: rumpel
- - tags: ['immigration', 'racism']
+ - tags: ['racism', 'police', 'immigration']
 
 ## How big brands including Sports Direct unwittingly used slave labour
  - [https://www.theguardian.com/global-development/2017/aug/08/how-big-brands-including-sports-direct-unwittingly-used-slave-labour](https://www.theguardian.com/global-development/2017/aug/08/how-big-brands-including-sports-direct-unwittingly-used-slave-labour)

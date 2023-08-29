@@ -8,7 +8,7 @@
  - [https://www.youtube.com/watch?v=Df9J68y2YeA](https://www.youtube.com/watch?v=Df9J68y2YeA)
  - date published: 2015-09-01T00:00:00+00:00
  - user: rumpel
- - tags: ['religion']
+ - tags: ['religion knowledge', 'religion']
 
 ## Szwecja a ustawa o przymusowej opiece państwa nad dziećmi
  - [https://www.rp.pl/Rodzina/307269961-Szwecja-a-ustawa-o-przymusowej-opiece-panstwa-nad-dziecmi.html](https://www.rp.pl/Rodzina/307269961-Szwecja-a-ustawa-o-przymusowej-opiece-panstwa-nad-dziecmi.html)
@@ -20,5 +20,5 @@
  - [https://www.youtube.com/watch?v=wFP0VX1pugE](https://www.youtube.com/watch?v=wFP0VX1pugE)
  - date published: 2015-04-15T00:00:00+00:00
  - user: rumpel
- - tags: ['religion']
+ - tags: ['religion knowledge', 'religion']
 

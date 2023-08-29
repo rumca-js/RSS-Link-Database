@@ -284,7 +284,7 @@
  - [https://www.irishcentral.com/news/bishop-mccarrick-crimes](https://www.irishcentral.com/news/bishop-mccarrick-crimes)
  - date published: 2019-09-30T15:33:50+00:00
  - user: rumpel
- - tags: ['church scandal', 'catholic']
+ - tags: ['church scandal', 'religion', 'catholic', 'america']
 
 ## Playing more video games could increase creative thinking at work
  - [https://www.weforum.org/agenda/2019/09/gamification-revolutionise-creative-thinking](https://www.weforum.org/agenda/2019/09/gamification-revolutionise-creative-thinking)
@@ -314,7 +314,7 @@
  - [https://www.amazon.com/Permanent-Record-Edward-Snowden/dp/1250237238](https://www.amazon.com/Permanent-Record-Edward-Snowden/dp/1250237238)
  - date published: 2019-09-17T10:18:42+00:00
  - user: rumpel
- - tags: ['books', 'edward snowden']
+ - tags: ['edward snowden', 'book']
 
 ## Full Interview: Edward Snowden On Trump, Privacy, And Threats To Democracy | The 11th Hour | MSNBC
  - [https://www.youtube.com/watch?v=e9yK1QndJSM](https://www.youtube.com/watch?v=e9yK1QndJSM)
@@ -632,13 +632,13 @@
  - [https://www.cnn.com/2019/06/04/us/catholic-church-300-million-abuse-claims/index.html](https://www.cnn.com/2019/06/04/us/catholic-church-300-million-abuse-claims/index.html)
  - date published: 2019-06-04T22:39:57+00:00
  - user: rumpel
- - tags: ['church scandal', 'catholic']
+ - tags: ['church scandal', 'religion', 'catholic']
 
 ## Why should you read “The Master and Margarita”? - Alex Gendler
  - [https://www.youtube.com/watch?v=miNBicrLiXo](https://www.youtube.com/watch?v=miNBicrLiXo)
  - date published: 2019-05-30T11:59:31+00:00
  - user: rumpel
- - tags: ['books', 'master and margarita']
+ - tags: ['book', 'master and margarita']
 
 ## Full Contact Longplay (Amiga) [4K]
  - [https://www.youtube.com/watch?v=4YHo62RVbj8](https://www.youtube.com/watch?v=4YHo62RVbj8)

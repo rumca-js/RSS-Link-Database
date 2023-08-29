@@ -218,7 +218,7 @@
  - [https://time.com/77676/why-science-does-not-disprove-god/](https://time.com/77676/why-science-does-not-disprove-god/)
  - date published: 2014-04-27T19:51:44+00:00
  - user: rumpel
- - tags: ['god', 'science', 'religion']
+ - tags: ['science', 'religion knowledge', 'religion', 'god']
 
 ## Edward Snowden: US government spied on human rights workers
  - [http://www.theguardian.com/world/2014/apr/08/edwards-snowden-us-government-spied-human-rights-workers](http://www.theguardian.com/world/2014/apr/08/edwards-snowden-us-government-spied-human-rights-workers)
@@ -242,7 +242,7 @@
  - [http://edition.cnn.com/2014/02/16/world/africa/nigeria-boko-haram-attacks/index.html?eref=edition](http://edition.cnn.com/2014/02/16/world/africa/nigeria-boko-haram-attacks/index.html?eref=edition)
  - date published: 2014-02-17T09:23:02+00:00
  - user: rumpel
- - tags: ['christianophobia', 'islam', 'nigeria']
+ - tags: ['islam', 'religion', 'nigeria', 'christianophobia']
 
 ## Judge rules that Kansan who provided sperm to lesbian couple owes child support  Read more at: https://www.kansascity.com/news/local/article337100.html#storylink=cpy
  - [https://www.kansascity.com/news/local/article337100.html](https://www.kansascity.com/news/local/article337100.html)

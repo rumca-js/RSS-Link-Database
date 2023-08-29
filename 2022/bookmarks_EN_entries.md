@@ -3206,7 +3206,7 @@
  - [https://www.dailymail.co.uk/news/article-11371013/Islamic-extremism-UK-bigger-issue-willing-accept-Home-Office-source-claims.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11371013/Islamic-extremism-UK-bigger-issue-willing-accept-Home-Office-source-claims.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2022-10-30T18:39:30+00:00
  - user: None
- - tags: ['extremism', 'england', 'islam', 'religion']
+ - tags: ['religion', 'england', 'islam', 'extremism', 'islam terror']
 
 ## PS4/PS5 exploit that is “essentially unpatchable”
  - [https://arstechnica.com/gaming/2022/09/console-hacker-reveals-ps4-ps5-exploit-that-is-essentially-unpatchable/](https://arstechnica.com/gaming/2022/09/console-hacker-reveals-ps4-ps5-exploit-that-is-essentially-unpatchable/)
@@ -7532,7 +7532,7 @@
  - [https://lukesmith.xyz/articles/christianity-based-paganism/](https://lukesmith.xyz/articles/christianity-based-paganism/)
  - date published: 2022-07-29T11:53:20+00:00
  - user: None
- - tags: $tags
+ - tags: ['religion knowledge', 'christianity', 'religion']
 
 ## Bristol Drag queen children's story hour disrupted by protests - BBC News
  - [https://www.bbc.com/news/uk-england-bristol-62335147](https://www.bbc.com/news/uk-england-bristol-62335147)
@@ -8457,6 +8457,12 @@
  - date published: 2022-06-04T08:39:45+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Marriage Is Not To Make You Happy
+ - [https://raypatrick.xyz/blog/2022/06/03/marriage-is-not-to-make-you-happy](https://raypatrick.xyz/blog/2022/06/03/marriage-is-not-to-make-you-happy)
+ - date published: 2022-06-03T14:04:31+00:00
+ - user: rumpel
+ - tags: ['hedonism', 'religion knowledge', 'religion', 'marriage']
 
 ## Europe's hope to scan devices for unlawful files criticized • The Register
  - [https://www.theregister.com/2022/06/02/eu_child_protection/?td=keepreading-top](https://www.theregister.com/2022/06/02/eu_child_protection/?td=keepreading-top)
@@ -10616,7 +10622,7 @@
  - [https://www.youtube.com/watch?v=_vBRGWoK6_4](https://www.youtube.com/watch?v=_vBRGWoK6_4)
  - date published: 2022-02-12T20:14:23+00:00
  - user: rumpel
- - tags: ['jordan peterson', 'bible']
+ - tags: ['religion knowledge', 'jordan peterson', 'religion', 'bible']
 
 ## set -ex - The most useful bash trick of the year - Peterbe.com
  - [https://www.peterbe.com/plog/set-ex](https://www.peterbe.com/plog/set-ex)
@@ -11084,7 +11090,7 @@
  - [https://www.youtube.com/watch?v=Vt9K6kmpx44](https://www.youtube.com/watch?v=Vt9K6kmpx44)
  - date published: 2022-01-25T00:00:00+00:00
  - user: rumpel
- - tags: ['jordan peterson', 'bible']
+ - tags: ['jordan peterson', 'religion', 'bible']
 
 ## Emails reveal scientists suspected COVID leaked from Wuhan lab – then quickly censored themselves
  - [https://nypost.com/2022/01/24/emails-reveal-suspected-covid-leaked-from-a-wuhan-lab-then-censored-themselves/](https://nypost.com/2022/01/24/emails-reveal-suspected-covid-leaked-from-a-wuhan-lab-then-censored-themselves/)

@@ -1,3 +1,9 @@
+## Rozpieszczony umysł. Jak dobre intencje i złe idee skazują pokolenia na porażkę - Jonathan Haidt, Greg Lukianoff | Książka w Lubimyczytac.pl - Opinie, oceny, ceny
+ - [https://lubimyczytac.pl/ksiazka/5050676/rozpieszczony-umysl-jak-dobre-intencje-i-zle-idee-skazuja-pokolenia-na-porazke](https://lubimyczytac.pl/ksiazka/5050676/rozpieszczony-umysl-jak-dobre-intencje-i-zle-idee-skazuja-pokolenia-na-porazke)
+ - date published: 2023-08-28T07:17:02+00:00
+ - user: rumpel
+ - tags: ['book', 'books', 'science is dead']
+
 ## Pogoda w INTERIA.PL – długoterminowa (na 25 dni) prognoza pogody dla Polski, Europy i Świata
  - [https://pogoda.interia.pl/](https://pogoda.interia.pl/)
  - date published: 2023-08-27T18:24:23+00:00
@@ -700,7 +706,7 @@
  - [https://www.onet.pl/informacje/onetwiadomosci/szokujace-ustalenia-prokuratury-w-sprawie-ksiedza-pedofila-nie-poniosl-kary/yns502l,79cfc278](https://www.onet.pl/informacje/onetwiadomosci/szokujace-ustalenia-prokuratury-w-sprawie-ksiedza-pedofila-nie-poniosl-kary/yns502l,79cfc278)
  - date published: 2023-01-11T15:32:06+00:00
  - user: rumpel
- - tags: ['church scandal']
+ - tags: ['church scandal', 'religion']
 
 ## Karcher przyznał się do zawyżania cen sprzętu w Polsce przez ponad 20 lat - Instalki.pl
  - [https://www.instalki.pl/aktualnosci/hardware/57669-karcher-przyznal-sie-do-zawyzania-cen-sprzetu-w-polsce-przez-ponad-20-lat.html](https://www.instalki.pl/aktualnosci/hardware/57669-karcher-przyznal-sie-do-zawyzania-cen-sprzetu-w-polsce-przez-ponad-20-lat.html)

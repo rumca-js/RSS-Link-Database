@@ -2,7 +2,7 @@
  - [https://www.youtube.com/watch?v=LfKLV6rmLxE](https://www.youtube.com/watch?v=LfKLV6rmLxE)
  - date published: 2010-12-30T00:00:00+00:00
  - user: rumpel
- - tags: ['religion', 'islam']
+ - tags: ['islam', 'religion knowledge', 'religion']
 
 ## CIA launches task force to assess impact of U.S. cables' exposure by WikiLeaks
  - [https://www.washingtonpost.com/wp-dyn/content/article/2010/12/21/AR2010122104599.html?hpid=topnews](https://www.washingtonpost.com/wp-dyn/content/article/2010/12/21/AR2010122104599.html?hpid=topnews)
@@ -80,7 +80,7 @@
  - [http://edition.cnn.com/2010/WORLD/africa/07/12/uganda.bombings/index.html?eref=edition](http://edition.cnn.com/2010/WORLD/africa/07/12/uganda.bombings/index.html?eref=edition)
  - date published: 2010-07-12T12:59:09+00:00
  - user: rumpel
- - tags: ['religion', 'islam']
+ - tags: ['islam terror', 'religion']
 
 ## Nestlé drives rainforest destruction pushing orangutans to brink of extinction - Greenpeace USA
  - [https://www.greenpeace.org/usa/news/nestle-drives-rainforest-destr/](https://www.greenpeace.org/usa/news/nestle-drives-rainforest-destr/)

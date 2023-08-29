@@ -1,3 +1,27 @@
+## Google’s Surveillance
+ - [https://simplifiedprivacy.com/googles-surveillance-the-shocking-truth/](https://simplifiedprivacy.com/googles-surveillance-the-shocking-truth/)
+ - date published: 2023-08-28T20:06:41.170470+00:00
+ - user: rumpel
+ - tags: ['anonymity', 'privacy', 'surveillance', 'google']
+
+## Louisiana Man Arrested By SWAT Team For Facebook Joke About COVID-19 Wins Case
+ - [https://reclaimthenet.org/louisiana-man-arrested-for-facebook-joke-about-covid-19-wins-case](https://reclaimthenet.org/louisiana-man-arrested-for-facebook-joke-about-covid-19-wins-case)
+ - date published: 2023-08-28T15:47:23.537934+00:00
+ - user: rumpel
+ - tags: ['covid', 'facebook', 'censorship']
+
+## 12 Rules for Life - Wikipedia
+ - [https://en.wikipedia.org/wiki/12_Rules_for_Life](https://en.wikipedia.org/wiki/12_Rules_for_Life)
+ - date published: 2023-08-28T07:19:41+00:00
+ - user: rumpel
+ - tags: ['book']
+
+## The Coddling of the American Mind: How Good Intentions and Bad Ideas Are Setting Up a Generation for Failure: Lukianoff, Greg, Haidt, Jonathan: 9780735224896: Amazon.com: Books
+ - [https://www.amazon.com/Coddling-American-Mind-Intentions-Generation/dp/0735224897](https://www.amazon.com/Coddling-American-Mind-Intentions-Generation/dp/0735224897)
+ - date published: 2023-08-28T07:14:21+00:00
+ - user: rumpel
+ - tags: ['book', 'science is dead']
+
 ## Study: Carbon offsets aren’t doing their job, overstate impact
  - [https://arstechnica.com/science/2023/08/study-carbon-offsets-arent-doing-their-job-overstate-impact/](https://arstechnica.com/science/2023/08/study-carbon-offsets-arent-doing-their-job-overstate-impact/)
  - date published: 2023-08-27T19:22:51.220520+00:00
@@ -74,7 +98,7 @@
  - [https://www.foxnews.com/us/san-francisco-roman-catholic-archdiocese-files-bankruptcy-amid-sex-abuse-lawsuits](https://www.foxnews.com/us/san-francisco-roman-catholic-archdiocese-files-bankruptcy-amid-sex-abuse-lawsuits)
  - date published: 2023-08-21T19:17:41+00:00
  - user: rumpel
- - tags: ['church scandal']
+ - tags: ['church scandal', 'religion']
 
 ## Meta Pays Supposedly Independent Australian “Fact-Checkers” 800 Dollars Per Fact-Check
  - [https://reclaimthenet.org/meta-pays-supposedly-independent-australian-fact-checkers-800-dollars-per-fact-check](https://reclaimthenet.org/meta-pays-supposedly-independent-australian-fact-checkers-800-dollars-per-fact-check)
@@ -146,7 +170,7 @@
  - [https://www.bbc.co.uk/news/world-europe-66543503?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-66543503?at_medium=RSS&at_campaign=KARANGA)
  - date published: 2023-08-18T12:10:26+00:00
  - user: rumpel
- - tags: ['church scandal']
+ - tags: ['church scandal', 'religion']
 
 ## UK birth slump dubbed ‘good for planet’
  - [https://www.telegraph.co.uk/business/2023/08/17/20-year-low-for-baby-born-in-england-good-news-for-planet/](https://www.telegraph.co.uk/business/2023/08/17/20-year-low-for-baby-born-in-england-good-news-for-planet/)
@@ -212,7 +236,7 @@
  - [https://www.abc.net.au/news/2023-08-15/paedophile-priest-gerald-ridsdale-sentenced-for-eighth-time/102730164](https://www.abc.net.au/news/2023-08-15/paedophile-priest-gerald-ridsdale-sentenced-for-eighth-time/102730164)
  - date published: 2023-08-15T17:35:03+00:00
  - user: rumpel
- - tags: ['church scandal']
+ - tags: ['church scandal', 'religion']
 
 ## Xbox introduces new strike system to curtail bad behavior
  - [https://www.theverge.com/2023/8/15/23832505/xbox-strike-enforcement-tool-community-standards](https://www.theverge.com/2023/8/15/23832505/xbox-strike-enforcement-tool-community-standards)
@@ -614,7 +638,7 @@
  - [https://www.nbcnews.com/news/us-news/catholic-diocese-agrees-pay-100-million-settlement-hundreds-abuse-vict-rcna96904](https://www.nbcnews.com/news/us-news/catholic-diocese-agrees-pay-100-million-settlement-hundreds-abuse-vict-rcna96904)
  - date published: 2023-07-28T19:53:52+00:00
  - user: rumpel
- - tags: ['church scandal']
+ - tags: ['church scandal', 'religion']
 
 ## Government vs. Free Speech
  - [https://www.wsj.com/articles/government-vs-free-speech-deda9dce](https://www.wsj.com/articles/government-vs-free-speech-deda9dce)
@@ -2342,7 +2366,7 @@
  - [https://www.wsj.com/articles/spains-catholic-church-finds-church-personnel-abused-hundreds-3047140a](https://www.wsj.com/articles/spains-catholic-church-finds-church-personnel-abused-hundreds-3047140a)
  - date published: 2023-06-02T15:14:00+00:00
  - user: rumpel
- - tags: ['spain', 'church scandal']
+ - tags: ['spain', 'church scandal', 'religion']
 
 ## Sleepless nights, letter to Nassar: Epstein’s final days revealed
  - [https://www.aljazeera.com/economy/2023/6/2/sleepless-nights-letter-to-nassar-epsteins-final-days-revealed](https://www.aljazeera.com/economy/2023/6/2/sleepless-nights-letter-to-nassar-epsteins-final-days-revealed)
@@ -2662,6 +2686,12 @@
  - user: rumpel
  - tags: ['woke', 'lgbt', 'pride', 'the left wing', 'indoctrination']
 
+## Black Lives Matter Foundation Going Broke After Raising $90 Million
+ - [https://www.dailywire.com/news/black-lives-matter-foundation-going-broke-after-raising-90-million](https://www.dailywire.com/news/black-lives-matter-foundation-going-broke-after-raising-90-million)
+ - date published: 2023-05-24T14:05:43+00:00
+ - user: rumpel
+ - tags: ['black lives matter']
+
 ## The Little Mermaid’s Rotten Tomatoes Is A Hilarious Reality Check For Disney’s Remakes
  - [https://screenrant.com/little-mermaid-2023-rotten-tomatoes-score-disney-remakes/](https://screenrant.com/little-mermaid-2023-rotten-tomatoes-score-disney-remakes/)
  - date published: 2023-05-24T13:00:19+00:00
@@ -2702,7 +2732,7 @@
  - [https://www.aljazeera.com/news/2023/5/24/illinois-probe-reveals-rampant-sexual-abuse-in-catholic-church](https://www.aljazeera.com/news/2023/5/24/illinois-probe-reveals-rampant-sexual-abuse-in-catholic-church)
  - date published: 2023-05-24T01:02:08+00:00
  - user: rumpel
- - tags: ['church scandal', 'catholic']
+ - tags: ['church scandal', 'religion', 'catholic', 'america']
 
 ## ‘A Dangerous Path’: Christian Banned From Teaching After ‘Misgendering’ Student
  - [https://www.dailywire.com/news/a-dangerous-path-christian-banned-from-teaching-after-misgendering-student](https://www.dailywire.com/news/a-dangerous-path-christian-banned-from-teaching-after-misgendering-student)
@@ -3230,7 +3260,7 @@
  - [https://en.wikipedia.org/wiki/List_of_Islamist_terrorist_attacks](https://en.wikipedia.org/wiki/List_of_Islamist_terrorist_attacks)
  - date published: 2023-05-05T07:40:34+00:00
  - user: rumpel
- - tags: ['extremism', 'islam', 'terrorism']
+ - tags: ['islam', 'terrorism', 'religion', 'extremism']
 
 ## The EARN IT bill is back. We've killed it twice, let's do it again
  - [https://tutanota.com/blog/posts/earn-it-barr-encryption](https://tutanota.com/blog/posts/earn-it-barr-encryption)
@@ -3740,7 +3770,7 @@
  - [https://www.amazon.com/transHuman-Code-Program-Your-Future/dp/1626346291](https://www.amazon.com/transHuman-Code-Program-Your-Future/dp/1626346291)
  - date published: 2023-04-20T10:01:27+00:00
  - user: rumpel
- - tags: ['transhumanism', 'artificial intelligence']
+ - tags: ['book', 'artificial intelligence', 'transhumanism']
 
 ## Christians become a target of Israel's rising far-right
  - [https://www.nbcnews.com/news/world/israel-palestinians-christians-attacks-holy-land-jewish-extremists-rcna80441](https://www.nbcnews.com/news/world/israel-palestinians-christians-attacks-holy-land-jewish-extremists-rcna80441)
@@ -4172,7 +4202,7 @@
  - [https://www.foxnews.com/us/more-than-150-catholic-priests-maryland-sexually-abused-600-children-new-report-found](https://www.foxnews.com/us/more-than-150-catholic-priests-maryland-sexually-abused-600-children-new-report-found)
  - date published: 2023-04-06T05:37:10+00:00
  - user: rumpel
- - tags: ['church scandal', 'catholic', 'religion']
+ - tags: ['church scandal', 'religion', 'catholic', 'america']
 
 ## AI Is Coming for Voice Actors. Artists Everywhere Should Take Note
  - [https://thewalrus.ca/ai-is-coming-for-voice-actors-artists-everywhere-should-take-note/](https://thewalrus.ca/ai-is-coming-for-voice-actors-artists-everywhere-should-take-note/)
@@ -5162,7 +5192,7 @@
  - [https://www.youtube.com/watch?v=0Zou9M4BhBs](https://www.youtube.com/watch?v=0Zou9M4BhBs)
  - date published: 2023-03-05T00:00:00+00:00
  - user: rumpel
- - tags: ['jordan peterson', 'bible']
+ - tags: ['religion knowledge', 'jordan peterson', 'religion', 'bible']
 
 ## A $60 Billion Housing Grab by Wall Street - The New York Times
  - [https://www.nytimes.com/2020/03/04/magazine/wall-street-landlords.html](https://www.nytimes.com/2020/03/04/magazine/wall-street-landlords.html)
@@ -5295,6 +5325,12 @@
  - date published: 2023-03-01T00:00:00+00:00
  - user: rumpel
  - tags: ['deepfake']
+
+## The Media's Reaction to Woody Harrelson's SNL Monologue
+ - [https://www.youtube.com/watch?v=fJRGDW4lbss](https://www.youtube.com/watch?v=fJRGDW4lbss)
+ - date published: 2023-03-01T00:00:00+00:00
+ - user: rumpel
+ - tags: ['covid', 'woody harrelson']
 
 ## European Parliament latest EU body to ban TikTok from staff phones | Reuters
  - [https://www.reuters.com/technology/european-parliament-ban-tiktok-staff-phones-eu-official-says-2023-02-28/](https://www.reuters.com/technology/european-parliament-ban-tiktok-staff-phones-eu-official-says-2023-02-28/)
@@ -5654,7 +5690,7 @@
  - [https://www.lemonde.fr/en/international/article/2023/02/15/portuguese-catholic-church-shaken-by-report-of-5-000-child-victims-of-sexual-abuse_6015830_4.html](https://www.lemonde.fr/en/international/article/2023/02/15/portuguese-catholic-church-shaken-by-report-of-5-000-child-victims-of-sexual-abuse_6015830_4.html)
  - date published: 2023-02-15T03:09:24+00:00
  - user: rumpel
- - tags: ['portugal', 'church scandal', 'catholic']
+ - tags: ['church scandal', 'portugal', 'religion', 'catholic']
 
 ## Yes, Elon Musk created a special system for showing you all his tweets first
  - [https://www.theverge.com/2023/2/14/23600358/elon-musk-tweets-algorithm-changes-twitter](https://www.theverge.com/2023/2/14/23600358/elon-musk-tweets-algorithm-changes-twitter)

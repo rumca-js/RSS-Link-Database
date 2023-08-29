@@ -914,7 +914,7 @@
  - [https://www.amazon.com/Real-Anthony-Fauci-Democracy-Childrens/dp/1510766804](https://www.amazon.com/Real-Anthony-Fauci-Democracy-Childrens/dp/1510766804)
  - date published: 2021-11-16T11:30:30+00:00
  - user: rumpel
- - tags: ['covid', 'anthony fauci']
+ - tags: ['covid', 'book', 'anthony fauci']
 
 ## Youtube removing dislikes is good actually.
  - [https://www.youtube.com/watch?v=qukO3pKmqFY](https://www.youtube.com/watch?v=qukO3pKmqFY)
@@ -3722,7 +3722,7 @@
  - [https://www.youtube.com/watch?v=A41Tm5FDKns](https://www.youtube.com/watch?v=A41Tm5FDKns)
  - date published: 2021-06-24T20:17:29+00:00
  - user: rumpel
- - tags: ['jesus christ', 'history', 'bible']
+ - tags: ['religion', 'bible', 'jesus christ', 'religion knowledge', 'history']
 
 ## Pfizer, Moderna COVID-19 vaccines will get label warning over rare heart risk, FDA says
  - [https://www.fiercepharma.com/pharma/fda-says-label-warning-coming-for-heart-inflammation-pfizer-bnt-moderna-covid-19-vaccines](https://www.fiercepharma.com/pharma/fda-says-label-warning-coming-for-heart-inflammation-pfizer-bnt-moderna-covid-19-vaccines)
@@ -3740,7 +3740,7 @@
  - [https://www.pressherald.com/2021/06/24/over-600-bodies-found-at-church-run-indigenous-school-in-canada-groups-report/](https://www.pressherald.com/2021/06/24/over-600-bodies-found-at-church-run-indigenous-school-in-canada-groups-report/)
  - date published: 2021-06-24T08:57:52+00:00
  - user: rumpel
- - tags: ['canada', 'church scandal', 'religion']
+ - tags: ['church scandal', 'religion', 'canada']
 
 ## EU launches antitrust probe into Google banning third-party cookies in Chrome | Ars Technica
  - [https://arstechnica.com/tech-policy/2021/06/eu-antitrust-regulators-launch-probe-into-googles-floc-plan/](https://arstechnica.com/tech-policy/2021/06/eu-antitrust-regulators-launch-probe-into-googles-floc-plan/)
@@ -4172,7 +4172,7 @@
  - [https://lukesmith.xyz/articles/modern-freedom-means-being-a-slave-to-impulses/](https://lukesmith.xyz/articles/modern-freedom-means-being-a-slave-to-impulses/)
  - date published: 2021-05-06T00:00:00+00:00
  - user: None
- - tags: $tags
+ - tags: ['hedonism', 'religion']
 
 ## What A Facebook Ban Really Means For Trump
  - [https://www.grunge.com/401335/what-a-facebook-ban-really-means-for-trump/](https://www.grunge.com/401335/what-a-facebook-ban-really-means-for-trump/)

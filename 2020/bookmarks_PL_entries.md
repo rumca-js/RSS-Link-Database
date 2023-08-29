@@ -116,7 +116,7 @@
  - [https://www.polsatnews.pl/wiadomosc/2020-11-02/wieden-atak-na-synagoge-doszlo-do-strzelaniny/](https://www.polsatnews.pl/wiadomosc/2020-11-02/wieden-atak-na-synagoge-doszlo-do-strzelaniny/)
  - date published: 2020-11-02T07:43:07+00:00
  - user: rumpel
- - tags: ['austria', 'islam', 'terrorism']
+ - tags: ['islam', 'religion', 'terrorism', 'austria']
 
 ## KE ma umowę z Johnson&Johnson na 400 mln dawek szczepionki na Covid-19 - Bankier.pl
  - [https://www.bankier.pl/wiadomosc/KE-ma-umowe-z-Johnson-Johnson-na-400-mln-dawek-szczepionki-na-Covid-19-7985549.html](https://www.bankier.pl/wiadomosc/KE-ma-umowe-z-Johnson-Johnson-na-400-mln-dawek-szczepionki-na-Covid-19-7985549.html)
@@ -128,7 +128,7 @@
  - [https://www.polsatnews.pl/wiadomosc/2020-10-17/zabojstwo-nauczyciela-we-francji-uczniowie-boimy-sie/?ref=aside_najnowsze](https://www.polsatnews.pl/wiadomosc/2020-10-17/zabojstwo-nauczyciela-we-francji-uczniowie-boimy-sie/?ref=aside_najnowsze)
  - date published: 2020-10-17T07:38:51+00:00
  - user: rumpel
- - tags: ['france', 'islam', 'immigration']
+ - tags: ['islam', 'religion', 'immigration', 'france']
 
 ## Jak facebook amazon monopolizują dane osobowe. Giganty technologiczne i nowy porządek świata.WWR#112
  - [https://www.youtube.com/watch?v=PbqLcEsm1qE](https://www.youtube.com/watch?v=PbqLcEsm1qE)
@@ -158,7 +158,7 @@
  - [https://www.rmf24.pl/fakty/swiat/news-islamski-terrorysta-wyludzil-100-tys-euro-od-francuskiego-pa,nId,4761431](https://www.rmf24.pl/fakty/swiat/news-islamski-terrorysta-wyludzil-100-tys-euro-od-francuskiego-pa,nId,4761431)
  - date published: 2020-09-29T07:38:08+00:00
  - user: rumpel
- - tags: ['france', 'islam', 'charlie hebdo', 'immigration']
+ - tags: ['religion', 'immigration', 'islam', 'charlie hebdo', 'france']
 
 ## Dzieci odebrane Polce przez Jugendamt zostaną na razie u muzułmanów
  - [https://wiadomosci.dziennik.pl/swiat/artykuly/7802606,jugendamt-polka-dzieci-rodzina-muzulmanie-niemcy.html](https://wiadomosci.dziennik.pl/swiat/artykuly/7802606,jugendamt-polka-dzieci-rodzina-muzulmanie-niemcy.html)

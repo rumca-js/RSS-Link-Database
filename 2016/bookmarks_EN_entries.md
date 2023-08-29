@@ -176,7 +176,7 @@
  - [https://www.bbc.com/news/world-europe-36892785](https://www.bbc.com/news/world-europe-36892785)
  - date published: 2016-07-26T07:36:49+00:00
  - user: rumpel
- - tags: ['france', 'islam', 'immigration', 'christianophobia']
+ - tags: ['religion', 'immigration', 'islam', 'france', 'christianophobia']
 
 ## The Left’s New Weapon: ‘Diversity and Inclusion’
  - [https://www.lifezette.com/2016/07/lefts-new-weapon-diversity-inclusion/](https://www.lifezette.com/2016/07/lefts-new-weapon-diversity-inclusion/)
@@ -308,7 +308,7 @@
  - [https://edition.cnn.com/2016/03/24/europe/belgium-why-terrorists-struck/index.html](https://edition.cnn.com/2016/03/24/europe/belgium-why-terrorists-struck/index.html)
  - date published: 2016-03-24T07:49:58+00:00
  - user: rumpel
- - tags: ['extremism', 'islam', 'belgium', 'religion', 'terrorism']
+ - tags: ['religion', 'belgium', 'islam', 'terrorism', 'extremism', 'islam terror']
 
 ## Why Socialism Always Fails
  - [https://www.aei.org/carpe-diem/why-socialism-always-fails/](https://www.aei.org/carpe-diem/why-socialism-always-fails/)

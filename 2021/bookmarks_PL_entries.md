@@ -230,7 +230,7 @@
  - [https://pl.aleteia.org/2021/04/20/zginal-bo-finansowal-budowe-kosciola-morderstwo-chrzescijanskiego-handlowca/](https://pl.aleteia.org/2021/04/20/zginal-bo-finansowal-budowe-kosciola-morderstwo-chrzescijanskiego-handlowca/)
  - date published: 2021-04-20T07:44:46+00:00
  - user: rumpel
- - tags: ['christianophobia', 'religion', 'islam']
+ - tags: ['islam', 'islam terror', 'religion', 'christianophobia']
 
 ## „Nie szczepisz się, nie pracujesz z ludźmi”. Dyrektor UCK wzywa do wprowadzenia szczepionkowych sankcji
  - [https://m.pch24.pl/nie-szczepisz-sie-nie-pracujesz-z-ludzmi-lekarz-wzywa-do-wprowadzenia-szczepionkowych-sankcji/](https://m.pch24.pl/nie-szczepisz-sie-nie-pracujesz-z-ludzmi-lekarz-wzywa-do-wprowadzenia-szczepionkowych-sankcji/)
@@ -266,7 +266,7 @@
  - [https://businessinsider.com.pl/wiadomosci/arcybiskup-slawoj-leszek-glodz-ukarany-ma-majatek-wart-miliony/bw0gs42?utm_source=duckduckgo.com_viasg_businessinsider&utm_medium=referal&utm_campaign=leo_automatic&srcc=undefined&utm_v=2](https://businessinsider.com.pl/wiadomosci/arcybiskup-slawoj-leszek-glodz-ukarany-ma-majatek-wart-miliony/bw0gs42?utm_source=duckduckgo.com_viasg_businessinsider&utm_medium=referal&utm_campaign=leo_automatic&srcc=undefined&utm_v=2)
  - date published: 2021-03-30T07:29:28+00:00
  - user: rumpel
- - tags: ['catholic', 'church scandal', 'slawoj leszek glodz']
+ - tags: ['religion', 'church scandal', 'slawoj leszek glodz', 'catholic']
 
 ## Lockdown, zakaz spotkań i godzina policyjna. Jakie obostrzenia obowiązują w innych krajach Europy?
  - [https://next.gazeta.pl/next/7,151003,26916907,lockdown-zakaz-spotkan-i-godzina-policyjna-jakie-obostrzenia.html](https://next.gazeta.pl/next/7,151003,26916907,lockdown-zakaz-spotkan-i-godzina-policyjna-jakie-obostrzenia.html)
