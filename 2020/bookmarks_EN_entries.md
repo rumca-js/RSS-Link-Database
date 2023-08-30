@@ -596,7 +596,7 @@
  - [https://www.youtube.com/watch?v=dE8p-mcFdNg](https://www.youtube.com/watch?v=dE8p-mcFdNg)
  - date published: 2020-10-02T00:00:00+00:00
  - user: rumpel
- - tags: ['propaganda', 'the left wing', 'socialism', 'social engineering', 'grievance']
+ - tags: ['grievance', 'socialism', 'the left wing', 'woke', 'propaganda', 'social engineering']
 
 ## Aldous Huxley - The Most Brutally Honest 8 Minutes Of Your Life!
  - [https://www.youtube.com/watch?v=67fm4D5Ii6E](https://www.youtube.com/watch?v=67fm4D5Ii6E)
@@ -1124,7 +1124,7 @@
  - [https://www.spectator.co.uk/article/the-ghislaine-maxwell-i-know/](https://www.spectator.co.uk/article/the-ghislaine-maxwell-i-know/)
  - date published: 2020-07-03T12:05:38+00:00
  - user: rumpel
- - tags: ['ghislaine maxwell', 'alan dershowitz', 'jeffrey epstein', 'lynn de rothschild', 'evelyn de rothschild']
+ - tags: ['evelyn de rothschild', 'jeffrey epstein', 'ghislaine maxwell', 'lynn de rothschild', 'rothschild', 'alan dershowitz']
 
 ## Bill Gates' Sphere of Influence
  - [https://i.redd.it/u0zf525kep851.jpg](https://i.redd.it/u0zf525kep851.jpg)
@@ -1628,7 +1628,7 @@
  - [https://www.reddit.com/r/Epstein/comments/f4sap8/lynn_de_rothschild_one_of_the_closest_people_to/](https://www.reddit.com/r/Epstein/comments/f4sap8/lynn_de_rothschild_one_of_the_closest_people_to/)
  - date published: 2020-02-16T12:12:06+00:00
  - user: rumpel
- - tags: ['jeffrey epstein', 'lynn de rothschild']
+ - tags: ['jeffrey epstein', 'rothschild', 'lynn de rothschild']
 
 ## UK police deny responsibility for poster urging parents to report kids for using Kali Linux | ZDNET
  - [https://www.zdnet.com/article/uk-police-distance-themselves-from-poster-warning-parents-to-report-kids-for-using-kali-linux/](https://www.zdnet.com/article/uk-police-distance-themselves-from-poster-warning-parents-to-report-kids-for-using-kali-linux/)

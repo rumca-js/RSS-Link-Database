@@ -68,7 +68,7 @@
  - [https://www.amnesty.org/en/latest/campaigns/2017/11/the-occupation-of-water/](https://www.amnesty.org/en/latest/campaigns/2017/11/the-occupation-of-water/)
  - date published: 2017-11-29T18:14:27+00:00
  - user: rumpel
- - tags: ['palisteine', 'israel']
+ - tags: ['palesteine', 'israel']
 
 ## Happiness
  - [https://www.youtube.com/watch?v=e9dZQelULDk](https://www.youtube.com/watch?v=e9dZQelULDk)

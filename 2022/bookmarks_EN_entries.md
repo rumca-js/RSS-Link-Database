@@ -194,7 +194,7 @@
  - [https://www.foxnews.com/media/rachel-levine-ripped-demanding-censorship-misinformation-gender-affirming-care-kids](https://www.foxnews.com/media/rachel-levine-ripped-demanding-censorship-misinformation-gender-affirming-care-kids)
  - date published: 2022-12-26T23:00:18+00:00
  - user: rumpel
- - tags: ['rachel lavine', 'misinformation', 'gender']
+ - tags: ['misinformation', 'gender', 'rachel levine']
 
 ## Twitter Files: Platform Suppressed Valid Information from Medical Experts about Covid-19 | National Review
  - [https://www.nationalreview.com/news/twitter-files-platform-suppressed-valid-information-from-medical-experts-about-covid-19/](https://www.nationalreview.com/news/twitter-files-platform-suppressed-valid-information-from-medical-experts-about-covid-19/)
@@ -1220,7 +1220,7 @@
  - [https://www.npr.org/sections/pictureshow/2022/12/11/1139524126/photos-dead-sea-water-level-dropping-sinkholes-erosion](https://www.npr.org/sections/pictureshow/2022/12/11/1139524126/photos-dead-sea-water-level-dropping-sinkholes-erosion)
  - date published: 2022-12-11T19:54:01+00:00
  - user: rumpel
- - tags: ['dear sea', 'israel']
+ - tags: ['dead sea', 'israel']
 
 ## Rep Kevin McCarthy calls for investigation into social media censorship following Twitter disclosures
  - [https://reclaimthenet.org/mccarthy-calls-for-investigation-into-social-media-censorship/](https://reclaimthenet.org/mccarthy-calls-for-investigation-into-social-media-censorship/)
@@ -1292,7 +1292,7 @@
  - [http://www.paulgraham.com/identity.html](http://www.paulgraham.com/identity.html)
  - date published: 2022-12-10T09:57:08+00:00
  - user: None
- - tags: ['politics', 'religion', 'discusion', 'psychology']
+ - tags: ['psychology', 'religion', 'politics']
 
 ## Hunter Biden sells more paintings for up to $225,000 to anonymous buyers
  - [https://www.dailymail.co.uk/news/article-11523295/Hunter-Biden-sells-paintings-225-000-anonymous-buyers.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11523295/Hunter-Biden-sells-paintings-225-000-anonymous-buyers.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -1311,6 +1311,12 @@
  - date published: 2022-12-10T02:21:12+00:00
  - user: None
  - tags: ['tencent', 'china', 'corporatocracy']
+
+## Blockchain Blasphemy and the Technological Antichrist
+ - [https://lukesmith.xyz/articles/blockchain-blasphemy/](https://lukesmith.xyz/articles/blockchain-blasphemy/)
+ - date published: 2022-12-10T00:00:00+00:00
+ - user: rumpel
+ - tags: ['transhumanism']
 
 ## BlackRock CEO Larry Fink is called to quit by pension chief over ESG obsession
  - [https://www.dailymail.co.uk/news/article-11521597/BlackRock-CEO-Larry-Fink-called-quit-pension-chief-ESG-obsession.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11521597/BlackRock-CEO-Larry-Fink-called-quit-pension-chief-ESG-obsession.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -5090,7 +5096,7 @@
  - [https://www.techradar.com/news/microsoft-chief-warns-more-deepfake-threats-could-be-coming-soon/](https://www.techradar.com/news/microsoft-chief-warns-more-deepfake-threats-could-be-coming-soon/)
  - date published: 2022-09-27T17:59:51+00:00
  - user: None
- - tags: ['microsoft', 'deep fakes']
+ - tags: ['microsoft', 'deepfake']
 
 ## Biden Ties to BlackRock Deepen With Latest Treasury Hire (BLK) - Bloomberg
  - [https://www.bloomberg.com/news/articles/2022-08-11/biden-ties-to-blackrock-deepen-with-latest-treasury-hire?leadSource=uverify%20wall](https://www.bloomberg.com/news/articles/2022-08-11/biden-ties-to-blackrock-deepen-with-latest-treasury-hire?leadSource=uverify%20wall)
@@ -9928,6 +9934,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Chinese state media use Facebook to push pro-Russia disinformation on Ukraine war | Computer Weekly
+ - [https://www.computerweekly.com/news/252514981/Chinese-state-media-use-Facebook-to-push-pro-Russia-disinformation-on-Ukraine-war](https://www.computerweekly.com/news/252514981/Chinese-state-media-use-Facebook-to-push-pro-Russia-disinformation-on-Ukraine-war)
+ - date published: 2022-03-23T06:57:41+00:00
+ - user: rumpel
+ - tags: ['ukraine', 'china', 'disinformation', 'facebook', 'russia']
+
 ## 1920s - A Trip Around The World in Color  [60fps, Remastered] w/sound design added
  - [https://www.youtube.com/watch?v=GUZ0jTU1o5s](https://www.youtube.com/watch?v=GUZ0jTU1o5s)
  - date published: 2022-03-23T00:00:00+00:00
@@ -10263,6 +10275,12 @@
  - date published: 2022-03-07T08:35:10.444865+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Despite promises, Google and other ad platforms are still funding Russian disinformation - NewsGuard
+ - [https://www.newsguardtech.com/special-reports/ads-russian-propaganda/](https://www.newsguardtech.com/special-reports/ads-russian-propaganda/)
+ - date published: 2022-03-07T06:59:34+00:00
+ - user: rumpel
+ - tags: ['disinformation', 'russia', 'google']
 
 ## No, "Open Source" does not mean "Includes Free Support"
  - [https://raccoon.onyxbits.de/blog/bugreport-free-support/](https://raccoon.onyxbits.de/blog/bugreport-free-support/)

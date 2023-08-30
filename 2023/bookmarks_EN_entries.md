@@ -1,3 +1,45 @@
+## Child safety bills are reshaping the internet for everyone
+ - [https://www.theverge.com/2023/8/29/23849375/kosa-child-safety-free-speech-louisiana-utah-parental-consent](https://www.theverge.com/2023/8/29/23849375/kosa-child-safety-free-speech-louisiana-utah-parental-consent)
+ - date published: 2023-08-29T14:36:58.509838+00:00
+ - user: rumpel
+ - tags: ['safety bill', 'tech control', 'government control', 'internet']
+
+## Rothschild family - Wikipedia
+ - [https://en.wikipedia.org/wiki/Rothschild_family](https://en.wikipedia.org/wiki/Rothschild_family)
+ - date published: 2023-08-29T14:22:31+00:00
+ - user: rumpel
+ - tags: ['rothschild']
+
+## Nakba - Wikipedia
+ - [https://en.wikipedia.org/wiki/Nakba](https://en.wikipedia.org/wiki/Nakba)
+ - date published: 2023-08-29T14:08:06+00:00
+ - user: rumpel
+ - tags: ['palestine', 'nakba', 'israel']
+
+## The Nakba did not start or end in 1948 | Features | Al Jazeera
+ - [https://www.aljazeera.com/features/2017/5/23/the-nakba-did-not-start-or-end-in-1948](https://www.aljazeera.com/features/2017/5/23/the-nakba-did-not-start-or-end-in-1948)
+ - date published: 2023-08-29T14:03:35+00:00
+ - user: rumpel
+ - tags: ['palestine', 'nakba', 'israel']
+
+## Edmond James de Rothschild - Wikipedia
+ - [https://en.wikipedia.org/wiki/Edmond_James_de_Rothschild](https://en.wikipedia.org/wiki/Edmond_James_de_Rothschild)
+ - date published: 2023-08-29T13:48:13+00:00
+ - user: rumpel
+ - tags: ['rothschild', 'edmond de rothschild']
+
+## Vampyre Cosmetics Cuts Ties With Alice Cooper After Anti-Trans Comments – Billboard
+ - [https://www.billboard.com/music/music-news/alice-cooper-vampyre-cosmetics-collection-trans-comments-1235401594/](https://www.billboard.com/music/music-news/alice-cooper-vampyre-cosmetics-collection-trans-comments-1235401594/)
+ - date published: 2023-08-29T10:32:14+00:00
+ - user: rumpel
+ - tags: ['transgender', 'the left wing', 'lgbt', 'censorship']
+
+## Grumpy Website
+ - [https://grumpy.website/](https://grumpy.website/)
+ - date published: 2023-08-29T06:57:03.786337+00:00
+ - user: rumpel
+ - tags: ['ui', 'programming']
+
 ## Google’s Surveillance
  - [https://simplifiedprivacy.com/googles-surveillance-the-shocking-truth/](https://simplifiedprivacy.com/googles-surveillance-the-shocking-truth/)
  - date published: 2023-08-28T20:06:41.170470+00:00
@@ -33,6 +75,12 @@
  - date published: 2023-08-26T20:39:30.853939+00:00
  - user: rumpel
  - tags: ['pollution']
+
+## The "chicken" At McDonald's Isn't Even Half A Chicken: Insiders Reveal The Trick
+ - [https://nationworldnews.com/the-chicken-at-mcdonalds-isnt-even-half-a-chicken-insiders-reveal-the-trick/](https://nationworldnews.com/the-chicken-at-mcdonalds-isnt-even-half-a-chicken-insiders-reveal-the-trick/)
+ - date published: 2023-08-26T17:43:46+00:00
+ - user: rumpel
+ - tags: ['food']
 
 ## Web Scraping for Me, but Not for Thee
  - [https://blog.ericgoldman.org/archives/2023/08/web-scraping-for-me-but-not-for-thee-guest-blog-post.htm](https://blog.ericgoldman.org/archives/2023/08/web-scraping-for-me-but-not-for-thee-guest-blog-post.htm)
@@ -147,6 +195,12 @@
  - date published: 2023-08-18T20:45:10+00:00
  - user: rumpel
  - tags: ['moderna', 'nih', 'covid', 'vaccine']
+
+## Israeli police arrest and brand Palestinian with ‘Star of David’: Report
+ - [https://www.aljazeera.com/news/2023/8/18/israeli-police-arrest-and-brand-palestinian-with-star-of-david-report](https://www.aljazeera.com/news/2023/8/18/israeli-police-arrest-and-brand-palestinian-with-star-of-david-report)
+ - date published: 2023-08-18T20:25:09+00:00
+ - user: rumpel
+ - tags: ['israel']
 
 ## Dude,Where's My Donations? Wikimedia gives another $1M to non-Wikimedia projects
  - [https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-08-15/News_and_notes](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-08-15/News_and_notes)
@@ -746,7 +800,7 @@
  - [https://www.nbcnews.com/news/us-news/lawsuit-accuses-billionaire-leon-black-raping-autistic-teenager-jeffre-rcna96373](https://www.nbcnews.com/news/us-news/lawsuit-accuses-billionaire-leon-black-raping-autistic-teenager-jeffre-rcna96373)
  - date published: 2023-07-26T11:02:39+00:00
  - user: rumpel
- - tags: ['jeffrey epstein', 'leon black', 'billionaries', 'elite']
+ - tags: ['elite', 'jeffrey epstein', 'leon black', 'billionaires']
 
 ## Google vs. the Open Web
  - [https://interpeer.io/blog/2023/07/google-vs-the-open-web/](https://interpeer.io/blog/2023/07/google-vs-the-open-web/)
@@ -1148,7 +1202,7 @@
  - [https://freshrss.org/](https://freshrss.org/)
  - date published: 2023-07-15T06:22:13+00:00
  - user: rumpel
- - tags: ['selfhost,rss,rss client']
+ - tags: ['selfhost', 'rss client', 'rss']
 
 ## How Israel weaponises museums to erase Palestinian existence
  - [https://www.aljazeera.com/opinions/2023/7/15/how-israel-weaponises-museums-to-erase-palestinian-existence](https://www.aljazeera.com/opinions/2023/7/15/how-israel-weaponises-museums-to-erase-palestinian-existence)
@@ -1713,6 +1767,12 @@
  - date published: 2023-06-23T07:37:40+00:00
  - user: rumpel
  - tags: ['reddit']
+
+## Jeffrey Epstein got more than $300 MILLION in tax breaks from US Virgin Islands
+ - [https://www.dailymail.co.uk/news/article-12225363/Jeffrey-Epstein-got-300-MILLION-tax-breaks-Virgin-Islands.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12225363/Jeffrey-Epstein-got-300-MILLION-tax-breaks-Virgin-Islands.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - date published: 2023-06-23T04:03:21+00:00
+ - user: rumpel
+ - tags: ['jeffrey epstein']
 
 ## Canadians will no longer have access to news content on Facebook and Instagram
  - [https://www.cbc.ca/news/politics/online-news-act-meta-facebook-1.6885634](https://www.cbc.ca/news/politics/online-news-act-meta-facebook-1.6885634)
@@ -2938,6 +2998,12 @@
  - user: rumpel
  - tags: ['crypto', 'europe', 'government control', 'markets in cryptoassets']
 
+## Epstein Moved $270,000 for Noam Chomsky and Paid $150,000 to Leon Botstein
+ - [https://www.wsj.com/articles/jeffrey-epstein-noam-chomsky-leon-botstein-bard-ce5beb9d](https://www.wsj.com/articles/jeffrey-epstein-noam-chomsky-leon-botstein-bard-ce5beb9d)
+ - date published: 2023-05-17T09:30:00+00:00
+ - user: rumpel
+ - tags: ['jeffrey epstein', 'leon botstein', 'noam chomsky']
+
 ## ChatGPT is not ‘artificial intelligence.’ It’s theft
  - [https://www.americamagazine.org/faith/2023/05/15/chatgpt-artificial-intelligence-theft-245283](https://www.americamagazine.org/faith/2023/05/15/chatgpt-artificial-intelligence-theft-245283)
  - date published: 2023-05-16T22:00:02+00:00
@@ -3086,7 +3152,7 @@
  - [https://www.aljazeera.com/opinions/2023/5/13/israel-denies-the-nakba-while-perpetuating-it](https://www.aljazeera.com/opinions/2023/5/13/israel-denies-the-nakba-while-perpetuating-it)
  - date published: 2023-05-13T11:02:00+00:00
  - user: rumpel
- - tags: ['palestine', 'nakba']
+ - tags: ['palestine', 'nakba', 'israel']
 
 ## Why Conscious AI Is a Bad, Bad Idea
  - [https://nautil.us/why-conscious-ai-is-a-bad-bad-idea-302937/](https://nautil.us/why-conscious-ai-is-a-bad-bad-idea-302937/)
@@ -4137,6 +4203,12 @@
  - date published: 2023-04-10T07:24:00+00:00
  - user: rumpel
  - tags: ['lgbt', 'the left wing', 'canada', 'gender']
+
+## James Lindsay at European Parliament  - Woke Conference
+ - [https://www.youtube.com/watch?v=lc0684V2ej8](https://www.youtube.com/watch?v=lc0684V2ej8)
+ - date published: 2023-04-10T00:00:00+00:00
+ - user: rumpel
+ - tags: ['woke', 'neomarxism', 'james lindsay']
 
 ## This Makes Hacking TOO Easy - Flipper Zero
  - [https://www.youtube.com/watch?v=nLIp4wd0oXs](https://www.youtube.com/watch?v=nLIp4wd0oXs)
@@ -5462,7 +5534,7 @@
  - [https://newdiscourses.com/translations-from-the-wokish/](https://newdiscourses.com/translations-from-the-wokish/)
  - date published: 2023-02-23T11:44:36+00:00
  - user: rumpel
- - tags: ['james lindsay', 'newspeak', 'the left wing', 'grievance']
+ - tags: ['grievance', 'james lindsay', 'the left wing', 'newspeak', 'woke']
 
 ## Mozilla Foundation - Mozilla Study: Data Privacy Labels for Most Top Apps in Google Play Store are False or Misleading
  - [https://foundation.mozilla.org/en/blog/mozilla-study-data-privacy-labels-for-most-top-apps-in-google-play-store-are-false-or-misleading/](https://foundation.mozilla.org/en/blog/mozilla-study-data-privacy-labels-for-most-top-apps-in-google-play-store-are-false-or-misleading/)

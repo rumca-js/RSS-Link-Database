@@ -656,7 +656,7 @@
  - [https://www.wykop.pl/link/6839177/bruce-willis-sprzedal-swoja-twarz-deepfake-sprawi-ze-zagra-go-inny-aktor/](https://www.wykop.pl/link/6839177/bruce-willis-sprzedal-swoja-twarz-deepfake-sprawi-ze-zagra-go-inny-aktor/)
  - date published: 2022-09-29T20:05:01+00:00
  - user: None
- - tags: ['bruce willis', 'deep fakes']
+ - tags: ['bruce willis', 'deepfake']
 
 ## Doradca FDA ostrzega, że zdrowi młodzi ludzie NIE powinni brać nowej dawki COVID
  - [https://www.wykop.pl/link/6837757/doradca-fda-ostrzega-ze-zdrowi-mlodzi-ludzie-nie-powinni-brac-nowej-dawki-covid/](https://www.wykop.pl/link/6837757/doradca-fda-ostrzega-ze-zdrowi-mlodzi-ludzie-nie-powinni-brac-nowej-dawki-covid/)

@@ -2078,7 +2078,7 @@
  - [https://www.cnbc.com/2021/09/14/facebook-documents-show-how-toxic-instagram-is-for-teens-wsj.html](https://www.cnbc.com/2021/09/14/facebook-documents-show-how-toxic-instagram-is-for-teens-wsj.html)
  - date published: 2021-09-14T08:26:01+00:00
  - user: rumpel
- - tags: ['facook', 'instagram', 'social media']
+ - tags: ['instagram', 'facebook', 'social media']
 
 ## How to back up your data and keep it safe - BBC News
  - [https://www.bbc.co.uk/news/business-58050387](https://www.bbc.co.uk/news/business-58050387)
@@ -2109,6 +2109,12 @@
  - date published: 2021-09-13T13:21:14.633058+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Facebook Says Its Rules Apply to All. Company Documents Reveal a Secret Elite That’s Exempt. - WSJ
+ - [https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-11631541353](https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-11631541353)
+ - date published: 2021-09-13T06:55:27+00:00
+ - user: rumpel
+ - tags: ['elite', 'corporatocracy', 'facebook files', 'manufacturing consent', 'facebook', 'inequality']
 
 ## The Dead Internet Theory
  - [https://www.youtube.com/watch?v=DEn758DVF9I](https://www.youtube.com/watch?v=DEn758DVF9I)
@@ -3993,6 +3999,12 @@
  - date published: 2021-05-26T19:36:37+00:00
  - user: rumpel
  - tags: ['censorship', 'wuhan', 'covid', 'facebook', 'lab leak']
+
+## Russia, Iran were top two sources of disinfo on Facebook targeting U.S. during Trump admin, says report
+ - [https://www.nbcnews.com/politics/national-security/russia-iran-were-top-two-sources-disinfo-facebook-targeting-u-n1268550](https://www.nbcnews.com/politics/national-security/russia-iran-were-top-two-sources-disinfo-facebook-targeting-u-n1268550)
+ - date published: 2021-05-26T06:57:00+00:00
+ - user: rumpel
+ - tags: ['disinformation', 'iran', 'facebook', 'russia', 'misinformation']
 
 ## The Cover-Up Continues: The Truth About Bill Gates, Microsoft, and Jeffrey Epstein
  - [https://unlimitedhangout.com/2021/05/investigative-reports/the-cover-up-continues-the-truth-about-bill-gates-microsoft-and-jeffrey-epstein/](https://unlimitedhangout.com/2021/05/investigative-reports/the-cover-up-continues-the-truth-about-bill-gates-microsoft-and-jeffrey-epstein/)

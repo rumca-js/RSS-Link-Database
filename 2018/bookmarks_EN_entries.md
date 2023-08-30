@@ -62,7 +62,7 @@
  - [https://www.youtube.com/watch?v=OlqU_JMTzd4](https://www.youtube.com/watch?v=OlqU_JMTzd4)
  - date published: 2018-10-30T00:00:00+00:00
  - user: rumpel
- - tags: ['lgbt', 'joe rogan', 'sjw', 'the left wing', 'feminism', 'grievance']
+ - tags: ['joe rogan', 'grievance', 'lgbt', 'james lindsay', 'feminism', 'the left wing', 'sjw', 'woke', 'peter boghossian']
 
 ## AN UNCONVENTIONAL APPROACH TO POPULATION POLICY: Use the Feminist Revolution To Reverse World Population Growth - Negative Population Growth
  - [https://npg.org/library/press-releases/13380.html](https://npg.org/library/press-releases/13380.html)

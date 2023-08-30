@@ -398,7 +398,7 @@
  - [https://thenewstack.io/why-are-so-many-developers-hating-on-object-oriented-programming/](https://thenewstack.io/why-are-so-many-developers-hating-on-object-oriented-programming/)
  - date published: 2019-08-21T10:01:11+00:00
  - user: rumpel
- - tags: ['programming', 'objectoriented', 'design patterns']
+ - tags: ['object oriented', 'programming', 'design patterns']
 
 ## Microsoft Contractors Listened to Xbox Owners in Their Homes
  - [https://www.vice.com/en/article/43kv4q/microsoft-human-contractors-listened-to-xbox-owners-homes-kinect-cortana](https://www.vice.com/en/article/43kv4q/microsoft-human-contractors-listened-to-xbox-owners-homes-kinect-cortana)
@@ -489,6 +489,12 @@
  - date published: 2019-08-08T06:00:14+00:00
  - user: rumpel
  - tags: ['privacy', 'censorship', 'surveillance', 'free speech']
+
+## Hackers Can Break Into an iPhone Just by Sending a Text | WIRED
+ - [https://www.wired.com/story/imessage-interactionless-hacks-google-project-zero/](https://www.wired.com/story/imessage-interactionless-hacks-google-project-zero/)
+ - date published: 2019-08-07T07:01:25+00:00
+ - user: rumpel
+ - tags: ['vulnerability', 'iphone']
 
 ## Robert Kiyosaki 2019 - The Speech That Broke The Internet!!! KEEP THEM POOR!
  - [https://www.youtube.com/watch?v=azq0S0DKS50](https://www.youtube.com/watch?v=azq0S0DKS50)
