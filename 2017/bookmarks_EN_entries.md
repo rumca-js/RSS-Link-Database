@@ -64,6 +64,12 @@
  - user: rumpel
  - tags: ['intel management engine', 'surveillance', 'tracking', 'vulnerability']
 
+## Bat cave solves mystery of deadly SARS virus — and suggests new outbreak could occur
+ - [https://www.nature.com/articles/d41586-017-07766-9](https://www.nature.com/articles/d41586-017-07766-9)
+ - date published: 2017-12-01T14:40:01+00:00
+ - user: rumpel
+ - tags: ['sars', 'covid']
+
 ## The Occupation of Water - Amnesty International
  - [https://www.amnesty.org/en/latest/campaigns/2017/11/the-occupation-of-water/](https://www.amnesty.org/en/latest/campaigns/2017/11/the-occupation-of-water/)
  - date published: 2017-11-29T18:14:27+00:00

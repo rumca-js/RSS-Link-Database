@@ -1042,6 +1042,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Robinhood security breach compromised data of 7 million users
+ - [https://www.engadget.com/robinhood-users-compromised-security-breach-063802932.html](https://www.engadget.com/robinhood-users-compromised-security-breach-063802932.html)
+ - date published: 2021-11-09T12:29:19+00:00
+ - user: rumpel
+ - tags: ['hackers', 'robinhood', 'data leak']
+
 ## Why Online Anonymity Matters | Belfer Center for Science and International Affairs
  - [https://www.belfercenter.org/publication/why-online-anonymity-matters](https://www.belfercenter.org/publication/why-online-anonymity-matters)
  - date published: 2021-11-09T07:50:28+00:00

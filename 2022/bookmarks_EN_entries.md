@@ -1936,6 +1936,12 @@
  - user: None
  - tags: ['meta', 'privacy', 'facebook']
 
+## Twitter data leak exposes over 5.4 million accounts
+ - [https://www.engadget.com/twitter-data-for-54-million-users-leaked-online-095040426.html](https://www.engadget.com/twitter-data-for-54-million-users-leaked-online-095040426.html)
+ - date published: 2022-11-28T12:30:33+00:00
+ - user: rumpel
+ - tags: ['hackers', 'data leak', 'twitter']
+
 ## BSAG » Hold me closer, tiny keyboard
  - [https://www.rousette.org.uk/archives/hold-me-closer-tiny-keyboard/](https://www.rousette.org.uk/archives/hold-me-closer-tiny-keyboard/)
  - date published: 2022-11-28T10:29:05+00:00

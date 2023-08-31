@@ -1000,6 +1000,12 @@
  - user: rumpel
  - tags: ['mackenzie scott', 'black lives matter', 'jeff bezos', 'amazon']
 
+## Globaliści planują Wielki Reset
+ - [https://independenttrader.pl/globalisci-planuja-wielki-reset.html](https://independenttrader.pl/globalisci-planuja-wielki-reset.html)
+ - date published: 2020-07-28T07:48:25+00:00
+ - user: None
+ - tags: ['elites', 'great reset', 'wef', 'world economic forum']
+
 ## 'I feel like I need to buy a firearm': Radio host who mocked Trump for demanding rioting in Seattle stop sees his apartment building damaged | Washington Examiner
  - [https://www.washingtonexaminer.com/news/i-feel-like-i-need-to-buy-a-firearm-radio-host-who-mocked-trump-for-demanding-rioting-in-seattle-stop-sees-his-apartment-building-damaged](https://www.washingtonexaminer.com/news/i-feel-like-i-need-to-buy-a-firearm-radio-host-who-mocked-trump-for-demanding-rioting-in-seattle-stop-sees-his-apartment-building-damaged)
  - date published: 2020-07-27T08:57:31+00:00
@@ -1167,12 +1173,6 @@
  - date published: 2020-06-29T09:48:31+00:00
  - user: rumpel
  - tags: ['masks', 'covid mandates', 'covid']
-
-## "Reddit will allow racist hate speech directed at ""majority"" populations and conservatives"
- - [https://twitter.com/TomFitton/status/1277667890913738753](https://twitter.com/TomFitton/status/1277667890913738753)
- - date published: 2020-06-29T06:52:34+00:00
- - user: None
- - tags: ['inequality', 'reddit', 'hate speech']
 
 ## It's probably time to stop recommending Clean Code
  - [https://qntm.org/clean](https://qntm.org/clean)

@@ -1,3 +1,9 @@
+## Apple: Using cash is “clearly reckless”
+ - [https://blog.vexl.it/apple-using-cash-is-clearly-reckless-77e2a519a3bc](https://blog.vexl.it/apple-using-cash-is-clearly-reckless-77e2a519a3bc)
+ - date published: 2023-08-30T10:00:29.249057+00:00
+ - user: rumpel
+ - tags: ['digital money', 'apple']
+
 ## Child safety bills are reshaping the internet for everyone
  - [https://www.theverge.com/2023/8/29/23849375/kosa-child-safety-free-speech-louisiana-utah-parental-consent](https://www.theverge.com/2023/8/29/23849375/kosa-child-safety-free-speech-louisiana-utah-parental-consent)
  - date published: 2023-08-29T14:36:58.509838+00:00
@@ -39,6 +45,12 @@
  - date published: 2023-08-29T06:57:03.786337+00:00
  - user: rumpel
  - tags: ['ui', 'programming']
+
+## Terms Every Linux User Needs To Know
+ - [https://www.youtube.com/watch?v=NujVOhdBhAU](https://www.youtube.com/watch?v=NujVOhdBhAU)
+ - date published: 2023-08-28T21:31:15.766437+00:00
+ - user: rumpel
+ - tags: ['linux']
 
 ## Google’s Surveillance
  - [https://simplifiedprivacy.com/googles-surveillance-the-shocking-truth/](https://simplifiedprivacy.com/googles-surveillance-the-shocking-truth/)
@@ -813,6 +825,12 @@
  - date published: 2023-07-26T07:13:44+00:00
  - user: rumpel
  - tags: ['selfhost']
+
+## Welcome! - The Apache HTTP Server Project
+ - [https://httpd.apache.org/](https://httpd.apache.org/)
+ - date published: 2023-07-26T06:33:58+00:00
+ - user: rumpel
+ - tags: ['apache', 'selfhost']
 
 ## nginx
  - [https://nginx.org/en/](https://nginx.org/en/)
@@ -1954,6 +1972,12 @@
  - user: rumpel
  - tags: ['artificial intelligence']
 
+## Pride threats: What’s happening at Target and Starbucks is much grimmer than it seems.
+ - [https://slate.com/news-and-politics/2023/06/target-starbucks-pride-threats.html](https://slate.com/news-and-politics/2023/06/target-starbucks-pride-threats.html)
+ - date published: 2023-06-15T12:07:40+00:00
+ - user: rumpel
+ - tags: ['lgbt', 'rainbow washing', 'hypocrisy']
+
 ## AI Jesus gives gaming tips and discusses anime on Twitch | Metro News
  - [https://metro.co.uk/2023/06/15/ai-jesus-gives-gaming-tips-and-discusses-anime-on-twitch-18955708/](https://metro.co.uk/2023/06/15/ai-jesus-gives-gaming-tips-and-discusses-anime-on-twitch-18955708/)
  - date published: 2023-06-15T11:01:20+00:00
@@ -2043,6 +2067,12 @@
  - date published: 2023-06-13T18:45:11+00:00
  - user: rumpel
  - tags: ['technofeudalism', 'privacy', 'big brother', 'surveillance']
+
+## C.I.A. Told Ukraine Last Summer It Should Not Attack Nord Stream Pipelines
+ - [https://www.nytimes.com/2023/06/13/us/politics/nord-stream-pipeline-ukraine-cia.html](https://www.nytimes.com/2023/06/13/us/politics/nord-stream-pipeline-ukraine-cia.html)
+ - date published: 2023-06-13T18:32:14+00:00
+ - user: rumpel
+ - tags: ['nord stream', 'cia']
 
 ## What Did Pfizer CEO Say in 2019 About Pills with Ingestible Sensors?
  - [https://www.youtube.com/watch?v=ORB4j8Z1W1A](https://www.youtube.com/watch?v=ORB4j8Z1W1A)
@@ -3387,6 +3417,12 @@
  - date published: 2023-05-04T08:17:07+00:00
  - user: rumpel
  - tags: ['uber', 'hackers', 'data leak']
+
+## OpenAI’s Losses Doubled to $540 Million as It Developed ChatGPT — The Information
+ - [https://www.theinformation.com/articles/openais-losses-doubled-to-540-million-as-it-developed-chatgpt](https://www.theinformation.com/articles/openais-losses-doubled-to-540-million-as-it-developed-chatgpt)
+ - date published: 2023-05-04T07:33:07+00:00
+ - user: rumpel
+ - tags: ['openai', 'artificial intelligence', 'chatgpt']
 
 ## Google rolls out passkey technology in ‘beginning of the end’ for passwords
  - [https://www.theguardian.com/technology/2023/may/04/google-rolls-out-passkey-technology-in-beginning-of-the-end-for-passwords](https://www.theguardian.com/technology/2023/may/04/google-rolls-out-passkey-technology-in-beginning-of-the-end-for-passwords)
