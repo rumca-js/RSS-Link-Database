@@ -1,8 +1,26 @@
+## X’s New Privacy Policy Gives Itself Permission To Collect Biometric Data
+ - [https://reclaimthenet.org/xs-new-privacy-policy-gives-itself-permission-to-collect-biometric-data](https://reclaimthenet.org/xs-new-privacy-policy-gives-itself-permission-to-collect-biometric-data)
+ - date published: 2023-08-31T18:37:20+00:00
+ - user: rumpel
+ - tags: ['biometrics', 'technofeudalism']
+
+## BioNTech faces first German lawsuit over alleged COVID vaccine side effects | Reuters
+ - [https://www.reuters.com/business/healthcare-pharmaceuticals/biontech-faces-first-german-lawsuit-over-alleged-covid-vaccine-side-effects-2023-06-11/](https://www.reuters.com/business/healthcare-pharmaceuticals/biontech-faces-first-german-lawsuit-over-alleged-covid-vaccine-side-effects-2023-06-11/)
+ - date published: 2023-08-31T07:23:13+00:00
+ - user: rumpel
+ - tags: ['covid', 'vaccine']
+
 ## Apple: Using cash is “clearly reckless”
  - [https://blog.vexl.it/apple-using-cash-is-clearly-reckless-77e2a519a3bc](https://blog.vexl.it/apple-using-cash-is-clearly-reckless-77e2a519a3bc)
  - date published: 2023-08-30T10:00:29.249057+00:00
  - user: rumpel
  - tags: ['digital money', 'apple']
+
+## Judge dismissed lawsuit challenging Kappa Kappa Gamma's induction of transgender student at University of Wyoming | CNN
+ - [https://edition.cnn.com/2023/08/29/us/wyoming-kappa-kappa-gamma-lawsuit-transgender-woman-reaj/index.html](https://edition.cnn.com/2023/08/29/us/wyoming-kappa-kappa-gamma-lawsuit-transgender-woman-reaj/index.html)
+ - date published: 2023-08-29T20:17:35+00:00
+ - user: rumpel
+ - tags: ['america', 'the left wing', 'transgender']
 
 ## Child safety bills are reshaping the internet for everyone
  - [https://www.theverge.com/2023/8/29/23849375/kosa-child-safety-free-speech-louisiana-utah-parental-consent](https://www.theverge.com/2023/8/29/23849375/kosa-child-safety-free-speech-louisiana-utah-parental-consent)
@@ -45,6 +63,12 @@
  - date published: 2023-08-29T06:57:03.786337+00:00
  - user: rumpel
  - tags: ['ui', 'programming']
+
+## Hawaiian Electric says power lines sparked fire but firefighters fell short
+ - [https://www.theguardian.com/us-news/2023/aug/28/maui-wildfires-hawaiian-electric-company](https://www.theguardian.com/us-news/2023/aug/28/maui-wildfires-hawaiian-electric-company)
+ - date published: 2023-08-29T01:36:28.190690+00:00
+ - user: rumpel
+ - tags: ['hawaii']
 
 ## Terms Every Linux User Needs To Know
  - [https://www.youtube.com/watch?v=NujVOhdBhAU](https://www.youtube.com/watch?v=NujVOhdBhAU)
@@ -267,6 +291,12 @@
  - date published: 2023-08-17T14:00:18+00:00
  - user: rumpel
  - tags: ['microplastic', 'pollution']
+
+## ‘You’re Not Saving Jack S***’: Joe Rogan Unloads On Climate Activists
+ - [https://www.dailywire.com/news/youre-not-saving-jack-s-joe-rogan-unloads-on-climate-activists](https://www.dailywire.com/news/youre-not-saving-jack-s-joe-rogan-unloads-on-climate-activists)
+ - date published: 2023-08-17T13:37:12+00:00
+ - user: rumpel
+ - tags: ['climate change', 'global warming', 'pollution']
 
 ## Petition to stop France from forcing browsers like Firefox to censor websites
  - [https://foundation.mozilla.org/en/campaigns/sign-our-petition-to-stop-france-from-forcing-browsers-like-mozillas-firefox-to-censor-websites/](https://foundation.mozilla.org/en/campaigns/sign-our-petition-to-stop-france-from-forcing-browsers-like-mozillas-firefox-to-censor-websites/)
@@ -2133,6 +2163,12 @@
  - date published: 2023-06-12T08:49:47+00:00
  - user: rumpel
  - tags: ['artificial intelligence', 'unabomber', 'ted kaczynski']
+
+## First post-Covid jab claims land in German courts
+ - [https://timesofmalta.com/articles/view/first-postcovid-jab-claims-land-german-courts.1037153](https://timesofmalta.com/articles/view/first-postcovid-jab-claims-land-german-courts.1037153)
+ - date published: 2023-06-12T07:24:06+00:00
+ - user: rumpel
+ - tags: ['covid', 'vaccine']
 
 ## Daily Wire Hit With YouTube Censorship Wave, Faces Possible Ban
  - [https://reclaimthenet.org/daily-wire-hit-with-youtube-censorship-wave](https://reclaimthenet.org/daily-wire-hit-with-youtube-censorship-wave)

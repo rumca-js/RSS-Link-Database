@@ -1,3 +1,15 @@
+## AstraZeneca i Pfizer-BioNTech mają kłopoty. Sypią się pozwy o skutki uboczne szczepionek na COVID-19
+ - [https://www.rp.pl/covid19/art39028671-astrazeneca-i-pfizer-biontech-maja-klopoty-sypia-sie-pozwy-o-skutki-uboczne-szczepionek-na-covid-19](https://www.rp.pl/covid19/art39028671-astrazeneca-i-pfizer-biontech-maja-klopoty-sypia-sie-pozwy-o-skutki-uboczne-szczepionek-na-covid-19)
+ - date published: 2023-08-30T16:00:26.952834+00:00
+ - user: rumpel
+ - tags: ['pfizer', 'covid', 'astrazeneca', 'vaccine']
+
+## Surowe kary za dezinformację oraz szpiegostwo. Jest podpis prezydenta
+ - [https://businessinsider.com.pl/prawo/surowe-kary-za-szpiegostwo-i-dezinformacje-andrzej-duda-podpisal-ustawe/zp97b0t](https://businessinsider.com.pl/prawo/surowe-kary-za-szpiegostwo-i-dezinformacje-andrzej-duda-podpisal-ustawe/zp97b0t)
+ - date published: 2023-08-30T15:20:01.349573+00:00
+ - user: rumpel
+ - tags: ['espionage', 'poland', 'misinformation', 'disinformation']
+
 ## Rozpieszczony umysł. Jak dobre intencje i złe idee skazują pokolenia na porażkę - Jonathan Haidt, Greg Lukianoff | Książka w Lubimyczytac.pl - Opinie, oceny, ceny
  - [https://lubimyczytac.pl/ksiazka/5050676/rozpieszczony-umysl-jak-dobre-intencje-i-zle-idee-skazuja-pokolenia-na-porazke](https://lubimyczytac.pl/ksiazka/5050676/rozpieszczony-umysl-jak-dobre-intencje-i-zle-idee-skazuja-pokolenia-na-porazke)
  - date published: 2023-08-28T07:17:02+00:00

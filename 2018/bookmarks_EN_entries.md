@@ -580,6 +580,12 @@
  - user: None
  - tags: ['hate speech', 'myanmar', 'facebook', 'privacy']
 
+## YouTube Extremism and the Long Tail - The Atlantic
+ - [https://www.theatlantic.com/politics/archive/2018/03/youtube-extremism-and-the-long-tail/555350/](https://www.theatlantic.com/politics/archive/2018/03/youtube-extremism-and-the-long-tail/555350/)
+ - date published: 2018-03-12T07:02:07+00:00
+ - user: rumpel
+ - tags: ['youtube', 'extremism', 'misinformation', 'disinformation']
+
 ## British Police Failed to Stop Child-Sex Ring over Racism Fears | National Review
  - [https://www.nationalreview.com/2018/03/british-police-failed-stop-child-sex-ring-over-racism-fears/](https://www.nationalreview.com/2018/03/british-police-failed-stop-child-sex-ring-over-racism-fears/)
  - date published: 2018-03-11T11:25:48+00:00
