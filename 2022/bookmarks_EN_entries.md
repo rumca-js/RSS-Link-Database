@@ -9706,6 +9706,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Naturally Acquired Immunity versus Vaccine-induced Immunity, Reinfections versus Breakthrough Infections: A Retrospective Cohort Study | Clinical Infectious Diseases | Oxford Academic
+ - [https://academic.oup.com/cid/article/75/1/e545/6563799](https://academic.oup.com/cid/article/75/1/e545/6563799)
+ - date published: 2022-04-05T05:10:27+00:00
+ - user: rumpel
+ - tags: ['vaccine', 'covid']
+
 ## Black Lives Matter Secretly Bought a $6 Million House
  - [https://nymag.com/intelligencer/2022/04/black-lives-matter-6-million-dollar-house.html](https://nymag.com/intelligencer/2022/04/black-lives-matter-6-million-dollar-house.html)
  - date published: 2022-04-04T21:18:38+00:00

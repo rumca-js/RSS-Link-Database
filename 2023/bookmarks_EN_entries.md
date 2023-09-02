@@ -1,8 +1,20 @@
+## New search - Anna’s Archive
+ - [https://www.annas-archive.org/](https://www.annas-archive.org/)
+ - date published: 2023-09-01T10:52:08+00:00
+ - user: rumpel
+ - tags: ['library', 'open source', 'open data']
+
 ## X’s New Privacy Policy Gives Itself Permission To Collect Biometric Data
  - [https://reclaimthenet.org/xs-new-privacy-policy-gives-itself-permission-to-collect-biometric-data](https://reclaimthenet.org/xs-new-privacy-policy-gives-itself-permission-to-collect-biometric-data)
  - date published: 2023-08-31T18:37:20+00:00
  - user: rumpel
  - tags: ['biometrics', 'technofeudalism']
+
+## It's not just you – no one is posting on social media anymore
+ - [https://www.businessinsider.com/social-media-dead-instagram-tiktok-bereal-replaced-group-chats-messaging-2023-8](https://www.businessinsider.com/social-media-dead-instagram-tiktok-bereal-replaced-group-chats-messaging-2023-8)
+ - date published: 2023-08-31T10:41:16.250177+00:00
+ - user: rumpel
+ - tags: ['seo', 'ad business', 'enshittification', 'social media']
 
 ## BioNTech faces first German lawsuit over alleged COVID vaccine side effects | Reuters
  - [https://www.reuters.com/business/healthcare-pharmaceuticals/biontech-faces-first-german-lawsuit-over-alleged-covid-vaccine-side-effects-2023-06-11/](https://www.reuters.com/business/healthcare-pharmaceuticals/biontech-faces-first-german-lawsuit-over-alleged-covid-vaccine-side-effects-2023-06-11/)
@@ -15,6 +27,12 @@
  - date published: 2023-08-30T10:00:29.249057+00:00
  - user: rumpel
  - tags: ['digital money', 'apple']
+
+## India’s communications ‘backdoor’ attracts surveillance companies
+ - [https://www.ft.com/content/adf1cbae-4217-4d7d-9271-8bec41a56fb4](https://www.ft.com/content/adf1cbae-4217-4d7d-9271-8bec41a56fb4)
+ - date published: 2023-08-30T01:20:15.336190+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'anonymity', 'privacy', 'tech control', 'india', 'corporatocracy', 'big brother']
 
 ## Judge dismissed lawsuit challenging Kappa Kappa Gamma's induction of transgender student at University of Wyoming | CNN
  - [https://edition.cnn.com/2023/08/29/us/wyoming-kappa-kappa-gamma-lawsuit-transgender-woman-reaj/index.html](https://edition.cnn.com/2023/08/29/us/wyoming-kappa-kappa-gamma-lawsuit-transgender-woman-reaj/index.html)
