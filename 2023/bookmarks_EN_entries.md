@@ -1,3 +1,9 @@
+## Browser extensions spy on you, even if its developers don't
+ - [https://vitonsky.net/blog/2023/09/01/malware-in-browser-extensions/](https://vitonsky.net/blog/2023/09/01/malware-in-browser-extensions/)
+ - date published: 2023-09-01T16:20:33+00:00
+ - user: rumpel
+ - tags: ['malware', 'backers', 'browsers']
+
 ## New search - Anna’s Archive
  - [https://www.annas-archive.org/](https://www.annas-archive.org/)
  - date published: 2023-09-01T10:52:08+00:00
