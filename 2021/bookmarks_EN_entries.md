@@ -3724,6 +3724,12 @@
  - user: None
  - tags: ['social media', 'polarization']
 
+## Why Windows 11 is forcing everyone to use TPM chips - The Verge
+ - [https://www.theverge.com/2021/6/25/22550376/microsoft-windows-11-tpm-chips-requirement-security](https://www.theverge.com/2021/6/25/22550376/microsoft-windows-11-tpm-chips-requirement-security)
+ - date published: 2021-06-25T18:26:56+00:00
+ - user: rumpel
+ - tags: ['technofeudalism', 'windows', 'tpm', 'crypto wars']
+
 ## What Started the Cultural Fixation on Gender?
  - [https://www.youtube.com/watch?v=OHE442ISkUU](https://www.youtube.com/watch?v=OHE442ISkUU)
  - date published: 2021-06-25T00:00:00+00:00

@@ -22,6 +22,12 @@
  - user: rumpel
  - tags: ['big brother', 'privacy', 'surveillance', 'anonymity']
 
+## Apple Requiring Notarization for Non Mac App Store Apps Starting February 2020 - MacRumors
+ - [https://www.macrumors.com/2019/12/23/apple-mac-app-notarization-february-2020/](https://www.macrumors.com/2019/12/23/apple-mac-app-notarization-february-2020/)
+ - date published: 2019-12-13T18:28:11+00:00
+ - user: rumpel
+ - tags: ['apple', 'technofeudalism', 'corporatocracy']
+
 ## New York public school rejects student Christian club, OKs LGBT Pride Club
  - [https://www.christianpost.com/news/new-york-public-school-rejects-student-christian-club-oks-lgbt-pride-club.html?fbclid=IwAR0XGOCi2lUIsLetSjnCZN91O05rCeaWGsR0z2E5dBtfH_E-2OEFqVqi3eA](https://www.christianpost.com/news/new-york-public-school-rejects-student-christian-club-oks-lgbt-pride-club.html?fbclid=IwAR0XGOCi2lUIsLetSjnCZN91O05rCeaWGsR0z2E5dBtfH_E-2OEFqVqi3eA)
  - date published: 2019-12-12T21:08:10+00:00

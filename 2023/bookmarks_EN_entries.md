@@ -1,3 +1,9 @@
+## The boiling frog of digital freedom
+ - [https://gazoche.xyz/posts/boiling-frog/](https://gazoche.xyz/posts/boiling-frog/)
+ - date published: 2023-09-03T08:49:37+00:00
+ - user: rumpel
+ - tags: ['technofeudalism', 'corporatocracy']
+
 ## Browser extensions spy on you, even if its developers don't
  - [https://vitonsky.net/blog/2023/09/01/malware-in-browser-extensions/](https://vitonsky.net/blog/2023/09/01/malware-in-browser-extensions/)
  - date published: 2023-09-01T16:20:33+00:00
@@ -933,6 +939,12 @@
  - date published: 2023-07-25T18:50:37+00:00
  - user: rumpel
  - tags: ['jeffrey epstein', 'leon black', 'billionaires', 'elite']
+
+## Apple already shipped attestation on the web, and we barely noticed
+ - [https://httptoolkit.com/blog/apple-private-access-tokens-attestation/](https://httptoolkit.com/blog/apple-private-access-tokens-attestation/)
+ - date published: 2023-07-25T14:10:12+00:00
+ - user: rumpel
+ - tags: ['wei', 'web environment integrity', 'technofeudalism', 'crypto wars', 'apple', 'corporatocracy']
 
 ## JPMorgan resisted ditching Jeffrey Epstein as client despite child sex charges because he brought wealthy clients to bank including Google co-founder Sergey Brin, lawsuit claims
  - [https://www.dailymail.co.uk/news/article-12335541/JPMorgan-resisted-ditching-Jeffrey-Epstein-client-despite-child-sex-charges-brought-wealthy-clients-bank-including-Google-founder-Sergey-Brin-lawsuit-claims.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12335541/JPMorgan-resisted-ditching-Jeffrey-Epstein-client-despite-child-sex-charges-brought-wealthy-clients-bank-including-Google-founder-Sergey-Brin-lawsuit-claims.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)

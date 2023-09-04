@@ -1162,6 +1162,12 @@
  - user: rumpel
  - tags: ['china', 'wechat', 'tiktok', 'india']
 
+## Google's dreaded SafetyNet hardware check has been spotted in the wild
+ - [https://www.androidpolice.com/2020/06/29/googles-dreaded-safetynet-hardware-check-has-been-spotted-in-the-wild/](https://www.androidpolice.com/2020/06/29/googles-dreaded-safetynet-hardware-check-has-been-spotted-in-the-wild/)
+ - date published: 2020-06-29T18:29:57+00:00
+ - user: rumpel
+ - tags: ['safetynet', 'technofeudalism', 'crypto wars', 'google', 'corporatocracy']
+
 ## What is the real goal of the ‘Stop Hate for Profit’ campaign against Facebook? Hint: it has nothing to do with ‘hate speech’
  - [https://www.rt.com/op-ed/493295-stop-hate-advertising-extortion-astroturf/](https://www.rt.com/op-ed/493295-stop-hate-advertising-extortion-astroturf/)
  - date published: 2020-06-29T12:14:35+00:00
