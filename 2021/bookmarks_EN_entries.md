@@ -1948,6 +1948,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## GoFundMe deletes fundraiser for harassed Arizona State students
+ - [https://reclaimthenet.org/gofundme-deletes-fundraiser-for-harassed-arizona-state-students](https://reclaimthenet.org/gofundme-deletes-fundraiser-for-harassed-arizona-state-students)
+ - date published: 2021-09-26T06:39:50+00:00
+ - user: rumpel
+ - tags: ['tolerance', 'censorship', 'gofundme', 'black lives matters', 'inclusion', 'racism', 'diversity']
+
 ## Lorry driver shortage: Government working on temporary visa scheme - BBC News
  - [https://www.bbc.co.uk/news/business-58687026](https://www.bbc.co.uk/news/business-58687026)
  - date published: 2021-09-25T12:13:50.878975+00:00
@@ -4437,6 +4443,12 @@
  - date published: 2021-03-31T20:09:24+00:00
  - user: rumpel
  - tags: ['defund the police']
+
+## GoFundMe shuts down fundraiser for parents who were doxed for not supporting critical race theory
+ - [https://reclaimthenet.org/gofundme-shuts-down-fundraiser-for-parents-who-were-doxed-for-not-supporting-critical-race-theory](https://reclaimthenet.org/gofundme-shuts-down-fundraiser-for-parents-who-were-doxed-for-not-supporting-critical-race-theory)
+ - date published: 2021-03-31T06:42:08+00:00
+ - user: rumpel
+ - tags: ['censorship', 'the left wing', 'gofundme', 'racism', 'critical race theory']
 
 ## How U.S. media lost the trust of the public
  - [https://www.cbc.ca/news/world/media-distrust-big-news-1.5965622](https://www.cbc.ca/news/world/media-distrust-big-news-1.5965622)

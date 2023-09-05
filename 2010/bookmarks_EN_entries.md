@@ -100,11 +100,29 @@
  - user: rumpel
  - tags: ['surveillance', 'facebook', 'dark design', 'tracking', 'technofeudalism', 'privacy', 'big tech']
 
+## 'Toxic stew' of chemicals causing male fish to carry eggs in testes | Pollution | The Guardian
+ - [https://www.theguardian.com/environment/2010/apr/21/toxic-stew-chemicals-fish-eggs](https://www.theguardian.com/environment/2010/apr/21/toxic-stew-chemicals-fish-eggs)
+ - date published: 2010-04-21T11:20:54+00:00
+ - user: rumpel
+ - tags: ['pollution', 'depopulation']
+
 ## Reconstruction of a Mass Hysteria: The Swine Flu Panic of 2009 - DER SPIEGEL
  - [https://www.spiegel.de/international/world/reconstruction-of-a-mass-hysteria-the-swine-flu-panic-of-2009-a-682613.html](https://www.spiegel.de/international/world/reconstruction-of-a-mass-hysteria-the-swine-flu-panic-of-2009-a-682613.html)
  - date published: 2010-03-12T20:08:00+00:00
  - user: rumpel
  - tags: ['fearmongering', 'swine flu', 'mass formation psychosis']
+
+## Atrazine induces complete feminization and chemical castration in male African clawed frogs (Xenopus laevis) - PMC
+ - [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2842049/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2842049/)
+ - date published: 2010-03-09T11:47:07+00:00
+ - user: rumpel
+ - tags: ['atrazine', 'depopulation']
+
+## Pesticide atrazine can turn male frogs into females | Berkeley
+ - [https://news.berkeley.edu/2010/03/01/frogs](https://news.berkeley.edu/2010/03/01/frogs)
+ - date published: 2010-03-01T11:48:13+00:00
+ - user: rumpel
+ - tags: ['depopulation', 'pollution', 'atrazine']
 
 ## Face masks to prevent transmission of influenza virus: a systematic review | Epidemiology & Infection | Cambridge Core
  - [https://www.cambridge.org/core/journals/epidemiology-and-infection/article/face-masks-to-prevent-transmission-of-influenza-virus-a-systematic-review/64D368496EBDE0AFCC6639CCC9D8BC05](https://www.cambridge.org/core/journals/epidemiology-and-infection/article/face-masks-to-prevent-transmission-of-influenza-virus-a-systematic-review/64D368496EBDE0AFCC6639CCC9D8BC05)

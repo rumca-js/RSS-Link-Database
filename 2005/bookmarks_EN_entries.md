@@ -22,6 +22,12 @@
  - user: rumpel
  - tags: ['google', 'search engines', 'microsoft', 'dark design']
 
+## Atrazine in municipal drinking water and risk of low birth weight, preterm delivery, and small-for-gestational-age status - PubMed
+ - [https://pubmed.ncbi.nlm.nih.gov/15901888/](https://pubmed.ncbi.nlm.nih.gov/15901888/)
+ - date published: 2005-06-04T11:18:39+00:00
+ - user: rumpel
+ - tags: ['pollution', 'atrazine']
+
 ## Medical Journals Are an Extension of the Marketing Arm of Pharmaceutical Companies | PLOS Medicine
  - [https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020138](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020138)
  - date published: 2005-05-17T07:00:49+00:00

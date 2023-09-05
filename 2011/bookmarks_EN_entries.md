@@ -100,6 +100,12 @@
  - user: None
  - tags: ['paul allen', 'bill gates']
 
+## Demasculinization and feminization of male gonads by atrazine: consistent effects across vertebrate classes - PubMed
+ - [https://pubmed.ncbi.nlm.nih.gov/21419222/](https://pubmed.ncbi.nlm.nih.gov/21419222/)
+ - date published: 2011-03-23T11:17:06+00:00
+ - user: rumpel
+ - tags: ['depopulation', 'pollution', 'atrazine']
+
 ## Revealed: US spy operation that manipulates social media
  - [https://www.theguardian.com/technology/2011/mar/17/us-spy-operation-social-networks](https://www.theguardian.com/technology/2011/mar/17/us-spy-operation-social-networks)
  - date published: 2011-03-17T15:28:40+00:00

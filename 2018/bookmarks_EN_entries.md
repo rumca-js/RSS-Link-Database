@@ -154,6 +154,12 @@
  - user: None
  - tags: ['social media', 'digital dementia']
 
+## Alex Jones: 5 most disturbing and ridiculous conspiracy theories
+ - [https://www.cnbc.com/2018/09/14/alex-jones-5-most-disturbing-ridiculous-conspiracy-theories.html](https://www.cnbc.com/2018/09/14/alex-jones-5-most-disturbing-ridiculous-conspiracy-theories.html)
+ - date published: 2018-09-14T11:51:53+00:00
+ - user: rumpel
+ - tags: ['alex jones']
+
 ## Reality Check: Are migrants driving crime in Germany? - BBC News
  - [https://www.bbc.com/news/world-europe-45419466](https://www.bbc.com/news/world-europe-45419466)
  - date published: 2018-09-13T10:05:54+00:00

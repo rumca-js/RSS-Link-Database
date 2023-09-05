@@ -9370,6 +9370,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Tucker Carlson takes aim at ADL with Israeli immigration policy -analysis - The Jerusalem Post
+ - [https://m.jpost.com/american-politics/why-did-tucker-carlson-talk-about-israeli-immigration-policy-analysis-665400](https://m.jpost.com/american-politics/why-did-tucker-carlson-talk-about-israeli-immigration-policy-analysis-665400)
+ - date published: 2022-04-17T20:49:51+00:00
+ - user: rumpel
+ - tags: ['israel', 'immigration', 'adl', 'white genocide']
+
 ## Be less technical
  - [https://www.sequential.dev/posts/be-less-technical/](https://www.sequential.dev/posts/be-less-technical/)
  - date published: 2022-04-17T17:23:04.796246+00:00
@@ -11091,6 +11097,12 @@
  - date published: 2022-01-26T07:05:47+00:00
  - user: None
  - tags: ['big pharma', 'vaccine', 'covid', 'pfizer', 'fda']
+
+## ADL, other Jewish groups denounce âongoing terrorismâ by settler extremists | The Times of Israel
+ - [https://www.timesofisrael.com/adl-other-jewish-groups-denounce-ongoing-terrorism-by-settler-extremists/](https://www.timesofisrael.com/adl-other-jewish-groups-denounce-ongoing-terrorism-by-settler-extremists/)
+ - date published: 2022-01-25T20:47:14+00:00
+ - user: rumpel
+ - tags: ['israel', 'palestine']
 
 ## Infix Operators in Python
  - [http://tomerfiliba.com/blog/Infix-Operators/](http://tomerfiliba.com/blog/Infix-Operators/)

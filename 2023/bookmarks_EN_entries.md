@@ -1,8 +1,68 @@
+## LGBT chemicals conspiracy theory - Wikipedia
+ - [https://en.wikipedia.org/wiki/LGBT_chemicals_conspiracy_theory](https://en.wikipedia.org/wiki/LGBT_chemicals_conspiracy_theory)
+ - date published: 2023-09-04T11:40:46+00:00
+ - user: rumpel
+ - tags: ['conspiracy theory', 'depopulation']
+
+## FreshRSS, a free, self-hostable feeds aggregator
+ - [https://www.freshrss.org/](https://www.freshrss.org/)
+ - date published: 2023-09-04T10:11:35+00:00
+ - user: rumpel
+ - tags: ['link aggregation', 'rss client', 'selfhost', 'rss']
+
+## GitHub - DIYgod/RSSHub-Radar: 🍰 Browser extension that simplifies finding and subscribing RSS and RSSHub
+ - [https://github.com/DIYgod/RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar)
+ - date published: 2023-09-04T10:09:18+00:00
+ - user: rumpel
+ - tags: ['rss']
+
+## GitHub - RSS-Bridge/rss-bridge: The RSS feed for websites missing it
+ - [https://github.com/RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge)
+ - date published: 2023-09-04T10:07:57+00:00
+ - user: rumpel
+ - tags: ['rss']
+
+## RSS Feed Generator, News Feed Builder - New Sloth
+ - [https://newsloth.com/product/feed-builder](https://newsloth.com/product/feed-builder)
+ - date published: 2023-09-04T10:06:11+00:00
+ - user: rumpel
+ - tags: ['rss']
+
+## A developer built a 'propaganda machine' using OpenAI tech to highlight the dangers of mass-produced AI disinformation
+ - [https://www.businessinsider.com/developer-creates-ai-disinformation-system-using-openai-2023-9](https://www.businessinsider.com/developer-creates-ai-disinformation-system-using-openai-2023-9)
+ - date published: 2023-09-04T04:00:00+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
+
+## Amiga Samplers: Budget dance music in 1990
+ - [https://www.youtube.com/watch?v=i9MXYZh1jcs](https://www.youtube.com/watch?v=i9MXYZh1jcs)
+ - date published: 2023-09-04T02:48:23+00:00
+ - user: rumpel
+ - tags: ['amiga', 'chiptune']
+
+## Netanyahu again vows to build long-touted fence along border with Jordan | The Times of Israel
+ - [https://www.timesofisrael.com/netanyahu-again-vows-to-build-long-touted-fence-along-border-with-jordan/](https://www.timesofisrael.com/netanyahu-again-vows-to-build-long-touted-fence-along-border-with-jordan/)
+ - date published: 2023-09-03T20:42:42+00:00
+ - user: rumpel
+ - tags: ['israel', 'immigration']
+
+## Show HN: Extract RSS feed from almost anything
+ - [https://rssfeedasap.com](https://rssfeedasap.com)
+ - date published: 2023-09-03T15:37:29+00:00
+ - user: rumpel
+ - tags: ['rss']
+
 ## The boiling frog of digital freedom
  - [https://gazoche.xyz/posts/boiling-frog/](https://gazoche.xyz/posts/boiling-frog/)
  - date published: 2023-09-03T08:49:37+00:00
  - user: rumpel
  - tags: ['technofeudalism', 'corporatocracy']
+
+## Revealed: Home Office secretly lobbied for facial recognition ‘spy’ company
+ - [https://www.theguardian.com/technology/2023/sep/02/home-office-accused-of-secret-lobbying-for-facial-recognition-spy-company](https://www.theguardian.com/technology/2023/sep/02/home-office-accused-of-secret-lobbying-for-facial-recognition-spy-company)
+ - date published: 2023-09-02T17:03:20+00:00
+ - user: rumpel
+ - tags: ['facial recognition', 'manufacturing consent']
 
 ## Browser extensions spy on you, even if its developers don't
  - [https://vitonsky.net/blog/2023/09/01/malware-in-browser-extensions/](https://vitonsky.net/blog/2023/09/01/malware-in-browser-extensions/)
@@ -296,7 +356,7 @@
  - [https://www.telegraph.co.uk/business/2023/08/17/20-year-low-for-baby-born-in-england-good-news-for-planet/](https://www.telegraph.co.uk/business/2023/08/17/20-year-low-for-baby-born-in-england-good-news-for-planet/)
  - date published: 2023-08-18T11:34:57+00:00
  - user: rumpel
- - tags: ['depopulation']
+ - tags: ['england', 'climate change', 'depopulation']
 
 ## Microplastics detected in the marine air from Norway to the high Arctic
  - [https://scienceswitch.com/2023/08/18/microplastics-detected-in-the-marine-air-from-norway-to-the-high-arctic/](https://scienceswitch.com/2023/08/18/microplastics-detected-in-the-marine-air-from-norway-to-the-high-arctic/)
@@ -916,6 +976,12 @@
  - user: rumpel
  - tags: ['dark design', 'corporatocracy', 'open source']
 
+## This Nerdy Teen is the FBI’s Most Wanted Hacker
+ - [https://www.youtube.com/watch?v=0D2Gsok5wgI](https://www.youtube.com/watch?v=0D2Gsok5wgI)
+ - date published: 2023-07-25T23:43:01+00:00
+ - user: rumpel
+ - tags: ['hackers']
+
 ## OpenAI can’t tell if something was written by AI after all
  - [https://www.theverge.com/2023/7/25/23807487/openai-ai-generated-low-accuracy](https://www.theverge.com/2023/7/25/23807487/openai-ai-generated-low-accuracy)
  - date published: 2023-07-25T21:30:17+00:00
@@ -1120,6 +1186,12 @@
  - user: rumpel
  - tags: ['hunter biden', 'joe biden']
 
+## Can Spain defuse its depopulation bomb? - The Post
+ - [https://unherd.com/thepost/can-spain-defuse-its-depopulation-bomb/](https://unherd.com/thepost/can-spain-defuse-its-depopulation-bomb/)
+ - date published: 2023-07-20T11:37:18+00:00
+ - user: rumpel
+ - tags: ['spain', 'depopulation']
+
 ## Google Shattered Human Connection
  - [https://staltz.com/google-shattered-human-connection.html](https://staltz.com/google-shattered-human-connection.html)
  - date published: 2023-07-20T10:47:33+00:00
@@ -1281,12 +1353,6 @@
  - date published: 2023-07-15T06:26:22+00:00
  - user: rumpel
  - tags: ['rss', 'project']
-
-## FreshRSS, a free, self-hostable feeds aggregator
- - [https://freshrss.org/](https://freshrss.org/)
- - date published: 2023-07-15T06:22:13+00:00
- - user: rumpel
- - tags: ['selfhost', 'rss client', 'rss']
 
 ## How Israel weaponises museums to erase Palestinian existence
  - [https://www.aljazeera.com/opinions/2023/7/15/how-israel-weaponises-museums-to-erase-palestinian-existence](https://www.aljazeera.com/opinions/2023/7/15/how-israel-weaponises-museums-to-erase-palestinian-existence)
@@ -6842,7 +6908,7 @@
  - [https://www.theguardian.com/us-news/2023/jan/18/new-york-city-provides-free-abortion-pills-clinics](https://www.theguardian.com/us-news/2023/jan/18/new-york-city-provides-free-abortion-pills-clinics)
  - date published: 2023-01-18T17:49:12+00:00
  - user: rumpel
- - tags: ['depopulation']
+ - tags: ['america', 'depopulation']
 
 ## Everyone hates Velma the lesbian detective. Is she really an insult to Scooby-Doo fans? | Arwa Mahdawi
  - [https://www.theguardian.com/commentisfree/2023/jan/18/velma-lesbian-detective-scooby-doo-fans-hate](https://www.theguardian.com/commentisfree/2023/jan/18/velma-lesbian-detective-scooby-doo-fans-hate)
@@ -6926,7 +6992,7 @@
  - [https://www.cnn.com/2023/01/16/economy/china-population-decline-sixty-years-intl-hnk/index.html](https://www.cnn.com/2023/01/16/economy/china-population-decline-sixty-years-intl-hnk/index.html)
  - date published: 2023-01-17T04:15:48+00:00
  - user: rumpel
- - tags: ['population', 'depopulation']
+ - tags: ['china', 'depopulation', 'population']
 
 ## Quitting the rat race
  - [https://seanbarry.dev/posts/quitting-the-rat-race/](https://seanbarry.dev/posts/quitting-the-rat-race/)
