@@ -46,12 +46,6 @@
  - user: None
  - tags: ['population', 'depopulation']
 
-## LITERAL Assassin's Creed: Brotherhood Trailer
- - [https://www.youtube.com/watch?v=kKrtbUinWOU](https://www.youtube.com/watch?v=kKrtbUinWOU)
- - date published: 2010-09-02T00:00:00+00:00
- - user: rumpel
- - tags: ['funny']
-
 ## Gaddafi wants EU cash to stop African migrants - BBC News
  - [https://www.bbc.com/news/world-europe-11139345](https://www.bbc.com/news/world-europe-11139345)
  - date published: 2010-08-31T12:33:07+00:00

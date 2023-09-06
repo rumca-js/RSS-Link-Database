@@ -244,12 +244,6 @@
  - user: None
  - tags: ['government', 'kentler', 'paedophilia', 'germany', 'big brother']
 
-## Zwykły bohater #2 Nauczyciel
- - [https://www.youtube.com/watch?v=gCObZjzFv-8](https://www.youtube.com/watch?v=gCObZjzFv-8)
- - date published: 2020-06-24T10:39:57+00:00
- - user: rumpel
- - tags: ['funny']
-
 ## Przez 30 lat Berlin udostępniał dzieci pedofilom. Nazywano to "eksperymentem Kentlera" [RAPORT]
  - [https://wiadomosci.dziennik.pl/swiat/artykuly/7746506,berlin-dzieci-bezdomne-pedofile-eksperyment-helmut-kentler-pornografia-dziecieca.html](https://wiadomosci.dziennik.pl/swiat/artykuly/7746506,berlin-dzieci-bezdomne-pedofile-eksperyment-helmut-kentler-pornografia-dziecieca.html)
  - date published: 2020-06-18T22:18:53+00:00

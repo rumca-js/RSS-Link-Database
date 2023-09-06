@@ -1,3 +1,39 @@
+## Patrick T. Brown, PhD | It’s easy to construct a persuasive argument, it’s much more difficult to figure out the truth…
+ - [https://patricktbrown.org/](https://patricktbrown.org/)
+ - date published: 2023-09-05T20:27:08+00:00
+ - user: rumpel
+ - tags: ['science is dead', 'climate change']
+
+## Freedom Convoy Truckers Trial Sparks Calls for 'Uprising'
+ - [https://www.newsweek.com/freedom-convoy-trucker-trial-sparks-calls-uprising-1824646](https://www.newsweek.com/freedom-convoy-trucker-trial-sparks-calls-uprising-1824646)
+ - date published: 2023-09-05T15:26:17+00:00
+ - user: rumpel
+ - tags: ['canada', 'covid', 'freedom convoy']
+
+## Android 14 blocks all modification of system certificates, even as root
+ - [https://httptoolkit.com/blog/android-14-breaks-system-certificate-installation/](https://httptoolkit.com/blog/android-14-breaks-system-certificate-installation/)
+ - date published: 2023-09-05T13:42:57+00:00
+ - user: rumpel
+ - tags: ['android', 'technofeudalism']
+
+## Amiga Systems Programming in 2023
+ - [https://www.markround.com/blog/2023/08/30/amiga-systems-programming-in-2023/](https://www.markround.com/blog/2023/08/30/amiga-systems-programming-in-2023/)
+ - date published: 2023-09-05T08:53:13+00:00
+ - user: rumpel
+ - tags: ['amiga']
+
+## Anti-pattern - Wikipedia
+ - [https://en.wikipedia.org/wiki/Anti-pattern](https://en.wikipedia.org/wiki/Anti-pattern)
+ - date published: 2023-09-05T06:17:08+00:00
+ - user: rumpel
+ - tags: ['programming', 'anti-patterns', 'pattern']
+
+## Protests between Eritrean migrants turn violent in Israel
+ - [https://www.nbcnews.com/now/video/protests-between-eritrean-migrants-turn-violent-in-israel-192258117579](https://www.nbcnews.com/now/video/protests-between-eritrean-migrants-turn-violent-in-israel-192258117579)
+ - date published: 2023-09-05T01:28:37+00:00
+ - user: rumpel
+ - tags: ['israel', 'immigration', 'eritrea']
+
 ## LGBT chemicals conspiracy theory - Wikipedia
  - [https://en.wikipedia.org/wiki/LGBT_chemicals_conspiracy_theory](https://en.wikipedia.org/wiki/LGBT_chemicals_conspiracy_theory)
  - date published: 2023-09-04T11:40:46+00:00
@@ -51,6 +87,12 @@
  - date published: 2023-09-03T15:37:29+00:00
  - user: rumpel
  - tags: ['rss']
+
+## Climate Change Tracker
+ - [https://climatechangetracker.org](https://climatechangetracker.org)
+ - date published: 2023-09-03T14:53:21+00:00
+ - user: rumpel
+ - tags: ['climate change']
 
 ## The boiling frog of digital freedom
  - [https://gazoche.xyz/posts/boiling-frog/](https://gazoche.xyz/posts/boiling-frog/)
@@ -5523,12 +5565,6 @@
  - date published: 2023-03-02T07:45:07+00:00
  - user: rumpel
  - tags: ['pronouns', 'newspeak', 'the left wing']
-
-## AGENT ELVIS - Official Trailer (2023) Matthew McConaughey, Johnny Knoxville, Don Cheadle
- - [https://www.youtube.com/watch?v=zFJ6wZHNkd8](https://www.youtube.com/watch?v=zFJ6wZHNkd8)
- - date published: 2023-03-02T02:00:29+00:00
- - user: rumpel
- - tags: ['funny']
 
 ## Twitter 2 0 is a BAD idea: why the "Everything App" is a nightmare.
  - [https://www.youtube.com/watch?v=iyMTTPGcSpI](https://www.youtube.com/watch?v=iyMTTPGcSpI)

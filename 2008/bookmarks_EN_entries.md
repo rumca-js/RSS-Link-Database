@@ -4,11 +4,23 @@
  - user: rumpel
  - tags: ['climate science', 'climate change']
 
+## Man tries to pay overdue bill with spider drawing
+ - [https://www.telegraph.co.uk/news/newstopics/howaboutthat/3492411/Man-tries-to-pay-overdue-bill-with-spider-drawing.html](https://www.telegraph.co.uk/news/newstopics/howaboutthat/3492411/Man-tries-to-pay-overdue-bill-with-spider-drawing.html)
+ - date published: 2008-11-20T07:59:16+00:00
+ - user: rumpel
+ - tags: ['funny']
+
 ## Why societies collapse | Jared Diamond
  - [https://www.youtube.com/watch?v=IESYMFtLIis](https://www.youtube.com/watch?v=IESYMFtLIis)
  - date published: 2008-10-28T00:00:00+00:00
  - user: rumpel
  - tags: ['environment', 'society', 'climate change', 'ted', 'lecture', 'crisis', 'sociology']
+
+## Overdue Account
+ - [https://27bslash6.com/overdue.html](https://27bslash6.com/overdue.html)
+ - date published: 2008-10-08T07:58:35+00:00
+ - user: rumpel
+ - tags: ['funny']
 
 ## Is Google Making Us Stupid? - The Atlantic
  - [https://www.theatlantic.com/magazine/archive/2008/07/is-google-making-us-stupid/306868/](https://www.theatlantic.com/magazine/archive/2008/07/is-google-making-us-stupid/306868/)

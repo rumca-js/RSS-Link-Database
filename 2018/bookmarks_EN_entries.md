@@ -356,7 +356,7 @@
  - [https://www.youtube.com/watch?v=6tL5exJg4ms](https://www.youtube.com/watch?v=6tL5exJg4ms)
  - date published: 2018-05-25T00:00:00+00:00
  - user: rumpel
- - tags: ['immigration']
+ - tags: ['immigration', 'laurence bright']
 
 ## Trump Claims FBI Spied on His Campaign. Here Are the Facts | Time
  - [https://time.com/5288607/donald-trump-fbi-spygate/](https://time.com/5288607/donald-trump-fbi-spygate/)
