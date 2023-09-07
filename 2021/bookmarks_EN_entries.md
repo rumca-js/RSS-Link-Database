@@ -830,7 +830,7 @@
  - [https://hls.harvard.edu/today/the-algorithm-has-primacy-over-media-over-each-of-us-and-it-controls-what-we-do/](https://hls.harvard.edu/today/the-algorithm-has-primacy-over-media-over-each-of-us-and-it-controls-what-we-do/)
  - date published: 2021-11-18T20:12:44+00:00
  - user: rumpel
- - tags: ['media', 'algorithm', 'search engines', 'big tech', 'elites']
+ - tags: ['search engines', 'elites', 'media', 'big tech', 'algorithms']
 
 ## Understanding why our build got 15x slower with Webpack 5 - Tines Engineering
  - [https://engineering.tines.com/blog/understanding-why-our-build-got-15x-slower-with-webpack](https://engineering.tines.com/blog/understanding-why-our-build-got-15x-slower-with-webpack)
@@ -4928,7 +4928,7 @@
  - [https://forum.agoraroad.com/index.php?threads/dead-internet-theory-most-of-the-internet-is-fake.3011/](https://forum.agoraroad.com/index.php?threads/dead-internet-theory-most-of-the-internet-is-fake.3011/)
  - date published: 2021-01-05T20:44:59+00:00
  - user: None
- - tags: ['dead internet', 'algorithm', 'all time']
+ - tags: ['dead internet', 'all time', 'algorithms']
 
 ## House introduces gender-neutral language in new rules for Congress
  - [https://thehill.com/changing-america/respect/diversity-inclusion/532518-house-introduces-gender-neutral-language-in-new](https://thehill.com/changing-america/respect/diversity-inclusion/532518-house-introduces-gender-neutral-language-in-new)

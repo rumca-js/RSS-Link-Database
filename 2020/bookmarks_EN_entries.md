@@ -1180,6 +1180,12 @@
  - user: rumpel
  - tags: ['masks', 'covid mandates', 'covid']
 
+## We're suing Google for harvesting our personal info even though we opted out of Chrome sync – netizens • The Register
+ - [https://www.theregister.com/2020/07/28/google_chrome_privacy_lawsuit/](https://www.theregister.com/2020/07/28/google_chrome_privacy_lawsuit/)
+ - date published: 2020-06-28T13:26:45+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'privacy', 'chrome', 'google', 'tracking']
+
 ## It's probably time to stop recommending Clean Code
  - [https://qntm.org/clean](https://qntm.org/clean)
  - date published: 2020-06-28T09:56:27+00:00

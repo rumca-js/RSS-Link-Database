@@ -1,3 +1,9 @@
+## The Anatomy of a Large-Scale Hypertextual Web Search Engine
+ - [http://infolab.stanford.edu/pub/papers/google.pdf](http://infolab.stanford.edu/pub/papers/google.pdf)
+ - date published: 1998-09-06T07:13:47+00:00
+ - user: rumpel
+ - tags: ['search engines', 'media bias', 'bias', 'search bias', 'search algorithms', 'algorithms']
+
 ## Halloween Document 8
  - [http://catb.org/~esr/halloween/index.html](http://catb.org/~esr/halloween/index.html)
  - date published: 1998-08-20T20:41:32+00:00

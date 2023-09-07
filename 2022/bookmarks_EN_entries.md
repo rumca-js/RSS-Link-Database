@@ -2138,7 +2138,7 @@
  - [https://www.theregister.com/2022/11/23/voice_assistants_fail/](https://www.theregister.com/2022/11/23/voice_assistants_fail/)
  - date published: 2022-11-23T09:33:40+00:00
  - user: None
- - tags: ['big tech', 'algorithm', 'voice assistant', 'smart home']
+ - tags: ['voice assistant', 'big tech', 'algorithms', 'smart home']
 
 ## WikiLeaks is struggling to stay online as millions of documents disappear
  - [https://www.dailydot.com/debug/wikileaks-website-assange-hacked-documents/](https://www.dailydot.com/debug/wikileaks-website-assange-hacked-documents/)
@@ -5360,7 +5360,7 @@
  - [https://www.techradar.com/news/mozilla-claims-apple-google-and-microsoft-force-users-to-use-default-web-browsers/](https://www.techradar.com/news/mozilla-claims-apple-google-and-microsoft-force-users-to-use-default-web-browsers/)
  - date published: 2022-09-23T18:34:04+00:00
  - user: None
- - tags: ['google', 'monopoly', 'oligopoly', 'mozilla', 'operating system', 'apple']
+ - tags: ['monopoly', 'chrome', 'google', 'oligopoly', 'apple', 'operating system', 'mozilla']
 
 ## Mass protests in Iran are the regime's biggest challenge in years
  - [https://www.cnbc.com/2022/09/23/mass-protests-in-iran-is-the-regimes-biggest-challenge-in-years.html](https://www.cnbc.com/2022/09/23/mass-protests-in-iran-is-the-regimes-biggest-challenge-in-years.html)
@@ -10634,7 +10634,7 @@
  - [https://dkb.io/post/google-search-is-dying](https://dkb.io/post/google-search-is-dying)
  - date published: 2022-02-15T15:45:06+00:00
  - user: None
- - tags: ['google', 'all time', 'search engines', 'dead internet', 'ad business', 'algorithm']
+ - tags: ['search engines', 'ad business', 'all time', 'dead internet', 'algorithms', 'google']
 
 ## The simple system I’m using to stay in touch with hundreds of people – Jakob Greenfeld – Experiments in Entrepreneurship and Learning
  - [https://jakobgreenfeld.com/stay-in-touch](https://jakobgreenfeld.com/stay-in-touch)

@@ -134,7 +134,7 @@
  - [https://www.cbsnews.com/news/4-reasons-youtube-still-doesnt-make-a-profit/](https://www.cbsnews.com/news/4-reasons-youtube-still-doesnt-make-a-profit/)
  - date published: 2015-05-27T12:04:50+00:00
  - user: None
- - tags: ['youtube', 'algorithm']
+ - tags: ['algorithms', 'youtube']
 
 ## Reddit CEO Ellen Pao: Free speech on site not absolute | Fortune
  - [https://fortune.com/2015/05/20/reddit-free-speech-ellen-pao/](https://fortune.com/2015/05/20/reddit-free-speech-ellen-pao/)

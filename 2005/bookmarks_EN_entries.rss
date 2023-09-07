@@ -13,7 +13,7 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
   <atom:link href="https://renegat0x0.ddns.net" rel="self" type="application/rss+xml" />
   <link>https://renegat0x0.ddns.net/</link>
   <description>Link archive</description>
-  <language>en-US</language>
+  <language>en</language>
 <item><title>![CDATA[Remember the Sony rootkit scandal? It was almost much worse • The Register]]</title><description>![CDATA[Remember the Sony rootkit scandal? It was almost much worse • The Register]]</description><pubDate>2005-12-20T06:59:08+00:00</pubDate><link>https://www.theregister.com/2021/12/10/autorunning_away/</link></item><guid isPermaLink="false">https://www.theregister.com/2021/12/10/autorunning_away/</guid>
 <item><title>![CDATA[Sony BMG copy protection rootkit scandal - Wikipedia]]</title><description>![CDATA[Sony BMG copy protection rootkit scandal - Wikipedia]]</description><pubDate>2005-11-20T07:05:35+00:00</pubDate><link>https://en.wikipedia.org/wiki/Sony_BMG_copy_protection_rootkit_scandal</link></item><guid isPermaLink="false">https://en.wikipedia.org/wiki/Sony_BMG_copy_protection_rootkit_scandal</guid>
 <item><title>![CDATA[Five pitfalls of Linux sockets programming]]</title><description>![CDATA[Five pitfalls of Linux sockets programming]]</description><pubDate>2005-09-20T13:27:56+00:00</pubDate><link>https://developer.ibm.com/tutorials/l-sockpit/</link></item><guid isPermaLink="false">https://developer.ibm.com/tutorials/l-sockpit/</guid>

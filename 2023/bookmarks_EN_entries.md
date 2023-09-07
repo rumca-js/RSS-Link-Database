@@ -1,3 +1,57 @@
+## Tesla hit with class action lawsuit over alleged privacy intrusion | Reuters
+ - [https://www.reuters.com/business/autos-transportation/tesla-hit-with-class-action-lawsuit-over-alleged-privacy-intrusion-2023-04-08/](https://www.reuters.com/business/autos-transportation/tesla-hit-with-class-action-lawsuit-over-alleged-privacy-intrusion-2023-04-08/)
+ - date published: 2023-09-06T18:58:35+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'ad business', 'privacy', 'electric vehicles', 'technofeudalism', 'tesla']
+
+## *privacy not included | Shop smart and safe | Mozilla Foundation
+ - [https://foundation.mozilla.org/en/privacynotincluded/articles/its-official-cars-are-the-worst-product-category-we-have-ever-reviewed-for-privacy/](https://foundation.mozilla.org/en/privacynotincluded/articles/its-official-cars-are-the-worst-product-category-we-have-ever-reviewed-for-privacy/)
+ - date published: 2023-09-06T18:56:19+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'ad business', 'privacy', 'electric vehicles', 'technofeudalism']
+
+## China Bans iPhone Use for Government Officials at Work - WSJ
+ - [https://www.wsj.com/world/china/china-bans-iphone-use-for-government-officials-at-work-635fe2f8](https://www.wsj.com/world/china/china-bans-iphone-use-for-government-officials-at-work-635fe2f8)
+ - date published: 2023-09-06T17:29:59+00:00
+ - user: rumpel
+ - tags: ['china']
+
+## Online Safety Bill: encrypted messages to be saved - for now
+ - [https://www.techradar.com/computing/cyber-security/online-safety-bill-encrypted-messages-to-be-saved-for-now](https://www.techradar.com/computing/cyber-security/online-safety-bill-encrypted-messages-to-be-saved-for-now)
+ - date published: 2023-09-06T16:31:47+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'online safety bill', 'privacy', 'crypto wars']
+
+## The Right to Read- GNU Project - Free Software Foundation
+ - [https://www.gnu.org/philosophy/right-to-read.en.html](https://www.gnu.org/philosophy/right-to-read.en.html)
+ - date published: 2023-09-06T16:15:52+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'privacy', 'technofeudalism']
+
+## Euthanasia doesn’t go as planned: Woman with cancer suffocated with pillow by doctors
+ - [https://euro.dayfr.com/world/794851.html](https://euro.dayfr.com/world/794851.html)
+ - date published: 2023-09-06T15:54:27+00:00
+ - user: rumpel
+ - tags: ['euthanasia']
+
+## Connected cars are a “privacy nightmare,” Mozilla Foundation says
+ - [https://arstechnica.com/cars/2023/09/connected-cars-are-a-privacy-nightmare-mozilla-foundation-says/](https://arstechnica.com/cars/2023/09/connected-cars-are-a-privacy-nightmare-mozilla-foundation-says/)
+ - date published: 2023-09-06T15:46:40+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'privacy', 'electric vehicles', 'technofeudalism']
+
+## If You’ve Got a New Car, It’s a Data Privacy Nightmare
+ - [https://gizmodo.com/mozilla-new-cars-data-privacy-report-1850805416](https://gizmodo.com/mozilla-new-cars-data-privacy-report-1850805416)
+ - date published: 2023-09-06T12:54:40+00:00
+ - user: rumpel
+ - tags: ['privacy', 'surveillance', 'electric vehicles', 'technofeudalism', 'enshittification']
+
+## Google Chrome pushes browser history-based ad targeting
+ - [https://www.theregister.com/2023/09/06/google_privacy_popup_chrome/](https://www.theregister.com/2023/09/06/google_privacy_popup_chrome/)
+ - date published: 2023-09-06T06:31:21+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'privacy', 'chrome', 'topics api', 'google']
+
 ## Patrick T. Brown, PhD | It’s easy to construct a persuasive argument, it’s much more difficult to figure out the truth…
  - [https://patricktbrown.org/](https://patricktbrown.org/)
  - date published: 2023-09-05T20:27:08+00:00
@@ -38,7 +92,7 @@
  - [https://en.wikipedia.org/wiki/LGBT_chemicals_conspiracy_theory](https://en.wikipedia.org/wiki/LGBT_chemicals_conspiracy_theory)
  - date published: 2023-09-04T11:40:46+00:00
  - user: rumpel
- - tags: ['conspiracy theory', 'depopulation']
+ - tags: ['pollution', 'depopulation', 'conspiracy theory']
 
 ## FreshRSS, a free, self-hostable feeds aggregator
  - [https://www.freshrss.org/](https://www.freshrss.org/)
@@ -111,6 +165,12 @@
  - date published: 2023-09-01T16:20:33+00:00
  - user: rumpel
  - tags: ['malware', 'backers', 'browsers']
+
+## Controversy erupts in Jefferson County after the teachers union tells educators to destroy evidence of student surveys regarding gender identity - CBS Colorado
+ - [https://www.cbsnews.com/colorado/news/colorado-controversy-erupts-jefferson-county-teachers-union-educators-destroy-evidence-student-surveys-gender-identity/](https://www.cbsnews.com/colorado/news/colorado-controversy-erupts-jefferson-county-teachers-union-educators-destroy-evidence-student-surveys-gender-identity/)
+ - date published: 2023-09-01T16:03:37+00:00
+ - user: rumpel
+ - tags: ['the left wing', 'indoctrination', 'lgbt']
 
 ## New search - Anna’s Archive
  - [https://www.annas-archive.org/](https://www.annas-archive.org/)
@@ -454,6 +514,12 @@
  - user: rumpel
  - tags: ['artificial intelligence', 'chatgpt']
 
+## Nissan | Privacy & security guide | Mozilla Foundation
+ - [https://foundation.mozilla.org/en/privacynotincluded/nissan/](https://foundation.mozilla.org/en/privacynotincluded/nissan/)
+ - date published: 2023-08-15T18:57:54+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'privacy', 'technofeudalism', 'ad business']
+
 ## To my people on Maui— is all of this true?
  - [https://twitter.com/Alec_Zeck/status/1691555105034629391?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1691555105034629391%7Ctwgr%5Eb7c627f44c0e4e5e66b72b609d241ab5c8186c2d%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.newswars.com%2Fpolice-formed-blockade-prevented-people-from-evacuating-lahaina-wildfire-maui-resident-claims%2F](https://twitter.com/Alec_Zeck/status/1691555105034629391?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1691555105034629391%7Ctwgr%5Eb7c627f44c0e4e5e66b72b609d241ab5c8186c2d%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.newswars.com%2Fpolice-formed-blockade-prevented-people-from-evacuating-lahaina-wildfire-maui-resident-claims%2F)
  - date published: 2023-08-15T17:53:12+00:00
@@ -500,7 +566,7 @@
  - [https://www.youtube.com/watch?v=Uu1Gc3GM7CM](https://www.youtube.com/watch?v=Uu1Gc3GM7CM)
  - date published: 2023-08-13T21:00:20+00:00
  - user: rumpel
- - tags: ['search engines']
+ - tags: ['search engines', 'brave']
 
 ## Modern flat Earth beliefs - Wikipedia
  - [https://en.m.wikipedia.org/wiki/Modern_flat_Earth_beliefs](https://en.m.wikipedia.org/wiki/Modern_flat_Earth_beliefs)
@@ -5882,7 +5948,7 @@
  - [https://9to5mac.com/2023/02/17/google-apple-chrome-search-revenue/](https://9to5mac.com/2023/02/17/google-apple-chrome-search-revenue/)
  - date published: 2023-02-18T17:49:23+00:00
  - user: rumpel
- - tags: ['big tech', 'google', 'apple', 'manufacturing consent']
+ - tags: ['chrome', 'google', 'apple', 'manufacturing consent', 'big tech']
 
 ## John Carmack on Functional Programming in C++ (2018)
  - [http://www.sevangelatos.com/john-carmack-on/](http://www.sevangelatos.com/john-carmack-on/)

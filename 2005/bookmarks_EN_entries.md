@@ -20,7 +20,7 @@
  - [https://www.theregister.com/2005/07/28/ie7_nukes_rival_search/](https://www.theregister.com/2005/07/28/ie7_nukes_rival_search/)
  - date published: 2005-07-28T12:05:34+00:00
  - user: rumpel
- - tags: ['google', 'search engines', 'microsoft', 'dark design']
+ - tags: ['search engines', 'microsoft', 'corporatocracy', 'dark design', 'manufacturing consent', 'google']
 
 ## Atrazine in municipal drinking water and risk of low birth weight, preterm delivery, and small-for-gestational-age status - PubMed
  - [https://pubmed.ncbi.nlm.nih.gov/15901888/](https://pubmed.ncbi.nlm.nih.gov/15901888/)
