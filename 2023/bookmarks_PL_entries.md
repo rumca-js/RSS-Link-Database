@@ -1,3 +1,9 @@
+## Ekonomiści zaniepokojeni tempem zadłużania się kraju. "Sytuacja jest dramatyczna"
+ - [https://www.bankier.pl/wiadomosc/Ekonomisci-zaniepokojeni-tempem-zadluzania-sie-kraju-Sytuacja-jest-dramatyczna-8606849.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Ekonomisci-zaniepokojeni-tempem-zadluzania-sie-kraju-Sytuacja-jest-dramatyczna-8606849.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
+ - date published: 2023-09-07T05:50:00+00:00
+ - user: rumpel
+ - tags: ['prawo i sprawiedliwość', 'public debt', 'poland']
+
 ## AstraZeneca i Pfizer-BioNTech mają kłopoty. Sypią się pozwy o skutki uboczne szczepionek na COVID-19
  - [https://www.rp.pl/covid19/art39028671-astrazeneca-i-pfizer-biontech-maja-klopoty-sypia-sie-pozwy-o-skutki-uboczne-szczepionek-na-covid-19](https://www.rp.pl/covid19/art39028671-astrazeneca-i-pfizer-biontech-maja-klopoty-sypia-sie-pozwy-o-skutki-uboczne-szczepionek-na-covid-19)
  - date published: 2023-08-30T16:00:26.952834+00:00
@@ -14,7 +20,7 @@
  - [https://lubimyczytac.pl/ksiazka/5050676/rozpieszczony-umysl-jak-dobre-intencje-i-zle-idee-skazuja-pokolenia-na-porazke](https://lubimyczytac.pl/ksiazka/5050676/rozpieszczony-umysl-jak-dobre-intencje-i-zle-idee-skazuja-pokolenia-na-porazke)
  - date published: 2023-08-28T07:17:02+00:00
  - user: rumpel
- - tags: ['book', 'books', 'science is dead']
+ - tags: ['book', 'science is dead']
 
 ## Pogoda w INTERIA.PL – długoterminowa (na 25 dni) prognoza pogody dla Polski, Europy i Świata
  - [https://pogoda.interia.pl/](https://pogoda.interia.pl/)

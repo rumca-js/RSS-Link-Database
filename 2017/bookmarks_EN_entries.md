@@ -430,6 +430,12 @@
  - user: rumpel
  - tags: ['turla', 'uroboros', 'malware']
 
+## Bilderberg: the world’s most secretive conference is as out of touch as ever | Bilderberg | The Guardian
+ - [https://www.theguardian.com/world/2017/jun/02/bilderberg-secretive-conference-eric-schmidt](https://www.theguardian.com/world/2017/jun/02/bilderberg-secretive-conference-eric-schmidt)
+ - date published: 2017-06-02T06:55:43+00:00
+ - user: rumpel
+ - tags: ['democracy', 'bilderberg meeting', 'politicians', 'billionaires']
+
 ## RSPH |  Instagram Ranked Worst for Young People’s Mental Health
  - [https://www.rsph.org.uk/about-us/news/instagram-ranked-worst-for-young-people-s-mental-health.html?mc_cid=319c2432e2&mc_eid=fb26c9199a](https://www.rsph.org.uk/about-us/news/instagram-ranked-worst-for-young-people-s-mental-health.html?mc_cid=319c2432e2&mc_eid=fb26c9199a)
  - date published: 2017-05-19T08:21:51+00:00
@@ -483,6 +489,12 @@
  - date published: 2017-04-14T15:04:35+00:00
  - user: rumpel
  - tags: ['shadow brokers', 'wannacry', 'eternalblue', 'trojan', 'vulnerability', 'nsa']
+
+## Requiem for the American Dream - Wikipedia
+ - [https://en.wikipedia.org/wiki/Requiem_for_the_American_Dream](https://en.wikipedia.org/wiki/Requiem_for_the_American_Dream)
+ - date published: 2017-04-07T07:17:44+00:00
+ - user: rumpel
+ - tags: ['corporatocracy', 'democracy', 'capitalism']
 
 ## Why Muslims are the world’s fastest-growing religious group | Pew Research Center
  - [https://www.pewresearch.org/fact-tank/2017/04/06/why-muslims-are-the-worlds-fastest-growing-religious-group](https://www.pewresearch.org/fact-tank/2017/04/06/why-muslims-are-the-worlds-fastest-growing-religious-group)
@@ -561,6 +573,12 @@
  - date published: 2017-03-07T12:03:10+00:00
  - user: rumpel
  - tags: ['vulnerability', 'wikileaks', 'malware', 'cia', 'surveilllance', 'vault7']
+
+## Click to agree with what? No one reads terms of service, studies confirm | Internet | The Guardian
+ - [https://www.theguardian.com/technology/2017/mar/03/terms-of-service-online-contracts-fine-print](https://www.theguardian.com/technology/2017/mar/03/terms-of-service-online-contracts-fine-print)
+ - date published: 2017-03-03T09:05:37+00:00
+ - user: rumpel
+ - tags: ['terms of service', 'eula']
 
 ## Noam Chomsky - The 5 Filters of the Mass Media Machine
  - [https://www.youtube.com/watch?v=34LGPIXvU5M](https://www.youtube.com/watch?v=34LGPIXvU5M)

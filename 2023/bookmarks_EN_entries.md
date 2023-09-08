@@ -1,3 +1,27 @@
+## Report says PR firm has been paying Rotten Tomatoes critics for positive reviews
+ - [https://www.screengeek.net/2023/09/06/rotten-tomatoes-pr-firm-paying-critics-positive-reviews/](https://www.screengeek.net/2023/09/06/rotten-tomatoes-pr-firm-paying-critics-positive-reviews/)
+ - date published: 2023-09-07T14:30:50+00:00
+ - user: rumpel
+ - tags: ['corporatocracy', 'manufacturing consent']
+
+## 5 Best Noam Chomsky Books (2023) - Which Are a Must-Read?
+ - [https://www.ereads.com/noam-chomsky/](https://www.ereads.com/noam-chomsky/)
+ - date published: 2023-09-07T07:19:25+00:00
+ - user: rumpel
+ - tags: ['book', 'noam chomsky']
+
+## Council on Foreign Relations - Wikipedia
+ - [https://en.wikipedia.org/wiki/Council_on_Foreign_Relations](https://en.wikipedia.org/wiki/Council_on_Foreign_Relations)
+ - date published: 2023-09-07T07:03:18+00:00
+ - user: rumpel
+ - tags: ['council on foreign relations']
+
+## Trilateral Commission - Wikipedia
+ - [https://en.wikipedia.org/wiki/Trilateral_Commission](https://en.wikipedia.org/wiki/Trilateral_Commission)
+ - date published: 2023-09-07T06:52:18+00:00
+ - user: rumpel
+ - tags: ['trilateral commission']
+
 ## Tesla hit with class action lawsuit over alleged privacy intrusion | Reuters
  - [https://www.reuters.com/business/autos-transportation/tesla-hit-with-class-action-lawsuit-over-alleged-privacy-intrusion-2023-04-08/](https://www.reuters.com/business/autos-transportation/tesla-hit-with-class-action-lawsuit-over-alleged-privacy-intrusion-2023-04-08/)
  - date published: 2023-09-06T18:58:35+00:00
@@ -130,6 +154,12 @@
  - user: rumpel
  - tags: ['amiga', 'chiptune']
 
+## BBC bosses under pressure to explain why news report about convicted paedophile who sent sexual messages to 14-year-old boy was edited to remove mentions of his drag queen career
+ - [https://www.dailymail.co.uk/news/article-12476901/BBC-bosses-pressure-explain-news-report-convicted-paedophile-sent-sexual-messages-14-year-old-boy-edited-remove-mentions-drag-queen-career.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12476901/BBC-bosses-pressure-explain-news-report-convicted-paedophile-sent-sexual-messages-14-year-old-boy-edited-remove-mentions-drag-queen-career.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - date published: 2023-09-03T23:47:02+00:00
+ - user: rumpel
+ - tags: ['the left wing', 'drag queen', 'lgbt']
+
 ## Netanyahu again vows to build long-touted fence along border with Jordan | The Times of Israel
  - [https://www.timesofisrael.com/netanyahu-again-vows-to-build-long-touted-fence-along-border-with-jordan/](https://www.timesofisrael.com/netanyahu-again-vows-to-build-long-touted-fence-along-border-with-jordan/)
  - date published: 2023-09-03T20:42:42+00:00
@@ -178,6 +208,12 @@
  - user: rumpel
  - tags: ['library', 'open source', 'open data']
 
+## As Hurricane Idalia caused flooding, some electric vehicles exposed to saltwater caught fire - CBS News
+ - [https://www.cbsnews.com/news/hurricane-idalia-electric-car-caught-fire-tesla/](https://www.cbsnews.com/news/hurricane-idalia-electric-car-caught-fire-tesla/)
+ - date published: 2023-09-01T05:33:12+00:00
+ - user: rumpel
+ - tags: ['climate change', 'electric vehicles']
+
 ## X’s New Privacy Policy Gives Itself Permission To Collect Biometric Data
  - [https://reclaimthenet.org/xs-new-privacy-policy-gives-itself-permission-to-collect-biometric-data](https://reclaimthenet.org/xs-new-privacy-policy-gives-itself-permission-to-collect-biometric-data)
  - date published: 2023-08-31T18:37:20+00:00
@@ -195,6 +231,12 @@
  - date published: 2023-08-31T07:23:13+00:00
  - user: rumpel
  - tags: ['covid', 'vaccine']
+
+## Anti-Toxicity Progress Report – Voice Chat Moderation
+ - [https://www.callofduty.com/blog/2023/08/call-of-duty-modern-warfare-warzone-anti-toxicity-progress-report](https://www.callofduty.com/blog/2023/08/call-of-duty-modern-warfare-warzone-anti-toxicity-progress-report)
+ - date published: 2023-08-30T10:35:54+00:00
+ - user: rumpel
+ - tags: ['hate speech', 'moderation', 'surveillance', 'free speech', 'privacy']
 
 ## Apple: Using cash is “clearly reckless”
  - [https://blog.vexl.it/apple-using-cash-is-clearly-reckless-77e2a519a3bc](https://blog.vexl.it/apple-using-cash-is-clearly-reckless-77e2a519a3bc)
@@ -1335,6 +1377,12 @@
  - date published: 2023-07-18T16:15:04+00:00
  - user: rumpel
  - tags: ['deplatform', 'manufacturing consent', 'nigel farage', 'censorship']
+
+## G/O media will make more AI-generated stories despite critics
+ - [https://www.vox.com/technology/2023/7/18/23798164/gizmodo-ai-g-o-bot-stories-jalopnik-av-club-peter-kafka-media-column](https://www.vox.com/technology/2023/7/18/23798164/gizmodo-ai-g-o-bot-stories-jalopnik-av-club-peter-kafka-media-column)
+ - date published: 2023-07-18T14:53:10+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
 
 ## Amazon’s in-van surveillance footage of delivery drivers is leaking online
  - [https://www.theverge.com/2023/7/18/23798611/amazon-van-driver-surveillance-camera-footage-leak-reddit](https://www.theverge.com/2023/7/18/23798611/amazon-van-driver-surveillance-camera-footage-leak-reddit)

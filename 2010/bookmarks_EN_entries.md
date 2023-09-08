@@ -28,6 +28,12 @@
  - user: rumpel
  - tags: ['documentary', 'history']
 
+## Gaza in Crisis - Wikipedia
+ - [https://en.wikipedia.org/wiki/Gaza_in_Crisis](https://en.wikipedia.org/wiki/Gaza_in_Crisis)
+ - date published: 2010-11-09T07:14:33+00:00
+ - user: rumpel
+ - tags: ['palestine', 'nakba', 'israel']
+
 ## Media Matters Receives $1 Million From George Soros
  - [https://philanthropynewsdigest.org/news/media-matters-receives-1-million-from-george-soros](https://philanthropynewsdigest.org/news/media-matters-receives-1-million-from-george-soros)
  - date published: 2010-10-22T20:10:27+00:00
@@ -57,6 +63,12 @@
  - date published: 2010-08-28T00:00:00+00:00
  - user: rumpel
  - tags: ['chiptune', 'music']
+
+## Fidel Castro fascinated by Bilderberg Club conspiracy theory - CSMonitor.com
+ - [https://www.csmonitor.com/From-the-news-wires/2010/0820/Fidel-Castro-fascinated-by-Bilderberg-Club-conspiracy-theory](https://www.csmonitor.com/From-the-news-wires/2010/0820/Fidel-Castro-fascinated-by-Bilderberg-Club-conspiracy-theory)
+ - date published: 2010-08-20T06:57:18+00:00
+ - user: rumpel
+ - tags: ['democracy', 'bilderberg meeting', 'polititians', 'billionaires']
 
 ## How radicals tried to sexually ‘liberate’ children
  - [https://ionainstitute.ie/how-radicals-tried-to-sexually-liberate-children/](https://ionainstitute.ie/how-radicals-tried-to-sexually-liberate-children/)

@@ -1652,7 +1652,7 @@
  - [https://www.youtube.com/watch?v=fzYj11qWb-M](https://www.youtube.com/watch?v=fzYj11qWb-M)
  - date published: 2022-12-04T00:00:00+00:00
  - user: rumpel
- - tags: ['democracy', 'legacy media', 'propaganda', 'misinformation']
+ - tags: ['legacy media', 'propaganda', 'democracy', 'the right wing', 'misinformation']
 
 ## Musk declares New York Times ‘lobbying firm for far left’ after reportedly ignoring ‘Twitter Files’ story
  - [https://www.foxnews.com/media/musk-declares-new-york-times-lobbying-firm-for-far-left-after-reportedly-ignoring-twitter-files-story](https://www.foxnews.com/media/musk-declares-new-york-times-lobbying-firm-for-far-left-after-reportedly-ignoring-twitter-files-story)
@@ -8750,7 +8750,7 @@
  - [https://www.youtube.com/watch?v=R0krUthYxF4](https://www.youtube.com/watch?v=R0krUthYxF4)
  - date published: 2022-05-22T00:00:00+00:00
  - user: rumpel
- - tags: ['dune', 'books']
+ - tags: ['book', 'dune']
 
 ## Predatory community
  - [https://blog.mollywhite.net/predatory-community/#fnref:fn1](https://blog.mollywhite.net/predatory-community/#fnref:fn1)
@@ -10538,7 +10538,7 @@
  - [https://www.youtube.com/watch?v=Vy_nbi_Gl7k](https://www.youtube.com/watch?v=Vy_nbi_Gl7k)
  - date published: 2022-02-19T00:00:00+00:00
  - user: rumpel
- - tags: ['books', 'narnia']
+ - tags: ['book', 'narnia']
 
 ## Interview with Senior C++ Developer
  - [https://www.youtube.com/watch?v=s7wLYzRJt3s](https://www.youtube.com/watch?v=s7wLYzRJt3s)

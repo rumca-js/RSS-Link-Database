@@ -646,6 +646,12 @@
  - user: rumpel
  - tags: ['church scandal', 'religion', 'catholic']
 
+## JPMorgan Chase Seeks to Prohibit Card Customers From Suing - The New York Times
+ - [https://www.nytimes.com/2019/06/04/business/jpmorgan-chase-credit-card-arbitration.html](https://www.nytimes.com/2019/06/04/business/jpmorgan-chase-credit-card-arbitration.html)
+ - date published: 2019-06-04T09:02:11+00:00
+ - user: rumpel
+ - tags: ['terms of service', 'jpmorgan', 'eula', 'corporatocracy']
+
 ## Why should you read “The Master and Margarita”? - Alex Gendler
  - [https://www.youtube.com/watch?v=miNBicrLiXo](https://www.youtube.com/watch?v=miNBicrLiXo)
  - date published: 2019-05-30T11:59:31+00:00
