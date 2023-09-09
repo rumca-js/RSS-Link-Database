@@ -3344,7 +3344,7 @@
  - [https://www.theverge.com/2022/10/28/23428792/elon-musk-twitter-content-moderation-council-trump](https://www.theverge.com/2022/10/28/23428792/elon-musk-twitter-content-moderation-council-trump)
  - date published: 2022-10-28T18:43:44+00:00
  - user: None
- - tags: ['twitter', 'elon musk', 'moderation']
+ - tags: ['content moderation council', 'moderation', 'elon musk', 'twitter']
 
 ## Google ‘targeting Senate’ after study shows ‘search bias’ doesn’t impact House, Media Research Center says
  - [https://www.foxnews.com/media/google-targeting-senate-after-study-shows-search-bias-doesnt-impact-house-media-research-center-says](https://www.foxnews.com/media/google-targeting-senate-after-study-shows-search-bias-doesnt-impact-house-media-research-center-says)

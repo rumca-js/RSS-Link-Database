@@ -1,3 +1,27 @@
+## Righteous Among the Nations - Wikipedia
+ - [https://en.wikipedia.org/wiki/Righteous_Among_the_Nations](https://en.wikipedia.org/wiki/Righteous_Among_the_Nations)
+ - date published: 2023-09-08T11:34:19+00:00
+ - user: rumpel
+ - tags: ['righteous among the nations', 'holocaust']
+
+## Discovery shines light on Church's protection of Jews during Nazi persecution
+ - [https://www.vaticannews.va/en/vatican-city/news/2023-09/douments-pontifical-biblical-commission-nazi-persecution-church.html](https://www.vaticannews.va/en/vatican-city/news/2023-09/douments-pontifical-biblical-commission-nazi-persecution-church.html)
+ - date published: 2023-09-08T08:47:44+00:00
+ - user: rumpel
+ - tags: ['righteous among the nations']
+
+## New York's Migrant Meltdown
+ - [https://www.wsj.com/articles/eric-adams-migrant-crisis-will-destroy-new-york-city-kathy-hochul-greg-abbott-aba585d](https://www.wsj.com/articles/eric-adams-migrant-crisis-will-destroy-new-york-city-kathy-hochul-greg-abbott-aba585d)
+ - date published: 2023-09-07T22:27:00+00:00
+ - user: rumpel
+ - tags: ['immigration']
+
+## Elon Musk ordered Starlink to be turned off during Ukraine offensive, book says
+ - [https://www.theguardian.com/technology/2023/sep/07/elon-musk-ordered-starlink-turned-off-ukraine-offensive-biography](https://www.theguardian.com/technology/2023/sep/07/elon-musk-ordered-starlink-turned-off-ukraine-offensive-biography)
+ - date published: 2023-09-07T22:14:11+00:00
+ - user: rumpel
+ - tags: ['billionaires', 'elon musk', 'ukraine']
+
 ## Report says PR firm has been paying Rotten Tomatoes critics for positive reviews
  - [https://www.screengeek.net/2023/09/06/rotten-tomatoes-pr-firm-paying-critics-positive-reviews/](https://www.screengeek.net/2023/09/06/rotten-tomatoes-pr-firm-paying-critics-positive-reviews/)
  - date published: 2023-09-07T14:30:50+00:00
@@ -21,6 +45,12 @@
  - date published: 2023-09-07T06:52:18+00:00
  - user: rumpel
  - tags: ['trilateral commission']
+
+## After school 'Satan Club' event at Southern California library draws protests
+ - [https://www.foxla.com/news/after-school-satan-club-lancaster-library-protests](https://www.foxla.com/news/after-school-satan-club-lancaster-library-protests)
+ - date published: 2023-09-07T06:21:51+00:00
+ - user: rumpel
+ - tags: ['satanism', 'satanic temple']
 
 ## Tesla hit with class action lawsuit over alleged privacy intrusion | Reuters
  - [https://www.reuters.com/business/autos-transportation/tesla-hit-with-class-action-lawsuit-over-alleged-privacy-intrusion-2023-04-08/](https://www.reuters.com/business/autos-transportation/tesla-hit-with-class-action-lawsuit-over-alleged-privacy-intrusion-2023-04-08/)
@@ -3050,7 +3080,7 @@
  - [https://en.wikipedia.org/wiki/Polish_Righteous_Among_the_Nations](https://en.wikipedia.org/wiki/Polish_Righteous_Among_the_Nations)
  - date published: 2023-05-25T11:55:43+00:00
  - user: rumpel
- - tags: ['israel', 'poland', 'holocaust']
+ - tags: ['poland', 'righteous among the nations', 'holocaust', 'israel']
 
 ## Two Men Charged After Catholic Church in Northern Alberta Gutted by Arson
  - [https://www.theepochtimes.com/two-men-charged-after-catholic-church-in-northern-alberta-gutted-by-arson_5290005.html](https://www.theepochtimes.com/two-men-charged-after-catholic-church-in-northern-alberta-gutted-by-arson_5290005.html)

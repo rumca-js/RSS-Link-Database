@@ -98,7 +98,7 @@
  - [http://www.retronauta.pl/skrywana-tajemnica-firm-adidas-i-puma](http://www.retronauta.pl/skrywana-tajemnica-firm-adidas-i-puma)
  - date published: 2023-07-20T19:16:19+00:00
  - user: rumpel
- - tags: ['puma', 'adidas', 'holocaust', 'germany']
+ - tags: ['adidas', 'germany', 'puma', 'holocaust']
 
 ## Eksperymenty LGBT na dzieciach. Wywiad z potworem
  - [https://wpolityce.pl/spoleczenstwo/654778-eksperymenty-lgbt-na-dzieciach-wywiad-z-potworem](https://wpolityce.pl/spoleczenstwo/654778-eksperymenty-lgbt-na-dzieciach-wywiad-z-potworem)
@@ -290,7 +290,7 @@
  - [https://pl.wikipedia.org/wiki/Polscy_Sprawiedliwi_w%C5%9Br%C3%B3d_Narod%C3%B3w_%C5%9Awiata](https://pl.wikipedia.org/wiki/Polscy_Sprawiedliwi_w%C5%9Br%C3%B3d_Narod%C3%B3w_%C5%9Awiata)
  - date published: 2023-05-25T11:53:17+00:00
  - user: rumpel
- - tags: ['israel', 'poland', 'holocaust']
+ - tags: ['poland', 'righteous among the nations', 'holocaust', 'israel']
 
 ## UE szykuje się do zakazu szyfrowania. Wyciekła oficjalna ankieta z opiniami państw członkowskich
  - [https://ithardware.pl/aktualnosci/wyciekla_lista_krajow_ue_zwalczajacych_szyfrowanie_komunikatorow_znamy_stanowisko_polski_i_innych-27433.html](https://ithardware.pl/aktualnosci/wyciekla_lista_krajow_ue_zwalczajacych_szyfrowanie_komunikatorow_znamy_stanowisko_polski_i_innych-27433.html)
@@ -748,7 +748,7 @@
  - [https://terazhistoria.pl/sw-maksymilian-kolbe/](https://terazhistoria.pl/sw-maksymilian-kolbe/)
  - date published: 2023-01-08T18:12:48+00:00
  - user: rumpel
- - tags: ['israel', 'example', 'holocaust', 'maksymilian kolbe']
+ - tags: ['righteous among the nations', 'example', 'maksymilian kolbe', 'holocaust', 'israel']
 
 ## Dyskryminacja klasowa nadal jest faktem. Stała się paliwem dla populistów
  - [https://forsal.pl/gospodarka/polityka/artykuly/8626908,dyskryminacja-klasowa-nadal-jest-faktem-stala-sie-paliwem-dla-populistow.html](https://forsal.pl/gospodarka/polityka/artykuly/8626908,dyskryminacja-klasowa-nadal-jest-faktem-stala-sie-paliwem-dla-populistow.html)
