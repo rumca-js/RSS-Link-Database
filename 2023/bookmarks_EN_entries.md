@@ -2278,6 +2278,12 @@
  - user: rumpel
  - tags: ['reddit']
 
+## Woke Trans Kids Doctor GETS CAREER ENDED In CONGRESS By BASED Psychiatrist With Scientific Evidence!
+ - [https://www.youtube.com/watch?v=iJl7UywkArc](https://www.youtube.com/watch?v=iJl7UywkArc)
+ - date published: 2023-06-16T00:00:00+00:00
+ - user: rumpel
+ - tags: ['transgender']
+
 ## Raspberry Pi 4
  - [https://konstakang.com/devices/rpi4/](https://konstakang.com/devices/rpi4/)
  - date published: 2023-06-15T15:54:54+00:00
