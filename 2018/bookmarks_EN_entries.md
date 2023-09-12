@@ -194,7 +194,7 @@
  - [https://www.cnbc.com/2018/09/04/jack-dorsey-to-congress-full-written-testimony-on-political-bias.html](https://www.cnbc.com/2018/09/04/jack-dorsey-to-congress-full-written-testimony-on-political-bias.html)
  - date published: 2018-09-04T11:18:42+00:00
  - user: rumpel
- - tags: ['shadowban', 'jack dorsey', 'twitter', 'twitter files']
+ - tags: ['shadowban', 'twitter', 'jack dorsey']
 
 ## Capitalism, Socialism and Democracy
  - [https://notrelated.xyz/audio/s01/S01E02_-_Capitalism_Socialism_and_Democracy.mp3](https://notrelated.xyz/audio/s01/S01E02_-_Capitalism_Socialism_and_Democracy.mp3)

@@ -1,3 +1,27 @@
+## Looks Like Twitter Shadowbanned The New York Times, Which Advertises on Twitter
+ - [https://gizmodo.com/twitter-shadowban-the-new-york-times-nyt-elon-musk-1850825002](https://gizmodo.com/twitter-shadowban-the-new-york-times-nyt-elon-musk-1850825002)
+ - date published: 2023-09-11T16:02:15+00:00
+ - user: rumpel
+ - tags: ['shadowban', 'censorship']
+
+## Google Chrome just rolled out a new way to track you and serve ads
+ - [https://theconversation.com/google-chrome-just-rolled-out-a-new-way-to-track-you-and-serve-ads-heres-what-you-need-to-know-213150](https://theconversation.com/google-chrome-just-rolled-out-a-new-way-to-track-you-and-serve-ads-heres-what-you-need-to-know-213150)
+ - date published: 2023-09-11T08:50:20+00:00
+ - user: rumpel
+ - tags: ['ad business', 'tracking google', 'surveillance']
+
+## How Big Tech Got So Damn Big
+ - [https://www.wired.com/story/the-internet-con-cory-doctorow-book-excerpt/](https://www.wired.com/story/the-internet-con-cory-doctorow-book-excerpt/)
+ - date published: 2023-09-10T17:05:21+00:00
+ - user: rumpel
+ - tags: ['big tech', 'corporatocracy', 'network effect']
+
+## Tim Burton on cancel culture and his Beetlejuice sequel: ‘I used to think about society as like the angry villagers in Frankenstein’ | The Independent
+ - [https://www.independent.co.uk/arts-entertainment/art/features/tim-burton-beetlejuice-2-johnny-depp-disney-b2406538.html](https://www.independent.co.uk/arts-entertainment/art/features/tim-burton-beetlejuice-2-johnny-depp-disney-b2406538.html)
+ - date published: 2023-09-09T06:46:12+00:00
+ - user: rumpel
+ - tags: ['cancel culture']
+
 ## Righteous Among the Nations - Wikipedia
  - [https://en.wikipedia.org/wiki/Righteous_Among_the_Nations](https://en.wikipedia.org/wiki/Righteous_Among_the_Nations)
  - date published: 2023-09-08T11:34:19+00:00
@@ -214,11 +238,23 @@
  - user: rumpel
  - tags: ['technofeudalism', 'corporatocracy']
 
+## Woody Allen on Dylan and Ronan, Being Canceled and His New Movie - Variety
+ - [https://variety.com/2023/film/global/woody-allen-dylan-ronan-being-canceled-new-movie-1235712494/](https://variety.com/2023/film/global/woody-allen-dylan-ronan-being-canceled-new-movie-1235712494/)
+ - date published: 2023-09-03T06:45:43+00:00
+ - user: rumpel
+ - tags: ['cancel culture']
+
 ## Revealed: Home Office secretly lobbied for facial recognition ‘spy’ company
  - [https://www.theguardian.com/technology/2023/sep/02/home-office-accused-of-secret-lobbying-for-facial-recognition-spy-company](https://www.theguardian.com/technology/2023/sep/02/home-office-accused-of-secret-lobbying-for-facial-recognition-spy-company)
  - date published: 2023-09-02T17:03:20+00:00
  - user: rumpel
  - tags: ['facial recognition', 'manufacturing consent']
+
+## A Study's Bombshell Finding That Has Been Ignored
+ - [https://www.silentlunch.net/p/a-studys-bombshell-finding-that-has](https://www.silentlunch.net/p/a-studys-bombshell-finding-that-has)
+ - date published: 2023-09-01T17:24:32+00:00
+ - user: rumpel
+ - tags: ['covid', 'social distancing', 'mandates']
 
 ## Browser extensions spy on you, even if its developers don't
  - [https://vitonsky.net/blog/2023/09/01/malware-in-browser-extensions/](https://vitonsky.net/blog/2023/09/01/malware-in-browser-extensions/)
@@ -285,6 +321,12 @@
  - date published: 2023-08-29T20:17:35+00:00
  - user: rumpel
  - tags: ['america', 'the left wing', 'transgender']
+
+## Study: Sweden's 'Laissez Faire' Pandemic Policies Paid Off
+ - [https://reason.com/2023/08/29/study-swedens-laissez-faire-pandemic-policies-paid-off/](https://reason.com/2023/08/29/study-swedens-laissez-faire-pandemic-policies-paid-off/)
+ - date published: 2023-08-29T17:28:25+00:00
+ - user: rumpel
+ - tags: ['covid mandates', 'covid']
 
 ## Child safety bills are reshaping the internet for everyone
  - [https://www.theverge.com/2023/8/29/23849375/kosa-child-safety-free-speech-louisiana-utah-parental-consent](https://www.theverge.com/2023/8/29/23849375/kosa-child-safety-free-speech-louisiana-utah-parental-consent)
@@ -5966,7 +6008,7 @@
  - [https://www.nytimes.com/2023/02/21/opinion/do-mask-mandates-work.html](https://www.nytimes.com/2023/02/21/opinion/do-mask-mandates-work.html)
  - date published: 2023-02-21T09:45:23+00:00
  - user: rumpel
- - tags: ['masks', 'covid lie', 'covid', 'science is dead', 'covid mandates']
+ - tags: ['covid lie', 'science is dead', 'mask mandates', 'masks', 'covid mandates', 'covid']
 
 ## What is a 15-minute city and why is the idea so controversial?
  - [https://www.itv.com/news/2023-02-20/what-is-a-15-minute-city-and-why-is-the-idea-so-controversial](https://www.itv.com/news/2023-02-20/what-is-a-15-minute-city-and-why-is-the-idea-so-controversial)

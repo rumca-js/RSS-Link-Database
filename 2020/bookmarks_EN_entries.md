@@ -1438,6 +1438,12 @@
  - user: rumpel
  - tags: ['wuhan', 'covid', 'anthony fauci']
 
+## Leaked Amazon Whole Foods Docs: Workforce Diversity Helps Prevent Unions – NewsWars
+ - [https://www.newswars.com/leaked-amazon-whole-foods-docs-workforce-diversity-helps-prevent-unions/](https://www.newswars.com/leaked-amazon-whole-foods-docs-workforce-diversity-helps-prevent-unions/)
+ - date published: 2020-04-24T06:12:13+00:00
+ - user: rumpel
+ - tags: ['hypocrisy', 'inclusion', 'diversity', 'corporatocracy']
+
 ## Amazon uses data from third-party sellers to develop its own products, WSJ investigation finds
  - [https://www.cnbc.com/2020/04/23/wsj-amazon-uses-data-from-third-party-sellers-to-develop-its-own-products.html](https://www.cnbc.com/2020/04/23/wsj-amazon-uses-data-from-third-party-sellers-to-develop-its-own-products.html)
  - date published: 2020-04-23T14:07:06+00:00

@@ -154,6 +154,12 @@
  - user: rumpel
  - tags: ['intel management engine', 'minix', 'surveillance', 'tracking']
 
+## Anthony Mackie Explains Why Hollywood Movies Suck Now
+ - [https://www.youtube.com/watch?v=oj8JK6c5x3M](https://www.youtube.com/watch?v=oj8JK6c5x3M)
+ - date published: 2017-10-31T00:00:00+00:00
+ - user: rumpel
+ - tags: ['cinemas', 'movies']
+
 ## Google as a search engine is becoming useless
  - [http://www.coalpha.org/Google-as-a-search-engine-is-becoming-useless-td7576886.html](http://www.coalpha.org/Google-as-a-search-engine-is-becoming-useless-td7576886.html)
  - date published: 2017-10-23T16:30:02+00:00

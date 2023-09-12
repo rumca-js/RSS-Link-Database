@@ -4160,7 +4160,7 @@
  - [https://www.youtube.com/watch?v=12f0ligwS5s](https://www.youtube.com/watch?v=12f0ligwS5s)
  - date published: 2021-05-13T00:00:00+00:00
  - user: rumpel
- - tags: ['movies']
+ - tags: ['cinemas', 'movies']
 
 ## Chinese document discussing weaponising coronaviruses provides 'chilling' informati
  - [https://www.youtube.com/watch?v=kuKPBur_TiI](https://www.youtube.com/watch?v=kuKPBur_TiI)

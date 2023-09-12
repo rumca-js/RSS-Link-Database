@@ -1240,12 +1240,6 @@
  - user: None
  - tags: ['covid', 'lockdown']
 
-## Twitter Files reveal Trump ban came after Michelle Obama, others pressured the company
- - [https://www.foxnews.com/politics/twitter-files-reveal-trump-ban-came-after-michelle-obama-others-pressured-company](https://www.foxnews.com/politics/twitter-files-reveal-trump-ban-came-after-michelle-obama-others-pressured-company)
- - date published: 2022-12-11T08:00:20+00:00
- - user: None
- - tags: ['twitter', 'twitter files']
-
 ## Twitter Files reveal 'junior employee' stood against Trump ban, warned of 'slippery slope'
  - [https://www.foxnews.com/politics/twitter-files-reveal-junior-employee-stood-against-trump-ban-warned-slippery-slope](https://www.foxnews.com/politics/twitter-files-reveal-junior-employee-stood-against-trump-ban-warned-slippery-slope)
  - date published: 2022-12-11T06:46:54+00:00
@@ -4455,12 +4449,6 @@
  - date published: 2022-10-11T17:04:47+00:00
  - user: None
  - tags: ['selfhost']
-
-## Elon Musk Claims Twitter Forced Whistleblower to Burn Evidence
- - [https://gizmodo.com/elon-musk-twitter-whistleblower-1849642068](https://gizmodo.com/elon-musk-twitter-whistleblower-1849642068)
- - date published: 2022-10-11T16:05:00+00:00
- - user: None
- - tags: ['twitter', 'twitter files', 'elon musk']
 
 ## How to reset your Apple ID password
  - [https://www.theverge.com/23355850/apple-id-password-reset-forgot-iphone-ipad-device](https://www.theverge.com/23355850/apple-id-password-reset-forgot-iphone-ipad-device)
