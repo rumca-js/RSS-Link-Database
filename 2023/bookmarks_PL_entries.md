@@ -1,3 +1,9 @@
+## NIK ujawnia: w czasie pandemii rząd narażał życie i zdrowie Polaków
+ - [https://wiadomosci.onet.pl/tylko-w-onecie/nik-ujawnia-w-czasie-pandemii-rzad-narazal-zycie-i-zdrowie-polakow/9jf5pte?utm_source=wykop.pl_viasg_wiadomosci&utm_medium=referal&utm_campaign=leo_automatic&srcc=undefined](https://wiadomosci.onet.pl/tylko-w-onecie/nik-ujawnia-w-czasie-pandemii-rzad-narazal-zycie-i-zdrowie-polakow/9jf5pte?utm_source=wykop.pl_viasg_wiadomosci&utm_medium=referal&utm_campaign=leo_automatic&srcc=undefined)
+ - date published: 2023-09-11T06:39:33+00:00
+ - user: rumpel
+ - tags: ['government', 'covid', 'poland', 'najwyższa izba kontroli']
+
 ## Ekonomiści zaniepokojeni tempem zadłużania się kraju. "Sytuacja jest dramatyczna"
  - [https://www.bankier.pl/wiadomosc/Ekonomisci-zaniepokojeni-tempem-zadluzania-sie-kraju-Sytuacja-jest-dramatyczna-8606849.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Ekonomisci-zaniepokojeni-tempem-zadluzania-sie-kraju-Sytuacja-jest-dramatyczna-8606849.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date published: 2023-09-07T05:50:00+00:00

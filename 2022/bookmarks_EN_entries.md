@@ -586,6 +586,12 @@
  - user: rumpel
  - tags: ['george soros']
 
+## Internet Crime Complaint Center (IC3) | Cyber Criminals Impersonating Brands Using Search Engine Advertisement Services to Defraud Users
+ - [https://www.ic3.gov/Media/Y2022/PSA221221](https://www.ic3.gov/Media/Y2022/PSA221221)
+ - date published: 2022-12-21T06:28:29+00:00
+ - user: rumpel
+ - tags: ['ad business', 'vulnerability']
+
 ## Twitter secretly boosted US military propaganda: Investigation
  - [https://www.aljazeera.com/economy/2022/12/21/twitter-secretly-boosted-us-military-propaganda-investigation](https://www.aljazeera.com/economy/2022/12/21/twitter-secretly-boosted-us-military-propaganda-investigation)
  - date published: 2022-12-21T03:05:06+00:00

@@ -1,3 +1,15 @@
+## World Bank spent billions of dollars backing fossil fuels in 2022, study finds
+ - [https://www.theguardian.com/environment/2023/sep/12/world-bank-spent-billions-of-dollars-backing-fossil-fuels-in-2022-study-finds](https://www.theguardian.com/environment/2023/sep/12/world-bank-spent-billions-of-dollars-backing-fossil-fuels-in-2022-study-finds)
+ - date published: 2023-09-12T04:00:25+00:00
+ - user: rumpel
+ - tags: ['climate change']
+
+## Threads blocks searches related to covid and vaccines amid surge
+ - [https://www.washingtonpost.com/technology/2023/09/11/threads-covid-coronavirus-searches-blocked/](https://www.washingtonpost.com/technology/2023/09/11/threads-covid-coronavirus-searches-blocked/)
+ - date published: 2023-09-11T18:23:24+00:00
+ - user: rumpel
+ - tags: ['threads', 'vaccine', 'moderation', 'covid', 'misinformation', 'censorship', 'meta', 'disinformation']
+
 ## Looks Like Twitter Shadowbanned The New York Times, Which Advertises on Twitter
  - [https://gizmodo.com/twitter-shadowban-the-new-york-times-nyt-elon-musk-1850825002](https://gizmodo.com/twitter-shadowban-the-new-york-times-nyt-elon-musk-1850825002)
  - date published: 2023-09-11T16:02:15+00:00

@@ -238,6 +238,12 @@
  - user: rumpel
  - tags: ['vulnerability', 'heartbleed']
 
+## The Expert (Short Comedy Sketch)
+ - [https://www.youtube.com/watch?v=BKorP55Aqvg](https://www.youtube.com/watch?v=BKorP55Aqvg)
+ - date published: 2014-03-23T00:00:00+00:00
+ - user: rumpel
+ - tags: ['funny']
+
 ## Nigeria’s Boko Haram targets Christian town and fishing village in latest attacks
  - [http://edition.cnn.com/2014/02/16/world/africa/nigeria-boko-haram-attacks/index.html?eref=edition](http://edition.cnn.com/2014/02/16/world/africa/nigeria-boko-haram-attacks/index.html?eref=edition)
  - date published: 2014-02-17T09:23:02+00:00

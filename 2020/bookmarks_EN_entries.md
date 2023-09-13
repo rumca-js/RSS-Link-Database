@@ -1534,6 +1534,12 @@
  - user: rumpel
  - tags: ['blackrock']
 
+## Microservices
+ - [https://www.youtube.com/watch?v=y8OnoxKotPQ](https://www.youtube.com/watch?v=y8OnoxKotPQ)
+ - date published: 2020-03-25T00:00:00+00:00
+ - user: rumpel
+ - tags: ['funny']
+
 ## Yuval Noah Harari: the world after coronavirus | Free to read
  - [https://www.ft.com/content/19d90308-6858-11ea-a3c9-1fe6fedcca75#comments-anchor](https://www.ft.com/content/19d90308-6858-11ea-a3c9-1fe6fedcca75#comments-anchor)
  - date published: 2020-03-20T14:11:41+00:00

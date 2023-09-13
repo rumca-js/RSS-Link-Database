@@ -46,6 +46,12 @@
  - user: rumpel
  - tags: ['big brother', 'nginx', 'russia']
 
+## If American Psycho were about Programmers
+ - [https://www.youtube.com/watch?v=uHt01D6rOLI](https://www.youtube.com/watch?v=uHt01D6rOLI)
+ - date published: 2019-12-12T00:00:00+00:00
+ - user: rumpel
+ - tags: ['funny']
+
 ## Google Hands Feds 1,500 Phone Locations In Unprecedented ‘Geofence’ Search
  - [https://www.forbes.com/sites/thomasbrewster/2019/12/11/google-gives-feds-1500-leads-to-arsonist-smartphones-in-unprecedented-geofence-search/](https://www.forbes.com/sites/thomasbrewster/2019/12/11/google-gives-feds-1500-leads-to-arsonist-smartphones-in-unprecedented-geofence-search/)
  - date published: 2019-12-11T09:55:37+00:00
