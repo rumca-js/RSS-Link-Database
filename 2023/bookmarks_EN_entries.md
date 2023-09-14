@@ -1,3 +1,9 @@
+## CIA bribed its own COVID-19 origin team to reject lab-leak theory, anonymous whistleblower claims
+ - [https://www.science.org/content/article/cia-bribed-its-own-covid-19-origin-team-reject-lab-leak-theory-anonymous-whistleblower](https://www.science.org/content/article/cia-bribed-its-own-covid-19-origin-team-reject-lab-leak-theory-anonymous-whistleblower)
+ - date published: 2023-09-12T13:53:29+00:00
+ - user: rumpel
+ - tags: ['wuhan', 'science is dead', 'covid', 'lableak']
+
 ## World Bank spent billions of dollars backing fossil fuels in 2022, study finds
  - [https://www.theguardian.com/environment/2023/sep/12/world-bank-spent-billions-of-dollars-backing-fossil-fuels-in-2022-study-finds](https://www.theguardian.com/environment/2023/sep/12/world-bank-spent-billions-of-dollars-backing-fossil-fuels-in-2022-study-finds)
  - date published: 2023-09-12T04:00:25+00:00
@@ -292,6 +298,12 @@
  - user: rumpel
  - tags: ['climate change', 'electric vehicles']
 
+## JPMorgan allegedly processed more than $1bn for Epstein over 16 years
+ - [https://www.theguardian.com/us-news/2023/aug/31/jeffrey-epstein-jpmorgan-1-billion-us-virgin-islands](https://www.theguardian.com/us-news/2023/aug/31/jeffrey-epstein-jpmorgan-1-billion-us-virgin-islands)
+ - date published: 2023-09-01T01:42:50+00:00
+ - user: rumpel
+ - tags: ['jeffrey epstein']
+
 ## X’s New Privacy Policy Gives Itself Permission To Collect Biometric Data
  - [https://reclaimthenet.org/xs-new-privacy-policy-gives-itself-permission-to-collect-biometric-data](https://reclaimthenet.org/xs-new-privacy-policy-gives-itself-permission-to-collect-biometric-data)
  - date published: 2023-08-31T18:37:20+00:00
@@ -390,7 +402,7 @@
 
 ## Terms Every Linux User Needs To Know
  - [https://www.youtube.com/watch?v=NujVOhdBhAU](https://www.youtube.com/watch?v=NujVOhdBhAU)
- - date published: 2023-08-28T21:31:15.766437+00:00
+ - date published: 2023-08-28T21:31:15+00:00
  - user: rumpel
  - tags: ['linux']
 

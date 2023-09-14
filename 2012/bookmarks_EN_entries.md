@@ -10,6 +10,12 @@
  - user: None
  - tags: ['climate change', 'carbon footprint', 'carbon emissions']
 
+## Professor John Lennox | God DOES exist
+ - [https://www.youtube.com/watch?v=otrqzITuSqE](https://www.youtube.com/watch?v=otrqzITuSqE)
+ - date published: 2012-12-21T00:00:00+00:00
+ - user: rumpel
+ - tags: ['religion', 'atheism', 'theism', 'christianity', 'judaism']
+
 ## Decline of bees forces China’s apple farmers to pollinate by hand
  - [https://chinadialogue.net/en/food/5193-decline-of-bees-forces-china-s-apple-farmers-to-pollinate-by-hand/](https://chinadialogue.net/en/food/5193-decline-of-bees-forces-china-s-apple-farmers-to-pollinate-by-hand/)
  - date published: 2012-10-02T18:06:03+00:00

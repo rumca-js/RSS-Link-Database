@@ -22,6 +22,12 @@
  - user: rumpel
  - tags: ['big brother', 'privacy', 'surveillance', 'anonymity']
 
+## Apple and Google named in US lawsuit over Congolese child cobalt mining deaths
+ - [https://www.theguardian.com/global-development/2019/dec/16/apple-and-google-named-in-us-lawsuit-over-congolese-child-cobalt-mining-deaths](https://www.theguardian.com/global-development/2019/dec/16/apple-and-google-named-in-us-lawsuit-over-congolese-child-cobalt-mining-deaths)
+ - date published: 2019-12-16T15:07:16+00:00
+ - user: rumpel
+ - tags: ['tesla', 'congo', 'apple', 'google']
+
 ## Apple Requiring Notarization for Non Mac App Store Apps Starting February 2020 - MacRumors
  - [https://www.macrumors.com/2019/12/23/apple-mac-app-notarization-february-2020/](https://www.macrumors.com/2019/12/23/apple-mac-app-notarization-february-2020/)
  - date published: 2019-12-13T18:28:11+00:00
