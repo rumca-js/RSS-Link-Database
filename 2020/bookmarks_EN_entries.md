@@ -730,6 +730,12 @@
  - user: rumpel
  - tags: ['the left wing', 'norway', 'inequality', 'lgbt']
 
+## Unity files to go public.  Will Apple now buy them? - Gaming Street
+ - [https://gamingstreet.com/unity-files-to-go-public-will-apple-now-buy-them/](https://gamingstreet.com/unity-files-to-go-public-will-apple-now-buy-them/)
+ - date published: 2020-09-07T08:15:56+00:00
+ - user: rumpel
+ - tags: ['unity', 'game engines']
+
 ## Forget TikTok. China’s Powerhouse App Is WeChat. - The New York Times
  - [https://www.nytimes.com/2020/09/04/technology/wechat-china-united-states.html](https://www.nytimes.com/2020/09/04/technology/wechat-china-united-states.html)
  - date published: 2020-09-04T16:12:51+00:00

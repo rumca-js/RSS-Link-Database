@@ -520,7 +520,7 @@
  - [https://mycompanypolska.pl/artykul/fozz-czyli-matka-wszystkich-afer/11162](https://mycompanypolska.pl/artykul/fozz-czyli-matka-wszystkich-afer/11162)
  - date published: 2023-02-17T20:10:08+00:00
  - user: rumpel
- - tags: ['jarosław kaczynski', 'fozz', 'michał folzmann']
+ - tags: ['fozz', 'najwyższa izba kontroli', 'michał folzmann', 'jarosław kaczynski']
 
 ## Hiszpania: Nowe prawo dotyczące zmiany płci wśród dzieci
  - [https://wydarzenia.interia.pl/zagranica/news-hiszpania-nowe-prawo-dotyczace-zmiany-plci-wsrod-dzieci,nId,6601787](https://wydarzenia.interia.pl/zagranica/news-hiszpania-nowe-prawo-dotyczace-zmiany-plci-wsrod-dzieci,nId,6601787)

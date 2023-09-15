@@ -1,3 +1,21 @@
+## How mobile apps illegally share your personal data
+ - [https://noyb.eu/en/how-mobile-apps-illegally-share-your-personal-data](https://noyb.eu/en/how-mobile-apps-illegally-share-your-personal-data)
+ - date published: 2023-09-14T08:32:31+00:00
+ - user: rumpel
+ - tags: ['privacy', 'surveillance']
+
+## Pegasus Spyware Scandals Highlight Global Dangers As Activists Demand Action
+ - [https://www.forbes.com/sites/federicoguerrini/2023/09/14/pegasus-spyware-scandals-highlight-global-dangers-as-activists-demand-action/](https://www.forbes.com/sites/federicoguerrini/2023/09/14/pegasus-spyware-scandals-highlight-global-dangers-as-activists-demand-action/)
+ - date published: 2023-09-14T05:00:48+00:00
+ - user: rumpel
+ - tags: ['espionage', 'surveillance', 'pegasus']
+
+## Game Development Post-Unity
+ - [https://www.computerenhance.com/p/game-development-post-unity](https://www.computerenhance.com/p/game-development-post-unity)
+ - date published: 2023-09-14T00:19:07+00:00
+ - user: rumpel
+ - tags: ['unity', 'technofeudalism', 'game engines']
+
 ## CIA bribed its own COVID-19 origin team to reject lab-leak theory, anonymous whistleblower claims
  - [https://www.science.org/content/article/cia-bribed-its-own-covid-19-origin-team-reject-lab-leak-theory-anonymous-whistleblower](https://www.science.org/content/article/cia-bribed-its-own-covid-19-origin-team-reject-lab-leak-theory-anonymous-whistleblower)
  - date published: 2023-09-12T13:53:29+00:00
