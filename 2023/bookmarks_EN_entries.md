@@ -1,3 +1,33 @@
+## GitHub - elastic/elasticsearch: Free and Open, Distributed, RESTful Search Engine
+ - [https://github.com/elastic/elasticsearch](https://github.com/elastic/elasticsearch)
+ - date published: 2023-09-15T11:17:42+00:00
+ - user: rumpel
+ - tags: ['selfhost']
+
+## GitHub - benbusby/whoogle-search: A self-hosted, ad-free, privacy-respecting metasearch engine
+ - [https://github.com/benbusby/whoogle-search#usage](https://github.com/benbusby/whoogle-search#usage)
+ - date published: 2023-09-15T11:17:19+00:00
+ - user: rumpel
+ - tags: ['selfhost']
+
+## GitHub - opensearch-project/OpenSearch: 🔎 Open source distributed and RESTful search engine.
+ - [https://github.com/opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch)
+ - date published: 2023-09-15T11:15:07+00:00
+ - user: rumpel
+ - tags: ['selfhost', 'search engine']
+
+## Marginalia Downloads
+ - [https://downloads.marginalia.nu/](https://downloads.marginalia.nu/)
+ - date published: 2023-09-15T10:41:26+00:00
+ - user: rumpel
+ - tags: ['selfhost']
+
+## GitHub - MarginaliaSearch/MarginaliaSearch: Internet search engine for text-oriented websites. Indexing the small, old and weird web.
+ - [https://github.com/MarginaliaSearch/MarginaliaSearch](https://github.com/MarginaliaSearch/MarginaliaSearch)
+ - date published: 2023-09-15T10:28:33+00:00
+ - user: rumpel
+ - tags: ['selfhost', 'search engine']
+
 ## How mobile apps illegally share your personal data
  - [https://noyb.eu/en/how-mobile-apps-illegally-share-your-personal-data](https://noyb.eu/en/how-mobile-apps-illegally-share-your-personal-data)
  - date published: 2023-09-14T08:32:31+00:00
