@@ -922,6 +922,12 @@
  - user: None
  - tags: ['privacy', 'tracking', 'iot', 'amazon', 'big tech']
 
+## Solving the Diamond Problem with Virtual Inheritance
+ - [https://www.cprogramming.com/tutorial/virtual_inheritance.html](https://www.cprogramming.com/tutorial/virtual_inheritance.html)
+ - date published: 2019-01-05T13:29:06+00:00
+ - user: rumpel
+ - tags: ['inheritance', 'c++', 'programming']
+
 ## Inheritance — What your mother never told you
  - [https://isocpp.org/wiki/faq/strange-inheritance](https://isocpp.org/wiki/faq/strange-inheritance)
  - date published: 2019-01-05T13:27:19+00:00

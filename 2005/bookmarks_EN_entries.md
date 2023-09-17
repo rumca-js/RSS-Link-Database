@@ -16,6 +16,12 @@
  - user: rumpel
  - tags: ['scripts', 'programming', 'linux']
 
+## BBC NEWS | Americas | Inside the secretive Bilderberg Group
+ - [http://news.bbc.co.uk/2/hi/americas/4290944.stm](http://news.bbc.co.uk/2/hi/americas/4290944.stm)
+ - date published: 2005-08-29T07:00:55+00:00
+ - user: rumpel
+ - tags: ['democracy', 'bilderberg meeting', 'polititians', 'billionaires']
+
 ## IE7 nukes Google, Yahoo! search • The Register
  - [https://www.theregister.com/2005/07/28/ie7_nukes_rival_search/](https://www.theregister.com/2005/07/28/ie7_nukes_rival_search/)
  - date published: 2005-07-28T12:05:34+00:00

@@ -574,6 +574,12 @@
  - user: rumpel
  - tags: ['vulnerability', 'backdoor', 'technofeudalism', 'electric vehicles', 'infrastructure bill']
 
+## Fact check: Wind turbine blades can be recycled, but it rarely happens today
+ - [https://news.yahoo.com/fact-check-wind-turbine-blades-235853274.html](https://news.yahoo.com/fact-check-wind-turbine-blades-235853274.html)
+ - date published: 2021-12-01T13:49:58+00:00
+ - user: rumpel
+ - tags: ['climate change', 'wind farms']
+
 ## Will We Need COVID-19 Boosters Every 6 Months?
  - [https://www.healthline.com/health-news/are-we-going-to-need-covid-19-boosters-every-6-months-what-experts-think#Will-boosters-become-an-annual-thing?](https://www.healthline.com/health-news/are-we-going-to-need-covid-19-boosters-every-6-months-what-experts-think#Will-boosters-become-an-annual-thing?)
  - date published: 2021-12-01T08:06:38+00:00
@@ -4090,6 +4096,12 @@
  - user: rumpel
  - tags: ['bill gates', 'jeffrey epstein', 'nobel']
 
+## Dyskryminacja mężczyzn i „dyskryminacja” kobiet w Polsce
+ - [https://nieczekam107lat.github.io/](https://nieczekam107lat.github.io/)
+ - date published: 2021-05-17T20:16:02+00:00
+ - user: rumpel
+ - tags: ['feminism', 'poland', 'discrimination', 'sexism']
+
 ## Billy Boy and Jeffrey Epstein Traded Advice on Bill's 'Toxic' Marriage & Jeff's Pedo Image Rehab, During Secretive 'Men's Club' Gatherings
  - [https://humansbefree.com/2021/05/bill-gates-and-jeffrey-epstein-traded-advice-on-bills-toxic-marriage-jeffs-pedo-image-rehab-during-secretive-mens-club-gatherings.html](https://humansbefree.com/2021/05/bill-gates-and-jeffrey-epstein-traded-advice-on-bills-toxic-marriage-jeffs-pedo-image-rehab-during-secretive-mens-club-gatherings.html)
  - date published: 2021-05-17T10:23:41+00:00
@@ -4389,6 +4401,12 @@
  - date published: 2021-04-12T21:45:08+00:00
  - user: rumpel
  - tags: ['nhs', 'tracking', 'google', 'apple', 'covid']
+
+## Boris Johnson is a creeping dictator – we need to stop him in his tracks
+ - [https://metro.co.uk/2021/04/12/boris-johnson-is-a-creeping-dictator-we-need-to-stop-him-14382294/amp/?__twitter_impression=true](https://metro.co.uk/2021/04/12/boris-johnson-is-a-creeping-dictator-we-need-to-stop-him-14382294/amp/?__twitter_impression=true)
+ - date published: 2021-04-12T14:08:39+00:00
+ - user: rumpel
+ - tags: ['vaccine passport', 'digital identity', 'covid']
 
 ## Why is Corporate Virtue in the Eye of the Beholder? The Case of ESG Ratings
  - [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3793804](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3793804)

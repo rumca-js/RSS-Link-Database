@@ -1,3 +1,9 @@
+## Most Powerful in the World - The Bilderberg Group Part 2
+ - [https://www.trivia-library.com/c/most-powerful-in-the-world-the-bilderberg-group-part-2.htm](https://www.trivia-library.com/c/most-powerful-in-the-world-the-bilderberg-group-part-2.htm)
+ - date published: 1975-09-07T06:59:55+00:00
+ - user: rumpel
+ - tags: ['democracy', 'bilderberg meeting', 'polititians', 'billionaires']
+
 ## The Crisis of Democracy - Wikipedia
  - [https://en.wikipedia.org/wiki/The_Crisis_of_Democracy](https://en.wikipedia.org/wiki/The_Crisis_of_Democracy)
  - date published: 1975-09-07T06:53:50+00:00

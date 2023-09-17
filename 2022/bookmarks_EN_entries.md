@@ -4546,6 +4546,12 @@
  - user: None
  - tags: $tags
 
+## How to DISASSEMBLE and REPAIR an LED lamp WITHOUT A SOLDERING IRON Do-it-yourself LED lamp repair
+ - [https://www.youtube.com/watch?v=JBKF7rKB3zc](https://www.youtube.com/watch?v=JBKF7rKB3zc)
+ - date published: 2022-10-09T00:00:00+00:00
+ - user: rumpel
+ - tags: ['planned obsolence', 'ifixit']
+
 ## Elon Musk, Former PayPal Exec Led Backlash Before PayPal Abandoned Plan To Fine Users $2,500 For ‘Misinformation’
  - [https://www.dailywire.com/news/elon-musk-former-paypal-exec-led-backlash-before-paypal-abandoned-alleged-plan-to-fine-users-2500-for-misinformation](https://www.dailywire.com/news/elon-musk-former-paypal-exec-led-backlash-before-paypal-abandoned-alleged-plan-to-fine-users-2500-for-misinformation)
  - date published: 2022-10-08T18:54:46+00:00
@@ -11463,6 +11469,12 @@
  - date published: 2022-01-12T08:19:43.266511+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Poland’s phone spyware scandal raises doubts over 2019 election
+ - [https://techcrunch.com/2022/01/11/poland-nso-pegasus-election/?guccounter=1&guce_referrer=aHR0cHM6Ly9kdWNrZHVja2dvLmNvbS8&guce_referrer_sig=AQAAAKq49IJbpghhJ1BYRvLZm4BVzGYHzXqXpEKtfr4DOB8F629_WzMknNK_KAUCv8tdlnLRzuLhdZeHukMYtaernN8xhgWY23P-PZ8q4KVwbKSbIakkt4UFlJu3-p3q8FP597PyofN-FjVW2oJY7kWG8pMPWwt7hCJmL0_Jkdeer9_X](https://techcrunch.com/2022/01/11/poland-nso-pegasus-election/?guccounter=1&guce_referrer=aHR0cHM6Ly9kdWNrZHVja2dvLmNvbS8&guce_referrer_sig=AQAAAKq49IJbpghhJ1BYRvLZm4BVzGYHzXqXpEKtfr4DOB8F629_WzMknNK_KAUCv8tdlnLRzuLhdZeHukMYtaernN8xhgWY23P-PZ8q4KVwbKSbIakkt4UFlJu3-p3q8FP597PyofN-FjVW2oJY7kWG8pMPWwt7hCJmL0_Jkdeer9_X)
+ - date published: 2022-01-11T18:14:03+00:00
+ - user: rumpel
+ - tags: ['spyware', 'surveillance', 'poland', 'big brother']
 
 ## Who wrote this shit? | Philip Heltweg
  - [https://www.heltweg.org/posts/who-wrote-this-shit/](https://www.heltweg.org/posts/who-wrote-this-shit/)

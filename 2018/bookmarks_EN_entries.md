@@ -196,6 +196,12 @@
  - user: rumpel
  - tags: ['shadowban', 'twitter', 'jack dorsey']
 
+## Can mRNA disrupt the drug industry?
+ - [https://cen.acs.org/business/start-ups/mRNA-disrupt-drug-industry/96/i35](https://cen.acs.org/business/start-ups/mRNA-disrupt-drug-industry/96/i35)
+ - date published: 2018-09-03T21:24:57+00:00
+ - user: rumpel
+ - tags: ['big pharma', 'vaccine', 'covid', 'biontech', 'pfizer', 'mrna']
+
 ## Capitalism, Socialism and Democracy
  - [https://notrelated.xyz/audio/s01/S01E02_-_Capitalism_Socialism_and_Democracy.mp3](https://notrelated.xyz/audio/s01/S01E02_-_Capitalism_Socialism_and_Democracy.mp3)
  - date published: 2018-09-01T04:00:00+00:00

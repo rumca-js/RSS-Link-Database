@@ -1,3 +1,15 @@
+## See every stock trade Nancy Pelosi's husband, Paul Pelosi, made while she was House speaker in 2021 and 2022
+ - [https://www.businessinsider.com/nancy-pelosi-stock-trades-congress-investments-2022-7?IR=T](https://www.businessinsider.com/nancy-pelosi-stock-trades-congress-investments-2022-7?IR=T)
+ - date published: 2023-09-16T21:06:31+00:00
+ - user: rumpel
+ - tags: ['billionaires', 'millionaires', 'elite']
+
+## Bechtel - Wikipedia
+ - [https://en.m.wikipedia.org/wiki/Bechtel](https://en.m.wikipedia.org/wiki/Bechtel)
+ - date published: 2023-09-16T18:36:15+00:00
+ - user: rumpel
+ - tags: ['bechtel', 'billionaires']
+
 ## GitHub - elastic/elasticsearch: Free and Open, Distributed, RESTful Search Engine
  - [https://github.com/elastic/elasticsearch](https://github.com/elastic/elasticsearch)
  - date published: 2023-09-15T11:17:42+00:00
@@ -112,11 +124,23 @@
  - user: rumpel
  - tags: ['billionaires', 'elon musk', 'ukraine']
 
+## New Report Reveals Hollywood PR Firm Bunker 15 Paid For Positive Reviews To Manipulate Rotten Tomatoes Scores Of Bad Movies - Bounding Into Comics
+ - [https://boundingintocomics.com/2023/09/07/new-report-reveals-hollywood-pr-firm-bunker-15-paid-for-positive-reviews-to-manipulate-rotten-tomatoes-scores-of-bad-movies/](https://boundingintocomics.com/2023/09/07/new-report-reveals-hollywood-pr-firm-bunker-15-paid-for-positive-reviews-to-manipulate-rotten-tomatoes-scores-of-bad-movies/)
+ - date published: 2023-09-07T20:32:57+00:00
+ - user: rumpel
+ - tags: ['movies', 'manufacturing consent']
+
 ## Report says PR firm has been paying Rotten Tomatoes critics for positive reviews
  - [https://www.screengeek.net/2023/09/06/rotten-tomatoes-pr-firm-paying-critics-positive-reviews/](https://www.screengeek.net/2023/09/06/rotten-tomatoes-pr-firm-paying-critics-positive-reviews/)
  - date published: 2023-09-07T14:30:50+00:00
  - user: rumpel
  - tags: ['corporatocracy', 'manufacturing consent']
+
+## Legal Lullabies
+ - [https://www.zzzuckerberg.com/](https://www.zzzuckerberg.com/)
+ - date published: 2023-09-07T09:04:54+00:00
+ - user: rumpel
+ - tags: ['terms of service', 'manufacturing consent', 'eula', 'corporatocracy']
 
 ## 5 Best Noam Chomsky Books (2023) - Which Are a Must-Read?
  - [https://www.ereads.com/noam-chomsky/](https://www.ereads.com/noam-chomsky/)
@@ -410,7 +434,7 @@
  - [https://en.wikipedia.org/wiki/Rothschild_family](https://en.wikipedia.org/wiki/Rothschild_family)
  - date published: 2023-08-29T14:22:31+00:00
  - user: rumpel
- - tags: ['rothschild']
+ - tags: ['rothschild', 'billionaires']
 
 ## Nakba - Wikipedia
  - [https://en.wikipedia.org/wiki/Nakba](https://en.wikipedia.org/wiki/Nakba)
@@ -428,7 +452,7 @@
  - [https://en.wikipedia.org/wiki/Edmond_James_de_Rothschild](https://en.wikipedia.org/wiki/Edmond_James_de_Rothschild)
  - date published: 2023-08-29T13:48:13+00:00
  - user: rumpel
- - tags: ['rothschild', 'edmond de rothschild']
+ - tags: ['rothschild', 'billionaires', 'edmond de rothschild']
 
 ## Vampyre Cosmetics Cuts Ties With Alice Cooper After Anti-Trans Comments – Billboard
  - [https://www.billboard.com/music/music-news/alice-cooper-vampyre-cosmetics-collection-trans-comments-1235401594/](https://www.billboard.com/music/music-news/alice-cooper-vampyre-cosmetics-collection-trans-comments-1235401594/)
@@ -1341,6 +1365,12 @@
  - date published: 2023-07-24T16:14:04+00:00
  - user: rumpel
  - tags: ['global warming', 'climate change']
+
+## HN Search powered by Algolia
+ - [https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=techcrunch&sort=byPopularity&type=story](https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=techcrunch&sort=byPopularity&type=story)
+ - date published: 2023-07-24T11:40:01+00:00
+ - user: rumpel
+ - tags: ['hacker news', 'search engines']
 
 ## U.S. Senate bill crafted with DEA targets end-to-end encryption
  - [https://therecord.media/senate-dea-bill-targets-end-to-end-encryption-requires-companies-to-report-drugs](https://therecord.media/senate-dea-bill-targets-end-to-end-encryption-requires-companies-to-report-drugs)
@@ -2818,6 +2848,12 @@
  - user: rumpel
  - tags: ['user interface']
 
+## Microsoft says Clop ransomware gang is behind MOVEit mass-hacks, as first victims come forward
+ - [https://techcrunch.com/2023/06/05/microsoft-clop-moveit-hacks-victims/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAGkaUf4Grbg83VGYAcl5xtMZ0bTAktN4HkPaIAYBnmTZPLezMyFRa07m1uh-fRsRlF6WMVWW3cIBZVstkzINddB7w7VY97aRdFGvhSxUw-3ZOlTLGo2RGsObTCqCnSFZR2Nu5Zd5kdPrcj3W5K40xVGhL_IM66wLdEH8O0in4rSw](https://techcrunch.com/2023/06/05/microsoft-clop-moveit-hacks-victims/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAGkaUf4Grbg83VGYAcl5xtMZ0bTAktN4HkPaIAYBnmTZPLezMyFRa07m1uh-fRsRlF6WMVWW3cIBZVstkzINddB7w7VY97aRdFGvhSxUw-3ZOlTLGo2RGsObTCqCnSFZR2Nu5Zd5kdPrcj3W5K40xVGhL_IM66wLdEH8O0in4rSw)
+ - date published: 2023-06-05T07:35:36+00:00
+ - user: rumpel
+ - tags: ['data leak', 'hackers']
+
 ## University of Cincinnati student alleges professor failed her project for using the term 'biological women'
  - [https://nypost.com/2023/06/05/university-of-cincinnati-student-alleges-professor-failed-her-project-for-using-the-term-biological-women/](https://nypost.com/2023/06/05/university-of-cincinnati-student-alleges-professor-failed-her-project-for-using-the-term-biological-women/)
  - date published: 2023-06-05T05:32:47+00:00
@@ -3921,6 +3957,12 @@
  - date published: 2023-05-03T09:47:15+00:00
  - user: rumpel
  - tags: ['microsoft', 'windows', 'dark design']
+
+## Even Gmail has blue verification checks now
+ - [https://www.engadget.com/even-gmail-has-blue-verification-checks-now-200234105.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAABPBUOhlfJGcPk6_3u-z81M42rhafKZekv7CplC1EPeUC6XU4PoaZGPnIOzrpkU5m9ypA71MrvLmM336WYodL5tQDFadkzZf_G1P5Jl036S_SGTBYh6d-NqyzHb6xEVqIX1SVT2TasHNILLA8r9bNOh9lrOuOMmeYpt-2sJM0lqd](https://www.engadget.com/even-gmail-has-blue-verification-checks-now-200234105.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAABPBUOhlfJGcPk6_3u-z81M42rhafKZekv7CplC1EPeUC6XU4PoaZGPnIOzrpkU5m9ypA71MrvLmM336WYodL5tQDFadkzZf_G1P5Jl036S_SGTBYh6d-NqyzHb6xEVqIX1SVT2TasHNILLA8r9bNOh9lrOuOMmeYpt-2sJM0lqd)
+ - date published: 2023-05-03T08:41:29+00:00
+ - user: rumpel
+ - tags: ['checkmarks']
 
 ## Donald Trump seeks to move New York hush money criminal case to federal court | CNN Politics
  - [https://edition.cnn.com/2023/05/04/politics/trump-bragg-hearing/index.html](https://edition.cnn.com/2023/05/04/politics/trump-bragg-hearing/index.html)
@@ -5260,6 +5302,12 @@
  - user: rumpel
  - tags: ['artificial intelligence']
 
+## US authorities arrest alleged BreachForums owner and FBI hacker Pompompurin
+ - [https://www.engadget.com/us-authorities-arrest-alleged-breachforums-owner-and-fbi-hacker-pompompurin-170009266.html?guccounter=1&guce_referrer=aHR0cHM6Ly9kdWNrZHVja2dvLmNvbS8&guce_referrer_sig=AQAAAC-WWoybE8_i2Qcq4GZWrrtvn5QHHoSRahN-pxl0yHdba0a6Y6FB6Zb4dr1BrgAc1v2Qg92M9Z54IiBY1W8TGG10mp2J8aoPeyVAWhu9C0bRmVCJUpPUrYW1ZlmusEWQVAah-1lOW5_8RqMGz-FWmD356AGTUhavIxT7tViTyIqb](https://www.engadget.com/us-authorities-arrest-alleged-breachforums-owner-and-fbi-hacker-pompompurin-170009266.html?guccounter=1&guce_referrer=aHR0cHM6Ly9kdWNrZHVja2dvLmNvbS8&guce_referrer_sig=AQAAAC-WWoybE8_i2Qcq4GZWrrtvn5QHHoSRahN-pxl0yHdba0a6Y6FB6Zb4dr1BrgAc1v2Qg92M9Z54IiBY1W8TGG10mp2J8aoPeyVAWhu9C0bRmVCJUpPUrYW1ZlmusEWQVAah-1lOW5_8RqMGz-FWmD356AGTUhavIxT7tViTyIqb)
+ - date published: 2023-03-19T12:26:46+00:00
+ - user: rumpel
+ - tags: ['hackers', 'pompompurin', 'breachforums']
+
 ## Docker apologizes for bungled scrapping of free org accounts • The Register
  - [https://www.theregister.com/2023/03/17/docker_free_teams_plan/](https://www.theregister.com/2023/03/17/docker_free_teams_plan/)
  - date published: 2023-03-17T20:27:56+00:00
@@ -5701,6 +5749,12 @@
 ## Google Search Is Dying (2022) | Hacker News
  - [https://news.ycombinator.com/item?id=35039360](https://news.ycombinator.com/item?id=35039360)
  - date published: 2023-03-06T16:23:52+00:00
+ - user: rumpel
+ - tags: ['search engines']
+
+## Kagi Search
+ - [https://kagi.com/](https://kagi.com/)
+ - date published: 2023-03-06T16:07:07+00:00
  - user: rumpel
  - tags: ['search engines']
 
@@ -7269,6 +7323,12 @@
  - date published: 2023-01-17T13:24:59+00:00
  - user: rumpel
  - tags: ['tor', 'surveillance', 'fbi']
+
+## UK privacy watchdog silent as Google flicks off critique that its Topics API fails to reform ad-tracking
+ - [https://techcrunch.com/2023/01/17/privacy-sandbox-topics-api-criticism/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAD1E7GuH3iM8FF4-7_PPr3Hit0acqyN2zCyiPCoWUxweW4mLah6Tw5zWbnVcoB4UtN1tWgHmimrtlwdrDWpLgljZsXjQ7661w-GToymPA6ijA7RtRop-oM_8fXuCxuDz6GRAD4dt5pvB874DhnEsQ8q3kBaEZJ97uBm9tX3XD3dG](https://techcrunch.com/2023/01/17/privacy-sandbox-topics-api-criticism/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAD1E7GuH3iM8FF4-7_PPr3Hit0acqyN2zCyiPCoWUxweW4mLah6Tw5zWbnVcoB4UtN1tWgHmimrtlwdrDWpLgljZsXjQ7661w-GToymPA6ijA7RtRop-oM_8fXuCxuDz6GRAD4dt5pvB874DhnEsQ8q3kBaEZJ97uBm9tX3XD3dG)
+ - date published: 2023-01-17T13:18:18+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'privacy', 'chrome', 'topics api', 'google', 'england']
 
 ## Hackers push malware via Google search ads for VLC, 7-Zip, CCleaner
  - [https://www.bleepingcomputer.com/news/security/hackers-push-malware-via-google-search-ads-for-vlc-7-zip-ccleaner/](https://www.bleepingcomputer.com/news/security/hackers-push-malware-via-google-search-ads-for-vlc-7-zip-ccleaner/)

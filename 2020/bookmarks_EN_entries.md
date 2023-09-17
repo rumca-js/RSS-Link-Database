@@ -406,6 +406,12 @@
  - user: None
  - tags: ['apple', 'mac', 'tracking', 'privacy']
 
+## Social distancing, masks necessary after getting vaccine: Fauci
+ - [https://nypost.com/2020/11/15/social-distancing-masks-necessary-after-getting-vaccine-fauci/amp/?__twitter_impression=true](https://nypost.com/2020/11/15/social-distancing-masks-necessary-after-getting-vaccine-fauci/amp/?__twitter_impression=true)
+ - date published: 2020-11-15T20:12:26+00:00
+ - user: rumpel
+ - tags: ['anthony fauci', 'covid', 'vaccine']
+
 ## New lawsuit: Why do Android phones mysteriously exchange 260MB a month with Google via cellular data when they're not even in use?
  - [https://www.theregister.com/2020/11/14/google_android_data_allowance/](https://www.theregister.com/2020/11/14/google_android_data_allowance/)
  - date published: 2020-11-14T12:04:50+00:00
@@ -1035,6 +1041,12 @@
  - date published: 2020-07-23T08:17:09+00:00
  - user: None
  - tags: ['mccloskey', 'blm', 'black lives matter']
+
+## Poll: 62% of Americans Say They Have Political Views They’re Afraid to Share
+ - [https://www.cato.org/publications/survey-reports/poll-62-americans-say-they-have-political-views-theyre-afraid-share#introduction](https://www.cato.org/publications/survey-reports/poll-62-americans-say-they-have-political-views-theyre-afraid-share#introduction)
+ - date published: 2020-07-22T20:48:33+00:00
+ - user: rumpel
+ - tags: ['politics', 'intolerance', 'usa']
 
 ## A $200 fine for not wearing a mask is fair, as long as free masks go to those in need
  - [https://theconversation.com/a-200-fine-for-not-wearing-a-mask-is-fair-as-long-as-free-masks-go-to-those-in-need-142988](https://theconversation.com/a-200-fine-for-not-wearing-a-mask-is-fair-as-long-as-free-masks-go-to-those-in-need-142988)
