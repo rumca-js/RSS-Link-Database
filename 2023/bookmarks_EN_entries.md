@@ -1,3 +1,15 @@
+## Andy and Bill's law - Wikipedia
+ - [https://en.m.wikipedia.org/wiki/Andy_and_Bill's_law](https://en.m.wikipedia.org/wiki/Andy_and_Bill's_law)
+ - date published: 2023-09-17T06:20:04+00:00
+ - user: rumpel
+ - tags: ['software', 'hardware', 'programming', 'bloatware']
+
+## Americas richest 10% is responsible for 40% of its planet heating pollution
+ - [https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0000190](https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0000190)
+ - date published: 2023-09-17T03:31:10+00:00
+ - user: rumpel
+ - tags: ['billionaires', 'climate change']
+
 ## See every stock trade Nancy Pelosi's husband, Paul Pelosi, made while she was House speaker in 2021 and 2022
  - [https://www.businessinsider.com/nancy-pelosi-stock-trades-congress-investments-2022-7?IR=T](https://www.businessinsider.com/nancy-pelosi-stock-trades-congress-investments-2022-7?IR=T)
  - date published: 2023-09-16T21:06:31+00:00
@@ -9,6 +21,18 @@
  - date published: 2023-09-16T18:36:15+00:00
  - user: rumpel
  - tags: ['bechtel', 'billionaires']
+
+## Dutch political commentator Eva Vlaardingerbroek speaks out on the WEF's plan to impose a personal carbon allowance
+ - [https://twitter.com/WallStreetSilv/status/1702806616511242745](https://twitter.com/WallStreetSilv/status/1702806616511242745)
+ - date published: 2023-09-16T10:35:53+00:00
+ - user: rumpel
+ - tags: ['weg', 'world economic forum', 'carbon limita', 'climate change']
+
+## Developers fight back against Unity’s new pricing model
+ - [https://www.theverge.com/2023/9/15/23875396/unity-mobile-developers-ad-monetization-tos-changes](https://www.theverge.com/2023/9/15/23875396/unity-mobile-developers-ad-monetization-tos-changes)
+ - date published: 2023-09-15T21:29:51+00:00
+ - user: rumpel
+ - tags: ['unity', 'ad business']
 
 ## GitHub - elastic/elasticsearch: Free and Open, Distributed, RESTful Search Engine
  - [https://github.com/elastic/elasticsearch](https://github.com/elastic/elasticsearch)
@@ -81,6 +105,12 @@
  - date published: 2023-09-11T16:02:15+00:00
  - user: rumpel
  - tags: ['shadowban', 'censorship']
+
+## Bill Gates: The #G20 reached a groundbreaking consensus on the role of digital public infrastructure
+ - [https://twitter.com/BillGates/status/1701318146878218667](https://twitter.com/BillGates/status/1701318146878218667)
+ - date published: 2023-09-11T10:42:56+00:00
+ - user: rumpel
+ - tags: ['digital public infrastructure', 'digital identity']
 
 ## Google Chrome just rolled out a new way to track you and serve ads
  - [https://theconversation.com/google-chrome-just-rolled-out-a-new-way-to-track-you-and-serve-ads-heres-what-you-need-to-know-213150](https://theconversation.com/google-chrome-just-rolled-out-a-new-way-to-track-you-and-serve-ads-heres-what-you-need-to-know-213150)

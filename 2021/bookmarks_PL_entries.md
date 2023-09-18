@@ -244,6 +244,12 @@
  - user: rumpel
  - tags: ['media', 'covid', 'fearmongering']
 
+## Mastercard udostępnia kalkulator śladu węglowego – Lendtech – BNPL | Fintech | Digital lending | E-commerce
+ - [https://www.lendtech.pl/wiadomosci/mastercard-udostepnia-kalkulator-sladu-weglowego/](https://www.lendtech.pl/wiadomosci/mastercard-udostepnia-kalkulator-sladu-weglowego/)
+ - date published: 2021-04-14T10:38:26+00:00
+ - user: rumpel
+ - tags: ['mastercard', 'carbon limita', 'climate change']
+
 ## Zaszczepieni preparatami mRNA bardziej podatni na inne warianty wirusa? Badania z Izraela niepokoją. Za wcześnie na picie szampana
  - [https://wpolityce.pl/spoleczenstwo/546883-badania-z-izraela-niepokoja-za-wczesnie-na-picie-szampana](https://wpolityce.pl/spoleczenstwo/546883-badania-z-izraela-niepokoja-za-wczesnie-na-picie-szampana)
  - date published: 2021-04-13T14:07:37+00:00

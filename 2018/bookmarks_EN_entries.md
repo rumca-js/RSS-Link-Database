@@ -550,6 +550,12 @@
  - user: rumpel
  - tags: ['corporatocracy', 'surveillance', 'privacy', 'facebook']
 
+## Maciej Ceglowski - The Website Obesity Crisis [Web Directions 2015 Keynote]
+ - [https://www.youtube.com/watch?v=iYpl0QVCr6U](https://www.youtube.com/watch?v=iYpl0QVCr6U)
+ - date published: 2018-03-23T00:00:00+00:00
+ - user: rumpel
+ - tags: ['bloatware', 'maciej cegłowski', 'internet']
+
 ## Why have we given up our privacy to Facebook and other sites so willingly?
  - [https://www.theguardian.com/uk-news/2018/mar/21/why-have-we-given-up-our-privacy-to-facebook-and-other-sites-so-willingly](https://www.theguardian.com/uk-news/2018/mar/21/why-have-we-given-up-our-privacy-to-facebook-and-other-sites-so-willingly)
  - date published: 2018-03-21T17:43:48+00:00

@@ -1,3 +1,9 @@
+## Polskie finanse zagrożone. Fundujemy sobie wysoki deficyt budżetowy i skokowy wzrost długu
+ - [https://biznes.interia.pl/gospodarka/news-polski-dlug-gwaltownie-rosnie-wkrotce-moze-przekroczyc-pozio,nId,7027813](https://biznes.interia.pl/gospodarka/news-polski-dlug-gwaltownie-rosnie-wkrotce-moze-przekroczyc-pozio,nId,7027813)
+ - date published: 2023-09-17T11:36:34+00:00
+ - user: rumpel
+ - tags: ['public debt']
+
 ## NIK ujawnia: w czasie pandemii rząd narażał życie i zdrowie Polaków
  - [https://wiadomosci.onet.pl/tylko-w-onecie/nik-ujawnia-w-czasie-pandemii-rzad-narazal-zycie-i-zdrowie-polakow/9jf5pte?utm_source=wykop.pl_viasg_wiadomosci&utm_medium=referal&utm_campaign=leo_automatic&srcc=undefined](https://wiadomosci.onet.pl/tylko-w-onecie/nik-ujawnia-w-czasie-pandemii-rzad-narazal-zycie-i-zdrowie-polakow/9jf5pte?utm_source=wykop.pl_viasg_wiadomosci&utm_medium=referal&utm_campaign=leo_automatic&srcc=undefined)
  - date published: 2023-09-11T06:39:33+00:00

@@ -10436,7 +10436,7 @@
  - [https://www.youtube.com/watch?v=eu8O2Suxo9A](https://www.youtube.com/watch?v=eu8O2Suxo9A)
  - date published: 2022-02-25T20:34:12+00:00
  - user: None
- - tags: ['programming', 'internet']
+ - tags: ['programming', 'internet', 'bloatware']
 
 ## Ukraine war flashes neon warning lights for chips | Reuters
  - [https://www.reuters.com/breakingviews/ukraine-war-flashes-neon-warning-lights-chips-2022-02-24/](https://www.reuters.com/breakingviews/ukraine-war-flashes-neon-warning-lights-chips-2022-02-24/)

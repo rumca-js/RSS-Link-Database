@@ -44,7 +44,7 @@
  - [https://idlewords.com/talks/website_obesity.htm](https://idlewords.com/talks/website_obesity.htm)
  - date published: 2015-10-09T15:10:49+00:00
  - user: rumpel
- - tags: ['internet', 'webdev']
+ - tags: ['webdev', 'internet', 'bloatware']
 
 ## Pinball Dreams (PC/DOS) 1992, 21th Century Entertainment, Spidersoft
  - [https://www.youtube.com/watch?v=MSaohyJ_E2w](https://www.youtube.com/watch?v=MSaohyJ_E2w)
