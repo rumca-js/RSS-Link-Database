@@ -2704,6 +2704,12 @@
  - user: rumpel
  - tags: ['digital euro', 'cbdc']
 
+## Unity and ironSource's $4.4B merger is now complete
+ - [https://techcrunch.com/2022/11/07/unity-and-ironsources-4-4b-merger-is-now-complete/](https://techcrunch.com/2022/11/07/unity-and-ironsources-4-4b-merger-is-now-complete/)
+ - date published: 2022-11-07T09:15:16+00:00
+ - user: rumpel
+ - tags: ['unity']
+
 ## Why scientists are using the word scary over the climate crisis
  - [https://www.theguardian.com/environment/2022/nov/07/why-scientists-are-using-the-word-scary-over-the-climate-crisis](https://www.theguardian.com/environment/2022/nov/07/why-scientists-are-using-the-word-scary-over-the-climate-crisis)
  - date published: 2022-11-07T08:30:02+00:00

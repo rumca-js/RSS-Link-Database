@@ -22,3 +22,9 @@
  - user: rumpel
  - tags: ['robert maxwell', 'jeffrey epstein', 'espionage']
 
+## Why did intelligence backdoors get into IBM groupware?
+ - [https://gigazine.net/gsc_news/en/20191223-lotus-notes-nsa-backdoor/](https://gigazine.net/gsc_news/en/20191223-lotus-notes-nsa-backdoor/)
+ - date published: 2002-05-18T13:10:31+00:00
+ - user: rumpel
+ - tags: ['privacy', 'surveillance', 'encryption', 'crypto wars']
+

@@ -22,12 +22,6 @@
  - user: rumpel
  - tags: ['bechtel', 'billionaires']
 
-## Dutch political commentator Eva Vlaardingerbroek speaks out on the WEF's plan to impose a personal carbon allowance
- - [https://twitter.com/WallStreetSilv/status/1702806616511242745](https://twitter.com/WallStreetSilv/status/1702806616511242745)
- - date published: 2023-09-16T10:35:53+00:00
- - user: rumpel
- - tags: ['weg', 'world economic forum', 'carbon limita', 'climate change']
-
 ## Developers fight back against Unity’s new pricing model
  - [https://www.theverge.com/2023/9/15/23875396/unity-mobile-developers-ad-monetization-tos-changes](https://www.theverge.com/2023/9/15/23875396/unity-mobile-developers-ad-monetization-tos-changes)
  - date published: 2023-09-15T21:29:51+00:00
@@ -64,6 +58,12 @@
  - user: rumpel
  - tags: ['selfhost', 'search engine']
 
+## "Alphabet Mafia" - Candace Owens Destroys LGBTQ Hypocrisy
+ - [https://www.youtube.com/watch?v=V5woypekyQk](https://www.youtube.com/watch?v=V5woypekyQk)
+ - date published: 2023-09-15T00:00:00+00:00
+ - user: rumpel
+ - tags: ['lgbt', 'the left wing']
+
 ## How mobile apps illegally share your personal data
  - [https://noyb.eu/en/how-mobile-apps-illegally-share-your-personal-data](https://noyb.eu/en/how-mobile-apps-illegally-share-your-personal-data)
  - date published: 2023-09-14T08:32:31+00:00
@@ -87,6 +87,12 @@
  - date published: 2023-09-12T13:53:29+00:00
  - user: rumpel
  - tags: ['wuhan', 'science is dead', 'covid', 'lableak']
+
+## Unapologetic California mayor goes viral after being spanked with paddle by drag queen
+ - [https://nypost.com/2023/09/12/burbank-mayor-konstantine-anthony-spanked-by-drag-queen/](https://nypost.com/2023/09/12/burbank-mayor-konstantine-anthony-spanked-by-drag-queen/)
+ - date published: 2023-09-12T11:43:52+00:00
+ - user: rumpel
+ - tags: ['drag queen', 'the left wing']
 
 ## World Bank spent billions of dollars backing fossil fuels in 2022, study finds
  - [https://www.theguardian.com/environment/2023/sep/12/world-bank-spent-billions-of-dollars-backing-fossil-fuels-in-2022-study-finds](https://www.theguardian.com/environment/2023/sep/12/world-bank-spent-billions-of-dollars-backing-fossil-fuels-in-2022-study-finds)
@@ -501,6 +507,12 @@
  - date published: 2023-08-29T01:36:28.190690+00:00
  - user: rumpel
  - tags: ['hawaii']
+
+## Canada's woke nightmare: A warning to the West | Documentary
+ - [https://www.youtube.com/watch?v=Qt2AuVQKpq0](https://www.youtube.com/watch?v=Qt2AuVQKpq0)
+ - date published: 2023-08-29T00:00:00+00:00
+ - user: rumpel
+ - tags: ['woke', 'the left wing', 'canada']
 
 ## Terms Every Linux User Needs To Know
  - [https://www.youtube.com/watch?v=NujVOhdBhAU](https://www.youtube.com/watch?v=NujVOhdBhAU)
@@ -1240,6 +1252,12 @@
  - user: rumpel
  - tags: ['brasil', 'cbdc']
 
+## 'My Childhood Was RUINED:' Detransitioner Chloe Cole Talks About Trans Procedures
+ - [https://www.youtube.com/watch?v=DSGgR3W_jjg](https://www.youtube.com/watch?v=DSGgR3W_jjg)
+ - date published: 2023-07-27T00:00:00+00:00
+ - user: rumpel
+ - tags: ['transgender']
+
 ## Kids Online Safety Act is still a danger to our rights online
  - [https://www.eff.org/deeplinks/2023/05/kids-online-safety-act-still-huge-danger-our-rights-online](https://www.eff.org/deeplinks/2023/05/kids-online-safety-act-still-huge-danger-our-rights-online)
  - date published: 2023-07-26T21:07:07+00:00
@@ -1623,6 +1641,12 @@
  - date published: 2023-07-17T15:00:30+00:00
  - user: rumpel
  - tags: ['global warming', 'billionaires', 'climate change']
+
+## Non-Binary Biden Official Was Traveling on Taxpayer Dime to Secure Nuclear Facility When Luggage Heist Occurred | National Review
+ - [https://www.nationalreview.com/news/non-binary-biden-official-was-traveling-on-taxpayer-dime-to-secure-nuclear-facility-when-luggage-heist-occurred/](https://www.nationalreview.com/news/non-binary-biden-official-was-traveling-on-taxpayer-dime-to-secure-nuclear-facility-when-luggage-heist-occurred/)
+ - date published: 2023-07-17T11:37:46+00:00
+ - user: rumpel
+ - tags: ['sam brinton', 'lgbt', 'the left wing']
 
 ## GitHub - tubearchivist/tubearchivist: Your self hosted YouTube media server
  - [https://github.com/tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist)

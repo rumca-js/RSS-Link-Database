@@ -1378,6 +1378,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## CNN lied about Joe Rogan and ivermectin. It regrets nothing
+ - [https://www.washingtonexaminer.com/opinion/cnn-lied-about-joe-rogan-and-ivermectin-it-regrets-nothing](https://www.washingtonexaminer.com/opinion/cnn-lied-about-joe-rogan-and-ivermectin-it-regrets-nothing)
+ - date published: 2021-10-22T11:32:51+00:00
+ - user: rumpel
+ - tags: ['covid', 'joe rogan', 'ivermectin', 'propaganda']
+
 ## Willingness to look stupid
  - [https://danluu.com/look-stupid/](https://danluu.com/look-stupid/)
  - date published: 2021-10-22T09:55:36+00:00

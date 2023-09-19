@@ -1588,6 +1588,12 @@
  - user: rumpel
  - tags: ['nso group ltd', 'big brother', 'surveillance', 'pandemics', 'israel']
 
+## DeSmog - InfluenceWatch
+ - [https://www.influencewatch.org/organization/desmog/](https://www.influencewatch.org/organization/desmog/)
+ - date published: 2020-03-17T08:03:37+00:00
+ - user: rumpel
+ - tags: ['desmog', 'climate change']
+
 ## Did Video Show Italian Army Trucks Transporting Coffins Amid COVID-19 Pandemic? | Snopes.com
  - [https://www.snopes.com/fact-check/italy-army-coffins-coronavirus/](https://www.snopes.com/fact-check/italy-army-coffins-coronavirus/)
  - date published: 2020-03-16T08:13:33+00:00

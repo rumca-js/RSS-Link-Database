@@ -130,6 +130,12 @@
  - user: rumpel
  - tags: ['depopulation', 'pollution', 'atrazine']
 
+## Part 11: 'Climategate' was PR disaster that could bring healthy reform of peer review
+ - [https://www.theguardian.com/environment/2010/feb/09/climate-emails-pr-disaster-peer-review](https://www.theguardian.com/environment/2010/feb/09/climate-emails-pr-disaster-peer-review)
+ - date published: 2010-02-09T08:02:04+00:00
+ - user: rumpel
+ - tags: ['climate change', 'science is dead', 'climate gate']
+
 ## Face masks to prevent transmission of influenza virus: a systematic review | Epidemiology & Infection | Cambridge Core
  - [https://www.cambridge.org/core/journals/epidemiology-and-infection/article/face-masks-to-prevent-transmission-of-influenza-virus-a-systematic-review/64D368496EBDE0AFCC6639CCC9D8BC05](https://www.cambridge.org/core/journals/epidemiology-and-infection/article/face-masks-to-prevent-transmission-of-influenza-virus-a-systematic-review/64D368496EBDE0AFCC6639CCC9D8BC05)
  - date published: 2010-01-22T15:33:49+00:00
