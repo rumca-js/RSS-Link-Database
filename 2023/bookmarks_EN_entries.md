@@ -1,3 +1,39 @@
+## The UK passes massive online safety bill
+ - [https://www.theverge.com/2023/9/19/23880919/uk-passes-massive-online-safety-bill](https://www.theverge.com/2023/9/19/23880919/uk-passes-massive-online-safety-bill)
+ - date published: 2023-09-19T19:30:16+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'privacy', 'anonymity', 'online safety bill']
+
+## YouTube suspends Russell Brand’s revenues from his channel
+ - [https://www.theguardian.com/culture/2023/sep/19/youtube-suspends-russell-brand-revenues-channel](https://www.theguardian.com/culture/2023/sep/19/youtube-suspends-russell-brand-revenues-channel)
+ - date published: 2023-09-19T07:31:46+00:00
+ - user: rumpel
+ - tags: ['youtube', 'censorship', 'deplatform', 'russel brand']
+
+## Your WiFi Can See You
+ - [https://mrereports.substack.com/p/your-wifi-can-see-you](https://mrereports.substack.com/p/your-wifi-can-see-you)
+ - date published: 2023-09-19T02:24:13+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'privacy']
+
+## U.S. National Debt Tops $33T for First Time
+ - [https://www.nytimes.com/2023/09/18/us/politics/us-national-debt.html](https://www.nytimes.com/2023/09/18/us/politics/us-national-debt.html)
+ - date published: 2023-09-18T23:06:40+00:00
+ - user: rumpel
+ - tags: ['national debt']
+
+## In Colmar, fish found dead after an action of Extinction Rebellion
+ - [https://newsrnd.com/news/2023-09-18-in-colmar--fish-found-dead-after-an-action-of-extinction-rebellion.B1N289oBk6.html](https://newsrnd.com/news/2023-09-18-in-colmar--fish-found-dead-after-an-action-of-extinction-rebellion.B1N289oBk6.html)
+ - date published: 2023-09-18T13:05:04+00:00
+ - user: rumpel
+ - tags: ['activism', 'climate change']
+
+## Berlin's Brandenburg Gate spray-painted by climate activists
+ - [https://www.reuters.com/world/europe/berlins-brandenburg-gate-spray-painted-by-climate-activists-2023-09-17/](https://www.reuters.com/world/europe/berlins-brandenburg-gate-spray-painted-by-climate-activists-2023-09-17/)
+ - date published: 2023-09-17T13:06:15+00:00
+ - user: rumpel
+ - tags: ['activism', 'climate change']
+
 ## Andy and Bill's law - Wikipedia
  - [https://en.m.wikipedia.org/wiki/Andy_and_Bill's_law](https://en.m.wikipedia.org/wiki/Andy_and_Bill's_law)
  - date published: 2023-09-17T06:20:04+00:00
@@ -57,6 +93,12 @@
  - date published: 2023-09-15T10:28:33+00:00
  - user: rumpel
  - tags: ['selfhost', 'search engine']
+
+## Social media firms ‘not ready to tackle misinformation’ during global elections
+ - [https://www.theguardian.com/media/2023/sep/15/social-media-firms-not-ready-to-tackle-misinformation-during-global-elections](https://www.theguardian.com/media/2023/sep/15/social-media-firms-not-ready-to-tackle-misinformation-during-global-elections)
+ - date published: 2023-09-15T05:00:53+00:00
+ - user: rumpel
+ - tags: ['misinformation', 'social media', 'moderation']
 
 ## "Alphabet Mafia" - Candace Owens Destroys LGBTQ Hypocrisy
  - [https://www.youtube.com/watch?v=V5woypekyQk](https://www.youtube.com/watch?v=V5woypekyQk)

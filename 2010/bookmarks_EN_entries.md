@@ -106,6 +106,12 @@
  - user: rumpel
  - tags: ['surveillance', 'facebook', 'dark design', 'tracking', 'technofeudalism', 'privacy', 'big tech']
 
+## We Have Met the Enemy and He Is PowerPoint (Published 2010)
+ - [https://www.nytimes.com/2010/04/27/world/27powerpoint.html](https://www.nytimes.com/2010/04/27/world/27powerpoint.html)
+ - date published: 2010-04-26T12:52:23+00:00
+ - user: rumpel
+ - tags: ['funny', 'powerpoint']
+
 ## 'Toxic stew' of chemicals causing male fish to carry eggs in testes | Pollution | The Guardian
  - [https://www.theguardian.com/environment/2010/apr/21/toxic-stew-chemicals-fish-eggs](https://www.theguardian.com/environment/2010/apr/21/toxic-stew-chemicals-fish-eggs)
  - date published: 2010-04-21T11:20:54+00:00
