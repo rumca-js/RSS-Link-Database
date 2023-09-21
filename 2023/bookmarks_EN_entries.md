@@ -1,3 +1,15 @@
+## Car showed pop-up while driving
+ - [https://glitterkitten.co.uk/@ellavescent/111091652921668380](https://glitterkitten.co.uk/@ellavescent/111091652921668380)
+ - date published: 2023-09-20T18:00:48+00:00
+ - user: rumpel
+ - tags: ['ad business', 'technofeudalism']
+
+## Elon Musk’s Neuralink approved to recruit humans for brain-implant trial
+ - [https://www.theguardian.com/technology/2023/sep/19/elon-musk-neuralink-human-trials-brain-implant](https://www.theguardian.com/technology/2023/sep/19/elon-musk-neuralink-human-trials-brain-implant)
+ - date published: 2023-09-20T01:03:19+00:00
+ - user: rumpel
+ - tags: ['neuralink']
+
 ## The UK passes massive online safety bill
  - [https://www.theverge.com/2023/9/19/23880919/uk-passes-massive-online-safety-bill](https://www.theverge.com/2023/9/19/23880919/uk-passes-massive-online-safety-bill)
  - date published: 2023-09-19T19:30:16+00:00
