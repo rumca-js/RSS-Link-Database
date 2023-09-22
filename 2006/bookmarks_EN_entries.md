@@ -22,6 +22,12 @@
  - user: rumpel
  - tags: ['acpi', 'linus torvalds', 'intel', 'hardware']
 
+## Videos of stick figure fighting - Xiao Xiao 3
+ - [https://www.youtube.com/watch?v=hw4wzwYeZ0Y](https://www.youtube.com/watch?v=hw4wzwYeZ0Y)
+ - date published: 2006-08-15T00:00:00+00:00
+ - user: rumpel
+ - tags: ['nostalgia', 'flash']
+
 ## FBI taps cell phone mic as eavesdropping tool (2006)
  - [https://www.cnet.com/news/privacy/fbi-taps-cell-phone-mic-as-eavesdropping-tool/](https://www.cnet.com/news/privacy/fbi-taps-cell-phone-mic-as-eavesdropping-tool/)
  - date published: 2006-07-11T18:19:16+00:00

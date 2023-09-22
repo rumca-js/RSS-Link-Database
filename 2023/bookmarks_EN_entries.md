@@ -1,8 +1,32 @@
+## Organic Maps: An Open-Source Maps App That Doesn't Suck
+ - [https://hardfault.life/p/organic-maps-review](https://hardfault.life/p/organic-maps-review)
+ - date published: 2023-09-21T02:54:09+00:00
+ - user: rumpel
+ - tags: ['maps', 'selfhost']
+
+## The UK Parliament Undermined the Privacy, Security, and Freedom of All Internet
+ - [https://www.eff.org/deeplinks/2023/09/today-uk-parliament-undermined-privacy-security-and-freedom-all-internet-users](https://www.eff.org/deeplinks/2023/09/today-uk-parliament-undermined-privacy-security-and-freedom-all-internet-users)
+ - date published: 2023-09-21T02:51:08+00:00
+ - user: rumpel
+ - tags: ['crypto wars', 'privacy', 'online safety bill', 'surveillance']
+
 ## Car showed pop-up while driving
  - [https://glitterkitten.co.uk/@ellavescent/111091652921668380](https://glitterkitten.co.uk/@ellavescent/111091652921668380)
  - date published: 2023-09-20T18:00:48+00:00
  - user: rumpel
  - tags: ['ad business', 'technofeudalism']
+
+## Elon Musk wants me to pay to use troll-filled X? That'll be the nail in Twitter's coffin.
+ - [https://eu.usatoday.com/story/opinion/columnist/2023/09/20/elon-musk-charge-x-twitter-users-monthly-fee/70905407007/](https://eu.usatoday.com/story/opinion/columnist/2023/09/20/elon-musk-charge-x-twitter-users-monthly-fee/70905407007/)
+ - date published: 2023-09-20T14:02:53+00:00
+ - user: rumpel
+ - tags: ['twitter', 'elon musk']
+
+## Księża zorganizowali imprezę z męską prostytutką. Interweniowało pogotowie, a potem policja
+ - [https://sosnowiec.wyborcza.pl/sosnowiec/7,93867,30208685,ksieza-zorganizowali-impreze-z-meska-prostytutka-interweniowalo.html](https://sosnowiec.wyborcza.pl/sosnowiec/7,93867,30208685,ksieza-zorganizowali-impreze-z-meska-prostytutka-interweniowalo.html)
+ - date published: 2023-09-20T05:18:35+00:00
+ - user: rumpel
+ - tags: ['poland', 'church scandal']
 
 ## Elon Musk’s Neuralink approved to recruit humans for brain-implant trial
  - [https://www.theguardian.com/technology/2023/sep/19/elon-musk-neuralink-human-trials-brain-implant](https://www.theguardian.com/technology/2023/sep/19/elon-musk-neuralink-human-trials-brain-implant)
@@ -21,6 +45,12 @@
  - date published: 2023-09-19T07:31:46+00:00
  - user: rumpel
  - tags: ['youtube', 'censorship', 'deplatform', 'russel brand']
+
+## Online child safety law blocked after Calif. argued face scans not that invasive
+ - [https://arstechnica.com/tech-policy/2023/09/online-child-safety-law-blocked-after-calif-argued-face-scans-not-that-invasive/](https://arstechnica.com/tech-policy/2023/09/online-child-safety-law-blocked-after-calif-argued-face-scans-not-that-invasive/)
+ - date published: 2023-09-19T06:50:59+00:00
+ - user: rumpel
+ - tags: ['biometrics', 'facial recognition', 'surveillance']
 
 ## Your WiFi Can See You
  - [https://mrereports.substack.com/p/your-wifi-can-see-you](https://mrereports.substack.com/p/your-wifi-can-see-you)
@@ -1251,6 +1281,12 @@
  - date published: 2023-07-28T18:53:33+00:00
  - user: rumpel
  - tags: ['fearmongering']
+
+## Flash Museum – explore more than 130k flash games and animations
+ - [https://flashmuseum.org/](https://flashmuseum.org/)
+ - date published: 2023-07-28T15:25:59+00:00
+ - user: rumpel
+ - tags: ['flash', 'web10', 'internet']
 
 ## Carrier ablaze off Dutch coast carrying almost 500 electric cars | Reuters
  - [https://www.reuters.com/world/europe/carrier-ablaze-off-dutch-coast-carrying-almost-500-electric-cars-2023-07-28/](https://www.reuters.com/world/europe/carrier-ablaze-off-dutch-coast-carrying-almost-500-electric-cars-2023-07-28/)
