@@ -1,3 +1,15 @@
+## The Age of the Grift Shift
+ - [https://tante.cc/2023/09/21/the-age-of-the-grift-shift/](https://tante.cc/2023/09/21/the-age-of-the-grift-shift/)
+ - date published: 2023-09-22T10:25:46+00:00
+ - user: rumpel
+ - tags: ['content creation']
+
+## New York City has taken in 95K migrants this YEAR - which is more than TWICE as many as LA, Miami, Houston since MAY
+ - [https://www.dailymail.co.uk/news/article-12547983/New-York-City-migrants-crisis-LA-Miami-Houston.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12547983/New-York-City-migrants-crisis-LA-Miami-Houston.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - date published: 2023-09-22T06:10:28+00:00
+ - user: rumpel
+ - tags: ['immigration']
+
 ## Organic Maps: An Open-Source Maps App That Doesn't Suck
  - [https://hardfault.life/p/organic-maps-review](https://hardfault.life/p/organic-maps-review)
  - date published: 2023-09-21T02:54:09+00:00
@@ -39,12 +51,6 @@
  - date published: 2023-09-19T19:30:16+00:00
  - user: rumpel
  - tags: ['surveillance', 'privacy', 'anonymity', 'online safety bill']
-
-## YouTube suspends Russell Brand’s revenues from his channel
- - [https://www.theguardian.com/culture/2023/sep/19/youtube-suspends-russell-brand-revenues-channel](https://www.theguardian.com/culture/2023/sep/19/youtube-suspends-russell-brand-revenues-channel)
- - date published: 2023-09-19T07:31:46+00:00
- - user: rumpel
- - tags: ['youtube', 'censorship', 'deplatform', 'russel brand']
 
 ## Online child safety law blocked after Calif. argued face scans not that invasive
  - [https://arstechnica.com/tech-policy/2023/09/online-child-safety-law-blocked-after-calif-argued-face-scans-not-that-invasive/](https://arstechnica.com/tech-policy/2023/09/online-child-safety-law-blocked-after-calif-argued-face-scans-not-that-invasive/)
