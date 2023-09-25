@@ -1,3 +1,9 @@
+## Why Canada is Collapsing: The Woke Nightmare
+ - [https://www.youtube.com/watch?v=tgbvGjPt-iI](https://www.youtube.com/watch?v=tgbvGjPt-iI)
+ - date published: 2023-09-24T11:35:21+00:00
+ - user: rumpel
+ - tags: ['politics', 'the right wing', 'the left wing']
+
 ## The Age of the Grift Shift
  - [https://tante.cc/2023/09/21/the-age-of-the-grift-shift/](https://tante.cc/2023/09/21/the-age-of-the-grift-shift/)
  - date published: 2023-09-22T10:25:46+00:00
