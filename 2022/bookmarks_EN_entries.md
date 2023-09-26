@@ -6982,6 +6982,12 @@
  - user: None
  - tags: ['conspiracy theory', 'big brother', 'zbigniew brzezinski', 'corporatocracy', 'technofeudalism']
 
+## ShadowGate – A Banned Documentary Source
+ - [https://www.brighteon.com/fde592b6-4efd-415a-8268-f29bf288ac65](https://www.brighteon.com/fde592b6-4efd-415a-8268-f29bf288ac65)
+ - date published: 2022-08-24T12:50:07.629142+00:00
+ - user: None
+ - tags: $tags
+
 ## ShadowGate – A Banned Documentary Covering The Deep State Coup
  - [https://libertariannews.org/2020/08/15/shadowgate-a-banned-documentary-covering-the-deep-state-coup/](https://libertariannews.org/2020/08/15/shadowgate-a-banned-documentary-covering-the-deep-state-coup/)
  - date published: 2022-08-24T12:49:08.064296+00:00

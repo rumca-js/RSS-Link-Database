@@ -1,8 +1,26 @@
+## Microsoft is seeking a nuclear power manager as AI consumes too much energy
+ - [https://www.neowin.net/news/microsoft-is-seeking-a-nuclear-power-manager-as-ai-consumes-too-much-energy/](https://www.neowin.net/news/microsoft-is-seeking-a-nuclear-power-manager-as-ai-consumes-too-much-energy/)
+ - date published: 2023-09-25T19:26:01+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
+
+## Volkswagen cuts jobs as demand for EVs plunges
+ - [https://fortune.com/2023/09/14/vw-cutting-jobs-german-ev-factory-because-demand-plunging-china-tesla/](https://fortune.com/2023/09/14/vw-cutting-jobs-german-ev-factory-because-demand-plunging-china-tesla/)
+ - date published: 2023-09-24T22:19:24+00:00
+ - user: rumpel
+ - tags: ['electric vehicles']
+
 ## Why Canada is Collapsing: The Woke Nightmare
  - [https://www.youtube.com/watch?v=tgbvGjPt-iI](https://www.youtube.com/watch?v=tgbvGjPt-iI)
  - date published: 2023-09-24T11:35:21+00:00
  - user: rumpel
  - tags: ['politics', 'the right wing', 'the left wing']
+
+## Philips Hue will force users to upload their data to Hue cloud
+ - [https://www.home-assistant.io/blog/2023/09/22/philips-hue-force-users-upload-data-to-cloud/](https://www.home-assistant.io/blog/2023/09/22/philips-hue-force-users-upload-data-to-cloud/)
+ - date published: 2023-09-22T18:04:53+00:00
+ - user: rumpel
+ - tags: ['smart home', 'privacy', 'technofeudalism']
 
 ## The Age of the Grift Shift
  - [https://tante.cc/2023/09/21/the-age-of-the-grift-shift/](https://tante.cc/2023/09/21/the-age-of-the-grift-shift/)
