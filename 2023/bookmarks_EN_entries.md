@@ -1,8 +1,20 @@
+## Investigation: 78% of carbon offset projects globally are “likely junk“
+ - [https://www.power-technology.com/news/report-majority-carbon-offsets-junk-or-useless/](https://www.power-technology.com/news/report-majority-carbon-offsets-junk-or-useless/)
+ - date published: 2023-09-26T14:50:35+00:00
+ - user: rumpel
+ - tags: ['climate change']
+
 ## Microsoft is seeking a nuclear power manager as AI consumes too much energy
  - [https://www.neowin.net/news/microsoft-is-seeking-a-nuclear-power-manager-as-ai-consumes-too-much-energy/](https://www.neowin.net/news/microsoft-is-seeking-a-nuclear-power-manager-as-ai-consumes-too-much-energy/)
  - date published: 2023-09-25T19:26:01+00:00
  - user: rumpel
  - tags: ['artificial intelligence']
+
+## Long Covid impact ‘exaggerated with major flaws in claims’
+ - [https://www.telegraph.co.uk/news/2023/09/25/covid-coronavirus-nhs-pandemic-long-lockdown/](https://www.telegraph.co.uk/news/2023/09/25/covid-coronavirus-nhs-pandemic-long-lockdown/)
+ - date published: 2023-09-25T13:42:23+00:00
+ - user: rumpel
+ - tags: ['science is dead', 'covid', 'long covid']
 
 ## Volkswagen cuts jobs as demand for EVs plunges
  - [https://fortune.com/2023/09/14/vw-cutting-jobs-german-ev-factory-because-demand-plunging-china-tesla/](https://fortune.com/2023/09/14/vw-cutting-jobs-german-ev-factory-because-demand-plunging-china-tesla/)
@@ -1768,6 +1780,12 @@
  - user: rumpel
  - tags: ['sam brinton', 'lgbt', 'the left wing']
 
+## This AI Watches Millions Of Cars Daily And Tells Cops If You’re Driving Like A Criminal
+ - [https://www.forbes.com/sites/thomasbrewster/2023/07/17/license-plate-reader-ai-criminal/](https://www.forbes.com/sites/thomasbrewster/2023/07/17/license-plate-reader-ai-criminal/)
+ - date published: 2023-07-17T10:30:00+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'electric vehicles', 'artificial intelligence', 'privacy']
+
 ## GitHub - tubearchivist/tubearchivist: Your self hosted YouTube media server
  - [https://github.com/tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist)
  - date published: 2023-07-16T19:42:57+00:00
@@ -2295,6 +2313,12 @@
  - date published: 2023-06-29T11:27:54+00:00
  - user: rumpel
  - tags: ['climate change', 'solar panels']
+
+## Police Are Requesting Self-Driving Car Footage for Video Evidence
+ - [https://www.bloomberg.com/news/articles/2023-06-29/self-driving-car-video-from-waymo-cruise-give-police-crime-evidence](https://www.bloomberg.com/news/articles/2023-06-29/self-driving-car-video-from-waymo-cruise-give-police-crime-evidence)
+ - date published: 2023-06-29T07:54:41+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'electric vehicles', 'privacy']
 
 ## Android's slow creep towards being closed source continues on - open source elements deprecated
  - [https://www.youtube.com/watch?v=-QSr5eKjMjA](https://www.youtube.com/watch?v=-QSr5eKjMjA)

@@ -4540,11 +4540,23 @@
  - user: rumpel
  - tags: ['jeffrey epstein', 'ghislaine maxwell']
 
+## One company wants to sell the feds location data from every car on Earth
+ - [https://arstechnica.com/tech-policy/2021/03/one-company-wants-to-sell-the-feds-location-data-from-every-car-on-earth/](https://arstechnica.com/tech-policy/2021/03/one-company-wants-to-sell-the-feds-location-data-from-every-car-on-earth/)
+ - date published: 2021-03-18T07:39:20+00:00
+ - user: rumpel
+ - tags: ['ulysses group', 'surveillance', 'electric vehicles', 'privacy']
+
 ## WHO says it will not encourage vaccine passports for ‘ethical or scientific’ reasons | The Independent
  - [https://www.independent.co.uk/news/world/who-vaccine-passports-hans-kluge-b1819043.html](https://www.independent.co.uk/news/world/who-vaccine-passports-hans-kluge-b1819043.html)
  - date published: 2021-03-18T07:15:05+00:00
  - user: rumpel
  - tags: ['vaccine passport', 'digital passport', 'who']
+
+## Cars Have Your Location. This Spy Firm Wants to Sell It to the U.S. Military
+ - [https://www.vice.com/en/article/k7adn9/car-location-data-telematics-us-military-ulysses-group](https://www.vice.com/en/article/k7adn9/car-location-data-telematics-us-military-ulysses-group)
+ - date published: 2021-03-17T07:40:15+00:00
+ - user: rumpel
+ - tags: ['ulysses group', 'surveillance', 'electric vehicles', 'privacy']
 
 ## Portland cut police funding and got a 2,000% surge in murders | Washington Examiner
  - [https://www.washingtonexaminer.com/opinion/portland-cut-police-funding-and-got-a-2-000-surge-in-murders](https://www.washingtonexaminer.com/opinion/portland-cut-police-funding-and-got-a-2-000-surge-in-murders)

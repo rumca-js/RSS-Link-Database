@@ -376,6 +376,12 @@
  - user: rumpel
  - tags: ['programming', 'python']
 
+## Tesla, the data company
+ - [https://www.cio.com/article/220555/tesla-the-data-company.html](https://www.cio.com/article/220555/tesla-the-data-company.html)
+ - date published: 2019-08-28T07:45:45+00:00
+ - user: rumpel
+ - tags: ['technofeudalism', 'tesla']
+
 ## My Summary of The Meditations of Marcus Aurelius | (22 Stoic Principles)
  - [https://www.youtube.com/watch?v=Hu0xDtK3g3Q](https://www.youtube.com/watch?v=Hu0xDtK3g3Q)
  - date published: 2019-08-26T00:00:00+00:00
@@ -610,6 +616,12 @@
  - user: rumpel
  - tags: ['google', 'facebook', 'amazon', 'antitrust']
 
+## The Self-Driving Car Is a Surveillance Tool
+ - [https://spectrum.ieee.org/surveillance-and-the-selfdriving-car](https://spectrum.ieee.org/surveillance-and-the-selfdriving-car)
+ - date published: 2019-06-24T07:43:40+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'electric vehicles', 'privacy']
+
 ## 'Men in Black: International' Review: Another Franchise Bites the Woke-Dust
  - [https://www.breitbart.com/entertainment/2019/06/14/men-in-black-international-review-another-franchise-bites-the-woke-dust/](https://www.breitbart.com/entertainment/2019/06/14/men-in-black-international-review-another-franchise-bites-the-woke-dust/)
  - date published: 2019-06-14T11:55:24+00:00
@@ -789,6 +801,12 @@
  - date published: 2019-04-11T20:49:08+00:00
  - user: None
  - tags: ['privacy', 'iot', 'amazon']
+
+## Your car is watching you. Who owns the data? - Roll Call
+ - [https://rollcall.com/2019/04/09/your-car-is-watching-you-who-owns-the-data/](https://rollcall.com/2019/04/09/your-car-is-watching-you-who-owns-the-data/)
+ - date published: 2019-04-09T07:48:17+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'electric vehicles', 'privacy']
 
 ## Allison Mack of ‘Smallville’ Pleads Guilty in Case of Nxivm ‘Sex Cult’ Where Women Were Branded - The New York Times
  - [https://www.nytimes.com/2019/04/08/nyregion/nxivm-allison-mack.html](https://www.nytimes.com/2019/04/08/nyregion/nxivm-allison-mack.html)

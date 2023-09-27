@@ -610,6 +610,12 @@
  - user: rumpel
  - tags: ['racism', 'police', 'immigration']
 
+## Who Owns the Data Your Car Collects?
+ - [https://www.consumerreports.org/automotive-technology/who-owns-the-data-your-car-collects/](https://www.consumerreports.org/automotive-technology/who-owns-the-data-your-car-collects/)
+ - date published: 2018-03-02T07:42:07+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'electric vehicles', 'privacy']
+
 ## Elon Musk's family once owned an emerald mine in Zambia — here's the fascinating story of how they came to own it
  - [https://www.businessinsider.co.za/how-elon-musks-family-came-to-own-an-emerald-mine-2018-2](https://www.businessinsider.co.za/how-elon-musks-family-came-to-own-an-emerald-mine-2018-2)
  - date published: 2018-02-28T15:50:37+00:00
