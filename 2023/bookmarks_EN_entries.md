@@ -1,3 +1,15 @@
+## Elon Musk Have you heard dis information?
+ - [https://twitter.com/elonmusk/status/1706676593261785178](https://twitter.com/elonmusk/status/1706676593261785178)
+ - date published: 2023-09-27T18:13:28+00:00
+ - user: rumpel
+ - tags: ['covid', 'vaccine']
+
+## When it matters, say it on Forem — Forem
+ - [https://forem.com/](https://forem.com/)
+ - date published: 2023-09-27T06:17:25+00:00
+ - user: rumpel
+ - tags: ['selfhost', 'forum']
+
 ## Investigation: 78% of carbon offset projects globally are “likely junk“
  - [https://www.power-technology.com/news/report-majority-carbon-offsets-junk-or-useless/](https://www.power-technology.com/news/report-majority-carbon-offsets-junk-or-useless/)
  - date published: 2023-09-26T14:50:35+00:00
@@ -237,6 +249,12 @@
  - date published: 2023-09-11T16:02:15+00:00
  - user: rumpel
  - tags: ['shadowban', 'censorship']
+
+## The Project Gutenberg Open Audiobook Collection
+ - [https://marhamilresearch4.blob.core.windows.net/gutenberg-public/Website/index.html](https://marhamilresearch4.blob.core.windows.net/gutenberg-public/Website/index.html)
+ - date published: 2023-09-11T12:06:28+00:00
+ - user: rumpel
+ - tags: ['project gutenberg', 'audiobook']
 
 ## Bill Gates: The #G20 reached a groundbreaking consensus on the role of digital public infrastructure
  - [https://twitter.com/BillGates/status/1701318146878218667](https://twitter.com/BillGates/status/1701318146878218667)
