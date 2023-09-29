@@ -1,8 +1,8 @@
-## Elon Musk Have you heard dis information?
- - [https://twitter.com/elonmusk/status/1706676593261785178](https://twitter.com/elonmusk/status/1706676593261785178)
- - date published: 2023-09-27T18:13:28+00:00
+## The Codeless Code:    Case 234 Ozymandias
+ - [http://www.thecodelesscode.com/case/234](http://www.thecodelesscode.com/case/234)
+ - date published: 2023-09-28T08:37:46+00:00
  - user: rumpel
- - tags: ['covid', 'vaccine']
+ - tags: ['funny']
 
 ## When it matters, say it on Forem — Forem
  - [https://forem.com/](https://forem.com/)
@@ -10,11 +10,23 @@
  - user: rumpel
  - tags: ['selfhost', 'forum']
 
+## Elon Musk Have you heard dis information?
+ - [https://twitter.com/elonmusk/status/1706676593261785178](https://twitter.com/elonmusk/status/1706676593261785178)
+ - date published: 2023-09-26T18:13:28+00:00
+ - user: rumpel
+ - tags: ['covid', 'vaccine']
+
 ## Investigation: 78% of carbon offset projects globally are “likely junk“
  - [https://www.power-technology.com/news/report-majority-carbon-offsets-junk-or-useless/](https://www.power-technology.com/news/report-majority-carbon-offsets-junk-or-useless/)
  - date published: 2023-09-26T14:50:35+00:00
  - user: rumpel
  - tags: ['climate change']
+
+## Corporate America Kept Its Promise to Hire More People of Color
+ - [https://www.bloomberg.com/news/newsletters/2023-09-26/corporate-america-kept-its-promise-to-hire-more-people-of-color](https://www.bloomberg.com/news/newsletters/2023-09-26/corporate-america-kept-its-promise-to-hire-more-people-of-color)
+ - date published: 2023-09-26T08:56:00+00:00
+ - user: rumpel
+ - tags: ['racism', 'immigration', 'inequality']
 
 ## Microsoft is seeking a nuclear power manager as AI consumes too much energy
  - [https://www.neowin.net/news/microsoft-is-seeking-a-nuclear-power-manager-as-ai-consumes-too-much-energy/](https://www.neowin.net/news/microsoft-is-seeking-a-nuclear-power-manager-as-ai-consumes-too-much-energy/)
@@ -1089,6 +1101,12 @@
  - date published: 2023-08-05T19:00:39+00:00
  - user: rumpel
  - tags: ['programming', 'debugger']
+
+## Pfizer Admits Employees Were Given 'Special Batch' of Vaccine, Different To Rest of Population - The People's Voice
+ - [https://thepeoplesvoice.tv/pfizer-admits-employees-were-given-special-batch-of-vaccine-different-to-rest-of-population/](https://thepeoplesvoice.tv/pfizer-admits-employees-were-given-special-batch-of-vaccine-different-to-rest-of-population/)
+ - date published: 2023-08-05T16:32:06+00:00
+ - user: rumpel
+ - tags: ['inequality', 'pfizer']
 
 ## Just Normal Web Things
  - [https://heather-buchel.com/blog/2023/07/just-normal-web-things/](https://heather-buchel.com/blog/2023/07/just-normal-web-things/)

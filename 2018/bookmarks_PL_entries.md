@@ -22,6 +22,12 @@
  - user: rumpel
  - tags: ['conspiracy theories', 'andrzej lepper']
 
+## Prokuratura Krajowa wszczęła śledztwo w sprawie wadliwych szczepionek
+ - [https://zdrowie.radiozet.pl/medycyna/wiadomosci/Prokuratura-Krajowa-wszczela-sledztwo-w-sprawie-wadliwych-szczepionek](https://zdrowie.radiozet.pl/medycyna/wiadomosci/Prokuratura-Krajowa-wszczela-sledztwo-w-sprawie-wadliwych-szczepionek)
+ - date published: 2018-02-28T16:39:56+00:00
+ - user: rumpel
+ - tags: ['vaccine', 'covid']
+
 ## Huragan wokół wadliwych szczepionek. MZ: Nie jesteśmy w stanie pilnować każdej lodówki - GazetaPrawna.pl
  - [https://serwisy.gazetaprawna.pl/zdrowie/artykuly/1102427,wadliwe-szczepionki-w-polsce-mz.html](https://serwisy.gazetaprawna.pl/zdrowie/artykuly/1102427,wadliwe-szczepionki-w-polsce-mz.html)
  - date published: 2018-02-06T20:07:11+00:00

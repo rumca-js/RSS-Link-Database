@@ -1,3 +1,9 @@
+## Walka z COVID-19 w Polsce. Raport NIK zarzuca władzy "daleko idącą niegospodarność"
+ - [https://www.rp.pl/polityka/art39180861-walka-z-covid-19-w-polsce-raport-nik-zarzuca-wladzy-daleko-idaca-niegospodarnosc](https://www.rp.pl/polityka/art39180861-walka-z-covid-19-w-polsce-raport-nik-zarzuca-wladzy-daleko-idaca-niegospodarnosc)
+ - date published: 2023-09-28T10:42:30+00:00
+ - user: rumpel
+ - tags: ['vaccine', 'covid']
+
 ## Polskie finanse zagrożone. Fundujemy sobie wysoki deficyt budżetowy i skokowy wzrost długu
  - [https://biznes.interia.pl/gospodarka/news-polski-dlug-gwaltownie-rosnie-wkrotce-moze-przekroczyc-pozio,nId,7027813](https://biznes.interia.pl/gospodarka/news-polski-dlug-gwaltownie-rosnie-wkrotce-moze-przekroczyc-pozio,nId,7027813)
  - date published: 2023-09-17T11:36:34+00:00

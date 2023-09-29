@@ -1210,6 +1210,12 @@
  - user: rumpel
  - tags: ['managment', 'programming', 'clean code']
 
+## How Evil Turns Good — Ashville Road Church of Christ
+ - [https://www.arcoc.com/articles/how-evil-turns-good](https://www.arcoc.com/articles/how-evil-turns-good)
+ - date published: 2020-06-28T09:07:58+00:00
+ - user: rumpel
+ - tags: ['morality', 'lgbt', 'the left wing', 'religion']
+
 ## Almost 300 Windows 10 executables vulnerable to DLL hijacking
  - [https://www.bleepingcomputer.com/news/security/almost-300-windows-10-executables-vulnerable-to-dll-hijacking/](https://www.bleepingcomputer.com/news/security/almost-300-windows-10-executables-vulnerable-to-dll-hijacking/)
  - date published: 2020-06-27T06:48:07+00:00
