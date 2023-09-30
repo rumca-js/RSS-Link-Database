@@ -1,8 +1,32 @@
+## Web3 is Going Just Great
+ - [https://web3isgoinggreat.com/](https://web3isgoinggreat.com/)
+ - date published: 2023-09-29T12:55:27+00:00
+ - user: rumpel
+ - tags: ['web30', 'internet']
+
+## You Can't Control Your Data in the Cloud
+ - [https://karl-voit.at/cloud/](https://karl-voit.at/cloud/)
+ - date published: 2023-09-29T12:53:40+00:00
+ - user: rumpel
+ - tags: ['big tech', 'cloud', 'technofeudalism', 'privacy', 'security']
+
+## GitHub - benbusby/whoogle-search: A self-hosted, ad-free, privacy-respecting metasearch engine
+ - [https://github.com/benbusby/whoogle-search](https://github.com/benbusby/whoogle-search)
+ - date published: 2023-09-29T07:24:04+00:00
+ - user: rumpel
+ - tags: ['selfhost', 'search engine']
+
 ## The Codeless Code:    Case 234 Ozymandias
  - [http://www.thecodelesscode.com/case/234](http://www.thecodelesscode.com/case/234)
  - date published: 2023-09-28T08:37:46+00:00
  - user: rumpel
  - tags: ['funny']
+
+## Google ads team begging for worse search results so that the ads team can hit their goals this year
+ - [https://twitter.com/pdrmnvd/status/1707395736458207430?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1707395736458207430%7Ctwgr%5E552db6cf9a1700dee8466f35a8e626f88529bf90%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fgigazine.net%2Fgsc_news%2Fen%2F20230929-google-ads-team-worse-search-results%2F](https://twitter.com/pdrmnvd/status/1707395736458207430?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1707395736458207430%7Ctwgr%5E552db6cf9a1700dee8466f35a8e626f88529bf90%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fgigazine.net%2Fgsc_news%2Fen%2F20230929-google-ads-team-worse-search-results%2F)
+ - date published: 2023-09-28T06:47:18+00:00
+ - user: rumpel
+ - tags: ['dead internet', 'enshittification', 'google', 'ad business', 'search engines']
 
 ## When it matters, say it on Forem — Forem
  - [https://forem.com/](https://forem.com/)
@@ -175,12 +199,6 @@
 ## GitHub - elastic/elasticsearch: Free and Open, Distributed, RESTful Search Engine
  - [https://github.com/elastic/elasticsearch](https://github.com/elastic/elasticsearch)
  - date published: 2023-09-15T11:17:42+00:00
- - user: rumpel
- - tags: ['selfhost']
-
-## GitHub - benbusby/whoogle-search: A self-hosted, ad-free, privacy-respecting metasearch engine
- - [https://github.com/benbusby/whoogle-search#usage](https://github.com/benbusby/whoogle-search#usage)
- - date published: 2023-09-15T11:17:19+00:00
  - user: rumpel
  - tags: ['selfhost']
 
