@@ -1,3 +1,15 @@
+## DOJ finally posted that “embarrassing” court doc Google wanted to hide
+ - [https://arstechnica.com/tech-policy/2023/09/google-exec-said-users-get-hooked-on-search-engine-like-cigarettes-or-drugs/](https://arstechnica.com/tech-policy/2023/09/google-exec-said-users-get-hooked-on-search-engine-like-cigarettes-or-drugs/)
+ - date published: 2023-09-30T15:03:05+00:00
+ - user: rumpel
+ - tags: ['dark design', 'corporatocracy', 'google', 'technofeudalism']
+
+## Is Consciousness Part of the Fabric of the Universe?
+ - [https://www.scientificamerican.com/article/is-consciousness-part-of-the-fabric-of-the-universe/](https://www.scientificamerican.com/article/is-consciousness-part-of-the-fabric-of-the-universe/)
+ - date published: 2023-09-30T13:17:28+00:00
+ - user: rumpel
+ - tags: ['religion', 'panpsychism', 'psychology']
+
 ## Web3 is Going Just Great
  - [https://web3isgoinggreat.com/](https://web3isgoinggreat.com/)
  - date published: 2023-09-29T12:55:27+00:00
