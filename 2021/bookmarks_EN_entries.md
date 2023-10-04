@@ -4456,6 +4456,12 @@
  - user: rumpel
  - tags: ['blackrock', 'housing market', 'wall street']
 
+## Twitter Is Enabling Saudi Arabia’s Brutal Crackdown on Dissent
+ - [https://newrepublic.com/article/161995/twitter-saudi-arabia-mbs-dissident](https://newrepublic.com/article/161995/twitter-saudi-arabia-mbs-dissident)
+ - date published: 2021-04-03T05:30:33+00:00
+ - user: rumpel
+ - tags: ['elon musk', 'twitter']
+
 ## Virginia Education Department sued over guidelines to protect transgender students
  - [https://www.washingtonpost.com/local/education/transgender-children-virginia-lawsuit/2021/03/30/59948a28-9195-11eb-9668-89be11273c09_story.html](https://www.washingtonpost.com/local/education/transgender-children-virginia-lawsuit/2021/03/30/59948a28-9195-11eb-9668-89be11273c09_story.html)
  - date published: 2021-03-31T21:18:32+00:00

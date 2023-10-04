@@ -424,12 +424,6 @@
  - user: rumpel
  - tags: ['demographics', 'russia']
 
-## Aktywistki oblały zupą słynne dzieło van Gogha
- - [https://wydarzenia.interia.pl/zagranica/news-aktywistki-oblaly-zupa-slynne-dzielo-van-gogha,nId,6347907](https://wydarzenia.interia.pl/zagranica/news-aktywistki-oblaly-zupa-slynne-dzielo-van-gogha,nId,6347907)
- - date published: 2022-10-14T13:39:40+00:00
- - user: None
- - tags: ['climate drama', 'climate change', 'the left wing', 'activism']
-
 ## "Rodzice dopłacą do lekcji albo będą musieli odbierać dzieci ze szkoły o 13". Co z darmową edukacją w Polsce?
  - [https://www.bankier.pl/wiadomosc/Rodzice-doplaca-do-lekcji-albo-beda-musieli-odbierac-dzieci-ze-szkoly-o-13-Co-z-darmowa-edukacja-w-Polsce-8423074.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Rodzice-doplaca-do-lekcji-albo-beda-musieli-odbierac-dzieci-ze-szkoly-o-13-Co-z-darmowa-edukacja-w-Polsce-8423074.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date published: 2022-10-14T13:20:00+00:00

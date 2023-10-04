@@ -1,3 +1,21 @@
+## Watch Out for Malicious Ads on Bing Chat
+ - [https://lifehacker.com/watch-out-for-malicious-ads-on-bing-chat-1850894698](https://lifehacker.com/watch-out-for-malicious-ads-on-bing-chat-1850894698)
+ - date published: 2023-10-03T15:30:00+00:00
+ - user: rumpel
+ - tags: ['ad business']
+
+## YouTube's Advertiser Friendly Policies are Too Restrictive and Draconian - Time for change!
+ - [https://www.youtube.com/watch?v=u6Px7Z4PXvA](https://www.youtube.com/watch?v=u6Px7Z4PXvA)
+ - date published: 2023-10-02T22:45:01+00:00
+ - user: rumpel
+ - tags: ['youtube', 'adpocalypse', 'ad business']
+
+## Local-first software: You own your data, in spite of the cloud (2019)
+ - [https://www.inkandswitch.com/local-first/](https://www.inkandswitch.com/local-first/)
+ - date published: 2023-10-02T19:49:05+00:00
+ - user: rumpel
+ - tags: ['selfhost']
+
 ## DOJ finally posted that “embarrassing” court doc Google wanted to hide
  - [https://arstechnica.com/tech-policy/2023/09/google-exec-said-users-get-hooked-on-search-engine-like-cigarettes-or-drugs/](https://arstechnica.com/tech-policy/2023/09/google-exec-said-users-get-hooked-on-search-engine-like-cigarettes-or-drugs/)
  - date published: 2023-09-30T15:03:05+00:00
@@ -2745,6 +2763,12 @@
  - date published: 2023-06-14T16:41:20+00:00
  - user: rumpel
  - tags: ['reddit']
+
+## Environment activists smear red paint on Monet painting at Stockholm museum | CNN
+ - [https://edition.cnn.com/2023/06/14/style/monet-paint-protest-stockholm-climate/index.html](https://edition.cnn.com/2023/06/14/style/monet-paint-protest-stockholm-climate/index.html)
+ - date published: 2023-06-14T15:31:43+00:00
+ - user: rumpel
+ - tags: ['activism']
 
 ## The Reddit blackout has left Google barren and full of holes – TechRadar
  - [https://www.techradar.com/opinion/the-reddit-blackout-has-left-google-barren-and-full-of-holes](https://www.techradar.com/opinion/the-reddit-blackout-has-left-google-barren-and-full-of-holes)

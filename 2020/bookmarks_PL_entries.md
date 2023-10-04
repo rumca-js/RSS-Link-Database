@@ -160,6 +160,12 @@
  - user: rumpel
  - tags: ['religion', 'immigration', 'islam', 'charlie hebdo', 'france']
 
+## Co tu się dzieje?
+ - [https://www.youtube.com/watch?v=Hsx49IYGmpo](https://www.youtube.com/watch?v=Hsx49IYGmpo)
+ - date published: 2020-09-27T00:00:00+00:00
+ - user: rumpel
+ - tags: ['the left wing', 'activism']
+
 ## Dzieci odebrane Polce przez Jugendamt zostaną na razie u muzułmanów
  - [https://wiadomosci.dziennik.pl/swiat/artykuly/7802606,jugendamt-polka-dzieci-rodzina-muzulmanie-niemcy.html](https://wiadomosci.dziennik.pl/swiat/artykuly/7802606,jugendamt-polka-dzieci-rodzina-muzulmanie-niemcy.html)
  - date published: 2020-09-21T08:55:52+00:00

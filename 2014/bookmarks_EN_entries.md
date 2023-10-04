@@ -4,6 +4,12 @@
  - user: rumpel
  - tags: ['hackers', 'biometric']
 
+## How Greenpeace Wrecked One of the Most Sacred Places in the Americas
+ - [https://gizmodo.com/how-greenpeace-wrecked-one-of-the-most-sacred-places-in-1669873583](https://gizmodo.com/how-greenpeace-wrecked-one-of-the-most-sacred-places-in-1669873583)
+ - date published: 2014-12-11T15:34:05+00:00
+ - user: rumpel
+ - tags: ['activism']
+
 ## Mass surveillance exposed by Snowden ‘not justified by fight against terrorism’
  - [http://www.theguardian.com/world/2014/dec/08/mass-surveillance-exposed-edward-snowden-not-justified-by-fight-against-terrorism](http://www.theguardian.com/world/2014/dec/08/mass-surveillance-exposed-edward-snowden-not-justified-by-fight-against-terrorism)
  - date published: 2014-12-08T14:03:00+00:00

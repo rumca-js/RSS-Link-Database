@@ -2362,6 +2362,12 @@
  - user: None
  - tags: ['tracking', 'privacy', 'ad business', 'disney', 'digital identity']
 
+## Climate activists throw paint on Gustav Klimt's 'Tod und Leben' at Vienna museum
+ - [https://abcnews.go.com/International/climate-activists-throw-paint-gustav-klimts-tod-und/story?id=93335435](https://abcnews.go.com/International/climate-activists-throw-paint-gustav-klimts-tod-und/story?id=93335435)
+ - date published: 2022-11-15T15:31:08+00:00
+ - user: rumpel
+ - tags: ['activism']
+
 ## The scary truth about AI copyright is nobody knows what will happen next
  - [https://www.theverge.com/23444685/generative-ai-copyright-infringement-legal-fair-use-training-data](https://www.theverge.com/23444685/generative-ai-copyright-infringement-legal-fair-use-training-data)
  - date published: 2022-11-15T15:00:00+00:00
@@ -2511,6 +2517,24 @@
  - date published: 2022-11-11T15:52:38+00:00
  - user: None
  - tags: ['robots', 'amazon']
+
+## Why The Van Gogh Climate Protest Wasn't Smart
+ - [https://time.com/6233983/van-gogh-art-climate-protest-survey/](https://time.com/6233983/van-gogh-art-climate-protest-survey/)
+ - date published: 2022-11-11T15:38:11+00:00
+ - user: rumpel
+ - tags: ['activism']
+
+## From Mona Lisa to The Scream: Climate protesters deface art in Europe – and now the US
+ - [https://eu.usatoday.com/in-depth/graphics/2022/11/30/climate-activists-attack-paintings-mona-lisa-scream/10699588002/](https://eu.usatoday.com/in-depth/graphics/2022/11/30/climate-activists-attack-paintings-mona-lisa-scream/10699588002/)
+ - date published: 2022-11-11T15:30:02+00:00
+ - user: rumpel
+ - tags: ['activism']
+
+## Climate activists attacking art ‘severely underestimate’ fragility of works, gallery directors warn
+ - [https://www.theguardian.com/artanddesign/2022/nov/11/climate-activists-attacking-art-severely-underestimate-fragility-of-works-gallery-directors-warn](https://www.theguardian.com/artanddesign/2022/nov/11/climate-activists-attacking-art-severely-underestimate-fragility-of-works-gallery-directors-warn)
+ - date published: 2022-11-11T15:29:02+00:00
+ - user: rumpel
+ - tags: ['activism']
 
 ## Medical data hacked from 10m Australians begins to appear on dark web
  - [https://www.theguardian.com/world/2022/nov/11/medical-data-hacked-from-10m-australians-begins-to-appear-on-dark-web](https://www.theguardian.com/world/2022/nov/11/medical-data-hacked-from-10m-australians-begins-to-appear-on-dark-web)
@@ -3927,6 +3951,12 @@
  - date published: 2022-10-23T16:12:32+00:00
  - user: None
  - tags: ['canada', 'facebook']
+
+## Climate Activists Throw Mashed Potatoes on Monet Painting
+ - [https://www.nytimes.com/2022/10/23/arts/claude-monet-mashed-potatoes-climate-activists.html](https://www.nytimes.com/2022/10/23/arts/claude-monet-mashed-potatoes-climate-activists.html)
+ - date published: 2022-10-23T15:32:37+00:00
+ - user: rumpel
+ - tags: ['activism']
 
 ## China Could Invade Taiwan Within The Next Year, Top U.S. Navy Officer Warns
  - [https://www.dailywire.com/news/china-could-invade-taiwan-within-the-next-year-u-s-navy-chief-warns](https://www.dailywire.com/news/china-could-invade-taiwan-within-the-next-year-u-s-navy-chief-warns)
