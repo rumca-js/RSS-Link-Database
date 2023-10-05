@@ -76,6 +76,12 @@
  - user: None
  - tags: ['secret societies']
 
+## Google’s ad tracking is as creepy as Facebook's. Here’s how to disable it
+ - [https://www.theguardian.com/technology/2016/oct/21/how-to-disable-google-ad-tracking-gmail-youtube-browser-history](https://www.theguardian.com/technology/2016/oct/21/how-to-disable-google-ad-tracking-gmail-youtube-browser-history)
+ - date published: 2016-10-20T06:30:06+00:00
+ - user: rumpel
+ - tags: ['privacy', 'ad business', 'surveillance', 'google', 'technofeudalism']
+
 ## BlackRock CEO Larry Fink Champions Long-Term Value Creation
  - [https://www.institutionalinvestor.com/article/b14z9ngwsq1t7z/blackrock-ceo-larry-fink-champions-long-term-value-creation](https://www.institutionalinvestor.com/article/b14z9ngwsq1t7z/blackrock-ceo-larry-fink-champions-long-term-value-creation)
  - date published: 2016-10-03T20:10:05+00:00
@@ -135,6 +141,12 @@
  - date published: 2016-08-22T09:54:50+00:00
  - user: rumpel
  - tags: ['programming', 'doom', 'games']
+
+## French blogger claims YouTube tried to censor Juncker interview
+ - [https://www.theguardian.com/technology/2016/sep/19/french-blogger-claims-youtube-tried-to-censor-juncker-interview](https://www.theguardian.com/technology/2016/sep/19/french-blogger-claims-youtube-tried-to-censor-juncker-interview)
+ - date published: 2016-08-19T07:00:40+00:00
+ - user: rumpel
+ - tags: ['censorship', 'youtube']
 
 ## Coal Burning Causes the Most Air Pollution Deaths in China, Study Finds
  - [https://www.nytimes.com/2016/08/18/world/asia/china-coal-health-smog-pollution.html](https://www.nytimes.com/2016/08/18/world/asia/china-coal-health-smog-pollution.html)
@@ -375,6 +387,12 @@
  - date published: 2016-01-21T07:35:32+00:00
  - user: rumpel
  - tags: ['privacy', 'surveillance', 'big brother', 'encryption', 'crypto wars']
+
+## Pakistan's YouTube ban lifted
+ - [https://www.theguardian.com/world/2016/jan/19/pakistans-youtube-ban-lifted-as-government-gets-say-over-content](https://www.theguardian.com/world/2016/jan/19/pakistans-youtube-ban-lifted-as-government-gets-say-over-content)
+ - date published: 2016-01-19T07:01:58+00:00
+ - user: rumpel
+ - tags: ['censorship', 'youtube', 'pakistan', 'manufacturing consent']
 
 ## Microsoft may be collecting more data than initially thought - gHacks Tech News
  - [https://www.ghacks.net/2016/01/05/microsoft-may-be-collecting-more-data-than-initially-thought/](https://www.ghacks.net/2016/01/05/microsoft-may-be-collecting-more-data-than-initially-thought/)

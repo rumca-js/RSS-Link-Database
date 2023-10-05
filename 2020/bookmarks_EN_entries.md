@@ -1090,6 +1090,12 @@
  - user: rumpel
  - tags: ['hypocrisy', 'racism', 'all lives matter', 'black lives matter']
 
+## Google faces lawsuit over tracking in apps even when users opted out
+ - [https://www.reuters.com/article/idUSKCN24F2N4](https://www.reuters.com/article/idUSKCN24F2N4)
+ - date published: 2020-07-14T06:55:51+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'google', 'privacy', 'technofeudalism']
+
 ## WEF founder: Must prepare for an angrier world
  - [https://www.youtube.com/watch?v=LJTnkzl3K64](https://www.youtube.com/watch?v=LJTnkzl3K64)
  - date published: 2020-07-14T00:00:00+00:00

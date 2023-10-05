@@ -1,3 +1,9 @@
+## The Psychological Dark Side of Gmail
+ - [https://www.alternet.org/2013/12/google-using-gmail-build-psychological-profiles-hundreds-millions-people](https://www.alternet.org/2013/12/google-using-gmail-build-psychological-profiles-hundreds-millions-people)
+ - date published: 2013-12-29T06:28:34+00:00
+ - user: rumpel
+ - tags: ['privacy', 'gmail', 'surveillance', 'google', 'technofeudalism']
+
 ## Five Eyes
  - [https://en.wikipedia.org/wiki/Five_Eyes](https://en.wikipedia.org/wiki/Five_Eyes)
  - date published: 2013-12-21T14:41:21+00:00
@@ -249,6 +255,12 @@
  - date published: 2013-02-15T15:33:36+00:00
  - user: rumpel
  - tags: ['climate change', 'global warming']
+
+## Google Play Store policy raises privacy concerns
+ - [https://www.gadgets360.com/apps/news/google-play-store-policy-raises-privacy-concerns-331116](https://www.gadgets360.com/apps/news/google-play-store-policy-raises-privacy-concerns-331116)
+ - date published: 2013-02-15T06:35:58+00:00
+ - user: rumpel
+ - tags: ['anonymity', 'play store', 'privacy', 'surveillance', 'google', 'technofeudalism']
 
 ## Aaron Swartz's battle to free the PACER legal document database - The Verge
  - [https://www.theverge.com/2013/2/8/3968824/aaron-swartzs-battle-to-free-the-pacer-legal-document-database](https://www.theverge.com/2013/2/8/3968824/aaron-swartzs-battle-to-free-the-pacer-legal-document-database)

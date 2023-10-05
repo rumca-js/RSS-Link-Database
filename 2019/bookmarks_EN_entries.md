@@ -604,6 +604,12 @@
  - user: rumpel
  - tags: ['sexualization', 'children']
 
+## Google still keeps a list of everything you ever bought using Gmail, even if you delete all your emails
+ - [https://www.cnbc.com/2019/07/05/google-gmail-purchase-history-cant-be-deleted.html](https://www.cnbc.com/2019/07/05/google-gmail-purchase-history-cant-be-deleted.html)
+ - date published: 2019-07-05T06:21:27+00:00
+ - user: rumpel
+ - tags: ['anonymity', 'privacy', 'surveillance', 'google', 'technofeudalism']
+
 ## MAN, I FEEL LIKE A WOMAN: Walsh absolutely wrecks entire transgender argument
  - [https://www.youtube.com/watch?v=J0a0fllObFk](https://www.youtube.com/watch?v=J0a0fllObFk)
  - date published: 2019-06-30T00:00:00+00:00
@@ -693,6 +699,12 @@
  - date published: 2019-05-26T13:59:11+00:00
  - user: rumpel
  - tags: ['open source']
+
+## Google uses Gmail to track a history of things you buy — and it's hard to delete
+ - [https://www.cnbc.com/2019/05/17/google-gmail-tracks-purchase-history-how-to-delete-it.html](https://www.cnbc.com/2019/05/17/google-gmail-tracks-purchase-history-how-to-delete-it.html)
+ - date published: 2019-05-17T06:54:44+00:00
+ - user: rumpel
+ - tags: ['anonymity', 'privacy', 'gmail', 'surveillance', 'google', 'technofeudalism']
 
 ## BlackRock Completes Acquisition of eFront | eFront
  - [https://www.efront.com/en/news-press-releases/blackrock-completes-acquisition-of-efront-industry-leading-alternatives-investment-software-provider](https://www.efront.com/en/news-press-releases/blackrock-completes-acquisition-of-efront-industry-leading-alternatives-investment-software-provider)
@@ -874,6 +886,12 @@
  - user: rumpel
  - tags: ['search engines']
 
+## The Microphones That May Be Hidden in Your Home
+ - [https://www.theatlantic.com/technology/archive/2019/02/googles-home-security-devices-had-hidden-microphones/583387/](https://www.theatlantic.com/technology/archive/2019/02/googles-home-security-devices-had-hidden-microphones/583387/)
+ - date published: 2019-02-23T06:22:52+00:00
+ - user: rumpel
+ - tags: ['privacy', 'smart home', 'surveillance', 'google', 'technofeudalism']
+
 ## Lawyer slams 'ridiculous' case which saw teen prosecuted for Instagramming N-word rap lyrics - Liverpool Echo
  - [https://www.liverpoolecho.co.uk/news/liverpool-news/teen-prosecuted-n-word-rap-15874476](https://www.liverpoolecho.co.uk/news/liverpool-news/teen-prosecuted-n-word-rap-15874476)
  - date published: 2019-02-22T09:33:04+00:00
@@ -892,11 +910,23 @@
  - user: None
  - tags: ['privacy']
 
+## Vox lawyers briefly censored YouTubers who mocked The Verge’s bad PC build advice
+ - [https://arstechnica.com/tech-policy/2019/02/the-verge-briefly-censored-youtubers-who-mocked-its-bad-pc-building-advice/](https://arstechnica.com/tech-policy/2019/02/the-verge-briefly-censored-youtubers-who-mocked-its-bad-pc-building-advice/)
+ - date published: 2019-02-19T07:06:17+00:00
+ - user: rumpel
+ - tags: ['censorship', 'youtube', 'technofeudalism', 'manufacturing consent']
+
 ## Facebook was 'willing to override' users' privacy setting to share their data
  - [https://www.cnn.com/2019/02/17/tech/facebook-fake-news-disinformation-report/index.html](https://www.cnn.com/2019/02/17/tech/facebook-fake-news-disinformation-report/index.html)
  - date published: 2019-02-18T10:10:15+00:00
  - user: rumpel
  - tags: ['privacy', 'facebook', 'big tech']
+
+## Your Smart Light Can Tell Amazon and Google When You Go to Bed
+ - [https://www.bloomberg.com/news/articles/2019-02-12/your-smart-light-can-tell-amazon-and-google-when-you-go-to-bed](https://www.bloomberg.com/news/articles/2019-02-12/your-smart-light-can-tell-amazon-and-google-when-you-go-to-bed)
+ - date published: 2019-02-12T06:53:25+00:00
+ - user: rumpel
+ - tags: ['privacy', 'smart home', 'surveillance', 'google', 'amazon', 'technofeudalism']
 
 ## How did the police know you were near a crime scene? Google told them | MPR News
  - [https://www.mprnews.org/story/2019/02/07/google-location-police-search-warrants](https://www.mprnews.org/story/2019/02/07/google-location-police-search-warrants)
@@ -904,11 +934,29 @@
  - user: rumpel
  - tags: ['surveillance', 'tracking', 'google']
 
+## Google Screenwise: An Unwise Trade of All Your Privacy for Cash
+ - [https://www.commondreams.org/views/2019/02/04/google-screenwise-unwise-trade-all-your-privacy-cash](https://www.commondreams.org/views/2019/02/04/google-screenwise-unwise-trade-all-your-privacy-cash)
+ - date published: 2019-02-04T06:51:46+00:00
+ - user: rumpel
+ - tags: ['google screenwise', 'privacy', 'surveillance', 'google', 'technofeudalism']
+
 ## ‘John of God’ cult leader allegedly ran child sex slave farm
  - [https://nypost.com/2019/01/31/john-of-god-cult-leader-allegedly-ran-child-sex-slave-farm/](https://nypost.com/2019/01/31/john-of-god-cult-leader-allegedly-ran-child-sex-slave-farm/)
  - date published: 2019-01-31T11:29:14+00:00
  - user: rumpel
  - tags: ['sect', 'john of god', 'paedophilia', 'cult', 'brazil']
+
+## What We Should Learn From “Facebook Research”
+ - [https://www.eff.org/deeplinks/2019/01/what-we-should-learn-facebook-research](https://www.eff.org/deeplinks/2019/01/what-we-should-learn-facebook-research)
+ - date published: 2019-01-31T06:50:32+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'privacy', 'facebook', 'technofeudalism']
+
+## Facebook pays teens to install VPN that spies on them
+ - [https://techcrunch.com/2019/01/29/facebook-project-atlas/](https://techcrunch.com/2019/01/29/facebook-project-atlas/)
+ - date published: 2019-01-29T06:49:05+00:00
+ - user: rumpel
+ - tags: ['anonymity', 'privacy', 'facebook', 'surveillance', 'vpn', 'technofeudalism']
 
 ## WEF defends jet-setting elites amid climate change agenda
  - [https://www.cnbc.com/2019/01/25/wef-defends-jet-setting-elites-amid-climate-change-agenda.html](https://www.cnbc.com/2019/01/25/wef-defends-jet-setting-elites-amid-climate-change-agenda.html)

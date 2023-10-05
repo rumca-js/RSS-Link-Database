@@ -1,3 +1,21 @@
+## Reasons not to use Google
+ - [https://stallman.org/google.html](https://stallman.org/google.html)
+ - date published: 2023-10-04T06:20:35+00:00
+ - user: rumpel
+ - tags: ['richard stallman', 'google', 'open source', 'technofeudalism']
+
+## Select instance - Invidious
+ - [https://redirect.invidious.io/](https://redirect.invidious.io/)
+ - date published: 2023-10-04T06:18:31+00:00
+ - user: rumpel
+ - tags: ['selfhost', 'youtube']
+
+## Google User Data Is Police's Top Shortcut for Solving Crimes
+ - [https://www.bloomberg.com/news/features/2023-09-28/google-user-data-is-police-s-top-shortcut-for-solving-crimes](https://www.bloomberg.com/news/features/2023-09-28/google-user-data-is-police-s-top-shortcut-for-solving-crimes)
+ - date published: 2023-10-04T03:22:52+00:00
+ - user: rumpel
+ - tags: ['anonymity', 'privacy', 'surveillance', 'google', 'technofeudalism']
+
 ## Watch Out for Malicious Ads on Bing Chat
  - [https://lifehacker.com/watch-out-for-malicious-ads-on-bing-chat-1850894698](https://lifehacker.com/watch-out-for-malicious-ads-on-bing-chat-1850894698)
  - date published: 2023-10-03T15:30:00+00:00

@@ -10,6 +10,12 @@
  - user: rumpel
  - tags: ['elite', 'george soros', 'billionaires']
 
+## STATE OF THE ART; Google Mail: Virtue Lies In the In-Box (Published 2004)
+ - [https://www.nytimes.com/2004/05/13/technology/state-of-the-art-google-mail-virtue-lies-in-the-in-box.html?pagewanted=print&src=pm](https://www.nytimes.com/2004/05/13/technology/state-of-the-art-google-mail-virtue-lies-in-the-in-box.html?pagewanted=print&src=pm)
+ - date published: 2004-05-13T06:26:18+00:00
+ - user: rumpel
+ - tags: ['google', 'gmail']
+
 ## New Internet Site Turns Critical Eyes and Ears to the Right
  - [https://www.nytimes.com/2004/05/03/us/new-internet-site-turns-critical-eyes-and-ears-to-the-right.html](https://www.nytimes.com/2004/05/03/us/new-internet-site-turns-critical-eyes-and-ears-to-the-right.html)
  - date published: 2004-05-03T20:05:49+00:00

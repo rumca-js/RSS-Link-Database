@@ -1,3 +1,9 @@
+## Google’s Earth: how the tech giant is helping the state spy on us
+ - [https://www.theguardian.com/news/2018/dec/20/googles-earth-how-the-tech-giant-is-helping-the-state-spy-on-us](https://www.theguardian.com/news/2018/dec/20/googles-earth-how-the-tech-giant-is-helping-the-state-spy-on-us)
+ - date published: 2018-12-20T06:45:35+00:00
+ - user: rumpel
+ - tags: ['anonymity', 'privacy', 'surveillance', 'google', 'technofeudalism']
+
 ## Human Evolution Revised: Timelines and Multiregionalism
  - [https://notrelated.xyz/audio/s01/S01E07_-_Human_Evolution_Revised_Timelines_and_Multiregionalism.mp3](https://notrelated.xyz/audio/s01/S01E07_-_Human_Evolution_Revised_Timelines_and_Multiregionalism.mp3)
  - date published: 2018-12-19T05:00:00+00:00
@@ -442,6 +448,18 @@
  - user: None
  - tags: ['who', 'bill gates']
 
+## Amazon tells Signal’s creators to stop using anti-censorship workaround
+ - [https://www.theverge.com/2018/5/1/17308508/amazon-web-services-signal-domain-fronting-ban-response](https://www.theverge.com/2018/5/1/17308508/amazon-web-services-signal-domain-fronting-ban-response)
+ - date published: 2018-05-01T06:57:48+00:00
+ - user: rumpel
+ - tags: ['censorship', 'privacy', 'signal', 'domain-fronting', 'amazon', 'technofeudalism']
+
+## Amazon Web Services starts blocking domain-fronting, following Google’s lead
+ - [https://www.theverge.com/2018/4/30/17304782/amazon-domain-fronting-google-discontinued](https://www.theverge.com/2018/4/30/17304782/amazon-domain-fronting-google-discontinued)
+ - date published: 2018-04-30T06:59:16+00:00
+ - user: rumpel
+ - tags: ['censorship', 'privacy', 'amazon web services', 'domain-fronting', 'amazon', 'technofeudalism']
+
 ## "INTERROGATING ZUCKERBERG" — A Bad Lip Reading
  - [https://www.youtube.com/watch?v=_zCDvOsdL9Q](https://www.youtube.com/watch?v=_zCDvOsdL9Q)
  - date published: 2018-04-24T00:00:00+00:00
@@ -453,6 +471,18 @@
  - date published: 2018-04-19T06:35:07+00:00
  - user: rumpel
  - tags: ['censorship', 'social media', 'instagram', 'racism']
+
+## Domain fronting - Wikipedia
+ - [https://en.wikipedia.org/wiki/Domain_fronting](https://en.wikipedia.org/wiki/Domain_fronting)
+ - date published: 2018-04-18T07:46:57+00:00
+ - user: rumpel
+ - tags: ['domain-fronting', 'privacy']
+
+## A Google update just created a big problem for anti-censorship tools
+ - [https://www.theverge.com/2018/4/18/17253784/google-domain-fronting-discontinued-signal-tor-vpn](https://www.theverge.com/2018/4/18/17253784/google-domain-fronting-discontinued-signal-tor-vpn)
+ - date published: 2018-04-18T06:58:32+00:00
+ - user: rumpel
+ - tags: ['censorship', 'privacy', 'google', 'domain-fronting', 'technofeudalism']
 
 ## You Won’t Believe What Obama Says In This Video! 😉
  - [https://www.youtube.com/watch?v=cQ54GDm1eL0](https://www.youtube.com/watch?v=cQ54GDm1eL0)
@@ -477,6 +507,12 @@
  - date published: 2018-04-13T14:18:44+00:00
  - user: rumpel
  - tags: ['co2', 'climate change', 'germany']
+
+## Public Attention Forces Facebook To Retreat From Anti-Privacy Alliance With ISPs In California
+ - [https://www.techdirt.com/2018/04/13/public-attention-forces-facebook-to-retreat-anti-privacy-alliance-with-isps-california/](https://www.techdirt.com/2018/04/13/public-attention-forces-facebook-to-retreat-anti-privacy-alliance-with-isps-california/)
+ - date published: 2018-04-13T06:44:48+00:00
+ - user: rumpel
+ - tags: ['privacy', 'facebook', 'manufacturing consent']
 
 ## 11 signs you’re writing great code
  - [https://www.infoworld.com/article/3268310/application-development/11-signs-youre-writing-great-code.html](https://www.infoworld.com/article/3268310/application-development/11-signs-youre-writing-great-code.html)
@@ -543,6 +579,12 @@
  - date published: 2018-04-01T06:16:10+00:00
  - user: rumpel
  - tags: ['propaganda', 'manufacturing consent']
+
+## Are you ready? This is all the data Facebook and Google have on you | Dylan Curran
+ - [https://www.theguardian.com/commentisfree/2018/mar/28/all-the-data-facebook-google-has-on-you-privacy](https://www.theguardian.com/commentisfree/2018/mar/28/all-the-data-facebook-google-has-on-you-privacy)
+ - date published: 2018-03-30T06:42:27+00:00
+ - user: rumpel
+ - tags: ['privacy', 'suveillance', 'facebook', 'google', 'technofeudalism']
 
 ## It's not just Facebook. Thousands of companies are spying on you (opinion) | CNN
  - [https://edition.cnn.com/2018/03/26/opinions/data-company-spying-opinion-schneier/index.html](https://edition.cnn.com/2018/03/26/opinions/data-company-spying-opinion-schneier/index.html)

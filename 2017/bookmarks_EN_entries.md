@@ -274,6 +274,18 @@
  - user: rumpel
  - tags: ['the left wing', 'pronouns', 'newspeak']
 
+## How I Got Fired From a D.C. Think Tank for Fighting Against the Power of Google
+ - [https://theintercept.com/2017/08/31/how-i-got-fired-from-a-d-c-think-tank-for-fighting-against-the-power-of-google/](https://theintercept.com/2017/08/31/how-i-got-fired-from-a-d-c-think-tank-for-fighting-against-the-power-of-google/)
+ - date published: 2017-08-31T07:12:10+00:00
+ - user: rumpel
+ - tags: ['censorship', 'google', 'monopoly', 'manufacturing consent']
+
+## Google Critic Ousted From Think Tank Funded by the Tech Giant (Published 2017)
+ - [https://www.nytimes.com/2017/08/30/us/politics/eric-schmidt-google-new-america.html](https://www.nytimes.com/2017/08/30/us/politics/eric-schmidt-google-new-america.html)
+ - date published: 2017-08-30T07:09:22+00:00
+ - user: rumpel
+ - tags: ['google', 'manufacturing consent']
+
 ## Now you, too, can disable Intel ME 'backdoor' thanks to the NSA | CSO Online
  - [https://www.csoonline.com/article/3220476/researchers-say-now-you-too-can-disable-intel-me-backdoor-thanks-to-the-nsa.html](https://www.csoonline.com/article/3220476/researchers-say-now-you-too-can-disable-intel-me-backdoor-thanks-to-the-nsa.html)
  - date published: 2017-08-29T14:50:19+00:00
@@ -309,6 +321,12 @@
  - date published: 2017-08-15T14:55:12+00:00
  - user: rumpel
  - tags: ['google', 'google memo', 'james damore']
+
+## Journalist Nearly Banned from YouTube and Gmail For Posting Al-Qaeda Videos From Chelsea Manning Trial
+ - [http://gizmodo.com/journalist-nearly-banned-from-youtube-and-gmail-for-pos-1815314182](http://gizmodo.com/journalist-nearly-banned-from-youtube-and-gmail-for-pos-1815314182)
+ - date published: 2017-08-15T07:03:52+00:00
+ - user: rumpel
+ - tags: ['censorship', 'deplatform', 'youtube', 'gmail']
 
 ## Full text of ex-Google engineer James Damore’s memo
  - [https://menrightsindia.net/2017/08/full-text-of-ex-google-engineer-james-damores-memo.html](https://menrightsindia.net/2017/08/full-text-of-ex-google-engineer-james-damores-memo.html)
@@ -351,6 +369,12 @@
  - date published: 2017-08-02T16:31:46+00:00
  - user: rumpel
  - tags: ['f-droid', 'android']
+
+## Yes, Google Uses Its Power To Quash Ideas It Doesn't Like -- I Know Because It Happened To Me
+ - [https://gizmodo.com.au/2017/09/yes-google-uses-its-power-to-quash-ideas-it-doesnt-likei-know-because-it-happened-to-me/](https://gizmodo.com.au/2017/09/yes-google-uses-its-power-to-quash-ideas-it-doesnt-likei-know-because-it-happened-to-me/)
+ - date published: 2017-08-01T07:11:06+00:00
+ - user: rumpel
+ - tags: ['censorship', 'google']
 
 ## The American empire and its media | MR Online
  - [https://mronline.org/2017/07/23/the-american-empire-and-its-media/](https://mronline.org/2017/07/23/the-american-empire-and-its-media/)

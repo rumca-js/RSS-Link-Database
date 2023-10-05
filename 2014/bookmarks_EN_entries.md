@@ -136,6 +136,12 @@
  - user: rumpel
  - tags: ['immigration', 'racism', 'police']
 
+## With New Ad Platform, Facebook Opens Gates to Its Vault of User Data (Published 2014)
+ - [https://www.nytimes.com/2014/09/29/business/with-new-ad-platform-facebook-opens-the-gates-to-its-vault-of-consumer-data.html](https://www.nytimes.com/2014/09/29/business/with-new-ad-platform-facebook-opens-the-gates-to-its-vault-of-consumer-data.html)
+ - date published: 2014-08-28T06:32:00+00:00
+ - user: rumpel
+ - tags: ['ad business', 'atlas', 'facebook']
+
 ## Slavoj Žižek on "They Live" (The Pervert's Guide to Ideology)
  - [https://www.youtube.com/watch?v=TVwKjGbz60k](https://www.youtube.com/watch?v=TVwKjGbz60k)
  - date published: 2014-08-05T20:28:02+00:00

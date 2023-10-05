@@ -214,6 +214,12 @@
  - user: None
  - tags: ['ted', 'pandemic', 'bill gates']
 
+## Facebook 'tracks all visitors, breaching EU law'
+ - [https://www.theguardian.com/technology/2015/mar/31/facebook-tracks-all-visitors-breaching-eu-law-report](https://www.theguardian.com/technology/2015/mar/31/facebook-tracks-all-visitors-breaching-eu-law-report)
+ - date published: 2015-03-31T06:32:56+00:00
+ - user: rumpel
+ - tags: ['anonymity', 'privacy', 'facebook', 'surveillance', 'technofeudalism']
+
 ## The Rothschilds and Waddesdon
  - [https://www.youtube.com/watch?v=I65LfGNo1A8](https://www.youtube.com/watch?v=I65LfGNo1A8)
  - date published: 2015-03-12T00:00:00+00:00
