@@ -1,3 +1,15 @@
+## 'I was kidnapped by my runaway electric car'
+ - [https://www.bbc.com/news/uk-scotland-67005620](https://www.bbc.com/news/uk-scotland-67005620)
+ - date published: 2023-10-05T18:16:48+00:00
+ - user: rumpel
+ - tags: ['electric vehicles']
+
+## Where does my computer get the time from?
+ - [https://dotat.at/@/2023-05-26-whence-time.html](https://dotat.at/@/2023-05-26-whence-time.html)
+ - date published: 2023-10-05T13:42:37+00:00
+ - user: rumpel
+ - tags: ['hardware', 'computers']
+
 ## Reasons not to use Google
  - [https://stallman.org/google.html](https://stallman.org/google.html)
  - date published: 2023-10-04T06:20:35+00:00
@@ -33,6 +45,12 @@
  - date published: 2023-10-02T19:49:05+00:00
  - user: rumpel
  - tags: ['selfhost']
+
+## UK passport images database could be used to catch shoplifters
+ - [https://www.theguardian.com/uk-news/2023/oct/02/uk-passport-images-database-could-be-used-to-catch-shoplifters](https://www.theguardian.com/uk-news/2023/oct/02/uk-passport-images-database-could-be-used-to-catch-shoplifters)
+ - date published: 2023-10-02T18:28:50+00:00
+ - user: rumpel
+ - tags: ['biometrics', 'facial recognition']
 
 ## DOJ finally posted that “embarrassing” court doc Google wanted to hide
  - [https://arstechnica.com/tech-policy/2023/09/google-exec-said-users-get-hooked-on-search-engine-like-cigarettes-or-drugs/](https://arstechnica.com/tech-policy/2023/09/google-exec-said-users-get-hooked-on-search-engine-like-cigarettes-or-drugs/)

@@ -664,6 +664,12 @@
  - user: rumpel
  - tags: ['algorithms', 'search engines']
 
+## YouTube’s anti-extremism crackdown targets journalist who documents extremism
+ - [https://arstechnica.com/information-technology/2019/06/youtubes-anti-extremism-crackdown-targets-journalist-who-documents-extremism/](https://arstechnica.com/information-technology/2019/06/youtubes-anti-extremism-crackdown-targets-journalist-who-documents-extremism/)
+ - date published: 2019-06-05T19:53:01+00:00
+ - user: rumpel
+ - tags: ['censorship', 'youtube']
+
 ## The Do Black card has a carbon emissions limit
  - [https://www.fastcompany.com/90344150/this-credit-card-wont-let-you-buy-anything-else-after-youve-hit-your-annual-carbon-limit](https://www.fastcompany.com/90344150/this-credit-card-wont-let-you-buy-anything-else-after-youve-hit-your-annual-carbon-limit)
  - date published: 2019-06-05T06:39:22+00:00
