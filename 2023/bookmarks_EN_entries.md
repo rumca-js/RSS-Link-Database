@@ -1,3 +1,9 @@
+## The Age of Surveillance Capitalism - Wikipedia
+ - [https://en.m.wikipedia.org/wiki/The_Age_of_Surveillance_Capitalism](https://en.m.wikipedia.org/wiki/The_Age_of_Surveillance_Capitalism)
+ - date published: 2023-10-06T15:23:06+00:00
+ - user: rumpel
+ - tags: ['book']
+
 ## 'I was kidnapped by my runaway electric car'
  - [https://www.bbc.com/news/uk-scotland-67005620](https://www.bbc.com/news/uk-scotland-67005620)
  - date published: 2023-10-05T18:16:48+00:00
