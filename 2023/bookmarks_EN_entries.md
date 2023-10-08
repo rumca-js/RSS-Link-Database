@@ -1204,6 +1204,12 @@
  - user: rumpel
  - tags: ['web20', 'web10', 'web30']
 
+## The 4 Flops Of 2023 That Cost Disney $1 Billion
+ - [https://www.forbes.com/sites/carolinereid/2023/08/04/the-four-flops-of-2023-that-cost-disney-1-billion/](https://www.forbes.com/sites/carolinereid/2023/08/04/the-four-flops-of-2023-that-cost-disney-1-billion/)
+ - date published: 2023-08-04T21:01:03+00:00
+ - user: rumpel
+ - tags: ['disney', 'hollywood']
+
 ## Pluralistic: Fighting junk fees is "woke" (04 August 2023)
  - [https://pluralistic.net/2023/08/04/owning-the-libs/](https://pluralistic.net/2023/08/04/owning-the-libs/)
  - date published: 2023-08-04T18:45:51+00:00
