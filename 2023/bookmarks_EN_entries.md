@@ -166,6 +166,12 @@
  - user: rumpel
  - tags: ['immigration']
 
+## ‘A hidden universe of suffering’: the Palestinian children sent to jail
+ - [https://www.theguardian.com/world/2023/sep/21/a-hidden-universe-of-suffering-the-palestinian-children-sent-to-jail](https://www.theguardian.com/world/2023/sep/21/a-hidden-universe-of-suffering-the-palestinian-children-sent-to-jail)
+ - date published: 2023-09-21T04:00:40+00:00
+ - user: rumpel
+ - tags: ['israel', 'palestine']
+
 ## Organic Maps: An Open-Source Maps App That Doesn't Suck
  - [https://hardfault.life/p/organic-maps-review](https://hardfault.life/p/organic-maps-review)
  - date published: 2023-09-21T02:54:09+00:00
@@ -177,6 +183,12 @@
  - date published: 2023-09-21T02:51:08+00:00
  - user: rumpel
  - tags: ['crypto wars', 'privacy', 'online safety bill', 'surveillance']
+
+## Police Scotland set up new unit to tackle 'hate crime' such as misgendering
+ - [https://www.scottishdailyexpress.co.uk/news/scottish-news/police-scotland-set-up-new-30983808](https://www.scottishdailyexpress.co.uk/news/scottish-news/police-scotland-set-up-new-30983808)
+ - date published: 2023-09-20T20:28:14+00:00
+ - user: rumpel
+ - tags: ['misgendering', 'scotland', 'gender']
 
 ## Car showed pop-up while driving
  - [https://glitterkitten.co.uk/@ellavescent/111091652921668380](https://glitterkitten.co.uk/@ellavescent/111091652921668380)
