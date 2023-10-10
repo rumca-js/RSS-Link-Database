@@ -130,6 +130,12 @@
  - user: None
  - tags: ['privacy', 'tracking']
 
+## Linus Torvalds on his insults: respect should be earned.
+ - [https://www.youtube.com/watch?v=JZ017D_JOPY](https://www.youtube.com/watch?v=JZ017D_JOPY)
+ - date published: 2014-09-04T00:00:00+00:00
+ - user: rumpel
+ - tags: ['snowflakes', 'hate speech', 'linus torvalds', 'social justice warriors']
+
 ## The fear of being seen as racist - BBC News
  - [https://www.bbc.com/news/magazine-28967427](https://www.bbc.com/news/magazine-28967427)
  - date published: 2014-08-30T11:21:17+00:00

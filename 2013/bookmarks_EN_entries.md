@@ -76,6 +76,12 @@
  - user: rumpel
  - tags: ['norway', 'feminism', 'sexism']
 
+## How The Economic Machine Works by Ray Dalio
+ - [https://www.youtube.com/watch?v=PHe0bXAIuk0](https://www.youtube.com/watch?v=PHe0bXAIuk0)
+ - date published: 2013-09-22T00:00:00+00:00
+ - user: rumpel
+ - tags: ['economic']
+
 ## Google knows nearly every Wi-Fi password in the world
  - [https://www.computerworld.com/article/2474851/android-google-knows-nearly-every-wi-fi-password-in-the-world.html](https://www.computerworld.com/article/2474851/android-google-knows-nearly-every-wi-fi-password-in-the-world.html)
  - date published: 2013-09-15T12:04:50+00:00

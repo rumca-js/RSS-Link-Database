@@ -1,3 +1,9 @@
+## Google Made Billions with Secret Change to Ad-Auction Algorithm
+ - [https://finance.yahoo.com/news/google-changed-ad-auctions-raising-191333390.html](https://finance.yahoo.com/news/google-changed-ad-auctions-raising-191333390.html)
+ - date published: 2023-10-09T13:20:05+00:00
+ - user: rumpel
+ - tags: ['google', 'ad business']
+
 ## The Age of Surveillance Capitalism - Wikipedia
  - [https://en.m.wikipedia.org/wiki/The_Age_of_Surveillance_Capitalism](https://en.m.wikipedia.org/wiki/The_Age_of_Surveillance_Capitalism)
  - date published: 2023-10-06T15:23:06+00:00
@@ -273,6 +279,12 @@
  - date published: 2023-09-16T18:36:15+00:00
  - user: rumpel
  - tags: ['bechtel', 'billionaires']
+
+## No More Words. Why I quit Social Media.
+ - [https://www.youtube.com/watch?v=HLTNXTbFRhM](https://www.youtube.com/watch?v=HLTNXTbFRhM)
+ - date published: 2023-09-16T00:00:00+00:00
+ - user: rumpel
+ - tags: ['social media']
 
 ## Developers fight back against Unity’s new pricing model
  - [https://www.theverge.com/2023/9/15/23875396/unity-mobile-developers-ad-monetization-tos-changes](https://www.theverge.com/2023/9/15/23875396/unity-mobile-developers-ad-monetization-tos-changes)

@@ -2858,7 +2858,7 @@
  - [https://thecritic.co.uk/being-a-snowflake-is-bad-for-your-mental-health/](https://thecritic.co.uk/being-a-snowflake-is-bad-for-your-mental-health/)
  - date published: 2021-08-09T07:14:51+00:00
  - user: rumpel
- - tags: ['snowflake', 'sjw', 'activism', 'psychology', 'the left wing']
+ - tags: ['the left wing', 'snowflakes', 'activism', 'social justice warriors', 'psychology']
 
 ## The Infrastructure Bill Requires New Cars To Come With Unproven Drunk Driving Detection Technology – Reason.com
  - [https://reason.com/2021/08/06/the-infrastructure-bill-requires-new-cars-to-come-with-unproven-drunk-driving-detection-technology/](https://reason.com/2021/08/06/the-infrastructure-bill-requires-new-cars-to-come-with-unproven-drunk-driving-detection-technology/)
