@@ -6160,6 +6160,12 @@
  - user: None
  - tags: $tags
 
+## The Sordid Saga of Hunter Biden’s Laptop
+ - [https://nymag.com/intelligencer/article/hunter-biden-laptop-investigation.html](https://nymag.com/intelligencer/article/hunter-biden-laptop-investigation.html)
+ - date published: 2022-09-12T16:44:59+00:00
+ - user: rumpel
+ - tags: ['joe biden', 'hunter biden']
+
 ## Why we should link student loan forgiveness to national service | The Hill
  - [https://thehill.com/opinion/national-security/3631250-why-we-should-link-student-loan-forgiveness-to-national-service/](https://thehill.com/opinion/national-security/3631250-why-we-should-link-student-loan-forgiveness-to-national-service/)
  - date published: 2022-09-12T13:55:38.873906+00:00

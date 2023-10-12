@@ -4,6 +4,18 @@
  - user: rumpel
  - tags: ['google', 'ad business']
 
+## Microsoft 365 admins warned of new Google anti-spam rules
+ - [https://www.bleepingcomputer.com/news/security/microsoft-365-admins-warned-of-new-google-anti-spam-rules/](https://www.bleepingcomputer.com/news/security/microsoft-365-admins-warned-of-new-google-anti-spam-rules/)
+ - date published: 2023-10-08T15:09:08+00:00
+ - user: rumpel
+ - tags: ['email']
+
+## 23andMe scraping incident leaked data on 1.3M users
+ - [https://therecord.media/scraping-incident-genetic-testing-site](https://therecord.media/scraping-incident-genetic-testing-site)
+ - date published: 2023-10-06T20:08:52+00:00
+ - user: rumpel
+ - tags: ['23andme', 'vulnerability', 'data leak']
+
 ## The Age of Surveillance Capitalism - Wikipedia
  - [https://en.m.wikipedia.org/wiki/The_Age_of_Surveillance_Capitalism](https://en.m.wikipedia.org/wiki/The_Age_of_Surveillance_Capitalism)
  - date published: 2023-10-06T15:23:06+00:00
@@ -21,6 +33,12 @@
  - date published: 2023-10-05T13:42:37+00:00
  - user: rumpel
  - tags: ['hardware', 'computers']
+
+## Starlink carbon footprint up to 30 times size of land-based internet
+ - [https://www.newscientist.com/article/2394949-starlink-carbon-footprint-up-to-30-times-size-of-land-based-internet/](https://www.newscientist.com/article/2394949-starlink-carbon-footprint-up-to-30-times-size-of-land-based-internet/)
+ - date published: 2023-10-04T07:37:08+00:00
+ - user: rumpel
+ - tags: ['climate change', 'carbon footprint']
 
 ## Reasons not to use Google
  - [https://stallman.org/google.html](https://stallman.org/google.html)
