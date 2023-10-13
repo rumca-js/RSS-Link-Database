@@ -148,6 +148,12 @@
  - user: None
  - tags: ['monopoly', 'technofeudalism', 'censorship', 'subscription', 'youtube']
 
+## Why Rey is a Mary Sue and Luke Skywalker is Not
+ - [https://www.youtube.com/watch?v=JN8Qm5o0oSY](https://www.youtube.com/watch?v=JN8Qm5o0oSY)
+ - date published: 2019-11-09T00:00:00+00:00
+ - user: rumpel
+ - tags: ['movies']
+
 ## 79-Year-Old Man Beat on New York Subway for Preaching Gospel
  - [https://www.christianheadlines.com/contributors/mikaela-matthews/79-year-old-man-beat-on-new-york-subway-for-preaching-gospel.html](https://www.christianheadlines.com/contributors/mikaela-matthews/79-year-old-man-beat-on-new-york-subway-for-preaching-gospel.html)
  - date published: 2019-11-05T20:56:43+00:00
@@ -375,6 +381,12 @@
  - date published: 2019-09-05T10:08:30+00:00
  - user: rumpel
  - tags: ['programming', 'python']
+
+## Western vs Eastern Storytelling - What's the Difference? (A General Overview)
+ - [https://www.youtube.com/watch?v=ZGiajG2g-Nc](https://www.youtube.com/watch?v=ZGiajG2g-Nc)
+ - date published: 2019-09-03T00:00:00+00:00
+ - user: rumpel
+ - tags: ['movies']
 
 ## Tesla, the data company
  - [https://www.cio.com/article/220555/tesla-the-data-company.html](https://www.cio.com/article/220555/tesla-the-data-company.html)
@@ -885,6 +897,12 @@
  - date published: 2019-03-02T19:52:57+00:00
  - user: None
  - tags: ['meta', 'privacy', 'facebook']
+
+## Is ComicsGate Wrong? (Part 1) - NPC Marvel: An Era Without Heroes
+ - [https://www.youtube.com/watch?v=4JSyPIETzyo](https://www.youtube.com/watch?v=4JSyPIETzyo)
+ - date published: 2019-02-28T00:00:00+00:00
+ - user: rumpel
+ - tags: ['movies', 'social justice warriors', 'comics', 'the left wing']
 
 ## Why does Google limit results to only like 30 pages even for very popular search terms?
  - [https://www.quora.com/Why-does-Google-limit-results-to-only-like-30-pages-even-for-very-popular-search-terms?share=1](https://www.quora.com/Why-does-Google-limit-results-to-only-like-30-pages-even-for-very-popular-search-terms?share=1)

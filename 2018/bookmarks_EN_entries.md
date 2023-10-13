@@ -214,6 +214,12 @@
  - user: None
  - tags: $tags
 
+## Why Are So Many SJW Characters Mary Sues?
+ - [https://www.youtube.com/watch?v=KcXVGIi1m28](https://www.youtube.com/watch?v=KcXVGIi1m28)
+ - date published: 2018-09-01T00:00:00+00:00
+ - user: rumpel
+ - tags: ['mary sue', 'movies', 'social justice warriors', 'the left wing']
+
 ## Symbolism & Propaganda in Popular Culture
  - [https://www.youtube.com/watch?v=soh-3jiHq4s](https://www.youtube.com/watch?v=soh-3jiHq4s)
  - date published: 2018-08-31T20:44:15+00:00

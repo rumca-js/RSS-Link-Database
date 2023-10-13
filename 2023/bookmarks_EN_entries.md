@@ -1,3 +1,45 @@
+## Israel-Gaza war in maps and charts: Live Tracker
+ - [https://www.aljazeera.com/news/longform/2023/10/9/israel-hamas-war-in-maps-and-charts-live-tracker](https://www.aljazeera.com/news/longform/2023/10/9/israel-hamas-war-in-maps-and-charts-live-tracker)
+ - date published: 2023-10-12T15:00:17+00:00
+ - user: rumpel
+ - tags: ['palestine', 'israel', 'war']
+
+## Dan Harmon Story Circle: The 8-Step Storytelling Shortcut
+ - [https://blog.reedsy.com/guide/story-structure/dan-harmon-story-circle/](https://blog.reedsy.com/guide/story-structure/dan-harmon-story-circle/)
+ - date published: 2023-10-12T14:39:36+00:00
+ - user: rumpel
+ - tags: ['movies']
+
+## Hero's journey - Wikipedia
+ - [https://en.wikipedia.org/wiki/Hero%27s_journey](https://en.wikipedia.org/wiki/Hero%27s_journey)
+ - date published: 2023-10-12T14:37:27+00:00
+ - user: rumpel
+ - tags: ['movies']
+
+## Kishōtenketsu - Wikipedia
+ - [https://en.wikipedia.org/wiki/Kish%C5%8Dtenketsu](https://en.wikipedia.org/wiki/Kish%C5%8Dtenketsu)
+ - date published: 2023-10-12T14:36:55+00:00
+ - user: rumpel
+ - tags: ['movies']
+
+## Israel used white phosphorus bombs in Gaza, claim Medical sources
+ - [https://www.aa.com.tr/en/middle-east/israel-used-white-phosphorus-bombs-in-gaza-claim-medical-sources/3015950#](https://www.aa.com.tr/en/middle-east/israel-used-white-phosphorus-bombs-in-gaza-claim-medical-sources/3015950#)
+ - date published: 2023-10-12T10:01:28+00:00
+ - user: rumpel
+ - tags: ['israel']
+
+## Palestine death toll climbs to 950 as Israel raining phosphorous bombs on Gaza - Pakistan Observer
+ - [https://pakobserver.net/palestine-death-toll-climbs-to-950-as-israel-raining-phosphorous-bombs-on-gaza/](https://pakobserver.net/palestine-death-toll-climbs-to-950-as-israel-raining-phosphorous-bombs-on-gaza/)
+ - date published: 2023-10-11T10:00:08+00:00
+ - user: rumpel
+ - tags: ['israel']
+
+## The environmental impact of the AI revolution is starting to come into focus
+ - [https://www.theverge.com/2023/10/10/23911059/ai-climate-impact-google-openai-chatgpt-energy](https://www.theverge.com/2023/10/10/23911059/ai-climate-impact-google-openai-chatgpt-energy)
+ - date published: 2023-10-10T15:00:00+00:00
+ - user: rumpel
+ - tags: ['climate change', 'artificial intelligence']
+
 ## Google Made Billions with Secret Change to Ad-Auction Algorithm
  - [https://finance.yahoo.com/news/google-changed-ad-auctions-raising-191333390.html](https://finance.yahoo.com/news/google-changed-ad-auctions-raising-191333390.html)
  - date published: 2023-10-09T13:20:05+00:00
