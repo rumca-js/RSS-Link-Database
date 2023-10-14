@@ -1,3 +1,27 @@
+## Tesla workers shared sensitive images recorded by customers' cars: Ex-employees
+ - [https://www.abc.net.au/news/2023-04-08/tesla-workers-shared-sensitive-images-recorded-by-customer-cars/102202382](https://www.abc.net.au/news/2023-04-08/tesla-workers-shared-sensitive-images-recorded-by-customer-cars/102202382)
+ - date published: 2023-10-13T19:02:39+00:00
+ - user: rumpel
+ - tags: ['anonymity', 'privacy', 'surveillance']
+
+## Aurora Store | F-Droid - Free and Open Source Android App Repository
+ - [https://f-droid.org/packages/com.aurora.store/](https://f-droid.org/packages/com.aurora.store/)
+ - date published: 2023-10-13T12:30:23+00:00
+ - user: rumpel
+ - tags: ['lineageos']
+
+## The Pros and Cons of Ad Blocking Explained - EAVI
+ - [https://eavi.eu/explainer-pros-cons-adblocking/](https://eavi.eu/explainer-pros-cons-adblocking/)
+ - date published: 2023-10-13T06:20:40+00:00
+ - user: rumpel
+ - tags: ['ad business']
+
+## Mathematician warns US spies may be weakening next-gen encryption
+ - [https://www.newscientist.com/article/2396510-mathematician-warns-us-spies-may-be-weakening-next-gen-encryption/](https://www.newscientist.com/article/2396510-mathematician-warns-us-spies-may-be-weakening-next-gen-encryption/)
+ - date published: 2023-10-13T03:51:32+00:00
+ - user: rumpel
+ - tags: ['crypto wars']
+
 ## Israel-Gaza war in maps and charts: Live Tracker
  - [https://www.aljazeera.com/news/longform/2023/10/9/israel-hamas-war-in-maps-and-charts-live-tracker](https://www.aljazeera.com/news/longform/2023/10/9/israel-hamas-war-in-maps-and-charts-live-tracker)
  - date published: 2023-10-12T15:00:17+00:00
@@ -28,6 +52,12 @@
  - user: rumpel
  - tags: ['israel']
 
+## Henry Kissinger on Hamas attacks fallout: Germany let in too many foreigners
+ - [https://www.politico.eu/article/henry-kissinger-germany-let-in-way-too-many-foreigners/](https://www.politico.eu/article/henry-kissinger-germany-let-in-way-too-many-foreigners/)
+ - date published: 2023-10-11T23:28:18.618127+00:00
+ - user: rumpel
+ - tags: ['immigration']
+
 ## Palestine death toll climbs to 950 as Israel raining phosphorous bombs on Gaza - Pakistan Observer
  - [https://pakobserver.net/palestine-death-toll-climbs-to-950-as-israel-raining-phosphorous-bombs-on-gaza/](https://pakobserver.net/palestine-death-toll-climbs-to-950-as-israel-raining-phosphorous-bombs-on-gaza/)
  - date published: 2023-10-11T10:00:08+00:00
@@ -39,12 +69,6 @@
  - date published: 2023-10-10T15:00:00+00:00
  - user: rumpel
  - tags: ['climate change', 'artificial intelligence']
-
-## Google Made Billions with Secret Change to Ad-Auction Algorithm
- - [https://finance.yahoo.com/news/google-changed-ad-auctions-raising-191333390.html](https://finance.yahoo.com/news/google-changed-ad-auctions-raising-191333390.html)
- - date published: 2023-10-09T13:20:05+00:00
- - user: rumpel
- - tags: ['google', 'ad business']
 
 ## Microsoft 365 admins warned of new Google anti-spam rules
  - [https://www.bleepingcomputer.com/news/security/microsoft-365-admins-warned-of-new-google-anti-spam-rules/](https://www.bleepingcomputer.com/news/security/microsoft-365-admins-warned-of-new-google-anti-spam-rules/)
@@ -63,6 +87,12 @@
  - date published: 2023-10-06T15:23:06+00:00
  - user: rumpel
  - tags: ['book']
+
+## Google Changed Ad Auctions, Raising Prices 15%, Witness Says
+ - [https://www.bloomberg.com/news/articles/2023-10-06/google-changed-ad-auctions-raising-prices-15-witness-says](https://www.bloomberg.com/news/articles/2023-10-06/google-changed-ad-auctions-raising-prices-15-witness-says)
+ - date published: 2023-10-06T10:47:35+00:00
+ - user: rumpel
+ - tags: ['ad business', 'google']
 
 ## 'I was kidnapped by my runaway electric car'
  - [https://www.bbc.com/news/uk-scotland-67005620](https://www.bbc.com/news/uk-scotland-67005620)
@@ -2745,6 +2775,12 @@
  - date published: 2023-06-21T05:32:15+00:00
  - user: rumpel
  - tags: ['racism']
+
+## Ancient Demons Behind The Gay Movement
+ - [https://www.youtube.com/watch?v=HUJU-VvvU0E](https://www.youtube.com/watch?v=HUJU-VvvU0E)
+ - date published: 2023-06-21T00:00:00+00:00
+ - user: rumpel
+ - tags: ['religion']
 
 ## New emails show COVID vaccine mandates were based on a lie | Washington Examiner
  - [https://www.washingtonexaminer.com/opinion/new-emails-show-covid-vaccine-mandates-were-based-on-a-lie](https://www.washingtonexaminer.com/opinion/new-emails-show-covid-vaccine-mandates-were-based-on-a-lie)

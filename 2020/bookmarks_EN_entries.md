@@ -1630,6 +1630,12 @@
  - user: rumpel
  - tags: ['ben shapiro', 'social democracy']
 
+## Energy Conservation with Open Source Ad Blockers
+ - [https://www.mdpi.com/2227-7080/8/2/18](https://www.mdpi.com/2227-7080/8/2/18)
+ - date published: 2020-03-05T06:49:23+00:00
+ - user: rumpel
+ - tags: ['ad business']
+
 ## A Military-Funded Biosensor Could Be the Future of Pandemic Detection - Defense One
  - [https://www.defenseone.com/technology/2020/03/military-funded-biosensor-could-be-future-pandemic-detection/163497/](https://www.defenseone.com/technology/2020/03/military-funded-biosensor-could-be-future-pandemic-detection/163497/)
  - date published: 2020-03-03T20:13:44+00:00

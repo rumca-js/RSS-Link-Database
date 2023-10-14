@@ -4090,6 +4090,12 @@
  - user: None
  - tags: ['bill gates', 'jeffrey epstein']
 
+## Israel's borders explained in maps
+ - [https://www.bbc.com/news/world-middle-east-54116567](https://www.bbc.com/news/world-middle-east-54116567)
+ - date published: 2021-05-19T11:09:31+00:00
+ - user: rumpel
+ - tags: ['palestine', 'israel']
+
 ## World Economic Forum Urges Companies To Fire Unvaccinated Employees As Part of ‘Jobs Reset,’ Deletes Tweet After Backlash
  - [https://nationalfile.com/world-economic-forum-urges-companies-to-fire-unvaccinated-employees-as-part-of-jobs-reset-deletes-tweet-after-backlash/](https://nationalfile.com/world-economic-forum-urges-companies-to-fire-unvaccinated-employees-as-part-of-jobs-reset-deletes-tweet-after-backlash/)
  - date published: 2021-05-18T22:10:14+00:00

@@ -94,6 +94,12 @@
  - user: None
  - tags: ['social engineering', 'big brother', 'propaganda']
 
+## Maps of Palestine - PalestineRemix
+ - [https://remix.aljazeera.com/aje/PalestineRemix/maps_main.html](https://remix.aljazeera.com/aje/PalestineRemix/maps_main.html)
+ - date published: 2014-10-13T11:08:20+00:00
+ - user: rumpel
+ - tags: ['palestine', 'israel']
+
 ## Citizenfour Official Trailer 1 (2014) - Edward Snowden Documentary HD
  - [https://www.youtube.com/watch?v=XiGwAvd5mvM](https://www.youtube.com/watch?v=XiGwAvd5mvM)
  - date published: 2014-10-10T00:00:00+00:00
@@ -147,6 +153,12 @@
  - date published: 2014-08-28T06:32:00+00:00
  - user: rumpel
  - tags: ['ad business', 'atlas', 'facebook']
+
+## For me, the Internet is largely unusable without adblock at the very least. I re... | Hacker News
+ - [https://news.ycombinator.com/item?id=8172586](https://news.ycombinator.com/item?id=8172586)
+ - date published: 2014-08-13T10:55:48+00:00
+ - user: rumpel
+ - tags: ['ad business']
 
 ## Slavoj Žižek on "They Live" (The Pervert's Guide to Ideology)
  - [https://www.youtube.com/watch?v=TVwKjGbz60k](https://www.youtube.com/watch?v=TVwKjGbz60k)
