@@ -4,6 +4,12 @@
  - user: rumpel
  - tags: ['flu', 'covid', 'vaccine', 'anthony fauci']
 
+## EU fish ministers to vote on software patents
+ - [https://www.theregister.com/2004/12/20/patents_vote/](https://www.theregister.com/2004/12/20/patents_vote/)
+ - date published: 2004-12-20T18:52:36+00:00
+ - user: rumpel
+ - tags: ['dark design', 'european union', 'manufacturing consent']
+
 ## George Soros: The 'God' Who Carries Around Some Dangerous Demons - Los Angeles Times
  - [https://www.latimes.com/archives/la-xpm-2004-oct-04-oe-ehrenfeld4-story.html](https://www.latimes.com/archives/la-xpm-2004-oct-04-oe-ehrenfeld4-story.html)
  - date published: 2004-10-04T17:43:52+00:00

@@ -1,3 +1,33 @@
+## Third Temple - Wikipedia
+ - [https://en.wikipedia.org/wiki/Third_Temple](https://en.wikipedia.org/wiki/Third_Temple)
+ - date published: 2023-10-14T20:48:05+00:00
+ - user: rumpel
+ - tags: ['israel', 'third temple']
+
+## End-Time Prophecy: Why is the Third Temple so Important? | Messianic Bible
+ - [https://free.messianicbible.com/feature/end-time-prophecy-why-is-the-third-temple-so-important/](https://free.messianicbible.com/feature/end-time-prophecy-why-is-the-third-temple-so-important/)
+ - date published: 2023-10-14T20:45:16+00:00
+ - user: rumpel
+ - tags: ['third temple', 'israel']
+
+## Undermining Democracy: The EU Commission's Controversial Push for Surveillance
+ - [https://dannymekic.com/202310/undermining-democracy-the-european-commissions-controversial-push-for-digital-surveillance](https://dannymekic.com/202310/undermining-democracy-the-european-commissions-controversial-push-for-digital-surveillance)
+ - date published: 2023-10-14T14:16:46+00:00
+ - user: rumpel
+ - tags: ['privacy', 'government control', 'big brother', 'surveillance']
+
+## An Intelligent Wikipedia
+ - [https://matt-rickard.com/an-intelligent-wikipedia](https://matt-rickard.com/an-intelligent-wikipedia)
+ - date published: 2023-10-14T13:30:26+00:00
+ - user: rumpel
+ - tags: ['wikipedia']
+
+## The Education Propaganda Machine
+ - [https://www.youtube.com/watch?v=U9AZbROlOdk](https://www.youtube.com/watch?v=U9AZbROlOdk)
+ - date published: 2023-10-13T21:51:04+00:00
+ - user: rumpel
+ - tags: ['education', 'school']
+
 ## Tesla workers shared sensitive images recorded by customers' cars: Ex-employees
  - [https://www.abc.net.au/news/2023-04-08/tesla-workers-shared-sensitive-images-recorded-by-customer-cars/102202382](https://www.abc.net.au/news/2023-04-08/tesla-workers-shared-sensitive-images-recorded-by-customer-cars/102202382)
  - date published: 2023-10-13T19:02:39+00:00
