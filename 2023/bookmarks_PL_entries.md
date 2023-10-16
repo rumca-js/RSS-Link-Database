@@ -1,3 +1,9 @@
+## Youtuber, przemoc, zagrożenie - lekcja z Pandora gate
+ - [https://epedagogika.pl/top-tematy/czy-znany-youtuber-moze-byc-zagrozeniem-jaka-lekcja-na-temat-przemocy-w-sieci-plynie-z-afery-pandora-gate-7359.html](https://epedagogika.pl/top-tematy/czy-znany-youtuber-moze-byc-zagrozeniem-jaka-lekcja-na-temat-przemocy-w-sieci-plynie-z-afery-pandora-gate-7359.html)
+ - date published: 2023-10-12T06:10:52+00:00
+ - user: rumpel
+ - tags: ['pandora gate', 'youtube']
+
 ## Walka z COVID-19 w Polsce. Raport NIK zarzuca władzy "daleko idącą niegospodarność"
  - [https://www.rp.pl/polityka/art39180861-walka-z-covid-19-w-polsce-raport-nik-zarzuca-wladzy-daleko-idaca-niegospodarnosc](https://www.rp.pl/polityka/art39180861-walka-z-covid-19-w-polsce-raport-nik-zarzuca-wladzy-daleko-idaca-niegospodarnosc)
  - date published: 2023-09-28T10:42:30+00:00
