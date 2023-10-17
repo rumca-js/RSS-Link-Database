@@ -40,6 +40,12 @@
  - user: rumpel
  - tags: ['lineageos']
 
+## ‘Most cherished friend’: UK unearths messages from Staley to Epstein
+ - [https://www.ft.com/content/7b9505ac-94c3-4688-a84d-cbecbf4f1f3b](https://www.ft.com/content/7b9505ac-94c3-4688-a84d-cbecbf4f1f3b)
+ - date published: 2023-10-13T10:00:29+00:00
+ - user: rumpel
+ - tags: ['jes staley', 'jeffrey epstein']
+
 ## The Pros and Cons of Ad Blocking Explained - EAVI
  - [https://eavi.eu/explainer-pros-cons-adblocking/](https://eavi.eu/explainer-pros-cons-adblocking/)
  - date published: 2023-10-13T06:20:40+00:00
@@ -51,6 +57,12 @@
  - date published: 2023-10-13T03:51:32+00:00
  - user: rumpel
  - tags: ['crypto wars']
+
+## ‘Call me’: FCA releases messages between former Barclays boss and Jeffrey Epstein
+ - [https://www.theguardian.com/business/2023/oct/12/call-me-fca-releases-messages-between-former-barclays-boss-and-jeffrey-epstein](https://www.theguardian.com/business/2023/oct/12/call-me-fca-releases-messages-between-former-barclays-boss-and-jeffrey-epstein)
+ - date published: 2023-10-12T18:21:35+00:00
+ - user: rumpel
+ - tags: ['jes staley', 'jeffrey epstein']
 
 ## Israel-Gaza war in maps and charts: Live Tracker
  - [https://www.aljazeera.com/news/longform/2023/10/9/israel-hamas-war-in-maps-and-charts-live-tracker](https://www.aljazeera.com/news/longform/2023/10/9/israel-hamas-war-in-maps-and-charts-live-tracker)
