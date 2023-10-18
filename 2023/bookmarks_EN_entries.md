@@ -1,3 +1,9 @@
+## Piped – An alternative privacy-friendly YouTube front end
+ - [https://github.com/TeamPiped/Piped](https://github.com/TeamPiped/Piped)
+ - date published: 2023-10-17T08:19:28+00:00
+ - user: rumpel
+ - tags: ['selfhost', 'youtube']
+
 ## Third Temple - Wikipedia
  - [https://en.wikipedia.org/wiki/Third_Temple](https://en.wikipedia.org/wiki/Third_Temple)
  - date published: 2023-10-14T20:48:05+00:00
