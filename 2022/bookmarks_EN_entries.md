@@ -4864,12 +4864,6 @@
  - user: None
  - tags: $tags
 
-## California becomes first state to offer legal refuge for trans youth and families
- - [https://www.reddit.com/r/politics/comments/xu4613/california_becomes_first_state_to_offer_legal/](https://www.reddit.com/r/politics/comments/xu4613/california_becomes_first_state_to_offer_legal/)
- - date published: 2022-10-03T00:13:41+00:00
- - user: None
- - tags: ['california', 'big brother', 'the left wing', 'lgbt', 'transgender']
-
 ## Software engineering practices
  - [https://simonwillison.net/2022/Oct/1/software-engineering-practices/](https://simonwillison.net/2022/Oct/1/software-engineering-practices/)
  - date published: 2022-10-02T09:57:51.076905+00:00
@@ -5338,12 +5332,6 @@
  - user: None
  - tags: ['subscription', 'technofeudalism', 'dark design']
 
-## Bill Gates says political polarization 'may bring it all to an end' and could even lead to a civil war
- - [https://www.reddit.com/r/politics/comments/xn2q5t/bill_gates_says_political_polarization_may_bring/](https://www.reddit.com/r/politics/comments/xn2q5t/bill_gates_says_political_polarization_may_bring/)
- - date published: 2022-09-24T20:09:40+00:00
- - user: None
- - tags: ['politics', 'bill gates']
-
 ## Linux on the laptop works so damn well that it’s boring
  - [https://clivethompson.medium.com/linux-on-the-laptop-works-so-damn-well-that-its-boring-29014b347941](https://clivethompson.medium.com/linux-on-the-laptop-works-so-damn-well-that-its-boring-29014b347941)
  - date published: 2022-09-24T17:04:50+00:00
@@ -5499,12 +5487,6 @@
  - date published: 2022-09-22T16:30:34+00:00
  - user: rumpel
  - tags: ['bank', 'lebanon', 'crisis']
-
-## Fed in 'Full Recession-Creating Mode' Comes Under Fire for Another Interest Rate Hike | "Raising interest rates puts the burden of fighting inflation on low-wage workers," notes former Labor Secretary Robert Reich. "For once, let's take aim at an actual driver of inflation: corporate profits."
- - [https://www.reddit.com/r/politics/comments/xl2fas/fed_in_full_recessioncreating_mode_comes_under/](https://www.reddit.com/r/politics/comments/xl2fas/fed_in_full_recessioncreating_mode_comes_under/)
- - date published: 2022-09-22T14:08:34+00:00
- - user: None
- - tags: $tags
 
 ## Facebook proven to negatively impact mental health
  - [https://english.tau.ac.il/science_links_facebook_mental_health](https://english.tau.ac.il/science_links_facebook_mental_health)
@@ -5691,12 +5673,6 @@
  - date published: 2022-09-19T14:05:02+00:00
  - user: None
  - tags: ['linux']
-
-## Texas has banned more books than any other state, new report shows
- - [https://www.reddit.com/r/politics/comments/xi7prr/texas_has_banned_more_books_than_any_other_state/](https://www.reddit.com/r/politics/comments/xi7prr/texas_has_banned_more_books_than_any_other_state/)
- - date published: 2022-09-19T10:04:28+00:00
- - user: None
- - tags: ['fahrenheit 451']
 
 ## Banned in the USA: The Growing Movement to Ban Books - PEN America
  - [https://pen.org/report/banned-usa-growing-movement-to-censor-books-in-schools/](https://pen.org/report/banned-usa-growing-movement-to-censor-books-in-schools/)
@@ -7119,6 +7095,12 @@
  - date published: 2022-08-23T20:40:13+00:00
  - user: None
  - tags: $tags
+
+## Google refuses to reinstate man’s account after he took medical images of son’s groin
+ - [https://www.theguardian.com/technology/2022/aug/22/google-csam-account-blocked](https://www.theguardian.com/technology/2022/aug/22/google-csam-account-blocked)
+ - date published: 2022-08-23T11:01:46+00:00
+ - user: rumpel
+ - tags: ['deplatform', 'censorship']
 
 ## YouTube joins Facebook in banning Andrew Tate
  - [https://www.bbc.co.uk/news/technology-62602913?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-62602913?at_medium=RSS&at_campaign=KARANGA)

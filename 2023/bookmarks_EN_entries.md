@@ -1,3 +1,21 @@
+## London Mayor Signs Order Forcing Londoners To Adopt ‘Planetary Health Diet’ By 2030
+ - [https://www.planet-today.com/2023/10/london-mayor-signs-order-forcing.html?m=1](https://www.planet-today.com/2023/10/london-mayor-signs-order-forcing.html?m=1)
+ - date published: 2023-10-19T06:44:30+00:00
+ - user: rumpel
+ - tags: ['planetarny health diet', 'climate change']
+
+## I'm banned for life from advertising on Meta. Because I teach Python.
+ - [https://lerner.co.il/2023/10/19/im-banned-for-life-from-advertising-on-meta-because-i-teach-python/](https://lerner.co.il/2023/10/19/im-banned-for-life-from-advertising-on-meta-because-i-teach-python/)
+ - date published: 2023-10-19T06:32:18+00:00
+ - user: rumpel
+ - tags: ['censorship', 'deplatform', 'artificial intelligence', 'dead internet', 'meta']
+
+## Google-hosted malvertising leads to fake Keepass site that looks genuine
+ - [https://arstechnica.com/security/2023/10/google-hosted-malvertising-leads-to-fake-keepass-site-that-looks-genuine/](https://arstechnica.com/security/2023/10/google-hosted-malvertising-leads-to-fake-keepass-site-that-looks-genuine/)
+ - date published: 2023-10-19T05:33:24+00:00
+ - user: rumpel
+ - tags: ['malvertising']
+
 ## Piped – An alternative privacy-friendly YouTube front end
  - [https://github.com/TeamPiped/Piped](https://github.com/TeamPiped/Piped)
  - date published: 2023-10-17T08:19:28+00:00
@@ -118,6 +136,12 @@
  - user: rumpel
  - tags: ['climate change', 'artificial intelligence']
 
+## ING’s German Unit Drops High CO2-Risk Clients
+ - [https://www.bloomberg.com/news/articles/2023-10-09/ing-german-executive-says-bank-is-dropping-high-co2-risk-clients](https://www.bloomberg.com/news/articles/2023-10-09/ing-german-executive-says-bank-is-dropping-high-co2-risk-clients)
+ - date published: 2023-10-09T08:31:24+00:00
+ - user: rumpel
+ - tags: ['climate change', 'global warming']
+
 ## Microsoft 365 admins warned of new Google anti-spam rules
  - [https://www.bleepingcomputer.com/news/security/microsoft-365-admins-warned-of-new-google-anti-spam-rules/](https://www.bleepingcomputer.com/news/security/microsoft-365-admins-warned-of-new-google-anti-spam-rules/)
  - date published: 2023-10-08T15:09:08+00:00
@@ -128,7 +152,7 @@
  - [https://therecord.media/scraping-incident-genetic-testing-site](https://therecord.media/scraping-incident-genetic-testing-site)
  - date published: 2023-10-06T20:08:52+00:00
  - user: rumpel
- - tags: ['23andme', 'vulnerability', 'data leak']
+ - tags: ['data leak', 'vulnerability', 'privacy', '23andme']
 
 ## The Age of Surveillance Capitalism - Wikipedia
  - [https://en.m.wikipedia.org/wiki/The_Age_of_Surveillance_Capitalism](https://en.m.wikipedia.org/wiki/The_Age_of_Surveillance_Capitalism)

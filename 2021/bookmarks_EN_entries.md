@@ -820,6 +820,12 @@
  - user: Thomas Pain
  - tags: $tags
 
+## Zuck Banned Me – My Facebook got hacked, then Meta banned me from all services
+ - [https://zuckbannedme.com/](https://zuckbannedme.com/)
+ - date published: 2021-11-19T14:08:18+00:00
+ - user: rumpel
+ - tags: ['deplatform', 'censorship']
+
 ## It’s Time To Break Up With Our Gas Stoves | Climate Town
  - [https://www.youtube.com/watch?v=hX2aZUav-54](https://www.youtube.com/watch?v=hX2aZUav-54)
  - date published: 2021-11-18T21:16:55+00:00
@@ -1725,6 +1731,12 @@
  - date published: 2021-10-08T13:28:25.375796+00:00
  - user: Thomas Pain
  - tags: $tags
+
+## Facebook bans developer behind Unfollow Everything tool
+ - [https://www.theverge.com/2021/10/8/22716044/facebook-unfollow-everything-tool-louis-barclay-banned-for-life](https://www.theverge.com/2021/10/8/22716044/facebook-unfollow-everything-tool-louis-barclay-banned-for-life)
+ - date published: 2021-10-08T10:59:50+00:00
+ - user: rumpel
+ - tags: ['deplatform', 'censorship', 'facebook']
 
 ## Facebook banned me for life because I created the tool Unfollow Everything.
  - [https://slate.com/technology/2021/10/facebook-unfollow-everything-cease-desist.html](https://slate.com/technology/2021/10/facebook-unfollow-everything-cease-desist.html)
