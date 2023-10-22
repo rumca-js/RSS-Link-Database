@@ -1,3 +1,15 @@
+## GitHub - Stability-AI/stablediffusion: High-Resolution Image Synthesis with Latent Diffusion Models
+ - [https://github.com/Stability-AI/StableDiffusion](https://github.com/Stability-AI/StableDiffusion)
+ - date published: 2023-10-21T06:51:43+00:00
+ - user: rumpel
+ - tags: ['stable diffusion', 'artificial intelligence']
+
+## Don't use DISTINCT as a "join-fixer"
+ - [https://www.red-gate.com/simple-talk/databases/sql-server/t-sql-programming-sql-server/dont-use-distinct-as-a-join-fixer/](https://www.red-gate.com/simple-talk/databases/sql-server/t-sql-programming-sql-server/dont-use-distinct-as-a-join-fixer/)
+ - date published: 2023-10-20T22:52:17+00:00
+ - user: rumpel
+ - tags: ['sql']
+
 ## London Mayor Signs Order Forcing Londoners To Adopt ‘Planetary Health Diet’ By 2030
  - [https://www.planet-today.com/2023/10/london-mayor-signs-order-forcing.html?m=1](https://www.planet-today.com/2023/10/london-mayor-signs-order-forcing.html?m=1)
  - date published: 2023-10-19T06:44:30+00:00
@@ -9,6 +21,12 @@
  - date published: 2023-10-19T06:32:18+00:00
  - user: rumpel
  - tags: ['censorship', 'deplatform', 'artificial intelligence', 'dead internet', 'meta']
+
+## Google Will Soon Scan Sideloaded Android Apps for Malicious Code
+ - [https://www.pcmag.com/news/google-will-soon-scan-sideloaded-android-apps-for-malicious-code](https://www.pcmag.com/news/google-will-soon-scan-sideloaded-android-apps-for-malicious-code)
+ - date published: 2023-10-19T06:08:12+00:00
+ - user: rumpel
+ - tags: ['google', 'technofeudalism']
 
 ## Google-hosted malvertising leads to fake Keepass site that looks genuine
  - [https://arstechnica.com/security/2023/10/google-hosted-malvertising-leads-to-fake-keepass-site-that-looks-genuine/](https://arstechnica.com/security/2023/10/google-hosted-malvertising-leads-to-fake-keepass-site-that-looks-genuine/)
