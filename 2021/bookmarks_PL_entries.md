@@ -70,6 +70,12 @@
  - user: rumpel
  - tags: ['feminism', 'discrimination', 'trolling', 'inequality']
 
+## Rozpoznawanie twarzy weszło na wyższy poziom. W Moskwie tak płaci się za przejazdy metrem
+ - [https://www.chip.pl/2021/10/rozpoznawanie-twarzy-metro-moskwa/](https://www.chip.pl/2021/10/rozpoznawanie-twarzy-metro-moskwa/)
+ - date published: 2021-10-17T12:04:49+00:00
+ - user: None
+ - tags: $tags
+
 ## Safer Enums in Go
  - [https://threedots.tech/post/safer-enums-in-go/](https://threedots.tech/post/safer-enums-in-go/)
  - date published: 2021-10-15T18:34:57.456892+00:00
