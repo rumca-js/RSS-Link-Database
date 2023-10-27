@@ -1,3 +1,9 @@
+## Israel to refuse visas to UN officials after Guterres speech on Gaza war | United Nations News | Al Jazeera
+ - [https://www.aljazeera.com/news/2023/10/25/israel-to-refuse-visas-to-un-officials-after-guterres-speech-on-gaza-war](https://www.aljazeera.com/news/2023/10/25/israel-to-refuse-visas-to-un-officials-after-guterres-speech-on-gaza-war)
+ - date published: 2023-10-25T06:21:05+00:00
+ - user: rumpel
+ - tags: ['israel']
+
 ## Motorola is disabling Android phones purchased through unauthorized sellers in Mexico
  - [https://9to5google.com/2023/09/25/motorola-disabling-mexico-smartphones/](https://9to5google.com/2023/09/25/motorola-disabling-mexico-smartphones/)
  - date published: 2023-10-24T11:36:31+00:00
