@@ -1,3 +1,9 @@
+## Israel accuses Amnesty International of anti-Semitism – Politico
+ - [https://www.rt.com/news/585966-israel-accuses-amnesty-international-antisemitism/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/585966-israel-accuses-amnesty-international-antisemitism/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
+ - date published: 2023-10-27T14:41:44+00:00
+ - user: rumpel
+ - tags: ['israel']
+
 ## Israel to refuse visas to UN officials after Guterres speech on Gaza war | United Nations News | Al Jazeera
  - [https://www.aljazeera.com/news/2023/10/25/israel-to-refuse-visas-to-un-officials-after-guterres-speech-on-gaza-war](https://www.aljazeera.com/news/2023/10/25/israel-to-refuse-visas-to-un-officials-after-guterres-speech-on-gaza-war)
  - date published: 2023-10-25T06:21:05+00:00

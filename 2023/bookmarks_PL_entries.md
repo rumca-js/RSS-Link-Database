@@ -1,3 +1,9 @@
+## Nowe badanie: Szczepionki na COVID i grypę zwiększają ryzyko udaru u seniorów
+ - [https://www.rp.pl/covid19/art39326731-nowe-badanie-szczepionki-na-covid-i-grype-zwiekszaja-ryzyko-udaru-u-seniorow](https://www.rp.pl/covid19/art39326731-nowe-badanie-szczepionki-na-covid-i-grype-zwiekszaja-ryzyko-udaru-u-seniorow)
+ - date published: 2023-10-26T07:49:36+00:00
+ - user: rumpel
+ - tags: ['covid']
+
 ## Youtuber, przemoc, zagrożenie - lekcja z Pandora gate
  - [https://epedagogika.pl/top-tematy/czy-znany-youtuber-moze-byc-zagrozeniem-jaka-lekcja-na-temat-przemocy-w-sieci-plynie-z-afery-pandora-gate-7359.html](https://epedagogika.pl/top-tematy/czy-znany-youtuber-moze-byc-zagrozeniem-jaka-lekcja-na-temat-przemocy-w-sieci-plynie-z-afery-pandora-gate-7359.html)
  - date published: 2023-10-12T06:10:52+00:00
