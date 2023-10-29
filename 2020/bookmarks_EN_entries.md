@@ -196,6 +196,12 @@
  - user: rumpel
  - tags: ['surveillance', 'corporatocracy', 'big brother', 'biometric']
 
+## ALLi Watchdog Report: How Audible and ACX Betrayed Authors
+ - [https://selfpublishingadvice.org/audible-acx-returns-exchanges-audiblegate](https://selfpublishingadvice.org/audible-acx-returns-exchanges-audiblegate)
+ - date published: 2020-12-10T07:06:02+00:00
+ - user: rumpel
+ - tags: ['dark design', 'audible', 'amazon', 'corporatocracy']
+
 ## Facebook hit with antitrust lawsuit from FTC and 48 state attorneys general - ABC News
  - [https://abcnews.go.com/Business/facebook-hit-antitrust-lawsuit-ftc-48-state-attorneys/story?id=74623634](https://abcnews.go.com/Business/facebook-hit-antitrust-lawsuit-ftc-48-state-attorneys/story?id=74623634)
  - date published: 2020-12-09T19:21:03+00:00

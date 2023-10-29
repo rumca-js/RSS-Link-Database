@@ -16,6 +16,12 @@
  - user: rumpel
  - tags: ['android', 'technofeudalism']
 
+## The poster’s guide to the internet of the future
+ - [https://www.theverge.com/2023/10/23/23928550/posse-posting-activitypub-standard-twitter-tumblr-mastodon](https://www.theverge.com/2023/10/23/23928550/posse-posting-activitypub-standard-twitter-tumblr-mastodon)
+ - date published: 2023-10-23T14:24:47+00:00
+ - user: rumpel
+ - tags: ['posse', 'monopoly', 'centralisation', 'decentralisation', 'technofeudalism']
+
 ## https://www.perplexity.ai
  - [https://www.perplexity.ai](https://www.perplexity.ai)
  - date published: 2023-10-23T07:50:10+00:00
@@ -6225,6 +6231,12 @@
  - date published: 2023-03-09T05:00:00+00:00
  - user: rumpel
  - tags: ['leak']
+
+## Chokepoint Capitalism with Cory Doctorow - FACTUALLY Podcast
+ - [https://www.youtube.com/watch?v=vluAOGJPPoM](https://www.youtube.com/watch?v=vluAOGJPPoM)
+ - date published: 2023-03-09T00:00:00+00:00
+ - user: rumpel
+ - tags: ['capitalism', 'monopoly', 'enshittification']
 
 ## Covid’s effect on mental health not as great as first thought, study suggests
  - [https://www.theguardian.com/society/2023/mar/08/covid-effect-mental-health-study-mcgill-university](https://www.theguardian.com/society/2023/mar/08/covid-effect-mental-health-study-mcgill-university)
