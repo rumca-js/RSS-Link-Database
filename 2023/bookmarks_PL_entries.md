@@ -1,3 +1,9 @@
+## Pytania o elektryczną rewolucję. Koncerny mówią o poważnym problemie
+ - [https://motoryzacja.interia.pl/raport-samochody-elektryczne/news-to-juz-koniec-trendu-na-elektryki-koncerny-mowia-o-powaznym-,nId,7113222](https://motoryzacja.interia.pl/raport-samochody-elektryczne/news-to-juz-koniec-trendu-na-elektryki-koncerny-mowia-o-powaznym-,nId,7113222)
+ - date published: 2023-10-28T18:29:21+00:00
+ - user: rumpel
+ - tags: ['electric vehicles', 'climate change']
+
 ## Nowe badanie: Szczepionki na COVID i grypę zwiększają ryzyko udaru u seniorów
  - [https://www.rp.pl/covid19/art39326731-nowe-badanie-szczepionki-na-covid-i-grype-zwiekszaja-ryzyko-udaru-u-seniorow](https://www.rp.pl/covid19/art39326731-nowe-badanie-szczepionki-na-covid-i-grype-zwiekszaja-ryzyko-udaru-u-seniorow)
  - date published: 2023-10-26T07:49:36+00:00

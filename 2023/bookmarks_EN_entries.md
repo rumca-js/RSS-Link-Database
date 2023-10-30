@@ -910,6 +910,12 @@
  - user: rumpel
  - tags: ['covid', 'vaccine']
 
+## No human remains found 2 years after claims of ‘mass graves’ in Canada
+ - [https://nypost.com/2023/08/31/still-no-evidence-of-mass-graves-of-indigenous-children-in-canada](https://nypost.com/2023/08/31/still-no-evidence-of-mass-graves-of-indigenous-children-in-canada)
+ - date published: 2023-08-30T18:26:09+00:00
+ - user: rumpel
+ - tags: ['canada', 'church scandal']
+
 ## Anti-Toxicity Progress Report – Voice Chat Moderation
  - [https://www.callofduty.com/blog/2023/08/call-of-duty-modern-warfare-warzone-anti-toxicity-progress-report](https://www.callofduty.com/blog/2023/08/call-of-duty-modern-warfare-warzone-anti-toxicity-progress-report)
  - date published: 2023-08-30T10:35:54+00:00
