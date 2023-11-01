@@ -1822,6 +1822,12 @@
  - user: rumpel
  - tags: ['surveillance', 'facial recognition', 'big brother', 'biometric']
 
+## Experience: I campaign for the extinction of the human race
+ - [https://www.theguardian.com/lifeandstyle/2020/jan/10/i-campaign-for-the-extinction-of-the-human-race-les-knight](https://www.theguardian.com/lifeandstyle/2020/jan/10/i-campaign-for-the-extinction-of-the-human-race-les-knight)
+ - date published: 2020-01-10T20:43:50+00:00
+ - user: rumpel
+ - tags: ['voluntary human extinction', 'depopulation', 'propaganda']
+
 ## Ring Fired Employees for Watching Customer Videos
  - [https://www.vice.com/en/article/y3mdvk/ring-fired-employees-abusing-video-data](https://www.vice.com/en/article/y3mdvk/ring-fired-employees-abusing-video-data)
  - date published: 2020-01-08T12:16:22+00:00

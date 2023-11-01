@@ -568,6 +568,12 @@
  - user: rumpel
  - tags: ['inequality', 'james damore', 'feminism', 'jordan peterson', 'google']
 
+## Israel says to send thousands of African migrants to Western countries
+ - [https://www.nbcnews.com/news/world/israel-strikes-u-n-deal-send-thousands-african-migrants-western-n861956](https://www.nbcnews.com/news/world/israel-strikes-u-n-deal-send-thousands-african-migrants-western-n861956)
+ - date published: 2018-04-02T18:16:21+00:00
+ - user: rumpel
+ - tags: ['israel', 'immigration']
+
 ## Sinclair Faces Backlash Over Scripted Anti-Media Promos - Variety
  - [https://variety.com/2018/tv/news/sinclair-promos-backlash-1202741019/](https://variety.com/2018/tv/news/sinclair-promos-backlash-1202741019/)
  - date published: 2018-04-01T09:48:50+00:00

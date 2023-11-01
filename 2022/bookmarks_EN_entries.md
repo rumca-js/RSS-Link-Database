@@ -2116,6 +2116,12 @@
  - user: rumpel
  - tags: ['electric vehicles', 'technofeudalism', 'subscribtion', 'mercedes']
 
+## Earth Now Has 8 Billion Humans. This Man Wishes There Were None.
+ - [https://www.nytimes.com/2022/11/23/climate/voluntary-human-extinction.html](https://www.nytimes.com/2022/11/23/climate/voluntary-human-extinction.html)
+ - date published: 2022-11-23T20:42:36+00:00
+ - user: rumpel
+ - tags: ['voluntary human extinction', 'depopulation', 'propaganda']
+
 ## The 5 best Raspberry Pi alternatives of 2023 | ZDNET
  - [https://www.zdnet.com/article/best-raspberry-pi-alternative/](https://www.zdnet.com/article/best-raspberry-pi-alternative/)
  - date published: 2022-11-23T18:27:29+00:00
