@@ -1,3 +1,9 @@
+## The people who ruined the internet
+ - [https://www.theverge.com/features/23931789/seo-search-engine-optimization-experts-google-results](https://www.theverge.com/features/23931789/seo-search-engine-optimization-experts-google-results)
+ - date published: 2023-11-01T13:00:00+00:00
+ - user: rumpel
+ - tags: ['seo', 'search engines']
+
 ## Israel accuses Amnesty International of anti-Semitism – Politico
  - [https://www.rt.com/news/585966-israel-accuses-amnesty-international-antisemitism/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/585966-israel-accuses-amnesty-international-antisemitism/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
  - date published: 2023-10-27T14:41:44+00:00
