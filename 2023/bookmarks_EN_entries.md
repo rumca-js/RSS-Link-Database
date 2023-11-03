@@ -1,3 +1,21 @@
+## Bing Webmaster Tools
+ - [https://www.bing.com/webmasters/help/webmasters-guidelines-30fba23a](https://www.bing.com/webmasters/help/webmasters-guidelines-30fba23a)
+ - date published: 2023-11-02T09:06:27+00:00
+ - user: rumpel
+ - tags: ['search engines', 'seo']
+
+## SEO Media Guidelines
+ - [https://static.googleusercontent.com/media/guidelines.raterhub.com/en//searchqualityevaluatorguidelines.pdf](https://static.googleusercontent.com/media/guidelines.raterhub.com/en//searchqualityevaluatorguidelines.pdf)
+ - date published: 2023-11-02T09:05:01+00:00
+ - user: rumpel
+ - tags: ['search engines', 'seo']
+
+## E-E-A-T: Experience, Expertise, Authoritativeness, and Trustworthiness - Lily Ray
+ - [https://lilyray.nyc/e-a-t-expertise-authoritativeness-trustworthiness](https://lilyray.nyc/e-a-t-expertise-authoritativeness-trustworthiness)
+ - date published: 2023-11-02T09:04:00+00:00
+ - user: rumpel
+ - tags: ['search engines', 'seo']
+
 ## The people who ruined the internet
  - [https://www.theverge.com/features/23931789/seo-search-engine-optimization-experts-google-results](https://www.theverge.com/features/23931789/seo-search-engine-optimization-experts-google-results)
  - date published: 2023-11-01T13:00:00+00:00
