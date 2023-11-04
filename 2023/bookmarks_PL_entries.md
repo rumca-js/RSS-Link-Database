@@ -80,7 +80,7 @@
  - [https://twitter.com/BuonaSera1916/status/1691406601012289536?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1691406601012289536%7Ctwgr%5Ec0284957550f77a7041ab6e15a00f15994cdb8c4%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwykop.pl%2Flink%2F7186149%2Fnowa-moda-wsrod-pato-celebrytek-miec-dziecko-trans](https://twitter.com/BuonaSera1916/status/1691406601012289536?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1691406601012289536%7Ctwgr%5Ec0284957550f77a7041ab6e15a00f15994cdb8c4%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwykop.pl%2Flink%2F7186149%2Fnowa-moda-wsrod-pato-celebrytek-miec-dziecko-trans)
  - date published: 2023-08-16T05:47:07+00:00
  - user: rumpel
- - tags: $tags
+ - tags: []
 
 ## Auta wodorowe to przyszłość? Naprawa kosztuje 2 razy więcej niż całe auto, a żywotność to... 10 lat
  - [https://ithardware.pl/aktualnosci/auta_wodorowe_sa_super_naprawa_kosztuje_2_razy_wiecej_niz_cale_auto_a_zywotnosc_to_10_lat-28709.html](https://ithardware.pl/aktualnosci/auta_wodorowe_sa_super_naprawa_kosztuje_2_razy_wiecej_niz_cale_auto_a_zywotnosc_to_10_lat-28709.html)

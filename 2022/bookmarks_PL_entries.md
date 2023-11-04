@@ -230,7 +230,7 @@
  - [https://wydarzenia.interia.pl/zagranica/news-pekin-umacnia-wplywy-w-niemczech-bild-wymienil-lobbujacych-p,nId,6385264](https://wydarzenia.interia.pl/zagranica/news-pekin-umacnia-wplywy-w-niemczech-bild-wymienil-lobbujacych-p,nId,6385264)
  - date published: 2022-11-02T05:20:38+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## Wenezuela i Kolumbia zapowiedziały "całkowitą integrację" swoich gospodarek
  - [https://www.bankier.pl/wiadomosc/Wenezuela-i-Kolumbia-zapowiedzialy-calkowita-integracje-swoich-gospodarek-8432274.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Wenezuela-i-Kolumbia-zapowiedzialy-calkowita-integracje-swoich-gospodarek-8432274.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -254,7 +254,7 @@
  - [https://www.wykop.pl/link/6882365/mfw-inflacja-w-polsce-w-2023-bedzie-druga-najwyzsza-w-europie-po-turcji/](https://www.wykop.pl/link/6882365/mfw-inflacja-w-polsce-w-2023-bedzie-druga-najwyzsza-w-europie-po-turcji/)
  - date published: 2022-10-31T12:32:01+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## Niemcy nie rezygnują z atomu. Energetyczne plany zmieniali kilka razy
  - [https://wydarzenia.interia.pl/zagranica/news-niemcy-nie-rezygnuja-z-atomu-energetyczne-plany-zmieniali-ki,nId,6381863](https://wydarzenia.interia.pl/zagranica/news-niemcy-nie-rezygnuja-z-atomu-energetyczne-plany-zmieniali-ki,nId,6381863)
@@ -296,13 +296,13 @@
  - [https://www.bankier.pl/wiadomosc/Pelna-cyfryzacja-recept-staje-sie-faktem-Dane-nie-pozostawiaja-watpliwosci-8429787.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Pelna-cyfryzacja-recept-staje-sie-faktem-Dane-nie-pozostawiaja-watpliwosci-8429787.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date published: 2022-10-27T09:35:00+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## Służby biją na alarm. Strach przed planami Chin
  - [https://www.wykop.pl/link/6876677/sluzby-bija-na-alarm-strach-przed-planami-chin/](https://www.wykop.pl/link/6876677/sluzby-bija-na-alarm-strach-przed-planami-chin/)
  - date published: 2022-10-27T07:21:01+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## 71% Polaków ocenia życie w kraju jako szkodliwe a 8 mln choruje psychicznie
  - [https://www.wykop.pl/link/6876599/71-polakow-ocenia-zycie-w-kraju-jako-szkodliwe-a-8-mln-choruje-psychicznie/](https://www.wykop.pl/link/6876599/71-polakow-ocenia-zycie-w-kraju-jako-szkodliwe-a-8-mln-choruje-psychicznie/)
@@ -326,13 +326,13 @@
  - [https://wydarzenia.interia.pl/zagranica/news-usa-demokraci-chcieli-negocjacji-z-rosja-kontrowersyjny-list,nId,6371667](https://wydarzenia.interia.pl/zagranica/news-usa-demokraci-chcieli-negocjacji-z-rosja-kontrowersyjny-list,nId,6371667)
  - date published: 2022-10-26T07:53:57+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## "Zweryfikowaliśmy. Połowa telefonów nie była odbierana". Jak dodzwonić się do przychodni
  - [https://tvn24.pl/programy/problemy-z-dodzwonieniem-sie-do-przychodni-lekarskiej-6180042?source=rss](https://tvn24.pl/programy/problemy-z-dodzwonieniem-sie-do-przychodni-lekarskiej-6180042?source=rss)
  - date published: 2022-10-26T05:30:59+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## Debata w NIK: Bilans pandemii - puste łóżka covidowe, brak wytycznych
  - [https://cowzdrowiu.pl/aktualnosci/post/debata-w-nik-bilans-pandemii-puste-lozka-covidowe-brak-wytycznych](https://cowzdrowiu.pl/aktualnosci/post/debata-w-nik-bilans-pandemii-puste-lozka-covidowe-brak-wytycznych)
@@ -350,7 +350,7 @@
  - [https://www.wykop.pl/link/6873425/badanie-swiatel-w-nocy-sugeruje-ze-dyktatury-klamia-na-temat-gospodarki-eng/](https://www.wykop.pl/link/6873425/badanie-swiatel-w-nocy-sugeruje-ze-dyktatury-klamia-na-temat-gospodarki-eng/)
  - date published: 2022-10-24T14:21:01+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## Polityczna organizacja Trumpa wydaje 91% zebranych pieniędzy na koszty własne.
  - [https://www.wykop.pl/link/6873285/polityczna-organizacja-trumpa-wydaje-91-zebranych-pieniedzy-na-koszty-wlasne/](https://www.wykop.pl/link/6873285/polityczna-organizacja-trumpa-wydaje-91-zebranych-pieniedzy-na-koszty-wlasne/)
@@ -380,13 +380,13 @@
  - [https://www.bankier.pl/wiadomosc/Platnosc-karta-na-bazarze-i-w-toalecie-Tego-chca-Polacy-8426116.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Platnosc-karta-na-bazarze-i-w-toalecie-Tego-chca-Polacy-8426116.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date published: 2022-10-22T05:00:00+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## Szwedzi raportują: Zaczęło się dziać u nas coś dziwnego
  - [https://www.wykop.pl/link/6869877/szwedzi-raportuja-zaczelo-sie-dziac-u-nas-cos-dziwnego/](https://www.wykop.pl/link/6869877/szwedzi-raportuja-zaczelo-sie-dziac-u-nas-cos-dziwnego/)
  - date published: 2022-10-21T19:23:01+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## Częstochowa ma zapłacić za gaz w 2023 roku przeszło dwukrotnie więcej niż w tym
  - [https://www.bankier.pl/wiadomosc/Czestochowa-ma-zaplacic-za-gaz-w-2023-roku-przeszlo-dwukrotnie-wiecej-niz-w-tym-8427018.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Czestochowa-ma-zaplacic-za-gaz-w-2023-roku-przeszlo-dwukrotnie-wiecej-niz-w-tym-8427018.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -428,7 +428,7 @@
  - [https://www.bankier.pl/wiadomosc/Rodzice-doplaca-do-lekcji-albo-beda-musieli-odbierac-dzieci-ze-szkoly-o-13-Co-z-darmowa-edukacja-w-Polsce-8423074.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Rodzice-doplaca-do-lekcji-albo-beda-musieli-odbierac-dzieci-ze-szkoly-o-13-Co-z-darmowa-edukacja-w-Polsce-8423074.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date published: 2022-10-14T13:20:00+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## TSMC chce niszczenia fabryk w przypadku chińskiej inwazji. I tak ich nie wykorzystają
  - [https://ithardware.pl/aktualnosci/tsmc_przeciwko_niszczeniu_fabryk_w_przypadku_chinskiej_inwazji_i_tak_ich_nie_wykorzystaja-23827.html](https://ithardware.pl/aktualnosci/tsmc_przeciwko_niszczeniu_fabryk_w_przypadku_chinskiej_inwazji_i_tak_ich_nie_wykorzystaja-23827.html)
@@ -470,7 +470,7 @@
  - [https://wydarzenia.interia.pl/kraj/news-czeka-nas-kolejna-epidemia-do-2050-roku-ta-wada-bedzie-dotyc,nId,6316138](https://wydarzenia.interia.pl/kraj/news-czeka-nas-kolejna-epidemia-do-2050-roku-ta-wada-bedzie-dotyc,nId,6316138)
  - date published: 2022-10-09T06:12:38+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## Nowe zasady PayPal pozwalają zabrać 2500 USD z kont użytkowników.
  - [https://www.wykop.pl/link/6851575/nowe-zasady-paypal-pozwalaja-zabrac-2500-usd-z-kont-uzytkownikow/](https://www.wykop.pl/link/6851575/nowe-zasady-paypal-pozwalaja-zabrac-2500-usd-z-kont-uzytkownikow/)
@@ -518,13 +518,13 @@
  - [https://www.wykop.pl/link/6850163/byli-pracownicy-mf-prawdziwy-deficyt-budzetu-to-206-mld-zl/](https://www.wykop.pl/link/6850163/byli-pracownicy-mf-prawdziwy-deficyt-budzetu-to-206-mld-zl/)
  - date published: 2022-10-07T17:38:01+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## *** przedstawił ustawę, która ma zapewnić dzieciom bezpieczeństwo w internecie
  - [https://www.wykop.pl/link/6848253/przedstawil-ustawe-ktora-ma-zapewnic-dzieciom-bezpieczenstwo-w-internecie/](https://www.wykop.pl/link/6848253/przedstawil-ustawe-ktora-ma-zapewnic-dzieciom-bezpieczenstwo-w-internecie/)
  - date published: 2022-10-06T13:50:02+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## Wielka Brytania: Lista zakazanych zwrotów w nowym poradniku. Odradza mówić "panie i panowie"
  - [https://www.polsatnews.pl/wiadomosc/2022-10-06/wielka-brytania-lista-zakazanych-zwrotow-w-nowym-poradniku-odradza-mowic-panie-i-panowie/](https://www.polsatnews.pl/wiadomosc/2022-10-06/wielka-brytania-lista-zakazanych-zwrotow-w-nowym-poradniku-odradza-mowic-panie-i-panowie/)
@@ -536,7 +536,7 @@
  - [https://www.bankier.pl/wiadomosc/Polacy-nie-sa-juz-takimi-patriotami-na-zakupach-8418224.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Polacy-nie-sa-juz-takimi-patriotami-na-zakupach-8418224.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date published: 2022-10-06T06:08:00+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## Fundusz Kościelny puchnie. Rząd przeznaczy rekordową kwotę na składki osób duchownych
  - [https://www.bankier.pl/wiadomosc/Fundusz-Koscielny-puchnie-Rzad-przeznaczy-rekordowa-kwote-na-skladki-osob-duchownych-8418211.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Fundusz-Koscielny-puchnie-Rzad-przeznaczy-rekordowa-kwote-na-skladki-osob-duchownych-8418211.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -554,13 +554,13 @@
  - [https://www.bankier.pl/wiadomosc/Czechy-wprowadzily-ceny-maksymalne-na-energie-elektryczna-i-gaz-8417886.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Czechy-wprowadzily-ceny-maksymalne-na-energie-elektryczna-i-gaz-8417886.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date published: 2022-10-05T14:40:00+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## Zalecenia ONZ. NIE podnosić już stóp procentowych i NIE oszczędzać
  - [https://www.wykop.pl/link/6846343/zalecenia-onz-nie-podnosic-juz-stop-procentowych-i-nie-oszczedzac/](https://www.wykop.pl/link/6846343/zalecenia-onz-nie-podnosic-juz-stop-procentowych-i-nie-oszczedzac/)
  - date published: 2022-10-05T12:38:01+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## W Europie zaczyna się masowe bankructwo hoteli i restauracji
  - [https://www.wykop.pl/link/6845567/w-europie-zaczyna-sie-masowe-bankructwo-hoteli-i-restauracji/](https://www.wykop.pl/link/6845567/w-europie-zaczyna-sie-masowe-bankructwo-hoteli-i-restauracji/)
@@ -614,7 +614,7 @@
  - [https://www.bankier.pl/wiadomosc/Z-powodu-inflacji-coraz-wiecej-Amerykanow-zyje-od-wyplaty-do-wyplaty-8415460.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Z-powodu-inflacji-coraz-wiecej-Amerykanow-zyje-od-wyplaty-do-wyplaty-8415460.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date published: 2022-10-02T08:00:00+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## Facebook zlikwidował potężną rosyjską siatkę. Dezinformacja docierała też do PL
  - [https://www.wykop.pl/link/6841763/facebook-zlikwidowal-potezna-rosyjska-siatke-dezinformacja-docierala-tez-do-pl/](https://www.wykop.pl/link/6841763/facebook-zlikwidowal-potezna-rosyjska-siatke-dezinformacja-docierala-tez-do-pl/)
@@ -632,19 +632,19 @@
  - [https://www.rmf24.pl/tylko-w-rmf24/rozmowa-w-poludnie/news-prof-noga-inflacja-przekroczy-20-proc-w-grudniu,nId,6318441#crp_state=1](https://www.rmf24.pl/tylko-w-rmf24/rozmowa-w-poludnie/news-prof-noga-inflacja-przekroczy-20-proc-w-grudniu,nId,6318441#crp_state=1)
  - date published: 2022-10-01T07:44:49+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## Oszczędzanie prądu ma sens. Im mniejsze zapotrzebowanie na energię, tym niższa cena
  - [https://www.bankier.pl/wiadomosc/Oszczedzanie-pradu-ma-sens-Im-mniejsze-zapotrzebowanie-na-energie-tym-nizsza-cena-8413731.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Oszczedzanie-pradu-ma-sens-Im-mniejsze-zapotrzebowanie-na-energie-tym-nizsza-cena-8413731.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date published: 2022-10-01T06:30:00+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## Dotkliwa kara dla Mety. Gigant miał skopiować aplikację weterana
  - [https://www.wykop.pl/link/6840297/dotkliwa-kara-dla-mety-gigant-mial-skopiowac-aplikacje-weterana/](https://www.wykop.pl/link/6840297/dotkliwa-kara-dla-mety-gigant-mial-skopiowac-aplikacje-weterana/)
  - date published: 2022-10-01T02:23:01+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## Bruce Willis sprzedał swoją „twarz”. Deepfake sprawi, że zagra go inny aktor
  - [https://www.wykop.pl/link/6839177/bruce-willis-sprzedal-swoja-twarz-deepfake-sprawi-ze-zagra-go-inny-aktor/](https://www.wykop.pl/link/6839177/bruce-willis-sprzedal-swoja-twarz-deepfake-sprawi-ze-zagra-go-inny-aktor/)
@@ -662,13 +662,13 @@
  - [https://konkret24.tvn24.pl/r/niemiecki-resort-sprawiedliwo-ci--uruchamia-system-donosicielstwa---wyja-niamy,1119875.html?source=rss](https://konkret24.tvn24.pl/r/niemiecki-resort-sprawiedliwo-ci--uruchamia-system-donosicielstwa---wyja-niamy,1119875.html?source=rss)
  - date published: 2022-09-28T15:57:58+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## Przerażające wyniki badań: Zanieczyszczone powietrze szkodzi mózgom dzieci
  - [https://wydarzenia.interia.pl/zagranica/news-przerazajace-wyniki-badan-zanieczyszczone-powietrze-szkodzi-,nId,6313600](https://wydarzenia.interia.pl/zagranica/news-przerazajace-wyniki-badan-zanieczyszczone-powietrze-szkodzi-,nId,6313600)
  - date published: 2022-09-28T04:50:47+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## Blizzard będzie nagrywał rozmowy głosowe w Overwatch 2
  - [https://ithardware.pl/aktualnosci/blizzard_bedzie_nagrywal_rozmowy_glosowe_w_overwatch_2-23549.html](https://ithardware.pl/aktualnosci/blizzard_bedzie_nagrywal_rozmowy_glosowe_w_overwatch_2-23549.html)
@@ -710,7 +710,7 @@
  - [https://www.bankier.pl/wiadomosc/Praca-zdalna-w-Belgii-coraz-popularniejsza-Liczba-osob-wykonujacych-teleprace-podwoila-sie-od-2018-roku-8408380.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Praca-zdalna-w-Belgii-coraz-popularniejsza-Liczba-osob-wykonujacych-teleprace-podwoila-sie-od-2018-roku-8408380.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date published: 2022-09-25T11:00:00+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## Niemcy: Rząd tworzy setki fałszywych kont „prawicowo-ekstremistycznych” w mediach społecznościowych
  - [https://ithardware.pl/aktualnosci/niemcy_rzad_tworzy_setki_falszywych_kont_prawicowo_ekstremistycznych_w_mediach_spolecznosciowych-23491.html](https://ithardware.pl/aktualnosci/niemcy_rzad_tworzy_setki_falszywych_kont_prawicowo_ekstremistycznych_w_mediach_spolecznosciowych-23491.html)
@@ -728,19 +728,19 @@
  - [https://wydarzenia.interia.pl/kraj/news-drogo-jak-nigdy-castingi-aukcje-horror-na-rynku-najmu-report,nId,6303919](https://wydarzenia.interia.pl/kraj/news-drogo-jak-nigdy-castingi-aukcje-horror-na-rynku-najmu-report,nId,6303919)
  - date published: 2022-09-25T06:17:02+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## Koronawirus: Zakaz wstępu do lasów (04.2020)
  - [https://www.wykop.pl/link/6831507/koronawirus-zakaz-wstepu-do-lasow-04-2020/](https://www.wykop.pl/link/6831507/koronawirus-zakaz-wstepu-do-lasow-04-2020/)
  - date published: 2022-09-24T20:44:01+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## Media: Niezidentyfikowane drony przy norweskich platformach wiertniczych
  - [https://wydarzenia.interia.pl/zagranica/news-media-niezidentyfikowane-drony-przy-norweskich-platformach-w,nId,6306142](https://wydarzenia.interia.pl/zagranica/news-media-niezidentyfikowane-drony-przy-norweskich-platformach-w,nId,6306142)
  - date published: 2022-09-24T17:19:04+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## Nowe technologie coraz mocniej wkraczają na rynek pracy. Kolejną rewolucję wywoła metawersum
  - [https://www.bankier.pl/wiadomosc/Nowe-technologie-coraz-mocniej-wkraczaja-na-rynek-pracy-Kolejna-rewolucje-wywola-metawersum-8409917.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Nowe-technologie-coraz-mocniej-wkraczaja-na-rynek-pracy-Kolejna-rewolucje-wywola-metawersum-8409917.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -782,7 +782,7 @@
  - [https://www.wykop.pl/link/6824445/lesnik-ratowal-bieliki-dostawal-nagrody-nadlesnictwo-go-zwolnilo-to/](https://www.wykop.pl/link/6824445/lesnik-ratowal-bieliki-dostawal-nagrody-nadlesnictwo-go-zwolnilo-to/)
  - date published: 2022-09-19T19:39:01+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## "Rosja bezwstydnie kradnie prawa intelektualne i cofa się w czasie"
  - [https://www.bankier.pl/wiadomosc/Rosja-bezwstydnie-kradnie-prawa-intelektualne-i-cofa-sie-w-czasie-8407877.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Rosja-bezwstydnie-kradnie-prawa-intelektualne-i-cofa-sie-w-czasie-8407877.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -806,19 +806,19 @@
  - [https://www.wykop.pl/link/6821711/tragiczne-efekty-inflacji-w-turcji/](https://www.wykop.pl/link/6821711/tragiczne-efekty-inflacji-w-turcji/)
  - date published: 2022-09-17T19:29:01+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## Policzył, kiedy zwróci się przekop Mierzei Wiślanej. "To nie jest żart,...
  - [https://www.wykop.pl/link/6821363/policzyl-kiedy-zwroci-sie-przekop-mierzei-wislanej-to-nie-jest-zart/](https://www.wykop.pl/link/6821363/policzyl-kiedy-zwroci-sie-przekop-mierzei-wislanej-to-nie-jest-zart/)
  - date published: 2022-09-17T18:26:01+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## Transpłciowy pedofil chciał uprawiać seks z rocznym dzieckiem.
  - [https://www.wykop.pl/link/6821243/transplciowy-pedofil-chcial-uprawiac-seks-z-rocznym-dzieckiem/](https://www.wykop.pl/link/6821243/transplciowy-pedofil-chcial-uprawiac-seks-z-rocznym-dzieckiem/)
  - date published: 2022-09-17T14:38:01+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## USA: Wiceszef CIA: przywódca ChRL chce, by wojsko było w stanie zająć...
  - [https://www.wykop.pl/link/6820919/usa-wiceszef-cia-przywodca-chrl-chce-by-wojsko-bylo-w-stanie-zajac/](https://www.wykop.pl/link/6820919/usa-wiceszef-cia-przywodca-chrl-chce-by-wojsko-bylo-w-stanie-zajac/)
@@ -860,7 +860,7 @@
  - [https://www.wykop.pl/link/6814441/chinskie-komponenty-w-iphone-ach-apple-igra-z-ogniem/](https://www.wykop.pl/link/6814441/chinskie-komponenty-w-iphone-ach-apple-igra-z-ogniem/)
  - date published: 2022-09-13T13:47:02+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## Polska wydała ok. 2,2 tys. zł na każdego uchodźcę z Ukrainy
  - [https://www.bankier.pl/wiadomosc/Polska-wydala-ok-2-2-tys-zl-na-kazdego-uchodzce-z-Ukrainy-8404898.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Polska-wydala-ok-2-2-tys-zl-na-kazdego-uchodzce-z-Ukrainy-8404898.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -884,13 +884,13 @@
  - [https://www.wykop.pl/link/6813711/rodzice-masowo-odmawiaja-obowiazkowych-szczepien-padl-rekord/](https://www.wykop.pl/link/6813711/rodzice-masowo-odmawiaja-obowiazkowych-szczepien-padl-rekord/)
  - date published: 2022-09-12T16:29:02+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## Bankructwa albo mocne podwyżki. Branża handlowa apeluje o wsparcie w związku z kosztami energii
  - [https://www.bankier.pl/wiadomosc/Bankructwa-albo-mocne-podwyzki-Branza-handlowa-apeluje-o-wsparcie-w-zwiazku-z-kosztami-energii-8404534.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Bankructwa-albo-mocne-podwyzki-Branza-handlowa-apeluje-o-wsparcie-w-zwiazku-z-kosztami-energii-8404534.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date published: 2022-09-12T14:20:00+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## Rząd USA na wojennej ścieżce. Górnicy kryptowalut muszą ograniczyć zużycie energii
  - [https://ithardware.pl/aktualnosci/rzad_usa_na_wojennej_sciezce_gornicy_kryptowalut_musza_ograniczyc_zuzycie_energii-23227.html](https://ithardware.pl/aktualnosci/rzad_usa_na_wojennej_sciezce_gornicy_kryptowalut_musza_ograniczyc_zuzycie_energii-23227.html)
@@ -908,13 +908,13 @@
  - [https://ithardware.pl/aktualnosci/netflix_ma_zaprzestac_nieprzyzwoitych_tresci_lgbt_m_in_w_materialach_dla_dzieci-23202.html](https://ithardware.pl/aktualnosci/netflix_ma_zaprzestac_nieprzyzwoitych_tresci_lgbt_m_in_w_materialach_dla_dzieci-23202.html)
  - date published: 2022-09-09T07:37:20+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## Niemcy mają problem z gazem. Możliwe blackouty
  - [https://www.bankier.pl/wiadomosc/Niemcy-maja-problem-gazem-Mozliwe-blackouty-8402880.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Niemcy-maja-problem-gazem-Mozliwe-blackouty-8402880.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date published: 2022-09-08T15:31:00+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## Rząd chce, byś miał te aplikacje w swoim smartfonie. Czy tego chcesz, czy nie - WP Wiadomości
  - [https://wiadomosci.wp.pl/rzad-chce-bys-mial-te-aplikacje-w-swoim-smartfonie-czy-tego-chcesz-czy-nie-6809792441891456a](https://wiadomosci.wp.pl/rzad-chce-bys-mial-te-aplikacje-w-swoim-smartfonie-czy-tego-chcesz-czy-nie-6809792441891456a)
@@ -932,13 +932,13 @@
  - [https://www.wykop.pl/link/6807021/jak-wladza-gotowala-wyrok-w-tk-ws-pozwow-o-obostrzenia-covidowe/](https://www.wykop.pl/link/6807021/jak-wladza-gotowala-wyrok-w-tk-ws-pozwow-o-obostrzenia-covidowe/)
  - date published: 2022-09-07T00:32:01+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## Chiny mogą postawić więcej reaktorów jądrowych niż planowały
  - [https://www.wykop.pl/link/6806245/chiny-moga-postawic-wiecej-reaktorow-jadrowych-niz-planowaly/](https://www.wykop.pl/link/6806245/chiny-moga-postawic-wiecej-reaktorow-jadrowych-niz-planowaly/)
  - date published: 2022-09-06T20:02:01+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## Afera mailowa. Tak rząd przygotowywał się na pozwy w związku z pandemią - WP Wiadomości
  - [https://wiadomosci.wp.pl/afera-mailowa-tak-rzad-przygotowywal-sie-na-pozwy-w-zwiazku-z-pandemia-6809480446421632a](https://wiadomosci.wp.pl/afera-mailowa-tak-rzad-przygotowywal-sie-na-pozwy-w-zwiazku-z-pandemia-6809480446421632a)
@@ -992,13 +992,13 @@
  - [https://www.wykop.pl/link/6803083/ogromne-protesty-w-centrum-pragi-nawet-100-tys-osob-wyszlo-na-ulice/](https://www.wykop.pl/link/6803083/ogromne-protesty-w-centrum-pragi-nawet-100-tys-osob-wyszlo-na-ulice/)
  - date published: 2022-09-03T19:37:01+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## Antyrządowe manifestacje w Pradze. Dziesiątki tysięcy demonstrantów
  - [https://wydarzenia.interia.pl/zagranica/news-antyrzadowe-manifestacje-w-pradze-dziesiatki-tysiecy-demonst,nId,6262575](https://wydarzenia.interia.pl/zagranica/news-antyrzadowe-manifestacje-w-pradze-dziesiatki-tysiecy-demonst,nId,6262575)
  - date published: 2022-09-03T18:03:00+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## W Google Play odkryto 35 aplikacji zawierających szkodliwe oprogramowanie; pobrano je ponad 2 mln razy
  - [https://www.bankier.pl/wiadomosc/W-Google-Play-odkryto-35-aplikacji-zawierajacych-szkodliwe-oprogramowanie-pobrano-je-ponad-2-mln-razy-8398914.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/W-Google-Play-odkryto-35-aplikacji-zawierajacych-szkodliwe-oprogramowanie-pobrano-je-ponad-2-mln-razy-8398914.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -1016,7 +1016,7 @@
  - [https://ithardware.pl/aktualnosci/piec_wtyczek_do_google_chrome_potajemnie_zbieralo_dane_rozszerzenia_pobralo_wielu_uzytkownikow-23088.html](https://ithardware.pl/aktualnosci/piec_wtyczek_do_google_chrome_potajemnie_zbieralo_dane_rozszerzenia_pobralo_wielu_uzytkownikow-23088.html)
  - date published: 2022-09-02T21:50:00+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## Chiny wprowadziły covidowy lockdown w 21-milionowym Chengdu
  - [https://www.wykop.pl/link/6800805/chiny-wprowadzily-covidowy-lockdown-w-21-milionowym-chengdu/](https://www.wykop.pl/link/6800805/chiny-wprowadzily-covidowy-lockdown-w-21-milionowym-chengdu/)
@@ -1052,13 +1052,13 @@
  - [https://staltz.com/time-till-open-source-alternative.html](https://staltz.com/time-till-open-source-alternative.html)
  - date published: 2022-08-28T22:07:34.527841+00:00
  - user: Thomas Pain
- - tags: $tags
+ - tags: []
 
 ## Poszkodowani mogą dostać kilkanaście centów — Meta proponuje ugodę za zbieranie danych
  - [https://android.com.pl/tech/508549-pozew-zbiorowy-meta-facebook-ugoda/](https://android.com.pl/tech/508549-pozew-zbiorowy-meta-facebook-ugoda/)
  - date published: 2022-08-26T20:10:05.326472+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## Pakistan grozi odcięciem dysydentów od biometrycznego systemu cyfrowej identyfikacji
  - [https://ithardware.pl/aktualnosci/pakistan_grozi_odcieciem_dysydentow_od_biometrycznego_systemu_cyfrowej_identyfikacji-22922.html](https://ithardware.pl/aktualnosci/pakistan_grozi_odcieciem_dysydentow_od_biometrycznego_systemu_cyfrowej_identyfikacji-22922.html)
@@ -1112,7 +1112,7 @@
  - [https://eli.thegreenplace.net/2022/how-i-went-about-learning-rust/](https://eli.thegreenplace.net/2022/how-i-went-about-learning-rust/)
  - date published: 2022-07-16T09:12:52.097611+00:00
  - user: Thomas Pain
- - tags: $tags
+ - tags: []
 
 ## Dodatki covidowe, czyli górka pieniędzy, na którą nikt nie patrzył
  - [https://wiadomosci.wp.pl/dodatki-covidowe-czyli-gorka-pieniedzy-na-ktora-nikt-nie-patrzyl-6770982795336672a](https://wiadomosci.wp.pl/dodatki-covidowe-czyli-gorka-pieniedzy-na-ktora-nikt-nie-patrzyl-6770982795336672a)
@@ -1130,7 +1130,7 @@
  - [https://davidcel.is/posts/stop-validating-email-addresses-with-regex/](https://davidcel.is/posts/stop-validating-email-addresses-with-regex/)
  - date published: 2022-04-22T20:44:45.932735+00:00
  - user: Thomas Pain
- - tags: $tags
+ - tags: []
 
 ## Zwolnienie pracownika za brak szczepienia na COVID-19
  - [https://poradnikprzedsiebiorcy.pl/-zwolnienie-pracownika-za-brak-szczepienia-na-covid-19](https://poradnikprzedsiebiorcy.pl/-zwolnienie-pracownika-za-brak-szczepienia-na-covid-19)
@@ -1142,7 +1142,7 @@
  - [https://utcc.utoronto.ca/~cks/space/blog/programming/GoOnIdentifierVisibility](https://utcc.utoronto.ca/~cks/space/blog/programming/GoOnIdentifierVisibility)
  - date published: 2022-04-02T22:17:08.617713+00:00
  - user: Thomas Pain
- - tags: $tags
+ - tags: []
 
 ## Ponad 2 mln Ukraińców trafiło do Polski, są słabo wyszczepieni. Co dalej z epidemią?
  - [https://www.medonet.pl/koronawirus/koronawirus-w-polsce,w-polsce-sa-2-mln-ukraincow--slabo-zaszczepionych--zakazenia-wzrosna-,artykul,05474959.html](https://www.medonet.pl/koronawirus/koronawirus-w-polsce,w-polsce-sa-2-mln-ukraincow--slabo-zaszczepionych--zakazenia-wzrosna-,artykul,05474959.html)

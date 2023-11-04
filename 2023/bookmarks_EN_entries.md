@@ -16,6 +16,12 @@
  - user: rumpel
  - tags: ['search engines', 'seo']
 
+## Apple’s called Android a “massive tracking device” in an internal presentation
+ - [https://www.androidauthority.com/apple-android-massive-tracking-device-3381617](https://www.androidauthority.com/apple-android-massive-tracking-device-3381617)
+ - date published: 2023-11-02T08:29:02+00:00
+ - user: rumpel
+ - tags: ['apple', 'surveillance', 'privacy', 'technofeudalism']
+
 ## The people who ruined the internet
  - [https://www.theverge.com/features/23931789/seo-search-engine-optimization-experts-google-results](https://www.theverge.com/features/23931789/seo-search-engine-optimization-experts-google-results)
  - date published: 2023-11-01T13:00:00+00:00
@@ -93,6 +99,12 @@
  - date published: 2023-10-17T08:19:28+00:00
  - user: rumpel
  - tags: ['selfhost', 'youtube']
+
+## Half of EV owners will go back to an ICE vehicle (not counting you, Tesla drivers) – study
+ - [https://electrek.co/2023/10/17/half-of-ev-owners-will-go-back-to-an-ice-vehicle-not-counting-you-tesla-drivers-study](https://electrek.co/2023/10/17/half-of-ev-owners-will-go-back-to-an-ice-vehicle-not-counting-you-tesla-drivers-study)
+ - date published: 2023-10-17T07:42:26+00:00
+ - user: rumpel
+ - tags: ['electric vehicles']
 
 ## Third Temple - Wikipedia
  - [https://en.wikipedia.org/wiki/Third_Temple](https://en.wikipedia.org/wiki/Third_Temple)

@@ -158,7 +158,7 @@
  - [https://lukesmith.xyz/articles/command-line-bibles/](https://lukesmith.xyz/articles/command-line-bibles/)
  - date published: 2020-12-11T00:00:00+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## Only Use Old Computers!
  - [https://lukesmith.xyz/articles/only-use-old-computers/](https://lukesmith.xyz/articles/only-use-old-computers/)
@@ -170,19 +170,19 @@
  - [https://lukesmith.xyz/articles/science-vs-soyence/](https://lukesmith.xyz/articles/science-vs-soyence/)
  - date published: 2020-12-11T00:00:00+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## The Fragility of Physics
  - [https://lukesmith.xyz/articles/the-fragility-of-physics/](https://lukesmith.xyz/articles/the-fragility-of-physics/)
  - date published: 2020-12-11T00:00:00+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## Why I Use the GPL and Not Cuck Licenses
  - [https://lukesmith.xyz/articles/why-i-use-the-gpl-and-not-cuck-licenses/](https://lukesmith.xyz/articles/why-i-use-the-gpl-and-not-cuck-licenses/)
  - date published: 2020-12-11T00:00:00+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## ‘No one’s safe under these laws’: Surveillance Bill could target activists and downloaders
  - [https://thenewdaily.com.au/life/tech/2020/12/10/dutton-surveillance-bill-australia/](https://thenewdaily.com.au/life/tech/2020/12/10/dutton-surveillance-bill-australia/)
@@ -422,13 +422,13 @@
  - [https://www.theregister.com/2020/11/14/google_android_data_allowance/](https://www.theregister.com/2020/11/14/google_android_data_allowance/)
  - date published: 2020-11-14T12:04:50+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## Covid-19 vaccines may have potentially unpleasant side effects
  - [https://www.nbcnews.com/health/health-news/covid-19-vaccines-may-have-potentially-unpleasant-side-effects-n1247485](https://www.nbcnews.com/health/health-news/covid-19-vaccines-may-have-potentially-unpleasant-side-effects-n1247485)
  - date published: 2020-11-12T20:08:06+00:00
  - user: rumpel
- - tags: $tags
+ - tags: []
 
 ## How to Use Shelter to Sandbox Apps on Android
  - [https://www.makeuseof.com/shelter-sandbox-android-apps/](https://www.makeuseof.com/shelter-sandbox-android-apps/)
@@ -602,7 +602,7 @@
  - [https://www.jpost.com/american-politics/bipartisan-bill-would-give-israel-a-veto-on-middle-east-arms-sales-644326](https://www.jpost.com/american-politics/bipartisan-bill-would-give-israel-a-veto-on-middle-east-arms-sales-644326)
  - date published: 2020-10-03T12:50:43+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## 'Woke utopia', the end of the West & a new cult - James Lindsay interview - BQ #33
  - [https://www.youtube.com/watch?v=dE8p-mcFdNg](https://www.youtube.com/watch?v=dE8p-mcFdNg)
@@ -656,7 +656,7 @@
  - [https://www.youtube.com/watch?v=Ye6GmyUjJyI](https://www.youtube.com/watch?v=Ye6GmyUjJyI)
  - date published: 2020-09-25T00:00:00+00:00
  - user: rumpel
- - tags: $tags
+ - tags: []
 
 ## BLM removes website language blasting 'nuclear family structure'
  - [https://nypost.com/2020/09/24/blm-removes-website-language-blasting-nuclear-family-structure/](https://nypost.com/2020/09/24/blm-removes-website-language-blasting-nuclear-family-structure/)
@@ -686,7 +686,7 @@
  - [https://notrelated.xyz/audio/s02/S02E03_-_Myth_as_History_Rohls_New_Chronology.ogg](https://notrelated.xyz/audio/s02/S02E03_-_Myth_as_History_Rohls_New_Chronology.ogg)
  - date published: 2020-09-21T04:00:00+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## Open Letter from Medical Doctors and Health Professionals to All Belgian Authorities and All Belgian Media
  - [https://www.aier.org/article/open-letter-from-medical-doctors-and-health-professionals-to-all-belgian-authorities-and-all-belgian-media/](https://www.aier.org/article/open-letter-from-medical-doctors-and-health-professionals-to-all-belgian-authorities-and-all-belgian-media/)
@@ -770,7 +770,7 @@
  - [https://lukesmith.xyz/articles/hedonism-asceticism-and-the-hermetic-answer/](https://lukesmith.xyz/articles/hedonism-asceticism-and-the-hermetic-answer/)
  - date published: 2020-09-03T00:00:00+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## California Acts to Increase LGBT, Racial Diversity on Corporate Boards
  - [https://southfloridagaynews.com/National/california-acts-to-increase-lgbt-racial-diversity-on-corporate-boards.html](https://southfloridagaynews.com/National/california-acts-to-increase-lgbt-racial-diversity-on-corporate-boards.html)
@@ -938,13 +938,13 @@
  - [https://www.darkreading.com/vulnerabilities---threats/400+-qualcomm-chip-vulnerabilities-threaten-millions-of-android-phones/d/d-id/1338613](https://www.darkreading.com/vulnerabilities---threats/400+-qualcomm-chip-vulnerabilities-threaten-millions-of-android-phones/d/d-id/1338613)
  - date published: 2020-08-07T06:43:11+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## Massive 20GB Intel IP Data Breach Floods the Internet, Mentions Backdoors (Intel Responds)
  - [https://www.tomshardware.com/news/massive-20gb-intel-data-breach-floods-the-internet-mentions-backdoors](https://www.tomshardware.com/news/massive-20gb-intel-data-breach-floods-the-internet-mentions-backdoors)
  - date published: 2020-08-06T06:47:11+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## Transgender row teacher 'sacked' from second school
  - [https://www.bbc.com/news/uk-england-oxfordshire-53650010](https://www.bbc.com/news/uk-england-oxfordshire-53650010)
@@ -986,7 +986,7 @@
  - [https://notrelated.xyz/audio/s02/S02E02_-_Stoicism_and_Christianity_Trust_the_Logos.ogg](https://notrelated.xyz/audio/s02/S02E02_-_Stoicism_and_Christianity_Trust_the_Logos.ogg)
  - date published: 2020-07-31T04:00:00+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## Germany: Muslim migrant rapes 11-year-old girl, is released after a month, then rapes 13-year-old girl
  - [https://www.jihadwatch.org/2020/07/germany-muslim-migrant-rapes-11-year-old-girl-is-released-after-a-month-then-rapes-13-year-old-girl](https://www.jihadwatch.org/2020/07/germany-muslim-migrant-rapes-11-year-old-girl-is-released-after-a-month-then-rapes-13-year-old-girl)
@@ -1328,7 +1328,7 @@
  - [https://notrelated.xyz/audio/s02/S02E01_-_Against_Method_and_For_Pseudoscience.ogg](https://notrelated.xyz/audio/s02/S02E01_-_Against_Method_and_For_Pseudoscience.ogg)
  - date published: 2020-06-05T04:00:00+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## The 10 Commitments Companies Must Make to Advance Racial Justice
  - [https://hbr.org/2020/06/the-10-commitments-companies-must-make-to-advance-racial-justice](https://hbr.org/2020/06/the-10-commitments-companies-must-make-to-advance-racial-justice)
@@ -1346,7 +1346,7 @@
  - [https://www.smh.com.au/world/europe/man-behind-sweden-s-controversial-coronavirus-strategy-admits-mistakes-20200603-p54z99.html](https://www.smh.com.au/world/europe/man-behind-sweden-s-controversial-coronavirus-strategy-admits-mistakes-20200603-p54z99.html)
  - date published: 2020-06-03T05:39:34+00:00
  - user: rumpel
- - tags: $tags
+ - tags: []
 
 ## US Senators Introduce 'Lawful Access to Encrypted Data Act' - With Backdoor Mandate
  - [https://news.bitcoin.com/lawful-access-to-encrypted-data-act-backdoor/](https://news.bitcoin.com/lawful-access-to-encrypted-data-act-backdoor/)
@@ -1442,7 +1442,7 @@
  - [https://lukesmith.xyz/articles/politics-matters-most-to-slaves/](https://lukesmith.xyz/articles/politics-matters-most-to-slaves/)
  - date published: 2020-05-09T00:00:00+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## U.S. Field Hospitals Stand Down, Most Without Treating Any COVID-19 Patients
  - [https://www.npr.org/2020/05/07/851712311/u-s-field-hospitals-stand-down-most-without-treating-any-covid-19-patients?t=1609407487809](https://www.npr.org/2020/05/07/851712311/u-s-field-hospitals-stand-down-most-without-treating-any-covid-19-patients?t=1609407487809)
@@ -1580,7 +1580,7 @@
  - [https://www.ft.com/content/19d90308-6858-11ea-a3c9-1fe6fedcca75#comments-anchor](https://www.ft.com/content/19d90308-6858-11ea-a3c9-1fe6fedcca75#comments-anchor)
  - date published: 2020-03-20T14:11:41+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## Did New Zealand PM Jacinda Ardern Once Say, 'Unless You Hear It from Us, It Is Not the Truth'? | Snopes.com
  - [https://www.snopes.com/fact-check/jacinda-ardern-truth/](https://www.snopes.com/fact-check/jacinda-ardern-truth/)
@@ -1732,6 +1732,12 @@
  - user: rumpel
  - tags: ['dr. john campbell', 'covid']
 
+## Coronavirus has people keeling over in streets - TomoNews
+ - [https://www.youtube.com/watch?v=Uf4-Vzf1CyM](https://www.youtube.com/watch?v=Uf4-Vzf1CyM)
+ - date published: 2020-02-03T00:00:00+00:00
+ - user: rumpel
+ - tags: ['covid', 'propaganda']
+
 ## Texas mother trying to transition her seven-year-old son into a girl loses in court as judge orders her to share custody with ex-husband who says boy is just 'confused'
  - [https://www.dailymail.co.uk/news/article-7950655/Mother-trying-transition-son-girl-loses-court-judge-orders-parents-joint-custody.html](https://www.dailymail.co.uk/news/article-7950655/Mother-trying-transition-son-girl-loses-court-judge-orders-parents-joint-custody.html)
  - date published: 2020-01-31T08:51:05+00:00
@@ -1796,7 +1802,7 @@
  - [https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html](https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html)
  - date published: 2020-01-18T19:58:54+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## COVID-19 pandemic
  - [https://en.wikipedia.org/wiki/COVID-19_pandemic#History](https://en.wikipedia.org/wiki/COVID-19_pandemic#History)

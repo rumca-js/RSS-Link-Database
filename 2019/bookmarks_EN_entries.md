@@ -182,7 +182,7 @@
  - [https://www.sciencefriday.com/articles/dupont-bilott-book-exposure/](https://www.sciencefriday.com/articles/dupont-bilott-book-exposure/)
  - date published: 2019-11-01T14:39:52+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## The Golden Age of the Internet Is Over
  - [https://www.youtube.com/watch?v=OU6CuSMzNus](https://www.youtube.com/watch?v=OU6CuSMzNus)
@@ -410,7 +410,7 @@
  - [https://www.digitalinformationworld.com/2019/08/contractors-hear-private-recordings-apple-siri.html](https://www.digitalinformationworld.com/2019/08/contractors-hear-private-recordings-apple-siri.html)
  - date published: 2019-08-24T12:04:50+00:00
  - user: rumpel
- - tags: $tags
+ - tags: []
 
 ## [Serious Question] Why the Ubuntu/Canonical hate? In quite a few posts in this subreddit, I have seen an outright hate/dislike/contempt for Ubuntu/Canonical. Can someone explain?
  - [https://www.reddit.com/r/linux/comments/cu7fv0/serious_question_why_the_ubuntucanonical_hate_in/](https://www.reddit.com/r/linux/comments/cu7fv0/serious_question_why_the_ubuntucanonical_hate_in/)
@@ -878,7 +878,7 @@
  - [https://notrelated.xyz/audio/s01/S01E08_-_The_Flaws_of_Academic_Statistics_the_Null_Ritual.mp3](https://notrelated.xyz/audio/s01/S01E08_-_The_Flaws_of_Academic_Statistics_the_Null_Ritual.mp3)
  - date published: 2019-03-13T04:00:00+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## How retailers can track your movements inside their stores.
  - [https://www.cnbc.com/2019/03/08/how-retailers-can-track-your-movements-inside-their-stores.html](https://www.cnbc.com/2019/03/08/how-retailers-can-track-your-movements-inside-their-stores.html)

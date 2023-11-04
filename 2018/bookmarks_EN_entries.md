@@ -8,7 +8,7 @@
  - [https://notrelated.xyz/audio/s01/S01E07_-_Human_Evolution_Revised_Timelines_and_Multiregionalism.mp3](https://notrelated.xyz/audio/s01/S01E07_-_Human_Evolution_Revised_Timelines_and_Multiregionalism.mp3)
  - date published: 2018-12-19T05:00:00+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## Why the Left Think They are Better | Peter Hitchens
  - [https://www.youtube.com/watch?v=8qCHRYMe66g](https://www.youtube.com/watch?v=8qCHRYMe66g)
@@ -50,7 +50,7 @@
  - [https://notrelated.xyz/audio/s01/S01E06_-_When_Youre_Too_Rational_to_Be_Rational.mp3](https://notrelated.xyz/audio/s01/S01E06_-_When_Youre_Too_Rational_to_Be_Rational.mp3)
  - date published: 2018-11-16T05:00:00+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## Facebook reportedly discredited critics by linking them to George Soros
  - [https://www.theguardian.com/technology/2018/nov/14/facebook-george-soros-pr-firm-discredit-critics-crisis](https://www.theguardian.com/technology/2018/nov/14/facebook-george-soros-pr-firm-discredit-critics-crisis)
@@ -140,7 +140,7 @@
  - [https://notrelated.xyz/audio/s01/S01E04_-_Democracy_Rule_of_the_NPCs.mp3](https://notrelated.xyz/audio/s01/S01E04_-_Democracy_Rule_of_the_NPCs.mp3)
  - date published: 2018-09-19T04:00:00+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## Are looks important to women? (1967) | RetroFocus
  - [https://www.youtube.com/watch?v=h0njPX3SUUU](https://www.youtube.com/watch?v=h0njPX3SUUU)
@@ -206,7 +206,7 @@
  - [https://notrelated.xyz/audio/s01/S01E02_-_Capitalism_Socialism_and_Democracy.mp3](https://notrelated.xyz/audio/s01/S01E02_-_Capitalism_Socialism_and_Democracy.mp3)
  - date published: 2018-09-01T04:00:00+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## Why Are So Many SJW Characters Mary Sues?
  - [https://www.youtube.com/watch?v=KcXVGIi1m28](https://www.youtube.com/watch?v=KcXVGIi1m28)
@@ -254,7 +254,7 @@
  - [https://notrelated.xyz/audio/s01/S01E00_-_Not_Related_Introduction_and_on_Luke_Smith.mp3](https://notrelated.xyz/audio/s01/S01E00_-_Not_Related_Introduction_and_on_Luke_Smith.mp3)
  - date published: 2018-08-17T04:00:00+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## Pfizer bets on biotech flu vaccine in $425 million BioNTech alliance | Reuters
  - [https://www.reuters.com/article/us-pfizer-biontech-alliance-idUSKBN1L10F5](https://www.reuters.com/article/us-pfizer-biontech-alliance-idUSKBN1L10F5)

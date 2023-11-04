@@ -92,7 +92,7 @@
  - [https://www.tvp.info/43374228/koniec-naszego-swiata](https://www.tvp.info/43374228/koniec-naszego-swiata)
  - date published: 2019-07-06T07:21:17+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## Elektrownia atomowa. Państwowa spółka pochłonęła już prawie pół miliarda złotych
  - [https://www.money.pl/gospodarka/elektrownia-atomowa-panstwowa-spolka-pochlonela-juz-prawie-pol-miliarda-zlotych-6364261429319809a.html](https://www.money.pl/gospodarka/elektrownia-atomowa-panstwowa-spolka-pochlonela-juz-prawie-pol-miliarda-zlotych-6364261429319809a.html)

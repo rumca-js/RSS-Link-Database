@@ -2,7 +2,7 @@
  - [https://threedots.tech/post/common-anti-patterns-in-go-web-applications/](https://threedots.tech/post/common-anti-patterns-in-go-web-applications/)
  - date published: 2021-12-25T21:50:47.079346+00:00
  - user: Thomas Pain
- - tags: $tags
+ - tags: []
 
 ## Prof. Horban: Nadciąga prawdziwe tsunami
  - [https://www.tvp.info/57595618/koronawirus-prof-horban-nadciaga-prawdziwe-tsunami](https://www.tvp.info/57595618/koronawirus-prof-horban-nadciaga-prawdziwe-tsunami)
@@ -38,7 +38,7 @@
  - [https://geekweek.interia.pl/technologia/news-jaki-szyfrowany-komunikator-wybrac-lista-wspolpracy-z-fbi-mo,nId,5679869](https://geekweek.interia.pl/technologia/news-jaki-szyfrowany-komunikator-wybrac-lista-wspolpracy-z-fbi-mo,nId,5679869)
  - date published: 2021-12-01T12:04:49+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## Prof. Matyja: Świąt nie będzie. Będziemy chodzili na pogrzeby - o2 - Serce Internetu
  - [https://www.o2.pl/informacje/prof-matyja-swiat-nie-bedzie-bedziemy-chodzili-na-pogrzeby-6708295404051392a](https://www.o2.pl/informacje/prof-matyja-swiat-nie-bedzie-bedziemy-chodzili-na-pogrzeby-6708295404051392a)
@@ -74,13 +74,13 @@
  - [https://www.chip.pl/2021/10/rozpoznawanie-twarzy-metro-moskwa/](https://www.chip.pl/2021/10/rozpoznawanie-twarzy-metro-moskwa/)
  - date published: 2021-10-17T12:04:49+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## Safer Enums in Go
  - [https://threedots.tech/post/safer-enums-in-go/](https://threedots.tech/post/safer-enums-in-go/)
  - date published: 2021-10-15T18:34:57.456892+00:00
  - user: Thomas Pain
- - tags: $tags
+ - tags: []
 
 ## Australia. Rząd chce zakazać anonimowych komentarzy. Media społecznościowe to "pałac tchórzy"
  - [https://www.polsatnews.pl/wiadomosc/2021-10-07/australia-rzad-chce-zakazac-anonimowych-komentarzy-media-spolecznosciowe-to-palac-tchorzy/](https://www.polsatnews.pl/wiadomosc/2021-10-07/australia-rzad-chce-zakazac-anonimowych-komentarzy-media-spolecznosciowe-to-palac-tchorzy/)
@@ -134,7 +134,7 @@
  - [https://tpaschalis.github.io/golang-len/](https://tpaschalis.github.io/golang-len/)
  - date published: 2021-08-06T16:26:22.689726+00:00
  - user: Thomas Pain
- - tags: $tags
+ - tags: []
 
 ## Ponad 750 mln zł wydane na energetykę jądrową. Elektrowni brak
  - [https://biznes.trojmiasto.pl/Ponad-750-mln-zl-wydane-na-energetyke-jadrowa-Elektrowni-brak-n158212.html](https://biznes.trojmiasto.pl/Ponad-750-mln-zl-wydane-na-energetyke-jadrowa-Elektrowni-brak-n158212.html)
@@ -218,7 +218,7 @@
  - [https://www.polsatnews.pl/wiadomosc/2021-05-05/prezydent-estonii-w-polsat-news-nie-powinnismy-wracac-do-swiata-sprzed-pandemii/](https://www.polsatnews.pl/wiadomosc/2021-05-05/prezydent-estonii-w-polsat-news-nie-powinnismy-wracac-do-swiata-sprzed-pandemii/)
  - date published: 2021-05-05T07:26:08+00:00
  - user: None
- - tags: $tags
+ - tags: []
 
 ## Dania: Nagi uczestnik programu telewizyjnego dla dzieci skazany za pedofilię
  - [https://www.wnp.pl/rynki-zagraniczne/dania-nagi-uczestnik-programu-telewizyjnego-dla-dzieci-skazany-za-pedofilie,466308.html](https://www.wnp.pl/rynki-zagraniczne/dania-nagi-uczestnik-programu-telewizyjnego-dla-dzieci-skazany-za-pedofilie,466308.html)
