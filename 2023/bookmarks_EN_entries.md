@@ -1,3 +1,15 @@
+## Israeli war crimes - Wikipedia
+ - [https://en.m.wikipedia.org/wiki/Israeli_war_crimes](https://en.m.wikipedia.org/wiki/Israeli_war_crimes)
+ - date published: 2023-11-06T09:40:43+00:00
+ - user: rumpel
+ - tags: ['israel', 'palestine']
+
+## Brits make Amazon, Meta stop using third-party data to undercut rivals
+ - [https://www.theregister.com/2023/11/04/amazon_meta_cma](https://www.theregister.com/2023/11/04/amazon_meta_cma)
+ - date published: 2023-11-05T17:10:46+00:00
+ - user: rumpel
+ - tags: ['monopoly', 'manufacturing consent']
+
 ## Bing Webmaster Tools
  - [https://www.bing.com/webmasters/help/webmasters-guidelines-30fba23a](https://www.bing.com/webmasters/help/webmasters-guidelines-30fba23a)
  - date published: 2023-11-02T09:06:27+00:00

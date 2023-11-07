@@ -16,6 +16,12 @@
  - user: rumpel
  - tags: ['propaganda', 'ideology', 'sjw', 'the left wing']
 
+## Noam Chomsky - Foundations of World Order: the UN, World Bank, IMF & Decl. Human Rights 1999
+ - [https://www.youtube.com/watch?v=JduPGFNwB7A](https://www.youtube.com/watch?v=JduPGFNwB7A)
+ - date published: 2018-12-06T00:00:00+00:00
+ - user: rumpel
+ - tags: ['manufacturing consent']
+
 ## Harvard Scientists Begin Experiment To Block Out The Sun
  - [https://www.forbes.com/sites/trevornace/2018/12/05/harvard-scientists-begin-experiment-to-block-out-the-sun/](https://www.forbes.com/sites/trevornace/2018/12/05/harvard-scientists-begin-experiment-to-block-out-the-sun/)
  - date published: 2018-12-05T12:58:25+00:00
@@ -39,6 +45,12 @@
  - date published: 2018-11-28T20:01:48+00:00
  - user: rumpel
  - tags: ['jeffrey epstein', 'donald trump']
+
+## Tim Cook defends taking billions from Google
+ - [https://www.axios.com/2018/11/19/tim-cook-interview-apple-google-axios-on-hbo](https://www.axios.com/2018/11/19/tim-cook-interview-apple-google-axios-on-hbo)
+ - date published: 2018-11-19T13:29:07+00:00
+ - user: rumpel
+ - tags: ['google', 'manufacturing consent', 'apple']
 
 ## Eyes Wide Shut - What it all Meant
  - [https://www.youtube.com/watch?v=aXwy7M7Udmg](https://www.youtube.com/watch?v=aXwy7M7Udmg)

@@ -238,6 +238,18 @@
  - user: rumpel
  - tags: ['canada', 'justin trudeau']
 
+## French secret service accused of censorship over Wikipedia page
+ - [https://www.theguardian.com/world/2013/apr/07/french-secret-service-wikipedia-page](https://www.theguardian.com/world/2013/apr/07/french-secret-service-wikipedia-page)
+ - date published: 2013-04-07T12:09:29+00:00
+ - user: rumpel
+ - tags: ['wikipedia', 'censorship', 'france', 'government']
+
+## Twitter sued for $50 million for refusing to reveal anti-semites
+ - [https://arstechnica.com/tech-policy/2013/03/twitter-sued-50-million-for-refusing-to-reveal-anti-semites](https://arstechnica.com/tech-policy/2013/03/twitter-sued-50-million-for-refusing-to-reveal-anti-semites)
+ - date published: 2013-03-22T12:07:04+00:00
+ - user: rumpel
+ - tags: ['antisemitism', 'privacy', 'surveillance', 'twitter']
+
 ## How Stores Spy on You - Consumer Reports
  - [https://www.consumerreports.org/cro/2013/03/how-stores-spy-on-you/index.htm](https://www.consumerreports.org/cro/2013/03/how-stores-spy-on-you/index.htm)
  - date published: 2013-03-19T15:07:37+00:00

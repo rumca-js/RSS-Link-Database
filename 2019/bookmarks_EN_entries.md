@@ -946,6 +946,12 @@
  - user: rumpel
  - tags: ['privacy', 'facebook', 'big tech']
 
+## Google Pays Apple a Staggering Amount of Money to Be Its Default Search Engine
+ - [https://www.thestreet.com/investing/google-pays-apple-billions-to-be-default-search-engine-14865683](https://www.thestreet.com/investing/google-pays-apple-billions-to-be-default-search-engine-14865683)
+ - date published: 2019-02-13T13:30:00+00:00
+ - user: rumpel
+ - tags: ['google', 'manufacturing consent', 'apple']
+
 ## Your Smart Light Can Tell Amazon and Google When You Go to Bed
  - [https://www.bloomberg.com/news/articles/2019-02-12/your-smart-light-can-tell-amazon-and-google-when-you-go-to-bed](https://www.bloomberg.com/news/articles/2019-02-12/your-smart-light-can-tell-amazon-and-google-when-you-go-to-bed)
  - date published: 2019-02-12T06:53:25+00:00

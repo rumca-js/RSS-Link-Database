@@ -10,3 +10,9 @@
  - user: None
  - tags: ['propaganda', 'neomarxism', 'socialism', 'bezmenov']
 
+## Sinking of the Rainbow Warrior - Wikipedia
+ - [https://en.wikipedia.org/wiki/Sinking_of_the_Rainbow_Warrior](https://en.wikipedia.org/wiki/Sinking_of_the_Rainbow_Warrior)
+ - date published: 1985-07-10T12:05:12+00:00
+ - user: rumpel
+ - tags: ['france', 'greenpeace', 'government']
+
