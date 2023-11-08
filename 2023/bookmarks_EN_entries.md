@@ -1,3 +1,9 @@
+## Nashville mayor orders investigation after Covenant School shooter’s writings were posted online
+ - [https://www.nbcnews.com/news/us-news/nashville-investigation-covenant-school-shooters-writings-rcna123924](https://www.nbcnews.com/news/us-news/nashville-investigation-covenant-school-shooters-writings-rcna123924)
+ - date published: 2023-11-07T03:16:24+00:00
+ - user: rumpel
+ - tags: ['gun control', 'inequality', 'propaganda', 'nashville', 'the left wing']
+
 ## Israeli war crimes - Wikipedia
  - [https://en.m.wikipedia.org/wiki/Israeli_war_crimes](https://en.m.wikipedia.org/wiki/Israeli_war_crimes)
  - date published: 2023-11-06T09:40:43+00:00
