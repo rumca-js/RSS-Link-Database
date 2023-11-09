@@ -1,3 +1,9 @@
+## Internal Memo Shows Microsoft Executives' Concern Over Free Software
+ - [https://archive.nytimes.com/www.nytimes.com/library/tech/98/11/biztech/articles/03memo.html](https://archive.nytimes.com/www.nytimes.com/library/tech/98/11/biztech/articles/03memo.html)
+ - date published: 1998-11-03T10:53:56+00:00
+ - user: rumpel
+ - tags: ['halloween documents', 'microsoft', 'dark design']
+
 ## The Anatomy of a Large-Scale Hypertextual Web Search Engine
  - [http://infolab.stanford.edu/pub/papers/google.pdf](http://infolab.stanford.edu/pub/papers/google.pdf)
  - date published: 1998-09-06T07:13:47+00:00
@@ -15,6 +21,12 @@
  - date published: 1998-08-20T20:36:17+00:00
  - user: rumpel
  - tags: ['halloween documents', 'microsoft', 'linux', 'dark design', 'open source']
+
+## Halloween Document 10
+ - [http://www.catb.org/~esr/halloween/halloween1.html](http://www.catb.org/~esr/halloween/halloween1.html)
+ - date published: 1998-08-20T10:55:15+00:00
+ - user: rumpel
+ - tags: ['halloween documents', 'microsoft', 'dark design']
 
 ## The Anatomy of a Large-Scale Hypertextual Web Search Engine
  - [http://infolab.stanford.edu/~backrub/google.html](http://infolab.stanford.edu/~backrub/google.html)

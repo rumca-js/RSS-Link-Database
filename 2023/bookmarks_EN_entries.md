@@ -16,6 +16,12 @@
  - user: rumpel
  - tags: ['monopoly', 'manufacturing consent']
 
+## Inside Jeffrey Epstein's Circle
+ - [https://www.wsj.com/articles/inside-jeffrey-epsteins-circle-7ae25452](https://www.wsj.com/articles/inside-jeffrey-epsteins-circle-7ae25452)
+ - date published: 2023-11-03T16:16:00+00:00
+ - user: rumpel
+ - tags: ['jeffrey epstein']
+
 ## Bing Webmaster Tools
  - [https://www.bing.com/webmasters/help/webmasters-guidelines-30fba23a](https://www.bing.com/webmasters/help/webmasters-guidelines-30fba23a)
  - date published: 2023-11-02T09:06:27+00:00
