@@ -1,3 +1,15 @@
+## New 'Orwellian' HHS pronoun mandate forces employees to 'deny reality,' violate law: legal expert
+ - [https://www.foxnews.com/politics/new-orwellian-hhs-pronoun-mandate-forces-employees-to-deny-reality-violate-law-legal-expert](https://www.foxnews.com/politics/new-orwellian-hhs-pronoun-mandate-forces-employees-to-deny-reality-violate-law-legal-expert)
+ - date published: 2023-11-09T09:00:29+00:00
+ - user: rumpel
+ - tags: ['pronouns', 'gender']
+
+## In Amended Complaint, FTC Alleges Kochava, a Data Broker, Is Collecting, Using and Disclosing “Massive Amounts” of Precise Geolocation Data | JD Supra
+ - [https://www.jdsupra.com/legalnews/in-amended-complaint-ftc-alleges-8272948](https://www.jdsupra.com/legalnews/in-amended-complaint-ftc-alleges-8272948)
+ - date published: 2023-11-07T09:39:59+00:00
+ - user: rumpel
+ - tags: ['technofeudalism', 'privacy', 'surveillance']
+
 ## Nashville mayor orders investigation after Covenant School shooter’s writings were posted online
  - [https://www.nbcnews.com/news/us-news/nashville-investigation-covenant-school-shooters-writings-rcna123924](https://www.nbcnews.com/news/us-news/nashville-investigation-covenant-school-shooters-writings-rcna123924)
  - date published: 2023-11-07T03:16:24+00:00
@@ -6279,6 +6291,12 @@
  - date published: 2023-03-09T13:21:34+00:00
  - user: rumpel
  - tags: ['hollywood', 'movies', 'disney']
+
+## Leeds preacher's sentence for trans woman's harassment quashed
+ - [https://www.bbc.com/news/uk-england-leeds-64905216](https://www.bbc.com/news/uk-england-leeds-64905216)
+ - date published: 2023-03-09T12:30:52+00:00
+ - user: rumpel
+ - tags: ['hate speech', 'gender', 'misgender', 'free speech', 'lgbt']
 
 ## THOMAS: The Government wants to control what you watch with Bill C-11 | Toronto Sun
  - [https://torontosun.com/opinion/columnists/thomas-the-government-wants-to-control-what-you-watch-with-bill-c-11](https://torontosun.com/opinion/columnists/thomas-the-government-wants-to-control-what-you-watch-with-bill-c-11)
