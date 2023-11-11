@@ -544,6 +544,12 @@
  - user: rumpel
  - tags: ['dead internet', 'big tech', 'search engines', 'algorithms', 'media bias', 'manufacturing consent']
 
+## Kazakhstan Attempts to MITM Its Citizens
+ - [https://www.f5.com/labs/articles/threat-intelligence/kazakhstan-attempts-to-mitm-itscitizens](https://www.f5.com/labs/articles/threat-intelligence/kazakhstan-attempts-to-mitm-itscitizens)
+ - date published: 2019-08-01T13:46:00+00:00
+ - user: rumpel
+ - tags: ['crypto wars', 'kazakhstan', 'surveillance', 'privacy']
+
 ## Ben Shapiro Vs Climate Change | UBC Talk
  - [https://www.youtube.com/watch?v=wRk1p8Lzwvo](https://www.youtube.com/watch?v=wRk1p8Lzwvo)
  - date published: 2019-07-27T14:40:12+00:00

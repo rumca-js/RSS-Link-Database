@@ -74,7 +74,7 @@
  - [https://i-hls.com/archives/40964](https://i-hls.com/archives/40964)
  - date published: 2014-10-17T09:06:52+00:00
  - user: rumpel
- - tags: ['cloud computing', 'dark design', 'surveillance', 'nsa', 'technofeudalism', 'microsoft']
+ - tags: ['dark design', 'microsoft', 'surveillance', 'cloud computing', 'technofeudalism', 'nsa', 'crypto wars']
 
 ## The FBI Director’s Evidence Against Encryption Is Pathetic
  - [https://theintercept.com/2014/10/17/draft-two-cases-cited-fbi-dude-dumb-dumb/](https://theintercept.com/2014/10/17/draft-two-cases-cited-fbi-dude-dumb-dumb/)

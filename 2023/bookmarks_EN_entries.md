@@ -1,8 +1,44 @@
+## Apple discriminated against US citizens in hiring, DOJ says
+ - [https://arstechnica.com/tech-policy/2023/11/apple-discriminated-against-us-citizens-in-hiring-doj-says](https://arstechnica.com/tech-policy/2023/11/apple-discriminated-against-us-citizens-in-hiring-doj-says)
+ - date published: 2023-11-10T21:45:38+00:00
+ - user: rumpel
+ - tags: ['immigration']
+
+## New Outlook sends passwords, mails and other data to Microsoft
+ - [https://mailbox.org/en/post/warning-new-outlook-sends-passwords-mails-and-other-data-to-microsoft](https://mailbox.org/en/post/warning-new-outlook-sends-passwords-mails-and-other-data-to-microsoft)
+ - date published: 2023-11-10T19:21:25+00:00
+ - user: rumpel
+ - tags: ['dark design', 'microsoft']
+
+## Microsoft steals access data: Beware of the new Outlook (German)
+ - [https://www.heise.de/news/Microsoft-krallt-sich-Zugangsdaten-Achtung-vorm-neuen-Outlook-9357691.html](https://www.heise.de/news/Microsoft-krallt-sich-Zugangsdaten-Achtung-vorm-neuen-Outlook-9357691.html)
+ - date published: 2023-11-10T11:03:09+00:00
+ - user: rumpel
+ - tags: ['dark design', 'microsoft', 'privacy']
+
+## True Meaning
+ - [https://www.youtube.com/feeds/videos.xml?channel_id=UCpbLMvl-azzO5gMEMCkvlYA](https://www.youtube.com/feeds/videos.xml?channel_id=UCpbLMvl-azzO5gMEMCkvlYA)
+ - date published: 2023-11-10T10:01:02+00:00
+ - user: rumpel
+ - tags: ['alan watts']
+
+## Christian students wins $150K after public school allegedly tried to force her into idol worship
+ - [https://www.foxnews.com/media/chicago-public-school-allegedly-tried-to-force-christian-student-into-idol-worship-pray-to-hindu-gods](https://www.foxnews.com/media/chicago-public-school-allegedly-tried-to-force-christian-student-into-idol-worship-pray-to-hindu-gods)
+ - date published: 2023-11-10T10:00:18+00:00
+ - user: rumpel
+ - tags: ['religion']
+
 ## New 'Orwellian' HHS pronoun mandate forces employees to 'deny reality,' violate law: legal expert
  - [https://www.foxnews.com/politics/new-orwellian-hhs-pronoun-mandate-forces-employees-to-deny-reality-violate-law-legal-expert](https://www.foxnews.com/politics/new-orwellian-hhs-pronoun-mandate-forces-employees-to-deny-reality-violate-law-legal-expert)
  - date published: 2023-11-09T09:00:29+00:00
  - user: rumpel
  - tags: ['pronouns', 'gender']
+
+## Article 45 Will Roll Back Web Security by 12 Years
+ - [https://www.eff.org/deeplinks/2023/11/article-45-will-roll-back-web-security-12-years](https://www.eff.org/deeplinks/2023/11/article-45-will-roll-back-web-security-12-years)
+ - date published: 2023-11-07T18:52:21+00:00
+ - user: rumpel
+ - tags: ['crypto wars', 'surveillance', 'privacy']
 
 ## In Amended Complaint, FTC Alleges Kochava, a Data Broker, Is Collecting, Using and Disclosing “Massive Amounts” of Precise Geolocation Data | JD Supra
  - [https://www.jdsupra.com/legalnews/in-amended-complaint-ftc-alleges-8272948](https://www.jdsupra.com/legalnews/in-amended-complaint-ftc-alleges-8272948)
@@ -70,6 +106,12 @@
  - user: rumpel
  - tags: ['israel']
 
+## The UK’s Controversial Online Safety Act Is Now Law
+ - [https://www.wired.com/story/the-uks-controversial-online-safety-act-is-now-law](https://www.wired.com/story/the-uks-controversial-online-safety-act-is-now-law)
+ - date published: 2023-10-26T13:46:59+00:00
+ - user: rumpel
+ - tags: ['online safety act', 'surveillance', 'privacy']
+
 ## Israel to refuse visas to UN officials after Guterres speech on Gaza war | United Nations News | Al Jazeera
  - [https://www.aljazeera.com/news/2023/10/25/israel-to-refuse-visas-to-un-officials-after-guterres-speech-on-gaza-war](https://www.aljazeera.com/news/2023/10/25/israel-to-refuse-visas-to-un-officials-after-guterres-speech-on-gaza-war)
  - date published: 2023-10-25T06:21:05+00:00
@@ -105,6 +147,12 @@
  - date published: 2023-10-20T22:52:17+00:00
  - user: rumpel
  - tags: ['sql']
+
+## Israeli attacks wipe out entire families in Gaza
+ - [https://www.amnesty.org/en/latest/news/2023/10/damning-evidence-of-war-crimes-as-israeli-attacks-wipe-out-entire-families-in-gaza](https://www.amnesty.org/en/latest/news/2023/10/damning-evidence-of-war-crimes-as-israeli-attacks-wipe-out-entire-families-in-gaza)
+ - date published: 2023-10-20T09:06:31+00:00
+ - user: rumpel
+ - tags: ['israel', 'war crimes']
 
 ## London Mayor Signs Order Forcing Londoners To Adopt ‘Planetary Health Diet’ By 2030
  - [https://www.planet-today.com/2023/10/london-mayor-signs-order-forcing.html?m=1](https://www.planet-today.com/2023/10/london-mayor-signs-order-forcing.html?m=1)

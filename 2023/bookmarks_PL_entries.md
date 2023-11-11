@@ -1,3 +1,9 @@
+## https://www.pap.pl/aktualnosci/polityk-postrzelony-w-twarz-w-centrum-madrytu
+ - [https://www.pap.pl/aktualnosci/polityk-postrzelony-w-twarz-w-centrum-madrytu](https://www.pap.pl/aktualnosci/polityk-postrzelony-w-twarz-w-centrum-madrytu)
+ - date published: 2023-11-10T11:48:29+00:00
+ - user: rumpel
+ - tags: ['christianophobia']
+
 ## Pytania o elektryczną rewolucję. Koncerny mówią o poważnym problemie
  - [https://motoryzacja.interia.pl/raport-samochody-elektryczne/news-to-juz-koniec-trendu-na-elektryki-koncerny-mowia-o-powaznym-,nId,7113222](https://motoryzacja.interia.pl/raport-samochody-elektryczne/news-to-juz-koniec-trendu-na-elektryki-koncerny-mowia-o-powaznym-,nId,7113222)
  - date published: 2023-10-28T18:29:21+00:00
