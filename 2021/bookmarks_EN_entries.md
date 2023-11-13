@@ -1306,6 +1306,12 @@
  - user: Thomas Pain
  - tags: []
 
+## Covid: Vaccine study links virus to rare neurological illness
+ - [https://www.bbc.com/news/health-59011511](https://www.bbc.com/news/health-59011511)
+ - date published: 2021-10-25T09:29:41+00:00
+ - user: rumpel
+ - tags: ['covid', 'vaccine']
+
 ## Despite having just 5.8% sales, over 38% of bug reports come from Linux | Hacker News
  - [https://news.ycombinator.com/item?id=28978086](https://news.ycombinator.com/item?id=28978086)
  - date published: 2021-10-25T08:08:41.168061+00:00

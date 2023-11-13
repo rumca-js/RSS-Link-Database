@@ -1,3 +1,9 @@
+## South Africa’s ‘Too White’ Farms May Lose EU, UK Access
+ - [https://www.bloomberg.com/news/articles/2023-11-12/south-africa-s-too-white-farms-lose-eu-uk-access-city-press#xj4y7vzkg](https://www.bloomberg.com/news/articles/2023-11-12/south-africa-s-too-white-farms-lose-eu-uk-access-city-press#xj4y7vzkg)
+ - date published: 2023-11-12T18:53:38+00:00
+ - user: rumpel
+ - tags: ['inequality', 'rpa', 'racism']
+
 ## Apple discriminated against US citizens in hiring, DOJ says
  - [https://arstechnica.com/tech-policy/2023/11/apple-discriminated-against-us-citizens-in-hiring-doj-says](https://arstechnica.com/tech-policy/2023/11/apple-discriminated-against-us-citizens-in-hiring-doj-says)
  - date published: 2023-11-10T21:45:38+00:00
@@ -28,11 +34,23 @@
  - user: rumpel
  - tags: ['religion']
 
+## Billionaires discuss $50 million anti-Hamas media blitz  | Semafor
+ - [https://www.semafor.com/article/11/09/2023/billionaires-discuss-50-million-anti-hamas-media-blitz](https://www.semafor.com/article/11/09/2023/billionaires-discuss-50-million-anti-hamas-media-blitz)
+ - date published: 2023-11-09T13:07:08+00:00
+ - user: rumpel
+ - tags: ['hamas', 'israel']
+
 ## New 'Orwellian' HHS pronoun mandate forces employees to 'deny reality,' violate law: legal expert
  - [https://www.foxnews.com/politics/new-orwellian-hhs-pronoun-mandate-forces-employees-to-deny-reality-violate-law-legal-expert](https://www.foxnews.com/politics/new-orwellian-hhs-pronoun-mandate-forces-employees-to-deny-reality-violate-law-legal-expert)
  - date published: 2023-11-09T09:00:29+00:00
  - user: rumpel
  - tags: ['pronouns', 'gender']
+
+## Court rules automakers can record and intercept owner text messages
+ - [https://therecord.media/class-action-lawsuit-cars-text-messages-privacy](https://therecord.media/class-action-lawsuit-cars-text-messages-privacy)
+ - date published: 2023-11-08T09:01:46+00:00
+ - user: rumpel
+ - tags: ['technofeudalism', 'surveillance', 'electric vehicles', 'privacy']
 
 ## Article 45 Will Roll Back Web Security by 12 Years
  - [https://www.eff.org/deeplinks/2023/11/article-45-will-roll-back-web-security-12-years](https://www.eff.org/deeplinks/2023/11/article-45-will-roll-back-web-security-12-years)
@@ -177,6 +195,12 @@
  - date published: 2023-10-19T05:33:24+00:00
  - user: rumpel
  - tags: ['malvertising']
+
+## Victoria’s Secret ditches prioritizing wokeness over ‘sexiness’ after sales drop
+ - [https://nypost.com/2023/10/18/victorias-secret-ditches-wokeness-over-sexiness-after-sales-drop](https://nypost.com/2023/10/18/victorias-secret-ditches-wokeness-over-sexiness-after-sales-drop)
+ - date published: 2023-10-18T09:26:20+00:00
+ - user: rumpel
+ - tags: ['go woke go broke', 'the left wing']
 
 ## Piped – An alternative privacy-friendly YouTube front end
  - [https://github.com/TeamPiped/Piped](https://github.com/TeamPiped/Piped)
