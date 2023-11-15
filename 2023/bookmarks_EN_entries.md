@@ -1,3 +1,9 @@
+## Web Browsing Data Is 'Serious Security Threat' To EU And US
+ - [https://www.forbes.com/sites/emmawoollacott/2023/11/14/web-browsing-data-is-serious-security-threat-to-eu-and-us](https://www.forbes.com/sites/emmawoollacott/2023/11/14/web-browsing-data-is-serious-security-threat-to-eu-and-us)
+ - date published: 2023-11-14T12:58:40+00:00
+ - user: rumpel
+ - tags: ['vulnerability', 'surveillance', 'ad business', 'privacy', 'technofeudalism']
+
 ## South Africa’s ‘Too White’ Farms May Lose EU, UK Access
  - [https://www.bloomberg.com/news/articles/2023-11-12/south-africa-s-too-white-farms-lose-eu-uk-access-city-press#xj4y7vzkg](https://www.bloomberg.com/news/articles/2023-11-12/south-africa-s-too-white-farms-lose-eu-uk-access-city-press#xj4y7vzkg)
  - date published: 2023-11-12T18:53:38+00:00
