@@ -1,3 +1,27 @@
+## Florida sued over ban on pro-Palestinian student groups
+ - [https://www.reuters.com/world/us/florida-sued-over-ban-pro-palestinian-student-groups-2023-11-16](https://www.reuters.com/world/us/florida-sued-over-ban-pro-palestinian-student-groups-2023-11-16)
+ - date published: 2023-11-16T20:59:54.309490+00:00
+ - user: rumpel
+ - tags: ['israel', 'palestine', 'inequality']
+
+## “Insanely eye-opening,” Osama Bin Laden's 'Letter to America' goes viral, leaves netizens divided
+ - [https://www.hindustantimes.com/world-news/us-news/insanely-eye-opening-osama-bin-ladens-letter-to-america-goes-viral-leaves-netizens-divided-101700141306751.html](https://www.hindustantimes.com/world-news/us-news/insanely-eye-opening-osama-bin-ladens-letter-to-america-goes-viral-leaves-netizens-divided-101700141306751.html)
+ - date published: 2023-11-16T15:25:09+00:00
+ - user: rumpel
+ - tags: ['letter to america', 'israel', 'palestine', 'osama bin laden', 'islam', 'censorship']
+
+## What man???
+ - [https://www.youtube.com/watch?v=Teq9oS8jwKo](https://www.youtube.com/watch?v=Teq9oS8jwKo)
+ - date published: 2023-11-16T13:57:56+00:00
+ - user: rumpel
+ - tags: ['racism', 'inequality']
+
+## The Truth is Always Made of Details
+ - [https://www.raptitude.com/2023/10/the-truth-is-always-made-of-details](https://www.raptitude.com/2023/10/the-truth-is-always-made-of-details)
+ - date published: 2023-11-16T07:23:59+00:00
+ - user: rumpel
+ - tags: ['wisdom', 'knowledge']
+
 ## Web Browsing Data Is 'Serious Security Threat' To EU And US
  - [https://www.forbes.com/sites/emmawoollacott/2023/11/14/web-browsing-data-is-serious-security-threat-to-eu-and-us](https://www.forbes.com/sites/emmawoollacott/2023/11/14/web-browsing-data-is-serious-security-threat-to-eu-and-us)
  - date published: 2023-11-14T12:58:40+00:00
@@ -1425,6 +1449,12 @@
  - date published: 2023-08-15T15:31:00+00:00
  - user: rumpel
  - tags: ['technofeudalism', 'moderation', 'censorship', 'corporatocracy']
+
+## The Kids Online Safety Act isn’t all right, critics say
+ - [https://arstechnica.com/tech-policy/2023/08/the-kids-online-safety-act-isnt-all-right-critics-say](https://arstechnica.com/tech-policy/2023/08/the-kids-online-safety-act-isnt-all-right-critics-say)
+ - date published: 2023-08-14T19:05:06+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'tech control', 'kids online safety act', 'kosa', 'big brother']
 
 ## Microplastics Found In Human Hearts For First Time, Showing Impact Of Pollution
  - [https://www.forbes.com/sites/brucelee/2023/08/14/microplastics-found-in-human-hearts-for-first-time-showing-impact-of-pollution/](https://www.forbes.com/sites/brucelee/2023/08/14/microplastics-found-in-human-hearts-for-first-time-showing-impact-of-pollution/)
