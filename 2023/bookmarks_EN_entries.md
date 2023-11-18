@@ -1,3 +1,9 @@
+## Elon Musk’s antisemitic post draws rebuke from White House; IBM pulls X ads
+ - [https://arstechnica.com/?p=1984814](https://arstechnica.com/?p=1984814)
+ - date published: 2023-11-17T18:01:45+00:00
+ - user: rumpel
+ - tags: ['israel']
+
 ## Florida sued over ban on pro-Palestinian student groups
  - [https://www.reuters.com/world/us/florida-sued-over-ban-pro-palestinian-student-groups-2023-11-16](https://www.reuters.com/world/us/florida-sued-over-ban-pro-palestinian-student-groups-2023-11-16)
  - date published: 2023-11-16T20:59:54.309490+00:00
