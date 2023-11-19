@@ -1,3 +1,9 @@
+## A Revolution Devours Its Children
+ - [https://blog.koehntopp.info/2023/11/11/a-revolution-devours-its-children.html](https://blog.koehntopp.info/2023/11/11/a-revolution-devours-its-children.html)
+ - date published: 2023-11-17T23:14:10+00:00
+ - user: rumpel
+ - tags: ['open source']
+
 ## Elon Musk’s antisemitic post draws rebuke from White House; IBM pulls X ads
  - [https://arstechnica.com/?p=1984814](https://arstechnica.com/?p=1984814)
  - date published: 2023-11-17T18:01:45+00:00
@@ -39,6 +45,12 @@
  - date published: 2023-11-12T18:53:38+00:00
  - user: rumpel
  - tags: ['inequality', 'rpa', 'racism']
+
+## Italy: Muslim migrant destroys three crucifixes in a church, threatens cops
+ - [https://www.jihadwatch.org/2023/11/italy-muslim-migrant-destroys-three-crucifixes-in-a-church-threatens-cops](https://www.jihadwatch.org/2023/11/italy-muslim-migrant-destroys-three-crucifixes-in-a-church-threatens-cops)
+ - date published: 2023-11-11T11:53:39+00:00
+ - user: rumpel
+ - tags: ['terrorism', 'islam', 'christioanophobia', 'italy', 'religion', 'immigration']
 
 ## Apple discriminated against US citizens in hiring, DOJ says
  - [https://arstechnica.com/tech-policy/2023/11/apple-discriminated-against-us-citizens-in-hiring-doj-says](https://arstechnica.com/tech-policy/2023/11/apple-discriminated-against-us-citizens-in-hiring-doj-says)
@@ -1094,7 +1106,7 @@
  - [https://nypost.com/2023/08/31/still-no-evidence-of-mass-graves-of-indigenous-children-in-canada](https://nypost.com/2023/08/31/still-no-evidence-of-mass-graves-of-indigenous-children-in-canada)
  - date published: 2023-08-30T18:26:09+00:00
  - user: rumpel
- - tags: ['canada', 'church scandal']
+ - tags: ['canada', 'church scandal', 'religion']
 
 ## Anti-Toxicity Progress Report – Voice Chat Moderation
  - [https://www.callofduty.com/blog/2023/08/call-of-duty-modern-warfare-warzone-anti-toxicity-progress-report](https://www.callofduty.com/blog/2023/08/call-of-duty-modern-warfare-warzone-anti-toxicity-progress-report)
