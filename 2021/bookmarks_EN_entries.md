@@ -4174,6 +4174,12 @@
  - user: rumpel
  - tags: ['propaganda', 'covid', 'vaccine']
 
+## Video platform chief says Nazi posts on white superiority do not merit removal
+ - [https://www.theguardian.com/world/2021/may/14/odysee-video-platform-nazi-content-not-grounds-for-removal](https://www.theguardian.com/world/2021/may/14/odysee-video-platform-nazi-content-not-grounds-for-removal)
+ - date published: 2021-05-14T21:35:04+00:00
+ - user: rumpel
+ - tags: ['moderation', 'free speech', 'odysee', 'white supremacy']
+
 ## Neuroscience Professor Removed From APA Discussion After Saying There Are Only Two Sexes
  - [https://www.newsweek.com/neuroscience-professor-removed-apa-discussion-after-saying-there-are-only-two-genders-1591697](https://www.newsweek.com/neuroscience-professor-removed-apa-discussion-after-saying-there-are-only-two-genders-1591697)
  - date published: 2021-05-14T20:54:35+00:00

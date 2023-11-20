@@ -508,6 +508,12 @@
  - user: rumpel
  - tags: ['dead internet', 'enshittification', 'google', 'ad business', 'search engines']
 
+## Scientists linked to Wuhan lab accused of performing dangerous experiments that could cause leak
+ - [https://www.telegraph.co.uk/news/2023/09/27/scientists-linked-to-wuhan-lab-accused-of-performing-danger](https://www.telegraph.co.uk/news/2023/09/27/scientists-linked-to-wuhan-lab-accused-of-performing-danger)
+ - date published: 2023-09-27T09:32:49+00:00
+ - user: rumpel
+ - tags: ['pandemic', 'wuhan', 'covid']
+
 ## When it matters, say it on Forem — Forem
  - [https://forem.com/](https://forem.com/)
  - date published: 2023-09-27T06:17:25+00:00
