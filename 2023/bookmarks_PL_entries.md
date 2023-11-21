@@ -1,3 +1,9 @@
+## KONIEC PRYWATNOŚCI w internecie nadchodzi.
+ - [https://www.youtube.com/watch?v=W00XCGCkuWw](https://www.youtube.com/watch?v=W00XCGCkuWw)
+ - date published: 2023-11-17T19:45:07+00:00
+ - user: rumpel
+ - tags: ['censorship', 'privacy', 'surveillance']
+
 ## https://www.pap.pl/aktualnosci/polityk-postrzelony-w-twarz-w-centrum-madrytu
  - [https://www.pap.pl/aktualnosci/polityk-postrzelony-w-twarz-w-centrum-madrytu](https://www.pap.pl/aktualnosci/polityk-postrzelony-w-twarz-w-centrum-madrytu)
  - date published: 2023-11-10T11:48:29+00:00

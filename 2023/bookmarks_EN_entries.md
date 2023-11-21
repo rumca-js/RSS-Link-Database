@@ -1,3 +1,21 @@
+## Meta’s approach of ‘pay for your privacy’ is wrong
+ - [https://tuta.com/blog/meta-pay-for-privacy-illegal](https://tuta.com/blog/meta-pay-for-privacy-illegal)
+ - date published: 2023-11-20T13:05:47+00:00
+ - user: rumpel
+ - tags: ['subscription', 'privacy']
+
+## YouTube artificially slows down video load times when using Firefox
+ - [https://reddit.com/r/youtube/comments/17z8hsz/youtube_has_started_to_artificially_slow_down](https://reddit.com/r/youtube/comments/17z8hsz/youtube_has_started_to_artificially_slow_down)
+ - date published: 2023-11-20T10:16:14+00:00
+ - user: rumpel
+ - tags: ['firefox', 'monopoly', 'google', 'youtube', 'dark design']
+
+## BBC ‘hypocrisy’ row as reporter racks up air miles to criticise global emissions
+ - [https://www.telegraph.co.uk/news/2023/11/18/bbc-hypocrisy-row-air-miles-emissions](https://www.telegraph.co.uk/news/2023/11/18/bbc-hypocrisy-row-air-miles-emissions)
+ - date published: 2023-11-18T14:54:39+00:00
+ - user: rumpel
+ - tags: ['climate change', 'hypocrisy']
+
 ## A Revolution Devours Its Children
  - [https://blog.koehntopp.info/2023/11/11/a-revolution-devours-its-children.html](https://blog.koehntopp.info/2023/11/11/a-revolution-devours-its-children.html)
  - date published: 2023-11-17T23:14:10+00:00
@@ -9,6 +27,12 @@
  - date published: 2023-11-17T18:01:45+00:00
  - user: rumpel
  - tags: ['israel']
+
+## The Ben Gurion Canal: Israel’s Potential Revolutionary Alternative To Suez – Analysis
+ - [https://www.eurasiareview.com/17112023-the-ben-gurion-canal-israels-potential-revolutionary-alternative-to-suez-analysis](https://www.eurasiareview.com/17112023-the-ben-gurion-canal-israels-potential-revolutionary-alternative-to-suez-analysis)
+ - date published: 2023-11-17T14:50:53+00:00
+ - user: rumpel
+ - tags: ['israel', 'ben gurion canal']
 
 ## Florida sued over ban on pro-Palestinian student groups
  - [https://www.reuters.com/world/us/florida-sued-over-ban-pro-palestinian-student-groups-2023-11-16](https://www.reuters.com/world/us/florida-sued-over-ban-pro-palestinian-student-groups-2023-11-16)
@@ -1449,6 +1473,12 @@
  - date published: 2023-08-16T23:01:46+00:00
  - user: rumpel
  - tags: ['artificial intelligence', 'chatgpt']
+
+## X apparently added 5-second delay for links to sites Musk doesn’t like
+ - [https://arstechnica.com/tech-policy/2023/08/x-apparently-added-5-second-delay-for-links-to-sites-musk-doesnt-like](https://arstechnica.com/tech-policy/2023/08/x-apparently-added-5-second-delay-for-links-to-sites-musk-doesnt-like)
+ - date published: 2023-08-16T14:07:31+00:00
+ - user: rumpel
+ - tags: ['dark design', 'censorship', 'elon musk', 'twitter']
 
 ## Nissan | Privacy & security guide | Mozilla Foundation
  - [https://foundation.mozilla.org/en/privacynotincluded/nissan/](https://foundation.mozilla.org/en/privacynotincluded/nissan/)
