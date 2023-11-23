@@ -1,3 +1,27 @@
+## Susan Sarandon, Melissa Barrera dropped from Hollywood companies after comments on Israel-Hamas war
+ - [https://japantoday.com/category/entertainment/susan-sarandon-melissa-barrera-dropped-from-hollywood-companies-after-comments-on-israel-hamas-war](https://japantoday.com/category/entertainment/susan-sarandon-melissa-barrera-dropped-from-hollywood-companies-after-comments-on-israel-hamas-war)
+ - date published: 2023-11-22T21:23:05+00:00
+ - user: rumpel
+ - tags: ['censorship']
+
+## The President John F. Kennedy Assassination Records Collection
+ - [https://www.archives.gov/research/jfk](https://www.archives.gov/research/jfk)
+ - date published: 2023-11-22T15:53:34+00:00
+ - user: rumpel
+ - tags: ['john f. kennedy']
+
+## World's richest 1% emit as much carbon as 5 billion people, report says
+ - [https://www.cbsnews.com/news/worlds-richest-carbon-emissions-climate-change-report](https://www.cbsnews.com/news/worlds-richest-carbon-emissions-climate-change-report)
+ - date published: 2023-11-21T21:50:00+00:00
+ - user: rumpel
+ - tags: ['climate change']
+
+## People who stuck by UK Covid rules have worst mental health, says survey
+ - [https://www.theguardian.com/world/2023/nov/21/people-who-stuck-by-uk-covid-rules-have-worst-mental-health-says-survey](https://www.theguardian.com/world/2023/nov/21/people-who-stuck-by-uk-covid-rules-have-worst-mental-health-says-survey)
+ - date published: 2023-11-21T08:50:52+00:00
+ - user: rumpel
+ - tags: ['covid']
+
 ## Meta’s approach of ‘pay for your privacy’ is wrong
  - [https://tuta.com/blog/meta-pay-for-privacy-illegal](https://tuta.com/blog/meta-pay-for-privacy-illegal)
  - date published: 2023-11-20T13:05:47+00:00
