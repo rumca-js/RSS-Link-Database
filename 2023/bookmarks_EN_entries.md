@@ -1,3 +1,21 @@
+## Microsoft discovers North Korean malware in legitimate CyberLink downloader
+ - [https://www.biometricupdate.com/202311/microsoft-discovers-north-korean-malware-in-legitimate-cyberlink-downloader](https://www.biometricupdate.com/202311/microsoft-discovers-north-korean-malware-in-legitimate-cyberlink-downloader)
+ - date published: 2023-11-23T18:11:55+00:00
+ - user: rumpel
+ - tags: ['cyberlink', 'microsoft', 'lazarus']
+
+## Hemisphere Project - Wikipedia
+ - [https://en.m.wikipedia.org/wiki/Hemisphere_Project](https://en.m.wikipedia.org/wiki/Hemisphere_Project)
+ - date published: 2023-11-23T17:41:28+00:00
+ - user: rumpel
+ - tags: ['hemisphere', 'technofeudalism', 'privacy', 'surveillance']
+
+## US govt pays AT&T to let cops search Americans' phone records without warrant
+ - [https://www.theregister.com/2023/11/22/wyden_hemisphere_letter](https://www.theregister.com/2023/11/22/wyden_hemisphere_letter)
+ - date published: 2023-11-23T14:43:13+00:00
+ - user: rumpel
+ - tags: ['manufacturing consent', 'surveillance', 'technofeudalism', 'privacy', 'hemisphere', 'at&t', 'privacy laundering']
+
 ## Susan Sarandon, Melissa Barrera dropped from Hollywood companies after comments on Israel-Hamas war
  - [https://japantoday.com/category/entertainment/susan-sarandon-melissa-barrera-dropped-from-hollywood-companies-after-comments-on-israel-hamas-war](https://japantoday.com/category/entertainment/susan-sarandon-melissa-barrera-dropped-from-hollywood-companies-after-comments-on-israel-hamas-war)
  - date published: 2023-11-22T21:23:05+00:00
@@ -207,6 +225,12 @@
  - date published: 2023-11-02T08:29:02+00:00
  - user: rumpel
  - tags: ['apple', 'surveillance', 'privacy', 'technofeudalism']
+
+## Last Chance to fix eIDAS: Secret EU law threatens Internet security
+ - [https://last-chance-for-eidas.org](https://last-chance-for-eidas.org)
+ - date published: 2023-11-02T05:57:42+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'privacy', 'eidas']
 
 ## The people who ruined the internet
  - [https://www.theverge.com/features/23931789/seo-search-engine-optimization-experts-google-results](https://www.theverge.com/features/23931789/seo-search-engine-optimization-experts-google-results)
