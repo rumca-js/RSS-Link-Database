@@ -388,6 +388,12 @@
  - user: rumpel
  - tags: ['tracking', 'duckduckgo', 'google', 'privacy']
 
+## UK woman arrested for silently praying across from abortion clinic: ‘Terrifying’ | New York Post
+ - [https://www.youtube.com/watch?v=wXURFRSUS9U](https://www.youtube.com/watch?v=wXURFRSUS9U)
+ - date published: 2022-12-23T00:00:00+00:00
+ - user: rumpel
+ - tags: ['thought crime', 'orwell', 'religion', 'christioanophobia']
+
 ## Spain passes law to allow people over 16 to change legal gender without medical approval
  - [https://nypost.com/2022/12/22/spain-law-allows-teens-to-change-legal-gender-without-medical-approval/](https://nypost.com/2022/12/22/spain-law-allows-teens-to-change-legal-gender-without-medical-approval/)
  - date published: 2022-12-22T22:26:23+00:00

@@ -226,6 +226,12 @@
  - user: rumpel
  - tags: ['poland', 'immigration']
 
+## WEF wzywa do 75% redukcji prywatnych samochodów
+ - [https://ithardware.pl/aktualnosci/wef_wzywa_do_75_redukcji_wlasnosci_prywatnych_samochodow-27875.html](https://ithardware.pl/aktualnosci/wef_wzywa_do_75_redukcji_wlasnosci_prywatnych_samochodow-27875.html)
+ - date published: 2023-06-19T19:09:05+00:00
+ - user: rumpel
+ - tags: ['world economic forum', 'electric vehicles', 'wef', 'climate change']
+
 ## Korupcja przy eksporcie zboża z Ukrainy. Milion dolarów łapówek miesięcznie - Money.pl
  - [https://www.money.pl/gospodarka/milion-dolarow-lapowek-miesiecznie-korupcja-przy-eksporcie-zboza-z-ukrainy-6910673317431968a.html](https://www.money.pl/gospodarka/milion-dolarow-lapowek-miesiecznie-korupcja-przy-eksporcie-zboza-z-ukrainy-6910673317431968a.html)
  - date published: 2023-06-19T07:10:12+00:00

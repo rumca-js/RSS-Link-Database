@@ -1,3 +1,27 @@
+## FBI Uses Backdoor Searches On US Citizens Without Warrants Or Probable Cause. Will Republicans Stop This Practice?
+ - [https://tuta.com/blog/why-a-backdoor-is-a-security-risk](https://tuta.com/blog/why-a-backdoor-is-a-security-risk)
+ - date published: 2023-11-27T10:07:40+00:00
+ - user: rumpel
+ - tags: ['privacy', 'fbi', 'surveillance']
+
+## Pentagon's AI initiatives accelerate hard decisions on lethal autonomous weapons
+ - [https://apnews.com/article/us-military-ai-projects-0773b4937801e7a0573f44b57a9a5942](https://apnews.com/article/us-military-ai-projects-0773b4937801e7a0573f44b57a9a5942)
+ - date published: 2023-11-26T08:21:07+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence', 'pentagon']
+
+## New Wave Sci-Fi: 75 Best Novels of 1964–1983
+ - [https://www.hilobrow.com/new-wave-sci-fi](https://www.hilobrow.com/new-wave-sci-fi)
+ - date published: 2023-11-25T17:21:06+00:00
+ - user: rumpel
+ - tags: ['books']
+
+## Google Pays 1150 Times More for Its Search Monopoly Than for Lobbying in the EU & US
+ - [https://tuta.com/blog/google-search-monopoly](https://tuta.com/blog/google-search-monopoly)
+ - date published: 2023-11-24T10:10:41+00:00
+ - user: rumpel
+ - tags: ['dark design', 'google', 'lobbying', 'monopoly']
+
 ## Microsoft discovers North Korean malware in legitimate CyberLink downloader
  - [https://www.biometricupdate.com/202311/microsoft-discovers-north-korean-malware-in-legitimate-cyberlink-downloader](https://www.biometricupdate.com/202311/microsoft-discovers-north-korean-malware-in-legitimate-cyberlink-downloader)
  - date published: 2023-11-23T18:11:55+00:00
@@ -28,6 +52,12 @@
  - user: rumpel
  - tags: ['john f. kennedy']
 
+## Microsoft’s Windows Hello fingerprint authentication has been bypassed
+ - [https://www.theverge.com/2023/11/22/23972220/microsoft-windows-hello-fingerprint-authentication-bypass-security-vulnerability](https://www.theverge.com/2023/11/22/23972220/microsoft-windows-hello-fingerprint-authentication-bypass-security-vulnerability)
+ - date published: 2023-11-22T12:03:41+00:00
+ - user: rumpel
+ - tags: ['microsoft', 'windows hello', 'biometrics']
+
 ## World's richest 1% emit as much carbon as 5 billion people, report says
  - [https://www.cbsnews.com/news/worlds-richest-carbon-emissions-climate-change-report](https://www.cbsnews.com/news/worlds-richest-carbon-emissions-climate-change-report)
  - date published: 2023-11-21T21:50:00+00:00
@@ -39,6 +69,12 @@
  - date published: 2023-11-21T08:50:52+00:00
  - user: rumpel
  - tags: ['covid']
+
+## Democrats’ Need To Censor And Spread Disinformation Behind Media War On Elon Musk’s X
+ - [https://public.substack.com/p/democrats-need-to-censor-and-spread](https://public.substack.com/p/democrats-need-to-censor-and-spread)
+ - date published: 2023-11-20T16:09:04+00:00
+ - user: rumpel
+ - tags: ['the right wing', 'the left wing', 'media matters', 'elon musk']
 
 ## Meta’s approach of ‘pay for your privacy’ is wrong
  - [https://tuta.com/blog/meta-pay-for-privacy-illegal](https://tuta.com/blog/meta-pay-for-privacy-illegal)
@@ -1833,6 +1869,12 @@
  - date published: 2023-08-02T11:39:13+00:00
  - user: rumpel
  - tags: ['big brother', 'covid']
+
+## Elon Musk, Donald Trump Jr and the Irish hate speech row
+ - [https://www.bbc.com/news/articles/c4nj2xzrz83o](https://www.bbc.com/news/articles/c4nj2xzrz83o)
+ - date published: 2023-08-02T11:16:45+00:00
+ - user: rumpel
+ - tags: ['elon musk', 'hate speech', 'free speech']
 
 ## South America is living one of the climate extreme events
  - [https://twitter.com/extremetemps/status/1686485331539820545](https://twitter.com/extremetemps/status/1686485331539820545)
