@@ -1,3 +1,15 @@
+## Edward Snowden - Wikiquote
+ - [https://en.wikiquote.org/wiki/Edward_Snowden](https://en.wikiquote.org/wiki/Edward_Snowden)
+ - date published: 2023-11-28T19:02:29+00:00
+ - user: rumpel
+ - tags: ['privacy', 'quotes', 'surveillance', 'edward snowden']
+
+## Phil Zimmermann - Wikiquote
+ - [https://en.wikiquote.org/wiki/Phil_Zimmermann](https://en.wikiquote.org/wiki/Phil_Zimmermann)
+ - date published: 2023-11-28T08:46:07+00:00
+ - user: rumpel
+ - tags: ['privacy', 'quotes', 'surveillance']
+
 ## FBI Uses Backdoor Searches On US Citizens Without Warrants Or Probable Cause. Will Republicans Stop This Practice?
  - [https://tuta.com/blog/why-a-backdoor-is-a-security-risk](https://tuta.com/blog/why-a-backdoor-is-a-security-risk)
  - date published: 2023-11-27T10:07:40+00:00
