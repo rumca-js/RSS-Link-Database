@@ -1,3 +1,9 @@
+## Why are so many Palestinian women being killed in Israel’s war on Gaza?
+ - [https://www.aljazeera.com/program/inside-story/2023/11/29/why-are-so-many-palestinian-women-being-killed-in-israels-war-on-gaza?traffic_source=rss](https://www.aljazeera.com/program/inside-story/2023/11/29/why-are-so-many-palestinian-women-being-killed-in-israels-war-on-gaza?traffic_source=rss)
+ - date published: 2023-11-29T18:22:39+00:00
+ - user: rumpel
+ - tags: ['palestine', 'israel', 'gaza']
+
 ## Edward Snowden - Wikiquote
  - [https://en.wikiquote.org/wiki/Edward_Snowden](https://en.wikiquote.org/wiki/Edward_Snowden)
  - date published: 2023-11-28T19:02:29+00:00
@@ -9,6 +15,12 @@
  - date published: 2023-11-28T08:46:07+00:00
  - user: rumpel
  - tags: ['privacy', 'quotes', 'surveillance']
+
+## Moderna keeps tabs on ‘high risk’ anti-vaccine celebs like Elon Musk, Novak Djokovic, Russell Brand: report
+ - [https://nypost.com/2023/11/27/business/moderna-keeps-tabs-on-high-risk-anti-vaccine-celebs-like-novak-djokovic](https://nypost.com/2023/11/27/business/moderna-keeps-tabs-on-high-risk-anti-vaccine-celebs-like-novak-djokovic)
+ - date published: 2023-11-27T14:08:37+00:00
+ - user: rumpel
+ - tags: ['russel brand', 'novak djokovic', 'elon musk', 'moderna', 'covid']
 
 ## FBI Uses Backdoor Searches On US Citizens Without Warrants Or Probable Cause. Will Republicans Stop This Practice?
  - [https://tuta.com/blog/why-a-backdoor-is-a-security-risk](https://tuta.com/blog/why-a-backdoor-is-a-security-risk)
@@ -219,6 +231,12 @@
  - date published: 2023-11-07T18:52:21+00:00
  - user: rumpel
  - tags: ['crypto wars', 'surveillance', 'privacy']
+
+## Why women, children are disproportionately impacted by the conflict in Gaza: Experts
+ - [https://abcnews.go.com/International/women-children-disproportionately-impacted-conflict-gaza-experts/story?id=104655493](https://abcnews.go.com/International/women-children-disproportionately-impacted-conflict-gaza-experts/story?id=104655493)
+ - date published: 2023-11-07T18:40:53+00:00
+ - user: rumpel
+ - tags: ['palestine', 'israel', 'gaza']
 
 ## In Amended Complaint, FTC Alleges Kochava, a Data Broker, Is Collecting, Using and Disclosing “Massive Amounts” of Precise Geolocation Data | JD Supra
  - [https://www.jdsupra.com/legalnews/in-amended-complaint-ftc-alleges-8272948](https://www.jdsupra.com/legalnews/in-amended-complaint-ftc-alleges-8272948)
