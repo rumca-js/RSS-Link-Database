@@ -16,6 +16,12 @@
  - user: rumpel
  - tags: ['terrorism', 'surveillance', 'patriot act']
 
+## Did a WTC Leaseholder Buy Terrorism Insurance Just Before 9/11?
+ - [https://www.snopes.com/fact-check/wtc-terrorism-insurance](https://www.snopes.com/fact-check/wtc-terrorism-insurance)
+ - date published: 2001-09-11T13:08:16+00:00
+ - user: rumpel
+ - tags: ['conspiracy theory', 'twin towers', '911', 'larry silverstein']
+
 ## PACER (law) - Wikipedia
  - [https://en.wikipedia.org/wiki/PACER_(law)](https://en.wikipedia.org/wiki/PACER_(law))
  - date published: 2001-06-14T10:05:19+00:00

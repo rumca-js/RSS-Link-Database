@@ -62,7 +62,7 @@
  - [https://www.justice.gov/opa/pr/johnson-johnson-pay-more-22-billion-resolve-criminal-and-civil-investigations](https://www.justice.gov/opa/pr/johnson-johnson-pay-more-22-billion-resolve-criminal-and-civil-investigations)
  - date published: 2013-11-04T20:05:26+00:00
  - user: rumpel
- - tags: ['johnson and johnson', 'big pharma']
+ - tags: ['big pharma', 'medical scandal', 'johnson and johnson']
 
 ## YOU MAN - "BIRDCAGE"
  - [https://www.youtube.com/watch?v=PD3RCwNseqQ](https://www.youtube.com/watch?v=PD3RCwNseqQ)
@@ -93,6 +93,12 @@
  - date published: 2013-09-11T07:24:34+00:00
  - user: rumpel
  - tags: ['privacy', 'surveillance', 'big brother', 'anonymity', 'encryption', 'crypto wars']
+
+## China threatens tough punishment for online rumour spreading
+ - [https://www.reuters.com/article/china-internet-idINDEE98806R20130909](https://www.reuters.com/article/china-internet-idINDEE98806R20130909)
+ - date published: 2013-09-09T08:38:01+00:00
+ - user: rumpel
+ - tags: ['misinformation', 'spreading rumors', 'china', 'disinformation']
 
 ## N.S.A. Able to Foil Basic Safeguards of Privacy on Web - The New York Times
  - [https://www.nytimes.com/2013/09/06/us/nsa-foils-much-internet-encryption.html](https://www.nytimes.com/2013/09/06/us/nsa-foils-much-internet-encryption.html)

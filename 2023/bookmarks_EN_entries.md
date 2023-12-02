@@ -1,8 +1,50 @@
+## Trial Wrap — US v Google
+ - [https://usvgoogle.org/trial-wrap-11-20](https://usvgoogle.org/trial-wrap-11-20)
+ - date published: 2023-12-01T08:39:27+00:00
+ - user: rumpel
+ - tags: ['dark design', 'monopoly', 'google']
+
+## EP rejects mass scanning of private messages - European Digital Rights (EDRi)
+ - [https://edri.org/our-work/csar-european-parliament-rejects-mass-scanning-of-private-messages](https://edri.org/our-work/csar-european-parliament-rejects-mass-scanning-of-private-messages)
+ - date published: 2023-12-01T08:30:16+00:00
+ - user: rumpel
+ - tags: ['csar', 'privacy', 'surveillance']
+
+## Hamas was created by Israeli and US intelligence services to counteract Yasser Arafat, Ron Paul explains   – NaturalNews.com
+ - [https://www.naturalnews.com/2023-10-12-hamas-created-israel-yasser-arafat-ron-paul.html](https://www.naturalnews.com/2023-10-12-hamas-created-israel-yasser-arafat-ron-paul.html)
+ - date published: 2023-12-01T08:29:25+00:00
+ - user: rumpel
+ - tags: ['israel', 'hamas', 'palestine']
+
+## Windsor police officer who donated to Ottawa convoy will learn his penalty in May | CBC News
+ - [https://www.cbc.ca/news/canada/windsor/windsor-police-convoy-donation-1.6792348](https://www.cbc.ca/news/canada/windsor/windsor-police-convoy-donation-1.6792348)
+ - date published: 2023-12-01T08:26:27+00:00
+ - user: rumpel
+ - tags: ['freedom convoy', 'crowdfunding', 'covid']
+
+## Israel Knew Hamas’s Attack Plan Over a Year Ago
+ - [https://www.nytimes.com/2023/11/30/world/middleeast/israel-hamas-attack-intelligence.html](https://www.nytimes.com/2023/11/30/world/middleeast/israel-hamas-attack-intelligence.html)
+ - date published: 2023-12-01T00:24:33+00:00
+ - user: rumpel
+ - tags: ['palestine', 'israel', 'hamas']
+
+## West Belfast: Anti-immigration signage a 'hate incident'
+ - [https://www.bbc.com/news/uk-northern-ireland-67566360](https://www.bbc.com/news/uk-northern-ireland-67566360)
+ - date published: 2023-11-30T08:01:15+00:00
+ - user: rumpel
+ - tags: ['irish lives matter', 'hate speech', 'immigration', 'inequality']
+
 ## Why are so many Palestinian women being killed in Israel’s war on Gaza?
  - [https://www.aljazeera.com/program/inside-story/2023/11/29/why-are-so-many-palestinian-women-being-killed-in-israels-war-on-gaza?traffic_source=rss](https://www.aljazeera.com/program/inside-story/2023/11/29/why-are-so-many-palestinian-women-being-killed-in-israels-war-on-gaza?traffic_source=rss)
  - date published: 2023-11-29T18:22:39+00:00
  - user: rumpel
  - tags: ['palestine', 'israel', 'gaza']
+
+## Thalidomide: Australia gives national apology to survivors and families
+ - [https://www.bbc.com/news/world-australia-67562532](https://www.bbc.com/news/world-australia-67562532)
+ - date published: 2023-11-29T07:56:06+00:00
+ - user: rumpel
+ - tags: ['big pharma', 'thalidomide', 'australia', 'medical scandal']
 
 ## Edward Snowden - Wikiquote
  - [https://en.wikiquote.org/wiki/Edward_Snowden](https://en.wikiquote.org/wiki/Edward_Snowden)
@@ -687,6 +729,12 @@
  - date published: 2023-09-25T13:42:23+00:00
  - user: rumpel
  - tags: ['science is dead', 'covid', 'long covid']
+
+## ‘Who Benefits?’ Inside the EU’s Fight over Scanning for Child Sex Content
+ - [https://balkaninsight.com/2023/09/25/who-benefits-inside-the-eus-fight-over-scanning-for-child-sex-content/](https://balkaninsight.com/2023/09/25/who-benefits-inside-the-eus-fight-over-scanning-for-child-sex-content/)
+ - date published: 2023-09-25T11:12:05+00:00
+ - user: rumpel
+ - tags: ['privacy', 'surveillance']
 
 ## Volkswagen cuts jobs as demand for EVs plunges
  - [https://fortune.com/2023/09/14/vw-cutting-jobs-german-ev-factory-because-demand-plunging-china-tesla/](https://fortune.com/2023/09/14/vw-cutting-jobs-german-ev-factory-because-demand-plunging-china-tesla/)
@@ -1767,6 +1815,12 @@
  - date published: 2023-08-06T17:20:29+00:00
  - user: rumpel
  - tags: ['electric vehicles']
+
+## Bin Ladin Determined To Strike in US - Wikipedia
+ - [https://en.wikipedia.org/wiki/Bin_Ladin_Determined_To_Strike_in_US](https://en.wikipedia.org/wiki/Bin_Ladin_Determined_To_Strike_in_US)
+ - date published: 2023-08-06T13:03:13+00:00
+ - user: rumpel
+ - tags: ['911', 'manufacturing consent', 'osama bin laden']
 
 ## Goodhart's law - Wikipedia
  - [https://en.wikipedia.org/wiki/Goodhart%27s_law](https://en.wikipedia.org/wiki/Goodhart%27s_law)
@@ -5756,7 +5810,7 @@
  - [https://www.nytimes.com/2023/04/04/business/media/johnson-johnson-talc-settlement.html](https://www.nytimes.com/2023/04/04/business/media/johnson-johnson-talc-settlement.html)
  - date published: 2023-04-05T13:32:46+00:00
  - user: rumpel
- - tags: ['johnson and johnson', 'big pharma']
+ - tags: ['big pharma', 'medical scandal', 'johnson and johnson']
 
 ## GPT4 impersonating a FTP server at ftp.disney.com
  - [https://www.filestash.app/2023/04/01/chat-gpt-acting-as-a-ftp-server/](https://www.filestash.app/2023/04/01/chat-gpt-acting-as-a-ftp-server/)

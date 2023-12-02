@@ -28,6 +28,12 @@
  - user: rumpel
  - tags: ['the left wing', 'indoctrination']
 
+## China: New Ban on ‘Spreading Rumors’ About Disasters
+ - [https://www.hrw.org/news/2015/11/02/china-new-ban-spreading-rumors-about-disasters](https://www.hrw.org/news/2015/11/02/china-new-ban-spreading-rumors-about-disasters)
+ - date published: 2015-11-02T08:36:33+00:00
+ - user: rumpel
+ - tags: ['misinformation', 'spreading rumors', 'china', 'disinformation']
+
 ## How to Control What People Do | Propaganda - EDWARD BERNAYS | Animated Book Summary
  - [https://www.youtube.com/watch?v=8Q-3qwEDyPM](https://www.youtube.com/watch?v=8Q-3qwEDyPM)
  - date published: 2015-10-26T16:07:21+00:00
@@ -57,6 +63,12 @@
  - date published: 2015-09-25T20:42:33+00:00
  - user: rumpel
  - tags: ['war', 'lecture', 'all time', 'ukraine']
+
+## American activist Barbara Lerner Spectre calls for destruction of European ethnic societies
+ - [https://www.youtube.com/watch?v=8ERmOpZrKtw](https://www.youtube.com/watch?v=8ERmOpZrKtw)
+ - date published: 2015-09-19T00:00:00+00:00
+ - user: rumpel
+ - tags: ['barbara lerner spectre', 'immigration', 'white genocide']
 
 ## Secret 'dark net' operation saves scores of children from abuse; ringleader Shannon McCoole behind bars after police take over child porn site
  - [https://www.abc.net.au/news/2015-08-26/secret-anti-paedophile-operation-saves-children-from-abuse/6720304](https://www.abc.net.au/news/2015-08-26/secret-anti-paedophile-operation-saves-children-from-abuse/6720304)

@@ -2020,6 +2020,12 @@
  - user: rumpel
  - tags: ['search engines', 'social media', 'manufacturing consent', 'algorithms', 'facebook', 'mark zuckerberg', 'meta']
 
+## Long-Secret FBI Report Reveals New Connections Between 9/11 Hijackers and Saudi Religious Officials in U.S.
+ - [https://www.propublica.org/article/long-secret-fbi-report-reveals-new-connections-between-9-11-hijackers-and-saudi-religious-officials-in-u-s](https://www.propublica.org/article/long-secret-fbi-report-reveals-new-connections-between-9-11-hijackers-and-saudi-religious-officials-in-u-s)
+ - date published: 2021-09-21T12:57:49+00:00
+ - user: rumpel
+ - tags: ['911', 'saudi arabia']
+
 ## Fast Fashion Is Hot Garbage | Climate Town
  - [https://www.youtube.com/watch?v=F6R_WTDdx7I](https://www.youtube.com/watch?v=F6R_WTDdx7I)
  - date published: 2021-09-21T07:45:28+00:00
@@ -3470,7 +3476,7 @@
  - [https://www.reuters.com/business/healthcare-pharmaceuticals/target-removes-jj-sunscreens-stores-website-2021-07-16/](https://www.reuters.com/business/healthcare-pharmaceuticals/target-removes-jj-sunscreens-stores-website-2021-07-16/)
  - date published: 2021-07-16T20:22:42+00:00
  - user: rumpel
- - tags: ['johnson and johnson', 'big pharma']
+ - tags: ['big pharma', 'medical scandal', 'johnson and johnson']
 
 ## Creating the Golfcart Programming Language — Andrew Healey
  - [https://healeycodes.com/creating-the-golfcart-programming-language/](https://healeycodes.com/creating-the-golfcart-programming-language/)

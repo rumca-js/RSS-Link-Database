@@ -10324,6 +10324,12 @@
  - user: Thomas Pain
  - tags: []
 
+## Chinese government adviser calls for law to ban ‘fake news’
+ - [https://www.theguardian.com/world/2022/mar/08/chinese-government-adviser-calls-for-law-to-ban-fake-news](https://www.theguardian.com/world/2022/mar/08/chinese-government-adviser-calls-for-law-to-ban-fake-news)
+ - date published: 2022-03-08T08:35:33+00:00
+ - user: rumpel
+ - tags: ['china', 'spreading rumors', 'fake news']
+
 ## FDA Begins Releasing Pfizer COVID Vax Documents | MedPage Today
  - [https://www.medpagetoday.com/special-reports/exclusives/97544](https://www.medpagetoday.com/special-reports/exclusives/97544)
  - date published: 2022-03-07T19:23:51+00:00

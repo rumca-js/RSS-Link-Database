@@ -1648,6 +1648,12 @@
  - user: rumpel
  - tags: ['chip', 'covid', 'pandemic', 'biometric', 'profusa']
 
+## China officially makes internet rumor-mongering a crime amid coronavirus
+ - [https://www.scmp.com/abacus/news-bites/article/3064586/china-officially-makes-internet-rumor-mongering-crime-amid](https://www.scmp.com/abacus/news-bites/article/3064586/china-officially-makes-internet-rumor-mongering-crime-amid)
+ - date published: 2020-03-02T08:38:50+00:00
+ - user: rumpel
+ - tags: ['misinformation', 'spreading rumors', 'china', 'disinformation']
+
 ## Surgeon General Urges the Public to Stop Buying Face Masks - The New York Times
  - [https://www.nytimes.com/2020/02/29/health/coronavirus-n95-face-masks.html](https://www.nytimes.com/2020/02/29/health/coronavirus-n95-face-masks.html)
  - date published: 2020-02-29T15:28:58+00:00

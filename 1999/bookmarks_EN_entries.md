@@ -28,6 +28,18 @@
  - user: rumpel
  - tags: ['backdoor', 'microsoft', 'nsa', 'windows', 'surveillance']
 
+## 1999 Russian apartment bombings - Wikipedia
+ - [https://en.wikipedia.org/wiki/1999_Russian_apartment_bombings#Sealing_information_by_the_US_government](https://en.wikipedia.org/wiki/1999_Russian_apartment_bombings#Sealing_information_by_the_US_government)
+ - date published: 1999-09-04T13:47:41+00:00
+ - user: rumpel
+ - tags: ['wladimir putin', 'chechnya', 'cia', 'conspiracy theory']
+
+## The Mystery of Russia’s 1999 Apartment Bombings Lingers — the CIA Could Clear It Up | National Review
+ - [https://www.nationalreview.com/2017/02/russia-apartment-bombings-september-1999-vladimir-putin-fsb-cia](https://www.nationalreview.com/2017/02/russia-apartment-bombings-september-1999-vladimir-putin-fsb-cia)
+ - date published: 1999-09-04T13:46:04+00:00
+ - user: rumpel
+ - tags: ['wladimir putin', 'chechnya', 'cia', 'conspiracy theory']
+
 ## Sci/Tech  Windows 'back door' security alert
  - [http://news.bbc.co.uk/2/hi/sci/tech/437967.stm](http://news.bbc.co.uk/2/hi/sci/tech/437967.stm)
  - date published: 1999-09-03T15:05:50+00:00

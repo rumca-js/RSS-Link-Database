@@ -194,7 +194,7 @@
  - [https://www.reuters.com/article/us-usa-health-j-j-expert-exclusive-idUSKBN1X912O](https://www.reuters.com/article/us-usa-health-j-j-expert-exclusive-idUSKBN1X912O)
  - date published: 2019-10-30T20:25:18+00:00
  - user: rumpel
- - tags: ['johnson and johnson', 'big pharma']
+ - tags: ['big pharma', 'medical scandal', 'johnson and johnson']
 
 ## Edward Snowden: How Your Cell Phone Spies on You
  - [https://www.youtube.com/watch?v=VFns39RXPrU](https://www.youtube.com/watch?v=VFns39RXPrU)
