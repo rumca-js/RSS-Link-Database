@@ -1,3 +1,15 @@
+## FIRST READING: Federal commission declares Christmas holiday is 'religious intolerance'
+ - [https://nationalpost.com/opinion/federal-commission-declares-christmas-holiday-is-religious-intolerance](https://nationalpost.com/opinion/federal-commission-declares-christmas-holiday-is-religious-intolerance)
+ - date published: 2023-12-04T22:11:14+00:00
+ - user: rumpel
+ - tags: ['christioanophobia', 'the left wing', 'racism']
+
+## Ousted propaganda scholar Joan Donovan accuses Harvard of bowing to Meta
+ - [https://www.washingtonpost.com/technology/2023/12/04/joan-donovan-harvard-dismissal-complaint](https://www.washingtonpost.com/technology/2023/12/04/joan-donovan-harvard-dismissal-complaint)
+ - date published: 2023-12-04T11:01:03+00:00
+ - user: rumpel
+ - tags: ['manufacturing consent', 'facebook', 'meta']
+
 ## Trial Wrap — US v Google
  - [https://usvgoogle.org/trial-wrap-11-20](https://usvgoogle.org/trial-wrap-11-20)
  - date published: 2023-12-01T08:39:27+00:00
@@ -6184,6 +6196,12 @@
  - user: rumpel
  - tags: ['privacy']
 
+## An Android app started secretly recording users almost a year after it was listed on Google Play
+ - [https://www.theverge.com/2023/5/24/23736180/irecorder-android-google-play-spying-security-risk](https://www.theverge.com/2023/5/24/23736180/irecorder-android-google-play-spying-security-risk)
+ - date published: 2023-03-24T09:47:26+00:00
+ - user: rumpel
+ - tags: ['privacy', 'surveillance']
+
 ## The world could be facing a dark future thanks to CBDCs
  - [https://cointelegraph.com/news/the-world-could-be-facing-a-dark-future-thanks-to-cbdcs](https://cointelegraph.com/news/the-world-could-be-facing-a-dark-future-thanks-to-cbdcs)
  - date published: 2023-03-24T06:21:32+00:00
@@ -7076,7 +7094,7 @@
  - [https://techcrunch.com/2023/02/23/popular-android-apps-play-store-privacy-labels-dont-match-up-to-their-claims-mozilla-says/?guccounter=1&guce_referrer=aHR0cHM6Ly9kdWNrZHVja2dvLmNvbS8&guce_referrer_sig=AQAAAA8CMPe2xFx46GFLjx44Kny3HRbwtyZ71NqgO1zdZXMjGalUPTSQAjSJpQmtKT8CD0pNpOXg-drJuAfmwM2leVGqjRfCrJMnxtQY5HOdwlNI9vdq6gB1CuCqF953_7zmVHh6bjLmcVede8zsHPXSBPpQujuG2XP3IrZxNOJOuYW_](https://techcrunch.com/2023/02/23/popular-android-apps-play-store-privacy-labels-dont-match-up-to-their-claims-mozilla-says/?guccounter=1&guce_referrer=aHR0cHM6Ly9kdWNrZHVja2dvLmNvbS8&guce_referrer_sig=AQAAAA8CMPe2xFx46GFLjx44Kny3HRbwtyZ71NqgO1zdZXMjGalUPTSQAjSJpQmtKT8CD0pNpOXg-drJuAfmwM2leVGqjRfCrJMnxtQY5HOdwlNI9vdq6gB1CuCqF953_7zmVHh6bjLmcVede8zsHPXSBPpQujuG2XP3IrZxNOJOuYW_)
  - date published: 2023-02-23T11:23:24+00:00
  - user: rumpel
- - tags: ['antitrust', 'google', 'android', 'dark design', 'privacy']
+ - tags: ['android', 'play store', 'google', 'privacy', 'dark design', 'antitrust']
 
 ## DOJ seeks court sanctions against Google over 'intentional destruction' of chat logs | CNN Business
  - [https://edition.cnn.com/2023/02/23/tech/doj-sanctions-google-intentional-destruction-chat-logs/index.html](https://edition.cnn.com/2023/02/23/tech/doj-sanctions-google-intentional-destruction-chat-logs/index.html)
@@ -7742,7 +7760,7 @@
  - [https://www.cnn.com/2023/02/01/tech/apple-google-commerce-department/index.html](https://www.cnn.com/2023/02/01/tech/apple-google-commerce-department/index.html)
  - date published: 2023-02-01T14:09:29+00:00
  - user: rumpel
- - tags: ['gatekeeper', 'apple', 'monopoly', 'app store', 'google']
+ - tags: ['play store', 'monopoly', 'google', 'app store', 'apple', 'gatekeeper']
 
 ## Gmail creator says ChatGPT might ‘destroy’ Google within 2 years
  - [https://bgr.com/tech/gmail-creator-says-chatgpt-might-destroy-google-within-2-years/](https://bgr.com/tech/gmail-creator-says-chatgpt-might-destroy-google-within-2-years/)

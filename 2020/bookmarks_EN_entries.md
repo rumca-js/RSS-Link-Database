@@ -824,7 +824,7 @@
  - [https://reclaimthenet.org/google-bans-lbry/](https://reclaimthenet.org/google-bans-lbry/)
  - date published: 2020-08-25T20:07:21+00:00
  - user: None
- - tags: ['monopoly', 'google', 'corporatocracy']
+ - tags: ['google', 'corporatocracy', 'monopoly', 'play store']
 
 ## Unredacted suit shows Google’s own engineers confused by privacy settings
  - [https://arstechnica.com/tech-policy/2020/08/unredacted-suit-shows-googles-own-engineers-confused-by-privacy-settings/](https://arstechnica.com/tech-policy/2020/08/unredacted-suit-shows-googles-own-engineers-confused-by-privacy-settings/)

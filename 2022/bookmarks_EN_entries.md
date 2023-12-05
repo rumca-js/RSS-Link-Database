@@ -6698,7 +6698,7 @@
  - [https://www.theverge.com/2022/9/2/23334794/google-reinstates-parler-play-store-moderation](https://www.theverge.com/2022/9/2/23334794/google-reinstates-parler-play-store-moderation)
  - date published: 2022-09-02T20:19:08+00:00
  - user: None
- - tags: ['censorship', 'moderation', 'google']
+ - tags: ['censorship', 'moderation', 'play store', 'google']
 
 ## YouTube algorithm pushed election fraud claims to Trump supporters, report says
  - [https://arstechnica.com/?p=1878094](https://arstechnica.com/?p=1878094)
