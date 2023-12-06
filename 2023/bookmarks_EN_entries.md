@@ -4,11 +4,23 @@
  - user: rumpel
  - tags: ['christioanophobia', 'the left wing', 'racism']
 
+## Traders with prior knowledge of Hamas attacks made millions shorting Israel, claims report
+ - [https://www.telegraph.co.uk/world-news/2023/12/04/hamas-short-selling-millions-betting-against-israel](https://www.telegraph.co.uk/world-news/2023/12/04/hamas-short-selling-millions-betting-against-israel)
+ - date published: 2023-12-04T17:41:43+00:00
+ - user: rumpel
+ - tags: ['hamas', 'israel', 'palestine']
+
 ## Ousted propaganda scholar Joan Donovan accuses Harvard of bowing to Meta
  - [https://www.washingtonpost.com/technology/2023/12/04/joan-donovan-harvard-dismissal-complaint](https://www.washingtonpost.com/technology/2023/12/04/joan-donovan-harvard-dismissal-complaint)
  - date published: 2023-12-04T11:01:03+00:00
  - user: rumpel
  - tags: ['manufacturing consent', 'facebook', 'meta']
+
+## Cosmopolitan magazine shares steps for how to have a 'Satanic Abortion Ceremony'
+ - [https://www.foxnews.com/media/cosmopolitan-magazine-shares-steps-satanic-abortion-ceremony](https://www.foxnews.com/media/cosmopolitan-magazine-shares-steps-satanic-abortion-ceremony)
+ - date published: 2023-12-03T14:00:00+00:00
+ - user: rumpel
+ - tags: ['satanic temple', 'satanism']
 
 ## Trial Wrap — US v Google
  - [https://usvgoogle.org/trial-wrap-11-20](https://usvgoogle.org/trial-wrap-11-20)
