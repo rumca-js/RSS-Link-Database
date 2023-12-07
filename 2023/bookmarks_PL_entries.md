@@ -1,3 +1,9 @@
+## Hakerzy odkryli przyczynę tajemniczych awarii pociągów. Szokujące ustalenia
+ - [https://www.rp.pl/transport/art39525161-hakerzy-odkryli-przyczyne-tajemniczych-awarii-pociagow-szokujace-ustalenia](https://www.rp.pl/transport/art39525161-hakerzy-odkryli-przyczyne-tajemniczych-awarii-pociagow-szokujace-ustalenia)
+ - date published: 2023-12-06T10:35:03+00:00
+ - user: rumpel
+ - tags: ['dark design', 'corporatocracy']
+
 ## KONIEC PRYWATNOŚCI w internecie nadchodzi.
  - [https://www.youtube.com/watch?v=W00XCGCkuWw](https://www.youtube.com/watch?v=W00XCGCkuWw)
  - date published: 2023-11-17T19:45:07+00:00

@@ -1,3 +1,21 @@
+## Apple Confirms Governments Using Push Notifications to Surveil Users
+ - [https://www.macrumors.com/2023/12/06/apple-governments-surveil-push-notifications](https://www.macrumors.com/2023/12/06/apple-governments-surveil-push-notifications)
+ - date published: 2023-12-06T13:29:33+00:00
+ - user: rumpel
+ - tags: ['privacy', 'manufacturing consent', 'surveillance', 'technofeudalism', 'ad business']
+
+## Microsoft Outlook Blocking All Email from Tutanota.com Domain as Spam
+ - [https://tuta.com/blog/posts/outlook-falsely-marks-tutanota-emails-as-junk](https://tuta.com/blog/posts/outlook-falsely-marks-tutanota-emails-as-junk)
+ - date published: 2023-12-06T07:39:42+00:00
+ - user: rumpel
+ - tags: ['dark design', 'big tech', 'email']
+
+## Leaked document shows how Amazon amasses influence in the Inland Empire
+ - [https://www.latimes.com/business/story/2023-12-05/leaked-document-offers-glimpse-into-how-amazon-amasses-influence-in-the-inland-empire](https://www.latimes.com/business/story/2023-12-05/leaked-document-offers-glimpse-into-how-amazon-amasses-influence-in-the-inland-empire)
+ - date published: 2023-12-06T06:29:48+00:00
+ - user: rumpel
+ - tags: ['manufacturing consent']
+
 ## FIRST READING: Federal commission declares Christmas holiday is 'religious intolerance'
  - [https://nationalpost.com/opinion/federal-commission-declares-christmas-holiday-is-religious-intolerance](https://nationalpost.com/opinion/federal-commission-declares-christmas-holiday-is-religious-intolerance)
  - date published: 2023-12-04T22:11:14+00:00
@@ -1064,7 +1082,7 @@
  - [https://www.zzzuckerberg.com/](https://www.zzzuckerberg.com/)
  - date published: 2023-09-07T09:04:54+00:00
  - user: rumpel
- - tags: ['terms of service', 'manufacturing consent', 'eula', 'corporatocracy']
+ - tags: ['corporatocracy', 'terms of service', 'eula']
 
 ## 5 Best Noam Chomsky Books (2023) - Which Are a Must-Read?
  - [https://www.ereads.com/noam-chomsky/](https://www.ereads.com/noam-chomsky/)
