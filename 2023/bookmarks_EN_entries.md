@@ -1,32 +1,14 @@
-## Apple Confirms Governments Using Push Notifications to Surveil Users
- - [https://www.macrumors.com/2023/12/06/apple-governments-surveil-push-notifications](https://www.macrumors.com/2023/12/06/apple-governments-surveil-push-notifications)
- - date published: 2023-12-06T13:29:33+00:00
+## Amazon's humanoid robots will eventually cost only $3 per hour to operate
+ - [https://www.businessinsider.com/new-amazon-warehouse-robot-humanoid-2023-10](https://www.businessinsider.com/new-amazon-warehouse-robot-humanoid-2023-10)
+ - date published: 2023-12-08T12:15:55+00:00
  - user: rumpel
- - tags: ['privacy', 'manufacturing consent', 'surveillance', 'technofeudalism', 'ad business']
+ - tags: ['artificial intelligence', 'warehouse', 'amazon']
 
-## Microsoft Outlook Blocking All Email from Tutanota.com Domain as Spam
- - [https://tuta.com/blog/posts/outlook-falsely-marks-tutanota-emails-as-junk](https://tuta.com/blog/posts/outlook-falsely-marks-tutanota-emails-as-junk)
- - date published: 2023-12-06T07:39:42+00:00
+## No White Faculty Allowed
+ - [https://www.city-journal.org/article/racial-discrimination-at-the-university-of-washington](https://www.city-journal.org/article/racial-discrimination-at-the-university-of-washington)
+ - date published: 2023-12-08T07:16:33+00:00
  - user: rumpel
- - tags: ['dark design', 'big tech', 'email']
-
-## Leaked document shows how Amazon amasses influence in the Inland Empire
- - [https://www.latimes.com/business/story/2023-12-05/leaked-document-offers-glimpse-into-how-amazon-amasses-influence-in-the-inland-empire](https://www.latimes.com/business/story/2023-12-05/leaked-document-offers-glimpse-into-how-amazon-amasses-influence-in-the-inland-empire)
- - date published: 2023-12-06T06:29:48+00:00
- - user: rumpel
- - tags: ['manufacturing consent']
-
-## FIRST READING: Federal commission declares Christmas holiday is 'religious intolerance'
- - [https://nationalpost.com/opinion/federal-commission-declares-christmas-holiday-is-religious-intolerance](https://nationalpost.com/opinion/federal-commission-declares-christmas-holiday-is-religious-intolerance)
- - date published: 2023-12-04T22:11:14+00:00
- - user: rumpel
- - tags: ['christioanophobia', 'the left wing', 'racism']
-
-## Traders with prior knowledge of Hamas attacks made millions shorting Israel, claims report
- - [https://www.telegraph.co.uk/world-news/2023/12/04/hamas-short-selling-millions-betting-against-israel](https://www.telegraph.co.uk/world-news/2023/12/04/hamas-short-selling-millions-betting-against-israel)
- - date published: 2023-12-04T17:41:43+00:00
- - user: rumpel
- - tags: ['hamas', 'israel', 'palestine']
+ - tags: ['inequality', 'racism']
 
 ## Ousted propaganda scholar Joan Donovan accuses Harvard of bowing to Meta
  - [https://www.washingtonpost.com/technology/2023/12/04/joan-donovan-harvard-dismissal-complaint](https://www.washingtonpost.com/technology/2023/12/04/joan-donovan-harvard-dismissal-complaint)

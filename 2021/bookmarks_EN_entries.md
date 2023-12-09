@@ -1420,12 +1420,6 @@
  - user: rumpel
  - tags: ['socialism', 'racism']
 
-## A whistleblower’s power: Key takeaways from the Facebook Papers
- - [https://www.washingtonpost.com/technology/2021/10/25/what-are-the-facebook-papers](https://www.washingtonpost.com/technology/2021/10/25/what-are-the-facebook-papers)
- - date published: 2021-10-21T18:30:58+00:00
- - user: rumpel
- - tags: ['disinformation', 'facebook papers', 'meta', 'misinformation']
-
 ## We Analyzed 425,909 Favicons • iconmap.io
  - [https://iconmap.io/blog](https://iconmap.io/blog)
  - date published: 2021-10-21T08:08:45.727953+00:00

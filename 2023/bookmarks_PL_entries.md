@@ -1,8 +1,8 @@
-## Hakerzy odkryli przyczynę tajemniczych awarii pociągów. Szokujące ustalenia
- - [https://www.rp.pl/transport/art39525161-hakerzy-odkryli-przyczyne-tajemniczych-awarii-pociagow-szokujace-ustalenia](https://www.rp.pl/transport/art39525161-hakerzy-odkryli-przyczyne-tajemniczych-awarii-pociagow-szokujace-ustalenia)
- - date published: 2023-12-06T10:35:03+00:00
+## O trzech takich, co zhakowali prawdziwy pociąg – a nawet 30 pociągów | Zaufana Trzecia Strona
+ - [https://zaufanatrzeciastrona.pl/post/o-trzech-takich-co-zhakowali-prawdziwy-pociag-a-nawet-30-pociagow](https://zaufanatrzeciastrona.pl/post/o-trzech-takich-co-zhakowali-prawdziwy-pociag-a-nawet-30-pociagow)
+ - date published: 2023-12-05T07:09:32+00:00
  - user: rumpel
- - tags: ['dark design', 'corporatocracy']
+ - tags: ['dark design', 'newag']
 
 ## KONIEC PRYWATNOŚCI w internecie nadchodzi.
  - [https://www.youtube.com/watch?v=W00XCGCkuWw](https://www.youtube.com/watch?v=W00XCGCkuWw)
