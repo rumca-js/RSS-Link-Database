@@ -1,3 +1,15 @@
+## If buying isn't owning, piracy isn't stealing
+ - [https://pluralistic.net/2023/12/08/playstationed/#tyler-james-hill](https://pluralistic.net/2023/12/08/playstationed/#tyler-james-hill)
+ - date published: 2023-12-09T08:31:50+00:00
+ - user: rumpel
+ - tags: ['subscriptions', 'piracy', 'technofeudalism']
+
+## The pro-Israel information war
+ - [https://jackpoulson.substack.com/p/inside-the-pro-israel-information](https://jackpoulson.substack.com/p/inside-the-pro-israel-information)
+ - date published: 2023-12-08T18:49:14+00:00
+ - user: rumpel
+ - tags: ['hamas', 'israel', 'palestine']
+
 ## Amazon's humanoid robots will eventually cost only $3 per hour to operate
  - [https://www.businessinsider.com/new-amazon-warehouse-robot-humanoid-2023-10](https://www.businessinsider.com/new-amazon-warehouse-robot-humanoid-2023-10)
  - date published: 2023-12-08T12:15:55+00:00
