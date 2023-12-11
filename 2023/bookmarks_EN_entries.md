@@ -1,3 +1,15 @@
+## Trust-Based Moderation Systems
+ - [https://cblgh.org/trustnet](https://cblgh.org/trustnet)
+ - date published: 2023-12-10T08:43:59+00:00
+ - user: rumpel
+ - tags: ['moderation']
+
+## The U.S. Government's Most Powerful Spying Tool Is Fighting for Its Life
+ - [https://www.wsj.com/politics/national-security/the-u-s-governments-most-powerful-spying-tool-is-fighting-for-its-life-5c2516d5](https://www.wsj.com/politics/national-security/the-u-s-governments-most-powerful-spying-tool-is-fighting-for-its-life-5c2516d5)
+ - date published: 2023-12-09T21:06:56+00:00
+ - user: rumpel
+ - tags: ['section 702', 'surveillance']
+
 ## If buying isn't owning, piracy isn't stealing
  - [https://pluralistic.net/2023/12/08/playstationed/#tyler-james-hill](https://pluralistic.net/2023/12/08/playstationed/#tyler-james-hill)
  - date published: 2023-12-09T08:31:50+00:00
@@ -63,6 +75,12 @@
  - date published: 2023-12-01T00:24:33+00:00
  - user: rumpel
  - tags: ['palestine', 'israel', 'hamas']
+
+## Parenting Is the Key to Adolescent Mental Health
+ - [https://ifstudies.org/blog/parenting-is-the-key-to-adolescent-mental-health](https://ifstudies.org/blog/parenting-is-the-key-to-adolescent-mental-health)
+ - date published: 2023-11-30T08:32:01+00:00
+ - user: rumpel
+ - tags: ['the left wing', 'the right wing']
 
 ## West Belfast: Anti-immigration signage a 'hate incident'
  - [https://www.bbc.com/news/uk-northern-ireland-67566360](https://www.bbc.com/news/uk-northern-ireland-67566360)
