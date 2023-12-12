@@ -1,3 +1,9 @@
+## Ucisk w klatce piersiowej i kołatanie serca po szczepieniu przeciwko COVID-19 u 16-letniego chłopca
+ - [https://www.mp.pl/szczepienia/praktyka/przypadki/310343,ucisk-w-klatce-piersiowej-i-kolatanie-serca-po-szczepieniu-przeciwko-covid-19-u-16-letniego-chlopca](https://www.mp.pl/szczepienia/praktyka/przypadki/310343,ucisk-w-klatce-piersiowej-i-kolatanie-serca-po-szczepieniu-przeciwko-covid-19-u-16-letniego-chlopca)
+ - date published: 2023-12-11T09:39:49+00:00
+ - user: rumpel
+ - tags: ['covid']
+
 ## O trzech takich, co zhakowali prawdziwy pociąg – a nawet 30 pociągów | Zaufana Trzecia Strona
  - [https://zaufanatrzeciastrona.pl/post/o-trzech-takich-co-zhakowali-prawdziwy-pociag-a-nawet-30-pociagow](https://zaufanatrzeciastrona.pl/post/o-trzech-takich-co-zhakowali-prawdziwy-pociag-a-nawet-30-pociagow)
  - date published: 2023-12-05T07:09:32+00:00
