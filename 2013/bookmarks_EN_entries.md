@@ -4,6 +4,12 @@
  - user: rumpel
  - tags: ['privacy', 'gmail', 'surveillance', 'google', 'technofeudalism']
 
+## Knesset speaker: Christmas trees bring back bad memories
+ - [https://www.timesofisrael.com/knesset-speaker-christmas-trees-bring-bad-memories](https://www.timesofisrael.com/knesset-speaker-christmas-trees-bring-bad-memories)
+ - date published: 2013-12-26T20:56:26+00:00
+ - user: rumpel
+ - tags: ['israel', 'christianophobia']
+
 ## Five Eyes
  - [https://en.wikipedia.org/wiki/Five_Eyes](https://en.wikipedia.org/wiki/Five_Eyes)
  - date published: 2013-12-21T14:41:21+00:00
