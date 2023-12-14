@@ -1,3 +1,9 @@
+## Radykalni Żydzi walczą z Bożym Narodzeniem
+ - [https://www.rp.pl/swiat/art7390661-radykalni-zydzi-walcza-z-bozym-narodzeniem](https://www.rp.pl/swiat/art7390661-radykalni-zydzi-walcza-z-bozym-narodzeniem)
+ - date published: 2009-12-23T07:38:16+00:00
+ - user: rumpel
+ - tags: ['israel', 'christianophobia']
+
 ## Ewa Kopacz accused of being anti NEW WORLD ORDER because she is concerned about the H1N1 vaccination
  - [https://www.youtube.com/watch?v=yn3ElOkqND0](https://www.youtube.com/watch?v=yn3ElOkqND0)
  - date published: 2009-11-17T00:00:00+00:00

@@ -1,3 +1,15 @@
+## Israel Starts Pumping Seawater Into Gaza Tunnels After Russia Warned Against ‘War Crime’
+ - [https://www.gulf-insider.com/israel-starts-pumping-seawater-into-gaza-tunnels-after-russia-warned-against-war-crime](https://www.gulf-insider.com/israel-starts-pumping-seawater-into-gaza-tunnels-after-russia-warned-against-war-crime)
+ - date published: 2023-12-13T06:43:30+00:00
+ - user: rumpel
+ - tags: ['israel']
+
+## E-books are fast becoming tools of corporate surveillance
+ - [https://www.fastcompany.com/90996547/e-books-are-fast-becoming-tools-of-corporate-surveillance](https://www.fastcompany.com/90996547/e-books-are-fast-becoming-tools-of-corporate-surveillance)
+ - date published: 2023-12-13T03:38:56+00:00
+ - user: rumpel
+ - tags: ['privacy', 'surveillance', 'ad business', 'amazon', 'technofeudalism']
+
 ## Trust-Based Moderation Systems
  - [https://cblgh.org/trustnet](https://cblgh.org/trustnet)
  - date published: 2023-12-10T08:43:59+00:00
@@ -1395,12 +1407,6 @@
  - date published: 2023-08-29T14:22:31+00:00
  - user: rumpel
  - tags: ['rothschild', 'billionaires']
-
-## Nakba - Wikipedia
- - [https://en.wikipedia.org/wiki/Nakba](https://en.wikipedia.org/wiki/Nakba)
- - date published: 2023-08-29T14:08:06+00:00
- - user: rumpel
- - tags: ['palestine', 'nakba', 'israel']
 
 ## The Nakba did not start or end in 1948 | Features | Al Jazeera
  - [https://www.aljazeera.com/features/2017/5/23/the-nakba-did-not-start-or-end-in-1948](https://www.aljazeera.com/features/2017/5/23/the-nakba-did-not-start-or-end-in-1948)
@@ -4275,12 +4281,6 @@
  - date published: 2023-05-25T13:24:32+00:00
  - user: rumpel
  - tags: ['palestine', 'paypal']
-
-## Polish Righteous Among the Nations - Wikipedia
- - [https://en.wikipedia.org/wiki/Polish_Righteous_Among_the_Nations](https://en.wikipedia.org/wiki/Polish_Righteous_Among_the_Nations)
- - date published: 2023-05-25T11:55:43+00:00
- - user: rumpel
- - tags: ['poland', 'righteous among the nations', 'holocaust', 'israel']
 
 ## Two Men Charged After Catholic Church in Northern Alberta Gutted by Arson
  - [https://www.theepochtimes.com/two-men-charged-after-catholic-church-in-northern-alberta-gutted-by-arson_5290005.html](https://www.theepochtimes.com/two-men-charged-after-catholic-church-in-northern-alberta-gutted-by-arson_5290005.html)
