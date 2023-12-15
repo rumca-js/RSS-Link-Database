@@ -1,3 +1,9 @@
+## Paszport węglowy to najgłupszy pomysł na walkę ze zmianami klimatu, o jakim słyszałem
+ - [https://bezprawnik.pl/paszport-weglowy](https://bezprawnik.pl/paszport-weglowy)
+ - date published: 2023-12-14T06:24:04.539458+00:00
+ - user: rumpel
+ - tags: ['climate change']
+
 ## Ucisk w klatce piersiowej i kołatanie serca po szczepieniu przeciwko COVID-19 u 16-letniego chłopca
  - [https://www.mp.pl/szczepienia/praktyka/przypadki/310343,ucisk-w-klatce-piersiowej-i-kolatanie-serca-po-szczepieniu-przeciwko-covid-19-u-16-letniego-chlopca](https://www.mp.pl/szczepienia/praktyka/przypadki/310343,ucisk-w-klatce-piersiowej-i-kolatanie-serca-po-szczepieniu-przeciwko-covid-19-u-16-letniego-chlopca)
  - date published: 2023-12-11T09:39:49+00:00

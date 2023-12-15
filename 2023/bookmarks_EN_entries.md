@@ -1,3 +1,9 @@
+## Ex-Facebook diversity manager pleads guilty to bilking $4M from company
+ - [https://nypost.com/2023/12/13/business/ex-facebook-diversity-manager-pleads-guilty-to-bilking-4m-from-company-in-kickback-scheme-feds](https://nypost.com/2023/12/13/business/ex-facebook-diversity-manager-pleads-guilty-to-bilking-4m-from-company-in-kickback-scheme-feds)
+ - date published: 2023-12-14T03:09:38+00:00
+ - user: rumpel
+ - tags: ['diversity', 'black lives matter', 'inclusion', 'tolerance']
+
 ## Israel Starts Pumping Seawater Into Gaza Tunnels After Russia Warned Against ‘War Crime’
  - [https://www.gulf-insider.com/israel-starts-pumping-seawater-into-gaza-tunnels-after-russia-warned-against-war-crime](https://www.gulf-insider.com/israel-starts-pumping-seawater-into-gaza-tunnels-after-russia-warned-against-war-crime)
  - date published: 2023-12-13T06:43:30+00:00
