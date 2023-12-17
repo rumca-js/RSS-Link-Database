@@ -1,3 +1,9 @@
+## Ad Company Claims 'It’s True. Your Devices Are Listening to You'
+ - [https://gizmodo.com/cmg-local-solutions-ads-listening-on-devices-1851102426](https://gizmodo.com/cmg-local-solutions-ads-listening-on-devices-1851102426)
+ - date published: 2023-12-15T15:35:00+00:00
+ - user: rumpel
+ - tags: ['technofeudalism', 'privacy', 'ad business', 'surveillance']
+
 ## Ex-Facebook diversity manager pleads guilty to bilking $4M from company
  - [https://nypost.com/2023/12/13/business/ex-facebook-diversity-manager-pleads-guilty-to-bilking-4m-from-company-in-kickback-scheme-feds](https://nypost.com/2023/12/13/business/ex-facebook-diversity-manager-pleads-guilty-to-bilking-4m-from-company-in-kickback-scheme-feds)
  - date published: 2023-12-14T03:09:38+00:00
