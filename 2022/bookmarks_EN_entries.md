@@ -9086,7 +9086,7 @@
  - [https://www.youtube.com/watch?v=GWBzxr3c29s](https://www.youtube.com/watch?v=GWBzxr3c29s)
  - date published: 2022-05-05T00:00:00+00:00
  - user: rumpel
- - tags: ['america', 'homelessness']
+ - tags: ['america', 'san francisco', 'homelessness']
 
 ## Writing a Book for O'Reilly - Party One
  - [https://www.thecodepainter.co.uk/blog/20220503/writeabook01](https://www.thecodepainter.co.uk/blog/20220503/writeabook01)

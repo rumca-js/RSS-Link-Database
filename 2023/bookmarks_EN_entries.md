@@ -1,3 +1,9 @@
+## Widespread FBI abuse of foreign spy law sets off "alarm bells," tech group says
+ - [https://arstechnica.com/tech-policy/2023/05/fbi-misused-foreign-surveillance-law-280k-times-to-snoop-on-people-in-the-us](https://arstechnica.com/tech-policy/2023/05/fbi-misused-foreign-surveillance-law-280k-times-to-snoop-on-people-in-the-us)
+ - date published: 2023-12-18T04:23:17+00:00
+ - user: rumpel
+ - tags: ['fbi', 'privacy', 'surveillance']
+
 ## Ad Company Claims 'It’s True. Your Devices Are Listening to You'
  - [https://gizmodo.com/cmg-local-solutions-ads-listening-on-devices-1851102426](https://gizmodo.com/cmg-local-solutions-ads-listening-on-devices-1851102426)
  - date published: 2023-12-15T15:35:00+00:00
@@ -1035,6 +1041,12 @@
  - date published: 2023-09-12T04:00:25+00:00
  - user: rumpel
  - tags: ['climate change']
+
+## Shocking video shows zombie-like addicts at ‘ground zero’ of Philadelphia’s ‘tranq’ epidemic
+ - [https://www.youtube.com/watch?v=SwlIAjcYypA](https://www.youtube.com/watch?v=SwlIAjcYypA)
+ - date published: 2023-09-12T00:00:00+00:00
+ - user: rumpel
+ - tags: ['homeless', 'philadelphia', 'drug addiction']
 
 ## Threads blocks searches related to covid and vaccines amid surge
  - [https://www.washingtonpost.com/technology/2023/09/11/threads-covid-coronavirus-searches-blocked/](https://www.washingtonpost.com/technology/2023/09/11/threads-covid-coronavirus-searches-blocked/)

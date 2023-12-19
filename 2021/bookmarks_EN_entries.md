@@ -1094,7 +1094,7 @@
  - [https://www.youtube.com/watch?v=yRWmKh13b50](https://www.youtube.com/watch?v=yRWmKh13b50)
  - date published: 2021-11-07T00:00:00+00:00
  - user: rumpel
- - tags: ['usa', 'homelessness', 'crisis']
+ - tags: ['crisis', 'oakland', 'usa', 'homelessness']
 
 ## Most US States Suing to Stop Biden COVID-19 Vaxx Mandate
  - [https://www.businessinsider.com/vaccine-mandate-biden-covid-19-states-sue-unconstitutional-2021-11?IR=T](https://www.businessinsider.com/vaccine-mandate-biden-covid-19-states-sue-unconstitutional-2021-11?IR=T)
@@ -1580,7 +1580,7 @@
  - [https://www.youtube.com/watch?v=rn6NlXh5dH8](https://www.youtube.com/watch?v=rn6NlXh5dH8)
  - date published: 2021-10-14T00:00:00+00:00
  - user: rumpel
- - tags: ['america', 'homelessness']
+ - tags: ['america', 'san francisco', 'homelessness']
 
 ## The tyranny of “diversity, equity, and inclusion”
  - [https://wng.org/opinions/the-tyranny-of-diversity-equity-and-inclusion-1634136777](https://wng.org/opinions/the-tyranny-of-diversity-equity-and-inclusion-1634136777)
