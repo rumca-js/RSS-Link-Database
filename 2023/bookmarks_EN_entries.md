@@ -4,6 +4,12 @@
  - user: rumpel
  - tags: ['fbi', 'privacy', 'surveillance']
 
+## EU countries dump billions worth of Covid vaccines
+ - [https://www.politico.eu/article/europe-bonfire-covid-vaccines-coronavirus-waste-europe-analysis](https://www.politico.eu/article/europe-bonfire-covid-vaccines-coronavirus-waste-europe-analysis)
+ - date published: 2023-12-18T04:09:21.009798+00:00
+ - user: rumpel
+ - tags: ['covid', 'vaccines']
+
 ## Ad Company Claims 'It’s True. Your Devices Are Listening to You'
  - [https://gizmodo.com/cmg-local-solutions-ads-listening-on-devices-1851102426](https://gizmodo.com/cmg-local-solutions-ads-listening-on-devices-1851102426)
  - date published: 2023-12-15T15:35:00+00:00
