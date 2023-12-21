@@ -1,3 +1,9 @@
+## US judge orders names of more than 170 Jeffrey Epstein associates to be released
+ - [https://www.bbc.co.uk/news/world-us-canada-67769039?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-67769039?at_medium=RSS&at_campaign=KARANGA)
+ - date published: 2023-12-20T03:41:03+00:00
+ - user: rumpel
+ - tags: ['jeffrey epstein']
+
 ## Widespread FBI abuse of foreign spy law sets off "alarm bells," tech group says
  - [https://arstechnica.com/tech-policy/2023/05/fbi-misused-foreign-surveillance-law-280k-times-to-snoop-on-people-in-the-us](https://arstechnica.com/tech-policy/2023/05/fbi-misused-foreign-surveillance-law-280k-times-to-snoop-on-people-in-the-us)
  - date published: 2023-12-18T04:23:17+00:00
@@ -9,6 +15,12 @@
  - date published: 2023-12-18T04:09:21.009798+00:00
  - user: rumpel
  - tags: ['covid', 'vaccines']
+
+## How Google Maps, Spotify, Shazam and More Work | WSJ Tech Behind
+ - [https://www.youtube.com/watch?v=j0J-favyUeQ](https://www.youtube.com/watch?v=j0J-favyUeQ)
+ - date published: 2023-12-16T15:00:54+00:00
+ - user: rumpel
+ - tags: ['technology', 'google maps']
 
 ## Ad Company Claims 'It’s True. Your Devices Are Listening to You'
  - [https://gizmodo.com/cmg-local-solutions-ads-listening-on-devices-1851102426](https://gizmodo.com/cmg-local-solutions-ads-listening-on-devices-1851102426)

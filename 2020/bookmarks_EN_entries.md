@@ -476,7 +476,7 @@
  - [https://www.cnn.com/2020/10/30/world/epstein-donations-international-peace-institute-resign/index.html](https://www.cnn.com/2020/10/30/world/epstein-donations-international-peace-institute-resign/index.html)
  - date published: 2020-10-31T00:39:16+00:00
  - user: rumpel
- - tags: ['corporatocracy', 'jeffrey epstein', 'hypocrisy', 'elites']
+ - tags: ['elites', 'manufacturing consent', 'corporatocracy', 'hypocrisy', 'jeffrey epstein']
 
 ## Amazon third-quarter earnings soar as pandemic sales triple profits | Amazon | The Guardian
  - [https://www.theguardian.com/technology/2020/oct/29/amazon-profits-latest-earnings-report-third-quarter-pandemic](https://www.theguardian.com/technology/2020/oct/29/amazon-profits-latest-earnings-report-third-quarter-pandemic)
