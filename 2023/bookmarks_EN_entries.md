@@ -1,3 +1,15 @@
+## An Antisemitic Fire Extinguisher Attack on a Menorah Has Become a Global Far-Right Meme
+ - [https://www.vice.com/en/article/n7e54k/grzegorz-braun-antisemitic-fire-extinguisher-meme](https://www.vice.com/en/article/n7e54k/grzegorz-braun-antisemitic-fire-extinguisher-meme)
+ - date published: 2023-12-23T19:21:50+00:00
+ - user: rumpel
+ - tags: ['antisemitism', 'poland', 'grzegorz braun']
+
+## God Is Dead So They Are Building a New One
+ - [https://thealgorithmicbridge.substack.com/p/god-is-dead-so-they-are-building](https://thealgorithmicbridge.substack.com/p/god-is-dead-so-they-are-building)
+ - date published: 2023-12-22T22:36:53+00:00
+ - user: rumpel
+ - tags: ['transhumanism']
+
 ## US judge orders names of more than 170 Jeffrey Epstein associates to be released
  - [https://www.bbc.co.uk/news/world-us-canada-67769039?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-67769039?at_medium=RSS&at_campaign=KARANGA)
  - date published: 2023-12-20T03:41:03+00:00
