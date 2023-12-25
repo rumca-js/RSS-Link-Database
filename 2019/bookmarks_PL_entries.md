@@ -10,6 +10,12 @@
  - user: rumpel
  - tags: ['climate change', 'greta thunberg', 'corporatocracy']
 
+## https://frontstory.pl/farma-trolli-praca-tvp-dezinformacja
+ - [https://frontstory.pl/farma-trolli-praca-tvp-dezinformacja](https://frontstory.pl/farma-trolli-praca-tvp-dezinformacja)
+ - date published: 2019-10-27T08:23:30+00:00
+ - user: rumpel
+ - tags: ['bots', 'prawo i sprawiedliwość', 'propaganda', 'psyop', 'potemkin village']
+
 ## W Norwegii urzędnicy zabrali Polce dziecko, bo zobaczyli na stole szampana. Czy mogą teraz odpowiadać przed polskim sądem?
  - [https://bezprawnik.pl/przed-polskim-sadem-barnevernet-norwegia](https://bezprawnik.pl/przed-polskim-sadem-barnevernet-norwegia)
  - date published: 2019-10-24T08:56:59+00:00

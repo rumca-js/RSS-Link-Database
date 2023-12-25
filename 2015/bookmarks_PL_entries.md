@@ -16,6 +16,12 @@
  - user: rumpel
  - tags: ['children', 'big brother', 'sweden']
 
+## Platforma zatrudniła hejterów. Mają krytykować PiS i Dudę
+ - [https://archive.ph/1gECL](https://archive.ph/1gECL)
+ - date published: 2015-06-03T08:21:33+00:00
+ - user: rumpel
+ - tags: ['bots', 'social media', 'propaganda', 'platforma obywatelska', 'psyop', 'potemkin village']
+
 ## ks. Piotr Pawlukiewicz -  Małżeństwo, labirynt czy droga do nieba?
  - [https://www.youtube.com/watch?v=wFP0VX1pugE](https://www.youtube.com/watch?v=wFP0VX1pugE)
  - date published: 2015-04-15T00:00:00+00:00

@@ -4,11 +4,23 @@
  - user: rumpel
  - tags: ['antisemitism', 'poland', 'grzegorz braun']
 
+## What The Prisoner's Dilemma Reveals About Life, The Universe, and Everything
+ - [https://www.youtube.com/watch?v=mScpHTIi-kM](https://www.youtube.com/watch?v=mScpHTIi-kM)
+ - date published: 2023-12-23T17:00:08+00:00
+ - user: rumpel
+ - tags: ['prisoner dillema']
+
 ## God Is Dead So They Are Building a New One
  - [https://thealgorithmicbridge.substack.com/p/god-is-dead-so-they-are-building](https://thealgorithmicbridge.substack.com/p/god-is-dead-so-they-are-building)
  - date published: 2023-12-22T22:36:53+00:00
  - user: rumpel
  - tags: ['transhumanism']
+
+## Colorado ruling fuels efforts in other blue states to bar Trump from the ballot
+ - [https://www.politico.com/news/2023/12/21/colorado-trump-ruling-blue-states-00133009](https://www.politico.com/news/2023/12/21/colorado-trump-ruling-blue-states-00133009)
+ - date published: 2023-12-21T19:56:39+00:00
+ - user: rumpel
+ - tags: ['democracy', 'donald trump']
 
 ## US judge orders names of more than 170 Jeffrey Epstein associates to be released
  - [https://www.bbc.co.uk/news/world-us-canada-67769039?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-67769039?at_medium=RSS&at_campaign=KARANGA)
