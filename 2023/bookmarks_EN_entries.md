@@ -1,3 +1,9 @@
+## Sid Meier's Memoir! A Life in Computer Games
+ - [https://wwnorton.com/books/9781324005872](https://wwnorton.com/books/9781324005872)
+ - date published: 2023-12-25T15:28:29+00:00
+ - user: rumpel
+ - tags: ['game development', 'book']
+
 ## An Antisemitic Fire Extinguisher Attack on a Menorah Has Become a Global Far-Right Meme
  - [https://www.vice.com/en/article/n7e54k/grzegorz-braun-antisemitic-fire-extinguisher-meme](https://www.vice.com/en/article/n7e54k/grzegorz-braun-antisemitic-fire-extinguisher-meme)
  - date published: 2023-12-23T19:21:50+00:00
@@ -501,6 +507,12 @@
  - date published: 2023-10-23T14:24:47+00:00
  - user: rumpel
  - tags: ['posse', 'monopoly', 'centralisation', 'decentralisation', 'technofeudalism']
+
+## Software Disenchantment
+ - [https://tonsky.me/blog/disenchantment/](https://tonsky.me/blog/disenchantment/)
+ - date published: 2023-10-23T13:17:23+00:00
+ - user: rumpel
+ - tags: ['programming']
 
 ## https://www.perplexity.ai
  - [https://www.perplexity.ai](https://www.perplexity.ai)

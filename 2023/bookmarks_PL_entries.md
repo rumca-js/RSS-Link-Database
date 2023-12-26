@@ -1,3 +1,9 @@
+## NASZ WYWIAD. "Uciekliśmy z Kanady przed ideologią gender"
+ - [https://wpolityce.pl/swiat/675690-nasz-wywiad-ucieklismy-z-kanady-przed-ideologia-gender](https://wpolityce.pl/swiat/675690-nasz-wywiad-ucieklismy-z-kanady-przed-ideologia-gender)
+ - date published: 2023-12-25T12:36:49+00:00
+ - user: rumpel
+ - tags: ['indoctrination', 'the left wing', 'gender', 'lgbt']
+
 ## Paszport węglowy to najgłupszy pomysł na walkę ze zmianami klimatu, o jakim słyszałem
  - [https://bezprawnik.pl/paszport-weglowy](https://bezprawnik.pl/paszport-weglowy)
  - date published: 2023-12-14T06:24:04.539458+00:00
