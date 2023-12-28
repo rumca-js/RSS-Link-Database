@@ -1,3 +1,27 @@
+## Israeli Teen Who Refused to Enlist in the IDF Is Sentenced to 30 Days in Prison
+ - [https://time.com/6551044/israeli-teen-refuses-to-enlist-in-idf](https://time.com/6551044/israeli-teen-refuses-to-enlist-in-idf)
+ - date published: 2023-12-27T20:12:53+00:00
+ - user: rumpel
+ - tags: ['war', 'palestine', 'israel']
+
+## New York Times sues Microsoft and OpenAI for 'billions'
+ - [https://www.bbc.com/news/technology-67826601](https://www.bbc.com/news/technology-67826601)
+ - date published: 2023-12-27T17:45:35+00:00
+ - user: rumpel
+ - tags: ['microsoft', 'openai', 'artificial intelligence']
+
+## What comes after open source? Bruce Perens is working on it
+ - [https://www.theregister.com/2023/12/27/bruce_perens_post_open](https://www.theregister.com/2023/12/27/bruce_perens_post_open)
+ - date published: 2023-12-27T16:25:33+00:00
+ - user: rumpel
+ - tags: ['open source']
+
+## At least 140 killed by suspected herders in dayslong attacks in north-central Nigeria
+ - [https://abcnews.go.com/International/wireStory/140-villagers-killed-suspected-herders-dayslong-attacks-north-105916103](https://abcnews.go.com/International/wireStory/140-villagers-killed-suspected-herders-dayslong-attacks-north-105916103)
+ - date published: 2023-12-26T10:51:16+00:00
+ - user: rumpel
+ - tags: ['christioanophobia']
+
 ## Sid Meier's Memoir! A Life in Computer Games
  - [https://wwnorton.com/books/9781324005872](https://wwnorton.com/books/9781324005872)
  - date published: 2023-12-25T15:28:29+00:00
