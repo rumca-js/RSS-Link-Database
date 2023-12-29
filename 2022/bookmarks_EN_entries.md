@@ -7180,6 +7180,12 @@
  - user: None
  - tags: ['google', 'technofeudalism', 'deplatform']
 
+## Censorship and Global Information Control: Who Is Behind the "Trusted News Initiative"(TNI)? - Global Research
+ - [https://www.globalresearch.ca/who-behind-trusted-news-initiative/5790640](https://www.globalresearch.ca/who-behind-trusted-news-initiative/5790640)
+ - date published: 2022-08-19T15:23:39+00:00
+ - user: rumpel
+ - tags: ['trusted news initiative', 'manufacturing consent']
+
 ## It wasn't for nothing - Grasping gexps
  - [https://gexp.no/it-wasnt-for-nothing.html](https://gexp.no/it-wasnt-for-nothing.html)
  - date published: 2022-08-18T21:03:53.134487+00:00
@@ -11468,7 +11474,7 @@
  - [https://www.telegraph.co.uk/politics/2022/01/13/downing-streets-controversial-nudge-unit-accused-exploiting/](https://www.telegraph.co.uk/politics/2022/01/13/downing-streets-controversial-nudge-unit-accused-exploiting/)
  - date published: 2022-01-13T13:07:14+00:00
  - user: rumpel
- - tags: ['covid', 'fearmongering']
+ - tags: ['covid', 'fearmongering', 'nudge unit']
 
 ## Computer says no! Showgirl, mankind, whitewash and blacklist are just some of the words that don't make it past Microsoft Word's new woke filter (but don't worry, you can turn it off)
  - [https://www.dailymail.co.uk/news/article-10398999/Blacklist-postman-mankind-just-words-wont-fly-Microsofts-woke-filter.html](https://www.dailymail.co.uk/news/article-10398999/Blacklist-postman-mankind-just-words-wont-fly-Microsofts-woke-filter.html)

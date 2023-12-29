@@ -3028,6 +3028,12 @@
  - user: Thomas Pain
  - tags: []
 
+## To Fight Vaccine Lies, Authorities Recruit an ‘Influencer Army’ (Published 2021)
+ - [https://www.nytimes.com/2021/08/01/technology/vaccine-lies-influencer-army.html](https://www.nytimes.com/2021/08/01/technology/vaccine-lies-influencer-army.html)
+ - date published: 2021-08-02T16:03:02+00:00
+ - user: rumpel
+ - tags: ['manufacturing consent', 'covid']
+
 ## Init Is Bad and You Should Feel Bad · npf.io
  - [https://npf.io/2019/04/init-is-bad-and-you-should-feel-bad/](https://npf.io/2019/04/init-is-bad-and-you-should-feel-bad/)
  - date published: 2021-08-02T15:22:11.697708+00:00
@@ -4534,6 +4540,12 @@
  - user: rumpel
  - tags: ['hypocrisy', 'feminism', 'bill clinton']
 
+## Biden administration will spend nearly $10 billion to expand access to Covid-19 vaccines and build confidence | CNN Politics
+ - [https://edition.cnn.com/2021/03/25/politics/10-billion-vaccine-access-confidence/index.html](https://edition.cnn.com/2021/03/25/politics/10-billion-vaccine-access-confidence/index.html)
+ - date published: 2021-03-25T16:05:13+00:00
+ - user: rumpel
+ - tags: ['covid']
+
 ## TERREG: Free Speech Advocates Urge EU Legislators to Vote 'No' to Automated Censorship Online
  - [https://www.liberties.eu/en/stories/terrorist-content-regulation-open-letter-to-meps/43410](https://www.liberties.eu/en/stories/terrorist-content-regulation-open-letter-to-meps/43410)
  - date published: 2021-03-25T13:00:34+00:00
@@ -4617,6 +4629,12 @@
  - date published: 2021-03-15T19:24:58+00:00
  - user: rumpel
  - tags: ['lockdown', 'covid', 'science is dead']
+
+## The White House is set to launch a $1.5 billion ad campaign to win over vaccine skeptics, report says
+ - [https://www.businessinsider.com/white-house-launch-1-billion-ad-blitz-covid-vaccines-report-2021-3?IR=T](https://www.businessinsider.com/white-house-launch-1-billion-ad-blitz-covid-vaccines-report-2021-3?IR=T)
+ - date published: 2021-03-15T16:01:38+00:00
+ - user: rumpel
+ - tags: ['manufacturing consent', 'covid']
 
 ## LA County judge authorizes cutting off restaurant's electricity for trying to survive pandemic | Fox News
  - [https://www.foxnews.com/us/la-county-judge-authorizes-burbank-cut-off-electricity-restaurant-trying-survive-covid-pandemic](https://www.foxnews.com/us/la-county-judge-authorizes-burbank-cut-off-electricity-restaurant-trying-survive-covid-pandemic)
@@ -4719,6 +4737,12 @@
  - date published: 2021-02-18T20:03:45+00:00
  - user: rumpel
  - tags: ['critical thinking', 'covid', 'science is dead']
+
+## America’s Health Will Soon Be in the Hands of Very Minor Internet Celebrities
+ - [https://www.theatlantic.com/technology/archive/2021/02/vaccine-influencers-covid-anti-vax-instagram/618052](https://www.theatlantic.com/technology/archive/2021/02/vaccine-influencers-covid-anti-vax-instagram/618052)
+ - date published: 2021-02-18T16:04:03+00:00
+ - user: rumpel
+ - tags: ['manufacturing consent', 'covid']
 
 ## Inside Wikipedia's leftist bias: socialism pages whitewashed, communist atrocities buried | Fox News
  - [https://www.foxnews.com/politics/wikipedia-bias-socialism-pages-whitewashed](https://www.foxnews.com/politics/wikipedia-bias-socialism-pages-whitewashed)

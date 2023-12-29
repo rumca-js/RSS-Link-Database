@@ -1,8 +1,26 @@
+## Tragic: Obese ‘body positivity’ influencers keep dying young
+ - [https://www.washingtonexaminer.com/restoring-america/community-family/obese-body-positivity-influencers-dying-young](https://www.washingtonexaminer.com/restoring-america/community-family/obese-body-positivity-influencers-dying-young)
+ - date published: 2023-12-28T23:04:46+00:00
+ - user: rumpel
+ - tags: ['obesity', 'body positive']
+
+## Behavioural Insights Team - Wikipedia
+ - [https://en.wikipedia.org/wiki/Behavioural_Insights_Team](https://en.wikipedia.org/wiki/Behavioural_Insights_Team)
+ - date published: 2023-12-28T11:37:48+00:00
+ - user: rumpel
+ - tags: ['nudge unit', 'psyop']
+
 ## Israeli Teen Who Refused to Enlist in the IDF Is Sentenced to 30 Days in Prison
  - [https://time.com/6551044/israeli-teen-refuses-to-enlist-in-idf](https://time.com/6551044/israeli-teen-refuses-to-enlist-in-idf)
  - date published: 2023-12-27T20:12:53+00:00
  - user: rumpel
  - tags: ['war', 'palestine', 'israel']
+
+## Trusted News Initiative as example of manufacturing consent
+ - [https://www.youtube.com/watch?v=n7hdbgzd6D4](https://www.youtube.com/watch?v=n7hdbgzd6D4)
+ - date published: 2023-12-27T18:00:20+00:00
+ - user: rumpel
+ - tags: ['covid', 'big brother', 'moderna', 'manufacturing consent', 'pfizer']
 
 ## New York Times sues Microsoft and OpenAI for 'billions'
  - [https://www.bbc.com/news/technology-67826601](https://www.bbc.com/news/technology-67826601)
@@ -4462,6 +4480,12 @@
  - user: rumpel
  - tags: ['privacy', 'surveillance', 'spain', 'crypto wars', 'government control']
 
+## More super rich names are coming up in the Jeffrey Epstein cases
+ - [https://www.washingtonpost.com/business/2023/05/23/epstein-lawsuit-jpmorgan-billionaires](https://www.washingtonpost.com/business/2023/05/23/epstein-lawsuit-jpmorgan-billionaires)
+ - date published: 2023-05-23T11:06:45+00:00
+ - user: rumpel
+ - tags: ['jeffrey epstein']
+
 ## Twitter Files Extra: The Covid Censorship Requests of Australia's Department of Home Affairs
  - [https://www.racket.news/p/twitter-files-extra-the-covid-censorship](https://www.racket.news/p/twitter-files-extra-the-covid-censorship)
  - date published: 2023-05-23T08:00:19+00:00
@@ -7790,7 +7814,7 @@
  - [https://reclaimthenet.org/uk-nudge-unit-psychological-manipulations-net-zero-society](https://reclaimthenet.org/uk-nudge-unit-psychological-manipulations-net-zero-society)
  - date published: 2023-02-03T17:09:01+00:00
  - user: rumpel
- - tags: ['england', 'psyop', 'propaganda']
+ - tags: ['propaganda', 'england', 'nudge unit', 'psyop']
 
 ## WeChat: China’s Other Trojan Horse
  - [https://www.forbes.com/sites/arthurherman/2023/02/03/wechat-chinas-other-trojan-horse/](https://www.forbes.com/sites/arthurherman/2023/02/03/wechat-chinas-other-trojan-horse/)
@@ -8841,6 +8865,12 @@
  - date published: 2023-01-11T18:18:14+00:00
  - user: rumpel
  - tags: ['jpmorgan', 'jeffrey epstein']
+
+## "Landmark" lawsuit accuses mainstream media of forming coalition to censor "misinformation"
+ - [https://reclaimthenet.org/rfk-jr-sues-mainstream-media-misinformation-cartel](https://reclaimthenet.org/rfk-jr-sues-mainstream-media-misinformation-cartel)
+ - date published: 2023-01-11T16:10:21+00:00
+ - user: rumpel
+ - tags: ['trusted news initiative']
 
 ## Lying for a Climate Crusade
  - [https://cremieux.substack.com/p/lying-for-climate-crusading](https://cremieux.substack.com/p/lying-for-climate-crusading)
