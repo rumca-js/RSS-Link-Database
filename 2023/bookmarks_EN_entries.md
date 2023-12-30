@@ -1,3 +1,9 @@
+## 40% of US electricity is now emissions-free
+ - [https://arstechnica.com/science/2023/12/40-of-us-electricity-is-now-emissions-free](https://arstechnica.com/science/2023/12/40-of-us-electricity-is-now-emissions-free)
+ - date published: 2023-12-29T05:57:29+00:00
+ - user: rumpel
+ - tags: ['climate change']
+
 ## Tragic: Obese ‘body positivity’ influencers keep dying young
  - [https://www.washingtonexaminer.com/restoring-america/community-family/obese-body-positivity-influencers-dying-young](https://www.washingtonexaminer.com/restoring-america/community-family/obese-body-positivity-influencers-dying-young)
  - date published: 2023-12-28T23:04:46+00:00
@@ -9,6 +15,12 @@
  - date published: 2023-12-28T11:37:48+00:00
  - user: rumpel
  - tags: ['nudge unit', 'psyop']
+
+## Every Single "Fat Influencer" Has Died... Most Before 40 & The Media Is Hiding It From You
+ - [https://www.youtube.com/watch?v=igOfmQ8ZugQ](https://www.youtube.com/watch?v=igOfmQ8ZugQ)
+ - date published: 2023-12-28T00:00:00+00:00
+ - user: rumpel
+ - tags: ['body positive']
 
 ## Israeli Teen Who Refused to Enlist in the IDF Is Sentenced to 30 Days in Prison
  - [https://time.com/6551044/israeli-teen-refuses-to-enlist-in-idf](https://time.com/6551044/israeli-teen-refuses-to-enlist-in-idf)
@@ -75,6 +87,12 @@
  - date published: 2023-12-20T03:41:03+00:00
  - user: rumpel
  - tags: ['jeffrey epstein']
+
+## Energy President Says Climate Group’s Chinese Ties ‘Are Both Extremely Disturbing And Reprehensible’
+ - [https://www.analyzingamerica.org/2023/12/726144](https://www.analyzingamerica.org/2023/12/726144)
+ - date published: 2023-12-19T11:19:54+00:00
+ - user: rumpel
+ - tags: ['china', 'climate change']
 
 ## Widespread FBI abuse of foreign spy law sets off "alarm bells," tech group says
  - [https://arstechnica.com/tech-policy/2023/05/fbi-misused-foreign-surveillance-law-280k-times-to-snoop-on-people-in-the-us](https://arstechnica.com/tech-policy/2023/05/fbi-misused-foreign-surveillance-law-280k-times-to-snoop-on-people-in-the-us)
