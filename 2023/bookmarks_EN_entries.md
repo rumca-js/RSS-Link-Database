@@ -1,3 +1,9 @@
+## Who made millions trading the October 7th attacks?
+ - [https://www.economist.com/finance-and-economics/2023/12/05/did-hamas-make-millions-trading-the-october-7th-attacks](https://www.economist.com/finance-and-economics/2023/12/05/did-hamas-make-millions-trading-the-october-7th-attacks)
+ - date published: 2023-12-29T20:29:51+00:00
+ - user: rumpel
+ - tags: ['hamas', 'israel']
+
 ## 40% of US electricity is now emissions-free
  - [https://arstechnica.com/science/2023/12/40-of-us-electricity-is-now-emissions-free](https://arstechnica.com/science/2023/12/40-of-us-electricity-is-now-emissions-free)
  - date published: 2023-12-29T05:57:29+00:00
@@ -69,6 +75,12 @@
  - date published: 2023-12-23T17:00:08+00:00
  - user: rumpel
  - tags: ['prisoner dillema']
+
+## Syphilis - Annual Epidemiological Report 2021
+ - [https://www.ecdc.europa.eu/en/publications-data/syphilis-annual-epidemiological-report-2021](https://www.ecdc.europa.eu/en/publications-data/syphilis-annual-epidemiological-report-2021)
+ - date published: 2023-12-23T13:01:12+00:00
+ - user: rumpel
+ - tags: ['the left wing', 'syphilis', 'homosexuality']
 
 ## God Is Dead So They Are Building a New One
  - [https://thealgorithmicbridge.substack.com/p/god-is-dead-so-they-are-building](https://thealgorithmicbridge.substack.com/p/god-is-dead-so-they-are-building)

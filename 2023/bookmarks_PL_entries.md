@@ -1,3 +1,9 @@
+## Policzyli koszt miłości w CO2. Taylor Swift lata na randki prywatnym odrzutowcem
+ - [https://businessinsider.com.pl/lifestyle/taylor-swift-w-3-miesiace-wyemitowala-tyle-co2-co-17-domow-w-rok/fb5qyv2](https://businessinsider.com.pl/lifestyle/taylor-swift-w-3-miesiace-wyemitowala-tyle-co2-co-17-domow-w-rok/fb5qyv2)
+ - date published: 2023-12-29T17:24:57+00:00
+ - user: rumpel
+ - tags: ['climate change']
+
 ## NASZ WYWIAD. "Uciekliśmy z Kanady przed ideologią gender"
  - [https://wpolityce.pl/swiat/675690-nasz-wywiad-ucieklismy-z-kanady-przed-ideologia-gender](https://wpolityce.pl/swiat/675690-nasz-wywiad-ucieklismy-z-kanady-przed-ideologia-gender)
  - date published: 2023-12-25T12:36:49+00:00
