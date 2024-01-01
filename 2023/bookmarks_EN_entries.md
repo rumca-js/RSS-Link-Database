@@ -1,3 +1,15 @@
+## Facebook Disables Libs of TikTok Account
+ - [https://reclaimthenet.org/facebook-disables-libs-of-tiktok-account](https://reclaimthenet.org/facebook-disables-libs-of-tiktok-account)
+ - date published: 2023-12-31T14:50:19+00:00
+ - user: rumpel
+ - tags: ['technofeudalism', 'facebook', 'censorship']
+
+## Germany: Over 7,000 Women Sexually Assaulted by Asylum Seekers Since 2015
+ - [https://www.breitbart.com/europe/2023/12/30/over-7000-women-in-germany-have-been-raped-or-sexually-assaulted-by-asylum-seeking-migrants](https://www.breitbart.com/europe/2023/12/30/over-7000-women-in-germany-have-been-raped-or-sexually-assaulted-by-asylum-seeking-migrants)
+ - date published: 2023-12-30T13:56:51+00:00
+ - user: rumpel
+ - tags: ['germany', 'immigration']
+
 ## Who made millions trading the October 7th attacks?
  - [https://www.economist.com/finance-and-economics/2023/12/05/did-hamas-make-millions-trading-the-october-7th-attacks](https://www.economist.com/finance-and-economics/2023/12/05/did-hamas-make-millions-trading-the-october-7th-attacks)
  - date published: 2023-12-29T20:29:51+00:00

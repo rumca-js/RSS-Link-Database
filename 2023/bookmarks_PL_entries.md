@@ -1,3 +1,9 @@
+## USA: T-Mobile po cichu wprowadza kary za "mowę nienawiści"
+ - [https://ithardware.pl/aktualnosci/usa_t_mobile_po_cichu_wprowadza_kary_za_mowe_nienawisci-30917.html](https://ithardware.pl/aktualnosci/usa_t_mobile_po_cichu_wprowadza_kary_za_mowe_nienawisci-30917.html)
+ - date published: 2023-12-31T16:34:30+00:00
+ - user: rumpel
+ - tags: ['hate speech']
+
 ## Policzyli koszt miłości w CO2. Taylor Swift lata na randki prywatnym odrzutowcem
  - [https://businessinsider.com.pl/lifestyle/taylor-swift-w-3-miesiace-wyemitowala-tyle-co2-co-17-domow-w-rok/fb5qyv2](https://businessinsider.com.pl/lifestyle/taylor-swift-w-3-miesiace-wyemitowala-tyle-co2-co-17-domow-w-rok/fb5qyv2)
  - date published: 2023-12-29T17:24:57+00:00
