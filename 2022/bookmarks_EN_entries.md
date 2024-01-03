@@ -6250,6 +6250,12 @@
  - user: None
  - tags: []
 
+## 1249 Athlete Heart Attacks, 847 Dead, Since Last Year - Slay News
+ - [https://slaynews.com/news/1249-athlete-heart-attacks-847-dead-since-last-year](https://slaynews.com/news/1249-athlete-heart-attacks-847-dead-since-last-year)
+ - date published: 2022-09-09T19:33:13+00:00
+ - user: rumpel
+ - tags: ['covid']
+
 ## Supreme Court Sides With Yeshiva University In LGBTQ Club Case
  - [https://www.dailywire.com/news/supreme-court-sides-with-yeshiva-university-in-lgbtq-club-case](https://www.dailywire.com/news/supreme-court-sides-with-yeshiva-university-in-lgbtq-club-case)
  - date published: 2022-09-09T19:26:32+00:00
@@ -8553,6 +8559,12 @@
  - date published: 2022-06-03T00:00:00+00:00
  - user: rumpel
  - tags: ['what is a woman', 'gender', 'newspeak', 'the left wing', 'lgbt']
+
+## Study finds Athlete Deaths are 1700% higher than expected since Covid-19 Vaccination began
+ - [https://expose-news.com/2022/06/04/athlete-deaths-18x-higher-than-expected](https://expose-news.com/2022/06/04/athlete-deaths-18x-higher-than-expected)
+ - date published: 2022-06-02T19:38:06+00:00
+ - user: rumpel
+ - tags: ['covid']
 
 ## A Letter to Discord for not Supporting the Linux Desktop | TheEvilSkeleton
  - [https://theevilskeleton.gitlab.io/2022/05/29/a-letter-to-discord-for-not-supporting-the-linux-desktop.html](https://theevilskeleton.gitlab.io/2022/05/29/a-letter-to-discord-for-not-supporting-the-linux-desktop.html)

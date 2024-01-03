@@ -112,6 +112,12 @@
  - user: rumpel
  - tags: ['jeffrey epstein']
 
+## At Least 15% of Reddit Content Is Corporate Trolls Manipulating Public Opinion
+ - [https://medium.com/collapsenews/new-study-at-least-15-of-all-reddit-content-is-corporate-trolls-trying-to-manipulate-public-b249bd42ab42](https://medium.com/collapsenews/new-study-at-least-15-of-all-reddit-content-is-corporate-trolls-trying-to-manipulate-public-b249bd42ab42)
+ - date published: 2023-12-19T19:07:52+00:00
+ - user: rumpel
+ - tags: ['corporatocracy', 'dead internet', 'manufacturing consent', 'misinformation', 'disinformation']
+
 ## Energy President Says Climate Group’s Chinese Ties ‘Are Both Extremely Disturbing And Reprehensible’
  - [https://www.analyzingamerica.org/2023/12/726144](https://www.analyzingamerica.org/2023/12/726144)
  - date published: 2023-12-19T11:19:54+00:00
@@ -159,6 +165,12 @@
  - date published: 2023-12-13T03:38:56+00:00
  - user: rumpel
  - tags: ['privacy', 'surveillance', 'ad business', 'amazon', 'technofeudalism']
+
+## This is bigger than COVID: Why are so many Americans dying early?
+ - [https://thehill.com/opinion/healthcare/4354004-this-is-bigger-than-covid-why-are-so-many-americans-dying-early](https://thehill.com/opinion/healthcare/4354004-this-is-bigger-than-covid-why-are-so-many-americans-dying-early)
+ - date published: 2023-12-12T17:00:00+00:00
+ - user: rumpel
+ - tags: ['covid']
 
 ## Trust-Based Moderation Systems
  - [https://cblgh.org/trustnet](https://cblgh.org/trustnet)
