@@ -562,6 +562,12 @@
  - user: rumpel
  - tags: ['abortion']
 
+## Who owns the world?
+ - [https://www.newstatesman.com/politics/2017/03/land-queen-world-australia](https://www.newstatesman.com/politics/2017/03/land-queen-world-australia)
+ - date published: 2017-03-11T15:25:33+00:00
+ - user: rumpel
+ - tags: ['land ownership']
+
 ## Dishonest Fact-Checkers - Capital Research Center
  - [https://capitalresearch.org/article/dishonest-fact-checkers/](https://capitalresearch.org/article/dishonest-fact-checkers/)
  - date published: 2017-03-10T12:34:06+00:00

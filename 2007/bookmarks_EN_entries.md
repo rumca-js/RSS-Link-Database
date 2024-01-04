@@ -16,6 +16,12 @@
  - user: rumpel
  - tags: ['the left wing', 'lgbt']
 
+## Have you noticed how much shit the internet has become now? (2007)
+ - [https://old.sage.moe/g/thread/721239](https://old.sage.moe/g/thread/721239)
+ - date published: 2007-10-27T19:20:54+00:00
+ - user: rumpel
+ - tags: ['web20', 'web30', 'internet', 'web10']
+
 ## Aaron Russo Interview
  - [https://www.youtube.com/watch?v=LSGZ4Hkdyg4](https://www.youtube.com/watch?v=LSGZ4Hkdyg4)
  - date published: 2007-09-01T07:01:37+00:00

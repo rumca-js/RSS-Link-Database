@@ -436,6 +436,12 @@
  - user: rumpel
  - tags: ['vulnerability', 'surveillance', 'ad business', 'privacy', 'technofeudalism']
 
+## Pluralistic: The (open) web is good, actually (13 Nov 2023)
+ - [https://pluralistic.net/2023/11/13/this-is-for-everyone](https://pluralistic.net/2023/11/13/this-is-for-everyone)
+ - date published: 2023-11-13T20:47:59+00:00
+ - user: rumpel
+ - tags: ['open source', 'standards']
+
 ## South Africa’s ‘Too White’ Farms May Lose EU, UK Access
  - [https://www.bloomberg.com/news/articles/2023-11-12/south-africa-s-too-white-farms-lose-eu-uk-access-city-press#xj4y7vzkg](https://www.bloomberg.com/news/articles/2023-11-12/south-africa-s-too-white-farms-lose-eu-uk-access-city-press#xj4y7vzkg)
  - date published: 2023-11-12T18:53:38+00:00
@@ -3861,12 +3867,6 @@
  - date published: 2023-06-10T04:18:43+00:00
  - user: rumpel
  - tags: ['linux']
-
-## Have you noticed how much shit the internet has become now? (2007)
- - [https://old.sage.moe/g/thread/721239](https://old.sage.moe/g/thread/721239)
- - date published: 2023-06-09T19:20:54+00:00
- - user: rumpel
- - tags: ['web20', 'web30', 'internet', 'web10']
 
 ## Turkish citizens' personal data offered online after government site hacked
  - [https://balkaninsight.com/2023/06/09/turkish-citizens-personal-data-offered-online-after-govt-site-hacked/](https://balkaninsight.com/2023/06/09/turkish-citizens-personal-data-offered-online-after-govt-site-hacked/)
