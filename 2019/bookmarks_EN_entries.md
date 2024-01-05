@@ -550,6 +550,18 @@
  - user: rumpel
  - tags: ['crypto wars', 'kazakhstan', 'surveillance', 'privacy']
 
+## Jeffrey Epstein Wanted to Impregnate 20 Women at a Time at His ‘Baby Ranch’
+ - [https://www.thecut.com/2019/07/jeffrey-epstein-baby-ranch-transhumanism-scientists.html](https://www.thecut.com/2019/07/jeffrey-epstein-baby-ranch-transhumanism-scientists.html)
+ - date published: 2019-07-31T19:44:47+00:00
+ - user: rumpel
+ - tags: ['jeffrey epstein']
+
+## Jeffrey Epstein Hoped to Seed Human Race With His DNA (Published 2019)
+ - [https://www.nytimes.com/2019/07/31/business/jeffrey-epstein-eugenics.html](https://www.nytimes.com/2019/07/31/business/jeffrey-epstein-eugenics.html)
+ - date published: 2019-07-31T19:41:29+00:00
+ - user: rumpel
+ - tags: ['jeffrey epstein', 'transhumanism']
+
 ## Ben Shapiro Vs Climate Change | UBC Talk
  - [https://www.youtube.com/watch?v=wRk1p8Lzwvo](https://www.youtube.com/watch?v=wRk1p8Lzwvo)
  - date published: 2019-07-27T14:40:12+00:00

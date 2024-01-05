@@ -16,6 +16,12 @@
  - user: rumpel
  - tags: ['hamas', 'israel']
 
+## Dragon Maid localizer gets asked about how she responds to all the criticism regarding the localization
+ - [https://twitter.com/Mondblut1984/status/1740844676234793166](https://twitter.com/Mondblut1984/status/1740844676234793166)
+ - date published: 2023-12-29T11:30:22+00:00
+ - user: rumpel
+ - tags: ['woke', 'propaganda', 'anime', 'sjw', 'the left wing']
+
 ## 40% of US electricity is now emissions-free
  - [https://arstechnica.com/science/2023/12/40-of-us-electricity-is-now-emissions-free](https://arstechnica.com/science/2023/12/40-of-us-electricity-is-now-emissions-free)
  - date published: 2023-12-29T05:57:29+00:00
