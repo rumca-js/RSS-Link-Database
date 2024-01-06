@@ -10,6 +10,12 @@
  - user: rumpel
  - tags: ['germany', 'immigration']
 
+## Law requires California police to use suspect's pronouns upon release of mugshot
+ - [https://www.washingtonexaminer.com/news/crime/california-police-suspects-pronouns-release-mugshot](https://www.washingtonexaminer.com/news/crime/california-police-suspects-pronouns-release-mugshot)
+ - date published: 2023-12-30T11:10:33+00:00
+ - user: rumpel
+ - tags: ['pronouns', 'the left wing']
+
 ## Who made millions trading the October 7th attacks?
  - [https://www.economist.com/finance-and-economics/2023/12/05/did-hamas-make-millions-trading-the-october-7th-attacks](https://www.economist.com/finance-and-economics/2023/12/05/did-hamas-make-millions-trading-the-october-7th-attacks)
  - date published: 2023-12-29T20:29:51+00:00
@@ -471,6 +477,12 @@
  - date published: 2023-11-10T19:21:25+00:00
  - user: rumpel
  - tags: ['dark design', 'microsoft']
+
+## Israel women’s groups warn of failure to keep evidence of sexual violence in Hamas attacks
+ - [https://www.theguardian.com/world/2023/nov/10/israel-womens-groups-warn-of-failure-to-keep-evidence-of-sexual-violence-in-hamas-attacks](https://www.theguardian.com/world/2023/nov/10/israel-womens-groups-warn-of-failure-to-keep-evidence-of-sexual-violence-in-hamas-attacks)
+ - date published: 2023-11-10T11:55:53+00:00
+ - user: rumpel
+ - tags: ['hamas', 'israel']
 
 ## Microsoft steals access data: Beware of the new Outlook (German)
  - [https://www.heise.de/news/Microsoft-krallt-sich-Zugangsdaten-Achtung-vorm-neuen-Outlook-9357691.html](https://www.heise.de/news/Microsoft-krallt-sich-Zugangsdaten-Achtung-vorm-neuen-Outlook-9357691.html)
@@ -1683,6 +1695,12 @@
  - date published: 2023-08-25T19:44:30.396266+00:00
  - user: rumpel
  - tags: ['web scraping']
+
+## Drag queen jailed after sending sexual messages to ‘14-year-old boy’
+ - [https://www.telegraph.co.uk/news/2023/08/25/drag-queen-andrew-way-paedophile-hunters-crime](https://www.telegraph.co.uk/news/2023/08/25/drag-queen-andrew-way-paedophile-hunters-crime)
+ - date published: 2023-08-25T18:16:51+00:00
+ - user: rumpel
+ - tags: ['lgbt', 'paedophilia', 'quest']
 
 ## Paper drinking straws may be harmful and may not be better for the environment than plastic versions | ScienceDaily
  - [https://www.sciencedaily.com/releases/2023/08/230825122044.htm#:~:text=PFAS%20were%20found%20in%20the,to%20water%2C%20heat%20and%20stains.](https://www.sciencedaily.com/releases/2023/08/230825122044.htm#:~:text=PFAS%20were%20found%20in%20the,to%20water%2C%20heat%20and%20stains.)
