@@ -1982,7 +1982,7 @@
  - [https://reclaimthenet.org/gofundme-deletes-fundraiser-for-harassed-arizona-state-students](https://reclaimthenet.org/gofundme-deletes-fundraiser-for-harassed-arizona-state-students)
  - date published: 2021-09-26T06:39:50+00:00
  - user: rumpel
- - tags: ['tolerance', 'censorship', 'gofundme', 'black lives matters', 'inclusion', 'racism', 'diversity']
+ - tags: ['gofundme', 'diversity', 'racism', 'tolerance', 'inclusion', 'black lives matter', 'censorship']
 
 ## Lorry driver shortage: Government working on temporary visa scheme - BBC News
  - [https://www.bbc.co.uk/news/business-58687026](https://www.bbc.co.uk/news/business-58687026)
@@ -4311,6 +4311,12 @@
  - date published: 2021-04-29T13:12:20+00:00
  - user: None
  - tags: ['censorship', 'government control', 'terreg']
+
+## Over 200 Seattle police officers quit amid nation protests
+ - [https://apnews.com/article/seattle-police-government-and-politics-e0ce15086d8bf06502659386148d94fa](https://apnews.com/article/seattle-police-government-and-politics-e0ce15086d8bf06502659386148d94fa)
+ - date published: 2021-04-28T18:41:36+00:00
+ - user: rumpel
+ - tags: ['black lives matter']
 
 ## Why Google Should Stop Logging Contact-Tracing Data
  - [https://blog.appcensus.io/2021/04/27/why-google-should-stop-logging-contact-tracing-data/](https://blog.appcensus.io/2021/04/27/why-google-should-stop-logging-contact-tracing-data/)

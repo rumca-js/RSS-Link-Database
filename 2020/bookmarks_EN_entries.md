@@ -1288,11 +1288,23 @@
  - user: rumpel
  - tags: ['new york times']
 
+## Seattle protesters take over city blocks to create police-free 'autonomous zone'
+ - [https://www.theguardian.com/us-news/2020/jun/11/chaz-seattle-autonomous-zone-police-protest](https://www.theguardian.com/us-news/2020/jun/11/chaz-seattle-autonomous-zone-police-protest)
+ - date published: 2020-06-12T18:39:24+00:00
+ - user: rumpel
+ - tags: ['black lives matter']
+
 ## Christopher Columbus statues are being beheaded and torn down during Black Lives Matter protests
  - [https://www.insider.com/christopher-columbus-statues-vandalized-during-protests-2020-6](https://www.insider.com/christopher-columbus-statues-vandalized-during-protests-2020-6)
  - date published: 2020-06-11T20:11:27+00:00
  - user: rumpel
  - tags: ['protest', 'culture', 'blm', 'black lives matter']
+
+## Seattle Protesters Take Over Six Blocks, Declaring It 'Capitol Hill Autonomous Zone'
+ - [https://www.insideedition.com/seattle-protesters-take-over-six-blocks-declaring-it-capitol-hill-autonomous-zone-60104](https://www.insideedition.com/seattle-protesters-take-over-six-blocks-declaring-it-capitol-hill-autonomous-zone-60104)
+ - date published: 2020-06-11T18:37:45+00:00
+ - user: rumpel
+ - tags: ['black lives matter']
 
 ## If You Don’t Support Black Lives Matter, You're Fired
  - [https://thefederalist.com/2020/06/11/if-you-dont-support-black-lives-matter-youre-fired/](https://thefederalist.com/2020/06/11/if-you-dont-support-black-lives-matter-youre-fired/)
