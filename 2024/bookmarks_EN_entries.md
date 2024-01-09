@@ -1,3 +1,9 @@
+## German farmers block roads with tractors in protest over cuts to vehicle tax subsidies – Europe live
+ - [https://www.theguardian.com/world/live/2024/jan/08/germany-farmers-tractors-block-roads-protests-cuts-agricultural-subsidies-pay-europe-latest-updates](https://www.theguardian.com/world/live/2024/jan/08/germany-farmers-tractors-block-roads-protests-cuts-agricultural-subsidies-pay-europe-latest-updates)
+ - date published: 2024-01-08T09:24:53+00:00
+ - user: rumpel
+ - tags: ['germany', 'climate change']
+
 ## U.S. Sen. Johnson to HHS, FDA, CDC: Deaths per million doses of the COVID-19 vaccines are significantly higher than the flu vaccine
  - [https://www.wispolitics.com/2024/u-s-sen-johnson-to-hhs-fda-cdc-deaths-per-million-doses-of-the-covid-19-vaccines-are-significantly-higher-than-the-flu-vaccine](https://www.wispolitics.com/2024/u-s-sen-johnson-to-hhs-fda-cdc-deaths-per-million-doses-of-the-covid-19-vaccines-are-significantly-higher-than-the-flu-vaccine)
  - date published: 2024-01-04T07:55:09+00:00

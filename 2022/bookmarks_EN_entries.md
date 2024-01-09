@@ -7750,6 +7750,12 @@
  - user: rumpel
  - tags: ['atom', 'climate change', 'co2']
 
+## The True Story Behind Hulu's New Victoria's Secret Documentary
+ - [https://time.com/6197975/victorias-secret-angels-and-demons-hulu-true-story](https://time.com/6197975/victorias-secret-angels-and-demons-hulu-true-story)
+ - date published: 2022-07-19T07:08:05+00:00
+ - user: rumpel
+ - tags: ['jeffrey epstein', 'victoria secret']
+
 ## Learning Go as a Python Developer: The Good and The Bad
  - [https://new.pythonforengineers.com/blog/learning-go-as-a-python-developer-the-good-the-bad-and-the-ugly/](https://new.pythonforengineers.com/blog/learning-go-as-a-python-developer-the-good-the-bad-and-the-ugly/)
  - date published: 2022-07-18T20:02:03.868082+00:00

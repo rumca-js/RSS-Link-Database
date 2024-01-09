@@ -160,6 +160,12 @@
  - user: rumpel
  - tags: ['technofeudalism', 'privacy', 'ad business', 'surveillance']
 
+## Pro-Vaccine Journalist Who Called for Punishment for Refusing Jab Dies Suddenly
+ - [https://www.theepochtimes.com/world/pro-vaccine-journalist-who-called-for-punishment-for-refusing-jab-dies-suddenly-5547131](https://www.theepochtimes.com/world/pro-vaccine-journalist-who-called-for-punishment-for-refusing-jab-dies-suddenly-5547131)
+ - date published: 2023-12-14T19:52:49+00:00
+ - user: rumpel
+ - tags: ['covid']
+
 ## Ex-Facebook diversity manager pleads guilty to bilking $4M from company
  - [https://nypost.com/2023/12/13/business/ex-facebook-diversity-manager-pleads-guilty-to-bilking-4m-from-company-in-kickback-scheme-feds](https://nypost.com/2023/12/13/business/ex-facebook-diversity-manager-pleads-guilty-to-bilking-4m-from-company-in-kickback-scheme-feds)
  - date published: 2023-12-14T03:09:38+00:00
