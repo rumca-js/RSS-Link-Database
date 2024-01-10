@@ -40,6 +40,12 @@
  - user: rumpel
  - tags: ['llvm', 'programming']
 
+## We're Raising Our Kids With No Gender | MY EXTRAORDINARY FAMILY
+ - [https://www.youtube.com/watch?v=CTTYwhZ7948](https://www.youtube.com/watch?v=CTTYwhZ7948)
+ - date published: 2020-12-24T00:00:00+00:00
+ - user: rumpel
+ - tags: ['lgbt', 'pronouns', 'the left wing']
+
 ## WHO Deletes Naturally Acquired Immunity from Its Website
  - [https://www.aier.org/article/who-deletes-naturally-acquired-immunity-from-its-website/](https://www.aier.org/article/who-deletes-naturally-acquired-immunity-from-its-website/)
  - date published: 2020-12-23T11:38:00+00:00

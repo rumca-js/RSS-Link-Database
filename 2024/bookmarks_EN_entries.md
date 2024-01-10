@@ -1,3 +1,9 @@
+## Where Have All the Websites Gone?
+ - [https://www.fromjason.xyz/p/notebook/where-have-all-the-websites-gone](https://www.fromjason.xyz/p/notebook/where-have-all-the-websites-gone)
+ - date published: 2024-01-09T08:13:13+00:00
+ - user: rumpel
+ - tags: ['dead internet']
+
 ## German farmers block roads with tractors in protest over cuts to vehicle tax subsidies – Europe live
  - [https://www.theguardian.com/world/live/2024/jan/08/germany-farmers-tractors-block-roads-protests-cuts-agricultural-subsidies-pay-europe-latest-updates](https://www.theguardian.com/world/live/2024/jan/08/germany-farmers-tractors-block-roads-protests-cuts-agricultural-subsidies-pay-europe-latest-updates)
  - date published: 2024-01-08T09:24:53+00:00
