@@ -1,3 +1,9 @@
+## Bottled water has 'up to 100 times' more bits of plastic than previously feared
+ - [https://www.theregister.com/2024/01/10/water_nanoplastic_pollution](https://www.theregister.com/2024/01/10/water_nanoplastic_pollution)
+ - date published: 2024-01-10T09:11:53+00:00
+ - user: rumpel
+ - tags: ['pollution', 'microplastic']
+
 ## Where Have All the Websites Gone?
  - [https://www.fromjason.xyz/p/notebook/where-have-all-the-websites-gone](https://www.fromjason.xyz/p/notebook/where-have-all-the-websites-gone)
  - date published: 2024-01-09T08:13:13+00:00
