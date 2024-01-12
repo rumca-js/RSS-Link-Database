@@ -1,3 +1,21 @@
+## Casualties of the 2023 Israel–Hamas war - Wikipedia
+ - [https://en.wikipedia.org/wiki/Casualties_of_the_2023_Israel%E2%80%93Hamas_war](https://en.wikipedia.org/wiki/Casualties_of_the_2023_Israel%E2%80%93Hamas_war)
+ - date published: 2024-01-11T07:39:41+00:00
+ - user: rumpel
+ - tags: ['israel', 'hamas', 'palestine']
+
+## Gaza hospitals facing ‘totally catastrophic’ situation: Health minister
+ - [https://www.aljazeera.com/news/liveblog/2024/1/1/israel-hamas-war-live-new-year-in-gaza-under-non-stop-israeli-bombardment](https://www.aljazeera.com/news/liveblog/2024/1/1/israel-hamas-war-live-new-year-in-gaza-under-non-stop-israeli-bombardment)
+ - date published: 2024-01-11T07:30:56+00:00
+ - user: rumpel
+ - tags: ['israel', 'gaza strip', 'hamas', 'palestine']
+
+## Israeli Group Claims It’s Using Big Tech Back Channels to Censor “Inflammatory” Wartime Content
+ - [https://theintercept.com/2024/01/10/israel-disinformation-social-media-iron-truth](https://theintercept.com/2024/01/10/israel-disinformation-social-media-iron-truth)
+ - date published: 2024-01-10T18:26:07+00:00
+ - user: rumpel
+ - tags: ['hamas', 'censorship', 'moderation', 'manufacturing consent', 'israel', 'palestine']
+
 ## Bottled water has 'up to 100 times' more bits of plastic than previously feared
  - [https://www.theregister.com/2024/01/10/water_nanoplastic_pollution](https://www.theregister.com/2024/01/10/water_nanoplastic_pollution)
  - date published: 2024-01-10T09:11:53+00:00

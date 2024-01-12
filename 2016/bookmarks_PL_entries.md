@@ -4,6 +4,12 @@
  - user: None
  - tags: ['chrome', 'google', 'privacy']
 
+## Papież Benedykt XVI: W Watykanie była „gejowska sitwa” – DW – 03.07.2016
+ - [https://www.dw.com/pl/papie%C5%BC-benedykt-xvi-w-watykanie-by%C5%82a-gejowska-sitwa/a-19374854](https://www.dw.com/pl/papie%C5%BC-benedykt-xvi-w-watykanie-by%C5%82a-gejowska-sitwa/a-19374854)
+ - date published: 2016-07-03T14:01:05+00:00
+ - user: rumpel
+ - tags: ['catholic', 'church scandal']
+
 ## Dane z JPK będą najpierw w chmurze - GazetaPrawna.pl
  - [https://podatki.gazetaprawna.pl/artykuly/952001,dane-z-jpk-beda-najpierw-w-chmurze.html](https://podatki.gazetaprawna.pl/artykuly/952001,dane-z-jpk-beda-najpierw-w-chmurze.html)
  - date published: 2016-06-15T09:03:34+00:00

@@ -220,6 +220,12 @@
  - user: rumpel
  - tags: ['movies', 'spirited away', 'conspiracy theory']
 
+## In memoirs, ex Pope Benedict says Vatican 'gay lobby' tried to wield power: report
+ - [https://www.reuters.com/article/idUSKCN0ZH4LM](https://www.reuters.com/article/idUSKCN0ZH4LM)
+ - date published: 2016-07-01T14:01:58+00:00
+ - user: rumpel
+ - tags: ['catholic', 'church scandal']
+
 ## Does capitalism need some Marxism to survive the Fourth Industrial Revolution? | World Economic Forum
  - [https://www.weforum.org/agenda/2016/06/could-capitalism-need-some-marxism-to-survive-the-4th-industrial-revolution/](https://www.weforum.org/agenda/2016/06/could-capitalism-need-some-marxism-to-survive-the-4th-industrial-revolution/)
  - date published: 2016-06-22T20:42:14+00:00
