@@ -148,6 +148,12 @@
  - user: None
  - tags: ['algorithms', 'youtube']
 
+## Yes, Diversity Is About Getting Rid Of White People (And That’s A Good Thing)
+ - [https://thoughtcatalog.com/emily-goldstein/2015/05/get-rid-of-white-people](https://thoughtcatalog.com/emily-goldstein/2015/05/get-rid-of-white-people)
+ - date published: 2015-05-26T21:14:25+00:00
+ - user: rumpel
+ - tags: ['socialism', 'hate speech', 'racism']
+
 ## Reddit CEO Ellen Pao: Free speech on site not absolute | Fortune
  - [https://fortune.com/2015/05/20/reddit-free-speech-ellen-pao/](https://fortune.com/2015/05/20/reddit-free-speech-ellen-pao/)
  - date published: 2015-05-20T10:14:42+00:00

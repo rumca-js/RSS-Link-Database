@@ -724,6 +724,12 @@
  - user: rumpel
  - tags: ['the left wing', 'cuties', 'netflix', 'children', 'sexualization']
 
+## Do the Oscars’ new rules mean no more movies about white people?
+ - [https://www.vox.com/culture/2020/9/9/21429083/oscars-best-picture-new-rules-2024-diversity-inclusion](https://www.vox.com/culture/2020/9/9/21429083/oscars-best-picture-new-rules-2024-diversity-inclusion)
+ - date published: 2020-09-09T21:11:41+00:00
+ - user: rumpel
+ - tags: ['inclusion', 'propaganda', 'diversity', 'oscars']
+
 ## Oscars' woke quota will backfire on Hollywood spectacularly
  - [https://nypost.com/2020/09/09/oscars-woke-quota-will-backfire-on-hollywood-spectacularly/](https://nypost.com/2020/09/09/oscars-woke-quota-will-backfire-on-hollywood-spectacularly/)
  - date published: 2020-09-09T14:51:17+00:00
