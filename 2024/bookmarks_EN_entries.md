@@ -1,3 +1,9 @@
+## Anthony Fauci Fesses Up
+ - [https://www.wsj.com/articles/anthony-fauci-covid-social-distancing-six-feet-rule-house-subcommittee-hearing-44289850](https://www.wsj.com/articles/anthony-fauci-covid-social-distancing-six-feet-rule-house-subcommittee-hearing-44289850)
+ - date published: 2024-01-11T23:34:00+00:00
+ - user: rumpel
+ - tags: ['covid']
+
 ## Casualties of the 2023 Israel–Hamas war - Wikipedia
  - [https://en.wikipedia.org/wiki/Casualties_of_the_2023_Israel%E2%80%93Hamas_war](https://en.wikipedia.org/wiki/Casualties_of_the_2023_Israel%E2%80%93Hamas_war)
  - date published: 2024-01-11T07:39:41+00:00
@@ -10,6 +16,12 @@
  - user: rumpel
  - tags: ['israel', 'gaza strip', 'hamas', 'palestine']
 
+## President of Canadian LGBT organization ousted following arrest for alleged sex crimes against children | Blaze Media
+ - [https://www.theblaze.com/news/president-of-canadian-lgbt-organization-ousted-following-arrest-for-alleged-sex-crimes-against-children](https://www.theblaze.com/news/president-of-canadian-lgbt-organization-ousted-following-arrest-for-alleged-sex-crimes-against-children)
+ - date published: 2024-01-10T18:59:09+00:00
+ - user: rumpel
+ - tags: ['lgbt', 'paedophilia']
+
 ## Israeli Group Claims It’s Using Big Tech Back Channels to Censor “Inflammatory” Wartime Content
  - [https://theintercept.com/2024/01/10/israel-disinformation-social-media-iron-truth](https://theintercept.com/2024/01/10/israel-disinformation-social-media-iron-truth)
  - date published: 2024-01-10T18:26:07+00:00
@@ -21,6 +33,12 @@
  - date published: 2024-01-10T09:11:53+00:00
  - user: rumpel
  - tags: ['pollution', 'microplastic']
+
+## Scotland is abandoning children to trans extremists
+ - [https://www.telegraph.co.uk/news/2024/01/10/scotland-is-abandoning-children-to-trans-extremists](https://www.telegraph.co.uk/news/2024/01/10/scotland-is-abandoning-children-to-trans-extremists)
+ - date published: 2024-01-10T07:44:37+00:00
+ - user: rumpel
+ - tags: ['the left wing', 'gender', 'family oppression', 'transgender']
 
 ## Where Have All the Websites Gone?
  - [https://www.fromjason.xyz/p/notebook/where-have-all-the-websites-gone](https://www.fromjason.xyz/p/notebook/where-have-all-the-websites-gone)
