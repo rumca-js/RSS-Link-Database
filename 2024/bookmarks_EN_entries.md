@@ -1,3 +1,15 @@
+## Electric buses withdrawn in south London after fire
+ - [https://www.bbc.com/news/uk-england-london-67967421](https://www.bbc.com/news/uk-england-london-67967421)
+ - date published: 2024-01-14T17:26:49+00:00
+ - user: rumpel
+ - tags: ['climate change', 'electric vehicles']
+
+## Bringing the Amiga Sample Library into the 21st Century
+ - [https://www.youtube.com/watch?v=LvV85I0qksE](https://www.youtube.com/watch?v=LvV85I0qksE)
+ - date published: 2024-01-14T16:48:03+00:00
+ - user: rumpel
+ - tags: ['amiga', 'chiptune', 'demoscene']
+
 ## Anthony Fauci Fesses Up
  - [https://www.wsj.com/articles/anthony-fauci-covid-social-distancing-six-feet-rule-house-subcommittee-hearing-44289850](https://www.wsj.com/articles/anthony-fauci-covid-social-distancing-six-feet-rule-house-subcommittee-hearing-44289850)
  - date published: 2024-01-11T23:34:00+00:00
@@ -15,6 +27,12 @@
  - date published: 2024-01-11T07:30:56+00:00
  - user: rumpel
  - tags: ['israel', 'gaza strip', 'hamas', 'palestine']
+
+## Is It Ever OK to Use Icons Without Labels in Mobile App Design?
+ - [https://www.codeproject.com/script/News/View.aspx?nwid=63840](https://www.codeproject.com/script/News/View.aspx?nwid=63840)
+ - date published: 2024-01-11T05:00:00+00:00
+ - user: rumpel
+ - tags: []
 
 ## President of Canadian LGBT organization ousted following arrest for alleged sex crimes against children | Blaze Media
  - [https://www.theblaze.com/news/president-of-canadian-lgbt-organization-ousted-following-arrest-for-alleged-sex-crimes-against-children](https://www.theblaze.com/news/president-of-canadian-lgbt-organization-ousted-following-arrest-for-alleged-sex-crimes-against-children)
