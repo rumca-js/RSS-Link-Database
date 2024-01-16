@@ -1,3 +1,15 @@
+## AI to hit 40% of jobs and worsen inequality, IMF says
+ - [https://www.bbc.co.uk/news/business-67977967](https://www.bbc.co.uk/news/business-67977967)
+ - date published: 2024-01-15T05:07:08+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
+
+## Many software developers don’t trust AI – report
+ - [https://www.infoworld.com/article/3712282/many-software-developers-dont-trust-ai-report.html](https://www.infoworld.com/article/3712282/many-software-developers-dont-trust-ai-report.html)
+ - date published: 2024-01-15T05:00:00+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
+
 ## Electric buses withdrawn in south London after fire
  - [https://www.bbc.com/news/uk-england-london-67967421](https://www.bbc.com/news/uk-england-london-67967421)
  - date published: 2024-01-14T17:26:49+00:00

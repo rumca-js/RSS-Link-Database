@@ -2002,6 +2002,12 @@
  - user: Thomas Pain
  - tags: []
 
+## The NSA and CIA Use Ad Blockers Because Online Advertising Is So Dangerous
+ - [https://www.vice.com/en/article/93ypke/the-nsa-and-cia-use-ad-blockers-because-online-advertising-is-so-dangerous](https://www.vice.com/en/article/93ypke/the-nsa-and-cia-use-ad-blockers-because-online-advertising-is-so-dangerous)
+ - date published: 2021-09-23T21:53:34+00:00
+ - user: rumpel
+ - tags: ['ad business', 'ad block']
+
 ## Leaked Grant Proposal Details High-Risk Coronavirus Research
  - [https://theintercept.com/2021/09/23/coronavirus-research-grant-darpa/](https://theintercept.com/2021/09/23/coronavirus-research-grant-darpa/)
  - date published: 2021-09-23T06:55:00+00:00

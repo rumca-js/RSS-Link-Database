@@ -5536,6 +5536,12 @@
  - user: None
  - tags: ['big brother', 'privacy laundering', 'surveillance', 'pentagon', 'america']
 
+## LinkedIn Smart Links abused in evasive email phishing attacks
+ - [https://www.bleepingcomputer.com/news/security/linkedin-smart-links-abused-in-evasive-email-phishing-attacks](https://www.bleepingcomputer.com/news/security/linkedin-smart-links-abused-in-evasive-email-phishing-attacks)
+ - date published: 2022-09-21T21:56:13+00:00
+ - user: rumpel
+ - tags: ['linkedin', 'smart links']
+
 ## More than 40,000 NYers have migrated to FL due to soaring crime, eye-watering taxes and  living cost
  - [https://www.dailymail.co.uk/news/article-11236391/More-40-000-NYers-migrated-FL-soaring-crime-eye-watering-taxes-living-cost.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11236391/More-40-000-NYers-migrated-FL-soaring-crime-eye-watering-taxes-living-cost.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2022-09-21T21:17:25+00:00
