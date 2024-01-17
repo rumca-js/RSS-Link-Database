@@ -58,3 +58,9 @@
  - user: rumpel
  - tags: ['pandemic', 'swine flu', 'mexico']
 
+## Kate Winslet wanted a Holocaust Oscar
+ - [https://jewishjournal.com/uncategorized/68849](https://jewishjournal.com/uncategorized/68849)
+ - date published: 2009-02-25T18:03:01+00:00
+ - user: rumpel
+ - tags: ['oscar', 'kate winslet', 'israel']
+

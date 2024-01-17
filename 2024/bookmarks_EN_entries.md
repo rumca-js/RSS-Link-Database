@@ -1,3 +1,15 @@
+## Google Search Really Has Gotten Worse, Researchers Find
+ - [https://www.404media.co/google-search-really-has-gotten-worse-researchers-find](https://www.404media.co/google-search-really-has-gotten-worse-researchers-find)
+ - date published: 2024-01-16T18:28:34+00:00
+ - user: rumpel
+ - tags: ['search engines', 'spam', 'seo']
+
+## Tesla owners in deep freeze discover the cold, hard truth about EVs
+ - [https://www.theregister.com/2024/01/16/tesla_owners_in_deep_freeze](https://www.theregister.com/2024/01/16/tesla_owners_in_deep_freeze)
+ - date published: 2024-01-16T14:58:47+00:00
+ - user: rumpel
+ - tags: ['climate change', 'electric vehicles', 'tesla']
+
 ## AI to hit 40% of jobs and worsen inequality, IMF says
  - [https://www.bbc.co.uk/news/business-67977967](https://www.bbc.co.uk/news/business-67977967)
  - date published: 2024-01-15T05:07:08+00:00
@@ -21,6 +33,24 @@
  - date published: 2024-01-14T16:48:03+00:00
  - user: rumpel
  - tags: ['amiga', 'chiptune', 'demoscene']
+
+## Once an AI model exhibits 'deceptive behavior' it can be hard to correct, researchers at OpenAI competitor Anthropic found
+ - [https://www.businessinsider.com/ai-models-can-learn-deceptive-behaviors-anthropic-researchers-say-2024-1?IR=T](https://www.businessinsider.com/ai-models-can-learn-deceptive-behaviors-anthropic-researchers-say-2024-1?IR=T)
+ - date published: 2024-01-14T12:14:35+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
+
+## Meta admits using pirated books to train AI, but won't pay for it
+ - [https://www.techspot.com/news/101507-meta-admits-using-pirated-books-train-ai-but.html](https://www.techspot.com/news/101507-meta-admits-using-pirated-books-train-ai-but.html)
+ - date published: 2024-01-13T15:41:29+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence', 'corporatocracy']
+
+## Prison. Bankruptcy. Suicide. How a software glitch and a centuries-old British company ruined lives | CNN Business
+ - [https://edition.cnn.com/2024/01/13/business/uk-post-office-fujitsu-horizon-scandal/index.html](https://edition.cnn.com/2024/01/13/business/uk-post-office-fujitsu-horizon-scandal/index.html)
+ - date published: 2024-01-13T09:02:00+00:00
+ - user: rumpel
+ - tags: ['programming', 'bugs', 'software']
 
 ## Anthony Fauci Fesses Up
  - [https://www.wsj.com/articles/anthony-fauci-covid-social-distancing-six-feet-rule-house-subcommittee-hearing-44289850](https://www.wsj.com/articles/anthony-fauci-covid-social-distancing-six-feet-rule-house-subcommittee-hearing-44289850)
@@ -75,6 +105,12 @@
  - date published: 2024-01-09T08:13:13+00:00
  - user: rumpel
  - tags: ['dead internet']
+
+## The Perfect Webpage
+ - [https://www.theverge.com/c/23998379/google-search-seo-algorithm-webpage-optimization](https://www.theverge.com/c/23998379/google-search-seo-algorithm-webpage-optimization)
+ - date published: 2024-01-08T13:00:00+00:00
+ - user: rumpel
+ - tags: ['search engines', 'seo']
 
 ## German farmers block roads with tractors in protest over cuts to vehicle tax subsidies – Europe live
  - [https://www.theguardian.com/world/live/2024/jan/08/germany-farmers-tractors-block-roads-protests-cuts-agricultural-subsidies-pay-europe-latest-updates](https://www.theguardian.com/world/live/2024/jan/08/germany-farmers-tractors-block-roads-protests-cuts-agricultural-subsidies-pay-europe-latest-updates)
