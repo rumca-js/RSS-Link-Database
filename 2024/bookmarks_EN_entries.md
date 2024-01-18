@@ -1,8 +1,20 @@
+## AI poisoning could turn open models into destructive "sleeper agents"
+ - [https://arstechnica.com/information-technology/2024/01/ai-poisoning-could-turn-open-models-into-destructive-sleeper-agents-says-anthropic](https://arstechnica.com/information-technology/2024/01/ai-poisoning-could-turn-open-models-into-destructive-sleeper-agents-says-anthropic)
+ - date published: 2024-01-17T14:32:34+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
+
 ## Google Search Really Has Gotten Worse, Researchers Find
  - [https://www.404media.co/google-search-really-has-gotten-worse-researchers-find](https://www.404media.co/google-search-really-has-gotten-worse-researchers-find)
  - date published: 2024-01-16T18:28:34+00:00
  - user: rumpel
  - tags: ['search engines', 'spam', 'seo']
+
+## Exclusive: Jordan Peterson loses fight with psychology college over mandatory social media training
+ - [https://nationalpost.com/news/canada/exclusive-jordan-peterson-loses-fight-with-psychology-college-over-mandatory-social-media-training](https://nationalpost.com/news/canada/exclusive-jordan-peterson-loses-fight-with-psychology-college-over-mandatory-social-media-training)
+ - date published: 2024-01-16T16:31:42+00:00
+ - user: rumpel
+ - tags: ['jordan peterson']
 
 ## Tesla owners in deep freeze discover the cold, hard truth about EVs
  - [https://www.theregister.com/2024/01/16/tesla_owners_in_deep_freeze](https://www.theregister.com/2024/01/16/tesla_owners_in_deep_freeze)

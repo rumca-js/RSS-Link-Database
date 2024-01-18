@@ -752,7 +752,7 @@
  - [https://www.youtube.com/watch?v=aMcjxSThD54](https://www.youtube.com/watch?v=aMcjxSThD54)
  - date published: 2018-01-16T00:00:00+00:00
  - user: rumpel
- - tags: ['cathy newman', 'feminism', 'jordan peterson', 'inequality']
+ - tags: ['feminism', 'inequality', 'cathy newman', 'jordan peterson']
 
 ## Tencent, the $500bn Chinese tech firm you may never have heard of
  - [https://www.theguardian.com/business/2018/jan/13/tencent-the-500bn-chinese-tech-firm-you-may-never-have-heard-of](https://www.theguardian.com/business/2018/jan/13/tencent-the-500bn-chinese-tech-firm-you-may-never-have-heard-of)
