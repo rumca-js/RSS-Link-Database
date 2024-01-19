@@ -1,3 +1,9 @@
+## Remote Work Doesn't Seem to Affect Productivity, Fed Study Finds
+ - [https://www.bloomberg.com/news/articles/2024-01-16/remote-work-doesn-t-seem-to-affect-productivity-fed-study-finds](https://www.bloomberg.com/news/articles/2024-01-16/remote-work-doesn-t-seem-to-affect-productivity-fed-study-finds)
+ - date published: 2024-01-18T03:55:56+00:00
+ - user: rumpel
+ - tags: ['remote work']
+
 ## AI poisoning could turn open models into destructive "sleeper agents"
  - [https://arstechnica.com/information-technology/2024/01/ai-poisoning-could-turn-open-models-into-destructive-sleeper-agents-says-anthropic](https://arstechnica.com/information-technology/2024/01/ai-poisoning-could-turn-open-models-into-destructive-sleeper-agents-says-anthropic)
  - date published: 2024-01-17T14:32:34+00:00
@@ -21,6 +27,12 @@
  - date published: 2024-01-16T14:58:47+00:00
  - user: rumpel
  - tags: ['climate change', 'electric vehicles', 'tesla']
+
+## The new Ubisoft+ and getting gamers comfortable with not owning their games
+ - [https://www.gamesindustry.biz/the-new-ubisoft-and-getting-gamers-comfortable-with-not-owning-their-games](https://www.gamesindustry.biz/the-new-ubisoft-and-getting-gamers-comfortable-with-not-owning-their-games)
+ - date published: 2024-01-15T17:25:40+00:00
+ - user: rumpel
+ - tags: ['subscription', 'technofeudalism']
 
 ## AI to hit 40% of jobs and worsen inequality, IMF says
  - [https://www.bbc.co.uk/news/business-67977967](https://www.bbc.co.uk/news/business-67977967)
