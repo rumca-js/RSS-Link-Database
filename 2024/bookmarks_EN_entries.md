@@ -1,3 +1,9 @@
+## UK will 'ignore' international law to deport illegal immigrants, Sunak says
+ - [https://www.foxnews.com/world/uk-will-ignore-international-law-deport-illegal-immigrants-sunak](https://www.foxnews.com/world/uk-will-ignore-international-law-deport-illegal-immigrants-sunak)
+ - date published: 2024-01-18T16:38:27+00:00
+ - user: rumpel
+ - tags: ['immigration']
+
 ## Remote Work Doesn't Seem to Affect Productivity, Fed Study Finds
  - [https://www.bloomberg.com/news/articles/2024-01-16/remote-work-doesn-t-seem-to-affect-productivity-fed-study-finds](https://www.bloomberg.com/news/articles/2024-01-16/remote-work-doesn-t-seem-to-affect-productivity-fed-study-finds)
  - date published: 2024-01-18T03:55:56+00:00
