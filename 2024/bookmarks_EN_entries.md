@@ -1,3 +1,9 @@
+## Why are Teslas’ batteries dying in the cold?
+ - [https://www.theguardian.com/technology/2024/jan/19/tesla-battery-dying-cold-weather-charging-winter](https://www.theguardian.com/technology/2024/jan/19/tesla-battery-dying-cold-weather-charging-winter)
+ - date published: 2024-01-19T19:07:18+00:00
+ - user: rumpel
+ - tags: ['electric vehicles', 'tesla', 'climate change']
+
 ## UK will 'ignore' international law to deport illegal immigrants, Sunak says
  - [https://www.foxnews.com/world/uk-will-ignore-international-law-deport-illegal-immigrants-sunak](https://www.foxnews.com/world/uk-will-ignore-international-law-deport-illegal-immigrants-sunak)
  - date published: 2024-01-18T16:38:27+00:00
