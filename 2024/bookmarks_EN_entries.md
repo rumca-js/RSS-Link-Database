@@ -1,3 +1,21 @@
+## World Watch List 2024
+ - [https://www.opendoors.org/en-US/persecution/countries](https://www.opendoors.org/en-US/persecution/countries)
+ - date published: 2024-01-21T18:24:50+00:00
+ - user: rumpel
+ - tags: ['christioanophobia']
+
+## Simpson's paradox - Wikipedia
+ - [https://en.wikipedia.org/wiki/Simpson%27s_paradox](https://en.wikipedia.org/wiki/Simpson%27s_paradox)
+ - date published: 2024-01-21T11:41:01+00:00
+ - user: rumpel
+ - tags: ['inequality', 'statistics']
+
+## Facebook Undermines Privacy Protections for Its 2B WhatsApp Users
+ - [https://www.propublica.org/article/how-facebook-undermines-privacy-protections-for-its-2-billion-whatsapp-users](https://www.propublica.org/article/how-facebook-undermines-privacy-protections-for-its-2-billion-whatsapp-users)
+ - date published: 2024-01-20T21:36:44+00:00
+ - user: rumpel
+ - tags: ['privacy', 'facebook', 'surveillance capitalism', 'technofeudalism']
+
 ## Why are Teslas’ batteries dying in the cold?
  - [https://www.theguardian.com/technology/2024/jan/19/tesla-battery-dying-cold-weather-charging-winter](https://www.theguardian.com/technology/2024/jan/19/tesla-battery-dying-cold-weather-charging-winter)
  - date published: 2024-01-19T19:07:18+00:00

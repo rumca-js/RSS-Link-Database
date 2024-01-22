@@ -6190,11 +6190,23 @@
  - user: rumpel
  - tags: ['funny', 'programming']
 
+## European Parliament to criminalize physical cash use by imposing limit on cash transactions
+ - [https://www.newstarget.com/2023-03-31-eu-parliament-to-criminalize-physical-cash-limit-transactions.html](https://www.newstarget.com/2023-03-31-eu-parliament-to-criminalize-physical-cash-limit-transactions.html)
+ - date published: 2023-03-31T21:05:38+00:00
+ - user: rumpel
+ - tags: ['cbdc', 'digital money']
+
 ## Italian privacy regulator bans ChatGPT
  - [https://www.politico.eu/article/italian-privacy-regulator-bans-chatgpt/](https://www.politico.eu/article/italian-privacy-regulator-bans-chatgpt/)
  - date published: 2023-03-31T10:49:15+00:00
  - user: rumpel
  - tags: ['italy', 'chatgpt', 'artificial intelligence']
+
+## EU seeks cash payment limit, tougher money laundering rules – DW – 01/18/2024
+ - [https://www.dw.com/en/eu-seeks-cash-payment-limit-tougher-money-laundering-rules/a-68024075](https://www.dw.com/en/eu-seeks-cash-payment-limit-tougher-money-laundering-rules/a-68024075)
+ - date published: 2023-03-31T08:25:27+00:00
+ - user: rumpel
+ - tags: ['cbdc', 'digital money']
 
 ## Meta wants EU users to apply for permission to opt out of data collection
  - [https://arstechnica.com/tech-policy/2023/03/facebook-gets-to-decide-whether-eu-users-can-object-to-invasive-targeted-ads/](https://arstechnica.com/tech-policy/2023/03/facebook-gets-to-decide-whether-eu-users-can-object-to-invasive-targeted-ads/)
