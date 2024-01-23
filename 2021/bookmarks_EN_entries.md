@@ -2248,6 +2248,12 @@
  - user: Thomas Pain
  - tags: []
 
+## NIH Documents Provide New Evidence U.S. Funded Gain-of-Function Research in Wuhan
+ - [https://theintercept.com/2021/09/09/covid-origins-gain-of-function-research](https://theintercept.com/2021/09/09/covid-origins-gain-of-function-research)
+ - date published: 2021-09-10T01:03:04+00:00
+ - user: rumpel
+ - tags: ['covid', 'gain-of-function', 'wuhan']
+
 ## 20 years after 9/11: Will we ever stop taking off our shoes at airports? – Orange County Register
  - [https://www.ocregister.com/2021/09/07/20-years-after-9-11-will-we-ever-stop-taking-our-shoes-off-at-airports/](https://www.ocregister.com/2021/09/07/20-years-after-9-11-will-we-ever-stop-taking-our-shoes-off-at-airports/)
  - date published: 2021-09-09T07:10:39.486227+00:00

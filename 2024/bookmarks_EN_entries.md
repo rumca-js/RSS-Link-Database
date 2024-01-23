@@ -1,3 +1,21 @@
+## 40% of Americans use TikTok as a search engine now - here are 4 reasons why
+ - [https://www.zdnet.com/article/40-of-americans-use-tiktok-as-a-search-engine-now-here-are-4-reasons-why/#ftag=RSSbaffb68](https://www.zdnet.com/article/40-of-americans-use-tiktok-as-a-search-engine-now-here-are-4-reasons-why/#ftag=RSSbaffb68)
+ - date published: 2024-01-22T15:34:09+00:00
+ - user: rumpel
+ - tags: ['search engines']
+
+## Religious Groups Criticize Government Surveillance of “Religious Texts” Transactions
+ - [https://reclaimthenet.org/religious-groups-criticize-government-surveillance-of-religious-texts-transactions](https://reclaimthenet.org/religious-groups-criticize-government-surveillance-of-religious-texts-transactions)
+ - date published: 2024-01-22T14:04:58+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'christianophobia']
+
+## A pandemic mea culpa from Francis Collins
+ - [https://www.bostonglobe.com/2024/01/21/opinion/jeff-jacoby-francis-collins-anthony-fauci-covid](https://www.bostonglobe.com/2024/01/21/opinion/jeff-jacoby-francis-collins-anthony-fauci-covid)
+ - date published: 2024-01-21T20:03:07+00:00
+ - user: rumpel
+ - tags: ['covid', 'lockdowns']
+
 ## World Watch List 2024
  - [https://www.opendoors.org/en-US/persecution/countries](https://www.opendoors.org/en-US/persecution/countries)
  - date published: 2024-01-21T18:24:50+00:00
@@ -16,11 +34,29 @@
  - user: rumpel
  - tags: ['privacy', 'facebook', 'surveillance capitalism', 'technofeudalism']
 
+## French farmers threaten to intensify protests over taxes, regulation
+ - [https://www.france24.com/en/france/20240120-french-farmers-threaten-to-intensify-protests-as-anger-mounts](https://www.france24.com/en/france/20240120-french-farmers-threaten-to-intensify-protests-as-anger-mounts)
+ - date published: 2024-01-20T07:16:44+00:00
+ - user: rumpel
+ - tags: []
+
+## Dr. Fauci and the 'Sort of Just Appeared' Defense
+ - [https://www.wsj.com/articles/dr-fauci-and-the-sort-of-just-appeared-defense-covid-distancing-7cada692](https://www.wsj.com/articles/dr-fauci-and-the-sort-of-just-appeared-defense-covid-distancing-7cada692)
+ - date published: 2024-01-19T20:13:00+00:00
+ - user: rumpel
+ - tags: ['mandates', 'covid', 'lockdowns']
+
 ## Why are Teslas’ batteries dying in the cold?
  - [https://www.theguardian.com/technology/2024/jan/19/tesla-battery-dying-cold-weather-charging-winter](https://www.theguardian.com/technology/2024/jan/19/tesla-battery-dying-cold-weather-charging-winter)
  - date published: 2024-01-19T19:07:18+00:00
  - user: rumpel
  - tags: ['electric vehicles', 'tesla', 'climate change']
+
+## WARMINGTON: Woke-Canada sets sights on making Anne of Green Gables more diverse
+ - [https://torontosun.com/news/local-news/warmington-woke-canada-sets-sights-on-making-anne-of-green-gables-more-diverse](https://torontosun.com/news/local-news/warmington-woke-canada-sets-sights-on-making-anne-of-green-gables-more-diverse)
+ - date published: 2024-01-19T13:26:25+00:00
+ - user: rumpel
+ - tags: ['propaganda', 'diversity', 'fahrenheit 451']
 
 ## UK will 'ignore' international law to deport illegal immigrants, Sunak says
  - [https://www.foxnews.com/world/uk-will-ignore-international-law-deport-illegal-immigrants-sunak](https://www.foxnews.com/world/uk-will-ignore-international-law-deport-illegal-immigrants-sunak)
@@ -57,6 +93,12 @@
  - date published: 2024-01-16T14:58:47+00:00
  - user: rumpel
  - tags: ['climate change', 'electric vehicles', 'tesla']
+
+## FAA 'diversity' push to hire workers with 'severe intellectual' disabilities sparks concern, mockery
+ - [https://www.foxnews.com/us/faa-diversity-push-hire-workers-severe-intellectual-disabilities-sparks-concern-mockery](https://www.foxnews.com/us/faa-diversity-push-hire-workers-severe-intellectual-disabilities-sparks-concern-mockery)
+ - date published: 2024-01-16T09:00:55+00:00
+ - user: rumpel
+ - tags: ['social quotas', 'inequality', 'diversity']
 
 ## The new Ubisoft+ and getting gamers comfortable with not owning their games
  - [https://www.gamesindustry.biz/the-new-ubisoft-and-getting-gamers-comfortable-with-not-owning-their-games](https://www.gamesindustry.biz/the-new-ubisoft-and-getting-gamers-comfortable-with-not-owning-their-games)
@@ -159,6 +201,12 @@
  - date published: 2024-01-09T08:13:13+00:00
  - user: rumpel
  - tags: ['dead internet']
+
+## Introducing r1
+ - [https://www.youtube.com/watch?v=22wlLy7hKP4](https://www.youtube.com/watch?v=22wlLy7hKP4)
+ - date published: 2024-01-09T00:00:00+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
 
 ## The Perfect Webpage
  - [https://www.theverge.com/c/23998379/google-search-seo-algorithm-webpage-optimization](https://www.theverge.com/c/23998379/google-search-seo-algorithm-webpage-optimization)
