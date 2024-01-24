@@ -8410,6 +8410,12 @@
  - user: Thomas Pain
  - tags: []
 
+## Wait! What happened to RSS?!
+ - [https://thepcspy.com/read/what-happened-to-rss](https://thepcspy.com/read/what-happened-to-rss)
+ - date published: 2022-06-10T08:55:01+00:00
+ - user: rumpel
+ - tags: ['rss']
+
 ## How Jordan Peterson Canceled Himself
  - [https://www.forbes.com/sites/danidiplacido/2022/07/09/how-jordan-peterson-canceled-himself/](https://www.forbes.com/sites/danidiplacido/2022/07/09/how-jordan-peterson-canceled-himself/)
  - date published: 2022-06-09T18:12:58+00:00

@@ -64,6 +64,12 @@
  - user: rumpel
  - tags: ['immigration']
 
+## Google News Is Boosting Garbage AI-Generated Articles
+ - [https://www.404media.co/google-news-is-boosting-garbage-ai-generated-articles](https://www.404media.co/google-news-is-boosting-garbage-ai-generated-articles)
+ - date published: 2024-01-18T14:21:09+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence', 'search engines', 'google']
+
 ## Remote Work Doesn't Seem to Affect Productivity, Fed Study Finds
  - [https://www.bloomberg.com/news/articles/2024-01-16/remote-work-doesn-t-seem-to-affect-productivity-fed-study-finds](https://www.bloomberg.com/news/articles/2024-01-16/remote-work-doesn-t-seem-to-affect-productivity-fed-study-finds)
  - date published: 2024-01-18T03:55:56+00:00
