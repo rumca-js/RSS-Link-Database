@@ -1,3 +1,15 @@
+## Why are so many EV charging stations broken in California?
+ - [https://www.latimes.com/environment/story/2024-01-24/california-ev-charging-stations-broken](https://www.latimes.com/environment/story/2024-01-24/california-ev-charging-stations-broken)
+ - date published: 2024-01-24T17:18:16+00:00
+ - user: rumpel
+ - tags: ['electric vehicles', 'climate change']
+
+## EU rules have failed to cut car CO2 emissions: report
+ - [https://phys.org/news/2024-01-eu-car-co2-emissions.html](https://phys.org/news/2024-01-eu-car-co2-emissions.html)
+ - date published: 2024-01-24T14:47:22+00:00
+ - user: rumpel
+ - tags: ['electric vehicles', 'climate change']
+
 ## 40% of Americans use TikTok as a search engine now - here are 4 reasons why
  - [https://www.zdnet.com/article/40-of-americans-use-tiktok-as-a-search-engine-now-here-are-4-reasons-why/#ftag=RSSbaffb68](https://www.zdnet.com/article/40-of-americans-use-tiktok-as-a-search-engine-now-here-are-4-reasons-why/#ftag=RSSbaffb68)
  - date published: 2024-01-22T15:34:09+00:00
@@ -105,6 +117,12 @@
  - date published: 2024-01-16T09:00:55+00:00
  - user: rumpel
  - tags: ['social quotas', 'inequality', 'diversity']
+
+## Big Tech's role in enabling link fraud
+ - [https://eligrey.com/blog/link-fraud](https://eligrey.com/blog/link-fraud)
+ - date published: 2024-01-15T18:01:44+00:00
+ - user: rumpel
+ - tags: ['malvertising', 'vanity urls', 'ad business', 'link fraud']
 
 ## The new Ubisoft+ and getting gamers comfortable with not owning their games
  - [https://www.gamesindustry.biz/the-new-ubisoft-and-getting-gamers-comfortable-with-not-owning-their-games](https://www.gamesindustry.biz/the-new-ubisoft-and-getting-gamers-comfortable-with-not-owning-their-games)
