@@ -1,3 +1,21 @@
+## Why Is the Web So Monotonous? Google (2022)
+ - [https://reasonablypolymorphic.com/blog/monotonous-web/index.html](https://reasonablypolymorphic.com/blog/monotonous-web/index.html)
+ - date published: 2024-01-25T17:28:51+00:00
+ - user: rumpel
+ - tags: ['search engines']
+
+## 7 in 10 French Citizens Opposed to Solving Demographic Decline With Immigration
+ - [https://www.gulf-insider.com/7-in-10-french-citizens-opposed-to-solving-demographic-decline-with-immigration](https://www.gulf-insider.com/7-in-10-french-citizens-opposed-to-solving-demographic-decline-with-immigration)
+ - date published: 2024-01-25T07:15:24+00:00
+ - user: rumpel
+ - tags: ['immigration']
+
+## Yes, the last 10 years have been worse for free speech
+ - [https://greglukianoff.substack.com/p/yes-the-last-10-years-really-have](https://greglukianoff.substack.com/p/yes-the-last-10-years-really-have)
+ - date published: 2024-01-25T00:54:14+00:00
+ - user: rumpel
+ - tags: []
+
 ## Why are so many EV charging stations broken in California?
  - [https://www.latimes.com/environment/story/2024-01-24/california-ev-charging-stations-broken](https://www.latimes.com/environment/story/2024-01-24/california-ev-charging-stations-broken)
  - date published: 2024-01-24T17:18:16+00:00
@@ -21,6 +39,12 @@
  - date published: 2024-01-22T14:04:58+00:00
  - user: rumpel
  - tags: ['surveillance', 'christianophobia']
+
+## US And Chinese Scientists Made Plans To Engineer Coronaviruses Like SARS-CoV-2, New Documents Show
+ - [https://public.substack.com/p/us-and-chinese-scientists-made-plans](https://public.substack.com/p/us-and-chinese-scientists-made-plans)
+ - date published: 2024-01-22T00:00:00+00:00
+ - user: rumpel
+ - tags: ['covid', 'wuhan']
 
 ## A pandemic mea culpa from Francis Collins
  - [https://www.bostonglobe.com/2024/01/21/opinion/jeff-jacoby-francis-collins-anthony-fauci-covid](https://www.bostonglobe.com/2024/01/21/opinion/jeff-jacoby-francis-collins-anthony-fauci-covid)
@@ -225,6 +249,12 @@
  - date published: 2024-01-09T08:13:13+00:00
  - user: rumpel
  - tags: ['dead internet']
+
+## Alleged EasyJet bomb hoaxer is a teen chess star with a place at Cambridge who said he'd 'blow this plane up' in a Snapchat post, reports say
+ - [https://www.businessinsider.com/bomb-hoaxer-easyjet-teenage-chess-star-barred-spain-2022-7?IR=T](https://www.businessinsider.com/bomb-hoaxer-easyjet-teenage-chess-star-barred-spain-2022-7?IR=T)
+ - date published: 2024-01-09T00:00:00+00:00
+ - user: rumpel
+ - tags: ['technofeudalism', 'surveillance', 'privacy']
 
 ## Introducing r1
  - [https://www.youtube.com/watch?v=22wlLy7hKP4](https://www.youtube.com/watch?v=22wlLy7hKP4)

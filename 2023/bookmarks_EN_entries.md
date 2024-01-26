@@ -3478,6 +3478,12 @@
  - user: rumpel
  - tags: ['climate change', 'global warming']
 
+## First People Sickened By COVID-19 Were Chinese Scientists At Wuhan Institute Of Virology, Say US Government Sources
+ - [https://public.substack.com/p/first-people-sickened-by-covid-19](https://public.substack.com/p/first-people-sickened-by-covid-19)
+ - date published: 2023-06-23T17:24:25+00:00
+ - user: rumpel
+ - tags: ['covid', 'wuhan']
+
 ## Red Hat strikes a crushing blow against RHEL downstreams • The Register
  - [https://www.theregister.com/2023/06/23/red_hat_centos_move/](https://www.theregister.com/2023/06/23/red_hat_centos_move/)
  - date published: 2023-06-23T17:09:26+00:00
