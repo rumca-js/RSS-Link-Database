@@ -1,3 +1,21 @@
+## The Jig is Up: NSA Is Buying Your Browser History, Says U.S. Senator
+ - [https://gizmodo.com/nsa-buying-your-browser-history-says-u-s-senator-1851201650](https://gizmodo.com/nsa-buying-your-browser-history-says-u-s-senator-1851201650)
+ - date published: 2024-01-26T20:05:00+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'ron wyden', 'nsa', 'privacy']
+
+## Using Google Search to find software can be risky
+ - [https://krebsonsecurity.com/2024/01/using-google-search-to-find-software-can-be-risky](https://krebsonsecurity.com/2024/01/using-google-search-to-find-software-can-be-risky)
+ - date published: 2024-01-26T05:00:00+00:00
+ - user: rumpel
+ - tags: ['ad business', 'search engines', 'google search', 'malvertising']
+
+## Air pollution over Alberta oil sands up to 6,300% higher than reported
+ - [https://www.vancouverisawesome.com/highlights/alberta-tar-sands-pollution-up-to-6300-higher-than-industry-reported-finds-study-8162834](https://www.vancouverisawesome.com/highlights/alberta-tar-sands-pollution-up-to-6300-higher-than-industry-reported-finds-study-8162834)
+ - date published: 2024-01-26T00:31:13+00:00
+ - user: rumpel
+ - tags: ['climate change']
+
 ## Why Is the Web So Monotonous? Google (2022)
  - [https://reasonablypolymorphic.com/blog/monotonous-web/index.html](https://reasonablypolymorphic.com/blog/monotonous-web/index.html)
  - date published: 2024-01-25T17:28:51+00:00

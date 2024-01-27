@@ -7930,6 +7930,12 @@
  - user: rumpel
  - tags: ['surveillance', 'big brother', 'biometric']
 
+## Until further notice, think twice before using Google to download software
+ - [https://arstechnica.com/information-technology/2023/02/until-further-notice-think-twice-before-using-google-to-download-software](https://arstechnica.com/information-technology/2023/02/until-further-notice-think-twice-before-using-google-to-download-software)
+ - date published: 2023-02-03T13:29:28+00:00
+ - user: rumpel
+ - tags: ['ad business', 'malvertising']
+
 ## Exclusive Q&A John Carmack’s ‘Different Path’ to Artificial General Intelligence
  - [https://dallasinnovates.com/exclusive-qa-john-carmacks-different-path-to-artificial-general-intelligence/](https://dallasinnovates.com/exclusive-qa-john-carmacks-different-path-to-artificial-general-intelligence/)
  - date published: 2023-02-03T06:01:47+00:00
