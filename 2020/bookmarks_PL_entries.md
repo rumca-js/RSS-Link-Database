@@ -300,3 +300,9 @@
  - user: None
  - tags: ['censorship', 'covid', 'poland']
 
+## Stonogę oskarżono za ujawnienie filmu, na którym ksiądz uprawia seks. Proces trwa, bo "oskarżony choruje"
+ - [https://katowice.wyborcza.pl/katowice/7,35063,25625647,stonoge-oskarzono-za-ujawnienie-film-na-ktorym-ksiadz-uprawia.html](https://katowice.wyborcza.pl/katowice/7,35063,25625647,stonoge-oskarzono-za-ujawnienie-film-na-ktorym-ksiadz-uprawia.html)
+ - date published: 2020-01-24T07:35:12+00:00
+ - user: rumpel
+ - tags: ['homosexuality', 'church scandal']
+

@@ -4,6 +4,12 @@
  - user: rumpel
  - tags: ['technofeudalism', 'facebook', 'censorship']
 
+## Compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT
+ - [https://danluu.com/seo-spam](https://danluu.com/seo-spam)
+ - date published: 2023-12-31T02:32:22+00:00
+ - user: rumpel
+ - tags: []
+
 ## Germany: Over 7,000 Women Sexually Assaulted by Asylum Seekers Since 2015
  - [https://www.breitbart.com/europe/2023/12/30/over-7000-women-in-germany-have-been-raped-or-sexually-assaulted-by-asylum-seeking-migrants](https://www.breitbart.com/europe/2023/12/30/over-7000-women-in-germany-have-been-raped-or-sexually-assaulted-by-asylum-seeking-migrants)
  - date published: 2023-12-30T13:56:51+00:00

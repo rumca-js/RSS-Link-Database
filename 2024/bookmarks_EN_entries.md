@@ -1,3 +1,9 @@
+## Nancy Pelosi seeks FBI probe into protesters calling for a cease-fire in Gaza
+ - [https://www.nbcnews.com/politics/congress/nancy-pelosi-seeks-fbi-probe-protesters-calling-cease-fire-gaza-rcna136068](https://www.nbcnews.com/politics/congress/nancy-pelosi-seeks-fbi-probe-protesters-calling-cease-fire-gaza-rcna136068)
+ - date published: 2024-01-28T19:39:27+00:00
+ - user: rumpel
+ - tags: ['israel', 'fbi', 'palestine']
+
 ## The Jig is Up: NSA Is Buying Your Browser History, Says U.S. Senator
  - [https://gizmodo.com/nsa-buying-your-browser-history-says-u-s-senator-1851201650](https://gizmodo.com/nsa-buying-your-browser-history-says-u-s-senator-1851201650)
  - date published: 2024-01-26T20:05:00+00:00
