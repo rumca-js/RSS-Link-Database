@@ -1,3 +1,15 @@
+## French farmer protests: 800 tractors surround Paris ahead of 'siege'
+ - [https://www.telegraph.co.uk/world-news/2024/01/29/french-farmer-protests-latest-paris](https://www.telegraph.co.uk/world-news/2024/01/29/french-farmer-protests-latest-paris)
+ - date published: 2024-01-29T14:22:06+00:00
+ - user: rumpel
+ - tags: ['strike', 'france']
+
+## There's so much data even spies are struggling to find secrets
+ - [https://www.tbsnews.net/tech/theres-so-much-data-even-spies-are-struggling-find-secrets-783446](https://www.tbsnews.net/tech/theres-so-much-data-even-spies-are-struggling-find-secrets-783446)
+ - date published: 2024-01-29T10:35:00+00:00
+ - user: rumpel
+ - tags: ['technofeudalism', 'privacy', 'surveillance']
+
 ## Nancy Pelosi seeks FBI probe into protesters calling for a cease-fire in Gaza
  - [https://www.nbcnews.com/politics/congress/nancy-pelosi-seeks-fbi-probe-protesters-calling-cease-fire-gaza-rcna136068](https://www.nbcnews.com/politics/congress/nancy-pelosi-seeks-fbi-probe-protesters-calling-cease-fire-gaza-rcna136068)
  - date published: 2024-01-28T19:39:27+00:00
@@ -9,6 +21,12 @@
  - date published: 2024-01-26T20:05:00+00:00
  - user: rumpel
  - tags: ['surveillance', 'ron wyden', 'nsa', 'privacy']
+
+## Netanyahu must be removed, say top former Israeli national security officials | CNN
+ - [https://edition.cnn.com/2024/01/26/middleeast/netanyahu-letter-israel-national-security-intl/index.html](https://edition.cnn.com/2024/01/26/middleeast/netanyahu-letter-israel-national-security-intl/index.html)
+ - date published: 2024-01-26T10:00:18+00:00
+ - user: rumpel
+ - tags: ['israel', 'palestine', 'hamas']
 
 ## Using Google Search to find software can be risky
  - [https://krebsonsecurity.com/2024/01/using-google-search-to-find-software-can-be-risky](https://krebsonsecurity.com/2024/01/using-google-search-to-find-software-can-be-risky)
@@ -51,6 +69,12 @@
  - date published: 2024-01-24T14:47:22+00:00
  - user: rumpel
  - tags: ['electric vehicles', 'climate change']
+
+## David Staples: Federal Court stands up for Canada in rejecting Trudeau's freezing of bank accounts
+ - [https://edmontonjournal.com/opinion/columnists/david-staples-federal-court-stands-up-for-canada-in-rejecting-trudeaus-freezing-of-bank-accounts](https://edmontonjournal.com/opinion/columnists/david-staples-federal-court-stands-up-for-canada-in-rejecting-trudeaus-freezing-of-bank-accounts)
+ - date published: 2024-01-24T00:00:00+00:00
+ - user: rumpel
+ - tags: ['justin trudeau', 'canada', 'lockdowns', 'covid']
 
 ## 40% of Americans use TikTok as a search engine now - here are 4 reasons why
  - [https://www.zdnet.com/article/40-of-americans-use-tiktok-as-a-search-engine-now-here-are-4-reasons-why/#ftag=RSSbaffb68](https://www.zdnet.com/article/40-of-americans-use-tiktok-as-a-search-engine-now-here-are-4-reasons-why/#ftag=RSSbaffb68)

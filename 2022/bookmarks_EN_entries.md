@@ -5282,7 +5282,7 @@
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58996](https://www.codeproject.com/script/News/View.aspx?nwid=58996)
  - date published: 2022-09-26T04:00:00+00:00
  - user: None
- - tags: ['ad business', 'google']
+ - tags: ['malvertising', 'ad business', 'google']
 
 ## 50 Years Ago, Sugar Industry Quietly Paid Scientists to Point Blame at Fat
  - [https://www.npr.org/sections/thetwo-way/2016/09/13/493739074/50-years-ago-sugar-industry-quietly-paid-scientists-to-point-blame-at-fat](https://www.npr.org/sections/thetwo-way/2016/09/13/493739074/50-years-ago-sugar-industry-quietly-paid-scientists-to-point-blame-at-fat)
