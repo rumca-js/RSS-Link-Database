@@ -1,3 +1,21 @@
+## Flynn effect - Wikipedia
+ - [https://en.wikipedia.org/wiki/Flynn_effect](https://en.wikipedia.org/wiki/Flynn_effect)
+ - date published: 2024-01-30T11:22:45+00:00
+ - user: rumpel
+ - tags: ['society', 'psychology']
+
+## A passenger who caused fighter jets to flank an airliner after he privately joked about blowing up the plane was cleared and avoided a $120,000 bill
+ - [https://www.businessinsider.com/passenger-avoids-120k-bill-after-bomb-joke-scrambled-fighter-jets-2024-1?IR=T](https://www.businessinsider.com/passenger-avoids-120k-bill-after-bomb-joke-scrambled-fighter-jets-2024-1?IR=T)
+ - date published: 2024-01-30T00:00:00+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'big brother', 'privacy', 'orwell']
+
+## NSA Admits Buying American Browsing Records From Shady Markets
+ - [https://www.hackread.com/nsa-buy-american-browsing-records-shady-markets](https://www.hackread.com/nsa-buy-american-browsing-records-shady-markets)
+ - date published: 2024-01-29T17:44:43+00:00
+ - user: rumpel
+ - tags: []
+
 ## French farmer protests: 800 tractors surround Paris ahead of 'siege'
  - [https://www.telegraph.co.uk/world-news/2024/01/29/french-farmer-protests-latest-paris](https://www.telegraph.co.uk/world-news/2024/01/29/french-farmer-protests-latest-paris)
  - date published: 2024-01-29T14:22:06+00:00
@@ -15,6 +33,12 @@
  - date published: 2024-01-28T19:39:27+00:00
  - user: rumpel
  - tags: ['israel', 'fbi', 'palestine']
+
+## British AI Firm Helped Censor Activists and Journalists, Poised to Shape 2024 U.S. Elections
+ - [https://www.leefang.com/p/british-ai-firm-helped-censor-activists](https://www.leefang.com/p/british-ai-firm-helped-censor-activists)
+ - date published: 2024-01-26T21:38:51+00:00
+ - user: rumpel
+ - tags: ['surveillance', 'artificial intelligence', 'logically ai', 'censorship']
 
 ## The Jig is Up: NSA Is Buying Your Browser History, Says U.S. Senator
  - [https://gizmodo.com/nsa-buying-your-browser-history-says-u-s-senator-1851201650](https://gizmodo.com/nsa-buying-your-browser-history-says-u-s-senator-1851201650)
