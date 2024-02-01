@@ -1,3 +1,9 @@
+## Christian Vet Charged With Hate Crime For Taking a Patriotic Stand Against Satanic Statue Displayed at Iowa's Capitol
+ - [https://www.louderwithcrowder.com/cassidy-hate-crime](https://www.louderwithcrowder.com/cassidy-hate-crime)
+ - date published: 2024-01-31T17:30:09+00:00
+ - user: rumpel
+ - tags: ['christioanophobia', 'satanic temple']
+
 ## Flynn effect - Wikipedia
  - [https://en.wikipedia.org/wiki/Flynn_effect](https://en.wikipedia.org/wiki/Flynn_effect)
  - date published: 2024-01-30T11:22:45+00:00
@@ -9,6 +15,12 @@
  - date published: 2024-01-30T00:00:00+00:00
  - user: rumpel
  - tags: ['surveillance', 'big brother', 'privacy', 'orwell']
+
+## Soros, Facebook, And Omidyar Money Behind Attacks On German Farmers
+ - [https://public.substack.com/p/soros-facebook-and-omidyar-money](https://public.substack.com/p/soros-facebook-and-omidyar-money)
+ - date published: 2024-01-30T00:00:00+00:00
+ - user: rumpel
+ - tags: ['facebook', 'misinformation', 'george soros', 'disinformation']
 
 ## NSA Admits Buying American Browsing Records From Shady Markets
  - [https://www.hackread.com/nsa-buy-american-browsing-records-shady-markets](https://www.hackread.com/nsa-buy-american-browsing-records-shady-markets)
@@ -33,6 +45,24 @@
  - date published: 2024-01-28T19:39:27+00:00
  - user: rumpel
  - tags: ['israel', 'fbi', 'palestine']
+
+## #BoycottRipCurl Trends For TWO DAYS After Iconic Australian Surf Brand Boots Female Surfer For Trans-Identified Male - Reduxx
+ - [https://reduxx.info/boycottripcurl-trends-for-two-days-after-iconic-australian-surf-brand-boots-female-surfer-for-trans-identified-male](https://reduxx.info/boycottripcurl-trends-for-two-days-after-iconic-australian-surf-brand-boots-female-surfer-for-trans-identified-male)
+ - date published: 2024-01-28T17:40:33+00:00
+ - user: rumpel
+ - tags: ['the left wing', 'lgbt', 'transgender']
+
+## EU chiefs target ban on gendered phrases including iconic movie quotes
+ - [https://www.thesun.co.uk/news/25551111/eu-chiefs-ban-gendered-phrases-iconic-quotes](https://www.thesun.co.uk/news/25551111/eu-chiefs-ban-gendered-phrases-iconic-quotes)
+ - date published: 2024-01-27T22:25:20+00:00
+ - user: rumpel
+ - tags: ['social engineering', 'newspeak']
+
+## Email Reveals Why CDC Didn’t Issue Alert on COVID Vaccines and Myocarditis
+ - [https://www.gulf-insider.com/email-reveals-why-cdc-didnt-issue-alert-on-covid-vaccines-and-myocarditis](https://www.gulf-insider.com/email-reveals-why-cdc-didnt-issue-alert-on-covid-vaccines-and-myocarditis)
+ - date published: 2024-01-27T09:48:37+00:00
+ - user: rumpel
+ - tags: ['covid']
 
 ## British AI Firm Helped Censor Activists and Journalists, Poised to Shape 2024 U.S. Elections
  - [https://www.leefang.com/p/british-ai-firm-helped-censor-activists](https://www.leefang.com/p/british-ai-firm-helped-censor-activists)
