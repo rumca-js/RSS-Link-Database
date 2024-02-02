@@ -274,6 +274,12 @@
  - user: rumpel
  - tags: ['big pharma', 'vaccine', 'covid', 'biontech', 'pfizer', 'mrna']
 
+## The Astonishing Failures of Al Gore’s Arctic Prophecies
+ - [https://cornwallalliance.org/2018/08/the-astonishing-failures-of-al-gores-arctic-prophecies](https://cornwallalliance.org/2018/08/the-astonishing-failures-of-al-gores-arctic-prophecies)
+ - date published: 2018-08-15T18:17:11+00:00
+ - user: rumpel
+ - tags: ['global warning', 'climate change']
+
 ## In full: Rowan Atkinson on free speech
  - [https://www.youtube.com/watch?v=BiqDZlAZygU](https://www.youtube.com/watch?v=BiqDZlAZygU)
  - date published: 2018-08-15T00:00:00+00:00

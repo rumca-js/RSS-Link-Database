@@ -1,3 +1,9 @@
+## Protesting farmers hurl eggs and clog streets with tractors as EU summit begins | CNN
+ - [https://edition.cnn.com/2024/02/01/europe/farmers-protest-brussels-eu-summit-intl/index.html](https://edition.cnn.com/2024/02/01/europe/farmers-protest-brussels-eu-summit-intl/index.html)
+ - date published: 2024-02-01T11:26:53+00:00
+ - user: rumpel
+ - tags: ['strike']
+
 ## Christian Vet Charged With Hate Crime For Taking a Patriotic Stand Against Satanic Statue Displayed at Iowa's Capitol
  - [https://www.louderwithcrowder.com/cassidy-hate-crime](https://www.louderwithcrowder.com/cassidy-hate-crime)
  - date published: 2024-01-31T17:30:09+00:00

@@ -8356,6 +8356,12 @@
  - user: Thomas Pain
  - tags: []
 
+## The Floppotron 3.0 - Computer Hardware Orchestra
+ - [https://www.youtube.com/watch?v=kCCXRerqaJI](https://www.youtube.com/watch?v=kCCXRerqaJI)
+ - date published: 2022-06-13T00:00:00+00:00
+ - user: rumpel
+ - tags: ['hobby project', 'hardware']
+
 ## ‘What is a woman?’ exposes the lunacy of pro-trans extremism
  - [https://nypost.com/2022/06/12/what-is-a-woman-exposes-the-lunacy-of-pro-trans-extremism/](https://nypost.com/2022/06/12/what-is-a-woman-exposes-the-lunacy-of-pro-trans-extremism/)
  - date published: 2022-06-12T13:58:57+00:00
