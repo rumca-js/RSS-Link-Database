@@ -1,8 +1,26 @@
+## Over 2 percent of the US's electricity generation now goes to Bitcoin
+ - [https://arstechnica.com/science/2024/02/over-2-percent-of-the-uss-electricity-generation-now-goes-to-bitcoin](https://arstechnica.com/science/2024/02/over-2-percent-of-the-uss-electricity-generation-now-goes-to-bitcoin)
+ - date published: 2024-02-02T19:09:58+00:00
+ - user: rumpel
+ - tags: ['climate change']
+
+## Mark Zuckerberg’s Apologies: A History
+ - [https://time.com/6622135/mark-zuckerberg-apologies-history](https://time.com/6622135/mark-zuckerberg-apologies-history)
+ - date published: 2024-02-02T15:33:58+00:00
+ - user: rumpel
+ - tags: ['facebook']
+
 ## Protesting farmers hurl eggs and clog streets with tractors as EU summit begins | CNN
  - [https://edition.cnn.com/2024/02/01/europe/farmers-protest-brussels-eu-summit-intl/index.html](https://edition.cnn.com/2024/02/01/europe/farmers-protest-brussels-eu-summit-intl/index.html)
  - date published: 2024-02-01T11:26:53+00:00
  - user: rumpel
  - tags: ['strike']
+
+## Clapham attack suspect Abdul Shakoor Ezedi convicted of sex offence in 2018
+ - [https://www.bbc.com/news/uk-68167793](https://www.bbc.com/news/uk-68167793)
+ - date published: 2024-02-01T00:00:00+00:00
+ - user: rumpel
+ - tags: ['immigration']
 
 ## Christian Vet Charged With Hate Crime For Taking a Patriotic Stand Against Satanic Statue Displayed at Iowa's Capitol
  - [https://www.louderwithcrowder.com/cassidy-hate-crime](https://www.louderwithcrowder.com/cassidy-hate-crime)
