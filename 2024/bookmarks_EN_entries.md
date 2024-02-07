@@ -1,8 +1,20 @@
+## Probe reveals secret Israeli spyware that infects via ads
+ - [https://www.theregister.com/2023/09/16/insanet_spyware](https://www.theregister.com/2023/09/16/insanet_spyware)
+ - date published: 2024-02-06T10:59:29+00:00
+ - user: rumpel
+ - tags: ['israel', 'vulnerability', 'ad business', 'spyware', 'sherlock spyware']
+
 ## Over 2 percent of the US's electricity generation now goes to Bitcoin
  - [https://arstechnica.com/science/2024/02/over-2-percent-of-the-uss-electricity-generation-now-goes-to-bitcoin](https://arstechnica.com/science/2024/02/over-2-percent-of-the-uss-electricity-generation-now-goes-to-bitcoin)
  - date published: 2024-02-02T19:09:58+00:00
  - user: rumpel
  - tags: ['climate change']
+
+## 'Entire districts appear to be taken over by Arabs,' says German billionaire about his hometown of Berlin
+ - [https://rmx.news/crime/entire-districts-appear-to-be-taken-over-by-arabs-says-german-billionaire-about-his-hometown-of-berlin-2](https://rmx.news/crime/entire-districts-appear-to-be-taken-over-by-arabs-says-german-billionaire-about-his-hometown-of-berlin-2)
+ - date published: 2024-02-02T16:45:45+00:00
+ - user: rumpel
+ - tags: ['inequality', 'immigration']
 
 ## Mark Zuckerberg’s Apologies: A History
  - [https://time.com/6622135/mark-zuckerberg-apologies-history](https://time.com/6622135/mark-zuckerberg-apologies-history)
