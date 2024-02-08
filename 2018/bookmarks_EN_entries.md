@@ -406,6 +406,12 @@
  - user: rumpel
  - tags: ["don't be evil", 'google']
 
+## 15 Years Ago, the Military Tried to Record Whole Human Lives. It Ended Badly
+ - [https://www.vice.com/en/article/vbqdb8/15-years-ago-the-military-tried-to-record-whole-human-lives-it-ended-badly](https://www.vice.com/en/article/vbqdb8/15-years-ago-the-military-tried-to-record-whole-human-lives-it-ended-badly)
+ - date published: 2018-05-21T15:16:25+00:00
+ - user: rumpel
+ - tags: ['lifelog', 'surveillance', 'privacy']
+
 ## Jordan Peterson calmly dismantles feminism infront of two feminists
  - [https://www.youtube.com/watch?v=Ddzf9Mm4hdY](https://www.youtube.com/watch?v=Ddzf9Mm4hdY)
  - date published: 2018-05-17T00:00:00+00:00
@@ -687,6 +693,12 @@
  - date published: 2018-02-28T15:50:37+00:00
  - user: rumpel
  - tags: ['elon musk', 'elites', 'billionaires']
+
+## Palantir has secretly been using New Orleans to test its predictive policing technology
+ - [https://www.theverge.com/2018/2/27/17054740/palantir-predictive-policing-tool-new-orleans-nopd](https://www.theverge.com/2018/2/27/17054740/palantir-predictive-policing-tool-new-orleans-nopd)
+ - date published: 2018-02-27T20:25:25+00:00
+ - user: rumpel
+ - tags: ['palantir', 'surveillance', 'new orleans', 'privacy']
 
 ## This is what happened when Norway mandated that women make up 40% of the boardroom - MarketWatch
  - [https://www.marketwatch.com/story/this-is-what-happened-when-norway-mandated-that-women-make-up-40-of-the-boardroom-2018-02-20-1088264](https://www.marketwatch.com/story/this-is-what-happened-when-norway-mandated-that-women-make-up-40-of-the-boardroom-2018-02-20-1088264)

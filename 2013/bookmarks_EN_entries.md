@@ -70,12 +70,6 @@
  - user: rumpel
  - tags: ['big pharma', 'medical scandal', 'johnson and johnson']
 
-## YOU MAN - "BIRDCAGE"
- - [https://www.youtube.com/watch?v=PD3RCwNseqQ](https://www.youtube.com/watch?v=PD3RCwNseqQ)
- - date published: 2013-10-30T00:00:00+00:00
- - user: rumpel
- - tags: ['music']
-
 ## Norway's gender quota law has made boards more professional: state fund boss | Reuters
  - [https://www.reuters.com/article/us-nordic-investment-fund-idUSBRE98T0LM20130930](https://www.reuters.com/article/us-nordic-investment-fund-idUSBRE98T0LM20130930)
  - date published: 2013-09-30T20:58:03+00:00

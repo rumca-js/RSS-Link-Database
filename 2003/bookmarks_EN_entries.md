@@ -10,6 +10,12 @@
  - user: rumpel
  - tags: ['iraq', 'halliburton']
 
+## A Spy Machine of DARPA's Dreams
+ - [https://www.wired.com/2003/05/a-spy-machine-of-darpas-dreams](https://www.wired.com/2003/05/a-spy-machine-of-darpas-dreams)
+ - date published: 2003-05-20T16:00:00+00:00
+ - user: rumpel
+ - tags: ['lifelog', 'surveillance', 'privacy', 'darpa']
+
 ## SCO–Linux disputes - Wikipedia
  - [https://en.wikipedia.org/wiki/SCO%E2%80%93Linux_disputes](https://en.wikipedia.org/wiki/SCO%E2%80%93Linux_disputes)
  - date published: 2003-03-06T08:35:27+00:00

@@ -34,3 +34,9 @@
  - user: rumpel
  - tags: ['sco group', 'linux']
 
+## Pentagon Kills LifeLog Project
+ - [https://www.wired.com/2004/02/pentagon-kills-lifelog-project](https://www.wired.com/2004/02/pentagon-kills-lifelog-project)
+ - date published: 2004-02-04T17:00:00+00:00
+ - user: rumpel
+ - tags: ['lifelog', 'surveillance', 'privacy', 'darpa']
+

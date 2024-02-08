@@ -4480,6 +4480,12 @@
  - user: None
  - tags: ['esg']
 
+## The Military Origins of Facebook
+ - [https://unlimitedhangout.com/2021/04/investigative-reports/the-military-origins-of-facebook](https://unlimitedhangout.com/2021/04/investigative-reports/the-military-origins-of-facebook)
+ - date published: 2021-04-12T07:18:03+00:00
+ - user: rumpel
+ - tags: ['lifelog', 'surveillance', 'privacy', 'facebook', 'dustin moskovitz', 'sean parker']
+
 ## Inside BLM co-founder Patrisse Khan-Cullors' real-estate buying binge
  - [https://nypost.com/2021/04/10/inside-blm-co-founder-patrisse-khan-cullors-real-estate-buying-binge/](https://nypost.com/2021/04/10/inside-blm-co-founder-patrisse-khan-cullors-real-estate-buying-binge/)
  - date published: 2021-04-10T19:51:55+00:00
