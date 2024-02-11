@@ -4180,6 +4180,12 @@
  - user: rumpel
  - tags: ['linux', 'open source', 'flatpak']
 
+## I love electric vehicles – and was an early adopter. But increasingly I feel duped | Rowan Atkinson
+ - [https://www.theguardian.com/commentisfree/2023/jun/03/electric-vehicles-early-adopter-petrol-car-ev-environment-rowan-atkinson](https://www.theguardian.com/commentisfree/2023/jun/03/electric-vehicles-early-adopter-petrol-car-ev-environment-rowan-atkinson)
+ - date published: 2023-06-03T07:00:24+00:00
+ - user: rumpel
+ - tags: ['electric vehicles']
+
 ## Tomb Raider
  - [https://www.filfre.net/2023/06/tomb-raider/](https://www.filfre.net/2023/06/tomb-raider/)
  - date published: 2023-06-03T00:15:14+00:00
