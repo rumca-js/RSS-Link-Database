@@ -4184,7 +4184,7 @@
  - [https://www.theguardian.com/commentisfree/2023/jun/03/electric-vehicles-early-adopter-petrol-car-ev-environment-rowan-atkinson](https://www.theguardian.com/commentisfree/2023/jun/03/electric-vehicles-early-adopter-petrol-car-ev-environment-rowan-atkinson)
  - date published: 2023-06-03T07:00:24+00:00
  - user: rumpel
- - tags: ['electric vehicles']
+ - tags: ['climate change', 'electric vehicles']
 
 ## Tomb Raider
  - [https://www.filfre.net/2023/06/tomb-raider/](https://www.filfre.net/2023/06/tomb-raider/)
@@ -8571,6 +8571,12 @@
  - date published: 2023-01-18T17:49:12+00:00
  - user: rumpel
  - tags: ['america', 'depopulation']
+
+## Revealed: more than 90% of rainforest carbon offsets by biggest provider are worthless, analysis shows
+ - [https://www.theguardian.com/environment/2023/jan/18/revealed-forest-carbon-offsets-biggest-provider-worthless-verra-aoe](https://www.theguardian.com/environment/2023/jan/18/revealed-forest-carbon-offsets-biggest-provider-worthless-verra-aoe)
+ - date published: 2023-01-18T14:00:43+00:00
+ - user: rumpel
+ - tags: ['climate change', 'carbon offsets']
 
 ## Everyone hates Velma the lesbian detective. Is she really an insult to Scooby-Doo fans? | Arwa Mahdawi
  - [https://www.theguardian.com/commentisfree/2023/jan/18/velma-lesbian-detective-scooby-doo-fans-hate](https://www.theguardian.com/commentisfree/2023/jan/18/velma-lesbian-detective-scooby-doo-fans-hate)
