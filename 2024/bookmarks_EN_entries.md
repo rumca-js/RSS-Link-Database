@@ -1,3 +1,9 @@
+## Russian-Linked Hackers Breach 80+ Organizations via Roundcube Flaws
+ - [https://thehackernews.com/2024/02/russian-linked-hackers-breach-80.html](https://thehackernews.com/2024/02/russian-linked-hackers-breach-80.html)
+ - date published: 2024-02-19T05:05:00+00:00
+ - user: None
+ - tags: ['security']
+
 ## Soros could control hundreds of US radio stations ‚Äì media
  - [https://www.rt.com/news/592509-george-soros-radio-stations/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/592509-george-soros-radio-stations/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
  - date published: 2024-02-15T19:57:17+00:00
