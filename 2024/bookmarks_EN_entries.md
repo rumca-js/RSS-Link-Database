@@ -1,3 +1,9 @@
+## Google Gemini is accused of being racist towards white people: Users claim the AI bot refuses to create images of Caucasian people - after asking for photos of Popes, Vikings, and country music fans
+ - [https://www.dailymail.co.uk/sciencetech/article-13108515/Google-Gemini-racist-white-people.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/sciencetech/article-13108515/Google-Gemini-racist-white-people.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - date published: 2024-02-21T12:41:08+00:00
+ - user: None
+ - tags: ['inequality', 'racism', 'social engineering']
+
 ## Russian-Linked Hackers Breach 80+ Organizations via Roundcube Flaws
  - [https://thehackernews.com/2024/02/russian-linked-hackers-breach-80.html](https://thehackernews.com/2024/02/russian-linked-hackers-breach-80.html)
  - date published: 2024-02-19T05:05:00+00:00
