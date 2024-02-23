@@ -868,6 +868,12 @@
  - user: rumpel
  - tags: ['hardware', 'computers']
 
+## Google Is WORTHLESS Now
+ - [https://www.youtube.com/watch?v=DTX7zx9F3Rs](https://www.youtube.com/watch?v=DTX7zx9F3Rs)
+ - date published: 2023-10-05T00:00:00+00:00
+ - user: rumpel
+ - tags: ['google search', 'search engines']
+
 ## Starlink carbon footprint up to 30 times size of land-based internet
  - [https://www.newscientist.com/article/2394949-starlink-carbon-footprint-up-to-30-times-size-of-land-based-internet/](https://www.newscientist.com/article/2394949-starlink-carbon-footprint-up-to-30-times-size-of-land-based-internet/)
  - date published: 2023-10-04T07:37:08+00:00
@@ -915,6 +921,12 @@
  - date published: 2023-10-02T18:28:50+00:00
  - user: rumpel
  - tags: ['biometrics', 'facial recognition']
+
+## How Google alters search queries to get at your wallet
+ - [https://www.wired.com/story/google-antitrust-lawsuit-search-results](https://www.wired.com/story/google-antitrust-lawsuit-search-results)
+ - date published: 2023-10-02T12:00:00+00:00
+ - user: rumpel
+ - tags: ['search engines']
 
 ## DOJ finally posted that “embarrassing” court doc Google wanted to hide
  - [https://arstechnica.com/tech-policy/2023/09/google-exec-said-users-get-hooked-on-search-engine-like-cigarettes-or-drugs/](https://arstechnica.com/tech-policy/2023/09/google-exec-said-users-get-hooked-on-search-engine-like-cigarettes-or-drugs/)

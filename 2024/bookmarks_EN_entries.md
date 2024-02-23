@@ -1,3 +1,15 @@
+## As Gaza Death Toll Nears 30,000, Israel’s Isolation Grows
+ - [https://www.nytimes.com/2024/02/22/world/middleeast/gaza-death-toll-israel.html](https://www.nytimes.com/2024/02/22/world/middleeast/gaza-death-toll-israel.html)
+ - date published: 2024-02-22T10:12:53+00:00
+ - user: None
+ - tags: []
+
+## Portland woman sentenced to 22 years for deadly stabbing of Radio Cab driver
+ - [https://www.kptv.com/2024/02/21/portland-woman-sentenced-22-years-deadly-stabbing-radio-cab-driver](https://www.kptv.com/2024/02/21/portland-woman-sentenced-22-years-deadly-stabbing-radio-cab-driver)
+ - date published: 2024-02-21T20:05:38+00:00
+ - user: rumpel
+ - tags: ['transgender']
+
 ## Google Gemini is accused of being racist towards white people: Users claim the AI bot refuses to create images of Caucasian people - after asking for photos of Popes, Vikings, and country music fans
  - [https://www.dailymail.co.uk/sciencetech/article-13108515/Google-Gemini-racist-white-people.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/sciencetech/article-13108515/Google-Gemini-racist-white-people.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2024-02-21T12:41:08+00:00
