@@ -4,6 +4,12 @@
  - user: None
  - tags: ['fact check', 'propaganda', 'government', 'iraq', 'disinformation', 'big brother']
 
+## Microsoft makes claim on Linux code
+ - [https://www.theregister.com/2006/11/20/microsoft_claims_linux_code](https://www.theregister.com/2006/11/20/microsoft_claims_linux_code)
+ - date published: 2006-11-20T14:09:19+00:00
+ - user: rumpel
+ - tags: ['microsoft', 'monopoly', 'linux']
+
 ## I Hate the News
  - [http://www.aaronsw.com/weblog/hatethenews](http://www.aaronsw.com/weblog/hatethenews)
  - date published: 2006-10-20T22:20:30+00:00

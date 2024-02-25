@@ -250,6 +250,12 @@
  - user: rumpel
  - tags: ['science', 'religion knowledge', 'religion', 'god']
 
+## Samsung data center fire causes outage, errors on smart TVs and phones (update: fixed)
+ - [https://www.engadget.com/2014-04-20-samsung-com-outage-sds-fire.html?guccounter=1](https://www.engadget.com/2014-04-20-samsung-com-outage-sds-fire.html?guccounter=1)
+ - date published: 2014-04-20T10:47:57+00:00
+ - user: rumpel
+ - tags: ['technofeudalism']
+
 ## Edward Snowden: US government spied on human rights workers
  - [http://www.theguardian.com/world/2014/apr/08/edwards-snowden-us-government-spied-human-rights-workers](http://www.theguardian.com/world/2014/apr/08/edwards-snowden-us-government-spied-human-rights-workers)
  - date published: 2014-04-08T15:49:00+00:00
