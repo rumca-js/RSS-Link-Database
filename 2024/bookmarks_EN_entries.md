@@ -1,3 +1,9 @@
+## ‘Woke’ Google Gemini refuses to say pedophilia is wrong after ‘diverse’ historical images debacle: ‘Individuals cannot control who they are attracted to’
+ - [https://nypost.com/2024/02/23/business/woke-google-gemini-refuses-to-say-pedophilia-is-wrong-after-diverse-historical-images-debacle-individuals-cannot-control-who-they-are-attracted-to](https://nypost.com/2024/02/23/business/woke-google-gemini-refuses-to-say-pedophilia-is-wrong-after-diverse-historical-images-debacle-individuals-cannot-control-who-they-are-attracted-to)
+ - date published: 2024-02-23T00:04:18+00:00
+ - user: rumpel
+ - tags: ['woke', 'paedophilia', 'the left wing']
+
 ## As Gaza Death Toll Nears 30,000, Israel’s Isolation Grows
  - [https://www.nytimes.com/2024/02/22/world/middleeast/gaza-death-toll-israel.html](https://www.nytimes.com/2024/02/22/world/middleeast/gaza-death-toll-israel.html)
  - date published: 2024-02-22T10:12:53+00:00
@@ -25,6 +31,12 @@
 ## Soros could control hundreds of US radio stations ‚Äì media
  - [https://www.rt.com/news/592509-george-soros-radio-stations/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/592509-george-soros-radio-stations/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
  - date published: 2024-02-15T19:57:17+00:00
+ - user: rumpel
+ - tags: []
+
+## Javier Milei’s Faith: His Catholic Roots And Love Of Judaism
+ - [https://religionunplugged.com/news/2024/2/14/argentinas-president-milei-catholicjewish-vists-israel-and-vatican](https://religionunplugged.com/news/2024/2/14/argentinas-president-milei-catholicjewish-vists-israel-and-vatican)
+ - date published: 2024-02-15T05:01:00+00:00
  - user: rumpel
  - tags: []
 
