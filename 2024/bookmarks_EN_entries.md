@@ -1,3 +1,9 @@
+## At least 15 dead in Burkina Faso church attack
+ - [https://www.bbc.co.uk/news/world-africa-68398473](https://www.bbc.co.uk/news/world-africa-68398473)
+ - date published: 2024-02-25T19:05:46+00:00
+ - user: None
+ - tags: ['christioanophobia']
+
 ## ‘Woke’ Google Gemini refuses to say pedophilia is wrong after ‘diverse’ historical images debacle: ‘Individuals cannot control who they are attracted to’
  - [https://nypost.com/2024/02/23/business/woke-google-gemini-refuses-to-say-pedophilia-is-wrong-after-diverse-historical-images-debacle-individuals-cannot-control-who-they-are-attracted-to](https://nypost.com/2024/02/23/business/woke-google-gemini-refuses-to-say-pedophilia-is-wrong-after-diverse-historical-images-debacle-individuals-cannot-control-who-they-are-attracted-to)
  - date published: 2024-02-23T00:04:18+00:00

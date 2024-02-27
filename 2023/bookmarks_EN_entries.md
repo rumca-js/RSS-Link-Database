@@ -50,7 +50,7 @@
  - [https://en.wikipedia.org/wiki/Behavioural_Insights_Team](https://en.wikipedia.org/wiki/Behavioural_Insights_Team)
  - date published: 2023-12-28T11:37:48+00:00
  - user: rumpel
- - tags: ['nudge unit', 'psyop']
+ - tags: ['psyop', 'nudge unit', 'oversight board']
 
 ## Every Single "Fat Influencer" Has Died... Most Before 40 & The Media Is Hiding It From You
  - [https://www.youtube.com/watch?v=igOfmQ8ZugQ](https://www.youtube.com/watch?v=igOfmQ8ZugQ)
@@ -3944,7 +3944,7 @@
  - [https://www.telegraph.co.uk/news/2023/06/09/covid-disinformation-unit-hourly-tech-lockdown-dissent/](https://www.telegraph.co.uk/news/2023/06/09/covid-disinformation-unit-hourly-tech-lockdown-dissent/)
  - date published: 2023-06-09T14:08:01+00:00
  - user: rumpel
- - tags: ['covid', 'government control', 'misinformation', 'counter disinformation unit', 'big brother', 'technofeudalism']
+ - tags: ['technofeudalism', 'oversight board', 'counter disinformation unit', 'government control', 'big brother', 'misinformation', 'covid']
 
 ## ‘Call Of Duty’ Removes Nickmercs Operator Skin From Shop After LGBTQ Comments
  - [https://www.forbes.com/sites/paultassi/2023/06/09/call-of-duty-removes-nickmercs-operator-skin-from-shop-after-lgbtq-comments/](https://www.forbes.com/sites/paultassi/2023/06/09/call-of-duty-removes-nickmercs-operator-skin-from-shop-after-lgbtq-comments/)
@@ -4214,7 +4214,7 @@
  - [https://www.telegraph.co.uk/news/2023/06/02/counter-disinformation-unit-government-covid-lockdown/](https://www.telegraph.co.uk/news/2023/06/02/counter-disinformation-unit-government-covid-lockdown/)
  - date published: 2023-06-02T19:51:07+00:00
  - user: rumpel
- - tags: ['covid', 'counter disinformation unit', 'england']
+ - tags: ['counter disinformation unit', 'england', 'covid', 'oversight board']
 
 ## Spain's Catholic Church Finds Church Personnel Abused Hundreds
  - [https://www.wsj.com/articles/spains-catholic-church-finds-church-personnel-abused-hundreds-3047140a](https://www.wsj.com/articles/spains-catholic-church-finds-church-personnel-abused-hundreds-3047140a)
@@ -5966,7 +5966,7 @@
  - [https://reclaimthenet.org/cdc-behavior-change-project-targeted-vaccine-critics](https://reclaimthenet.org/cdc-behavior-change-project-targeted-vaccine-critics)
  - date published: 2023-04-11T18:01:23+00:00
  - user: rumpel
- - tags: ['manufacturing consent', 'misinformation response unit', 'cdc', 'censorship', 'misinformation']
+ - tags: ['cdc', 'oversight board', 'misinformation response unit', 'misinformation', 'manufacturing consent', 'censorship']
 
 ## China's game art industry reportedly decimated by growing AI use
  - [https://www.gamedeveloper.com/art/china-s-game-art-industry-reportedly-decimated-ai-art-use](https://www.gamedeveloper.com/art/china-s-game-art-industry-reportedly-decimated-ai-art-use)
@@ -7940,7 +7940,7 @@
  - [https://reclaimthenet.org/uk-nudge-unit-psychological-manipulations-net-zero-society](https://reclaimthenet.org/uk-nudge-unit-psychological-manipulations-net-zero-society)
  - date published: 2023-02-03T17:09:01+00:00
  - user: rumpel
- - tags: ['propaganda', 'england', 'nudge unit', 'psyop']
+ - tags: ['psyop', 'nudge unit', 'oversight board', 'england', 'propaganda']
 
 ## WeChat: China’s Other Trojan Horse
  - [https://www.forbes.com/sites/arthurherman/2023/02/03/wechat-chinas-other-trojan-horse/](https://www.forbes.com/sites/arthurherman/2023/02/03/wechat-chinas-other-trojan-horse/)

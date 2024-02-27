@@ -3176,7 +3176,7 @@
  - [https://theintercept.com/2022/10/31/social-media-disinformation-dhs/](https://theintercept.com/2022/10/31/social-media-disinformation-dhs/)
  - date published: 2022-10-31T15:52:04+00:00
  - user: rumpel
- - tags: ['government control', 'dhs', 'manufacturing consent', 'department of homeland security', 'disinformation governance board']
+ - tags: ['disinformation governance board', 'oversight board', 'government control', 'department of homeland security', 'manufacturing consent', 'dhs']
 
 ## Twitter Blows Up At Professor After Demanding ‘Pandemic Amnesty’ in Atlantic Op-Ed
  - [https://www.dailywire.com/news/twitter-blows-up-at-professor-after-demanding-pandemic-amnesty-in-atlantic-op-ed](https://www.dailywire.com/news/twitter-blows-up-at-professor-after-demanding-pandemic-amnesty-in-atlantic-op-ed)
@@ -8894,13 +8894,13 @@
  - [https://www.forbes.com/sites/jillgoldenziel/2022/05/18/the-disinformation-governance-board-is-dead-heres-the-right-way-to-fight-disinformation/](https://www.forbes.com/sites/jillgoldenziel/2022/05/18/the-disinformation-governance-board-is-dead-heres-the-right-way-to-fight-disinformation/)
  - date published: 2022-05-18T19:53:26+00:00
  - user: rumpel
- - tags: ['ministry of truth', 'government control', 'disinformation governance board', 'surveillance', 'misinformation', 'big brother']
+ - tags: ['disinformation governance board', 'oversight board', 'surveillance', 'government control', 'big brother', 'misinformation', 'ministry of truth']
 
 ## Disinformation Governance Board 'paused' after just 3 weeks
  - [https://www.washingtonpost.com/technology/2022/05/18/disinformation-board-dhs-nina-jankowicz/](https://www.washingtonpost.com/technology/2022/05/18/disinformation-board-dhs-nina-jankowicz/)
  - date published: 2022-05-18T19:50:10+00:00
  - user: rumpel
- - tags: ['ministry of truth', 'surveillance', 'misinformation', 'big brother', 'disinformation governance board']
+ - tags: ['disinformation governance board', 'oversight board', 'surveillance', 'big brother', 'misinformation', 'ministry of truth']
 
 ## ESG scores similar to China's social credit system, designed to transform society, think tank director says | Fox Business
  - [https://www.foxbusiness.com/economy/esg-scores-similar-china-social-credit-system-designed-to-transform-society-think-tank-director-says](https://www.foxbusiness.com/economy/esg-scores-similar-china-social-credit-system-designed-to-transform-society-think-tank-director-says)
@@ -11510,7 +11510,7 @@
  - [https://www.telegraph.co.uk/politics/2022/01/13/downing-streets-controversial-nudge-unit-accused-exploiting/](https://www.telegraph.co.uk/politics/2022/01/13/downing-streets-controversial-nudge-unit-accused-exploiting/)
  - date published: 2022-01-13T13:07:14+00:00
  - user: rumpel
- - tags: ['covid', 'fearmongering', 'nudge unit']
+ - tags: ['fearmongering', 'nudge unit', 'covid', 'oversight board']
 
 ## Computer says no! Showgirl, mankind, whitewash and blacklist are just some of the words that don't make it past Microsoft Word's new woke filter (but don't worry, you can turn it off)
  - [https://www.dailymail.co.uk/news/article-10398999/Blacklist-postman-mankind-just-words-wont-fly-Microsofts-woke-filter.html](https://www.dailymail.co.uk/news/article-10398999/Blacklist-postman-mankind-just-words-wont-fly-Microsofts-woke-filter.html)
