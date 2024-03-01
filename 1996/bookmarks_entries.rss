@@ -1,0 +1,20 @@
+
+<?xml version="1.0" encoding="UTF-8" ?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+        xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+        xmlns:webfeeds="http://webfeeds.org/rss/1.0"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
+<channel>
+  <title>RSS archive</title>
+  <atom:link href="https://renegat0x0.ddns.net" rel="self" type="application/rss+xml" />
+  <link>https://renegat0x0.ddns.net/</link>
+  <description>Link archive</description>
+  <language>en</language>
+<item><title>![CDATA[Tomorrow, the World Wide Web!;Microsoft, the PC King, Wants to Reign Over the Internet - The New York Times]]</title><description>![CDATA[Tomorrow, the World Wide Web!;Microsoft, the PC King, Wants to Reign Over the Internet - The New York Times]]</description><pubDate>1996-07-16T20:56:25+00:00</pubDate><link>https://www.nytimes.com/1996/07/16/business/tomorrow-world-wide-web-microsoft-pc-king-wants-reign-over-internet.html</link></item><guid isPermaLink="false">https://www.nytimes.com/1996/07/16/business/tomorrow-world-wide-web-microsoft-pc-king-wants-reign-over-internet.html</guid>
+<item><title>![CDATA[Embrace, extend, and extinguish - Wikipedia]]</title><description>![CDATA[Embrace, extend, and extinguish - Wikipedia]]</description><pubDate>1996-07-16T20:52:40+00:00</pubDate><link>https://en.wikipedia.org/wiki/Embrace,_extend,_and_extinguish</link></item><guid isPermaLink="false">https://en.wikipedia.org/wiki/Embrace,_extend,_and_extinguish</guid>
+
+</channel></rss>
