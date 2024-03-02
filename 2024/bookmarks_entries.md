@@ -1,3 +1,9 @@
+## Mexico City's 21 million residents are facing a severe water shortage
+ - [https://www.nbcnews.com/science/science-news/mexico-citys-21-million-residents-are-facing-severe-water-shortage-rcna140669](https://www.nbcnews.com/science/science-news/mexico-citys-21-million-residents-are-facing-severe-water-shortage-rcna140669)
+ - date published: 2024-03-01T12:00:00+00:00
+ - user: None
+ - tags: ['sweet water']
+
 ## Israeli strike hits aid point killing more than 100 in Gaza
  - [https://www.euronews.com/2024/02/29/israel-hamas-war-prevents-aid-delivery-humanitarians-deported-ultra-orthodox-jews-eyed-for](https://www.euronews.com/2024/02/29/israel-hamas-war-prevents-aid-delivery-humanitarians-deported-ultra-orthodox-jews-eyed-for)
  - date published: 2024-02-29T00:00:00+00:00

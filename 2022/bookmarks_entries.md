@@ -11032,6 +11032,12 @@
  - user: None
  - tags: []
 
+## EXCLUSIVE U.S. warned firms about Russia's Kaspersky software day after invasion -sources
+ - [https://www.reuters.com/technology/exclusive-us-warned-firms-about-russias-kaspersky-software-day-after-invasion-2022-03-31](https://www.reuters.com/technology/exclusive-us-warned-firms-about-russias-kaspersky-software-day-after-invasion-2022-03-31)
+ - date published: 2022-03-31T00:00:00+00:00
+ - user: rumpel
+ - tags: []
+
 ## ‘Really alarming’: the rise of smart cameras used to catch maskless students in US schools | Surveillance | The Guardian
  - [https://www.theguardian.com/world/2022/mar/30/smart-cameras-us-schools-artificial-intelligence](https://www.theguardian.com/world/2022/mar/30/smart-cameras-us-schools-artificial-intelligence)
  - date published: 2022-03-30T21:58:09.319789+00:00
