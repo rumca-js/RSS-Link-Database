@@ -1,3 +1,9 @@
+## I Was a Heretic at the New York Times
+ - [https://www.theatlantic.com/ideas/archive/2024/02/tom-cotton-new-york-times/677546](https://www.theatlantic.com/ideas/archive/2024/02/tom-cotton-new-york-times/677546)
+ - date published: 2024-03-03T07:19:10+00:00
+ - user: None
+ - tags: ['manufacturing consent']
+
 ## Mexico City's 21 million residents are facing a severe water shortage
  - [https://www.nbcnews.com/science/science-news/mexico-citys-21-million-residents-are-facing-severe-water-shortage-rcna140669](https://www.nbcnews.com/science/science-news/mexico-citys-21-million-residents-are-facing-severe-water-shortage-rcna140669)
  - date published: 2024-03-01T12:00:00+00:00
