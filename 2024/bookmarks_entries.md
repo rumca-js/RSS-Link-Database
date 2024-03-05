@@ -4,6 +4,12 @@
  - user: None
  - tags: ['manufacturing consent']
 
+## X Says It Will Reduce the Visibility of Posts That Purposely Ignore a Person’s Preferred Pronouns
+ - [https://reclaimthenet.org/x-says-it-will-reduce-the-visibility-of-posts-that-purposely-ignore-a-persons-preferred-pronouns](https://reclaimthenet.org/x-says-it-will-reduce-the-visibility-of-posts-that-purposely-ignore-a-persons-preferred-pronouns)
+ - date published: 2024-03-01T19:30:36+00:00
+ - user: None
+ - tags: ['censorship', 'pronouns']
+
 ## Mexico City's 21 million residents are facing a severe water shortage
  - [https://www.nbcnews.com/science/science-news/mexico-citys-21-million-residents-are-facing-severe-water-shortage-rcna140669](https://www.nbcnews.com/science/science-news/mexico-citys-21-million-residents-are-facing-severe-water-shortage-rcna140669)
  - date published: 2024-03-01T12:00:00+00:00
@@ -147,6 +153,12 @@
  - date published: 2024-01-29T17:44:43+00:00
  - user: rumpel
  - tags: []
+
+## MGS2 Was Wrong, Actually... How AI Broke The Internet
+ - [https://www.youtube.com/watch?v=DKRujmqbcSk](https://www.youtube.com/watch?v=DKRujmqbcSk)
+ - date published: 2024-01-29T17:30:03+00:00
+ - user: None
+ - tags: ['algorithms', 'dead internet']
 
 ## French farmer protests: 800 tractors surround Paris ahead of 'siege'
  - [https://www.telegraph.co.uk/world-news/2024/01/29/french-farmer-protests-latest-paris](https://www.telegraph.co.uk/world-news/2024/01/29/french-farmer-protests-latest-paris)

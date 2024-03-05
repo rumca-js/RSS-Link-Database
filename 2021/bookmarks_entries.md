@@ -1954,6 +1954,12 @@
  - user: rumpel
  - tags: ['poland', 'hate speech', 'covid', 'propaganda']
 
+## Whistle-Blower Says Facebook ‘Chooses Profits Over Safety’ (Published 2021)
+ - [https://www.nytimes.com/2021/10/03/technology/whistle-blower-facebook-frances-haugen.html](https://www.nytimes.com/2021/10/03/technology/whistle-blower-facebook-frances-haugen.html)
+ - date published: 2021-10-03T23:55:03+00:00
+ - user: rumpel
+ - tags: ['algorithms', 'psyop', 'hate speech', 'technofeudalism']
+
 ## How Google destroyed our startup by terminating our Google Play Developer Account | by 6Ace Games | Oct, 2021 | Medium
  - [https://medium.com/@sixacegames/how-google-destroyed-our-startup-by-terminating-our-google-play-developer-account-6a8cca09ea88](https://medium.com/@sixacegames/how-google-destroyed-our-startup-by-terminating-our-google-play-developer-account-6a8cca09ea88)
  - date published: 2021-10-03T07:23:38.905114+00:00
