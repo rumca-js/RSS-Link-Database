@@ -1534,6 +1534,12 @@
  - user: None
  - tags: ['big pharma', 'corporatocracy', 'pfizer']
 
+## Now You See Me: Representation as Innovation
+ - [https://www.youtube.com/watch?v=GfMsxjWgUbI](https://www.youtube.com/watch?v=GfMsxjWgUbI)
+ - date published: 2021-10-20T00:00:00+00:00
+ - user: rumpel
+ - tags: ['racism', 'sweet baby inc', 'video game propaganda']
+
 ## mdk.fr – How APT does its fancy progress bar
  - [https://mdk.fr/blog/how-apt-does-its-fancy-progress-bar.html](https://mdk.fr/blog/how-apt-does-its-fancy-progress-bar.html)
  - date published: 2021-10-19T19:49:49+00:00
@@ -3549,6 +3555,12 @@
  - date published: 2021-07-19T07:11:14.053288+00:00
  - user: Thomas Pain
  - tags: ['surveillance', 'big tech', 'censorship']
+
+## Massive data leak reveals Israeli NSO spyware used to target activists, journalists, and political leaders
+ - [https://www.amnesty.org/en/latest/news/2021/07/the-pegasus-project-2](https://www.amnesty.org/en/latest/news/2021/07/the-pegasus-project-2)
+ - date published: 2021-07-18T23:43:55+00:00
+ - user: rumpel
+ - tags: ['technofeudalism', 'privacy', 'israel', 'surveillance']
 
 ## Revealed: leak uncovers global abuse of cyber-surveillance weapon | Surveillance | The Guardian
  - [https://www.theguardian.com/world/2021/jul/18/revealed-leak-uncovers-global-abuse-of-cyber-surveillance-weapon-nso-group-pegasus](https://www.theguardian.com/world/2021/jul/18/revealed-leak-uncovers-global-abuse-of-cyber-surveillance-weapon-nso-group-pegasus)

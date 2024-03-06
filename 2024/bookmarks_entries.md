@@ -1,3 +1,15 @@
+## Sweet Baby Inc. CEO Makes It Clear She Wants To Erase White Male Lead Characters While Employee Shows Disdain For White People
+ - [https://thatparkplace.com/sweet-baby-inc-ceo-makes-it-clear-she-wants-to-erase-white-male-lead-characters-while-employee-shows-disdain-for-white-people](https://thatparkplace.com/sweet-baby-inc-ceo-makes-it-clear-she-wants-to-erase-white-male-lead-characters-while-employee-shows-disdain-for-white-people)
+ - date published: 2024-03-04T16:15:58+00:00
+ - user: rumpel
+ - tags: ['racism']
+
+## Biden secretly dumped 320,000 ‘inadmissible’ illegal immigrants into US cities - Washington Examiner
+ - [https://www.washingtonexaminer.com/news/2900755/biden-secretly-dumped-320000-inadmissible-illegal-immigrants-us-cities](https://www.washingtonexaminer.com/news/2900755/biden-secretly-dumped-320000-inadmissible-illegal-immigrants-us-cities)
+ - date published: 2024-03-04T13:44:50+00:00
+ - user: rumpel
+ - tags: ['inequality', 'immigration']
+
 ## I Was a Heretic at the New York Times
  - [https://www.theatlantic.com/ideas/archive/2024/02/tom-cotton-new-york-times/677546](https://www.theatlantic.com/ideas/archive/2024/02/tom-cotton-new-york-times/677546)
  - date published: 2024-03-03T07:19:10+00:00
