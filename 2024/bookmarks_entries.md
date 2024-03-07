@@ -1,3 +1,15 @@
+## Spanish soldiers change gender to gain benefits intended for women
+ - [https://www.telegraph.co.uk/news/2024/03/05/spanish-soldiers-change-gender-benefits-for-women](https://www.telegraph.co.uk/news/2024/03/05/spanish-soldiers-change-gender-benefits-for-women)
+ - date published: 2024-03-05T00:00:00+00:00
+ - user: rumpel
+ - tags: ['gender']
+
+## Want money off North Face clothing? You’ll have to complete a ‘racial inclusion’ course first
+ - [https://www.telegraph.co.uk/news/2024/03/05/the-north-face-discount-racial-inclusion-course-outdoors](https://www.telegraph.co.uk/news/2024/03/05/the-north-face-discount-racial-inclusion-course-outdoors)
+ - date published: 2024-03-05T00:00:00+00:00
+ - user: rumpel
+ - tags: ['propaganda', 'racism', 'diversity']
+
 ## Sweet Baby Inc. CEO Makes It Clear She Wants To Erase White Male Lead Characters While Employee Shows Disdain For White People
  - [https://thatparkplace.com/sweet-baby-inc-ceo-makes-it-clear-she-wants-to-erase-white-male-lead-characters-while-employee-shows-disdain-for-white-people](https://thatparkplace.com/sweet-baby-inc-ceo-makes-it-clear-she-wants-to-erase-white-male-lead-characters-while-employee-shows-disdain-for-white-people)
  - date published: 2024-03-04T16:15:58+00:00
@@ -28,6 +40,12 @@
  - user: None
  - tags: ['sweet water']
 
+## Samuel Melia: Far-right activist jailed after sticker campaign
+ - [https://www.bbc.com/news/uk-england-leeds-68448867](https://www.bbc.com/news/uk-england-leeds-68448867)
+ - date published: 2024-03-01T00:00:00+00:00
+ - user: rumpel
+ - tags: ['racism']
+
 ## Israeli strike hits aid point killing more than 100 in Gaza
  - [https://www.euronews.com/2024/02/29/israel-hamas-war-prevents-aid-delivery-humanitarians-deported-ultra-orthodox-jews-eyed-for](https://www.euronews.com/2024/02/29/israel-hamas-war-prevents-aid-delivery-humanitarians-deported-ultra-orthodox-jews-eyed-for)
  - date published: 2024-02-29T00:00:00+00:00
@@ -39,6 +57,12 @@
  - date published: 2024-02-28T15:10:34+00:00
  - user: rumpel
  - tags: ['racism', 'inequality']
+
+## CCLA Urges Substantial Amendments to the Online Harms Act - CCLA
+ - [https://www.google.com/url?q=https://ccla.org/press-release/ccla-urges-substantial-amendments-to-the-online-harms-act/&sa=U&ved=2ahUKEwjX-OzL1N-EAxXhFBAIHVMDC6sQFnoECAMQAg&usg=AOvVaw1fVFEoS_G397B_qdkIz2ep](https://www.google.com/url?q=https://ccla.org/press-release/ccla-urges-substantial-amendments-to-the-online-harms-act/&sa=U&ved=2ahUKEwjX-OzL1N-EAxXhFBAIHVMDC6sQFnoECAMQAg&usg=AOvVaw1fVFEoS_G397B_qdkIz2ep)
+ - date published: 2024-02-28T14:27:29+00:00
+ - user: rumpel
+ - tags: ['hate speech', 'canada']
 
 ## At least 15 dead in Burkina Faso church attack
  - [https://www.bbc.co.uk/news/world-africa-68398473](https://www.bbc.co.uk/news/world-africa-68398473)
@@ -99,6 +123,12 @@
  - date published: 2024-02-15T05:01:00+00:00
  - user: rumpel
  - tags: []
+
+## FileZilla - Wikipedia
+ - [https://en.wikipedia.org/wiki/FileZilla#Bundled_adware_issues](https://en.wikipedia.org/wiki/FileZilla#Bundled_adware_issues)
+ - date published: 2024-02-07T00:00:00+00:00
+ - user: rumpel
+ - tags: ['ad business']
 
 ## Probe reveals secret Israeli spyware that infects via ads
  - [https://www.theregister.com/2023/09/16/insanet_spyware](https://www.theregister.com/2023/09/16/insanet_spyware)

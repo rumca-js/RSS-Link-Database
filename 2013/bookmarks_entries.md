@@ -136,6 +136,12 @@
  - user: None
  - tags: ['aaron swartz']
 
+## Sourceforge.net adds adware installers provided by Ask.com
+ - [https://malwaretips.com/threads/sourceforge-net-adds-adware-installers-provided-by-ask-com.17247](https://malwaretips.com/threads/sourceforge-net-adds-adware-installers-provided-by-ask-com.17247)
+ - date published: 2013-07-24T11:18:14+00:00
+ - user: rumpel
+ - tags: ['ad business']
+
 ## The Creepy, Long-Standing Practice of Undersea Cable Tapping - The Atlantic
  - [https://www.theatlantic.com/international/archive/2013/07/the-creepy-long-standing-practice-of-undersea-cable-tapping/277855](https://www.theatlantic.com/international/archive/2013/07/the-creepy-long-standing-practice-of-undersea-cable-tapping/277855)
  - date published: 2013-07-16T07:18:12+00:00

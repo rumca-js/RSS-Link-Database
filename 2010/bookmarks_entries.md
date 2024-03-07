@@ -88,11 +88,29 @@
  - user: rumpel
  - tags: ['data leak', 'war', 'usa', 'afganistan', 'big brother']
 
+## Blizzard Backs off Forcing Users to Post under Real Names | Digital Trends
+ - [https://www.digitaltrends.com/gaming/blizzard-backs-off-forcing-users-to-post-under-real-names](https://www.digitaltrends.com/gaming/blizzard-backs-off-forcing-users-to-post-under-real-names)
+ - date published: 2010-07-12T15:25:05+00:00
+ - user: rumpel
+ - tags: ['privacy']
+
 ## Uganda blasts kill 74; Somali Islamists claim responsibilty
  - [http://edition.cnn.com/2010/WORLD/africa/07/12/uganda.bombings/index.html?eref=edition](http://edition.cnn.com/2010/WORLD/africa/07/12/uganda.bombings/index.html?eref=edition)
  - date published: 2010-07-12T12:59:09+00:00
  - user: rumpel
  - tags: ['religion', 'islam terror']
+
+## Blizzard retreats from forcing real names in Warcraft forums
+ - [https://www.theguardian.com/technology/blog/2010/jul/12/blizzard-warcraft-real-names-retreat](https://www.theguardian.com/technology/blog/2010/jul/12/blizzard-warcraft-real-names-retreat)
+ - date published: 2010-07-12T12:52:05+00:00
+ - user: rumpel
+ - tags: []
+
+## World of Warcraft maker to end anonymous forum logins
+ - [https://www.bbc.com/news/10543100](https://www.bbc.com/news/10543100)
+ - date published: 2010-07-07T06:44:23+00:00
+ - user: rumpel
+ - tags: ['privacy']
 
 ## Nestlé drives rainforest destruction pushing orangutans to brink of extinction - Greenpeace USA
  - [https://www.greenpeace.org/usa/news/nestle-drives-rainforest-destr](https://www.greenpeace.org/usa/news/nestle-drives-rainforest-destr)
