@@ -64,11 +64,23 @@
  - user: rumpel
  - tags: ['hate speech', 'canada']
 
+## Cat killer sentenced to life for Oxford murder as part of sexual fantasy
+ - [https://www.theguardian.com/uk-news/2024/feb/26/cat-killer-sentenced-to-life-for-oxford-as-part-of-sexual-fantasy](https://www.theguardian.com/uk-news/2024/feb/26/cat-killer-sentenced-to-life-for-oxford-as-part-of-sexual-fantasy)
+ - date published: 2024-02-26T16:41:26+00:00
+ - user: rumpel
+ - tags: ['gender', 'transgender']
+
 ## At least 15 dead in Burkina Faso church attack
  - [https://www.bbc.co.uk/news/world-africa-68398473](https://www.bbc.co.uk/news/world-africa-68398473)
  - date published: 2024-02-25T19:05:46+00:00
  - user: None
  - tags: ['christioanophobia']
+
+## Vending machine error reveals secret face image database of college students
+ - [https://arstechnica.com/tech-policy/2024/02/vending-machine-error-reveals-secret-face-image-database-of-college-students](https://arstechnica.com/tech-policy/2024/02/vending-machine-error-reveals-secret-face-image-database-of-college-students)
+ - date published: 2024-02-23T22:02:30+00:00
+ - user: rumpel
+ - tags: ['privacy']
 
 ## ‘Woke’ Google Gemini refuses to say pedophilia is wrong after ‘diverse’ historical images debacle: ‘Individuals cannot control who they are attracted to’
  - [https://nypost.com/2024/02/23/business/woke-google-gemini-refuses-to-say-pedophilia-is-wrong-after-diverse-historical-images-debacle-individuals-cannot-control-who-they-are-attracted-to](https://nypost.com/2024/02/23/business/woke-google-gemini-refuses-to-say-pedophilia-is-wrong-after-diverse-historical-images-debacle-individuals-cannot-control-who-they-are-attracted-to)
