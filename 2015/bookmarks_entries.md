@@ -364,3 +364,9 @@
  - user: rumpel
  - tags: ['jeffrey epstein', 'prince andrew', 'virginia roberts']
 
+## From Mathematics to Generic Programming
+ - [https://fm2gp.com](https://fm2gp.com)
+ - date published: 2015-01-01T00:00:00+00:00
+ - user: rumpel
+ - tags: ['book']
+

@@ -712,3 +712,9 @@
  - user: rumpel
  - tags: ['science', 'family']
 
+## Abseil open-source foundational code
+ - [https://abseil.io](https://abseil.io)
+ - date published: 2017-01-01T00:00:00+00:00
+ - user: rumpel
+ - tags: ['c++']
+

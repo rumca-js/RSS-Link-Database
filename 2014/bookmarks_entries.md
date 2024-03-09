@@ -1,3 +1,9 @@
+## From Mathematics to Generic Programming
+ - [https://fm2gp.com](https://fm2gp.com)
+ - date published: 2015-01-01T00:00:00+00:00
+ - user: rumpel
+ - tags: ['book']
+
 ## Hacker fakes German minister's fingerprints using photos of her hands | Hacking | The Guardian
  - [https://www.theguardian.com/technology/2014/dec/30/hacker-fakes-german-ministers-fingerprints-using-photos-of-her-hands](https://www.theguardian.com/technology/2014/dec/30/hacker-fakes-german-ministers-fingerprints-using-photos-of-her-hands)
  - date published: 2014-12-30T15:08:38+00:00

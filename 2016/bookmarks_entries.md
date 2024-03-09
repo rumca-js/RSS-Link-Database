@@ -1,3 +1,9 @@
+## Abseil open-source foundational code
+ - [https://abseil.io](https://abseil.io)
+ - date published: 2017-01-01T00:00:00+00:00
+ - user: rumpel
+ - tags: ['c++']
+
 ## Using Lots of Social Media Accounts Causes Anxiety
  - [https://www.techexplorist.com/using-lots-social-media-accounts-causes-anxiety/4451](https://www.techexplorist.com/using-lots-social-media-accounts-causes-anxiety/4451)
  - date published: 2016-12-20T12:04:50+00:00
