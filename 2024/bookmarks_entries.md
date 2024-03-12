@@ -1,3 +1,27 @@
+## Are We Watching the Internet Die?
+ - [https://www.wheresyoured.at/are-we-watching-the-internet-die](https://www.wheresyoured.at/are-we-watching-the-internet-die)
+ - date published: 2024-03-11T17:19:54+00:00
+ - user: None
+ - tags: ['artificial intelligence']
+
+## As Use of A.I. Soars, So Does the Energy and Water It Requires
+ - [https://e360.yale.edu/features/artificial-intelligence-climate-energy-emissions](https://e360.yale.edu/features/artificial-intelligence-climate-energy-emissions)
+ - date published: 2024-03-11T03:02:55+00:00
+ - user: None
+ - tags: ['climate change']
+
+## Microplastics linked to heart attack, stroke and death
+ - [https://www.scientificamerican.com/article/microplastics-linked-to-heart-attack-stroke-and-death](https://www.scientificamerican.com/article/microplastics-linked-to-heart-attack-stroke-and-death)
+ - date published: 2024-03-11T01:54:54+00:00
+ - user: None
+ - tags: ['pollution']
+
+## Global Population Crash Isn't Sci-Fi Anymore
+ - [https://www.bloomberg.com/opinion/articles/2024-03-10/global-population-collapse-isn-t-sci-fi-anymore-niall-ferguson](https://www.bloomberg.com/opinion/articles/2024-03-10/global-population-collapse-isn-t-sci-fi-anymore-niall-ferguson)
+ - date published: 2024-03-11T00:07:35+00:00
+ - user: None
+ - tags: ['depopulation', 'population crash']
+
 ## Spanish soldiers change gender to gain benefits intended for women
  - [https://www.telegraph.co.uk/news/2024/03/05/spanish-soldiers-change-gender-benefits-for-women](https://www.telegraph.co.uk/news/2024/03/05/spanish-soldiers-change-gender-benefits-for-women)
  - date published: 2024-03-05T00:00:00+00:00
@@ -106,6 +130,12 @@
  - user: None
  - tags: ['social engineering', 'racism', 'inequality']
 
+## The Shirky Principle: Institutions Try to Preserve the Problem to Which They Are the Solution – Effectiviology
+ - [https://effectiviology.com/shirky-principle](https://effectiviology.com/shirky-principle)
+ - date published: 2024-02-20T10:38:14+00:00
+ - user: rumpel
+ - tags: ['shirky principle', 'inequality']
+
 ## Chiński szpieg w odkurzaczu. Informacje z popularnych gadżetów płyną do służb
  - [https://cyfrowa.rp.pl/it/art39866681-chinski-szpieg-w-odkurzaczu-informacje-z-popularnych-gadzetow-plyna-do-sluzb](https://cyfrowa.rp.pl/it/art39866681-chinski-szpieg-w-odkurzaczu-informacje-z-popularnych-gadzetow-plyna-do-sluzb)
  - date published: 2024-02-19T16:46:00+00:00
@@ -117,6 +147,12 @@
  - date published: 2024-02-19T05:05:00+00:00
  - user: None
  - tags: ['security']
+
+## Govt Funds AI Tools for Censorship — Fulcrum7
+ - [https://www.fulcrum7.com/blog/2024/2/16/govt-funds-ai-tools-for-censorship](https://www.fulcrum7.com/blog/2024/2/16/govt-funds-ai-tools-for-censorship)
+ - date published: 2024-02-16T20:31:35+00:00
+ - user: rumpel
+ - tags: ['propaganda', 'artificial intelligence']
 
 ## Rosyjska grupa atakuje polskie organizacje pozarządowe
  - [https://sekurak.pl/rosyjska-grupa-atakuje-polskie-organizacje-pozarzadowe](https://sekurak.pl/rosyjska-grupa-atakuje-polskie-organizacje-pozarzadowe)
