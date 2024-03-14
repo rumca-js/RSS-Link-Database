@@ -1,3 +1,9 @@
+## Leaked discussions reveal uncertainty about transgender care
+ - [https://www.economist.com/united-states/2024/03/05/leaked-discussions-reveal-uncertainty-about-transgender-care](https://www.economist.com/united-states/2024/03/05/leaked-discussions-reveal-uncertainty-about-transgender-care)
+ - date published: 2024-03-13T00:50:49+00:00
+ - user: None
+ - tags: ['transgender']
+
 ## Are We Watching the Internet Die?
  - [https://www.wheresyoured.at/are-we-watching-the-internet-die](https://www.wheresyoured.at/are-we-watching-the-internet-die)
  - date published: 2024-03-11T17:19:54+00:00
