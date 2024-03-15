@@ -10,6 +10,12 @@
  - user: None
  - tags: ['artificial intelligence']
 
+## Automakers Are Sharing Consumers’ Driving Behavior With Insurance Companies
+ - [https://www.nytimes.com/2024/03/11/technology/carmakers-driver-tracking-insurance.html](https://www.nytimes.com/2024/03/11/technology/carmakers-driver-tracking-insurance.html)
+ - date published: 2024-03-11T09:00:50+00:00
+ - user: None
+ - tags: ['surveillance', 'corporatocracy', 'privacy', 'electric vehicles', 'big brother']
+
 ## As Use of A.I. Soars, So Does the Energy and Water It Requires
  - [https://e360.yale.edu/features/artificial-intelligence-climate-energy-emissions](https://e360.yale.edu/features/artificial-intelligence-climate-energy-emissions)
  - date published: 2024-03-11T03:02:55+00:00
