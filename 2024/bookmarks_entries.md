@@ -1,3 +1,9 @@
+## A New Surge in Power Use Is Threatening U.S. Climate Goals
+ - [https://www.nytimes.com/interactive/2024/03/13/climate/electric-power-climate-change.html](https://www.nytimes.com/interactive/2024/03/13/climate/electric-power-climate-change.html)
+ - date published: 2024-03-15T01:01:49+00:00
+ - user: None
+ - tags: ['climate change']
+
 ## Leaked discussions reveal uncertainty about transgender care
  - [https://www.economist.com/united-states/2024/03/05/leaked-discussions-reveal-uncertainty-about-transgender-care](https://www.economist.com/united-states/2024/03/05/leaked-discussions-reveal-uncertainty-about-transgender-care)
  - date published: 2024-03-13T00:50:49+00:00
@@ -183,6 +189,12 @@
  - date published: 2024-02-15T05:01:00+00:00
  - user: rumpel
  - tags: []
+
+## How Viruses Become Weapons
+ - [https://www.youtube.com/watch?v=15MaSayc28c](https://www.youtube.com/watch?v=15MaSayc28c)
+ - date published: 2024-02-14T13:00:02+00:00
+ - user: None
+ - tags: ['cyber wars']
 
 ## FileZilla - Wikipedia
  - [https://en.wikipedia.org/wiki/FileZilla#Bundled_adware_issues](https://en.wikipedia.org/wiki/FileZilla#Bundled_adware_issues)
