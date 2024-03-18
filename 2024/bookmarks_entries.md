@@ -1,3 +1,15 @@
+## University museum: Paintings of British countryside could elicit ‘dark nationalist feelings’ | The College Fix
+ - [https://www.thecollegefix.com/university-museum-paintings-of-british-countryside-could-elicit-dark-nationalist-feelings](https://www.thecollegefix.com/university-museum-paintings-of-british-countryside-could-elicit-dark-nationalist-feelings)
+ - date published: 2024-03-17T16:18:00+00:00
+ - user: rumpel
+ - tags: ['the left wing', 'woke', 'censorship']
+
+## Planet Fitness Ends Woman’s Membership After She Complained About Man Shaving in Woman’s Locker Room — in Front of Frightened Girl.
+ - [https://thenewamerican.com/us/culture/planet-fitness-ends-womans-membership-after-she-complained-about-man-shaving-in-womans-locker-room-in-front-of-frightened-girl](https://thenewamerican.com/us/culture/planet-fitness-ends-womans-membership-after-she-complained-about-man-shaving-in-womans-locker-room-in-front-of-frightened-girl)
+ - date published: 2024-03-17T00:55:00+00:00
+ - user: rumpel
+ - tags: ['queer', 'lgbt', 'the left wing']
+
 ## A New Surge in Power Use Is Threatening U.S. Climate Goals
  - [https://www.nytimes.com/interactive/2024/03/13/climate/electric-power-climate-change.html](https://www.nytimes.com/interactive/2024/03/13/climate/electric-power-climate-change.html)
  - date published: 2024-03-15T01:01:49+00:00
