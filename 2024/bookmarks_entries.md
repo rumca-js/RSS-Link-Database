@@ -1,3 +1,15 @@
+## Insurance Up? Your car’s snitching on you.
+ - [https://www.youtube.com/watch?v=wHStcY6_isc](https://www.youtube.com/watch?v=wHStcY6_isc)
+ - date published: 2024-03-18T23:00:34+00:00
+ - user: None
+ - tags: ['surveillance', 'privacy']
+
+## SpaceX building hundreds of spy satellites for US government, report says
+ - [https://arstechnica.com/tech-policy/2024/03/spacex-building-hundreds-of-spy-satellites-for-us-government-report-says](https://arstechnica.com/tech-policy/2024/03/spacex-building-hundreds-of-spy-satellites-for-us-government-report-says)
+ - date published: 2024-03-18T16:40:20+00:00
+ - user: rumpel
+ - tags: ['surveillance']
+
 ## University museum: Paintings of British countryside could elicit ‘dark nationalist feelings’ | The College Fix
  - [https://www.thecollegefix.com/university-museum-paintings-of-british-countryside-could-elicit-dark-nationalist-feelings](https://www.thecollegefix.com/university-museum-paintings-of-british-countryside-could-elicit-dark-nationalist-feelings)
  - date published: 2024-03-17T16:18:00+00:00
@@ -129,6 +141,12 @@
  - date published: 2024-02-25T19:05:46+00:00
  - user: None
  - tags: ['christioanophobia']
+
+## How EVs became such a massive disappointment | CNN Business
+ - [https://www.cnn.com/2024/02/25/cars/what-happened-with-electric-vehicle-sales-in-2023/index.html](https://www.cnn.com/2024/02/25/cars/what-happened-with-electric-vehicle-sales-in-2023/index.html)
+ - date published: 2024-02-25T15:00:23+00:00
+ - user: rumpel
+ - tags: ['electric vehicles', 'climate change']
 
 ## Vending machine error reveals secret face image database of college students
  - [https://arstechnica.com/tech-policy/2024/02/vending-machine-error-reveals-secret-face-image-database-of-college-students](https://arstechnica.com/tech-policy/2024/02/vending-machine-error-reveals-secret-face-image-database-of-college-students)
