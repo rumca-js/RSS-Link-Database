@@ -1,3 +1,9 @@
+## In Gaza, starving children fill hospital wards as famine looms
+ - [https://www.reuters.com/default/gaza-starving-children-fill-hospital-wards-famine-looms-2024-03-19](https://www.reuters.com/default/gaza-starving-children-fill-hospital-wards-famine-looms-2024-03-19)
+ - date published: 2024-03-20T00:00:00+00:00
+ - user: rumpel
+ - tags: ['israel', 'palestine']
+
 ## Insurance Up? Your car’s snitching on you.
  - [https://www.youtube.com/watch?v=wHStcY6_isc](https://www.youtube.com/watch?v=wHStcY6_isc)
  - date published: 2024-03-18T23:00:34+00:00
