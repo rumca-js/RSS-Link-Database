@@ -4,6 +4,12 @@
  - user: rumpel
  - tags: ['israel', 'palestine']
 
+## Scotland’s new ‘thought police’ will be the death of the Edinburgh Festival
+ - [https://www.telegraph.co.uk/columnists/2024/03/21/scotland-police-hate-laws-actors-stage-crime-plays](https://www.telegraph.co.uk/columnists/2024/03/21/scotland-police-hate-laws-actors-stage-crime-plays)
+ - date published: 2024-03-20T00:00:00+00:00
+ - user: rumpel
+ - tags: ['scotland', 'hate speech and public order act', 'hate speech']
+
 ## Insurance Up? Your car’s snitching on you.
  - [https://www.youtube.com/watch?v=wHStcY6_isc](https://www.youtube.com/watch?v=wHStcY6_isc)
  - date published: 2024-03-18T23:00:34+00:00

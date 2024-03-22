@@ -8794,6 +8794,12 @@
  - user: Thomas Pain
  - tags: []
 
+## Notice the difference? #shorts
+ - [https://www.youtube.com/watch?v=Xr6k6a4CrG8](https://www.youtube.com/watch?v=Xr6k6a4CrG8)
+ - date published: 2022-07-24T00:00:00+00:00
+ - user: rumpel
+ - tags: ['racism', 'tolerance']
+
 ## Polio detected in US—in same NY county with explosive measles outbreak in 2019 [Updated] | Ars Technica
  - [https://arstechnica.com/science/2022/07/polio-detected-in-us-in-same-ny-county-with-explosive-measles-outbreak-in-2019](https://arstechnica.com/science/2022/07/polio-detected-in-us-in-same-ny-county-with-explosive-measles-outbreak-in-2019)
  - date published: 2022-07-22T20:27:17.965652+00:00

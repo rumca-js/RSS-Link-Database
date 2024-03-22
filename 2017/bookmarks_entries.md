@@ -682,6 +682,12 @@
  - user: None
  - tags: ['big brother', 'media', 'control', 'government']
 
+## BALFOUR 100
+ - [https://www.youtube.com/watch?v=tk8g9GIIiuQ](https://www.youtube.com/watch?v=tk8g9GIIiuQ)
+ - date published: 2017-02-08T00:00:00+00:00
+ - user: rumpel
+ - tags: ['balfour declaration', 'palestine', 'israel']
+
 ## Przeczywistość: Pizzagate
  - [http://przeczywistosc.pl/pizzagate](http://przeczywistosc.pl/pizzagate)
  - date published: 2017-02-01T19:51:40+00:00
