@@ -1966,6 +1966,12 @@
  - user: rumpel
  - tags: ['algorithms', 'psyop', 'hate speech', 'technofeudalism']
 
+## Professors seek to undo the ‘unearned benefits’ of ‘family privilege’ | The College Fix
+ - [https://www.thecollegefix.com/professors-seek-to-undo-the-unearned-benefits-of-family-privilege](https://www.thecollegefix.com/professors-seek-to-undo-the-unearned-benefits-of-family-privilege)
+ - date published: 2021-10-03T16:19:12+00:00
+ - user: rumpel
+ - tags: ['inequality', 'white supremacy', 'racism']
+
 ## How Google destroyed our startup by terminating our Google Play Developer Account | by 6Ace Games | Oct, 2021 | Medium
  - [https://medium.com/@sixacegames/how-google-destroyed-our-startup-by-terminating-our-google-play-developer-account-6a8cca09ea88](https://medium.com/@sixacegames/how-google-destroyed-our-startup-by-terminating-our-google-play-developer-account-6a8cca09ea88)
  - date published: 2021-10-03T07:23:38.905114+00:00
