@@ -1,3 +1,9 @@
+## Feds Ordered Google To Unmask Certain YouTube Users. Critics Say It’s ‘Terrifying.’
+ - [https://www.forbes.com/sites/thomasbrewster/2024/03/22/feds-ordered-google-to-unmask-certain-youtube-users-critics-say-its-terrifying](https://www.forbes.com/sites/thomasbrewster/2024/03/22/feds-ordered-google-to-unmask-certain-youtube-users-critics-say-its-terrifying)
+ - date published: 2024-03-22T20:55:38+00:00
+ - user: None
+ - tags: ['technofeudalism', 'tech control', 'surveillance', 'privacy']
+
 ## In Gaza, starving children fill hospital wards as famine looms
  - [https://www.reuters.com/default/gaza-starving-children-fill-hospital-wards-famine-looms-2024-03-19](https://www.reuters.com/default/gaza-starving-children-fill-hospital-wards-famine-looms-2024-03-19)
  - date published: 2024-03-20T00:00:00+00:00
