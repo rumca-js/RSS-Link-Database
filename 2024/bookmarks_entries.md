@@ -1,8 +1,20 @@
+## Cheque Your Privilege — POV Film
+ - [https://www.povfilm.org/cheque-your-privilege](https://www.povfilm.org/cheque-your-privilege)
+ - date published: 2024-03-25T07:05:16+00:00
+ - user: rumpel
+ - tags: ['racism', 'inequality']
+
 ## Feds Ordered Google To Unmask Certain YouTube Users. Critics Say It’s ‘Terrifying.’
  - [https://www.forbes.com/sites/thomasbrewster/2024/03/22/feds-ordered-google-to-unmask-certain-youtube-users-critics-say-its-terrifying](https://www.forbes.com/sites/thomasbrewster/2024/03/22/feds-ordered-google-to-unmask-certain-youtube-users-critics-say-its-terrifying)
  - date published: 2024-03-22T20:55:38+00:00
  - user: None
  - tags: ['technofeudalism', 'tech control', 'surveillance', 'privacy']
+
+## Saudi Arabia to be appointed chair of UN’s gender equality forum amid ongoing assault on women’s rights
+ - [https://www.amnesty.org/en/latest/news/2024/03/saudi-arabia-to-be-appointed-chair-uns-gender-equality-forum-amid-ongoing-assault-on-womens-rights](https://www.amnesty.org/en/latest/news/2024/03/saudi-arabia-to-be-appointed-chair-uns-gender-equality-forum-amid-ongoing-assault-on-womens-rights)
+ - date published: 2024-03-22T16:55:52+00:00
+ - user: rumpel
+ - tags: []
 
 ## In Gaza, starving children fill hospital wards as famine looms
  - [https://www.reuters.com/default/gaza-starving-children-fill-hospital-wards-famine-looms-2024-03-19](https://www.reuters.com/default/gaza-starving-children-fill-hospital-wards-famine-looms-2024-03-19)
