@@ -1,3 +1,9 @@
+## What do five red heifers have to do with the Oct. 7 massacre?
+ - [https://allisrael.com/blog/what-do-five-red-heifers-have-to-do-with-the-oct-7-massacre](https://allisrael.com/blog/what-do-five-red-heifers-have-to-do-with-the-oct-7-massacre)
+ - date published: 2024-03-26T00:00:00+00:00
+ - user: rumpel
+ - tags: ['third temple']
+
 ## Cheque Your Privilege — POV Film
  - [https://www.povfilm.org/cheque-your-privilege](https://www.povfilm.org/cheque-your-privilege)
  - date published: 2024-03-25T07:05:16+00:00
