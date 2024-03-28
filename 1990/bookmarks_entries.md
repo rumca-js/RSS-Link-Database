@@ -1,8 +1,8 @@
-## Afera FOZZ
- - [https://bb-i.blog/tag/afera-fozz](https://bb-i.blog/tag/afera-fozz)
- - date published: 1990-09-02T08:19:56+00:00
+## How Jeffrey Epstein Used the Billionaire Behind Victoria’s Secret for Wealth and Women - The New York Times
+ - [https://www.nytimes.com/2019/07/25/business/jeffrey-epstein-wexner-victorias-secret.html](https://www.nytimes.com/2019/07/25/business/jeffrey-epstein-wexner-victorias-secret.html)
+ - date published: 1990-07-28T10:27:54+00:00
  - user: rumpel
- - tags: ['all time', 'fozz', 'michał falzmann', 'scandal']
+ - tags: ['victoria secret', 'leslie wexner', 'jeffrey epstein']
 
 ## Wiadomości     Artykuły     Kultura     Nauka     Wojsko     Rekonstrukcje     Publicystyka     Recenzje     Video     Forum     Redakcja  Afera FOZZ – „matka wszystkich afer”
  - [https://historia.org.pl/2019/07/12/afera-fozz-matka-wszystkich-afer](https://historia.org.pl/2019/07/12/afera-fozz-matka-wszystkich-afer)
@@ -16,9 +16,9 @@
  - user: None
  - tags: ['all time', 'fozz', 'michał falzmann', 'scandal']
 
-## How Jeffrey Epstein Used the Billionaire Behind Victoria’s Secret for Wealth and Women - The New York Times
- - [https://www.nytimes.com/2019/07/25/business/jeffrey-epstein-wexner-victorias-secret.html](https://www.nytimes.com/2019/07/25/business/jeffrey-epstein-wexner-victorias-secret.html)
- - date published: 1990-07-28T10:27:54+00:00
+## Afera FOZZ
+ - [https://bb-i.blog/tag/afera-fozz](https://bb-i.blog/tag/afera-fozz)
+ - date published: 1990-09-02T08:19:56+00:00
  - user: rumpel
- - tags: ['victoria secret', 'leslie wexner', 'jeffrey epstein']
+ - tags: ['all time', 'fozz', 'michał falzmann', 'scandal']
 
