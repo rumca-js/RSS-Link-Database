@@ -80,7 +80,7 @@
  - [https://techcrunch.com/2019/01/29/facebook-project-atlas](https://techcrunch.com/2019/01/29/facebook-project-atlas)
  - date published: 2019-01-29T06:49:05+00:00
  - user: rumpel
- - tags: ['technofeudalism', 'vpn', 'surveillance', 'facebook', 'privacy', 'anonymity']
+ - tags: ['facebook', 'technofeudalism', 'privacy', 'surveillance', 'project atlas', 'anonymity', 'vpn']
 
 ## What We Should Learn From “Facebook Research”
  - [https://www.eff.org/deeplinks/2019/01/what-we-should-learn-facebook-research](https://www.eff.org/deeplinks/2019/01/what-we-should-learn-facebook-research)

@@ -16,6 +16,12 @@
  - user: None
  - tags: ['climate change', 'carbon footprint', 'climate science']
 
+## The 1997 merger that paved the way for the Boeing 737 Max crisis
+ - [https://qz.com/1776080/how-the-mcdonnell-douglas-boeing-merger-led-to-the-737-max-crisis](https://qz.com/1776080/how-the-mcdonnell-douglas-boeing-merger-led-to-the-737-max-crisis)
+ - date published: 2020-01-03T09:00:42+00:00
+ - user: rumpel
+ - tags: ['boeing']
+
 ## Why Stakeholder Capitalism Will Fail
  - [https://www.forbes.com/sites/stevedenning/2020/01/05/why-stakeholder-capitalism-will-fail](https://www.forbes.com/sites/stevedenning/2020/01/05/why-stakeholder-capitalism-will-fail)
  - date published: 2020-01-05T08:54:26+00:00
@@ -852,17 +858,17 @@
  - user: rumpel
  - tags: ['black lives matter', 'inequality', 'george soros']
 
-## WEF founder: Must prepare for an angrier world
- - [https://www.youtube.com/watch?v=LJTnkzl3K64](https://www.youtube.com/watch?v=LJTnkzl3K64)
- - date published: 2020-07-14T00:00:00+00:00
- - user: rumpel
- - tags: ['wef', 'klaus schwab', 'world economic forum']
-
 ## New BAFTA Gaming Standards are INSANE
  - [https://www.youtube.com/watch?v=dw9lmEp7Q6E](https://www.youtube.com/watch?v=dw9lmEp7Q6E)
  - date published: 2020-07-14T00:00:00+00:00
  - user: rumpel
  - tags: ['bafta', 'inequality', 'lgbt', 'the left wing']
+
+## WEF founder: Must prepare for an angrier world
+ - [https://www.youtube.com/watch?v=LJTnkzl3K64](https://www.youtube.com/watch?v=LJTnkzl3K64)
+ - date published: 2020-07-14T00:00:00+00:00
+ - user: rumpel
+ - tags: ['wef', 'klaus schwab', 'world economic forum']
 
 ## Google faces lawsuit over tracking in apps even when users opted out
  - [https://www.reuters.com/article/idUSKCN24F2N4](https://www.reuters.com/article/idUSKCN24F2N4)
@@ -1086,17 +1092,17 @@
  - user: rumpel
  - tags: ['black lives matter', 'terrorism', 'extremism']
 
-## The Leaked BLM School Materials Are Insane
- - [https://www.youtube.com/watch?v=jyRjbK-yKSk](https://www.youtube.com/watch?v=jyRjbK-yKSk)
- - date published: 2020-08-11T00:00:00+00:00
- - user: rumpel
- - tags: ['black lives matter', 'indoctrination', 'the left wing']
-
 ## How To Read MORE!
  - [https://www.youtube.com/watch?v=asvhBpSSDbA](https://www.youtube.com/watch?v=asvhBpSSDbA)
  - date published: 2020-08-11T00:00:00+00:00
  - user: rumpel
  - tags: ['books']
+
+## The Leaked BLM School Materials Are Insane
+ - [https://www.youtube.com/watch?v=jyRjbK-yKSk](https://www.youtube.com/watch?v=jyRjbK-yKSk)
+ - date published: 2020-08-11T00:00:00+00:00
+ - user: rumpel
+ - tags: ['black lives matter', 'indoctrination', 'the left wing']
 
 ## Why your 'Carbon Footprint' Is A Lie | Climate Town
  - [https://www.youtube.com/watch?v=1J9LOqiXdpE](https://www.youtube.com/watch?v=1J9LOqiXdpE)
@@ -1956,8 +1962,8 @@
  - user: None
  - tags: ['privacy', 'australia', 'surveillance', 'big brother', 'surveillance bill']
 
-## Science vs. Soyence
- - [https://lukesmith.xyz/articles/science-vs-soyence](https://lukesmith.xyz/articles/science-vs-soyence)
+## The Fragility of Physics
+ - [https://lukesmith.xyz/articles/the-fragility-of-physics](https://lukesmith.xyz/articles/the-fragility-of-physics)
  - date published: 2020-12-11T00:00:00+00:00
  - user: None
  - tags: []
@@ -1968,17 +1974,17 @@
  - user: None
  - tags: []
 
-## The Fragility of Physics
- - [https://lukesmith.xyz/articles/the-fragility-of-physics](https://lukesmith.xyz/articles/the-fragility-of-physics)
- - date published: 2020-12-11T00:00:00+00:00
- - user: None
- - tags: []
-
 ## Only Use Old Computers!
  - [https://lukesmith.xyz/articles/only-use-old-computers](https://lukesmith.xyz/articles/only-use-old-computers)
  - date published: 2020-12-11T00:00:00+00:00
  - user: None
  - tags: ['linux']
+
+## Science vs. Soyence
+ - [https://lukesmith.xyz/articles/science-vs-soyence](https://lukesmith.xyz/articles/science-vs-soyence)
+ - date published: 2020-12-11T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Command Line Bibles
  - [https://lukesmith.xyz/articles/command-line-bibles](https://lukesmith.xyz/articles/command-line-bibles)
