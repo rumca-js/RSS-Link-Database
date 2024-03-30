@@ -1962,8 +1962,8 @@
  - user: None
  - tags: ['privacy', 'australia', 'surveillance', 'big brother', 'surveillance bill']
 
-## The Fragility of Physics
- - [https://lukesmith.xyz/articles/the-fragility-of-physics](https://lukesmith.xyz/articles/the-fragility-of-physics)
+## Science vs. Soyence
+ - [https://lukesmith.xyz/articles/science-vs-soyence](https://lukesmith.xyz/articles/science-vs-soyence)
  - date published: 2020-12-11T00:00:00+00:00
  - user: None
  - tags: []
@@ -1974,20 +1974,20 @@
  - user: None
  - tags: []
 
+## Command Line Bibles
+ - [https://lukesmith.xyz/articles/command-line-bibles](https://lukesmith.xyz/articles/command-line-bibles)
+ - date published: 2020-12-11T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## Only Use Old Computers!
  - [https://lukesmith.xyz/articles/only-use-old-computers](https://lukesmith.xyz/articles/only-use-old-computers)
  - date published: 2020-12-11T00:00:00+00:00
  - user: None
  - tags: ['linux']
 
-## Science vs. Soyence
- - [https://lukesmith.xyz/articles/science-vs-soyence](https://lukesmith.xyz/articles/science-vs-soyence)
- - date published: 2020-12-11T00:00:00+00:00
- - user: None
- - tags: []
-
-## Command Line Bibles
- - [https://lukesmith.xyz/articles/command-line-bibles](https://lukesmith.xyz/articles/command-line-bibles)
+## The Fragility of Physics
+ - [https://lukesmith.xyz/articles/the-fragility-of-physics](https://lukesmith.xyz/articles/the-fragility-of-physics)
  - date published: 2020-12-11T00:00:00+00:00
  - user: None
  - tags: []
