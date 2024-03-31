@@ -754,17 +754,17 @@
  - user: rumpel
  - tags: ['world of warcraft']
 
-## What do five red heifers have to do with the Oct. 7 massacre?
- - [https://allisrael.com/blog/what-do-five-red-heifers-have-to-do-with-the-oct-7-massacre](https://allisrael.com/blog/what-do-five-red-heifers-have-to-do-with-the-oct-7-massacre)
- - date published: 2024-03-26T00:00:00+00:00
- - user: rumpel
- - tags: ['third temple']
-
 ## World of Warcraft
  - [https://worldofwarcraft.blizzard.com](https://worldofwarcraft.blizzard.com)
  - date published: 2024-03-26T00:00:00+00:00
  - user: rumpel
  - tags: []
+
+## What do five red heifers have to do with the Oct. 7 massacre?
+ - [https://allisrael.com/blog/what-do-five-red-heifers-have-to-do-with-the-oct-7-massacre](https://allisrael.com/blog/what-do-five-red-heifers-have-to-do-with-the-oct-7-massacre)
+ - date published: 2024-03-26T00:00:00+00:00
+ - user: rumpel
+ - tags: ['third temple']
 
 ## Facebook secretly looked at Snapchat, Amazon, and YouTube user data, documents reveal
  - [https://mashable.com/article/facebook-snapchat-data-project-ghostbusters-mark-zuckerberg](https://mashable.com/article/facebook-snapchat-data-project-ghostbusters-mark-zuckerberg)

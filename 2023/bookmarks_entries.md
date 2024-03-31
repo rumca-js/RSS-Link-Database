@@ -2608,17 +2608,17 @@
  - user: rumpel
  - tags: ['tiktok', 'europe']
 
-## Jordan Peterson about the german government (DeepFake AI)
- - [https://www.youtube.com/watch?v=ha3gfD7S0_E](https://www.youtube.com/watch?v=ha3gfD7S0_E)
- - date published: 2023-03-01T00:00:00+00:00
- - user: rumpel
- - tags: ['deepfake']
-
 ## The Media's Reaction to Woody Harrelson's SNL Monologue
  - [https://www.youtube.com/watch?v=fJRGDW4lbss](https://www.youtube.com/watch?v=fJRGDW4lbss)
  - date published: 2023-03-01T00:00:00+00:00
  - user: rumpel
  - tags: ['woody harrelson', 'covid']
+
+## Jordan Peterson about the german government (DeepFake AI)
+ - [https://www.youtube.com/watch?v=ha3gfD7S0_E](https://www.youtube.com/watch?v=ha3gfD7S0_E)
+ - date published: 2023-03-01T00:00:00+00:00
+ - user: rumpel
+ - tags: ['deepfake']
 
 ## Ford files patent to allow self-driving cars to drive away from owners who don't keep up with payments | PC Gamer
  - [https://www.pcgamer.com/ford-files-patent-to-allow-self-driving-cars-to-drive-away-from-their-owners](https://www.pcgamer.com/ford-files-patent-to-allow-self-driving-cars-to-drive-away-from-their-owners)
@@ -6438,17 +6438,17 @@
  - user: rumpel
  - tags: ['lineageos', 'raspberry pi', 'android']
 
-## Woke Trans Kids Doctor GETS CAREER ENDED In CONGRESS By BASED Psychiatrist With Scientific Evidence!
- - [https://www.youtube.com/watch?v=iJl7UywkArc](https://www.youtube.com/watch?v=iJl7UywkArc)
- - date published: 2023-06-16T00:00:00+00:00
- - user: rumpel
- - tags: ['transgender']
-
 ## Jak zrobić dobrą siekierę? Porady kowala Romka: "Ostrze wstawione równo w obuch tak jak strzelił"
  - [https://www.youtube.com/watch?v=SkKCS0pO87I](https://www.youtube.com/watch?v=SkKCS0pO87I)
  - date published: 2023-06-16T00:00:00+00:00
  - user: rumpel
  - tags: ['blacksmith', 'hobby']
+
+## Woke Trans Kids Doctor GETS CAREER ENDED In CONGRESS By BASED Psychiatrist With Scientific Evidence!
+ - [https://www.youtube.com/watch?v=iJl7UywkArc](https://www.youtube.com/watch?v=iJl7UywkArc)
+ - date published: 2023-06-16T00:00:00+00:00
+ - user: rumpel
+ - tags: ['transgender']
 
 ## Reddit is removing moderators that protest by taking their communities private
  - [https://old.reddit.com/r/ModCoord/comments/14aeq5j/new_admin_post_if_a_moderator_team_unanimously](https://old.reddit.com/r/ModCoord/comments/14aeq5j/new_admin_post_if_a_moderator_team_unanimously)
@@ -8088,17 +8088,17 @@
  - user: rumpel
  - tags: ['blackrock', 'plutocracy', 'esg', 'vanguard']
 
-## Pfizer claims no one was forced to get the Jab
- - [https://www.youtube.com/watch?v=Vm9dfzGt9FI](https://www.youtube.com/watch?v=Vm9dfzGt9FI)
- - date published: 2023-08-04T00:00:00+00:00
- - user: rumpel
- - tags: ['pfizer', 'covid mandates', 'pandemic amnesty', 'covid', 'vaccine']
-
 ## Pfizer can't explain why their Covid Vax causes myocarditis - Senate Estimates 3.8.23
  - [https://www.youtube.com/watch?v=yNSCQyPv-7U](https://www.youtube.com/watch?v=yNSCQyPv-7U)
  - date published: 2023-08-04T00:00:00+00:00
  - user: rumpel
  - tags: ['covid', 'vaccine', 'pfizer']
+
+## Pfizer claims no one was forced to get the Jab
+ - [https://www.youtube.com/watch?v=Vm9dfzGt9FI](https://www.youtube.com/watch?v=Vm9dfzGt9FI)
+ - date published: 2023-08-04T00:00:00+00:00
+ - user: rumpel
+ - tags: ['pfizer', 'covid mandates', 'pandemic amnesty', 'covid', 'vaccine']
 
 ## Remixes | AmigaRemix
  - [https://www.amigaremix.com](https://www.amigaremix.com)
