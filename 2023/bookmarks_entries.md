@@ -2608,17 +2608,17 @@
  - user: rumpel
  - tags: ['tiktok', 'europe']
 
-## The Media's Reaction to Woody Harrelson's SNL Monologue
- - [https://www.youtube.com/watch?v=fJRGDW4lbss](https://www.youtube.com/watch?v=fJRGDW4lbss)
- - date published: 2023-03-01T00:00:00+00:00
- - user: rumpel
- - tags: ['woody harrelson', 'covid']
-
 ## Jordan Peterson about the german government (DeepFake AI)
  - [https://www.youtube.com/watch?v=ha3gfD7S0_E](https://www.youtube.com/watch?v=ha3gfD7S0_E)
  - date published: 2023-03-01T00:00:00+00:00
  - user: rumpel
  - tags: ['deepfake']
+
+## The Media's Reaction to Woody Harrelson's SNL Monologue
+ - [https://www.youtube.com/watch?v=fJRGDW4lbss](https://www.youtube.com/watch?v=fJRGDW4lbss)
+ - date published: 2023-03-01T00:00:00+00:00
+ - user: rumpel
+ - tags: ['woody harrelson', 'covid']
 
 ## Ford files patent to allow self-driving cars to drive away from owners who don't keep up with payments | PC Gamer
  - [https://www.pcgamer.com/ford-files-patent-to-allow-self-driving-cars-to-drive-away-from-their-owners](https://www.pcgamer.com/ford-files-patent-to-allow-self-driving-cars-to-drive-away-from-their-owners)
@@ -6588,14 +6588,14 @@
  - user: rumpel
  - tags: ['browser extensions']
 
-## Unhook - Remove YouTube Recommended Videos - Chrome Web Store
- - [https://chrome.google.com/webstore/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid](https://chrome.google.com/webstore/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid)
+## Clickbait Remover for Youtube - Chrome Web Store
+ - [https://chrome.google.com/webstore/detail/clickbait-remover-for-you/omoinegiohhgbikclijaniebjpkeopip](https://chrome.google.com/webstore/detail/clickbait-remover-for-you/omoinegiohhgbikclijaniebjpkeopip)
  - date published: 2023-06-21T06:42:23+00:00
  - user: rumpel
  - tags: ['browser extensions']
 
-## Clickbait Remover for Youtube - Chrome Web Store
- - [https://chrome.google.com/webstore/detail/clickbait-remover-for-you/omoinegiohhgbikclijaniebjpkeopip](https://chrome.google.com/webstore/detail/clickbait-remover-for-you/omoinegiohhgbikclijaniebjpkeopip)
+## Unhook - Remove YouTube Recommended Videos - Chrome Web Store
+ - [https://chrome.google.com/webstore/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid](https://chrome.google.com/webstore/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid)
  - date published: 2023-06-21T06:42:23+00:00
  - user: rumpel
  - tags: ['browser extensions']
@@ -8088,17 +8088,17 @@
  - user: rumpel
  - tags: ['blackrock', 'plutocracy', 'esg', 'vanguard']
 
-## Pfizer can't explain why their Covid Vax causes myocarditis - Senate Estimates 3.8.23
- - [https://www.youtube.com/watch?v=yNSCQyPv-7U](https://www.youtube.com/watch?v=yNSCQyPv-7U)
- - date published: 2023-08-04T00:00:00+00:00
- - user: rumpel
- - tags: ['covid', 'vaccine', 'pfizer']
-
 ## Pfizer claims no one was forced to get the Jab
  - [https://www.youtube.com/watch?v=Vm9dfzGt9FI](https://www.youtube.com/watch?v=Vm9dfzGt9FI)
  - date published: 2023-08-04T00:00:00+00:00
  - user: rumpel
  - tags: ['pfizer', 'covid mandates', 'pandemic amnesty', 'covid', 'vaccine']
+
+## Pfizer can't explain why their Covid Vax causes myocarditis - Senate Estimates 3.8.23
+ - [https://www.youtube.com/watch?v=yNSCQyPv-7U](https://www.youtube.com/watch?v=yNSCQyPv-7U)
+ - date published: 2023-08-04T00:00:00+00:00
+ - user: rumpel
+ - tags: ['covid', 'vaccine', 'pfizer']
 
 ## Remixes | AmigaRemix
  - [https://www.amigaremix.com](https://www.amigaremix.com)
