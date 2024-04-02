@@ -1086,11 +1086,11 @@
  - user: rumpel
  - tags: ['indoctrination', 'america', 'racism', 'the left wing']
 
-## The Leaked BLM School Materials Are Insane
- - [https://www.youtube.com/watch?v=jyRjbK-yKSk](https://www.youtube.com/watch?v=jyRjbK-yKSk)
+## How To Read MORE!
+ - [https://www.youtube.com/watch?v=asvhBpSSDbA](https://www.youtube.com/watch?v=asvhBpSSDbA)
  - date published: 2020-08-11T00:00:00+00:00
  - user: rumpel
- - tags: ['black lives matter', 'indoctrination', 'the left wing']
+ - tags: ['books']
 
 ## Black Lives Matter is a Domestic Terrorist Organization | Change My Mind
  - [https://www.youtube.com/watch?v=yITK_Bm78mI](https://www.youtube.com/watch?v=yITK_Bm78mI)
@@ -1098,11 +1098,11 @@
  - user: rumpel
  - tags: ['black lives matter', 'terrorism', 'extremism']
 
-## How To Read MORE!
- - [https://www.youtube.com/watch?v=asvhBpSSDbA](https://www.youtube.com/watch?v=asvhBpSSDbA)
+## The Leaked BLM School Materials Are Insane
+ - [https://www.youtube.com/watch?v=jyRjbK-yKSk](https://www.youtube.com/watch?v=jyRjbK-yKSk)
  - date published: 2020-08-11T00:00:00+00:00
  - user: rumpel
- - tags: ['books']
+ - tags: ['black lives matter', 'indoctrination', 'the left wing']
 
 ## Why your 'Carbon Footprint' Is A Lie | Climate Town
  - [https://www.youtube.com/watch?v=1J9LOqiXdpE](https://www.youtube.com/watch?v=1J9LOqiXdpE)
@@ -1968,11 +1968,11 @@
  - user: None
  - tags: []
 
-## The Fragility of Physics
- - [https://lukesmith.xyz/articles/the-fragility-of-physics](https://lukesmith.xyz/articles/the-fragility-of-physics)
+## Only Use Old Computers!
+ - [https://lukesmith.xyz/articles/only-use-old-computers](https://lukesmith.xyz/articles/only-use-old-computers)
  - date published: 2020-12-11T00:00:00+00:00
  - user: None
- - tags: []
+ - tags: ['linux']
 
 ## Science vs. Soyence
  - [https://lukesmith.xyz/articles/science-vs-soyence](https://lukesmith.xyz/articles/science-vs-soyence)
@@ -1980,11 +1980,11 @@
  - user: None
  - tags: []
 
-## Only Use Old Computers!
- - [https://lukesmith.xyz/articles/only-use-old-computers](https://lukesmith.xyz/articles/only-use-old-computers)
+## The Fragility of Physics
+ - [https://lukesmith.xyz/articles/the-fragility-of-physics](https://lukesmith.xyz/articles/the-fragility-of-physics)
  - date published: 2020-12-11T00:00:00+00:00
  - user: None
- - tags: ['linux']
+ - tags: []
 
 ## Why I Use the GPL and Not Cuck Licenses
  - [https://lukesmith.xyz/articles/why-i-use-the-gpl-and-not-cuck-licenses](https://lukesmith.xyz/articles/why-i-use-the-gpl-and-not-cuck-licenses)
