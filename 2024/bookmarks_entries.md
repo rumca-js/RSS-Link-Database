@@ -58,17 +58,17 @@
  - user: rumpel
  - tags: ['seo', 'search engines']
 
-## Introducing r1
- - [https://www.youtube.com/watch?v=22wlLy7hKP4](https://www.youtube.com/watch?v=22wlLy7hKP4)
- - date published: 2024-01-09T00:00:00+00:00
- - user: rumpel
- - tags: ['artificial intelligence']
-
 ## Alleged EasyJet bomb hoaxer is a teen chess star with a place at Cambridge who said he'd 'blow this plane up' in a Snapchat post, reports say
  - [https://www.businessinsider.com/bomb-hoaxer-easyjet-teenage-chess-star-barred-spain-2022-7?IR=T](https://www.businessinsider.com/bomb-hoaxer-easyjet-teenage-chess-star-barred-spain-2022-7?IR=T)
  - date published: 2024-01-09T00:00:00+00:00
  - user: rumpel
  - tags: ['privacy', 'surveillance', 'technofeudalism']
+
+## Introducing r1
+ - [https://www.youtube.com/watch?v=22wlLy7hKP4](https://www.youtube.com/watch?v=22wlLy7hKP4)
+ - date published: 2024-01-09T00:00:00+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
 
 ## Where Have All the Websites Gone?
  - [https://www.fromjason.xyz/p/notebook/where-have-all-the-websites-gone](https://www.fromjason.xyz/p/notebook/where-have-all-the-websites-gone)
@@ -418,17 +418,17 @@
  - user: rumpel
  - tags: []
 
-## A passenger who caused fighter jets to flank an airliner after he privately joked about blowing up the plane was cleared and avoided a $120,000 bill
- - [https://www.businessinsider.com/passenger-avoids-120k-bill-after-bomb-joke-scrambled-fighter-jets-2024-1?IR=T](https://www.businessinsider.com/passenger-avoids-120k-bill-after-bomb-joke-scrambled-fighter-jets-2024-1?IR=T)
- - date published: 2024-01-30T00:00:00+00:00
- - user: rumpel
- - tags: ['orwell', 'privacy', 'big brother', 'surveillance']
-
 ## Soros, Facebook, And Omidyar Money Behind Attacks On German Farmers
  - [https://public.substack.com/p/soros-facebook-and-omidyar-money](https://public.substack.com/p/soros-facebook-and-omidyar-money)
  - date published: 2024-01-30T00:00:00+00:00
  - user: rumpel
  - tags: ['disinformation', 'george soros', 'misinformation', 'facebook']
+
+## A passenger who caused fighter jets to flank an airliner after he privately joked about blowing up the plane was cleared and avoided a $120,000 bill
+ - [https://www.businessinsider.com/passenger-avoids-120k-bill-after-bomb-joke-scrambled-fighter-jets-2024-1?IR=T](https://www.businessinsider.com/passenger-avoids-120k-bill-after-bomb-joke-scrambled-fighter-jets-2024-1?IR=T)
+ - date published: 2024-01-30T00:00:00+00:00
+ - user: rumpel
+ - tags: ['orwell', 'privacy', 'big brother', 'surveillance']
 
 ## Flynn effect - Wikipedia
  - [https://en.wikipedia.org/wiki/Flynn_effect](https://en.wikipedia.org/wiki/Flynn_effect)
@@ -718,17 +718,17 @@
  - user: None
  - tags: ['surveillance', 'privacy']
 
-## In Gaza, starving children fill hospital wards as famine looms
- - [https://www.reuters.com/default/gaza-starving-children-fill-hospital-wards-famine-looms-2024-03-19](https://www.reuters.com/default/gaza-starving-children-fill-hospital-wards-famine-looms-2024-03-19)
- - date published: 2024-03-20T00:00:00+00:00
- - user: rumpel
- - tags: ['israel', 'palestine']
-
 ## Scotland’s new ‘thought police’ will be the death of the Edinburgh Festival
  - [https://www.telegraph.co.uk/columnists/2024/03/21/scotland-police-hate-laws-actors-stage-crime-plays](https://www.telegraph.co.uk/columnists/2024/03/21/scotland-police-hate-laws-actors-stage-crime-plays)
  - date published: 2024-03-20T00:00:00+00:00
  - user: rumpel
  - tags: ['scotland', 'hate speech and public order act', 'hate speech']
+
+## In Gaza, starving children fill hospital wards as famine looms
+ - [https://www.reuters.com/default/gaza-starving-children-fill-hospital-wards-famine-looms-2024-03-19](https://www.reuters.com/default/gaza-starving-children-fill-hospital-wards-famine-looms-2024-03-19)
+ - date published: 2024-03-20T00:00:00+00:00
+ - user: rumpel
+ - tags: ['israel', 'palestine']
 
 ## Saudi Arabia to be appointed chair of UN’s gender equality forum amid ongoing assault on women’s rights
  - [https://www.amnesty.org/en/latest/news/2024/03/saudi-arabia-to-be-appointed-chair-uns-gender-equality-forum-amid-ongoing-assault-on-womens-rights](https://www.amnesty.org/en/latest/news/2024/03/saudi-arabia-to-be-appointed-chair-uns-gender-equality-forum-amid-ongoing-assault-on-womens-rights)
@@ -748,17 +748,17 @@
  - user: rumpel
  - tags: ['racism', 'inequality']
 
-## WoW Circle servers
- - [https://wowcircle.net/en.html](https://wowcircle.net/en.html)
- - date published: 2024-03-26T00:00:00+00:00
- - user: rumpel
- - tags: ['world of warcraft']
-
 ## What do five red heifers have to do with the Oct. 7 massacre?
  - [https://allisrael.com/blog/what-do-five-red-heifers-have-to-do-with-the-oct-7-massacre](https://allisrael.com/blog/what-do-five-red-heifers-have-to-do-with-the-oct-7-massacre)
  - date published: 2024-03-26T00:00:00+00:00
  - user: rumpel
  - tags: ['third temple']
+
+## WoW Circle servers
+ - [https://wowcircle.net/en.html](https://wowcircle.net/en.html)
+ - date published: 2024-03-26T00:00:00+00:00
+ - user: rumpel
+ - tags: ['world of warcraft']
 
 ## World of Warcraft
  - [https://worldofwarcraft.blizzard.com](https://worldofwarcraft.blizzard.com)
@@ -771,4 +771,28 @@
  - date published: 2024-03-27T12:13:01+00:00
  - user: rumpel
  - tags: ['facebook', 'technofeudalism', 'privacy', 'surveillance', 'project ghostbusters']
+
+## Afera wokół XZ. Próba zaminowania cyfrowego świata
+ - [https://www.ciemnastrona.com.pl/cyfrowy_feudalizm/2024/03/31/xz-backdoor.html](https://www.ciemnastrona.com.pl/cyfrowy_feudalizm/2024/03/31/xz-backdoor.html)
+ - date published: 2024-03-31T18:00:00+00:00
+ - user: rumpel
+ - tags: ['open source', 'vulnerability']
+
+## JK Rowling in ‘arrest me’ challenge over hate crime law
+ - [https://www.bbc.com/news/articles/c51j64lk2l8o](https://www.bbc.com/news/articles/c51j64lk2l8o)
+ - date published: 2024-04-01T13:19:41+00:00
+ - user: None
+ - tags: ['hate speech']
+
+## AT&T acknowledges data leak that hit 73 million current and former users
+ - [https://arstechnica.com/?p=2014073](https://arstechnica.com/?p=2014073)
+ - date published: 2024-04-01T19:01:02+00:00
+ - user: None
+ - tags: ['data leak']
+
+## Timeline of the xz open source attack
+ - [https://research.swtch.com/xz-timeline](https://research.swtch.com/xz-timeline)
+ - date published: 2024-04-02T03:58:00+00:00
+ - user: None
+ - tags: ['open source', 'vulnerability']
 

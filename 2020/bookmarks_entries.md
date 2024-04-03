@@ -858,17 +858,17 @@
  - user: rumpel
  - tags: ['black lives matter', 'inequality', 'george soros']
 
-## WEF founder: Must prepare for an angrier world
- - [https://www.youtube.com/watch?v=LJTnkzl3K64](https://www.youtube.com/watch?v=LJTnkzl3K64)
- - date published: 2020-07-14T00:00:00+00:00
- - user: rumpel
- - tags: ['wef', 'klaus schwab', 'world economic forum']
-
 ## New BAFTA Gaming Standards are INSANE
  - [https://www.youtube.com/watch?v=dw9lmEp7Q6E](https://www.youtube.com/watch?v=dw9lmEp7Q6E)
  - date published: 2020-07-14T00:00:00+00:00
  - user: rumpel
  - tags: ['bafta', 'inequality', 'lgbt', 'the left wing']
+
+## WEF founder: Must prepare for an angrier world
+ - [https://www.youtube.com/watch?v=LJTnkzl3K64](https://www.youtube.com/watch?v=LJTnkzl3K64)
+ - date published: 2020-07-14T00:00:00+00:00
+ - user: rumpel
+ - tags: ['wef', 'klaus schwab', 'world economic forum']
 
 ## Google faces lawsuit over tracking in apps even when users opted out
  - [https://www.reuters.com/article/idUSKCN24F2N4](https://www.reuters.com/article/idUSKCN24F2N4)
@@ -1092,17 +1092,17 @@
  - user: rumpel
  - tags: ['books']
 
-## Black Lives Matter is a Domestic Terrorist Organization | Change My Mind
- - [https://www.youtube.com/watch?v=yITK_Bm78mI](https://www.youtube.com/watch?v=yITK_Bm78mI)
- - date published: 2020-08-11T00:00:00+00:00
- - user: rumpel
- - tags: ['black lives matter', 'terrorism', 'extremism']
-
 ## The Leaked BLM School Materials Are Insane
  - [https://www.youtube.com/watch?v=jyRjbK-yKSk](https://www.youtube.com/watch?v=jyRjbK-yKSk)
  - date published: 2020-08-11T00:00:00+00:00
  - user: rumpel
  - tags: ['black lives matter', 'indoctrination', 'the left wing']
+
+## Black Lives Matter is a Domestic Terrorist Organization | Change My Mind
+ - [https://www.youtube.com/watch?v=yITK_Bm78mI](https://www.youtube.com/watch?v=yITK_Bm78mI)
+ - date published: 2020-08-11T00:00:00+00:00
+ - user: rumpel
+ - tags: ['black lives matter', 'terrorism', 'extremism']
 
 ## Why your 'Carbon Footprint' Is A Lie | Climate Town
  - [https://www.youtube.com/watch?v=1J9LOqiXdpE](https://www.youtube.com/watch?v=1J9LOqiXdpE)
@@ -1968,17 +1968,17 @@
  - user: None
  - tags: []
 
-## Only Use Old Computers!
- - [https://lukesmith.xyz/articles/only-use-old-computers](https://lukesmith.xyz/articles/only-use-old-computers)
- - date published: 2020-12-11T00:00:00+00:00
- - user: None
- - tags: ['linux']
-
 ## Science vs. Soyence
  - [https://lukesmith.xyz/articles/science-vs-soyence](https://lukesmith.xyz/articles/science-vs-soyence)
  - date published: 2020-12-11T00:00:00+00:00
  - user: None
  - tags: []
+
+## Only Use Old Computers!
+ - [https://lukesmith.xyz/articles/only-use-old-computers](https://lukesmith.xyz/articles/only-use-old-computers)
+ - date published: 2020-12-11T00:00:00+00:00
+ - user: None
+ - tags: ['linux']
 
 ## The Fragility of Physics
  - [https://lukesmith.xyz/articles/the-fragility-of-physics](https://lukesmith.xyz/articles/the-fragility-of-physics)
