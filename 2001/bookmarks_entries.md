@@ -16,6 +16,12 @@
  - user: rumpel
  - tags: ['larry silverstein', '911', 'twin towers', 'conspiracy theory']
 
+## The Conspiracy Theorist Who Predicted His Own Death | Tales From the Bottle
+ - [https://www.youtube.com/watch?v=eLyyaT2w4pc](https://www.youtube.com/watch?v=eLyyaT2w4pc)
+ - date published: 2001-10-23T00:00:00+00:00
+ - user: rumpel
+ - tags: ['bill cooper', 'conspiracy theories']
+
 ## Patriot Act - Wikipedia
  - [https://en.wikipedia.org/wiki/Patriot_Act](https://en.wikipedia.org/wiki/Patriot_Act)
  - date published: 2001-10-26T06:05:05+00:00

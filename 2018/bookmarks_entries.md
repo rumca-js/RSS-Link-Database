@@ -76,17 +76,17 @@
  - user: rumpel
  - tags: ['nestle', 'climate change', 'sweet water']
 
-## Joe Rogan Experience #1070 - Jordan Peterson
- - [https://www.youtube.com/watch?v=6T7pUEZfgdI](https://www.youtube.com/watch?v=6T7pUEZfgdI)
- - date published: 2018-01-30T00:00:00+00:00
- - user: rumpel
- - tags: ['jordan peterson']
-
 ## Özgür Baba - Dertli Dolap
  - [https://www.youtube.com/watch?v=cIMKJ43TFLs](https://www.youtube.com/watch?v=cIMKJ43TFLs)
  - date published: 2018-01-30T00:00:00+00:00
  - user: rumpel
  - tags: ['music']
+
+## Joe Rogan Experience #1070 - Jordan Peterson
+ - [https://www.youtube.com/watch?v=6T7pUEZfgdI](https://www.youtube.com/watch?v=6T7pUEZfgdI)
+ - date published: 2018-01-30T00:00:00+00:00
+ - user: rumpel
+ - tags: ['jordan peterson']
 
 ## New California Law Allows Jail Time for Using Wrong Gender Pronoun — San Diego Criminal Lawyers Blog — February 2, 2018
  - [https://www.sandiegocriminallawyersblog.com/new-california-law-allows-jail-time-using-wrong-gender-pronoun](https://www.sandiegocriminallawyersblog.com/new-california-law-allows-jail-time-using-wrong-gender-pronoun)
