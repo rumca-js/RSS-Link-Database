@@ -1968,6 +1968,12 @@
  - user: None
  - tags: []
 
+## Why I Use the GPL and Not Cuck Licenses
+ - [https://lukesmith.xyz/articles/why-i-use-the-gpl-and-not-cuck-licenses](https://lukesmith.xyz/articles/why-i-use-the-gpl-and-not-cuck-licenses)
+ - date published: 2020-12-11T00:00:00+00:00
+ - user: None
+ - tags: []
+
 ## The Fragility of Physics
  - [https://lukesmith.xyz/articles/the-fragility-of-physics](https://lukesmith.xyz/articles/the-fragility-of-physics)
  - date published: 2020-12-11T00:00:00+00:00
@@ -1985,12 +1991,6 @@
  - date published: 2020-12-11T00:00:00+00:00
  - user: None
  - tags: ['linux']
-
-## Why I Use the GPL and Not Cuck Licenses
- - [https://lukesmith.xyz/articles/why-i-use-the-gpl-and-not-cuck-licenses](https://lukesmith.xyz/articles/why-i-use-the-gpl-and-not-cuck-licenses)
- - date published: 2020-12-11T00:00:00+00:00
- - user: None
- - tags: []
 
 ## Szwecja. Zabójstwo honorowe w autobusie pełnym ludzi. Ojciec i synowie skazani - Polsat News
  - [https://www.polsatnews.pl/wiadomosc/2020-12-11/szwecja-zabojstwo-honorowe-w-autobusie-pelnym-ludzi-ojciec-i-synowie-skazani/?ref=aside_najnowsze](https://www.polsatnews.pl/wiadomosc/2020-12-11/szwecja-zabojstwo-honorowe-w-autobusie-pelnym-ludzi-ojciec-i-synowie-skazani/?ref=aside_najnowsze)
