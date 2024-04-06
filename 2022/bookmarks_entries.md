@@ -628,17 +628,17 @@
  - user: rumpel
  - tags: ['wuhan', 'manufacturing consent', 'anthony fauci', 'science is dead', 'censorship', 'covid', 'lab leak']
 
-## Comparing a $65,000 3D Printer to a $350 home 3D printer
- - [https://www.youtube.com/watch?v=bwyZjG5qxL8](https://www.youtube.com/watch?v=bwyZjG5qxL8)
- - date published: 2022-01-25T00:00:00+00:00
- - user: rumpel
- - tags: ['3d printer']
-
 ## Jordan Peterson's Realization About the Bible
  - [https://www.youtube.com/watch?v=Vt9K6kmpx44](https://www.youtube.com/watch?v=Vt9K6kmpx44)
  - date published: 2022-01-25T00:00:00+00:00
  - user: rumpel
  - tags: ['bible', 'religion', 'jordan peterson']
+
+## Comparing a $65,000 3D Printer to a $350 home 3D printer
+ - [https://www.youtube.com/watch?v=bwyZjG5qxL8](https://www.youtube.com/watch?v=bwyZjG5qxL8)
+ - date published: 2022-01-25T00:00:00+00:00
+ - user: rumpel
+ - tags: ['3d printer']
 
 ## Survey Says Developers Are Definitely Not Interested In NFTs
  - [https://kotaku.com/nft-crypto-cryptocurrency-blockchain-gdc-video-games-de-1848407959](https://kotaku.com/nft-crypto-cryptocurrency-blockchain-gdc-video-games-de-1848407959)
@@ -1096,17 +1096,17 @@
  - user: rumpel
  - tags: ['freedom convoy', 'covid', 'canada']
 
-## The Dead Internet Theory 3
- - [https://www.youtube.com/watch?v=RFb1Ctnqw0E](https://www.youtube.com/watch?v=RFb1Ctnqw0E)
- - date published: 2022-02-11T00:00:00+00:00
- - user: None
- - tags: ['dead internet']
-
 ## John Abramson: Big Pharma | Lex Fridman Podcast #263
  - [https://www.youtube.com/watch?v=arrokG3wCdE](https://www.youtube.com/watch?v=arrokG3wCdE)
  - date published: 2022-02-11T00:00:00+00:00
  - user: rumpel
  - tags: ['big pharma']
+
+## The Dead Internet Theory 3
+ - [https://www.youtube.com/watch?v=RFb1Ctnqw0E](https://www.youtube.com/watch?v=RFb1Ctnqw0E)
+ - date published: 2022-02-11T00:00:00+00:00
+ - user: None
+ - tags: ['dead internet']
 
 ## How Is Electric Car Battery Disposal Causing Pollution
  - [https://www.carandbike.com/news/how-is-electric-car-battery-disposal-causing-pollution-all-concerns-answered-2762412](https://www.carandbike.com/news/how-is-electric-car-battery-disposal-causing-pollution-all-concerns-answered-2762412)
@@ -1270,17 +1270,17 @@
  - user: None
  - tags: ['windows 11', 'always online']
 
-## A Timeline of Narnia History | Narnia Lore | The Seven Ages of Narnia
- - [https://www.youtube.com/watch?v=Vy_nbi_Gl7k](https://www.youtube.com/watch?v=Vy_nbi_Gl7k)
- - date published: 2022-02-19T00:00:00+00:00
- - user: rumpel
- - tags: ['narnia', 'book']
-
 ## Interview with Senior C++ Developer
  - [https://www.youtube.com/watch?v=s7wLYzRJt3s](https://www.youtube.com/watch?v=s7wLYzRJt3s)
  - date published: 2022-02-19T00:00:00+00:00
  - user: rumpel
  - tags: ['programming', 'funny']
+
+## A Timeline of Narnia History | Narnia Lore | The Seven Ages of Narnia
+ - [https://www.youtube.com/watch?v=Vy_nbi_Gl7k](https://www.youtube.com/watch?v=Vy_nbi_Gl7k)
+ - date published: 2022-02-19T00:00:00+00:00
+ - user: rumpel
+ - tags: ['narnia', 'book']
 
 ## Ottawa Police Chief says police will come after protesters for months to come “with financial sanctions and criminal charges”
  - [https://westphaliantimes.com/ottawa-police-chief-says-law-enforcement-will-come-after-protestors-even-if-they-go-home](https://westphaliantimes.com/ottawa-police-chief-says-law-enforcement-will-come-after-protestors-even-if-they-go-home)
@@ -1696,17 +1696,17 @@
  - user: Thomas Pain
  - tags: []
 
-## Ufopornoo! - Higher Quality
- - [https://www.youtube.com/watch?v=W5UkA2Gg-Cc](https://www.youtube.com/watch?v=W5UkA2Gg-Cc)
- - date published: 2022-03-16T00:00:00+00:00
- - user: rumpel
- - tags: ['funny']
-
 ## Secret behind Hollywood's power. And why they are afraid of the WOKE.
  - [https://www.youtube.com/watch?v=WJzXUSl20kM](https://www.youtube.com/watch?v=WJzXUSl20kM)
  - date published: 2022-03-16T00:00:00+00:00
  - user: rumpel
  - tags: ['movies', 'the left wing', 'hollywood', 'woke']
+
+## Ufopornoo! - Higher Quality
+ - [https://www.youtube.com/watch?v=W5UkA2Gg-Cc](https://www.youtube.com/watch?v=W5UkA2Gg-Cc)
+ - date published: 2022-03-16T00:00:00+00:00
+ - user: rumpel
+ - tags: ['funny']
 
 ## How I survived a DDoS attack
  - [https://www.youtube.com/watch?v=VPcYMgTYQs0](https://www.youtube.com/watch?v=VPcYMgTYQs0)
@@ -1787,16 +1787,16 @@
  - tags: ['algorithms', 'microsoft', 'england']
 
 ## The Coudenhove-Kalergi Plan – The Genocide of the Peoples of Europe
- - [https://www.nutritruth.org/single-post/the-coudenhove-kalergi-plan-the-genocide-of-the-peoples-of-europe](https://www.nutritruth.org/single-post/the-coudenhove-kalergi-plan-the-genocide-of-the-peoples-of-europe)
- - date published: 2022-03-19T20:15:46+00:00
- - user: None
- - tags: ['coudenhove-kalergi', 'the right wing', 'immigration', 'genocide', 'depopulation']
-
-## The Coudenhove-Kalergi Plan – The Genocide of the Peoples of Europe
  - [https://expose-news.com/2022/03/19/the-genocide-of-the-peoples-of-europe](https://expose-news.com/2022/03/19/the-genocide-of-the-peoples-of-europe)
  - date published: 2022-03-19T20:15:46+00:00
  - user: None
  - tags: ['coudenhove-kalergi', 'the right wing', 'immigration', 'genocide', 'conspiracy theory']
+
+## The Coudenhove-Kalergi Plan – The Genocide of the Peoples of Europe
+ - [https://www.nutritruth.org/single-post/the-coudenhove-kalergi-plan-the-genocide-of-the-peoples-of-europe](https://www.nutritruth.org/single-post/the-coudenhove-kalergi-plan-the-genocide-of-the-peoples-of-europe)
+ - date published: 2022-03-19T20:15:46+00:00
+ - user: None
+ - tags: ['coudenhove-kalergi', 'the right wing', 'immigration', 'genocide', 'depopulation']
 
 ## Web3.0: A Libertarian Dystopia
  - [https://www.youtube.com/watch?v=u-sNSjS8cq0](https://www.youtube.com/watch?v=u-sNSjS8cq0)
@@ -5848,14 +5848,14 @@
  - user: None
  - tags: ['internet', 'surveillance', 'social media', 'big tech', 'privacy']
 
-## What Is 'Fog Reveal,' the Police App Tracking Your Phone?
- - [https://gizmodo.com/what-is-fog-reveal-police-app-tracking-your-phone-1849514556](https://gizmodo.com/what-is-fog-reveal-police-app-tracking-your-phone-1849514556)
+## Google and Amazon Workers Fill Streets To Protest Israel's 'Project Nimbus'
+ - [https://gizmodo.com/project-nimbus-protest-amazon-google-palestine-cloud-1849514805](https://gizmodo.com/project-nimbus-protest-amazon-google-palestine-cloud-1849514805)
  - date published: 2022-09-09T11:00:00+00:00
  - user: None
  - tags: []
 
-## Google and Amazon Workers Fill Streets To Protest Israel's 'Project Nimbus'
- - [https://gizmodo.com/project-nimbus-protest-amazon-google-palestine-cloud-1849514805](https://gizmodo.com/project-nimbus-protest-amazon-google-palestine-cloud-1849514805)
+## What Is 'Fog Reveal,' the Police App Tracking Your Phone?
+ - [https://gizmodo.com/what-is-fog-reveal-police-app-tracking-your-phone-1849514556](https://gizmodo.com/what-is-fog-reveal-police-app-tracking-your-phone-1849514556)
  - date published: 2022-09-09T11:00:00+00:00
  - user: None
  - tags: []
@@ -5986,17 +5986,17 @@
  - user: Thomas Pain
  - tags: []
 
-## New Linux malware combines unusual stealth with a full suite of capabilities
- - [https://www.codeproject.com/script/News/View.aspx?nwid=58841](https://www.codeproject.com/script/News/View.aspx?nwid=58841)
- - date published: 2022-09-12T04:00:00+00:00
- - user: None
- - tags: ['malware', 'linux', 'vulnerability']
-
 ## DOJ: Google illegally maintains its search monopoly
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58842](https://www.codeproject.com/script/News/View.aspx?nwid=58842)
  - date published: 2022-09-12T04:00:00+00:00
  - user: None
  - tags: ['monopoly', 'search engines', 'dark design']
+
+## New Linux malware combines unusual stealth with a full suite of capabilities
+ - [https://www.codeproject.com/script/News/View.aspx?nwid=58841](https://www.codeproject.com/script/News/View.aspx?nwid=58841)
+ - date published: 2022-09-12T04:00:00+00:00
+ - user: None
+ - tags: ['malware', 'linux', 'vulnerability']
 
 ## Xinjiang lockdown: Chinese censors drown out posts about food and medicine shortages
  - [https://www.reddit.com/r/news/comments/xc3zj1/xinjiang_lockdown_chinese_censors_drown_out_posts](https://www.reddit.com/r/news/comments/xc3zj1/xinjiang_lockdown_chinese_censors_drown_out_posts)
@@ -6274,14 +6274,14 @@
  - user: None
  - tags: ['billionaires', 'covid', 'elites', 'bill gates', 'manufacturing consent']
 
-## How to Reduce Your Screen Time Without Apps, According to Reddit
- - [https://lifehacker.com/how-to-reduce-your-screen-time-without-apps-according-1849536443](https://lifehacker.com/how-to-reduce-your-screen-time-without-apps-according-1849536443)
+## A Virus That Can Cause Polio-Like Paralysis in Children Has Returned
+ - [https://gizmodo.com/acute-flaccid-myelitis-enterovirus-d-68-cdc-2022-1849536384](https://gizmodo.com/acute-flaccid-myelitis-enterovirus-d-68-cdc-2022-1849536384)
  - date published: 2022-09-14T20:30:00+00:00
  - user: None
  - tags: []
 
-## A Virus That Can Cause Polio-Like Paralysis in Children Has Returned
- - [https://gizmodo.com/acute-flaccid-myelitis-enterovirus-d-68-cdc-2022-1849536384](https://gizmodo.com/acute-flaccid-myelitis-enterovirus-d-68-cdc-2022-1849536384)
+## How to Reduce Your Screen Time Without Apps, According to Reddit
+ - [https://lifehacker.com/how-to-reduce-your-screen-time-without-apps-according-1849536443](https://lifehacker.com/how-to-reduce-your-screen-time-without-apps-according-1849536443)
  - date published: 2022-09-14T20:30:00+00:00
  - user: None
  - tags: []

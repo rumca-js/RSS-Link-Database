@@ -118,6 +118,12 @@
  - user: rumpel
  - tags: ['motivation']
 
+## Blowback: How Israel Went From Helping Create Hamas to Bombing It
+ - [https://theintercept.com/2018/02/19/hamas-israel-palestine-conflict](https://theintercept.com/2018/02/19/hamas-israel-palestine-conflict)
+ - date published: 2018-02-19T12:00:06+00:00
+ - user: rumpel
+ - tags: ['hamas', 'palestine', 'israel']
+
 ## This is what happened when Norway mandated that women make up 40% of the boardroom - MarketWatch
  - [https://www.marketwatch.com/story/this-is-what-happened-when-norway-mandated-that-women-make-up-40-of-the-boardroom-2018-02-20-1088264](https://www.marketwatch.com/story/this-is-what-happened-when-norway-mandated-that-women-make-up-40-of-the-boardroom-2018-02-20-1088264)
  - date published: 2018-02-20T20:58:03+00:00
