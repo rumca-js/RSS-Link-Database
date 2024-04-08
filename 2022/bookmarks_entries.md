@@ -1096,17 +1096,17 @@
  - user: rumpel
  - tags: ['freedom convoy', 'covid', 'canada']
 
-## The Dead Internet Theory 3
- - [https://www.youtube.com/watch?v=RFb1Ctnqw0E](https://www.youtube.com/watch?v=RFb1Ctnqw0E)
- - date published: 2022-02-11T00:00:00+00:00
- - user: None
- - tags: ['dead internet']
-
 ## John Abramson: Big Pharma | Lex Fridman Podcast #263
  - [https://www.youtube.com/watch?v=arrokG3wCdE](https://www.youtube.com/watch?v=arrokG3wCdE)
  - date published: 2022-02-11T00:00:00+00:00
  - user: rumpel
  - tags: ['big pharma']
+
+## The Dead Internet Theory 3
+ - [https://www.youtube.com/watch?v=RFb1Ctnqw0E](https://www.youtube.com/watch?v=RFb1Ctnqw0E)
+ - date published: 2022-02-11T00:00:00+00:00
+ - user: None
+ - tags: ['dead internet']
 
 ## How Is Electric Car Battery Disposal Causing Pollution
  - [https://www.carandbike.com/news/how-is-electric-car-battery-disposal-causing-pollution-all-concerns-answered-2762412](https://www.carandbike.com/news/how-is-electric-car-battery-disposal-causing-pollution-all-concerns-answered-2762412)
@@ -1696,17 +1696,17 @@
  - user: Thomas Pain
  - tags: []
 
-## Ufopornoo! - Higher Quality
- - [https://www.youtube.com/watch?v=W5UkA2Gg-Cc](https://www.youtube.com/watch?v=W5UkA2Gg-Cc)
- - date published: 2022-03-16T00:00:00+00:00
- - user: rumpel
- - tags: ['funny']
-
 ## Secret behind Hollywood's power. And why they are afraid of the WOKE.
  - [https://www.youtube.com/watch?v=WJzXUSl20kM](https://www.youtube.com/watch?v=WJzXUSl20kM)
  - date published: 2022-03-16T00:00:00+00:00
  - user: rumpel
  - tags: ['movies', 'the left wing', 'hollywood', 'woke']
+
+## Ufopornoo! - Higher Quality
+ - [https://www.youtube.com/watch?v=W5UkA2Gg-Cc](https://www.youtube.com/watch?v=W5UkA2Gg-Cc)
+ - date published: 2022-03-16T00:00:00+00:00
+ - user: rumpel
+ - tags: ['funny']
 
 ## How I survived a DDoS attack
  - [https://www.youtube.com/watch?v=VPcYMgTYQs0](https://www.youtube.com/watch?v=VPcYMgTYQs0)
@@ -1787,16 +1787,16 @@
  - tags: ['algorithms', 'microsoft', 'england']
 
 ## The Coudenhove-Kalergi Plan – The Genocide of the Peoples of Europe
- - [https://expose-news.com/2022/03/19/the-genocide-of-the-peoples-of-europe](https://expose-news.com/2022/03/19/the-genocide-of-the-peoples-of-europe)
- - date published: 2022-03-19T20:15:46+00:00
- - user: None
- - tags: ['coudenhove-kalergi', 'the right wing', 'immigration', 'genocide', 'conspiracy theory']
-
-## The Coudenhove-Kalergi Plan – The Genocide of the Peoples of Europe
  - [https://www.nutritruth.org/single-post/the-coudenhove-kalergi-plan-the-genocide-of-the-peoples-of-europe](https://www.nutritruth.org/single-post/the-coudenhove-kalergi-plan-the-genocide-of-the-peoples-of-europe)
  - date published: 2022-03-19T20:15:46+00:00
  - user: None
  - tags: ['coudenhove-kalergi', 'the right wing', 'immigration', 'genocide', 'depopulation']
+
+## The Coudenhove-Kalergi Plan – The Genocide of the Peoples of Europe
+ - [https://expose-news.com/2022/03/19/the-genocide-of-the-peoples-of-europe](https://expose-news.com/2022/03/19/the-genocide-of-the-peoples-of-europe)
+ - date published: 2022-03-19T20:15:46+00:00
+ - user: None
+ - tags: ['coudenhove-kalergi', 'the right wing', 'immigration', 'genocide', 'conspiracy theory']
 
 ## Web3.0: A Libertarian Dystopia
  - [https://www.youtube.com/watch?v=u-sNSjS8cq0](https://www.youtube.com/watch?v=u-sNSjS8cq0)
@@ -5770,17 +5770,17 @@
  - user: None
  - tags: []
 
-## The EU’s AI Act could have a chilling effect on open source efforts, experts warn
- - [https://www.codeproject.com/script/News/View.aspx?nwid=58818](https://www.codeproject.com/script/News/View.aspx?nwid=58818)
- - date published: 2022-09-08T04:00:00+00:00
- - user: None
- - tags: ['open source', 'artificial intelligence']
-
 ## Facebook engineers admit they don’t know what they do with your data
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58810](https://www.codeproject.com/script/News/View.aspx?nwid=58810)
  - date published: 2022-09-08T04:00:00+00:00
  - user: None
  - tags: ['meta', 'facebook', 'privacy', 'corporatocracy']
+
+## The EU’s AI Act could have a chilling effect on open source efforts, experts warn
+ - [https://www.codeproject.com/script/News/View.aspx?nwid=58818](https://www.codeproject.com/script/News/View.aspx?nwid=58818)
+ - date published: 2022-09-08T04:00:00+00:00
+ - user: None
+ - tags: ['open source', 'artificial intelligence']
 
 ## I Got Banned for Life from Airbnb
  - [https://jacksoncunningham.medium.com/digital-exile-how-i-got-banned-for-life-from-airbnb-615434c6eeba](https://jacksoncunningham.medium.com/digital-exile-how-i-got-banned-for-life-from-airbnb-615434c6eeba)
@@ -7156,17 +7156,17 @@
  - user: None
  - tags: ['electric vehicles', 'china', 'australia']
 
-## The sad state of debug performance in C++
- - [https://www.codeproject.com/script/News/View.aspx?nwid=59015](https://www.codeproject.com/script/News/View.aspx?nwid=59015)
- - date published: 2022-09-27T04:00:00+00:00
- - user: None
- - tags: ['c++', 'programming', 'performance', 'debug']
-
 ## Microsoft tells companies to “re-recruit” employees to their positions
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59012](https://www.codeproject.com/script/News/View.aspx?nwid=59012)
  - date published: 2022-09-27T04:00:00+00:00
  - user: None
  - tags: []
+
+## The sad state of debug performance in C++
+ - [https://www.codeproject.com/script/News/View.aspx?nwid=59015](https://www.codeproject.com/script/News/View.aspx?nwid=59015)
+ - date published: 2022-09-27T04:00:00+00:00
+ - user: None
+ - tags: ['c++', 'programming', 'performance', 'debug']
 
 ## W Poznaniu odbędzie się seks festiwal. W programie &quot;Dlaczego warto oglądać porno?&quot; i &quot;Przyszłość sex-zabawek jest niebinarna&quot;
  - [https://epoznan.pl/news-news-132809-w_poznaniu_odbedzie_sie_seks_festiwal_w_programie_dlaczego_warto_ogladac_porno_i_przyszlosc_sex_zabawek_jest_niebinarna?rss=1](https://epoznan.pl/news-news-132809-w_poznaniu_odbedzie_sie_seks_festiwal_w_programie_dlaczego_warto_ogladac_porno_i_przyszlosc_sex_zabawek_jest_niebinarna?rss=1)
@@ -9040,14 +9040,14 @@
  - user: None
  - tags: []
 
-## Harvard's robotic tentacle gripper is pure nightmare fuel
- - [https://www.codeproject.com/script/News/View.aspx?nwid=59308](https://www.codeproject.com/script/News/View.aspx?nwid=59308)
+## Passkeys—Microsoft, Apple, and Google’s password killer—are finally here
+ - [https://www.codeproject.com/script/News/View.aspx?nwid=59301](https://www.codeproject.com/script/News/View.aspx?nwid=59301)
  - date published: 2022-10-26T04:00:00+00:00
  - user: None
  - tags: []
 
-## Passkeys—Microsoft, Apple, and Google’s password killer—are finally here
- - [https://www.codeproject.com/script/News/View.aspx?nwid=59301](https://www.codeproject.com/script/News/View.aspx?nwid=59301)
+## Harvard's robotic tentacle gripper is pure nightmare fuel
+ - [https://www.codeproject.com/script/News/View.aspx?nwid=59308](https://www.codeproject.com/script/News/View.aspx?nwid=59308)
  - date published: 2022-10-26T04:00:00+00:00
  - user: None
  - tags: []
@@ -9856,17 +9856,17 @@
  - user: None
  - tags: ['metaverse', 'mark zuckerberg', 'big tech']
 
-## Americans by wide margins want race kept OUT of college admissions, says poll
- - [https://www.dailymail.co.uk/news/article-11381789/Americans-wide-margins-want-race-kept-college-admissions-says-poll.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11381789/Americans-wide-margins-want-race-kept-college-admissions-says-poll.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - date published: 2022-11-02T19:47:04+00:00
- - user: None
- - tags: ['blm', 'black lives matter']
-
 ## The damage Kanye West is doing is devastating
  - [https://www.cnn.com/2022/11/02/opinions/kanye-west-antisemitic-comments-carter/index.html](https://www.cnn.com/2022/11/02/opinions/kanye-west-antisemitic-comments-carter/index.html)
  - date published: 2022-11-02T19:47:04+00:00
  - user: None
  - tags: ['kanye west', 'nazi']
+
+## Americans by wide margins want race kept OUT of college admissions, says poll
+ - [https://www.dailymail.co.uk/news/article-11381789/Americans-wide-margins-want-race-kept-college-admissions-says-poll.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11381789/Americans-wide-margins-want-race-kept-college-admissions-says-poll.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - date published: 2022-11-02T19:47:04+00:00
+ - user: None
+ - tags: ['blm', 'black lives matter']
 
 ## Facebook's Going Back to Only Using Algorithms to Curate Its News Tab
  - [https://gizmodo.com/facebook-meta-news-curation-algorithm-1849734224](https://gizmodo.com/facebook-meta-news-curation-algorithm-1849734224)
