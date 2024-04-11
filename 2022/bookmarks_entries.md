@@ -1696,17 +1696,17 @@
  - user: Thomas Pain
  - tags: []
 
-## Secret behind Hollywood's power. And why they are afraid of the WOKE.
- - [https://www.youtube.com/watch?v=WJzXUSl20kM](https://www.youtube.com/watch?v=WJzXUSl20kM)
- - date published: 2022-03-16T00:00:00+00:00
- - user: rumpel
- - tags: ['movies', 'the left wing', 'hollywood', 'woke']
-
 ## Ufopornoo! - Higher Quality
  - [https://www.youtube.com/watch?v=W5UkA2Gg-Cc](https://www.youtube.com/watch?v=W5UkA2Gg-Cc)
  - date published: 2022-03-16T00:00:00+00:00
  - user: rumpel
  - tags: ['funny']
+
+## Secret behind Hollywood's power. And why they are afraid of the WOKE.
+ - [https://www.youtube.com/watch?v=WJzXUSl20kM](https://www.youtube.com/watch?v=WJzXUSl20kM)
+ - date published: 2022-03-16T00:00:00+00:00
+ - user: rumpel
+ - tags: ['movies', 'the left wing', 'hollywood', 'woke']
 
 ## How I survived a DDoS attack
  - [https://www.youtube.com/watch?v=VPcYMgTYQs0](https://www.youtube.com/watch?v=VPcYMgTYQs0)
@@ -1762,17 +1762,17 @@
  - user: Thomas Pain
  - tags: []
 
-## Man Born in 1853 Talks About Childhood in the 1860s- Enhanced Video & Audio [60 fps]
- - [https://www.youtube.com/watch?v=_oqbLSisnME](https://www.youtube.com/watch?v=_oqbLSisnME)
- - date published: 2022-03-19T00:00:00+00:00
- - user: rumpel
- - tags: ['archive', 'documentary', 'history']
-
 ## Interview with Senior PHP Developer
  - [https://www.youtube.com/watch?v=GzRfvwo1iNU](https://www.youtube.com/watch?v=GzRfvwo1iNU)
  - date published: 2022-03-19T00:00:00+00:00
  - user: rumpel
  - tags: ['programming', 'funny']
+
+## Man Born in 1853 Talks About Childhood in the 1860s- Enhanced Video & Audio [60 fps]
+ - [https://www.youtube.com/watch?v=_oqbLSisnME](https://www.youtube.com/watch?v=_oqbLSisnME)
+ - date published: 2022-03-19T00:00:00+00:00
+ - user: rumpel
+ - tags: ['archive', 'documentary', 'history']
 
 ## Amazon intentionally made it difficult to cancel Prime subscription in secret project | The Independent
  - [https://www.independent.co.uk/tech/amazon-prime-subscription-cancel-secret-project-b2038207.html](https://www.independent.co.uk/tech/amazon-prime-subscription-cancel-secret-project-b2038207.html)
@@ -1787,16 +1787,16 @@
  - tags: ['algorithms', 'microsoft', 'england']
 
 ## The Coudenhove-Kalergi Plan – The Genocide of the Peoples of Europe
- - [https://www.nutritruth.org/single-post/the-coudenhove-kalergi-plan-the-genocide-of-the-peoples-of-europe](https://www.nutritruth.org/single-post/the-coudenhove-kalergi-plan-the-genocide-of-the-peoples-of-europe)
- - date published: 2022-03-19T20:15:46+00:00
- - user: None
- - tags: ['coudenhove-kalergi', 'the right wing', 'immigration', 'genocide', 'depopulation']
-
-## The Coudenhove-Kalergi Plan – The Genocide of the Peoples of Europe
  - [https://expose-news.com/2022/03/19/the-genocide-of-the-peoples-of-europe](https://expose-news.com/2022/03/19/the-genocide-of-the-peoples-of-europe)
  - date published: 2022-03-19T20:15:46+00:00
  - user: None
  - tags: ['coudenhove-kalergi', 'the right wing', 'immigration', 'genocide', 'conspiracy theory']
+
+## The Coudenhove-Kalergi Plan – The Genocide of the Peoples of Europe
+ - [https://www.nutritruth.org/single-post/the-coudenhove-kalergi-plan-the-genocide-of-the-peoples-of-europe](https://www.nutritruth.org/single-post/the-coudenhove-kalergi-plan-the-genocide-of-the-peoples-of-europe)
+ - date published: 2022-03-19T20:15:46+00:00
+ - user: None
+ - tags: ['coudenhove-kalergi', 'the right wing', 'immigration', 'genocide', 'depopulation']
 
 ## Web3.0: A Libertarian Dystopia
  - [https://www.youtube.com/watch?v=u-sNSjS8cq0](https://www.youtube.com/watch?v=u-sNSjS8cq0)
@@ -5770,17 +5770,17 @@
  - user: None
  - tags: []
 
-## Facebook engineers admit they don’t know what they do with your data
- - [https://www.codeproject.com/script/News/View.aspx?nwid=58810](https://www.codeproject.com/script/News/View.aspx?nwid=58810)
- - date published: 2022-09-08T04:00:00+00:00
- - user: None
- - tags: ['meta', 'facebook', 'privacy', 'corporatocracy']
-
 ## The EU’s AI Act could have a chilling effect on open source efforts, experts warn
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58818](https://www.codeproject.com/script/News/View.aspx?nwid=58818)
  - date published: 2022-09-08T04:00:00+00:00
  - user: None
  - tags: ['open source', 'artificial intelligence']
+
+## Facebook engineers admit they don’t know what they do with your data
+ - [https://www.codeproject.com/script/News/View.aspx?nwid=58810](https://www.codeproject.com/script/News/View.aspx?nwid=58810)
+ - date published: 2022-09-08T04:00:00+00:00
+ - user: None
+ - tags: ['meta', 'facebook', 'privacy', 'corporatocracy']
 
 ## I Got Banned for Life from Airbnb
  - [https://jacksoncunningham.medium.com/digital-exile-how-i-got-banned-for-life-from-airbnb-615434c6eeba](https://jacksoncunningham.medium.com/digital-exile-how-i-got-banned-for-life-from-airbnb-615434c6eeba)
@@ -6274,14 +6274,14 @@
  - user: None
  - tags: ['billionaires', 'covid', 'elites', 'bill gates', 'manufacturing consent']
 
-## How to Reduce Your Screen Time Without Apps, According to Reddit
- - [https://lifehacker.com/how-to-reduce-your-screen-time-without-apps-according-1849536443](https://lifehacker.com/how-to-reduce-your-screen-time-without-apps-according-1849536443)
+## A Virus That Can Cause Polio-Like Paralysis in Children Has Returned
+ - [https://gizmodo.com/acute-flaccid-myelitis-enterovirus-d-68-cdc-2022-1849536384](https://gizmodo.com/acute-flaccid-myelitis-enterovirus-d-68-cdc-2022-1849536384)
  - date published: 2022-09-14T20:30:00+00:00
  - user: None
  - tags: []
 
-## A Virus That Can Cause Polio-Like Paralysis in Children Has Returned
- - [https://gizmodo.com/acute-flaccid-myelitis-enterovirus-d-68-cdc-2022-1849536384](https://gizmodo.com/acute-flaccid-myelitis-enterovirus-d-68-cdc-2022-1849536384)
+## How to Reduce Your Screen Time Without Apps, According to Reddit
+ - [https://lifehacker.com/how-to-reduce-your-screen-time-without-apps-according-1849536443](https://lifehacker.com/how-to-reduce-your-screen-time-without-apps-according-1849536443)
  - date published: 2022-09-14T20:30:00+00:00
  - user: None
  - tags: []
@@ -7156,17 +7156,17 @@
  - user: None
  - tags: ['electric vehicles', 'china', 'australia']
 
-## Microsoft tells companies to “re-recruit” employees to their positions
- - [https://www.codeproject.com/script/News/View.aspx?nwid=59012](https://www.codeproject.com/script/News/View.aspx?nwid=59012)
- - date published: 2022-09-27T04:00:00+00:00
- - user: None
- - tags: []
-
 ## The sad state of debug performance in C++
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59015](https://www.codeproject.com/script/News/View.aspx?nwid=59015)
  - date published: 2022-09-27T04:00:00+00:00
  - user: None
  - tags: ['c++', 'programming', 'performance', 'debug']
+
+## Microsoft tells companies to “re-recruit” employees to their positions
+ - [https://www.codeproject.com/script/News/View.aspx?nwid=59012](https://www.codeproject.com/script/News/View.aspx?nwid=59012)
+ - date published: 2022-09-27T04:00:00+00:00
+ - user: None
+ - tags: []
 
 ## W Poznaniu odbędzie się seks festiwal. W programie &quot;Dlaczego warto oglądać porno?&quot; i &quot;Przyszłość sex-zabawek jest niebinarna&quot;
  - [https://epoznan.pl/news-news-132809-w_poznaniu_odbedzie_sie_seks_festiwal_w_programie_dlaczego_warto_ogladac_porno_i_przyszlosc_sex_zabawek_jest_niebinarna?rss=1](https://epoznan.pl/news-news-132809-w_poznaniu_odbedzie_sie_seks_festiwal_w_programie_dlaczego_warto_ogladac_porno_i_przyszlosc_sex_zabawek_jest_niebinarna?rss=1)

@@ -640,17 +640,17 @@
  - user: rumpel
  - tags: ['racism']
 
-## Want money off North Face clothing? You’ll have to complete a ‘racial inclusion’ course first
- - [https://www.telegraph.co.uk/news/2024/03/05/the-north-face-discount-racial-inclusion-course-outdoors](https://www.telegraph.co.uk/news/2024/03/05/the-north-face-discount-racial-inclusion-course-outdoors)
- - date published: 2024-03-05T00:00:00+00:00
- - user: rumpel
- - tags: ['propaganda', 'racism', 'diversity']
-
 ## Spanish soldiers change gender to gain benefits intended for women
  - [https://www.telegraph.co.uk/news/2024/03/05/spanish-soldiers-change-gender-benefits-for-women](https://www.telegraph.co.uk/news/2024/03/05/spanish-soldiers-change-gender-benefits-for-women)
  - date published: 2024-03-05T00:00:00+00:00
  - user: rumpel
  - tags: ['gender']
+
+## Want money off North Face clothing? You’ll have to complete a ‘racial inclusion’ course first
+ - [https://www.telegraph.co.uk/news/2024/03/05/the-north-face-discount-racial-inclusion-course-outdoors](https://www.telegraph.co.uk/news/2024/03/05/the-north-face-discount-racial-inclusion-course-outdoors)
+ - date published: 2024-03-05T00:00:00+00:00
+ - user: rumpel
+ - tags: ['propaganda', 'racism', 'diversity']
 
 ## Global Population Crash Isn't Sci-Fi Anymore
  - [https://www.bloomberg.com/opinion/articles/2024-03-10/global-population-collapse-isn-t-sci-fi-anymore-niall-ferguson](https://www.bloomberg.com/opinion/articles/2024-03-10/global-population-collapse-isn-t-sci-fi-anymore-niall-ferguson)
