@@ -628,17 +628,17 @@
  - user: rumpel
  - tags: ['wuhan', 'manufacturing consent', 'anthony fauci', 'science is dead', 'censorship', 'covid', 'lab leak']
 
-## Jordan Peterson's Realization About the Bible
- - [https://www.youtube.com/watch?v=Vt9K6kmpx44](https://www.youtube.com/watch?v=Vt9K6kmpx44)
- - date published: 2022-01-25T00:00:00+00:00
- - user: rumpel
- - tags: ['bible', 'religion', 'jordan peterson']
-
 ## Comparing a $65,000 3D Printer to a $350 home 3D printer
  - [https://www.youtube.com/watch?v=bwyZjG5qxL8](https://www.youtube.com/watch?v=bwyZjG5qxL8)
  - date published: 2022-01-25T00:00:00+00:00
  - user: rumpel
  - tags: ['3d printer']
+
+## Jordan Peterson's Realization About the Bible
+ - [https://www.youtube.com/watch?v=Vt9K6kmpx44](https://www.youtube.com/watch?v=Vt9K6kmpx44)
+ - date published: 2022-01-25T00:00:00+00:00
+ - user: rumpel
+ - tags: ['bible', 'religion', 'jordan peterson']
 
 ## Survey Says Developers Are Definitely Not Interested In NFTs
  - [https://kotaku.com/nft-crypto-cryptocurrency-blockchain-gdc-video-games-de-1848407959](https://kotaku.com/nft-crypto-cryptocurrency-blockchain-gdc-video-games-de-1848407959)
@@ -1096,17 +1096,17 @@
  - user: rumpel
  - tags: ['freedom convoy', 'covid', 'canada']
 
-## John Abramson: Big Pharma | Lex Fridman Podcast #263
- - [https://www.youtube.com/watch?v=arrokG3wCdE](https://www.youtube.com/watch?v=arrokG3wCdE)
- - date published: 2022-02-11T00:00:00+00:00
- - user: rumpel
- - tags: ['big pharma']
-
 ## The Dead Internet Theory 3
  - [https://www.youtube.com/watch?v=RFb1Ctnqw0E](https://www.youtube.com/watch?v=RFb1Ctnqw0E)
  - date published: 2022-02-11T00:00:00+00:00
  - user: None
  - tags: ['dead internet']
+
+## John Abramson: Big Pharma | Lex Fridman Podcast #263
+ - [https://www.youtube.com/watch?v=arrokG3wCdE](https://www.youtube.com/watch?v=arrokG3wCdE)
+ - date published: 2022-02-11T00:00:00+00:00
+ - user: rumpel
+ - tags: ['big pharma']
 
 ## How Is Electric Car Battery Disposal Causing Pollution
  - [https://www.carandbike.com/news/how-is-electric-car-battery-disposal-causing-pollution-all-concerns-answered-2762412](https://www.carandbike.com/news/how-is-electric-car-battery-disposal-causing-pollution-all-concerns-answered-2762412)
@@ -1270,17 +1270,17 @@
  - user: None
  - tags: ['windows 11', 'always online']
 
-## Interview with Senior C++ Developer
- - [https://www.youtube.com/watch?v=s7wLYzRJt3s](https://www.youtube.com/watch?v=s7wLYzRJt3s)
- - date published: 2022-02-19T00:00:00+00:00
- - user: rumpel
- - tags: ['programming', 'funny']
-
 ## A Timeline of Narnia History | Narnia Lore | The Seven Ages of Narnia
  - [https://www.youtube.com/watch?v=Vy_nbi_Gl7k](https://www.youtube.com/watch?v=Vy_nbi_Gl7k)
  - date published: 2022-02-19T00:00:00+00:00
  - user: rumpel
  - tags: ['narnia', 'book']
+
+## Interview with Senior C++ Developer
+ - [https://www.youtube.com/watch?v=s7wLYzRJt3s](https://www.youtube.com/watch?v=s7wLYzRJt3s)
+ - date published: 2022-02-19T00:00:00+00:00
+ - user: rumpel
+ - tags: ['programming', 'funny']
 
 ## Ottawa Police Chief says police will come after protesters for months to come “with financial sanctions and criminal charges”
  - [https://westphaliantimes.com/ottawa-police-chief-says-law-enforcement-will-come-after-protestors-even-if-they-go-home](https://westphaliantimes.com/ottawa-police-chief-says-law-enforcement-will-come-after-protestors-even-if-they-go-home)
@@ -1787,16 +1787,16 @@
  - tags: ['algorithms', 'microsoft', 'england']
 
 ## The Coudenhove-Kalergi Plan – The Genocide of the Peoples of Europe
- - [https://expose-news.com/2022/03/19/the-genocide-of-the-peoples-of-europe](https://expose-news.com/2022/03/19/the-genocide-of-the-peoples-of-europe)
- - date published: 2022-03-19T20:15:46+00:00
- - user: None
- - tags: ['coudenhove-kalergi', 'the right wing', 'immigration', 'genocide', 'conspiracy theory']
-
-## The Coudenhove-Kalergi Plan – The Genocide of the Peoples of Europe
  - [https://www.nutritruth.org/single-post/the-coudenhove-kalergi-plan-the-genocide-of-the-peoples-of-europe](https://www.nutritruth.org/single-post/the-coudenhove-kalergi-plan-the-genocide-of-the-peoples-of-europe)
  - date published: 2022-03-19T20:15:46+00:00
  - user: None
  - tags: ['coudenhove-kalergi', 'the right wing', 'immigration', 'genocide', 'depopulation']
+
+## The Coudenhove-Kalergi Plan – The Genocide of the Peoples of Europe
+ - [https://expose-news.com/2022/03/19/the-genocide-of-the-peoples-of-europe](https://expose-news.com/2022/03/19/the-genocide-of-the-peoples-of-europe)
+ - date published: 2022-03-19T20:15:46+00:00
+ - user: None
+ - tags: ['coudenhove-kalergi', 'the right wing', 'immigration', 'genocide', 'conspiracy theory']
 
 ## Web3.0: A Libertarian Dystopia
  - [https://www.youtube.com/watch?v=u-sNSjS8cq0](https://www.youtube.com/watch?v=u-sNSjS8cq0)
@@ -5770,17 +5770,17 @@
  - user: None
  - tags: []
 
-## The EU’s AI Act could have a chilling effect on open source efforts, experts warn
- - [https://www.codeproject.com/script/News/View.aspx?nwid=58818](https://www.codeproject.com/script/News/View.aspx?nwid=58818)
- - date published: 2022-09-08T04:00:00+00:00
- - user: None
- - tags: ['open source', 'artificial intelligence']
-
 ## Facebook engineers admit they don’t know what they do with your data
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58810](https://www.codeproject.com/script/News/View.aspx?nwid=58810)
  - date published: 2022-09-08T04:00:00+00:00
  - user: None
  - tags: ['meta', 'facebook', 'privacy', 'corporatocracy']
+
+## The EU’s AI Act could have a chilling effect on open source efforts, experts warn
+ - [https://www.codeproject.com/script/News/View.aspx?nwid=58818](https://www.codeproject.com/script/News/View.aspx?nwid=58818)
+ - date published: 2022-09-08T04:00:00+00:00
+ - user: None
+ - tags: ['open source', 'artificial intelligence']
 
 ## I Got Banned for Life from Airbnb
  - [https://jacksoncunningham.medium.com/digital-exile-how-i-got-banned-for-life-from-airbnb-615434c6eeba](https://jacksoncunningham.medium.com/digital-exile-how-i-got-banned-for-life-from-airbnb-615434c6eeba)
@@ -6274,14 +6274,14 @@
  - user: None
  - tags: ['billionaires', 'covid', 'elites', 'bill gates', 'manufacturing consent']
 
-## A Virus That Can Cause Polio-Like Paralysis in Children Has Returned
- - [https://gizmodo.com/acute-flaccid-myelitis-enterovirus-d-68-cdc-2022-1849536384](https://gizmodo.com/acute-flaccid-myelitis-enterovirus-d-68-cdc-2022-1849536384)
+## How to Reduce Your Screen Time Without Apps, According to Reddit
+ - [https://lifehacker.com/how-to-reduce-your-screen-time-without-apps-according-1849536443](https://lifehacker.com/how-to-reduce-your-screen-time-without-apps-according-1849536443)
  - date published: 2022-09-14T20:30:00+00:00
  - user: None
  - tags: []
 
-## How to Reduce Your Screen Time Without Apps, According to Reddit
- - [https://lifehacker.com/how-to-reduce-your-screen-time-without-apps-according-1849536443](https://lifehacker.com/how-to-reduce-your-screen-time-without-apps-according-1849536443)
+## A Virus That Can Cause Polio-Like Paralysis in Children Has Returned
+ - [https://gizmodo.com/acute-flaccid-myelitis-enterovirus-d-68-cdc-2022-1849536384](https://gizmodo.com/acute-flaccid-myelitis-enterovirus-d-68-cdc-2022-1849536384)
  - date published: 2022-09-14T20:30:00+00:00
  - user: None
  - tags: []
@@ -7156,17 +7156,17 @@
  - user: None
  - tags: ['electric vehicles', 'china', 'australia']
 
-## The sad state of debug performance in C++
- - [https://www.codeproject.com/script/News/View.aspx?nwid=59015](https://www.codeproject.com/script/News/View.aspx?nwid=59015)
- - date published: 2022-09-27T04:00:00+00:00
- - user: None
- - tags: ['c++', 'programming', 'performance', 'debug']
-
 ## Microsoft tells companies to “re-recruit” employees to their positions
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59012](https://www.codeproject.com/script/News/View.aspx?nwid=59012)
  - date published: 2022-09-27T04:00:00+00:00
  - user: None
  - tags: []
+
+## The sad state of debug performance in C++
+ - [https://www.codeproject.com/script/News/View.aspx?nwid=59015](https://www.codeproject.com/script/News/View.aspx?nwid=59015)
+ - date published: 2022-09-27T04:00:00+00:00
+ - user: None
+ - tags: ['c++', 'programming', 'performance', 'debug']
 
 ## W Poznaniu odbędzie się seks festiwal. W programie &quot;Dlaczego warto oglądać porno?&quot; i &quot;Przyszłość sex-zabawek jest niebinarna&quot;
  - [https://epoznan.pl/news-news-132809-w_poznaniu_odbedzie_sie_seks_festiwal_w_programie_dlaczego_warto_ogladac_porno_i_przyszlosc_sex_zabawek_jest_niebinarna?rss=1](https://epoznan.pl/news-news-132809-w_poznaniu_odbedzie_sie_seks_festiwal_w_programie_dlaczego_warto_ogladac_porno_i_przyszlosc_sex_zabawek_jest_niebinarna?rss=1)

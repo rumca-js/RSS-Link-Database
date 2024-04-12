@@ -718,17 +718,17 @@
  - user: None
  - tags: ['surveillance', 'privacy']
 
-## In Gaza, starving children fill hospital wards as famine looms
- - [https://www.reuters.com/default/gaza-starving-children-fill-hospital-wards-famine-looms-2024-03-19](https://www.reuters.com/default/gaza-starving-children-fill-hospital-wards-famine-looms-2024-03-19)
- - date published: 2024-03-20T00:00:00+00:00
- - user: rumpel
- - tags: ['israel', 'palestine']
-
 ## Scotland’s new ‘thought police’ will be the death of the Edinburgh Festival
  - [https://www.telegraph.co.uk/columnists/2024/03/21/scotland-police-hate-laws-actors-stage-crime-plays](https://www.telegraph.co.uk/columnists/2024/03/21/scotland-police-hate-laws-actors-stage-crime-plays)
  - date published: 2024-03-20T00:00:00+00:00
  - user: rumpel
  - tags: ['scotland', 'hate speech and public order act', 'hate speech']
+
+## In Gaza, starving children fill hospital wards as famine looms
+ - [https://www.reuters.com/default/gaza-starving-children-fill-hospital-wards-famine-looms-2024-03-19](https://www.reuters.com/default/gaza-starving-children-fill-hospital-wards-famine-looms-2024-03-19)
+ - date published: 2024-03-20T00:00:00+00:00
+ - user: rumpel
+ - tags: ['israel', 'palestine']
 
 ## Saudi Arabia to be appointed chair of UN’s gender equality forum amid ongoing assault on women’s rights
  - [https://www.amnesty.org/en/latest/news/2024/03/saudi-arabia-to-be-appointed-chair-uns-gender-equality-forum-amid-ongoing-assault-on-womens-rights](https://www.amnesty.org/en/latest/news/2024/03/saudi-arabia-to-be-appointed-chair-uns-gender-equality-forum-amid-ongoing-assault-on-womens-rights)
@@ -747,18 +747,6 @@
  - date published: 2024-03-25T07:05:16+00:00
  - user: rumpel
  - tags: ['racism', 'inequality']
-
-## WoW Circle servers
- - [https://wowcircle.net/en.html](https://wowcircle.net/en.html)
- - date published: 2024-03-26T00:00:00+00:00
- - user: rumpel
- - tags: ['world of warcraft']
-
-## World of Warcraft
- - [https://worldofwarcraft.blizzard.com](https://worldofwarcraft.blizzard.com)
- - date published: 2024-03-26T00:00:00+00:00
- - user: rumpel
- - tags: []
 
 ## What do five red heifers have to do with the Oct. 7 massacre?
  - [https://allisrael.com/blog/what-do-five-red-heifers-have-to-do-with-the-oct-7-massacre](https://allisrael.com/blog/what-do-five-red-heifers-have-to-do-with-the-oct-7-massacre)
@@ -795,4 +783,16 @@
  - date published: 2024-04-02T03:58:00+00:00
  - user: None
  - tags: ['open source', 'vulnerability']
+
+## ‘The machine did it coldly’: Israel used AI to identify 37,000 Hamas targets
+ - [https://www.theguardian.com/world/2024/apr/03/israel-gaza-ai-database-hamas-airstrikes](https://www.theguardian.com/world/2024/apr/03/israel-gaza-ai-database-hamas-airstrikes)
+ - date published: 2024-04-03T13:53:38+00:00
+ - user: None
+ - tags: ['surveillance', 'israel', 'artificial intelligence', 'palestine']
+
+## 'Lavender': The AI machine directing Israel's bombing in Gaza
+ - [https://www.972mag.com/lavender-ai-israeli-army-gaza](https://www.972mag.com/lavender-ai-israeli-army-gaza)
+ - date published: 2024-04-03T14:50:30+00:00
+ - user: None
+ - tags: ['hamas', 'artificial intelligence', 'palestine', 'lavender', 'israel']
 
