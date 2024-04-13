@@ -58,17 +58,17 @@
  - user: rumpel
  - tags: ['seo', 'search engines']
 
-## Introducing r1
- - [https://www.youtube.com/watch?v=22wlLy7hKP4](https://www.youtube.com/watch?v=22wlLy7hKP4)
- - date published: 2024-01-09T00:00:00+00:00
- - user: rumpel
- - tags: ['artificial intelligence']
-
 ## Alleged EasyJet bomb hoaxer is a teen chess star with a place at Cambridge who said he'd 'blow this plane up' in a Snapchat post, reports say
  - [https://www.businessinsider.com/bomb-hoaxer-easyjet-teenage-chess-star-barred-spain-2022-7?IR=T](https://www.businessinsider.com/bomb-hoaxer-easyjet-teenage-chess-star-barred-spain-2022-7?IR=T)
  - date published: 2024-01-09T00:00:00+00:00
  - user: rumpel
  - tags: ['privacy', 'surveillance', 'technofeudalism']
+
+## Introducing r1
+ - [https://www.youtube.com/watch?v=22wlLy7hKP4](https://www.youtube.com/watch?v=22wlLy7hKP4)
+ - date published: 2024-01-09T00:00:00+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
 
 ## Where Have All the Websites Gone?
  - [https://www.fromjason.xyz/p/notebook/where-have-all-the-websites-gone](https://www.fromjason.xyz/p/notebook/where-have-all-the-websites-gone)
@@ -418,17 +418,17 @@
  - user: rumpel
  - tags: []
 
-## A passenger who caused fighter jets to flank an airliner after he privately joked about blowing up the plane was cleared and avoided a $120,000 bill
- - [https://www.businessinsider.com/passenger-avoids-120k-bill-after-bomb-joke-scrambled-fighter-jets-2024-1?IR=T](https://www.businessinsider.com/passenger-avoids-120k-bill-after-bomb-joke-scrambled-fighter-jets-2024-1?IR=T)
- - date published: 2024-01-30T00:00:00+00:00
- - user: rumpel
- - tags: ['orwell', 'privacy', 'big brother', 'surveillance']
-
 ## Soros, Facebook, And Omidyar Money Behind Attacks On German Farmers
  - [https://public.substack.com/p/soros-facebook-and-omidyar-money](https://public.substack.com/p/soros-facebook-and-omidyar-money)
  - date published: 2024-01-30T00:00:00+00:00
  - user: rumpel
  - tags: ['disinformation', 'george soros', 'misinformation', 'facebook']
+
+## A passenger who caused fighter jets to flank an airliner after he privately joked about blowing up the plane was cleared and avoided a $120,000 bill
+ - [https://www.businessinsider.com/passenger-avoids-120k-bill-after-bomb-joke-scrambled-fighter-jets-2024-1?IR=T](https://www.businessinsider.com/passenger-avoids-120k-bill-after-bomb-joke-scrambled-fighter-jets-2024-1?IR=T)
+ - date published: 2024-01-30T00:00:00+00:00
+ - user: rumpel
+ - tags: ['orwell', 'privacy', 'big brother', 'surveillance']
 
 ## Flynn effect - Wikipedia
  - [https://en.wikipedia.org/wiki/Flynn_effect](https://en.wikipedia.org/wiki/Flynn_effect)
@@ -718,17 +718,17 @@
  - user: None
  - tags: ['surveillance', 'privacy']
 
-## Scotland’s new ‘thought police’ will be the death of the Edinburgh Festival
- - [https://www.telegraph.co.uk/columnists/2024/03/21/scotland-police-hate-laws-actors-stage-crime-plays](https://www.telegraph.co.uk/columnists/2024/03/21/scotland-police-hate-laws-actors-stage-crime-plays)
- - date published: 2024-03-20T00:00:00+00:00
- - user: rumpel
- - tags: ['scotland', 'hate speech and public order act', 'hate speech']
-
 ## In Gaza, starving children fill hospital wards as famine looms
  - [https://www.reuters.com/default/gaza-starving-children-fill-hospital-wards-famine-looms-2024-03-19](https://www.reuters.com/default/gaza-starving-children-fill-hospital-wards-famine-looms-2024-03-19)
  - date published: 2024-03-20T00:00:00+00:00
  - user: rumpel
  - tags: ['israel', 'palestine']
+
+## Scotland’s new ‘thought police’ will be the death of the Edinburgh Festival
+ - [https://www.telegraph.co.uk/columnists/2024/03/21/scotland-police-hate-laws-actors-stage-crime-plays](https://www.telegraph.co.uk/columnists/2024/03/21/scotland-police-hate-laws-actors-stage-crime-plays)
+ - date published: 2024-03-20T00:00:00+00:00
+ - user: rumpel
+ - tags: ['scotland', 'hate speech and public order act', 'hate speech']
 
 ## Saudi Arabia to be appointed chair of UN’s gender equality forum amid ongoing assault on women’s rights
  - [https://www.amnesty.org/en/latest/news/2024/03/saudi-arabia-to-be-appointed-chair-uns-gender-equality-forum-amid-ongoing-assault-on-womens-rights](https://www.amnesty.org/en/latest/news/2024/03/saudi-arabia-to-be-appointed-chair-uns-gender-equality-forum-amid-ongoing-assault-on-womens-rights)
@@ -747,6 +747,12 @@
  - date published: 2024-03-25T07:05:16+00:00
  - user: rumpel
  - tags: ['racism', 'inequality']
+
+## Elon Musk Fought Government Surveillance — While Profiting Off Government Surveillance
+ - [https://theintercept.com/2024/03/25/elon-musk-x-dataminr-surveillance-privacy](https://theintercept.com/2024/03/25/elon-musk-x-dataminr-surveillance-privacy)
+ - date published: 2024-03-25T16:16:42+00:00
+ - user: None
+ - tags: ['surveillance', 'privacy']
 
 ## What do five red heifers have to do with the Oct. 7 massacre?
  - [https://allisrael.com/blog/what-do-five-red-heifers-have-to-do-with-the-oct-7-massacre](https://allisrael.com/blog/what-do-five-red-heifers-have-to-do-with-the-oct-7-massacre)
@@ -795,4 +801,16 @@
  - date published: 2024-04-03T14:50:30+00:00
  - user: None
  - tags: ['hamas', 'artificial intelligence', 'palestine', 'lavender', 'israel']
+
+## 96% of US hospital websites share visitor info with Meta, Google, data brokers
+ - [https://www.theregister.com/2024/04/11/hospital_website_data_sharing](https://www.theregister.com/2024/04/11/hospital_website_data_sharing)
+ - date published: 2024-04-12T13:24:11+00:00
+ - user: None
+ - tags: ['surveillance', 'privacy']
+
+## 96% of US hospital websites share visitor info with Meta, Google, data brokers | Hacker News
+ - [https://news.ycombinator.com/item?id=40012466](https://news.ycombinator.com/item?id=40012466)
+ - date published: 2024-04-12T15:14:21.257838+00:00
+ - user: None
+ - tags: ['surveillance', 'privacy']
 

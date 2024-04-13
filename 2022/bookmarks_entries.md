@@ -1270,17 +1270,17 @@
  - user: None
  - tags: ['windows 11', 'always online']
 
-## A Timeline of Narnia History | Narnia Lore | The Seven Ages of Narnia
- - [https://www.youtube.com/watch?v=Vy_nbi_Gl7k](https://www.youtube.com/watch?v=Vy_nbi_Gl7k)
- - date published: 2022-02-19T00:00:00+00:00
- - user: rumpel
- - tags: ['narnia', 'book']
-
 ## Interview with Senior C++ Developer
  - [https://www.youtube.com/watch?v=s7wLYzRJt3s](https://www.youtube.com/watch?v=s7wLYzRJt3s)
  - date published: 2022-02-19T00:00:00+00:00
  - user: rumpel
  - tags: ['programming', 'funny']
+
+## A Timeline of Narnia History | Narnia Lore | The Seven Ages of Narnia
+ - [https://www.youtube.com/watch?v=Vy_nbi_Gl7k](https://www.youtube.com/watch?v=Vy_nbi_Gl7k)
+ - date published: 2022-02-19T00:00:00+00:00
+ - user: rumpel
+ - tags: ['narnia', 'book']
 
 ## Ottawa Police Chief says police will come after protesters for months to come “with financial sanctions and criminal charges”
  - [https://westphaliantimes.com/ottawa-police-chief-says-law-enforcement-will-come-after-protestors-even-if-they-go-home](https://westphaliantimes.com/ottawa-police-chief-says-law-enforcement-will-come-after-protestors-even-if-they-go-home)
@@ -5848,14 +5848,14 @@
  - user: None
  - tags: ['internet', 'surveillance', 'social media', 'big tech', 'privacy']
 
-## What Is 'Fog Reveal,' the Police App Tracking Your Phone?
- - [https://gizmodo.com/what-is-fog-reveal-police-app-tracking-your-phone-1849514556](https://gizmodo.com/what-is-fog-reveal-police-app-tracking-your-phone-1849514556)
+## Google and Amazon Workers Fill Streets To Protest Israel's 'Project Nimbus'
+ - [https://gizmodo.com/project-nimbus-protest-amazon-google-palestine-cloud-1849514805](https://gizmodo.com/project-nimbus-protest-amazon-google-palestine-cloud-1849514805)
  - date published: 2022-09-09T11:00:00+00:00
  - user: None
  - tags: []
 
-## Google and Amazon Workers Fill Streets To Protest Israel's 'Project Nimbus'
- - [https://gizmodo.com/project-nimbus-protest-amazon-google-palestine-cloud-1849514805](https://gizmodo.com/project-nimbus-protest-amazon-google-palestine-cloud-1849514805)
+## What Is 'Fog Reveal,' the Police App Tracking Your Phone?
+ - [https://gizmodo.com/what-is-fog-reveal-police-app-tracking-your-phone-1849514556](https://gizmodo.com/what-is-fog-reveal-police-app-tracking-your-phone-1849514556)
  - date published: 2022-09-09T11:00:00+00:00
  - user: None
  - tags: []
@@ -9856,17 +9856,17 @@
  - user: None
  - tags: ['metaverse', 'mark zuckerberg', 'big tech']
 
-## The damage Kanye West is doing is devastating
- - [https://www.cnn.com/2022/11/02/opinions/kanye-west-antisemitic-comments-carter/index.html](https://www.cnn.com/2022/11/02/opinions/kanye-west-antisemitic-comments-carter/index.html)
- - date published: 2022-11-02T19:47:04+00:00
- - user: None
- - tags: ['kanye west', 'nazi']
-
 ## Americans by wide margins want race kept OUT of college admissions, says poll
  - [https://www.dailymail.co.uk/news/article-11381789/Americans-wide-margins-want-race-kept-college-admissions-says-poll.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11381789/Americans-wide-margins-want-race-kept-college-admissions-says-poll.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2022-11-02T19:47:04+00:00
  - user: None
  - tags: ['blm', 'black lives matter']
+
+## The damage Kanye West is doing is devastating
+ - [https://www.cnn.com/2022/11/02/opinions/kanye-west-antisemitic-comments-carter/index.html](https://www.cnn.com/2022/11/02/opinions/kanye-west-antisemitic-comments-carter/index.html)
+ - date published: 2022-11-02T19:47:04+00:00
+ - user: None
+ - tags: ['kanye west', 'nazi']
 
 ## Facebook's Going Back to Only Using Algorithms to Curate Its News Tab
  - [https://gizmodo.com/facebook-meta-news-curation-algorithm-1849734224](https://gizmodo.com/facebook-meta-news-curation-algorithm-1849734224)
