@@ -1086,12 +1086,6 @@
  - user: rumpel
  - tags: ['indoctrination', 'america', 'racism', 'the left wing']
 
-## Black Lives Matter is a Domestic Terrorist Organization | Change My Mind
- - [https://www.youtube.com/watch?v=yITK_Bm78mI](https://www.youtube.com/watch?v=yITK_Bm78mI)
- - date published: 2020-08-11T00:00:00+00:00
- - user: rumpel
- - tags: ['black lives matter', 'terrorism', 'extremism']
-
 ## The Leaked BLM School Materials Are Insane
  - [https://www.youtube.com/watch?v=jyRjbK-yKSk](https://www.youtube.com/watch?v=jyRjbK-yKSk)
  - date published: 2020-08-11T00:00:00+00:00
@@ -1103,6 +1097,12 @@
  - date published: 2020-08-11T00:00:00+00:00
  - user: rumpel
  - tags: ['books']
+
+## Black Lives Matter is a Domestic Terrorist Organization | Change My Mind
+ - [https://www.youtube.com/watch?v=yITK_Bm78mI](https://www.youtube.com/watch?v=yITK_Bm78mI)
+ - date published: 2020-08-11T00:00:00+00:00
+ - user: rumpel
+ - tags: ['black lives matter', 'terrorism', 'extremism']
 
 ## Why your 'Carbon Footprint' Is A Lie | Climate Town
  - [https://www.youtube.com/watch?v=1J9LOqiXdpE](https://www.youtube.com/watch?v=1J9LOqiXdpE)
@@ -1962,8 +1962,8 @@
  - user: None
  - tags: ['privacy', 'australia', 'surveillance', 'big brother', 'surveillance bill']
 
-## The Fragility of Physics
- - [https://lukesmith.xyz/articles/the-fragility-of-physics](https://lukesmith.xyz/articles/the-fragility-of-physics)
+## Command Line Bibles
+ - [https://lukesmith.xyz/articles/command-line-bibles](https://lukesmith.xyz/articles/command-line-bibles)
  - date published: 2020-12-11T00:00:00+00:00
  - user: None
  - tags: []
@@ -1974,11 +1974,11 @@
  - user: None
  - tags: []
 
-## Only Use Old Computers!
- - [https://lukesmith.xyz/articles/only-use-old-computers](https://lukesmith.xyz/articles/only-use-old-computers)
+## The Fragility of Physics
+ - [https://lukesmith.xyz/articles/the-fragility-of-physics](https://lukesmith.xyz/articles/the-fragility-of-physics)
  - date published: 2020-12-11T00:00:00+00:00
  - user: None
- - tags: ['linux']
+ - tags: []
 
 ## Science vs. Soyence
  - [https://lukesmith.xyz/articles/science-vs-soyence](https://lukesmith.xyz/articles/science-vs-soyence)
@@ -1986,11 +1986,11 @@
  - user: None
  - tags: []
 
-## Command Line Bibles
- - [https://lukesmith.xyz/articles/command-line-bibles](https://lukesmith.xyz/articles/command-line-bibles)
+## Only Use Old Computers!
+ - [https://lukesmith.xyz/articles/only-use-old-computers](https://lukesmith.xyz/articles/only-use-old-computers)
  - date published: 2020-12-11T00:00:00+00:00
  - user: None
- - tags: []
+ - tags: ['linux']
 
 ## Szwecja. Zabójstwo honorowe w autobusie pełnym ludzi. Ojciec i synowie skazani - Polsat News
  - [https://www.polsatnews.pl/wiadomosc/2020-12-11/szwecja-zabojstwo-honorowe-w-autobusie-pelnym-ludzi-ojciec-i-synowie-skazani/?ref=aside_najnowsze](https://www.polsatnews.pl/wiadomosc/2020-12-11/szwecja-zabojstwo-honorowe-w-autobusie-pelnym-ludzi-ojciec-i-synowie-skazani/?ref=aside_najnowsze)

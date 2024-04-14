@@ -3414,17 +3414,17 @@
  - user: Thomas Pain
  - tags: []
 
-## The Dead Internet Theory 2
- - [https://www.youtube.com/watch?v=6FtPvDGrpkA](https://www.youtube.com/watch?v=6FtPvDGrpkA)
- - date published: 2021-09-29T00:00:00+00:00
- - user: rumpel
- - tags: ['dead internet']
-
 ## [4k, 50 fps, colorized] (1896-1899) Sports in the Nineteenth century: Lumiere Brothers.
  - [https://www.youtube.com/watch?v=JyjRCuF9pd8](https://www.youtube.com/watch?v=JyjRCuF9pd8)
  - date published: 2021-09-29T00:00:00+00:00
  - user: rumpel
  - tags: ['archive', 'documentary', 'history']
+
+## The Dead Internet Theory 2
+ - [https://www.youtube.com/watch?v=6FtPvDGrpkA](https://www.youtube.com/watch?v=6FtPvDGrpkA)
+ - date published: 2021-09-29T00:00:00+00:00
+ - user: rumpel
+ - tags: ['dead internet']
 
 ## My Wife Was Dying of Brain Cancer. My Boss at Amazon Told Me to Perform or Quit. – Mother Jones
  - [https://www.motherjones.com/politics/2021/09/my-wife-was-dying-of-brain-cancer-my-boss-at-amazon-told-me-to-perform-or-quit](https://www.motherjones.com/politics/2021/09/my-wife-was-dying-of-brain-cancer-my-boss-at-amazon-told-me-to-perform-or-quit)
@@ -4290,14 +4290,14 @@
  - user: Thomas Pain
  - tags: []
 
-## What is AT&T doing at 1111340002?
- - [https://scribe.rip/telecom-expert/what-is-at-t-doing-at-1111340002-c418876c212c](https://scribe.rip/telecom-expert/what-is-at-t-doing-at-1111340002-c418876c212c)
+## incolumitas.com – So you want to Scrape like the Big Boys? 🚀
+ - [https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys](https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys)
  - date published: 2021-11-06T08:07:19.990899+00:00
  - user: Thomas Pain
  - tags: []
 
-## incolumitas.com – So you want to Scrape like the Big Boys? 🚀
- - [https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys](https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys)
+## What is AT&T doing at 1111340002?
+ - [https://scribe.rip/telecom-expert/what-is-at-t-doing-at-1111340002-c418876c212c](https://scribe.rip/telecom-expert/what-is-at-t-doing-at-1111340002-c418876c212c)
  - date published: 2021-11-06T08:07:19.990899+00:00
  - user: Thomas Pain
  - tags: []
