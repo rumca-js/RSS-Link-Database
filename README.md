@@ -16,6 +16,8 @@
  - Data analysis - possible to verify link rot, etc.
  - Google sucks at providing results for various topics (dead internet)
 
+![](https://github.com/rumca-js/RSS-Link-Database/blob/main/images/dude_back_alley.png?raw=true)
+
 ## Inspirations
 
  - I Tracked Everything I Read on the Internet for a Year [https://www.tdpain.net/blog/a-year-of-reading](https://www.tdpain.net/blog/a-year-of-reading).
