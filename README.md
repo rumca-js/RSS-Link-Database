@@ -16,7 +16,9 @@
  - Data analysis - possible to verify link rot, etc.
  - Google sucks at providing results for various topics (dead internet)
 
-![](https://github.com/rumca-js/RSS-Link-Database/blob/main/images/dude_back_alley.png?raw=true)
+<div align="center">
+  <img alt="Project Logo" src="images/dude_back_alley.png">
+</div>
 
 ## Inspirations
 
