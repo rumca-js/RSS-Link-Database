@@ -1696,17 +1696,17 @@
  - user: Thomas Pain
  - tags: []
 
-## Ufopornoo! - Higher Quality
- - [https://www.youtube.com/watch?v=W5UkA2Gg-Cc](https://www.youtube.com/watch?v=W5UkA2Gg-Cc)
- - date published: 2022-03-16T00:00:00+00:00
- - user: rumpel
- - tags: ['funny']
-
 ## Secret behind Hollywood's power. And why they are afraid of the WOKE.
  - [https://www.youtube.com/watch?v=WJzXUSl20kM](https://www.youtube.com/watch?v=WJzXUSl20kM)
  - date published: 2022-03-16T00:00:00+00:00
  - user: rumpel
  - tags: ['movies', 'the left wing', 'hollywood', 'woke']
+
+## Ufopornoo! - Higher Quality
+ - [https://www.youtube.com/watch?v=W5UkA2Gg-Cc](https://www.youtube.com/watch?v=W5UkA2Gg-Cc)
+ - date published: 2022-03-16T00:00:00+00:00
+ - user: rumpel
+ - tags: ['funny']
 
 ## How I survived a DDoS attack
  - [https://www.youtube.com/watch?v=VPcYMgTYQs0](https://www.youtube.com/watch?v=VPcYMgTYQs0)
@@ -1762,17 +1762,17 @@
  - user: Thomas Pain
  - tags: []
 
-## Interview with Senior PHP Developer
- - [https://www.youtube.com/watch?v=GzRfvwo1iNU](https://www.youtube.com/watch?v=GzRfvwo1iNU)
- - date published: 2022-03-19T00:00:00+00:00
- - user: rumpel
- - tags: ['programming', 'funny']
-
 ## Man Born in 1853 Talks About Childhood in the 1860s- Enhanced Video & Audio [60 fps]
  - [https://www.youtube.com/watch?v=_oqbLSisnME](https://www.youtube.com/watch?v=_oqbLSisnME)
  - date published: 2022-03-19T00:00:00+00:00
  - user: rumpel
  - tags: ['archive', 'documentary', 'history']
+
+## Interview with Senior PHP Developer
+ - [https://www.youtube.com/watch?v=GzRfvwo1iNU](https://www.youtube.com/watch?v=GzRfvwo1iNU)
+ - date published: 2022-03-19T00:00:00+00:00
+ - user: rumpel
+ - tags: ['programming', 'funny']
 
 ## Amazon intentionally made it difficult to cancel Prime subscription in secret project | The Independent
  - [https://www.independent.co.uk/tech/amazon-prime-subscription-cancel-secret-project-b2038207.html](https://www.independent.co.uk/tech/amazon-prime-subscription-cancel-secret-project-b2038207.html)
@@ -1787,16 +1787,16 @@
  - tags: ['algorithms', 'microsoft', 'england']
 
 ## The Coudenhove-Kalergi Plan – The Genocide of the Peoples of Europe
- - [https://expose-news.com/2022/03/19/the-genocide-of-the-peoples-of-europe](https://expose-news.com/2022/03/19/the-genocide-of-the-peoples-of-europe)
- - date published: 2022-03-19T20:15:46+00:00
- - user: None
- - tags: ['coudenhove-kalergi', 'the right wing', 'immigration', 'genocide', 'conspiracy theory']
-
-## The Coudenhove-Kalergi Plan – The Genocide of the Peoples of Europe
  - [https://www.nutritruth.org/single-post/the-coudenhove-kalergi-plan-the-genocide-of-the-peoples-of-europe](https://www.nutritruth.org/single-post/the-coudenhove-kalergi-plan-the-genocide-of-the-peoples-of-europe)
  - date published: 2022-03-19T20:15:46+00:00
  - user: None
  - tags: ['coudenhove-kalergi', 'the right wing', 'immigration', 'genocide', 'depopulation']
+
+## The Coudenhove-Kalergi Plan – The Genocide of the Peoples of Europe
+ - [https://expose-news.com/2022/03/19/the-genocide-of-the-peoples-of-europe](https://expose-news.com/2022/03/19/the-genocide-of-the-peoples-of-europe)
+ - date published: 2022-03-19T20:15:46+00:00
+ - user: None
+ - tags: ['coudenhove-kalergi', 'the right wing', 'immigration', 'genocide', 'conspiracy theory']
 
 ## Web3.0: A Libertarian Dystopia
  - [https://www.youtube.com/watch?v=u-sNSjS8cq0](https://www.youtube.com/watch?v=u-sNSjS8cq0)
@@ -5770,17 +5770,17 @@
  - user: None
  - tags: []
 
-## The EU’s AI Act could have a chilling effect on open source efforts, experts warn
- - [https://www.codeproject.com/script/News/View.aspx?nwid=58818](https://www.codeproject.com/script/News/View.aspx?nwid=58818)
- - date published: 2022-09-08T04:00:00+00:00
- - user: None
- - tags: ['open source', 'artificial intelligence']
-
 ## Facebook engineers admit they don’t know what they do with your data
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58810](https://www.codeproject.com/script/News/View.aspx?nwid=58810)
  - date published: 2022-09-08T04:00:00+00:00
  - user: None
  - tags: ['meta', 'facebook', 'privacy', 'corporatocracy']
+
+## The EU’s AI Act could have a chilling effect on open source efforts, experts warn
+ - [https://www.codeproject.com/script/News/View.aspx?nwid=58818](https://www.codeproject.com/script/News/View.aspx?nwid=58818)
+ - date published: 2022-09-08T04:00:00+00:00
+ - user: None
+ - tags: ['open source', 'artificial intelligence']
 
 ## I Got Banned for Life from Airbnb
  - [https://jacksoncunningham.medium.com/digital-exile-how-i-got-banned-for-life-from-airbnb-615434c6eeba](https://jacksoncunningham.medium.com/digital-exile-how-i-got-banned-for-life-from-airbnb-615434c6eeba)
