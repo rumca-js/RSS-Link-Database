@@ -1096,17 +1096,17 @@
  - user: rumpel
  - tags: ['freedom convoy', 'covid', 'canada']
 
-## John Abramson: Big Pharma | Lex Fridman Podcast #263
- - [https://www.youtube.com/watch?v=arrokG3wCdE](https://www.youtube.com/watch?v=arrokG3wCdE)
- - date published: 2022-02-11T00:00:00+00:00
- - user: rumpel
- - tags: ['big pharma']
-
 ## The Dead Internet Theory 3
  - [https://www.youtube.com/watch?v=RFb1Ctnqw0E](https://www.youtube.com/watch?v=RFb1Ctnqw0E)
  - date published: 2022-02-11T00:00:00+00:00
  - user: None
  - tags: ['dead internet']
+
+## John Abramson: Big Pharma | Lex Fridman Podcast #263
+ - [https://www.youtube.com/watch?v=arrokG3wCdE](https://www.youtube.com/watch?v=arrokG3wCdE)
+ - date published: 2022-02-11T00:00:00+00:00
+ - user: rumpel
+ - tags: ['big pharma']
 
 ## How Is Electric Car Battery Disposal Causing Pollution
  - [https://www.carandbike.com/news/how-is-electric-car-battery-disposal-causing-pollution-all-concerns-answered-2762412](https://www.carandbike.com/news/how-is-electric-car-battery-disposal-causing-pollution-all-concerns-answered-2762412)
@@ -1762,17 +1762,17 @@
  - user: Thomas Pain
  - tags: []
 
-## Man Born in 1853 Talks About Childhood in the 1860s- Enhanced Video & Audio [60 fps]
- - [https://www.youtube.com/watch?v=_oqbLSisnME](https://www.youtube.com/watch?v=_oqbLSisnME)
- - date published: 2022-03-19T00:00:00+00:00
- - user: rumpel
- - tags: ['archive', 'documentary', 'history']
-
 ## Interview with Senior PHP Developer
  - [https://www.youtube.com/watch?v=GzRfvwo1iNU](https://www.youtube.com/watch?v=GzRfvwo1iNU)
  - date published: 2022-03-19T00:00:00+00:00
  - user: rumpel
  - tags: ['programming', 'funny']
+
+## Man Born in 1853 Talks About Childhood in the 1860s- Enhanced Video & Audio [60 fps]
+ - [https://www.youtube.com/watch?v=_oqbLSisnME](https://www.youtube.com/watch?v=_oqbLSisnME)
+ - date published: 2022-03-19T00:00:00+00:00
+ - user: rumpel
+ - tags: ['archive', 'documentary', 'history']
 
 ## Amazon intentionally made it difficult to cancel Prime subscription in secret project | The Independent
  - [https://www.independent.co.uk/tech/amazon-prime-subscription-cancel-secret-project-b2038207.html](https://www.independent.co.uk/tech/amazon-prime-subscription-cancel-secret-project-b2038207.html)
@@ -6274,14 +6274,14 @@
  - user: None
  - tags: ['billionaires', 'covid', 'elites', 'bill gates', 'manufacturing consent']
 
-## How to Reduce Your Screen Time Without Apps, According to Reddit
- - [https://lifehacker.com/how-to-reduce-your-screen-time-without-apps-according-1849536443](https://lifehacker.com/how-to-reduce-your-screen-time-without-apps-according-1849536443)
+## A Virus That Can Cause Polio-Like Paralysis in Children Has Returned
+ - [https://gizmodo.com/acute-flaccid-myelitis-enterovirus-d-68-cdc-2022-1849536384](https://gizmodo.com/acute-flaccid-myelitis-enterovirus-d-68-cdc-2022-1849536384)
  - date published: 2022-09-14T20:30:00+00:00
  - user: None
  - tags: []
 
-## A Virus That Can Cause Polio-Like Paralysis in Children Has Returned
- - [https://gizmodo.com/acute-flaccid-myelitis-enterovirus-d-68-cdc-2022-1849536384](https://gizmodo.com/acute-flaccid-myelitis-enterovirus-d-68-cdc-2022-1849536384)
+## How to Reduce Your Screen Time Without Apps, According to Reddit
+ - [https://lifehacker.com/how-to-reduce-your-screen-time-without-apps-according-1849536443](https://lifehacker.com/how-to-reduce-your-screen-time-without-apps-according-1849536443)
  - date published: 2022-09-14T20:30:00+00:00
  - user: None
  - tags: []
@@ -7156,17 +7156,17 @@
  - user: None
  - tags: ['electric vehicles', 'china', 'australia']
 
-## Microsoft tells companies to “re-recruit” employees to their positions
- - [https://www.codeproject.com/script/News/View.aspx?nwid=59012](https://www.codeproject.com/script/News/View.aspx?nwid=59012)
- - date published: 2022-09-27T04:00:00+00:00
- - user: None
- - tags: []
-
 ## The sad state of debug performance in C++
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59015](https://www.codeproject.com/script/News/View.aspx?nwid=59015)
  - date published: 2022-09-27T04:00:00+00:00
  - user: None
  - tags: ['c++', 'programming', 'performance', 'debug']
+
+## Microsoft tells companies to “re-recruit” employees to their positions
+ - [https://www.codeproject.com/script/News/View.aspx?nwid=59012](https://www.codeproject.com/script/News/View.aspx?nwid=59012)
+ - date published: 2022-09-27T04:00:00+00:00
+ - user: None
+ - tags: []
 
 ## W Poznaniu odbędzie się seks festiwal. W programie &quot;Dlaczego warto oglądać porno?&quot; i &quot;Przyszłość sex-zabawek jest niebinarna&quot;
  - [https://epoznan.pl/news-news-132809-w_poznaniu_odbedzie_sie_seks_festiwal_w_programie_dlaczego_warto_ogladac_porno_i_przyszlosc_sex_zabawek_jest_niebinarna?rss=1](https://epoznan.pl/news-news-132809-w_poznaniu_odbedzie_sie_seks_festiwal_w_programie_dlaczego_warto_ogladac_porno_i_przyszlosc_sex_zabawek_jest_niebinarna?rss=1)

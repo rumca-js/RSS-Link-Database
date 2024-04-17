@@ -280,14 +280,14 @@
  - user: rumpel
  - tags: ['corporatocracy', 'ad business', 'surveillance', 'gdpr', 'big brother']
 
-## Google obtains thousands of medical records from the Dept of Defense
- - [https://gcaptain.com/us-navy-opens-medical-vault-for-google](https://gcaptain.com/us-navy-opens-medical-vault-for-google)
+## Google’s quest to digitize troops’ tissue samples
+ - [https://www.propublica.org/article/google-human-tissue-jpc-military](https://www.propublica.org/article/google-human-tissue-jpc-military)
  - date published: 2023-01-05T23:15:09+00:00
  - user: rumpel
  - tags: ['google']
 
-## Google’s quest to digitize troops’ tissue samples
- - [https://www.propublica.org/article/google-human-tissue-jpc-military](https://www.propublica.org/article/google-human-tissue-jpc-military)
+## Google obtains thousands of medical records from the Dept of Defense
+ - [https://gcaptain.com/us-navy-opens-medical-vault-for-google](https://gcaptain.com/us-navy-opens-medical-vault-for-google)
  - date published: 2023-01-05T23:15:09+00:00
  - user: rumpel
  - tags: ['google']
