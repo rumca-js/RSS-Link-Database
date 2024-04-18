@@ -58,17 +58,17 @@
  - user: rumpel
  - tags: ['seo', 'search engines']
 
-## Introducing r1
- - [https://www.youtube.com/watch?v=22wlLy7hKP4](https://www.youtube.com/watch?v=22wlLy7hKP4)
- - date published: 2024-01-09T00:00:00+00:00
- - user: rumpel
- - tags: ['artificial intelligence']
-
 ## Alleged EasyJet bomb hoaxer is a teen chess star with a place at Cambridge who said he'd 'blow this plane up' in a Snapchat post, reports say
  - [https://www.businessinsider.com/bomb-hoaxer-easyjet-teenage-chess-star-barred-spain-2022-7?IR=T](https://www.businessinsider.com/bomb-hoaxer-easyjet-teenage-chess-star-barred-spain-2022-7?IR=T)
  - date published: 2024-01-09T00:00:00+00:00
  - user: rumpel
  - tags: ['privacy', 'surveillance', 'technofeudalism']
+
+## Introducing r1
+ - [https://www.youtube.com/watch?v=22wlLy7hKP4](https://www.youtube.com/watch?v=22wlLy7hKP4)
+ - date published: 2024-01-09T00:00:00+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
 
 ## Where Have All the Websites Gone?
  - [https://www.fromjason.xyz/p/notebook/where-have-all-the-websites-gone](https://www.fromjason.xyz/p/notebook/where-have-all-the-websites-gone)
@@ -640,17 +640,17 @@
  - user: rumpel
  - tags: ['racism']
 
-## Want money off North Face clothing? You’ll have to complete a ‘racial inclusion’ course first
- - [https://www.telegraph.co.uk/news/2024/03/05/the-north-face-discount-racial-inclusion-course-outdoors](https://www.telegraph.co.uk/news/2024/03/05/the-north-face-discount-racial-inclusion-course-outdoors)
- - date published: 2024-03-05T00:00:00+00:00
- - user: rumpel
- - tags: ['propaganda', 'racism', 'diversity']
-
 ## Spanish soldiers change gender to gain benefits intended for women
  - [https://www.telegraph.co.uk/news/2024/03/05/spanish-soldiers-change-gender-benefits-for-women](https://www.telegraph.co.uk/news/2024/03/05/spanish-soldiers-change-gender-benefits-for-women)
  - date published: 2024-03-05T00:00:00+00:00
  - user: rumpel
  - tags: ['gender']
+
+## Want money off North Face clothing? You’ll have to complete a ‘racial inclusion’ course first
+ - [https://www.telegraph.co.uk/news/2024/03/05/the-north-face-discount-racial-inclusion-course-outdoors](https://www.telegraph.co.uk/news/2024/03/05/the-north-face-discount-racial-inclusion-course-outdoors)
+ - date published: 2024-03-05T00:00:00+00:00
+ - user: rumpel
+ - tags: ['propaganda', 'racism', 'diversity']
 
 ## Global Population Crash Isn't Sci-Fi Anymore
  - [https://www.bloomberg.com/opinion/articles/2024-03-10/global-population-collapse-isn-t-sci-fi-anymore-niall-ferguson](https://www.bloomberg.com/opinion/articles/2024-03-10/global-population-collapse-isn-t-sci-fi-anymore-niall-ferguson)
