@@ -924,17 +924,17 @@
  - user: None
  - tags: []
 
-## Conspiratorial Thinking and "Multiple Outs"
- - [https://lukesmith.xyz/articles/conspiratorial-thinking-and-multiple-outs](https://lukesmith.xyz/articles/conspiratorial-thinking-and-multiple-outs)
- - date published: 2021-05-05T00:00:00+00:00
- - user: None
- - tags: ['conspiracy theory']
-
 ## The Problems with Utilitarianism
  - [https://lukesmith.xyz/articles/the-problems-with-utilitarianism](https://lukesmith.xyz/articles/the-problems-with-utilitarianism)
  - date published: 2021-05-05T00:00:00+00:00
  - user: None
  - tags: []
+
+## Conspiratorial Thinking and "Multiple Outs"
+ - [https://lukesmith.xyz/articles/conspiratorial-thinking-and-multiple-outs](https://lukesmith.xyz/articles/conspiratorial-thinking-and-multiple-outs)
+ - date published: 2021-05-05T00:00:00+00:00
+ - user: None
+ - tags: ['conspiracy theory']
 
 ## Prezydent Estonii w Polsat News: nie powinniśmy wracać do świata sprzed pandemii
  - [https://www.polsatnews.pl/wiadomosc/2021-05-05/prezydent-estonii-w-polsat-news-nie-powinnismy-wracac-do-swiata-sprzed-pandemii](https://www.polsatnews.pl/wiadomosc/2021-05-05/prezydent-estonii-w-polsat-news-nie-powinnismy-wracac-do-swiata-sprzed-pandemii)
@@ -3414,17 +3414,17 @@
  - user: Thomas Pain
  - tags: []
 
-## The Dead Internet Theory 2
- - [https://www.youtube.com/watch?v=6FtPvDGrpkA](https://www.youtube.com/watch?v=6FtPvDGrpkA)
- - date published: 2021-09-29T00:00:00+00:00
- - user: rumpel
- - tags: ['dead internet']
-
 ## [4k, 50 fps, colorized] (1896-1899) Sports in the Nineteenth century: Lumiere Brothers.
  - [https://www.youtube.com/watch?v=JyjRCuF9pd8](https://www.youtube.com/watch?v=JyjRCuF9pd8)
  - date published: 2021-09-29T00:00:00+00:00
  - user: rumpel
  - tags: ['archive', 'documentary', 'history']
+
+## The Dead Internet Theory 2
+ - [https://www.youtube.com/watch?v=6FtPvDGrpkA](https://www.youtube.com/watch?v=6FtPvDGrpkA)
+ - date published: 2021-09-29T00:00:00+00:00
+ - user: rumpel
+ - tags: ['dead internet']
 
 ## My Wife Was Dying of Brain Cancer. My Boss at Amazon Told Me to Perform or Quit. – Mother Jones
  - [https://www.motherjones.com/politics/2021/09/my-wife-was-dying-of-brain-cancer-my-boss-at-amazon-told-me-to-perform-or-quit](https://www.motherjones.com/politics/2021/09/my-wife-was-dying-of-brain-cancer-my-boss-at-amazon-told-me-to-perform-or-quit)
@@ -3604,7 +3604,7 @@
  - [https://bigthink.com/the-present/social-media-algorithms-manipulate-you](https://bigthink.com/the-present/social-media-algorithms-manipulate-you)
  - date published: 2021-10-07T15:57:13+00:00
  - user: rumpel
- - tags: ['big tech', 'social engineering', 'social media', 'algorithms']
+ - tags: []
 
 ## Finland joins Sweden and Denmark in limiting Moderna COVID-19 vaccine
  - [https://www.reuters.com/world/europe/finland-pauses-use-moderna-covid-19-vaccine-young-men-2021-10-07](https://www.reuters.com/world/europe/finland-pauses-use-moderna-covid-19-vaccine-young-men-2021-10-07)
@@ -4290,14 +4290,14 @@
  - user: Thomas Pain
  - tags: []
 
-## incolumitas.com – So you want to Scrape like the Big Boys? 🚀
- - [https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys](https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys)
+## What is AT&T doing at 1111340002?
+ - [https://scribe.rip/telecom-expert/what-is-at-t-doing-at-1111340002-c418876c212c](https://scribe.rip/telecom-expert/what-is-at-t-doing-at-1111340002-c418876c212c)
  - date published: 2021-11-06T08:07:19.990899+00:00
  - user: Thomas Pain
  - tags: []
 
-## What is AT&T doing at 1111340002?
- - [https://scribe.rip/telecom-expert/what-is-at-t-doing-at-1111340002-c418876c212c](https://scribe.rip/telecom-expert/what-is-at-t-doing-at-1111340002-c418876c212c)
+## incolumitas.com – So you want to Scrape like the Big Boys? 🚀
+ - [https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys](https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys)
  - date published: 2021-11-06T08:07:19.990899+00:00
  - user: Thomas Pain
  - tags: []
@@ -4324,7 +4324,7 @@
  - [https://www.youtube.com/watch?v=rKUWnzcCRd8](https://www.youtube.com/watch?v=rKUWnzcCRd8)
  - date published: 2021-11-08T00:00:00+00:00
  - user: rumpel
- - tags: ['motivation', 'quotes']
+ - tags: []
 
 ## Last of original SCO v IBM Linux lawsuit settled | ZDNET
  - [https://www.zdnet.com/article/last-of-original-sco-v-ibm-linux-lawsuit-settled](https://www.zdnet.com/article/last-of-original-sco-v-ibm-linux-lawsuit-settled)
@@ -4702,7 +4702,7 @@
  - [https://www.youtube.com/watch?v=lYYmAF7_wk0](https://www.youtube.com/watch?v=lYYmAF7_wk0)
  - date published: 2021-11-25T00:00:00+00:00
  - user: rumpel
- - tags: ['motivation']
+ - tags: []
 
 ## The unbearable fussiness of the smart home - Stacey on IoT | Internet of Things news and analysis
  - [https://staceyoniot.com/the-unbearable-fussiness-of-the-smart-home](https://staceyoniot.com/the-unbearable-fussiness-of-the-smart-home)
@@ -4840,7 +4840,7 @@
  - [https://www.healthline.com/health-news/are-we-going-to-need-covid-19-boosters-every-6-months-what-experts-think#Will-boosters-become-an-annual-thing?](https://www.healthline.com/health-news/are-we-going-to-need-covid-19-boosters-every-6-months-what-experts-think#Will-boosters-become-an-annual-thing?)
  - date published: 2021-12-01T08:06:38+00:00
  - user: rumpel
- - tags: ['vaccine', 'covid', 'booster']
+ - tags: []
 
 ## Jaki szyfrowany komunikator wybrać? Lista współpracy z FBI może pomóc w podjęciu decyzji
  - [https://geekweek.interia.pl/technologia/news-jaki-szyfrowany-komunikator-wybrac-lista-wspolpracy-z-fbi-mo,nId,5679869](https://geekweek.interia.pl/technologia/news-jaki-szyfrowany-komunikator-wybrac-lista-wspolpracy-z-fbi-mo,nId,5679869)

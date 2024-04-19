@@ -6274,14 +6274,14 @@
  - user: None
  - tags: ['billionaires', 'covid', 'elites', 'bill gates', 'manufacturing consent']
 
-## How to Reduce Your Screen Time Without Apps, According to Reddit
- - [https://lifehacker.com/how-to-reduce-your-screen-time-without-apps-according-1849536443](https://lifehacker.com/how-to-reduce-your-screen-time-without-apps-according-1849536443)
+## A Virus That Can Cause Polio-Like Paralysis in Children Has Returned
+ - [https://gizmodo.com/acute-flaccid-myelitis-enterovirus-d-68-cdc-2022-1849536384](https://gizmodo.com/acute-flaccid-myelitis-enterovirus-d-68-cdc-2022-1849536384)
  - date published: 2022-09-14T20:30:00+00:00
  - user: None
  - tags: []
 
-## A Virus That Can Cause Polio-Like Paralysis in Children Has Returned
- - [https://gizmodo.com/acute-flaccid-myelitis-enterovirus-d-68-cdc-2022-1849536384](https://gizmodo.com/acute-flaccid-myelitis-enterovirus-d-68-cdc-2022-1849536384)
+## How to Reduce Your Screen Time Without Apps, According to Reddit
+ - [https://lifehacker.com/how-to-reduce-your-screen-time-without-apps-according-1849536443](https://lifehacker.com/how-to-reduce-your-screen-time-without-apps-according-1849536443)
  - date published: 2022-09-14T20:30:00+00:00
  - user: None
  - tags: []
@@ -7156,17 +7156,17 @@
  - user: None
  - tags: ['electric vehicles', 'china', 'australia']
 
-## Microsoft tells companies to “re-recruit” employees to their positions
- - [https://www.codeproject.com/script/News/View.aspx?nwid=59012](https://www.codeproject.com/script/News/View.aspx?nwid=59012)
- - date published: 2022-09-27T04:00:00+00:00
- - user: None
- - tags: []
-
 ## The sad state of debug performance in C++
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59015](https://www.codeproject.com/script/News/View.aspx?nwid=59015)
  - date published: 2022-09-27T04:00:00+00:00
  - user: None
  - tags: ['c++', 'programming', 'performance', 'debug']
+
+## Microsoft tells companies to “re-recruit” employees to their positions
+ - [https://www.codeproject.com/script/News/View.aspx?nwid=59012](https://www.codeproject.com/script/News/View.aspx?nwid=59012)
+ - date published: 2022-09-27T04:00:00+00:00
+ - user: None
+ - tags: []
 
 ## W Poznaniu odbędzie się seks festiwal. W programie &quot;Dlaczego warto oglądać porno?&quot; i &quot;Przyszłość sex-zabawek jest niebinarna&quot;
  - [https://epoznan.pl/news-news-132809-w_poznaniu_odbedzie_sie_seks_festiwal_w_programie_dlaczego_warto_ogladac_porno_i_przyszlosc_sex_zabawek_jest_niebinarna?rss=1](https://epoznan.pl/news-news-132809-w_poznaniu_odbedzie_sie_seks_festiwal_w_programie_dlaczego_warto_ogladac_porno_i_przyszlosc_sex_zabawek_jest_niebinarna?rss=1)
@@ -9040,14 +9040,14 @@
  - user: None
  - tags: []
 
-## Harvard's robotic tentacle gripper is pure nightmare fuel
- - [https://www.codeproject.com/script/News/View.aspx?nwid=59308](https://www.codeproject.com/script/News/View.aspx?nwid=59308)
+## Passkeys—Microsoft, Apple, and Google’s password killer—are finally here
+ - [https://www.codeproject.com/script/News/View.aspx?nwid=59301](https://www.codeproject.com/script/News/View.aspx?nwid=59301)
  - date published: 2022-10-26T04:00:00+00:00
  - user: None
  - tags: []
 
-## Passkeys—Microsoft, Apple, and Google’s password killer—are finally here
- - [https://www.codeproject.com/script/News/View.aspx?nwid=59301](https://www.codeproject.com/script/News/View.aspx?nwid=59301)
+## Harvard's robotic tentacle gripper is pure nightmare fuel
+ - [https://www.codeproject.com/script/News/View.aspx?nwid=59308](https://www.codeproject.com/script/News/View.aspx?nwid=59308)
  - date published: 2022-10-26T04:00:00+00:00
  - user: None
  - tags: []
