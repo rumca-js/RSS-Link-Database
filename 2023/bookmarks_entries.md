@@ -280,14 +280,14 @@
  - user: rumpel
  - tags: ['corporatocracy', 'ad business', 'surveillance', 'gdpr', 'big brother']
 
-## Google’s quest to digitize troops’ tissue samples
- - [https://www.propublica.org/article/google-human-tissue-jpc-military](https://www.propublica.org/article/google-human-tissue-jpc-military)
+## Google obtains thousands of medical records from the Dept of Defense
+ - [https://gcaptain.com/us-navy-opens-medical-vault-for-google](https://gcaptain.com/us-navy-opens-medical-vault-for-google)
  - date published: 2023-01-05T23:15:09+00:00
  - user: rumpel
  - tags: ['google']
 
-## Google obtains thousands of medical records from the Dept of Defense
- - [https://gcaptain.com/us-navy-opens-medical-vault-for-google](https://gcaptain.com/us-navy-opens-medical-vault-for-google)
+## Google’s quest to digitize troops’ tissue samples
+ - [https://www.propublica.org/article/google-human-tissue-jpc-military](https://www.propublica.org/article/google-human-tissue-jpc-military)
  - date published: 2023-01-05T23:15:09+00:00
  - user: rumpel
  - tags: ['google']
@@ -2608,17 +2608,17 @@
  - user: rumpel
  - tags: ['tiktok', 'europe']
 
-## The Media's Reaction to Woody Harrelson's SNL Monologue
- - [https://www.youtube.com/watch?v=fJRGDW4lbss](https://www.youtube.com/watch?v=fJRGDW4lbss)
- - date published: 2023-03-01T00:00:00+00:00
- - user: rumpel
- - tags: ['woody harrelson', 'covid']
-
 ## Jordan Peterson about the german government (DeepFake AI)
  - [https://www.youtube.com/watch?v=ha3gfD7S0_E](https://www.youtube.com/watch?v=ha3gfD7S0_E)
  - date published: 2023-03-01T00:00:00+00:00
  - user: rumpel
  - tags: ['deepfake']
+
+## The Media's Reaction to Woody Harrelson's SNL Monologue
+ - [https://www.youtube.com/watch?v=fJRGDW4lbss](https://www.youtube.com/watch?v=fJRGDW4lbss)
+ - date published: 2023-03-01T00:00:00+00:00
+ - user: rumpel
+ - tags: ['woody harrelson', 'covid']
 
 ## Ford files patent to allow self-driving cars to drive away from owners who don't keep up with payments | PC Gamer
  - [https://www.pcgamer.com/ford-files-patent-to-allow-self-driving-cars-to-drive-away-from-their-owners](https://www.pcgamer.com/ford-files-patent-to-allow-self-driving-cars-to-drive-away-from-their-owners)
@@ -4286,7 +4286,7 @@
  - [https://www.fxmag.pl/artykul/czy-to-jest-zamach-na-wolnosc-finansowa-powstaje-pierwsza-miedzynarodowa-waluta-cyfrowa](https://www.fxmag.pl/artykul/czy-to-jest-zamach-na-wolnosc-finansowa-powstaje-pierwsza-miedzynarodowa-waluta-cyfrowa)
  - date published: 2023-04-18T13:33:09+00:00
  - user: rumpel
- - tags: ['cbdc', 'unicoin']
+ - tags: []
 
 ## Patti LuPone bashes Christian Right as no different from the Taliban in rant on 'The View': 'I could cry'
  - [https://www.foxnews.com/media/patti-lupone-bashes-christian-right-different-taliban-rant-the-view-could-cry](https://www.foxnews.com/media/patti-lupone-bashes-christian-right-different-taliban-rant-the-view-could-cry)
@@ -6438,17 +6438,17 @@
  - user: rumpel
  - tags: ['lineageos', 'raspberry pi', 'android']
 
-## Woke Trans Kids Doctor GETS CAREER ENDED In CONGRESS By BASED Psychiatrist With Scientific Evidence!
- - [https://www.youtube.com/watch?v=iJl7UywkArc](https://www.youtube.com/watch?v=iJl7UywkArc)
- - date published: 2023-06-16T00:00:00+00:00
- - user: rumpel
- - tags: ['transgender']
-
 ## Jak zrobić dobrą siekierę? Porady kowala Romka: "Ostrze wstawione równo w obuch tak jak strzelił"
  - [https://www.youtube.com/watch?v=SkKCS0pO87I](https://www.youtube.com/watch?v=SkKCS0pO87I)
  - date published: 2023-06-16T00:00:00+00:00
  - user: rumpel
  - tags: ['blacksmith', 'hobby']
+
+## Woke Trans Kids Doctor GETS CAREER ENDED In CONGRESS By BASED Psychiatrist With Scientific Evidence!
+ - [https://www.youtube.com/watch?v=iJl7UywkArc](https://www.youtube.com/watch?v=iJl7UywkArc)
+ - date published: 2023-06-16T00:00:00+00:00
+ - user: rumpel
+ - tags: ['transgender']
 
 ## Reddit is removing moderators that protest by taking their communities private
  - [https://old.reddit.com/r/ModCoord/comments/14aeq5j/new_admin_post_if_a_moderator_team_unanimously](https://old.reddit.com/r/ModCoord/comments/14aeq5j/new_admin_post_if_a_moderator_team_unanimously)
@@ -6588,14 +6588,14 @@
  - user: rumpel
  - tags: ['browser extensions']
 
-## Clickbait Remover for Youtube - Chrome Web Store
- - [https://chrome.google.com/webstore/detail/clickbait-remover-for-you/omoinegiohhgbikclijaniebjpkeopip](https://chrome.google.com/webstore/detail/clickbait-remover-for-you/omoinegiohhgbikclijaniebjpkeopip)
+## Unhook - Remove YouTube Recommended Videos - Chrome Web Store
+ - [https://chrome.google.com/webstore/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid](https://chrome.google.com/webstore/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid)
  - date published: 2023-06-21T06:42:23+00:00
  - user: rumpel
  - tags: ['browser extensions']
 
-## Unhook - Remove YouTube Recommended Videos - Chrome Web Store
- - [https://chrome.google.com/webstore/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid](https://chrome.google.com/webstore/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid)
+## Clickbait Remover for Youtube - Chrome Web Store
+ - [https://chrome.google.com/webstore/detail/clickbait-remover-for-you/omoinegiohhgbikclijaniebjpkeopip](https://chrome.google.com/webstore/detail/clickbait-remover-for-you/omoinegiohhgbikclijaniebjpkeopip)
  - date published: 2023-06-21T06:42:23+00:00
  - user: rumpel
  - tags: ['browser extensions']
@@ -7468,7 +7468,7 @@
  - [https://summit.news/2023/07/19/youtube-is-pulling-sound-of-freedom-interviews-reviews](https://summit.news/2023/07/19/youtube-is-pulling-sound-of-freedom-interviews-reviews)
  - date published: 2023-07-19T14:10:03+00:00
  - user: rumpel
- - tags: ['censorship', 'youtube', 'sound of freedom']
+ - tags: []
 
 ## Flying in Europe up to 30 times cheaper than train, says Greenpeace
  - [https://www.theguardian.com/environment/2023/jul/20/flying-in-europe-up-to-30-times-cheaper-than-train-says-greenpeace](https://www.theguardian.com/environment/2023/jul/20/flying-in-europe-up-to-30-times-cheaper-than-train-says-greenpeace)
@@ -7624,7 +7624,7 @@
  - [https://www.youtube.com/watch?v=tZ8xuQnpvIE](https://www.youtube.com/watch?v=tZ8xuQnpvIE)
  - date published: 2023-07-23T00:00:00+00:00
  - user: rumpel
- - tags: ['ad business', 'technofeudalism', 'subscription', 'youtube']
+ - tags: []
 
 ## Web Environment Integrity API Proposal | Hacker News
  - [https://news.ycombinator.com/item?id=36817305](https://news.ycombinator.com/item?id=36817305)
@@ -8088,17 +8088,17 @@
  - user: rumpel
  - tags: ['blackrock', 'plutocracy', 'esg', 'vanguard']
 
-## Pfizer can't explain why their Covid Vax causes myocarditis - Senate Estimates 3.8.23
- - [https://www.youtube.com/watch?v=yNSCQyPv-7U](https://www.youtube.com/watch?v=yNSCQyPv-7U)
- - date published: 2023-08-04T00:00:00+00:00
- - user: rumpel
- - tags: ['covid', 'vaccine', 'pfizer']
-
 ## Pfizer claims no one was forced to get the Jab
  - [https://www.youtube.com/watch?v=Vm9dfzGt9FI](https://www.youtube.com/watch?v=Vm9dfzGt9FI)
  - date published: 2023-08-04T00:00:00+00:00
  - user: rumpel
  - tags: ['pfizer', 'covid mandates', 'pandemic amnesty', 'covid', 'vaccine']
+
+## Pfizer can't explain why their Covid Vax causes myocarditis - Senate Estimates 3.8.23
+ - [https://www.youtube.com/watch?v=yNSCQyPv-7U](https://www.youtube.com/watch?v=yNSCQyPv-7U)
+ - date published: 2023-08-04T00:00:00+00:00
+ - user: rumpel
+ - tags: ['covid', 'vaccine', 'pfizer']
 
 ## Remixes | AmigaRemix
  - [https://www.amigaremix.com](https://www.amigaremix.com)
