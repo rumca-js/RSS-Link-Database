@@ -418,17 +418,17 @@
  - user: rumpel
  - tags: []
 
-## Soros, Facebook, And Omidyar Money Behind Attacks On German Farmers
- - [https://public.substack.com/p/soros-facebook-and-omidyar-money](https://public.substack.com/p/soros-facebook-and-omidyar-money)
- - date published: 2024-01-30T00:00:00+00:00
- - user: rumpel
- - tags: ['disinformation', 'george soros', 'misinformation', 'facebook']
-
 ## A passenger who caused fighter jets to flank an airliner after he privately joked about blowing up the plane was cleared and avoided a $120,000 bill
  - [https://www.businessinsider.com/passenger-avoids-120k-bill-after-bomb-joke-scrambled-fighter-jets-2024-1?IR=T](https://www.businessinsider.com/passenger-avoids-120k-bill-after-bomb-joke-scrambled-fighter-jets-2024-1?IR=T)
  - date published: 2024-01-30T00:00:00+00:00
  - user: rumpel
  - tags: ['orwell', 'privacy', 'big brother', 'surveillance']
+
+## Soros, Facebook, And Omidyar Money Behind Attacks On German Farmers
+ - [https://public.substack.com/p/soros-facebook-and-omidyar-money](https://public.substack.com/p/soros-facebook-and-omidyar-money)
+ - date published: 2024-01-30T00:00:00+00:00
+ - user: rumpel
+ - tags: ['disinformation', 'george soros', 'misinformation', 'facebook']
 
 ## Flynn effect - Wikipedia
  - [https://en.wikipedia.org/wiki/Flynn_effect](https://en.wikipedia.org/wiki/Flynn_effect)
@@ -640,17 +640,17 @@
  - user: rumpel
  - tags: ['racism']
 
-## Spanish soldiers change gender to gain benefits intended for women
- - [https://www.telegraph.co.uk/news/2024/03/05/spanish-soldiers-change-gender-benefits-for-women](https://www.telegraph.co.uk/news/2024/03/05/spanish-soldiers-change-gender-benefits-for-women)
- - date published: 2024-03-05T00:00:00+00:00
- - user: rumpel
- - tags: ['gender']
-
 ## Want money off North Face clothing? You’ll have to complete a ‘racial inclusion’ course first
  - [https://www.telegraph.co.uk/news/2024/03/05/the-north-face-discount-racial-inclusion-course-outdoors](https://www.telegraph.co.uk/news/2024/03/05/the-north-face-discount-racial-inclusion-course-outdoors)
  - date published: 2024-03-05T00:00:00+00:00
  - user: rumpel
  - tags: ['propaganda', 'racism', 'diversity']
+
+## Spanish soldiers change gender to gain benefits intended for women
+ - [https://www.telegraph.co.uk/news/2024/03/05/spanish-soldiers-change-gender-benefits-for-women](https://www.telegraph.co.uk/news/2024/03/05/spanish-soldiers-change-gender-benefits-for-women)
+ - date published: 2024-03-05T00:00:00+00:00
+ - user: rumpel
+ - tags: ['gender']
 
 ## Global Population Crash Isn't Sci-Fi Anymore
  - [https://www.bloomberg.com/opinion/articles/2024-03-10/global-population-collapse-isn-t-sci-fi-anymore-niall-ferguson](https://www.bloomberg.com/opinion/articles/2024-03-10/global-population-collapse-isn-t-sci-fi-anymore-niall-ferguson)

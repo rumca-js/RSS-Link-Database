@@ -1968,14 +1968,14 @@
  - user: None
  - tags: ['linux']
 
-## Science vs. Soyence
- - [https://lukesmith.xyz/articles/science-vs-soyence](https://lukesmith.xyz/articles/science-vs-soyence)
+## Command Line Bibles
+ - [https://lukesmith.xyz/articles/command-line-bibles](https://lukesmith.xyz/articles/command-line-bibles)
  - date published: 2020-12-11T00:00:00+00:00
  - user: None
  - tags: []
 
-## Command Line Bibles
- - [https://lukesmith.xyz/articles/command-line-bibles](https://lukesmith.xyz/articles/command-line-bibles)
+## Why I Use the GPL and Not Cuck Licenses
+ - [https://lukesmith.xyz/articles/why-i-use-the-gpl-and-not-cuck-licenses](https://lukesmith.xyz/articles/why-i-use-the-gpl-and-not-cuck-licenses)
  - date published: 2020-12-11T00:00:00+00:00
  - user: None
  - tags: []
@@ -1986,8 +1986,8 @@
  - user: None
  - tags: []
 
-## Why I Use the GPL and Not Cuck Licenses
- - [https://lukesmith.xyz/articles/why-i-use-the-gpl-and-not-cuck-licenses](https://lukesmith.xyz/articles/why-i-use-the-gpl-and-not-cuck-licenses)
+## Science vs. Soyence
+ - [https://lukesmith.xyz/articles/science-vs-soyence](https://lukesmith.xyz/articles/science-vs-soyence)
  - date published: 2020-12-11T00:00:00+00:00
  - user: None
  - tags: []
