@@ -470,7 +470,7 @@
  - [https://summit.news/2019/07/05/cbc-accused-of-sexualizing-children-after-promoting-drag-kids-documentary](https://summit.news/2019/07/05/cbc-accused-of-sexualizing-children-after-promoting-drag-kids-documentary)
  - date published: 2019-07-05T08:18:45+00:00
  - user: rumpel
- - tags: ['children', 'sexualization']
+ - tags: []
 
 ## Koniec naszego świata
  - [https://www.tvp.info/43374228/koniec-naszego-swiata](https://www.tvp.info/43374228/koniec-naszego-swiata)
@@ -896,7 +896,7 @@
  - [https://bigthink.com/the-present/nazis-occult](https://bigthink.com/the-present/nazis-occult)
  - date published: 2019-10-06T08:03:35+00:00
  - user: rumpel
- - tags: ['nazi', 'himmler', 'occult']
+ - tags: []
 
 ## Americans’ Views of ‘Socialism’ and ‘Capitalism’ In Their Own Words | Pew Research Center
  - [https://www.pewresearch.org/politics/2019/10/07/in-their-own-words-behind-americans-views-of-socialism-and-capitalism](https://www.pewresearch.org/politics/2019/10/07/in-their-own-words-behind-americans-views-of-socialism-and-capitalism)
@@ -1160,7 +1160,7 @@
  - [https://bigthink.com/strange-maps/coudenhove-kalergi-map](https://bigthink.com/strange-maps/coudenhove-kalergi-map)
  - date published: 2019-12-12T10:19:51+00:00
  - user: rumpel
- - tags: ['the right wing', 'coudenhove-kalergi', 'european union']
+ - tags: []
 
 ## New York public school rejects student Christian club, OKs LGBT Pride Club
  - [https://www.christianpost.com/news/new-york-public-school-rejects-student-christian-club-oks-lgbt-pride-club.html?fbclid=IwAR0XGOCi2lUIsLetSjnCZN91O05rCeaWGsR0z2E5dBtfH_E-2OEFqVqi3eA](https://www.christianpost.com/news/new-york-public-school-rejects-student-christian-club-oks-lgbt-pride-club.html?fbclid=IwAR0XGOCi2lUIsLetSjnCZN91O05rCeaWGsR0z2E5dBtfH_E-2OEFqVqi3eA)

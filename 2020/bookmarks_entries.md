@@ -1086,11 +1086,11 @@
  - user: rumpel
  - tags: ['indoctrination', 'america', 'racism', 'the left wing']
 
-## The Leaked BLM School Materials Are Insane
- - [https://www.youtube.com/watch?v=jyRjbK-yKSk](https://www.youtube.com/watch?v=jyRjbK-yKSk)
+## Black Lives Matter is a Domestic Terrorist Organization | Change My Mind
+ - [https://www.youtube.com/watch?v=yITK_Bm78mI](https://www.youtube.com/watch?v=yITK_Bm78mI)
  - date published: 2020-08-11T00:00:00+00:00
  - user: rumpel
- - tags: ['black lives matter', 'indoctrination', 'the left wing']
+ - tags: ['black lives matter', 'terrorism', 'extremism']
 
 ## How To Read MORE!
  - [https://www.youtube.com/watch?v=asvhBpSSDbA](https://www.youtube.com/watch?v=asvhBpSSDbA)
@@ -1098,11 +1098,11 @@
  - user: rumpel
  - tags: ['books']
 
-## Black Lives Matter is a Domestic Terrorist Organization | Change My Mind
- - [https://www.youtube.com/watch?v=yITK_Bm78mI](https://www.youtube.com/watch?v=yITK_Bm78mI)
+## The Leaked BLM School Materials Are Insane
+ - [https://www.youtube.com/watch?v=jyRjbK-yKSk](https://www.youtube.com/watch?v=jyRjbK-yKSk)
  - date published: 2020-08-11T00:00:00+00:00
  - user: rumpel
- - tags: ['black lives matter', 'terrorism', 'extremism']
+ - tags: ['black lives matter', 'indoctrination', 'the left wing']
 
 ## Why your 'Carbon Footprint' Is A Lie | Climate Town
  - [https://www.youtube.com/watch?v=1J9LOqiXdpE](https://www.youtube.com/watch?v=1J9LOqiXdpE)
@@ -1962,20 +1962,14 @@
  - user: None
  - tags: ['privacy', 'australia', 'surveillance', 'big brother', 'surveillance bill']
 
-## Only Use Old Computers!
- - [https://lukesmith.xyz/articles/only-use-old-computers](https://lukesmith.xyz/articles/only-use-old-computers)
- - date published: 2020-12-11T00:00:00+00:00
- - user: None
- - tags: ['linux']
-
-## Command Line Bibles
- - [https://lukesmith.xyz/articles/command-line-bibles](https://lukesmith.xyz/articles/command-line-bibles)
+## Why I Use the GPL and Not Cuck Licenses
+ - [https://lukesmith.xyz/articles/why-i-use-the-gpl-and-not-cuck-licenses](https://lukesmith.xyz/articles/why-i-use-the-gpl-and-not-cuck-licenses)
  - date published: 2020-12-11T00:00:00+00:00
  - user: None
  - tags: []
 
-## Why I Use the GPL and Not Cuck Licenses
- - [https://lukesmith.xyz/articles/why-i-use-the-gpl-and-not-cuck-licenses](https://lukesmith.xyz/articles/why-i-use-the-gpl-and-not-cuck-licenses)
+## Science vs. Soyence
+ - [https://lukesmith.xyz/articles/science-vs-soyence](https://lukesmith.xyz/articles/science-vs-soyence)
  - date published: 2020-12-11T00:00:00+00:00
  - user: None
  - tags: []
@@ -1986,11 +1980,17 @@
  - user: None
  - tags: []
 
-## Science vs. Soyence
- - [https://lukesmith.xyz/articles/science-vs-soyence](https://lukesmith.xyz/articles/science-vs-soyence)
+## Command Line Bibles
+ - [https://lukesmith.xyz/articles/command-line-bibles](https://lukesmith.xyz/articles/command-line-bibles)
  - date published: 2020-12-11T00:00:00+00:00
  - user: None
  - tags: []
+
+## Only Use Old Computers!
+ - [https://lukesmith.xyz/articles/only-use-old-computers](https://lukesmith.xyz/articles/only-use-old-computers)
+ - date published: 2020-12-11T00:00:00+00:00
+ - user: None
+ - tags: ['linux']
 
 ## Szwecja. Zabójstwo honorowe w autobusie pełnym ludzi. Ojciec i synowie skazani - Polsat News
  - [https://www.polsatnews.pl/wiadomosc/2020-12-11/szwecja-zabojstwo-honorowe-w-autobusie-pelnym-ludzi-ojciec-i-synowie-skazani/?ref=aside_najnowsze](https://www.polsatnews.pl/wiadomosc/2020-12-11/szwecja-zabojstwo-honorowe-w-autobusie-pelnym-ludzi-ojciec-i-synowie-skazani/?ref=aside_najnowsze)
