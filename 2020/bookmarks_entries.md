@@ -1962,8 +1962,8 @@
  - user: None
  - tags: ['privacy', 'australia', 'surveillance', 'big brother', 'surveillance bill']
 
-## Why I Use the GPL and Not Cuck Licenses
- - [https://lukesmith.xyz/articles/why-i-use-the-gpl-and-not-cuck-licenses](https://lukesmith.xyz/articles/why-i-use-the-gpl-and-not-cuck-licenses)
+## The Fragility of Physics
+ - [https://lukesmith.xyz/articles/the-fragility-of-physics](https://lukesmith.xyz/articles/the-fragility-of-physics)
  - date published: 2020-12-11T00:00:00+00:00
  - user: None
  - tags: []
@@ -1974,8 +1974,14 @@
  - user: None
  - tags: []
 
-## The Fragility of Physics
- - [https://lukesmith.xyz/articles/the-fragility-of-physics](https://lukesmith.xyz/articles/the-fragility-of-physics)
+## Only Use Old Computers!
+ - [https://lukesmith.xyz/articles/only-use-old-computers](https://lukesmith.xyz/articles/only-use-old-computers)
+ - date published: 2020-12-11T00:00:00+00:00
+ - user: None
+ - tags: ['linux']
+
+## Why I Use the GPL and Not Cuck Licenses
+ - [https://lukesmith.xyz/articles/why-i-use-the-gpl-and-not-cuck-licenses](https://lukesmith.xyz/articles/why-i-use-the-gpl-and-not-cuck-licenses)
  - date published: 2020-12-11T00:00:00+00:00
  - user: None
  - tags: []
@@ -1985,12 +1991,6 @@
  - date published: 2020-12-11T00:00:00+00:00
  - user: None
  - tags: []
-
-## Only Use Old Computers!
- - [https://lukesmith.xyz/articles/only-use-old-computers](https://lukesmith.xyz/articles/only-use-old-computers)
- - date published: 2020-12-11T00:00:00+00:00
- - user: None
- - tags: ['linux']
 
 ## Szwecja. Zabójstwo honorowe w autobusie pełnym ludzi. Ojciec i synowie skazani - Polsat News
  - [https://www.polsatnews.pl/wiadomosc/2020-12-11/szwecja-zabojstwo-honorowe-w-autobusie-pelnym-ludzi-ojciec-i-synowie-skazani/?ref=aside_najnowsze](https://www.polsatnews.pl/wiadomosc/2020-12-11/szwecja-zabojstwo-honorowe-w-autobusie-pelnym-ludzi-ojciec-i-synowie-skazani/?ref=aside_najnowsze)
