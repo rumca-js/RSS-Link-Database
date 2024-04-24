@@ -58,17 +58,17 @@
  - user: rumpel
  - tags: ['seo', 'search engines']
 
-## Introducing r1
- - [https://www.youtube.com/watch?v=22wlLy7hKP4](https://www.youtube.com/watch?v=22wlLy7hKP4)
- - date published: 2024-01-09T00:00:00+00:00
- - user: rumpel
- - tags: ['artificial intelligence']
-
 ## Alleged EasyJet bomb hoaxer is a teen chess star with a place at Cambridge who said he'd 'blow this plane up' in a Snapchat post, reports say
  - [https://www.businessinsider.com/bomb-hoaxer-easyjet-teenage-chess-star-barred-spain-2022-7?IR=T](https://www.businessinsider.com/bomb-hoaxer-easyjet-teenage-chess-star-barred-spain-2022-7?IR=T)
  - date published: 2024-01-09T00:00:00+00:00
  - user: rumpel
  - tags: ['privacy', 'surveillance', 'technofeudalism']
+
+## Introducing r1
+ - [https://www.youtube.com/watch?v=22wlLy7hKP4](https://www.youtube.com/watch?v=22wlLy7hKP4)
+ - date published: 2024-01-09T00:00:00+00:00
+ - user: rumpel
+ - tags: ['artificial intelligence']
 
 ## Where Have All the Websites Gone?
  - [https://www.fromjason.xyz/p/notebook/where-have-all-the-websites-gone](https://www.fromjason.xyz/p/notebook/where-have-all-the-websites-gone)
@@ -418,17 +418,17 @@
  - user: rumpel
  - tags: []
 
-## A passenger who caused fighter jets to flank an airliner after he privately joked about blowing up the plane was cleared and avoided a $120,000 bill
- - [https://www.businessinsider.com/passenger-avoids-120k-bill-after-bomb-joke-scrambled-fighter-jets-2024-1?IR=T](https://www.businessinsider.com/passenger-avoids-120k-bill-after-bomb-joke-scrambled-fighter-jets-2024-1?IR=T)
- - date published: 2024-01-30T00:00:00+00:00
- - user: rumpel
- - tags: ['orwell', 'privacy', 'big brother', 'surveillance']
-
 ## Soros, Facebook, And Omidyar Money Behind Attacks On German Farmers
  - [https://public.substack.com/p/soros-facebook-and-omidyar-money](https://public.substack.com/p/soros-facebook-and-omidyar-money)
  - date published: 2024-01-30T00:00:00+00:00
  - user: rumpel
  - tags: ['disinformation', 'george soros', 'misinformation', 'facebook']
+
+## A passenger who caused fighter jets to flank an airliner after he privately joked about blowing up the plane was cleared and avoided a $120,000 bill
+ - [https://www.businessinsider.com/passenger-avoids-120k-bill-after-bomb-joke-scrambled-fighter-jets-2024-1?IR=T](https://www.businessinsider.com/passenger-avoids-120k-bill-after-bomb-joke-scrambled-fighter-jets-2024-1?IR=T)
+ - date published: 2024-01-30T00:00:00+00:00
+ - user: rumpel
+ - tags: ['orwell', 'privacy', 'big brother', 'surveillance']
 
 ## Flynn effect - Wikipedia
  - [https://en.wikipedia.org/wiki/Flynn_effect](https://en.wikipedia.org/wiki/Flynn_effect)
@@ -819,4 +819,16 @@
  - date published: 2024-04-18T16:39:12+00:00
  - user: rumpel
  - tags: ['disinformation', 'katherine maher', 'anti-white']
+
+## Most dating apps sell and share users' personal data
+ - [https://foundation.mozilla.org/en/privacynotincluded/articles/data-hungry-dating-apps-are-worse-than-ever-for-your-privacy](https://foundation.mozilla.org/en/privacynotincluded/articles/data-hungry-dating-apps-are-worse-than-ever-for-your-privacy)
+ - date published: 2024-04-23T13:49:45+00:00
+ - user: None
+ - tags: ['privacy']
+
+## The Man Who Killed Google Search
+ - [https://www.wheresyoured.at/the-men-who-killed-google](https://www.wheresyoured.at/the-men-who-killed-google)
+ - date published: 2024-04-23T16:43:59+00:00
+ - user: None
+ - tags: ['google search', 'search engines']
 

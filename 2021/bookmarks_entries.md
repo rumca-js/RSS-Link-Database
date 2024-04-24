@@ -124,7 +124,7 @@
  - [https://polityko.com/2021/01/13/cyberfaszyzm](https://polityko.com/2021/01/13/cyberfaszyzm)
  - date published: 2021-01-13T13:15:58+00:00
  - user: rumpel
- - tags: ['hunter biden', 'surveillance', 'censorship', 'big brother', 'big tech', 'privacy']
+ - tags: []
 
 ## How Facebook and Twitter decided to take down Trump's accounts
  - [https://www.nbcnews.com/tech/tech-news/how-facebook-twitter-decided-take-down-trump-s-accounts-n1254317](https://www.nbcnews.com/tech/tech-news/how-facebook-twitter-decided-take-down-trump-s-accounts-n1254317)
@@ -478,7 +478,7 @@
  - [https://policetribune.com/portland-rioters-try-set-fire-to-federal-courthouse-hours-after-security-fence-is-removed](https://policetribune.com/portland-rioters-try-set-fire-to-federal-courthouse-hours-after-security-fence-is-removed)
  - date published: 2021-03-12T19:26:38+00:00
  - user: rumpel
- - tags: ['protest', 'black lives matter', 'defund the police']
+ - tags: []
 
 ## Johnny Harris: A Story of YouTube Propaganda
  - [https://www.youtube.com/watch?v=Dum0bqWfiGw](https://www.youtube.com/watch?v=Dum0bqWfiGw)
@@ -924,17 +924,17 @@
  - user: None
  - tags: []
 
-## The Problems with Utilitarianism
- - [https://lukesmith.xyz/articles/the-problems-with-utilitarianism](https://lukesmith.xyz/articles/the-problems-with-utilitarianism)
- - date published: 2021-05-05T00:00:00+00:00
- - user: None
- - tags: []
-
 ## Conspiratorial Thinking and "Multiple Outs"
  - [https://lukesmith.xyz/articles/conspiratorial-thinking-and-multiple-outs](https://lukesmith.xyz/articles/conspiratorial-thinking-and-multiple-outs)
  - date published: 2021-05-05T00:00:00+00:00
  - user: None
  - tags: ['conspiracy theory']
+
+## The Problems with Utilitarianism
+ - [https://lukesmith.xyz/articles/the-problems-with-utilitarianism](https://lukesmith.xyz/articles/the-problems-with-utilitarianism)
+ - date published: 2021-05-05T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Prezydent Estonii w Polsat News: nie powinniśmy wracać do świata sprzed pandemii
  - [https://www.polsatnews.pl/wiadomosc/2021-05-05/prezydent-estonii-w-polsat-news-nie-powinnismy-wracac-do-swiata-sprzed-pandemii](https://www.polsatnews.pl/wiadomosc/2021-05-05/prezydent-estonii-w-polsat-news-nie-powinnismy-wracac-do-swiata-sprzed-pandemii)
@@ -1030,7 +1030,7 @@
  - [https://www.newsweek.com/neuroscience-professor-removed-apa-discussion-after-saying-there-are-only-two-genders-1591697](https://www.newsweek.com/neuroscience-professor-removed-apa-discussion-after-saying-there-are-only-two-genders-1591697)
  - date published: 2021-05-14T20:54:35+00:00
  - user: rumpel
- - tags: ['censorship', 'the left wing', 'gender', 'science is dead', 'intolerance']
+ - tags: []
 
 ## Video platform chief says Nazi posts on white superiority do not merit removal
  - [https://www.theguardian.com/world/2021/may/14/odysee-video-platform-nazi-content-not-grounds-for-removal](https://www.theguardian.com/world/2021/may/14/odysee-video-platform-nazi-content-not-grounds-for-removal)
@@ -1372,7 +1372,7 @@
  - [https://pubmedinfo.org/2021/06/16/kiedy-who-zmienila-definicje-odpornosci-stada](https://pubmedinfo.org/2021/06/16/kiedy-who-zmienila-definicje-odpornosci-stada)
  - date published: 2021-06-16T22:12:17+00:00
  - user: rumpel
- - tags: ['covid', 'who', 'herd immunity']
+ - tags: []
 
 ## Sidewalk: The Next Frontier Of Amazon’s Surveillance Infrastructure | ACLU
  - [https://www.aclu.org/news/privacy-technology/sidewalk-the-next-frontier-of-amazons-surveillance-infrastructure](https://www.aclu.org/news/privacy-technology/sidewalk-the-next-frontier-of-amazons-surveillance-infrastructure)
@@ -1528,7 +1528,7 @@
  - [https://www.redvoicemedia.com/2021/07/coke-faces-down-most-serious-backlash-yet-for-their-woke-agenda](https://www.redvoicemedia.com/2021/07/coke-faces-down-most-serious-backlash-yet-for-their-woke-agenda)
  - date published: 2021-07-02T09:10:14+00:00
  - user: rumpel
- - tags: ['coke', 'go woke go broke', 'the left wing']
+ - tags: []
 
 ## Here's a Look Inside Facebook's Data Wars - The New York Times
  - [https://www.nytimes.com/2021/07/14/technology/facebook-data.html](https://www.nytimes.com/2021/07/14/technology/facebook-data.html)
@@ -2536,7 +2536,7 @@
  - [https://www.bloomberg.com/news/articles/2021-08-19/onlyfans-to-block-sexually-explicit-videos-starting-in-october](https://www.bloomberg.com/news/articles/2021-08-19/onlyfans-to-block-sexually-explicit-videos-starting-in-october)
  - date published: 2021-08-20T11:55:58.064635+00:00
  - user: Thomas Pain
- - tags: ['onlyfans', 'technofeudalism']
+ - tags: []
 
 ## ImageNet contains naturally occurring NeuralHash collisions
  - [https://blog.roboflow.com/nerualhash-collision](https://blog.roboflow.com/nerualhash-collision)
@@ -4290,14 +4290,14 @@
  - user: Thomas Pain
  - tags: []
 
-## What is AT&T doing at 1111340002?
- - [https://scribe.rip/telecom-expert/what-is-at-t-doing-at-1111340002-c418876c212c](https://scribe.rip/telecom-expert/what-is-at-t-doing-at-1111340002-c418876c212c)
+## incolumitas.com – So you want to Scrape like the Big Boys? 🚀
+ - [https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys](https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys)
  - date published: 2021-11-06T08:07:19.990899+00:00
  - user: Thomas Pain
  - tags: []
 
-## incolumitas.com – So you want to Scrape like the Big Boys? 🚀
- - [https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys](https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys)
+## What is AT&T doing at 1111340002?
+ - [https://scribe.rip/telecom-expert/what-is-at-t-doing-at-1111340002-c418876c212c](https://scribe.rip/telecom-expert/what-is-at-t-doing-at-1111340002-c418876c212c)
  - date published: 2021-11-06T08:07:19.990899+00:00
  - user: Thomas Pain
  - tags: []
@@ -4522,7 +4522,7 @@
  - [https://www.thefp.com/p/the-medias-verdict-on-kyle-rittenhouse](https://www.thefp.com/p/the-medias-verdict-on-kyle-rittenhouse)
  - date published: 2021-11-17T09:05:24+00:00
  - user: rumpel
- - tags: ['kyle rittenhouse', 'media bias', 'propaganda', 'the left wing']
+ - tags: []
 
 ## Rekord czwartej fali. Dr Grzesiowski: Jak nie będzie ograniczeń, wymrze 10 proc. społeczeństwa w wieku 50+
  - [https://warszawa.wyborcza.pl/warszawa/7,54420,27815584,dr-grzesiowski-jesli-rzad-nie-zmieni-strategii-epidemia-sie.html](https://warszawa.wyborcza.pl/warszawa/7,54420,27815584,dr-grzesiowski-jesli-rzad-nie-zmieni-strategii-epidemia-sie.html)
@@ -4960,7 +4960,7 @@
  - [/next/7,173953,27885941,cos-dziwnego-wychodzi-z-danych-o-zgonach-na-covid-19-rozne.html](/next/7,173953,27885941,cos-dziwnego-wychodzi-z-danych-o-zgonach-na-covid-19-rozne.html)
  - date published: 2021-12-07T13:36:27+00:00
  - user: None
- - tags: ['statistics', 'covid']
+ - tags: []
 
 ## Evidence from Jeffrey Epstein's safe 'went missing' after FBI raid, court hears in Ghislaine Maxwell trial
  - [https://www.telegraph.co.uk/world-news/2021/12/07/evidence-jeffrey-epsteins-safe-went-missing-fbi-raid-court-hears](https://www.telegraph.co.uk/world-news/2021/12/07/evidence-jeffrey-epsteins-safe-went-missing-fbi-raid-court-hears)

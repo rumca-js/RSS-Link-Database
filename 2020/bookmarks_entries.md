@@ -1086,6 +1086,12 @@
  - user: rumpel
  - tags: ['indoctrination', 'america', 'racism', 'the left wing']
 
+## The Leaked BLM School Materials Are Insane
+ - [https://www.youtube.com/watch?v=jyRjbK-yKSk](https://www.youtube.com/watch?v=jyRjbK-yKSk)
+ - date published: 2020-08-11T00:00:00+00:00
+ - user: rumpel
+ - tags: []
+
 ## Black Lives Matter is a Domestic Terrorist Organization | Change My Mind
  - [https://www.youtube.com/watch?v=yITK_Bm78mI](https://www.youtube.com/watch?v=yITK_Bm78mI)
  - date published: 2020-08-11T00:00:00+00:00
@@ -1097,12 +1103,6 @@
  - date published: 2020-08-11T00:00:00+00:00
  - user: rumpel
  - tags: ['books']
-
-## The Leaked BLM School Materials Are Insane
- - [https://www.youtube.com/watch?v=jyRjbK-yKSk](https://www.youtube.com/watch?v=jyRjbK-yKSk)
- - date published: 2020-08-11T00:00:00+00:00
- - user: rumpel
- - tags: ['black lives matter', 'indoctrination', 'the left wing']
 
 ## Why your 'Carbon Footprint' Is A Lie | Climate Town
  - [https://www.youtube.com/watch?v=1J9LOqiXdpE](https://www.youtube.com/watch?v=1J9LOqiXdpE)
@@ -1962,14 +1962,14 @@
  - user: None
  - tags: ['privacy', 'australia', 'surveillance', 'big brother', 'surveillance bill']
 
-## The Fragility of Physics
- - [https://lukesmith.xyz/articles/the-fragility-of-physics](https://lukesmith.xyz/articles/the-fragility-of-physics)
+## Command Line Bibles
+ - [https://lukesmith.xyz/articles/command-line-bibles](https://lukesmith.xyz/articles/command-line-bibles)
  - date published: 2020-12-11T00:00:00+00:00
  - user: None
  - tags: []
 
-## Science vs. Soyence
- - [https://lukesmith.xyz/articles/science-vs-soyence](https://lukesmith.xyz/articles/science-vs-soyence)
+## Why I Use the GPL and Not Cuck Licenses
+ - [https://lukesmith.xyz/articles/why-i-use-the-gpl-and-not-cuck-licenses](https://lukesmith.xyz/articles/why-i-use-the-gpl-and-not-cuck-licenses)
  - date published: 2020-12-11T00:00:00+00:00
  - user: None
  - tags: []
@@ -1980,14 +1980,14 @@
  - user: None
  - tags: ['linux']
 
-## Why I Use the GPL and Not Cuck Licenses
- - [https://lukesmith.xyz/articles/why-i-use-the-gpl-and-not-cuck-licenses](https://lukesmith.xyz/articles/why-i-use-the-gpl-and-not-cuck-licenses)
+## The Fragility of Physics
+ - [https://lukesmith.xyz/articles/the-fragility-of-physics](https://lukesmith.xyz/articles/the-fragility-of-physics)
  - date published: 2020-12-11T00:00:00+00:00
  - user: None
  - tags: []
 
-## Command Line Bibles
- - [https://lukesmith.xyz/articles/command-line-bibles](https://lukesmith.xyz/articles/command-line-bibles)
+## Science vs. Soyence
+ - [https://lukesmith.xyz/articles/science-vs-soyence](https://lukesmith.xyz/articles/science-vs-soyence)
  - date published: 2020-12-11T00:00:00+00:00
  - user: None
  - tags: []
@@ -2128,7 +2128,7 @@
  - [https://summit.news/2020/12/22/french-law-would-ban-people-who-dont-get-covid-vaccine-from-using-public-transport](https://summit.news/2020/12/22/french-law-would-ban-people-who-dont-get-covid-vaccine-from-using-public-transport)
  - date published: 2020-12-22T22:07:50+00:00
  - user: rumpel
- - tags: ['covid', 'france', 'covid mandates', 'vaccine']
+ - tags: []
 
 ## Zoom Shared US User Data With Beijing
  - [https://www.ntd.com/zoom-shared-us-user-data-with-beijing_544087.html](https://www.ntd.com/zoom-shared-us-user-data-with-beijing_544087.html)
@@ -2224,7 +2224,7 @@
  - [https://summit.news/2020/12/30/uk-woman-arrested-for-filming-inside-empty-hospital](https://summit.news/2020/12/30/uk-woman-arrested-for-filming-inside-empty-hospital)
  - date published: 2020-12-30T07:29:04+00:00
  - user: None
- - tags: ['covid', 'big brother']
+ - tags: []
 
 ## Hiszpania: Rodzina odmówi zaszczepienia seniora? Może stracić nad nim opiekę
  - [https://www.rmf24.pl/raporty/raport-koronawirus-z-chin/europa/news-hiszpania-rodzina-odmowi-zaszczepienia-seniora-moze-stracic-,nId,4957585](https://www.rmf24.pl/raporty/raport-koronawirus-z-chin/europa/news-hiszpania-rodzina-odmowi-zaszczepienia-seniora-moze-stracic-,nId,4957585)

@@ -278,7 +278,7 @@
  - [https://www.youtube.com/watch?v=4hJ0lsQvLiQ](https://www.youtube.com/watch?v=4hJ0lsQvLiQ)
  - date published: 2014-11-27T00:00:00+00:00
  - user: rumpel
- - tags: ['islam', 'religion']
+ - tags: []
 
 ## Gain-of-function experiments: time for a real debate - PMC
  - [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7097416](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7097416)

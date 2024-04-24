@@ -26,7 +26,7 @@
  - [https://menhavingbabies.org/surrogacy-seminars/brussels](https://menhavingbabies.org/surrogacy-seminars/brussels)
  - date published: 2023-01-01T08:46:07+00:00
  - user: rumpel
- - tags: ['lgbt', 'the left wing', 'surrogacy', 'children']
+ - tags: []
 
 ## Mikroplastiki to poważny problem, ale ten filtr go rozwiąże
  - [https://www.chip.pl/2023/01/filtr-usuwajacy-mikroplastiki-z-wody](https://www.chip.pl/2023/01/filtr-usuwajacy-mikroplastiki-z-wody)
@@ -38,7 +38,7 @@
  - [https://www.goldmansachs.com/careers/students/programs/emea/lgbt-student-possibility-program.html](https://www.goldmansachs.com/careers/students/programs/emea/lgbt-student-possibility-program.html)
  - date published: 2023-01-01T21:06:41+00:00
  - user: rumpel
- - tags: ['lgbt', 'inequality', 'science is dead', 'the left wing']
+ - tags: []
 
 ## Witamy na stronie zaimki.pl!
  - [https://zaimki.pl](https://zaimki.pl)
@@ -50,7 +50,7 @@
  - [https://levelup-edu.com/bezos-gates-zuckerberg-behind-every-self-made-millionaire-is-a-father-with-money](https://levelup-edu.com/bezos-gates-zuckerberg-behind-every-self-made-millionaire-is-a-father-with-money)
  - date published: 2023-01-01T22:31:55+00:00
  - user: rumpel
- - tags: ['mark zuckerberg', 'big tech', 'plutocracy', 'bill gates', 'billionaires', 'jeff bezos']
+ - tags: []
 
 ## Mortal Kombat 2 source code leak reveals unused animations and sprites
  - [https://www.eventhubs.com/news/2022/dec/27/mortal-kombat-2-source-leak](https://www.eventhubs.com/news/2022/dec/27/mortal-kombat-2-source-leak)
@@ -280,14 +280,14 @@
  - user: rumpel
  - tags: ['corporatocracy', 'ad business', 'surveillance', 'gdpr', 'big brother']
 
-## Google obtains thousands of medical records from the Dept of Defense
- - [https://gcaptain.com/us-navy-opens-medical-vault-for-google](https://gcaptain.com/us-navy-opens-medical-vault-for-google)
+## Google’s quest to digitize troops’ tissue samples
+ - [https://www.propublica.org/article/google-human-tissue-jpc-military](https://www.propublica.org/article/google-human-tissue-jpc-military)
  - date published: 2023-01-05T23:15:09+00:00
  - user: rumpel
  - tags: ['google']
 
-## Google’s quest to digitize troops’ tissue samples
- - [https://www.propublica.org/article/google-human-tissue-jpc-military](https://www.propublica.org/article/google-human-tissue-jpc-military)
+## Google obtains thousands of medical records from the Dept of Defense
+ - [https://gcaptain.com/us-navy-opens-medical-vault-for-google](https://gcaptain.com/us-navy-opens-medical-vault-for-google)
  - date published: 2023-01-05T23:15:09+00:00
  - user: rumpel
  - tags: ['google']
@@ -1682,7 +1682,7 @@
  - [https://www.fractional.work/p/is-remote-work-bad-for-the-economy](https://www.fractional.work/p/is-remote-work-bad-for-the-economy)
  - date published: 2023-02-01T01:48:46+00:00
  - user: rumpel
- - tags: ['economy', 'remote work']
+ - tags: []
 
 ## Write Simply
  - [http://www.paulgraham.com/simply.html](http://www.paulgraham.com/simply.html)
@@ -2342,7 +2342,7 @@
  - [http://web.cse.ohio-state.edu/~stiff.4/cse3521/norvig-chomsky.html](http://web.cse.ohio-state.edu/~stiff.4/cse3521/norvig-chomsky.html)
  - date published: 2023-02-19T13:09:27+00:00
  - user: rumpel
- - tags: ['artificial intelligence']
+ - tags: []
 
 ## 'Woke' California university slammed for 'dehumanized' initiative encouraging students to tell on professors
  - [https://www.foxnews.com/media/woke-california-university-slammed-dehumanized-initiative-encouraging-students-tell-professors](https://www.foxnews.com/media/woke-california-university-slammed-dehumanized-initiative-encouraging-students-tell-professors)
@@ -2816,7 +2816,7 @@
  - [https://www.pcgamer.com/twitch-starts-to-address-deepfake-porn-and-the-first-thing-to-go-is-that-phrase](https://www.pcgamer.com/twitch-starts-to-address-deepfake-porn-and-the-first-thing-to-go-is-that-phrase)
  - date published: 2023-03-07T07:45:11+00:00
  - user: rumpel
- - tags: ['deepfake']
+ - tags: []
 
 ## Denmark’s Welfare State Became a Surveillance Nightmare
  - [https://www.wired.com/story/algorithms-welfare-state-politics](https://www.wired.com/story/algorithms-welfare-state-politics)
@@ -3182,7 +3182,7 @@
  - [https://www.politico.eu/article/no-porn-no-instagram-for-kids-france-doubles-down-age-verification-emmanuel-macrons-nick-clegg](https://www.politico.eu/article/no-porn-no-instagram-for-kids-france-doubles-down-age-verification-emmanuel-macrons-nick-clegg)
  - date published: 2023-03-15T11:47:26+00:00
  - user: rumpel
- - tags: ['social media', 'anonymity', 'france', 'privacy', 'moderation', 'surveillance']
+ - tags: []
 
 ## Linux desktop leaders unite behind Flathub app store. Here's why
  - [https://www.zdnet.com/article/linux-desktop-leaders-unite-behind-flathub-app-store-heres-why](https://www.zdnet.com/article/linux-desktop-leaders-unite-behind-flathub-app-store-heres-why)
@@ -3464,7 +3464,7 @@
  - [https://www.cs.utexas.edu/~fussell/courses/cs352h/papers/moore.pdf](https://www.cs.utexas.edu/~fussell/courses/cs352h/papers/moore.pdf)
  - date published: 2023-03-25T00:52:37+00:00
  - user: rumpel
- - tags: ['hardware', 'integrated circuits', 'gordon moore']
+ - tags: []
 
 ## The Future is a Dead Mall - Decentraland and the Metaverse
  - [https://www.youtube.com/watch?v=EiZhdpLXZ8Q](https://www.youtube.com/watch?v=EiZhdpLXZ8Q)
@@ -3596,7 +3596,7 @@
  - [https://unherd.com/2023/03/the-great-food-reset-has-begun](https://unherd.com/2023/03/the-great-food-reset-has-begun)
  - date published: 2023-03-28T19:18:57+00:00
  - user: rumpel
- - tags: ['netherlands', 'climate change', 'agriculture']
+ - tags: []
 
 ## Microsoft's Software Is Malware
  - [https://www.gnu.org/proprietary/malware-microsoft.en.html](https://www.gnu.org/proprietary/malware-microsoft.en.html)
@@ -3842,7 +3842,7 @@
  - [https://www.filestash.app/2023/04/01/chat-gpt-acting-as-a-ftp-server](https://www.filestash.app/2023/04/01/chat-gpt-acting-as-a-ftp-server)
  - date published: 2023-04-05T06:54:05+00:00
  - user: rumpel
- - tags: ['gpt-4', 'artificial intelligence']
+ - tags: []
 
 ## Johnson and Johnson Reaches Deal for $8.9B Talc Settlement
  - [https://www.nytimes.com/2023/04/04/business/media/johnson-johnson-talc-settlement.html](https://www.nytimes.com/2023/04/04/business/media/johnson-johnson-talc-settlement.html)
@@ -4178,7 +4178,7 @@
  - [https://ia601707.us.archive.org/28/items/gov.uscourts.cand.364454/gov.uscourts.cand.364454.385.0.pdf](https://ia601707.us.archive.org/28/items/gov.uscourts.cand.364454/gov.uscourts.cand.364454.385.0.pdf)
  - date published: 2023-04-15T22:19:26+00:00
  - user: rumpel
- - tags: ['monopoly', 'corporatocracy', 'google']
+ - tags: []
 
 ## Shared post - Trans therapist charged over sexually assaulting autistic children in Indiana
  - [https://ngo.locals.com/post/3856550/trans-therapist-charged-over-sexually-assaulting-autistic-children-in-indiana](https://ngo.locals.com/post/3856550/trans-therapist-charged-over-sexually-assaulting-autistic-children-in-indiana)
@@ -4582,7 +4582,7 @@
  - [https://reclaimthenet.org/metacritic-announces-stricter-censorship-horizon-burning-shores](https://reclaimthenet.org/metacritic-announces-stricter-censorship-horizon-burning-shores)
  - date published: 2023-04-27T17:00:04+00:00
  - user: rumpel
- - tags: ['propaganda', 'metacritic', 'censorship']
+ - tags: []
 
 ## Reddit - laurene powell jobs and ghistlaine maxwell
  - [https://www.reddit.com/r/pics/comments/oe202b/laurene_powel_jobs_steve_jobs_widow_and_ghislaine](https://www.reddit.com/r/pics/comments/oe202b/laurene_powel_jobs_steve_jobs_widow_and_ghislaine)
@@ -4960,13 +4960,13 @@
  - [https://gwern.net/doc/technology/2005-shirky-agroupisitsownworstenemy.pdf](https://gwern.net/doc/technology/2005-shirky-agroupisitsownworstenemy.pdf)
  - date published: 2023-05-07T21:55:26+00:00
  - user: rumpel
- - tags: ['management', 'programming']
+ - tags: []
 
 ## Canada Liberal’s Assault on Press Freedom: The Plot To Censor ‘Untraceable Sources’
  - [https://reclaimthenet.org/canada-liberals-propose-unverified-sources-ban](https://reclaimthenet.org/canada-liberals-propose-unverified-sources-ban)
  - date published: 2023-05-07T23:23:34+00:00
  - user: rumpel
- - tags: ['censorship', 'canada']
+ - tags: []
 
 ## Please don’t upload my code on GitHub
  - [https://nogithub.codeberg.page](https://nogithub.codeberg.page)
@@ -5146,7 +5146,7 @@
  - [https://androidblog.a.pinggy.io](https://androidblog.a.pinggy.io)
  - date published: 2023-05-15T05:53:17+00:00
  - user: rumpel
- - tags: ['selfhost']
+ - tags: []
 
 ## Telly Start-Up Offers Dual-Screen Smart TVs For Free – Deadline
  - [https://deadline.com/2023/05/telly-startup-pluto-tv-smart-tv-streaming-advertising-1235362087](https://deadline.com/2023/05/telly-startup-pluto-tv-smart-tv-streaming-advertising-1235362087)
@@ -6334,7 +6334,7 @@
  - [https://biznes.wprost.pl/technologie/internet/11261809/blokada-pornografii-dla-nieletnich-ustawa-o-ochronie-w-sieci-juz-w-sejmie.html](https://biznes.wprost.pl/technologie/internet/11261809/blokada-pornografii-dla-nieletnich-ustawa-o-ochronie-w-sieci-juz-w-sejmie.html)
  - date published: 2023-06-13T20:57:20+00:00
  - user: rumpel
- - tags: ['poland', 'censorship', 'government control', 'tech control']
+ - tags: []
 
 ## Google risks forced breakup of ad business as EU alleges shocking misconduct | Ars Technica
  - [https://arstechnica.com/tech-policy/2023/06/google-may-soon-be-ordered-to-break-up-its-lucrative-ad-business-eu-warns](https://arstechnica.com/tech-policy/2023/06/google-may-soon-be-ordered-to-break-up-its-lucrative-ad-business-eu-warns)
@@ -6364,7 +6364,7 @@
  - [https://biznesalert.pl/brakuje-juz-ponad-szesciu-miliardow-na-mrozenie-cen-energii-wiec-zaplaca-tez-polacy](https://biznesalert.pl/brakuje-juz-ponad-szesciu-miliardow-na-mrozenie-cen-energii-wiec-zaplaca-tez-polacy)
  - date published: 2023-06-14T14:12:44+00:00
  - user: rumpel
- - tags: ['poland', 'prawo i sprawiedliwość']
+ - tags: []
 
 ## US spy agencies are buying the same surveillance data advertisers crave
  - [https://www.theverge.com/2023/6/14/23759585/odni-spy-report-surveillance-data-location-tracking](https://www.theverge.com/2023/6/14/23759585/odni-spy-report-surveillance-data-location-tracking)
@@ -6438,17 +6438,17 @@
  - user: rumpel
  - tags: ['lineageos', 'raspberry pi', 'android']
 
-## Woke Trans Kids Doctor GETS CAREER ENDED In CONGRESS By BASED Psychiatrist With Scientific Evidence!
- - [https://www.youtube.com/watch?v=iJl7UywkArc](https://www.youtube.com/watch?v=iJl7UywkArc)
- - date published: 2023-06-16T00:00:00+00:00
- - user: rumpel
- - tags: ['transgender']
-
 ## Jak zrobić dobrą siekierę? Porady kowala Romka: "Ostrze wstawione równo w obuch tak jak strzelił"
  - [https://www.youtube.com/watch?v=SkKCS0pO87I](https://www.youtube.com/watch?v=SkKCS0pO87I)
  - date published: 2023-06-16T00:00:00+00:00
  - user: rumpel
  - tags: ['blacksmith', 'hobby']
+
+## Woke Trans Kids Doctor GETS CAREER ENDED In CONGRESS By BASED Psychiatrist With Scientific Evidence!
+ - [https://www.youtube.com/watch?v=iJl7UywkArc](https://www.youtube.com/watch?v=iJl7UywkArc)
+ - date published: 2023-06-16T00:00:00+00:00
+ - user: rumpel
+ - tags: ['transgender']
 
 ## Reddit is removing moderators that protest by taking their communities private
  - [https://old.reddit.com/r/ModCoord/comments/14aeq5j/new_admin_post_if_a_moderator_team_unanimously](https://old.reddit.com/r/ModCoord/comments/14aeq5j/new_admin_post_if_a_moderator_team_unanimously)
@@ -6484,7 +6484,7 @@
  - [https://blog.dijit.sh//i-don-t-trust-signal](https://blog.dijit.sh//i-don-t-trust-signal)
  - date published: 2023-06-19T03:05:27+00:00
  - user: rumpel
- - tags: ['open source', 'signal']
+ - tags: []
 
 ## Korupcja przy eksporcie zboża z Ukrainy. Milion dolarów łapówek miesięcznie - Money.pl
  - [https://www.money.pl/gospodarka/milion-dolarow-lapowek-miesiecznie-korupcja-przy-eksporcie-zboza-z-ukrainy-6910673317431968a.html](https://www.money.pl/gospodarka/milion-dolarow-lapowek-miesiecznie-korupcja-przy-eksporcie-zboza-z-ukrainy-6910673317431968a.html)
@@ -6588,14 +6588,14 @@
  - user: rumpel
  - tags: ['browser extensions']
 
-## Clickbait Remover for Youtube - Chrome Web Store
- - [https://chrome.google.com/webstore/detail/clickbait-remover-for-you/omoinegiohhgbikclijaniebjpkeopip](https://chrome.google.com/webstore/detail/clickbait-remover-for-you/omoinegiohhgbikclijaniebjpkeopip)
+## Unhook - Remove YouTube Recommended Videos - Chrome Web Store
+ - [https://chrome.google.com/webstore/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid](https://chrome.google.com/webstore/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid)
  - date published: 2023-06-21T06:42:23+00:00
  - user: rumpel
  - tags: ['browser extensions']
 
-## Unhook - Remove YouTube Recommended Videos - Chrome Web Store
- - [https://chrome.google.com/webstore/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid](https://chrome.google.com/webstore/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid)
+## Clickbait Remover for Youtube - Chrome Web Store
+ - [https://chrome.google.com/webstore/detail/clickbait-remover-for-you/omoinegiohhgbikclijaniebjpkeopip](https://chrome.google.com/webstore/detail/clickbait-remover-for-you/omoinegiohhgbikclijaniebjpkeopip)
  - date published: 2023-06-21T06:42:23+00:00
  - user: rumpel
  - tags: ['browser extensions']
@@ -7366,7 +7366,7 @@
  - [https://nocss.club](https://nocss.club)
  - date published: 2023-07-16T10:17:23+00:00
  - user: rumpel
- - tags: ['web10', 'webdev', 'selfhost']
+ - tags: []
 
 ## GitHub - go-task/task: A task runner / simpler Make alternative written in Go
  - [https://github.com/go-task/task](https://github.com/go-task/task)
@@ -7690,7 +7690,7 @@
  - [https://www.dailymail.co.uk/news/article-12335541/JPMorgan-resisted-ditching-Jeffrey-Epstein-client-despite-child-sex-charges-brought-wealthy-clients-bank-including-Google-founder-Sergey-Brin-lawsuit-claims.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12335541/JPMorgan-resisted-ditching-Jeffrey-Epstein-client-despite-child-sex-charges-brought-wealthy-clients-bank-including-Google-founder-Sergey-Brin-lawsuit-claims.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2023-07-25T13:16:30+00:00
  - user: rumpel
- - tags: ['jeffrey epstein', 'jpmorgan']
+ - tags: []
 
 ## Apple already shipped attestation on the web, and we barely noticed
  - [https://httptoolkit.com/blog/apple-private-access-tokens-attestation](https://httptoolkit.com/blog/apple-private-access-tokens-attestation)
@@ -8110,7 +8110,7 @@
  - [https://player.kohina.com/streamplayer](https://player.kohina.com/streamplayer)
  - date published: 2023-08-04T09:55:01+00:00
  - user: rumpel
- - tags: ['chiptune']
+ - tags: []
 
 ## Essential Keygen Music : Free Download, Borrow, and Streaming : Internet Archive
  - [https://archive.org/details/essential-keygen-music](https://archive.org/details/essential-keygen-music)
@@ -8452,7 +8452,7 @@
  - [https://www.bbc.co.uk/news/world-europe-66543503?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-66543503?at_medium=RSS&at_campaign=KARANGA)
  - date published: 2023-08-18T12:10:26+00:00
  - user: rumpel
- - tags: ['religion', 'church scandal']
+ - tags: []
 
 ## Deja Vu: The FBI Proves Again It Can’t Be Trusted with Section 702
  - [https://www.eff.org/deeplinks/2023/07/deja-vu-fbi-proves-again-it-cant-be-trusted-section-702](https://www.eff.org/deeplinks/2023/07/deja-vu-fbi-proves-again-it-cant-be-trusted-section-702)
@@ -8530,7 +8530,7 @@
  - [https://www.foxnews.com/us/san-francisco-roman-catholic-archdiocese-files-bankruptcy-amid-sex-abuse-lawsuits](https://www.foxnews.com/us/san-francisco-roman-catholic-archdiocese-files-bankruptcy-amid-sex-abuse-lawsuits)
  - date published: 2023-08-21T19:17:41+00:00
  - user: rumpel
- - tags: ['religion', 'church scandal']
+ - tags: []
 
 ## RELEASE: After years of opposition, Apple calls for passage of Right to Repair in California
  - [https://pirg.org/media-center/release-after-years-of-opposition-apple-calls-for-passage-of-right-to-repair-in-california](https://pirg.org/media-center/release-after-years-of-opposition-apple-calls-for-passage-of-right-to-repair-in-california)
@@ -9346,7 +9346,7 @@
  - [https://balkaninsight.com/2023/09/25/who-benefits-inside-the-eus-fight-over-scanning-for-child-sex-content](https://balkaninsight.com/2023/09/25/who-benefits-inside-the-eus-fight-over-scanning-for-child-sex-content)
  - date published: 2023-09-25T11:12:05+00:00
  - user: rumpel
- - tags: ['surveillance', 'privacy']
+ - tags: []
 
 ## Long Covid impact ‘exaggerated with major flaws in claims’
  - [https://www.telegraph.co.uk/news/2023/09/25/covid-coronavirus-nhs-pandemic-long-lockdown](https://www.telegraph.co.uk/news/2023/09/25/covid-coronavirus-nhs-pandemic-long-lockdown)
@@ -9676,7 +9676,7 @@
  - [https://nypost.com/2023/10/18/victorias-secret-ditches-wokeness-over-sexiness-after-sales-drop](https://nypost.com/2023/10/18/victorias-secret-ditches-wokeness-over-sexiness-after-sales-drop)
  - date published: 2023-10-18T09:26:20+00:00
  - user: rumpel
- - tags: ['the left wing', 'go woke go broke']
+ - tags: []
 
 ## Google-hosted malvertising leads to fake Keepass site that looks genuine
  - [https://arstechnica.com/security/2023/10/google-hosted-malvertising-leads-to-fake-keepass-site-that-looks-genuine](https://arstechnica.com/security/2023/10/google-hosted-malvertising-leads-to-fake-keepass-site-that-looks-genuine)
@@ -9898,7 +9898,7 @@
  - [https://www.theguardian.com/world/2023/nov/10/israel-womens-groups-warn-of-failure-to-keep-evidence-of-sexual-violence-in-hamas-attacks](https://www.theguardian.com/world/2023/nov/10/israel-womens-groups-warn-of-failure-to-keep-evidence-of-sexual-violence-in-hamas-attacks)
  - date published: 2023-11-10T11:55:53+00:00
  - user: rumpel
- - tags: ['israel', 'hamas']
+ - tags: []
 
 ## New Outlook sends passwords, mails and other data to Microsoft
  - [https://mailbox.org/en/post/warning-new-outlook-sends-passwords-mails-and-other-data-to-microsoft](https://mailbox.org/en/post/warning-new-outlook-sends-passwords-mails-and-other-data-to-microsoft)

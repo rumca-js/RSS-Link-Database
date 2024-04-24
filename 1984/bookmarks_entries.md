@@ -2,7 +2,7 @@
  - [https://users.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf](https://users.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf)
  - date published: 1984-08-10T05:48:04+00:00
  - user: rumpel
- - tags: ['security', 'programming', 'vulnerability', 'linux', 'safety', 'ken thompson']
+ - tags: []
 
 ## The Ken Thompson Hack
  - [http://wiki.c2.com/?TheKenThompsonHack](http://wiki.c2.com/?TheKenThompsonHack)

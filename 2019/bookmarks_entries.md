@@ -878,7 +878,7 @@
  - [http://www.silaojca.pl/w-jakim-stopniu-brak-ojca-wplywa-na-zycie-dziecka](http://www.silaojca.pl/w-jakim-stopniu-brak-ojca-wplywa-na-zycie-dziecka)
  - date published: 2019-10-02T08:36:52+00:00
  - user: rumpel
- - tags: ['fatherlessness', 'family']
+ - tags: []
 
 ## Eyes Wide Shut and the Moral Bankruptcy of the American Elite
  - [https://lawliberty.org/eyes-wide-shut-and-the-moral-bankruptcy-of-the-american-elite](https://lawliberty.org/eyes-wide-shut-and-the-moral-bankruptcy-of-the-american-elite)
@@ -1100,7 +1100,7 @@
  - [https://www.techrepublic.com/article/how-to-keep-employees-happy-linkedin-study-reveals-three-factors](https://www.techrepublic.com/article/how-to-keep-employees-happy-linkedin-study-reveals-three-factors)
  - date published: 2019-11-21T09:13:58+00:00
  - user: rumpel
- - tags: ['it', 'programming', 'managment']
+ - tags: []
 
 ## He invented the web. Now he's warning of a looming 'digital dystopia'
  - [https://www.cnn.com/2019/11/25/tech/berners-lee-web-safer-plan-scli-intl/index.html](https://www.cnn.com/2019/11/25/tech/berners-lee-web-safer-plan-scli-intl/index.html)
