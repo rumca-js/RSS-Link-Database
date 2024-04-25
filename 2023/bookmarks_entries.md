@@ -1844,7 +1844,7 @@
  - [https://reclaimthenet.org/uk-nudge-unit-psychological-manipulations-net-zero-society](https://reclaimthenet.org/uk-nudge-unit-psychological-manipulations-net-zero-society)
  - date published: 2023-02-03T17:09:01+00:00
  - user: rumpel
- - tags: ['propaganda', 'england', 'oversight board', 'nudge unit', 'psyop']
+ - tags: []
 
 ## Sztuczna inteligencja może odebrać pracę. Oto 10 zawodów, które zastąpi
  - [https://businessinsider.com.pl/technologie/sztuczna-inteligencja-moze-odebrac-prace-oto-10-zawodow-na-celowniku/m96bw6c](https://businessinsider.com.pl/technologie/sztuczna-inteligencja-moze-odebrac-prace-oto-10-zawodow-na-celowniku/m96bw6c)
@@ -6438,17 +6438,17 @@
  - user: rumpel
  - tags: ['lineageos', 'raspberry pi', 'android']
 
-## Jak zrobić dobrą siekierę? Porady kowala Romka: "Ostrze wstawione równo w obuch tak jak strzelił"
- - [https://www.youtube.com/watch?v=SkKCS0pO87I](https://www.youtube.com/watch?v=SkKCS0pO87I)
- - date published: 2023-06-16T00:00:00+00:00
- - user: rumpel
- - tags: ['blacksmith', 'hobby']
-
 ## Woke Trans Kids Doctor GETS CAREER ENDED In CONGRESS By BASED Psychiatrist With Scientific Evidence!
  - [https://www.youtube.com/watch?v=iJl7UywkArc](https://www.youtube.com/watch?v=iJl7UywkArc)
  - date published: 2023-06-16T00:00:00+00:00
  - user: rumpel
  - tags: ['transgender']
+
+## Jak zrobić dobrą siekierę? Porady kowala Romka: "Ostrze wstawione równo w obuch tak jak strzelił"
+ - [https://www.youtube.com/watch?v=SkKCS0pO87I](https://www.youtube.com/watch?v=SkKCS0pO87I)
+ - date published: 2023-06-16T00:00:00+00:00
+ - user: rumpel
+ - tags: ['blacksmith', 'hobby']
 
 ## Reddit is removing moderators that protest by taking their communities private
  - [https://old.reddit.com/r/ModCoord/comments/14aeq5j/new_admin_post_if_a_moderator_team_unanimously](https://old.reddit.com/r/ModCoord/comments/14aeq5j/new_admin_post_if_a_moderator_team_unanimously)
@@ -6588,14 +6588,14 @@
  - user: rumpel
  - tags: ['browser extensions']
 
-## Unhook - Remove YouTube Recommended Videos - Chrome Web Store
- - [https://chrome.google.com/webstore/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid](https://chrome.google.com/webstore/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid)
+## Clickbait Remover for Youtube - Chrome Web Store
+ - [https://chrome.google.com/webstore/detail/clickbait-remover-for-you/omoinegiohhgbikclijaniebjpkeopip](https://chrome.google.com/webstore/detail/clickbait-remover-for-you/omoinegiohhgbikclijaniebjpkeopip)
  - date published: 2023-06-21T06:42:23+00:00
  - user: rumpel
  - tags: ['browser extensions']
 
-## Clickbait Remover for Youtube - Chrome Web Store
- - [https://chrome.google.com/webstore/detail/clickbait-remover-for-you/omoinegiohhgbikclijaniebjpkeopip](https://chrome.google.com/webstore/detail/clickbait-remover-for-you/omoinegiohhgbikclijaniebjpkeopip)
+## Unhook - Remove YouTube Recommended Videos - Chrome Web Store
+ - [https://chrome.google.com/webstore/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid](https://chrome.google.com/webstore/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid)
  - date published: 2023-06-21T06:42:23+00:00
  - user: rumpel
  - tags: ['browser extensions']

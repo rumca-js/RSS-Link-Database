@@ -14,7 +14,7 @@
  - [http://www.cs.put.poznan.pl/mdrozdowski/txt/niePatenty.pdf](http://www.cs.put.poznan.pl/mdrozdowski/txt/niePatenty.pdf)
  - date published: 2018-01-05T09:05:09+00:00
  - user: rumpel
- - tags: ['corporations', 'programming', 'patents']
+ - tags: []
 
 ## Null Is Evil. What’s the Best Alternative? Null.
  - [https://blog.ndepend.com/null-evil](https://blog.ndepend.com/null-evil)
@@ -62,7 +62,7 @@
  - [https://www.csoonline.com/article/3248825/security/skygofree-powerful-android-spyware-with-advanced-surveillance-tools.html](https://www.csoonline.com/article/3248825/security/skygofree-powerful-android-spyware-with-advanced-surveillance-tools.html)
  - date published: 2018-01-18T06:47:39+00:00
  - user: None
- - tags: ['surveillance', 'privacy', 'android', 'google', 'skygofree', 'espionage']
+ - tags: []
 
 ## How Tencent became the world's most valuable social network firm – with barely any advertising
  - [https://theconversation.com/how-tencent-became-the-worlds-most-valuable-social-network-firm-with-barely-any-advertising-90334](https://theconversation.com/how-tencent-became-the-worlds-most-valuable-social-network-firm-with-barely-any-advertising-90334)
@@ -86,7 +86,7 @@
  - [https://www.youtube.com/watch?v=6T7pUEZfgdI](https://www.youtube.com/watch?v=6T7pUEZfgdI)
  - date published: 2018-01-30T00:00:00+00:00
  - user: rumpel
- - tags: ['jordan peterson']
+ - tags: []
 
 ## New California Law Allows Jail Time for Using Wrong Gender Pronoun — San Diego Criminal Lawyers Blog — February 2, 2018
  - [https://www.sandiegocriminallawyersblog.com/new-california-law-allows-jail-time-using-wrong-gender-pronoun](https://www.sandiegocriminallawyersblog.com/new-california-law-allows-jail-time-using-wrong-gender-pronoun)
@@ -356,7 +356,7 @@
  - [https://www.youtube.com/watch?v=jdYPsCUDVrU](https://www.youtube.com/watch?v=jdYPsCUDVrU)
  - date published: 2018-04-26T00:00:00+00:00
  - user: rumpel
- - tags: ['andrzej lepper', 'conspiracy theories']
+ - tags: []
 
 ## Amazon Web Services starts blocking domain-fronting, following Google’s lead
  - [https://www.theverge.com/2018/4/30/17304782/amazon-domain-fronting-google-discontinued](https://www.theverge.com/2018/4/30/17304782/amazon-domain-fronting-google-discontinued)
@@ -404,7 +404,7 @@
  - [https://www.youtube.com/watch?v=tKjlf6DMXTk](https://www.youtube.com/watch?v=tKjlf6DMXTk)
  - date published: 2018-05-11T15:51:38+00:00
  - user: None
- - tags: ['lgbt']
+ - tags: []
 
 ## Scawy big no functionality at all UwU · Issue #15 · mpaland/printf · GitHub
  - [https://github.com/mpaland/printf/issues/15](https://github.com/mpaland/printf/issues/15)
@@ -596,7 +596,7 @@
  - [https://notrelated.xyz/audio/s01/S01E01_-_The_Origin_of_Consciousness_in_the_Breakdown_of_the_Bicameral_Mind.mp3](https://notrelated.xyz/audio/s01/S01E01_-_The_Origin_of_Consciousness_in_the_Breakdown_of_the_Bicameral_Mind.mp3)
  - date published: 2018-08-24T04:00:00+00:00
  - user: None
- - tags: ['bicameral mind', 'psychology']
+ - tags: []
 
 ## Rotten Tomatoes Adds 200 Critics as It Tries to Be More Inclusive
  - [https://www.nytimes.com/2018/08/28/business/media/rotten-tomatoes-critics.html](https://www.nytimes.com/2018/08/28/business/media/rotten-tomatoes-critics.html)
@@ -722,7 +722,7 @@
  - [https://notrelated.xyz/audio/s01/S01E05_-_The_Agricultural_Revolution_Has_Been_a_Disaster_for_the_Human_Race.mp3](https://notrelated.xyz/audio/s01/S01E05_-_The_Agricultural_Revolution_Has_Been_a_Disaster_for_the_Human_Race.mp3)
  - date published: 2018-10-08T04:00:00+00:00
  - user: None
- - tags: ['agriculture']
+ - tags: []
 
 ## Google vs DuckDuckGo | Search engine manipulation, censorship and why you should switch
  - [https://www.youtube.com/watch?v=SrsCEbi5N7Y](https://www.youtube.com/watch?v=SrsCEbi5N7Y)

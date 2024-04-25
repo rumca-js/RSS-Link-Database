@@ -32,7 +32,7 @@
  - [http://infolab.stanford.edu/pub/papers/google.pdf](http://infolab.stanford.edu/pub/papers/google.pdf)
  - date published: 1998-09-06T07:13:47+00:00
  - user: rumpel
- - tags: ['algorithms', 'search algorithms', 'search bias', 'bias', 'media bias', 'search engines']
+ - tags: []
 
 ## Internal Memo Shows Microsoft Executives' Concern Over Free Software
  - [https://archive.nytimes.com/www.nytimes.com/library/tech/98/11/biztech/articles/03memo.html](https://archive.nytimes.com/www.nytimes.com/library/tech/98/11/biztech/articles/03memo.html)

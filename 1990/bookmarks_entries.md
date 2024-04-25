@@ -10,15 +10,15 @@
  - user: None
  - tags: ['fozz', 'michał falzmann', 'scandal']
 
-## „Rozkodował model rabowania Polski”. Tajemnice śmierci Michała Falzmanna
- - [https://www.tvp.info/54797855/michal-falzmann-i-afera-fozz-okolicznosci-smierci-zagadka-po-30-latach-slawomir-cenckiewicz-rozkodowal-model-rabowania-polski](https://www.tvp.info/54797855/michal-falzmann-i-afera-fozz-okolicznosci-smierci-zagadka-po-30-latach-slawomir-cenckiewicz-rozkodowal-model-rabowania-polski)
- - date published: 1990-09-02T08:19:56+00:00
- - user: None
- - tags: ['all time', 'fozz', 'michał falzmann', 'scandal']
-
 ## Afera FOZZ
  - [https://bb-i.blog/tag/afera-fozz](https://bb-i.blog/tag/afera-fozz)
  - date published: 1990-09-02T08:19:56+00:00
  - user: rumpel
+ - tags: ['all time', 'fozz', 'michał falzmann', 'scandal']
+
+## „Rozkodował model rabowania Polski”. Tajemnice śmierci Michała Falzmanna
+ - [https://www.tvp.info/54797855/michal-falzmann-i-afera-fozz-okolicznosci-smierci-zagadka-po-30-latach-slawomir-cenckiewicz-rozkodowal-model-rabowania-polski](https://www.tvp.info/54797855/michal-falzmann-i-afera-fozz-okolicznosci-smierci-zagadka-po-30-latach-slawomir-cenckiewicz-rozkodowal-model-rabowania-polski)
+ - date published: 1990-09-02T08:19:56+00:00
+ - user: None
  - tags: ['all time', 'fozz', 'michał falzmann', 'scandal']
 

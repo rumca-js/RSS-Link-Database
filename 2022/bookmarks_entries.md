@@ -1096,17 +1096,17 @@
  - user: rumpel
  - tags: ['freedom convoy', 'covid', 'canada']
 
-## John Abramson: Big Pharma | Lex Fridman Podcast #263
- - [https://www.youtube.com/watch?v=arrokG3wCdE](https://www.youtube.com/watch?v=arrokG3wCdE)
- - date published: 2022-02-11T00:00:00+00:00
- - user: rumpel
- - tags: ['big pharma']
-
 ## The Dead Internet Theory 3
  - [https://www.youtube.com/watch?v=RFb1Ctnqw0E](https://www.youtube.com/watch?v=RFb1Ctnqw0E)
  - date published: 2022-02-11T00:00:00+00:00
  - user: None
  - tags: ['dead internet']
+
+## John Abramson: Big Pharma | Lex Fridman Podcast #263
+ - [https://www.youtube.com/watch?v=arrokG3wCdE](https://www.youtube.com/watch?v=arrokG3wCdE)
+ - date published: 2022-02-11T00:00:00+00:00
+ - user: rumpel
+ - tags: ['big pharma']
 
 ## How Is Electric Car Battery Disposal Causing Pollution
  - [https://www.carandbike.com/news/how-is-electric-car-battery-disposal-causing-pollution-all-concerns-answered-2762412](https://www.carandbike.com/news/how-is-electric-car-battery-disposal-causing-pollution-all-concerns-answered-2762412)
@@ -1270,17 +1270,17 @@
  - user: None
  - tags: ['windows 11', 'always online']
 
-## Interview with Senior C++ Developer
- - [https://www.youtube.com/watch?v=s7wLYzRJt3s](https://www.youtube.com/watch?v=s7wLYzRJt3s)
- - date published: 2022-02-19T00:00:00+00:00
- - user: rumpel
- - tags: ['programming', 'funny']
-
 ## A Timeline of Narnia History | Narnia Lore | The Seven Ages of Narnia
  - [https://www.youtube.com/watch?v=Vy_nbi_Gl7k](https://www.youtube.com/watch?v=Vy_nbi_Gl7k)
  - date published: 2022-02-19T00:00:00+00:00
  - user: rumpel
  - tags: ['narnia', 'book']
+
+## Interview with Senior C++ Developer
+ - [https://www.youtube.com/watch?v=s7wLYzRJt3s](https://www.youtube.com/watch?v=s7wLYzRJt3s)
+ - date published: 2022-02-19T00:00:00+00:00
+ - user: rumpel
+ - tags: ['programming', 'funny']
 
 ## Ottawa Police Chief says police will come after protesters for months to come “with financial sanctions and criminal charges”
  - [https://westphaliantimes.com/ottawa-police-chief-says-law-enforcement-will-come-after-protestors-even-if-they-go-home](https://westphaliantimes.com/ottawa-police-chief-says-law-enforcement-will-come-after-protestors-even-if-they-go-home)
@@ -1696,17 +1696,17 @@
  - user: Thomas Pain
  - tags: []
 
-## Secret behind Hollywood's power. And why they are afraid of the WOKE.
- - [https://www.youtube.com/watch?v=WJzXUSl20kM](https://www.youtube.com/watch?v=WJzXUSl20kM)
- - date published: 2022-03-16T00:00:00+00:00
- - user: rumpel
- - tags: ['movies', 'the left wing', 'hollywood', 'woke']
-
 ## Ufopornoo! - Higher Quality
  - [https://www.youtube.com/watch?v=W5UkA2Gg-Cc](https://www.youtube.com/watch?v=W5UkA2Gg-Cc)
  - date published: 2022-03-16T00:00:00+00:00
  - user: rumpel
  - tags: ['funny']
+
+## Secret behind Hollywood's power. And why they are afraid of the WOKE.
+ - [https://www.youtube.com/watch?v=WJzXUSl20kM](https://www.youtube.com/watch?v=WJzXUSl20kM)
+ - date published: 2022-03-16T00:00:00+00:00
+ - user: rumpel
+ - tags: ['movies', 'the left wing', 'hollywood', 'woke']
 
 ## How I survived a DDoS attack
  - [https://www.youtube.com/watch?v=VPcYMgTYQs0](https://www.youtube.com/watch?v=VPcYMgTYQs0)
@@ -5770,17 +5770,17 @@
  - user: None
  - tags: []
 
-## Facebook engineers admit they don’t know what they do with your data
- - [https://www.codeproject.com/script/News/View.aspx?nwid=58810](https://www.codeproject.com/script/News/View.aspx?nwid=58810)
- - date published: 2022-09-08T04:00:00+00:00
- - user: None
- - tags: ['meta', 'facebook', 'privacy', 'corporatocracy']
-
 ## The EU’s AI Act could have a chilling effect on open source efforts, experts warn
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58818](https://www.codeproject.com/script/News/View.aspx?nwid=58818)
  - date published: 2022-09-08T04:00:00+00:00
  - user: None
  - tags: ['open source', 'artificial intelligence']
+
+## Facebook engineers admit they don’t know what they do with your data
+ - [https://www.codeproject.com/script/News/View.aspx?nwid=58810](https://www.codeproject.com/script/News/View.aspx?nwid=58810)
+ - date published: 2022-09-08T04:00:00+00:00
+ - user: None
+ - tags: ['meta', 'facebook', 'privacy', 'corporatocracy']
 
 ## I Got Banned for Life from Airbnb
  - [https://jacksoncunningham.medium.com/digital-exile-how-i-got-banned-for-life-from-airbnb-615434c6eeba](https://jacksoncunningham.medium.com/digital-exile-how-i-got-banned-for-life-from-airbnb-615434c6eeba)
@@ -5986,17 +5986,17 @@
  - user: Thomas Pain
  - tags: []
 
-## DOJ: Google illegally maintains its search monopoly
- - [https://www.codeproject.com/script/News/View.aspx?nwid=58842](https://www.codeproject.com/script/News/View.aspx?nwid=58842)
- - date published: 2022-09-12T04:00:00+00:00
- - user: None
- - tags: ['monopoly', 'search engines', 'dark design']
-
 ## New Linux malware combines unusual stealth with a full suite of capabilities
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58841](https://www.codeproject.com/script/News/View.aspx?nwid=58841)
  - date published: 2022-09-12T04:00:00+00:00
  - user: None
  - tags: ['malware', 'linux', 'vulnerability']
+
+## DOJ: Google illegally maintains its search monopoly
+ - [https://www.codeproject.com/script/News/View.aspx?nwid=58842](https://www.codeproject.com/script/News/View.aspx?nwid=58842)
+ - date published: 2022-09-12T04:00:00+00:00
+ - user: None
+ - tags: ['monopoly', 'search engines', 'dark design']
 
 ## Xinjiang lockdown: Chinese censors drown out posts about food and medicine shortages
  - [https://www.reddit.com/r/news/comments/xc3zj1/xinjiang_lockdown_chinese_censors_drown_out_posts](https://www.reddit.com/r/news/comments/xc3zj1/xinjiang_lockdown_chinese_censors_drown_out_posts)
@@ -9040,14 +9040,14 @@
  - user: None
  - tags: []
 
-## Harvard's robotic tentacle gripper is pure nightmare fuel
- - [https://www.codeproject.com/script/News/View.aspx?nwid=59308](https://www.codeproject.com/script/News/View.aspx?nwid=59308)
+## Passkeys—Microsoft, Apple, and Google’s password killer—are finally here
+ - [https://www.codeproject.com/script/News/View.aspx?nwid=59301](https://www.codeproject.com/script/News/View.aspx?nwid=59301)
  - date published: 2022-10-26T04:00:00+00:00
  - user: None
  - tags: []
 
-## Passkeys—Microsoft, Apple, and Google’s password killer—are finally here
- - [https://www.codeproject.com/script/News/View.aspx?nwid=59301](https://www.codeproject.com/script/News/View.aspx?nwid=59301)
+## Harvard's robotic tentacle gripper is pure nightmare fuel
+ - [https://www.codeproject.com/script/News/View.aspx?nwid=59308](https://www.codeproject.com/script/News/View.aspx?nwid=59308)
  - date published: 2022-10-26T04:00:00+00:00
  - user: None
  - tags: []

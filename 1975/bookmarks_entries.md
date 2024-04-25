@@ -14,5 +14,5 @@
  - [https://www.trivia-library.com/c/most-powerful-in-the-world-the-bilderberg-group-part-2.htm](https://www.trivia-library.com/c/most-powerful-in-the-world-the-bilderberg-group-part-2.htm)
  - date published: 1975-09-07T06:59:55+00:00
  - user: rumpel
- - tags: ['billionaires', 'polititians', 'bilderberg meeting', 'democracy']
+ - tags: []
 
