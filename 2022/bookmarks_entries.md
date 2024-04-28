@@ -1096,17 +1096,17 @@
  - user: rumpel
  - tags: ['freedom convoy', 'covid', 'canada']
 
-## The Dead Internet Theory 3
- - [https://www.youtube.com/watch?v=RFb1Ctnqw0E](https://www.youtube.com/watch?v=RFb1Ctnqw0E)
- - date published: 2022-02-11T00:00:00+00:00
- - user: None
- - tags: ['dead internet']
-
 ## John Abramson: Big Pharma | Lex Fridman Podcast #263
  - [https://www.youtube.com/watch?v=arrokG3wCdE](https://www.youtube.com/watch?v=arrokG3wCdE)
  - date published: 2022-02-11T00:00:00+00:00
  - user: rumpel
  - tags: ['big pharma']
+
+## The Dead Internet Theory 3
+ - [https://www.youtube.com/watch?v=RFb1Ctnqw0E](https://www.youtube.com/watch?v=RFb1Ctnqw0E)
+ - date published: 2022-02-11T00:00:00+00:00
+ - user: None
+ - tags: ['dead internet']
 
 ## How Is Electric Car Battery Disposal Causing Pollution
  - [https://www.carandbike.com/news/how-is-electric-car-battery-disposal-causing-pollution-all-concerns-answered-2762412](https://www.carandbike.com/news/how-is-electric-car-battery-disposal-causing-pollution-all-concerns-answered-2762412)

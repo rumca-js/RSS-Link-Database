@@ -418,17 +418,17 @@
  - user: rumpel
  - tags: []
 
-## Soros, Facebook, And Omidyar Money Behind Attacks On German Farmers
- - [https://public.substack.com/p/soros-facebook-and-omidyar-money](https://public.substack.com/p/soros-facebook-and-omidyar-money)
- - date published: 2024-01-30T00:00:00+00:00
- - user: rumpel
- - tags: ['disinformation', 'george soros', 'misinformation', 'facebook']
-
 ## A passenger who caused fighter jets to flank an airliner after he privately joked about blowing up the plane was cleared and avoided a $120,000 bill
  - [https://www.businessinsider.com/passenger-avoids-120k-bill-after-bomb-joke-scrambled-fighter-jets-2024-1?IR=T](https://www.businessinsider.com/passenger-avoids-120k-bill-after-bomb-joke-scrambled-fighter-jets-2024-1?IR=T)
  - date published: 2024-01-30T00:00:00+00:00
  - user: rumpel
  - tags: ['orwell', 'privacy', 'big brother', 'surveillance']
+
+## Soros, Facebook, And Omidyar Money Behind Attacks On German Farmers
+ - [https://public.substack.com/p/soros-facebook-and-omidyar-money](https://public.substack.com/p/soros-facebook-and-omidyar-money)
+ - date published: 2024-01-30T00:00:00+00:00
+ - user: rumpel
+ - tags: ['disinformation', 'george soros', 'misinformation', 'facebook']
 
 ## Flynn effect - Wikipedia
  - [https://en.wikipedia.org/wiki/Flynn_effect](https://en.wikipedia.org/wiki/Flynn_effect)
@@ -640,17 +640,17 @@
  - user: rumpel
  - tags: ['racism']
 
-## Want money off North Face clothing? You’ll have to complete a ‘racial inclusion’ course first
- - [https://www.telegraph.co.uk/news/2024/03/05/the-north-face-discount-racial-inclusion-course-outdoors](https://www.telegraph.co.uk/news/2024/03/05/the-north-face-discount-racial-inclusion-course-outdoors)
- - date published: 2024-03-05T00:00:00+00:00
- - user: rumpel
- - tags: ['propaganda', 'racism', 'diversity']
-
 ## Spanish soldiers change gender to gain benefits intended for women
  - [https://www.telegraph.co.uk/news/2024/03/05/spanish-soldiers-change-gender-benefits-for-women](https://www.telegraph.co.uk/news/2024/03/05/spanish-soldiers-change-gender-benefits-for-women)
  - date published: 2024-03-05T00:00:00+00:00
  - user: rumpel
  - tags: ['gender']
+
+## Want money off North Face clothing? You’ll have to complete a ‘racial inclusion’ course first
+ - [https://www.telegraph.co.uk/news/2024/03/05/the-north-face-discount-racial-inclusion-course-outdoors](https://www.telegraph.co.uk/news/2024/03/05/the-north-face-discount-racial-inclusion-course-outdoors)
+ - date published: 2024-03-05T00:00:00+00:00
+ - user: rumpel
+ - tags: ['propaganda', 'racism', 'diversity']
 
 ## Global Population Crash Isn't Sci-Fi Anymore
  - [https://www.bloomberg.com/opinion/articles/2024-03-10/global-population-collapse-isn-t-sci-fi-anymore-niall-ferguson](https://www.bloomberg.com/opinion/articles/2024-03-10/global-population-collapse-isn-t-sci-fi-anymore-niall-ferguson)
@@ -718,17 +718,17 @@
  - user: None
  - tags: ['surveillance', 'privacy']
 
-## In Gaza, starving children fill hospital wards as famine looms
- - [https://www.reuters.com/default/gaza-starving-children-fill-hospital-wards-famine-looms-2024-03-19](https://www.reuters.com/default/gaza-starving-children-fill-hospital-wards-famine-looms-2024-03-19)
- - date published: 2024-03-20T00:00:00+00:00
- - user: rumpel
- - tags: ['israel', 'palestine']
-
 ## Scotland’s new ‘thought police’ will be the death of the Edinburgh Festival
  - [https://www.telegraph.co.uk/columnists/2024/03/21/scotland-police-hate-laws-actors-stage-crime-plays](https://www.telegraph.co.uk/columnists/2024/03/21/scotland-police-hate-laws-actors-stage-crime-plays)
  - date published: 2024-03-20T00:00:00+00:00
  - user: rumpel
  - tags: ['scotland', 'hate speech and public order act', 'hate speech']
+
+## In Gaza, starving children fill hospital wards as famine looms
+ - [https://www.reuters.com/default/gaza-starving-children-fill-hospital-wards-famine-looms-2024-03-19](https://www.reuters.com/default/gaza-starving-children-fill-hospital-wards-famine-looms-2024-03-19)
+ - date published: 2024-03-20T00:00:00+00:00
+ - user: rumpel
+ - tags: ['israel', 'palestine']
 
 ## Saudi Arabia to be appointed chair of UN’s gender equality forum amid ongoing assault on women’s rights
  - [https://www.amnesty.org/en/latest/news/2024/03/saudi-arabia-to-be-appointed-chair-uns-gender-equality-forum-amid-ongoing-assault-on-womens-rights](https://www.amnesty.org/en/latest/news/2024/03/saudi-arabia-to-be-appointed-chair-uns-gender-equality-forum-amid-ongoing-assault-on-womens-rights)
