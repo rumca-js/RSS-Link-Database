@@ -628,17 +628,17 @@
  - user: rumpel
  - tags: ['wuhan', 'manufacturing consent', 'anthony fauci', 'science is dead', 'censorship', 'covid', 'lab leak']
 
-## Jordan Peterson's Realization About the Bible
- - [https://www.youtube.com/watch?v=Vt9K6kmpx44](https://www.youtube.com/watch?v=Vt9K6kmpx44)
- - date published: 2022-01-25T00:00:00+00:00
- - user: rumpel
- - tags: ['bible', 'religion', 'jordan peterson']
-
 ## Comparing a $65,000 3D Printer to a $350 home 3D printer
  - [https://www.youtube.com/watch?v=bwyZjG5qxL8](https://www.youtube.com/watch?v=bwyZjG5qxL8)
  - date published: 2022-01-25T00:00:00+00:00
  - user: rumpel
  - tags: ['3d printer']
+
+## Jordan Peterson's Realization About the Bible
+ - [https://www.youtube.com/watch?v=Vt9K6kmpx44](https://www.youtube.com/watch?v=Vt9K6kmpx44)
+ - date published: 2022-01-25T00:00:00+00:00
+ - user: rumpel
+ - tags: ['bible', 'religion', 'jordan peterson']
 
 ## Survey Says Developers Are Definitely Not Interested In NFTs
  - [https://kotaku.com/nft-crypto-cryptocurrency-blockchain-gdc-video-games-de-1848407959](https://kotaku.com/nft-crypto-cryptocurrency-blockchain-gdc-video-games-de-1848407959)
@@ -1270,17 +1270,17 @@
  - user: None
  - tags: ['windows 11', 'always online']
 
-## Interview with Senior C++ Developer
- - [https://www.youtube.com/watch?v=s7wLYzRJt3s](https://www.youtube.com/watch?v=s7wLYzRJt3s)
- - date published: 2022-02-19T00:00:00+00:00
- - user: rumpel
- - tags: ['programming', 'funny']
-
 ## A Timeline of Narnia History | Narnia Lore | The Seven Ages of Narnia
  - [https://www.youtube.com/watch?v=Vy_nbi_Gl7k](https://www.youtube.com/watch?v=Vy_nbi_Gl7k)
  - date published: 2022-02-19T00:00:00+00:00
  - user: rumpel
  - tags: ['narnia', 'book']
+
+## Interview with Senior C++ Developer
+ - [https://www.youtube.com/watch?v=s7wLYzRJt3s](https://www.youtube.com/watch?v=s7wLYzRJt3s)
+ - date published: 2022-02-19T00:00:00+00:00
+ - user: rumpel
+ - tags: ['programming', 'funny']
 
 ## Ottawa Police Chief says police will come after protesters for months to come “with financial sanctions and criminal charges”
  - [https://westphaliantimes.com/ottawa-police-chief-says-law-enforcement-will-come-after-protestors-even-if-they-go-home](https://westphaliantimes.com/ottawa-police-chief-says-law-enforcement-will-come-after-protestors-even-if-they-go-home)
@@ -1762,17 +1762,17 @@
  - user: Thomas Pain
  - tags: []
 
-## Man Born in 1853 Talks About Childhood in the 1860s- Enhanced Video & Audio [60 fps]
- - [https://www.youtube.com/watch?v=_oqbLSisnME](https://www.youtube.com/watch?v=_oqbLSisnME)
- - date published: 2022-03-19T00:00:00+00:00
- - user: rumpel
- - tags: ['archive', 'documentary', 'history']
-
 ## Interview with Senior PHP Developer
  - [https://www.youtube.com/watch?v=GzRfvwo1iNU](https://www.youtube.com/watch?v=GzRfvwo1iNU)
  - date published: 2022-03-19T00:00:00+00:00
  - user: rumpel
  - tags: ['programming', 'funny']
+
+## Man Born in 1853 Talks About Childhood in the 1860s- Enhanced Video & Audio [60 fps]
+ - [https://www.youtube.com/watch?v=_oqbLSisnME](https://www.youtube.com/watch?v=_oqbLSisnME)
+ - date published: 2022-03-19T00:00:00+00:00
+ - user: rumpel
+ - tags: ['archive', 'documentary', 'history']
 
 ## Amazon intentionally made it difficult to cancel Prime subscription in secret project | The Independent
  - [https://www.independent.co.uk/tech/amazon-prime-subscription-cancel-secret-project-b2038207.html](https://www.independent.co.uk/tech/amazon-prime-subscription-cancel-secret-project-b2038207.html)
@@ -5770,17 +5770,17 @@
  - user: None
  - tags: []
 
-## Facebook engineers admit they don’t know what they do with your data
- - [https://www.codeproject.com/script/News/View.aspx?nwid=58810](https://www.codeproject.com/script/News/View.aspx?nwid=58810)
- - date published: 2022-09-08T04:00:00+00:00
- - user: None
- - tags: ['meta', 'facebook', 'privacy', 'corporatocracy']
-
 ## The EU’s AI Act could have a chilling effect on open source efforts, experts warn
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58818](https://www.codeproject.com/script/News/View.aspx?nwid=58818)
  - date published: 2022-09-08T04:00:00+00:00
  - user: None
  - tags: ['open source', 'artificial intelligence']
+
+## Facebook engineers admit they don’t know what they do with your data
+ - [https://www.codeproject.com/script/News/View.aspx?nwid=58810](https://www.codeproject.com/script/News/View.aspx?nwid=58810)
+ - date published: 2022-09-08T04:00:00+00:00
+ - user: None
+ - tags: ['meta', 'facebook', 'privacy', 'corporatocracy']
 
 ## I Got Banned for Life from Airbnb
  - [https://jacksoncunningham.medium.com/digital-exile-how-i-got-banned-for-life-from-airbnb-615434c6eeba](https://jacksoncunningham.medium.com/digital-exile-how-i-got-banned-for-life-from-airbnb-615434c6eeba)
@@ -5848,14 +5848,14 @@
  - user: None
  - tags: ['internet', 'surveillance', 'social media', 'big tech', 'privacy']
 
-## What Is 'Fog Reveal,' the Police App Tracking Your Phone?
- - [https://gizmodo.com/what-is-fog-reveal-police-app-tracking-your-phone-1849514556](https://gizmodo.com/what-is-fog-reveal-police-app-tracking-your-phone-1849514556)
+## Google and Amazon Workers Fill Streets To Protest Israel's 'Project Nimbus'
+ - [https://gizmodo.com/project-nimbus-protest-amazon-google-palestine-cloud-1849514805](https://gizmodo.com/project-nimbus-protest-amazon-google-palestine-cloud-1849514805)
  - date published: 2022-09-09T11:00:00+00:00
  - user: None
  - tags: []
 
-## Google and Amazon Workers Fill Streets To Protest Israel's 'Project Nimbus'
- - [https://gizmodo.com/project-nimbus-protest-amazon-google-palestine-cloud-1849514805](https://gizmodo.com/project-nimbus-protest-amazon-google-palestine-cloud-1849514805)
+## What Is 'Fog Reveal,' the Police App Tracking Your Phone?
+ - [https://gizmodo.com/what-is-fog-reveal-police-app-tracking-your-phone-1849514556](https://gizmodo.com/what-is-fog-reveal-police-app-tracking-your-phone-1849514556)
  - date published: 2022-09-09T11:00:00+00:00
  - user: None
  - tags: []
@@ -6274,14 +6274,14 @@
  - user: None
  - tags: ['billionaires', 'covid', 'elites', 'bill gates', 'manufacturing consent']
 
-## A Virus That Can Cause Polio-Like Paralysis in Children Has Returned
- - [https://gizmodo.com/acute-flaccid-myelitis-enterovirus-d-68-cdc-2022-1849536384](https://gizmodo.com/acute-flaccid-myelitis-enterovirus-d-68-cdc-2022-1849536384)
+## How to Reduce Your Screen Time Without Apps, According to Reddit
+ - [https://lifehacker.com/how-to-reduce-your-screen-time-without-apps-according-1849536443](https://lifehacker.com/how-to-reduce-your-screen-time-without-apps-according-1849536443)
  - date published: 2022-09-14T20:30:00+00:00
  - user: None
  - tags: []
 
-## How to Reduce Your Screen Time Without Apps, According to Reddit
- - [https://lifehacker.com/how-to-reduce-your-screen-time-without-apps-according-1849536443](https://lifehacker.com/how-to-reduce-your-screen-time-without-apps-according-1849536443)
+## A Virus That Can Cause Polio-Like Paralysis in Children Has Returned
+ - [https://gizmodo.com/acute-flaccid-myelitis-enterovirus-d-68-cdc-2022-1849536384](https://gizmodo.com/acute-flaccid-myelitis-enterovirus-d-68-cdc-2022-1849536384)
  - date published: 2022-09-14T20:30:00+00:00
  - user: None
  - tags: []
@@ -7156,17 +7156,17 @@
  - user: None
  - tags: ['electric vehicles', 'china', 'australia']
 
-## The sad state of debug performance in C++
- - [https://www.codeproject.com/script/News/View.aspx?nwid=59015](https://www.codeproject.com/script/News/View.aspx?nwid=59015)
- - date published: 2022-09-27T04:00:00+00:00
- - user: None
- - tags: ['c++', 'programming', 'performance', 'debug']
-
 ## Microsoft tells companies to “re-recruit” employees to their positions
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59012](https://www.codeproject.com/script/News/View.aspx?nwid=59012)
  - date published: 2022-09-27T04:00:00+00:00
  - user: None
  - tags: []
+
+## The sad state of debug performance in C++
+ - [https://www.codeproject.com/script/News/View.aspx?nwid=59015](https://www.codeproject.com/script/News/View.aspx?nwid=59015)
+ - date published: 2022-09-27T04:00:00+00:00
+ - user: None
+ - tags: ['c++', 'programming', 'performance', 'debug']
 
 ## W Poznaniu odbędzie się seks festiwal. W programie &quot;Dlaczego warto oglądać porno?&quot; i &quot;Przyszłość sex-zabawek jest niebinarna&quot;
  - [https://epoznan.pl/news-news-132809-w_poznaniu_odbedzie_sie_seks_festiwal_w_programie_dlaczego_warto_ogladac_porno_i_przyszlosc_sex_zabawek_jest_niebinarna?rss=1](https://epoznan.pl/news-news-132809-w_poznaniu_odbedzie_sie_seks_festiwal_w_programie_dlaczego_warto_ogladac_porno_i_przyszlosc_sex_zabawek_jest_niebinarna?rss=1)
@@ -9856,17 +9856,17 @@
  - user: None
  - tags: ['metaverse', 'mark zuckerberg', 'big tech']
 
-## The damage Kanye West is doing is devastating
- - [https://www.cnn.com/2022/11/02/opinions/kanye-west-antisemitic-comments-carter/index.html](https://www.cnn.com/2022/11/02/opinions/kanye-west-antisemitic-comments-carter/index.html)
- - date published: 2022-11-02T19:47:04+00:00
- - user: None
- - tags: ['kanye west', 'nazi']
-
 ## Americans by wide margins want race kept OUT of college admissions, says poll
  - [https://www.dailymail.co.uk/news/article-11381789/Americans-wide-margins-want-race-kept-college-admissions-says-poll.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11381789/Americans-wide-margins-want-race-kept-college-admissions-says-poll.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2022-11-02T19:47:04+00:00
  - user: None
  - tags: ['blm', 'black lives matter']
+
+## The damage Kanye West is doing is devastating
+ - [https://www.cnn.com/2022/11/02/opinions/kanye-west-antisemitic-comments-carter/index.html](https://www.cnn.com/2022/11/02/opinions/kanye-west-antisemitic-comments-carter/index.html)
+ - date published: 2022-11-02T19:47:04+00:00
+ - user: None
+ - tags: ['kanye west', 'nazi']
 
 ## Facebook's Going Back to Only Using Algorithms to Curate Its News Tab
  - [https://gizmodo.com/facebook-meta-news-curation-algorithm-1849734224](https://gizmodo.com/facebook-meta-news-curation-algorithm-1849734224)
