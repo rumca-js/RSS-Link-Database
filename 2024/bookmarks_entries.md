@@ -418,17 +418,17 @@
  - user: rumpel
  - tags: []
 
-## Soros, Facebook, And Omidyar Money Behind Attacks On German Farmers
- - [https://public.substack.com/p/soros-facebook-and-omidyar-money](https://public.substack.com/p/soros-facebook-and-omidyar-money)
- - date published: 2024-01-30T00:00:00+00:00
- - user: rumpel
- - tags: ['disinformation', 'george soros', 'misinformation', 'facebook']
-
 ## A passenger who caused fighter jets to flank an airliner after he privately joked about blowing up the plane was cleared and avoided a $120,000 bill
  - [https://www.businessinsider.com/passenger-avoids-120k-bill-after-bomb-joke-scrambled-fighter-jets-2024-1?IR=T](https://www.businessinsider.com/passenger-avoids-120k-bill-after-bomb-joke-scrambled-fighter-jets-2024-1?IR=T)
  - date published: 2024-01-30T00:00:00+00:00
  - user: rumpel
  - tags: ['orwell', 'privacy', 'big brother', 'surveillance']
+
+## Soros, Facebook, And Omidyar Money Behind Attacks On German Farmers
+ - [https://public.substack.com/p/soros-facebook-and-omidyar-money](https://public.substack.com/p/soros-facebook-and-omidyar-money)
+ - date published: 2024-01-30T00:00:00+00:00
+ - user: rumpel
+ - tags: ['disinformation', 'george soros', 'misinformation', 'facebook']
 
 ## Flynn effect - Wikipedia
  - [https://en.wikipedia.org/wiki/Flynn_effect](https://en.wikipedia.org/wiki/Flynn_effect)
@@ -652,6 +652,12 @@
  - user: rumpel
  - tags: ['propaganda', 'racism', 'diversity']
 
+## Why disturbing leaks from US gender group WPATH ring alarm bells in the NHS | Hannah Barnes
+ - [https://www.theguardian.com/commentisfree/2024/mar/09/disturbing-leaks-from-us-gender-group-wpath-ring-alarm-bells-in-nhs](https://www.theguardian.com/commentisfree/2024/mar/09/disturbing-leaks-from-us-gender-group-wpath-ring-alarm-bells-in-nhs)
+ - date published: 2024-03-09T18:00:38+00:00
+ - user: rumpel
+ - tags: ['wpath', 'transgender']
+
 ## Global Population Crash Isn't Sci-Fi Anymore
  - [https://www.bloomberg.com/opinion/articles/2024-03-10/global-population-collapse-isn-t-sci-fi-anymore-niall-ferguson](https://www.bloomberg.com/opinion/articles/2024-03-10/global-population-collapse-isn-t-sci-fi-anymore-niall-ferguson)
  - date published: 2024-03-11T00:07:35+00:00
@@ -686,7 +692,7 @@
  - [https://www.economist.com/united-states/2024/03/05/leaked-discussions-reveal-uncertainty-about-transgender-care](https://www.economist.com/united-states/2024/03/05/leaked-discussions-reveal-uncertainty-about-transgender-care)
  - date published: 2024-03-13T00:50:49+00:00
  - user: None
- - tags: ['transgender']
+ - tags: ['wpath', 'transgender']
 
 ## A New Surge in Power Use Is Threatening U.S. Climate Goals
  - [https://www.nytimes.com/interactive/2024/03/13/climate/electric-power-climate-change.html](https://www.nytimes.com/interactive/2024/03/13/climate/electric-power-climate-change.html)
@@ -718,17 +724,17 @@
  - user: None
  - tags: ['surveillance', 'privacy']
 
-## Scotland’s new ‘thought police’ will be the death of the Edinburgh Festival
- - [https://www.telegraph.co.uk/columnists/2024/03/21/scotland-police-hate-laws-actors-stage-crime-plays](https://www.telegraph.co.uk/columnists/2024/03/21/scotland-police-hate-laws-actors-stage-crime-plays)
- - date published: 2024-03-20T00:00:00+00:00
- - user: rumpel
- - tags: ['scotland', 'hate speech and public order act', 'hate speech']
-
 ## In Gaza, starving children fill hospital wards as famine looms
  - [https://www.reuters.com/default/gaza-starving-children-fill-hospital-wards-famine-looms-2024-03-19](https://www.reuters.com/default/gaza-starving-children-fill-hospital-wards-famine-looms-2024-03-19)
  - date published: 2024-03-20T00:00:00+00:00
  - user: rumpel
  - tags: ['israel', 'palestine']
+
+## Scotland’s new ‘thought police’ will be the death of the Edinburgh Festival
+ - [https://www.telegraph.co.uk/columnists/2024/03/21/scotland-police-hate-laws-actors-stage-crime-plays](https://www.telegraph.co.uk/columnists/2024/03/21/scotland-police-hate-laws-actors-stage-crime-plays)
+ - date published: 2024-03-20T00:00:00+00:00
+ - user: rumpel
+ - tags: ['scotland', 'hate speech and public order act', 'hate speech']
 
 ## Saudi Arabia to be appointed chair of UN’s gender equality forum amid ongoing assault on women’s rights
  - [https://www.amnesty.org/en/latest/news/2024/03/saudi-arabia-to-be-appointed-chair-uns-gender-equality-forum-amid-ongoing-assault-on-womens-rights](https://www.amnesty.org/en/latest/news/2024/03/saudi-arabia-to-be-appointed-chair-uns-gender-equality-forum-amid-ongoing-assault-on-womens-rights)
