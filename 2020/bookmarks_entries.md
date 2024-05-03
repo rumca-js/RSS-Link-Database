@@ -1968,12 +1968,6 @@
  - user: None
  - tags: []
 
-## Command Line Bibles
- - [https://lukesmith.xyz/articles/command-line-bibles](https://lukesmith.xyz/articles/command-line-bibles)
- - date published: 2020-12-11T00:00:00+00:00
- - user: None
- - tags: []
-
 ## Science vs. Soyence
  - [https://lukesmith.xyz/articles/science-vs-soyence](https://lukesmith.xyz/articles/science-vs-soyence)
  - date published: 2020-12-11T00:00:00+00:00
@@ -1991,6 +1985,12 @@
  - date published: 2020-12-11T00:00:00+00:00
  - user: None
  - tags: ['linux']
+
+## Command Line Bibles
+ - [https://lukesmith.xyz/articles/command-line-bibles](https://lukesmith.xyz/articles/command-line-bibles)
+ - date published: 2020-12-11T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Szwecja. Zabójstwo honorowe w autobusie pełnym ludzi. Ojciec i synowie skazani - Polsat News
  - [https://www.polsatnews.pl/wiadomosc/2020-12-11/szwecja-zabojstwo-honorowe-w-autobusie-pelnym-ludzi-ojciec-i-synowie-skazani/?ref=aside_najnowsze](https://www.polsatnews.pl/wiadomosc/2020-12-11/szwecja-zabojstwo-honorowe-w-autobusie-pelnym-ludzi-ojciec-i-synowie-skazani/?ref=aside_najnowsze)

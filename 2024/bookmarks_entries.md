@@ -724,17 +724,17 @@
  - user: None
  - tags: ['surveillance', 'privacy']
 
-## Scotland’s new ‘thought police’ will be the death of the Edinburgh Festival
- - [https://www.telegraph.co.uk/columnists/2024/03/21/scotland-police-hate-laws-actors-stage-crime-plays](https://www.telegraph.co.uk/columnists/2024/03/21/scotland-police-hate-laws-actors-stage-crime-plays)
- - date published: 2024-03-20T00:00:00+00:00
- - user: rumpel
- - tags: ['scotland', 'hate speech and public order act', 'hate speech']
-
 ## In Gaza, starving children fill hospital wards as famine looms
  - [https://www.reuters.com/default/gaza-starving-children-fill-hospital-wards-famine-looms-2024-03-19](https://www.reuters.com/default/gaza-starving-children-fill-hospital-wards-famine-looms-2024-03-19)
  - date published: 2024-03-20T00:00:00+00:00
  - user: rumpel
  - tags: ['israel', 'palestine']
+
+## Scotland’s new ‘thought police’ will be the death of the Edinburgh Festival
+ - [https://www.telegraph.co.uk/columnists/2024/03/21/scotland-police-hate-laws-actors-stage-crime-plays](https://www.telegraph.co.uk/columnists/2024/03/21/scotland-police-hate-laws-actors-stage-crime-plays)
+ - date published: 2024-03-20T00:00:00+00:00
+ - user: rumpel
+ - tags: ['scotland', 'hate speech and public order act', 'hate speech']
 
 ## Saudi Arabia to be appointed chair of UN’s gender equality forum amid ongoing assault on women’s rights
  - [https://www.amnesty.org/en/latest/news/2024/03/saudi-arabia-to-be-appointed-chair-uns-gender-equality-forum-amid-ongoing-assault-on-womens-rights](https://www.amnesty.org/en/latest/news/2024/03/saudi-arabia-to-be-appointed-chair-uns-gender-equality-forum-amid-ongoing-assault-on-womens-rights)
