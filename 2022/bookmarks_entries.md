@@ -5848,14 +5848,14 @@
  - user: None
  - tags: ['internet', 'surveillance', 'social media', 'big tech', 'privacy']
 
-## Google and Amazon Workers Fill Streets To Protest Israel's 'Project Nimbus'
- - [https://gizmodo.com/project-nimbus-protest-amazon-google-palestine-cloud-1849514805](https://gizmodo.com/project-nimbus-protest-amazon-google-palestine-cloud-1849514805)
+## What Is 'Fog Reveal,' the Police App Tracking Your Phone?
+ - [https://gizmodo.com/what-is-fog-reveal-police-app-tracking-your-phone-1849514556](https://gizmodo.com/what-is-fog-reveal-police-app-tracking-your-phone-1849514556)
  - date published: 2022-09-09T11:00:00+00:00
  - user: None
  - tags: []
 
-## What Is 'Fog Reveal,' the Police App Tracking Your Phone?
- - [https://gizmodo.com/what-is-fog-reveal-police-app-tracking-your-phone-1849514556](https://gizmodo.com/what-is-fog-reveal-police-app-tracking-your-phone-1849514556)
+## Google and Amazon Workers Fill Streets To Protest Israel's 'Project Nimbus'
+ - [https://gizmodo.com/project-nimbus-protest-amazon-google-palestine-cloud-1849514805](https://gizmodo.com/project-nimbus-protest-amazon-google-palestine-cloud-1849514805)
  - date published: 2022-09-09T11:00:00+00:00
  - user: None
  - tags: []
@@ -5986,17 +5986,17 @@
  - user: Thomas Pain
  - tags: []
 
-## New Linux malware combines unusual stealth with a full suite of capabilities
- - [https://www.codeproject.com/script/News/View.aspx?nwid=58841](https://www.codeproject.com/script/News/View.aspx?nwid=58841)
- - date published: 2022-09-12T04:00:00+00:00
- - user: None
- - tags: ['malware', 'linux', 'vulnerability']
-
 ## DOJ: Google illegally maintains its search monopoly
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58842](https://www.codeproject.com/script/News/View.aspx?nwid=58842)
  - date published: 2022-09-12T04:00:00+00:00
  - user: None
  - tags: ['monopoly', 'search engines', 'dark design']
+
+## New Linux malware combines unusual stealth with a full suite of capabilities
+ - [https://www.codeproject.com/script/News/View.aspx?nwid=58841](https://www.codeproject.com/script/News/View.aspx?nwid=58841)
+ - date published: 2022-09-12T04:00:00+00:00
+ - user: None
+ - tags: ['malware', 'linux', 'vulnerability']
 
 ## Xinjiang lockdown: Chinese censors drown out posts about food and medicine shortages
  - [https://www.reddit.com/r/news/comments/xc3zj1/xinjiang_lockdown_chinese_censors_drown_out_posts](https://www.reddit.com/r/news/comments/xc3zj1/xinjiang_lockdown_chinese_censors_drown_out_posts)
@@ -9040,14 +9040,14 @@
  - user: None
  - tags: []
 
-## Harvard's robotic tentacle gripper is pure nightmare fuel
- - [https://www.codeproject.com/script/News/View.aspx?nwid=59308](https://www.codeproject.com/script/News/View.aspx?nwid=59308)
+## Passkeys—Microsoft, Apple, and Google’s password killer—are finally here
+ - [https://www.codeproject.com/script/News/View.aspx?nwid=59301](https://www.codeproject.com/script/News/View.aspx?nwid=59301)
  - date published: 2022-10-26T04:00:00+00:00
  - user: None
  - tags: []
 
-## Passkeys—Microsoft, Apple, and Google’s password killer—are finally here
- - [https://www.codeproject.com/script/News/View.aspx?nwid=59301](https://www.codeproject.com/script/News/View.aspx?nwid=59301)
+## Harvard's robotic tentacle gripper is pure nightmare fuel
+ - [https://www.codeproject.com/script/News/View.aspx?nwid=59308](https://www.codeproject.com/script/News/View.aspx?nwid=59308)
  - date published: 2022-10-26T04:00:00+00:00
  - user: None
  - tags: []
@@ -9856,17 +9856,17 @@
  - user: None
  - tags: ['metaverse', 'mark zuckerberg', 'big tech']
 
-## The damage Kanye West is doing is devastating
- - [https://www.cnn.com/2022/11/02/opinions/kanye-west-antisemitic-comments-carter/index.html](https://www.cnn.com/2022/11/02/opinions/kanye-west-antisemitic-comments-carter/index.html)
- - date published: 2022-11-02T19:47:04+00:00
- - user: None
- - tags: ['kanye west', 'nazi']
-
 ## Americans by wide margins want race kept OUT of college admissions, says poll
  - [https://www.dailymail.co.uk/news/article-11381789/Americans-wide-margins-want-race-kept-college-admissions-says-poll.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11381789/Americans-wide-margins-want-race-kept-college-admissions-says-poll.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2022-11-02T19:47:04+00:00
  - user: None
  - tags: ['blm', 'black lives matter']
+
+## The damage Kanye West is doing is devastating
+ - [https://www.cnn.com/2022/11/02/opinions/kanye-west-antisemitic-comments-carter/index.html](https://www.cnn.com/2022/11/02/opinions/kanye-west-antisemitic-comments-carter/index.html)
+ - date published: 2022-11-02T19:47:04+00:00
+ - user: None
+ - tags: ['kanye west', 'nazi']
 
 ## Facebook's Going Back to Only Using Algorithms to Curate Its News Tab
  - [https://gizmodo.com/facebook-meta-news-curation-algorithm-1849734224](https://gizmodo.com/facebook-meta-news-curation-algorithm-1849734224)
