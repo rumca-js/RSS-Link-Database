@@ -640,17 +640,17 @@
  - user: rumpel
  - tags: ['racism']
 
-## Spanish soldiers change gender to gain benefits intended for women
- - [https://www.telegraph.co.uk/news/2024/03/05/spanish-soldiers-change-gender-benefits-for-women](https://www.telegraph.co.uk/news/2024/03/05/spanish-soldiers-change-gender-benefits-for-women)
- - date published: 2024-03-05T00:00:00+00:00
- - user: rumpel
- - tags: ['gender']
-
 ## Want money off North Face clothing? You’ll have to complete a ‘racial inclusion’ course first
  - [https://www.telegraph.co.uk/news/2024/03/05/the-north-face-discount-racial-inclusion-course-outdoors](https://www.telegraph.co.uk/news/2024/03/05/the-north-face-discount-racial-inclusion-course-outdoors)
  - date published: 2024-03-05T00:00:00+00:00
  - user: rumpel
  - tags: ['propaganda', 'racism', 'diversity']
+
+## Spanish soldiers change gender to gain benefits intended for women
+ - [https://www.telegraph.co.uk/news/2024/03/05/spanish-soldiers-change-gender-benefits-for-women](https://www.telegraph.co.uk/news/2024/03/05/spanish-soldiers-change-gender-benefits-for-women)
+ - date published: 2024-03-05T00:00:00+00:00
+ - user: rumpel
+ - tags: ['gender']
 
 ## Why disturbing leaks from US gender group WPATH ring alarm bells in the NHS | Hannah Barnes
  - [https://www.theguardian.com/commentisfree/2024/mar/09/disturbing-leaks-from-us-gender-group-wpath-ring-alarm-bells-in-nhs](https://www.theguardian.com/commentisfree/2024/mar/09/disturbing-leaks-from-us-gender-group-wpath-ring-alarm-bells-in-nhs)
@@ -724,17 +724,17 @@
  - user: None
  - tags: ['surveillance', 'privacy']
 
-## In Gaza, starving children fill hospital wards as famine looms
- - [https://www.reuters.com/default/gaza-starving-children-fill-hospital-wards-famine-looms-2024-03-19](https://www.reuters.com/default/gaza-starving-children-fill-hospital-wards-famine-looms-2024-03-19)
- - date published: 2024-03-20T00:00:00+00:00
- - user: rumpel
- - tags: ['israel', 'palestine']
-
 ## Scotland’s new ‘thought police’ will be the death of the Edinburgh Festival
  - [https://www.telegraph.co.uk/columnists/2024/03/21/scotland-police-hate-laws-actors-stage-crime-plays](https://www.telegraph.co.uk/columnists/2024/03/21/scotland-police-hate-laws-actors-stage-crime-plays)
  - date published: 2024-03-20T00:00:00+00:00
  - user: rumpel
  - tags: ['scotland', 'hate speech and public order act', 'hate speech']
+
+## In Gaza, starving children fill hospital wards as famine looms
+ - [https://www.reuters.com/default/gaza-starving-children-fill-hospital-wards-famine-looms-2024-03-19](https://www.reuters.com/default/gaza-starving-children-fill-hospital-wards-famine-looms-2024-03-19)
+ - date published: 2024-03-20T00:00:00+00:00
+ - user: rumpel
+ - tags: ['israel', 'palestine']
 
 ## Saudi Arabia to be appointed chair of UN’s gender equality forum amid ongoing assault on women’s rights
  - [https://www.amnesty.org/en/latest/news/2024/03/saudi-arabia-to-be-appointed-chair-uns-gender-equality-forum-amid-ongoing-assault-on-womens-rights](https://www.amnesty.org/en/latest/news/2024/03/saudi-arabia-to-be-appointed-chair-uns-gender-equality-forum-amid-ongoing-assault-on-womens-rights)
