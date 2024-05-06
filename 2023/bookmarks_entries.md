@@ -280,14 +280,14 @@
  - user: rumpel
  - tags: ['corporatocracy', 'ad business', 'surveillance', 'gdpr', 'big brother']
 
-## Google obtains thousands of medical records from the Dept of Defense
- - [https://gcaptain.com/us-navy-opens-medical-vault-for-google](https://gcaptain.com/us-navy-opens-medical-vault-for-google)
+## Google’s quest to digitize troops’ tissue samples
+ - [https://www.propublica.org/article/google-human-tissue-jpc-military](https://www.propublica.org/article/google-human-tissue-jpc-military)
  - date published: 2023-01-05T23:15:09+00:00
  - user: rumpel
  - tags: ['google']
 
-## Google’s quest to digitize troops’ tissue samples
- - [https://www.propublica.org/article/google-human-tissue-jpc-military](https://www.propublica.org/article/google-human-tissue-jpc-military)
+## Google obtains thousands of medical records from the Dept of Defense
+ - [https://gcaptain.com/us-navy-opens-medical-vault-for-google](https://gcaptain.com/us-navy-opens-medical-vault-for-google)
  - date published: 2023-01-05T23:15:09+00:00
  - user: rumpel
  - tags: ['google']
@@ -6438,17 +6438,17 @@
  - user: rumpel
  - tags: ['lineageos', 'raspberry pi', 'android']
 
-## Jak zrobić dobrą siekierę? Porady kowala Romka: "Ostrze wstawione równo w obuch tak jak strzelił"
- - [https://www.youtube.com/watch?v=SkKCS0pO87I](https://www.youtube.com/watch?v=SkKCS0pO87I)
- - date published: 2023-06-16T00:00:00+00:00
- - user: rumpel
- - tags: ['blacksmith', 'hobby']
-
 ## Woke Trans Kids Doctor GETS CAREER ENDED In CONGRESS By BASED Psychiatrist With Scientific Evidence!
  - [https://www.youtube.com/watch?v=iJl7UywkArc](https://www.youtube.com/watch?v=iJl7UywkArc)
  - date published: 2023-06-16T00:00:00+00:00
  - user: rumpel
  - tags: ['transgender']
+
+## Jak zrobić dobrą siekierę? Porady kowala Romka: "Ostrze wstawione równo w obuch tak jak strzelił"
+ - [https://www.youtube.com/watch?v=SkKCS0pO87I](https://www.youtube.com/watch?v=SkKCS0pO87I)
+ - date published: 2023-06-16T00:00:00+00:00
+ - user: rumpel
+ - tags: ['blacksmith', 'hobby']
 
 ## Reddit is removing moderators that protest by taking their communities private
  - [https://old.reddit.com/r/ModCoord/comments/14aeq5j/new_admin_post_if_a_moderator_team_unanimously](https://old.reddit.com/r/ModCoord/comments/14aeq5j/new_admin_post_if_a_moderator_team_unanimously)
