@@ -6438,17 +6438,17 @@
  - user: rumpel
  - tags: ['lineageos', 'raspberry pi', 'android']
 
-## Woke Trans Kids Doctor GETS CAREER ENDED In CONGRESS By BASED Psychiatrist With Scientific Evidence!
- - [https://www.youtube.com/watch?v=iJl7UywkArc](https://www.youtube.com/watch?v=iJl7UywkArc)
- - date published: 2023-06-16T00:00:00+00:00
- - user: rumpel
- - tags: ['transgender']
-
 ## Jak zrobić dobrą siekierę? Porady kowala Romka: "Ostrze wstawione równo w obuch tak jak strzelił"
  - [https://www.youtube.com/watch?v=SkKCS0pO87I](https://www.youtube.com/watch?v=SkKCS0pO87I)
  - date published: 2023-06-16T00:00:00+00:00
  - user: rumpel
  - tags: ['blacksmith', 'hobby']
+
+## Woke Trans Kids Doctor GETS CAREER ENDED In CONGRESS By BASED Psychiatrist With Scientific Evidence!
+ - [https://www.youtube.com/watch?v=iJl7UywkArc](https://www.youtube.com/watch?v=iJl7UywkArc)
+ - date published: 2023-06-16T00:00:00+00:00
+ - user: rumpel
+ - tags: ['transgender']
 
 ## Reddit is removing moderators that protest by taking their communities private
  - [https://old.reddit.com/r/ModCoord/comments/14aeq5j/new_admin_post_if_a_moderator_team_unanimously](https://old.reddit.com/r/ModCoord/comments/14aeq5j/new_admin_post_if_a_moderator_team_unanimously)
