@@ -628,17 +628,17 @@
  - user: rumpel
  - tags: ['wuhan', 'manufacturing consent', 'anthony fauci', 'science is dead', 'censorship', 'covid', 'lab leak']
 
-## Jordan Peterson's Realization About the Bible
- - [https://www.youtube.com/watch?v=Vt9K6kmpx44](https://www.youtube.com/watch?v=Vt9K6kmpx44)
- - date published: 2022-01-25T00:00:00+00:00
- - user: rumpel
- - tags: ['bible', 'religion', 'jordan peterson']
-
 ## Comparing a $65,000 3D Printer to a $350 home 3D printer
  - [https://www.youtube.com/watch?v=bwyZjG5qxL8](https://www.youtube.com/watch?v=bwyZjG5qxL8)
  - date published: 2022-01-25T00:00:00+00:00
  - user: rumpel
  - tags: ['3d printer']
+
+## Jordan Peterson's Realization About the Bible
+ - [https://www.youtube.com/watch?v=Vt9K6kmpx44](https://www.youtube.com/watch?v=Vt9K6kmpx44)
+ - date published: 2022-01-25T00:00:00+00:00
+ - user: rumpel
+ - tags: ['bible', 'religion', 'jordan peterson']
 
 ## Survey Says Developers Are Definitely Not Interested In NFTs
  - [https://kotaku.com/nft-crypto-cryptocurrency-blockchain-gdc-video-games-de-1848407959](https://kotaku.com/nft-crypto-cryptocurrency-blockchain-gdc-video-games-de-1848407959)
@@ -1696,17 +1696,17 @@
  - user: Thomas Pain
  - tags: []
 
-## Ufopornoo! - Higher Quality
- - [https://www.youtube.com/watch?v=W5UkA2Gg-Cc](https://www.youtube.com/watch?v=W5UkA2Gg-Cc)
- - date published: 2022-03-16T00:00:00+00:00
- - user: rumpel
- - tags: ['funny']
-
 ## Secret behind Hollywood's power. And why they are afraid of the WOKE.
  - [https://www.youtube.com/watch?v=WJzXUSl20kM](https://www.youtube.com/watch?v=WJzXUSl20kM)
  - date published: 2022-03-16T00:00:00+00:00
  - user: rumpel
  - tags: ['movies', 'the left wing', 'hollywood', 'woke']
+
+## Ufopornoo! - Higher Quality
+ - [https://www.youtube.com/watch?v=W5UkA2Gg-Cc](https://www.youtube.com/watch?v=W5UkA2Gg-Cc)
+ - date published: 2022-03-16T00:00:00+00:00
+ - user: rumpel
+ - tags: ['funny']
 
 ## How I survived a DDoS attack
  - [https://www.youtube.com/watch?v=VPcYMgTYQs0](https://www.youtube.com/watch?v=VPcYMgTYQs0)
@@ -1787,16 +1787,16 @@
  - tags: ['algorithms', 'microsoft', 'england']
 
 ## The Coudenhove-Kalergi Plan – The Genocide of the Peoples of Europe
- - [https://expose-news.com/2022/03/19/the-genocide-of-the-peoples-of-europe](https://expose-news.com/2022/03/19/the-genocide-of-the-peoples-of-europe)
- - date published: 2022-03-19T20:15:46+00:00
- - user: None
- - tags: ['coudenhove-kalergi', 'the right wing', 'immigration', 'genocide', 'conspiracy theory']
-
-## The Coudenhove-Kalergi Plan – The Genocide of the Peoples of Europe
  - [https://www.nutritruth.org/single-post/the-coudenhove-kalergi-plan-the-genocide-of-the-peoples-of-europe](https://www.nutritruth.org/single-post/the-coudenhove-kalergi-plan-the-genocide-of-the-peoples-of-europe)
  - date published: 2022-03-19T20:15:46+00:00
  - user: None
  - tags: ['coudenhove-kalergi', 'the right wing', 'immigration', 'genocide', 'depopulation']
+
+## The Coudenhove-Kalergi Plan – The Genocide of the Peoples of Europe
+ - [https://expose-news.com/2022/03/19/the-genocide-of-the-peoples-of-europe](https://expose-news.com/2022/03/19/the-genocide-of-the-peoples-of-europe)
+ - date published: 2022-03-19T20:15:46+00:00
+ - user: None
+ - tags: ['coudenhove-kalergi', 'the right wing', 'immigration', 'genocide', 'conspiracy theory']
 
 ## Web3.0: A Libertarian Dystopia
  - [https://www.youtube.com/watch?v=u-sNSjS8cq0](https://www.youtube.com/watch?v=u-sNSjS8cq0)
@@ -5770,17 +5770,17 @@
  - user: None
  - tags: []
 
-## The EU’s AI Act could have a chilling effect on open source efforts, experts warn
- - [https://www.codeproject.com/script/News/View.aspx?nwid=58818](https://www.codeproject.com/script/News/View.aspx?nwid=58818)
- - date published: 2022-09-08T04:00:00+00:00
- - user: None
- - tags: ['open source', 'artificial intelligence']
-
 ## Facebook engineers admit they don’t know what they do with your data
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58810](https://www.codeproject.com/script/News/View.aspx?nwid=58810)
  - date published: 2022-09-08T04:00:00+00:00
  - user: None
  - tags: ['meta', 'facebook', 'privacy', 'corporatocracy']
+
+## The EU’s AI Act could have a chilling effect on open source efforts, experts warn
+ - [https://www.codeproject.com/script/News/View.aspx?nwid=58818](https://www.codeproject.com/script/News/View.aspx?nwid=58818)
+ - date published: 2022-09-08T04:00:00+00:00
+ - user: None
+ - tags: ['open source', 'artificial intelligence']
 
 ## I Got Banned for Life from Airbnb
  - [https://jacksoncunningham.medium.com/digital-exile-how-i-got-banned-for-life-from-airbnb-615434c6eeba](https://jacksoncunningham.medium.com/digital-exile-how-i-got-banned-for-life-from-airbnb-615434c6eeba)
@@ -5848,14 +5848,14 @@
  - user: None
  - tags: ['internet', 'surveillance', 'social media', 'big tech', 'privacy']
 
-## What Is 'Fog Reveal,' the Police App Tracking Your Phone?
- - [https://gizmodo.com/what-is-fog-reveal-police-app-tracking-your-phone-1849514556](https://gizmodo.com/what-is-fog-reveal-police-app-tracking-your-phone-1849514556)
+## Google and Amazon Workers Fill Streets To Protest Israel's 'Project Nimbus'
+ - [https://gizmodo.com/project-nimbus-protest-amazon-google-palestine-cloud-1849514805](https://gizmodo.com/project-nimbus-protest-amazon-google-palestine-cloud-1849514805)
  - date published: 2022-09-09T11:00:00+00:00
  - user: None
  - tags: []
 
-## Google and Amazon Workers Fill Streets To Protest Israel's 'Project Nimbus'
- - [https://gizmodo.com/project-nimbus-protest-amazon-google-palestine-cloud-1849514805](https://gizmodo.com/project-nimbus-protest-amazon-google-palestine-cloud-1849514805)
+## What Is 'Fog Reveal,' the Police App Tracking Your Phone?
+ - [https://gizmodo.com/what-is-fog-reveal-police-app-tracking-your-phone-1849514556](https://gizmodo.com/what-is-fog-reveal-police-app-tracking-your-phone-1849514556)
  - date published: 2022-09-09T11:00:00+00:00
  - user: None
  - tags: []
@@ -9040,14 +9040,14 @@
  - user: None
  - tags: []
 
-## Harvard's robotic tentacle gripper is pure nightmare fuel
- - [https://www.codeproject.com/script/News/View.aspx?nwid=59308](https://www.codeproject.com/script/News/View.aspx?nwid=59308)
+## Passkeys—Microsoft, Apple, and Google’s password killer—are finally here
+ - [https://www.codeproject.com/script/News/View.aspx?nwid=59301](https://www.codeproject.com/script/News/View.aspx?nwid=59301)
  - date published: 2022-10-26T04:00:00+00:00
  - user: None
  - tags: []
 
-## Passkeys—Microsoft, Apple, and Google’s password killer—are finally here
- - [https://www.codeproject.com/script/News/View.aspx?nwid=59301](https://www.codeproject.com/script/News/View.aspx?nwid=59301)
+## Harvard's robotic tentacle gripper is pure nightmare fuel
+ - [https://www.codeproject.com/script/News/View.aspx?nwid=59308](https://www.codeproject.com/script/News/View.aspx?nwid=59308)
  - date published: 2022-10-26T04:00:00+00:00
  - user: None
  - tags: []

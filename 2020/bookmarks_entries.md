@@ -1086,11 +1086,11 @@
  - user: rumpel
  - tags: ['indoctrination', 'america', 'racism', 'the left wing']
 
-## How To Read MORE!
- - [https://www.youtube.com/watch?v=asvhBpSSDbA](https://www.youtube.com/watch?v=asvhBpSSDbA)
+## The Leaked BLM School Materials Are Insane
+ - [https://www.youtube.com/watch?v=jyRjbK-yKSk](https://www.youtube.com/watch?v=jyRjbK-yKSk)
  - date published: 2020-08-11T00:00:00+00:00
  - user: rumpel
- - tags: ['books']
+ - tags: []
 
 ## Black Lives Matter is a Domestic Terrorist Organization | Change My Mind
  - [https://www.youtube.com/watch?v=yITK_Bm78mI](https://www.youtube.com/watch?v=yITK_Bm78mI)
@@ -1098,11 +1098,11 @@
  - user: rumpel
  - tags: ['black lives matter', 'terrorism', 'extremism']
 
-## The Leaked BLM School Materials Are Insane
- - [https://www.youtube.com/watch?v=jyRjbK-yKSk](https://www.youtube.com/watch?v=jyRjbK-yKSk)
+## How To Read MORE!
+ - [https://www.youtube.com/watch?v=asvhBpSSDbA](https://www.youtube.com/watch?v=asvhBpSSDbA)
  - date published: 2020-08-11T00:00:00+00:00
  - user: rumpel
- - tags: []
+ - tags: ['books']
 
 ## Why your 'Carbon Footprint' Is A Lie | Climate Town
  - [https://www.youtube.com/watch?v=1J9LOqiXdpE](https://www.youtube.com/watch?v=1J9LOqiXdpE)
@@ -1974,12 +1974,6 @@
  - user: None
  - tags: []
 
-## The Fragility of Physics
- - [https://lukesmith.xyz/articles/the-fragility-of-physics](https://lukesmith.xyz/articles/the-fragility-of-physics)
- - date published: 2020-12-11T00:00:00+00:00
- - user: None
- - tags: []
-
 ## Science vs. Soyence
  - [https://lukesmith.xyz/articles/science-vs-soyence](https://lukesmith.xyz/articles/science-vs-soyence)
  - date published: 2020-12-11T00:00:00+00:00
@@ -1991,6 +1985,12 @@
  - date published: 2020-12-11T00:00:00+00:00
  - user: None
  - tags: ['linux']
+
+## The Fragility of Physics
+ - [https://lukesmith.xyz/articles/the-fragility-of-physics](https://lukesmith.xyz/articles/the-fragility-of-physics)
+ - date published: 2020-12-11T00:00:00+00:00
+ - user: None
+ - tags: []
 
 ## Szwecja. Zabójstwo honorowe w autobusie pełnym ludzi. Ojciec i synowie skazani - Polsat News
  - [https://www.polsatnews.pl/wiadomosc/2020-12-11/szwecja-zabojstwo-honorowe-w-autobusie-pelnym-ludzi-ojciec-i-synowie-skazani/?ref=aside_najnowsze](https://www.polsatnews.pl/wiadomosc/2020-12-11/szwecja-zabojstwo-honorowe-w-autobusie-pelnym-ludzi-ojciec-i-synowie-skazani/?ref=aside_najnowsze)

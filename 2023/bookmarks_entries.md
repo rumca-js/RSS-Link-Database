@@ -2608,17 +2608,17 @@
  - user: rumpel
  - tags: ['tiktok', 'europe']
 
-## The Media's Reaction to Woody Harrelson's SNL Monologue
- - [https://www.youtube.com/watch?v=fJRGDW4lbss](https://www.youtube.com/watch?v=fJRGDW4lbss)
- - date published: 2023-03-01T00:00:00+00:00
- - user: rumpel
- - tags: ['woody harrelson', 'covid']
-
 ## Jordan Peterson about the german government (DeepFake AI)
  - [https://www.youtube.com/watch?v=ha3gfD7S0_E](https://www.youtube.com/watch?v=ha3gfD7S0_E)
  - date published: 2023-03-01T00:00:00+00:00
  - user: rumpel
  - tags: ['deepfake']
+
+## The Media's Reaction to Woody Harrelson's SNL Monologue
+ - [https://www.youtube.com/watch?v=fJRGDW4lbss](https://www.youtube.com/watch?v=fJRGDW4lbss)
+ - date published: 2023-03-01T00:00:00+00:00
+ - user: rumpel
+ - tags: ['woody harrelson', 'covid']
 
 ## Ford files patent to allow self-driving cars to drive away from owners who don't keep up with payments | PC Gamer
  - [https://www.pcgamer.com/ford-files-patent-to-allow-self-driving-cars-to-drive-away-from-their-owners](https://www.pcgamer.com/ford-files-patent-to-allow-self-driving-cars-to-drive-away-from-their-owners)
