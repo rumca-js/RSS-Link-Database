@@ -418,17 +418,17 @@
  - user: rumpel
  - tags: []
 
-## Soros, Facebook, And Omidyar Money Behind Attacks On German Farmers
- - [https://public.substack.com/p/soros-facebook-and-omidyar-money](https://public.substack.com/p/soros-facebook-and-omidyar-money)
- - date published: 2024-01-30T00:00:00+00:00
- - user: rumpel
- - tags: ['disinformation', 'george soros', 'misinformation', 'facebook']
-
 ## A passenger who caused fighter jets to flank an airliner after he privately joked about blowing up the plane was cleared and avoided a $120,000 bill
  - [https://www.businessinsider.com/passenger-avoids-120k-bill-after-bomb-joke-scrambled-fighter-jets-2024-1?IR=T](https://www.businessinsider.com/passenger-avoids-120k-bill-after-bomb-joke-scrambled-fighter-jets-2024-1?IR=T)
  - date published: 2024-01-30T00:00:00+00:00
  - user: rumpel
  - tags: ['orwell', 'privacy', 'big brother', 'surveillance']
+
+## Soros, Facebook, And Omidyar Money Behind Attacks On German Farmers
+ - [https://public.substack.com/p/soros-facebook-and-omidyar-money](https://public.substack.com/p/soros-facebook-and-omidyar-money)
+ - date published: 2024-01-30T00:00:00+00:00
+ - user: rumpel
+ - tags: ['disinformation', 'george soros', 'misinformation', 'facebook']
 
 ## Flynn effect - Wikipedia
  - [https://en.wikipedia.org/wiki/Flynn_effect](https://en.wikipedia.org/wiki/Flynn_effect)
