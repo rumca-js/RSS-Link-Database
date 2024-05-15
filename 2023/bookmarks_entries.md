@@ -8088,17 +8088,17 @@
  - user: rumpel
  - tags: ['blackrock', 'plutocracy', 'esg', 'vanguard']
 
-## Pfizer can't explain why their Covid Vax causes myocarditis - Senate Estimates 3.8.23
- - [https://www.youtube.com/watch?v=yNSCQyPv-7U](https://www.youtube.com/watch?v=yNSCQyPv-7U)
- - date published: 2023-08-04T00:00:00+00:00
- - user: rumpel
- - tags: ['covid', 'vaccine', 'pfizer']
-
 ## Pfizer claims no one was forced to get the Jab
  - [https://www.youtube.com/watch?v=Vm9dfzGt9FI](https://www.youtube.com/watch?v=Vm9dfzGt9FI)
  - date published: 2023-08-04T00:00:00+00:00
  - user: rumpel
  - tags: ['pfizer', 'covid mandates', 'pandemic amnesty', 'covid', 'vaccine']
+
+## Pfizer can't explain why their Covid Vax causes myocarditis - Senate Estimates 3.8.23
+ - [https://www.youtube.com/watch?v=yNSCQyPv-7U](https://www.youtube.com/watch?v=yNSCQyPv-7U)
+ - date published: 2023-08-04T00:00:00+00:00
+ - user: rumpel
+ - tags: ['covid', 'vaccine', 'pfizer']
 
 ## Remixes | AmigaRemix
  - [https://www.amigaremix.com](https://www.amigaremix.com)

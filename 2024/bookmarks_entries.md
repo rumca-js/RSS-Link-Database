@@ -640,17 +640,17 @@
  - user: rumpel
  - tags: ['racism']
 
-## Spanish soldiers change gender to gain benefits intended for women
- - [https://www.telegraph.co.uk/news/2024/03/05/spanish-soldiers-change-gender-benefits-for-women](https://www.telegraph.co.uk/news/2024/03/05/spanish-soldiers-change-gender-benefits-for-women)
- - date published: 2024-03-05T00:00:00+00:00
- - user: rumpel
- - tags: ['gender']
-
 ## Want money off North Face clothing? You’ll have to complete a ‘racial inclusion’ course first
  - [https://www.telegraph.co.uk/news/2024/03/05/the-north-face-discount-racial-inclusion-course-outdoors](https://www.telegraph.co.uk/news/2024/03/05/the-north-face-discount-racial-inclusion-course-outdoors)
  - date published: 2024-03-05T00:00:00+00:00
  - user: rumpel
  - tags: ['propaganda', 'racism', 'diversity']
+
+## Spanish soldiers change gender to gain benefits intended for women
+ - [https://www.telegraph.co.uk/news/2024/03/05/spanish-soldiers-change-gender-benefits-for-women](https://www.telegraph.co.uk/news/2024/03/05/spanish-soldiers-change-gender-benefits-for-women)
+ - date published: 2024-03-05T00:00:00+00:00
+ - user: rumpel
+ - tags: ['gender']
 
 ## Why disturbing leaks from US gender group WPATH ring alarm bells in the NHS | Hannah Barnes
  - [https://www.theguardian.com/commentisfree/2024/mar/09/disturbing-leaks-from-us-gender-group-wpath-ring-alarm-bells-in-nhs](https://www.theguardian.com/commentisfree/2024/mar/09/disturbing-leaks-from-us-gender-group-wpath-ring-alarm-bells-in-nhs)
@@ -885,4 +885,10 @@
  - date published: 2024-05-10T00:00:00+00:00
  - user: rumpel
  - tags: ['pfizer', 'vaccines', 'cancer']
+
+## Firefox to collect anonymized and categorized search data
+ - [https://blog.mozilla.org/en/products/firefox/firefox-search-update](https://blog.mozilla.org/en/products/firefox/firefox-search-update)
+ - date published: 2024-05-14T15:07:41+00:00
+ - user: None
+ - tags: ['surveillance', 'privacy']
 
