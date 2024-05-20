@@ -58,17 +58,17 @@
  - user: rumpel
  - tags: ['seo', 'search engines']
 
-## Alleged EasyJet bomb hoaxer is a teen chess star with a place at Cambridge who said he'd 'blow this plane up' in a Snapchat post, reports say
- - [https://www.businessinsider.com/bomb-hoaxer-easyjet-teenage-chess-star-barred-spain-2022-7?IR=T](https://www.businessinsider.com/bomb-hoaxer-easyjet-teenage-chess-star-barred-spain-2022-7?IR=T)
- - date published: 2024-01-09T00:00:00+00:00
- - user: rumpel
- - tags: ['privacy', 'surveillance', 'technofeudalism']
-
 ## Introducing r1
  - [https://www.youtube.com/watch?v=22wlLy7hKP4](https://www.youtube.com/watch?v=22wlLy7hKP4)
  - date published: 2024-01-09T00:00:00+00:00
  - user: rumpel
  - tags: ['artificial intelligence']
+
+## Alleged EasyJet bomb hoaxer is a teen chess star with a place at Cambridge who said he'd 'blow this plane up' in a Snapchat post, reports say
+ - [https://www.businessinsider.com/bomb-hoaxer-easyjet-teenage-chess-star-barred-spain-2022-7?IR=T](https://www.businessinsider.com/bomb-hoaxer-easyjet-teenage-chess-star-barred-spain-2022-7?IR=T)
+ - date published: 2024-01-09T00:00:00+00:00
+ - user: rumpel
+ - tags: ['privacy', 'surveillance', 'technofeudalism']
 
 ## Where Have All the Websites Gone?
  - [https://www.fromjason.xyz/p/notebook/where-have-all-the-websites-gone](https://www.fromjason.xyz/p/notebook/where-have-all-the-websites-gone)
@@ -418,17 +418,17 @@
  - user: rumpel
  - tags: []
 
-## Soros, Facebook, And Omidyar Money Behind Attacks On German Farmers
- - [https://public.substack.com/p/soros-facebook-and-omidyar-money](https://public.substack.com/p/soros-facebook-and-omidyar-money)
- - date published: 2024-01-30T00:00:00+00:00
- - user: rumpel
- - tags: ['disinformation', 'george soros', 'misinformation', 'facebook']
-
 ## A passenger who caused fighter jets to flank an airliner after he privately joked about blowing up the plane was cleared and avoided a $120,000 bill
  - [https://www.businessinsider.com/passenger-avoids-120k-bill-after-bomb-joke-scrambled-fighter-jets-2024-1?IR=T](https://www.businessinsider.com/passenger-avoids-120k-bill-after-bomb-joke-scrambled-fighter-jets-2024-1?IR=T)
  - date published: 2024-01-30T00:00:00+00:00
  - user: rumpel
  - tags: ['orwell', 'privacy', 'big brother', 'surveillance']
+
+## Soros, Facebook, And Omidyar Money Behind Attacks On German Farmers
+ - [https://public.substack.com/p/soros-facebook-and-omidyar-money](https://public.substack.com/p/soros-facebook-and-omidyar-money)
+ - date published: 2024-01-30T00:00:00+00:00
+ - user: rumpel
+ - tags: ['disinformation', 'george soros', 'misinformation', 'facebook']
 
 ## Flynn effect - Wikipedia
  - [https://en.wikipedia.org/wiki/Flynn_effect](https://en.wikipedia.org/wiki/Flynn_effect)
@@ -640,17 +640,17 @@
  - user: rumpel
  - tags: ['racism']
 
-## Want money off North Face clothing? You’ll have to complete a ‘racial inclusion’ course first
- - [https://www.telegraph.co.uk/news/2024/03/05/the-north-face-discount-racial-inclusion-course-outdoors](https://www.telegraph.co.uk/news/2024/03/05/the-north-face-discount-racial-inclusion-course-outdoors)
- - date published: 2024-03-05T00:00:00+00:00
- - user: rumpel
- - tags: ['propaganda', 'racism', 'diversity']
-
 ## Spanish soldiers change gender to gain benefits intended for women
  - [https://www.telegraph.co.uk/news/2024/03/05/spanish-soldiers-change-gender-benefits-for-women](https://www.telegraph.co.uk/news/2024/03/05/spanish-soldiers-change-gender-benefits-for-women)
  - date published: 2024-03-05T00:00:00+00:00
  - user: rumpel
  - tags: ['gender']
+
+## Want money off North Face clothing? You’ll have to complete a ‘racial inclusion’ course first
+ - [https://www.telegraph.co.uk/news/2024/03/05/the-north-face-discount-racial-inclusion-course-outdoors](https://www.telegraph.co.uk/news/2024/03/05/the-north-face-discount-racial-inclusion-course-outdoors)
+ - date published: 2024-03-05T00:00:00+00:00
+ - user: rumpel
+ - tags: ['propaganda', 'racism', 'diversity']
 
 ## Why disturbing leaks from US gender group WPATH ring alarm bells in the NHS | Hannah Barnes
  - [https://www.theguardian.com/commentisfree/2024/mar/09/disturbing-leaks-from-us-gender-group-wpath-ring-alarm-bells-in-nhs](https://www.theguardian.com/commentisfree/2024/mar/09/disturbing-leaks-from-us-gender-group-wpath-ring-alarm-bells-in-nhs)
@@ -825,6 +825,12 @@
  - date published: 2024-04-12T15:14:21.257838+00:00
  - user: None
  - tags: ['surveillance', 'privacy']
+
+## The Internet is starting to Break - Here's Why.
+ - [https://www.youtube.com/watch?v=wVYG1mu8Lg8](https://www.youtube.com/watch?v=wVYG1mu8Lg8)
+ - date published: 2024-04-13T00:00:00+00:00
+ - user: rumpel
+ - tags: ['technofeudalism', 'dark patterns', 'subscription', 'enshittification', 'internet']
 
 ## NPR boss Katherine Maher opposed ‘free and open’ approach at Wikipedia: ‘White male Westernized construct’
  - [https://nypost.com/2024/04/18/media/nprs-katherine-maher-opposed-free-and-open-approach-at-wikipedia](https://nypost.com/2024/04/18/media/nprs-katherine-maher-opposed-free-and-open-approach-at-wikipedia)

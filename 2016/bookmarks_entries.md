@@ -364,6 +364,12 @@
  - user: rumpel
  - tags: ['technofeudalism', 'google', 'surveillance', 'ad business', 'privacy']
 
+## The Rules for Rulers
+ - [https://www.youtube.com/watch?v=rStL7niR7gs](https://www.youtube.com/watch?v=rStL7niR7gs)
+ - date published: 2016-10-24T00:00:00+00:00
+ - user: rumpel
+ - tags: ['democracy']
+
 ## 7 Not-So-Secret Homes of Super Secret Societies
  - [https://www.atlasobscura.com/articles/7-notsosecret-homes-of-super-secret-societies](https://www.atlasobscura.com/articles/7-notsosecret-homes-of-super-secret-societies)
  - date published: 2016-10-26T20:11:20+00:00

@@ -3604,7 +3604,7 @@
  - [https://bigthink.com/the-present/social-media-algorithms-manipulate-you](https://bigthink.com/the-present/social-media-algorithms-manipulate-you)
  - date published: 2021-10-07T15:57:13+00:00
  - user: rumpel
- - tags: []
+ - tags: ['big tech', 'social engineering', 'social media', 'algorithms']
 
 ## Finland joins Sweden and Denmark in limiting Moderna COVID-19 vaccine
  - [https://www.reuters.com/world/europe/finland-pauses-use-moderna-covid-19-vaccine-young-men-2021-10-07](https://www.reuters.com/world/europe/finland-pauses-use-moderna-covid-19-vaccine-young-men-2021-10-07)
@@ -4522,7 +4522,7 @@
  - [https://www.thefp.com/p/the-medias-verdict-on-kyle-rittenhouse](https://www.thefp.com/p/the-medias-verdict-on-kyle-rittenhouse)
  - date published: 2021-11-17T09:05:24+00:00
  - user: rumpel
- - tags: []
+ - tags: ['kyle rittenhouse', 'media bias', 'propaganda', 'the left wing']
 
 ## Rekord czwartej fali. Dr Grzesiowski: Jak nie będzie ograniczeń, wymrze 10 proc. społeczeństwa w wieku 50+
  - [https://warszawa.wyborcza.pl/warszawa/7,54420,27815584,dr-grzesiowski-jesli-rzad-nie-zmieni-strategii-epidemia-sie.html](https://warszawa.wyborcza.pl/warszawa/7,54420,27815584,dr-grzesiowski-jesli-rzad-nie-zmieni-strategii-epidemia-sie.html)
