@@ -2608,17 +2608,17 @@
  - user: rumpel
  - tags: ['tiktok', 'europe']
 
-## Jordan Peterson about the german government (DeepFake AI)
- - [https://www.youtube.com/watch?v=ha3gfD7S0_E](https://www.youtube.com/watch?v=ha3gfD7S0_E)
- - date published: 2023-03-01T00:00:00+00:00
- - user: rumpel
- - tags: ['deepfake']
-
 ## The Media's Reaction to Woody Harrelson's SNL Monologue
  - [https://www.youtube.com/watch?v=fJRGDW4lbss](https://www.youtube.com/watch?v=fJRGDW4lbss)
  - date published: 2023-03-01T00:00:00+00:00
  - user: rumpel
  - tags: ['woody harrelson', 'covid']
+
+## Jordan Peterson about the german government (DeepFake AI)
+ - [https://www.youtube.com/watch?v=ha3gfD7S0_E](https://www.youtube.com/watch?v=ha3gfD7S0_E)
+ - date published: 2023-03-01T00:00:00+00:00
+ - user: rumpel
+ - tags: ['deepfake']
 
 ## Ford files patent to allow self-driving cars to drive away from owners who don't keep up with payments | PC Gamer
  - [https://www.pcgamer.com/ford-files-patent-to-allow-self-driving-cars-to-drive-away-from-their-owners](https://www.pcgamer.com/ford-files-patent-to-allow-self-driving-cars-to-drive-away-from-their-owners)
@@ -4286,7 +4286,7 @@
  - [https://www.fxmag.pl/artykul/czy-to-jest-zamach-na-wolnosc-finansowa-powstaje-pierwsza-miedzynarodowa-waluta-cyfrowa](https://www.fxmag.pl/artykul/czy-to-jest-zamach-na-wolnosc-finansowa-powstaje-pierwsza-miedzynarodowa-waluta-cyfrowa)
  - date published: 2023-04-18T13:33:09+00:00
  - user: rumpel
- - tags: []
+ - tags: ['cbdc', 'unicoin']
 
 ## Patti LuPone bashes Christian Right as no different from the Taliban in rant on 'The View': 'I could cry'
  - [https://www.foxnews.com/media/patti-lupone-bashes-christian-right-different-taliban-rant-the-view-could-cry](https://www.foxnews.com/media/patti-lupone-bashes-christian-right-different-taliban-rant-the-view-could-cry)
@@ -7690,7 +7690,7 @@
  - [https://www.dailymail.co.uk/news/article-12335541/JPMorgan-resisted-ditching-Jeffrey-Epstein-client-despite-child-sex-charges-brought-wealthy-clients-bank-including-Google-founder-Sergey-Brin-lawsuit-claims.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12335541/JPMorgan-resisted-ditching-Jeffrey-Epstein-client-despite-child-sex-charges-brought-wealthy-clients-bank-including-Google-founder-Sergey-Brin-lawsuit-claims.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date published: 2023-07-25T13:16:30+00:00
  - user: rumpel
- - tags: []
+ - tags: ['jeffrey epstein', 'jpmorgan']
 
 ## Apple already shipped attestation on the web, and we barely noticed
  - [https://httptoolkit.com/blog/apple-private-access-tokens-attestation](https://httptoolkit.com/blog/apple-private-access-tokens-attestation)
@@ -8530,7 +8530,7 @@
  - [https://www.foxnews.com/us/san-francisco-roman-catholic-archdiocese-files-bankruptcy-amid-sex-abuse-lawsuits](https://www.foxnews.com/us/san-francisco-roman-catholic-archdiocese-files-bankruptcy-amid-sex-abuse-lawsuits)
  - date published: 2023-08-21T19:17:41+00:00
  - user: rumpel
- - tags: []
+ - tags: ['religion', 'church scandal']
 
 ## RELEASE: After years of opposition, Apple calls for passage of Right to Repair in California
  - [https://pirg.org/media-center/release-after-years-of-opposition-apple-calls-for-passage-of-right-to-repair-in-california](https://pirg.org/media-center/release-after-years-of-opposition-apple-calls-for-passage-of-right-to-repair-in-california)
@@ -9346,7 +9346,7 @@
  - [https://balkaninsight.com/2023/09/25/who-benefits-inside-the-eus-fight-over-scanning-for-child-sex-content](https://balkaninsight.com/2023/09/25/who-benefits-inside-the-eus-fight-over-scanning-for-child-sex-content)
  - date published: 2023-09-25T11:12:05+00:00
  - user: rumpel
- - tags: []
+ - tags: ['surveillance', 'privacy']
 
 ## Long Covid impact ‘exaggerated with major flaws in claims’
  - [https://www.telegraph.co.uk/news/2023/09/25/covid-coronavirus-nhs-pandemic-long-lockdown](https://www.telegraph.co.uk/news/2023/09/25/covid-coronavirus-nhs-pandemic-long-lockdown)
@@ -9676,7 +9676,7 @@
  - [https://nypost.com/2023/10/18/victorias-secret-ditches-wokeness-over-sexiness-after-sales-drop](https://nypost.com/2023/10/18/victorias-secret-ditches-wokeness-over-sexiness-after-sales-drop)
  - date published: 2023-10-18T09:26:20+00:00
  - user: rumpel
- - tags: []
+ - tags: ['the left wing', 'go woke go broke']
 
 ## Google-hosted malvertising leads to fake Keepass site that looks genuine
  - [https://arstechnica.com/security/2023/10/google-hosted-malvertising-leads-to-fake-keepass-site-that-looks-genuine](https://arstechnica.com/security/2023/10/google-hosted-malvertising-leads-to-fake-keepass-site-that-looks-genuine)
@@ -9898,7 +9898,7 @@
  - [https://www.theguardian.com/world/2023/nov/10/israel-womens-groups-warn-of-failure-to-keep-evidence-of-sexual-violence-in-hamas-attacks](https://www.theguardian.com/world/2023/nov/10/israel-womens-groups-warn-of-failure-to-keep-evidence-of-sexual-violence-in-hamas-attacks)
  - date published: 2023-11-10T11:55:53+00:00
  - user: rumpel
- - tags: []
+ - tags: ['israel', 'hamas']
 
 ## New Outlook sends passwords, mails and other data to Microsoft
  - [https://mailbox.org/en/post/warning-new-outlook-sends-passwords-mails-and-other-data-to-microsoft](https://mailbox.org/en/post/warning-new-outlook-sends-passwords-mails-and-other-data-to-microsoft)

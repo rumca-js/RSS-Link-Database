@@ -628,17 +628,17 @@
  - user: rumpel
  - tags: ['wuhan', 'manufacturing consent', 'anthony fauci', 'science is dead', 'censorship', 'covid', 'lab leak']
 
-## Jordan Peterson's Realization About the Bible
- - [https://www.youtube.com/watch?v=Vt9K6kmpx44](https://www.youtube.com/watch?v=Vt9K6kmpx44)
- - date published: 2022-01-25T00:00:00+00:00
- - user: rumpel
- - tags: ['bible', 'religion', 'jordan peterson']
-
 ## Comparing a $65,000 3D Printer to a $350 home 3D printer
  - [https://www.youtube.com/watch?v=bwyZjG5qxL8](https://www.youtube.com/watch?v=bwyZjG5qxL8)
  - date published: 2022-01-25T00:00:00+00:00
  - user: rumpel
  - tags: ['3d printer']
+
+## Jordan Peterson's Realization About the Bible
+ - [https://www.youtube.com/watch?v=Vt9K6kmpx44](https://www.youtube.com/watch?v=Vt9K6kmpx44)
+ - date published: 2022-01-25T00:00:00+00:00
+ - user: rumpel
+ - tags: ['bible', 'religion', 'jordan peterson']
 
 ## Survey Says Developers Are Definitely Not Interested In NFTs
  - [https://kotaku.com/nft-crypto-cryptocurrency-blockchain-gdc-video-games-de-1848407959](https://kotaku.com/nft-crypto-cryptocurrency-blockchain-gdc-video-games-de-1848407959)
@@ -5770,17 +5770,17 @@
  - user: None
  - tags: []
 
-## The EU’s AI Act could have a chilling effect on open source efforts, experts warn
- - [https://www.codeproject.com/script/News/View.aspx?nwid=58818](https://www.codeproject.com/script/News/View.aspx?nwid=58818)
- - date published: 2022-09-08T04:00:00+00:00
- - user: None
- - tags: ['open source', 'artificial intelligence']
-
 ## Facebook engineers admit they don’t know what they do with your data
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58810](https://www.codeproject.com/script/News/View.aspx?nwid=58810)
  - date published: 2022-09-08T04:00:00+00:00
  - user: None
  - tags: ['meta', 'facebook', 'privacy', 'corporatocracy']
+
+## The EU’s AI Act could have a chilling effect on open source efforts, experts warn
+ - [https://www.codeproject.com/script/News/View.aspx?nwid=58818](https://www.codeproject.com/script/News/View.aspx?nwid=58818)
+ - date published: 2022-09-08T04:00:00+00:00
+ - user: None
+ - tags: ['open source', 'artificial intelligence']
 
 ## I Got Banned for Life from Airbnb
  - [https://jacksoncunningham.medium.com/digital-exile-how-i-got-banned-for-life-from-airbnb-615434c6eeba](https://jacksoncunningham.medium.com/digital-exile-how-i-got-banned-for-life-from-airbnb-615434c6eeba)
@@ -7156,17 +7156,17 @@
  - user: None
  - tags: ['electric vehicles', 'china', 'australia']
 
-## The sad state of debug performance in C++
- - [https://www.codeproject.com/script/News/View.aspx?nwid=59015](https://www.codeproject.com/script/News/View.aspx?nwid=59015)
- - date published: 2022-09-27T04:00:00+00:00
- - user: None
- - tags: ['c++', 'programming', 'performance', 'debug']
-
 ## Microsoft tells companies to “re-recruit” employees to their positions
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59012](https://www.codeproject.com/script/News/View.aspx?nwid=59012)
  - date published: 2022-09-27T04:00:00+00:00
  - user: None
  - tags: []
+
+## The sad state of debug performance in C++
+ - [https://www.codeproject.com/script/News/View.aspx?nwid=59015](https://www.codeproject.com/script/News/View.aspx?nwid=59015)
+ - date published: 2022-09-27T04:00:00+00:00
+ - user: None
+ - tags: ['c++', 'programming', 'performance', 'debug']
 
 ## W Poznaniu odbędzie się seks festiwal. W programie &quot;Dlaczego warto oglądać porno?&quot; i &quot;Przyszłość sex-zabawek jest niebinarna&quot;
  - [https://epoznan.pl/news-news-132809-w_poznaniu_odbedzie_sie_seks_festiwal_w_programie_dlaczego_warto_ogladac_porno_i_przyszlosc_sex_zabawek_jest_niebinarna?rss=1](https://epoznan.pl/news-news-132809-w_poznaniu_odbedzie_sie_seks_festiwal_w_programie_dlaczego_warto_ogladac_porno_i_przyszlosc_sex_zabawek_jest_niebinarna?rss=1)
@@ -9856,17 +9856,17 @@
  - user: None
  - tags: ['metaverse', 'mark zuckerberg', 'big tech']
 
-## Americans by wide margins want race kept OUT of college admissions, says poll
- - [https://www.dailymail.co.uk/news/article-11381789/Americans-wide-margins-want-race-kept-college-admissions-says-poll.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11381789/Americans-wide-margins-want-race-kept-college-admissions-says-poll.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - date published: 2022-11-02T19:47:04+00:00
- - user: None
- - tags: ['blm', 'black lives matter']
-
 ## The damage Kanye West is doing is devastating
  - [https://www.cnn.com/2022/11/02/opinions/kanye-west-antisemitic-comments-carter/index.html](https://www.cnn.com/2022/11/02/opinions/kanye-west-antisemitic-comments-carter/index.html)
  - date published: 2022-11-02T19:47:04+00:00
  - user: None
  - tags: ['kanye west', 'nazi']
+
+## Americans by wide margins want race kept OUT of college admissions, says poll
+ - [https://www.dailymail.co.uk/news/article-11381789/Americans-wide-margins-want-race-kept-college-admissions-says-poll.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11381789/Americans-wide-margins-want-race-kept-college-admissions-says-poll.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - date published: 2022-11-02T19:47:04+00:00
+ - user: None
+ - tags: ['blm', 'black lives matter']
 
 ## Facebook's Going Back to Only Using Algorithms to Curate Its News Tab
  - [https://gizmodo.com/facebook-meta-news-curation-algorithm-1849734224](https://gizmodo.com/facebook-meta-news-curation-algorithm-1849734224)
