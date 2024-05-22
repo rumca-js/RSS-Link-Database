@@ -904,3 +904,15 @@
  - user: None
  - tags: ['privacy', 'technofeudalism', 'moderation']
 
+## Recall is Microsoft's key to unlocking the future of PCs
+ - [https://www.theverge.com/2024/5/20/24159258/microsoft-recall-ai-explorer-windows-11-surface-event](https://www.theverge.com/2024/5/20/24159258/microsoft-recall-ai-explorer-windows-11-surface-event)
+ - date published: 2024-05-20T17:27:46+00:00
+ - user: None
+ - tags: ['privacy', 'surveillance', 'technofeudalism']
+
+## Windows 11 Recall AI feature will record everything you do on your PC
+ - [https://www.bleepingcomputer.com/news/microsoft/windows-11-recall-ai-feature-will-record-everything-you-do-on-your-pc](https://www.bleepingcomputer.com/news/microsoft/windows-11-recall-ai-feature-will-record-everything-you-do-on-your-pc)
+ - date published: 2024-05-20T18:58:46+00:00
+ - user: None
+ - tags: ['privacy', 'surveillance', 'technofeudalism']
+

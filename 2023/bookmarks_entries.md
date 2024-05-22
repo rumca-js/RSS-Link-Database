@@ -3596,7 +3596,7 @@
  - [https://unherd.com/2023/03/the-great-food-reset-has-begun](https://unherd.com/2023/03/the-great-food-reset-has-begun)
  - date published: 2023-03-28T19:18:57+00:00
  - user: rumpel
- - tags: []
+ - tags: ['netherlands', 'climate change', 'agriculture']
 
 ## Microsoft's Software Is Malware
  - [https://www.gnu.org/proprietary/malware-microsoft.en.html](https://www.gnu.org/proprietary/malware-microsoft.en.html)
@@ -4966,7 +4966,7 @@
  - [https://reclaimthenet.org/canada-liberals-propose-unverified-sources-ban](https://reclaimthenet.org/canada-liberals-propose-unverified-sources-ban)
  - date published: 2023-05-07T23:23:34+00:00
  - user: rumpel
- - tags: []
+ - tags: ['censorship', 'canada']
 
 ## Please don’t upload my code on GitHub
  - [https://nogithub.codeberg.page](https://nogithub.codeberg.page)
