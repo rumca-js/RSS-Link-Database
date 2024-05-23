@@ -10232,7 +10232,7 @@
  - [https://liamhz.com/blog/leaving-tech-to-pursue-art](https://liamhz.com/blog/leaving-tech-to-pursue-art)
  - date published: 2022-11-09T01:06:29+00:00
  - user: None
- - tags: []
+ - tags: ['programming', 'lifestyle']
 
 ## Disney now matches Netflix's subscriber numbers across its combined services
  - [https://www.engadget.com/disney-streaming-services-earnings-055415800.html?src=rss](https://www.engadget.com/disney-streaming-services-earnings-055415800.html?src=rss)
