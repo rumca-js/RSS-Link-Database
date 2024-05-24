@@ -916,3 +916,9 @@
  - user: None
  - tags: ['privacy', 'surveillance', 'technofeudalism']
 
+## Carmakers Will Give Your Location to Police Without a Warrant, Senators Say
+ - [https://www.thedrive.com/news/automakers-will-give-your-location-to-police-without-a-warrant-senators-say](https://www.thedrive.com/news/automakers-will-give-your-location-to-police-without-a-warrant-senators-say)
+ - date published: 2024-05-22T19:21:53+00:00
+ - user: None
+ - tags: ['technofeudalism', 'privacy', 'surveillance']
+
