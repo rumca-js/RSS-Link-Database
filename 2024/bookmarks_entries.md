@@ -922,3 +922,15 @@
  - user: None
  - tags: ['technofeudalism', 'privacy', 'surveillance']
 
+## Samsung Requires Independent Repair Shops to Share Customer Data, Snitch on People Who Use Aftermarket Parts, Leaked Contract Shows
+ - [https://www.404media.co/samsung-requires-independent-repair-shops-to-share-customer-data-snitch-on-people-who-use-aftermarket-parts-leaked-contract-shows](https://www.404media.co/samsung-requires-independent-repair-shops-to-share-customer-data-snitch-on-people-who-use-aftermarket-parts-leaked-contract-shows)
+ - date published: 2024-05-23T13:19:05+00:00
+ - user: None
+ - tags: ['surveillance', 'privacy']
+
+## Wi-Fi devices set to become object sensors by 2024 via IEEE 802.11bf standard
+ - [https://www.theregister.com/2021/03/31/wifi_devices_monitoring](https://www.theregister.com/2021/03/31/wifi_devices_monitoring)
+ - date published: 2024-05-23T19:16:12+00:00
+ - user: None
+ - tags: ['orwell', 'technofeudalism', 'privacy', 'surveillance']
+
