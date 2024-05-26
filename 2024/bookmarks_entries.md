@@ -934,3 +934,9 @@
  - user: None
  - tags: ['orwell', 'technofeudalism', 'privacy', 'surveillance']
 
+## Google just updated its algorithm. The Internet will never be the same
+ - [https://www.bbc.com/future/article/20240524-how-googles-new-algorithm-will-shape-your-internet](https://www.bbc.com/future/article/20240524-how-googles-new-algorithm-will-shape-your-internet)
+ - date published: 2024-05-25T11:14:26+00:00
+ - user: None
+ - tags: ['corporatocracy', 'search engines', 'technofeudalism', 'seo', 'google']
+
