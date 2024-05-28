@@ -844,6 +844,12 @@
  - user: None
  - tags: ['privacy']
 
+## How G.M. Tricked Millions of Drivers Into Being Spied On (Including Me)
+ - [https://www.nytimes.com/2024/04/23/technology/general-motors-spying-driver-data-consent.html](https://www.nytimes.com/2024/04/23/technology/general-motors-spying-driver-data-consent.html)
+ - date published: 2024-04-23T16:06:11+00:00
+ - user: None
+ - tags: ['privacy', 'technofeudalism', 'surveillance']
+
 ## The Man Who Killed Google Search
  - [https://www.wheresyoured.at/the-men-who-killed-google](https://www.wheresyoured.at/the-men-who-killed-google)
  - date published: 2024-04-23T16:43:59+00:00
@@ -873,6 +879,12 @@
  - date published: 2024-05-02T18:31:37+00:00
  - user: None
  - tags: ['google', 'seo', 'technofeudalism']
+
+## Despite international hires, TikTok is Chinese at its core
+ - [https://restofworld.org/2024/tiktok-chinese-us-ban](https://restofworld.org/2024/tiktok-chinese-us-ban)
+ - date published: 2024-05-07T10:00:00+00:00
+ - user: rumpel
+ - tags: ['china', 'tiktok']
 
 ## Canada's Bill S-210: The Push for Widespread Age Verification
  - [https://www.michaelgeist.ca/2024/01/bill-s-210-is-just-the-beginning-how-a-canadian-digital-lobby-group-is-promoting-a-standard-to-foster-widespread-adoption-of-age-verification-technologies-in-canada](https://www.michaelgeist.ca/2024/01/bill-s-210-is-just-the-beginning-how-a-canadian-digital-lobby-group-is-promoting-a-standard-to-foster-widespread-adoption-of-age-verification-technologies-in-canada)
@@ -933,6 +945,18 @@
  - date published: 2024-05-23T19:16:12+00:00
  - user: None
  - tags: ['orwell', 'technofeudalism', 'privacy', 'surveillance']
+
+## Speedster jailed after S&rsquo;pore police tapped GPS, route data from in-car system
+ - [https://www.thestar.com.my/tech/tech-news/2024/05/24/speedster-jailed-after-spore-police-tapped-gps-route-data-from-in-car-system-in-first-case-here](https://www.thestar.com.my/tech/tech-news/2024/05/24/speedster-jailed-after-spore-police-tapped-gps-route-data-from-in-car-system-in-first-case-here)
+ - date published: 2024-05-24T15:20:00+00:00
+ - user: rumpel
+ - tags: ['technofeudalism', 'surveillance', 'pivacy']
+
+## Celebrities like Elon Musk and Taylor Swift might soon be able to hide their private jet flights from online sleuths
+ - [https://www.businessinsider.com/taylor-swift-elon-musk-private-jet-tracking-faa-reauthorization-2024-5?IR=T](https://www.businessinsider.com/taylor-swift-elon-musk-private-jet-tracking-faa-reauthorization-2024-5?IR=T)
+ - date published: 2024-05-25T00:00:00+00:00
+ - user: rumpel
+ - tags: ['corporatocracy', 'elite', 'billionaires', 'inequality']
 
 ## Google just updated its algorithm. The Internet will never be the same
  - [https://www.bbc.com/future/article/20240524-how-googles-new-algorithm-will-shape-your-internet](https://www.bbc.com/future/article/20240524-how-googles-new-algorithm-will-shape-your-internet)
