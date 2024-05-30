@@ -12710,7 +12710,7 @@
  - [https://www.dailywire.com/news/joe-rogans-podcast-shows-horrifying-slave-conditions-used-to-mine-materials-needed-for-electric-cars](https://www.dailywire.com/news/joe-rogans-podcast-shows-horrifying-slave-conditions-used-to-mine-materials-needed-for-electric-cars)
  - date published: 2022-12-24T16:37:37+00:00
  - user: rumpel
- - tags: ['climate change', 'climate drama', 'electric vehicles', 'slave labour']
+ - tags: []
 
 ## Why Marvel Is Collapsing: The Coming Marvel Crisis
  - [https://www.youtube.com/watch?v=uQFWlrfhe8M](https://www.youtube.com/watch?v=uQFWlrfhe8M)

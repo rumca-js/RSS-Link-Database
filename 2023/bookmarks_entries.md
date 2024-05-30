@@ -620,7 +620,7 @@
  - [https://reclaimthenet.org/rfk-jr-sues-mainstream-media-misinformation-cartel](https://reclaimthenet.org/rfk-jr-sues-mainstream-media-misinformation-cartel)
  - date published: 2023-01-11T16:10:21+00:00
  - user: rumpel
- - tags: ['trusted news initiative']
+ - tags: []
 
 ## Jes Staley had ‘profound friendship’ with Jeffrey Epstein, court documents claim
  - [https://www.theguardian.com/business/2023/jan/11/jes-staley-had-profound-friendship-with-jeffrey-epstein-court-documents-claim](https://www.theguardian.com/business/2023/jan/11/jes-staley-had-profound-friendship-with-jeffrey-epstein-court-documents-claim)
@@ -1754,7 +1754,7 @@
  - [https://lajili.com/posts/post-2](https://lajili.com/posts/post-2)
  - date published: 2023-02-02T15:25:26+00:00
  - user: rumpel
- - tags: ['web30', 'artificial intelligence', 'chatgpt', 'internet']
+ - tags: []
 
 ## Will walled gardens rule VR?
  - [https://worldish.substack.com/p/will-walled-gardens-rule-vr](https://worldish.substack.com/p/will-walled-gardens-rule-vr)
@@ -9802,7 +9802,7 @@
  - [https://static.googleusercontent.com/media/guidelines.raterhub.com/en//searchqualityevaluatorguidelines.pdf](https://static.googleusercontent.com/media/guidelines.raterhub.com/en//searchqualityevaluatorguidelines.pdf)
  - date published: 2023-11-02T09:05:01+00:00
  - user: rumpel
- - tags: ['seo', 'search engines']
+ - tags: []
 
 ## Bing Webmaster Tools
  - [https://www.bing.com/webmasters/help/webmasters-guidelines-30fba23a](https://www.bing.com/webmasters/help/webmasters-guidelines-30fba23a)
@@ -10198,7 +10198,7 @@
  - [https://cblgh.org/trustnet](https://cblgh.org/trustnet)
  - date published: 2023-12-10T08:43:59+00:00
  - user: rumpel
- - tags: ['moderation']
+ - tags: []
 
 ## Ucisk w klatce piersiowej i kołatanie serca po szczepieniu przeciwko COVID-19 u 16-letniego chłopca
  - [https://www.mp.pl/szczepienia/praktyka/przypadki/310343,ucisk-w-klatce-piersiowej-i-kolatanie-serca-po-szczepieniu-przeciwko-covid-19-u-16-letniego-chlopca](https://www.mp.pl/szczepienia/praktyka/przypadki/310343,ucisk-w-klatce-piersiowej-i-kolatanie-serca-po-szczepieniu-przeciwko-covid-19-u-16-letniego-chlopca)
@@ -10330,7 +10330,7 @@
  - [https://abcnews.go.com/International/wireStory/140-villagers-killed-suspected-herders-dayslong-attacks-north-105916103](https://abcnews.go.com/International/wireStory/140-villagers-killed-suspected-herders-dayslong-attacks-north-105916103)
  - date published: 2023-12-26T10:51:16+00:00
  - user: rumpel
- - tags: ['christioanophobia']
+ - tags: []
 
 ## What comes after open source? Bruce Perens is working on it
  - [https://www.theregister.com/2023/12/27/bruce_perens_post_open](https://www.theregister.com/2023/12/27/bruce_perens_post_open)
@@ -10384,7 +10384,7 @@
  - [https://twitter.com/Mondblut1984/status/1740844676234793166](https://twitter.com/Mondblut1984/status/1740844676234793166)
  - date published: 2023-12-29T11:30:22+00:00
  - user: rumpel
- - tags: ['the left wing', 'sjw', 'anime', 'propaganda', 'woke']
+ - tags: []
 
 ## Policzyli koszt miłości w CO2. Taylor Swift lata na randki prywatnym odrzutowcem
  - [https://businessinsider.com.pl/lifestyle/taylor-swift-w-3-miesiace-wyemitowala-tyle-co2-co-17-domow-w-rok/fb5qyv2](https://businessinsider.com.pl/lifestyle/taylor-swift-w-3-miesiace-wyemitowala-tyle-co2-co-17-domow-w-rok/fb5qyv2)
