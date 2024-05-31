@@ -2,7 +2,7 @@
  - [https://users.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf](https://users.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf)
  - date published: 1984-08-10T05:48:04+00:00
  - user: rumpel
- - tags: []
+ - tags: ['security', 'programming', 'vulnerability', 'linux', 'safety', 'ken thompson']
 
 ## Understanding the Political Scenario of INDIA,CANADA,JAPAN,CHINA,USA, FRANCE etc
  - [https://www.youtube.com/watch?v=Y9TviIuXPSE](https://www.youtube.com/watch?v=Y9TviIuXPSE)

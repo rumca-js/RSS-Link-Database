@@ -32,7 +32,7 @@
  - [https://www.thecrimemag.com/epsteins-prison-cell](https://www.thecrimemag.com/epsteins-prison-cell)
  - date published: 2020-01-05T12:15:41+00:00
  - user: None
- - tags: []
+ - tags: ['jeffrey epstein']
 
 ## Joe Rogan on Ricky Gervais' Golden Globes Monologue
  - [https://www.youtube.com/watch?v=WRbaQrb3Jhk](https://www.youtube.com/watch?v=WRbaQrb3Jhk)
@@ -368,7 +368,7 @@
  - [https://sagegerard.com/stop-learning-so-much.html](https://sagegerard.com/stop-learning-so-much.html)
  - date published: 2020-03-31T09:10:22+00:00
  - user: rumpel
- - tags: []
+ - tags: ['science', 'programming']
 
 ## Misused photo of migrants’ coffins used to cast doubt on Covid-19 in Italy
  - [https://observers.france24.com/en/europe/20220106-debunked-covid-19-migrant-coffins-documentary-bergamo](https://observers.france24.com/en/europe/20220106-debunked-covid-19-migrant-coffins-documentary-bergamo)
@@ -1096,7 +1096,7 @@
  - [https://www.youtube.com/watch?v=jyRjbK-yKSk](https://www.youtube.com/watch?v=jyRjbK-yKSk)
  - date published: 2020-08-11T00:00:00+00:00
  - user: rumpel
- - tags: []
+ - tags: ['black lives matter', 'indoctrination', 'the left wing']
 
 ## Black Lives Matter is a Domestic Terrorist Organization | Change My Mind
  - [https://www.youtube.com/watch?v=yITK_Bm78mI](https://www.youtube.com/watch?v=yITK_Bm78mI)
@@ -2128,7 +2128,7 @@
  - [https://summit.news/2020/12/22/french-law-would-ban-people-who-dont-get-covid-vaccine-from-using-public-transport](https://summit.news/2020/12/22/french-law-would-ban-people-who-dont-get-covid-vaccine-from-using-public-transport)
  - date published: 2020-12-22T22:07:50+00:00
  - user: rumpel
- - tags: []
+ - tags: ['covid', 'france', 'covid mandates', 'vaccine']
 
 ## Zoom Shared US User Data With Beijing
  - [https://www.ntd.com/zoom-shared-us-user-data-with-beijing_544087.html](https://www.ntd.com/zoom-shared-us-user-data-with-beijing_544087.html)
@@ -2224,7 +2224,7 @@
  - [https://summit.news/2020/12/30/uk-woman-arrested-for-filming-inside-empty-hospital](https://summit.news/2020/12/30/uk-woman-arrested-for-filming-inside-empty-hospital)
  - date published: 2020-12-30T07:29:04+00:00
  - user: None
- - tags: []
+ - tags: ['covid', 'big brother']
 
 ## Hiszpania: Rodzina odmówi zaszczepienia seniora? Może stracić nad nim opiekę
  - [https://www.rmf24.pl/raporty/raport-koronawirus-z-chin/europa/news-hiszpania-rodzina-odmowi-zaszczepienia-seniora-moze-stracic-,nId,4957585](https://www.rmf24.pl/raporty/raport-koronawirus-z-chin/europa/news-hiszpania-rodzina-odmowi-zaszczepienia-seniora-moze-stracic-,nId,4957585)

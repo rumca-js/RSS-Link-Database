@@ -26,7 +26,7 @@
  - [https://menhavingbabies.org/surrogacy-seminars/brussels](https://menhavingbabies.org/surrogacy-seminars/brussels)
  - date published: 2023-01-01T08:46:07+00:00
  - user: rumpel
- - tags: []
+ - tags: ['lgbt', 'the left wing', 'surrogacy', 'children']
 
 ## Mikroplastiki to poważny problem, ale ten filtr go rozwiąże
  - [https://www.chip.pl/2023/01/filtr-usuwajacy-mikroplastiki-z-wody](https://www.chip.pl/2023/01/filtr-usuwajacy-mikroplastiki-z-wody)
@@ -38,7 +38,7 @@
  - [https://www.goldmansachs.com/careers/students/programs/emea/lgbt-student-possibility-program.html](https://www.goldmansachs.com/careers/students/programs/emea/lgbt-student-possibility-program.html)
  - date published: 2023-01-01T21:06:41+00:00
  - user: rumpel
- - tags: []
+ - tags: ['lgbt', 'inequality', 'science is dead', 'the left wing']
 
 ## Witamy na stronie zaimki.pl!
  - [https://zaimki.pl](https://zaimki.pl)
@@ -50,7 +50,7 @@
  - [https://levelup-edu.com/bezos-gates-zuckerberg-behind-every-self-made-millionaire-is-a-father-with-money](https://levelup-edu.com/bezos-gates-zuckerberg-behind-every-self-made-millionaire-is-a-father-with-money)
  - date published: 2023-01-01T22:31:55+00:00
  - user: rumpel
- - tags: []
+ - tags: ['mark zuckerberg', 'big tech', 'plutocracy', 'bill gates', 'billionaires', 'jeff bezos']
 
 ## Mortal Kombat 2 source code leak reveals unused animations and sprites
  - [https://www.eventhubs.com/news/2022/dec/27/mortal-kombat-2-source-leak](https://www.eventhubs.com/news/2022/dec/27/mortal-kombat-2-source-leak)
@@ -308,7 +308,7 @@
  - [https://www.youtube.com/watch?v=oknQHbKFTZE](https://www.youtube.com/watch?v=oknQHbKFTZE)
  - date published: 2023-01-06T07:49:05+00:00
  - user: rumpel
- - tags: []
+ - tags: ['civilisation', 'future']
 
 ## Zdewastowano ponad 30 grobów na anglikańskim cmentarzu w Jerozolimie. Sprawcy zostali nagrani przez kamery.
  - [https://obywatelenieba.pl/2023/01/06/zdewastowano-chrzescijanski-cmentarz](https://obywatelenieba.pl/2023/01/06/zdewastowano-chrzescijanski-cmentarz)
@@ -620,7 +620,7 @@
  - [https://reclaimthenet.org/rfk-jr-sues-mainstream-media-misinformation-cartel](https://reclaimthenet.org/rfk-jr-sues-mainstream-media-misinformation-cartel)
  - date published: 2023-01-11T16:10:21+00:00
  - user: rumpel
- - tags: []
+ - tags: ['trusted news initiative']
 
 ## Jes Staley had ‘profound friendship’ with Jeffrey Epstein, court documents claim
  - [https://www.theguardian.com/business/2023/jan/11/jes-staley-had-profound-friendship-with-jeffrey-epstein-court-documents-claim](https://www.theguardian.com/business/2023/jan/11/jes-staley-had-profound-friendship-with-jeffrey-epstein-court-documents-claim)
@@ -1412,7 +1412,7 @@
  - [https://www.bizpacreview.com/2023/01/26/creepy-rbg-medusa-statue-erected-at-nyc-courthouse-in-part-of-an-urgent-and-cultural-reckoning-1327894](https://www.bizpacreview.com/2023/01/26/creepy-rbg-medusa-statue-erected-at-nyc-courthouse-in-part-of-an-urgent-and-cultural-reckoning-1327894)
  - date published: 2023-01-26T07:37:42+00:00
  - user: rumpel
- - tags: []
+ - tags: ['satanism', 'abortion']
 
 ## Anti-abortion violence is the next wave of domestic terrorism
  - [https://thehill.com/opinion/national-security/3831448-anti-abortion-violence-is-the-next-wave-of-domestic-terrorism](https://thehill.com/opinion/national-security/3831448-anti-abortion-violence-is-the-next-wave-of-domestic-terrorism)
@@ -1682,7 +1682,7 @@
  - [https://www.fractional.work/p/is-remote-work-bad-for-the-economy](https://www.fractional.work/p/is-remote-work-bad-for-the-economy)
  - date published: 2023-02-01T01:48:46+00:00
  - user: rumpel
- - tags: []
+ - tags: ['economy', 'remote work']
 
 ## Write Simply
  - [http://www.paulgraham.com/simply.html](http://www.paulgraham.com/simply.html)
@@ -1754,7 +1754,7 @@
  - [https://lajili.com/posts/post-2](https://lajili.com/posts/post-2)
  - date published: 2023-02-02T15:25:26+00:00
  - user: rumpel
- - tags: []
+ - tags: ['web30', 'artificial intelligence', 'chatgpt', 'internet']
 
 ## Will walled gardens rule VR?
  - [https://worldish.substack.com/p/will-walled-gardens-rule-vr](https://worldish.substack.com/p/will-walled-gardens-rule-vr)
@@ -1844,7 +1844,7 @@
  - [https://reclaimthenet.org/uk-nudge-unit-psychological-manipulations-net-zero-society](https://reclaimthenet.org/uk-nudge-unit-psychological-manipulations-net-zero-society)
  - date published: 2023-02-03T17:09:01+00:00
  - user: rumpel
- - tags: []
+ - tags: ['propaganda', 'england', 'oversight board', 'nudge unit', 'psyop']
 
 ## Sztuczna inteligencja może odebrać pracę. Oto 10 zawodów, które zastąpi
  - [https://businessinsider.com.pl/technologie/sztuczna-inteligencja-moze-odebrac-prace-oto-10-zawodow-na-celowniku/m96bw6c](https://businessinsider.com.pl/technologie/sztuczna-inteligencja-moze-odebrac-prace-oto-10-zawodow-na-celowniku/m96bw6c)
@@ -2342,7 +2342,7 @@
  - [http://web.cse.ohio-state.edu/~stiff.4/cse3521/norvig-chomsky.html](http://web.cse.ohio-state.edu/~stiff.4/cse3521/norvig-chomsky.html)
  - date published: 2023-02-19T13:09:27+00:00
  - user: rumpel
- - tags: []
+ - tags: ['artificial intelligence']
 
 ## 'Woke' California university slammed for 'dehumanized' initiative encouraging students to tell on professors
  - [https://www.foxnews.com/media/woke-california-university-slammed-dehumanized-initiative-encouraging-students-tell-professors](https://www.foxnews.com/media/woke-california-university-slammed-dehumanized-initiative-encouraging-students-tell-professors)
@@ -2816,7 +2816,7 @@
  - [https://www.pcgamer.com/twitch-starts-to-address-deepfake-porn-and-the-first-thing-to-go-is-that-phrase](https://www.pcgamer.com/twitch-starts-to-address-deepfake-porn-and-the-first-thing-to-go-is-that-phrase)
  - date published: 2023-03-07T07:45:11+00:00
  - user: rumpel
- - tags: []
+ - tags: ['deepfake']
 
 ## Denmark’s Welfare State Became a Surveillance Nightmare
  - [https://www.wired.com/story/algorithms-welfare-state-politics](https://www.wired.com/story/algorithms-welfare-state-politics)
@@ -3080,7 +3080,7 @@
  - [https://www.youtube.com/watch?v=wcn3_V2_rJ0](https://www.youtube.com/watch?v=wcn3_V2_rJ0)
  - date published: 2023-03-12T13:24:52+00:00
  - user: rumpel
- - tags: []
+ - tags: ['ukraine', 'war']
 
 ## 11 Documents Showing Microsoft Tried To Destroy Linux
  - [https://www.youtube.com/watch?v=tUk169XL58w](https://www.youtube.com/watch?v=tUk169XL58w)
@@ -3182,7 +3182,7 @@
  - [https://www.politico.eu/article/no-porn-no-instagram-for-kids-france-doubles-down-age-verification-emmanuel-macrons-nick-clegg](https://www.politico.eu/article/no-porn-no-instagram-for-kids-france-doubles-down-age-verification-emmanuel-macrons-nick-clegg)
  - date published: 2023-03-15T11:47:26+00:00
  - user: rumpel
- - tags: []
+ - tags: ['social media', 'anonymity', 'france', 'privacy', 'moderation', 'surveillance']
 
 ## Linux desktop leaders unite behind Flathub app store. Here's why
  - [https://www.zdnet.com/article/linux-desktop-leaders-unite-behind-flathub-app-store-heres-why](https://www.zdnet.com/article/linux-desktop-leaders-unite-behind-flathub-app-store-heres-why)
@@ -3464,7 +3464,7 @@
  - [https://www.cs.utexas.edu/~fussell/courses/cs352h/papers/moore.pdf](https://www.cs.utexas.edu/~fussell/courses/cs352h/papers/moore.pdf)
  - date published: 2023-03-25T00:52:37+00:00
  - user: rumpel
- - tags: []
+ - tags: ['hardware', 'integrated circuits', 'gordon moore']
 
 ## The Future is a Dead Mall - Decentraland and the Metaverse
  - [https://www.youtube.com/watch?v=EiZhdpLXZ8Q](https://www.youtube.com/watch?v=EiZhdpLXZ8Q)
@@ -3842,7 +3842,7 @@
  - [https://www.filestash.app/2023/04/01/chat-gpt-acting-as-a-ftp-server](https://www.filestash.app/2023/04/01/chat-gpt-acting-as-a-ftp-server)
  - date published: 2023-04-05T06:54:05+00:00
  - user: rumpel
- - tags: []
+ - tags: ['gpt-4', 'artificial intelligence']
 
 ## Johnson and Johnson Reaches Deal for $8.9B Talc Settlement
  - [https://www.nytimes.com/2023/04/04/business/media/johnson-johnson-talc-settlement.html](https://www.nytimes.com/2023/04/04/business/media/johnson-johnson-talc-settlement.html)
@@ -4178,7 +4178,7 @@
  - [https://ia601707.us.archive.org/28/items/gov.uscourts.cand.364454/gov.uscourts.cand.364454.385.0.pdf](https://ia601707.us.archive.org/28/items/gov.uscourts.cand.364454/gov.uscourts.cand.364454.385.0.pdf)
  - date published: 2023-04-15T22:19:26+00:00
  - user: rumpel
- - tags: []
+ - tags: ['monopoly', 'corporatocracy', 'google']
 
 ## Shared post - Trans therapist charged over sexually assaulting autistic children in Indiana
  - [https://ngo.locals.com/post/3856550/trans-therapist-charged-over-sexually-assaulting-autistic-children-in-indiana](https://ngo.locals.com/post/3856550/trans-therapist-charged-over-sexually-assaulting-autistic-children-in-indiana)
@@ -4582,7 +4582,7 @@
  - [https://reclaimthenet.org/metacritic-announces-stricter-censorship-horizon-burning-shores](https://reclaimthenet.org/metacritic-announces-stricter-censorship-horizon-burning-shores)
  - date published: 2023-04-27T17:00:04+00:00
  - user: rumpel
- - tags: []
+ - tags: ['propaganda', 'metacritic', 'censorship']
 
 ## Reddit - laurene powell jobs and ghistlaine maxwell
  - [https://www.reddit.com/r/pics/comments/oe202b/laurene_powel_jobs_steve_jobs_widow_and_ghislaine](https://www.reddit.com/r/pics/comments/oe202b/laurene_powel_jobs_steve_jobs_widow_and_ghislaine)
@@ -4960,7 +4960,7 @@
  - [https://gwern.net/doc/technology/2005-shirky-agroupisitsownworstenemy.pdf](https://gwern.net/doc/technology/2005-shirky-agroupisitsownworstenemy.pdf)
  - date published: 2023-05-07T21:55:26+00:00
  - user: rumpel
- - tags: []
+ - tags: ['management', 'programming']
 
 ## Canada Liberal’s Assault on Press Freedom: The Plot To Censor ‘Untraceable Sources’
  - [https://reclaimthenet.org/canada-liberals-propose-unverified-sources-ban](https://reclaimthenet.org/canada-liberals-propose-unverified-sources-ban)
@@ -5146,7 +5146,7 @@
  - [https://androidblog.a.pinggy.io](https://androidblog.a.pinggy.io)
  - date published: 2023-05-15T05:53:17+00:00
  - user: rumpel
- - tags: []
+ - tags: ['selfhost']
 
 ## Telly Start-Up Offers Dual-Screen Smart TVs For Free – Deadline
  - [https://deadline.com/2023/05/telly-startup-pluto-tv-smart-tv-streaming-advertising-1235362087](https://deadline.com/2023/05/telly-startup-pluto-tv-smart-tv-streaming-advertising-1235362087)
@@ -6334,7 +6334,7 @@
  - [https://biznes.wprost.pl/technologie/internet/11261809/blokada-pornografii-dla-nieletnich-ustawa-o-ochronie-w-sieci-juz-w-sejmie.html](https://biznes.wprost.pl/technologie/internet/11261809/blokada-pornografii-dla-nieletnich-ustawa-o-ochronie-w-sieci-juz-w-sejmie.html)
  - date published: 2023-06-13T20:57:20+00:00
  - user: rumpel
- - tags: []
+ - tags: ['poland', 'censorship', 'government control', 'tech control']
 
 ## Google risks forced breakup of ad business as EU alleges shocking misconduct | Ars Technica
  - [https://arstechnica.com/tech-policy/2023/06/google-may-soon-be-ordered-to-break-up-its-lucrative-ad-business-eu-warns](https://arstechnica.com/tech-policy/2023/06/google-may-soon-be-ordered-to-break-up-its-lucrative-ad-business-eu-warns)
@@ -6364,7 +6364,7 @@
  - [https://biznesalert.pl/brakuje-juz-ponad-szesciu-miliardow-na-mrozenie-cen-energii-wiec-zaplaca-tez-polacy](https://biznesalert.pl/brakuje-juz-ponad-szesciu-miliardow-na-mrozenie-cen-energii-wiec-zaplaca-tez-polacy)
  - date published: 2023-06-14T14:12:44+00:00
  - user: rumpel
- - tags: []
+ - tags: ['poland', 'prawo i sprawiedliwość']
 
 ## US spy agencies are buying the same surveillance data advertisers crave
  - [https://www.theverge.com/2023/6/14/23759585/odni-spy-report-surveillance-data-location-tracking](https://www.theverge.com/2023/6/14/23759585/odni-spy-report-surveillance-data-location-tracking)
@@ -6484,7 +6484,7 @@
  - [https://blog.dijit.sh//i-don-t-trust-signal](https://blog.dijit.sh//i-don-t-trust-signal)
  - date published: 2023-06-19T03:05:27+00:00
  - user: rumpel
- - tags: []
+ - tags: ['open source', 'signal']
 
 ## Korupcja przy eksporcie zboża z Ukrainy. Milion dolarów łapówek miesięcznie - Money.pl
  - [https://www.money.pl/gospodarka/milion-dolarow-lapowek-miesiecznie-korupcja-przy-eksporcie-zboza-z-ukrainy-6910673317431968a.html](https://www.money.pl/gospodarka/milion-dolarow-lapowek-miesiecznie-korupcja-przy-eksporcie-zboza-z-ukrainy-6910673317431968a.html)
@@ -7366,7 +7366,7 @@
  - [https://nocss.club](https://nocss.club)
  - date published: 2023-07-16T10:17:23+00:00
  - user: rumpel
- - tags: []
+ - tags: ['web10', 'webdev', 'selfhost']
 
 ## GitHub - go-task/task: A task runner / simpler Make alternative written in Go
  - [https://github.com/go-task/task](https://github.com/go-task/task)
@@ -7468,7 +7468,7 @@
  - [https://summit.news/2023/07/19/youtube-is-pulling-sound-of-freedom-interviews-reviews](https://summit.news/2023/07/19/youtube-is-pulling-sound-of-freedom-interviews-reviews)
  - date published: 2023-07-19T14:10:03+00:00
  - user: rumpel
- - tags: []
+ - tags: ['censorship', 'youtube', 'sound of freedom']
 
 ## Flying in Europe up to 30 times cheaper than train, says Greenpeace
  - [https://www.theguardian.com/environment/2023/jul/20/flying-in-europe-up-to-30-times-cheaper-than-train-says-greenpeace](https://www.theguardian.com/environment/2023/jul/20/flying-in-europe-up-to-30-times-cheaper-than-train-says-greenpeace)
@@ -7624,7 +7624,7 @@
  - [https://www.youtube.com/watch?v=tZ8xuQnpvIE](https://www.youtube.com/watch?v=tZ8xuQnpvIE)
  - date published: 2023-07-23T00:00:00+00:00
  - user: rumpel
- - tags: []
+ - tags: ['ad business', 'technofeudalism', 'subscription', 'youtube']
 
 ## Web Environment Integrity API Proposal | Hacker News
  - [https://news.ycombinator.com/item?id=36817305](https://news.ycombinator.com/item?id=36817305)
@@ -8110,7 +8110,7 @@
  - [https://player.kohina.com/streamplayer](https://player.kohina.com/streamplayer)
  - date published: 2023-08-04T09:55:01+00:00
  - user: rumpel
- - tags: []
+ - tags: ['chiptune']
 
 ## Essential Keygen Music : Free Download, Borrow, and Streaming : Internet Archive
  - [https://archive.org/details/essential-keygen-music](https://archive.org/details/essential-keygen-music)
@@ -8452,7 +8452,7 @@
  - [https://www.bbc.co.uk/news/world-europe-66543503?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-66543503?at_medium=RSS&at_campaign=KARANGA)
  - date published: 2023-08-18T12:10:26+00:00
  - user: rumpel
- - tags: []
+ - tags: ['religion', 'church scandal']
 
 ## Deja Vu: The FBI Proves Again It Can’t Be Trusted with Section 702
  - [https://www.eff.org/deeplinks/2023/07/deja-vu-fbi-proves-again-it-cant-be-trusted-section-702](https://www.eff.org/deeplinks/2023/07/deja-vu-fbi-proves-again-it-cant-be-trusted-section-702)
@@ -9802,7 +9802,7 @@
  - [https://static.googleusercontent.com/media/guidelines.raterhub.com/en//searchqualityevaluatorguidelines.pdf](https://static.googleusercontent.com/media/guidelines.raterhub.com/en//searchqualityevaluatorguidelines.pdf)
  - date published: 2023-11-02T09:05:01+00:00
  - user: rumpel
- - tags: []
+ - tags: ['seo', 'search engines']
 
 ## Bing Webmaster Tools
  - [https://www.bing.com/webmasters/help/webmasters-guidelines-30fba23a](https://www.bing.com/webmasters/help/webmasters-guidelines-30fba23a)
@@ -10198,7 +10198,7 @@
  - [https://cblgh.org/trustnet](https://cblgh.org/trustnet)
  - date published: 2023-12-10T08:43:59+00:00
  - user: rumpel
- - tags: []
+ - tags: ['moderation']
 
 ## Ucisk w klatce piersiowej i kołatanie serca po szczepieniu przeciwko COVID-19 u 16-letniego chłopca
  - [https://www.mp.pl/szczepienia/praktyka/przypadki/310343,ucisk-w-klatce-piersiowej-i-kolatanie-serca-po-szczepieniu-przeciwko-covid-19-u-16-letniego-chlopca](https://www.mp.pl/szczepienia/praktyka/przypadki/310343,ucisk-w-klatce-piersiowej-i-kolatanie-serca-po-szczepieniu-przeciwko-covid-19-u-16-letniego-chlopca)
@@ -10330,7 +10330,7 @@
  - [https://abcnews.go.com/International/wireStory/140-villagers-killed-suspected-herders-dayslong-attacks-north-105916103](https://abcnews.go.com/International/wireStory/140-villagers-killed-suspected-herders-dayslong-attacks-north-105916103)
  - date published: 2023-12-26T10:51:16+00:00
  - user: rumpel
- - tags: []
+ - tags: ['christioanophobia']
 
 ## What comes after open source? Bruce Perens is working on it
  - [https://www.theregister.com/2023/12/27/bruce_perens_post_open](https://www.theregister.com/2023/12/27/bruce_perens_post_open)
@@ -10384,7 +10384,7 @@
  - [https://twitter.com/Mondblut1984/status/1740844676234793166](https://twitter.com/Mondblut1984/status/1740844676234793166)
  - date published: 2023-12-29T11:30:22+00:00
  - user: rumpel
- - tags: []
+ - tags: ['the left wing', 'sjw', 'anime', 'propaganda', 'woke']
 
 ## Policzyli koszt miłości w CO2. Taylor Swift lata na randki prywatnym odrzutowcem
  - [https://businessinsider.com.pl/lifestyle/taylor-swift-w-3-miesiace-wyemitowala-tyle-co2-co-17-domow-w-rok/fb5qyv2](https://businessinsider.com.pl/lifestyle/taylor-swift-w-3-miesiace-wyemitowala-tyle-co2-co-17-domow-w-rok/fb5qyv2)

@@ -1,5 +1,5 @@
 ## The Tao of Programming
- - [http://www.mit.edu/~xela/tao.html](http://www.mit.edu/~xela/tao.html)
+ - [https://www.mit.edu/~xela/tao.html](https://www.mit.edu/~xela/tao.html)
  - date published: 1987-06-21T07:33:34+00:00
  - user: rumpel
  - tags: ['programming', 'funny']

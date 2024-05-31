@@ -848,7 +848,7 @@
  - [https://conservativeinstitute.org/conservative-news/senate-report-implicates-fauci-in-wuhan-lab-leak-cover-up.htm](https://conservativeinstitute.org/conservative-news/senate-report-implicates-fauci-in-wuhan-lab-leak-cover-up.htm)
  - date published: 2022-02-04T06:55:19+00:00
  - user: None
- - tags: []
+ - tags: ['covid', 'anthony fauci', 'wuhan', 'lab leak']
 
 ## GoFundMe pulls plug on fundraiser for Ottawa convoy protesters | Toronto Sun
  - [https://torontosun.com/news/national/gofundme-pulls-plug-on-fundraiser-for-ottawa-convoy-protesters](https://torontosun.com/news/national/gofundme-pulls-plug-on-fundraiser-for-ottawa-convoy-protesters)
@@ -872,7 +872,7 @@
  - [https://phmpt.org/wp-content/uploads/2022/02/056-ORDER-GRANTING-IN-PART-THE-MOTION-TO-MODIFY-THE-PRODUCTION-SCHEDULE-AND-ADDOPTS-THE-JOINT-STATUS-REPORT-MODIFIED-AGREED-PRODUCTION-SCHEDULE.pdf](https://phmpt.org/wp-content/uploads/2022/02/056-ORDER-GRANTING-IN-PART-THE-MOTION-TO-MODIFY-THE-PRODUCTION-SCHEDULE-AND-ADDOPTS-THE-JOINT-STATUS-REPORT-MODIFIED-AGREED-PRODUCTION-SCHEDULE.pdf)
  - date published: 2022-02-05T07:04:06+00:00
  - user: None
- - tags: []
+ - tags: ['fda', 'pfizer', 'covid', 'vaccine', 'big pharma']
 
 ## Jan-Piet Mens :: A shell command to create JSON: jo
  - [https://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo](https://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo)
@@ -1154,7 +1154,7 @@
  - [https://www.youtube.com/watch?v=_vBRGWoK6_4](https://www.youtube.com/watch?v=_vBRGWoK6_4)
  - date published: 2022-02-12T20:14:23+00:00
  - user: rumpel
- - tags: []
+ - tags: ['bible', 'religion', 'jordan peterson', 'religion knowledge']
 
 ## Victor Davis Hanson - How COVID Lockdowns Killed Small Businesses | Highlights Ep.38
  - [https://www.youtube.com/watch?v=-CucAwH3YQY](https://www.youtube.com/watch?v=-CucAwH3YQY)
@@ -1286,7 +1286,7 @@
  - [https://westphaliantimes.com/ottawa-police-chief-says-law-enforcement-will-come-after-protestors-even-if-they-go-home](https://westphaliantimes.com/ottawa-police-chief-says-law-enforcement-will-come-after-protestors-even-if-they-go-home)
  - date published: 2022-02-19T06:53:36+00:00
  - user: rumpel
- - tags: []
+ - tags: ['canada', 'covid', 'fearmongering', 'propaganda', 'protest']
 
 ## Jean-Luc Brunel: Epstein associate found dead in Paris prison cell - BBC News
  - [https://www.bbc.com/news/world-europe-60443518](https://www.bbc.com/news/world-europe-60443518)
@@ -3380,7 +3380,7 @@
  - [https://files.eric.ed.gov/fulltext/EJ1124962.pdf](https://files.eric.ed.gov/fulltext/EJ1124962.pdf)
  - date published: 2022-06-03T06:58:22+00:00
  - user: rumpel
- - tags: []
+ - tags: ['racism', 'usa', 'hate speech', 'black lives matter', 'blm']
 
 ## 2022 Russian businessmen mystery deaths
  - [https://en.wikipedia.org/wiki/2022_Russian_businessmen_mystery_deaths](https://en.wikipedia.org/wiki/2022_Russian_businessmen_mystery_deaths)
@@ -3722,7 +3722,7 @@
  - [https://datastation.multiprocess.io/blog/2022-06-11-year-in-review.html](https://datastation.multiprocess.io/blog/2022-06-11-year-in-review.html)
  - date published: 2022-06-21T17:16:41+00:00
  - user: Thomas Pain
- - tags: []
+ - tags: ['monetization', 'open source']
 
 ## The driving enthusiast’s dilemma with electric cars | Ars Technica
  - [https://arstechnica.com/cars/2022/06/the-driving-enthusiasts-dilemma-about-electric-cars](https://arstechnica.com/cars/2022/06/the-driving-enthusiasts-dilemma-about-electric-cars)
@@ -4112,7 +4112,7 @@
  - [https://www.youtube.com/watch?v=9JWsGQ1_414](https://www.youtube.com/watch?v=9JWsGQ1_414)
  - date published: 2022-07-15T00:00:00+00:00
  - user: rumpel
- - tags: []
+ - tags: ['motivation', 'psychology', 'alan watts']
 
 ## Ring Reveals They Give Videos to Police Without User Consent or a Warrant | Electronic Frontier Foundation
  - [https://www.eff.org/deeplinks/2022/07/ring-reveals-they-give-videos-police-without-user-consent-or-warrant](https://www.eff.org/deeplinks/2022/07/ring-reveals-they-give-videos-police-without-user-consent-or-warrant)
@@ -4202,7 +4202,7 @@
  - [https://biznesalert.pl/pola-matysiak-emisje-co2-atom-niemcy-rozmowa](https://biznesalert.pl/pola-matysiak-emisje-co2-atom-niemcy-rozmowa)
  - date published: 2022-07-19T07:44:22+00:00
  - user: rumpel
- - tags: []
+ - tags: ['co2', 'climate change', 'atom']
 
 ## Study: Blacks 14 percent of the U.S. population; 52 percent of homicide victims | The Birmingham Times
  - [https://www.birminghamtimes.com/2022/07/study-blacks-14-percent-of-the-u-s-population-52-percent-of-homicide-victims](https://www.birminghamtimes.com/2022/07/study-blacks-14-percent-of-the-u-s-population-52-percent-of-homicide-victims)
@@ -5174,7 +5174,7 @@
  - [https://gsiexchange.com/follow-the-yellow-bric-road-to-a-new-digital-reserve-currency](https://gsiexchange.com/follow-the-yellow-bric-road-to-a-new-digital-reserve-currency)
  - date published: 2022-08-29T16:56:15+00:00
  - user: rumpel
- - tags: []
+ - tags: ['cbdc', 'brics', 'fiat currency']
 
 ## Echo reply (an incomplete update on things)
  - [https://rachelbythebay.com/w/2022/08/29/pong](https://rachelbythebay.com/w/2022/08/29/pong)
@@ -5222,7 +5222,7 @@
  - [https://www3.weforum.org/docs/WEF_Advancing_towards_Digital_Agency_2022.pdf](https://www3.weforum.org/docs/WEF_Advancing_towards_Digital_Agency_2022.pdf)
  - date published: 2022-08-31T07:07:46+00:00
  - user: None
- - tags: []
+ - tags: ['digital identity', 'world economic forum']
 
 ## Thought The Pandemic Was Bad? THIS Is What’s Coming
  - [https://www.youtube.com/watch?v=CqIJbLGV52c](https://www.youtube.com/watch?v=CqIJbLGV52c)
@@ -5396,7 +5396,7 @@
  - [https://www.youtube.com/watch?v=RotcD7OREP4&time_continue=871](https://www.youtube.com/watch?v=RotcD7OREP4&time_continue=871)
  - date published: 2022-09-03T11:23:41+00:00
  - user: rumpel
- - tags: []
+ - tags: ['big brother', 'cbdc']
 
 ## Fire brigades spend £17,000 on decorating engines in LGBT rainbow colours in inclusivity drive
  - [https://www.dailymail.co.uk/news/article-11176187/Fire-brigades-spend-17-000-decorating-engines-LGBT-rainbow-colours-inclusivity-drive.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11176187/Fire-brigades-spend-17-000-decorating-engines-LGBT-rainbow-colours-inclusivity-drive.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -7172,7 +7172,7 @@
  - [https://epoznan.pl/news-news-132809-w_poznaniu_odbedzie_sie_seks_festiwal_w_programie_dlaczego_warto_ogladac_porno_i_przyszlosc_sex_zabawek_jest_niebinarna?rss=1](https://epoznan.pl/news-news-132809-w_poznaniu_odbedzie_sie_seks_festiwal_w_programie_dlaczego_warto_ogladac_porno_i_przyszlosc_sex_zabawek_jest_niebinarna?rss=1)
  - date published: 2022-09-27T06:05:00+00:00
  - user: None
- - tags: []
+ - tags: ['propaganda', 'indoctrination', 'the left wing']
 
 ## PayPal reinstates Free Speech Union accounts after being accused of ‘politically motivated’ ban
  - [https://www.telegraph.co.uk/politics/2022/09/27/paypal-reinstates-free-speech-union-accounts-accused-politically](https://www.telegraph.co.uk/politics/2022/09/27/paypal-reinstates-free-speech-union-accounts-accused-politically)
@@ -7424,7 +7424,7 @@
  - [https://mwi.usma.edu/mwi-video-brain-battlefield-future-dr-james-giordano](https://mwi.usma.edu/mwi-video-brain-battlefield-future-dr-james-giordano)
  - date published: 2022-09-29T23:59:46+00:00
  - user: None
- - tags: []
+ - tags: ['social control', 'big tech', 'social media']
 
 ## Never-before-seen malware has infected hundreds of Linux and Windows devices
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59043](https://www.codeproject.com/script/News/View.aspx?nwid=59043)
@@ -8852,7 +8852,7 @@
  - [https://www.foxnews.com/media/california-school-broadcasts-sexually-explicit-books-covering-pedophiles-kink-pornographic-images](https://www.foxnews.com/media/california-school-broadcasts-sexually-explicit-books-covering-pedophiles-kink-pornographic-images)
  - date published: 2022-10-24T16:00:58+00:00
  - user: None
- - tags: []
+ - tags: ['paedophilia', 'lgbt', 'california', 'the left wing']
 
 ## Kids who play video games score higher on brain function tests
  - [https://www.theverge.com/2022/10/24/23420502/video-game-kid-brain-function-fmri](https://www.theverge.com/2022/10/24/23420502/video-game-kid-brain-function-fmri)
@@ -8876,7 +8876,7 @@
  - [https://www.youtube.com/watch?v=zum672SQX8Q](https://www.youtube.com/watch?v=zum672SQX8Q)
  - date published: 2022-10-24T21:00:10+00:00
  - user: None
- - tags: []
+ - tags: ['culture', 'the left wing', 'cancel culture', 'postmodernism']
 
 ## State AGs say Fauci, Zuckerberg 'colluded' to kill COVID lab leak theory
  - [https://www.foxnews.com/politics/state-ags-fauci-zuckerberg-colluded-kill-covid-lab-leak-theory](https://www.foxnews.com/politics/state-ags-fauci-zuckerberg-colluded-kill-covid-lab-leak-theory)
@@ -9008,7 +9008,7 @@
  - [https://iapps.courts.state.ny.us/fbem/DocumentDisplayServlet?documentId=JK5E3gx5XV1/ku37jnWR_PLUS_w==&system=prod](https://iapps.courts.state.ny.us/fbem/DocumentDisplayServlet?documentId=JK5E3gx5XV1/ku37jnWR_PLUS_w==&system=prod)
  - date published: 2022-10-25T22:31:24+00:00
  - user: None
- - tags: []
+ - tags: ['vaccine', 'covid']
 
 ## Stock futures fall after Alphabet reports earnings miss
  - [https://biztoc.com/p/8ywu3duf?ref=rss&rd=1](https://biztoc.com/p/8ywu3duf?ref=rss&rd=1)
@@ -9104,7 +9104,7 @@
  - [https://commit.pizza/2022/10/16/the-only-way-of-being-anonymous-in-sweden-is-illegal](https://commit.pizza/2022/10/16/the-only-way-of-being-anonymous-in-sweden-is-illegal)
  - date published: 2022-10-26T13:50:50+00:00
  - user: rumpel
- - tags: []
+ - tags: ['privacy', 'anonymity', 'law']
 
 ## App Store developers aren’t happy with gambling app ads appearing beneath their listings
  - [https://www.theverge.com/2022/10/26/23424316/app-store-gambling-ads-listings-apple-developers](https://www.theverge.com/2022/10/26/23424316/app-store-gambling-ads-listings-apple-developers)
@@ -9722,7 +9722,7 @@
  - [https://www.computerworld.com/article/3678297/your-company-brand-may-soon-be-held-hostage-to-adobe-pantone.html#tk.rss_all](https://www.computerworld.com/article/3678297/your-company-brand-may-soon-be-held-hostage-to-adobe-pantone.html#tk.rss_all)
  - date published: 2022-11-01T16:00:00+00:00
  - user: None
- - tags: []
+ - tags: ['subscription', 'technofeudalism', 'car sharing']
 
 ## The DMA could force Apple to change how iMessage and other services operate
  - [https://www.androidauthority.com/apple-imessage-dma-3229780](https://www.androidauthority.com/apple-imessage-dma-3229780)
@@ -10082,7 +10082,7 @@
  - [https://www.thetimes.com.ng/2022/11/finlands-covid-death-toll-could-be-exaggerated-by-40-thl-says-news-more-trending-news](https://www.thetimes.com.ng/2022/11/finlands-covid-death-toll-could-be-exaggerated-by-40-thl-says-news-more-trending-news)
  - date published: 2022-11-06T08:58:33+00:00
  - user: rumpel
- - tags: []
+ - tags: ['covid lie', 'covid', 'finland']
 
 ## Industry ethicist: Social media companies amplifying Americans' anger for profit - CBS News
  - [https://www.cbsnews.com/news/tristan-harris-social-media-political-polarization-60-minutes-2022-11-06/?ftag=CNM-00-10aab7d&linkId=188527613](https://www.cbsnews.com/news/tristan-harris-social-media-political-polarization-60-minutes-2022-11-06/?ftag=CNM-00-10aab7d&linkId=188527613)
@@ -11036,7 +11036,7 @@
  - [https://singlepage.cc](https://singlepage.cc)
  - date published: 2022-11-29T20:14:31+00:00
  - user: rumpel
- - tags: []
+ - tags: ['hosting', 'programming', 'internet']
 
 ## China to punish internet users for 'liking' posts in crackdown after zero-Covid protests
  - [https://www.cnn.com/2022/11/30/media/china-new-internet-rule-punish-liking-posts-intl-hnk/index.html](https://www.cnn.com/2022/11/30/media/china-new-internet-rule-punish-liking-posts-intl-hnk/index.html)
@@ -11684,7 +11684,7 @@
  - [https://www.youtube.com/watch?v=PK6H0qI7fCY](https://www.youtube.com/watch?v=PK6H0qI7fCY)
  - date published: 2022-12-11T00:00:00+00:00
  - user: rumpel
- - tags: []
+ - tags: ['privacy', 'digital identity', 'anonymity']
 
 ## Twitter Files reveal 'junior employee' stood against Trump ban, warned of 'slippery slope'
  - [https://www.foxnews.com/politics/twitter-files-reveal-junior-employee-stood-against-trump-ban-warned-slippery-slope](https://www.foxnews.com/politics/twitter-files-reveal-junior-employee-stood-against-trump-ban-warned-slippery-slope)
@@ -12710,7 +12710,7 @@
  - [https://www.dailywire.com/news/joe-rogans-podcast-shows-horrifying-slave-conditions-used-to-mine-materials-needed-for-electric-cars](https://www.dailywire.com/news/joe-rogans-podcast-shows-horrifying-slave-conditions-used-to-mine-materials-needed-for-electric-cars)
  - date published: 2022-12-24T16:37:37+00:00
  - user: rumpel
- - tags: []
+ - tags: ['climate change', 'climate drama', 'electric vehicles', 'slave labour']
 
 ## Why Marvel Is Collapsing: The Coming Marvel Crisis
  - [https://www.youtube.com/watch?v=uQFWlrfhe8M](https://www.youtube.com/watch?v=uQFWlrfhe8M)

@@ -124,7 +124,7 @@
  - [https://polityko.com/2021/01/13/cyberfaszyzm](https://polityko.com/2021/01/13/cyberfaszyzm)
  - date published: 2021-01-13T13:15:58+00:00
  - user: rumpel
- - tags: []
+ - tags: ['hunter biden', 'surveillance', 'censorship', 'big brother', 'big tech', 'privacy']
 
 ## How Facebook and Twitter decided to take down Trump's accounts
  - [https://www.nbcnews.com/tech/tech-news/how-facebook-twitter-decided-take-down-trump-s-accounts-n1254317](https://www.nbcnews.com/tech/tech-news/how-facebook-twitter-decided-take-down-trump-s-accounts-n1254317)
@@ -478,7 +478,7 @@
  - [https://policetribune.com/portland-rioters-try-set-fire-to-federal-courthouse-hours-after-security-fence-is-removed](https://policetribune.com/portland-rioters-try-set-fire-to-federal-courthouse-hours-after-security-fence-is-removed)
  - date published: 2021-03-12T19:26:38+00:00
  - user: rumpel
- - tags: []
+ - tags: ['protest', 'black lives matter', 'defund the police']
 
 ## Johnny Harris: A Story of YouTube Propaganda
  - [https://www.youtube.com/watch?v=Dum0bqWfiGw](https://www.youtube.com/watch?v=Dum0bqWfiGw)
@@ -1372,7 +1372,7 @@
  - [https://pubmedinfo.org/2021/06/16/kiedy-who-zmienila-definicje-odpornosci-stada](https://pubmedinfo.org/2021/06/16/kiedy-who-zmienila-definicje-odpornosci-stada)
  - date published: 2021-06-16T22:12:17+00:00
  - user: rumpel
- - tags: []
+ - tags: ['covid', 'who', 'herd immunity']
 
 ## Sidewalk: The Next Frontier Of Amazon’s Surveillance Infrastructure | ACLU
  - [https://www.aclu.org/news/privacy-technology/sidewalk-the-next-frontier-of-amazons-surveillance-infrastructure](https://www.aclu.org/news/privacy-technology/sidewalk-the-next-frontier-of-amazons-surveillance-infrastructure)
@@ -1528,7 +1528,7 @@
  - [https://www.redvoicemedia.com/2021/07/coke-faces-down-most-serious-backlash-yet-for-their-woke-agenda](https://www.redvoicemedia.com/2021/07/coke-faces-down-most-serious-backlash-yet-for-their-woke-agenda)
  - date published: 2021-07-02T09:10:14+00:00
  - user: rumpel
- - tags: []
+ - tags: ['coke', 'go woke go broke', 'the left wing']
 
 ## Here's a Look Inside Facebook's Data Wars - The New York Times
  - [https://www.nytimes.com/2021/07/14/technology/facebook-data.html](https://www.nytimes.com/2021/07/14/technology/facebook-data.html)
@@ -2182,7 +2182,7 @@
  - [https://www.youtube.com/watch?v=YB6gwOBClwE](https://www.youtube.com/watch?v=YB6gwOBClwE)
  - date published: 2021-07-29T00:00:00+00:00
  - user: rumpel
- - tags: []
+ - tags: ['drugs', 'crisis', 'usa']
 
 ## IPv4 pricing | Hacker News
  - [https://news.ycombinator.com/item?id=27982968](https://news.ycombinator.com/item?id=27982968)
@@ -4324,7 +4324,7 @@
  - [https://www.youtube.com/watch?v=rKUWnzcCRd8](https://www.youtube.com/watch?v=rKUWnzcCRd8)
  - date published: 2021-11-08T00:00:00+00:00
  - user: rumpel
- - tags: []
+ - tags: ['motivation', 'quotes']
 
 ## Last of original SCO v IBM Linux lawsuit settled | ZDNET
  - [https://www.zdnet.com/article/last-of-original-sco-v-ibm-linux-lawsuit-settled](https://www.zdnet.com/article/last-of-original-sco-v-ibm-linux-lawsuit-settled)
@@ -4702,7 +4702,7 @@
  - [https://www.youtube.com/watch?v=lYYmAF7_wk0](https://www.youtube.com/watch?v=lYYmAF7_wk0)
  - date published: 2021-11-25T00:00:00+00:00
  - user: rumpel
- - tags: []
+ - tags: ['motivation']
 
 ## The unbearable fussiness of the smart home - Stacey on IoT | Internet of Things news and analysis
  - [https://staceyoniot.com/the-unbearable-fussiness-of-the-smart-home](https://staceyoniot.com/the-unbearable-fussiness-of-the-smart-home)
@@ -4840,7 +4840,7 @@
  - [https://www.healthline.com/health-news/are-we-going-to-need-covid-19-boosters-every-6-months-what-experts-think#Will-boosters-become-an-annual-thing?](https://www.healthline.com/health-news/are-we-going-to-need-covid-19-boosters-every-6-months-what-experts-think#Will-boosters-become-an-annual-thing?)
  - date published: 2021-12-01T08:06:38+00:00
  - user: rumpel
- - tags: []
+ - tags: ['vaccine', 'covid', 'booster']
 
 ## Jaki szyfrowany komunikator wybrać? Lista współpracy z FBI może pomóc w podjęciu decyzji
  - [https://geekweek.interia.pl/technologia/news-jaki-szyfrowany-komunikator-wybrac-lista-wspolpracy-z-fbi-mo,nId,5679869](https://geekweek.interia.pl/technologia/news-jaki-szyfrowany-komunikator-wybrac-lista-wspolpracy-z-fbi-mo,nId,5679869)
@@ -4960,7 +4960,7 @@
  - [/next/7,173953,27885941,cos-dziwnego-wychodzi-z-danych-o-zgonach-na-covid-19-rozne.html](/next/7,173953,27885941,cos-dziwnego-wychodzi-z-danych-o-zgonach-na-covid-19-rozne.html)
  - date published: 2021-12-07T13:36:27+00:00
  - user: None
- - tags: []
+ - tags: ['statistics', 'covid']
 
 ## Evidence from Jeffrey Epstein's safe 'went missing' after FBI raid, court hears in Ghislaine Maxwell trial
  - [https://www.telegraph.co.uk/world-news/2021/12/07/evidence-jeffrey-epsteins-safe-went-missing-fbi-raid-court-hears](https://www.telegraph.co.uk/world-news/2021/12/07/evidence-jeffrey-epsteins-safe-went-missing-fbi-raid-court-hears)

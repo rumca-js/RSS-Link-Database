@@ -470,7 +470,7 @@
  - [https://summit.news/2019/07/05/cbc-accused-of-sexualizing-children-after-promoting-drag-kids-documentary](https://summit.news/2019/07/05/cbc-accused-of-sexualizing-children-after-promoting-drag-kids-documentary)
  - date published: 2019-07-05T08:18:45+00:00
  - user: rumpel
- - tags: []
+ - tags: ['children', 'sexualization']
 
 ## Koniec naszego świata
  - [https://www.tvp.info/43374228/koniec-naszego-swiata](https://www.tvp.info/43374228/koniec-naszego-swiata)
@@ -878,7 +878,7 @@
  - [http://www.silaojca.pl/w-jakim-stopniu-brak-ojca-wplywa-na-zycie-dziecka](http://www.silaojca.pl/w-jakim-stopniu-brak-ojca-wplywa-na-zycie-dziecka)
  - date published: 2019-10-02T08:36:52+00:00
  - user: rumpel
- - tags: []
+ - tags: ['fatherlessness', 'family']
 
 ## Eyes Wide Shut and the Moral Bankruptcy of the American Elite
  - [https://lawliberty.org/eyes-wide-shut-and-the-moral-bankruptcy-of-the-american-elite](https://lawliberty.org/eyes-wide-shut-and-the-moral-bankruptcy-of-the-american-elite)
@@ -896,7 +896,7 @@
  - [https://bigthink.com/the-present/nazis-occult](https://bigthink.com/the-present/nazis-occult)
  - date published: 2019-10-06T08:03:35+00:00
  - user: rumpel
- - tags: []
+ - tags: ['nazi', 'himmler', 'occult']
 
 ## Americans’ Views of ‘Socialism’ and ‘Capitalism’ In Their Own Words | Pew Research Center
  - [https://www.pewresearch.org/politics/2019/10/07/in-their-own-words-behind-americans-views-of-socialism-and-capitalism](https://www.pewresearch.org/politics/2019/10/07/in-their-own-words-behind-americans-views-of-socialism-and-capitalism)
@@ -1100,7 +1100,7 @@
  - [https://www.techrepublic.com/article/how-to-keep-employees-happy-linkedin-study-reveals-three-factors](https://www.techrepublic.com/article/how-to-keep-employees-happy-linkedin-study-reveals-three-factors)
  - date published: 2019-11-21T09:13:58+00:00
  - user: rumpel
- - tags: []
+ - tags: ['it', 'programming', 'managment']
 
 ## He invented the web. Now he's warning of a looming 'digital dystopia'
  - [https://www.cnn.com/2019/11/25/tech/berners-lee-web-safer-plan-scli-intl/index.html](https://www.cnn.com/2019/11/25/tech/berners-lee-web-safer-plan-scli-intl/index.html)
@@ -1160,7 +1160,7 @@
  - [https://bigthink.com/strange-maps/coudenhove-kalergi-map](https://bigthink.com/strange-maps/coudenhove-kalergi-map)
  - date published: 2019-12-12T10:19:51+00:00
  - user: rumpel
- - tags: []
+ - tags: ['the right wing', 'coudenhove-kalergi', 'european union']
 
 ## New York public school rejects student Christian club, OKs LGBT Pride Club
  - [https://www.christianpost.com/news/new-york-public-school-rejects-student-christian-club-oks-lgbt-pride-club.html?fbclid=IwAR0XGOCi2lUIsLetSjnCZN91O05rCeaWGsR0z2E5dBtfH_E-2OEFqVqi3eA](https://www.christianpost.com/news/new-york-public-school-rejects-student-christian-club-oks-lgbt-pride-club.html?fbclid=IwAR0XGOCi2lUIsLetSjnCZN91O05rCeaWGsR0z2E5dBtfH_E-2OEFqVqi3eA)

@@ -128,7 +128,7 @@
  - [https://www.wsj.com/articles/anthony-fauci-covid-social-distancing-six-feet-rule-house-subcommittee-hearing-44289850](https://www.wsj.com/articles/anthony-fauci-covid-social-distancing-six-feet-rule-house-subcommittee-hearing-44289850)
  - date published: 2024-01-11T23:34:00+00:00
  - user: rumpel
- - tags: []
+ - tags: ['covid']
 
 ## Prison. Bankruptcy. Suicide. How a software glitch and a centuries-old British company ruined lives | CNN Business
  - [https://edition.cnn.com/2024/01/13/business/uk-post-office-fujitsu-horizon-scandal/index.html](https://edition.cnn.com/2024/01/13/business/uk-post-office-fujitsu-horizon-scandal/index.html)
@@ -248,7 +248,7 @@
  - [https://www.wsj.com/articles/dr-fauci-and-the-sort-of-just-appeared-defense-covid-distancing-7cada692](https://www.wsj.com/articles/dr-fauci-and-the-sort-of-just-appeared-defense-covid-distancing-7cada692)
  - date published: 2024-01-19T20:13:00+00:00
  - user: rumpel
- - tags: []
+ - tags: ['lockdowns', 'covid', 'mandates']
 
 ## French farmers threaten to intensify protests over taxes, regulation
  - [https://www.france24.com/en/france/20240120-french-farmers-threaten-to-intensify-protests-as-anger-mounts](https://www.france24.com/en/france/20240120-french-farmers-threaten-to-intensify-protests-as-anger-mounts)
@@ -458,7 +458,7 @@
  - [https://time.com/6622135/mark-zuckerberg-apologies-history](https://time.com/6622135/mark-zuckerberg-apologies-history)
  - date published: 2024-02-02T15:33:58+00:00
  - user: rumpel
- - tags: []
+ - tags: ['facebook']
 
 ## 'Entire districts appear to be taken over by Arabs,' says German billionaire about his hometown of Berlin
  - [https://rmx.news/crime/entire-districts-appear-to-be-taken-over-by-arabs-says-german-billionaire-about-his-hometown-of-berlin-2](https://rmx.news/crime/entire-districts-appear-to-be-taken-over-by-arabs-says-german-billionaire-about-his-hometown-of-berlin-2)
