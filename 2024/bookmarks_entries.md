@@ -46,6 +46,12 @@
  - user: rumpel
  - tags: ['covid', 'vaccines']
 
+## The internet copyright machine wasn’t made for Mickey Mouse
+ - [https://www.theverge.com/2024/1/5/24026433/mickey-mouse-steamboat-willie-youtube-teepublic-takedowns-public-domain](https://www.theverge.com/2024/1/5/24026433/mickey-mouse-steamboat-willie-youtube-teepublic-takedowns-public-domain)
+ - date published: 2024-01-05T19:45:59+00:00
+ - user: rumpel
+ - tags: ['dmca', 'youtube']
+
 ## German farmers block roads with tractors in protest over cuts to vehicle tax subsidies – Europe live
  - [https://www.theguardian.com/world/live/2024/jan/08/germany-farmers-tractors-block-roads-protests-cuts-agricultural-subsidies-pay-europe-latest-updates](https://www.theguardian.com/world/live/2024/jan/08/germany-farmers-tractors-block-roads-protests-cuts-agricultural-subsidies-pay-europe-latest-updates)
  - date published: 2024-01-08T09:24:53+00:00
@@ -946,6 +952,12 @@
  - user: None
  - tags: ['orwell', 'technofeudalism', 'privacy', 'surveillance']
 
+## UN's top court orders Israel to halt military operations in Rafah
+ - [https://www.bbc.co.uk/news/live/world-69055989](https://www.bbc.co.uk/news/live/world-69055989)
+ - date published: 2024-05-24T12:32:06+00:00
+ - user: None
+ - tags: ['palestine', 'israel']
+
 ## Speedster jailed after S&rsquo;pore police tapped GPS, route data from in-car system
  - [https://www.thestar.com.my/tech/tech-news/2024/05/24/speedster-jailed-after-spore-police-tapped-gps-route-data-from-in-car-system-in-first-case-here](https://www.thestar.com.my/tech/tech-news/2024/05/24/speedster-jailed-after-spore-police-tapped-gps-route-data-from-in-car-system-in-first-case-here)
  - date published: 2024-05-24T15:20:00+00:00
@@ -963,4 +975,28 @@
  - date published: 2024-05-25T11:14:26+00:00
  - user: None
  - tags: ['corporatocracy', 'search engines', 'technofeudalism', 'seo', 'google']
+
+## Spying, hacking and intimidation: Israel’s nine-year ‘war’ on the ICC exposed
+ - [https://www.theguardian.com/world/article/2024/may/28/spying-hacking-intimidation-israel-war-icc-exposed](https://www.theguardian.com/world/article/2024/may/28/spying-hacking-intimidation-israel-war-icc-exposed)
+ - date published: 2024-05-28T12:00:30+00:00
+ - user: None
+ - tags: ['icc', 'israel']
+
+## Israel said to have waged 9-year ‘war’ against ICC, tapping its communications
+ - [https://www.timesofisrael.com/israel-said-to-have-waged-9-year-war-against-icc-tapping-its-communications](https://www.timesofisrael.com/israel-said-to-have-waged-9-year-war-against-icc-tapping-its-communications)
+ - date published: 2024-05-28T17:28:43+00:00
+ - user: None
+ - tags: ['palestine', 'icc', 'israel']
+
+## Israeli strikes on tent camp kills additional 37 Palestinians after Sunday strike killed 45
+ - [https://www.pbs.org/newshour/politics/israeli-strikes-on-tent-camp-kills-additional-37-palestinians-after-sunday-strike-killed-45](https://www.pbs.org/newshour/politics/israeli-strikes-on-tent-camp-kills-additional-37-palestinians-after-sunday-strike-killed-45)
+ - date published: 2024-05-28T20:10:32+00:00
+ - user: None
+ - tags: ['palestine', 'israel']
+
+## Washing machine chime scandal shows how absurd YouTube copyright abuse can get
+ - [https://arstechnica.com/tech-policy/2024/05/washing-machine-chime-scandal-shows-how-absurd-youtube-copyright-abuse-can-get](https://arstechnica.com/tech-policy/2024/05/washing-machine-chime-scandal-shows-how-absurd-youtube-copyright-abuse-can-get)
+ - date published: 2024-05-30T23:26:43+00:00
+ - user: None
+ - tags: ['dmca', 'youtube']
 
