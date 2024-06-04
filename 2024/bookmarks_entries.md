@@ -760,6 +760,11 @@
  - date_published: 2024-05-15T02:31:25+00:00
  - tags: ['privacy', 'technofeudalism', 'moderation']
 
+ ## Jeffrey Epstein's notorious 'little black book' containing the names of 349 of dead pedophile's associates is put up for auction
+ - [https://www.dailymail.co.uk/news/article-13426235/jeffrey-epstein-little-black-book-list-pedophiles-auction.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-13426235/jeffrey-epstein-little-black-book-list-pedophiles-auction.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - date_published: 2024-05-16T15:48:05+00:00
+ - tags: ['jeffrey epstein']
+
  ## Recall is Microsoft's key to unlocking the future of PCs
  - [https://www.theverge.com/2024/5/20/24159258/microsoft-recall-ai-explorer-windows-11-surface-event](https://www.theverge.com/2024/5/20/24159258/microsoft-recall-ai-explorer-windows-11-surface-event)
  - date_published: 2024-05-20T17:27:46+00:00

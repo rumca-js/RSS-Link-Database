@@ -8399,6 +8399,11 @@
  - date_published: 2023-11-27T14:08:37+00:00
  - tags: ['covid', 'moderna', 'elon musk', 'novak djokovic', 'russel brand']
 
+ ## A crowd responds in the street to the socialist attack on religious freedom in Spain
+ - [https://www.outono.net/elentir/2023/11/28/a-crowd-responds-in-the-street-to-the-socialist-attack-on-religious-freedom-in-spain](https://www.outono.net/elentir/2023/11/28/a-crowd-responds-in-the-street-to-the-socialist-attack-on-religious-freedom-in-spain)
+ - date_published: 2023-11-28T07:15:49+00:00
+ - tags: ['christianophobia', 'religion']
+
  ## Phil Zimmermann - Wikiquote
  - [https://en.wikiquote.org/wiki/Phil_Zimmermann](https://en.wikiquote.org/wiki/Phil_Zimmermann)
  - date_published: 2023-11-28T08:46:07+00:00

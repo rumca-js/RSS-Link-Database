@@ -2527,6 +2527,11 @@
  - [https://www.businessinsider.com/mailchimp-insiders-react-to-employees-getting-no-equity-2021-9?r=US&IR=T](https://www.businessinsider.com/mailchimp-insiders-react-to-employees-getting-no-equity-2021-9?r=US&IR=T)
  - date_published: 2021-09-18T08:21:47.495630+00:00
 
+ ## CDC’s Six-Foot Social Distancing Rule Was ‘Arbitrary’, Says Former FDA Commissioner
+ - [https://www.forbes.com/sites/graisondangor/2021/09/19/cdcs-six-foot-social-distancing-rule-was-arbitrary-says-former-fda-commissioner](https://www.forbes.com/sites/graisondangor/2021/09/19/cdcs-six-foot-social-distancing-rule-was-arbitrary-says-former-fda-commissioner)
+ - date_published: 2021-09-19T00:00:00+00:00
+ - tags: ['science is dead', 'covid']
+
  ## Why you need a personal laptop - The Verge
  - [https://www.theverge.com/22671697/personal-laptop-work-security-privacy](https://www.theverge.com/22671697/personal-laptop-work-security-privacy)
  - date_published: 2021-09-19T18:21:54.546556+00:00
