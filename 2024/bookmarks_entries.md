@@ -830,3 +830,8 @@
  - date_published: 2024-05-30T23:26:43+00:00
  - tags: ['dmca', 'youtube']
 
+ ## Fauci wrote 50 papers with adviser whose influence he downplayed in testimony
+ - [https://www.washingtonexaminer.com/policy/healthcare/3029346/fauci-wrote-50-papers-with-adviser-whose-influence-he-downplayed-in-testimony](https://www.washingtonexaminer.com/policy/healthcare/3029346/fauci-wrote-50-papers-with-adviser-whose-influence-he-downplayed-in-testimony)
+ - date_published: 2024-06-05T19:44:42+00:00
+ - tags: ['science is dead', 'covid']
+
