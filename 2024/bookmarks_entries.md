@@ -835,3 +835,8 @@
  - date_published: 2024-06-05T19:44:42+00:00
  - tags: ['science is dead', 'covid']
 
+ ## Google cut Uncle Sam a $2M check so it could avoid a jury trial
+ - [https://www.cnn.com/2024/06/07/business/google-doj-antitrust-case-judge-decision/index.html](https://www.cnn.com/2024/06/07/business/google-doj-antitrust-case-judge-decision/index.html)
+ - date_published: 2024-06-08T10:43:42+00:00
+ - tags: ['corporatocracy', 'google', 'privacy']
+
