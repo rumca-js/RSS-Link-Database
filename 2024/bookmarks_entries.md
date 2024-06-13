@@ -68,6 +68,11 @@
  - date_published: 2024-01-09T08:13:13+00:00
  - tags: ['dead internet']
 
+ ## Israel is facing a genocide case in international court. Could it halt the war in Gaza? | CNN
+ - [https://www.cnn.com/2024/01/09/middleeast/israel-genocide-case-world-court-gaza-mime-intl/index.html](https://www.cnn.com/2024/01/09/middleeast/israel-genocide-case-world-court-gaza-mime-intl/index.html)
+ - date_published: 2024-01-09T12:52:39+00:00
+ - tags: ['genocide', 'israel', 'palestine']
+
  ## LAWENDOWA MAFIA [CAŁY FILM] ks. Zaleski i ks. Oko o korzeniach zepsucia w Kościele!
  - [https://www.youtube.com/watch?v=mDopg7iBkgc](https://www.youtube.com/watch?v=mDopg7iBkgc)
  - date_published: 2024-01-10T00:00:00+00:00
@@ -151,11 +156,6 @@
  - [https://www.gamesindustry.biz/the-new-ubisoft-and-getting-gamers-comfortable-with-not-owning-their-games](https://www.gamesindustry.biz/the-new-ubisoft-and-getting-gamers-comfortable-with-not-owning-their-games)
  - date_published: 2024-01-15T17:25:40+00:00
  - tags: ['technofeudalism', 'subscription']
-
- ## Big Tech's role in enabling link fraud
- - [https://eligrey.com/blog/link-fraud](https://eligrey.com/blog/link-fraud)
- - date_published: 2024-01-15T18:01:44+00:00
- - tags: ['link fraud', 'ad business', 'vanity urls', 'malvertising']
 
  ## FAA 'diversity' push to hire workers with 'severe intellectual' disabilities sparks concern, mockery
  - [https://www.foxnews.com/us/faa-diversity-push-hire-workers-severe-intellectual-disabilities-sparks-concern-mockery](https://www.foxnews.com/us/faa-diversity-push-hire-workers-severe-intellectual-disabilities-sparks-concern-mockery)
@@ -715,6 +715,11 @@
  - date_published: 2024-04-25T03:12:26+00:00
  - tags: ['crypto wars', 'privacy', 'surveillance']
 
+ ## Taylor Swift’s two private jets flew 178,000 miles in 2023, her plane ‘stalker’ estimates
+ - [https://www.mercurynews.com/2024/04/29/taylor-swifts-two-private-jets-flew-178000-miles-in-2023-her-plane-stalker-estimates](https://www.mercurynews.com/2024/04/29/taylor-swifts-two-private-jets-flew-178000-miles-in-2023-her-plane-stalker-estimates)
+ - date_published: 2024-04-29T17:34:32+00:00
+ - tags: ['climate change']
+
  ## House passes antisemitism bill as Johnson highlights campus protests | CNN Politics
  - [https://edition.cnn.com/2024/05/01/politics/house-vote-antisemitism-awareness-act/index.html](https://edition.cnn.com/2024/05/01/politics/house-vote-antisemitism-awareness-act/index.html)
  - date_published: 2024-05-01T09:30:28+00:00
@@ -839,4 +844,14 @@
  - [https://www.cnn.com/2024/06/07/business/google-doj-antitrust-case-judge-decision/index.html](https://www.cnn.com/2024/06/07/business/google-doj-antitrust-case-judge-decision/index.html)
  - date_published: 2024-06-08T10:43:42+00:00
  - tags: ['corporatocracy', 'google', 'privacy']
+
+ ## Pride crosswalk damaged hours after repaint; suspects arrested
+ - [https://www.spokesman.com/stories/2024/jun/06/pride-crosswalk-damaged-hours-after-repaint-suspec](https://www.spokesman.com/stories/2024/jun/06/pride-crosswalk-damaged-hours-after-repaint-suspec)
+ - date_published: 2024-06-10T11:19:27+00:00
+ - tags: ['inequality', 'hate crime', 'lgbt']
+
+ ## Big Tech's role in enabling link fraud – take 2
+ - [https://eligrey.com/blog/link-fraud](https://eligrey.com/blog/link-fraud)
+ - date_published: 2024-06-10T21:37:18+00:00
+ - tags: ['malvertising', 'ad business']
 
