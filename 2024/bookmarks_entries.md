@@ -855,3 +855,8 @@
  - date_published: 2024-06-10T21:37:18+00:00
  - tags: ['malvertising', 'ad business']
 
+ ## ‘Could Spark an Epidemic’: House Committee Report Alleges Fauci and NIAID Concealed Plans to Engineer Enhanced Monkeypox Virus | National Review
+ - [https://www.nationalreview.com/news/could-spark-an-epidemic-house-committee-report-alleges-fauci-and-niaid-concealed-plans-to-engineer-enhanced-monkeypox-virus](https://www.nationalreview.com/news/could-spark-an-epidemic-house-committee-report-alleges-fauci-and-niaid-concealed-plans-to-engineer-enhanced-monkeypox-virus)
+ - date_published: 2024-06-12T21:44:15+00:00
+ - tags: ['anthony fauci', 'covid', 'pandemic']
+
