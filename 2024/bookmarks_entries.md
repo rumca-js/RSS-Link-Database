@@ -117,6 +117,11 @@
  - date_published: 2024-01-11T23:34:00+00:00
  - tags: ['covid']
 
+ ## Christian arrested for preaching by 'heavy-handed' police wins £5,000
+ - [https://www.dailymail.co.uk/news/article-12958493/Victory-free-speech-Christian-arrested-preaching-ridiculously-heavy-handed-police-wins-5-000-cops.html](https://www.dailymail.co.uk/news/article-12958493/Victory-free-speech-Christian-arrested-preaching-ridiculously-heavy-handed-police-wins-5-000-cops.html)
+ - date_published: 2024-01-13T01:47:52+00:00
+ - tags: ['christianophobia']
+
  ## Prison. Bankruptcy. Suicide. How a software glitch and a centuries-old British company ruined lives | CNN Business
  - [https://edition.cnn.com/2024/01/13/business/uk-post-office-fujitsu-horizon-scandal/index.html](https://edition.cnn.com/2024/01/13/business/uk-post-office-fujitsu-horizon-scandal/index.html)
  - date_published: 2024-01-13T09:02:00+00:00
@@ -815,6 +820,11 @@
  - date_published: 2024-05-25T11:14:26+00:00
  - tags: ['corporatocracy', 'search engines', 'technofeudalism', 'seo', 'google']
 
+ ## Anonymous Source Shared Leaked Google Search API Documents
+ - [https://sparktoro.com/blog/an-anonymous-source-shared-thousands-of-leaked-google-search-api-documents-with-me-everyone-in-seo-should-see-them](https://sparktoro.com/blog/an-anonymous-source-shared-thousands-of-leaked-google-search-api-documents-with-me-everyone-in-seo-should-see-them)
+ - date_published: 2024-05-28T03:07:31+00:00
+ - tags: ['google', 'corporatocracy', 'inequality']
+
  ## Spying, hacking and intimidation: Israel’s nine-year ‘war’ on the ICC exposed
  - [https://www.theguardian.com/world/article/2024/may/28/spying-hacking-intimidation-israel-war-icc-exposed](https://www.theguardian.com/world/article/2024/may/28/spying-hacking-intimidation-israel-war-icc-exposed)
  - date_published: 2024-05-28T12:00:30+00:00
@@ -859,4 +869,9 @@
  - [https://www.nationalreview.com/news/could-spark-an-epidemic-house-committee-report-alleges-fauci-and-niaid-concealed-plans-to-engineer-enhanced-monkeypox-virus](https://www.nationalreview.com/news/could-spark-an-epidemic-house-committee-report-alleges-fauci-and-niaid-concealed-plans-to-engineer-enhanced-monkeypox-virus)
  - date_published: 2024-06-12T21:44:15+00:00
  - tags: ['anthony fauci', 'covid', 'pandemic']
+
+ ## OpenAI Appoints Former NSA Director Paul Nakasone to Board of Directors
+ - [https://www.securityweek.com/openai-appoints-former-nsa-director-paul-nakasone-to-board-of-directors](https://www.securityweek.com/openai-appoints-former-nsa-director-paul-nakasone-to-board-of-directors)
+ - date_published: 2024-06-14T13:20:30+00:00
+ - tags: ['nsa', 'corporatocracy', 'surveillance', 'openai']
 
