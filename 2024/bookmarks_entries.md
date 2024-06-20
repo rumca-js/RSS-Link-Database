@@ -855,6 +855,11 @@
  - date_published: 2024-06-08T10:43:42+00:00
  - tags: ['corporatocracy', 'google', 'privacy']
 
+ ## A look at search engines with their own indexes
+ - [https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes](https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes)
+ - date_published: 2024-06-09T17:28:50+00:00
+ - tags: ['seo', 'search engines']
+
  ## Pride crosswalk damaged hours after repaint; suspects arrested
  - [https://www.spokesman.com/stories/2024/jun/06/pride-crosswalk-damaged-hours-after-repaint-suspec](https://www.spokesman.com/stories/2024/jun/06/pride-crosswalk-damaged-hours-after-repaint-suspec)
  - date_published: 2024-06-10T11:19:27+00:00
@@ -874,4 +879,9 @@
  - [https://www.securityweek.com/openai-appoints-former-nsa-director-paul-nakasone-to-board-of-directors](https://www.securityweek.com/openai-appoints-former-nsa-director-paul-nakasone-to-board-of-directors)
  - date_published: 2024-06-14T13:20:30+00:00
  - tags: ['nsa', 'corporatocracy', 'surveillance', 'openai']
+
+ ## Nashville Shooter Audrey Hale Manifesto Court Hearing Sparks Backlash
+ - [https://www.newsweek.com/audrey-hale-covenant-school-shooting-manifesto-court-hearing-1913756](https://www.newsweek.com/audrey-hale-covenant-school-shooting-manifesto-court-hearing-1913756)
+ - date_published: 2024-06-17T15:04:52+00:00
+ - tags: ['nashville', 'christianophobia']
 
