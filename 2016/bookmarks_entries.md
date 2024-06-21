@@ -83,10 +83,25 @@
  - date_published: 2016-03-25T18:04:15+00:00
  - tags: ['pollution', 'china']
 
+ ## Panama Papers: Cameron's father was Mossack Fonseca client
+ - [https://www.bbc.com/news/world-35961422](https://www.bbc.com/news/world-35961422)
+ - date_published: 2016-04-04T06:49:26+00:00
+ - tags: ['panama papers', 'elite', 'inequality', 'billionaires']
+
+ ## Fund run by David Cameron’s father avoided paying tax in Britain
+ - [https://www.theguardian.com/news/2016/apr/04/panama-papers-david-cameron-father-tax-bahamas](https://www.theguardian.com/news/2016/apr/04/panama-papers-david-cameron-father-tax-bahamas)
+ - date_published: 2016-04-04T14:04:32+00:00
+ - tags: ['panama papers', 'elite', 'inequality', 'billionaires']
+
  ## Plan Coudenhove-Kalergi - ludobójstwo narodów Europy
  - [http://www.rodaknet.com/rp_art_6784_czytelnia_richard_coudenhove-kalerg_stany_zjednoczone_europy.htm](http://www.rodaknet.com/rp_art_6784_czytelnia_richard_coudenhove-kalerg_stany_zjednoczone_europy.htm)
  - date_published: 2016-04-05T07:24:17+00:00
  - tags: ['coudenhove-kalergi', 'the right wing', 'immigration', 'conspiracy theory', 'depopulation']
+
+ ## Panama Papers Q&A: What is the scandal about?
+ - [https://www.bbc.com/news/world-35954224](https://www.bbc.com/news/world-35954224)
+ - date_published: 2016-04-06T06:43:26+00:00
+ - tags: ['hypocris', 'elite', 'inequality', 'billionaires']
 
  ## Senate bill effectively bans strong encryption - The Daily Dot
  - [https://www.dailydot.com/debug/encryption-backdoors-legislation-richard-burr-diane-feinstein](https://www.dailydot.com/debug/encryption-backdoors-legislation-richard-burr-diane-feinstein)
