@@ -700,6 +700,11 @@
  - date_published: 2024-04-18T16:39:12+00:00
  - tags: ['disinformation', 'katherine maher', 'anti-white']
 
+ ## Jonathan Haidt Wants You to Take Away Your Kid’s Phone
+ - [https://www.newyorker.com/news/the-new-yorker-interview/jonathan-haidt-wants-you-to-take-away-your-kids-phone](https://www.newyorker.com/news/the-new-yorker-interview/jonathan-haidt-wants-you-to-take-away-your-kids-phone)
+ - date_published: 2024-04-20T10:00:00+00:00
+ - tags: ['social media']
+
  ## Most dating apps sell and share users' personal data
  - [https://foundation.mozilla.org/en/privacynotincluded/articles/data-hungry-dating-apps-are-worse-than-ever-for-your-privacy](https://foundation.mozilla.org/en/privacynotincluded/articles/data-hungry-dating-apps-are-worse-than-ever-for-your-privacy)
  - date_published: 2024-04-23T13:49:45+00:00
@@ -884,4 +889,9 @@
  - [https://www.newsweek.com/audrey-hale-covenant-school-shooting-manifesto-court-hearing-1913756](https://www.newsweek.com/audrey-hale-covenant-school-shooting-manifesto-court-hearing-1913756)
  - date_published: 2024-06-17T15:04:52+00:00
  - tags: ['nashville', 'christianophobia']
+
+ ## Wegen „Hasskommentaren“ gegen Vergewaltiger: Junge Frau muss in Haft - Täter bleibt auf freiem Fuß - Apollo News
+ - [https://apollo-news.net/wegen-hasskommentaren-gegen-vergewaltiger-junge-frau-muss-in-haft](https://apollo-news.net/wegen-hasskommentaren-gegen-vergewaltiger-junge-frau-muss-in-haft)
+ - date_published: 2024-06-20T09:05:20+00:00
+ - tags: ['hate chrome', 'inequality', 'hate speech']
 
