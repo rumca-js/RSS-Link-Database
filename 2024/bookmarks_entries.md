@@ -895,3 +895,8 @@
  - date_published: 2024-06-20T09:05:20+00:00
  - tags: ['hate chrome', 'inequality', 'hate speech']
 
+ ## Julian Assange has reached a plea deal with the U.S., allowing him to go free
+ - [https://www.nbcnews.com/politics/justice-department/julian-assange-reached-plea-deal-us-allowing-go-free-rcna158695](https://www.nbcnews.com/politics/justice-department/julian-assange-reached-plea-deal-us-allowing-go-free-rcna158695)
+ - date_published: 2024-06-25T08:31:47+00:00
+ - tags: ['julian assange']
+
