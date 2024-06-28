@@ -895,8 +895,22 @@
  - date_published: 2024-06-20T09:05:20+00:00
  - tags: ['hate chrome', 'inequality', 'hate speech']
 
+ ## Featured Blog | Predatory tactics in gaming are worse than you think
+ - [https://www.gamedeveloper.com/design/predatory-tactics-in-gaming-are-worse-than-you-think](https://www.gamedeveloper.com/design/predatory-tactics-in-gaming-are-worse-than-you-think)
+ - date_published: 2024-06-24T00:00:00+00:00
+ - tags: ['technofeudalism', 'surveillance', 'privacy', 'video games']
+
  ## Julian Assange has reached a plea deal with the U.S., allowing him to go free
  - [https://www.nbcnews.com/politics/justice-department/julian-assange-reached-plea-deal-us-allowing-go-free-rcna158695](https://www.nbcnews.com/politics/justice-department/julian-assange-reached-plea-deal-us-allowing-go-free-rcna158695)
  - date_published: 2024-06-25T08:31:47+00:00
  - tags: ['julian assange']
+
+ ## Google is Getting Worse, ft. Wendell of Level1 Techs
+ - [https://www.youtube.com/watch?v=-vMKm44ypFY](https://www.youtube.com/watch?v=-vMKm44ypFY)
+ - date_published: 2024-06-25T21:48:18+00:00
+ - tags: ['google', 'search engines']
+
+ ## ROOKE: ‘Godmother Of Queer Theory’ Admits Her Work Champions Pedophilia And Turning Kids Gay
+ - [https://dailycaller.com/2024/06/05/rooke-judith-butler-lgbt-pedophilia](https://dailycaller.com/2024/06/05/rooke-judith-butler-lgbt-pedophilia)
+ - date_published: 2024-06-26T07:55:47+00:00
 
