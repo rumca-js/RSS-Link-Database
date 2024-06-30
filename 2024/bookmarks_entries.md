@@ -914,3 +914,8 @@
  - [https://dailycaller.com/2024/06/05/rooke-judith-butler-lgbt-pedophilia](https://dailycaller.com/2024/06/05/rooke-judith-butler-lgbt-pedophilia)
  - date_published: 2024-06-26T07:55:47+00:00
 
+ ## Panama Papers: Court acquits all 28 charged with money laundering
+ - [https://www.bbc.com/news/articles/cjer3llen42o](https://www.bbc.com/news/articles/cjer3llen42o)
+ - date_published: 2024-06-29T11:44:04+00:00
+ - tags: ['panama papers']
+
