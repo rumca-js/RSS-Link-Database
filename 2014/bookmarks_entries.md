@@ -13,6 +13,11 @@
  - date_published: 2014-01-22T07:45:37+00:00
  - tags: ['lgbt', 'the left wing']
 
+ ## Facebook Fraud
+ - [https://www.youtube.com/watch?v=oVfHeWTKjag](https://www.youtube.com/watch?v=oVfHeWTKjag)
+ - date_published: 2014-02-10T00:00:00+00:00
+ - tags: ['facebook', 'ad business']
+
  ## Nigeria’s Boko Haram targets Christian town and fishing village in latest attacks
  - [http://edition.cnn.com/2014/02/16/world/africa/nigeria-boko-haram-attacks/index.html?eref=edition](http://edition.cnn.com/2014/02/16/world/africa/nigeria-boko-haram-attacks/index.html?eref=edition)
  - date_published: 2014-02-17T09:23:02+00:00

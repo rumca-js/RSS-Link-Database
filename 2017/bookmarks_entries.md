@@ -183,6 +183,10 @@
  - date_published: 2017-05-19T08:21:51+00:00
  - tags: ['instagram', 'psychology', 'social media']
 
+ ## Daring Fireball: Fuck Facebook
+ - [https://daringfireball.net/2017/06/fuck_facebook](https://daringfireball.net/2017/06/fuck_facebook)
+ - date_published: 2017-06-01T00:00:00+00:00
+
  ## Bilderberg: the world’s most secretive conference is as out of touch as ever | Bilderberg | The Guardian
  - [https://www.theguardian.com/world/2017/jun/02/bilderberg-secretive-conference-eric-schmidt](https://www.theguardian.com/world/2017/jun/02/bilderberg-secretive-conference-eric-schmidt)
  - date_published: 2017-06-02T06:55:43+00:00
@@ -427,6 +431,11 @@
  - [https://www.youtube.com/watch?v=4jef2C4T1_A](https://www.youtube.com/watch?v=4jef2C4T1_A)
  - date_published: 2017-10-04T00:00:00+00:00
  - tags: ['jordan peterson', 'lgbt', 'the left wing', 'homosexuality']
+
+ ## Apple Allows Uber to Use a Powerful Feature that Lets it Record iPhone Screen
+ - [https://thehackernews.com/2017/10/uber-screen-record-iphone.html](https://thehackernews.com/2017/10/uber-screen-record-iphone.html)
+ - date_published: 2017-10-06T11:41:00+00:00
+ - tags: ['ad business', 'corporatocracy', 'apple', 'privacy', 'dark design', 'uber']
 
  ## What Facebook Did to American Democracy
  - [https://www.theatlantic.com/technology/archive/2017/10/what-facebook-did/542502](https://www.theatlantic.com/technology/archive/2017/10/what-facebook-did/542502)

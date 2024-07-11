@@ -1421,6 +1421,11 @@
  - date_published: 2020-11-17T12:04:49+00:00
  - tags: ['google', 'privacy', 'tracking']
 
+ ## YouTube Will Now Show Ads On All Videos Even If Creators Don’t Want Them
+ - [https://www.forbes.com/sites/johnkoetsier/2020/11/18/youtube-will-now-show-ads-on-all-videos-even-if-creators-dont-want-them](https://www.forbes.com/sites/johnkoetsier/2020/11/18/youtube-will-now-show-ads-on-all-videos-even-if-creators-dont-want-them)
+ - date_published: 2020-11-18T00:00:00+00:00
+ - tags: ['ad business', 'youtube']
+
  ## Why Smart Cities Threaten Citizens’ Right to Privacy
  - [https://www.urbanet.info/why-smart-city-data-treatens-citizens-right-to-privacy](https://www.urbanet.info/why-smart-city-data-treatens-citizens-right-to-privacy)
  - date_published: 2020-11-18T12:04:50+00:00

@@ -178,10 +178,20 @@
  - date_published: 2018-03-23T00:00:00+00:00
  - tags: ['internet', 'maciej cegłowski', 'bloatware']
 
+ ## Facebook scraped call, text message data for years from Android phones [Updated]
+ - [https://arstechnica.com/information-technology/2018/03/facebook-scraped-call-text-message-data-for-years-from-android-phones](https://arstechnica.com/information-technology/2018/03/facebook-scraped-call-text-message-data-for-years-from-android-phones)
+ - date_published: 2018-03-24T22:20:56+00:00
+ - tags: ['facebook', 'surveillance', 'corporatocracy', 'privacy']
+
  ## It's not just Facebook. Thousands of companies are spying on you (opinion) | CNN
  - [https://edition.cnn.com/2018/03/26/opinions/data-company-spying-opinion-schneier/index.html](https://edition.cnn.com/2018/03/26/opinions/data-company-spying-opinion-schneier/index.html)
  - date_published: 2018-03-26T07:33:03+00:00
  - tags: ['facebook', 'privacy', 'surveillance', 'corporatocracy']
+
+ ## Ever Record a Video on Facebook? Facebook Still Has It.
+ - [https://nymag.com/intelligencer/2018/03/facebook-secretly-saved-videos-users-deleted.html](https://nymag.com/intelligencer/2018/03/facebook-secretly-saved-videos-users-deleted.html)
+ - date_published: 2018-03-28T20:11:51+00:00
+ - tags: ['facebook', 'surveillance', 'corporatocracy', 'privacy']
 
  ## Are you ready? This is all the data Facebook and Google have on you | Dylan Curran
  - [https://www.theguardian.com/commentisfree/2018/mar/28/all-the-data-facebook-google-has-on-you-privacy](https://www.theguardian.com/commentisfree/2018/mar/28/all-the-data-facebook-google-has-on-you-privacy)
@@ -393,6 +403,11 @@
  - date_published: 2018-05-28T18:16:50+00:00
  - tags: ['new zealand', 'espionage', 'china', 'five eyes']
 
+ ## Facebook Gave Device Makers Deep Access to Data on Users and Friends (Published 2018)
+ - [https://www.nytimes.com/interactive/2018/06/03/technology/facebook-device-partners-users-friends-data.html](https://www.nytimes.com/interactive/2018/06/03/technology/facebook-device-partners-users-friends-data.html)
+ - date_published: 2018-06-04T01:38:40+00:00
+ - tags: ['facebook', 'surveillance', 'dark design', 'corporatocracy', 'privacy']
+
  ## Facebook confirms data-sharing agreements with Chinese firms
  - [https://www.bbc.com/news/business-44379593](https://www.bbc.com/news/business-44379593)
  - date_published: 2018-06-06T12:04:50+00:00
@@ -584,6 +599,11 @@
  - [https://www.fluentcpp.com/2018/09/21/remove-elements-associative-container-cpp](https://www.fluentcpp.com/2018/09/21/remove-elements-associative-container-cpp)
  - date_published: 2018-09-21T13:29:42+00:00
  - tags: ['programming', 'c++']
+
+ ## Facebook Is Giving Advertisers Access to Your Shadow Contact Information
+ - [https://gizmodo.com/facebook-is-giving-advertisers-access-to-your-shadow-co-1828476051](https://gizmodo.com/facebook-is-giving-advertisers-access-to-your-shadow-co-1828476051)
+ - date_published: 2018-09-26T19:30:00+00:00
+ - tags: ['surveillance', 'ad business', 'corporatocracy', 'privacy', 'facebook']
 
  ## Alan Keyes: Best argument against gay marriage
  - [https://www.youtube.com/watch?v=dn6x_9CLTB4](https://www.youtube.com/watch?v=dn6x_9CLTB4)

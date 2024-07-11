@@ -3081,6 +3081,11 @@
  - [https://danluu.com/look-stupid](https://danluu.com/look-stupid)
  - date_published: 2021-10-22T09:55:36+00:00
 
+ ## Google 'colluded' with Facebook to bypass Apple privacy
+ - [https://www.theregister.com/2021/10/22/google_facebook_antitrust_complaint](https://www.theregister.com/2021/10/22/google_facebook_antitrust_complaint)
+ - date_published: 2021-10-22T11:13:31+00:00
+ - tags: ['facebook', 'corporatocracy', 'apple', 'google', 'dark design', 'jedi blue']
+
  ## CNN lied about Joe Rogan and ivermectin. It regrets nothing
  - [https://www.washingtonexaminer.com/opinion/cnn-lied-about-joe-rogan-and-ivermectin-it-regrets-nothing](https://www.washingtonexaminer.com/opinion/cnn-lied-about-joe-rogan-and-ivermectin-it-regrets-nothing)
  - date_published: 2021-10-22T11:32:51+00:00

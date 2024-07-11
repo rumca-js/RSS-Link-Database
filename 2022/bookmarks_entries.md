@@ -366,6 +366,11 @@
  - [https://conorcorp.github.io/posts/make-debuggin-suck-less](https://conorcorp.github.io/posts/make-debuggin-suck-less)
  - date_published: 2022-01-18T17:07:59.170151+00:00
 
+ ## Jedi Blue - Wikipedia
+ - [https://en.wikipedia.org/wiki/Jedi_Blue](https://en.wikipedia.org/wiki/Jedi_Blue)
+ - date_published: 2022-01-19T00:00:00+00:00
+ - tags: ['facebook', 'meta', 'google', 'dark design']
+
  ## Facebook versus the BMJ: when fact checking goes wrong
  - [https://www.bmj.com/content/376/bmj.o95](https://www.bmj.com/content/376/bmj.o95)
  - date_published: 2022-01-19T12:53:33+00:00

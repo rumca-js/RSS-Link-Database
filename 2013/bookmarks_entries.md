@@ -238,6 +238,11 @@
  - date_published: 2013-10-13T11:09:05+00:00
  - tags: ['green', 'germany']
 
+ ## NSA infiltrates links to Yahoo, Google data centers worldwide, Snowden documents say
+ - [https://www.washingtonpost.com/world/national-security/nsa-infiltrates-links-to-yahoo-google-data-centers-worldwide-snowden-documents-say/2013/10/30/e51d661e-4166-11e3-8b74-d89d714ca4dd_story.html?Post+generic=%3Ftid%3Dsm_twitter_washingtonpost](https://www.washingtonpost.com/world/national-security/nsa-infiltrates-links-to-yahoo-google-data-centers-worldwide-snowden-documents-say/2013/10/30/e51d661e-4166-11e3-8b74-d89d714ca4dd_story.html?Post+generic=%3Ftid%3Dsm_twitter_washingtonpost)
+ - date_published: 2013-10-30T16:19:00+00:00
+ - tags: ['yahoo', 'cloud storage', 'nsa', 'google', 'edward snowden']
+
  ## Johnson & Johnson to Pay More Than $2.2 Billion to Resolve Criminal and Civil Investigations | OPA | Department of Justice
  - [https://www.justice.gov/opa/pr/johnson-johnson-pay-more-22-billion-resolve-criminal-and-civil-investigations](https://www.justice.gov/opa/pr/johnson-johnson-pay-more-22-billion-resolve-criminal-and-civil-investigations)
  - date_published: 2013-11-04T20:05:26+00:00

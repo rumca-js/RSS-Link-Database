@@ -890,6 +890,16 @@
  - date_published: 2024-06-17T15:04:52+00:00
  - tags: ['nashville', 'christianophobia']
 
+ ## FedEx’s Secretive Police Force Is Helping Cops Build An AI Car Surveillance Network
+ - [https://www.forbes.com/sites/thomasbrewster/2024/06/19/fedex-police-help-cops-build-an-ai-car-surveillance-network](https://www.forbes.com/sites/thomasbrewster/2024/06/19/fedex-police-help-cops-build-an-ai-car-surveillance-network)
+ - date_published: 2024-06-19T10:30:29+00:00
+ - tags: ['surveillance', 'privacy']
+
+ ## Google disrupted YouTube video playback on Firefox, again - gHacks Tech News
+ - [https://www.ghacks.net/2024/06/19/google-disrupted-youtube-video-playback-on-firefox-again](https://www.ghacks.net/2024/06/19/google-disrupted-youtube-video-playback-on-firefox-again)
+ - date_published: 2024-06-19T10:53:34+00:00
+ - tags: ['google', 'dark design', 'firefox', 'youtube']
+
  ## Wegen „Hasskommentaren“ gegen Vergewaltiger: Junge Frau muss in Haft - Täter bleibt auf freiem Fuß - Apollo News
  - [https://apollo-news.net/wegen-hasskommentaren-gegen-vergewaltiger-junge-frau-muss-in-haft](https://apollo-news.net/wegen-hasskommentaren-gegen-vergewaltiger-junge-frau-muss-in-haft)
  - date_published: 2024-06-20T09:05:20+00:00
@@ -918,4 +928,34 @@
  - [https://www.bbc.com/news/articles/cjer3llen42o](https://www.bbc.com/news/articles/cjer3llen42o)
  - date_published: 2024-06-29T11:44:04+00:00
  - tags: ['panama papers']
+
+ ## Live Service is Even Worse Than We Thought
+ - [https://www.youtube.com/watch?v=Q-s_dMjOO4U](https://www.youtube.com/watch?v=Q-s_dMjOO4U)
+ - date_published: 2024-07-04T16:33:35+00:00
+ - tags: ['dark design']
+
+ ## The internet is already over (2022)
+ - [https://samkriss.substack.com/p/the-internet-is-already-over](https://samkriss.substack.com/p/the-internet-is-already-over)
+ - date_published: 2024-07-07T19:17:56+00:00
+ - tags: ['dead internet', 'internet']
+
+ ## Próbowałem porozmawiać z facebookiem. Nie da się. Oni po prostu unikają kontaktu
+ - [https://www.youtube.com/watch?v=Wa2Bi31pyR8](https://www.youtube.com/watch?v=Wa2Bi31pyR8)
+ - date_published: 2024-07-08T00:00:00+00:00
+ - tags: ['facebook', 'corporatocracy']
+
+ ## Gaza toll could exceed 186,000, Lancet study says
+ - [https://www.aljazeera.com/news/2024/7/8/gaza-toll-could-exceed-186000-lancet-study-says](https://www.aljazeera.com/news/2024/7/8/gaza-toll-could-exceed-186000-lancet-study-says)
+ - date_published: 2024-07-09T12:34:01+00:00
+ - tags: ['palestine', 'gaza', 'israel']
+
+ ## Airbnb's Hidden Camera Problem
+ - [https://www.cnn.com/2024/07/09/business/airbnb-hidden-camera-invs/index.html](https://www.cnn.com/2024/07/09/business/airbnb-hidden-camera-invs/index.html)
+ - date_published: 2024-07-09T12:58:30+00:00
+ - tags: ['surveillance', 'airbnb', 'privacy']
+
+ ## Tesla reportedly optimizes its self-driving software for Elon Musk and EV influencers.
+ - [https://www.theverge.com/2024/7/9/24195060/tesla-reportedly-optimizes-its-self-driving-software-for-musk-and-ev-influencers](https://www.theverge.com/2024/7/9/24195060/tesla-reportedly-optimizes-its-self-driving-software-for-musk-and-ev-influencers)
+ - date_published: 2024-07-09T17:54:04+00:00
+ - tags: ['tesla', 'elon musk', 'elite', 'billionaires', 'inequality']
 
