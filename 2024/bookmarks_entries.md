@@ -959,3 +959,8 @@
  - date_published: 2024-07-09T17:54:04+00:00
  - tags: ['tesla', 'elon musk', 'elite', 'billionaires', 'inequality']
 
+ ## Majority of sites and apps use dark patterns in the marketing of subscriptions
+ - [https://icpen.org/news/1360](https://icpen.org/news/1360)
+ - date_published: 2024-07-11T09:23:32+00:00
+ - tags: ['dark design', 'dark patterns']
+
