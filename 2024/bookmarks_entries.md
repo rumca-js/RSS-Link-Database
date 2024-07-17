@@ -964,3 +964,18 @@
  - date_published: 2024-07-11T09:23:32+00:00
  - tags: ['dark design', 'dark patterns']
 
+ ## Facebook Is the 'Zombie Internet'
+ - [https://www.404media.co/email/24eb6cea-6fa6-4b98-a2d2-8c4ba33d6c04](https://www.404media.co/email/24eb6cea-6fa6-4b98-a2d2-8c4ba33d6c04)
+ - date_published: 2024-07-15T22:17:21+00:00
+ - tags: ['dead internet']
+
+ ## Cloudflare reports almost 7% of internet traffic is malicious
+ - [https://www.zdnet.com/article/cloudflare-reports-almost-7-percent-of-internet-traffic-is-malicious/#ftag=RSSbaffb68](https://www.zdnet.com/article/cloudflare-reports-almost-7-percent-of-internet-traffic-is-malicious/#ftag=RSSbaffb68)
+ - date_published: 2024-07-16T09:16:11+00:00
+ - tags: ['dead internet']
+
+ ## Data brokers sell our location data and jeopardise national security
+ - [https://netzpolitik.org/2024/data-broker-files-how-data-brokers-sell-our-location-data-and-jeopardise-national-security](https://netzpolitik.org/2024/data-broker-files-how-data-brokers-sell-our-location-data-and-jeopardise-national-security)
+ - date_published: 2024-07-16T19:04:56+00:00
+ - tags: ['privacy', 'surveillance', 'cybersecurity', 'ad business']
+
