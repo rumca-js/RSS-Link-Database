@@ -984,11 +984,6 @@
  - date_published: 2021-05-26T20:27:54+00:00
  - tags: ['anthony fauci', 'covid', 'wuhan']
 
- ## Black Lives Matter co-founder Patrisse Cullors resigns amid controversy
- - [https://nypost.com/2021/05/27/black-lives-matter-co-founder-patrisse-cullors-resigns-amid-controversy](https://nypost.com/2021/05/27/black-lives-matter-co-founder-patrisse-cullors-resigns-amid-controversy)
- - date_published: 2021-05-27T19:16:44+00:00
- - tags: ['black lives matter', 'hypocrisy']
-
  ## NGOs file complaints against Clearview AI in five countries | Computer Weekly
  - [https://www.computerweekly.com/news/252501435/NGOs-file-complaints-against-Clearview-AI-in-five-countries](https://www.computerweekly.com/news/252501435/NGOs-file-complaints-against-Clearview-AI-in-five-countries)
  - date_published: 2021-05-27T19:23:24+00:00

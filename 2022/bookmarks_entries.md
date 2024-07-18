@@ -1769,11 +1769,6 @@
  - [https://www.theregister.com/AMP/2022/04/11/atlassian_outage_backups](https://www.theregister.com/AMP/2022/04/11/atlassian_outage_backups)
  - date_published: 2022-04-12T13:42:29.786489+00:00
 
- ## Black Lives Matter leaders condemn allegations of mismanaged funds
- - [https://www.nbcnews.com/news/nbcblk/black-lives-matter-leaders-condemn-allegations-mismanaged-funds-rcna23882](https://www.nbcnews.com/news/nbcblk/black-lives-matter-leaders-condemn-allegations-mismanaged-funds-rcna23882)
- - date_published: 2022-04-12T19:57:31+00:00
- - tags: ['black lives matter', 'hypocrisy']
-
  ## Macron reopens debate on ending anonymity online – EURACTIV.com
  - [https://www.euractiv.com/section/digital/news/macron-still-wants-to-end-online-anonymity](https://www.euractiv.com/section/digital/news/macron-still-wants-to-end-online-anonymity)
  - date_published: 2022-04-13T06:44:27+00:00
@@ -2246,11 +2241,6 @@
  ## Response to the Change.org petition about me
  - [https://blog.mollywhite.net/response-to-the-changeorg-petition-about-me](https://blog.mollywhite.net/response-to-the-changeorg-petition-about-me)
  - date_published: 2022-05-17T11:36:59.647002+00:00
-
- ## Black Lives Matter spent at least $12 million on mansions
- - [https://nypost.com/2022/05/17/black-lives-matter-spent-at-least-12-million-on-mansions](https://nypost.com/2022/05/17/black-lives-matter-spent-at-least-12-million-on-mansions)
- - date_published: 2022-05-17T19:55:33+00:00
- - tags: ['black lives matter', 'hypocrisy']
 
  ## ESG scores similar to China's social credit system, designed to transform society, think tank director says | Fox Business
  - [https://www.foxbusiness.com/economy/esg-scores-similar-china-social-credit-system-designed-to-transform-society-think-tank-director-says](https://www.foxbusiness.com/economy/esg-scores-similar-china-social-credit-system-designed-to-transform-society-think-tank-director-says)
@@ -3356,11 +3346,6 @@
  - date_published: 2022-08-05T12:37:08+00:00
  - tags: ['technofeudalism', 'privacy', 'corporatocracy', 'amazon', 'irobot']
 
- ## Black Lives Matter executive accused of ‘syphoning’ $10M from BLM donors, suit says
- - [https://edition.cnn.com/2022/09/04/us/black-lives-matter-executive-lawsuit/index.html](https://edition.cnn.com/2022/09/04/us/black-lives-matter-executive-lawsuit/index.html)
- - date_published: 2022-08-05T13:49:47+00:00
- - tags: ['hypocrisy', 'black lives matter', 'blm']
-
  ## Nix – taming Unix with functional programming - Tweag
  - [https://www.tweag.io/blog/2022-07-14-taming-unix-with-nix/#fnref-2](https://www.tweag.io/blog/2022-07-14-taming-unix-with-nix/#fnref-2)
  - date_published: 2022-08-05T22:39:09.178430+00:00
@@ -4024,11 +4009,6 @@
  - [https://www.wykop.pl/link/6802813/sondaz-36-niemcow-uwaza-ze-izrael-traktuje-palestynczykow-jak-nazisci-zydow](https://www.wykop.pl/link/6802813/sondaz-36-niemcow-uwaza-ze-izrael-traktuje-palestynczykow-jak-nazisci-zydow)
  - date_published: 2022-09-03T20:21:01+00:00
  - tags: ['palestine', 'israel']
-
- ## Black Lives Matter leader is accused of pilfering $10M from the organization
- - [https://www.dailymail.co.uk/news/article-11176931/Black-Lives-Matter-leader-accused-pilfering-10M-organization.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11176931/Black-Lives-Matter-leader-accused-pilfering-10M-organization.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - date_published: 2022-09-03T21:28:31+00:00
- - tags: ['hypocrisy', 'black lives matter', 'blm']
 
  ## Carlos Fenollosa - Blog
  - [https://cfenollosa.com/blog/after-self-hosting-my-email-for-twenty-three-years-i-have-thrown-in-the-towel-the-oligopoly-has-won.html](https://cfenollosa.com/blog/after-self-hosting-my-email-for-twenty-three-years-i-have-thrown-in-the-towel-the-oligopoly-has-won.html)
