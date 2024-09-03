@@ -8539,6 +8539,11 @@
  - date_published: 2023-12-14T19:52:49+00:00
  - tags: ['covid']
 
+ ## Marketing Company Claims That It Actually Is Listening to Your Phone and Smart Speakers to Target Ads
+ - [https://www.404media.co/cmg-cox-media-actually-listening-to-phones-smartspeakers-for-ads-marketing](https://www.404media.co/cmg-cox-media-actually-listening-to-phones-smartspeakers-for-ads-marketing)
+ - date_published: 2023-12-14T23:19:17+00:00
+ - tags: ['privacy', 'surveillance', 'cox media group', 'ad business']
+
  ## Ad Company Claims 'It’s True. Your Devices Are Listening to You'
  - [https://gizmodo.com/cmg-local-solutions-ads-listening-on-devices-1851102426](https://gizmodo.com/cmg-local-solutions-ads-listening-on-devices-1851102426)
  - date_published: 2023-12-15T15:35:00+00:00

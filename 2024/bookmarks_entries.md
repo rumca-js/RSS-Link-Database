@@ -979,3 +979,77 @@
  - date_published: 2024-07-16T19:04:56+00:00
  - tags: ['privacy', 'surveillance', 'cybersecurity', 'ad business']
 
+ ## 74935 viewing Mass worldwide IT outage affects airlines, media and banks
+ - [https://www.bbc.co.uk/news/live/cnk4jdwp49et](https://www.bbc.co.uk/news/live/cnk4jdwp49et)
+ - date_published: 2024-07-19T07:07:46+00:00
+ - tags: ['technofeudalism']
+
+ ## Microsoft outage: Chaos as internet down and flights grounded around the world
+ - [https://www.telegraph.co.uk/business/2024/07/19/outage-tech-internet-broadband-banking-uk-australia-world](https://www.telegraph.co.uk/business/2024/07/19/outage-tech-internet-broadband-banking-uk-australia-world)
+ - date_published: 2024-07-19T07:15:51+00:00
+ - tags: ['technofeudalism']
+
+ ## Paris Olympic opening ceremony criticized for disrespecting religious beliefs
+ - [https://www.aa.com.tr/en/sports/paris-olympic-opening-ceremony-criticized-for-disrespecting-religious-beliefs/3287897](https://www.aa.com.tr/en/sports/paris-olympic-opening-ceremony-criticized-for-disrespecting-religious-beliefs/3287897)
+ - date_published: 2024-07-29T15:46:04+00:00
+ - tags: ['lgbt', 'tolerance']
+
+ ## Starmer announces new plan for police forces to tackle violent disorder
+ - [https://www.bbc.com/news/articles/cnk4e5g70pko](https://www.bbc.com/news/articles/cnk4e5g70pko)
+ - date_published: 2024-08-01T00:00:00+00:00
+ - tags: ['immigration']
+
+ ## Atlanta Police Monitoring of 'Cop City' Opponents' Political Activity
+ - [https://www.brennancenter.org/our-work/analysis-opinion/internal-atlanta-police-records-reveal-monitoring-cop-city-opponents](https://www.brennancenter.org/our-work/analysis-opinion/internal-atlanta-police-records-reveal-monitoring-cop-city-opponents)
+ - date_published: 2024-08-07T23:08:12+00:00
+ - tags: ['technofeudalism', 'privacy', 'surveillance']
+
+ ## Two men jailed for social media posts that stirred up far-right violence
+ - [https://www.theguardian.com/politics/article/2024/aug/09/two-men-jailed-for-social-media-posts-that-stirred-up-far-right-violence](https://www.theguardian.com/politics/article/2024/aug/09/two-men-jailed-for-social-media-posts-that-stirred-up-far-right-violence)
+ - date_published: 2024-08-09T17:35:28+00:00
+ - tags: ['hate speech', 'immigration']
+
+ ## Democrats using Google search ads to falsify news headlines extends past Harris campaign
+ - [https://gazette.com/news/wex/democrats-using-google-search-ads-to-falsify-news-headlines-extends-past-harris-campaign/article_b7225077-e224-5387-9773-72e3acca68c9.html](https://gazette.com/news/wex/democrats-using-google-search-ads-to-falsify-news-headlines-extends-past-harris-campaign/article_b7225077-e224-5387-9773-72e3acca68c9.html)
+ - date_published: 2024-08-15T10:00:00+00:00
+ - tags: ['elections', 'ad business', 'misinformation', 'google', 'disinformation']
+
+ ## In Britain, Two-Tier Policing and a Two-Tier Judiciary | National Review
+ - [https://www.nationalreview.com/2024/08/in-britain-two-tier-policing-and-a-two-tier-judiciary](https://www.nationalreview.com/2024/08/in-britain-two-tier-policing-and-a-two-tier-judiciary)
+ - date_published: 2024-08-18T14:16:31+00:00
+ - tags: ['immigration', 'england', 'inequality']
+
+ ## As rioters fill overcrowded prisons, UK turns to police cells
+ - [https://www.reuters.com/world/uk/rioters-fill-overcrowded-prisons-uk-turns-police-cells-2024-08-19](https://www.reuters.com/world/uk/rioters-fill-overcrowded-prisons-uk-turns-police-cells-2024-08-19)
+ - date_published: 2024-08-19T07:34:22+00:00
+ - tags: ['immigration', 'inequality']
+
+ ## That news article on Google? Its headline may have been written by a political campaign
+ - [https://eu.usatoday.com/story/money/2024/08/13/kamala-harris-article-google-ads/74789965007](https://eu.usatoday.com/story/money/2024/08/13/kamala-harris-article-google-ads/74789965007)
+ - date_published: 2024-08-20T09:15:50+00:00
+ - tags: ['elections', 'ad business', 'misinformation', 'google', 'disinformation']
+
+ ## What is a woman? Australian court rules in landmark case
+ - [https://www.bbc.com/news/articles/c07ev1v7r4po](https://www.bbc.com/news/articles/c07ev1v7r4po)
+ - date_published: 2024-08-23T01:19:39+00:00
+ - tags: ['transgender']
+
+ ## Rumble boss says he 'departed' from Europe after Telegram CEO arrest
+ - [https://www.tradingview.com/news/cointelegraph:171106c1e094b:0-rumble-boss-says-he-departed-from-europe-after-telegram-ceo-arrest](https://www.tradingview.com/news/cointelegraph:171106c1e094b:0-rumble-boss-says-he-departed-from-europe-after-telegram-ceo-arrest)
+ - date_published: 2024-08-26T00:00:00+00:00
+ - tags: ['misinformation', 'telegram', 'rumble', 'disinformation']
+
+ ## LGBT advocacy group opposes Kids Online Safety Act
+ - [https://spectrumlocalnews.com/nys/buffalo/politics/2024/08/19/lgbt-advocacy-group-opposes-kids-online-safety-act](https://spectrumlocalnews.com/nys/buffalo/politics/2024/08/19/lgbt-advocacy-group-opposes-kids-online-safety-act)
+ - date_published: 2024-08-26T06:27:00+00:00
+ - tags: ['kids online safety act', 'lgbt']
+
+ ## Here’s the Pitch Deck for ‘Active Listening’ Ad Targeting
+ - [https://www.404media.co/heres-the-pitch-deck-for-active-listening-ad-targeting](https://www.404media.co/heres-the-pitch-deck-for-active-listening-ad-targeting)
+ - date_published: 2024-08-26T12:51:36+00:00
+ - tags: ['privacy', 'surveillance', 'cox media group', 'ad business']
+
+ ## Teachers will be trained to challenge ‘whiteness’ in schools
+ - [https://www.telegraph.co.uk/news/2024/08/25/teachers-taught-to-challenge-whiteness-in-schools](https://www.telegraph.co.uk/news/2024/08/25/teachers-taught-to-challenge-whiteness-in-schools)
+ - date_published: 2024-08-27T21:13:15+00:00
+
