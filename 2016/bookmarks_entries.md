@@ -123,6 +123,11 @@
  - date_published: 2016-04-28T11:52:16+00:00
  - tags: ['the left wing', 'go woke go broke']
 
+ ## W tej sprawie rząd i opozycja mówią jednym głosem. Czy dyrektywa BRRD pozwoli bankom zabierać oszczędności klientów?
+ - [https://www.money.pl/banki/wiadomosci/artykul/dyrektywa-brdd-depozyty-w-bankach,164,0,2041764.html](https://www.money.pl/banki/wiadomosci/artykul/dyrektywa-brdd-depozyty-w-bankach,164,0,2041764.html)
+ - date_published: 2016-05-02T08:40:40+00:00
+ - tags: ['brrd', 'savings', 'banksters', 'manufacturing consent']
+
  ## Flight logs show Bill Clinton flew on sex offender's jet much more than previously known | Fox News
  - [https://www.foxnews.com/us/flight-logs-show-bill-clinton-flew-on-sex-offenders-jet-much-more-than-previously-known](https://www.foxnews.com/us/flight-logs-show-bill-clinton-flew-on-sex-offenders-jet-much-more-than-previously-known)
  - date_published: 2016-05-13T21:34:34+00:00

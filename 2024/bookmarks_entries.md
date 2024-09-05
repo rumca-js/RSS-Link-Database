@@ -1014,6 +1014,11 @@
  - date_published: 2024-08-15T10:00:00+00:00
  - tags: ['elections', 'ad business', 'misinformation', 'google', 'disinformation']
 
+ ## UK LGBTQ Pride founder Stephen Ireland arrested for child sex crimes | The Express Tribune
+ - [https://tribune.com.pk/story/2488602/uk-lgbtq-pride-founder-stephen-ireland-arrested-for-child-sex-crimes](https://tribune.com.pk/story/2488602/uk-lgbtq-pride-founder-stephen-ireland-arrested-for-child-sex-crimes)
+ - date_published: 2024-08-16T15:52:18+00:00
+ - tags: ['paedophilia', 'lgbt']
+
  ## In Britain, Two-Tier Policing and a Two-Tier Judiciary | National Review
  - [https://www.nationalreview.com/2024/08/in-britain-two-tier-policing-and-a-two-tier-judiciary](https://www.nationalreview.com/2024/08/in-britain-two-tier-policing-and-a-two-tier-judiciary)
  - date_published: 2024-08-18T14:16:31+00:00
@@ -1052,4 +1057,9 @@
  ## Teachers will be trained to challenge ‘whiteness’ in schools
  - [https://www.telegraph.co.uk/news/2024/08/25/teachers-taught-to-challenge-whiteness-in-schools](https://www.telegraph.co.uk/news/2024/08/25/teachers-taught-to-challenge-whiteness-in-schools)
  - date_published: 2024-08-27T21:13:15+00:00
+
+ ## Did your car witness a crime?
+ - [https://www.sfchronicle.com/crime/article/tesla-sentry-mode-police-evidence-19731000.php](https://www.sfchronicle.com/crime/article/tesla-sentry-mode-police-evidence-19731000.php)
+ - date_published: 2024-08-31T16:21:27+00:00
+ - tags: ['surveillance', 'technofeudalism']
 

@@ -3,6 +3,11 @@
  - date_published: 1975-01-13T16:04:49+00:00
  - tags: ['satanism', 'occult']
 
+ ## How did the pro-paedophile group PIE exist openly for 10 years?
+ - [https://www.bbc.com/news/magazine-26352378](https://www.bbc.com/news/magazine-26352378)
+ - date_published: 1975-04-26T00:00:00+00:00
+ - tags: ['paedophilia']
+
  ## The Crisis of Democracy - Wikipedia
  - [https://en.wikipedia.org/wiki/The_Crisis_of_Democracy](https://en.wikipedia.org/wiki/The_Crisis_of_Democracy)
  - date_published: 1975-09-07T06:53:50+00:00

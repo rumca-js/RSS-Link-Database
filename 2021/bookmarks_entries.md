@@ -767,6 +767,11 @@
  - [https://lukesmith.xyz/articles/monero-and-other-privacy-coins](https://lukesmith.xyz/articles/monero-and-other-privacy-coins)
  - date_published: 2021-05-04T00:00:00+00:00
 
+ ## Why France is losing one religious building every two weeks
+ - [https://www.catholicnewsagency.com/news/247514/why-france-is-losing-one-religious-building-every-two-weeks](https://www.catholicnewsagency.com/news/247514/why-france-is-losing-one-religious-building-every-two-weeks)
+ - date_published: 2021-05-04T15:37:43+00:00
+ - tags: ['france', 'religion', 'intolerance']
+
  ## Conspiratorial Thinking and "Multiple Outs"
  - [https://lukesmith.xyz/articles/conspiratorial-thinking-and-multiple-outs](https://lukesmith.xyz/articles/conspiratorial-thinking-and-multiple-outs)
  - date_published: 2021-05-05T00:00:00+00:00
