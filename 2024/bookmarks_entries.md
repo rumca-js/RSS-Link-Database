@@ -1063,3 +1063,8 @@
  - date_published: 2024-08-31T16:21:27+00:00
  - tags: ['surveillance', 'technofeudalism']
 
+ ## Meta’s AI is scraping users’ photos and posts. Europeans can opt out, but Australians cannot
+ - [https://www.theguardian.com/technology/article/2024/sep/11/meta-ai-post-scraping-security-opt-out-privacy-laws](https://www.theguardian.com/technology/article/2024/sep/11/meta-ai-post-scraping-security-opt-out-privacy-laws)
+ - date_published: 2024-09-11T01:34:56+00:00
+ - tags: ['artificial intelligence', 'ad business', 'privacy', 'surveillence']
+
