@@ -745,6 +745,10 @@
  - date_published: 2024-05-02T18:31:37+00:00
  - tags: ['google', 'seo', 'technofeudalism']
 
+ ## NBC News - Breaking News & Top Stories - Latest World, US & Local News
+ - [https://nbcnews.com](https://nbcnews.com)
+ - date_published: 2024-05-05T01:29:51.863813+00:00
+
  ## Despite international hires, TikTok is Chinese at its core
  - [https://restofworld.org/2024/tiktok-chinese-us-ban](https://restofworld.org/2024/tiktok-chinese-us-ban)
  - date_published: 2024-05-07T10:00:00+00:00
@@ -1063,8 +1067,42 @@
  - date_published: 2024-08-31T16:21:27+00:00
  - tags: ['surveillance', 'technofeudalism']
 
+ ## US calls on Big Tech to help evade online censors in Russia, Iran
+ - [https://www.reuters.com/technology/us-calls-big-tech-help-evade-online-censors-russia-iran-2024-09-05](https://www.reuters.com/technology/us-calls-big-tech-help-evade-online-censors-russia-iran-2024-09-05)
+ - date_published: 2024-09-05T00:00:00+00:00
+ - tags: ['surveillance', 'privacy', 'censorship']
+
+ ## Ford seeks patent for tech that listens to driver conversations to serve ads
+ - [https://therecord.media/ford-patent-application-in-vehicle-listening-advertising](https://therecord.media/ford-patent-application-in-vehicle-listening-advertising)
+ - date_published: 2024-09-10T15:17:06+00:00
+ - tags: ['surveillance', 'cars', 'technofeudalism', 'privacy']
+
  ## Meta’s AI is scraping users’ photos and posts. Europeans can opt out, but Australians cannot
  - [https://www.theguardian.com/technology/article/2024/sep/11/meta-ai-post-scraping-security-opt-out-privacy-laws](https://www.theguardian.com/technology/article/2024/sep/11/meta-ai-post-scraping-security-opt-out-privacy-laws)
  - date_published: 2024-09-11T01:34:56+00:00
  - tags: ['artificial intelligence', 'ad business', 'privacy', 'surveillence']
+
+ ## I Was Born in a Cave in 1896
+ - [https://www.youtube.com/watch?v=u0dxIOygGGQ](https://www.youtube.com/watch?v=u0dxIOygGGQ)
+ - date_published: 2024-09-14T15:00:53+00:00
+
+ ## Data center emissions likely 662% higher than big tech claims. Can it keep up the ruse?
+ - [https://www.theguardian.com/technology/2024/sep/15/data-center-gas-emissions-tech](https://www.theguardian.com/technology/2024/sep/15/data-center-gas-emissions-tech)
+ - date_published: 2024-09-15T15:00:02+00:00
+ - tags: ['global warming', 'climate change']
+
+ ## Omnipresent AI cameras will ensure good behavior, says Larry Ellison
+ - [https://arstechnica.com/?p=2049906](https://arstechnica.com/?p=2049906)
+ - date_published: 2024-09-16T15:22:29+00:00
+ - tags: ['surveillance', 'privacy']
+
+ ## Hundreds of Pagers Exploded in Lebanon and Syria in a Deadly Attack. Here’s What We Know.
+ - [https://www.securityweek.com/hundreds-of-pagers-exploded-in-lebanon-and-syria-in-a-deadly-attack-heres-what-we-know](https://www.securityweek.com/hundreds-of-pagers-exploded-in-lebanon-and-syria-in-a-deadly-attack-heres-what-we-know)
+ - date_published: 2024-09-17T20:42:05+00:00
+ - tags: ['israel']
+
+ ## Social media and online video firms are conducting ‘vast surveillance’ on users, FTC finds
+ - [https://www.theguardian.com/technology/2024/sep/19/social-media-companies-surveillance-ftc](https://www.theguardian.com/technology/2024/sep/19/social-media-companies-surveillance-ftc)
+ - date_published: 2024-09-19T20:17:13+00:00
+ - tags: ['privacy', 'technofeudalism', 'surveillance']
 
