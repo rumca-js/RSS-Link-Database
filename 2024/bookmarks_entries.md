@@ -680,6 +680,10 @@
  - date_published: 2024-04-03T15:18:07+00:00
  - tags: ['google', 'seo', 'technofeudalism']
 
+ ## NPR - Breaking News, Analysis, Music, Arts & Podcasts
+ - [https://npr.org](https://npr.org)
+ - date_published: 2024-04-07T00:00:00+00:00
+
  ## 96% of US hospital websites share visitor info with Meta, Google, data brokers
  - [https://www.theregister.com/2024/04/11/hospital_website_data_sharing](https://www.theregister.com/2024/04/11/hospital_website_data_sharing)
  - date_published: 2024-04-12T13:24:11+00:00
@@ -1017,6 +1021,10 @@
  - [https://gazette.com/news/wex/democrats-using-google-search-ads-to-falsify-news-headlines-extends-past-harris-campaign/article_b7225077-e224-5387-9773-72e3acca68c9.html](https://gazette.com/news/wex/democrats-using-google-search-ads-to-falsify-news-headlines-extends-past-harris-campaign/article_b7225077-e224-5387-9773-72e3acca68c9.html)
  - date_published: 2024-08-15T10:00:00+00:00
  - tags: ['elections', 'ad business', 'misinformation', 'google', 'disinformation']
+
+ ## Home
+ - [https://theonion.com](https://theonion.com)
+ - date_published: 2024-08-16T00:00:00+00:00
 
  ## UK LGBTQ Pride founder Stephen Ireland arrested for child sex crimes | The Express Tribune
  - [https://tribune.com.pk/story/2488602/uk-lgbtq-pride-founder-stephen-ireland-arrested-for-child-sex-crimes](https://tribune.com.pk/story/2488602/uk-lgbtq-pride-founder-stephen-ireland-arrested-for-child-sex-crimes)
