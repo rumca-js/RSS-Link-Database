@@ -23,11 +23,6 @@
  - date_published: 2024-01-04T03:36:46+00:00
  - tags: ['elite', 'jeffrey epstein', 'billionaires']
 
- ## Virginia Roberts Giuffre claims she had sex with billionaire Hyatt hotels heir Tom Pritzker - whose cousin is Illinois Democrat Governor JB Pritzker in bombshell new court documents
- - [https://www.dailymail.co.uk/news/article-12924847/Virginia-Roberts-Giuffre-sex-Tom-Pritzker-JB-Pritzker-Epstein.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12924847/Virginia-Roberts-Giuffre-sex-Tom-Pritzker-JB-Pritzker-Epstein.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - date_published: 2024-01-04T05:38:15+00:00
- - tags: ['tom pritzker', 'jeffrey epstein']
-
  ## Billionaire hedge fund manager Glenn Dubin was first person Ghislaine Maxwell told Virginia Roberts Giuffre to have sex with, unsealed Jeffrey Epstein files allege
  - [https://www.dailymail.co.uk/news/article-12925235/Billionaire-hedge-fund-manager-Glenn-Dubin-Ghislaine-Maxwell-Virginia-Giuffre-sex-Jeffrey-Epstein.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12925235/Billionaire-hedge-fund-manager-Glenn-Dubin-Ghislaine-Maxwell-Virginia-Giuffre-sex-Jeffrey-Epstein.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date_published: 2024-01-04T06:57:57+00:00
@@ -52,11 +47,6 @@
  - [https://www.theverge.com/c/23998379/google-search-seo-algorithm-webpage-optimization](https://www.theverge.com/c/23998379/google-search-seo-algorithm-webpage-optimization)
  - date_published: 2024-01-08T13:00:00+00:00
  - tags: ['seo', 'search engines']
-
- ## Alleged EasyJet bomb hoaxer is a teen chess star with a place at Cambridge who said he'd 'blow this plane up' in a Snapchat post, reports say
- - [https://www.businessinsider.com/bomb-hoaxer-easyjet-teenage-chess-star-barred-spain-2022-7?IR=T](https://www.businessinsider.com/bomb-hoaxer-easyjet-teenage-chess-star-barred-spain-2022-7?IR=T)
- - date_published: 2024-01-09T00:00:00+00:00
- - tags: ['privacy', 'surveillance', 'technofeudalism']
 
  ## Introducing r1
  - [https://www.youtube.com/watch?v=22wlLy7hKP4](https://www.youtube.com/watch?v=22wlLy7hKP4)
@@ -92,11 +82,6 @@
  - [https://theintercept.com/2024/01/10/israel-disinformation-social-media-iron-truth](https://theintercept.com/2024/01/10/israel-disinformation-social-media-iron-truth)
  - date_published: 2024-01-10T18:26:07+00:00
  - tags: ['palestine', 'israel', 'manufacturing consent', 'moderation', 'censorship', 'hamas']
-
- ## President of Canadian LGBT organization ousted following arrest for alleged sex crimes against children | Blaze Media
- - [https://www.theblaze.com/news/president-of-canadian-lgbt-organization-ousted-following-arrest-for-alleged-sex-crimes-against-children](https://www.theblaze.com/news/president-of-canadian-lgbt-organization-ousted-following-arrest-for-alleged-sex-crimes-against-children)
- - date_published: 2024-01-10T18:59:09+00:00
- - tags: ['paedophilia', 'lgbt']
 
  ## Is It Ever OK to Use Icons Without Labels in Mobile App Design?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=63840](https://www.codeproject.com/script/News/View.aspx?nwid=63840)
@@ -374,11 +359,6 @@
  - date_published: 2024-01-31T17:30:09+00:00
  - tags: ['satanic temple', 'christioanophobia']
 
- ## Clapham attack suspect Abdul Shakoor Ezedi convicted of sex offence in 2018
- - [https://www.bbc.com/news/uk-68167793](https://www.bbc.com/news/uk-68167793)
- - date_published: 2024-02-01T00:00:00+00:00
- - tags: ['immigration']
-
  ## Protesting farmers hurl eggs and clog streets with tractors as EU summit begins | CNN
  - [https://edition.cnn.com/2024/02/01/europe/farmers-protest-brussels-eu-summit-intl/index.html](https://edition.cnn.com/2024/02/01/europe/farmers-protest-brussels-eu-summit-intl/index.html)
  - date_published: 2024-02-01T11:26:53+00:00
@@ -486,20 +466,10 @@
  - date_published: 2024-02-26T00:00:00+00:00
  - tags: ['world of warcraft']
 
- ## Cat killer sentenced to life for Oxford murder as part of sexual fantasy
- - [https://www.theguardian.com/uk-news/2024/feb/26/cat-killer-sentenced-to-life-for-oxford-as-part-of-sexual-fantasy](https://www.theguardian.com/uk-news/2024/feb/26/cat-killer-sentenced-to-life-for-oxford-as-part-of-sexual-fantasy)
- - date_published: 2024-02-26T16:41:26+00:00
- - tags: ['gender', 'transgender']
-
  ## CCLA Urges Substantial Amendments to the Online Harms Act - CCLA
  - [https://www.google.com/url?q=https://ccla.org/press-release/ccla-urges-substantial-amendments-to-the-online-harms-act/&sa=U&ved=2ahUKEwjX-OzL1N-EAxXhFBAIHVMDC6sQFnoECAMQAg&usg=AOvVaw1fVFEoS_G397B_qdkIz2ep](https://www.google.com/url?q=https://ccla.org/press-release/ccla-urges-substantial-amendments-to-the-online-harms-act/&sa=U&ved=2ahUKEwjX-OzL1N-EAxXhFBAIHVMDC6sQFnoECAMQAg&usg=AOvVaw1fVFEoS_G397B_qdkIz2ep)
  - date_published: 2024-02-28T14:27:29+00:00
  - tags: ['hate speech', 'canada']
-
- ## Microsoft says minorities in the US earn $1.006 for every $1.00 white employees earn, but experts say there's a very big asterisk
- - [https://www.businessinsider.com/microsoft-reports-diversity-progress-but-numbers-not-whole-story-2019-11?IR=T](https://www.businessinsider.com/microsoft-reports-diversity-progress-but-numbers-not-whole-story-2019-11?IR=T)
- - date_published: 2024-02-28T15:10:34+00:00
- - tags: ['racism', 'inequality']
 
  ## Israeli strike hits aid point killing more than 100 in Gaza
  - [https://www.euronews.com/2024/02/29/israel-hamas-war-prevents-aid-delivery-humanitarians-deported-ultra-orthodox-jews-eyed-for](https://www.euronews.com/2024/02/29/israel-hamas-war-prevents-aid-delivery-humanitarians-deported-ultra-orthodox-jews-eyed-for)
@@ -1113,4 +1083,13 @@
  - [https://www.theguardian.com/technology/2024/sep/19/social-media-companies-surveillance-ftc](https://www.theguardian.com/technology/2024/sep/19/social-media-companies-surveillance-ftc)
  - date_published: 2024-09-19T20:17:13+00:00
  - tags: ['privacy', 'technofeudalism', 'surveillance']
+
+ ## US to ban Chinese connected car software and hardware, citing security risks
+ - [https://arstechnica.com/cars/2024/09/us-to-ban-chinese-connected-car-software-and-hardware-citing-security-risks](https://arstechnica.com/cars/2024/09/us-to-ban-chinese-connected-car-software-and-hardware-citing-security-risks)
+ - date_published: 2024-09-23T14:38:38+00:00
+
+ ## Car Companies Are Selling Your Personal Data For Profit
+ - [https://www.youtube.com/watch?v=7Olo7B2ZydI](https://www.youtube.com/watch?v=7Olo7B2ZydI)
+ - date_published: 2024-09-24T18:07:54+00:00
+ - tags: ['cars', 'privacy', 'surveillance']
 

@@ -3,11 +3,6 @@
  - date_published: 2023-01-01T00:00:00+00:00
  - tags: ['world of warcraft']
 
- ## Epstein's sex trafficking was aided by JPMorgan, US Virgin Islands lawsuit says
- - [https://www.npr.org/2022/12/30/1146221454/epstein-jpmorgan-virgin-islands-lawsuit](https://www.npr.org/2022/12/30/1146221454/epstein-jpmorgan-virgin-islands-lawsuit)
- - date_published: 2023-01-01T04:31:31+00:00
- - tags: ['jpmorgan', 'jeffrey epstein']
-
  ## The Twitter Files should disturb liberal critics of Elon Musk – and here’s why | Kenan Malik
  - [https://www.theguardian.com/commentisfree/2023/jan/01/the-twitter-files-should-disturb-liberal-critics-of-elon-musk-and-heres-why](https://www.theguardian.com/commentisfree/2023/jan/01/the-twitter-files-should-disturb-liberal-critics-of-elon-musk-and-heres-why)
  - date_published: 2023-01-01T07:00:40+00:00
@@ -682,6 +677,11 @@
  - [https://archive.org](https://archive.org)
  - date_published: 2023-01-13T14:35:11+00:00
  - tags: ['internet archive', 'internet']
+
+ ## See every stock trade Nancy Pelosi's husband, Paul Pelosi, made while she was House speaker in 2021 and 2022
+ - [https://www.businessinsider.com/nancy-pelosi-stock-trades-congress-investments-2022-7?IR=T](https://www.businessinsider.com/nancy-pelosi-stock-trades-congress-investments-2022-7?IR=T)
+ - date_published: 2023-01-13T16:04:49+00:00
+ - tags: ['elite', 'millionaires', 'billionaires']
 
  ## We could stumble into AI catastrophe
  - [https://www.cold-takes.com/how-we-could-stumble-into-ai-catastrophe](https://www.cold-takes.com/how-we-could-stumble-into-ai-catastrophe)
@@ -3663,11 +3663,6 @@
  - date_published: 2023-04-20T19:38:41+00:00
  - tags: ['artificial intelligence']
 
- ## ANDY NGO REPORTS: Oregon teachers' aide, ‘drag mom’ to child drag queen sentenced to less than 1 year in jail for 11 felony child sex crimes | The Post Millennial | thepostmillennial.com
- - [https://thepostmillennial.com/andy-ngo-reports-oregon-teachers-aide-drag-mom-to-child-drag-queen-sentenced-to-less-than-1-year-in-prison-for-11-felony-child-sex-crimes?utm_campaign=64470](https://thepostmillennial.com/andy-ngo-reports-oregon-teachers-aide-drag-mom-to-child-drag-queen-sentenced-to-less-than-1-year-in-prison-for-11-felony-child-sex-crimes?utm_campaign=64470)
- - date_published: 2023-04-20T20:45:54+00:00
- - tags: ['sexualization', 'paedophilia', 'the left wing']
-
  ## Boston's SatanCon expected to be largest ever gathering of Satanists | WBUR News
  - [https://www.wbur.org/news/2023/04/21/satanic-temple-satancon-boston](https://www.wbur.org/news/2023/04/21/satanic-temple-satancon-boston)
  - date_published: 2023-04-21T09:59:00+00:00
@@ -3717,11 +3712,6 @@
  - [https://www.zdnet.com/article/85-of-business-leaders-would-let-a-robot-make-their-decisions](https://www.zdnet.com/article/85-of-business-leaders-would-let-a-robot-make-their-decisions)
  - date_published: 2023-04-24T04:00:00+00:00
  - tags: ['artificial intelligence']
-
- ## Trans teen died from vaginoplasty complications during landmark Dutch study used to justify child sex changes | The Post Millennial | thepostmillennial.com
- - [https://thepostmillennial.com/trans-teen-died-from-vaginoplasty-complications-during-landmark-dutch-study-used-to-justify-child-sex-changes](https://thepostmillennial.com/trans-teen-died-from-vaginoplasty-complications-during-landmark-dutch-study-used-to-justify-child-sex-changes)
- - date_published: 2023-04-24T07:02:38+00:00
- - tags: ['sex change', 'the left wing', 'transgender']
 
  ## UK Threatens End-to-End Encryption
  - [https://www.schneier.com/blog/archives/2023/04/uk-threatens-end-to-end-encryption.html](https://www.schneier.com/blog/archives/2023/04/uk-threatens-end-to-end-encryption.html)
@@ -5044,11 +5034,6 @@
  - [https://lemmy.ml/post/1152281](https://lemmy.ml/post/1152281)
  - date_published: 2023-06-06T17:06:52+00:00
  - tags: ['censorship', 'reddit']
-
- ## UK Health Security Agency data shows large increase in STI diagnoses in gay and bisexual men in 2022 - Scene Magazine - From the heart of LGBTQ+ Life
- - [https://www.gscene.com/news/health/uk-health-security-agency-data-shows-large-increase-in-sti-diagnoses-in-gay-and-bisexual-men-in-2022](https://www.gscene.com/news/health/uk-health-security-agency-data-shows-large-increase-in-sti-diagnoses-in-gay-and-bisexual-men-in-2022)
- - date_published: 2023-06-06T20:07:37+00:00
- - tags: ['homosexuality', 'the left wing', 'england', 'syphilis']
 
  ## U.S. Was Aware of Ukrainian Plan to Bomb Nord Stream Pipeline Before Attack
  - [https://www.nytimes.com/2023/06/06/us/politics/nord-stream-pipeline-attack-intelligence.html](https://www.nytimes.com/2023/06/06/us/politics/nord-stream-pipeline-attack-intelligence.html)
@@ -7159,11 +7144,6 @@
  - date_published: 2023-08-25T17:18:31+00:00
  - tags: ['pollution']
 
- ## Drag queen jailed after sending sexual messages to ‘14-year-old boy’
- - [https://www.telegraph.co.uk/news/2023/08/25/drag-queen-andrew-way-paedophile-hunters-crime](https://www.telegraph.co.uk/news/2023/08/25/drag-queen-andrew-way-paedophile-hunters-crime)
- - date_published: 2023-08-25T18:16:51+00:00
- - tags: ['quest', 'paedophilia', 'lgbt']
-
  ## Web Scraping for Me, but Not for Thee
  - [https://blog.ericgoldman.org/archives/2023/08/web-scraping-for-me-but-not-for-thee-guest-blog-post.htm](https://blog.ericgoldman.org/archives/2023/08/web-scraping-for-me-but-not-for-thee-guest-blog-post.htm)
  - date_published: 2023-08-25T19:44:30.396266+00:00
@@ -7359,6 +7339,11 @@
  - date_published: 2023-09-03T08:49:37+00:00
  - tags: ['corporatocracy', 'technofeudalism']
 
+ ## A developer built a 'propaganda machine' using OpenAI tech to highlight the dangers of mass-produced AI disinformation
+ - [https://www.businessinsider.com/developer-creates-ai-disinformation-system-using-openai-2023-9](https://www.businessinsider.com/developer-creates-ai-disinformation-system-using-openai-2023-9)
+ - date_published: 2023-09-03T13:04:07+00:00
+ - tags: ['artificial intelligence']
+
  ## Climate Change Tracker
  - [https://climatechangetracker.org](https://climatechangetracker.org)
  - date_published: 2023-09-03T14:53:21+00:00
@@ -7383,11 +7368,6 @@
  - [https://www.youtube.com/watch?v=i9MXYZh1jcs](https://www.youtube.com/watch?v=i9MXYZh1jcs)
  - date_published: 2023-09-04T02:48:23+00:00
  - tags: ['chiptune', 'amiga']
-
- ## A developer built a 'propaganda machine' using OpenAI tech to highlight the dangers of mass-produced AI disinformation
- - [https://www.businessinsider.com/developer-creates-ai-disinformation-system-using-openai-2023-9](https://www.businessinsider.com/developer-creates-ai-disinformation-system-using-openai-2023-9)
- - date_published: 2023-09-04T04:00:00+00:00
- - tags: ['artificial intelligence']
 
  ## RSS Feed Generator, News Feed Builder - New Sloth
  - [https://newsloth.com/product/feed-builder](https://newsloth.com/product/feed-builder)
@@ -7668,11 +7648,6 @@
  - [https://en.m.wikipedia.org/wiki/Bechtel](https://en.m.wikipedia.org/wiki/Bechtel)
  - date_published: 2023-09-16T18:36:15+00:00
  - tags: ['billionaires', 'bechtel']
-
- ## See every stock trade Nancy Pelosi's husband, Paul Pelosi, made while she was House speaker in 2021 and 2022
- - [https://www.businessinsider.com/nancy-pelosi-stock-trades-congress-investments-2022-7?IR=T](https://www.businessinsider.com/nancy-pelosi-stock-trades-congress-investments-2022-7?IR=T)
- - date_published: 2023-09-16T21:06:31+00:00
- - tags: ['elite', 'millionaires', 'billionaires']
 
  ## Americas richest 10% is responsible for 40% of its planet heating pollution
  - [https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0000190](https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0000190)
@@ -8474,15 +8449,15 @@
  - date_published: 2023-12-05T07:09:32+00:00
  - tags: ['newag', 'dark design']
 
+ ## Amazon's humanoid robots will eventually cost only $3 per hour to operate
+ - [https://www.businessinsider.com/new-amazon-warehouse-robot-humanoid-2023-10](https://www.businessinsider.com/new-amazon-warehouse-robot-humanoid-2023-10)
+ - date_published: 2023-12-06T16:48:43+00:00
+ - tags: ['amazon', 'warehouse', 'artificial intelligence']
+
  ## No White Faculty Allowed
  - [https://www.city-journal.org/article/racial-discrimination-at-the-university-of-washington](https://www.city-journal.org/article/racial-discrimination-at-the-university-of-washington)
  - date_published: 2023-12-08T07:16:33+00:00
  - tags: ['racism', 'inequality']
-
- ## Amazon's humanoid robots will eventually cost only $3 per hour to operate
- - [https://www.businessinsider.com/new-amazon-warehouse-robot-humanoid-2023-10](https://www.businessinsider.com/new-amazon-warehouse-robot-humanoid-2023-10)
- - date_published: 2023-12-08T12:15:55+00:00
- - tags: ['amazon', 'warehouse', 'artificial intelligence']
 
  ## The pro-Israel information war
  - [https://jackpoulson.substack.com/p/inside-the-pro-israel-information](https://jackpoulson.substack.com/p/inside-the-pro-israel-information)
@@ -8678,11 +8653,6 @@
  - [https://www.washingtonexaminer.com/news/crime/california-police-suspects-pronouns-release-mugshot](https://www.washingtonexaminer.com/news/crime/california-police-suspects-pronouns-release-mugshot)
  - date_published: 2023-12-30T11:10:33+00:00
  - tags: ['the left wing', 'pronouns']
-
- ## Germany: Over 7,000 Women Sexually Assaulted by Asylum Seekers Since 2015
- - [https://www.breitbart.com/europe/2023/12/30/over-7000-women-in-germany-have-been-raped-or-sexually-assaulted-by-asylum-seeking-migrants](https://www.breitbart.com/europe/2023/12/30/over-7000-women-in-germany-have-been-raped-or-sexually-assaulted-by-asylum-seeking-migrants)
- - date_published: 2023-12-30T13:56:51+00:00
- - tags: ['immigration', 'germany']
 
  ## Compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT
  - [https://danluu.com/seo-spam](https://danluu.com/seo-spam)

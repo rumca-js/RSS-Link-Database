@@ -2918,6 +2918,11 @@
  - [https://www.bbc.co.uk/news/uk-62061929](https://www.bbc.co.uk/news/uk-62061929)
  - date_published: 2022-07-07T07:15:47.715777+00:00
 
+ ## Alleged EasyJet bomb hoaxer is a teen chess star with a place at Cambridge who said he'd 'blow this plane up' in a Snapchat post, reports say
+ - [https://www.businessinsider.com/bomb-hoaxer-easyjet-teenage-chess-star-barred-spain-2022-7?IR=T](https://www.businessinsider.com/bomb-hoaxer-easyjet-teenage-chess-star-barred-spain-2022-7?IR=T)
+ - date_published: 2022-07-07T09:55:21+00:00
+ - tags: ['privacy', 'surveillance', 'technofeudalism']
+
  ## Georgia Guidestones: 'America's Stonehenge' demolished after blast - BBC News
  - [https://www.bbc.com/news/world-us-canada-62073675](https://www.bbc.com/news/world-us-canada-62073675)
  - date_published: 2022-07-07T10:27:42+00:00

@@ -879,6 +879,11 @@
  - date_published: 2019-11-13T09:44:26+00:00
  - tags: ['programming', 'github', 'arctic code vault']
 
+ ## Microsoft says minorities in the US earn $1.006 for every $1.00 white employees earn, but experts say there's a very big asterisk
+ - [https://www.businessinsider.com/microsoft-reports-diversity-progress-but-numbers-not-whole-story-2019-11?IR=T](https://www.businessinsider.com/microsoft-reports-diversity-progress-but-numbers-not-whole-story-2019-11?IR=T)
+ - date_published: 2019-11-13T10:14:46+00:00
+ - tags: ['racism', 'inequality']
+
  ## Facebook has shut down 5.4 billion fake accounts this year, but millions likely remain | CNN Business
  - [https://edition.cnn.com/2019/11/13/tech/facebook-fake-accounts/index.html](https://edition.cnn.com/2019/11/13/tech/facebook-fake-accounts/index.html)
  - date_published: 2019-11-13T21:39:19+00:00
