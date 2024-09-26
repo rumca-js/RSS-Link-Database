@@ -7057,6 +7057,11 @@
  - date_published: 2022-10-28T10:24:59+00:00
  - tags: ['raspberry pi']
 
+ ## 'Zero Emissions' from Electric Vehicles? Here's Why That Claim Has Zero Basis
+ - [https://www.realclearinvestigations.com/articles/2022/10/27/zero_emissions_from_electric_vehicles_heres_why_that_claim_has_zero_basis_860938.html](https://www.realclearinvestigations.com/articles/2022/10/27/zero_emissions_from_electric_vehicles_heres_why_that_claim_has_zero_basis_860938.html)
+ - date_published: 2022-10-28T11:00:31+00:00
+ - tags: ['climate change', 'climate science', 'electric vehicles']
+
  ## AI's true goal may no longer be intelligence
  - [https://www.zdnet.com/article/ai-true-goal-may-no-longer-be-intelligence/#ftag=RSSbaffb68](https://www.zdnet.com/article/ai-true-goal-may-no-longer-be-intelligence/#ftag=RSSbaffb68)
  - date_published: 2022-10-28T12:00:00+00:00
@@ -7120,11 +7125,6 @@
  - [https://www.forbes.com/sites/brucelee/2022/10/29/covidisairborne-bringbackmasks-trend-questioning-cdc-directors-tweet-on-covid-19-precautions](https://www.forbes.com/sites/brucelee/2022/10/29/covidisairborne-bringbackmasks-trend-questioning-cdc-directors-tweet-on-covid-19-precautions)
  - date_published: 2022-10-29T08:31:24+00:00
  - tags: ['masks', 'covid']
-
- ## 'Zero Emissions' from Electric Vehicles? Here's Why That Claim Has Zero Basis
- - [https://www.realclearinvestigations.com/articles/2022/10/27/zero_emissions_from_electric_vehicles_heres_why_that_claim_has_zero_basis_860938.html](https://www.realclearinvestigations.com/articles/2022/10/27/zero_emissions_from_electric_vehicles_heres_why_that_claim_has_zero_basis_860938.html)
- - date_published: 2022-10-29T09:48:25+00:00
- - tags: ['climate change', 'climate science', 'electric vehicles']
 
  ## Amsterdam mayor scraps LGBTI+ statement after backlash from mosques
  - [https://nltimes.nl/2022/10/29/amsterdam-mayor-scraps-lgbti-statement-backlash-mosques](https://nltimes.nl/2022/10/29/amsterdam-mayor-scraps-lgbti-statement-backlash-mosques)
@@ -7292,6 +7292,11 @@
  - [https://www.dailywire.com/news/twitter-blows-up-at-professor-after-demanding-pandemic-amnesty-in-atlantic-op-ed](https://www.dailywire.com/news/twitter-blows-up-at-professor-after-demanding-pandemic-amnesty-in-atlantic-op-ed)
  - date_published: 2022-10-31T14:53:53+00:00
  - tags: ['covid', 'twitter', 'pandemic amnesty']
+
+ ## Facebook probably has your phone number, even if you never shared it. Now it has a secret tool to let you delete it.
+ - [https://www.businessinsider.com/facebook-has-hidden-tool-to-delete-your-phone-number-email-2022-10?IR=T](https://www.businessinsider.com/facebook-has-hidden-tool-to-delete-your-phone-number-email-2022-10?IR=T)
+ - date_published: 2022-10-31T15:24:26+00:00
+ - tags: ['facebook', 'privacy']
 
  ## Leaked documents outline DHS’s plans to police disinformation
  - [https://theintercept.com/2022/10/31/social-media-disinformation-dhs](https://theintercept.com/2022/10/31/social-media-disinformation-dhs)
@@ -7645,11 +7650,6 @@
  - [https://demo.f4map.com](https://demo.f4map.com)
  - date_published: 2022-11-05T21:26:27+00:00
  - tags: ['openstreetmap']
-
- ## Facebook probably has your phone number, even if you never shared it. Now it has a secret tool to let you delete it.
- - [https://www.businessinsider.com/facebook-has-hidden-tool-to-delete-your-phone-number-email-2022-10?IR=T](https://www.businessinsider.com/facebook-has-hidden-tool-to-delete-your-phone-number-email-2022-10?IR=T)
- - date_published: 2022-11-05T23:36:46+00:00
- - tags: ['facebook', 'privacy']
 
  ## Finland’s Covid death toll could be exaggerated by 40%, THL says | News & More Trending News
  - [https://www.thetimes.com.ng/2022/11/finlands-covid-death-toll-could-be-exaggerated-by-40-thl-says-news-more-trending-news](https://www.thetimes.com.ng/2022/11/finlands-covid-death-toll-could-be-exaggerated-by-40-thl-says-news-more-trending-news)
