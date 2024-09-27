@@ -563,6 +563,11 @@
  - date_published: 2022-01-29T20:37:35+00:00
  - tags: ['freedom convoy', 'covid', 'canada']
 
+ ## Thousands in Canada Protest COVID-19 Vaccine Mandates for Truckers
+ - [https://www.businessinsider.com/thousands-canada-protest-covid-19-vaccine-mandates-truckers-justin-trudeau-2022-1?IR=T](https://www.businessinsider.com/thousands-canada-protest-covid-19-vaccine-mandates-truckers-justin-trudeau-2022-1?IR=T)
+ - date_published: 2022-01-30T01:47:43+00:00
+ - tags: ['covid mandates', 'covid', 'freedom convoy', 'canada']
+
  ## Justin Trudeau flees for a secret location as up to 50,000 'Freedom Convoy' truckers hit Ottawa | Daily Mail Online
  - [https://www.dailymail.co.uk/news/article-10456147/Justin-Trudeau-flees-secret-location-50-000-Freedom-Convoy-truckers-hit-Ottawa.html](https://www.dailymail.co.uk/news/article-10456147/Justin-Trudeau-flees-secret-location-50-000-Freedom-Convoy-truckers-hit-Ottawa.html)
  - date_published: 2022-01-30T09:36:41+00:00
@@ -582,11 +587,6 @@
  - [https://www.foxnews.com/world/nova-scotia-outlaws-gathering-highway-freedom-convoy-truckers-vaccine-mandate](https://www.foxnews.com/world/nova-scotia-outlaws-gathering-highway-freedom-convoy-truckers-vaccine-mandate)
  - date_published: 2022-01-30T20:35:51+00:00
  - tags: ['freedom convoy', 'covid', 'canada']
-
- ## Thousands in Canada Protest COVID-19 Vaccine Mandates for Truckers
- - [https://www.businessinsider.com/thousands-canada-protest-covid-19-vaccine-mandates-truckers-justin-trudeau-2022-1?IR=T](https://www.businessinsider.com/thousands-canada-protest-covid-19-vaccine-mandates-truckers-justin-trudeau-2022-1?IR=T)
- - date_published: 2022-01-30T20:40:11+00:00
- - tags: ['covid mandates', 'covid', 'freedom convoy', 'canada']
 
  ## Klaus Schwab Brags That Trudeau, Merkel, Putin Are Former World Economic Forum Young Global Leaders; “We penetrate the cabinets” - The American Report
  - [https://theamericanreport.org/2022/01/30/klaus-schwab-brags-that-trudeau-merkel-putin-are-former-world-economic-forum-young-global-leaders-we-penetrate-the-cabinets](https://theamericanreport.org/2022/01/30/klaus-schwab-brags-that-trudeau-merkel-putin-are-former-world-economic-forum-young-global-leaders-we-penetrate-the-cabinets)
@@ -782,11 +782,6 @@
  - [https://www.theblaze.com/news/trudeau-canada-mandates-restrictions](https://www.theblaze.com/news/trudeau-canada-mandates-restrictions)
  - date_published: 2022-02-08T20:56:08+00:00
  - tags: ['freedom convoy', 'covid mandates', 'covid', 'canada']
-
- ## Secret Sex Parties of the Mega-Rich | Informer
- - [https://www.youtube.com/watch?v=AXyzDxxQRSA](https://www.youtube.com/watch?v=AXyzDxxQRSA)
- - date_published: 2022-02-09T00:00:00+00:00
- - tags: ['elite', 'billionaires', 'secret societies']
 
  ## Nick Brown Smelled Bull
  - [https://narratively.com/nick-brown-smelled-bull](https://narratively.com/nick-brown-smelled-bull)
@@ -1277,11 +1272,6 @@
  ## The three-minute rule: the scientific way to tackle your most-hated chores | Life and style | The Guardian
  - [https://www.theguardian.com/lifeandstyle/2022/mar/14/three-minute-rule-scientific-way-tackle-most-hated-chores](https://www.theguardian.com/lifeandstyle/2022/mar/14/three-minute-rule-scientific-way-tackle-most-hated-chores)
  - date_published: 2022-03-15T22:25:36.638604+00:00
-
- ## Ufopornoo! - Higher Quality
- - [https://www.youtube.com/watch?v=W5UkA2Gg-Cc](https://www.youtube.com/watch?v=W5UkA2Gg-Cc)
- - date_published: 2022-03-16T00:00:00+00:00
- - tags: ['funny']
 
  ## Secret behind Hollywood's power. And why they are afraid of the WOKE.
  - [https://www.youtube.com/watch?v=WJzXUSl20kM](https://www.youtube.com/watch?v=WJzXUSl20kM)

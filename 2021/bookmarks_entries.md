@@ -415,7 +415,7 @@
 
  ## The White House is set to launch a $1.5 billion ad campaign to win over vaccine skeptics, report says
  - [https://www.businessinsider.com/white-house-launch-1-billion-ad-blitz-covid-vaccines-report-2021-3?IR=T](https://www.businessinsider.com/white-house-launch-1-billion-ad-blitz-covid-vaccines-report-2021-3?IR=T)
- - date_published: 2021-03-15T16:01:38+00:00
+ - date_published: 2021-03-15T14:22:16+00:00
  - tags: ['covid', 'manufacturing consent']
 
  ## Florida Sees Same COVID Case Rate as California, Despite No Statewide Restrictions
@@ -3310,7 +3310,7 @@
 
  ## Most US States Suing to Stop Biden COVID-19 Vaxx Mandate
  - [https://www.businessinsider.com/vaccine-mandate-biden-covid-19-states-sue-unconstitutional-2021-11?IR=T](https://www.businessinsider.com/vaccine-mandate-biden-covid-19-states-sue-unconstitutional-2021-11?IR=T)
- - date_published: 2021-11-06T20:10:39+00:00
+ - date_published: 2021-11-06T11:48:29+00:00
  - tags: ['covid', 'vaccine', 'covid mandates']
 
  ## The Oakland, California Homeless Problem is Beyond Belief
@@ -3774,11 +3774,6 @@
  - date_published: 2021-12-03T08:49:22+00:00
  - tags: ['transgender', 'lgbt', 'the left wing', 'canada', 'children']
 
- ## Jeffrey Epstein Visited Clinton's White House 17 Times
- - [https://humansbefree.com/2021/12/jeffrey-epstein-visited-clintons-white-house-17-times.html](https://humansbefree.com/2021/12/jeffrey-epstein-visited-clintons-white-house-17-times.html)
- - date_published: 2021-12-03T10:25:25+00:00
- - tags: ['bill clinton', 'jeffrey epstein']
-
  ## LEGO has designed a set that can't be taken apart | Brickset: LEGO set guide and database
  - [https://brickset.com/article/67650/lego-has-designed-a-set-that-can-t-be-taken-apart](https://brickset.com/article/67650/lego-has-designed-a-set-that-can-t-be-taken-apart)
  - date_published: 2021-12-03T16:24:20.716912+00:00
@@ -3843,11 +3838,6 @@
  ## Chrome Users Beware: Manifest V3 is Deceitful and Threatening | Electronic Frontier Foundation
  - [https://www.eff.org/deeplinks/2021/12/chrome-users-beware-manifest-v3-deceitful-and-threatening](https://www.eff.org/deeplinks/2021/12/chrome-users-beware-manifest-v3-deceitful-and-threatening)
  - date_published: 2021-12-10T08:09:00.543457+00:00
-
- ## The Atlantic goes tone-deaf on child sex trafficking - The Spectator World
- - [https://thespectator.com/topic/atlantic-child-sex-trafficking-ghislaine-maxwell](https://thespectator.com/topic/atlantic-child-sex-trafficking-ghislaine-maxwell)
- - date_published: 2021-12-10T10:30:20+00:00
- - tags: ['sex-trafficking', 'jeffrey epstein']
 
  ## A Log4J Vulnerability Has Set the Internet 'On Fire' | WIRED
  - [https://www.wired.com/story/log4j-flaw-hacking-internet](https://www.wired.com/story/log4j-flaw-hacking-internet)

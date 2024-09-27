@@ -1016,6 +1016,11 @@
  - date_published: 2024-08-20T09:15:50+00:00
  - tags: ['elections', 'ad business', 'misinformation', 'google', 'disinformation']
 
+ ## A new web crawler launched by Meta last month is quietly scraping the web for AI training data
+ - [https://fortune.com/2024/08/20/meta-external-agent-new-web-crawler-bot-scrape-data-train-ai-models-llama](https://fortune.com/2024/08/20/meta-external-agent-new-web-crawler-bot-scrape-data-train-ai-models-llama)
+ - date_published: 2024-08-21T11:00:24+00:00
+ - tags: ['artificial intelligence']
+
  ## What is a woman? Australian court rules in landmark case
  - [https://www.bbc.com/news/articles/c07ev1v7r4po](https://www.bbc.com/news/articles/c07ev1v7r4po)
  - date_published: 2024-08-23T01:19:39+00:00
