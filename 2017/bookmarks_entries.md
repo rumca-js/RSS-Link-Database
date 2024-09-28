@@ -327,11 +327,6 @@
  - date_published: 2017-08-15T14:55:12+00:00
  - tags: ['james damore', 'google memo', 'google']
 
- ## NSA: Egregious Cases Of US Government Employees Abusing Databases To Spy On Americans
- - [https://www.businessinsider.com/how-nsa-can-abuse-data-on-americans-2013-7?IR=T](https://www.businessinsider.com/how-nsa-can-abuse-data-on-americans-2013-7?IR=T)
- - date_published: 2017-08-24T13:37:57+00:00
- - tags: ['big brother', 'privacy', 'nsa', 'surveillance']
-
  ## Court rules privacy a 'fundamental right' in landmark case
  - [http://www.cnn.com/2017/08/24/asia/indian-court-right-to-privacy/index.html](http://www.cnn.com/2017/08/24/asia/indian-court-right-to-privacy/index.html)
  - date_published: 2017-08-25T02:03:01+00:00

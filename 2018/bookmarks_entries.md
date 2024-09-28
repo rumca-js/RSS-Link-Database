@@ -689,11 +689,6 @@
  - date_published: 2018-11-19T13:29:07+00:00
  - tags: ['apple', 'manufacturing consent', 'google']
 
- ## How a future Trump Cabinet member gave a serial sex abuser the deal of a lifetime
- - [https://www.miamiherald.com/news/local/article220097825.html](https://www.miamiherald.com/news/local/article220097825.html)
- - date_published: 2018-11-28T20:01:48+00:00
- - tags: ['donald trump', 'jeffrey epstein']
-
  ## Google Shows Personalized Search Results When Logged Out, According to New Study
  - [https://www.searchenginejournal.com/google-shows-personalized-search-results-when-logged-out-according-to-new-study/281329](https://www.searchenginejournal.com/google-shows-personalized-search-results-when-logged-out-according-to-new-study/281329)
  - date_published: 2018-12-04T14:01:53+00:00

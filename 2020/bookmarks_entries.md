@@ -530,6 +530,11 @@
  - date_published: 2020-06-10T08:54:37+00:00
  - tags: ['propaganda', 'the left wing', 'math is racist', 'science is racist', 'science is dead']
 
+ ## Christopher Columbus statues are being beheaded and torn down during Black Lives Matter protests
+ - [https://www.insider.com/christopher-columbus-statues-vandalized-during-protests-2020-6](https://www.insider.com/christopher-columbus-statues-vandalized-during-protests-2020-6)
+ - date_published: 2020-06-10T22:16:16+00:00
+ - tags: ['black lives matter', 'blm', 'culture', 'protest']
+
  ## If You Don’t Support Black Lives Matter, You're Fired
  - [https://thefederalist.com/2020/06/11/if-you-dont-support-black-lives-matter-youre-fired](https://thefederalist.com/2020/06/11/if-you-dont-support-black-lives-matter-youre-fired)
  - date_published: 2020-06-11T08:47:08+00:00
@@ -539,11 +544,6 @@
  - [https://www.insideedition.com/seattle-protesters-take-over-six-blocks-declaring-it-capitol-hill-autonomous-zone-60104](https://www.insideedition.com/seattle-protesters-take-over-six-blocks-declaring-it-capitol-hill-autonomous-zone-60104)
  - date_published: 2020-06-11T18:37:45+00:00
  - tags: ['black lives matter']
-
- ## Christopher Columbus statues are being beheaded and torn down during Black Lives Matter protests
- - [https://www.insider.com/christopher-columbus-statues-vandalized-during-protests-2020-6](https://www.insider.com/christopher-columbus-statues-vandalized-during-protests-2020-6)
- - date_published: 2020-06-11T20:11:27+00:00
- - tags: ['black lives matter', 'blm', 'culture', 'protest']
 
  ## Seattle protesters take over city blocks to create police-free 'autonomous zone'
  - [https://www.theguardian.com/us-news/2020/jun/11/chaz-seattle-autonomous-zone-police-protest](https://www.theguardian.com/us-news/2020/jun/11/chaz-seattle-autonomous-zone-police-protest)
@@ -1081,11 +1081,6 @@
  - date_published: 2020-09-09T21:11:41+00:00
  - tags: ['oscars', 'diversity', 'propaganda', 'inclusion']
 
- ## Netflix Defends ‘Cuties’ as ‘Social Commentary’ Against Sexualization of Young Children
- - [https://variety.com/2020/digital/news/netflix-defends-cuties-against-sexualization-young-girls-1234766347](https://variety.com/2020/digital/news/netflix-defends-cuties-against-sexualization-young-girls-1234766347)
- - date_published: 2020-09-10T08:25:33+00:00
- - tags: ['sexualization', 'children', 'netflix', 'cuties', 'the left wing']
-
  ## Tracking Viral Misinformation: Latest Updates - The New York Times
  - [https://www.nytimes.com/live/2020/2020-election-misinformation-distortions#facebook-sent-flawed-data-to-misinformation-researchers](https://www.nytimes.com/live/2020/2020-election-misinformation-distortions#facebook-sent-flawed-data-to-misinformation-researchers)
  - date_published: 2020-09-15T20:08:59+00:00
@@ -1178,11 +1173,6 @@
  - [https://economictimes.indiatimes.com/news/international/world-news/three-million-uyghurs-detained-in-concentration-camps-by-beijing-activist/articleshow/78343963.cms](https://economictimes.indiatimes.com/news/international/world-news/three-million-uyghurs-detained-in-concentration-camps-by-beijing-activist/articleshow/78343963.cms)
  - date_published: 2020-09-27T20:56:51+00:00
  - tags: ['china', 'genocide', 'uyghur']
-
- ## Tom Hardy responds to a question by a gay activist about his sexuality
- - [https://www.youtube.com/watch?v=VI-dGH0-f_c](https://www.youtube.com/watch?v=VI-dGH0-f_c)
- - date_published: 2020-09-28T00:00:00+00:00
- - tags: ['the left wing', 'lgbt']
 
  ## Islamski terrorysta wyłudził 100 tys. euro od francuskiego państwa - RMF 24
  - [https://www.rmf24.pl/fakty/swiat/news-islamski-terrorysta-wyludzil-100-tys-euro-od-francuskiego-pa,nId,4761431](https://www.rmf24.pl/fakty/swiat/news-islamski-terrorysta-wyludzil-100-tys-euro-od-francuskiego-pa,nId,4761431)

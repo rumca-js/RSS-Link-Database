@@ -128,11 +128,6 @@
  - date_published: 2016-05-02T08:40:40+00:00
  - tags: ['brrd', 'savings', 'banksters', 'manufacturing consent']
 
- ## Flight logs show Bill Clinton flew on sex offender's jet much more than previously known | Fox News
- - [https://www.foxnews.com/us/flight-logs-show-bill-clinton-flew-on-sex-offenders-jet-much-more-than-previously-known](https://www.foxnews.com/us/flight-logs-show-bill-clinton-flew-on-sex-offenders-jet-much-more-than-previously-known)
- - date_published: 2016-05-13T21:34:34+00:00
- - tags: ['jeffrey epstein', 'lolita express', 'bill clinton']
-
  ## Not using transgender pronouns could get you fined
  - [https://nypost.com/2016/05/19/city-issues-new-guidelines-on-transgender-pronouns](https://nypost.com/2016/05/19/city-issues-new-guidelines-on-transgender-pronouns)
  - date_published: 2016-05-19T11:06:48+00:00

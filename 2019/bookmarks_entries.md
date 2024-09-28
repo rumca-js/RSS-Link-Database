@@ -167,11 +167,6 @@
  - [https://notrelated.xyz/audio/s01/S01E08_-_The_Flaws_of_Academic_Statistics_the_Null_Ritual.mp3](https://notrelated.xyz/audio/s01/S01E08_-_The_Flaws_of_Academic_Statistics_the_Null_Ritual.mp3)
  - date_published: 2019-03-13T04:00:00+00:00
 
- ## Sex offender volunteered at library 3 times
- - [https://abc13.com/drag-queen-story-time-sex-offender-houston-public-library/5203743](https://abc13.com/drag-queen-story-time-sex-offender-houston-public-library/5203743)
- - date_published: 2019-03-19T22:14:03+00:00
- - tags: ['lgbt', 'paedophilia', 'indoctrination', 'rape', 'children', 'sexualization', 'the left wing']
-
  ## Elektrownia atomowa. Państwowa spółka pochłonęła już prawie pół miliarda złotych
  - [https://www.money.pl/gospodarka/elektrownia-atomowa-panstwowa-spolka-pochlonela-juz-prawie-pol-miliarda-zlotych-6364261429319809a.html](https://www.money.pl/gospodarka/elektrownia-atomowa-panstwowa-spolka-pochlonela-juz-prawie-pol-miliarda-zlotych-6364261429319809a.html)
  - date_published: 2019-03-28T14:36:51+00:00

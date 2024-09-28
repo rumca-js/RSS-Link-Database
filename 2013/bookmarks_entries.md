@@ -193,6 +193,11 @@
  - date_published: 2013-07-31T20:09:29+00:00
  - tags: ['manufacturing consent', 'big pharma', 'pfizer']
 
+ ## NSA: Egregious Cases Of US Government Employees Abusing Databases To Spy On Americans
+ - [https://www.businessinsider.com/how-nsa-can-abuse-data-on-americans-2013-7?IR=T](https://www.businessinsider.com/how-nsa-can-abuse-data-on-americans-2013-7?IR=T)
+ - date_published: 2013-08-09T19:44:04+00:00
+ - tags: ['big brother', 'privacy', 'nsa', 'surveillance']
+
  ## Lorn - Sega Sunset
  - [https://www.youtube.com/watch?v=mauV2NdCs60](https://www.youtube.com/watch?v=mauV2NdCs60)
  - date_published: 2013-08-18T00:00:00+00:00
