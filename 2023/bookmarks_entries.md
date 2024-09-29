@@ -6390,11 +6390,6 @@
  - date_published: 2023-07-25T13:05:32+00:00
  - tags: ['crypto wars', 'backdoory', 'encryption']
 
- ## JPMorgan resisted ditching Jeffrey Epstein as client despite child sex charges because he brought wealthy clients to bank including Google co-founder Sergey Brin, lawsuit claims
- - [https://www.dailymail.co.uk/news/article-12335541/JPMorgan-resisted-ditching-Jeffrey-Epstein-client-despite-child-sex-charges-brought-wealthy-clients-bank-including-Google-founder-Sergey-Brin-lawsuit-claims.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12335541/JPMorgan-resisted-ditching-Jeffrey-Epstein-client-despite-child-sex-charges-brought-wealthy-clients-bank-including-Google-founder-Sergey-Brin-lawsuit-claims.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - date_published: 2023-07-25T13:16:30+00:00
- - tags: ['jeffrey epstein', 'jpmorgan']
-
  ## Apple already shipped attestation on the web, and we barely noticed
  - [https://httptoolkit.com/blog/apple-private-access-tokens-attestation](https://httptoolkit.com/blog/apple-private-access-tokens-attestation)
  - date_published: 2023-07-25T14:10:12+00:00
@@ -7089,11 +7084,6 @@
  - date_published: 2023-08-21T18:49:20+00:00
  - tags: ['fact check']
 
- ## San Francisco Roman Catholic archdiocese files for bankruptcy amid sex abuse lawsuits
- - [https://www.foxnews.com/us/san-francisco-roman-catholic-archdiocese-files-bankruptcy-amid-sex-abuse-lawsuits](https://www.foxnews.com/us/san-francisco-roman-catholic-archdiocese-files-bankruptcy-amid-sex-abuse-lawsuits)
- - date_published: 2023-08-21T19:17:41+00:00
- - tags: ['religion', 'church scandal']
-
  ## RELEASE: After years of opposition, Apple calls for passage of Right to Repair in California
  - [https://pirg.org/media-center/release-after-years-of-opposition-apple-calls-for-passage-of-right-to-repair-in-california](https://pirg.org/media-center/release-after-years-of-opposition-apple-calls-for-passage-of-right-to-repair-in-california)
  - date_published: 2023-08-23T09:56:50+00:00
@@ -7759,11 +7749,6 @@
  - date_published: 2023-09-24T22:19:24+00:00
  - tags: ['electric vehicles']
 
- ## ‘Who Benefits?’ Inside the EU’s Fight over Scanning for Child Sex Content
- - [https://balkaninsight.com/2023/09/25/who-benefits-inside-the-eus-fight-over-scanning-for-child-sex-content](https://balkaninsight.com/2023/09/25/who-benefits-inside-the-eus-fight-over-scanning-for-child-sex-content)
- - date_published: 2023-09-25T11:12:05+00:00
- - tags: ['surveillance', 'privacy']
-
  ## Long Covid impact ‘exaggerated with major flaws in claims’
  - [https://www.telegraph.co.uk/news/2023/09/25/covid-coronavirus-nhs-pandemic-long-lockdown](https://www.telegraph.co.uk/news/2023/09/25/covid-coronavirus-nhs-pandemic-long-lockdown)
  - date_published: 2023-09-25T13:42:23+00:00
@@ -8034,11 +8019,6 @@
  - date_published: 2023-10-17T08:19:28+00:00
  - tags: ['youtube', 'selfhost']
 
- ## Victoria’s Secret ditches prioritizing wokeness over ‘sexiness’ after sales drop
- - [https://nypost.com/2023/10/18/victorias-secret-ditches-wokeness-over-sexiness-after-sales-drop](https://nypost.com/2023/10/18/victorias-secret-ditches-wokeness-over-sexiness-after-sales-drop)
- - date_published: 2023-10-18T09:26:20+00:00
- - tags: ['the left wing', 'go woke go broke']
-
  ## Google-hosted malvertising leads to fake Keepass site that looks genuine
  - [https://arstechnica.com/security/2023/10/google-hosted-malvertising-leads-to-fake-keepass-site-that-looks-genuine](https://arstechnica.com/security/2023/10/google-hosted-malvertising-leads-to-fake-keepass-site-that-looks-genuine)
  - date_published: 2023-10-19T05:33:24+00:00
@@ -8218,11 +8198,6 @@
  - [https://www.pap.pl/aktualnosci/polityk-postrzelony-w-twarz-w-centrum-madrytu](https://www.pap.pl/aktualnosci/polityk-postrzelony-w-twarz-w-centrum-madrytu)
  - date_published: 2023-11-10T11:48:29+00:00
  - tags: ['christianophobia']
-
- ## Israel women’s groups warn of failure to keep evidence of sexual violence in Hamas attacks
- - [https://www.theguardian.com/world/2023/nov/10/israel-womens-groups-warn-of-failure-to-keep-evidence-of-sexual-violence-in-hamas-attacks](https://www.theguardian.com/world/2023/nov/10/israel-womens-groups-warn-of-failure-to-keep-evidence-of-sexual-violence-in-hamas-attacks)
- - date_published: 2023-11-10T11:55:53+00:00
- - tags: ['israel', 'hamas']
 
  ## New Outlook sends passwords, mails and other data to Microsoft
  - [https://mailbox.org/en/post/warning-new-outlook-sends-passwords-mails-and-other-data-to-microsoft](https://mailbox.org/en/post/warning-new-outlook-sends-passwords-mails-and-other-data-to-microsoft)

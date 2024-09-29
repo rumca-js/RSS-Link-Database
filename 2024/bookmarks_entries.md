@@ -1098,3 +1098,8 @@
  - date_published: 2024-09-24T18:07:54+00:00
  - tags: ['cars', 'privacy', 'surveillance']
 
+ ## Threads joins X in blocking posts to apparently leaked documents about JD Vance
+ - [https://www.businessinsider.com/threads-blocks-jd-vance-leaked-links-2024-9](https://www.businessinsider.com/threads-blocks-jd-vance-leaked-links-2024-9)
+ - date_published: 2024-09-27T00:00:00+00:00
+ - tags: ['technofeudalism', 'censorship']
+
