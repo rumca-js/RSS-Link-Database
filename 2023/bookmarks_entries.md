@@ -4240,6 +4240,11 @@
  - date_published: 2023-05-13T14:49:45+00:00
  - tags: ['science is dead']
 
+ ## ShareDrop
+ - [https://www.sharedrop.io](https://www.sharedrop.io)
+ - date_published: 2023-05-13T18:41:46+00:00
+ - tags: ['project', 'selfhost']
+
  ## The Pandemic May Be Over But UK Mobile Networks Are Still Monitoring Population Movement
  - [https://reclaimthenet.org/uk-mobile-networks-are-still-monitoring-population-movement](https://reclaimthenet.org/uk-mobile-networks-are-still-monitoring-population-movement)
  - date_published: 2023-05-13T20:44:42+00:00
@@ -7119,11 +7124,6 @@
  - date_published: 2023-08-25T11:10:46.356898+00:00
  - tags: ['pollution']
 
- ## ShareDrop
- - [https://www.sharedrop.io](https://www.sharedrop.io)
- - date_published: 2023-08-25T11:40:04+00:00
- - tags: ['project', 'selfhost']
-
  ## The Wikipedia Propaganda Machine
  - [https://www.youtube.com/watch?v=rj76CcZt1m4](https://www.youtube.com/watch?v=rj76CcZt1m4)
  - date_published: 2023-08-25T15:28:34.249454+00:00
@@ -7901,7 +7901,7 @@
 
  ## Microsoft 365 admins warned of new Google anti-spam rules
  - [https://www.bleepingcomputer.com/news/security/microsoft-365-admins-warned-of-new-google-anti-spam-rules](https://www.bleepingcomputer.com/news/security/microsoft-365-admins-warned-of-new-google-anti-spam-rules)
- - date_published: 2023-10-08T15:09:08+00:00
+ - date_published: 2023-10-06T23:53:53+00:00
  - tags: ['email']
 
  ## ING’s German Unit Drops High CO2-Risk Clients
