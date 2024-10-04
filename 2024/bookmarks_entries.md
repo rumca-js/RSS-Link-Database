@@ -1108,3 +1108,8 @@
  - date_published: 2024-09-29T13:16:27+00:00
  - tags: ['social media']
 
+ ## Meta confirms it may train its AI on any image you ask Ray-Ban Meta AI to analyze | TechCrunch
+ - [https://techcrunch.com/2024/10/02/meta-confirms-it-may-train-its-ai-on-any-image-you-ask-ray-ban-meta-ai-to-analyze](https://techcrunch.com/2024/10/02/meta-confirms-it-may-train-its-ai-on-any-image-you-ask-ray-ban-meta-ai-to-analyze)
+ - date_published: 2024-10-02T20:58:07+00:00
+ - tags: ['artificial intelligence', 'surveillence', 'ad business', 'privacy']
+
