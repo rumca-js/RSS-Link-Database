@@ -4370,11 +4370,6 @@
  - date_published: 2023-05-17T11:34:52+00:00
  - tags: ['markets in cryptoassets', 'government control', 'europe', 'crypto']
 
- ## Google Analytics 4 Has Me So Frustrated, We Built Our Own Analytics Service
- - [https://requestmetrics.com/blog/product/google-analytics-4-has-me-so-frustrated-we-built-our-own-analytics-service](https://requestmetrics.com/blog/product/google-analytics-4-has-me-so-frustrated-we-built-our-own-analytics-service)
- - date_published: 2023-05-17T17:22:19+00:00
- - tags: ['google analytics']
-
  ## DuckDuckGo owns the #2 position in mobile market share in the US
  - [https://help.duckduckgo.com/duckduckgo-help-pages/company/advertise-on-duckduckgo-search](https://help.duckduckgo.com/duckduckgo-help-pages/company/advertise-on-duckduckgo-search)
  - date_published: 2023-05-17T19:02:15+00:00
@@ -4389,16 +4384,6 @@
  - [https://news.ycombinator.com/item?id=35983824](https://news.ycombinator.com/item?id=35983824)
  - date_published: 2023-05-18T03:23:13+00:00
  - tags: ['artificial intelligence']
-
- ## Session Transcripts | Dive deep into individual user sessions with fast, informative, and privacy-conscious transcripts. | Request Metrics
- - [https://requestmetrics.com/feature/session-transcripts](https://requestmetrics.com/feature/session-transcripts)
- - date_published: 2023-05-18T04:54:44+00:00
- - tags: ['selfhost', 'google analytics']
-
- ## Założyciel serwisu gejowskiego Cruiser został skazany za przestępstwa seksualne wobec 13 dzieci
- - [https://nyadagbladet-se.translate.goog/inrikes/homosajten-qruisers-grundare-doms-for-sexualbrott-mot-13-barn/?_x_tr_sl=auto&_x_tr_tl=pl&_x_tr_hl=en-GB](https://nyadagbladet-se.translate.goog/inrikes/homosajten-qruisers-grundare-doms-for-sexualbrott-mot-13-barn/?_x_tr_sl=auto&_x_tr_tl=pl&_x_tr_hl=en-GB)
- - date_published: 2023-05-18T07:07:01+00:00
- - tags: ['lgbt', 'paedophilia']
 
  ## YouTube is bringing unskippable 30-second ads to TV
  - [https://www.theverge.com/2023/5/18/23728150/youtube-tv-unskippable-ads-premium-pause-commercial](https://www.theverge.com/2023/5/18/23728150/youtube-tv-unskippable-ads-premium-pause-commercial)
@@ -4544,11 +4529,6 @@
  - [https://www.dailywire.com/news/a-dangerous-path-christian-banned-from-teaching-after-misgendering-student](https://www.dailywire.com/news/a-dangerous-path-christian-banned-from-teaching-after-misgendering-student)
  - date_published: 2023-05-23T15:56:11+00:00
  - tags: ['newspeak', 'pronouns', 'the left wing']
-
- ## Illinois probe reveals rampant sexual abuse in Catholic Church
- - [https://www.aljazeera.com/news/2023/5/24/illinois-probe-reveals-rampant-sexual-abuse-in-catholic-church](https://www.aljazeera.com/news/2023/5/24/illinois-probe-reveals-rampant-sexual-abuse-in-catholic-church)
- - date_published: 2023-05-24T01:02:08+00:00
- - tags: ['america', 'catholic', 'religion', 'church scandal']
 
  ## COCAINE SHARK - Official Trailer (2023) Samantha Coolidge, Ryan Dalton
  - [https://www.youtube.com/watch?v=AdNeKUvO6pg](https://www.youtube.com/watch?v=AdNeKUvO6pg)
@@ -5385,11 +5365,6 @@
  - date_published: 2023-06-16T20:29:21+00:00
  - tags: ['jeffrey epstein']
 
- ## Keygen Library Player (4504 tracks)
- - [https://cable.ayra.ch/webxmp](https://cable.ayra.ch/webxmp)
- - date_published: 2023-06-18T07:42:02+00:00
- - tags: ['chiptune']
-
  ## I don't trust Signal
  - [https://blog.dijit.sh//i-don-t-trust-signal](https://blog.dijit.sh//i-don-t-trust-signal)
  - date_published: 2023-06-19T03:05:27+00:00
@@ -5619,11 +5594,6 @@
  - [https://www.nytimes.com/2023/06/27/health/transgender-suicide-risk-denmark.html?smtyp=cur&smid=tw-nytimes](https://www.nytimes.com/2023/06/27/health/transgender-suicide-risk-denmark.html?smtyp=cur&smid=tw-nytimes)
  - date_published: 2023-06-27T08:37:47+00:00
  - tags: ['denmark', 'transgender', 'the left wing']
-
- ## Professor says he was fired for teaching sex is determined by chromosomes
- - [https://nypost.com/2023/06/27/professor-says-he-was-fired-for-teaching-that-sex-is-determined-by-chromosomes](https://nypost.com/2023/06/27/professor-says-he-was-fired-for-teaching-that-sex-is-determined-by-chromosomes)
- - date_published: 2023-06-27T15:29:38+00:00
- - tags: ['science is dead', 'the left wing']
 
  ## More than 100 U.S. political elites have family links to slavery
  - [https://www.reuters.com/investigates/special-report/usa-slavery-lawmakers](https://www.reuters.com/investigates/special-report/usa-slavery-lawmakers)
@@ -5954,11 +5924,6 @@
  - [https://www.telegraph.co.uk/news/2023/07/10/you-benefit-from-white-privilege-church-of-england-school](https://www.telegraph.co.uk/news/2023/07/10/you-benefit-from-white-privilege-church-of-england-school)
  - date_published: 2023-07-10T08:21:52+00:00
  - tags: ['indoctrination', 'racism']
-
- ## The controller pattern is awful (and other OO heresy)
- - [https://eev.ee/blog/2013/03/03/the-controller-pattern-is-awful-and-other-oo-heresy](https://eev.ee/blog/2013/03/03/the-controller-pattern-is-awful-and-other-oo-heresy)
- - date_published: 2023-07-10T08:27:04+00:00
- - tags: ['programming']
 
  ## Spadek napiÄcia z prÄdu, prÄd jednofazowy i trÃ³jfazowy, dÅugoÅÄ, przekrÃ³j lub Årednica przewodu- Calcoolator.pl - Kalkulator online.
  - [https://calcoolator.pl/spadek_napiecia_z_pradu_jednofazowy_trojfazowy.html](https://calcoolator.pl/spadek_napiecia_z_pradu_jednofazowy_trojfazowy.html)

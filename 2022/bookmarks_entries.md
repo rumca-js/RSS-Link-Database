@@ -617,6 +617,11 @@
  - date_published: 2022-02-01T00:00:00+00:00
  - tags: ['twitter']
 
+ ## The controller pattern is awful (and other OO heresy)
+ - [https://eev.ee/blog/2013/03/03/the-controller-pattern-is-awful-and-other-oo-heresy](https://eev.ee/blog/2013/03/03/the-controller-pattern-is-awful-and-other-oo-heresy)
+ - date_published: 2022-02-01T05:32:34+00:00
+ - tags: ['programming']
+
  ## the new hire who showed up is not the same person we interviewed — Ask a Manager
  - [https://www.askamanager.org/2022/01/the-new-hire-who-showed-up-is-not-the-same-person-we-interviewed.html](https://www.askamanager.org/2022/01/the-new-hire-who-showed-up-is-not-the-same-person-we-interviewed.html)
  - date_published: 2022-02-01T08:47:47.625540+00:00

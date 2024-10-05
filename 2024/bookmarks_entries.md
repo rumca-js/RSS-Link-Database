@@ -320,6 +320,11 @@
  - date_published: 2024-01-28T19:39:27+00:00
  - tags: ['palestine', 'fbi', 'israel']
 
+ ## Five billion people being tracked by Patternz surveillance tool
+ - [https://www.techzine.eu/news/privacy-compliance/115811/five-billion-people-being-tracked-by-patternz-surveillance-tool](https://www.techzine.eu/news/privacy-compliance/115811/five-billion-people-being-tracked-by-patternz-surveillance-tool)
+ - date_published: 2024-01-29T09:58:00+00:00
+ - tags: ['privacy', 'surveillance']
+
  ## There's so much data even spies are struggling to find secrets
  - [https://www.tbsnews.net/tech/theres-so-much-data-even-spies-are-struggling-find-secrets-783446](https://www.tbsnews.net/tech/theres-so-much-data-even-spies-are-struggling-find-secrets-783446)
  - date_published: 2024-01-29T10:35:00+00:00
@@ -1098,6 +1103,11 @@
  - date_published: 2024-09-24T18:07:54+00:00
  - tags: ['cars', 'privacy', 'surveillance']
 
+ ## The P Diddy Situation Is Everything Wrong With Hollywood
+ - [https://www.youtube.com/watch?v=BkEoG2YkU_0](https://www.youtube.com/watch?v=BkEoG2YkU_0)
+ - date_published: 2024-09-26T07:36:28+00:00
+ - tags: ['hollywood', 'elite', 'jeffrey epstein', 'billionaires']
+
  ## Threads joins X in blocking posts to apparently leaked documents about JD Vance
  - [https://www.businessinsider.com/threads-blocks-jd-vance-leaked-links-2024-9](https://www.businessinsider.com/threads-blocks-jd-vance-leaked-links-2024-9)
  - date_published: 2024-09-27T00:00:00+00:00
@@ -1112,4 +1122,9 @@
  - [https://techcrunch.com/2024/10/02/meta-confirms-it-may-train-its-ai-on-any-image-you-ask-ray-ban-meta-ai-to-analyze](https://techcrunch.com/2024/10/02/meta-confirms-it-may-train-its-ai-on-any-image-you-ask-ray-ban-meta-ai-to-analyze)
  - date_published: 2024-10-02T20:58:07+00:00
  - tags: ['artificial intelligence', 'surveillence', 'ad business', 'privacy']
+
+ ## France: LGBT Activist Charged With Sexual Abuse of Disabled 4 Year Old
+ - [https://europeanconservative.com/articles/news/france-lgbt-activist-charged-with-sexual-abuse-of-disabled-4-year-old](https://europeanconservative.com/articles/news/france-lgbt-activist-charged-with-sexual-abuse-of-disabled-4-year-old)
+ - date_published: 2024-10-04T10:14:58+00:00
+ - tags: ['lgbt', 'paedophilia']
 
