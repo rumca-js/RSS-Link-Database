@@ -1128,3 +1128,8 @@
  - date_published: 2024-10-04T10:14:58+00:00
  - tags: ['lgbt', 'paedophilia']
 
+ ## China-linked security breach targeted U.S. wiretap systems, WSJ reports
+ - [https://www.cnbc.com/2024/10/05/china-linked-security-breach-targeted-us-wiretap-systems-wsj-reports.html](https://www.cnbc.com/2024/10/05/china-linked-security-breach-targeted-us-wiretap-systems-wsj-reports.html)
+ - date_published: 2024-10-05T16:18:11+00:00
+ - tags: ['privacy', 'surveillance']
+
