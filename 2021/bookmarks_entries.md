@@ -1765,6 +1765,11 @@
  - [https://thedissenter.org/daniel-hale-receives-harshest-sentence-ever-for-a-leak](https://thedissenter.org/daniel-hale-receives-harshest-sentence-ever-for-a-leak)
  - date_published: 2021-08-01T12:19:19.256669+00:00
 
+ ## Help make mass surveillance of entire populations uneconomical
+ - [https://prism-break.org/en](https://prism-break.org/en)
+ - date_published: 2021-08-02T07:57:09+00:00
+ - tags: ['surveillance', 'selfhost']
+
  ## New in Git: switch and restore
  - [https://www.banterly.net/2021/07/31/new-in-git-switch-and-restore](https://www.banterly.net/2021/07/31/new-in-git-switch-and-restore)
  - date_published: 2021-08-02T10:19:08.950273+00:00
@@ -2033,6 +2038,11 @@
  ## Jeremy C. Owens on Twitter: "Google has a secret initiative originally called "Project Hug" that offers app makers like Activision Blizzard special treatment in exchange for paying the 30% fee and being quiet about it. https://t.co/gq0m2tIVry" / Twitter
  - [https://twitter.com/jowens510/status/1428415192480698371](https://twitter.com/jowens510/status/1428415192480698371)
  - date_published: 2021-08-22T09:50:24.410001+00:00
+
+ ## Click Click Click
+ - [https://clickclickclick.click](https://clickclickclick.click)
+ - date_published: 2021-08-23T08:28:57+00:00
+ - tags: ['project', 'funny']
 
  ## A man spent a year in jail on a murder charge that hinged on disputed AI evidence. Now the case has been dropped • The Register
  - [https://www.theregister.com/2021/08/22/in_brief_ai](https://www.theregister.com/2021/08/22/in_brief_ai)

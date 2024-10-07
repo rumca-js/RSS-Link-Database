@@ -3443,11 +3443,6 @@
  - date_published: 2023-04-14T13:30:25+00:00
  - tags: ['right to repair']
 
- ## Sam Smith Slammed For ‘Satanic,’ Overtly Sexual Performance With No Age Restrictions
- - [https://www.dailywire.com/news/sam-smith-slammed-for-satanic-overtly-sexual-performance-with-no-age-restrictions](https://www.dailywire.com/news/sam-smith-slammed-for-satanic-overtly-sexual-performance-with-no-age-restrictions)
- - date_published: 2023-04-14T13:52:49+00:00
- - tags: ['satanism', 'sexualization']
-
  ## Netherlands to broaden euthanasia rules to cover children of all ages
  - [https://www.theguardian.com/society/2023/apr/14/netherlands-to-broaden-euthanasia-rules-to-cover-children-of-all-ages](https://www.theguardian.com/society/2023/apr/14/netherlands-to-broaden-euthanasia-rules-to-cover-children-of-all-ages)
  - date_published: 2023-04-14T15:20:50+00:00
@@ -3895,11 +3890,6 @@
  - date_published: 2023-05-01T08:37:16+00:00
  - tags: ['censorship', 'big brother', 'free speech', 'anonymity', 'government control']
 
- ## Help make mass surveillance of entire populations uneconomical
- - [https://prism-break.org/en](https://prism-break.org/en)
- - date_published: 2023-05-01T12:42:40+00:00
- - tags: ['surveillance', 'selfhost']
-
  ## Bill C-11 Becomes Law, Forcing Streamers To Support Canadian Content - MarketWatch
  - [https://www.marketwatch.com/press-release/bill-c-11-becomes-law-forcing-streamers-to-support-canadian-content-2023-05-01](https://www.marketwatch.com/press-release/bill-c-11-becomes-law-forcing-streamers-to-support-canadian-content-2023-05-01)
  - date_published: 2023-05-01T12:47:52+00:00
@@ -3984,11 +3974,6 @@
  - [https://frame.work/blog/announcing-the-framework-laptop-13-powered-by-amd-ryzen](https://frame.work/blog/announcing-the-framework-laptop-13-powered-by-amd-ryzen)
  - date_published: 2023-05-03T13:36:24+00:00
  - tags: ['framework', 'dyi']
-
- ## Pornhub cuts Utah residents’ access to its site in protest of age verification law
- - [https://www.theguardian.com/us-news/2023/may/03/pornhub-utah-age-verification-law](https://www.theguardian.com/us-news/2023/may/03/pornhub-utah-age-verification-law)
- - date_published: 2023-05-03T13:50:49+00:00
- - tags: ['pornhub', 'digital identity']
 
  ## Google, Microsoft CEOs Called to AI Meeting at White House
  - [https://www.reuters.com/technology/google-microsoft-openai-ceos-attend-white-house-ai-meeting-official-2023-05-02](https://www.reuters.com/technology/google-microsoft-openai-ceos-attend-white-house-ai-meeting-official-2023-05-02)
@@ -4090,11 +4075,6 @@
  - date_published: 2023-05-05T10:07:21+00:00
  - tags: ['immigration']
 
- ## Click Click Click
- - [https://clickclickclick.click](https://clickclickclick.click)
- - date_published: 2023-05-06T14:26:02+00:00
- - tags: ['project', 'funny']
-
  ## Ocean-surface temperatures are breaking records
  - [https://www.economist.com/graphic-detail/2023/05/05/ocean-surface-temperatures-are-breaking-records](https://www.economist.com/graphic-detail/2023/05/05/ocean-surface-temperatures-are-breaking-records)
  - date_published: 2023-05-06T14:32:53+00:00
@@ -4182,7 +4162,7 @@
 
  ## YouTube tests blocking videos unless you disable ad blockers
  - [https://www.bleepingcomputer.com/news/technology/youtube-tests-blocking-videos-unless-you-disable-ad-blockers](https://www.bleepingcomputer.com/news/technology/youtube-tests-blocking-videos-unless-you-disable-ad-blockers)
- - date_published: 2023-05-10T19:45:03+00:00
+ - date_published: 2023-05-10T19:43:39+00:00
  - tags: ['youtube', 'ad business', 'technofeudalism']
 
  ## Leak of MSI UEFI signing keys stokes fears of “doomsday” supply chain attack
@@ -4214,11 +4194,6 @@
  - [https://sorry.idont.date](https://sorry.idont.date)
  - date_published: 2023-05-12T19:13:06+00:00
  - tags: ['email server', 'selfhost']
-
- ## Outrage over WHO advice on sexuality for infants
- - [https://www.telegraph.co.uk/news/2023/05/13/outrage-over-who-advice-on-sexuality-for-infants](https://www.telegraph.co.uk/news/2023/05/13/outrage-over-who-advice-on-sexuality-for-infants)
- - date_published: 2023-05-13T08:29:08+00:00
- - tags: ['sexualization', 'children', 'who']
 
  ## Why Conscious AI Is a Bad, Bad Idea
  - [https://nautil.us/why-conscious-ai-is-a-bad-bad-idea-302937](https://nautil.us/why-conscious-ai-is-a-bad-bad-idea-302937)

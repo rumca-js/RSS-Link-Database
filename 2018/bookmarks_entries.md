@@ -283,6 +283,11 @@
  - date_published: 2018-04-17T00:00:00+00:00
  - tags: ['deepfake']
 
+ ## I was one of the first people on Facebook. I shouldn't have trusted Mark Zuckerberg | Julie Carrie Wong
+ - [https://www.theguardian.com/technology/2018/apr/17/facebook-people-first-ever-mark-zuckerberg-harvard](https://www.theguardian.com/technology/2018/apr/17/facebook-people-first-ever-mark-zuckerberg-harvard)
+ - date_published: 2018-04-17T07:01:30+00:00
+ - tags: ['facebook', 'mark zuckerberg']
+
  ## A Google update just created a big problem for anti-censorship tools
  - [https://www.theverge.com/2018/4/18/17253784/google-domain-fronting-discontinued-signal-tor-vpn](https://www.theverge.com/2018/4/18/17253784/google-domain-fronting-discontinued-signal-tor-vpn)
  - date_published: 2018-04-18T06:58:32+00:00
