@@ -3068,6 +3068,11 @@
  - date_published: 2023-03-31T00:37:41+00:00
  - tags: ['technofeudalism', 'selfhost', 'corporatocracy', 'email', 'google']
 
+ ## PWAs in App Stores
+ - [https://web.dev/pwas-in-app-stores](https://web.dev/pwas-in-app-stores)
+ - date_published: 2023-03-31T07:00:00+00:00
+ - tags: ['pwa', 'programming']
+
  ## Będzie nowy obowiązek dla firm. Chodzi o ochronę środowiska
  - [https://www.bankier.pl/wiadomosc/Bedzie-nowy-obowiazek-dla-firm-Chodzi-o-ochrone-srodowiska-8515222.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Bedzie-nowy-obowiazek-dla-firm-Chodzi-o-ochrone-srodowiska-8515222.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date_published: 2023-03-31T07:00:00+00:00
@@ -3193,11 +3198,6 @@
  - date_published: 2023-04-04T14:16:54+00:00
  - tags: ['covid', 'vaccine']
 
- ## PWAs in App Stores
- - [https://web.dev/pwas-in-app-stores](https://web.dev/pwas-in-app-stores)
- - date_published: 2023-04-05T03:50:27+00:00
- - tags: ['pwa', 'programming']
-
  ## GPT4 impersonating a FTP server at ftp.disney.com
  - [https://www.filestash.app/2023/04/01/chat-gpt-acting-as-a-ftp-server](https://www.filestash.app/2023/04/01/chat-gpt-acting-as-a-ftp-server)
  - date_published: 2023-04-05T06:54:05+00:00
@@ -3222,11 +3222,6 @@
  - [https://thewalrus.ca/ai-is-coming-for-voice-actors-artists-everywhere-should-take-note](https://thewalrus.ca/ai-is-coming-for-voice-actors-artists-everywhere-should-take-note)
  - date_published: 2023-04-05T22:37:43+00:00
  - tags: ['artificial intelligence']
-
- ## More than 150 Catholic priests in Maryland sexually abused 600 children, new report found
- - [https://www.foxnews.com/us/more-than-150-catholic-priests-maryland-sexually-abused-600-children-new-report-found](https://www.foxnews.com/us/more-than-150-catholic-priests-maryland-sexually-abused-600-children-new-report-found)
- - date_published: 2023-04-06T05:37:10+00:00
- - tags: ['america', 'catholic', 'religion', 'church scandal']
 
  ## Ontario Party Pushes Law Prohibiting Protests Near Drag Shows
  - [https://www.breitbart.com/europe/2023/04/06/ontario-party-pushes-law-banning-protests-near-drag-shows-and-2slgbtqi-events-fines-up-to-25000](https://www.breitbart.com/europe/2023/04/06/ontario-party-pushes-law-banning-protests-near-drag-shows-and-2slgbtqi-events-fines-up-to-25000)
