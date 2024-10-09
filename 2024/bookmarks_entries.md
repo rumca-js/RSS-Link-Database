@@ -1113,6 +1113,10 @@
  - date_published: 2024-09-27T00:00:00+00:00
  - tags: ['technofeudalism', 'censorship']
 
+ ## The Current State of AAA Gaming | A Casual Gamer’s Perspective - Part 1
+ - [https://www.youtube.com/watch?v=ToFqsxHMbVE](https://www.youtube.com/watch?v=ToFqsxHMbVE)
+ - date_published: 2024-09-27T00:00:00+00:00
+
  ## How Social Media is actually a Casino.
  - [https://www.youtube.com/watch?v=4maJty0vQjI](https://www.youtube.com/watch?v=4maJty0vQjI)
  - date_published: 2024-09-29T13:16:27+00:00
