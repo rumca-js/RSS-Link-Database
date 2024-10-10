@@ -1103,6 +1103,11 @@
  - date_published: 2024-09-24T18:07:54+00:00
  - tags: ['cars', 'privacy', 'surveillance']
 
+ ## Firefox tracks you with "privacy preserving" feature
+ - [https://noyb.eu/en/firefox-tracks-you-privacy-preserving-feature](https://noyb.eu/en/firefox-tracks-you-privacy-preserving-feature)
+ - date_published: 2024-09-25T05:34:55+00:00
+ - tags: ['privacy', 'surveillance', 'ad business']
+
  ## The P Diddy Situation Is Everything Wrong With Hollywood
  - [https://www.youtube.com/watch?v=BkEoG2YkU_0](https://www.youtube.com/watch?v=BkEoG2YkU_0)
  - date_published: 2024-09-26T07:36:28+00:00

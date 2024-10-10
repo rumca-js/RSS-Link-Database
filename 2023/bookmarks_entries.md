@@ -5675,6 +5675,11 @@
  - date_published: 2023-07-01T09:06:45+00:00
  - tags: ['reddit', 'twitter', 'social media']
 
+ ## I'm Gay and I Dislike the LGBT Community...
+ - [https://www.youtube.com/watch?v=WjKjCqfMrHE](https://www.youtube.com/watch?v=WjKjCqfMrHE)
+ - date_published: 2023-07-02T00:00:00+00:00
+ - tags: ['lgbt']
+
  ## GPT-Migrate converts repos from one lang/framework to another
  - [https://github.com/0xpayne/gpt-migrate](https://github.com/0xpayne/gpt-migrate)
  - date_published: 2023-07-02T03:46:33+00:00
