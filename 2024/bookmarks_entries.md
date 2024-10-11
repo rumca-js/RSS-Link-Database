@@ -1046,6 +1046,11 @@
  - date_published: 2024-08-26T12:51:36+00:00
  - tags: ['privacy', 'surveillance', 'cox media group', 'ad business']
 
+ ## Zuckerberg regrets bowing to Biden 'pressure' over Covid
+ - [https://www.bbc.com/news/articles/czxlpjlgdzjo](https://www.bbc.com/news/articles/czxlpjlgdzjo)
+ - date_published: 2024-08-27T09:52:08+00:00
+ - tags: ['mark zuckerberg', 'facebook', 'covid']
+
  ## Teachers will be trained to challenge ‘whiteness’ in schools
  - [https://www.telegraph.co.uk/news/2024/08/25/teachers-taught-to-challenge-whiteness-in-schools](https://www.telegraph.co.uk/news/2024/08/25/teachers-taught-to-challenge-whiteness-in-schools)
  - date_published: 2024-08-27T21:13:15+00:00
@@ -1141,4 +1146,9 @@
  - [https://www.cnbc.com/2024/10/05/china-linked-security-breach-targeted-us-wiretap-systems-wsj-reports.html](https://www.cnbc.com/2024/10/05/china-linked-security-breach-targeted-us-wiretap-systems-wsj-reports.html)
  - date_published: 2024-10-05T16:18:11+00:00
  - tags: ['privacy', 'surveillance']
+
+ ## How smart TVs spy on you and harvest data
+ - [https://www.theregister.com/2024/10/09/smart_tv_spy_on_viewers](https://www.theregister.com/2024/10/09/smart_tv_spy_on_viewers)
+ - date_published: 2024-10-11T06:45:59+00:00
+ - tags: ['ad business', 'surveillance', 'privacy']
 

@@ -138,6 +138,11 @@
  - date_published: 2016-05-23T00:00:00+00:00
  - tags: ['music', 'chiptune']
 
+ ## Mark Zuckerberg to tear down and rebuild four houses surrounding his home
+ - [https://money.cnn.com/2016/05/25/technology/mark-zuckerberg-palo-alto-house/index.html](https://money.cnn.com/2016/05/25/technology/mark-zuckerberg-palo-alto-house/index.html)
+ - date_published: 2016-05-25T11:24:52+00:00
+ - tags: ['mark zuckerberg', 'privacy']
+
  ## 'Windows 10 nagware: You can't click X. Make a date OR ELSE' • The Register
  - [https://www.theregister.com/2016/06/01/windows_10_nagware_no_way_out](https://www.theregister.com/2016/06/01/windows_10_nagware_no_way_out)
  - date_published: 2016-06-01T08:40:45+00:00
@@ -177,6 +182,11 @@
  - [https://boingboing.net/2016/06/15/intel-x86-processors-ship-with.html](https://boingboing.net/2016/06/15/intel-x86-processors-ship-with.html)
  - date_published: 2016-06-15T14:49:12+00:00
  - tags: ['tracking', 'surveillance', 'intel management engine']
+
+ ## Mark Zuckerberg Covers His Webcam With Tape. You Should, Too.
+ - [https://slate.com/technology/2016/06/mark-zuckerberg-covers-his-webcam-with-tape-but-he-shouldn-t-have-to.html](https://slate.com/technology/2016/06/mark-zuckerberg-covers-his-webcam-with-tape-but-he-shouldn-t-have-to.html)
+ - date_published: 2016-06-22T20:02:23+00:00
+ - tags: ['mark zuckerberg', 'privacy', 'surveillance']
 
  ## Does capitalism need some Marxism to survive the Fourth Industrial Revolution? | World Economic Forum
  - [https://www.weforum.org/agenda/2016/06/could-capitalism-need-some-marxism-to-survive-the-4th-industrial-revolution](https://www.weforum.org/agenda/2016/06/could-capitalism-need-some-marxism-to-survive-the-4th-industrial-revolution)

@@ -38,6 +38,11 @@
  - date_published: 2011-06-06T20:34:27+00:00
  - tags: ['billionaires', 'bunga bunga', 'silvio berlusconi', 'politicians']
 
+ ## Card Designer: The Inspiration For Zuckerberg's "I'm CEO, Bitch"? Steve Jobs. | TechCrunch
+ - [https://techcrunch.com/2011/06/25/im-ceo-bitch](https://techcrunch.com/2011/06/25/im-ceo-bitch)
+ - date_published: 2011-06-25T21:14:10+00:00
+ - tags: ['mark zuckerberg']
+
  ## Na czym polegał rytuał "bunga-bunga"?
  - [https://wiadomosci.wp.pl/na-czym-polegal-rytual-bunga-bunga-6037856224035969a](https://wiadomosci.wp.pl/na-czym-polegal-rytual-bunga-bunga-6037856224035969a)
  - date_published: 2011-06-28T20:31:16+00:00

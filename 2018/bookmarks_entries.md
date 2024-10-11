@@ -228,6 +228,11 @@
  - date_published: 2018-04-04T20:16:37+00:00
  - tags: ['gun control']
 
+ ## How Mark Zuckerberg Protects His Own Privacy Online
+ - [https://slate.com/technology/2018/04/how-mark-zuckerberg-protects-his-own-privacy-online.html](https://slate.com/technology/2018/04/how-mark-zuckerberg-protects-his-own-privacy-online.html)
+ - date_published: 2018-04-05T16:42:23+00:00
+ - tags: ['privacy', 'mark zuckerberg']
+
  ## Meet Aladdin, the computer "more powerful than traditional politics"
  - [https://www.newstatesman.com/politics/business-and-finance/2018/04/meet-aladdin-computer-more-powerful-traditional-politics](https://www.newstatesman.com/politics/business-and-finance/2018/04/meet-aladdin-computer-more-powerful-traditional-politics)
  - date_published: 2018-04-06T22:12:40+00:00
@@ -693,6 +698,11 @@
  - [https://www.axios.com/2018/11/19/tim-cook-interview-apple-google-axios-on-hbo](https://www.axios.com/2018/11/19/tim-cook-interview-apple-google-axios-on-hbo)
  - date_published: 2018-11-19T13:29:07+00:00
  - tags: ['apple', 'manufacturing consent', 'google']
+
+ ## Mark Zuckerberg Has Never Cared About Your Privacy
+ - [https://www.vanityfair.com/news/2018/11/mark-zuckerberg-has-never-cared-about-your-privacy](https://www.vanityfair.com/news/2018/11/mark-zuckerberg-has-never-cared-about-your-privacy)
+ - date_published: 2018-11-20T23:58:15+00:00
+ - tags: ['big tech', 'facebook', 'mark zuckerberg', 'privacy']
 
  ## Google Shows Personalized Search Results When Logged Out, According to New Study
  - [https://www.searchenginejournal.com/google-shows-personalized-search-results-when-logged-out-according-to-new-study/281329](https://www.searchenginejournal.com/google-shows-personalized-search-results-when-logged-out-according-to-new-study/281329)
