@@ -9758,6 +9758,11 @@
  - date_published: 2022-12-23T06:58:30+00:00
  - tags: ['spain', 'the left wing', 'transgender']
 
+ ## DuckDuckGo now blocks Google sign-in pop-ups on all sites
+ - [https://www.bleepingcomputer.com/news/security/duckduckgo-now-blocks-google-sign-in-pop-ups-on-all-sites](https://www.bleepingcomputer.com/news/security/duckduckgo-now-blocks-google-sign-in-pop-ups-on-all-sites)
+ - date_published: 2022-12-23T07:02:43+00:00
+ - tags: ['google', 'duckduckgo', 'tracking', 'privacy']
+
  ## Zanim kupisz samochód elektryczny, przejedź się nim zimą. Wpis spod ładowarki
  - [https://spidersweb.pl/autoblog/samochod-elektryczny-zima-ladowanie](https://spidersweb.pl/autoblog/samochod-elektryczny-zima-ladowanie)
  - date_published: 2022-12-23T07:49:53+00:00
@@ -9846,11 +9851,6 @@
  - [https://www.cnn.com/2022/12/25/asia/china-covid-cases-publishing-nhc-intl/index.html](https://www.cnn.com/2022/12/25/asia/china-covid-cases-publishing-nhc-intl/index.html)
  - date_published: 2022-12-25T14:44:44+00:00
  - tags: ['covid zero', 'covid', 'china']
-
- ## DuckDuckGo now blocks Google sign-in pop-ups on all sites
- - [https://www.bleepingcomputer.com/news/security/duckduckgo-now-blocks-google-sign-in-pop-ups-on-all-sites](https://www.bleepingcomputer.com/news/security/duckduckgo-now-blocks-google-sign-in-pop-ups-on-all-sites)
- - date_published: 2022-12-25T14:50:00+00:00
- - tags: ['google', 'duckduckgo', 'tracking', 'privacy']
 
  ## The FBI won’t name other social media companies it pays
  - [https://reclaimthenet.org/the-fbi-wont-name-other-social-media-companies-it-pays](https://reclaimthenet.org/the-fbi-wont-name-other-social-media-companies-it-pays)
@@ -9997,6 +9997,11 @@
  - date_published: 2022-12-28T16:47:56+00:00
  - tags: ['twitter', 'moderation', 'censorship', 'free speech', 'mastodon']
 
+ ## Hackers abuse Google Ads to spread malware in legit software
+ - [https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-to-spread-malware-in-legit-software](https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-to-spread-malware-in-legit-software)
+ - date_published: 2022-12-29T07:12:00+00:00
+ - tags: ['google', 'ad business', 'malware', 'hackers']
+
  ## ESG Is Not About Ethical Standards And Ethical Values
  - [https://www.forbes.com/sites/bobeccles/2022/12/29/esg-is-not-about-ethical-standards-and-ethical-values](https://www.forbes.com/sites/bobeccles/2022/12/29/esg-is-not-about-ethical-standards-and-ethical-values)
  - date_published: 2022-12-29T07:16:59+00:00
@@ -10046,11 +10051,6 @@
  - [https://dziennikbaltycki.pl/sledczy-pracuja-na-terenie-dawnej-zatoki-sztuki-co-przez-lata-dzialo-sie-w-murach-tego-budynku/ar/c1-17161655](https://dziennikbaltycki.pl/sledczy-pracuja-na-terenie-dawnej-zatoki-sztuki-co-przez-lata-dzialo-sie-w-murach-tego-budynku/ar/c1-17161655)
  - date_published: 2022-12-29T21:15:24+00:00
  - tags: ['elites', 'paedophilia', 'zatoka sztuki']
-
- ## Hackers abuse Google Ads to spread malware in legit software
- - [https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-to-spread-malware-in-legit-software](https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-to-spread-malware-in-legit-software)
- - date_published: 2022-12-30T05:00:00+00:00
- - tags: ['google', 'ad business', 'malware', 'hackers']
 
  ## Jonathan Haidt on the ‘National Crisis’ of Gen Z
  - [https://www.wsj.com/articles/the-national-crisis-of-generation-z-jonathan-haidt-social-media-performance-anxiety-fragility-gap-childhood-11672401345](https://www.wsj.com/articles/the-national-crisis-of-generation-z-jonathan-haidt-social-media-performance-anxiety-fragility-gap-childhood-11672401345)

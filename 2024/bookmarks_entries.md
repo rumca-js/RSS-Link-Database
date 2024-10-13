@@ -1147,8 +1147,18 @@
  - date_published: 2024-10-05T16:18:11+00:00
  - tags: ['privacy', 'surveillance']
 
+ ## UK firm GSK to pay $2.2bn over Zantac cancer claims
+ - [https://www.bbc.com/news/articles/c62r5nn94d7o](https://www.bbc.com/news/articles/c62r5nn94d7o)
+ - date_published: 2024-10-10T03:56:41+00:00
+ - tags: ['cancer']
+
  ## How smart TVs spy on you and harvest data
  - [https://www.theregister.com/2024/10/09/smart_tv_spy_on_viewers](https://www.theregister.com/2024/10/09/smart_tv_spy_on_viewers)
  - date_published: 2024-10-11T06:45:59+00:00
  - tags: ['ad business', 'surveillance', 'privacy']
+
+ ## Why Google Search is Falling Apart.
+ - [https://www.youtube.com/watch?v=uSGVk2KVokQ](https://www.youtube.com/watch?v=uSGVk2KVokQ)
+ - date_published: 2024-10-12T11:47:29+00:00
+ - tags: ['search engines']
 
