@@ -8332,6 +8332,11 @@
  - date_published: 2022-11-27T07:00:14+00:00
  - tags: ['covid zero', 'covid']
 
+ ## 5.4 million Twitter users' stolen data leaked online — more shared privately
+ - [https://www.codeproject.com/script/News/View.aspx?nwid=59656](https://www.codeproject.com/script/News/View.aspx?nwid=59656)
+ - date_published: 2022-11-27T18:38:19+00:00
+ - tags: ['privacy', 'data leak']
+
  ## Florida AG says it’s ‘not rocket science’ why so many Americans are flocking to Sunshine State
  - [https://www.foxnews.com/politics/florida-ag-not-rocket-science-why-americans-flocking-sunshine-state](https://www.foxnews.com/politics/florida-ag-not-rocket-science-why-americans-flocking-sunshine-state)
  - date_published: 2022-11-27T18:44:55+00:00
@@ -8385,11 +8390,6 @@
  - [https://www.wsj.com/articles/apple-has-no-easy-road-out-of-china-11669661578?mod=rss_Technology](https://www.wsj.com/articles/apple-has-no-easy-road-out-of-china-11669661578?mod=rss_Technology)
  - date_published: 2022-11-29T04:02:00+00:00
  - tags: ['china', 'apple']
-
- ## 5.4 million Twitter users' stolen data leaked online — more shared privately
- - [https://www.codeproject.com/script/News/View.aspx?nwid=59656](https://www.codeproject.com/script/News/View.aspx?nwid=59656)
- - date_published: 2022-11-29T05:00:00+00:00
- - tags: ['privacy', 'data leak']
 
  ## Online Safety Bill changes: End-to-end encryption fears remain
  - [https://techmonitor.ai/policy/online-safety-bill-changes-end-to-end-encryption](https://techmonitor.ai/policy/online-safety-bill-changes-end-to-end-encryption)
@@ -8549,6 +8549,11 @@
  - date_published: 2022-12-02T10:25:16+00:00
  - tags: ['smartphone', 'digital']
 
+ ## China Mandates Social Credit System for Social Media, Will Track “Likes” on “Harmful” Content
+ - [https://www.activistpost.com/2022/12/china-mandates-social-credit-system-for-social-media-will-track-likes-on-harmful-content.html](https://www.activistpost.com/2022/12/china-mandates-social-credit-system-for-social-media-will-track-likes-on-harmful-content.html)
+ - date_published: 2022-12-02T11:17:25+00:00
+ - tags: ['china', 'social credit', 'surveillance', 'social media']
+
  ## The reasons search seems to be getting worse
  - [https://seths.blog/2022/12/the-reasons-search-is-getting-worse](https://seths.blog/2022/12/the-reasons-search-is-getting-worse)
  - date_published: 2022-12-02T14:33:55+00:00
@@ -8618,11 +8623,6 @@
  - [http://www.msn.com/en-us/news/world/fauci-suggested-fbi-be-warned-about-possible-lab-leak-before-he-dismissed-hypothesis/ar-AA14SMEq?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/fauci-suggested-fbi-be-warned-about-possible-lab-leak-before-he-dismissed-hypothesis/ar-AA14SMEq?li=BBnbcA1&srcref=rss)
  - date_published: 2022-12-04T08:02:07.377169+00:00
  - tags: ['anthony fauci', 'lab leak', 'wuhan']
-
- ## China Mandates Social Credit System for Social Media, Will Track “Likes” on “Harmful” Content
- - [https://www.activistpost.com/2022/12/china-mandates-social-credit-system-for-social-media-will-track-likes-on-harmful-content.html](https://www.activistpost.com/2022/12/china-mandates-social-credit-system-for-social-media-will-track-likes-on-harmful-content.html)
- - date_published: 2022-12-04T08:36:38+00:00
- - tags: ['china', 'social credit', 'surveillance', 'social media']
 
  ## Thread: THE TWITTER FILES
  - [https://threadreaderapp.com/thread/1598822959866683394](https://threadreaderapp.com/thread/1598822959866683394)
