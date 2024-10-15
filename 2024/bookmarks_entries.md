@@ -1162,3 +1162,8 @@
  - date_published: 2024-10-12T11:47:29+00:00
  - tags: ['search engines']
 
+ ## The Age of PageRank Is Over
+ - [https://blog.kagi.com/age-pagerank-over](https://blog.kagi.com/age-pagerank-over)
+ - date_published: 2024-10-14T04:38:16+00:00
+ - tags: ['search engines']
+

@@ -7012,6 +7012,11 @@
  - date_published: 2022-10-27T23:12:50+00:00
  - tags: ['electric vehicles', 'climate change']
 
+ ## Hackers use Microsoft IIS web server logs to control malware
+ - [https://www.codeproject.com/script/News/View.aspx?nwid=59348](https://www.codeproject.com/script/News/View.aspx?nwid=59348)
+ - date_published: 2022-10-27T23:27:03+00:00
+ - tags: ['vulnerability', 'hackers']
+
  ## Foreign investors are pulling out quickly: China's economy is looking bleak/A major purge is coming
  - [https://www.youtube.com/watch?v=M7DRDIwHa0E](https://www.youtube.com/watch?v=M7DRDIwHa0E)
  - date_published: 2022-10-28T01:15:08+00:00
@@ -7219,11 +7224,6 @@
  - [https://www.forbes.com/sites/cindygordon/2022/10/30/employee-happiness-is-a-leading-indicator-of-profitability-and-productivity](https://www.forbes.com/sites/cindygordon/2022/10/30/employee-happiness-is-a-leading-indicator-of-profitability-and-productivity)
  - date_published: 2022-10-30T22:16:43+00:00
  - tags: ['work']
-
- ## Hackers use Microsoft IIS web server logs to control malware
- - [https://www.codeproject.com/script/News/View.aspx?nwid=59348](https://www.codeproject.com/script/News/View.aspx?nwid=59348)
- - date_published: 2022-10-31T04:00:00+00:00
- - tags: ['vulnerability', 'hackers']
 
  ## Five Good Things About RISC-V
  - [https://codasip.com/2022/09/22/5-good-things-about-risc-v](https://codasip.com/2022/09/22/5-good-things-about-risc-v)
@@ -7597,6 +7597,11 @@
  - date_published: 2022-11-04T18:01:52+00:00
  - tags: ['school', 'pronouns', 'gender', 'newspeak', 'the left wing']
 
+ ## Microsoft sued for open-source piracy through GitHub Copilot
+ - [https://www.bleepingcomputer.com/news/security/microsoft-sued-for-open-source-piracy-through-github-copilot](https://www.bleepingcomputer.com/news/security/microsoft-sued-for-open-source-piracy-through-github-copilot)
+ - date_published: 2022-11-04T18:37:29+00:00
+ - tags: ['open source', 'microsoft', 'law']
+
  ## Intel's pay-as-you-go CPU platform finally has a name, but is still shrouded in secrecy
  - [https://www.techradar.com/news/intels-pay-as-you-go-cpu-platform-finally-has-a-name-but-is-still-shrouded-in-secrecy](https://www.techradar.com/news/intels-pay-as-you-go-cpu-platform-finally-has-a-name-but-is-still-shrouded-in-secrecy)
  - date_published: 2022-11-04T20:25:21+00:00
@@ -7635,11 +7640,6 @@
  - [https://www.youtube.com/watch?v=lutHkJoBjrM](https://www.youtube.com/watch?v=lutHkJoBjrM)
  - date_published: 2022-11-05T19:45:08+00:00
  - tags: ['china', 'socialism']
-
- ## Microsoft sued for open-source piracy through GitHub Copilot
- - [https://www.bleepingcomputer.com/news/security/microsoft-sued-for-open-source-piracy-through-github-copilot](https://www.bleepingcomputer.com/news/security/microsoft-sued-for-open-source-piracy-through-github-copilot)
- - date_published: 2022-11-05T20:49:50+00:00
- - tags: ['open source', 'microsoft', 'law']
 
  ## 3D OpenStreetMap
  - [https://demo.f4map.com](https://demo.f4map.com)
