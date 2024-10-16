@@ -2508,6 +2508,11 @@
  - date_published: 2022-06-03T14:04:31+00:00
  - tags: ['marriage', 'religion', 'religion knowledge', 'hedonism']
 
+ ## The Cult of Dd
+ - [https://eklitzke.org/the-cult-of-dd](https://eklitzke.org/the-cult-of-dd)
+ - date_published: 2022-06-04T04:47:22+00:00
+ - tags: ['linux', 'scripts']
+
  ## Dangerous Gift
  - [https://www.tbray.org/ongoing/When/202x/2022/06/02/Dangerous-Gift](https://www.tbray.org/ongoing/When/202x/2022/06/02/Dangerous-Gift)
  - date_published: 2022-06-04T08:39:45+00:00
@@ -6061,6 +6066,11 @@
  - date_published: 2022-10-10T23:31:37+00:00
  - tags: ['science', 'science is dead', 'dogma']
 
+ ## SIM card registration law signed amid privacy concerns | Inquirer News
+ - [https://newsinfo.inquirer.net/1678018/sim-card-registration-law-signed-amid-privacy-concerns](https://newsinfo.inquirer.net/1678018/sim-card-registration-law-signed-amid-privacy-concerns)
+ - date_published: 2022-10-11T04:10:13+00:00
+ - tags: ['smartphone', 'privacy', 'philippines', 'sim']
+
  ## PayPal CEO’s Interview With World Economic Forum Could Suggest Mentality Behind Backtracked ‘Misinformation’ Penalty
  - [https://www.dailywire.com/news/paypal-ceos-interview-with-world-economic-forum-could-suggest-mentality-behind-backtracked-misinformation-penalty](https://www.dailywire.com/news/paypal-ceos-interview-with-world-economic-forum-could-suggest-mentality-behind-backtracked-misinformation-penalty)
  - date_published: 2022-10-11T11:34:10+00:00
@@ -6098,11 +6108,6 @@
  - [https://www.theverge.com/2022/10/11/23399168/mark-zuckerberg-meta-metaverse-apple-vr-open-closed-ecosystem](https://www.theverge.com/2022/10/11/23399168/mark-zuckerberg-meta-metaverse-apple-vr-open-closed-ecosystem)
  - date_published: 2022-10-11T20:02:47+00:00
  - tags: ['apple', 'corporatocracy', 'monopoly', 'mark zuckerberg', 'facebook']
-
- ## SIM card registration law signed amid privacy concerns | Inquirer News
- - [https://newsinfo.inquirer.net/1678018/sim-card-registration-law-signed-amid-privacy-concerns](https://newsinfo.inquirer.net/1678018/sim-card-registration-law-signed-amid-privacy-concerns)
- - date_published: 2022-10-11T21:40:07+00:00
- - tags: ['smartphone', 'privacy', 'philippines', 'sim']
 
  ## Dr. Phil speaks out on the dangers of cancel culture and censorship
  - [https://www.foxnews.com/media/dr-phil-speaks-dangers-cancel-culture-censorship](https://www.foxnews.com/media/dr-phil-speaks-dangers-cancel-culture-censorship)
@@ -6688,11 +6693,6 @@
  - [https://www.dailywire.com/news/the-truth-matters-matt-walsh-speaks-at-uw-madison](https://www.dailywire.com/news/the-truth-matters-matt-walsh-speaks-at-uw-madison)
  - date_published: 2022-10-25T00:02:01+00:00
 
- ## The Cult of Dd
- - [https://eklitzke.org/the-cult-of-dd](https://eklitzke.org/the-cult-of-dd)
- - date_published: 2022-10-25T00:44:03+00:00
- - tags: ['linux', 'scripts']
-
  ## Ivermectin — a drug once touted as a Covid treatment by conservatives — doesn't improve recovery much, clinical trial finds
  - [https://www.reddit.com/r/news/comments/ycs5nk/ivermectin_a_drug_once_touted_as_a_covid](https://www.reddit.com/r/news/comments/ycs5nk/ivermectin_a_drug_once_touted_as_a_covid)
  - date_published: 2022-10-25T01:17:55+00:00
@@ -6826,6 +6826,11 @@
  - [https://wydarzenia.interia.pl/zagranica/news-usa-demokraci-chcieli-negocjacji-z-rosja-kontrowersyjny-list,nId,6371667](https://wydarzenia.interia.pl/zagranica/news-usa-demokraci-chcieli-negocjacji-z-rosja-kontrowersyjny-list,nId,6371667)
  - date_published: 2022-10-26T07:53:57+00:00
 
+ ## US Citizens Were Given Secret Covid “decree violation” Scores
+ - [https://www.activistpost.com/2022/10/us-citizens-were-given-secret-covid-decree-violation-scores.html](https://www.activistpost.com/2022/10/us-citizens-were-given-secret-covid-decree-violation-scores.html)
+ - date_published: 2022-10-26T08:40:21+00:00
+ - tags: ['big brother', 'privacy', 'tracking', 'big tech', 'social score', 'surveillance', 'covid']
+
  ## Chinese stock markets plunge as Xi Jinping begins third term as leader
  - [https://www.dailymail.co.uk/news/article-11356255/Chinese-stock-markets-plunge-Xi-Jinping-begins-term-leader.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11356255/Chinese-stock-markets-plunge-Xi-Jinping-begins-term-leader.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date_published: 2022-10-26T11:21:48+00:00
@@ -6946,11 +6951,6 @@
  - [https://www.dailymail.co.uk/news/article-11360651/Facebook-photo-sparks-NSW-ambulance-diversity-probe.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11360651/Facebook-photo-sparks-NSW-ambulance-diversity-probe.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date_published: 2022-10-27T11:22:52+00:00
  - tags: ['medicine', 'facebook', 'diversity', 'privacy', 'sjw']
-
- ## US Citizens Were Given Secret Covid “decree violation” Scores
- - [https://www.activistpost.com/2022/10/us-citizens-were-given-secret-covid-decree-violation-scores.html](https://www.activistpost.com/2022/10/us-citizens-were-given-secret-covid-decree-violation-scores.html)
- - date_published: 2022-10-27T12:14:56+00:00
- - tags: ['big brother', 'privacy', 'tracking', 'big tech', 'social score', 'surveillance', 'covid']
 
  ## Google Kills Chrome For Millions Of Windows Users
  - [https://www.forbes.com/sites/gordonkelly/2022/10/27/google-chrome-browser-windows-support-new-end-date](https://www.forbes.com/sites/gordonkelly/2022/10/27/google-chrome-browser-windows-support-new-end-date)

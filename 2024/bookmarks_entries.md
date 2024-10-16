@@ -1167,3 +1167,8 @@
  - date_published: 2024-10-14T04:38:16+00:00
  - tags: ['search engines']
 
+ ## Tattooed, pink-haired DEI trainer gets boss at Oregon forestry service put on leave for hiring based on merit instead of gender identity
+ - [https://nypost.com/2024/10/14/us-news/top-oregon-official-put-on-leave-for-allegedly-prioritizing-qualified-job-candidates-over-gender-identity](https://nypost.com/2024/10/14/us-news/top-oregon-official-put-on-leave-for-allegedly-prioritizing-qualified-job-candidates-over-gender-identity)
+ - date_published: 2024-10-14T10:25:08+00:00
+ - tags: ['dei']
+
