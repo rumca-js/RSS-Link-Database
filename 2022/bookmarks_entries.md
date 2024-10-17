@@ -4823,6 +4823,10 @@
  - date_published: 2022-09-17T21:44:15+00:00
  - tags: ['climate change', 'science is dead', 'bigoil']
 
+ ## Google, Microsoft can get your passwords via web browser's spellcheck
+ - [https://www.codeproject.com/script/News/View.aspx?nwid=58927](https://www.codeproject.com/script/News/View.aspx?nwid=58927)
+ - date_published: 2022-09-17T22:21:45+00:00
+
  ## Krystyna Janda prosi w sieci o pieniądze. Internet zapłonął, wypomniano...
  - [https://www.wykop.pl/link/6821639/krystyna-janda-prosi-w-sieci-o-pieniadze-internet-zaplonal-wypomniano](https://www.wykop.pl/link/6821639/krystyna-janda-prosi-w-sieci-o-pieniadze-internet-zaplonal-wypomniano)
  - date_published: 2022-09-17T22:29:01+00:00
@@ -4871,10 +4875,6 @@
  - [https://www.youtube.com/watch?v=8KWCLhHrblE](https://www.youtube.com/watch?v=8KWCLhHrblE)
  - date_published: 2022-09-19T00:00:00+00:00
  - tags: ['google', 'manifest v3', 'ad business', 'corporatocracy']
-
- ## Google, Microsoft can get your passwords via web browser's spellcheck
- - [https://www.codeproject.com/script/News/View.aspx?nwid=58927](https://www.codeproject.com/script/News/View.aspx?nwid=58927)
- - date_published: 2022-09-19T04:00:00+00:00
 
  ## Google removed our website from search because it uses YouTube-dl
  - [https://www.kapwing.com/blog/google-erased-our-website](https://www.kapwing.com/blog/google-erased-our-website)
