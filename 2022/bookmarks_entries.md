@@ -3371,10 +3371,6 @@
  - [https://www.forbes.com/sites/emilybaker-white/2022/08/08/facebook-abortion-teen-dms/?sh=345381de579c](https://www.forbes.com/sites/emilybaker-white/2022/08/08/facebook-abortion-teen-dms/?sh=345381de579c)
  - date_published: 2022-08-10T11:36:02.207088+00:00
 
- ## The Story of Mel
- - [https://www.cs.utah.edu/~elb/folklore/mel.html](https://www.cs.utah.edu/~elb/folklore/mel.html)
- - date_published: 2022-08-10T13:08:53+00:00
-
  ## The little ssh that (sometimes) couldn't | Mina Naguib
  - [https://mina.naguib.ca/blog/2012/10/22/the-little-ssh-that-sometimes-couldnt.html](https://mina.naguib.ca/blog/2012/10/22/the-little-ssh-that-sometimes-couldnt.html)
  - date_published: 2022-08-10T23:04:26.999772+00:00
@@ -3868,15 +3864,15 @@
  - [https://blog.tjcx.me/p/why-is-webmd-so-awful?triedSigningIn=true](https://blog.tjcx.me/p/why-is-webmd-so-awful?triedSigningIn=true)
  - date_published: 2022-08-31T17:22:02.165171+00:00
 
+ ## AdGuard’s new ad blocker struggles with Google’s Manifest v3 rules
+ - [https://www.bleepingcomputer.com/news/security/adguard-s-new-ad-blocker-struggles-with-google-s-manifest-v3-rules](https://www.bleepingcomputer.com/news/security/adguard-s-new-ad-blocker-struggles-with-google-s-manifest-v3-rules)
+ - date_published: 2022-08-31T17:52:20+00:00
+ - tags: ['ad business', 'manifest v3']
+
  ## Niemieccy rolnicy mają dość. Protestowali przeciwko polityce klimatycznej UE - Money.pl
  - [https://www.money.pl/gospodarka/niemieccy-rolnicy-maja-dosc-protestowali-przeciwko-polityce-klimatycznej-ue-6807430977067520a.html](https://www.money.pl/gospodarka/niemieccy-rolnicy-maja-dosc-protestowali-przeciwko-polityce-klimatycznej-ue-6807430977067520a.html)
  - date_published: 2022-08-31T20:53:45+00:00
  - tags: ['agriculture', 'germany']
-
- ## AdGuard’s new ad blocker struggles with Google’s Manifest v3 rules
- - [https://www.bleepingcomputer.com/news/security/adguard-s-new-ad-blocker-struggles-with-google-s-manifest-v3-rules](https://www.bleepingcomputer.com/news/security/adguard-s-new-ad-blocker-struggles-with-google-s-manifest-v3-rules)
- - date_published: 2022-09-01T09:11:14.792742+00:00
- - tags: ['ad business', 'manifest v3']
 
  ## Things not available when someone blocks all cookies
  - [https://blog.tomayac.com/2022/08/30/things-not-available-when-someone-blocks-all-cookies](https://blog.tomayac.com/2022/08/30/things-not-available-when-someone-blocks-all-cookies)
