@@ -1152,6 +1152,11 @@
  - date_published: 2024-10-10T03:56:41+00:00
  - tags: ['cancer']
 
+ ## Pluralistic: Cars bricked by bankrupt EV company will stay bricked (10 Oct 2024)
+ - [https://pluralistic.net/2024/10/10/software-based-car](https://pluralistic.net/2024/10/10/software-based-car)
+ - date_published: 2024-10-10T18:58:17+00:00
+ - tags: ['technofeudalism', 'subscriptions']
+
  ## How smart TVs spy on you and harvest data
  - [https://www.theregister.com/2024/10/09/smart_tv_spy_on_viewers](https://www.theregister.com/2024/10/09/smart_tv_spy_on_viewers)
  - date_published: 2024-10-11T06:45:59+00:00

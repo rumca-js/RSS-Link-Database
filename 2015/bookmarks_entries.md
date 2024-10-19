@@ -63,6 +63,10 @@
  - date_published: 2015-01-22T19:55:29+00:00
  - tags: ['elites', 'jeffrey epstein', 'billionairs']
 
+ ## a brief history of one line fixes
+ - [https://flak.tedunangst.com/post/a-brief-history-of-one-line-fixes](https://flak.tedunangst.com/post/a-brief-history-of-one-line-fixes)
+ - date_published: 2015-02-03T21:58:32+00:00
+
  ## The World's Email Encryption Software Relies on One Guy, Who is Going Broke — ProPublica
  - [https://www.propublica.org/article/the-worlds-email-encryption-software-relies-on-one-guy-who-is-going-broke](https://www.propublica.org/article/the-worlds-email-encryption-software-relies-on-one-guy-who-is-going-broke)
  - date_published: 2015-02-05T12:02:20+00:00

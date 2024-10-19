@@ -2577,10 +2577,6 @@
  - [https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer](https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer)
  - date_published: 2022-06-06T17:38:05.436352+00:00
 
- ## Abigail Shrier’s Irreversible Damage: A Wealth of Irreversible Misinformation | Science-Based Medicine
- - [https://sciencebasedmedicine.org/abigail-shriers-irreversible-damage-a-wealth-of-irreversible-misinformation](https://sciencebasedmedicine.org/abigail-shriers-irreversible-damage-a-wealth-of-irreversible-misinformation)
- - date_published: 2022-06-06T20:10:24.128626+00:00
-
  ## I wrote a Brainfuck to Go compiler · Kabir Goel
  - [https://kabirgoel.com/p/walnut#user-content-fnref-1=](https://kabirgoel.com/p/walnut#user-content-fnref-1=)
  - date_published: 2022-06-07T08:47:51.561304+00:00
@@ -2754,10 +2750,6 @@
  ## Crafting Interpreters: A Review
  - [https://chidiwilliams.com/post/crafting-interpreters-a-review](https://chidiwilliams.com/post/crafting-interpreters-a-review)
  - date_published: 2022-06-23T07:14:08.784166+00:00
-
- ## a brief history of one line fixes
- - [https://flak.tedunangst.com/post/a-brief-history-of-one-line-fixes](https://flak.tedunangst.com/post/a-brief-history-of-one-line-fixes)
- - date_published: 2022-06-23T10:37:23.881125+00:00
 
  ## Hardening the Registers: A Cascading Failure of Edge Induced Fault Tolerance
  - [https://tech.target.com/blog/hardening-the-registers](https://tech.target.com/blog/hardening-the-registers)

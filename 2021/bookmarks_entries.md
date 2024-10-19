@@ -1524,6 +1524,10 @@
  - date_published: 2021-07-18T14:15:49+00:00
  - tags: ['black lives matter', 'blm', 'mccloskey']
 
+ ## Abigail Shrier’s Irreversible Damage: A Wealth of Irreversible Misinformation | Science-Based Medicine
+ - [https://sciencebasedmedicine.org/abigail-shriers-irreversible-damage-a-wealth-of-irreversible-misinformation](https://sciencebasedmedicine.org/abigail-shriers-irreversible-damage-a-wealth-of-irreversible-misinformation)
+ - date_published: 2021-07-18T16:08:30+00:00
+
  ## Inserting One Billion Rows in SQLite Under A Minute - blag
  - [https://avi.im/blag/2021/fast-sqlite-inserts](https://avi.im/blag/2021/fast-sqlite-inserts)
  - date_published: 2021-07-18T21:38:57+00:00
