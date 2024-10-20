@@ -1600,6 +1600,10 @@
  - date_published: 2022-04-04T21:18:38+00:00
  - tags: ['hypocrisy', 'blm', 'black lives matter']
 
+ ## GitHub can now auto-block commits containing API keys, auth tokens
+ - [https://www.bleepingcomputer.com/news/security/github-can-now-auto-block-commits-containing-api-keys-auth-tokens](https://www.bleepingcomputer.com/news/security/github-can-now-auto-block-commits-containing-api-keys-auth-tokens)
+ - date_published: 2022-04-04T23:19:21+00:00
+
  ## Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Naturally Acquired Immunity versus Vaccine-induced Immunity, Reinfections versus Breakthrough Infections: A Retrospective Cohort Study | Clinical Infectious Diseases | Oxford Academic
  - [https://academic.oup.com/cid/article/75/1/e545/6563799](https://academic.oup.com/cid/article/75/1/e545/6563799)
  - date_published: 2022-04-05T05:10:27+00:00
@@ -1629,10 +1633,6 @@
  ## Breaking PCBs for Science - News - SparkFun Electronics
  - [https://www.sparkfun.com/news/4400](https://www.sparkfun.com/news/4400)
  - date_published: 2022-04-06T15:41:04.145044+00:00
-
- ## GitHub can now auto-block commits containing API keys, auth tokens
- - [https://www.bleepingcomputer.com/news/security/github-can-now-auto-block-commits-containing-api-keys-auth-tokens](https://www.bleepingcomputer.com/news/security/github-can-now-auto-block-commits-containing-api-keys-auth-tokens)
- - date_published: 2022-04-06T15:55:37.425326+00:00
 
  ## Twitter is questioned over Hunter Biden laptop story censorship
  - [https://reclaimthenet.org/twitter-is-questioned-over-hunter-biden-laptop-story-censorship](https://reclaimthenet.org/twitter-is-questioned-over-hunter-biden-laptop-story-censorship)
@@ -1722,7 +1722,7 @@
 
  ## Capabilities for Nodejs
  - [https://josephg.com/blog/node-sandbox](https://josephg.com/blog/node-sandbox)
- - date_published: 2022-04-11T14:05:43+00:00
+ - date_published: 2022-04-11T07:28:18+00:00
 
  ## Here’s what happens when cops pull over a driverless Cruise vehicle - The Verge
  - [https://www.theverge.com/2022/4/10/23019303/heres-what-happens-cops-pull-over-a-driverless-cruise-vehicle-general-motors](https://www.theverge.com/2022/4/10/23019303/heres-what-happens-cops-pull-over-a-driverless-cruise-vehicle-general-motors)
@@ -1812,7 +1812,7 @@
 
  ## GitHub: Attacker breached dozens of orgs using stolen OAuth tokens
  - [https://www.bleepingcomputer.com/news/security/github-attacker-breached-dozens-of-orgs-using-stolen-oauth-tokens](https://www.bleepingcomputer.com/news/security/github-attacker-breached-dozens-of-orgs-using-stolen-oauth-tokens)
- - date_published: 2022-04-16T09:58:30.731941+00:00
+ - date_published: 2022-04-15T23:12:30+00:00
 
  ## DuckDuckGo Removes Pirate Sites and YouTube-DL from Its Search Results * TorrentFreak
  - [https://torrentfreak.com/duckduckgo-removes-pirate-sites-and-youtube-dl-from-its-search-results-220415](https://torrentfreak.com/duckduckgo-removes-pirate-sites-and-youtube-dl-from-its-search-results-220415)
@@ -2076,11 +2076,6 @@
  - [https://daniel.haxx.se/blog/2022/05/02/considered-18](https://daniel.haxx.se/blog/2022/05/02/considered-18)
  - date_published: 2022-05-04T05:59:33.174649+00:00
 
- ## Slime mold
- - [https://komoroske.com/slime-mold](https://komoroske.com/slime-mold)
- - date_published: 2022-05-04T11:56:13+00:00
- - tags: ['management', 'corporations']
-
  ## Writing a Book for O'Reilly - Party One
  - [https://www.thecodepainter.co.uk/blog/20220503/writeabook01](https://www.thecodepainter.co.uk/blog/20220503/writeabook01)
  - date_published: 2022-05-04T19:10:34+00:00
@@ -2101,6 +2096,11 @@
  ## How I Accidentally Deleted 7TB of Videos Before Going To Production
  - [https://blog.thevinter.com/posts/vimeo](https://blog.thevinter.com/posts/vimeo)
  - date_published: 2022-05-05T18:52:40.665823+00:00
+
+ ## Why Instagram Influencers Are Letting Wealthy Men Poop In Their Mouths.
+ - [https://medium.com/illumination/why-instagram-influencers-are-letting-wealthy-men-poop-in-their-mouths-ac5c35053555](https://medium.com/illumination/why-instagram-influencers-are-letting-wealthy-men-poop-in-their-mouths-ac5c35053555)
+ - date_published: 2022-05-05T20:08:57+00:00
+ - tags: ['2 girls 1 cup', 'elite']
 
  ## Breaking the Monolith at Twitch: Part One | Twitch Blog
  - [https://blog.twitch.tv/en/2022/03/30/breaking-the-monolith-at-twitch](https://blog.twitch.tv/en/2022/03/30/breaking-the-monolith-at-twitch)
@@ -2264,6 +2264,10 @@
  - [https://stitcher.io/blog/dealing-with-deprecations](https://stitcher.io/blog/dealing-with-deprecations)
  - date_published: 2022-05-19T06:44:14.507531+00:00
 
+ ## GOV.UK drops jQuery from their front end.
+ - [https://web.dev/gov-uk-drops-jquery](https://web.dev/gov-uk-drops-jquery)
+ - date_published: 2022-05-19T07:00:00+00:00
+
  ## Why Google is so unbearable (and how to fix it) | MR IXNS
  - [https://ixns.github.io//lifehacks/computers/internet/2022/05/17/avoid-google-bloatware.html](https://ixns.github.io//lifehacks/computers/internet/2022/05/17/avoid-google-bloatware.html)
  - date_published: 2022-05-19T07:50:35.730045+00:00
@@ -2281,10 +2285,6 @@
  - [https://wiadomosci.wp.pl/dodatki-covidowe-czyli-gorka-pieniedzy-na-ktora-nikt-nie-patrzyl-6770982795336672a](https://wiadomosci.wp.pl/dodatki-covidowe-czyli-gorka-pieniedzy-na-ktora-nikt-nie-patrzyl-6770982795336672a)
  - date_published: 2022-05-20T07:01:17+00:00
  - tags: ['covid']
-
- ## GOV.UK drops jQuery from their front end.
- - [https://web.dev/gov-uk-drops-jquery](https://web.dev/gov-uk-drops-jquery)
- - date_published: 2022-05-20T07:09:31+00:00
 
  ## FDA Dumps More Pfizer Documents: Why Were So Many Adverse Events Reported as ‘Unrelated’ to Vaccine?
  - [https://www.citizensjournal.us/fda-dumps-more-pfizer-documents-why-were-so-many-adverse-events-reported-as-unrelated-to-vaccine](https://www.citizensjournal.us/fda-dumps-more-pfizer-documents-why-were-so-many-adverse-events-reported-as-unrelated-to-vaccine)
@@ -2480,6 +2480,10 @@
  - date_published: 2022-06-02T19:38:06+00:00
  - tags: ['covid']
 
+ ## Dangerous Gift
+ - [https://www.tbray.org/ongoing/When/202x/2022/06/02/Dangerous-Gift](https://www.tbray.org/ongoing/When/202x/2022/06/02/Dangerous-Gift)
+ - date_published: 2022-06-02T22:47:36+00:00
+
  ## Matt Walsh Revisits His What Is A Woman Interview With Dr. Forcier
  - [https://www.youtube.com/watch?v=zdDB8wU73NA](https://www.youtube.com/watch?v=zdDB8wU73NA)
  - date_published: 2022-06-03T00:00:00+00:00
@@ -2512,10 +2516,6 @@
  - [https://eklitzke.org/the-cult-of-dd](https://eklitzke.org/the-cult-of-dd)
  - date_published: 2022-06-04T04:47:22+00:00
  - tags: ['linux', 'scripts']
-
- ## Dangerous Gift
- - [https://www.tbray.org/ongoing/When/202x/2022/06/02/Dangerous-Gift](https://www.tbray.org/ongoing/When/202x/2022/06/02/Dangerous-Gift)
- - date_published: 2022-06-04T08:39:45+00:00
 
  ## Dear Spotify. Can we just get a table of songs?
  - [https://neil.computer/notes/dear-spotify-can-we-just-get-table-of-songs](https://neil.computer/notes/dear-spotify-can-we-just-get-table-of-songs)

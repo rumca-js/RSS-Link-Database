@@ -3142,6 +3142,11 @@
  - [https://www.elle.com/life-love/a37507807/0106-0108-corporate-transition-october-2021](https://www.elle.com/life-love/a37507807/0106-0108-corporate-transition-october-2021)
  - date_published: 2021-10-23T20:40:09.826138+00:00
 
+ ## Slime mold
+ - [https://komoroske.com/slime-mold](https://komoroske.com/slime-mold)
+ - date_published: 2021-10-24T20:19:48+00:00
+ - tags: ['management', 'corporations']
+
  ## Why Didn't I Know This Before! Confucius Quotes That Still Ring True
  - [https://www.youtube.com/watch?v=7xjFuPschD8](https://www.youtube.com/watch?v=7xjFuPschD8)
  - date_published: 2021-10-25T00:00:00+00:00
