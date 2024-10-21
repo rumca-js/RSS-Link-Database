@@ -4194,13 +4194,13 @@
  - date_published: 2021-12-30T20:15:36+00:00
  - tags: ['nancy pelosi']
 
+ ## University loses 77TB of research data due to backup error
+ - [https://www.bleepingcomputer.com/news/security/university-loses-77tb-of-research-data-due-to-backup-error](https://www.bleepingcomputer.com/news/security/university-loses-77tb-of-research-data-due-to-backup-error)
+ - date_published: 2021-12-31T07:04:58+00:00
+
  ## Parson says he believes prosecutor will bring charges in Post-Dispatch case | Politics | stltoday.com
  - [https://www.stltoday.com/news/local/govt-and-politics/parson-says-he-believes-prosecutor-will-bring-charges-in-post-dispatch-case/article_c4d88dae-fbf7-565f-a96c-e3589a626273.html](https://www.stltoday.com/news/local/govt-and-politics/parson-says-he-believes-prosecutor-will-bring-charges-in-post-dispatch-case/article_c4d88dae-fbf7-565f-a96c-e3589a626273.html)
  - date_published: 2021-12-31T08:38:24.938319+00:00
-
- ## University loses 77TB of research data due to backup error
- - [https://www.bleepingcomputer.com/news/security/university-loses-77tb-of-research-data-due-to-backup-error](https://www.bleepingcomputer.com/news/security/university-loses-77tb-of-research-data-due-to-backup-error)
- - date_published: 2021-12-31T10:40:58.742282+00:00
 
  ## Log4j – Apache Log4j Security Vulnerabilities
  - [https://logging.apache.org/log4j/2.x/security.html](https://logging.apache.org/log4j/2.x/security.html)

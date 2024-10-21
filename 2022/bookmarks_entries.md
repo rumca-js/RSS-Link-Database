@@ -815,6 +815,10 @@
  - [https://ifstudies.org/blog/young-men-and-society-we-will-only-get-out-what-we-put-in](https://ifstudies.org/blog/young-men-and-society-we-will-only-get-out-what-we-put-in)
  - date_published: 2022-02-10T09:35:06.339705+00:00
 
+ ## How We Write GitHub Actions in Go · Blend Engineering: Full Stack Finance
+ - [https://full-stack.blend.com/how-we-write-github-actions-in-go.html#authoring-an-action-todays-landscape](https://full-stack.blend.com/how-we-write-github-actions-in-go.html#authoring-an-action-todays-landscape)
+ - date_published: 2022-02-10T17:04:49+00:00
+
  ## New York Times May Publish Documents About Project Veritas, Court Says - The New York Times
  - [https://www.nytimes.com/2022/02/10/business/media/project-veritas-new-york-times.html](https://www.nytimes.com/2022/02/10/business/media/project-veritas-new-york-times.html)
  - date_published: 2022-02-10T20:19:16+00:00
@@ -844,10 +848,6 @@
  - [https://www.carandbike.com/news/how-is-electric-car-battery-disposal-causing-pollution-all-concerns-answered-2762412](https://www.carandbike.com/news/how-is-electric-car-battery-disposal-causing-pollution-all-concerns-answered-2762412)
  - date_published: 2022-02-11T11:34:06+00:00
  - tags: ['electric vehicles', 'climate change', 'pollution']
-
- ## How We Write GitHub Actions in Go · Blend Engineering: Full Stack Finance
- - [https://full-stack.blend.com/how-we-write-github-actions-in-go.html#authoring-an-action-todays-landscape](https://full-stack.blend.com/how-we-write-github-actions-in-go.html#authoring-an-action-todays-landscape)
- - date_published: 2022-02-11T18:57:36+00:00
 
  ## Jordan Peterson's TERRIFYING Speech (held back in 2008) | "I Came To A Terrible Conclusion!"
  - [https://www.youtube.com/watch?v=ZdP1jlxHibc](https://www.youtube.com/watch?v=ZdP1jlxHibc)
