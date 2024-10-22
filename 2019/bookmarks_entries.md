@@ -68,6 +68,10 @@
  - date_published: 2019-01-29T06:49:05+00:00
  - tags: ['facebook', 'technofeudalism', 'privacy', 'surveillance', 'project atlas', 'anonymity', 'vpn']
 
+ ## BoltDB vs Badger: A Comparison of Go Key-Value databases
+ - [https://tech.townsourced.com/post/boltdb-vs-badger](https://tech.townsourced.com/post/boltdb-vs-badger)
+ - date_published: 2019-01-30T18:13:44+00:00
+
  ## What We Should Learn From “Facebook Research”
  - [https://www.eff.org/deeplinks/2019/01/what-we-should-learn-facebook-research](https://www.eff.org/deeplinks/2019/01/what-we-should-learn-facebook-research)
  - date_published: 2019-01-31T06:50:32+00:00

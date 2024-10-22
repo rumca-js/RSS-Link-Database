@@ -2929,6 +2929,10 @@
  - date_published: 2021-10-13T13:03:47+00:00
  - tags: ['social media', 'propaganda', 'big brother', 'social engineering', 'government']
 
+ ## Apple silently fixes iOS zero-day, asks bug reporter to keep quiet
+ - [https://www.bleepingcomputer.com/news/apple/apple-silently-fixes-ios-zero-day-asks-bug-reporter-to-keep-quiet](https://www.bleepingcomputer.com/news/apple/apple-silently-fixes-ios-zero-day-asks-bug-reporter-to-keep-quiet)
+ - date_published: 2021-10-13T15:25:15+00:00
+
  ## The tyranny of “diversity, equity, and inclusion”
  - [https://wng.org/opinions/the-tyranny-of-diversity-equity-and-inclusion-1634136777](https://wng.org/opinions/the-tyranny-of-diversity-equity-and-inclusion-1634136777)
  - date_published: 2021-10-13T15:45:57+00:00
@@ -2938,10 +2942,6 @@
  - [https://www.youtube.com/watch?v=rn6NlXh5dH8](https://www.youtube.com/watch?v=rn6NlXh5dH8)
  - date_published: 2021-10-14T00:00:00+00:00
  - tags: ['homelessness', 'san francisco', 'america']
-
- ## Apple silently fixes iOS zero-day, asks bug reporter to keep quiet
- - [https://www.bleepingcomputer.com/news/apple/apple-silently-fixes-ios-zero-day-asks-bug-reporter-to-keep-quiet](https://www.bleepingcomputer.com/news/apple/apple-silently-fixes-ios-zero-day-asks-bug-reporter-to-keep-quiet)
- - date_published: 2021-10-14T06:08:45.247999+00:00
 
  ## Sweden adds three new places to list of 'vulnerable areas' - The Local
  - [https://www.thelocal.se/20211015/three-new-entries-added-to-swedens-list-of-vulnerable-areas](https://www.thelocal.se/20211015/three-new-entries-added-to-swedens-list-of-vulnerable-areas)
@@ -2965,13 +2965,13 @@
  - [https://dev.to/googlecloud/finding-and-fixing-memory-leaks-in-go-1k1h](https://dev.to/googlecloud/finding-and-fixing-memory-leaks-in-go-1k1h)
  - date_published: 2021-10-15T18:41:27.374519+00:00
 
- ## BoltDB vs Badger: A Comparison of Go Key-Value databases
- - [https://tech.townsourced.com/post/boltdb-vs-badger](https://tech.townsourced.com/post/boltdb-vs-badger)
- - date_published: 2021-10-15T20:09:35.175298+00:00
-
  ## Valve bans blockchain games and NFTs on Steam, Epic will try to make it work - The Verge
  - [https://www.theverge.com/2021/10/15/22728425/valve-steam-blockchain-nft-crypto-ban-games-age-of-rust](https://www.theverge.com/2021/10/15/22728425/valve-steam-blockchain-nft-crypto-ban-games-age-of-rust)
  - date_published: 2021-10-16T10:35:21.578316+00:00
+
+ ## Canon sued for disabling scanner when printers run out of ink
+ - [https://www.bleepingcomputer.com/news/legal/canon-sued-for-disabling-scanner-when-printers-run-out-of-ink](https://www.bleepingcomputer.com/news/legal/canon-sued-for-disabling-scanner-when-printers-run-out-of-ink)
+ - date_published: 2021-10-16T16:26:04+00:00
 
  ## Female Spanish thriller writer Carmen Mola revealed to be three men
  - [https://www.theguardian.com/books/2021/oct/16/female-spanish-thriller-writer-carmen-mola-revealed-to-be-three-men](https://www.theguardian.com/books/2021/oct/16/female-spanish-thriller-writer-carmen-mola-revealed-to-be-three-men)
@@ -2982,10 +2982,6 @@
  - [https://www.youtube.com/watch?v=I77LHabHav8](https://www.youtube.com/watch?v=I77LHabHav8)
  - date_published: 2021-10-17T00:00:00+00:00
  - tags: ['facebook', 'privacy']
-
- ## Canon sued for disabling scanner when printers run out of ink
- - [https://www.bleepingcomputer.com/news/legal/canon-sued-for-disabling-scanner-when-printers-run-out-of-ink](https://www.bleepingcomputer.com/news/legal/canon-sued-for-disabling-scanner-when-printers-run-out-of-ink)
- - date_published: 2021-10-17T07:59:04.789371+00:00
 
  ## The Javascript "ecosystem" is a hot mess and so is software development in general - nadh.in
  - [https://nadh.in/blog/javascript-ecosystem-software-development-are-a-hot-mess](https://nadh.in/blog/javascript-ecosystem-software-development-are-a-hot-mess)

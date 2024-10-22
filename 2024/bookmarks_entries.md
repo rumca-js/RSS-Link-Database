@@ -1177,3 +1177,8 @@
  - date_published: 2024-10-14T10:25:08+00:00
  - tags: ['dei']
 
+ ## Meta’s Israel Policy Chief Tried to Suppress Pro-Palestinian Instagram Posts
+ - [https://theintercept.com/2024/10/21/instagram-israel-palestine-censorship-sjp](https://theintercept.com/2024/10/21/instagram-israel-palestine-censorship-sjp)
+ - date_published: 2024-10-21T17:40:24+00:00
+ - tags: ['censorship', 'palestine', 'israel']
+
