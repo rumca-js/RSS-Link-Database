@@ -388,6 +388,10 @@
  - date_published: 2021-03-10T07:14:20+00:00
  - tags: ['dollar', 'fed', 'crisis', 'fiat currency']
 
+ ## The open calendar, task and note space is a mess
+ - [https://stevenvanbael.com/open-calendar-task-space-is-a-mess](https://stevenvanbael.com/open-calendar-task-space-is-a-mess)
+ - date_published: 2021-03-10T14:11:40+00:00
+
  ## A man lives in a society where citizens police each other with their mobile phones. | Utopia
  - [https://www.youtube.com/watch?v=vJYaXy5mmA8](https://www.youtube.com/watch?v=vJYaXy5mmA8)
  - date_published: 2021-03-12T15:09:15+00:00
@@ -2266,10 +2270,6 @@
  - [https://www.huffpost.com/entry/smartphone-devices-recording-privacy_l_5d570869e4b056fafd0bbc09](https://www.huffpost.com/entry/smartphone-devices-recording-privacy_l_5d570869e4b056fafd0bbc09)
  - date_published: 2021-08-31T12:04:50+00:00
  - tags: ['surveillance', 'smartphone', 'privacy', 'security']
-
- ## The open calendar, task and note space is a mess
- - [https://stevenvanbael.com/open-calendar-task-space-is-a-mess](https://stevenvanbael.com/open-calendar-task-space-is-a-mess)
- - date_published: 2021-08-31T14:54:25+00:00
 
  ## Thousands of posts around January 6 riots go missing from Facebook transparency tool – POLITICO
  - [https://www.politico.eu/article/facebook-crowdtangle-data-january-6-capitol-hill-riots-transparency](https://www.politico.eu/article/facebook-crowdtangle-data-january-6-capitol-hill-riots-transparency)

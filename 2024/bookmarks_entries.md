@@ -1182,3 +1182,13 @@
  - date_published: 2024-10-21T17:40:24+00:00
  - tags: ['censorship', 'palestine', 'israel']
 
+ ## Hackers take control of robot vacuums in multiple US cities and abuse owners
+ - [https://www.abc.net.au/news/2024-10-11/robot-vacuum-yells-racial-slurs-at-family-after-being-hacked/104445408](https://www.abc.net.au/news/2024-10-11/robot-vacuum-yells-racial-slurs-at-family-after-being-hacked/104445408)
+ - date_published: 2024-10-22T06:11:56+00:00
+ - tags: ['hacking', 'privacy', 'surveillance', 'technofeudalism']
+
+ ## 'I'd never seen such an audacious attack on anonymity before': Clearview AI and the creepy tech that can identify you with a single picture
+ - [https://www.livescience.com/technology/artificial-intelligence/id-never-seen-such-an-audacious-attack-on-anonymity-before-clearview-ai-and-the-creepy-tech-that-can-identify-you-with-a-single-picture](https://www.livescience.com/technology/artificial-intelligence/id-never-seen-such-an-audacious-attack-on-anonymity-before-clearview-ai-and-the-creepy-tech-that-can-identify-you-with-a-single-picture)
+ - date_published: 2024-10-22T16:38:55+00:00
+ - tags: ['privacy', 'surveillance']
+
