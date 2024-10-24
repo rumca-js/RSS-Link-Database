@@ -899,6 +899,11 @@
  - date_published: 2021-05-16T20:14:43+00:00
  - tags: ['bill gates']
 
+ ## Dyskryminacja mężczyzn i „dyskryminacja” kobiet w Polsce
+ - [https://nieczekam107lat.github.io](https://nieczekam107lat.github.io)
+ - date_published: 2021-05-16T22:51:56+00:00
+ - tags: ['sexism', 'discrimination', 'poland', 'feminism']
+
  ## Huge Eufy privacy breach shows live and recorded cam feeds to strangers [U: Statement]
  - [https://9to5mac.com/2021/05/17/huge-eufy-privacy-breach](https://9to5mac.com/2021/05/17/huge-eufy-privacy-breach)
  - date_published: 2021-05-17T10:19:18+00:00
@@ -907,11 +912,6 @@
  - [https://humansbefree.com/2021/05/bill-gates-and-jeffrey-epstein-traded-advice-on-bills-toxic-marriage-jeffs-pedo-image-rehab-during-secretive-mens-club-gatherings.html](https://humansbefree.com/2021/05/bill-gates-and-jeffrey-epstein-traded-advice-on-bills-toxic-marriage-jeffs-pedo-image-rehab-during-secretive-mens-club-gatherings.html)
  - date_published: 2021-05-17T10:23:41+00:00
  - tags: ['jeffrey epstein', 'bill gates']
-
- ## Dyskryminacja mężczyzn i „dyskryminacja” kobiet w Polsce
- - [https://nieczekam107lat.github.io](https://nieczekam107lat.github.io)
- - date_published: 2021-05-17T20:16:02+00:00
- - tags: ['sexism', 'discrimination', 'poland', 'feminism']
 
  ## Bill Gates reportedly hoped Jeffrey Epstein would help him win a Nobel
  - [https://nypost.com/2021/05/18/bill-gates-hoped-epstein-would-help-him-win-a-nobel-report](https://nypost.com/2021/05/18/bill-gates-hoped-epstein-would-help-him-win-a-nobel-report)

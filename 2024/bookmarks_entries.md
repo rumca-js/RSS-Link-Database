@@ -1182,6 +1182,11 @@
  - date_published: 2024-10-21T17:40:24+00:00
  - tags: ['censorship', 'palestine', 'israel']
 
+ ## Celebrity jet-tracking accounts have vanished from Threads and Instagram 
+ - [https://www.theverge.com/2024/10/22/24276546/meta-threads-instagram-elonjet-celebrity-jet-tracking-suspended](https://www.theverge.com/2024/10/22/24276546/meta-threads-instagram-elonjet-celebrity-jet-tracking-suspended)
+ - date_published: 2024-10-22T05:22:48+00:00
+ - tags: ['elite', 'climate change', 'billionaires']
+
  ## Hackers take control of robot vacuums in multiple US cities and abuse owners
  - [https://www.abc.net.au/news/2024-10-11/robot-vacuum-yells-racial-slurs-at-family-after-being-hacked/104445408](https://www.abc.net.au/news/2024-10-11/robot-vacuum-yells-racial-slurs-at-family-after-being-hacked/104445408)
  - date_published: 2024-10-22T06:11:56+00:00
@@ -1191,4 +1196,9 @@
  - [https://www.livescience.com/technology/artificial-intelligence/id-never-seen-such-an-audacious-attack-on-anonymity-before-clearview-ai-and-the-creepy-tech-that-can-identify-you-with-a-single-picture](https://www.livescience.com/technology/artificial-intelligence/id-never-seen-such-an-audacious-attack-on-anonymity-before-clearview-ai-and-the-creepy-tech-that-can-identify-you-with-a-single-picture)
  - date_published: 2024-10-22T16:38:55+00:00
  - tags: ['privacy', 'surveillance']
+
+ ## Co drugi student z Zimbabwe. To koniec. Rewolucja dla polskich uczelni
+ - [https://wiadomosci.wp.pl/zmiany-na-uczelniach-weryfikacja-co-pol-roku-studentow-z-zagranicy-7084023467416160a](https://wiadomosci.wp.pl/zmiany-na-uczelniach-weryfikacja-co-pol-roku-studentow-z-zagranicy-7084023467416160a)
+ - date_published: 2024-10-23T06:43:15+00:00
+ - tags: ['immigration']
 
