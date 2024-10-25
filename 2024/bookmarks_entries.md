@@ -992,6 +992,11 @@
  - date_published: 2024-08-09T17:35:28+00:00
  - tags: ['hate speech', 'immigration']
 
+ ## Fifth Circuit Rules that Geofence Warrants Are Inherently Unconstitutional
+ - [https://epic.org/fifth-circuit-rules-that-geofence-warrants-are-inherently-unconstitutional](https://epic.org/fifth-circuit-rules-that-geofence-warrants-are-inherently-unconstitutional)
+ - date_published: 2024-08-13T20:03:41+00:00
+ - tags: ['privacy', 'surveillance']
+
  ## Democrats using Google search ads to falsify news headlines extends past Harris campaign
  - [https://gazette.com/news/wex/democrats-using-google-search-ads-to-falsify-news-headlines-extends-past-harris-campaign/article_b7225077-e224-5387-9773-72e3acca68c9.html](https://gazette.com/news/wex/democrats-using-google-search-ads-to-falsify-news-headlines-extends-past-harris-campaign/article_b7225077-e224-5387-9773-72e3acca68c9.html)
  - date_published: 2024-08-15T10:00:00+00:00
@@ -1030,6 +1035,11 @@
  - [https://www.bbc.com/news/articles/c07ev1v7r4po](https://www.bbc.com/news/articles/c07ev1v7r4po)
  - date_published: 2024-08-23T01:19:39+00:00
  - tags: ['transgender']
+
+ ## Fifth Circuit Declares Geofence Warrants Unconstitutional - Pearl Cohen
+ - [https://www.pearlcohen.com/fifth-circuit-declares-geofence-warrants-unconstitutional](https://www.pearlcohen.com/fifth-circuit-declares-geofence-warrants-unconstitutional)
+ - date_published: 2024-08-24T11:44:56+00:00
+ - tags: ['privacy', 'geofence', 'surveillance']
 
  ## Rumble boss says he 'departed' from Europe after Telegram CEO arrest
  - [https://www.tradingview.com/news/cointelegraph:171106c1e094b:0-rumble-boss-says-he-departed-from-europe-after-telegram-ceo-arrest](https://www.tradingview.com/news/cointelegraph:171106c1e094b:0-rumble-boss-says-he-departed-from-europe-after-telegram-ceo-arrest)
@@ -1201,4 +1211,14 @@
  - [https://wiadomosci.wp.pl/zmiany-na-uczelniach-weryfikacja-co-pol-roku-studentow-z-zagranicy-7084023467416160a](https://wiadomosci.wp.pl/zmiany-na-uczelniach-weryfikacja-co-pol-roku-studentow-z-zagranicy-7084023467416160a)
  - date_published: 2024-10-23T06:43:15+00:00
  - tags: ['immigration']
+
+ ## Woke doc refused to publish $10 million trans kids study that showed puberty blockers didn’t help mental health
+ - [https://nypost.com/2024/10/23/us-news/doctor-refused-to-publish-trans-kids-study-that-showed-puberty-blockers-didnt-help-mental-health](https://nypost.com/2024/10/23/us-news/doctor-refused-to-publish-trans-kids-study-that-showed-puberty-blockers-didnt-help-mental-health)
+ - date_published: 2024-10-23T20:02:13+00:00
+ - tags: ['transgender', 'woke']
+
+ ## U.S. Study on Puberty Blockers Goes Unpublished Because of Politics, Doctor Says
+ - [https://www.nytimes.com/2024/10/23/science/puberty-blockers-olson-kennedy.html](https://www.nytimes.com/2024/10/23/science/puberty-blockers-olson-kennedy.html)
+ - date_published: 2024-10-24T20:02:40+00:00
+ - tags: ['transgender', 'woke', 'lgbt']
 
