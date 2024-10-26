@@ -1222,3 +1222,7 @@
  - date_published: 2024-10-24T20:02:40+00:00
  - tags: ['transgender', 'woke', 'lgbt']
 
+ ## Delta Airlines bans comedian for LIFE for a joke! #delta #comedian #fly
+ - [https://www.youtube.com/watch?v=_23hZhc3DlA](https://www.youtube.com/watch?v=_23hZhc3DlA)
+ - date_published: 2024-10-25T00:24:58+00:00
+
