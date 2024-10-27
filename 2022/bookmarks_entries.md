@@ -630,6 +630,11 @@
  - [https://jamessevedge.com/articles/red-light-green-light](https://jamessevedge.com/articles/red-light-green-light)
  - date_published: 2022-02-01T08:58:16.376411+00:00
 
+ ## Facebook says Apple iOS privacy change will result in $10 billion revenue hit this year
+ - [https://www.cnbc.com/2022/02/02/facebook-says-apple-ios-privacy-change-will-cost-10-billion-this-year.html](https://www.cnbc.com/2022/02/02/facebook-says-apple-ios-privacy-change-will-cost-10-billion-this-year.html)
+ - date_published: 2022-02-02T07:31:10+00:00
+ - tags: ['surveillance', 'ad business', 'facebook', 'privacy', 'technofeudalism']
+
  ## Ksiądz z filmu Sekielskich prawomocnie uniewinniony. Wyrok ws. Adama S. - tvp.info
  - [https://www.tvp.info/58272688/ksiadz-z-filmu-sekielskich-prawomocnie-uniewinniony-wyrok-ws-adama-s](https://www.tvp.info/58272688/ksiadz-z-filmu-sekielskich-prawomocnie-uniewinniony-wyrok-ws-adama-s)
  - date_published: 2022-02-02T11:50:12+00:00

@@ -63,6 +63,11 @@
  - date_published: 2009-10-19T17:14:20+00:00
  - tags: ['swine flu', 'h1n1']
 
+ ## C++ Coding Standards - Book Home Page
+ - [http://www.gotw.ca/publications/c++cs.htm](http://www.gotw.ca/publications/c++cs.htm)
+ - date_published: 2009-11-04T16:10:21+00:00
+ - tags: ['programming', 'c++']
+
  ## Ewa Kopacz accused of being anti NEW WORLD ORDER because she is concerned about the H1N1 vaccination
  - [https://www.youtube.com/watch?v=yn3ElOkqND0](https://www.youtube.com/watch?v=yn3ElOkqND0)
  - date_published: 2009-11-17T00:00:00+00:00

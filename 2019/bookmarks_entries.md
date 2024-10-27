@@ -18,11 +18,6 @@
  - date_published: 2019-01-05T13:25:45+00:00
  - tags: ['programming', 'c++']
 
- ## C++ Coding Standards - Book Home Page
- - [http://www.gotw.ca/publications/c++cs.htm](http://www.gotw.ca/publications/c++cs.htm)
- - date_published: 2019-01-05T13:26:49+00:00
- - tags: ['programming', 'c++']
-
  ## Inheritance — What your mother never told you
  - [https://isocpp.org/wiki/faq/strange-inheritance](https://isocpp.org/wiki/faq/strange-inheritance)
  - date_published: 2019-01-05T13:27:19+00:00

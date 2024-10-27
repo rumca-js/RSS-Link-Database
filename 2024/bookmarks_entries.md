@@ -962,6 +962,11 @@
  - date_published: 2024-07-16T19:04:56+00:00
  - tags: ['privacy', 'surveillance', 'cybersecurity', 'ad business']
 
+ ## Under Surveillance
+ - [https://interaktiv.br.de/ausspioniert-mit-standortdaten/en/index.html](https://interaktiv.br.de/ausspioniert-mit-standortdaten/en/index.html)
+ - date_published: 2024-07-17T08:31:39+00:00
+ - tags: ['surveillance', 'privacy', 'technofeudalism']
+
  ## 74935 viewing Mass worldwide IT outage affects airlines, media and banks
  - [https://www.bbc.co.uk/news/live/cnk4jdwp49et](https://www.bbc.co.uk/news/live/cnk4jdwp49et)
  - date_published: 2024-07-19T07:07:46+00:00
@@ -1109,6 +1114,11 @@
  - date_published: 2024-09-19T20:17:13+00:00
  - tags: ['privacy', 'technofeudalism', 'surveillance']
 
+ ## How to surveil a federal regulator
+ - [https://www.politico.com/newsletters/digital-future-daily/2024/09/23/tk-alfred-top-00180521](https://www.politico.com/newsletters/digital-future-daily/2024/09/23/tk-alfred-top-00180521)
+ - date_published: 2024-09-23T07:28:04+00:00
+ - tags: ['surveillance', 'privacy']
+
  ## US to ban Chinese connected car software and hardware, citing security risks
  - [https://arstechnica.com/cars/2024/09/us-to-ban-chinese-connected-car-software-and-hardware-citing-security-risks](https://arstechnica.com/cars/2024/09/us-to-ban-chinese-connected-car-software-and-hardware-citing-security-risks)
  - date_published: 2024-09-23T14:38:38+00:00
@@ -1207,6 +1217,11 @@
  - date_published: 2024-10-22T16:38:55+00:00
  - tags: ['privacy', 'surveillance']
 
+ ## The Global Surveillance Free-for-All in Mobile Ad Data – Krebs on Security
+ - [https://krebsonsecurity.com/2024/10/the-global-surveillance-free-for-all-in-mobile-ad-data](https://krebsonsecurity.com/2024/10/the-global-surveillance-free-for-all-in-mobile-ad-data)
+ - date_published: 2024-10-23T06:24:59+00:00
+ - tags: ['surveillance', 'privacy', 'technofeudalism']
+
  ## Co drugi student z Zimbabwe. To koniec. Rewolucja dla polskich uczelni
  - [https://wiadomosci.wp.pl/zmiany-na-uczelniach-weryfikacja-co-pol-roku-studentow-z-zagranicy-7084023467416160a](https://wiadomosci.wp.pl/zmiany-na-uczelniach-weryfikacja-co-pol-roku-studentow-z-zagranicy-7084023467416160a)
  - date_published: 2024-10-23T06:43:15+00:00
@@ -1225,4 +1240,14 @@
  ## Delta Airlines bans comedian for LIFE for a joke! #delta #comedian #fly
  - [https://www.youtube.com/watch?v=_23hZhc3DlA](https://www.youtube.com/watch?v=_23hZhc3DlA)
  - date_published: 2024-10-25T00:24:58+00:00
+
+ ## 76 % der Mittelschüler sprechen daheim nicht Deutsch
+ - [https://www.heute.at/s/76-der-mittelschueler-sprechen-daheim-nicht-deutsch-120068220](https://www.heute.at/s/76-der-mittelschueler-sprechen-daheim-nicht-deutsch-120068220)
+ - date_published: 2024-10-25T17:23:43+00:00
+ - tags: ['immigration']
+
+ ## Attention Required! | Cloudflare
+ - [https://gaceta.es/espana/la-fiscalia-reconoce-que-el-64-de-detenidos-por-delitos-sexuales-en-vizcaya-son-inmigrantes-20241026-1010](https://gaceta.es/espana/la-fiscalia-reconoce-que-el-64-de-detenidos-por-delitos-sexuales-en-vizcaya-son-inmigrantes-20241026-1010)
+ - date_published: 2024-10-26T20:47:34+00:00
+ - tags: ['immigration']
 
