@@ -2883,11 +2883,6 @@
  - date_published: 2023-03-24T18:00:00+00:00
  - tags: ['cancel culture', 'the left wing']
 
- ## Cramming More Components onto Integrated Circuits (Gordon Moore, 1965) [pdf]
- - [https://www.cs.utexas.edu/~fussell/courses/cs352h/papers/moore.pdf](https://www.cs.utexas.edu/~fussell/courses/cs352h/papers/moore.pdf)
- - date_published: 2023-03-25T00:52:37+00:00
- - tags: ['hardware', 'integrated circuits', 'gordon moore']
-
  ## The Future is a Dead Mall - Decentraland and the Metaverse
  - [https://www.youtube.com/watch?v=EiZhdpLXZ8Q](https://www.youtube.com/watch?v=EiZhdpLXZ8Q)
  - date_published: 2023-03-26T00:00:00+00:00
@@ -3463,15 +3458,15 @@
  - date_published: 2023-04-15T07:35:41+00:00
  - tags: ['germany', 'climate change', 'atom']
 
+ ## Google CEO: “can we change the setting of this group to history-off” [pdf]
+ - [https://ia601707.us.archive.org/28/items/gov.uscourts.cand.364454/gov.uscourts.cand.364454.385.0.pdf](https://ia601707.us.archive.org/28/items/gov.uscourts.cand.364454/gov.uscourts.cand.364454.385.0.pdf)
+ - date_published: 2023-04-15T09:05:20+00:00
+ - tags: ['monopoly', 'corporatocracy', 'google']
+
  ## COVID vaccine doubter Alex Berenson sues Biden over Twitter ban
  - [https://nypost.com/2023/04/15/covid-vaccine-doubter-alex-berenson-sues-biden-over-twitter-ban](https://nypost.com/2023/04/15/covid-vaccine-doubter-alex-berenson-sues-biden-over-twitter-ban)
  - date_published: 2023-04-15T20:16:51+00:00
  - tags: ['vaccine', 'alex berenson', 'censorship', 'covid', 'twitter', 'twitter files']
-
- ## Google CEO: “can we change the setting of this group to history-off” [pdf]
- - [https://ia601707.us.archive.org/28/items/gov.uscourts.cand.364454/gov.uscourts.cand.364454.385.0.pdf](https://ia601707.us.archive.org/28/items/gov.uscourts.cand.364454/gov.uscourts.cand.364454.385.0.pdf)
- - date_published: 2023-04-15T22:19:26+00:00
- - tags: ['monopoly', 'corporatocracy', 'google']
 
  ## Shared post - Trans therapist charged over sexually assaulting autistic children in Indiana
  - [https://ngo.locals.com/post/3856550/trans-therapist-charged-over-sexually-assaulting-autistic-children-in-indiana](https://ngo.locals.com/post/3856550/trans-therapist-charged-over-sexually-assaulting-autistic-children-in-indiana)

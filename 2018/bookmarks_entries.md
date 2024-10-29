@@ -493,6 +493,11 @@
  - date_published: 2018-08-04T17:15:30+00:00
  - tags: ['climate change', 'crisis']
 
+ ## Pentagon restricts use of fitness trackers, other devices
+ - [https://apnews.com/article/d29c724e1d72460fbf7c2e999992d258](https://apnews.com/article/d29c724e1d72460fbf7c2e999992d258)
+ - date_published: 2018-08-07T12:01:24+00:00
+ - tags: ['cybersecurity', 'surveillance', 'privacy']
+
  ## In full: Rowan Atkinson on free speech
  - [https://www.youtube.com/watch?v=BiqDZlAZygU](https://www.youtube.com/watch?v=BiqDZlAZygU)
  - date_published: 2018-08-15T00:00:00+00:00

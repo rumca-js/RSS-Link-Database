@@ -53,6 +53,11 @@
  - date_published: 2009-09-03T20:08:34+00:00
  - tags: ['big pharma', 'pfizer']
 
+ ## Cramming More Components onto Integrated Circuits (Gordon Moore, 1965) [pdf]
+ - [https://www.cs.utexas.edu/~fussell/courses/cs352h/papers/moore.pdf](https://www.cs.utexas.edu/~fussell/courses/cs352h/papers/moore.pdf)
+ - date_published: 2009-09-16T14:55:29+00:00
+ - tags: ['hardware', 'integrated circuits', 'gordon moore']
+
  ## No Doubt - It's My Life (Edited)
  - [https://www.youtube.com/watch?v=ubvV498pyIM](https://www.youtube.com/watch?v=ubvV498pyIM)
  - date_published: 2009-10-06T00:00:00+00:00

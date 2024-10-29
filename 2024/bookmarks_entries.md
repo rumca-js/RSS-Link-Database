@@ -1251,3 +1251,8 @@
  - date_published: 2024-10-26T20:47:34+00:00
  - tags: ['immigration']
 
+ ## Fitness app Strava gives away location of Biden, Trump and other leaders, French newspaper says
+ - [https://www.courthousenews.com/fitness-app-strava-gives-away-location-of-biden-trump-and-other-leaders-french-newspaper-says](https://www.courthousenews.com/fitness-app-strava-gives-away-location-of-biden-trump-and-other-leaders-french-newspaper-says)
+ - date_published: 2024-10-28T19:09:37+00:00
+ - tags: ['technofeudalism', 'surveillance', 'privacy']
+
