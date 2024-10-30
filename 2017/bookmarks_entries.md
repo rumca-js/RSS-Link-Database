@@ -48,6 +48,11 @@
  - date_published: 2017-02-22T07:27:05+00:00
  - tags: ['sars', 'china', 'covid']
 
+ ## A Framework for Understanding Whiteness in Mathematics Education
+ - [https://files.eric.ed.gov/fulltext/EJ1124962.pdf](https://files.eric.ed.gov/fulltext/EJ1124962.pdf)
+ - date_published: 2017-02-27T21:29:06+00:00
+ - tags: ['racism', 'usa', 'hate speech', 'black lives matter', 'blm']
+
  ## Noam Chomsky - The 5 Filters of the Mass Media Machine
  - [https://www.youtube.com/watch?v=34LGPIXvU5M](https://www.youtube.com/watch?v=34LGPIXvU5M)
  - date_published: 2017-03-02T21:06:22+00:00

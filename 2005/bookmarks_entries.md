@@ -28,6 +28,11 @@
  - date_published: 2005-11-20T07:05:35+00:00
  - tags: ['sony', 'rootkit', 'scandal', 'vulnerability']
 
+ ## niePatenty - Maciej Drozdowski
+ - [http://www.cs.put.poznan.pl/mdrozdowski/txt/niePatenty.pdf](http://www.cs.put.poznan.pl/mdrozdowski/txt/niePatenty.pdf)
+ - date_published: 2005-11-24T16:27:27+00:00
+ - tags: ['corporations', 'programming', 'patents']
+
  ## Feminizm - nowa wersja komunizmu
  - [http://www.psychologia.net.pl/artykul.php?level=61](http://www.psychologia.net.pl/artykul.php?level=61)
  - date_published: 2005-11-26T20:22:07+00:00

@@ -649,6 +649,11 @@
  - date_published: 2022-02-04T06:55:19+00:00
  - tags: ['covid', 'anthony fauci', 'wuhan', 'lab leak']
 
+ ## FDA: Nakaz sądowy odtajnienia dokumentów
+ - [https://phmpt.org/wp-content/uploads/2022/02/056-ORDER-GRANTING-IN-PART-THE-MOTION-TO-MODIFY-THE-PRODUCTION-SCHEDULE-AND-ADDOPTS-THE-JOINT-STATUS-REPORT-MODIFIED-AGREED-PRODUCTION-SCHEDULE.pdf](https://phmpt.org/wp-content/uploads/2022/02/056-ORDER-GRANTING-IN-PART-THE-MOTION-TO-MODIFY-THE-PRODUCTION-SCHEDULE-AND-ADDOPTS-THE-JOINT-STATUS-REPORT-MODIFIED-AGREED-PRODUCTION-SCHEDULE.pdf)
+ - date_published: 2022-02-04T16:53:44+00:00
+ - tags: ['fda', 'pfizer', 'covid', 'vaccine', 'big pharma']
+
  ## GoFundMe pulls plug on fundraiser for Ottawa convoy protesters | Toronto Sun
  - [https://torontosun.com/news/national/gofundme-pulls-plug-on-fundraiser-for-ottawa-convoy-protesters](https://torontosun.com/news/national/gofundme-pulls-plug-on-fundraiser-for-ottawa-convoy-protesters)
  - date_published: 2022-02-04T20:49:21+00:00
@@ -662,11 +667,6 @@
  - [https://www.bizpacreview.com/2022/02/05/beginning-of-the-end-gofundme-faces-avalanche-of-backlash-after-yanking-freedom-convoy-campaign-1197369](https://www.bizpacreview.com/2022/02/05/beginning-of-the-end-gofundme-faces-avalanche-of-backlash-after-yanking-freedom-convoy-campaign-1197369)
  - date_published: 2022-02-05T06:41:16+00:00
  - tags: ['covid', 'censorship', 'gofundme', 'protest']
-
- ## FDA: Nakaz sądowy odtajnienia dokumentów
- - [https://phmpt.org/wp-content/uploads/2022/02/056-ORDER-GRANTING-IN-PART-THE-MOTION-TO-MODIFY-THE-PRODUCTION-SCHEDULE-AND-ADDOPTS-THE-JOINT-STATUS-REPORT-MODIFIED-AGREED-PRODUCTION-SCHEDULE.pdf](https://phmpt.org/wp-content/uploads/2022/02/056-ORDER-GRANTING-IN-PART-THE-MOTION-TO-MODIFY-THE-PRODUCTION-SCHEDULE-AND-ADDOPTS-THE-JOINT-STATUS-REPORT-MODIFIED-AGREED-PRODUCTION-SCHEDULE.pdf)
- - date_published: 2022-02-05T07:04:06+00:00
- - tags: ['fda', 'pfizer', 'covid', 'vaccine', 'big pharma']
 
  ## Jan-Piet Mens :: A shell command to create JSON: jo
  - [https://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo](https://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo)
@@ -939,6 +939,11 @@
  ## Change - Xe
  - [https://xeiaso.net/blog/change-2021-10-20](https://xeiaso.net/blog/change-2021-10-20)
  - date_published: 2022-02-16T18:02:04.614352+00:00
+
+ ## WEF_Advancing_towards_Digital_Agency_2022
+ - [https://www3.weforum.org/docs/WEF_Advancing_towards_Digital_Agency_2022.pdf](https://www3.weforum.org/docs/WEF_Advancing_towards_Digital_Agency_2022.pdf)
+ - date_published: 2022-02-17T08:10:52+00:00
+ - tags: ['digital identity', 'world economic forum']
 
  ## Avoid the Apple App Store | Jonatan Heyman | heyman.info
  - [https://heyman.info/2022/feb/17/avoid-the-apple-app-store](https://heyman.info/2022/feb/17/avoid-the-apple-app-store)
@@ -2494,11 +2499,6 @@
  - date_published: 2022-06-03T00:00:00+00:00
  - tags: ['lgbt', 'the left wing', 'newspeak', 'gender', 'what is a woman']
 
- ## A Framework for Understanding Whiteness in Mathematics Education
- - [https://files.eric.ed.gov/fulltext/EJ1124962.pdf](https://files.eric.ed.gov/fulltext/EJ1124962.pdf)
- - date_published: 2022-06-03T06:58:22+00:00
- - tags: ['racism', 'usa', 'hate speech', 'black lives matter', 'blm']
-
  ## 2022 Russian businessmen mystery deaths
  - [https://en.wikipedia.org/wiki/2022_Russian_businessmen_mystery_deaths](https://en.wikipedia.org/wiki/2022_Russian_businessmen_mystery_deaths)
  - date_published: 2022-06-03T08:01:38+00:00
@@ -3839,11 +3839,6 @@
  - [https://www.money.pl/gospodarka/czeka-nas-wielki-dlug-rzad-stworzyl-budzet-widmo-z-mnostwem-dziur-6807303691635616a.html](https://www.money.pl/gospodarka/czeka-nas-wielki-dlug-rzad-stworzyl-budzet-widmo-z-mnostwem-dziur-6807303691635616a.html)
  - date_published: 2022-08-31T07:06:54+00:00
  - tags: ['prawo i sprawiedliwość', 'poland']
-
- ## WEF_Advancing_towards_Digital_Agency_2022
- - [https://www3.weforum.org/docs/WEF_Advancing_towards_Digital_Agency_2022.pdf](https://www3.weforum.org/docs/WEF_Advancing_towards_Digital_Agency_2022.pdf)
- - date_published: 2022-08-31T07:07:46+00:00
- - tags: ['digital identity', 'world economic forum']
 
  ## Thought The Pandemic Was Bad? THIS Is What’s Coming
  - [https://www.youtube.com/watch?v=CqIJbLGV52c](https://www.youtube.com/watch?v=CqIJbLGV52c)

@@ -8,11 +8,6 @@
  - date_published: 2018-01-04T12:06:43+00:00
  - tags: ['spectre', 'vulnerability', 'meltdown', 'intel']
 
- ## niePatenty - Maciej Drozdowski
- - [http://www.cs.put.poznan.pl/mdrozdowski/txt/niePatenty.pdf](http://www.cs.put.poznan.pl/mdrozdowski/txt/niePatenty.pdf)
- - date_published: 2018-01-05T09:05:09+00:00
- - tags: ['corporations', 'programming', 'patents']
-
  ## Null Is Evil. What’s the Best Alternative? Null.
  - [https://blog.ndepend.com/null-evil](https://blog.ndepend.com/null-evil)
  - date_published: 2018-01-05T10:00:27+00:00

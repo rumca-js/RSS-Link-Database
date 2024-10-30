@@ -1251,6 +1251,11 @@
  - date_published: 2024-10-26T20:47:34+00:00
  - tags: ['immigration']
 
+ ## Superyachts and jets of Europe’s elite emit more carbon pollution in a week than the world’s poorest 1% emits in a lifetime | Oxfam International
+ - [https://www.oxfam.org/en/press-releases/superyachts-and-jets-europes-elite-emit-more-carbon-pollution-week-worlds-poorest-1](https://www.oxfam.org/en/press-releases/superyachts-and-jets-europes-elite-emit-more-carbon-pollution-week-worlds-poorest-1)
+ - date_published: 2024-10-28T13:11:49+00:00
+ - tags: ['elite', 'climate change', 'billionaires']
+
  ## Fitness app Strava gives away location of Biden, Trump and other leaders, French newspaper says
  - [https://www.courthousenews.com/fitness-app-strava-gives-away-location-of-biden-trump-and-other-leaders-french-newspaper-says](https://www.courthousenews.com/fitness-app-strava-gives-away-location-of-biden-trump-and-other-leaders-french-newspaper-says)
  - date_published: 2024-10-28T19:09:37+00:00
