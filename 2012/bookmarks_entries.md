@@ -23,6 +23,11 @@
  - date_published: 2012-03-08T10:49:43+00:00
  - tags: ['acta', 'censorship', 'privacy', 'protest', 'government control', 'surveillance']
 
+ ## Why Are Game Developer Bonuses Based On Review Scores?
+ - [https://kotaku.com/why-are-game-developer-bonuses-based-on-review-scores-5893595](https://kotaku.com/why-are-game-developer-bonuses-based-on-review-scores-5893595)
+ - date_published: 2012-03-15T14:10:25+00:00
+ - tags: ['manufacturing consent', 'journalism']
+
  ## Regend University Of Law: Don't Talk to the Police
  - [https://www.youtube.com/watch?v=d-7o9xYp7eE](https://www.youtube.com/watch?v=d-7o9xYp7eE)
  - date_published: 2012-03-20T20:09:05+00:00

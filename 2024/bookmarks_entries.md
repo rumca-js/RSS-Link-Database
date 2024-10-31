@@ -987,6 +987,11 @@
  - date_published: 2024-08-01T00:00:00+00:00
  - tags: ['immigration']
 
+ ## Ubisoft Pays For Influencers To Travel To LA, Visit Disneyland As Part Of 'Star Wars Outlaws' Marketing Campaign
+ - [https://boundingintocomics.com/video-games/ubisoft-pays-for-influencers-to-travel-to-la-visit-disneyland-as-part-of-star-wars-outlaws-marketing-campaign](https://boundingintocomics.com/video-games/ubisoft-pays-for-influencers-to-travel-to-la-visit-disneyland-as-part-of-star-wars-outlaws-marketing-campaign)
+ - date_published: 2024-08-06T13:51:07+00:00
+ - tags: ['ubisoft', 'manufacturing consent', 'journalism']
+
  ## Atlanta Police Monitoring of 'Cop City' Opponents' Political Activity
  - [https://www.brennancenter.org/our-work/analysis-opinion/internal-atlanta-police-records-reveal-monitoring-cop-city-opponents](https://www.brennancenter.org/our-work/analysis-opinion/internal-atlanta-police-records-reveal-monitoring-cop-city-opponents)
  - date_published: 2024-08-07T23:08:12+00:00
