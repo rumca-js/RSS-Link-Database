@@ -1271,3 +1271,12 @@
  - date_published: 2024-10-30T15:50:50+00:00
  - tags: ['artificial intelligence']
 
+ ## Nearly 90% of our AI crawler traffic is from ByteDance
+ - [https://www.haproxy.com/blog/nearly-90-of-our-ai-crawler-traffic-is-from-tiktok-parent-bytedance-lessons-learned](https://www.haproxy.com/blog/nearly-90-of-our-ai-crawler-traffic-is-from-tiktok-parent-bytedance-lessons-learned)
+ - date_published: 2024-10-31T18:09:18+00:00
+ - tags: ['artificial intelligence']
+
+ ## Feds: Critical Software Must Drop C/C++ by 2026 or Face Risk
+ - [https://thenewstack.io/feds-critical-software-must-drop-c-c-by-2026-or-face-risk](https://thenewstack.io/feds-critical-software-must-drop-c-c-by-2026-or-face-risk)
+ - date_published: 2024-11-01T01:59:50+00:00
+
