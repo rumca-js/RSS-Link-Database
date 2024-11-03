@@ -743,3 +743,8 @@
  - date_published: 2018-12-20T06:45:35+00:00
  - tags: ['technofeudalism', 'google', 'surveillance', 'privacy', 'anonymity']
 
+ ## Facebook's bottomless pit of scandals
+ - [https://edition.cnn.com/interactive/2018/12/business/facebooks-year-of-scandal/index.html](https://edition.cnn.com/interactive/2018/12/business/facebooks-year-of-scandal/index.html)
+ - date_published: 2018-12-20T19:46:38+00:00
+ - tags: ['facebook']
+
