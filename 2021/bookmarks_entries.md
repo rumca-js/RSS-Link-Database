@@ -328,6 +328,11 @@
  - date_published: 2021-02-21T06:54:18+00:00
  - tags: ['larry sanger', 'wikipedia']
 
+ ## Attention Required! | Cloudflare
+ - [https://www.nationalreview.com/news/kerry-defended-taking-private-jet-to-iceland-for-environmental-award-the-only-choice-for-somebody-like-me/amp](https://www.nationalreview.com/news/kerry-defended-taking-private-jet-to-iceland-for-environmental-award-the-only-choice-for-somebody-like-me/amp)
+ - date_published: 2021-02-23T06:59:57+00:00
+ - tags: ['climate change', 'billionaires']
+
  ## Biden’s ‘kids in cages’ prove his hypocrisy on immigration
  - [https://nypost.com/2021/02/24/bidens-kids-in-cages-prove-his-hypocrisy-on-immigration](https://nypost.com/2021/02/24/bidens-kids-in-cages-prove-his-hypocrisy-on-immigration)
  - date_published: 2021-02-24T19:33:06+00:00
