@@ -1280,3 +1280,8 @@
  - [https://thenewstack.io/feds-critical-software-must-drop-c-c-by-2026-or-face-risk](https://thenewstack.io/feds-critical-software-must-drop-c-c-by-2026-or-face-risk)
  - date_published: 2024-11-01T01:59:50+00:00
 
+ ## Boeing disbands DEI department to focus on a 'merit-based performance system'
+ - [https://www.hrgrapevine.com/us/content/article/2024-11-01-aircraft-giant-ditches-dei-efforts-as-survey-underlines-consistent-employee-support](https://www.hrgrapevine.com/us/content/article/2024-11-01-aircraft-giant-ditches-dei-efforts-as-survey-underlines-consistent-employee-support)
+ - date_published: 2024-11-06T15:46:37+00:00
+ - tags: ['inclusion', 'dei', 'diversity']
+
