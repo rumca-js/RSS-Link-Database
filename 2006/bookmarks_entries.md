@@ -33,6 +33,11 @@
  - date_published: 2006-10-20T22:20:30+00:00
  - tags: ['news', 'legacy media', 'aaron swartz']
 
+ ## George Carlin - It's A BIG Club & You Ain't In It!
+ - [https://www.youtube.com/watch?v=Nyvxt1svxso](https://www.youtube.com/watch?v=Nyvxt1svxso)
+ - date_published: 2006-11-07T11:02:25+00:00
+ - tags: ['education', 'elite', 'billionaires', 'george carlin']
+
  ## Microsoft makes claim on Linux code
  - [https://www.theregister.com/2006/11/20/microsoft_claims_linux_code](https://www.theregister.com/2006/11/20/microsoft_claims_linux_code)
  - date_published: 2006-11-20T14:09:19+00:00

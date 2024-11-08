@@ -1172,6 +1172,11 @@
  - date_published: 2024-10-05T16:18:11+00:00
  - tags: ['privacy', 'surveillance']
 
+ ## Salt Typhoon Hack Shows There's No Security Backdoor That's Only For The "Good Guys"
+ - [https://www.eff.org/deeplinks/2024/10/salt-typhoon-hack-shows-theres-no-security-backdoor-thats-only-good-guys](https://www.eff.org/deeplinks/2024/10/salt-typhoon-hack-shows-theres-no-security-backdoor-thats-only-good-guys)
+ - date_published: 2024-10-09T14:32:52+00:00
+ - tags: ['cybersecurity', 'backdoor']
+
  ## UK firm GSK to pay $2.2bn over Zantac cancer claims
  - [https://www.bbc.com/news/articles/c62r5nn94d7o](https://www.bbc.com/news/articles/c62r5nn94d7o)
  - date_published: 2024-10-10T03:56:41+00:00
@@ -1279,6 +1284,11 @@
  ## Feds: Critical Software Must Drop C/C++ by 2026 or Face Risk
  - [https://thenewstack.io/feds-critical-software-must-drop-c-c-by-2026-or-face-risk](https://thenewstack.io/feds-critical-software-must-drop-c-c-by-2026-or-face-risk)
  - date_published: 2024-11-01T01:59:50+00:00
+
+ ## Mozilla is eliminating its advocacy division, which fought for a free and open web
+ - [https://www.theverge.com/2024/11/5/24289124/mozilla-foundation-layoffs-advocacy-global-programs](https://www.theverge.com/2024/11/5/24289124/mozilla-foundation-layoffs-advocacy-global-programs)
+ - date_published: 2024-11-05T17:19:25+00:00
+ - tags: ['mozilla', 'surveillance', 'privacy']
 
  ## Boeing disbands DEI department to focus on a 'merit-based performance system'
  - [https://www.hrgrapevine.com/us/content/article/2024-11-01-aircraft-giant-ditches-dei-efforts-as-survey-underlines-consistent-employee-support](https://www.hrgrapevine.com/us/content/article/2024-11-01-aircraft-giant-ditches-dei-efforts-as-survey-underlines-consistent-employee-support)
