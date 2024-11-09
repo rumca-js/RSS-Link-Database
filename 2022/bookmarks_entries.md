@@ -6475,11 +6475,6 @@
  - date_published: 2022-10-22T06:00:43+00:00
  - tags: ['floating-point', 'programming']
 
- ## RISC in 2022
- - [https://wiki.alopex.li/RiscIn2022](https://wiki.alopex.li/RiscIn2022)
- - date_published: 2022-10-22T06:02:48+00:00
- - tags: ['risc-v']
-
  ## Wybory w Chinach. Xi zerwał z niepisanym limitem wieku i pozostał w kluczowym organie partii
  - [https://www.bankier.pl/wiadomosc/Wybory-w-Chinach-Xi-zerwal-z-niepisanym-limitem-wieku-i-pozostal-w-kluczowym-organie-partii-8427249.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Wybory-w-Chinach-Xi-zerwal-z-niepisanym-limitem-wieku-i-pozostal-w-kluczowym-organie-partii-8427249.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date_published: 2022-10-22T09:35:00+00:00
