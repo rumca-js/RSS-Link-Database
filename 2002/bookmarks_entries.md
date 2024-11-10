@@ -3,11 +3,6 @@
  - date_published: 2002-05-18T13:10:31+00:00
  - tags: ['crypto wars', 'encryption', 'surveillance', 'privacy']
 
- ## Was Jeffrey Epstein a Spy? – Rolling Stone
- - [https://www.rollingstone.com/culture/culture-features/jeffrey-epstein-steven-hoffenberg-intelligence-agencies-spy-1197708](https://www.rollingstone.com/culture/culture-features/jeffrey-epstein-steven-hoffenberg-intelligence-agencies-spy-1197708)
- - date_published: 2002-07-15T10:17:42+00:00
- - tags: ['espionage', 'jeffrey epstein', 'robert maxwell']
-
  ## How Jeffrey Epstein Bankrolled The Exclusive Edge Foundation And Reaped The Benefits
  - [https://www.buzzfeednews.com/article/peteraldhous/jeffrey-epstein-john-brockman-edge-foundation](https://www.buzzfeednews.com/article/peteraldhous/jeffrey-epstein-john-brockman-edge-foundation)
  - date_published: 2002-08-05T07:11:18+00:00

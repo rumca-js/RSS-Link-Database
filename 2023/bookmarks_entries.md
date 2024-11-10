@@ -228,11 +228,6 @@
  - date_published: 2023-01-05T22:46:27+00:00
  - tags: ['corporatocracy', 'ad business', 'surveillance', 'gdpr', 'big brother']
 
- ## Google obtains thousands of medical records from the Dept of Defense
- - [https://gcaptain.com/us-navy-opens-medical-vault-for-google](https://gcaptain.com/us-navy-opens-medical-vault-for-google)
- - date_published: 2023-01-05T23:15:09+00:00
- - tags: ['google']
-
  ## Google’s quest to digitize troops’ tissue samples
  - [https://www.propublica.org/article/google-human-tissue-jpc-military](https://www.propublica.org/article/google-human-tissue-jpc-military)
  - date_published: 2023-01-05T23:15:09+00:00
@@ -3849,11 +3844,6 @@
  - [https://www.wsj.com/articles/jeffrey-epstein-calendar-cia-director-goldman-sachs-noam-chomsky-c9f6a3ff](https://www.wsj.com/articles/jeffrey-epstein-calendar-cia-director-goldman-sachs-noam-chomsky-c9f6a3ff)
  - date_published: 2023-04-30T11:59:00+00:00
  - tags: ['cia', 'jeffrey epstein']
-
- ## CIA Director, Noam Chomsky Named in Epstein’s Calendar: Report – Rolling Stone
- - [https://www.rollingstone.com/culture/culture-news/cia-director-noam-chomsky-epstein-calendar-1234726393](https://www.rollingstone.com/culture/culture-news/cia-director-noam-chomsky-epstein-calendar-1234726393)
- - date_published: 2023-04-30T12:27:42+00:00
- - tags: ['jeffrey epstein']
 
  ## Example of why you should not use FaceID to unlock your phone
  - [https://mastodon.social/@runasand/110286780839680620](https://mastodon.social/@runasand/110286780839680620)

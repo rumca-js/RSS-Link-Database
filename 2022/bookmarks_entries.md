@@ -4711,11 +4711,6 @@
  - [https://www.cnet.com/news/social-media/tech-companies-ramp-up-efforts-to-combat-online-extremism/#ftag=CADf328eec](https://www.cnet.com/news/social-media/tech-companies-ramp-up-efforts-to-combat-online-extremism/#ftag=CADf328eec)
  - date_published: 2022-09-16T03:30:00+00:00
 
- ## Facebook Bans Holocaust Film for Violating Race Policy
- - [https://www.rollingstone.com/tv-movies/tv-movie-news/facebook-holocaust-film-race-policy-1234592908](https://www.rollingstone.com/tv-movies/tv-movie-news/facebook-holocaust-film-race-policy-1234592908)
- - date_published: 2022-09-16T05:57:39+00:00
- - tags: ['facebook', 'antisemitism']
-
  ## CNN, Politico indicate that ‘go woke, go broke’ applies to news organizations
  - [https://www.foxnews.com/media/cnn-politico-indicate-go-woke-go-broke-applies-news-organizations](https://www.foxnews.com/media/cnn-politico-indicate-go-woke-go-broke-applies-news-organizations)
  - date_published: 2022-09-16T06:00:06+00:00
