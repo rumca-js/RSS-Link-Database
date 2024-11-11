@@ -1295,3 +1295,8 @@
  - date_published: 2024-11-06T15:46:37+00:00
  - tags: ['inclusion', 'dei', 'diversity']
 
+ ## Donald Tusk: Zastanawiałem się, czy to mówić. Ale powiem to wprost
+ - [https://www.onet.pl/informacje/onetwiadomosci/donald-tusk-zastanawialem-sie-czy-to-mowic-ale-powiem-to-wprost/wkg3bmv,79cfc278](https://www.onet.pl/informacje/onetwiadomosci/donald-tusk-zastanawialem-sie-czy-to-mowic-ale-powiem-to-wprost/wkg3bmv,79cfc278)
+ - date_published: 2024-11-10T22:11:51+00:00
+ - tags: ['climate change', 'global warming']
+

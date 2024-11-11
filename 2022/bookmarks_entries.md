@@ -2010,10 +2010,6 @@
  - [https://journal.stuffwithstuff.com/2020/04/05/crafting-crafting-interpreters](https://journal.stuffwithstuff.com/2020/04/05/crafting-crafting-interpreters)
  - date_published: 2022-04-30T08:10:51+00:00
 
- ## Internet Archive Joins Opposition to the "SMART Copyright Act" - Internet Archive Blogs
- - [http://blog.archive.org/2022/03/29/internet-archive-joins-opposition-to-the-smart-copyright-act](http://blog.archive.org/2022/03/29/internet-archive-joins-opposition-to-the-smart-copyright-act)
- - date_published: 2022-05-01T06:23:35.827651+00:00
-
  ## Google Developers Blog: What is black and white and read all over? Noto emoji, a new black and white emoji font
  - [https://developers.googleblog.com/2022/04/what-is-black-and-white-and-read-all.html](https://developers.googleblog.com/2022/04/what-is-black-and-white-and-read-all.html)
  - date_published: 2022-05-01T06:54:37+00:00
@@ -2946,10 +2942,6 @@
  - [https://arstechnica.com/tech-policy/2022/07/arizona-makes-it-illegal-for-bystanders-to-record-cops-at-close-range](https://arstechnica.com/tech-policy/2022/07/arizona-makes-it-illegal-for-bystanders-to-record-cops-at-close-range)
  - date_published: 2022-07-10T09:32:29.308274+00:00
 
- ## EFF Legal Director: "Copyright law does not stand in the way of a library’s right to lend its books" - Internet Archive Blogs
- - [http://blog.archive.org/2022/07/08/eff-legal-director-copyright-law-does-not-stand-in-the-way-of-a-librarys-right-to-lend-its-books](http://blog.archive.org/2022/07/08/eff-legal-director-copyright-law-does-not-stand-in-the-way-of-a-librarys-right-to-lend-its-books)
- - date_published: 2022-07-10T11:32:02.713498+00:00
-
  ## Boeing threatens to cancel Boeing 737 MAX 10 aircraft unless given exemption from safety requirements
  - [https://www.msn.com/en-gb/travel/news/boeing-threatens-to-cancel-boeing-737-max-10-aircraft-unless-given-exemption-from-safety-requirements/ar-AAZlPB5](https://www.msn.com/en-gb/travel/news/boeing-threatens-to-cancel-boeing-737-max-10-aircraft-unless-given-exemption-from-safety-requirements/ar-AAZlPB5)
  - date_published: 2022-07-10T15:52:31.458719+00:00
@@ -3847,10 +3839,6 @@
  ## Tutorial - Setting up Shiori
  - [https://noted.lol/tutorial-setting-up-shiori](https://noted.lol/tutorial-setting-up-shiori)
  - date_published: 2022-08-31T09:21:59.764642+00:00
-
- ## Visual Studio Code is designed to fracture
- - [https://ghuntley.com/fracture](https://ghuntley.com/fracture)
- - date_published: 2022-08-31T11:23:48+00:00
 
  ## Why is WebMD so awful? - by Tom - TJCX
  - [https://blog.tjcx.me/p/why-is-webmd-so-awful?triedSigningIn=true](https://blog.tjcx.me/p/why-is-webmd-so-awful?triedSigningIn=true)
@@ -7989,11 +7977,6 @@
  - [https://www.cnet.com/culture/heres-why-andrew-tate-is-banned-from-almost-every-social-media-platform/#ftag=CADf328eec](https://www.cnet.com/culture/heres-why-andrew-tate-is-banned-from-almost-every-social-media-platform/#ftag=CADf328eec)
  - date_published: 2022-11-15T22:44:00+00:00
  - tags: ['andrew tate', 'deplatform']
-
- ## Digital Books wear out faster than Physical Books
- - [http://blog.archive.org/2022/11/15/digital-books-wear-out-faster-than-physical-books](http://blog.archive.org/2022/11/15/digital-books-wear-out-faster-than-physical-books)
- - date_published: 2022-11-15T23:18:16+00:00
- - tags: ['books', 'digital', 'internet']
 
  ## Covid Australia: ABC's Dr Norman Swan's huge mistakes about the pandemic
  - [https://www.dailymail.co.uk/news/article-11432117/Covid-Australia-ABCs-Dr-Norman-Swans-huge-mistakes-pandemic.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11432117/Covid-Australia-ABCs-Dr-Norman-Swans-huge-mistakes-pandemic.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)

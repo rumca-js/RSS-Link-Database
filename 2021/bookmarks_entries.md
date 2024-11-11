@@ -1639,10 +1639,6 @@
  - [https://engineering.fb.com/2021/07/22/data-infrastructure/mysql](https://engineering.fb.com/2021/07/22/data-infrastructure/mysql)
  - date_published: 2021-07-23T09:37:08.839937+00:00
 
- ## Reflections as the Internet Archive turns 25 - Internet Archive Blogs
- - [https://blog.archive.org/2021/07/21/reflections-as-the-internet-archive-turns-25](https://blog.archive.org/2021/07/21/reflections-as-the-internet-archive-turns-25)
- - date_published: 2021-07-23T09:39:29.899185+00:00
-
  ## Exclusive: Discord is getting threads – this is what it looks like | TechRadar
  - [https://www.techradar.com/news/threads-are-finally-coming-to-discord](https://www.techradar.com/news/threads-are-finally-coming-to-discord)
  - date_published: 2021-07-23T15:20:33.364012+00:00

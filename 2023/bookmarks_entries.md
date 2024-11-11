@@ -1253,11 +1253,6 @@
  - date_published: 2023-01-28T14:51:13+00:00
  - tags: ['carbon emissions', 'climate change']
 
- ## BBC Modi Documentary Removal
- - [https://blog.archive.org/2023/01/27/bbc-modi-documentary-removal](https://blog.archive.org/2023/01/27/bbc-modi-documentary-removal)
- - date_published: 2023-01-28T15:21:01+00:00
- - tags: ['bbc', 'big brother', 'censorship', 'india', 'modi']
-
  ## DoD FAQ: Is Open Source Software Commercial Software? Yes.
  - [https://dodcio.defense.gov/Open-Source-Software-FAQ/#q-is-oss-commercial-software-is-it-cots](https://dodcio.defense.gov/Open-Source-Software-FAQ/#q-is-oss-commercial-software-is-it-cots)
  - date_published: 2023-01-28T18:52:04+00:00
