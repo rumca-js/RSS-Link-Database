@@ -4172,11 +4172,6 @@
  - [https://www.bbc.com/future/article/20211210-the-ways-masks-defined-our-year](https://www.bbc.com/future/article/20211210-the-ways-masks-defined-our-year)
  - date_published: 2021-12-30T10:19:26.443396+00:00
 
- ## Social Media Faces Privacy ‘Paradox’ in Spotting Underage Users
- - [https://news.bloomberglaw.com/privacy-and-data-security/social-media-faces-privacy-paradox-in-spotting-underage-users](https://news.bloomberglaw.com/privacy-and-data-security/social-media-faces-privacy-paradox-in-spotting-underage-users)
- - date_published: 2021-12-30T14:29:45.698572+00:00
- - tags: ['privacy', 'social media', 'moderation']
-
  ## GCC 12 Adds Support For Using The Mold Linker - Phoronix
  - [https://www.phoronix.com/scan.php?page=news_item&px=GCC-12-Mold-Linker](https://www.phoronix.com/scan.php?page=news_item&px=GCC-12-Mold-Linker)
  - date_published: 2021-12-30T14:56:31.310956+00:00
