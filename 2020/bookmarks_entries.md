@@ -232,11 +232,6 @@
  - date_published: 2020-03-12T07:47:45+00:00
  - tags: ['encryption', 'earn it act', 'privacy', 'crypto wars', 'big brother', 'surveillance', 'government control']
 
- ## An assistant professor says he was fired because he dared to talk about human population variation and got slandered as a eugenicist.
- - [https://www.insidehighered.com/news/2020/03/12/assistant-professor-says-hes-been-fired-because-he-dared-talk-about-human-population](https://www.insidehighered.com/news/2020/03/12/assistant-professor-says-hes-been-fired-because-he-dared-talk-about-human-population)
- - date_published: 2020-03-12T20:05:49+00:00
- - tags: ['science', 'iq', 'science is dead']
-
  ## Did Video Show Italian Army Trucks Transporting Coffins Amid COVID-19 Pandemic? | Snopes.com
  - [https://www.snopes.com/fact-check/italy-army-coffins-coronavirus](https://www.snopes.com/fact-check/italy-army-coffins-coronavirus)
  - date_published: 2020-03-16T08:13:33+00:00

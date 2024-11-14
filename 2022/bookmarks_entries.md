@@ -3382,10 +3382,6 @@
  - date_published: 2022-08-12T06:11:59+00:00
  - tags: ['privacy', 'technofeudalism']
 
- ## This 17-Year-Old Designed a Motor That Could Potentially Transform the Electric Car Industry | Innovation| Smithsonian Magazine
- - [https://www.smithsonianmag.com/innovation/this-17-year-old-designed-a-motor-that-could-potentially-transform-the-electric-car-industry-180980550](https://www.smithsonianmag.com/innovation/this-17-year-old-designed-a-motor-that-could-potentially-transform-the-electric-car-industry-180980550)
- - date_published: 2022-08-12T10:08:23.849261+00:00
-
  ## reb00ted | Is this the end of social networking?
  - [https://reb00ted.org/tech/20220727-end-of-social-networking](https://reb00ted.org/tech/20220727-end-of-social-networking)
  - date_published: 2022-08-12T10:13:32.548886+00:00

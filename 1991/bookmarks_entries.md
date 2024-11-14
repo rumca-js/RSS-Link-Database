@@ -8,8 +8,3 @@
  - date_published: 1991-07-28T10:35:28+00:00
  - tags: ['israel', 'mossad', 'jeffrey epstein', 'robert maxwell', 'ghislaine maxwell']
 
- ## Maxwell's death raises questions in Israel - UPI Archives
- - [https://www.upi.com/Archives/1991/11/06/Maxwells-death-raises-questions-in-Israel/7466689403600](https://www.upi.com/Archives/1991/11/06/Maxwells-death-raises-questions-in-Israel/7466689403600)
- - date_published: 1991-11-06T10:31:45+00:00
- - tags: ['israel', 'mossad', 'espionage', 'jeffrey epstein', 'robert maxwell']
-
