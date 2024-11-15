@@ -320,11 +320,6 @@
  - date_published: 2024-01-28T19:39:27+00:00
  - tags: ['palestine', 'fbi', 'israel']
 
- ## Five billion people being tracked by Patternz surveillance tool
- - [https://www.techzine.eu/news/privacy-compliance/115811/five-billion-people-being-tracked-by-patternz-surveillance-tool](https://www.techzine.eu/news/privacy-compliance/115811/five-billion-people-being-tracked-by-patternz-surveillance-tool)
- - date_published: 2024-01-29T09:58:00+00:00
- - tags: ['privacy', 'surveillance']
-
  ## There's so much data even spies are struggling to find secrets
  - [https://www.tbsnews.net/tech/theres-so-much-data-even-spies-are-struggling-find-secrets-783446](https://www.tbsnews.net/tech/theres-so-much-data-even-spies-are-struggling-find-secrets-783446)
  - date_published: 2024-01-29T10:35:00+00:00
@@ -748,11 +743,6 @@
  - date_published: 2024-05-10T00:00:00+00:00
  - tags: ['pfizer', 'vaccines', 'cancer']
 
- ## Firefox to collect anonymized and categorized search data
- - [https://blog.mozilla.org/en/products/firefox/firefox-search-update](https://blog.mozilla.org/en/products/firefox/firefox-search-update)
- - date_published: 2024-05-14T15:07:41+00:00
- - tags: ['surveillance', 'privacy']
-
  ## Romance author gets locked out of Google Docs for "inappropriate" content
  - [https://www.dexerto.com/tech/romance-author-gets-locked-out-of-google-docs-for-inappropriate-content-2713004](https://www.dexerto.com/tech/romance-author-gets-locked-out-of-google-docs-for-inappropriate-content-2713004)
  - date_published: 2024-05-15T02:31:25+00:00
@@ -1162,11 +1152,6 @@
  - date_published: 2024-10-02T20:58:07+00:00
  - tags: ['artificial intelligence', 'surveillence', 'ad business', 'privacy']
 
- ## France: LGBT Activist Charged With Sexual Abuse of Disabled 4 Year Old
- - [https://europeanconservative.com/articles/news/france-lgbt-activist-charged-with-sexual-abuse-of-disabled-4-year-old](https://europeanconservative.com/articles/news/france-lgbt-activist-charged-with-sexual-abuse-of-disabled-4-year-old)
- - date_published: 2024-10-04T10:14:58+00:00
- - tags: ['lgbt', 'paedophilia']
-
  ## China-linked security breach targeted U.S. wiretap systems, WSJ reports
  - [https://www.cnbc.com/2024/10/05/china-linked-security-breach-targeted-us-wiretap-systems-wsj-reports.html](https://www.cnbc.com/2024/10/05/china-linked-security-breach-targeted-us-wiretap-systems-wsj-reports.html)
  - date_published: 2024-10-05T16:18:11+00:00
@@ -1280,10 +1265,6 @@
  - [https://www.haproxy.com/blog/nearly-90-of-our-ai-crawler-traffic-is-from-tiktok-parent-bytedance-lessons-learned](https://www.haproxy.com/blog/nearly-90-of-our-ai-crawler-traffic-is-from-tiktok-parent-bytedance-lessons-learned)
  - date_published: 2024-10-31T18:09:18+00:00
  - tags: ['artificial intelligence']
-
- ## Feds: Critical Software Must Drop C/C++ by 2026 or Face Risk
- - [https://thenewstack.io/feds-critical-software-must-drop-c-c-by-2026-or-face-risk](https://thenewstack.io/feds-critical-software-must-drop-c-c-by-2026-or-face-risk)
- - date_published: 2024-11-01T01:59:50+00:00
 
  ## Mozilla is eliminating its advocacy division, which fought for a free and open web
  - [https://www.theverge.com/2024/11/5/24289124/mozilla-foundation-layoffs-advocacy-global-programs](https://www.theverge.com/2024/11/5/24289124/mozilla-foundation-layoffs-advocacy-global-programs)

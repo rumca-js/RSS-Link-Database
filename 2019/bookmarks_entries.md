@@ -570,11 +570,6 @@
  - date_published: 2019-08-21T08:52:12+00:00
  - tags: ['microsoft', 'privacy', 'xbox']
 
- ## Why Are So Many Developers Hating on Object-Oriented Programming?
- - [https://thenewstack.io/why-are-so-many-developers-hating-on-object-oriented-programming](https://thenewstack.io/why-are-so-many-developers-hating-on-object-oriented-programming)
- - date_published: 2019-08-21T10:01:11+00:00
- - tags: ['design patterns', 'programming', 'object oriented']
-
  ## Get Woke Go Broke: Gillette Backflips After $12 Billion Toxic Masculinity Disaster — Hopes to Lure Sexist Pigs Back with New Ad Campaign
  - [https://www.thegatewaypundit.com/2019/08/get-woke-go-broke-gillette-backflips-after-12-billion-toxic-masculinity-disaster-hopes-to-lure-sexist-pigs-back-with-new-ad-campaign](https://www.thegatewaypundit.com/2019/08/get-woke-go-broke-gillette-backflips-after-12-billion-toxic-masculinity-disaster-hopes-to-lure-sexist-pigs-back-with-new-ad-campaign)
  - date_published: 2019-08-22T09:09:32+00:00

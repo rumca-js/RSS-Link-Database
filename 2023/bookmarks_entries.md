@@ -5525,11 +5525,6 @@
  - date_published: 2023-06-26T12:49:27+00:00
  - tags: ['electric vehicles']
 
- ## France’s browser-based website blocking proposal will set a disastrous precedent for the open internet - Open Policy & Advocacy
- - [https://blog.mozilla.org/netpolicy/2023/06/26/france-browser-website-blocking](https://blog.mozilla.org/netpolicy/2023/06/26/france-browser-website-blocking)
- - date_published: 2023-06-26T17:49:11+00:00
- - tags: ['tech control', 'sren bill', 'censorship', 'safety', 'france', 'piracy', 'big brother', 'web browsers', 'surveillance']
-
  ## Israeli Reporter Goes Undercover as Priest – and Gets Spat at - Israel News - Haaretz.com
  - [https://www.haaretz.com/israel-news/2023-06-26/ty-article/.premium/israeli-reporter-goes-undercover-as-priest-and-gets-spat-at/00000188-f775-d6ce-abb9-f77780680000](https://www.haaretz.com/israel-news/2023-06-26/ty-article/.premium/israeli-reporter-goes-undercover-as-priest-and-gets-spat-at/00000188-f775-d6ce-abb9-f77780680000)
  - date_published: 2023-06-26T19:05:51+00:00
