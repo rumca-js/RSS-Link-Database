@@ -3,6 +3,11 @@
  - date_published: 1985-07-10T12:05:12+00:00
  - tags: ['government', 'greenpeace', 'france']
 
+ ## Carl Sagan testifying before Congress in 1985 on climate change
+ - [https://www.youtube.com/watch?v=Wp-WiNXH6hI](https://www.youtube.com/watch?v=Wp-WiNXH6hI)
+ - date_published: 1985-08-19T00:00:00+00:00
+ - tags: ['global warming', 'climate change']
+
  ## KGB Defector Yuri Bezmenov 1985 Interview. Explains KGB Manipulation of US Public Opinion
  - [https://www.youtube.com/watch?v=pOmXiapfCs8](https://www.youtube.com/watch?v=pOmXiapfCs8)
  - date_published: 1985-11-06T20:58:26+00:00
