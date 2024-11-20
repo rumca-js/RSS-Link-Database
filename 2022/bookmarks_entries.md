@@ -8026,7 +8026,7 @@
  ## ‘Positively dystopian’: judge blocks key parts of Florida’s ‘Stop-Woke’ law
  - [https://www.theguardian.com/us-news/2022/nov/18/judge-florida-ron-desantis-stop-woke-law](https://www.theguardian.com/us-news/2022/nov/18/judge-florida-ron-desantis-stop-woke-law)
  - date_published: 2022-11-18T15:12:55+00:00
- - tags: ['lgbt', 'the left wing', 'dystopia']
+ - tags: ['dystopia', 'the right wing', 'lgbt', 'the left wing']
 
  ## Forget the Metaverse, Zuck Says WhatsApp Could Be the Real Money Machine
  - [https://gizmodo.com/meta-facebook-metaverse-whatsapp-mark-zuckerberg-1849801017](https://gizmodo.com/meta-facebook-metaverse-whatsapp-mark-zuckerberg-1849801017)

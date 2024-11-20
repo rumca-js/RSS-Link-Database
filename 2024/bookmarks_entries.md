@@ -1281,3 +1281,8 @@
  - date_published: 2024-11-10T22:11:51+00:00
  - tags: ['climate change', 'global warming']
 
+ ## ‘Positively dystopian’: Florida judge blocks DeSantis’ anti-woke law for colleges
+ - [https://www.politico.com/news/2022/11/17/florida-anti-woke-law-block-colleges-education-00069252](https://www.politico.com/news/2022/11/17/florida-anti-woke-law-block-colleges-education-00069252)
+ - date_published: 2024-11-19T07:24:58+00:00
+ - tags: ['dystopia', 'woke']
+
