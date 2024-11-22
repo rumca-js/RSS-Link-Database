@@ -1286,3 +1286,8 @@
  - date_published: 2024-11-19T07:24:58+00:00
  - tags: ['dystopia', 'woke']
 
+ ## Handling cookies is a minefield
+ - [https://grayduck.mn/2024/11/21/handling-cookies-is-a-minefield](https://grayduck.mn/2024/11/21/handling-cookies-is-a-minefield)
+ - date_published: 2024-11-21T17:28:11+00:00
+ - tags: ['html', 'cookies']
+
