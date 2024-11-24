@@ -1286,8 +1286,17 @@
  - date_published: 2024-11-19T07:24:58+00:00
  - tags: ['dystopia', 'woke']
 
+ ## OpenAI accidentally erases potential evidence in training data lawsuit
+ - [https://www.theverge.com/2024/11/21/24302606/openai-erases-evidence-in-training-data-lawsuit](https://www.theverge.com/2024/11/21/24302606/openai-erases-evidence-in-training-data-lawsuit)
+ - date_published: 2024-11-21T16:46:13+00:00
+
  ## Handling cookies is a minefield
  - [https://grayduck.mn/2024/11/21/handling-cookies-is-a-minefield](https://grayduck.mn/2024/11/21/handling-cookies-is-a-minefield)
  - date_published: 2024-11-21T17:28:11+00:00
  - tags: ['html', 'cookies']
+
+ ## 'FYI. A Warrant Isn’t Needed': Secret Service Says You Agreed To Be Tracked With Location Data
+ - [https://www.404media.co/email/f459caa7-1a58-4f31-a9ba-3cb53a5046a4](https://www.404media.co/email/f459caa7-1a58-4f31-a9ba-3cb53a5046a4)
+ - date_published: 2024-11-22T01:00:00+00:00
+ - tags: ['surveillance']
 
