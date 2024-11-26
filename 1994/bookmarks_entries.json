@@ -1,1 +1,59 @@
-[{"age": null, "album": null, "author": null, "bookmarked": true, "comments": [], "date_published": "1994-04-11T07:40:44+00:00", "description": "`Real Men Have Fabs'", "id": 39637, "language": "en", "link": "https://www.bloomberg.com/news/articles/1994-04-10/real-men-have-fabs", "manual_status_code": 0, "page_rating": 30, "page_rating_contents": 86, "page_rating_visits": 0, "page_rating_votes": 0, "permanent": false, "source_url": "https://www.bloomberg.com", "status_code": 200, "tags": ["hardware", "tsmc", "processor"], "thumbnail": "https://assets.bwbx.io/s3/lightsaber/_next/static/media/social-default.cc6ae30e.jpg", "title": "`Real Men Have Fabs'", "vote": 0}, {"age": null, "album": null, "author": null, "bookmarked": true, "comments": [], "date_published": "1994-04-15T09:30:53+00:00", "description": "Tobacco Chiefs Say Cigarettes Aren't Addictive - The New York Times", "id": 39636, "language": "en", "link": "https://www.nytimes.com/1994/04/15/us/tobacco-chiefs-say-cigarettes-aren-t-addictive.html", "manual_status_code": 0, "page_rating": 29, "page_rating_contents": 80, "page_rating_visits": 0, "page_rating_votes": 0, "permanent": false, "source_url": "https://www.nytimes.com", "status_code": 403, "tags": ["cigarettes", "manufacturing consent", "tobacco", "congress"], "thumbnail": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png?year=1994", "title": "Tobacco Chiefs Say Cigarettes Aren't Addictive - The New York Times", "vote": 0}]
+[
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_published": "1994-04-11T07:40:44+00:00",
+        "description": "`Real Men Have Fabs'",
+        "id": 39637,
+        "language": "en",
+        "link": "https://www.bloomberg.com/news/articles/1994-04-10/real-men-have-fabs",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "https://www.bloomberg.com",
+        "status_code": 200,
+        "tags": [
+            "hardware",
+            "tsmc",
+            "processor"
+        ],
+        "thumbnail": "https://assets.bwbx.io/s3/lightsaber/_next/static/media/social-default.cc6ae30e.jpg",
+        "title": "`Real Men Have Fabs'",
+        "vote": 0
+    },
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_published": "1994-04-15T09:30:53+00:00",
+        "description": "Tobacco Chiefs Say Cigarettes Aren't Addictive - The New York Times",
+        "id": 39636,
+        "language": "en",
+        "link": "https://www.nytimes.com/1994/04/15/us/tobacco-chiefs-say-cigarettes-aren-t-addictive.html",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 80,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "https://www.nytimes.com",
+        "status_code": 403,
+        "tags": [
+            "cigarettes",
+            "manufacturing consent",
+            "tobacco",
+            "congress"
+        ],
+        "thumbnail": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png?year=1994",
+        "title": "Tobacco Chiefs Say Cigarettes Aren't Addictive - The New York Times",
+        "vote": 0
+    }
+]

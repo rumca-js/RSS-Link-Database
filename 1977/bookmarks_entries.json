@@ -1,1 +1,62 @@
-[{"age": null, "album": null, "author": null, "bookmarked": true, "comments": [], "date_published": "1977-04-28T09:36:43+00:00", "description": "CIA\u2019s Operation Mockingbird a precursor of US manipulation of world public opinion", "id": 39698, "language": "en-US", "link": "https://www.helsinkitimes.fi/china-news/20343-cia-s-operation-mockingbird-a-precursor-of-us-manipulation-of-world-public-opinion.html", "manual_status_code": 0, "page_rating": 30, "page_rating_contents": 86, "page_rating_visits": 0, "page_rating_votes": 0, "permanent": false, "source_url": "https://www.helsinkitimes.fi", "status_code": 200, "tags": ["psyop", "operation mockingbird", "manufacturing consent", "propaganda", "cia"], "thumbnail": "http://www.helsinkitimes.fi/images/logo-mini.jpg", "title": "CIA\u2019s Operation Mockingbird a precursor of US manipulation of world public opinion", "vote": 0}, {"age": null, "album": null, "author": null, "bookmarked": true, "comments": [], "date_published": "1977-04-28T09:41:24+00:00", "description": "Operation Mockingbird - Wikipedia", "id": 39697, "language": "en-US", "link": "https://en.wikipedia.org/wiki/Operation_Mockingbird", "manual_status_code": 0, "page_rating": 29, "page_rating_contents": 81, "page_rating_visits": 0, "page_rating_votes": 0, "permanent": false, "source_url": "https://en.wikipedia.org", "status_code": 200, "tags": ["psyop", "operation mockingbird", "manufacturing consent", "propaganda", "cia"], "thumbnail": null, "title": "Operation Mockingbird - Wikipedia", "vote": 0}]
+[
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_published": "1977-04-28T09:36:43+00:00",
+        "description": "CIA\u2019s Operation Mockingbird a precursor of US manipulation of world public opinion",
+        "id": 39698,
+        "language": "en-US",
+        "link": "https://www.helsinkitimes.fi/china-news/20343-cia-s-operation-mockingbird-a-precursor-of-us-manipulation-of-world-public-opinion.html",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "https://www.helsinkitimes.fi",
+        "status_code": 200,
+        "tags": [
+            "psyop",
+            "operation mockingbird",
+            "manufacturing consent",
+            "propaganda",
+            "cia"
+        ],
+        "thumbnail": "http://www.helsinkitimes.fi/images/logo-mini.jpg",
+        "title": "CIA\u2019s Operation Mockingbird a precursor of US manipulation of world public opinion",
+        "vote": 0
+    },
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_published": "1977-04-28T09:41:24+00:00",
+        "description": "Operation Mockingbird - Wikipedia",
+        "id": 39697,
+        "language": "en-US",
+        "link": "https://en.wikipedia.org/wiki/Operation_Mockingbird",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "https://en.wikipedia.org",
+        "status_code": 200,
+        "tags": [
+            "psyop",
+            "operation mockingbird",
+            "manufacturing consent",
+            "propaganda",
+            "cia"
+        ],
+        "thumbnail": null,
+        "title": "Operation Mockingbird - Wikipedia",
+        "vote": 0
+    }
+]
