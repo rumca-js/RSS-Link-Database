@@ -4906,6 +4906,7 @@
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
+        "source__id": 547,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSHZKyawb77ixDdsGog4iWA",
         "status_code": 200,
         "tags": [
