@@ -1300,3 +1300,13 @@
  - date_published: 2024-11-22T01:00:00+00:00
  - tags: ['surveillance']
 
+ ## Five Companies Produce Nearly 25 Percent of All Plastic Waste Worldwide
+ - [https://www.sierraclub.org/sierra/just-five-companies-produce-nearly-25-percent-all-plastic-waste-worldwide](https://www.sierraclub.org/sierra/just-five-companies-produce-nearly-25-percent-all-plastic-waste-worldwide)
+ - date_published: 2024-11-27T07:23:08+00:00
+ - tags: ['climate change', 'pollution']
+
+ ## FIRST READING: Ontario town fined $10,000 for refusing to celebrate pride month
+ - [https://nationalpost.com/opinion/ontario-town-fined-10000-for-refusing-to-celebrate-pride-month](https://nationalpost.com/opinion/ontario-town-fined-10000-for-refusing-to-celebrate-pride-month)
+ - date_published: 2024-11-28T19:43:41+00:00
+ - tags: ['pride month', 'lgbt', 'the left wing']
+

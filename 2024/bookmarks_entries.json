@@ -7277,5 +7277,61 @@
         "thumbnail": "https://www.404media.co/content/images/size/w1200/2024/11/secert-service-foia.png",
         "title": "'FYI. A Warrant Isn\u2019t Needed': Secret Service Says You Agreed To Be Tracked With Location Data",
         "vote": 0
+    },
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_published": "2024-11-27T07:23:08+00:00",
+        "description": "\n<p>Article URL: <a href=\"https://www.sierraclub.org/sierra/just-five-companies-produce-nearly-25-percent-all-plastic-waste-worldwide\">https://www.sierraclub.org/sierra/just-five-companies-produce-nearly-25-percent-all-plastic-waste-worldwide</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42253773\">https://news.ycombinator.com/item?id=42253773</a></p>\n<p>Points: 19</p>\n<p># Comments: 13</p>\n",
+        "id": 1594864,
+        "language": null,
+        "link": "https://www.sierraclub.org/sierra/just-five-companies-produce-nearly-25-percent-all-plastic-waste-worldwide",
+        "manual_status_code": 0,
+        "page_rating": 33,
+        "page_rating_contents": 95,
+        "page_rating_visits": 2,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 141,
+        "source_url": "https://hnrss.org/frontpage",
+        "status_code": 0,
+        "tags": [
+            "climate change",
+            "pollution"
+        ],
+        "thumbnail": null,
+        "title": "Five Companies Produce Nearly 25 Percent of All Plastic Waste Worldwide",
+        "vote": 0
+    },
+    {
+        "age": 0,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_published": "2024-11-28T19:43:41+00:00",
+        "description": "Emo, Ont. was also cited for failing to fly a pride flag, despite not having a flag pole",
+        "id": 1605413,
+        "language": "en",
+        "link": "https://nationalpost.com/opinion/ontario-town-fined-10000-for-refusing-to-celebrate-pride-month",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "pride month",
+            "lgbt",
+            "the left wing"
+        ],
+        "thumbnail": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2024/11/6077927981_241c8e744f_k.jpg",
+        "title": "FIRST READING: Ontario town fined $10,000 for refusing to celebrate pride month",
+        "vote": 0
     }
 ]
