@@ -1300,6 +1300,11 @@
  - date_published: 2024-11-22T01:00:00+00:00
  - tags: ['surveillance']
 
+ ## FA set ethnic diversity quota target for England coaches by 2028
+ - [https://www.dailymail.co.uk/sport/football/article-14129061/FA-set-ethnic-diversity-quota-target-England-coaching-staff-2028-alongside-drive-crack-discriminatory-abuse-suffered-stars.html](https://www.dailymail.co.uk/sport/football/article-14129061/FA-set-ethnic-diversity-quota-target-England-coaching-staff-2028-alongside-drive-crack-discriminatory-abuse-suffered-stars.html)
+ - date_published: 2024-11-26T19:55:01+00:00
+ - tags: ['inequality', 'racism', 'quotas']
+
  ## Five Companies Produce Nearly 25 Percent of All Plastic Waste Worldwide
  - [https://www.sierraclub.org/sierra/just-five-companies-produce-nearly-25-percent-all-plastic-waste-worldwide](https://www.sierraclub.org/sierra/just-five-companies-produce-nearly-25-percent-all-plastic-waste-worldwide)
  - date_published: 2024-11-27T07:23:08+00:00
@@ -1309,4 +1314,14 @@
  - [https://nationalpost.com/opinion/ontario-town-fined-10000-for-refusing-to-celebrate-pride-month](https://nationalpost.com/opinion/ontario-town-fined-10000-for-refusing-to-celebrate-pride-month)
  - date_published: 2024-11-28T19:43:41+00:00
  - tags: ['pride month', 'lgbt', 'the left wing']
+
+ ## President Biden pardons his son Hunter Biden | CNN Politics
+ - [https://edition.cnn.com/2024/12/01/politics/hunter-biden-joe-biden-pardon/index.html](https://edition.cnn.com/2024/12/01/politics/hunter-biden-joe-biden-pardon/index.html)
+ - date_published: 2024-12-02T01:32:05+00:00
+ - tags: ['joe biden', 'billionaires', 'inequality', 'hunter biden', 'elite']
+
+ ## Why won't ChatGPT acknowledge the name David Mayer? Internet users uncover mystery
+ - [https://eu.usatoday.com/story/tech/news/2024/12/02/david-mayer-chatgpt-ai/76698820007](https://eu.usatoday.com/story/tech/news/2024/12/02/david-mayer-chatgpt-ai/76698820007)
+ - date_published: 2024-12-02T22:07:18+00:00
+ - tags: ['elite', 'david mayer', 'billionaires', 'inequality', 'rothschild']
 
