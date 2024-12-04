@@ -6113,7 +6113,7 @@
  ## Nigel Farage’s Coutts account closed as bank felt he did not ‘align with their values’
  - [https://www.telegraph.co.uk/news/2023/07/18/nigel-farage-coutts-bank-account-closed-align-with-values](https://www.telegraph.co.uk/news/2023/07/18/nigel-farage-coutts-bank-account-closed-align-with-values)
  - date_published: 2023-07-18T16:15:04+00:00
- - tags: ['censorship', 'nigel farage', 'manufacturing consent', 'deplatform']
+ - tags: ['manufacturing consent', 'debanking', 'censorship', 'deplatform', 'nigel farage']
 
  ## Save Open Source: The Impending Tragedy of the Cyber Resilience Act - The Apache Software Foundation Blog
  - [https://news.apache.org/foundation/entry/save-open-source-the-impending-tragedy-of-the-cyber-resilience-act](https://news.apache.org/foundation/entry/save-open-source-the-impending-tragedy-of-the-cyber-resilience-act)

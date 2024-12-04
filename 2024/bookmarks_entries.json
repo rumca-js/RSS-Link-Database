@@ -7281,6 +7281,33 @@
     {
         "age": 0,
         "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_published": "2024-11-26T19:00:00+00:00",
+        "description": "The Joe Rogan Experience \u00b7 Episode",
+        "id": 1632658,
+        "language": "en",
+        "link": "https://open.spotify.com/episode/0U4Y0an6iKM1VB8pE1M4vQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "debanking",
+            "deplatform"
+        ],
+        "thumbnail": "https://i.scdn.co/image/ab6765630000ba8a83c5018081fa72ccce513e9f",
+        "title": "#2234 - Marc Andreessen",
+        "vote": 0
+    },
+    {
+        "age": 0,
+        "album": null,
         "author": "Sami Mokbel",
         "bookmarked": true,
         "comments": [],
@@ -7360,6 +7387,33 @@
         ],
         "thumbnail": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2024/11/6077927981_241c8e744f_k.jpg",
         "title": "FIRST READING: Ontario town fined $10,000 for refusing to celebrate pride month",
+        "vote": 0
+    },
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_published": "2024-11-30T22:17:48.286418+00:00",
+        "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
+        "id": 1617906,
+        "language": "en",
+        "link": "https://www.zerohedge.com/political/fintech-ceos-expose-how-feds-colluded-over-debanking-schemes-after-andreessen-opened",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "debanking",
+            "deplatform"
+        ],
+        "thumbnail": null,
+        "title": "FinTech CEOs Expose How Feds Colluded In 'Debanking' Schemes After Andreessen 'Opened The Floodgates' On Rogan | ZeroHedge",
         "vote": 0
     },
     {

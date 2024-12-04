@@ -1300,6 +1300,11 @@
  - date_published: 2024-11-22T01:00:00+00:00
  - tags: ['surveillance']
 
+ ## #2234 - Marc Andreessen
+ - [https://open.spotify.com/episode/0U4Y0an6iKM1VB8pE1M4vQ](https://open.spotify.com/episode/0U4Y0an6iKM1VB8pE1M4vQ)
+ - date_published: 2024-11-26T19:00:00+00:00
+ - tags: ['debanking', 'deplatform']
+
  ## FA set ethnic diversity quota target for England coaches by 2028
  - [https://www.dailymail.co.uk/sport/football/article-14129061/FA-set-ethnic-diversity-quota-target-England-coaching-staff-2028-alongside-drive-crack-discriminatory-abuse-suffered-stars.html](https://www.dailymail.co.uk/sport/football/article-14129061/FA-set-ethnic-diversity-quota-target-England-coaching-staff-2028-alongside-drive-crack-discriminatory-abuse-suffered-stars.html)
  - date_published: 2024-11-26T19:55:01+00:00
@@ -1314,6 +1319,11 @@
  - [https://nationalpost.com/opinion/ontario-town-fined-10000-for-refusing-to-celebrate-pride-month](https://nationalpost.com/opinion/ontario-town-fined-10000-for-refusing-to-celebrate-pride-month)
  - date_published: 2024-11-28T19:43:41+00:00
  - tags: ['pride month', 'lgbt', 'the left wing']
+
+ ## FinTech CEOs Expose How Feds Colluded In 'Debanking' Schemes After Andreessen 'Opened The Floodgates' On Rogan | ZeroHedge
+ - [https://www.zerohedge.com/political/fintech-ceos-expose-how-feds-colluded-over-debanking-schemes-after-andreessen-opened](https://www.zerohedge.com/political/fintech-ceos-expose-how-feds-colluded-over-debanking-schemes-after-andreessen-opened)
+ - date_published: 2024-11-30T22:17:48.286418+00:00
+ - tags: ['debanking', 'deplatform']
 
  ## President Biden pardons his son Hunter Biden | CNN Politics
  - [https://edition.cnn.com/2024/12/01/politics/hunter-biden-joe-biden-pardon/index.html](https://edition.cnn.com/2024/12/01/politics/hunter-biden-joe-biden-pardon/index.html)
