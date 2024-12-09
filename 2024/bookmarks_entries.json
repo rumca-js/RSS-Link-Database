@@ -7475,5 +7475,32 @@
         "thumbnail": "https://www.gannett-cdn.com/authoring/authoring-images/2024/12/02/USAT/76698893007-20240311-t-171056-z-1090813651-rc-2-sj-6-acn-6-sh-rtrmadp-3-muskai.JPG?auto=webp&crop=2999,1687,x0,y100&format=pjpg&width=1200",
         "title": "Why won't ChatGPT acknowledge the name David Mayer? Internet users uncover mystery",
         "vote": 9
+    },
+    {
+        "age": 0,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_published": "2024-12-08T09:51:37+00:00",
+        "description": "LGBTQ2+ activists have literally made Emo Township Mayor Harold McQuaker pay for daring to stand up to them.",
+        "id": 1666645,
+        "language": "en",
+        "link": "https://torontosun.com/news/local-news/warmington-mayor-who-stood-up-to-pride-group-has-bank-account-garnished",
+        "manual_status_code": 0,
+        "page_rating": 38,
+        "page_rating_contents": 90,
+        "page_rating_visits": 2,
+        "page_rating_votes": 10,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "tolerance",
+            "lgbt"
+        ],
+        "thumbnail": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/12/thumbnail_IMG_1264.jpg",
+        "title": "WARMINGTON: Mayor who stood up to Pride group has bank account garnished",
+        "vote": 10
     }
 ]
