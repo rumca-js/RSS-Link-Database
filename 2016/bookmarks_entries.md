@@ -2,6 +2,7 @@
  - [https://humansbefree.com/2016/01/feminism-how-the-rockefellers-re-engineered-women-and-why.html](https://humansbefree.com/2016/01/feminism-how-the-rockefellers-re-engineered-women-and-why.html)
  - date_published: 2016-01-01T21:06:57+00:00
  - tags: ['social engineering', 'rockefeller', 'feminism', 'aaron russo', 'conspiracy theory', 'propaganda']
+ - date_dead_since: 2024-10-27T03:35:39.715590+00:00
 
  ## Microsoft may be collecting more data than initially thought - gHacks Tech News
  - [https://www.ghacks.net/2016/01/05/microsoft-may-be-collecting-more-data-than-initially-thought](https://www.ghacks.net/2016/01/05/microsoft-may-be-collecting-more-data-than-initially-thought)
@@ -197,11 +198,13 @@
  - [https://www.reuters.com/article/idUSKCN0ZH4LM](https://www.reuters.com/article/idUSKCN0ZH4LM)
  - date_published: 2016-07-01T14:01:58+00:00
  - tags: ['church scandal', 'catholic']
+ - date_dead_since: 2024-09-27T18:33:48.193472+00:00
 
  ## Spirited Away and The Prostitution Theory
  - [https://sites.psu.edu/angelapassion/2016/07/02/spirited-away](https://sites.psu.edu/angelapassion/2016/07/02/spirited-away)
  - date_published: 2016-07-02T20:42:05+00:00
  - tags: ['conspiracy theory', 'spirited away', 'movies']
+ - date_dead_since: 2024-10-27T01:57:30.860948+00:00
 
  ## Papież Benedykt XVI: W Watykanie była „gejowska sitwa” – DW – 03.07.2016
  - [https://www.dw.com/pl/papie%C5%BC-benedykt-xvi-w-watykanie-by%C5%82a-gejowska-sitwa/a-19374854](https://www.dw.com/pl/papie%C5%BC-benedykt-xvi-w-watykanie-by%C5%82a-gejowska-sitwa/a-19374854)
@@ -227,6 +230,7 @@
  - [https://www.lifezette.com/2016/07/lefts-new-weapon-diversity-inclusion](https://www.lifezette.com/2016/07/lefts-new-weapon-diversity-inclusion)
  - date_published: 2016-07-14T15:47:42+00:00
  - tags: ['equity', 'diversity', 'inclusion', 'propaganda']
+ - date_dead_since: 2024-10-27T01:26:12.663639+00:00
 
  ## France church attack: Priest killed by two 'IS militants' - BBC News
  - [https://www.bbc.com/news/world-europe-36892785](https://www.bbc.com/news/world-europe-36892785)

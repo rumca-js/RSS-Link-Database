@@ -27,6 +27,7 @@
  - [https://www.thecrimemag.com/epsteins-prison-cell](https://www.thecrimemag.com/epsteins-prison-cell)
  - date_published: 2020-01-05T12:15:41+00:00
  - tags: ['jeffrey epstein']
+ - date_dead_since: 2024-04-24T00:29:15.626231+00:00
 
  ## Joe Rogan on Ricky Gervais' Golden Globes Monologue
  - [https://www.youtube.com/watch?v=WRbaQrb3Jhk](https://www.youtube.com/watch?v=WRbaQrb3Jhk)
@@ -42,6 +43,7 @@
  - [https://www.wsj.com/articles/new-virus-discovered-by-chinese-scientists-investigating-pneumonia-outbreak-11578485668?mod=article_inline](https://www.wsj.com/articles/new-virus-discovered-by-chinese-scientists-investigating-pneumonia-outbreak-11578485668?mod=article_inline)
  - date_published: 2020-01-08T07:50:34+00:00
  - tags: ['fearmongering', 'covid', 'covid origins', 'lab leak']
+ - date_dead_since: 2024-10-25T12:00:34.999921+00:00
 
  ## Ring Fired Employees for Watching Customer Videos
  - [https://www.vice.com/en/article/y3mdvk/ring-fired-employees-abusing-video-data](https://www.vice.com/en/article/y3mdvk/ring-fired-employees-abusing-video-data)
@@ -186,11 +188,13 @@
  - [https://busibuggy.blogspot.com/2020/02/blackrocks-black-box-technology-hub-of.html](https://busibuggy.blogspot.com/2020/02/blackrocks-black-box-technology-hub-of.html)
  - date_published: 2020-02-23T22:16:00+00:00
  - tags: ['artificial intelligence', 'aladdin', 'blackrock']
+ - date_dead_since: 2024-10-25T10:05:48.671049+00:00
 
  ## Prince Andrew Linked to Another 'Predator': Alleged Pedophile and Rapist Peter Nygard
  - [https://humansbefree.com/2020/02/prince-andrew-peter-nygard.html](https://humansbefree.com/2020/02/prince-andrew-peter-nygard.html)
  - date_published: 2020-02-26T10:24:40+00:00
  - tags: ['paedophilia', 'peter nygard', 'prince andrew']
+ - date_dead_since: 2024-10-25T08:45:36.294053+00:00
 
  ## Your smart speaker could be listening in on your conversations by accident
  - [https://www.techradar.com/news/your-smart-speaker-could-be-accidentally-listening-in-on-your-conversations](https://www.techradar.com/news/your-smart-speaker-could-be-accidentally-listening-in-on-your-conversations)
@@ -300,6 +304,7 @@
  - [https://sagegerard.com/stop-learning-so-much.html](https://sagegerard.com/stop-learning-so-much.html)
  - date_published: 2020-03-31T09:10:22+00:00
  - tags: ['science', 'programming']
+ - date_dead_since: 2024-04-24T00:23:51.284906+00:00
 
  ## Misused photo of migrants’ coffins used to cast doubt on Covid-19 in Italy
  - [https://observers.france24.com/en/europe/20220106-debunked-covid-19-migrant-coffins-documentary-bergamo](https://observers.france24.com/en/europe/20220106-debunked-covid-19-migrant-coffins-documentary-bergamo)
@@ -409,6 +414,7 @@
  - [https://thehill.com/changing-america/well-being/longevity/497519-more-than-100000-small-businesses-have-permanently](https://thehill.com/changing-america/well-being/longevity/497519-more-than-100000-small-businesses-have-permanently)
  - date_published: 2020-05-13T20:41:10+00:00
  - tags: ['covid', 'lockdown']
+ - date_dead_since: 2024-10-25T04:38:05.531918+00:00
 
  ## 6 Powermods Control 118/500 Top Subreddits
  - [https://www.reddit.com/r/everything/comments/gjgf1z/6_powermods_control_118500_top_subreddits](https://www.reddit.com/r/everything/comments/gjgf1z/6_powermods_control_118500_top_subreddits)
@@ -449,11 +455,13 @@
  - [https://www.reuters.com/article/health-coronavirus-sweden-economy/swedish-economy-on-track-for-7-contraction-this-year-fin-min-idUSS3N29P01Z](https://www.reuters.com/article/health-coronavirus-sweden-economy/swedish-economy-on-track-for-7-contraction-this-year-fin-min-idUSS3N29P01Z)
  - date_published: 2020-05-26T05:39:58+00:00
  - tags: ['sweden', 'covid', 'lockdown']
+ - date_dead_since: 2024-09-27T04:35:59.024991+00:00
 
  ## Critical analysis of Andersen et al. The proximal origin of SARS-CoV-2
  - [https://drasticresearch.files.wordpress.com/2023/05/an-argument-against-natural-covid-19-creation-copy-2.pdf](https://drasticresearch.files.wordpress.com/2023/05/an-argument-against-natural-covid-19-creation-copy-2.pdf)
  - date_published: 2020-05-26T14:16:40+00:00
  - tags: ['lab leak', 'wuhan', 'covid']
+ - date_dead_since: 2024-10-25T03:48:46.058945+00:00
 
  ## Study: Up to 80% of COVID-19 Infections Are Asymptomatic | Time
  - [https://time.com/5842669/coronavirus-asymptomatic-transmission](https://time.com/5842669/coronavirus-asymptomatic-transmission)
@@ -504,6 +512,7 @@
  ## Against Method and For 'Pseudoscience'
  - [https://notrelated.xyz/audio/s02/S02E01_-_Against_Method_and_For_Pseudoscience.ogg](https://notrelated.xyz/audio/s02/S02E01_-_Against_Method_and_For_Pseudoscience.ogg)
  - date_published: 2020-06-05T04:00:00+00:00
+ - date_dead_since: 2024-04-23T01:50:19.047430+00:00
 
  ## Programming 'language': Brain scans reveal coding uses same regions as speech
  - [https://medicalxpress.com/news/2020-06-language-brain-scans-reveal-coding.html](https://medicalxpress.com/news/2020-06-language-brain-scans-reveal-coding.html)
@@ -579,6 +588,7 @@
  - [https://www.barrons.com/articles/blackrock-is-biggest-beneficiary-of-fed-purchases-of-corporate-bond-etfs-51591034726](https://www.barrons.com/articles/blackrock-is-biggest-beneficiary-of-fed-purchases-of-corporate-bond-etfs-51591034726)
  - date_published: 2020-06-20T16:50:04+00:00
  - tags: ['billionaires', 'manufacturing consent', 'blackrock']
+ - date_dead_since: 2024-10-25T03:14:51.018372+00:00
 
  ## Why the Lawful Access to Encrypted Data Act is a Threat to your Privacy
  - [https://www.globalsign.com/en/blog/why-lawful-access-encrypted-data-act-threat-your-rights-and-privacy](https://www.globalsign.com/en/blog/why-lawful-access-encrypted-data-act-threat-your-rights-and-privacy)
@@ -599,6 +609,7 @@
  - [https://www.rp.pl/spoleczenstwo/art654161-eksperyment-kentlera-jak-w-niemczech-przekazywano-dzieci-pedofilom](https://www.rp.pl/spoleczenstwo/art654161-eksperyment-kentlera-jak-w-niemczech-przekazywano-dzieci-pedofilom)
  - date_published: 2020-06-26T07:32:08+00:00
  - tags: ['big brother', 'germany', 'paedophilia', 'kentler', 'government']
+ - date_dead_since: 2024-10-25T03:09:31.793946+00:00
 
  ## Almost 300 Windows 10 executables vulnerable to DLL hijacking
  - [https://www.bleepingcomputer.com/news/security/almost-300-windows-10-executables-vulnerable-to-dll-hijacking](https://www.bleepingcomputer.com/news/security/almost-300-windows-10-executables-vulnerable-to-dll-hijacking)
@@ -629,6 +640,7 @@
  - [https://www.rt.com/op-ed/493295-stop-hate-advertising-extortion-astroturf](https://www.rt.com/op-ed/493295-stop-hate-advertising-extortion-astroturf)
  - date_published: 2020-06-29T12:14:35+00:00
  - tags: ['censorship', 'facebook', 'hate speech', 'hypocrisy', 'stop hate for profit', 'propaganda', 'free speech']
+ - date_dead_since: 2024-10-25T02:23:47.015800+00:00
 
  ## Google's dreaded SafetyNet hardware check has been spotted in the wild
  - [https://www.androidpolice.com/2020/06/29/googles-dreaded-safetynet-hardware-check-has-been-spotted-in-the-wild](https://www.androidpolice.com/2020/06/29/googles-dreaded-safetynet-hardware-check-has-been-spotted-in-the-wild)
@@ -719,6 +731,7 @@
  - [https://www.reuters.com/article/idUSKCN24F2N4](https://www.reuters.com/article/idUSKCN24F2N4)
  - date_published: 2020-07-14T06:55:51+00:00
  - tags: ['technofeudalism', 'privacy', 'google', 'surveillance']
+ - date_dead_since: 2024-09-27T03:47:08.060344+00:00
 
  ## ‘Black Lives Matter activists’ flood murdered ‘All Lives Matter’ mom’s social media pages with mocking messages – The US Sun | The US Sun
  - [https://www.the-sun.com/news/1137649/indiana-mom-all-black-lives-matter-shot-facebook](https://www.the-sun.com/news/1137649/indiana-mom-all-black-lives-matter-shot-facebook)
@@ -789,6 +802,7 @@
  - [https://www.reuters.com/article/us-health-coronavirus-moderna-funding-idUSKCN24R0IN](https://www.reuters.com/article/us-health-coronavirus-moderna-funding-idUSKCN24R0IN)
  - date_published: 2020-07-26T22:02:16+00:00
  - tags: ['moderna', 'big pharma', 'covid', 'vaccine']
+ - date_dead_since: 2024-09-27T03:32:07.529293+00:00
 
  ## INSANE: Netflix Pushes Trans Propaganda On KIDS Show; Shapiro Responds
  - [https://www.youtube.com/watch?v=HxbOM6swuTg](https://www.youtube.com/watch?v=HxbOM6swuTg)
@@ -848,6 +862,7 @@
  ## Stoicism and Christianity: Trust the Logos!
  - [https://notrelated.xyz/audio/s02/S02E02_-_Stoicism_and_Christianity_Trust_the_Logos.ogg](https://notrelated.xyz/audio/s02/S02E02_-_Stoicism_and_Christianity_Trust_the_Logos.ogg)
  - date_published: 2020-07-31T04:00:00+00:00
+ - date_dead_since: 2024-04-23T01:46:23.040756+00:00
 
  ## Google Home might be listening to more than just wake words after secret update
  - [https://www.techradar.com/news/google-home-might-be-listening-to-more-than-just-wake-words-after-secret-update](https://www.techradar.com/news/google-home-might-be-listening-to-more-than-just-wake-words-after-secret-update)
@@ -901,6 +916,7 @@
  - [https://www.youtube.com/watch?v=jyRjbK-yKSk](https://www.youtube.com/watch?v=jyRjbK-yKSk)
  - date_published: 2020-08-11T00:00:00+00:00
  - tags: ['black lives matter', 'indoctrination', 'the left wing']
+ - date_dead_since: 2024-04-23T01:45:37.630217+00:00
 
  ## Black Lives Matter is a Domestic Terrorist Organization | Change My Mind
  - [https://www.youtube.com/watch?v=yITK_Bm78mI](https://www.youtube.com/watch?v=yITK_Bm78mI)
@@ -931,6 +947,7 @@
  - [https://www.reuters.com/article/health-coronavirus-germany-vaccine-idUSKBN2661KP](https://www.reuters.com/article/health-coronavirus-germany-vaccine-idUSKBN2661KP)
  - date_published: 2020-08-15T21:59:40+00:00
  - tags: ['pfizer', 'biontech', 'covid', 'vaccine', 'big pharma']
+ - date_dead_since: 2024-09-27T02:45:52.711025+00:00
 
  ## Write Code as If You Had to Support It for the Rest of Your Life
  - [https://medium.com/oreillymedia/write-code-as-if-you-had-to-support-it-for-the-rest-of-your-life-a707d3442f1a](https://medium.com/oreillymedia/write-code-as-if-you-had-to-support-it-for-the-rest-of-your-life-a707d3442f1a)
@@ -1050,6 +1067,7 @@
  - [https://www.euronews.com/2020/07/09/norway-will-prioritise-lesbian-gay-bisexual-and-transgender-refugees](https://www.euronews.com/2020/07/09/norway-will-prioritise-lesbian-gay-bisexual-and-transgender-refugees)
  - date_published: 2020-09-07T21:01:23+00:00
  - tags: ['lgbt', 'inequality', 'norway', 'the left wing']
+ - date_dead_since: 2024-10-24T17:15:06.746700+00:00
 
  ## 4Chan /x/ Board - Epstein's employee exposes all that happened (repost)
  - [https://www.youtube.com/watch?v=bLsCoqwpvCw](https://www.youtube.com/watch?v=bLsCoqwpvCw)
@@ -1119,6 +1137,7 @@
  ## Myth as History: Rohl's New Chronology
  - [https://notrelated.xyz/audio/s02/S02E03_-_Myth_as_History_Rohls_New_Chronology.ogg](https://notrelated.xyz/audio/s02/S02E03_-_Myth_as_History_Rohls_New_Chronology.ogg)
  - date_published: 2020-09-21T04:00:00+00:00
+ - date_dead_since: 2024-04-23T01:42:28.187656+00:00
 
  ## Gates Foundation funds Facebook fact-checkers that defend it from allegations
  - [https://reclaimthenet.org/gates-foundation-funds-facebook-fact-checkers](https://reclaimthenet.org/gates-foundation-funds-facebook-fact-checkers)
@@ -1212,6 +1231,7 @@
  - [https://www.tvp.info/50178233/artykul-o-margot-na-anglojezycznej-wikipedii-z-najwyzszym-poziomem-ochrony-tylko-nieliczni-moga-ingerowac-w-tresc-wieszwiecej](https://www.tvp.info/50178233/artykul-o-margot-na-anglojezycznej-wikipedii-z-najwyzszym-poziomem-ochrony-tylko-nieliczni-moga-ingerowac-w-tresc-wieszwiecej)
  - date_published: 2020-10-04T21:09:53+00:00
  - tags: ['lgbt', 'inequality', 'margot', 'the left wing']
+ - date_dead_since: 2024-10-24T15:01:20.662797+00:00
 
  ## A WeChat Ban Would End Their Lifeline - The New York Times
  - [https://www.nytimes.com/2020/10/05/nyregion/us-wechat-ban.html](https://www.nytimes.com/2020/10/05/nyregion/us-wechat-ban.html)
@@ -1352,6 +1372,7 @@
  - [https://www.reuters.com/article/us-netherlands-lgbt-asylum-trfn-idUSKBN27L29M](https://www.reuters.com/article/us-netherlands-lgbt-asylum-trfn-idUSKBN27L29M)
  - date_published: 2020-11-05T21:05:40+00:00
  - tags: ['lgbt', 'the left wing', 'homosexuality', 'inequality', 'netherlands']
+ - date_dead_since: 2024-09-27T01:02:01.897161+00:00
 
  ## Coronavirus: Britons should be paid to take COVID-19 vaccine, says Oxford professor | UK News | Sky News
  - [https://news.sky.com/story/coronavirus-britons-should-be-paid-to-take-covid-19-vaccine-says-oxford-professor-12125012](https://news.sky.com/story/coronavirus-britons-should-be-paid-to-take-covid-19-vaccine-says-oxford-professor-12125012)
@@ -1362,6 +1383,7 @@
  - [https://www.tvp.info/50701017/homoseksualisci-moga-kupic-dzieci-trwaja-miedzynarodowe-targi](https://www.tvp.info/50701017/homoseksualisci-moga-kupic-dzieci-trwaja-miedzynarodowe-targi)
  - date_published: 2020-11-07T08:46:55+00:00
  - tags: ['lgbt', 'the left wing', 'surrogacy', 'children']
+ - date_dead_since: 2024-10-24T11:18:25.647148+00:00
 
  ## Norway outlaws hate speech against trans people
  - [https://news.trust.org/item/20201110191107-tecjt](https://news.trust.org/item/20201110191107-tecjt)
@@ -1425,6 +1447,7 @@
  - [https://www.reuters.com/article/us-health-coronavirus-facemasks-idUSKBN27Y1YW](https://www.reuters.com/article/us-health-coronavirus-facemasks-idUSKBN27Y1YW)
  - date_published: 2020-11-18T19:57:37+00:00
  - tags: ['covid', 'masks']
+ - date_dead_since: 2024-09-27T00:57:03.592015+00:00
 
  ## How Kyle Rittenhouse and Joseph Rosenbaum's paths crossed in a fatal encounter | Visual Forensics
  - [https://www.youtube.com/watch?v=LBM9Ke_JI1Q](https://www.youtube.com/watch?v=LBM9Ke_JI1Q)
@@ -1465,6 +1488,7 @@
  - [https://www.reuters.com/article/uk-health-coronavirus-astrazeneca-contra-idUKKBN2841FA](https://www.reuters.com/article/uk-health-coronavirus-astrazeneca-contra-idUKKBN2841FA)
  - date_published: 2020-11-24T21:56:21+00:00
  - tags: ['covid', 'vaccine', 'astrazeneca']
+ - date_dead_since: 2024-09-27T00:46:56.731717+00:00
 
  ## "A grave mistake", Kenney apologizes for lockdown
  - [https://www.youtube.com/watch?v=ylTCTcSM09Y](https://www.youtube.com/watch?v=ylTCTcSM09Y)
@@ -1701,6 +1725,7 @@
  - [https://www.tvp.info/51409466/koronawirus-naukowcy-z-rpa-odkryli-nowa-mutacje-sars-cov-2](https://www.tvp.info/51409466/koronawirus-naukowcy-z-rpa-odkryli-nowa-mutacje-sars-cov-2)
  - date_published: 2020-12-19T06:25:12+00:00
  - tags: ['mutation', 'covid']
+ - date_dead_since: 2024-10-24T03:39:59.981681+00:00
 
  ## Prof. Konrad Rejdak: To nie będzie panaceum na wszystko. Ruszą lubelskie badania nad amantadyną w leczeniu COVID - Polskie Radio Lublin
  - [https://radio.lublin.pl/2020/12/prof-konrad-rejdak-to-nie-bedzie-panaceum-na-wszystko-rusza-lubelskie-badania-nad-amantadyna-w-leczeniu-covid](https://radio.lublin.pl/2020/12/prof-konrad-rejdak-to-nie-bedzie-panaceum-na-wszystko-rusza-lubelskie-badania-nad-amantadyna-w-leczeniu-covid)
@@ -1721,6 +1746,7 @@
  - [https://www.axis.com/blog/secure-insights/surveillance-smarter-safer-city](https://www.axis.com/blog/secure-insights/surveillance-smarter-safer-city)
  - date_published: 2020-12-21T12:04:50+00:00
  - tags: ['privacy', 'smart city']
+ - date_dead_since: 2024-10-24T02:47:27.790021+00:00
 
  ## Hiszpania: powstanie rejestr osób, które odmówią szczepienia przeciwko COVID-19
  - [https://www.wnp.pl/rynki-zagraniczne/hiszpania-powstanie-rejestr-osob-ktore-odmowia-szczepienia-przeciwko-covid-19,439531.html](https://www.wnp.pl/rynki-zagraniczne/hiszpania-powstanie-rejestr-osob-ktore-odmowia-szczepienia-przeciwko-covid-19,439531.html)
@@ -1746,6 +1772,7 @@
  - [https://summit.news/2020/12/22/french-law-would-ban-people-who-dont-get-covid-vaccine-from-using-public-transport](https://summit.news/2020/12/22/french-law-would-ban-people-who-dont-get-covid-vaccine-from-using-public-transport)
  - date_published: 2020-12-22T22:07:50+00:00
  - tags: ['covid', 'france', 'covid mandates', 'vaccine']
+ - date_dead_since: 2024-04-23T01:35:10.336999+00:00
 
  ## Zoom Shared US User Data With Beijing
  - [https://www.ntd.com/zoom-shared-us-user-data-with-beijing_544087.html](https://www.ntd.com/zoom-shared-us-user-data-with-beijing_544087.html)
@@ -1766,6 +1793,7 @@
  - [https://dcgross.com/a-new-google](https://dcgross.com/a-new-google)
  - date_published: 2020-12-23T09:31:57+00:00
  - tags: ['search engines', 'algorithms', 'dead internet']
+ - date_dead_since: 2024-10-24T02:26:56.735594+00:00
 
  ## WHO Deletes Naturally Acquired Immunity from Its Website
  - [https://www.aier.org/article/who-deletes-naturally-acquired-immunity-from-its-website](https://www.aier.org/article/who-deletes-naturally-acquired-immunity-from-its-website)
@@ -1826,6 +1854,7 @@
  - [https://summit.news/2020/12/30/uk-woman-arrested-for-filming-inside-empty-hospital](https://summit.news/2020/12/30/uk-woman-arrested-for-filming-inside-empty-hospital)
  - date_published: 2020-12-30T07:29:04+00:00
  - tags: ['covid', 'big brother']
+ - date_dead_since: 2024-04-23T01:33:52.590905+00:00
 
  ## Hiszpania: Rodzina odmówi zaszczepienia seniora? Może stracić nad nim opiekę
  - [https://www.rmf24.pl/raporty/raport-koronawirus-z-chin/europa/news-hiszpania-rodzina-odmowi-zaszczepienia-seniora-moze-stracic-,nId,4957585](https://www.rmf24.pl/raporty/raport-koronawirus-z-chin/europa/news-hiszpania-rodzina-odmowi-zaszczepienia-seniora-moze-stracic-,nId,4957585)

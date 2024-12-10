@@ -14,6 +14,7 @@
  - [https://www.tvp.info/51615749/koronawirus-szczepionka-dla-celebrytow-wiktor-zborowski-krzysztof-materna-andrzej-seweryn-i-maria-seweryn-kontrowersje-juz-nie-tylko-wokol-jandy-i-millera-tvp-info](https://www.tvp.info/51615749/koronawirus-szczepionka-dla-celebrytow-wiktor-zborowski-krzysztof-materna-andrzej-seweryn-i-maria-seweryn-kontrowersje-juz-nie-tylko-wokol-jandy-i-millera-tvp-info)
  - date_published: 2021-01-02T06:44:36+00:00
  - tags: ['vaccine', 'covid']
+ - date_dead_since: 2024-10-24T01:10:00.094580+00:00
 
  ## House Democrats open 117th Congress with prayer ending 'amen and a-woman' - Washington Times
  - [https://www.washingtontimes.com/news/2021/jan/3/house-democrats-open-117th-congress-prayer-ending-](https://www.washingtontimes.com/news/2021/jan/3/house-democrats-open-117th-congress-prayer-ending-)
@@ -24,6 +25,7 @@
  - [https://thehill.com/changing-america/respect/diversity-inclusion/532518-house-introduces-gender-neutral-language-in-new](https://thehill.com/changing-america/respect/diversity-inclusion/532518-house-introduces-gender-neutral-language-in-new)
  - date_published: 2021-01-04T21:53:34+00:00
  - tags: ['lgbt', 'the left wing', 'newspeak', 'gender', 'pronouns', 'social engineering']
+ - date_dead_since: 2024-10-23T23:36:57.870336+00:00
 
  ## Dead Internet Theory: Most of the Internet is Fake
  - [https://forum.agoraroad.com/index.php?threads/dead-internet-theory-most-of-the-internet-is-fake.3011](https://forum.agoraroad.com/index.php?threads/dead-internet-theory-most-of-the-internet-is-fake.3011)
@@ -34,6 +36,7 @@
  - [https://thehill.com/policy/technology/533204-trump-suspended-indefinitely-from-snapchat](https://thehill.com/policy/technology/533204-trump-suspended-indefinitely-from-snapchat)
  - date_published: 2021-01-07T15:02:24+00:00
  - tags: ['january 6', 'donald trump', 'deplatform', 'the right wing', 'snapchat']
+ - date_dead_since: 2024-10-23T23:26:59.491082+00:00
 
  ## Known Antifa members posed as pro-Trump to infiltrate Capitol riot: sources
  - [https://nypost.com/2021/01/07/known-antifa-members-posed-as-pro-trump-to-infiltrate-capitol-riot-sources](https://nypost.com/2021/01/07/known-antifa-members-posed-as-pro-trump-to-infiltrate-capitol-riot-sources)
@@ -154,6 +157,7 @@
  - [https://www.reuters.com/article/uk-factcheck-norway-idUSKBN29P2R1](https://www.reuters.com/article/uk-factcheck-norway-idUSKBN29P2R1)
  - date_published: 2021-01-20T20:10:09+00:00
  - tags: ['vaccine', 'covid']
+ - date_dead_since: 2024-09-26T23:01:44.073012+00:00
 
  ## Szpitale tymczasowe kosztowały ponad 500 mln zł. Dlaczego stoją puste?
  - [https://www.medonet.pl/koronawirus/koronawirus-w-polsce,szpitale-tymczasowe-kosztowaly-ponad-500-mln-zlotych--dlaczego-stoja-puste-,artykul,98771495.html](https://www.medonet.pl/koronawirus/koronawirus-w-polsce,szpitale-tymczasowe-kosztowaly-ponad-500-mln-zlotych--dlaczego-stoja-puste-,artykul,98771495.html)
@@ -243,6 +247,7 @@
  - [https://www.p-tv.nl/wiadomosci/306,rada-europy-brak-obowiazku-szczepienia](https://www.p-tv.nl/wiadomosci/306,rada-europy-brak-obowiazku-szczepienia)
  - date_published: 2021-02-03T14:03:36+00:00
  - tags: ['covid', 'covid mandates', 'segregation', 'vaccine']
+ - date_dead_since: 2024-10-23T19:47:41.438308+00:00
 
  ## AOC faces backlash as critics point out she wasn't in Capitol building during riot | Fox News
  - [https://www.foxnews.com/politics/aoc-under-fire-amid-details-that-she-wasnt-in-capitol-building-during-riots](https://www.foxnews.com/politics/aoc-under-fire-amid-details-that-she-wasnt-in-capitol-building-during-riots)
@@ -258,6 +263,7 @@
  - [https://www.youtube.com/watch?v=90EFjsG-nws](https://www.youtube.com/watch?v=90EFjsG-nws)
  - date_published: 2021-02-06T00:00:00+00:00
  - tags: ['facebook', 'myanmar', 'disinformation']
+ - date_dead_since: 2024-09-26T22:46:02.829415+00:00
 
  ## Interner E-Mail-Verkehr: Innenministerium spannte Wissenschaftler ein - WELT
  - [https://www.welt.de/politik/deutschland/article225864597/Interner-E-Mail-Verkehr-Innenministerium-spannte-Wissenschaftler-ein.html](https://www.welt.de/politik/deutschland/article225864597/Interner-E-Mail-Verkehr-Innenministerium-spannte-Wissenschaftler-ein.html)
@@ -406,6 +412,7 @@
  - [https://policetribune.com/portland-rioters-try-set-fire-to-federal-courthouse-hours-after-security-fence-is-removed](https://policetribune.com/portland-rioters-try-set-fire-to-federal-courthouse-hours-after-security-fence-is-removed)
  - date_published: 2021-03-12T19:26:38+00:00
  - tags: ['protest', 'black lives matter', 'defund the police']
+ - date_dead_since: 2024-04-19T01:05:04.857440+00:00
 
  ## Johnny Harris: A Story of YouTube Propaganda
  - [https://www.youtube.com/watch?v=Dum0bqWfiGw](https://www.youtube.com/watch?v=Dum0bqWfiGw)
@@ -541,6 +548,7 @@
  - [https://www.honestaustin.com/2021/03/31/austin-murder-rate-111-percent](https://www.honestaustin.com/2021/03/31/austin-murder-rate-111-percent)
  - date_published: 2021-03-31T20:09:24+00:00
  - tags: ['defund the police']
+ - date_dead_since: 2024-10-23T13:55:01.329434+00:00
 
  ## Virginia Education Department sued over guidelines to protect transgender students
  - [https://www.washingtonpost.com/local/education/transgender-children-virginia-lawsuit/2021/03/30/59948a28-9195-11eb-9668-89be11273c09_story.html](https://www.washingtonpost.com/local/education/transgender-children-virginia-lawsuit/2021/03/30/59948a28-9195-11eb-9668-89be11273c09_story.html)
@@ -556,6 +564,7 @@
  - [https://www.wsj.com/articles/if-you-sell-a-house-these-days-the-buyer-might-be-a-pension-fund-11617544801](https://www.wsj.com/articles/if-you-sell-a-house-these-days-the-buyer-might-be-a-pension-fund-11617544801)
  - date_published: 2021-04-04T10:42:23+00:00
  - tags: ['wall street', 'housing market', 'blackrock']
+ - date_dead_since: 2024-10-23T13:44:26.326030+00:00
 
  ## Hundreds of Transgender California Inmates Request Transfers to Women's Prisons | National Review
  - [https://www.nationalreview.com/news/hundreds-of-transgender-california-inmates-request-transfers-to-womens-prisons](https://www.nationalreview.com/news/hundreds-of-transgender-california-inmates-request-transfers-to-womens-prisons)
@@ -571,6 +580,7 @@
  - [https://www.reuters.com/article/us-facebook-data-leak/facebook-does-not-plan-to-notify-half-billion-users-affected-by-data-leak-idUSKBN2BU2ZY](https://www.reuters.com/article/us-facebook-data-leak/facebook-does-not-plan-to-notify-half-billion-users-affected-by-data-leak-idUSKBN2BU2ZY)
  - date_published: 2021-04-07T13:04:35+00:00
  - tags: ['facebook', 'data leak', 'meta', 'censorship']
+ - date_dead_since: 2024-09-26T21:41:49.931236+00:00
 
  ## When Life Hurts, Stop Clinging to It | The Philosophy of Epictetus
  - [https://www.youtube.com/watch?v=p2KHo95Qknk](https://www.youtube.com/watch?v=p2KHo95Qknk)
@@ -641,6 +651,7 @@
  - [https://www.tvp.info/53301671/nagrania-dyrektora-cnn-charlie-chester-mowi-o-nakrecaniu-zgonow-na-covid-19-ujawnione-nagrania-donald-trump-i-epidemia-koronawirusa-w-usa](https://www.tvp.info/53301671/nagrania-dyrektora-cnn-charlie-chester-mowi-o-nakrecaniu-zgonow-na-covid-19-ujawnione-nagrania-donald-trump-i-epidemia-koronawirusa-w-usa)
  - date_published: 2021-04-14T21:41:09+00:00
  - tags: ['fearmongering', 'covid', 'media']
+ - date_dead_since: 2024-10-23T12:30:21.830152+00:00
 
  ## CNN staffer tells Project Veritas network played up COVID-19 death toll for ratings
  - [https://nypost.com/2021/04/14/cnn-staffer-tells-project-veritas-network-played-up-covid-19-death-toll-for-ratings](https://nypost.com/2021/04/14/cnn-staffer-tells-project-veritas-network-played-up-covid-19-death-toll-for-ratings)
@@ -746,6 +757,7 @@
  - [https://blog.appcensus.io/2021/04/27/why-google-should-stop-logging-contact-tracing-data](https://blog.appcensus.io/2021/04/27/why-google-should-stop-logging-contact-tracing-data)
  - date_published: 2021-04-27T21:23:22+00:00
  - tags: ['covid', 'google', 'tracking']
+ - date_dead_since: 2024-10-23T10:50:04.671732+00:00
 
  ## Over 200 Seattle police officers quit amid nation protests
  - [https://apnews.com/article/seattle-police-government-and-politics-e0ce15086d8bf06502659386148d94fa](https://apnews.com/article/seattle-police-government-and-politics-e0ce15086d8bf06502659386148d94fa)
@@ -823,6 +835,7 @@
  - [https://www.wsj.com/articles/amazon-apple-wireless-networks-sidewalk-find-my-11620397704?st=jcvbx2bc04mmaz3&reflink=article_copyURL_share](https://www.wsj.com/articles/amazon-apple-wireless-networks-sidewalk-find-my-11620397704?st=jcvbx2bc04mmaz3&reflink=article_copyURL_share)
  - date_published: 2021-05-07T17:16:14+00:00
  - tags: ['apple', 'amazon', 'sidewalk', 'surveillance']
+ - date_dead_since: 2024-10-23T09:30:25.027910+00:00
 
  ## EU signs deal with Pfizer for up to 1.8 billion COVID vaccine doses
  - [https://nypost.com/2021/05/08/eu-signs-deal-with-pfizer-for-up-to-1-8b-covid-vaccine-doses](https://nypost.com/2021/05/08/eu-signs-deal-with-pfizer-for-up-to-1-8b-covid-vaccine-doses)
@@ -883,6 +896,7 @@
  - [https://thehill.com/homenews/sunday-talk-shows/553773-fauci-vaccinated-people-become-dead-ends-for-the-coronavirus](https://thehill.com/homenews/sunday-talk-shows/553773-fauci-vaccinated-people-become-dead-ends-for-the-coronavirus)
  - date_published: 2021-05-16T09:06:10+00:00
  - tags: ['covid', 'transmission', 'anthony fauci']
+ - date_dead_since: 2024-10-23T08:53:00.345709+00:00
 
  ## Fauci: the vaccinated stop viral transmission, no need for masks
  - [https://totalityofevidence.com/timeline/fauci-the-vaccinated-stop-viral-transmission](https://totalityofevidence.com/timeline/fauci-the-vaccinated-stop-viral-transmission)
@@ -917,6 +931,7 @@
  - [https://humansbefree.com/2021/05/bill-gates-and-jeffrey-epstein-traded-advice-on-bills-toxic-marriage-jeffs-pedo-image-rehab-during-secretive-mens-club-gatherings.html](https://humansbefree.com/2021/05/bill-gates-and-jeffrey-epstein-traded-advice-on-bills-toxic-marriage-jeffs-pedo-image-rehab-during-secretive-mens-club-gatherings.html)
  - date_published: 2021-05-17T10:23:41+00:00
  - tags: ['jeffrey epstein', 'bill gates']
+ - date_dead_since: 2024-10-23T08:10:36.572231+00:00
 
  ## Bill Gates reportedly hoped Jeffrey Epstein would help him win a Nobel
  - [https://nypost.com/2021/05/18/bill-gates-hoped-epstein-would-help-him-win-a-nobel-report](https://nypost.com/2021/05/18/bill-gates-hoped-epstein-would-help-him-win-a-nobel-report)
@@ -982,6 +997,7 @@
  - [https://thehill.com/homenews/news/555657-facebook-reverses-policy-to-allow-posts-speculating-that-covid-19-was-made-in-a](https://thehill.com/homenews/news/555657-facebook-reverses-policy-to-allow-posts-speculating-that-covid-19-was-made-in-a)
  - date_published: 2021-05-26T19:36:37+00:00
  - tags: ['lab leak', 'facebook', 'covid', 'wuhan', 'censorship']
+ - date_dead_since: 2024-10-23T07:16:13.742999+00:00
 
  ## Facebook lifts ban on posts claiming COVID-19 was man-made, amid revitalized origins debate - ABC News
  - [https://abcnews.go.com/Technology/facebook-lifts-ban-posts-claiming-covid-19-man/story?id=77931433](https://abcnews.go.com/Technology/facebook-lifts-ban-posts-claiming-covid-19-man/story?id=77931433)
@@ -992,6 +1008,7 @@
  - [https://noqreport.com/2021/05/26/wuhan-lab-caught-deleting-files-proving-fauci-funding](https://noqreport.com/2021/05/26/wuhan-lab-caught-deleting-files-proving-fauci-funding)
  - date_published: 2021-05-26T20:27:54+00:00
  - tags: ['anthony fauci', 'covid', 'wuhan']
+ - date_dead_since: 2024-10-23T06:49:48.488276+00:00
 
  ## NGOs file complaints against Clearview AI in five countries | Computer Weekly
  - [https://www.computerweekly.com/news/252501435/NGOs-file-complaints-against-Clearview-AI-in-five-countries](https://www.computerweekly.com/news/252501435/NGOs-file-complaints-against-Clearview-AI-in-five-countries)
@@ -1017,6 +1034,7 @@
  - [https://www.reuters.com/world/europe/us-security-agency-spied-merkel-other-top-european-officials-through-danish-2021-05-30](https://www.reuters.com/world/europe/us-security-agency-spied-merkel-other-top-european-officials-through-danish-2021-05-30)
  - date_published: 2021-05-31T11:51:40+00:00
  - tags: ['espionage', 'surveillance', 'angela merkel']
+ - date_dead_since: 2024-09-26T17:32:43.081667+00:00
 
  ## Why are people talking about Dr Anthony Fauci's emails?
  - [https://www.bbc.com/news/world-us-canada-57336280](https://www.bbc.com/news/world-us-canada-57336280)
@@ -1141,6 +1159,7 @@
  - [https://pubmedinfo.org/2021/06/16/kiedy-who-zmienila-definicje-odpornosci-stada](https://pubmedinfo.org/2021/06/16/kiedy-who-zmienila-definicje-odpornosci-stada)
  - date_published: 2021-06-16T22:12:17+00:00
  - tags: ['covid', 'who', 'herd immunity']
+ - date_dead_since: 2024-04-18T06:54:53.131830+00:00
 
  ## Sidewalk: The Next Frontier Of Amazon’s Surveillance Infrastructure | ACLU
  - [https://www.aclu.org/news/privacy-technology/sidewalk-the-next-frontier-of-amazons-surveillance-infrastructure](https://www.aclu.org/news/privacy-technology/sidewalk-the-next-frontier-of-amazons-surveillance-infrastructure)
@@ -1201,6 +1220,7 @@
  - [https://techcrunch.com/2020/11/11/google-cuts-back-on-its-free-storage-get-ready-to-pay-up/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAACdLcrCWM2hkskLPBjz6O0aLKgR7zzifHK646vqnhzHMh7oPzacUJpv2rga3iBuuEWs6JtqVwz2EypbE6t283SMwj1JrBP_4ERvFENTEAuT8J6I6XKueZHtmSDfzezgeM87A-7E7PPSM6O8zhavQ6tf3fIcGJX44bDOcX3l3BSqj](https://techcrunch.com/2020/11/11/google-cuts-back-on-its-free-storage-get-ready-to-pay-up/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAACdLcrCWM2hkskLPBjz6O0aLKgR7zzifHK646vqnhzHMh7oPzacUJpv2rga3iBuuEWs6JtqVwz2EypbE6t283SMwj1JrBP_4ERvFENTEAuT8J6I6XKueZHtmSDfzezgeM87A-7E7PPSM6O8zhavQ6tf3fIcGJX44bDOcX3l3BSqj)
  - date_published: 2021-06-24T12:04:50+00:00
  - tags: ['subscription', 'technofeudalism', 'google']
+ - date_dead_since: 2024-10-23T03:24:26.076062+00:00
 
  ## Pfizer, Moderna COVID-19 vaccines will get label warning over rare heart risk, FDA says
  - [https://www.fiercepharma.com/pharma/fda-says-label-warning-coming-for-heart-inflammation-pfizer-bnt-moderna-covid-19-vaccines](https://www.fiercepharma.com/pharma/fda-says-label-warning-coming-for-heart-inflammation-pfizer-bnt-moderna-covid-19-vaccines)
@@ -1271,6 +1291,7 @@
  - [https://www.redvoicemedia.com/2021/07/coke-faces-down-most-serious-backlash-yet-for-their-woke-agenda](https://www.redvoicemedia.com/2021/07/coke-faces-down-most-serious-backlash-yet-for-their-woke-agenda)
  - date_published: 2021-07-02T09:10:14+00:00
  - tags: ['coke', 'go woke go broke', 'the left wing']
+ - date_dead_since: 2024-04-19T00:36:19.747022+00:00
 
  ## Here's a Look Inside Facebook's Data Wars - The New York Times
  - [https://www.nytimes.com/2021/07/14/technology/facebook-data.html](https://www.nytimes.com/2021/07/14/technology/facebook-data.html)
@@ -1393,6 +1414,7 @@
  - [https://www.reuters.com/technology/exclusive-twitter-sees-jump-govt-demands-remove-content-journalists-news-outlets-2021-07-14](https://www.reuters.com/technology/exclusive-twitter-sees-jump-govt-demands-remove-content-journalists-news-outlets-2021-07-14)
  - date_published: 2021-07-15T06:26:20.268040+00:00
  - tags: ['censorship', 'social media', 'moderation', 'twitter']
+ - date_dead_since: 2024-09-26T16:37:00.609170+00:00
 
  ## MPs call for complete reset of music streaming to ensure fair pay for artists - BBC News
  - [https://www.bbc.co.uk/news/entertainment-arts-57838473](https://www.bbc.co.uk/news/entertainment-arts-57838473)
@@ -1439,6 +1461,7 @@
  ## Intel in talks to buy GlobalFoundries for about $30 billion - WSJ | Reuters
  - [https://www.reuters.com/business/intel-talks-buy-globalfoundries-about-30-billion-wsj-2021-07-15](https://www.reuters.com/business/intel-talks-buy-globalfoundries-about-30-billion-wsj-2021-07-15)
  - date_published: 2021-07-16T07:06:48.548540+00:00
+ - date_dead_since: 2024-09-26T16:27:00.835354+00:00
 
  ## "A Real S*** Show": Soldiers Angrily Speak Out about Being Blocked from Repairing Equipment by Contractors: - by Matt Stoller - BIG by Matt Stoller
  - [https://mattstoller.substack.com/p/a-real-s-show-soldiers-angrily-speak](https://mattstoller.substack.com/p/a-real-s-show-soldiers-angrily-speak)
@@ -1469,6 +1492,7 @@
  - [https://www.reuters.com/business/healthcare-pharmaceuticals/target-removes-jj-sunscreens-stores-website-2021-07-16](https://www.reuters.com/business/healthcare-pharmaceuticals/target-removes-jj-sunscreens-stores-website-2021-07-16)
  - date_published: 2021-07-16T20:22:42+00:00
  - tags: ['johnson and johnson', 'medical scandal', 'big pharma']
+ - date_dead_since: 2024-09-26T16:22:00.557863+00:00
 
  ## Government dictating what social-media bans is tyrannical
  - [https://nypost.com/2021/07/16/government-dictating-what-social-media-bans-is-tyrannical](https://nypost.com/2021/07/16/government-dictating-what-social-media-bans-is-tyrannical)
@@ -1647,19 +1671,23 @@
  - [https://www.cbc.ca/news/politics/hate-speech-bill-c36-1.6077606](https://www.cbc.ca/news/politics/hate-speech-bill-c36-1.6077606)
  - date_published: 2021-07-23T16:36:52+00:00
  - tags: ['government control', 'hate speech', 'free speech', 'bill c-36', 'canada']
+ - date_dead_since: 2024-10-22T19:10:25.957528+00:00
 
  ## Building Business Applications in Go - Three Dots Labs
  - [https://goingwithgo.com/2021/07/building-business-applications-in-golang-three-dots-labs](https://goingwithgo.com/2021/07/building-business-applications-in-golang-three-dots-labs)
  - date_published: 2021-07-23T23:13:08.596382+00:00
+ - date_dead_since: 2024-04-19T00:27:58.883322+00:00
 
  ## Interesting Go Memory Issue | Ben E. C. Boyter
  - [https://boyter.org/posts/interesting-go-memory-issue](https://boyter.org/posts/interesting-go-memory-issue)
  - date_published: 2021-07-23T23:14:57.704275+00:00
+ - date_dead_since: 2024-10-22T19:09:28.455088+00:00
 
  ## Australia Covid: Arrests at anti-lockdown protests
  - [https://www.bbc.co.uk/news/world-australia-57952516](https://www.bbc.co.uk/news/world-australia-57952516)
  - date_published: 2021-07-24T07:02:04+00:00
  - tags: ['australia', 'covid', 'lockdown']
+ - date_dead_since: 2024-10-22T19:08:14.424191+00:00
 
  ## AWS’s Egregious Egress
  - [https://blog.cloudflare.com/aws-egregious-egress](https://blog.cloudflare.com/aws-egregious-egress)
@@ -1668,6 +1696,7 @@
  ## How Empty Storefronts Are Killing Our Neighbourhoods | The Walrus
  - [https://thewalrus.ca/how-empty-storefronts-are-killing-our-neighbourhoods](https://thewalrus.ca/how-empty-storefronts-are-killing-our-neighbourhoods)
  - date_published: 2021-07-25T09:07:54.057963+00:00
+ - date_dead_since: 2024-10-22T19:07:03.522773+00:00
 
  ## Google pushed a one-character typo to production, bricking Chrome OS devices | Ars Technica
  - [https://arstechnica.com/gadgets/2021/07/google-pushed-a-one-character-typo-to-production-bricking-chrome-os-devices](https://arstechnica.com/gadgets/2021/07/google-pushed-a-one-character-typo-to-production-bricking-chrome-os-devices)
@@ -1720,6 +1749,7 @@
  ## For developers, Apple’s Safari is crap and outdated – Perry Sun | Blog
  - [https://blog.perrysun.com/2021/07/15/for-developers-safari-is-crap-and-outdated](https://blog.perrysun.com/2021/07/15/for-developers-safari-is-crap-and-outdated)
  - date_published: 2021-07-27T14:55:36.947814+00:00
+ - date_dead_since: 2024-04-19T00:26:54.210209+00:00
 
  ## Dopóki się nie zaszczepicie, rząd powinien wam odebrać cały smak życia
  - [https://wyborcza.pl/7,75968,27376053,niech-szlag-trafi-wasze-biznesy.html?disableRedirects=true](https://wyborcza.pl/7,75968,27376053,niech-szlag-trafi-wasze-biznesy.html?disableRedirects=true)
@@ -1747,6 +1777,7 @@
  - [https://www.youtube.com/watch?v=YB6gwOBClwE](https://www.youtube.com/watch?v=YB6gwOBClwE)
  - date_published: 2021-07-29T00:00:00+00:00
  - tags: ['drugs', 'crisis', 'usa']
+ - date_dead_since: 2024-04-19T00:26:46.303737+00:00
 
  ## IPv4 pricing | Hacker News
  - [https://news.ycombinator.com/item?id=27982968](https://news.ycombinator.com/item?id=27982968)
@@ -2021,6 +2052,7 @@
  ## A Facebook hacker beat my 2FA, bricked my Oculus Quest, and hit the company credit card – CodeWritePlay
  - [https://codewriteplay.com/2021/08/20/a-facebook-hacker-beat-my-2fa-bricked-my-oculus-quest-and-hit-the-company-credit-card](https://codewriteplay.com/2021/08/20/a-facebook-hacker-beat-my-2fa-bricked-my-oculus-quest-and-hit-the-company-credit-card)
  - date_published: 2021-08-21T07:30:43.784766+00:00
+ - date_dead_since: 2024-10-22T12:09:24.027511+00:00
 
  ## Post-Culture Review on Twitter: "A lot of people are getting the OnlyFans story wrong, and the reality of it is a lot more damaging and concerning to both the livelihood of sex workers and online freedom in general." / Twitter
  - [https://mobile.twitter.com/postcultrev/status/1428584131835748359](https://mobile.twitter.com/postcultrev/status/1428584131835748359)
@@ -2180,6 +2212,7 @@
  ## Hacker Claims Responsibility for T-Mobile Attack - Says: "Their Security is Awful"
  - [https://www.vpnranks.com/blog/hacker-claims-responsibility-for-t-mobile-attack-says-their-security-is-awful](https://www.vpnranks.com/blog/hacker-claims-responsibility-for-t-mobile-attack-says-their-security-is-awful)
  - date_published: 2021-08-27T17:35:51.438438+00:00
+ - date_dead_since: 2024-10-22T08:58:54.736736+00:00
 
  ## The underutilized usefulness of sync.Once | ramblings of 1lann
  - [https://blog.chuie.io/posts/synconce](https://blog.chuie.io/posts/synconce)
@@ -2356,6 +2389,7 @@
  ## They saw a YouTube video. Then they got Tourette’s | WIRED UK
  - [https://www.wired.co.uk/article/tourettes-youtube-jan-zimmermann](https://www.wired.co.uk/article/tourettes-youtube-jan-zimmermann)
  - date_published: 2021-09-05T09:37:19.896734+00:00
+ - date_dead_since: 2024-04-18T10:51:48.912969+00:00
 
  ## “Emojibake” are considered harmful | by Fredrick Brennan | Sep, 2021 | Medium
  - [https://fredrickbrennan.medium.com/emojibake-are-considered-harmful-f87e65cf4c6e](https://fredrickbrennan.medium.com/emojibake-are-considered-harmful-f87e65cf4c6e)
@@ -2461,6 +2495,7 @@
  - [https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-11631541353](https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-11631541353)
  - date_published: 2021-09-13T06:55:27+00:00
  - tags: ['inequality', 'facebook', 'manufacturing consent', 'facebook files', 'corporatocracy', 'elite']
+ - date_dead_since: 2024-10-22T03:48:44.384072+00:00
 
  ## Chris Corbett on Twitter: "Hey @StarbucksUK and @TrustArc if you get rid of the unnecessary timeouts there won't be any need for this processing "status". This only happens when you customise your privacy settings, can you explain that? Funny how some dark patterns are just accepted. https://t.co/qA231RjSeb" / Twitter
  - [https://twitter.com/pixelscript/status/1436664488913215490](https://twitter.com/pixelscript/status/1436664488913215490)
@@ -2532,6 +2567,7 @@
  ## Google, Apple remove Navalny app from stores as Russian elections begin | Reuters
  - [https://www.reuters.com/world/europe/google-apple-remove-navalny-app-stores-russian-elections-begin-2021-09-17](https://www.reuters.com/world/europe/google-apple-remove-navalny-app-stores-russian-elections-begin-2021-09-17)
  - date_published: 2021-09-18T07:24:06.126789+00:00
+ - date_dead_since: 2024-09-26T12:39:12.348318+00:00
 
  ## Mailchimp Insiders React to Employees Getting No Equity From Intuit Sale
  - [https://www.businessinsider.com/mailchimp-insiders-react-to-employees-getting-no-equity-2021-9?r=US&IR=T](https://www.businessinsider.com/mailchimp-insiders-react-to-employees-getting-no-equity-2021-9?r=US&IR=T)
@@ -2575,6 +2611,7 @@
  - [https://www.youtube.com/watch?v=LNAwUxZ5nfw](https://www.youtube.com/watch?v=LNAwUxZ5nfw)
  - date_published: 2021-09-22T00:00:00+00:00
  - tags: ['bill gates', 'jeffrey epstein']
+ - date_dead_since: 2024-09-26T11:57:42.377757+00:00
 
  ## Krystyna Janda: Zastanawiam się, czy grać spektakle z aktorami niezaszczepionymi - Dziennik.pl
  - [https://kultura.dziennik.pl/teatr/artykuly/8252180,krystyna-janda-szczepienia-spektakl-aktor-covid-19.html](https://kultura.dziennik.pl/teatr/artykuly/8252180,krystyna-janda-szczepienia-spektakl-aktor-covid-19.html)
@@ -2595,6 +2632,7 @@
  - [https://www.vice.com/en/article/93ypke/the-nsa-and-cia-use-ad-blockers-because-online-advertising-is-so-dangerous](https://www.vice.com/en/article/93ypke/the-nsa-and-cia-use-ad-blockers-because-online-advertising-is-so-dangerous)
  - date_published: 2021-09-23T21:53:34+00:00
  - tags: ['ad block', 'ad business']
+ - date_dead_since: 2024-09-26T11:52:39.974917+00:00
 
  ## ‘I’d rather be alone’: the influencers pushing for ‘relationship minimalism’ | Relationships | The Guardian
  - [https://www.theguardian.com/lifeandstyle/2021/sep/08/marie-kondo-youtube-influencers-relationship-minimalism](https://www.theguardian.com/lifeandstyle/2021/sep/08/marie-kondo-youtube-influencers-relationship-minimalism)
@@ -2643,10 +2681,12 @@
  - [https://www.youtube.com/watch?v=Elgqtwhqh5I](https://www.youtube.com/watch?v=Elgqtwhqh5I)
  - date_published: 2021-09-28T00:00:00+00:00
  - tags: ['comics', 'the left wing', 'indoctrination', 'lgbt', 'go woke go broke']
+ - date_dead_since: 2024-09-26T11:47:41.862978+00:00
 
  ## The difference between Go and Rust – dominikbraun.io
  - [https://dominikbraun.io/blog/the-difference-between-go-and-rust](https://dominikbraun.io/blog/the-difference-between-go-and-rust)
  - date_published: 2021-09-28T18:24:29.874388+00:00
+ - date_dead_since: 2024-09-26T11:42:39.682953+00:00
 
  ## Women's and trans rights are not in conflict, says Angela Rayner - BBC News
  - [https://www.bbc.co.uk/news/uk-politics-58724514](https://www.bbc.co.uk/news/uk-politics-58724514)
@@ -2656,11 +2696,13 @@
  - [https://www.youtube.com/watch?v=6FtPvDGrpkA](https://www.youtube.com/watch?v=6FtPvDGrpkA)
  - date_published: 2021-09-29T00:00:00+00:00
  - tags: ['dead internet']
+ - date_dead_since: 2024-09-26T11:37:41.824242+00:00
 
  ## [4k, 50 fps, colorized] (1896-1899) Sports in the Nineteenth century: Lumiere Brothers.
  - [https://www.youtube.com/watch?v=JyjRCuF9pd8](https://www.youtube.com/watch?v=JyjRCuF9pd8)
  - date_published: 2021-09-29T00:00:00+00:00
  - tags: ['archive', 'documentary', 'history']
+ - date_dead_since: 2024-09-26T11:32:44.162150+00:00
 
  ## My Wife Was Dying of Brain Cancer. My Boss at Amazon Told Me to Perform or Quit. – Mother Jones
  - [https://www.motherjones.com/politics/2021/09/my-wife-was-dying-of-brain-cancer-my-boss-at-amazon-told-me-to-perform-or-quit](https://www.motherjones.com/politics/2021/09/my-wife-was-dying-of-brain-cancer-my-boss-at-amazon-told-me-to-perform-or-quit)
@@ -2687,10 +2729,12 @@
  ## Myth as Science and Prehistoric Knowledge: Hamlet's Mill
  - [https://notrelated.xyz/audio/s02/S02E04_-_Myth_as_Science_and_Prehistoric_Knowledge_Hamlets_Mill.ogg](https://notrelated.xyz/audio/s02/S02E04_-_Myth_as_Science_and_Prehistoric_Knowledge_Hamlets_Mill.ogg)
  - date_published: 2021-10-01T04:00:00+00:00
+ - date_dead_since: 2024-04-18T10:44:55.809583+00:00
 
  ## Chip shortage leads carmaker Opel to shut German plant until 2022 | Reuters
  - [https://www.reuters.com/business/autos-transportation/chip-shortage-leads-carmaker-opel-shut-german-plant-until-2022-2021-09-30](https://www.reuters.com/business/autos-transportation/chip-shortage-leads-carmaker-opel-shut-german-plant-until-2022-2021-09-30)
  - date_published: 2021-10-01T06:23:36.060313+00:00
+ - date_dead_since: 2024-09-26T11:23:01.092170+00:00
 
  ## A teenager on TikTok disrupted thousands of scientific studies with a single video - The Verge
  - [https://www.theverge.com/2021/9/24/22688278/tiktok-science-study-survey-prolific](https://www.theverge.com/2021/9/24/22688278/tiktok-science-study-survey-prolific)
@@ -2724,6 +2768,7 @@
  - [https://www.tvp.info/56189233/gawiedz-niezaszczepiona-wymrze-rychlo-oburzajacy-wpis-srody-ktora-komentuje-poslow-konfederacji](https://www.tvp.info/56189233/gawiedz-niezaszczepiona-wymrze-rychlo-oburzajacy-wpis-srody-ktora-komentuje-poslow-konfederacji)
  - date_published: 2021-10-04T07:33:33+00:00
  - tags: ['poland', 'hate speech', 'covid', 'propaganda']
+ - date_dead_since: 2024-10-22T01:11:47.766807+00:00
 
  ## Misgendering Is a Human Rights Violation, Canadian Court Rules | Them
  - [https://www.them.us/story/canadian-court-rules-misgendering-human-rights-violation](https://www.them.us/story/canadian-court-rules-misgendering-human-rights-violation)
@@ -2779,6 +2824,7 @@
  - [https://www.reuters.com/world/americas/unvaccinated-federal-workers-canada-will-be-put-unpaid-leave-globe-mail-2021-10-06](https://www.reuters.com/world/americas/unvaccinated-federal-workers-canada-will-be-put-unpaid-leave-globe-mail-2021-10-06)
  - date_published: 2021-10-06T14:23:48+00:00
  - tags: ['covid mandates', 'covid']
+ - date_dead_since: 2024-09-26T10:19:58.744907+00:00
 
  ## 'X' gender markers in passports would be 'extremely difficult', government argues in UK's top court
  - [https://www.pinknews.co.uk/2021/07/13/x-passports-supreme-court-day-2](https://www.pinknews.co.uk/2021/07/13/x-passports-supreme-court-day-2)
@@ -2803,6 +2849,7 @@
  - [https://www.reuters.com/world/europe/finland-pauses-use-moderna-covid-19-vaccine-young-men-2021-10-07](https://www.reuters.com/world/europe/finland-pauses-use-moderna-covid-19-vaccine-young-men-2021-10-07)
  - date_published: 2021-10-07T16:31:39+00:00
  - tags: ['moderna', 'big pharma', 'covid', 'vaccine']
+ - date_dead_since: 2024-09-26T10:14:58.988681+00:00
 
  ## Australia. Rząd chce zakazać anonimowych komentarzy. Media społecznościowe to "pałac tchórzy"
  - [https://www.polsatnews.pl/wiadomosc/2021-10-07/australia-rzad-chce-zakazac-anonimowych-komentarzy-media-spolecznosciowe-to-palac-tchorzy](https://www.polsatnews.pl/wiadomosc/2021-10-07/australia-rzad-chce-zakazac-anonimowych-komentarzy-media-spolecznosciowe-to-palac-tchorzy)
@@ -2911,10 +2958,12 @@
  ## China Makes Sure Everyone Writes Taiwan’s Name Just So—Even a Colorado High School - WSJ
  - [https://www.wsj.com/articles/china-makes-sure-everyone-writes-taiwans-name-just-soeven-a-colorado-high-school-11631304386](https://www.wsj.com/articles/china-makes-sure-everyone-writes-taiwans-name-just-soeven-a-colorado-high-school-11631304386)
  - date_published: 2021-10-12T13:40:13.303657+00:00
+ - date_dead_since: 2024-10-21T20:59:37.307669+00:00
 
  ## Magpie Driven Development (MDD) - Niche Software
  - [http://www.nichesoftware.co.nz/2021/07/10/magpie-driven-development.html](http://www.nichesoftware.co.nz/2021/07/10/magpie-driven-development.html)
  - date_published: 2021-10-12T13:43:31.798525+00:00
+ - date_dead_since: 2024-04-18T10:42:22.028495+00:00
 
  ## Firefox Suggest: An Anatomy of a PR Incident
  - [https://www.quippd.com/writing/2021/10/10/firefox-suggest-an-anatomy.html](https://www.quippd.com/writing/2021/10/10/firefox-suggest-an-anatomy.html)
@@ -2924,6 +2973,7 @@
  - [https://www.reuters.com/investigates/special-report/amazon-india-rigging](https://www.reuters.com/investigates/special-report/amazon-india-rigging)
  - date_published: 2021-10-13T08:03:21+00:00
  - tags: ['amazon', 'search engines', 'technofeudalism', 'algorithms', 'corporatocracy']
+ - date_dead_since: 2024-10-21T20:03:40.397832+00:00
 
  ## Media, Cognitive Warfare and One World Government Social Engineering
  - [https://icdt.ir/en/media-cognitive-warfare-and-one-world-government-social-engineering](https://icdt.ir/en/media-cognitive-warfare-and-one-world-government-social-engineering)
@@ -3016,6 +3066,7 @@
  ## The Day My Script Killed 10,000 Phones in South America
  - [https://new.pythonforengineers.com/blog/the-day-i](https://new.pythonforengineers.com/blog/the-day-i)
  - date_published: 2021-10-19T10:20:29.410779+00:00
+ - date_dead_since: 2024-10-21T18:24:55.484233+00:00
 
  ## PM urged to enact ‘David’s law’ against social media abuse after Amess’s death | UK news | The Guardian
  - [https://www.theguardian.com/uk-news/2021/oct/18/pm-urged-to-enact-davids-law-against-social-media-abuse-after-amesss-death](https://www.theguardian.com/uk-news/2021/oct/18/pm-urged-to-enact-davids-law-against-social-media-abuse-after-amesss-death)
@@ -3074,6 +3125,7 @@
  - [https://www.reuters.com/world/us/republicans-assail-us-effort-protect-school-boards-violent-threats-snitch-line-2021-10-21](https://www.reuters.com/world/us/republicans-assail-us-effort-protect-school-boards-violent-threats-snitch-line-2021-10-21)
  - date_published: 2021-10-21T20:11:58+00:00
  - tags: ['racism', 'socialism']
+ - date_dead_since: 2024-09-26T09:30:22.830729+00:00
 
  ## Parson doubles down on push to prosecute reporter who found security flaw in state site • Missouri Independent
  - [https://missouriindependent.com/2021/10/21/parson-doubles-down-on-push-to-prosecute-reporter-who-found-security-flaw-in-state-site](https://missouriindependent.com/2021/10/21/parson-doubles-down-on-push-to-prosecute-reporter-who-found-security-flaw-in-state-site)
@@ -3100,6 +3152,7 @@
  ## Beej's Guide to C Programming
  - [https://beej.us/guide/bgc/html/split/goto.html](https://beej.us/guide/bgc/html/split/goto.html)
  - date_published: 2021-10-22T13:45:17+00:00
+ - date_dead_since: 2024-10-21T17:10:07.846810+00:00
 
  ## You Don't Need a Library for File Walking in Go | Kablamo Engineering Blog
  - [https://engineering.kablamo.com.au/posts/2021/quick-comparison-between-go-file-walk-implementations](https://engineering.kablamo.com.au/posts/2021/quick-comparison-between-go-file-walk-implementations)
@@ -3113,6 +3166,7 @@
  - [https://www.reuters.com/business/aerospace-defense/israel-designates-six-palestinian-civil-society-groups-terrorists-2021-10-22](https://www.reuters.com/business/aerospace-defense/israel-designates-six-palestinian-civil-society-groups-terrorists-2021-10-22)
  - date_published: 2021-10-22T21:10:10+00:00
  - tags: ['israel']
+ - date_dead_since: 2024-09-26T09:21:02.303639+00:00
 
  ## Alec Baldwin 'heartbroken' over fatal film set shooting - BBC News
  - [https://www.bbc.co.uk/news/world-us-canada-59015889](https://www.bbc.co.uk/news/world-us-canada-59015889)
@@ -3125,6 +3179,7 @@
  ## EXCLUSIVE Dutch forensic lab says it has decoded Tesla's driving data | Reuters
  - [https://www.reuters.com/business/autos-transportation/dutch-forensic-lab-says-it-has-decoded-teslas-driving-data-2021-10-21](https://www.reuters.com/business/autos-transportation/dutch-forensic-lab-says-it-has-decoded-teslas-driving-data-2021-10-21)
  - date_published: 2021-10-23T10:53:15.722543+00:00
+ - date_dead_since: 2024-09-26T09:01:58.260427+00:00
 
  ## Leaving Google — jayconrod.com
  - [https://jayconrod.com/posts/122/leaving-google](https://jayconrod.com/posts/122/leaving-google)
@@ -3148,6 +3203,7 @@
  - [https://www.youtube.com/watch?v=7xjFuPschD8](https://www.youtube.com/watch?v=7xjFuPschD8)
  - date_published: 2021-10-25T00:00:00+00:00
  - tags: ['motivation', 'quotes']
+ - date_dead_since: 2024-09-26T08:56:50.626165+00:00
 
  ## BlackRock CEO Larry Fink’s Family Tree Was A Mystery Until Now
  - [https://www.coreysdigs.com/u-s/blackrock-ceo-larry-finks-family-tree-was-a-mystery-until-now](https://www.coreysdigs.com/u-s/blackrock-ceo-larry-finks-family-tree-was-a-mystery-until-now)
@@ -3175,6 +3231,7 @@
  - [https://www.reuters.com/world/allegation-cia-murder-plot-is-game-changer-assange-extradition-hearing-fiancee-2021-10-25](https://www.reuters.com/world/allegation-cia-murder-plot-is-game-changer-assange-extradition-hearing-fiancee-2021-10-25)
  - date_published: 2021-10-25T19:49:35+00:00
  - tags: ['wikileaks', 'julian assange']
+ - date_dead_since: 2024-09-26T08:47:57.024344+00:00
 
  ## Why are the Tories still leading in the polls? - New Statesman
  - [https://www.newstatesman.com/politics/polling/2021/10/why-are-the-tories-still-leading-in-the-polls](https://www.newstatesman.com/politics/polling/2021/10/why-are-the-tories-still-leading-in-the-polls)
@@ -3242,6 +3299,7 @@
  ## Popper, Soros and the Open Society
  - [https://notrelated.xyz/audio/s02/S02E05_-_Popper_Soros_and_the_Open_Society.ogg](https://notrelated.xyz/audio/s02/S02E05_-_Popper_Soros_and_the_Open_Society.ogg)
  - date_published: 2021-10-31T04:00:00+00:00
+ - date_dead_since: 2024-04-18T10:32:34.491645+00:00
 
  ## The metaverse is already here, it's called the internet - Can's blog
  - [https://canolcer.com/post/metaverse-is-already-here](https://canolcer.com/post/metaverse-is-already-here)
@@ -3343,6 +3401,7 @@
  - [https://www.youtube.com/watch?v=rKUWnzcCRd8](https://www.youtube.com/watch?v=rKUWnzcCRd8)
  - date_published: 2021-11-08T00:00:00+00:00
  - tags: ['motivation', 'quotes']
+ - date_dead_since: 2024-04-18T07:14:58.729220+00:00
 
  ## Last of original SCO v IBM Linux lawsuit settled | ZDNET
  - [https://www.zdnet.com/article/last-of-original-sco-v-ibm-linux-lawsuit-settled](https://www.zdnet.com/article/last-of-original-sco-v-ibm-linux-lawsuit-settled)
@@ -3506,6 +3565,7 @@
  - [https://www.reuters.com/legal/government/biden-nominates-ghislaine-maxwells-judge-memphis-litigator-appeals-courts-2021-11-17](https://www.reuters.com/legal/government/biden-nominates-ghislaine-maxwells-judge-memphis-litigator-appeals-courts-2021-11-17)
  - date_published: 2021-11-17T21:11:58+00:00
  - tags: ['ghislaine maxwell', 'jeffrey epstein']
+ - date_dead_since: 2024-09-26T07:36:51.985368+00:00
 
  ## The Forgotten Suicide Bomber
  - [https://www.youtube.com/watch?v=CLRforUVW48](https://www.youtube.com/watch?v=CLRforUVW48)
@@ -3635,6 +3695,7 @@
  - [https://www.youtube.com/watch?v=lYYmAF7_wk0](https://www.youtube.com/watch?v=lYYmAF7_wk0)
  - date_published: 2021-11-25T00:00:00+00:00
  - tags: ['motivation']
+ - date_dead_since: 2024-04-18T07:05:43.582643+00:00
 
  ## The unbearable fussiness of the smart home - Stacey on IoT | Internet of Things news and analysis
  - [https://staceyoniot.com/the-unbearable-fussiness-of-the-smart-home](https://staceyoniot.com/the-unbearable-fussiness-of-the-smart-home)
@@ -3739,6 +3800,7 @@
  - [https://www.healthline.com/health-news/are-we-going-to-need-covid-19-boosters-every-6-months-what-experts-think#Will-boosters-become-an-annual-thing?](https://www.healthline.com/health-news/are-we-going-to-need-covid-19-boosters-every-6-months-what-experts-think#Will-boosters-become-an-annual-thing?)
  - date_published: 2021-12-01T08:06:38+00:00
  - tags: ['vaccine', 'covid', 'booster']
+ - date_dead_since: 2024-04-18T07:04:10.443596+00:00
 
  ## Jaki szyfrowany komunikator wybrać? Lista współpracy z FBI może pomóc w podjęciu decyzji
  - [https://geekweek.interia.pl/technologia/news-jaki-szyfrowany-komunikator-wybrac-lista-wspolpracy-z-fbi-mo,nId,5679869](https://geekweek.interia.pl/technologia/news-jaki-szyfrowany-komunikator-wybrac-lista-wspolpracy-z-fbi-mo,nId,5679869)
@@ -3798,6 +3860,7 @@
  - [https://www.reuters.com/business/cop/australia-says-us-facial-recognition-software-firm-clearview-breached-privacy-2021-11-03](https://www.reuters.com/business/cop/australia-says-us-facial-recognition-software-firm-clearview-breached-privacy-2021-11-03)
  - date_published: 2021-12-03T19:20:51+00:00
  - tags: ['biometric', 'australia', 'facial recognition', 'artificial intelligence', 'surveillance', 'privacy', 'clearview ai', 'big brother']
+ - date_dead_since: 2024-09-26T06:26:49.988991+00:00
 
  ## Prestigious prize visa: UK Global Talent fast-track scheme for scientists hasn’t received any applications since it launched | New Scientist
  - [https://www.newscientist.com/article/2298455-uk-visa-scheme-for-prize-winning-scientists-receives-no-applications](https://www.newscientist.com/article/2298455-uk-visa-scheme-for-prize-winning-scientists-receives-no-applications)
@@ -3826,6 +3889,7 @@
  - [/next/7,173953,27885941,cos-dziwnego-wychodzi-z-danych-o-zgonach-na-covid-19-rozne.html](/next/7,173953,27885941,cos-dziwnego-wychodzi-z-danych-o-zgonach-na-covid-19-rozne.html)
  - date_published: 2021-12-07T13:36:27+00:00
  - tags: ['statistics', 'covid']
+ - date_dead_since: 2024-04-18T06:54:11.214560+00:00
 
  ## Evidence from Jeffrey Epstein's safe 'went missing' after FBI raid, court hears in Ghislaine Maxwell trial
  - [https://www.telegraph.co.uk/world-news/2021/12/07/evidence-jeffrey-epsteins-safe-went-missing-fbi-raid-court-hears](https://www.telegraph.co.uk/world-news/2021/12/07/evidence-jeffrey-epsteins-safe-went-missing-fbi-raid-court-hears)
@@ -3965,6 +4029,7 @@
  ## My Bose QC-35 II headphones suddenly burst into flames and left me with chemical burns
  - [https://recursive-public-rants.blogspot.com/2021/12/my-bose-qc-35-ii-headphones-suddenly.html](https://recursive-public-rants.blogspot.com/2021/12/my-bose-qc-35-ii-headphones-suddenly.html)
  - date_published: 2021-12-19T12:55:10.261953+00:00
+ - date_dead_since: 2024-10-21T03:09:06.143629+00:00
 
  ## What to Do When You Get an Omicron Breakthrough Infection - The Atlantic
  - [https://www.theatlantic.com/health/archive/2021/12/omicron-breakthrough-vaccine-testing/621014](https://www.theatlantic.com/health/archive/2021/12/omicron-breakthrough-vaccine-testing/621014)
@@ -4056,6 +4121,7 @@
  - [https://www.tvp.info/57595618/koronawirus-prof-horban-nadciaga-prawdziwe-tsunami](https://www.tvp.info/57595618/koronawirus-prof-horban-nadciaga-prawdziwe-tsunami)
  - date_published: 2021-12-23T11:02:46+00:00
  - tags: ['fearmongering', 'covid', 'propaganda']
+ - date_dead_since: 2024-10-21T02:13:51.182556+00:00
 
  ## Covid fearmongering has consequences too | The Spectator
  - [https://www.spectator.co.uk/article/covid-fearmongering-has-consequences-too](https://www.spectator.co.uk/article/covid-fearmongering-has-consequences-too)
@@ -4116,6 +4182,7 @@
  ## Italian Courts Find Open Source Software Terms Enforceable | If This Be Treason
  - [http://ifthisbetreason.com/2021/12/italian-courts-find-open-source-software-terms-enforceable](http://ifthisbetreason.com/2021/12/italian-courts-find-open-source-software-terms-enforceable)
  - date_published: 2021-12-28T10:19:20.123970+00:00
+ - date_dead_since: 2024-10-20T23:38:57.989688+00:00
 
  ## Brute-forcing 22 trillion parameters in AoC 2021-24
  - [https://www.mattkeeter.com/blog/2021-12-27-brute](https://www.mattkeeter.com/blog/2021-12-27-brute)

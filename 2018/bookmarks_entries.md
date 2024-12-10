@@ -2,6 +2,7 @@
  - [https://www.reuters.com/article/us-europe-migrants-germany-crime-idUSKBN1ES16J](https://www.reuters.com/article/us-europe-migrants-germany-crime-idUSKBN1ES16J)
  - date_published: 2018-01-03T10:02:54+00:00
  - tags: ['immigration', 'germany']
+ - date_dead_since: 2024-09-27T15:03:40.897353+00:00
 
  ## Meltdown and Spectre: ‘worst ever’ CPU bugs affect virtually all computers
  - [https://www.theguardian.com/technology/2018/jan/04/meltdown-spectre-worst-cpu-bugs-ever-found-affect-computers-intel-processors-security-flaw](https://www.theguardian.com/technology/2018/jan/04/meltdown-spectre-worst-cpu-bugs-ever-found-affect-computers-intel-processors-security-flaw)
@@ -47,6 +48,7 @@
  - [https://www.csoonline.com/article/3248825/security/skygofree-powerful-android-spyware-with-advanced-surveillance-tools.html](https://www.csoonline.com/article/3248825/security/skygofree-powerful-android-spyware-with-advanced-surveillance-tools.html)
  - date_published: 2018-01-18T06:47:39+00:00
  - tags: ['surveillance', 'privacy', 'android', 'google', 'skygofree', 'espionage']
+ - date_dead_since: 2024-04-24T01:08:00.805886+00:00
 
  ## How Tencent became the world's most valuable social network firm – with barely any advertising
  - [https://theconversation.com/how-tencent-became-the-worlds-most-valuable-social-network-firm-with-barely-any-advertising-90334](https://theconversation.com/how-tencent-became-the-worlds-most-valuable-social-network-firm-with-barely-any-advertising-90334)
@@ -62,6 +64,7 @@
  - [https://www.youtube.com/watch?v=6T7pUEZfgdI](https://www.youtube.com/watch?v=6T7pUEZfgdI)
  - date_published: 2018-01-30T00:00:00+00:00
  - tags: ['jordan peterson']
+ - date_dead_since: 2024-04-24T01:07:51.914510+00:00
 
  ## Özgür Baba - Dertli Dolap
  - [https://www.youtube.com/watch?v=cIMKJ43TFLs](https://www.youtube.com/watch?v=cIMKJ43TFLs)
@@ -127,6 +130,7 @@
  - [https://www.nationalreview.com/2018/03/british-police-failed-stop-child-sex-ring-over-racism-fears](https://www.nationalreview.com/2018/03/british-police-failed-stop-child-sex-ring-over-racism-fears)
  - date_published: 2018-03-11T11:25:48+00:00
  - tags: ['immigration', 'police', 'racism']
+ - date_dead_since: 2024-10-26T10:08:21.903183+00:00
 
  ## YouTube Extremism and the Long Tail - The Atlantic
  - [https://www.theatlantic.com/politics/archive/2018/03/youtube-extremism-and-the-long-tail/555350](https://www.theatlantic.com/politics/archive/2018/03/youtube-extremism-and-the-long-tail/555350)
@@ -137,6 +141,7 @@
  - [https://www.businessinsider.com/r-un-investigators-cite-facebook-role-in-myanmar-crisis-2018-3?IR=T](https://www.businessinsider.com/r-un-investigators-cite-facebook-role-in-myanmar-crisis-2018-3?IR=T)
  - date_published: 2018-03-13T11:23:25+00:00
  - tags: ['privacy', 'facebook', 'myanmar', 'hate speech']
+ - date_dead_since: 2024-10-26T09:58:05.519068+00:00
 
  ## These Are The Concerns Slowly Killing Ad-Tech
  - [https://readwrite.com/concerns-slowly-killing-ad-tech](https://readwrite.com/concerns-slowly-killing-ad-tech)
@@ -222,6 +227,7 @@
  - [https://www.abqjournal.com/1154293/governments-that-disarm-the-people-have-troubling-history.html](https://www.abqjournal.com/1154293/governments-that-disarm-the-people-have-troubling-history.html)
  - date_published: 2018-04-04T20:16:37+00:00
  - tags: ['gun control']
+ - date_dead_since: 2024-10-26T08:58:08.054715+00:00
 
  ## How Mark Zuckerberg Protects His Own Privacy Online
  - [https://slate.com/technology/2018/04/how-mark-zuckerberg-protects-his-own-privacy-online.html](https://slate.com/technology/2018/04/how-mark-zuckerberg-protects-his-own-privacy-online.html)
@@ -257,6 +263,7 @@
  - [https://www.infoworld.com/article/3268310/application-development/11-signs-youre-writing-great-code.html](https://www.infoworld.com/article/3268310/application-development/11-signs-youre-writing-great-code.html)
  - date_published: 2018-04-12T10:01:48+00:00
  - tags: ['clean code', 'programming']
+ - date_dead_since: 2024-10-26T08:28:07.595727+00:00
 
  ## Public Attention Forces Facebook To Retreat From Anti-Privacy Alliance With ISPs In California
  - [https://www.techdirt.com/2018/04/13/public-attention-forces-facebook-to-retreat-anti-privacy-alliance-with-isps-california](https://www.techdirt.com/2018/04/13/public-attention-forces-facebook-to-retreat-anti-privacy-alliance-with-isps-california)
@@ -312,6 +319,7 @@
  - [https://www.youtube.com/watch?v=jdYPsCUDVrU](https://www.youtube.com/watch?v=jdYPsCUDVrU)
  - date_published: 2018-04-26T00:00:00+00:00
  - tags: ['andrzej lepper', 'conspiracy theories']
+ - date_dead_since: 2024-04-24T00:39:16.317748+00:00
 
  ## Amazon Web Services starts blocking domain-fronting, following Google’s lead
  - [https://www.theverge.com/2018/4/30/17304782/amazon-domain-fronting-google-discontinued](https://www.theverge.com/2018/4/30/17304782/amazon-domain-fronting-google-discontinued)
@@ -352,6 +360,7 @@
  - [https://www.youtube.com/watch?v=tKjlf6DMXTk](https://www.youtube.com/watch?v=tKjlf6DMXTk)
  - date_published: 2018-05-11T15:51:38+00:00
  - tags: ['lgbt']
+ - date_dead_since: 2024-04-24T01:04:34.937426+00:00
 
  ## Scawy big no functionality at all UwU · Issue #15 · mpaland/printf · GitHub
  - [https://github.com/mpaland/printf/issues/15](https://github.com/mpaland/printf/issues/15)
@@ -507,10 +516,12 @@
  - [https://www.reuters.com/article/us-pfizer-biontech-alliance-idUSKBN1L10F5](https://www.reuters.com/article/us-pfizer-biontech-alliance-idUSKBN1L10F5)
  - date_published: 2018-08-16T21:23:22+00:00
  - tags: ['mrna', 'pfizer', 'biontech', 'covid', 'vaccine', 'big pharma']
+ - date_dead_since: 2024-09-27T12:43:31.724294+00:00
 
  ## An Introduction to Not Related! and to Luke Smith
  - [https://notrelated.xyz/audio/s01/S01E00_-_Not_Related_Introduction_and_on_Luke_Smith.mp3](https://notrelated.xyz/audio/s01/S01E00_-_Not_Related_Introduction_and_on_Luke_Smith.mp3)
  - date_published: 2018-08-17T04:00:00+00:00
+ - date_dead_since: 2024-04-24T00:55:03.833875+00:00
 
  ## Google's data collection is hard to escape, study claims
  - [http://money.cnn.com/2018/08/21/technology/google-data-collection/index.html](http://money.cnn.com/2018/08/21/technology/google-data-collection/index.html)
@@ -521,6 +532,7 @@
  - [https://notrelated.xyz/audio/s01/S01E01_-_The_Origin_of_Consciousness_in_the_Breakdown_of_the_Bicameral_Mind.mp3](https://notrelated.xyz/audio/s01/S01E01_-_The_Origin_of_Consciousness_in_the_Breakdown_of_the_Bicameral_Mind.mp3)
  - date_published: 2018-08-24T04:00:00+00:00
  - tags: ['bicameral mind', 'psychology']
+ - date_dead_since: 2024-04-24T00:55:01.555753+00:00
 
  ## Rotten Tomatoes Adds 200 Critics as It Tries to Be More Inclusive
  - [https://www.nytimes.com/2018/08/28/business/media/rotten-tomatoes-critics.html](https://www.nytimes.com/2018/08/28/business/media/rotten-tomatoes-critics.html)
@@ -550,6 +562,7 @@
  ## Capitalism, Socialism and Democracy
  - [https://notrelated.xyz/audio/s01/S01E02_-_Capitalism_Socialism_and_Democracy.mp3](https://notrelated.xyz/audio/s01/S01E02_-_Capitalism_Socialism_and_Democracy.mp3)
  - date_published: 2018-09-01T04:00:00+00:00
+ - date_dead_since: 2024-04-24T00:54:14.055381+00:00
 
  ## Can mRNA disrupt the drug industry?
  - [https://cen.acs.org/business/start-ups/mRNA-disrupt-drug-industry/96/i35](https://cen.acs.org/business/start-ups/mRNA-disrupt-drug-industry/96/i35)
@@ -604,6 +617,7 @@
  ## Democracy: Rule of the NPCs
  - [https://notrelated.xyz/audio/s01/S01E04_-_Democracy_Rule_of_the_NPCs.mp3](https://notrelated.xyz/audio/s01/S01E04_-_Democracy_Rule_of_the_NPCs.mp3)
  - date_published: 2018-09-19T04:00:00+00:00
+ - date_dead_since: 2024-04-24T00:49:34.751972+00:00
 
  ## How to Remove Elements from an Associative Container in C++
  - [https://www.fluentcpp.com/2018/09/21/remove-elements-associative-container-cpp](https://www.fluentcpp.com/2018/09/21/remove-elements-associative-container-cpp)
@@ -629,6 +643,7 @@
  - [https://notrelated.xyz/audio/s01/S01E05_-_The_Agricultural_Revolution_Has_Been_a_Disaster_for_the_Human_Race.mp3](https://notrelated.xyz/audio/s01/S01E05_-_The_Agricultural_Revolution_Has_Been_a_Disaster_for_the_Human_Race.mp3)
  - date_published: 2018-10-08T04:00:00+00:00
  - tags: ['agriculture']
+ - date_dead_since: 2024-04-24T00:45:12.065398+00:00
 
  ## Google vs DuckDuckGo | Search engine manipulation, censorship and why you should switch
  - [https://www.youtube.com/watch?v=SrsCEbi5N7Y](https://www.youtube.com/watch?v=SrsCEbi5N7Y)
@@ -669,6 +684,7 @@
  - [https://npg.org/library/press-releases/13380.html](https://npg.org/library/press-releases/13380.html)
  - date_published: 2018-10-25T07:32:56+00:00
  - tags: ['climate change', 'depopulation', 'feminism']
+ - date_dead_since: 2024-10-26T03:46:25.143700+00:00
 
  ## Joe Rogan - Exposing Social Justice with Peter Boghossian & James Lindsay
  - [https://www.youtube.com/watch?v=OlqU_JMTzd4](https://www.youtube.com/watch?v=OlqU_JMTzd4)
@@ -688,6 +704,7 @@
  ## When You're Too Rational to Be Rational!
  - [https://notrelated.xyz/audio/s01/S01E06_-_When_Youre_Too_Rational_to_Be_Rational.mp3](https://notrelated.xyz/audio/s01/S01E06_-_When_Youre_Too_Rational_to_Be_Rational.mp3)
  - date_published: 2018-11-16T05:00:00+00:00
+ - date_dead_since: 2024-04-24T00:39:52.298407+00:00
 
  ## Eyes Wide Shut - What it all Meant
  - [https://www.youtube.com/watch?v=aXwy7M7Udmg](https://www.youtube.com/watch?v=aXwy7M7Udmg)
@@ -737,6 +754,7 @@
  ## Human Evolution Revised: Timelines and Multiregionalism
  - [https://notrelated.xyz/audio/s01/S01E07_-_Human_Evolution_Revised_Timelines_and_Multiregionalism.mp3](https://notrelated.xyz/audio/s01/S01E07_-_Human_Evolution_Revised_Timelines_and_Multiregionalism.mp3)
  - date_published: 2018-12-19T05:00:00+00:00
+ - date_dead_since: 2024-04-24T00:39:27.045566+00:00
 
  ## Google’s Earth: how the tech giant is helping the state spy on us
  - [https://www.theguardian.com/news/2018/dec/20/googles-earth-how-the-tech-giant-is-helping-the-state-spy-on-us](https://www.theguardian.com/news/2018/dec/20/googles-earth-how-the-tech-giant-is-helping-the-state-spy-on-us)

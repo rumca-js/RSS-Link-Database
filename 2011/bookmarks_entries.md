@@ -72,6 +72,7 @@
  - [https://www.reuters.com/article/us-italy-libya-lampedusa-idUSTRE77P23U20110826](https://www.reuters.com/article/us-italy-libya-lampedusa-idUSTRE77P23U20110826)
  - date_published: 2011-08-26T12:40:01+00:00
  - tags: ['immigration', 'muammar gaddafi']
+ - date_dead_since: 2024-09-28T01:38:27.462935+00:00
 
  ## Facebook denies cookie tracking allegations (2011)
  - [https://www.zdnet.com/article/facebook-denies-cookie-tracking-allegations](https://www.zdnet.com/article/facebook-denies-cookie-tracking-allegations)
@@ -82,6 +83,7 @@
  - [https://www.reuters.com/article/us-wallstreet-protests-origins-idUSTRE79C1YN20111014](https://www.reuters.com/article/us-wallstreet-protests-origins-idUSTRE79C1YN20111014)
  - date_published: 2011-10-14T07:14:55+00:00
  - tags: ['occupy wall street', 'billionaires', 'protest']
+ - date_dead_since: 2024-09-28T01:33:31.352147+00:00
 
  ## "You'll not only lose your mind, but you'll lose your soul" | Christopher Lee on the occult
  - [https://www.youtube.com/watch?v=vRVQD4FKPrY](https://www.youtube.com/watch?v=vRVQD4FKPrY)

@@ -7,6 +7,7 @@
  - [http://infolab.stanford.edu/~backrub/google.html](http://infolab.stanford.edu/~backrub/google.html)
  - date_published: 1998-06-23T09:34:30+00:00
  - tags: ['search engines', 'algorithms', 'dead internet']
+ - date_dead_since: 2024-10-28T06:20:13.191780+00:00
 
  ## Halloween Document 10
  - [http://www.catb.org/~esr/halloween/halloween1.html](http://www.catb.org/~esr/halloween/halloween1.html)

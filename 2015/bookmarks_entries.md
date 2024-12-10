@@ -7,6 +7,7 @@
  - [https://www.independent.co.uk/news/uk/home-news/virginia-roberts-what-do-we-know-about-the-woman-at-the-centre-of-the-prince-andrew-sex-allegations-9958539.html](https://www.independent.co.uk/news/uk/home-news/virginia-roberts-what-do-we-know-about-the-woman-at-the-centre-of-the-prince-andrew-sex-allegations-9958539.html)
  - date_published: 2015-01-05T06:59:25+00:00
  - tags: ['jeffrey epstein', 'prince andrew', 'virginia roberts']
+ - date_dead_since: 2024-10-27T05:57:43.569126+00:00
 
  ## Robustness principle
  - [https://en.wikipedia.org/wiki/Robustness_principle](https://en.wikipedia.org/wiki/Robustness_principle)
@@ -62,6 +63,7 @@
  - [https://www.gawker.com/billionaire-pervert-jeffrey-epstein-and-his-famous-frie-1679246399](https://www.gawker.com/billionaire-pervert-jeffrey-epstein-and-his-famous-frie-1679246399)
  - date_published: 2015-01-22T19:55:29+00:00
  - tags: ['elites', 'jeffrey epstein', 'billionairs']
+ - date_dead_since: 2024-10-27T05:13:28.851403+00:00
 
  ## a brief history of one line fixes
  - [https://flak.tedunangst.com/post/a-brief-history-of-one-line-fixes](https://flak.tedunangst.com/post/a-brief-history-of-one-line-fixes)
@@ -166,6 +168,7 @@
  - [https://thoughtcatalog.com/emily-goldstein/2015/05/get-rid-of-white-people](https://thoughtcatalog.com/emily-goldstein/2015/05/get-rid-of-white-people)
  - date_published: 2015-05-26T21:14:25+00:00
  - tags: ['racism', 'hate speech', 'socialism']
+ - date_dead_since: 2024-09-27T20:32:33.125764+00:00
 
  ## 4 reasons YouTube still doesn't make a profit
  - [https://www.cbsnews.com/news/4-reasons-youtube-still-doesnt-make-a-profit](https://www.cbsnews.com/news/4-reasons-youtube-still-doesnt-make-a-profit)
@@ -231,6 +234,7 @@
  - [https://www.reuters.com/article/us-usa-surveillance-watchdog-idUSBRE98Q14G20130927](https://www.reuters.com/article/us-usa-surveillance-watchdog-idUSBRE98Q14G20130927)
  - date_published: 2015-08-24T12:45:42+00:00
  - tags: ['big brother', 'privacy', 'nsa', 'surveillance']
+ - date_dead_since: 2024-09-27T20:08:51.007770+00:00
 
  ## How the American government is trying to control what you think - The Washington Post
  - [https://www.washingtonpost.com/posteverything/wp/2015/09/24/the-new-propaganda-how-the-american-government-is-trying-to-control-what-you-think](https://www.washingtonpost.com/posteverything/wp/2015/09/24/the-new-propaganda-how-the-american-government-is-trying-to-control-what-you-think)

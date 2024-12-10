@@ -316,6 +316,7 @@
  - [https://www.itv.com/news/2017-08-10/fear-of-being-called-racist-stopping-people-from-raising-child-abuse-concerns](https://www.itv.com/news/2017-08-10/fear-of-being-called-racist-stopping-people-from-raising-child-abuse-concerns)
  - date_published: 2017-08-10T11:27:23+00:00
  - tags: ['immigration', 'police', 'racism']
+ - date_dead_since: 2024-10-26T15:41:33.048049+00:00
 
  ## Full text of ex-Google engineer James Damore’s memo
  - [https://menrightsindia.net/2017/08/full-text-of-ex-google-engineer-james-damores-memo.html](https://menrightsindia.net/2017/08/full-text-of-ex-google-engineer-james-damores-memo.html)

@@ -17,6 +17,7 @@
  - [https://www.corpwatch.org/article/iraq-halliburton-reaping-huge-profits](https://www.corpwatch.org/article/iraq-halliburton-reaping-huge-profits)
  - date_published: 2003-08-28T16:59:48+00:00
  - tags: ['halliburton', 'iraq']
+ - date_dead_since: 2024-04-24T01:11:06.250624+00:00
 
  ## Halliburton: $61M Overcharge? - CBS News
  - [https://www.cbsnews.com/news/halliburton-61m-overcharge](https://www.cbsnews.com/news/halliburton-61m-overcharge)

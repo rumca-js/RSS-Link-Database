@@ -7,6 +7,7 @@
  - [https://www.youtube.com/watch?v=PiYuq6Ac3a0](https://www.youtube.com/watch?v=PiYuq6Ac3a0)
  - date_published: 2006-05-07T00:00:00+00:00
  - tags: ['music', 'chiptune']
+ - date_dead_since: 2024-04-23T01:22:00.537590+00:00
 
  ## FBI taps cell phone mic as eavesdropping tool (2006)
  - [https://www.cnet.com/news/privacy/fbi-taps-cell-phone-mic-as-eavesdropping-tool](https://www.cnet.com/news/privacy/fbi-taps-cell-phone-mic-as-eavesdropping-tool)

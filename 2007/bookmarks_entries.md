@@ -2,6 +2,7 @@
  - [https://edition.cnn.com/2007/POLITICS/01/31/biden.obama](https://edition.cnn.com/2007/POLITICS/01/31/biden.obama)
  - date_published: 2007-02-09T20:26:13+00:00
  - tags: ['joe biden', 'barack obama']
+ - date_dead_since: 2024-10-28T03:07:00.411961+00:00
 
  ## A500 Gods - Intro
  - [https://www.youtube.com/watch?v=xN0VIgO3U0k](https://www.youtube.com/watch?v=xN0VIgO3U0k)
@@ -32,6 +33,7 @@
  - [https://www.reuters.com/article/us-security-wikipedia-idUSN1642896020070816](https://www.reuters.com/article/us-security-wikipedia-idUSN1642896020070816)
  - date_published: 2007-08-16T20:37:12+00:00
  - tags: ['cia', 'propaganda', 'manufacturing consent', 'fbi', 'wikipedia']
+ - date_dead_since: 2024-09-28T03:07:36.519596+00:00
 
  ## Windows Update updating without permission!
  - [http://cubicspot.blogspot.com/2007/08/windows-update-updating-without.html](http://cubicspot.blogspot.com/2007/08/windows-update-updating-without.html)
@@ -42,6 +44,7 @@
  - [https://slated.org/windows_by_stealth_the_updates_you_dont_want](https://slated.org/windows_by_stealth_the_updates_you_dont_want)
  - date_published: 2007-08-26T08:30:16+00:00
  - tags: ['windows', 'technofeudalism']
+ - date_dead_since: 2024-10-28T02:45:19.534452+00:00
 
  ## Amiga music tribute
  - [https://www.youtube.com/watch?v=EuXVy6qXyuI](https://www.youtube.com/watch?v=EuXVy6qXyuI)
@@ -57,6 +60,7 @@
  - [https://www.cda.pl/video/618603561](https://www.cda.pl/video/618603561)
  - date_published: 2007-09-01T07:05:00+00:00
  - tags: ['aaron russo', 'conspiracy theory']
+ - date_dead_since: 2024-10-28T02:39:09.969714+00:00
 
  ## Have you noticed how much shit the internet has become now? (2007)
  - [https://old.sage.moe/g/thread/721239](https://old.sage.moe/g/thread/721239)

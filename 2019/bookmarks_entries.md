@@ -76,6 +76,7 @@
  - [https://nypost.com/2019/01/31/john-of-god-cult-leader-allegedly-ran-child-sex-slave-farm](https://nypost.com/2019/01/31/john-of-god-cult-leader-allegedly-ran-child-sex-slave-farm)
  - date_published: 2019-01-31T11:29:14+00:00
  - tags: ['brazil', 'cult', 'paedophilia', 'john of god', 'sect']
+ - date_dead_since: 2024-10-26T03:15:16.539204+00:00
 
  ## Google Screenwise: An Unwise Trade of All Your Privacy for Cash
  - [https://www.commondreams.org/views/2019/02/04/google-screenwise-unwise-trade-all-your-privacy-cash](https://www.commondreams.org/views/2019/02/04/google-screenwise-unwise-trade-all-your-privacy-cash)
@@ -165,6 +166,7 @@
  ## The Flaws of Academic Statistics: the Null Ritual
  - [https://notrelated.xyz/audio/s01/S01E08_-_The_Flaws_of_Academic_Statistics_the_Null_Ritual.mp3](https://notrelated.xyz/audio/s01/S01E08_-_The_Flaws_of_Academic_Statistics_the_Null_Ritual.mp3)
  - date_published: 2019-03-13T04:00:00+00:00
+ - date_dead_since: 2024-04-21T00:29:52.466560+00:00
 
  ## Elektrownia atomowa. Państwowa spółka pochłonęła już prawie pół miliarda złotych
  - [https://www.money.pl/gospodarka/elektrownia-atomowa-panstwowa-spolka-pochlonela-juz-prawie-pol-miliarda-zlotych-6364261429319809a.html](https://www.money.pl/gospodarka/elektrownia-atomowa-panstwowa-spolka-pochlonela-juz-prawie-pol-miliarda-zlotych-6364261429319809a.html)
@@ -220,6 +222,7 @@
  - [https://blog.collegevine.com/the-list-of-all-u-s-colleges-with-a-gender-studies-gender-and-sexuality-studies-major](https://blog.collegevine.com/the-list-of-all-u-s-colleges-with-a-gender-studies-gender-and-sexuality-studies-major)
  - date_published: 2019-04-16T20:07:17+00:00
  - tags: ['the left wing', 'indoctrination', 'gender', 'science is dead', 'universities']
+ - date_dead_since: 2024-10-25T23:53:24.808398+00:00
 
  ## Apple Is Not Your Friend - The Facebook Feud
  - [https://www.youtube.com/watch?v=y8SjmcVJOjw](https://www.youtube.com/watch?v=y8SjmcVJOjw)
@@ -255,6 +258,7 @@
  - [https://thebridgehead.ca/2019/04/30/pre-teen-drag-kids-highlight-just-how-fast-our-culture-has-crumbled](https://thebridgehead.ca/2019/04/30/pre-teen-drag-kids-highlight-just-how-fast-our-culture-has-crumbled)
  - date_published: 2019-04-30T22:11:33+00:00
  - tags: ['canada', 'lgbt', 'children', 'indoctrination', 'the left wing', 'sexualization']
+ - date_dead_since: 2024-10-25T23:33:37.494889+00:00
 
  ## Joe Rogan | What is Going on with the Homeless in LA?
  - [https://www.youtube.com/watch?v=CJU1bQ4Pq6Q](https://www.youtube.com/watch?v=CJU1bQ4Pq6Q)
@@ -355,6 +359,7 @@
  - [https://www.cnn.com/2019/06/14/media/uk-gender-stereotypes-advertising-ban-scli-gbr-intl/index.html](https://www.cnn.com/2019/06/14/media/uk-gender-stereotypes-advertising-ban-scli-gbr-intl/index.html)
  - date_published: 2019-06-14T11:32:55+00:00
  - tags: ['the left wing', 'stereotypes', 'social engineering']
+ - date_dead_since: 2024-10-25T22:09:36.870031+00:00
 
  ## 'Men in Black: International' Review: Another Franchise Bites the Woke-Dust
  - [https://www.breitbart.com/entertainment/2019/06/14/men-in-black-international-review-another-franchise-bites-the-woke-dust](https://www.breitbart.com/entertainment/2019/06/14/men-in-black-international-review-another-franchise-bites-the-woke-dust)
@@ -385,10 +390,12 @@
  - [https://summit.news/2019/07/05/cbc-accused-of-sexualizing-children-after-promoting-drag-kids-documentary](https://summit.news/2019/07/05/cbc-accused-of-sexualizing-children-after-promoting-drag-kids-documentary)
  - date_published: 2019-07-05T08:18:45+00:00
  - tags: ['children', 'sexualization']
+ - date_dead_since: 2024-04-21T00:25:09.410953+00:00
 
  ## Koniec naszego świata
  - [https://www.tvp.info/43374228/koniec-naszego-swiata](https://www.tvp.info/43374228/koniec-naszego-swiata)
  - date_published: 2019-07-06T07:21:17+00:00
+ - date_dead_since: 2024-10-25T21:51:50.170359+00:00
 
  ## A parasitological evaluation of edible insects and their role in the transmission of parasitic diseases to humans and animals - PMC
  - [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6613697](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6613697)
@@ -399,6 +406,7 @@
  - [https://nymag.com/intelligencer/2019/07/all-we-know-about-the-new-case-against-jeffrey-epstein.html](https://nymag.com/intelligencer/2019/07/all-we-know-about-the-new-case-against-jeffrey-epstein.html)
  - date_published: 2019-07-08T19:57:17+00:00
  - tags: ['elites', 'jeffrey epstein', 'billionairs']
+ - date_dead_since: 2024-10-25T21:28:28.160260+00:00
 
  ## $56 Million Upper East Side Mansion Where Epstein Allegedly Abused Girls
  - [https://www.nytimes.com/2019/07/08/nyregion/jeffrey-epstein-nyc-mansion.html](https://www.nytimes.com/2019/07/08/nyregion/jeffrey-epstein-nyc-mansion.html)
@@ -574,6 +582,7 @@
  - [https://www.thegatewaypundit.com/2019/08/get-woke-go-broke-gillette-backflips-after-12-billion-toxic-masculinity-disaster-hopes-to-lure-sexist-pigs-back-with-new-ad-campaign](https://www.thegatewaypundit.com/2019/08/get-woke-go-broke-gillette-backflips-after-12-billion-toxic-masculinity-disaster-hopes-to-lure-sexist-pigs-back-with-new-ad-campaign)
  - date_published: 2019-08-22T09:09:32+00:00
  - tags: ['go woke go broke', 'the left wing', 'gillette']
+ - date_dead_since: 2024-10-25T19:18:36.109193+00:00
 
  ## Jeffrey Epstein Donations to M.I.T. Will Be Focus of University Inquiry
  - [https://www.nytimes.com/2019/08/22/business/epstein-mit-media-lab.html](https://www.nytimes.com/2019/08/22/business/epstein-mit-media-lab.html)
@@ -718,6 +727,7 @@
  - [http://www.silaojca.pl/w-jakim-stopniu-brak-ojca-wplywa-na-zycie-dziecka](http://www.silaojca.pl/w-jakim-stopniu-brak-ojca-wplywa-na-zycie-dziecka)
  - date_published: 2019-10-02T08:36:52+00:00
  - tags: ['fatherlessness', 'family']
+ - date_dead_since: 2024-04-21T00:13:41.537836+00:00
 
  ## Eyes Wide Shut and the Moral Bankruptcy of the American Elite
  - [https://lawliberty.org/eyes-wide-shut-and-the-moral-bankruptcy-of-the-american-elite](https://lawliberty.org/eyes-wide-shut-and-the-moral-bankruptcy-of-the-american-elite)
@@ -823,6 +833,7 @@
  - [https://www.reuters.com/article/us-usa-health-j-j-expert-exclusive-idUSKBN1X912O](https://www.reuters.com/article/us-usa-health-j-j-expert-exclusive-idUSKBN1X912O)
  - date_published: 2019-10-30T20:25:18+00:00
  - tags: ['johnson and johnson', 'medical scandal', 'big pharma']
+ - date_dead_since: 2024-09-27T06:32:16.369521+00:00
 
  ## The Golden Age of the Internet Is Over
  - [https://www.youtube.com/watch?v=OU6CuSMzNus](https://www.youtube.com/watch?v=OU6CuSMzNus)
@@ -907,6 +918,7 @@
  - [https://www.techrepublic.com/article/how-to-keep-employees-happy-linkedin-study-reveals-three-factors](https://www.techrepublic.com/article/how-to-keep-employees-happy-linkedin-study-reveals-three-factors)
  - date_published: 2019-11-21T09:13:58+00:00
  - tags: ['it', 'programming', 'managment']
+ - date_dead_since: 2024-04-21T00:15:42.530726+00:00
 
  ## He invented the web. Now he's warning of a looming 'digital dystopia'
  - [https://www.cnn.com/2019/11/25/tech/berners-lee-web-safer-plan-scli-intl/index.html](https://www.cnn.com/2019/11/25/tech/berners-lee-web-safer-plan-scli-intl/index.html)

@@ -101,6 +101,7 @@
  - [https://www.wsj.com/articles/anthony-fauci-covid-social-distancing-six-feet-rule-house-subcommittee-hearing-44289850](https://www.wsj.com/articles/anthony-fauci-covid-social-distancing-six-feet-rule-house-subcommittee-hearing-44289850)
  - date_published: 2024-01-11T23:34:00+00:00
  - tags: ['covid']
+ - date_dead_since: 2024-05-29T11:53:10.724176+00:00
 
  ## Christian arrested for preaching by 'heavy-handed' police wins £5,000
  - [https://www.dailymail.co.uk/news/article-12958493/Victory-free-speech-Christian-arrested-preaching-ridiculously-heavy-handed-police-wins-5-000-cops.html](https://www.dailymail.co.uk/news/article-12958493/Victory-free-speech-Christian-arrested-preaching-ridiculously-heavy-handed-police-wins-5-000-cops.html)
@@ -201,6 +202,7 @@
  - [https://www.wsj.com/articles/dr-fauci-and-the-sort-of-just-appeared-defense-covid-distancing-7cada692](https://www.wsj.com/articles/dr-fauci-and-the-sort-of-just-appeared-defense-covid-distancing-7cada692)
  - date_published: 2024-01-19T20:13:00+00:00
  - tags: ['lockdowns', 'covid', 'mandates']
+ - date_dead_since: 2024-05-29T10:28:07.907178+00:00
 
  ## French farmers threaten to intensify protests over taxes, regulation
  - [https://www.france24.com/en/france/20240120-french-farmers-threaten-to-intensify-protests-as-anger-mounts](https://www.france24.com/en/france/20240120-french-farmers-threaten-to-intensify-protests-as-anger-mounts)
@@ -368,6 +370,7 @@
  - [https://time.com/6622135/mark-zuckerberg-apologies-history](https://time.com/6622135/mark-zuckerberg-apologies-history)
  - date_published: 2024-02-02T15:33:58+00:00
  - tags: ['facebook']
+ - date_dead_since: 2024-05-29T07:33:03.033206+00:00
 
  ## 'Entire districts appear to be taken over by Arabs,' says German billionaire about his hometown of Berlin
  - [https://rmx.news/crime/entire-districts-appear-to-be-taken-over-by-arabs-says-german-billionaire-about-his-hometown-of-berlin-2](https://rmx.news/crime/entire-districts-appear-to-be-taken-over-by-arabs-says-german-billionaire-about-his-hometown-of-berlin-2)
@@ -388,6 +391,11 @@
  - [https://en.wikipedia.org/wiki/FileZilla#Bundled_adware_issues](https://en.wikipedia.org/wiki/FileZilla#Bundled_adware_issues)
  - date_published: 2024-02-07T00:00:00+00:00
  - tags: ['ad business']
+
+ ## What DEI research concludes about diversity training: it is divisive, counter-productive, and unnecessary - Aristotle Foundation
+ - [https://aristotlefoundation.org/reality-check/what-dei-research-concludes-about-diversity-training-it-is-divisive-counter-productive-and-unnecessary](https://aristotlefoundation.org/reality-check/what-dei-research-concludes-about-diversity-training-it-is-divisive-counter-productive-and-unnecessary)
+ - date_published: 2024-02-12T01:00:00+00:00
+ - tags: ['dei', 'tolerance']
 
  ## How Viruses Become Weapons
  - [https://www.youtube.com/watch?v=15MaSayc28c](https://www.youtube.com/watch?v=15MaSayc28c)
@@ -580,6 +588,7 @@
  - [https://www.reuters.com/default/gaza-starving-children-fill-hospital-wards-famine-looms-2024-03-19](https://www.reuters.com/default/gaza-starving-children-fill-hospital-wards-famine-looms-2024-03-19)
  - date_published: 2024-03-20T00:00:00+00:00
  - tags: ['israel', 'palestine']
+ - date_dead_since: 2024-09-24T02:56:56.960972+00:00
 
  ## Scotland’s new ‘thought police’ will be the death of the Edinburgh Festival
  - [https://www.telegraph.co.uk/columnists/2024/03/21/scotland-police-hate-laws-actors-stage-crime-plays](https://www.telegraph.co.uk/columnists/2024/03/21/scotland-police-hate-laws-actors-stage-crime-plays)
