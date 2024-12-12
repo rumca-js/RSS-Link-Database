@@ -1349,3 +1349,13 @@
  - date_published: 2024-12-08T09:51:37+00:00
  - tags: ['tolerance', 'lgbt']
 
+ ## Boltzmann brain
+ - [https://en.wikipedia.org/wiki/Boltzmann_brain](https://en.wikipedia.org/wiki/Boltzmann_brain)
+ - date_published: 2024-12-10T05:22:50+00:00
+ - tags: ['psychology']
+
+ ## Solipsism - Wikipedia
+ - [https://en.wikipedia.org/wiki/Solipsism](https://en.wikipedia.org/wiki/Solipsism)
+ - date_published: 2024-12-11T11:03:30+00:00
+ - tags: ['psychology']
+
