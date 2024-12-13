@@ -1084,6 +1084,11 @@
  - date_published: 2024-09-05T00:00:00+00:00
  - tags: ['surveillance', 'privacy', 'censorship']
 
+ ## Google searches are becoming a bigger target of cybercriminals with the rise of 'malvertising'
+ - [https://www.cnbc.com/2024/09/05/google-searches-big-target-for-malvertising-hackers.html](https://www.cnbc.com/2024/09/05/google-searches-big-target-for-malvertising-hackers.html)
+ - date_published: 2024-09-05T16:01:35+00:00
+ - tags: ['ad business', 'malvertising']
+
  ## Ford seeks patent for tech that listens to driver conversations to serve ads
  - [https://therecord.media/ford-patent-application-in-vehicle-listening-advertising](https://therecord.media/ford-patent-application-in-vehicle-listening-advertising)
  - date_published: 2024-09-10T15:17:06+00:00
@@ -1170,6 +1175,11 @@
  - [https://www.eff.org/deeplinks/2024/10/salt-typhoon-hack-shows-theres-no-security-backdoor-thats-only-good-guys](https://www.eff.org/deeplinks/2024/10/salt-typhoon-hack-shows-theres-no-security-backdoor-thats-only-good-guys)
  - date_published: 2024-10-09T14:32:52+00:00
  - tags: ['cybersecurity', 'backdoor']
+
+ ## Ethical Hacker Warns: Check Your Charger ASAP & What Happens After Clicking Adult Sites
+ - [https://www.youtube.com/watch?v=sRmVEnP-EXs](https://www.youtube.com/watch?v=sRmVEnP-EXs)
+ - date_published: 2024-10-10T02:00:00+00:00
+ - tags: ['surveillance', 'technofeudalism', 'privacy']
 
  ## UK firm GSK to pay $2.2bn over Zantac cancer claims
  - [https://www.bbc.com/news/articles/c62r5nn94d7o](https://www.bbc.com/news/articles/c62r5nn94d7o)

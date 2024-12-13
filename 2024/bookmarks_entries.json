@@ -6265,6 +6265,34 @@
         "vote": 0
     },
     {
+        "age": 0,
+        "album": null,
+        "author": "Cheryl Winokur Munk",
+        "bookmarked": true,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-09-05T16:01:35+00:00",
+        "description": "Google searches are now being routinely used to surface online ads with malicious purposes, in a hacking approach known as 'malvertising.'",
+        "id": 1693917,
+        "language": "en",
+        "link": "https://www.cnbc.com/2024/09/05/google-searches-big-target-for-malvertising-hackers.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "ad business",
+            "malvertising"
+        ],
+        "thumbnail": "https://image.cnbcfm.com/api/v1/image/108028456-1725373756228-gettyimages-1830676191-AA_07122023_1446427.jpeg?v=1728494565&w=1920&h=1080",
+        "title": "Google searches are becoming a bigger target of cybercriminals with the rise of 'malvertising'",
+        "vote": 0
+    },
+    {
         "age": null,
         "album": "",
         "author": null,
@@ -6779,6 +6807,35 @@
         "thumbnail": null,
         "title": "Salt Typhoon Hack Shows There's No Security Backdoor That's Only For The \"Good Guys\"",
         "vote": 0
+    },
+    {
+        "age": 0,
+        "album": null,
+        "author": "Video Advice",
+        "bookmarked": true,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-10-10T02:00:00+00:00",
+        "description": "In this video, a white hat hacker exposes how easily you can be hacked just by using the same cable you trust to charge your phone. Then, we delve into the instant chaos that happens behind the scenes the moment you click on an adult movie\u2014your privacy is more at risk than you think. Watch and learn how to protect yourself from these everyday dangers!\r\n\r\n\ud83d\udc49\ud83c\udffc Watch the full Ryan Montgomery interview on the PBD Podcast: https://www.youtube.com/watch?v=3_tZ7i1j3Tg&t=186s\r\n\ud83d\udc49\ud83c\udffc Watch the full John McAfee interview here: https://www.youtube.com/watch?v=NQsQviHLZsE\r\n\u2705 Subscribe to Ryan Montgomery's Youtube channel: https://www.youtube.com/@UCCwzy4U3aqvA0E11i7qTExg \r\nInstagram: https://www.instagram.com/0day\r\nFacebook: https://www.facebook.com/RyanMMontgomery\r\nTwitter: https://x.com/0dayCTF\r\nWebsite: https://ryanmontgomery.me/\r\nConnect with Ryan through Minnect: https://",
+        "id": 1696461,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=sRmVEnP-EXs",
+        "manual_status_code": 0,
+        "page_rating": 50,
+        "page_rating_contents": 86,
+        "page_rating_visits": 2,
+        "page_rating_votes": 30,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "surveillance",
+            "technofeudalism",
+            "privacy"
+        ],
+        "thumbnail": "https://i.ytimg.com/vi_webp/sRmVEnP-EXs/maxresdefault.webp",
+        "title": "Ethical Hacker Warns: Check Your Charger ASAP & What Happens After Clicking Adult Sites",
+        "vote": 30
     },
     {
         "age": null,
