@@ -1369,3 +1369,8 @@
  - date_published: 2024-12-11T11:03:30+00:00
  - tags: ['psychology']
 
+ ## Mehl mente FrP hentet flere somaliere enn de rødgrønne: – Beviselig feil, sier Njåstad
+ - [https://inyheter.no/12/12/2024/mehl-mente-frp-hentet-flere-somaliere-enn-de-rodgronne-beviselig-feil-sier-njastad](https://inyheter.no/12/12/2024/mehl-mente-frp-hentet-flere-somaliere-enn-de-rodgronne-beviselig-feil-sier-njastad)
+ - date_published: 2024-12-12T15:16:48+00:00
+ - tags: ['immigration']
+

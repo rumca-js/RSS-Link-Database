@@ -7914,5 +7914,32 @@
         "thumbnail": null,
         "title": "Solipsism - Wikipedia",
         "vote": 0
+    },
+    {
+        "age": 0,
+        "album": null,
+        "author": "Helge Lur\u00e5s",
+        "bookmarked": true,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-12T15:16:48+00:00",
+        "description": "I Stortingets sp\u00f8rretime onsdag, hevdet justisminister Emilie Enger Mehl (Sp) at hennes regjering har tatt imot langt f\u00e6rre innvandrere fra Somalia i nyere tid enn Fremskrittspartiet. Helge Andre Nj\u00e5stad (FrP) kaller det feilinformasjon. Nj\u00e5astad, som er leder av justiskomiteen p\u00e5 Stortinget, konfronterte Mehl med ferske tall fra SSB som viser at unge menn med innvandrerbakgrunn [\u2026]",
+        "id": 1701985,
+        "language": "nn-NO",
+        "link": "https://inyheter.no/12/12/2024/mehl-mente-frp-hentet-flere-somaliere-enn-de-rodgronne-beviselig-feil-sier-njastad",
+        "manual_status_code": 0,
+        "page_rating": 45,
+        "page_rating_contents": 91,
+        "page_rating_visits": 2,
+        "page_rating_votes": 20,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "immigration"
+        ],
+        "thumbnail": "https://inyheter.no/wp-content/uploads/2024/12/MixCollage-12-Dec-2024-12-35-PM-3507.jpg",
+        "title": "Mehl mente FrP hentet flere somaliere enn de r\u00f8dgr\u00f8nne: \u2013 Beviselig feil, sier Nj\u00e5stad",
+        "vote": 20
     }
 ]
