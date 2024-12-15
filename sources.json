@@ -4852,22 +4852,6 @@
         "category_name": "Tech",
         "enabled": true,
         "export_to_cms": true,
-        "favicon": "https://www.youtube.com/favicon.ico",
-        "fetch_period": 3600,
-        "id": 240,
-        "language": "pl",
-        "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/542",
-        "remove_after_days": 0,
-        "source_type": "BaseRssPlugin",
-        "subcategory_name": "Security",
-        "title": "Niebezpiecznik",
-        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCe6nK69Yc1zna7QSJEfA9pw"
-    },
-    {
-        "age": 0,
-        "category_name": "Tech",
-        "enabled": true,
-        "export_to_cms": true,
         "favicon": "https://niebezpiecznik.pl/favicon.ico",
         "fetch_period": 3600,
         "id": 239,
@@ -4878,6 +4862,22 @@
         "subcategory_name": "Security",
         "title": "Niebezpiecznik",
         "url": "https://feeds.feedburner.com/niebezpiecznik"
+    },
+    {
+        "age": 0,
+        "category_name": "Tech",
+        "enabled": true,
+        "export_to_cms": true,
+        "favicon": "https://www.youtube.com/favicon.ico",
+        "fetch_period": 3600,
+        "id": 240,
+        "language": "pl",
+        "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/542",
+        "remove_after_days": 0,
+        "source_type": "BaseRssPlugin",
+        "subcategory_name": "Security",
+        "title": "Niebezpiecznik",
+        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCe6nK69Yc1zna7QSJEfA9pw"
     },
     {
         "age": 0,
@@ -5214,6 +5214,22 @@
         "subcategory_name": "Movies",
         "title": "Pitch Meeting",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9Kq-yEt1iYsbUzNOoIRK0g"
+    },
+    {
+        "age": 0,
+        "category_name": "Tabletop games",
+        "enabled": true,
+        "export_to_cms": true,
+        "favicon": null,
+        "fetch_period": 3600,
+        "id": 566,
+        "language": "en",
+        "proxy_location": "",
+        "remove_after_days": 0,
+        "source_type": "YouTubeChannelPlugin",
+        "subcategory_name": "Warhammer",
+        "title": "Play On Tabletop",
+        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJ4-WFTrDNWvcM7dEC6E2mw"
     },
     {
         "age": 0,

@@ -1374,3 +1374,8 @@
  - date_published: 2024-12-12T15:16:48+00:00
  - tags: ['immigration']
 
+ ## Microsoft Recall still storing credit card, social security numbers
+ - [https://www.tomshardware.com/software/windows/microsoft-recall-screenshots-credit-cards-and-social-security-numbers-even-with-the-sensitive-information-filter-enabled](https://www.tomshardware.com/software/windows/microsoft-recall-screenshots-credit-cards-and-social-security-numbers-even-with-the-sensitive-information-filter-enabled)
+ - date_published: 2024-12-12T17:01:16+00:00
+ - tags: ['surveillance', 'privacy']
+

@@ -7941,5 +7941,34 @@
         "thumbnail": "https://inyheter.no/wp-content/uploads/2024/12/MixCollage-12-Dec-2024-12-35-PM-3507.jpg",
         "title": "Mehl mente FrP hentet flere somaliere enn de r\u00f8dgr\u00f8nne: \u2013 Beviselig feil, sier Nj\u00e5stad",
         "vote": 20
+    },
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-12T17:01:16+00:00",
+        "description": "<p>Article URL: <a href=\"https://www.tomshardware.com/software/windows/microsoft-recall-screenshots-credit-cards-and-social-security-numbers-even-with-the-sensitive-information-filter-enabled\">https://www.tomshardware.com/software/windows/microsoft-recall-screenshots-credit-cards-and-social-security-numbers-even-with-the-sensitive-information-filter-enabled</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42400935\">https://news.ycombinator.com/item?id=42400935</a></p>\n<p>Points: 42</p>\n<p># Comments: 9</p>",
+        "id": 1698603,
+        "language": null,
+        "link": "https://www.tomshardware.com/software/windows/microsoft-recall-screenshots-credit-cards-and-social-security-numbers-even-with-the-sensitive-information-filter-enabled",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 141,
+        "source_url": "https://hnrss.org/frontpage",
+        "status_code": 0,
+        "tags": [
+            "surveillance",
+            "privacy"
+        ],
+        "thumbnail": null,
+        "title": "Microsoft Recall still storing credit card, social security numbers",
+        "vote": 0
     }
 ]
