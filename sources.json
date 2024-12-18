@@ -1681,6 +1681,22 @@
     },
     {
         "age": 0,
+        "category_name": "Tech",
+        "enabled": true,
+        "export_to_cms": true,
+        "favicon": null,
+        "fetch_period": 3600,
+        "id": 568,
+        "language": "",
+        "proxy_location": "",
+        "remove_after_days": 0,
+        "source_type": "BaseRssPlugin",
+        "subcategory_name": "Hacking",
+        "title": "cybersecurity",
+        "url": "https://www.reddit.com/r/cybersecurity/.rss"
+    },
+    {
+        "age": 0,
         "category_name": "Art",
         "enabled": true,
         "export_to_cms": true,
@@ -4225,6 +4241,22 @@
     },
     {
         "age": 0,
+        "category_name": "Tech",
+        "enabled": true,
+        "export_to_cms": true,
+        "favicon": null,
+        "fetch_period": 3600,
+        "id": 567,
+        "language": "en",
+        "proxy_location": "",
+        "remove_after_days": 0,
+        "source_type": "BaseRssPlugin",
+        "subcategory_name": "Hacking",
+        "title": "Malware Analysis & Reports",
+        "url": "https://www.reddit.com/r/Malware/.rss"
+    },
+    {
+        "age": 0,
         "category_name": "Hobby",
         "enabled": true,
         "export_to_cms": true,
@@ -6044,7 +6076,7 @@
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
         "subcategory_name": "New",
-        "title": "Russel Brand",
+        "title": "Russell Brand",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCswH8ovgUp5Bdg-0_JTYFNw"
     },
     {
@@ -8334,6 +8366,22 @@
         "subcategory_name": "New",
         "title": "Y Combinator",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg"
+    },
+    {
+        "age": 0,
+        "category_name": "Entertainment",
+        "enabled": true,
+        "export_to_cms": true,
+        "favicon": null,
+        "fetch_period": 3600,
+        "id": 569,
+        "language": "en",
+        "proxy_location": "",
+        "remove_after_days": 0,
+        "source_type": "BaseRssPlugin",
+        "subcategory_name": "Drama",
+        "title": "YouTube",
+        "url": "https://www.reddit.com/r/youtube/.rss"
     },
     {
         "age": 0,
