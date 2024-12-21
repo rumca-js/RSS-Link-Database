@@ -1380,22 +1380,6 @@
         "category_name": "News",
         "enabled": true,
         "export_to_cms": true,
-        "favicon": "https://gcp-assets-origin-fly.cnet.com/bundles/cnetcss/images/core/logo/cnet_og.png",
-        "fetch_period": 3600,
-        "id": 58,
-        "language": "en",
-        "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/438",
-        "remove_after_days": 0,
-        "source_type": "BaseRssPlugin",
-        "subcategory_name": "News",
-        "title": "CNET",
-        "url": "https://www.cnet.com/rss/news"
-    },
-    {
-        "age": 0,
-        "category_name": "News",
-        "enabled": true,
-        "export_to_cms": true,
         "favicon": "https://www.cnet.com/favicon-v3.ico",
         "fetch_period": 3600,
         "id": 57,
@@ -1406,6 +1390,22 @@
         "subcategory_name": "News",
         "title": "CNET",
         "url": "https://www.cnet.com/rss/all"
+    },
+    {
+        "age": 0,
+        "category_name": "News",
+        "enabled": true,
+        "export_to_cms": true,
+        "favicon": "https://gcp-assets-origin-fly.cnet.com/bundles/cnetcss/images/core/logo/cnet_og.png",
+        "fetch_period": 3600,
+        "id": 58,
+        "language": "en",
+        "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/438",
+        "remove_after_days": 0,
+        "source_type": "BaseRssPlugin",
+        "subcategory_name": "News",
+        "title": "CNET",
+        "url": "https://www.cnet.com/rss/news"
     },
     {
         "age": 0,
@@ -2734,6 +2734,22 @@
         "subcategory_name": "Video Games",
         "title": "GameSpot - YouTube",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw"
+    },
+    {
+        "age": 0,
+        "category_name": "Entertainment",
+        "enabled": true,
+        "export_to_cms": true,
+        "favicon": null,
+        "fetch_period": 3600,
+        "id": 571,
+        "language": "en",
+        "proxy_location": "",
+        "remove_after_days": 0,
+        "source_type": "BaseRssPlugin",
+        "subcategory_name": "Memes",
+        "title": "Gaming Memes",
+        "url": "https://www.reddit.com/r/gamingmemes/.rss"
     },
     {
         "age": 0,
