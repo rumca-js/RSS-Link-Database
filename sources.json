@@ -1,6 +1,22 @@
 [
     {
         "age": 0,
+        "category_name": "New",
+        "enabled": true,
+        "export_to_cms": true,
+        "favicon": "https://epoznan.pl/new_assets/img/favicons/favicon-32x32.png",
+        "fetch_period": 3600,
+        "id": 98,
+        "language": "pl-PL",
+        "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/60",
+        "remove_after_days": 0,
+        "source_type": "BaseRssPlugin",
+        "subcategory_name": "New",
+        "title": "E Poznan",
+        "url": "https://epoznan.pl/rss"
+    },
+    {
+        "age": 0,
         "category_name": "Tech",
         "enabled": true,
         "export_to_cms": true,
@@ -1380,22 +1396,6 @@
         "category_name": "News",
         "enabled": true,
         "export_to_cms": true,
-        "favicon": "https://www.cnet.com/favicon-v3.ico",
-        "fetch_period": 3600,
-        "id": 57,
-        "language": "en-US",
-        "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/76",
-        "remove_after_days": 0,
-        "source_type": "BaseRssPlugin",
-        "subcategory_name": "News",
-        "title": "CNET",
-        "url": "https://www.cnet.com/rss/all"
-    },
-    {
-        "age": 0,
-        "category_name": "News",
-        "enabled": true,
-        "export_to_cms": true,
         "favicon": "https://gcp-assets-origin-fly.cnet.com/bundles/cnetcss/images/core/logo/cnet_og.png",
         "fetch_period": 3600,
         "id": 58,
@@ -1406,6 +1406,22 @@
         "subcategory_name": "News",
         "title": "CNET",
         "url": "https://www.cnet.com/rss/news"
+    },
+    {
+        "age": 0,
+        "category_name": "News",
+        "enabled": true,
+        "export_to_cms": true,
+        "favicon": "https://www.cnet.com/favicon-v3.ico",
+        "fetch_period": 3600,
+        "id": 57,
+        "language": "en-US",
+        "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/76",
+        "remove_after_days": 0,
+        "source_type": "BaseRssPlugin",
+        "subcategory_name": "News",
+        "title": "CNET",
+        "url": "https://www.cnet.com/rss/all"
     },
     {
         "age": 0,
@@ -2094,22 +2110,6 @@
         "subcategory_name": "New",
         "title": "Drew Gooden",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTSRIY3GLFYIpkR2QwyeklA"
-    },
-    {
-        "age": 0,
-        "category_name": "New",
-        "enabled": true,
-        "export_to_cms": true,
-        "favicon": "https://epoznan.pl/new_assets/img/favicons/favicon-32x32.png",
-        "fetch_period": 3600,
-        "id": 98,
-        "language": "pl-PL",
-        "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/60",
-        "remove_after_days": 0,
-        "source_type": "BaseRssPlugin",
-        "subcategory_name": "New",
-        "title": "E Poznan",
-        "url": "https://epoznan.pl/rss"
     },
     {
         "age": 0,
