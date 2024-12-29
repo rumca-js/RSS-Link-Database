@@ -1010,6 +1010,7 @@
  - [https://gazette.com/news/wex/democrats-using-google-search-ads-to-falsify-news-headlines-extends-past-harris-campaign/article_b7225077-e224-5387-9773-72e3acca68c9.html](https://gazette.com/news/wex/democrats-using-google-search-ads-to-falsify-news-headlines-extends-past-harris-campaign/article_b7225077-e224-5387-9773-72e3acca68c9.html)
  - date_published: 2024-08-15T10:00:00+00:00
  - tags: ['elections', 'ad business', 'misinformation', 'google', 'disinformation']
+ - date_dead_since: 2024-12-28T10:08:33.510220+00:00
 
  ## Home
  - [https://theonion.com](https://theonion.com)
