@@ -1380,3 +1380,8 @@
  - date_published: 2024-12-12T17:01:16+00:00
  - tags: ['surveillance', 'privacy']
 
+ ## wsj.com
+ - [https://www.wsj.com/politics/national-security/fbi-covid-19-pandemic-lab-leak-theory-dfbd8a51](https://www.wsj.com/politics/national-security/fbi-covid-19-pandemic-lab-leak-theory-dfbd8a51)
+ - date_published: 2024-12-30T09:59:36+00:00
+ - tags: ['fbi', 'covid', 'pandemic']
+

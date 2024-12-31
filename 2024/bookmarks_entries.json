@@ -7970,5 +7970,34 @@
         "thumbnail": null,
         "title": "Microsoft Recall still storing credit card, social security numbers",
         "vote": 0
+    },
+    {
+        "age": 0,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-12-30T09:59:36+00:00",
+        "description": "",
+        "id": 1802140,
+        "language": "pl",
+        "link": "https://www.wsj.com/politics/national-security/fbi-covid-19-pandemic-lab-leak-theory-dfbd8a51",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "fbi",
+            "covid",
+            "pandemic"
+        ],
+        "thumbnail": null,
+        "title": "wsj.com",
+        "vote": 0
     }
 ]
