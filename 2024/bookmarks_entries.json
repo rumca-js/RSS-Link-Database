@@ -6019,18 +6019,18 @@
         "language": "en-US",
         "link": "https://www.bbc.com/news/articles/c07ev1v7r4po",
         "manual_status_code": 0,
-        "page_rating": 29,
-        "page_rating_contents": 82,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 3,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 27,
         "source_url": "https://feeds.bbci.co.uk/news/rss.xml",
-        "status_code": 0,
+        "status_code": 200,
         "tags": [
             "transgender"
         ],
-        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/050d/live/98e90c60-60e2-11ef-a608-7923e023d75e.png",
+        "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/a306/live/709d1b40-6135-11ef-b43e-6916dcba5cbf.jpg",
         "title": "What is a woman? Australian court rules in landmark case",
         "vote": 0
     },
