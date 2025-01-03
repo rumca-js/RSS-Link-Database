@@ -1385,3 +1385,13 @@
  - date_published: 2024-12-30T09:59:36+00:00
  - tags: ['fbi', 'covid', 'pandemic']
 
+ ## Huge Volkswagen data leak exposed the locations of 460,000 EV drivers
+ - [https://www.engadget.com/transportation/evs/huge-volkswagen-data-leak-exposed-the-locations-of-460000-ev-drivers-194000006.html?src=rss](https://www.engadget.com/transportation/evs/huge-volkswagen-data-leak-exposed-the-locations-of-460000-ev-drivers-194000006.html?src=rss)
+ - date_published: 2024-12-30T19:40:00+00:00
+ - tags: ['encryption', 'crypto wars', 'backdoor']
+
+ ## US Treasury declares ‘major incident’ after apparent state-sponsored Chinese hack
+ - [https://www.techradar.com/pro/security/us-treasury-declares-major-incident-after-apparent-state-sponsored-chinese-hack](https://www.techradar.com/pro/security/us-treasury-declares-major-incident-after-apparent-state-sponsored-chinese-hack)
+ - date_published: 2024-12-31T11:35:09+00:00
+ - tags: ['cybersecurity', 'hack']
+
