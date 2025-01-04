@@ -4868,22 +4868,6 @@
         "category_name": "Tech",
         "enabled": true,
         "export_to_cms": true,
-        "favicon": "https://niebezpiecznik.pl/favicon.ico",
-        "fetch_period": 3600,
-        "id": 239,
-        "language": "pl-PL",
-        "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/22",
-        "remove_after_days": 0,
-        "source_type": "BaseRssPlugin",
-        "subcategory_name": "Security",
-        "title": "Niebezpiecznik",
-        "url": "https://feeds.feedburner.com/niebezpiecznik"
-    },
-    {
-        "age": 0,
-        "category_name": "Tech",
-        "enabled": true,
-        "export_to_cms": true,
         "favicon": "https://www.youtube.com/favicon.ico",
         "fetch_period": 3600,
         "id": 240,
@@ -4894,6 +4878,22 @@
         "subcategory_name": "Security",
         "title": "Niebezpiecznik",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCe6nK69Yc1zna7QSJEfA9pw"
+    },
+    {
+        "age": 0,
+        "category_name": "Tech",
+        "enabled": true,
+        "export_to_cms": true,
+        "favicon": "https://niebezpiecznik.pl/favicon.ico",
+        "fetch_period": 3600,
+        "id": 239,
+        "language": "pl-PL",
+        "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/22",
+        "remove_after_days": 0,
+        "source_type": "BaseRssPlugin",
+        "subcategory_name": "Security",
+        "title": "Niebezpiecznik",
+        "url": "https://feeds.feedburner.com/niebezpiecznik"
     },
     {
         "age": 0,
@@ -5070,6 +5070,22 @@
         "subcategory_name": "News",
         "title": "Pakistan Observer",
         "url": "https://pakobserver.net/feed"
+    },
+    {
+        "age": 0,
+        "category_name": "Movies",
+        "enabled": true,
+        "export_to_cms": true,
+        "favicon": null,
+        "fetch_period": 3600,
+        "id": 572,
+        "language": "en",
+        "proxy_location": "",
+        "remove_after_days": 0,
+        "source_type": "YouTubeChannelPlugin",
+        "subcategory_name": "Movies",
+        "title": "Paramount Plus",
+        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrRttZIypNTA1Mrfwo745Sg"
     },
     {
         "age": 0,
