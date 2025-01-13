@@ -284,6 +284,11 @@
  - date_published: 2021-02-13T20:09:34+00:00
  - tags: ['vaccine', 'covid', 'propaganda']
 
+ ## Capitol riots: Did Trump's words at rally incite violence?
+ - [https://www.bbc.com/news/world-us-canada-55640437](https://www.bbc.com/news/world-us-canada-55640437)
+ - date_published: 2021-02-14T10:32:55+00:00
+ - tags: ['donald trump']
+
  ## Cuomo's COVID cover-up hid nearly 1,900 NYC nursing home deaths
  - [https://nypost.com/2021/02/15/cuomos-covid-cover-up-hid-nearly-1900-nyc-nursing-home-deaths](https://nypost.com/2021/02/15/cuomos-covid-cover-up-hid-nearly-1900-nyc-nursing-home-deaths)
  - date_published: 2021-02-15T20:47:39+00:00
