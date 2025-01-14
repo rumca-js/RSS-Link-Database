@@ -8,3 +8,8 @@
  - date_published: 2025-01-02T19:29:36+00:00
  - tags: ['privacy']
 
+ ## 'What a creep': Elon Musk reacts to former Labour MP Ivor Caplin's arrest in child sting operation - Times of India
+ - [https://timesofindia.indiatimes.com/world/uk/what-a-creep-elon-musk-reacts-to-former-labour-mp-ivor-caplins-arrest-in-child-sting-operation/articleshow/117158296.cms](https://timesofindia.indiatimes.com/world/uk/what-a-creep-elon-musk-reacts-to-former-labour-mp-ivor-caplins-arrest-in-child-sting-operation/articleshow/117158296.cms)
+ - date_published: 2025-01-13T22:10:39+00:00
+ - tags: ['paedophilia']
+

@@ -53,5 +53,32 @@
         "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/GettyImages-1173509038-500x500.jpg",
         "title": "Siri \u201cunintentionally\u201d recorded private convos; Apple agrees to pay $95M",
         "vote": 0
+    },
+    {
+        "age": 0,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-13T22:10:39+00:00",
+        "description": "UK News: Former Labour MP Ivor Caplin, aged 66, was arrested in Brighton by police following a sting operation by citizen paedophile hunters. He is suspected o",
+        "id": 1896611,
+        "language": "en",
+        "link": "https://timesofindia.indiatimes.com/world/uk/what-a-creep-elon-musk-reacts-to-former-labour-mp-ivor-caplins-arrest-in-child-sting-operation/articleshow/117158296.cms",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "paedophilia"
+        ],
+        "thumbnail": "https://static.toiimg.com/thumb/msid-117158821,width-1070,height-580,imgsize-699199,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "title": "'What a creep': Elon Musk reacts to former Labour MP Ivor Caplin's arrest in child sting operation - Times of India",
+        "vote": 0
     }
 ]
