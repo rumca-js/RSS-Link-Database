@@ -254,6 +254,11 @@
  - date_published: 2019-04-26T13:09:19+00:00
  - tags: ['satanic temple']
 
+ ## Macierewicz nakazał włamanie do siedziby NATO. Sąd wydał wyrok
+ - [https://wiadomosci.wp.pl/macierewicz-nakazal-wlamanie-do-siedziby-nato-sad-wydal-wyrok-6375896563074689a](https://wiadomosci.wp.pl/macierewicz-nakazal-wlamanie-do-siedziby-nato-sad-wydal-wyrok-6375896563074689a)
+ - date_published: 2019-04-30T16:38:46+00:00
+ - tags: ['pis']
+
  ## Pre-teen “Drag Kids” highlight just how fast our culture has crumbled
  - [https://thebridgehead.ca/2019/04/30/pre-teen-drag-kids-highlight-just-how-fast-our-culture-has-crumbled](https://thebridgehead.ca/2019/04/30/pre-teen-drag-kids-highlight-just-how-fast-our-culture-has-crumbled)
  - date_published: 2019-04-30T22:11:33+00:00

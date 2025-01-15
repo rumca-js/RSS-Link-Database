@@ -55,6 +55,34 @@
         "vote": 0
     },
     {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-13T13:27:06+00:00",
+        "description": "<p>Article URL: <a href=\"https://paulgraham.com/woke.html\">https://paulgraham.com/woke.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42683184\">https://news.ycombinator.com/item?id=42683184</a></p>\n<p>Points: 26</p>\n<p># Comments: 5</p>",
+        "id": 1894194,
+        "language": null,
+        "link": "https://paulgraham.com/woke.html",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 141,
+        "source_url": "https://hnrss.org/frontpage",
+        "status_code": 0,
+        "tags": [
+            "woke"
+        ],
+        "thumbnail": null,
+        "title": "The Origins of Wokeness",
+        "vote": 0
+    },
+    {
         "age": 0,
         "album": null,
         "author": null,
