@@ -170,7 +170,7 @@
         "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "Tech",
         "title": "ACCU Conference",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw"
@@ -458,7 +458,7 @@
         "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "YouTube",
         "title": "Asmongold TV",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQeRaTukNYft1_6AZPACnog"
@@ -506,7 +506,7 @@
         "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "Cars",
         "title": "Auto Focus",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2J-0g_nxlwcD9JBK1eTleQ"
@@ -554,74 +554,10 @@
         "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "Tech",
         "title": "Basically Homeless",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChHxJaKDqH4bOs0pX3hkKnA"
-    },
-    {
-        "age": 0,
-        "category_name": "News",
-        "enabled": true,
-        "export_to_cms": true,
-        "favicon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
-        "fetch_period": 3600,
-        "id": 522,
-        "language": "en-gb",
-        "proxy_location": "",
-        "remove_after_days": 0,
-        "source_type": "BaseRssPlugin",
-        "subcategory_name": "News",
-        "title": "BBC News",
-        "url": "https://feeds.bbci.co.uk/news/world/asia/rss.xml"
-    },
-    {
-        "age": 0,
-        "category_name": "News",
-        "enabled": true,
-        "export_to_cms": true,
-        "favicon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
-        "fetch_period": 3600,
-        "id": 525,
-        "language": "en-gb",
-        "proxy_location": "",
-        "remove_after_days": 0,
-        "source_type": "BaseRssPlugin",
-        "subcategory_name": "News",
-        "title": "BBC News",
-        "url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml"
-    },
-    {
-        "age": 0,
-        "category_name": "News",
-        "enabled": true,
-        "export_to_cms": true,
-        "favicon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
-        "fetch_period": 3600,
-        "id": 27,
-        "language": "en-US",
-        "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/40",
-        "remove_after_days": 0,
-        "source_type": "BaseRssPlugin",
-        "subcategory_name": "News",
-        "title": "BBC News",
-        "url": "https://feeds.bbci.co.uk/news/rss.xml"
-    },
-    {
-        "age": 0,
-        "category_name": "News",
-        "enabled": true,
-        "export_to_cms": true,
-        "favicon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
-        "fetch_period": 3600,
-        "id": 524,
-        "language": "en-gb",
-        "proxy_location": "",
-        "remove_after_days": 0,
-        "source_type": "BaseRssPlugin",
-        "subcategory_name": "News",
-        "title": "BBC News",
-        "url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml"
     },
     {
         "age": 0,
@@ -646,14 +582,14 @@
         "export_to_cms": true,
         "favicon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
         "fetch_period": 3600,
-        "id": 526,
+        "id": 525,
         "language": "en-gb",
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
         "subcategory_name": "News",
         "title": "BBC News",
-        "url": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml"
+        "url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml"
     },
     {
         "age": 0,
@@ -678,6 +614,38 @@
         "export_to_cms": true,
         "favicon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
         "fetch_period": 3600,
+        "id": 523,
+        "language": "en-gb",
+        "proxy_location": "",
+        "remove_after_days": 0,
+        "source_type": "BaseRssPlugin",
+        "subcategory_name": "News",
+        "title": "BBC News",
+        "url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml"
+    },
+    {
+        "age": 0,
+        "category_name": "News",
+        "enabled": true,
+        "export_to_cms": true,
+        "favicon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
+        "fetch_period": 3600,
+        "id": 524,
+        "language": "en-gb",
+        "proxy_location": "",
+        "remove_after_days": 0,
+        "source_type": "BaseRssPlugin",
+        "subcategory_name": "News",
+        "title": "BBC News",
+        "url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml"
+    },
+    {
+        "age": 0,
+        "category_name": "News",
+        "enabled": true,
+        "export_to_cms": true,
+        "favicon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
+        "fetch_period": 3600,
         "id": 28,
         "language": "en-US",
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/27",
@@ -694,14 +662,46 @@
         "export_to_cms": true,
         "favicon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
         "fetch_period": 3600,
-        "id": 523,
+        "id": 526,
         "language": "en-gb",
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
         "subcategory_name": "News",
         "title": "BBC News",
-        "url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml"
+        "url": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml"
+    },
+    {
+        "age": 0,
+        "category_name": "News",
+        "enabled": true,
+        "export_to_cms": true,
+        "favicon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
+        "fetch_period": 3600,
+        "id": 27,
+        "language": "en-US",
+        "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/40",
+        "remove_after_days": 0,
+        "source_type": "BaseRssPlugin",
+        "subcategory_name": "News",
+        "title": "BBC News",
+        "url": "https://feeds.bbci.co.uk/news/rss.xml"
+    },
+    {
+        "age": 0,
+        "category_name": "News",
+        "enabled": true,
+        "export_to_cms": true,
+        "favicon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
+        "fetch_period": 3600,
+        "id": 522,
+        "language": "en-gb",
+        "proxy_location": "",
+        "remove_after_days": 0,
+        "source_type": "BaseRssPlugin",
+        "subcategory_name": "News",
+        "title": "BBC News",
+        "url": "https://feeds.bbci.co.uk/news/world/asia/rss.xml"
     },
     {
         "age": 0,
@@ -826,7 +826,7 @@
         "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "",
         "title": "Blender Guru",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOKHwx1VCdgnxwbjyb9Iu1g"
@@ -922,7 +922,7 @@
         "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "Tech",
         "title": "Boston Dynamics",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7vVhkEfw4nOGp8TyDk7RcQ"
@@ -1098,7 +1098,7 @@
         "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "Tech",
         "title": "Caleb Curry",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZUyPT9DkJWmS_DzdOi7RIA"
@@ -1226,10 +1226,26 @@
         "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "Tech",
         "title": "CGP Grey",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2C_jShtL725hvbm1arSV9w"
+    },
+    {
+        "age": 0,
+        "category_name": "Tech",
+        "enabled": true,
+        "export_to_cms": true,
+        "favicon": "https://www.computerworld.com/favicon.ico",
+        "fetch_period": 3600,
+        "id": 78,
+        "language": "en-US",
+        "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/70",
+        "remove_after_days": 0,
+        "source_type": "BaseRssPlugin",
+        "subcategory_name": "Tech",
+        "title": "ChatGPT gets support for reminders and scheduled searches \u2013 Computerworld",
+        "url": "https://www.computerworld.com/feed"
     },
     {
         "age": 0,
@@ -1274,7 +1290,7 @@
         "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "China",
         "title": "China Uncensored",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgFP46yVT-GG4o1TgXn-04Q"
@@ -1338,7 +1354,7 @@
         "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "Tech",
         "title": "Chris Titus Tech",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ"
@@ -1594,7 +1610,7 @@
         "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "Tech",
         "title": "CppCon",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg"
@@ -1642,7 +1658,7 @@
         "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "Tech",
         "title": "Cybernews",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCsREoj8rSRkEvxWqxr74rQ"
@@ -1802,7 +1818,7 @@
         "language": "",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "",
         "title": "Defunctland",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVo63lbKHjC04KqYhwSZ_Pg"
@@ -1834,7 +1850,7 @@
         "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "History",
         "title": "Denis Shiryaev",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCD8J_xbbBuGobmw_N5ga3MA"
@@ -2186,7 +2202,7 @@
         "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "Hobby",
         "title": "EonsOfBattle",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDNHPNeWScAC8h8IxtEBtkQ"
@@ -2282,7 +2298,7 @@
         "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "Video Games",
         "title": "Fextralife",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UClkUHCETNUph8vM-4gQpwUA"
@@ -2426,7 +2442,7 @@
         "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "Tech",
         "title": "freeCodeCamp.org",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ"
@@ -2538,7 +2554,7 @@
         "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "Tech",
         "title": "Gamers Nexus",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA"
@@ -2746,7 +2762,7 @@
         "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "Hobby",
         "title": "Guerrilla Miniature Games",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbO4Vs1vlAA9hz7Ad7IMgug"
@@ -2858,7 +2874,7 @@
         "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "New",
         "title": "hankschannel",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOT2iLov0V7Re7ku_3UBtcQ"
@@ -2874,7 +2890,7 @@
         "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "Random",
         "title": "hbomberguy",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UClt01z1wHHT7c5lKcU8pxRQ"
@@ -2954,7 +2970,7 @@
         "language": "pl",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "Comedy",
         "title": "HRejterzy",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpPndhUatYo4NLn3fleQ2Fw"
@@ -3002,7 +3018,7 @@
         "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "Tech",
         "title": "IBM Technology",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ"
@@ -3258,7 +3274,7 @@
         "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "Comedy",
         "title": "Joel Haver",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVIFCOJwv3emlVmBbPCZrvw"
@@ -3402,7 +3418,7 @@
         "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "Music",
         "title": "Justin Hawkins Rides Again",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgH8NCuYcVzxxrfsrBj1u3A"
@@ -3418,7 +3434,7 @@
         "language": "pl",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "",
         "title": "Kana\u0142 Zero",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UClhEl4bMD8_escGCCTmRAYg"
@@ -3802,7 +3818,7 @@
         "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "Games",
         "title": "Leadhead",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3_kehZbfRz-KrjXIqeIiPw"
@@ -3818,7 +3834,7 @@
         "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "Law",
         "title": "LegalEagle",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpa-Zb0ZcQjTCPP1Dx_1M8Q"
@@ -3834,7 +3850,7 @@
         "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "Tech",
         "title": "Lex Fridman",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSHZKyawb77ixDdsGog4iWA"
@@ -3850,7 +3866,7 @@
         "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "History",
         "title": "Life in the 1800s",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6oHLp5r0FcXwzxmWzL1aSg"
@@ -4042,7 +4058,7 @@
         "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "History",
         "title": "Lost in Time",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCac6m8K3OGHUT4itHwpCAmw"
@@ -4138,7 +4154,7 @@
         "language": "pl",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "Nature",
         "title": "Magia Natury",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfDX69pxC4q6yKSaugs196g"
@@ -4266,7 +4282,7 @@
         "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "Tech",
         "title": "Max",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCx-KWLTKlB83hDI6UKECtJQ"
@@ -4346,26 +4362,10 @@
         "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "Entertainment",
         "title": "Michael Reeves",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtHaxi4GTYDpJgMSGy7AeSw"
-    },
-    {
-        "age": 0,
-        "category_name": "Tech",
-        "enabled": true,
-        "export_to_cms": true,
-        "favicon": "https://www.computerworld.com/favicon.ico",
-        "fetch_period": 3600,
-        "id": 78,
-        "language": "en-US",
-        "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/70",
-        "remove_after_days": 0,
-        "source_type": "BaseRssPlugin",
-        "subcategory_name": "Tech",
-        "title": "Microsoft creates new internal unit for AI development \u2013 Computerworld",
-        "url": "https://www.computerworld.com/feed"
     },
     {
         "age": 0,
@@ -4378,7 +4378,7 @@
         "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "Tabletop",
         "title": "Miscast",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUtsRCYEE-hCPsftezm9wzA"
@@ -4394,7 +4394,7 @@
         "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "Tech",
         "title": "MIT OpenCourseWare",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEBb1b_L6zDS3xTUrIALZOw"
@@ -4442,7 +4442,7 @@
         "language": "pl",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "Music",
         "title": "Mosak Marcin",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGMXM2RS39k1UwyNVoyzHYw"
@@ -4550,22 +4550,6 @@
         "export_to_cms": true,
         "favicon": "https://tvn24.pl/favicon.ico",
         "fetch_period": 3600,
-        "id": 319,
-        "language": "pl-PL",
-        "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/49",
-        "remove_after_days": 0,
-        "source_type": "BaseRssPlugin",
-        "subcategory_name": "News",
-        "title": "Najnowsze wiadomo\u015bci - TVN24",
-        "url": "https://tvn24.pl/wiadomosci-z-kraju,3.xml"
-    },
-    {
-        "age": 0,
-        "category_name": "News",
-        "enabled": true,
-        "export_to_cms": true,
-        "favicon": "https://tvn24.pl/favicon.ico",
-        "fetch_period": 3600,
         "id": 320,
         "language": "pl-PL",
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/50",
@@ -4574,6 +4558,22 @@
         "subcategory_name": "News",
         "title": "Najnowsze wiadomo\u015bci - TVN24",
         "url": "https://tvn24.pl/wiadomosci-ze-swiata,2.xml"
+    },
+    {
+        "age": 0,
+        "category_name": "News",
+        "enabled": true,
+        "export_to_cms": true,
+        "favicon": "https://tvn24.pl/favicon.ico",
+        "fetch_period": 3600,
+        "id": 319,
+        "language": "pl-PL",
+        "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/49",
+        "remove_after_days": 0,
+        "source_type": "BaseRssPlugin",
+        "subcategory_name": "News",
+        "title": "Najnowsze wiadomo\u015bci - TVN24",
+        "url": "https://tvn24.pl/wiadomosci-z-kraju,3.xml"
     },
     {
         "age": 0,
@@ -4618,7 +4618,7 @@
         "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "Nature",
         "title": "National Geographic",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpVm7bg6pXKo1Pr6k5kxG9A"
@@ -4778,7 +4778,7 @@
         "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "Movies",
         "title": "Nerdwriter1",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJkMlOu7faDgqh4PfzbpLdg"
@@ -4794,7 +4794,7 @@
         "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "Tech",
         "title": "NetworkChuck",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ"
@@ -4970,7 +4970,7 @@
         "language": "pl",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "Random",
         "title": "Niekryty Krytyk",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCura5JPb8QkzXrMfAxq4Ssw"
@@ -5018,7 +5018,7 @@
         "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "Tech",
         "title": "Novaspirit Tech",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrjKdwxaQMSV_NDywgKXVmw"
@@ -5162,7 +5162,7 @@
         "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "Movies",
         "title": "Paramount Plus",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrRttZIypNTA1Mrfwo745Sg"
@@ -5316,7 +5316,7 @@
         "category_name": "Movies",
         "enabled": true,
         "export_to_cms": true,
-        "favicon": "https://yt3.ggpht.com/agdQznSAhEyIdMr2e3z36hfMgMBmjeWej0-KGftGfsMPUcEBIn8pnQ-cpLkx-ufX8rM65zvxV7c=s48-c-k-c0x00ffffff-no-rj",
+        "favicon": "https://yt3.ggpht.com/HHkLcIooMYsJnhwnVHw794z7rZAXBmB1scphSjUuZlfSa9_p7-sDPFAeXqkyMZzUDq5jcMki=s48-c-k-c0x00ffffff-no-rj",
         "fetch_period": 3600,
         "id": 252,
         "language": "en-US",
@@ -5338,7 +5338,7 @@
         "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "Warhammer",
         "title": "Play On Tabletop",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJ4-WFTrDNWvcM7dEC6E2mw"
@@ -5354,7 +5354,7 @@
         "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "Video Games",
         "title": "PlayStation",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-2Y8dQb0S6DtpxNgAKoJKA"
@@ -5578,7 +5578,7 @@
         "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "Movies",
         "title": "Prime Video",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQJWtTnAHhEG5w4uN0udnUQ"
@@ -5722,7 +5722,7 @@
         "language": "rn",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "Random",
         "title": "Qxir",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGHDQtN_vzFYJaq_Fx1eikg"
@@ -5774,22 +5774,6 @@
         "subcategory_name": "New",
         "title": "Reclaim The Net",
         "url": "https://reclaimthenet.org/feed"
-    },
-    {
-        "age": 0,
-        "category_name": "Tech",
-        "enabled": true,
-        "export_to_cms": true,
-        "favicon": null,
-        "fetch_period": 3600,
-        "id": 468,
-        "language": "en-US",
-        "proxy_location": "",
-        "remove_after_days": 0,
-        "source_type": "BaseRssPlugin",
-        "subcategory_name": "Tech",
-        "title": "Red Hat offers OpenShift Virtualization Engine, Kubernetes Connectivity Link | InfoWorld",
-        "url": "https://www.infoworld.com/feed/"
     },
     {
         "age": 0,
@@ -6026,7 +6010,7 @@
         "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "Tech",
         "title": "Rob Braxman Tech",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYVU6rModlGxvJbszCclGGw"
@@ -6394,7 +6378,7 @@
         "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "Video Games",
         "title": "Second Wind",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1wZGocgLvopgOqBUFCyIJA"
@@ -6561,6 +6545,22 @@
     },
     {
         "age": 0,
+        "category_name": "Tech",
+        "enabled": true,
+        "export_to_cms": true,
+        "favicon": null,
+        "fetch_period": 3600,
+        "id": 468,
+        "language": "en-US",
+        "proxy_location": "",
+        "remove_after_days": 0,
+        "source_type": "BaseRssPlugin",
+        "subcategory_name": "Tech",
+        "title": "Snowflake open sources SwiftKV to reduce inference workload costs | InfoWorld",
+        "url": "https://www.infoworld.com/feed/"
+    },
+    {
+        "age": 0,
         "category_name": "Entertainment",
         "enabled": true,
         "export_to_cms": true,
@@ -6666,7 +6666,7 @@
         "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "Random",
         "title": "Stuff You Should Know",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTb6Oy0TXI03iEUdRMR9dnw"
@@ -6810,7 +6810,7 @@
         "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "Tech",
         "title": "TechHut",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjSEJkpGbcZhvo0lr-44X_w"
@@ -7034,7 +7034,7 @@
         "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "Tech",
         "title": "The Cherno",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQ-W1KE9EYfdxhL6S4twUNw"
@@ -7050,7 +7050,7 @@
         "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "Movies",
         "title": "The Closer Look",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCI9DUIgtRGHNH_HmSTcfUbA"
@@ -7222,22 +7222,6 @@
         "export_to_cms": true,
         "favicon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png",
         "fetch_period": 3600,
-        "id": 340,
-        "language": "en-UK",
-        "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/167",
-        "remove_after_days": 0,
-        "source_type": "BaseRssPlugin",
-        "subcategory_name": "News",
-        "title": "The Guardian",
-        "url": "https://www.theguardian.com/rss"
-    },
-    {
-        "age": 0,
-        "category_name": "News",
-        "enabled": true,
-        "export_to_cms": true,
-        "favicon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png",
-        "fetch_period": 3600,
         "id": 341,
         "language": "en-US",
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/85",
@@ -7246,6 +7230,22 @@
         "subcategory_name": "News",
         "title": "The Guardian",
         "url": "https://www.theguardian.com/international/rss"
+    },
+    {
+        "age": 0,
+        "category_name": "News",
+        "enabled": true,
+        "export_to_cms": true,
+        "favicon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png",
+        "fetch_period": 3600,
+        "id": 340,
+        "language": "en-UK",
+        "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/167",
+        "remove_after_days": 0,
+        "source_type": "BaseRssPlugin",
+        "subcategory_name": "News",
+        "title": "The Guardian",
+        "url": "https://www.theguardian.com/rss"
     },
     {
         "age": 0,
@@ -7354,7 +7354,7 @@
         "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "Tech",
         "title": "The Linux Foundation",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ"
@@ -7546,7 +7546,7 @@
         "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "Tech",
         "title": "thenewboston",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJbPGzawDH1njbqV-D5HqKw"
@@ -7738,7 +7738,7 @@
         "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "Tech",
         "title": "Undecided with Matt Ferrell",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjtUS7-SZTi6pXjUbzGHQCg"
@@ -7754,7 +7754,7 @@
         "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "Video Games",
         "title": "Unreal Sensei",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCue7TFlrt9FxXarpsl872Dg"
@@ -7802,7 +7802,7 @@
         "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "New",
         "title": "Upper Echelon",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChI0q9a-ZcbZh7dAu_-J-hg"
@@ -7898,7 +7898,7 @@
         "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "Random",
         "title": "Video Advice",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAwylBbx8RiRD3VsaYdwNTw"
@@ -8390,14 +8390,14 @@
         "export_to_cms": true,
         "favicon": "https://wydarzenia.interia.pl/i/wydarzenia-ico-144x144.png?v=2",
         "fetch_period": 3600,
-        "id": 402,
+        "id": 401,
         "language": "pl-PL",
-        "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/57",
+        "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/56",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
         "subcategory_name": "News",
         "title": "wydarzenia.interia.pl",
-        "url": "https://wydarzenia.interia.pl/swiat/feed"
+        "url": "https://wydarzenia.interia.pl/polska/feed"
     },
     {
         "age": 0,
@@ -8422,14 +8422,14 @@
         "export_to_cms": true,
         "favicon": "https://wydarzenia.interia.pl/i/wydarzenia-ico-144x144.png?v=2",
         "fetch_period": 3600,
-        "id": 401,
+        "id": 402,
         "language": "pl-PL",
-        "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/56",
+        "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/57",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
         "subcategory_name": "News",
         "title": "wydarzenia.interia.pl",
-        "url": "https://wydarzenia.interia.pl/polska/feed"
+        "url": "https://wydarzenia.interia.pl/swiat/feed"
     },
     {
         "age": 0,
@@ -8458,7 +8458,7 @@
         "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
-        "source_type": "YouTubeChannelPlugin",
+        "source_type": "BaseRssPlugin",
         "subcategory_name": "Video Games",
         "title": "Xbox",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjBp_7RuDBUYbd1LegWEJ8g"
