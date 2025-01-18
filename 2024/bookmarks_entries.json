@@ -2715,7 +2715,7 @@
         "page_rating_contents": 94,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
-        "permanent": true,
+        "permanent": false,
         "source_url": "",
         "status_code": 200,
         "tags": [
