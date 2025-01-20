@@ -6343,14 +6343,14 @@
         "permanent": false,
         "source__id": 342,
         "source_url": "https://www.theguardian.com/world/rss",
-        "status_code": 0,
+        "status_code": 200,
         "tags": [
             "artificial intelligence",
             "ad business",
             "privacy",
             "surveillence"
         ],
-        "thumbnail": "https://i.guim.co.uk/img/media/b418385e33f390d18abf3a0398bfef64aa811b36/0_190_6627_3974/master/6627.jpg?width=140&quality=85&auto=format&fit=max&s=8c3fcb9f093f3167ba32e059e51ba1f5",
+        "thumbnail": "https://i.guim.co.uk/img/media/b418385e33f390d18abf3a0398bfef64aa811b36/0_190_6627_3974/master/6627.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=379666adce1b3db35049af58ab171ca9",
         "title": "Meta\u2019s AI is scraping users\u2019 photos and posts. Europeans can opt out, but Australians cannot",
         "vote": 0
     },
