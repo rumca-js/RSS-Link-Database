@@ -3045,8 +3045,8 @@
         "language": "en",
         "link": "https://www.bloomberg.com/opinion/articles/2024-03-10/global-population-collapse-isn-t-sci-fi-anymore-niall-ferguson",
         "manual_status_code": 0,
-        "page_rating": 29,
-        "page_rating_contents": 81,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -3656,7 +3656,7 @@
         "tags": [
             "data leak"
         ],
-        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/att-store-760x380.jpg",
+        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/att-store-1152x648.jpg",
         "title": "AT&T acknowledges data leak that hit 73 million current and former users",
         "vote": 0
     },
@@ -6369,14 +6369,14 @@
         "manual_status_code": 0,
         "page_rating": 27,
         "page_rating_contents": 86,
-        "page_rating_visits": 0,
+        "page_rating_visits": 6,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 434,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6oHLp5r0FcXwzxmWzL1aSg",
-        "status_code": 0,
+        "status_code": 200,
         "tags": [],
-        "thumbnail": "https://i2.ytimg.com/vi/u0dxIOygGGQ/hqdefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/u0dxIOygGGQ/maxresdefault.jpg",
         "title": "I Was Born in a Cave in 1896",
         "vote": 0
     },
