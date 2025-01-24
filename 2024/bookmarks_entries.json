@@ -6400,12 +6400,12 @@
         "permanent": false,
         "source__id": 340,
         "source_url": "https://www.theguardian.com/rss",
-        "status_code": 0,
+        "status_code": 200,
         "tags": [
             "global warming",
             "climate change"
         ],
-        "thumbnail": "https://i.guim.co.uk/img/media/f58a6cca02dbe1a02815601f6a87bc04990fa4f7/0_0_4277_2567/master/4277.jpg?width=140&quality=85&auto=format&fit=max&s=9525e313045e167e5c9768e3dee88a84",
+        "thumbnail": "https://i.guim.co.uk/img/media/f58a6cca02dbe1a02815601f6a87bc04990fa4f7/0_0_4277_2567/master/4277.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8b697a293657e8d9da8a20a8c8dfd754",
         "title": "Data center emissions likely 662% higher than big tech claims. Can it keep up the ruse?",
         "vote": 0
     },
