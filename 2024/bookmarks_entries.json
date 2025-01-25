@@ -6422,19 +6422,19 @@
         "language": "en-US",
         "link": "https://arstechnica.com/?p=2049906",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 32,
+        "page_rating_contents": 91,
         "page_rating_visits": 3,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 21,
         "source_url": "https://feeds.arstechnica.com/arstechnica/index",
-        "status_code": 0,
+        "status_code": 200,
         "tags": [
             "surveillance",
             "privacy"
         ],
-        "thumbnail": null,
+        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/london_cameras_red-1152x648.jpg",
         "title": "Omnipresent AI cameras will ensure good behavior, says Larry Ellison",
         "vote": 0
     },
