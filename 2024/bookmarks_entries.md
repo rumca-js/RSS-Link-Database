@@ -751,6 +751,7 @@
  - [https://www.reuters.com/legal/pfizer-agrees-settle-more-than-10000-zantac-cancer-lawsuits-bloomberg-news-2024-05-08](https://www.reuters.com/legal/pfizer-agrees-settle-more-than-10000-zantac-cancer-lawsuits-bloomberg-news-2024-05-08)
  - date_published: 2024-05-10T00:00:00+00:00
  - tags: ['pfizer', 'vaccines', 'cancer']
+ - date_dead_since: 2025-01-25T12:59:34.781233+00:00
 
  ## Romance author gets locked out of Google Docs for "inappropriate" content
  - [https://www.dexerto.com/tech/romance-author-gets-locked-out-of-google-docs-for-inappropriate-content-2713004](https://www.dexerto.com/tech/romance-author-gets-locked-out-of-google-docs-for-inappropriate-content-2713004)
@@ -1119,6 +1120,7 @@
  - [https://www.securityweek.com/hundreds-of-pagers-exploded-in-lebanon-and-syria-in-a-deadly-attack-heres-what-we-know](https://www.securityweek.com/hundreds-of-pagers-exploded-in-lebanon-and-syria-in-a-deadly-attack-heres-what-we-know)
  - date_published: 2024-09-17T20:42:05+00:00
  - tags: ['israel']
+ - date_dead_since: 2025-01-25T21:03:43.846447+00:00
 
  ## Social media and online video firms are conducting ‘vast surveillance’ on users, FTC finds
  - [https://www.theguardian.com/technology/2024/sep/19/social-media-companies-surveillance-ftc](https://www.theguardian.com/technology/2024/sep/19/social-media-companies-surveillance-ftc)
