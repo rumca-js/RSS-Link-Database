@@ -108,5 +108,35 @@
         "thumbnail": "https://static.toiimg.com/thumb/msid-117158821,width-1070,height-580,imgsize-699199,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
         "title": "'What a creep': Elon Musk reacts to former Labour MP Ivor Caplin's arrest in child sting operation - Times of India",
         "vote": 0
+    },
+    {
+        "age": 0,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-26T16:14:50+00:00",
+        "description": "PayPal admits it terminated Molly Kingsley\u2019s account after she spoke out against Covid vaccinations for children and school closures",
+        "id": 1981825,
+        "language": "en",
+        "link": "https://www.telegraph.co.uk/news/2025/01/18/proof-that-lockdown-critics-were-debanked-because-of-views",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "technofeudalism",
+            "covid",
+            "debanking",
+            "censorship"
+        ],
+        "thumbnail": "https://www.telegraph.co.uk/content/dam/news/2025/01/18/TELEMMGLPICT000338349983_17372187067350_trans_NvBQzQNjv4Bqp9c5WVj0Jr0gvyuux5WeKD9ZoOdymdQ6ONrooXZWrQE.jpeg?impolicy=OG-Standard",
+        "title": "The proof that lockdown critics were \u2018debanked\u2019 because of their views",
+        "vote": 0
     }
 ]

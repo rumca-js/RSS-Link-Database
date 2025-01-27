@@ -18,3 +18,8 @@
  - date_published: 2025-01-13T22:10:39+00:00
  - tags: ['paedophilia']
 
+ ## The proof that lockdown critics were ‘debanked’ because of their views
+ - [https://www.telegraph.co.uk/news/2025/01/18/proof-that-lockdown-critics-were-debanked-because-of-views](https://www.telegraph.co.uk/news/2025/01/18/proof-that-lockdown-critics-were-debanked-because-of-views)
+ - date_published: 2025-01-26T16:14:50+00:00
+ - tags: ['technofeudalism', 'covid', 'debanking', 'censorship']
+
