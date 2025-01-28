@@ -18,6 +18,11 @@
  - date_published: 2025-01-13T22:10:39+00:00
  - tags: ['paedophilia']
 
+ ## Enviromental groups got EU subsidies to lobby for Timmermans' green plans: report
+ - [https://nltimes.nl/2025/01/22/enviromental-groups-got-eu-subsidies-lobby-timmermans-green-plans-report](https://nltimes.nl/2025/01/22/enviromental-groups-got-eu-subsidies-lobby-timmermans-green-plans-report)
+ - date_published: 2025-01-22T09:37:56+00:00
+ - tags: ['climate change', 'pollutions', 'manufacturing consent']
+
  ## The proof that lockdown critics were ‘debanked’ because of their views
  - [https://www.telegraph.co.uk/news/2025/01/18/proof-that-lockdown-critics-were-debanked-because-of-views](https://www.telegraph.co.uk/news/2025/01/18/proof-that-lockdown-critics-were-debanked-because-of-views)
  - date_published: 2025-01-26T16:14:50+00:00
