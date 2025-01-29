@@ -3802,7 +3802,7 @@
         "source_url": "",
         "status_code": 200,
         "tags": [],
-        "thumbnail": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+        "thumbnail": "https://media.npr.org/chrome/favicon/favicon.ico",
         "title": "NPR - Breaking News, Analysis, Music, Arts & Podcasts",
         "vote": 0
     },
@@ -6486,13 +6486,13 @@
         "permanent": false,
         "source__id": 342,
         "source_url": "https://www.theguardian.com/world/rss",
-        "status_code": 0,
+        "status_code": 200,
         "tags": [
             "privacy",
             "technofeudalism",
             "surveillance"
         ],
-        "thumbnail": "https://i.guim.co.uk/img/media/d2fb682399d97802d7e309f2939b0bec13f49c1b/1_0_2998_1800/master/2998.jpg?width=140&quality=85&auto=format&fit=max&s=e001f20da56c1ce7a54700f6a9a56272",
+        "thumbnail": "https://i.guim.co.uk/img/media/d2fb682399d97802d7e309f2939b0bec13f49c1b/1_0_2998_1800/master/2998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e4131f6e18f6039c7ef3977de284e344",
         "title": "Social media and online video firms are conducting \u2018vast surveillance\u2019 on users, FTC finds",
         "vote": 50
     },
