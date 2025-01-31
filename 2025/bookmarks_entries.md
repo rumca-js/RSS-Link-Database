@@ -23,6 +23,11 @@
  - date_published: 2025-01-22T09:37:56+00:00
  - tags: ['climate change', 'pollutions', 'manufacturing consent']
 
+ ## Solar plant off I-15 near Las Vegas faces cloudy future; units closing — PHOTOS
+ - [https://www.reviewjournal.com/business/energy/ivanpah-solar-is-shutting-down-majority-of-its-plant-3268775](https://www.reviewjournal.com/business/energy/ivanpah-solar-is-shutting-down-majority-of-its-plant-3268775)
+ - date_published: 2025-01-22T22:44:29+00:00
+ - tags: ['climate change']
+
  ## The proof that lockdown critics were ‘debanked’ because of their views
  - [https://www.telegraph.co.uk/news/2025/01/18/proof-that-lockdown-critics-were-debanked-because-of-views](https://www.telegraph.co.uk/news/2025/01/18/proof-that-lockdown-critics-were-debanked-because-of-views)
  - date_published: 2025-01-26T16:14:50+00:00
