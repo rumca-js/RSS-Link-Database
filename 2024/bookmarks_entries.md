@@ -366,6 +366,11 @@
  - date_published: 2024-02-01T11:26:53+00:00
  - tags: ['strike']
 
+ ## FLASHBACK: FAA turned away qualified air traffic controllers based solely on race
+ - [https://www.washingtontimes.com/news/2024/feb/1/editorial-faa-turned-away-qualified-air-traffic-co](https://www.washingtontimes.com/news/2024/feb/1/editorial-faa-turned-away-qualified-air-traffic-co)
+ - date_published: 2024-02-01T14:48:17+00:00
+ - tags: ['racism']
+
  ## Mark Zuckerberg’s Apologies: A History
  - [https://time.com/6622135/mark-zuckerberg-apologies-history](https://time.com/6622135/mark-zuckerberg-apologies-history)
  - date_published: 2024-02-02T15:33:58+00:00
@@ -1021,7 +1026,6 @@
  - [https://tribune.com.pk/story/2488602/uk-lgbtq-pride-founder-stephen-ireland-arrested-for-child-sex-crimes](https://tribune.com.pk/story/2488602/uk-lgbtq-pride-founder-stephen-ireland-arrested-for-child-sex-crimes)
  - date_published: 2024-08-16T15:52:18+00:00
  - tags: ['paedophilia', 'lgbt']
- - date_dead_since: 2025-01-12T14:23:43.900612+00:00
 
  ## In Britain, Two-Tier Policing and a Two-Tier Judiciary | National Review
  - [https://www.nationalreview.com/2024/08/in-britain-two-tier-policing-and-a-two-tier-judiciary](https://www.nationalreview.com/2024/08/in-britain-two-tier-policing-and-a-two-tier-judiciary)

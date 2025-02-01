@@ -33,6 +33,11 @@
  - date_published: 2025-01-26T16:14:50+00:00
  - tags: ['technofeudalism', 'covid', 'debanking', 'censorship']
 
+ ## California Law Enforcement Misused State Databases More Than 7,000 Times in 2023
+ - [https://www.eff.org/deeplinks/2025/01/california-police-misused-state-databases-more-7000-times-2023](https://www.eff.org/deeplinks/2025/01/california-police-misused-state-databases-more-7000-times-2023)
+ - date_published: 2025-01-28T16:30:16+00:00
+ - tags: ['privacy', 'surveillance', 'technofeudalism']
+
  ## nsa
  - [https://boingboing.net/2025/01/28/nsa-can-track-powered-down-phones-how-to-actually-protect-your-privacy.html](https://boingboing.net/2025/01/28/nsa-can-track-powered-down-phones-how-to-actually-protect-your-privacy.html)
  - date_published: 2025-01-28T20:45:36+00:00
