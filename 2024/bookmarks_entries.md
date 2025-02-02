@@ -252,6 +252,7 @@
  - [https://phys.org/news/2024-01-eu-car-co2-emissions.html](https://phys.org/news/2024-01-eu-car-co2-emissions.html)
  - date_published: 2024-01-24T14:47:22+00:00
  - tags: ['climate change', 'electric vehicles']
+ - date_dead_since: 2025-02-01T14:14:04.853092+00:00
 
  ## Why are so many EV charging stations broken in California?
  - [https://www.latimes.com/environment/story/2024-01-24/california-ev-charging-stations-broken](https://www.latimes.com/environment/story/2024-01-24/california-ev-charging-stations-broken)
@@ -429,6 +430,7 @@
  - [https://thehackernews.com/2024/02/russian-linked-hackers-breach-80.html](https://thehackernews.com/2024/02/russian-linked-hackers-breach-80.html)
  - date_published: 2024-02-19T05:05:00+00:00
  - tags: ['security']
+ - date_dead_since: 2025-02-01T10:57:47.245081+00:00
 
  ## Chiński szpieg w odkurzaczu. Informacje z popularnych gadżetów płyną do służb
  - [https://cyfrowa.rp.pl/it/art39866681-chinski-szpieg-w-odkurzaczu-informacje-z-popularnych-gadzetow-plyna-do-sluzb](https://cyfrowa.rp.pl/it/art39866681-chinski-szpieg-w-odkurzaczu-informacje-z-popularnych-gadzetow-plyna-do-sluzb)
@@ -553,6 +555,7 @@
  - [https://www.nytimes.com/2024/03/11/technology/carmakers-driver-tracking-insurance.html](https://www.nytimes.com/2024/03/11/technology/carmakers-driver-tracking-insurance.html)
  - date_published: 2024-03-11T09:00:50+00:00
  - tags: ['surveillance', 'corporatocracy', 'privacy', 'electric vehicles', 'big brother']
+ - date_dead_since: 2025-02-01T07:36:35.474440+00:00
 
  ## Are We Watching the Internet Die?
  - [https://www.wheresyoured.at/are-we-watching-the-internet-die](https://www.wheresyoured.at/are-we-watching-the-internet-die)
@@ -593,7 +596,6 @@
  - [https://www.reuters.com/default/gaza-starving-children-fill-hospital-wards-famine-looms-2024-03-19](https://www.reuters.com/default/gaza-starving-children-fill-hospital-wards-famine-looms-2024-03-19)
  - date_published: 2024-03-20T00:00:00+00:00
  - tags: ['israel', 'palestine']
- - date_dead_since: 2024-09-24T02:56:56.960972+00:00
 
  ## Scotland’s new ‘thought police’ will be the death of the Edinburgh Festival
  - [https://www.telegraph.co.uk/columnists/2024/03/21/scotland-police-hate-laws-actors-stage-crime-plays](https://www.telegraph.co.uk/columnists/2024/03/21/scotland-police-hate-laws-actors-stage-crime-plays)
@@ -697,6 +699,7 @@
  - [https://foundation.mozilla.org/en/privacynotincluded/articles/data-hungry-dating-apps-are-worse-than-ever-for-your-privacy](https://foundation.mozilla.org/en/privacynotincluded/articles/data-hungry-dating-apps-are-worse-than-ever-for-your-privacy)
  - date_published: 2024-04-23T13:49:45+00:00
  - tags: ['privacy']
+ - date_dead_since: 2025-02-01T02:34:28.725935+00:00
 
  ## How G.M. Tricked Millions of Drivers Into Being Spied On (Including Me)
  - [https://www.nytimes.com/2024/04/23/technology/general-motors-spying-driver-data-consent.html](https://www.nytimes.com/2024/04/23/technology/general-motors-spying-driver-data-consent.html)

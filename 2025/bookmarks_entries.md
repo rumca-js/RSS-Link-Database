@@ -42,3 +42,13 @@
  - [https://boingboing.net/2025/01/28/nsa-can-track-powered-down-phones-how-to-actually-protect-your-privacy.html](https://boingboing.net/2025/01/28/nsa-can-track-powered-down-phones-how-to-actually-protect-your-privacy.html)
  - date_published: 2025-01-28T20:45:36+00:00
 
+ ## Amazon secretly tracked Californian consumers via cellphones, lawsuit alleges
+ - [https://www.fastcompany.com/91269436/amazon-tracked-californian-consumers-cellphones-lawsuit](https://www.fastcompany.com/91269436/amazon-tracked-californian-consumers-cellphones-lawsuit)
+ - date_published: 2025-01-29T23:28:54.312800+00:00
+ - tags: ['privacy', 'technofeudalism', 'surveillance']
+
+ ## The Effects of Immigration in Denmark
+ - [https://inquisitivebird.xyz/p/the-effects-of-immigration-in-denmark](https://inquisitivebird.xyz/p/the-effects-of-immigration-in-denmark)
+ - date_published: 2025-02-01T08:49:18+00:00
+ - tags: ['immigration']
+
