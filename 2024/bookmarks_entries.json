@@ -6596,13 +6596,13 @@
         "permanent": false,
         "source__id": 76,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4QZ_LsYcvcq7qOsOhpAX4A",
-        "status_code": 0,
+        "status_code": 200,
         "tags": [
             "cars",
             "privacy",
             "surveillance"
         ],
-        "thumbnail": "https://i4.ytimg.com/vi/7Olo7B2ZydI/hqdefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi_webp/7Olo7B2ZydI/maxresdefault.webp",
         "title": "Car Companies Are Selling Your Personal Data For Profit",
         "vote": 0
     },

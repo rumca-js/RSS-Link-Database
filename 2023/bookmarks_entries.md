@@ -5502,7 +5502,6 @@
  - [https://www.reuters.com/legal/amazon-duped-millions-consumers-into-enrolling-prime-ftc-2023-06-21](https://www.reuters.com/legal/amazon-duped-millions-consumers-into-enrolling-prime-ftc-2023-06-21)
  - date_published: 2023-06-21T23:35:09+00:00
  - tags: ['amazon']
- - date_dead_since: 2024-09-24T20:06:19.156697+00:00
 
  ## Nearly 100,000 more deaths involving heart conditions and stroke than usual since pandemic began - BHF
  - [https://www.bhf.org.uk/what-we-do/news-from-the-bhf/news-archive/2023/june/100000-excess-deaths-cardiovascular-disease](https://www.bhf.org.uk/what-we-do/news-from-the-bhf/news-archive/2023/june/100000-excess-deaths-cardiovascular-disease)
@@ -5625,7 +5624,6 @@
  - [https://www.reuters.com/sustainability/eu-calls-global-talks-climate-geoengineering-risks-2023-06-28](https://www.reuters.com/sustainability/eu-calls-global-talks-climate-geoengineering-risks-2023-06-28)
  - date_published: 2023-06-28T05:15:18+00:00
  - tags: ['geoengineering', 'climate change']
- - date_dead_since: 2024-09-24T19:32:56.756431+00:00
 
  ## Dane milionów Polaków na Seszelach. Dostęp po 40 zł
  - [https://wydarzenia.interia.pl/tylko-w-interii/news-dane-milionow-polakow-na-seszelach-dostep-po-40-zl,nId,6867040](https://wydarzenia.interia.pl/tylko-w-interii/news-dane-milionow-polakow-na-seszelach-dostep-po-40-zl,nId,6867040)
@@ -5771,6 +5769,7 @@
  - [https://www.youtube.com/watch?v=geZSuEYfebc](https://www.youtube.com/watch?v=geZSuEYfebc)
  - date_published: 2023-07-04T06:17:58+00:00
  - tags: ['influencers', 'social media']
+ - date_dead_since: 2025-02-02T15:36:15.833083+00:00
 
  ## Gunman arrested for Philadelphia mass shooting that left 5 dead is BLM activist who wore women's clothes
  - [https://nypost.com/2023/07/04/kimbrady-carriker-ided-as-philadelphia-gunman-accused-of-killing-5](https://nypost.com/2023/07/04/kimbrady-carriker-ided-as-philadelphia-gunman-accused-of-killing-5)
@@ -6047,6 +6046,7 @@
  - [https://raypatrick.xyz/blog/2023/05/27/i-conscientiously-object-to-self-driving-cars](https://raypatrick.xyz/blog/2023/05/27/i-conscientiously-object-to-self-driving-cars)
  - date_published: 2023-07-15T02:21:51+00:00
  - tags: ['electric vehicles']
+ - date_dead_since: 2025-02-02T14:54:37.653368+00:00
 
  ## How Israel weaponises museums to erase Palestinian existence
  - [https://www.aljazeera.com/opinions/2023/7/15/how-israel-weaponises-museums-to-erase-palestinian-existence](https://www.aljazeera.com/opinions/2023/7/15/how-israel-weaponises-museums-to-erase-palestinian-existence)
@@ -6391,6 +6391,7 @@
  - [https://thehill.com/homenews/senate/4118792-billionaire-leon-blacks-158m-payment-to-jeffrey-epstein-sparks-senate-investigation](https://thehill.com/homenews/senate/4118792-billionaire-leon-blacks-158m-payment-to-jeffrey-epstein-sparks-senate-investigation)
  - date_published: 2023-07-25T18:50:37+00:00
  - tags: ['elite', 'billionaires', 'leon black', 'jeffrey epstein']
+ - date_dead_since: 2025-02-02T14:45:29.944224+00:00
 
  ## Unpacking Google’s new “dangerous” Web-Environment-Integrity specification
  - [https://vivaldi.com/blog/googles-new-dangerous-web-environment-integrity-spec](https://vivaldi.com/blog/googles-new-dangerous-web-environment-integrity-spec)
@@ -6461,7 +6462,6 @@
  - [https://www.reuters.com/world/europe/one-dead-several-wounded-after-fire-cargo-ship-dutch-coast-guard-2023-07-26](https://www.reuters.com/world/europe/one-dead-several-wounded-after-fire-cargo-ship-dutch-coast-guard-2023-07-26)
  - date_published: 2023-07-26T12:37:53+00:00
  - tags: ['electric vehicles']
- - date_dead_since: 2024-09-24T18:12:52.931368+00:00
 
  ## Why it’s impossible to compete with Google Search
  - [https://www.theverge.com/23802382/search-engine-google-neeva-android](https://www.theverge.com/23802382/search-engine-google-neeva-android)
@@ -6532,7 +6532,6 @@
  - [https://www.reuters.com/world/europe/carrier-ablaze-off-dutch-coast-carrying-almost-500-electric-cars-2023-07-28](https://www.reuters.com/world/europe/carrier-ablaze-off-dutch-coast-carrying-almost-500-electric-cars-2023-07-28)
  - date_published: 2023-07-28T13:28:25+00:00
  - tags: ['climate change', 'electric vehicles']
- - date_dead_since: 2024-09-24T17:52:55.385168+00:00
 
  ## Flash Museum – explore more than 130k flash games and animations
  - [https://flashmuseum.org](https://flashmuseum.org)
@@ -6980,7 +6979,6 @@
  - [https://www.reuters.com/world/asia-pacific/troops-deployed-guard-pakistani-christians-after-mob-torches-churches-2023-08-17](https://www.reuters.com/world/asia-pacific/troops-deployed-guard-pakistani-christians-after-mob-torches-churches-2023-08-17)
  - date_published: 2023-08-17T05:31:04+00:00
  - tags: ['pakistan', 'christianophobia']
- - date_dead_since: 2024-09-24T16:27:50.182458+00:00
 
  ## Petition to stop France from forcing browsers like Firefox to censor websites
  - [https://foundation.mozilla.org/en/campaigns/sign-our-petition-to-stop-france-from-forcing-browsers-like-mozillas-firefox-to-censor-websites](https://foundation.mozilla.org/en/campaigns/sign-our-petition-to-stop-france-from-forcing-browsers-like-mozillas-firefox-to-censor-websites)
@@ -7268,7 +7266,6 @@
  - [https://www.reuters.com/business/healthcare-pharmaceuticals/biontech-faces-first-german-lawsuit-over-alleged-covid-vaccine-side-effects-2023-06-11](https://www.reuters.com/business/healthcare-pharmaceuticals/biontech-faces-first-german-lawsuit-over-alleged-covid-vaccine-side-effects-2023-06-11)
  - date_published: 2023-08-31T07:23:13+00:00
  - tags: ['vaccine', 'covid']
- - date_dead_since: 2024-09-24T15:37:49.063567+00:00
 
  ## It's not just you – no one is posting on social media anymore
  - [https://www.businessinsider.com/social-media-dead-instagram-tiktok-bereal-replaced-group-chats-messaging-2023-8](https://www.businessinsider.com/social-media-dead-instagram-tiktok-bereal-replaced-group-chats-messaging-2023-8)
@@ -7455,7 +7452,6 @@
  - [https://www.reuters.com/business/autos-transportation/tesla-hit-with-class-action-lawsuit-over-alleged-privacy-intrusion-2023-04-08](https://www.reuters.com/business/autos-transportation/tesla-hit-with-class-action-lawsuit-over-alleged-privacy-intrusion-2023-04-08)
  - date_published: 2023-09-06T18:58:35+00:00
  - tags: ['tesla', 'technofeudalism', 'electric vehicles', 'privacy', 'ad business', 'surveillance']
- - date_dead_since: 2024-09-24T15:02:46.602669+00:00
 
  ## Ekonomiści zaniepokojeni tempem zadłużania się kraju. "Sytuacja jest dramatyczna"
  - [https://www.bankier.pl/wiadomosc/Ekonomisci-zaniepokojeni-tempem-zadluzania-sie-kraju-Sytuacja-jest-dramatyczna-8606849.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Ekonomisci-zaniepokojeni-tempem-zadluzania-sie-kraju-Sytuacja-jest-dramatyczna-8606849.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -7657,7 +7653,6 @@
  - [https://www.reuters.com/world/europe/berlins-brandenburg-gate-spray-painted-by-climate-activists-2023-09-17](https://www.reuters.com/world/europe/berlins-brandenburg-gate-spray-painted-by-climate-activists-2023-09-17)
  - date_published: 2023-09-17T13:06:15+00:00
  - tags: ['climate change', 'activism']
- - date_dead_since: 2024-09-24T14:37:45.907597+00:00
 
  ## In Colmar, fish found dead after an action of Extinction Rebellion
  - [https://newsrnd.com/news/2023-09-18-in-colmar--fish-found-dead-after-an-action-of-extinction-rebellion.B1N289oBk6.html](https://newsrnd.com/news/2023-09-18-in-colmar--fish-found-dead-after-an-action-of-extinction-rebellion.B1N289oBk6.html)
@@ -8251,7 +8246,6 @@
  - [https://www.reuters.com/world/us/florida-sued-over-ban-pro-palestinian-student-groups-2023-11-16](https://www.reuters.com/world/us/florida-sued-over-ban-pro-palestinian-student-groups-2023-11-16)
  - date_published: 2023-11-16T20:59:54.309490+00:00
  - tags: ['inequality', 'palestine', 'israel']
- - date_dead_since: 2024-09-24T13:07:44.712578+00:00
 
  ## The Ben Gurion Canal: Israel’s Potential Revolutionary Alternative To Suez – Analysis
  - [https://www.eurasiareview.com/17112023-the-ben-gurion-canal-israels-potential-revolutionary-alternative-to-suez-analysis](https://www.eurasiareview.com/17112023-the-ben-gurion-canal-israels-potential-revolutionary-alternative-to-suez-analysis)
@@ -8392,6 +8386,7 @@
  - [https://www.nytimes.com/2023/11/30/world/middleeast/israel-hamas-attack-intelligence.html](https://www.nytimes.com/2023/11/30/world/middleeast/israel-hamas-attack-intelligence.html)
  - date_published: 2023-12-01T00:24:33+00:00
  - tags: ['hamas', 'israel', 'palestine']
+ - date_dead_since: 2025-02-02T02:35:45.150922+00:00
 
  ## Windsor police officer who donated to Ottawa convoy will learn his penalty in May | CBC News
  - [https://www.cbc.ca/news/canada/windsor/windsor-police-convoy-donation-1.6792348](https://www.cbc.ca/news/canada/windsor/windsor-police-convoy-donation-1.6792348)
