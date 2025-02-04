@@ -52,3 +52,17 @@
  - date_published: 2025-02-01T08:49:18+00:00
  - tags: ['immigration']
 
+ ## Man arrested after live video of Quran being burned in Manchester
+ - [https://www.manchestereveningnews.co.uk/news/greater-manchester-news/man-arrested-after-live-video-30915996](https://www.manchestereveningnews.co.uk/news/greater-manchester-news/man-arrested-after-live-video-30915996)
+ - date_published: 2025-02-01T18:10:48+00:00
+ - tags: ['immigration', 'racism']
+
+ ## the ultimate guide to an open source life, i spent 2 months on this, i hope you enjoy it!!!
+ - [https://www.youtube.com/watch?v=Gj6HqWCdk3s](https://www.youtube.com/watch?v=Gj6HqWCdk3s)
+ - date_published: 2025-02-03T05:11:46+00:00
+ - tags: ['self-host']
+
+ ## Self host
+ - [https://wiki.futo.org](https://wiki.futo.org)
+ - date_published: 2025-02-03T22:58:20+00:00
+

@@ -2193,7 +2193,6 @@
  - [https://www.reuters.com/technology/european-parliament-ban-tiktok-staff-phones-eu-official-says-2023-02-28](https://www.reuters.com/technology/european-parliament-ban-tiktok-staff-phones-eu-official-says-2023-02-28)
  - date_published: 2023-02-28T21:45:14+00:00
  - tags: ['tiktok', 'europe']
- - date_dead_since: 2024-09-25T05:46:43.348134+00:00
 
  ## The Media's Reaction to Woody Harrelson's SNL Monologue
  - [https://www.youtube.com/watch?v=fJRGDW4lbss](https://www.youtube.com/watch?v=fJRGDW4lbss)
@@ -2719,6 +2718,7 @@
  - [https://www.youtube.com/watch?v=brAwZ5l_fuQ](https://www.youtube.com/watch?v=brAwZ5l_fuQ)
  - date_published: 2023-03-16T15:53:30+00:00
  - tags: ['artificial intelligence', 'programming']
+ - date_dead_since: 2025-02-03T16:17:03.995448+00:00
 
  ## Brazil had a secret program to track people’s location via cell phone
  - [https://reclaimthenet.org/brazil-had-a-secret-program-to-track-peoples-location-via-cell-phone](https://reclaimthenet.org/brazil-had-a-secret-program-to-track-peoples-location-via-cell-phone)
@@ -3233,6 +3233,7 @@
  - [https://www.nytimes.com/2023/04/04/business/media/johnson-johnson-talc-settlement.html](https://www.nytimes.com/2023/04/04/business/media/johnson-johnson-talc-settlement.html)
  - date_published: 2023-04-05T13:32:46+00:00
  - tags: ['johnson and johnson', 'medical scandal', 'big pharma']
+ - date_dead_since: 2025-02-03T09:29:03.301784+00:00
 
  ## Hackers can crack smart garage doors due to this embarrassing security flaw
  - [https://www.techradar.com/news/hackers-can-crack-smart-garage-doors-due-to-this-embarrassing-security-flaw](https://www.techradar.com/news/hackers-can-crack-smart-garage-doors-due-to-this-embarrassing-security-flaw)
@@ -3885,6 +3886,7 @@
  - [https://www.wsj.com/articles/jeffrey-epstein-calendar-cia-director-goldman-sachs-noam-chomsky-c9f6a3ff](https://www.wsj.com/articles/jeffrey-epstein-calendar-cia-director-goldman-sachs-noam-chomsky-c9f6a3ff)
  - date_published: 2023-04-30T11:59:00+00:00
  - tags: ['cia', 'jeffrey epstein']
+ - date_dead_since: 2025-02-03T06:56:03.905269+00:00
 
  ## Example of why you should not use FaceID to unlock your phone
  - [https://mastodon.social/@runasand/110286780839680620](https://mastodon.social/@runasand/110286780839680620)
@@ -4001,13 +4003,11 @@
  - [https://www.reuters.com/technology/google-microsoft-openai-ceos-attend-white-house-ai-meeting-official-2023-05-02](https://www.reuters.com/technology/google-microsoft-openai-ceos-attend-white-house-ai-meeting-official-2023-05-02)
  - date_published: 2023-05-03T14:18:46+00:00
  - tags: ['artificial intelligence']
- - date_dead_since: 2024-09-25T01:06:33.399557+00:00
 
  ## Brazil pushes back on big tech firms' campaign against 'fake news law' | Reuters
  - [https://www.reuters.com/world/americas/brazil-lawmakers-vote-controversial-bill-clean-up-social-media-2023-05-02](https://www.reuters.com/world/americas/brazil-lawmakers-vote-controversial-bill-clean-up-social-media-2023-05-02)
  - date_published: 2023-05-03T16:16:49+00:00
  - tags: ['bill 2630', 'misinformation', 'censorship', 'government control', 'moderation', 'brasil']
- - date_dead_since: 2024-09-25T01:02:34.698222+00:00
 
  ## Facebook furious at FTC after agency proposes ban on monetizing youth data
  - [https://arstechnica.com/?p=1936426](https://arstechnica.com/?p=1936426)
@@ -4054,7 +4054,6 @@
  - [https://www.reuters.com/business/finance/fed-up-with-shrinking-savings-europeans-drain-billions-banks-2023-05-04](https://www.reuters.com/business/finance/fed-up-with-shrinking-savings-europeans-drain-billions-banks-2023-05-04)
  - date_published: 2023-05-04T14:06:57+00:00
  - tags: ['inflation', 'crisis']
- - date_dead_since: 2024-09-25T00:57:34.814850+00:00
 
  ## Pascal's wager - Wikipedia
  - [https://en.wikipedia.org/wiki/Pascal%27s_wager](https://en.wikipedia.org/wiki/Pascal%27s_wager)
