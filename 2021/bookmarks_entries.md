@@ -1368,6 +1368,11 @@
  - date_published: 2021-07-13T11:36:27+00:00
  - tags: ['big tech', 'technofeudalism', 'google']
 
+ ## Fact Check: COVID-19 is not a ‘flu variety’ predicted by the Rockefeller Foundation’s ‘lock step’ scenario
+ - [https://www.reuters.com/article/fact-check/covid-19-is-not-a-flu-variety-predicted-by-the-rockefeller-foundations-lock-idUSL1N2OP1JJ](https://www.reuters.com/article/fact-check/covid-19-is-not-a-flu-variety-predicted-by-the-rockefeller-foundations-lock-idUSL1N2OP1JJ)
+ - date_published: 2021-07-13T17:51:29+00:00
+ - tags: ['covid', 'lock step', 'rockefeller']
+
  ## Critics slam Biden administration's reported plan to monitor vaccine misinformation in text messages | Fox News
  - [https://www.foxnews.com/media/biden-slammed-plans-monitor-text-messages-vaccine-misinformation](https://www.foxnews.com/media/biden-slammed-plans-monitor-text-messages-vaccine-misinformation)
  - date_published: 2021-07-13T19:46:36+00:00

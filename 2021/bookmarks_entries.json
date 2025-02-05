@@ -7927,6 +7927,35 @@
         "vote": 0
     },
     {
+        "age": 0,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2021-07-13T17:51:29+00:00",
+        "description": "",
+        "id": 2039928,
+        "language": "en",
+        "link": "https://www.reuters.com/article/fact-check/covid-19-is-not-a-flu-variety-predicted-by-the-rockefeller-foundations-lock-idUSL1N2OP1JJ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "covid",
+            "lock step",
+            "rockefeller"
+        ],
+        "thumbnail": "https://www.reuters.com/resizer/v2/JUPGQHR5KNB7VG2BPAVVMJE5K4.jpg?auth=0bd5367d98dca0ccac19e50df7b000e20d2d8e289e0be357d974ffc070e9d3a3&height=1005&width=1920&quality=80&smart=true",
+        "title": "Fact Check: COVID-19 is not a \u2018flu variety\u2019 predicted by the Rockefeller Foundation\u2019s \u2018lock step\u2019 scenario",
+        "vote": 0
+    },
+    {
         "age": null,
         "album": null,
         "author": null,

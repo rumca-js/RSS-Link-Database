@@ -7644,7 +7644,6 @@
  - [https://www.reuters.com/technology/musk-orders-twitter-cut-infrastructure-costs-by-1-bln-sources-2022-11-03](https://www.reuters.com/technology/musk-orders-twitter-cut-infrastructure-costs-by-1-bln-sources-2022-11-03)
  - date_published: 2022-11-05T02:32:06+00:00
  - tags: ['elon musk', 'twitter']
- - date_dead_since: 2024-09-25T13:15:11.741501+00:00
 
  ## Bill Maher claims Republicans are ‘definitely going to win’ midterms thanks to 'woke culture'
  - [https://www.foxnews.com/media/bill-maher-claims-republicans-definitely-going-win-midterms-thanks-woke-culture](https://www.foxnews.com/media/bill-maher-claims-republicans-definitely-going-win-midterms-thanks-woke-culture)
@@ -8269,6 +8268,7 @@
  - [https://www.youtube.com/watch?v=P20tDdxy_yc](https://www.youtube.com/watch?v=P20tDdxy_yc)
  - date_published: 2022-11-24T15:00:55+00:00
  - tags: ['cdbc']
+ - date_dead_since: 2025-02-04T20:54:28.931201+00:00
 
  ## Right to abortion in France: The necessary steps before it gets enshrined in the constitution
  - [https://www.lemonde.fr/en/politics/article/2022/11/24/right-to-abortion-in-france-the-necessary-steps-before-it-gets-enshrined-in-the-constitution_6005536_5.html](https://www.lemonde.fr/en/politics/article/2022/11/24/right-to-abortion-in-france-the-necessary-steps-before-it-gets-enshrined-in-the-constitution_6005536_5.html)
@@ -8889,6 +8889,7 @@
  - [https://www.youtube.com/watch?v=px4LkyuMs0I](https://www.youtube.com/watch?v=px4LkyuMs0I)
  - date_published: 2022-12-08T14:30:52+00:00
  - tags: ['economy', 'politics', 'inflation']
+ - date_dead_since: 2025-02-04T17:38:24.419357+00:00
 
  ## Emails show Wuhan lab collaborator played central role in public messaging about COVID-19 origins
  - [https://usrtk.org/covid-19-origins/emails-show-wuhan-lab-collaborator-played-central-role-in-public-messaging-about-covid-19-origins](https://usrtk.org/covid-19-origins/emails-show-wuhan-lab-collaborator-played-central-role-in-public-messaging-about-covid-19-origins)
@@ -9112,7 +9113,6 @@
  - [https://www.reuters.com/business/wider-diversity-push-norway-proposes-40-gender-quota-large-unlisted-firms-2022-12-12](https://www.reuters.com/business/wider-diversity-push-norway-proposes-40-gender-quota-large-unlisted-firms-2022-12-12)
  - date_published: 2022-12-12T21:04:56+00:00
  - tags: ['sexism', 'feminism', 'norway']
- - date_dead_since: 2024-09-25T10:59:21.268188+00:00
 
  ## This Privacy Setting Helps Keep Facebook From Tracking You     - CNET
  - [https://www.cnet.com/news/privacy/this-privacy-setting-helps-keep-facebook-from-tracking-you/#ftag=CADf328eec](https://www.cnet.com/news/privacy/this-privacy-setting-helps-keep-facebook-from-tracking-you/#ftag=CADf328eec)
@@ -9507,7 +9507,6 @@
  - [https://www.reuters.com/business/sustainable-business/blackrock-plans-no-big-changes-esg-stance-despite-backlash-2022-12-19](https://www.reuters.com/business/sustainable-business/blackrock-plans-no-big-changes-esg-stance-despite-backlash-2022-12-19)
  - date_published: 2022-12-19T15:43:17+00:00
  - tags: ['blackrock', 'esg']
- - date_dead_since: 2024-09-25T10:31:59.563439+00:00
 
  ## Google przebudowało swoje domeny, by szpiegować nas lepiej
  - [https://bulldogjob.pl/readme/google-przebudowalo-strukture-swoich-domen-by-szpiegowac-nas-lepiej](https://bulldogjob.pl/readme/google-przebudowalo-strukture-swoich-domen-by-szpiegowac-nas-lepiej)

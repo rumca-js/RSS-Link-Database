@@ -627,7 +627,6 @@
  - [https://www.reuters.com/business/healthcare-pharmaceuticals/us-says-pfizers-bivalent-covid-shot-may-be-linked-stroke-older-adults-2023-01-13](https://www.reuters.com/business/healthcare-pharmaceuticals/us-says-pfizers-bivalent-covid-shot-may-be-linked-stroke-older-adults-2023-01-13)
  - date_published: 2023-01-13T09:13:42+00:00
  - tags: ['big pharma', 'covid', 'vaccine', 'pfizer']
- - date_dead_since: 2024-09-25T08:16:47.682320+00:00
 
  ## Client hints or client lies? | Vivaldi Browser
  - [https://vivaldi.com/blog/technology/client-hints-or-client-lies](https://vivaldi.com/blog/technology/client-hints-or-client-lies)
@@ -699,7 +698,6 @@
  - [https://www.reuters.com/world/india/india-lets-banks-use-face-recognition-iris-scan-some-transactions-sources-2023-01-13](https://www.reuters.com/world/india/india-lets-banks-use-face-recognition-iris-scan-some-transactions-sources-2023-01-13)
  - date_published: 2023-01-13T17:01:29+00:00
  - tags: ['corporatocracy', 'india', 'big brother', 'facial recognition', 'biometric', 'government control', 'surveillance']
- - date_dead_since: 2024-09-25T08:11:47.556196+00:00
 
  ## One in ten WEF attendees used private jet
  - [https://www.tagesanzeiger.ch/wef-2023-klimaschutz-privatjet-greenpeace-heuchelei-davos-259413788377](https://www.tagesanzeiger.ch/wef-2023-klimaschutz-privatjet-greenpeace-heuchelei-davos-259413788377)
@@ -756,6 +754,7 @@
  - [https://stablediffusionlitigation.com](https://stablediffusionlitigation.com)
  - date_published: 2023-01-14T06:51:41+00:00
  - tags: ['law', 'artificial intelligence']
+ - date_dead_since: 2025-02-04T09:10:55.254955+00:00
 
  ## Routine vaccinations drop among U.S. kindergartners for the third year in a row
  - [https://www.statnews.com/2023/01/12/routine-vaccinations-kindergartners](https://www.statnews.com/2023/01/12/routine-vaccinations-kindergartners)
