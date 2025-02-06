@@ -3207,6 +3207,7 @@
  - [https://ottawa.ctvnews.ca/ottawa-s-covid-19-death-toll-in-2022-surpasses-2021-total-1.6002795](https://ottawa.ctvnews.ca/ottawa-s-covid-19-death-toll-in-2022-surpasses-2021-total-1.6002795)
  - date_published: 2022-07-26T14:35:00+00:00
  - tags: ['lockdown', 'canada', 'covid', 'science is dead']
+ - date_dead_since: 2025-02-05T19:30:04.234522+00:00
 
  ## UK under international pressure over deletion of abortion commitments | Global development | The Guardian
  - [https://www.theguardian.com/global-development/2022/jul/22/european-countries-pressurise-uk-over-removal-of-abortion-commitments-liz-truss](https://www.theguardian.com/global-development/2022/jul/22/european-countries-pressurise-uk-over-removal-of-abortion-commitments-liz-truss)
@@ -3903,6 +3904,7 @@
  - [https://www.youtube.com/watch?v=WaLGsZseL3w](https://www.youtube.com/watch?v=WaLGsZseL3w)
  - date_published: 2022-09-01T15:02:17+00:00
  - tags: ['climate change', 'net zero', 'corporatocracy']
+ - date_dead_since: 2025-02-05T14:12:20.269143+00:00
 
  ## The Twitter Whistleblower Story Is Worse Than You Think
  - [https://www.kolide.com/blog/the-twitter-whistleblower-story-is-worse-than-you-think](https://www.kolide.com/blog/the-twitter-whistleblower-story-is-worse-than-you-think)
@@ -4774,7 +4776,6 @@
  ## “The Suck” (Learning Anything by Writing It Out by Hand)
  - [https://scottscheper.com/letter/40](https://scottscheper.com/letter/40)
  - date_published: 2022-09-17T00:05:21+00:00
- - date_dead_since: 2024-09-25T17:53:56.928954+00:00
 
  ## Twitter does 'whatever the heck' it wants with users' data: Josh Hawley
  - [https://www.foxnews.com/media/twitter-whatever-heck-wants-users-data-josh-hawley](https://www.foxnews.com/media/twitter-whatever-heck-wants-users-data-josh-hawley)
@@ -4805,7 +4806,6 @@
  ## U.S. appeals court rejects big tech's right to regulate online speech
  - [https://www.reuters.com/legal/us-appeals-court-rules-against-big-techs-ability-regulate-online-speech-2022-09-16](https://www.reuters.com/legal/us-appeals-court-rules-against-big-techs-ability-regulate-online-speech-2022-09-16)
  - date_published: 2022-09-17T12:28:42+00:00
- - date_dead_since: 2024-09-25T17:43:17.245135+00:00
 
  ## USA: Wiceszef CIA: przywódca ChRL chce, by wojsko było w stanie zająć...
  - [https://www.wykop.pl/link/6820919/usa-wiceszef-cia-przywodca-chrl-chce-by-wojsko-bylo-w-stanie-zajac](https://www.wykop.pl/link/6820919/usa-wiceszef-cia-przywodca-chrl-chce-by-wojsko-bylo-w-stanie-zajac)
@@ -6371,7 +6371,6 @@
  - [https://www.reuters.com/business/retail-consumer/amazon-faces-1-bln-lawsuit-uk-favouring-its-own-products-2022-10-20](https://www.reuters.com/business/retail-consumer/amazon-faces-1-bln-lawsuit-uk-favouring-its-own-products-2022-10-20)
  - date_published: 2022-10-20T12:17:09+00:00
  - tags: ['amazon', 'monopoly', 'big tech']
- - date_dead_since: 2024-09-25T15:44:04.283344+00:00
 
  ## Telegram ukarany w Niemczech za odmowę wprowadzenia cenzury
  - [https://ithardware.pl/aktualnosci/telegram_ukarany_w_niemczech_za_odmowe_wprowadzenia_cenzury-23948.html](https://ithardware.pl/aktualnosci/telegram_ukarany_w_niemczech_za_odmowe_wprowadzenia_cenzury-23948.html)
@@ -6868,7 +6867,6 @@
  - [https://www.reuters.com/article/us-amazon-com-jobs-automation-insight-idUSKCN1MK08G](https://www.reuters.com/article/us-amazon-com-jobs-automation-insight-idUSKCN1MK08G)
  - date_published: 2022-10-26T12:22:22+00:00
  - tags: ['amazon', 'inequality', 'artificial intelligence', 'sexism', 'science']
- - date_dead_since: 2024-09-25T14:42:27.943442+00:00
 
  ## Ważna deklaracja KEP. Kościół otwiera się na kobiety
  - [https://wydarzenia.interia.pl/kraj/news-wazna-deklaracja-kep-kosciol-otwiera-sie-na-kobiety,nId,6371958](https://wydarzenia.interia.pl/kraj/news-wazna-deklaracja-kep-kosciol-otwiera-sie-na-kobiety,nId,6371958)
@@ -6915,6 +6913,7 @@
  - [https://www.caranddriver.com/research/a31875141/electric-car-battery-life](https://www.caranddriver.com/research/a31875141/electric-car-battery-life)
  - date_published: 2022-10-26T16:53:37+00:00
  - tags: ['electric vehicles']
+ - date_dead_since: 2025-02-05T04:34:38.247283+00:00
 
  ## Tell HN: Meta is using my 2FA to call and sell me
  - [https://news.ycombinator.com/item?id=33346568](https://news.ycombinator.com/item?id=33346568)
@@ -7308,7 +7307,6 @@
  - [https://www.reuters.com/business/cop/egypts-farmers-fear-rising-social-tensions-over-scarce-water-2022-10-31](https://www.reuters.com/business/cop/egypts-farmers-fear-rising-social-tensions-over-scarce-water-2022-10-31)
  - date_published: 2022-10-31T14:21:43+00:00
  - tags: ['egypt', 'climate change', 'crisis']
- - date_dead_since: 2024-09-25T13:45:48.676438+00:00
 
  ## Twitter Blows Up At Professor After Demanding ‘Pandemic Amnesty’ in Atlantic Op-Ed
  - [https://www.dailywire.com/news/twitter-blows-up-at-professor-after-demanding-pandemic-amnesty-in-atlantic-op-ed](https://www.dailywire.com/news/twitter-blows-up-at-professor-after-demanding-pandemic-amnesty-in-atlantic-op-ed)
