@@ -1067,7 +1067,6 @@
  ## Ukraine war flashes neon warning lights for chips | Reuters
  - [https://www.reuters.com/breakingviews/ukraine-war-flashes-neon-warning-lights-chips-2022-02-24](https://www.reuters.com/breakingviews/ukraine-war-flashes-neon-warning-lights-chips-2022-02-24)
  - date_published: 2022-02-25T07:51:19.738463+00:00
- - date_dead_since: 2024-09-26T02:16:43.926909+00:00
 
  ## What Went Wrong With the World Wide Web?
  - [https://www.youtube.com/watch?v=eu8O2Suxo9A](https://www.youtube.com/watch?v=eu8O2Suxo9A)
@@ -1246,7 +1245,6 @@
  - [https://www.reuters.com/world/europe/exclusive-facebook-instagram-temporarily-allow-calls-violence-against-russians-2022-03-10](https://www.reuters.com/world/europe/exclusive-facebook-instagram-temporarily-allow-calls-violence-against-russians-2022-03-10)
  - date_published: 2022-03-11T12:47:54+00:00
  - tags: ['moderation', 'hate speech', 'censorship', 'meta', 'facebook', 'inequality']
- - date_dead_since: 2024-09-26T01:47:41.226191+00:00
 
  ## Azure moves ahead of AWS in cloud adoption – report • The Register
  - [https://www.theregister.com/2022/03/09/state_of_cloud_survey](https://www.theregister.com/2022/03/09/state_of_cloud_survey)
@@ -1449,6 +1447,7 @@
  ## Mercedes Drive Pilot Beats Tesla Autopilot By Taking Legal Responsibility
  - [https://www.roadandtrack.com/news/a39481699/what-happens-if-mercedes-drivepilot-causes-a-crash](https://www.roadandtrack.com/news/a39481699/what-happens-if-mercedes-drivepilot-causes-a-crash)
  - date_published: 2022-03-23T06:58:38.346276+00:00
+ - date_dead_since: 2025-02-06T14:43:19.417372+00:00
 
  ## Lia Thomas: Florida governor Ron DeSantis refuses to recognise Thomas win - BBC Sport
  - [https://www.bbc.co.uk/sport/swimming/60842863](https://www.bbc.co.uk/sport/swimming/60842863)
@@ -1499,7 +1498,6 @@
  - [https://www.reuters.com/technology/blackrocks-fink-says-russia-ukraine-crisis-could-accelerate-digital-currencies-2022-03-24](https://www.reuters.com/technology/blackrocks-fink-says-russia-ukraine-crisis-could-accelerate-digital-currencies-2022-03-24)
  - date_published: 2022-03-25T21:11:37+00:00
  - tags: ['cbdc', 'crisis', 'ukraine', 'war', 'blackrock']
- - date_dead_since: 2024-09-26T00:37:41.348049+00:00
 
  ## Interview with a Postdoc, Junior Python Developer
  - [https://www.youtube.com/watch?v=YnL9vAFphmE](https://www.youtube.com/watch?v=YnL9vAFphmE)
@@ -2361,6 +2359,7 @@
  ## Grubhub's NYC Free Lunch Promo Didn't Go Smoothly
  - [https://www.buzzfeednews.com/article/kelseyweekman/grubhub-free-lunch-nyc-promo-chaos](https://www.buzzfeednews.com/article/kelseyweekman/grubhub-free-lunch-nyc-promo-chaos)
  - date_published: 2022-05-23T15:42:16.541259+00:00
+ - date_dead_since: 2025-02-06T06:03:03.145284+00:00
 
  ## My Stance on Toxicity About Programming Languages - Xe
  - [https://xeiaso.net/blog/against-toxicity-programming-languages](https://xeiaso.net/blog/against-toxicity-programming-languages)

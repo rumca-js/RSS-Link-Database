@@ -62,7 +62,12 @@
  - date_published: 2025-02-03T05:11:46+00:00
  - tags: ['self-host']
 
- ## Self host
+ ## FUTO
  - [https://wiki.futo.org](https://wiki.futo.org)
- - date_published: 2025-02-03T22:58:20+00:00
+ - date_published: 2025-02-06T08:23:52+00:00
+
+ ## 'Meta Torrented over 81 TB of Data Through Anna's Archive, Despite Few Seeders' * TorrentFreak
+ - [https://torrentfreak.com/meta-torrented-over-81-tb-of-data-through-annas-archive-despite-few-seeders-250206](https://torrentfreak.com/meta-torrented-over-81-tb-of-data-through-annas-archive-despite-few-seeders-250206)
+ - date_published: 2025-02-06T21:09:38+00:00
+ - tags: ['piracy']
 
