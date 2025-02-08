@@ -6656,14 +6656,14 @@
         "permanent": false,
         "source__id": 216,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmFeOdJI3IXgTBDzqBLD8qg",
-        "status_code": 0,
+        "status_code": 200,
         "tags": [
             "hollywood",
             "elite",
             "jeffrey epstein",
             "billionaires"
         ],
-        "thumbnail": "https://i3.ytimg.com/vi/BkEoG2YkU_0/hqdefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi_webp/BkEoG2YkU_0/maxresdefault.webp",
         "title": "The P Diddy Situation Is Everything Wrong With Hollywood",
         "vote": 0
     },

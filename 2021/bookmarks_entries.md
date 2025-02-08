@@ -2834,7 +2834,6 @@
  - [https://www.reuters.com/world/americas/unvaccinated-federal-workers-canada-will-be-put-unpaid-leave-globe-mail-2021-10-06](https://www.reuters.com/world/americas/unvaccinated-federal-workers-canada-will-be-put-unpaid-leave-globe-mail-2021-10-06)
  - date_published: 2021-10-06T14:23:48+00:00
  - tags: ['covid mandates', 'covid']
- - date_dead_since: 2024-09-26T10:19:58.744907+00:00
 
  ## 'X' gender markers in passports would be 'extremely difficult', government argues in UK's top court
  - [https://www.pinknews.co.uk/2021/07/13/x-passports-supreme-court-day-2](https://www.pinknews.co.uk/2021/07/13/x-passports-supreme-court-day-2)
@@ -2859,7 +2858,6 @@
  - [https://www.reuters.com/world/europe/finland-pauses-use-moderna-covid-19-vaccine-young-men-2021-10-07](https://www.reuters.com/world/europe/finland-pauses-use-moderna-covid-19-vaccine-young-men-2021-10-07)
  - date_published: 2021-10-07T16:31:39+00:00
  - tags: ['moderna', 'big pharma', 'covid', 'vaccine']
- - date_dead_since: 2024-09-26T10:14:58.988681+00:00
 
  ## Australia. Rząd chce zakazać anonimowych komentarzy. Media społecznościowe to "pałac tchórzy"
  - [https://www.polsatnews.pl/wiadomosc/2021-10-07/australia-rzad-chce-zakazac-anonimowych-komentarzy-media-spolecznosciowe-to-palac-tchorzy](https://www.polsatnews.pl/wiadomosc/2021-10-07/australia-rzad-chce-zakazac-anonimowych-komentarzy-media-spolecznosciowe-to-palac-tchorzy)
@@ -3135,7 +3133,6 @@
  - [https://www.reuters.com/world/us/republicans-assail-us-effort-protect-school-boards-violent-threats-snitch-line-2021-10-21](https://www.reuters.com/world/us/republicans-assail-us-effort-protect-school-boards-violent-threats-snitch-line-2021-10-21)
  - date_published: 2021-10-21T20:11:58+00:00
  - tags: ['racism', 'socialism']
- - date_dead_since: 2024-09-26T09:30:22.830729+00:00
 
  ## Parson doubles down on push to prosecute reporter who found security flaw in state site • Missouri Independent
  - [https://missouriindependent.com/2021/10/21/parson-doubles-down-on-push-to-prosecute-reporter-who-found-security-flaw-in-state-site](https://missouriindependent.com/2021/10/21/parson-doubles-down-on-push-to-prosecute-reporter-who-found-security-flaw-in-state-site)
@@ -3176,7 +3173,6 @@
  - [https://www.reuters.com/business/aerospace-defense/israel-designates-six-palestinian-civil-society-groups-terrorists-2021-10-22](https://www.reuters.com/business/aerospace-defense/israel-designates-six-palestinian-civil-society-groups-terrorists-2021-10-22)
  - date_published: 2021-10-22T21:10:10+00:00
  - tags: ['israel']
- - date_dead_since: 2024-09-26T09:21:02.303639+00:00
 
  ## Alec Baldwin 'heartbroken' over fatal film set shooting - BBC News
  - [https://www.bbc.co.uk/news/world-us-canada-59015889](https://www.bbc.co.uk/news/world-us-canada-59015889)
@@ -3189,7 +3185,6 @@
  ## EXCLUSIVE Dutch forensic lab says it has decoded Tesla's driving data | Reuters
  - [https://www.reuters.com/business/autos-transportation/dutch-forensic-lab-says-it-has-decoded-teslas-driving-data-2021-10-21](https://www.reuters.com/business/autos-transportation/dutch-forensic-lab-says-it-has-decoded-teslas-driving-data-2021-10-21)
  - date_published: 2021-10-23T10:53:15.722543+00:00
- - date_dead_since: 2024-09-26T09:01:58.260427+00:00
 
  ## Leaving Google — jayconrod.com
  - [https://jayconrod.com/posts/122/leaving-google](https://jayconrod.com/posts/122/leaving-google)
@@ -3241,7 +3236,6 @@
  - [https://www.reuters.com/world/allegation-cia-murder-plot-is-game-changer-assange-extradition-hearing-fiancee-2021-10-25](https://www.reuters.com/world/allegation-cia-murder-plot-is-game-changer-assange-extradition-hearing-fiancee-2021-10-25)
  - date_published: 2021-10-25T19:49:35+00:00
  - tags: ['wikileaks', 'julian assange']
- - date_dead_since: 2024-09-26T08:47:57.024344+00:00
 
  ## Why are the Tories still leading in the polls? - New Statesman
  - [https://www.newstatesman.com/politics/polling/2021/10/why-are-the-tories-still-leading-in-the-polls](https://www.newstatesman.com/politics/polling/2021/10/why-are-the-tories-still-leading-in-the-polls)
@@ -3268,6 +3262,7 @@
  - [https://www.youtube.com/watch?v=VpTW2AJE9MQ](https://www.youtube.com/watch?v=VpTW2AJE9MQ)
  - date_published: 2021-10-28T00:00:00+00:00
  - tags: ['kyle rittenhouse']
+ - date_dead_since: 2025-02-07T16:21:00.912121+00:00
 
  ## Viewing website HTML code is not illegal or “hacking,” prof. tells Missouri gov. | Ars Technica
  - [https://arstechnica.com/tech-policy/2021/10/viewing-website-html-code-is-not-illegal-or-hacking-prof-tells-missouri-gov](https://arstechnica.com/tech-policy/2021/10/viewing-website-html-code-is-not-illegal-or-hacking-prof-tells-missouri-gov)
@@ -3575,12 +3570,12 @@
  - [https://www.reuters.com/legal/government/biden-nominates-ghislaine-maxwells-judge-memphis-litigator-appeals-courts-2021-11-17](https://www.reuters.com/legal/government/biden-nominates-ghislaine-maxwells-judge-memphis-litigator-appeals-courts-2021-11-17)
  - date_published: 2021-11-17T21:11:58+00:00
  - tags: ['ghislaine maxwell', 'jeffrey epstein']
- - date_dead_since: 2024-09-26T07:36:51.985368+00:00
 
  ## The Forgotten Suicide Bomber
  - [https://www.youtube.com/watch?v=CLRforUVW48](https://www.youtube.com/watch?v=CLRforUVW48)
  - date_published: 2021-11-18T00:00:00+00:00
  - tags: ['england', 'immigration']
+ - date_dead_since: 2025-02-07T12:42:52.448803+00:00
 
  ## Things we learned from Kyle Rittenhouse’s trial that challenge assumptions about the case
  - [https://edition.cnn.com/2021/11/18/us/kyle-rittenhouse-what-we-learned-from-trial/index.html](https://edition.cnn.com/2021/11/18/us/kyle-rittenhouse-what-we-learned-from-trial/index.html)
@@ -3870,7 +3865,6 @@
  - [https://www.reuters.com/business/cop/australia-says-us-facial-recognition-software-firm-clearview-breached-privacy-2021-11-03](https://www.reuters.com/business/cop/australia-says-us-facial-recognition-software-firm-clearview-breached-privacy-2021-11-03)
  - date_published: 2021-12-03T19:20:51+00:00
  - tags: ['biometric', 'australia', 'facial recognition', 'artificial intelligence', 'surveillance', 'privacy', 'clearview ai', 'big brother']
- - date_dead_since: 2024-09-26T06:26:49.988991+00:00
 
  ## Prestigious prize visa: UK Global Talent fast-track scheme for scientists hasn’t received any applications since it launched | New Scientist
  - [https://www.newscientist.com/article/2298455-uk-visa-scheme-for-prize-winning-scientists-receives-no-applications](https://www.newscientist.com/article/2298455-uk-visa-scheme-for-prize-winning-scientists-receives-no-applications)

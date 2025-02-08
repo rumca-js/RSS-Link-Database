@@ -1525,7 +1525,7 @@
             "nudge unit",
             "fearmongering"
         ],
-        "thumbnail": "https://www.telegraph.co.uk/content/dam/politics/2022/01/13/TELEMMGLPICT000231819819_trans_NvBQzQNjv4Bqe2hKCXyrvHu3cQ5BEGG7-dkM9MM8VM3G1BxlGUO4L8Q.jpeg?impolicy=logo-overlay",
+        "thumbnail": "https://www.telegraph.co.uk/content/dam/politics/2022/01/13/TELEMMGLPICT000231819819_trans_NvBQzQNjv4Bqe2hKCXyrvHu3cQ5BEGG7-dkM9MM8VM3G1BxlGUO4L8Q.jpeg?impolicy=OG-Standard",
         "title": "Downing Street\u2019s controversial \u2018Nudge Unit\u2019 accused of exploiting scare tactics during Covid crisis",
         "vote": 90
     },
@@ -1784,8 +1784,8 @@
         "language": "en",
         "link": "https://www.adyen.com/blog/updating-a-50-terabyte-postgresql-database",
         "manual_status_code": 0,
-        "page_rating": 26,
-        "page_rating_contents": 82,
+        "page_rating": 16,
+        "page_rating_contents": 50,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
