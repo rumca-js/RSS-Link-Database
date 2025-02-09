@@ -585,7 +585,6 @@
  - [https://www.reuters.com/article/us-facebook-data-leak/facebook-does-not-plan-to-notify-half-billion-users-affected-by-data-leak-idUSKBN2BU2ZY](https://www.reuters.com/article/us-facebook-data-leak/facebook-does-not-plan-to-notify-half-billion-users-affected-by-data-leak-idUSKBN2BU2ZY)
  - date_published: 2021-04-07T13:04:35+00:00
  - tags: ['facebook', 'data leak', 'meta', 'censorship']
- - date_dead_since: 2024-09-26T21:41:49.931236+00:00
 
  ## When Life Hurts, Stop Clinging to It | The Philosophy of Epictetus
  - [https://www.youtube.com/watch?v=p2KHo95Qknk](https://www.youtube.com/watch?v=p2KHo95Qknk)
@@ -1039,7 +1038,6 @@
  - [https://www.reuters.com/world/europe/us-security-agency-spied-merkel-other-top-european-officials-through-danish-2021-05-30](https://www.reuters.com/world/europe/us-security-agency-spied-merkel-other-top-european-officials-through-danish-2021-05-30)
  - date_published: 2021-05-31T11:51:40+00:00
  - tags: ['espionage', 'surveillance', 'angela merkel']
- - date_dead_since: 2024-09-26T17:32:43.081667+00:00
 
  ## Why are people talking about Dr Anthony Fauci's emails?
  - [https://www.bbc.com/news/world-us-canada-57336280](https://www.bbc.com/news/world-us-canada-57336280)
@@ -1424,7 +1422,6 @@
  - [https://www.reuters.com/technology/exclusive-twitter-sees-jump-govt-demands-remove-content-journalists-news-outlets-2021-07-14](https://www.reuters.com/technology/exclusive-twitter-sees-jump-govt-demands-remove-content-journalists-news-outlets-2021-07-14)
  - date_published: 2021-07-15T06:26:20.268040+00:00
  - tags: ['censorship', 'social media', 'moderation', 'twitter']
- - date_dead_since: 2024-09-26T16:37:00.609170+00:00
 
  ## MPs call for complete reset of music streaming to ensure fair pay for artists - BBC News
  - [https://www.bbc.co.uk/news/entertainment-arts-57838473](https://www.bbc.co.uk/news/entertainment-arts-57838473)
@@ -1471,7 +1468,6 @@
  ## Intel in talks to buy GlobalFoundries for about $30 billion - WSJ | Reuters
  - [https://www.reuters.com/business/intel-talks-buy-globalfoundries-about-30-billion-wsj-2021-07-15](https://www.reuters.com/business/intel-talks-buy-globalfoundries-about-30-billion-wsj-2021-07-15)
  - date_published: 2021-07-16T07:06:48.548540+00:00
- - date_dead_since: 2024-09-26T16:27:00.835354+00:00
 
  ## "A Real S*** Show": Soldiers Angrily Speak Out about Being Blocked from Repairing Equipment by Contractors: - by Matt Stoller - BIG by Matt Stoller
  - [https://mattstoller.substack.com/p/a-real-s-show-soldiers-angrily-speak](https://mattstoller.substack.com/p/a-real-s-show-soldiers-angrily-speak)
@@ -1502,7 +1498,6 @@
  - [https://www.reuters.com/business/healthcare-pharmaceuticals/target-removes-jj-sunscreens-stores-website-2021-07-16](https://www.reuters.com/business/healthcare-pharmaceuticals/target-removes-jj-sunscreens-stores-website-2021-07-16)
  - date_published: 2021-07-16T20:22:42+00:00
  - tags: ['johnson and johnson', 'medical scandal', 'big pharma']
- - date_dead_since: 2024-09-26T16:22:00.557863+00:00
 
  ## Government dictating what social-media bans is tyrannical
  - [https://nypost.com/2021/07/16/government-dictating-what-social-media-bans-is-tyrannical](https://nypost.com/2021/07/16/government-dictating-what-social-media-bans-is-tyrannical)
@@ -1557,6 +1552,7 @@
  ## GM Will Suck Lithium From the Salton Sea to Make Batteries
  - [https://www.autoweek.com/news/green-cars/a37029490/gm-will-suck-lithium-from-the-salton-sea-to-make-batteries](https://www.autoweek.com/news/green-cars/a37029490/gm-will-suck-lithium-from-the-salton-sea-to-make-batteries)
  - date_published: 2021-07-18T07:00:55.792589+00:00
+ - date_dead_since: 2025-02-08T12:51:40.306080+00:00
 
  ## I'm a Frito-Lay Factory Worker. I Work 12-Hour Days, 7 Days a Week
  - [https://www.vice.com/en/article/pkbmwy/im-a-frito-lay-factory-worker-i-work-12-hour-days-7-days-a-week](https://www.vice.com/en/article/pkbmwy/im-a-frito-lay-factory-worker-i-work-12-hour-days-7-days-a-week)
@@ -2577,7 +2573,6 @@
  ## Google, Apple remove Navalny app from stores as Russian elections begin | Reuters
  - [https://www.reuters.com/world/europe/google-apple-remove-navalny-app-stores-russian-elections-begin-2021-09-17](https://www.reuters.com/world/europe/google-apple-remove-navalny-app-stores-russian-elections-begin-2021-09-17)
  - date_published: 2021-09-18T07:24:06.126789+00:00
- - date_dead_since: 2024-09-26T12:39:12.348318+00:00
 
  ## Mailchimp Insiders React to Employees Getting No Equity From Intuit Sale
  - [https://www.businessinsider.com/mailchimp-insiders-react-to-employees-getting-no-equity-2021-9?r=US&IR=T](https://www.businessinsider.com/mailchimp-insiders-react-to-employees-getting-no-equity-2021-9?r=US&IR=T)
@@ -2621,7 +2616,6 @@
  - [https://www.youtube.com/watch?v=LNAwUxZ5nfw](https://www.youtube.com/watch?v=LNAwUxZ5nfw)
  - date_published: 2021-09-22T00:00:00+00:00
  - tags: ['bill gates', 'jeffrey epstein']
- - date_dead_since: 2024-09-26T11:57:42.377757+00:00
 
  ## Krystyna Janda: Zastanawiam się, czy grać spektakle z aktorami niezaszczepionymi - Dziennik.pl
  - [https://kultura.dziennik.pl/teatr/artykuly/8252180,krystyna-janda-szczepienia-spektakl-aktor-covid-19.html](https://kultura.dziennik.pl/teatr/artykuly/8252180,krystyna-janda-szczepienia-spektakl-aktor-covid-19.html)
@@ -2642,7 +2636,6 @@
  - [https://www.vice.com/en/article/93ypke/the-nsa-and-cia-use-ad-blockers-because-online-advertising-is-so-dangerous](https://www.vice.com/en/article/93ypke/the-nsa-and-cia-use-ad-blockers-because-online-advertising-is-so-dangerous)
  - date_published: 2021-09-23T21:53:34+00:00
  - tags: ['ad block', 'ad business']
- - date_dead_since: 2024-09-26T11:52:39.974917+00:00
 
  ## ‘I’d rather be alone’: the influencers pushing for ‘relationship minimalism’ | Relationships | The Guardian
  - [https://www.theguardian.com/lifeandstyle/2021/sep/08/marie-kondo-youtube-influencers-relationship-minimalism](https://www.theguardian.com/lifeandstyle/2021/sep/08/marie-kondo-youtube-influencers-relationship-minimalism)
@@ -2691,12 +2684,10 @@
  - [https://www.youtube.com/watch?v=Elgqtwhqh5I](https://www.youtube.com/watch?v=Elgqtwhqh5I)
  - date_published: 2021-09-28T00:00:00+00:00
  - tags: ['comics', 'the left wing', 'indoctrination', 'lgbt', 'go woke go broke']
- - date_dead_since: 2024-09-26T11:47:41.862978+00:00
 
  ## The difference between Go and Rust – dominikbraun.io
  - [https://dominikbraun.io/blog/the-difference-between-go-and-rust](https://dominikbraun.io/blog/the-difference-between-go-and-rust)
  - date_published: 2021-09-28T18:24:29.874388+00:00
- - date_dead_since: 2024-09-26T11:42:39.682953+00:00
 
  ## Women's and trans rights are not in conflict, says Angela Rayner - BBC News
  - [https://www.bbc.co.uk/news/uk-politics-58724514](https://www.bbc.co.uk/news/uk-politics-58724514)
@@ -2706,7 +2697,6 @@
  - [https://www.youtube.com/watch?v=6FtPvDGrpkA](https://www.youtube.com/watch?v=6FtPvDGrpkA)
  - date_published: 2021-09-29T00:00:00+00:00
  - tags: ['dead internet']
- - date_dead_since: 2024-09-26T11:37:41.824242+00:00
 
  ## [4k, 50 fps, colorized] (1896-1899) Sports in the Nineteenth century: Lumiere Brothers.
  - [https://www.youtube.com/watch?v=JyjRCuF9pd8](https://www.youtube.com/watch?v=JyjRCuF9pd8)
@@ -2744,7 +2734,6 @@
  ## Chip shortage leads carmaker Opel to shut German plant until 2022 | Reuters
  - [https://www.reuters.com/business/autos-transportation/chip-shortage-leads-carmaker-opel-shut-german-plant-until-2022-2021-09-30](https://www.reuters.com/business/autos-transportation/chip-shortage-leads-carmaker-opel-shut-german-plant-until-2022-2021-09-30)
  - date_published: 2021-10-01T06:23:36.060313+00:00
- - date_dead_since: 2024-09-26T11:23:01.092170+00:00
 
  ## A teenager on TikTok disrupted thousands of scientific studies with a single video - The Verge
  - [https://www.theverge.com/2021/9/24/22688278/tiktok-science-study-survey-prolific](https://www.theverge.com/2021/9/24/22688278/tiktok-science-study-survey-prolific)
@@ -2773,6 +2762,7 @@
  - [https://www.nytimes.com/2021/10/03/technology/whistle-blower-facebook-frances-haugen.html](https://www.nytimes.com/2021/10/03/technology/whistle-blower-facebook-frances-haugen.html)
  - date_published: 2021-10-03T23:55:03+00:00
  - tags: ['algorithms', 'psyop', 'hate speech', 'technofeudalism']
+ - date_dead_since: 2025-02-08T00:31:01.466996+00:00
 
  ## „Gawiedź niezaszczepiona wymrze rychło”. Oburzający wpis Środy, która komentuje posłów Konfederacji - tvp.info
  - [https://www.tvp.info/56189233/gawiedz-niezaszczepiona-wymrze-rychlo-oburzajacy-wpis-srody-ktora-komentuje-poslow-konfederacji](https://www.tvp.info/56189233/gawiedz-niezaszczepiona-wymrze-rychlo-oburzajacy-wpis-srody-ktora-komentuje-poslow-konfederacji)
