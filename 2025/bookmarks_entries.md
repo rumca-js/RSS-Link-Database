@@ -75,3 +75,8 @@
  - date_published: 2025-02-06T21:09:38+00:00
  - tags: ['piracy']
 
+ ## 'Lords of the Fallen' CEO BANNED By Reddit Mods
+ - [https://www.youtube.com/watch?v=nPj6pOAYlWM](https://www.youtube.com/watch?v=nPj6pOAYlWM)
+ - date_published: 2025-02-08T01:00:00+00:00
+ - tags: ['moderation', 'reddit', 'censorship']
+

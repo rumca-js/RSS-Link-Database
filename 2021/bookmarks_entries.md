@@ -157,7 +157,6 @@
  - [https://www.reuters.com/article/uk-factcheck-norway-idUSKBN29P2R1](https://www.reuters.com/article/uk-factcheck-norway-idUSKBN29P2R1)
  - date_published: 2021-01-20T20:10:09+00:00
  - tags: ['vaccine', 'covid']
- - date_dead_since: 2024-09-26T23:01:44.073012+00:00
 
  ## Szpitale tymczasowe kosztowały ponad 500 mln zł. Dlaczego stoją puste?
  - [https://www.medonet.pl/koronawirus/koronawirus-w-polsce,szpitale-tymczasowe-kosztowaly-ponad-500-mln-zlotych--dlaczego-stoja-puste-,artykul,98771495.html](https://www.medonet.pl/koronawirus/koronawirus-w-polsce,szpitale-tymczasowe-kosztowaly-ponad-500-mln-zlotych--dlaczego-stoja-puste-,artykul,98771495.html)

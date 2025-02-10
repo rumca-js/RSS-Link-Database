@@ -1488,7 +1488,6 @@
  - [https://www.reuters.com/article/uk-health-coronavirus-astrazeneca-contra-idUKKBN2841FA](https://www.reuters.com/article/uk-health-coronavirus-astrazeneca-contra-idUKKBN2841FA)
  - date_published: 2020-11-24T21:56:21+00:00
  - tags: ['covid', 'vaccine', 'astrazeneca']
- - date_dead_since: 2024-09-27T00:46:56.731717+00:00
 
  ## "A grave mistake", Kenney apologizes for lockdown
  - [https://www.youtube.com/watch?v=ylTCTcSM09Y](https://www.youtube.com/watch?v=ylTCTcSM09Y)
