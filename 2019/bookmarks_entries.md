@@ -532,6 +532,7 @@
  - [https://www.buzzfeednews.com/article/janelytvynenko/fdny-review-jeffrey-epstein-4chan-post](https://www.buzzfeednews.com/article/janelytvynenko/fdny-review-jeffrey-epstein-4chan-post)
  - date_published: 2019-08-13T11:54:26+00:00
  - tags: ['4chan', 'jeffrey epstein']
+ - date_dead_since: 2025-02-10T22:51:55.277618+00:00
 
  ## Copper: Powering Up The Electric Vehicle | Wood Mackenzie
  - [https://www.woodmac.com/news/opinion/copper-powering-up-the-electric-vehicle](https://www.woodmac.com/news/opinion/copper-powering-up-the-electric-vehicle)
@@ -763,6 +764,7 @@
  - [https://www.buzzfeednews.com/article/ryanmac/unsworth-reply-elon-musk-fucking-idiot](https://www.buzzfeednews.com/article/ryanmac/unsworth-reply-elon-musk-fucking-idiot)
  - date_published: 2019-10-08T12:21:11+00:00
  - tags: ['lie', 'billionaires', 'elon musk', 'elites']
+ - date_dead_since: 2025-02-10T19:22:48.566295+00:00
 
  ## 'Alexa, are you invading my privacy?' – the dark side of our voice assistants
  - [https://www.theguardian.com/technology/2019/oct/09/alexa-are-you-invading-my-privacy-the-dark-side-of-our-voice-assistants](https://www.theguardian.com/technology/2019/oct/09/alexa-are-you-invading-my-privacy-the-dark-side-of-our-voice-assistants)
@@ -838,7 +840,6 @@
  - [https://www.reuters.com/article/us-usa-health-j-j-expert-exclusive-idUSKBN1X912O](https://www.reuters.com/article/us-usa-health-j-j-expert-exclusive-idUSKBN1X912O)
  - date_published: 2019-10-30T20:25:18+00:00
  - tags: ['johnson and johnson', 'medical scandal', 'big pharma']
- - date_dead_since: 2024-09-27T06:32:16.369521+00:00
 
  ## The Golden Age of the Internet Is Over
  - [https://www.youtube.com/watch?v=OU6CuSMzNus](https://www.youtube.com/watch?v=OU6CuSMzNus)

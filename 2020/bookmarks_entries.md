@@ -128,6 +128,7 @@
  - [https://www.youtube.com/watch?v=CYKeefzKGOI](https://www.youtube.com/watch?v=CYKeefzKGOI)
  - date_published: 2020-01-31T07:48:27+00:00
  - tags: ['covid', 'fearmongering', 'propaganda', 'lab leak', 'wuhan']
+ - date_dead_since: 2025-02-10T12:20:08.752577+00:00
 
  ## Texas mother trying to transition her seven-year-old son into a girl loses in court as judge orders her to share custody with ex-husband who says boy is just 'confused'
  - [https://www.dailymail.co.uk/news/article-7950655/Mother-trying-transition-son-girl-loses-court-judge-orders-parents-joint-custody.html](https://www.dailymail.co.uk/news/article-7950655/Mother-trying-transition-son-girl-loses-court-judge-orders-parents-joint-custody.html)
@@ -138,6 +139,7 @@
  - [https://www.youtube.com/watch?v=Uf4-Vzf1CyM](https://www.youtube.com/watch?v=Uf4-Vzf1CyM)
  - date_published: 2020-02-03T00:00:00+00:00
  - tags: ['propaganda', 'covid']
+ - date_dead_since: 2025-02-10T12:08:12.667832+00:00
 
  ## U.K. Educator Uses YouTube To Treat Panic Of Coronavirus Myths
  - [https://www.forbes.com/sites/johnscottlewinski/2020/02/07/uk-doctor-uses-youtube-to-treat-panic-of-coronavirus-myths](https://www.forbes.com/sites/johnscottlewinski/2020/02/07/uk-doctor-uses-youtube-to-treat-panic-of-coronavirus-myths)
@@ -455,7 +457,6 @@
  - [https://www.reuters.com/article/health-coronavirus-sweden-economy/swedish-economy-on-track-for-7-contraction-this-year-fin-min-idUSS3N29P01Z](https://www.reuters.com/article/health-coronavirus-sweden-economy/swedish-economy-on-track-for-7-contraction-this-year-fin-min-idUSS3N29P01Z)
  - date_published: 2020-05-26T05:39:58+00:00
  - tags: ['sweden', 'covid', 'lockdown']
- - date_dead_since: 2024-09-27T04:35:59.024991+00:00
 
  ## Critical analysis of Andersen et al. The proximal origin of SARS-CoV-2
  - [https://drasticresearch.files.wordpress.com/2023/05/an-argument-against-natural-covid-19-creation-copy-2.pdf](https://drasticresearch.files.wordpress.com/2023/05/an-argument-against-natural-covid-19-creation-copy-2.pdf)
@@ -731,7 +732,6 @@
  - [https://www.reuters.com/article/idUSKCN24F2N4](https://www.reuters.com/article/idUSKCN24F2N4)
  - date_published: 2020-07-14T06:55:51+00:00
  - tags: ['technofeudalism', 'privacy', 'google', 'surveillance']
- - date_dead_since: 2024-09-27T03:47:08.060344+00:00
 
  ## ‘Black Lives Matter activists’ flood murdered ‘All Lives Matter’ mom’s social media pages with mocking messages – The US Sun | The US Sun
  - [https://www.the-sun.com/news/1137649/indiana-mom-all-black-lives-matter-shot-facebook](https://www.the-sun.com/news/1137649/indiana-mom-all-black-lives-matter-shot-facebook)
@@ -802,7 +802,6 @@
  - [https://www.reuters.com/article/us-health-coronavirus-moderna-funding-idUSKCN24R0IN](https://www.reuters.com/article/us-health-coronavirus-moderna-funding-idUSKCN24R0IN)
  - date_published: 2020-07-26T22:02:16+00:00
  - tags: ['moderna', 'big pharma', 'covid', 'vaccine']
- - date_dead_since: 2024-09-27T03:32:07.529293+00:00
 
  ## INSANE: Netflix Pushes Trans Propaganda On KIDS Show; Shapiro Responds
  - [https://www.youtube.com/watch?v=HxbOM6swuTg](https://www.youtube.com/watch?v=HxbOM6swuTg)
@@ -947,7 +946,6 @@
  - [https://www.reuters.com/article/health-coronavirus-germany-vaccine-idUSKBN2661KP](https://www.reuters.com/article/health-coronavirus-germany-vaccine-idUSKBN2661KP)
  - date_published: 2020-08-15T21:59:40+00:00
  - tags: ['pfizer', 'biontech', 'covid', 'vaccine', 'big pharma']
- - date_dead_since: 2024-09-27T02:45:52.711025+00:00
 
  ## Write Code as If You Had to Support It for the Rest of Your Life
  - [https://medium.com/oreillymedia/write-code-as-if-you-had-to-support-it-for-the-rest-of-your-life-a707d3442f1a](https://medium.com/oreillymedia/write-code-as-if-you-had-to-support-it-for-the-rest-of-your-life-a707d3442f1a)
@@ -1372,7 +1370,6 @@
  - [https://www.reuters.com/article/us-netherlands-lgbt-asylum-trfn-idUSKBN27L29M](https://www.reuters.com/article/us-netherlands-lgbt-asylum-trfn-idUSKBN27L29M)
  - date_published: 2020-11-05T21:05:40+00:00
  - tags: ['lgbt', 'the left wing', 'homosexuality', 'inequality', 'netherlands']
- - date_dead_since: 2024-09-27T01:02:01.897161+00:00
 
  ## Coronavirus: Britons should be paid to take COVID-19 vaccine, says Oxford professor | UK News | Sky News
  - [https://news.sky.com/story/coronavirus-britons-should-be-paid-to-take-covid-19-vaccine-says-oxford-professor-12125012](https://news.sky.com/story/coronavirus-britons-should-be-paid-to-take-covid-19-vaccine-says-oxford-professor-12125012)
@@ -1447,7 +1444,6 @@
  - [https://www.reuters.com/article/us-health-coronavirus-facemasks-idUSKBN27Y1YW](https://www.reuters.com/article/us-health-coronavirus-facemasks-idUSKBN27Y1YW)
  - date_published: 2020-11-18T19:57:37+00:00
  - tags: ['covid', 'masks']
- - date_dead_since: 2024-09-27T00:57:03.592015+00:00
 
  ## How Kyle Rittenhouse and Joseph Rosenbaum's paths crossed in a fatal encounter | Visual Forensics
  - [https://www.youtube.com/watch?v=LBM9Ke_JI1Q](https://www.youtube.com/watch?v=LBM9Ke_JI1Q)

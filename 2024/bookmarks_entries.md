@@ -133,6 +133,11 @@
  - date_published: 2024-01-14T17:26:49+00:00
  - tags: ['electric vehicles', 'climate change']
 
+ ## Kaspersky finds hardware backdoor in 5 generations of Apple Silicon (2024)
+ - [https://www.xstore.co.za/stuff/2024/01/kaspersky-finds-hardware-backdoor-in-5-generations-of-apple-silicon](https://www.xstore.co.za/stuff/2024/01/kaspersky-finds-hardware-backdoor-in-5-generations-of-apple-silicon)
+ - date_published: 2024-01-14T18:07:24+00:00
+ - tags: ['backdoor', 'vulnerability', 'apple']
+
  ## Many software developers don’t trust AI – report
  - [https://www.infoworld.com/article/3712282/many-software-developers-dont-trust-ai-report.html](https://www.infoworld.com/article/3712282/many-software-developers-dont-trust-ai-report.html)
  - date_published: 2024-01-15T05:00:00+00:00
