@@ -1822,6 +1822,11 @@
  - date_published: 2023-02-13T20:56:39+00:00
  - tags: ['socialism', 'freedom', 'protest', 'social engineering']
 
+ ## Al Gore’s 30 Years of Climate Errors: Snow Job
+ - [https://capitalresearch.org/article/al-gores-30-years-of-climate-errors-part-2](https://capitalresearch.org/article/al-gores-30-years-of-climate-errors-part-2)
+ - date_published: 2023-02-13T22:19:44+00:00
+ - tags: ['climate change', 'al gore']
+
  ## Face masks made ‘little to no difference’ in spread of COVID, scientific review finds
  - [https://www.foxnews.com/health/face-masks-difference-spread-covid-scientific-review](https://www.foxnews.com/health/face-masks-difference-spread-covid-scientific-review)
  - date_published: 2023-02-14T00:17:48+00:00

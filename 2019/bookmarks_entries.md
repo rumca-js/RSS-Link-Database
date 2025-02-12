@@ -233,6 +233,7 @@
  - [https://www.youtube.com/watch?v=y_Z1LClnhsk](https://www.youtube.com/watch?v=y_Z1LClnhsk)
  - date_published: 2019-04-17T00:00:00+00:00
  - tags: ['inequality', 'gender', 'feminism']
+ - date_dead_since: 2025-02-11T07:09:12.950055+00:00
 
  ## Attacks on Christians double since 2017  - Washington Times
  - [https://www.washingtontimes.com/news/2019/apr/22/attacks-christians-double-2017](https://www.washingtontimes.com/news/2019/apr/22/attacks-christians-double-2017)
@@ -284,6 +285,7 @@
  - [https://www.nytimes.com/2019/05/07/opinion/google-sundar-pichai-privacy.html](https://www.nytimes.com/2019/05/07/opinion/google-sundar-pichai-privacy.html)
  - date_published: 2019-05-07T06:29:51+00:00
  - tags: ['sundar pichai', 'surveillance', 'google', 'anonymity', 'privacy']
+ - date_dead_since: 2025-02-11T06:20:39.592098+00:00
 
  ## Using AI to predict breast cancer and personalize care | MIT News | Massachusetts Institute of Technology
  - [https://news.mit.edu/2019/using-ai-predict-breast-cancer-and-personalize-care-0507](https://news.mit.edu/2019/using-ai-predict-breast-cancer-and-personalize-care-0507)

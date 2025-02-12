@@ -62,6 +62,11 @@
  - date_published: 2025-02-03T05:11:46+00:00
  - tags: ['self-host']
 
+ ## In 'waste' of money, USAID channeled vast sums for DEI, LGBTQ programs: White House
+ - [https://www.aa.com.tr/en/americas/in-waste-of-money-usaid-channeled-vast-sums-for-dei-lgbtq-programs-white-house/3470976](https://www.aa.com.tr/en/americas/in-waste-of-money-usaid-channeled-vast-sums-for-dei-lgbtq-programs-white-house/3470976)
+ - date_published: 2025-02-04T08:39:36+00:00
+ - tags: ['usaid', 'lgbt', 'dei']
+
  ## FUTO
  - [https://wiki.futo.org](https://wiki.futo.org)
  - date_published: 2025-02-06T08:23:52+00:00
@@ -79,4 +84,9 @@
  - [https://www.youtube.com/watch?v=nPj6pOAYlWM](https://www.youtube.com/watch?v=nPj6pOAYlWM)
  - date_published: 2025-02-08T01:00:00+00:00
  - tags: ['moderation', 'reddit', 'censorship']
+
+ ## FEMA says it's halting payments for migrant housing in New York after Musk blasts money for hotels
+ - [https://abcnews.go.com/US/wireStory/fema-halting-payments-migrant-housing-new-york-after-118670265](https://abcnews.go.com/US/wireStory/fema-halting-payments-migrant-housing-new-york-after-118670265)
+ - date_published: 2025-02-10T19:08:29+00:00
+ - tags: ['immigration']
 

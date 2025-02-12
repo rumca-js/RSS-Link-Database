@@ -10601,6 +10601,34 @@
         "vote": 0
     },
     {
+        "age": 0,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2023-02-13T22:19:44+00:00",
+        "description": "",
+        "id": 2093365,
+        "language": null,
+        "link": "https://capitalresearch.org/article/al-gores-30-years-of-climate-errors-part-2",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "climate change",
+            "al gore"
+        ],
+        "thumbnail": "https://capitalresearch.org/app/uploads/Hurricane-Katrina.jpg",
+        "title": "Al Gore\u2019s 30 Years of Climate Errors: Snow Job",
+        "vote": 0
+    },
+    {
         "age": null,
         "album": null,
         "author": null,

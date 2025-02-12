@@ -1248,7 +1248,7 @@
             "james damore",
             "inequality"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/PRYvqrWcmmE/hqdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/PRYvqrWcmmE/hqdefault.jpg",
         "title": "Dr. Jordan Peterson on the James Damore Memo",
         "vote": 0
     },
@@ -2170,7 +2170,7 @@
             "jordan peterson",
             "feminism"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/Ddzf9Mm4hdY/hqdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/Ddzf9Mm4hdY/hqdefault.jpg",
         "title": "Jordan Peterson calmly dismantles feminism infront of two feminists",
         "vote": 0
     },
@@ -2653,13 +2653,13 @@
         "language": "en-US",
         "link": "https://www.realcleardefense.com/articles/2018/07/18/social_engineering_as_a_threat_to_societies_the_cambridge_analytica_case_113620.html",
         "manual_status_code": 0,
-        "page_rating": 29,
-        "page_rating_contents": 80,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.realcleardefense.com",
-        "status_code": 403,
+        "status_code": 200,
         "tags": [
             "social engineering",
             "cambridge analityca"
@@ -2753,7 +2753,7 @@
             "documentary",
             "history"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/e4FZkXvAY94/sddefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/e4FZkXvAY94/sddefault.jpg",
         "title": "Victorian women | Life in Victorian times | 108 year old woman | Money Go Round | 1977",
         "vote": 0
     },
@@ -3623,7 +3623,7 @@
             "religion",
             "the left wing"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/dn6x_9CLTB4/hqdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/dn6x_9CLTB4/hqdefault.jpg",
         "title": "Alan Keyes: Best argument against gay marriage",
         "vote": 0
     },
@@ -3951,7 +3951,7 @@
             "grievance",
             "joe rogan"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/OlqU_JMTzd4/sddefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/OlqU_JMTzd4/sddefault.jpg",
         "title": "Joe Rogan - Exposing Social Justice with Peter Boghossian & James Lindsay",
         "vote": 0
     },
