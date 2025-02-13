@@ -85,6 +85,11 @@
  - date_published: 2025-02-08T01:00:00+00:00
  - tags: ['moderation', 'reddit', 'censorship']
 
+ ## Strategia migracyjna. Powstanie 49 Centrów Integracji Cudzoziemców. Są już nowe informacje o lokalizacjach CIC, w różnych regionach Polski
+ - [https://www.infor.pl/prawo/nowosci-prawne/6737746,strategia-migracyjna-powstanie-49-centrow-integracji-cudzoziemcow-sa.html](https://www.infor.pl/prawo/nowosci-prawne/6737746,strategia-migracyjna-powstanie-49-centrow-integracji-cudzoziemcow-sa.html)
+ - date_published: 2025-02-08T21:52:59+00:00
+ - tags: ['immigration']
+
  ## FEMA says it's halting payments for migrant housing in New York after Musk blasts money for hotels
  - [https://abcnews.go.com/US/wireStory/fema-halting-payments-migrant-housing-new-york-after-118670265](https://abcnews.go.com/US/wireStory/fema-halting-payments-migrant-housing-new-york-after-118670265)
  - date_published: 2025-02-10T19:08:29+00:00

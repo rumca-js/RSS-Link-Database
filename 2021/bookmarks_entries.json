@@ -18505,6 +18505,33 @@
         "vote": 0
     },
     {
+        "age": 0,
+        "album": null,
+        "author": "Nice IT - www.niceit.pl",
+        "bookmarked": true,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2021-10-21T21:51:12+00:00",
+        "description": "",
+        "id": 2100415,
+        "language": "pl",
+        "link": "https://rops.poznan.pl/projekty/realizowane-w-ramach-programu-krajowego-funduszu-azylu-migracji-i-integracji-budowanie-struktur-dla-integracji-w-polsce-etap-ii-pilotaz-centrow-integracji-cudzoziemcow/budowanie-struktur-dla-integracji-cudzoziemcow-w-polsce-etap-ii-pilotaz-centro",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "immigration"
+        ],
+        "thumbnail": "https://rops.poznan.pl/images/orig/rops-logo-poziom.svg",
+        "title": "Budowanie struktur dla integracji cudzoziemc\u00f3w w\u00a0Polsce -\u00a0etap II -\u00a0pilota\u017c Centr\u00f3w Integracji Cudzoziemc\u00f3w",
+        "vote": 0
+    },
+    {
         "age": null,
         "album": null,
         "author": null,

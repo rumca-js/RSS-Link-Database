@@ -2,7 +2,6 @@
  - [https://www.reuters.com/article/us-europe-migrants-germany-crime-idUSKBN1ES16J](https://www.reuters.com/article/us-europe-migrants-germany-crime-idUSKBN1ES16J)
  - date_published: 2018-01-03T10:02:54+00:00
  - tags: ['immigration', 'germany']
- - date_dead_since: 2024-09-27T15:03:40.897353+00:00
 
  ## Meltdown and Spectre: ‘worst ever’ CPU bugs affect virtually all computers
  - [https://www.theguardian.com/technology/2018/jan/04/meltdown-spectre-worst-cpu-bugs-ever-found-affect-computers-intel-processors-security-flaw](https://www.theguardian.com/technology/2018/jan/04/meltdown-spectre-worst-cpu-bugs-ever-found-affect-computers-intel-processors-security-flaw)

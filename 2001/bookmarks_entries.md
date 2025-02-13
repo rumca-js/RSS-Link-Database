@@ -13,6 +13,11 @@
  - date_published: 2001-09-11T13:08:16+00:00
  - tags: ['larry silverstein', '911', 'twin towers', 'conspiracy theory']
 
+ ## Odigo says workers were warned of attack
+ - [https://www.haaretz.com/2001-09-26/ty-article/odigo-says-workers-were-warned-of-attack/0000017f-dbc4-df62-a9ff-dfd7beff0000](https://www.haaretz.com/2001-09-26/ty-article/odigo-says-workers-were-warned-of-attack/0000017f-dbc4-df62-a9ff-dfd7beff0000)
+ - date_published: 2001-09-26T15:34:58+00:00
+ - tags: ['israel', '911']
+
  ## The Conspiracy Theorist Who Predicted His Own Death | Tales From the Bottle
  - [https://www.youtube.com/watch?v=eLyyaT2w4pc](https://www.youtube.com/watch?v=eLyyaT2w4pc)
  - date_published: 2001-10-23T00:00:00+00:00

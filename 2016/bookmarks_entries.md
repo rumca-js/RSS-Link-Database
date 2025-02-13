@@ -351,6 +351,7 @@
  - [https://www.buzzfeednews.com/article/craigsilverman/how-macedonia-became-a-global-hub-for-pro-trump-misinfo](https://www.buzzfeednews.com/article/craigsilverman/how-macedonia-became-a-global-hub-for-pro-trump-misinfo)
  - date_published: 2016-11-03T13:47:25+00:00
  - tags: ['social engineering', 'social media', 'donald trump', 'fakenews']
+ - date_dead_since: 2025-02-12T21:27:14.767550+00:00
 
  ## When It Comes to Fake News, the U.S. Government Is the Biggest Culprit
  - [https://www.rutherford.org/publications_resources/john_whiteheads_commentary/when_it_comes_to_fake_news_the_u.s._government_is_the_biggest_culprit](https://www.rutherford.org/publications_resources/john_whiteheads_commentary/when_it_comes_to_fake_news_the_u.s._government_is_the_biggest_culprit)

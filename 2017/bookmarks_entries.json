@@ -192,7 +192,7 @@
         "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 10,
-        "permanent": true,
+        "permanent": false,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAEdKO77zH44as9TbIa20lA",
         "status_code": 200,
         "tags": [
@@ -200,7 +200,7 @@
             "palestine",
             "israel"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/tk8g9GIIiuQ/sddefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/tk8g9GIIiuQ/sddefault.jpg",
         "title": "BALFOUR 100",
         "vote": 10
     },
@@ -261,7 +261,7 @@
             "corruption",
             "billionaires"
         ],
-        "thumbnail": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/EBJRP3JWOBOREVBEPMPCS3SOKA.jpg?auth=d0241d75b6975471a51a72d03de53553fd748c704e0e2b561cdaa2fc17a86c9f&height=467&width=830&smart=true&quality=80",
+        "thumbnail": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/EBJRP3JWOBOREVBEPMPCS3SOKA.jpg?auth=d0241d75b6975471a51a72d03de53553fd748c704e0e2b561cdaa2fc17a86c9f&height=630&width=1200&smart=true&quality=80",
         "title": "No one went to prison after 2008 financial crisis \u2014 and the fault lies with us",
         "vote": 0
     },
@@ -351,7 +351,7 @@
             "social media",
             "noam chomsky"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/34LGPIXvU5M/sddefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/34LGPIXvU5M/sddefault.jpg",
         "title": "Noam Chomsky - The 5 Filters of the Mass Media Machine",
         "vote": 0
     },
@@ -627,7 +627,7 @@
         "tags": [
             "land ownership"
         ],
-        "thumbnail": "https://dl6pgk4f88hky.cloudfront.net/2021/09/20110309_2011_11the-world_w.jpg?1727457325",
+        "thumbnail": "https://dl6pgk4f88hky.cloudfront.net/2021/09/20110309_2011_11the-world_w.jpg?1739389871",
         "title": "Who owns the world?",
         "vote": 10
     },
@@ -1737,7 +1737,7 @@
             "joe rogan",
             "ben shapiro"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/IdjdNgvF42o/sddefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/IdjdNgvF42o/sddefault.jpg",
         "title": "Joe Rogan & Ben Shapiro on the Transgender Movement, Men vs. Women in Sports",
         "vote": 0
     },
@@ -2264,7 +2264,7 @@
             "james damore",
             "google"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/VIW2OBOzu7Y/sddefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/VIW2OBOzu7Y/sddefault.jpg",
         "title": "Joe Rogan - James Damore on the Backlash from the Google Memo Controversy",
         "vote": 0
     },
@@ -2292,7 +2292,7 @@
             "jordan peterson",
             "feminism"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/Zy4a8T45GiQ/sddefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/Zy4a8T45GiQ/sddefault.jpg",
         "title": "Jordan Peterson: Why You Won't Have a Career",
         "vote": 0
     },
@@ -2348,7 +2348,7 @@
             "political correctness",
             "jordan peterson"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/f5rUPatnXSE/maxresdefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/f5rUPatnXSE/maxresdefault.jpg",
         "title": "Jordan Peterson | Political Correctness and Postmodernism",
         "vote": 0
     },
@@ -2555,7 +2555,7 @@
             "the left wing",
             "homosexuality"
         ],
-        "thumbnail": "https://i.ytimg.com/vi_webp/4jef2C4T1_A/sddefault.webp",
+        "thumbnail": "https://i.ytimg.com/vi/4jef2C4T1_A/sddefault.jpg",
         "title": "Jordan Peterson - Gay Marriage",
         "vote": 0
     },

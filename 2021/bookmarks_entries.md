@@ -3123,6 +3123,11 @@
  - date_published: 2021-10-21T20:11:58+00:00
  - tags: ['racism', 'socialism']
 
+ ## Budowanie struktur dla integracji cudzoziemców w Polsce - etap II - pilotaż Centrów Integracji Cudzoziemców
+ - [https://rops.poznan.pl/projekty/realizowane-w-ramach-programu-krajowego-funduszu-azylu-migracji-i-integracji-budowanie-struktur-dla-integracji-w-polsce-etap-ii-pilotaz-centrow-integracji-cudzoziemcow/budowanie-struktur-dla-integracji-cudzoziemcow-w-polsce-etap-ii-pilotaz-centro](https://rops.poznan.pl/projekty/realizowane-w-ramach-programu-krajowego-funduszu-azylu-migracji-i-integracji-budowanie-struktur-dla-integracji-w-polsce-etap-ii-pilotaz-centrow-integracji-cudzoziemcow/budowanie-struktur-dla-integracji-cudzoziemcow-w-polsce-etap-ii-pilotaz-centro)
+ - date_published: 2021-10-21T21:51:12+00:00
+ - tags: ['immigration']
+
  ## Parson doubles down on push to prosecute reporter who found security flaw in state site • Missouri Independent
  - [https://missouriindependent.com/2021/10/21/parson-doubles-down-on-push-to-prosecute-reporter-who-found-security-flaw-in-state-site](https://missouriindependent.com/2021/10/21/parson-doubles-down-on-push-to-prosecute-reporter-who-found-security-flaw-in-state-site)
  - date_published: 2021-10-22T07:35:26.707398+00:00
