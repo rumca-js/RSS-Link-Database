@@ -234,7 +234,6 @@
  - [https://www.reuters.com/article/us-usa-surveillance-watchdog-idUSBRE98Q14G20130927](https://www.reuters.com/article/us-usa-surveillance-watchdog-idUSBRE98Q14G20130927)
  - date_published: 2015-08-24T12:45:42+00:00
  - tags: ['big brother', 'privacy', 'nsa', 'surveillance']
- - date_dead_since: 2024-09-27T20:08:51.007770+00:00
 
  ## How the American government is trying to control what you think - The Washington Post
  - [https://www.washingtonpost.com/posteverything/wp/2015/09/24/the-new-propaganda-how-the-american-government-is-trying-to-control-what-you-think](https://www.washingtonpost.com/posteverything/wp/2015/09/24/the-new-propaganda-how-the-american-government-is-trying-to-control-what-you-think)

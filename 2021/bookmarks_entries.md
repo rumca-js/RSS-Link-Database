@@ -333,6 +333,11 @@
  - date_published: 2021-02-19T09:42:45+00:00
  - tags: ['documentary']
 
+ ## How to stop your emails from being tracked
+ - [https://www.theverge.com/22288190/email-pixel-trackers-how-to-stop-images-automatic-download](https://www.theverge.com/22288190/email-pixel-trackers-how-to-stop-images-automatic-download)
+ - date_published: 2021-02-19T15:02:36+00:00
+ - tags: ['surveillance', 'privacy']
+
  ## Wikipedia co-founder Larry Sanger slams site's leftist bias and claims 'neutrality' is gone | Daily Mail Online
  - [https://www.dailymail.co.uk/news/article-9283061/Wikipedia-founder-Larry-Sanger-slams-sites-leftist-bias-claims-neutrality-gone.html](https://www.dailymail.co.uk/news/article-9283061/Wikipedia-founder-Larry-Sanger-slams-sites-leftist-bias-claims-neutrality-gone.html)
  - date_published: 2021-02-21T06:54:18+00:00

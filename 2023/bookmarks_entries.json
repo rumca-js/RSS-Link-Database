@@ -48655,6 +48655,34 @@
         "vote": 50
     },
     {
+        "age": 0,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2023-12-06T17:08:49+00:00",
+        "description": "",
+        "id": 2106352,
+        "language": "en",
+        "link": "https://www.pcworld.com/article/2161630/how-to-be-tracked-by-email-and-how-to-protect-yourself.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "surveillance",
+            "privacy"
+        ],
+        "thumbnail": "https://www.pcworld.com/wp-content/uploads/2023/12/puff-18.jpg?quality=50&strip=all&w=1024",
+        "title": "How to protect yourself from email tracking",
+        "vote": 0
+    },
+    {
         "age": null,
         "album": "https://www.city-journal.org",
         "author": "https://www.city-journal.org",

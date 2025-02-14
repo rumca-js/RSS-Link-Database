@@ -198,7 +198,6 @@
  - [https://www.reuters.com/article/idUSKCN0ZH4LM](https://www.reuters.com/article/idUSKCN0ZH4LM)
  - date_published: 2016-07-01T14:01:58+00:00
  - tags: ['church scandal', 'catholic']
- - date_dead_since: 2024-09-27T18:33:48.193472+00:00
 
  ## Spirited Away and The Prostitution Theory
  - [https://sites.psu.edu/angelapassion/2016/07/02/spirited-away](https://sites.psu.edu/angelapassion/2016/07/02/spirited-away)
@@ -246,6 +245,7 @@
  - [https://www.youtube.com/watch?v=cCW58RCgqOQ](https://www.youtube.com/watch?v=cCW58RCgqOQ)
  - date_published: 2016-08-04T00:00:00+00:00
  - tags: ['archive', 'documentary', 'racism', 'history']
+ - date_dead_since: 2025-02-13T10:49:45.682554+00:00
 
  ## YouTube Adpocalypse | Wikitubia | Fandom
  - [https://youtube.fandom.com/wiki/YouTube_Adpocalypse](https://youtube.fandom.com/wiki/YouTube_Adpocalypse)

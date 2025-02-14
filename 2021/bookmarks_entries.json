@@ -1923,6 +1923,34 @@
         "vote": 0
     },
     {
+        "age": 0,
+        "album": null,
+        "author": "Barbara Krasnoff",
+        "bookmarked": true,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2021-02-19T15:02:36+00:00",
+        "description": "Pixel trackers can hide in your email images.",
+        "id": 2106351,
+        "language": "en-US",
+        "link": "https://www.theverge.com/22288190/email-pixel-trackers-how-to-stop-images-automatic-download",
+        "manual_status_code": 0,
+        "page_rating": 63,
+        "page_rating_contents": 86,
+        "page_rating_visits": 2,
+        "page_rating_votes": 50,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "surveillance",
+            "privacy"
+        ],
+        "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22632594/VRG_4614_3_EmailTracking.jpg?quality=90&strip=all&crop=0%2C10.742559278735%2C100%2C78.514881442529&w=1200",
+        "title": "How to stop your emails from being tracked",
+        "vote": 50
+    },
+    {
         "age": null,
         "album": null,
         "author": null,

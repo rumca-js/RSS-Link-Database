@@ -8431,6 +8431,11 @@
  - date_published: 2023-12-06T16:48:43+00:00
  - tags: ['amazon', 'warehouse', 'artificial intelligence']
 
+ ## How to protect yourself from email tracking
+ - [https://www.pcworld.com/article/2161630/how-to-be-tracked-by-email-and-how-to-protect-yourself.html](https://www.pcworld.com/article/2161630/how-to-be-tracked-by-email-and-how-to-protect-yourself.html)
+ - date_published: 2023-12-06T17:08:49+00:00
+ - tags: ['surveillance', 'privacy']
+
  ## No White Faculty Allowed
  - [https://www.city-journal.org/article/racial-discrimination-at-the-university-of-washington](https://www.city-journal.org/article/racial-discrimination-at-the-university-of-washington)
  - date_published: 2023-12-08T07:16:33+00:00
