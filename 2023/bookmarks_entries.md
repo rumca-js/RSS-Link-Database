@@ -8416,6 +8416,11 @@
  - date_published: 2023-12-03T14:00:00+00:00
  - tags: ['satanism', 'satanic temple']
 
+ ## Here Are The Facts About The Kill Switch Mandate For Cars That's Already Passed | Carscoops
+ - [https://www.carscoops.com/2023/12/here-are-the-facts-about-the-kill-switch-mandate-for-cars-thats-already-passed](https://www.carscoops.com/2023/12/here-are-the-facts-about-the-kill-switch-mandate-for-cars-thats-already-passed)
+ - date_published: 2023-12-03T14:49:00+00:00
+ - tags: ['electric vehicles', 'technofeudalism', 'kill switch', 'surveillance']
+
  ## Ousted propaganda scholar Joan Donovan accuses Harvard of bowing to Meta
  - [https://www.washingtonpost.com/technology/2023/12/04/joan-donovan-harvard-dismissal-complaint](https://www.washingtonpost.com/technology/2023/12/04/joan-donovan-harvard-dismissal-complaint)
  - date_published: 2023-12-04T11:01:03+00:00

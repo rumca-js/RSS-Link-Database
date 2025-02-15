@@ -37,7 +37,6 @@
  - [https://www.reuters.com/article/us-mozilla-ceo-resignation/mozilla-ceo-resigns-opposition-to-gay-marriage-drew-fire-idUSBREA321Y320140403](https://www.reuters.com/article/us-mozilla-ceo-resignation/mozilla-ceo-resigns-opposition-to-gay-marriage-drew-fire-idUSBREA321Y320140403)
  - date_published: 2014-04-03T09:11:24+00:00
  - tags: ['censorship', 'intolerance', 'mozilla', 'the left wing']
- - date_dead_since: 2024-09-27T22:33:19.654793+00:00
 
  ## Edward Snowden: US government spied on human rights workers
  - [http://www.theguardian.com/world/2014/apr/08/edwards-snowden-us-government-spied-human-rights-workers](http://www.theguardian.com/world/2014/apr/08/edwards-snowden-us-government-spied-human-rights-workers)
@@ -138,7 +137,6 @@
  - [https://www.bbc.com/news/magazine-28967427](https://www.bbc.com/news/magazine-28967427)
  - date_published: 2014-08-30T11:21:17+00:00
  - tags: ['police', 'racism', 'immigration']
- - date_dead_since: 2024-09-27T22:11:45.877700+00:00
 
  ## Linus Torvalds on his insults: respect should be earned.
  - [https://www.youtube.com/watch?v=JZ017D_JOPY](https://www.youtube.com/watch?v=JZ017D_JOPY)

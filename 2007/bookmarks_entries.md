@@ -33,7 +33,6 @@
  - [https://www.reuters.com/article/us-security-wikipedia-idUSN1642896020070816](https://www.reuters.com/article/us-security-wikipedia-idUSN1642896020070816)
  - date_published: 2007-08-16T20:37:12+00:00
  - tags: ['cia', 'propaganda', 'manufacturing consent', 'fbi', 'wikipedia']
- - date_dead_since: 2024-09-28T03:07:36.519596+00:00
 
  ## Windows Update updating without permission!
  - [http://cubicspot.blogspot.com/2007/08/windows-update-updating-without.html](http://cubicspot.blogspot.com/2007/08/windows-update-updating-without.html)

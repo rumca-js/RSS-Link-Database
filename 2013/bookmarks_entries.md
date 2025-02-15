@@ -217,7 +217,6 @@
  - [https://www.reuters.com/article/china-internet-idINDEE98806R20130909](https://www.reuters.com/article/china-internet-idINDEE98806R20130909)
  - date_published: 2013-09-09T08:38:01+00:00
  - tags: ['disinformation', 'china', 'spreading rumors', 'misinformation']
- - date_dead_since: 2024-09-27T23:23:21.245837+00:00
 
  ## New York Times provides new details about NSA backdoor in crypto spec | Ars Technica
  - [https://arstechnica.com/information-technology/2013/09/new-york-times-provides-new-details-about-nsa-backdoor-in-crypto-spec](https://arstechnica.com/information-technology/2013/09/new-york-times-provides-new-details-about-nsa-backdoor-in-crypto-spec)
@@ -238,7 +237,6 @@
  - [https://www.reuters.com/article/us-nordic-investment-fund-idUSBRE98T0LM20130930](https://www.reuters.com/article/us-nordic-investment-fund-idUSBRE98T0LM20130930)
  - date_published: 2013-09-30T20:58:03+00:00
  - tags: ['sexism', 'feminism', 'norway']
- - date_dead_since: 2024-09-27T23:13:22.004207+00:00
 
  ## Kierownik biura Zielonych w areszcie za pedofilię
  - [https://pch24.pl/kierownik-biura-zielonych-w-areszcie-za-pedofilie](https://pch24.pl/kierownik-biura-zielonych-w-areszcie-za-pedofilie)
@@ -289,7 +287,6 @@
  - [https://www.reuters.com/article/us-usa-security-rsa-idUSBRE9BJ1C220131220](https://www.reuters.com/article/us-usa-security-rsa-idUSBRE9BJ1C220131220)
  - date_published: 2013-12-20T07:26:32+00:00
  - tags: ['crypto wars', 'encryption', 'nsa', 'big brother', 'manufacturing consent', 'surveillance', 'privacy']
- - date_dead_since: 2024-09-27T22:53:27.056549+00:00
 
  ## NSA paid $10 million to put its backdoor in RSA encryption, according to Reuters report
  - [https://www.theverge.com/2013/12/20/5231006/nsa-paid-10-million-for-a-back-door-into-rsa-encryption-according-to](https://www.theverge.com/2013/12/20/5231006/nsa-paid-10-million-for-a-back-door-into-rsa-encryption-according-to)

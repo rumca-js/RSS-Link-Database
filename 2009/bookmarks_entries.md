@@ -7,7 +7,6 @@
  - [https://www.reuters.com/article/us-flu-mexico-sb-idUSTRE53S93K20090429](https://www.reuters.com/article/us-flu-mexico-sb-idUSTRE53S93K20090429)
  - date_published: 2009-04-29T20:15:58+00:00
  - tags: ['mexico', 'swine flu', 'pandemic']
- - date_dead_since: 2024-09-28T02:32:34.390964+00:00
 
  ## Scottish paedophile ring found guilty of more than 50 charges
  - [https://www.theguardian.com/uk/2009/may/07/scottish-paedophile-ring-guilty-child-abuse](https://www.theguardian.com/uk/2009/may/07/scottish-paedophile-ring-guilty-child-abuse)

@@ -135,7 +135,7 @@
             "reggae",
             "random"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/bR9dGWmmbyc/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-AoACoAKKAgwIABABGEogZShhMA8=&rs=AOn4CLCgyJoHSsVYkMc1UruOyNnkej0z3A",
+        "thumbnail": "https://i.ytimg.com/vi/bR9dGWmmbyc/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-AoACoAKKAgwIABABGEkgZShhMA8=&rs=AOn4CLDSdDVkEHi6YWheTeiZyQ6dPHt5HA",
         "title": "Houk- \u017byj\u0119 w tym mie\u015bcie",
         "vote": 0
     },
@@ -175,20 +175,20 @@
         "author": null,
         "bookmarked": true,
         "comments": [],
-        "date_dead_since": "2024-09-28T03:07:36.519596+00:00",
+        "date_dead_since": null,
         "date_published": "2007-08-16T20:37:12+00:00",
         "description": "CIA, FBI computers used for Wikipedia edits | Reuters",
         "id": 39715,
         "language": "en",
         "link": "https://www.reuters.com/article/us-security-wikipedia-idUSN1642896020070816",
         "manual_status_code": 0,
-        "page_rating": 3,
-        "page_rating_contents": 0,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.reuters.com",
-        "status_code": 600,
+        "status_code": 200,
         "tags": [
             "cia",
             "propaganda",
@@ -196,7 +196,7 @@
             "fbi",
             "wikipedia"
         ],
-        "thumbnail": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=186",
+        "thumbnail": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
         "title": "CIA, FBI computers used for Wikipedia edits | Reuters",
         "vote": 0
     },

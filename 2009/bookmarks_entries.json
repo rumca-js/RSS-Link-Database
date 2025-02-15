@@ -34,26 +34,26 @@
         "author": null,
         "bookmarked": true,
         "comments": [],
-        "date_dead_since": "2024-09-28T02:32:34.390964+00:00",
+        "date_dead_since": null,
         "date_published": "2009-04-29T20:15:58+00:00",
         "description": "First Mexico fatal flu victim sought help for days | Reuters",
         "id": 40358,
         "language": "en",
         "link": "https://www.reuters.com/article/us-flu-mexico-sb-idUSTRE53S93K20090429",
         "manual_status_code": 0,
-        "page_rating": 3,
-        "page_rating_contents": 0,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.reuters.com",
-        "status_code": 600,
+        "status_code": 200,
         "tags": [
             "mexico",
             "swine flu",
             "pandemic"
         ],
-        "thumbnail": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=189",
+        "thumbnail": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
         "title": "First Mexico fatal flu victim sought help for days | Reuters",
         "vote": 0
     },
@@ -222,7 +222,7 @@
         "tags": [
             "art"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/GSMCRD35ch4/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGEMgVChlMA8=&rs=AOn4CLDUVkLw9zFUU3qvhO5Kp02fQMW2HA",
+        "thumbnail": "https://i.ytimg.com/vi/GSMCRD35ch4/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLCA6W0k-SDGPMS6HROPIeGM3a7l_A",
         "title": "meow mix",
         "vote": 0
     },
@@ -447,7 +447,7 @@
             "vaccine",
             "swine flu"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/yn3ElOkqND0/hqdefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/yn3ElOkqND0/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHeA4AC3gKKAgwIABABGHIgTig9MA8=&rs=AOn4CLAt5qxPX7B7fy7XKmxyuGoPMOrZpw",
         "title": "Ewa Kopacz accused of being anti NEW WORLD ORDER because she is concerned about the H1N1 vaccination",
         "vote": 0
     },

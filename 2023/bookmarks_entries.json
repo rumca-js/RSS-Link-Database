@@ -48567,6 +48567,36 @@
         "vote": 5
     },
     {
+        "age": 0,
+        "album": null,
+        "author": "Stephen Rivers",
+        "bookmarked": true,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2023-12-03T14:49:00+00:00",
+        "description": "Yes, there's a potential kill switch of sorts coming to future cars but it's aimed squarely at ending drunk driving",
+        "id": 2112109,
+        "language": "en",
+        "link": "https://www.carscoops.com/2023/12/here-are-the-facts-about-the-kill-switch-mandate-for-cars-thats-already-passed",
+        "manual_status_code": 0,
+        "page_rating": 50,
+        "page_rating_contents": 86,
+        "page_rating_visits": 3,
+        "page_rating_votes": 30,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "electric vehicles",
+            "technofeudalism",
+            "kill switch",
+            "surveillance"
+        ],
+        "thumbnail": "https://www.carscoops.com/wp-content/uploads/2023/11/Drunk-Driving-1.jpg",
+        "title": "Here Are The Facts About The Kill Switch Mandate For Cars That's Already Passed | Carscoops",
+        "vote": 30
+    },
+    {
         "age": null,
         "album": "The Washington Post - Tech",
         "author": "The Washington Post - Tech",
