@@ -7,6 +7,7 @@
  - [https://www.buzzfeednews.com/article/peteraldhous/jeffrey-epstein-john-brockman-edge-foundation](https://www.buzzfeednews.com/article/peteraldhous/jeffrey-epstein-john-brockman-edge-foundation)
  - date_published: 2002-08-05T07:11:18+00:00
  - tags: ['jeffrey epstein']
+ - date_dead_since: 2025-02-15T07:06:02.778479+00:00
 
  ## Jeffrey Epstein: International Moneyman of Mystery
  - [https://nymag.com/nymetro/news/people/n_7912](https://nymag.com/nymetro/news/people/n_7912)

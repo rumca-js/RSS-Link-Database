@@ -12,6 +12,7 @@
  - [https://www.nationalreview.com/2017/02/russia-apartment-bombings-september-1999-vladimir-putin-fsb-cia](https://www.nationalreview.com/2017/02/russia-apartment-bombings-september-1999-vladimir-putin-fsb-cia)
  - date_published: 1999-09-04T13:46:04+00:00
  - tags: ['conspiracy theory', 'cia', 'chechnya', 'wladimir putin']
+ - date_dead_since: 2025-02-15T08:07:01.284521+00:00
 
  ## 1999 Russian apartment bombings - Wikipedia
  - [https://en.wikipedia.org/wiki/1999_Russian_apartment_bombings#Sealing_information_by_the_US_government](https://en.wikipedia.org/wiki/1999_Russian_apartment_bombings#Sealing_information_by_the_US_government)

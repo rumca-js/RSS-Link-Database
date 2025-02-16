@@ -95,3 +95,8 @@
  - date_published: 2025-02-10T19:08:29+00:00
  - tags: ['immigration']
 
+ ## Revealed: Google facilitated Russia and China’s censorship requests
+ - [https://www.theguardian.com/world/2025/feb/15/google-helped-facilitate-russia-china-censorship-requests](https://www.theguardian.com/world/2025/feb/15/google-helped-facilitate-russia-china-censorship-requests)
+ - date_published: 2025-02-15T18:18:52+00:00
+ - tags: ['billionaires', 'corporations', 'google']
+
