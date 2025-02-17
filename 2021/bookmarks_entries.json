@@ -12035,7 +12035,7 @@
         "vote": 0
     },
     {
-        "age": null,
+        "age": 15,
         "album": null,
         "author": null,
         "bookmarked": true,
@@ -12047,8 +12047,8 @@
         "language": "en",
         "link": "https://www.bloomberg.com/news/articles/2021-08-19/onlyfans-to-block-sexually-explicit-videos-starting-in-october",
         "manual_status_code": 0,
-        "page_rating": 29,
-        "page_rating_contents": 81,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -21085,7 +21085,7 @@
             "propaganda",
             "the left wing"
         ],
-        "thumbnail": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe0d8eb95-e0f5-413a-9ad2-a68f275e0cb1_5288x3399.jpeg",
+        "thumbnail": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe0d8eb95-e0f5-413a-9ad2-a68f275e0cb1_5288x3399.jpeg",
         "title": "The Media's Verdict on Kyle Rittenhouse",
         "vote": 0
     },

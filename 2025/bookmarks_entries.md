@@ -95,6 +95,16 @@
  - date_published: 2025-02-10T19:08:29+00:00
  - tags: ['immigration']
 
+ ## The UK’s war on encryption affects all of us
+ - [https://www.theverge.com/policy/612136/uk-icloud-investigatory-powers-act-war-on-encryption](https://www.theverge.com/policy/612136/uk-icloud-investigatory-powers-act-war-on-encryption)
+ - date_published: 2025-02-13T13:37:40+00:00
+ - tags: ['technofeudalism', 'surveillance', 'privacy', 'crypto wars']
+
+ ## Sabine Hossenfelder – I was asked to keep this confidential [video]
+ - [https://www.youtube.com/watch?v=shFUDPqVmTg](https://www.youtube.com/watch?v=shFUDPqVmTg)
+ - date_published: 2025-02-15T17:01:06+00:00
+ - tags: ['science is dead']
+
  ## Revealed: Google facilitated Russia and China’s censorship requests
  - [https://www.theguardian.com/world/2025/feb/15/google-helped-facilitate-russia-china-censorship-requests](https://www.theguardian.com/world/2025/feb/15/google-helped-facilitate-russia-china-censorship-requests)
  - date_published: 2025-02-15T18:18:52+00:00
