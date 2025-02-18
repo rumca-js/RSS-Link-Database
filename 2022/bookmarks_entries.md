@@ -2807,11 +2807,6 @@
  - date_published: 2022-06-24T07:34:23+00:00
  - tags: ['ad business', 'search engines']
 
- ## Operation Northwoods, The U.S. False Flag Plot To Incite A War With Cuba
- - [https://allthatsinteresting.com/operation-northwoods](https://allthatsinteresting.com/operation-northwoods)
- - date_published: 2022-06-24T09:25:39+00:00
- - tags: ['all time', '911', 'big brother', 'cuba', 'operation northwoods']
-
  ## GitHub Copilot and open source laundering
  - [https://drewdevault.com/2022/06/23/Copilot-GPL-washing.html](https://drewdevault.com/2022/06/23/Copilot-GPL-washing.html)
  - date_published: 2022-06-24T13:11:23.285687+00:00

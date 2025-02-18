@@ -6770,11 +6770,11 @@
         "permanent": false,
         "source__id": 219,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMiJRAwDNSNzuYeN2uWa0pA",
-        "status_code": 0,
+        "status_code": 200,
         "tags": [
             "social media"
         ],
-        "thumbnail": "https://i1.ytimg.com/vi/4maJty0vQjI/hqdefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/4maJty0vQjI/maxresdefault.jpg",
         "title": "How Social Media is actually a Casino.",
         "vote": 0
     },

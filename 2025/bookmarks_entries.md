@@ -8,6 +8,11 @@
  - date_published: 2025-01-02T19:29:36+00:00
  - tags: ['privacy']
 
+ ## The TikTok Ban Is Also About Hiding Pro-Palestinian Content. Republicans Said So Themselves.
+ - [https://theintercept.com/2025/01/09/tiktok-ban-israel-palestine-republicans](https://theintercept.com/2025/01/09/tiktok-ban-israel-palestine-republicans)
+ - date_published: 2025-01-09T15:51:59+00:00
+ - tags: ['israel', 'censorship']
+
  ## The Origins of Wokeness
  - [https://paulgraham.com/woke.html](https://paulgraham.com/woke.html)
  - date_published: 2025-01-13T13:27:06+00:00
@@ -109,4 +114,9 @@
  - [https://www.theguardian.com/world/2025/feb/15/google-helped-facilitate-russia-china-censorship-requests](https://www.theguardian.com/world/2025/feb/15/google-helped-facilitate-russia-china-censorship-requests)
  - date_published: 2025-02-15T18:18:52+00:00
  - tags: ['billionaires', 'corporations', 'google']
+
+ ## National Security Study Memorandum 200 - Wikipedia
+ - [https://en.wikipedia.org/wiki/National_Security_Study_Memorandum_200](https://en.wikipedia.org/wiki/National_Security_Study_Memorandum_200)
+ - date_published: 2025-02-17T08:30:10+00:00
+ - tags: ['depopulation', 'kissinger']
 
