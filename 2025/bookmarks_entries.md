@@ -120,3 +120,13 @@
  - date_published: 2025-02-17T08:30:10+00:00
  - tags: ['depopulation', 'kissinger']
 
+ ## The Darkside of AI – Transhumanism and the War Against Humanity
+ - [https://www.youtube.com/watch?v=8lQbeMLgt6k](https://www.youtube.com/watch?v=8lQbeMLgt6k)
+ - date_published: 2025-02-17T20:07:52+00:00
+ - tags: ['transhumanism']
+
+ ## YouTube by the numbers: uncovering YouTube's ghost town of billions of unwatched, ignored videos
+ - [https://www.techspot.com/news/106791-youtube-numbers-uncovering-youtube-ghost-town-billions-unwatched.html](https://www.techspot.com/news/106791-youtube-numbers-uncovering-youtube-ghost-town-billions-unwatched.html)
+ - date_published: 2025-02-18T12:21:18+00:00
+ - tags: ['dead internet']
+

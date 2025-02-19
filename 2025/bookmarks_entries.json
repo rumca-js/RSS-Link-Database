@@ -697,5 +697,60 @@
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/National_Security_Study_Memorandum_200.pdf/page1-1200px-National_Security_Study_Memorandum_200.pdf.jpg",
         "title": "National Security Study Memorandum 200 - Wikipedia",
         "vote": 0
+    },
+    {
+        "age": null,
+        "album": "",
+        "author": "Academy of Ideas",
+        "bookmarked": true,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-17T20:07:52+00:00",
+        "description": "Become a Supporting Member! \u25ba http://academyofideas.com/members/\n\nAccess the transcript and art used in this video - https://academyofideas.com/2025/02/darkside-of-ai-transhumanism-and-the-war-against-humanity/\n\nSubstack - https://theacademyofideas.substack.com/\nTwitter - https://twitter.com/academyofideas\nInstagram - https://www.instagram.com/academyofideas/\nSpotify - https://open.spotify.com/show/2dio7KUNuDHErlMumZtNt6\niTunes - https://podcasts.apple.com/ca/podcast/academy-of-ideas/id1364706343\nRumble - https://rumble.com/c/academyofideas\nOdysee - https://odysee.com/@academyofideas:3\n\nPrefer to Support us with a One-Time Donation?\nPaypal  \u25ba https://www.paypal.me/academyofideas\nBitcoin: 1P6ntukFENP1nvEf4bJNj3tsDEuiSyUFW6\n\nVisit academyofideas.com for all our content.",
+        "id": 2135223,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=8lQbeMLgt6k",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 11,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiRiQGCHGjDLT9FQXFW0I3A",
+        "status_code": 0,
+        "tags": [
+            "transhumanism"
+        ],
+        "thumbnail": "https://i1.ytimg.com/vi/8lQbeMLgt6k/hqdefault.jpg",
+        "title": "The Darkside of AI \u2013 Transhumanism and the War Against Humanity",
+        "vote": 0
+    },
+    {
+        "age": 0,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-18T12:21:18+00:00",
+        "description": "A team of researchers led by Ethan Zuckerman at the University of Massachusetts Amherst has devised an ingenious approach to peek behind YouTube's tightly guarded curtain. They...",
+        "id": 2138392,
+        "language": "en-US",
+        "link": "https://www.techspot.com/news/106791-youtube-numbers-uncovering-youtube-ghost-town-billions-unwatched.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "dead internet"
+        ],
+        "thumbnail": "https://www.techspot.com/images2/news/bigimage/2025/02/2025-02-16-image-21.jpg",
+        "title": "YouTube by the numbers: uncovering YouTube's ghost town of billions of unwatched, ignored videos",
+        "vote": 0
     }
 ]
