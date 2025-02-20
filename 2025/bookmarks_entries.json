@@ -613,6 +613,34 @@
         "vote": 0
     },
     {
+        "age": 0,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-14T10:08:31+00:00",
+        "description": "Deportation of man jailed for more than five years for child sex offences blocked by immigration tribunal judge",
+        "id": 2146112,
+        "language": "en",
+        "link": "https://www.telegraph.co.uk/news/2025/02/14/zimbabwean-paedophile-allowed-to-stay-in-uk",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "paedophilia",
+            "immigration"
+        ],
+        "thumbnail": "https://www.telegraph.co.uk/content/dam/news/2025/02/14/TELEMMGLPICT000412225546_17395424939420_trans_NvBQzQNjv4Bq-IWLY18X4-CzgyIcjLEAj0k9u7HhRJvuo-ZLenGRumA.jpeg?impolicy=OG-Standard",
+        "title": "Zimbabwean paedophile allowed to stay in UK because he would face \u2018hostility\u2019 back home",
+        "vote": 0
+    },
+    {
         "age": null,
         "album": "",
         "author": null,
