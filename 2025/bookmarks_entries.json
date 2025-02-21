@@ -780,5 +780,62 @@
         "thumbnail": "https://www.techspot.com/images2/news/bigimage/2025/02/2025-02-16-image-21.jpg",
         "title": "YouTube by the numbers: uncovering YouTube's ghost town of billions of unwatched, ignored videos",
         "vote": 0
+    },
+    {
+        "age": 0,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-19T14:57:33+00:00",
+        "description": "",
+        "id": 2156653,
+        "language": "en",
+        "link": "https://phys.org/news/2025-02-democracy-crisis-democratic-declining-world.html",
+        "manual_status_code": 200,
+        "page_rating": 30,
+        "page_rating_contents": 66,
+        "page_rating_visits": 4,
+        "page_rating_votes": 10,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 429,
+        "tags": [
+            "plutocracy",
+            "billionaires",
+            "democracy"
+        ],
+        "thumbnail": null,
+        "title": "Democracy in crisis: Trust in democratic institutions declining around the world",
+        "vote": 10
+    },
+    {
+        "age": 0,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-20T17:43:49+00:00",
+        "description": "Longer wait time designed to push print or PC consumers to digital support channels, sorry, 'self-solve'",
+        "id": 2157934,
+        "language": "en",
+        "link": "https://www.theregister.com/2025/02/20/hp_deliberately_adds_15_minutes",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "dark patterns",
+            "technofeudalism"
+        ],
+        "thumbnail": "https://regmedia.co.uk/2016/05/25/shutterstock_on_hold.jpg",
+        "title": "HP adds 15 minutes waiting time for telephone support calls",
+        "vote": 0
     }
 ]

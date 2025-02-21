@@ -135,3 +135,13 @@
  - date_published: 2025-02-18T12:21:18+00:00
  - tags: ['dead internet']
 
+ ## Democracy in crisis: Trust in democratic institutions declining around the world
+ - [https://phys.org/news/2025-02-democracy-crisis-democratic-declining-world.html](https://phys.org/news/2025-02-democracy-crisis-democratic-declining-world.html)
+ - date_published: 2025-02-19T14:57:33+00:00
+ - tags: ['plutocracy', 'billionaires', 'democracy']
+
+ ## HP adds 15 minutes waiting time for telephone support calls
+ - [https://www.theregister.com/2025/02/20/hp_deliberately_adds_15_minutes](https://www.theregister.com/2025/02/20/hp_deliberately_adds_15_minutes)
+ - date_published: 2025-02-20T17:43:49+00:00
+ - tags: ['dark patterns', 'technofeudalism']
+
