@@ -1510,10 +1510,10 @@
         "language": "en",
         "link": "https://www.youtube.com/watch?v=9fvETktnaRw",
         "manual_status_code": 0,
-        "page_rating": 30,
+        "page_rating": 50,
         "page_rating_contents": 86,
-        "page_rating_visits": 0,
-        "page_rating_votes": 0,
+        "page_rating_visits": 2,
+        "page_rating_votes": 30,
         "permanent": false,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5hWk56PCwg1D11kDgtMg_w",
         "status_code": 200,
@@ -1522,7 +1522,7 @@
         ],
         "thumbnail": "https://i.ytimg.com/vi/9fvETktnaRw/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGGUgVChJMA8=&rs=AOn4CLAPgt_5f1dCQO0GxoKzEDeQNdzZYA",
         "title": "An old mans advice.",
-        "vote": 0
+        "vote": 30
     },
     {
         "age": null,

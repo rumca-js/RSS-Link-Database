@@ -145,3 +145,13 @@
  - date_published: 2025-02-20T17:43:49+00:00
  - tags: ['dark patterns', 'technofeudalism']
 
+ ## Apple pulls data protection feature in UK amid government demands
+ - [https://www.reuters.com/technology/apple-removing-end-to-end-cloud-encryption-feature-uk-bloomberg-news-reports-2025-02-21](https://www.reuters.com/technology/apple-removing-end-to-end-cloud-encryption-feature-uk-bloomberg-news-reports-2025-02-21)
+ - date_published: 2025-02-22T08:21:09+00:00
+ - tags: ['surveillance', 'privacy', 'crypto wars']
+
+ ## Algorithms are breaking how we think
+ - [https://www.youtube.com/watch?v=QEJpZjg8GuA](https://www.youtube.com/watch?v=QEJpZjg8GuA)
+ - date_published: 2025-02-22T17:04:13+00:00
+ - tags: ['digital dementia']
+

@@ -1,3 +1,8 @@
+ ## Robert Maxwell, Israel's Superspy: The Life and Murder of a Media Mogul : Gordon Thomas : Free Download, Borrow, and Streaming : Internet Archive
+ - [https://archive.org/details/thomas_gordon_dillon_martin_robert_maxwell_israels_superspy](https://archive.org/details/thomas_gordon_dillon_martin_robert_maxwell_israels_superspy)
+ - date_published: 2002-02-22T22:19:05+00:00
+ - tags: ['ghislaine maxwell', 'robert maxwell', 'jeffrey epstain']
+
  ## Why did intelligence backdoors get into IBM groupware?
  - [https://gigazine.net/gsc_news/en/20191223-lotus-notes-nsa-backdoor](https://gigazine.net/gsc_news/en/20191223-lotus-notes-nsa-backdoor)
  - date_published: 2002-05-18T13:10:31+00:00

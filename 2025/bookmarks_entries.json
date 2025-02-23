@@ -837,5 +837,62 @@
         "thumbnail": "https://regmedia.co.uk/2016/05/25/shutterstock_on_hold.jpg",
         "title": "HP adds 15 minutes waiting time for telephone support calls",
         "vote": 0
+    },
+    {
+        "age": 0,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-22T08:21:09+00:00",
+        "description": "Apple is scrapping its most advanced security encryption feature for cloud data in Britain, the company said on Friday, an unprecedented response to government demands for access to user data.",
+        "id": 2170497,
+        "language": "en",
+        "link": "https://www.reuters.com/technology/apple-removing-end-to-end-cloud-encryption-feature-uk-bloomberg-news-reports-2025-02-21",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "surveillance",
+            "privacy",
+            "crypto wars"
+        ],
+        "thumbnail": "https://www.reuters.com/resizer/v2/LADPATVS7FKXPFTYTCP5H5VONA.jpg?auth=a4d6310075ec4c07631358b9e8576d2e460bb940bc0d58e5d667e1d113411408&height=1005&width=1920&quality=80&smart=true",
+        "title": "Apple pulls data protection feature in UK amid government demands",
+        "vote": 0
+    },
+    {
+        "age": null,
+        "album": "",
+        "author": "Technology Connections",
+        "bookmarked": true,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-22T17:04:13+00:00",
+        "description": "This surely won't make me seem like a crank.\nFurther watching:\n\n@HGModernism on addiction to scrolling and the Skinner box mechanism:\nhttps://www.youtube.com/watch?v=bNOol5OTasw\n@acollierastro on the AI hype cycle and how professionals understand there's nothing new here\nhttps://www.youtube.com/watch?v=rFGcqWbwvyc\n\nTechnology Connextras (the second channel where I put stuff sometimes)\nhttps://www.youtube.com/@TechnologyConnextras\n\nTechnology Connections on Bluesky:\nhttps://bsky.app/profile/techconnectify.bsky.social\n\nTechnology Connections on Mastodon:\nhttps://mas.to/@TechConnectify\n\nHave you ever noticed that I've never done that whole influencer thing? That's all thanks to people like you! Viewer support through Patreon keeps this channel independent and possible. It's how I can express my true thoughts on what YouTube's business daddy (and Silicon Valley at large) are up to. If you'd like to join the amazing folks who fund my work, check out the link below. And thank you!\nhttps://",
+        "id": 2173529,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=QEJpZjg8GuA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 328,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCy0tKL1T7wFoYcxCe0xjN6Q",
+        "status_code": 0,
+        "tags": [
+            "digital dementia"
+        ],
+        "thumbnail": "https://i2.ytimg.com/vi/QEJpZjg8GuA/hqdefault.jpg",
+        "title": "Algorithms are breaking how we think",
+        "vote": 0
     }
 ]

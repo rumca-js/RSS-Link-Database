@@ -191,10 +191,10 @@
         "language": "en-EN",
         "link": "https://www.youtube.com/watch?v=d-7o9xYp7eE",
         "manual_status_code": 0,
-        "page_rating": 30,
+        "page_rating": 63,
         "page_rating_contents": 86,
-        "page_rating_visits": 0,
-        "page_rating_votes": 0,
+        "page_rating_visits": 1,
+        "page_rating_votes": 50,
         "permanent": false,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaVCxGpbDeDI47HDmPYkFCQ",
         "status_code": 200,
@@ -207,7 +207,7 @@
         ],
         "thumbnail": "https://i.ytimg.com/vi/d-7o9xYp7eE/hqdefault.jpg",
         "title": "Regend University Of Law: Don't Talk to the Police",
-        "vote": 0
+        "vote": 50
     },
     {
         "age": null,

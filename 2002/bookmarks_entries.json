@@ -1,5 +1,34 @@
 [
     {
+        "age": 0,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2002-02-22T22:19:05+00:00",
+        "description": "Robert Maxwell -- ruthless, volatile, defiant; a man of gargantuan appetites, for food, wine, women, power, money -- unabashedly bared his ambition to the...",
+        "id": 2174520,
+        "language": "en",
+        "link": "https://archive.org/details/thomas_gordon_dillon_martin_robert_maxwell_israels_superspy",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "ghislaine maxwell",
+            "robert maxwell",
+            "jeffrey epstain"
+        ],
+        "thumbnail": "https://archive.org/services/img/thomas_gordon_dillon_martin_robert_maxwell_israels_superspy",
+        "title": "Robert Maxwell, Israel's Superspy: The Life and Murder of a Media Mogul : Gordon Thomas : Free Download, Borrow, and Streaming : Internet Archive",
+        "vote": 0
+    },
+    {
         "age": null,
         "album": "https://gigazine.net",
         "author": "https://gigazine.net",
