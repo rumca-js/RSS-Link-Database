@@ -45499,8 +45499,8 @@
         "language": "en",
         "link": "https://www.bloomberg.com/news/articles/2023-10-06/google-changed-ad-auctions-raising-prices-15-witness-says",
         "manual_status_code": 0,
-        "page_rating": 29,
-        "page_rating_contents": 81,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -45612,8 +45612,8 @@
         "language": "en",
         "link": "https://www.bloomberg.com/news/articles/2023-10-09/ing-german-executive-says-bank-is-dropping-high-co2-risk-clients",
         "manual_status_code": 0,
-        "page_rating": 29,
-        "page_rating_contents": 81,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -45652,7 +45652,7 @@
             "artificial intelligence",
             "climate change"
         ],
-        "thumbnail": "https://cdn.vox-cdn.com/thumbor/G2BlgSnJwceVDrHT5wxgcgWG4wg=/0x0:8192x5464/1200x628/filters:focal(4096x2732:4097x2733)/cdn.vox-cdn.com/uploads/chorus_asset/file/24991578/1709348268.jpg",
+        "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24991578/1709348268.jpg?quality=90&strip=all&crop=0%2C10.75214828329%2C100%2C78.49570343342&w=1200",
         "title": "The environmental impact of the AI revolution is starting to come into focus",
         "vote": 0
     },
@@ -45872,7 +45872,7 @@
             "israel",
             "palestine"
         ],
-        "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2023/10/INTERACTIVE-LIVE-TRACKER-GAZA-June10-2024-1000GMT_Outside-image-1718015337.jpg?resize=1200%2C630",
+        "thumbnail": "https://www.aljazeera.com/wp-content/uploads/2023/10/INTERACTIVE-LIVE-TRACKER-GAZA__LEBANON_FEB5_2025_0900GMT-2025_Outside-image-1738581940.jpg?resize=1200%2C630",
         "title": "Israel-Gaza war in maps and charts: Live Tracker",
         "vote": 0
     },
@@ -45901,7 +45901,7 @@
             "jeffrey epstein",
             "jes staley"
         ],
-        "thumbnail": "https://i.guim.co.uk/img/media/14d779e1d8e68186d1c659f1cd801eacdfa0b0c8/0_585_7257_4354/master/7257.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=95e0eaac3ee6b0b3c514ebe2a43b954f",
+        "thumbnail": "https://i.guim.co.uk/img/media/14d779e1d8e68186d1c659f1cd801eacdfa0b0c8/0_585_7257_4354/master/7257.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjMucG5n&enable=upscale&s=ec49949bc403bd09d32b828f0fb5c8dd",
         "title": "\u2018Call me\u2019: FCA releases messages between former Barclays boss and Jeffrey Epstein",
         "vote": 0
     },
@@ -45920,7 +45920,7 @@
         "manual_status_code": 0,
         "page_rating": 30,
         "page_rating_contents": 86,
-        "page_rating_visits": 0,
+        "page_rating_visits": 1,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 141,
@@ -45973,8 +45973,8 @@
         "language": "en",
         "link": "https://www.ft.com/content/7b9505ac-94c3-4688-a84d-cbecbf4f1f3b",
         "manual_status_code": 0,
-        "page_rating": 29,
-        "page_rating_contents": 81,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -45985,7 +45985,7 @@
             "jeffrey epstein",
             "jes staley"
         ],
-        "thumbnail": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3f76d5e4-bcff-40f9-9be9-f8b25a85dc58.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "thumbnail": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3f76d5e4-bcff-40f9-9be9-f8b25a85dc58.jpg?source=next-barrier-page",
         "title": "\u2018Most cherished friend\u2019: UK unearths messages from Staley to Epstein",
         "vote": 0
     },
@@ -46098,7 +46098,7 @@
         "tags": [
             "wikipedia"
         ],
-        "thumbnail": "https://matt-rickard.com/static/an-intelligent-wikipedia/og.png",
+        "thumbnail": "https://mattrickard.com/static/an-intelligent-wikipedia/og.png",
         "title": "An Intelligent Wikipedia",
         "vote": 0
     },
@@ -46139,25 +46139,25 @@
         "author": "https://free.messianicbible.com",
         "bookmarked": true,
         "comments": [],
-        "date_dead_since": "2024-10-02T10:32:25.120916+00:00",
+        "date_dead_since": null,
         "date_published": "2023-10-14T20:45:16+00:00",
         "description": "End-Time Prophecy: Why is the Third Temple so Important? | Messianic Bible",
         "id": 35737,
         "language": "en-US",
         "link": "https://free.messianicbible.com/feature/end-time-prophecy-why-is-the-third-temple-so-important",
         "manual_status_code": 0,
-        "page_rating": 3,
-        "page_rating_contents": 0,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://free.messianicbible.com",
-        "status_code": 600,
+        "status_code": 200,
         "tags": [
             "israel",
             "third temple"
         ],
-        "thumbnail": "https://free.messianicbible.com/wp-content/uploads/2017/01/1080_2nd-temple.jpg",
+        "thumbnail": "https://www.messianicbible.com/wp-content/uploads/2017/01/1080_2nd-temple.jpg",
         "title": "End-Time Prophecy: Why is the Third Temple so Important? | Messianic Bible",
         "vote": 0
     },
@@ -46233,7 +46233,7 @@
         "page_rating_contents": 90,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
-        "permanent": true,
+        "permanent": false,
         "source__id": 141,
         "source_url": "https://hnrss.org/frontpage",
         "status_code": 200,
@@ -46241,7 +46241,7 @@
             "youtube",
             "selfhost"
         ],
-        "thumbnail": "https://opengraph.githubassets.com/53ac15e14f4ecdf2f4bea19097c2456267d751bdaac8663ef0046b9ade721a40/TeamPiped/Piped",
+        "thumbnail": "https://opengraph.githubassets.com/073e334d6e9e776da390195f9e0b49358bb8b8c9013016be0bbdf307a7ef3630/TeamPiped/Piped",
         "title": "Piped \u2013 An alternative privacy-friendly YouTube front end",
         "vote": 0
     },
@@ -46262,14 +46262,14 @@
         "page_rating_contents": 91,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
-        "permanent": true,
+        "permanent": false,
         "source__id": 141,
         "source_url": "https://hnrss.org/frontpage",
         "status_code": 200,
         "tags": [
             "malvertising"
         ],
-        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/warning-760x380.jpg",
+        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/warning-1152x648.jpg",
         "title": "Google-hosted malvertising leads to fake Keepass site that looks genuine",
         "vote": 0
     },
@@ -46286,18 +46286,18 @@
         "language": "en",
         "link": "https://www.pcmag.com/news/google-will-soon-scan-sideloaded-android-apps-for-malicious-code",
         "manual_status_code": 0,
-        "page_rating": 19,
-        "page_rating_contents": 50,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.pcmag.com",
-        "status_code": 403,
+        "status_code": 200,
         "tags": [
             "technofeudalism",
             "google"
         ],
-        "thumbnail": null,
+        "thumbnail": "https://i.pcmag.com/imagery/articles/07bOevzzif4QP8fsAawAhPg-1.fit_lim.size_1200x630.v1697730328.png",
         "title": "Google Will Soon Scan Sideloaded Android Apps for Malicious Code",
         "vote": 0
     },
@@ -46406,7 +46406,7 @@
         "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
-        "permanent": true,
+        "permanent": false,
         "source__id": 141,
         "source_url": "https://hnrss.org/frontpage",
         "status_code": 200,
@@ -46441,7 +46441,7 @@
             "artificial intelligence",
             "stable diffusion"
         ],
-        "thumbnail": "https://opengraph.githubassets.com/4977faeaa25861d7c1dbaad79b8ac4e651fbee03f24ec7754b8f590fed8bbd7b/Stability-AI/stablediffusion",
+        "thumbnail": "https://opengraph.githubassets.com/dc0ead1b856ff110fbdb4d4f6495b66fdfe357e9b5564649fa5b9777e802b891/Stability-AI/stablediffusion",
         "title": "GitHub - Stability-AI/stablediffusion: High-Resolution Image Synthesis with Latent Diffusion Models",
         "vote": 0
     },
@@ -46464,7 +46464,7 @@
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.perplexity.ai",
-        "status_code": 403,
+        "status_code": 200,
         "tags": [
             "search engine",
             "artificial intelligence"
@@ -46518,7 +46518,7 @@
         "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
-        "permanent": true,
+        "permanent": false,
         "source__id": 359,
         "source_url": "https://www.theverge.com/rss/index.xml",
         "status_code": 200,
@@ -46529,7 +46529,7 @@
             "monopoly",
             "posse"
         ],
-        "thumbnail": "https://cdn.vox-cdn.com/thumbor/Qc0VmdsNGUhdC31iK-Z56GKB9kI=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/24596746/236620_Activitypub_New_Social_Protocol_HHerrera.jpeg",
+        "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24596746/236620_Activitypub_New_Social_Protocol_HHerrera.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "The poster\u2019s guide to the internet of the future",
         "vote": 0
     },
@@ -46605,7 +46605,7 @@
         "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
-        "permanent": true,
+        "permanent": false,
         "source__id": 412,
         "source_url": "https://www.rp.pl/rss_main",
         "status_code": 200,
@@ -46662,7 +46662,7 @@
         "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
-        "permanent": true,
+        "permanent": false,
         "source_url": "https://www.rt.com/rss/",
         "status_code": 200,
         "tags": [
@@ -46696,7 +46696,7 @@
             "climate change",
             "electric vehicles"
         ],
-        "thumbnail": "https://i.iplsc.com/-/000HW1I1JFH7LD4H-C461-F4.jpg",
+        "thumbnail": "https://i.iplsc.com/-/000HW1I1JFH7LD4H-C461.webp",
         "title": "Pytania o elektryczn\u0105 rewolucj\u0119. Koncerny m\u00f3wi\u0105 o powa\u017cnym problemie",
         "vote": 0
     },
@@ -46717,7 +46717,7 @@
         "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
-        "permanent": true,
+        "permanent": false,
         "source__id": 359,
         "source_url": "https://www.theverge.com/rss/index.xml",
         "status_code": 200,
@@ -46725,7 +46725,7 @@
             "search engines",
             "seo"
         ],
-        "thumbnail": "https://cdn.vox-cdn.com/thumbor/KvWQmf6AFTw6GQZTTIB6XFSOfRs=/0x0:2048x1365/1200x628/filters:focal(1024x683:1025x684)/cdn.vox-cdn.com/uploads/chorus_asset/file/25035103/236865_The_people_who_ruined_the_internet_SCestaro_001.jpg",
+        "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25035103/236865_The_people_who_ruined_the_internet_SCestaro_001.jpg?quality=90&strip=all&crop=0%2C10.723395278369%2C100%2C78.553209443262&w=1200",
         "title": "The people who ruined the internet",
         "vote": 0
     },
@@ -46746,7 +46746,7 @@
         "page_rating_contents": 90,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
-        "permanent": true,
+        "permanent": false,
         "source__id": 141,
         "source_url": "https://hnrss.org/frontpage",
         "status_code": 200,
@@ -46887,7 +46887,7 @@
         "language": "en-US",
         "link": "https://www.wsj.com/articles/inside-jeffrey-epsteins-circle-7ae25452",
         "manual_status_code": 0,
-        "page_rating": 3,
+        "page_rating": 0,
         "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
@@ -46919,7 +46919,7 @@
         "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
-        "permanent": true,
+        "permanent": false,
         "source__id": 141,
         "source_url": "https://hnrss.org/frontpage",
         "status_code": 200,
@@ -46976,7 +46976,7 @@
         "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
-        "permanent": true,
+        "permanent": false,
         "source__id": 56,
         "source_url": "https://www.nbcnews.com/feed",
         "status_code": 200,
@@ -47066,7 +47066,7 @@
         "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
-        "permanent": true,
+        "permanent": false,
         "source__id": 141,
         "source_url": "https://hnrss.org/frontpage",
         "status_code": 200,

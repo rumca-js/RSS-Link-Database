@@ -7996,7 +7996,6 @@
  - [https://free.messianicbible.com/feature/end-time-prophecy-why-is-the-third-temple-so-important](https://free.messianicbible.com/feature/end-time-prophecy-why-is-the-third-temple-so-important)
  - date_published: 2023-10-14T20:45:16+00:00
  - tags: ['israel', 'third temple']
- - date_dead_since: 2024-10-02T10:32:25.120916+00:00
 
  ## Third Temple - Wikipedia
  - [https://en.wikipedia.org/wiki/Third_Temple](https://en.wikipedia.org/wiki/Third_Temple)
