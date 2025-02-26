@@ -300,6 +300,11 @@
  - date_published: 2015-11-25T08:58:29+00:00
  - tags: ['telemetry', 'windows', 'privacy']
 
+ ## Israelis not Muslims were arrested in U.S. after 'celebrating' 9/11
+ - [https://www.digitaljournal.com/world/israelis-not-muslims-were-arrested-in-us-after-celebrating-9-11/article/450612](https://www.digitaljournal.com/world/israelis-not-muslims-were-arrested-in-us-after-celebrating-9-11/article/450612)
+ - date_published: 2015-11-27T20:14:48+00:00
+ - tags: ['israel', '911']
+
  ## Prezydent Kennedy o tajnych stowarzyszeniach i światowym spisku
  - [https://www.youtube.com/watch?v=HwpgfgAbxYM](https://www.youtube.com/watch?v=HwpgfgAbxYM)
  - date_published: 2015-12-15T08:19:46+00:00

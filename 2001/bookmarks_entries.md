@@ -18,6 +18,11 @@
  - date_published: 2001-09-26T15:34:58+00:00
  - tags: ['israel', '911']
 
+ ## 5 Young Israelis, Caught in Net of Suspicion (Published 2001)
+ - [https://www.nytimes.com/2001/10/08/nyregion/5-young-israelis-caught-in-net-of-suspicion.html](https://www.nytimes.com/2001/10/08/nyregion/5-young-israelis-caught-in-net-of-suspicion.html)
+ - date_published: 2001-10-08T07:00:00+00:00
+ - tags: ['israel', '911']
+
  ## The Conspiracy Theorist Who Predicted His Own Death | Tales From the Bottle
  - [https://www.youtube.com/watch?v=eLyyaT2w4pc](https://www.youtube.com/watch?v=eLyyaT2w4pc)
  - date_published: 2001-10-23T00:00:00+00:00

@@ -320,6 +320,33 @@
         "vote": 0
     },
     {
+        "age": 0,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2010-06-25T22:24:17+00:00",
+        "description": "",
+        "id": 2194367,
+        "language": "en-US",
+        "link": "https://www.cbsnews.com/news/doc-who-faked-pfizer-studies-gets-6-months-in-prison-showing-why-gift-bans-are-a-good-idea",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "science is dead"
+        ],
+        "thumbnail": "https://assets1.cbsnewsstatic.com/hub/i/r/2015/04/29/340c23e5-e5a3-40ef-bf68-dcc84ef47c4b/thumbnail/1200x630/6e2e666786e7a06c8786e0cd609401f5/restrictedimagesub.jpg?v=8530dec12e70cec71e9990a5fbc34391",
+        "title": "Doc Who Faked Pfizer Studies Gets 6 Months in Prison, Showing Why Gift Bans Are a Good Idea",
+        "vote": 0
+    },
+    {
         "age": null,
         "album": null,
         "author": null,

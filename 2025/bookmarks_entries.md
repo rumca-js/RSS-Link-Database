@@ -118,7 +118,7 @@
  ## Revealed: Google facilitated Russia and China’s censorship requests
  - [https://www.theguardian.com/world/2025/feb/15/google-helped-facilitate-russia-china-censorship-requests](https://www.theguardian.com/world/2025/feb/15/google-helped-facilitate-russia-china-censorship-requests)
  - date_published: 2025-02-15T18:18:52+00:00
- - tags: ['billionaires', 'corporations', 'google']
+ - tags: ['google', 'corporations', 'russia', 'china', 'billionaires']
 
  ## National Security Study Memorandum 200 - Wikipedia
  - [https://en.wikipedia.org/wiki/National_Security_Study_Memorandum_200](https://en.wikipedia.org/wiki/National_Security_Study_Memorandum_200)
@@ -144,6 +144,11 @@
  - [https://www.theregister.com/2025/02/20/hp_deliberately_adds_15_minutes](https://www.theregister.com/2025/02/20/hp_deliberately_adds_15_minutes)
  - date_published: 2025-02-20T17:43:49+00:00
  - tags: ['dark patterns', 'technofeudalism']
+
+ ## Why is YouTube boosting anti-US, pro-Chinese communist propaganda?
+ - [https://thehill.com/opinion/international/5155350-youtube-promoting-pro-china](https://thehill.com/opinion/international/5155350-youtube-promoting-pro-china)
+ - date_published: 2025-02-21T12:00:00+00:00
+ - tags: ['corporatocracy', 'china']
 
  ## Apple pulls data protection feature in UK amid government demands
  - [https://www.reuters.com/technology/apple-removing-end-to-end-cloud-encryption-feature-uk-bloomberg-news-reports-2025-02-21](https://www.reuters.com/technology/apple-removing-end-to-end-cloud-encryption-feature-uk-bloomberg-news-reports-2025-02-21)

@@ -53,6 +53,11 @@
  - date_published: 2010-05-14T08:48:45+00:00
  - tags: ['law', 'google', 'corporatocracy', 'surveillance', 'privacy']
 
+ ## Doc Who Faked Pfizer Studies Gets 6 Months in Prison, Showing Why Gift Bans Are a Good Idea
+ - [https://www.cbsnews.com/news/doc-who-faked-pfizer-studies-gets-6-months-in-prison-showing-why-gift-bans-are-a-good-idea](https://www.cbsnews.com/news/doc-who-faked-pfizer-studies-gets-6-months-in-prison-showing-why-gift-bans-are-a-good-idea)
+ - date_published: 2010-06-25T22:24:17+00:00
+ - tags: ['science is dead']
+
  ## Nestlé drives rainforest destruction pushing orangutans to brink of extinction - Greenpeace USA
  - [https://www.greenpeace.org/usa/news/nestle-drives-rainforest-destr](https://www.greenpeace.org/usa/news/nestle-drives-rainforest-destr)
  - date_published: 2010-07-06T12:23:40+00:00

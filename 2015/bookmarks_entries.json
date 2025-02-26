@@ -1745,6 +1745,34 @@
         "vote": 0
     },
     {
+        "age": 0,
+        "album": null,
+        "author": "Brett Wilkins",
+        "bookmarked": true,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2015-11-27T20:14:48+00:00",
+        "description": "\"Hey, I watched when the World Trade Center came tumbling down,\" Trump said while calling for surveillance of \"certain\" mosques during a campaign speech",
+        "id": 2192050,
+        "language": "en-US",
+        "link": "https://www.digitaljournal.com/world/israelis-not-muslims-were-arrested-in-us-after-celebrating-9-11/article/450612",
+        "manual_status_code": 0,
+        "page_rating": 37,
+        "page_rating_contents": 86,
+        "page_rating_visits": 2,
+        "page_rating_votes": 10,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "israel",
+            "911"
+        ],
+        "thumbnail": null,
+        "title": "Israelis not Muslims were arrested in U.S. after 'celebrating' 9/11",
+        "vote": 10
+    },
+    {
         "age": null,
         "album": null,
         "author": null,
