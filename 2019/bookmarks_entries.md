@@ -808,6 +808,11 @@
  - date_published: 2019-10-18T07:29:13+00:00
  - tags: ['covid', 'bill gates', 'pandemic', 'event 201']
 
+ ## What Hunter Biden did on the board of Ukrainian energy company Burisma
+ - [https://www.reuters.com/article/world/us-politics/what-hunter-biden-did-on-the-board-of-ukrainian-energy-company-burisma-idUSKBN1WX1P6](https://www.reuters.com/article/world/us-politics/what-hunter-biden-did-on-the-board-of-ukrainian-energy-company-burisma-idUSKBN1WX1P6)
+ - date_published: 2019-10-18T12:18:08+00:00
+ - tags: ['joe biden', 'ukraine', 'hunter biden']
+
  ## FBI w polskiej chmurze. Tajemnice polskich firm zagrożone? - rp.pl
  - [https://cyfrowa.rp.pl/globalne-interesy/art17977641-fbi-w-polskiej-chmurze-tajemnice-polskich-firm-zagrozone](https://cyfrowa.rp.pl/globalne-interesy/art17977641-fbi-w-polskiej-chmurze-tajemnice-polskich-firm-zagrozone)
  - date_published: 2019-10-20T09:04:25+00:00
@@ -876,6 +881,11 @@
  - [https://www.youtube.com/watch?v=JN8Qm5o0oSY](https://www.youtube.com/watch?v=JN8Qm5o0oSY)
  - date_published: 2019-11-09T00:00:00+00:00
  - tags: ['movies']
+
+ ## Joe Biden, Hunter Biden, Ukraine
+ - [https://www.nytimes.com/2019/11/10/us/politics/joe-biden-ukraine.html](https://www.nytimes.com/2019/11/10/us/politics/joe-biden-ukraine.html)
+ - date_published: 2019-11-10T12:19:20+00:00
+ - tags: ['joe biden', 'ukraine', 'hunter biden']
 
  ## YouTube says it has ‘no obligation’ to host anyone’s video
  - [https://www.theverge.com/2019/11/11/20955864/youtube-terms-of-service-update-terminations-children-content-ftc](https://www.theverge.com/2019/11/11/20955864/youtube-terms-of-service-update-terminations-children-content-ftc)

@@ -960,6 +960,11 @@
  - date_published: 2024-07-11T09:23:32+00:00
  - tags: ['dark design', 'dark patterns']
 
+ ## Attempted assassination of Donald Trump in Pennsylvania - Wikipedia
+ - [https://en.wikipedia.org/wiki/Attempted_assassination_of_Donald_Trump_in_Pennsylvania](https://en.wikipedia.org/wiki/Attempted_assassination_of_Donald_Trump_in_Pennsylvania)
+ - date_published: 2024-07-13T12:13:18+00:00
+ - tags: ['donald trump']
+
  ## Facebook Is the 'Zombie Internet'
  - [https://www.404media.co/email/24eb6cea-6fa6-4b98-a2d2-8c4ba33d6c04](https://www.404media.co/email/24eb6cea-6fa6-4b98-a2d2-8c4ba33d6c04)
  - date_published: 2024-07-15T22:17:21+00:00

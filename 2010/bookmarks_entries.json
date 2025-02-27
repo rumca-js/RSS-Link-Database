@@ -347,6 +347,34 @@
         "vote": 0
     },
     {
+        "age": 0,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2010-06-28T22:29:26+00:00",
+        "description": "Vice President Joe Biden remembered the late Sen. Robert Byrd fondly Monday, mourning the loss of his \u201cdear friend.\u201d",
+        "id": 2198421,
+        "language": "en-US",
+        "link": "https://thehill.com/homenews/administration/105897-biden-remembers-byrd-as-mentor-and-dear-friend",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "joe biden",
+            "roberty byrd"
+        ],
+        "thumbnail": "https://thehill.com/wp-content/uploads/sites/2/2023/03/cropped-favicon-512px-1.png?strip=1",
+        "title": "Biden remembers Byrd as mentor and \u2018dear friend\u2019",
+        "vote": 0
+    },
+    {
         "age": null,
         "album": null,
         "author": null,

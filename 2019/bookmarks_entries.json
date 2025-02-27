@@ -4644,6 +4644,35 @@
         "vote": 0
     },
     {
+        "age": 0,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2019-10-18T12:18:08+00:00",
+        "description": "KIEV (Reuters) - During his time on the board of one of Ukraine\u2019s largest natural gas companies, Hunter Biden, the son of former U.S. Vice-President Joe Biden, was regarded as a helpful non-executive director with a powerful name, according to people familiar with Biden\u2019s role at the company.",
+        "id": 2198395,
+        "language": "en-US",
+        "link": "https://www.reuters.com/article/world/us-politics/what-hunter-biden-did-on-the-board-of-ukrainian-energy-company-burisma-idUSKBN1WX1P6",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "joe biden",
+            "ukraine",
+            "hunter biden"
+        ],
+        "thumbnail": "https://www.reuters.com/resizer/v2/https%3A%2F%2Farchive-images.prod.global.a201836.reutersmedia.net%2F2019%2F10%2F18%2FLYNXMPEF9H1EZ.JPG?auth=3614c05e05ec3ad05874c99119b51e9a221774ef6edcdbb9831c52b42e167125&height=1005&width=1920&quality=80&smart=true",
+        "title": "What Hunter Biden did on the board of Ukrainian energy company Burisma",
+        "vote": 0
+    },
+    {
         "age": null,
         "album": null,
         "author": null,
@@ -5049,6 +5078,35 @@
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/JN8Qm5o0oSY/maxresdefault.webp",
         "title": "Why Rey is a Mary Sue and Luke Skywalker is Not",
+        "vote": 0
+    },
+    {
+        "age": 0,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2019-11-10T12:19:20+00:00",
+        "description": "",
+        "id": 2198401,
+        "language": null,
+        "link": "https://www.nytimes.com/2019/11/10/us/politics/joe-biden-ukraine.html",
+        "manual_status_code": 200,
+        "page_rating": 12,
+        "page_rating_contents": 40,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 604,
+        "tags": [
+            "joe biden",
+            "ukraine",
+            "hunter biden"
+        ],
+        "thumbnail": null,
+        "title": "Joe Biden, Hunter Biden, Ukraine",
         "vote": 0
     },
     {

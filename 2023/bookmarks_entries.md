@@ -4127,7 +4127,7 @@
  ## OpenAI CEO says the remote work ‘experiment’ was a mistake–and ‘it’s over’
  - [https://fortune.com/2023/05/05/openai-ceo-sam-altman-remote-work-mistake-return-to-office](https://fortune.com/2023/05/05/openai-ceo-sam-altman-remote-work-mistake-return-to-office)
  - date_published: 2023-05-07T18:20:30+00:00
- - tags: ['remote work', 'openai', 'work']
+ - tags: ['work', 'remote work', 'sam altman', 'openai']
 
  ## A Group Is Its Own Worst Enemy [pdf] (2005)
  - [https://gwern.net/doc/technology/2005-shirky-agroupisitsownworstenemy.pdf](https://gwern.net/doc/technology/2005-shirky-agroupisitsownworstenemy.pdf)
@@ -7656,11 +7656,13 @@
  - [https://newsrnd.com/news/2023-09-18-in-colmar--fish-found-dead-after-an-action-of-extinction-rebellion.B1N289oBk6.html](https://newsrnd.com/news/2023-09-18-in-colmar--fish-found-dead-after-an-action-of-extinction-rebellion.B1N289oBk6.html)
  - date_published: 2023-09-18T13:05:04+00:00
  - tags: ['climate change', 'activism']
+ - date_dead_since: 2025-02-26T18:44:14.370543+00:00
 
  ## U.S. National Debt Tops $33T for First Time
  - [https://www.nytimes.com/2023/09/18/us/politics/us-national-debt.html](https://www.nytimes.com/2023/09/18/us/politics/us-national-debt.html)
  - date_published: 2023-09-18T23:06:40+00:00
  - tags: ['national debt']
+ - date_dead_since: 2025-02-26T18:33:34.267421+00:00
 
  ## Your WiFi Can See You
  - [https://mrereports.substack.com/p/your-wifi-can-see-you](https://mrereports.substack.com/p/your-wifi-can-see-you)
@@ -8243,6 +8245,11 @@
  - [https://www.reuters.com/world/us/florida-sued-over-ban-pro-palestinian-student-groups-2023-11-16](https://www.reuters.com/world/us/florida-sued-over-ban-pro-palestinian-student-groups-2023-11-16)
  - date_published: 2023-11-16T20:59:54.309490+00:00
  - tags: ['inequality', 'palestine', 'israel']
+
+ ## Sam altman
+ - [https://www.nytimes.com/2023/11/17/technology/openai-sam-altman-ousted.html](https://www.nytimes.com/2023/11/17/technology/openai-sam-altman-ousted.html)
+ - date_published: 2023-11-17T14:00:04+00:00
+ - tags: ['sam altman']
 
  ## The Ben Gurion Canal: Israel’s Potential Revolutionary Alternative To Suez – Analysis
  - [https://www.eurasiareview.com/17112023-the-ben-gurion-canal-israels-potential-revolutionary-alternative-to-suez-analysis](https://www.eurasiareview.com/17112023-the-ben-gurion-canal-israels-potential-revolutionary-alternative-to-suez-analysis)

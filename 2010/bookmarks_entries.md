@@ -58,6 +58,11 @@
  - date_published: 2010-06-25T22:24:17+00:00
  - tags: ['science is dead']
 
+ ## Biden remembers Byrd as mentor and ‘dear friend’
+ - [https://thehill.com/homenews/administration/105897-biden-remembers-byrd-as-mentor-and-dear-friend](https://thehill.com/homenews/administration/105897-biden-remembers-byrd-as-mentor-and-dear-friend)
+ - date_published: 2010-06-28T22:29:26+00:00
+ - tags: ['joe biden', 'roberty byrd']
+
  ## Nestlé drives rainforest destruction pushing orangutans to brink of extinction - Greenpeace USA
  - [https://www.greenpeace.org/usa/news/nestle-drives-rainforest-destr](https://www.greenpeace.org/usa/news/nestle-drives-rainforest-destr)
  - date_published: 2010-07-06T12:23:40+00:00

@@ -23,6 +23,16 @@
  - date_published: 2025-01-13T22:10:39+00:00
  - tags: ['paedophilia']
 
+ ## Biden pardons Fauci, Milley and the Jan. 6 panel. It's a guard against potential 'revenge' by Trump
+ - [https://apnews.com/article/biden-trump-fauci-milley-pardons-january-6-3cba287f89051513fb48d7ae700ae747](https://apnews.com/article/biden-trump-fauci-milley-pardons-january-6-3cba287f89051513fb48d7ae700ae747)
+ - date_published: 2025-01-20T13:13:18+00:00
+ - tags: ['joe biden', 'anthony fauci']
+
+ ## Opinion | Trump finds a new way for foreign governments to pay him off: Crypto
+ - [https://www.washingtonpost.com/opinions/2025/01/21/trump-crypto-ponzi-scheme](https://www.washingtonpost.com/opinions/2025/01/21/trump-crypto-ponzi-scheme)
+ - date_published: 2025-01-21T13:30:00+00:00
+ - tags: ['crypto', 'donald trump']
+
  ## Enviromental groups got EU subsidies to lobby for Timmermans' green plans: report
  - [https://nltimes.nl/2025/01/22/enviromental-groups-got-eu-subsidies-lobby-timmermans-green-plans-report](https://nltimes.nl/2025/01/22/enviromental-groups-got-eu-subsidies-lobby-timmermans-green-plans-report)
  - date_published: 2025-01-22T09:37:56+00:00
@@ -51,6 +61,11 @@
  - [https://www.fastcompany.com/91269436/amazon-tracked-californian-consumers-cellphones-lawsuit](https://www.fastcompany.com/91269436/amazon-tracked-californian-consumers-cellphones-lawsuit)
  - date_published: 2025-01-29T23:28:54.312800+00:00
  - tags: ['privacy', 'technofeudalism', 'surveillance']
+
+ ## Breaking: Vital Long COVID data taken down following Trump order - The Sick Times
+ - [https://thesicktimes.org/2025/01/31/breaking-vital-long-covid-data-taken-down-following-trump-order](https://thesicktimes.org/2025/01/31/breaking-vital-long-covid-data-taken-down-following-trump-order)
+ - date_published: 2025-02-01T00:35:34+00:00
+ - tags: ['covid']
 
  ## The Effects of Immigration in Denmark
  - [https://inquisitivebird.xyz/p/the-effects-of-immigration-in-denmark](https://inquisitivebird.xyz/p/the-effects-of-immigration-in-denmark)
@@ -163,4 +178,19 @@
  - [https://www.youtube.com/watch?v=QEJpZjg8GuA](https://www.youtube.com/watch?v=QEJpZjg8GuA)
  - date_published: 2025-02-22T17:04:13+00:00
  - tags: ['digital dementia']
+
+ ## FBI allegedly deleting Jeffrey Epstein records—whistleblower speaks out | The Express Tribune
+ - [https://tribune.com.pk/story/2530745/fbi-allegedly-deleting-jeffrey-epstein-recordswhistleblower-speaks-out](https://tribune.com.pk/story/2530745/fbi-allegedly-deleting-jeffrey-epstein-recordswhistleblower-speaks-out)
+ - date_published: 2025-02-25T04:25:12+00:00
+ - tags: ['jeffrey epstein']
+
+ ## A new Android feature is scanning your photos for 'sensitive content' - how to stop it
+ - [https://www.zdnet.com/article/a-new-android-feature-is-scanning-your-photos-for-sensitive-content-how-to-stop-it](https://www.zdnet.com/article/a-new-android-feature-is-scanning-your-photos-for-sensitive-content-how-to-stop-it)
+ - date_published: 2025-02-25T17:10:00+00:00
+ - tags: ['technofeudalism', 'google', 'privacy', 'surveillance']
+
+ ## Former OpenAI board member tells all about Altman’s ousting
+ - [https://www.cio.com/article/2130365/former-openai-board-member-tells-all-about-altmans-ousting.html](https://www.cio.com/article/2130365/former-openai-board-member-tells-all-about-altmans-ousting.html)
+ - date_published: 2025-02-26T01:00:00+00:00
+ - tags: ['sam altman']
 
