@@ -2951,6 +2951,11 @@
  - date_published: 2022-07-07T10:27:42+00:00
  - tags: ['georgia guide stone', 'secret societies', 'conspiracy theory']
 
+ ## Shinzo Abe: Japan ex-leader assassinated while giving speech
+ - [https://www.bbc.com/news/world-asia-62089486](https://www.bbc.com/news/world-asia-62089486)
+ - date_published: 2022-07-08T11:37:19+00:00
+ - tags: ['assassination']
+
  ## Why DRY is the most over-rated programming principle | Thoughts on Software
  - [https://gordonc.bearblog.dev/dry-most-over-rated-programming-principle](https://gordonc.bearblog.dev/dry-most-over-rated-programming-principle)
  - date_published: 2022-07-08T11:42:11.310492+00:00

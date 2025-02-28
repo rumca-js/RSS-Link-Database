@@ -17688,6 +17688,33 @@
         "vote": 0
     },
     {
+        "age": 0,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2022-07-08T11:37:19+00:00",
+        "description": "",
+        "id": 2206498,
+        "language": "en-GB",
+        "link": "https://www.bbc.com/news/world-asia-62089486",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "assassination"
+        ],
+        "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/12217/production/_125836247_hi077240972-976.jpg",
+        "title": "Shinzo Abe: Japan ex-leader assassinated while giving speech",
+        "vote": 0
+    },
+    {
         "age": null,
         "album": null,
         "author": null,

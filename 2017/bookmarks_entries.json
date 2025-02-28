@@ -858,6 +858,35 @@
         "vote": 0
     },
     {
+        "age": 0,
+        "album": null,
+        "author": "Elson Tong",
+        "bookmarked": true,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2017-04-07T18:06:29+00:00",
+        "description": "US satirical news show China Uncensored says that the Apple TV app store has blocked users from accessing it not only in mainland China, but also in Hong Kong and Taiwan. \u201cI totally understand why we\u2019re blocked in mainland China. We\u2019re clearly disrupting the Communist Party\u2019s harmonious propaganda,\u201d said host Chris Chappell\u00a0in a Tuesday press [\u2026]",
+        "id": 2211392,
+        "language": "en-GB",
+        "link": "https://hongkongfp.com/2017/04/08/satirical-news-show-china-uncensored-censored-apple-hong-kong-taiwan",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "censorship",
+            "apple",
+            "china"
+        ],
+        "thumbnail": "https://hongkongfp.com/wp-content/uploads/2017/04/POWERPNT_2017-04-07_14-57-53.jpg",
+        "title": "Satirical news show 'China Uncensored' censored by Apple in Hong Kong and Taiwan | Hong Kong Free Press HKFP",
+        "vote": 0
+    },
+    {
         "age": null,
         "album": null,
         "author": null,

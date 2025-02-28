@@ -42536,7 +42536,7 @@
         "tags": [
             "rss"
         ],
-        "thumbnail": "https://opengraph.githubassets.com/316e0f7e42cb8c8c9f3dd45789000e886f9ef002ee36b369f56b6129625f3b3a/DIYgod/RSSHub-Radar",
+        "thumbnail": "https://opengraph.githubassets.com/5144f814f9ff83a1d2974cb54392fa36d33106894794e59cd1948ed9bc027a4a/DIYgod/RSSHub-Radar",
         "title": "GitHub - DIYgod/RSSHub-Radar: \ud83c\udf70 Browser extension that simplifies finding and subscribing RSS and RSSHub",
         "vote": 0
     },
@@ -42769,7 +42769,7 @@
             "climate change",
             "science is dead"
         ],
-        "thumbnail": "https://patricktbrown.org/wp-content/uploads/2017/09/cropped-sandy_goe_2012302_1745_lrg.jpeg?w=200",
+        "thumbnail": "https://patricktbrown.org/wp-content/uploads/2017/09/cropped-sandy_goe_2012302_1745_lrg.jpeg?w=32",
         "title": "Patrick T. Brown, PhD | It\u2019s easy to construct a persuasive argument, it\u2019s much more difficult to figure out the truth\u2026",
         "vote": 0
     },
@@ -42874,20 +42874,20 @@
         "author": "https://euro.dayfr.com",
         "bookmarked": true,
         "comments": [],
-        "date_dead_since": null,
+        "date_dead_since": "2025-02-27T15:33:16.024005+00:00",
         "date_published": "2023-09-06T15:54:27+00:00",
         "description": "Euthanasia doesn\u2019t go as planned: Woman with cancer suffocated with pillow by doctors",
         "id": 35848,
         "language": "en-us",
         "link": "https://euro.dayfr.com/world/794851.html",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 0,
+        "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://euro.dayfr.com",
-        "status_code": 200,
+        "status_code": 404,
         "tags": [
             "euthanasia"
         ],
@@ -42968,7 +42968,7 @@
         "language": "en-US",
         "link": "https://www.wsj.com/world/china/china-bans-iphone-use-for-government-officials-at-work-635fe2f8",
         "manual_status_code": 0,
-        "page_rating": 3,
+        "page_rating": 0,
         "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
@@ -42995,13 +42995,13 @@
         "language": "en",
         "link": "https://foundation.mozilla.org/en/privacynotincluded/articles/its-official-cars-are-the-worst-product-category-we-have-ever-reviewed-for-privacy",
         "manual_status_code": 0,
-        "page_rating": 19,
-        "page_rating_contents": 50,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://foundation.mozilla.org",
-        "status_code": 403,
+        "status_code": 200,
         "tags": [
             "technofeudalism",
             "electric vehicles",
@@ -43153,7 +43153,7 @@
         "tags": [
             "council on foreign relations"
         ],
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Council_on_Foreign_Relations.svg/1200px-Council_on_Foreign_Relations.svg.png",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Council_on_Foreign_Relations.svg/1200px-Council_on_Foreign_Relations.svg.png",
         "title": "Council on Foreign Relations - Wikipedia",
         "vote": 0
     },
@@ -43210,7 +43210,7 @@
             "terms of service",
             "corporatocracy"
         ],
-        "thumbnail": "https://cdn.prod.website-files.com/63bdc732dd1873e5aa397efc/649ca52b36dd2c382528a672_og_zuck.jpg",
+        "thumbnail": "https://cdn.prod.website-files.com/63bdc732dd1873e5aa397efc/64b05912e52055de0a7fddfb_favicon32.png",
         "title": "Legal Lullabies",
         "vote": 0
     },
@@ -43314,7 +43314,7 @@
         "language": "en-US",
         "link": "https://www.wsj.com/articles/eric-adams-migrant-crisis-will-destroy-new-york-city-kathy-hochul-greg-abbott-aba585d",
         "manual_status_code": 0,
-        "page_rating": 3,
+        "page_rating": 0,
         "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
@@ -43408,7 +43408,7 @@
         "tags": [
             "cancel culture"
         ],
-        "thumbnail": "https://static.independent.co.uk/2023/09/06/16/newFile-3.jpg?quality=75&width=1200&auto=webp",
+        "thumbnail": "https://static.independent.co.uk/2023/09/06/16/newFile-3.jpg?width=1200&height=800&crop=1200:800",
         "title": "Tim Burton on cancel culture and his Beetlejuice sequel: \u2018I used to think about society as like the angry villagers in Frankenstein\u2019 | The Independent",
         "vote": 0
     },
@@ -43515,8 +43515,8 @@
         "language": "en",
         "link": "https://twitter.com/BillGates/status/1701318146878218667",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 31,
+        "page_rating_contents": 87,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,

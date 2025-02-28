@@ -7424,6 +7424,7 @@
  - [https://euro.dayfr.com/world/794851.html](https://euro.dayfr.com/world/794851.html)
  - date_published: 2023-09-06T15:54:27+00:00
  - tags: ['euthanasia']
+ - date_dead_since: 2025-02-27T15:33:16.024005+00:00
 
  ## The Right to Read- GNU Project - Free Software Foundation
  - [https://www.gnu.org/philosophy/right-to-read.en.html](https://www.gnu.org/philosophy/right-to-read.en.html)

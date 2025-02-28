@@ -143,6 +143,11 @@
  - date_published: 2017-04-07T07:17:44+00:00
  - tags: ['capitalism', 'democracy', 'corporatocracy']
 
+ ## Satirical news show 'China Uncensored' censored by Apple in Hong Kong and Taiwan | Hong Kong Free Press HKFP
+ - [https://hongkongfp.com/2017/04/08/satirical-news-show-china-uncensored-censored-apple-hong-kong-taiwan](https://hongkongfp.com/2017/04/08/satirical-news-show-china-uncensored-censored-apple-hong-kong-taiwan)
+ - date_published: 2017-04-07T18:06:29+00:00
+ - tags: ['censorship', 'apple', 'china']
+
  ## EternalBlue - Wikipedia
  - [https://en.wikipedia.org/wiki/EternalBlue](https://en.wikipedia.org/wiki/EternalBlue)
  - date_published: 2017-04-14T15:04:35+00:00

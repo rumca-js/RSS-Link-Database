@@ -194,3 +194,13 @@
  - date_published: 2025-02-26T01:00:00+00:00
  - tags: ['sam altman']
 
+ ## Apple AI tool transcribed the word 'racist' as 'Trump'
+ - [https://www.bbc.co.uk/news/articles/c5ymvjjqzmeo](https://www.bbc.co.uk/news/articles/c5ymvjjqzmeo)
+ - date_published: 2025-02-27T16:02:36+00:00
+ - tags: ['donald trump', 'manufacturing consent']
+
+ ## Thousands pack Iowa Capitol as final votes near to end gender identity as a civil right
+ - [https://eu.desmoinesregister.com/story/news/politics/2025/02/27/iowa-civil-rights-act-transgender-protections-vote-house-file-583/80546396007](https://eu.desmoinesregister.com/story/news/politics/2025/02/27/iowa-civil-rights-act-transgender-protections-vote-house-file-583/80546396007)
+ - date_published: 2025-02-27T22:34:31+00:00
+ - tags: ['america', 'civil war']
+

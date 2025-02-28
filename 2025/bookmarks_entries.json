@@ -1119,5 +1119,61 @@
         "thumbnail": "https://www.cio.com/wp-content/uploads/2024/05/shutterstock_2253221991.jpg?quality=50&strip=all&w=1024",
         "title": "Former OpenAI board member tells all about Altman\u2019s ousting",
         "vote": 0
+    },
+    {
+        "age": 0,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-27T16:02:36+00:00",
+        "description": "Experts have questioned the company's explanation that it is due to the two words being similar.",
+        "id": 2208412,
+        "language": "en-GB",
+        "link": "https://www.bbc.co.uk/news/articles/c5ymvjjqzmeo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "donald trump",
+            "manufacturing consent"
+        ],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2952/live/180c6870-f41d-11ef-896e-d7e7fb1719a4.jpg",
+        "title": "Apple AI tool transcribed the word 'racist' as 'Trump'",
+        "vote": 0
+    },
+    {
+        "age": 0,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-27T22:34:31+00:00",
+        "description": "Protesters filled the Iowa Capitol on Thursday as lawmakers prepared for final votes on a bill removing gender identity from the Iowa Civil Rights Act.",
+        "id": 2211953,
+        "language": "en",
+        "link": "https://eu.desmoinesregister.com/story/news/politics/2025/02/27/iowa-civil-rights-act-transgender-protections-vote-house-file-583/80546396007",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "america",
+            "civil war"
+        ],
+        "thumbnail": "https://www.gannett-cdn.com/authoring/authoring-images/2025/02/27/PDEM/80697177007-protests-cs-003.jpg?auto=webp&crop=7007,3943,x0,y364&format=pjpg&width=1200",
+        "title": "Thousands pack Iowa Capitol as final votes near to end gender identity as a civil right",
+        "vote": 0
     }
 ]

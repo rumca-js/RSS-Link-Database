@@ -32,6 +32,11 @@
  - date_published: 2021-01-05T20:44:59+00:00
  - tags: ['algorithms', 'all time', 'dead internet']
 
+ ## January 6 United States Capitol attack - Wikipedia
+ - [https://en.wikipedia.org/wiki/January_6_United_States_Capitol_attack](https://en.wikipedia.org/wiki/January_6_United_States_Capitol_attack)
+ - date_published: 2021-01-06T22:36:04+00:00
+ - tags: ['america', 'civil war']
+
  ## Trump suspended indefinitely from Snapchat | The Hill
  - [https://thehill.com/policy/technology/533204-trump-suspended-indefinitely-from-snapchat](https://thehill.com/policy/technology/533204-trump-suspended-indefinitely-from-snapchat)
  - date_published: 2021-01-07T15:02:24+00:00

@@ -7459,6 +7459,35 @@
         "vote": 10
     },
     {
+        "age": 0,
+        "album": null,
+        "author": "Reddit Lies",
+        "bookmarked": true,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-10-29T12:31:13+00:00",
+        "description": "The Kamala Harris campaign has launched an effort to flood Reddit with pro-Harris political content to try to sway the election.",
+        "id": 2205851,
+        "language": "en-US",
+        "link": "https://thefederalist.com/2024/10/29/busted-the-inside-story-of-how-the-kamala-harris-campaign-manipulates-reddit-and-breaks-the-rules-to-control-the-platform",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "manufacturing consent",
+            "kamala harris",
+            "social media"
+        ],
+        "thumbnail": "https://thefederalist.com/wp-content/uploads/2024/10/Screenshot-55.png",
+        "title": "The Harris Campaign Manipulates Reddit To Control The Platform",
+        "vote": 0
+    },
+    {
         "age": null,
         "album": "",
         "author": null,
