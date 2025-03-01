@@ -7023,7 +7023,6 @@
  - [https://www.eff.org/deeplinks/2023/07/deja-vu-fbi-proves-again-it-cant-be-trusted-section-702](https://www.eff.org/deeplinks/2023/07/deja-vu-fbi-proves-again-it-cant-be-trusted-section-702)
  - date_published: 2023-08-18T15:07:32+00:00
  - tags: ['fbi', 'surveillance']
- - date_dead_since: 2024-10-03T01:52:18.987329+00:00
 
  ## Hawaii wildfires: Maui emergency chief quits after sirens criticism - BBC News
  - [https://www.bbc.co.uk/news/world-us-canada-66540472](https://www.bbc.co.uk/news/world-us-canada-66540472)

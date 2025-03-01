@@ -288,6 +288,11 @@
  - date_published: 2024-01-26T00:31:13+00:00
  - tags: ['climate change']
 
+ ## When a STUDENT asks about JK ROWLING this happens
+ - [https://www.youtube.com/watch?v=zIPPpsJY39c](https://www.youtube.com/watch?v=zIPPpsJY39c)
+ - date_published: 2024-01-26T01:00:00+00:00
+ - tags: ['j.k. rowling', 'manufacturing consent', 'lgbt', 'transphobic']
+
  ## Using Google Search to find software can be risky
  - [https://krebsonsecurity.com/2024/01/using-google-search-to-find-software-can-be-risky](https://krebsonsecurity.com/2024/01/using-google-search-to-find-software-can-be-risky)
  - date_published: 2024-01-26T05:00:00+00:00
@@ -795,6 +800,11 @@
  - [https://www.404media.co/samsung-requires-independent-repair-shops-to-share-customer-data-snitch-on-people-who-use-aftermarket-parts-leaked-contract-shows](https://www.404media.co/samsung-requires-independent-repair-shops-to-share-customer-data-snitch-on-people-who-use-aftermarket-parts-leaked-contract-shows)
  - date_published: 2024-05-23T13:19:05+00:00
  - tags: ['surveillance', 'privacy']
+
+ ## Teacher famous for critical thinking video belatedly fired by school
+ - [https://afn.net/education/2024/05/23/teacher-famous-for-critical-thinking-video-belatedly-fired-by-school](https://afn.net/education/2024/05/23/teacher-famous-for-critical-thinking-video-belatedly-fired-by-school)
+ - date_published: 2024-05-23T14:46:08+00:00
+ - tags: ['homophobia', 'censorship', 'j.k. rowling', 'transphobic', 'manufacturing consent', 'lgbt', 'critical thinking']
 
  ## Wi-Fi devices set to become object sensors by 2024 via IEEE 802.11bf standard
  - [https://www.theregister.com/2021/03/31/wifi_devices_monitoring](https://www.theregister.com/2021/03/31/wifi_devices_monitoring)

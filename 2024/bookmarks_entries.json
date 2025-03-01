@@ -1655,6 +1655,36 @@
         "vote": 50
     },
     {
+        "age": 0,
+        "album": null,
+        "author": "Warren Smith - Secret Scholar Society",
+        "bookmarked": true,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-01-26T01:00:00+00:00",
+        "description": "#jkrowling #debate \r\nYou will see the transformation / epiphany occur in real time. \r\n\r\nBecome a Patreon member to support Warren Smith: https://www.patreon.com/Secret_Scholars",
+        "id": 2216782,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=zIPPpsJY39c",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "j.k. rowling",
+            "manufacturing consent",
+            "lgbt",
+            "transphobic"
+        ],
+        "thumbnail": "https://i.ytimg.com/vi_webp/zIPPpsJY39c/maxresdefault.webp",
+        "title": "When a STUDENT asks about JK ROWLING this happens",
+        "vote": 0
+    },
+    {
         "age": null,
         "album": "",
         "author": null,
@@ -4560,6 +4590,39 @@
         "vote": 20
     },
     {
+        "age": 0,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-05-23T14:46:08+00:00",
+        "description": "",
+        "id": 2216712,
+        "language": "en",
+        "link": "https://afn.net/education/2024/05/23/teacher-famous-for-critical-thinking-video-belatedly-fired-by-school",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "homophobia",
+            "censorship",
+            "j.k. rowling",
+            "transphobic",
+            "manufacturing consent",
+            "lgbt",
+            "critical thinking"
+        ],
+        "thumbnail": "https://afn.net/media/lgcci0wq/warren-smith-photo.jpg?width=1200&height=630&bgcolor=white",
+        "title": "Teacher famous for critical thinking video belatedly fired by school",
+        "vote": 0
+    },
+    {
         "age": null,
         "album": "",
         "author": null,
@@ -6831,7 +6894,7 @@
             "ad business",
             "privacy"
         ],
-        "thumbnail": "https://techcrunch.com/wp-content/uploads/2023/09/Ray-Ban-Meta-Lifestyle-Still9.jpeg?resize=1200,902",
+        "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/09/05_whatcomesnext-transformed-e1727288153518.webp?resize=1200,506",
         "title": "Meta confirms it may train its AI on any image you ask Ray-Ban Meta AI to analyze | TechCrunch",
         "vote": 0
     },

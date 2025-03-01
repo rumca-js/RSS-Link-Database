@@ -40164,8 +40164,8 @@
         "language": "pl",
         "link": "https://twitter.com/BuonaSera1916/status/1691406601012289536?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1691406601012289536%7Ctwgr%5Ec0284957550f77a7041ab6e15a00f15994cdb8c4%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwykop.pl%2Flink%2F7186149%2Fnowa-moda-wsrod-pato-celebrytek-miec-dziecko-trans",
         "manual_status_code": 0,
-        "page_rating": 27,
-        "page_rating_contents": 86,
+        "page_rating": 28,
+        "page_rating_contents": 87,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -40524,7 +40524,7 @@
             "climate change",
             "england"
         ],
-        "thumbnail": "https://www.telegraph.co.uk/content/dam/business/2023/08/17/TELEMMGLPICT000330441998_16922897332400_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=logo-overlay",
+        "thumbnail": "https://www.telegraph.co.uk/content/dam/business/2023/08/17/TELEMMGLPICT000330441998_16922897332400_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=OG-Standard",
         "title": "UK birth slump dubbed \u2018good for planet\u2019",
         "vote": 0
     },
@@ -40562,21 +40562,21 @@
         "author": null,
         "bookmarked": true,
         "comments": [],
-        "date_dead_since": "2024-10-03T01:52:18.987329+00:00",
+        "date_dead_since": null,
         "date_published": "2023-08-18T15:07:32+00:00",
         "description": "<p>Article URL: <a href=\"https://www.eff.org/deeplinks/2023/07/deja-vu-fbi-proves-again-it-cant-be-trusted-section-702\">https://www.eff.org/deeplinks/2023/07/deja-vu-fbi-proves-again-it-cant-be-trusted-section-702</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=37176717\">https://news.ycombinator.com/item?id=37176717</a></p>\n<p>Points: 18</p>\n<p># Comments: 0</p>",
         "id": 35926,
         "language": "en-US",
         "link": "https://www.eff.org/deeplinks/2023/07/deja-vu-fbi-proves-again-it-cant-be-trusted-section-702",
         "manual_status_code": 0,
-        "page_rating": 3,
-        "page_rating_contents": 0,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 141,
         "source_url": "https://hnrss.org/frontpage",
-        "status_code": 600,
+        "status_code": 200,
         "tags": [
             "fbi",
             "surveillance"
@@ -40610,7 +40610,7 @@
             "global warming",
             "hawaii"
         ],
-        "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/1791F/production/_130834569_hawaii_protest_epa.jpg",
+        "thumbnail": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1791F/production/_130834569_hawaii_protest_epa.jpg",
         "title": "Hawaii wildfires: Maui emergency chief quits after sirens criticism - BBC News",
         "vote": 0
     },
@@ -40682,13 +40682,13 @@
         "language": "en",
         "link": "https://www.fiercepharma.com/pharma/moderna-pays-us-government-400m-catch-payment-under-new-covid-19-vaccine-license",
         "manual_status_code": 0,
-        "page_rating": 19,
-        "page_rating_contents": 50,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.fiercepharma.com",
-        "status_code": 403,
+        "status_code": 200,
         "tags": [
             "vaccine",
             "covid",
@@ -40740,8 +40740,8 @@
         "language": "en-US",
         "link": "https://twitter.com/tomcoates/status/1692922211416334597",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 31,
+        "page_rating_contents": 87,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -40799,8 +40799,8 @@
         "language": "en",
         "link": "https://twitter.com/LinusEkenstam/status/1693382979291156942",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 31,
+        "page_rating_contents": 87,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -40984,7 +40984,7 @@
             "project",
             "selfhost"
         ],
-        "thumbnail": "https://landrop.app/assets/favicon/favicon-512.png",
+        "thumbnail": "https://landrop.app/assets/favicon/favicon.ico",
         "title": "LANDrop \u2013 Drop any files to any devices on your LAN",
         "vote": 0
     },
@@ -41069,7 +41069,7 @@
             "global warming",
             "greece"
         ],
-        "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/B96D/production/_130896474_gettyimages-1619842680-1.jpg",
+        "thumbnail": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/B96D/production/_130896474_gettyimages-1619842680-1.jpg",
         "title": "Greece wildfires: 79 people arrested for arson",
         "vote": 0
     },
@@ -41198,8 +41198,8 @@
         "language": "en-US",
         "link": "https://nationworldnews.com/the-chicken-at-mcdonalds-isnt-even-half-a-chicken-insiders-reveal-the-trick",
         "manual_status_code": 0,
-        "page_rating": 32,
-        "page_rating_contents": 91,
+        "page_rating": 24,
+        "page_rating_contents": 66,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -41293,7 +41293,7 @@
             "carbon offsets",
             "climate change"
         ],
-        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-1366011761-scaled.jpg",
+        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/GettyImages-1366011761-1152x648.jpg",
         "title": "Study: Carbon offsets aren\u2019t doing their job, overstate impact",
         "vote": 0
     },
@@ -41671,7 +41671,7 @@
         "vote": 0
     },
     {
-        "age": null,
+        "age": 15,
         "album": "The Verge",
         "author": "The Verge",
         "bookmarked": true,
@@ -41697,7 +41697,7 @@
             "tech control",
             "safety bill"
         ],
-        "thumbnail": "https://cdn.vox-cdn.com/thumbor/LyJ1f6EhwEIpsqrBCtKi2Txt560=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/8839375/acastro_170711_1777_0005.jpg",
+        "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/8839375/acastro_170711_1777_0005.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "Child safety bills are reshaping the internet for everyone",
         "vote": 0
     },
@@ -41771,8 +41771,8 @@
         "language": "en-US",
         "link": "https://www.ft.com/content/adf1cbae-4217-4d7d-9271-8bec41a56fb4",
         "manual_status_code": 0,
-        "page_rating": 29,
-        "page_rating_contents": 81,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -41788,7 +41788,7 @@
             "anonymity",
             "surveillance"
         ],
-        "thumbnail": null,
+        "thumbnail": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7628f954-e586-4bd6-b3ce-89743643f1c2.jpg?source=next-barrier-page",
         "title": "India\u2019s communications \u2018backdoor\u2019 attracts surveillance companies",
         "vote": 0
     },
@@ -42082,7 +42082,7 @@
             "electric vehicles",
             "climate change"
         ],
-        "thumbnail": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/09/01/6ec569ed-4014-4704-9a64-5a7155304cd8/thumbnail/1200x630/cc55aedb573db90c2a1b01e7c057a49e/gettyimages-1407897676.jpg?v=0736ad3ef1e9ddfe1218648fe91d6c9b",
+        "thumbnail": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/09/01/6ec569ed-4014-4704-9a64-5a7155304cd8/thumbnail/1200x630/cc55aedb573db90c2a1b01e7c057a49e/gettyimages-1407897676.jpg?v=8de240724d7f6d8b5f54f62bb158c012",
         "title": "As Hurricane Idalia caused flooding, some electric vehicles exposed to saltwater caught fire - CBS News",
         "vote": 0
     },
@@ -42140,7 +42140,7 @@
             "indoctrination",
             "the left wing"
         ],
-        "thumbnail": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/09/02/4f392583-a65f-46bc-b2e5-1ae211a1b8e0/thumbnail/1200x630/3060d478e4f7046ea1b6930a209229f6/6p-kcnc-newscast-friday-clean-feed-frame-10213.jpg?v=0736ad3ef1e9ddfe1218648fe91d6c9b",
+        "thumbnail": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/09/02/4f392583-a65f-46bc-b2e5-1ae211a1b8e0/thumbnail/1200x630/3060d478e4f7046ea1b6930a209229f6/6p-kcnc-newscast-friday-clean-feed-frame-10213.jpg?v=8de240724d7f6d8b5f54f62bb158c012",
         "title": "Controversy erupts in Jefferson County after the teachers union tells educators to destroy evidence of student surveys regarding gender identity - CBS Colorado",
         "vote": 0
     },
@@ -42340,7 +42340,7 @@
         "tags": [
             "climate change"
         ],
-        "thumbnail": "https://ClimateChangeTracker.org/preview.jpg",
+        "thumbnail": "https://climatechangetracker.org/favicon.ico",
         "title": "Climate Change Tracker",
         "vote": 0
     },
@@ -42368,7 +42368,7 @@
         "tags": [
             "rss"
         ],
-        "thumbnail": "https://rssfeedasap.com/rssfeedasap.png",
+        "thumbnail": "https://rssfeedasap.com/favicon.ico",
         "title": "Show HN: Extract RSS feed from almost anything",
         "vote": 0
     },
@@ -42396,7 +42396,7 @@
             "immigration",
             "israel"
         ],
-        "thumbnail": "https://static.timesofisrael.com/www/uploads/2019/10/F160209MISFF06-e1571477276918.jpg",
+        "thumbnail": "https://static-cdn.toi-media.com/www/uploads/2019/10/F160209MISFF06-e1571477276918.jpg",
         "title": "Netanyahu again vows to build long-touted fence along border with Jordan | The Times of Israel",
         "vote": 0
     },
