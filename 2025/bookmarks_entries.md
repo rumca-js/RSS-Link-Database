@@ -177,7 +177,7 @@
  ## Algorithms are breaking how we think
  - [https://www.youtube.com/watch?v=QEJpZjg8GuA](https://www.youtube.com/watch?v=QEJpZjg8GuA)
  - date_published: 2025-02-22T17:04:13+00:00
- - tags: ['digital dementia']
+ - tags: ['digital dementia', 'technology', 'algorithms']
 
  ## FBI allegedly deleting Jeffrey Epstein records—whistleblower speaks out | The Express Tribune
  - [https://tribune.com.pk/story/2530745/fbi-allegedly-deleting-jeffrey-epstein-recordswhistleblower-speaks-out](https://tribune.com.pk/story/2530745/fbi-allegedly-deleting-jeffrey-epstein-recordswhistleblower-speaks-out)
@@ -203,4 +203,9 @@
  - [https://eu.desmoinesregister.com/story/news/politics/2025/02/27/iowa-civil-rights-act-transgender-protections-vote-house-file-583/80546396007](https://eu.desmoinesregister.com/story/news/politics/2025/02/27/iowa-civil-rights-act-transgender-protections-vote-house-file-583/80546396007)
  - date_published: 2025-02-27T22:34:31+00:00
  - tags: ['america', 'civil war']
+
+ ## Technology isn't fun anymore
+ - [https://www.youtube.com/watch?v=P-TANCVoHlc](https://www.youtube.com/watch?v=P-TANCVoHlc)
+ - date_published: 2025-02-28T21:14:50+00:00
+ - tags: ['technology', 'enshittification']
 

@@ -6863,6 +6863,7 @@
  - [https://victoria.dev/blog/create-a-self-hosted-chat-service-with-your-own-matrix-server](https://victoria.dev/blog/create-a-self-hosted-chat-service-with-your-own-matrix-server)
  - date_published: 2023-08-11T06:45:11+00:00
  - tags: ['matrix', 'selfhost']
+ - date_dead_since: 2025-03-01T14:30:18.618005+00:00
 
  ## How Google Ruined Creativity Forever
  - [https://www.youtube.com/watch?v=pSIHNCNcTiA](https://www.youtube.com/watch?v=pSIHNCNcTiA)
