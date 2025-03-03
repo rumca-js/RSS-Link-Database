@@ -1122,6 +1122,11 @@
  - [https://www.bbc.co.uk/news/uk-60387324](https://www.bbc.co.uk/news/uk-60387324)
  - date_published: 2022-03-02T18:32:47.281569+00:00
 
+ ## Project 2025 - Wikipedia
+ - [https://en.wikipedia.org/wiki/Project_2025](https://en.wikipedia.org/wiki/Project_2025)
+ - date_published: 2022-03-02T23:01:11+00:00
+ - tags: ['donald trump', 'project 2025']
+
  ## SPAs were a mistake | Go Make Things
  - [https://gomakethings.com/spas-were-a-mistake](https://gomakethings.com/spas-were-a-mistake)
  - date_published: 2022-03-03T06:45:26.211654+00:00

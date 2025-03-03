@@ -6267,6 +6267,7 @@
  - [https://www.nytimes.com/2023/07/21/business/leon-black-settlement-jeffrey-epstein-claims.html](https://www.nytimes.com/2023/07/21/business/leon-black-settlement-jeffrey-epstein-claims.html)
  - date_published: 2023-07-21T09:49:39+00:00
  - tags: ['leon black', 'jeffrey epstein']
+ - date_dead_since: 2025-03-02T22:03:01.081140+00:00
 
  ## Apple: Proposed UK law is a ‘serious, direct threat’ to security, privacy
  - [https://www.computerworld.com/article/3703055/apple-proposed-uk-law-is-a-serious-direct-threat-to-security-privacy.html#tk.rss_all](https://www.computerworld.com/article/3703055/apple-proposed-uk-law-is-a-serious-direct-threat-to-security-privacy.html#tk.rss_all)
@@ -6383,7 +6384,6 @@
  - [https://httptoolkit.com/blog/apple-private-access-tokens-attestation](https://httptoolkit.com/blog/apple-private-access-tokens-attestation)
  - date_published: 2023-07-25T14:10:12+00:00
  - tags: ['corporatocracy', 'apple', 'crypto wars', 'technofeudalism', 'web environment integrity', 'wei']
- - date_dead_since: 2024-10-03T23:13:50.090919+00:00
 
  ## Billionaire Leon Black's $158M payment to Jeffrey Epstein sparks Senate investigation
  - [https://thehill.com/homenews/senate/4118792-billionaire-leon-blacks-158m-payment-to-jeffrey-epstein-sparks-senate-investigation](https://thehill.com/homenews/senate/4118792-billionaire-leon-blacks-158m-payment-to-jeffrey-epstein-sparks-senate-investigation)
@@ -8540,6 +8540,11 @@
  - [https://medium.com/collapsenews/new-study-at-least-15-of-all-reddit-content-is-corporate-trolls-trying-to-manipulate-public-b249bd42ab42](https://medium.com/collapsenews/new-study-at-least-15-of-all-reddit-content-is-corporate-trolls-trying-to-manipulate-public-b249bd42ab42)
  - date_published: 2023-12-19T19:07:52+00:00
  - tags: ['disinformation', 'misinformation', 'manufacturing consent', 'dead internet', 'corporatocracy']
+
+ ## Network States – Revolutionary Idea To Potential New Asset Class
+ - [https://www.forbes.com/sites/digital-assets/2023/12/20/network-states--revolutionary-idea-to-potential-new-asset-class](https://www.forbes.com/sites/digital-assets/2023/12/20/network-states--revolutionary-idea-to-potential-new-asset-class)
+ - date_published: 2023-12-20T01:00:00+00:00
+ - tags: ['network states']
 
  ## US judge orders names of more than 170 Jeffrey Epstein associates to be released
  - [https://www.bbc.co.uk/news/world-us-canada-67769039?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-us-canada-67769039?at_medium=RSS&at_campaign=KARANGA)

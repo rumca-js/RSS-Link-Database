@@ -36011,7 +36011,7 @@
         "tags": [
             "selfhost"
         ],
-        "thumbnail": "https://www.discourse.org/a/img/srcset/discourse-home.jpg",
+        "thumbnail": "https://discourse.org/a/img/favicon.ico",
         "title": "Discourse is the place to build civilized communities | Discourse - Civilized Discussion",
         "vote": 0
     },
@@ -36092,7 +36092,7 @@
         "tags": [
             "selfhost"
         ],
-        "thumbnail": "https://opengraph.githubassets.com/6ad7f3ba84481bf61c6bc3b0ac22ac42983b55e85066fcbe45a58a0d8aef196b/phpbb/phpbb",
+        "thumbnail": "https://opengraph.githubassets.com/dd12d4230e9a9a0fef72eb8ca59676a8e5cb0db4b2b4922b3917365059c5b43f/phpbb/phpbb",
         "title": "GitHub - phpbb/phpbb at itsfoss.com",
         "vote": 0
     },
@@ -36121,7 +36121,7 @@
             "programming",
             "selfhost"
         ],
-        "thumbnail": "https://djangopackages.org/static/img/open_graph.png",
+        "thumbnail": "https://djangopackages.org/static/img/favicon.png",
         "title": "Django Packages : Reusable apps, sites and tools directory for Django",
         "vote": 0
     },
@@ -36251,20 +36251,20 @@
         "author": null,
         "bookmarked": true,
         "comments": [],
-        "date_dead_since": null,
+        "date_dead_since": "2025-03-02T22:03:01.081140+00:00",
         "date_published": "2023-07-21T09:49:39+00:00",
         "description": "Leon Black Agreed to Pay $62.5 Million to Settle Epstein-Related Claims - The New York Times",
         "id": 36068,
         "language": "en",
         "link": "https://www.nytimes.com/2023/07/21/business/leon-black-settlement-jeffrey-epstein-claims.html",
         "manual_status_code": 0,
-        "page_rating": 29,
-        "page_rating_contents": 80,
+        "page_rating": 0,
+        "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.nytimes.com",
-        "status_code": 403,
+        "status_code": 604,
         "tags": [
             "leon black",
             "jeffrey epstein"
@@ -36356,7 +36356,7 @@
             "lineageos",
             "android"
         ],
-        "thumbnail": "https://xdaforums.com/data/assets/logo/header-forum.jpeg",
+        "thumbnail": "https://xdaforums.com/data/assets/logo/favicon-32x32.png",
         "title": "XDA Forums",
         "vote": 0
     },
@@ -36401,18 +36401,18 @@
         "language": "en",
         "link": "https://m.apkpure.com",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 85,
+        "page_rating": 33,
+        "page_rating_contents": 95,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://m.apkpure.com",
-        "status_code": 403,
+        "status_code": 200,
         "tags": [
             "lineageos",
             "android"
         ],
-        "thumbnail": "https://apkpure.com/static/imgs/website_screen_v1.jpg",
+        "thumbnail": "https://apkpure.com/favicon_v2.ico",
         "title": "Download APK on Android with Free Online APK Downloader - APKPure",
         "vote": 0
     },
@@ -36441,7 +36441,7 @@
             "climate change",
             "global warming"
         ],
-        "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/66FB/production/_130436362_climate_change_off_the_charts_promo.png",
+        "thumbnail": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/66FB/production/_130436362_climate_change_off_the_charts_promo.png",
         "title": "Climate records tumble, leaving Earth in uncharted territory \u2013 scientists",
         "vote": 0
     },
@@ -36498,7 +36498,7 @@
             "jira",
             "selfhost"
         ],
-        "thumbnail": "https://plane.so/og-image.png",
+        "thumbnail": "https://plane.so/favicon/favicon.ico",
         "title": "Plane \u2013 open-source Jira alternative",
         "vote": 0
     },
@@ -36904,7 +36904,7 @@
             "backdoory",
             "encryption"
         ],
-        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/police-radio.jpg",
+        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/police-radio-1152x648.jpg",
         "title": "Researchers find deliberate backdoor in police radio encryption algorithm",
         "vote": 0
     },
@@ -36914,21 +36914,21 @@
         "author": null,
         "bookmarked": true,
         "comments": [],
-        "date_dead_since": "2024-10-03T23:13:50.090919+00:00",
+        "date_dead_since": null,
         "date_published": "2023-07-25T14:10:12+00:00",
         "description": "<p>Article URL: <a href=\"https://httptoolkit.com/blog/apple-private-access-tokens-attestation/\">https://httptoolkit.com/blog/apple-private-access-tokens-attestation/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=36862494\">https://news.ycombinator.com/item?id=36862494</a></p>\n<p>Points: 101</p>\n<p># Comments: 49</p>",
         "id": 36046,
         "language": "en-US",
         "link": "https://httptoolkit.com/blog/apple-private-access-tokens-attestation",
         "manual_status_code": 0,
-        "page_rating": 3,
-        "page_rating_contents": 0,
+        "page_rating": 32,
+        "page_rating_contents": 91,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 141,
         "source_url": "https://hnrss.org/frontpage",
-        "status_code": 600,
+        "status_code": 200,
         "tags": [
             "corporatocracy",
             "apple",
@@ -36937,7 +36937,7 @@
             "web environment integrity",
             "wei"
         ],
-        "thumbnail": "https://httptoolkit.com/static/ec8f8a88589fa0b3965ba436463ee87e/3c289/signing.jpg",
+        "thumbnail": "https://httptoolkit.com/images/header-images/signing.jpg",
         "title": "Apple already shipped attestation on the web, and we barely noticed",
         "vote": 0
     },
@@ -37052,7 +37052,7 @@
         "tags": [
             "artificial intelligence"
         ],
-        "thumbnail": "https://cdn.vox-cdn.com/thumbor/AhMKtXCq37T2-zlrZMpaO59AB2k=/0x0:1820x1213/1200x628/filters:focal(910x607:911x608)/cdn.vox-cdn.com/uploads/chorus_asset/file/24247717/lp_logo_3.0.jpg",
+        "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24247717/lp_logo_3.0.jpg?quality=90&strip=all&crop=0%2C10.722193687064%2C100%2C78.555612625872&w=1200",
         "title": "OpenAI can\u2019t tell if something was written by AI after all",
         "vote": 0
     },
@@ -37138,7 +37138,7 @@
             "selfhost",
             "link aggregation"
         ],
-        "thumbnail": "https://opengraph.githubassets.com/85a433aa42331edff4b8e7dd844c59637cec0a947c67bd0dbb06eb9cd5346414/lobsters/lobsters",
+        "thumbnail": "https://opengraph.githubassets.com/f4e61fea7f3e810a9eb2f80e8d19c15217ecca2722fdebc46c334552d6195b77/lobsters/lobsters",
         "title": "GitHub - lobsters/lobsters: Computing-focused community centered around link aggregation and discussion",
         "vote": 0
     },
@@ -37165,7 +37165,7 @@
         "tags": [
             "selfhost"
         ],
-        "thumbnail": "https://gohugo.io/featured.png",
+        "thumbnail": "https://gohugo.io/favicon-32x32.png",
         "title": "The world\u2019s fastest framework for building websites | Hugo",
         "vote": 0
     },
@@ -37275,7 +37275,7 @@
         "tags": [
             "web environment integrity"
         ],
-        "thumbnail": "https://interpeer.io/blog/2023/07/google-vs-the-open-web//open_web.jpg",
+        "thumbnail": "https://interpeer.org/blog/2023/07/google-vs-the-open-web//open_web.jpg",
         "title": "Google vs. the Open Web",
         "vote": 0
     },
@@ -37389,7 +37389,7 @@
             "neeva",
             "search engines"
         ],
-        "thumbnail": "https://cdn.vox-cdn.com/thumbor/_BIVcVxX5kaSYFLweeYol1-XSBY=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/24795476/LEDE_NOTEXT_vincentkilbride_theverge_searchengine.jpg",
+        "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24795476/LEDE_NOTEXT_vincentkilbride_theverge_searchengine.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "Why it\u2019s impossible to compete with Google Search",
         "vote": 0
     },
@@ -37789,7 +37789,7 @@
             "web10",
             "flash"
         ],
-        "thumbnail": "https://flashmuseum.org/wp-content/uploads/2024/09/F1.png",
+        "thumbnail": "https://flashmuseum.org/wp-content/uploads/2024/10/flashmuseum_fav_p-150x150.png",
         "title": "Flash Museum \u2013 explore more than 130k flash games and animations",
         "vote": 0
     },
@@ -37834,7 +37834,7 @@
         "language": "en-US",
         "link": "https://www.wsj.com/articles/government-vs-free-speech-deda9dce",
         "manual_status_code": 0,
-        "page_rating": 3,
+        "page_rating": 0,
         "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
@@ -38107,7 +38107,7 @@
         "tags": [
             "blog"
         ],
-        "thumbnail": "https://images.unsplash.com/photo-1518526157563-b1ee37a05129?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb",
+        "thumbnail": "https://blog.rfox.eu/favicon.ico",
         "title": "Bystroushaak's blog",
         "vote": 0
     },
@@ -49265,6 +49265,33 @@
         "thumbnail": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*Mh0i0wM6r0qEvIWz",
         "title": "At Least 15% of Reddit Content Is Corporate Trolls Manipulating Public Opinion",
         "vote": 60
+    },
+    {
+        "age": 0,
+        "album": null,
+        "author": "Sebastian Widmann",
+        "bookmarked": true,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2023-12-20T01:00:00+00:00",
+        "description": "Exploring the idea of Network States and highlighting current initiatives in this emerging industry and potential new asset class.",
+        "id": 2231811,
+        "language": "en",
+        "link": "https://www.forbes.com/sites/digital-assets/2023/12/20/network-states--revolutionary-idea-to-potential-new-asset-class",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "network states"
+        ],
+        "thumbnail": "https://imageio.forbes.com/specials-images/imageserve/657800e525ed3668b89c6e9a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "title": "Network States \u2013 Revolutionary Idea To Potential New Asset Class",
+        "vote": 0
     },
     {
         "age": null,

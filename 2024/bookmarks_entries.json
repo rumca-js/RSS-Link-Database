@@ -5955,6 +5955,35 @@
         "vote": 0
     },
     {
+        "age": 0,
+        "album": null,
+        "author": "CNN",
+        "bookmarked": true,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-08-15T02:00:00+00:00",
+        "description": "Russell Vought, one of the key authors of Project 2025 and a former Trump cabinet member, was recorded on a hidden camera talking to what he believed to be relatives of a wealthy conservative donor about a right-wing blueprint for a second Trump term.  #CNN #news \r\n\r\nWant to stay up to date on the day\u2019s top stories? Sign up for CNN\u2019s 5 Things newsletter, and we\u2019ll give you the 5 biggest stories you need to know, videos people are watching, and more! Sign up here: https://www.cnn.com/newsletters/5-things?source=nl-acq_social_youtubedesc&utm_source=nl-acq_social_youtubedesc",
+        "id": 2231809,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=T8G8yBwF_tQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "donald trump",
+            "network states",
+            "project 2025"
+        ],
+        "thumbnail": "https://i.ytimg.com/vi/T8G8yBwF_tQ/maxresdefault.jpg",
+        "title": "Project 2025 co-author discusses work in hidden-camera video",
+        "vote": 0
+    },
+    {
         "age": null,
         "album": "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/custom/image/3f755dae-418c-11e8-a244-53852639d709.png?crop=235%2C235%2C1%2C0&resize=200%2C200&order=crop%2Cresize",
         "author": null,
@@ -7692,6 +7721,35 @@
         "thumbnail": "https://ocdn.eu/pulscms-transforms/1/29Ok9kpTURBXy85MGIyY2NmNWIzNmM5MzFiZDczOWY1MzA5YTJjZjY4OC5qcGeSlQMAzMfNGQDNDhCTBc0EsM0CdN4AA6EwAaExAaEzww",
         "title": "Donald Tusk: Zastanawia\u0142em si\u0119, czy to m\u00f3wi\u0107. Ale powiem to wprost",
         "vote": 10
+    },
+    {
+        "age": 0,
+        "album": null,
+        "author": "Blonde Politics | The Silly Serious",
+        "bookmarked": true,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-11-14T01:00:00+00:00",
+        "description": "description\r\nA look into how the tech leaders may be using the new administration to achieve their own agenda. Looking specifically at Peter Thiel, Elon Musk, Marc Andressen, Ben Horotwitz, Brian Armstrong, and David Sacks as well as their relationship with figures like JD Vance, Balaji Srinivasan, and Curtis Yarvin. There is a focused discussion on how a shaping of the government might take place based on convergences between the ideas of Yarvin, who influences the tech libertarian right, and Project 2025, who have authored a playbook exclusively for President Trump to help with his transition to power. \r\n\r\nchapters\r\n00:00-01:00 Introduction\r\n01:01-04:25 The Dark Agenda of Tech VCs\r\n04:26-07:10 Networks and Patchworks: Reinventing the State\r\n07:11- 09:44 Praxis and Pronomos",
+        "id": 2231810,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=5RpPTRcz1no",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "elon musk",
+            "network states",
+            "donald trump"
+        ],
+        "thumbnail": "https://i.ytimg.com/vi_webp/5RpPTRcz1no/maxresdefault.webp",
+        "title": "DARK GOTHIC MAGA: How Tech Billionaires Plan to Destroy America",
+        "vote": 0
     },
     {
         "age": null,

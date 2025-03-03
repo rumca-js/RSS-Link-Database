@@ -1035,6 +1035,11 @@
  - date_published: 2024-08-13T20:03:41+00:00
  - tags: ['privacy', 'surveillance']
 
+ ## Project 2025 co-author discusses work in hidden-camera video
+ - [https://www.youtube.com/watch?v=T8G8yBwF_tQ](https://www.youtube.com/watch?v=T8G8yBwF_tQ)
+ - date_published: 2024-08-15T02:00:00+00:00
+ - tags: ['donald trump', 'network states', 'project 2025']
+
  ## Democrats using Google search ads to falsify news headlines extends past Harris campaign
  - [https://gazette.com/news/wex/democrats-using-google-search-ads-to-falsify-news-headlines-extends-past-harris-campaign/article_b7225077-e224-5387-9773-72e3acca68c9.html](https://gazette.com/news/wex/democrats-using-google-search-ads-to-falsify-news-headlines-extends-past-harris-campaign/article_b7225077-e224-5387-9773-72e3acca68c9.html)
  - date_published: 2024-08-15T10:00:00+00:00
@@ -1336,6 +1341,11 @@
  - [https://www.onet.pl/informacje/onetwiadomosci/donald-tusk-zastanawialem-sie-czy-to-mowic-ale-powiem-to-wprost/wkg3bmv,79cfc278](https://www.onet.pl/informacje/onetwiadomosci/donald-tusk-zastanawialem-sie-czy-to-mowic-ale-powiem-to-wprost/wkg3bmv,79cfc278)
  - date_published: 2024-11-10T22:11:51+00:00
  - tags: ['climate change', 'global warming']
+
+ ## DARK GOTHIC MAGA: How Tech Billionaires Plan to Destroy America
+ - [https://www.youtube.com/watch?v=5RpPTRcz1no](https://www.youtube.com/watch?v=5RpPTRcz1no)
+ - date_published: 2024-11-14T01:00:00+00:00
+ - tags: ['elon musk', 'network states', 'donald trump']
 
  ## ‘Positively dystopian’: Florida judge blocks DeSantis’ anti-woke law for colleges
  - [https://www.politico.com/news/2022/11/17/florida-anti-woke-law-block-colleges-education-00069252](https://www.politico.com/news/2022/11/17/florida-anti-woke-law-block-colleges-education-00069252)
