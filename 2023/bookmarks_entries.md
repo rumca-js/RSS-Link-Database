@@ -7573,6 +7573,11 @@
  - date_published: 2023-09-12T13:53:29+00:00
  - tags: ['lableak', 'covid', 'science is dead', 'wuhan']
 
+ ## CIA tried to pay off analysts to bury findings that COVID lab leak was likely: whistleblower
+ - [https://nypost.com/2023/09/12/cia-tried-to-pay-off-analysts-to-bury-covid-lab-leak-findings-whistleblower](https://nypost.com/2023/09/12/cia-tried-to-pay-off-analysts-to-bury-covid-lab-leak-findings-whistleblower)
+ - date_published: 2023-09-12T16:38:09+00:00
+ - tags: ['covid', 'cia', 'lab leak', 'wuhan']
+
  ## Game Development Post-Unity
  - [https://www.computerenhance.com/p/game-development-post-unity](https://www.computerenhance.com/p/game-development-post-unity)
  - date_published: 2023-09-14T00:19:07+00:00
@@ -8591,6 +8596,11 @@
  - date_published: 2023-12-26T10:51:16+00:00
  - tags: ['christioanophobia']
  - date_dead_since: 2024-05-29T13:59:08.812657+00:00
+
+ ## Chinese Hackers Deliver Malware to Barracuda Email Security Appliances via New Zero-Day
+ - [https://www.securityweek.com/chinese-hackers-deliver-malware-to-barracuda-email-security-appliances-via-new-zero-day](https://www.securityweek.com/chinese-hackers-deliver-malware-to-barracuda-email-security-appliances-via-new-zero-day)
+ - date_published: 2023-12-27T12:05:30+00:00
+ - tags: ['vulnerability', 'hackers', 'china']
 
  ## What comes after open source? Bruce Perens is working on it
  - [https://www.theregister.com/2023/12/27/bruce_perens_post_open](https://www.theregister.com/2023/12/27/bruce_perens_post_open)

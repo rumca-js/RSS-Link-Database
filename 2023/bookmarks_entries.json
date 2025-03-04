@@ -34718,7 +34718,7 @@
             "privacy",
             "cloud computing"
         ],
-        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/GettyImages-174879501.jpg",
+        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/GettyImages-174879501-1152x648.jpg",
         "title": "Tax preparers that shared private data with Meta, Google could be fined billions",
         "vote": 0
     },
@@ -34806,7 +34806,7 @@
             "misinformation",
             "artificial intelligence"
         ],
-        "thumbnail": "https://cdn.vox-cdn.com/thumbor/KiSXGLEZEtmRSN1jRtCuPzXyMcI=/0x0:7883x5258/1200x628/filters:focal(3942x2629:3943x2630)/cdn.vox-cdn.com/uploads/chorus_asset/file/24786710/1490690264.jpg",
+        "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24786710/1490690264.jpg?quality=90&strip=all&crop=0%2C10.75289909766%2C100%2C78.49420180468&w=1200",
         "title": "FTC investigating OpenAI on data collection and publication of false information",
         "vote": 0
     },
@@ -35063,7 +35063,7 @@
             "project",
             "rss"
         ],
-        "thumbnail": "https://opengraph.githubassets.com/8a7057fac640662a01c82c32df3d1a7f624dd36ec85fabb4c072f2cd7e531ca1/DIYgod/RSSHub",
+        "thumbnail": "https://opengraph.githubassets.com/7b29bfd633ff77198a9c19fd9f969470699880edd62f87c4cbfa532e3eca3723/DIYgod/RSSHub",
         "title": "GitHub - DIYgod/RSSHub: \ud83c\udf70 Everything is RSSible",
         "vote": 0
     },
@@ -35204,7 +35204,7 @@
             "static site",
             "selfhost"
         ],
-        "thumbnail": "https://opengraph.githubassets.com/80c05dcf36d71151f0231047cc8668e2953483190fbe0eecbdc6810c8f873123/All-About-Berlin/ursus",
+        "thumbnail": "https://opengraph.githubassets.com/cb837a88df579f49f2d27c126b399746115127d4ea53fa35fd8b87660ad9c18b/All-About-Berlin/ursus",
         "title": "GitHub - nicbou/ursus: Static site generator for All About Berlin",
         "vote": 0
     },
@@ -35404,7 +35404,7 @@
         "tags": [
             "programming"
         ],
-        "thumbnail": "https://opengraph.githubassets.com/bd3813a24209281596b62bce93958af3645ca40ec27f89b1481b2c9d122fbc5b/go-task/task",
+        "thumbnail": "https://opengraph.githubassets.com/6fdc44457a9c0be99beb3a69393365112ebef3f459151dde774061972d8be58e/go-task/task",
         "title": "GitHub - go-task/task: A task runner / simpler Make alternative written in Go",
         "vote": 0
     },
@@ -35421,8 +35421,8 @@
         "language": "en",
         "link": "https://www.bloomberg.com/news/articles/2023-07-16/israel-using-ai-systems-to-plan-deadly-military-operations#xj4y7vzkg",
         "manual_status_code": 0,
-        "page_rating": 29,
-        "page_rating_contents": 81,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -35653,14 +35653,14 @@
         "language": "en-US",
         "link": "https://abcnews.go.com/Technology/wireStory/meta-faces-100k-daily-fine-norway-regulator-privacy-101342705",
         "manual_status_code": 0,
-        "page_rating": 3,
+        "page_rating": 0,
         "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 9,
         "source_url": "http://feeds.abcnews.com/abcnews/topstories",
-        "status_code": 600,
+        "status_code": 404,
         "tags": [
             "privacy",
             "meta"
@@ -35682,18 +35682,18 @@
         "language": "en-US",
         "link": "https://www.coinspeaker.com/ai-adoption-bubble-stability-ai",
         "manual_status_code": 0,
-        "page_rating": 29,
-        "page_rating_contents": 81,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 72,
         "source_url": "https://www.codeproject.com/WebServices/NewsRSS.aspx",
-        "status_code": 403,
+        "status_code": 200,
         "tags": [
             "artificial intelligence"
         ],
-        "thumbnail": "https://coinspeaker.com/cdn-cgi/imagedelivery/-BqQuoxiOfYhg62js8a7lQ/faad756c-e66b-448a-c6ba-6cc8c59ac500/w=720,h=450,fit=crop",
+        "thumbnail": "https://www.coinspeaker.com/cdn-cgi/imagedelivery/-BqQuoxiOfYhg62js8a7lQ/faad756c-e66b-448a-c6ba-6cc8c59ac500/w=1024,h=683",
         "title": "AI is not ready for large scale adoption but will be biggest bubble of all time, says Stability AI CEO",
         "vote": 0
     },
@@ -35724,7 +35724,7 @@
             "surveillance",
             "data leak"
         ],
-        "thumbnail": "https://cdn.vox-cdn.com/thumbor/Yx4aT-8e-nwV_aBXtt0qFsr8M3s=/0x0:3105x2158/1200x628/filters:focal(1553x1079:1554x1080)/cdn.vox-cdn.com/uploads/chorus_asset/file/24794424/1500412709.jpg",
+        "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24794424/1500412709.jpg?quality=90&strip=all&crop=0%2C12.334234238606%2C100%2C75.331531522789&w=1200",
         "title": "Amazon\u2019s in-van surveillance footage of delivery drivers is leaking online",
         "vote": 0
     },
@@ -35771,7 +35771,7 @@
         "manual_status_code": 0,
         "page_rating": 29,
         "page_rating_contents": 81,
-        "page_rating_visits": 0,
+        "page_rating_visits": 1,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 355,
@@ -35784,7 +35784,7 @@
             "deplatform",
             "nigel farage"
         ],
-        "thumbnail": "https://www.telegraph.co.uk/content/dam/news/2023/07/18/TELEMMGLPICT000343041821_16896955739710_trans_NvBQzQNjv4BqYS1acP-ch22p5qESP2v6g_SVWeZ_vEN7c6bHu2jJnT8.jpeg?impolicy=logo-overlay",
+        "thumbnail": "https://www.telegraph.co.uk/content/dam/news/2023/07/18/TELEMMGLPICT000343041821_16896955739710_trans_NvBQzQNjv4BqYS1acP-ch22p5qESP2v6g_SVWeZ_vEN7c6bHu2jJnT8.jpeg?impolicy=OG-Standard",
         "title": "Nigel Farage\u2019s Coutts account closed as bank felt he did not \u2018align with their values\u2019",
         "vote": 0
     },
@@ -43738,6 +43738,36 @@
         "vote": 40
     },
     {
+        "age": 0,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2023-09-12T16:38:09+00:00",
+        "description": "The CIA offered to pay off analysts in order to bury their findings that COVID most likely leaked from a Wuhan lab, new whistleblower testimony to Congress alleges.",
+        "id": 2235187,
+        "language": "en-US",
+        "link": "https://nypost.com/2023/09/12/cia-tried-to-pay-off-analysts-to-bury-covid-lab-leak-findings-whistleblower",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "covid",
+            "cia",
+            "lab leak",
+            "wuhan"
+        ],
+        "thumbnail": "https://nypost.com/wp-content/uploads/sites/2/2023/09/NYPICHPDPICT000036327368.jpg?quality=75&strip=all&w=1024",
+        "title": "CIA tried to pay off analysts to bury findings that COVID lab leak was likely: whistleblower",
+        "vote": 0
+    },
+    {
         "age": null,
         "album": "Hacker News - frontpage",
         "author": "Hacker News - frontpage",
@@ -49548,6 +49578,35 @@
         "thumbnail": "https://i.abcnewsfe.com/a/6d60fb9c-b6dc-4991-b85b-f86ecf432e7a/wirestory_9e9e9cf4615f6e31053881e8d2233bca_16x9.jpg?w=992",
         "title": "At least 140 killed by suspected herders in dayslong attacks in north-central Nigeria",
         "vote": 5
+    },
+    {
+        "age": 0,
+        "album": null,
+        "author": "Eduard Kovacs",
+        "bookmarked": true,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2023-12-27T12:05:30+00:00",
+        "description": "Chinese hackers exploited a zero-day tracked as CVE-2023-7102 to deliver malware to Barracuda Email Security Gateway (ESG) appliances.",
+        "id": 2237640,
+        "language": "en-US",
+        "link": "https://www.securityweek.com/chinese-hackers-deliver-malware-to-barracuda-email-security-appliances-via-new-zero-day",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "vulnerability",
+            "hackers",
+            "china"
+        ],
+        "thumbnail": "https://www.securityweek.com/wp-content/uploads/2023/05/Barracuda-zero-day-1024x659.jpg",
+        "title": "Chinese Hackers Deliver Malware to Barracuda Email Security Appliances via New Zero-Day",
+        "vote": 0
     },
     {
         "age": null,
