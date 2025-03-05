@@ -676,6 +676,11 @@
  - date_published: 2024-04-03T15:18:07+00:00
  - tags: ['google', 'seo', 'technofeudalism']
 
+ ## FCC Fines Major U.S. Wireless Carriers for Selling Customer Location Data – Krebs on Security
+ - [https://krebsonsecurity.com/2024/04/fcc-fines-major-u-s-wireless-carriers-for-selling-customer-location-data](https://krebsonsecurity.com/2024/04/fcc-fines-major-u-s-wireless-carriers-for-selling-customer-location-data)
+ - date_published: 2024-04-04T17:51:58+00:00
+ - tags: ['privacy', 'surveillance']
+
  ## NPR - Breaking News, Analysis, Music, Arts & Podcasts
  - [https://npr.org](https://npr.org)
  - date_published: 2024-04-07T00:00:00+00:00

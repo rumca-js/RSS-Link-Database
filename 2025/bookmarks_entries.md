@@ -209,3 +209,8 @@
  - date_published: 2025-02-28T21:14:50+00:00
  - tags: ['technology', 'enshittification']
 
+ ## How Google tracks Android device users before they've even opened an app
+ - [https://www.theregister.com/2025/03/04/google_android](https://www.theregister.com/2025/03/04/google_android)
+ - date_published: 2025-03-04T11:16:47+00:00
+ - tags: ['privacy', 'surveillance']
+

@@ -3869,6 +3869,34 @@
         "vote": 0
     },
     {
+        "age": 0,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-04-04T17:51:58+00:00",
+        "description": "",
+        "id": 2242264,
+        "language": "en-US",
+        "link": "https://krebsonsecurity.com/2024/04/fcc-fines-major-u-s-wireless-carriers-for-selling-customer-location-data",
+        "manual_status_code": 0,
+        "page_rating": 28,
+        "page_rating_contents": 87,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "privacy",
+            "surveillance"
+        ],
+        "thumbnail": null,
+        "title": "FCC Fines Major U.S. Wireless Carriers for Selling Customer Location Data \u2013 Krebs on Security",
+        "vote": 0
+    },
+    {
         "age": null,
         "album": null,
         "author": null,
