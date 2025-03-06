@@ -29363,14 +29363,14 @@
         "language": "en-US",
         "link": "https://abcnews.go.com/International/wireStory/former-bytedance-executive-chinese-communist-party-tracked-hong-99894243",
         "manual_status_code": 0,
-        "page_rating": 3,
+        "page_rating": 0,
         "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 9,
         "source_url": "http://feeds.abcnews.com/abcnews/topstories",
-        "status_code": 600,
+        "status_code": 404,
         "tags": [
             "china",
             "bytedance",
@@ -29465,7 +29465,7 @@
             "technofeudalism",
             "subscription"
         ],
-        "thumbnail": "https://cdn.vox-cdn.com/thumbor/DlQ0aWsCKa_hIGORWL7hl5PLvsE=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951421/STK044_VRG_Illo_N_Barclay_1_twitch.jpg",
+        "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951421/STK044_VRG_Illo_N_Barclay_1_twitch.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "Twitch\u2019s new ad rules will hurt streamers, charities, and brands",
         "vote": 0
     },
@@ -29521,7 +29521,7 @@
             "immigration",
             "poland"
         ],
-        "thumbnail": "https://i.iplsc.com/-/000H97LMHNT5C72M-C411.jpg",
+        "thumbnail": "https://i.iplsc.com/-/000H97LMHNT5C72M-C316.jpg",
         "title": "Jest porozumienie ws. relokacji migrant\u00f3w mimo sprzeciwu Polski - RMF 24",
         "vote": 0
     },
@@ -29538,7 +29538,7 @@
         "language": "en-US",
         "link": "https://www.wsj.com/articles/cuba-to-host-secret-chinese-spy-base-focusing-on-u-s-b2fed0e0",
         "manual_status_code": 0,
-        "page_rating": 3,
+        "page_rating": 0,
         "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
@@ -29667,7 +29667,7 @@
             "google",
             "app store"
         ],
-        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/downloader.jpg",
+        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/downloader-1152x648.jpg",
         "title": "Google un-bans Downloader app, but developer still mad about \u201cbroken\u201d DMCA",
         "vote": 0
     },
@@ -29788,7 +29788,7 @@
             "oversight board",
             "technofeudalism"
         ],
-        "thumbnail": "https://www.telegraph.co.uk/content/dam/news/2023/06/09/TELEMMGLPICT000338780679_16863379499900_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg?impolicy=logo-overlay",
+        "thumbnail": "https://www.telegraph.co.uk/content/dam/news/2023/06/09/TELEMMGLPICT000338780679_16863379499900_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg?impolicy=OG-Standard",
         "title": "Covid disinformation unit made 'hourly contact' with tech firms to flag dissent, says Sarah Connolly",
         "vote": 0
     },
@@ -29858,21 +29858,21 @@
         "author": null,
         "bookmarked": true,
         "comments": [],
-        "date_dead_since": null,
+        "date_dead_since": "2025-03-05T21:51:02.100914+00:00",
         "date_published": "2023-06-09T17:51:12+00:00",
         "description": "<p>Article URL: <a href=\"https://balkaninsight.com/2023/06/09/turkish-citizens-personal-data-offered-online-after-govt-site-hacked/\">https://balkaninsight.com/2023/06/09/turkish-citizens-personal-data-offered-online-after-govt-site-hacked/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=36261411\">https://news.ycombinator.com/item?id=36261411</a></p>\n<p>Points: 55</p>\n<p># Comments: 9</p>",
         "id": 36271,
         "language": "en-US",
         "link": "https://balkaninsight.com/2023/06/09/turkish-citizens-personal-data-offered-online-after-govt-site-hacked",
         "manual_status_code": 0,
-        "page_rating": 31,
-        "page_rating_contents": 87,
+        "page_rating": 0,
+        "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 141,
         "source_url": "https://hnrss.org/frontpage",
-        "status_code": 403,
+        "status_code": 600,
         "tags": [
             "data leak",
             "hackers"
@@ -29894,7 +29894,7 @@
         "language": "en-US",
         "link": "https://bjornpagen.com/en_US/desktop%20linux%20is%20insecure",
         "manual_status_code": 0,
-        "page_rating": 3,
+        "page_rating": 0,
         "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
@@ -30318,7 +30318,7 @@
             "climate change",
             "meta"
         ],
-        "thumbnail": "https://carboncredits.b-cdn.net/wp-content/uploads/2023/06/shutterstock_2348182643.jpg",
+        "thumbnail": "https://carboncredits.com/wp-content/uploads/2023/06/shutterstock_2348182643.jpg",
         "title": "Meta to Buy Almost 7M Carbon Credits",
         "vote": 0
     },
@@ -30392,19 +30392,19 @@
         "language": "en-US",
         "link": "https://www.nytimes.com/2023/06/13/us/politics/nord-stream-pipeline-ukraine-cia.html",
         "manual_status_code": 0,
-        "page_rating": 29,
-        "page_rating_contents": 80,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 227,
         "source_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-        "status_code": 403,
+        "status_code": 200,
         "tags": [
             "cia",
             "nord stream"
         ],
-        "thumbnail": "https://static01.nyt.com/images/2023/06/13/multimedia/13dc-nordstream-qztf/13dc-nordstream-qztf-facebookJumbo.jpg",
+        "thumbnail": "https://static01.nyt.com/images/2023/06/13/multimedia/13dc-nordstream-qztf/13dc-nordstream-qztf-facebookJumbo.jpg?year=2023&h=549&w=1050&s=ae9ce7d0b2d66ad2098cbd9ca97a0be5101c699eb51d4527013df8487a3e3973&k=ZQJBKqZ0VN",
         "title": "C.I.A. Told Ukraine Last Summer It Should Not Attack Nord Stream Pipelines",
         "vote": 0
     },
@@ -30521,7 +30521,7 @@
             "google",
             "monopoly"
         ],
-        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/GettyImages-1258510752.jpg",
+        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/GettyImages-1258510752-1024x648.jpg",
         "title": "Google risks forced breakup of ad business as EU alleges shocking misconduct | Ars Technica",
         "vote": 0
     },
@@ -30667,7 +30667,7 @@
             "america",
             "big brother"
         ],
-        "thumbnail": "https://cdn.vox-cdn.com/thumbor/KaMQtsUvKiJeXBpWS-90_L_E_Lk=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23957252/acastro_190204_1777_privacy_0002.jpg",
+        "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23957252/acastro_190204_1777_privacy_0002.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "US spy agencies are buying the same surveillance data advertisers crave",
         "vote": 0
     },
@@ -30768,7 +30768,7 @@
         "link": "https://progress.institute/nuclear-power-plant-construction-costs",
         "manual_status_code": 0,
         "page_rating": 32,
-        "page_rating_contents": 90,
+        "page_rating_contents": 91,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -30778,7 +30778,7 @@
         "tags": [
             "climate change"
         ],
-        "thumbnail": "https://ifp.org/wp-content/uploads/cwatney_a_vaporwave_illustration_of_a_simple_but_advanced_nucle_3055bfd5-a691-4043-b093-d5780ad347eb-transformed-scaled.jpeg",
+        "thumbnail": "https://ifp.org/wp-content/uploads/cwatney_a_vaporwave_illustration_of_a_simple_but_advanced_nucle_3055bfd5-a691-4043-b093-d5780ad347eb-transformed-1024x585.jpeg",
         "title": "Why does nuclear power plant construction cost so much?",
         "vote": 0
     },
@@ -30795,7 +30795,7 @@
         "language": "en-US",
         "link": "https://www.wsj.com/articles/world-economic-forum-paper-reduce-cars-by-2050-davos-private-jets-climate-f0bb64b9",
         "manual_status_code": 0,
-        "page_rating": 3,
+        "page_rating": 0,
         "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
@@ -31463,7 +31463,7 @@
         "tags": [
             "selfhost"
         ],
-        "thumbnail": "https://repository-images.githubusercontent.com/567558968/441dc56f-ff43-454b-b21c-56b2ff147947",
+        "thumbnail": "https://repository-images.githubusercontent.com/567558968/9e3e0f99-a72c-4fe6-a9fd-ffac46173aa5",
         "title": "Undb \u2013 Private first, unified, self-hosted no code database",
         "vote": 0
     },
@@ -31632,7 +31632,7 @@
             "programming",
             "web design"
         ],
-        "thumbnail": "https://repository-images.githubusercontent.com/552877440/5a2eb44c-3348-465d-9f8c-d291d0acf438",
+        "thumbnail": "https://repository-images.githubusercontent.com/552877440/fd8b83bc-a093-4f7b-9e16-a0cd1f9f8572",
         "title": "I won't pay on your website",
         "vote": 0
     },
@@ -31788,19 +31788,19 @@
         "language": "en-US",
         "link": "https://www.axios.com/2023/06/20/exhibit-k-microsoft-activision",
         "manual_status_code": 0,
-        "page_rating": 19,
-        "page_rating_contents": 50,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 141,
         "source_url": "https://hnrss.org/frontpage",
-        "status_code": 403,
+        "status_code": 200,
         "tags": [
             "microsoft",
             "dark design"
         ],
-        "thumbnail": null,
+        "thumbnail": "https://images.axios.com/i5nuFSz6ohl_cas6cFuBdL886Go=/0x0:1920x1080/1366x768/2023/06/20/1687292137074.png",
         "title": "Email proves Microsoft's Activision bid is designed to eliminate Playstation",
         "vote": 0
     },
@@ -31868,20 +31868,20 @@
         "author": null,
         "bookmarked": true,
         "comments": [],
-        "date_dead_since": null,
+        "date_dead_since": "2025-03-05T12:27:05.967020+00:00",
         "date_published": "2023-06-22T10:51:31+00:00",
         "description": "Nearly 100,000 more deaths involving heart conditions and stroke than usual since pandemic began - BHF",
         "id": 36208,
         "language": "en",
         "link": "https://www.bhf.org.uk/what-we-do/news-from-the-bhf/news-archive/2023/june/100000-excess-deaths-cardiovascular-disease",
         "manual_status_code": 0,
-        "page_rating": 29,
-        "page_rating_contents": 81,
+        "page_rating": 0,
+        "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.bhf.org.uk",
-        "status_code": 200,
+        "status_code": 404,
         "tags": [
             "vaccine",
             "covid"
@@ -31972,7 +31972,7 @@
             "corporatocracy",
             "nestle"
         ],
-        "thumbnail": "http://wyomingllcattorney.com/images/nestle.jpg",
+        "thumbnail": "https://wyomingllcattorney.com/images/logoPath.png",
         "title": "Everything Owned by Nestl\u00e9 - List of Nestl\u00e9 Companies",
         "vote": 0
     },
@@ -32004,7 +32004,7 @@
             "canada",
             "online news act"
         ],
-        "thumbnail": "https://i.cbc.ca/1.6626014.1692656241!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/facebook-connect.JPG",
+        "thumbnail": "https://i.cbc.ca/1.6626014.1692656241!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_1180/facebook-connect.JPG?im=Resize%3D620",
         "title": "Canadians will no longer have access to news content on Facebook and Instagram",
         "vote": 0
     },
@@ -32090,7 +32090,7 @@
             "anthony fauci",
             "wuhan"
         ],
-        "thumbnail": "https://oversight.house.gov/wp-content/uploads/2023/01/social-share.png",
+        "thumbnail": "https://oversight.house.gov/wp-content/uploads/2025/02/social-share1.png",
         "title": "Wenstrup Reveals Explosive Emails from Fauci Ally, Requests Additional Communications - United States House Committee on Oversight and Accountability",
         "vote": 0
     },
@@ -32184,20 +32184,20 @@
         "author": null,
         "bookmarked": true,
         "comments": [],
-        "date_dead_since": null,
+        "date_dead_since": "2025-03-05T11:02:26.476699+00:00",
         "date_published": "2023-06-24T15:31:15+00:00",
         "description": "Lotnictwo. Prywatne odrzutowce generuj\u0105 10 razy wi\u0119cej gaz\u00f3w cieplarnianych ni\u017c loty rejsowe - raport ameryka\u0144skiego Instytutu Studi\u00f3w Politycznych - TVN24 Biznes",
         "id": 35511,
         "language": "pl",
         "link": "https://tvn24.pl/biznes/ze-swiata/lotnictwo-prywatne-odrzutowce-generuja-10-razy-wiecej-gazow-cieplarnianych-niz-loty-rejsowe-raport-amerykanskiego-instytutu-studiow-politycznych-7189114",
         "manual_status_code": 0,
-        "page_rating": 32,
-        "page_rating_contents": 90,
+        "page_rating": 0,
+        "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://tvn24.pl",
-        "status_code": 200,
+        "status_code": 604,
         "tags": [
             "global warming",
             "climate change"
@@ -32345,7 +32345,7 @@
         "tags": [
             "electric vehicles"
         ],
-        "thumbnail": "https://www.telegraph.co.uk/content/dam/news/2023/06/26/TELEMMGLPICT000340725211_16878105108310_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=logo-overlay",
+        "thumbnail": "https://www.telegraph.co.uk/content/dam/news/2023/06/26/TELEMMGLPICT000340725211_16878105108310_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=OG-Standard",
         "title": "Electric cars pothole damage is double that of petrol, Telegraph data show",
         "vote": 0
     },
@@ -32390,14 +32390,14 @@
         "language": "en-US",
         "link": "https://doubleagent.net/2023/05/21/a-car-battery-monitor-tracking-your-location",
         "manual_status_code": 0,
-        "page_rating": 3,
+        "page_rating": 0,
         "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 141,
         "source_url": "https://hnrss.org/frontpage",
-        "status_code": 600,
+        "status_code": 404,
         "tags": [
             "espionage",
             "privacy",
@@ -32424,19 +32424,19 @@
         "language": "en",
         "link": "https://www.nytimes.com/2023/06/27/health/transgender-suicide-risk-denmark.html?smtyp=cur&smid=tw-nytimes",
         "manual_status_code": 0,
-        "page_rating": 29,
-        "page_rating_contents": 80,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.nytimes.com",
-        "status_code": 403,
+        "status_code": 200,
         "tags": [
             "denmark",
             "transgender",
             "the left wing"
         ],
-        "thumbnail": "https://static01.nyt.com/images/2023/06/27/science/27trans-suicides/27trans-suicides-facebookJumbo.jpg",
+        "thumbnail": "https://static01.nyt.com/images/2023/06/27/science/27trans-suicides/27trans-suicides-facebookJumbo.jpg?year=2023&h=549&w=1050&s=f44cc9726517628011db08ebb236a352e5448debe9d731efddc4285df4758605&k=ZQJBKqZ0VN",
         "title": "Transgender People Have Higher Suicide Risk, Says Landmark Study from Denmark - The New York Times",
         "vote": 0
     },
@@ -32446,20 +32446,20 @@
         "author": null,
         "bookmarked": true,
         "comments": [],
-        "date_dead_since": "2024-10-05T03:13:02.799892+00:00",
+        "date_dead_since": null,
         "date_published": "2023-06-27T16:58:04+00:00",
         "description": "More than 100 U.S. political elites have family links to slavery",
         "id": 36189,
         "language": "en",
         "link": "https://www.reuters.com/investigates/special-report/usa-slavery-lawmakers",
         "manual_status_code": 0,
-        "page_rating": 3,
-        "page_rating_contents": 0,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.reuters.com",
-        "status_code": 600,
+        "status_code": 200,
         "tags": [
             "racism"
         ],
@@ -32609,7 +32609,7 @@
             "covid",
             "lockdown"
         ],
-        "thumbnail": "https://www.telegraph.co.uk/content/dam/news/2023/06/27/TELEMMGLPICT000340764053_16879004421680_trans_NvBQzQNjv4BqnY32puTRmJBD0IQz1kt_ZYX55UGE1-QmdhXTcMmlCx4.jpeg?impolicy=logo-overlay",
+        "thumbnail": "https://www.telegraph.co.uk/content/dam/news/2023/06/27/TELEMMGLPICT000340764053_16879004421680_trans_NvBQzQNjv4BqnY32puTRmJBD0IQz1kt_ZYX55UGE1-QmdhXTcMmlCx4.jpeg?impolicy=OG-Standard",
         "title": "Britain must prepare for harder lockdowns, warns Matt Hancock",
         "vote": 0
     },
@@ -32744,8 +32744,8 @@
         "language": "en",
         "link": "https://www.bloomberg.com/news/articles/2023-06-29/self-driving-car-video-from-waymo-cruise-give-police-crime-evidence",
         "manual_status_code": 0,
-        "page_rating": 29,
-        "page_rating_contents": 81,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -32845,7 +32845,7 @@
             "the left wing",
             "censorship"
         ],
-        "thumbnail": "https://www.telegraph.co.uk/content/dam/news/2023/06/29/TELEMMGLPICT000341021262_16880630413710_trans_NvBQzQNjv4Bqgo39pNpFMM7pPWHPnmqV_EikPYR0xYwuEBLwP9UFqPg.jpeg?impolicy=logo-overlay",
+        "thumbnail": "https://www.telegraph.co.uk/content/dam/news/2023/06/29/TELEMMGLPICT000341021262_16880630413710_trans_NvBQzQNjv4Bqgo39pNpFMM7pPWHPnmqV_EikPYR0xYwuEBLwP9UFqPg.jpeg?impolicy=OG-Standard",
         "title": "Colonel 'forced out of Army' after stating 'men cannot be women'",
         "vote": 0
     },
@@ -32992,7 +32992,7 @@
         "permanent": false,
         "source__id": 141,
         "source_url": "https://hnrss.org/frontpage",
-        "status_code": 403,
+        "status_code": 200,
         "tags": [
             "pollution",
             "microplastic"
@@ -33024,7 +33024,7 @@
         "tags": [
             "fahrenheit 451"
         ],
-        "thumbnail": "https://www.telegraph.co.uk/content/dam/news/2023/06/30/TELEMMGLPICT000341087112_16881570739290_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwQs4v22exkdQdQ8HxtVl3Yw.jpeg?impolicy=logo-overlay",
+        "thumbnail": "https://www.telegraph.co.uk/content/dam/news/2023/06/30/TELEMMGLPICT000341087112_16881570739290_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwQs4v22exkdQdQ8HxtVl3Yw.jpeg?impolicy=OG-Standard",
         "title": "Terry Pratchett\u2019s Discworld series gets content warning over \u2018outdated\u2019 attitudes",
         "vote": 0
     },
@@ -33137,7 +33137,7 @@
         "tags": [
             "artificial intelligence"
         ],
-        "thumbnail": "https://opengraph.githubassets.com/d380d4090919ea57c114d1fe314842c576f50b7752ee279b510376ec4e405b9f/joshpxyne/gpt-migrate",
+        "thumbnail": "https://opengraph.githubassets.com/f94472539f52d444edeed8215facfd5e750e1e7a02242fd5778e21837aa64dcb/joshpxyne/gpt-migrate",
         "title": "GPT-Migrate converts repos from one lang/framework to another",
         "vote": 0
     },
@@ -33165,7 +33165,7 @@
         "tags": [
             "solar panels"
         ],
-        "thumbnail": "https://opengraph.githubassets.com/ce6cc57eb4324b8e002eefea2aa430a28db92320de612886657fa6317d4929cd/jonatron/randomstuff",
+        "thumbnail": "https://opengraph.githubassets.com/0686909b72910b91e1d8b29d3c9509dea63259f5610718700f08ed11fe044dcd/jonatron/randomstuff",
         "title": "UK retail electricity prices hit -19p/kWh today",
         "vote": 0
     },

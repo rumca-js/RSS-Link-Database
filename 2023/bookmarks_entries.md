@@ -5152,6 +5152,7 @@
  - [https://balkaninsight.com/2023/06/09/turkish-citizens-personal-data-offered-online-after-govt-site-hacked](https://balkaninsight.com/2023/06/09/turkish-citizens-personal-data-offered-online-after-govt-site-hacked)
  - date_published: 2023-06-09T17:51:12+00:00
  - tags: ['data leak', 'hackers']
+ - date_dead_since: 2025-03-05T21:51:02.100914+00:00
 
  ## Desktop Linux is insecure – 2023
  - [https://bjornpagen.com/en_US/desktop%20linux%20is%20insecure](https://bjornpagen.com/en_US/desktop%20linux%20is%20insecure)
@@ -5505,6 +5506,7 @@
  - [https://www.bhf.org.uk/what-we-do/news-from-the-bhf/news-archive/2023/june/100000-excess-deaths-cardiovascular-disease](https://www.bhf.org.uk/what-we-do/news-from-the-bhf/news-archive/2023/june/100000-excess-deaths-cardiovascular-disease)
  - date_published: 2023-06-22T10:51:31+00:00
  - tags: ['vaccine', 'covid']
+ - date_dead_since: 2025-03-05T12:27:05.967020+00:00
 
  ## Dziura w moj.gov.pl - można było podejrzeć dane Polaków z bazy paszportów.
  - [https://niebezpiecznik.pl/post/dziura-w-rzadowym-systemie-mozna-bylo-podejrzec-cudze-paszporty-i-nie-tylko](https://niebezpiecznik.pl/post/dziura-w-rzadowym-systemie-mozna-bylo-podejrzec-cudze-paszporty-i-nie-tylko)
@@ -5560,6 +5562,7 @@
  - [https://tvn24.pl/biznes/ze-swiata/lotnictwo-prywatne-odrzutowce-generuja-10-razy-wiecej-gazow-cieplarnianych-niz-loty-rejsowe-raport-amerykanskiego-instytutu-studiow-politycznych-7189114](https://tvn24.pl/biznes/ze-swiata/lotnictwo-prywatne-odrzutowce-generuja-10-razy-wiecej-gazow-cieplarnianych-niz-loty-rejsowe-raport-amerykanskiego-instytutu-studiow-politycznych-7189114)
  - date_published: 2023-06-24T15:31:15+00:00
  - tags: ['global warming', 'climate change']
+ - date_dead_since: 2025-03-05T11:02:26.476699+00:00
 
  ## Australia: NSW Leader Wants To Ban Online Live Streaming of Climate Change Protests
  - [https://reclaimthenet.org/nsw-wants-to-ban-online-climate-change-protest-streaming](https://reclaimthenet.org/nsw-wants-to-ban-online-climate-change-protest-streaming)
@@ -5606,7 +5609,6 @@
  - [https://www.reuters.com/investigates/special-report/usa-slavery-lawmakers](https://www.reuters.com/investigates/special-report/usa-slavery-lawmakers)
  - date_published: 2023-06-27T16:58:04+00:00
  - tags: ['racism']
- - date_dead_since: 2024-10-05T03:13:02.799892+00:00
 
  ## LetMeSpy, a stalkerware app spying on thousands, says it was hacked
  - [https://techcrunch.com/2023/06/27/letmespy-hacked-spyware-thousands](https://techcrunch.com/2023/06/27/letmespy-hacked-spyware-thousands)
