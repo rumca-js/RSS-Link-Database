@@ -24633,7 +24633,7 @@
         "permanent": false,
         "source__id": 141,
         "source_url": "https://hnrss.org/frontpage",
-        "status_code": 403,
+        "status_code": 200,
         "tags": [
             "science is dead"
         ],
@@ -24786,7 +24786,7 @@
             "woke",
             "transformers"
         ],
-        "thumbnail": "https://www.telegraph.co.uk/content/dam/world-news/2023/05/14/TELEMMGLPICT000335636816_trans_NvBQzQNjv4Bq3C4DDbsH65fm6X__oq5DkHGTJFJS74MYhNY6w3GNbO8.jpeg?impolicy=logo-overlay",
+        "thumbnail": "https://www.telegraph.co.uk/content/dam/world-news/2023/05/14/TELEMMGLPICT000335636816_trans_NvBQzQNjv4Bq3C4DDbsH65fm6X__oq5DkHGTJFJS74MYhNY6w3GNbO8.jpeg?impolicy=OG-Standard",
         "title": "Transformers' new non-binary robot tells children gender neutral pronouns are 'wonderful'",
         "vote": 0
     },
@@ -24814,7 +24814,7 @@
         "tags": [
             "dead internet"
         ],
-        "thumbnail": "https://www.securitymagazine.com/ext/resources/2023/03/08/Cybersecurity-lock-pixabay.jpg?height=635&t=1690207688&width=1200",
+        "thumbnail": "https://www.securitymagazine.com/ext/resources/2023/03/08/Cybersecurity-lock-pixabay.jpg?height=635&t=1690211288&width=1200",
         "title": "47% of all internet traffic came from bots in 2022",
         "vote": 0
     },
@@ -24872,7 +24872,7 @@
             "canada",
             "surveillance"
         ],
-        "thumbnail": "https://i.cbc.ca/1.3829745.1478209775!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/patrick-lagace.jpg",
+        "thumbnail": "https://i.cbc.ca/1.3829745.1478209775!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/patrick-lagace.jpg?im=Resize%3D620",
         "title": "Surveillance of reporter a 'serious attack on freedom of the press in Canada'",
         "vote": 0
     },
@@ -25130,7 +25130,7 @@
         "tags": [
             "christianophobia"
         ],
-        "thumbnail": "https://www.theblaze.com/media-library/facebook-deletes-jesus-died-so-you-could-live-post-over-hate-speech-violation-former-writer-for-theblaze-says.jpg?id=33669649&width=1200&height=600&coordinates=0%2C0%2C0%2C120",
+        "thumbnail": "https://www.theblaze.com/media-library/image.jpg?id=33669649&width=1200&height=600&coordinates=0%2C0%2C0%2C120",
         "title": "Facebook deletes 'Jesus died so you could live' post over 'hate speech' violation, former writer for TheBlaze says - TheBlaze",
         "vote": 0
     },
@@ -25158,7 +25158,7 @@
             "technofeudalism",
             "microsoft"
         ],
-        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/prying-eyes-scaled.jpg",
+        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/prying-eyes-1152x648.jpg",
         "title": "Microsoft is scanning the inside of password-protected zip files for malware",
         "vote": 0
     },
@@ -25343,21 +25343,21 @@
         "author": null,
         "bookmarked": true,
         "comments": [],
-        "date_dead_since": "2024-10-05T21:04:23.520190+00:00",
+        "date_dead_since": null,
         "date_published": "2023-05-17T09:30:00+00:00",
         "description": "The academics acknowledged financial transactions with the late convicted sex offender.",
         "id": 36416,
         "language": "en-US",
         "link": "https://www.wsj.com/articles/jeffrey-epstein-noam-chomsky-leon-botstein-bard-ce5beb9d",
         "manual_status_code": 0,
-        "page_rating": 3,
-        "page_rating_contents": 0,
+        "page_rating": 29,
+        "page_rating_contents": 81,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 362,
         "source_url": "https://feeds.a.dj.com/rss/RSSWorldNews.xml",
-        "status_code": 600,
+        "status_code": 200,
         "tags": [
             "noam chomsky",
             "leon botstein",
@@ -25508,7 +25508,7 @@
             "subscription",
             "youtube"
         ],
-        "thumbnail": "https://cdn.vox-cdn.com/thumbor/1L6awTcXjbADLDMFfR9g1r5lzDc=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23986640/acastro_STK092_04.jpg",
+        "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23986640/acastro_STK092_04.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "YouTube is bringing unskippable 30-second ads to TV",
         "vote": 0
     },
@@ -25518,20 +25518,20 @@
         "author": null,
         "bookmarked": true,
         "comments": [],
-        "date_dead_since": null,
+        "date_dead_since": "2025-03-06T18:48:05.502277+00:00",
         "date_published": "2023-05-18T15:33:12+00:00",
         "description": "Disney To Produce More LGBTQ+ Content In New Partnership With Equalpride - The Publica",
         "id": 36407,
         "language": "en-US",
         "link": "https://www.thepublica.com/disney-to-produce-more-lgbtq-content-in-new-partnership-with-equalpride",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 0,
+        "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.thepublica.com",
-        "status_code": 200,
+        "status_code": 404,
         "tags": [
             "the left wing",
             "lgbt",
@@ -25567,7 +25567,7 @@
             "hardware",
             "moore law"
         ],
-        "thumbnail": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_tUhlcCtU--wBCtxwtsb6UDSMUwdlkOh7PCaHT_HpQA75pkUACXou30-euEZbO5j0SFxqYCNFvSPD4BTWHEeJXBrG8O927JKdxFaLwutPtfpVdUAg=w1200-h630-p-k-no-nu",
+        "thumbnail": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_sDVYwqo-FwPUUVsDBCSIXXV9FMnMly0rb4wE7tAsG1fbiC25RWwaMxSZXckvjmMT1ol_wO68xUdFl3iDXCj1dbvGhxMyjBivXoy1CXBX7NiKZS6A=w1200-h630-p-k-no-nu",
         "title": "The Great CPU Stagnation",
         "vote": 0
     },
@@ -25613,8 +25613,8 @@
         "language": "en-US",
         "link": "https://twitter.com/AnunaDe/status/1659486023615643649",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 31,
+        "page_rating_contents": 87,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -25709,7 +25709,7 @@
             "vulnerability",
             "malware"
         ],
-        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/malware.jpg",
+        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/malware-1000x648.jpg",
         "title": "Potentially millions of Android TVs and phones come with malware preinstalled",
         "vote": 0
     },
@@ -25842,7 +25842,7 @@
         "manual_status_code": 0,
         "page_rating": 29,
         "page_rating_contents": 82,
-        "page_rating_visits": 0,
+        "page_rating_visits": 1,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://en.wikipedia.org",
@@ -25851,7 +25851,7 @@
             "donald trump",
             "propaganda"
         ],
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1200px-Donald_Trump_official_portrait.jpg",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TrumpPortrait.jpg/1200px-TrumpPortrait.jpg",
         "title": "Donald Trump - Wikipedia",
         "vote": 0
     },
@@ -25995,7 +25995,7 @@
             "facebook",
             "meta"
         ],
-        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/getty-facebook.jpg",
+        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/getty-facebook-1152x648.jpg",
         "title": "Facebook hit with record \u20ac1.2 billion GDPR fine for transferring EU data to US",
         "vote": 0
     },
@@ -26025,7 +26025,7 @@
             "digital identity",
             "privacy"
         ],
-        "thumbnail": "https://cdn.vox-cdn.com/thumbor/7B6LfbjAt0kxMowMXzGot-yE2MM=/0x0:2640x1486/1200x628/filters:focal(1320x743:1321x744)/cdn.vox-cdn.com/uploads/chorus_asset/file/24673732/amazon_palm_identity.jpg",
+        "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24673732/amazon_palm_identity.jpg?quality=90&strip=all&crop=0%2C3.4926328102429%2C100%2C93.014734379514&w=1200",
         "title": "Amazon\u2019s palm-scanning technology can let you buy a drink without getting out your ID",
         "vote": 0
     },
@@ -26573,19 +26573,19 @@
         "language": "en-US",
         "link": "https://www.nytimes.com/2023/05/22/dining/restaurant-qr-code-menu.html",
         "manual_status_code": 0,
-        "page_rating": 29,
-        "page_rating_contents": 80,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 141,
         "source_url": "https://hnrss.org/frontpage",
-        "status_code": 403,
+        "status_code": 200,
         "tags": [
             "covid",
             "qr codes"
         ],
-        "thumbnail": "https://static01.nyt.com/images/2023/05/24/dining/24QR-Menu/24QR-Menu-facebookJumbo.jpg",
+        "thumbnail": "https://static01.nyt.com/images/2023/05/24/dining/24QR-Menu/24QR-Menu-facebookJumbo.jpg?year=2023&h=549&w=1050&s=89ffef91283fe61a411245df2556698f3024e43c508aed8e8420acbe88a75f5e&k=ZQJBKqZ0VN",
         "title": "The QR-code menu is being shown the door",
         "vote": 0
     },
@@ -26672,7 +26672,7 @@
             "paypal",
             "palestine"
         ],
-        "thumbnail": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2023/05/25/3835156-1959627894.jpg?itok=GZuZuncs",
+        "thumbnail": "https://www.arabnews.com/sites/default/files/styles/660x371_watermarksaudi/public/main-image/2023/05/25/3835156-1959627894.jpg?itok=nUfskjBW",
         "title": "US lawmakers urge PayPal to end ban on Palestinians in Occupied Territories",
         "vote": 0
     },
@@ -26759,7 +26759,7 @@
         "tags": [
             "neuralink"
         ],
-        "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/EF2B/production/_129872216_806fa50d14700ee7344f8f84ddd22dcc42e6bd610_90_4000_22501000x563.jpg",
+        "thumbnail": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/EF2B/production/_129872216_806fa50d14700ee7344f8f84ddd22dcc42e6bd610_90_4000_22501000x563.jpg",
         "title": "Neuralink: Elon Musk's brain chip firm says US approval won for human study",
         "vote": 0
     },
@@ -26951,18 +26951,18 @@
         "language": "en-US",
         "link": "https://www.timesofisrael.com/near-the-western-wall-jewish-radicals-shout-at-christian-evangelicals-to-go-home",
         "manual_status_code": 0,
-        "page_rating": 19,
-        "page_rating_contents": 50,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.timesofisrael.com",
-        "status_code": 403,
+        "status_code": 200,
         "tags": [
             "israel",
             "christianophobia"
         ],
-        "thumbnail": null,
+        "thumbnail": "https://static-cdn.toi-media.com/www/uploads/2023/05/F230528ALA13.jpg",
         "title": "Near the Western Wall, Jewish radicals shout at Christian Evangelicals to 'go home' | The Times of Israel",
         "vote": 0
     },
@@ -27248,7 +27248,7 @@
         "tags": [
             "youtube"
         ],
-        "thumbnail": "https://www.favoree.io/images/allChannels.png",
+        "thumbnail": "https://www.favoree.io/favicon.ico",
         "title": "Favoree - Discover quality channels from YouTube",
         "vote": 0
     },
@@ -27323,7 +27323,7 @@
         "link": "https://pvs-studio.com/en/blog/posts/cpp/1053",
         "manual_status_code": 0,
         "page_rating": 32,
-        "page_rating_contents": 90,
+        "page_rating_contents": 91,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -27333,7 +27333,7 @@
             "programming",
             "c++"
         ],
-        "thumbnail": "https://files.pvs-studio.com/media/docx/blog/1053_60_cpp_antipatterns/image1_thm_intoblank_1200x630.png?ver=06-24-2024-14-30-25",
+        "thumbnail": "https://wcdn.pvs-studio.com/media/docx/blog/1053_60_cpp_antipatterns/image1_thm_intoblank_1200x630.png?ver=03-03-2025-12-15-47",
         "title": "60 terrible tips for a C++ developer",
         "vote": 0
     },
@@ -27391,7 +27391,7 @@
             "england",
             "racism"
         ],
-        "thumbnail": "https://www.telegraph.co.uk/content/dam/news/2023/05/31/TELEMMGLPICT000323973822_16855349388810_trans_NvBQzQNjv4BqRo0U4xU-30oDveS4pXV-Vv4Xpit_DMGvdp2n7FDd82k.jpeg?impolicy=logo-overlay",
+        "thumbnail": "https://www.telegraph.co.uk/content/dam/news/2023/05/31/TELEMMGLPICT000323973822_16855349388810_trans_NvBQzQNjv4BqRo0U4xU-30oDveS4pXV-Vv4Xpit_DMGvdp2n7FDd82k.jpeg?impolicy=OG-Standard",
         "title": "RAF told to \u2018stop choosing useless white male pilots\u2019, leak reveals",
         "vote": 0
     },
@@ -27469,7 +27469,7 @@
         "language": "en-US",
         "link": "https://www.wsj.com/articles/jamie-dimon-says-he-never-discussed-jeffrey-epsteins-accounts-at-jpmorgan-jes-staley-says-dimon-did-b11f0da5",
         "manual_status_code": 0,
-        "page_rating": 3,
+        "page_rating": 0,
         "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
@@ -27599,7 +27599,7 @@
             "technofeudalism",
             "google"
         ],
-        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/downloader-browser.png",
+        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/downloader-browser-1152x648.png",
         "title": "Google bans Downloader app after TV firms complain it can load a pirate website | Ars Technica",
         "vote": 0
     },
@@ -27629,7 +27629,7 @@
             "selfhost",
             "open source"
         ],
-        "thumbnail": "https://opengraph.githubassets.com/f2755b7f15ee72fd57efbcb2ddc9ec32c27aa675f931167162012fd8aa6bcd2b/reddit-archive/reddit",
+        "thumbnail": "https://opengraph.githubassets.com/bf6cd6a4a2a01a0696b9ac974dea1d7e071e74e6784a337ba10e2c14a8a8ff7a/reddit-archive/reddit",
         "title": "Old Reddit is open source",
         "vote": 0
     },
@@ -27646,14 +27646,14 @@
         "language": "en-US",
         "link": "https://technomancers.ai/japan-goes-all-in-copyright-doesnt-apply-to-ai-training",
         "manual_status_code": 0,
-        "page_rating": 3,
+        "page_rating": 0,
         "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 141,
         "source_url": "https://hnrss.org/frontpage",
-        "status_code": 600,
+        "status_code": 526,
         "tags": [
             "corporatocracy",
             "artificial intelligence",
@@ -27737,14 +27737,14 @@
         "language": "en-US",
         "link": "https://www.axios.com/2023/05/31/ftc-ring-employees-illegally-accessed-user-private-videos",
         "manual_status_code": 0,
-        "page_rating": 19,
-        "page_rating_contents": 50,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 141,
         "source_url": "https://hnrss.org/frontpage",
-        "status_code": 403,
+        "status_code": 200,
         "tags": [
             "amazon",
             "ring",
@@ -27753,7 +27753,7 @@
             "alexa",
             "privacy"
         ],
-        "thumbnail": null,
+        "thumbnail": "https://images.axios.com/32yRpdSXDPTUNrPPfko7NuiaYag=/0x244:6570x3940/1366x768/2023/05/31/1685560714337.jpg",
         "title": "Amazon to pay over $30M for Ring and Alexa privacy violations",
         "vote": 0
     },
@@ -28004,7 +28004,7 @@
         "tags": [
             "browser extensions"
         ],
-        "thumbnail": "https://addons.mozilla.org/user-media/previews/full/304/304028.png?modified=1724145704",
+        "thumbnail": "https://addons.mozilla.org/user-media/previews/full/309/309041.png?modified=1732278185",
         "title": "Ghostery \u2013 Privacy Ad Blocker \u2013 Get this Extension for \ud83e\udd8a Firefox (en-US)",
         "vote": 0
     },
@@ -28048,14 +28048,14 @@
         "language": "en-US",
         "link": "https://netherlands.postsen.com/trends/198695/Securitytxt-now-mandatory-for-Dutch-government-websites.html",
         "manual_status_code": 0,
-        "page_rating": 29,
-        "page_rating_contents": 81,
+        "page_rating": 19,
+        "page_rating_contents": 50,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 141,
         "source_url": "https://hnrss.org/frontpage",
-        "status_code": 403,
+        "status_code": 200,
         "tags": [
             "government control",
             "open source",
@@ -28117,7 +28117,7 @@
         "permanent": false,
         "source__id": 141,
         "source_url": "https://hnrss.org/frontpage",
-        "status_code": 403,
+        "status_code": 200,
         "tags": [
             "sexism",
             "feminism"
@@ -28258,7 +28258,7 @@
         "language": "en-US",
         "link": "https://www.wsj.com/articles/spains-catholic-church-finds-church-personnel-abused-hundreds-3047140a",
         "manual_status_code": 0,
-        "page_rating": 3,
+        "page_rating": 0,
         "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
@@ -28301,7 +28301,7 @@
             "england",
             "counter disinformation unit"
         ],
-        "thumbnail": "https://www.telegraph.co.uk/content/dam/news/2023/06/02/TELEMMGLPICT000338017944_16857339464780_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg?impolicy=logo-overlay",
+        "thumbnail": "https://www.telegraph.co.uk/content/dam/news/2023/06/02/TELEMMGLPICT000338017944_16857339464780_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg?impolicy=OG-Standard",
         "title": "Ministers\u2019 had \u2018chilling\u2019 secret unit to curb lockdown dissent",
         "vote": 0
     },
@@ -28618,7 +28618,7 @@
             "lockdown",
             "covid"
         ],
-        "thumbnail": "https://www.telegraph.co.uk/content/dam/news/2023/06/04/TELEMMGLPICT000338267823_16859104323550_trans_NvBQzQNjv4Bq-IWLY18X4-CzgyIcjLEAj_SVWeZ_vEN7c6bHu2jJnT8.jpeg?impolicy=logo-overlay",
+        "thumbnail": "https://www.telegraph.co.uk/content/dam/news/2023/06/04/TELEMMGLPICT000338267823_16859104323550_trans_NvBQzQNjv4Bq-IWLY18X4-CzgyIcjLEAj_SVWeZ_vEN7c6bHu2jJnT8.jpeg?impolicy=OG-Standard",
         "title": "Lockdown benefits \u2018a drop in the bucket compared to the costs\u2019, landmark study concludes",
         "vote": 0
     },
@@ -28648,7 +28648,7 @@
             "censorship",
             "surveillance"
         ],
-        "thumbnail": "https://www.telegraph.co.uk/content/dam/news/2023/06/02/TELEMMGLPICT000338019867_16857250713540_trans_NvBQzQNjv4BqNJjoeBT78QIaYdkJdEY4CnGTJFJS74MYhNY6w3GNbO8.jpeg?impolicy=logo-overlay",
+        "thumbnail": "https://www.telegraph.co.uk/content/dam/news/2023/06/02/TELEMMGLPICT000338019867_16857250713540_trans_NvBQzQNjv4BqNJjoeBT78QIaYdkJdEY4CnGTJFJS74MYhNY6w3GNbO8.jpeg?impolicy=OG-Standard",
         "title": "The AI firm that conducted \u2018state surveillance\u2019 of your social media posts",
         "vote": 0
     },
@@ -28658,20 +28658,20 @@
         "author": null,
         "bookmarked": true,
         "comments": [],
-        "date_dead_since": "2024-10-05T12:24:08.061321+00:00",
+        "date_dead_since": null,
         "date_published": "2023-06-04T12:55:24+00:00",
         "description": "Police Corruption! Christian Arrested in PA for Preaching Three Words at Pride Event: 'God is Not-' -",
         "id": 36309,
         "language": "en-US",
         "link": "https://protestia.com/2023/06/04/police-corruption-christian-arrested-in-pa-for-preaching-three-words-at-pride-event-god-is-not",
         "manual_status_code": 0,
-        "page_rating": 3,
-        "page_rating_contents": 0,
+        "page_rating": 32,
+        "page_rating_contents": 91,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://protestia.com",
-        "status_code": 603,
+        "status_code": 200,
         "tags": [
             "christianophobia",
             "the left wing",
@@ -28776,25 +28776,25 @@
         "author": null,
         "bookmarked": true,
         "comments": [],
-        "date_dead_since": "2024-10-05T12:03:18.651052+00:00",
+        "date_dead_since": null,
         "date_published": "2023-06-05T07:35:36+00:00",
         "description": "Microsoft says Clop ransomware gang is behind MOVEit mass-hacks, as first victims come forward",
         "id": 36305,
         "language": "en",
         "link": "https://techcrunch.com/2023/06/05/microsoft-clop-moveit-hacks-victims/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAGkaUf4Grbg83VGYAcl5xtMZ0bTAktN4HkPaIAYBnmTZPLezMyFRa07m1uh-fRsRlF6WMVWW3cIBZVstkzINddB7w7VY97aRdFGvhSxUw-3ZOlTLGo2RGsObTCqCnSFZR2Nu5Zd5kdPrcj3W5K40xVGhL_IM66wLdEH8O0in4rSw",
         "manual_status_code": 0,
-        "page_rating": 3,
-        "page_rating_contents": 0,
+        "page_rating": 32,
+        "page_rating_contents": 91,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://techcrunch.com",
-        "status_code": 0,
+        "status_code": 200,
         "tags": [
             "hackers",
             "data leak"
         ],
-        "thumbnail": null,
+        "thumbnail": "https://techcrunch.com/wp-content/uploads/2018/09/GettyImages-464314465.jpg?resize=1200,800",
         "title": "Microsoft says Clop ransomware gang is behind MOVEit mass-hacks, as first victims come forward",
         "vote": 0
     },
@@ -28928,8 +28928,8 @@
         "language": "en",
         "link": "https://twitter.com/GrahamAllen_1/status/1665772989529354240",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 31,
+        "page_rating_contents": 87,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -29045,8 +29045,8 @@
         "language": "en-US",
         "link": "https://global.chinadaily.com.cn/a/202306/06/WS647f3e81a31033ad3f7bac8d.html",
         "manual_status_code": 0,
-        "page_rating": 29,
-        "page_rating_contents": 80,
+        "page_rating": 27,
+        "page_rating_contents": 75,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -29059,7 +29059,7 @@
             "vaccine passport",
             "digital identity"
         ],
-        "thumbnail": "https://img2.chinadaily.com.cn/images/202306/06/647f3e81a31033ad342a8a6a.jpeg",
+        "thumbnail": "http://img2.chinadaily.com.cn/images/202306/06/647f3e81a31033ad342a8a6a.jpeg",
         "title": "WHO to set up global digital health certificate system - Chinadaily.com.cn",
         "vote": 0
     },
@@ -29088,7 +29088,7 @@
             "technofeudalism",
             "reddit"
         ],
-        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2021/08/getty-reddit-icon-scaled.jpg",
+        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2021/08/getty-reddit-icon-1152x648.jpg",
         "title": "Reddit\u2019s plan to kill third-party apps sparks widespread protests",
         "vote": 0
     },
@@ -29164,19 +29164,19 @@
         "language": "en-US",
         "link": "https://www.nytimes.com/2023/06/06/us/politics/nord-stream-pipeline-attack-intelligence.html",
         "manual_status_code": 0,
-        "page_rating": 29,
-        "page_rating_contents": 80,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 227,
         "source_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-        "status_code": 403,
+        "status_code": 200,
         "tags": [
             "america",
             "nord stream"
         ],
-        "thumbnail": "https://static01.nyt.com/images/2023/06/06/multimedia/06dc-nordstream-pmwv/06dc-nordstream-pmwv-facebookJumbo.jpg",
+        "thumbnail": "https://static01.nyt.com/images/2023/06/06/multimedia/06dc-nordstream-pmwv/06dc-nordstream-pmwv-facebookJumbo.jpg?year=2023&h=550&w=1050&s=2e34249c463c4b404c3c05925235018a80fe642b49f88fb5da6e24906b31390f&k=ZQJBKqZ0VN",
         "title": "U.S. Was Aware of Ukrainian Plan to Bomb Nord Stream Pipeline Before Attack",
         "vote": 0
     },
@@ -29234,7 +29234,7 @@
             "artificial intelligence",
             "manufacturing consent"
         ],
-        "thumbnail": "https://cdn.vox-cdn.com/thumbor/5X0IGMLrTUsRnyo97W-GRqDZBiA=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24347781/STK095_Microsoft_03.jpg",
+        "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24347781/STK095_Microsoft_03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "Microsoft has no shame: Bing spit on my \u2018Chrome\u2019 search with a fake AI answer",
         "vote": 0
     },
@@ -29244,21 +29244,21 @@
         "author": null,
         "bookmarked": true,
         "comments": [],
-        "date_dead_since": null,
+        "date_dead_since": "2025-03-06T00:48:40.520484+00:00",
         "date_published": "2023-06-07T05:45:07+00:00",
         "description": "<p>Article URL: <a href=\"https://www.stockperformer.com/blog/is-ai-killing-the-stock-industry-a-data-perspective/\">https://www.stockperformer.com/blog/is-ai-killing-the-stock-industry-a-data-perspective/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=36223307\">https://news.ycombinator.com/item?id=36223307</a></p>\n<p>Points: 21</p>\n<p># Comments: 6</p>",
         "id": 36289,
         "language": "en-US",
         "link": "https://www.stockperformer.com/blog/is-ai-killing-the-stock-industry-a-data-perspective",
         "manual_status_code": 0,
-        "page_rating": 29,
-        "page_rating_contents": 82,
+        "page_rating": 0,
+        "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 141,
         "source_url": "https://hnrss.org/frontpage",
-        "status_code": 200,
+        "status_code": 404,
         "tags": [
             "artificial intelligence"
         ],

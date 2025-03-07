@@ -6362,6 +6362,36 @@
         "vote": 0
     },
     {
+        "age": 0,
+        "album": null,
+        "author": "National File News",
+        "bookmarked": true,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2021-06-03T22:18:49+00:00",
+        "description": "Peter Daszak, who studied \"gain of function\" experiments on coronavirus elements in Wuhan, received $7.5 million from Fauci after Trump cancelled his grant.",
+        "id": 2258073,
+        "language": "en-US",
+        "link": "https://nationalfile.com/bombshell-fauci-kept-funding-peter-daszaks-wuhan-gain-of-function-experiments-with-7-5-million-after-trump-canceled-grant",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "peter daszak",
+            "covid",
+            "wuhan",
+            "fauci"
+        ],
+        "thumbnail": "http://nationalfile.com/wp-content/uploads/2021/06/Trump-Fauci-Peter-Daszak.jpg",
+        "title": "BOMBSHELL: Fauci Kept Funding Peter Daszak's Wuhan 'Gain of Function' Experiments with $7.5 Million after Trump Canceled Grant",
+        "vote": 0
+    },
+    {
         "age": null,
         "album": null,
         "author": null,

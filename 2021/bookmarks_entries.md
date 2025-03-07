@@ -1098,6 +1098,11 @@
  - date_published: 2021-06-03T21:09:28+00:00
  - tags: ['anthony fauci', 'covid lie', 'covid']
 
+ ## BOMBSHELL: Fauci Kept Funding Peter Daszak's Wuhan 'Gain of Function' Experiments with $7.5 Million after Trump Canceled Grant
+ - [https://nationalfile.com/bombshell-fauci-kept-funding-peter-daszaks-wuhan-gain-of-function-experiments-with-7-5-million-after-trump-canceled-grant](https://nationalfile.com/bombshell-fauci-kept-funding-peter-daszaks-wuhan-gain-of-function-experiments-with-7-5-million-after-trump-canceled-grant)
+ - date_published: 2021-06-03T22:18:49+00:00
+ - tags: ['peter daszak', 'covid', 'wuhan', 'fauci']
+
  ## Who is Peter Daszak, the nonprofit exec who sent taxpayer money to Wuhan lab?
  - [https://nypost.com/2021/06/04/who-is-peter-daszak-exec-who-sent-taxpayer-money-to-wuhan-lab](https://nypost.com/2021/06/04/who-is-peter-daszak-exec-who-sent-taxpayer-money-to-wuhan-lab)
  - date_published: 2021-06-04T07:17:33+00:00

@@ -4369,7 +4369,6 @@
  - [https://www.wsj.com/articles/jeffrey-epstein-noam-chomsky-leon-botstein-bard-ce5beb9d](https://www.wsj.com/articles/jeffrey-epstein-noam-chomsky-leon-botstein-bard-ce5beb9d)
  - date_published: 2023-05-17T09:30:00+00:00
  - tags: ['noam chomsky', 'leon botstein', 'jeffrey epstein']
- - date_dead_since: 2024-10-05T21:04:23.520190+00:00
 
  ## EU passes first regulatory framework for cryptocurrency • The Register
  - [https://www.theregister.com/2023/05/17/eu_passes_cryptocurrency_regs](https://www.theregister.com/2023/05/17/eu_passes_cryptocurrency_regs)
@@ -4400,6 +4399,7 @@
  - [https://www.thepublica.com/disney-to-produce-more-lgbtq-content-in-new-partnership-with-equalpride](https://www.thepublica.com/disney-to-produce-more-lgbtq-content-in-new-partnership-with-equalpride)
  - date_published: 2023-05-18T15:33:12+00:00
  - tags: ['the left wing', 'lgbt', 'woke', 'disney']
+ - date_dead_since: 2025-03-06T18:48:05.502277+00:00
 
  ## The Great CPU Stagnation
  - [http://databasearchitects.blogspot.com/2023/04/the-great-cpu-stagnation.html](http://databasearchitects.blogspot.com/2023/04/the-great-cpu-stagnation.html)
@@ -4943,7 +4943,6 @@
  - [https://protestia.com/2023/06/04/police-corruption-christian-arrested-in-pa-for-preaching-three-words-at-pride-event-god-is-not](https://protestia.com/2023/06/04/police-corruption-christian-arrested-in-pa-for-preaching-three-words-at-pride-event-god-is-not)
  - date_published: 2023-06-04T12:55:24+00:00
  - tags: ['christianophobia', 'the left wing', 'lgbt', 'america']
- - date_dead_since: 2024-10-05T12:24:08.061321+00:00
 
  ## San Francisco Homeowners Lose $260B in Value
  - [https://www.hoover.org/research/san-francisco-homeowners-lose-260-billion-value](https://www.hoover.org/research/san-francisco-homeowners-lose-260-billion-value)
@@ -4964,7 +4963,6 @@
  - [https://techcrunch.com/2023/06/05/microsoft-clop-moveit-hacks-victims/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAGkaUf4Grbg83VGYAcl5xtMZ0bTAktN4HkPaIAYBnmTZPLezMyFRa07m1uh-fRsRlF6WMVWW3cIBZVstkzINddB7w7VY97aRdFGvhSxUw-3ZOlTLGo2RGsObTCqCnSFZR2Nu5Zd5kdPrcj3W5K40xVGhL_IM66wLdEH8O0in4rSw](https://techcrunch.com/2023/06/05/microsoft-clop-moveit-hacks-victims/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAGkaUf4Grbg83VGYAcl5xtMZ0bTAktN4HkPaIAYBnmTZPLezMyFRa07m1uh-fRsRlF6WMVWW3cIBZVstkzINddB7w7VY97aRdFGvhSxUw-3ZOlTLGo2RGsObTCqCnSFZR2Nu5Zd5kdPrcj3W5K40xVGhL_IM66wLdEH8O0in4rSw)
  - date_published: 2023-06-05T07:35:36+00:00
  - tags: ['hackers', 'data leak']
- - date_dead_since: 2024-10-05T12:03:18.651052+00:00
 
  ## Why Did Usenet Fail?
  - [https://shkspr.mobi/blog/2023/06/why-did-usenet-fail](https://shkspr.mobi/blog/2023/06/why-did-usenet-fail)
@@ -5045,6 +5043,7 @@
  - [https://www.stockperformer.com/blog/is-ai-killing-the-stock-industry-a-data-perspective](https://www.stockperformer.com/blog/is-ai-killing-the-stock-industry-a-data-perspective)
  - date_published: 2023-06-07T05:45:07+00:00
  - tags: ['artificial intelligence']
+ - date_dead_since: 2025-03-06T00:48:40.520484+00:00
 
  ## White genocide conspiracy theory - Wikipedia
  - [https://en.wikipedia.org/wiki/White_genocide_conspiracy_theory](https://en.wikipedia.org/wiki/White_genocide_conspiracy_theory)
