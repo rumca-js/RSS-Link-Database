@@ -19362,20 +19362,20 @@
         "author": null,
         "bookmarked": true,
         "comments": [],
-        "date_dead_since": null,
+        "date_dead_since": "2025-03-07T23:11:03.952430+00:00",
         "date_published": "2023-04-11T07:24:51+00:00",
         "description": "FBI documents associate internet slang like \u2018based\u2019 and \u2018red pill\u2019 with \u2018extremism\u2019",
         "id": 36613,
         "language": "en-US",
         "link": "https://www.adelaidenow.com.au/technology/online/fbi-documents-associate-internet-slang-like-based-and-red-pill-with-extremism/news-story/ddd80d4878aaae8b033e24286cf3577a",
         "manual_status_code": 0,
-        "page_rating": 29,
-        "page_rating_contents": 81,
+        "page_rating": 0,
+        "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.adelaidenow.com.au",
-        "status_code": 200,
+        "status_code": 603,
         "tags": [
             "fbi",
             "propaganda",
@@ -19641,7 +19641,7 @@
         "tags": [
             "christianophobia"
         ],
-        "thumbnail": "https://dw-wp-production.imgix.net/2023/04/GettyImages-1066101390.jpg?w=1200&h=800&ixlib=react-9.3.0",
+        "thumbnail": "https://dw-wp-production.imgix.net/2023/04/GettyImages-1066101390.jpg?w=1200&h=800&ixlib=react-9.10.0",
         "title": "\u2018F*** Catholics\u2019: Biden DOJ To Recommend Zero Jail Time For Trans Suspect Who Allegedly Vandalized Catholic Church",
         "vote": 0
     },
@@ -19749,13 +19749,13 @@
         "language": "en-US",
         "link": "https://completemusicupdate.com/article/universal-music-urges-the-streaming-services-to-ensure-their-platforms-arent-being-scraped-by-music-making-ai-tools",
         "manual_status_code": 0,
-        "page_rating": 3,
+        "page_rating": 0,
         "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://completemusicupdate.com",
-        "status_code": 600,
+        "status_code": 404,
         "tags": [
             "artificial intelligence"
         ],
@@ -19820,7 +19820,7 @@
             "family",
             "big brother"
         ],
-        "thumbnail": "https://mynorthwest.com/wp-content/uploads/2023/04/Transgender_900x506.jpg",
+        "thumbnail": "https://cdn.mynorthwest.com/mynw/wp-content/uploads/2023/04/Transgender_900x506.jpg",
         "title": "Minors seeking gender-affirming treatment can shelter without parent's knowledge if bill passes - MyNorthwest.com",
         "vote": 0
     },
@@ -20002,7 +20002,7 @@
             "smartphone",
             "slave labour"
         ],
-        "thumbnail": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa310ac48-9c7e-4922-bf36-5cf34baf2e13_1024x683.jpeg",
+        "thumbnail": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa310ac48-9c7e-4922-bf36-5cf34baf2e13_1024x683.jpeg",
         "title": "Your iPhone Was Built with Child Labor",
         "vote": 0
     },
@@ -20033,7 +20033,7 @@
             "covid",
             "pfizer"
         ],
-        "thumbnail": "https://i.iplsc.com/-/000DV1B6U9QXGKEC-C461-F4.jpg",
+        "thumbnail": "https://i.iplsc.com/-/000DV1B6U9QXGKEC-C461.jpg",
         "title": "NOP czy nie NOP? Nagle przesta\u0142a chodzi\u0107. Pfizer: \u015aci\u015ble monitorujemy takie zdarzenia",
         "vote": 0
     },
@@ -20280,20 +20280,20 @@
         "author": null,
         "bookmarked": true,
         "comments": [],
-        "date_dead_since": "2024-10-07T07:46:36.931683+00:00",
+        "date_dead_since": null,
         "date_published": "2023-04-15T07:35:41+00:00",
         "description": "Niemcy. Niemcy zamykaj\u0105 ostatnie elektrownie atomowe, wielkie wyzwanie przed najwi\u0119ksz\u0105 gospodark\u0105 Europy - TVN24 Biznes",
         "id": 35546,
         "language": "pl",
         "link": "https://tvn24.pl/biznes/ze-swiata/niemcy-niemcy-zamykaja-ostatnie-elektrownie-atomowe-wielkie-wyzwanie-przed-najwieksza-gospodarka-europy-6919294",
         "manual_status_code": 0,
-        "page_rating": 3,
-        "page_rating_contents": 0,
+        "page_rating": 32,
+        "page_rating_contents": 90,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://tvn24.pl",
-        "status_code": 600,
+        "status_code": 200,
         "tags": [
             "germany",
             "climate change",
@@ -20378,13 +20378,13 @@
         "language": "en-US",
         "link": "https://ngo.locals.com/post/3856550/trans-therapist-charged-over-sexually-assaulting-autistic-children-in-indiana",
         "manual_status_code": 0,
-        "page_rating": 29,
-        "page_rating_contents": 81,
+        "page_rating": 30,
+        "page_rating_contents": 85,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://ngo.locals.com",
-        "status_code": 403,
+        "status_code": 200,
         "tags": [
             "rape",
             "transgender",
@@ -20476,7 +20476,7 @@
             "transhumanism",
             "artificial intelligence"
         ],
-        "thumbnail": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/04/16/4c75adeb-ca12-426e-bd12-3a5adde32f2c/thumbnail/1200x630/559f05684316f5e602fd713fd06081c9/hadsell-1.jpg?v=0736ad3ef1e9ddfe1218648fe91d6c9b",
+        "thumbnail": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/04/16/4c75adeb-ca12-426e-bd12-3a5adde32f2c/thumbnail/1200x630/559f05684316f5e602fd713fd06081c9/hadsell-1.jpg?v=63a2b43e2ef8917aa6bd547ca29dd4fa",
         "title": "Google's AI experts on the future of artificial intelligence | 60 Minutes - CBS News",
         "vote": 0
     },
@@ -20534,7 +20534,7 @@
             "technofeudalism",
             "valve"
         ],
-        "thumbnail": "https://api.win.gg/wp-content/uploads/2023/04/warlander-drama.jpg",
+        "thumbnail": "https://win.gg/wp-content/uploads/2023/04/warlander-drama.jpg.webp",
         "title": "Steam restricts thousands of accounts for calling a review helpful - WIN.gg",
         "vote": 0
     },
@@ -20657,7 +20657,7 @@
             "privacy",
             "big brother"
         ],
-        "thumbnail": "https://cdn.vox-cdn.com/thumbor/N-HaZRx3Hgy68cZ1jsdKp87y1iU=/1267x758:4619x2883/1200x628/filters:focal(2619x1474:2620x1475)/cdn.vox-cdn.com/uploads/chorus_asset/file/24590625/Cherish_Serenity_2.jpg",
+        "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24590625/Cherish_Serenity_2.jpg?quality=90&strip=all&crop=24.188621611302%2C30.111978283%2C63.993890798015%2C59.551198574467&w=1200",
         "title": "AT&T launches medical radar device that monitors older adults through walls",
         "vote": 0
     },
@@ -20715,7 +20715,7 @@
             "chicago",
             "defund the police"
         ],
-        "thumbnail": "https://dw-wp-production.imgix.net/2023/04/Untitled-design-2023-04-17T142614.538.jpg?w=1200&h=800&ixlib=react-9.3.0",
+        "thumbnail": "https://dw-wp-production.imgix.net/2023/04/Untitled-design-2023-04-17T142614.538.jpg?w=1200&h=800&ixlib=react-9.10.0",
         "title": "Chaos Rules In Chicago, The Lack Of Two-Parent Homes Is To Blame",
         "vote": 0
     },
@@ -20934,20 +20934,20 @@
         "author": null,
         "bookmarked": true,
         "comments": [],
-        "date_dead_since": "2024-10-07T06:11:39.702403+00:00",
+        "date_dead_since": null,
         "date_published": "2023-04-18T14:01:28+00:00",
         "description": "Biden and the Media Are Electric-Vehicle Grifters - WSJ",
         "id": 36568,
         "language": "en-US",
         "link": "https://www.wsj.com/articles/joe-biden-and-the-media-are-ev-grifters-carbon-tax-emissions-fossil-fuels-subsidies-3c6d6a21?mod=hp_opin_pos_4#cxrecs_s",
         "manual_status_code": 0,
-        "page_rating": 3,
-        "page_rating_contents": 0,
+        "page_rating": 29,
+        "page_rating_contents": 81,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.wsj.com",
-        "status_code": 600,
+        "status_code": 200,
         "tags": [
             "climate change",
             "electric vehicles"
@@ -20999,13 +20999,13 @@
         "language": "en-US",
         "link": "https://www.nytimes.com/2023/04/18/technology/reddit-ai-openai-google.html",
         "manual_status_code": 0,
-        "page_rating": 29,
-        "page_rating_contents": 80,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
-        "status_code": 403,
+        "status_code": 200,
         "tags": [
             "reddit"
         ],
@@ -21338,7 +21338,7 @@
             "mastodon",
             "activitypub"
         ],
-        "thumbnail": "https://cdn.vox-cdn.com/thumbor/Qc0VmdsNGUhdC31iK-Z56GKB9kI=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/24596746/236620_Activitypub_New_Social_Protocol_HHerrera.jpeg",
+        "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24596746/236620_Activitypub_New_Social_Protocol_HHerrera.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "Can ActivityPub save the internet?",
         "vote": 0
     },
@@ -21398,7 +21398,7 @@
             "facebook",
             "privacy"
         ],
-        "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/0D90/production/_129427430_gettyimages-1232495873.jpg",
+        "thumbnail": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0D90/production/_129427430_gettyimages-1232495873.jpg",
         "title": "Facebook $725m settlement fund opens to US claims",
         "vote": 0
     },
@@ -21574,7 +21574,7 @@
             "climate change",
             "science"
         ],
-        "thumbnail": "https://ourworldindata.org/images/published/ghg-emissions-thumbnail.png",
+        "thumbnail": "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/965d50bf-7141-4931-f32c-7ad5e100ef00/public",
         "title": "Greenhouse gas emissions - Our World in Data",
         "vote": 0
     },
@@ -21591,18 +21591,18 @@
         "language": "en-US",
         "link": "https://www.nytimes.com/2023/04/23/world/europe/chinese-censorship-covid.html",
         "manual_status_code": 0,
-        "page_rating": 29,
-        "page_rating_contents": 80,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 227,
         "source_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-        "status_code": 403,
+        "status_code": 200,
         "tags": [
             "covid"
         ],
-        "thumbnail": "https://static01.nyt.com/images/2023/04/11/multimedia/00covid-censorship-04-hqpm/00covid-censorship-04-hqpm-facebookJumbo.jpg",
+        "thumbnail": "https://static01.nyt.com/images/2023/04/11/multimedia/00covid-censorship-04-hqpm/00covid-censorship-04-hqpm-facebookJumbo.jpg?year=2023&h=550&w=1050&s=44ee813ea1b49d4a23546e01b9938bbe36bed2089338d2635792d81c2bd8e385&k=ZQJBKqZ0VN",
         "title": "Chinese Censorship Is Quietly Rewriting the Covid-19 Story",
         "vote": 0
     },
@@ -21619,20 +21619,20 @@
         "language": "en-US",
         "link": "https://www.timesofisrael.com/israel-police-use-of-nso-spyware-set-to-be-probed-by-knesset-subcommittee",
         "manual_status_code": 0,
-        "page_rating": 19,
-        "page_rating_contents": 50,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.timesofisrael.com",
-        "status_code": 403,
+        "status_code": 200,
         "tags": [
             "pegasus",
             "israel",
             "espionage",
             "surveillance"
         ],
-        "thumbnail": null,
+        "thumbnail": "https://static-cdn.toi-media.com/www/uploads/2022/08/000_32GW24Z.jpg",
         "title": "Israel Police use of NSO spyware set to be probed by Knesset subcommittee | The Times of Israel",
         "vote": 0
     },
@@ -21661,7 +21661,7 @@
             "covid",
             "covid collateral damage"
         ],
-        "thumbnail": "https://www.telegraph.co.uk/content/dam/news/2023/04/24/TELEMMGLPICT000298969422_trans_NvBQzQNjv4Bqddwh97eikQvOOrPOIREzrR0550lIwgqk6DcAhSasfoY.jpeg?impolicy=logo-overlay",
+        "thumbnail": "https://www.telegraph.co.uk/content/dam/news/2023/04/24/TELEMMGLPICT000298969422_trans_NvBQzQNjv4Bqddwh97eikQvOOrPOIREzrR0550lIwgqk6DcAhSasfoY.jpeg?impolicy=OG-Comment",
         "title": "Lockdown\u2019s cancer bomb may soon be worse than Covid itself",
         "vote": 0
     },
@@ -21671,20 +21671,20 @@
         "author": null,
         "bookmarked": true,
         "comments": [],
-        "date_dead_since": null,
+        "date_dead_since": "2025-03-07T12:28:15.257056+00:00",
         "date_published": "2023-04-23T11:38:33+00:00",
         "description": "Bud Light-Dylan Mulvaney: sales drop induces 'panic' from brand | Ad Age",
         "id": 36543,
         "language": "en",
         "link": "https://adage.com/article/marketing-news-strategy/bud-light-dylan-mulvaney-sales-drop-induces-panic-brand/2489971",
         "manual_status_code": 0,
-        "page_rating": 24,
-        "page_rating_contents": 66,
+        "page_rating": 0,
+        "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://adage.com",
-        "status_code": 403,
+        "status_code": 604,
         "tags": [
             "the left wing",
             "go woke go broke"
@@ -21734,8 +21734,8 @@
         "language": "en-US",
         "link": "https://www.schneier.com/blog/archives/2023/04/uk-threatens-end-to-end-encryption.html",
         "manual_status_code": 0,
-        "page_rating": 29,
-        "page_rating_contents": 81,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -22116,14 +22116,14 @@
         "language": "en-US",
         "link": "https://d-s.sh/2023/mastodon-has-already-won",
         "manual_status_code": 0,
-        "page_rating": 3,
+        "page_rating": 0,
         "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 141,
         "source_url": "https://hnrss.org/frontpage",
-        "status_code": 600,
+        "status_code": 603,
         "tags": [
             "open source",
             "mastodon"
@@ -22507,7 +22507,7 @@
         "tags": [
             "youtube"
         ],
-        "thumbnail": "https://you-tldr.com/og.png",
+        "thumbnail": "https://www.you-tldr.com/favicon/favicon.ico",
         "title": "Get The TLDR Of Any YouTube Video",
         "vote": 0
     },
@@ -22763,13 +22763,13 @@
         "language": "en-US",
         "link": "https://www.marketwatch.com/press-release/bill-c-11-becomes-law-forcing-streamers-to-support-canadian-content-2023-05-01",
         "manual_status_code": 0,
-        "page_rating": 3,
+        "page_rating": 0,
         "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.marketwatch.com",
-        "status_code": 600,
+        "status_code": 410,
         "tags": [
             "bill c-11",
             "canada"
@@ -22864,7 +22864,7 @@
             "government control",
             "ireland"
         ],
-        "thumbnail": "https://www.catholicnewsagency.com/storage/image/j.-k.-rowling-2010.jpg?jpg",
+        "thumbnail": "https://www.catholicnewsagency.com/images/j.-k.-rowling-2010.jpg?jpg",
         "title": "Hate speech bill advances in Ireland amid fears it would silence J.K. Rowling and the Church | Catholic News Agency",
         "vote": 0
     },
@@ -22891,7 +22891,7 @@
         "tags": [
             "artificial intelligence"
         ],
-        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/ibm_cloud_hero_2.jpg",
+        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/ibm_cloud_hero_2-1152x648.jpg",
         "title": "IBM plans to replace 7,800 jobs with AI over time, pauses hiring certain positions",
         "vote": 0
     },
@@ -22950,7 +22950,7 @@
             "the left wing",
             "go woke go broke"
         ],
-        "thumbnail": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2718,w_4832,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1683017754/2020-12-01T000000Z_1499439236_RC2IEK9HXXMC_RTRMADP_3_TESLA-MUSK-GERMANY_1_hhicgd",
+        "thumbnail": "https://www.thedailybeast.com/resizer/v2/GEDXRHT7NJLWXL7RUOYT4BMPT4.jpg?smart=true&auth=0ea8f82303c996f53b2ea7741fc3cba231aade92192cbd664071bc31863d56d2&width=1200&height=630",
         "title": "Elon Musk Dunks on \u2018Woke\u2019 Vice\u2019s Looming Bankruptcy",
         "vote": 0
     },
@@ -23054,8 +23054,8 @@
         "language": "en-US",
         "link": "https://www.bloomberg.com/news/articles/2023-04-18/de-dollarization-is-happening-at-a-stunning-pace-jen-says",
         "manual_status_code": 0,
-        "page_rating": 29,
-        "page_rating_contents": 81,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -23148,7 +23148,7 @@
         "tags": [
             "checkmarks"
         ],
-        "thumbnail": "https://s.yimg.com/ny/api/res/1.2/cmP59WatL5xrnc2omfIvmA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-05/993fe040-e9eb-11ed-bf5e-4539909edde5",
+        "thumbnail": "https://s.yimg.com/ny/api/res/1.2/Lvvj3VTqGMP6mJFHfVYr4A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2023-05/993fe040-e9eb-11ed-bf5e-4539909edde5",
         "title": "Even Gmail has blue verification checks now",
         "vote": 0
     },
@@ -23178,7 +23178,7 @@
             "windows",
             "microsoft"
         ],
-        "thumbnail": "https://cdn.vox-cdn.com/thumbor/7TVI7hihAWvwwvwfpcw31Kh4syo=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24385267/STK148_Microsoft_Edge_2.jpg",
+        "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24385267/STK148_Microsoft_Edge_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "MSFT is forcing Outlook and Teams to open links in Edge and IT admins are angry",
         "vote": 0
     },
@@ -23324,7 +23324,7 @@
             "privacy",
             "facebook"
         ],
-        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/GettyImages-1244644916.jpg",
+        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/GettyImages-1244644916-1024x648.jpg",
         "title": "Facebook furious at FTC after agency proposes ban on monetizing youth data",
         "vote": 0
     },
@@ -23400,19 +23400,19 @@
         "language": "en",
         "link": "https://www.theinformation.com/articles/openais-losses-doubled-to-540-million-as-it-developed-chatgpt",
         "manual_status_code": 0,
-        "page_rating": 29,
-        "page_rating_contents": 81,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.theinformation.com",
-        "status_code": 403,
+        "status_code": 200,
         "tags": [
             "chatgpt",
             "artificial intelligence",
             "openai"
         ],
-        "thumbnail": null,
+        "thumbnail": "https://tii.imgix.net/production/articles/10425/cfa914d5-bc3f-488e-82c8-5b759fb63658.png?fm=jpg&auto=compress&w=1200&frame=0",
         "title": "OpenAI\u2019s Losses Doubled to $540 Million as It Developed ChatGPT \u2014 The Information",
         "vote": 0
     },
@@ -23429,13 +23429,13 @@
         "language": "en",
         "link": "https://abcnews.go.com/US/wireStory/uber-security-chief-sentenced-data-breach-cover-99095920",
         "manual_status_code": 0,
-        "page_rating": 3,
+        "page_rating": 0,
         "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://abcnews.go.com",
-        "status_code": 600,
+        "status_code": 404,
         "tags": [
             "data leak",
             "hackers",
@@ -23500,7 +23500,7 @@
             "artificial intelligence",
             "open source"
         ],
-        "thumbnail": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F241fe3ef-3919-4a63-9c68-9e2e77cc2fc0_1366x588.png",
+        "thumbnail": "https://i0.wp.com/semianalysis.com/wp-content/uploads/2024/11/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2F241fe3ef-3919-4a63-9c68-9e2e77cc2fc0_1366x588.png?fit=1200%2C517&ssl=1",
         "title": "Google \u201cWe have no moat, and neither does OpenAI\u201d",
         "vote": 0
     },
@@ -23691,7 +23691,7 @@
         "link": "https://tutanota.com/blog/posts/earn-it-barr-encryption",
         "manual_status_code": 0,
         "page_rating": 32,
-        "page_rating_contents": 90,
+        "page_rating_contents": 91,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -23941,7 +23941,7 @@
         "tags": [
             "pollution"
         ],
-        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/plastic-heaps.jpg",
+        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/plastic-heaps-1152x648.jpg",
         "title": "Yet another problem with recycling: It spews microplastics",
         "vote": 0
     },
@@ -23960,7 +23960,7 @@
         "manual_status_code": 0,
         "page_rating": 32,
         "page_rating_contents": 90,
-        "page_rating_visits": 0,
+        "page_rating_visits": 1,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 141,
@@ -24192,19 +24192,19 @@
         "language": "en-US",
         "link": "https://www.securityweek.com/us-disrupts-russias-sophisticated-snake-cyberespionage-malware",
         "manual_status_code": 0,
-        "page_rating": 19,
-        "page_rating_contents": 50,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.securityweek.com",
-        "status_code": 403,
+        "status_code": 200,
         "tags": [
             "snake malware",
             "malware",
             "uroboros"
         ],
-        "thumbnail": null,
+        "thumbnail": "https://www.securityweek.com/wp-content/uploads/2023/05/Snake-malware-disrupted.jpg",
         "title": "US Disrupts Russia's Sophisticated 'Snake' Cyberespionage Malware\u00a0 - SecurityWeek",
         "vote": 0
     },

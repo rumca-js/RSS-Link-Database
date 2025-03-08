@@ -3338,6 +3338,7 @@
  - [https://www.adelaidenow.com.au/technology/online/fbi-documents-associate-internet-slang-like-based-and-red-pill-with-extremism/news-story/ddd80d4878aaae8b033e24286cf3577a](https://www.adelaidenow.com.au/technology/online/fbi-documents-associate-internet-slang-like-based-and-red-pill-with-extremism/news-story/ddd80d4878aaae8b033e24286cf3577a)
  - date_published: 2023-04-11T07:24:51+00:00
  - tags: ['fbi', 'propaganda', 'newspeak']
+ - date_dead_since: 2025-03-07T23:11:03.952430+00:00
 
  ## China's game art industry reportedly decimated by growing AI use
  - [https://www.gamedeveloper.com/art/china-s-game-art-industry-reportedly-decimated-ai-art-use](https://www.gamedeveloper.com/art/china-s-game-art-industry-reportedly-decimated-ai-art-use)
@@ -3494,7 +3495,6 @@
  - [https://tvn24.pl/biznes/ze-swiata/niemcy-niemcy-zamykaja-ostatnie-elektrownie-atomowe-wielkie-wyzwanie-przed-najwieksza-gospodarka-europy-6919294](https://tvn24.pl/biznes/ze-swiata/niemcy-niemcy-zamykaja-ostatnie-elektrownie-atomowe-wielkie-wyzwanie-przed-najwieksza-gospodarka-europy-6919294)
  - date_published: 2023-04-15T07:35:41+00:00
  - tags: ['germany', 'climate change', 'atom']
- - date_dead_since: 2024-10-07T07:46:36.931683+00:00
 
  ## Google CEO: “can we change the setting of this group to history-off” [pdf]
  - [https://ia601707.us.archive.org/28/items/gov.uscourts.cand.364454/gov.uscourts.cand.364454.385.0.pdf](https://ia601707.us.archive.org/28/items/gov.uscourts.cand.364454/gov.uscourts.cand.364454.385.0.pdf)
@@ -3605,7 +3605,6 @@
  - [https://www.wsj.com/articles/joe-biden-and-the-media-are-ev-grifters-carbon-tax-emissions-fossil-fuels-subsidies-3c6d6a21?mod=hp_opin_pos_4#cxrecs_s](https://www.wsj.com/articles/joe-biden-and-the-media-are-ev-grifters-carbon-tax-emissions-fossil-fuels-subsidies-3c6d6a21?mod=hp_opin_pos_4#cxrecs_s)
  - date_published: 2023-04-18T14:01:28+00:00
  - tags: ['climate change', 'electric vehicles']
- - date_dead_since: 2024-10-07T06:11:39.702403+00:00
 
  ## EARN IT Act Is Back, And It’s Still Terribly Destructive | Techdirt
  - [https://www.techdirt.com/2023/04/18/earn-it-act-is-back-and-its-still-terribly-destructive](https://www.techdirt.com/2023/04/18/earn-it-act-is-back-and-its-still-terribly-destructive)
@@ -3731,6 +3730,7 @@
  - [https://adage.com/article/marketing-news-strategy/bud-light-dylan-mulvaney-sales-drop-induces-panic-brand/2489971](https://adage.com/article/marketing-news-strategy/bud-light-dylan-mulvaney-sales-drop-induces-panic-brand/2489971)
  - date_published: 2023-04-23T11:38:33+00:00
  - tags: ['the left wing', 'go woke go broke']
+ - date_dead_since: 2025-03-07T12:28:15.257056+00:00
 
  ## 85% of business leaders would let a robot make their decisions
  - [https://www.zdnet.com/article/85-of-business-leaders-would-let-a-robot-make-their-decisions](https://www.zdnet.com/article/85-of-business-leaders-would-let-a-robot-make-their-decisions)

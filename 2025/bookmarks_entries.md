@@ -204,6 +204,11 @@
  - date_published: 2025-02-27T22:34:31+00:00
  - tags: ['america', 'civil war']
 
+ ## Trudeau Government Halts Funds for Unmarked Mass Grave Search After Millions Spent, 110 Churches Vandalised, Zero Bodies Found - The Daily Declaration
+ - [https://dailydeclaration.org.au/2025/02/28/canada-trudeau-mass-grave](https://dailydeclaration.org.au/2025/02/28/canada-trudeau-mass-grave)
+ - date_published: 2025-02-28T06:25:16+00:00
+ - tags: ['christianophobia']
+
  ## Technology isn't fun anymore
  - [https://www.youtube.com/watch?v=P-TANCVoHlc](https://www.youtube.com/watch?v=P-TANCVoHlc)
  - date_published: 2025-02-28T21:14:50+00:00
@@ -218,4 +223,9 @@
  - [https://www.nytimes.com/2025/03/04/business/blackrock-panama-canal-ports-hutchison.html](https://www.nytimes.com/2025/03/04/business/blackrock-panama-canal-ports-hutchison.html)
  - date_published: 2025-03-04T16:54:31+00:00
  - tags: ['blackrock']
+
+ ## Half of world’s CO2 emissions come from 36 fossil fuel firms, study shows
+ - [https://www.theguardian.com/environment/2025/mar/05/half-of-worlds-co2-emissions-come-from-36-fossil-fuel-firms-study-shows](https://www.theguardian.com/environment/2025/mar/05/half-of-worlds-co2-emissions-come-from-36-fossil-fuel-firms-study-shows)
+ - date_published: 2025-03-05T05:01:16+00:00
+ - tags: ['climate change', 'corporatocracy', 'co2']
 

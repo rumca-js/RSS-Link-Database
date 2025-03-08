@@ -1179,6 +1179,33 @@
         "vote": 0
     },
     {
+        "age": 0,
+        "album": null,
+        "author": "Kurt Mahlburg",
+        "bookmarked": true,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-28T06:25:16+00:00",
+        "description": "More than 110 churches were vandalised and some reduced to ashes in the moral panic that swept Canada over the fake mass grave scandal.",
+        "id": 2272218,
+        "language": "en-AU",
+        "link": "https://dailydeclaration.org.au/2025/02/28/canada-trudeau-mass-grave",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "christianophobia"
+        ],
+        "thumbnail": "https://dailydeclaration.org.au/wp-content/uploads/2025/02/mass-grave.jpeg",
+        "title": "Trudeau Government Halts Funds for Unmarked Mass Grave Search After Millions Spent, 110 Churches Vandalised, Zero Bodies Found - The Daily Declaration",
+        "vote": 0
+    },
+    {
         "age": null,
         "album": "",
         "author": "Drew Gooden",
@@ -1262,6 +1289,36 @@
         ],
         "thumbnail": "https://static01.nyt.com/images/2025/03/04/multimedia/04biz-panama-ports-zcvk/04biz-panama-ports-zcvk-mediumSquareAt3X.jpg",
         "title": "BlackRock Will Buy Panama Canal Ports from CK Hutchison",
+        "vote": 0
+    },
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-05T05:01:16+00:00",
+        "description": "<p>Researchers say data strengthens case for holding firms to account for their contribution to climate crisis</p><p>Half of the world\u2019s climate-heating carbon emissions come from the fossil fuels produced by just 36 companies, analysis has revealed.</p><p>The researchers said the 2023 data strengthened the case for holding fossil fuel companies to account for their contribution to global heating. Previous versions of the annual report have been used in legal cases against companies and investors.</p> <a href=\"https://www.theguardian.com/environment/2025/mar/05/half-of-worlds-co2-emissions-come-from-36-fossil-fuel-firms-study-shows\">Continue reading...</a>",
+        "id": 2247952,
+        "language": "en-UK",
+        "link": "https://www.theguardian.com/environment/2025/mar/05/half-of-worlds-co2-emissions-come-from-36-fossil-fuel-firms-study-shows",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 340,
+        "source_url": "https://www.theguardian.com/rss",
+        "status_code": 0,
+        "tags": [
+            "climate change",
+            "corporatocracy",
+            "co2"
+        ],
+        "thumbnail": "https://i.guim.co.uk/img/media/510ad6c906d9f321a1f5f43ebeb6348fb98861c6/0_169_5637_3382/master/5637.jpg?width=140&quality=85&auto=format&fit=max&s=24ce4721f2ccca05a8e18b50d866fb35",
+        "title": "Half of world\u2019s CO2 emissions come from 36 fossil fuel firms, study shows",
         "vote": 0
     }
 ]
