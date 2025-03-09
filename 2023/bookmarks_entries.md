@@ -2418,6 +2418,7 @@
  - [https://www.politico.com/news/2023/03/07/privacy-loophole-ring-doorbell-00084979](https://www.politico.com/news/2023/03/07/privacy-loophole-ring-doorbell-00084979)
  - date_published: 2023-03-08T14:58:32+00:00
  - tags: ['corporatocracy', 'manufacturing consent', 'tracking', 'surveillance', 'privacy']
+ - date_dead_since: 2025-03-08T16:05:01.191551+00:00
 
  ## Men in Scotland who loudly boast about sexual conquests in public could face jail
  - [https://12ft.io/proxy?q=https%3A%2F%2Fwww.telegraph.co.uk%2Fpolitics%2F2023%2F03%2F08%2Fmen-scotland-who-loudly-boast-sexual-conquests-public-could%2F](https://12ft.io/proxy?q=https%3A%2F%2Fwww.telegraph.co.uk%2Fpolitics%2F2023%2F03%2F08%2Fmen-scotland-who-loudly-boast-sexual-conquests-public-could%2F)
@@ -2523,6 +2524,7 @@
  - [https://i.pl/spadkobiercy-urbana-czyli-wiarygodnosc-materialow/ar/c15-17357845](https://i.pl/spadkobiercy-urbana-czyli-wiarygodnosc-materialow/ar/c15-17357845)
  - date_published: 2023-03-10T20:17:17+00:00
  - tags: ['jan pawel 2']
+ - date_dead_since: 2025-03-08T12:57:35.855464+00:00
 
  ## Disney Plus is in BIG Trouble (And They're Not Alone)
  - [https://www.youtube.com/watch?v=4N88pOhyKyE](https://www.youtube.com/watch?v=4N88pOhyKyE)
@@ -2773,6 +2775,7 @@
  - [https://www.gizmodo.com.au/2023/03/gpt-4-is-a-giant-black-box-and-its-training-data-remains-a-mystery](https://www.gizmodo.com.au/2023/03/gpt-4-is-a-giant-black-box-and-its-training-data-remains-a-mystery)
  - date_published: 2023-03-17T17:48:54+00:00
  - tags: ['artificial intelligence', 'gpt-4']
+ - date_dead_since: 2025-03-08T06:37:04.340850+00:00
 
  ## Docker apologizes for bungled scrapping of free org accounts • The Register
  - [https://www.theregister.com/2023/03/17/docker_free_teams_plan](https://www.theregister.com/2023/03/17/docker_free_teams_plan)
@@ -2869,6 +2872,7 @@
  - [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4381627](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4381627)
  - date_published: 2023-03-23T10:01:44+00:00
  - tags: ['covid', 'fearmongering', 'propaganda', 'science is dead']
+ - date_dead_since: 2025-03-08T05:21:42.391038+00:00
 
  ## Assessing COVID-19 pandemic policies and behaviours and their economic and educational trade-offs across US states from Jan 1, 2020, to July 31, 2022: an observational analysis
  - [https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)00461-0/fulltext](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)00461-0/fulltext)
@@ -3200,7 +3204,6 @@
  - [https://techcrunch.com/2023/04/04/monument-tempest-alcohol-data-breach/?guccounter=1&guce_referrer=aHR0cHM6Ly9kdWNrZHVja2dvLmNvbS8&guce_referrer_sig=AQAAALpqbET_aBcuneFWIRiVrdvKeocobrGL9FZN-pmjCdFlktfCC99cjV0g9PlnKOOIT8BW8oQaZ-XkWfSNT0WiF9K1AHHAjRPOf9gj0_B1snjkP267bQE-ICZ0Hwr51Vs5lqzPLtrVLl9pfbgs2B82SvjvQ9qE-IS4-pTelJsg1mrQ](https://techcrunch.com/2023/04/04/monument-tempest-alcohol-data-breach/?guccounter=1&guce_referrer=aHR0cHM6Ly9kdWNrZHVja2dvLmNvbS8&guce_referrer_sig=AQAAALpqbET_aBcuneFWIRiVrdvKeocobrGL9FZN-pmjCdFlktfCC99cjV0g9PlnKOOIT8BW8oQaZ-XkWfSNT0WiF9K1AHHAjRPOf9gj0_B1snjkP267bQE-ICZ0Hwr51Vs5lqzPLtrVLl9pfbgs2B82SvjvQ9qE-IS4-pTelJsg1mrQ)
  - date_published: 2023-04-04T07:19:34+00:00
  - tags: ['privacy', 'ad business']
- - date_dead_since: 2024-10-07T12:29:17.732537+00:00
 
  ## George Soros Is a Familiar Villain for the Right Wing in Trump’s Indictment
  - [https://www.nytimes.com/2023/04/04/us/politics/george-soros-bragg-trump.html](https://www.nytimes.com/2023/04/04/us/politics/george-soros-bragg-trump.html)
