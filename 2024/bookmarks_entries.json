@@ -6998,17 +6998,17 @@
         "manual_status_code": 0,
         "page_rating": 30,
         "page_rating_contents": 86,
-        "page_rating_visits": 2,
+        "page_rating_visits": 4,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 101,
         "source_url": "https://www.eff.org/rss/updates.xml",
-        "status_code": 0,
+        "status_code": 200,
         "tags": [
             "cybersecurity",
             "backdoor"
         ],
-        "thumbnail": null,
+        "thumbnail": "https://www.eff.org/files/banner_library/OG-Encryption-DefendEncryption.png",
         "title": "Salt Typhoon Hack Shows There's No Security Backdoor That's Only For The \"Good Guys\"",
         "vote": 0
     },

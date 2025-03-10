@@ -183,6 +183,10 @@
  - date_published: 2014-10-15T00:00:00+00:00
  - tags: ['propaganda', 'big brother', 'social engineering']
 
+ ## Airport Security Ignored pre-911 Warnings on Hijackers - 911Truth.Org
+ - [https://911truth.org/airport-security-ignored-pre-911-warnings-hijackers](https://911truth.org/airport-security-ignored-pre-911-warnings-hijackers)
+ - date_published: 2014-10-15T08:47:47+00:00
+
  ## Citizenfour review  gripping Snowden documentary offers portrait of power, paranoia and one remarkable man
  - [http://www.theguardian.com/film/2014/oct/16/citizen-four-review-edward-snowden-documentary](http://www.theguardian.com/film/2014/oct/16/citizen-four-review-edward-snowden-documentary)
  - date_published: 2014-10-16T14:00:04+00:00

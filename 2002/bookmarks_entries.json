@@ -59,6 +59,35 @@
         "vote": 0
     },
     {
+        "age": 0,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2002-08-02T02:00:00+00:00",
+        "description": "",
+        "id": 2281049,
+        "language": "en",
+        "link": "https://www.cato.org/commentary/how-washington-funded-taliban#",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 83,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "911",
+            "al queda",
+            "taliban"
+        ],
+        "thumbnail": "https://www.cato.org/sites/cato.org/files/styles/optimized/public/multimedia/podcast/cato_commentary_2020.jpg?itok=DYvnNPDY",
+        "title": "How Washington Funded the Taliban",
+        "vote": 0
+    },
+    {
         "age": null,
         "album": null,
         "author": null,

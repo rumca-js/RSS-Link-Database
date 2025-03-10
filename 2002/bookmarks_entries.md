@@ -8,6 +8,11 @@
  - date_published: 2002-05-18T13:10:31+00:00
  - tags: ['crypto wars', 'encryption', 'surveillance', 'privacy']
 
+ ## How Washington Funded the Taliban
+ - [https://www.cato.org/commentary/how-washington-funded-taliban#](https://www.cato.org/commentary/how-washington-funded-taliban#)
+ - date_published: 2002-08-02T02:00:00+00:00
+ - tags: ['911', 'al queda', 'taliban']
+
  ## How Jeffrey Epstein Bankrolled The Exclusive Edge Foundation And Reaped The Benefits
  - [https://www.buzzfeednews.com/article/peteraldhous/jeffrey-epstein-john-brockman-edge-foundation](https://www.buzzfeednews.com/article/peteraldhous/jeffrey-epstein-john-brockman-edge-foundation)
  - date_published: 2002-08-05T07:11:18+00:00

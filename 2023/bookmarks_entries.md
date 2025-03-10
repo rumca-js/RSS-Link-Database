@@ -1584,7 +1584,6 @@
  - [https://techcrunch.com/2023/02/06/ai-generated-seinfeld-suspended-on-twitch-for-ai-generated-transphobic-jokes/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAM5Q17dJz_Y8nXC7zkkXHgPOViW8fba3qrqAPzf-eEewG5sQWApn9gp2VH6jhWgCCjqm_UkUbABWdQAqe0r65Lh-c1HpIkU68n4nVq__xNYJIiQCmr_lOVzMNkxYsox16lHOxt1_sA--td39f7sxFfB6AnS6sOITQEfr4Eugic3I](https://techcrunch.com/2023/02/06/ai-generated-seinfeld-suspended-on-twitch-for-ai-generated-transphobic-jokes/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAM5Q17dJz_Y8nXC7zkkXHgPOViW8fba3qrqAPzf-eEewG5sQWApn9gp2VH6jhWgCCjqm_UkUbABWdQAqe0r65Lh-c1HpIkU68n4nVq__xNYJIiQCmr_lOVzMNkxYsox16lHOxt1_sA--td39f7sxFfB6AnS6sOITQEfr4Eugic3I)
  - date_published: 2023-02-06T10:23:23+00:00
  - tags: ['censorship', 'artificial intelligence', 'chatgpt']
- - date_dead_since: 2024-10-09T23:29:15.844428+00:00
 
  ## One Atmosphere: An Independent Expert Review on Solar Radiation Modification Research and Deployment
  - [https://wedocs.unep.org/handle/20.500.11822/41903](https://wedocs.unep.org/handle/20.500.11822/41903)
@@ -1615,6 +1614,7 @@
  - [https://www.gizmodo.com.au/2023/02/top-android-phones-from-china-are-packed-with-spyware-research-finds](https://www.gizmodo.com.au/2023/02/top-android-phones-from-china-are-packed-with-spyware-research-finds)
  - date_published: 2023-02-08T07:41:53+00:00
  - tags: ['surveillance', 'espionage', 'android', 'china', 'smartphone', 'privacy', 'big brother']
+ - date_dead_since: 2025-03-09T15:35:46.754536+00:00
 
  ## UK Regulator Finds Pfizer Guilty of Violating Three Sections of British Pharmaceuticals Code of Practice
  - [https://www.gulf-insider.com/uk-regulator-finds-pfizer-guilty-of-violating-three-sections-of-british-pharmaceuticals-code-of-practice](https://www.gulf-insider.com/uk-regulator-finds-pfizer-guilty-of-violating-three-sections-of-british-pharmaceuticals-code-of-practice)
@@ -1626,6 +1626,7 @@
  - [https://www.extremetech.com/computing/342941-windows-11-collects-an-awful-lot-of-telemetry-about-your-pc](https://www.extremetech.com/computing/342941-windows-11-collects-an-awful-lot-of-telemetry-about-your-pc)
  - date_published: 2023-02-08T11:51:12+00:00
  - tags: ['dark design', 'windows', 'telemetry', 'microsoft', 'windows 11']
+ - date_dead_since: 2025-03-09T15:07:15.153954+00:00
 
  ## ChatGPT is a data privacy nightmare
  - [https://theconversation.com/chatgpt-is-a-data-privacy-nightmare-if-youve-ever-posted-online-you-ought-to-be-concerned-199283](https://theconversation.com/chatgpt-is-a-data-privacy-nightmare-if-youve-ever-posted-online-you-ought-to-be-concerned-199283)
@@ -1641,6 +1642,7 @@
  - [https://www.nationalreview.com/news/whered-you-go-to-medical-school-gop-rep-rips-ex-twitter-official-for-censoring-stanford-docs-covid-opinions](https://www.nationalreview.com/news/whered-you-go-to-medical-school-gop-rep-rips-ex-twitter-official-for-censoring-stanford-docs-covid-opinions)
  - date_published: 2023-02-08T13:57:58+00:00
  - tags: ['covid', 'censorship', 'twitter']
+ - date_dead_since: 2025-03-09T14:44:57.576713+00:00
 
  ## Is Windows 11 spying on you? New report details eye-opening levels of telemetry
  - [https://www.techradar.com/news/is-windows-11-spying-on-you-new-report-details-eye-opening-levels-of-telemetry](https://www.techradar.com/news/is-windows-11-spying-on-you-new-report-details-eye-opening-levels-of-telemetry)
@@ -1866,7 +1868,6 @@
  - [https://www.lemonde.fr/en/international/article/2023/02/15/portuguese-catholic-church-shaken-by-report-of-5-000-child-victims-of-sexual-abuse_6015830_4.html](https://www.lemonde.fr/en/international/article/2023/02/15/portuguese-catholic-church-shaken-by-report-of-5-000-child-victims-of-sexual-abuse_6015830_4.html)
  - date_published: 2023-02-15T03:09:24+00:00
  - tags: ['catholic', 'religion', 'portugal', 'church scandal']
- - date_dead_since: 2024-10-09T19:09:09.302253+00:00
 
  ## Jordan Uses Probability/Statistics to expose to Trans Glorification pa... | TikTok
  - [https://www.tiktok.com/@project_shadow_us/video/7199634730810363182](https://www.tiktok.com/@project_shadow_us/video/7199634730810363182)
@@ -2008,7 +2009,6 @@
  - [https://www.itv.com/news/2023-02-20/what-is-a-15-minute-city-and-why-is-the-idea-so-controversial](https://www.itv.com/news/2023-02-20/what-is-a-15-minute-city-and-why-is-the-idea-so-controversial)
  - date_published: 2023-02-21T07:10:41+00:00
  - tags: ['climate change', 'pollution', '15minutecities']
- - date_dead_since: 2024-10-08T15:36:15.689548+00:00
 
  ## Opinion | The Mask Mandates Did Nothing. Will Any Lessons Be Learned? - The New York Times
  - [https://www.nytimes.com/2023/02/21/opinion/do-mask-mandates-work.html](https://www.nytimes.com/2023/02/21/opinion/do-mask-mandates-work.html)
@@ -2034,6 +2034,7 @@
  - [https://diff.wikimedia.org/2023/02/21/u-s-supreme-court-declines-to-hear-wikimedia-foundations-challenge-to-nsa-mass-surveillance](https://diff.wikimedia.org/2023/02/21/u-s-supreme-court-declines-to-hear-wikimedia-foundations-challenge-to-nsa-mass-surveillance)
  - date_published: 2023-02-21T18:15:27+00:00
  - tags: ['surveillance', 'privacy']
+ - date_dead_since: 2025-03-09T01:52:42.491117+00:00
 
  ## AI Is Expensive: Google's Chatbot May Cost Company Billions
  - [https://www.businessinsider.com/ai-expensive-google-chatbot-bard-may-cost-company-billions-dollars-2023-2?IR=T](https://www.businessinsider.com/ai-expensive-google-chatbot-bard-may-cost-company-billions-dollars-2023-2?IR=T)
@@ -6791,11 +6792,6 @@
  - [https://en.wikipedia.org/wiki/Goodhart%27s_law](https://en.wikipedia.org/wiki/Goodhart%27s_law)
  - date_published: 2023-08-06T09:41:28+00:00
  - tags: ['managment']
-
- ## Bin Ladin Determined To Strike in US - Wikipedia
- - [https://en.wikipedia.org/wiki/Bin_Ladin_Determined_To_Strike_in_US](https://en.wikipedia.org/wiki/Bin_Ladin_Determined_To_Strike_in_US)
- - date_published: 2023-08-06T13:03:13+00:00
- - tags: ['osama bin laden', 'manufacturing consent', '911']
 
  ## Pomocnik Allegro - Chrome Web Store
  - [https://chrome.google.com/webstore/detail/pomocnik-allegro/mppahmgdcnapaalefnpnfoekkpggkkol?hl=pl](https://chrome.google.com/webstore/detail/pomocnik-allegro/mppahmgdcnapaalefnpnfoekkpggkkol?hl=pl)
