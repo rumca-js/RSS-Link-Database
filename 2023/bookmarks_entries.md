@@ -876,7 +876,6 @@
  - [https://techcrunch.com/2023/01/17/privacy-sandbox-topics-api-criticism/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAD1E7GuH3iM8FF4-7_PPr3Hit0acqyN2zCyiPCoWUxweW4mLah6Tw5zWbnVcoB4UtN1tWgHmimrtlwdrDWpLgljZsXjQ7661w-GToymPA6ijA7RtRop-oM_8fXuCxuDz6GRAD4dt5pvB874DhnEsQ8q3kBaEZJ97uBm9tX3XD3dG](https://techcrunch.com/2023/01/17/privacy-sandbox-topics-api-criticism/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAD1E7GuH3iM8FF4-7_PPr3Hit0acqyN2zCyiPCoWUxweW4mLah6Tw5zWbnVcoB4UtN1tWgHmimrtlwdrDWpLgljZsXjQ7661w-GToymPA6ijA7RtRop-oM_8fXuCxuDz6GRAD4dt5pvB874DhnEsQ8q3kBaEZJ97uBm9tX3XD3dG)
  - date_published: 2023-01-17T13:18:18+00:00
  - tags: ['england', 'google', 'topics api', 'chrome', 'privacy', 'surveillance']
- - date_dead_since: 2024-10-12T00:44:38.055285+00:00
 
  ## The FBI Identified a Tor User
  - [https://www.schneier.com/blog/archives/2023/01/the-fbi-identified-a-tor-user.html](https://www.schneier.com/blog/archives/2023/01/the-fbi-identified-a-tor-user.html)
@@ -922,7 +921,6 @@
  - [https://www.euractiv.com/section/global-europe/news/investigation-ukraine-buys-huge-amounts-of-russian-fuels-from-bulgaria](https://www.euractiv.com/section/global-europe/news/investigation-ukraine-buys-huge-amounts-of-russian-fuels-from-bulgaria)
  - date_published: 2023-01-18T06:59:10+00:00
  - tags: ['ukraine', 'war']
- - date_dead_since: 2024-10-11T23:49:32.669750+00:00
 
  ## Everyone hates Velma the lesbian detective. Is she really an insult to Scooby-Doo fans? | Arwa Mahdawi
  - [https://www.theguardian.com/commentisfree/2023/jan/18/velma-lesbian-detective-scooby-doo-fans-hate](https://www.theguardian.com/commentisfree/2023/jan/18/velma-lesbian-detective-scooby-doo-fans-hate)
@@ -1143,7 +1141,6 @@
  - [https://www.wsj.com/articles/u-s-sues-google-for-alleged-antitrust-violations-in-its-ad-tech-business-11674582792?mod=rss_Technology](https://www.wsj.com/articles/u-s-sues-google-for-alleged-antitrust-violations-in-its-ad-tech-business-11674582792?mod=rss_Technology)
  - date_published: 2023-01-24T18:57:00+00:00
  - tags: ['big brother', 'google', 'ad business', 'big tech']
- - date_dead_since: 2024-10-10T10:46:41.153482+00:00
 
  ## Google is being sued by the US government and eight states over online advertising
  - [https://www.theverge.com/2023/1/24/23569127/google-advertising-monopoly-antitrust-lawsuit-federal-government](https://www.theverge.com/2023/1/24/23569127/google-advertising-monopoly-antitrust-lawsuit-federal-government)

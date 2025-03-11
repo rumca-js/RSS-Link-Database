@@ -41765,6 +41765,33 @@
         "vote": 0
     },
     {
+        "age": 0,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2022-10-27T11:00:12+00:00",
+        "description": "How the blogger formerly known as Mencius Moldbug came to exert a quiet influence on the corporate and political far right.",
+        "id": 2289163,
+        "language": "en-US",
+        "link": "https://www.thenation.com/article/politics/curtis-yarvin",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "peter thiel"
+        ],
+        "thumbnail": "https://www.thenation.com/wp-content/uploads/2022/10/GettyImages-882190322.jpg",
+        "title": "The Reactionary Prophet of Silicon Valley",
+        "vote": 0
+    },
+    {
         "age": null,
         "album": null,
         "author": null,

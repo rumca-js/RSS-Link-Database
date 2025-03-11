@@ -216,7 +216,6 @@
  - [https://www.reuters.com/article/us-biosafety-research-usa-idUSKCN0I91ZD20141020](https://www.reuters.com/article/us-biosafety-research-usa-idUSKCN0I91ZD20141020)
  - date_published: 2014-10-20T07:21:36+00:00
  - tags: ['sars', 'covid']
- - date_dead_since: 2024-09-27T21:22:13.839900+00:00
 
  ## How strong is the link between faith and terrorism?
  - [http://edition.cnn.com/2014/10/26/opinion/aslan-islam-doesnt-cause-terrorism/index.html?eref=edition](http://edition.cnn.com/2014/10/26/opinion/aslan-islam-doesnt-cause-terrorism/index.html?eref=edition)

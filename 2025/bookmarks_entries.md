@@ -23,6 +23,11 @@
  - date_published: 2025-01-13T22:10:39+00:00
  - tags: ['paedophilia']
 
+ ## ‘The Interview’: Curtis Yarvin Says Democracy is Done
+ - [https://www.nytimes.com/2025/01/18/magazine/curtis-yarvin-interview.html](https://www.nytimes.com/2025/01/18/magazine/curtis-yarvin-interview.html)
+ - date_published: 2025-01-18T10:15:06+00:00
+ - tags: ['monarchy', 'democracy']
+
  ## Biden pardons Fauci, Milley and the Jan. 6 panel. It's a guard against potential 'revenge' by Trump
  - [https://apnews.com/article/biden-trump-fauci-milley-pardons-january-6-3cba287f89051513fb48d7ae700ae747](https://apnews.com/article/biden-trump-fauci-milley-pardons-january-6-3cba287f89051513fb48d7ae700ae747)
  - date_published: 2025-01-20T13:13:18+00:00
@@ -228,4 +233,24 @@
  - [https://www.theguardian.com/environment/2025/mar/05/half-of-worlds-co2-emissions-come-from-36-fossil-fuel-firms-study-shows](https://www.theguardian.com/environment/2025/mar/05/half-of-worlds-co2-emissions-come-from-36-fossil-fuel-firms-study-shows)
  - date_published: 2025-03-05T05:01:16+00:00
  - tags: ['climate change', 'corporatocracy', 'co2']
+
+ ## Gender stereotypes are often accurate but vary in magnitude depending on the criterion
+ - [https://www.psypost.org/gender-stereotypes-are-often-accurate-but-vary-in-magnitude-depending-on-the-criterion](https://www.psypost.org/gender-stereotypes-are-often-accurate-but-vary-in-magnitude-depending-on-the-criterion)
+ - date_published: 2025-03-08T17:30:33+00:00
+ - tags: ['stereotypes', 'gender']
+
+ ## Whistleblower Alleges Meta Was Ready to Censor Content for Chinese Government
+ - [https://gizmodo.com/whistleblower-alleges-meta-was-ready-to-censor-content-for-chinese-government-2000573582](https://gizmodo.com/whistleblower-alleges-meta-was-ready-to-censor-content-for-chinese-government-2000573582)
+ - date_published: 2025-03-09T18:15:33+00:00
+ - tags: ['privacy', 'dark design', 'corporatocracy', 'surveillance', 'censorship']
+
+ ## Tennessee law on banning books is forcing teachers to avoid teaching classics out of fear
+ - [https://eu.tennessean.com/story/opinion/contributors/2023/10/24/tennessee-law-book-banning-general-assembly-public-school-teachers/71156417007](https://eu.tennessean.com/story/opinion/contributors/2023/10/24/tennessee-law-book-banning-general-assembly-public-school-teachers/71156417007)
+ - date_published: 2025-03-10T10:03:59+00:00
+ - tags: ['fahrenheit 453']
+
+ ## The 48 Laws of Power - Wikipedia
+ - [https://en.wikipedia.org/wiki/The_48_Laws_of_Power](https://en.wikipedia.org/wiki/The_48_Laws_of_Power)
+ - date_published: 2025-03-10T15:41:26+00:00
+ - tags: ['book']
 

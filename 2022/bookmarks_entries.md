@@ -6965,6 +6965,11 @@
  - [https://www.bankier.pl/wiadomosc/Pelna-cyfryzacja-recept-staje-sie-faktem-Dane-nie-pozostawiaja-watpliwosci-8429787.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Pelna-cyfryzacja-recept-staje-sie-faktem-Dane-nie-pozostawiaja-watpliwosci-8429787.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date_published: 2022-10-27T09:35:00+00:00
 
+ ## The Reactionary Prophet of Silicon Valley
+ - [https://www.thenation.com/article/politics/curtis-yarvin](https://www.thenation.com/article/politics/curtis-yarvin)
+ - date_published: 2022-10-27T11:00:12+00:00
+ - tags: ['peter thiel']
+
  ## The Scientist’s Warning: Climate Change Has Pushed Earth To ‘Code Red’
  - [https://www.forbes.com/sites/davidbressan/2022/10/27/the-scientists-warning-climate-change-has-pushed-earth-to-code-red](https://www.forbes.com/sites/davidbressan/2022/10/27/the-scientists-warning-climate-change-has-pushed-earth-to-code-red)
  - date_published: 2022-10-27T11:10:19+00:00

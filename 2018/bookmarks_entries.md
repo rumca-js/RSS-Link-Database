@@ -515,7 +515,6 @@
  - [https://www.reuters.com/article/us-pfizer-biontech-alliance-idUSKBN1L10F5](https://www.reuters.com/article/us-pfizer-biontech-alliance-idUSKBN1L10F5)
  - date_published: 2018-08-16T21:23:22+00:00
  - tags: ['mrna', 'pfizer', 'biontech', 'covid', 'vaccine', 'big pharma']
- - date_dead_since: 2024-09-27T12:43:31.724294+00:00
 
  ## An Introduction to Not Related! and to Luke Smith
  - [https://notrelated.xyz/audio/s01/S01E00_-_Not_Related_Introduction_and_on_Luke_Smith.mp3](https://notrelated.xyz/audio/s01/S01E00_-_Not_Related_Introduction_and_on_Luke_Smith.mp3)

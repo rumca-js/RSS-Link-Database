@@ -5066,20 +5066,20 @@
         "author": "https://techcrunch.com",
         "bookmarked": true,
         "comments": [],
-        "date_dead_since": "2024-10-12T00:44:38.055285+00:00",
+        "date_dead_since": null,
         "date_published": "2023-01-17T13:18:18+00:00",
         "description": "UK privacy watchdog silent as Google flicks off critique that its Topics API fails to reform ad-tracking",
         "id": 37059,
         "language": "en",
         "link": "https://techcrunch.com/2023/01/17/privacy-sandbox-topics-api-criticism/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAD1E7GuH3iM8FF4-7_PPr3Hit0acqyN2zCyiPCoWUxweW4mLah6Tw5zWbnVcoB4UtN1tWgHmimrtlwdrDWpLgljZsXjQ7661w-GToymPA6ijA7RtRop-oM_8fXuCxuDz6GRAD4dt5pvB874DhnEsQ8q3kBaEZJ97uBm9tX3XD3dG",
         "manual_status_code": 0,
-        "page_rating": 3,
-        "page_rating_contents": 0,
+        "page_rating": 32,
+        "page_rating_contents": 91,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://techcrunch.com",
-        "status_code": 0,
+        "status_code": 200,
         "tags": [
             "england",
             "google",
@@ -5088,7 +5088,7 @@
             "privacy",
             "surveillance"
         ],
-        "thumbnail": null,
+        "thumbnail": "https://techcrunch.com/wp-content/uploads/2018/05/gettyimages-486305802.jpg?resize=1200,800",
         "title": "UK privacy watchdog silent as Google flicks off critique that its Topics API fails to reform ad-tracking",
         "vote": 0
     },
@@ -5105,8 +5105,8 @@
         "language": "en-US",
         "link": "https://www.schneier.com/blog/archives/2023/01/the-fbi-identified-a-tor-user.html",
         "manual_status_code": 0,
-        "page_rating": 29,
-        "page_rating_contents": 81,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -5334,25 +5334,25 @@
         "author": null,
         "bookmarked": true,
         "comments": [],
-        "date_dead_since": "2024-10-11T23:49:32.669750+00:00",
+        "date_dead_since": null,
         "date_published": "2023-01-18T06:59:10+00:00",
         "description": "Investigation: Ukraine buys huge amounts of Russian fuels from Bulgaria \u2013 EURACTIV.com",
         "id": 37050,
         "language": "en-GB",
         "link": "https://www.euractiv.com/section/global-europe/news/investigation-ukraine-buys-huge-amounts-of-russian-fuels-from-bulgaria",
         "manual_status_code": 0,
-        "page_rating": 3,
-        "page_rating_contents": 0,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.euractiv.com",
-        "status_code": 403,
+        "status_code": 200,
         "tags": [
             "ukraine",
             "war"
         ],
-        "thumbnail": "https://www.euractiv.com/wp-content/uploads/sites/2/2023/01/Office-of-Lukoil-Bulgaria-Velko-Angelov-800x450.jpg",
+        "thumbnail": "https://www.euractiv.com/wp-content/uploads/sites/2/2023/01/Office-of-Lukoil-Bulgaria-Velko-Angelov.jpg",
         "title": "Investigation: Ukraine buys huge amounts of Russian fuels from Bulgaria \u2013 EURACTIV.com",
         "vote": 0
     },
@@ -5520,8 +5520,8 @@
         "language": "en",
         "link": "https://twitter.com/LoisMcLatch/status/1616054556001210369?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1616054556001210369%7Ctwgr%5Ef3ee1bd6c95aead32f32df57ff4266cc1980e5af%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.louderwithcrowder.com%2Fprayer-army-vet-fined",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 31,
+        "page_rating_contents": 87,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -5707,7 +5707,7 @@
             "twitter",
             "subscription"
         ],
-        "thumbnail": "https://cdn.vox-cdn.com/thumbor/l0_-U17tDi8ziXYkFrU9UCkzXCM=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/23926015/acastro_STK050_06.jpg",
+        "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23926015/acastro_STK050_06.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "Twitter officially bans third-party clients with new developer rules",
         "vote": 0
     },
@@ -5724,8 +5724,8 @@
         "language": "en-US",
         "link": "https://cohost.org/arborelia/post/868933-how-to-destroy-a-cer",
         "manual_status_code": 0,
-        "page_rating": 32,
-        "page_rating_contents": 90,
+        "page_rating": 31,
+        "page_rating_contents": 87,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -5764,7 +5764,7 @@
             "secure boot",
             "msi"
         ],
-        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/malware.jpg",
+        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/malware-1000x648.jpg",
         "title": "300+ models of MSI motherboards have Secure Boot turned off. Is yours affected? | Ars Technica",
         "vote": 0
     },
@@ -5922,7 +5922,7 @@
             "censorship",
             "facebook"
         ],
-        "thumbnail": "https://dw-wp-production.imgix.net/2023/01/Facebook-1-scaled-e1674256215810.jpg?w=1200&h=800&ixlib=react-9.3.0",
+        "thumbnail": "https://dw-wp-production.imgix.net/2023/01/Facebook-1-scaled-e1674256215810.jpg?w=1200&h=800&ixlib=react-9.10.0",
         "title": "The Facebook Files: How The CDC Colluded With Meta To Suppress \u2018Misinformation\u2019",
         "vote": 0
     },
@@ -6293,14 +6293,14 @@
         "language": "en-US",
         "link": "https://www.nytimes.com/2023/01/22/briefing/peru-protests.html",
         "manual_status_code": 0,
-        "page_rating": 29,
-        "page_rating_contents": 80,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 227,
         "source_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-        "status_code": 403,
+        "status_code": 200,
         "tags": [
             "peru",
             "crisis"
@@ -6540,7 +6540,7 @@
             "google",
             "privacy"
         ],
-        "thumbnail": "https://www.dedigger.com/img/logo.png",
+        "thumbnail": "https://www.dedigger.com/favicon.ico",
         "title": "de\ud83d\udd38digger find public files in Google Drive",
         "vote": 0
     },
@@ -6639,21 +6639,21 @@
         "author": null,
         "bookmarked": true,
         "comments": [],
-        "date_dead_since": "2024-10-10T10:46:41.153482+00:00",
+        "date_dead_since": null,
         "date_published": "2023-01-24T18:57:00+00:00",
         "description": "The Justice Department\u2019s suit could have major implications for the digital ad industry.",
         "id": 37011,
         "language": "en-US",
         "link": "https://www.wsj.com/articles/u-s-sues-google-for-alleged-antitrust-violations-in-its-ad-tech-business-11674582792?mod=rss_Technology",
         "manual_status_code": 0,
-        "page_rating": 3,
-        "page_rating_contents": 0,
+        "page_rating": 29,
+        "page_rating_contents": 81,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 361,
         "source_url": "https://feeds.a.dj.com/rss/RSSWSJD.xml",
-        "status_code": 600,
+        "status_code": 200,
         "tags": [
             "big brother",
             "google",
@@ -6691,7 +6691,7 @@
             "monopoly",
             "big tech"
         ],
-        "thumbnail": "https://cdn.vox-cdn.com/thumbor/EaScurH_lVme4X1artA78Qh3lpo=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24016888/STK093_Google_01.jpg",
+        "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24016888/STK093_Google_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "Google is being sued by the US government and eight states over online advertising",
         "vote": 0
     },
@@ -6721,7 +6721,7 @@
             "iot",
             "smart home"
         ],
-        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/GettyImages-1316301547-scaled.jpg",
+        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/GettyImages-1316301547-1152x648.jpg",
         "title": "Appliance makers sad that 50% of customers won\u2019t connect smart appliances",
         "vote": 0
     },
@@ -6779,7 +6779,7 @@
             "paczkomaty",
             "poland"
         ],
-        "thumbnail": "https://www.telepolis.pl/images/2023/01/paczkomat-inpost-allegro-poznan.jpg",
+        "thumbnail": "https://telepolis.pl//images/2023/01/paczkomat-inpost-allegro-poznan.jpg",
         "title": "Paczkomaty maj\u0105 znikn\u0105\u0107. Miasto idzie na no\u017ce         - TELEPOLIS.PL",
         "vote": 0
     },
@@ -6942,7 +6942,7 @@
         "language": "en-US",
         "link": "https://thehill.com/opinion/national-security/3831448-anti-abortion-violence-is-the-next-wave-of-domestic-terrorism",
         "manual_status_code": 0,
-        "page_rating": 3,
+        "page_rating": 0,
         "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
@@ -7029,13 +7029,13 @@
         "language": "en-US",
         "link": "https://www.nytimes.com/2023/01/26/technology/federal-court-blocks-california-medical-misinformation-law.html",
         "manual_status_code": 0,
-        "page_rating": 29,
-        "page_rating_contents": 80,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
-        "status_code": 403,
+        "status_code": 200,
         "tags": [
             "california",
             "covid",
@@ -7094,7 +7094,7 @@
         "permanent": false,
         "source__id": 141,
         "source_url": "https://hnrss.org/frontpage",
-        "status_code": 403,
+        "status_code": 200,
         "tags": [
             "science"
         ],
@@ -7243,7 +7243,7 @@
             "peertube",
             "selfhost"
         ],
-        "thumbnail": "https://joinpeertube.org/img/card-opengraph.jpg",
+        "thumbnail": "https://joinpeertube.org/img/icons/favicon.png",
         "title": "What is PeerTube? | JoinPeerTube",
         "vote": 0
     },
@@ -7376,13 +7376,13 @@
         "language": "pl-PL",
         "link": "https://300gospodarka.pl/news/swiat-walczy-o-niskie-emisje-ale-coraz-bardziej-lubi-prywatne-odrzutowce",
         "manual_status_code": 0,
-        "page_rating": 31,
-        "page_rating_contents": 87,
+        "page_rating": 32,
+        "page_rating_contents": 91,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://300gospodarka.pl",
-        "status_code": 403,
+        "status_code": 200,
         "tags": [
             "carbon emissions",
             "climate change"
@@ -7730,7 +7730,7 @@
             "sweden",
             "immigration"
         ],
-        "thumbnail": "https://i.iplsc.com/-/000GOSVPESP962SS-C461-F4.jpg",
+        "thumbnail": "https://i.iplsc.com/-/000GOSVPESP962SS-C461.jpg",
         "title": "Szwecja: Gangsterzy odwo\u0142ali burmistrz. \"Niekt\u00f3rzy ledwo znali j\u0119zyk\"",
         "vote": 0
     },
@@ -7875,7 +7875,7 @@
             "the left wing",
             "google"
         ],
-        "thumbnail": "https://dw-wp-production.imgix.net/2023/01/family-photo.jpg?w=1200&h=800&ixlib=react-9.3.0",
+        "thumbnail": "https://dw-wp-production.imgix.net/2023/01/family-photo.jpg?w=1200&h=800&ixlib=react-9.10.0",
         "title": "Google Fired Exec For Not Being \u2018Inclusive\u2019 By Favoring High Performers, Lawsuit Alleges",
         "vote": 0
     },
