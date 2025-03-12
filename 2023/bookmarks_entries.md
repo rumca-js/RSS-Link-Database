@@ -12,7 +12,6 @@
  - [https://www.wsj.com/articles/are-vaccines-fueling-new-covid-variants-xbb-northeast-antibodies-mutation-strain-immune-imprinting-11672483618](https://www.wsj.com/articles/are-vaccines-fueling-new-covid-variants-xbb-northeast-antibodies-mutation-strain-immune-imprinting-11672483618)
  - date_published: 2023-01-01T08:34:35+00:00
  - tags: ['vaccine', 'covid']
- - date_dead_since: 2024-10-12T15:24:45.545687+00:00
 
  ## MHB 2023 Western Europe Conference - Parenting Options for European Gay Men
  - [https://menhavingbabies.org/surrogacy-seminars/brussels](https://menhavingbabies.org/surrogacy-seminars/brussels)
@@ -190,7 +189,6 @@
  - [https://www.daolf.com/posts/best-programming-books](https://www.daolf.com/posts/best-programming-books)
  - date_published: 2023-01-05T09:52:58+00:00
  - tags: ['all time', 'programming', 'best books']
- - date_dead_since: 2024-10-12T13:00:59.038452+00:00
 
  ## 5 arguments to make managers care about technical debt
  - [https://understandlegacycode.com/blog/5-arguments-to-make-managers-care-about-technical-debt](https://understandlegacycode.com/blog/5-arguments-to-make-managers-care-about-technical-debt)
@@ -297,6 +295,7 @@
  - [https://ussanews.com/2023/01/07/satanic-pedophile-ring-shut-victims-in-oven-forced-them-to-kill-animals-filmed-them-being-gang-raped](https://ussanews.com/2023/01/07/satanic-pedophile-ring-shut-victims-in-oven-forced-them-to-kill-animals-filmed-them-being-gang-raped)
  - date_published: 2023-01-07T08:43:02+00:00
  - tags: ['satanism', 'children']
+ - date_dead_since: 2025-03-11T16:37:43.854585+00:00
 
  ## Media społecznościowe stworzyły pokolenie "przewrażliwionych dzieci". To zagraża kapitalizmowi
  - [https://businessinsider.com.pl/lifestyle/media-spolecznosciowe-stworzyly-pokolenie-przewrazliwionych-dzieci-to-zagraza/kggs4w4](https://businessinsider.com.pl/lifestyle/media-spolecznosciowe-stworzyly-pokolenie-przewrazliwionych-dzieci-to-zagraza/kggs4w4)
@@ -333,7 +332,6 @@
  - [https://www.jamesshore.com/v2/projects/testing-without-mocks/testing-without-mocks](https://www.jamesshore.com/v2/projects/testing-without-mocks/testing-without-mocks)
  - date_published: 2023-01-07T22:26:07+00:00
  - tags: ['testing', 'programming']
- - date_dead_since: 2024-10-12T10:15:18.976629+00:00
 
  ## Artist banned from art subreddit because their work looked AI-generated
  - [https://www.pcgamer.com/artist-banned-from-art-subreddit-because-their-work-looked-ai-generated](https://www.pcgamer.com/artist-banned-from-art-subreddit-because-their-work-looked-ai-generated)
@@ -369,7 +367,6 @@
  - [https://www.wsj.com/articles/white-house-covid-censorship-machine-social-media-facebook-meta-executive-rob-flaherty-free-speech-google-11673203704](https://www.wsj.com/articles/white-house-covid-censorship-machine-social-media-facebook-meta-executive-rob-flaherty-free-speech-google-11673203704)
  - date_published: 2023-01-08T16:23:11+00:00
  - tags: ['censorship', 'big brother', 'social media']
- - date_dead_since: 2024-10-12T09:31:03.280628+00:00
 
  ## A village to be evicted for coal – the defense of Luetzerath in Germany
  - [https://freedomnews.org.uk/2023/01/09/a-village-to-be-evicted-for-coal-the-defense-of-luetzerath-in-germany](https://freedomnews.org.uk/2023/01/09/a-village-to-be-evicted-for-coal-the-defense-of-luetzerath-in-germany)
@@ -425,6 +422,7 @@
  - [https://www.nytimes.com/2023/01/10/climate/us-carbon-emissions-2022.html](https://www.nytimes.com/2023/01/10/climate/us-carbon-emissions-2022.html)
  - date_published: 2023-01-10T09:00:08+00:00
  - tags: ['carbon', 'climate change', 'climate drama', 'climate science']
+ - date_dead_since: 2025-03-11T12:40:18.145293+00:00
 
  ## M&M's new packaging is causing a stir | CNN Business
  - [https://edition.cnn.com/2023/01/10/business/m-and-ms-female-pack/index.html](https://edition.cnn.com/2023/01/10/business/m-and-ms-female-pack/index.html)
@@ -465,7 +463,6 @@
  - [https://torrentfreak.com/sony-patents-anti-piracy-blacklist-for-smart-tvs-and-media-players-230111](https://torrentfreak.com/sony-patents-anti-piracy-blacklist-for-smart-tvs-and-media-players-230111)
  - date_published: 2023-01-11T08:13:31+00:00
  - tags: ['technofeudalism', 'sony']
- - date_dead_since: 2024-10-12T08:04:11.256364+00:00
 
  ## Django Styleguide
  - [https://github.com/HackSoftware/Django-Styleguide](https://github.com/HackSoftware/Django-Styleguide)
@@ -511,6 +508,7 @@
  - [https://tvn24.pl/polska/policja-znowu-kupuje-cellebrite-czym-jest-ta-izraelska-technologia-szpiegowska-6624777?source=rss](https://tvn24.pl/polska/policja-znowu-kupuje-cellebrite-czym-jest-ta-izraelska-technologia-szpiegowska-6624777?source=rss)
  - date_published: 2023-01-11T16:08:10+00:00
  - tags: ['cellebrite', 'poland', 'privacy', 'government control', 'surveillance']
+ - date_dead_since: 2025-03-11T10:07:58.956054+00:00
 
  ## "Landmark" lawsuit accuses mainstream media of forming coalition to censor "misinformation"
  - [https://reclaimthenet.org/rfk-jr-sues-mainstream-media-misinformation-cartel](https://reclaimthenet.org/rfk-jr-sues-mainstream-media-misinformation-cartel)
@@ -561,12 +559,6 @@
  - [https://www.washingtonpost.com/technology/2023/01/12/elon-musk-net-worth-record-loss/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology](https://www.washingtonpost.com/technology/2023/01/12/elon-musk-net-worth-record-loss/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology)
  - date_published: 2023-01-12T09:47:55+00:00
  - tags: ['billionaires', 'elon musk', 'twitter', 'elites']
-
- ## Past eight years confirmed to be the eight warmest on record | World Meteorological Organization
- - [https://public.wmo.int/en/media/press-release/past-eight-years-confirmed-be-eight-warmest-record#:~:text=GENEVA%2C%2012%20January%202023%20%2D%20The,by%20the%20World%20Meteorological%20Organization.](https://public.wmo.int/en/media/press-release/past-eight-years-confirmed-be-eight-warmest-record#:~:text=GENEVA%2C%2012%20January%202023%20%2D%20The,by%20the%20World%20Meteorological%20Organization.)
- - date_published: 2023-01-12T11:23:48+00:00
- - tags: ['global warming', 'climate change']
- - date_dead_since: 2024-10-12T05:14:55.584064+00:00
 
  ## YouTube's new profanity rules are punishing creators retroactively, and they're furious
  - [https://www.pcgamer.com/youtubes-new-profanity-rules-are-punishing-creators-retroactively-and-theyre-furious](https://www.pcgamer.com/youtubes-new-profanity-rules-are-punishing-creators-retroactively-and-theyre-furious)
@@ -682,7 +674,6 @@
  - [https://archive.org](https://archive.org)
  - date_published: 2023-01-13T14:35:11+00:00
  - tags: ['internet archive', 'internet']
- - date_dead_since: 2024-10-12T03:28:50.642762+00:00
 
  ## See every stock trade Nancy Pelosi's husband, Paul Pelosi, made while she was House speaker in 2021 and 2022
  - [https://www.businessinsider.com/nancy-pelosi-stock-trades-congress-investments-2022-7?IR=T](https://www.businessinsider.com/nancy-pelosi-stock-trades-congress-investments-2022-7?IR=T)
@@ -815,6 +806,7 @@
  - [https://www.economist.com/finance-and-economics/2023/01/15/the-global-health-care-collapse](https://www.economist.com/finance-and-economics/2023/01/15/the-global-health-care-collapse)
  - date_published: 2023-01-15T22:33:46+00:00
  - tags: ['covid', 'healthcare']
+ - date_dead_since: 2025-03-11T01:38:12.964924+00:00
 
  ## Demografia. Więcej niż wyzwanie dekady
  - [https://forsal.pl/gospodarka/demografia/artykuly/8636131,demografia-wiecej-niz-wyzwanie-dekady.html](https://forsal.pl/gospodarka/demografia/artykuly/8636131,demografia-wiecej-niz-wyzwanie-dekady.html)

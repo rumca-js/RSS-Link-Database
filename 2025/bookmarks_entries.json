@@ -1321,6 +1321,33 @@
         "vote": 0
     },
     {
+        "age": 0,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-04T18:31:09+00:00",
+        "description": "Mija pi\u0119\u0107 lat od kiedy w Polsce wykryto pierwsze zaka\u017cenia wirusem SARS-CoV-2, co zapocz\u0105tkowa\u0142o pandemi\u0119 COVID-19. Rok p\u00f3\u017aniej rozpocz\u0119\u0142y si\u0119 szczepienia, kt\u00f3re wywo\u0142a\u0142y wiele kontrowersji. W 5. r...",
+        "id": 2299657,
+        "language": "pl",
+        "link": "https://businessinsider.com.pl/wiadomosci/miliony-na-powiklania-poszczepienne-po-pandemii-covid-19/97mwgtb?utm_source=fb_komentarz&utm_medium=social&utm_campaign=fb&utm_term=autor_9",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "covid"
+        ],
+        "thumbnail": "https://ocdn.eu/pulscms-transforms/1/sXwk9kpTURBXy8yMzU2MzM3ZDY1N2MxZGRlMWNhNzE3OTI4ZmM1NzY2Mi5qcGeSlQMAzQJwzRdwzQ0wkwXNBLDNAnbeAAGhMAE",
+        "title": "Miliony na powik\u0142ania poszczepienne po pandemii COVID-19",
+        "vote": 0
+    },
+    {
         "age": null,
         "album": "",
         "author": null,
@@ -1462,6 +1489,38 @@
         ],
         "thumbnail": "https://upload.wikimedia.org/wikipedia/en/9/9d/GreeneRobert-48LawsOfPower.jpg",
         "title": "The 48 Laws of Power - Wikipedia",
+        "vote": 0
+    },
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-10T22:30:05+00:00",
+        "description": "Social media company considered letting Beijing control content for access to its lucrative market, BBC told.",
+        "id": 2291824,
+        "language": "en-US",
+        "link": "https://www.bbc.com/news/articles/cly820v99ppo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 27,
+        "source_url": "https://feeds.bbci.co.uk/news/rss.xml",
+        "status_code": 0,
+        "tags": [
+            "censorship",
+            "facebook",
+            "censorship",
+            "china",
+            "facebook"
+        ],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/355c/live/da2d5260-fda1-11ef-8c03-7dfdbeeb2526.jpg",
+        "title": "Facebook \u2018worked hand in glove\u2019 with China on censor tools, claims ex-director",
         "vote": 0
     }
 ]

@@ -229,6 +229,11 @@
  - date_published: 2025-03-04T16:54:31+00:00
  - tags: ['blackrock']
 
+ ## Miliony na powikłania poszczepienne po pandemii COVID-19
+ - [https://businessinsider.com.pl/wiadomosci/miliony-na-powiklania-poszczepienne-po-pandemii-covid-19/97mwgtb?utm_source=fb_komentarz&utm_medium=social&utm_campaign=fb&utm_term=autor_9](https://businessinsider.com.pl/wiadomosci/miliony-na-powiklania-poszczepienne-po-pandemii-covid-19/97mwgtb?utm_source=fb_komentarz&utm_medium=social&utm_campaign=fb&utm_term=autor_9)
+ - date_published: 2025-03-04T18:31:09+00:00
+ - tags: ['covid']
+
  ## Half of world’s CO2 emissions come from 36 fossil fuel firms, study shows
  - [https://www.theguardian.com/environment/2025/mar/05/half-of-worlds-co2-emissions-come-from-36-fossil-fuel-firms-study-shows](https://www.theguardian.com/environment/2025/mar/05/half-of-worlds-co2-emissions-come-from-36-fossil-fuel-firms-study-shows)
  - date_published: 2025-03-05T05:01:16+00:00
@@ -253,4 +258,9 @@
  - [https://en.wikipedia.org/wiki/The_48_Laws_of_Power](https://en.wikipedia.org/wiki/The_48_Laws_of_Power)
  - date_published: 2025-03-10T15:41:26+00:00
  - tags: ['book']
+
+ ## Facebook ‘worked hand in glove’ with China on censor tools, claims ex-director
+ - [https://www.bbc.com/news/articles/cly820v99ppo](https://www.bbc.com/news/articles/cly820v99ppo)
+ - date_published: 2025-03-10T22:30:05+00:00
+ - tags: ['censorship', 'facebook', 'censorship', 'china', 'facebook']
 

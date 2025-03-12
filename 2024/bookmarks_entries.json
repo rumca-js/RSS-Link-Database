@@ -7142,16 +7142,16 @@
         "manual_status_code": 0,
         "page_rating": 30,
         "page_rating_contents": 86,
-        "page_rating_visits": 4,
+        "page_rating_visits": 7,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 219,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMiJRAwDNSNzuYeN2uWa0pA",
-        "status_code": 0,
+        "status_code": 200,
         "tags": [
             "search engines"
         ],
-        "thumbnail": "https://i2.ytimg.com/vi/uSGVk2KVokQ/hqdefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi_webp/uSGVk2KVokQ/maxresdefault.webp",
         "title": "Why Google Search is Falling Apart.",
         "vote": 0
     },
