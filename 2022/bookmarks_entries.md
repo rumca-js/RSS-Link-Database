@@ -9680,7 +9680,6 @@
  - [https://www.dailymail.co.uk/news/article-11495915/More-400-pedophile-dens-California-18-sex-predators-live-together.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11495915/More-400-pedophile-dens-California-18-sex-predators-live-together.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date_published: 2022-12-21T19:42:59+00:00
  - tags: ['usa', 'paedophilia', 'california']
- - date_dead_since: 2024-10-13T02:01:13.170088+00:00
 
  ## Overton window
  - [https://en.wikipedia.org/wiki/Overton_window](https://en.wikipedia.org/wiki/Overton_window)
@@ -9771,12 +9770,6 @@
  - date_published: 2022-12-22T20:04:36+00:00
  - tags: ['apple', 'censorship', 'surveillance', 'russia']
 
- ## The fundamental rights of millions are impacted when Apple does business with authoritarian regimes
- - [https://applecensorship.com/the-fundamental-rights-of-millions-are-impacted-when-apple-does-business-with-authoritarian-regimes](https://applecensorship.com/the-fundamental-rights-of-millions-are-impacted-when-apple-does-business-with-authoritarian-regimes)
- - date_published: 2022-12-22T20:29:35+00:00
- - tags: ['censorship', 'apple']
- - date_dead_since: 2024-10-12T23:02:14.364108+00:00
-
  ## Disney stock on its way to worst year since 1974 after 'Avatar' sequel disappoints
  - [https://www.dailymail.co.uk/news/article-11567283/Disney-stock-way-worst-year-1974-Avatar-sequel-disappoints.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11567283/Disney-stock-way-worst-year-1974-Avatar-sequel-disappoints.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date_published: 2022-12-22T20:39:59+00:00
@@ -9846,12 +9839,6 @@
  - [https://www.forbes.com/sites/emilybaker-white/2022/12/23/lawmakers-outrage-tiktok-spied-on-journalists](https://www.forbes.com/sites/emilybaker-white/2022/12/23/lawmakers-outrage-tiktok-spied-on-journalists)
  - date_published: 2022-12-23T19:57:15+00:00
  - tags: ['tiktok', 'china', 'surveillance']
-
- ## Keeping Apple Accountable Globally
- - [https://applecensorship.com](https://applecensorship.com)
- - date_published: 2022-12-23T20:27:17+00:00
- - tags: ['censorship', 'privacy', 'apple']
- - date_dead_since: 2024-10-12T21:56:16.260116+00:00
 
  ## Tunisia's political experiment threatens economic collapse
  - [http://www.msn.com/en-us/news/world/tunisia-s-political-experiment-threatens-economic-collapse/ar-AA15COmB?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/tunisia-s-political-experiment-threatens-economic-collapse/ar-AA15COmB?li=BBnbcA1&srcref=rss)
@@ -9976,6 +9963,7 @@
  - [https://www.nationalreview.com/news/twitter-files-platform-suppressed-valid-information-from-medical-experts-about-covid-19](https://www.nationalreview.com/news/twitter-files-platform-suppressed-valid-information-from-medical-experts-about-covid-19)
  - date_published: 2022-12-26T20:17:51+00:00
  - tags: ['censorship', 'covid', 'twitter', 'twitter files']
+ - date_dead_since: 2025-03-12T05:50:23.130509+00:00
 
  ## Rachel Levine ripped for demanding censorship of 'misinformation' on 'gender-affirming care' for kids
  - [https://www.foxnews.com/media/rachel-levine-ripped-demanding-censorship-misinformation-gender-affirming-care-kids](https://www.foxnews.com/media/rachel-levine-ripped-demanding-censorship-misinformation-gender-affirming-care-kids)
@@ -10016,7 +10004,6 @@
  - [https://www.dailymail.co.uk/news/article-11577527/Transgender-pansexuality-Australian-Human-Rights-Commission-video-slammed-woke-gender-ideology.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11577527/Transgender-pansexuality-Australian-Human-Rights-Commission-video-slammed-woke-gender-ideology.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date_published: 2022-12-27T23:59:01+00:00
  - tags: ['gender', 'australia', 'the left wing']
- - date_dead_since: 2024-10-12T19:21:40.556077+00:00
 
  ## US military biometric capture devices loaded with data were sold on eBay
  - [https://www.theverge.com/2022/12/27/23528338/us-military-biometric-devices-fingerprints-pictures-iris-scans-afghanistan](https://www.theverge.com/2022/12/27/23528338/us-military-biometric-devices-fingerprints-pictures-iris-scans-afghanistan)
@@ -10102,7 +10089,6 @@
  - [https://www.wsj.com/articles/the-national-crisis-of-generation-z-jonathan-haidt-social-media-performance-anxiety-fragility-gap-childhood-11672401345](https://www.wsj.com/articles/the-national-crisis-of-generation-z-jonathan-haidt-social-media-performance-anxiety-fragility-gap-childhood-11672401345)
  - date_published: 2022-12-30T09:09:58+00:00
  - tags: ['social media', 'victimhood', 'cancel culture']
- - date_dead_since: 2024-10-12T17:07:04.534339+00:00
 
  ## BBC is 'warping modern Britain' by allowing 'woke viewpoints' in dramas, report warns
  - [https://www.dailymail.co.uk/news/article-11585077/BBC-warping-modern-Britain-allowing-woke-viewpoints-dramas-report-warns.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11585077/BBC-warping-modern-Britain-allowing-woke-viewpoints-dramas-report-warns.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)

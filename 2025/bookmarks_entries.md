@@ -239,6 +239,11 @@
  - date_published: 2025-03-05T05:01:16+00:00
  - tags: ['climate change', 'corporatocracy', 'co2']
 
+ ## State of The Dead Internet
+ - [https://www.youtube.com/watch?v=GELgKl_Wow8](https://www.youtube.com/watch?v=GELgKl_Wow8)
+ - date_published: 2025-03-06T11:40:32+00:00
+ - tags: ['dead internet']
+
  ## Gender stereotypes are often accurate but vary in magnitude depending on the criterion
  - [https://www.psypost.org/gender-stereotypes-are-often-accurate-but-vary-in-magnitude-depending-on-the-criterion](https://www.psypost.org/gender-stereotypes-are-often-accurate-but-vary-in-magnitude-depending-on-the-criterion)
  - date_published: 2025-03-08T17:30:33+00:00
@@ -259,8 +264,23 @@
  - date_published: 2025-03-10T15:41:26+00:00
  - tags: ['book']
 
+ ## Fear among Syrian Christians after deadly attacks
+ - [https://www.france24.com/en/live-news/20250310-fear-among-syrian-christians-after-deadly-attacks](https://www.france24.com/en/live-news/20250310-fear-among-syrian-christians-after-deadly-attacks)
+ - date_published: 2025-03-10T17:59:14+00:00
+ - tags: ['christianophobia']
+
  ## Facebook ‘worked hand in glove’ with China on censor tools, claims ex-director
  - [https://www.bbc.com/news/articles/cly820v99ppo](https://www.bbc.com/news/articles/cly820v99ppo)
  - date_published: 2025-03-10T22:30:05+00:00
  - tags: ['censorship', 'facebook', 'censorship', 'china', 'facebook']
+
+ ## Amazon forest felled to build road for climate summit
+ - [https://www.bbc.com/news/articles/c9vy191rgn1o](https://www.bbc.com/news/articles/c9vy191rgn1o)
+ - date_published: 2025-03-12T06:02:29+00:00
+ - tags: ['climate change']
+
+ ## More than 1,500 people killed in explosion of violence in Syria
+ - [https://www.opendoorsuk.org/news/latest-news/syria-violence-fear](https://www.opendoorsuk.org/news/latest-news/syria-violence-fear)
+ - date_published: 2025-03-12T20:11:29+00:00
+ - tags: ['christianophobia']
 

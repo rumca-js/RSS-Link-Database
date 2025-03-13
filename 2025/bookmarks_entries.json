@@ -1378,6 +1378,34 @@
         "vote": 0
     },
     {
+        "age": null,
+        "album": "",
+        "author": "Jules",
+        "bookmarked": true,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-06T11:40:32+00:00",
+        "description": "In this one I personally lament the end of the internet I grew up on, the state of the current era, the new methods of ideological conflict and explain why despite everything, all is not lost. \n\nChapters:\nDead Internet - 0:00\nYoutube - 2:14\nTwitter - 15:03\nYou will never have Catharsis - 25:56\n\u201cyour taking it too seriously\u201d - 31:25\nLiterally Dead - 45:45\nAlive Users - 55:05\n\nMusic Used:\nhttps://pastebin.com/S7xQC5Jy\n\nDiscord:\nhttps://discord.gg/dQYBDaNh",
+        "id": 2307964,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=GELgKl_Wow8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 602,
+        "source_url": "https://www.youtube.com/channel/UCPOv_c7pdPxidIVmp2SXwFA",
+        "status_code": 0,
+        "tags": [
+            "dead internet"
+        ],
+        "thumbnail": "https://i4.ytimg.com/vi/GELgKl_Wow8/hqdefault.jpg",
+        "title": "State of The Dead Internet",
+        "vote": 0
+    },
+    {
         "age": 0,
         "album": null,
         "author": "Mane Kara-Yakoubian",
@@ -1492,6 +1520,33 @@
         "vote": 0
     },
     {
+        "age": 0,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-10T17:59:14+00:00",
+        "description": "Members of Syria's small Christian community on the coast are living in fear after attacks killed more than 1,000 mostly Alawite civilians, with Christians reportedly caught up in the violence.",
+        "id": 2307048,
+        "language": "en",
+        "link": "https://www.france24.com/en/live-news/20250310-fear-among-syrian-christians-after-deadly-attacks",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "christianophobia"
+        ],
+        "thumbnail": "https://s.france24.com/media/display/fe0db308-fdd0-11ef-a2f8-005056bf30b7/w:1280/p:16x9/5fcb1cbcf46c9af7943e22e10dfbdca6edab90b3.jpg",
+        "title": "Fear among Syrian Christians after deadly attacks",
+        "vote": 0
+    },
+    {
         "age": null,
         "album": "",
         "author": null,
@@ -1521,6 +1576,61 @@
         ],
         "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/355c/live/da2d5260-fda1-11ef-8c03-7dfdbeeb2526.jpg",
         "title": "Facebook \u2018worked hand in glove\u2019 with China on censor tools, claims ex-director",
+        "vote": 0
+    },
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-12T06:02:29+00:00",
+        "description": "The infrastructure required to host climate talks in Bel\u00e9m is undermining the cause, campaigners say.",
+        "id": 2302574,
+        "language": "en-US",
+        "link": "https://www.bbc.com/news/articles/c9vy191rgn1o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 27,
+        "source_url": "https://feeds.bbci.co.uk/news/rss.xml",
+        "status_code": 0,
+        "tags": [
+            "climate change"
+        ],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a63/live/7030b210-fe6b-11ef-a8b1-950887ddc6e5.jpg",
+        "title": "Amazon forest felled to build road for climate summit",
+        "vote": 0
+    },
+    {
+        "age": 0,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-12T20:11:29+00:00",
+        "description": "Recent days have seen a wave of violence in Syria, killing hundreds and leaving people fearful for the future. Please pray.",
+        "id": 2307021,
+        "language": "en-GB",
+        "link": "https://www.opendoorsuk.org/news/latest-news/syria-violence-fear",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "christianophobia"
+        ],
+        "thumbnail": "https://www.opendoorsuk.org/wp-content/uploads/2025/03/11.03.25-SyriaArtboard-1.jpg",
+        "title": "More than 1,500 people killed in explosion of violence in Syria",
         "vote": 0
     }
 ]
