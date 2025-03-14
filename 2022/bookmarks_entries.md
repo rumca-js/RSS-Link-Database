@@ -9469,6 +9469,7 @@
  - [https://expose-news.com/2022/12/18/israeli-gov-unable-to-locate-agreement-with-pfizer](https://expose-news.com/2022/12/18/israeli-gov-unable-to-locate-agreement-with-pfizer)
  - date_published: 2022-12-18T21:53:12+00:00
  - tags: ['big pharma', 'covid', 'vaccine', 'pfizer']
+ - date_dead_since: 2025-03-13T06:19:44.972275+00:00
 
  ## Biodiversity: 'Anything adopted at the COP15 will be compromised before even being signed'
  - [https://www.lemonde.fr/en/opinion/article/2022/12/19/biodiversity-anything-adopted-at-the-cop15-will-be-compromised-before-even-being-signed_6008248_23.html](https://www.lemonde.fr/en/opinion/article/2022/12/19/biodiversity-anything-adopted-at-the-cop15-will-be-compromised-before-even-being-signed_6008248_23.html)
@@ -9605,6 +9606,7 @@
  - [https://www.ic3.gov/Media/Y2022/PSA221221](https://www.ic3.gov/Media/Y2022/PSA221221)
  - date_published: 2022-12-21T06:28:29+00:00
  - tags: ['vulnerability', 'ad business']
+ - date_dead_since: 2025-03-13T02:36:00.095445+00:00
 
  ## George Soros nonprofits gave tens of millions to anti-police groups and initiatives in 2021, tax forms show
  - [https://www.foxnews.com/politics/george-soros-nonprofits-dished-tens-millions-anti-police-groups-initiatives-2021-tax-forms-show](https://www.foxnews.com/politics/george-soros-nonprofits-dished-tens-millions-anti-police-groups-initiatives-2021-tax-forms-show)
@@ -9630,6 +9632,7 @@
  - [https://violationtracker.goodjobsfirst.org/parent/pfizer](https://violationtracker.goodjobsfirst.org/parent/pfizer)
  - date_published: 2022-12-21T13:41:43+00:00
  - tags: ['big pharma', 'covid', 'vaccine', 'pfizer']
+ - date_dead_since: 2025-03-13T01:24:23.258085+00:00
 
  ## Report: Attacks on Christian Churches Nearly Triple in Four Years
  - [https://www.breitbart.com/politics/2022/12/21/report-attacks-on-christian-churches-nearly-triple-in-four-years](https://www.breitbart.com/politics/2022/12/21/report-attacks-on-christian-churches-nearly-triple-in-four-years)

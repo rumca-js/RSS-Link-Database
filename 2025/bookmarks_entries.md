@@ -274,6 +274,11 @@
  - date_published: 2025-03-10T22:30:05+00:00
  - tags: ['censorship', 'facebook', 'censorship', 'china', 'facebook']
 
+ ## USAID staff told to shred and burn classified documents
+ - [https://www.bbc.com/news/articles/cjw2yywy3x7o](https://www.bbc.com/news/articles/cjw2yywy3x7o)
+ - date_published: 2025-03-12T00:13:07+00:00
+ - tags: ['usaid']
+
  ## Amazon forest felled to build road for climate summit
  - [https://www.bbc.com/news/articles/c9vy191rgn1o](https://www.bbc.com/news/articles/c9vy191rgn1o)
  - date_published: 2025-03-12T06:02:29+00:00
