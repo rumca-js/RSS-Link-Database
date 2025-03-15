@@ -8424,7 +8424,6 @@
  - [https://www.wsj.com/articles/apple-has-no-easy-road-out-of-china-11669661578?mod=rss_Technology](https://www.wsj.com/articles/apple-has-no-easy-road-out-of-china-11669661578?mod=rss_Technology)
  - date_published: 2022-11-29T04:02:00+00:00
  - tags: ['china', 'apple']
- - date_dead_since: 2024-10-13T23:57:04.729182+00:00
 
  ## Online Safety Bill changes: End-to-end encryption fears remain
  - [https://techmonitor.ai/policy/online-safety-bill-changes-end-to-end-encryption](https://techmonitor.ai/policy/online-safety-bill-changes-end-to-end-encryption)
@@ -8455,6 +8454,7 @@
  - [https://mashable.com/article/google-youtube-fact-checking-misinformation](https://mashable.com/article/google-youtube-fact-checking-misinformation)
  - date_published: 2022-11-29T15:15:41+00:00
  - tags: ['moderation', 'youtube', 'algorithms', 'misinformation', 'google', 'censorship']
+ - date_dead_since: 2025-03-14T21:11:04.960949+00:00
 
  ## Deep Fake Zuckerberg Thanks Democrats for Their Service and Inaction on Antitrust
  - [https://gizmodo.com/deep-fake-zuckerberg-meta-antitrust-big-tech-1849830665](https://gizmodo.com/deep-fake-zuckerberg-meta-antitrust-big-tech-1849830665)
@@ -8476,6 +8476,7 @@
  - [https://www.cnn.com/2022/11/30/media/china-new-internet-rule-punish-liking-posts-intl-hnk/index.html](https://www.cnn.com/2022/11/30/media/china-new-internet-rule-punish-liking-posts-intl-hnk/index.html)
  - date_published: 2022-11-30T08:24:43+00:00
  - tags: ['china', 'censorship', 'covid zero']
+ - date_dead_since: 2025-03-14T20:16:22.964237+00:00
 
  ## Fake Zuck to Congress: Thank You for Inaction on Big Tech Antitrust!
  - [https://www.youtube.com/watch?v=5Fv-LKT_cEc](https://www.youtube.com/watch?v=5Fv-LKT_cEc)
@@ -8569,6 +8570,7 @@
  - [https://www.nationalreview.com/2022/12/when-will-the-left-condemn-solar-energy-slavery](https://www.nationalreview.com/2022/12/when-will-the-left-condemn-solar-energy-slavery)
  - date_published: 2022-12-02T08:20:31+00:00
  - tags: ['slavery', 'climate change', 'co2']
+ - date_dead_since: 2025-03-14T17:20:42.228868+00:00
 
  ## Google i Facebook muszą dzielić się wpływami z lokalnymi wydawcami
  - [https://forsal.pl/swiat/aktualnosci/artykuly/8601248,australia-google-facebook-regulacje-lokalni-wydawcy.html](https://forsal.pl/swiat/aktualnosci/artykuly/8601248,australia-google-facebook-regulacje-lokalni-wydawcy.html)
@@ -8590,6 +8592,7 @@
  - [https://www.activistpost.com/2022/12/china-mandates-social-credit-system-for-social-media-will-track-likes-on-harmful-content.html](https://www.activistpost.com/2022/12/china-mandates-social-credit-system-for-social-media-will-track-likes-on-harmful-content.html)
  - date_published: 2022-12-02T11:17:25+00:00
  - tags: ['china', 'social credit', 'surveillance', 'social media']
+ - date_dead_since: 2025-03-14T14:01:00.212178+00:00
 
  ## The reasons search seems to be getting worse
  - [https://seths.blog/2022/12/the-reasons-search-is-getting-worse](https://seths.blog/2022/12/the-reasons-search-is-getting-worse)
@@ -8655,7 +8658,6 @@
  - [https://www.wsj.com/articles/apple-china-factory-protests-foxconn-manufacturing-production-supply-chain-11670023099](https://www.wsj.com/articles/apple-china-factory-protests-foxconn-manufacturing-production-supply-chain-11670023099)
  - date_published: 2022-12-04T07:22:34+00:00
  - tags: ['china', 'iphone', 'india', 'apple']
- - date_dead_since: 2024-10-13T17:27:19.556442+00:00
 
  ## Fauci suggested FBI be warned about possible lab leak before he dismissed hypothesis
  - [http://www.msn.com/en-us/news/world/fauci-suggested-fbi-be-warned-about-possible-lab-leak-before-he-dismissed-hypothesis/ar-AA14SMEq?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/fauci-suggested-fbi-be-warned-about-possible-lab-leak-before-he-dismissed-hypothesis/ar-AA14SMEq?li=BBnbcA1&srcref=rss)
@@ -8805,6 +8807,7 @@
  - [https://techcrunch.com/2022/12/06/meta-gdpr-forced-consent-edpb-decisions](https://techcrunch.com/2022/12/06/meta-gdpr-forced-consent-edpb-decisions)
  - date_published: 2022-12-07T11:36:18+00:00
  - tags: ['ad business', 'gdpr', 'privacy', 'facebook', 'meta']
+ - date_dead_since: 2025-03-14T04:39:44.408656+00:00
 
  ## UK Warned by Farmers That It Is Facing a Food Supply Crisis
  - [https://www.theepochtimes.com/uk-warned-by-farmers-that-it-is-facing-a-food-supply-crisis_4906491.html](https://www.theepochtimes.com/uk-warned-by-farmers-that-it-is-facing-a-food-supply-crisis_4906491.html)
@@ -8840,7 +8843,6 @@
  - [https://www.theverge.com/2022/12/7/23498588/apple-csam-icloud-photos-scanning-encryption](https://www.theverge.com/2022/12/7/23498588/apple-csam-icloud-photos-scanning-encryption)
  - date_published: 2022-12-07T19:02:52+00:00
  - tags: ['privacy', 'apple']
- - date_dead_since: 2024-10-13T14:27:06.816231+00:00
 
  ## Instagram Will Now Tell You if You've Been Shadow-Banned and Why     - CNET
  - [https://www.cnet.com/news/social-media/instagram-will-now-tell-you-if-youve-been-shadowbanned/#ftag=CADf328eec](https://www.cnet.com/news/social-media/instagram-will-now-tell-you-if-youve-been-shadowbanned/#ftag=CADf328eec)
