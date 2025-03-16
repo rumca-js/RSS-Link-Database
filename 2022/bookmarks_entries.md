@@ -7904,6 +7904,7 @@
  - [https://ithardware.pl/aktualnosci/windows_11_wyswietli_jeszcze_wiecej_reklam_microsoft_testuje_cierpliwosc_uzytkownikow-24307.html](https://ithardware.pl/aktualnosci/windows_11_wyswietli_jeszcze_wiecej_reklam_microsoft_testuje_cierpliwosc_uzytkownikow-24307.html)
  - date_published: 2022-11-11T17:30:00+00:00
  - tags: ['microsoft', 'windows 11', 'ad business']
+ - date_dead_since: 2025-03-15T21:17:50.358578+00:00
 
  ## How safe is Elon Musk's bet on Tesla in China? Tesla has adjusted its sales & service strategy
  - [https://www.youtube.com/watch?v=iEwxAJ0zgNE](https://www.youtube.com/watch?v=iEwxAJ0zgNE)
@@ -8003,6 +8004,7 @@
  - [https://www.nytimes.com/2022/11/14/technology/google-privacy-settlement.html](https://www.nytimes.com/2022/11/14/technology/google-privacy-settlement.html)
  - date_published: 2022-11-14T16:43:47+00:00
  - tags: ['tracking', 'google', 'privacy']
+ - date_dead_since: 2025-03-15T17:12:11.300967+00:00
 
  ## How Marxism is Disguised as Woke Morality | Dr. Yoram Hazony | #305
  - [https://www.youtube.com/watch?v=D5X0tAecfF4](https://www.youtube.com/watch?v=D5X0tAecfF4)
@@ -8062,6 +8064,7 @@
  ## Even a global recession may not crush inflation
  - [https://www.economist.com/finance-and-economics/2022/11/15/even-a-global-recession-may-not-crush-inflation](https://www.economist.com/finance-and-economics/2022/11/15/even-a-global-recession-may-not-crush-inflation)
  - date_published: 2022-11-16T13:05:11+00:00
+ - date_dead_since: 2025-03-15T14:08:35.483141+00:00
 
  ## 82% of Open-Source Projects Suffer from Tool Rot
  - [https://blog.trunk.io/82-of-open-source-projects-suffer-from-tool-rot-e766bdf449a2](https://blog.trunk.io/82-of-open-source-projects-suffer-from-tool-rot-e766bdf449a2)
@@ -8316,7 +8319,6 @@
  - [https://www.wsj.com/articles/the-science-for-determining-climate-change-damage-is-unsettled-11669436469](https://www.wsj.com/articles/the-science-for-determining-climate-change-damage-is-unsettled-11669436469)
  - date_published: 2022-11-26T10:30:00+00:00
  - tags: ['science is dead', 'climate change', 'science']
- - date_dead_since: 2024-10-14T02:01:11.211052+00:00
 
  ## Animated Gay Teen Romance Film Is Woke Disney’s Latest Box-Office Bomb
  - [https://www.dailywire.com/news/animated-gay-teen-romance-film-is-woke-disneys-latest-box-office-bomb](https://www.dailywire.com/news/animated-gay-teen-romance-film-is-woke-disneys-latest-box-office-bomb)
@@ -8327,6 +8329,7 @@
  - [https://www.extremetech.com/internet/341111-tax-filing-websites-caught-sending-users-financial-data-to-facebook](https://www.extremetech.com/internet/341111-tax-filing-websites-caught-sending-users-financial-data-to-facebook)
  - date_published: 2022-11-26T12:19:20+00:00
  - tags: ['privacy', 'facebook']
+ - date_dead_since: 2025-03-15T04:03:37.141777+00:00
 
  ## WhatsApp data leak: 500M user records for sale
  - [https://cybernews.com/news/whatsapp-data-leak](https://cybernews.com/news/whatsapp-data-leak)
