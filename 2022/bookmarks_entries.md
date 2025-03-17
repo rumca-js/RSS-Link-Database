@@ -7222,6 +7222,7 @@
  - [https://giza.mused.org/en](https://giza.mused.org/en)
  - date_published: 2022-10-30T08:55:05+00:00
  - tags: ['egypt', 'project']
+ - date_dead_since: 2025-03-16T21:17:13.653356+00:00
 
  ## Italy to reinstate health workers who did not comply with COVID vaccine mandates
  - [https://www.foxnews.com/world/italy-reinstate-health-workers-suspended-not-complying-covid-vaccine-mandates](https://www.foxnews.com/world/italy-reinstate-health-workers-suspended-not-complying-covid-vaccine-mandates)
@@ -7350,6 +7351,7 @@
  - [https://www.forbes.com/sites/danielnewman/2022/10/31/big-tech-earnings-put-advertising-privacy-and-user-experience-in-focus](https://www.forbes.com/sites/danielnewman/2022/10/31/big-tech-earnings-put-advertising-privacy-and-user-experience-in-focus)
  - date_published: 2022-11-01T02:27:57+00:00
  - tags: ['privacy', 'ad business', 'big tech']
+ - date_dead_since: 2025-03-16T17:01:12.495363+00:00
 
  ## I finally found a use case for my Raspberry Pi Model B+
  - [https://ounapuu.ee/posts/2022/11/01/finding-use-case-for-raspberry-pi](https://ounapuu.ee/posts/2022/11/01/finding-use-case-for-raspberry-pi)
@@ -7421,6 +7423,7 @@
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59370](https://www.codeproject.com/script/News/View.aspx?nwid=59370)
  - date_published: 2022-11-02T04:00:00+00:00
  - tags: ['science', 'science is dead', 'machine learning', 'artificial intelligence']
+ - date_dead_since: 2025-03-16T14:53:08.200869+00:00
 
  ## Wenezuela i Kolumbia zapowiedziały "całkowitą integrację" swoich gospodarek
  - [https://www.bankier.pl/wiadomosc/Wenezuela-i-Kolumbia-zapowiedzialy-calkowita-integracje-swoich-gospodarek-8432274.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Wenezuela-i-Kolumbia-zapowiedzialy-calkowita-integracje-swoich-gospodarek-8432274.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -7716,6 +7719,7 @@
  - [https://www.theblock.co/post/183646/digital-euro-transaction-limits-store-value-caps](https://www.theblock.co/post/183646/digital-euro-transaction-limits-store-value-caps)
  - date_published: 2022-11-07T09:52:33+00:00
  - tags: ['cbdc', 'digital euro']
+ - date_dead_since: 2025-03-16T04:24:55.916594+00:00
 
  ## Cop27 in Egypt: Activists hit out at VIP menu featuring beef, chicken, fish and dairy products | Daily Mail Online
  - [https://www.dailymail.co.uk/news/article-11398493/Cop27-Egypt-Activists-hit-VIP-menu-featuring-beef-chicken-fish-dairy-products.html](https://www.dailymail.co.uk/news/article-11398493/Cop27-Egypt-Activists-hit-VIP-menu-featuring-beef-chicken-fish-dairy-products.html)

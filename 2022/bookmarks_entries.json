@@ -42256,8 +42256,8 @@
         "language": "en-US",
         "link": "https://www.codeproject.com/script/News/View.aspx?nwid=59348",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 29,
+        "page_rating_contents": 81,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -42934,7 +42934,7 @@
         "link": "https://nltimes.nl/2022/10/29/amsterdam-mayor-scraps-lgbti-statement-backlash-mosques",
         "manual_status_code": 0,
         "page_rating": 32,
-        "page_rating_contents": 90,
+        "page_rating_contents": 91,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -42945,7 +42945,7 @@
             "netherlands",
             "lgbt"
         ],
-        "thumbnail": "https://nltimes.nl/sites/nltimes.nl/files/styles/news_article_full/public/2022-10/Walls_of_Babylon_Slotervaart.jpeg?h=a5eb5da0",
+        "thumbnail": "https://nltimes.nl/sites/nltimes.nl/files/styles/news_article_full_desktop_2x/public/2022-10/Walls_of_Babylon_Slotervaart.jpeg?h=a5eb5da0",
         "title": "Amsterdam mayor scraps LGBTI+ statement after backlash from mosques",
         "vote": 0
     },
@@ -43120,7 +43120,7 @@
             "privacy",
             "tracking"
         ],
-        "thumbnail": "https://opengraph.githubassets.com/e861b745a86f93d015788722a6ce597c8e5b770b616d76179af46c3762ce6e82/AdguardTeam/AdGuardHome",
+        "thumbnail": "https://opengraph.githubassets.com/69ebe96ce4a2dce8d68d9fbafeaec8ecbcb8ab4fde55ae740f10198036a04b5e/AdguardTeam/AdGuardHome",
         "title": "AdGuardHome: Network-wide ads and trackers blocking DNS server",
         "vote": 0
     },
@@ -43276,7 +43276,7 @@
             "security",
             "liz truss"
         ],
-        "thumbnail": "https://i.iplsc.com/-/000FLGF4QETV0CPL-C461-F4.jpg",
+        "thumbnail": "https://i.iplsc.com/-/000FLGF4QETV0CPL-C461.jpg",
         "title": "Telefon Liz Truss zhakowany. Media: Wyciek\u0142y tajne dane",
         "vote": 0
     },
@@ -43286,20 +43286,20 @@
         "author": null,
         "bookmarked": true,
         "comments": [],
-        "date_dead_since": null,
+        "date_dead_since": "2025-03-16T21:17:13.653356+00:00",
         "date_published": "2022-10-30T08:55:05+00:00",
         "description": "Giza virtual trip in pyramid",
         "id": 38205,
         "language": "en",
         "link": "https://giza.mused.org/en",
         "manual_status_code": 0,
-        "page_rating": 32,
-        "page_rating_contents": 90,
+        "page_rating": 0,
+        "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://giza.mused.org/en/",
-        "status_code": 200,
+        "status_code": 404,
         "tags": [
             "egypt",
             "project"
@@ -43392,7 +43392,7 @@
             "playstation",
             "vulnerability"
         ],
-        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/getty-ps5-cdr-01-2560x1440.png",
+        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/getty-ps5-cdr-01-1152x648.png",
         "title": "PS4/PS5 exploit that is \u201cessentially unpatchable\u201d",
         "vote": 0
     },
@@ -43473,13 +43473,13 @@
         "language": "en-US",
         "link": "https://www.sdlgbtn.com/hiv-rates-among-gay-and-bisexual-men-in-london",
         "manual_status_code": 0,
-        "page_rating": 3,
+        "page_rating": 0,
         "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.sdlgbtn.com",
-        "status_code": 600,
+        "status_code": 521,
         "tags": [
             "homosexuality",
             "the left wing"
@@ -43586,8 +43586,8 @@
         "language": "en-US",
         "link": "https://www.engadget.com/uk-police-fail-to-use-facial-recognition-ethically-and-legally-researchers-say-082039619.html?src=rss",
         "manual_status_code": 0,
-        "page_rating": 29,
-        "page_rating_contents": 80,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -43600,7 +43600,7 @@
             "facial recognition",
             "surveillance"
         ],
-        "thumbnail": null,
+        "thumbnail": "https://s.yimg.com/ny/api/res/1.2/FVLopEGwL5yM5nh37G9oYw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2022-10/4ab80320-58e2-11ed-befb-097a3c534d57",
         "title": "UK police fail to use facial recognition ethically and legally, study finds",
         "vote": 0
     },
@@ -43628,7 +43628,7 @@
             "ad business",
             "apple"
         ],
-        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/apple-ads-direction-editorial.jpg",
+        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/apple-ads-direction-editorial-1152x648.jpg",
         "title": "Why the App Store\u2019s tone-deaf gambling ads make me worry about Apple",
         "vote": 0
     },
@@ -43713,7 +43713,7 @@
         "tags": [
             "climate change"
         ],
-        "thumbnail": "https://i.iplsc.com/-/000G9Y2KF8X06W2L-C461-F4.jpg",
+        "thumbnail": "https://i.iplsc.com/-/000G9Y2KF8X06W2L-C461.jpg",
         "title": "Niemcy nie rezygnuj\u0105 z atomu. Energetyczne plany zmieniali kilka razy",
         "vote": 0
     },
@@ -43768,7 +43768,7 @@
             "digital identity",
             "fraud"
         ],
-        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/GettyImages-860802304.jpg",
+        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/GettyImages-860802304-1152x648.jpg",
         "title": "Massive pandemic relief fraud has Congress eyeing digital IDs",
         "vote": 0
     },
@@ -43882,7 +43882,7 @@
             "twitter",
             "pandemic amnesty"
         ],
-        "thumbnail": "https://dw-wp-production.imgix.net/2022/10/Monica-Crowley_Dave-Rubin.jpg?w=1200&h=800&ixlib=react-9.3.0",
+        "thumbnail": "https://dw-wp-production.imgix.net/2022/10/Monica-Crowley_Dave-Rubin.jpg?w=1200&h=800&ixlib=react-9.10.0",
         "title": "Twitter Blows Up At Professor After Demanding \u2018Pandemic Amnesty\u2019 in Atlantic Op-Ed",
         "vote": 0
     },
@@ -44028,7 +44028,7 @@
             "disinformation",
             "fbi"
         ],
-        "thumbnail": "https://dw-wp-production.imgix.net/2022/11/GettyImages-1233135584-scaled.jpg?w=1200&h=800&ixlib=react-9.3.0",
+        "thumbnail": "https://dw-wp-production.imgix.net/2022/11/GettyImages-1233135584-scaled.jpg?w=1200&h=800&ixlib=react-9.10.0",
         "title": "Big Tech Worked Closely With The FBI And DHS To Police \u2018Disinformation\u2019",
         "vote": 0
     },
@@ -44038,21 +44038,21 @@
         "author": null,
         "bookmarked": true,
         "comments": [],
-        "date_dead_since": null,
+        "date_dead_since": "2025-03-16T17:01:12.495363+00:00",
         "date_published": "2022-11-01T02:27:57+00:00",
         "description": "Apple, Amazon, and Meta led a barrage of Big Tech Earnings where this quarter, the stark contrast between Apple and Meta provide a powerful indicator of how Advertising, Privacy, and User Experience are separating Apple's strength from Meta's woes.",
         "id": 38183,
         "language": "en-US",
         "link": "https://www.forbes.com/sites/danielnewman/2022/10/31/big-tech-earnings-put-advertising-privacy-and-user-experience-in-focus",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 0,
+        "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 117,
         "source_url": "https://www.forbes.com/innovation/feed2",
-        "status_code": 200,
+        "status_code": 604,
         "tags": [
             "privacy",
             "ad business",
@@ -44167,8 +44167,8 @@
         "language": "en-US",
         "link": "https://twitter.com/lhfang/status/1587104660355096576",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 31,
+        "page_rating_contents": 87,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -44297,7 +44297,7 @@
             "lockdown",
             "covid"
         ],
-        "thumbnail": "https://dw-wp-production.imgix.net/2022/10/Untitled-design-2022-10-13T124143.858.jpg?w=1200&h=800&ixlib=react-9.3.0",
+        "thumbnail": "https://dw-wp-production.imgix.net/2022/10/Untitled-design-2022-10-13T124143.858.jpg?w=1200&h=800&ixlib=react-9.10.0",
         "title": "Lockdown Tyrants Want \u2018Pandemic Amnesty.\u2019 Conservatives Flood Social Media With Reminders Of What They Did.",
         "vote": 0
     },
@@ -44456,21 +44456,21 @@
         "author": null,
         "bookmarked": true,
         "comments": [],
-        "date_dead_since": null,
+        "date_dead_since": "2025-03-16T14:53:08.200869+00:00",
         "date_published": "2022-11-02T04:00:00+00:00",
         "description": "It's a system of tubes. Of switch statements.",
         "id": 38171,
         "language": "en-US",
         "link": "https://www.codeproject.com/script/News/View.aspx?nwid=59370",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 0,
+        "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 72,
         "source_url": "https://www.codeproject.com/WebServices/NewsRSS.aspx",
-        "status_code": 200,
+        "status_code": 604,
         "tags": [
             "science",
             "science is dead",
@@ -44558,7 +44558,7 @@
         "source_url": "https://wydarzenia.interia.pl/feed",
         "status_code": 200,
         "tags": [],
-        "thumbnail": "https://i.iplsc.com/-/000GA67GGA2G337S-C461-F4.jpg",
+        "thumbnail": "https://i.iplsc.com/-/000GA67GGA2G337S-C461.jpg",
         "title": "Pekin umacnia wp\u0142ywy w Niemczech. \"Bild\" wymieni\u0142 lobbuj\u0105cych polityk\u00f3w",
         "vote": 0
     },
@@ -44645,7 +44645,7 @@
             "donald trump",
             "the right wing"
         ],
-        "thumbnail": "https://dw-wp-production.imgix.net/2022/11/Screen-Shot-2022-11-02-at-7.56.18-AM.png?w=1200&h=800&ixlib=react-9.3.0",
+        "thumbnail": "https://dw-wp-production.imgix.net/2022/11/Screen-Shot-2022-11-02-at-7.56.18-AM.png?w=1200&h=800&ixlib=react-9.10.0",
         "title": "Anti-Woke YouTube Competitor Rumble Tells France Au Revoir Over Censorship Demands",
         "vote": 0
     },
@@ -44706,7 +44706,7 @@
             "lockdown",
             "covid"
         ],
-        "thumbnail": "https://dw-wp-production.imgix.net/2022/10/Untitled-design-2022-10-04T133710.538.jpg?w=1200&h=800&ixlib=react-9.3.0",
+        "thumbnail": "https://dw-wp-production.imgix.net/2022/10/Untitled-design-2022-10-04T133710.538.jpg?w=1200&h=800&ixlib=react-9.10.0",
         "title": "COVID Lockdown Tyrants Want Us To Forget, Grant \u2018Pandemic Amnesty.\u2019 Matt Walsh Has Some Thoughts.",
         "vote": 0
     },
@@ -44867,8 +44867,8 @@
         "language": "en-US",
         "link": "https://www.engadget.com/gmail-package-tracking-google-173148117.html?src=rss",
         "manual_status_code": 0,
-        "page_rating": 29,
-        "page_rating_contents": 80,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -44881,7 +44881,7 @@
             "privacy",
             "google"
         ],
-        "thumbnail": null,
+        "thumbnail": "https://s.yimg.com/ny/api/res/1.2/SIWCYjrx.dehc87kia1_0g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDg7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2022-11/8850cf30-5ad3-11ed-affc-d033f7900921",
         "title": "Gmail will track packages to help with your holiday shopping",
         "vote": 0
     },
@@ -45144,7 +45144,7 @@
             "china",
             "security"
         ],
-        "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/8489/production/_127492933_gettyimages-1230747934.jpg",
+        "thumbnail": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8489/production/_127492933_gettyimages-1230747934.jpg",
         "title": "TikTok says staff in China can access UK and EU user data",
         "vote": 0
     },
@@ -45189,13 +45189,13 @@
         "language": "en",
         "link": "https://www.nytimes.com/2022/11/03/opinion/covid-booster-vaccine-poverty.html",
         "manual_status_code": 0,
-        "page_rating": 29,
-        "page_rating_contents": 80,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.nytimes.com",
-        "status_code": 403,
+        "status_code": 200,
         "tags": [
             "covid",
             "propaganda"
@@ -45960,7 +45960,7 @@
             "lockdown",
             "covid"
         ],
-        "thumbnail": "https://dw-wp-production.imgix.net/2022/11/GettyImages-1177544288.jpg?w=1200&h=800&ixlib=react-9.3.0",
+        "thumbnail": "https://dw-wp-production.imgix.net/2022/11/GettyImages-1177544288.jpg?w=1200&h=800&ixlib=react-9.10.0",
         "title": "Only 2% Of Children\u2019s Deaths Were From COVID, And School Closures Didn\u2019t Reduce The Number",
         "vote": 0
     },
@@ -46017,7 +46017,7 @@
         "tags": [
             "openstreetmap"
         ],
-        "thumbnail": "https://demo.f4map.com/cacheForever/e6ee4c271b3e8842481659f714f6337410ddde6a/images/ogMapPreview.jpg",
+        "thumbnail": "https://demo.f4map.com/cacheForever/7c9b8dc1271ef66637eb7ff76f58db6b3b8484c5/images/f4_favicon.png",
         "title": "3D OpenStreetMap",
         "vote": 0
     },
@@ -46075,7 +46075,7 @@
             "social media",
             "dark design"
         ],
-        "thumbnail": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/11/06/f9055756-0d2e-4955-900d-e1deeff2ca1d/thumbnail/1200x630/7338a9ef473813410914076aa9703476/angryamericabreakoutarticle.jpg?v=29b5ccc4d237d9b284ce95a42effd073",
+        "thumbnail": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/11/06/f9055756-0d2e-4955-900d-e1deeff2ca1d/thumbnail/1200x630/7338a9ef473813410914076aa9703476/angryamericabreakoutarticle.jpg?v=e7f44f50e1cf6b32bb81cbfeaec70acf",
         "title": "Industry ethicist: Social media companies amplifying Americans' anger for profit - CBS News",
         "vote": 0
     },
@@ -46201,20 +46201,20 @@
         "author": null,
         "bookmarked": true,
         "comments": [],
-        "date_dead_since": null,
+        "date_dead_since": "2025-03-16T04:24:55.916594+00:00",
         "date_published": "2022-11-07T09:52:33+00:00",
         "description": "Digital euro may have transaction limits and store-of-value caps | The Block",
         "id": 38114,
         "language": "en",
         "link": "https://www.theblock.co/post/183646/digital-euro-transaction-limits-store-value-caps",
         "manual_status_code": 0,
-        "page_rating": 29,
-        "page_rating_contents": 81,
+        "page_rating": 0,
+        "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.theblock.co",
-        "status_code": 403,
+        "status_code": 600,
         "tags": [
             "cbdc",
             "digital euro"
@@ -46299,7 +46299,7 @@
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.axios.com",
-        "status_code": 403,
+        "status_code": 200,
         "tags": [
             "big tech",
             "antitrust",
@@ -46365,7 +46365,7 @@
             "css",
             "programming"
         ],
-        "thumbnail": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374364",
+        "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/08/css-modules-connections.jpg",
         "title": "Is There Too Much CSS Now?",
         "vote": 0
     },
@@ -46796,8 +46796,8 @@
         "language": "en-US",
         "link": "https://www.engadget.com/disney-streaming-services-earnings-055415800.html?src=rss",
         "manual_status_code": 0,
-        "page_rating": 29,
-        "page_rating_contents": 80,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -46809,7 +46809,7 @@
             "disney",
             "subscription"
         ],
-        "thumbnail": null,
+        "thumbnail": "https://s.yimg.com/ny/api/res/1.2/9kJiFNx57rp65htp1ZM03g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NDY7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-images/2020-03/16c45a30-6cec-11ea-99fb-8c29b96e05cd",
         "title": "Disney now matches Netflix's subscriber numbers across its combined services",
         "vote": 0
     },
@@ -46857,13 +46857,13 @@
         "language": "en-US",
         "link": "https://www.nytimes.com/2022/11/09/technology/personaltech/smartphone-repair.html",
         "manual_status_code": 0,
-        "page_rating": 29,
-        "page_rating_contents": 80,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
-        "status_code": 403,
+        "status_code": 200,
         "tags": [
             "smartphone"
         ],
