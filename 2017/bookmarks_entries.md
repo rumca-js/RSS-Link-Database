@@ -113,6 +113,11 @@
  - date_published: 2017-03-17T07:40:17+00:00
  - tags: ['manufacturing consent', 'media', 'axel springer']
 
+ ## The birthplace of the Illuminati
+ - [https://www.bbc.com/travel/article/20171127-the-birthplace-of-the-illuminati](https://www.bbc.com/travel/article/20171127-the-birthplace-of-the-illuminati)
+ - date_published: 2017-03-17T08:58:29+00:00
+ - tags: ['illuminati']
+
  ## BlackRock Banking on Robots to Improve Stock Picking | Fortune
  - [https://fortune.com/2017/03/29/blackrock-robots-stock-picking](https://fortune.com/2017/03/29/blackrock-robots-stock-picking)
  - date_published: 2017-03-29T22:18:56+00:00

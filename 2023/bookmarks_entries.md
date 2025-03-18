@@ -7560,7 +7560,7 @@
  ## CIA bribed its own COVID-19 origin team to reject lab-leak theory, anonymous whistleblower claims
  - [https://www.science.org/content/article/cia-bribed-its-own-covid-19-origin-team-reject-lab-leak-theory-anonymous-whistleblower](https://www.science.org/content/article/cia-bribed-its-own-covid-19-origin-team-reject-lab-leak-theory-anonymous-whistleblower)
  - date_published: 2023-09-12T13:53:29+00:00
- - tags: ['lableak', 'covid', 'science is dead', 'wuhan']
+ - tags: ['lab leak', 'wuhan', 'covid', 'science is dead']
 
  ## CIA tried to pay off analysts to bury findings that COVID lab leak was likely: whistleblower
  - [https://nypost.com/2023/09/12/cia-tried-to-pay-off-analysts-to-bury-covid-lab-leak-findings-whistleblower](https://nypost.com/2023/09/12/cia-tried-to-pay-off-analysts-to-bury-covid-lab-leak-findings-whistleblower)

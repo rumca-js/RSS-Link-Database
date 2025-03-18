@@ -289,3 +289,17 @@
  - date_published: 2025-03-12T20:11:29+00:00
  - tags: ['christianophobia']
 
+ ## Pride group founder raped boy, 12, he met on Grindr
+ - [https://www.bbc.com/news/articles/cx28yj34zgpo](https://www.bbc.com/news/articles/cx28yj34zgpo)
+ - date_published: 2025-03-13T18:10:52+00:00
+
+ ## As cyberwarfare threat looms, cashless Nordic nations go back to banknotes | Miranda Bryant
+ - [https://www.theguardian.com/technology/2025/mar/16/sweden-cash-digital-payments-electronic-banking-security](https://www.theguardian.com/technology/2025/mar/16/sweden-cash-digital-payments-electronic-banking-security)
+ - date_published: 2025-03-16T06:00:10+00:00
+ - tags: ['digital money']
+
+ ## We Were Badly Misled About Covid
+ - [https://www.nytimes.com/2025/03/16/opinion/covid-pandemic-lab-leak.html](https://www.nytimes.com/2025/03/16/opinion/covid-pandemic-lab-leak.html)
+ - date_published: 2025-03-16T10:00:14+00:00
+ - tags: ['lab leak', 'wuhan', 'covid']
+

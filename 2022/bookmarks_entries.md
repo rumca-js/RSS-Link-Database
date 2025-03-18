@@ -6824,7 +6824,6 @@
  ## Making a change to SQLite source code
  - [https://brunocalza.me/making-a-change-to-sqlite-source-code](https://brunocalza.me/making-a-change-to-sqlite-source-code)
  - date_published: 2022-10-26T03:56:25+00:00
- - date_dead_since: 2024-10-15T04:25:16.785517+00:00
 
  ## Passkeys—Microsoft, Apple, and Google’s password killer—are finally here
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59301](https://www.codeproject.com/script/News/View.aspx?nwid=59301)
@@ -6837,6 +6836,7 @@
  ## "Zweryfikowaliśmy. Połowa telefonów nie była odbierana". Jak dodzwonić się do przychodni
  - [https://tvn24.pl/programy/problemy-z-dodzwonieniem-sie-do-przychodni-lekarskiej-6180042?source=rss](https://tvn24.pl/programy/problemy-z-dodzwonieniem-sie-do-przychodni-lekarskiej-6180042?source=rss)
  - date_published: 2022-10-26T05:30:59+00:00
+ - date_dead_since: 2025-03-17T11:24:04.333072+00:00
 
  ## Mark Zuckerberg Is Going To Kill His Company
  - [https://ez.substack.com/p/mark-zuckerberg-is-going-to-kill](https://ez.substack.com/p/mark-zuckerberg-is-going-to-kill)
@@ -6856,6 +6856,7 @@
  - [https://www.activistpost.com/2022/10/us-citizens-were-given-secret-covid-decree-violation-scores.html](https://www.activistpost.com/2022/10/us-citizens-were-given-secret-covid-decree-violation-scores.html)
  - date_published: 2022-10-26T08:40:21+00:00
  - tags: ['big brother', 'privacy', 'tracking', 'big tech', 'social score', 'surveillance', 'covid']
+ - date_dead_since: 2025-03-17T05:53:33.213252+00:00
 
  ## Chinese stock markets plunge as Xi Jinping begins third term as leader
  - [https://www.dailymail.co.uk/news/article-11356255/Chinese-stock-markets-plunge-Xi-Jinping-begins-term-leader.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11356255/Chinese-stock-markets-plunge-Xi-Jinping-begins-term-leader.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
