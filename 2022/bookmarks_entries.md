@@ -5356,7 +5356,6 @@
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59015](https://www.codeproject.com/script/News/View.aspx?nwid=59015)
  - date_published: 2022-09-27T04:00:00+00:00
  - tags: ['c++', 'programming', 'performance', 'debug']
- - date_dead_since: 2024-10-16T06:31:06.715390+00:00
 
  ## W Poznaniu odbędzie się seks festiwal. W programie &quot;Dlaczego warto oglądać porno?&quot; i &quot;Przyszłość sex-zabawek jest niebinarna&quot;
  - [https://epoznan.pl/news-news-132809-w_poznaniu_odbedzie_sie_seks_festiwal_w_programie_dlaczego_warto_ogladac_porno_i_przyszlosc_sex_zabawek_jest_niebinarna?rss=1](https://epoznan.pl/news-news-132809-w_poznaniu_odbedzie_sie_seks_festiwal_w_programie_dlaczego_warto_ogladac_porno_i_przyszlosc_sex_zabawek_jest_niebinarna?rss=1)
@@ -5449,6 +5448,7 @@
  - [https://www.nytimes.com/2022/09/27/world/europe/cia-nord-stream-pipelines-attack.html](https://www.nytimes.com/2022/09/27/world/europe/cia-nord-stream-pipelines-attack.html)
  - date_published: 2022-09-27T23:25:50+00:00
  - tags: ['nord stream', 'cia', 'russia']
+ - date_dead_since: 2025-03-18T14:23:27.011140+00:00
 
  ## Apple removes Russia’s largest social network from the App Store
  - [https://www.theverge.com/2022/9/27/23375831/vk-russia-apple-app-store-removed-social-media](https://www.theverge.com/2022/9/27/23375831/vk-russia-apple-app-store-removed-social-media)
@@ -5462,6 +5462,7 @@
  ## Should applicants be paid for job interviews?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59024](https://www.codeproject.com/script/News/View.aspx?nwid=59024)
  - date_published: 2022-09-28T04:00:00+00:00
+ - date_dead_since: 2025-03-18T14:08:23.955936+00:00
 
  ## Przerażające wyniki badań: Zanieczyszczone powietrze szkodzi mózgom dzieci
  - [https://wydarzenia.interia.pl/zagranica/news-przerazajace-wyniki-badan-zanieczyszczone-powietrze-szkodzi-,nId,6313600](https://wydarzenia.interia.pl/zagranica/news-przerazajace-wyniki-badan-zanieczyszczone-powietrze-szkodzi-,nId,6313600)
@@ -5598,6 +5599,7 @@
  - [https://www.economist.com/science-and-technology/2022/09/28/becoming-a-father-shrinks-your-cerebrum](https://www.economist.com/science-and-technology/2022/09/28/becoming-a-father-shrinks-your-cerebrum)
  - date_published: 2022-09-30T23:53:09+00:00
  - tags: ['family', 'father']
+ - date_dead_since: 2025-03-18T11:18:09.114427+00:00
 
  ## Two-thirds of U.S. adults do not plan on getting COVID boosters
  - [https://www.foxnews.com/health/two-thirds-us-adults-do-not-plan-getting-covid-boosters](https://www.foxnews.com/health/two-thirds-us-adults-do-not-plan-getting-covid-boosters)
@@ -6063,6 +6065,7 @@
  - [https://www.skynews.com.au/lifestyle/celebrity-life/kanye-west-banned-from-twitter-and-instagram-accounts-after-sharing-antisemitic-posts-which-went-viral/news-story/9d317fffefa77ac679face2f9923dd72](https://www.skynews.com.au/lifestyle/celebrity-life/kanye-west-banned-from-twitter-and-instagram-accounts-after-sharing-antisemitic-posts-which-went-viral/news-story/9d317fffefa77ac679face2f9923dd72)
  - date_published: 2022-10-10T12:15:43+00:00
  - tags: ['kanye west', 'deplatform']
+ - date_dead_since: 2025-03-18T02:42:52.388613+00:00
 
  ## Workers are refusing to return to the office, and they are ready to face the consequences
  - [https://www.zdnet.com/article/workers-are-refusing-to-return-to-the-office-and-they-are-ready-to-face-the-consequences/#ftag=RSSbaffb68](https://www.zdnet.com/article/workers-are-refusing-to-return-to-the-office-and-they-are-ready-to-face-the-consequences/#ftag=RSSbaffb68)
@@ -6202,7 +6205,6 @@
  - [https://www.wsj.com/articles/the-regulators-of-facebook-google-and-amazon-also-invest-in-the-companies-stocks-11665670207](https://www.wsj.com/articles/the-regulators-of-facebook-google-and-amazon-also-invest-in-the-companies-stocks-11665670207)
  - date_published: 2022-10-13T16:10:02+00:00
  - tags: ['google', 'amazon', 'big brother', 'facebook', 'manufacturing consent', 'big tech']
- - date_dead_since: 2024-10-15T14:45:38.276108+00:00
 
  ## Meta’s New Headset Will Track Your Eyes for Targeted Ads
  - [https://gizmodo.com/meta-quest-pro-vr-headset-track-eyes-ads-facebook-1849654424](https://gizmodo.com/meta-quest-pro-vr-headset-track-eyes-ads-facebook-1849654424)
