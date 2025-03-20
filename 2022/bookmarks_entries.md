@@ -4370,7 +4370,6 @@
  - [https://www.wsj.com/articles/renewables-carbon-credits-do-not-cut-emissions-united-nations-verra-gold-standard-11662644900](https://www.wsj.com/articles/renewables-carbon-credits-do-not-cut-emissions-united-nations-verra-gold-standard-11662644900)
  - date_published: 2022-09-09T16:01:08+00:00
  - tags: ['climate change', 'climate drama', 'science is dead']
- - date_dead_since: 2024-10-17T02:55:49.724366+00:00
 
  ## Lauded Federal Data Privacy Bill Has A Carveout For Government Surveillance
  - [https://www.dailywire.com/news/lauded-federal-data-privacy-bill-has-a-carveout-for-government-surveillance](https://www.dailywire.com/news/lauded-federal-data-privacy-bill-has-a-carveout-for-government-surveillance)
@@ -4416,7 +4415,6 @@
  - [https://nczas.com/2022/09/10/miliony-dawek-zalegaja-w-magazynach-a-polska-kupuje-nowe-teraz-szczepionki-celowane-zaktualizowane-a-nawet-adaptowane](https://nczas.com/2022/09/10/miliony-dawek-zalegaja-w-magazynach-a-polska-kupuje-nowe-teraz-szczepionki-celowane-zaktualizowane-a-nawet-adaptowane)
  - date_published: 2022-09-10T16:05:07+00:00
  - tags: ['covid money', 'covid']
- - date_dead_since: 2024-10-17T02:21:09.175897+00:00
 
  ## Cancer breakthrough is a ‘wake-up’ call on danger of air pollution
  - [https://www.theguardian.com/science/2022/sep/10/cancer-breakthrough-is-a-wake-up-call-on-danger-of-air-pollution](https://www.theguardian.com/science/2022/sep/10/cancer-breakthrough-is-a-wake-up-call-on-danger-of-air-pollution)
@@ -4453,6 +4451,7 @@
  ## Old School Unix Administration (My Next Homelab Generation) — scholz.ruhr
  - [https://scholz.ruhr/blog/old-school-unix-administration](https://scholz.ruhr/blog/old-school-unix-administration)
  - date_published: 2022-09-11T23:27:18.388329+00:00
+ - date_dead_since: 2025-03-19T15:49:06.789047+00:00
 
  ## New Linux malware combines unusual stealth with a full suite of capabilities
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58841](https://www.codeproject.com/script/News/View.aspx?nwid=58841)
@@ -4674,6 +4673,7 @@
  - [https://www.politico.com/news/2022/09/14/global-covid-pandemic-response-bill-gates-partners-00053969](https://www.politico.com/news/2022/09/14/global-covid-pandemic-response-bill-gates-partners-00053969)
  - date_published: 2022-09-14T20:25:38+00:00
  - tags: ['billionaires', 'covid', 'elites', 'bill gates', 'manufacturing consent']
+ - date_dead_since: 2025-03-19T08:43:48.423373+00:00
 
  ## A Virus That Can Cause Polio-Like Paralysis in Children Has Returned
  - [https://gizmodo.com/acute-flaccid-myelitis-enterovirus-d-68-cdc-2022-1849536384](https://gizmodo.com/acute-flaccid-myelitis-enterovirus-d-68-cdc-2022-1849536384)
@@ -5035,7 +5035,6 @@
  - [https://www.wsj.com/articles/cdc-oversells-the-bivalent-covid-shot-hospitalizations-vaccine-booster-omicron-pandemic-pfizer-moderna-china-illness-death-11663793472](https://www.wsj.com/articles/cdc-oversells-the-bivalent-covid-shot-hospitalizations-vaccine-booster-omicron-pandemic-pfizer-moderna-china-illness-death-11663793472)
  - date_published: 2022-09-21T13:36:42+00:00
  - tags: ['big pharma', 'covid', 'covid lie', 'vaccine']
- - date_dead_since: 2024-10-16T12:25:25.414412+00:00
 
  ## TikTok Cracks Down on Political Content
  - [https://gizmodo.com/tiktok-midterms-politics-influencers-social-media-1849562186](https://gizmodo.com/tiktok-midterms-politics-influencers-social-media-1849562186)
