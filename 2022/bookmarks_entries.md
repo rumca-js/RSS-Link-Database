@@ -3925,6 +3925,7 @@
  ## China Locks Down Chengdu as Covid Cases Rise
  - [https://www.nytimes.com/2022/09/01/world/asia/china-covid-lockdown-chengdu.html](https://www.nytimes.com/2022/09/01/world/asia/china-covid-lockdown-chengdu.html)
  - date_published: 2022-09-02T03:50:07+00:00
+ - date_dead_since: 2025-03-20T17:56:37.801698+00:00
 
  ## Chiny wprowadziły covidowy lockdown w 21-milionowym Chengdu
  - [https://www.wykop.pl/link/6800805/chiny-wprowadzily-covidowy-lockdown-w-21-milionowym-chengdu](https://www.wykop.pl/link/6800805/chiny-wprowadzily-covidowy-lockdown-w-21-milionowym-chengdu)
@@ -4258,7 +4259,6 @@
  - [https://www.cnn.com/2022/09/07/entertainment/peppa-pig-same-sex-couple-intl-scli-gbr/index.html](https://www.cnn.com/2022/09/07/entertainment/peppa-pig-same-sex-couple-intl-scli-gbr/index.html)
  - date_published: 2022-09-07T14:03:12+00:00
  - tags: ['the left wing', 'gender']
- - date_dead_since: 2024-10-17T04:45:04.448238+00:00
 
  ## Billionaire: The Fed won't say it out loud, but it really wants a higher unemployment rate
  - [https://www.cnn.com/2022/09/07/perspectives/inflation-jobs-recession-rubenstein/index.html](https://www.cnn.com/2022/09/07/perspectives/inflation-jobs-recession-rubenstein/index.html)
