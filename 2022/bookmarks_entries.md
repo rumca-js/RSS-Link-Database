@@ -3511,7 +3511,6 @@
  - [https://www.wsj.com/articles/twitter-becomes-a-tool-of-government-censors-alex-berenson-twitter-facebook-ban-covid-misinformation-first-amendment-psaki-murthy-section-230-antitrust-11660732095](https://www.wsj.com/articles/twitter-becomes-a-tool-of-government-censors-alex-berenson-twitter-facebook-ban-covid-misinformation-first-amendment-psaki-murthy-section-230-antitrust-11660732095)
  - date_published: 2022-08-17T08:35:54+00:00
  - tags: ['twitter', 'censorship', 'covid', 'manufacturing consent', 'big brother', 'alex berenson']
- - date_dead_since: 2024-10-17T19:47:17.750819+00:00
 
  ## Why McDonald's McPlant Became a McFlop | Bon Appétit
  - [https://www.bonappetit.com/story/mcdonalds-ends-mcplant-test-us-stores](https://www.bonappetit.com/story/mcdonalds-ends-mcplant-test-us-stores)
@@ -3570,7 +3569,6 @@
  ## Silent crisis of soaring excess deaths gripping Britain is only tip of the iceberg
  - [https://uk.news.yahoo.com/silent-crisis-soaring-excess-deaths-203000290.html](https://uk.news.yahoo.com/silent-crisis-soaring-excess-deaths-203000290.html)
  - date_published: 2022-08-22T08:08:15+00:00
- - date_dead_since: 2024-10-17T18:32:22.402840+00:00
 
  ## Bill Gates lavished the media with $319 million in funding
  - [https://thecountersignal.com/bill-gates-lavished-the-media-with-319-million-in-funding](https://thecountersignal.com/bill-gates-lavished-the-media-with-319-million-in-funding)
@@ -3595,7 +3593,6 @@
  ## Extreme emphasis on sexual harassment stifles productive scientific discourse between men and women
  - [https://hxstem.substack.com/p/extreme-emphasis-on-sexual-harassment](https://hxstem.substack.com/p/extreme-emphasis-on-sexual-harassment)
  - date_published: 2022-08-23T06:00:00+00:00
- - date_dead_since: 2024-10-17T18:11:52.317435+00:00
 
  ## YouTube joins Facebook in banning Andrew Tate
  - [https://www.bbc.co.uk/news/technology-62602913?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-62602913?at_medium=RSS&at_campaign=KARANGA)
@@ -3659,6 +3656,7 @@
  - [https://newsrescue.com/google-quickly-resets-screens-results-for-mass-formation-psychosis-after-bombshell-dr-malone-joe-rogan-interview](https://newsrescue.com/google-quickly-resets-screens-results-for-mass-formation-psychosis-after-bombshell-dr-malone-joe-rogan-interview)
  - date_published: 2022-08-24T12:04:49.986383+00:00
  - tags: ['mass formation psychosis', 'joe rogan', 'censorship', 'google', 'dr. malone']
+ - date_dead_since: 2025-03-21T06:30:30.557495+00:00
 
  ## How Much of the Internet Is Fake? Turns Out, a Lot of It, Actually
  - [https://nymag.com/intelligencer/2018/12/how-much-of-the-internet-is-fake.html](https://nymag.com/intelligencer/2018/12/how-much-of-the-internet-is-fake.html)
@@ -3684,6 +3682,7 @@
  - [https://www.extremetech.com/computing/333756-windows-11-smart-app-control-to-require-clean-install-of-windows](https://www.extremetech.com/computing/333756-windows-11-smart-app-control-to-require-clean-install-of-windows)
  - date_published: 2022-08-24T12:04:50.161522+00:00
  - tags: ['windows', 'technofeudalism']
+ - date_dead_since: 2025-03-21T05:20:47.455051+00:00
 
  ## Egypt’s new capital - a smart city in the making
  - [https://www.globalfleet.com/en/smart-mobility/africa-middle-east/features/egypts-new-capital-smart-city-making?a=API07&t%5B0%5D=Smart%20City&t%5B1%5D=Global%20Fleet%20Conference&t%5B2%5D=Middle%20East&curl=1](https://www.globalfleet.com/en/smart-mobility/africa-middle-east/features/egypts-new-capital-smart-city-making?a=API07&t%5B0%5D=Smart%20City&t%5B1%5D=Global%20Fleet%20Conference&t%5B2%5D=Middle%20East&curl=1)
