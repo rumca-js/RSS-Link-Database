@@ -3029,6 +3029,7 @@
  - [https://home-affairs.ec.europa.eu/news/citizens-and-businesses-have-spoken-corruption-remains-serious-problem-eu-countries-2022-07-13_en](https://home-affairs.ec.europa.eu/news/citizens-and-businesses-have-spoken-corruption-remains-serious-problem-eu-countries-2022-07-13_en)
  - date_published: 2022-07-13T14:19:04+00:00
  - tags: ['manufacturing consent', 'politics', 'corruption']
+ - date_dead_since: 2025-03-22T14:14:09.636214+00:00
 
  ## Arctic Sea Ice Melting Over the Years | 2000-2022 Time-lapse
  - [https://www.youtube.com/watch?v=UvEhfYZbiKM](https://www.youtube.com/watch?v=UvEhfYZbiKM)
@@ -3201,6 +3202,7 @@
  ## You should take more screenshots – alexwlchan
  - [https://alexwlchan.net/2022/07/screenshots](https://alexwlchan.net/2022/07/screenshots)
  - date_published: 2022-07-25T09:13:15.595912+00:00
+ - date_dead_since: 2025-03-22T07:41:35.368506+00:00
 
  ## Joe Rogan leaves YouTube: When the podcaster explained what forced his switch to Spotify
  - [https://www.sportskeeda.com/mma/news-joe-rogan-leaves-youtube-when-podcaster-explained-forced-switch-spotify](https://www.sportskeeda.com/mma/news-joe-rogan-leaves-youtube-when-podcaster-explained-forced-switch-spotify)
@@ -3298,7 +3300,6 @@
  ## TikTok Diagnosis Videos Leave Some Teens Thinking They Have Rare Mental Disorders - WSJ
  - [https://www.wsj.com/articles/tiktok-diagnosis-videos-leave-some-teens-thinking-they-have-rare-mental-disorders-11640514602](https://www.wsj.com/articles/tiktok-diagnosis-videos-leave-some-teens-thinking-they-have-rare-mental-disorders-11640514602)
  - date_published: 2022-08-02T09:20:55.318842+00:00
- - date_dead_since: 2024-10-18T02:10:21.799031+00:00
 
  ## Gas prices to push up farmers’ fertiliser costs by nearly £2bn | Guernsey Press
  - [https://guernseypress.com/news/uk-news/2022/09/02/gas-prices-to-push-up-farmers-fertiliser-costs-by-nearly-2bn](https://guernseypress.com/news/uk-news/2022/09/02/gas-prices-to-push-up-farmers-fertiliser-costs-by-nearly-2bn)
@@ -3334,10 +3335,12 @@
  ## Cut the cutesy errors – alexwlchan
  - [https://alexwlchan.net/2022/08/no-cute](https://alexwlchan.net/2022/08/no-cute)
  - date_published: 2022-08-04T00:20:53.018770+00:00
+ - date_dead_since: 2025-03-22T02:22:24.680127+00:00
 
  ## The danger of bad error messages – alexwlchan
  - [https://alexwlchan.net/2020/10/the-importance-of-good-error-messages](https://alexwlchan.net/2020/10/the-importance-of-good-error-messages)
  - date_published: 2022-08-04T00:21:45.078388+00:00
+ - date_dead_since: 2025-03-22T02:10:26.980552+00:00
 
  ## Troy Hunt: Building Password Purgatory with Cloudflare Pages and Workers
  - [https://www.troyhunt.com/building-password-purgatory-with-cloudflare-pages-and-workers](https://www.troyhunt.com/building-password-purgatory-with-cloudflare-pages-and-workers)
