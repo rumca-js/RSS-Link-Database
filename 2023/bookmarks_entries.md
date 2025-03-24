@@ -8231,11 +8231,6 @@
  - date_published: 2023-11-16T13:57:56+00:00
  - tags: ['inequality', 'racism']
 
- ## “Insanely eye-opening,” Osama Bin Laden's 'Letter to America' goes viral, leaves netizens divided
- - [https://www.hindustantimes.com/world-news/us-news/insanely-eye-opening-osama-bin-ladens-letter-to-america-goes-viral-leaves-netizens-divided-101700141306751.html](https://www.hindustantimes.com/world-news/us-news/insanely-eye-opening-osama-bin-ladens-letter-to-america-goes-viral-leaves-netizens-divided-101700141306751.html)
- - date_published: 2023-11-16T15:25:09+00:00
- - tags: ['censorship', 'islam', 'osama bin laden', 'palestine', 'israel', 'letter to america']
-
  ## Florida sued over ban on pro-Palestinian student groups
  - [https://www.reuters.com/world/us/florida-sued-over-ban-pro-palestinian-student-groups-2023-11-16](https://www.reuters.com/world/us/florida-sued-over-ban-pro-palestinian-student-groups-2023-11-16)
  - date_published: 2023-11-16T20:59:54.309490+00:00

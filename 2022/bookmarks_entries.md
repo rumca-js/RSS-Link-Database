@@ -1412,6 +1412,11 @@
  - [https://den.dev/blog/windows-priority-shuffle](https://den.dev/blog/windows-priority-shuffle)
  - date_published: 2022-03-21T08:33:15.548731+00:00
 
+ ## Twitter suspends Babylon Bee account for naming Rachel Levine 'Man of the Year'
+ - [https://nypost.com/2022/03/21/twitter-suspends-babylon-bee-over-rachel-levine-man-of-the-year-title](https://nypost.com/2022/03/21/twitter-suspends-babylon-bee-over-rachel-levine-man-of-the-year-title)
+ - date_published: 2022-03-21T14:47:33+00:00
+ - tags: ['censorship', 'rachel levine']
+
  ## The Babylon Bee's Twitter Account Was Suspended, But That Made Its Story Go Viral
  - [https://www.forbes.com/sites/petersuciu/2022/03/21/the-babylon-bees-twitter-account-was-suspended-but-that-made-its-story-go-viral](https://www.forbes.com/sites/petersuciu/2022/03/21/the-babylon-bees-twitter-account-was-suspended-but-that-made-its-story-go-viral)
  - date_published: 2022-03-21T14:57:01+00:00
@@ -2290,6 +2295,7 @@
  - [https://www.forbes.com/sites/jillgoldenziel/2022/05/18/the-disinformation-governance-board-is-dead-heres-the-right-way-to-fight-disinformation](https://www.forbes.com/sites/jillgoldenziel/2022/05/18/the-disinformation-governance-board-is-dead-heres-the-right-way-to-fight-disinformation)
  - date_published: 2022-05-18T19:53:26+00:00
  - tags: ['ministry of truth', 'misinformation', 'big brother', 'government control', 'surveillance', 'oversight board', 'disinformation governance board']
+ - date_dead_since: 2025-03-23T20:26:48.028747+00:00
 
  ## Some Top 100,000 Websites Collect Everything You Type—Before You Hit Submit | WIRED
  - [https://www.wired.com/story/leaky-forms-keyloggers-meta-tiktok-pixel-study](https://www.wired.com/story/leaky-forms-keyloggers-meta-tiktok-pixel-study)
@@ -2311,6 +2317,7 @@
  - [https://ixns.github.io//lifehacks/computers/internet/2022/05/17/avoid-google-bloatware.html](https://ixns.github.io//lifehacks/computers/internet/2022/05/17/avoid-google-bloatware.html)
  - date_published: 2022-05-19T07:50:35.730045+00:00
  - tags: ['dead internet', 'search engines', 'google']
+ - date_dead_since: 2025-03-23T19:58:24.448212+00:00
 
  ## Tasks, lists, and promises
  - [https://rachelbythebay.com/w/2022/05/19/priority](https://rachelbythebay.com/w/2022/05/19/priority)
@@ -2506,6 +2513,7 @@
  ## Using a catch-all domain is a mistake — ⍻
  - [https://www.notcheckmark.com/2022/06/catch-all-domain](https://www.notcheckmark.com/2022/06/catch-all-domain)
  - date_published: 2022-06-02T09:10:19.226893+00:00
+ - date_dead_since: 2025-03-23T11:46:06.822237+00:00
 
  ## Fortune 500 companies are making political donations to anti-LGBTQ+ politicians while celebrating Pride month | Fortune
  - [https://fortune.com/2022/06/01/major-corporations-donate-anti-lgbtq-legislators-pride](https://fortune.com/2022/06/01/major-corporations-donate-anti-lgbtq-legislators-pride)
@@ -2547,6 +2555,7 @@
  - [https://raypatrick.xyz/blog/2022/06/03/marriage-is-not-to-make-you-happy](https://raypatrick.xyz/blog/2022/06/03/marriage-is-not-to-make-you-happy)
  - date_published: 2022-06-03T14:04:31+00:00
  - tags: ['marriage', 'religion', 'religion knowledge', 'hedonism']
+ - date_dead_since: 2025-03-23T10:39:55.969793+00:00
 
  ## The Cult of Dd
  - [https://eklitzke.org/the-cult-of-dd](https://eklitzke.org/the-cult-of-dd)
@@ -2788,6 +2797,7 @@
  ## Crafting Interpreters: A Review
  - [https://chidiwilliams.com/post/crafting-interpreters-a-review](https://chidiwilliams.com/post/crafting-interpreters-a-review)
  - date_published: 2022-06-23T07:14:08.784166+00:00
+ - date_dead_since: 2025-03-23T01:50:36.760745+00:00
 
  ## Hardening the Registers: A Cascading Failure of Edge Induced Fault Tolerance
  - [https://tech.target.com/blog/hardening-the-registers](https://tech.target.com/blog/hardening-the-registers)
@@ -2796,6 +2806,7 @@
  ## Teens Are Getting Sick From Products With High THC Levels - The New York Times
  - [https://www.nytimes.com/2022/06/23/well/mind/teens-thc-canabis.html](https://www.nytimes.com/2022/06/23/well/mind/teens-thc-canabis.html)
  - date_published: 2022-06-23T17:18:46.909713+00:00
+ - date_dead_since: 2025-03-23T01:17:47.604392+00:00
 
  ## Observations on 6 years of journaling | ᕕ( ᐛ )ᕗ Herman's blog
  - [https://herman.bearblog.dev/years-of-journaling](https://herman.bearblog.dev/years-of-journaling)
@@ -2805,7 +2816,6 @@
  - [https://edition.cnn.com/2022/06/22/health/florida-meningococcal-disease-outbreak/index.html](https://edition.cnn.com/2022/06/22/health/florida-meningococcal-disease-outbreak/index.html)
  - date_published: 2022-06-23T19:54:01+00:00
  - tags: ['homosexuality', 'the left wing']
- - date_dead_since: 2024-10-18T18:49:37.696628+00:00
 
  ## OBS Project Warns About Scam URL Appearing in Google Ads - GamerBraves
  - [https://www.gamerbraves.com/obs-project-warns-about-scam-url-appearing-in-google-ads](https://www.gamerbraves.com/obs-project-warns-about-scam-url-appearing-in-google-ads)

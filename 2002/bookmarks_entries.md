@@ -24,6 +24,11 @@
  - date_published: 2002-10-28T20:06:02+00:00
  - tags: ['elites', 'jeffrey epstein', 'billionairs']
 
+ ## “Insanely eye-opening,” Osama Bin Laden's 'Letter to America' goes viral, leaves netizens divided
+ - [https://www.hindustantimes.com/world-news/us-news/insanely-eye-opening-osama-bin-ladens-letter-to-america-goes-viral-leaves-netizens-divided-101700141306751.html](https://www.hindustantimes.com/world-news/us-news/insanely-eye-opening-osama-bin-ladens-letter-to-america-goes-viral-leaves-netizens-divided-101700141306751.html)
+ - date_published: 2002-11-16T15:25:09+00:00
+ - tags: ['censorship', 'islam', 'osama bin laden', 'palestine', 'israel', 'letter to america']
+
  ## The case of the 500-mile email
  - [https://www.ibiblio.org/harris/500milemail.html](https://www.ibiblio.org/harris/500milemail.html)
  - date_published: 2002-11-24T09:11:06+00:00
