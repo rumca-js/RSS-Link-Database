@@ -1732,6 +1732,7 @@
  ## You can do a lot with an empty file
  - [https://rachelbythebay.com/w/2022/04/06/text](https://rachelbythebay.com/w/2022/04/06/text)
  - date_published: 2022-04-07T09:40:07.434362+00:00
+ - date_dead_since: 2025-03-24T20:57:40.576484+00:00
 
  ## Zwolnienie pracownika za brak szczepienia na COVID-19
  - [https://poradnikprzedsiebiorcy.pl/-zwolnienie-pracownika-za-brak-szczepienia-na-covid-19](https://poradnikprzedsiebiorcy.pl/-zwolnienie-pracownika-za-brak-szczepienia-na-covid-19)
@@ -1808,7 +1809,6 @@
  - [https://www.euractiv.com/section/digital/news/macron-still-wants-to-end-online-anonymity](https://www.euractiv.com/section/digital/news/macron-still-wants-to-end-online-anonymity)
  - date_published: 2022-04-13T06:44:27+00:00
  - tags: ['anonymity', 'big brother', 'privacy', 'france', 'government control']
- - date_dead_since: 2024-10-19T14:44:29.630003+00:00
 
  ## No, Adding an Attorney on an Email Does Not Automatically Make It Privileged
  - [https://www.americanbar.org/groups/litigation/committees/pretrial-practice-discovery/practice/2022/no-adding-an-attorney-on-an-email-does-not-automatically-make-it-privileged](https://www.americanbar.org/groups/litigation/committees/pretrial-practice-discovery/practice/2022/no-adding-an-attorney-on-an-email-does-not-automatically-make-it-privileged)
@@ -1989,7 +1989,6 @@
  ## Sajid Javid condemned for linking being trans to child sex abuse
  - [https://www.pinknews.co.uk/2022/04/06/sajid-javid-conversion-therapy-ban-trans-uk](https://www.pinknews.co.uk/2022/04/06/sajid-javid-conversion-therapy-ban-trans-uk)
  - date_published: 2022-04-25T20:16:42.091795+00:00
- - date_dead_since: 2024-10-19T10:58:41.130312+00:00
 
  ## Tory health minister Sajid Javid attacks NHS gender services for trans kids
  - [https://www.pinknews.co.uk/2022/04/21/sajid-javid-tory-nhs-gender-services-trans](https://www.pinknews.co.uk/2022/04/21/sajid-javid-tory-nhs-gender-services-trans)

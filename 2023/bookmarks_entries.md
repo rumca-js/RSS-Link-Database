@@ -4328,6 +4328,11 @@
  - date_published: 2023-05-16T00:15:24+00:00
  - tags: ['technofeudalism', 'microsoft']
 
+ ## Who Benefits From Diversity And Inclusion Efforts?
+ - [https://www.forbes.com/sites/michelleking/2023/05/16/who-benefits-from-diversity-and-inclusion-efforts](https://www.forbes.com/sites/michelleking/2023/05/16/who-benefits-from-diversity-and-inclusion-efforts)
+ - date_published: 2023-05-16T02:00:00+00:00
+ - tags: ['inclusion', 'inequality', 'dei']
+
  ## DHS engaged in massive censorship laundering scheme â your government is trying to erase your First Amendment rights
  - [https://www.newstarget.com/2023-05-16-dhs-censorship-laundering-scheme-erase-first-amendment.html](https://www.newstarget.com/2023-05-16-dhs-censorship-laundering-scheme-erase-first-amendment.html)
  - date_published: 2023-05-16T07:13:17+00:00
