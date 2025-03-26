@@ -21,8 +21,8 @@
         "status_code": 200,
         "tags": [
             "hardware",
-            "tsmc",
-            "processor"
+            "processor",
+            "tsmc"
         ],
         "thumbnail": null,
         "title": "Only real men have fabs \u2022 The Register",
@@ -49,11 +49,11 @@
         "source_url": "http://news.bbc.co.uk",
         "status_code": 200,
         "tags": [
-            "surveillance",
-            "windows",
-            "nsa",
+            "backdoor",
             "microsoft",
-            "backdoor"
+            "nsa",
+            "surveillance",
+            "windows"
         ],
         "thumbnail": null,
         "title": "Sci/Tech  Windows 'back door' security alert",
@@ -80,9 +80,9 @@
         "source_url": "https://www.nationalreview.com",
         "status_code": 604,
         "tags": [
-            "conspiracy theory",
-            "cia",
             "chechnya",
+            "cia",
+            "conspiracy theory",
             "wladimir putin"
         ],
         "thumbnail": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2017/02/cia-russias-1999-apartment-bombings-if-putin-was-responsible-it-could-well-know-r-1.jpg?resize=300%2C300&ssl=1",
@@ -110,9 +110,9 @@
         "source_url": "https://en.wikipedia.org",
         "status_code": 200,
         "tags": [
-            "conspiracy theory",
-            "cia",
             "chechnya",
+            "cia",
+            "conspiracy theory",
             "wladimir putin"
         ],
         "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/d8/Apartment_bombing.jpg",
@@ -140,11 +140,11 @@
         "source_url": "https://archive.nytimes.com",
         "status_code": 200,
         "tags": [
-            "surveillance",
-            "windows",
-            "nsa",
+            "backdoor",
             "microsoft",
-            "backdoor"
+            "nsa",
+            "surveillance",
+            "windows"
         ],
         "thumbnail": null,
         "title": "A Mysterious Component Roils Microsoft",
@@ -171,8 +171,8 @@
         "source_url": "www.philzimmermann.com",
         "status_code": 200,
         "tags": [
-            "privacy",
-            "anonymity"
+            "anonymity",
+            "privacy"
         ],
         "thumbnail": null,
         "title": "Why I wrote PGP",
@@ -200,8 +200,8 @@
         "status_code": 200,
         "tags": [
             "dark design",
-            "microsoft",
-            "dr-dos"
+            "dr-dos",
+            "microsoft"
         ],
         "thumbnail": null,
         "title": "How MS played the incompatibility card against DR-DOS \u2022 The Register",
@@ -228,9 +228,9 @@
         "source_url": "https://en.m.wikipedia.org",
         "status_code": 200,
         "tags": [
-            "robert billot",
             "example",
-            "pollution"
+            "pollution",
+            "robert billot"
         ],
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Robert_Bilott.jpg",
         "title": "Robert Bilott - example to look up to",
@@ -258,8 +258,8 @@
         "status_code": 200,
         "tags": [
             "climate change",
-            "pollution",
-            "dupoint"
+            "dupoint",
+            "pollution"
         ],
         "thumbnail": null,
         "title": "DuPoint",

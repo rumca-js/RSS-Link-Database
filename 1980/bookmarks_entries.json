@@ -20,8 +20,8 @@
         "source_url": "",
         "status_code": 200,
         "tags": [
-            "depopulation",
-            "conspiracy theories"
+            "conspiracy theories",
+            "depopulation"
         ],
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Georgia_Guidestones%2C_Elbert_County%2C_GA%2C_US_%2805%29.jpg/1200px-Georgia_Guidestones%2C_Elbert_County%2C_GA%2C_US_%2805%29.jpg",
         "title": "Georgia Guidestones - Wikipedia",
@@ -49,10 +49,10 @@
         "status_code": 200,
         "tags": [
             "all time",
-            "bezmienow",
-            "propaganda",
             "bezimienow",
+            "bezmienow",
             "lecture",
+            "propaganda",
             "russia"
         ],
         "thumbnail": "https://i.ytimg.com/vi/lWIpFvGrNak/sddefault.jpg",

@@ -21,8 +21,8 @@
         "status_code": 200,
         "tags": [
             "design patterns",
-            "singleton",
-            "programming"
+            "programming",
+            "singleton"
         ],
         "thumbnail": null,
         "title": "Singletons Considered Harmful",
@@ -76,9 +76,9 @@
         "source_url": "https://www.theguardian.com",
         "status_code": 200,
         "tags": [
+            "climate change",
             "climate gate",
-            "science is dead",
-            "climate change"
+            "science is dead"
         ],
         "thumbnail": "https://i.guim.co.uk/img/static/sys-images/Guardian/Science/pix/2007/07/30/hurricane_2.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTAucG5n&enable=upscale&s=c6ba25a6fee3c41b903c9fbf32f098a1",
         "title": "Part 11: 'Climategate' was PR disaster that could bring healthy reform of peer review",
@@ -135,8 +135,8 @@
         "status_code": 200,
         "tags": [
             "atrazine",
-            "pollution",
-            "depopulation"
+            "depopulation",
+            "pollution"
         ],
         "thumbnail": "https://news.berkeley.edu/media/sites/401/images/social-image.jpg",
         "title": "Pesticide atrazine can turn male frogs into females | Berkeley",
@@ -163,8 +163,8 @@
         "source_url": "https://www.ncbi.nlm.nih.gov",
         "status_code": 200,
         "tags": [
-            "depopulation",
-            "atrazine"
+            "atrazine",
+            "depopulation"
         ],
         "thumbnail": "https://www.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/pmc-card-share.jpg?_=0",
         "title": "Atrazine induces complete feminization and chemical castration in male African clawed frogs (Xenopus laevis) - PMC",
@@ -191,9 +191,9 @@
         "source_url": "https://www.spiegel.de",
         "status_code": 200,
         "tags": [
+            "fearmongering",
             "mass formation psychosis",
-            "swine flu",
-            "fearmongering"
+            "swine flu"
         ],
         "thumbnail": "https://cdn.prod.www.spiegel.de/images/809a8a35-0001-0004-0000-000000067226_w1200_r1.778_fpx55.23_fpy50.jpg",
         "title": "Reconstruction of a Mass Hysteria: The Swine Flu Panic of 2009 - DER SPIEGEL",
@@ -248,8 +248,8 @@
         "source_url": "https://www.nytimes.com",
         "status_code": 403,
         "tags": [
-            "powerpoint",
-            "funny"
+            "funny",
+            "powerpoint"
         ],
         "thumbnail": "https://static01.nyt.com/images/2010/04/27/world/27powerpoint_CA0_337-span/27powerpoint_CA0-articleLarge.jpg?year=2010&h=340&w=600&s=d57dda4477a11eea1073dc1832b66d11687801d0b18362d740bca0ea0c4b1338&k=ZQJBKqZ0VN",
         "title": "We Have Met the Enemy and He Is PowerPoint (Published 2010)",
@@ -277,12 +277,12 @@
         "status_code": 200,
         "tags": [
             "big tech",
-            "privacy",
-            "technofeudalism",
-            "tracking",
             "dark design",
             "facebook",
-            "surveillance"
+            "privacy",
+            "surveillance",
+            "technofeudalism",
+            "tracking"
         ],
         "thumbnail": "https://www.zdnet.com/a/img/resize/d53780e7ac9838f4fa5df8551258ef884fd3935c/2014/12/01/f5c9c04e-7921-11e4-b569-d4ae52e95e57/zd-defaultimage-blog.jpg?auto=webp&fit=crop&height=675&width=1200",
         "title": "Facebook does not erase user-deleted content | ZDNET",
@@ -309,11 +309,11 @@
         "source_url": "https://money.cnn.com",
         "status_code": 200,
         "tags": [
-            "law",
-            "google",
             "corporatocracy",
-            "surveillance",
-            "privacy"
+            "google",
+            "law",
+            "privacy",
+            "surveillance"
         ],
         "thumbnail": null,
         "title": "Google mistakenly collected WiFi data on unsecured networks - May. 14, 2010",
@@ -395,11 +395,11 @@
         "source_url": "https://www.greenpeace.org",
         "status_code": 200,
         "tags": [
-            "pollution",
-            "deforestation",
-            "palm oil",
             "climate change",
-            "nestle"
+            "deforestation",
+            "nestle",
+            "palm oil",
+            "pollution"
         ],
         "thumbnail": "",
         "title": "Nestl\u00e9 drives rainforest destruction pushing orangutans to brink of extinction - Greenpeace USA",
@@ -479,8 +479,8 @@
         "source_url": "http://rss.cnn.com/rss/edition.rss",
         "status_code": 600,
         "tags": [
-            "religion",
-            "islam terror"
+            "islam terror",
+            "religion"
         ],
         "thumbnail": null,
         "title": "Uganda blasts kill 74; Somali Islamists claim responsibilty",
@@ -534,11 +534,11 @@
         "source_url": "https://www.theguardian.com",
         "status_code": 200,
         "tags": [
-            "data leak",
-            "war",
-            "usa",
             "afganistan",
-            "big brother"
+            "big brother",
+            "data leak",
+            "usa",
+            "war"
         ],
         "thumbnail": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2010/7/25/1280087885361/US-soldier-in-Afghanistan-006.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTAucG5n&enable=upscale&s=5bf952b908065c76bb66dc2ffc1445ab",
         "title": "Afghanistan war logs: Massive leak of secret files exposes truth of occupation | Afghanistan: the war logs | The Guardian",
@@ -565,10 +565,10 @@
         "source_url": "https://www.cda.pl",
         "status_code": 600,
         "tags": [
-            "paedophilia",
+            "daniel cohn-bendit",
             "lgbt",
-            "the left wing",
-            "daniel cohn-bendit"
+            "paedophilia",
+            "the left wing"
         ],
         "thumbnail": null,
         "title": "Daniel Cohn-Bendit - pedofil w Europarlamencie?",
@@ -595,11 +595,11 @@
         "source_url": "https://ionainstitute.ie",
         "status_code": 200,
         "tags": [
+            "children",
             "lgbt",
-            "the left wing",
-            "sexualization",
             "paedophilia",
-            "children"
+            "sexualization",
+            "the left wing"
         ],
         "thumbnail": null,
         "title": "How radicals tried to sexually \u2018liberate\u2019 children",
@@ -626,10 +626,10 @@
         "source_url": "https://www.csmonitor.com",
         "status_code": 200,
         "tags": [
-            "billionaires",
-            "polititians",
             "bilderberg meeting",
-            "democracy"
+            "billionaires",
+            "democracy",
+            "polititians"
         ],
         "thumbnail": "https://images.csmonitor.com/csmarchives/2010/08/0820-wires-castro.jpg?alias=standard_900x600",
         "title": "Fidel Castro fascinated by Bilderberg Club conspiracy theory - CSMonitor.com",
@@ -656,8 +656,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2YqtiSc9u6vzVR-GwuEx6g",
         "status_code": 200,
         "tags": [
-            "music",
-            "chiptune"
+            "chiptune",
+            "music"
         ],
         "thumbnail": "https://i.ytimg.com/vi/rf_p3-8fTo0/hqdefault.jpg",
         "title": "Best of Chiptune [8 bit music, retro visuals]",
@@ -740,9 +740,9 @@
         "source_url": "https://pubmed.ncbi.nlm.nih.gov",
         "status_code": 200,
         "tags": [
+            "ad business",
             "big pharma",
-            "manufacturing consent",
-            "ad business"
+            "manufacturing consent"
         ],
         "thumbnail": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg",
         "title": "Information from pharmaceutical companies and the quality, quantity, and cost of physicians' prescribing: a systematic review - PubMed",
@@ -769,9 +769,9 @@
         "source_url": "https://philanthropynewsdigest.org",
         "status_code": 200,
         "tags": [
+            "george soros",
             "media",
-            "media matters",
-            "george soros"
+            "media matters"
         ],
         "thumbnail": "https://philanthropynewsdigest.org/var/ezflow_site/storage/images/site_pnd/news/media-matters-receives-1-million-from-george-soros/4145458-1-eng-US/media-matters-receives-1-million-from-george-soros.jpg",
         "title": "Media Matters Receives $1 Million From George Soros",
@@ -827,8 +827,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRr8kKR8mcrPwhu3dYDp2RQ",
         "status_code": 200,
         "tags": [
-            "history",
-            "documentary"
+            "documentary",
+            "history"
         ],
         "thumbnail": "https://i.ytimg.com/vi/MD5J43Z9AWI/hqdefault.jpg",
         "title": "Eva Hart speaks about her memories of the Titanic . .  survivor interview",
@@ -857,8 +857,8 @@
         "status_code": 600,
         "tags": [
             "amazon",
-            "deplatform",
             "big tech",
+            "deplatform",
             "wikileaks"
         ],
         "thumbnail": null,
@@ -913,8 +913,8 @@
         "source_url": "https://www.washingtonpost.com",
         "status_code": 200,
         "tags": [
-            "julian assange",
             "cia",
+            "julian assange",
             "wikileaks"
         ],
         "thumbnail": "http://media3.washingtonpost.com/wp-srv/images/twp-50x50.jpg",
@@ -942,9 +942,9 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnzItcpd7WGVn80TRRb8RcQ",
         "status_code": 200,
         "tags": [
+            "islam",
             "religion",
-            "religion knowledge",
-            "islam"
+            "religion knowledge"
         ],
         "thumbnail": "https://i.ytimg.com/vi/LfKLV6rmLxE/hqdefault.jpg",
         "title": "Sam Harris: Islam Is Not a Religion of Peace",

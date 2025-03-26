@@ -76,8 +76,8 @@
         "source_url": "https://theintercept.com/feed/?lang=en",
         "status_code": 0,
         "tags": [
-            "israel",
-            "censorship"
+            "censorship",
+            "israel"
         ],
         "thumbnail": "https://theintercept.com/theintercept.com/wp-content/uploads/2025/01/TikTok-Ban.jpg",
         "title": "The TikTok Ban Is Also About Hiding Pro-Palestinian Content. Republicans Said So Themselves.",
@@ -160,8 +160,8 @@
         "source_url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
         "status_code": 0,
         "tags": [
-            "monarchy",
-            "democracy"
+            "democracy",
+            "monarchy"
         ],
         "thumbnail": "https://static01.nyt.com/images/2025/01/26/magazine/26mag-interview-yarvin-03/26mag-interview-yarvin-03-mediumSquareAt3X.jpg",
         "title": "\u2018The Interview\u2019: Curtis Yarvin Says Democracy is Done",
@@ -188,8 +188,8 @@
         "source_url": "",
         "status_code": 200,
         "tags": [
-            "joe biden",
-            "anthony fauci"
+            "anthony fauci",
+            "joe biden"
         ],
         "thumbnail": "https://dims.apnews.com/dims4/default/65ba104/2147483647/strip/true/crop/5640x3173+0+294/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F99%2F4b%2Ffe1a5c1fe23407d2fcd6c71596a1%2F53016dd4ad714ba09e45ca8d94d93020",
         "title": "Biden pardons Fauci, Milley and the Jan. 6 panel. It's a guard against potential 'revenge' by Trump",
@@ -245,8 +245,8 @@
         "status_code": 200,
         "tags": [
             "climate change",
-            "pollutions",
-            "manufacturing consent"
+            "manufacturing consent",
+            "pollutions"
         ],
         "thumbnail": "https://nltimes.nl/sites/nltimes.nl/files/styles/news_article_full_desktop_2x/public/2020/03/depositphotos_61656175_l-2015.jpg?h=4997dc06",
         "title": "Enviromental groups got EU subsidies to lobby for Timmermans' green plans: report",
@@ -300,10 +300,10 @@
         "source_url": "",
         "status_code": 200,
         "tags": [
-            "technofeudalism",
+            "censorship",
             "covid",
             "debanking",
-            "censorship"
+            "technofeudalism"
         ],
         "thumbnail": "https://www.telegraph.co.uk/content/dam/news/2025/01/18/TELEMMGLPICT000338349983_17372187067350_trans_NvBQzQNjv4Bqp9c5WVj0Jr0gvyuux5WeKD9ZoOdymdQ6ONrooXZWrQE.jpeg?impolicy=OG-Standard",
         "title": "The proof that lockdown critics were \u2018debanked\u2019 because of their views",
@@ -386,8 +386,8 @@
         "status_code": 200,
         "tags": [
             "privacy",
-            "technofeudalism",
-            "surveillance"
+            "surveillance",
+            "technofeudalism"
         ],
         "thumbnail": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2025/01/2025-01-29T170109Z_2_LYNXNPEL0S0RB_RTROPTP_4_AMAZON-RESULTS.jpg",
         "title": "Amazon secretly tracked Californian consumers via cellphones, lawsuit alleges",
@@ -524,9 +524,9 @@
         "source_url": "",
         "status_code": 200,
         "tags": [
-            "usaid",
+            "dei",
             "lgbt",
-            "dei"
+            "usaid"
         ],
         "thumbnail": "https://cdnuploads.aa.com.tr/uploads/Contents/2025/02/04/thumbs_b_c_6d3dd89a87b1bea4b4ae5336d522c352.jpg?v=113937",
         "title": "In 'waste' of money, USAID channeled vast sums for DEI, LGBTQ programs: White House",
@@ -630,9 +630,9 @@
         "source_url": "",
         "status_code": 200,
         "tags": [
+            "censorship",
             "moderation",
-            "reddit",
-            "censorship"
+            "reddit"
         ],
         "thumbnail": "https://i.ytimg.com/vi/nPj6pOAYlWM/maxresdefault.jpg",
         "title": "'Lords of the Fallen' CEO BANNED By Reddit Mods",
@@ -715,10 +715,10 @@
         "source_url": "https://www.theverge.com/rss/index.xml",
         "status_code": 0,
         "tags": [
-            "technofeudalism",
-            "surveillance",
+            "crypto wars",
             "privacy",
-            "crypto wars"
+            "surveillance",
+            "technofeudalism"
         ],
         "thumbnail": null,
         "title": "The UK\u2019s war on encryption affects all of us",
@@ -745,8 +745,8 @@
         "source_url": "",
         "status_code": 200,
         "tags": [
-            "paedophilia",
-            "immigration"
+            "immigration",
+            "paedophilia"
         ],
         "thumbnail": "https://www.telegraph.co.uk/content/dam/news/2025/02/14/TELEMMGLPICT000412225546_17395424939420_trans_NvBQzQNjv4Bq-IWLY18X4-CzgyIcjLEAj0k9u7HhRJvuo-ZLenGRumA.jpeg?impolicy=OG-Standard",
         "title": "Zimbabwean paedophile allowed to stay in UK because he would face \u2018hostility\u2019 back home",
@@ -802,11 +802,11 @@
         "source_url": "https://www.theguardian.com/world/rss",
         "status_code": 0,
         "tags": [
-            "google",
-            "corporations",
-            "russia",
+            "billionaires",
             "china",
-            "billionaires"
+            "corporations",
+            "google",
+            "russia"
         ],
         "thumbnail": "https://i.guim.co.uk/img/media/2691cdda8be5085a879b919d46d00b9484fc5fef/0_31_2480_1488/master/2480.jpg?width=140&quality=85&auto=format&fit=max&s=7b5012606baa786edb9bcffa1b8b7401",
         "title": "Revealed: Google facilitated Russia and China\u2019s censorship requests",
@@ -916,9 +916,9 @@
         "source_url": "",
         "status_code": 429,
         "tags": [
-            "plutocracy",
             "billionaires",
-            "democracy"
+            "democracy",
+            "plutocracy"
         ],
         "thumbnail": null,
         "title": "Democracy in crisis: Trust in democratic institutions declining around the world",
@@ -974,8 +974,8 @@
         "source_url": "https://thehill.com/feed",
         "status_code": 0,
         "tags": [
-            "corporatocracy",
-            "china"
+            "china",
+            "corporatocracy"
         ],
         "thumbnail": null,
         "title": "Why is YouTube boosting anti-US, pro-Chinese communist propaganda?",
@@ -1002,9 +1002,9 @@
         "source_url": "",
         "status_code": 200,
         "tags": [
-            "surveillance",
+            "crypto wars",
             "privacy",
-            "crypto wars"
+            "surveillance"
         ],
         "thumbnail": "https://www.reuters.com/resizer/v2/LADPATVS7FKXPFTYTCP5H5VONA.jpg?auth=a4d6310075ec4c07631358b9e8576d2e460bb940bc0d58e5d667e1d113411408&height=1005&width=1920&quality=80&smart=true",
         "title": "Apple pulls data protection feature in UK amid government demands",
@@ -1058,9 +1058,9 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCy0tKL1T7wFoYcxCe0xjN6Q",
         "status_code": 0,
         "tags": [
+            "algorithms",
             "digital dementia",
-            "technology",
-            "algorithms"
+            "technology"
         ],
         "thumbnail": "https://i2.ytimg.com/vi/QEJpZjg8GuA/hqdefault.jpg",
         "title": "Algorithms are breaking how we think",
@@ -1115,10 +1115,10 @@
         "source_url": "https://www.zdnet.com/news/rss.xml",
         "status_code": 0,
         "tags": [
-            "technofeudalism",
             "google",
             "privacy",
-            "surveillance"
+            "surveillance",
+            "technofeudalism"
         ],
         "thumbnail": null,
         "title": "A new Android feature is scanning your photos for 'sensitive content' - how to stop it",
@@ -1256,8 +1256,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTSRIY3GLFYIpkR2QwyeklA",
         "status_code": 0,
         "tags": [
-            "technology",
-            "enshittification"
+            "enshittification",
+            "technology"
         ],
         "thumbnail": "https://i1.ytimg.com/vi/P-TANCVoHlc/hqdefault.jpg",
         "title": "Technology isn't fun anymore",
@@ -1370,8 +1370,8 @@
         "status_code": 0,
         "tags": [
             "climate change",
-            "corporatocracy",
-            "co2"
+            "co2",
+            "corporatocracy"
         ],
         "thumbnail": "https://i.guim.co.uk/img/media/510ad6c906d9f321a1f5f43ebeb6348fb98861c6/0_169_5637_3382/master/5637.jpg?width=140&quality=85&auto=format&fit=max&s=24ce4721f2ccca05a8e18b50d866fb35",
         "title": "Half of world\u2019s CO2 emissions come from 36 fossil fuel firms, study shows",
@@ -1426,8 +1426,8 @@
         "source_url": "",
         "status_code": 200,
         "tags": [
-            "stereotypes",
-            "gender"
+            "gender",
+            "stereotypes"
         ],
         "thumbnail": "https://www.psypost.org/wp-content/uploads/2024/12/happy-woman.jpg",
         "title": "Gender stereotypes are often accurate but vary in magnitude depending on the criterion",
@@ -1455,11 +1455,11 @@
         "source_url": "https://gizmodo.com/feed",
         "status_code": 0,
         "tags": [
-            "privacy",
-            "dark design",
+            "censorship",
             "corporatocracy",
-            "surveillance",
-            "censorship"
+            "dark design",
+            "privacy",
+            "surveillance"
         ],
         "thumbnail": null,
         "title": "Whistleblower Alleges Meta Was Ready to Censor Content for Chinese Government",
@@ -1569,9 +1569,9 @@
         "status_code": 0,
         "tags": [
             "censorship",
-            "facebook",
             "censorship",
             "china",
+            "facebook",
             "facebook"
         ],
         "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/355c/live/da2d5260-fda1-11ef-8c03-7dfdbeeb2526.jpg",
@@ -1737,12 +1737,40 @@
         "source_url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
         "status_code": 0,
         "tags": [
+            "covid",
             "lab leak",
-            "wuhan",
-            "covid"
+            "wuhan"
         ],
         "thumbnail": "https://static01.nyt.com/images/2025/03/17/multimedia/16tufekci-bqkj/16tufekci-bqkj-mediumSquareAt3X-v2.jpg",
         "title": "We Were Badly Misled About Covid",
+        "vote": 0
+    },
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-24T16:47:52+00:00",
+        "description": "<span class=\"field field--name-title field--type-string field--label-hidden\">I won't connect my dishwasher to your stupid cloud</span>\n\n            <p>This weekend I had to buy a new dishwasher because our old GE died.</p>\n\n<p>I bought a Bosch 500 series because that's what Consumer Reports recommended, and more importantly, I could find one in stock.</p>\n\n<p></p>\n\n<p>After my dad and I got it installed, I went to run a rinse cycle, only to find that <em>that</em>, along with features like delayed start and eco mode, require an app.</p>\n      <span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Jeff Geerling</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\">March 24, 2025\n</span>",
+        "id": 2396244,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2025/i-wont-connect-my-dishwasher-your-stupid-cloud",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [
+            "technofeudalism"
+        ],
+        "thumbnail": null,
+        "title": "I won't connect my dishwasher to your stupid cloud",
         "vote": 0
     }
 ]

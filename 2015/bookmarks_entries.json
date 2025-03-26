@@ -76,8 +76,8 @@
         "source_url": "https://en.wikipedia.org",
         "status_code": 200,
         "tags": [
-            "robustness",
-            "programming"
+            "programming",
+            "robustness"
         ],
         "thumbnail": null,
         "title": "Robustness principle",
@@ -104,10 +104,10 @@
         "source_url": "https://www.mirror.co.uk",
         "status_code": 200,
         "tags": [
+            "billionairs",
             "elites",
-            "prince andrew",
             "jeffrey epstein",
-            "billionairs"
+            "prince andrew"
         ],
         "thumbnail": "https://i2-prod.mirror.co.uk/incoming/article4924946.ece/ALTERNATES/s1200/PAYSinIslandMain.jpg",
         "title": "Prince Andrew allegation: First pictures of paedo tycoon Jeffrey Epstein's \u00a34k-a-night island lair",
@@ -134,10 +134,10 @@
         "source_url": "https://en.wikipedia.org",
         "status_code": 200,
         "tags": [
-            "france",
             "charlie hebdo",
-            "islam",
+            "france",
             "immigration",
+            "islam",
             "religion"
         ],
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Charlie-Hebdo-2015-11.JPG/1200px-Charlie-Hebdo-2015-11.JPG",
@@ -165,9 +165,9 @@
         "source_url": "https://theweek.com",
         "status_code": 200,
         "tags": [
+            "cablegate",
             "hillary clinton",
-            "wikileaks",
-            "cablegate"
+            "wikileaks"
         ],
         "thumbnail": "https://cdn.mos.cms.futurecdn.net/eyX22TbqQWpezrqcuGhRA8-1200-80.jpg",
         "title": "WikiLeaks: Can Hillary Clinton survive 'cablegate'?",
@@ -194,11 +194,11 @@
         "source_url": "https://arstechnica.com",
         "status_code": 200,
         "tags": [
+            "big brother",
             "crypto wars",
             "encryption",
-            "big brother",
-            "surveillance",
-            "privacy"
+            "privacy",
+            "surveillance"
         ],
         "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2015/01/Screen-Shot-2015-01-12-at-11.48.49-AM.png",
         "title": "UK prime minister wants backdoors into messaging apps or he\u2019ll ban them | Ars Technica",
@@ -225,11 +225,11 @@
         "source_url": "https://www.bbc.com",
         "status_code": 200,
         "tags": [
+            "big brother",
             "crypto wars",
             "encryption",
-            "big brother",
-            "surveillance",
-            "privacy"
+            "privacy",
+            "surveillance"
         ],
         "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/media/images/80235000/gif/_80235095_encryptiongraphic.gif",
         "title": "Can the government ban encryption? - BBC News",
@@ -312,8 +312,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp-KSsgIfeYZe5bh5xYymbA",
         "status_code": 200,
         "tags": [
-            "music",
-            "chiptune"
+            "chiptune",
+            "music"
         ],
         "thumbnail": "https://i.ytimg.com/vi/5TPs9inJabM/sddefault.jpg",
         "title": "Fury Of The Furries OST - The Forest",
@@ -340,9 +340,9 @@
         "source_url": "https://allthatsinteresting.com",
         "status_code": 403,
         "tags": [
-            "pollution",
             "climate change",
-            "co2"
+            "co2",
+            "pollution"
         ],
         "thumbnail": "https://allthatsinteresting.com/wordpress/wp-content/uploads/2015/01/chinese-cancer-villages-little-boy.jpg",
         "title": "Chinese Cancer Villages Show The High Human Cost Of Industrialization",
@@ -369,9 +369,9 @@
         "source_url": "https://www.gawker.com",
         "status_code": 600,
         "tags": [
+            "billionairs",
             "elites",
-            "jeffrey epstein",
-            "billionairs"
+            "jeffrey epstein"
         ],
         "thumbnail": null,
         "title": "Billionaire Pervert Jeffrey Epstein and His Famous Friends: A Primer",
@@ -478,10 +478,10 @@
         "source_url": "https://www.techradar.com",
         "status_code": 200,
         "tags": [
-            "technofeudalism",
+            "corporatocracy",
             "privacy",
             "surveillance",
-            "corporatocracy"
+            "technofeudalism"
         ],
         "thumbnail": "https://cdn.mos.cms.futurecdn.net/d77a4abdf77da2eda3d7220b650102f3-1200-80.jpg",
         "title": "In-store analytics: tracking real-world customers just like online shoppers | TechRadar",
@@ -535,11 +535,11 @@
         "source_url": "https://www.theguardian.com",
         "status_code": 200,
         "tags": [
-            "technofeudalism",
-            "surveillance",
+            "anonymity",
             "facebook",
             "privacy",
-            "anonymity"
+            "surveillance",
+            "technofeudalism"
         ],
         "thumbnail": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/3/30/1427725789540/9314f528-0305-4d39-a2ea-690f8f5d6bbc-2060x1236.jpeg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTUucG5n&enable=upscale&s=2b5cabebf98b61752b95ed6a0ec2d0de",
         "title": "Facebook 'tracks all visitors, breaching EU law'",
@@ -595,8 +595,8 @@
         "source_url": "https://citizenlab.ca",
         "status_code": 200,
         "tags": [
-            "ddos",
-            "china great cannon"
+            "china great cannon",
+            "ddos"
         ],
         "thumbnail": "https://citizenlab.ca/wp-content/webpc-passthru.php?src=https://citizenlab.ca/wp-content/uploads/2015/04/image03.png&nocache=1",
         "title": "China's Great Cannon",
@@ -624,8 +624,8 @@
         "status_code": 200,
         "tags": [
             "edward snowden",
-            "surveillance",
-            "privacy"
+            "privacy",
+            "surveillance"
         ],
         "thumbnail": "https://i.ytimg.com/vi/-1jAOJHvll0/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGH8gJygcMA8=&rs=AOn4CLBFzgGVJfKGke1p1d66qck8b-doHg",
         "title": "Glenn Greenwald: \"Edward Snowden and the Secrets of the National Security State\"",
@@ -652,12 +652,12 @@
         "source_url": "https://www.extremetech.com",
         "status_code": 403,
         "tags": [
+            "big brother",
             "crypto wars",
             "encryption",
             "nsa",
-            "big brother",
-            "surveillance",
-            "privacy"
+            "privacy",
+            "surveillance"
         ],
         "thumbnail": "https://i.extremetech.com/imagery/content-types/07xOzWuiqbo3GPUKUiKm7Qs/hero-image.fill.size_1200x675.jpg",
         "title": "The NSA wants 'front door' access to your encrypted data | Extremetech",
@@ -712,12 +712,12 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvQECJukTDE2i6aCoMnS-Vg",
         "status_code": 200,
         "tags": [
+            "political correctness",
+            "propaganda",
+            "slavoj zizek",
             "socialism",
             "totalitarianism",
-            "propaganda",
-            "political correctness",
-            "virtue signalling",
-            "slavoj zizek"
+            "virtue signalling"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/5dNbWGaaxWM/maxresdefault.webp",
         "title": "Slavoj \u017di\u017eek: Political Correctness is a More Dangerous Form of Totalitarianism | Big Think",
@@ -744,11 +744,11 @@
         "source_url": "https://threatpost.com",
         "status_code": 200,
         "tags": [
+            "big brother",
             "crypto wars",
             "encryption",
-            "big brother",
-            "surveillance",
-            "privacy"
+            "privacy",
+            "surveillance"
         ],
         "thumbnail": "https://media.threatpost.com/wp-content/uploads/sites/103/2015/04/07004359/16604933434_c653882fe6_k.jpg",
         "title": "Crypto \u2018Front Door\u2019 Debate Likely to Go On For Years | Threatpost",
@@ -775,8 +775,8 @@
         "source_url": "https://www.sciencedaily.com",
         "status_code": 200,
         "tags": [
-            "masks",
-            "covid"
+            "covid",
+            "masks"
         ],
         "thumbnail": "https://www.sciencedaily.com/images/scidaily-icon.png",
         "title": "Cloth masks: Dangerous to your health?",
@@ -831,10 +831,10 @@
         "source_url": "https://www.pewresearch.org",
         "status_code": 200,
         "tags": [
-            "media",
-            "legacy media",
+            "digital media",
             "digital transformation",
-            "digital media"
+            "legacy media",
+            "media"
         ],
         "thumbnail": "https://www.pewresearch.org/wp-content/uploads/sites/20/2015/04/PJ_15.04.28_SONM2015_homepage-06.png?w=260&h=260&crop=1",
         "title": "5 key takeaways from State of the News Media 2015 | Pew Research Center",
@@ -862,10 +862,10 @@
         "status_code": 200,
         "tags": [
             "billionaires",
-            "media",
-            "george soros",
             "elites",
-            "manufacturing consent"
+            "george soros",
+            "manufacturing consent",
+            "media"
         ],
         "thumbnail": "https://static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png",
         "title": "Why Don't We Hear About Soros' Ties to Over 30 Major News Organizations? | Fox News",
@@ -948,10 +948,10 @@
         "source_url": "https://fortune.com",
         "status_code": 200,
         "tags": [
-            "free speech",
-            "reddit",
             "censorship",
-            "moderation"
+            "free speech",
+            "moderation",
+            "reddit"
         ],
         "thumbnail": "https://fortune.com/img-assets/wp-content/uploads/2014/11/epaolowres.jpg?resize=1200,600",
         "title": "Reddit CEO Ellen Pao: Free speech on site not absolute | Fortune",
@@ -978,8 +978,8 @@
         "source_url": "https://thoughtcatalog.com/emily-goldstein/2015/05/get-rid-of-white-people",
         "status_code": 404,
         "tags": [
-            "racism",
             "hate speech",
+            "racism",
             "socialism"
         ],
         "thumbnail": "https://thoughtcatalog.com/wp-content/uploads/2015/05/1922226_639752009395072_794409756_n.jpg?w=767&h=514&crop=1",
@@ -1007,8 +1007,8 @@
         "source_url": "www.cbsnews.com",
         "status_code": 200,
         "tags": [
-            "youtube",
-            "algorithms"
+            "algorithms",
+            "youtube"
         ],
         "thumbnail": "https://assets1.cbsnewsstatic.com/hub/i/r/2015/05/27/7b1cee1e-928c-4a21-9c00-e6068fbcb046/thumbnail/1200x630/5cb0717a0ebd1ff267a605d24902be29/gettyimages-74155887.jpg?v=17b612a59ff4c1e4774d3d0d3ec005e8",
         "title": "4 reasons YouTube still doesn't make a profit",
@@ -1035,12 +1035,12 @@
         "source_url": "https://archive.ph",
         "status_code": 200,
         "tags": [
-            "potemkin village",
-            "psyop",
+            "bots",
             "platforma obywatelska",
+            "potemkin village",
             "propaganda",
-            "social media",
-            "bots"
+            "psyop",
+            "social media"
         ],
         "thumbnail": "https://archive.ph/1gECL/995c327460161b3c4e8bb1f936431d6a6b609f0b/scr.png",
         "title": "Platforma zatrudni\u0142a hejter\u00f3w. Maj\u0105 krytykowa\u0107 PiS i Dud\u0119",
@@ -1094,10 +1094,10 @@
         "source_url": "https://edri.org",
         "status_code": 200,
         "tags": [
-            "telemetry",
             "microsoft",
-            "windows",
-            "privacy"
+            "privacy",
+            "telemetry",
+            "windows"
         ],
         "thumbnail": "https://edri.org/wp-content/uploads/2014/07/EDRi-gram_subscribe_banner.jpg",
         "title": "Microsoft's new small print \u2013 how your personal data is (ab)used - European Digital Rights (EDRi)",
@@ -1152,8 +1152,8 @@
         "status_code": 200,
         "tags": [
             "propaganda",
-            "usa",
-            "public relations"
+            "public relations",
+            "usa"
         ],
         "thumbnail": "https://images.theconversation.com/files/87822/original/image-20150708-31560-1u73o9c.jpg?ixlib=rb-4.1.0&q=45&auto=format&w=1356&h=668&fit=crop",
         "title": "The manipulation of the American\u00a0mind: Edward Bernays and the birth of public\u00a0relations",
@@ -1208,9 +1208,9 @@
         "source_url": "https://www.wired.com",
         "status_code": 200,
         "tags": [
-            "vulnerability",
+            "electric vehicles",
             "hackers",
-            "electric vehicles"
+            "vulnerability"
         ],
         "thumbnail": "https://media.wired.com/photos/593238aa58b0d64bb35d04e4/191:100/w_1280,c_limit/150701_car_hackers_43-vscocam-photo-2.jpg",
         "title": "Hackers Remotely Kill a Jeep on the Highway\u2014With Me in It | WIRED",
@@ -1237,9 +1237,9 @@
         "source_url": "https://www.rp.pl",
         "status_code": 200,
         "tags": [
-            "sweden",
             "big brother",
-            "children"
+            "children",
+            "sweden"
         ],
         "thumbnail": "https://i.gremicdn.pl/image/free/04ce5f37017b66620ed001767a9d6a2a/?t=resize:fill:1200:750,enlarge:1",
         "title": "Szwecja a ustawa o przymusowej opiece pa\u0144stwa nad dzie\u0107mi",
@@ -1266,9 +1266,9 @@
         "source_url": "https://www.timesofisrael.com",
         "status_code": 403,
         "tags": [
-            "jeffrey epstein",
             "ehud barak",
-            "israel"
+            "israel",
+            "jeffrey epstein"
         ],
         "thumbnail": "https://static.timesofisrael.com/www/uploads/2019/08/F190812TNFF17-e1565712029555-1024x640.jpg",
         "title": "Woman says Epstein forced her to have sex with former PM Barak | The Times of Israel",
@@ -1295,9 +1295,9 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9Ryav8g5iRK7DL1J0jLeAw",
         "status_code": 200,
         "tags": [
+            "memento",
             "movies",
-            "nolan",
-            "memento"
+            "nolan"
         ],
         "thumbnail": "https://i.ytimg.com/vi/67e_jl4flpE/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgWyhdMA8=&rs=AOn4CLCxwSNPSUk7Z326_bcUQc4sT3Esdw",
         "title": "Memento Explanation by Christopher Nolan - True Genius - Must Watch",
@@ -1324,9 +1324,9 @@
         "source_url": "https://arstechnica.com",
         "status_code": 200,
         "tags": [
+            "privacy",
             "telemetry",
-            "windows",
-            "privacy"
+            "windows"
         ],
         "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2011/11/privacy-4ec277e-listing.jpg",
         "title": "Even when told not to, Windows 10 just can\u2019t stop talking to Microsoft | Ars Technica",
@@ -1354,8 +1354,8 @@
         "status_code": 200,
         "tags": [
             "big brother",
-            "privacy",
             "nsa",
+            "privacy",
             "surveillance"
         ],
         "thumbnail": "https://www.reuters.com/resizer/v2/https%3A%2F%2Farchive-images.prod.global.a201836.reutersmedia.net%2F2013%2F09%2F27%2FCBRE98Q1IA800.JPG?auth=d2780bff53cfe566fd76090b87ee9be82d5fe477084570be80a1ca763b369988&height=1005&width=1920&quality=80&smart=true",
@@ -1383,10 +1383,10 @@
         "source_url": "https://www.washingtonpost.com",
         "status_code": 200,
         "tags": [
-            "propaganda",
-            "social engineering",
+            "big brother",
             "government",
-            "big brother"
+            "propaganda",
+            "social engineering"
         ],
         "thumbnail": "https://www.washingtonpost.com/wp-apps/imrs.php?src=http://img.washingtonpost.com/posteverything/wp-content/uploads/2015/09/Obama12.jpg&w=1440",
         "title": "How the American government is trying to control what you think - The Washington Post",
@@ -1470,9 +1470,9 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4T6lF9nwmv5HPuKM7ZD3CA",
         "status_code": 200,
         "tags": [
-            "white genocide",
+            "barbara lerner spectre",
             "immigration",
-            "barbara lerner spectre"
+            "white genocide"
         ],
         "thumbnail": "https://i.ytimg.com/vi/8ERmOpZrKtw/maxresdefault.jpg",
         "title": "American activist Barbara Lerner Spectre calls for destruction of European ethnic societies",
@@ -1499,9 +1499,9 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGINcKuFbysZAslgL46KeOA",
         "status_code": 200,
         "tags": [
-            "ukraine",
             "all time",
             "lecture",
+            "ukraine",
             "war"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/JrMiSQAGOS4/maxresdefault.webp",
@@ -1529,8 +1529,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_DzFn0bLaSR_EvaAh8FKZA",
         "status_code": 200,
         "tags": [
-            "music",
-            "chiptune"
+            "chiptune",
+            "music"
         ],
         "thumbnail": "https://i.ytimg.com/vi/MSaohyJ_E2w/hqdefault.jpg",
         "title": "Pinball Dreams (PC/DOS) 1992, 21th Century Entertainment, Spidersoft",
@@ -1558,10 +1558,10 @@
         "source_url": "https://hnrss.org/frontpage",
         "status_code": 200,
         "tags": [
-            "programming",
-            "webdev",
+            "bloatware",
             "internet",
-            "bloatware"
+            "programming",
+            "webdev"
         ],
         "thumbnail": null,
         "title": "The Website Obesity Crisis",
@@ -1589,11 +1589,11 @@
         "status_code": 200,
         "tags": [
             "all time",
-            "propaganda",
-            "social media",
-            "manufacturing consent",
             "corporatocracy",
-            "noam chomsky"
+            "manufacturing consent",
+            "noam chomsky",
+            "propaganda",
+            "social media"
         ],
         "thumbnail": "https://i.ytimg.com/vi/tTBWfkE7BXU/hqdefault.jpg",
         "title": "Noam Chomsky - Manufacturing Consent",
@@ -1620,10 +1620,10 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1mFW0Nibo8d6eh9_abm31w",
         "status_code": 200,
         "tags": [
-            "propaganda",
-            "misinformation",
             "disinformation",
-            "edward bernays"
+            "edward bernays",
+            "misinformation",
+            "propaganda"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/8Q-3qwEDyPM/maxresdefault.webp",
         "title": "How to Control What People Do | Propaganda - EDWARD BERNAYS | Animated Book Summary",
@@ -1650,10 +1650,10 @@
         "source_url": "https://www.hrw.org",
         "status_code": 200,
         "tags": [
-            "disinformation",
             "china",
-            "spreading rumors",
-            "misinformation"
+            "disinformation",
+            "misinformation",
+            "spreading rumors"
         ],
         "thumbnail": null,
         "title": "China: New Ban on \u2018Spreading Rumors\u2019 About Disasters",
@@ -1736,9 +1736,9 @@
         "source_url": "https://www.theregister.com",
         "status_code": 200,
         "tags": [
+            "privacy",
             "telemetry",
-            "windows",
-            "privacy"
+            "windows"
         ],
         "thumbnail": null,
         "title": "Why Microsoft yanked its latest Windows 10 update download: It hijacked privacy settings \u2022 The Register",
@@ -1765,8 +1765,8 @@
         "source_url": "",
         "status_code": 200,
         "tags": [
-            "israel",
-            "911"
+            "911",
+            "israel"
         ],
         "thumbnail": null,
         "title": "Israelis not Muslims were arrested in U.S. after 'celebrating' 9/11",
@@ -1793,10 +1793,10 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFJAVHCfz46FFdpVVoUsGnA",
         "status_code": 200,
         "tags": [
-            "john kennedy",
             "conspiracy theory",
-            "secret societies",
-            "nwo"
+            "john kennedy",
+            "nwo",
+            "secret societies"
         ],
         "thumbnail": "https://i.ytimg.com/vi/HwpgfgAbxYM/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLCFxJgE2-qeQOu8rGRFQ4bn_eWnkg",
         "title": "Prezydent Kennedy o tajnych stowarzyszeniach i \u015bwiatowym spisku",
@@ -1823,12 +1823,12 @@
         "source_url": "https://theintercept.com",
         "status_code": 200,
         "tags": [
-            "encryption",
-            "crypto wars",
-            "technofeudalism",
             "backdoor",
-            "windows",
-            "vulnerability"
+            "crypto wars",
+            "encryption",
+            "technofeudalism",
+            "vulnerability",
+            "windows"
         ],
         "thumbnail": "https://theintercept.com/wp-content/uploads/2015/12/2015-12-16-1_small_1439.gif?fit=1439%2C720&w=1200&h=800",
         "title": "Recently Bought a Windows Computer? Microsoft Probably Has Your Encryption Key",

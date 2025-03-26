@@ -47,8 +47,8 @@
         "source_url": "https://www.abc.net.au",
         "status_code": 200,
         "tags": [
-            "science",
-            "family"
+            "family",
+            "science"
         ],
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9727855341df12d0df8123b3add0e071?impolicy=wcms_watermark_news&cropH=529&cropW=939&xPos=0&yPos=107&width=862&height=485&imformat=generic",
         "title": "Having babies really does change women's brains",
@@ -75,10 +75,10 @@
         "source_url": "https://2017-2021.state.gov",
         "status_code": 200,
         "tags": [
-            "wuhan",
-            "usa",
             "covid",
-            "gain of function"
+            "gain of function",
+            "usa",
+            "wuhan"
         ],
         "thumbnail": "https://2017-2021.state.gov/wp-content/uploads/2019/12/dos_seal.png",
         "title": "Fact Sheet: Activity at the Wuhan Institute of Virology",
@@ -105,11 +105,11 @@
         "source_url": "www.bitdefender.com",
         "status_code": 200,
         "tags": [
+            "big brother",
+            "china",
             "data leak",
             "meitu",
-            "surveillance",
-            "china",
-            "big brother"
+            "surveillance"
         ],
         "thumbnail": "https://blogapp.bitdefender.com/hotforsecurity/content/images/wordpress/2017/01/selfie-camera-phone.jpg",
         "title": "Selfie app Meitu allegedly leaks data to Chinese government",
@@ -136,11 +136,11 @@
         "source_url": "https://freebeacon.com",
         "status_code": 200,
         "tags": [
-            "media matters",
-            "fakenews",
-            "media",
             "disinformation",
             "facebook",
+            "fakenews",
+            "media",
+            "media matters",
             "misinformation"
         ],
         "thumbnail": "https://freebeacon.com/wp-content/uploads/2017/01/Facebook.jpg",
@@ -197,8 +197,8 @@
         "status_code": 200,
         "tags": [
             "balfour declaration",
-            "palestine",
-            "israel"
+            "israel",
+            "palestine"
         ],
         "thumbnail": "https://i.ytimg.com/vi/tk8g9GIIiuQ/sddefault.jpg",
         "title": "BALFOUR 100",
@@ -226,9 +226,9 @@
         "status_code": 200,
         "tags": [
             "big brother",
-            "media",
             "control",
-            "government"
+            "government",
+            "media"
         ],
         "thumbnail": "https://ocs-pl.oktawave.com/v1/AUTH_2887234e-384a-4873-8bc5-405211db13a2/spidersweb/2014/11/Angela-Merkel.jpg",
         "title": "Kanclerz Merkel zapomnia\u0142a, co Niemcy robi\u0105 z mediami w Polsce",
@@ -255,11 +255,11 @@
         "source_url": "https://www.dallasnews.com",
         "status_code": 200,
         "tags": [
-            "plutocracy",
-            "politics",
-            "manufacturing consent",
+            "billionaires",
             "corruption",
-            "billionaires"
+            "manufacturing consent",
+            "plutocracy",
+            "politics"
         ],
         "thumbnail": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/EBJRP3JWOBOREVBEPMPCS3SOKA.jpg?auth=d0241d75b6975471a51a72d03de53553fd748c704e0e2b561cdaa2fc17a86c9f&height=630&width=1200&smart=true&quality=80",
         "title": "No one went to prison after 2008 financial crisis \u2014 and the fault lies with us",
@@ -286,9 +286,9 @@
         "source_url": "https://www.scientificamerican.com",
         "status_code": 200,
         "tags": [
-            "sars",
             "china",
-            "covid"
+            "covid",
+            "sars"
         ],
         "thumbnail": "https://static.scientificamerican.com/sciam/cache/file/00EF0060-9395-4115-90927E9090F1F399_source.jpeg?w=1200",
         "title": "China to Permit Lab Poised to Study World's Most Dangerous Pathogens - Scientific American",
@@ -315,11 +315,11 @@
         "source_url": "https://files.eric.ed.gov",
         "status_code": 200,
         "tags": [
-            "racism",
-            "usa",
-            "hate speech",
             "black lives matter",
-            "blm"
+            "blm",
+            "hate speech",
+            "racism",
+            "usa"
         ],
         "thumbnail": null,
         "title": "A Framework for Understanding Whiteness in Mathematics Education",
@@ -346,10 +346,10 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNye-wNBqNL5ZzHSJj3l8Bg",
         "status_code": 200,
         "tags": [
-            "propaganda",
             "all time",
-            "social media",
-            "noam chomsky"
+            "noam chomsky",
+            "propaganda",
+            "social media"
         ],
         "thumbnail": "https://i.ytimg.com/vi/34LGPIXvU5M/sddefault.jpg",
         "title": "Noam Chomsky - The 5 Filters of the Mass Media Machine",
@@ -404,12 +404,12 @@
         "source_url": "https://wikileaks.org",
         "status_code": 200,
         "tags": [
-            "vault7",
-            "surveilllance",
             "cia",
             "malware",
-            "wikileaks",
-            "vulnerability"
+            "surveilllance",
+            "vault7",
+            "vulnerability",
+            "wikileaks"
         ],
         "thumbnail": null,
         "title": "Vault7 - Home",
@@ -436,14 +436,14 @@
         "source_url": "https://www.nytimes.com",
         "status_code": 403,
         "tags": [
+            "big brother",
             "cia",
             "julian assange",
-            "wikileaks",
+            "malware",
+            "surveillance",
             "trojan",
             "vulnerability",
-            "surveillance",
-            "malware",
-            "big brother"
+            "wikileaks"
         ],
         "thumbnail": "https://static01.nyt.com/images/2017/03/08/world/08Wikileaks2/08Wikileaks2-facebookJumbo.jpg?year=2017&h=550&w=1050&s=ddd94899b582dc73c5326ffb6184d7d3762cf82d3a4029d44e0123e26c0a229a&k=ZQJBKqZ0VN",
         "title": "WikiLeaks Releases Trove of Alleged C.I.A. Hacking Documents - The New York Times",
@@ -470,13 +470,13 @@
         "source_url": "https://www.bleepingcomputer.com",
         "status_code": 200,
         "tags": [
-            "vault7",
-            "surveillance",
-            "wikileaks",
+            "cia",
             "malware",
             "spyware",
+            "surveillance",
+            "vault7",
             "vulnerability",
-            "cia"
+            "wikileaks"
         ],
         "thumbnail": "https://www.bleepstatic.com/content/hl-images/2017/03/07/WikiLeaks.png",
         "title": "Vault 7: CIA Borrowed Code from Public Malware",
@@ -533,10 +533,10 @@
         "source_url": "https://money.cnn.com",
         "status_code": 200,
         "tags": [
-            "smart home",
-            "tracking",
+            "iot",
             "privacy",
-            "iot"
+            "smart home",
+            "tracking"
         ],
         "thumbnail": "https://i2.cdn.turner.com/money/dam/assets/170308180812-samsung-cia-tv-hack-780x439.jpg",
         "title": "Security experts say 'Vault 7' leak describes common, public hacks",
@@ -563,13 +563,13 @@
         "source_url": "https://www.thesun.co.uk",
         "status_code": 200,
         "tags": [
-            "vault7",
-            "surveillance",
-            "wikileaks",
+            "cia",
             "malware",
             "spyware",
+            "surveillance",
+            "vault7",
             "vulnerability",
-            "cia"
+            "wikileaks"
         ],
         "thumbnail": "https://www.thesun.co.uk/wp-content/uploads/2017/03/nintchdbpict000275662072.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
         "title": "What is the WikiLeaks Vault 7 release about CIA TV snooping powers and what is the Weeping Angel virus Samsung hack? | The Sun",
@@ -596,9 +596,9 @@
         "source_url": "https://capitalresearch.org",
         "status_code": 200,
         "tags": [
-            "science is dead",
+            "fact check",
             "media bias",
-            "fact check"
+            "science is dead"
         ],
         "thumbnail": "https://capitalresearch.org/app/uploads/Picture1.png",
         "title": "Dishonest Fact-Checkers - Capital Research Center",
@@ -679,9 +679,9 @@
         "source_url": "https://www.tysol.pl",
         "status_code": 200,
         "tags": [
+            "axel springer",
             "manufacturing consent",
-            "media",
-            "axel springer"
+            "media"
         ],
         "thumbnail": "https://www.tysol.pl/imgcache/1200x630/c//zdj/zdjecie/5495.jpg",
         "title": "Szef Ringier Axel Springer instruuje swoich dziennikarzy, jak ocenia\u0107 polski rz\u0105d. Wys\u0142a\u0142 specjalny list",
@@ -790,9 +790,9 @@
         "source_url": "https://qz.com",
         "status_code": 200,
         "tags": [
-            "pollution",
+            "china",
             "climate change",
-            "china"
+            "pollution"
         ],
         "thumbnail": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/19f63090d4b896a221b9abce32c25d6d.jpg",
         "title": "China has fished itself out of its own waters, so Chinese fishermen are now sticking their rods in other nations\u2019 seas",
@@ -819,9 +819,9 @@
         "source_url": "https://www.independent.co.uk",
         "status_code": 200,
         "tags": [
-            "the left wing",
+            "go woke go broke",
             "propaganda",
-            "go woke go broke"
+            "the left wing"
         ],
         "thumbnail": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/04/05/13/kendall-pepsi.jpg?quality=75&width=1200&auto=webp",
         "title": "Pepsi advert with Kendall Jenner pulled after huge backlash | The Independent | The Independent",
@@ -877,8 +877,8 @@
         "status_code": 200,
         "tags": [
             "capitalism",
-            "democracy",
-            "corporatocracy"
+            "corporatocracy",
+            "democracy"
         ],
         "thumbnail": "https://upload.wikimedia.org/wikipedia/en/a/aa/Requiem_for_the_American_Dream_%28book%29.jpg",
         "title": "Requiem for the American Dream - Wikipedia",
@@ -905,8 +905,8 @@
         "source_url": "",
         "status_code": 200,
         "tags": [
-            "censorship",
             "apple",
+            "censorship",
             "china"
         ],
         "thumbnail": "https://hongkongfp.com/wp-content/uploads/2017/04/POWERPNT_2017-04-07_14-57-53.jpg",
@@ -934,12 +934,12 @@
         "source_url": "https://en.wikipedia.org",
         "status_code": 200,
         "tags": [
-            "nsa",
-            "vulnerability",
-            "trojan",
             "eternalblue",
-            "wannacry",
-            "shadow brokers"
+            "nsa",
+            "shadow brokers",
+            "trojan",
+            "vulnerability",
+            "wannacry"
         ],
         "thumbnail": null,
         "title": "EternalBlue - Wikipedia",
@@ -966,10 +966,10 @@
         "source_url": "https://arstechnica.com",
         "status_code": 200,
         "tags": [
+            "nsa",
             "shadow brokers",
-            "vulnerability",
             "surveillance",
-            "nsa"
+            "vulnerability"
         ],
         "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2017/04/HEUraniumC-1000x648.jpg",
         "title": "NSA-leaking Shadow Brokers just dumped its most damaging release yet | Ars Technica",
@@ -1024,9 +1024,9 @@
         "source_url": "https://mjg59.dreamwidth.org",
         "status_code": 200,
         "tags": [
-            "tracking",
+            "intel management engine",
             "surveillance",
-            "intel management engine"
+            "tracking"
         ],
         "thumbnail": null,
         "title": "mjg59 | Intel's remote AMT vulnerablity",
@@ -1053,9 +1053,9 @@
         "source_url": "https://www.eff.org",
         "status_code": 200,
         "tags": [
-            "tracking",
+            "intel management engine",
             "surveillance",
-            "intel management engine"
+            "tracking"
         ],
         "thumbnail": "https://www.eff.org/files/banner_library/intel-chip-1.png",
         "title": "Intel's Management Engine is a security hazard, and users need a way to disable it | Electronic Frontier Foundation",
@@ -1082,9 +1082,9 @@
         "source_url": "https://theconversation.com",
         "status_code": 200,
         "tags": [
-            "vanguard",
+            "blackrock",
             "corporatocracy",
-            "blackrock"
+            "vanguard"
         ],
         "thumbnail": "https://images.theconversation.com/files/168552/original/file-20170509-11015-1ydxdq8.PNG?ixlib=rb-4.1.0&q=45&auto=format&w=1356&h=668&fit=crop",
         "title": "These three firms own corporate America",
@@ -1112,9 +1112,9 @@
         "source_url": "http://rss.cnn.com/rss/edition.rss",
         "status_code": 200,
         "tags": [
-            "wannacry",
             "virus",
-            "vulnerability"
+            "vulnerability",
+            "wannacry"
         ],
         "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/170513102130-ransomware-wannacry-attack-explained-00002401.jpg?q=x_0,y_0,h_1080,w_1919,c_fill/w_800",
         "title": "Ransomware 'WannaCry' attack explained",
@@ -1141,9 +1141,9 @@
         "source_url": "https://www.theguardian.com",
         "status_code": 200,
         "tags": [
-            "wannacry",
             "virus",
-            "vulnerability"
+            "vulnerability",
+            "wannacry"
         ],
         "thumbnail": "https://i.guim.co.uk/img/media/00d06513b30134594caa8cc0022743d981daab67/0_8_634_380/master/634.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTcucG5n&enable=upscale&s=0b99ab1b24244a6f455e333d09c7b2ef",
         "title": "'Accidental hero' who halted cyber-attack is English blogger aged 22 | Cybercrime | The Guardian",
@@ -1224,10 +1224,10 @@
         "source_url": "https://www.theguardian.com",
         "status_code": 200,
         "tags": [
-            "billionaires",
-            "politicians",
             "bilderberg meeting",
-            "democracy"
+            "billionaires",
+            "democracy",
+            "politicians"
         ],
         "thumbnail": "https://i.guim.co.uk/img/media/1c1eb6ead9b3600905ce77c329b595bf057aa6a1/92_196_1624_974/master/1624.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTcucG5n&enable=upscale&s=657c0bed81bd1900fb94b2f45b30bc4c",
         "title": "Bilderberg: the world\u2019s most secretive conference is as out of touch as ever | Bilderberg | The Guardian",
@@ -1255,8 +1255,8 @@
         "status_code": 200,
         "tags": [
             "malware",
-            "uroboros",
-            "turla"
+            "turla",
+            "uroboros"
         ],
         "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2017/06/bs-instagram.jpg",
         "title": "You\u2019ll never guess where Russian spies are hiding their control servers | Ars Technica",
@@ -1312,9 +1312,9 @@
         "source_url": "https://www.theguardian.com/rss",
         "status_code": 200,
         "tags": [
-            "wannacry",
             "virus",
-            "vulnerability"
+            "vulnerability",
+            "wannacry"
         ],
         "thumbnail": "https://i.guim.co.uk/img/media/f33b80766ae6874f05f097a74ebc9b1ddf249fba/0_0_4803_2882/master/4803.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTcucG5n&enable=upscale&s=247baa7f6a78fa07fb52eac77a77bcbe",
         "title": "WannaCry ransomware attack 'linked to North Korea'",
@@ -1341,8 +1341,8 @@
         "source_url": "https://www.polskieradio.pl",
         "status_code": 200,
         "tags": [
-            "germany",
-            "big brother"
+            "big brother",
+            "germany"
         ],
         "thumbnail": "https://static.prsa.pl/images/c624a42e-5aa9-43ff-99c0-f5447c0727cd.jpg",
         "title": "\u201ePowody zabierania rodzicom ich dzieci w Niemczech s\u0105 absurdalne\u201d",
@@ -1369,10 +1369,10 @@
         "source_url": "https://www.newsweek.com",
         "status_code": 200,
         "tags": [
+            "immigration",
             "nogo",
             "police",
-            "sweden",
-            "immigration"
+            "sweden"
         ],
         "thumbnail": "https://d.newsweek.com/en/full/628028/malmo-shooting.jpg",
         "title": "Are There No-Go Zones in Sweden? Police Identify Dozens of 'Vulnerable Areas' Rife With Criminality",
@@ -1399,8 +1399,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtRfI14sDK8jgw-_LA6Ch4g",
         "status_code": 200,
         "tags": [
-            "music",
-            "chiptune"
+            "chiptune",
+            "music"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/AOQxEnb9tzM/maxresdefault.webp",
         "title": "Amiga 500 - Miami Chase Music Intro",
@@ -1427,9 +1427,9 @@
         "source_url": "www.theverge.com",
         "status_code": 200,
         "tags": [
-            "privacy",
+            "gmail",
             "google",
-            "gmail"
+            "privacy"
         ],
         "thumbnail": "https://cdn.vox-cdn.com/thumbor/S9yAddDKWjmlaB8KXlzAbK2R7nU=/0x0:1020x586/1200x628/filters:focal(567x377:568x378)/cdn1.vox-cdn.com/uploads/chorus_asset/file/3607414/Google-Campus-025.0.jpg",
         "title": "Google will stop scanning your Gmail messages to sell targeted ads",
@@ -1458,13 +1458,13 @@
         "status_code": 200,
         "tags": [
             "algorithms",
-            "google",
-            "technofeudalism",
             "big tech",
-            "fine",
             "corporatocracy",
             "dark design",
-            "search engines"
+            "fine",
+            "google",
+            "search engines",
+            "technofeudalism"
         ],
         "thumbnail": "https://i2.cdn.turner.com/money/dam/assets/170627071814-eu-tech-google-780x439.jpg",
         "title": "EU slaps Google with record $2.7B fine for search manipulation",
@@ -1521,10 +1521,10 @@
         "source_url": "https://www.cnet.com",
         "status_code": 200,
         "tags": [
-            "malware",
             "android",
-            "vulnerability",
-            "copycat"
+            "copycat",
+            "malware",
+            "vulnerability"
         ],
         "thumbnail": "https://www.cnet.com/a/img/resize/5d6f4e2b407f2ae67b6c0ff775898f4e8939040d/hub/2012/10/15/d12a3ecb-fdb7-11e2-8c7c-d4ae52e62bcc/android-marching-malware.jpg?auto=webp&fit=crop&height=675&width=1200",
         "title": "Android devices hit with CopyCat malware - CNET",
@@ -1551,9 +1551,9 @@
         "source_url": "https://www.independent.co.uk",
         "status_code": 200,
         "tags": [
-            "racism",
+            "america",
             "hate speech",
-            "america"
+            "racism"
         ],
         "thumbnail": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/07/08/11/deanhutton.jpg?quality=75&width=1200&auto=webp",
         "title": "Court rules that 'F**k White People' posters are not racist | The Independent | The Independent",
@@ -1580,9 +1580,9 @@
         "source_url": "https://www.mcafee.com",
         "status_code": 200,
         "tags": [
-            "malware",
             "android",
             "copycat",
+            "malware",
             "vulnerability"
         ],
         "thumbnail": "https://securingtomorrow.mcafee.com/wp-content/uploads/gary1.jpg",
@@ -1610,8 +1610,8 @@
         "source_url": "www.polityka.pl",
         "status_code": 200,
         "tags": [
-            "prawo i sprawiedliwo\u015b\u0107",
-            "poland"
+            "poland",
+            "prawo i sprawiedliwo\u015b\u0107"
         ],
         "thumbnail": "https://static.polityka.pl/_resource/res/path/af/e8/afe8970a-9434-4d36-a15a-6c165f36aeba",
         "title": "Opozycja nie obroni s\u0105d\u00f3w przed PiS. Ma niewielkie pole manewru",
@@ -1638,14 +1638,14 @@
         "source_url": "https://nakedsecurity.sophos.com",
         "status_code": 200,
         "tags": [
+            "big brother",
             "cia",
             "julian assange",
-            "wikileaks",
+            "malware",
+            "surveillance",
             "trojan",
             "vulnerability",
-            "surveillance",
-            "malware",
-            "big brother"
+            "wikileaks"
         ],
         "thumbnail": "https://news.sophos.com/wp-content/uploads/2023/09/Naked-Security-For-SN.png?w=640",
         "title": "Vault 7: new WikiLeaks dump details Android SMS snooping malware \u2013 Naked Security",
@@ -1702,9 +1702,9 @@
         "status_code": 200,
         "tags": [
             "corporatocracy",
-            "monopoly",
             "council on foreign relations",
-            "manufacturing consent"
+            "manufacturing consent",
+            "monopoly"
         ],
         "thumbnail": "https://f3b9m7v4.rocketcdn.me/wp-content/uploads/2017/07/cfr-media-manipulation.jpg",
         "title": "The American empire and its media | MR Online",
@@ -1731,8 +1731,8 @@
         "source_url": "https://gizmodo.com.au",
         "status_code": 200,
         "tags": [
-            "google",
-            "censorship"
+            "censorship",
+            "google"
         ],
         "thumbnail": "https://gizmodo.com/app/uploads/2024/07/gizmodo-social.jpg",
         "title": "Yes, Google Uses Its Power To Quash Ideas It Doesn't Like -- I Know Because It Happened To Me",
@@ -1788,10 +1788,10 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnxGkOGNMqQEUMvroOWps6Q",
         "status_code": 200,
         "tags": [
-            "transgender",
-            "the left wing",
+            "ben shapiro",
             "joe rogan",
-            "ben shapiro"
+            "the left wing",
+            "transgender"
         ],
         "thumbnail": "https://i.ytimg.com/vi/IdjdNgvF42o/sddefault.jpg",
         "title": "Joe Rogan & Ben Shapiro on the Transgender Movement, Men vs. Women in Sports",
@@ -1818,9 +1818,9 @@
         "source_url": "https://newsbook.pl",
         "status_code": 200,
         "tags": [
-            "sweden",
             "big brother",
-            "children"
+            "children",
+            "sweden"
         ],
         "thumbnail": "https://newsbook.pl/wp-content/uploads/2017/08/1-41.jpg",
         "title": "SZWECJA: Terrory\u015bci s\u0105 dobrymi rodzicami! Polakom zabior\u0105 dzieci za nadopieku\u0144czo\u015b\u0107",
@@ -1848,9 +1848,9 @@
         "source_url": "https://www.theguardian.com/rss",
         "status_code": 200,
         "tags": [
-            "slave labour",
+            "england",
             "poland",
-            "england"
+            "slave labour"
         ],
         "thumbnail": "https://i.guim.co.uk/img/media/6d084dda26ed135ff50f3af62f4b935f566cd43e/0_278_4256_2554/master/4256.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTcucG5n&enable=upscale&s=6646481d43e6f569de8945e360b16c18",
         "title": "How big brands including Sports Direct unwittingly used slave labour",
@@ -1906,10 +1906,10 @@
         "source_url": "https://www.businessinsider.com",
         "status_code": 200,
         "tags": [
-            "james damore",
-            "google",
             "feminism",
-            "inequality"
+            "google",
+            "inequality",
+            "james damore"
         ],
         "thumbnail": "https://i.insider.com/598adb2d27fa6b4f763b1f15?width=1200&format=jpeg",
         "title": "James Damore: The fired Google engineer wrote his memo after he went to a 'shaming,' 'secretive' diversity program",
@@ -1965,9 +1965,9 @@
         "source_url": "https://menrightsindia.net",
         "status_code": 200,
         "tags": [
-            "james damore",
+            "google",
             "google memo",
-            "google"
+            "james damore"
         ],
         "thumbnail": "https://menrightsindia.net/wp-content/uploads/2017/08/james-damore-memo-apple-google-think-different-get-fired.jpg",
         "title": "Full text of ex-Google engineer James Damore\u2019s memo",
@@ -1994,10 +1994,10 @@
         "source_url": "http://gizmodo.com",
         "status_code": 200,
         "tags": [
-            "gmail",
-            "youtube",
+            "censorship",
             "deplatform",
-            "censorship"
+            "gmail",
+            "youtube"
         ],
         "thumbnail": "https://gizmodo.com/app/uploads/2024/07/gizmodo-social.jpg",
         "title": "Journalist Nearly Banned from YouTube and Gmail For Posting Al-Qaeda Videos From Chelsea Manning Trial",
@@ -2024,9 +2024,9 @@
         "source_url": "https://www.wired.com",
         "status_code": 200,
         "tags": [
-            "james damore",
+            "google",
             "google memo",
-            "google"
+            "james damore"
         ],
         "thumbnail": "https://media.wired.com/photos/59922b05f9873438308c9550/191:100/w_1280,c_limit/ScienceGoogleMemoHP.jpg",
         "title": "The Actual Science of James Damore\u2019s Google Memo",
@@ -2055,8 +2055,8 @@
         "status_code": 200,
         "tags": [
             "big brother",
-            "privacy",
-            "freedom"
+            "freedom",
+            "privacy"
         ],
         "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/170329120959-internet-privacy-illustration.jpg?q=x_0,y_0,h_1687,w_2997,c_fill/w_800",
         "title": "Court rules privacy a 'fundamental right' in landmark case",
@@ -2083,8 +2083,8 @@
         "source_url": "www.spokesman.com",
         "status_code": 200,
         "tags": [
-            "fahrenheit 451",
             "censorship",
+            "fahrenheit 451",
             "orwell"
         ],
         "thumbnail": "https://thumb.spokesman.com/TRHxGA84skPkASxD-PzLIooMjoI=/1200x630/smart/media.spokesman.com/photos/2017/09/26/Books-Trump-1984.JPG_FH2rpta.jpg",
@@ -2112,8 +2112,8 @@
         "source_url": "https://www.grunge.com",
         "status_code": 200,
         "tags": [
-            "secret societies",
-            "illuminati"
+            "illuminati",
+            "secret societies"
         ],
         "thumbnail": "https://www.grunge.com/img/grunge-share-image-1280x720.png",
         "title": "What Most People Don't Know About The Illuminati",
@@ -2141,9 +2141,9 @@
         "status_code": 200,
         "tags": [
             "intel management engine",
+            "nsa",
             "surveillance",
-            "tracking",
-            "nsa"
+            "tracking"
         ],
         "thumbnail": "https://www.csoonline.com/wp-content/uploads/2023/06/hardware-hacker-100664901-orig.jpg?quality=50&strip=all&w=620",
         "title": "Now you, too, can disable Intel ME 'backdoor' thanks to the NSA | CSO Online",
@@ -2170,8 +2170,8 @@
         "source_url": "https://www.nytimes.com",
         "status_code": 403,
         "tags": [
-            "manufacturing consent",
-            "google"
+            "google",
+            "manufacturing consent"
         ],
         "thumbnail": "https://static01.nyt.com/images/2017/08/31/us/31dc-newamerica/31dc-newamerica-facebookJumbo.jpg?year=2017&h=550&w=1050&s=8702b559da0aaed52dd299492dca00f6688b156d4e64d66b12fa4d8cb296b03b&k=ZQJBKqZ0VN",
         "title": "Google Critic Ousted From Think Tank Funded by the Tech Giant (Published 2017)",
@@ -2198,10 +2198,10 @@
         "source_url": "https://theintercept.com",
         "status_code": 200,
         "tags": [
-            "manufacturing consent",
-            "monopoly",
+            "censorship",
             "google",
-            "censorship"
+            "manufacturing consent",
+            "monopoly"
         ],
         "thumbnail": "https://theintercept.com/wp-content/uploads/2017/08/google-tech-company-monopoly-window-1504125301.jpg?fit=4368%2C2184&w=1200&h=800",
         "title": "How I Got Fired From a D.C. Think Tank for Fighting Against the Power of Google",
@@ -2257,9 +2257,9 @@
         "source_url": "www.independent.co.uk",
         "status_code": 200,
         "tags": [
-            "subscription",
+            "big tech",
             "social media",
-            "big tech"
+            "subscription"
         ],
         "thumbnail": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/09/04/16/twitter.jpg?quality=75&width=1200&auto=webp",
         "title": "Twitter's 'new' terms of service lead to panic among users of the site",
@@ -2316,9 +2316,9 @@
         "status_code": 200,
         "tags": [
             "feminism",
-            "joe rogan",
+            "google",
             "james damore",
-            "google"
+            "joe rogan"
         ],
         "thumbnail": "https://i.ytimg.com/vi/VIW2OBOzu7Y/sddefault.jpg",
         "title": "Joe Rogan - James Damore on the Backlash from the Google Memo Controversy",
@@ -2345,8 +2345,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_SD8q_CLdAoeb1_uiJOvmA",
         "status_code": 200,
         "tags": [
-            "jordan peterson",
-            "feminism"
+            "feminism",
+            "jordan peterson"
         ],
         "thumbnail": "https://i.ytimg.com/vi/Zy4a8T45GiQ/sddefault.jpg",
         "title": "Jordan Peterson: Why You Won't Have a Career",
@@ -2373,8 +2373,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCerMB0mEB6rFywnPVLUWONA",
         "status_code": 200,
         "tags": [
-            "prometheus",
-            "movies"
+            "movies",
+            "prometheus"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/UsEs1PwpU8Y/maxresdefault.webp",
         "title": "Ridley Scott Tells the REAL REASON Why David Hates Humans and Engineers",
@@ -2401,8 +2401,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNdVhGg0-TkkzWf9Gl0djow",
         "status_code": 200,
         "tags": [
-            "political correctness",
-            "jordan peterson"
+            "jordan peterson",
+            "political correctness"
         ],
         "thumbnail": "https://i.ytimg.com/vi/f5rUPatnXSE/maxresdefault.jpg",
         "title": "Jordan Peterson | Political Correctness and Postmodernism",
@@ -2429,13 +2429,13 @@
         "source_url": "https://netzpolitik.org",
         "status_code": 200,
         "tags": [
-            "espionage",
-            "privacy",
-            "tor",
             "anonymity",
-            "psyop",
+            "bnd",
+            "espionage",
             "germany",
-            "bnd"
+            "privacy",
+            "psyop",
+            "tor"
         ],
         "thumbnail": "https://cdn.netzpolitik.org/wp-upload/2017/09/BND-Zwiebel-1200x675.jpg",
         "title": "Secret documents: German foreign spy agency BND attacks the anonymity network Tor and advises not to use it",
@@ -2463,8 +2463,8 @@
         "status_code": 200,
         "tags": [
             "artificial intelligence",
-            "fintech",
-            "blackrock"
+            "blackrock",
+            "fintech"
         ],
         "thumbnail": null,
         "title": "Spotlight: How is AI disrupting financial industry - Xinhua | English.news.cn",
@@ -2520,9 +2520,9 @@
         "source_url": "https://www.vice.com",
         "status_code": 200,
         "tags": [
-            "iphone",
+            "apple",
             "hypocrisy",
-            "apple"
+            "iphone"
         ],
         "thumbnail": "https://www.vice.com/wp-content/uploads/sites/2/2017/09/1506087022551-Screen-Shot-2017-09-22-at-93008-AM.png",
         "title": "Apple: iPhones Are Too 'Complex' to Let You Fix Them",
@@ -2549,10 +2549,10 @@
         "source_url": "https://isgp-studies.com",
         "status_code": 200,
         "tags": [
-            "propaganda",
+            "hate speech",
             "immigration",
-            "the right wing",
-            "hate speech"
+            "propaganda",
+            "the right wing"
         ],
         "thumbnail": null,
         "title": "47 White Guilt Propaganda Tactics Used by Media and Political Elites to Push for Third World Immigration; motives",
@@ -2606,10 +2606,10 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_SD8q_CLdAoeb1_uiJOvmA",
         "status_code": 200,
         "tags": [
+            "homosexuality",
             "jordan peterson",
             "lgbt",
-            "the left wing",
-            "homosexuality"
+            "the left wing"
         ],
         "thumbnail": "https://i.ytimg.com/vi/4jef2C4T1_A/sddefault.jpg",
         "title": "Jordan Peterson - Gay Marriage",
@@ -2637,10 +2637,10 @@
         "status_code": 403,
         "tags": [
             "ad business",
-            "corporatocracy",
             "apple",
-            "privacy",
+            "corporatocracy",
             "dark design",
+            "privacy",
             "uber"
         ],
         "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQoISfJdHIzKeyx5akcHuaCVb3qZYfdLtcWeSTzR4OvRDq1sm_AF57N729T7xDRFuiGgupmwupZLFg8WXLu87ZWE3gbcUQzjaXauY211eWgxFODOLqJcFlfW6ZIcGjGQbdlrdb4c_Ck0bt/s728-rw-e365/uber-screen-record-iphone.png",
@@ -2668,12 +2668,12 @@
         "source_url": "https://www.theatlantic.com",
         "status_code": 200,
         "tags": [
-            "social media",
-            "privacy",
             "corporatocracy",
-            "election",
             "democracy",
-            "facebook"
+            "election",
+            "facebook",
+            "privacy",
+            "social media"
         ],
         "thumbnail": "https://cdn.theatlantic.com/thumbor/OZH-XePB3kuvz18kI2huwQmlzUs=/0x147:1999x1188/1200x625/media/img/mt/2017/10/FacebookAmerica/original.jpg",
         "title": "What Facebook Did to American Democracy",
@@ -2700,8 +2700,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6-ymYjG0SU0jUWnWh9ZzEQ",
         "status_code": 200,
         "tags": [
-            "movies",
-            "blade runner"
+            "blade runner",
+            "movies"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/VqDO9LyvXPQ/maxresdefault.webp",
         "title": "Blade Runner 2049: Do Memories Make Us Human? \u2013 Wisecrack Quick Take",
@@ -2728,8 +2728,8 @@
         "source_url": "https://www.polityka.pl",
         "status_code": 200,
         "tags": [
-            "prawo i sprawiedliwo\u015b\u0107",
-            "poland"
+            "poland",
+            "prawo i sprawiedliwo\u015b\u0107"
         ],
         "thumbnail": "https://static.polityka.pl/_resource/res/path/5a/29/5a2927fc-5863-4854-912f-c4fd19a20d7e",
         "title": "Program 500+ tylko do ma\u0142\u017ce\u0144stw? Samotne matki na celowniku PiS",
@@ -2811,9 +2811,9 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCerMB0mEB6rFywnPVLUWONA",
         "status_code": 200,
         "tags": [
+            "blade runner",
             "movies",
-            "symbolism",
-            "blade runner"
+            "symbolism"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/jRSZd8xYaL4/maxresdefault.webp",
         "title": "Eye Symbolism in Blade Runner 2049 Explained || Hidden Messages Analysis",
@@ -2867,8 +2867,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSI0StWcKt8hhCQFHTaWnQQ",
         "status_code": 200,
         "tags": [
-            "movies",
-            "cinemas"
+            "cinemas",
+            "movies"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/oj8JK6c5x3M/maxresdefault.webp",
         "title": "Anthony Mackie Explains Why Hollywood Movies Suck Now",
@@ -2895,10 +2895,10 @@
         "source_url": "https://www.networkworld.com",
         "status_code": 200,
         "tags": [
-            "tracking",
-            "surveillance",
+            "intel management engine",
             "minix",
-            "intel management engine"
+            "surveillance",
+            "tracking"
         ],
         "thumbnail": "https://www.networkworld.com/wp-content/uploads/2023/11/intel_cpu_background-100730789-orig.jpg?quality=50&strip=all&w=1024",
         "title": "What is MINIX? The most popular OS in the world, thanks to Intel | Network World",
@@ -2925,9 +2925,9 @@
         "source_url": "https://www.huffingtonpost.co.uk",
         "status_code": 200,
         "tags": [
+            "disinformation",
             "donald trump",
             "england",
-            "disinformation",
             "fakenews"
         ],
         "thumbnail": "https://img.huffingtonpost.com/asset/58c182a31d000039007cd77b.jpeg?ops=1200_630",
@@ -2955,8 +2955,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsoZWD7Uagg2yv3YcQ3zqBA",
         "status_code": 200,
         "tags": [
-            "movies",
-            "blade runner"
+            "blade runner",
+            "movies"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/gcQk3qM3Ok0/maxresdefault.webp",
         "title": "More Human than Human - A Blade Runner Analysis",
@@ -3010,10 +3010,10 @@
         "source_url": "https://www.zdnet.com",
         "status_code": 200,
         "tags": [
-            "tracking",
-            "surveillance",
+            "intel management engine",
             "minix",
-            "intel management engine"
+            "surveillance",
+            "tracking"
         ],
         "thumbnail": "https://www.zdnet.com/a/img/resize/3bbe23c57d1fffc3a7d12a8f4fa0a372566dca61/2017/11/07/877cc7b5-76b9-4ee3-b230-890dca8d9f79/intel-thumb.jpg?auto=webp&fit=crop&height=675&width=1200",
         "title": "MINIX: \u200bIntel's hidden in-chip operating system | ZDNET",
@@ -3040,11 +3040,11 @@
         "source_url": "https://themillenniumreport.com",
         "status_code": 200,
         "tags": [
-            "psyop",
-            "conspiracy theory",
             "cia",
+            "conspiracy theory",
             "deep state",
-            "flat earth"
+            "flat earth",
+            "psyop"
         ],
         "thumbnail": null,
         "title": "Fake \u201cFlat Earth\u201d Conspiracy Finally Outed As C.I.A. Psyop",
@@ -3098,8 +3098,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCerMB0mEB6rFywnPVLUWONA",
         "status_code": 200,
         "tags": [
-            "prometheus",
-            "movies"
+            "movies",
+            "prometheus"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/kSp07bwW1tA/maxresdefault.webp",
         "title": "Who Created Engineers ? Origins Explained || Theories",
@@ -3126,10 +3126,10 @@
         "source_url": "https://www.wired.com",
         "status_code": 200,
         "tags": [
-            "vulnerability",
-            "tracking",
+            "intel management engine",
             "surveillance",
-            "intel management engine"
+            "tracking",
+            "vulnerability"
         ],
         "thumbnail": "https://media.wired.com/photos/5a1362ba99a585526cd5506a/191:100/w_1280,c_limit/Intel-FA-615254488.jpg",
         "title": "Intel Management Engine Flaws Leave Millions of PCs Exposed | WIRED",
@@ -3156,9 +3156,9 @@
         "source_url": "https://www.zdnet.com",
         "status_code": 200,
         "tags": [
-            "tracking",
+            "intel management engine",
             "surveillance",
-            "intel management engine"
+            "tracking"
         ],
         "thumbnail": "https://www.zdnet.com/a/img/resize/8d79c779d672a45d8ce784f5a3de37510ee95a6b/2017/11/21/2d476025-5961-40c2-9170-48b0c8522c20/intel-8th-gen-core-3.jpg?auto=webp&fit=crop&height=675&width=1200",
         "title": "Intel: We've found severe bugs in secretive Management Engine, affecting millions | ZDNET",
@@ -3185,11 +3185,11 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQ-hpFPF4nOKoKPEAZM_THw",
         "status_code": 200,
         "tags": [
-            "power",
+            "big tech",
             "corporatocracy",
-            "monopoly",
             "google",
-            "big tech"
+            "monopoly",
+            "power"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/WWDmelZxgoI/maxresdefault.webp",
         "title": "10 Reasons You Should Be AFRAID of GOOGLE",
@@ -3216,11 +3216,11 @@
         "source_url": "https://arstechnica.com",
         "status_code": 200,
         "tags": [
+            "big brother",
             "crypto wars",
             "encryption",
-            "big brother",
-            "surveillance",
-            "privacy"
+            "privacy",
+            "surveillance"
         ],
         "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2017/11/riana.jpeg",
         "title": "As DOJ calls for \u201cresponsible encryption,\u201d expert asks \u201cresponsible to whom?\u201d | Ars Technica",
@@ -3247,9 +3247,9 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpQLC-evmUAon9BBpcW4kYg",
         "status_code": 200,
         "tags": [
-            "psychology",
-            "population",
             "art",
+            "population",
+            "psychology",
             "society"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/e9dZQelULDk/maxresdefault.webp",
@@ -3333,10 +3333,10 @@
         "source_url": "https://www.zdnet.com",
         "status_code": 200,
         "tags": [
-            "vulnerability",
-            "tracking",
+            "intel management engine",
             "surveillance",
-            "intel management engine"
+            "tracking",
+            "vulnerability"
         ],
         "thumbnail": "https://www.zdnet.com/a/img/resize/8d79c779d672a45d8ce784f5a3de37510ee95a6b/2017/11/21/2d476025-5961-40c2-9170-48b0c8522c20/intel-8th-gen-core-3.jpg?auto=webp&fit=crop&height=675&width=1200",
         "title": "\u200bComputer vendors start disabling Intel Management Engine | ZDNET",
@@ -3363,8 +3363,8 @@
         "source_url": "https://www.zdnet.com",
         "status_code": 200,
         "tags": [
-            "privacy",
             "data leak",
+            "privacy",
             "smartphone"
         ],
         "thumbnail": "https://www.zdnet.com/a/img/resize/c1e6e67d3a8234593dde9c3cc3b0a57216bebca3/2017/12/05/8ea5d1aa-6358-468d-938e-08a41c8fe0d7/gboard.jpg?auto=webp&fit=crop&height=675&width=1200",
@@ -3392,10 +3392,10 @@
         "source_url": "https://www.howtogeek.com",
         "status_code": 200,
         "tags": [
-            "privacy",
-            "surveillance",
             "data leak",
-            "smartphone"
+            "privacy",
+            "smartphone",
+            "surveillance"
         ],
         "thumbnail": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/12/DSC_0030.jpg",
         "title": "Smartphone Keyboards Are a Privacy Nightmare",
@@ -3479,11 +3479,11 @@
         "source_url": "https://www.gsb.stanford.edu",
         "status_code": 200,
         "tags": [
-            "elite",
-            "rothschild",
-            "plutocracy",
             "billionaires",
-            "chamath palihapitiya"
+            "chamath palihapitiya",
+            "elite",
+            "plutocracy",
+            "rothschild"
         ],
         "thumbnail": "https://www.gsb.stanford.edu/sites/default/files/styles/1630x_variable/public/photo-is-vftt-chamath-palihapitya.jpg.webp?itok=7wczBrpT",
         "title": "Chamath Palihapitiya: Why Failing Fast Fails | Stanford Graduate School of Business",
@@ -3538,9 +3538,9 @@
         "source_url": "https://www.parkiet.com",
         "status_code": 200,
         "tags": [
-            "usa",
             "china",
             "drugs",
+            "usa",
             "war"
         ],
         "thumbnail": "https://i.gremicdn.pl/image/free/19c751aa2b1a60ff7bfecbec8f8f53fa/?t=resize:fill:1200:750,enlarge:1",
@@ -3568,8 +3568,8 @@
         "source_url": "https://www.forbes.com",
         "status_code": 200,
         "tags": [
-            "fintech",
-            "blackrock"
+            "blackrock",
+            "fintech"
         ],
         "thumbnail": "https://imageio.forbes.com/blogs-images/antoinegara/files/2017/12/blackrock-1200x630.jpg?format=jpg&height=900&width=1600&fit=bounds",
         "title": "BlackRock's Edge: Why Technology Is Creating The Amazon Of Wall Street",
@@ -3596,10 +3596,10 @@
         "source_url": "https://www.quora.com",
         "status_code": 200,
         "tags": [
-            "deep state",
-            "flat earth",
+            "cia",
             "conspiracy theory",
-            "cia"
+            "deep state",
+            "flat earth"
         ],
         "thumbnail": "https://qph.cf2.quoracdn.net/main-custom-t-1808-600x315-qnackmwqdhgirismgfbymydoarnizrjs.jpeg",
         "title": "Is flat earth theory just a myth created by CIA in one of their covert operations?",
@@ -3655,8 +3655,8 @@
         "status_code": 200,
         "tags": [
             "algorithms",
-            "fintech",
-            "blackrock"
+            "blackrock",
+            "fintech"
         ],
         "thumbnail": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fprod-upp-image-read.ft.com%2F279f2526-2b9c-11e8-a34a-7e7563b0b0f4?source=next-barrier-page",
         "title": "BlackRock bets on algorithms to beat the fund managers",

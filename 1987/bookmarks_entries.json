@@ -20,8 +20,8 @@
         "source_url": "http://www.mit.edu",
         "status_code": 200,
         "tags": [
-            "programming",
-            "funny"
+            "funny",
+            "programming"
         ],
         "thumbnail": null,
         "title": "The Tao of Programming",
@@ -49,8 +49,8 @@
         "status_code": 200,
         "tags": [
             "australia",
-            "mel gibson",
-            "china"
+            "china",
+            "mel gibson"
         ],
         "thumbnail": "https://i.ytimg.com/vi/ORxcC_55X6s/hqdefault.jpg",
         "title": "Mel Gibson Warns About the Chinese Takeover in 1987",

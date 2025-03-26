@@ -20,11 +20,11 @@
         "source_url": "https://www.eff.org",
         "status_code": 200,
         "tags": [
+            "big brother",
             "crypto wars",
             "encryption",
-            "big brother",
-            "surveillance",
-            "privacy"
+            "privacy",
+            "surveillance"
         ],
         "thumbnail": "https://www.eff.org/files/eff-og.png",
         "title": "The Crypto Wars: Governments Working to Undermine Encryption",
@@ -51,10 +51,10 @@
         "source_url": "https://forsal.pl",
         "status_code": 200,
         "tags": [
-            "sexism",
             "discrimination",
+            "feminism",
             "inequality",
-            "feminism"
+            "sexism"
         ],
         "thumbnail": "https://ocdn.eu/pulscms-transforms/1/TnNktkuTURBXy8xZmYwOGRlMC0xYmQ3LTQxNjQtYTk0Yy0yMDVjMjhjZTk1NjcuanBlZ5GTBc0EsM0CdA",
         "title": "Dyskryminacja p\u0142ciowa: Wystarczy by\u0107 kobiet\u0105, by dosta\u0107 dodatkowe punkty",
@@ -110,8 +110,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA",
         "status_code": 200,
         "tags": [
-            "facebook",
-            "ad business"
+            "ad business",
+            "facebook"
         ],
         "thumbnail": "https://i.ytimg.com/vi/oVfHeWTKjag/maxresdefault.jpg",
         "title": "Facebook Fraud",
@@ -140,9 +140,9 @@
         "status_code": 200,
         "tags": [
             "christianophobia",
+            "islam",
             "nigeria",
-            "religion",
-            "islam"
+            "religion"
         ],
         "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/140218115601-boko-haram-attack.jpg?q=x_0,y_0,h_1458,w_2592,c_crop/w_800",
         "title": "Nigeria\u2019s Boko Haram targets Christian town and fishing village in latest attacks",
@@ -368,8 +368,8 @@
         "status_code": 200,
         "tags": [
             "big brother",
-            "privacy",
             "nsa",
+            "privacy",
             "surveillance"
         ],
         "thumbnail": null,
@@ -397,12 +397,12 @@
         "source_url": "https://web.archive.org",
         "status_code": 200,
         "tags": [
-            "microsoft",
-            "big tech",
             "big brother",
-            "privacy",
+            "big tech",
+            "microsoft",
             "nsa",
             "prism",
+            "privacy",
             "surveillance"
         ],
         "thumbnail": "https://web.archive.org/web/20190421070310im_/https://cdn.mos.cms.futurecdn.net/f27a0dc616bc3d61b687630551766f73-1200-80.png",
@@ -430,15 +430,15 @@
         "source_url": "https://betanews.com",
         "status_code": 200,
         "tags": [
-            "big brother",
             "backdoor",
-            "technofeudalism",
+            "big brother",
+            "big tech",
+            "cloud computing",
+            "manufacturing consent",
             "microsoft",
             "nsa",
             "privacy",
-            "manufacturing consent",
-            "cloud computing",
-            "big tech"
+            "technofeudalism"
         ],
         "thumbnail": "https://betanews.com/wp-content/uploads/2014/05/microsoft_header_contentfullwidth1-50x50.png",
         "title": "Microsoft openly offered cloud data to the NSA",
@@ -493,11 +493,11 @@
         "status_code": 200,
         "tags": [
             "big brother",
-            "usa",
-            "surveillance",
-            "new zealand",
             "edward snowden",
-            "privacy"
+            "new zealand",
+            "privacy",
+            "surveillance",
+            "usa"
         ],
         "thumbnail": "https://www.nzherald.co.nz/resizer/v2/2XOXOFTLHT6QDLX76PFMRDTIBY.jpg?auth=92eef841afe42ed89d6197410e33acf1976a25152414be47d732d7951e7cc78f&width=1200&height=675&quality=70&smart=true",
         "title": "John Minto: GCSB holding doors open while US buddies invade our privacy - NZ Herald",
@@ -551,10 +551,10 @@
         "source_url": "https://newrepublic.com",
         "status_code": 200,
         "tags": [
-            "facebook",
-            "privacy",
+            "corporatocracy",
             "election",
-            "corporatocracy"
+            "facebook",
+            "privacy"
         ],
         "thumbnail": "https://images.newrepublic.com/1a99a61dcc7faa3e8ae847fcbb66ac0652c3f379.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
         "title": "Facebook Could Decide an Election Without Anyone Ever Finding Out",
@@ -581,9 +581,9 @@
         "source_url": "https://mashable.com",
         "status_code": 200,
         "tags": [
+            "big brother",
             "edward snowden",
             "prism",
-            "big brother",
             "surveillance"
         ],
         "thumbnail": "https://helios-i.mashable.com/imagery/archives/02ix2oqXv1Srq3jNgRKhBRE/hero-image.fill.size_1200x675.v1647023959.jpg",
@@ -612,9 +612,9 @@
         "source_url": "http://rss.cnn.com/rss/edition.rss",
         "status_code": 200,
         "tags": [
-            "privacy",
             "freedom",
-            "law"
+            "law",
+            "privacy"
         ],
         "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/140625120518-cell-phone-file-0625.jpg?q=x_0,y_226,h_1687,w_2999,c_crop/w_800",
         "title": "U.S rules on cell phone privacy",
@@ -641,8 +641,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfkp6AUuCwbVCyqQiefja9g",
         "status_code": 200,
         "tags": [
-            "music",
-            "chiptune"
+            "chiptune",
+            "music"
         ],
         "thumbnail": "https://i.ytimg.com/vi/vETonlaTZ4c/sddefault.jpg",
         "title": "Amiga Lotus Turbo Challenge 2 Intro OST High Quality",
@@ -669,8 +669,8 @@
         "source_url": "https://news.virginia.edu",
         "status_code": 200,
         "tags": [
-            "digital dementia",
-            "addiction"
+            "addiction",
+            "digital dementia"
         ],
         "thumbnail": "https://news.virginia.edu/sites/default/files/article_image/Tim_Wilson_04_MRSS.jpg",
         "title": "Doing Something is Better Than Doing Nothing for Most People, Study Shows | UVA Today",
@@ -725,9 +725,9 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1hU2EG8WLeNvlnDlCY4BwA",
         "status_code": 200,
         "tags": [
-            "they live",
             "carpenter",
-            "pervert's guide"
+            "pervert's guide",
+            "they live"
         ],
         "thumbnail": "https://i.ytimg.com/vi/TVwKjGbz60k/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC6AKKAgwIABABGF8gXyhfMA8=&rs=AOn4CLAMRTeXV1WX7MnsgJ2qKm7tuRk3Ow",
         "title": "Slavoj \u017di\u017eek on \"They Live\" (The Pervert's Guide to Ideology)",
@@ -781,9 +781,9 @@
         "source_url": "https://www.nytimes.com",
         "status_code": 403,
         "tags": [
-            "facebook",
+            "ad business",
             "atlas",
-            "ad business"
+            "facebook"
         ],
         "thumbnail": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png?year=2014",
         "title": "With New Ad Platform, Facebook Opens Gates to Its Vault of User Data (Published 2014)",
@@ -810,9 +810,9 @@
         "source_url": "https://www.bbc.com",
         "status_code": 200,
         "tags": [
+            "immigration",
             "police",
-            "racism",
-            "immigration"
+            "racism"
         ],
         "thumbnail": "https://ichef.bbci.co.uk/ace/branded_news/1200/mcs/media/images/77256000/jpg/_77256504_624_shh.jpg",
         "title": "The fear of being seen as racist - BBC News",
@@ -839,10 +839,10 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzZEwjZEnPFHlMQYIUaByAw",
         "status_code": 200,
         "tags": [
-            "social justice warriors",
-            "linus torvalds",
             "hate speech",
-            "snowflakes"
+            "linus torvalds",
+            "snowflakes",
+            "social justice warriors"
         ],
         "thumbnail": "https://i.ytimg.com/vi/JZ017D_JOPY/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AGMBYAC4AOKAgwIABABGH8gNSgpMA8=&rs=AOn4CLBTFzXTeqxoZ1yHNoBT8Shapq3DSg",
         "title": "Linus Torvalds on his insults: respect should be earned.",
@@ -870,8 +870,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBa659QWEk1AI4Tg--mrJ2A",
         "status_code": 200,
         "tags": [
-            "tracking",
-            "privacy"
+            "privacy",
+            "tracking"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/_kBlH-DQsEg/maxresdefault.webp",
         "title": "2030: Privacy's Dead. What happens next?",
@@ -900,9 +900,9 @@
         "status_code": 200,
         "tags": [
             "big tech",
+            "net neutrality",
             "politics",
-            "power",
-            "net neutrality"
+            "power"
         ],
         "thumbnail": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/9/10/1410349573774/427b0092-8a50-4cf8-b97e-a47a6bc0adad-1020x612.jpeg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMtYWdlLTIwMTQucG5n&enable=upscale&s=b0e9616ef9867c2e3b322227cef39b19",
         "title": "The Internet Slowdown protest for net neutrality needs to target regulators",
@@ -929,9 +929,9 @@
         "source_url": "https://blog.cryptographyengineering.com",
         "status_code": 200,
         "tags": [
-            "iphone",
             "apple",
             "encryption",
+            "iphone",
             "privacy"
         ],
         "thumbnail": "https://blog.cryptographyengineering.com/wp-content/uploads/2014/10/apple_computer_logo_rainbow-svg.png?w=273",
@@ -959,10 +959,10 @@
         "source_url": "https://www.techdirt.com",
         "status_code": 200,
         "tags": [
-            "surveillance",
             "crypto wars",
             "encryption",
-            "privacy"
+            "privacy",
+            "surveillance"
         ],
         "thumbnail": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
         "title": "Washington Post's Clueless Editorial On Phone Encryption: No Backdoors, But How About A Magical 'Golden Key'? | Techdirt",
@@ -989,11 +989,11 @@
         "source_url": "https://www.theguardian.com",
         "status_code": 200,
         "tags": [
+            "big brother",
             "crypto wars",
             "encryption",
-            "big brother",
-            "surveillance",
-            "privacy"
+            "privacy",
+            "surveillance"
         ],
         "thumbnail": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/10/9/1412868810781/edb65011-5ae2-4700-baa4-48af51746c5c-2060x1236.jpeg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMtYWdlLTIwMTQucG5n&enable=upscale&s=74d7dde0529c98de275303ac760f4044",
         "title": "Crypto wars redux: why the FBI's desire to unlock your private life must be resisted | Cory Doctorow | The Guardian",
@@ -1020,11 +1020,11 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLyYEq4ODlw3OD9qhGqwimw",
         "status_code": 200,
         "tags": [
-            "surveillance",
-            "privacy",
             "big brother",
+            "citizenfour",
             "edward snowden",
-            "citizenfour"
+            "privacy",
+            "surveillance"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/XiGwAvd5mvM/maxresdefault.webp",
         "title": "Citizenfour Official Trailer 1 (2014) - Edward Snowden Documentary HD",
@@ -1079,8 +1079,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrrOic-og4HzhleZqOq4L-A",
         "status_code": 200,
         "tags": [
-            "propaganda",
             "big brother",
+            "propaganda",
             "social engineering"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/q8R9MDt4jEc/maxresdefault.webp",
@@ -1135,8 +1135,8 @@
         "status_code": 200,
         "tags": [
             "big brother",
-            "surveillance",
-            "citizenfour"
+            "citizenfour",
+            "surveillance"
         ],
         "thumbnail": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/10/15/1413390183139/AWARD-WINNER-008.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTQucG5n&enable=upscale&s=ec484d3cfd34969e6e93e74c9b678fc6",
         "title": "Citizenfour review  gripping Snowden documentary offers portrait of power, paranoia and one remarkable man",
@@ -1163,10 +1163,10 @@
         "source_url": "https://theintercept.com",
         "status_code": 200,
         "tags": [
+            "big brother",
             "crypto wars",
             "encryption",
             "fbi",
-            "big brother",
             "surveillance"
         ],
         "thumbnail": "https://theintercept.com/wp-content/uploads/2014/10/455730724.jpg?fit=600%2C400&w=1200&h=800",
@@ -1194,13 +1194,13 @@
         "source_url": "https://i-hls.com",
         "status_code": 200,
         "tags": [
-            "crypto wars",
-            "nsa",
-            "technofeudalism",
             "cloud computing",
-            "surveillance",
+            "crypto wars",
+            "dark design",
             "microsoft",
-            "dark design"
+            "nsa",
+            "surveillance",
+            "technofeudalism"
         ],
         "thumbnail": "https://i-hls.com/wp-content/uploads/2014/10/nsa-economic-impact.jpg",
         "title": "Microsoft says NSA spying hit trust in the cloud - iHLS",
@@ -1256,8 +1256,8 @@
         "status_code": 200,
         "tags": [
             "catholic",
-            "religion",
-            "crusades"
+            "crusades",
+            "religion"
         ],
         "thumbnail": "https://i.ytimg.com/vi/c7y2LRcf4kc/maxresdefault.jpg",
         "title": "How many times Muslims invaded Europe vs. Europeans invaded Muslim countries?",
@@ -1284,8 +1284,8 @@
         "source_url": "https://www.reuters.com",
         "status_code": 200,
         "tags": [
-            "sars",
-            "covid"
+            "covid",
+            "sars"
         ],
         "thumbnail": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
         "title": "White House halts funding on risky flu studies | Reuters",
@@ -1313,9 +1313,9 @@
         "source_url": "http://rss.cnn.com/rss/edition.rss",
         "status_code": 200,
         "tags": [
-            "terrorism",
             "islam",
-            "religion"
+            "religion",
+            "terrorism"
         ],
         "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/141025111711-natpkg-ottawa-guards-return-00010328.jpg?q=x_0,y_0,h_720,w_1280,c_fill/w_800",
         "title": "How strong is the link between faith and terrorism?",
@@ -1370,9 +1370,9 @@
         "source_url": "https://www.eff.org",
         "status_code": 200,
         "tags": [
-            "surveillance",
             "corporatocracy",
             "privacy",
+            "surveillance",
             "verizon"
         ],
         "thumbnail": "https://www.eff.org/files/banner_library/secret-identity-2_0.png",
@@ -1401,9 +1401,9 @@
         "source_url": "http://rss.cnn.com/rss/edition.rss",
         "status_code": 200,
         "tags": [
-            "google",
+            "big tech",
             "corporatocracy",
-            "big tech"
+            "google"
         ],
         "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/140924172235-larry-page-google-ceo.jpg?q=x_0,y_159,h_1687,w_2999,c_crop/w_800",
         "title": "Can Google be trusted?",
@@ -1458,8 +1458,8 @@
         "source_url": "https://www.ncbi.nlm.nih.gov",
         "status_code": 200,
         "tags": [
-            "sars",
-            "covid"
+            "covid",
+            "sars"
         ],
         "thumbnail": "https://www.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/pmc-card-share.jpg?_=0",
         "title": "Gain-of-function experiments: time for a real debate - PMC",

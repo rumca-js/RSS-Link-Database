@@ -6,12 +6,12 @@
  ## First Mexico fatal flu victim sought help for days | Reuters
  - [https://www.reuters.com/article/us-flu-mexico-sb-idUSTRE53S93K20090429](https://www.reuters.com/article/us-flu-mexico-sb-idUSTRE53S93K20090429)
  - date_published: 2009-04-29T20:15:58+00:00
- - tags: ['mexico', 'swine flu', 'pandemic']
+ - tags: ['mexico', 'pandemic', 'swine flu']
 
  ## Scottish paedophile ring found guilty of more than 50 charges
  - [https://www.theguardian.com/uk/2009/may/07/scottish-paedophile-ring-guilty-child-abuse](https://www.theguardian.com/uk/2009/may/07/scottish-paedophile-ring-guilty-child-abuse)
  - date_published: 2009-05-07T21:30:07+00:00
- - tags: ['lgbt', 'the left wing', 'paedophilia']
+ - tags: ['lgbt', 'paedophilia', 'the left wing']
 
  ## The Future of Artificial Intelligence - The New York Times
  - [https://www.nytimes.com/2009/05/24/weekinreview/24markoff.html](https://www.nytimes.com/2009/05/24/weekinreview/24markoff.html)
@@ -21,17 +21,17 @@
  ## WHO declares swine flu pandemic | Swine flu | The Guardian
  - [https://www.theguardian.com/world/2009/jun/11/swine-flu-pandemic-who-declares](https://www.theguardian.com/world/2009/jun/11/swine-flu-pandemic-who-declares)
  - date_published: 2009-06-11T20:14:29+00:00
- - tags: ['swine flu', 'who', 'pandemic']
+ - tags: ['pandemic', 'swine flu', 'who']
 
  ## Teenager is fourth person in UK to die from swine flu | Swine flu | The Guardian
  - [https://www.theguardian.com/world/2009/jul/03/swine-flu-london-teenager-death](https://www.theguardian.com/world/2009/jul/03/swine-flu-london-teenager-death)
  - date_published: 2009-07-03T20:15:13+00:00
- - tags: ['swine flu', 'fearmongering']
+ - tags: ['fearmongering', 'swine flu']
 
  ## Swine flu could kill 40 Britons a day by end of summer, says chief medical officer | Daily Mail Online
  - [https://www.dailymail.co.uk/news/article-1197054/Swine-flu-kill-40-Britons-day-end-summer-says-chief-medical-officer.html](https://www.dailymail.co.uk/news/article-1197054/Swine-flu-kill-40-Britons-day-end-summer-says-chief-medical-officer.html)
  - date_published: 2009-07-04T20:13:44+00:00
- - tags: ['swine flu', 'fearmongering']
+ - tags: ['fearmongering', 'swine flu']
 
  ## meow mix
  - [https://www.youtube.com/watch?v=GSMCRD35ch4](https://www.youtube.com/watch?v=GSMCRD35ch4)
@@ -41,7 +41,7 @@
  ## LEGO - 8-bit trip
  - [https://www.youtube.com/watch?v=4qsWFFuYZYI](https://www.youtube.com/watch?v=4qsWFFuYZYI)
  - date_published: 2009-08-21T00:00:00+00:00
- - tags: ['music', 'chiptune']
+ - tags: ['chiptune', 'music']
 
  ## Pfizer fined $2.3 billion for illegal marketing in off-label drug case - ABC News
  - [https://abcnews.go.com/Business/pfizer-fined-23-billion-illegal-marketing-off-label/story?id=8477617](https://abcnews.go.com/Business/pfizer-fined-23-billion-illegal-marketing-off-label/story?id=8477617)
@@ -56,7 +56,7 @@
  ## Cramming More Components onto Integrated Circuits (Gordon Moore, 1965) [pdf]
  - [https://www.cs.utexas.edu/~fussell/courses/cs352h/papers/moore.pdf](https://www.cs.utexas.edu/~fussell/courses/cs352h/papers/moore.pdf)
  - date_published: 2009-09-16T14:55:29+00:00
- - tags: ['hardware', 'integrated circuits', 'gordon moore']
+ - tags: ['gordon moore', 'hardware', 'integrated circuits']
 
  ## No Doubt - It's My Life (Edited)
  - [https://www.youtube.com/watch?v=ubvV498pyIM](https://www.youtube.com/watch?v=ubvV498pyIM)
@@ -66,17 +66,17 @@
  ## Skandal w Niemczech. Inne szczepionki dla rządu - Wydarzenia w INTERIA.PL
  - [https://wydarzenia.interia.pl/raport-swinska-grypa/news-skandal-w-niemczech-inne-szczepionki-dla-rzadu,nId,868885](https://wydarzenia.interia.pl/raport-swinska-grypa/news-skandal-w-niemczech-inne-szczepionki-dla-rzadu,nId,868885)
  - date_published: 2009-10-19T17:14:20+00:00
- - tags: ['swine flu', 'h1n1']
+ - tags: ['h1n1', 'swine flu']
 
  ## C++ Coding Standards - Book Home Page
  - [http://www.gotw.ca/publications/c++cs.htm](http://www.gotw.ca/publications/c++cs.htm)
  - date_published: 2009-11-04T16:10:21+00:00
- - tags: ['programming', 'c++']
+ - tags: ['c++', 'programming']
 
  ## Ewa Kopacz accused of being anti NEW WORLD ORDER because she is concerned about the H1N1 vaccination
  - [https://www.youtube.com/watch?v=yn3ElOkqND0](https://www.youtube.com/watch?v=yn3ElOkqND0)
  - date_published: 2009-11-17T00:00:00+00:00
- - tags: ['vaccine', 'swine flu']
+ - tags: ['swine flu', 'vaccine']
 
  ## Radykalni Żydzi walczą z Bożym Narodzeniem
  - [https://www.rp.pl/swiat/art7390661-radykalni-zydzi-walcza-z-bozym-narodzeniem](https://www.rp.pl/swiat/art7390661-radykalni-zydzi-walcza-z-bozym-narodzeniem)

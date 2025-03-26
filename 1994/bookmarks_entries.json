@@ -21,8 +21,8 @@
         "status_code": 200,
         "tags": [
             "hardware",
-            "tsmc",
-            "processor"
+            "processor",
+            "tsmc"
         ],
         "thumbnail": "https://assets.bwbx.io/s3/lightsaber/_next/static/media/social-default.cc6ae30e.jpg",
         "title": "`Real Men Have Fabs'",
@@ -50,9 +50,9 @@
         "status_code": 403,
         "tags": [
             "cigarettes",
+            "congress",
             "manufacturing consent",
-            "tobacco",
-            "congress"
+            "tobacco"
         ],
         "thumbnail": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png?year=1994",
         "title": "Tobacco Chiefs Say Cigarettes Aren't Addictive - The New York Times",

@@ -20,9 +20,9 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXgGxoK-fsv1ScBHE7lYi_Q",
         "status_code": 200,
         "tags": [
-            "sexualization",
-            "lgbt",
             "children",
+            "lgbt",
+            "sexualization",
             "the left wing"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/UEgA8kHuYvs/maxresdefault.webp",
@@ -50,8 +50,8 @@
         "source_url": "https://isocpp.org",
         "status_code": 200,
         "tags": [
-            "programming",
-            "c++"
+            "c++",
+            "programming"
         ],
         "thumbnail": null,
         "title": "What\u2019s the \u201cstatic initialization order \u2018fiasco\u2019 (problem)\u201d?",
@@ -78,8 +78,8 @@
         "source_url": "https://en.cppreference.com",
         "status_code": 200,
         "tags": [
-            "programming",
-            "c++"
+            "c++",
+            "programming"
         ],
         "thumbnail": null,
         "title": "c++ Initialization",
@@ -106,8 +106,8 @@
         "source_url": "https://en.wikipedia.org",
         "status_code": 200,
         "tags": [
-            "programming",
-            "c++"
+            "c++",
+            "programming"
         ],
         "thumbnail": null,
         "title": "Criticism of C++",
@@ -134,8 +134,8 @@
         "source_url": "https://isocpp.org",
         "status_code": 200,
         "tags": [
-            "programming",
-            "c++"
+            "c++",
+            "programming"
         ],
         "thumbnail": null,
         "title": "Inheritance \u2014 What your mother never told you",
@@ -162,9 +162,9 @@
         "source_url": "https://www.cprogramming.com",
         "status_code": 200,
         "tags": [
-            "programming",
             "c++",
-            "inheritance"
+            "inheritance",
+            "programming"
         ],
         "thumbnail": null,
         "title": "Solving the Diamond Problem with Virtual Inheritance",
@@ -191,11 +191,11 @@
         "source_url": "https://theintercept.com",
         "status_code": 200,
         "tags": [
-            "big tech",
             "amazon",
+            "big tech",
             "iot",
-            "tracking",
-            "privacy"
+            "privacy",
+            "tracking"
         ],
         "thumbnail": "https://theintercept.com/wp-content/uploads/2019/01/intercept-amring_2000-1546890445.jpg?fit=2000%2C1000&w=1200&h=800",
         "title": "For Owners of Amazon\u2019s Ring Security Cameras, Strangers May Have Been Watching Too",
@@ -249,8 +249,8 @@
         "source_url": "https://zeux.io",
         "status_code": 200,
         "tags": [
-            "programming",
-            "c++"
+            "c++",
+            "programming"
         ],
         "thumbnail": null,
         "title": "Is C++ fast?",
@@ -305,10 +305,10 @@
         "source_url": "https://www.cnbc.com",
         "status_code": 200,
         "tags": [
+            "climate change",
             "hypocrisy",
-            "world economic forum",
             "wef",
-            "climate change"
+            "world economic forum"
         ],
         "thumbnail": "https://image.cnbcfm.com/api/v1/image/101524464-110679664.jpg?v=1532564516&w=1920&h=1080",
         "title": "WEF defends jet-setting elites amid climate change agenda",
@@ -363,12 +363,12 @@
         "source_url": "https://techcrunch.com",
         "status_code": 200,
         "tags": [
-            "facebook",
-            "technofeudalism",
-            "privacy",
-            "surveillance",
-            "project atlas",
             "anonymity",
+            "facebook",
+            "privacy",
+            "project atlas",
+            "surveillance",
+            "technofeudalism",
             "vpn"
         ],
         "thumbnail": "https://techcrunch.com/wp-content/uploads/2019/01/facebook-research-vpn-project-atlas.jpg",
@@ -421,10 +421,10 @@
         "source_url": "https://www.eff.org",
         "status_code": 200,
         "tags": [
-            "technofeudalism",
             "facebook",
             "privacy",
-            "surveillance"
+            "surveillance",
+            "technofeudalism"
         ],
         "thumbnail": "https://www.eff.org/files/banner_library/facebook-eyes-1_0.png",
         "title": "What We Should Learn From \u201cFacebook Research\u201d",
@@ -453,8 +453,8 @@
         "tags": [
             "brazil",
             "cult",
-            "paedophilia",
             "john of god",
+            "paedophilia",
             "sect"
         ],
         "thumbnail": "https://nypost.com/wp-content/uploads/sites/2/2019/01/013119-john-of-god-cult-leader.jpg?quality=75&strip=all&w=1024",
@@ -482,11 +482,11 @@
         "source_url": "https://www.commondreams.org",
         "status_code": 200,
         "tags": [
-            "technofeudalism",
             "google",
-            "surveillance",
+            "google screenwise",
             "privacy",
-            "google screenwise"
+            "surveillance",
+            "technofeudalism"
         ],
         "thumbnail": "https://www.commondreams.org/media-library/a-new-study-detailed-how-google-tricks-regular-users-into-opting-in-to-constant-tracking-with-deceptive-ux-flows-and-default-s.png?id=32264992&width=1200&height=600&coordinates=0%2C11%2C0%2C11",
         "title": "Google Screenwise: An Unwise Trade of All Your Privacy for Cash",
@@ -514,8 +514,8 @@
         "status_code": 200,
         "tags": [
             "google",
-            "tracking",
-            "surveillance"
+            "surveillance",
+            "tracking"
         ],
         "thumbnail": "https://img.apmcdn.org/81684c5154af133d0efea1f3656f68d1de8aa01b/widescreen/95c49a-20190206-phone-locations-1.jpg",
         "title": "How did the police know you were near a crime scene? Google told them | MPR News",
@@ -542,12 +542,12 @@
         "source_url": "https://www.bloomberg.com",
         "status_code": 200,
         "tags": [
-            "technofeudalism",
             "amazon",
             "google",
-            "surveillance",
+            "privacy",
             "smart home",
-            "privacy"
+            "surveillance",
+            "technofeudalism"
         ],
         "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUML2kvQmBp0/v0/1200x661.jpg",
         "title": "Your Smart Light Can Tell Amazon and Google When You Go to Bed",
@@ -575,8 +575,8 @@
         "status_code": 200,
         "tags": [
             "apple",
-            "manufacturing consent",
-            "google"
+            "google",
+            "manufacturing consent"
         ],
         "thumbnail": "https://www.thestreet.com/.image/t_share/MTY3NTM5MzU5MzU3ODcyMDE0/google-pays-apple-a-staggering-amount-of-money-to-be-its-default-search-engine.jpg",
         "title": "Google Pays Apple a Staggering Amount of Money to Be Its Default Search Engine",
@@ -603,9 +603,9 @@
         "source_url": "next.gazeta.pl",
         "status_code": 200,
         "tags": [
-            "manufacturing consent",
+            "banking",
             "democracy",
-            "banking"
+            "manufacturing consent"
         ],
         "thumbnail": "https://bi.im-g.pl/im/b0/53/17/z24459184IER,Everything-bubble--Na-calym-swiecie-urosla-banka-s.jpg",
         "title": "Sektor finansowy ogrywa demokracj\u0119, mo\u017cemy si\u0119 obudzi\u0107 w \u015bwiecie zamieszek i rewolucji",
@@ -662,10 +662,10 @@
         "source_url": "https://arstechnica.com",
         "status_code": 200,
         "tags": [
+            "censorship",
             "manufacturing consent",
             "technofeudalism",
-            "youtube",
-            "censorship"
+            "youtube"
         ],
         "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2019/02/etienne-1152x648.png",
         "title": "Vox lawyers briefly censored YouTubers who mocked The Verge\u2019s bad PC build advice",
@@ -720,8 +720,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNye-wNBqNL5ZzHSJj3l8Bg",
         "status_code": 200,
         "tags": [
-            "sweden",
-            "chip"
+            "chip",
+            "sweden"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/dl_gemn9a9E/maxresdefault.webp",
         "title": "Sweden sees microchip implant revolution | Al Jazeera English",
@@ -749,10 +749,10 @@
         "status_code": 200,
         "tags": [
             "big brother",
-            "free speech",
             "censorship",
-            "racism",
-            "privacy"
+            "free speech",
+            "privacy",
+            "racism"
         ],
         "thumbnail": "https://i2-prod.liverpoolecho.co.uk/article15874446.ece/ALTERNATES/s1200/1_GDP_LEC_220219ChelseaRussell_003JPG.jpg",
         "title": "Lawyer slams 'ridiculous' case which saw teen prosecuted for Instagramming N-word rap lyrics - Liverpool Echo",
@@ -779,11 +779,11 @@
         "source_url": "https://www.theatlantic.com",
         "status_code": 200,
         "tags": [
-            "technofeudalism",
             "google",
-            "surveillance",
+            "privacy",
             "smart home",
-            "privacy"
+            "surveillance",
+            "technofeudalism"
         ],
         "thumbnail": "https://cdn.theatlantic.com/thumbor/YKDKnuFtP3ooEH3L2_a-iZSwC0s=/0x355:5885x3420/1200x625/media/img/mt/2019/02/_Tobias_Schwarz_AFP_Getty/original.jpg",
         "title": "The Microphones That May Be Hidden in Your Home",
@@ -810,8 +810,8 @@
         "source_url": "https://www.money.pl",
         "status_code": 200,
         "tags": [
-            "prawo i sprawiedliwo\u015b\u0107",
-            "poland"
+            "poland",
+            "prawo i sprawiedliwo\u015b\u0107"
         ],
         "thumbnail": "https://v.wpimg.pl/bHVzLmpwTSk3GDpeXwxAPHRAbgQZVU5qI1h2T19GUHhmAnxCFFkVOD8XK0MAG015Z010X0hGUnhuV35cQE5QcGZMf0JFR1JlJhY5Hl4dEi90Bw",
         "title": "500 Plus ju\u017c na pierwsze dziecko. PiS wprowadza zmiany w swoim programie. Kiedy b\u0119dzie pierwsza wyp\u0142ata? - Money.pl",
@@ -866,10 +866,10 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCz1fTbwui7o5aDZ6W1dOLTQ",
         "status_code": 200,
         "tags": [
-            "the left wing",
             "comics",
+            "movies",
             "social justice warriors",
-            "movies"
+            "the left wing"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/4JSyPIETzyo/maxresdefault.webp",
         "title": "Is ComicsGate Wrong? (Part 1) - NPC Marvel: An Era Without Heroes",
@@ -897,8 +897,8 @@
         "status_code": 200,
         "tags": [
             "facebook",
-            "privacy",
-            "meta"
+            "meta",
+            "privacy"
         ],
         "thumbnail": "https://i.guim.co.uk/img/media/509d182ed8947b91a9d6f6a7bfcfc945ed5031b4/0_24_4920_2952/master/4920.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tYWdlLTIwMTkucG5n&enable=upscale&s=c3207c2e33fad54c0f51840a124234b7",
         "title": "Revealed: Facebook\u2019s global lobbying against data privacy laws",
@@ -925,12 +925,12 @@
         "source_url": "https://www.theguardian.com",
         "status_code": 200,
         "tags": [
-            "the left wing",
-            "newspeak",
             "gender",
-            "science is dead",
+            "newspeak",
             "pronouns",
-            "social engineering"
+            "science is dead",
+            "social engineering",
+            "the left wing"
         ],
         "thumbnail": "https://i.guim.co.uk/img/media/6ebe84ea1205ae5b0f588d4f84e7bbbe677b7b55/16_579_1507_904/master/1507.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTkucG5n&enable=upscale&s=5162f23b5be9736e5a935aac60e3ccfc",
         "title": "German academics and authors call for end to 'gender nonsense' | Germany | The Guardian",
@@ -957,12 +957,12 @@
         "source_url": "https://www.cnbc.com",
         "status_code": 200,
         "tags": [
+            "biometrics",
+            "corporatocracy",
             "facial recognition",
             "privacy",
             "surveillance",
             "technofeudalism",
-            "corporatocracy",
-            "biometrics",
             "tracking"
         ],
         "thumbnail": "https://image.cnbcfm.com/api/v1/image/105779467-1551942949446gettyimages-1081366190.jpg?v=1551943227&w=1920&h=1080",
@@ -1075,8 +1075,8 @@
         "status_code": 200,
         "tags": [
             "archive",
-            "history",
-            "documentary"
+            "documentary",
+            "history"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/esBLinbJydI/maxresdefault.webp",
         "title": "The quickest way to get into a fight in a 1960s Australian pub | RetroFocus",
@@ -1103,9 +1103,9 @@
         "source_url": "https://www.theverge.com",
         "status_code": 200,
         "tags": [
-            "youtube",
             "internet",
-            "web20"
+            "web20",
+            "youtube"
         ],
         "thumbnail": "https://cdn.vox-cdn.com/thumbor/GwvhWl8vVlFC-jXyx8Fwr0vtL-E=/0x0:2040x1360/1200x628/filters:focal(994x643:995x644)/cdn.vox-cdn.com/uploads/chorus_asset/file/16009080/acastro_190320_3310_end_of_youtube_0002.jpg",
         "title": "The golden age of YouTube is over - The Verge",
@@ -1132,9 +1132,9 @@
         "source_url": "https://www.dailymail.co.uk",
         "status_code": 200,
         "tags": [
-            "the left wing",
-            "lgbt",
             "family",
+            "lgbt",
+            "the left wing",
             "transgender"
         ],
         "thumbnail": "https://i.dailymail.co.uk/1s/2019/04/08/01/11984804-0-image-a-75_1554683170612.jpg",
@@ -1162,10 +1162,10 @@
         "source_url": "https://www.nytimes.com",
         "status_code": 403,
         "tags": [
-            "nxivm",
+            "allison mack",
             "cult",
-            "sect",
-            "allison mack"
+            "nxivm",
+            "sect"
         ],
         "thumbnail": "https://static01.nyt.com/images/2019/04/09/nyregion/09sexcult-print/08sexcult02-facebookJumbo.jpg?year=2019&h=549&w=1050&s=441146fce8d611a83832aa2260c6f4cad0fbd34bc0b9f09b01ea2c1c578f5bc2&k=ZQJBKqZ0VN",
         "title": "Allison Mack of \u2018Smallville\u2019 Pleads Guilty in Case of Nxivm \u2018Sex Cult\u2019 Where Women Were Branded - The New York Times",
@@ -1192,8 +1192,8 @@
         "source_url": "https://rollcall.com",
         "status_code": 200,
         "tags": [
-            "privacy",
             "electric vehicles",
+            "privacy",
             "surveillance"
         ],
         "thumbnail": "https://www.rollcall.com/?p=725546",
@@ -1252,8 +1252,8 @@
         "tags": [
             "corporatocracy",
             "google",
-            "tracking",
-            "surveillance"
+            "surveillance",
+            "tracking"
         ],
         "thumbnail": "https://static01.nyt.com/images/2019/04/11/obituaries/archives/00warrants-704/00warrants-704-facebookJumbo-v2.jpg?year=2019&h=550&w=1050&s=4ab90ed2e63cdf0de3a155f1fd969b84ca4450227060b817322493dae1aa781a&k=ZQJBKqZ0VN",
         "title": "Tracking Phones, Google Is a Dragnet for the Police - The New York Times",
@@ -1307,10 +1307,10 @@
         "source_url": "https://blog.collegevine.com",
         "status_code": 200,
         "tags": [
-            "the left wing",
-            "indoctrination",
             "gender",
+            "indoctrination",
             "science is dead",
+            "the left wing",
             "universities"
         ],
         "thumbnail": "https://blog.collegevine.com/wp-content/uploads/2019/04/why-you-shuldnt-major-in-gender-studies-1-150x150.jpg",
@@ -1366,9 +1366,9 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCugBxjk93tr6rW9bKXJSeQg",
         "status_code": 500,
         "tags": [
-            "inequality",
+            "feminism",
             "gender",
-            "feminism"
+            "inequality"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/y_Z1LClnhsk/maxresdefault.webp",
         "title": "Giorgia Meloni's electrifying speech at the World Congress of Families, English subtitles",
@@ -1452,8 +1452,8 @@
         "status_code": 200,
         "tags": [
             "internet",
-            "surveillance",
-            "privacy"
+            "privacy",
+            "surveillance"
         ],
         "thumbnail": "https://media.newyorker.com/photos/5cc0bd2cd8527f31de9666c3/16:9/w_1280,c_limit/Halpern-5G.jpg",
         "title": "The Terrifying Potential of the 5G Network",
@@ -1535,11 +1535,11 @@
         "status_code": 600,
         "tags": [
             "canada",
-            "lgbt",
             "children",
             "indoctrination",
-            "the left wing",
-            "sexualization"
+            "lgbt",
+            "sexualization",
+            "the left wing"
         ],
         "thumbnail": "https://thebridgehead.ca/wp-content/uploads/2019/04/drag-scaled.jpeg",
         "title": "Pre-teen \u201cDrag Kids\u201d highlight just how fast our culture has crumbled",
@@ -1567,8 +1567,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnxGkOGNMqQEUMvroOWps6Q",
         "status_code": 200,
         "tags": [
-            "homelessness",
-            "america"
+            "america",
+            "homelessness"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/CJU1bQ4Pq6Q/maxresdefault.webp",
         "title": "Joe Rogan | What is Going on with the Homeless in LA?",
@@ -1622,10 +1622,10 @@
         "source_url": "https://www.brusselstimes.com",
         "status_code": 200,
         "tags": [
-            "propaganda",
             "covid",
-            "swine flu",
-            "fearmongering"
+            "fearmongering",
+            "propaganda",
+            "swine flu"
         ],
         "thumbnail": null,
         "title": "'How to sell an epidemic': a Marc Van Ranst conspiracy theory, explained",
@@ -1652,11 +1652,11 @@
         "source_url": "https://www.nytimes.com",
         "status_code": 604,
         "tags": [
-            "sundar pichai",
-            "surveillance",
-            "google",
             "anonymity",
-            "privacy"
+            "google",
+            "privacy",
+            "sundar pichai",
+            "surveillance"
         ],
         "thumbnail": "https://static01.nyt.com/images/2019/05/10/opinion/sunday/07Pichai/07Pichai-facebookJumbo.jpg?year=2019&h=550&w=1050&s=2851240143af66c8a01f69816a87f6e4cab2d233c8afcda4d397b55a41f746ce&k=ZQJBKqZ0VN",
         "title": "Opinion | Google\u2019s Sundar Pichai: Privacy Should Not Be a Luxury Good - The New York Times",
@@ -1710,11 +1710,11 @@
         "source_url": "https://arstechnica.com",
         "status_code": 200,
         "tags": [
+            "hackers",
+            "nsa",
             "shadow brokers",
             "surveillance",
-            "vulnerability",
-            "nsa",
-            "hackers"
+            "vulnerability"
         ],
         "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2019/05/nsa-headquarters-1000x648.jpg",
         "title": "Stolen NSA hacking tools were used in the wild 14 months before Shadow Brokers leak | Ars Technica",
@@ -1741,10 +1741,10 @@
         "source_url": "https://www.efront.com",
         "status_code": 200,
         "tags": [
-            "artificial intelligence",
-            "efront",
             "aladdin",
-            "blackrock"
+            "artificial intelligence",
+            "blackrock",
+            "efront"
         ],
         "thumbnail": "https://www.efront.com/efront-c-assets/include/common/images/blackrock_logo.png",
         "title": "BlackRock Completes Acquisition of eFront | eFront",
@@ -1771,12 +1771,12 @@
         "source_url": "https://www.cnbc.com",
         "status_code": 200,
         "tags": [
-            "technofeudalism",
-            "google",
-            "surveillance",
+            "anonymity",
             "gmail",
+            "google",
             "privacy",
-            "anonymity"
+            "surveillance",
+            "technofeudalism"
         ],
         "thumbnail": "https://image.cnbcfm.com/api/v1/image/105621779-1544565379218pichai.jpg?v=1558107434&w=1920&h=1080",
         "title": "Google uses Gmail to track a history of things you buy \u2014 and it's hard to delete",
@@ -1830,8 +1830,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzoMKoGaZXlfLhRkYIOpYlA",
         "status_code": 200,
         "tags": [
-            "music",
-            "chiptune"
+            "chiptune",
+            "music"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/4YHo62RVbj8/maxresdefault.webp",
         "title": "Full Contact Longplay (Amiga) [4K]",
@@ -1858,8 +1858,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsooa4yRKGN_zEE8iknghZA",
         "status_code": 200,
         "tags": [
-            "master and margarita",
-            "book"
+            "book",
+            "master and margarita"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/miNBicrLiXo/maxresdefault.webp",
         "title": "Why should you read \u201cThe Master and Margarita\u201d? - Alex Gendler",
@@ -1918,8 +1918,8 @@
         "status_code": 200,
         "tags": [
             "catholic",
-            "religion",
-            "church scandal"
+            "church scandal",
+            "religion"
         ],
         "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/190222114848-01-clerical-abuse-survivors-vigil-0221.jpg?q=x_3,y_248,h_1377,w_2447,c_crop/w_800",
         "title": "US Catholic Church spent $300 million on abuse-related costs in 12 months",
@@ -1946,9 +1946,9 @@
         "source_url": "https://www.fastcompany.com",
         "status_code": 403,
         "tags": [
+            "carbon limit",
             "cbdc",
-            "technofeudalism",
-            "carbon limit"
+            "technofeudalism"
         ],
         "thumbnail": "https://images.fastcompany.com/image/upload/f_auto,q_auto,c_fit/wp-cms/uploads/2019/05/p-1-90344150-this-credit-card-wonand8217t-let-you-buy-anything-else-after-youand8217ve-hit-your-annual-carbon-limit.jpg",
         "title": "The Do Black card has a carbon emissions limit",
@@ -1975,8 +1975,8 @@
         "source_url": "https://arstechnica.com",
         "status_code": 200,
         "tags": [
-            "youtube",
-            "censorship"
+            "censorship",
+            "youtube"
         ],
         "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2017/09/youtubemp3story-1024x648.jpg",
         "title": "YouTube\u2019s anti-extremism crackdown targets journalist who documents extremism",
@@ -2003,8 +2003,8 @@
         "source_url": "https://www.economist.com",
         "status_code": 200,
         "tags": [
-            "search engines",
-            "algorithms"
+            "algorithms",
+            "search engines"
         ],
         "thumbnail": "https://www.economist.com/img/b/1280/720/90/sites/default/files/20190608_GDP301.jpg",
         "title": "Google rewards reputable reporting, not left-wing politics | The Economist",
@@ -2032,8 +2032,8 @@
         "status_code": 200,
         "tags": [
             "censorship",
-            "newspeak",
-            "facebook"
+            "facebook",
+            "newspeak"
         ],
         "thumbnail": null,
         "title": "Report: Facebook Bans The Word \u201cHonk\u201d",
@@ -2119,9 +2119,9 @@
         "source_url": "http://rss.cnn.com/rss/edition.rss",
         "status_code": 200,
         "tags": [
-            "the left wing",
+            "social engineering",
             "stereotypes",
-            "social engineering"
+            "the left wing"
         ],
         "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/181214101743-gender-stereotype-ad-ban-gbr-scli-intl.jpg?q=x_3,y_0,h_1570,w_2790,c_crop/w_800",
         "title": "Sexist commercials now banned in UK",
@@ -2148,8 +2148,8 @@
         "source_url": "https://www.breitbart.com",
         "status_code": 200,
         "tags": [
-            "the left wing",
-            "go woke go broke"
+            "go woke go broke",
+            "the left wing"
         ],
         "thumbnail": "https://media.breitbart.com/media/2019/06/MV5BNmJmZmFiYzQtZGZiYi00ZThmLTgwOTktNjJmZjYyZDVmYmJlXkEyXkFqcGdeQXVyNjg2NjQwMDQ@-640x480-1-640x335.jpg",
         "title": "'Men in Black: International' Review: Another Franchise Bites the Woke-Dust",
@@ -2176,8 +2176,8 @@
         "source_url": "https://spectrum.ieee.org",
         "status_code": 200,
         "tags": [
-            "privacy",
             "electric vehicles",
+            "privacy",
             "surveillance"
         ],
         "thumbnail": "https://spectrum.ieee.org/media-library/image-of-a-gm-dashboard-with-different-food-and-drink-ordering-options.jpg?id=25589062&width=1200&height=600&coordinates=0%2C63%2C0%2C63",
@@ -2205,8 +2205,8 @@
         "source_url": "https://theconversation.com",
         "status_code": 200,
         "tags": [
-            "antitrust",
             "amazon",
+            "antitrust",
             "facebook",
             "google"
         ],
@@ -2235,9 +2235,9 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4-AGCUwX7C-D4BsBook9fQ",
         "status_code": 200,
         "tags": [
+            "gender",
             "lgbt",
             "the left wing",
-            "gender",
             "transgender"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/J0a0fllObFk/maxresdefault.webp",
@@ -2265,11 +2265,11 @@
         "source_url": "https://www.cnbc.com",
         "status_code": 200,
         "tags": [
-            "technofeudalism",
+            "anonymity",
             "google",
-            "surveillance",
             "privacy",
-            "anonymity"
+            "surveillance",
+            "technofeudalism"
         ],
         "thumbnail": "https://image.cnbcfm.com/api/v1/image/105898170-1557256964500sundar-google-ipo.jpg?v=1557257008&w=1920&h=1080",
         "title": "Google still keeps a list of everything you ever bought using Gmail, even if you delete all your emails",
@@ -2376,9 +2376,9 @@
         "source_url": "https://nymag.com",
         "status_code": 200,
         "tags": [
+            "billionairs",
             "elites",
-            "jeffrey epstein",
-            "billionairs"
+            "jeffrey epstein"
         ],
         "thumbnail": "https://pyxis.nymag.com/v1/imgs/bb7/73d/4fc804015bf707f6bf1c960f228059a9ad-12-jeffrey-epstein.1x.rsocial.w1200.jpg",
         "title": "Everything We Know About the Sex Crimes Case Against Jeffrey Epstein",
@@ -2432,8 +2432,8 @@
         "source_url": "https://nymag.com",
         "status_code": 200,
         "tags": [
-            "qanon",
-            "jeffrey epstein"
+            "jeffrey epstein",
+            "qanon"
         ],
         "thumbnail": "https://pyxis.nymag.com/v1/imgs/6ef/837/8e7b5b5f1cd252daf9e247787db3430f71-19-qanon.1x.rsocial.w1200.jpg",
         "title": "So Was QAnon \u2026 Right?",
@@ -2491,9 +2491,9 @@
         "status_code": 200,
         "tags": [
             "billionaires",
+            "eyes wide shut",
             "jeffrey epstein",
-            "kubrick",
-            "eyes wide shut"
+            "kubrick"
         ],
         "thumbnail": "https://d.newsweek.com/en/full/1511972/kubrick-eyes-wide-shut-epstein.jpg",
         "title": "In 'Eyes Wide Shut' Stanley Kubrick Captured Horrors of Jeffrey Epstein Era",
@@ -2520,9 +2520,9 @@
         "source_url": "https://www.bbc.com",
         "status_code": 200,
         "tags": [
-            "instagram",
-            "dead internet",
             "celebrity",
+            "dead internet",
+            "instagram",
             "social media"
         ],
         "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/C52A/production/_107847405_influencers976.jpg",
@@ -2552,8 +2552,8 @@
         "status_code": 200,
         "tags": [
             "it",
-            "programming",
-            "managment"
+            "managment",
+            "programming"
         ],
         "thumbnail": "https://i.ytimg.com/vi/NglDal-ycjU/sddefault.jpg?v=5d2e8960",
         "title": "Why you should stop working so hard.",
@@ -2580,12 +2580,12 @@
         "source_url": "https://wiadomosci.dziennik.pl",
         "status_code": 200,
         "tags": [
-            "propaganda",
-            "lgbt",
-            "sexualization",
-            "the left wing",
             "children",
-            "indoctrination"
+            "indoctrination",
+            "lgbt",
+            "propaganda",
+            "sexualization",
+            "the left wing"
         ],
         "thumbnail": "https://ocdn.eu/pulscms-transforms/1/yblk9kuTURBXy85MzJlYjYzOS02ZTg5LTRjZDMtYWJmYi1lMGQ0MjkxNjhjNzMuanBlZ5GVAs0EsADDw94AAaEwBQ",
         "title": "Akcja \"\u017bywa Ksi\u0105\u017cka\" budzi sprzeciw Ordo Iuris. \"Pod pozorem lekcji tolerancji oswaja si\u0119 ludzi z agend\u0105 LGBT\"",
@@ -2639,9 +2639,9 @@
         "source_url": "https://thefederalist.com",
         "status_code": 200,
         "tags": [
+            "children",
             "indoctrination",
-            "lgbt",
-            "children"
+            "lgbt"
         ],
         "thumbnail": "https://thefederalist.com/wp-content/uploads/2019/07/dragqueenstoryhour7.22.jpg",
         "title": "Public Library Deletes Pictures Of Drag Queens Fondling Children At Story Hour",
@@ -2669,10 +2669,10 @@
         "status_code": 200,
         "tags": [
             "corporatocracy",
+            "google",
             "law",
-            "surveillance",
             "privacy",
-            "google"
+            "surveillance"
         ],
         "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/190722135046-google-street-view-car-restricted.jpg?q=x_3,y_257,h_1636,w_2907,c_crop/w_800",
         "title": "Google privacy lawsuit: Tech giant to pay $13 million over Street View data collection | CNN Business",
@@ -2700,8 +2700,8 @@
         "status_code": 200,
         "tags": [
             "ben shapiro",
-            "science",
-            "climate change"
+            "climate change",
+            "science"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/wRk1p8Lzwvo/maxresdefault.webp",
         "title": "Ben Shapiro Vs Climate Change | UBC Talk",
@@ -2728,8 +2728,8 @@
         "source_url": "https://www.nytimes.com",
         "status_code": 200,
         "tags": [
-            "transhumanism",
-            "jeffrey epstein"
+            "jeffrey epstein",
+            "transhumanism"
         ],
         "thumbnail": "https://static01.nyt.com/images/2019/08/04/business/04conversation/31epsteinbabyfarm2-facebookJumbo.jpg?year=2019&h=549&w=1050&s=194099f956bbafc94c3b1204f0cf90935440ec97f7271b289102f25c79072d14&k=ZQJBKqZ0VN",
         "title": "Jeffrey Epstein Hoped to Seed Human Race With His DNA (Published 2019)",
@@ -2783,10 +2783,10 @@
         "source_url": "https://www.f5.com",
         "status_code": 200,
         "tags": [
-            "privacy",
-            "surveillance",
+            "crypto wars",
             "kazakhstan",
-            "crypto wars"
+            "privacy",
+            "surveillance"
         ],
         "thumbnail": "https://www.f5.com/content/dam/f5-labs-v2/global-configuration/metatags/F5_Default_SocialShare.jpg",
         "title": "Kazakhstan Attempts to MITM Its Citizens",
@@ -2813,12 +2813,12 @@
         "source_url": "https://www.ccn.com",
         "status_code": 403,
         "tags": [
+            "algorithms",
+            "big tech",
+            "dead internet",
             "manufacturing consent",
             "media bias",
-            "algorithms",
-            "search engines",
-            "big tech",
-            "dead internet"
+            "search engines"
         ],
         "thumbnail": "https://www.ccn.com/wp-content/uploads/2019/08/Google-NTB.jpg",
         "title": "Google Manipulates Search Results, Former Engineer Shockingly Confirms",
@@ -2901,10 +2901,10 @@
         "source_url": "https://www.theguardian.com/rss",
         "status_code": 200,
         "tags": [
-            "free speech",
-            "surveillance",
             "censorship",
-            "privacy"
+            "free speech",
+            "privacy",
+            "surveillance"
         ],
         "thumbnail": "https://i.guim.co.uk/img/media/e227e7a02c7a499b43e4058c0e55c2634c593d3f/0_377_5657_3394/master/5657.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTkucG5n&enable=upscale&s=eefcf31d6f9c26ce4d134e300c493163",
         "title": "Free speech and privacy on the wane across the world",
@@ -3040,8 +3040,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCor9rW6PgxSQ9vUPWQdnaYQ",
         "status_code": 200,
         "tags": [
-            "jagerstatter",
             "example",
+            "jagerstatter",
             "warld war 2"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/qJXmdY4lVR0/maxresdefault.webp",
@@ -3154,8 +3154,8 @@
         "source_url": "http://rss.cnn.com/rss/edition.rss",
         "status_code": 200,
         "tags": [
-            "the left wing",
-            "social engineering"
+            "social engineering",
+            "the left wing"
         ],
         "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/190814102627-02-volkswagen-uk-ad-banned-grab.jpg?q=x_2,y_92,h_898,w_1596,c_crop/w_800",
         "title": "Volkswagen and Philadelphia ads banned for gender stereotypes",
@@ -3182,10 +3182,10 @@
         "source_url": "https://nypost.com",
         "status_code": 200,
         "tags": [
-            "paedophilia",
+            "island",
             "jeffrey epstein",
-            "secret societies",
-            "island"
+            "paedophilia",
+            "secret societies"
         ],
         "thumbnail": "https://nypost.com/wp-content/uploads/sites/2/2019/08/190815-pedophile-island-07.jpg?quality=90&strip=all&w=1024",
         "title": "Haunting photos show Jeffrey Epstein\u2019s \u2018Pedophile Island\u2019 in the Caribbean",
@@ -3213,12 +3213,12 @@
         "source_url": "https://www.theguardian.com/rss",
         "status_code": 200,
         "tags": [
-            "england",
-            "privacy",
-            "biometric",
-            "facial recognition",
-            "corporatocracy",
             "big brother",
+            "biometric",
+            "corporatocracy",
+            "england",
+            "facial recognition",
+            "privacy",
             "surveillance"
         ],
         "thumbnail": "https://i.guim.co.uk/img/media/3ce3b796da0f314296cb03ab3d7009308f56f687/0_159_3919_2352/master/3919.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTkucG5n&enable=upscale&s=369664e41acd5388e655f280932cecf2",
@@ -3246,8 +3246,8 @@
         "source_url": "https://ottawa.ctvnews.ca",
         "status_code": 200,
         "tags": [
-            "satanic temple",
-            "black mass"
+            "black mass",
+            "satanic temple"
         ],
         "thumbnail": "https://www.ctvnews.ca/polopoly_fs/1.4554736.1566142587!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg",
         "title": "Ottawa's first 'Black Mass' has protesters seeing red | CTV News",
@@ -3274,9 +3274,9 @@
         "source_url": "https://www.thetimes.co.uk",
         "status_code": 200,
         "tags": [
+            "climate change",
             "corporatocracy",
-            "greta thunberg",
-            "climate change"
+            "greta thunberg"
         ],
         "thumbnail": "https://www.thetimes.com/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2Fb4778336-c050-11e9-9c7a-44d1639b233d.jpg?crop=2667%2C1500%2C0%2C0&resize=1200",
         "title": "Greta Thunberg and the plot to forge a climate warrior",
@@ -3303,9 +3303,9 @@
         "source_url": "http://www.strefax.info",
         "status_code": 200,
         "tags": [
+            "climate change",
             "corporatocracy",
-            "greta thunberg",
-            "climate change"
+            "greta thunberg"
         ],
         "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPRHsa_-QQlHLj5K8lWL8bochfNyp8N4ezE5jk8xZgdd91_a8Ol7Mtm5mL1wXEx_utf1lu-GCtMzaLOlFVil_Zf3AJdt_8kAJfW9re_AGiNmtuTgNRbSQF4baBLOwxBprGKuwIr4bACos/w1200-h630-p-k-no-nu/greta+klaus.jpg",
         "title": "V\u00e1clav Klaus o Grecie Thunberg: \"To ca\u0142kowite szale\u0144stwo naszych czas\u00f3w!\"",
@@ -3332,9 +3332,9 @@
         "source_url": "https://energetyka24.com",
         "status_code": 200,
         "tags": [
+            "climate change",
             "corporatocracy",
-            "greta thunberg",
-            "climate change"
+            "greta thunberg"
         ],
         "thumbnail": "https://cdn.defence24.pl/2019/08/20/1920xpx/pwjhj6-zrzutekranu20190820o16.27.55.png",
         "title": "Oskar\u017cenia pod adresem Grety Thunberg. \u201eStoj\u0105 za ni\u0105 PR-owcy i koncerny\u201d",
@@ -3390,9 +3390,9 @@
         "source_url": "https://www.thegatewaypundit.com",
         "status_code": 200,
         "tags": [
+            "gillette",
             "go woke go broke",
-            "the left wing",
-            "gillette"
+            "the left wing"
         ],
         "thumbnail": "https://www.thegatewaypundit.com/wp-content/uploads/gillette-ad-disaster-.jpg",
         "title": "Get Woke Go Broke: Gillette Backflips After $12 Billion Toxic Masculinity Disaster \u2014 Hopes to Lure Sexist Pigs Back with New Ad Campaign",
@@ -3500,13 +3500,13 @@
         "source_url": "www.geekweek.pl",
         "status_code": 200,
         "tags": [
-            "biometric",
-            "facial recognition",
-            "corporatocracy",
             "big brother",
-            "surveillance",
+            "biometric",
+            "corporatocracy",
+            "facial recognition",
+            "france",
             "government control",
-            "france"
+            "surveillance"
         ],
         "thumbnail": "https://i.iplsc.com/-/000D87NDM72RMWLD-C461-F4.jpg",
         "title": "Francja pierwszym krajem w Europie, kt\u00f3ry wprowadzi system masowej inwigilacji ludzi",
@@ -3533,10 +3533,10 @@
         "source_url": "https://pluralist.com",
         "status_code": 200,
         "tags": [
+            "climate change",
             "climate drama",
             "corporatocracy",
-            "greta thunberg",
-            "climate change"
+            "greta thunberg"
         ],
         "thumbnail": "https://pluralist.com/wp-content/uploads/2019/09/collage-1.jpg",
         "title": "SWEDISH PR GURU RAISED MILLIONS BY HELPING MAKE GRETA THUNBERG A CLIMATE CELEBRITY",
@@ -3620,8 +3620,8 @@
         "source_url": "https://dorzeczy.pl",
         "status_code": 200,
         "tags": [
-            "legacy media",
-            "axel springer"
+            "axel springer",
+            "legacy media"
         ],
         "thumbnail": "https://img.dorzeczy.pl/img/axel-springer-w-rekach-amerykanow-miliarder-kupil-akcje/af/7e/1f1da2ff6ed97ce3abab5dcd8a30.jpeg",
         "title": "Axel Springer w r\u0119kach Amerykan\u00f3w. Miliarder kupi\u0142 akcje",
@@ -3648,8 +3648,8 @@
         "source_url": "https://www.cio.com",
         "status_code": 200,
         "tags": [
-            "tesla",
-            "technofeudalism"
+            "technofeudalism",
+            "tesla"
         ],
         "thumbnail": "https://www.cio.com/wp-content/uploads/2023/05/vid-still-43-of-82-100714248-orig.jpg?quality=50&strip=all&w=1024",
         "title": "Tesla, the data company",
@@ -3676,8 +3676,8 @@
         "source_url": "https://www.rp.pl",
         "status_code": 200,
         "tags": [
-            "socialism",
             "feminism",
+            "socialism",
             "spain"
         ],
         "thumbnail": "https://i.gremicdn.pl/image/free/973f17bf990b95348c80baf45cd91c2e/?t=resize:fill:1200:750,enlarge:1",
@@ -3733,8 +3733,8 @@
         "source_url": "https://teologiapolityczna.pl",
         "status_code": 200,
         "tags": [
-            "spain",
-            "feminism"
+            "feminism",
+            "spain"
         ],
         "thumbnail": "https://teologiapolityczna.pl/assets/cms/ContentImage/2019/Feministki-strajk-Hiszpania-2018.jpg",
         "title": "Ma\u0142gorzata Wo\u0142czyk: Orwell w Hiszpanii, czyli jak Zapatero urz\u0105dzi\u0142 Hiszpan\u00f3w",
@@ -3761,8 +3761,8 @@
         "source_url": "https://dropbox.tech",
         "status_code": 200,
         "tags": [
-            "python",
-            "programming"
+            "programming",
+            "python"
         ],
         "thumbnail": "https://aem.dropbox.com/cms/content/dam/dropbox/tech-blog/en-us/application/dropbox-tech-application-1-1200-628.png",
         "title": "Our journey to type checking 4 million lines of Python",
@@ -3819,8 +3819,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpPndhUatYo4NLn3fleQ2Fw",
         "status_code": 200,
         "tags": [
-            "programming",
-            "funny"
+            "funny",
+            "programming"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/_q-l6Cn6WxY/maxresdefault.webp",
         "title": "\u017bywot programisty",
@@ -3903,9 +3903,9 @@
         "source_url": "https://www.washingtonpost.com",
         "status_code": 200,
         "tags": [
-            "elite",
-            "council on foreign relations",
             "billionaires",
+            "council on foreign relations",
+            "elite",
             "jeffrey epstein"
         ],
         "thumbnail": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MHOWYVWUA4I6TCJEDW35VR4X7M.jpg&w=1440",
@@ -3960,10 +3960,10 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaXkIU1QidjPwiAYu6GcHjg",
         "status_code": 200,
         "tags": [
-            "privacy",
             "democracy",
-            "surveillance",
-            "edward snowden"
+            "edward snowden",
+            "privacy",
+            "surveillance"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/e9yK1QndJSM/maxresdefault.webp",
         "title": "Full Interview: Edward Snowden On Trump, Privacy, And Threats To Democracy | The 11th Hour | MSNBC",
@@ -4018,8 +4018,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwWhs_6x42TyRM4Wstoq8HA",
         "status_code": 200,
         "tags": [
-            "privacy",
             "edward snowden",
+            "privacy",
             "surveillance"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/PArFP7ZJrtg/maxresdefault.webp",
@@ -4076,8 +4076,8 @@
         "status_code": 200,
         "tags": [
             "edward snowden",
-            "privacy",
-            "internet"
+            "internet",
+            "privacy"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/f7_IX9NtjnI/maxresdefault.webp",
         "title": "Efekt Snowdena - czy nasza prywatno\u015b\u0107 w Internecie JEST BEZPIECZNA? [TOPOWA DYCHA]",
@@ -4104,9 +4104,9 @@
         "source_url": "https://greenjihad.com",
         "status_code": 200,
         "tags": [
+            "climate change",
             "corporatocracy",
-            "greta thunberg",
-            "climate change"
+            "greta thunberg"
         ],
         "thumbnail": "https://greenjihad.com/wp-content/uploads/2019/04/1280px-greta_thunberg_02.jpg?w=1200",
         "title": "The Green Swindlers Behind Greta Thunberg",
@@ -4134,8 +4134,8 @@
         "status_code": 200,
         "tags": [
             "games",
-            "work",
-            "programming"
+            "programming",
+            "work"
         ],
         "thumbnail": "https://assets.weforum.org/editor/mr1IdvAQecDD6StwqhITjoSgLuXNwJwC1LocOljFchA.png",
         "title": "Playing more video games could increase creative thinking at work",
@@ -4164,8 +4164,8 @@
         "tags": [
             "america",
             "catholic",
-            "religion",
-            "church scandal"
+            "church scandal",
+            "religion"
         ],
         "thumbnail": "https://www.irishcentral.com/static/IC-default-800x500-2022.jpg?t=1569837207",
         "title": "Who is Bishop McCarrick and what are his crimes?",
@@ -4220,8 +4220,8 @@
         "source_url": "http://www.silaojca.pl",
         "status_code": 600,
         "tags": [
-            "fatherlessness",
-            "family"
+            "family",
+            "fatherlessness"
         ],
         "thumbnail": null,
         "title": "W jakim stopniu brak ojca wp\u0142ywa na \u017cycie dziecka?",
@@ -4249,8 +4249,8 @@
         "status_code": 200,
         "tags": [
             "billionaires",
-            "jeffrey epstein",
-            "eyes wide shut"
+            "eyes wide shut",
+            "jeffrey epstein"
         ],
         "thumbnail": "https://lawliberty.org/app/uploads/2020/01/Eyes-Wide-Shut-e1567623170942.png",
         "title": "Eyes Wide Shut and the Moral Bankruptcy of the American Elite",
@@ -4278,10 +4278,10 @@
         "source_url": "https://www.theguardian.com/rss",
         "status_code": 200,
         "tags": [
-            "biometric",
-            "facial recognition",
-            "corporatocracy",
             "big brother",
+            "biometric",
+            "corporatocracy",
+            "facial recognition",
             "surveillance"
         ],
         "thumbnail": "https://i.guim.co.uk/img/media/427eba032c802d24a098f373e025f305a7faf711/0_2163_7677_4606/master/7677.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTkucG5n&enable=upscale&s=d0e5e59b410e1f1ddd28c3fce5b04e1c",
@@ -4309,8 +4309,8 @@
         "source_url": "https://bigthink.com",
         "status_code": 200,
         "tags": [
-            "nazi",
             "himmler",
+            "nazi",
             "occult"
         ],
         "thumbnail": "https://bigthink.com/wp-content/uploads/2019/10/origin-117.jpg?resize=1200,630",
@@ -4338,8 +4338,8 @@
         "source_url": "https://www.pewresearch.org",
         "status_code": 200,
         "tags": [
-            "usa",
-            "socialism"
+            "socialism",
+            "usa"
         ],
         "thumbnail": "https://www.pewresearch.org/wp-content/uploads/sites/20/2019/10/PP_2019.09.25_socialism-capitalism_featured.png?w=1200&h=628&crop=1",
         "title": "Americans\u2019 Views of \u2018Socialism\u2019 and \u2018Capitalism\u2019 In Their Own Words | Pew Research Center",
@@ -4366,8 +4366,8 @@
         "source_url": "https://www.vox.com",
         "status_code": 200,
         "tags": [
-            "censorship",
             "blizzard",
+            "censorship",
             "china"
         ],
         "thumbnail": "https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19269825/Screen_Shot_2019_10_08_at_11.32.36_AM.png?quality=90&strip=all&crop=0%2C10.549102993588%2C100%2C78.901794012825&w=1200",
@@ -4395,10 +4395,10 @@
         "source_url": "https://www.buzzfeednews.com",
         "status_code": 406,
         "tags": [
-            "lie",
             "billionaires",
+            "elites",
             "elon musk",
-            "elites"
+            "lie"
         ],
         "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2019-10/8/3/asset/2134265a753e/sub-buzz-2192-1570505506-1.jpg?crop=1800:942;0,129%26downsize=1250:*",
         "title": "The Cave Rescuer Suing Elon Musk Claims The Tesla CEO Fabricated Pedophilia Claims Against Him",
@@ -4426,12 +4426,12 @@
         "source_url": "https://www.theguardian.com/rss",
         "status_code": 200,
         "tags": [
-            "technofeudalism",
+            "big tech",
             "iot",
-            "surveillance",
             "privacy",
-            "voice assistant",
-            "big tech"
+            "surveillance",
+            "technofeudalism",
+            "voice assistant"
         ],
         "thumbnail": "https://i.guim.co.uk/img/uploads/2019/10/08/Ear-At-The-Door-(Web).jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTkucG5n&enable=upscale&s=5f8f78e18c83c5653a853498d80b8a14",
         "title": "'Alexa, are you invading my privacy?' \u2013 the dark side of our voice assistants",
@@ -4487,8 +4487,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtCTSf3UwRU14nYWr_xm-dQ",
         "status_code": 200,
         "tags": [
-            "movies",
-            "joker"
+            "joker",
+            "movies"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/H74BbcTs6xs/maxresdefault.webp",
         "title": "How The Joker Smashes Our Political Narratives",
@@ -4515,9 +4515,9 @@
         "source_url": "https://www.theverge.com",
         "status_code": 200,
         "tags": [
-            "google",
             "censorship",
             "china",
+            "google",
             "hong kong"
         ],
         "thumbnail": "https://cdn.vox-cdn.com/thumbor/FOc_SXYZCuPbJjjOPSfNv3cKsys=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/10801247/acastro_180508_1777_google_IO_0001.jpg",
@@ -4547,9 +4547,9 @@
         "tags": [
             "big brother",
             "fbi",
-            "surveillance",
             "nsa",
-            "privacy"
+            "privacy",
+            "surveillance"
         ],
         "thumbnail": "https://theintercept.com/wp-content/uploads/2019/10/illo-16-1570662019.png?fit=3001%2C1501&w=1200&h=800",
         "title": "NSA: A Declassified Court Ruling Shows How the FBI Abused NSA Mass Surveillance Data",
@@ -4576,8 +4576,8 @@
         "source_url": "https://www.nytimes.com",
         "status_code": 200,
         "tags": [
-            "jeffrey epstein",
-            "bill gates"
+            "bill gates",
+            "jeffrey epstein"
         ],
         "thumbnail": "https://static01.nyt.com/images/2019/10/08/business/00epgates1/00epgates1-facebookJumbo-v3.jpg?year=2019&h=550&w=1050&s=7f1845fea075160f7e5d7e3d448f8f4c47645f62eb12658646df3267c22d76c7&k=ZQJBKqZ0VN",
         "title": "Bill Gates Met With Jeffrey Epstein Many Times, Despite His Past - The New York Times",
@@ -4605,9 +4605,9 @@
         "source_url": "https://www.theguardian.com/rss",
         "status_code": 200,
         "tags": [
+            "biometric",
             "india",
-            "technofeudalism",
-            "biometric"
+            "technofeudalism"
         ],
         "thumbnail": "https://i.guim.co.uk/img/media/33f61829ef42adaa9eaaac2d64ecdc80186ebe14/0_187_3500_2099/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTkucG5n&enable=upscale&s=dd11939127f5de8b7ec27d8f56f5e1a7",
         "title": "How a glitch in India's biometric welfare system can be lethal",
@@ -4634,10 +4634,10 @@
         "source_url": "https://www.centerforhealthsecurity.org",
         "status_code": 200,
         "tags": [
-            "covid",
             "bill gates",
-            "pandemic",
-            "event 201"
+            "covid",
+            "event 201",
+            "pandemic"
         ],
         "thumbnail": "https://centerforhealthsecurity.org/sites/default/files/styles/social_image/public/2023-04/banner-event201.jpg?itok=_u1SyXmG",
         "title": "Event 201, a pandemic exercise to illustrate preparedness efforts",
@@ -4664,9 +4664,9 @@
         "source_url": "",
         "status_code": 200,
         "tags": [
+            "hunter biden",
             "joe biden",
-            "ukraine",
-            "hunter biden"
+            "ukraine"
         ],
         "thumbnail": "https://www.reuters.com/resizer/v2/https%3A%2F%2Farchive-images.prod.global.a201836.reutersmedia.net%2F2019%2F10%2F18%2FLYNXMPEF9H1EZ.JPG?auth=3614c05e05ec3ad05874c99119b51e9a221774ef6edcdbb9831c52b42e167125&height=1005&width=1920&quality=80&smart=true",
         "title": "What Hunter Biden did on the board of Ukrainian energy company Burisma",
@@ -4693,9 +4693,9 @@
         "source_url": "https://cyfrowa.rp.pl",
         "status_code": 200,
         "tags": [
+            "big brother",
             "fbi",
             "surveillance",
-            "big brother",
             "technofeudalism"
         ],
         "thumbnail": "https://i.gremicdn.pl/image/free/db53ce6b7f0588a67a430ddf5fb7b5e2/?t=resize:fill:1200:750,enlarge:1",
@@ -4723,9 +4723,9 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCB4x7sPXy30bRblHS9QNEQQ",
         "status_code": 200,
         "tags": [
-            "surveillance",
             "privacy",
-            "smart city"
+            "smart city",
+            "surveillance"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/VRRPy-yEKRM/maxresdefault.webp",
         "title": "Smart City: How do you live in a Smart City? | Future Smart City Projects | Surveillance or Utopia?",
@@ -4753,9 +4753,9 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzQUP1qoWDoEbmsQxvdjxgQ",
         "status_code": 200,
         "tags": [
+            "big brother",
             "censorship",
             "edward snowden",
-            "big brother",
             "privacy",
             "surveillance"
         ],
@@ -4842,11 +4842,11 @@
         "source_url": "https://frontstory.pl",
         "status_code": 200,
         "tags": [
+            "bots",
             "potemkin village",
-            "psyop",
-            "propaganda",
             "prawo i sprawiedliwo\u015b\u0107",
-            "bots"
+            "propaganda",
+            "psyop"
         ],
         "thumbnail": "https://frontstory.pl/wp-content/uploads/2021/10/shutterstock_1167867931-e1635335223533.jpg",
         "title": "https://frontstory.pl/farma-trolli-praca-tvp-dezinformacja",
@@ -4873,9 +4873,9 @@
         "source_url": "https://www.reuters.com",
         "status_code": 200,
         "tags": [
+            "big pharma",
             "johnson and johnson",
-            "medical scandal",
-            "big pharma"
+            "medical scandal"
         ],
         "thumbnail": "https://www.reuters.com/resizer/v2/https%3A%2F%2Farchive-images.prod.global.a201836.reutersmedia.net%2F2019%2F10%2F30%2FLYNXMPEF9T0NH.JPG?auth=fc31aabb3b02a47c777fe89ea603150b42166e4b1d876d502d7b26fb7884ecd8&height=1005&width=1920&quality=80&smart=true",
         "title": "Exclusive: J&J's own expert, working for FDA, found asbestos in Baby Powder | Reuters",
@@ -4956,8 +4956,8 @@
         "source_url": "https://www.worldofreel.com",
         "status_code": 200,
         "tags": [
-            "the left wing",
-            "go woke go broke"
+            "go woke go broke",
+            "the left wing"
         ],
         "thumbnail": "http://static1.squarespace.com/static/5bbcad0f2727be3646b9fee1/t/5dc0622dffc06871950215ac/1572889136491/?format=1500w",
         "title": "Ultra-Woke \u2018Terminator: Dark Fate' Projected to Lose More than $120 million \u2014 World of Reel",
@@ -4984,9 +4984,9 @@
         "source_url": "https://www.bbc.com",
         "status_code": 200,
         "tags": [
-            "manufacturing consent",
             "england",
             "jeffrey epstein",
+            "manufacturing consent",
             "prince andrew",
             "royal family"
         ],
@@ -5015,8 +5015,8 @@
         "source_url": "https://www.cnet.com",
         "status_code": 200,
         "tags": [
-            "censorship",
             "blizzard",
+            "censorship",
             "china"
         ],
         "thumbnail": "https://www.cnet.com/a/img/resize/9eab9edfb642df879031f65476e963a7cf532548/hub/2019/10/10/1ca70ada-cffc-43b2-8de1-c913ef9a88c8/gettyimages-1174194265.jpg?auto=webp&fit=crop&height=675&width=1200",
@@ -5045,8 +5045,8 @@
         "status_code": 200,
         "tags": [
             "intolerance",
-            "transgender",
-            "lgbt"
+            "lgbt",
+            "transgender"
         ],
         "thumbnail": "https://media.swncdn.com/via/images/2024/07/12/36859/36859-text-article-image-1200-x-627-px-2-copy_source_file.jpg",
         "title": "79-Year-Old Man Beat on New York Subway for Preaching Gospel",
@@ -5101,9 +5101,9 @@
         "source_url": "",
         "status_code": 604,
         "tags": [
+            "hunter biden",
             "joe biden",
-            "ukraine",
-            "hunter biden"
+            "ukraine"
         ],
         "thumbnail": null,
         "title": "Joe Biden, Hunter Biden, Ukraine",
@@ -5130,11 +5130,11 @@
         "source_url": "https://www.theverge.com",
         "status_code": 200,
         "tags": [
-            "youtube",
-            "subscription",
             "censorship",
+            "monopoly",
+            "subscription",
             "technofeudalism",
-            "monopoly"
+            "youtube"
         ],
         "thumbnail": "https://cdn.vox-cdn.com/thumbor/ZYagtGX7fNNwZQYcMHExoFKHYdo=/0x0:1200x800/1200x628/filters:focal(600x400:601x401)/cdn.vox-cdn.com/uploads/chorus_asset/file/16615540/youtube.jpg",
         "title": "YouTube says it has \u2018no obligation\u2019 to host anyone\u2019s video",
@@ -5161,9 +5161,9 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7c3Kb6jYCRj4JOHHZTxKsQ",
         "status_code": 200,
         "tags": [
-            "programming",
+            "arctic code vault",
             "github",
-            "arctic code vault"
+            "programming"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/fzI9FNjXQ0o/maxresdefault.webp",
         "title": "GitHub Arctic Code Vault",
@@ -5190,8 +5190,8 @@
         "source_url": "",
         "status_code": 200,
         "tags": [
-            "racism",
-            "inequality"
+            "inequality",
+            "racism"
         ],
         "thumbnail": "https://i.insider.com/5a71f3fe7e7a3524008b4cad?width=1200&format=jpeg",
         "title": "Microsoft says minorities in the US earn $1.006 for every $1.00 white employees earn, but experts say there's a very big asterisk",
@@ -5247,9 +5247,9 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtCTSf3UwRU14nYWr_xm-dQ",
         "status_code": 200,
         "tags": [
-            "symbolism",
+            "666",
             "jonathan pageau",
-            "666"
+            "symbolism"
         ],
         "thumbnail": "https://i.ytimg.com/vi/qM_kQjpAK6g/maxresdefault.jpg",
         "title": "Jonathan Pageau: The Surprising Symbolism of 666",
@@ -5276,13 +5276,13 @@
         "source_url": "https://www.cnbc.com",
         "status_code": 200,
         "tags": [
-            "manufacturing consent",
-            "moderation",
-            "media bias",
             "algorithms",
-            "search engines",
             "big tech",
-            "dead internet"
+            "dead internet",
+            "manufacturing consent",
+            "media bias",
+            "moderation",
+            "search engines"
         ],
         "thumbnail": "https://image.cnbcfm.com/api/v1/image/103991569-GettyImages-532157322.jpg?v=1573830563&w=1920&h=1080",
         "title": "Google regularly changes search results: WSJ",
@@ -5309,11 +5309,11 @@
         "source_url": "https://www.businessinsider.com",
         "status_code": 200,
         "tags": [
-            "media bias",
             "algorithms",
-            "search engines",
             "big tech",
-            "dead internet"
+            "dead internet",
+            "media bias",
+            "search engines"
         ],
         "thumbnail": "https://i.insider.com/5dceba383afd37400848f322?width=1200&format=jpeg",
         "title": "Google Manipulates Search Results to Hide Sensitive Subjects: Report",
@@ -5340,8 +5340,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxc5H6i4wBX5D6sGbxEuBDg",
         "status_code": 200,
         "tags": [
-            "japan",
             "anime",
+            "japan",
             "spirited away"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/GRVpWwMXrl8/maxresdefault.webp",
@@ -5398,8 +5398,8 @@
         "status_code": 600,
         "tags": [
             "it",
-            "programming",
-            "managment"
+            "managment",
+            "programming"
         ],
         "thumbnail": null,
         "title": "How to keep employees happy: LinkedIn study reveals three factors",
@@ -5427,13 +5427,13 @@
         "source_url": "http://rss.cnn.com/rss/edition.rss",
         "status_code": 200,
         "tags": [
-            "dystopia",
             "all time",
+            "big tech",
+            "dystopia",
+            "internet",
             "privacy",
             "surveillance",
-            "tim berners-lee",
-            "internet",
-            "big tech"
+            "tim berners-lee"
         ],
         "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/191125085652-tim-berners-lee-10292019-restricted.jpg?q=x_3,y_145,h_1684,w_2993,c_crop/w_800",
         "title": "He invented the web. Now he's warning of a looming 'digital dystopia'",
@@ -5489,9 +5489,9 @@
         "source_url": "https://www.eff.org",
         "status_code": 200,
         "tags": [
-            "surviellance",
+            "ad business",
             "corporatocracy",
-            "ad business"
+            "surviellance"
         ],
         "thumbnail": "https://www.eff.org/files/banner_library/third_party_tracking_banner.png",
         "title": "Behind the One-Way Mirror: A Deep Dive Into the Technology of Corporate Surveillance | Electronic Frontier Foundation",
@@ -5518,9 +5518,9 @@
         "source_url": "https://forsal.pl",
         "status_code": 200,
         "tags": [
+            "climate change",
             "corporatocracy",
-            "greta thunberg",
-            "climate change"
+            "greta thunberg"
         ],
         "thumbnail": "https://ocdn.eu/pulscms-transforms/1/6_TktkuTURBXy85ZDEwYTYwNC05NzllLTQ3YzMtYWViYS0yMmE2OTMwNDJhNWEuanBlZ5GTBc0EsM0CdA",
         "title": "\u201cEl Confidencial\u201d: Strajki klimatyczne i wielki biznes. Za Gret\u0105 Thunberg stoj\u0105 du\u017ce koncerny i fundusze",
@@ -5574,12 +5574,12 @@
         "source_url": "https://www.cnbc.com",
         "status_code": 200,
         "tags": [
+            "big brother",
             "crypto wars",
             "encryption",
             "government control",
-            "big brother",
-            "surveillance",
-            "privacy"
+            "privacy",
+            "surveillance"
         ],
         "thumbnail": "https://image.cnbcfm.com/api/v1/image/106124067-1568213128759tim.jpg?v=1642083515&w=1920&h=1080",
         "title": "Senators threaten encryption regulation for tech companies",
@@ -5606,10 +5606,10 @@
         "source_url": "https://www.forbes.com",
         "status_code": 200,
         "tags": [
-            "technofeudalism",
             "google",
-            "tracking",
-            "surveillance"
+            "surveillance",
+            "technofeudalism",
+            "tracking"
         ],
         "thumbnail": "https://imageio.forbes.com/specials-images/imageserve/1091947418/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
         "title": "Google Hands Feds 1,500 Phone Locations In Unprecedented \u2018Geofence\u2019 Search",
@@ -5663,9 +5663,9 @@
         "source_url": "https://www.zdnet.com",
         "status_code": 200,
         "tags": [
-            "russia",
+            "big brother",
             "nginx",
-            "big brother"
+            "russia"
         ],
         "thumbnail": "https://www.zdnet.com/a/img/resize/7db6901c63adc94b9852fcd7e5527c62df36dc7d/2019/12/12/816d00eb-6dab-4108-9508-40a06c0d3712/nginx.png?auto=webp&fit=crop&height=675&width=1200",
         "title": "Russian police raid NGINX Moscow office | ZDNET",
@@ -5692,9 +5692,9 @@
         "source_url": "https://bigthink.com",
         "status_code": 200,
         "tags": [
-            "the right wing",
             "coudenhove-kalergi",
-            "european union"
+            "european union",
+            "the right wing"
         ],
         "thumbnail": "https://bigthink.com/wp-content/uploads/2019/12/origin-78.jpg?resize=1200,630",
         "title": "The utopian 1920s scheme for five global superstates - Big Think",
@@ -5751,9 +5751,9 @@
         "source_url": "https://www.macrumors.com",
         "status_code": 200,
         "tags": [
+            "apple",
             "corporatocracy",
-            "technofeudalism",
-            "apple"
+            "technofeudalism"
         ],
         "thumbnail": "https://images.macrumors.com/t/Qhyk-J60lWixlvPaMyGb3bsqESA=/1600x/article-new/2018/12/apple_mac_notarized.jpg",
         "title": "Apple Requiring Notarization for Non Mac App Store Apps Starting February 2020 - MacRumors",
@@ -5780,9 +5780,9 @@
         "source_url": "https://www.theguardian.com",
         "status_code": 200,
         "tags": [
-            "google",
             "apple",
             "congo",
+            "google",
             "tesla"
         ],
         "thumbnail": "https://i.guim.co.uk/img/media/7de810f715289e26e7ddddeda437c1dde2be6f48/0_0_5760_3456/master/5760.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTkucG5n&enable=upscale&s=a97768d8fef8a45379a8e7d41c8efd81",
@@ -5811,9 +5811,9 @@
         "status_code": 200,
         "tags": [
             "anonymity",
-            "surveillance",
+            "big brother",
             "privacy",
-            "big brother"
+            "surveillance"
         ],
         "thumbnail": "https://static01.nyt.com/images/2019/12/18/multimedia/16tracked-lead-3x2-image/16tracked-lead-3x2-image-facebookJumbo.jpg?year=2019&h=314&w=600&s=0b820a438693b3409b26a538da58113c40ddf48f9ef9a82e684c1366a013d8cf&k=ZQJBKqZ0VN",
         "title": "Opinion | Twelve Million Phones, One Dataset, Zero Privacy - The New York Times",
@@ -5840,8 +5840,8 @@
         "source_url": "https://www.bbc.com",
         "status_code": 200,
         "tags": [
-            "lgbt",
             "inequality",
+            "lgbt",
             "the left wing"
         ],
         "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/1669C/production/_110240819_captu23424re.jpg",
@@ -5869,10 +5869,10 @@
         "source_url": "https://www.rp.pl",
         "status_code": 200,
         "tags": [
-            "usa",
-            "lgbt",
             "inequality",
-            "the left wing"
+            "lgbt",
+            "the left wing",
+            "usa"
         ],
         "thumbnail": "https://i.gremicdn.pl/image/free/9d10ad7176777eda5a0c9c8a07e60499/?t=resize:fill:1200:750,enlarge:1",
         "title": "USA: 15 lat wi\u0119zienia za spalenie flagi LGBT",
@@ -5900,9 +5900,9 @@
         "status_code": 200,
         "tags": [
             "climate change",
-            "pollution",
+            "dupoint",
             "movies",
-            "dupoint"
+            "pollution"
         ],
         "thumbnail": "https://upload.wikimedia.org/wikipedia/en/6/64/Dark_Waters_poster.jpeg",
         "title": "Dark Waters - movie",

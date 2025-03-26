@@ -20,8 +20,8 @@
         "source_url": "https://edition.cnn.com",
         "status_code": 600,
         "tags": [
-            "joe biden",
-            "barack obama"
+            "barack obama",
+            "joe biden"
         ],
         "thumbnail": null,
         "title": "Biden's description of Obama draws scrutiny - CNN.com",
@@ -48,8 +48,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCq7NSS5gsfD5nW0O3YcTr-w",
         "status_code": 200,
         "tags": [
-            "music",
-            "chiptune"
+            "chiptune",
+            "music"
         ],
         "thumbnail": "https://i.ytimg.com/vi/xN0VIgO3U0k/hqdefault.jpg",
         "title": "A500 Gods - Intro",
@@ -76,8 +76,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCuhfeJ6Mhru9c09AfJDHPJA",
         "status_code": 200,
         "tags": [
-            "music",
-            "chiptune"
+            "chiptune",
+            "music"
         ],
         "thumbnail": "https://i.ytimg.com/vi/nTz5iwmtkrs/hqdefault.jpg",
         "title": "Amiga game music compilation",
@@ -104,8 +104,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCuhfeJ6Mhru9c09AfJDHPJA",
         "status_code": 200,
         "tags": [
-            "music",
-            "chiptune"
+            "chiptune",
+            "music"
         ],
         "thumbnail": "https://i.ytimg.com/vi/hUoJBerFDsA/hqdefault.jpg",
         "title": "100 Amiga games in 10 minutes!",
@@ -132,8 +132,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRuwNLvl3yugw29-Eljba1A",
         "status_code": 200,
         "tags": [
-            "reggae",
-            "random"
+            "random",
+            "reggae"
         ],
         "thumbnail": "https://i.ytimg.com/vi/bR9dGWmmbyc/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-AoACoAKKAgwIABABGEkgZShhMA8=&rs=AOn4CLDSdDVkEHi6YWheTeiZyQ6dPHt5HA",
         "title": "Houk- \u017byj\u0119 w tym mie\u015bcie",
@@ -161,9 +161,9 @@
         "source_url": "https://hnrss.org/frontpage",
         "status_code": 200,
         "tags": [
-            "surveillance",
             "data mining",
-            "privacy"
+            "privacy",
+            "surveillance"
         ],
         "thumbnail": "https://cdn.ssrn.com/ssrn-global-header/11589acb53bc518aa22929bf19add113.svg",
         "title": "\u2018I've got nothing to hide\u2019 and other misunderstandings of privacy (2007)",
@@ -216,9 +216,9 @@
         "status_code": 200,
         "tags": [
             "cia",
-            "propaganda",
-            "manufacturing consent",
             "fbi",
+            "manufacturing consent",
+            "propaganda",
             "wikipedia"
         ],
         "thumbnail": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
@@ -247,8 +247,8 @@
         "status_code": 200,
         "tags": [
             "microsoft",
-            "windows",
-            "technofeudalism"
+            "technofeudalism",
+            "windows"
         ],
         "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAZHbhIGKABgt19tzkXT0Vb8X1GLmToOZFuX66NZyqdvJ7g3aIHfckanvgdBhwl5VJgr24iQcEPFiBKUnFNj0Jslp35zRndJk5pEjrHv1xFYcCRb9iE4LP_WkY_Kttfupwj4Er/w1200-h630-p-k-no-nu/VerifyMyPC.png",
         "title": "Windows Update updating without permission!",
@@ -275,8 +275,8 @@
         "source_url": "https://slated.org",
         "status_code": 603,
         "tags": [
-            "windows",
-            "technofeudalism"
+            "technofeudalism",
+            "windows"
         ],
         "thumbnail": null,
         "title": "Windows By Stealth: The Updates You Don't Want | Slated",
@@ -303,8 +303,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQdIYZl5iWzXWM78GB5algg",
         "status_code": 200,
         "tags": [
-            "music",
-            "chiptune"
+            "chiptune",
+            "music"
         ],
         "thumbnail": "https://i.ytimg.com/vi/EuXVy6qXyuI/hqdefault.jpg",
         "title": "Amiga music tribute",
@@ -388,10 +388,10 @@
         "source_url": "https://hnrss.org/frontpage",
         "status_code": 200,
         "tags": [
-            "web10",
             "internet",
-            "web30",
-            "web20"
+            "web10",
+            "web20",
+            "web30"
         ],
         "thumbnail": null,
         "title": "Have you noticed how much shit the internet has become now? (2007)",
@@ -446,9 +446,9 @@
         "source_url": "https://www.latimes.com",
         "status_code": 200,
         "tags": [
+            "bill gates",
             "gates foundation",
-            "vaccine",
-            "bill gates"
+            "vaccine"
         ],
         "thumbnail": "https://ca-times.brightspotcdn.com/dims4/default/4d34aa2/2147483647/strip/true/crop/500x263+0+38/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F0a%2F3b%2F1e7e61dabcb772bd4805fb520c46%2Fla-fg-gates01-jsi9x8nc-dup",
         "title": "Unintended victims of Gates Foundation generosity",

@@ -20,9 +20,9 @@
         "source_url": "https://wiadomosci.onet.pl",
         "status_code": 200,
         "tags": [
-            "vaccine",
             "covid",
-            "poland"
+            "poland",
+            "vaccine"
         ],
         "thumbnail": "https://ocdn.eu/pulscms-transforms/1/Hcuk9kpTURBXy9iMWYwZTI5MGM4YzBiNjc3MDgzZTFlYjEyMDQ5MGFkNC5qcGeTlQMAzNLNGkDNDsSTCaY0OTRmNjYGkwXNBLDNAnbeAAGhMAE/adam-niedzielski.jpg",
         "title": "Koronawirus. Niedzielski: rozwa\u017camy ograniczenia dla niezaszczepionych\n        \n        - Wiadomo\u015bci",
@@ -50,8 +50,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA",
         "status_code": 200,
         "tags": [
-            "luke smith",
-            "games"
+            "games",
+            "luke smith"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/L5xd5yejPBE/maxresdefault.webp",
         "title": "Why am I so Anti-Video Gaymes?",
@@ -78,8 +78,8 @@
         "source_url": "https://www.tvp.info",
         "status_code": 600,
         "tags": [
-            "vaccine",
-            "covid"
+            "covid",
+            "vaccine"
         ],
         "thumbnail": "https://s.tvp.pl/files/tvp-info/v2/gfx/logo-opengraph-big.jpg",
         "title": "Koronawirus. Szczepionka dla celebryt\u00f3w: Wiktor Zborowski, Krzysztof Materna, Andrzej Seweryn i Maria Seweryn. Kontrowersje ju\u017c nie tylko wok\u00f3\u0142 Jandy i Millera | TVP Info - tvp.info",
@@ -134,12 +134,12 @@
         "source_url": "https://thehill.com",
         "status_code": 600,
         "tags": [
-            "lgbt",
-            "the left wing",
-            "newspeak",
             "gender",
+            "lgbt",
+            "newspeak",
             "pronouns",
-            "social engineering"
+            "social engineering",
+            "the left wing"
         ],
         "thumbnail": "https://thehill.com/wp-content/uploads/sites/2/2020/10/ca_lgbtq_10820istock.jpg?w=1280",
         "title": "House introduces gender-neutral language in new rules for Congress",
@@ -223,11 +223,11 @@
         "source_url": "https://thehill.com",
         "status_code": 600,
         "tags": [
-            "january 6",
-            "donald trump",
             "deplatform",
-            "the right wing",
-            "snapchat"
+            "donald trump",
+            "january 6",
+            "snapchat",
+            "the right wing"
         ],
         "thumbnail": "https://thehill.com/wp-content/uploads/sites/2/2020/08/snapchat_08062020_getty.jpg?w=1280",
         "title": "Trump suspended indefinitely from Snapchat | The Hill",
@@ -281,10 +281,10 @@
         "source_url": "www.nbcnews.com",
         "status_code": 200,
         "tags": [
-            "january 6",
-            "donald trump",
-            "deplatform",
             "censorship",
+            "deplatform",
+            "donald trump",
+            "january 6",
             "twitter"
         ],
         "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2021_01/3440897/210108-donald-trump-cs-636p.jpg",
@@ -341,8 +341,8 @@
         "source_url": "https://www.businessinsider.com",
         "status_code": 200,
         "tags": [
-            "january 6",
             "donald trump",
+            "january 6",
             "the right wing"
         ],
         "thumbnail": "https://i.insider.com/5ff89b90d184b30018aadce0?width=1200&format=jpeg",
@@ -370,8 +370,8 @@
         "source_url": "https://www.bbc.com",
         "status_code": 200,
         "tags": [
-            "lockdown",
             "covid",
+            "lockdown",
             "protest",
             "scotland"
         ],
@@ -400,8 +400,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCS85PXHRkizrbGHBCe4tV3g",
         "status_code": 200,
         "tags": [
-            "movies",
-            "first reformed"
+            "first reformed",
+            "movies"
         ],
         "thumbnail": "https://i.ytimg.com/vi/piyXjIO46uE/maxresdefault.jpg",
         "title": "the darkness of 'first reformed'",
@@ -428,11 +428,11 @@
         "source_url": "https://www.theverge.com",
         "status_code": 200,
         "tags": [
-            "parler",
-            "moderation",
+            "apple",
             "censorship",
             "january 6",
-            "apple"
+            "moderation",
+            "parler"
         ],
         "thumbnail": "https://cdn.vox-cdn.com/thumbor/-GS21f8NOzIAX6w1ZXVF-tInBj4=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/11477047/acastro_180604_1777_apple_wwdc_0001.jpg",
         "title": "Apple removes Parler from the App Store - The Verge",
@@ -459,10 +459,10 @@
         "source_url": "https://www.forbes.com",
         "status_code": 200,
         "tags": [
-            "sun-dimming",
-            "climate change",
             "atmosphere",
-            "bill gates"
+            "bill gates",
+            "climate change",
+            "sun-dimming"
         ],
         "thumbnail": "https://imageio.forbes.com/specials-images/imageserve/5ffc5491773c91d4575b0e95/0x0.jpg?format=jpg&crop=5400,3037,x0,y274,safe&height=900&width=1600&fit=bounds",
         "title": "A Bill Gates Venture Aims To Spray Dust Into The Atmosphere To Block The Sun. What Could Go Wrong?",
@@ -489,12 +489,12 @@
         "source_url": "https://geekweek.interia.pl",
         "status_code": 200,
         "tags": [
-            "moderation",
-            "censorship",
             "big brother",
-            "freedom",
             "big tech",
-            "democracy"
+            "censorship",
+            "democracy",
+            "freedom",
+            "moderation"
         ],
         "thumbnail": "https://i.iplsc.com/-/000D8AQE2RP963YI-C461-F4.jpg",
         "title": "W\u0142adz\u0119 nad \u015bwiatem przejmuje Big Tech. Czy to ju\u017c koniec wolno\u015bci s\u0142owa?",
@@ -522,12 +522,12 @@
         "status_code": 200,
         "tags": [
             "amazon",
-            "google",
-            "parler",
-            "moderation",
+            "apple",
             "censorship",
+            "google",
             "january 6",
-            "apple"
+            "moderation",
+            "parler"
         ],
         "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/210108200907-parler-app-stock.jpg?q=x_3,y_313,h_1684,w_2993,c_crop/w_800",
         "title": "Parler app has now been booted by Amazon, Apple and Google | CNN Business",
@@ -584,8 +584,8 @@
         "tags": [
             "big pharma",
             "covid",
-            "vaccine",
-            "pfizer"
+            "pfizer",
+            "vaccine"
         ],
         "thumbnail": "https://static01.nyt.com/images/2021/01/12/science/12VIRUS-VACCINEDEATH1/12VIRUS-VACCINEDEATH1-facebookJumbo.jpg?year=2021&h=550&w=1050&s=63f115826674d849db8fa1efbebe901655d5ffd84a16ab65ff02a651ad1888fd&k=ZQJBKqZ0VN",
         "title": "Doctor\u2019s Death After Covid Vaccine Is Being Investigated",
@@ -639,12 +639,12 @@
         "source_url": "https://polityko.com",
         "status_code": 200,
         "tags": [
-            "hunter biden",
-            "surveillance",
-            "censorship",
             "big brother",
             "big tech",
-            "privacy"
+            "censorship",
+            "hunter biden",
+            "privacy",
+            "surveillance"
         ],
         "thumbnail": null,
         "title": "Cyberfaszyzm",
@@ -671,14 +671,14 @@
         "source_url": "https://www.nbcnews.com",
         "status_code": 200,
         "tags": [
-            "moderation",
-            "january 6",
-            "facebook",
-            "manufacturing consent",
-            "censorship",
             "big brother",
-            "twitter",
-            "extremism"
+            "censorship",
+            "extremism",
+            "facebook",
+            "january 6",
+            "manufacturing consent",
+            "moderation",
+            "twitter"
         ],
         "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2021_31/3442180/210114-donald-trump-phone-ew-617p.jpg",
         "title": "How Facebook and Twitter decided to take down Trump's accounts",
@@ -760,9 +760,9 @@
         "source_url": "https://nypost.com",
         "status_code": 200,
         "tags": [
+            "covid",
             "norway",
-            "vaccine",
-            "covid"
+            "vaccine"
         ],
         "thumbnail": "https://nypost.com/wp-content/uploads/sites/2/2021/01/norway-vaccine-95.jpg?quality=75&strip=all&w=1024",
         "title": "23 die in Norway after receiving Pfizer COVID-19 vaccine",
@@ -790,8 +790,8 @@
         "status_code": 200,
         "tags": [
             "big tech",
-            "oligopoly",
-            "freedom"
+            "freedom",
+            "oligopoly"
         ],
         "thumbnail": "https://galeria.bankier.pl/p/a/5/d7bd73b69f6351-948-568-0-38-1732-1039.jpg",
         "title": "\"Economist\": \u015awiat nie mo\u017ce pozwoli\u0107 oligopolom technologicznym na przej\u0119cie kontroli nad podstawowymi swobodami",
@@ -819,8 +819,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA",
         "status_code": 200,
         "tags": [
-            "movies",
-            "hollywood"
+            "hollywood",
+            "movies"
         ],
         "thumbnail": "https://i.ytimg.com/vi/vnRP7SKzOgk/maxresdefault.jpg",
         "title": "What Happened To Our Villains?",
@@ -847,9 +847,9 @@
         "source_url": "https://www.theorganicprepper.com",
         "status_code": 200,
         "tags": [
-            "uighur",
+            "china",
             "genocide",
-            "china"
+            "uighur"
         ],
         "thumbnail": "https://www.theorganicprepper.com/wp-content/uploads/2021/01/UighursMAIN.jpg",
         "title": "Does the West Actually Care About the Uighur Genocide in China or Is It a Handy Excuse for Conflict?",
@@ -876,8 +876,8 @@
         "source_url": "https://freebeacon.com",
         "status_code": 200,
         "tags": [
-            "racism",
             "climate change",
+            "racism",
             "the left wing"
         ],
         "thumbnail": "https://freebeacon.com/wp-content/uploads/2020/12/GettyImages-1230217362.jpg",
@@ -905,10 +905,10 @@
         "source_url": "https://www.lifestyledemocracy.com",
         "status_code": 200,
         "tags": [
-            "plutocracy",
-            "democracy",
             "corporatocracy",
-            "oligarchy"
+            "democracy",
+            "oligarchy",
+            "plutocracy"
         ],
         "thumbnail": null,
         "title": "Do We Live In A Plutocratic Oligarchy? Why It Matters For Democracy \u2013 Lifestyle Democracy",
@@ -935,8 +935,8 @@
         "source_url": "https://www.reuters.com",
         "status_code": 200,
         "tags": [
-            "vaccine",
-            "covid"
+            "covid",
+            "vaccine"
         ],
         "thumbnail": "https://www.reuters.com/resizer/v2/https%3A%2F%2Farchive-images.prod.global.a201836.reutersmedia.net%2F2021%2F01%2F20%2FLYNXMPEH0J1KW.JPG?auth=da53ddcb1709bbd5f33a0c86c55827ebf6ccbe2abf0d9adf64ec7241673ef33b&height=1005&width=1920&quality=80&smart=true",
         "title": "Fact check: Discussion of deaths in elderly vaccine recipients in Norway lacks context | Reuters",
@@ -963,8 +963,8 @@
         "source_url": "https://www.medonet.pl",
         "status_code": 200,
         "tags": [
-            "hospital",
-            "covid"
+            "covid",
+            "hospital"
         ],
         "thumbnail": "https://ocdn.eu/pulscms-transforms/1/iY5k9kpTURBXy8wMGFmMTE2YzdlZTY5NDM5Njk3OWY0MTMwZDZkZDI0Ny5qcGeSlQMAzK7NFcDNDDyTBc0EsM0Cdt4AAaEwAQ",
         "title": "Szpitale tymczasowe kosztowa\u0142y ponad 500 mln z\u0142. Dlaczego stoj\u0105 puste?",
@@ -1021,10 +1021,10 @@
         "source_url": "https://www.rp.pl",
         "status_code": 200,
         "tags": [
-            "vaccine",
-            "germany",
             "covid",
-            "quarantine"
+            "germany",
+            "quarantine",
+            "vaccine"
         ],
         "thumbnail": "https://i.gremicdn.pl/image/free/339929efd5bf852c35e8ea818bf2285d/?t=resize:fill:1200:750,enlarge:1",
         "title": "Niemcy: Z\u0142amiesz kwarantann\u0119 - trafisz do obozu",
@@ -1077,8 +1077,8 @@
         "source_url": "https://www.foxnews.com",
         "status_code": 200,
         "tags": [
-            "covid",
             "california",
+            "covid",
             "lockdown"
         ],
         "thumbnail": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a89363f3-38c4-47db-ad97-5f29f29679c9/575d554e-f746-4c36-a359-9574193e45c0/1280x720/match/image.jpg",
@@ -1106,8 +1106,8 @@
         "source_url": "https://www.forbes.com",
         "status_code": 200,
         "tags": [
-            "covid",
-            "anthony fauci"
+            "anthony fauci",
+            "covid"
         ],
         "thumbnail": "https://imageio.forbes.com/specials-images/imageserve/600b4d1a798aaedaad4b641f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
         "title": "Dr. Anthony Fauci: The Highest Paid Employee In The Entire U.S. Federal Government",
@@ -1134,10 +1134,10 @@
         "source_url": "https://winknews.com",
         "status_code": 200,
         "tags": [
-            "privacy",
             "instagram",
-            "technofeudalism",
-            "social media"
+            "privacy",
+            "social media",
+            "technofeudalism"
         ],
         "thumbnail": "https://winknews.com/wp-content/uploads/2021/01/dalmations.png",
         "title": "New Instagram terms of use details broad use of your personal information",
@@ -1164,8 +1164,8 @@
         "source_url": "https://www.allsides.com",
         "status_code": 403,
         "tags": [
-            "covid",
             "california",
+            "covid",
             "lockdown"
         ],
         "thumbnail": "https://www.allsides.com/sites/default/files/AP21025642281662.jpg",
@@ -1193,8 +1193,8 @@
         "source_url": "https://www.cnbc.com",
         "status_code": 200,
         "tags": [
-            "january 6",
             "google",
+            "january 6",
             "manufacturing consent"
         ],
         "thumbnail": "https://image.cnbcfm.com/api/v1/image/106638351-1596044706319-sundar.jpg?v=1596044775&w=1920&h=1080",
@@ -1223,8 +1223,8 @@
         "status_code": 200,
         "tags": [
             "archive",
-            "history",
-            "documentary"
+            "documentary",
+            "history"
         ],
         "thumbnail": "https://i.ytimg.com/vi/DWnc-ZlIo5s/maxresdefault.jpg",
         "title": "93 Year Old Irish Soldier describes World War One, 1988",
@@ -1251,8 +1251,8 @@
         "source_url": "https://theconversation.com",
         "status_code": 200,
         "tags": [
-            "fearmongering",
             "covid",
+            "fearmongering",
             "propaganda"
         ],
         "thumbnail": "https://images.theconversation.com/files/380794/original/file-20210127-17-fd7lz6.jpg?ixlib=rb-4.1.0&rect=419%2C958%2C3407%2C1700&q=45&auto=format&w=1356&h=668&fit=crop",
@@ -1280,8 +1280,8 @@
         "source_url": "https://www.nationalreview.com",
         "status_code": 200,
         "tags": [
-            "usa",
-            "abortion"
+            "abortion",
+            "usa"
         ],
         "thumbnail": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2021/01/Joe-Biden-WH-2.jpg?fit=2057%2C1200&ssl=1",
         "title": "Joe Biden & Abortion: Executive Order Reverses Pro-Life Mexico City Policy to Fund Abortion Overseas | National Review",
@@ -1308,10 +1308,10 @@
         "source_url": "https://tekdeeps.com",
         "status_code": 200,
         "tags": [
-            "sun-dimming",
-            "climate change",
             "atmosphere",
-            "bill gates"
+            "bill gates",
+            "climate change",
+            "sun-dimming"
         ],
         "thumbnail": "https://cdn.braigolabs.com/2023/05/xoilac-tv-offical-kenh-xoi-lac-tv-chinh-thuc.jpg",
         "title": "Bill Gates will spray chemicals in the atmosphere in June using thousands of planes - NeeWS",
@@ -1338,8 +1338,8 @@
         "source_url": "www.komputerswiat.pl",
         "status_code": 200,
         "tags": [
-            "government control",
             "big brother",
+            "government control",
             "privacy",
             "surveillance"
         ],
@@ -1368,11 +1368,11 @@
         "source_url": "https://www.nytimes.com",
         "status_code": 403,
         "tags": [
-            "moderation",
-            "surveillance",
-            "censorship",
             "big brother",
-            "social media"
+            "censorship",
+            "moderation",
+            "social media",
+            "surveillance"
         ],
         "thumbnail": "https://static01.nyt.com/images/2021/01/29/opinion/sunday/29Zuboff1/29Zuboff1-facebookJumbo.jpg?year=2021&h=550&w=1050&s=69bbaacf80278710263ad64e46feffbd6f671802bd416f9a02db48c029e4c867&k=ZQJBKqZ0VN",
         "title": "The Coup We Are Not Talking About",
@@ -1399,8 +1399,8 @@
         "source_url": "thefreethoughtproject.com",
         "status_code": 200,
         "tags": [
-            "youtube",
-            "censorship"
+            "censorship",
+            "youtube"
         ],
         "thumbnail": "https://thefreethoughtproject.com/.image/t_share/MTg1OTg1NzUwMjQwOTI4ODk3/youtube-censorship.jpg",
         "title": "Esteemed Academic Conference on Dangers of Censorship \u2014 Reportedly Censored by YouTube",
@@ -1515,10 +1515,10 @@
         "source_url": "https://www.polsatnews.pl",
         "status_code": 200,
         "tags": [
-            "vaccine",
             "canada",
             "covid",
-            "isolation"
+            "isolation",
+            "vaccine"
         ],
         "thumbnail": "https://ipla.pluscdn.pl/dituel/cp/12/12ehy5cq28hapcucti6skchs5ybzux6t.jpg",
         "title": "\"Kanadyjczycy s\u0105 aresztowani i wywo\u017ceni\". Prawnicy reaguj\u0105 na koronawirusowe restrykcje",
@@ -1545,9 +1545,9 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_us_hH43AJtU_A-iXCLmqw",
         "status_code": 500,
         "tags": [
+            "disinformation",
             "facebook",
-            "myanmar",
-            "disinformation"
+            "myanmar"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/90EFjsG-nws/maxresdefault.webp",
         "title": "Facebook blocked in Myanmar: The war for Disinformation",
@@ -1574,9 +1574,9 @@
         "source_url": "https://www.welt.de",
         "status_code": 200,
         "tags": [
-            "lockdown",
+            "covid",
             "germany",
-            "covid"
+            "lockdown"
         ],
         "thumbnail": "https://img.welt.de/img/politik/deutschland/mobile225360965/0847932497-ci16x9-w1200/Seehofer-jpg.jpg",
         "title": "Interner E-Mail-Verkehr: Innenministerium spannte Wissenschaftler ein - WELT",
@@ -1603,9 +1603,9 @@
         "source_url": "https://nypost.com",
         "status_code": 200,
         "tags": [
+            "covid",
             "lab leak",
             "who",
-            "covid",
             "wuhan"
         ],
         "thumbnail": "https://nypost.com/wp-content/uploads/sites/2/2021/02/who-team-coronavirus-origins-1.jpg?quality=75&strip=all&w=1024",
@@ -1659,9 +1659,9 @@
         "source_url": "https://twitter.com",
         "status_code": 200,
         "tags": [
-            "vaccine",
             "covid",
-            "propaganda"
+            "propaganda",
+            "vaccine"
         ],
         "thumbnail": null,
         "title": "Maciej Pawlicki Na 17 cz\u0142onk\u00f3w Rady Medycznej 12 jest w stanie konfliktu interes\u00f3w",
@@ -1742,8 +1742,8 @@
         "source_url": "https://www.nbcnews.com",
         "status_code": 200,
         "tags": [
-            "solar panels",
-            "climate change"
+            "climate change",
+            "solar panels"
         ],
         "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2021-02/210217-texas-power-mc-1430-c71f91.jpg",
         "title": "How one Texas storm exposed an energy grid unprepared for climate change",
@@ -1854,9 +1854,9 @@
         "source_url": "https://www.nytimes.com",
         "status_code": 403,
         "tags": [
-            "science is dead",
             "covid",
-            "critical thinking"
+            "critical thinking",
+            "science is dead"
         ],
         "thumbnail": "https://static01.nyt.com/images/2021/02/18/opinion/18warzel1/18warzel1-facebookJumbo.jpg?year=2021&h=550&w=1050&s=48e5aa5749d8701a4bc0e00b8df1fcd2191335f72f34670e9973b521ef6bd68d&k=ZQJBKqZ0VN",
         "title": "Opinion | Don\u2019t Go Down the Rabbit Hole - The New York Times",
@@ -1883,11 +1883,11 @@
         "source_url": "https://www.dailymail.co.uk",
         "status_code": 200,
         "tags": [
+            "california",
             "covid",
             "florida",
             "joe biden",
-            "lockdown",
-            "california"
+            "lockdown"
         ],
         "thumbnail": "https://i.dailymail.co.uk/1s/2021/02/18/21/39464876-0-image-a-47_1613683185510.jpg",
         "title": "Moment Biden COVID adviser is UNABLE to explain why lockdown-loving California isn't doing better than open-all-hours Florida",
@@ -1916,8 +1916,8 @@
         "tags": [
             "capitalism",
             "corporatocracy",
-            "yanis varoufakis",
-            "technofeudalism"
+            "technofeudalism",
+            "yanis varoufakis"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/_jW0xUmUaUc/maxresdefault.webp",
         "title": "Yanis Varoufakis: Capitalism has become 'techno-feudalism' | UpFront",
@@ -1971,8 +1971,8 @@
         "source_url": "",
         "status_code": 200,
         "tags": [
-            "surveillance",
-            "privacy"
+            "privacy",
+            "surveillance"
         ],
         "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22632594/VRG_4614_3_EmailTracking.jpg?quality=90&strip=all&crop=0%2C10.742559278735%2C100%2C78.514881442529&w=1200",
         "title": "How to stop your emails from being tracked",
@@ -2027,8 +2027,8 @@
         "source_url": "",
         "status_code": 403,
         "tags": [
-            "climate change",
-            "billionaires"
+            "billionaires",
+            "climate change"
         ],
         "thumbnail": null,
         "title": "Attention Required! | Cloudflare",
@@ -2084,10 +2084,10 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHd62-u_v4DvJ8TCFtpi4GA",
         "status_code": 200,
         "tags": [
+            "gender",
             "rachel levine",
-            "the left wing",
             "rand paul",
-            "gender"
+            "the left wing"
         ],
         "thumbnail": "https://i.ytimg.com/vi/Krf0Cm-FKro/maxresdefault.jpg",
         "title": "Rand Paul questions Rachel Levine on gender-affirming care for minors",
@@ -2114,10 +2114,10 @@
         "source_url": "https://unearthed.greenpeace.org",
         "status_code": 200,
         "tags": [
+            "banksters",
             "climate change",
-            "net zero",
             "corporatocracy",
-            "banksters"
+            "net zero"
         ],
         "thumbnail": "https://unearthed.greenpeace.org/wp-content/uploads/2021/01/carney.jpg",
         "title": "Mark Carney\u2019s \u2018net-zero\u2019 firm has billions in coal and oil sands projects - Unearthed",
@@ -2173,11 +2173,11 @@
         "source_url": "https://naszapolska.pl",
         "status_code": 200,
         "tags": [
-            "covid mandates",
-            "segregation",
-            "vaccine",
             "covid",
-            "israel"
+            "covid mandates",
+            "israel",
+            "segregation",
+            "vaccine"
         ],
         "thumbnail": "https://naszapolska.pl/wp-content/uploads/2020/03/mid-20313162.jpg",
         "title": "Segregacja sanitarna na \u015bwiecie. W Izraelu dzia\u0142a od tygodnia, a w innych krajach?",
@@ -2204,8 +2204,8 @@
         "source_url": "https://www.nytimes.com",
         "status_code": 403,
         "tags": [
-            "racism",
             "hate speech",
+            "racism",
             "usa"
         ],
         "thumbnail": "https://static01.nyt.com/images/2021/03/01/business/01nyt-mcneil/01nyt-mcneil-facebookJumbo.jpg?year=2021&h=549&w=1050&s=9f010aeda9d6d1c80f5d02f7fa225306770ffbda49f03f5a09aaa3944585a616&k=ZQJBKqZ0VN",
@@ -2260,10 +2260,10 @@
         "source_url": "https://www.eff.org",
         "status_code": 200,
         "tags": [
-            "privacy",
-            "floc",
             "ad business",
-            "google"
+            "floc",
+            "google",
+            "privacy"
         ],
         "thumbnail": "https://www.eff.org/files/banner_library/third_party_tracking_banner.png",
         "title": "Google\u2019s FLoC Is a Terrible Idea | Electronic Frontier Foundation",
@@ -2318,12 +2318,12 @@
         "source_url": "https://www.dw.com",
         "status_code": 200,
         "tags": [
-            "who",
-            "digital passport",
             "covid",
-            "vaccine passport",
             "digital identity",
-            "vaccine"
+            "digital passport",
+            "vaccine",
+            "vaccine passport",
+            "who"
         ],
         "thumbnail": "https://static.dw.com/image/56455015_6.jpg",
         "title": "WHO odrzuca planowane unijne paszporty szczepie\u0144",
@@ -2350,9 +2350,9 @@
         "source_url": "https://www.politico.eu",
         "status_code": 200,
         "tags": [
-            "the left wing",
             "germany",
-            "newspeak"
+            "newspeak",
+            "the left wing"
         ],
         "thumbnail": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2021/03/05/duden2-scaled.jpg",
         "title": "Debate over gender-neutral language divides Germany \u2013 POLITICO",
@@ -2379,9 +2379,9 @@
         "source_url": "www.outsiderclub.com",
         "status_code": 200,
         "tags": [
+            "crisis",
             "dollar",
             "fed",
-            "crisis",
             "fiat currency"
         ],
         "thumbnail": "https://assets.optipub.com/osprey/images/2020/21/ripped-dollar-header-62068.jpg",
@@ -2434,13 +2434,13 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTMt7iMWa7jy0fNXIktwyLA",
         "status_code": 200,
         "tags": [
-            "social score",
-            "orwell",
             "all time",
-            "utopia",
+            "big brother",
             "digital identity",
+            "orwell",
+            "social score",
             "surveillance",
-            "big brother"
+            "utopia"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/vJYaXy5mmA8/maxresdefault.webp",
         "title": "A man lives in a society where citizens police each other with their mobile phones. | Utopia",
@@ -2467,9 +2467,9 @@
         "source_url": "https://policetribune.com",
         "status_code": 600,
         "tags": [
-            "protest",
             "black lives matter",
-            "defund the police"
+            "defund the police",
+            "protest"
         ],
         "thumbnail": null,
         "title": "Portland Rioters Try Set Fire To Federal Courthouse Hours After Security Fence Is Removed - The Police Tribune",
@@ -2497,8 +2497,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxt2r57cLastdmrReiQJkEg",
         "status_code": 200,
         "tags": [
-            "youtube",
-            "propaganda"
+            "propaganda",
+            "youtube"
         ],
         "thumbnail": "https://i.ytimg.com/vi/Dum0bqWfiGw/maxresdefault.jpg",
         "title": "Johnny Harris: A Story of YouTube Propaganda",
@@ -2553,10 +2553,10 @@
         "source_url": "https://wiez.pl",
         "status_code": 200,
         "tags": [
-            "paedophilia",
-            "government",
             "germany",
-            "kentler"
+            "government",
+            "kentler",
+            "paedophilia"
         ],
         "thumbnail": "https://wiez.pl/wp-content/uploads/2020/06/berlin-graffiti-1.jpg",
         "title": "Przez niemal p\u00f3\u0142 wieku w Niemczech funkcjonowa\u0142 ruch d\u0105\u017c\u0105cy do legalizacji pedofilii. Wstrz\u0105saj\u0105cy raport",
@@ -2611,9 +2611,9 @@
         "source_url": "https://www.newsweek.com",
         "status_code": 200,
         "tags": [
-            "science is dead",
             "covid",
-            "lockdown"
+            "lockdown",
+            "science is dead"
         ],
         "thumbnail": "https://d.newsweek.com/en/full/1756301/coronavirus-us.jpg",
         "title": "Florida Sees Same COVID Case Rate as California, Despite No Statewide Restrictions",
@@ -2696,8 +2696,8 @@
         "source_url": "https://www.vice.com",
         "status_code": 200,
         "tags": [
-            "privacy",
             "electric vehicles",
+            "privacy",
             "surveillance",
             "ulysses group"
         ],
@@ -2726,9 +2726,9 @@
         "source_url": "https://www.independent.co.uk",
         "status_code": 200,
         "tags": [
-            "who",
             "digital passport",
-            "vaccine passport"
+            "vaccine passport",
+            "who"
         ],
         "thumbnail": "https://static.independent.co.uk/2021/03/18/12/GettyImages-1216203797.jpg?quality=75&width=1200&auto=webp",
         "title": "WHO says it will not encourage vaccine passports for \u2018ethical or scientific\u2019 reasons | The Independent",
@@ -2755,8 +2755,8 @@
         "source_url": "https://arstechnica.com",
         "status_code": 200,
         "tags": [
-            "privacy",
             "electric vehicles",
+            "privacy",
             "surveillance",
             "ulysses group"
         ],
@@ -2813,8 +2813,8 @@
         "source_url": "https://www.breitbart.com",
         "status_code": 200,
         "tags": [
-            "christianophobia",
-            "china"
+            "china",
+            "christianophobia"
         ],
         "thumbnail": "https://media.breitbart.com/media/2017/09/china-christian.png",
         "title": "China Arrests at Least Ten Christians in Raid of Private Bible Study",
@@ -2841,8 +2841,8 @@
         "source_url": "https://www.investopedia.com",
         "status_code": 200,
         "tags": [
-            "reddit",
-            "ad business"
+            "ad business",
+            "reddit"
         ],
         "thumbnail": "https://www.investopedia.com/thmb/q2-oTV_wD-ynvqaI2OYvE-y4QB4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1048288996-865a5458473b4ede9773207d39ad29d0.jpg",
         "title": "How Reddit Makes Money",
@@ -2869,8 +2869,8 @@
         "source_url": "https://www.bloomberg.com",
         "status_code": 200,
         "tags": [
-            "covid",
             "big pharma",
+            "covid",
             "pfizer"
         ],
         "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivKYbgu3JgNc/v2/1200x800.jpg",
@@ -2898,8 +2898,8 @@
         "source_url": "https://agfundernews.com",
         "status_code": 200,
         "tags": [
-            "billionaires",
-            "bill gates"
+            "bill gates",
+            "billionaires"
         ],
         "thumbnail": "https://agfundernews.com/wp-content/uploads/2021/02/Bill-Gates-csm_msc53_m18feb17_4861_55b9c50400.jpg",
         "title": "Bill Gates tells Reddit why he's bought so much farmland",
@@ -2926,8 +2926,8 @@
         "source_url": "https://www.dw.com",
         "status_code": 200,
         "tags": [
-            "joe biden",
-            "gun control"
+            "gun control",
+            "joe biden"
         ],
         "thumbnail": "https://static.dw.com/image/56935889_6.jpg",
         "title": "Biden calls for gun control following Boulder shooting \u2013 DW \u2013 03/23/2021",
@@ -2985,11 +2985,11 @@
         "source_url": "www.liberties.eu",
         "status_code": 200,
         "tags": [
-            "terreg",
-            "free speech",
             "censorship",
+            "free speech",
             "government control",
-            "moderation"
+            "moderation",
+            "terreg"
         ],
         "thumbnail": "https://liberties.imgix.net/images/fe5b5988-8f6f-4421-b3ee-3f5f93ce129e/youtube2_copy_2x.png?ixlib=rails-4.1.0&fm=jpg&auto=format&lossless=true&w=1200&h=630&s=93bf161dff15d9f813e23c5229d13158",
         "title": "TERREG: Free Speech Advocates Urge EU Legislators to Vote 'No' to Automated Censorship Online",
@@ -3130,10 +3130,10 @@
         "source_url": "https://www.cbc.ca",
         "status_code": 200,
         "tags": [
-            "misinformation",
-            "mainstream media",
             "covid",
-            "disinformation"
+            "disinformation",
+            "mainstream media",
+            "misinformation"
         ],
         "thumbnail": "https://i.cbc.ca/1.5965638.1616778683!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/press-capitol-riot.jpeg",
         "title": "How U.S. media lost the trust of the public",
@@ -3161,9 +3161,9 @@
         "status_code": 200,
         "tags": [
             "catholic",
-            "slawoj leszek glodz",
             "church scandal",
-            "religion"
+            "religion",
+            "slawoj leszek glodz"
         ],
         "thumbnail": "https://ocdn.eu/pulscms-transforms/1/X6nk9kpTURBXy9lOWNjODJjZmIwNTljNmU4ZDQ5MGI4ZWQwY2EwODM3Zi5qcGeSlQMAzHzND4XNCLqTBc0EsM0Cdt4AAaEwAQ",
         "title": "Arcybiskup S\u0142awoj Leszek G\u0142\u00f3d\u017a ukarany. Ma maj\u0105tek wart miliony",
@@ -3190,9 +3190,9 @@
         "source_url": "https://wiadomosci.onet.pl",
         "status_code": 200,
         "tags": [
-            "wuhan",
+            "censorship",
             "covid",
-            "censorship"
+            "wuhan"
         ],
         "thumbnail": null,
         "title": "W 2018 r. dyplomaci ostrzegali przed eksperymentami z koronawirusem w Wuhan. Nikt ich nie s\u0142ucha\u0142",
@@ -3219,11 +3219,11 @@
         "source_url": "https://reclaimthenet.org",
         "status_code": 200,
         "tags": [
+            "censorship",
             "critical race theory",
-            "racism",
             "gofundme",
-            "the left wing",
-            "censorship"
+            "racism",
+            "the left wing"
         ],
         "thumbnail": "https://reclaimthenet.org/wp-content/uploads/2021/03/gfme.png",
         "title": "GoFundMe shuts down fundraiser for parents who were doxed for not supporting critical race theory",
@@ -3277,10 +3277,10 @@
         "source_url": "https://www.washingtonpost.com",
         "status_code": 200,
         "tags": [
-            "usa",
+            "christianophobia",
             "lgbt",
             "the left wing",
-            "christianophobia"
+            "usa"
         ],
         "thumbnail": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RUGLRTKULZB6XPESJMXXJVLTDI.jpeg&w=1440",
         "title": "Virginia Education Department sued over guidelines to protect transgender students",
@@ -3307,8 +3307,8 @@
         "source_url": "https://newrepublic.com",
         "status_code": 200,
         "tags": [
-            "twitter",
-            "elon musk"
+            "elon musk",
+            "twitter"
         ],
         "thumbnail": "https://images.newrepublic.com/0712e7f584bccb9122b85c2774dcbad268d7cac4.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
         "title": "Twitter Is Enabling Saudi Arabia\u2019s Brutal Crackdown on Dissent",
@@ -3335,9 +3335,9 @@
         "source_url": "https://www.wsj.com",
         "status_code": 600,
         "tags": [
-            "wall street",
+            "blackrock",
             "housing market",
-            "blackrock"
+            "wall street"
         ],
         "thumbnail": null,
         "title": "If You Sell a House These Days, the Buyer Might Be a Pension Fund",
@@ -3365,8 +3365,8 @@
         "status_code": 200,
         "tags": [
             "rape",
-            "transgender",
-            "the left wing"
+            "the left wing",
+            "transgender"
         ],
         "thumbnail": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2021/04/prison.jpg?fit=2057%2C1200&ssl=1",
         "title": "Hundreds of Transgender California Inmates Request Transfers to Women's Prisons | National Review",
@@ -3393,8 +3393,8 @@
         "source_url": "https://wiadomosci.gazeta.pl",
         "status_code": 200,
         "tags": [
-            "propaganda",
-            "covid"
+            "covid",
+            "propaganda"
         ],
         "thumbnail": "https://bi.im-g.pl/im/cf/71/19/z26678735IER,Prof--Krzysztof-Simon.jpg",
         "title": "Prof. Krzysztof Simon o liczbie zgon\ufffdw: B\ufffdyskawicznie d\ufffd\ufffdymy do statystyk z wrze\ufffdnia 1939 roku",
@@ -3421,10 +3421,10 @@
         "source_url": "https://www.reuters.com",
         "status_code": 200,
         "tags": [
-            "facebook",
+            "censorship",
             "data leak",
-            "meta",
-            "censorship"
+            "facebook",
+            "meta"
         ],
         "thumbnail": "https://www.reuters.com/resizer/v2/https%3A%2F%2Farchive-images.prod.global.a201836.reutersmedia.net%2F2021%2F04%2F08%2FLYNXMPEH361HH.JPG?auth=0961370b70ace60fa9d54f53eb633419311aa5a7e3954b8282304aeedd6cea90&height=1005&width=1920&quality=80&smart=true",
         "title": "Facebook does not plan to notify half-billion users affected by data leak",
@@ -3451,8 +3451,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCybBViio_TH_uiFFDJuz5tg",
         "status_code": 200,
         "tags": [
-            "motivation",
-            "epictetus"
+            "epictetus",
+            "motivation"
         ],
         "thumbnail": "https://i.ytimg.com/vi/p2KHo95Qknk/maxresdefault.jpg",
         "title": "When Life Hurts, Stop Clinging to It | The Philosophy of Epictetus",
@@ -3480,9 +3480,9 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjr2bPAyPV7t35MvcgT3W8Q",
         "status_code": 200,
         "tags": [
-            "surveillance",
+            "electric vehicles",
             "privacy",
-            "electric vehicles"
+            "surveillance"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/WX2SWUMt_fk/maxresdefault.webp",
         "title": "Your Car Is a Better Spy than Facebook",
@@ -3537,12 +3537,12 @@
         "source_url": "",
         "status_code": 200,
         "tags": [
-            "sean parker",
             "dustin moskovitz",
             "facebook",
+            "lifelog",
             "privacy",
-            "surveillance",
-            "lifelog"
+            "sean parker",
+            "surveillance"
         ],
         "thumbnail": "https://unlimitedhangout.com/wp-content/uploads/2021/04/zuckerberg-rows-1.jpg",
         "title": "The Military Origins of Facebook",
@@ -3625,11 +3625,11 @@
         "source_url": "https://www.bbc.com",
         "status_code": 200,
         "tags": [
-            "covid",
             "apple",
+            "covid",
             "google",
-            "tracking",
-            "nhs"
+            "nhs",
+            "tracking"
         ],
         "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/71AB/production/_117999092_door.jpg",
         "title": "NHS Covid-19 app update blocked for breaking Apple and Google's rules",
@@ -3714,11 +3714,11 @@
         "source_url": "https://wpolityce.pl",
         "status_code": 200,
         "tags": [
-            "mrna",
             "covid",
+            "israel",
+            "mrna",
             "pfizer",
-            "vaccine",
-            "israel"
+            "vaccine"
         ],
         "thumbnail": "https://media.wplm.pl/pictures/2020/11/12/825/550/7b39bd604f3e4cd0a94d17837f1dbd8d.jpeg",
         "title": "Zaszczepieni preparatami mRNA bardziej podatni na inne warianty wirusa? Badania z Izraela niepokoj\u0105. Za wcze\u015bnie na picie szampana",
@@ -3745,9 +3745,9 @@
         "source_url": "https://www.washingtonexaminer.com",
         "status_code": 200,
         "tags": [
-            "propaganda",
+            "donald trump",
             "manufacturing consent",
-            "donald trump"
+            "propaganda"
         ],
         "thumbnail": "https://www.washingtonexaminer.com/wp-content/uploads/2023/11/713a78966862ddca08c25beb263e8806-scaled.jpg.optimal.jpg",
         "title": "CNN director shown on undercover video boasting about removing Trump from office and admitting to spreading propaganda | Washington Examiner",
@@ -3774,8 +3774,8 @@
         "source_url": "https://bfsi.economictimes.indiatimes.com",
         "status_code": 200,
         "tags": [
-            "cbdc",
             "big brother",
+            "cbdc",
             "digital yuan"
         ],
         "thumbnail": "https://etimg.etb2bimg.com/thumb/msid-82059471,imgsize-512514,width-1200,height=765,overlay-etbfsi/policy/digital-currency-yuan-comes-with-an-expiry-date-spend-or-it-will-vanish.jpg",
@@ -3803,8 +3803,8 @@
         "source_url": "https://www.lendtech.pl",
         "status_code": 200,
         "tags": [
-            "climate change",
             "carbon limita",
+            "climate change",
             "mastercard"
         ],
         "thumbnail": null,
@@ -3832,8 +3832,8 @@
         "source_url": "https://www.tvp.info",
         "status_code": 600,
         "tags": [
-            "fearmongering",
             "covid",
+            "fearmongering",
             "media"
         ],
         "thumbnail": "https://s.tvp.pl/files/tvp-info/v2/gfx/logo-opengraph-big.jpg",
@@ -3861,10 +3861,10 @@
         "source_url": "https://nypost.com",
         "status_code": 200,
         "tags": [
-            "fearmongering",
+            "cnn",
             "covid",
-            "media",
-            "cnn"
+            "fearmongering",
+            "media"
         ],
         "thumbnail": "https://nypost.com/wp-content/uploads/sites/2/2021/04/covid-cnn-001.jpg?quality=75&strip=all&w=1024",
         "title": "CNN staffer tells Project Veritas network played up COVID-19 death toll for ratings",
@@ -3891,9 +3891,9 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCuq9Z34nOwUA-VtU-H7821A",
         "status_code": 200,
         "tags": [
-            "global warming",
+            "all time",
             "climate change",
-            "all time"
+            "global warming"
         ],
         "thumbnail": "https://i.ytimg.com/vi/HvD0TgE34HA/maxresdefault.jpg",
         "title": "The Anthropocene: Where on Earth are we Going? (Full)",
@@ -3920,11 +3920,11 @@
         "source_url": "https://nypost.com",
         "status_code": 200,
         "tags": [
-            "manufacturing consent",
             "censorship",
-            "twitter",
+            "manufacturing consent",
             "project veritas",
-            "propaganda"
+            "propaganda",
+            "twitter"
         ],
         "thumbnail": "https://nypost.com/wp-content/uploads/sites/2/2021/04/james-okeefe.jpg?quality=75&strip=all&w=1024",
         "title": "James O'Keefe's Twitter suspended one day after CNN expos\u00e9",
@@ -3952,9 +3952,9 @@
         "status_code": 200,
         "tags": [
             "black lives matter",
-            "facebook",
             "censorship",
-            "dailymail"
+            "dailymail",
+            "facebook"
         ],
         "thumbnail": "https://i.dailymail.co.uk/1s/2021/04/16/03/41820740-0-image-a-15_1618541315516.jpg",
         "title": "Facebook blocks users from sharing DailyMail.com story about BLM founder's property empire | Daily Mail Online",
@@ -3981,9 +3981,9 @@
         "source_url": "https://m.pch24.pl",
         "status_code": 200,
         "tags": [
-            "vaccine",
             "covid",
-            "covid mandates"
+            "covid mandates",
+            "vaccine"
         ],
         "thumbnail": "https://pch24.pl/wp-content/uploads/2021/04/corona-4983575_1280.jpg",
         "title": "\u201eNie szczepisz si\u0119, nie pracujesz z lud\u017ami\u201d. Dyrektor UCK wzywa do wprowadzenia szczepionkowych sankcji",
@@ -4067,11 +4067,11 @@
         "source_url": "https://defiantamerica.com",
         "status_code": 200,
         "tags": [
-            "lgbt",
-            "the left wing",
+            "children",
             "indoctrination",
+            "lgbt",
             "sexualization",
-            "children"
+            "the left wing"
         ],
         "thumbnail": "https://defiantamerica.com/wp-content/uploads/2021/04/shock-video-children-being-paraded-across-the-stage-urging-them-to-pose-at-a-los-angeles-drag-club.jpg",
         "title": "Shock Video: Children Being Paraded Across The Stage Urging Them To Pose For Cash At A Los Angeles Drag Club In The Middle Of The Night",
@@ -4099,9 +4099,9 @@
         "status_code": 200,
         "tags": [
             "christianophobia",
-            "religion",
+            "islam",
             "islam terror",
-            "islam"
+            "religion"
         ],
         "thumbnail": "https://wp.pl.aleteia.org/wp-content/uploads/sites/9/2021/04/WEB3-MAN-MARTYR-CHRISTIAN-COPT.jpg?w=620&#038;h=310&#038;crop=1",
         "title": "Zgin\u0105\u0142, bo finansowa\u0142 budow\u0119 ko\u015bcio\u0142a. Morderstwo chrze\u015bcija\u0144skiego handlowca",
@@ -4128,9 +4128,9 @@
         "source_url": "www.patrick-breyer.de",
         "status_code": 200,
         "tags": [
-            "terreg",
+            "censorship",
             "government control",
-            "censorship"
+            "terreg"
         ],
         "thumbnail": "https://www.patrick-breyer.de/wp-content/uploads/2021/04/LIBE_TCO_ENG.png",
         "title": "TERREG: Controversial EU anti-terror Internet regulation TERREG about to be adopted",
@@ -4157,10 +4157,10 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCslJ-7sB7_lby5I-rTdZYLg",
         "status_code": 200,
         "tags": [
-            "plutocracy",
+            "billionaires",
             "chamath palihapitiya",
             "elite",
-            "billionaires"
+            "plutocracy"
         ],
         "thumbnail": "https://i.ytimg.com/vi/VKu3Te_jUn4/maxresdefault.jpg",
         "title": "There's about a 150 people who run the world | Chamath Palihapitiya",
@@ -4187,8 +4187,8 @@
         "source_url": "https://finance.yahoo.com",
         "status_code": 200,
         "tags": [
-            "contract",
             "big pharma",
+            "contract",
             "covid",
             "pfizer"
         ],
@@ -4217,11 +4217,11 @@
         "source_url": "https://www.theguardian.com",
         "status_code": 200,
         "tags": [
-            "transgender",
+            "censorship",
+            "intolerance",
             "lgbt",
             "the left wing",
-            "censorship",
-            "intolerance"
+            "transgender"
         ],
         "thumbnail": "https://i.guim.co.uk/img/media/9fbceeb29d66a697ef45d40545138380bd1a3a29/0_305_5760_3458/master/5760.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjEucG5n&enable=upscale&s=51910aa4d826b14c99531d0e07292c9a",
         "title": "Richard Dawkins loses \u2018humanist of the year\u2019 title over trans comments",
@@ -4249,8 +4249,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCswH8ovgUp5Bdg-0_JTYFNw",
         "status_code": 200,
         "tags": [
-            "internet",
-            "facebook"
+            "facebook",
+            "internet"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/17IZPgxcQm8/maxresdefault.webp",
         "title": "Great Reset: Why Are Facebook REALLY Providing Free Internet?",
@@ -4277,8 +4277,8 @@
         "source_url": "https://nypost.com",
         "status_code": 200,
         "tags": [
-            "science is dead",
             "covid",
+            "science is dead",
             "social distancing"
         ],
         "thumbnail": "https://nypost.com/wp-content/uploads/sites/2/2021/04/domino-park.jpg?quality=75&strip=all&w=1024",
@@ -4335,8 +4335,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjr2bPAyPV7t35MvcgT3W8Q",
         "status_code": 200,
         "tags": [
-            "privacy",
-            "apple"
+            "apple",
+            "privacy"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/r38Epj6ldKU/maxresdefault.webp",
         "title": "Apple Is Terrible for Your Privacy",
@@ -4365,9 +4365,9 @@
         "tags": [
             "big pharma",
             "bill gates",
-            "vaccine",
+            "corporatocracy",
             "covid",
-            "corporatocracy"
+            "vaccine"
         ],
         "thumbnail": null,
         "title": "Bill Gates under fire for saying vaccine formulas shouldn\u2019t be shared with developing world",
@@ -4394,8 +4394,8 @@
         "source_url": "https://nypost.com",
         "status_code": 200,
         "tags": [
-            "covid",
             "cdc",
+            "covid",
             "lockdown"
         ],
         "thumbnail": "https://nypost.com/wp-content/uploads/sites/2/2020/06/social-distance-02.jpg?quality=75&strip=all&w=1024",
@@ -4424,10 +4424,10 @@
         "status_code": 200,
         "tags": [
             "discrimination",
-            "rape",
+            "feminism",
             "inequality",
             "poland",
-            "feminism"
+            "rape"
         ],
         "thumbnail": "https://klubjagiellonski.pl/wp-content/uploads/2021/04/mateus-campos-felipe-9kngv0hk3au-unsplash-1440x960.jpg",
         "title": "Gwa\u0142t po\u00a0nowemu. O\u00a0zgubnych konsekwencjach lewicowego paradygmatu",
@@ -4510,9 +4510,9 @@
         "source_url": "edri.org",
         "status_code": 200,
         "tags": [
-            "terreg",
+            "censorship",
             "government control",
-            "censorship"
+            "terreg"
         ],
         "thumbnail": "https://edri.org/wp-content/uploads/2021/03/Teo-Georgiev-for-Fine-Acts_social_media_blank.jpg",
         "title": "TERREG: European Parliament confirms new online censorship powers",
@@ -4540,11 +4540,11 @@
         "status_code": 200,
         "tags": [
             "big pharma",
-            "biontech",
-            "pfizer",
-            "covid",
             "bill gates",
+            "biontech",
+            "covid",
             "mrna",
+            "pfizer",
             "vaccine"
         ],
         "thumbnail": "https://techstartups.com/wp-content/uploads/2017/11/Bill-Gates.jpg",
@@ -4572,10 +4572,10 @@
         "source_url": "https://www.wnp.pl",
         "status_code": 200,
         "tags": [
-            "sexualization",
-            "paedophilia",
+            "children",
             "indoctrination",
-            "children"
+            "paedophilia",
+            "sexualization"
         ],
         "thumbnail": "https://pliki2.wnp.pl/d/49/85/20/498520_r0_940.jpg",
         "title": "Dania: Nagi uczestnik programu telewizyjnego dla dzieci skazany za pedofili\u0119",
@@ -4657,8 +4657,8 @@
         "status_code": 200,
         "tags": [
             "france",
-            "religion",
-            "intolerance"
+            "intolerance",
+            "religion"
         ],
         "thumbnail": "https://www.catholicnewsagency.com/storage/image/Central_nave_of_the_Abbatiale_Saint-Ouen_(33m_high)_(30812653171).jpg?jpg",
         "title": "Why France is losing one religious building every two weeks",
@@ -4764,9 +4764,9 @@
         "source_url": "www.grunge.com",
         "status_code": 200,
         "tags": [
-            "january 6",
+            "censorship",
             "facebook",
-            "censorship"
+            "january 6"
         ],
         "thumbnail": "https://www.grunge.com/img/gallery/what-a-facebook-ban-really-means-for-trump/l-intro-1620230480.jpg",
         "title": "What A Facebook Ban Really Means For Trump",
@@ -4794,8 +4794,8 @@
         "source_url": "https://lukesmith.xyz/rss.xml",
         "status_code": 200,
         "tags": [
-            "religion",
-            "hedonism"
+            "hedonism",
+            "religion"
         ],
         "thumbnail": null,
         "title": "Modern \"Freedom\" Means Being a Slave to Impulses",
@@ -4878,8 +4878,8 @@
         "status_code": 200,
         "tags": [
             "climate change",
-            "co2",
             "climate science",
+            "co2",
             "pollution"
         ],
         "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/180CF/production/_118411589_china.jpg",
@@ -4907,8 +4907,8 @@
         "source_url": "https://www.wsj.com",
         "status_code": 600,
         "tags": [
-            "apple",
             "amazon",
+            "apple",
             "sidewalk",
             "surveillance"
         ],
@@ -4939,8 +4939,8 @@
         "tags": [
             "big pharma",
             "covid",
-            "vaccine",
-            "pfizer"
+            "pfizer",
+            "vaccine"
         ],
         "thumbnail": "https://nypost.com/wp-content/uploads/sites/2/2021/05/Virus-Outbreak-Italy.jpg?quality=75&strip=all&w=1024",
         "title": "EU signs deal with Pfizer for up to 1.8 billion COVID vaccine doses",
@@ -4967,11 +4967,11 @@
         "source_url": "https://nypost.com",
         "status_code": 200,
         "tags": [
-            "new york times",
-            "propaganda",
             "big brother",
             "manufacturing consent",
-            "ministry of truth"
+            "ministry of truth",
+            "new york times",
+            "propaganda"
         ],
         "thumbnail": "https://nypost.com/wp-content/uploads/sites/2/2021/05/NYT-Fit-to-Twist2.jpg?quality=75&strip=all&w=1024",
         "title": "How the New York Times publishes lies to serve a biased narrative",
@@ -4998,8 +4998,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCO0akufu9MOzyz3nvGIXAAw",
         "status_code": 200,
         "tags": [
-            "covid",
-            "china"
+            "china",
+            "covid"
         ],
         "thumbnail": "https://i.ytimg.com/vi/kuKPBur_TiI/maxresdefault.jpg",
         "title": "Chinese document discussing weaponising coronaviruses provides 'chilling' informati",
@@ -5026,12 +5026,12 @@
         "source_url": "https://medianarodowe.com",
         "status_code": 200,
         "tags": [
-            "transgender",
-            "lgbt",
-            "the left wing",
+            "family",
             "indoctrination",
+            "lgbt",
             "propaganda",
-            "family"
+            "the left wing",
+            "transgender"
         ],
         "thumbnail": "https://medianarodowe.com/wp-content/uploads/2021/05/lgbt-dziecko-tecza-media-narodowe-1.jpg",
         "title": "Rodzice twierdz\u0105, \u017ce ich 4-letnie dziecko jest transp\u0142ciowe [WIDEO]",
@@ -5058,8 +5058,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs8o1mdWAfefJkdBg632_tg",
         "status_code": 200,
         "tags": [
-            "movies",
-            "cinemas"
+            "cinemas",
+            "movies"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/12f0ligwS5s/maxresdefault.webp",
         "title": "Why 99% Of Movies Today Are Garbage - Chris Gore",
@@ -5086,8 +5086,8 @@
         "source_url": "https://www.science.org",
         "status_code": 403,
         "tags": [
-            "lab leak",
             "covid",
+            "lab leak",
             "wuhan"
         ],
         "thumbnail": null,
@@ -5115,9 +5115,9 @@
         "source_url": "https://thepostmillennial.com",
         "status_code": 200,
         "tags": [
+            "disney",
             "go woke go broke",
-            "the left wing",
-            "disney"
+            "the left wing"
         ],
         "thumbnail": "https://mr.cdn.ignitecdn.com/client_assets/thepostmillennial_com/media/picture/6310/cf5b/3e49/100d/6296/5de8/article_PM_shared.jpg?1662046043",
         "title": "GET WOKE, GO BROKE: Disney revenue PLUMMETS after woke corporate culture revealed",
@@ -5144,8 +5144,8 @@
         "source_url": "https://www.telegraph.co.uk",
         "status_code": 200,
         "tags": [
-            "fearmongering",
-            "covid"
+            "covid",
+            "fearmongering"
         ],
         "thumbnail": "https://www.telegraph.co.uk/content/dam/news/2021/02/19/TELEMMGLPICT000248968186_trans_NvBQzQNjv4BqBjUG_F_1fNQxkCyrmqS2U7mpZX1y3jIO2BC-G-3Tn18.jpeg?impolicy=OG-Standard",
         "title": "Use of fear to control behaviour in Covid crisis was \u2018totalitarian\u2019, admit scientists",
@@ -5172,10 +5172,10 @@
         "source_url": "https://www.theguardian.com",
         "status_code": 200,
         "tags": [
-            "white supremacy",
-            "odysee",
             "free speech",
-            "moderation"
+            "moderation",
+            "odysee",
+            "white supremacy"
         ],
         "thumbnail": "https://i.guim.co.uk/img/media/b3cbaa4d9a4782ef945e2a97a14b81c6b8a7fe9b/0_89_3000_1800/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjEucG5n&enable=upscale&s=43bde9feb943db07204a6a06665e2a29",
         "title": "Video platform chief says Nazi posts on white superiority do not merit removal",
@@ -5202,9 +5202,9 @@
         "source_url": "https://www.bankier.pl",
         "status_code": 200,
         "tags": [
-            "prawo i sprawiedliwo\u015b\u0107",
             "poland",
-            "polski \u0142ad"
+            "polski \u0142ad",
+            "prawo i sprawiedliwo\u015b\u0107"
         ],
         "thumbnail": "https://galeria.bankier.pl/p/7/5/e4e1f2be6df151-948-567-0-65-1000-599.jpg",
         "title": "Polski \u0141ad. Politycy i ekonomi\u015bci komentuj\u0105. \"Zap\u0142ac\u0105 przedsi\u0119biorcy i lepiej zarabiaj\u0105cy\" - Bankier.pl",
@@ -5231,9 +5231,9 @@
         "source_url": "https://theconversation.com",
         "status_code": 200,
         "tags": [
-            "vaccine",
             "covid",
-            "propaganda"
+            "propaganda",
+            "vaccine"
         ],
         "thumbnail": "https://images.theconversation.com/files/400078/original/file-20210511-17-xc5c75.jpg?ixlib=rb-4.1.0&rect=0%2C62%2C5181%2C2590&q=45&auto=format&w=1356&h=668&fit=crop",
         "title": "Vaccine passports: why they are good for society",
@@ -5260,9 +5260,9 @@
         "source_url": "https://thehill.com",
         "status_code": 600,
         "tags": [
+            "anthony fauci",
             "covid",
-            "transmission",
-            "anthony fauci"
+            "transmission"
         ],
         "thumbnail": "https://thehill.com/wp-content/uploads/sites/2/2021/05/fauci_051121gn.jpg?w=1280",
         "title": "Fauci: Vaccinated people become \u2018dead ends\u2019 for the coronavirus",
@@ -5289,10 +5289,10 @@
         "source_url": "https://totalityofevidence.com",
         "status_code": 200,
         "tags": [
-            "covid",
-            "transmission",
             "anthony fauci",
-            "covid lie"
+            "covid",
+            "covid lie",
+            "transmission"
         ],
         "thumbnail": "https://totalityofevidence.com/wp-content/uploads/2023/02/TOE-featured-image2.jpg",
         "title": "Fauci: the vaccinated stop viral transmission, no need for masks",
@@ -5319,13 +5319,13 @@
         "source_url": "https://ithardware.pl",
         "status_code": 200,
         "tags": [
-            "misinformation",
-            "facebook",
-            "propaganda",
-            "vaccine",
-            "moderation",
+            "censorship",
             "covid",
-            "censorship"
+            "facebook",
+            "misinformation",
+            "moderation",
+            "propaganda",
+            "vaccine"
         ],
         "thumbnail": "https://ithardware.pl/artykuly/hd/16200_1.jpg",
         "title": "Facebook zakazuje sceptycyzmu wobec szczepie\u0144 przeciw COVID-19",
@@ -5407,10 +5407,10 @@
         "source_url": "https://nieczekam107lat.github.io",
         "status_code": 200,
         "tags": [
-            "sexism",
             "discrimination",
+            "feminism",
             "poland",
-            "feminism"
+            "sexism"
         ],
         "thumbnail": null,
         "title": "Dyskryminacja m\u0119\u017cczyzn i \u201edyskryminacja\u201d kobiet w Polsce",
@@ -5462,8 +5462,8 @@
         "source_url": "https://humansbefree.com",
         "status_code": 200,
         "tags": [
-            "jeffrey epstein",
-            "bill gates"
+            "bill gates",
+            "jeffrey epstein"
         ],
         "thumbnail": "https://humansbefree.com/wp-content/uploads/2021/05/Bill-Gates-and-Jeffrey-Epstein-Traded-Advice-on-Bills-Toxic-Marriage-Jeffs-Pedo-Image-Rehab-During-Secretive-Mens-Club-Gatherings-e1621270240748.jpeg",
         "title": "Billy Boy and Jeffrey Epstein Traded Advice on Bill's 'Toxic' Marriage & Jeff's Pedo Image Rehab, During Secretive 'Men's Club' Gatherings",
@@ -5490,9 +5490,9 @@
         "source_url": "https://nypost.com",
         "status_code": 200,
         "tags": [
-            "nobel",
+            "bill gates",
             "jeffrey epstein",
-            "bill gates"
+            "nobel"
         ],
         "thumbnail": "https://nypost.com/wp-content/uploads/sites/2/2021/05/epstein-gates-nobel-hp.jpg?quality=75&strip=all&w=1024",
         "title": "Bill Gates reportedly hoped Jeffrey Epstein would help him win a Nobel",
@@ -5520,11 +5520,11 @@
         "status_code": 200,
         "tags": [
             "covid",
-            "wef",
             "covid mandates",
             "fearmongering",
-            "world economic forum",
-            "vaccine"
+            "vaccine",
+            "wef",
+            "world economic forum"
         ],
         "thumbnail": "https://nationalfile.com/wp-content/uploads/2021/05/wef-delete-tweet.jpg",
         "title": "World Economic Forum Urges Companies To Fire Unvaccinated Employees As Part of \u2018Jobs Reset,\u2019 Deletes Tweet After Backlash",
@@ -5580,8 +5580,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFQMnBA3CS502aghlcr0_aw",
         "status_code": 200,
         "tags": [
-            "jeffrey epstein",
-            "bill gates"
+            "bill gates",
+            "jeffrey epstein"
         ],
         "thumbnail": "https://i.ytimg.com/vi/D9iF4k16be0/maxresdefault.jpg",
         "title": "Bill Gates Won't Stop Lying About Epstein Connections",
@@ -5608,9 +5608,9 @@
         "source_url": "https://www.theverge.com",
         "status_code": 200,
         "tags": [
-            "link rot",
             "dead internet",
-            "internet"
+            "internet",
+            "link rot"
         ],
         "thumbnail": "https://cdn.vox-cdn.com/thumbor/0FUPbNLB6MlNiWIQf8IT-VzDSSg=/0x0:2050x1367/1200x628/filters:focal(1025x684:1026x685)/cdn.vox-cdn.com/uploads/chorus_asset/file/22397464/VRG_ILLO_4489_003.jpg",
         "title": "New research shows how many important links on the web get lost to time - The Verge",
@@ -5637,11 +5637,11 @@
         "source_url": "https://edition.cnn.com",
         "status_code": 200,
         "tags": [
-            "covid",
             "big pharma",
             "billionaires",
-            "vaccine",
-            "manufacturing consent"
+            "covid",
+            "manufacturing consent",
+            "vaccine"
         ],
         "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/210521072312-restricted-split-stephane-bancel-ugur-sahin.jpg?q=x_0,y_0,h_619,w_1100,c_fill/w_800",
         "title": "Covid vaccine profits mint 9 new pharma billionaires | CNN Business",
@@ -5696,8 +5696,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPWXiRWZ29zrxPFIQT7eHSA",
         "status_code": 200,
         "tags": [
-            "jeffrey epstein",
-            "bill gates"
+            "bill gates",
+            "jeffrey epstein"
         ],
         "thumbnail": "https://i.ytimg.com/vi/s54H5d34GWE/sddefault.jpg",
         "title": "Saagar Enjeti: Epstein Guards ADMIT Faking Records As Bill Gates Revelations Continue",
@@ -5724,9 +5724,9 @@
         "source_url": "https://www.forbes.com",
         "status_code": 200,
         "tags": [
-            "wuhan",
+            "china",
             "covid",
-            "china"
+            "wuhan"
         ],
         "thumbnail": "https://imageio.forbes.com/specials-images/imageserve/60aacd857fb0d8bb7f7f4a3f/0x0.jpg?format=jpg&crop=3553,1999,x0,y195,safe&height=900&width=1600&fit=bounds",
         "title": "Report: Wuhan Lab Staff Went To Hospital With Covid-Like Symptoms Before Confirmed Outbreak, New Intelligence Finds",
@@ -5783,8 +5783,8 @@
         "status_code": 200,
         "tags": [
             "bill gates",
-            "microsoft",
-            "jeffrey epstein"
+            "jeffrey epstein",
+            "microsoft"
         ],
         "thumbnail": "https://unlimitedhangout.com/wp-content/uploads/2021/05/gates-epstein-e1621962594625.jpg",
         "title": "The Cover-Up Continues: The Truth About Bill Gates, Microsoft, and Jeffrey Epstein",
@@ -5811,11 +5811,11 @@
         "source_url": "https://www.nbcnews.com",
         "status_code": 200,
         "tags": [
-            "misinformation",
-            "russia",
+            "disinformation",
             "facebook",
             "iran",
-            "disinformation"
+            "misinformation",
+            "russia"
         ],
         "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2021_21/3477646/210525-facebook-mb-2107.jpg",
         "title": "Russia, Iran were top two sources of disinfo on Facebook targeting U.S. during Trump admin, says report",
@@ -5842,11 +5842,11 @@
         "source_url": "https://thehill.com",
         "status_code": 600,
         "tags": [
-            "lab leak",
-            "facebook",
+            "censorship",
             "covid",
-            "wuhan",
-            "censorship"
+            "facebook",
+            "lab leak",
+            "wuhan"
         ],
         "thumbnail": "https://thehill.com/wp-content/uploads/sites/2/2021/05/facebook-logo_040721getty_webb.jpg?w=1280",
         "title": "Facebook reverses policy to allow posts speculating that COVID-19 was made in a lab | The Hill",
@@ -5873,10 +5873,10 @@
         "source_url": "https://abcnews.go.com",
         "status_code": 200,
         "tags": [
-            "wuhan",
-            "facebook",
             "censorship",
-            "covid"
+            "covid",
+            "facebook",
+            "wuhan"
         ],
         "thumbnail": "https://s.abcnews.com/images/Technology/facebook-logo_hpMain_20210526-212138_16x9_992.jpg?w=1600",
         "title": "Facebook lifts ban on posts claiming COVID-19 was man-made, amid revitalized origins debate - ABC News",
@@ -5932,13 +5932,13 @@
         "source_url": "https://www.computerweekly.com",
         "status_code": 200,
         "tags": [
-            "biometric",
-            "facial recognition",
             "artificial intelligence",
-            "surveillance",
-            "privacy",
+            "big brother",
+            "biometric",
             "clearview ai",
-            "big brother"
+            "facial recognition",
+            "privacy",
+            "surveillance"
         ],
         "thumbnail": "https://www.computerweekly.com/visuals/German/article/facial-recognition-ID-2-adobe.jpg",
         "title": "NGOs file complaints against Clearview AI in five countries | Computer Weekly",
@@ -5965,10 +5965,10 @@
         "source_url": "https://www.bbc.com",
         "status_code": 200,
         "tags": [
-            "orwell",
             "big tech",
-            "surveillance",
-            "microsoft"
+            "microsoft",
+            "orwell",
+            "surveillance"
         ],
         "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/147EA/production/_118664938_whatsubject.jpg",
         "title": "Microsoft president: Orwell\u2019s 1984 could happen in 2024",
@@ -5995,8 +5995,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCuErSr7xeR763BzTJL7yJ7A",
         "status_code": 200,
         "tags": [
-            "usa",
-            "socialism"
+            "socialism",
+            "usa"
         ],
         "thumbnail": "https://i.ytimg.com/vi/npkZQGD7LOM/maxresdefault.jpg",
         "title": "The Takeover has Already Begun - A Secret Video Reveals All by @RICHARD GRANNON",
@@ -6023,11 +6023,11 @@
         "source_url": "https://www.today.com",
         "status_code": 200,
         "tags": [
-            "lgbt",
-            "the left wing",
+            "children",
             "indoctrination",
+            "lgbt",
             "sexualization",
-            "children"
+            "the left wing"
         ],
         "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/newscms/2021_21/1725062/blues-clues-pride-video-today-main.jpg",
         "title": "'Blue's Clues' releases LGBTQ-themed sing-along video for Pride Month",
@@ -6054,9 +6054,9 @@
         "source_url": "https://www.reuters.com",
         "status_code": 200,
         "tags": [
+            "angela merkel",
             "espionage",
-            "surveillance",
-            "angela merkel"
+            "surveillance"
         ],
         "thumbnail": "https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FGPQV22MUAFJNZCMLI5DXWXMBBI.jpg?auth=5a6dc5f698a15f6cdc73813bbda8ab2d6fdfa9b435c5ee90fba6ee0cadcbfc37&height=1005&width=1920&quality=80&smart=true",
         "title": "U.S. spied on Merkel and other Europeans through Danish cables - broadcaster DR",
@@ -6083,10 +6083,10 @@
         "source_url": "https://www.bbc.com",
         "status_code": 200,
         "tags": [
-            "covid",
-            "mark zuckerberg",
+            "anthony fauci",
             "censorship",
-            "anthony fauci"
+            "covid",
+            "mark zuckerberg"
         ],
         "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/EFFE/production/_118783416_gettyimages-1209801794.jpg",
         "title": "Why are people talking about Dr Anthony Fauci's emails?",
@@ -6113,11 +6113,11 @@
         "source_url": "www.nfcw.com",
         "status_code": 200,
         "tags": [
-            "digital passport",
-            "privacy",
             "big brother",
+            "digital identity",
+            "digital passport",
             "government control",
-            "digital identity"
+            "privacy"
         ],
         "thumbnail": "https://www.nfcw.com/wp-content/uploads/2020/09/european-flag-eu-400w.jpg",
         "title": "Digital Identity: EU to lay out plans for Europe-wide digital identity wallet",
@@ -6144,11 +6144,11 @@
         "source_url": "https://www.forbes.com",
         "status_code": 200,
         "tags": [
-            "lab leak",
             "big brother",
             "covid",
-            "wuhan",
-            "joe biden"
+            "joe biden",
+            "lab leak",
+            "wuhan"
         ],
         "thumbnail": "https://imageio.forbes.com/specials-images/imageserve/60ae50602167b828f208b5b6/0x0.jpg?format=jpg&crop=4064,2286,x0,y189,safe&height=900&width=1600&fit=bounds",
         "title": "Biden Team Reportedly Shut Down Secretive Trump-Era Project Pursuing The Wuhan Lab-Leak Theory",
@@ -6175,9 +6175,9 @@
         "source_url": "townhall.com",
         "status_code": 200,
         "tags": [
+            "censorship",
             "facebook",
-            "lab leak",
-            "censorship"
+            "lab leak"
         ],
         "thumbnail": "https://media.townhall.com/cdn/hodl/2018/303/23c7a842-e6a0-4641-b339-53a43558f026.jpg",
         "title": "We Now Know Why Facebook May Have Censored the Lab Leak Theory",
@@ -6205,9 +6205,9 @@
         "status_code": 200,
         "tags": [
             "anthony fauci",
+            "covid",
             "email",
-            "leak",
-            "covid"
+            "leak"
         ],
         "thumbnail": "https://nypost.com/wp-content/uploads/sites/2/2021/06/fauci-emails-02.jpg?quality=75&strip=all&w=1024",
         "title": "Fauci was warned that COVID-19 may have been \u2018engineered,\u2019 emails show",
@@ -6234,8 +6234,8 @@
         "source_url": "https://www.annenberginstitute.org",
         "status_code": 200,
         "tags": [
-            "bill gates",
             "annenberg",
+            "bill gates",
             "manufacturing consent"
         ],
         "thumbnail": null,
@@ -6292,11 +6292,11 @@
         "source_url": "https://www.npr.org",
         "status_code": 200,
         "tags": [
+            "gender",
+            "intolerance",
             "lgbt",
             "the left wing",
-            "gender",
-            "usa",
-            "intolerance"
+            "usa"
         ],
         "thumbnail": "https://media.npr.org/assets/img/2021/06/02/gettyimages-90748537_wide-f7797892bd55fbaa7953a4ace1211e6f67328f62.jpg?s=1400&c=100&f=jpeg",
         "title": "A Virginia Teacher Was Put On Leave After Opposing New Rights For Trans Students",
@@ -6323,8 +6323,8 @@
         "source_url": "https://www.vanityfair.com",
         "status_code": 200,
         "tags": [
-            "lab leak",
             "covid",
+            "lab leak",
             "wuhan"
         ],
         "thumbnail": "https://media.vanityfair.com/photos/60b8022ebe6052a955e5528c/16:9/w_1280,c_limit/VF0721_Covid_Origins_1.jpg",
@@ -6354,8 +6354,8 @@
         "status_code": 200,
         "tags": [
             "anthony fauci",
-            "covid lie",
-            "covid"
+            "covid",
+            "covid lie"
         ],
         "thumbnail": "https://i.ytimg.com/vi/2YmpRI9KDh8/maxresdefault.jpg",
         "title": "What Fauci's EXPOSED Emails REVEAL",
@@ -6382,10 +6382,10 @@
         "source_url": "",
         "status_code": 200,
         "tags": [
-            "peter daszak",
             "covid",
-            "wuhan",
-            "fauci"
+            "fauci",
+            "peter daszak",
+            "wuhan"
         ],
         "thumbnail": "http://nationalfile.com/wp-content/uploads/2021/06/Trump-Fauci-Peter-Daszak.jpg",
         "title": "BOMBSHELL: Fauci Kept Funding Peter Daszak's Wuhan 'Gain of Function' Experiments with $7.5 Million after Trump Canceled Grant",
@@ -6412,10 +6412,10 @@
         "source_url": "https://nypost.com",
         "status_code": 200,
         "tags": [
-            "lab leak",
+            "covid",
             "covid origins",
             "daszak",
-            "covid",
+            "lab leak",
             "wuhan"
         ],
         "thumbnail": "https://nypost.com/wp-content/uploads/sites/2/2021/06/daszak-wuhan-institute-of-virology.jpg?quality=75&strip=all&w=1024",
@@ -6443,11 +6443,11 @@
         "source_url": "https://reason.com",
         "status_code": 200,
         "tags": [
-            "covid",
-            "wuhan",
-            "science is dead",
             "censorship",
-            "misinformation"
+            "covid",
+            "misinformation",
+            "science is dead",
+            "wuhan"
         ],
         "thumbnail": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2021/06/ig2-1.jpg",
         "title": "The Media's Lab Leak Debacle Shows Why Banning 'Misinformation' Is a Terrible Idea",
@@ -6474,9 +6474,9 @@
         "source_url": "https://reclaimthenet.org",
         "status_code": 200,
         "tags": [
-            "microsoft",
             "censorship",
-            "china"
+            "china",
+            "microsoft"
         ],
         "thumbnail": "https://reclaimthenet.org/wp-content/uploads/2021/06/bng.png",
         "title": "Microsoft's Bing censors image results for \"tank man\" on anniversary of Tiananmen Square massacre",
@@ -6503,11 +6503,11 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5M_h2S8Ldoc9M6f7B-_m6A",
         "status_code": 200,
         "tags": [
-            "lgbt",
-            "the left wing",
+            "children",
             "indoctrination",
+            "lgbt",
             "sexualization",
-            "children"
+            "the left wing"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/Xprabkl1LD4/maxresdefault.webp",
         "title": "The Meaning of Pride ft. Drag Queen Nina West \ud83c\udff3\ufe0f\u200d\ud83c\udf08 (Pride Song)",
@@ -6534,11 +6534,11 @@
         "source_url": "https://www.mumsnet.com",
         "status_code": 200,
         "tags": [
-            "lgbt",
-            "the left wing",
+            "children",
             "indoctrination",
+            "lgbt",
             "sexualization",
-            "children"
+            "the left wing"
         ],
         "thumbnail": "https://www.mumsnet.com/og-image.png",
         "title": "Anyone remember that Danish TV show pairing children with naked adults?",
@@ -6566,8 +6566,8 @@
         "status_code": 200,
         "tags": [
             "covid",
-            "virtue signalling",
-            "psychology"
+            "psychology",
+            "virtue signalling"
         ],
         "thumbnail": null,
         "title": "If you have to be persuaded, reminded pressured, lied to, incentivized, forced, bullied, socially shamed, guilt-tripped, threatened, punished and criminalized",
@@ -6594,8 +6594,8 @@
         "source_url": "https://www.oxfordstudent.com",
         "status_code": 200,
         "tags": [
-            "wuhan",
-            "covid"
+            "covid",
+            "wuhan"
         ],
         "thumbnail": "https://i2.wp.com/www.oxfordstudent.com/wp-content/uploads/2021/06/Chen-Chen-2-2.jpg?fit=1200%2C630&ssl=1",
         "title": "Bats and Pangolins not sold at Wuhan markets, says Oxford research",
@@ -6622,11 +6622,11 @@
         "source_url": "https://www.opendemocracy.net",
         "status_code": 403,
         "tags": [
+            "big brother",
             "censorship",
-            "surveillance",
             "clearing house",
             "covid",
-            "big brother"
+            "surveillance"
         ],
         "thumbnail": "https://cdn2.opendemocracy.net/media/images/2DEM48A_1.2e16d0ba.fill-1200x630.jpg",
         "title": "Judge slams Michael Gove\u2019s office as openDemocracy wins transparency court case | openDemocracy",
@@ -6654,11 +6654,11 @@
         "status_code": 200,
         "tags": [
             "big brother",
-            "england",
-            "covid",
-            "surveillance",
             "censorship",
-            "clearing house"
+            "clearing house",
+            "covid",
+            "england",
+            "surveillance"
         ],
         "thumbnail": "https://i.guim.co.uk/img/media/59af26af293355c08254a217e0fdcde8885b6356/0_77_2975_1785/master/2975.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjEucG5n&enable=upscale&s=b9a6079d5f01104021ec353e6e480708",
         "title": "UK government loses legal battle over transparency of \u2018Orwellian\u2019 unit | Freedom of information | The Guardian",
@@ -6685,12 +6685,12 @@
         "source_url": "https://www.securityweek.com",
         "status_code": 403,
         "tags": [
-            "surveillance",
-            "corporatocracy",
-            "vulnerability",
-            "privacy",
             "amazon",
-            "mesh network"
+            "corporatocracy",
+            "mesh network",
+            "privacy",
+            "surveillance",
+            "vulnerability"
         ],
         "thumbnail": null,
         "title": "Amazon Sidewalk Mesh Network Raises Security, Privacy Concerns - SecurityWeek",
@@ -6745,9 +6745,9 @@
         "source_url": "https://thefederalist.com",
         "status_code": 200,
         "tags": [
-            "middleclass",
+            "blackrock",
             "hedgefunds",
-            "blackrock"
+            "middleclass"
         ],
         "thumbnail": "https://thefederalist.com/wp-content/uploads/2021/06/6178979029_05997a11eb_k.jpg",
         "title": "What Happens When Hedge Funds Buy Up Neighborhoods",
@@ -6799,8 +6799,8 @@
         "source_url": "www.fiercebiotech.com",
         "status_code": 403,
         "tags": [
-            "moderna",
             "manufacturing consent",
+            "moderna",
             "vaccine"
         ],
         "thumbnail": null,
@@ -6829,8 +6829,8 @@
         "status_code": 200,
         "tags": [
             "covid",
-            "who",
-            "herd immunity"
+            "herd immunity",
+            "who"
         ],
         "thumbnail": null,
         "title": "Kiedy WHO zmieni\u0142a definicj\u0119 odporno\u015bci stada? Zmiana tre\u015bci definicji terminu Odporno\u015b\u0107 Stadna. [listopad 2020]",
@@ -6857,8 +6857,8 @@
         "source_url": "https://www.aclu.org",
         "status_code": 200,
         "tags": [
-            "corporatocracy",
             "amazon",
+            "corporatocracy",
             "sidewalk",
             "surveillance"
         ],
@@ -6888,8 +6888,8 @@
         "status_code": 200,
         "tags": [
             "big brother",
-            "covid",
-            "cdc"
+            "cdc",
+            "covid"
         ],
         "thumbnail": "https://static.independent.co.uk/2021/06/19/18/GettyImages-1320230182.jpg?quality=75&width=1200&auto=webp",
         "title": "\u2018CDC has been wrong all along, and they knew it\u2019, says Ron DeSantis as judge rules CDC can\u2019t regulate cruises | The Independent",
@@ -6916,9 +6916,9 @@
         "source_url": "https://www.globalresearch.ca",
         "status_code": 200,
         "tags": [
+            "blackrock",
             "great reset",
-            "world economic forum",
-            "blackrock"
+            "world economic forum"
         ],
         "thumbnail": "https://www.globalresearch.ca/wp-content/uploads/2021/06/BLRK52341.jpg",
         "title": "Colossal Financial Pyramid: BlackRock and The WEF \"Great Reset\" - Global ResearchGlobal Research - Centre for Research on Globalization",
@@ -6945,9 +6945,9 @@
         "source_url": "http://feeds.bbci.co.uk/news/rss.xml",
         "status_code": 200,
         "tags": [
-            "north korea",
+            "hackers",
             "lazarus",
-            "hackers"
+            "north korea"
         ],
         "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/CFE1/production/_118971235_bbc_tlh_arta1-nc-1.png",
         "title": "The Lazarus heist: How North Korea almost pulled off a billion-dollar hack",
@@ -6975,8 +6975,8 @@
         "status_code": 200,
         "tags": [
             "anthony fauci",
-            "science",
             "covid",
+            "science",
             "science is dead"
         ],
         "thumbnail": "https://media.breitbart.com/media/2021/01/AP_20267580332014-640x335.jpg",
@@ -7004,11 +7004,11 @@
         "source_url": "https://www.cnet.com",
         "status_code": 200,
         "tags": [
-            "surveillance",
-            "sidewalk",
-            "corporatocracy",
             "amazon",
-            "smart city"
+            "corporatocracy",
+            "sidewalk",
+            "smart city",
+            "surveillance"
         ],
         "thumbnail": "https://www.cnet.com/a/img/resize/4410327e05bab0f46f551bc8a03817846fc74a5c/hub/2019/09/26/34b64687-3bae-491a-be3a-389adf0c6f56/amazon-event-092519-0173.jpg?auto=webp&fit=crop&height=675&width=1200",
         "title": "Amazon Sidewalk will create entire smart neighborhoods. Here's what you should know - CNET",
@@ -7064,8 +7064,8 @@
         "status_code": 200,
         "tags": [
             "covid",
-            "tracking",
-            "privacy"
+            "privacy",
+            "tracking"
         ],
         "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2021/06/73.jpg",
         "title": "Even creepier COVID tracking: Google silently pushed app to users\u2019 phones [Updated]",
@@ -7093,10 +7093,10 @@
         "status_code": 200,
         "tags": [
             "antitrust",
-            "monopoly",
+            "big tech",
             "cookies",
             "google",
-            "big tech"
+            "monopoly"
         ],
         "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2021/06/getty-chrome-logo.jpg",
         "title": "EU launches antitrust probe into Google banning third-party cookies in Chrome | Ars Technica",
@@ -7124,8 +7124,8 @@
         "status_code": 200,
         "tags": [
             "canada",
-            "religion",
-            "church scandal"
+            "church scandal",
+            "religion"
         ],
         "thumbnail": "https://w2pcms.com/wp-content/uploads/sites/10/2021/06/Canada_National_Indigenous_Peoples_Day_08185.jpg?w=1000",
         "title": "Over 600 bodies found at church-run Indigenous school in Canada, groups report  - Portland Press Herald",
@@ -7152,8 +7152,8 @@
         "source_url": "https://alexberenson.substack.com",
         "status_code": 200,
         "tags": [
-            "vaccine",
-            "covid"
+            "covid",
+            "vaccine"
         ],
         "thumbnail": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbc551a8c-6ad7-42f7-9d8d-debffecf2fb8_750x1334.png",
         "title": "Vaccines: Reasons for Concern - by Alex Berenson",
@@ -7180,9 +7180,9 @@
         "source_url": "techcrunch.com",
         "status_code": 0,
         "tags": [
+            "google",
             "subscription",
-            "technofeudalism",
-            "google"
+            "technofeudalism"
         ],
         "thumbnail": null,
         "title": "Come June 1, 2021, all of your new photos will count against your free Google storage",
@@ -7237,11 +7237,11 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIjGKyrdT4Gja0VLO40RlOw",
         "status_code": 200,
         "tags": [
-            "history",
-            "religion knowledge",
-            "jesus christ",
             "bible",
-            "religion"
+            "history",
+            "jesus christ",
+            "religion",
+            "religion knowledge"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/A41Tm5FDKns/maxresdefault.webp",
         "title": "Is Jesus Historical? What Do The Romans Say About Him?",
@@ -7269,12 +7269,12 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzQUP1qoWDoEbmsQxvdjxgQ",
         "status_code": 200,
         "tags": [
-            "sexism",
-            "joe rogan",
-            "white privilege",
-            "the left wing",
             "gender",
-            "virtue signalling"
+            "joe rogan",
+            "sexism",
+            "the left wing",
+            "virtue signalling",
+            "white privilege"
         ],
         "thumbnail": "https://i.ytimg.com/vi/OHE442ISkUU/maxresdefault.jpg",
         "title": "What Started the Cultural Fixation on Gender?",
@@ -7302,9 +7302,9 @@
         "status_code": 200,
         "tags": [
             "crypto wars",
+            "technofeudalism",
             "tpm",
-            "windows",
-            "technofeudalism"
+            "windows"
         ],
         "thumbnail": "https://cdn.vox-cdn.com/thumbor/iYlxUoLFEMQdHkRwCOwK5f35AXY=/0x0:1280x720/1200x628/filters:focal(640x360:641x361)/cdn.vox-cdn.com/uploads/chorus_asset/file/22681710/windows11darkmode.jpg",
         "title": "Why Windows 11 is forcing everyone to use TPM chips - The Verge",
@@ -7359,11 +7359,11 @@
         "source_url": "https://www.nationalreview.com",
         "status_code": 200,
         "tags": [
+            "censorship",
             "covid",
             "ministry of truth",
-            "wuhan",
-            "censorship",
-            "misinformation"
+            "misinformation",
+            "wuhan"
         ],
         "thumbnail": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2018/08/washington-post-building.jpg?fit=2057%2C1200&ssl=1",
         "title": "Coronavirus Origins: Washington Post Corrects Year-Old Article Calling Lab-Leak Theory 'Debunked' | National Review",
@@ -7391,8 +7391,8 @@
         "status_code": 200,
         "tags": [
             "covid lie",
-            "vaccine",
-            "science is dead"
+            "science is dead",
+            "vaccine"
         ],
         "thumbnail": "https://medicine.washu.edu/app/uploads/2021/06/202100526_Ellebedy_forweb.jpg",
         "title": "COVID-19 vaccine generates immune structures critical for lasting immunity \u2013 Washington University School of Medicine in St. Louis",
@@ -7419,9 +7419,9 @@
         "source_url": "https://www.theatlantic.com",
         "status_code": 200,
         "tags": [
-            "link rot",
             "dead internet",
-            "internet"
+            "internet",
+            "link rot"
         ],
         "thumbnail": "https://cdn.theatlantic.com/thumbor/vQRjfGymFxHB5Qxn2SmAcgxazXE=/0x144:4792x2640/1200x625/media/img/mt/2021/06/Untitled_10_1/original.gif",
         "title": "The Rotting Internet Is a Collective Hallucination - The Atlantic",
@@ -7448,9 +7448,9 @@
         "source_url": "https://www.npr.org",
         "status_code": 200,
         "tags": [
-            "religion",
+            "canada",
             "church scandal",
-            "canada"
+            "religion"
         ],
         "thumbnail": "https://media.npr.org/assets/img/2021/07/01/ap21165041671525_wide-b0895ea6fd36578a562da988096cc165945d92cc.jpg?s=1400&c=100&f=jpeg",
         "title": "Canadian Indigenous Group Says More Graves Found At New Site : NPR",
@@ -7505,10 +7505,10 @@
         "source_url": "https://panoptykon.org",
         "status_code": 200,
         "tags": [
-            "government",
-            "vaccine",
+            "big brother",
             "covid",
-            "big brother"
+            "government",
+            "vaccine"
         ],
         "thumbnail": "https://panoptykon.org/sites/default/files/leadimage-artykuly-w-skrocie/smartphone-6331225_1280.jpg",
         "title": "Rz\u0105d nakaza\u0142 przedsi\u0119biorcom segregacj\u0119 na szczepionych i nieszczepionych, ale zapomnia\u0142 powiedzie\u0107, jak maj\u0105 to robi\u0107",
@@ -7535,11 +7535,11 @@
         "source_url": "https://niezalezna.pl",
         "status_code": 200,
         "tags": [
-            "lgbt",
-            "the left wing",
             "big brother",
             "inequality",
-            "spain"
+            "lgbt",
+            "spain",
+            "the left wing"
         ],
         "thumbnail": "https://files.niezalezna.tech//archive/cropit/16251636691d3a3fff9e90f37a15a1de260cc0b372edd766769810e20300ac9b1b751f598c.jpg?r=1200,600",
         "title": "Nowe prawo dot. LGBT w Hiszpanii. Musisz udowodni\u0107 niewinno\u015b\u0107",
@@ -7566,13 +7566,13 @@
         "source_url": "https://portal-polski.pl",
         "status_code": 200,
         "tags": [
-            "transgender",
-            "lgbt",
-            "the left wing",
-            "gender",
             "big brother",
+            "children",
+            "gender",
+            "lgbt",
             "spain",
-            "children"
+            "the left wing",
+            "transgender"
         ],
         "thumbnail": "https://portal-polski.pl/wp-content/uploads/2021/06/teen-6331600_1920.jpg",
         "title": "Hiszpania: zmiana p\u0142ci od 14 roku \u017cycia bez ogranicze\u0144",
@@ -7628,10 +7628,10 @@
         "source_url": "https://www.nytimes.com",
         "status_code": 403,
         "tags": [
-            "facebook",
-            "the right wing",
             "crowdtangle",
-            "meta"
+            "facebook",
+            "meta",
+            "the right wing"
         ],
         "thumbnail": "https://static01.nyt.com/images/2021/06/21/business/00roose2/00roose2-facebookJumbo.jpg?year=2021&h=549&w=1050&s=0230a90ef9912d3b72a75b66ceeb217a50dfa4304ff025ae30e3ae921d33232a&k=ZQJBKqZ0VN",
         "title": "Here's a Look Inside Facebook's Data Wars - The New York Times",
@@ -7685,8 +7685,8 @@
         "source_url": "https://www.theverge.com",
         "status_code": 200,
         "tags": [
-            "global warming",
-            "climate change"
+            "climate change",
+            "global warming"
         ],
         "thumbnail": "https://cdn.vox-cdn.com/thumbor/60BPpNB-RUxR2GIlrAJHQgod_pw=/0x0:5760x3840/1200x628/filters:focal(2880x1920:2881x1921)/cdn.vox-cdn.com/uploads/chorus_asset/file/22751454/1233843473.jpg",
         "title": "June heatwave was the \u2018most extreme\u2019 on record for North America - The Verge",
@@ -7713,9 +7713,9 @@
         "source_url": "european-pirateparty.eu",
         "status_code": 200,
         "tags": [
+            "chat control",
             "government control",
             "privacy",
-            "chat control",
             "surveillance"
         ],
         "thumbnail": "https://european-pirateparty.eu/wp-content/uploads/2021/07/chat-control-150x150.png",
@@ -7797,10 +7797,10 @@
         "source_url": "www.telepolis.pl",
         "status_code": 200,
         "tags": [
-            "security",
-            "privacy",
-            "government control",
             "chat control",
+            "government control",
+            "privacy",
+            "security",
             "surveillance"
         ],
         "thumbnail": "https://www.telepolis.pl/images/2021/07/unia-europejska-chce-kontrolowac-komunikatory.jpg",
@@ -7828,8 +7828,8 @@
         "source_url": "https://www.politico.com",
         "status_code": 403,
         "tags": [
-            "lab leak",
             "covid",
+            "lab leak",
             "wuhan"
         ],
         "thumbnail": null,
@@ -7857,10 +7857,10 @@
         "source_url": "https://www.wprost.pl",
         "status_code": 200,
         "tags": [
-            "vaccine",
-            "hate speech",
             "covid",
-            "propaganda"
+            "hate speech",
+            "propaganda",
+            "vaccine"
         ],
         "thumbnail": "https://www.wprost.pl/_thumb/f3/f7/5251a26a1c4b428d1f6f56dc0185.jpeg",
         "title": "Zosta\u0142em szczepionkowym rasist\u0105. \u201eLudzie w\u00a0pe\u0142ni zaszczepieni powinni mie\u0107 specjalne przywileje\u201d",
@@ -7887,9 +7887,9 @@
         "source_url": "https://portal.abczdrowie.pl",
         "status_code": 200,
         "tags": [
-            "propaganda",
             "covid",
-            "fearmongering"
+            "fearmongering",
+            "propaganda"
         ],
         "thumbnail": "https://i.wpimg.pl/648x0/portal-abczdrowie.wpcdn.pl/2021/07/08/gettyimages-1232388825-1_f3de.jpg",
         "title": "Prof. Simon: Ci pacjenci, kt\u00f3rzy wcze\u015bniej nie wierzyli w COVID, potem pi\u0119\u0107 razy dziennie pytaj\u0105 mnie, czy b\u0119d\u0105 \u017cyli | WP abcZdrowie",
@@ -7916,9 +7916,9 @@
         "source_url": "https://www.dailywire.com",
         "status_code": 200,
         "tags": [
+            "cuba",
             "freedom",
-            "protest",
-            "cuba"
+            "protest"
         ],
         "thumbnail": "https://dw-wp-production.imgix.net/2021/07/Cuba-1-scaled.jpg?w=1200&h=800&ixlib=react-9.3.0",
         "title": "Communist Cuba Begins Cracking Down On Freedom Protesters, Internet Service Cut In Areas | The Daily Wire",
@@ -7945,9 +7945,9 @@
         "source_url": "https://nypost.com",
         "status_code": 200,
         "tags": [
-            "surveillance",
             "big brother",
             "covid",
+            "surveillance",
             "vaccine"
         ],
         "thumbnail": "https://nypost.com/wp-content/uploads/sites/2/2021/07/vet-anti-vax-messages-index.jpg?quality=75&strip=all&w=1024",
@@ -7976,8 +7976,8 @@
         "status_code": 200,
         "tags": [
             "eatingbugs",
-            "world economic forum",
-            "wef"
+            "wef",
+            "world economic forum"
         ],
         "thumbnail": "https://assets.weforum.org/editor/MOl5gasTyWGFtMRe_dwVEpUagefJK6u6AvCUN5gkNsg.png",
         "title": "Why we need to give insects the role they deserve in our food systems | World Economic Forum",
@@ -8005,8 +8005,8 @@
         "status_code": 200,
         "tags": [
             "big tech",
-            "technofeudalism",
-            "google"
+            "google",
+            "technofeudalism"
         ],
         "thumbnail": "https://media.npr.org/assets/img/2021/07/13/ap21194370045353_wide-4e2c73cf9599f62391b6a1b40dbb0168fa9d6c93.jpg?s=1400&c=100&f=jpeg",
         "title": "Google Fined $593 Million In Dispute Over Paying French Publishers For News : NPR",
@@ -8033,9 +8033,9 @@
         "source_url": "",
         "status_code": 200,
         "tags": [
-            "lockstep",
-            "lock step",
             "covid",
+            "lock step",
+            "lockstep",
             "rockefeller"
         ],
         "thumbnail": "https://www.reuters.com/resizer/v2/JUPGQHR5KNB7VG2BPAVVMJE5K4.jpg?auth=0bd5367d98dca0ccac19e50df7b000e20d2d8e289e0be357d974ffc070e9d3a3&height=1005&width=1920&quality=80&smart=true",
@@ -8064,10 +8064,10 @@
         "status_code": 200,
         "tags": [
             "big brother",
-            "vaccine",
             "covid",
             "government control",
-            "surveillance"
+            "surveillance",
+            "vaccine"
         ],
         "thumbnail": "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Biden-G7-AP-5.jpg",
         "title": "Critics slam Biden administration's reported plan to monitor vaccine misinformation in text messages | Fox News",
@@ -8094,8 +8094,8 @@
         "source_url": "https://www.thedrive.com",
         "status_code": 200,
         "tags": [
-            "tesla",
-            "right to repair"
+            "right to repair",
+            "tesla"
         ],
         "thumbnail": "https://www.thedrive.com/wp-content/uploads/images-by-url-td/content/2021/07/20210712-Tesla-Hero.jpg",
         "title": "Tesla\u2019s $16,000 Quote for a $700 Fix Is Why Right to Repair Matters",
@@ -8147,8 +8147,8 @@
         "source_url": "https://news.ycombinator.com",
         "status_code": 200,
         "tags": [
-            "selfhost",
-            "project"
+            "project",
+            "selfhost"
         ],
         "thumbnail": null,
         "title": "This Website is hosted on an Casio fx-9750GII Calculator | Hacker News",
@@ -8351,8 +8351,8 @@
         "status_code": 200,
         "tags": [
             "censorship",
-            "social media",
             "moderation",
+            "social media",
             "twitter"
         ],
         "thumbnail": "https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FTTUHIKUNIBLXTJSHLLEXGKT6CM.jpg?auth=f7f322423a1ab52cde648ca7161a6dc20237828efb8f79f52b5e0cd3cbfdf830&height=1005&width=1920&quality=80&smart=true",
@@ -8480,8 +8480,8 @@
         "source_url": "https://nypost.com",
         "status_code": 200,
         "tags": [
-            "censorship",
             "big brother",
+            "censorship",
             "covid",
             "disinformation"
         ],
@@ -8560,9 +8560,9 @@
         "source_url": "https://www.bloomberg.com",
         "status_code": 200,
         "tags": [
+            "apple",
             "facebook",
-            "privacy",
-            "apple"
+            "privacy"
         ],
         "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imiV3vIhnNcw/v0/1200x800.jpg",
         "title": "Facebook (FB) Advertisers Impacted By Apple (AAPL) Privacy iOS 14 Changes - Bloomberg",
@@ -8764,8 +8764,8 @@
         "source_url": "https://nypost.com",
         "status_code": 200,
         "tags": [
-            "propaganda",
             "manufacturing consent",
+            "propaganda",
             "wikipedia"
         ],
         "thumbnail": "https://nypost.com/wp-content/uploads/sites/2/2021/07/wikipedia-trust-hp.jpg?quality=75&strip=all&w=1024",
@@ -8818,9 +8818,9 @@
         "source_url": "https://www.reuters.com",
         "status_code": 200,
         "tags": [
+            "big pharma",
             "johnson and johnson",
-            "medical scandal",
-            "big pharma"
+            "medical scandal"
         ],
         "thumbnail": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
         "title": "Target removes J&J sunscreens from stores, website | Reuters",
@@ -8847,9 +8847,9 @@
         "source_url": "https://nypost.com",
         "status_code": 200,
         "tags": [
+            "big brother",
             "censorship",
-            "covid",
-            "big brother"
+            "covid"
         ],
         "thumbnail": "https://nypost.com/wp-content/uploads/sites/2/2021/07/psaki-hp.jpg?quality=75&strip=all&w=1024",
         "title": "Government dictating what social-media bans is tyrannical",
@@ -9102,9 +9102,9 @@
         "status_code": 200,
         "tags": [
             "covid",
-            "vaccine",
             "government control",
-            "protest"
+            "protest",
+            "vaccine"
         ],
         "thumbnail": "https://dims.apnews.com/dims4/default/8ba7964/2147483647/strip/true/crop/3000x1688+0+156/resize/1440x810!/quality/90/?url=https%3A%2F%2Fstorage.googleapis.com%2Fafs-prod%2Fmedia%2Ff5f961493dcc4cb4993b949fb4d2197a%2F3000.jpeg",
         "title": "France: Thousands protest against vaccination, COVID passes | AP News",
@@ -9285,12 +9285,12 @@
         "source_url": "https://www.theguardian.com",
         "status_code": 200,
         "tags": [
+            "big brother",
             "israel",
-            "surveillance",
+            "pegasus",
             "privacy",
             "spyware",
-            "big brother",
-            "pegasus"
+            "surveillance"
         ],
         "thumbnail": "https://i.guim.co.uk/img/media/4b81bc16a41c00ab6c32eeeadc6de94a41a8dd9c/0_0_2560_1536/master/2560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjEucG5n&enable=upscale&s=e6a6d141ea9b4c9161c2f46c3b4e9da3",
         "title": "Revealed: leak uncovers global abuse of cyber-surveillance weapon | Surveillance | The Guardian",
@@ -9317,10 +9317,10 @@
         "source_url": "",
         "status_code": 200,
         "tags": [
-            "technofeudalism",
-            "privacy",
             "israel",
-            "surveillance"
+            "privacy",
+            "surveillance",
+            "technofeudalism"
         ],
         "thumbnail": "https://www.amnesty.org/en/wp-content/uploads/2021/08/277711-1024x433.jpg",
         "title": "Massive data leak reveals Israeli NSO spyware used to target activists, journalists, and political leaders",
@@ -9347,9 +9347,9 @@
         "source_url": "https://www.eff.org",
         "status_code": 200,
         "tags": [
-            "surveillance",
             "big tech",
-            "censorship"
+            "censorship",
+            "surveillance"
         ],
         "thumbnail": "https://www.eff.org/files/banner_library/interoperable_plum.png",
         "title": "Right or Left, You Should Be Worried About Big Tech Censorship | Electronic Frontier Foundation",
@@ -9756,10 +9756,10 @@
         "source_url": "https://www.nicolletinvest.com",
         "status_code": 200,
         "tags": [
-            "manufacturing consent",
+            "blackrock",
             "corporatocracy",
             "joe biden",
-            "blackrock"
+            "manufacturing consent"
         ],
         "thumbnail": "http://static1.squarespace.com/static/5da4e56c227a253ac913e306/5db09378eaed8c346d6378a5/60f81498b9705637b7865196/1627479276964/unsplash-image-hL4Eqvmhco8.jpg?format=1500w",
         "title": "The Ties That Bind: BlackRock and Biden \u2014 Nicollet Investment Management",
@@ -9911,11 +9911,11 @@
         "source_url": "https://www.cbc.ca",
         "status_code": 603,
         "tags": [
-            "government control",
-            "hate speech",
-            "free speech",
             "bill c-36",
-            "canada"
+            "canada",
+            "free speech",
+            "government control",
+            "hate speech"
         ],
         "thumbnail": "https://i.cbc.ca/1.5624584.1637511876!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/covid-deadlines-20200520.jpg",
         "title": "Ottawa outlines new legislation to define and crack down on online hate speech | CBC News",
@@ -10146,8 +10146,8 @@
         "source_url": "https://twitter.com",
         "status_code": 200,
         "tags": [
-            "hate speech",
             "covid",
+            "hate speech",
             "propaganda"
         ],
         "thumbnail": null,
@@ -10175,9 +10175,9 @@
         "source_url": "https://twitter.com",
         "status_code": 200,
         "tags": [
-            "vaccine",
+            "covid",
             "hate speech",
-            "covid"
+            "vaccine"
         ],
         "thumbnail": null,
         "title": "Tomasz Lis - obowi\u0105zkowe szczepienia",
@@ -10229,10 +10229,10 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCd8y8CQDaFIiJok7tifKJUQ",
         "status_code": 200,
         "tags": [
-            "motivation",
-            "psychology",
             "alan watts",
-            "lifestyle"
+            "lifestyle",
+            "motivation",
+            "psychology"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/iYaPFZW7Q30/maxresdefault.webp",
         "title": "It's Already Happening But People Don't See It - Alan Watts on Rat Race",
@@ -10259,9 +10259,9 @@
         "source_url": "https://edition.cnn.com",
         "status_code": 200,
         "tags": [
+            "facebook",
             "instagram",
-            "social media",
-            "facebook"
+            "social media"
         ],
         "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/210727133810-05-instagram-app-stock.jpg?q=x_2,y_0,h_1123,w_1995,c_crop/w_800",
         "title": "Facebook says it's moving forward with Instagram for kids despite backlash | CNN Business",
@@ -10388,10 +10388,10 @@
         "source_url": "https://wyborcza.pl",
         "status_code": 200,
         "tags": [
-            "vaccine",
-            "hate speech",
             "covid",
-            "propaganda"
+            "hate speech",
+            "propaganda",
+            "vaccine"
         ],
         "thumbnail": null,
         "title": "Dop\u00f3ki si\u0119 nie zaszczepicie, rz\u0105d powinien wam odebra\u0107 ca\u0142y smak \u017cycia",
@@ -10493,10 +10493,10 @@
         "source_url": "https://biznes.trojmiasto.pl",
         "status_code": 200,
         "tags": [
-            "poland",
+            "atom",
             "climate change",
             "climate drama",
-            "atom"
+            "poland"
         ],
         "thumbnail": "https://s-trojmiasto.pl/zdj/c/n/2/2965/1200x0/2965048.webp?r=2024102220",
         "title": "Ponad 750 mln z\u0142 wydane na energetyk\u0119 j\u0105drow\u0105. Elektrowni brak",
@@ -10523,8 +10523,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOuf_kStlWnhuauw4ce8l-w",
         "status_code": 500,
         "tags": [
-            "drugs",
             "crisis",
+            "drugs",
             "usa"
         ],
         "thumbnail": null,
@@ -10577,11 +10577,11 @@
         "source_url": "https://alexskra.com",
         "status_code": 200,
         "tags": [
-            "dead internet",
             "algorithms",
-            "seo",
+            "dead internet",
+            "google",
             "search algorithms",
-            "google"
+            "seo"
         ],
         "thumbnail": "https://alexskra.com/blog/wp-content/uploads/2021/07/bloggp.png",
         "title": "The mermaid is taking over Google search in Norway - ALEXSKRA",
@@ -10633,8 +10633,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC34Qdd5Z5KN30A8aJ2eIMPA",
         "status_code": 200,
         "tags": [
-            "movies",
-            "green knight"
+            "green knight",
+            "movies"
         ],
         "thumbnail": "https://i.ytimg.com/vi/9mntL7atEHg/maxresdefault.jpg",
         "title": "THE GREEN KNIGHT Ending Explained!",
@@ -10712,8 +10712,8 @@
         "source_url": "https://hnrss.org/frontpage",
         "status_code": 200,
         "tags": [
-            "surveillance",
-            "selfhost"
+            "selfhost",
+            "surveillance"
         ],
         "thumbnail": null,
         "title": "Help make mass surveillance of entire populations uneconomical",
@@ -10872,12 +10872,12 @@
         "source_url": "https://www.realclearenergy.org",
         "status_code": 200,
         "tags": [
-            "propaganda",
+            "black lives matter",
+            "blm",
             "hypocrisy",
             "lgbt",
-            "black lives matter",
-            "virtue signaling",
-            "blm"
+            "propaganda",
+            "virtue signaling"
         ],
         "thumbnail": "https://assets.realclear.com/images/54/549658_6_.jpg",
         "title": "Virtue Signaling: What Is It and Why Is It So Dangerous?",
@@ -11108,8 +11108,8 @@
         "status_code": 200,
         "tags": [
             "anthony fauci",
-            "science is dead",
-            "covid"
+            "covid",
+            "science is dead"
         ],
         "thumbnail": "https://www.thecollegefix.com/wp-content/uploads/2021/06/AnthonyFauci.CSPAN72.jpg",
         "title": "Professor suggests it should be a federal hate crime to criticize Fauci and other government-funded scientists",
@@ -11361,10 +11361,10 @@
         "source_url": "https://www.bbc.co.uk",
         "status_code": 200,
         "tags": [
+            "covid",
             "disinformation",
-            "youtube",
             "misinformation",
-            "covid"
+            "youtube"
         ],
         "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/11F15/production/_119539437_leograsset-trending.jpg",
         "title": "The YouTubers who blew the whistle on an anti-vax plot - BBC News",
@@ -11441,8 +11441,8 @@
         "source_url": "https://www.pap.pl",
         "status_code": 200,
         "tags": [
-            "poland",
-            "covid"
+            "covid",
+            "poland"
         ],
         "thumbnail": null,
         "title": "Prezes PiS: wszystkie partie powinny podpisa\u0107 wsp\u00f3lne porozumienie w sprawie walki z epidemi\u0105 COVID-19",
@@ -11623,10 +11623,10 @@
         "source_url": "https://thecritic.co.uk",
         "status_code": 200,
         "tags": [
-            "psychology",
-            "social justice warriors",
             "activism",
+            "psychology",
             "snowflakes",
+            "social justice warriors",
             "the left wing"
         ],
         "thumbnail": "https://standfirst-thecriticmag-production.imgix.net/uploads/2021/08/darius-cotoi-d8cKjamtQH4-unsplash.jpg?fit=crop&crop=faces,entropy&q=75&auto=compress,format&w=1024&h=683",
@@ -11710,12 +11710,12 @@
         "source_url": "https://www.euronews.com",
         "status_code": 200,
         "tags": [
-            "nestle",
-            "papua new guinea",
             "climate change",
-            "pollution",
-            "palm oil",
             "kellog",
+            "nestle",
+            "palm oil",
+            "papua new guinea",
+            "pollution",
             "slave labour"
         ],
         "thumbnail": "https://static.euronews.com/articles/stories/06/13/48/96/1200x675_cmsv2_f4a42271-ca4a-51cc-bc0f-2a8aee5ff9f8-6134896.jpg",
@@ -11743,8 +11743,8 @@
         "source_url": "https://www.nature.com",
         "status_code": 200,
         "tags": [
-            "global warming",
-            "climate change"
+            "climate change",
+            "global warming"
         ],
         "thumbnail": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs43247-022-00498-3/MediaObjects/43247_2022_498_Fig1_HTML.png",
         "title": "The Arctic has warmed nearly four times faster than the globe since 1979 | Communications Earth & Environment",
@@ -11821,10 +11821,10 @@
         "source_url": "https://www.makeuseof.com",
         "status_code": 200,
         "tags": [
-            "monopoly",
-            "metaverse",
             "decentralisation",
-            "fediverse"
+            "fediverse",
+            "metaverse",
+            "monopoly"
         ],
         "thumbnail": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/fediverse-party.jpg",
         "title": "What Is the Fediverse and Can It Decentralize the Web?",
@@ -11851,10 +11851,10 @@
         "source_url": "https://news.ycombinator.com",
         "status_code": 200,
         "tags": [
-            "technofeudalism",
             "app store",
+            "open source",
             "play store",
-            "open source"
+            "technofeudalism"
         ],
         "thumbnail": null,
         "title": "FOSS app removed from the Play Store for linking to the project's website | Hacker News",
@@ -11956,8 +11956,8 @@
         "source_url": "https://www.inputmag.com",
         "status_code": 200,
         "tags": [
-            "surveillance",
-            "amazon"
+            "amazon",
+            "surveillance"
         ],
         "thumbnail": "https://imgix.bustle.com/uploads/getty/2021/8/13/46cba2d8-9bed-4ce0-90fb-19bd36b7ffed-getty-1233009643.jpg?w=1200&h=630&fit=crop&crop=focalpoint&fm=jpg&fp-x=0.6053&fp-y=0.792",
         "title": "Amazon will monitor workers' keystrokes to 'combat data theft'",
@@ -12059,9 +12059,9 @@
         "source_url": "https://www.glamour.com",
         "status_code": 200,
         "tags": [
-            "vaccine",
             "covid",
-            "propaganda"
+            "propaganda",
+            "vaccine"
         ],
         "thumbnail": "https://media.glamour.com/photos/611ad4b2ebc2b5d94e7e05c1/16:9/w_1280,c_limit/lede_social%20(31).jpg",
         "title": "Grading Celebrities on How Much They\u2019ve Hyped the Vaccine | Glamour",
@@ -12166,8 +12166,8 @@
         "source_url": "https://www.nytimes.com",
         "status_code": 403,
         "tags": [
-            "covid",
             "australia",
+            "covid",
             "quarantine"
         ],
         "thumbnail": "https://static01.nyt.com/images/2021/08/19/world/00oz-quarantine1/00oz-quarantine1-facebookJumbo.jpg?year=2021&h=550&w=1050&s=7e2d2266527c8e4cec6b13b88317e2129174bbf521bc1bf4d032b384368ddafb&k=ZQJBKqZ0VN",
@@ -12270,10 +12270,10 @@
         "source_url": "https://www.theguardian.com",
         "status_code": 200,
         "tags": [
-            "protest",
+            "australia",
             "covid",
             "lockdown",
-            "australia"
+            "protest"
         ],
         "thumbnail": "https://i.guim.co.uk/img/media/43e2489e27cc8a36a5519201547f9b84e94c72a9/0_302_4565_2741/master/4565.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjEucG5n&enable=upscale&s=ca5b56102a892726faf4c58fff757d10",
         "title": "Australia anti-lockdown rallies: protesters violently clash with police in Melbourne",
@@ -12300,8 +12300,8 @@
         "source_url": "https://abc7chicago.com",
         "status_code": 200,
         "tags": [
-            "covid mandates",
             "covid",
+            "covid mandates",
             "vaccine"
         ],
         "thumbnail": "https://cdn.abcotvs.com/dip/images/11058698_092821-wls-mcadams-united-vax-firings-10p-vid.jpg?w=1600",
@@ -12380,8 +12380,8 @@
         "source_url": "https://hnrss.org/frontpage",
         "status_code": 200,
         "tags": [
-            "project",
-            "funny"
+            "funny",
+            "project"
         ],
         "thumbnail": "https://clickclickclick.click/favicon-32x32.png",
         "title": "Click Click Click",
@@ -12483,9 +12483,9 @@
         "source_url": "https://www.theguardian.com",
         "status_code": 200,
         "tags": [
-            "the left wing",
+            "cancel culture",
             "free speech",
-            "cancel culture"
+            "the left wing"
         ],
         "thumbnail": "https://i.guim.co.uk/img/media/bc7dd16853c40f019df3298d3367d91f28c7288e/0_0_4217_2530/master/4217.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjEucG5n&enable=upscale&s=0bea0f052d86865b9e38fcc9752c1e41",
         "title": "Cancel Me: John Cleese to present Channel 4 show on \u2018woke\u2019 thought | John Cleese | The Guardian",
@@ -12687,10 +12687,10 @@
         "source_url": "https://www.resilience.org",
         "status_code": 200,
         "tags": [
-            "world economic forum",
             "corporatocracy",
+            "democracy",
             "wef",
-            "democracy"
+            "world economic forum"
         ],
         "thumbnail": "https://www.resilience.org/wp-content/uploads/2021/08/World_Economic_Forum_headquarters_cropped.jpg",
         "title": "Conspiracy theories aside, there is something fishy about the Great Reset",
@@ -12742,9 +12742,9 @@
         "source_url": "https://www.bbc.com",
         "status_code": 200,
         "tags": [
-            "facebook files",
-            "facebook",
             "celebrities",
+            "facebook",
+            "facebook files",
             "inequality"
         ],
         "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/C47D/production/_120410305_gettyimages-1233346550.jpg",
@@ -12897,11 +12897,11 @@
         "source_url": "https://www.scmp.com",
         "status_code": 200,
         "tags": [
-            "misinformation",
-            "china",
-            "surveillance",
             "censorship",
-            "propaganda"
+            "china",
+            "misinformation",
+            "propaganda",
+            "surveillance"
         ],
         "thumbnail": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_explainer/public/d8/images/methode/2021/08/25/1895ba22-03e8-11ec-a83e-ec0670db1017_image_hires_093046.jpg?itok=eyM3JG6f&v=1629855055",
         "title": "\u2018Picking quarrels and provoking trouble\u2019: how China\u2019s catch-all crime muzzles dissent | South China Morning Post",
@@ -12928,10 +12928,10 @@
         "source_url": "https://9to5mac.com",
         "status_code": 200,
         "tags": [
-            "corporatocracy",
             "apple",
-            "search engines",
-            "google"
+            "corporatocracy",
+            "google",
+            "search engines"
         ],
         "thumbnail": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/05/Epic-case-begins-with-Google-undermining-key-argument.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Analysts: Google to pay Apple $15 billion to remain default Safari search engine in 2021 - 9to5Mac",
@@ -13090,9 +13090,9 @@
         "source_url": "https://www.eff.org",
         "status_code": 200,
         "tags": [
+            "dark design",
             "facebook",
-            "network effect",
-            "dark design"
+            "network effect"
         ],
         "thumbnail": "https://www.eff.org/files/banner_library/facebook-10-big.png",
         "title": "Facebook\u2019s Secret War on Switching Costs | Electronic Frontier Foundation",
@@ -13270,10 +13270,10 @@
         "source_url": "https://news.ycombinator.com",
         "status_code": 200,
         "tags": [
-            "privacy",
-            "messanger",
+            "censorship",
             "facebook",
-            "censorship"
+            "messanger",
+            "privacy"
         ],
         "thumbnail": null,
         "title": "FB messenger silently censoring links, claims they were sent",
@@ -13350,10 +13350,10 @@
         "source_url": "https://www.patrick-breyer.de",
         "status_code": 200,
         "tags": [
-            "government control",
-            "surveillance",
             "digital service act",
-            "privacy"
+            "government control",
+            "privacy",
+            "surveillance"
         ],
         "thumbnail": "https://www.patrick-breyer.de/wp-content/uploads/2023/07/logo_regular_vertical.png",
         "title": "Upcoming vote on Digital Services Act in JURI committee: Pirate MEP Patrick Breyer fears massive threats to fundamental rights",
@@ -13405,9 +13405,9 @@
         "source_url": "https://www.theguardian.com",
         "status_code": 200,
         "tags": [
+            "corporatocracy",
             "onlyfans",
-            "technofeudalism",
-            "corporatocracy"
+            "technofeudalism"
         ],
         "thumbnail": "https://i.guim.co.uk/img/media/acb48821e2e81e54e9ff52ea638ddbb0331468fb/0_259_3888_2333/master/3888.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMtYWdlLTIwMjEucG5n&enable=upscale&s=e82cde995ecd57d877bee83f16db776c",
         "title": "The real OnlyFans scandal is the unaccountable power of platforms and banks | Jillian C York | The Guardian",
@@ -13435,8 +13435,8 @@
         "status_code": 200,
         "tags": [
             "censorship",
-            "facebook",
             "covid",
+            "facebook",
             "vaccine"
         ],
         "thumbnail": null,
@@ -13694,8 +13694,8 @@
         "status_code": 200,
         "tags": [
             "dead internet",
-            "search algorithms",
-            "internet"
+            "internet",
+            "search algorithms"
         ],
         "thumbnail": "https://cdn.theatlantic.com/thumbor/2IpwTB91t8lX3IgxeYfv8sJTbFk=/0x34:1597x866/1200x625/media/img/mt/2021/08/atlantic_wifi/original.gif",
         "title": "The 'Dead-Internet Theory' Is Wrong but Feels True - The Atlantic",
@@ -13722,10 +13722,10 @@
         "source_url": "www.huffpost.com",
         "status_code": 200,
         "tags": [
-            "surveillance",
-            "smartphone",
             "privacy",
-            "security"
+            "security",
+            "smartphone",
+            "surveillance"
         ],
         "thumbnail": "https://img.huffingtonpost.com/asset/5d57089a3b00004b00dca141.jpeg?cache=dxPLSgB3lm&ops=1200_630",
         "title": "Is Your Phone Recording Your Conversations? The Answer Might Surprise You.",
@@ -13752,10 +13752,10 @@
         "source_url": "https://www.politico.eu",
         "status_code": 200,
         "tags": [
-            "manufacturing consent",
-            "january 6",
+            "censorship",
             "facebook",
-            "censorship"
+            "january 6",
+            "manufacturing consent"
         ],
         "thumbnail": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2021/08/31/GettyImages-1230451981-scaled.jpg",
         "title": "Thousands of posts around January 6 riots go missing from Facebook transparency tool \u2013 POLITICO",
@@ -13782,10 +13782,10 @@
         "source_url": "https://www.onet.pl",
         "status_code": 200,
         "tags": [
-            "manufacturing consent",
-            "january 6",
+            "censorship",
             "facebook",
-            "censorship"
+            "january 6",
+            "manufacturing consent"
         ],
         "thumbnail": null,
         "title": "Z Facebooka znikn\u0119\u0142o tysi\u0105ce post\u00f3w, dotycz\u0105cych styczniowego ataku na Kongres USA",
@@ -13840,9 +13840,9 @@
         "source_url": "https://www.theverge.com",
         "status_code": 200,
         "tags": [
-            "government",
             "big brother",
-            "censorship"
+            "censorship",
+            "government"
         ],
         "thumbnail": "https://cdn.vox-cdn.com/thumbor/V6L8B1xX2_kQfkM3o3zuwNX_2W0=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/8316157/jbareham_170410_1605_0035.0.jpg",
         "title": "Internet shutdowns by governments have \u2018proliferated at a truly alarming pace\u2019 - The Verge",
@@ -13970,10 +13970,10 @@
         "source_url": "https://news.ycombinator.com",
         "status_code": 200,
         "tags": [
-            "australia",
-            "privacy",
-            "big brother",
             "anonymity",
+            "australia",
+            "big brother",
+            "privacy",
             "surveillance"
         ],
         "thumbnail": null,
@@ -14002,8 +14002,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNTqu16j3F6RbtHZI-3untg",
         "status_code": 200,
         "tags": [
-            "homelessness",
-            "america"
+            "america",
+            "homelessness"
         ],
         "thumbnail": "https://i.ytimg.com/vi/cdkvvafeMzk/maxresdefault.jpg",
         "title": "The Dark Reality of Los Angeles",
@@ -14108,8 +14108,8 @@
         "source_url": "https://chromeunboxed.com",
         "status_code": 200,
         "tags": [
-            "windows",
-            "dark design"
+            "dark design",
+            "windows"
         ],
         "thumbnail": "https://chromeunboxed.com/wp-content/uploads/2021/03/Edge-Chrome-and-the-user-between.jpg",
         "title": "Windows 11 Insider Preview makes it more difficult for users to default to Chrome",
@@ -14186,11 +14186,11 @@
         "source_url": "https://deadline.com",
         "status_code": 200,
         "tags": [
+            "big brother",
+            "covid",
             "disinformation",
             "joe rogan",
-            "smear campaign",
-            "covid",
-            "big brother"
+            "smear campaign"
         ],
         "thumbnail": "https://deadline.com/wp-content/uploads/2021/09/joe-rogan-2021-AP.jpeg?w=778",
         "title": "Joe Rogan \u201cTested Negative Today\u201d After Positive Covid Diagnosis \u2013 Deadline",
@@ -14292,13 +14292,13 @@
         "source_url": "https://www.psychologytoday.com",
         "status_code": 200,
         "tags": [
-            "lgbt",
-            "the left wing",
-            "virtue signaling",
-            "blm",
-            "propaganda",
             "black lives matter",
-            "hypocrisy"
+            "blm",
+            "hypocrisy",
+            "lgbt",
+            "propaganda",
+            "the left wing",
+            "virtue signaling"
         ],
         "thumbnail": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2021-09/daniel-oberg-seapbus4fik-unsplash.jpg?itok=3H1t_ipa",
         "title": "The Paradox of Virtue Signaling | Psychology Today",
@@ -14450,12 +14450,12 @@
         "source_url": "https://thefederalist.com",
         "status_code": 200,
         "tags": [
-            "censorship",
-            "sexism",
-            "history",
-            "racism",
             "big brother",
-            "ministry of truth"
+            "censorship",
+            "history",
+            "ministry of truth",
+            "racism",
+            "sexism"
         ],
         "thumbnail": "https://thefederalist.com/wp-content/uploads/2021/09/constitution-1486010_1280-e1631113363679.jpg",
         "title": "National Archives Slaps 'Harmful Content' Warning On Constitution",
@@ -14507,9 +14507,9 @@
         "source_url": "",
         "status_code": 200,
         "tags": [
-            "wuhan",
+            "covid",
             "gain-of-function",
-            "covid"
+            "wuhan"
         ],
         "thumbnail": "https://theintercept.com/wp-content/uploads/2021/09/AP20107506977364-crop.jpg?fit=2000%2C1000&w=1200&h=800",
         "title": "NIH Documents Provide New Evidence U.S. Funded Gain-of-Function Research in Wuhan",
@@ -14640,9 +14640,9 @@
         "source_url": "https://www.theguardian.com",
         "status_code": 200,
         "tags": [
-            "usa",
+            "911",
             "big brother",
-            "911"
+            "usa"
         ],
         "thumbnail": "https://i.guim.co.uk/img/media/8d77edf834a4a39b2b035c021847856afdcd237d/78_0_2387_1433/master/2387.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjEucG5n&enable=upscale&s=bfaf68d9faf2fa3270652f7a26c244b5",
         "title": "How 9/11 led the US to forever wars, eroded rights \u2013 and insurrection | September 11 2001 | The Guardian",
@@ -14744,8 +14744,8 @@
         "source_url": "https://news.ycombinator.com",
         "status_code": 200,
         "tags": [
-            "iot",
             "corporatocracy",
+            "iot",
             "technofeudalism"
         ],
         "thumbnail": null,
@@ -14799,10 +14799,10 @@
         "status_code": 200,
         "tags": [
             "censorship",
+            "facebook",
             "mastodon",
-            "social media",
             "open source",
-            "facebook"
+            "social media"
         ],
         "thumbnail": null,
         "title": "Facebook Is Censoring People For Mentioning Open-Source Social Network Mastodon | The Changelog",
@@ -14881,12 +14881,12 @@
         "source_url": "https://www.wsj.com",
         "status_code": 600,
         "tags": [
-            "inequality",
-            "facebook",
-            "manufacturing consent",
-            "facebook files",
             "corporatocracy",
-            "elite"
+            "elite",
+            "facebook",
+            "facebook files",
+            "inequality",
+            "manufacturing consent"
         ],
         "thumbnail": null,
         "title": "Facebook Says Its Rules Apply to All. Company Documents Reveal a Secret Elite That\u2019s Exempt. - WSJ",
@@ -15038,9 +15038,9 @@
         "source_url": "https://www.cnbc.com",
         "status_code": 200,
         "tags": [
-            "social media",
             "facebook",
-            "instagram"
+            "instagram",
+            "social media"
         ],
         "thumbnail": "https://image.cnbcfm.com/api/v1/image/106747364-1602836839452-gettyimages-1228865133-dicola-notitle201003_npbdv.jpeg?v=1680638907&w=1920&h=1080",
         "title": "Facebook documents show how toxic Instagram is for teens: WSJ",
@@ -15068,9 +15068,9 @@
         "status_code": 200,
         "tags": [
             "censorship",
-            "new york times",
+            "hunter biden",
             "joe biden",
-            "hunter biden"
+            "new york times"
         ],
         "thumbnail": "https://nypost.com/wp-content/uploads/sites/2/2021/09/new-york-times-hunter-biden.jpg?quality=75&strip=all&w=1024",
         "title": "NYT deletes 'unsubstantiated' claim about Post's Hunter Biden report",
@@ -15223,9 +15223,9 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoOjH8D2XAgjzQlneM2W0EQ",
         "status_code": 200,
         "tags": [
-            "war",
             "america",
-            "democracy"
+            "democracy",
+            "war"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/1TPuBmuYa18/maxresdefault.webp",
         "title": "Why we\u2019re always at war (Documentary)",
@@ -15377,8 +15377,8 @@
         "source_url": "",
         "status_code": 200,
         "tags": [
-            "science is dead",
-            "covid"
+            "covid",
+            "science is dead"
         ],
         "thumbnail": "https://imageio.forbes.com/specials-images/imageserve/61474fb7dae5dbb9191f4c4a/0x0.jpg?format=jpg&crop=3652,2055,x213,y278,safe&height=900&width=1600&fit=bounds",
         "title": "CDC\u2019s Six-Foot Social Distancing Rule Was \u2018Arbitrary\u2019, Says Former FDA Commissioner",
@@ -15515,8 +15515,8 @@
         "source_url": "https://www.propublica.org",
         "status_code": 200,
         "tags": [
-            "saudi arabia",
-            "911"
+            "911",
+            "saudi arabia"
         ],
         "thumbnail": "https://img.assets-d.propublica.org/v5/images/20210912-911-report-3x2.jpg?crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&imgixProfile=propublicaAssetsV5&q=90&w=1200&s=b672511bc392074986335c649f10250f",
         "title": "Long-Secret FBI Report Reveals New Connections Between 9/11 Hijackers and Saudi Religious Officials in U.S.",
@@ -15543,13 +15543,13 @@
         "source_url": "https://www.nytimes.com",
         "status_code": 403,
         "tags": [
-            "meta",
-            "mark zuckerberg",
-            "facebook",
             "algorithms",
+            "facebook",
             "manufacturing consent",
-            "social media",
-            "search engines"
+            "mark zuckerberg",
+            "meta",
+            "search engines",
+            "social media"
         ],
         "thumbnail": "https://static01.nyt.com/images/2021/09/16/business/00facebook/00FBIMAGE-facebookJumbo.jpg?year=2021&h=550&w=1050&s=4f80ea221ddd34862aebe3d62246c86334c877c54a0703dedd947d776ea3be90&k=ZQJBKqZ0VN",
         "title": "Inside Facebook\u2019s Push to Defend Its Image - The New York Times",
@@ -15604,9 +15604,9 @@
         "source_url": "https://kultura.dziennik.pl",
         "status_code": 200,
         "tags": [
-            "poland",
-            "hate speech",
             "covid",
+            "hate speech",
+            "poland",
             "propaganda"
         ],
         "thumbnail": "https://ocdn.eu/pulscms-transforms/1/ebkk9kuTURBXy8zNDc2ZThiMy1iNGE3LTQ0N2ItYjFhMC1mMzk1ZTU2Mjc2N2IuanBlZ5GVAs0EsADDw94AAaEwBQ",
@@ -15634,8 +15634,8 @@
         "source_url": "https://theintercept.com",
         "status_code": 200,
         "tags": [
-            "wuhan",
-            "covid"
+            "covid",
+            "wuhan"
         ],
         "thumbnail": "https://theintercept.com/wp-content/uploads/2021/09/wuhan-virus-grant-theintercept.jpg?fit=2000%2C1000&w=1200&h=800",
         "title": "Leaked Grant Proposal Details High-Risk Coronavirus Research",
@@ -15662,8 +15662,8 @@
         "source_url": "www.onet.pl",
         "status_code": 200,
         "tags": [
-            "prawo i sprawiedliwo\u015b\u0107",
             "poland",
+            "prawo i sprawiedliwo\u015b\u0107",
             "turow"
         ],
         "thumbnail": null,
@@ -15794,13 +15794,13 @@
         "source_url": "https://reclaimthenet.org",
         "status_code": 200,
         "tags": [
-            "censorship",
             "black lives matter",
-            "inclusion",
-            "tolerance",
-            "racism",
+            "censorship",
             "diversity",
-            "gofundme"
+            "gofundme",
+            "inclusion",
+            "racism",
+            "tolerance"
         ],
         "thumbnail": "https://reclaimthenet.org/wp-content/uploads/2021/09/student-forced-leave.jpg",
         "title": "GoFundMe deletes fundraiser for harassed Arizona State students",
@@ -15902,8 +15902,8 @@
         "source_url": "https://news.yahoo.com",
         "status_code": 200,
         "tags": [
-            "julian assange",
             "cia",
+            "julian assange",
             "wikileaks"
         ],
         "thumbnail": null,
@@ -15956,8 +15956,8 @@
         "source_url": "https://www.theguardian.com",
         "status_code": 200,
         "tags": [
-            "julian assange",
             "cia",
+            "julian assange",
             "wikileaks"
         ],
         "thumbnail": "https://i.guim.co.uk/img/media/b76732f2ded50f4084e80092bf359494240f4a37/0_247_4392_2635/master/4392.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjEucG5n&enable=upscale&s=2846f906f1df3858efb5e4bfa18e6166",
@@ -15987,10 +15987,10 @@
         "status_code": 200,
         "tags": [
             "comics",
-            "the left wing",
+            "go woke go broke",
             "indoctrination",
             "lgbt",
-            "go woke go broke"
+            "the left wing"
         ],
         "thumbnail": "https://i.ytimg.com/vi/Elgqtwhqh5I/maxresdefault.jpg",
         "title": "Woke American Comics vs Manga",
@@ -16149,10 +16149,10 @@
         "source_url": "https://www.theepochtimes.com",
         "status_code": 200,
         "tags": [
-            "lab leak",
             "anthony fauci",
-            "wuhan",
-            "covid"
+            "covid",
+            "lab leak",
+            "wuhan"
         ],
         "thumbnail": "https://img.theepochtimes.com/assets/uploads/2021/09/29/Anthony-Fauci-700x420.jpeg",
         "title": "Behind the Scenes of the Natural Origin Narrative",
@@ -16333,9 +16333,9 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqos1tl0RntucGGtPXNxkkA",
         "status_code": 200,
         "tags": [
+            "motivation",
             "psychology",
-            "totalitarianism",
-            "motivation"
+            "totalitarianism"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/OhzBo0dZNpY/maxresdefault.webp",
         "title": "The Shadow - Carl Jung's Warning to The World",
@@ -16387,8 +16387,8 @@
         "source_url": "https://medium.com",
         "status_code": 200,
         "tags": [
-            "technofeudalism",
-            "google"
+            "google",
+            "technofeudalism"
         ],
         "thumbnail": "https://miro.medium.com/v2/resize:fit:626/0*6CdE5oRON2MMjcuW.jpeg",
         "title": "How Google destroyed our startup by terminating our Google Play Developer Account | by 6Ace Games | Oct, 2021 | Medium",
@@ -16416,8 +16416,8 @@
         "status_code": 200,
         "tags": [
             "inequality",
-            "white supremacy",
-            "racism"
+            "racism",
+            "white supremacy"
         ],
         "thumbnail": "https://www.thecollegefix.com/wp-content/uploads/2021/10/familypriv.jpg",
         "title": "Professors seek to undo the \u2018unearned benefits\u2019 of \u2018family privilege\u2019 | The College Fix",
@@ -16445,8 +16445,8 @@
         "status_code": 604,
         "tags": [
             "algorithms",
-            "psyop",
             "hate speech",
+            "psyop",
             "technofeudalism"
         ],
         "thumbnail": "https://static01.nyt.com/images/2021/10/03/business/03facebook-whistleblower/03facebook-whistleblower-facebookJumbo.jpg?year=2021&h=550&w=1050&s=670a2d22fbe65c799306fdacbf7ea934e9226c4ecf917c2eb1bfa864c44522ed&k=ZQJBKqZ0VN",
@@ -16474,9 +16474,9 @@
         "source_url": "https://www.tvp.info",
         "status_code": 600,
         "tags": [
-            "poland",
-            "hate speech",
             "covid",
+            "hate speech",
+            "poland",
             "propaganda"
         ],
         "thumbnail": "https://s.tvp.pl/files/tvp-info/v2/gfx/logo-opengraph-big.jpg",
@@ -16558,12 +16558,12 @@
         "source_url": "https://www.independent.co.uk",
         "status_code": 200,
         "tags": [
-            "transgender",
-            "lgbt",
-            "the left wing",
-            "newspeak",
             "big brother",
-            "inequality"
+            "inequality",
+            "lgbt",
+            "newspeak",
+            "the left wing",
+            "transgender"
         ],
         "thumbnail": "https://static.independent.co.uk/2021/06/23/09/iStock-806290366.jpg?quality=75&width=1200&auto=webp",
         "title": "Trans, non-binary server awarded $30,000 in employment dispute over pronouns",
@@ -16643,8 +16643,8 @@
         "source_url": "https://www.money.pl",
         "status_code": 200,
         "tags": [
-            "prawo i sprawiedliwo\u015b\u0107",
-            "poland"
+            "poland",
+            "prawo i sprawiedliwo\u015b\u0107"
         ],
         "thumbnail": "https://v.wpimg.pl/ZjQxZDU1dQswGix3ekp4HnNCeC08E3ZIJFpgZnoAaFphAGprM1g2DyMdKit7VigfIRktNHtBNkUwCDNrIwB1DjgLKig0SHUPPBo_IHoAYlhpQGl3MxxpWzNId3BiCTlHaBlrd3hXa11gTzxwZFVvXzBaJw",
         "title": "D\u0142ug publiczny ro\u015bnie lawinowo. Ekonomi\u015bci ostrzegaj\u0105 przed skutkami - Money.pl",
@@ -16775,9 +16775,9 @@
         "source_url": "www.newswars.com",
         "status_code": 403,
         "tags": [
+            "deplatform",
             "tiktok",
-            "tim pool",
-            "deplatform"
+            "tim pool"
         ],
         "thumbnail": null,
         "title": "Tim Pool Permanently BANNED By TikTok, Likely Due To Hosting Alex Jones, Who Broke No Rules",
@@ -16804,8 +16804,8 @@
         "source_url": "https://www.reuters.com",
         "status_code": 200,
         "tags": [
-            "covid mandates",
-            "covid"
+            "covid",
+            "covid mandates"
         ],
         "thumbnail": "https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FGXPQWSCWANMBTPKUQHC2KZO3HE.jpg?auth=4e0e39ffae57ecaa9731dfda3c1bd2b5b42234d4dbadc0739f2328abbf2e8051&height=1005&width=1920&quality=80&smart=true",
         "title": "Canada imposes COVID-19 vaccine mandate on federal workers, transportation | Reuters",
@@ -16833,9 +16833,9 @@
         "status_code": 200,
         "tags": [
             "big brother",
-            "the left wing",
             "england",
-            "gender"
+            "gender",
+            "the left wing"
         ],
         "thumbnail": "https://www.thepinknews.com/wp-content/uploads/2019/06/GettyImages-860167856.jpg",
         "title": "'X' gender markers in passports would be 'extremely difficult', government argues in UK's top court",
@@ -16914,10 +16914,10 @@
         "source_url": "https://bigthink.com",
         "status_code": 200,
         "tags": [
+            "algorithms",
             "big tech",
             "social engineering",
-            "social media",
-            "algorithms"
+            "social media"
         ],
         "thumbnail": "https://bigthink.com/wp-content/uploads/2021/10/austin-distel-tLZhFRLj6nY-unsplash-e1633621016117.jpg?resize=1200,630",
         "title": "Here\u2019s exactly how social media algorithms can manipulate you - Big Think",
@@ -16944,9 +16944,9 @@
         "source_url": "https://www.reuters.com",
         "status_code": 200,
         "tags": [
-            "moderna",
             "big pharma",
             "covid",
+            "moderna",
             "vaccine"
         ],
         "thumbnail": "https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FFTQ2YCILGFO7BFBIWWBLTXIWHQ.jpg?auth=c82377e7ae3f34622b411d47c68ebebc23d09e71ed7cd58ec3dd8c998bc8643f&height=1005&width=1920&quality=80&smart=true",
@@ -16975,8 +16975,8 @@
         "status_code": 200,
         "tags": [
             "australia",
-            "government control",
             "big brother",
+            "government control",
             "privacy"
         ],
         "thumbnail": "https://ipla.pluscdn.pl/dituel/cp/bd/bdn32ku1p7dydnp1ipy9pc8zufrxc9f4.jpg",
@@ -17004,8 +17004,8 @@
         "source_url": "https://www.ft.com",
         "status_code": 200,
         "tags": [
-            "larry fink",
-            "blackrock"
+            "blackrock",
+            "larry fink"
         ],
         "thumbnail": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F26fb87b8-1f84-4c07-a0b6-7d86e9a3b007.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
         "title": "The ten trillion dollar man: how Larry Fink became king of Wall St | Financial Times",
@@ -17032,8 +17032,8 @@
         "source_url": "https://slate.com",
         "status_code": 200,
         "tags": [
-            "facebook",
-            "censorship"
+            "censorship",
+            "facebook"
         ],
         "thumbnail": "https://compote.slate.com/images/814f2912-cf45-4865-9538-639d858a93a6.jpeg?width=1560&rect=5184x3456&offset=0x0",
         "title": "Facebook banned me for life because I created the tool Unfollow Everything.",
@@ -17060,9 +17060,9 @@
         "source_url": "https://www.theverge.com",
         "status_code": 200,
         "tags": [
-            "facebook",
             "censorship",
-            "deplatform"
+            "deplatform",
+            "facebook"
         ],
         "thumbnail": "https://cdn.vox-cdn.com/thumbor/240-dvHHBE47jGwT135_K_G57_0=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/15948786/acastro_180720_1777_facebook_0001.jpg",
         "title": "Facebook bans developer behind Unfollow Everything tool",
@@ -17317,10 +17317,10 @@
         "source_url": "https://www.nytimes.com",
         "status_code": 403,
         "tags": [
-            "moderna",
-            "hypocrisy",
+            "big pharma",
             "covid",
-            "big pharma"
+            "hypocrisy",
+            "moderna"
         ],
         "thumbnail": "https://static01.nyt.com/images/2021/10/08/business/00virus-moderna-01/merlin_194872458_37590513-9c7e-494b-a49b-6de409120120-facebookJumbo.jpg?year=2021&h=550&w=1050&s=57343ee39ee9c25b68f2a520d9cd574beb7572e23587e63c68d74f2196f24c95&k=ZQJBKqZ0VN",
         "title": "Moderna, Racing for Profits, Keeps Covid Vaccine Out of Reach of Poor - The New York Times",
@@ -17397,8 +17397,8 @@
         "source_url": "https://backlinko.com",
         "status_code": 200,
         "tags": [
-            "search engines",
-            "algorithms"
+            "algorithms",
+            "search engines"
         ],
         "thumbnail": "https://api.backlinko.com/app/uploads/2018/04/google-ranking-factors-social.png",
         "title": "Google\u2019s 200 Ranking Factors: The Complete List (2022)",
@@ -17679,11 +17679,11 @@
         "source_url": "https://www.reuters.com",
         "status_code": 600,
         "tags": [
-            "amazon",
-            "search engines",
-            "technofeudalism",
             "algorithms",
-            "corporatocracy"
+            "amazon",
+            "corporatocracy",
+            "search engines",
+            "technofeudalism"
         ],
         "thumbnail": "https://www.reuters.com/investigates/special-report/assets/amazon-india-rigging/mastheads/share_Amazon.in1.jpg?v=283010131021",
         "title": "Amazon copied products and rigged search results, documents show",
@@ -17710,11 +17710,11 @@
         "source_url": "https://icdt.ir/en/media-cognitive-warfare-and-one-world-government-social-engineering/",
         "status_code": 200,
         "tags": [
-            "social media",
-            "propaganda",
             "big brother",
+            "government",
+            "propaganda",
             "social engineering",
-            "government"
+            "social media"
         ],
         "thumbnail": "https://icdt.ir/en/wp-content/uploads/2021/10/img-1200x675-5.jpg",
         "title": "Media, Cognitive Warfare and One World Government Social Engineering",
@@ -17766,8 +17766,8 @@
         "source_url": "https://wng.org",
         "status_code": 200,
         "tags": [
-            "equity",
             "diversity",
+            "equity",
             "inclusion",
             "propaganda"
         ],
@@ -17797,9 +17797,9 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzQUP1qoWDoEbmsQxvdjxgQ",
         "status_code": 200,
         "tags": [
+            "america",
             "homelessness",
-            "san francisco",
-            "america"
+            "san francisco"
         ],
         "thumbnail": "https://i.ytimg.com/vi/rn6NlXh5dH8/maxresdefault.jpg",
         "title": "The Origins of San Francisco's Homeless Problem",
@@ -17880,8 +17880,8 @@
         "status_code": 200,
         "tags": [
             "all time",
-            "privacy",
             "cbdc",
+            "privacy",
             "surveillance"
         ],
         "thumbnail": "https://hackernoon.imgix.net/images/ARCWTrgYpoc531106B2eMedWoT42-b603641.jpeg",
@@ -18009,10 +18009,10 @@
         "source_url": "https://www.theguardian.com",
         "status_code": 200,
         "tags": [
-            "inequality",
-            "trolling",
             "discrimination",
-            "feminism"
+            "feminism",
+            "inequality",
+            "trolling"
         ],
         "thumbnail": "https://i.guim.co.uk/img/media/98e5d52aadb4ef21dfd9feb5a969a6fc4b413535/1146_336_2452_1472/master/2452.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tYWdlLTIwMjEucG5n&enable=upscale&s=ff68a34b8cb08f52273c775d60436b4b",
         "title": "Female Spanish thriller writer Carmen Mola revealed to be three men",
@@ -18120,10 +18120,10 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZWlSUNDvCCS1hBiXV0zKcA",
         "status_code": 200,
         "tags": [
-            "esg",
+            "blackrock",
             "climate change",
-            "the left wing",
-            "blackrock"
+            "esg",
+            "the left wing"
         ],
         "thumbnail": "https://i.ytimg.com/vi/O-tJNuHqHW8/maxresdefault.jpg",
         "title": "ESG: Woke to Broke",
@@ -18150,10 +18150,10 @@
         "source_url": "https://www.washingtonpost.com",
         "status_code": 200,
         "tags": [
-            "technofeudalism",
             "amazon",
             "corporatocracy",
-            "jeff bezos"
+            "jeff bezos",
+            "technofeudalism"
         ],
         "thumbnail": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/74JM2NRCF4I6ZKGZBAT2FJFZCU.jpg&w=1440",
         "title": "Lawmakers: Amazon \u2018may have lied to Congress\u2019 about its business practices  - The Washington Post",
@@ -18180,10 +18180,10 @@
         "source_url": "https://plotkibiznesowe.pl",
         "status_code": 200,
         "tags": [
-            "inequality",
-            "trolling",
             "discrimination",
-            "feminism"
+            "feminism",
+            "inequality",
+            "trolling"
         ],
         "thumbnail": "https://plotkibiznesowe.pl/wp-content/uploads/2021/10/hiszpanska-inkwizycja.jpg",
         "title": "S\u0142ynna hiszpa\u0144ska autorka bestseller\u00f3w okaza\u0142a si\u0119 trzema m\u0119\u017cczyznami",
@@ -18289,8 +18289,8 @@
         "tags": [
             "big pharma",
             "covid",
-            "vaccine",
-            "pfizer"
+            "pfizer",
+            "vaccine"
         ],
         "thumbnail": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VCPTPGRKNYI6ZML5TBOBQ3PDHA.jpg&w=1440",
         "title": "In secret vaccine contracts with governments, Pfizer took hard line in push for profit, report says",
@@ -18400,8 +18400,8 @@
         "source_url": "https://www.techradar.com",
         "status_code": 200,
         "tags": [
-            "privacy",
             "china",
+            "privacy",
             "vpn"
         ],
         "thumbnail": "https://cdn.mos.cms.futurecdn.net/TuZqxZMSLppjgShkLGFsBF-1200-80.jpg",
@@ -18713,11 +18713,11 @@
         "source_url": "",
         "status_code": 200,
         "tags": [
-            "facebook",
-            "corporatocracy",
             "apple",
-            "google",
+            "corporatocracy",
             "dark design",
+            "facebook",
+            "google",
             "jedi blue"
         ],
         "thumbnail": "https://regmedia.co.uk/2019/07/08/shutterstock_1169319226.jpg",
@@ -18745,10 +18745,10 @@
         "source_url": "https://www.washingtonexaminer.com",
         "status_code": 200,
         "tags": [
-            "propaganda",
+            "covid",
             "ivermectin",
             "joe rogan",
-            "covid"
+            "propaganda"
         ],
         "thumbnail": "https://www.washingtonexaminer.com/wp-content/uploads/2023/10/pjimage.jpg.optimal.jpg",
         "title": "CNN lied about Joe Rogan and ivermectin. It regrets nothing",
@@ -19030,8 +19030,8 @@
         "source_url": "https://komoroske.com",
         "status_code": 200,
         "tags": [
-            "management",
-            "corporations"
+            "corporations",
+            "management"
         ],
         "thumbnail": null,
         "title": "Slime mold",
@@ -19086,10 +19086,10 @@
         "source_url": "https://www.coreysdigs.com",
         "status_code": 200,
         "tags": [
-            "larry fink",
-            "family tree",
             "blackrock",
-            "elites"
+            "elites",
+            "family tree",
+            "larry fink"
         ],
         "thumbnail": "https://www.coreysdigs.com/wp-content/uploads/2021/10/Fink-Family-Tree-Cover-scaled-1200x628-cropped.jpg",
         "title": "BlackRock CEO Larry Fink\u2019s Family Tree Was A Mystery Until Now",
@@ -19166,8 +19166,8 @@
         "source_url": "https://www.bbc.com",
         "status_code": 200,
         "tags": [
-            "vaccine",
-            "covid"
+            "covid",
+            "vaccine"
         ],
         "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/4CF2/production/_121189691_5c5f2c81-b7fc-4b3e-8dae-4a46a54514e4.jpg",
         "title": "Covid: Vaccine study links virus to rare neurological illness",
@@ -19219,8 +19219,8 @@
         "source_url": "https://www.reuters.com/world/allegation-cia-murder-plot-is-game-changer-assange-extradition-hearing-fiancee-2021-10-25/",
         "status_code": 200,
         "tags": [
-            "wikileaks",
-            "julian assange"
+            "julian assange",
+            "wikileaks"
         ],
         "thumbnail": "https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4RRWNGPCSZLNRJC4IIY4XXBM2Q.jpg?auth=7b6aa18eadd3aadf735c157f711448808dbccbed37fe57b5dc1f0bdcc1bd8c9b&height=1005&width=1920&quality=80&smart=true",
         "title": "Allegation of CIA 'murder' plot is game-changer in Assange extradition hearing, fiancee says",
@@ -19298,11 +19298,11 @@
         "status_code": 200,
         "tags": [
             "big oil",
-            "manufacturing consent",
-            "corporatocracy",
-            "monopoly",
-            "congress",
             "cigarettes",
+            "congress",
+            "corporatocracy",
+            "manufacturing consent",
+            "monopoly",
             "tobacco"
         ],
         "thumbnail": null,
@@ -19432,10 +19432,10 @@
         "source_url": "https://www.bbc.co.uk",
         "status_code": 200,
         "tags": [
-            "gender",
             "england",
-            "transgender",
-            "the left wing"
+            "gender",
+            "the left wing",
+            "transgender"
         ],
         "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/14748/production/_121248738_gettyimages-769781761.jpg",
         "title": "US issues first gender-neutral 'X' passport - BBC News",
@@ -19462,11 +19462,11 @@
         "source_url": "https://www.theguardian.com",
         "status_code": 200,
         "tags": [
-            "youtube",
             "carbon emissions",
-            "climate drama",
             "climate change",
-            "netflix"
+            "climate drama",
+            "netflix",
+            "youtube"
         ],
         "thumbnail": "https://i.guim.co.uk/img/media/19dd59a11dba7d9b7299373ee68a13524a6a0a53/0_0_4255_2553/master/4255.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjEucG5n&enable=upscale&s=ed01c36da03b896bfa729fc10851846b",
         "title": "Streaming\u2019s dirty secret: how viewing Netflix top 10 creates vast quantity of CO2 | TV streaming | The Guardian",
@@ -19493,9 +19493,9 @@
         "source_url": "https://cruxnow.com",
         "status_code": 200,
         "tags": [
+            "inequality",
             "italy",
             "lgbt",
-            "inequality",
             "the left wing"
         ],
         "thumbnail": "https://wp.cruxnow.com/wp-content/uploads/2021/08/96f06ee12aff6737a39d771e7a3f2168-scaled-1.jpeg?w=1200",
@@ -19523,9 +19523,9 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChGT03y2KiSG1AMkyK8IwsA",
         "status_code": 200,
         "tags": [
-            "vaccine",
             "covid",
-            "cristian terhes"
+            "cristian terhes",
+            "vaccine"
         ],
         "thumbnail": "https://i.ytimg.com/vi/AZNG3KpaTOg/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGDkgOCh_MA8=&rs=AOn4CLDcfT8zZZHI6VnztVoH-tmoNjgnsA",
         "title": "MEPs European Parliament stand up for freedom against Digital Green Certificate Covid Pass ENG NED",
@@ -19602,9 +19602,9 @@
         "source_url": "https://www.npr.org",
         "status_code": 200,
         "tags": [
+            "newspeak",
             "social engineering",
-            "the left wing",
-            "newspeak"
+            "the left wing"
         ],
         "thumbnail": "https://media.npr.org/assets/img/2021/10/27/gettyimages-1191439901_wide-275c28c0e0c04a58a17ef67905673071e838c385.jpg?s=1400&c=100&f=jpeg",
         "title": "Germany debates how to form gender-neutral words out of its gendered language : NPR",
@@ -19683,9 +19683,9 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDVb4m_5QHhZElT47E1oODg",
         "status_code": 200,
         "tags": [
-            "ready player one",
             "meta",
             "metaverse",
+            "ready player one",
             "virtual reality"
         ],
         "thumbnail": "https://i.ytimg.com/vi/3A-1gK9gDuU/maxresdefault.jpg",
@@ -19714,8 +19714,8 @@
         "status_code": 200,
         "tags": [
             "cbdc",
-            "propaganda",
             "privacy",
+            "propaganda",
             "surveillance"
         ],
         "thumbnail": "https://i.ytimg.com/vi/0u8eZcPnWeU/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGEIgZShYMA8=&rs=AOn4CLCK-6XHLZNBeHV32kCXAUn_TSdYkg",
@@ -19768,8 +19768,8 @@
         "source_url": "https://www.theguardian.com",
         "status_code": 200,
         "tags": [
-            "jes staley",
             "jeffrey epstein",
+            "jes staley",
             "jpmorgan"
         ],
         "thumbnail": "https://i.guim.co.uk/img/media/a887b1ecaf92aa4e56e394bb6306ec9080d65e67/0_37_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjEucG5n&enable=upscale&s=dd63213db1650830b6993a01b9254967",
@@ -19826,8 +19826,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA",
         "status_code": 200,
         "tags": [
-            "movies",
-            "hollywood"
+            "hollywood",
+            "movies"
         ],
         "thumbnail": "https://i.ytimg.com/vi/CQ92cggLMx8/sddefault.jpg",
         "title": "Why Modern Movies Suck - They're Written By Children",
@@ -19854,8 +19854,8 @@
         "source_url": "https://www.telegraph.co.uk",
         "status_code": 200,
         "tags": [
-            "ursula von der leyen",
-            "climate change"
+            "climate change",
+            "ursula von der leyen"
         ],
         "thumbnail": "https://www.telegraph.co.uk/content/dam/world-news/2021/11/02/TELEMMGLPICT000276399590_trans_NvBQzQNjv4BqOfhAHBl4vbgEXDrooVH1kqza4mgb0eLvt8KTuht2Ers.jpeg?impolicy=logo-overlay",
         "title": "Revealed: Ursula von der Leyen used private jet to travel just 31 miles",
@@ -19957,14 +19957,14 @@
         "source_url": "https://www.theguardian.com",
         "status_code": 200,
         "tags": [
-            "biometric",
-            "australia",
-            "facial recognition",
             "artificial intelligence",
-            "surveillance",
-            "privacy",
+            "australia",
+            "big brother",
+            "biometric",
             "clearview ai",
-            "big brother"
+            "facial recognition",
+            "privacy",
+            "surveillance"
         ],
         "thumbnail": "https://i.guim.co.uk/img/media/9b8e05babaf9fcfff8634a9e89dbf5bcce73a207/1493_0_3799_2280/master/3799.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjEucG5n&enable=upscale&s=3fe3da9f103287bd40927f4dd5045639",
         "title": "Facial recognition firm Clearview AI to appeal order to stop collecting images of Australians | Privacy | The Guardian",
@@ -20018,8 +20018,8 @@
         "source_url": "https://nypost.com",
         "status_code": 200,
         "tags": [
-            "covid origins",
             "covid",
+            "covid origins",
             "wuhan"
         ],
         "thumbnail": "https://nypost.com/wp-content/uploads/sites/2/2021/11/wuhan-lab-leak-index.jpg?quality=75&strip=all&w=1024",
@@ -20148,8 +20148,8 @@
         "status_code": 200,
         "tags": [
             "covid",
-            "vaccine",
-            "covid mandates"
+            "covid mandates",
+            "vaccine"
         ],
         "thumbnail": "https://i.insider.com/61863c4c23745d0018255ccb?width=1200&format=jpeg",
         "title": "Most US States Suing to Stop Biden COVID-19 Vaxx Mandate",
@@ -20176,10 +20176,10 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEBY1LNHPiJ6AE0B1wxfNHw",
         "status_code": 200,
         "tags": [
+            "crisis",
             "homelessness",
-            "usa",
             "oakland",
-            "crisis"
+            "usa"
         ],
         "thumbnail": "https://i.ytimg.com/vi/yRWmKh13b50/maxresdefault.jpg",
         "title": "The Oakland, California Homeless Problem is Beyond Belief",
@@ -20206,8 +20206,8 @@
         "source_url": "https://www.tampabay.com",
         "status_code": 200,
         "tags": [
-            "lockdown",
             "covid",
+            "lockdown",
             "statistics"
         ],
         "thumbnail": "https://www.tampabay.com/resizer/v2/GRTNJK75UDOLX2Y7OQYCB3UTVM.jpg?auth=dc3c90df07378be6c4b71fe46d39ed6cc2fcbfb4e92e2f9f7a631409a2ab98ec&height=675&width=1200&smart=true",
@@ -20344,8 +20344,8 @@
         "status_code": 200,
         "tags": [
             "data leak",
-            "robinhood",
-            "hackers"
+            "hackers",
+            "robinhood"
         ],
         "thumbnail": null,
         "title": "Robinhood security breach compromised data of 7 million users",
@@ -20422,8 +20422,8 @@
         "source_url": "http://feeds.bbci.co.uk/news/rss.xml",
         "status_code": 200,
         "tags": [
-            "climate change",
             "carbon emissions",
+            "climate change",
             "climate drama"
         ],
         "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/174FE/production/_121268459_2.png",
@@ -20451,9 +20451,9 @@
         "source_url": "https://www.nytimes.com",
         "status_code": 403,
         "tags": [
-            "vaccine",
             "covid",
-            "patents"
+            "patents",
+            "vaccine"
         ],
         "thumbnail": "https://static01.nyt.com/images/2021/11/09/us/politics/09dc-patent-2/09dc-patent-2-facebookJumbo.jpg?year=2021&h=550&w=1050&s=55d945e56aa664803012f2ffe45a08641695bfe1452c374d1169886dd2dc2215&k=ZQJBKqZ0VN",
         "title": "Moderna and U.S. at Odds Over Vaccine Patent Rights - The New York Times",
@@ -20480,9 +20480,9 @@
         "source_url": "https://demagog.org.pl",
         "status_code": 200,
         "tags": [
-            "social media",
             "facebook",
-            "facebook files"
+            "facebook files",
+            "social media"
         ],
         "thumbnail": "https://demagog.org.pl/wp-content/uploads/2021/11/facebook-3.png",
         "title": "\u201eFacebook Files\u201d, czyli\u00a0o tym, czego Facebook nie chcia\u0142 nam powiedzie\u0107",
@@ -20641,11 +20641,11 @@
         "source_url": "https://www.nbcnews.com",
         "status_code": 200,
         "tags": [
-            "pfizer",
-            "propaganda",
+            "big pharma",
             "covid",
             "misinformation",
-            "big pharma"
+            "pfizer",
+            "propaganda"
         ],
         "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2021-11/211110-Albert-Bourla-al-1414-ad340c.jpg",
         "title": "Pfizer CEO calls those spreading vaccine misinformation 'criminals'",
@@ -20672,10 +20672,10 @@
         "source_url": "https://www.theguardian.com",
         "status_code": 200,
         "tags": [
+            "carbon capture",
             "climate change",
-            "science is dead",
             "propaganda",
-            "carbon capture"
+            "science is dead"
         ],
         "thumbnail": "https://i.guim.co.uk/img/media/55fec66bb9351cca675076e90fd91b4882d9d7c4/0_311_3464_2079/master/3464.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjEucG5n&enable=upscale&s=07b326caef743af7f371f5a973ddf144",
         "title": "Australia\u2019s only working carbon capture and storage project fails to meet target | Western Australia | The Guardian",
@@ -20833,8 +20833,8 @@
         "source_url": "https://www.cnbc.com",
         "status_code": 200,
         "tags": [
-            "covid mandates",
-            "covid"
+            "covid",
+            "covid mandates"
         ],
         "thumbnail": "https://image.cnbcfm.com/api/v1/image/106970676-1636029463331-gettyimages-1236325570-GM_COVID_MANDATE_RALLY.jpeg?v=1636029498&w=1920&h=1080",
         "title": "Biden business vaccine mandate: Court calls requirements 'fatally flawed'",
@@ -20889,9 +20889,9 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0vn8ISa4LKMunLbzaXLnOQ",
         "status_code": 200,
         "tags": [
-            "lockdown",
+            "big brother",
             "covid",
-            "big brother"
+            "lockdown"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/7AZSkF9fNRM/maxresdefault.webp",
         "title": "Nigel Farage: Austrian lockdown of unvaccinated 'is deeply sinister'",
@@ -20943,12 +20943,12 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2d0Cp7XABGb3zpomS0d-WA",
         "status_code": 200,
         "tags": [
-            "youtube",
             "censorship",
             "corporatocracy",
             "dislikes",
+            "free speech",
             "hate speech",
-            "free speech"
+            "youtube"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/qukO3pKmqFY/maxresdefault.webp",
         "title": "Youtube removing dislikes is good actually.",
@@ -21169,8 +21169,8 @@
         "status_code": 200,
         "tags": [
             "covid",
-            "fearmongering",
             "covid lie",
+            "fearmongering",
             "propaganda"
         ],
         "thumbnail": null,
@@ -21384,8 +21384,8 @@
         "tags": [
             "algorithms",
             "big tech",
-            "media",
             "elites",
+            "media",
             "search engines"
         ],
         "thumbnail": "https://hls.harvard.edu/wp-content/uploads/2022/05/phone-on-fire-iStock-1204764194-2550x1601-1-1200x630.jpg",
@@ -21413,10 +21413,10 @@
         "source_url": "https://www.theblaze.com",
         "status_code": 200,
         "tags": [
-            "media",
             "bill gates",
+            "billionaires",
             "manufacturing consent",
-            "billionaires"
+            "media"
         ],
         "thumbnail": "https://www.theblaze.com/media-library/bill-gates-has-given-319-million-to-bankroll-select-media-outlets-and-change-the-public-narrative-and-the-internet-has-receip.jpg?id=27991284&width=1200&height=600&coordinates=0%2C583%2C0%2C345",
         "title": "Bill Gates has given $319 million to bankroll select media outlets and change the public narrative \u2014 and the internet has receipts: Report - TheBlaze",
@@ -21574,8 +21574,8 @@
         "source_url": "https://www.washingtonexaminer.com",
         "status_code": 200,
         "tags": [
-            "gofundme",
             "censorship",
+            "gofundme",
             "kyle rittenhouse"
         ],
         "thumbnail": "https://www.washingtonexaminer.com/wp-content/uploads/2023/11/ap21313549413145.jpg.optimal.jpg",
@@ -21603,8 +21603,8 @@
         "source_url": "https://thegrayzone.com",
         "status_code": 200,
         "tags": [
-            "media",
-            "bill gates"
+            "bill gates",
+            "media"
         ],
         "thumbnail": "https://thegrayzone.com/wp-content/uploads/2021/11/bill-gates-242.jpg",
         "title": "Documents show Bill Gates has given $319 million to media outlets to promote his global agenda",
@@ -21764,11 +21764,11 @@
         "status_code": 200,
         "tags": [
             "chat control",
+            "crypto wars",
             "encryption",
-            "privacy",
             "government control",
-            "surveillance",
-            "crypto wars"
+            "privacy",
+            "surveillance"
         ],
         "thumbnail": "https://mailbox.org/files/blog/blog_chatkontrolle_brief.jpg",
         "title": "Chat control: The latest EU plans to outlaw encryption and introduce telecommunications surveillance | mailbox.org",
@@ -21795,9 +21795,9 @@
         "source_url": "https://www.nytimes.com",
         "status_code": 403,
         "tags": [
-            "vaccine",
             "covid",
-            "covid mandates"
+            "covid mandates",
+            "vaccine"
         ],
         "thumbnail": "https://static01.nyt.com/images/2021/11/19/world/19virus-brief-austria-lockdown/19virus-brief-austria-lockdown-facebookJumbo.jpg?year=2021&h=550&w=1050&s=79c14c515ee48bf9ba95e0ce4c2c0def4c48a958f00b4c3bed0ab8f2d9e57daa&k=ZQJBKqZ0VN",
         "title": "Austria Announces Covid Vaccine Mandate, Crossing a Threshold for Europe - The New York Times",
@@ -21824,9 +21824,9 @@
         "source_url": "https://www.wkbw.com",
         "status_code": 200,
         "tags": [
-            "vaccine",
             "covid",
-            "fearmongering"
+            "fearmongering",
+            "vaccine"
         ],
         "thumbnail": "https://ewscripps.brightspotcdn.com/dims4/default/e40971a/2147483647/strip/true/crop/640x336+0+72/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsharing.wkbw.com%2Fsharescnn%2Fphoto%2F2016%2F03%2F08%2F6dd5fb9df5a25209910f6a7067000177_1457457002546_33301234_ver1.0_640_480.jpg",
         "title": "Assemblyman Pat Burke proposing bill to allow insurance to deny COVID treatment coverage for unvaccinated",
@@ -21882,8 +21882,8 @@
         "status_code": 200,
         "tags": [
             "covid",
-            "fearmongering",
             "covid lie",
+            "fearmongering",
             "propaganda"
         ],
         "thumbnail": "https://v.wpimg.pl/YjM2NThkdgssUDhnRxB7Hm8IbD0BSXVIOBB0dkdaaV99SnlkWEQ_AyFXPDEYBHcNP0c-NR8bdxohHS8kAUQvW2JWJycYBzgTYlcjNg0Pdl51VH5tWVJpR3sLK2xFX2FcfB93MVkPdFp8BCxnXl5hDixUfXYV",
@@ -21911,8 +21911,8 @@
         "source_url": "https://www.bmj.com",
         "status_code": 200,
         "tags": [
-            "vaccine",
-            "covid"
+            "covid",
+            "vaccine"
         ],
         "thumbnail": null,
         "title": "Study finds gradual increase in COVID infection risk after second vaccine dose | BMJ",
@@ -22042,8 +22042,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzQUP1qoWDoEbmsQxvdjxgQ",
         "status_code": 200,
         "tags": [
-            "propaganda",
-            "kyle rittenhouse"
+            "kyle rittenhouse",
+            "propaganda"
         ],
         "thumbnail": "https://i.ytimg.com/vi/HPodw7efhfc/maxresdefault.jpg",
         "title": "Kyle Rittenhouse's Acquittal",
@@ -22176,10 +22176,10 @@
         "source_url": "https://www.wionews.com",
         "status_code": 200,
         "tags": [
-            "protest",
+            "australia",
             "covid",
             "lockdown",
-            "australia"
+            "protest"
         ],
         "thumbnail": "https://cdn.wionews.com/sites/default/files/2021/11/27/223726-australia.jpeg",
         "title": "Australia protests: People march against vaccine mandate; demand removal of Victorian Premier Daniel Andrews",
@@ -22232,8 +22232,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiRiQGCHGjDLT9FQXFW0I3A",
         "status_code": 200,
         "tags": [
-            "mainstream media",
-            "freedom"
+            "freedom",
+            "mainstream media"
         ],
         "thumbnail": "https://i.ytimg.com/vi/5okSlrbgELA/maxresdefault.jpg",
         "title": "Is the Mainstream Media a Threat to Freedom and Sanity?",
@@ -22310,10 +22310,10 @@
         "source_url": "https://allthatsinteresting.com",
         "status_code": 403,
         "tags": [
-            "secret societies",
             "billionaires",
+            "bohemian grove",
             "elites",
-            "bohemian grove"
+            "secret societies"
         ],
         "thumbnail": "https://allthatsinteresting.com/wordpress/wp-content/uploads/2021/11/bohemian-grove-featured.png",
         "title": "Inside Bohemian Grove, The Secret California Club For Powerful Men",
@@ -22340,10 +22340,10 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_0fFiRC70exikffwgm2Uog",
         "status_code": 200,
         "tags": [
-            "corporatocracy",
-            "artificial intelligence",
             "aladdin",
-            "blackrock"
+            "artificial intelligence",
+            "blackrock",
+            "corporatocracy"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/AWBRldjVzuM/maxresdefault.webp",
         "title": "This Robot Already Owns Everything (And it's just getting started) : Blackrock Aladdin",
@@ -22370,8 +22370,8 @@
         "source_url": "https://www.abc.net.au",
         "status_code": 200,
         "tags": [
-            "big tech",
             "anonymity",
+            "big tech",
             "government control",
             "privacy"
         ],
@@ -22500,10 +22500,10 @@
         "source_url": "https://www.yourtango.com",
         "status_code": 200,
         "tags": [
-            "linkin park",
-            "conspiracy theory",
             "chester bennington",
+            "conspiracy theory",
             "ghislaine maxwell",
+            "linkin park",
             "paedophilia"
         ],
         "thumbnail": "https://www.yourtango.com/sites/default/files/image_blog/chester-bennington-john-podesta.jpg",
@@ -22531,11 +22531,11 @@
         "source_url": "https://frankspeech.com",
         "status_code": 403,
         "tags": [
-            "kyle rittenhouse",
-            "blm",
-            "media bias",
             "black lives matter",
-            "inequality"
+            "blm",
+            "inequality",
+            "kyle rittenhouse",
+            "media bias"
         ],
         "thumbnail": null,
         "title": "Media Bias Around Kyle Rittenhouse Case",
@@ -22562,9 +22562,9 @@
         "source_url": "https://news.ycombinator.com",
         "status_code": 200,
         "tags": [
-            "search algorithms",
+            "dead internet",
             "google",
-            "dead internet"
+            "search algorithms"
         ],
         "thumbnail": null,
         "title": "Ask HN: Has Google search become quantitatively worse? | Hacker News",
@@ -22591,9 +22591,9 @@
         "source_url": "https://www.healthline.com",
         "status_code": 600,
         "tags": [
-            "vaccine",
+            "booster",
             "covid",
-            "booster"
+            "vaccine"
         ],
         "thumbnail": null,
         "title": "Will We Need COVID-19 Boosters Every 6 Months?",
@@ -22645,8 +22645,8 @@
         "source_url": "https://news.yahoo.com",
         "status_code": 200,
         "tags": [
-            "wind farms",
-            "climate change"
+            "climate change",
+            "wind farms"
         ],
         "thumbnail": null,
         "title": "Fact check: Wind turbine blades can be recycled, but it rarely happens today",
@@ -22673,10 +22673,10 @@
         "source_url": "https://hothardware.com",
         "status_code": 200,
         "tags": [
-            "infrastructure bill",
-            "electric vehicles",
-            "technofeudalism",
             "backdoor",
+            "electric vehicles",
+            "infrastructure bill",
+            "technofeudalism",
             "vulnerability"
         ],
         "thumbnail": "https://images.hothardware.com/contentimages/newsitem/56942/content/biden-cars-hero.jpg",
@@ -22785,8 +22785,8 @@
         "source_url": "https://embedded.substack.com",
         "status_code": 200,
         "tags": [
-            "facebook",
             "algorithms",
+            "facebook",
             "instagram"
         ],
         "thumbnail": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff396af64-dc5c-47fb-9833-4f24df4968e5_822x1314.png",
@@ -22889,11 +22889,11 @@
         "source_url": "https://nationalpost.com",
         "status_code": 200,
         "tags": [
-            "transgender",
+            "canada",
+            "children",
             "lgbt",
             "the left wing",
-            "canada",
-            "children"
+            "transgender"
         ],
         "thumbnail": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2021/12/na0412-transgender-illo-BH-C-web.jpg",
         "title": "Canada too quick to treat gender dysphoria in minors with hormones, surgery: critics",
@@ -22945,14 +22945,14 @@
         "source_url": "https://www.reuters.com",
         "status_code": 200,
         "tags": [
-            "biometric",
-            "australia",
-            "facial recognition",
             "artificial intelligence",
-            "surveillance",
-            "privacy",
+            "australia",
+            "big brother",
+            "biometric",
             "clearview ai",
-            "big brother"
+            "facial recognition",
+            "privacy",
+            "surveillance"
         ],
         "thumbnail": "https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F5OK2AH5UFVM2DKLI44GFGOABOA.jpg?auth=ee336f5c347d7186a9a02d7a8f5be57cd55f99ccb389486dda306488ccba35ec&height=1005&width=1920&quality=80&smart=true",
         "title": "Australia says U.S. facial recognition software firm Clearview breached privacy law | Reuters",
@@ -23029,9 +23029,9 @@
         "source_url": "https://merecivilian.com",
         "status_code": 200,
         "tags": [
-            "technofeudalism",
+            "apple",
             "corporatocracy",
-            "apple"
+            "technofeudalism"
         ],
         "thumbnail": "https://merecivilian.com/content/images/2021/12/laurenz-heymann-wAygsCk20h8-unsplash-2.jpg",
         "title": "Apple broke up with me \ud83d\ude22",
@@ -23085,10 +23085,10 @@
         "source_url": "https://www.macrumors.com",
         "status_code": 200,
         "tags": [
-            "china",
             "apple",
-            "tim cook",
-            "manufacturing consent"
+            "china",
+            "manufacturing consent",
+            "tim cook"
         ],
         "thumbnail": "https://images.macrumors.com/t/pS3jkTfGe3wiQoo6iCKNLl4ahPg=/1600x/article-new/2017/03/1x-1.jpg",
         "title": "Apple CEO Tim Cook 'Secretly' Signed $275 Billion Deal With China in 2016 - MacRumors",
@@ -23115,8 +23115,8 @@
         "source_url": "https://next.gazeta.pl",
         "status_code": 600,
         "tags": [
-            "statistics",
-            "covid"
+            "covid",
+            "statistics"
         ],
         "thumbnail": null,
         "title": "Co\u015b dziwnego wychodzi z danych o zgonach na COVID-19. R\u00f3\u017cne wojew\u00f3dztwa jak r\u00f3\u017cne \u015bwiaty [WYKRES DNIA]",
@@ -23143,8 +23143,8 @@
         "source_url": "https://www.telegraph.co.uk",
         "status_code": 200,
         "tags": [
-            "jeffrey epstein",
-            "fbi"
+            "fbi",
+            "jeffrey epstein"
         ],
         "thumbnail": "https://www.telegraph.co.uk/content/dam/world-news/2021/12/07/TELEMMGLPICT000279962009_trans_NvBQzQNjv4Bq-yKXUOr_MwQ_nCnkwkIf1EikPYR0xYwuEBLwP9UFqPg.jpeg?impolicy=OG-Standard",
         "title": "Evidence from Jeffrey Epstein's safe 'went missing' after FBI raid, court hears in Ghislaine Maxwell trial",
@@ -23171,8 +23171,8 @@
         "source_url": "https://businessinsider.com.pl",
         "status_code": 200,
         "tags": [
-            "statistics",
-            "covid"
+            "covid",
+            "statistics"
         ],
         "thumbnail": "https://ocdn.eu/pulscms-transforms/1/etEk9kpTURBXy8zOGNlNDBkMWQ0NjkxZDdlNjU0NDA0ZmY5MjYzNThhYS5wbmeSlQMAAM0H0M0EZpMFzQSwzQJ23gABoTAB",
         "title": "Dziwne rozbie\u017cno\u015bci w danych o zgonach na COVID-19. Region regionowi nier\u00f3wny",
@@ -23199,9 +23199,9 @@
         "source_url": "https://www.dailymail.co.uk",
         "status_code": 200,
         "tags": [
+            "billionaires",
             "black lives matter",
             "defund the police",
-            "billionaires",
             "george soros"
         ],
         "thumbnail": "https://i.dailymail.co.uk/1s/2021/12/09/17/51559787-0-image-a-10_1639070930987.jpg",
@@ -23412,8 +23412,8 @@
         "source_url": "https://www.smh.com.au",
         "status_code": 200,
         "tags": [
-            "covid",
             "australia",
+            "covid",
             "lockdown"
         ],
         "thumbnail": "https://static.ffx.io/images/$zoom_0.4223520202020202%2C$multiply_0.7554%2C$ratio_1.776846%2C$width_1059%2C$x_600%2C$y_89/t_crop_custom/q_86%2Cf_auto/t_smh_no_label_social_wm/l_text:PT%20Sans_41_bold_italic:%20from%20%2Cg_south_west%2Cy_84%2Cx_288%2Cco_rgb:0a1633/l_text:PT%20Sans_41_bold:%20%20%2Cg_south_west%2Cy_90%2Cx_375%2Cco_rgb:0a1633/l_text:AbrilTitling-Bold.ttf_83:%202021%20%2Cg_south_west%2Cy_15%2Cx_274%2Cco_rgb:0a1633/3eef09b40b2af26629ada00c61ea1d02f5b0f5ed",
@@ -23442,9 +23442,9 @@
         "status_code": 200,
         "tags": [
             "big pharma",
+            "covid",
             "pfizer",
-            "vaccine",
-            "covid"
+            "vaccine"
         ],
         "thumbnail": "https://www.pokoleniex.com/wp-content/uploads/2021/12/maarten-van-den-heuvel-8EzNkvLQosk-unsplash-scaled.jpg",
         "title": "\"Pierwsze \"\"poufne\"\" dokumenty Pfizera ujawnione z nakazu s\u0105dowego\"",
@@ -23471,8 +23471,8 @@
         "source_url": "https://news.yahoo.com",
         "status_code": 200,
         "tags": [
-            "extremism",
             "censorship",
+            "extremism",
             "germany",
             "moderation"
         ],
@@ -23501,13 +23501,13 @@
         "source_url": "https://www.priv.gc.ca",
         "status_code": 200,
         "tags": [
-            "biometric",
-            "facial recognition",
             "artificial intelligence",
-            "surveillance",
-            "privacy",
+            "big brother",
+            "biometric",
             "clearview ai",
-            "big brother"
+            "facial recognition",
+            "privacy",
+            "surveillance"
         ],
         "thumbnail": null,
         "title": "Announcement: Clearview AI ordered to comply with recommendations to stop collecting, sharing images - Office of the Privacy Commissioner of Canada",
@@ -23534,10 +23534,10 @@
         "source_url": "https://nypost.com",
         "status_code": 200,
         "tags": [
-            "fact check",
-            "propaganda",
+            "covid",
             "facebook",
-            "covid"
+            "fact check",
+            "propaganda"
         ],
         "thumbnail": "https://nypost.com/wp-content/uploads/sites/2/2021/07/tim-buck-facebook2-1.jpg?quality=75&strip=all&w=1024",
         "title": "Facebook admits the truth: 'Fact checks' are really just (lefty) opinion",
@@ -23593,8 +23593,8 @@
         "source_url": "https://www.thesun.co.uk",
         "status_code": 200,
         "tags": [
-            "fearmongering",
-            "covid"
+            "covid",
+            "fearmongering"
         ],
         "thumbnail": "https://www.thesun.co.uk/wp-content/uploads/2021/12/NINTCHDBPICT000700445245-1.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
         "title": "Idea that Omicron is milder is a myth, warns Chris Whitty - despite low hospitalisations | The Sun",
@@ -23650,8 +23650,8 @@
         "tags": [
             "big tech",
             "china",
-            "uyghur",
-            "genocide"
+            "genocide",
+            "uyghur"
         ],
         "thumbnail": "https://i.guim.co.uk/img/media/18db0804aa3a958552f2c66c680e829a13138df7/0_187_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjEucG5n&enable=upscale&s=f8e50080093c83d70a7ec3be6489071b",
         "title": "Documents link Huawei to Uyghur surveillance projects, report claims | Huawei | The Guardian",
@@ -23679,9 +23679,9 @@
         "status_code": 200,
         "tags": [
             "covid",
-            "vaccine",
             "covid lie",
-            "transmission"
+            "transmission",
+            "vaccine"
         ],
         "thumbnail": "https://static.independent.co.uk/2021/02/28/19/fauci-vaccine-wh-presser.jpg?quality=75&width=1200&auto=webp",
         "title": "\u2018No hospitalisations and no deaths\u2019: All three US vaccines \u2018highly efficacious\u2019, Fauci says",
@@ -23708,10 +23708,10 @@
         "source_url": "https://www.webfx.com",
         "status_code": 200,
         "tags": [
-            "media",
+            "corporatocracy",
             "legacy media",
-            "movies",
-            "corporatocracy"
+            "media",
+            "movies"
         ],
         "thumbnail": "https://www.webfx.com/wp-content/uploads/2023/08/63_six_companies_that_own_almost_all_media.png",
         "title": "The 6 Companies That Own (Almost) All Media [INFOGRAPHIC]",
@@ -23765,8 +23765,8 @@
         "source_url": "https://www.washingtonexaminer.com",
         "status_code": 200,
         "tags": [
-            "covid lie",
             "covid",
+            "covid lie",
             "transmission",
             "vaccine"
         ],
@@ -23796,8 +23796,8 @@
         "status_code": 200,
         "tags": [
             "cyber apocalypse",
-            "wrold economic forum",
-            "fearmongering"
+            "fearmongering",
+            "wrold economic forum"
         ],
         "thumbnail": "https://www.naturalnews.com/wp-content/uploads/sites/91/2021/12/Matrix-Cyber-Attack.jpg",
         "title": "World Economic Forum simulates global cyberattack that could bring about \u201cGreat Reset\u201d \u2013 NaturalNews.com",
@@ -23851,10 +23851,10 @@
         "source_url": "https://qz.com",
         "status_code": 200,
         "tags": [
-            "who",
-            "covid",
             "bill gates",
-            "gates foundation"
+            "covid",
+            "gates foundation",
+            "who"
         ],
         "thumbnail": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/1868297cdad2968451e87fbd4aebbb24.jpg",
         "title": "The WHO has a worrisome reliance on the Bill & Melinda Gates Foundation",
@@ -23881,8 +23881,8 @@
         "source_url": "https://www.cnbc.com",
         "status_code": 200,
         "tags": [
-            "censorship",
             "amazon",
+            "censorship",
             "china"
         ],
         "thumbnail": "https://image.cnbcfm.com/api/v1/image/105979952-1561058544947gettyimages-913038782.jpeg?v=1561058568&w=1920&h=1080",
@@ -24116,9 +24116,9 @@
         "source_url": "https://hotair.com",
         "status_code": 200,
         "tags": [
-            "vaccine",
             "covid",
-            "covid mandates"
+            "covid mandates",
+            "vaccine"
         ],
         "thumbnail": "https://media.townhall.com/townhall/reu/ha/2021/271/b7e4776b-d825-4258-9fad-8addceb7f585.jpg",
         "title": "New York bill would create literal internment camps for the unvaccinated at the Governor's whim \u2013 HotAir",
@@ -24222,8 +24222,8 @@
         "source_url": "https://nypost.com",
         "status_code": 200,
         "tags": [
-            "fearmongering",
-            "covid"
+            "covid",
+            "fearmongering"
         ],
         "thumbnail": "https://nypost.com/wp-content/uploads/sites/2/2021/12/iStock-1213838327.jpg?quality=75&strip=all&w=1024",
         "title": "Omicron coverage reveals how the establishment, media keep us scared",
@@ -24250,10 +24250,10 @@
         "source_url": "https://www.the-sun.com",
         "status_code": 200,
         "tags": [
-            "elites",
-            "jeffrey epstein",
             "billionaires",
             "donald trump",
+            "elites",
+            "jeffrey epstein",
             "lolita express"
         ],
         "thumbnail": "https://www.the-sun.com/wp-content/uploads/sites/6/2021/12/COMP-KS-TRUMPFLIGHTv2.jpg?strip=all&quality=100&w=1500&h=1000&crop=1",
@@ -24306,8 +24306,8 @@
         "source_url": "https://en.wikipedia.org",
         "status_code": 200,
         "tags": [
-            "stable diffusion",
-            "artificial intelligence"
+            "artificial intelligence",
+            "stable diffusion"
         ],
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Astronaut_Riding_a_Horse_%28SDXL%29.jpg",
         "title": "Stable Diffusion - Wikipedia",
@@ -24334,8 +24334,8 @@
         "source_url": "https://github.com",
         "status_code": 200,
         "tags": [
-            "stable diffusion",
-            "artificial intelligence"
+            "artificial intelligence",
+            "stable diffusion"
         ],
         "thumbnail": "https://opengraph.githubassets.com/ea1e65c2d93b6c8917c53e0e5dad1490bc0dc2684339a46c6dbbcc0989949425/CompVis/stable-diffusion",
         "title": "GitHub - CompVis/stable-diffusion: A latent text-to-image diffusion model",
@@ -24362,8 +24362,8 @@
         "source_url": "https://css.umich.edu",
         "status_code": 200,
         "tags": [
-            "climate change",
             "carbon footprint",
+            "climate change",
             "climate science"
         ],
         "thumbnail": "https://css.umich.edu/themes/custom/css/img/og-image.png",
@@ -24441,10 +24441,10 @@
         "source_url": "https://www.bbc.co.uk",
         "status_code": 200,
         "tags": [
-            "transgender",
             "big brother",
+            "gender",
             "the left wing",
-            "gender"
+            "transgender"
         ],
         "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/14A97/production/_122313648_a3b49e9d-6b70-4c67-b5c5-4b26b0cbc3f6.jpg",
         "title": "MPs urge changes to 'outdated' gender recognition laws - BBC News",
@@ -24471,8 +24471,8 @@
         "source_url": "https://www.tvp.info",
         "status_code": 600,
         "tags": [
-            "fearmongering",
             "covid",
+            "fearmongering",
             "propaganda"
         ],
         "thumbnail": "https://s.tvp.pl/files/tvp-info/v2/gfx/logo-opengraph-big.jpg",
@@ -24500,8 +24500,8 @@
         "source_url": "https://www.spectator.co.uk",
         "status_code": 200,
         "tags": [
-            "fearmongering",
-            "covid"
+            "covid",
+            "fearmongering"
         ],
         "thumbnail": "https://www.spectator.co.uk/wp-content/uploads/2021/12/Covid-Riot_LARGE.jpg",
         "title": "Covid fearmongering has consequences too | The Spectator",
@@ -24605,9 +24605,9 @@
         "source_url": "https://blog.carlmjohnson.net",
         "status_code": 200,
         "tags": [
-            "programming",
+            "clean code",
             "go",
-            "clean code"
+            "programming"
         ],
         "thumbnail": "https://blog.carlana.net/post/img/2021-gopher-web.png",
         "title": "Why I wrote my own Go HTTP client \u00b7 The Ethically-Trained Programmer",
@@ -24634,8 +24634,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSaUrlltLDESXg5j9CXOmKw",
         "status_code": 200,
         "tags": [
-            "graphics",
-            "games"
+            "games",
+            "graphics"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/L-A5QrhZtGU/maxresdefault.webp",
         "title": "Gaming's Third Greatest Scam: Good Graphics.",
@@ -24740,8 +24740,8 @@
         "source_url": "https://en.m.wikipedia.org",
         "status_code": 200,
         "tags": [
-            "secret societies",
-            "bohemian grove"
+            "bohemian grove",
+            "secret societies"
         ],
         "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/cf/Harvey_Hancock_at_Bohemian_Grove_1967.jpeg",
         "title": "Bohemian Grove",
@@ -24768,11 +24768,11 @@
         "source_url": "https://en.wikipedia.org",
         "status_code": 200,
         "tags": [
-            "sokal affair",
-            "science is dead",
-            "science",
             "propaganda",
-            "sokal"
+            "science",
+            "science is dead",
+            "sokal",
+            "sokal affair"
         ],
         "thumbnail": null,
         "title": "Sokal affair",
@@ -24799,11 +24799,11 @@
         "source_url": "https://en.wikipedia.org",
         "status_code": 200,
         "tags": [
-            "sokal",
-            "science is dead",
             "grievance",
+            "propaganda",
             "science",
-            "propaganda"
+            "science is dead",
+            "sokal"
         ],
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Academics_expose_corruption_in_Grievance_Studies.webm/1200px--Academics_expose_corruption_in_Grievance_Studies.webm.jpg",
         "title": "Grievance studies affair",
@@ -25084,10 +25084,10 @@
         "source_url": "https://www.bloomberg.com",
         "status_code": 200,
         "tags": [
-            "sweet water",
+            "china",
             "climate change",
             "pollution",
-            "china"
+            "sweet water"
         ],
         "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iIA1b4pXSu6I/v1/1200x795.jpg",
         "title": "China Is Running Out of Water and That\u2019s Scary for Asia",
@@ -25114,10 +25114,10 @@
         "source_url": "https://reason.com",
         "status_code": 200,
         "tags": [
-            "facebook",
-            "science is dead",
             "censorship",
-            "fact check"
+            "facebook",
+            "fact check",
+            "science is dead"
         ],
         "thumbnail": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2021/12/Artboard-1-1024x576.png",
         "title": "Facebook Said My Article Was 'False Information.' Now the Fact-Checkers Admit They Were Wrong.",
@@ -25324,8 +25324,8 @@
         "source_url": "https://logging.apache.org",
         "status_code": 200,
         "tags": [
-            "vulnerability",
-            "log4j"
+            "log4j",
+            "vulnerability"
         ],
         "thumbnail": null,
         "title": "Log4j \u2013 Apache Log4j Security Vulnerabilities",

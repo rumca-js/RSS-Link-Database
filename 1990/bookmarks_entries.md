@@ -1,7 +1,7 @@
  ## How Jeffrey Epstein Used the Billionaire Behind Victoria’s Secret for Wealth and Women - The New York Times
  - [https://www.nytimes.com/2019/07/25/business/jeffrey-epstein-wexner-victorias-secret.html](https://www.nytimes.com/2019/07/25/business/jeffrey-epstein-wexner-victorias-secret.html)
  - date_published: 1990-07-28T10:27:54+00:00
- - tags: ['victoria secret', 'leslie wexner', 'jeffrey epstein']
+ - tags: ['jeffrey epstein', 'leslie wexner', 'victoria secret']
 
  ## Afera FOZZ
  - [https://bb-i.blog/tag/afera-fozz](https://bb-i.blog/tag/afera-fozz)

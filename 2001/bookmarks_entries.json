@@ -74,8 +74,8 @@
         "source_url": "https://en.m.wikipedia.org",
         "status_code": 200,
         "tags": [
-            "encryption",
-            "crypto"
+            "crypto",
+            "encryption"
         ],
         "thumbnail": "https://upload.wikimedia.org/wikipedia/en/6/66/Crypto_%28book%29.jpg",
         "title": "Crypto (book) - Wikipedia",
@@ -129,9 +129,9 @@
         "source_url": "https://en.wikipedia.org",
         "status_code": 200,
         "tags": [
-            "osama bin laden",
+            "911",
             "manufacturing consent",
-            "911"
+            "osama bin laden"
         ],
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bin_Ladin_Determined_To_Strike_in_US_%28August_2001%29.pdf/page1-1200px-Bin_Ladin_Determined_To_Strike_in_US_%28August_2001%29.pdf.jpg",
         "title": "Bin Ladin Determined To Strike in US - Wikipedia",
@@ -212,10 +212,10 @@
         "source_url": "https://www.snopes.com",
         "status_code": 200,
         "tags": [
-            "larry silverstein",
             "911",
-            "twin towers",
-            "conspiracy theory"
+            "conspiracy theory",
+            "larry silverstein",
+            "twin towers"
         ],
         "thumbnail": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2016/09/wtcattack.jpg",
         "title": "Did a WTC Leaseholder Buy Terrorism Insurance Just Before 9/11?",
@@ -242,8 +242,8 @@
         "source_url": "",
         "status_code": 200,
         "tags": [
-            "israel",
-            "911"
+            "911",
+            "israel"
         ],
         "thumbnail": null,
         "title": "Odigo says workers were warned of attack",
@@ -297,8 +297,8 @@
         "source_url": "",
         "status_code": 200,
         "tags": [
-            "israel",
-            "911"
+            "911",
+            "israel"
         ],
         "thumbnail": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png?year=2001",
         "title": "5 Young Israelis, Caught in Net of Suspicion (Published 2001)",
@@ -413,9 +413,9 @@
         "status_code": 200,
         "tags": [
             "georgia guide stone",
+            "new age",
             "occult",
-            "secret societies",
-            "new age"
+            "secret societies"
         ],
         "thumbnail": null,
         "title": "Dziesi\u0119\u0107 Przykaza\u0144 Okultu - Kamienny Monument z Georgia (Georgia Guide Stone) - Artyku\u0142 Radio Liberty",
@@ -442,8 +442,8 @@
         "source_url": "",
         "status_code": 200,
         "tags": [
-            "bill clinton",
-            "911"
+            "911",
+            "bill clinton"
         ],
         "thumbnail": "https://ca-times.brightspotcdn.com/dims4/default/64e287b/2147483647/strip/true/crop/2400x1260+0+0/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fdf%2F45%2F57d858144a2a88575fa2b03080bb%2Flatlogo-ss.jpg",
         "title": "Clinton Let Bin Laden Slip Away and Metastasize",

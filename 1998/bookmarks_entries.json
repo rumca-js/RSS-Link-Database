@@ -21,9 +21,9 @@
         "status_code": 200,
         "tags": [
             "cigarettes",
+            "congress",
             "manufacturing consent",
-            "tobacco",
-            "congress"
+            "tobacco"
         ],
         "thumbnail": null,
         "title": "Contrite Tobacco Executives Admit Health Risks Before Congress",
@@ -50,9 +50,9 @@
         "source_url": "http://infolab.stanford.edu",
         "status_code": 600,
         "tags": [
-            "search engines",
             "algorithms",
-            "dead internet"
+            "dead internet",
+            "search engines"
         ],
         "thumbnail": null,
         "title": "The Anatomy of a Large-Scale Hypertextual Web Search Engine",
@@ -80,8 +80,8 @@
         "status_code": 200,
         "tags": [
             "dark design",
-            "microsoft",
-            "halloween documents"
+            "halloween documents",
+            "microsoft"
         ],
         "thumbnail": null,
         "title": "Halloween Document 10",
@@ -108,11 +108,11 @@
         "source_url": "https://en.wikipedia.org",
         "status_code": 200,
         "tags": [
-            "open source",
             "dark design",
+            "halloween documents",
             "linux",
             "microsoft",
-            "halloween documents"
+            "open source"
         ],
         "thumbnail": null,
         "title": "Halloween documents - Wikipedia",
@@ -139,11 +139,11 @@
         "source_url": "http://catb.org",
         "status_code": 200,
         "tags": [
-            "open source",
             "dark design",
+            "halloween documents",
             "linux",
             "microsoft",
-            "halloween documents"
+            "open source"
         ],
         "thumbnail": null,
         "title": "Halloween Document 8",
@@ -171,10 +171,10 @@
         "status_code": 200,
         "tags": [
             "algorithms",
-            "search algorithms",
-            "search bias",
             "bias",
             "media bias",
+            "search algorithms",
+            "search bias",
             "search engines"
         ],
         "thumbnail": null,
@@ -203,8 +203,8 @@
         "status_code": 200,
         "tags": [
             "dark design",
-            "microsoft",
-            "halloween documents"
+            "halloween documents",
+            "microsoft"
         ],
         "thumbnail": null,
         "title": "Internal Memo Shows Microsoft Executives' Concern Over Free Software",

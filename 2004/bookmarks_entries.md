@@ -1,7 +1,7 @@
  ## Pentagon Kills LifeLog Project
  - [https://www.wired.com/2004/02/pentagon-kills-lifelog-project](https://www.wired.com/2004/02/pentagon-kills-lifelog-project)
  - date_published: 2004-02-04T17:00:00+00:00
- - tags: ['darpa', 'privacy', 'surveillance', 'lifelog']
+ - tags: ['darpa', 'lifelog', 'privacy', 'surveillance']
 
  ## SCO sues its own customers over Linux | Network World
  - [https://www.networkworld.com/article/2331156/sco-sues-its-own-customers-over-linux.html](https://www.networkworld.com/article/2331156/sco-sues-its-own-customers-over-linux.html)
@@ -21,15 +21,15 @@
  ## George Soros: The 'God' Who Carries Around Some Dangerous Demons - Los Angeles Times
  - [https://www.latimes.com/archives/la-xpm-2004-oct-04-oe-ehrenfeld4-story.html](https://www.latimes.com/archives/la-xpm-2004-oct-04-oe-ehrenfeld4-story.html)
  - date_published: 2004-10-04T17:43:52+00:00
- - tags: ['billionaires', 'george soros', 'elite']
+ - tags: ['billionaires', 'elite', 'george soros']
 
  ## EU fish ministers to vote on software patents
  - [https://www.theregister.com/2004/12/20/patents_vote](https://www.theregister.com/2004/12/20/patents_vote)
  - date_published: 2004-12-20T18:52:36+00:00
- - tags: ['manufacturing consent', 'european union', 'dark design']
+ - tags: ['dark design', 'european union', 'manufacturing consent']
 
  ## Fauci, in 2004: the most potent vaccination is getting infected yourself
  - [https://twitter.com/tomselliott/status/1509852615751962627](https://twitter.com/tomselliott/status/1509852615751962627)
  - date_published: 2004-12-30T14:25:27+00:00
- - tags: ['anthony fauci', 'vaccine', 'covid', 'flu']
+ - tags: ['anthony fauci', 'covid', 'flu', 'vaccine']
 

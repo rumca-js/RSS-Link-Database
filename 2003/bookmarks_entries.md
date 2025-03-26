@@ -11,7 +11,7 @@
  ## A Spy Machine of DARPA's Dreams
  - [https://www.wired.com/2003/05/a-spy-machine-of-darpas-dreams](https://www.wired.com/2003/05/a-spy-machine-of-darpas-dreams)
  - date_published: 2003-05-20T16:00:00+00:00
- - tags: ['darpa', 'privacy', 'surveillance', 'lifelog']
+ - tags: ['darpa', 'lifelog', 'privacy', 'surveillance']
 
  ## Iraq: Halliburton Reaping Huge Profits | corpwatch
  - [https://www.corpwatch.org/article/iraq-halliburton-reaping-huge-profits](https://www.corpwatch.org/article/iraq-halliburton-reaping-huge-profits)
@@ -22,7 +22,7 @@
  ## Five Israelis were seen filming as jet liners ploughed into the Twin Towers on September 11, 2001 ...
  - [https://www.heraldscotland.com/news/12768362.five-israelis-were-seen-filming-as-jet-liners-ploughed-into-the-twin-towers-on-september-11-2001](https://www.heraldscotland.com/news/12768362.five-israelis-were-seen-filming-as-jet-liners-ploughed-into-the-twin-towers-on-september-11-2001)
  - date_published: 2003-11-03T18:16:45+00:00
- - tags: ['israel', '911']
+ - tags: ['911', 'israel']
 
  ## Halliburton: $61M Overcharge? - CBS News
  - [https://www.cbsnews.com/news/halliburton-61m-overcharge](https://www.cbsnews.com/news/halliburton-61m-overcharge)

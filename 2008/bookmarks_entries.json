@@ -20,10 +20,10 @@
         "source_url": "https://www.schneier.com",
         "status_code": 200,
         "tags": [
-            "nsa",
-            "espionage",
             "backdoor",
-            "cryptography"
+            "cryptography",
+            "espionage",
+            "nsa"
         ],
         "thumbnail": "https://149400697.v2.pressablecdn.com/wp-content/uploads/2020/06/cropped-favicon-1.png",
         "title": "NSA Backdoors in Crypto AG Ciphering Machines - Schneier on Security",
@@ -77,9 +77,9 @@
         "source_url": "https://www.thecut.com",
         "status_code": 200,
         "tags": [
+            "adidas",
             "germany",
             "holocaust",
-            "adidas",
             "puma"
         ],
         "thumbnail": null,
@@ -136,9 +136,9 @@
         "source_url": "https://www.theatlantic.com",
         "status_code": 200,
         "tags": [
-            "google",
             "digital dementia",
             "future",
+            "google",
             "psychology"
         ],
         "thumbnail": "https://cdn.theatlantic.com/thumbor/-krK-VdrbsjAvT9zYgi1Oq7EE98=/133x285:2028x1272/1200x625/media/img/2017/10/0708_WEL_Carr_Mach01-1/original.jpg",
@@ -193,13 +193,13 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAuUUnT6oDeKwE6v1NGQxug",
         "status_code": 200,
         "tags": [
-            "sociology",
-            "crisis",
-            "lecture",
-            "ted",
             "climate change",
+            "crisis",
+            "environment",
+            "lecture",
             "society",
-            "environment"
+            "sociology",
+            "ted"
         ],
         "thumbnail": "https://i.ytimg.com/vi/IESYMFtLIis/hqdefault.jpg",
         "title": "Why societies collapse | Jared Diamond",

@@ -20,9 +20,9 @@
         "source_url": "https://en.wikipedia.org",
         "status_code": 200,
         "tags": [
+            "france",
             "government",
-            "greenpeace",
-            "france"
+            "greenpeace"
         ],
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Schip_Rainbow_Warrior_van_Greenpeace_in_Scheveningen%2C_Bestanddeelnr_930-2632.jpg/1200px-Schip_Rainbow_Warrior_van_Greenpeace_in_Scheveningen%2C_Bestanddeelnr_930-2632.jpg",
         "title": "Sinking of the Rainbow Warrior - Wikipedia",
@@ -49,8 +49,8 @@
         "source_url": "",
         "status_code": 200,
         "tags": [
-            "global warming",
-            "climate change"
+            "climate change",
+            "global warming"
         ],
         "thumbnail": "https://i.ytimg.com/vi/Wp-WiNXH6hI/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGHIgUig6MA8=&rs=AOn4CLC9754v0ptHAcFHtUp2BwSRwDAavw",
         "title": "Carl Sagan testifying before Congress in 1985 on climate change",
@@ -78,9 +78,9 @@
         "status_code": 200,
         "tags": [
             "bezmenov",
-            "socialism",
             "neomarxism",
-            "propaganda"
+            "propaganda",
+            "socialism"
         ],
         "thumbnail": "https://i.ytimg.com/vi/pOmXiapfCs8/sddefault.jpg",
         "title": "KGB Defector Yuri Bezmenov 1985 Interview. Explains KGB Manipulation of US Public Opinion",
@@ -108,10 +108,10 @@
         "status_code": 200,
         "tags": [
             "all time",
-            "socialism",
-            "propaganda",
+            "bezmenov",
             "neomarxism",
-            "bezmenov"
+            "propaganda",
+            "socialism"
         ],
         "thumbnail": "https://i.ytimg.com/vi/EFW_i9NtP4I/maxresdefault.jpg",
         "title": "Yuri Bezmenov on the Useful Idiots (AKA the left)",

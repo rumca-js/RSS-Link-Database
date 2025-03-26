@@ -22,12 +22,12 @@
         "tags": [
             "big brother",
             "disinformation",
-            "social media",
+            "fact check",
             "fakenews",
             "government",
             "propaganda",
-            "fact check",
-            "psyop"
+            "psyop",
+            "social media"
         ],
         "thumbnail": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2011/3/17/1300366341951/General-David-Petraeus-008.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTEucG5n&enable=upscale&s=d3f3c68178909daef1905588b7061122",
         "title": "Revealed: US spy operation that manipulates social media",
@@ -55,8 +55,8 @@
         "status_code": 200,
         "tags": [
             "atrazine",
-            "pollution",
-            "depopulation"
+            "depopulation",
+            "pollution"
         ],
         "thumbnail": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg",
         "title": "Demasculinization and feminization of male gonads by atrazine: consistent effects across vertebrate classes - PubMed",
@@ -111,8 +111,8 @@
         "source_url": "https://www.theatlantic.com",
         "status_code": 200,
         "tags": [
-            "silvio berlusconi",
-            "bunga bunga"
+            "bunga bunga",
+            "silvio berlusconi"
         ],
         "thumbnail": null,
         "title": "The Berlusconi in Us All: Bunga Bunga's Real Meaning",
@@ -139,11 +139,11 @@
         "source_url": "https://www.huffpost.com",
         "status_code": 200,
         "tags": [
-            "elites",
-            "plutocracy",
             "billionaires",
             "corporatocracy",
-            "oligopoly"
+            "elites",
+            "oligopoly",
+            "plutocracy"
         ],
         "thumbnail": "https://img.huffingtonpost.com/asset/default-entry.jpg?ops=1200_630",
         "title": "The Myth of U.S. Democracy and the Reality of U.S. Corporatocracy",
@@ -198,9 +198,9 @@
         "source_url": "https://blog.codinghorror.com",
         "status_code": 200,
         "tags": [
+            "censorship",
             "moderation",
-            "shadowban",
-            "censorship"
+            "shadowban"
         ],
         "thumbnail": null,
         "title": "Suspension, Ban or Hellban?",
@@ -229,8 +229,8 @@
         "tags": [
             "billionaires",
             "bunga bunga",
-            "silvio berlusconi",
-            "politicians"
+            "politicians",
+            "silvio berlusconi"
         ],
         "thumbnail": "https://media.newyorker.com/photos/59094c9aebe912338a371c56/16:9/w_1280,c_limit/110606_r20958_g2048.jpg",
         "title": "Basta Bunga Bunga",
@@ -284,8 +284,8 @@
         "source_url": "https://wiadomosci.wp.pl",
         "status_code": 200,
         "tags": [
-            "silvio berlusconi",
-            "bunga bunga"
+            "bunga bunga",
+            "silvio berlusconi"
         ],
         "thumbnail": "https://v.wpimg.pl/NTEyLmpwYTUkGzpeXwxsIGdDbgQZVWJ2MFt2T19GfGR1AWMEXgA-ejUVYwxfEWE-NRwrQkJBfWZ2Vi4IAhs7JyYWIgQvFigkGkx9X14dPjEiWzE",
         "title": "Na czym polega\u0142 rytua\u0142 \"bunga-bunga\"?",
@@ -340,10 +340,10 @@
         "source_url": "https://www.bbc.com",
         "status_code": 200,
         "tags": [
-            "nigeria",
             "big pharma",
-            "vaccine",
-            "pfizer"
+            "nigeria",
+            "pfizer",
+            "vaccine"
         ],
         "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/media/images/54549000/jpg/_54549697_pfizer.jpg",
         "title": "Pfizer: Nigeria drug trial victims get compensation",
@@ -371,8 +371,8 @@
         "status_code": 200,
         "tags": [
             "big pharma",
-            "vaccine",
-            "pfizer"
+            "pfizer",
+            "vaccine"
         ],
         "thumbnail": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2011/8/11/1313088778127/Anas-Mustapha-one-of-the--007.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTEucG5n&enable=upscale&s=c58e9b3246ad381dea96105a438579ed",
         "title": "Pfizer pays out to Nigerian families of meningitis drug trial victims | Nigeria | The Guardian",
@@ -400,8 +400,8 @@
         "status_code": 200,
         "tags": [
             "anders breivik",
-            "religion",
-            "extremism"
+            "extremism",
+            "religion"
         ],
         "thumbnail": "https://www.splcenter.org/sites/default/files/splc-logo_twitter_instream.png",
         "title": "Christian Crusader | Southern Poverty Law Center",
@@ -457,10 +457,10 @@
         "source_url": "https://hnrss.org/frontpage",
         "status_code": 200,
         "tags": [
-            "privacy",
             "facebook",
-            "tracking",
-            "surveillance"
+            "privacy",
+            "surveillance",
+            "tracking"
         ],
         "thumbnail": "https://www.zdnet.com/a/img/resize/d53780e7ac9838f4fa5df8551258ef884fd3935c/2014/12/01/f5c9c04e-7921-11e4-b569-d4ae52e95e57/zd-defaultimage-blog.jpg?auto=webp&fit=crop&height=675&width=1200",
         "title": "Facebook denies cookie tracking allegations (2011)",
@@ -487,8 +487,8 @@
         "source_url": "https://www.reuters.com",
         "status_code": 200,
         "tags": [
-            "occupy wall street",
             "billionaires",
+            "occupy wall street",
             "protest"
         ],
         "thumbnail": "https://www.reuters.com/resizer/v2/https%3A%2F%2Farchive-images.prod.global.a201836.reutersmedia.net%2F2011%2F10%2F13%2FBTRE79C10GJ00.JPG?auth=9fa5497a91db47baad78d60c29b8ae7ddd9d9648c4f6ef2cb0df6db5ad107f7c&height=1005&width=1920&quality=80&smart=true",
@@ -516,8 +516,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFNm26OW87Dm3fZ1txX1vGA",
         "status_code": 200,
         "tags": [
-            "satanism",
-            "occult"
+            "occult",
+            "satanism"
         ],
         "thumbnail": "https://i.ytimg.com/vi/vRVQD4FKPrY/maxresdefault.jpg",
         "title": "\"You'll not only lose your mind, but you'll lose your soul\" | Christopher Lee on the occult",
@@ -544,8 +544,8 @@
         "source_url": "https://www.bbc.com",
         "status_code": 200,
         "tags": [
-            "occupy wall street",
             "billionaires",
+            "occupy wall street",
             "protest"
         ],
         "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/media/images/56820000/jpg/_56820181_composite464.jpg",
@@ -573,9 +573,9 @@
         "source_url": "http://www.leancrew.com",
         "status_code": 200,
         "tags": [
-            "shell",
             "programming",
-            "scripts"
+            "scripts",
+            "shell"
         ],
         "thumbnail": "https://leancrew.com/all-this/resources/snowman-background.jpg",
         "title": "More shell, less egg",
@@ -602,8 +602,8 @@
         "source_url": "https://www.computerworld.com",
         "status_code": 200,
         "tags": [
-            "windows",
-            "technofeudalism"
+            "technofeudalism",
+            "windows"
         ],
         "thumbnail": null,
         "title": "Microsoft: We can remotely delete Windows 8 apps | Computerworld",

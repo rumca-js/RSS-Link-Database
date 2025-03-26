@@ -20,12 +20,12 @@
         "source_url": "https://humansbefree.com",
         "status_code": 200,
         "tags": [
-            "social engineering",
-            "rockefeller",
-            "feminism",
             "aaron russo",
             "conspiracy theory",
-            "propaganda"
+            "feminism",
+            "propaganda",
+            "rockefeller",
+            "social engineering"
         ],
         "thumbnail": "https://humansbefree.com/wp-content/uploads/2016/01/feminist1.gif",
         "title": "Feminism: How the Rockefellers Re-Engineered Women and Why",
@@ -52,10 +52,10 @@
         "source_url": "https://www.ghacks.net",
         "status_code": 200,
         "tags": [
-            "telemetry",
             "microsoft",
-            "windows",
-            "privacy"
+            "privacy",
+            "telemetry",
+            "windows"
         ],
         "thumbnail": "https://www.ghacks.net/wp-content/uploads/2016/01/windows-10-privacy.jpg",
         "title": "Microsoft may be collecting more data than initially thought - gHacks Tech News",
@@ -82,10 +82,10 @@
         "source_url": "https://www.theguardian.com",
         "status_code": 200,
         "tags": [
+            "censorship",
             "manufacturing consent",
             "pakistan",
-            "youtube",
-            "censorship"
+            "youtube"
         ],
         "thumbnail": "https://i.guim.co.uk/img/media/b9efd78f6e317363059412ec631a65d783fa096d/0_305_4005_2404/master/4005.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTYucG5n&enable=upscale&s=a8bb515bb04745f43ad4d3f8dead0032",
         "title": "Pakistan's YouTube ban lifted",
@@ -112,11 +112,11 @@
         "source_url": "https://arstechnica.com",
         "status_code": 200,
         "tags": [
+            "big brother",
             "crypto wars",
             "encryption",
-            "big brother",
-            "surveillance",
-            "privacy"
+            "privacy",
+            "surveillance"
         ],
         "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2016/01/21604396535_426d3aff81_k-1152x648.jpg",
         "title": "Yet another bill seeks to weaken encryption-by-default on smartphones | Ars Technica",
@@ -171,9 +171,9 @@
         "source_url": "https://www.theguardian.com/rss",
         "status_code": 200,
         "tags": [
+            "edward snowden",
             "snowden files",
-            "surveillance",
-            "edward snowden"
+            "surveillance"
         ],
         "thumbnail": "https://i.guim.co.uk/img/media/fd990006ad26f32722d3588c59e419220e04fe2c/0_73_2048_1229/master/2048.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTYucG5n&enable=upscale&s=d2dc0eda282ff6f31fc9d67a64ea722a",
         "title": "Snowden files reveal US and UK spied on feeds from Israeli drones and jets",
@@ -200,8 +200,8 @@
         "source_url": "https://www.umweltbundesamt.de",
         "status_code": 200,
         "tags": [
-            "right to repair",
-            "climate change"
+            "climate change",
+            "right to repair"
         ],
         "thumbnail": "https://www.umweltbundesamt.de/sites/default/files/styles/fb-image/public/medien/2294/bilder/waschmaschinen_alswart_fotolia_69004929_m.jpg?itok=vEfRZ92m",
         "title": "Lifetime of electrical appliances becoming shorter and shorter",
@@ -228,8 +228,8 @@
         "source_url": "https://www.portalsamorzadowy.pl",
         "status_code": 200,
         "tags": [
-            "prawo i sprawiedliwo\u015b\u0107",
-            "poland"
+            "poland",
+            "prawo i sprawiedliwo\u015b\u0107"
         ],
         "thumbnail": "https://pliki2.portalsamorzadowy.pl/i/20/07/00/200700_r2_940.jpg",
         "title": "500 z\u0142 na dziecko: Ustawa 500+ wesz\u0142a w \u017cycie. Jest w Dzienniku Ustaw. Wyp\u0142aty rusz\u0105 w kwietniu",
@@ -256,11 +256,11 @@
         "source_url": "https://news.yahoo.com",
         "status_code": 200,
         "tags": [
-            "angela merkel",
-            "wikileaks",
-            "surveillance",
             "all time",
-            "big brother"
+            "angela merkel",
+            "big brother",
+            "surveillance",
+            "wikileaks"
         ],
         "thumbnail": null,
         "title": "US surveillance of Merkel wider than thought: WikiLeaks",
@@ -287,8 +287,8 @@
         "source_url": "https://www.theguardian.com",
         "status_code": 200,
         "tags": [
-            "privacy",
-            "biometric"
+            "biometric",
+            "privacy"
         ],
         "thumbnail": "https://i.guim.co.uk/img/media/d008ace9f447f50c6954851b26d9372700dda3f0/0_287_4104_2466/master/4104.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMtYWdlLTIwMTYucG5n&enable=upscale&s=0e609d5917b55e70643323911c483306",
         "title": "Can the government force you to unlock your own phone? | Jacob Reisberg | The Guardian",
@@ -372,8 +372,8 @@
         "status_code": 200,
         "tags": [
             "buffer overflow",
-            "programming",
             "hackers",
+            "programming",
             "vulnerability"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/1S0aBV-Waeo/maxresdefault.webp",
@@ -430,9 +430,9 @@
         "source_url": "https://www.aei.org",
         "status_code": 200,
         "tags": [
-            "usa",
             "central planning",
-            "socialism"
+            "socialism",
+            "usa"
         ],
         "thumbnail": "https://www.aei.org/wp-content/uploads/2016/03/foodlines.jpg",
         "title": "Why Socialism Always Fails",
@@ -459,12 +459,12 @@
         "source_url": "https://edition.cnn.com",
         "status_code": 200,
         "tags": [
-            "islam terror",
-            "extremism",
-            "terrorism",
-            "islam",
             "belgium",
-            "religion"
+            "extremism",
+            "islam",
+            "islam terror",
+            "religion",
+            "terrorism"
         ],
         "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/160324125112-brussels-security.jpg?q=x_4,y_179,h_1940,w_3448,c_crop/w_800",
         "title": "Why Belgium? 5 reasons terrorists hit heart of Europe | CNN",
@@ -491,8 +491,8 @@
         "source_url": "https://weather.com",
         "status_code": 200,
         "tags": [
-            "pollution",
-            "china"
+            "china",
+            "pollution"
         ],
         "thumbnail": "https://s.w-x.co/gettyimages-519199704.jpg",
         "title": "Photographer Captures Bee-less Dystopia in China (PHOTOS)",
@@ -519,10 +519,10 @@
         "source_url": "",
         "status_code": 200,
         "tags": [
-            "panama papers",
+            "billionaires",
             "elite",
             "inequality",
-            "billionaires"
+            "panama papers"
         ],
         "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/0A43/production/_89072620_iancameron_cut.jpg",
         "title": "Panama Papers: Cameron's father was Mossack Fonseca client",
@@ -549,10 +549,10 @@
         "source_url": "",
         "status_code": 200,
         "tags": [
-            "panama papers",
+            "billionaires",
             "elite",
             "inequality",
-            "billionaires"
+            "panama papers"
         ],
         "thumbnail": "https://i.guim.co.uk/img/media/eaaaf2ffdf286689b0532d1fcad6623558598770/0_0_2560_1536/master/2560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTYucG5n&enable=upscale&s=8b2f6f51d37ffd9bdb02ff15cc994317",
         "title": "Fund run by David Cameron\u2019s father avoided paying tax in Britain",
@@ -579,11 +579,11 @@
         "source_url": "www.rodaknet.com",
         "status_code": 200,
         "tags": [
-            "coudenhove-kalergi",
-            "the right wing",
-            "immigration",
             "conspiracy theory",
-            "depopulation"
+            "coudenhove-kalergi",
+            "depopulation",
+            "immigration",
+            "the right wing"
         ],
         "thumbnail": null,
         "title": "Plan Coudenhove-Kalergi - ludob\u00f3jstwo narod\u00f3w Europy",
@@ -610,10 +610,10 @@
         "source_url": "",
         "status_code": 200,
         "tags": [
-            "hypocris",
+            "billionaires",
             "elite",
-            "inequality",
-            "billionaires"
+            "hypocris",
+            "inequality"
         ],
         "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/7F18/production/_89063523_panama_index_draft2.jpg",
         "title": "Panama Papers Q&A: What is the scandal about?",
@@ -640,11 +640,11 @@
         "source_url": "https://www.dailydot.com",
         "status_code": 200,
         "tags": [
+            "big brother",
             "crypto wars",
             "encryption",
-            "big brother",
-            "surveillance",
-            "privacy"
+            "privacy",
+            "surveillance"
         ],
         "thumbnail": "https://uploads.dailydot.com/4a1/4e/414448203a18199512f32d6fa4b3ddc0.jpg?auto=compress&fm=pjpg",
         "title": "Senate bill effectively bans strong encryption - The Daily Dot",
@@ -671,8 +671,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCln0gnoHmFVq6REE54IOm4Q",
         "status_code": 200,
         "tags": [
-            "music",
-            "chiptune"
+            "chiptune",
+            "music"
         ],
         "thumbnail": "https://i.ytimg.com/vi/CUZZ4O66CW8/maxresdefault.jpg",
         "title": "Commodore Amiga -=music tribute=-",
@@ -700,11 +700,11 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCctjGdm2NlMNzIlxz02IsXA",
         "status_code": 200,
         "tags": [
+            "anonymity",
             "censorship",
-            "tracking",
-            "privacy",
             "free speech",
-            "anonymity"
+            "privacy",
+            "tracking"
         ],
         "thumbnail": "https://i.ytimg.com/vi/6SARo5HtjkQ/sddefault.jpg",
         "title": "Social Autopsy! - Ending Anonymity Online [BAD IDEA]",
@@ -731,8 +731,8 @@
         "source_url": "https://tvovermind.com",
         "status_code": 200,
         "tags": [
-            "the left wing",
-            "go woke go broke"
+            "go woke go broke",
+            "the left wing"
         ],
         "thumbnail": "https://tvovermind.com/wp-content/uploads/2016/08/ghostbusters-full-new-img.jpg",
         "title": "Why The Female-Led Ghostbusters Reboot Failed At The Box Office",
@@ -759,10 +759,10 @@
         "source_url": "",
         "status_code": 200,
         "tags": [
-            "brrd",
-            "savings",
             "banksters",
-            "manufacturing consent"
+            "brrd",
+            "manufacturing consent",
+            "savings"
         ],
         "thumbnail": "https://v.wpimg.pl/MzA4Mi5qYhsgVjtaGgpvDmMObwBcU2FYNBZ3SxpAf0pxTH1GWB4jHzgaOhlWFSNUMVhiABoZYkNxGyIbTBZ-TXIEdVsbGz0dY0k",
         "title": "W tej sprawie rz\u0105d i opozycja m\u00f3wi\u0105 jednym g\u0142osem. Czy dyrektywa BRRD pozwoli bankom zabiera\u0107 oszcz\u0119dno\u015bci klient\u00f3w?",
@@ -818,8 +818,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVaWPGAQtNEWQEvb7d5jQrw",
         "status_code": 200,
         "tags": [
-            "music",
-            "chiptune"
+            "chiptune",
+            "music"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/k0bQuzp9Iss/maxresdefault.webp",
         "title": "\u25ba Best of 8-bit Electro Gaming Mix September 2015 \u25c4 ~(\uffe3\u25bd\uffe3)~ | Xefox Music",
@@ -874,8 +874,8 @@
         "source_url": "https://www.theregister.com",
         "status_code": 200,
         "tags": [
-            "windows",
-            "technofeudalism"
+            "technofeudalism",
+            "windows"
         ],
         "thumbnail": null,
         "title": "'Windows 10 nagware: You can't click X. Make a date OR ELSE' \u2022 The Register",
@@ -902,9 +902,9 @@
         "source_url": "https://www.amnesty.org",
         "status_code": 200,
         "tags": [
-            "smartphone",
             "hardware",
-            "slave labour"
+            "slave labour",
+            "smartphone"
         ],
         "thumbnail": "https://www.amnesty.org/en/wp-content/uploads/2021/05/228094_drc_artisanal_cobalt_mining_-2.jpg",
         "title": "Is my phone powered by child labour? - Amnesty International",
@@ -960,12 +960,12 @@
         "source_url": "https://www.theglobeandmail.com",
         "status_code": 200,
         "tags": [
+            "algorithms",
+            "big tech",
+            "dead internet",
             "manufacturing consent",
             "media bias",
-            "algorithms",
-            "search engines",
-            "big tech",
-            "dead internet"
+            "search engines"
         ],
         "thumbnail": "https://www.theglobeandmail.com/resizer/v2/NWDJYPTN7FDOTES5QJXOY2CPPE?auth=35898d16b4b2a43ec1ad791cc8cf0e3abc05dd26345f209591d0f07a0aef0a5b&width=1200&height=800&quality=80&smart=true",
         "title": "Google accused of \u2018biased\u2019 search results favouring Clinton - The Globe and Mail",
@@ -992,9 +992,9 @@
         "source_url": "https://www.fsf.org",
         "status_code": 200,
         "tags": [
-            "tracking",
+            "intel management engine",
             "surveillance",
-            "intel management engine"
+            "tracking"
         ],
         "thumbnail": null,
         "title": "Intel & ME, and why we should get rid of ME \u2014 Free Software Foundation \u2014 Working together for free software",
@@ -1021,12 +1021,12 @@
         "source_url": "https://web.archive.org",
         "status_code": 200,
         "tags": [
-            "internet",
-            "encryption",
-            "crypto wars",
             "big brother",
-            "surveillance",
-            "privacy"
+            "crypto wars",
+            "encryption",
+            "internet",
+            "privacy",
+            "surveillance"
         ],
         "thumbnail": "https://web.archive.org/web/20160612190952im_/http://tr2.cbsistatic.com/hub/i/r/2015/03/23/b89f5298-9694-4b2d-bb9b-c0c9ead9e40e/thumbnail/770x578/63b12a180804262d75d27cb06856df8b/tr-encryption-lead3.jpg",
         "title": "The undercover war on your internet secrets: How online surveillance cracked our trust in the web - TechRepublic",
@@ -1081,9 +1081,9 @@
         "source_url": "https://boingboing.net",
         "status_code": 403,
         "tags": [
-            "tracking",
+            "intel management engine",
             "surveillance",
-            "intel management engine"
+            "tracking"
         ],
         "thumbnail": null,
         "title": "Intel x86s hide another CPU that can take over your machine (you can't audit it) | Boing Boing",
@@ -1139,8 +1139,8 @@
         "source_url": "https://www.weforum.org",
         "status_code": 200,
         "tags": [
-            "marxism",
             "capitalism",
+            "marxism",
             "world economic forum"
         ],
         "thumbnail": "https://assets.weforum.org/article/image/small_bJkra9EetTOz6sl1sfrLOg_F1EJX9eVhVuu80KEZz80.jpg",
@@ -1168,8 +1168,8 @@
         "source_url": "https://www.reuters.com/article/idUSKCN0ZH4LM",
         "status_code": 200,
         "tags": [
-            "church scandal",
-            "catholic"
+            "catholic",
+            "church scandal"
         ],
         "thumbnail": "https://www.reuters.com/resizer/v2/https%3A%2F%2Farchive-images.prod.global.a201836.reutersmedia.net%2F2016%2F07%2F01%2FLYNXNPEC602NA.JPG?auth=cb3898d87c616f8af01fdba477c8f4050b5bdd2810bdf6056d81b2ef2885014e&height=1005&width=1920&quality=80&smart=true",
         "title": "In memoirs, ex Pope Benedict says Vatican 'gay lobby' tried to wield power: report",
@@ -1197,8 +1197,8 @@
         "status_code": 600,
         "tags": [
             "conspiracy theory",
-            "spirited away",
-            "movies"
+            "movies",
+            "spirited away"
         ],
         "thumbnail": null,
         "title": "Spirited Away and The Prostitution Theory",
@@ -1225,8 +1225,8 @@
         "source_url": "https://www.dw.com/pl/papie%C5%BC-benedykt-xvi-w-watykanie-by%C5%82a-gejowska-sitwa/a-19374854",
         "status_code": 200,
         "tags": [
-            "church scandal",
-            "catholic"
+            "catholic",
+            "church scandal"
         ],
         "thumbnail": "https://static.dw.com/image/18821736_6.jpg",
         "title": "Papie\u017c Benedykt XVI: W Watykanie by\u0142a \u201egejowska sitwa\u201d \u2013 DW \u2013 03.07.2016",
@@ -1253,10 +1253,10 @@
         "source_url": "https://theintercept.com",
         "status_code": 200,
         "tags": [
-            "tony blair",
+            "downing street memo",
             "george bush",
             "iraq",
-            "downing street memo"
+            "tony blair"
         ],
         "thumbnail": "https://theintercept.com/wp-content/uploads/2016/07/blair.jpg?fit=2000%2C1000&w=1200&h=800",
         "title": "Chilcot Report: Tony Blair Told George W. Bush, \u201cIf We Win Quickly, Everyone Will Be Our Friend\u201d",
@@ -1311,9 +1311,9 @@
         "source_url": "https://www.fiercebiotech.com",
         "status_code": 403,
         "tags": [
+            "biometric",
             "chip",
-            "profusa",
-            "biometric"
+            "profusa"
         ],
         "thumbnail": null,
         "title": "Profusa awarded $7.5M DARPA grant to work on implantable biosensors | Fierce Biotech",
@@ -1340,8 +1340,8 @@
         "source_url": "https://www.lifezette.com",
         "status_code": 600,
         "tags": [
-            "equity",
             "diversity",
+            "equity",
             "inclusion",
             "propaganda"
         ],
@@ -1372,8 +1372,8 @@
         "tags": [
             "christianophobia",
             "france",
-            "islam",
             "immigration",
+            "islam",
             "religion"
         ],
         "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/FBF6/production/_90520546_mediaitem90520545.jpg",
@@ -1431,8 +1431,8 @@
         "tags": [
             "archive",
             "documentary",
-            "racism",
-            "history"
+            "history",
+            "racism"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/cCW58RCgqOQ/hqdefault.webp",
         "title": "Racism in America Small Town 1950s Case Study Documentary Film",
@@ -1459,9 +1459,9 @@
         "source_url": "https://youtube.fandom.com",
         "status_code": 200,
         "tags": [
-            "youtube",
+            "ad business",
             "adpocalypse",
-            "ad business"
+            "youtube"
         ],
         "thumbnail": "https://static.wikia.nocookie.net/youtube/images/e/e6/Site-logo.png/revision/latest?cb=20241012182051",
         "title": "YouTube Adpocalypse | Wikitubia | Fandom",
@@ -1488,8 +1488,8 @@
         "source_url": "https://www.washingtontimes.com",
         "status_code": 403,
         "tags": [
-            "manufacturing consent",
             "black lives matter",
+            "manufacturing consent",
             "politics"
         ],
         "thumbnail": "https://twt-thumbs.washtimes.com/media/image/2016/08/16/BlackLivesMatter_c0-395-5472-3587_s1200x700.jpg?469a9d336e4d9f906d1ce6fb97b652de2708cbd7",
@@ -1518,9 +1518,9 @@
         "status_code": 200,
         "tags": [
             "microsoft",
-            "windows",
+            "privacy",
             "technofeudalism",
-            "privacy"
+            "windows"
         ],
         "thumbnail": "https://www.eff.org/files/2016/08/16/og-windows10.gif",
         "title": "With Windows 10, Microsoft Blatantly Disregards User Choice and Privacy: A Deep Dive | Electronic Frontier Foundation",
@@ -1547,9 +1547,9 @@
         "source_url": "https://www.nytimes.com",
         "status_code": 403,
         "tags": [
-            "pollution",
             "climate change",
-            "co2"
+            "co2",
+            "pollution"
         ],
         "thumbnail": "https://static01.nyt.com/images/2016/08/18/world/18CHINA-web1/18CHINA-web1-facebookJumbo.jpg?year=2016&h=550&w=1050&s=d26429efa1e308d7780f7b656e4172edd1f7a6858bd214dde8dcbdf87d74b906&k=ZQJBKqZ0VN",
         "title": "Coal Burning Causes the Most Air Pollution Deaths in China, Study Finds",
@@ -1576,8 +1576,8 @@
         "source_url": "https://www.theguardian.com",
         "status_code": 200,
         "tags": [
-            "youtube",
-            "censorship"
+            "censorship",
+            "youtube"
         ],
         "thumbnail": "https://i.guim.co.uk/img/media/2b28ce7359f1b9cd5a99a70ee10a2db872bdf833/155_49_2212_1327/2212.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTYucG5n&enable=upscale&s=180dd71e6cb319a244162bdb69fbe931",
         "title": "French blogger claims YouTube tried to censor Juncker interview",
@@ -1604,8 +1604,8 @@
         "source_url": "https://kotaku.com",
         "status_code": 200,
         "tags": [
-            "games",
             "doom",
+            "games",
             "programming"
         ],
         "thumbnail": "https://i.kinja-img.com/image/upload/c_fill,h_200,q_80,w_200/v4sckews2f3bzf0ztbkf.png",
@@ -1633,9 +1633,9 @@
         "source_url": "https://www.naturalblaze.com",
         "status_code": 200,
         "tags": [
+            "bill gates",
             "rockefeller",
-            "who",
-            "bill gates"
+            "who"
         ],
         "thumbnail": "https://naturalblaze.com/wp-content/uploads/2016/09/WHO-Gates-Rockefeller-Vaccines.jpg",
         "title": "Gates, Rockefeller and WHO: Concealing the Charade of Polio Eradication",
@@ -1662,9 +1662,9 @@
         "source_url": "teamquest.pl",
         "status_code": 200,
         "tags": [
-            "privacy",
+            "chrome",
             "google",
-            "chrome"
+            "privacy"
         ],
         "thumbnail": "https://teamquest.pl/img/static/blog/2019-01-23_11_15_36-chrome_browser_for_your_business_-_youtube.jpg",
         "title": "Chrome ignoruje ustawienia prywatno\u015bci",
@@ -1720,8 +1720,8 @@
         "tags": [
             "israel",
             "pegasus",
-            "surveillance",
-            "spyware"
+            "spyware",
+            "surveillance"
         ],
         "thumbnail": null,
         "title": "Pegasus (spyware) - Wikipedia",
@@ -1748,8 +1748,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCspbA9TD8emEsqzN0LaQeYA",
         "status_code": 200,
         "tags": [
-            "movies",
-            "clockwork orange"
+            "clockwork orange",
+            "movies"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/ZvK9PEcqiLo/maxresdefault.webp",
         "title": "A Clockwork Orange - What it all Meant",
@@ -1777,8 +1777,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
         "status_code": 200,
         "tags": [
-            "programming",
-            "c++"
+            "c++",
+            "programming"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/zBkNBP00wJE/maxresdefault.webp",
         "title": "CppCon 2016: Jason Turner \u201cRich Code for Tiny Computers: A Simple Commodore 64 Game in C++17\u201d",
@@ -1862,9 +1862,9 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEA0LA7k6hwZM-xocspYQjQ",
         "status_code": 200,
         "tags": [
+            "racism",
             "social democracy",
-            "the left wing",
-            "racism"
+            "the left wing"
         ],
         "thumbnail": "https://i.ytimg.com/vi/CIvtiNpKEY0/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AG-BoAC1AOKAgwIABABGGUgSyhYMA8=&rs=AOn4CLB9jM8kz5EGlPbhxtaYvLElbH1mNw",
         "title": "Elon Musk Explains Why SpaceX Only Hires Americans | Inverse",
@@ -1891,9 +1891,9 @@
         "source_url": "https://www.institutionalinvestor.com",
         "status_code": 200,
         "tags": [
+            "blackrock",
             "esg",
-            "larry fink",
-            "blackrock"
+            "larry fink"
         ],
         "thumbnail": "https://cdn.assetmg.info/dims4/default/b087e56/2147483647/strip/true/crop/460x259+0+1/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-in-investor-prod.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2e%2F33%2Fc00f99826cc2f1a6fa8de9014f9d%2F2016-10-jess-delaney-larry-fink-large.jpg",
         "title": "BlackRock CEO Larry Fink Champions Long-Term Value Creation",
@@ -1920,11 +1920,11 @@
         "source_url": "https://www.theguardian.com",
         "status_code": 200,
         "tags": [
-            "technofeudalism",
-            "google",
-            "surveillance",
             "ad business",
-            "privacy"
+            "google",
+            "privacy",
+            "surveillance",
+            "technofeudalism"
         ],
         "thumbnail": "https://i.guim.co.uk/img/media/709b22bbe9f61f4e7b70f8097406227a6163def8/0_108_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTYucG5n&enable=upscale&s=5cc7793456da01c7b216f5d155fd94ad",
         "title": "Google\u2019s ad tracking is as creepy as Facebook's. Here\u2019s how to disable it",
@@ -2006,11 +2006,11 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFJNcE0iHj7P6dhp5iCZRLg",
         "status_code": 200,
         "tags": [
+            "anonymity",
             "censorship",
-            "tracking",
-            "privacy",
             "free speech",
-            "anonymity"
+            "privacy",
+            "tracking"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/YrIKY8Ot97o/maxresdefault.webp",
         "title": "Anonymity: The Greatest Weapon Against Oppression - Learn Liberty",
@@ -2037,10 +2037,10 @@
         "source_url": "https://www.buzzfeednews.com",
         "status_code": 406,
         "tags": [
-            "social engineering",
-            "social media",
             "donald trump",
-            "fakenews"
+            "fakenews",
+            "social engineering",
+            "social media"
         ],
         "thumbnail": "https://img.buzzfeed.com/buzzfeed-static/static/2016-11/5/10/campaign_images/buzzfeed-prod-web07/how-teens-in-the-balkans-are-duping-trump-support-2-27866-1478355933-0_dblbig.jpg",
         "title": "How Teens In The Balkans Are Duping Trump Supporters With Fake News",
@@ -2067,13 +2067,13 @@
         "source_url": "https://www.rutherford.org",
         "status_code": 200,
         "tags": [
-            "disinformation",
             "all time",
             "big brother",
-            "misinformation",
+            "disinformation",
             "fact check",
             "fakenews",
-            "government"
+            "government",
+            "misinformation"
         ],
         "thumbnail": "https://rutherford.org/files_images/general/Rutherford_SocialMedia_Logo.jpg",
         "title": "When It Comes to Fake News, the U.S. Government Is the Biggest Culprit",
@@ -2101,10 +2101,10 @@
         "status_code": 200,
         "tags": [
             "microsoft",
-            "windows",
             "privacy",
+            "surveillance",
             "telemetry",
-            "surveillance"
+            "windows"
         ],
         "thumbnail": "https://betanews.com/wp-content/uploads/2016/11/Eye-spy-50x50.jpg",
         "title": "Microsoft shares Windows 10 telemetry data with third parties [Updated]",
@@ -2131,11 +2131,11 @@
         "source_url": "https://www.independent.co.uk",
         "status_code": 200,
         "tags": [
-            "donald trump",
             "corporatocracy",
+            "donald trump",
+            "manufacturing consent",
             "reddit",
-            "technofeudalism",
-            "manufacturing consent"
+            "technofeudalism"
         ],
         "thumbnail": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/06/15/15/redditcar.jpg?quality=75&width=1200&auto=webp",
         "title": "Reddit CEO admits he edited Trump supporters' comments on social network | The Independent | The Independent",
@@ -2190,11 +2190,11 @@
         "source_url": "https://www.weforum.org",
         "status_code": 200,
         "tags": [
-            "world economic forum",
+            "climate change",
             "corporatocracy",
             "electric vehicles",
             "technofeudalism",
-            "climate change"
+            "world economic forum"
         ],
         "thumbnail": "https://assets.weforum.org/editor/bON3qDjLwNjPQRZfDfgubaRJnyLtAW5naJkm4AVQDPg.png",
         "title": "Goodbye car ownership, hello clean air: welcome to the future of transport | World Economic Forum",
@@ -2221,9 +2221,9 @@
         "source_url": "https://www.nytimes.com",
         "status_code": 200,
         "tags": [
+            "conspiracy theory",
             "paedophilia",
-            "pizzagate",
-            "conspiracy theory"
+            "pizzagate"
         ],
         "thumbnail": "https://static01.nyt.com/images/2016/12/09/us/pizzagate-copy/pizzagate-copy-facebookJumbo-v5.png?year=2016&h=550&w=1050&s=60f3c8ad61d07915bbd32ba8eeea7d3d77b2f26e2904542f2bd0b4404043ef19&k=ZQJBKqZ0VN",
         "title": "Dissecting the #PizzaGate Conspiracy Theories",
@@ -2250,9 +2250,9 @@
         "source_url": "https://culture.pl",
         "status_code": 200,
         "tags": [
-            "secret societies",
             "bilderberg meeting",
-            "j\u00f3zef retinger"
+            "j\u00f3zef retinger",
+            "secret societies"
         ],
         "thumbnail": "https://api.culture.pl/sites/default/files/styles/1200_630/public/field/image/436dc8bdd42a1d1a49e3a09d5fa3a1fb.jpeg?itok=7qENS5Hc",
         "title": "The Most Mysterious Man in 20th-Century Politics | Article | Culture.pl",
@@ -2280,11 +2280,11 @@
         "status_code": 200,
         "tags": [
             "billionaires",
-            "george soros",
-            "facebook",
             "elites",
+            "facebook",
             "fact check",
-            "fakenews"
+            "fakenews",
+            "george soros"
         ],
         "thumbnail": "https://i.dailymail.co.uk/i/pix/2016/12/16/19/3B736EEF00000578-0-image-a-49_1481916789116.jpg",
         "title": "Clinton mega donor George Soros leads line-up of liberal billionaires who are funding Facebook's fake news fact checker",
@@ -2311,10 +2311,10 @@
         "source_url": "https://www.theguardian.com",
         "status_code": 200,
         "tags": [
-            "search engines",
+            "algorithms",
             "psyop",
-            "social engineering",
-            "algorithms"
+            "search engines",
+            "social engineering"
         ],
         "thumbnail": "https://i.guim.co.uk/img/media/96be9c2582c9506757060976779daa55fb75183e/131_0_5053_3032/master/5053.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTYucG5n&enable=upscale&s=e3a57e40eb13197ad68d61e9f85d60af",
         "title": "How Google's search algorithm spreads false information with a rightwing bias | Google | The Guardian",
@@ -2341,8 +2341,8 @@
         "source_url": "www.techexplorist.com",
         "status_code": 200,
         "tags": [
-            "social media",
-            "digital dementia"
+            "digital dementia",
+            "social media"
         ],
         "thumbnail": "https://www.techexplorist.com/wp-content/uploads/2016/12/social-media-frustration.jpg",
         "title": "Using Lots of Social Media Accounts Causes Anxiety",

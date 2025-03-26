@@ -1,7 +1,7 @@
  ## NSA Backdoors in Crypto AG Ciphering Machines - Schneier on Security
  - [https://www.schneier.com/blog/archives/2008/01/nsa_backdoors_i.html](https://www.schneier.com/blog/archives/2008/01/nsa_backdoors_i.html)
  - date_published: 2008-01-11T08:36:04+00:00
- - tags: ['nsa', 'espionage', 'backdoor', 'cryptography']
+ - tags: ['backdoor', 'cryptography', 'espionage', 'nsa']
 
  ## Fallout - The Tribute
  - [https://www.youtube.com/watch?v=CV3idhsGatQ](https://www.youtube.com/watch?v=CV3idhsGatQ)
@@ -11,7 +11,7 @@
  ## What Puma and Adidas Have to Do With the Nazis
  - [https://www.thecut.com/2008/03/what_puma_and_adidas_have_to_d_1.html](https://www.thecut.com/2008/03/what_puma_and_adidas_have_to_d_1.html)
  - date_published: 2008-03-28T19:21:17+00:00
- - tags: ['germany', 'holocaust', 'adidas', 'puma']
+ - tags: ['adidas', 'germany', 'holocaust', 'puma']
 
  ## iPhone Doomed to Failure (2008)
  - [https://www.networkworld.com/article/2350353/apple-iphone-doomed-to-failure----windows-mobile-7-plans-for-2009-leaked.html](https://www.networkworld.com/article/2350353/apple-iphone-doomed-to-failure----windows-mobile-7-plans-for-2009-leaked.html)
@@ -21,7 +21,7 @@
  ## Is Google Making Us Stupid? - The Atlantic
  - [https://www.theatlantic.com/magazine/archive/2008/07/is-google-making-us-stupid/306868](https://www.theatlantic.com/magazine/archive/2008/07/is-google-making-us-stupid/306868)
  - date_published: 2008-07-20T11:33:08+00:00
- - tags: ['google', 'digital dementia', 'future', 'psychology']
+ - tags: ['digital dementia', 'future', 'google', 'psychology']
 
  ## Overdue Account
  - [https://27bslash6.com/overdue.html](https://27bslash6.com/overdue.html)
@@ -31,7 +31,7 @@
  ## Why societies collapse | Jared Diamond
  - [https://www.youtube.com/watch?v=IESYMFtLIis](https://www.youtube.com/watch?v=IESYMFtLIis)
  - date_published: 2008-10-28T00:00:00+00:00
- - tags: ['sociology', 'crisis', 'lecture', 'ted', 'climate change', 'society', 'environment']
+ - tags: ['climate change', 'crisis', 'environment', 'lecture', 'society', 'sociology', 'ted']
 
  ## Man tries to pay overdue bill with spider drawing
  - [https://www.telegraph.co.uk/news/newstopics/howaboutthat/3492411/Man-tries-to-pay-overdue-bill-with-spider-drawing.html](https://www.telegraph.co.uk/news/newstopics/howaboutthat/3492411/Man-tries-to-pay-overdue-bill-with-spider-drawing.html)

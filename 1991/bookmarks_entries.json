@@ -20,8 +20,8 @@
         "source_url": "https://pl.wikipedia.org",
         "status_code": 200,
         "tags": [
-            "najwy\u017csza izba kontroli",
-            "micha\u0142 falzmann"
+            "micha\u0142 falzmann",
+            "najwy\u017csza izba kontroli"
         ],
         "thumbnail": null,
         "title": "Micha\u0142 Falzmann \u2013 Wikipedia, wolna encyklopedia",
@@ -48,11 +48,11 @@
         "source_url": "https://www.timesofisrael.com",
         "status_code": 200,
         "tags": [
+            "ghislaine maxwell",
             "israel",
-            "mossad",
             "jeffrey epstein",
-            "robert maxwell",
-            "ghislaine maxwell"
+            "mossad",
+            "robert maxwell"
         ],
         "thumbnail": "https://static-cdn.toi-media.com/www/uploads/2019/07/AP19190725699911-1-e1562867752948.jpg",
         "title": "For writer who broke Epstein case, a rumored Mossad link is worth digging into | The Times of Israel",

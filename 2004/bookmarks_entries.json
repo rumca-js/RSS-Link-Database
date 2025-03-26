@@ -21,9 +21,9 @@
         "status_code": 200,
         "tags": [
             "darpa",
+            "lifelog",
             "privacy",
-            "surveillance",
-            "lifelog"
+            "surveillance"
         ],
         "thumbnail": "",
         "title": "Pentagon Kills LifeLog Project",
@@ -135,8 +135,8 @@
         "status_code": 200,
         "tags": [
             "billionaires",
-            "george soros",
-            "elite"
+            "elite",
+            "george soros"
         ],
         "thumbnail": "https://ca-times.brightspotcdn.com/dims4/default/64e287b/2147483647/strip/true/crop/2400x1260+0+0/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fdf%2F45%2F57d858144a2a88575fa2b03080bb%2Flatlogo-ss.jpg",
         "title": "George Soros: The 'God' Who Carries Around Some Dangerous Demons - Los Angeles Times",
@@ -163,9 +163,9 @@
         "source_url": "https://www.theregister.com",
         "status_code": 200,
         "tags": [
-            "manufacturing consent",
+            "dark design",
             "european union",
-            "dark design"
+            "manufacturing consent"
         ],
         "thumbnail": null,
         "title": "EU fish ministers to vote on software patents",
@@ -193,9 +193,9 @@
         "status_code": 200,
         "tags": [
             "anthony fauci",
-            "vaccine",
             "covid",
-            "flu"
+            "flu",
+            "vaccine"
         ],
         "thumbnail": null,
         "title": "Fauci, in 2004: the most potent vaccination is getting infected yourself",

@@ -77,9 +77,9 @@
         "status_code": 200,
         "tags": [
             "darpa",
+            "lifelog",
             "privacy",
-            "surveillance",
-            "lifelog"
+            "surveillance"
         ],
         "thumbnail": "",
         "title": "A Spy Machine of DARPA's Dreams",
@@ -134,8 +134,8 @@
         "source_url": "",
         "status_code": 200,
         "tags": [
-            "israel",
-            "911"
+            "911",
+            "israel"
         ],
         "thumbnail": "https://www.heraldscotland.com'/resources/images/sitelogo?type=og-image",
         "title": "Five Israelis were seen filming as jet liners ploughed into the Twin Towers on September 11, 2001 ...",

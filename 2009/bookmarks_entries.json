@@ -50,8 +50,8 @@
         "status_code": 200,
         "tags": [
             "mexico",
-            "swine flu",
-            "pandemic"
+            "pandemic",
+            "swine flu"
         ],
         "thumbnail": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
         "title": "First Mexico fatal flu victim sought help for days | Reuters",
@@ -79,8 +79,8 @@
         "status_code": 200,
         "tags": [
             "lgbt",
-            "the left wing",
-            "paedophilia"
+            "paedophilia",
+            "the left wing"
         ],
         "thumbnail": "https://assets.guim.co.uk/images/eada8aa27c12fe2d5afa3a89d3fbae0d/fallback-logo.png",
         "title": "Scottish paedophile ring found guilty of more than 50 charges",
@@ -134,9 +134,9 @@
         "source_url": "https://www.theguardian.com",
         "status_code": 200,
         "tags": [
+            "pandemic",
             "swine flu",
-            "who",
-            "pandemic"
+            "who"
         ],
         "thumbnail": "https://assets.guim.co.uk/images/eada8aa27c12fe2d5afa3a89d3fbae0d/fallback-logo.png",
         "title": "WHO declares swine flu pandemic | Swine flu | The Guardian",
@@ -163,8 +163,8 @@
         "source_url": "https://www.theguardian.com",
         "status_code": 200,
         "tags": [
-            "swine flu",
-            "fearmongering"
+            "fearmongering",
+            "swine flu"
         ],
         "thumbnail": "https://assets.guim.co.uk/images/eada8aa27c12fe2d5afa3a89d3fbae0d/fallback-logo.png",
         "title": "Teenager is fourth person in UK to die from swine flu | Swine flu | The Guardian",
@@ -191,8 +191,8 @@
         "source_url": "https://www.dailymail.co.uk",
         "status_code": 200,
         "tags": [
-            "swine flu",
-            "fearmongering"
+            "fearmongering",
+            "swine flu"
         ],
         "thumbnail": "",
         "title": "Swine flu could kill 40 Britons a day by end of summer, says chief medical officer | Daily Mail Online",
@@ -247,8 +247,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXlPjUoeRVI80liZv37vQSw",
         "status_code": 200,
         "tags": [
-            "music",
-            "chiptune"
+            "chiptune",
+            "music"
         ],
         "thumbnail": "https://i.ytimg.com/vi/4qsWFFuYZYI/maxresdefault.jpg",
         "title": "LEGO - 8-bit trip",
@@ -332,9 +332,9 @@
         "source_url": "https://hnrss.org/frontpage",
         "status_code": 200,
         "tags": [
+            "gordon moore",
             "hardware",
-            "integrated circuits",
-            "gordon moore"
+            "integrated circuits"
         ],
         "thumbnail": null,
         "title": "Cramming More Components onto Integrated Circuits (Gordon Moore, 1965) [pdf]",
@@ -388,8 +388,8 @@
         "source_url": "https://wydarzenia.interia.pl",
         "status_code": 200,
         "tags": [
-            "swine flu",
-            "h1n1"
+            "h1n1",
+            "swine flu"
         ],
         "thumbnail": "https://i.iplsc.com/-/00021W65EG48THX8-C461-F4.jpg",
         "title": "Skandal w Niemczech. Inne szczepionki dla rz\u0105du - Wydarzenia w INTERIA.PL",
@@ -416,8 +416,8 @@
         "source_url": "http://www.gotw.ca",
         "status_code": 200,
         "tags": [
-            "programming",
-            "c++"
+            "c++",
+            "programming"
         ],
         "thumbnail": null,
         "title": "C++ Coding Standards - Book Home Page",
@@ -444,8 +444,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZKaONphUeqGTBjlsqYfP1A",
         "status_code": 200,
         "tags": [
-            "vaccine",
-            "swine flu"
+            "swine flu",
+            "vaccine"
         ],
         "thumbnail": "https://i.ytimg.com/vi/yn3ElOkqND0/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHeA4AC3gKKAgwIABABGHIgTig9MA8=&rs=AOn4CLAt5qxPX7B7fy7XKmxyuGoPMOrZpw",
         "title": "Ewa Kopacz accused of being anti NEW WORLD ORDER because she is concerned about the H1N1 vaccination",

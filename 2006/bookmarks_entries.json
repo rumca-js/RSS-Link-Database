@@ -22,9 +22,9 @@
         "tags": [
             "disinformation",
             "iraq",
-            "usa",
             "propaganda",
-            "psyop"
+            "psyop",
+            "usa"
         ],
         "thumbnail": "https://www.democracynow.org/images/story/20/2320/splash/Lincoln3-24.jpg",
         "title": "The PsyOps War: A Look at the Lincoln Group and the U.S. Military\u2019s Planting of Stories in the Iraqi Press",
@@ -51,8 +51,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBJw2KLEANqSrvyMimX-2cg",
         "status_code": 500,
         "tags": [
-            "music",
-            "chiptune"
+            "chiptune",
+            "music"
         ],
         "thumbnail": "https://i.ytimg.com/vi/PiYuq6Ac3a0/hqdefault.jpg",
         "title": "Cannon Fodder Amiga game intro",
@@ -80,9 +80,9 @@
         "source_url": "https://hnrss.org/frontpage",
         "status_code": 200,
         "tags": [
-            "fbi",
-            "espionage",
             "big brother",
+            "espionage",
+            "fbi",
             "surveillance"
         ],
         "thumbnail": "https://www.cnet.com/a/neutron/images/logos/cnet.png",
@@ -138,10 +138,10 @@
         "source_url": "https://yarchive.net",
         "status_code": 200,
         "tags": [
+            "acpi",
             "hardware",
             "intel",
-            "linus torvalds",
-            "acpi"
+            "linus torvalds"
         ],
         "thumbnail": null,
         "title": "ACPI (Linus Torvalds)",
@@ -168,8 +168,8 @@
         "source_url": "https://nsarchive.gwu.edu",
         "status_code": 200,
         "tags": [
-            "white supremacy",
-            "racism"
+            "racism",
+            "white supremacy"
         ],
         "thumbnail": null,
         "title": "White Supremacist Infiltration of Law Enforcement",
@@ -197,9 +197,9 @@
         "source_url": "https://hnrss.org/frontpage",
         "status_code": 200,
         "tags": [
-            "news",
+            "aaron swartz",
             "legacy media",
-            "aaron swartz"
+            "news"
         ],
         "thumbnail": null,
         "title": "I Hate the News",
@@ -226,9 +226,9 @@
         "source_url": "",
         "status_code": 200,
         "tags": [
+            "billionaires",
             "education",
             "elite",
-            "billionaires",
             "george carlin"
         ],
         "thumbnail": "https://i.ytimg.com/vi/Nyvxt1svxso/maxresdefault.jpg",
@@ -257,8 +257,8 @@
         "status_code": 200,
         "tags": [
             "linux",
-            "monopoly",
-            "microsoft"
+            "microsoft",
+            "monopoly"
         ],
         "thumbnail": null,
         "title": "Microsoft makes claim on Linux code",
@@ -287,10 +287,10 @@
         "tags": [
             "big brother",
             "disinformation",
-            "iraq",
+            "fact check",
             "government",
-            "propaganda",
-            "fact check"
+            "iraq",
+            "propaganda"
         ],
         "thumbnail": "",
         "title": "How the spooks took over the news",

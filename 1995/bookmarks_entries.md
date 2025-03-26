@@ -6,7 +6,7 @@
  ## Jeffrey Epstein Visited Clinton White House Multiple Times in Early ’90s
  - [https://www.thedailybeast.com/jeffrey-epstein-visited-clinton-white-house-multiple-times-in-early-90s](https://www.thedailybeast.com/jeffrey-epstein-visited-clinton-white-house-multiple-times-in-early-90s)
  - date_published: 1995-07-28T11:50:36+00:00
- - tags: ['jeffrey epstein', 'bill clinton']
+ - tags: ['bill clinton', 'jeffrey epstein']
 
  ## Text of Unabomber Manifesto
  - [https://archive.nytimes.com/www.nytimes.com/library/national/unabom-manifesto-1.html](https://archive.nytimes.com/www.nytimes.com/library/national/unabom-manifesto-1.html)

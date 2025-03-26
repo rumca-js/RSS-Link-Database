@@ -20,8 +20,8 @@
         "source_url": "https://www.reuters.com",
         "status_code": 200,
         "tags": [
-            "immigration",
-            "germany"
+            "germany",
+            "immigration"
         ],
         "thumbnail": "https://www.reuters.com/resizer/v2/https%3A%2F%2Farchive-images.prod.global.a201836.reutersmedia.net%2F2018%2F01%2F03%2FLYNXMPEE020TK.JPG?auth=a5d149964d3b0e73c4c9a49b9eee476b53afe26efee3b7253428b1935ee26834&height=1005&width=1920&quality=80&smart=true",
         "title": "Violent crime rises in Germany and is attributed to refugees | Reuters",
@@ -49,10 +49,10 @@
         "source_url": "https://www.theguardian.com/rss",
         "status_code": 200,
         "tags": [
-            "spectre",
-            "vulnerability",
+            "intel",
             "meltdown",
-            "intel"
+            "spectre",
+            "vulnerability"
         ],
         "thumbnail": "https://i.guim.co.uk/img/media/83e0a21e2648f720ebf2cb7f17bff9856968909a/0_169_5078_3047/master/5078.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTgucG5n&enable=upscale&s=ba7dc82db00cbb92209377149c84edd6",
         "title": "Meltdown and Spectre: \u2018worst ever\u2019 CPU bugs affect virtually all computers",
@@ -107,8 +107,8 @@
         "source_url": "https://thephd.dev",
         "status_code": 200,
         "tags": [
-            "programming",
-            "ansic"
+            "ansic",
+            "programming"
         ],
         "thumbnail": "https://thephd.dev/assets/img/2020-08-09/pexels-artyom-kulakov.jpg",
         "title": "Why the C Language Will Never Stop You from Making Mistakes",
@@ -135,9 +135,9 @@
         "source_url": "https://www.fsf.org",
         "status_code": 200,
         "tags": [
-            "tracking",
+            "intel management engine",
             "surveillance",
-            "intel management engine"
+            "tracking"
         ],
         "thumbnail": null,
         "title": "The Intel Management Engine: an attack on computer users' freedom \u2014 Free Software Foundation \u2014 Working together for free software",
@@ -164,8 +164,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCerMB0mEB6rFywnPVLUWONA",
         "status_code": 200,
         "tags": [
-            "prometheus",
-            "movies"
+            "movies",
+            "prometheus"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/3ONSFeRy9iQ/maxresdefault.webp",
         "title": "Prometheus Script Reveals TRUTH about Engineers, Black Goo and Deacon",
@@ -193,8 +193,8 @@
         "source_url": "https://www.theguardian.com/rss",
         "status_code": 200,
         "tags": [
-            "tencent",
-            "china"
+            "china",
+            "tencent"
         ],
         "thumbnail": "https://i.guim.co.uk/img/media/858b28b7d7fe5f3ae8a765adba0e0bb377f67103/0_25_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTgucG5n&enable=upscale&s=42c58ea4833977f3741ca701f5705ae5",
         "title": "Tencent, the $500bn Chinese tech firm you may never have heard of",
@@ -221,10 +221,10 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTrQ7HXWRRxr7OsOtodr2_w",
         "status_code": 200,
         "tags": [
-            "jordan peterson",
             "cathy newman",
+            "feminism",
             "inequality",
-            "feminism"
+            "jordan peterson"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/aMcjxSThD54/maxresdefault.webp",
         "title": "Jordan Peterson debate on the gender pay gap, campus protests and postmodernism",
@@ -278,12 +278,12 @@
         "source_url": "www.csoonline.com",
         "status_code": 600,
         "tags": [
-            "surveillance",
-            "privacy",
             "android",
+            "espionage",
             "google",
+            "privacy",
             "skygofree",
-            "espionage"
+            "surveillance"
         ],
         "thumbnail": null,
         "title": "Skygofree: Powerful Android spyware with advanced surveillance tools",
@@ -310,9 +310,9 @@
         "source_url": "https://theconversation.com",
         "status_code": 200,
         "tags": [
-            "tencent",
+            "china",
             "corporatocracy",
-            "china"
+            "tencent"
         ],
         "thumbnail": "https://images.theconversation.com/files/202419/original/file-20180118-158541-141pfeo.jpg?ixlib=rb-4.1.0&q=45&auto=format&w=1356&h=668&fit=crop",
         "title": "How Tencent became the world's most valuable social network firm \u2013 with barely any advertising",
@@ -339,8 +339,8 @@
         "source_url": "https://www.snopes.com",
         "status_code": 200,
         "tags": [
-            "nestle",
             "climate change",
+            "nestle",
             "sweet water"
         ],
         "thumbnail": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2018/01/nestle_CEO_water_human_right_meme_feature.jpg",
@@ -452,9 +452,9 @@
         "source_url": "https://www.engadget.com",
         "status_code": 200,
         "tags": [
-            "smartphone",
             "hardware",
-            "slave labour"
+            "slave labour",
+            "smartphone"
         ],
         "thumbnail": null,
         "title": "You can\u2019t buy an ethical smartphone today",
@@ -481,8 +481,8 @@
         "source_url": "https://serwisy.gazetaprawna.pl",
         "status_code": 200,
         "tags": [
-            "vaccine",
-            "poland"
+            "poland",
+            "vaccine"
         ],
         "thumbnail": "https://ocdn.eu/pulscms-transforms/1/iQjk9kuTURBXy9jZjUxNDhiYy1iNzQwLTQ4NjItYTFiMi01Nzk0ZmI4NDIxZTkuanBlZ5GVAs0EsADDw94AAaEwAQ",
         "title": "Huragan wok\u00f3\u0142 wadliwych szczepionek. MZ: Nie jeste\u015bmy w stanie pilnowa\u0107 ka\u017cdej lod\u00f3wki - GazetaPrawna.pl",
@@ -567,8 +567,8 @@
         "status_code": 200,
         "tags": [
             "hamas",
-            "palestine",
-            "israel"
+            "israel",
+            "palestine"
         ],
         "thumbnail": "https://theintercept.com/wp-content/uploads/2018/02/hamas-nologo-1518817837.jpg?fit=1920%2C1080&w=1200&h=800",
         "title": "Blowback: How Israel Went From Helping Create Hamas to Bombing It",
@@ -595,9 +595,9 @@
         "source_url": "https://www.marketwatch.com",
         "status_code": 200,
         "tags": [
-            "sexism",
+            "feminism",
             "norway",
-            "feminism"
+            "sexism"
         ],
         "thumbnail": "https://s.wsj.net/public/resources/images/MW-GW034_f9be6c_ZG_20181030171746.jpg",
         "title": "This is what happened when Norway mandated that women make up 40% of the boardroom - MarketWatch",
@@ -624,10 +624,10 @@
         "source_url": "",
         "status_code": 200,
         "tags": [
-            "privacy",
             "new orleans",
-            "surveillance",
-            "palantir"
+            "palantir",
+            "privacy",
+            "surveillance"
         ],
         "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/10302845/gbeard_2253_001_social.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "Palantir has secretly been using New Orleans to test its predictive policing technology",
@@ -711,8 +711,8 @@
         "source_url": "https://www.consumerreports.org",
         "status_code": 200,
         "tags": [
-            "privacy",
             "electric vehicles",
+            "privacy",
             "surveillance"
         ],
         "thumbnail": "https://article.images.consumerreports.org/t_article_tout,f_auto/prod/content/dam/CRO%20Images%202018/Magazine/06June/CR-Magazine-InlineHero-Never-Alone-In-Your-Car-04-18",
@@ -770,8 +770,8 @@
         "status_code": 200,
         "tags": [
             "disinformation",
-            "misinformation",
             "extremism",
+            "misinformation",
             "youtube"
         ],
         "thumbnail": "https://cdn.theatlantic.com/thumbor/rsPk8VsDtulFpz1fuPekt3bkWP8=/1x162:3499x1984/1200x625/media/img/mt/2018/03/RTX3I4Y6/original.jpg",
@@ -799,10 +799,10 @@
         "source_url": "https://www.businessinsider.com",
         "status_code": 600,
         "tags": [
-            "privacy",
             "facebook",
+            "hate speech",
             "myanmar",
-            "hate speech"
+            "privacy"
         ],
         "thumbnail": null,
         "title": "UN blames Facebook for spreading hate speech in possible Myanmar genocide of Rohingya Muslims",
@@ -857,8 +857,8 @@
         "status_code": 200,
         "tags": [
             "anonymity",
-            "social media",
-            "privacy"
+            "privacy",
+            "social media"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/sMLVkBxke20/maxresdefault.webp",
         "title": "Privacy and Social Media",
@@ -886,10 +886,10 @@
         "status_code": 200,
         "tags": [
             "cambridge analytica",
-            "donald trump",
-            "propaganda",
             "censorship",
-            "facebook"
+            "donald trump",
+            "facebook",
+            "propaganda"
         ],
         "thumbnail": "https://i.guim.co.uk/img/media/97532076a6935a1e79eba294437ed91f3eb4df6b/0_626_4480_2688/master/4480.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tYWdlLTIwMTgucG5n&enable=upscale&s=f28950621d02d125da385a48921f1bd6",
         "title": "Revealed: 50 million Facebook profiles harvested for Cambridge Analytica in major data breach",
@@ -976,11 +976,11 @@
         "source_url": "https://www.theguardian.com/rss",
         "status_code": 200,
         "tags": [
+            "cambridge analytica",
             "facebook",
-            "tracking",
-            "privacy",
             "meta",
-            "cambridge analytica"
+            "privacy",
+            "tracking"
         ],
         "thumbnail": "https://i.guim.co.uk/img/media/86162f4480dbeaf90edbe36e0a1c31baf204d42d/0_0_2560_1536/master/2560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTgucG5n&enable=upscale&s=2f19839c66def358052e50f08e951455",
         "title": "Why have we given up our privacy to Facebook and other sites so willingly?",
@@ -1007,9 +1007,9 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-JfAWAiN3iVj-HujjF-CPw",
         "status_code": 200,
         "tags": [
+            "bloatware",
             "internet",
-            "maciej ceg\u0142owski",
-            "bloatware"
+            "maciej ceg\u0142owski"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/iYpl0QVCr6U/maxresdefault.webp",
         "title": "Maciej Ceglowski - The Website Obesity Crisis [Web Directions 2015 Keynote]",
@@ -1036,10 +1036,10 @@
         "source_url": "",
         "status_code": 200,
         "tags": [
-            "facebook",
-            "surveillance",
             "corporatocracy",
-            "privacy"
+            "facebook",
+            "privacy",
+            "surveillance"
         ],
         "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2018/03/29511279_211342699598625_4779335535636250624_o-1152x648.png",
         "title": "Facebook scraped call, text message data for years from Android phones [Updated]",
@@ -1066,10 +1066,10 @@
         "source_url": "https://edition.cnn.com",
         "status_code": 200,
         "tags": [
+            "corporatocracy",
             "facebook",
             "privacy",
-            "surveillance",
-            "corporatocracy"
+            "surveillance"
         ],
         "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/150623011649-us-china-data-breech.png?q=x_2,y_0,h_1078,w_1915,c_crop/w_800",
         "title": "It's not just Facebook. Thousands of companies are spying on you (opinion) | CNN",
@@ -1096,10 +1096,10 @@
         "source_url": "",
         "status_code": 200,
         "tags": [
-            "facebook",
-            "surveillance",
             "corporatocracy",
-            "privacy"
+            "facebook",
+            "privacy",
+            "surveillance"
         ],
         "thumbnail": "https://pyxis.nymag.com/v1/imgs/b02/d8e/2fb375fabd7715352364b743dc22cb2827-28-facebook-video-grid.1x.rsocial.w1200.jpg",
         "title": "Ever Record a Video on Facebook? Facebook Still Has It.",
@@ -1126,11 +1126,11 @@
         "source_url": "https://www.theguardian.com",
         "status_code": 200,
         "tags": [
-            "technofeudalism",
-            "google",
             "facebook",
+            "google",
+            "privacy",
             "suveillance",
-            "privacy"
+            "technofeudalism"
         ],
         "thumbnail": "https://i.guim.co.uk/img/media/2c967a570e20258286a3d0722effabdca6c1cb2e/0_92_1046_628/master/1046.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMtYWdlLTIwMTgucG5n&enable=upscale&s=36510c62d25e4c45006805ee9c568fe8",
         "title": "Are you ready? This is all the data Facebook and Google have on you | Dylan Curran",
@@ -1242,11 +1242,11 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCV328OiqIR-duyACdTCTfFw",
         "status_code": 200,
         "tags": [
-            "google",
-            "jordan peterson",
             "feminism",
+            "google",
+            "inequality",
             "james damore",
-            "inequality"
+            "jordan peterson"
         ],
         "thumbnail": "https://i.ytimg.com/vi/PRYvqrWcmmE/hqdefault.jpg",
         "title": "Dr. Jordan Peterson on the James Damore Memo",
@@ -1327,8 +1327,8 @@
         "source_url": "",
         "status_code": 200,
         "tags": [
-            "privacy",
-            "mark zuckerberg"
+            "mark zuckerberg",
+            "privacy"
         ],
         "thumbnail": "https://compote.slate.com/images/be68faa7-4108-4a2d-b1c2-cbde8a5621ca.jpeg?width=1560&rect=4616x3077&offset=440x0",
         "title": "How Mark Zuckerberg Protects His Own Privacy Online",
@@ -1355,8 +1355,8 @@
         "source_url": "https://www.newstatesman.com",
         "status_code": 200,
         "tags": [
-            "artificial intelligence",
             "aladdin",
+            "artificial intelligence",
             "blackrock"
         ],
         "thumbnail": "https://dl6pgk4f88hky.cloudfront.net/2021/06/shutterstock_684865414-scaled.jpg?1729932771",
@@ -1384,11 +1384,11 @@
         "source_url": "https://www.theverge.com",
         "status_code": 200,
         "tags": [
-            "meta",
-            "privacy",
             "facebook",
-            "virtual reality",
-            "oculus"
+            "meta",
+            "oculus",
+            "privacy",
+            "virtual reality"
         ],
         "thumbnail": "https://cdn.vox-cdn.com/thumbor/Z1o8A1K3YGk0r5mATggnbTdRT3o=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/9442879/nstatt_171010_2057_0079.jpg",
         "title": "How much VR user data is Oculus giving to Facebook?",
@@ -1415,9 +1415,9 @@
         "source_url": "www.zdnet.com",
         "status_code": 200,
         "tags": [
-            "internet",
             "ad business",
-            "all time"
+            "all time",
+            "internet"
         ],
         "thumbnail": "https://www.zdnet.com/a/img/resize/1fe0debf2fac3850bb9e5464fb570d5ac735b9ba/2018/04/10/cdb35152-d339-42db-a564-2036810d83d1/firefox-image.jpg?auto=webp&fit=crop&height=675&width=1200",
         "title": "Mozilla: The ad economy is broken and it's making the internet sick",
@@ -1444,8 +1444,8 @@
         "source_url": "https://nypost.com",
         "status_code": 200,
         "tags": [
-            "society",
-            "socialism"
+            "socialism",
+            "society"
         ],
         "thumbnail": "https://nypost.com/wp-content/uploads/sites/2/2018/04/180411-communism-makes-countries-poor-feature.jpg?quality=75&strip=all&w=1024",
         "title": "Science proves communism makes nations poorer and less healthy",
@@ -1472,8 +1472,8 @@
         "source_url": "https://thefederalist.com",
         "status_code": 200,
         "tags": [
-            "norway",
-            "feminism"
+            "feminism",
+            "norway"
         ],
         "thumbnail": "https://thefederalist.com/wp-content/uploads/2018/04/woman-2773007_1280.jpg",
         "title": "Latest Evidence From Norway Shows Female Hiring Quotas Hurt Women",
@@ -1528,8 +1528,8 @@
         "source_url": "https://www.techdirt.com",
         "status_code": 200,
         "tags": [
-            "manufacturing consent",
             "facebook",
+            "manufacturing consent",
             "privacy"
         ],
         "thumbnail": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
@@ -1557,9 +1557,9 @@
         "source_url": "https://www.nationalgeographic.com",
         "status_code": 200,
         "tags": [
-            "germany",
             "climate change",
-            "co2"
+            "co2",
+            "germany"
         ],
         "thumbnail": "https://i.natgeofe.com/n/64d856df-521c-4fc3-8e79-f2317df94877/01-hambach-forest-deforestation-coal-mine_16x9.jpg?w=1200",
         "title": "Ancient Forest Home of Squatter Communities Is Doomed by Coal",
@@ -1587,8 +1587,8 @@
         "status_code": 200,
         "tags": [
             "django",
-            "pwa",
-            "programming"
+            "programming",
+            "pwa"
         ],
         "thumbnail": "https://miro.medium.com/v2/resize:fit:686/1*WExWqwTJT8SonqnoQ5nL-Q.png",
         "title": "Convert Django Website to a Progressive Web App [Part 1/2] | by Kiran Kumbhar | Beginner's Guide to Mobile Web Development | Medium",
@@ -1698,11 +1698,11 @@
         "source_url": "https://www.theverge.com",
         "status_code": 200,
         "tags": [
-            "technofeudalism",
+            "censorship",
             "domain-fronting",
             "google",
             "privacy",
-            "censorship"
+            "technofeudalism"
         ],
         "thumbnail": "https://cdn.vox-cdn.com/thumbor/o96M67fc3Hj2BcvT3R9Rmq_7rvc=/0x0:1020x586/1200x628/filters:focal(510x293:511x294)/cdn.vox-cdn.com/uploads/chorus_asset/file/3607414/Google-Campus-025.0.jpg",
         "title": "A Google update just created a big problem for anti-censorship tools",
@@ -1729,8 +1729,8 @@
         "source_url": "https://en.wikipedia.org",
         "status_code": 200,
         "tags": [
-            "privacy",
-            "domain-fronting"
+            "domain-fronting",
+            "privacy"
         ],
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Domain_Fronting_letter_illustration.svg/1200px-Domain_Fronting_letter_illustration.svg.png",
         "title": "Domain fronting - Wikipedia",
@@ -1757,10 +1757,10 @@
         "source_url": "https://www.bbc.com",
         "status_code": 200,
         "tags": [
-            "racism",
+            "censorship",
             "instagram",
-            "social media",
-            "censorship"
+            "racism",
+            "social media"
         ],
         "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/26BA/production/_100941990_mediaitem100941987.jpg",
         "title": "Woman guilty of 'racist' Snap Dogg rap lyric Instagram post - BBC News",
@@ -1842,12 +1842,12 @@
         "source_url": "https://www.theverge.com",
         "status_code": 200,
         "tags": [
-            "technofeudalism",
             "amazon",
-            "domain-fronting",
             "amazon web services",
+            "censorship",
+            "domain-fronting",
             "privacy",
-            "censorship"
+            "technofeudalism"
         ],
         "thumbnail": "https://cdn.vox-cdn.com/thumbor/C3DIvtCHMcCXy3SVRHtMfmrbeQU=/0x0:640x423/1200x628/filters:focal(320x212:321x213)/cdn.vox-cdn.com/assets/1341015/amazon-event-2012-_1145.jpg",
         "title": "Amazon Web Services starts blocking domain-fronting, following Google\u2019s lead",
@@ -1874,12 +1874,12 @@
         "source_url": "https://www.theverge.com",
         "status_code": 200,
         "tags": [
-            "technofeudalism",
             "amazon",
+            "censorship",
             "domain-fronting",
-            "signal",
             "privacy",
-            "censorship"
+            "signal",
+            "technofeudalism"
         ],
         "thumbnail": "https://cdn.vox-cdn.com/thumbor/_o2VA66_9Hw3rJ90AMuiKQQsbVo=/0x0:2800x1855/1200x628/filters:focal(1400x928:1401x929)/cdn.vox-cdn.com/uploads/chorus_asset/file/10345009/telegramsignal.jpg",
         "title": "Amazon tells Signal\u2019s creators to stop using anti-censorship workaround",
@@ -1935,10 +1935,10 @@
         "status_code": 200,
         "tags": [
             "cambridge analytica",
-            "donald trump",
-            "propaganda",
             "censorship",
-            "facebook"
+            "donald trump",
+            "facebook",
+            "propaganda"
         ],
         "thumbnail": "https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/10475931/1.png?quality=90&strip=all&crop=0%2C36.00855459985%2C100%2C42.071802543007&w=1200",
         "title": "The Facebook and Cambridge Analytica scandal, explained with a simple diagram",
@@ -1992,8 +1992,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTcr7MRatEPF8uwwVKoGGIg",
         "status_code": 200,
         "tags": [
-            "blackrock",
-            "all time"
+            "all time",
+            "blackrock"
         ],
         "thumbnail": "https://i.ytimg.com/vi/A4foal20UTA/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gEygVMA8=&rs=AOn4CLChtK0OBB_ohgsb1zfEox96ixZwDA",
         "title": "BlackRock - The company that owns the world?",
@@ -2020,12 +2020,12 @@
         "source_url": "https://www.techworm.net",
         "status_code": 200,
         "tags": [
+            "dark design",
+            "eula",
             "microsoft",
-            "windows",
             "privacy",
             "surveillance",
-            "dark design",
-            "eula"
+            "windows"
         ],
         "thumbnail": "https://www.techworm.net/wp-content/uploads/2014/10/windows-10-840x420.jpg",
         "title": "Microsoft's Windows 10 has permission to spy on you",
@@ -2107,9 +2107,9 @@
         "source_url": "https://futurism.com",
         "status_code": 200,
         "tags": [
-            "sweden",
             "chip",
-            "microchips"
+            "microchips",
+            "sweden"
         ],
         "thumbnail": "https://wordpress-assets.futurism.com/2018/05/hand-microchip-1.png",
         "title": "All the Rage in Sweden: Embedding Microchips Under Your Skin",
@@ -2137,10 +2137,10 @@
         "source_url": "https://www.theguardian.com/rss",
         "status_code": 200,
         "tags": [
-            "politics",
-            "wikileaks",
+            "espionage",
             "julian assange",
-            "espionage"
+            "politics",
+            "wikileaks"
         ],
         "thumbnail": "https://i.guim.co.uk/img/media/eff1535cbed3be246d70e8bd3f32549cca8683b1/0_253_4928_2957/master/4928.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTgucG5n&enable=upscale&s=13499efe5d46f7abe3a2f3b713f2ec52",
         "title": "Revealed: Ecuador spent millions on spy operation for Julian Assange",
@@ -2167,8 +2167,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCn1wSZL86FfGqZ3aDHiERgw",
         "status_code": 200,
         "tags": [
-            "jordan peterson",
-            "feminism"
+            "feminism",
+            "jordan peterson"
         ],
         "thumbnail": "https://i.ytimg.com/vi/Ddzf9Mm4hdY/hqdefault.jpg",
         "title": "Jordan Peterson calmly dismantles feminism infront of two feminists",
@@ -2195,9 +2195,9 @@
         "source_url": "",
         "status_code": 200,
         "tags": [
+            "lifelog",
             "privacy",
-            "surveillance",
-            "lifelog"
+            "surveillance"
         ],
         "thumbnail": "https://www.vice.com/wp-content/uploads/sites/2/2018/05/1526669704317-shutterstock_410200384.jpeg",
         "title": "15 Years Ago, the Military Tried to Record Whole Human Lives. It Ended Badly",
@@ -2224,8 +2224,8 @@
         "source_url": "https://www.independent.co.uk",
         "status_code": 200,
         "tags": [
-            "google",
-            "don't be evil"
+            "don't be evil",
+            "google"
         ],
         "thumbnail": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/05/21/11/google-dont-be-evil-code-of-conduct.jpg?quality=75&width=1200&auto=webp",
         "title": "Google quietly removes \u2018don\u2019t be evil\u2019 preface from code of conduct | The Independent | The Independent",
@@ -2252,8 +2252,8 @@
         "source_url": "https://www.zdnet.com",
         "status_code": 200,
         "tags": [
-            "google",
-            "don't be evil"
+            "don't be evil",
+            "google"
         ],
         "thumbnail": "https://www.zdnet.com/a/img/resize/7b90be538d715dfdd8ae27a00a68d387cc4b6121/2018/05/21/1ddad754-9842-4db8-bee6-7a77a46a2458/google-data-center-connie.png?auto=webp&fit=crop&height=675&width=1200",
         "title": "Google erases 'Don't be evil' from code of conduct after 18 years | ZDNET",
@@ -2308,8 +2308,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxoFXTSfASvnd_FNuhkQCbQ",
         "status_code": 200,
         "tags": [
-            "laurence bright",
-            "immigration"
+            "immigration",
+            "laurence bright"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/6tL5exJg4ms/maxresdefault.webp",
         "title": "I'm An Englishman. Very Powerful  FREE TOMMY ROBINSON",
@@ -2336,10 +2336,10 @@
         "source_url": "https://www.theverge.com",
         "status_code": 200,
         "tags": [
-            "pepe",
+            "censorship",
             "facebook",
             "moderation",
-            "censorship"
+            "pepe"
         ],
         "thumbnail": "https://cdn.vox-cdn.com/thumbor/xjhITvH-DoyRWHTbqwApsKEIYmU=/0x0:640x400/1200x628/filters:focal(320x200:321x201)/cdn.vox-cdn.com/uploads/chorus_asset/file/7294371/Be-Nice-Man-Pepe-the-Frog_sized.jpg",
         "title": "Facebook has an official Pepe the Frog policy",
@@ -2366,10 +2366,10 @@
         "source_url": "https://www.theguardian.com",
         "status_code": 200,
         "tags": [
-            "new zealand",
-            "espionage",
             "china",
-            "five eyes"
+            "espionage",
+            "five eyes",
+            "new zealand"
         ],
         "thumbnail": "https://i.guim.co.uk/img/media/4f734709fa66e665d0ed0457c030852b2af6600e/0_331_5000_3002/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTgucG5n&enable=upscale&s=861aea8f530d4cf5c160092cba59d463",
         "title": "New Zealand's Five Eyes membership called into question over 'China links' | New Zealand | The Guardian",
@@ -2396,11 +2396,11 @@
         "source_url": "",
         "status_code": 200,
         "tags": [
-            "facebook",
-            "surveillance",
-            "dark design",
             "corporatocracy",
-            "privacy"
+            "dark design",
+            "facebook",
+            "privacy",
+            "surveillance"
         ],
         "thumbnail": "https://static01.nyt.com/images/2018/05/30/us/00facebook1/00facebook1-facebookJumbo-v3.jpg?year=2018&h=550&w=1050&s=e0f91aed9fbfefa03191cfbdad7818f32a8529c4bea0f73337ac3c20e9358626&k=ZQJBKqZ0VN",
         "title": "Facebook Gave Device Makers Deep Access to Data on Users and Friends (Published 2018)",
@@ -2427,11 +2427,11 @@
         "source_url": "www.bbc.com",
         "status_code": 200,
         "tags": [
-            "meta",
-            "facebook",
             "china",
-            "privacy",
-            "manufacturing consent"
+            "facebook",
+            "manufacturing consent",
+            "meta",
+            "privacy"
         ],
         "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/475D/production/_101896281_gettyimages-959804502.jpg",
         "title": "Facebook confirms data-sharing agreements with Chinese firms",
@@ -2458,9 +2458,9 @@
         "source_url": "https://www.billboard.com",
         "status_code": 200,
         "tags": [
+            "azealia banks",
             "deplatform",
-            "twitter",
-            "azealia banks"
+            "twitter"
         ],
         "thumbnail": "https://www.billboard.com/wp-content/uploads/media/Azealia-Banks-ultra-2018-billboard-1548.jpg?w=1024",
         "title": "Azealia Banks\u2019 Twitter Account Deactivated After Insulting Monet X Change | Billboard \u2013 Billboard",
@@ -2487,8 +2487,8 @@
         "source_url": "https://www.bbc.com",
         "status_code": 200,
         "tags": [
-            "science",
-            "artificial intelligence"
+            "artificial intelligence",
+            "science"
         ],
         "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/E620/production/_102021985_gettyimages-682312222.jpg",
         "title": "Can we trust AI if we don't know how it works?",
@@ -2515,8 +2515,8 @@
         "source_url": "https://www.abc.net.au",
         "status_code": 200,
         "tags": [
-            "climate change",
             "carbon footprint",
+            "climate change",
             "corporatocracy"
         ],
         "thumbnail": "https://live-production.wcms.abc-cdn.net.au/9f1c013c2bb34a7d25916afd59d6a508?impolicy=wcms_watermark_news&cropH=1345&cropW=2400&xPos=368&yPos=0&width=862&height=485&imformat=generic",
@@ -2544,11 +2544,11 @@
         "source_url": "https://dorzeczy.pl",
         "status_code": 200,
         "tags": [
-            "psyop",
-            "david petraeus",
-            "social media",
             "cia",
-            "legacy media"
+            "david petraeus",
+            "legacy media",
+            "psyop",
+            "social media"
         ],
         "thumbnail": "https://img.dorzeczy.pl/img/zawrotna-kariera-bylego-szefa-cia/f4/9f/7172bca7c0d7c0e56c032e8127fc.jpeg",
         "title": "By\u0142y szef CIA potentatem medialnym na Ba\u0142kanach",
@@ -2604,9 +2604,9 @@
         "source_url": "www.dailymail.co.uk",
         "status_code": 200,
         "tags": [
+            "big tech",
             "privacy",
-            "security",
-            "big tech"
+            "security"
         ],
         "thumbnail": "https://i.dailymail.co.uk/i/newpix/2018/07/04/10/4DE8A0ED00000578-0-image-a-6_1530695816054.jpg",
         "title": "Is your phone WATCHING you? Apps aren't secretly listening to your private conversations but some will record video of everything you do",
@@ -2633,8 +2633,8 @@
         "source_url": "https://medium.com",
         "status_code": 200,
         "tags": [
-            "python",
-            "programming"
+            "programming",
+            "python"
         ],
         "thumbnail": "https://miro.medium.com/v2/resize:fit:500/0*M2qZQsVnDS-4i5zc.jpg",
         "title": "Why is Python so slow?",
@@ -2661,8 +2661,8 @@
         "source_url": "https://www.realcleardefense.com",
         "status_code": 200,
         "tags": [
-            "social engineering",
-            "cambridge analityca"
+            "cambridge analityca",
+            "social engineering"
         ],
         "thumbnail": "https://assets.realclear.com/images/45/454915_6_.jpg",
         "title": "Social Engineering as a Threat to Societies: The Cambridge Analytica Case",
@@ -2689,11 +2689,11 @@
         "source_url": "https://www.theverge.com",
         "status_code": 200,
         "tags": [
-            "chrome",
-            "google",
-            "big tech",
+            "android",
             "antitrust",
-            "android"
+            "big tech",
+            "chrome",
+            "google"
         ],
         "thumbnail": "https://cdn.vox-cdn.com/thumbor/gtQ8fwAGlOLOa74T4NJ68DTCbUQ=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/11707353/acastro_1800716_1777_android_EU_0001.jpg",
         "title": "Google fined a record $5 billion by the EU for Android antitrust violations - The Verge",
@@ -2721,8 +2721,8 @@
         "status_code": 200,
         "tags": [
             "estimate",
-            "programming",
-            "managment"
+            "managment",
+            "programming"
         ],
         "thumbnail": "https://www.hpe.com/content/dam/hpe/shared-publishing/images-norend/documents/A00140790ENW-4-3.jpg",
         "title": "How to give IT project estimates\u2014and when not to estimate at all",
@@ -2778,8 +2778,8 @@
         "source_url": "https://www.vox.com",
         "status_code": 200,
         "tags": [
-            "social media",
-            "jaron lanier"
+            "jaron lanier",
+            "social media"
         ],
         "thumbnail": "https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/11767687/950434550.jpg.jpg?quality=90&strip=all&crop=0%2C10.525222305327%2C100%2C78.949555389346&w=1200",
         "title": "If you can quit social media, but don\u2019t, then you\u2019re part of the problem, Jaron Lanier says",
@@ -2807,8 +2807,8 @@
         "status_code": 200,
         "tags": [
             "archive",
-            "history",
-            "documentary"
+            "documentary",
+            "history"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/EkvffcxQzMY/maxresdefault.webp",
         "title": "Is there life on other planets? (1962) | RetroFocus",
@@ -2864,8 +2864,8 @@
         "status_code": 200,
         "tags": [
             "cybersecurity",
-            "surveillance",
-            "privacy"
+            "privacy",
+            "surveillance"
         ],
         "thumbnail": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
         "title": "Pentagon restricts use of fitness trackers, other devices",
@@ -2892,9 +2892,9 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQrJSZqagqHCls2Vkrubkzg",
         "status_code": 200,
         "tags": [
+            "cancel culture",
             "free speech",
-            "the left wing",
-            "cancel culture"
+            "the left wing"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/BiqDZlAZygU/maxresdefault.webp",
         "title": "In full: Rowan Atkinson on free speech",
@@ -2949,12 +2949,12 @@
         "source_url": "https://www.reuters.com",
         "status_code": 200,
         "tags": [
-            "mrna",
-            "pfizer",
+            "big pharma",
             "biontech",
             "covid",
-            "vaccine",
-            "big pharma"
+            "mrna",
+            "pfizer",
+            "vaccine"
         ],
         "thumbnail": "https://www.reuters.com/resizer/v2/https%3A%2F%2Farchive-images.prod.global.a201836.reutersmedia.net%2F2018%2F08%2F16%2FLYNXMPEE7F084.JPG?auth=392e21557c7b9b0c03c0bca0698a7f38334613e4712c8b806689f4f6db264497&height=1005&width=1920&quality=80&smart=true",
         "title": "Pfizer bets on biotech flu vaccine in $425 million BioNTech alliance | Reuters",
@@ -3008,10 +3008,10 @@
         "source_url": "http://rss.cnn.com/rss/edition.rss",
         "status_code": 200,
         "tags": [
+            "big tech",
             "google",
-            "surveillance",
             "privacy",
-            "big tech"
+            "surveillance"
         ],
         "thumbnail": "https://i2.cdn.turner.com/money/dam/assets/180820182846-google-data-collection-780x439.jpg",
         "title": "Google's data collection is hard to escape, study claims",
@@ -3068,10 +3068,10 @@
         "status_code": 403,
         "tags": [
             "inclusive",
-            "the left wing",
-            "movies",
             "inequality",
-            "rotten tomatoes"
+            "movies",
+            "rotten tomatoes",
+            "the left wing"
         ],
         "thumbnail": "https://static01.nyt.com/images/2018/08/29/business/29ROTTEN03/29ROTTEN03-facebookJumbo.jpg?year=2018&h=550&w=1050&s=00721a9df3579b5f57b353ff7c4d4414f2cde2d378fd2a52b8b2f4a97739e5c0&k=ZQJBKqZ0VN",
         "title": "Rotten Tomatoes Adds 200 Critics as It Tries to Be More Inclusive",
@@ -3098,8 +3098,8 @@
         "source_url": "https://nextshark.com",
         "status_code": 200,
         "tags": [
-            "totoro",
-            "movies"
+            "movies",
+            "totoro"
         ],
         "thumbnail": "https://data.nextshark.com/wp-content/uploads/2018/09/0-2.jpg",
         "title": "Fans Have a Dark Theory Behind the Story of Totoro",
@@ -3126,9 +3126,9 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIUUmjFnVeVSAi8HoYL-tzQ",
         "status_code": 200,
         "tags": [
+            "memento",
             "movies",
-            "nolan",
-            "memento"
+            "nolan"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/0tBz3_JIOpk/maxresdefault.webp",
         "title": "Memento Movie Ending... Explained",
@@ -3155,8 +3155,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtCTSf3UwRU14nYWr_xm-dQ",
         "status_code": 200,
         "tags": [
-            "propaganda",
             "movies",
+            "propaganda",
             "symbolism"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/soh-3jiHq4s/maxresdefault.webp",
@@ -3185,10 +3185,10 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCz1fTbwui7o5aDZ6W1dOLTQ",
         "status_code": 200,
         "tags": [
-            "the left wing",
-            "social justice warriors",
+            "mary sue",
             "movies",
-            "mary sue"
+            "social justice warriors",
+            "the left wing"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/KcXVGIi1m28/maxresdefault.webp",
         "title": "Why Are So Many SJW Characters Mary Sues?",
@@ -3241,12 +3241,12 @@
         "source_url": "https://cen.acs.org",
         "status_code": 200,
         "tags": [
-            "mrna",
-            "pfizer",
+            "big pharma",
             "biontech",
             "covid",
-            "vaccine",
-            "big pharma"
+            "mrna",
+            "pfizer",
+            "vaccine"
         ],
         "thumbnail": "https://s7d1.scene7.com/is/image/CENODS/09635-cover-mrna?$responsive$&wid=700&qlt=90,0&resMode=sharp2",
         "title": "Can mRNA disrupt the drug industry?",
@@ -3274,8 +3274,8 @@
         "status_code": 200,
         "tags": [
             "jack dorsey",
-            "twitter",
-            "shadowban"
+            "shadowban",
+            "twitter"
         ],
         "thumbnail": "https://image.cnbcfm.com/api/v1/image/105215494-1561656460398jack.jpg?v=1571915257&w=1920&h=1080",
         "title": "Jack Dorsey to Congress: 'Twitter does not use political ideology'",
@@ -3302,8 +3302,8 @@
         "source_url": "https://edition.cnn.com",
         "status_code": 200,
         "tags": [
-            "the left wing",
-            "go woke go broke"
+            "go woke go broke",
+            "the left wing"
         ],
         "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/180904135200-02-nike-kaepernick-ad-backlash.jpg?q=x_92,y_26,h_1068,w_1898,c_crop/w_800",
         "title": "Nike's support of Colin Kaepernick has some destroying their shoes | CNN",
@@ -3360,8 +3360,8 @@
         "source_url": "http://rss.cnn.com/rss/edition.rss",
         "status_code": 200,
         "tags": [
-            "free speech",
-            "censorship"
+            "censorship",
+            "free speech"
         ],
         "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/180320114650-steve-bannon-0306.jpg?q=x_5,y_255,h_2807,w_4989,c_crop/w_800",
         "title": "Bannon falls victim to free speech storm",
@@ -3418,8 +3418,8 @@
         "source_url": "https://www.bbc.com",
         "status_code": 200,
         "tags": [
-            "immigration",
-            "germany"
+            "germany",
+            "immigration"
         ],
         "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/96E8/production/_103323683_gettyimages-1025825672.jpg",
         "title": "Reality Check: Are migrants driving crime in Germany? - BBC News",
@@ -3502,8 +3502,8 @@
         "status_code": 200,
         "tags": [
             "archive",
-            "history",
-            "documentary"
+            "documentary",
+            "history"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/h0njPX3SUUU/maxresdefault.webp",
         "title": "Are looks important to women? (1967) | RetroFocus",
@@ -3556,8 +3556,8 @@
         "source_url": "https://www.fluentcpp.com",
         "status_code": 200,
         "tags": [
-            "programming",
-            "c++"
+            "c++",
+            "programming"
         ],
         "thumbnail": "https://i0.wp.com/www.fluentcpp.com/wp-content/uploads/2018/01/removing_elements_associative.png?resize=150%2C84&ssl=1",
         "title": "How to Remove Elements from an Associative Container in C++",
@@ -3584,11 +3584,11 @@
         "source_url": "",
         "status_code": 200,
         "tags": [
-            "surveillance",
             "ad business",
             "corporatocracy",
+            "facebook",
             "privacy",
-            "facebook"
+            "surveillance"
         ],
         "thumbnail": "https://gizmodo.com/app/uploads/2018/09/ujcxx8sg5fwipdkvze7u.jpg",
         "title": "Facebook Is Giving Advertisers Access to Your Shadow Contact Information",
@@ -3615,11 +3615,11 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFuF2fhvE43Wzw7hfUc2W-A",
         "status_code": 200,
         "tags": [
-            "homosexuality",
+            "alan keyes",
             "culture",
             "family",
+            "homosexuality",
             "lgbt",
-            "alan keyes",
             "religion",
             "the left wing"
         ],
@@ -3648,8 +3648,8 @@
         "source_url": "https://www.theringer.com",
         "status_code": 200,
         "tags": [
-            "they live",
-            "carpenter"
+            "carpenter",
+            "they live"
         ],
         "thumbnail": "https://cdn.vox-cdn.com/thumbor/jrtLudvSa8Hp7x1x6TsiuDStOsQ=/0x239:3333x1984/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/13209895/the_ringer_final_standard.jpg",
         "title": "John Carpenter\u2019s \u2018They Live\u2019 Was Supposed to Be a Warning. We Didn\u2019t Heed It. We Didn\u2019t Even Understand It.",
@@ -3735,8 +3735,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCM1MpcmO5B2Kj-XS9S-XwRg",
         "status_code": 200,
         "tags": [
-            "movies",
-            "clockwork orange"
+            "clockwork orange",
+            "movies"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/dOvP58ioBRc/maxresdefault.webp",
         "title": "A Clockwork Orange - Film Analysis & Meaning [Full HD]",
@@ -3763,8 +3763,8 @@
         "source_url": "https://www.breitbart.com",
         "status_code": 200,
         "tags": [
-            "the left wing",
             "censorship",
+            "the left wing",
             "twitter"
         ],
         "thumbnail": "https://media.breitbart.com/media/2018/10/NPC-header-1.jpg",
@@ -3792,11 +3792,11 @@
         "source_url": "https://www.wired.com",
         "status_code": 200,
         "tags": [
-            "manufacturing consent",
-            "facebook",
             "corporatocracy",
-            "technofeudalism",
-            "meta"
+            "facebook",
+            "manufacturing consent",
+            "meta",
+            "technofeudalism"
         ],
         "thumbnail": "https://media.wired.com/photos/5bc784737fefbf3d4e78e3b4/191:100/w_1280,c_limit/Zuck-FB-Video-PAKAMM.jpg",
         "title": "A New Facebook Suit Makes \u2018Pivot to Video\u2019 Even More Myopic | WIRED",
@@ -3823,9 +3823,9 @@
         "source_url": "https://www.npr.org",
         "status_code": 200,
         "tags": [
-            "sweden",
             "chip",
-            "microchips"
+            "microchips",
+            "sweden"
         ],
         "thumbnail": "https://media.npr.org/assets/img/2018/10/19/ap_17206717726320_wide-7d80062a2901739b53eb7108d52dcd7707951b28.jpg?s=1400&c=100&f=jpeg",
         "title": "Thousands Of Swedes Are Inserting Microchips Under Their Skin",
@@ -3853,8 +3853,8 @@
         "status_code": 200,
         "tags": [
             "privacy",
-            "surveillance",
-            "smart city"
+            "smart city",
+            "surveillance"
         ],
         "thumbnail": "https://i.guim.co.uk/img/media/8b8beb8060a1aa3a53dbb1f20ce60732f0621cfd/0_189_4500_2700/master/4500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTgucG5n&enable=upscale&s=b8c6e7031fbcd2cf275976ae062e6b9d",
         "title": "'City of surveillance': privacy expert quits Toronto's smart-city project",
@@ -3881,10 +3881,10 @@
         "source_url": "https://www.wolniisolidarni.czest.pl",
         "status_code": 200,
         "tags": [
+            "fozz",
             "jaros\u0142aw kaczynski",
             "micha\u0142 folzmann",
-            "najwy\u017csza izba kontroli",
-            "fozz"
+            "najwy\u017csza izba kontroli"
         ],
         "thumbnail": null,
         "title": "Jak pieni\u0105dze z FOZZ pomog\u0142y Kaczy\u0144skim \u2013 Wolni i Solidarni",
@@ -3941,15 +3941,15 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnxGkOGNMqQEUMvroOWps6Q",
         "status_code": 200,
         "tags": [
+            "feminism",
+            "grievance",
+            "james lindsay",
+            "joe rogan",
+            "lgbt",
             "peter boghossian",
-            "woke",
             "sjw",
             "the left wing",
-            "feminism",
-            "james lindsay",
-            "lgbt",
-            "grievance",
-            "joe rogan"
+            "woke"
         ],
         "thumbnail": "https://i.ytimg.com/vi/OlqU_JMTzd4/sddefault.jpg",
         "title": "Joe Rogan - Exposing Social Justice with Peter Boghossian & James Lindsay",
@@ -4005,10 +4005,10 @@
         "source_url": "https://www.theguardian.com/rss",
         "status_code": 200,
         "tags": [
-            "misinformation",
-            "propaganda",
             "facebook",
-            "george soros"
+            "george soros",
+            "misinformation",
+            "propaganda"
         ],
         "thumbnail": "https://i.guim.co.uk/img/media/6e3d18224580fa0df8f40eab30e94c8f12da34de/0_104_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTgucG5n&enable=upscale&s=e300905fb4fa490a222408a014d90e8b",
         "title": "Facebook reportedly discredited critics by linking them to George Soros",
@@ -4061,8 +4061,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCspbA9TD8emEsqzN0LaQeYA",
         "status_code": 200,
         "tags": [
-            "movies",
-            "eyes wide shut"
+            "eyes wide shut",
+            "movies"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/aXwy7M7Udmg/maxresdefault.webp",
         "title": "Eyes Wide Shut - What it all Meant",
@@ -4090,8 +4090,8 @@
         "status_code": 403,
         "tags": [
             "apple",
-            "manufacturing consent",
-            "google"
+            "google",
+            "manufacturing consent"
         ],
         "thumbnail": null,
         "title": "Tim Cook defends taking billions from Google",
@@ -4148,10 +4148,10 @@
         "source_url": "https://www.searchenginejournal.com",
         "status_code": 200,
         "tags": [
-            "search engines",
+            "algorithms",
             "big tech",
             "privacy",
-            "algorithms"
+            "search engines"
         ],
         "thumbnail": "https://www.searchenginejournal.com/wp-content/uploads/2018/12/shutterstock_381409084.png",
         "title": "Google Shows Personalized Search Results When Logged Out, According to New Study",
@@ -4178,11 +4178,11 @@
         "source_url": "https://www.theguardian.com",
         "status_code": 200,
         "tags": [
-            "google",
-            "search engines",
-            "censorship",
             "algorithms",
-            "facebook"
+            "censorship",
+            "facebook",
+            "google",
+            "search engines"
         ],
         "thumbnail": "https://i.guim.co.uk/img/media/a0c7b2c43cd4569619c915a8fb6aafc5554c6a78/0_0_2560_1536/master/2560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTgucG5n&enable=upscale&s=c32840583429970cfb9b4d66cdfa682a",
         "title": "Are Google and Facebook really suppressing conservative politics?",
@@ -4209,10 +4209,10 @@
         "source_url": "https://www.forbes.com",
         "status_code": 200,
         "tags": [
-            "sun-dimming",
-            "climate change",
             "atmosphere",
-            "bill gates"
+            "bill gates",
+            "climate change",
+            "sun-dimming"
         ],
         "thumbnail": "https://imageio.forbes.com/specials-images/dam/imageserve/860362836/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
         "title": "Harvard Scientists Begin Experiment To Block Out The Sun",
@@ -4296,10 +4296,10 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTsiZiMomJo6FOyiBaFeaIw",
         "status_code": 200,
         "tags": [
-            "the left wing",
-            "sjw",
             "ideology",
-            "propaganda"
+            "propaganda",
+            "sjw",
+            "the left wing"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/8qCHRYMe66g/maxresdefault.webp",
         "title": "Why the Left Think They are Better | Peter Hitchens",
@@ -4352,11 +4352,11 @@
         "source_url": "https://www.theguardian.com",
         "status_code": 200,
         "tags": [
-            "technofeudalism",
+            "anonymity",
             "google",
-            "surveillance",
             "privacy",
-            "anonymity"
+            "surveillance",
+            "technofeudalism"
         ],
         "thumbnail": "https://i.guim.co.uk/img/media/738c1182546ee422f2e635a2ca103880903be38a/253_0_2955_1773/master/2955.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTgucG5n&enable=upscale&s=892dd7c7c99638cb1723c71ae44e7245",
         "title": "Google\u2019s Earth: how the tech giant is helping the state spy on us",

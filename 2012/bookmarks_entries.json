@@ -77,9 +77,9 @@
         "tags": [
             "acta",
             "censorship",
+            "government control",
             "privacy",
             "protest",
-            "government control",
             "surveillance"
         ],
         "thumbnail": "https://files-production-saulx-eu-observer-production-en-ci-hyp-xx0.based.dev/cdn-cgi/image/format=auto,w=1200/3d7d15640145eb5657431c61d7569470.jpg",
@@ -109,9 +109,9 @@
         "tags": [
             "acta",
             "censorship",
+            "government control",
             "privacy",
             "protest",
-            "government control",
             "surveillance"
         ],
         "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/media/images/58452000/jpg/_58452874_dsc_0055.jpg",
@@ -141,9 +141,9 @@
         "tags": [
             "acta",
             "censorship",
+            "government control",
             "privacy",
             "protest",
-            "government control",
             "surveillance"
         ],
         "thumbnail": "https://venturebeat.com/business/what-is-acta-and-why-are-thousands-of-europeans-protesting-it/?w=1200&strip=all",
@@ -171,8 +171,8 @@
         "source_url": "",
         "status_code": 200,
         "tags": [
-            "manufacturing consent",
-            "journalism"
+            "journalism",
+            "manufacturing consent"
         ],
         "thumbnail": "https://i.kinja-img.com/image/upload/c_fill,h_200,q_80,w_200/v4sckews2f3bzf0ztbkf.png",
         "title": "Why Are Game Developer Bonuses Based On Review Scores?",
@@ -199,11 +199,11 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaVCxGpbDeDI47HDmPYkFCQ",
         "status_code": 200,
         "tags": [
-            "law",
             "all time",
+            "law",
             "lecture",
-            "university",
-            "police"
+            "police",
+            "university"
         ],
         "thumbnail": "https://i.ytimg.com/vi/d-7o9xYp7eE/hqdefault.jpg",
         "title": "Regend University Of Law: Don't Talk to the Police",
@@ -230,8 +230,8 @@
         "source_url": "https://artmuseum.pl",
         "status_code": 200,
         "tags": [
-            "occupy wall street",
             "billionaires",
+            "occupy wall street",
             "protest"
         ],
         "thumbnail": "https://artmuseum.pl/public/upload/photo/0638_0406/Muzeum_Otwarte_3_px700.jpg",
@@ -259,10 +259,10 @@
         "source_url": "https://newint.org",
         "status_code": 200,
         "tags": [
+            "bill gates",
             "billionaires",
-            "elites",
             "charity",
-            "bill gates"
+            "elites"
         ],
         "thumbnail": null,
         "title": "The flip side to Bill Gates' charity billions",
@@ -291,8 +291,8 @@
         "tags": [
             "billionaires",
             "bunga bunga",
-            "silvio berlusconi",
-            "politicians"
+            "politicians",
+            "silvio berlusconi"
         ],
         "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/120416104919-berlusconi-and-karima-el-mahroug-ruby.jpg?q=w_3682,h_2071,x_0,y_214,c_crop/w_800",
         "title": "Berlusconi\u2019s \u2018bunga bunga\u2019 women testify at his trial",
@@ -319,8 +319,8 @@
         "source_url": "https://www.csd.uoc.gr",
         "status_code": 200,
         "tags": [
-            "programming",
-            "ansic"
+            "ansic",
+            "programming"
         ],
         "thumbnail": null,
         "title": "Introduction to Sockets Programming in C using TCP/IP",
@@ -347,8 +347,8 @@
         "source_url": "https://www.cnbc.com",
         "status_code": 200,
         "tags": [
-            "larry fink",
-            "blackrock"
+            "blackrock",
+            "larry fink"
         ],
         "thumbnail": "https://image.cnbcfm.com/api/v1/image/39541642-fink_larry_200.jpg?v=1354732729&w=1920&h=1080",
         "title": "A Fink-ing Mess!",
@@ -403,12 +403,12 @@
         "source_url": "https://www.businessinsider.com",
         "status_code": 200,
         "tags": [
-            "legacy media",
-            "propaganda",
-            "government",
-            "media",
+            "corporations",
             "corporatocracy",
-            "corporations"
+            "government",
+            "legacy media",
+            "media",
+            "propaganda"
         ],
         "thumbnail": "https://i.insider.com/4fd9e6b5ecad04c327000005?width=400&format=jpeg",
         "title": "These 6 Corporations Control 90% Of The Media In America",
@@ -464,8 +464,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCuVxaQDraOja6xKidcmoufA",
         "status_code": 200,
         "tags": [
-            "music",
-            "chiptune"
+            "chiptune",
+            "music"
         ],
         "thumbnail": "https://i.ytimg.com/vi/OuO-s1kugLs/maxresdefault.jpg",
         "title": "The Evolution of PC Games",
@@ -577,8 +577,8 @@
         "source_url": "https://www.prawo.pl",
         "status_code": 200,
         "tags": [
-            "manufacturing consent",
             "big pharma",
+            "manufacturing consent",
             "pfizer"
         ],
         "thumbnail": null,
@@ -606,8 +606,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQnWIt2N1hnWszI2d-j-6Aw",
         "status_code": 200,
         "tags": [
-            "music",
-            "chiptune"
+            "chiptune",
+            "music"
         ],
         "thumbnail": "https://i.ytimg.com/vi/eclMFa0mD1c/maxresdefault.jpg",
         "title": "Amiga Music: Jogeir Liljedahl Compilation #1",
@@ -634,9 +634,9 @@
         "source_url": "www.nytimes.com",
         "status_code": 403,
         "tags": [
-            "privacy",
-            "nsa",
             "big brother",
+            "nsa",
+            "privacy",
             "surveillance"
         ],
         "thumbnail": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png?year=2012",
@@ -664,12 +664,12 @@
         "source_url": "https://freerepublic.com",
         "status_code": 200,
         "tags": [
-            "social media",
-            "propaganda",
             "annenberg",
-            "social engineering",
             "fact check",
-            "psyop"
+            "propaganda",
+            "psyop",
+            "social engineering",
+            "social media"
         ],
         "thumbnail": null,
         "title": "Factcheck.org -- A Fraudulent \"Fact Check\" Site Funded By Biased Political Group",
@@ -697,8 +697,8 @@
         "status_code": 200,
         "tags": [
             "bees",
-            "pollution",
-            "china"
+            "china",
+            "pollution"
         ],
         "thumbnail": "https://dialogue.earth/content/uploads/2020/05/picture_2.jpg",
         "title": "Decline of bees forces China\u2019s apple farmers to pollinate by hand",
@@ -725,8 +725,8 @@
         "source_url": "https://natemat.pl",
         "status_code": 200,
         "tags": [
-            "deep state",
             "conspiracy theory",
+            "deep state",
             "israel"
         ],
         "thumbnail": "https://m.natemat.pl/23208c2cb6c0474ef6dc7652e528a8b5,1200,0,0,0.jpg",
@@ -754,11 +754,11 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY7dD6waquGnKTZSumPMTlQ",
         "status_code": 200,
         "tags": [
-            "judaism",
-            "christianity",
-            "theism",
             "atheism",
-            "religion"
+            "christianity",
+            "judaism",
+            "religion",
+            "theism"
         ],
         "thumbnail": "https://i.ytimg.com/vi/otrqzITuSqE/maxresdefault.jpg",
         "title": "Professor John Lennox | God DOES exist",
@@ -814,8 +814,8 @@
         "source_url": "https://www.cracked.com",
         "status_code": 200,
         "tags": [
-            "movies",
-            "alien"
+            "alien",
+            "movies"
         ],
         "thumbnail": "https://s3.crackedcdn.com/phpimages/article/1/7/9/194179.jpg?v=1",
         "title": "Alien: A Film Franchise Based Entirely on Rape",

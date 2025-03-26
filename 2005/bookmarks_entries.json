@@ -20,9 +20,9 @@
         "source_url": "https://journals.plos.org",
         "status_code": 200,
         "tags": [
+            "ad business",
             "big pharma",
-            "manufacturing consent",
-            "ad business"
+            "manufacturing consent"
         ],
         "thumbnail": "https://journals.plos.org/plosmedicine/article/figure/image?id=10.1371/journal.pmed.0020138.g001&size=inline",
         "title": "Medical Journals Are an Extension of the Marketing Arm of Pharmaceutical Companies | PLOS Medicine",
@@ -77,10 +77,10 @@
         "source_url": "https://www.theregister.com",
         "status_code": 200,
         "tags": [
+            "corporatocracy",
+            "dark design",
             "google",
             "manufacturing consent",
-            "dark design",
-            "corporatocracy",
             "microsoft",
             "search engines"
         ],
@@ -109,10 +109,10 @@
         "source_url": "http://news.bbc.co.uk",
         "status_code": 200,
         "tags": [
-            "billionaires",
-            "polititians",
             "bilderberg meeting",
-            "democracy"
+            "billionaires",
+            "democracy",
+            "polititians"
         ],
         "thumbnail": null,
         "title": "BBC NEWS | Americas | Inside the secretive Bilderberg Group",
@@ -168,9 +168,9 @@
         "source_url": "https://en.wikipedia.org",
         "status_code": 200,
         "tags": [
-            "sony",
             "rootkit",
             "scandal",
+            "sony",
             "vulnerability"
         ],
         "thumbnail": "https://upload.wikimedia.org/wikipedia/en/2/27/Sony_CD_player_interface_screenshot.png",
@@ -199,8 +199,8 @@
         "status_code": 200,
         "tags": [
             "corporations",
-            "programming",
-            "patents"
+            "patents",
+            "programming"
         ],
         "thumbnail": null,
         "title": "niePatenty - Maciej Drozdowski",
@@ -227,11 +227,11 @@
         "source_url": "http://www.psychologia.net.pl",
         "status_code": 200,
         "tags": [
-            "sexism",
-            "socialism",
             "discrimination",
+            "feminism",
             "poland",
-            "feminism"
+            "sexism",
+            "socialism"
         ],
         "thumbnail": null,
         "title": "Feminizm - nowa wersja komunizmu",
@@ -258,10 +258,10 @@
         "source_url": "https://www.theregister.com",
         "status_code": 200,
         "tags": [
-            "vulnerability",
-            "technofeudalism",
             "rootkit",
-            "sony"
+            "sony",
+            "technofeudalism",
+            "vulnerability"
         ],
         "thumbnail": "https://regmedia.co.uk/2021/12/08/shutterstock_cds.jpg",
         "title": "Remember the Sony rootkit scandal? It was almost much worse \u2022 The Register",

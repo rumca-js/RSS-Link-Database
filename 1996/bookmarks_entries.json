@@ -20,8 +20,8 @@
         "source_url": "https://en.wikipedia.org",
         "status_code": 200,
         "tags": [
-            "embrace extend extinguish",
             "dark design",
+            "embrace extend extinguish",
             "microsoft"
         ],
         "thumbnail": null,
@@ -49,8 +49,8 @@
         "source_url": "https://www.nytimes.com",
         "status_code": 403,
         "tags": [
-            "embrace extend extinguish",
             "dark design",
+            "embrace extend extinguish",
             "microsoft"
         ],
         "thumbnail": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png?year=1996",

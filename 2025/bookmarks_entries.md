@@ -11,7 +11,7 @@
  ## The TikTok Ban Is Also About Hiding Pro-Palestinian Content. Republicans Said So Themselves.
  - [https://theintercept.com/2025/01/09/tiktok-ban-israel-palestine-republicans](https://theintercept.com/2025/01/09/tiktok-ban-israel-palestine-republicans)
  - date_published: 2025-01-09T15:51:59+00:00
- - tags: ['israel', 'censorship']
+ - tags: ['censorship', 'israel']
 
  ## The Origins of Wokeness
  - [https://paulgraham.com/woke.html](https://paulgraham.com/woke.html)
@@ -26,12 +26,12 @@
  ## ‘The Interview’: Curtis Yarvin Says Democracy is Done
  - [https://www.nytimes.com/2025/01/18/magazine/curtis-yarvin-interview.html](https://www.nytimes.com/2025/01/18/magazine/curtis-yarvin-interview.html)
  - date_published: 2025-01-18T10:15:06+00:00
- - tags: ['monarchy', 'democracy']
+ - tags: ['democracy', 'monarchy']
 
  ## Biden pardons Fauci, Milley and the Jan. 6 panel. It's a guard against potential 'revenge' by Trump
  - [https://apnews.com/article/biden-trump-fauci-milley-pardons-january-6-3cba287f89051513fb48d7ae700ae747](https://apnews.com/article/biden-trump-fauci-milley-pardons-january-6-3cba287f89051513fb48d7ae700ae747)
  - date_published: 2025-01-20T13:13:18+00:00
- - tags: ['joe biden', 'anthony fauci']
+ - tags: ['anthony fauci', 'joe biden']
 
  ## Opinion | Trump finds a new way for foreign governments to pay him off: Crypto
  - [https://www.washingtonpost.com/opinions/2025/01/21/trump-crypto-ponzi-scheme](https://www.washingtonpost.com/opinions/2025/01/21/trump-crypto-ponzi-scheme)
@@ -41,7 +41,7 @@
  ## Enviromental groups got EU subsidies to lobby for Timmermans' green plans: report
  - [https://nltimes.nl/2025/01/22/enviromental-groups-got-eu-subsidies-lobby-timmermans-green-plans-report](https://nltimes.nl/2025/01/22/enviromental-groups-got-eu-subsidies-lobby-timmermans-green-plans-report)
  - date_published: 2025-01-22T09:37:56+00:00
- - tags: ['climate change', 'pollutions', 'manufacturing consent']
+ - tags: ['climate change', 'manufacturing consent', 'pollutions']
 
  ## Solar plant off I-15 near Las Vegas faces cloudy future; units closing — PHOTOS
  - [https://www.reviewjournal.com/business/energy/ivanpah-solar-is-shutting-down-majority-of-its-plant-3268775](https://www.reviewjournal.com/business/energy/ivanpah-solar-is-shutting-down-majority-of-its-plant-3268775)
@@ -51,7 +51,7 @@
  ## The proof that lockdown critics were ‘debanked’ because of their views
  - [https://www.telegraph.co.uk/news/2025/01/18/proof-that-lockdown-critics-were-debanked-because-of-views](https://www.telegraph.co.uk/news/2025/01/18/proof-that-lockdown-critics-were-debanked-because-of-views)
  - date_published: 2025-01-26T16:14:50+00:00
- - tags: ['technofeudalism', 'covid', 'debanking', 'censorship']
+ - tags: ['censorship', 'covid', 'debanking', 'technofeudalism']
 
  ## California Law Enforcement Misused State Databases More Than 7,000 Times in 2023
  - [https://www.eff.org/deeplinks/2025/01/california-police-misused-state-databases-more-7000-times-2023](https://www.eff.org/deeplinks/2025/01/california-police-misused-state-databases-more-7000-times-2023)
@@ -65,7 +65,7 @@
  ## Amazon secretly tracked Californian consumers via cellphones, lawsuit alleges
  - [https://www.fastcompany.com/91269436/amazon-tracked-californian-consumers-cellphones-lawsuit](https://www.fastcompany.com/91269436/amazon-tracked-californian-consumers-cellphones-lawsuit)
  - date_published: 2025-01-29T23:28:54.312800+00:00
- - tags: ['privacy', 'technofeudalism', 'surveillance']
+ - tags: ['privacy', 'surveillance', 'technofeudalism']
 
  ## Breaking: Vital Long COVID data taken down following Trump order - The Sick Times
  - [https://thesicktimes.org/2025/01/31/breaking-vital-long-covid-data-taken-down-following-trump-order](https://thesicktimes.org/2025/01/31/breaking-vital-long-covid-data-taken-down-following-trump-order)
@@ -90,7 +90,7 @@
  ## In 'waste' of money, USAID channeled vast sums for DEI, LGBTQ programs: White House
  - [https://www.aa.com.tr/en/americas/in-waste-of-money-usaid-channeled-vast-sums-for-dei-lgbtq-programs-white-house/3470976](https://www.aa.com.tr/en/americas/in-waste-of-money-usaid-channeled-vast-sums-for-dei-lgbtq-programs-white-house/3470976)
  - date_published: 2025-02-04T08:39:36+00:00
- - tags: ['usaid', 'lgbt', 'dei']
+ - tags: ['dei', 'lgbt', 'usaid']
 
  ## FUTO
  - [https://wiki.futo.org](https://wiki.futo.org)
@@ -108,7 +108,7 @@
  ## 'Lords of the Fallen' CEO BANNED By Reddit Mods
  - [https://www.youtube.com/watch?v=nPj6pOAYlWM](https://www.youtube.com/watch?v=nPj6pOAYlWM)
  - date_published: 2025-02-08T01:00:00+00:00
- - tags: ['moderation', 'reddit', 'censorship']
+ - tags: ['censorship', 'moderation', 'reddit']
 
  ## Strategia migracyjna. Powstanie 49 Centrów Integracji Cudzoziemców. Są już nowe informacje o lokalizacjach CIC, w różnych regionach Polski
  - [https://www.infor.pl/prawo/nowosci-prawne/6737746,strategia-migracyjna-powstanie-49-centrow-integracji-cudzoziemcow-sa.html](https://www.infor.pl/prawo/nowosci-prawne/6737746,strategia-migracyjna-powstanie-49-centrow-integracji-cudzoziemcow-sa.html)
@@ -123,12 +123,12 @@
  ## The UK’s war on encryption affects all of us
  - [https://www.theverge.com/policy/612136/uk-icloud-investigatory-powers-act-war-on-encryption](https://www.theverge.com/policy/612136/uk-icloud-investigatory-powers-act-war-on-encryption)
  - date_published: 2025-02-13T13:37:40+00:00
- - tags: ['technofeudalism', 'surveillance', 'privacy', 'crypto wars']
+ - tags: ['crypto wars', 'privacy', 'surveillance', 'technofeudalism']
 
  ## Zimbabwean paedophile allowed to stay in UK because he would face ‘hostility’ back home
  - [https://www.telegraph.co.uk/news/2025/02/14/zimbabwean-paedophile-allowed-to-stay-in-uk](https://www.telegraph.co.uk/news/2025/02/14/zimbabwean-paedophile-allowed-to-stay-in-uk)
  - date_published: 2025-02-14T10:08:31+00:00
- - tags: ['paedophilia', 'immigration']
+ - tags: ['immigration', 'paedophilia']
 
  ## Sabine Hossenfelder – I was asked to keep this confidential [video]
  - [https://www.youtube.com/watch?v=shFUDPqVmTg](https://www.youtube.com/watch?v=shFUDPqVmTg)
@@ -138,7 +138,7 @@
  ## Revealed: Google facilitated Russia and China’s censorship requests
  - [https://www.theguardian.com/world/2025/feb/15/google-helped-facilitate-russia-china-censorship-requests](https://www.theguardian.com/world/2025/feb/15/google-helped-facilitate-russia-china-censorship-requests)
  - date_published: 2025-02-15T18:18:52+00:00
- - tags: ['google', 'corporations', 'russia', 'china', 'billionaires']
+ - tags: ['billionaires', 'china', 'corporations', 'google', 'russia']
 
  ## National Security Study Memorandum 200 - Wikipedia
  - [https://en.wikipedia.org/wiki/National_Security_Study_Memorandum_200](https://en.wikipedia.org/wiki/National_Security_Study_Memorandum_200)
@@ -158,7 +158,7 @@
  ## Democracy in crisis: Trust in democratic institutions declining around the world
  - [https://phys.org/news/2025-02-democracy-crisis-democratic-declining-world.html](https://phys.org/news/2025-02-democracy-crisis-democratic-declining-world.html)
  - date_published: 2025-02-19T14:57:33+00:00
- - tags: ['plutocracy', 'billionaires', 'democracy']
+ - tags: ['billionaires', 'democracy', 'plutocracy']
 
  ## HP adds 15 minutes waiting time for telephone support calls
  - [https://www.theregister.com/2025/02/20/hp_deliberately_adds_15_minutes](https://www.theregister.com/2025/02/20/hp_deliberately_adds_15_minutes)
@@ -168,12 +168,12 @@
  ## Why is YouTube boosting anti-US, pro-Chinese communist propaganda?
  - [https://thehill.com/opinion/international/5155350-youtube-promoting-pro-china](https://thehill.com/opinion/international/5155350-youtube-promoting-pro-china)
  - date_published: 2025-02-21T12:00:00+00:00
- - tags: ['corporatocracy', 'china']
+ - tags: ['china', 'corporatocracy']
 
  ## Apple pulls data protection feature in UK amid government demands
  - [https://www.reuters.com/technology/apple-removing-end-to-end-cloud-encryption-feature-uk-bloomberg-news-reports-2025-02-21](https://www.reuters.com/technology/apple-removing-end-to-end-cloud-encryption-feature-uk-bloomberg-news-reports-2025-02-21)
  - date_published: 2025-02-22T08:21:09+00:00
- - tags: ['surveillance', 'privacy', 'crypto wars']
+ - tags: ['crypto wars', 'privacy', 'surveillance']
 
  ## Warren Buffett amasses more cash and sells more stock, but doesn’t explain why in annual letter
  - [https://www.nbcnews.com/business/warren-buffet-berkshire-hathaway-annual-shareholder-letter-rcna193311](https://www.nbcnews.com/business/warren-buffet-berkshire-hathaway-annual-shareholder-letter-rcna193311)
@@ -182,7 +182,7 @@
  ## Algorithms are breaking how we think
  - [https://www.youtube.com/watch?v=QEJpZjg8GuA](https://www.youtube.com/watch?v=QEJpZjg8GuA)
  - date_published: 2025-02-22T17:04:13+00:00
- - tags: ['digital dementia', 'technology', 'algorithms']
+ - tags: ['algorithms', 'digital dementia', 'technology']
 
  ## FBI allegedly deleting Jeffrey Epstein records—whistleblower speaks out | The Express Tribune
  - [https://tribune.com.pk/story/2530745/fbi-allegedly-deleting-jeffrey-epstein-recordswhistleblower-speaks-out](https://tribune.com.pk/story/2530745/fbi-allegedly-deleting-jeffrey-epstein-recordswhistleblower-speaks-out)
@@ -192,7 +192,7 @@
  ## A new Android feature is scanning your photos for 'sensitive content' - how to stop it
  - [https://www.zdnet.com/article/a-new-android-feature-is-scanning-your-photos-for-sensitive-content-how-to-stop-it](https://www.zdnet.com/article/a-new-android-feature-is-scanning-your-photos-for-sensitive-content-how-to-stop-it)
  - date_published: 2025-02-25T17:10:00+00:00
- - tags: ['technofeudalism', 'google', 'privacy', 'surveillance']
+ - tags: ['google', 'privacy', 'surveillance', 'technofeudalism']
 
  ## Former OpenAI board member tells all about Altman’s ousting
  - [https://www.cio.com/article/2130365/former-openai-board-member-tells-all-about-altmans-ousting.html](https://www.cio.com/article/2130365/former-openai-board-member-tells-all-about-altmans-ousting.html)
@@ -217,7 +217,7 @@
  ## Technology isn't fun anymore
  - [https://www.youtube.com/watch?v=P-TANCVoHlc](https://www.youtube.com/watch?v=P-TANCVoHlc)
  - date_published: 2025-02-28T21:14:50+00:00
- - tags: ['technology', 'enshittification']
+ - tags: ['enshittification', 'technology']
 
  ## How Google tracks Android device users before they've even opened an app
  - [https://www.theregister.com/2025/03/04/google_android](https://www.theregister.com/2025/03/04/google_android)
@@ -237,7 +237,7 @@
  ## Half of world’s CO2 emissions come from 36 fossil fuel firms, study shows
  - [https://www.theguardian.com/environment/2025/mar/05/half-of-worlds-co2-emissions-come-from-36-fossil-fuel-firms-study-shows](https://www.theguardian.com/environment/2025/mar/05/half-of-worlds-co2-emissions-come-from-36-fossil-fuel-firms-study-shows)
  - date_published: 2025-03-05T05:01:16+00:00
- - tags: ['climate change', 'corporatocracy', 'co2']
+ - tags: ['climate change', 'co2', 'corporatocracy']
 
  ## State of The Dead Internet
  - [https://www.youtube.com/watch?v=GELgKl_Wow8](https://www.youtube.com/watch?v=GELgKl_Wow8)
@@ -247,12 +247,12 @@
  ## Gender stereotypes are often accurate but vary in magnitude depending on the criterion
  - [https://www.psypost.org/gender-stereotypes-are-often-accurate-but-vary-in-magnitude-depending-on-the-criterion](https://www.psypost.org/gender-stereotypes-are-often-accurate-but-vary-in-magnitude-depending-on-the-criterion)
  - date_published: 2025-03-08T17:30:33+00:00
- - tags: ['stereotypes', 'gender']
+ - tags: ['gender', 'stereotypes']
 
  ## Whistleblower Alleges Meta Was Ready to Censor Content for Chinese Government
  - [https://gizmodo.com/whistleblower-alleges-meta-was-ready-to-censor-content-for-chinese-government-2000573582](https://gizmodo.com/whistleblower-alleges-meta-was-ready-to-censor-content-for-chinese-government-2000573582)
  - date_published: 2025-03-09T18:15:33+00:00
- - tags: ['privacy', 'dark design', 'corporatocracy', 'surveillance', 'censorship']
+ - tags: ['censorship', 'corporatocracy', 'dark design', 'privacy', 'surveillance']
 
  ## Tennessee law on banning books is forcing teachers to avoid teaching classics out of fear
  - [https://eu.tennessean.com/story/opinion/contributors/2023/10/24/tennessee-law-book-banning-general-assembly-public-school-teachers/71156417007](https://eu.tennessean.com/story/opinion/contributors/2023/10/24/tennessee-law-book-banning-general-assembly-public-school-teachers/71156417007)
@@ -272,7 +272,7 @@
  ## Facebook ‘worked hand in glove’ with China on censor tools, claims ex-director
  - [https://www.bbc.com/news/articles/cly820v99ppo](https://www.bbc.com/news/articles/cly820v99ppo)
  - date_published: 2025-03-10T22:30:05+00:00
- - tags: ['censorship', 'facebook', 'censorship', 'china', 'facebook']
+ - tags: ['censorship', 'censorship', 'china', 'facebook', 'facebook']
 
  ## USAID staff told to shred and burn classified documents
  - [https://www.bbc.com/news/articles/cjw2yywy3x7o](https://www.bbc.com/news/articles/cjw2yywy3x7o)
@@ -301,5 +301,10 @@
  ## We Were Badly Misled About Covid
  - [https://www.nytimes.com/2025/03/16/opinion/covid-pandemic-lab-leak.html](https://www.nytimes.com/2025/03/16/opinion/covid-pandemic-lab-leak.html)
  - date_published: 2025-03-16T10:00:14+00:00
- - tags: ['lab leak', 'wuhan', 'covid']
+ - tags: ['covid', 'lab leak', 'wuhan']
+
+ ## I won't connect my dishwasher to your stupid cloud
+ - [https://www.jeffgeerling.com/blog/2025/i-wont-connect-my-dishwasher-your-stupid-cloud](https://www.jeffgeerling.com/blog/2025/i-wont-connect-my-dishwasher-your-stupid-cloud)
+ - date_published: 2025-03-24T16:47:52+00:00
+ - tags: ['technofeudalism']
 

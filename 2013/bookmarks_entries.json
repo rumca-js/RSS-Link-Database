@@ -47,9 +47,9 @@
         "source_url": "https://en.wikipedia.org",
         "status_code": 200,
         "tags": [
-            "unix",
+            "linux",
             "programming",
-            "linux"
+            "unix"
         ],
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ken_Thompson_and_Dennis_Ritchie--1973.jpg",
         "title": "Unix philosophy",
@@ -160,8 +160,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCL2541NFu1nt_ioa-0rzwmw",
         "status_code": 200,
         "tags": [
-            "music",
-            "chiptune"
+            "chiptune",
+            "music"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/nFp_2eJlfYg/maxresdefault.webp",
         "title": "Most awesome 8-bit song ever, now in HD",
@@ -188,8 +188,8 @@
         "source_url": "https://arstechnica.com",
         "status_code": 200,
         "tags": [
-            "pacer",
-            "aaron swartz"
+            "aaron swartz",
+            "pacer"
         ],
         "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2013/02/aaron-wall.jpg",
         "title": "The inside story of Aaron Swartz\u2019s campaign to liberate court filings | Ars Technica",
@@ -216,8 +216,8 @@
         "source_url": "https://www.theverge.com",
         "status_code": 200,
         "tags": [
-            "pacer",
-            "aaron swartz"
+            "aaron swartz",
+            "pacer"
         ],
         "thumbnail": "https://cdn.vox-cdn.com/thumbor/CcY8mXBu9T2dU3k0dmrjcwEHxmU=/0x0:942x628/1200x628/filters:focal(471x314:472x315)/cdn.vox-cdn.com/uploads/chorus_asset/file/14231709/Swartz_Memorial_Program_-_Verge.1419979270.jpg",
         "title": "Aaron Swartz's battle to free the PACER legal document database - The Verge",
@@ -244,12 +244,12 @@
         "source_url": "https://www.gadgets360.com",
         "status_code": 200,
         "tags": [
-            "technofeudalism",
+            "anonymity",
             "google",
-            "surveillance",
-            "privacy",
             "play store",
-            "anonymity"
+            "privacy",
+            "surveillance",
+            "technofeudalism"
         ],
         "thumbnail": "https://cdn.ndtv.com/tech/images/gadgets/google-play-logo.jpg",
         "title": "Google Play Store policy raises privacy concerns",
@@ -276,8 +276,8 @@
         "source_url": "http://www.samolotypasazerskie.pl",
         "status_code": 200,
         "tags": [
-            "global warming",
-            "climate change"
+            "climate change",
+            "global warming"
         ],
         "thumbnail": null,
         "title": "Samoloty pasa\u00bferskie zu\u00bfywaj\u00b1 na pasa\u00bfera mniej ni\u00bf 4 litry na 100 km",
@@ -305,8 +305,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3ScyryU9Oy9Wse3a8OAmYQ",
         "status_code": 200,
         "tags": [
-            "wall street",
-            "blackrock"
+            "blackrock",
+            "wall street"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/B4TWN54KqfQ/maxresdefault.webp",
         "title": "The Untouchables (full documentary) | FRONTLINE",
@@ -333,8 +333,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQnWIt2N1hnWszI2d-j-6Aw",
         "status_code": 200,
         "tags": [
-            "music",
-            "chiptune"
+            "chiptune",
+            "music"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/kEBW8A3bw-Q/maxresdefault.webp",
         "title": "Amiga Music: Jester Compilation #1",
@@ -361,10 +361,10 @@
         "source_url": "https://www.consumerreports.org",
         "status_code": 200,
         "tags": [
-            "technofeudalism",
+            "corporatocracy",
             "privacy",
             "surveillance",
-            "corporatocracy"
+            "technofeudalism"
         ],
         "thumbnail": "https://article.images.consumerreports.org/f_auto/prod/content/dam/cro/news_articles/SS_Stores_that_spy",
         "title": "How Stores Spy on You - Consumer Reports",
@@ -391,10 +391,10 @@
         "source_url": "https://arstechnica.com",
         "status_code": 200,
         "tags": [
-            "twitter",
-            "surveillance",
+            "antisemitism",
             "privacy",
-            "antisemitism"
+            "surveillance",
+            "twitter"
         ],
         "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480.png",
         "title": "Twitter sued for $50 million for refusing to reveal anti-semites",
@@ -421,9 +421,9 @@
         "source_url": "https://www.theguardian.com",
         "status_code": 200,
         "tags": [
-            "government",
-            "france",
             "censorship",
+            "france",
+            "government",
             "wikipedia"
         ],
         "thumbnail": "https://i.guim.co.uk/img/static/sys-images/Guardian/About/General/2013/4/7/1365344064456/Various---Jan-2010-010.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTMucG5n&enable=upscale&s=6349e2f74bea1672426e2cc925167b25",
@@ -451,8 +451,8 @@
         "source_url": "https://www.themainewire.com",
         "status_code": 200,
         "tags": [
-            "justin trudeau",
-            "canada"
+            "canada",
+            "justin trudeau"
         ],
         "thumbnail": "https://www.themainewire.com/wp-content/uploads/2022/02/Justin_Trudeau_2021-e1645539811299.jpeg",
         "title": "Justin Trudeau said he admired China\u2019s dictatorship. Canadians should have believed him - The Maine Wire",
@@ -479,10 +479,10 @@
         "source_url": "https://c-fam.org",
         "status_code": 200,
         "tags": [
-            "paedophilia",
+            "daniel cohn-bendit",
             "lgbt",
-            "the left wing",
-            "daniel cohn-bendit"
+            "paedophilia",
+            "the left wing"
         ],
         "thumbnail": "http://upload.wikimedia.org/wikipedia/commons/c/cf/Dany-Cohn-Bendit-2.jpg",
         "title": "Daniel Cohn-Bendit and the 1968 Revolution: Paedophilia as Part of their Political Agenda",
@@ -509,12 +509,12 @@
         "source_url": "https://archive.nytimes.com",
         "status_code": 200,
         "tags": [
-            "crypto wars",
-            "encryption",
             "anonymity",
             "big brother",
-            "surveillance",
-            "privacy"
+            "crypto wars",
+            "encryption",
+            "privacy",
+            "surveillance"
         ],
         "thumbnail": "https://static01.nyt.com/images/2013/09/05/us/documents-reveal-nsa-campaign-against-encryption-promo/documents-reveal-nsa-campaign-against-encryption-promo-superJumbo.png",
         "title": "Documents Reveal N.S.A. Campaign Against Encryption - Document - NYTimes.com",
@@ -542,8 +542,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJKt_QVDyUbqdm3ag_py2eQ",
         "status_code": 200,
         "tags": [
-            "music",
-            "chiptune"
+            "chiptune",
+            "music"
         ],
         "thumbnail": "https://i.ytimg.com/vi_webp/mc1KWRllaI4/maxresdefault.webp",
         "title": "Amiga music: Yo! Joe! (compilation - Dolby Headphone)",
@@ -625,9 +625,9 @@
         "source_url": "https://worldcrunch.com",
         "status_code": 403,
         "tags": [
-            "paedophilia",
             "germany",
             "lgbt",
+            "paedophilia",
             "the left wing"
         ],
         "thumbnail": null,
@@ -655,10 +655,10 @@
         "source_url": "https://www.eff.org",
         "status_code": 200,
         "tags": [
-            "internet",
-            "web30",
             "drm",
-            "eff"
+            "eff",
+            "internet",
+            "web30"
         ],
         "thumbnail": "https://www.eff.org/files/eff-pr-og.png",
         "title": "EFF Makes Formal Objection to DRM in HTML5 | Electronic Frontier Foundation",
@@ -685,10 +685,10 @@
         "source_url": "https://en.m.wikipedia.org",
         "status_code": 200,
         "tags": [
-            "surveillance",
             "edward snowden",
-            "gchq",
             "england",
+            "gchq",
+            "surveillance",
             "tempora"
         ],
         "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/GCHQ-aerial.jpg/1200px-GCHQ-aerial.jpg",
@@ -716,13 +716,13 @@
         "source_url": "http://www.marketoracle.co.uk",
         "status_code": 200,
         "tags": [
-            "big brother",
             "backdoor",
+            "big brother",
+            "dark design",
             "nsa",
-            "windows",
             "privacy",
             "surveillance",
-            "dark design"
+            "windows"
         ],
         "thumbnail": null,
         "title": "NSA Built Back Door In All Microsoft Windows Software Since 1999 :: The Market Oracle ::",
@@ -776,10 +776,10 @@
         "source_url": "https://www.bloomberg.com",
         "status_code": 200,
         "tags": [
-            "nsa",
-            "manufacturing consent",
             "big brother",
-            "big tech"
+            "big tech",
+            "manufacturing consent",
+            "nsa"
         ],
         "thumbnail": "https://assets.bwbx.io/s3/lightsaber/_next/static/media/social-tech.9caebdd1.jpg",
         "title": "U.S. Agencies Said to Swap Intelligence With Thousands of Firms",
@@ -807,10 +807,10 @@
         "source_url": "http://rss.cnn.com/rss/edition.rss",
         "status_code": 200,
         "tags": [
-            "espionage",
             "big brother",
-            "surveillance",
-            "edward snowden"
+            "edward snowden",
+            "espionage",
+            "surveillance"
         ],
         "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/111107014832-g20-world-leaders.jpg?q=x_0,y_293,h_1793,w_3188,c_crop/w_800",
         "title": "Snowden leak: Britain spied on allies at G-20 summit",
@@ -837,9 +837,9 @@
         "source_url": "https://www.theguardian.com",
         "status_code": 200,
         "tags": [
+            "big brother",
             "big tech",
             "edward snowden",
-            "big brother",
             "surveillance"
         ],
         "thumbnail": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2013/6/16/1371408775664/GCHQ-composite-002.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTMucG5n&enable=upscale&s=ba3ab60a52c1d393c3eceef2ef4bbb3f",
@@ -867,9 +867,9 @@
         "source_url": "https://web.archive.org",
         "status_code": 200,
         "tags": [
-            "nsa",
-            "edward snowden",
             "big brother",
+            "edward snowden",
+            "nsa",
             "surveillance"
         ],
         "thumbnail": "https://web.archive.org/web/20130622044225im_/http://blogs.idg.co.uk/mt-static/support/assets_c/userpics/userpic-87-100x100.png",
@@ -897,11 +897,11 @@
         "source_url": "https://www.forbes.com",
         "status_code": 200,
         "tags": [
-            "microsoft",
-            "big tech",
             "big brother",
-            "privacy",
+            "big tech",
+            "microsoft",
             "nsa",
+            "privacy",
             "skype",
             "surveillance"
         ],
@@ -931,9 +931,9 @@
         "status_code": 200,
         "tags": [
             "microsoft",
-            "windows",
             "privacy",
-            "surveillance"
+            "surveillance",
+            "windows"
         ],
         "thumbnail": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
         "title": "A look at the black underbelly of Windows 8.1 'Blue' | InfoWorld",
@@ -960,9 +960,9 @@
         "source_url": "micahflee.com",
         "status_code": 200,
         "tags": [
-            "wifi",
+            "google",
             "security",
-            "google"
+            "wifi"
         ],
         "thumbnail": null,
         "title": "Use Android? You\u2019re Probably Giving Google All Your Wifi Passwords",
@@ -989,13 +989,13 @@
         "source_url": "https://www.theguardian.com",
         "status_code": 200,
         "tags": [
-            "microsoft",
-            "big tech",
-            "manufacturing consent",
             "backdoor",
             "big brother",
-            "privacy",
-            "nsa"
+            "big tech",
+            "manufacturing consent",
+            "microsoft",
+            "nsa",
+            "privacy"
         ],
         "thumbnail": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2013/7/11/1373561606107/Skype-logo-008.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTMucG5n&enable=upscale&s=277c80d07bcde017fd818e6a1573143e",
         "title": "Microsoft handed the NSA access to encrypted messages | NSA | The Guardian",
@@ -1022,10 +1022,10 @@
         "source_url": "https://www.nytimes.com",
         "status_code": 403,
         "tags": [
-            "technofeudalism",
+            "corporatocracy",
             "privacy",
             "surveillance",
-            "corporatocracy"
+            "technofeudalism"
         ],
         "thumbnail": "https://static01.nyt.com/images/2013/05/05/business/video-retailnext-surveillance/video-retailnext-surveillance-articleLarge.jpg?year=2013&h=338&w=600&s=dfc20c8f7804de40be44ee2a3403cf28a029e9f86d2ca8cce42f7dd49a99b68a&k=ZQJBKqZ0VN",
         "title": "Attention, Shoppers: Store Is Tracking Your Cell - The New York Times",
@@ -1052,8 +1052,8 @@
         "source_url": "https://www.theatlantic.com",
         "status_code": 200,
         "tags": [
-            "surveillance",
-            "nsa"
+            "nsa",
+            "surveillance"
         ],
         "thumbnail": null,
         "title": "The Creepy, Long-Standing Practice of Undersea Cable Tapping - The Atlantic",
@@ -1134,8 +1134,8 @@
         "source_url": "https://www.rp.pl",
         "status_code": 200,
         "tags": [
-            "manufacturing consent",
             "big pharma",
+            "manufacturing consent",
             "pfizer"
         ],
         "thumbnail": "https://i.gremicdn.pl/image/free/befbca9fb0e2b6dbf16a59ce7f952236/?t=resize:fill:1200:750,enlarge:1",
@@ -1164,8 +1164,8 @@
         "status_code": 200,
         "tags": [
             "big brother",
-            "privacy",
             "nsa",
+            "privacy",
             "surveillance"
         ],
         "thumbnail": "https://www.businessinsider.com/public/assets/logos/og-image-logo-social.png?v=2023-11",
@@ -1221,9 +1221,9 @@
         "status_code": 200,
         "tags": [
             "security",
-            "windows",
             "tpm",
-            "vulnerability"
+            "vulnerability",
+            "windows"
         ],
         "thumbnail": null,
         "title": "Germany warns: You just CAN'T TRUST some Windows 8 PCs \u2022 The Register",
@@ -1250,10 +1250,10 @@
         "source_url": "https://www.nytimes.com",
         "status_code": 403,
         "tags": [
-            "crypto wars",
-            "encryption",
             "anonymity",
             "big brother",
+            "crypto wars",
+            "encryption",
             "privacy"
         ],
         "thumbnail": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png?year=2013",
@@ -1281,10 +1281,10 @@
         "source_url": "https://www.reuters.com",
         "status_code": 200,
         "tags": [
-            "disinformation",
             "china",
-            "spreading rumors",
-            "misinformation"
+            "disinformation",
+            "misinformation",
+            "spreading rumors"
         ],
         "thumbnail": "https://www.reuters.com/resizer/v2/https%3A%2F%2Farchive-images.prod.global.a201836.reutersmedia.net%2F2013%2F09%2F09%2FCDEE9880SPQ00.JPG?auth=90ad34d01374bf92bcb3cc3bdac9d4aa15786d774ba41ca4bcd41112d00d9fcb&height=1005&width=1920&quality=80&smart=true",
         "title": "China threatens tough punishment for online rumour spreading",
@@ -1311,12 +1311,12 @@
         "source_url": "https://arstechnica.com",
         "status_code": 200,
         "tags": [
-            "crypto wars",
-            "encryption",
             "anonymity",
             "big brother",
-            "surveillance",
-            "privacy"
+            "crypto wars",
+            "encryption",
+            "privacy",
+            "surveillance"
         ],
         "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480.png",
         "title": "New York Times provides new details about NSA backdoor in crypto spec | Ars Technica",
@@ -1343,11 +1343,11 @@
         "source_url": "www.computerworld.com",
         "status_code": 200,
         "tags": [
-            "privacy",
-            "corporatocracy",
             "big tech",
-            "wifi",
-            "google"
+            "corporatocracy",
+            "google",
+            "privacy",
+            "wifi"
         ],
         "thumbnail": "https://www.computerworld.com/wp-content/uploads/2024/08/1496628-0-27230800-1725041022-shutterstock_50897122.jpg?quality=50&strip=all&w=1024",
         "title": "Google knows nearly every Wi-Fi password in the world",
@@ -1401,9 +1401,9 @@
         "source_url": "https://www.reuters.com",
         "status_code": 200,
         "tags": [
-            "sexism",
             "feminism",
-            "norway"
+            "norway",
+            "sexism"
         ],
         "thumbnail": "https://www.reuters.com/resizer/v2/https%3A%2F%2Farchive-images.prod.global.a201836.reutersmedia.net%2F2013%2F09%2F30%2FCBRE98T14EY00.JPG?auth=f60a1871af18b1baf5606c070ee55e1a7c2f336899c8b2451606e1887ea63d79&height=1005&width=1920&quality=80&smart=true",
         "title": "Norway's gender quota law has made boards more professional: state fund boss | Reuters",
@@ -1430,8 +1430,8 @@
         "source_url": "https://pch24.pl",
         "status_code": 200,
         "tags": [
-            "green",
-            "germany"
+            "germany",
+            "green"
         ],
         "thumbnail": "https://pch24.pl/wp-content/uploads/2013/10/18379.jpg",
         "title": "Kierownik biura Zielonych w areszcie za pedofili\u0119",
@@ -1458,11 +1458,11 @@
         "source_url": "",
         "status_code": 200,
         "tags": [
-            "yahoo",
             "cloud storage",
-            "nsa",
+            "edward snowden",
             "google",
-            "edward snowden"
+            "nsa",
+            "yahoo"
         ],
         "thumbnail": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/L5HVLVSBPQI6HMBI32JC26R7I4&w=1440",
         "title": "NSA infiltrates links to Yahoo, Google data centers worldwide, Snowden documents say",
@@ -1489,9 +1489,9 @@
         "source_url": "https://www.justice.gov",
         "status_code": 200,
         "tags": [
+            "big pharma",
             "johnson and johnson",
-            "medical scandal",
-            "big pharma"
+            "medical scandal"
         ],
         "thumbnail": "https://www.justice.gov/themes/custom/usdoj_uswds/images/metatag-image--press-release.png",
         "title": "Johnson & Johnson to Pay More Than $2.2 Billion to Resolve Criminal and Civil Investigations | OPA | Department of Justice",
@@ -1545,12 +1545,12 @@
         "source_url": "https://falkvinge.net",
         "status_code": 200,
         "tags": [
+            "backdoor",
             "linus torvalds",
-            "vulnerability",
-            "nsa",
             "linux",
+            "nsa",
             "surveillance",
-            "backdoor"
+            "vulnerability"
         ],
         "thumbnail": "https://falkvinge.net/wp-content/uploads/2016/12/Falkvinge-blog-icon.png",
         "title": "NSA Asked Linus Torvalds To Install Backdoors Into GNU/Linux \u2013 Falkvinge on Liberty",
@@ -1577,10 +1577,10 @@
         "source_url": "https://www.zdnet.com",
         "status_code": 200,
         "tags": [
-            "nsa",
+            "espionage",
             "five eyes",
-            "surveillance",
-            "espionage"
+            "nsa",
+            "surveillance"
         ],
         "thumbnail": "https://www.zdnet.com/a/img/resize/9310c83cedcd0933467da75b4df762fcc17aa44d/2013/11/15/8dcc90e1-1d16-11e4-8c7f-00505685119a/eoy-03-nsajournos.jpg?auto=webp&fit=crop&height=675&width=1200",
         "title": "NSA spies on its own 'Five-Eyes' spy partners",
@@ -1607,8 +1607,8 @@
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBpH9uGYnjck8xHuD3xH1qQ",
         "status_code": 200,
         "tags": [
-            "movies",
-            "fountain"
+            "fountain",
+            "movies"
         ],
         "thumbnail": "https://i.ytimg.com/vi/MdzlCZ69APc/maxresdefault.jpg",
         "title": "The Fountain Explained - A Theory/Explanation on the Plot of The Fountain",
@@ -1692,13 +1692,13 @@
         "source_url": "https://www.reuters.com",
         "status_code": 200,
         "tags": [
+            "big brother",
             "crypto wars",
             "encryption",
-            "nsa",
-            "big brother",
             "manufacturing consent",
-            "surveillance",
-            "privacy"
+            "nsa",
+            "privacy",
+            "surveillance"
         ],
         "thumbnail": "https://www.reuters.com/resizer/v2/https%3A%2F%2Farchive-images.prod.global.a201836.reutersmedia.net%2F2013%2F12%2F21%2FCBRE9BJ1PGI00.JPG?auth=e6acf3b651501f4b07e088b787fc4ef5cf6fa599a50d60c73e7d32e693e23850&height=1005&width=1920&quality=80&smart=true",
         "title": "Exclusive: Secret contract tied NSA and security industry pioneer | Reuters",
@@ -1725,9 +1725,9 @@
         "source_url": "https://www.theverge.com/2013/12/20/5231006/nsa-paid-10-million-for-a-back-door-into-rsa-encryption-according-to",
         "status_code": 200,
         "tags": [
-            "privacy",
             "big brother",
             "nsa",
+            "privacy",
             "surveillance"
         ],
         "thumbnail": "https://cdn.vox-cdn.com/thumbor/JA7jCzfnaeYRLbNbuA96DTGy6zQ=/0x0:640x427/1200x628/filters:focal(320x213:321x214)/cdn.vox-cdn.com/uploads/chorus_asset/file/14567085/code.1419980188.jpg",
@@ -1812,11 +1812,11 @@
         "source_url": "https://www.alternet.org",
         "status_code": 200,
         "tags": [
-            "technofeudalism",
-            "google",
-            "surveillance",
             "gmail",
-            "privacy"
+            "google",
+            "privacy",
+            "surveillance",
+            "technofeudalism"
         ],
         "thumbnail": "https://www.alternet.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yMzU1MTQ4MC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc1MjE4NTI4MX0.4h_EejxZSRjU1qJ_IfTZGIInskymq8FdSrvGGlxU0zw/image.jpg?width=210",
         "title": "The Psychological Dark Side of Gmail",
