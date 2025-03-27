@@ -259,6 +259,11 @@
  - date_published: 2025-03-10T10:03:59+00:00
  - tags: ['fahrenheit 453']
 
+ ## ECB Targets October to Finish Digital Euro Preparation Phase
+ - [https://www.coindesk.com/policy/2025/03/10/ecb-targets-october-launch-for-digital-euro-but-lawmakers-raise-concerns](https://www.coindesk.com/policy/2025/03/10/ecb-targets-october-launch-for-digital-euro-but-lawmakers-raise-concerns)
+ - date_published: 2025-03-10T15:02:05+00:00
+ - tags: ['cbdc', 'digital euro', 'digital money']
+
  ## The 48 Laws of Power - Wikipedia
  - [https://en.wikipedia.org/wiki/The_48_Laws_of_Power](https://en.wikipedia.org/wiki/The_48_Laws_of_Power)
  - date_published: 2025-03-10T15:41:26+00:00

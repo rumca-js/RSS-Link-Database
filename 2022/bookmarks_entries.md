@@ -675,6 +675,7 @@
  - [https://www.bizpacreview.com/2022/02/05/beginning-of-the-end-gofundme-faces-avalanche-of-backlash-after-yanking-freedom-convoy-campaign-1197369](https://www.bizpacreview.com/2022/02/05/beginning-of-the-end-gofundme-faces-avalanche-of-backlash-after-yanking-freedom-convoy-campaign-1197369)
  - date_published: 2022-02-05T06:41:16+00:00
  - tags: ['censorship', 'covid', 'gofundme', 'protest']
+ - date_dead_since: 2025-03-26T15:14:07.014028+00:00
 
  ## Jan-Piet Mens :: A shell command to create JSON: jo
  - [https://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo](https://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo)
@@ -736,6 +737,7 @@
  - [https://tvn24.pl/swiat/kanada-ottawa-stan-wyjatkowy-i-protesty-przeciwko-obowiazkowym-szczepieniom-i-obostrzeniom-5588250](https://tvn24.pl/swiat/kanada-ottawa-stan-wyjatkowy-i-protesty-przeciwko-obowiazkowym-szczepieniom-i-obostrzeniom-5588250)
  - date_published: 2022-02-07T06:53:49+00:00
  - tags: ['canada', 'covid', 'freedom convoy']
+ - date_dead_since: 2025-03-26T12:11:11.459244+00:00
 
  ## Pegasus, czyli jak Kaczyński zrobił idiotów z premiera, ministra i rzecznika OKO.press - OKO.press
  - [https://oko.press/pegasus-czyli-jak-kaczynski-zrobil-idiotow-z-premiera-ministrow-i-rzecznika](https://oko.press/pegasus-czyli-jak-kaczynski-zrobil-idiotow-z-premiera-ministrow-i-rzecznika)
@@ -749,6 +751,7 @@
  ## Why I Quit Shopify After Five Months | The Blog of Josh Simmons
  - [https://www.joshcsimmons.com/posts/why-i-quit-shopify](https://www.joshcsimmons.com/posts/why-i-quit-shopify)
  - date_published: 2022-02-07T18:38:06.692482+00:00
+ - date_dead_since: 2025-03-26T11:26:56.703406+00:00
 
  ## Thank you, Valve | Alejandro AR (kinduff)
  - [https://kinduff.com/2022/02/06/thank-you-valve](https://kinduff.com/2022/02/06/thank-you-valve)
@@ -917,6 +920,7 @@
  - [https://news.ycombinator.com/item?id=30347719](https://news.ycombinator.com/item?id=30347719)
  - date_published: 2022-02-15T16:25:01+00:00
  - tags: ['search engines']
+ - date_dead_since: 2025-03-26T05:58:00.453209+00:00
 
  ## Tech exec used access to White House computers to look for dirt on Trump, says special counsel
  - [https://www.nbcnews.com/politics/justice-department/tech-exec-used-access-white-house-computers-look-dirt-trump-says-speci-rcna16123](https://www.nbcnews.com/politics/justice-department/tech-exec-used-access-white-house-computers-look-dirt-trump-says-speci-rcna16123)
@@ -961,6 +965,7 @@
  ## Reddit can’t build a better search engine - Rukshan's Blog
  - [https://ruky.me/2022/02/17/reddit-can-build-a-better-search-engine](https://ruky.me/2022/02/17/reddit-can-build-a-better-search-engine)
  - date_published: 2022-02-18T09:42:22.048954+00:00
+ - date_dead_since: 2025-03-26T04:21:14.157476+00:00
 
  ## The Unreasonable Math of Type 1 Diabetes | by Graham Jenson | Feb, 2022 | Maori Geek
  - [https://maori.geek.nz/the-unreasonable-math-of-type-1-diabetes-8c96bdf5b7fb](https://maori.geek.nz/the-unreasonable-math-of-type-1-diabetes-8c96bdf5b7fb)
@@ -970,7 +975,6 @@
  - [https://www.theatlantic.com/magazine/archive/2018/12/the-sex-recession/573949](https://www.theatlantic.com/magazine/archive/2018/12/the-sex-recession/573949)
  - date_published: 2022-02-18T17:13:45.878789+00:00
  - tags: ['psychology', 'sociology']
- - date_dead_since: 2024-10-20T05:39:27.196222+00:00
 
  ## The United States of Amazon: The Day Amazon Sent the FBI to Take My Family’s Bank Accounts | by Amy Nelson | Feb, 2022 | Medium
  - [https://medium.com/@amy_riveter/the-united-states-of-amazon-the-day-amazon-sent-the-fbi-to-take-my-familys-bank-accounts-b5172b4ddda3](https://medium.com/@amy_riveter/the-united-states-of-amazon-the-day-amazon-sent-the-fbi-to-take-my-familys-bank-accounts-b5172b4ddda3)
