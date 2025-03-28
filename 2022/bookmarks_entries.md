@@ -58,6 +58,7 @@
  ## You don't need that CORS request - Nick Olinger
  - [https://nickolinger.com/blog/2021-08-04-you-dont-need-that-cors-request](https://nickolinger.com/blog/2021-08-04-you-dont-need-that-cors-request)
  - date_published: 2022-01-04T07:17:57.342918+00:00
+ - date_dead_since: 2025-03-27T22:23:31.686546+00:00
 
  ## Crypto is fully banned in China and 8 other countries | Fortune
  - [https://fortune.com/2022/01/04/crypto-banned-china-other-countries](https://fortune.com/2022/01/04/crypto-banned-china-other-countries)
@@ -202,7 +203,6 @@
  - [https://techcrunch.com/2022/01/11/poland-nso-pegasus-election/?guccounter=1&guce_referrer=aHR0cHM6Ly9kdWNrZHVja2dvLmNvbS8&guce_referrer_sig=AQAAAKq49IJbpghhJ1BYRvLZm4BVzGYHzXqXpEKtfr4DOB8F629_WzMknNK_KAUCv8tdlnLRzuLhdZeHukMYtaernN8xhgWY23P-PZ8q4KVwbKSbIakkt4UFlJu3-p3q8FP597PyofN-FjVW2oJY7kWG8pMPWwt7hCJmL0_Jkdeer9_X](https://techcrunch.com/2022/01/11/poland-nso-pegasus-election/?guccounter=1&guce_referrer=aHR0cHM6Ly9kdWNrZHVja2dvLmNvbS8&guce_referrer_sig=AQAAAKq49IJbpghhJ1BYRvLZm4BVzGYHzXqXpEKtfr4DOB8F629_WzMknNK_KAUCv8tdlnLRzuLhdZeHukMYtaernN8xhgWY23P-PZ8q4KVwbKSbIakkt4UFlJu3-p3q8FP597PyofN-FjVW2oJY7kWG8pMPWwt7hCJmL0_Jkdeer9_X)
  - date_published: 2022-01-11T18:14:03+00:00
  - tags: ['big brother', 'poland', 'spyware', 'surveillance']
- - date_dead_since: 2024-10-20T17:19:12.241056+00:00
 
  ## Prof. Horban o małopolskiej kurator oświaty: powinna zostać zdymisjonowana - Puls Medycyny - pulsmedycyny.pl
  - [https://pulsmedycyny.pl/prof-horban-o-malopolskiej-kurator-oswiaty-powinna-zostac-zdymisjonowana-1138380](https://pulsmedycyny.pl/prof-horban-o-malopolskiej-kurator-oswiaty-powinna-zostac-zdymisjonowana-1138380)
@@ -271,6 +271,7 @@
  - [https://www.anewseducation.com/post/transgender-healthcare-in-the-uk](https://www.anewseducation.com/post/transgender-healthcare-in-the-uk)
  - date_published: 2022-01-13T21:03:00.249337+00:00
  - tags: ['england', 'gender', 'the left wing', 'transgender']
+ - date_dead_since: 2025-03-27T07:40:38.937260+00:00
 
  ## Making Your Game Go Fast by Asking Windows Nicely | Anthropic Studios
  - [https://www.anthropicstudios.com/2022/01/13/asking-windows-nicely](https://www.anthropicstudios.com/2022/01/13/asking-windows-nicely)
