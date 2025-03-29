@@ -965,6 +965,11 @@
  - date_published: 2024-07-09T12:58:30+00:00
  - tags: ['airbnb', 'privacy', 'surveillance']
 
+ ## “Gay Furry Hackers” Claim Credit for Hacking Heritage Foundation Files Over Project 2025
+ - [https://theintercept.com/2024/07/09/gay-furry-hackers-claim-credit-for-hacking-heritage-foundation-over-project-2025](https://theintercept.com/2024/07/09/gay-furry-hackers-claim-credit-for-hacking-heritage-foundation-over-project-2025)
+ - date_published: 2024-07-09T17:01:41+00:00
+ - tags: ['project 2025']
+
  ## Tesla reportedly optimizes its self-driving software for Elon Musk and EV influencers.
  - [https://www.theverge.com/2024/7/9/24195060/tesla-reportedly-optimizes-its-self-driving-software-for-musk-and-ev-influencers](https://www.theverge.com/2024/7/9/24195060/tesla-reportedly-optimizes-its-self-driving-software-for-musk-and-ev-influencers)
  - date_published: 2024-07-09T17:54:04+00:00

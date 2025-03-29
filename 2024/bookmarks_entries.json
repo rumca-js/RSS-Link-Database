@@ -5554,6 +5554,33 @@
         "vote": 0
     },
     {
+        "age": 0,
+        "album": null,
+        "author": "Shawn Musgrave",
+        "bookmarked": true,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2024-07-09T17:01:41+00:00",
+        "description": "Hacker collective SiegedSec says it infiltrated Heritage Foundation to oppose its campaign against trans rights detailed in the Project 2025 manifesto.",
+        "id": 2433168,
+        "language": "en-US",
+        "link": "https://theintercept.com/2024/07/09/gay-furry-hackers-claim-credit-for-hacking-heritage-foundation-over-project-2025",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "project 2025"
+        ],
+        "thumbnail": "https://theintercept.com/wp-content/uploads/2024/07/GettyImages-1434768243.jpg?fit=3984%2C2656&w=1200&h=800",
+        "title": "\u201cGay Furry Hackers\u201d Claim Credit for Hacking Heritage Foundation Files Over Project 2025",
+        "vote": 0
+    },
+    {
         "age": null,
         "album": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/23966628/the_verge_social_share.png",
         "author": null,

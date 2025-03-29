@@ -3959,6 +3959,7 @@
  - [https://www.pokoleniex.com/swiat/2021/12/14/pierwsze-poufne-dokumenty-pfizera-ujawnione-z-nakazu-sadowego](https://www.pokoleniex.com/swiat/2021/12/14/pierwsze-poufne-dokumenty-pfizera-ujawnione-z-nakazu-sadowego)
  - date_published: 2021-12-14T07:05:12+00:00
  - tags: ['big pharma', 'covid', 'pfizer', 'vaccine']
+ - date_dead_since: 2025-03-28T22:16:04.512926+00:00
 
  ## Politician says Germany should ban Telegram unless it tackles extremist content
  - [https://news.yahoo.com/politician-says-germany-ban-telegram-182425996.html](https://news.yahoo.com/politician-says-germany-ban-telegram-182425996.html)
@@ -4195,7 +4196,6 @@
  ## Italian Courts Find Open Source Software Terms Enforceable | If This Be Treason
  - [http://ifthisbetreason.com/2021/12/italian-courts-find-open-source-software-terms-enforceable](http://ifthisbetreason.com/2021/12/italian-courts-find-open-source-software-terms-enforceable)
  - date_published: 2021-12-28T10:19:20.123970+00:00
- - date_dead_since: 2024-10-20T23:38:57.989688+00:00
 
  ## Brute-forcing 22 trillion parameters in AoC 2021-24
  - [https://www.mattkeeter.com/blog/2021-12-27-brute](https://www.mattkeeter.com/blog/2021-12-27-brute)
