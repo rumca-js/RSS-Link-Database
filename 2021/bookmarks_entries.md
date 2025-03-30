@@ -3168,7 +3168,6 @@
  ## Beej's Guide to C Programming
  - [https://beej.us/guide/bgc/html/split/goto.html](https://beej.us/guide/bgc/html/split/goto.html)
  - date_published: 2021-10-22T13:45:17+00:00
- - date_dead_since: 2024-10-21T17:10:07.846810+00:00
 
  ## You Don't Need a Library for File Walking in Go | Kablamo Engineering Blog
  - [https://engineering.kablamo.com.au/posts/2021/quick-comparison-between-go-file-walk-implementations](https://engineering.kablamo.com.au/posts/2021/quick-comparison-between-go-file-walk-implementations)
@@ -3598,10 +3597,12 @@
  ## Weird English | National Review
  - [https://www.nationalreview.com/magazine/2021/11/29/weird-english](https://www.nationalreview.com/magazine/2021/11/29/weird-english)
  - date_published: 2021-11-18T10:52:51.747083+00:00
+ - date_dead_since: 2025-03-29T09:53:14.337310+00:00
 
  ## Yes, PHP is Worth Learning/Using in $CURRENT_YEAR | Bulletproof PHP
  - [https://bulletproofphp.dev/yes-php-is-worth-using](https://bulletproofphp.dev/yes-php-is-worth-using)
  - date_published: 2021-11-18T11:49:01.091318+00:00
+ - date_dead_since: 2025-03-29T09:42:02.016645+00:00
 
  ## Understanding why our build got 15x slower with Webpack 5 - Tines Engineering
  - [https://engineering.tines.com/blog/understanding-why-our-build-got-15x-slower-with-webpack](https://engineering.tines.com/blog/understanding-why-our-build-got-15x-slower-with-webpack)
@@ -3680,6 +3681,7 @@
  - [https://www.nytimes.com/2021/11/19/world/europe/austria-covid-vaccine-mandate-lockdown.html](https://www.nytimes.com/2021/11/19/world/europe/austria-covid-vaccine-mandate-lockdown.html)
  - date_published: 2021-11-23T20:52:49+00:00
  - tags: ['covid', 'covid mandates', 'vaccine']
+ - date_dead_since: 2025-03-29T07:23:15.607417+00:00
 
  ## Assemblyman Pat Burke proposing bill to allow insurance to deny COVID treatment coverage for unvaccinated
  - [https://www.wkbw.com/news/local-news/assemblyman-pat-burke-proposing-bill-to-allow-insurance-to-deny-covid-treatment-coverage-for-unvaccinated](https://www.wkbw.com/news/local-news/assemblyman-pat-burke-proposing-bill-to-allow-insurance-to-deny-covid-treatment-coverage-for-unvaccinated)
@@ -3804,6 +3806,7 @@
  - [https://frankspeech.com/article/media-bias-around-kyle-rittenhouse-case](https://frankspeech.com/article/media-bias-around-kyle-rittenhouse-case)
  - date_published: 2021-11-30T08:13:09+00:00
  - tags: ['black lives matter', 'blm', 'inequality', 'kyle rittenhouse', 'media bias']
+ - date_dead_since: 2025-03-29T03:16:03.047851+00:00
 
  ## Ask HN: Has Google search become quantitatively worse? | Hacker News
  - [https://news.ycombinator.com/item?id=29392702](https://news.ycombinator.com/item?id=29392702)
