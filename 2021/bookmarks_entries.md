@@ -2444,6 +2444,7 @@
  - [https://thefederalist.com/2021/09/08/national-archives-issues-harmful-content-warning-on-constitution-all-other-founding-documents](https://thefederalist.com/2021/09/08/national-archives-issues-harmful-content-warning-on-constitution-all-other-founding-documents)
  - date_published: 2021-09-08T20:04:51+00:00
  - tags: ['big brother', 'censorship', 'history', 'ministry of truth', 'racism', 'sexism']
+ - date_dead_since: 2025-03-30T21:11:54.980749+00:00
 
  ## 20 years after 9/11: Will we ever stop taking off our shoes at airports? – Orange County Register
  - [https://www.ocregister.com/2021/09/07/20-years-after-9-11-will-we-ever-stop-taking-our-shoes-off-at-airports](https://www.ocregister.com/2021/09/07/20-years-after-9-11-will-we-ever-stop-taking-our-shoes-off-at-airports)
@@ -2833,6 +2834,7 @@
  - [https://www.newswars.com/tim-pool-permanently-banned-by-tiktok-likely-due-to-hosting-alex-jones-who-broke-no-rules](https://www.newswars.com/tim-pool-permanently-banned-by-tiktok-likely-due-to-hosting-alex-jones-who-broke-no-rules)
  - date_published: 2021-10-06T12:04:50+00:00
  - tags: ['deplatform', 'tiktok', 'tim pool']
+ - date_dead_since: 2025-03-30T10:42:04.897451+00:00
 
  ## Canada imposes COVID-19 vaccine mandate on federal workers, transportation | Reuters
  - [https://www.reuters.com/world/americas/unvaccinated-federal-workers-canada-will-be-put-unpaid-leave-globe-mail-2021-10-06](https://www.reuters.com/world/americas/unvaccinated-federal-workers-canada-will-be-put-unpaid-leave-globe-mail-2021-10-06)
@@ -2970,7 +2972,6 @@
  ## China Makes Sure Everyone Writes Taiwan’s Name Just So—Even a Colorado High School - WSJ
  - [https://www.wsj.com/articles/china-makes-sure-everyone-writes-taiwans-name-just-soeven-a-colorado-high-school-11631304386](https://www.wsj.com/articles/china-makes-sure-everyone-writes-taiwans-name-just-soeven-a-colorado-high-school-11631304386)
  - date_published: 2021-10-12T13:40:13.303657+00:00
- - date_dead_since: 2024-10-21T20:59:37.307669+00:00
 
  ## Magpie Driven Development (MDD) - Niche Software
  - [http://www.nichesoftware.co.nz/2021/07/10/magpie-driven-development.html](http://www.nichesoftware.co.nz/2021/07/10/magpie-driven-development.html)
@@ -2985,7 +2986,6 @@
  - [https://www.reuters.com/investigates/special-report/amazon-india-rigging](https://www.reuters.com/investigates/special-report/amazon-india-rigging)
  - date_published: 2021-10-13T08:03:21+00:00
  - tags: ['algorithms', 'amazon', 'corporatocracy', 'search engines', 'technofeudalism']
- - date_dead_since: 2024-10-21T20:03:40.397832+00:00
 
  ## Media, Cognitive Warfare and One World Government Social Engineering
  - [https://icdt.ir/en/media-cognitive-warfare-and-one-world-government-social-engineering](https://icdt.ir/en/media-cognitive-warfare-and-one-world-government-social-engineering)
