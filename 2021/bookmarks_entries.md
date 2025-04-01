@@ -2116,6 +2116,7 @@
  ## Should Your Web History Impact Your Credit Score? The IMF Thinks So - ExtremeTech
  - [https://www.extremetech.com/internet/326088-should-your-web-history-impact-your-credit-score-the-imf-thinks-so](https://www.extremetech.com/internet/326088-should-your-web-history-impact-your-credit-score-the-imf-thinks-so)
  - date_published: 2021-08-23T11:06:41.185776+00:00
+ - date_dead_since: 2025-03-31T11:47:48.766551+00:00
 
  ## Cancel Me: John Cleese to present Channel 4 show on ‘woke’ thought | John Cleese | The Guardian
  - [https://www.theguardian.com/culture/2021/aug/24/cancel-me-john-cleese-to-present-channel-4-show-on-woke-thought](https://www.theguardian.com/culture/2021/aug/24/cancel-me-john-cleese-to-present-channel-4-show-on-woke-thought)
@@ -2171,6 +2172,7 @@
  ## Waypoint - The official Waymo blog: Welcoming our first riders in San Francisco
  - [https://blog.waymo.com/2021/08/welcoming-our-first-riders-in-san.html](https://blog.waymo.com/2021/08/welcoming-our-first-riders-in-san.html)
  - date_published: 2021-08-25T10:17:28+00:00
+ - date_dead_since: 2025-03-31T08:19:33.333612+00:00
 
  ## Samsung Supports Retailers Affected By Looting With Innovative Television Block Function – Samsung Newsroom South Africa
  - [https://news.samsung.com/za/samsung-supports-retailers-affected-by-looting-with-innovative-television-block-function](https://news.samsung.com/za/samsung-supports-retailers-affected-by-looting-with-innovative-television-block-function)
