@@ -313,3 +313,8 @@
  - date_published: 2025-03-24T16:47:52+00:00
  - tags: ['technofeudalism']
 
+ ## Millions of UK tyres meant for recycling sent to furnaces in India
+ - [https://www.bbc.com/news/articles/c14jy2dd8jeo](https://www.bbc.com/news/articles/c14jy2dd8jeo)
+ - date_published: 2025-03-25T06:04:07+00:00
+ - tags: ['climate change']
+

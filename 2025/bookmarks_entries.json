@@ -1801,5 +1801,33 @@
         "thumbnail": null,
         "title": "I won't connect my dishwasher to your stupid cloud",
         "vote": 0
+    },
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-25T06:04:07+00:00",
+        "description": "The illegal makeshift plants cause serious health problems and huge environmental damage.",
+        "id": 2400637,
+        "language": "en-US",
+        "link": "https://www.bbc.com/news/articles/c14jy2dd8jeo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 27,
+        "source_url": "https://feeds.bbci.co.uk/news/rss.xml",
+        "status_code": 0,
+        "tags": [
+            "climate change"
+        ],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea29/live/a2085870-08c9-11f0-bd8a-514f22c23b84.jpg",
+        "title": "Millions of UK tyres meant for recycling sent to furnaces in India",
+        "vote": 0
     }
 ]

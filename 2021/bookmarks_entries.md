@@ -1349,6 +1349,7 @@
  - [https://www.politico.com/news/2021/07/09/poll-covid-wuhan-lab-leak-498847](https://www.politico.com/news/2021/07/09/poll-covid-wuhan-lab-leak-498847)
  - date_published: 2021-07-09T19:35:21+00:00
  - tags: ['covid', 'lab leak', 'wuhan']
+ - date_dead_since: 2025-04-01T23:39:33.835424+00:00
 
  ## Zostałem szczepionkowym rasistą. „Ludzie w pełni zaszczepieni powinni mieć specjalne przywileje”
  - [https://www.wprost.pl/kraj/10467413/zostalem-szczepionkowym-rasista-zaszczepieni-powinni-miec-przywileje.html](https://www.wprost.pl/kraj/10467413/zostalem-szczepionkowym-rasista-zaszczepieni-powinni-miec-przywileje.html)
@@ -1691,7 +1692,6 @@
  - [https://www.cbc.ca/news/politics/hate-speech-bill-c36-1.6077606](https://www.cbc.ca/news/politics/hate-speech-bill-c36-1.6077606)
  - date_published: 2021-07-23T16:36:52+00:00
  - tags: ['bill c-36', 'canada', 'free speech', 'government control', 'hate speech']
- - date_dead_since: 2024-10-22T19:10:25.957528+00:00
 
  ## Building Business Applications in Go - Three Dots Labs
  - [https://goingwithgo.com/2021/07/building-business-applications-in-golang-three-dots-labs](https://goingwithgo.com/2021/07/building-business-applications-in-golang-three-dots-labs)
@@ -1701,13 +1701,11 @@
  ## Interesting Go Memory Issue | Ben E. C. Boyter
  - [https://boyter.org/posts/interesting-go-memory-issue](https://boyter.org/posts/interesting-go-memory-issue)
  - date_published: 2021-07-23T23:14:57.704275+00:00
- - date_dead_since: 2024-10-22T19:09:28.455088+00:00
 
  ## Australia Covid: Arrests at anti-lockdown protests
  - [https://www.bbc.co.uk/news/world-australia-57952516](https://www.bbc.co.uk/news/world-australia-57952516)
  - date_published: 2021-07-24T07:02:04+00:00
  - tags: ['australia', 'covid', 'lockdown']
- - date_dead_since: 2024-10-22T19:08:14.424191+00:00
 
  ## AWS’s Egregious Egress
  - [https://blog.cloudflare.com/aws-egregious-egress](https://blog.cloudflare.com/aws-egregious-egress)
@@ -1716,7 +1714,6 @@
  ## How Empty Storefronts Are Killing Our Neighbourhoods | The Walrus
  - [https://thewalrus.ca/how-empty-storefronts-are-killing-our-neighbourhoods](https://thewalrus.ca/how-empty-storefronts-are-killing-our-neighbourhoods)
  - date_published: 2021-07-25T09:07:54.057963+00:00
- - date_dead_since: 2024-10-22T19:07:03.522773+00:00
 
  ## Google pushed a one-character typo to production, bricking Chrome OS devices | Ars Technica
  - [https://arstechnica.com/gadgets/2021/07/google-pushed-a-one-character-typo-to-production-bricking-chrome-os-devices](https://arstechnica.com/gadgets/2021/07/google-pushed-a-one-character-typo-to-production-bricking-chrome-os-devices)
@@ -1792,6 +1789,7 @@
  - [https://biznes.trojmiasto.pl/Ponad-750-mln-zl-wydane-na-energetyke-jadrowa-Elektrowni-brak-n158212.html](https://biznes.trojmiasto.pl/Ponad-750-mln-zl-wydane-na-energetyke-jadrowa-Elektrowni-brak-n158212.html)
  - date_published: 2021-07-28T14:38:59+00:00
  - tags: ['atom', 'climate change', 'climate drama', 'poland']
+ - date_dead_since: 2025-04-01T02:59:33.348144+00:00
 
  ## Streets of Philadelphia, Kensington Avenue, What’s going on Monday, July 26 2021.
  - [https://www.youtube.com/watch?v=YB6gwOBClwE](https://www.youtube.com/watch?v=YB6gwOBClwE)
