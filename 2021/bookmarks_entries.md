@@ -1237,7 +1237,6 @@
  - [https://techcrunch.com/2020/11/11/google-cuts-back-on-its-free-storage-get-ready-to-pay-up/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAACdLcrCWM2hkskLPBjz6O0aLKgR7zzifHK646vqnhzHMh7oPzacUJpv2rga3iBuuEWs6JtqVwz2EypbE6t283SMwj1JrBP_4ERvFENTEAuT8J6I6XKueZHtmSDfzezgeM87A-7E7PPSM6O8zhavQ6tf3fIcGJX44bDOcX3l3BSqj](https://techcrunch.com/2020/11/11/google-cuts-back-on-its-free-storage-get-ready-to-pay-up/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAACdLcrCWM2hkskLPBjz6O0aLKgR7zzifHK646vqnhzHMh7oPzacUJpv2rga3iBuuEWs6JtqVwz2EypbE6t283SMwj1JrBP_4ERvFENTEAuT8J6I6XKueZHtmSDfzezgeM87A-7E7PPSM6O8zhavQ6tf3fIcGJX44bDOcX3l3BSqj)
  - date_published: 2021-06-24T12:04:50+00:00
  - tags: ['google', 'subscription', 'technofeudalism']
- - date_dead_since: 2024-10-23T03:24:26.076062+00:00
 
  ## Pfizer, Moderna COVID-19 vaccines will get label warning over rare heart risk, FDA says
  - [https://www.fiercepharma.com/pharma/fda-says-label-warning-coming-for-heart-inflammation-pfizer-bnt-moderna-covid-19-vaccines](https://www.fiercepharma.com/pharma/fda-says-label-warning-coming-for-heart-inflammation-pfizer-bnt-moderna-covid-19-vaccines)
@@ -1268,6 +1267,7 @@
  - [https://www.nationalreview.com/news/washington-post-corrects-year-old-article-calling-lab-leak-theory-debunked](https://www.nationalreview.com/news/washington-post-corrects-year-old-article-calling-lab-leak-theory-debunked)
  - date_published: 2021-06-26T19:37:50+00:00
  - tags: ['censorship', 'covid', 'ministry of truth', 'misinformation', 'wuhan']
+ - date_dead_since: 2025-04-02T20:28:10.357541+00:00
 
  ## COVID-19 vaccine generates immune structures critical for lasting immunity – Washington University School of Medicine in St. Louis
  - [https://medicine.wustl.edu/news/covid-19-vaccine-generates-immune-structures-critical-for-lasting-immunity](https://medicine.wustl.edu/news/covid-19-vaccine-generates-immune-structures-critical-for-lasting-immunity)

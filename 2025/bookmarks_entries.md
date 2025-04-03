@@ -318,3 +318,8 @@
  - date_published: 2025-03-25T06:04:07+00:00
  - tags: ['climate change']
 
+ ## SOUTH KOREA IS OVER
+ - [https://www.youtube.com/watch?v=Ufmu1WD2TSk](https://www.youtube.com/watch?v=Ufmu1WD2TSk)
+ - date_published: 2025-04-02T14:00:03+00:00
+ - tags: ['depopulation', 'population']
+
