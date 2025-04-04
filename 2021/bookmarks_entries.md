@@ -226,6 +226,7 @@
  - [https://tekdeeps.com/bill-gates-will-spray-chemicals-in-the-atmosphere-in-june-using-thousands-of-planes-neews](https://tekdeeps.com/bill-gates-will-spray-chemicals-in-the-atmosphere-in-june-using-thousands-of-planes-neews)
  - date_published: 2021-01-29T12:54:21+00:00
  - tags: ['atmosphere', 'bill gates', 'climate change', 'sun-dimming']
+ - date_dead_since: 2025-04-03T14:03:59.379622+00:00
 
  ## Rząd nowelizuje ustawę o cyberbezpieczeństwie. Będzie mógł wyłączać serwisy internetowe bez uzasadnienia
  - [https://www.komputerswiat.pl/aktualnosci/internet/rzad-nowelizuje-ustawe-o-cyberbezpieczenstwie-bedzie-mogl-wylaczac-serwisy/wnhl9hg](https://www.komputerswiat.pl/aktualnosci/internet/rzad-nowelizuje-ustawe-o-cyberbezpieczenstwie-bedzie-mogl-wylaczac-serwisy/wnhl9hg)
@@ -578,7 +579,6 @@
  - [https://www.wsj.com/articles/if-you-sell-a-house-these-days-the-buyer-might-be-a-pension-fund-11617544801](https://www.wsj.com/articles/if-you-sell-a-house-these-days-the-buyer-might-be-a-pension-fund-11617544801)
  - date_published: 2021-04-04T10:42:23+00:00
  - tags: ['blackrock', 'housing market', 'wall street']
- - date_dead_since: 2024-10-23T13:44:26.326030+00:00
 
  ## Hundreds of Transgender California Inmates Request Transfers to Women's Prisons | National Review
  - [https://www.nationalreview.com/news/hundreds-of-transgender-california-inmates-request-transfers-to-womens-prisons](https://www.nationalreview.com/news/hundreds-of-transgender-california-inmates-request-transfers-to-womens-prisons)
@@ -619,6 +619,7 @@
  - [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3793804](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3793804)
  - date_published: 2021-04-12T07:18:11+00:00
  - tags: ['esg']
+ - date_dead_since: 2025-04-03T06:42:58.515605+00:00
 
  ## Boris Johnson is a creeping dictator – we need to stop him in his tracks
  - [https://metro.co.uk/2021/04/12/boris-johnson-is-a-creeping-dictator-we-need-to-stop-him-14382294/amp/?__twitter_impression=true](https://metro.co.uk/2021/04/12/boris-johnson-is-a-creeping-dictator-we-need-to-stop-him-14382294/amp/?__twitter_impression=true)
@@ -639,6 +640,7 @@
  - [https://nationalinterest.org/blog/coronavirus/why-did-johnson-johnson-vaccine-get-suspended-and-what-comes-next-182682](https://nationalinterest.org/blog/coronavirus/why-did-johnson-johnson-vaccine-get-suspended-and-what-comes-next-182682)
  - date_published: 2021-04-13T07:20:43+00:00
  - tags: ['big pharma', 'covid', 'johnson and johnson', 'vaccine']
+ - date_dead_since: 2025-04-03T06:30:23.448372+00:00
 
  ## Zaszczepieni preparatami mRNA bardziej podatni na inne warianty wirusa? Badania z Izraela niepokoją. Za wcześnie na picie szampana
  - [https://wpolityce.pl/spoleczenstwo/546883-badania-z-izraela-niepokoja-za-wczesnie-na-picie-szampana](https://wpolityce.pl/spoleczenstwo/546883-badania-z-izraela-niepokoja-za-wczesnie-na-picie-szampana)
@@ -848,7 +850,6 @@
  - [https://www.wsj.com/articles/amazon-apple-wireless-networks-sidewalk-find-my-11620397704?st=jcvbx2bc04mmaz3&reflink=article_copyURL_share](https://www.wsj.com/articles/amazon-apple-wireless-networks-sidewalk-find-my-11620397704?st=jcvbx2bc04mmaz3&reflink=article_copyURL_share)
  - date_published: 2021-05-07T17:16:14+00:00
  - tags: ['amazon', 'apple', 'sidewalk', 'surveillance']
- - date_dead_since: 2024-10-23T09:30:25.027910+00:00
 
  ## EU signs deal with Pfizer for up to 1.8 billion COVID vaccine doses
  - [https://nypost.com/2021/05/08/eu-signs-deal-with-pfizer-for-up-to-1-8b-covid-vaccine-doses](https://nypost.com/2021/05/08/eu-signs-deal-with-pfizer-for-up-to-1-8b-covid-vaccine-doses)
@@ -909,7 +910,6 @@
  - [https://thehill.com/homenews/sunday-talk-shows/553773-fauci-vaccinated-people-become-dead-ends-for-the-coronavirus](https://thehill.com/homenews/sunday-talk-shows/553773-fauci-vaccinated-people-become-dead-ends-for-the-coronavirus)
  - date_published: 2021-05-16T09:06:10+00:00
  - tags: ['anthony fauci', 'covid', 'transmission']
- - date_dead_since: 2024-10-23T08:53:00.345709+00:00
 
  ## Fauci: the vaccinated stop viral transmission, no need for masks
  - [https://totalityofevidence.com/timeline/fauci-the-vaccinated-stop-viral-transmission](https://totalityofevidence.com/timeline/fauci-the-vaccinated-stop-viral-transmission)
@@ -944,7 +944,6 @@
  - [https://humansbefree.com/2021/05/bill-gates-and-jeffrey-epstein-traded-advice-on-bills-toxic-marriage-jeffs-pedo-image-rehab-during-secretive-mens-club-gatherings.html](https://humansbefree.com/2021/05/bill-gates-and-jeffrey-epstein-traded-advice-on-bills-toxic-marriage-jeffs-pedo-image-rehab-during-secretive-mens-club-gatherings.html)
  - date_published: 2021-05-17T10:23:41+00:00
  - tags: ['bill gates', 'jeffrey epstein']
- - date_dead_since: 2024-10-23T08:10:36.572231+00:00
 
  ## Bill Gates reportedly hoped Jeffrey Epstein would help him win a Nobel
  - [https://nypost.com/2021/05/18/bill-gates-hoped-epstein-would-help-him-win-a-nobel-report](https://nypost.com/2021/05/18/bill-gates-hoped-epstein-would-help-him-win-a-nobel-report)
@@ -1010,7 +1009,6 @@
  - [https://thehill.com/homenews/news/555657-facebook-reverses-policy-to-allow-posts-speculating-that-covid-19-was-made-in-a](https://thehill.com/homenews/news/555657-facebook-reverses-policy-to-allow-posts-speculating-that-covid-19-was-made-in-a)
  - date_published: 2021-05-26T19:36:37+00:00
  - tags: ['censorship', 'covid', 'facebook', 'lab leak', 'wuhan']
- - date_dead_since: 2024-10-23T07:16:13.742999+00:00
 
  ## Facebook lifts ban on posts claiming COVID-19 was man-made, amid revitalized origins debate - ABC News
  - [https://abcnews.go.com/Technology/facebook-lifts-ban-posts-claiming-covid-19-man/story?id=77931433](https://abcnews.go.com/Technology/facebook-lifts-ban-posts-claiming-covid-19-man/story?id=77931433)
