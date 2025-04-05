@@ -25,7 +25,6 @@
  - [https://thehill.com/changing-america/respect/diversity-inclusion/532518-house-introduces-gender-neutral-language-in-new](https://thehill.com/changing-america/respect/diversity-inclusion/532518-house-introduces-gender-neutral-language-in-new)
  - date_published: 2021-01-04T21:53:34+00:00
  - tags: ['gender', 'lgbt', 'newspeak', 'pronouns', 'social engineering', 'the left wing']
- - date_dead_since: 2024-10-23T23:36:57.870336+00:00
 
  ## Dead Internet Theory: Most of the Internet is Fake
  - [https://forum.agoraroad.com/index.php?threads/dead-internet-theory-most-of-the-internet-is-fake.3011](https://forum.agoraroad.com/index.php?threads/dead-internet-theory-most-of-the-internet-is-fake.3011)
@@ -41,7 +40,6 @@
  - [https://thehill.com/policy/technology/533204-trump-suspended-indefinitely-from-snapchat](https://thehill.com/policy/technology/533204-trump-suspended-indefinitely-from-snapchat)
  - date_published: 2021-01-07T15:02:24+00:00
  - tags: ['deplatform', 'donald trump', 'january 6', 'snapchat', 'the right wing']
- - date_dead_since: 2024-10-23T23:26:59.491082+00:00
 
  ## Known Antifa members posed as pro-Trump to infiltrate Capitol riot: sources
  - [https://nypost.com/2021/01/07/known-antifa-members-posed-as-pro-trump-to-infiltrate-capitol-riot-sources](https://nypost.com/2021/01/07/known-antifa-members-posed-as-pro-trump-to-infiltrate-capitol-riot-sources)
