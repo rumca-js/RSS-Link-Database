@@ -323,3 +323,8 @@
  - date_published: 2025-04-02T14:00:03+00:00
  - tags: ['depopulation', 'population']
 
+ ## Lazarus Group Targets Organizations with Sophisticated LinkedIn Recruiting Scam
+ - [https://www.bitdefender.com/en-us/blog/labs/lazarus-group-targets-organizations-with-sophisticated-linkedin-recruiting-scam](https://www.bitdefender.com/en-us/blog/labs/lazarus-group-targets-organizations-with-sophisticated-linkedin-recruiting-scam)
+ - date_published: 2025-04-05T07:28:48+00:00
+ - tags: ['lazarus']
+

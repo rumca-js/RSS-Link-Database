@@ -1858,5 +1858,32 @@
         "thumbnail": "https://i2.ytimg.com/vi/Ufmu1WD2TSk/hqdefault.jpg",
         "title": "SOUTH KOREA IS OVER",
         "vote": 0
+    },
+    {
+        "age": 0,
+        "album": null,
+        "author": "Ionut Alexandru BALTARIU",
+        "bookmarked": true,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-05T07:28:48+00:00",
+        "description": "Bitdefender Labs warns of an active campaign by the North Korea-linked Lazarus Group, targeting organizations by capturing credentials and delivering malware through fake LinkedIn job offers.",
+        "id": 2489093,
+        "language": "en-us",
+        "link": "https://www.bitdefender.com/en-us/blog/labs/lazarus-group-targets-organizations-with-sophisticated-linkedin-recruiting-scam",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "lazarus"
+        ],
+        "thumbnail": "https://blogapp.bitdefender.com/labs/content/images/2025/02/Lazarus-Group-Targets-Organizations-with-Sophisticated-LinkedIn-Recruiting-Scam.jpeg",
+        "title": "Lazarus Group Targets Organizations with Sophisticated LinkedIn Recruiting Scam",
+        "vote": 0
     }
 ]

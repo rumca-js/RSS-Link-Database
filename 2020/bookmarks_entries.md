@@ -589,7 +589,6 @@
  - [https://www.barrons.com/articles/blackrock-is-biggest-beneficiary-of-fed-purchases-of-corporate-bond-etfs-51591034726](https://www.barrons.com/articles/blackrock-is-biggest-beneficiary-of-fed-purchases-of-corporate-bond-etfs-51591034726)
  - date_published: 2020-06-20T16:50:04+00:00
  - tags: ['billionaires', 'blackrock', 'manufacturing consent']
- - date_dead_since: 2024-10-25T03:14:51.018372+00:00
 
  ## Why the Lawful Access to Encrypted Data Act is a Threat to your Privacy
  - [https://www.globalsign.com/en/blog/why-lawful-access-encrypted-data-act-threat-your-rights-and-privacy](https://www.globalsign.com/en/blog/why-lawful-access-encrypted-data-act-threat-your-rights-and-privacy)
@@ -610,7 +609,6 @@
  - [https://www.rp.pl/spoleczenstwo/art654161-eksperyment-kentlera-jak-w-niemczech-przekazywano-dzieci-pedofilom](https://www.rp.pl/spoleczenstwo/art654161-eksperyment-kentlera-jak-w-niemczech-przekazywano-dzieci-pedofilom)
  - date_published: 2020-06-26T07:32:08+00:00
  - tags: ['big brother', 'germany', 'government', 'kentler', 'paedophilia']
- - date_dead_since: 2024-10-25T03:09:31.793946+00:00
 
  ## Almost 300 Windows 10 executables vulnerable to DLL hijacking
  - [https://www.bleepingcomputer.com/news/security/almost-300-windows-10-executables-vulnerable-to-dll-hijacking](https://www.bleepingcomputer.com/news/security/almost-300-windows-10-executables-vulnerable-to-dll-hijacking)
@@ -641,7 +639,6 @@
  - [https://www.rt.com/op-ed/493295-stop-hate-advertising-extortion-astroturf](https://www.rt.com/op-ed/493295-stop-hate-advertising-extortion-astroturf)
  - date_published: 2020-06-29T12:14:35+00:00
  - tags: ['censorship', 'facebook', 'free speech', 'hate speech', 'hypocrisy', 'propaganda', 'stop hate for profit']
- - date_dead_since: 2024-10-25T02:23:47.015800+00:00
 
  ## Google's dreaded SafetyNet hardware check has been spotted in the wild
  - [https://www.androidpolice.com/2020/06/29/googles-dreaded-safetynet-hardware-check-has-been-spotted-in-the-wild](https://www.androidpolice.com/2020/06/29/googles-dreaded-safetynet-hardware-check-has-been-spotted-in-the-wild)
@@ -822,6 +819,7 @@
  - [https://www.washingtonexaminer.com/news/i-feel-like-i-need-to-buy-a-firearm-radio-host-who-mocked-trump-for-demanding-rioting-in-seattle-stop-sees-his-apartment-building-damaged](https://www.washingtonexaminer.com/news/i-feel-like-i-need-to-buy-a-firearm-radio-host-who-mocked-trump-for-demanding-rioting-in-seattle-stop-sees-his-apartment-building-damaged)
  - date_published: 2020-07-27T08:57:31+00:00
  - tags: ['black lives matter', 'prostests', 'the left wing']
+ - date_dead_since: 2025-04-05T14:22:45.460754+00:00
 
  ## Instagram podgląda użytkowników podczas przeglądania treści w portalu?
  - [https://ithardware.pl/aktualnosci/instagram_podglada_uzytkownikow_podczas_przegladania_tresci_w_portalu-12894.html](https://ithardware.pl/aktualnosci/instagram_podglada_uzytkownikow_podczas_przegladania_tresci_w_portalu-12894.html)
@@ -842,6 +840,7 @@
  - [https://independenttrader.pl/globalisci-planuja-wielki-reset.html](https://independenttrader.pl/globalisci-planuja-wielki-reset.html)
  - date_published: 2020-07-28T07:48:25+00:00
  - tags: ['elites', 'great reset', 'wef', 'world economic forum']
+ - date_dead_since: 2025-04-05T13:49:50.157049+00:00
 
  ## MacKenzie Scott donates $1.7bn since Amazon boss divorce - BBC News
  - [https://www.bbc.co.uk/news/business-53574954](https://www.bbc.co.uk/news/business-53574954)
@@ -910,6 +909,7 @@
  ## 400+ Qualcomm Chip Vulnerabilities Threaten Millions of Android Phones
  - [https://www.darkreading.com/vulnerabilities---threats/400+-qualcomm-chip-vulnerabilities-threaten-millions-of-android-phones/d/d-id/1338613](https://www.darkreading.com/vulnerabilities---threats/400+-qualcomm-chip-vulnerabilities-threaten-millions-of-android-phones/d/d-id/1338613)
  - date_published: 2020-08-07T06:43:11+00:00
+ - date_dead_since: 2025-04-05T11:52:00.350692+00:00
 
  ## Public School Teachers Openly Fear Parents Overhearing the Leftist Brainwashing During Virtual Classroom Sessions – RedState
  - [https://redstate.com/brandon_morse/2020/08/10/teachers-brainwash-n250658](https://redstate.com/brandon_morse/2020/08/10/teachers-brainwash-n250658)
@@ -1046,10 +1046,12 @@
  - [https://southfloridagaynews.com/National/california-acts-to-increase-lgbt-racial-diversity-on-corporate-boards.html](https://southfloridagaynews.com/National/california-acts-to-increase-lgbt-racial-diversity-on-corporate-boards.html)
  - date_published: 2020-09-02T21:12:40+00:00
  - tags: ['inequality', 'lgbt', 'socialism', 'the left wing']
+ - date_dead_since: 2025-04-05T07:22:24.547037+00:00
 
  ## Hedonism, Asceticism and the Hermetic Answer
  - [https://lukesmith.xyz/articles/hedonism-asceticism-and-the-hermetic-answer](https://lukesmith.xyz/articles/hedonism-asceticism-and-the-hermetic-answer)
  - date_published: 2020-09-03T00:00:00+00:00
+ - date_dead_since: 2025-04-05T07:02:37.893028+00:00
 
  ## Covid: Australian anti-lockdown suspect's arrest draws controversy - BBC News
  - [https://www.bbc.com/news/world-australia-54007824](https://www.bbc.com/news/world-australia-54007824)
@@ -1075,7 +1077,6 @@
  - [https://www.euronews.com/2020/07/09/norway-will-prioritise-lesbian-gay-bisexual-and-transgender-refugees](https://www.euronews.com/2020/07/09/norway-will-prioritise-lesbian-gay-bisexual-and-transgender-refugees)
  - date_published: 2020-09-07T21:01:23+00:00
  - tags: ['inequality', 'lgbt', 'norway', 'the left wing']
- - date_dead_since: 2024-10-24T17:15:06.746700+00:00
 
  ## 4Chan /x/ Board - Epstein's employee exposes all that happened (repost)
  - [https://www.youtube.com/watch?v=bLsCoqwpvCw](https://www.youtube.com/watch?v=bLsCoqwpvCw)
