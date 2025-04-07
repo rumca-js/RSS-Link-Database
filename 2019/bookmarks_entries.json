@@ -4252,7 +4252,7 @@
             "eyes wide shut",
             "jeffrey epstein"
         ],
-        "thumbnail": "https://lawliberty.org/app/uploads/2020/01/Eyes-Wide-Shut-e1567623170942.png",
+        "thumbnail": "https://lawliberty.org/app/uploads/2020/01/Eyes-Wide-Shut-e1567623170942-1060x530.png",
         "title": "Eyes Wide Shut and the Moral Bankruptcy of the American Elite",
         "vote": 0
     },
@@ -4520,7 +4520,7 @@
             "google",
             "hong kong"
         ],
-        "thumbnail": "https://cdn.vox-cdn.com/thumbor/FOc_SXYZCuPbJjjOPSfNv3cKsys=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/10801247/acastro_180508_1777_google_IO_0001.jpg",
+        "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/10801247/acastro_180508_1777_google_IO_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "Google pulls Hong Kong protest game for violating rules against \u2018capitalizing on sensitive events\u2019",
         "vote": 0
     },
@@ -5037,7 +5037,7 @@
         "link": "https://www.christianheadlines.com/contributors/mikaela-matthews/79-year-old-man-beat-on-new-york-subway-for-preaching-gospel.html",
         "manual_status_code": 0,
         "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating_contents": 85,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -5136,7 +5136,7 @@
             "technofeudalism",
             "youtube"
         ],
-        "thumbnail": "https://cdn.vox-cdn.com/thumbor/ZYagtGX7fNNwZQYcMHExoFKHYdo=/0x0:1200x800/1200x628/filters:focal(600x400:601x401)/cdn.vox-cdn.com/uploads/chorus_asset/file/16615540/youtube.jpg",
+        "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/16615540/youtube.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
         "title": "YouTube says it has \u2018no obligation\u2019 to host anyone\u2019s video",
         "vote": 0
     },
@@ -5284,7 +5284,7 @@
             "moderation",
             "search engines"
         ],
-        "thumbnail": "https://image.cnbcfm.com/api/v1/image/103991569-GettyImages-532157322.jpg?v=1573830563&w=1920&h=1080",
+        "thumbnail": "https://image.cnbcfm.com/api/v1/image/103991569-GettyImages-532157322.jpg?v=1738104958&w=1920&h=1080",
         "title": "Google regularly changes search results: WSJ",
         "vote": 0
     },
@@ -5361,18 +5361,18 @@
         "language": "en",
         "link": "https://fee.org/articles/solar-panels-produce-tons-of-toxic-waste-literally/?gclid=CjwKCAjw0ZiiBhBKEiwA4PT9z2w-UEr_2Ka1BOTL6i4t8buUedbYA_HVBJknXDuLgPTjlxTLkyWBPhoCIEIQAvD_BwE",
         "manual_status_code": 0,
-        "page_rating": 31,
-        "page_rating_contents": 87,
+        "page_rating": 32,
+        "page_rating_contents": 90,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://fee.org",
-        "status_code": 403,
+        "status_code": 200,
         "tags": [
             "climate change",
             "solar panels"
         ],
-        "thumbnail": null,
+        "thumbnail": "https://fee.org/wp-content/uploads/2023/12/solar-panels-1794467_1280.jpg",
         "title": "Solar Panels Produce Tons of Toxic Waste\u2014Literally - Foundation for Economic Education",
         "vote": 0
     },
@@ -5726,7 +5726,7 @@
             "lgbt",
             "new york"
         ],
-        "thumbnail": "https://cdn.christianpost.com/files/original/thumbnail/23/42/234247.jpg",
+        "thumbnail": "https://assets.christianpost.com/files/original/thumbnail/23/42/234247.jpg?v=1.2",
         "title": "New York public school rejects student Christian club, OKs LGBT Pride Club",
         "vote": 0
     },
@@ -5795,20 +5795,20 @@
         "author": null,
         "bookmarked": true,
         "comments": [],
-        "date_dead_since": null,
+        "date_dead_since": "2025-04-06T15:12:42.364602+00:00",
         "date_published": "2019-12-19T20:45:17+00:00",
         "description": "Opinion | Twelve Million Phones, One Dataset, Zero Privacy - The New York Times",
         "id": 37232,
         "language": "en",
         "link": "https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 0,
+        "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.nytimes.com",
-        "status_code": 200,
+        "status_code": 604,
         "tags": [
             "anonymity",
             "big brother",

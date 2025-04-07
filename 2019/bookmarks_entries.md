@@ -1007,6 +1007,7 @@
  - [https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html](https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html)
  - date_published: 2019-12-19T20:45:17+00:00
  - tags: ['anonymity', 'big brother', 'privacy', 'surveillance']
+ - date_dead_since: 2025-04-06T15:12:42.364602+00:00
 
  ## Fifteen years in Iowa jail for burning pride flag
  - [https://www.bbc.com/news/world-us-canada-50861259](https://www.bbc.com/news/world-us-canada-50861259)

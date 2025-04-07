@@ -244,6 +244,11 @@
  - date_published: 2025-03-06T11:40:32+00:00
  - tags: ['dead internet']
 
+ ## These Words Are Disappearing in the New Trump Administration
+ - [https://www.nytimes.com/interactive/2025/03/07/us/trump-federal-agencies-websites-words-dei.html](https://www.nytimes.com/interactive/2025/03/07/us/trump-federal-agencies-websites-words-dei.html)
+ - date_published: 2025-03-07T19:17:15+00:00
+ - tags: ['censorship', 'fahrenheit 451']
+
  ## Gender stereotypes are often accurate but vary in magnitude depending on the criterion
  - [https://www.psypost.org/gender-stereotypes-are-often-accurate-but-vary-in-magnitude-depending-on-the-criterion](https://www.psypost.org/gender-stereotypes-are-often-accurate-but-vary-in-magnitude-depending-on-the-criterion)
  - date_published: 2025-03-08T17:30:33+00:00
@@ -322,6 +327,11 @@
  - [https://www.youtube.com/watch?v=Ufmu1WD2TSk](https://www.youtube.com/watch?v=Ufmu1WD2TSk)
  - date_published: 2025-04-02T14:00:03+00:00
  - tags: ['depopulation', 'population']
+
+ ## EC admits ‘misuse’ and ‘undue lobbying activities’ in grant awards
+ - [https://brusselssignal.eu/2025/04/ec-admits-misuse-and-undue-lobbying-activities-in-grant-awards](https://brusselssignal.eu/2025/04/ec-admits-misuse-and-undue-lobbying-activities-in-grant-awards)
+ - date_published: 2025-04-02T16:32:18+00:00
+ - tags: ['climate change', 'lobbying']
 
  ## Lazarus Group Targets Organizations with Sophisticated LinkedIn Recruiting Scam
  - [https://www.bitdefender.com/en-us/blog/labs/lazarus-group-targets-organizations-with-sophisticated-linkedin-recruiting-scam](https://www.bitdefender.com/en-us/blog/labs/lazarus-group-targets-organizations-with-sophisticated-linkedin-recruiting-scam)

@@ -43,7 +43,6 @@
  - [https://www.wsj.com/articles/new-virus-discovered-by-chinese-scientists-investigating-pneumonia-outbreak-11578485668?mod=article_inline](https://www.wsj.com/articles/new-virus-discovered-by-chinese-scientists-investigating-pneumonia-outbreak-11578485668?mod=article_inline)
  - date_published: 2020-01-08T07:50:34+00:00
  - tags: ['covid', 'covid origins', 'fearmongering', 'lab leak']
- - date_dead_since: 2024-10-25T12:00:34.999921+00:00
 
  ## Ring Fired Employees for Watching Customer Videos
  - [https://www.vice.com/en/article/y3mdvk/ring-fired-employees-abusing-video-data](https://www.vice.com/en/article/y3mdvk/ring-fired-employees-abusing-video-data)
@@ -113,6 +112,7 @@
  - [https://mashable.com/article/facebook-will-remove-coronavirus-conspiracy-theories](https://mashable.com/article/facebook-will-remove-coronavirus-conspiracy-theories)
  - date_published: 2020-01-30T08:40:59+00:00
  - tags: ['censorship', 'covid', 'facebook', 'lab leak', 'moderation', 'wuhan']
+ - date_dead_since: 2025-04-06T11:40:48.673946+00:00
 
  ## Australia defends plan to create island quarantine camp | AP News
  - [https://apnews.com/c129280f6ab2a832908b8dcf4888364b](https://apnews.com/c129280f6ab2a832908b8dcf4888364b)
@@ -196,7 +196,6 @@
  - [https://humansbefree.com/2020/02/prince-andrew-peter-nygard.html](https://humansbefree.com/2020/02/prince-andrew-peter-nygard.html)
  - date_published: 2020-02-26T10:24:40+00:00
  - tags: ['paedophilia', 'peter nygard', 'prince andrew']
- - date_dead_since: 2024-10-25T08:45:36.294053+00:00
 
  ## Your smart speaker could be listening in on your conversations by accident
  - [https://www.techradar.com/news/your-smart-speaker-could-be-accidentally-listening-in-on-your-conversations](https://www.techradar.com/news/your-smart-speaker-could-be-accidentally-listening-in-on-your-conversations)
@@ -301,6 +300,7 @@
  - [https://www.ctvnews.ca/health/coronavirus/people-are-reporting-on-their-neighbours-over-covid-19-concerns-1.4872683](https://www.ctvnews.ca/health/coronavirus/people-are-reporting-on-their-neighbours-over-covid-19-concerns-1.4872683)
  - date_published: 2020-03-28T20:28:16+00:00
  - tags: ['canada', 'covid', 'snitch line']
+ - date_dead_since: 2025-04-06T06:25:32.876330+00:00
 
  ## Are You a Slave to your Software Knowledge?
  - [https://sagegerard.com/stop-learning-so-much.html](https://sagegerard.com/stop-learning-so-much.html)
@@ -347,6 +347,7 @@
  - [https://www.visualcapitalist.com/terms-of-service-visualizing-the-length-of-internet-agreements](https://www.visualcapitalist.com/terms-of-service-visualizing-the-length-of-internet-agreements)
  - date_published: 2020-04-18T05:35:32+00:00
  - tags: ['corporatocracy', 'eula', 'technofeudalism', 'terms of service']
+ - date_dead_since: 2025-04-06T05:16:37.022194+00:00
 
  ## Wuhan lab says there's no way coronavirus originated there. Here's the science.
  - [https://www.livescience.com/coronavirus-wuhan-lab-complicated-origins.html](https://www.livescience.com/coronavirus-wuhan-lab-complicated-origins.html)
@@ -362,6 +363,7 @@
  - [https://www.newswars.com/leaked-amazon-whole-foods-docs-workforce-diversity-helps-prevent-unions](https://www.newswars.com/leaked-amazon-whole-foods-docs-workforce-diversity-helps-prevent-unions)
  - date_published: 2020-04-24T06:12:13+00:00
  - tags: ['corporatocracy', 'diversity', 'hypocrisy', 'inclusion']
+ - date_dead_since: 2025-04-06T04:44:48.064446+00:00
 
  ## Dr. Fauci Backed Controversial Wuhan Lab with U.S. Dollars for Risky Coronavirus Research
  - [https://www.newsweek.com/dr-fauci-backed-controversial-wuhan-lab-millions-us-dollars-risky-coronavirus-research-1500741](https://www.newsweek.com/dr-fauci-backed-controversial-wuhan-lab-millions-us-dollars-risky-coronavirus-research-1500741)
@@ -416,7 +418,6 @@
  - [https://thehill.com/changing-america/well-being/longevity/497519-more-than-100000-small-businesses-have-permanently](https://thehill.com/changing-america/well-being/longevity/497519-more-than-100000-small-businesses-have-permanently)
  - date_published: 2020-05-13T20:41:10+00:00
  - tags: ['covid', 'lockdown']
- - date_dead_since: 2024-10-25T04:38:05.531918+00:00
 
  ## 6 Powermods Control 118/500 Top Subreddits
  - [https://www.reddit.com/r/everything/comments/gjgf1z/6_powermods_control_118500_top_subreddits](https://www.reddit.com/r/everything/comments/gjgf1z/6_powermods_control_118500_top_subreddits)
@@ -462,7 +463,6 @@
  - [https://drasticresearch.files.wordpress.com/2023/05/an-argument-against-natural-covid-19-creation-copy-2.pdf](https://drasticresearch.files.wordpress.com/2023/05/an-argument-against-natural-covid-19-creation-copy-2.pdf)
  - date_published: 2020-05-26T14:16:40+00:00
  - tags: ['covid', 'lab leak', 'wuhan']
- - date_dead_since: 2024-10-25T03:48:46.058945+00:00
 
  ## Study: Up to 80% of COVID-19 Infections Are Asymptomatic | Time
  - [https://time.com/5842669/coronavirus-asymptomatic-transmission](https://time.com/5842669/coronavirus-asymptomatic-transmission)
