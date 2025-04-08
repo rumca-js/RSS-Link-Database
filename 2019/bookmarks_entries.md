@@ -76,7 +76,6 @@
  - [https://nypost.com/2019/01/31/john-of-god-cult-leader-allegedly-ran-child-sex-slave-farm](https://nypost.com/2019/01/31/john-of-god-cult-leader-allegedly-ran-child-sex-slave-farm)
  - date_published: 2019-01-31T11:29:14+00:00
  - tags: ['brazil', 'cult', 'john of god', 'paedophilia', 'sect']
- - date_dead_since: 2024-10-26T03:15:16.539204+00:00
 
  ## Google Screenwise: An Unwise Trade of All Your Privacy for Cash
  - [https://www.commondreams.org/views/2019/02/04/google-screenwise-unwise-trade-all-your-privacy-cash](https://www.commondreams.org/views/2019/02/04/google-screenwise-unwise-trade-all-your-privacy-cash)
@@ -197,6 +196,7 @@
  - [https://www.nytimes.com/2019/04/08/nyregion/nxivm-allison-mack.html](https://www.nytimes.com/2019/04/08/nyregion/nxivm-allison-mack.html)
  - date_published: 2019-04-08T11:44:03+00:00
  - tags: ['allison mack', 'cult', 'nxivm', 'sect']
+ - date_dead_since: 2025-04-07T15:48:00.433432+00:00
 
  ## Your car is watching you. Who owns the data? - Roll Call
  - [https://rollcall.com/2019/04/09/your-car-is-watching-you-who-owns-the-data](https://rollcall.com/2019/04/09/your-car-is-watching-you-who-owns-the-data)
@@ -222,7 +222,6 @@
  - [https://blog.collegevine.com/the-list-of-all-u-s-colleges-with-a-gender-studies-gender-and-sexuality-studies-major](https://blog.collegevine.com/the-list-of-all-u-s-colleges-with-a-gender-studies-gender-and-sexuality-studies-major)
  - date_published: 2019-04-16T20:07:17+00:00
  - tags: ['gender', 'indoctrination', 'science is dead', 'the left wing', 'universities']
- - date_dead_since: 2024-10-25T23:53:24.808398+00:00
 
  ## Apple Is Not Your Friend - The Facebook Feud
  - [https://www.youtube.com/watch?v=y8SjmcVJOjw](https://www.youtube.com/watch?v=y8SjmcVJOjw)
@@ -239,6 +238,7 @@
  - [https://www.washingtontimes.com/news/2019/apr/22/attacks-christians-double-2017](https://www.washingtontimes.com/news/2019/apr/22/attacks-christians-double-2017)
  - date_published: 2019-04-22T16:15:13+00:00
  - tags: ['christianophobia']
+ - date_dead_since: 2025-04-07T09:39:47.770344+00:00
 
  ## Marble Conveyor Belt Completed! - Marble Machine X #78
  - [https://www.youtube.com/watch?v=1AEvQAg6TE0](https://www.youtube.com/watch?v=1AEvQAg6TE0)
@@ -264,7 +264,6 @@
  - [https://thebridgehead.ca/2019/04/30/pre-teen-drag-kids-highlight-just-how-fast-our-culture-has-crumbled](https://thebridgehead.ca/2019/04/30/pre-teen-drag-kids-highlight-just-how-fast-our-culture-has-crumbled)
  - date_published: 2019-04-30T22:11:33+00:00
  - tags: ['canada', 'children', 'indoctrination', 'lgbt', 'sexualization', 'the left wing']
- - date_dead_since: 2024-10-25T23:33:37.494889+00:00
 
  ## Joe Rogan | What is Going on with the Homeless in LA?
  - [https://www.youtube.com/watch?v=CJU1bQ4Pq6Q](https://www.youtube.com/watch?v=CJU1bQ4Pq6Q)
@@ -366,7 +365,6 @@
  - [https://www.cnn.com/2019/06/14/media/uk-gender-stereotypes-advertising-ban-scli-gbr-intl/index.html](https://www.cnn.com/2019/06/14/media/uk-gender-stereotypes-advertising-ban-scli-gbr-intl/index.html)
  - date_published: 2019-06-14T11:32:55+00:00
  - tags: ['social engineering', 'stereotypes', 'the left wing']
- - date_dead_since: 2024-10-25T22:09:36.870031+00:00
 
  ## 'Men in Black: International' Review: Another Franchise Bites the Woke-Dust
  - [https://www.breitbart.com/entertainment/2019/06/14/men-in-black-international-review-another-franchise-bites-the-woke-dust](https://www.breitbart.com/entertainment/2019/06/14/men-in-black-international-review-another-franchise-bites-the-woke-dust)
@@ -413,7 +411,6 @@
  - [https://nymag.com/intelligencer/2019/07/all-we-know-about-the-new-case-against-jeffrey-epstein.html](https://nymag.com/intelligencer/2019/07/all-we-know-about-the-new-case-against-jeffrey-epstein.html)
  - date_published: 2019-07-08T19:57:17+00:00
  - tags: ['billionairs', 'elites', 'jeffrey epstein']
- - date_dead_since: 2024-10-25T21:28:28.160260+00:00
 
  ## $56 Million Upper East Side Mansion Where Epstein Allegedly Abused Girls
  - [https://www.nytimes.com/2019/07/08/nyregion/jeffrey-epstein-nyc-mansion.html](https://www.nytimes.com/2019/07/08/nyregion/jeffrey-epstein-nyc-mansion.html)
@@ -565,6 +562,7 @@
  - [https://ottawa.ctvnews.ca/ottawa-s-first-black-mass-has-protesters-seeing-red-1.4554309](https://ottawa.ctvnews.ca/ottawa-s-first-black-mass-has-protesters-seeing-red-1.4554309)
  - date_published: 2019-08-17T13:11:25+00:00
  - tags: ['black mass', 'satanic temple']
+ - date_dead_since: 2025-04-07T02:13:28.685761+00:00
 
  ## Greta Thunberg and the plot to forge a climate warrior
  - [https://www.thetimes.co.uk/article/greta-thunberg-and-the-plot-to-forge-a-climate-warrior-9blhz9mjv?region=global](https://www.thetimes.co.uk/article/greta-thunberg-and-the-plot-to-forge-a-climate-warrior-9blhz9mjv?region=global)
@@ -590,7 +588,6 @@
  - [https://www.thegatewaypundit.com/2019/08/get-woke-go-broke-gillette-backflips-after-12-billion-toxic-masculinity-disaster-hopes-to-lure-sexist-pigs-back-with-new-ad-campaign](https://www.thegatewaypundit.com/2019/08/get-woke-go-broke-gillette-backflips-after-12-billion-toxic-masculinity-disaster-hopes-to-lure-sexist-pigs-back-with-new-ad-campaign)
  - date_published: 2019-08-22T09:09:32+00:00
  - tags: ['gillette', 'go woke go broke', 'the left wing']
- - date_dead_since: 2024-10-25T19:18:36.109193+00:00
 
  ## Jeffrey Epstein Donations to M.I.T. Will Be Focus of University Inquiry
  - [https://www.nytimes.com/2019/08/22/business/epstein-mit-media-lab.html](https://www.nytimes.com/2019/08/22/business/epstein-mit-media-lab.html)
