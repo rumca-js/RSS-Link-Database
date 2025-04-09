@@ -338,3 +338,8 @@
  - date_published: 2025-04-05T07:28:48+00:00
  - tags: ['lazarus']
 
+ ## Agenda Behind the Facial Recognition Tech Used by ICE and the FBI Revealed
+ - [https://www.motherjones.com/politics/2025/04/clearview-ai-immigration-ice-fbi-surveillance-facial-recognition-hoan-ton-that-hal-lambert-trump](https://www.motherjones.com/politics/2025/04/clearview-ai-immigration-ice-fbi-surveillance-facial-recognition-hoan-ton-that-hal-lambert-trump)
+ - date_published: 2025-04-07T18:46:43+00:00
+ - tags: ['privacy', 'surveillance']
+
