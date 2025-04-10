@@ -119,6 +119,7 @@
  - [https://zdrowie.radiozet.pl/medycyna/wiadomosci/Prokuratura-Krajowa-wszczela-sledztwo-w-sprawie-wadliwych-szczepionek](https://zdrowie.radiozet.pl/medycyna/wiadomosci/Prokuratura-Krajowa-wszczela-sledztwo-w-sprawie-wadliwych-szczepionek)
  - date_published: 2018-02-28T16:39:56+00:00
  - tags: ['covid', 'vaccine']
+ - date_dead_since: 2025-04-09T09:05:11.571633+00:00
 
  ## Who Owns the Data Your Car Collects?
  - [https://www.consumerreports.org/automotive-technology/who-owns-the-data-your-car-collects](https://www.consumerreports.org/automotive-technology/who-owns-the-data-your-car-collects)

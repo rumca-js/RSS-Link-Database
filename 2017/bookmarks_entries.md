@@ -291,6 +291,7 @@
  - [https://gizmodo.com.au/2017/09/yes-google-uses-its-power-to-quash-ideas-it-doesnt-likei-know-because-it-happened-to-me](https://gizmodo.com.au/2017/09/yes-google-uses-its-power-to-quash-ideas-it-doesnt-likei-know-because-it-happened-to-me)
  - date_published: 2017-08-01T07:11:06+00:00
  - tags: ['censorship', 'google']
+ - date_dead_since: 2025-04-09T17:11:11.326560+00:00
 
  ## Top 10 F-Droid Best Apps that are Not on Google Play - TechWiser
  - [https://techwiser.com/f-droid-best-apps](https://techwiser.com/f-droid-best-apps)
@@ -326,7 +327,6 @@
  - [https://www.itv.com/news/2017-08-10/fear-of-being-called-racist-stopping-people-from-raising-child-abuse-concerns](https://www.itv.com/news/2017-08-10/fear-of-being-called-racist-stopping-people-from-raising-child-abuse-concerns)
  - date_published: 2017-08-10T11:27:23+00:00
  - tags: ['immigration', 'police', 'racism']
- - date_dead_since: 2024-10-26T15:41:33.048049+00:00
 
  ## Full text of ex-Google engineer James Damore’s memo
  - [https://menrightsindia.net/2017/08/full-text-of-ex-google-engineer-james-damores-memo.html](https://menrightsindia.net/2017/08/full-text-of-ex-google-engineer-james-damores-memo.html)
@@ -357,6 +357,7 @@
  - [https://www.grunge.com/35035/secret-history-illuminati](https://www.grunge.com/35035/secret-history-illuminati)
  - date_published: 2017-08-28T13:30:16+00:00
  - tags: ['illuminati', 'secret societies']
+ - date_dead_since: 2025-04-09T14:25:15.273296+00:00
 
  ## Now you, too, can disable Intel ME 'backdoor' thanks to the NSA | CSO Online
  - [https://www.csoonline.com/article/3220476/researchers-say-now-you-too-can-disable-intel-me-backdoor-thanks-to-the-nsa.html](https://www.csoonline.com/article/3220476/researchers-say-now-you-too-can-disable-intel-me-backdoor-thanks-to-the-nsa.html)

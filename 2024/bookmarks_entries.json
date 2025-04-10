@@ -5762,7 +5762,7 @@
         "comments": [],
         "date_dead_since": null,
         "date_published": "2024-07-17T08:31:39+00:00",
-        "description": "",
+        "description": "How Location Data Jeopardizes German Security",
         "id": 1391542,
         "language": "en",
         "link": "https://interaktiv.br.de/ausspioniert-mit-standortdaten/en/index.html",
@@ -6746,7 +6746,7 @@
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "",
-        "status_code": 403,
+        "status_code": 200,
         "tags": [
             "privacy",
             "surveillance"
@@ -7370,7 +7370,7 @@
         "manual_status_code": 0,
         "page_rating": 31,
         "page_rating_contents": 87,
-        "page_rating_visits": 2,
+        "page_rating_visits": 3,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "",

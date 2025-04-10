@@ -444,8 +444,8 @@
         "language": "en",
         "link": "https://www.engadget.com/2018-02-06-ethical-smartphone-conscious-consumption.html?guccounter=1&guce_referrer=aHR0cHM6Ly9kdWNrZHVja2dvLmNvbS8&guce_referrer_sig=AQAAAF7c3xppIbRVTms-CVHzXPrhxA3BXg4mamuzEBGlWlFrW4lrf6eERLvuoUQQssRm1Ifc2bq9gIziWm-L5DwjFvZ9Ci9f1Bv5cfqF8sOc_ocvqaG6oL08IwJ0DGM9cLlk0rp0Essfg-_wDHlQ6Fo-lEyJR4USUdwZ_ADIXOdlGIwq",
         "manual_status_code": 0,
-        "page_rating": 29,
-        "page_rating_contents": 80,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -456,7 +456,7 @@
             "slave labour",
             "smartphone"
         ],
-        "thumbnail": null,
+        "thumbnail": "https://s.yimg.com/ny/api/res/1.2/6.BoRTd.tSUuRKiy7zgDFw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NTQ7Y2Y9d2VicA--/https://o.aolcdn.com/hss/storage/midas/8677e21319219590a324838184377c03/206099708/phoneproduction-ed.jpg",
         "title": "You can\u2019t buy an ethical smartphone today",
         "vote": 0
     },
@@ -599,7 +599,7 @@
             "norway",
             "sexism"
         ],
-        "thumbnail": "https://s.wsj.net/public/resources/images/MW-GW034_f9be6c_ZG_20181030171746.jpg",
+        "thumbnail": "https://s.wsj.net/public/resources/images/MW-GW034_f9be6c_ZG_20181030171746.jpg/social",
         "title": "This is what happened when Norway mandated that women make up 40% of the boardroom - MarketWatch",
         "vote": 0
     },
@@ -668,20 +668,20 @@
         "author": "https://zdrowie.radiozet.pl",
         "bookmarked": true,
         "comments": [],
-        "date_dead_since": null,
+        "date_dead_since": "2025-04-09T09:05:11.571633+00:00",
         "date_published": "2018-02-28T16:39:56+00:00",
         "description": "Prokuratura Krajowa wszcz\u0119\u0142a \u015bledztwo w sprawie wadliwych szczepionek",
         "id": 40423,
         "language": "pl",
         "link": "https://zdrowie.radiozet.pl/medycyna/wiadomosci/Prokuratura-Krajowa-wszczela-sledztwo-w-sprawie-wadliwych-szczepionek",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 0,
+        "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://zdrowie.radiozet.pl",
-        "status_code": 200,
+        "status_code": 404,
         "tags": [
             "covid",
             "vaccine"
@@ -732,13 +732,13 @@
         "language": "en-US",
         "link": "https://www.nationalreview.com/2018/03/british-police-failed-stop-child-sex-ring-over-racism-fears",
         "manual_status_code": 0,
-        "page_rating": 3,
+        "page_rating": 0,
         "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.nationalreview.com",
-        "status_code": 200,
+        "status_code": 604,
         "tags": [
             "immigration",
             "police",
@@ -791,13 +791,13 @@
         "language": "en-US",
         "link": "https://www.businessinsider.com/r-un-investigators-cite-facebook-role-in-myanmar-crisis-2018-3?IR=T",
         "manual_status_code": 0,
-        "page_rating": 3,
+        "page_rating": 0,
         "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.businessinsider.com",
-        "status_code": 600,
+        "status_code": 404,
         "tags": [
             "facebook",
             "hate speech",
@@ -827,7 +827,7 @@
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://readwrite.com",
-        "status_code": 403,
+        "status_code": 200,
         "tags": [
             "ad business"
         ],
@@ -1265,13 +1265,13 @@
         "language": "en-US",
         "link": "https://www.nytimes.com/2018/04/04/us/politics/cambridge-analytica-scandal-fallout.html",
         "manual_status_code": 0,
-        "page_rating": 29,
-        "page_rating_contents": 80,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.nytimes.com",
-        "status_code": 403,
+        "status_code": 200,
         "tags": [
             "cambridge analytica"
         ],
@@ -1292,13 +1292,13 @@
         "language": "en-US",
         "link": "https://www.abqjournal.com/1154293/governments-that-disarm-the-people-have-troubling-history.html",
         "manual_status_code": 0,
-        "page_rating": 3,
+        "page_rating": 0,
         "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.abqjournal.com",
-        "status_code": 600,
+        "status_code": 404,
         "tags": [
             "gun control"
         ],
@@ -1359,7 +1359,7 @@
             "artificial intelligence",
             "blackrock"
         ],
-        "thumbnail": "https://dl6pgk4f88hky.cloudfront.net/2021/06/shutterstock_684865414-scaled.jpg?1729932771",
+        "thumbnail": "https://dl6pgk4f88hky.cloudfront.net/2021/06/shutterstock_684865414-scaled.jpg?1744185009",
         "title": "Meet Aladdin, the computer \"more powerful than traditional politics\"",
         "vote": 0
     },
@@ -1390,7 +1390,7 @@
             "privacy",
             "virtual reality"
         ],
-        "thumbnail": "https://cdn.vox-cdn.com/thumbor/Z1o8A1K3YGk0r5mATggnbTdRT3o=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/9442879/nstatt_171010_2057_0079.jpg",
+        "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/9442879/nstatt_171010_2057_0079.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "How much VR user data is Oculus giving to Facebook?",
         "vote": 0
     },
@@ -1492,13 +1492,13 @@
         "language": "en",
         "link": "https://www.infoworld.com/article/3268310/application-development/11-signs-youre-writing-great-code.html",
         "manual_status_code": 0,
-        "page_rating": 3,
+        "page_rating": 0,
         "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.infoworld.com",
-        "status_code": 600,
+        "status_code": 404,
         "tags": [
             "clean code",
             "programming"
@@ -1704,7 +1704,7 @@
             "privacy",
             "technofeudalism"
         ],
-        "thumbnail": "https://cdn.vox-cdn.com/thumbor/o96M67fc3Hj2BcvT3R9Rmq_7rvc=/0x0:1020x586/1200x628/filters:focal(510x293:511x294)/cdn.vox-cdn.com/uploads/chorus_asset/file/3607414/Google-Campus-025.0.jpg",
+        "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/3607414/Google-Campus-025.0.jpg?quality=90&strip=all&crop=0,4.4341797258903,100,91.131640548219",
         "title": "A Google update just created a big problem for anti-censorship tools",
         "vote": 0
     },
@@ -1849,7 +1849,7 @@
             "privacy",
             "technofeudalism"
         ],
-        "thumbnail": "https://cdn.vox-cdn.com/thumbor/C3DIvtCHMcCXy3SVRHtMfmrbeQU=/0x0:640x423/1200x628/filters:focal(320x212:321x213)/cdn.vox-cdn.com/assets/1341015/amazon-event-2012-_1145.jpg",
+        "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/assets/1341015/amazon-event-2012-_1145.jpg?quality=90&strip=all&crop=0,10.392608270518,100,79.214783458963",
         "title": "Amazon Web Services starts blocking domain-fronting, following Google\u2019s lead",
         "vote": 0
     },
@@ -1881,7 +1881,7 @@
             "signal",
             "technofeudalism"
         ],
-        "thumbnail": "https://cdn.vox-cdn.com/thumbor/_o2VA66_9Hw3rJ90AMuiKQQsbVo=/0x0:2800x1855/1200x628/filters:focal(1400x928:1401x929)/cdn.vox-cdn.com/uploads/chorus_asset/file/10345009/telegramsignal.jpg",
+        "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/10345009/telegramsignal.jpg?quality=90&strip=all&crop=0%2C10.486021930258%2C100%2C79.027956139484&w=1200",
         "title": "Amazon tells Signal\u2019s creators to stop using anti-censorship workaround",
         "vote": 0
     },
@@ -2227,7 +2227,7 @@
             "don't be evil",
             "google"
         ],
-        "thumbnail": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/05/21/11/google-dont-be-evil-code-of-conduct.jpg?quality=75&width=1200&auto=webp",
+        "thumbnail": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/05/21/11/google-dont-be-evil-code-of-conduct.jpg?width=1200&height=800&crop=1200:800",
         "title": "Google quietly removes \u2018don\u2019t be evil\u2019 preface from code of conduct | The Independent | The Independent",
         "vote": 0
     },
@@ -2341,7 +2341,7 @@
             "moderation",
             "pepe"
         ],
-        "thumbnail": "https://cdn.vox-cdn.com/thumbor/xjhITvH-DoyRWHTbqwApsKEIYmU=/0x0:640x400/1200x628/filters:focal(320x200:321x201)/cdn.vox-cdn.com/uploads/chorus_asset/file/7294371/Be-Nice-Man-Pepe-the-Frog_sized.jpg",
+        "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/7294371/Be-Nice-Man-Pepe-the-Frog_sized.jpg?quality=90&strip=all&crop=0,8.1151832460733,100,83.769633507853",
         "title": "Facebook has an official Pepe the Frog policy",
         "vote": 0
     },
@@ -2695,7 +2695,7 @@
             "chrome",
             "google"
         ],
-        "thumbnail": "https://cdn.vox-cdn.com/thumbor/gtQ8fwAGlOLOa74T4NJ68DTCbUQ=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/11707353/acastro_1800716_1777_android_EU_0001.jpg",
+        "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/11707353/acastro_1800716_1777_android_EU_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "Google fined a record $5 billion by the EU for Android antitrust violations - The Verge",
         "vote": 0
     },
@@ -2829,7 +2829,7 @@
         "manual_status_code": 0,
         "page_rating": 32,
         "page_rating_contents": 90,
-        "page_rating_visits": 0,
+        "page_rating_visits": 1,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://80000hours.org",
@@ -3059,13 +3059,13 @@
         "language": "en",
         "link": "https://www.nytimes.com/2018/08/28/business/media/rotten-tomatoes-critics.html",
         "manual_status_code": 0,
-        "page_rating": 29,
-        "page_rating_contents": 80,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "www.nytimes.com",
-        "status_code": 403,
+        "status_code": 200,
         "tags": [
             "inclusive",
             "inequality",
