@@ -7501,7 +7501,7 @@
         "comments": [],
         "date_dead_since": null,
         "date_published": "2024-10-25T17:23:43+00:00",
-        "description": "",
+        "description": "\"Gravierende Missst\u00e4nde\" im Bildungssystem ortet Harald Zierfu\u00df (\u00d6VP). Zahlen der Statistik Austria w\u00fcrden das Problem eindeutig aufzeigen.",
         "id": 1394141,
         "language": "de",
         "link": "https://www.heute.at/s/76-der-mittelschueler-sprechen-daheim-nicht-deutsch-120068220",
@@ -7516,7 +7516,7 @@
         "tags": [
             "immigration"
         ],
-        "thumbnail": "https://heute-at-prod-images.imgix.net/2023/09/01/71223281-6055-4ea1-9bb3-eb31171f9d91.jpeg?rect=0%2C208%2C2718%2C1529&auto=format",
+        "thumbnail": "https://heute-at-prod-images.imgix.net/2023/09/01/71223281-6055-4ea1-9bb3-eb31171f9d91.jpeg?rect=0%2C208%2C2718%2C1529&w=1200&fm=jpg",
         "title": "76 % der Mittelsch\u00fcler sprechen daheim nicht Deutsch",
         "vote": 0
     },
@@ -7528,22 +7528,22 @@
         "comments": [],
         "date_dead_since": null,
         "date_published": "2024-10-26T20:47:34+00:00",
-        "description": "",
+        "description": "Las agresiones sexuales crecieron casi un 30% en el \u00faltimo a\u00f1o en Vizcaya, pasando de 620 casos en 2022 a 850 en 2023",
         "id": 1394145,
         "language": "es",
         "link": "https://gaceta.es/espana/la-fiscalia-reconoce-que-el-64-de-detenidos-por-delitos-sexuales-en-vizcaya-son-inmigrantes-20241026-1010",
         "manual_status_code": 0,
-        "page_rating": 31,
-        "page_rating_contents": 87,
+        "page_rating": 32,
+        "page_rating_contents": 91,
         "page_rating_visits": 2,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "",
-        "status_code": 403,
+        "status_code": 200,
         "tags": [
             "immigration"
         ],
-        "thumbnail": null,
+        "thumbnail": "https://gaceta.es/wp-content/uploads/2024/10/6u7y5trew-1-1.jpg",
         "title": "Attention Required! | Cloudflare",
         "vote": 0
     },

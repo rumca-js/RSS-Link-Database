@@ -266,6 +266,7 @@
  - [https://www.nytimes.com/2016/08/18/world/asia/china-coal-health-smog-pollution.html](https://www.nytimes.com/2016/08/18/world/asia/china-coal-health-smog-pollution.html)
  - date_published: 2016-08-18T07:59:12+00:00
  - tags: ['climate change', 'co2', 'pollution']
+ - date_dead_since: 2025-04-10T15:22:00.912897+00:00
 
  ## French blogger claims YouTube tried to censor Juncker interview
  - [https://www.theguardian.com/technology/2016/sep/19/french-blogger-claims-youtube-tried-to-censor-juncker-interview](https://www.theguardian.com/technology/2016/sep/19/french-blogger-claims-youtube-tried-to-censor-juncker-interview)
@@ -316,6 +317,7 @@
  - [https://addisstandard.com/letter-editor-dr-tedros-adhanom-not-lead-world-health-organization](https://addisstandard.com/letter-editor-dr-tedros-adhanom-not-lead-world-health-organization)
  - date_published: 2016-09-27T20:52:39+00:00
  - tags: ['tedros adhanom', 'who']
+ - date_dead_since: 2025-04-10T13:02:16.796802+00:00
 
  ## Elon Musk Explains Why SpaceX Only Hires Americans | Inverse
  - [https://m.youtube.com/watch?v=CIvtiNpKEY0](https://m.youtube.com/watch?v=CIvtiNpKEY0)

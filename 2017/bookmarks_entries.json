@@ -171,7 +171,7 @@
             "paedophilia",
             "pizzagate"
         ],
-        "thumbnail": "https://i0.wp.com/przeczywistosc.pl/wp-content/uploads/2017/01/black-and-white-1282260_1280.jpg?fit=1280%2C873",
+        "thumbnail": "https://i0.wp.com/przeczywistosc.pl/wp-content/uploads/2017/01/black-and-white-1282260_1280.jpg?fit=1280%2C873&ssl=1",
         "title": "Przeczywisto\u015b\u0107: Pizzagate",
         "vote": 0
     },
@@ -428,13 +428,13 @@
         "language": "en",
         "link": "https://www.nytimes.com/2017/03/07/world/europe/wikileaks-cia-hacking.html",
         "manual_status_code": 0,
-        "page_rating": 29,
-        "page_rating_contents": 80,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.nytimes.com",
-        "status_code": 403,
+        "status_code": 200,
         "tags": [
             "big brother",
             "cia",
@@ -823,7 +823,7 @@
             "propaganda",
             "the left wing"
         ],
-        "thumbnail": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/04/05/13/kendall-pepsi.jpg?quality=75&width=1200&auto=webp",
+        "thumbnail": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/04/05/13/kendall-pepsi.jpg?width=1200&height=800&crop=1200:800",
         "title": "Pepsi advert with Kendall Jenner pulled after huge backlash | The Independent | The Independent",
         "vote": 0
     },
