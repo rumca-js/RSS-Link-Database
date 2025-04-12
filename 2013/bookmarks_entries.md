@@ -172,6 +172,7 @@
  - [https://www.nytimes.com/2013/07/15/business/attention-shopper-stores-are-tracking-your-cell.html](https://www.nytimes.com/2013/07/15/business/attention-shopper-stores-are-tracking-your-cell.html)
  - date_published: 2013-07-14T15:11:32+00:00
  - tags: ['corporatocracy', 'privacy', 'surveillance', 'technofeudalism']
+ - date_dead_since: 2025-04-11T20:43:02.438024+00:00
 
  ## The Creepy, Long-Standing Practice of Undersea Cable Tapping - The Atlantic
  - [https://www.theatlantic.com/international/archive/2013/07/the-creepy-long-standing-practice-of-undersea-cable-tapping/277855](https://www.theatlantic.com/international/archive/2013/07/the-creepy-long-standing-practice-of-undersea-cable-tapping/277855)

@@ -97,6 +97,7 @@
  - [https://mashable.com/archive/edward-snowden-revelations#EX._mWvT8kq3](https://mashable.com/archive/edward-snowden-revelations#EX._mWvT8kq3)
  - date_published: 2014-06-05T14:55:15+00:00
  - tags: ['big brother', 'edward snowden', 'prism', 'surveillance']
+ - date_dead_since: 2025-04-11T13:05:09.178779+00:00
 
  ## U.S rules on cell phone privacy
  - [http://edition.cnn.com/2014/06/25/justice/supreme-court-cell-phones/index.html?eref=edition](http://edition.cnn.com/2014/06/25/justice/supreme-court-cell-phones/index.html?eref=edition)

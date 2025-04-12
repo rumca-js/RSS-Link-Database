@@ -7,7 +7,6 @@
  - [https://www.independent.co.uk/news/uk/home-news/virginia-roberts-what-do-we-know-about-the-woman-at-the-centre-of-the-prince-andrew-sex-allegations-9958539.html](https://www.independent.co.uk/news/uk/home-news/virginia-roberts-what-do-we-know-about-the-woman-at-the-centre-of-the-prince-andrew-sex-allegations-9958539.html)
  - date_published: 2015-01-05T06:59:25+00:00
  - tags: ['jeffrey epstein', 'prince andrew', 'virginia roberts']
- - date_dead_since: 2024-10-27T05:57:43.569126+00:00
 
  ## Robustness principle
  - [https://en.wikipedia.org/wiki/Robustness_principle](https://en.wikipedia.org/wiki/Robustness_principle)
@@ -113,6 +112,7 @@
  - [https://www.extremetech.com/defense/203275-the-nsa-wants-front-door-access-to-your-encrypted-data](https://www.extremetech.com/defense/203275-the-nsa-wants-front-door-access-to-your-encrypted-data)
  - date_published: 2015-04-13T07:41:23+00:00
  - tags: ['big brother', 'crypto wars', 'encryption', 'nsa', 'privacy', 'surveillance']
+ - date_dead_since: 2025-04-11T05:36:22.235006+00:00
 
  ## ks. Piotr Pawlukiewicz -  Małżeństwo, labirynt czy droga do nieba?
  - [https://www.youtube.com/watch?v=wFP0VX1pugE](https://www.youtube.com/watch?v=wFP0VX1pugE)
@@ -138,6 +138,7 @@
  - [https://www.chicagotribune.com/news/ct-gay-marriage-canada-oppose-perspec-0422-jm-20150421-story.html](https://www.chicagotribune.com/news/ct-gay-marriage-canada-oppose-perspec-0422-jm-20150421-story.html)
  - date_published: 2015-04-22T20:47:17+00:00
  - tags: ['dawn stefanowicz', 'lgbt']
+ - date_dead_since: 2025-04-11T05:05:58.046073+00:00
 
  ## 5 key takeaways from State of the News Media 2015 | Pew Research Center
  - [https://www.pewresearch.org/fact-tank/2015/04/29/5-key-takeaways-from-state-of-the-news-media-2015](https://www.pewresearch.org/fact-tank/2015/04/29/5-key-takeaways-from-state-of-the-news-media-2015)

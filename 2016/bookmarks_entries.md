@@ -2,7 +2,6 @@
  - [https://humansbefree.com/2016/01/feminism-how-the-rockefellers-re-engineered-women-and-why.html](https://humansbefree.com/2016/01/feminism-how-the-rockefellers-re-engineered-women-and-why.html)
  - date_published: 2016-01-01T21:06:57+00:00
  - tags: ['aaron russo', 'conspiracy theory', 'feminism', 'propaganda', 'rockefeller', 'social engineering']
- - date_dead_since: 2024-10-27T03:35:39.715590+00:00
 
  ## Microsoft may be collecting more data than initially thought - gHacks Tech News
  - [https://www.ghacks.net/2016/01/05/microsoft-may-be-collecting-more-data-than-initially-thought](https://www.ghacks.net/2016/01/05/microsoft-may-be-collecting-more-data-than-initially-thought)
