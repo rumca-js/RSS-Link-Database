@@ -81,7 +81,6 @@
  - [http://edition.cnn.com/2010/WORLD/africa/07/12/uganda.bombings/index.html?eref=edition](http://edition.cnn.com/2010/WORLD/africa/07/12/uganda.bombings/index.html?eref=edition)
  - date_published: 2010-07-12T12:59:09+00:00
  - tags: ['islam terror', 'religion']
- - date_dead_since: 2024-10-27T22:49:33.989899+00:00
 
  ## Blizzard Backs off Forcing Users to Post under Real Names | Digital Trends
  - [https://www.digitaltrends.com/gaming/blizzard-backs-off-forcing-users-to-post-under-real-names](https://www.digitaltrends.com/gaming/blizzard-backs-off-forcing-users-to-post-under-real-names)
@@ -103,7 +102,6 @@
  - [https://ionainstitute.ie/how-radicals-tried-to-sexually-liberate-children](https://ionainstitute.ie/how-radicals-tried-to-sexually-liberate-children)
  - date_published: 2010-08-05T21:04:24+00:00
  - tags: ['children', 'lgbt', 'paedophilia', 'sexualization', 'the left wing']
- - date_dead_since: 2024-10-27T22:34:23.438027+00:00
 
  ## Fidel Castro fascinated by Bilderberg Club conspiracy theory - CSMonitor.com
  - [https://www.csmonitor.com/From-the-news-wires/2010/0820/Fidel-Castro-fascinated-by-Bilderberg-Club-conspiracy-theory](https://www.csmonitor.com/From-the-news-wires/2010/0820/Fidel-Castro-fascinated-by-Bilderberg-Club-conspiracy-theory)
@@ -149,7 +147,6 @@
  - [http://edition.cnn.com/2010/US/12/01/wikileaks.amazon/index.html?eref=edition](http://edition.cnn.com/2010/US/12/01/wikileaks.amazon/index.html?eref=edition)
  - date_published: 2010-12-02T03:49:13+00:00
  - tags: ['amazon', 'big tech', 'deplatform', 'wikileaks']
- - date_dead_since: 2024-10-27T21:59:40.718493+00:00
 
  ## Facebook–Cambridge Analytica data scandal
  - [https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal](https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal)

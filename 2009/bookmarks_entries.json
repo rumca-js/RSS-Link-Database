@@ -99,13 +99,13 @@
         "language": "en",
         "link": "https://www.nytimes.com/2009/05/24/weekinreview/24markoff.html",
         "manual_status_code": 0,
-        "page_rating": 29,
-        "page_rating_contents": 80,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.nytimes.com",
-        "status_code": 403,
+        "status_code": 200,
         "tags": [
             "artificial intelligence"
         ],
@@ -391,7 +391,7 @@
             "h1n1",
             "swine flu"
         ],
-        "thumbnail": "https://i.iplsc.com/-/00021W65EG48THX8-C461-F4.jpg",
+        "thumbnail": "https://i.iplsc.com/-/00021W65EG48THX8-C461.jpg",
         "title": "Skandal w Niemczech. Inne szczepionki dla rz\u0105du - Wydarzenia w INTERIA.PL",
         "vote": 0
     },

@@ -343,3 +343,8 @@
  - date_published: 2025-04-07T18:46:43+00:00
  - tags: ['privacy', 'surveillance']
 
+ ## Leaked Meta data reveals campaign to remove pro-Palestine posts
+ - [https://www.dropsitenews.com/p/leaked-data-israeli-censorship-meta](https://www.dropsitenews.com/p/leaked-data-israeli-censorship-meta)
+ - date_published: 2025-04-11T16:24:58+00:00
+ - tags: ['censorship']
+

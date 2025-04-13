@@ -61,20 +61,20 @@
         "author": null,
         "bookmarked": true,
         "comments": [],
-        "date_dead_since": null,
+        "date_dead_since": "2025-04-12T02:47:02.465961+00:00",
         "date_published": "2013-01-12T10:28:59+00:00",
         "description": "Internet Activist, a Creator of RSS, Is Dead at 26, Apparently a Suicide",
         "id": 40416,
         "language": "en-US",
         "link": "https://www.nytimes.com/2013/01/13/technology/aaron-swartz-internet-activist-dies-at-26.html",
         "manual_status_code": 0,
-        "page_rating": 29,
-        "page_rating_contents": 80,
+        "page_rating": 0,
+        "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.nytimes.com",
-        "status_code": 403,
+        "status_code": 604,
         "tags": [
             "aaron swartz",
             "rss"
@@ -219,7 +219,7 @@
             "aaron swartz",
             "pacer"
         ],
-        "thumbnail": "https://cdn.vox-cdn.com/thumbor/CcY8mXBu9T2dU3k0dmrjcwEHxmU=/0x0:942x628/1200x628/filters:focal(471x314:472x315)/cdn.vox-cdn.com/uploads/chorus_asset/file/14231709/Swartz_Memorial_Program_-_Verge.1419979270.jpg",
+        "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/14231709/Swartz_Memorial_Program_-_Verge.1419979270.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
         "title": "Aaron Swartz's battle to free the PACER legal document database - The Verge",
         "vote": 0
     },

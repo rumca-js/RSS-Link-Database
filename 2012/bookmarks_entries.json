@@ -114,7 +114,7 @@
             "protest",
             "surveillance"
         ],
-        "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/media/images/58452000/jpg/_58452874_dsc_0055.jpg",
+        "thumbnail": "https://ichef.bbci.co.uk/ace/branded_news/1200/mcs/media/images/58452000/jpg/_58452874_dsc_0055.jpg",
         "title": "Acta protests: Thousands take to streets across Europe - BBC News",
         "vote": 0
     },
@@ -523,7 +523,7 @@
             "manufacturing consent",
             "pfizer"
         ],
-        "thumbnail": "https://www.justice.gov/sites/all/modules/features/doj_sharing/images/doj-seal-fb.jpg",
+        "thumbnail": "https://www.justice.gov/themes/custom/usdoj_uswds/images/metatag-image--press-release.png",
         "title": "Pfizer H.C.P. Corp. Agrees to Pay $15 Million Penalty to Resolve\r\nForeign Bribery Investigation | OPA | Department of Justice",
         "vote": 0
     },
@@ -626,13 +626,13 @@
         "language": "en",
         "link": "https://www.nytimes.com/2012/08/23/opinion/whos-watching-the-nsa-watchers.html",
         "manual_status_code": 0,
-        "page_rating": 29,
-        "page_rating_contents": 80,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 1,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "www.nytimes.com",
-        "status_code": 403,
+        "status_code": 200,
         "tags": [
             "big brother",
             "nsa",

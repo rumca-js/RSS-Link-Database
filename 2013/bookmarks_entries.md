@@ -12,6 +12,7 @@
  - [https://www.nytimes.com/2013/01/13/technology/aaron-swartz-internet-activist-dies-at-26.html](https://www.nytimes.com/2013/01/13/technology/aaron-swartz-internet-activist-dies-at-26.html)
  - date_published: 2013-01-12T10:28:59+00:00
  - tags: ['aaron swartz', 'rss']
+ - date_dead_since: 2025-04-12T02:47:02.465961+00:00
 
  ## Francuski dziennik „Le Figaro” opublikował wyznania mężczyzny wychowanego przez dwie lesbijki. Ukazują one osobisty i intymny dramat człowieka liczącego dzisiaj 66 lat.
  - [https://pch24.pl/mezczyzna-wychowany-przez-lesbijki-to-gwalt-przeciw-mojej-naturze](https://pch24.pl/mezczyzna-wychowany-przez-lesbijki-to-gwalt-przeciw-mojej-naturze)
