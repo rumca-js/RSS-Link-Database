@@ -328,6 +328,11 @@
  - date_published: 2016-10-03T20:10:05+00:00
  - tags: ['blackrock', 'esg', 'larry fink']
 
+ ## From Mathematics to Generic Programming
+ - [https://fm2gp.com](https://fm2gp.com)
+ - date_published: 2016-10-07T00:28:20+00:00
+ - tags: ['book']
+
  ## Google’s ad tracking is as creepy as Facebook's. Here’s how to disable it
  - [https://www.theguardian.com/technology/2016/oct/21/how-to-disable-google-ad-tracking-gmail-youtube-browser-history](https://www.theguardian.com/technology/2016/oct/21/how-to-disable-google-ad-tracking-gmail-youtube-browser-history)
  - date_published: 2016-10-20T06:30:06+00:00
@@ -403,9 +408,4 @@
  - [https://www.techexplorist.com/using-lots-social-media-accounts-causes-anxiety/4451](https://www.techexplorist.com/using-lots-social-media-accounts-causes-anxiety/4451)
  - date_published: 2016-12-20T12:04:50+00:00
  - tags: ['digital dementia', 'social media']
-
- ## Abseil open-source foundational code
- - [https://abseil.io](https://abseil.io)
- - date_published: 2017-01-01T00:00:00+00:00
- - tags: ['c++']
 

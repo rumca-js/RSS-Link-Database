@@ -1194,6 +1194,11 @@
  - date_published: 2021-06-20T23:45:52+00:00
  - tags: ['hackers', 'lazarus', 'north korea']
 
+ ## I don't trust Signal
+ - [https://blog.dijit.sh//i-don-t-trust-signal](https://blog.dijit.sh//i-don-t-trust-signal)
+ - date_published: 2021-06-21T00:00:00+00:00
+ - tags: ['open source', 'signal']
+
  ## Fauci Doubles Down: People Who Criticize Me Are ‘Actually Criticizing Science’
  - [https://www.breitbart.com/science/2021/06/21/fauci-doubles-down-people-who-criticize-me-are-actually-criticizing-science](https://www.breitbart.com/science/2021/06/21/fauci-doubles-down-people-who-criticize-me-are-actually-criticizing-science)
  - date_published: 2021-06-21T17:24:57+00:00

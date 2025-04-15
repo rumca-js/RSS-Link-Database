@@ -7703,12 +7703,6 @@
  - date_published: 2022-11-05T21:26:27+00:00
  - tags: ['openstreetmap']
 
- ## Finland’s Covid death toll could be exaggerated by 40%, THL says | News & More Trending News
- - [https://www.thetimes.com.ng/2022/11/finlands-covid-death-toll-could-be-exaggerated-by-40-thl-says-news-more-trending-news](https://www.thetimes.com.ng/2022/11/finlands-covid-death-toll-could-be-exaggerated-by-40-thl-says-news-more-trending-news)
- - date_published: 2022-11-06T08:58:33+00:00
- - tags: ['covid', 'covid lie', 'finland']
- - date_dead_since: 2024-04-21T01:22:54.045192+00:00
-
  ## Industry ethicist: Social media companies amplifying Americans' anger for profit - CBS News
  - [https://www.cbsnews.com/news/tristan-harris-social-media-political-polarization-60-minutes-2022-11-06/?ftag=CNM-00-10aab7d&linkId=188527613](https://www.cbsnews.com/news/tristan-harris-social-media-political-polarization-60-minutes-2022-11-06/?ftag=CNM-00-10aab7d&linkId=188527613)
  - date_published: 2022-11-06T15:50:30+00:00
@@ -8492,12 +8486,6 @@
  - date_published: 2022-11-29T16:35:00+00:00
  - tags: ['covid', 'misinformation', 'twitter']
 
- ## Show HN: SinglePage – Quickly and anonymously publish a page to the web
- - [https://singlepage.cc](https://singlepage.cc)
- - date_published: 2022-11-29T20:14:31+00:00
- - tags: ['hosting', 'internet', 'programming']
- - date_dead_since: 2024-04-21T01:15:07.516273+00:00
-
  ## China to punish internet users for 'liking' posts in crackdown after zero-Covid protests
  - [https://www.cnn.com/2022/11/30/media/china-new-internet-rule-punish-liking-posts-intl-hnk/index.html](https://www.cnn.com/2022/11/30/media/china-new-internet-rule-punish-liking-posts-intl-hnk/index.html)
  - date_published: 2022-11-30T08:24:43+00:00
@@ -9034,12 +9022,6 @@
  ## DOJ officials call Biden's Griner, ’Merchant of Death’ swap ‘mistake,’ ‘madness’
  - [https://www.foxnews.com/media/doj-officials-call-bidens-griner-merchant-death-swap-mistake-madness](https://www.foxnews.com/media/doj-officials-call-bidens-griner-merchant-death-swap-mistake-madness)
  - date_published: 2022-12-10T20:30:50+00:00
-
- ## Ludziom trzeba odebrać wolność w internecie - prof. Andrzej Zybertowicz
- - [https://www.youtube.com/watch?v=PK6H0qI7fCY](https://www.youtube.com/watch?v=PK6H0qI7fCY)
- - date_published: 2022-12-11T00:00:00+00:00
- - tags: ['anonymity', 'digital identity', 'privacy']
- - date_dead_since: 2024-04-21T00:45:45.707564+00:00
 
  ## Twitter Files reveal 'junior employee' stood against Trump ban, warned of 'slippery slope'
  - [https://www.foxnews.com/politics/twitter-files-reveal-junior-employee-stood-against-trump-ban-warned-slippery-slope](https://www.foxnews.com/politics/twitter-files-reveal-junior-employee-stood-against-trump-ban-warned-slippery-slope)

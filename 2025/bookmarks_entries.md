@@ -333,23 +333,187 @@
  - date_published: 2025-04-02T16:32:18+00:00
  - tags: ['climate change', 'lobbying']
 
+ ## GPT4 impersonating a FTP server at ftp.disney.com
+ - [https://www.filestash.app/2023/04/01/chat-gpt-acting-as-a-ftp-server](https://www.filestash.app/2023/04/01/chat-gpt-acting-as-a-ftp-server)
+ - date_published: 2025-04-04T01:32:35+00:00
+ - tags: ['artificial intelligence', 'gpt-4']
+
  ## Lazarus Group Targets Organizations with Sophisticated LinkedIn Recruiting Scam
  - [https://www.bitdefender.com/en-us/blog/labs/lazarus-group-targets-organizations-with-sophisticated-linkedin-recruiting-scam](https://www.bitdefender.com/en-us/blog/labs/lazarus-group-targets-organizations-with-sophisticated-linkedin-recruiting-scam)
  - date_published: 2025-04-05T07:28:48+00:00
  - tags: ['lazarus']
+
+ ## Nurse suspended by NHS for telling the media her story
+ - [https://christianconcern.com/news/christian-nurse-suspended-by-nhs-for-telling-her-story-after-being-investigated](https://christianconcern.com/news/christian-nurse-suspended-by-nhs-for-telling-her-story-after-being-investigated)
+ - date_published: 2025-04-07T06:25:40+00:00
+ - tags: ['lgbt', 'tolerance', 'trans']
 
  ## Agenda Behind the Facial Recognition Tech Used by ICE and the FBI Revealed
  - [https://www.motherjones.com/politics/2025/04/clearview-ai-immigration-ice-fbi-surveillance-facial-recognition-hoan-ton-that-hal-lambert-trump](https://www.motherjones.com/politics/2025/04/clearview-ai-immigration-ice-fbi-surveillance-facial-recognition-hoan-ton-that-hal-lambert-trump)
  - date_published: 2025-04-07T18:46:43+00:00
  - tags: ['privacy', 'surveillance']
 
+ ## 2023 LGBTQ+ Student Possibility Programme
+ - [https://www.goldmansachs.com/careers/students/programs/emea/lgbt-student-possibility-program.html](https://www.goldmansachs.com/careers/students/programs/emea/lgbt-student-possibility-program.html)
+ - date_published: 2025-04-07T19:14:47+00:00
+ - tags: ['inequality', 'lgbt', 'science is dead', 'the left wing']
+ - date_dead_since: 2024-04-21T00:12:59.272875+00:00
+
+ ## Abseil open-source foundational code
+ - [https://abseil.io](https://abseil.io)
+ - date_published: 2025-04-10T13:23:41+00:00
+ - tags: ['c++']
+
  ## Leaked Meta data reveals campaign to remove pro-Palestine posts
  - [https://www.dropsitenews.com/p/leaked-data-israeli-censorship-meta](https://www.dropsitenews.com/p/leaked-data-israeli-censorship-meta)
  - date_published: 2025-04-11T16:24:58+00:00
  - tags: ['censorship']
 
- ## Mohammed introduces Pavilion Labour's Eid Festival
- - [https://www.youtube.com/watch?v=4sms60Dq19s](https://www.youtube.com/watch?v=4sms60Dq19s)
- - date_published: 2025-04-13T21:14:57.192601+00:00
- - tags: ['immigration', 'uk']
+ ## The Norvig – Chomsky Debate on Statistical Learning in AI
+ - [http://web.cse.ohio-state.edu/~stiff.4/cse3521/norvig-chomsky.html](http://web.cse.ohio-state.edu/~stiff.4/cse3521/norvig-chomsky.html)
+ - date_published: 2025-04-13T20:42:10+00:00
+ - tags: ['artificial intelligence']
+
+ ## Sabra and Shatila massacre - Wikipedia
+ - [https://en.wikipedia.org/wiki/Sabra_and_Shatila_massacre](https://en.wikipedia.org/wiki/Sabra_and_Shatila_massacre)
+ - date_published: 2025-04-13T22:30:45+00:00
+ - tags: ['israel', 'lebanon', 'palestine']
+
+ ## Fitness app Strava gives away location of Biden, Trump and other leaders, French newspaper says
+ - [https://www.courthousenews.com/fitness-app-strava-gives-away-location-of-biden-trump-and-other-leaders-french-newspaper-says](https://www.courthousenews.com/fitness-app-strava-gives-away-location-of-biden-trump-and-other-leaders-french-newspaper-says)
+ - date_published: 2025-04-14T03:57:22+00:00
+ - tags: ['privacy', 'surveillance', 'technofeudalism']
+
+ ## The Shirky Principle: Institutions Try to Preserve the Problem to Which They Are the Solution – Effectiviology
+ - [https://effectiviology.com/shirky-principle](https://effectiviology.com/shirky-principle)
+ - date_published: 2025-04-14T09:33:25.295996+00:00
+ - tags: ['inequality', 'shirky principle']
+
+ ## CIA bribed its own COVID-19 origin team to reject lab-leak theory, anonymous whistleblower claims
+ - [https://www.science.org/content/article/cia-bribed-its-own-covid-19-origin-team-reject-lab-leak-theory-anonymous-whistleblower](https://www.science.org/content/article/cia-bribed-its-own-covid-19-origin-team-reject-lab-leak-theory-anonymous-whistleblower)
+ - date_published: 2025-04-14T09:39:12.340407+00:00
+ - tags: ['covid', 'lab leak', 'science is dead', 'wuhan']
+ - date_dead_since: 2025-04-14T09:39:12.386599+00:00
+
+ ## Israel said to have waged 9-year ‘war’ against ICC, tapping its communications
+ - [https://www.timesofisrael.com/israel-said-to-have-waged-9-year-war-against-icc-tapping-its-communications](https://www.timesofisrael.com/israel-said-to-have-waged-9-year-war-against-icc-tapping-its-communications)
+ - date_published: 2025-04-14T10:12:45.022645+00:00
+ - tags: ['icc', 'israel', 'palestine']
+
+ ## UN's top court orders Israel to halt military operations in Rafah
+ - [https://www.bbc.co.uk/news/live/world-69055989](https://www.bbc.co.uk/news/live/world-69055989)
+ - date_published: 2025-04-14T10:34:24.775536+00:00
+ - tags: ['israel', 'palestine']
+
+ ## A crowd responds in the street to the socialist attack on religious freedom in Spain
+ - [https://www.outono.net/elentir/2023/11/28/a-crowd-responds-in-the-street-to-the-socialist-attack-on-religious-freedom-in-spain](https://www.outono.net/elentir/2023/11/28/a-crowd-responds-in-the-street-to-the-socialist-attack-on-religious-freedom-in-spain)
+ - date_published: 2025-04-14T11:51:14.455804+00:00
+ - tags: ['christianophobia', 'religion']
+ - date_dead_since: 2025-04-14T11:51:14.503230+00:00
+
+ ## Cheque Your Privilege — POV Film
+ - [https://www.povfilm.org/cheque-your-privilege](https://www.povfilm.org/cheque-your-privilege)
+ - date_published: 2025-04-14T13:48:56.720439+00:00
+ - tags: ['inequality', 'racism']
+
+ ## Pride crosswalk damaged hours after repaint; suspects arrested
+ - [https://www.spokesman.com/stories/2024/jun/06/pride-crosswalk-damaged-hours-after-repaint-suspec](https://www.spokesman.com/stories/2024/jun/06/pride-crosswalk-damaged-hours-after-repaint-suspec)
+ - date_published: 2025-04-14T16:06:30.098855+00:00
+ - tags: ['hate crime', 'inequality', 'lgbt']
+
+ ## Cologne Catholic diocese clergy and staff used work computers for porn, German media reports
+ - [https://www.bbc.co.uk/news/world-europe-66543503?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-66543503?at_medium=RSS&at_campaign=KARANGA)
+ - date_published: 2025-04-14T17:10:18.424499+00:00
+ - tags: ['church scandal', 'religion']
+
+ ## Kohina Web Player
+ - [https://player.kohina.com/streamplayer](https://player.kohina.com/streamplayer)
+ - date_published: 2025-04-14T17:20:36.333610+00:00
+ - tags: ['chiptune']
+ - date_dead_since: 2024-04-19T01:33:02.620530+00:00
+
+ ## YOUTUBE GOES PAY for PLAY - this is just getting sad...
+ - [https://www.youtube.com/watch?v=tZ8xuQnpvIE](https://www.youtube.com/watch?v=tZ8xuQnpvIE)
+ - date_published: 2025-04-14T17:31:38.273217+00:00
+ - tags: ['ad business', 'subscription', 'technofeudalism', 'youtube']
+ - date_dead_since: 2024-04-19T01:37:10.823665+00:00
+
+ ## YouTube Is Pulling ‘Sound Of Freedom’ Interviews, Reviews – Summit News
+ - [https://summit.news/2023/07/19/youtube-is-pulling-sound-of-freedom-interviews-reviews](https://summit.news/2023/07/19/youtube-is-pulling-sound-of-freedom-interviews-reviews)
+ - date_published: 2025-04-14T17:42:37.960342+00:00
+ - tags: ['censorship', 'sound of freedom', 'youtube']
+
+ ## No CSS Club – because no JavaScript was not hardcore enough
+ - [https://nocss.club](https://nocss.club)
+ - date_published: 2025-04-14T18:47:25.935882+00:00
+ - tags: ['selfhost', 'web10', 'webdev']
+ - date_dead_since: 2025-04-14T18:47:25.988705+00:00
+
+ ## This Blog is hosted on my Android phone
+ - [https://androidblog.a.pinggy.io](https://androidblog.a.pinggy.io)
+ - date_published: 2025-04-14T19:48:27.954881+00:00
+ - tags: ['selfhost']
+ - date_dead_since: 2024-04-20T00:41:39.733958+00:00
+
+ ## A Group Is Its Own Worst Enemy [pdf] (2005)
+ - [https://gwern.net/doc/technology/2005-shirky-agroupisitsownworstenemy.pdf](https://gwern.net/doc/technology/2005-shirky-agroupisitsownworstenemy.pdf)
+ - date_published: 2025-04-14T19:58:50.676841+00:00
+ - tags: ['management', 'programming']
+
+ ## Google CEO: “can we change the setting of this group to history-off” [pdf]
+ - [https://ia601707.us.archive.org/28/items/gov.uscourts.cand.364454/gov.uscourts.cand.364454.385.0.pdf](https://ia601707.us.archive.org/28/items/gov.uscourts.cand.364454/gov.uscourts.cand.364454.385.0.pdf)
+ - date_published: 2025-04-14T20:35:00.215529+00:00
+ - tags: ['corporatocracy', 'google', 'monopoly']
+
+ ## Cramming More Components onto Integrated Circuits (Gordon Moore, 1965) [pdf]
+ - [https://www.cs.utexas.edu/~fussell/courses/cs352h/papers/moore.pdf](https://www.cs.utexas.edu/~fussell/courses/cs352h/papers/moore.pdf)
+ - date_published: 2025-04-14T20:56:45.034008+00:00
+ - tags: ['gordon moore', 'hardware', 'integrated circuits']
+ - date_dead_since: 2025-04-14T20:56:45.062504+00:00
+
+ ## Till the LAST UKRAINIAN  [Documentary]
+ - [https://www.youtube.com/watch?v=wcn3_V2_rJ0](https://www.youtube.com/watch?v=wcn3_V2_rJ0)
+ - date_published: 2025-04-14T21:32:32.875295+00:00
+ - tags: ['ukraine', 'war']
+ - date_dead_since: 2024-04-20T01:17:27.014907+00:00
+
+ ## Is remote work bad for the economy?
+ - [https://www.fractional.work/p/is-remote-work-bad-for-the-economy](https://www.fractional.work/p/is-remote-work-bad-for-the-economy)
+ - date_published: 2025-04-14T22:05:43.859102+00:00
+ - tags: ['economy', 'remote work']
+ - date_dead_since: 2024-04-20T01:30:23.059057+00:00
+
+ ## Six Hardest Truths of 2023
+ - [https://www.youtube.com/watch?v=oknQHbKFTZE](https://www.youtube.com/watch?v=oknQHbKFTZE)
+ - date_published: 2025-04-14T22:27:31.831994+00:00
+ - tags: ['civilisation', 'future']
+ - date_dead_since: 2024-04-21T00:09:48.239463+00:00
+
+ ## Bezos, Gates, Zuckerberg. Behind every “self-made” millionaire is a father with money
+ - [https://levelup-edu.com/bezos-gates-zuckerberg-behind-every-self-made-millionaire-is-a-father-with-money](https://levelup-edu.com/bezos-gates-zuckerberg-behind-every-self-made-millionaire-is-a-father-with-money)
+ - date_published: 2025-04-14T22:38:44.784446+00:00
+ - tags: ['big tech', 'bill gates', 'billionaires', 'jeff bezos', 'mark zuckerberg', 'plutocracy']
+
+ ## MHB 2023 Western Europe Conference - Parenting Options for European Gay Men
+ - [https://menhavingbabies.org/surrogacy-seminars/brussels](https://menhavingbabies.org/surrogacy-seminars/brussels)
+ - date_published: 2025-04-14T23:32:49.854305+00:00
+ - tags: ['children', 'lgbt', 'surrogacy', 'the left wing']
+
+ ## Ludziom trzeba odebrać wolność w internecie - prof. Andrzej Zybertowicz
+ - [https://www.youtube.com/watch?v=PK6H0qI7fCY](https://www.youtube.com/watch?v=PK6H0qI7fCY)
+ - date_published: 2025-04-14T23:43:37.026659+00:00
+ - tags: ['anonymity', 'digital identity', 'privacy']
+ - date_dead_since: 2024-04-21T00:45:45.707564+00:00
+
+ ## Show HN: SinglePage – Quickly and anonymously publish a page to the web
+ - [https://singlepage.cc](https://singlepage.cc)
+ - date_published: 2025-04-14T23:55:18.951793+00:00
+ - tags: ['hosting', 'internet', 'programming']
+ - date_dead_since: 2024-04-21T01:15:07.516273+00:00
+
+ ## Finland’s Covid death toll could be exaggerated by 40%, THL says | News & More Trending News
+ - [https://www.thetimes.com.ng/2022/11/finlands-covid-death-toll-could-be-exaggerated-by-40-thl-says-news-more-trending-news](https://www.thetimes.com.ng/2022/11/finlands-covid-death-toll-could-be-exaggerated-by-40-thl-says-news-more-trending-news)
+ - date_published: 2025-04-15T00:06:51.675412+00:00
+ - tags: ['covid', 'covid lie', 'finland']
+ - date_dead_since: 2024-04-21T01:22:54.045192+00:00
 

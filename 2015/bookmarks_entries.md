@@ -1,8 +1,3 @@
- ## From Mathematics to Generic Programming
- - [https://fm2gp.com](https://fm2gp.com)
- - date_published: 2015-01-01T00:00:00+00:00
- - tags: ['book']
-
  ## Virginia Roberts: Who is the woman at the centre of the Prince Andrew sex allegations? | The Independent | The Independent
  - [https://www.independent.co.uk/news/uk/home-news/virginia-roberts-what-do-we-know-about-the-woman-at-the-centre-of-the-prince-andrew-sex-allegations-9958539.html](https://www.independent.co.uk/news/uk/home-news/virginia-roberts-what-do-we-know-about-the-woman-at-the-centre-of-the-prince-andrew-sex-allegations-9958539.html)
  - date_published: 2015-01-05T06:59:25+00:00
@@ -220,6 +215,7 @@
  - [https://www.timesofisrael.com/woman-says-epstein-forced-her-to-have-sex-with-former-pm-barak](https://www.timesofisrael.com/woman-says-epstein-forced-her-to-have-sex-with-former-pm-barak)
  - date_published: 2015-07-28T10:57:56+00:00
  - tags: ['ehud barak', 'israel', 'jeffrey epstein']
+ - date_dead_since: 2025-04-14T07:42:42.589200+00:00
 
  ## Memento Explanation by Christopher Nolan - True Genius - Must Watch
  - [https://www.youtube.com/watch?v=67e_jl4flpE](https://www.youtube.com/watch?v=67e_jl4flpE)

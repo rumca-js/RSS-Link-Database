@@ -1,8 +1,3 @@
- ## Abseil open-source foundational code
- - [https://abseil.io](https://abseil.io)
- - date_published: 2017-01-01T00:00:00+00:00
- - tags: ['c++']
-
  ## Having babies really does change women's brains
  - [https://www.abc.net.au/news/2017-01-07/having-babies-changes-womens-brains/8165466](https://www.abc.net.au/news/2017-01-07/having-babies-changes-womens-brains/8165466)
  - date_published: 2017-01-06T08:38:05+00:00

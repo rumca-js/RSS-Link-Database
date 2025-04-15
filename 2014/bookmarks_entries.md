@@ -264,8 +264,3 @@
  - date_published: 2014-12-30T15:08:38+00:00
  - tags: ['biometric', 'hackers']
 
- ## From Mathematics to Generic Programming
- - [https://fm2gp.com](https://fm2gp.com)
- - date_published: 2015-01-01T00:00:00+00:00
- - tags: ['book']
-

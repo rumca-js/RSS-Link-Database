@@ -1837,18 +1837,18 @@
         "language": "en-US",
         "link": "https://www.timesofisrael.com/knesset-speaker-christmas-trees-bring-bad-memories",
         "manual_status_code": 0,
-        "page_rating": 25,
-        "page_rating_contents": 50,
+        "page_rating": 37,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 10,
         "permanent": false,
         "source_url": "https://www.timesofisrael.com",
-        "status_code": 403,
+        "status_code": 200,
         "tags": [
             "christianophobia",
             "israel"
         ],
-        "thumbnail": "https://static.timesofisrael.com/www/uploads/2013/12/F131111DV039-1024x640.jpg",
+        "thumbnail": "https://static-cdn.toi-media.com/www/uploads/2013/12/F131111DV039.jpg",
         "title": "Knesset speaker: Christmas trees bring back bad memories",
         "vote": 10
     },

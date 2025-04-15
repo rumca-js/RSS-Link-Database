@@ -284,8 +284,8 @@
         "language": "en",
         "link": "https://www.engadget.com/2014-04-20-samsung-com-outage-sds-fire.html?guccounter=1",
         "manual_status_code": 0,
-        "page_rating": 48,
-        "page_rating_contents": 80,
+        "page_rating": 50,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 30,
         "permanent": false,
@@ -294,7 +294,7 @@
         "tags": [
             "technofeudalism"
         ],
-        "thumbnail": null,
+        "thumbnail": "https://o.aolcdn.com/hss/storage/midas/df51700a18e2c961665f27a06fa48684/200049556/gs5.jpg",
         "title": "Samsung data center fire causes outage, errors on smart TVs and phones (update: fixed)",
         "vote": 30
     },
@@ -1600,33 +1600,5 @@
         "thumbnail": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/12/30/1419938870506/f898598d-01dd-411d-bdea-894f152b37c3-2060x1236.jpeg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTQucG5n&enable=upscale&s=f701563b2043d4ff5bcf8483a664cdf9",
         "title": "Hacker fakes German minister's fingerprints using photos of her hands | Hacking | The Guardian",
         "vote": 0
-    },
-    {
-        "age": null,
-        "album": null,
-        "author": null,
-        "bookmarked": true,
-        "comments": [],
-        "date_created": "2024-03-08T12:20:08.294516+00:00",
-        "date_dead_since": null,
-        "date_published": "2015-01-01T00:00:00+00:00",
-        "description": "From Mathematics to Generic Programming",
-        "id": 91173,
-        "language": "en",
-        "link": "https://fm2gp.com",
-        "manual_status_code": 0,
-        "page_rating": 41,
-        "page_rating_contents": 100,
-        "page_rating_visits": 0,
-        "page_rating_votes": 10,
-        "permanent": true,
-        "source_url": "",
-        "status_code": 200,
-        "tags": [
-            "book"
-        ],
-        "thumbnail": null,
-        "title": "From Mathematics to Generic Programming",
-        "vote": 10
     }
 ]

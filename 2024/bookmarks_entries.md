@@ -35,7 +35,7 @@
 
  ## The internet copyright machine wasn’t made for Mickey Mouse
  - [https://www.theverge.com/2024/1/5/24026433/mickey-mouse-steamboat-willie-youtube-teepublic-takedowns-public-domain](https://www.theverge.com/2024/1/5/24026433/mickey-mouse-steamboat-willie-youtube-teepublic-takedowns-public-domain)
- - date_published: 2024-01-05T19:45:59+00:00
+ - date_published: 2024-01-05T19:46:00+00:00
  - tags: ['dmca', 'youtube']
 
  ## German farmers block roads with tractors in protest over cuts to vehicle tax subsidies – Europe live
@@ -101,7 +101,6 @@
  - [https://www.wsj.com/articles/anthony-fauci-covid-social-distancing-six-feet-rule-house-subcommittee-hearing-44289850](https://www.wsj.com/articles/anthony-fauci-covid-social-distancing-six-feet-rule-house-subcommittee-hearing-44289850)
  - date_published: 2024-01-11T23:34:00+00:00
  - tags: ['covid']
- - date_dead_since: 2024-05-29T11:53:10.724176+00:00
 
  ## Christian arrested for preaching by 'heavy-handed' police wins £5,000
  - [https://www.dailymail.co.uk/news/article-12958493/Victory-free-speech-Christian-arrested-preaching-ridiculously-heavy-handed-police-wins-5-000-cops.html](https://www.dailymail.co.uk/news/article-12958493/Victory-free-speech-Christian-arrested-preaching-ridiculously-heavy-handed-police-wins-5-000-cops.html)
@@ -207,7 +206,6 @@
  - [https://www.wsj.com/articles/dr-fauci-and-the-sort-of-just-appeared-defense-covid-distancing-7cada692](https://www.wsj.com/articles/dr-fauci-and-the-sort-of-just-appeared-defense-covid-distancing-7cada692)
  - date_published: 2024-01-19T20:13:00+00:00
  - tags: ['covid', 'lockdowns', 'mandates']
- - date_dead_since: 2024-05-29T10:28:07.907178+00:00
 
  ## French farmers threaten to intensify protests over taxes, regulation
  - [https://www.france24.com/en/france/20240120-french-farmers-threaten-to-intensify-protests-as-anger-mounts](https://www.france24.com/en/france/20240120-french-farmers-threaten-to-intensify-protests-as-anger-mounts)
@@ -447,11 +445,6 @@
  - date_published: 2024-02-19T16:46:00+00:00
  - tags: ['surveillance', 'technofeudalism']
 
- ## The Shirky Principle: Institutions Try to Preserve the Problem to Which They Are the Solution – Effectiviology
- - [https://effectiviology.com/shirky-principle](https://effectiviology.com/shirky-principle)
- - date_published: 2024-02-20T10:38:14+00:00
- - tags: ['inequality', 'shirky principle']
-
  ## Google Gemini is accused of being racist towards white people: Users claim the AI bot refuses to create images of Caucasian people - after asking for photos of Popes, Vikings, and country music fans
  - [https://www.dailymail.co.uk/sciencetech/article-13108515/Google-Gemini-racist-white-people.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/sciencetech/article-13108515/Google-Gemini-racist-white-people.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date_published: 2024-02-21T12:41:08+00:00
@@ -621,11 +614,6 @@
  - date_published: 2024-03-22T20:55:38+00:00
  - tags: ['privacy', 'surveillance', 'tech control', 'technofeudalism']
 
- ## Cheque Your Privilege — POV Film
- - [https://www.povfilm.org/cheque-your-privilege](https://www.povfilm.org/cheque-your-privilege)
- - date_published: 2024-03-25T07:05:16+00:00
- - tags: ['inequality', 'racism']
-
  ## Elon Musk Fought Government Surveillance — While Profiting Off Government Surveillance
  - [https://theintercept.com/2024/03/25/elon-musk-x-dataminr-surveillance-privacy](https://theintercept.com/2024/03/25/elon-musk-x-dataminr-surveillance-privacy)
  - date_published: 2024-03-25T16:16:42+00:00
@@ -783,7 +771,7 @@
 
  ## Jeffrey Epstein's notorious 'little black book' containing the names of 349 of dead pedophile's associates is put up for auction
  - [https://www.dailymail.co.uk/news/article-13426235/jeffrey-epstein-little-black-book-list-pedophiles-auction.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-13426235/jeffrey-epstein-little-black-book-list-pedophiles-auction.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - date_published: 2024-05-16T15:48:05+00:00
+ - date_published: 2024-05-16T16:26:53+00:00
  - tags: ['jeffrey epstein']
 
  ## Recall is Microsoft's key to unlocking the future of PCs
@@ -816,11 +804,6 @@
  - date_published: 2024-05-23T19:16:12+00:00
  - tags: ['orwell', 'privacy', 'surveillance', 'technofeudalism']
 
- ## UN's top court orders Israel to halt military operations in Rafah
- - [https://www.bbc.co.uk/news/live/world-69055989](https://www.bbc.co.uk/news/live/world-69055989)
- - date_published: 2024-05-24T12:32:06+00:00
- - tags: ['israel', 'palestine']
-
  ## Speedster jailed after S&rsquo;pore police tapped GPS, route data from in-car system
  - [https://www.thestar.com.my/tech/tech-news/2024/05/24/speedster-jailed-after-spore-police-tapped-gps-route-data-from-in-car-system-in-first-case-here](https://www.thestar.com.my/tech/tech-news/2024/05/24/speedster-jailed-after-spore-police-tapped-gps-route-data-from-in-car-system-in-first-case-here)
  - date_published: 2024-05-24T15:20:00+00:00
@@ -846,19 +829,14 @@
  - date_published: 2024-05-28T12:00:30+00:00
  - tags: ['icc', 'israel']
 
- ## Israel said to have waged 9-year ‘war’ against ICC, tapping its communications
- - [https://www.timesofisrael.com/israel-said-to-have-waged-9-year-war-against-icc-tapping-its-communications](https://www.timesofisrael.com/israel-said-to-have-waged-9-year-war-against-icc-tapping-its-communications)
- - date_published: 2024-05-28T17:28:43+00:00
- - tags: ['icc', 'israel', 'palestine']
-
  ## Israeli strikes on tent camp kills additional 37 Palestinians after Sunday strike killed 45
  - [https://www.pbs.org/newshour/politics/israeli-strikes-on-tent-camp-kills-additional-37-palestinians-after-sunday-strike-killed-45](https://www.pbs.org/newshour/politics/israeli-strikes-on-tent-camp-kills-additional-37-palestinians-after-sunday-strike-killed-45)
- - date_published: 2024-05-28T20:10:32+00:00
+ - date_published: 2024-05-28T16:10:32+00:00
  - tags: ['israel', 'palestine']
 
  ## Washing machine chime scandal shows how absurd YouTube copyright abuse can get
  - [https://arstechnica.com/tech-policy/2024/05/washing-machine-chime-scandal-shows-how-absurd-youtube-copyright-abuse-can-get](https://arstechnica.com/tech-policy/2024/05/washing-machine-chime-scandal-shows-how-absurd-youtube-copyright-abuse-can-get)
- - date_published: 2024-05-30T23:26:43+00:00
+ - date_published: 2024-05-30T18:28:15+00:00
  - tags: ['dmca', 'youtube']
 
  ## Fauci wrote 50 papers with adviser whose influence he downplayed in testimony
@@ -868,18 +846,13 @@
 
  ## Google cut Uncle Sam a $2M check so it could avoid a jury trial
  - [https://www.cnn.com/2024/06/07/business/google-doj-antitrust-case-judge-decision/index.html](https://www.cnn.com/2024/06/07/business/google-doj-antitrust-case-judge-decision/index.html)
- - date_published: 2024-06-08T10:43:42+00:00
+ - date_published: 2024-06-07T23:34:42+00:00
  - tags: ['corporatocracy', 'google', 'privacy']
 
  ## A look at search engines with their own indexes
  - [https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes](https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes)
  - date_published: 2024-06-09T17:28:50+00:00
  - tags: ['search engines', 'seo']
-
- ## Pride crosswalk damaged hours after repaint; suspects arrested
- - [https://www.spokesman.com/stories/2024/jun/06/pride-crosswalk-damaged-hours-after-repaint-suspec](https://www.spokesman.com/stories/2024/jun/06/pride-crosswalk-damaged-hours-after-repaint-suspec)
- - date_published: 2024-06-10T11:19:27+00:00
- - tags: ['hate crime', 'inequality', 'lgbt']
 
  ## Big Tech's role in enabling link fraud – take 2
  - [https://eligrey.com/blog/link-fraud](https://eligrey.com/blog/link-fraud)
@@ -1316,11 +1289,6 @@
  - [https://www.oxfam.org/en/press-releases/superyachts-and-jets-europes-elite-emit-more-carbon-pollution-week-worlds-poorest-1](https://www.oxfam.org/en/press-releases/superyachts-and-jets-europes-elite-emit-more-carbon-pollution-week-worlds-poorest-1)
  - date_published: 2024-10-28T13:11:49+00:00
  - tags: ['billionaires', 'climate change', 'elite']
-
- ## Fitness app Strava gives away location of Biden, Trump and other leaders, French newspaper says
- - [https://www.courthousenews.com/fitness-app-strava-gives-away-location-of-biden-trump-and-other-leaders-french-newspaper-says](https://www.courthousenews.com/fitness-app-strava-gives-away-location-of-biden-trump-and-other-leaders-french-newspaper-says)
- - date_published: 2024-10-28T19:09:37+00:00
- - tags: ['privacy', 'surveillance', 'technofeudalism']
 
  ## The Harris Campaign Manipulates Reddit To Control The Platform
  - [https://thefederalist.com/2024/10/29/busted-the-inside-story-of-how-the-kamala-harris-campaign-manipulates-reddit-and-breaks-the-rules-to-control-the-platform](https://thefederalist.com/2024/10/29/busted-the-inside-story-of-how-the-kamala-harris-campaign-manipulates-reddit-and-breaks-the-rules-to-control-the-platform)

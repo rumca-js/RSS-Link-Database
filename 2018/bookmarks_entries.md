@@ -432,6 +432,11 @@
  - date_published: 2018-06-06T12:17:34+00:00
  - tags: ['azealia banks', 'deplatform', 'twitter']
 
+ ## Mohammed introduces Pavilion Labour's Eid Festival
+ - [https://www.youtube.com/watch?v=4sms60Dq19s](https://www.youtube.com/watch?v=4sms60Dq19s)
+ - date_published: 2018-06-13T21:14:57+00:00
+ - tags: ['immigration', 'uk']
+
  ## Can we trust AI if we don't know how it works?
  - [https://www.bbc.com/news/business-44466213](https://www.bbc.com/news/business-44466213)
  - date_published: 2018-06-15T19:50:48+00:00
@@ -499,7 +504,7 @@
 
  ## Pentagon restricts use of fitness trackers, other devices
  - [https://apnews.com/article/d29c724e1d72460fbf7c2e999992d258](https://apnews.com/article/d29c724e1d72460fbf7c2e999992d258)
- - date_published: 2018-08-07T12:01:24+00:00
+ - date_published: 2018-08-07T00:52:37+00:00
  - tags: ['cybersecurity', 'privacy', 'surveillance']
 
  ## In full: Rowan Atkinson on free speech

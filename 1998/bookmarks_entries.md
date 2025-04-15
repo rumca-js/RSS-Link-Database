@@ -33,3 +33,8 @@
  - date_published: 1998-11-03T10:53:56+00:00
  - tags: ['dark design', 'halloween documents', 'microsoft']
 
+ ## The Tao of Programming
+ - [https://www.mit.edu/~xela/tao.html](https://www.mit.edu/~xela/tao.html)
+ - date_published: 1998-11-20T05:31:55+00:00
+ - tags: ['funny', 'programming']
+

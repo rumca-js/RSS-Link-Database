@@ -216,5 +216,34 @@
         "thumbnail": null,
         "title": "Internal Memo Shows Microsoft Executives' Concern Over Free Software",
         "vote": 30
+    },
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_created": "2024-02-29T15:00:29.085510+00:00",
+        "date_dead_since": null,
+        "date_published": "1998-11-20T05:31:55+00:00",
+        "description": "The Tao of Programming",
+        "id": 40762,
+        "language": "en-US",
+        "link": "https://www.mit.edu/~xela/tao.html",
+        "manual_status_code": 0,
+        "page_rating": 61,
+        "page_rating_contents": 80,
+        "page_rating_visits": 0,
+        "page_rating_votes": 50,
+        "permanent": false,
+        "source_url": "http://www.mit.edu",
+        "status_code": 200,
+        "tags": [
+            "funny",
+            "programming"
+        ],
+        "thumbnail": null,
+        "title": "The Tao of Programming",
+        "vote": 50
     }
 ]
