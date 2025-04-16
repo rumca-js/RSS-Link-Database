@@ -1778,7 +1778,6 @@
  - [https://summit.news/2020/12/22/french-law-would-ban-people-who-dont-get-covid-vaccine-from-using-public-transport](https://summit.news/2020/12/22/french-law-would-ban-people-who-dont-get-covid-vaccine-from-using-public-transport)
  - date_published: 2020-12-22T22:07:50+00:00
  - tags: ['covid', 'covid mandates', 'france', 'vaccine']
- - date_dead_since: 2024-04-23T01:35:10.336999+00:00
 
  ## Zoom Shared US User Data With Beijing
  - [https://www.ntd.com/zoom-shared-us-user-data-with-beijing_544087.html](https://www.ntd.com/zoom-shared-us-user-data-with-beijing_544087.html)
@@ -1860,7 +1859,6 @@
  - [https://summit.news/2020/12/30/uk-woman-arrested-for-filming-inside-empty-hospital](https://summit.news/2020/12/30/uk-woman-arrested-for-filming-inside-empty-hospital)
  - date_published: 2020-12-30T07:29:04+00:00
  - tags: ['big brother', 'covid']
- - date_dead_since: 2024-04-23T01:33:52.590905+00:00
 
  ## Hiszpania: Rodzina odmówi zaszczepienia seniora? Może stracić nad nim opiekę
  - [https://www.rmf24.pl/raporty/raport-koronawirus-z-chin/europa/news-hiszpania-rodzina-odmowi-zaszczepienia-seniora-moze-stracic-,nId,4957585](https://www.rmf24.pl/raporty/raport-koronawirus-z-chin/europa/news-hiszpania-rodzina-odmowi-zaszczepienia-seniora-moze-stracic-,nId,4957585)

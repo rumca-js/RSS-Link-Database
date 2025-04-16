@@ -445,6 +445,11 @@
  - date_published: 2024-02-19T16:46:00+00:00
  - tags: ['surveillance', 'technofeudalism']
 
+ ## The Shirky Principle: Institutions Try to Preserve the Problem to Which They Are the Solution – Effectiviology
+ - [https://effectiviology.com/shirky-principle](https://effectiviology.com/shirky-principle)
+ - date_published: 2024-02-20T09:33:25+00:00
+ - tags: ['inequality', 'shirky principle']
+
  ## Google Gemini is accused of being racist towards white people: Users claim the AI bot refuses to create images of Caucasian people - after asking for photos of Popes, Vikings, and country music fans
  - [https://www.dailymail.co.uk/sciencetech/article-13108515/Google-Gemini-racist-white-people.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/sciencetech/article-13108515/Google-Gemini-racist-white-people.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date_published: 2024-02-21T12:41:08+00:00
@@ -613,6 +618,11 @@
  - [https://www.forbes.com/sites/thomasbrewster/2024/03/22/feds-ordered-google-to-unmask-certain-youtube-users-critics-say-its-terrifying](https://www.forbes.com/sites/thomasbrewster/2024/03/22/feds-ordered-google-to-unmask-certain-youtube-users-critics-say-its-terrifying)
  - date_published: 2024-03-22T20:55:38+00:00
  - tags: ['privacy', 'surveillance', 'tech control', 'technofeudalism']
+
+ ## Cheque Your Privilege — POV Film
+ - [https://www.povfilm.org/cheque-your-privilege](https://www.povfilm.org/cheque-your-privilege)
+ - date_published: 2024-03-25T13:48:56+00:00
+ - tags: ['inequality', 'racism']
 
  ## Elon Musk Fought Government Surveillance — While Profiting Off Government Surveillance
  - [https://theintercept.com/2024/03/25/elon-musk-x-dataminr-surveillance-privacy](https://theintercept.com/2024/03/25/elon-musk-x-dataminr-surveillance-privacy)
@@ -804,6 +814,11 @@
  - date_published: 2024-05-23T19:16:12+00:00
  - tags: ['orwell', 'privacy', 'surveillance', 'technofeudalism']
 
+ ## UN's top court orders Israel to halt military operations in Rafah
+ - [https://www.bbc.co.uk/news/live/world-69055989](https://www.bbc.co.uk/news/live/world-69055989)
+ - date_published: 2024-05-24T10:34:24+00:00
+ - tags: ['israel', 'palestine']
+
  ## Speedster jailed after S&rsquo;pore police tapped GPS, route data from in-car system
  - [https://www.thestar.com.my/tech/tech-news/2024/05/24/speedster-jailed-after-spore-police-tapped-gps-route-data-from-in-car-system-in-first-case-here](https://www.thestar.com.my/tech/tech-news/2024/05/24/speedster-jailed-after-spore-police-tapped-gps-route-data-from-in-car-system-in-first-case-here)
  - date_published: 2024-05-24T15:20:00+00:00
@@ -824,6 +839,11 @@
  - date_published: 2024-05-28T03:07:31+00:00
  - tags: ['corporatocracy', 'google', 'inequality']
 
+ ## Israel said to have waged 9-year ‘war’ against ICC, tapping its communications
+ - [https://www.timesofisrael.com/israel-said-to-have-waged-9-year-war-against-icc-tapping-its-communications](https://www.timesofisrael.com/israel-said-to-have-waged-9-year-war-against-icc-tapping-its-communications)
+ - date_published: 2024-05-28T10:12:45+00:00
+ - tags: ['icc', 'israel', 'palestine']
+
  ## Spying, hacking and intimidation: Israel’s nine-year ‘war’ on the ICC exposed
  - [https://www.theguardian.com/world/article/2024/may/28/spying-hacking-intimidation-israel-war-icc-exposed](https://www.theguardian.com/world/article/2024/may/28/spying-hacking-intimidation-israel-war-icc-exposed)
  - date_published: 2024-05-28T12:00:30+00:00
@@ -843,6 +863,11 @@
  - [https://www.washingtonexaminer.com/policy/healthcare/3029346/fauci-wrote-50-papers-with-adviser-whose-influence-he-downplayed-in-testimony](https://www.washingtonexaminer.com/policy/healthcare/3029346/fauci-wrote-50-papers-with-adviser-whose-influence-he-downplayed-in-testimony)
  - date_published: 2024-06-05T19:44:42+00:00
  - tags: ['covid', 'science is dead']
+
+ ## Pride crosswalk damaged hours after repaint; suspects arrested
+ - [https://www.spokesman.com/stories/2024/jun/06/pride-crosswalk-damaged-hours-after-repaint-suspec](https://www.spokesman.com/stories/2024/jun/06/pride-crosswalk-damaged-hours-after-repaint-suspec)
+ - date_published: 2024-06-06T16:06:30+00:00
+ - tags: ['hate crime', 'inequality', 'lgbt']
 
  ## Google cut Uncle Sam a $2M check so it could avoid a jury trial
  - [https://www.cnn.com/2024/06/07/business/google-doj-antitrust-case-judge-decision/index.html](https://www.cnn.com/2024/06/07/business/google-doj-antitrust-case-judge-decision/index.html)
@@ -1285,6 +1310,11 @@
  - date_published: 2024-10-26T20:47:34+00:00
  - tags: ['immigration']
 
+ ## Fitness app Strava gives away location of Biden, Trump and other leaders, French newspaper says
+ - [https://www.courthousenews.com/fitness-app-strava-gives-away-location-of-biden-trump-and-other-leaders-french-newspaper-says](https://www.courthousenews.com/fitness-app-strava-gives-away-location-of-biden-trump-and-other-leaders-french-newspaper-says)
+ - date_published: 2024-10-28T03:57:22+00:00
+ - tags: ['privacy', 'surveillance', 'technofeudalism']
+
  ## Superyachts and jets of Europe’s elite emit more carbon pollution in a week than the world’s poorest 1% emits in a lifetime | Oxfam International
  - [https://www.oxfam.org/en/press-releases/superyachts-and-jets-europes-elite-emit-more-carbon-pollution-week-worlds-poorest-1](https://www.oxfam.org/en/press-releases/superyachts-and-jets-europes-elite-emit-more-carbon-pollution-week-worlds-poorest-1)
  - date_published: 2024-10-28T13:11:49+00:00
@@ -1403,6 +1433,11 @@
  - [https://www.tomshardware.com/software/windows/microsoft-recall-screenshots-credit-cards-and-social-security-numbers-even-with-the-sensitive-information-filter-enabled](https://www.tomshardware.com/software/windows/microsoft-recall-screenshots-credit-cards-and-social-security-numbers-even-with-the-sensitive-information-filter-enabled)
  - date_published: 2024-12-12T17:01:16+00:00
  - tags: ['privacy', 'surveillance']
+
+ ## BRICS Currency May Not Upstage the US Dollar Anytime Soon
+ - [https://thediplomat.com/2024/12/brics-currency-may-not-upstage-the-us-dollar-anytime-soon](https://thediplomat.com/2024/12/brics-currency-may-not-upstage-the-us-dollar-anytime-soon)
+ - date_published: 2024-12-15T17:13:02+00:00
+ - tags: ['brics', 'cbdc', 'fiat currency']
 
  ## wsj.com
  - [https://www.wsj.com/politics/national-security/fbi-covid-19-pandemic-lab-leak-theory-dfbd8a51](https://www.wsj.com/politics/national-security/fbi-covid-19-pandemic-lab-leak-theory-dfbd8a51)

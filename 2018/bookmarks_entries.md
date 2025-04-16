@@ -690,6 +690,11 @@
  - tags: ['climate change', 'depopulation', 'feminism']
  - date_dead_since: 2024-10-26T03:46:25.143700+00:00
 
+ ## Dr. James Giordano: The Brain is the Battlefield of the Future
+ - [https://www.youtube.com/watch?v=N02SK9yd60s](https://www.youtube.com/watch?v=N02SK9yd60s)
+ - date_published: 2018-10-29T00:00:00+00:00
+ - tags: ['big tech', 'social control', 'social media']
+
  ## Joe Rogan - Exposing Social Justice with Peter Boghossian & James Lindsay
  - [https://www.youtube.com/watch?v=OlqU_JMTzd4](https://www.youtube.com/watch?v=OlqU_JMTzd4)
  - date_published: 2018-10-30T00:00:00+00:00

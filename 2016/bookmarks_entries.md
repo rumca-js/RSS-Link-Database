@@ -394,6 +394,11 @@
  - date_published: 2016-12-14T13:38:36+00:00
  - tags: ['bilderberg meeting', 'józef retinger', 'secret societies']
 
+ ## A Framework for Understanding Whiteness in Mathematics Education
+ - [https://files.eric.ed.gov/fulltext/EJ1124962.pdf](https://files.eric.ed.gov/fulltext/EJ1124962.pdf)
+ - date_published: 2016-12-15T03:46:57+00:00
+ - tags: ['black lives matter', 'blm', 'hate speech', 'racism', 'usa']
+
  ## Clinton mega donor George Soros leads line-up of liberal billionaires who are funding Facebook's fake news fact checker
  - [https://www.dailymail.co.uk/news/article-4041910/Clinton-mega-donor-George-Soros-leads-line-liberal-billionaires-funding-Facebook-s-fake-news-fact-checker.html](https://www.dailymail.co.uk/news/article-4041910/Clinton-mega-donor-George-Soros-leads-line-liberal-billionaires-funding-Facebook-s-fake-news-fact-checker.html)
  - date_published: 2016-12-16T13:56:18+00:00

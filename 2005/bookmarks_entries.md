@@ -1,3 +1,8 @@
+ ## A Group Is Its Own Worst Enemy [pdf] (2005)
+ - [https://gwern.net/doc/technology/2005-shirky-agroupisitsownworstenemy.pdf](https://gwern.net/doc/technology/2005-shirky-agroupisitsownworstenemy.pdf)
+ - date_published: 2005-04-14T19:58:50+00:00
+ - tags: ['management', 'programming']
+
  ## Medical Journals Are an Extension of the Marketing Arm of Pharmaceutical Companies | PLOS Medicine
  - [https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020138](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020138)
  - date_published: 2005-05-17T07:00:49+00:00

@@ -1092,6 +1092,11 @@
  - date_published: 2023-01-23T14:20:43+00:00
  - tags: ['google', 'privacy']
 
+ ## Bezos, Gates, Zuckerberg. Behind every “self-made” millionaire is a father with money
+ - [https://levelup-edu.com/bezos-gates-zuckerberg-behind-every-self-made-millionaire-is-a-father-with-money](https://levelup-edu.com/bezos-gates-zuckerberg-behind-every-self-made-millionaire-is-a-father-with-money)
+ - date_published: 2023-01-23T22:38:44+00:00
+ - tags: ['big tech', 'bill gates', 'billionaires', 'jeff bezos', 'mark zuckerberg', 'plutocracy']
+
  ## FBI Says North Korean Hackers Behind $100 Million Horizon Bridge Crypto Theft
  - [https://thehackernews.com/2023/01/fbi-says-north-korean-hackers-behind.html](https://thehackernews.com/2023/01/fbi-says-north-korean-hackers-behind.html)
  - date_published: 2023-01-24T11:58:00+00:00
@@ -1423,6 +1428,11 @@
  - [https://mullvad.net/en/blog/2023/2/1/eu-chat-control-law-will-ban-open-source-operating-systems](https://mullvad.net/en/blog/2023/2/1/eu-chat-control-law-will-ban-open-source-operating-systems)
  - date_published: 2023-02-01T18:36:14+00:00
  - tags: ['chat control', 'government control', 'privacy', 'surveillance']
+
+ ## Is remote work bad for the economy? | Hacker News
+ - [https://news.ycombinator.com/item?id=34605240](https://news.ycombinator.com/item?id=34605240)
+ - date_published: 2023-02-01T19:14:47+00:00
+ - tags: ['economy', 'remote work']
 
  ## Inflacja w Chorwacji po wejściu do strefy euro nie wzrosła, tylko spadła
  - [https://businessinsider.com.pl/gospodarka/piec-najciekawszych-wydarzen-w-gospodarce-teraz-2022023/ndyxye8](https://businessinsider.com.pl/gospodarka/piec-najciekawszych-wydarzen-w-gospodarce-teraz-2022023/ndyxye8)
@@ -1944,6 +1954,11 @@
  - [https://reclaimthenet.org/uk-tests-tracking-citizens-habits-rewarding-them-for-good-behavior](https://reclaimthenet.org/uk-tests-tracking-citizens-habits-rewarding-them-for-good-behavior)
  - date_published: 2023-02-19T16:29:23+00:00
  - tags: ['privacy', 'skinner box', 'social score', 'surveillance']
+
+ ## The Norvig – Chomsky Debate on Statistical Learning in AI
+ - [http://web.cse.ohio-state.edu/~stiff.4/cse3521/norvig-chomsky.html](http://web.cse.ohio-state.edu/~stiff.4/cse3521/norvig-chomsky.html)
+ - date_published: 2023-02-19T20:42:10+00:00
+ - tags: ['artificial intelligence']
 
  ## UK gov’t scheme flags Shakespeare, LOTR as ‘key texts’ for ‘white supremacists’ | TVP World
  - [https://tvpworld.com/66452162/uk-govt-scheme-flags-shakespeare-lotr-as-key-texts-for-white-supremacists](https://tvpworld.com/66452162/uk-govt-scheme-flags-shakespeare-lotr-as-key-texts-for-white-supremacists)
@@ -3083,6 +3098,11 @@
  - date_published: 2023-03-31T21:05:38+00:00
  - tags: ['cbdc', 'digital money']
 
+ ## GPT4 impersonating a FTP server at ftp.disney.com
+ - [https://www.filestash.app/2023/04/01/chat-gpt-acting-as-a-ftp-server](https://www.filestash.app/2023/04/01/chat-gpt-acting-as-a-ftp-server)
+ - date_published: 2023-04-01T01:32:35+00:00
+ - tags: ['artificial intelligence', 'gpt-4']
+
  ## Google, Amazon i Meta pogarszają swoje podstawowe produkty. Robią to celowo
  - [https://businessinsider.com.pl/biznes/google-amazon-i-meta-pogarszaja-swoje-podstawowe-produkty-robia-to-celowo/8hqsn68](https://businessinsider.com.pl/biznes/google-amazon-i-meta-pogarszaja-swoje-podstawowe-produkty-robia-to-celowo/8hqsn68)
  - date_published: 2023-04-01T04:05:00+00:00
@@ -3228,6 +3248,12 @@
  - [https://nypost.com/2023/04/07/inside-the-woke-scoring-system-guiding-american-companies](https://nypost.com/2023/04/07/inside-the-woke-scoring-system-guiding-american-companies)
  - date_published: 2023-04-07T17:03:59+00:00
  - tags: ['blackrock', 'cei', 'corporate equality index', 'esg', 'the left wing', 'woke']
+
+ ## 2023 LGBTQ+ Student Possibility Programme
+ - [https://www.goldmansachs.com/careers/students/programs/emea/lgbt-student-possibility-program.html](https://www.goldmansachs.com/careers/students/programs/emea/lgbt-student-possibility-program.html)
+ - date_published: 2023-04-07T19:14:47+00:00
+ - tags: ['inequality', 'lgbt', 'science is dead', 'the left wing']
+ - date_dead_since: 2024-04-21T00:12:59.272875+00:00
 
  ## Amazon Bans Flipper Zero, Claiming It Violates Policy Against Card Skimming Devices
  - [https://gizmodo.com/amazon-bans-flipper-zero-card-skimming-on-tiktok-1850313284](https://gizmodo.com/amazon-bans-flipper-zero-card-skimming-on-tiktok-1850313284)
@@ -3421,6 +3447,12 @@
  - date_published: 2023-04-14T15:20:50+00:00
  - tags: ['euthanasia', 'netherlands']
 
+ ## No CSS Club – because no JavaScript was not hardcore enough
+ - [https://nocss.club](https://nocss.club)
+ - date_published: 2023-04-14T18:47:25+00:00
+ - tags: ['selfhost', 'web10', 'webdev']
+ - date_dead_since: 2025-04-14T18:47:25.988705+00:00
+
  ## Assassination Classroom Has Been Banned in Florida and Wisconsin Schools
  - [https://www.cbr.com/assassination-classroom-banned-florida-wisconsin](https://www.cbr.com/assassination-classroom-banned-florida-wisconsin)
  - date_published: 2023-04-14T19:30:21+00:00
@@ -3436,6 +3468,11 @@
  - date_published: 2023-04-14T23:22:57+00:00
  - tags: ['big brother', 'cbdc', 'robert kennedy', 'surveillance']
 
+ ## MHB 2023 Western Europe Conference - Parenting Options for European Gay Men
+ - [https://menhavingbabies.org/surrogacy-seminars/brussels](https://menhavingbabies.org/surrogacy-seminars/brussels)
+ - date_published: 2023-04-14T23:32:49+00:00
+ - tags: ['children', 'lgbt', 'surrogacy', 'the left wing']
+
  ## Niemcy. Niemcy zamykają ostatnie elektrownie atomowe, wielkie wyzwanie przed największą gospodarką Europy - TVN24 Biznes
  - [https://tvn24.pl/biznes/ze-swiata/niemcy-niemcy-zamykaja-ostatnie-elektrownie-atomowe-wielkie-wyzwanie-przed-najwieksza-gospodarka-europy-6919294](https://tvn24.pl/biznes/ze-swiata/niemcy-niemcy-zamykaja-ostatnie-elektrownie-atomowe-wielkie-wyzwanie-przed-najwieksza-gospodarka-europy-6919294)
  - date_published: 2023-04-15T07:35:41+00:00
@@ -3445,6 +3482,11 @@
  - [https://nypost.com/2023/04/15/covid-vaccine-doubter-alex-berenson-sues-biden-over-twitter-ban](https://nypost.com/2023/04/15/covid-vaccine-doubter-alex-berenson-sues-biden-over-twitter-ban)
  - date_published: 2023-04-15T20:16:51+00:00
  - tags: ['alex berenson', 'censorship', 'covid', 'twitter', 'twitter files', 'vaccine']
+
+ ## Google CEO: “can we change the setting of this group to history-off” [pdf]
+ - [https://ia601707.us.archive.org/28/items/gov.uscourts.cand.364454/gov.uscourts.cand.364454.385.0.pdf](https://ia601707.us.archive.org/28/items/gov.uscourts.cand.364454/gov.uscourts.cand.364454.385.0.pdf)
+ - date_published: 2023-04-15T20:35:00+00:00
+ - tags: ['corporatocracy', 'google', 'monopoly']
 
  ## Shared post - Trans therapist charged over sexually assaulting autistic children in Indiana
  - [https://ngo.locals.com/post/3856550/trans-therapist-charged-over-sexually-assaulting-autistic-children-in-indiana](https://ngo.locals.com/post/3856550/trans-therapist-charged-over-sexually-assaulting-autistic-children-in-indiana)
@@ -3671,6 +3713,11 @@
  - date_published: 2023-04-23T11:38:33+00:00
  - tags: ['go woke go broke', 'the left wing']
  - date_dead_since: 2025-03-07T12:28:15.257056+00:00
+
+ ## To Be Enlightened, You MUST Understand What EVIL Is | Jordan Peterson's Mind-Blowing SPEECH
+ - [https://www.youtube.com/watch?v=1Jo7Qk6vjoI](https://www.youtube.com/watch?v=1Jo7Qk6vjoI)
+ - date_published: 2023-04-24T00:00:00+00:00
+ - tags: ['bible', 'jordan peterson', 'religion', 'religion knowledge']
 
  ## 85% of business leaders would let a robot make their decisions
  - [https://www.zdnet.com/article/85-of-business-leaders-would-let-a-robot-make-their-decisions](https://www.zdnet.com/article/85-of-business-leaders-would-let-a-robot-make-their-decisions)
@@ -6115,6 +6162,11 @@
  - date_published: 2023-07-19T14:00:02+00:00
  - tags: ['artificial intelligence']
 
+ ## YouTube Is Pulling ‘Sound Of Freedom’ Interviews, Reviews – Summit News
+ - [https://summit.news/2023/07/19/youtube-is-pulling-sound-of-freedom-interviews-reviews](https://summit.news/2023/07/19/youtube-is-pulling-sound-of-freedom-interviews-reviews)
+ - date_published: 2023-07-19T17:42:37+00:00
+ - tags: ['censorship', 'sound of freedom', 'youtube']
+
  ## Flying in Europe up to 30 times cheaper than train, says Greenpeace
  - [https://www.theguardian.com/environment/2023/jul/20/flying-in-europe-up-to-30-times-cheaper-than-train-says-greenpeace](https://www.theguardian.com/environment/2023/jul/20/flying-in-europe-up-to-30-times-cheaper-than-train-says-greenpeace)
  - date_published: 2023-07-19T23:01:13+00:00
@@ -6351,6 +6403,10 @@
  - [https://lobste.rs/about#invitations](https://lobste.rs/about#invitations)
  - date_published: 2023-07-26T07:13:44+00:00
  - tags: ['selfhost']
+
+ ## A Census of Minecraft Servers
+ - [https://blog.bithole.dev/mcmap.html](https://blog.bithole.dev/mcmap.html)
+ - date_published: 2023-07-26T09:16:48+00:00
 
  ## Google vs. the Open Web
  - [https://interpeer.io/blog/2023/07/google-vs-the-open-web](https://interpeer.io/blog/2023/07/google-vs-the-open-web)
@@ -6974,6 +7030,11 @@
  - date_published: 2023-08-21T18:49:20+00:00
  - tags: ['fact check']
 
+ ## Cologne Catholic diocese clergy and staff used work computers for porn, German media reports
+ - [https://www.bbc.co.uk/news/world-europe-66543503?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-66543503?at_medium=RSS&at_campaign=KARANGA)
+ - date_published: 2023-08-22T17:10:18+00:00
+ - tags: ['church scandal', 'religion']
+
  ## RELEASE: After years of opposition, Apple calls for passage of Right to Repair in California
  - [https://pirg.org/media-center/release-after-years-of-opposition-apple-calls-for-passage-of-right-to-repair-in-california](https://pirg.org/media-center/release-after-years-of-opposition-apple-calls-for-passage-of-right-to-repair-in-california)
  - date_published: 2023-08-23T09:56:50+00:00
@@ -7451,6 +7512,12 @@
  - [https://www.theguardian.com/environment/2023/sep/12/world-bank-spent-billions-of-dollars-backing-fossil-fuels-in-2022-study-finds](https://www.theguardian.com/environment/2023/sep/12/world-bank-spent-billions-of-dollars-backing-fossil-fuels-in-2022-study-finds)
  - date_published: 2023-09-12T04:00:25+00:00
  - tags: ['climate change']
+
+ ## CIA bribed its own COVID-19 origin team to reject lab-leak theory, anonymous whistleblower claims
+ - [https://www.science.org/content/article/cia-bribed-its-own-covid-19-origin-team-reject-lab-leak-theory-anonymous-whistleblower](https://www.science.org/content/article/cia-bribed-its-own-covid-19-origin-team-reject-lab-leak-theory-anonymous-whistleblower)
+ - date_published: 2023-09-12T09:39:12+00:00
+ - tags: ['covid', 'lab leak', 'science is dead', 'wuhan']
+ - date_dead_since: 2025-04-14T09:39:12.386599+00:00
 
  ## Unapologetic California mayor goes viral after being spanked with paddle by drag queen
  - [https://nypost.com/2023/09/12/burbank-mayor-konstantine-anthony-spanked-by-drag-queen](https://nypost.com/2023/09/12/burbank-mayor-konstantine-anthony-spanked-by-drag-queen)
@@ -8109,6 +8176,11 @@
  - [https://pluralistic.net/2023/11/13/this-is-for-everyone](https://pluralistic.net/2023/11/13/this-is-for-everyone)
  - date_published: 2023-11-13T20:47:59+00:00
  - tags: ['open source', 'standards']
+
+ ## A crowd responds in the street to the socialist attack on religious freedom in Spain
+ - [https://www.outono.net/elentir/2023/11/28/a-crowd-responds-in-the-street-to-the-socialist-attack-on-religious-freedom-in-spain](https://www.outono.net/elentir/2023/11/28/a-crowd-responds-in-the-street-to-the-socialist-attack-on-religious-freedom-in-spain)
+ - date_published: 2023-11-14T11:51:14+00:00
+ - tags: ['christianophobia', 'religion']
 
  ## Web Browsing Data Is 'Serious Security Threat' To EU And US
  - [https://www.forbes.com/sites/emmawoollacott/2023/11/14/web-browsing-data-is-serious-security-threat-to-eu-and-us](https://www.forbes.com/sites/emmawoollacott/2023/11/14/web-browsing-data-is-serious-security-threat-to-eu-and-us)
