@@ -27,6 +27,7 @@
  - [http://infolab.stanford.edu/pub/papers/google.pdf](http://infolab.stanford.edu/pub/papers/google.pdf)
  - date_published: 1998-09-06T07:13:47+00:00
  - tags: ['algorithms', 'bias', 'media bias', 'search algorithms', 'search bias', 'search engines']
+ - date_dead_since: 2025-04-16T00:59:01.367372+00:00
 
  ## Internal Memo Shows Microsoft Executives' Concern Over Free Software
  - [https://archive.nytimes.com/www.nytimes.com/library/tech/98/11/biztech/articles/03memo.html](https://archive.nytimes.com/www.nytimes.com/library/tech/98/11/biztech/articles/03memo.html)

@@ -1025,7 +1025,7 @@
 
  ## Ubisoft Pays For Influencers To Travel To LA, Visit Disneyland As Part Of 'Star Wars Outlaws' Marketing Campaign
  - [https://boundingintocomics.com/video-games/ubisoft-pays-for-influencers-to-travel-to-la-visit-disneyland-as-part-of-star-wars-outlaws-marketing-campaign](https://boundingintocomics.com/video-games/ubisoft-pays-for-influencers-to-travel-to-la-visit-disneyland-as-part-of-star-wars-outlaws-marketing-campaign)
- - date_published: 2024-08-06T13:51:07+00:00
+ - date_published: 2024-08-06T06:43:13+00:00
  - tags: ['journalism', 'manufacturing consent', 'ubisoft']
 
  ## Atlanta Police Monitoring of 'Cop City' Opponents' Political Activity

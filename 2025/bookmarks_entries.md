@@ -358,3 +358,8 @@
  - date_published: 2025-04-14T17:24:42+00:00
  - tags: ['privacy', 'surveillance']
 
+ ## Wrocław: Aż 45 lekarzy-antyszczepionkowców stanęło przed sądem. Sali pilnuje policja
+ - [https://tuwroclaw.com/artykul/wroclaw-az-45-lekarzy-antyszczepionkowcow-n1529766](https://tuwroclaw.com/artykul/wroclaw-az-45-lekarzy-antyszczepionkowcow-n1529766)
+ - date_published: 2025-04-16T10:13:00+00:00
+ - tags: ['covid']
+

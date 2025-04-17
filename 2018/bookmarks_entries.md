@@ -63,7 +63,6 @@
  - [https://www.youtube.com/watch?v=6T7pUEZfgdI](https://www.youtube.com/watch?v=6T7pUEZfgdI)
  - date_published: 2018-01-30T00:00:00+00:00
  - tags: ['jordan peterson']
- - date_dead_since: 2024-04-24T01:07:51.914510+00:00
 
  ## Özgür Baba - Dertli Dolap
  - [https://www.youtube.com/watch?v=cIMKJ43TFLs](https://www.youtube.com/watch?v=cIMKJ43TFLs)

@@ -13,6 +13,11 @@
  - date_published: 2011-03-30T07:24:44+00:00
  - tags: ['bill gates', 'paul allen']
 
+ ## The funders of climate disinformation
+ - [https://www.campaigncc.org/climate_change/sceptics/funders](https://www.campaigncc.org/climate_change/sceptics/funders)
+ - date_published: 2011-04-06T14:19:38+00:00
+ - tags: ['carbon emissions', 'carbon footprint', 'climate change']
+
  ## The Berlusconi in Us All: Bunga Bunga's Real Meaning
  - [https://www.theatlantic.com/international/archive/2011/04/the-berlusconi-in-us-all-bunga-bungas-real-meaning/236871](https://www.theatlantic.com/international/archive/2011/04/the-berlusconi-in-us-all-bunga-bungas-real-meaning/236871)
  - date_published: 2011-04-06T20:33:30+00:00

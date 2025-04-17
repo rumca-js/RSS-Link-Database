@@ -2128,5 +2128,33 @@
         "thumbnail": "https://regmedia.co.uk/2022/08/05/shutterstock_not_again_road_sign_with_clouds.jpg",
         "title": "Old Fortinet flaws under attack through new method",
         "vote": 0
+    },
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_created": "2025-04-16T16:26:37.655868+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-16T10:13:00+00:00",
+        "description": "Przed wroc\u0142awskim s\u0105dem lekarskim zacz\u0105\u0142 si\u0119 w \u015brod\u0119 proces 45 lekarzy oskar\u017conych przez sw\u00f3j zawodowy samorz\u0105d o propagowanie postaw antyzdrowotnych.",
+        "id": 2571930,
+        "language": "pl",
+        "link": "https://tuwroclaw.com/artykul/wroclaw-az-45-lekarzy-antyszczepionkowcow-n1529766",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 91,
+        "page_rating_visits": 3,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "covid"
+        ],
+        "thumbnail": "https://tuwroclaw.com/static/files/cropped/585/1529766_1744791127.webp",
+        "title": "Wroc\u0142aw: A\u017c 45 lekarzy-antyszczepionkowc\u00f3w stan\u0119\u0142o przed s\u0105dem. Sali pilnuje policja",
+        "vote": 0
     }
 ]

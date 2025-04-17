@@ -28,6 +28,7 @@
  - [https://nsarchive.gwu.edu/sites/default/files/documents/qxf56q-o0zwb/02.pdf](https://nsarchive.gwu.edu/sites/default/files/documents/qxf56q-o0zwb/02.pdf)
  - date_published: 2006-10-17T06:47:35+00:00
  - tags: ['racism', 'white supremacy']
+ - date_dead_since: 2025-04-16T00:44:02.523287+00:00
 
  ## I Hate the News
  - [http://www.aaronsw.com/weblog/hatethenews](http://www.aaronsw.com/weblog/hatethenews)
