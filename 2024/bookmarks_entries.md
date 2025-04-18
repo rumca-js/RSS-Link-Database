@@ -38,6 +38,11 @@
  - date_published: 2024-01-05T19:46:00+00:00
  - tags: ['dmca', 'youtube']
 
+ ## Big Tech's role in enabling link fraud – take 2
+ - [https://eligrey.com/blog/link-fraud](https://eligrey.com/blog/link-fraud)
+ - date_published: 2024-01-08T00:00:00+00:00
+ - tags: ['ad business', 'malvertising']
+
  ## German farmers block roads with tractors in protest over cuts to vehicle tax subsidies – Europe live
  - [https://www.theguardian.com/world/live/2024/jan/08/germany-farmers-tractors-block-roads-protests-cuts-agricultural-subsidies-pay-europe-latest-updates](https://www.theguardian.com/world/live/2024/jan/08/germany-farmers-tractors-block-roads-protests-cuts-agricultural-subsidies-pay-europe-latest-updates)
  - date_published: 2024-01-08T09:24:53+00:00
@@ -879,15 +884,11 @@
  - date_published: 2024-06-09T17:28:50+00:00
  - tags: ['search engines', 'seo']
 
- ## Big Tech's role in enabling link fraud – take 2
- - [https://eligrey.com/blog/link-fraud](https://eligrey.com/blog/link-fraud)
- - date_published: 2024-06-10T21:37:18+00:00
- - tags: ['ad business', 'malvertising']
-
  ## ‘Could Spark an Epidemic’: House Committee Report Alleges Fauci and NIAID Concealed Plans to Engineer Enhanced Monkeypox Virus | National Review
  - [https://www.nationalreview.com/news/could-spark-an-epidemic-house-committee-report-alleges-fauci-and-niaid-concealed-plans-to-engineer-enhanced-monkeypox-virus](https://www.nationalreview.com/news/could-spark-an-epidemic-house-committee-report-alleges-fauci-and-niaid-concealed-plans-to-engineer-enhanced-monkeypox-virus)
  - date_published: 2024-06-12T21:44:15+00:00
  - tags: ['anthony fauci', 'covid', 'pandemic']
+ - date_dead_since: 2025-04-17T01:34:45.988692+00:00
 
  ## OpenAI Appoints Former NSA Director Paul Nakasone to Board of Directors
  - [https://www.securityweek.com/openai-appoints-former-nsa-director-paul-nakasone-to-board-of-directors](https://www.securityweek.com/openai-appoints-former-nsa-director-paul-nakasone-to-board-of-directors)
@@ -896,12 +897,12 @@
 
  ## Nashville Shooter Audrey Hale Manifesto Court Hearing Sparks Backlash
  - [https://www.newsweek.com/audrey-hale-covenant-school-shooting-manifesto-court-hearing-1913756](https://www.newsweek.com/audrey-hale-covenant-school-shooting-manifesto-court-hearing-1913756)
- - date_published: 2024-06-17T15:04:52+00:00
+ - date_published: 2024-06-17T11:04:52+00:00
  - tags: ['christianophobia', 'nashville']
 
  ## FedEx’s Secretive Police Force Is Helping Cops Build An AI Car Surveillance Network
  - [https://www.forbes.com/sites/thomasbrewster/2024/06/19/fedex-police-help-cops-build-an-ai-car-surveillance-network](https://www.forbes.com/sites/thomasbrewster/2024/06/19/fedex-police-help-cops-build-an-ai-car-surveillance-network)
- - date_published: 2024-06-19T10:30:29+00:00
+ - date_published: 2024-06-19T00:00:00+00:00
  - tags: ['privacy', 'surveillance']
 
  ## Google disrupted YouTube video playback on Firefox, again - gHacks Tech News

@@ -358,6 +358,11 @@
  - date_published: 2025-04-14T17:24:42+00:00
  - tags: ['privacy', 'surveillance']
 
+ ## Pentagon’s ‘SWAT team of nerds’ resigns en masse
+ - [https://www.politico.com/news/2025/04/15/pentagons-digital-resignations-00290930](https://www.politico.com/news/2025/04/15/pentagons-digital-resignations-00290930)
+ - date_published: 2025-04-15T12:04:15+00:00
+ - tags: ['donald trump']
+
  ## Wrocław: Aż 45 lekarzy-antyszczepionkowców stanęło przed sądem. Sali pilnuje policja
  - [https://tuwroclaw.com/artykul/wroclaw-az-45-lekarzy-antyszczepionkowcow-n1529766](https://tuwroclaw.com/artykul/wroclaw-az-45-lekarzy-antyszczepionkowcow-n1529766)
  - date_published: 2025-04-16T10:13:00+00:00
