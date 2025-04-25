@@ -1,3 +1,8 @@
+ ## From Mathematics to Generic Programming
+ - [https://fm2gp.com](https://fm2gp.com)
+ - date_published: 2015-01-01T00:00:00+00:00
+ - tags: ['book']
+
  ## Virginia Roberts: Who is the woman at the centre of the Prince Andrew sex allegations? | The Independent | The Independent
  - [https://www.independent.co.uk/news/uk/home-news/virginia-roberts-what-do-we-know-about-the-woman-at-the-centre-of-the-prince-andrew-sex-allegations-9958539.html](https://www.independent.co.uk/news/uk/home-news/virginia-roberts-what-do-we-know-about-the-woman-at-the-centre-of-the-prince-andrew-sex-allegations-9958539.html)
  - date_published: 2015-01-05T06:59:25+00:00
@@ -17,11 +22,6 @@
  - [https://en.wikipedia.org/wiki/Charlie_Hebdo_shooting](https://en.wikipedia.org/wiki/Charlie_Hebdo_shooting)
  - date_published: 2015-01-07T07:35:46+00:00
  - tags: ['charlie hebdo', 'france', 'immigration', 'islam', 'religion']
-
- ## WikiLeaks: Can Hillary Clinton survive 'cablegate'?
- - [https://theweek.com/articles/488919/wikileaks-hillary-clinton-survive-cablegate](https://theweek.com/articles/488919/wikileaks-hillary-clinton-survive-cablegate)
- - date_published: 2015-01-09T20:02:24+00:00
- - tags: ['cablegate', 'hillary clinton', 'wikileaks']
 
  ## UK prime minister wants backdoors into messaging apps or he’ll ban them | Ars Technica
  - [https://arstechnica.com/tech-policy/2015/01/uk-prime-minister-wants-backdoors-into-messaging-apps-or-hell-ban-them](https://arstechnica.com/tech-policy/2015/01/uk-prime-minister-wants-backdoors-into-messaging-apps-or-hell-ban-them)
@@ -75,13 +75,18 @@
 
  ## In-store analytics: tracking real-world customers just like online shoppers | TechRadar
  - [https://www.techradar.com/news/world-of-tech/future-tech/in-store-analytics-tracking-real-world-customers-just-like-online-shoppers-1286293](https://www.techradar.com/news/world-of-tech/future-tech/in-store-analytics-tracking-real-world-customers-just-like-online-shoppers-1286293)
- - date_published: 2015-02-27T15:12:46+00:00
+ - date_published: 2015-02-27T12:44:00+00:00
  - tags: ['corporatocracy', 'privacy', 'surveillance', 'technofeudalism']
 
  ## The Rothschilds and Waddesdon
  - [https://www.youtube.com/watch?v=I65LfGNo1A8](https://www.youtube.com/watch?v=I65LfGNo1A8)
  - date_published: 2015-03-12T00:00:00+00:00
  - tags: ['rothschild']
+
+ ## The undercover war on your internet secrets: How online surveillance cracked our trust in the web - TechRepublic
+ - [https://web.archive.org/web/20160612190952/http://www.techrepublic.com/article/the-undercover-war-on-your-internet-secrets-how-online-surveillance-cracked-our-trust-in-the-web](https://web.archive.org/web/20160612190952/http://www.techrepublic.com/article/the-undercover-war-on-your-internet-secrets-how-online-surveillance-cracked-our-trust-in-the-web)
+ - date_published: 2015-03-23T15:45:00+00:00
+ - tags: ['big brother', 'crypto wars', 'encryption', 'internet', 'privacy', 'surveillance']
 
  ## Facebook 'tracks all visitors, breaching EU law'
  - [https://www.theguardian.com/technology/2015/mar/31/facebook-tracks-all-visitors-breaching-eu-law-report](https://www.theguardian.com/technology/2015/mar/31/facebook-tracks-all-visitors-breaching-eu-law-report)
@@ -95,7 +100,7 @@
 
  ## China's Great Cannon
  - [https://citizenlab.ca/2015/04/chinas-great-cannon](https://citizenlab.ca/2015/04/chinas-great-cannon)
- - date_published: 2015-04-10T07:15:20+00:00
+ - date_published: 2015-04-10T05:55:18+00:00
  - tags: ['china great cannon', 'ddos']
 
  ## Glenn Greenwald: "Edward Snowden and the Secrets of the National Security State"
@@ -107,7 +112,6 @@
  - [https://www.extremetech.com/defense/203275-the-nsa-wants-front-door-access-to-your-encrypted-data](https://www.extremetech.com/defense/203275-the-nsa-wants-front-door-access-to-your-encrypted-data)
  - date_published: 2015-04-13T07:41:23+00:00
  - tags: ['big brother', 'crypto wars', 'encryption', 'nsa', 'privacy', 'surveillance']
- - date_dead_since: 2025-04-11T05:36:22.235006+00:00
 
  ## ks. Piotr Pawlukiewicz -  Małżeństwo, labirynt czy droga do nieba?
  - [https://www.youtube.com/watch?v=wFP0VX1pugE](https://www.youtube.com/watch?v=wFP0VX1pugE)
@@ -133,7 +137,6 @@
  - [https://www.chicagotribune.com/news/ct-gay-marriage-canada-oppose-perspec-0422-jm-20150421-story.html](https://www.chicagotribune.com/news/ct-gay-marriage-canada-oppose-perspec-0422-jm-20150421-story.html)
  - date_published: 2015-04-22T20:47:17+00:00
  - tags: ['dawn stefanowicz', 'lgbt']
- - date_dead_since: 2025-04-11T05:05:58.046073+00:00
 
  ## 5 key takeaways from State of the News Media 2015 | Pew Research Center
  - [https://www.pewresearch.org/fact-tank/2015/04/29/5-key-takeaways-from-state-of-the-news-media-2015](https://www.pewresearch.org/fact-tank/2015/04/29/5-key-takeaways-from-state-of-the-news-media-2015)
@@ -203,7 +206,7 @@
 
  ## Hackers Remotely Kill a Jeep on the Highway—With Me in It | WIRED
  - [https://www.wired.com/2015/07/hackers-remotely-kill-jeep-highway](https://www.wired.com/2015/07/hackers-remotely-kill-jeep-highway)
- - date_published: 2015-07-21T15:43:34+00:00
+ - date_published: 2015-07-21T10:00:56+00:00
  - tags: ['electric vehicles', 'hackers', 'vulnerability']
 
  ## Szwecja a ustawa o przymusowej opiece państwa nad dziećmi
@@ -215,7 +218,6 @@
  - [https://www.timesofisrael.com/woman-says-epstein-forced-her-to-have-sex-with-former-pm-barak](https://www.timesofisrael.com/woman-says-epstein-forced-her-to-have-sex-with-former-pm-barak)
  - date_published: 2015-07-28T10:57:56+00:00
  - tags: ['ehud barak', 'israel', 'jeffrey epstein']
- - date_dead_since: 2025-04-14T07:42:42.589200+00:00
 
  ## Memento Explanation by Christopher Nolan - True Genius - Must Watch
  - [https://www.youtube.com/watch?v=67e_jl4flpE](https://www.youtube.com/watch?v=67e_jl4flpE)
@@ -224,7 +226,7 @@
 
  ## Even when told not to, Windows 10 just can’t stop talking to Microsoft | Ars Technica
  - [https://arstechnica.com/information-technology/2015/08/even-when-told-not-to-windows-10-just-cant-stop-talking-to-microsoft](https://arstechnica.com/information-technology/2015/08/even-when-told-not-to-windows-10-just-cant-stop-talking-to-microsoft)
- - date_published: 2015-08-13T08:59:38+00:00
+ - date_published: 2015-08-13T03:34:20+00:00
  - tags: ['privacy', 'telemetry', 'windows']
 
  ## NSA staff used spy tools on spouses, ex-lovers: watchdog

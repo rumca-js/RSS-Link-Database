@@ -63,6 +63,7 @@
  - [https://www.youtube.com/watch?v=6T7pUEZfgdI](https://www.youtube.com/watch?v=6T7pUEZfgdI)
  - date_published: 2018-01-30T00:00:00+00:00
  - tags: ['jordan peterson']
+ - date_dead_since: 2024-04-24T01:07:51.914510+00:00
 
  ## Özgür Baba - Dertli Dolap
  - [https://www.youtube.com/watch?v=cIMKJ43TFLs](https://www.youtube.com/watch?v=cIMKJ43TFLs)
@@ -431,11 +432,6 @@
  - date_published: 2018-06-06T12:17:34+00:00
  - tags: ['azealia banks', 'deplatform', 'twitter']
 
- ## Mohammed introduces Pavilion Labour's Eid Festival
- - [https://www.youtube.com/watch?v=4sms60Dq19s](https://www.youtube.com/watch?v=4sms60Dq19s)
- - date_published: 2018-06-13T21:14:57+00:00
- - tags: ['immigration', 'uk']
-
  ## Can we trust AI if we don't know how it works?
  - [https://www.bbc.com/news/business-44466213](https://www.bbc.com/news/business-44466213)
  - date_published: 2018-06-15T19:50:48+00:00
@@ -503,7 +499,7 @@
 
  ## Pentagon restricts use of fitness trackers, other devices
  - [https://apnews.com/article/d29c724e1d72460fbf7c2e999992d258](https://apnews.com/article/d29c724e1d72460fbf7c2e999992d258)
- - date_published: 2018-08-07T00:52:37+00:00
+ - date_published: 2018-08-07T12:01:24+00:00
  - tags: ['cybersecurity', 'privacy', 'surveillance']
 
  ## In full: Rowan Atkinson on free speech
@@ -688,11 +684,6 @@
  - date_published: 2018-10-25T07:32:56+00:00
  - tags: ['climate change', 'depopulation', 'feminism']
  - date_dead_since: 2024-10-26T03:46:25.143700+00:00
-
- ## Dr. James Giordano: The Brain is the Battlefield of the Future
- - [https://www.youtube.com/watch?v=N02SK9yd60s](https://www.youtube.com/watch?v=N02SK9yd60s)
- - date_published: 2018-10-29T00:00:00+00:00
- - tags: ['big tech', 'social control', 'social media']
 
  ## Joe Rogan - Exposing Social Justice with Peter Boghossian & James Lindsay
  - [https://www.youtube.com/watch?v=OlqU_JMTzd4](https://www.youtube.com/watch?v=OlqU_JMTzd4)

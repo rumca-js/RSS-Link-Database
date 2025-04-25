@@ -53,7 +53,7 @@
             "linux",
             "sco group"
         ],
-        "thumbnail": "https://www.computerworld.pl/wp-content/uploads/2025/01/2153050-0-63372000-1737741294-CW-Spain-Placeholder2.png?w=1024",
+        "thumbnail": "https://www.computerworld.pl/wp-content/uploads/2024/06/CW-Spain-Placeholder2.png?w=1024",
         "title": "SCO: zap\u0142ac\u0105 miliard za Linuxa -  Computerworld - Wiadomo\u015bci IT, biznes IT, praca w IT, konferencje",
         "vote": 0
     },
@@ -102,13 +102,13 @@
         "language": "en",
         "link": "https://www.corpwatch.org/article/iraq-halliburton-reaping-huge-profits",
         "manual_status_code": 0,
-        "page_rating": 0,
+        "page_rating": 3,
         "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.corpwatch.org",
-        "status_code": 600,
+        "status_code": 403,
         "tags": [
             "halliburton",
             "iraq"
@@ -171,7 +171,7 @@
             "halliburton",
             "iraq"
         ],
-        "thumbnail": "https://assets2.cbsnewsstatic.com/hub/i/r/2003/10/16/d8b0e2c3-a642-11e2-a3f0-029118418759/thumbnail/1200x630/d46ac5a3af3fd51308c8481956cec545/image578489x.jpg?v=653dd6912cdd8596c9bfea812c355f95",
+        "thumbnail": "https://assets2.cbsnewsstatic.com/hub/i/r/2003/10/16/d8b0e2c3-a642-11e2-a3f0-029118418759/thumbnail/1200x630/d46ac5a3af3fd51308c8481956cec545/image578489x.jpg?v=17b612a59ff4c1e4774d3d0d3ec005e8",
         "title": "Halliburton: $61M Overcharge? - CBS News",
         "vote": 0
     }

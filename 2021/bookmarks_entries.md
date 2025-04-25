@@ -1170,8 +1170,9 @@
 
  ## Kiedy WHO zmieniła definicję odporności stada? Zmiana treści definicji terminu Odporność Stadna. [listopad 2020]
  - [https://pubmedinfo.org/2021/06/16/kiedy-who-zmienila-definicje-odpornosci-stada](https://pubmedinfo.org/2021/06/16/kiedy-who-zmienila-definicje-odpornosci-stada)
- - date_published: 2021-06-15T23:16:57+00:00
+ - date_published: 2021-06-16T22:12:17+00:00
  - tags: ['covid', 'herd immunity', 'who']
+ - date_dead_since: 2024-04-18T06:54:53.131830+00:00
 
  ## Sidewalk: The Next Frontier Of Amazon’s Surveillance Infrastructure | ACLU
  - [https://www.aclu.org/news/privacy-technology/sidewalk-the-next-frontier-of-amazons-surveillance-infrastructure](https://www.aclu.org/news/privacy-technology/sidewalk-the-next-frontier-of-amazons-surveillance-infrastructure)
@@ -1192,11 +1193,6 @@
  - [https://www.bbc.co.uk/news/stories-57520169](https://www.bbc.co.uk/news/stories-57520169)
  - date_published: 2021-06-20T23:45:52+00:00
  - tags: ['hackers', 'lazarus', 'north korea']
-
- ## I don't trust Signal
- - [https://blog.dijit.sh//i-don-t-trust-signal](https://blog.dijit.sh//i-don-t-trust-signal)
- - date_published: 2021-06-21T00:00:00+00:00
- - tags: ['open source', 'signal']
 
  ## Fauci Doubles Down: People Who Criticize Me Are ‘Actually Criticizing Science’
  - [https://www.breitbart.com/science/2021/06/21/fauci-doubles-down-people-who-criticize-me-are-actually-criticizing-science](https://www.breitbart.com/science/2021/06/21/fauci-doubles-down-people-who-criticize-me-are-actually-criticizing-science)
@@ -1671,7 +1667,6 @@
  ## Germany’s national healthcare system adopts Matrix! | Matrix.org
  - [https://matrix.org/blog/2021/07/21/germanys-national-healthcare-system-adopts-matrix](https://matrix.org/blog/2021/07/21/germanys-national-healthcare-system-adopts-matrix)
  - date_published: 2021-07-22T08:52:09.187594+00:00
- - date_dead_since: 2025-04-15T21:48:57.433460+00:00
 
  ## Mars rover: Nasa's Perseverance prepares to drill first rock sample - BBC News
  - [https://www.bbc.co.uk/news/science-environment-57919241](https://www.bbc.co.uk/news/science-environment-57919241)
@@ -3947,7 +3942,7 @@
 
  ## Professional maintainers: a wake-up call
  - [https://blog.filippo.io/professional-maintainers](https://blog.filippo.io/professional-maintainers)
- - date_published: 2021-12-11T18:58:03+00:00
+ - date_published: 2021-12-12T08:33:24.671761+00:00
 
  ## "Open Source" is Broken - Xe
  - [https://xeiaso.net/blog/open-source-broken-2021-12-11](https://xeiaso.net/blog/open-source-broken-2021-12-11)
@@ -4259,11 +4254,6 @@
  ## GCC 12 Adds Support For Using The Mold Linker - Phoronix
  - [https://www.phoronix.com/scan.php?page=news_item&px=GCC-12-Mold-Linker](https://www.phoronix.com/scan.php?page=news_item&px=GCC-12-Mold-Linker)
  - date_published: 2021-12-30T14:56:31.310956+00:00
-
- ## Kohina Web Player
- - [https://player.kohina.com](https://player.kohina.com)
- - date_published: 2021-12-30T15:57:00+00:00
- - tags: ['chiptune']
 
  ## New York governor declares racism 'public health emergency' amid new anti-discrimination legislation  - ABC News
  - [https://abcnews.go.com/US/york-governor-declares-racism-public-health-emergency-amid/story?id=82002884](https://abcnews.go.com/US/york-governor-declares-racism-public-health-emergency-amid/story?id=82002884)

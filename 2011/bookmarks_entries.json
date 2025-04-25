@@ -99,36 +99,6 @@
         "author": null,
         "bookmarked": true,
         "comments": [],
-        "date_created": "2024-02-29T14:54:47.260652+00:00",
-        "date_dead_since": null,
-        "date_published": "2011-04-06T14:19:38+00:00",
-        "description": "The funders of climate disinformation",
-        "id": 37418,
-        "language": "en-US",
-        "link": "https://www.campaigncc.org/climate_change/sceptics/funders",
-        "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 85,
-        "page_rating_visits": 0,
-        "page_rating_votes": 0,
-        "permanent": false,
-        "source_url": "https://www.campaigncc.org/climate_change/sceptics/funders",
-        "status_code": 200,
-        "tags": [
-            "carbon emissions",
-            "carbon footprint",
-            "climate change"
-        ],
-        "thumbnail": null,
-        "title": "The funders of climate disinformation",
-        "vote": 0
-    },
-    {
-        "age": null,
-        "album": null,
-        "author": null,
-        "bookmarked": true,
-        "comments": [],
         "date_created": "2024-02-29T15:00:05.830628+00:00",
         "date_dead_since": null,
         "date_published": "2011-04-06T20:33:30+00:00",
@@ -228,7 +198,7 @@
         "link": "https://blog.codinghorror.com/suspension-ban-or-hellban",
         "manual_status_code": 0,
         "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating_contents": 85,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -317,7 +287,7 @@
         "link": "https://wiadomosci.wp.pl/na-czym-polegal-rytual-bunga-bunga-6037856224035969a",
         "manual_status_code": 0,
         "page_rating": 30,
-        "page_rating_contents": 85,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -351,7 +321,7 @@
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.thelancet.com",
-        "status_code": 200,
+        "status_code": 403,
         "tags": [
             "big pharma",
             "the lancet"
@@ -387,7 +357,7 @@
             "pfizer",
             "vaccine"
         ],
-        "thumbnail": "https://ichef.bbci.co.uk/ace/branded_news/1200/mcs/media/images/54549000/jpg/_54549697_pfizer.jpg",
+        "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/media/images/54549000/jpg/_54549697_pfizer.jpg",
         "title": "Pfizer: Nigeria drug trial victims get compensation",
         "vote": 0
     },
@@ -447,7 +417,7 @@
             "extremism",
             "religion"
         ],
-        "thumbnail": "https://res.cloudinary.com/splc/images/f_auto,q_auto/v1736980373/Pam-Gellar/Pam-Gellar.jpg?_i=AA",
+        "thumbnail": "https://www.splcenter.org/sites/default/files/splc-logo_twitter_instream.png",
         "title": "Christian Crusader | Southern Poverty Law Center",
         "vote": 0
     },
@@ -597,7 +567,7 @@
             "occupy wall street",
             "protest"
         ],
-        "thumbnail": "https://ichef.bbci.co.uk/ace/branded_news/1200/mcs/media/images/56820000/jpg/_56820181_composite464.jpg",
+        "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/media/images/56820000/jpg/_56820181_composite464.jpg",
         "title": "Occupy Wall Street: The story of the first night - BBC News",
         "vote": 0
     },
@@ -646,7 +616,7 @@
         "link": "https://www.computerworld.com/article/2732767/microsoft--we-can-remotely-delete-windows-8-apps.html",
         "manual_status_code": 0,
         "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating_contents": 85,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -656,7 +626,7 @@
             "technofeudalism",
             "windows"
         ],
-        "thumbnail": "",
+        "thumbnail": null,
         "title": "Microsoft: We can remotely delete Windows 8 apps | Computerworld",
         "vote": 0
     }

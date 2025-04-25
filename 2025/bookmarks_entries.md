@@ -53,14 +53,14 @@
  - date_published: 2025-01-26T16:14:50+00:00
  - tags: ['censorship', 'covid', 'debanking', 'technofeudalism']
 
- ## nsa
- - [https://boingboing.net/2025/01/28/nsa-can-track-powered-down-phones-how-to-actually-protect-your-privacy.html](https://boingboing.net/2025/01/28/nsa-can-track-powered-down-phones-how-to-actually-protect-your-privacy.html)
- - date_published: 2025-01-28T09:17:55+00:00
-
  ## California Law Enforcement Misused State Databases More Than 7,000 Times in 2023
  - [https://www.eff.org/deeplinks/2025/01/california-police-misused-state-databases-more-7000-times-2023](https://www.eff.org/deeplinks/2025/01/california-police-misused-state-databases-more-7000-times-2023)
  - date_published: 2025-01-28T16:30:16+00:00
  - tags: ['privacy', 'surveillance', 'technofeudalism']
+
+ ## nsa
+ - [https://boingboing.net/2025/01/28/nsa-can-track-powered-down-phones-how-to-actually-protect-your-privacy.html](https://boingboing.net/2025/01/28/nsa-can-track-powered-down-phones-how-to-actually-protect-your-privacy.html)
+ - date_published: 2025-01-28T20:45:36+00:00
 
  ## Amazon secretly tracked Californian consumers via cellphones, lawsuit alleges
  - [https://www.fastcompany.com/91269436/amazon-tracked-californian-consumers-cellphones-lawsuit](https://www.fastcompany.com/91269436/amazon-tracked-californian-consumers-cellphones-lawsuit)
@@ -338,33 +338,8 @@
  - date_published: 2025-04-05T07:28:48+00:00
  - tags: ['lazarus']
 
- ## Nurse suspended by NHS for telling the media her story
- - [https://christianconcern.com/news/christian-nurse-suspended-by-nhs-for-telling-her-story-after-being-investigated](https://christianconcern.com/news/christian-nurse-suspended-by-nhs-for-telling-her-story-after-being-investigated)
- - date_published: 2025-04-07T06:25:40+00:00
- - tags: ['lgbt', 'tolerance', 'trans']
-
  ## Agenda Behind the Facial Recognition Tech Used by ICE and the FBI Revealed
  - [https://www.motherjones.com/politics/2025/04/clearview-ai-immigration-ice-fbi-surveillance-facial-recognition-hoan-ton-that-hal-lambert-trump](https://www.motherjones.com/politics/2025/04/clearview-ai-immigration-ice-fbi-surveillance-facial-recognition-hoan-ton-that-hal-lambert-trump)
  - date_published: 2025-04-07T18:46:43+00:00
  - tags: ['privacy', 'surveillance']
-
- ## Leaked Meta data reveals campaign to remove pro-Palestine posts
- - [https://www.dropsitenews.com/p/leaked-data-israeli-censorship-meta](https://www.dropsitenews.com/p/leaked-data-israeli-censorship-meta)
- - date_published: 2025-04-11T16:24:58+00:00
- - tags: ['censorship']
-
- ## Old Fortinet flaws under attack through new method
- - [https://www.theregister.com/2025/04/14/security_in_brief](https://www.theregister.com/2025/04/14/security_in_brief)
- - date_published: 2025-04-14T17:24:42+00:00
- - tags: ['privacy', 'surveillance']
-
- ## Pentagon’s ‘SWAT team of nerds’ resigns en masse
- - [https://www.politico.com/news/2025/04/15/pentagons-digital-resignations-00290930](https://www.politico.com/news/2025/04/15/pentagons-digital-resignations-00290930)
- - date_published: 2025-04-15T12:04:15+00:00
- - tags: ['donald trump']
-
- ## Wrocław: Aż 45 lekarzy-antyszczepionkowców stanęło przed sądem. Sali pilnuje policja
- - [https://tuwroclaw.com/artykul/wroclaw-az-45-lekarzy-antyszczepionkowcow-n1529766](https://tuwroclaw.com/artykul/wroclaw-az-45-lekarzy-antyszczepionkowcow-n1529766)
- - date_published: 2025-04-16T10:13:00+00:00
- - tags: ['covid']
 

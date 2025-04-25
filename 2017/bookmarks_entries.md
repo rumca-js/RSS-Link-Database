@@ -1,6 +1,6 @@
  ## Abseil open-source foundational code
  - [https://abseil.io](https://abseil.io)
- - date_published: 2017-01-01T13:23:41+00:00
+ - date_published: 2017-01-01T00:00:00+00:00
  - tags: ['c++']
 
  ## Having babies really does change women's brains
@@ -47,6 +47,11 @@
  - [https://www.scientificamerican.com/article/china-to-permit-lab-poised-to-study-worlds-most-dangerous-pathogens](https://www.scientificamerican.com/article/china-to-permit-lab-poised-to-study-worlds-most-dangerous-pathogens)
  - date_published: 2017-02-22T07:27:05+00:00
  - tags: ['china', 'covid', 'sars']
+
+ ## A Framework for Understanding Whiteness in Mathematics Education
+ - [https://files.eric.ed.gov/fulltext/EJ1124962.pdf](https://files.eric.ed.gov/fulltext/EJ1124962.pdf)
+ - date_published: 2017-02-27T21:29:06+00:00
+ - tags: ['black lives matter', 'blm', 'hate speech', 'racism', 'usa']
 
  ## Noam Chomsky - The 5 Filters of the Mass Media Machine
  - [https://www.youtube.com/watch?v=34LGPIXvU5M](https://www.youtube.com/watch?v=34LGPIXvU5M)

@@ -129,6 +129,11 @@ Foreign Bribery Investigation | OPA | Department of Justice
  - date_published: 2012-12-21T00:00:00+00:00
  - tags: ['atheism', 'christianity', 'judaism', 'religion', 'theism']
 
+ ## The funders of climate disinformation
+ - [https://www.campaigncc.org/climate_change/sceptics/funders](https://www.campaigncc.org/climate_change/sceptics/funders)
+ - date_published: 2012-12-21T15:31:06+00:00
+ - tags: ['carbon emissions', 'carbon footprint', 'climate change']
+
  ## Alien: A Film Franchise Based Entirely on Rape
  - [https://www.cracked.com/article_18932_alien-film-franchise-based-entirely-rape.html](https://www.cracked.com/article_18932_alien-film-franchise-based-entirely-rape.html)
  - date_published: 2012-12-26T20:26:45+00:00

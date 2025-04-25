@@ -90,18 +90,17 @@
 
  ## Facebook Could Decide an Election Without Anyone Ever Finding Out
  - [https://newrepublic.com/article/117878/information-fiduciary-solution-facebook-digital-gerrymandering](https://newrepublic.com/article/117878/information-fiduciary-solution-facebook-digital-gerrymandering)
- - date_published: 2014-06-02T11:14:27+00:00
+ - date_published: 2014-06-02T00:00:00+00:00
  - tags: ['corporatocracy', 'election', 'facebook', 'privacy']
 
  ## The 10 Biggest Revelations From Edward Snowden's Leaks | Mashable
  - [https://mashable.com/archive/edward-snowden-revelations#EX._mWvT8kq3](https://mashable.com/archive/edward-snowden-revelations#EX._mWvT8kq3)
- - date_published: 2014-06-05T14:55:15+00:00
+ - date_published: 2014-06-05T14:47:34+00:00
  - tags: ['big brother', 'edward snowden', 'prism', 'surveillance']
- - date_dead_since: 2025-04-11T13:05:09.178779+00:00
 
  ## U.S rules on cell phone privacy
  - [http://edition.cnn.com/2014/06/25/justice/supreme-court-cell-phones/index.html?eref=edition](http://edition.cnn.com/2014/06/25/justice/supreme-court-cell-phones/index.html?eref=edition)
- - date_published: 2014-06-26T00:27:38+00:00
+ - date_published: 2014-06-25T14:51:50+00:00
  - tags: ['freedom', 'law', 'privacy']
 
  ## Amiga Lotus Turbo Challenge 2 Intro OST High Quality
@@ -116,7 +115,7 @@
 
  ## Congress Is Still Editing Wikipedia a Lot -- Here's How We Know
  - [https://gizmodo.com/congress-is-still-editing-wikipedia-a-lot-heres-how-1605295946](https://gizmodo.com/congress-is-still-editing-wikipedia-a-lot-heres-how-1605295946)
- - date_published: 2014-07-15T20:36:07+00:00
+ - date_published: 2014-07-15T16:29:01+00:00
  - tags: ['propaganda', 'wikipedia']
 
  ## Slavoj Žižek on "They Live" (The Pervert's Guide to Ideology)
@@ -190,7 +189,7 @@
 
  ## Citizenfour review  gripping Snowden documentary offers portrait of power, paranoia and one remarkable man
  - [http://www.theguardian.com/film/2014/oct/16/citizen-four-review-edward-snowden-documentary](http://www.theguardian.com/film/2014/oct/16/citizen-four-review-edward-snowden-documentary)
- - date_published: 2014-10-16T14:00:04+00:00
+ - date_published: 2014-10-16T14:00:03+00:00
  - tags: ['big brother', 'citizenfour', 'surveillance']
 
  ## The FBI Director’s Evidence Against Encryption Is Pathetic
@@ -205,7 +204,7 @@
 
  ## White House to Cut Funding for Risky Biological Study - The New York Times
  - [https://www.nytimes.com/2014/10/18/us/white-house-to-cut-funding-for-risky-biological-study.html](https://www.nytimes.com/2014/10/18/us/white-house-to-cut-funding-for-risky-biological-study.html)
- - date_published: 2014-10-18T14:48:23+00:00
+ - date_published: 2014-10-18T02:11:09+00:00
  - tags: ['covid', 'sars']
 
  ## How many times Muslims invaded Europe vs. Europeans invaded Muslim countries?
@@ -235,7 +234,7 @@
 
  ## Can Google be trusted?
  - [http://edition.cnn.com/2014/11/10/opinion/google-new-mission-statement/index.html?eref=edition](http://edition.cnn.com/2014/11/10/opinion/google-new-mission-statement/index.html?eref=edition)
- - date_published: 2014-11-10T14:48:05+00:00
+ - date_published: 2014-11-10T09:26:57+00:00
  - tags: ['big tech', 'corporatocracy', 'google']
 
  ## Is Islam A Dangerous Religion?
@@ -261,6 +260,11 @@
 
  ## Hacker fakes German minister's fingerprints using photos of her hands | Hacking | The Guardian
  - [https://www.theguardian.com/technology/2014/dec/30/hacker-fakes-german-ministers-fingerprints-using-photos-of-her-hands](https://www.theguardian.com/technology/2014/dec/30/hacker-fakes-german-ministers-fingerprints-using-photos-of-her-hands)
- - date_published: 2014-12-30T15:08:38+00:00
+ - date_published: 2014-12-30T11:43:25+00:00
  - tags: ['biometric', 'hackers']
+
+ ## From Mathematics to Generic Programming
+ - [https://fm2gp.com](https://fm2gp.com)
+ - date_published: 2015-01-01T00:00:00+00:00
+ - tags: ['book']
 

@@ -12,7 +12,6 @@
  - [https://www.nytimes.com/2013/01/13/technology/aaron-swartz-internet-activist-dies-at-26.html](https://www.nytimes.com/2013/01/13/technology/aaron-swartz-internet-activist-dies-at-26.html)
  - date_published: 2013-01-12T10:28:59+00:00
  - tags: ['aaron swartz', 'rss']
- - date_dead_since: 2025-04-12T02:47:02.465961+00:00
 
  ## Francuski dziennik „Le Figaro” opublikował wyznania mężczyzny wychowanego przez dwie lesbijki. Ukazują one osobisty i intymny dramat człowieka liczącego dzisiaj 66 lat.
  - [https://pch24.pl/mezczyzna-wychowany-przez-lesbijki-to-gwalt-przeciw-mojej-naturze](https://pch24.pl/mezczyzna-wychowany-przez-lesbijki-to-gwalt-przeciw-mojej-naturze)
@@ -173,7 +172,6 @@
  - [https://www.nytimes.com/2013/07/15/business/attention-shopper-stores-are-tracking-your-cell.html](https://www.nytimes.com/2013/07/15/business/attention-shopper-stores-are-tracking-your-cell.html)
  - date_published: 2013-07-14T15:11:32+00:00
  - tags: ['corporatocracy', 'privacy', 'surveillance', 'technofeudalism']
- - date_dead_since: 2025-04-11T20:43:02.438024+00:00
 
  ## The Creepy, Long-Standing Practice of Undersea Cable Tapping - The Atlantic
  - [https://www.theatlantic.com/international/archive/2013/07/the-creepy-long-standing-practice-of-undersea-cable-tapping/277855](https://www.theatlantic.com/international/archive/2013/07/the-creepy-long-standing-practice-of-undersea-cable-tapping/277855)

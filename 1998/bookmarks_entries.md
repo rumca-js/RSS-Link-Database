@@ -7,6 +7,7 @@
  - [http://infolab.stanford.edu/~backrub/google.html](http://infolab.stanford.edu/~backrub/google.html)
  - date_published: 1998-06-23T09:34:30+00:00
  - tags: ['algorithms', 'dead internet', 'search engines']
+ - date_dead_since: 2024-10-28T06:20:13.191780+00:00
 
  ## Halloween Document 10
  - [http://www.catb.org/~esr/halloween/halloween1.html](http://www.catb.org/~esr/halloween/halloween1.html)
@@ -27,15 +28,9 @@
  - [http://infolab.stanford.edu/pub/papers/google.pdf](http://infolab.stanford.edu/pub/papers/google.pdf)
  - date_published: 1998-09-06T07:13:47+00:00
  - tags: ['algorithms', 'bias', 'media bias', 'search algorithms', 'search bias', 'search engines']
- - date_dead_since: 2025-04-16T00:59:01.367372+00:00
 
  ## Internal Memo Shows Microsoft Executives' Concern Over Free Software
  - [https://archive.nytimes.com/www.nytimes.com/library/tech/98/11/biztech/articles/03memo.html](https://archive.nytimes.com/www.nytimes.com/library/tech/98/11/biztech/articles/03memo.html)
  - date_published: 1998-11-03T10:53:56+00:00
  - tags: ['dark design', 'halloween documents', 'microsoft']
-
- ## The Tao of Programming
- - [https://www.mit.edu/~xela/tao.html](https://www.mit.edu/~xela/tao.html)
- - date_published: 1998-11-20T05:31:55+00:00
- - tags: ['funny', 'programming']
 

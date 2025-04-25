@@ -50,7 +50,7 @@
 
  ## Life after the Ashley Madison affair | Ashley Madison | The Guardian
  - [https://www.theguardian.com/technology/2016/feb/28/what-happened-after-ashley-madison-was-hacked](https://www.theguardian.com/technology/2016/feb/28/what-happened-after-ashley-madison-was-hacked)
- - date_published: 2016-02-28T22:11:09+00:00
+ - date_published: 2016-02-28T00:05:06+00:00
  - tags: ['data leak', 'privacy']
 
  ## Ashley Madison data breach
@@ -70,7 +70,7 @@
 
  ## Why Socialism Always Fails
  - [https://www.aei.org/carpe-diem/why-socialism-always-fails](https://www.aei.org/carpe-diem/why-socialism-always-fails)
- - date_published: 2016-03-22T16:38:36+00:00
+ - date_published: 2016-03-22T10:08:15+00:00
  - tags: ['central planning', 'socialism', 'usa']
 
  ## Why Belgium? 5 reasons terrorists hit heart of Europe | CNN
@@ -130,7 +130,7 @@
 
  ## Not using transgender pronouns could get you fined
  - [https://nypost.com/2016/05/19/city-issues-new-guidelines-on-transgender-pronouns](https://nypost.com/2016/05/19/city-issues-new-guidelines-on-transgender-pronouns)
- - date_published: 2016-05-19T11:06:48+00:00
+ - date_published: 2016-05-19T05:38:31+00:00
  - tags: ['newspeak', 'pronouns', 'the left wing']
 
  ## ► Best of 8-bit Electro Gaming Mix September 2015 ◄ ~(￣▽￣)~ | Xefox Music
@@ -168,19 +168,14 @@
  - date_published: 2016-06-10T14:56:49+00:00
  - tags: ['intel management engine', 'surveillance', 'tracking']
 
- ## The undercover war on your internet secrets: How online surveillance cracked our trust in the web - TechRepublic
- - [https://web.archive.org/web/20160612190952/http://www.techrepublic.com/article/the-undercover-war-on-your-internet-secrets-how-online-surveillance-cracked-our-trust-in-the-web](https://web.archive.org/web/20160612190952/http://www.techrepublic.com/article/the-undercover-war-on-your-internet-secrets-how-online-surveillance-cracked-our-trust-in-the-web)
- - date_published: 2016-06-12T07:16:27+00:00
- - tags: ['big brother', 'crypto wars', 'encryption', 'internet', 'privacy', 'surveillance']
-
  ## Dane z JPK będą najpierw w chmurze - GazetaPrawna.pl
  - [https://podatki.gazetaprawna.pl/artykuly/952001,dane-z-jpk-beda-najpierw-w-chmurze.html](https://podatki.gazetaprawna.pl/artykuly/952001,dane-z-jpk-beda-najpierw-w-chmurze.html)
- - date_published: 2016-06-15T09:03:34+00:00
+ - date_published: 2016-06-15T07:29:00+00:00
  - tags: ['big brother', 'technofeudalism']
 
  ## Intel x86s hide another CPU that can take over your machine (you can't audit it) | Boing Boing
  - [https://boingboing.net/2016/06/15/intel-x86-processors-ship-with.html](https://boingboing.net/2016/06/15/intel-x86-processors-ship-with.html)
- - date_published: 2016-06-15T14:49:12+00:00
+ - date_published: 2016-06-15T12:48:03+00:00
  - tags: ['intel management engine', 'surveillance', 'tracking']
 
  ## Mark Zuckerberg Covers His Webcam With Tape. You Should, Too.
@@ -216,12 +211,12 @@
 
  ## Pfizer agrees to opioid marketing deal to escape a lawsuit by Chicago - STAT
  - [https://www.statnews.com/pharmalot/2016/07/06/pfizer-opioids-chicago-painkiller](https://www.statnews.com/pharmalot/2016/07/06/pfizer-opioids-chicago-painkiller)
- - date_published: 2016-07-06T20:56:30+00:00
+ - date_published: 2016-07-06T18:50:36+00:00
  - tags: ['big pharma', 'pfizer']
 
  ## Profusa awarded $7.5M DARPA grant to work on implantable biosensors | Fierce Biotech
  - [https://www.fiercebiotech.com/medical-devices/profusa-awarded-7-5-million-darpa-grant-to-work-implantable-biosensors](https://www.fiercebiotech.com/medical-devices/profusa-awarded-7-5-million-darpa-grant-to-work-implantable-biosensors)
- - date_published: 2016-07-12T20:14:30+00:00
+ - date_published: 2016-07-12T14:23:19+00:00
  - tags: ['biometric', 'chip', 'profusa']
 
  ## The Left’s New Weapon: ‘Diversity and Inclusion’
@@ -255,17 +250,17 @@
  - [https://www.washingtontimes.com/news/2016/aug/16/black-lives-matter-cashes-100-million-liberal-foun](https://www.washingtontimes.com/news/2016/aug/16/black-lives-matter-cashes-100-million-liberal-foun)
  - date_published: 2016-08-16T20:44:57+00:00
  - tags: ['black lives matter', 'manufacturing consent', 'politics']
+ - date_dead_since: 2025-04-24T21:53:16.091671+00:00
 
  ## With Windows 10, Microsoft Blatantly Disregards User Choice and Privacy: A Deep Dive | Electronic Frontier Foundation
  - [https://www.eff.org/deeplinks/2016/08/windows-10-microsoft-blatantly-disregards-user-choice-and-privacy-deep-dive](https://www.eff.org/deeplinks/2016/08/windows-10-microsoft-blatantly-disregards-user-choice-and-privacy-deep-dive)
- - date_published: 2016-08-17T08:55:28+00:00
+ - date_published: 2016-08-17T07:12:52+00:00
  - tags: ['microsoft', 'privacy', 'technofeudalism', 'windows']
 
  ## Coal Burning Causes the Most Air Pollution Deaths in China, Study Finds
  - [https://www.nytimes.com/2016/08/18/world/asia/china-coal-health-smog-pollution.html](https://www.nytimes.com/2016/08/18/world/asia/china-coal-health-smog-pollution.html)
- - date_published: 2016-08-18T07:59:12+00:00
+ - date_published: 2016-08-18T02:00:22+00:00
  - tags: ['climate change', 'co2', 'pollution']
- - date_dead_since: 2025-04-10T15:22:00.912897+00:00
 
  ## French blogger claims YouTube tried to censor Juncker interview
  - [https://www.theguardian.com/technology/2016/sep/19/french-blogger-claims-youtube-tried-to-censor-juncker-interview](https://www.theguardian.com/technology/2016/sep/19/french-blogger-claims-youtube-tried-to-censor-juncker-interview)
@@ -314,24 +309,23 @@
 
  ## Letter to the Editor: Why Dr. Tedros Adhanom should not lead the World Health Organization - Addis Standard
  - [https://addisstandard.com/letter-editor-dr-tedros-adhanom-not-lead-world-health-organization](https://addisstandard.com/letter-editor-dr-tedros-adhanom-not-lead-world-health-organization)
- - date_published: 2016-09-27T20:52:39+00:00
+ - date_published: 2016-09-27T13:15:21+00:00
  - tags: ['tedros adhanom', 'who']
- - date_dead_since: 2025-04-10T13:02:16.796802+00:00
 
  ## Elon Musk Explains Why SpaceX Only Hires Americans | Inverse
  - [https://m.youtube.com/watch?v=CIvtiNpKEY0](https://m.youtube.com/watch?v=CIvtiNpKEY0)
  - date_published: 2016-09-28T00:00:00+00:00
  - tags: ['racism', 'social democracy', 'the left wing']
 
+ ## 7 Not-So-Secret Homes of Super Secret Societies
+ - [https://www.atlasobscura.com/articles/7-notsosecret-homes-of-super-secret-societies](https://www.atlasobscura.com/articles/7-notsosecret-homes-of-super-secret-societies)
+ - date_published: 2016-10-01T08:00:00+00:00
+ - tags: ['secret societies']
+
  ## BlackRock CEO Larry Fink Champions Long-Term Value Creation
  - [https://www.institutionalinvestor.com/article/b14z9ngwsq1t7z/blackrock-ceo-larry-fink-champions-long-term-value-creation](https://www.institutionalinvestor.com/article/b14z9ngwsq1t7z/blackrock-ceo-larry-fink-champions-long-term-value-creation)
- - date_published: 2016-10-03T20:10:05+00:00
+ - date_published: 2016-10-03T08:00:00+00:00
  - tags: ['blackrock', 'esg', 'larry fink']
-
- ## From Mathematics to Generic Programming
- - [https://fm2gp.com](https://fm2gp.com)
- - date_published: 2016-10-07T00:28:20+00:00
- - tags: ['book']
 
  ## Google’s ad tracking is as creepy as Facebook's. Here’s how to disable it
  - [https://www.theguardian.com/technology/2016/oct/21/how-to-disable-google-ad-tracking-gmail-youtube-browser-history](https://www.theguardian.com/technology/2016/oct/21/how-to-disable-google-ad-tracking-gmail-youtube-browser-history)
@@ -342,11 +336,6 @@
  - [https://www.youtube.com/watch?v=rStL7niR7gs](https://www.youtube.com/watch?v=rStL7niR7gs)
  - date_published: 2016-10-24T00:00:00+00:00
  - tags: ['democracy']
-
- ## 7 Not-So-Secret Homes of Super Secret Societies
- - [https://www.atlasobscura.com/articles/7-notsosecret-homes-of-super-secret-societies](https://www.atlasobscura.com/articles/7-notsosecret-homes-of-super-secret-societies)
- - date_published: 2016-10-26T20:11:20+00:00
- - tags: ['secret societies']
 
  ## Anonymity: The Greatest Weapon Against Oppression - Learn Liberty
  - [https://www.youtube.com/watch?v=YrIKY8Ot97o](https://www.youtube.com/watch?v=YrIKY8Ot97o)
@@ -394,11 +383,6 @@
  - date_published: 2016-12-14T13:38:36+00:00
  - tags: ['bilderberg meeting', 'józef retinger', 'secret societies']
 
- ## A Framework for Understanding Whiteness in Mathematics Education
- - [https://files.eric.ed.gov/fulltext/EJ1124962.pdf](https://files.eric.ed.gov/fulltext/EJ1124962.pdf)
- - date_published: 2016-12-15T03:46:57+00:00
- - tags: ['black lives matter', 'blm', 'hate speech', 'racism', 'usa']
-
  ## Clinton mega donor George Soros leads line-up of liberal billionaires who are funding Facebook's fake news fact checker
  - [https://www.dailymail.co.uk/news/article-4041910/Clinton-mega-donor-George-Soros-leads-line-liberal-billionaires-funding-Facebook-s-fake-news-fact-checker.html](https://www.dailymail.co.uk/news/article-4041910/Clinton-mega-donor-George-Soros-leads-line-liberal-billionaires-funding-Facebook-s-fake-news-fact-checker.html)
  - date_published: 2016-12-16T13:56:18+00:00
@@ -413,4 +397,9 @@
  - [https://www.techexplorist.com/using-lots-social-media-accounts-causes-anxiety/4451](https://www.techexplorist.com/using-lots-social-media-accounts-causes-anxiety/4451)
  - date_published: 2016-12-20T12:04:50+00:00
  - tags: ['digital dementia', 'social media']
+
+ ## Abseil open-source foundational code
+ - [https://abseil.io](https://abseil.io)
+ - date_published: 2017-01-01T00:00:00+00:00
+ - tags: ['c++']
 
