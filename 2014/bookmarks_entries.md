@@ -5,7 +5,7 @@
 
  ## Dyskryminacja płciowa: Wystarczy być kobietą, by dostać dodatkowe punkty
  - [https://forsal.pl/artykuly/771848,dyskryminacja-plciowa-wystarczy-byc-kobieta-by-dostac-dodatkowe-punkty.html](https://forsal.pl/artykuly/771848,dyskryminacja-plciowa-wystarczy-byc-kobieta-by-dostac-dodatkowe-punkty.html)
- - date_published: 2014-01-21T21:07:31+00:00
+ - date_published: 2014-01-21T09:23:00+00:00
  - tags: ['discrimination', 'feminism', 'inequality', 'sexism']
 
  ## Judge rules that Kansan who provided sperm to lesbian couple owes child support  Read more at: https://www.kansascity.com/news/local/article337100.html#storylink=cpy
@@ -20,7 +20,7 @@
 
  ## Nigeria’s Boko Haram targets Christian town and fishing village in latest attacks
  - [http://edition.cnn.com/2014/02/16/world/africa/nigeria-boko-haram-attacks/index.html?eref=edition](http://edition.cnn.com/2014/02/16/world/africa/nigeria-boko-haram-attacks/index.html?eref=edition)
- - date_published: 2014-02-17T09:23:02+00:00
+ - date_published: 2014-02-16T21:20:40+00:00
  - tags: ['christianophobia', 'islam', 'nigeria', 'religion']
 
  ## The Expert (Short Comedy Sketch)

@@ -343,3 +343,13 @@
  - date_published: 2025-04-07T18:46:43+00:00
  - tags: ['privacy', 'surveillance']
 
+ ## CPO at Adobe says company will 'discontinue' DEI targets
+ - [http://www.hrdmag.com.sg/asia/specialisation/diversity-inclusion/cpo-at-adobe-says-company-will-discontinue-dei-targets/530679](http://www.hrdmag.com.sg/asia/specialisation/diversity-inclusion/cpo-at-adobe-says-company-will-discontinue-dei-targets/530679)
+ - date_published: 2025-04-25T11:21:38.825658+00:00
+ - tags: ['dei', 'diversity', 'inequality']
+
+ ## Reclaim the internet: Mozilla’s rebrand for the next era of tech | The Mozilla Blog
+ - [https://blog.mozilla.org/en/mozilla/mozilla-brand-next-era-of-tech](https://blog.mozilla.org/en/mozilla/mozilla-brand-next-era-of-tech)
+ - date_published: 2025-04-25T11:23:36.058879+00:00
+ - tags: ['activism', 'dei', 'diversity', 'mozilla']
+

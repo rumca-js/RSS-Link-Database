@@ -10,17 +10,17 @@
 
  ## EU countries sign unpopular anti-counterfeit treaty
  - [https://euobserver.com/rule-of-law/115043](https://euobserver.com/rule-of-law/115043)
- - date_published: 2012-01-27T10:50:13+00:00
+ - date_published: 2012-01-27T09:06:16+00:00
+ - tags: ['acta', 'censorship', 'government control', 'privacy', 'protest', 'surveillance']
+
+ ## What is ACTA and why are thousands of Europeans protesting it? | VentureBeat
+ - [https://venturebeat.com/business/what-is-acta-and-why-are-thousands-of-europeans-protesting-it](https://venturebeat.com/business/what-is-acta-and-why-are-thousands-of-europeans-protesting-it)
+ - date_published: 2012-01-28T19:20:48+00:00
  - tags: ['acta', 'censorship', 'government control', 'privacy', 'protest', 'surveillance']
 
  ## Acta protests: Thousands take to streets across Europe - BBC News
  - [https://www.bbc.com/news/technology-16999497](https://www.bbc.com/news/technology-16999497)
  - date_published: 2012-03-08T10:47:47+00:00
- - tags: ['acta', 'censorship', 'government control', 'privacy', 'protest', 'surveillance']
-
- ## What is ACTA and why are thousands of Europeans protesting it? | VentureBeat
- - [https://venturebeat.com/business/what-is-acta-and-why-are-thousands-of-europeans-protesting-it](https://venturebeat.com/business/what-is-acta-and-why-are-thousands-of-europeans-protesting-it)
- - date_published: 2012-03-08T10:49:43+00:00
  - tags: ['acta', 'censorship', 'government control', 'privacy', 'protest', 'surveillance']
 
  ## Why Are Game Developer Bonuses Based On Review Scores?
@@ -45,7 +45,7 @@
 
  ## Berlusconi’s ‘bunga bunga’ women testify at his trial
  - [https://edition.cnn.com/2012/04/16/world/europe/italy-berlusconi-trial/index.html](https://edition.cnn.com/2012/04/16/world/europe/italy-berlusconi-trial/index.html)
- - date_published: 2012-04-16T20:35:25+00:00
+ - date_published: 2012-04-16T10:42:25+00:00
  - tags: ['billionaires', 'bunga bunga', 'politicians', 'silvio berlusconi']
 
  ## Introduction to Sockets Programming in C using TCP/IP
@@ -55,7 +55,7 @@
 
  ## A Fink-ing Mess!
  - [https://www.cnbc.com/2012/06/01/a-finking-mess.html](https://www.cnbc.com/2012/06/01/a-finking-mess.html)
- - date_published: 2012-06-01T22:23:04+00:00
+ - date_published: 2012-06-01T19:48:35+00:00
  - tags: ['blackrock', 'larry fink']
 
  ## Doom3 Source Code Review: Introduction
@@ -86,7 +86,7 @@
  ## Pfizer H.C.P. Corp. Agrees to Pay $15 Million Penalty to Resolve
 Foreign Bribery Investigation | OPA | Department of Justice
  - [https://www.justice.gov/opa/pr/pfizer-hcp-corp-agrees-pay-15-million-penalty-resolve-foreign-bribery-investigation](https://www.justice.gov/opa/pr/pfizer-hcp-corp-agrees-pay-15-million-penalty-resolve-foreign-bribery-investigation)
- - date_published: 2012-08-07T19:56:42+00:00
+ - date_published: 2012-08-07T11:03:22+00:00
  - tags: ['big pharma', 'manufacturing consent', 'pfizer']
 
  ## Pfizer settles foreign bribery case with U.S. government | Reuters
@@ -96,7 +96,7 @@ Foreign Bribery Investigation | OPA | Department of Justice
 
  ## Pfizer znów zapłaci za łapówki
  - [https://www.prawo.pl/zdrowie/pfizer-znow-zaplaci-za-lapowki,248972.html](https://www.prawo.pl/zdrowie/pfizer-znow-zaplaci-za-lapowki,248972.html)
- - date_published: 2012-08-09T20:08:58+00:00
+ - date_published: 2012-08-09T09:26:00+00:00
  - tags: ['big pharma', 'manufacturing consent', 'pfizer']
 
  ## Amiga Music: Jogeir Liljedahl Compilation #1
@@ -116,7 +116,7 @@ Foreign Bribery Investigation | OPA | Department of Justice
 
  ## Decline of bees forces China’s apple farmers to pollinate by hand
  - [https://chinadialogue.net/en/food/5193-decline-of-bees-forces-china-s-apple-farmers-to-pollinate-by-hand](https://chinadialogue.net/en/food/5193-decline-of-bees-forces-china-s-apple-farmers-to-pollinate-by-hand)
- - date_published: 2012-10-02T18:06:03+00:00
+ - date_published: 2012-10-02T09:18:00+00:00
  - tags: ['bees', 'china', 'pollution']
 
  ## Domagają się zdjęcia krzyża, ale zapalają świece chanukowe. "Symbole religijne? W Sejmie? I do tego Ruch Palikota?"

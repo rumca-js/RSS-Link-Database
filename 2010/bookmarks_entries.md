@@ -15,7 +15,7 @@
 
  ## Skandynawskie parytety w biznesie
  - [https://www.polityka.pl/tygodnikpolityka/rynek/1503524,1,skandynawskie-parytety-w-biznesie.read](https://www.polityka.pl/tygodnikpolityka/rynek/1503524,1,skandynawskie-parytety-w-biznesie.read)
- - date_published: 2010-02-25T13:55:37+00:00
+ - date_published: 2010-02-25T09:26:00+00:00
  - tags: ['feminism', 'sexism', 'socialism']
 
  ## Pesticide atrazine can turn male frogs into females | Berkeley
@@ -35,13 +35,14 @@
 
  ## 'Toxic stew' of chemicals causing male fish to carry eggs in testes | Pollution | The Guardian
  - [https://www.theguardian.com/environment/2010/apr/21/toxic-stew-chemicals-fish-eggs](https://www.theguardian.com/environment/2010/apr/21/toxic-stew-chemicals-fish-eggs)
- - date_published: 2010-04-21T11:20:54+00:00
+ - date_published: 2010-04-21T10:05:27+00:00
  - tags: ['depopulation', 'pollution']
 
  ## We Have Met the Enemy and He Is PowerPoint (Published 2010)
  - [https://www.nytimes.com/2010/04/27/world/27powerpoint.html](https://www.nytimes.com/2010/04/27/world/27powerpoint.html)
  - date_published: 2010-04-26T12:52:23+00:00
  - tags: ['funny', 'powerpoint']
+ - date_dead_since: 2025-04-25T15:34:35.874935+00:00
 
  ## Facebook does not erase user-deleted content | ZDNET
  - [https://www.zdnet.com/article/facebook-does-not-erase-user-deleted-content](https://www.zdnet.com/article/facebook-does-not-erase-user-deleted-content)
@@ -53,6 +54,11 @@
  - date_published: 2010-05-14T08:48:45+00:00
  - tags: ['corporatocracy', 'google', 'law', 'privacy', 'surveillance']
 
+ ## Nestlé drives rainforest destruction pushing orangutans to brink of extinction - Greenpeace USA
+ - [https://www.greenpeace.org/usa/news/nestle-drives-rainforest-destr](https://www.greenpeace.org/usa/news/nestle-drives-rainforest-destr)
+ - date_published: 2010-06-07T00:00:00+00:00
+ - tags: ['climate change', 'deforestation', 'nestle', 'palm oil', 'pollution']
+
  ## Doc Who Faked Pfizer Studies Gets 6 Months in Prison, Showing Why Gift Bans Are a Good Idea
  - [https://www.cbsnews.com/news/doc-who-faked-pfizer-studies-gets-6-months-in-prison-showing-why-gift-bans-are-a-good-idea](https://www.cbsnews.com/news/doc-who-faked-pfizer-studies-gets-6-months-in-prison-showing-why-gift-bans-are-a-good-idea)
  - date_published: 2010-06-25T22:24:17+00:00
@@ -62,11 +68,6 @@
  - [https://thehill.com/homenews/administration/105897-biden-remembers-byrd-as-mentor-and-dear-friend](https://thehill.com/homenews/administration/105897-biden-remembers-byrd-as-mentor-and-dear-friend)
  - date_published: 2010-06-28T22:29:26+00:00
  - tags: ['joe biden', 'roberty byrd']
-
- ## Nestlé drives rainforest destruction pushing orangutans to brink of extinction - Greenpeace USA
- - [https://www.greenpeace.org/usa/news/nestle-drives-rainforest-destr](https://www.greenpeace.org/usa/news/nestle-drives-rainforest-destr)
- - date_published: 2010-07-06T12:23:40+00:00
- - tags: ['climate change', 'deforestation', 'nestle', 'palm oil', 'pollution']
 
  ## World of Warcraft maker to end anonymous forum logins
  - [https://www.bbc.com/news/10543100](https://www.bbc.com/news/10543100)
@@ -81,7 +82,6 @@
  - [http://edition.cnn.com/2010/WORLD/africa/07/12/uganda.bombings/index.html?eref=edition](http://edition.cnn.com/2010/WORLD/africa/07/12/uganda.bombings/index.html?eref=edition)
  - date_published: 2010-07-12T12:59:09+00:00
  - tags: ['islam terror', 'religion']
- - date_dead_since: 2024-10-27T22:49:33.989899+00:00
 
  ## Blizzard Backs off Forcing Users to Post under Real Names | Digital Trends
  - [https://www.digitaltrends.com/gaming/blizzard-backs-off-forcing-users-to-post-under-real-names](https://www.digitaltrends.com/gaming/blizzard-backs-off-forcing-users-to-post-under-real-names)
@@ -90,7 +90,7 @@
 
  ## Afghanistan war logs: Massive leak of secret files exposes truth of occupation | Afghanistan: the war logs | The Guardian
  - [https://www.theguardian.com/world/2010/jul/25/afghanistan-war-logs-military-leaks](https://www.theguardian.com/world/2010/jul/25/afghanistan-war-logs-military-leaks)
- - date_published: 2010-07-25T21:33:58+00:00
+ - date_published: 2010-07-25T21:03:00+00:00
  - tags: ['afganistan', 'big brother', 'data leak', 'usa', 'war']
 
  ## Daniel Cohn-Bendit - pedofil w Europarlamencie?
@@ -101,9 +101,8 @@
 
  ## How radicals tried to sexually ‘liberate’ children
  - [https://ionainstitute.ie/how-radicals-tried-to-sexually-liberate-children](https://ionainstitute.ie/how-radicals-tried-to-sexually-liberate-children)
- - date_published: 2010-08-05T21:04:24+00:00
+ - date_published: 2010-08-05T12:41:26+00:00
  - tags: ['children', 'lgbt', 'paedophilia', 'sexualization', 'the left wing']
- - date_dead_since: 2024-10-27T22:34:23.438027+00:00
 
  ## Fidel Castro fascinated by Bilderberg Club conspiracy theory - CSMonitor.com
  - [https://www.csmonitor.com/From-the-news-wires/2010/0820/Fidel-Castro-fascinated-by-Bilderberg-Club-conspiracy-theory](https://www.csmonitor.com/From-the-news-wires/2010/0820/Fidel-Castro-fascinated-by-Bilderberg-Club-conspiracy-theory)
@@ -154,7 +153,6 @@
  - [http://edition.cnn.com/2010/US/12/01/wikileaks.amazon/index.html?eref=edition](http://edition.cnn.com/2010/US/12/01/wikileaks.amazon/index.html?eref=edition)
  - date_published: 2010-12-02T03:49:13+00:00
  - tags: ['amazon', 'big tech', 'deplatform', 'wikileaks']
- - date_dead_since: 2024-10-27T21:59:40.718493+00:00
 
  ## Facebook–Cambridge Analytica data scandal
  - [https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal](https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal)

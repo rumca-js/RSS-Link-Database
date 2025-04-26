@@ -72,12 +72,12 @@
 
  ## Sperm donor to lesbian couple forced to pay child support | Politics | The Guardian
  - [https://www.theguardian.com/politics/2007/dec/04/gayrights.immigrationpolicy](https://www.theguardian.com/politics/2007/dec/04/gayrights.immigrationpolicy)
- - date_published: 2007-12-04T07:41:10+00:00
+ - date_published: 2007-12-04T00:35:17+00:00
  - tags: ['lgbt', 'the left wing']
 
  ## Unintended victims of Gates Foundation generosity
  - [https://www.latimes.com/nation/la-na-gates16dec16-story.html](https://www.latimes.com/nation/la-na-gates16dec16-story.html)
- - date_published: 2007-12-16T20:56:30+00:00
+ - date_published: 2007-12-16T08:00:00+00:00
  - tags: ['bill gates', 'gates foundation', 'vaccine']
 
  ## Tribute to Fallouts

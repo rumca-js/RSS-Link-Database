@@ -1,6 +1,6 @@
  ## NSA Backdoors in Crypto AG Ciphering Machines - Schneier on Security
  - [https://www.schneier.com/blog/archives/2008/01/nsa_backdoors_i.html](https://www.schneier.com/blog/archives/2008/01/nsa_backdoors_i.html)
- - date_published: 2008-01-11T08:36:04+00:00
+ - date_published: 2008-01-11T06:51:20+00:00
  - tags: ['backdoor', 'cryptography', 'espionage', 'nsa']
 
  ## Fallout - The Tribute
@@ -20,13 +20,14 @@
 
  ## Is Google Making Us Stupid? - The Atlantic
  - [https://www.theatlantic.com/magazine/archive/2008/07/is-google-making-us-stupid/306868](https://www.theatlantic.com/magazine/archive/2008/07/is-google-making-us-stupid/306868)
- - date_published: 2008-07-20T11:33:08+00:00
+ - date_published: 2008-07-01T16:00:00+00:00
  - tags: ['digital dementia', 'future', 'google', 'psychology']
 
  ## Overdue Account
  - [https://27bslash6.com/overdue.html](https://27bslash6.com/overdue.html)
  - date_published: 2008-10-08T07:58:35+00:00
  - tags: ['funny']
+ - date_dead_since: 2025-04-25T17:14:39.308379+00:00
 
  ## Why societies collapse | Jared Diamond
  - [https://www.youtube.com/watch?v=IESYMFtLIis](https://www.youtube.com/watch?v=IESYMFtLIis)

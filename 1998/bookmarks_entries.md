@@ -7,12 +7,12 @@
  - [http://infolab.stanford.edu/~backrub/google.html](http://infolab.stanford.edu/~backrub/google.html)
  - date_published: 1998-06-23T09:34:30+00:00
  - tags: ['algorithms', 'dead internet', 'search engines']
- - date_dead_since: 2024-10-28T06:20:13.191780+00:00
 
  ## Halloween Document 10
  - [http://www.catb.org/~esr/halloween/halloween1.html](http://www.catb.org/~esr/halloween/halloween1.html)
  - date_published: 1998-08-20T10:55:15+00:00
  - tags: ['dark design', 'halloween documents', 'microsoft']
+ - date_dead_since: 2025-04-25T21:48:55.624294+00:00
 
  ## Halloween documents - Wikipedia
  - [https://en.wikipedia.org/wiki/Halloween_documents](https://en.wikipedia.org/wiki/Halloween_documents)

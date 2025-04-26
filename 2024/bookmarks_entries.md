@@ -720,6 +720,7 @@
  - [https://www.nytimes.com/2024/04/23/technology/general-motors-spying-driver-data-consent.html](https://www.nytimes.com/2024/04/23/technology/general-motors-spying-driver-data-consent.html)
  - date_published: 2024-04-23T16:06:11+00:00
  - tags: ['privacy', 'surveillance', 'technofeudalism']
+ - date_dead_since: 2025-04-26T06:43:46.093000+00:00
 
  ## The Man Who Killed Google Search
  - [https://www.wheresyoured.at/the-men-who-killed-google](https://www.wheresyoured.at/the-men-who-killed-google)
@@ -838,7 +839,7 @@
 
  ## Anonymous Source Shared Leaked Google Search API Documents
  - [https://sparktoro.com/blog/an-anonymous-source-shared-thousands-of-leaked-google-search-api-documents-with-me-everyone-in-seo-should-see-them](https://sparktoro.com/blog/an-anonymous-source-shared-thousands-of-leaked-google-search-api-documents-with-me-everyone-in-seo-should-see-them)
- - date_published: 2024-05-28T03:07:31+00:00
+ - date_published: 2024-05-28T02:20:52+00:00
  - tags: ['corporatocracy', 'google', 'inequality']
 
  ## Spying, hacking and intimidation: Israel’s nine-year ‘war’ on the ICC exposed

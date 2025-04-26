@@ -10,17 +10,18 @@
 
  ## New Internet Site Turns Critical Eyes and Ears to the Right
  - [https://www.nytimes.com/2004/05/03/us/new-internet-site-turns-critical-eyes-and-ears-to-the-right.html](https://www.nytimes.com/2004/05/03/us/new-internet-site-turns-critical-eyes-and-ears-to-the-right.html)
- - date_published: 2004-05-03T20:05:49+00:00
+ - date_published: 2004-05-03T05:00:00+00:00
  - tags: ['media', 'media matters']
 
  ## STATE OF THE ART; Google Mail: Virtue Lies In the In-Box (Published 2004)
  - [https://www.nytimes.com/2004/05/13/technology/state-of-the-art-google-mail-virtue-lies-in-the-in-box.html?pagewanted=print&src=pm](https://www.nytimes.com/2004/05/13/technology/state-of-the-art-google-mail-virtue-lies-in-the-in-box.html?pagewanted=print&src=pm)
  - date_published: 2004-05-13T06:26:18+00:00
  - tags: ['gmail', 'google']
+ - date_dead_since: 2025-04-25T19:42:49.272076+00:00
 
  ## George Soros: The 'God' Who Carries Around Some Dangerous Demons - Los Angeles Times
  - [https://www.latimes.com/archives/la-xpm-2004-oct-04-oe-ehrenfeld4-story.html](https://www.latimes.com/archives/la-xpm-2004-oct-04-oe-ehrenfeld4-story.html)
- - date_published: 2004-10-04T17:43:52+00:00
+ - date_published: 2004-10-04T07:00:00+00:00
  - tags: ['billionaires', 'elite', 'george soros']
 
  ## EU fish ministers to vote on software patents

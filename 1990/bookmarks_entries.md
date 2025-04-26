@@ -17,5 +17,4 @@
  - [https://www.tvp.info/54797855/michal-falzmann-i-afera-fozz-okolicznosci-smierci-zagadka-po-30-latach-slawomir-cenckiewicz-rozkodowal-model-rabowania-polski](https://www.tvp.info/54797855/michal-falzmann-i-afera-fozz-okolicznosci-smierci-zagadka-po-30-latach-slawomir-cenckiewicz-rozkodowal-model-rabowania-polski)
  - date_published: 1990-09-02T08:19:56+00:00
  - tags: ['all time', 'fozz', 'michał falzmann', 'scandal']
- - date_dead_since: 2024-10-28T07:34:47.482700+00:00
 

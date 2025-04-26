@@ -35,7 +35,7 @@
 
  ## Aaron Swartz's battle to free the PACER legal document database - The Verge
  - [https://www.theverge.com/2013/2/8/3968824/aaron-swartzs-battle-to-free-the-pacer-legal-document-database](https://www.theverge.com/2013/2/8/3968824/aaron-swartzs-battle-to-free-the-pacer-legal-document-database)
- - date_published: 2013-02-09T10:03:57+00:00
+ - date_published: 2013-02-09T00:34:17+00:00
  - tags: ['aaron swartz', 'pacer']
 
  ## Google Play Store policy raises privacy concerns
@@ -95,7 +95,7 @@
 
  ## Green party in Germany to investigate backing for paedophiles in 80s
  - [https://www.theguardian.com/world/2013/may/14/green-party-germany-paedophiles-80s](https://www.theguardian.com/world/2013/may/14/green-party-germany-paedophiles-80s)
- - date_published: 2013-05-14T20:58:23+00:00
+ - date_published: 2013-05-14T18:06:04+00:00
  - tags: ['germany', 'paedophilia']
 
  ## Quo vadis? ...czyli o życiowym powołaniu z ks. Piotrem Pawlukiewiczem
@@ -135,7 +135,7 @@
 
  ## Snowden leak: Britain spied on allies at G-20 summit
  - [http://edition.cnn.com/2013/06/16/world/europe/nsa-leaks/index.html?eref=edition](http://edition.cnn.com/2013/06/16/world/europe/nsa-leaks/index.html?eref=edition)
- - date_published: 2013-06-17T03:24:43+00:00
+ - date_published: 2013-06-16T23:44:04+00:00
  - tags: ['big brother', 'edward snowden', 'espionage', 'surveillance']
 
  ## GCHQ intercepted foreign politicians' communications at G20 summits | GCHQ | The Guardian
@@ -150,7 +150,7 @@
 
  ## Project Chess: How U.S. Snoops On Your Skype
  - [https://www.forbes.com/sites/petercohan/2013/06/20/project-chess-how-u-s-snoops-on-your-skype](https://www.forbes.com/sites/petercohan/2013/06/20/project-chess-how-u-s-snoops-on-your-skype)
- - date_published: 2013-06-20T09:08:52+00:00
+ - date_published: 2013-06-20T00:00:00+00:00
  - tags: ['big brother', 'big tech', 'microsoft', 'nsa', 'privacy', 'skype', 'surveillance']
 
  ## A look at the black underbelly of Windows 8.1 'Blue' | InfoWorld
@@ -160,18 +160,19 @@
 
  ## Use Android? You’re Probably Giving Google All Your Wifi Passwords
  - [https://micahflee.com/2013/07/use-android-youre-probably-giving-google-all-your-wifi-passwords](https://micahflee.com/2013/07/use-android-youre-probably-giving-google-all-your-wifi-passwords)
- - date_published: 2013-07-11T12:04:49+00:00
+ - date_published: 2013-07-11T07:00:00+00:00
  - tags: ['google', 'security', 'wifi']
 
  ## Microsoft handed the NSA access to encrypted messages | NSA | The Guardian
  - [https://www.theguardian.com/world/2013/jul/11/microsoft-nsa-collaboration-user-data](https://www.theguardian.com/world/2013/jul/11/microsoft-nsa-collaboration-user-data)
- - date_published: 2013-07-12T09:04:18+00:00
+ - date_published: 2013-07-12T07:04:00+00:00
  - tags: ['backdoor', 'big brother', 'big tech', 'manufacturing consent', 'microsoft', 'nsa', 'privacy']
 
  ## Attention, Shoppers: Store Is Tracking Your Cell - The New York Times
  - [https://www.nytimes.com/2013/07/15/business/attention-shopper-stores-are-tracking-your-cell.html](https://www.nytimes.com/2013/07/15/business/attention-shopper-stores-are-tracking-your-cell.html)
  - date_published: 2013-07-14T15:11:32+00:00
  - tags: ['corporatocracy', 'privacy', 'surveillance', 'technofeudalism']
+ - date_dead_since: 2025-04-25T07:51:49.544762+00:00
 
  ## The Creepy, Long-Standing Practice of Undersea Cable Tapping - The Atlantic
  - [https://www.theatlantic.com/international/archive/2013/07/the-creepy-long-standing-practice-of-undersea-cable-tapping/277855](https://www.theatlantic.com/international/archive/2013/07/the-creepy-long-standing-practice-of-undersea-cable-tapping/277855)
@@ -180,7 +181,7 @@
 
  ## Sourceforge.net adds adware installers provided by Ask.com
  - [https://malwaretips.com/threads/sourceforge-net-adds-adware-installers-provided-by-ask-com.17247](https://malwaretips.com/threads/sourceforge-net-adds-adware-installers-provided-by-ask-com.17247)
- - date_published: 2013-07-24T11:18:14+00:00
+ - date_published: 2013-07-24T00:00:00+00:00
  - tags: ['ad business']
 
  ## MIT releases report on its actions in the Aaron Swartz case
@@ -212,6 +213,7 @@
  - [https://www.nytimes.com/2013/09/06/us/nsa-foils-much-internet-encryption.html](https://www.nytimes.com/2013/09/06/us/nsa-foils-much-internet-encryption.html)
  - date_published: 2013-09-05T07:23:09+00:00
  - tags: ['anonymity', 'big brother', 'crypto wars', 'encryption', 'privacy']
+ - date_dead_since: 2025-04-25T07:26:53.353125+00:00
 
  ## China threatens tough punishment for online rumour spreading
  - [https://www.reuters.com/article/china-internet-idINDEE98806R20130909](https://www.reuters.com/article/china-internet-idINDEE98806R20130909)
@@ -220,7 +222,7 @@
 
  ## New York Times provides new details about NSA backdoor in crypto spec | Ars Technica
  - [https://arstechnica.com/information-technology/2013/09/new-york-times-provides-new-details-about-nsa-backdoor-in-crypto-spec](https://arstechnica.com/information-technology/2013/09/new-york-times-provides-new-details-about-nsa-backdoor-in-crypto-spec)
- - date_published: 2013-09-11T07:24:34+00:00
+ - date_published: 2013-09-11T03:00:40+00:00
  - tags: ['anonymity', 'big brother', 'crypto wars', 'encryption', 'privacy', 'surveillance']
 
  ## Google knows nearly every Wi-Fi password in the world
@@ -240,7 +242,7 @@
 
  ## Kierownik biura Zielonych w areszcie za pedofilię
  - [https://pch24.pl/kierownik-biura-zielonych-w-areszcie-za-pedofilie](https://pch24.pl/kierownik-biura-zielonych-w-areszcie-za-pedofilie)
- - date_published: 2013-10-13T11:09:05+00:00
+ - date_published: 2013-10-13T07:38:00+00:00
  - tags: ['germany', 'green']
 
  ## NSA infiltrates links to Yahoo, Google data centers worldwide, Snowden documents say

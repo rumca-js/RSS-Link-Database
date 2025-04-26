@@ -23,6 +23,7 @@
  - [https://yarchive.net/comp/linux/acpi.html](https://yarchive.net/comp/linux/acpi.html)
  - date_published: 2006-10-06T12:08:47+00:00
  - tags: ['acpi', 'hardware', 'intel', 'linus torvalds']
+ - date_dead_since: 2025-04-25T18:29:39.654467+00:00
 
  ## White Supremacist Infiltration of Law Enforcement
  - [https://nsarchive.gwu.edu/sites/default/files/documents/qxf56q-o0zwb/02.pdf](https://nsarchive.gwu.edu/sites/default/files/documents/qxf56q-o0zwb/02.pdf)

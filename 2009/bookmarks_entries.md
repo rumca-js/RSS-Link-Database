@@ -10,17 +10,18 @@
 
  ## Scottish paedophile ring found guilty of more than 50 charges
  - [https://www.theguardian.com/uk/2009/may/07/scottish-paedophile-ring-guilty-child-abuse](https://www.theguardian.com/uk/2009/may/07/scottish-paedophile-ring-guilty-child-abuse)
- - date_published: 2009-05-07T21:30:07+00:00
+ - date_published: 2009-05-07T20:06:26+00:00
  - tags: ['lgbt', 'paedophilia', 'the left wing']
 
  ## The Future of Artificial Intelligence - The New York Times
  - [https://www.nytimes.com/2009/05/24/weekinreview/24markoff.html](https://www.nytimes.com/2009/05/24/weekinreview/24markoff.html)
  - date_published: 2009-05-23T07:17:54+00:00
  - tags: ['artificial intelligence']
+ - date_dead_since: 2025-04-25T16:59:38.155594+00:00
 
  ## WHO declares swine flu pandemic | Swine flu | The Guardian
  - [https://www.theguardian.com/world/2009/jun/11/swine-flu-pandemic-who-declares](https://www.theguardian.com/world/2009/jun/11/swine-flu-pandemic-who-declares)
- - date_published: 2009-06-11T20:14:29+00:00
+ - date_published: 2009-06-11T17:39:00+00:00
  - tags: ['pandemic', 'swine flu', 'who']
 
  ## Teenager is fourth person in UK to die from swine flu | Swine flu | The Guardian
@@ -50,7 +51,7 @@
 
  ## Pfizer zapłaci 2,3 mld dolarów kary - Forsal.pl
  - [https://forsal.pl/artykuly/349186,pfizer-zaplaci-23-mld-dolarow-kary.html](https://forsal.pl/artykuly/349186,pfizer-zaplaci-23-mld-dolarow-kary.html)
- - date_published: 2009-09-03T20:08:34+00:00
+ - date_published: 2009-09-03T16:54:00+00:00
  - tags: ['big pharma', 'pfizer']
 
  ## Cramming More Components onto Integrated Circuits (Gordon Moore, 1965) [pdf]

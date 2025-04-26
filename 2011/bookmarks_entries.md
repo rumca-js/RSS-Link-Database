@@ -1,6 +1,11 @@
+ ## The Myth of U.S. Democracy and the Reality of U.S. Corporatocracy
+ - [https://www.huffpost.com/entry/the-myth-of-us-democracy-corporatocracy_b_836573](https://www.huffpost.com/entry/the-myth-of-us-democracy-corporatocracy_b_836573)
+ - date_published: 2011-03-16T20:43:40+00:00
+ - tags: ['billionaires', 'corporatocracy', 'elites', 'oligopoly', 'plutocracy']
+
  ## Revealed: US spy operation that manipulates social media
  - [https://www.theguardian.com/technology/2011/mar/17/us-spy-operation-social-networks](https://www.theguardian.com/technology/2011/mar/17/us-spy-operation-social-networks)
- - date_published: 2011-03-17T15:28:40+00:00
+ - date_published: 2011-03-17T13:19:00+00:00
  - tags: ['big brother', 'disinformation', 'fact check', 'fakenews', 'government', 'propaganda', 'psyop', 'social media']
 
  ## Demasculinization and feminization of male gonads by atrazine: consistent effects across vertebrate classes - PubMed
@@ -15,13 +20,13 @@
 
  ## The Berlusconi in Us All: Bunga Bunga's Real Meaning
  - [https://www.theatlantic.com/international/archive/2011/04/the-berlusconi-in-us-all-bunga-bungas-real-meaning/236871](https://www.theatlantic.com/international/archive/2011/04/the-berlusconi-in-us-all-bunga-bungas-real-meaning/236871)
- - date_published: 2011-04-06T20:33:30+00:00
+ - date_published: 2011-04-06T11:00:00+00:00
  - tags: ['bunga bunga', 'silvio berlusconi']
 
- ## The Myth of U.S. Democracy and the Reality of U.S. Corporatocracy
- - [https://www.huffpost.com/entry/the-myth-of-us-democracy-corporatocracy_b_836573](https://www.huffpost.com/entry/the-myth-of-us-democracy-corporatocracy_b_836573)
- - date_published: 2011-05-25T21:02:25+00:00
- - tags: ['billionaires', 'corporatocracy', 'elites', 'oligopoly', 'plutocracy']
+ ## Basta Bunga Bunga
+ - [https://www.newyorker.com/magazine/2011/06/06/basta-bunga-bunga](https://www.newyorker.com/magazine/2011/06/06/basta-bunga-bunga)
+ - date_published: 2011-05-30T00:00:00+00:00
+ - tags: ['billionaires', 'bunga bunga', 'politicians', 'silvio berlusconi']
 
  ## Baaa
  - [https://www.youtube.com/watch?v=WQO-aOdJLiw](https://www.youtube.com/watch?v=WQO-aOdJLiw)
@@ -30,13 +35,8 @@
 
  ## Suspension, Ban or Hellban?
  - [https://blog.codinghorror.com/suspension-ban-or-hellban](https://blog.codinghorror.com/suspension-ban-or-hellban)
- - date_published: 2011-06-04T06:04:20+00:00
+ - date_published: 2011-06-04T05:07:55+00:00
  - tags: ['censorship', 'moderation', 'shadowban']
-
- ## Basta Bunga Bunga
- - [https://www.newyorker.com/magazine/2011/06/06/basta-bunga-bunga](https://www.newyorker.com/magazine/2011/06/06/basta-bunga-bunga)
- - date_published: 2011-06-06T20:34:27+00:00
- - tags: ['billionaires', 'bunga bunga', 'politicians', 'silvio berlusconi']
 
  ## Card Designer: The Inspiration For Zuckerberg's "I'm CEO, Bitch"? Steve Jobs. | TechCrunch
  - [https://techcrunch.com/2011/06/25/im-ceo-bitch](https://techcrunch.com/2011/06/25/im-ceo-bitch)
