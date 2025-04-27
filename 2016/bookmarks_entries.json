@@ -2413,7 +2413,7 @@
         "page_rating_contents": 100,
         "page_rating_visits": 0,
         "page_rating_votes": 10,
-        "permanent": true,
+        "permanent": false,
         "source_url": "",
         "status_code": 200,
         "tags": [

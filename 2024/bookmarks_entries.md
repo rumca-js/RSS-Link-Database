@@ -18,6 +18,11 @@
  - date_published: 2024-01-03T00:00:00+00:00
  - tags: ['anime', 'propaganda', 'sjw', 'the left wing', 'woke']
 
+ ## U.S. Sen. Johnson to HHS, FDA, CDC: Deaths per million doses of the COVID-19 vaccines are significantly higher than the flu vaccine
+ - [https://www.wispolitics.com/2024/u-s-sen-johnson-to-hhs-fda-cdc-deaths-per-million-doses-of-the-covid-19-vaccines-are-significantly-higher-than-the-flu-vaccine](https://www.wispolitics.com/2024/u-s-sen-johnson-to-hhs-fda-cdc-deaths-per-million-doses-of-the-covid-19-vaccines-are-significantly-higher-than-the-flu-vaccine)
+ - date_published: 2024-01-03T14:56:41+00:00
+ - tags: ['covid', 'vaccines']
+
  ## Jeffrey Epstein’s elite circle was huge. Who paid for his $580m fortune?
  - [https://www.theguardian.com/us-news/2024/jan/03/jeffrey-epstein-sex-trafficking-unsealed-documents](https://www.theguardian.com/us-news/2024/jan/03/jeffrey-epstein-sex-trafficking-unsealed-documents)
  - date_published: 2024-01-04T03:36:46+00:00
@@ -27,11 +32,6 @@
  - [https://www.dailymail.co.uk/news/article-12925235/Billionaire-hedge-fund-manager-Glenn-Dubin-Ghislaine-Maxwell-Virginia-Giuffre-sex-Jeffrey-Epstein.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12925235/Billionaire-hedge-fund-manager-Glenn-Dubin-Ghislaine-Maxwell-Virginia-Giuffre-sex-Jeffrey-Epstein.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date_published: 2024-01-04T06:57:57+00:00
  - tags: ['glenn dubin', 'jeffrey epstein']
-
- ## U.S. Sen. Johnson to HHS, FDA, CDC: Deaths per million doses of the COVID-19 vaccines are significantly higher than the flu vaccine
- - [https://www.wispolitics.com/2024/u-s-sen-johnson-to-hhs-fda-cdc-deaths-per-million-doses-of-the-covid-19-vaccines-are-significantly-higher-than-the-flu-vaccine](https://www.wispolitics.com/2024/u-s-sen-johnson-to-hhs-fda-cdc-deaths-per-million-doses-of-the-covid-19-vaccines-are-significantly-higher-than-the-flu-vaccine)
- - date_published: 2024-01-04T07:55:09+00:00
- - tags: ['covid', 'vaccines']
 
  ## The internet copyright machine wasn’t made for Mickey Mouse
  - [https://www.theverge.com/2024/1/5/24026433/mickey-mouse-steamboat-willie-youtube-teepublic-takedowns-public-domain](https://www.theverge.com/2024/1/5/24026433/mickey-mouse-steamboat-willie-youtube-teepublic-takedowns-public-domain)
@@ -101,7 +101,6 @@
  - [https://www.wsj.com/articles/anthony-fauci-covid-social-distancing-six-feet-rule-house-subcommittee-hearing-44289850](https://www.wsj.com/articles/anthony-fauci-covid-social-distancing-six-feet-rule-house-subcommittee-hearing-44289850)
  - date_published: 2024-01-11T23:34:00+00:00
  - tags: ['covid']
- - date_dead_since: 2024-05-29T11:53:10.724176+00:00
 
  ## Christian arrested for preaching by 'heavy-handed' police wins £5,000
  - [https://www.dailymail.co.uk/news/article-12958493/Victory-free-speech-Christian-arrested-preaching-ridiculously-heavy-handed-police-wins-5-000-cops.html](https://www.dailymail.co.uk/news/article-12958493/Victory-free-speech-Christian-arrested-preaching-ridiculously-heavy-handed-police-wins-5-000-cops.html)
@@ -207,7 +206,6 @@
  - [https://www.wsj.com/articles/dr-fauci-and-the-sort-of-just-appeared-defense-covid-distancing-7cada692](https://www.wsj.com/articles/dr-fauci-and-the-sort-of-just-appeared-defense-covid-distancing-7cada692)
  - date_published: 2024-01-19T20:13:00+00:00
  - tags: ['covid', 'lockdowns', 'mandates']
- - date_dead_since: 2024-05-29T10:28:07.907178+00:00
 
  ## French farmers threaten to intensify protests over taxes, regulation
  - [https://www.france24.com/en/france/20240120-french-farmers-threaten-to-intensify-protests-as-anger-mounts](https://www.france24.com/en/france/20240120-french-farmers-threaten-to-intensify-protests-as-anger-mounts)
@@ -847,19 +845,20 @@
  - date_published: 2024-05-28T12:00:30+00:00
  - tags: ['icc', 'israel']
 
+ ## Israeli strikes on tent camp kills additional 37 Palestinians after Sunday strike killed 45
+ - [https://www.pbs.org/newshour/politics/israeli-strikes-on-tent-camp-kills-additional-37-palestinians-after-sunday-strike-killed-45](https://www.pbs.org/newshour/politics/israeli-strikes-on-tent-camp-kills-additional-37-palestinians-after-sunday-strike-killed-45)
+ - date_published: 2024-05-28T16:10:32+00:00
+ - tags: ['israel', 'palestine']
+
  ## Israel said to have waged 9-year ‘war’ against ICC, tapping its communications
  - [https://www.timesofisrael.com/israel-said-to-have-waged-9-year-war-against-icc-tapping-its-communications](https://www.timesofisrael.com/israel-said-to-have-waged-9-year-war-against-icc-tapping-its-communications)
  - date_published: 2024-05-28T17:28:43+00:00
  - tags: ['icc', 'israel', 'palestine']
-
- ## Israeli strikes on tent camp kills additional 37 Palestinians after Sunday strike killed 45
- - [https://www.pbs.org/newshour/politics/israeli-strikes-on-tent-camp-kills-additional-37-palestinians-after-sunday-strike-killed-45](https://www.pbs.org/newshour/politics/israeli-strikes-on-tent-camp-kills-additional-37-palestinians-after-sunday-strike-killed-45)
- - date_published: 2024-05-28T20:10:32+00:00
- - tags: ['israel', 'palestine']
+ - date_dead_since: 2025-04-26T12:24:02.669751+00:00
 
  ## Washing machine chime scandal shows how absurd YouTube copyright abuse can get
  - [https://arstechnica.com/tech-policy/2024/05/washing-machine-chime-scandal-shows-how-absurd-youtube-copyright-abuse-can-get](https://arstechnica.com/tech-policy/2024/05/washing-machine-chime-scandal-shows-how-absurd-youtube-copyright-abuse-can-get)
- - date_published: 2024-05-30T23:26:43+00:00
+ - date_published: 2024-05-30T18:28:15+00:00
  - tags: ['dmca', 'youtube']
 
  ## Fauci wrote 50 papers with adviser whose influence he downplayed in testimony
@@ -871,6 +870,7 @@
  - [https://www.cnn.com/2024/06/07/business/google-doj-antitrust-case-judge-decision/index.html](https://www.cnn.com/2024/06/07/business/google-doj-antitrust-case-judge-decision/index.html)
  - date_published: 2024-06-08T10:43:42+00:00
  - tags: ['corporatocracy', 'google', 'privacy']
+ - date_dead_since: 2025-04-26T13:36:15.822979+00:00
 
  ## A look at search engines with their own indexes
  - [https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes](https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes)
@@ -1322,6 +1322,7 @@
  - [https://www.courthousenews.com/fitness-app-strava-gives-away-location-of-biden-trump-and-other-leaders-french-newspaper-says](https://www.courthousenews.com/fitness-app-strava-gives-away-location-of-biden-trump-and-other-leaders-french-newspaper-says)
  - date_published: 2024-10-28T19:09:37+00:00
  - tags: ['privacy', 'surveillance', 'technofeudalism']
+ - date_dead_since: 2025-04-26T13:04:09.544584+00:00
 
  ## The Harris Campaign Manipulates Reddit To Control The Platform
  - [https://thefederalist.com/2024/10/29/busted-the-inside-story-of-how-the-kamala-harris-campaign-manipulates-reddit-and-breaks-the-rules-to-control-the-platform](https://thefederalist.com/2024/10/29/busted-the-inside-story-of-how-the-kamala-harris-campaign-manipulates-reddit-and-breaks-the-rules-to-control-the-platform)

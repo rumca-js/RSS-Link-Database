@@ -425,7 +425,6 @@
  - [https://policetribune.com/portland-rioters-try-set-fire-to-federal-courthouse-hours-after-security-fence-is-removed](https://policetribune.com/portland-rioters-try-set-fire-to-federal-courthouse-hours-after-security-fence-is-removed)
  - date_published: 2021-03-12T19:26:38+00:00
  - tags: ['black lives matter', 'defund the police', 'protest']
- - date_dead_since: 2024-04-19T01:05:04.857440+00:00
 
  ## Johnny Harris: A Story of YouTube Propaganda
  - [https://www.youtube.com/watch?v=Dum0bqWfiGw](https://www.youtube.com/watch?v=Dum0bqWfiGw)
@@ -1170,9 +1169,8 @@
 
  ## Kiedy WHO zmieniła definicję odporności stada? Zmiana treści definicji terminu Odporność Stadna. [listopad 2020]
  - [https://pubmedinfo.org/2021/06/16/kiedy-who-zmienila-definicje-odpornosci-stada](https://pubmedinfo.org/2021/06/16/kiedy-who-zmienila-definicje-odpornosci-stada)
- - date_published: 2021-06-16T22:12:17+00:00
+ - date_published: 2021-06-15T23:16:57+00:00
  - tags: ['covid', 'herd immunity', 'who']
- - date_dead_since: 2024-04-18T06:54:53.131830+00:00
 
  ## Sidewalk: The Next Frontier Of Amazon’s Surveillance Infrastructure | ACLU
  - [https://www.aclu.org/news/privacy-technology/sidewalk-the-next-frontier-of-amazons-surveillance-infrastructure](https://www.aclu.org/news/privacy-technology/sidewalk-the-next-frontier-of-amazons-surveillance-infrastructure)
@@ -1193,6 +1191,11 @@
  - [https://www.bbc.co.uk/news/stories-57520169](https://www.bbc.co.uk/news/stories-57520169)
  - date_published: 2021-06-20T23:45:52+00:00
  - tags: ['hackers', 'lazarus', 'north korea']
+
+ ## I don't trust Signal
+ - [https://blog.dijit.sh//i-don-t-trust-signal](https://blog.dijit.sh//i-don-t-trust-signal)
+ - date_published: 2021-06-21T00:00:00+00:00
+ - tags: ['open source', 'signal']
 
  ## Fauci Doubles Down: People Who Criticize Me Are ‘Actually Criticizing Science’
  - [https://www.breitbart.com/science/2021/06/21/fauci-doubles-down-people-who-criticize-me-are-actually-criticizing-science](https://www.breitbart.com/science/2021/06/21/fauci-doubles-down-people-who-criticize-me-are-actually-criticizing-science)
@@ -3942,7 +3945,7 @@
 
  ## Professional maintainers: a wake-up call
  - [https://blog.filippo.io/professional-maintainers](https://blog.filippo.io/professional-maintainers)
- - date_published: 2021-12-12T08:33:24.671761+00:00
+ - date_published: 2021-12-11T18:58:03+00:00
 
  ## "Open Source" is Broken - Xe
  - [https://xeiaso.net/blog/open-source-broken-2021-12-11](https://xeiaso.net/blog/open-source-broken-2021-12-11)

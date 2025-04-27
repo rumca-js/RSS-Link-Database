@@ -58,6 +58,7 @@
  - [https://www.cs.utexas.edu/~fussell/courses/cs352h/papers/moore.pdf](https://www.cs.utexas.edu/~fussell/courses/cs352h/papers/moore.pdf)
  - date_published: 2009-09-16T14:55:29+00:00
  - tags: ['gordon moore', 'hardware', 'integrated circuits']
+ - date_dead_since: 2025-04-26T15:10:56.743042+00:00
 
  ## No Doubt - It's My Life (Edited)
  - [https://www.youtube.com/watch?v=ubvV498pyIM](https://www.youtube.com/watch?v=ubvV498pyIM)

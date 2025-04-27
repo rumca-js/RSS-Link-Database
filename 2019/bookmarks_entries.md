@@ -296,6 +296,11 @@
  - date_published: 2019-05-07T18:05:55+00:00
  - tags: ['hackers', 'nsa', 'shadow brokers', 'surveillance', 'vulnerability']
 
+ ## Energy President Says Climate Group’s Chinese Ties ‘Are Both Extremely Disturbing And Reprehensible’
+ - [https://www.analyzingamerica.org/2023/12/726144](https://www.analyzingamerica.org/2023/12/726144)
+ - date_published: 2019-05-08T20:27:04+00:00
+ - tags: ['china', 'climate change']
+
  ## BlackRock Completes Acquisition of eFront | eFront
  - [https://www.efront.com/en/news-press-releases/blackrock-completes-acquisition-of-efront-industry-leading-alternatives-investment-software-provider](https://www.efront.com/en/news-press-releases/blackrock-completes-acquisition-of-efront-industry-leading-alternatives-investment-software-provider)
  - date_published: 2019-05-10T22:43:03+00:00
@@ -395,7 +400,6 @@
  - [https://summit.news/2019/07/05/cbc-accused-of-sexualizing-children-after-promoting-drag-kids-documentary](https://summit.news/2019/07/05/cbc-accused-of-sexualizing-children-after-promoting-drag-kids-documentary)
  - date_published: 2019-07-05T08:18:45+00:00
  - tags: ['children', 'sexualization']
- - date_dead_since: 2024-04-21T00:25:09.410953+00:00
 
  ## Koniec naszego świata
  - [https://www.tvp.info/43374228/koniec-naszego-swiata](https://www.tvp.info/43374228/koniec-naszego-swiata)
@@ -933,7 +937,6 @@
  - [https://www.techrepublic.com/article/how-to-keep-employees-happy-linkedin-study-reveals-three-factors](https://www.techrepublic.com/article/how-to-keep-employees-happy-linkedin-study-reveals-three-factors)
  - date_published: 2019-11-21T09:13:58+00:00
  - tags: ['it', 'managment', 'programming']
- - date_dead_since: 2024-04-21T00:15:42.530726+00:00
 
  ## He invented the web. Now he's warning of a looming 'digital dystopia'
  - [https://www.cnn.com/2019/11/25/tech/berners-lee-web-safer-plan-scli-intl/index.html](https://www.cnn.com/2019/11/25/tech/berners-lee-web-safer-plan-scli-intl/index.html)
@@ -984,6 +987,7 @@
  - [https://bigthink.com/strange-maps/coudenhove-kalergi-map](https://bigthink.com/strange-maps/coudenhove-kalergi-map)
  - date_published: 2019-12-12T10:19:51+00:00
  - tags: ['coudenhove-kalergi', 'european union', 'the right wing']
+ - date_dead_since: 2025-04-26T21:55:50.039700+00:00
 
  ## New York public school rejects student Christian club, OKs LGBT Pride Club
  - [https://www.christianpost.com/news/new-york-public-school-rejects-student-christian-club-oks-lgbt-pride-club.html?fbclid=IwAR0XGOCi2lUIsLetSjnCZN91O05rCeaWGsR0z2E5dBtfH_E-2OEFqVqi3eA](https://www.christianpost.com/news/new-york-public-school-rejects-student-christian-club-oks-lgbt-pride-club.html?fbclid=IwAR0XGOCi2lUIsLetSjnCZN91O05rCeaWGsR0z2E5dBtfH_E-2OEFqVqi3eA)

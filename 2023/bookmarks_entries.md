@@ -38,6 +38,7 @@
  - [https://levelup-edu.com/bezos-gates-zuckerberg-behind-every-self-made-millionaire-is-a-father-with-money](https://levelup-edu.com/bezos-gates-zuckerberg-behind-every-self-made-millionaire-is-a-father-with-money)
  - date_published: 2023-01-01T22:31:55+00:00
  - tags: ['big tech', 'bill gates', 'billionaires', 'jeff bezos', 'mark zuckerberg', 'plutocracy']
+ - date_dead_since: 2025-04-26T15:55:00.320828+00:00
 
  ## Mortal Kombat 2 source code leak reveals unused animations and sprites
  - [https://www.eventhubs.com/news/2022/dec/27/mortal-kombat-2-source-leak](https://www.eventhubs.com/news/2022/dec/27/mortal-kombat-2-source-leak)
@@ -1178,6 +1179,7 @@
  - [https://www.bizpacreview.com/2023/01/26/creepy-rbg-medusa-statue-erected-at-nyc-courthouse-in-part-of-an-urgent-and-cultural-reckoning-1327894](https://www.bizpacreview.com/2023/01/26/creepy-rbg-medusa-statue-erected-at-nyc-courthouse-in-part-of-an-urgent-and-cultural-reckoning-1327894)
  - date_published: 2023-01-26T07:37:42+00:00
  - tags: ['abortion', 'satanism']
+ - date_dead_since: 2025-04-26T15:46:01.731664+00:00
 
  ## Anti-abortion violence is the next wave of domestic terrorism
  - [https://thehill.com/opinion/national-security/3831448-anti-abortion-violence-is-the-next-wave-of-domestic-terrorism](https://thehill.com/opinion/national-security/3831448-anti-abortion-violence-is-the-next-wave-of-domestic-terrorism)
@@ -1868,6 +1870,11 @@
  - date_published: 2023-02-15T07:29:24+00:00
  - tags: ['artificial intelligence', 'chatgpt', 'openai']
 
+ ## No porn, no Instagram for kids: France doubles down on age verification – POLITICO
+ - [https://www.politico.eu/article/no-porn-no-instagram-for-kids-france-doubles-down-age-verification-emmanuel-macrons-nick-clegg](https://www.politico.eu/article/no-porn-no-instagram-for-kids-france-doubles-down-age-verification-emmanuel-macrons-nick-clegg)
+ - date_published: 2023-02-15T12:13:35+00:00
+ - tags: ['anonymity', 'france', 'moderation', 'privacy', 'social media', 'surveillance']
+
  ## Dutch chip firm ASML says former China employee stole data
  - [https://www.cnn.com/2023/02/15/tech/asml-china-employee-data-breach-intl-hnk/index.html](https://www.cnn.com/2023/02/15/tech/asml-china-employee-data-breach-intl-hnk/index.html)
  - date_published: 2023-02-16T04:57:57+00:00
@@ -2045,16 +2052,15 @@
  - date_published: 2023-02-23T05:41:11+00:00
  - tags: ['language', 'pronouns']
 
+ ## Popular Android apps’ Play Store privacy labels don’t match up to their claims, Mozilla says
+ - [https://techcrunch.com/2023/02/23/popular-android-apps-play-store-privacy-labels-dont-match-up-to-their-claims-mozilla-says/?guccounter=1&guce_referrer=aHR0cHM6Ly9kdWNrZHVja2dvLmNvbS8&guce_referrer_sig=AQAAAA8CMPe2xFx46GFLjx44Kny3HRbwtyZ71NqgO1zdZXMjGalUPTSQAjSJpQmtKT8CD0pNpOXg-drJuAfmwM2leVGqjRfCrJMnxtQY5HOdwlNI9vdq6gB1CuCqF953_7zmVHh6bjLmcVede8zsHPXSBPpQujuG2XP3IrZxNOJOuYW_](https://techcrunch.com/2023/02/23/popular-android-apps-play-store-privacy-labels-dont-match-up-to-their-claims-mozilla-says/?guccounter=1&guce_referrer=aHR0cHM6Ly9kdWNrZHVja2dvLmNvbS8&guce_referrer_sig=AQAAAA8CMPe2xFx46GFLjx44Kny3HRbwtyZ71NqgO1zdZXMjGalUPTSQAjSJpQmtKT8CD0pNpOXg-drJuAfmwM2leVGqjRfCrJMnxtQY5HOdwlNI9vdq6gB1CuCqF953_7zmVHh6bjLmcVede8zsHPXSBPpQujuG2XP3IrZxNOJOuYW_)
+ - date_published: 2023-02-23T09:00:16+00:00
+ - tags: ['android', 'antitrust', 'dark design', 'google', 'play store', 'privacy']
+
  ## DOJ seeks court sanctions against Google over 'intentional destruction' of chat logs | CNN Business
  - [https://edition.cnn.com/2023/02/23/tech/doj-sanctions-google-intentional-destruction-chat-logs/index.html](https://edition.cnn.com/2023/02/23/tech/doj-sanctions-google-intentional-destruction-chat-logs/index.html)
  - date_published: 2023-02-23T11:13:47+00:00
  - tags: ['antitrust', 'big tech', 'google', 'sundar pichai']
-
- ## Popular Android apps’ Play Store privacy labels don’t match up to their claims, Mozilla says
- - [https://techcrunch.com/2023/02/23/popular-android-apps-play-store-privacy-labels-dont-match-up-to-their-claims-mozilla-says/?guccounter=1&guce_referrer=aHR0cHM6Ly9kdWNrZHVja2dvLmNvbS8&guce_referrer_sig=AQAAAA8CMPe2xFx46GFLjx44Kny3HRbwtyZ71NqgO1zdZXMjGalUPTSQAjSJpQmtKT8CD0pNpOXg-drJuAfmwM2leVGqjRfCrJMnxtQY5HOdwlNI9vdq6gB1CuCqF953_7zmVHh6bjLmcVede8zsHPXSBPpQujuG2XP3IrZxNOJOuYW_](https://techcrunch.com/2023/02/23/popular-android-apps-play-store-privacy-labels-dont-match-up-to-their-claims-mozilla-says/?guccounter=1&guce_referrer=aHR0cHM6Ly9kdWNrZHVja2dvLmNvbS8&guce_referrer_sig=AQAAAA8CMPe2xFx46GFLjx44Kny3HRbwtyZ71NqgO1zdZXMjGalUPTSQAjSJpQmtKT8CD0pNpOXg-drJuAfmwM2leVGqjRfCrJMnxtQY5HOdwlNI9vdq6gB1CuCqF953_7zmVHh6bjLmcVede8zsHPXSBPpQujuG2XP3IrZxNOJOuYW_)
- - date_published: 2023-02-23T11:23:24+00:00
- - tags: ['android', 'antitrust', 'dark design', 'google', 'play store', 'privacy']
- - date_dead_since: 2024-10-28T17:07:13.841715+00:00
 
  ## Mozilla Foundation - Mozilla Study: Data Privacy Labels for Most Top Apps in Google Play Store are False or Misleading
  - [https://foundation.mozilla.org/en/blog/mozilla-study-data-privacy-labels-for-most-top-apps-in-google-play-store-are-false-or-misleading](https://foundation.mozilla.org/en/blog/mozilla-study-data-privacy-labels-for-most-top-apps-in-google-play-store-are-false-or-misleading)
@@ -2362,7 +2368,6 @@
  - [https://www.pcgamer.com/twitch-starts-to-address-deepfake-porn-and-the-first-thing-to-go-is-that-phrase](https://www.pcgamer.com/twitch-starts-to-address-deepfake-porn-and-the-first-thing-to-go-is-that-phrase)
  - date_published: 2023-03-07T07:45:11+00:00
  - tags: ['deepfake']
- - date_dead_since: 2024-04-20T01:19:01.703841+00:00
 
  ## Denmark’s Welfare State Became a Surveillance Nightmare
  - [https://www.wired.com/story/algorithms-welfare-state-politics](https://www.wired.com/story/algorithms-welfare-state-politics)
@@ -2668,12 +2673,6 @@
  - [https://www.sciencealert.com/new-version-of-chatgpt-will-have-fewer-hallucinations-says-creators](https://www.sciencealert.com/new-version-of-chatgpt-will-have-fewer-hallucinations-says-creators)
  - date_published: 2023-03-15T09:18:24+00:00
  - tags: ['artificial intelligence', 'chatgpt']
-
- ## No porn, no Instagram for kids: France doubles down on age verification – POLITICO
- - [https://www.politico.eu/article/no-porn-no-instagram-for-kids-france-doubles-down-age-verification-emmanuel-macrons-nick-clegg](https://www.politico.eu/article/no-porn-no-instagram-for-kids-france-doubles-down-age-verification-emmanuel-macrons-nick-clegg)
- - date_published: 2023-03-15T11:47:26+00:00
- - tags: ['anonymity', 'france', 'moderation', 'privacy', 'social media', 'surveillance']
- - date_dead_since: 2024-04-20T01:16:26.050354+00:00
 
  ## Linux desktop leaders unite behind Flathub app store. Here's why
  - [https://www.zdnet.com/article/linux-desktop-leaders-unite-behind-flathub-app-store-heres-why](https://www.zdnet.com/article/linux-desktop-leaders-unite-behind-flathub-app-store-heres-why)
@@ -3224,7 +3223,6 @@
  - [https://www.filestash.app/2023/04/01/chat-gpt-acting-as-a-ftp-server](https://www.filestash.app/2023/04/01/chat-gpt-acting-as-a-ftp-server)
  - date_published: 2023-04-05T06:54:05+00:00
  - tags: ['artificial intelligence', 'gpt-4']
- - date_dead_since: 2024-04-20T00:57:25.761770+00:00
 
  ## Johnson and Johnson Reaches Deal for $8.9B Talc Settlement
  - [https://www.nytimes.com/2023/04/04/business/media/johnson-johnson-talc-settlement.html](https://www.nytimes.com/2023/04/04/business/media/johnson-johnson-talc-settlement.html)
@@ -3493,6 +3491,7 @@
  - [https://ia601707.us.archive.org/28/items/gov.uscourts.cand.364454/gov.uscourts.cand.364454.385.0.pdf](https://ia601707.us.archive.org/28/items/gov.uscourts.cand.364454/gov.uscourts.cand.364454.385.0.pdf)
  - date_published: 2023-04-15T09:05:20+00:00
  - tags: ['corporatocracy', 'google', 'monopoly']
+ - date_dead_since: 2025-04-26T15:01:10.065230+00:00
 
  ## COVID vaccine doubter Alex Berenson sues Biden over Twitter ban
  - [https://nypost.com/2023/04/15/covid-vaccine-doubter-alex-berenson-sues-biden-over-twitter-ban](https://nypost.com/2023/04/15/covid-vaccine-doubter-alex-berenson-sues-biden-over-twitter-ban)
@@ -3827,7 +3826,6 @@
  - [https://reclaimthenet.org/metacritic-announces-stricter-censorship-horizon-burning-shores](https://reclaimthenet.org/metacritic-announces-stricter-censorship-horizon-burning-shores)
  - date_published: 2023-04-27T17:00:04+00:00
  - tags: ['censorship', 'metacritic', 'propaganda']
- - date_dead_since: 2024-04-20T00:46:39.921228+00:00
 
  ## Reddit - laurene powell jobs and ghistlaine maxwell
  - [https://www.reddit.com/r/pics/comments/oe202b/laurene_powel_jobs_steve_jobs_widow_and_ghislaine](https://www.reddit.com/r/pics/comments/oe202b/laurene_powel_jobs_steve_jobs_widow_and_ghislaine)
@@ -5227,6 +5225,11 @@
  - date_published: 2023-06-13T03:01:21+00:00
  - tags: ['carbon credits', 'climate change', 'meta']
 
+ ## Blokada pornografii dla nieletnich. Ustawa o ochronie w sieci już w Sejmie – Biznes Wprost
+ - [https://biznes.wprost.pl/technologie/internet/11261809/blokada-pornografii-dla-nieletnich-ustawa-o-ochronie-w-sieci-juz-w-sejmie.html](https://biznes.wprost.pl/technologie/internet/11261809/blokada-pornografii-dla-nieletnich-ustawa-o-ochronie-w-sieci-juz-w-sejmie.html)
+ - date_published: 2023-06-13T11:34:00+00:00
+ - tags: ['censorship', 'government control', 'poland', 'tech control']
+
  ## Finish your projects
  - [https://github.com/readme/guides/finish-your-projects](https://github.com/readme/guides/finish-your-projects)
  - date_published: 2023-06-13T17:33:10+00:00
@@ -5251,12 +5254,6 @@
  - [https://famichiki.jp/@Tsutsuku/110537730270070245](https://famichiki.jp/@Tsutsuku/110537730270070245)
  - date_published: 2023-06-13T20:45:18+00:00
  - tags: ['reddit']
-
- ## Blokada pornografii dla nieletnich. Ustawa o ochronie w sieci już w Sejmie – Biznes Wprost
- - [https://biznes.wprost.pl/technologie/internet/11261809/blokada-pornografii-dla-nieletnich-ustawa-o-ochronie-w-sieci-juz-w-sejmie.html](https://biznes.wprost.pl/technologie/internet/11261809/blokada-pornografii-dla-nieletnich-ustawa-o-ochronie-w-sieci-juz-w-sejmie.html)
- - date_published: 2023-06-13T20:57:20+00:00
- - tags: ['censorship', 'government control', 'poland', 'tech control']
- - date_dead_since: 2024-04-19T01:12:48.280234+00:00
 
  ## Google risks forced breakup of ad business as EU alleges shocking misconduct | Ars Technica
  - [https://arstechnica.com/tech-policy/2023/06/google-may-soon-be-ordered-to-break-up-its-lucrative-ad-business-eu-warns](https://arstechnica.com/tech-policy/2023/06/google-may-soon-be-ordered-to-break-up-its-lucrative-ad-business-eu-warns)
@@ -5373,11 +5370,6 @@
  - [https://www.dailymail.co.uk/news/article-12203915/Jeffrey-Epstein-Virgin-Islands-Former-Lady-email-revealed.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12203915/Jeffrey-Epstein-Virgin-Islands-Former-Lady-email-revealed.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date_published: 2023-06-16T20:29:21+00:00
  - tags: ['jeffrey epstein']
-
- ## I don't trust Signal
- - [https://blog.dijit.sh//i-don-t-trust-signal](https://blog.dijit.sh//i-don-t-trust-signal)
- - date_published: 2023-06-19T03:05:27+00:00
- - tags: ['open source', 'signal']
 
  ## Korupcja przy eksporcie zboża z Ukrainy. Milion dolarów łapówek miesięcznie - Money.pl
  - [https://www.money.pl/gospodarka/milion-dolarow-lapowek-miesiecznie-korupcja-przy-eksporcie-zboza-z-ukrainy-6910673317431968a.html](https://www.money.pl/gospodarka/milion-dolarow-lapowek-miesiecznie-korupcja-przy-eksporcie-zboza-z-ukrainy-6910673317431968a.html)
@@ -6109,6 +6101,7 @@
  - [https://nocss.club](https://nocss.club)
  - date_published: 2023-07-16T10:17:23+00:00
  - tags: ['selfhost', 'web10', 'webdev']
+ - date_dead_since: 2025-04-26T14:24:58.560939+00:00
 
  ## GitHub - go-task/task: A task runner / simpler Make alternative written in Go
  - [https://github.com/go-task/task](https://github.com/go-task/task)
@@ -6195,7 +6188,6 @@
  - [https://summit.news/2023/07/19/youtube-is-pulling-sound-of-freedom-interviews-reviews](https://summit.news/2023/07/19/youtube-is-pulling-sound-of-freedom-interviews-reviews)
  - date_published: 2023-07-19T14:10:03+00:00
  - tags: ['censorship', 'sound of freedom', 'youtube']
- - date_dead_since: 2024-04-19T01:38:40.926627+00:00
 
  ## Flying in Europe up to 30 times cheaper than train, says Greenpeace
  - [https://www.theguardian.com/environment/2023/jul/20/flying-in-europe-up-to-30-times-cheaper-than-train-says-greenpeace](https://www.theguardian.com/environment/2023/jul/20/flying-in-europe-up-to-30-times-cheaper-than-train-says-greenpeace)
@@ -7012,7 +7004,6 @@
  - [https://www.bbc.co.uk/news/world-europe-66543503?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-europe-66543503?at_medium=RSS&at_campaign=KARANGA)
  - date_published: 2023-08-18T12:10:26+00:00
  - tags: ['church scandal', 'religion']
- - date_dead_since: 2024-04-19T01:29:41.473241+00:00
 
  ## Deja Vu: The FBI Proves Again It Can’t Be Trusted with Section 702
  - [https://www.eff.org/deeplinks/2023/07/deja-vu-fbi-proves-again-it-cant-be-trusted-section-702](https://www.eff.org/deeplinks/2023/07/deja-vu-fbi-proves-again-it-cant-be-trusted-section-702)
@@ -8113,7 +8104,6 @@
  - [https://static.googleusercontent.com/media/guidelines.raterhub.com/en//searchqualityevaluatorguidelines.pdf](https://static.googleusercontent.com/media/guidelines.raterhub.com/en//searchqualityevaluatorguidelines.pdf)
  - date_published: 2023-11-02T09:05:01+00:00
  - tags: ['search engines', 'seo']
- - date_dead_since: 2024-05-29T19:27:08.223277+00:00
 
  ## Bing Webmaster Tools
  - [https://www.bing.com/webmasters/help/webmasters-guidelines-30fba23a](https://www.bing.com/webmasters/help/webmasters-guidelines-30fba23a)
@@ -8520,11 +8510,6 @@
  - date_published: 2023-12-18T04:23:17+00:00
  - tags: ['fbi', 'privacy', 'surveillance']
 
- ## Energy President Says Climate Group’s Chinese Ties ‘Are Both Extremely Disturbing And Reprehensible’
- - [https://www.analyzingamerica.org/2023/12/726144](https://www.analyzingamerica.org/2023/12/726144)
- - date_published: 2023-12-19T11:19:54+00:00
- - tags: ['china', 'climate change']
-
  ## At Least 15% of Reddit Content Is Corporate Trolls Manipulating Public Opinion
  - [https://medium.com/collapsenews/new-study-at-least-15-of-all-reddit-content-is-corporate-trolls-trying-to-manipulate-public-b249bd42ab42](https://medium.com/collapsenews/new-study-at-least-15-of-all-reddit-content-is-corporate-trolls-trying-to-manipulate-public-b249bd42ab42)
  - date_published: 2023-12-19T19:07:52+00:00
@@ -8579,7 +8564,6 @@
  - [https://abcnews.go.com/International/wireStory/140-villagers-killed-suspected-herders-dayslong-attacks-north-105916103](https://abcnews.go.com/International/wireStory/140-villagers-killed-suspected-herders-dayslong-attacks-north-105916103)
  - date_published: 2023-12-26T10:51:16+00:00
  - tags: ['christioanophobia']
- - date_dead_since: 2024-05-29T13:59:08.812657+00:00
 
  ## Chinese Hackers Deliver Malware to Barracuda Email Security Appliances via New Zero-Day
  - [https://www.securityweek.com/chinese-hackers-deliver-malware-to-barracuda-email-security-appliances-via-new-zero-day](https://www.securityweek.com/chinese-hackers-deliver-malware-to-barracuda-email-security-appliances-via-new-zero-day)

@@ -499,7 +499,7 @@
 
  ## Pentagon restricts use of fitness trackers, other devices
  - [https://apnews.com/article/d29c724e1d72460fbf7c2e999992d258](https://apnews.com/article/d29c724e1d72460fbf7c2e999992d258)
- - date_published: 2018-08-07T12:01:24+00:00
+ - date_published: 2018-08-07T00:52:37+00:00
  - tags: ['cybersecurity', 'privacy', 'surveillance']
 
  ## In full: Rowan Atkinson on free speech
@@ -509,7 +509,7 @@
 
  ## The Astonishing Failures of Al Gore’s Arctic Prophecies
  - [https://cornwallalliance.org/2018/08/the-astonishing-failures-of-al-gores-arctic-prophecies](https://cornwallalliance.org/2018/08/the-astonishing-failures-of-al-gores-arctic-prophecies)
- - date_published: 2018-08-15T18:17:11+00:00
+ - date_published: 2018-08-15T13:17:11+00:00
  - tags: ['climate change', 'global warning']
 
  ## Pfizer bets on biotech flu vaccine in $425 million BioNTech alliance | Reuters

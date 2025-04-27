@@ -145,7 +145,6 @@
  ## Simplicity of IRC - Susam's Maze
  - [https://susam.net/maze/simplicity-of-irc.html](https://susam.net/maze/simplicity-of-irc.html)
  - date_published: 2022-01-09T14:48:28.776836+00:00
- - date_dead_since: 2024-04-23T01:04:56.133724+00:00
 
  ## Upwork wants me to refund $12k as their client was using "another" card.
  - [https://alanany.com/2021/12/23/upwork-12k-refund-client-using-another-credit-card](https://alanany.com/2021/12/23/upwork-12k-refund-client-using-another-credit-card)
@@ -372,6 +371,7 @@
  ## Make debugging suck less. Keep a logbook. 📓 | Conor Lamb
  - [https://conorcorp.github.io/posts/make-debuggin-suck-less](https://conorcorp.github.io/posts/make-debuggin-suck-less)
  - date_published: 2022-01-18T17:07:59.170151+00:00
+ - date_dead_since: 2025-04-26T18:47:36.991850+00:00
 
  ## Jedi Blue - Wikipedia
  - [https://en.wikipedia.org/wiki/Jedi_Blue](https://en.wikipedia.org/wiki/Jedi_Blue)
@@ -662,6 +662,7 @@
  - [https://phmpt.org/wp-content/uploads/2022/02/056-ORDER-GRANTING-IN-PART-THE-MOTION-TO-MODIFY-THE-PRODUCTION-SCHEDULE-AND-ADDOPTS-THE-JOINT-STATUS-REPORT-MODIFIED-AGREED-PRODUCTION-SCHEDULE.pdf](https://phmpt.org/wp-content/uploads/2022/02/056-ORDER-GRANTING-IN-PART-THE-MOTION-TO-MODIFY-THE-PRODUCTION-SCHEDULE-AND-ADDOPTS-THE-JOINT-STATUS-REPORT-MODIFIED-AGREED-PRODUCTION-SCHEDULE.pdf)
  - date_published: 2022-02-04T16:53:44+00:00
  - tags: ['big pharma', 'covid', 'fda', 'pfizer', 'vaccine']
+ - date_dead_since: 2025-04-26T18:31:05.444057+00:00
 
  ## GoFundMe pulls plug on fundraiser for Ottawa convoy protesters | Toronto Sun
  - [https://torontosun.com/news/national/gofundme-pulls-plug-on-fundraiser-for-ottawa-convoy-protesters](https://torontosun.com/news/national/gofundme-pulls-plug-on-fundraiser-for-ottawa-convoy-protesters)
@@ -1000,7 +1001,6 @@
  - [https://westphaliantimes.com/ottawa-police-chief-says-law-enforcement-will-come-after-protestors-even-if-they-go-home](https://westphaliantimes.com/ottawa-police-chief-says-law-enforcement-will-come-after-protestors-even-if-they-go-home)
  - date_published: 2022-02-19T06:53:36+00:00
  - tags: ['canada', 'covid', 'fearmongering', 'propaganda', 'protest']
- - date_dead_since: 2024-04-23T00:45:39.917300+00:00
 
  ## Jean-Luc Brunel: Epstein associate found dead in Paris prison cell - BBC News
  - [https://www.bbc.com/news/world-europe-60443518](https://www.bbc.com/news/world-europe-60443518)
@@ -1163,6 +1163,11 @@
  - date_published: 2022-03-04T16:35:04.826216+00:00
  - date_dead_since: 2024-10-20T03:21:10.866141+00:00
 
+ ## You Don’t Really Ever Own an EV – Review Geek
+ - [https://www.reviewgeek.com/111381/you-dont-really-ever-own-an-ev](https://www.reviewgeek.com/111381/you-dont-really-ever-own-an-ev)
+ - date_published: 2022-03-04T19:05:50+00:00
+ - tags: ['climate change', 'dark design', 'electric vehicles', 'technofeudalism']
+
  ## Cybercriminals who breached Nvidia issue one of the most unusual demands ever | Ars Technica
  - [https://arstechnica.com/information-technology/2022/03/cybercriminals-who-breached-nvidia-issue-one-of-the-most-unusual-demands-ever](https://arstechnica.com/information-technology/2022/03/cybercriminals-who-breached-nvidia-issue-one-of-the-most-unusual-demands-ever)
  - date_published: 2022-03-05T09:11:10.908710+00:00
@@ -1269,11 +1274,6 @@
  ## Twitter makes it harder to choose the old reverse-chronological feed - The Verge
  - [https://www.theverge.com/2022/3/10/22971307/twitter-home-timeline-algorithmic-reverse-chronological-feed](https://www.theverge.com/2022/3/10/22971307/twitter-home-timeline-algorithmic-reverse-chronological-feed)
  - date_published: 2022-03-12T08:43:14.085687+00:00
-
- ## You Don’t Really Ever Own an EV – Review Geek
- - [https://www.reviewgeek.com/111381/you-dont-really-ever-own-an-ev](https://www.reviewgeek.com/111381/you-dont-really-ever-own-an-ev)
- - date_published: 2022-03-12T08:47:24.909762+00:00
- - tags: ['climate change', 'dark design', 'electric vehicles', 'technofeudalism']
 
  ## Transgender children: Texas plan to probe parents halted - BBC News
  - [https://www.bbc.co.uk/news/world-us-canada-60710227](https://www.bbc.co.uk/news/world-us-canada-60710227)
@@ -1875,7 +1875,6 @@
  ## A Census of Minecraft Servers
  - [https://blog.bithole.dev/mcmap.html](https://blog.bithole.dev/mcmap.html)
  - date_published: 2022-04-16T17:12:25.080411+00:00
- - date_dead_since: 2024-04-23T00:17:05.737550+00:00
 
  ## Overview · e-basteln
  - [http://www.e-basteln.de/computing/papertape/overview](http://www.e-basteln.de/computing/papertape/overview)
@@ -2872,7 +2871,6 @@
  ## Inside the secret, often bizarre world that decides what porn you see
  - [https://www.ft.com/content/cff23e36-b507-4717-8830-8b06741c8fd5](https://www.ft.com/content/cff23e36-b507-4717-8830-8b06741c8fd5)
  - date_published: 2022-06-29T07:35:01.143846+00:00
- - date_dead_since: 2024-04-22T01:27:21.350435+00:00
 
  ## 0.5 billion, and it's permanent.
  - [https://ramapascala.substack.com/p/05-billion-and-its-permanent](https://ramapascala.substack.com/p/05-billion-and-its-permanent)
@@ -3133,15 +3131,15 @@
  - [https://new.pythonforengineers.com/blog/learning-go-as-a-python-developer-the-good-the-bad-and-the-ugly](https://new.pythonforengineers.com/blog/learning-go-as-a-python-developer-the-good-the-bad-and-the-ugly)
  - date_published: 2022-07-18T20:02:03.868082+00:00
 
+ ## Matysiak: Wyłączanie atomu w czasie walki z emisjami CO2 to zbrodnia klimatyczna (ROZMOWA) - BiznesAlert.pl
+ - [https://biznesalert.pl/pola-matysiak-emisje-co2-atom-niemcy-rozmowa](https://biznesalert.pl/pola-matysiak-emisje-co2-atom-niemcy-rozmowa)
+ - date_published: 2022-07-19T05:25:54+00:00
+ - tags: ['atom', 'climate change', 'co2']
+
  ## The True Story Behind Hulu's New Victoria's Secret Documentary
  - [https://time.com/6197975/victorias-secret-angels-and-demons-hulu-true-story](https://time.com/6197975/victorias-secret-angels-and-demons-hulu-true-story)
  - date_published: 2022-07-19T07:08:05+00:00
  - tags: ['jeffrey epstein', 'victoria secret']
-
- ## Matysiak: Wyłączanie atomu w czasie walki z emisjami CO2 to zbrodnia klimatyczna (ROZMOWA) - BiznesAlert.pl
- - [https://biznesalert.pl/pola-matysiak-emisje-co2-atom-niemcy-rozmowa](https://biznesalert.pl/pola-matysiak-emisje-co2-atom-niemcy-rozmowa)
- - date_published: 2022-07-19T07:44:22+00:00
- - tags: ['atom', 'climate change', 'co2']
 
  ## Study: Blacks 14 percent of the U.S. population; 52 percent of homicide victims | The Birmingham Times
  - [https://www.birminghamtimes.com/2022/07/study-blacks-14-percent-of-the-u-s-population-52-percent-of-homicide-victims](https://www.birminghamtimes.com/2022/07/study-blacks-14-percent-of-the-u-s-population-52-percent-of-homicide-victims)
@@ -3320,6 +3318,11 @@
  - [https://guernseypress.com/news/uk-news/2022/09/02/gas-prices-to-push-up-farmers-fertiliser-costs-by-nearly-2bn](https://guernseypress.com/news/uk-news/2022/09/02/gas-prices-to-push-up-farmers-fertiliser-costs-by-nearly-2bn)
  - date_published: 2022-08-02T20:58:08+00:00
  - tags: ['agriculture']
+
+ ## Financial Regulation: Between Policy and Politics
+ - [https://www.youtube.com/watch?v=RotcD7OREP4&time_continue=871](https://www.youtube.com/watch?v=RotcD7OREP4&time_continue=871)
+ - date_published: 2022-08-03T00:00:00+00:00
+ - tags: ['big brother', 'cbdc']
 
  ## Use One Big Server - Speculative Branches
  - [https://specbranch.com/posts/one-big-server](https://specbranch.com/posts/one-big-server)
@@ -3555,6 +3558,7 @@
  ## It wasn't for nothing - Grasping gexps
  - [https://gexp.no/it-wasnt-for-nothing.html](https://gexp.no/it-wasnt-for-nothing.html)
  - date_published: 2022-08-18T21:03:53.134487+00:00
+ - date_dead_since: 2025-04-26T17:21:01.586924+00:00
 
  ## Censorship and Global Information Control: Who Is Behind the "Trusted News Initiative"(TNI)? - Global Research
  - [https://www.globalresearch.ca/who-behind-trusted-news-initiative/5790640](https://www.globalresearch.ca/who-behind-trusted-news-initiative/5790640)
@@ -3863,7 +3867,6 @@
  - [https://gsiexchange.com/follow-the-yellow-bric-road-to-a-new-digital-reserve-currency](https://gsiexchange.com/follow-the-yellow-bric-road-to-a-new-digital-reserve-currency)
  - date_published: 2022-08-29T16:56:15+00:00
  - tags: ['brics', 'cbdc', 'fiat currency']
- - date_dead_since: 2024-04-22T01:17:02.127360+00:00
 
  ## Echo reply (an incomplete update on things)
  - [https://rachelbythebay.com/w/2022/08/29/pong](https://rachelbythebay.com/w/2022/08/29/pong)
@@ -3939,6 +3942,11 @@
  - [https://www.foxnews.com/media/teachers-unions-used-kids-pawns-covid-terrell-math-reading-scores-plummet](https://www.foxnews.com/media/teachers-unions-used-kids-pawns-covid-terrell-math-reading-scores-plummet)
  - date_published: 2022-09-01T21:23:35+00:00
 
+ ## Google Blocks Truth Social from the Play Store – Will Apple Be Next?
+ - [https://techcrunch.com/2022/09/01/google-blocks-truth-social-from-the-play-store-will-apple-be-next](https://techcrunch.com/2022/09/01/google-blocks-truth-social-from-the-play-store-will-apple-be-next)
+ - date_published: 2022-09-01T22:53:56+00:00
+ - tags: ['app store', 'big tech', 'censorship', 'google', 'monopoly', 'play store', 'social media']
+
  ## China Locks Down Chengdu as Covid Cases Rise
  - [https://www.nytimes.com/2022/09/01/world/asia/china-covid-lockdown-chengdu.html](https://www.nytimes.com/2022/09/01/world/asia/china-covid-lockdown-chengdu.html)
  - date_published: 2022-09-02T03:50:07+00:00
@@ -3948,11 +3956,6 @@
  - [https://www.wykop.pl/link/6800805/chiny-wprowadzily-covidowy-lockdown-w-21-milionowym-chengdu](https://www.wykop.pl/link/6800805/chiny-wprowadzily-covidowy-lockdown-w-21-milionowym-chengdu)
  - date_published: 2022-09-02T06:03:01+00:00
  - tags: ['china', 'covid', 'lockdown']
-
- ## Google Blocks Truth Social from the Play Store – Will Apple Be Next?
- - [https://techcrunch.com/2022/09/01/google-blocks-truth-social-from-the-play-store-will-apple-be-next](https://techcrunch.com/2022/09/01/google-blocks-truth-social-from-the-play-store-will-apple-be-next)
- - date_published: 2022-09-02T07:27:13+00:00
- - tags: ['app store', 'big tech', 'censorship', 'google', 'monopoly', 'play store', 'social media']
 
  ## Now Jacob Rees-Mogg scraps 'woke' Civil Service training courses
  - [https://www.dailymail.co.uk/news/article-11172361/Now-Jacob-Rees-Mogg-scraps-woke-Civil-Service-training-courses.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11172361/Now-Jacob-Rees-Mogg-scraps-woke-Civil-Service-training-courses.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -4017,12 +4020,6 @@
  - [https://www.wykop.pl/link/6802629/sluzby-pis-chca-zablokowac-strone-publikujaca-maile-ze-skrzynki-dworczyka](https://www.wykop.pl/link/6802629/sluzby-pis-chca-zablokowac-strone-publikujaca-maile-ze-skrzynki-dworczyka)
  - date_published: 2022-09-03T10:36:01+00:00
  - tags: ['poland', 'prawo i sprawiedliwość']
-
- ## Financial Regulation: Between Policy and Politics
- - [https://www.youtube.com/watch?v=RotcD7OREP4&time_continue=871](https://www.youtube.com/watch?v=RotcD7OREP4&time_continue=871)
- - date_published: 2022-09-03T11:23:41+00:00
- - tags: ['big brother', 'cbdc']
- - date_dead_since: 2024-04-22T01:10:02.858296+00:00
 
  ## Fire brigades spend £17,000 on decorating engines in LGBT rainbow colours in inclusivity drive
  - [https://www.dailymail.co.uk/news/article-11176187/Fire-brigades-spend-17-000-decorating-engines-LGBT-rainbow-colours-inclusivity-drive.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11176187/Fire-brigades-spend-17-000-decorating-engines-LGBT-rainbow-colours-inclusivity-drive.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -5377,7 +5374,6 @@
  - [https://epoznan.pl/news-news-132809-w_poznaniu_odbedzie_sie_seks_festiwal_w_programie_dlaczego_warto_ogladac_porno_i_przyszlosc_sex_zabawek_jest_niebinarna?rss=1](https://epoznan.pl/news-news-132809-w_poznaniu_odbedzie_sie_seks_festiwal_w_programie_dlaczego_warto_ogladac_porno_i_przyszlosc_sex_zabawek_jest_niebinarna?rss=1)
  - date_published: 2022-09-27T06:05:00+00:00
  - tags: ['indoctrination', 'propaganda', 'the left wing']
- - date_dead_since: 2024-04-21T00:54:59.159657+00:00
 
  ## PayPal reinstates Free Speech Union accounts after being accused of ‘politically motivated’ ban
  - [https://www.telegraph.co.uk/politics/2022/09/27/paypal-reinstates-free-speech-union-accounts-accused-politically](https://www.telegraph.co.uk/politics/2022/09/27/paypal-reinstates-free-speech-union-accounts-accused-politically)
@@ -6699,7 +6695,6 @@
  - [https://www.foxnews.com/media/california-school-broadcasts-sexually-explicit-books-covering-pedophiles-kink-pornographic-images](https://www.foxnews.com/media/california-school-broadcasts-sexually-explicit-books-covering-pedophiles-kink-pornographic-images)
  - date_published: 2022-10-24T16:00:58+00:00
  - tags: ['california', 'lgbt', 'paedophilia', 'the left wing']
- - date_dead_since: 2024-04-22T00:33:45.147079+00:00
 
  ## Kids who play video games score higher on brain function tests
  - [https://www.theverge.com/2022/10/24/23420502/video-game-kid-brain-function-fmri](https://www.theverge.com/2022/10/24/23420502/video-game-kid-brain-function-fmri)
@@ -7416,7 +7411,6 @@
  - [https://www.computerworld.com/article/3678297/your-company-brand-may-soon-be-held-hostage-to-adobe-pantone.html#tk.rss_all](https://www.computerworld.com/article/3678297/your-company-brand-may-soon-be-held-hostage-to-adobe-pantone.html#tk.rss_all)
  - date_published: 2022-11-01T16:00:00+00:00
  - tags: ['car sharing', 'subscription', 'technofeudalism']
- - date_dead_since: 2024-04-21T01:25:35.835366+00:00
 
  ## The DMA could force Apple to change how iMessage and other services operate
  - [https://www.androidauthority.com/apple-imessage-dma-3229780](https://www.androidauthority.com/apple-imessage-dma-3229780)

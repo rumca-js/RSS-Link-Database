@@ -17,7 +17,7 @@
         "page_rating_contents": 100,
         "page_rating_visits": 0,
         "page_rating_votes": 10,
-        "permanent": true,
+        "permanent": false,
         "source_url": "",
         "status_code": 200,
         "tags": [
@@ -1305,19 +1305,19 @@
         "language": "en-US",
         "link": "https://www.timesofisrael.com/woman-says-epstein-forced-her-to-have-sex-with-former-pm-barak",
         "manual_status_code": 0,
-        "page_rating": 45,
-        "page_rating_contents": 50,
+        "page_rating": 56,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 40,
         "permanent": false,
         "source_url": "https://www.timesofisrael.com",
-        "status_code": 403,
+        "status_code": 200,
         "tags": [
             "ehud barak",
             "israel",
             "jeffrey epstein"
         ],
-        "thumbnail": "https://static.timesofisrael.com/www/uploads/2019/08/F190812TNFF17-e1565712029555-1024x640.jpg",
+        "thumbnail": "https://static-cdn.toi-media.com/www/uploads/2019/08/F190812TNFF17-e1565712029555.jpg",
         "title": "Woman says Epstein forced her to have sex with former PM Barak | The Times of Israel",
         "vote": 40
     },
