@@ -32,6 +32,7 @@
  - [http://www.cs.put.poznan.pl/mdrozdowski/txt/niePatenty.pdf](http://www.cs.put.poznan.pl/mdrozdowski/txt/niePatenty.pdf)
  - date_published: 2005-11-24T16:27:27+00:00
  - tags: ['corporations', 'patents', 'programming']
+ - date_dead_since: 2025-04-27T01:30:14.645346+00:00
 
  ## Feminizm - nowa wersja komunizmu
  - [http://www.psychologia.net.pl/artykul.php?level=61](http://www.psychologia.net.pl/artykul.php?level=61)

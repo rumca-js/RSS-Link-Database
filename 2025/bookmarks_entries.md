@@ -368,3 +368,8 @@
  - date_published: 2025-04-26T09:41:48.478474+00:00
  - tags: ['jeffrey epstein', 'virginia giuffre']
 
+ ## EXCLUSIVE: Doctor Fired For Trans Surgery Comments Receives $1.6 Million Settlement
+ - [https://www.thefp.com/p/doctor-fired-for-trans-comments-gets-settlement](https://www.thefp.com/p/doctor-fired-for-trans-comments-gets-settlement)
+ - date_published: 2025-04-27T07:24:56.388722+00:00
+ - tags: ['transgender']
+

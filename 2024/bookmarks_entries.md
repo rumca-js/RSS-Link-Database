@@ -38,6 +38,11 @@
  - date_published: 2024-01-05T19:45:59+00:00
  - tags: ['dmca', 'youtube']
 
+ ## Big Tech's role in enabling link fraud – take 2
+ - [https://eligrey.com/blog/link-fraud](https://eligrey.com/blog/link-fraud)
+ - date_published: 2024-01-08T00:00:00+00:00
+ - tags: ['ad business', 'malvertising']
+
  ## German farmers block roads with tractors in protest over cuts to vehicle tax subsidies – Europe live
  - [https://www.theguardian.com/world/live/2024/jan/08/germany-farmers-tractors-block-roads-protests-cuts-agricultural-subsidies-pay-europe-latest-updates](https://www.theguardian.com/world/live/2024/jan/08/germany-farmers-tractors-block-roads-protests-cuts-agricultural-subsidies-pay-europe-latest-updates)
  - date_published: 2024-01-08T09:24:53+00:00
@@ -882,15 +887,11 @@
  - date_published: 2024-06-10T11:19:27+00:00
  - tags: ['hate crime', 'inequality', 'lgbt']
 
- ## Big Tech's role in enabling link fraud – take 2
- - [https://eligrey.com/blog/link-fraud](https://eligrey.com/blog/link-fraud)
- - date_published: 2024-06-10T21:37:18+00:00
- - tags: ['ad business', 'malvertising']
-
  ## ‘Could Spark an Epidemic’: House Committee Report Alleges Fauci and NIAID Concealed Plans to Engineer Enhanced Monkeypox Virus | National Review
  - [https://www.nationalreview.com/news/could-spark-an-epidemic-house-committee-report-alleges-fauci-and-niaid-concealed-plans-to-engineer-enhanced-monkeypox-virus](https://www.nationalreview.com/news/could-spark-an-epidemic-house-committee-report-alleges-fauci-and-niaid-concealed-plans-to-engineer-enhanced-monkeypox-virus)
  - date_published: 2024-06-12T21:44:15+00:00
  - tags: ['anthony fauci', 'covid', 'pandemic']
+ - date_dead_since: 2025-04-27T19:12:22.877099+00:00
 
  ## OpenAI Appoints Former NSA Director Paul Nakasone to Board of Directors
  - [https://www.securityweek.com/openai-appoints-former-nsa-director-paul-nakasone-to-board-of-directors](https://www.securityweek.com/openai-appoints-former-nsa-director-paul-nakasone-to-board-of-directors)
@@ -1028,7 +1029,7 @@
 
  ## Ubisoft Pays For Influencers To Travel To LA, Visit Disneyland As Part Of 'Star Wars Outlaws' Marketing Campaign
  - [https://boundingintocomics.com/video-games/ubisoft-pays-for-influencers-to-travel-to-la-visit-disneyland-as-part-of-star-wars-outlaws-marketing-campaign](https://boundingintocomics.com/video-games/ubisoft-pays-for-influencers-to-travel-to-la-visit-disneyland-as-part-of-star-wars-outlaws-marketing-campaign)
- - date_published: 2024-08-06T13:51:07+00:00
+ - date_published: 2024-08-06T06:43:13+00:00
  - tags: ['journalism', 'manufacturing consent', 'ubisoft']
 
  ## Atlanta Police Monitoring of 'Cop City' Opponents' Political Activity
