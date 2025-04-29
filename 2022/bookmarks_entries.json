@@ -2342,7 +2342,7 @@
         "page_rating_contents": 81,
         "page_rating_visits": 1,
         "page_rating_votes": 10,
-        "permanent": false,
+        "permanent": true,
         "source_url": "",
         "status_code": 200,
         "tags": [

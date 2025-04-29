@@ -190,7 +190,7 @@
 
  ## Ever Record a Video on Facebook? Facebook Still Has It.
  - [https://nymag.com/intelligencer/2018/03/facebook-secretly-saved-videos-users-deleted.html](https://nymag.com/intelligencer/2018/03/facebook-secretly-saved-videos-users-deleted.html)
- - date_published: 2018-03-28T20:11:51+00:00
+ - date_published: 2018-03-28T16:11:51+00:00
  - tags: ['corporatocracy', 'facebook', 'privacy', 'surveillance']
 
  ## Are you ready? This is all the data Facebook and Google have on you | Dylan Curran

@@ -2606,6 +2606,11 @@
  - date_published: 2021-09-20T14:51:24+00:00
  - tags: ['covid', 'lab leak', 'wuhan']
 
+ ## I keep making things out of checkboxes | Bryan Braun - Designer/Developer
+ - [https://www.bryanbraun.com/2021/09/21/i-keep-making-things-out-of-checkboxes](https://www.bryanbraun.com/2021/09/21/i-keep-making-things-out-of-checkboxes)
+ - date_published: 2021-09-21T00:00:00+00:00
+ - tags: ['programming', 'project']
+
  ## Advice from an Old King Before You Inherit the Throne
  - [https://www.youtube.com/watch?v=Kc1EMOGLKaU](https://www.youtube.com/watch?v=Kc1EMOGLKaU)
  - date_published: 2021-09-21T00:00:00+00:00
@@ -2954,11 +2959,6 @@
  ## IoT Hacking and Rickrolling My High School District | WhiteHoodHacker
  - [https://whitehoodhacker.net/posts/2021-10-04-the-big-rick](https://whitehoodhacker.net/posts/2021-10-04-the-big-rick)
  - date_published: 2021-10-11T16:38:19.234623+00:00
-
- ## I keep making things out of checkboxes | Bryan Braun - Designer/Developer
- - [https://www.bryanbraun.com/2021/09/21/i-keep-making-things-out-of-checkboxes](https://www.bryanbraun.com/2021/09/21/i-keep-making-things-out-of-checkboxes)
- - date_published: 2021-10-11T19:09:46.629773+00:00
- - tags: ['programming', 'project']
 
  ## Code rant: The Configuration Complexity Clock
  - [https://mikehadlow.blogspot.com/2012/05/configuration-complexity-clock.html?m=1](https://mikehadlow.blogspot.com/2012/05/configuration-complexity-clock.html?m=1)

@@ -128,9 +128,9 @@
         "manual_status_code": 0,
         "page_rating": 87,
         "page_rating_contents": 82,
-        "page_rating_visits": 1,
+        "page_rating_visits": 2,
         "page_rating_votes": 90,
-        "permanent": false,
+        "permanent": true,
         "source_url": "https://en.wikipedia.org",
         "status_code": 200,
         "tags": [
@@ -216,7 +216,7 @@
         "page_rating_contents": 86,
         "page_rating_visits": 1,
         "page_rating_votes": 20,
-        "permanent": false,
+        "permanent": true,
         "source_url": "https://www.snopes.com",
         "status_code": 200,
         "tags": [

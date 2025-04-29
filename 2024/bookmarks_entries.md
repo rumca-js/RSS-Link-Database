@@ -900,12 +900,12 @@
 
  ## Nashville Shooter Audrey Hale Manifesto Court Hearing Sparks Backlash
  - [https://www.newsweek.com/audrey-hale-covenant-school-shooting-manifesto-court-hearing-1913756](https://www.newsweek.com/audrey-hale-covenant-school-shooting-manifesto-court-hearing-1913756)
- - date_published: 2024-06-17T15:04:52+00:00
+ - date_published: 2024-06-17T11:04:52+00:00
  - tags: ['christianophobia', 'nashville']
 
  ## FedEx’s Secretive Police Force Is Helping Cops Build An AI Car Surveillance Network
  - [https://www.forbes.com/sites/thomasbrewster/2024/06/19/fedex-police-help-cops-build-an-ai-car-surveillance-network](https://www.forbes.com/sites/thomasbrewster/2024/06/19/fedex-police-help-cops-build-an-ai-car-surveillance-network)
- - date_published: 2024-06-19T10:30:29+00:00
+ - date_published: 2024-06-19T00:00:00+00:00
  - tags: ['privacy', 'surveillance']
 
  ## Google disrupted YouTube video playback on Firefox, again - gHacks Tech News
@@ -923,15 +923,15 @@
  - date_published: 2024-06-24T00:00:00+00:00
  - tags: ['privacy', 'surveillance', 'technofeudalism', 'video games']
 
+ ## Google is Getting Worse, ft. Wendell of Level1 Techs
+ - [https://www.youtube.com/watch?v=-vMKm44ypFY](https://www.youtube.com/watch?v=-vMKm44ypFY)
+ - date_published: 2024-06-25T00:00:00+00:00
+ - tags: ['google', 'search engines']
+
  ## Julian Assange has reached a plea deal with the U.S., allowing him to go free
  - [https://www.nbcnews.com/politics/justice-department/julian-assange-reached-plea-deal-us-allowing-go-free-rcna158695](https://www.nbcnews.com/politics/justice-department/julian-assange-reached-plea-deal-us-allowing-go-free-rcna158695)
  - date_published: 2024-06-25T08:31:47+00:00
  - tags: ['julian assange']
-
- ## Google is Getting Worse, ft. Wendell of Level1 Techs
- - [https://www.youtube.com/watch?v=-vMKm44ypFY](https://www.youtube.com/watch?v=-vMKm44ypFY)
- - date_published: 2024-06-25T21:48:18+00:00
- - tags: ['google', 'search engines']
 
  ## ROOKE: ‘Godmother Of Queer Theory’ Admits Her Work Champions Pedophilia And Turning Kids Gay
  - [https://dailycaller.com/2024/06/05/rooke-judith-butler-lgbt-pedophilia](https://dailycaller.com/2024/06/05/rooke-judith-butler-lgbt-pedophilia)
@@ -944,7 +944,7 @@
 
  ## Live Service is Even Worse Than We Thought
  - [https://www.youtube.com/watch?v=Q-s_dMjOO4U](https://www.youtube.com/watch?v=Q-s_dMjOO4U)
- - date_published: 2024-07-04T16:33:35+00:00
+ - date_published: 2024-07-04T00:00:00+00:00
  - tags: ['dark design']
 
  ## The internet is already over (2022)
@@ -957,15 +957,15 @@
  - date_published: 2024-07-08T00:00:00+00:00
  - tags: ['corporatocracy', 'facebook']
 
+ ## Airbnb's Hidden Camera Problem
+ - [https://www.cnn.com/2024/07/09/business/airbnb-hidden-camera-invs/index.html](https://www.cnn.com/2024/07/09/business/airbnb-hidden-camera-invs/index.html)
+ - date_published: 2024-07-09T10:00:43+00:00
+ - tags: ['airbnb', 'privacy', 'surveillance']
+
  ## Gaza toll could exceed 186,000, Lancet study says
  - [https://www.aljazeera.com/news/2024/7/8/gaza-toll-could-exceed-186000-lancet-study-says](https://www.aljazeera.com/news/2024/7/8/gaza-toll-could-exceed-186000-lancet-study-says)
  - date_published: 2024-07-09T12:34:01+00:00
  - tags: ['gaza', 'israel', 'palestine']
-
- ## Airbnb's Hidden Camera Problem
- - [https://www.cnn.com/2024/07/09/business/airbnb-hidden-camera-invs/index.html](https://www.cnn.com/2024/07/09/business/airbnb-hidden-camera-invs/index.html)
- - date_published: 2024-07-09T12:58:30+00:00
- - tags: ['airbnb', 'privacy', 'surveillance']
 
  ## “Gay Furry Hackers” Claim Credit for Hacking Heritage Foundation Files Over Project 2025
  - [https://theintercept.com/2024/07/09/gay-furry-hackers-claim-credit-for-hacking-heritage-foundation-over-project-2025](https://theintercept.com/2024/07/09/gay-furry-hackers-claim-credit-for-hacking-heritage-foundation-over-project-2025)
@@ -1340,15 +1340,15 @@
  - date_published: 2024-10-31T18:09:18+00:00
  - tags: ['artificial intelligence']
 
+ ## Boeing disbands DEI department to focus on a 'merit-based performance system'
+ - [https://www.hrgrapevine.com/us/content/article/2024-11-01-aircraft-giant-ditches-dei-efforts-as-survey-underlines-consistent-employee-support](https://www.hrgrapevine.com/us/content/article/2024-11-01-aircraft-giant-ditches-dei-efforts-as-survey-underlines-consistent-employee-support)
+ - date_published: 2024-11-01T00:00:00+00:00
+ - tags: ['dei', 'diversity', 'inclusion']
+
  ## Mozilla is eliminating its advocacy division, which fought for a free and open web
  - [https://www.theverge.com/2024/11/5/24289124/mozilla-foundation-layoffs-advocacy-global-programs](https://www.theverge.com/2024/11/5/24289124/mozilla-foundation-layoffs-advocacy-global-programs)
  - date_published: 2024-11-05T17:19:25+00:00
  - tags: ['mozilla', 'privacy', 'surveillance']
-
- ## Boeing disbands DEI department to focus on a 'merit-based performance system'
- - [https://www.hrgrapevine.com/us/content/article/2024-11-01-aircraft-giant-ditches-dei-efforts-as-survey-underlines-consistent-employee-support](https://www.hrgrapevine.com/us/content/article/2024-11-01-aircraft-giant-ditches-dei-efforts-as-survey-underlines-consistent-employee-support)
- - date_published: 2024-11-06T15:46:37+00:00
- - tags: ['dei', 'diversity', 'inclusion']
 
  ## Donald Tusk: Zastanawiałem się, czy to mówić. Ale powiem to wprost
  - [https://www.onet.pl/informacje/onetwiadomosci/donald-tusk-zastanawialem-sie-czy-to-mowic-ale-powiem-to-wprost/wkg3bmv,79cfc278](https://www.onet.pl/informacje/onetwiadomosci/donald-tusk-zastanawialem-sie-czy-to-mowic-ale-powiem-to-wprost/wkg3bmv,79cfc278)
