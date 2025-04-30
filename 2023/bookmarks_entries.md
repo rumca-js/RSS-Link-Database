@@ -3934,6 +3934,11 @@
  - date_published: 2023-05-02T15:48:49+00:00
  - tags: ['artificial intelligence']
 
+ ## Kids Online Safety Act is still a danger to our rights online
+ - [https://www.eff.org/deeplinks/2023/05/kids-online-safety-act-still-huge-danger-our-rights-online](https://www.eff.org/deeplinks/2023/05/kids-online-safety-act-still-huge-danger-our-rights-online)
+ - date_published: 2023-05-02T16:45:42+00:00
+ - tags: ['kids online safety act', 'privacy', 'surveillance']
+
  ## Ireland’s plan to criminalize “hate speech” takes a “guilty until proven innocent” approach
  - [https://reclaimthenet.org/irelands-plan-to-criminalize-hate-speech](https://reclaimthenet.org/irelands-plan-to-criminalize-hate-speech)
  - date_published: 2023-05-02T17:19:04+00:00
@@ -6466,11 +6471,6 @@
  - [https://www.dailymail.co.uk/news/article-12337223/Former-JPMorgan-exec-Jes-Staley-casually-joked-Jeffrey-Epsteins-taste-underage-girls-executives-emails-reveal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12337223/Former-JPMorgan-exec-Jes-Staley-casually-joked-Jeffrey-Epsteins-taste-underage-girls-executives-emails-reveal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date_published: 2023-07-26T18:47:23+00:00
  - tags: ['jeffrey epstein', 'jes staley', 'jpmorgan']
-
- ## Kids Online Safety Act is still a danger to our rights online
- - [https://www.eff.org/deeplinks/2023/05/kids-online-safety-act-still-huge-danger-our-rights-online](https://www.eff.org/deeplinks/2023/05/kids-online-safety-act-still-huge-danger-our-rights-online)
- - date_published: 2023-07-26T21:07:07+00:00
- - tags: ['kids online safety act', 'privacy', 'surveillance']
 
  ## 'My Childhood Was RUINED:' Detransitioner Chloe Cole Talks About Trans Procedures
  - [https://www.youtube.com/watch?v=DSGgR3W_jjg](https://www.youtube.com/watch?v=DSGgR3W_jjg)

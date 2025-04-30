@@ -1441,15 +1441,15 @@
  - date_published: 2020-11-18T00:00:00+00:00
  - tags: ['ad business', 'youtube']
 
+ ## Does Apple Track Every Mac App You Run? OCSP Explained
+ - [https://www.howtogeek.com/701176/does-apple-track-every-mac-app-you-run-ocsp-explained](https://www.howtogeek.com/701176/does-apple-track-every-mac-app-you-run-ocsp-explained)
+ - date_published: 2020-11-18T06:40:29+00:00
+ - tags: ['apple', 'privacy', 'tracking']
+
  ## Why Smart Cities Threaten Citizens’ Right to Privacy
  - [https://www.urbanet.info/why-smart-city-data-treatens-citizens-right-to-privacy](https://www.urbanet.info/why-smart-city-data-treatens-citizens-right-to-privacy)
  - date_published: 2020-11-18T12:04:50+00:00
  - tags: ['privacy', 'smart city']
-
- ## Does Apple Track Every Mac App You Run? OCSP Explained
- - [https://www.howtogeek.com/701176/does-apple-track-every-mac-app-you-run-ocsp-explained](https://www.howtogeek.com/701176/does-apple-track-every-mac-app-you-run-ocsp-explained)
- - date_published: 2020-11-18T15:23:40+00:00
- - tags: ['apple', 'privacy', 'tracking']
 
  ## Danish study finds face masks provide limited protection to wearer | Reuters
  - [https://www.reuters.com/article/us-health-coronavirus-facemasks-idUSKBN27Y1YW](https://www.reuters.com/article/us-health-coronavirus-facemasks-idUSKBN27Y1YW)

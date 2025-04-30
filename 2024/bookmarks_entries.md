@@ -413,7 +413,7 @@
 
  ## What DEI research concludes about diversity training: it is divisive, counter-productive, and unnecessary - Aristotle Foundation
  - [https://aristotlefoundation.org/reality-check/what-dei-research-concludes-about-diversity-training-it-is-divisive-counter-productive-and-unnecessary](https://aristotlefoundation.org/reality-check/what-dei-research-concludes-about-diversity-training-it-is-divisive-counter-productive-and-unnecessary)
- - date_published: 2024-02-12T01:00:00+00:00
+ - date_published: 2024-02-12T00:00:00+00:00
  - tags: ['dei', 'tolerance']
 
  ## How Viruses Become Weapons
@@ -992,15 +992,15 @@
  - date_published: 2024-07-15T22:17:21+00:00
  - tags: ['dead internet']
 
+ ## Data brokers sell our location data and jeopardise national security
+ - [https://netzpolitik.org/2024/data-broker-files-how-data-brokers-sell-our-location-data-and-jeopardise-national-security](https://netzpolitik.org/2024/data-broker-files-how-data-brokers-sell-our-location-data-and-jeopardise-national-security)
+ - date_published: 2024-07-16T06:00:04+00:00
+ - tags: ['ad business', 'cybersecurity', 'privacy', 'surveillance']
+
  ## Cloudflare reports almost 7% of internet traffic is malicious
  - [https://www.zdnet.com/article/cloudflare-reports-almost-7-percent-of-internet-traffic-is-malicious/#ftag=RSSbaffb68](https://www.zdnet.com/article/cloudflare-reports-almost-7-percent-of-internet-traffic-is-malicious/#ftag=RSSbaffb68)
  - date_published: 2024-07-16T09:16:11+00:00
  - tags: ['dead internet']
-
- ## Data brokers sell our location data and jeopardise national security
- - [https://netzpolitik.org/2024/data-broker-files-how-data-brokers-sell-our-location-data-and-jeopardise-national-security](https://netzpolitik.org/2024/data-broker-files-how-data-brokers-sell-our-location-data-and-jeopardise-national-security)
- - date_published: 2024-07-16T19:04:56+00:00
- - tags: ['ad business', 'cybersecurity', 'privacy', 'surveillance']
 
  ## Under Surveillance
  - [https://interaktiv.br.de/ausspioniert-mit-standortdaten/en/index.html](https://interaktiv.br.de/ausspioniert-mit-standortdaten/en/index.html)
@@ -1134,7 +1134,7 @@
 
  ## Google searches are becoming a bigger target of cybercriminals with the rise of 'malvertising'
  - [https://www.cnbc.com/2024/09/05/google-searches-big-target-for-malvertising-hackers.html](https://www.cnbc.com/2024/09/05/google-searches-big-target-for-malvertising-hackers.html)
- - date_published: 2024-09-05T16:01:35+00:00
+ - date_published: 2024-09-05T14:01:35+00:00
  - tags: ['ad business', 'malvertising']
 
  ## Ford seeks patent for tech that listens to driver conversations to serve ads
@@ -1227,7 +1227,7 @@
 
  ## Ethical Hacker Warns: Check Your Charger ASAP & What Happens After Clicking Adult Sites
  - [https://www.youtube.com/watch?v=sRmVEnP-EXs](https://www.youtube.com/watch?v=sRmVEnP-EXs)
- - date_published: 2024-10-10T02:00:00+00:00
+ - date_published: 2024-10-10T00:00:00+00:00
  - tags: ['privacy', 'surveillance', 'technofeudalism']
 
  ## UK firm GSK to pay $2.2bn over Zantac cancer claims
@@ -1379,15 +1379,15 @@
  - date_published: 2024-11-22T01:00:00+00:00
  - tags: ['surveillance']
 
+ ## FA set ethnic diversity quota target for England coaches by 2028
+ - [https://www.dailymail.co.uk/sport/football/article-14129061/FA-set-ethnic-diversity-quota-target-England-coaching-staff-2028-alongside-drive-crack-discriminatory-abuse-suffered-stars.html](https://www.dailymail.co.uk/sport/football/article-14129061/FA-set-ethnic-diversity-quota-target-England-coaching-staff-2028-alongside-drive-crack-discriminatory-abuse-suffered-stars.html)
+ - date_published: 2024-11-26T18:55:01+00:00
+ - tags: ['inequality', 'quotas', 'racism']
+
  ## #2234 - Marc Andreessen
  - [https://open.spotify.com/episode/0U4Y0an6iKM1VB8pE1M4vQ](https://open.spotify.com/episode/0U4Y0an6iKM1VB8pE1M4vQ)
  - date_published: 2024-11-26T19:00:00+00:00
  - tags: ['debanking', 'deplatform']
-
- ## FA set ethnic diversity quota target for England coaches by 2028
- - [https://www.dailymail.co.uk/sport/football/article-14129061/FA-set-ethnic-diversity-quota-target-England-coaching-staff-2028-alongside-drive-crack-discriminatory-abuse-suffered-stars.html](https://www.dailymail.co.uk/sport/football/article-14129061/FA-set-ethnic-diversity-quota-target-England-coaching-staff-2028-alongside-drive-crack-discriminatory-abuse-suffered-stars.html)
- - date_published: 2024-11-26T19:55:01+00:00
- - tags: ['inequality', 'quotas', 'racism']
 
  ## Five Companies Produce Nearly 25 Percent of All Plastic Waste Worldwide
  - [https://www.sierraclub.org/sierra/just-five-companies-produce-nearly-25-percent-all-plastic-waste-worldwide](https://www.sierraclub.org/sierra/just-five-companies-produce-nearly-25-percent-all-plastic-waste-worldwide)
@@ -1406,7 +1406,7 @@
 
  ## President Biden pardons his son Hunter Biden | CNN Politics
  - [https://edition.cnn.com/2024/12/01/politics/hunter-biden-joe-biden-pardon/index.html](https://edition.cnn.com/2024/12/01/politics/hunter-biden-joe-biden-pardon/index.html)
- - date_published: 2024-12-02T01:32:05+00:00
+ - date_published: 2024-12-02T00:32:05+00:00
  - tags: ['billionaires', 'elite', 'hunter biden', 'inequality', 'joe biden']
 
  ## Why won't ChatGPT acknowledge the name David Mayer? Internet users uncover mystery
@@ -1431,12 +1431,12 @@
 
  ## Mehl mente FrP hentet flere somaliere enn de rødgrønne: – Beviselig feil, sier Njåstad
  - [https://inyheter.no/12/12/2024/mehl-mente-frp-hentet-flere-somaliere-enn-de-rodgronne-beviselig-feil-sier-njastad](https://inyheter.no/12/12/2024/mehl-mente-frp-hentet-flere-somaliere-enn-de-rodgronne-beviselig-feil-sier-njastad)
- - date_published: 2024-12-12T15:16:48+00:00
+ - date_published: 2024-12-12T14:16:48+00:00
  - tags: ['immigration']
 
  ## Microsoft Recall still storing credit card, social security numbers
  - [https://www.tomshardware.com/software/windows/microsoft-recall-screenshots-credit-cards-and-social-security-numbers-even-with-the-sensitive-information-filter-enabled](https://www.tomshardware.com/software/windows/microsoft-recall-screenshots-credit-cards-and-social-security-numbers-even-with-the-sensitive-information-filter-enabled)
- - date_published: 2024-12-12T17:01:16+00:00
+ - date_published: 2024-12-12T16:20:17+00:00
  - tags: ['privacy', 'surveillance']
 
  ## wsj.com

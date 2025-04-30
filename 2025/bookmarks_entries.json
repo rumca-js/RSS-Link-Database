@@ -157,19 +157,19 @@
         "language": "en-US",
         "link": "https://www.nytimes.com/2025/01/18/magazine/curtis-yarvin-interview.html",
         "manual_status_code": 0,
-        "page_rating": 27,
+        "page_rating": 30,
         "page_rating_contents": 86,
-        "page_rating_visits": 0,
+        "page_rating_visits": 1,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 228,
         "source_url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
-        "status_code": 0,
+        "status_code": 200,
         "tags": [
             "democracy",
             "monarchy"
         ],
-        "thumbnail": "https://static01.nyt.com/images/2025/01/26/magazine/26mag-interview-yarvin-03/26mag-interview-yarvin-03-mediumSquareAt3X.jpg",
+        "thumbnail": "https://static01.nyt.com/images/2025/01/26/magazine/26mag-interview-yarvin-03/26mag-interview-yarvin-03-facebookJumbo.jpg",
         "title": "\u2018The Interview\u2019: Curtis Yarvin Says Democracy is Done",
         "vote": 0
     },
