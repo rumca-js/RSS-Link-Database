@@ -2218,5 +2218,36 @@
         "thumbnail": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd4505403-57f5-4537-9f7f-bf1156a86986_900x600.jpeg",
         "title": "EXCLUSIVE: Doctor Fired For Trans Surgery Comments Receives $1.6 Million Settlement",
         "vote": 0
+    },
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_created": "2025-05-02T10:07:30.940025+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-02T09:44:45+00:00",
+        "description": "The AfD came second in February elections and has a record number of seats in the new parliament.",
+        "id": 2581196,
+        "language": "en-US",
+        "link": "https://www.bbc.com/news/articles/cwy6zk9wkrdo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 27,
+        "source_url": "https://feeds.bbci.co.uk/news/rss.xml",
+        "status_code": 0,
+        "tags": [
+            "afd",
+            "democracy",
+            "extremism"
+        ],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f5e/live/3ef7a660-2736-11f0-8c66-ebf25fc2cfef.jpg",
+        "title": "Germany's AfD classified as extreme-right by country's intelligence service",
+        "vote": 0
     }
 ]

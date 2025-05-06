@@ -7745,6 +7745,11 @@
  - date_published: 2023-09-26T08:56:00+00:00
  - tags: ['immigration', 'inequality', 'racism']
 
+ ## Corporate America Promised to Hire a Lot More People of Color. It Actually Did.
+ - [https://www.bloomberg.com/graphics/2023-black-lives-matter-equal-opportunity-corporate-diversity](https://www.bloomberg.com/graphics/2023-black-lives-matter-equal-opportunity-corporate-diversity)
+ - date_published: 2023-09-26T13:00:16+00:00
+ - tags: ['dei', 'diversity', 'inequality']
+
  ## Investigation: 78% of carbon offset projects globally are “likely junk“
  - [https://www.power-technology.com/news/report-majority-carbon-offsets-junk-or-useless](https://www.power-technology.com/news/report-majority-carbon-offsets-junk-or-useless)
  - date_published: 2023-09-26T14:50:35+00:00

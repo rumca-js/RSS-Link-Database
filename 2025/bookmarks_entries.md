@@ -373,3 +373,8 @@
  - date_published: 2025-04-27T07:24:56.388722+00:00
  - tags: ['transgender']
 
+ ## Germany's AfD classified as extreme-right by country's intelligence service
+ - [https://www.bbc.com/news/articles/cwy6zk9wkrdo](https://www.bbc.com/news/articles/cwy6zk9wkrdo)
+ - date_published: 2025-05-02T09:44:45+00:00
+ - tags: ['afd', 'democracy', 'extremism']
+
