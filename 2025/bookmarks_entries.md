@@ -378,3 +378,8 @@
  - date_published: 2025-05-02T09:44:45+00:00
  - tags: ['afd', 'democracy', 'extremism']
 
+ ## Wyrzucanie śmieci po nowemu. Potrzebny kod QR i kosze za 2 miliony zł
+ - [https://wiescirolnicze.pl/newsy/wyrzucanie-smieci-po-nowemu-potrzebny-kod-qr-i-kosze-za-2-miliony-zl,21067](https://wiescirolnicze.pl/newsy/wyrzucanie-smieci-po-nowemu-potrzebny-kod-qr-i-kosze-za-2-miliony-zl,21067)
+ - date_published: 2025-05-06T14:50:43.654782+00:00
+ - tags: ['privacy', 'surveillance']
+

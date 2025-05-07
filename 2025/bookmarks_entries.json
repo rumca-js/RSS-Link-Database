@@ -2249,5 +2249,34 @@
         "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f5e/live/3ef7a660-2736-11f0-8c66-ebf25fc2cfef.jpg",
         "title": "Germany's AfD classified as extreme-right by country's intelligence service",
         "vote": 0
+    },
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_created": "2025-05-06T14:48:43.354176+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-06T14:50:43.654782+00:00",
+        "description": "Prawid\u0142owa segregacja odpad&oacute;w mo\u017ce by\u0107 problematyczn\u0105 kwesti\u0105, dlatego miasta szukaj\u0105 rozwi\u0105za\u0144, kt&oacute;re maj\u0105 u\u0142atwi\u0107 ca\u0142y proces. Pilo",
+        "id": 2612117,
+        "language": "pl",
+        "link": "https://wiescirolnicze.pl/newsy/wyrzucanie-smieci-po-nowemu-potrzebny-kod-qr-i-kosze-za-2-miliony-zl,21067",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 90,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "privacy",
+            "surveillance"
+        ],
+        "thumbnail": "https://wiescirolnicze.pl/media/cache/38/5d/385dc64ff220cb00d4a9e8d47b524b9b.jpg",
+        "title": "Wyrzucanie \u015bmieci po nowemu. Potrzebny kod QR i kosze za 2 miliony z\u0142",
+        "vote": 0
     }
 ]
