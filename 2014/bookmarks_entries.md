@@ -13,6 +13,11 @@
  - date_published: 2014-01-22T07:45:37+00:00
  - tags: ['lgbt', 'the left wing']
 
+ ## NSA spied through Angry Birds, other apps: report
+ - [https://www.nbcnews.com/tech/tech-news/nsa-spied-through-angry-birds-other-apps-report-flna2d12006530](https://www.nbcnews.com/tech/tech-news/nsa-spied-through-angry-birds-other-apps-report-flna2d12006530)
+ - date_published: 2014-01-28T01:51:00+00:00
+ - tags: ['nsa', 'privacy', 'surveillance']
+
  ## Facebook Fraud
  - [https://www.youtube.com/watch?v=oVfHeWTKjag](https://www.youtube.com/watch?v=oVfHeWTKjag)
  - date_published: 2014-02-10T00:00:00+00:00
