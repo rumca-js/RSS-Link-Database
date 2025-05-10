@@ -383,3 +383,8 @@
  - date_published: 2025-05-06T14:50:43.654782+00:00
  - tags: ['privacy', 'surveillance']
 
+ ## Verification, the Key to AI (2001)
+ - [http://incompleteideas.net/IncIdeas/KeytoAI.html](http://incompleteideas.net/IncIdeas/KeytoAI.html)
+ - date_published: 2025-05-09T05:10:28+00:00
+ - tags: ['artificial intelligence']
+
