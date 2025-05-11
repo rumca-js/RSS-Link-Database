@@ -2307,5 +2307,34 @@
         "thumbnail": null,
         "title": "Verification, the Key to AI (2001)",
         "vote": 0
+    },
+    {
+        "age": null,
+        "album": "",
+        "author": "Ed Nightingale",
+        "bookmarked": true,
+        "comments": [],
+        "date_created": "2025-05-09T11:30:07.212424+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-09T11:28:11+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/GameChat-%E2%80%93-Nintendo-Direct-_-Nintendo-Switch-2-5-18-screenshot-(1).png?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp\" /> <p>Nintendo has updated its Nintendo Account Agreement with a severe warning against \"unauthorised use\", in a bid to prevent emulation and piracy.</p> <p><a href=\"https://www.eurogamer.net/nintendo-reserves-the-right-to-brick-your-console-following-unauthorised-use-in-bid-to-prevent-piracy\">Read more</a></p>",
+        "id": 2637266,
+        "language": "en-gb",
+        "link": "https://www.eurogamer.net/nintendo-reserves-the-right-to-brick-your-console-following-unauthorised-use-in-bid-to-prevent-piracy",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 107,
+        "source_url": "https://www.eurogamer.net/feed",
+        "status_code": 0,
+        "tags": [
+            "technofeudalism"
+        ],
+        "thumbnail": "https://assetsio.gnwcdn.com/GameChat-%E2%80%93-Nintendo-Direct-_-Nintendo-Switch-2-5-18-screenshot-(1).png?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp",
+        "title": "Nintendo reserves the right to brick your console following \"unauthorised use\", in bid to prevent piracy",
+        "vote": 0
     }
 ]

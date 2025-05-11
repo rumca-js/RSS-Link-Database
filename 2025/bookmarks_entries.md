@@ -388,3 +388,8 @@
  - date_published: 2025-05-09T05:10:28+00:00
  - tags: ['artificial intelligence']
 
+ ## Nintendo reserves the right to brick your console following "unauthorised use", in bid to prevent piracy
+ - [https://www.eurogamer.net/nintendo-reserves-the-right-to-brick-your-console-following-unauthorised-use-in-bid-to-prevent-piracy](https://www.eurogamer.net/nintendo-reserves-the-right-to-brick-your-console-following-unauthorised-use-in-bid-to-prevent-piracy)
+ - date_published: 2025-05-09T11:28:11+00:00
+ - tags: ['technofeudalism']
+
