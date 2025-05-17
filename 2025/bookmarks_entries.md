@@ -1,6 +1,6 @@
  ## NSFW Content is Taking Over YouTube
  - [https://www.youtube.com/watch?v=oSV6ECh3zr4](https://www.youtube.com/watch?v=oSV6ECh3zr4)
- - date_published: 2025-01-01T01:00:00+00:00
+ - date_published: 2025-01-01T00:00:00+00:00
  - tags: ['youtube']
 
  ## Siri “unintentionally” recorded private convos; Apple agrees to pay $95M
@@ -397,4 +397,9 @@
  - [https://www.eurogamer.net/nintendo-reserves-the-right-to-brick-your-console-following-unauthorised-use-in-bid-to-prevent-piracy](https://www.eurogamer.net/nintendo-reserves-the-right-to-brick-your-console-following-unauthorised-use-in-bid-to-prevent-piracy)
  - date_published: 2025-05-09T11:28:11+00:00
  - tags: ['technofeudalism']
+
+ ## Meta Battles an 'Epidemic of Scams' as Criminals Flood Instagram and Facebook
+ - [https://www.wsj.com/tech/meta-fraud-facebook-instagram-813363c8](https://www.wsj.com/tech/meta-fraud-facebook-instagram-813363c8)
+ - date_published: 2025-05-16T03:32:25+00:00
+ - tags: ['misinformation']
 

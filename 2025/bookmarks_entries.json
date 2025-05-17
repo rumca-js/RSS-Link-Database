@@ -7,7 +7,7 @@
         "comments": [],
         "date_created": "2025-01-06T22:48:56.930268+00:00",
         "date_dead_since": null,
-        "date_published": "2025-01-01T01:00:00+00:00",
+        "date_published": "2025-01-01T00:00:00+00:00",
         "description": "Really hope YouTube still fixes this in 2024\r\n\r\nVOTE FOR ME\r\nhttps://dejamies.be\r\n\r\nMY SOCIALS:\r\n\u27a4 https://instagram.com/thesoggiest.cereal\r\n\u27a4 https://www.tiktok.com/@soggiest.cereal\r\n\r\nCOMMUNITY\r\n\u27a4 https://discord.gg/soggycereal\r\n\u27a4  https://patreon.com/SoggyCerealz\r\n\r\nBUSINESS\r\nplease email soggy@proudmanagement.net\r\n\r\nPoopyTube\r\n\r\n0:00 I found a problem\r\n1:03 roblox youtuber makes soft core corn\r\n6:16 YouTube pushes NSFW to kids\r\n9:38 corn ads on YouTube\r\n13:59 fully n*de OF videos on YouTube",
         "id": 1847130,
         "language": null,
@@ -17,7 +17,7 @@
         "page_rating_contents": 86,
         "page_rating_visits": 2,
         "page_rating_votes": 40,
-        "permanent": false,
+        "permanent": true,
         "source_url": "",
         "status_code": 200,
         "tags": [
@@ -2363,6 +2363,35 @@
         ],
         "thumbnail": "https://assetsio.gnwcdn.com/GameChat-%E2%80%93-Nintendo-Direct-_-Nintendo-Switch-2-5-18-screenshot-(1).png?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp",
         "title": "Nintendo reserves the right to brick your console following \"unauthorised use\", in bid to prevent piracy",
+        "vote": 0
+    },
+    {
+        "age": null,
+        "album": "",
+        "author": "erehweb",
+        "bookmarked": true,
+        "comments": [],
+        "date_created": "2025-05-16T04:30:51.966389+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-16T03:32:25+00:00",
+        "description": "<p>Article URL: <a href=\"https://www.wsj.com/tech/meta-fraud-facebook-instagram-813363c8\">https://www.wsj.com/tech/meta-fraud-facebook-instagram-813363c8</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=44001593\">https://news.ycombinator.com/item?id=44001593</a></p>\n<p>Points: 10</p>\n<p># Comments: 0</p>",
+        "id": 2692603,
+        "language": null,
+        "link": "https://www.wsj.com/tech/meta-fraud-facebook-instagram-813363c8",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 141,
+        "source_url": "https://hnrss.org/frontpage",
+        "status_code": 0,
+        "tags": [
+            "misinformation"
+        ],
+        "thumbnail": null,
+        "title": "Meta Battles an 'Epidemic of Scams' as Criminals Flood Instagram and Facebook",
         "vote": 0
     }
 ]
