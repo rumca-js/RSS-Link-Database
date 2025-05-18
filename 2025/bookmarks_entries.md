@@ -403,3 +403,8 @@
  - date_published: 2025-05-16T03:32:25+00:00
  - tags: ['misinformation']
 
+ ## Chinese ‘kill switches’ found hidden in US solar farms
+ - [https://www.thetimes.com/us/news-today/article/china-solar-panels-kill-switch-vptfnbx7v](https://www.thetimes.com/us/news-today/article/china-solar-panels-kill-switch-vptfnbx7v)
+ - date_published: 2025-05-17T18:31:44.176218+00:00
+ - tags: ['technofeudalism']
+
