@@ -70,19 +70,19 @@
         "language": "en-US",
         "link": "https://theintercept.com/2025/01/09/tiktok-ban-israel-palestine-republicans",
         "manual_status_code": 0,
-        "page_rating": 29,
+        "page_rating": 32,
         "page_rating_contents": 91,
-        "page_rating_visits": 0,
+        "page_rating_visits": 1,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 347,
         "source_url": "https://theintercept.com/feed/?lang=en",
-        "status_code": 0,
+        "status_code": 200,
         "tags": [
             "censorship",
             "israel"
         ],
-        "thumbnail": "https://theintercept.com/theintercept.com/wp-content/uploads/2025/01/TikTok-Ban.jpg",
+        "thumbnail": "https://theintercept.com/wp-content/uploads/2025/01/TikTok-ban-SCOTUS-2.jpg?fit=2000%2C1000&w=1200&h=800",
         "title": "The TikTok Ban Is Also About Hiding Pro-Palestinian Content. Republicans Said So Themselves.",
         "vote": 0
     },

@@ -1124,7 +1124,7 @@
 
  ## Did your car witness a crime?
  - [https://www.sfchronicle.com/crime/article/tesla-sentry-mode-police-evidence-19731000.php](https://www.sfchronicle.com/crime/article/tesla-sentry-mode-police-evidence-19731000.php)
- - date_published: 2024-08-31T16:21:27+00:00
+ - date_published: 2024-08-31T11:00:00+00:00
  - tags: ['surveillance', 'technofeudalism']
 
  ## US calls on Big Tech to help evade online censors in Russia, Iran
