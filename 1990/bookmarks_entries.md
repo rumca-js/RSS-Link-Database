@@ -1,3 +1,8 @@
+ ## Computational theory of mind - Wikipedia
+ - [https://en.wikipedia.org/wiki/Computational_theory_of_mind](https://en.wikipedia.org/wiki/Computational_theory_of_mind)
+ - date_published: 1990-05-20T15:55:01+00:00
+ - tags: ['artificial intelligence', 'consciousnes', 'psychology']
+
  ## How Jeffrey Epstein Used the Billionaire Behind Victoria’s Secret for Wealth and Women - The New York Times
  - [https://www.nytimes.com/2019/07/25/business/jeffrey-epstein-wexner-victorias-secret.html](https://www.nytimes.com/2019/07/25/business/jeffrey-epstein-wexner-victorias-secret.html)
  - date_published: 1990-07-28T10:27:54+00:00

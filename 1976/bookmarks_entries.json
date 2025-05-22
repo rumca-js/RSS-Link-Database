@@ -1,0 +1,32 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_created": "2025-05-21T10:30:13.720918+00:00",
+        "date_dead_since": null,
+        "date_published": "1976-05-21T10:14:07+00:00",
+        "description": "",
+        "id": 2733549,
+        "language": "en",
+        "link": "https://en.wikipedia.org/wiki/Bicameral_mentality",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 81,
+        "page_rating_visits": 2,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "artificial intelligence",
+            "consciousnes",
+            "psychology"
+        ],
+        "thumbnail": null,
+        "title": "Bicameral mentality - Wikipedia",
+        "vote": 0
+    }
+]

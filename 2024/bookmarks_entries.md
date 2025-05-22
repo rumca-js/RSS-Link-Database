@@ -365,11 +365,6 @@
  - date_published: 2024-01-30T00:00:00+00:00
  - tags: ['big brother', 'orwell', 'privacy', 'surveillance']
 
- ## Flynn effect - Wikipedia
- - [https://en.wikipedia.org/wiki/Flynn_effect](https://en.wikipedia.org/wiki/Flynn_effect)
- - date_published: 2024-01-30T11:22:45+00:00
- - tags: ['psychology', 'society']
-
  ## Christian Vet Charged With Hate Crime For Taking a Patriotic Stand Against Satanic Statue Displayed at Iowa's Capitol
  - [https://www.louderwithcrowder.com/cassidy-hate-crime](https://www.louderwithcrowder.com/cassidy-hate-crime)
  - date_published: 2024-01-31T17:30:09+00:00
@@ -1419,16 +1414,6 @@
  - [https://torontosun.com/news/local-news/warmington-mayor-who-stood-up-to-pride-group-has-bank-account-garnished](https://torontosun.com/news/local-news/warmington-mayor-who-stood-up-to-pride-group-has-bank-account-garnished)
  - date_published: 2024-12-08T09:51:37+00:00
  - tags: ['lgbt', 'tolerance']
-
- ## Boltzmann brain
- - [https://en.wikipedia.org/wiki/Boltzmann_brain](https://en.wikipedia.org/wiki/Boltzmann_brain)
- - date_published: 2024-12-10T05:22:50+00:00
- - tags: ['psychology']
-
- ## Solipsism - Wikipedia
- - [https://en.wikipedia.org/wiki/Solipsism](https://en.wikipedia.org/wiki/Solipsism)
- - date_published: 2024-12-11T11:03:30+00:00
- - tags: ['psychology']
 
  ## Mehl mente FrP hentet flere somaliere enn de rødgrønne: – Beviselig feil, sier Njåstad
  - [https://inyheter.no/12/12/2024/mehl-mente-frp-hentet-flere-somaliere-enn-de-rodgronne-beviselig-feil-sier-njastad](https://inyheter.no/12/12/2024/mehl-mente-frp-hentet-flere-somaliere-enn-de-rodgronne-beviselig-feil-sier-njastad)
