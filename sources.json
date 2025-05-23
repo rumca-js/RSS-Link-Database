@@ -1,7 +1,7 @@
 [
     {
         "age": 0,
-        "category_name": "Tech",
+        "category_name": "Random",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://www.redditstatic.com/shreddit/assets/favicon/64x64.png",
@@ -27,13 +27,13 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/567",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Tabletop",
+        "subcategory_name": "Tabletop Games",
         "title": "28",
         "url": "https://28-mag.com/feed"
     },
     {
         "age": 0,
-        "category_name": "Hobby",
+        "category_name": "3D Printing",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://3dprinting.com/wp-content/uploads/cropped-3dp-site-icon-32x32.png",
@@ -43,7 +43,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/552",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "DYI",
+        "subcategory_name": "3D Printing",
         "title": "3DPrinting.com",
         "url": "https://3dprinting.com/feed"
     },
@@ -65,7 +65,7 @@
     },
     {
         "age": 18,
-        "category_name": "Entertainment",
+        "category_name": "Comics",
         "enabled": true,
         "export_to_cms": true,
         "favicon": null,
@@ -97,7 +97,7 @@
     },
     {
         "age": 18,
-        "category_name": "Entertainment",
+        "category_name": "TV",
         "enabled": true,
         "export_to_cms": true,
         "favicon": null,
@@ -107,13 +107,13 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Entertainment",
+        "subcategory_name": "TV",
         "title": "4Chan TV",
         "url": "https://boards.4chan.org/tv/index.rss"
     },
     {
         "age": 18,
-        "category_name": "Entertainment",
+        "category_name": "Video Games",
         "enabled": true,
         "export_to_cms": true,
         "favicon": null,
@@ -155,7 +155,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/611",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Tabletop",
+        "subcategory_name": "Tabletop Games",
         "title": "A Vox in the Void",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCF4cAwaYlXAt2LcnqUOgtMA"
     },
@@ -193,7 +193,7 @@
     },
     {
         "age": 0,
-        "category_name": "New",
+        "category_name": "Entertainment",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/ytc/AGIKgqMox432cx8APsB9u4UELfpZTjZlzO8nGU_M3PZ_nw=s48-c-k-c0x00ffffff-no-rj",
@@ -203,7 +203,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/284",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "New",
+        "subcategory_name": "Advice",
         "title": "Academy of Ideas",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiRiQGCHGjDLT9FQXFW0I3A"
     },
@@ -273,7 +273,7 @@
     },
     {
         "age": 0,
-        "category_name": "VR",
+        "category_name": "Tech",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/ytc/AIdro_kZODcX45LugqrLOi8G8gCQKtZVG8Z_fG9XVfY6e-XUPAc=s48-c-k-c0x00ffffff-no-rj",
@@ -299,7 +299,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/117",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "News",
+        "subcategory_name": "World",
         "title": "Al Jazeera \u2013 Breaking News, World News and Video from Al Jazeera",
         "url": "https://www.aljazeera.com/xml/rss/all.xml"
     },
@@ -315,7 +315,7 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Tabletop",
+        "subcategory_name": "Tabletop Games Spam",
         "title": "All things Warhammer!",
         "url": "https://www.reddit.com/r/Warhammer/.rss"
     },
@@ -347,7 +347,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/359",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "News",
+        "subcategory_name": "Africa",
         "title": "AllAfrica News: Africa",
         "url": "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf"
     },
@@ -369,7 +369,7 @@
     },
     {
         "age": 0,
-        "category_name": "New",
+        "category_name": "Personal",
         "enabled": true,
         "export_to_cms": true,
         "favicon": null,
@@ -379,7 +379,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/323",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "New",
+        "subcategory_name": "Personal",
         "title": "Andr\u00e9 Staltz",
         "url": "https://staltz.com/feed.xml"
     },
@@ -411,7 +411,7 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Tech",
+        "subcategory_name": "AI",
         "title": "Andrej Karpathy",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXUPKJO5MZQN11PqgIvyuvQ"
     },
@@ -443,7 +443,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/70",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Tech",
+        "subcategory_name": "News",
         "title": "Apple taps Anthropic's Claude for AI app development \u2013 Computerworld",
         "url": "https://www.computerworld.com/feed"
     },
@@ -475,7 +475,7 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Tech",
+        "subcategory_name": "AI",
         "title": "Artificial Intelligence",
         "url": "https://www.reddit.com/r/ArtificialInteligence/.rss"
     },
@@ -491,7 +491,7 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Artificial Intelligence",
+        "subcategory_name": "AI",
         "title": "Artificial Intelligence (AI)",
         "url": "https://www.reddit.com/r/artificial/.rss"
     },
@@ -523,13 +523,13 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Entertainment",
+        "subcategory_name": "Drama",
         "title": "Asmongold",
         "url": "https://www.reddit.com/r/Asmongold/.rss"
     },
     {
         "age": 0,
-        "category_name": "YouTube",
+        "category_name": "Entertainment",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/Hd1RtxUDPPfB9rl9cM0rLZq20iQus3jB1RD1LJugCPlPZ_Tcw_nm5-6SXOixZ-cSqk58c0UD=s48-c-k-c0x00ffffff-no-rj",
@@ -539,13 +539,13 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "YouTube",
+        "subcategory_name": "Drama",
         "title": "Asmongold TV",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQeRaTukNYft1_6AZPACnog"
     },
     {
         "age": 0,
-        "category_name": "New",
+        "category_name": "Entertainment",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/GkPv7DOQOxiyXLf7RD_tZz1KOcwNDTmCu0BPoiofmRmue5Hw76nYunBp9YfMFVtUUvgQcU0vVg=s48-c-k-c0x00ffffff-no-rj",
@@ -555,7 +555,7 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "New",
+        "subcategory_name": "Entertainment",
         "title": "AugustTheDuck",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwytZrjtI5oMHXFQM71xnRw"
     },
@@ -577,7 +577,7 @@
     },
     {
         "age": 0,
-        "category_name": "New",
+        "category_name": "Personal",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://austinhenley.com/favicon.ico",
@@ -587,7 +587,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/320",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "New",
+        "subcategory_name": "Personal",
         "title": "Austin Z. Henley's Blog",
         "url": "https://austinhenley.com/blog/feed.rss"
     },
@@ -619,13 +619,13 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/143",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Politics",
+        "subcategory_name": "Conservative",
         "title": "AwakenWithJP",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwUizOU8pPWXdXNniXypQEQ"
     },
     {
         "age": 0,
-        "category_name": "News",
+        "category_name": "Business",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://www.bankier.pl/gfx/rsslogo.png",
@@ -641,7 +641,7 @@
     },
     {
         "age": 0,
-        "category_name": "Tech",
+        "category_name": "Engineering",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/LTBufzYEgOkV7OLyHuah-GUpsWLxcRmzJTnfHDYJHZzyFYkiCTzBbB8tlAqXvrHBRatXX7SCzF4=s48-c-k-c0x00ffffff-no-rj",
@@ -654,86 +654,6 @@
         "subcategory_name": "Tech",
         "title": "Basically Homeless",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChHxJaKDqH4bOs0pX3hkKnA"
-    },
-    {
-        "age": 0,
-        "category_name": "News",
-        "enabled": true,
-        "export_to_cms": true,
-        "favicon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
-        "fetch_period": 3600,
-        "id": 523,
-        "language": "en-gb",
-        "proxy_location": "",
-        "remove_after_days": 0,
-        "source_type": "BaseRssPlugin",
-        "subcategory_name": "News",
-        "title": "BBC News",
-        "url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml"
-    },
-    {
-        "age": 0,
-        "category_name": "News",
-        "enabled": true,
-        "export_to_cms": true,
-        "favicon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
-        "fetch_period": 3600,
-        "id": 525,
-        "language": "en-gb",
-        "proxy_location": "",
-        "remove_after_days": 0,
-        "source_type": "BaseRssPlugin",
-        "subcategory_name": "News",
-        "title": "BBC News",
-        "url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml"
-    },
-    {
-        "age": 0,
-        "category_name": "News",
-        "enabled": true,
-        "export_to_cms": true,
-        "favicon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
-        "fetch_period": 3600,
-        "id": 522,
-        "language": "en-gb",
-        "proxy_location": "",
-        "remove_after_days": 0,
-        "source_type": "BaseRssPlugin",
-        "subcategory_name": "News",
-        "title": "BBC News",
-        "url": "https://feeds.bbci.co.uk/news/world/asia/rss.xml"
-    },
-    {
-        "age": 0,
-        "category_name": "News",
-        "enabled": true,
-        "export_to_cms": true,
-        "favicon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
-        "fetch_period": 3600,
-        "id": 524,
-        "language": "en-gb",
-        "proxy_location": "",
-        "remove_after_days": 0,
-        "source_type": "BaseRssPlugin",
-        "subcategory_name": "News",
-        "title": "BBC News",
-        "url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml"
-    },
-    {
-        "age": 0,
-        "category_name": "News",
-        "enabled": true,
-        "export_to_cms": true,
-        "favicon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
-        "fetch_period": 3600,
-        "id": 28,
-        "language": "en-US",
-        "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/27",
-        "remove_after_days": 0,
-        "source_type": "BaseRssPlugin",
-        "subcategory_name": "News",
-        "title": "BBC News",
-        "url": "https://feeds.bbci.co.uk/news/technology/rss.xml"
     },
     {
         "age": 0,
@@ -763,7 +683,7 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "News",
+        "subcategory_name": "World",
         "title": "BBC News",
         "url": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml"
     },
@@ -795,9 +715,89 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "News",
+        "subcategory_name": "Africa",
         "title": "BBC News",
         "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml"
+    },
+    {
+        "age": 0,
+        "category_name": "News",
+        "enabled": true,
+        "export_to_cms": true,
+        "favicon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
+        "fetch_period": 3600,
+        "id": 524,
+        "language": "en-gb",
+        "proxy_location": "",
+        "remove_after_days": 0,
+        "source_type": "BaseRssPlugin",
+        "subcategory_name": "Latin America",
+        "title": "BBC News",
+        "url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml"
+    },
+    {
+        "age": 0,
+        "category_name": "News",
+        "enabled": true,
+        "export_to_cms": true,
+        "favicon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
+        "fetch_period": 3600,
+        "id": 522,
+        "language": "en-gb",
+        "proxy_location": "",
+        "remove_after_days": 0,
+        "source_type": "BaseRssPlugin",
+        "subcategory_name": "Asia",
+        "title": "BBC News",
+        "url": "https://feeds.bbci.co.uk/news/world/asia/rss.xml"
+    },
+    {
+        "age": 0,
+        "category_name": "News",
+        "enabled": true,
+        "export_to_cms": true,
+        "favicon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
+        "fetch_period": 3600,
+        "id": 525,
+        "language": "en-gb",
+        "proxy_location": "",
+        "remove_after_days": 0,
+        "source_type": "BaseRssPlugin",
+        "subcategory_name": "Middle East",
+        "title": "BBC News",
+        "url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml"
+    },
+    {
+        "age": 0,
+        "category_name": "News",
+        "enabled": true,
+        "export_to_cms": true,
+        "favicon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
+        "fetch_period": 3600,
+        "id": 523,
+        "language": "en-gb",
+        "proxy_location": "",
+        "remove_after_days": 0,
+        "source_type": "BaseRssPlugin",
+        "subcategory_name": "Europe",
+        "title": "BBC News",
+        "url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml"
+    },
+    {
+        "age": 0,
+        "category_name": "Tech",
+        "enabled": true,
+        "export_to_cms": true,
+        "favicon": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
+        "fetch_period": 3600,
+        "id": 28,
+        "language": "en-US",
+        "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/27",
+        "remove_after_days": 0,
+        "source_type": "BaseRssPlugin",
+        "subcategory_name": "News",
+        "title": "BBC News",
+        "url": "https://feeds.bbci.co.uk/news/technology/rss.xml"
     },
     {
         "age": 0,
@@ -881,7 +881,7 @@
     },
     {
         "age": 0,
-        "category_name": "New",
+        "category_name": "Tech",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://bgr.com/favicon.ico",
@@ -891,7 +891,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/512",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "New",
+        "subcategory_name": "News",
         "title": "BGR",
         "url": "https://bgr.com/feed"
     },
@@ -993,7 +993,7 @@
     },
     {
         "age": 0,
-        "category_name": "Hobby",
+        "category_name": "Books",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://s2982.pcdn.co/wp-content/themes/bookriot/assets/images/favicons/BookRiot_Logo_32.png",
@@ -1009,7 +1009,7 @@
     },
     {
         "age": 0,
-        "category_name": "Hobby",
+        "category_name": "Books",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://www.bookbrowse.com/favicon.ico",
@@ -1041,7 +1041,7 @@
     },
     {
         "age": 0,
-        "category_name": "Art",
+        "category_name": "Hobby",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/ytc/AL5GRJUp-Uk5tYOmk70qOHygihIgckN7J_jX_CO1PRj8Zw=s48-c-k-c0x00ffffff-no-rj",
@@ -1051,7 +1051,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/195",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Graphics",
+        "subcategory_name": "Drawing",
         "title": "Brad Colbow",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UClozNP-QPyVatzpGKC25s0A"
     },
@@ -1099,7 +1099,7 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Tech",
+        "subcategory_name": "Search",
         "title": "Browsers & Browser technology",
         "url": "https://www.reddit.com/r/browsers/.rss"
     },
@@ -1115,13 +1115,13 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/523",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "News",
+        "subcategory_name": "Argentina",
         "title": "Buenos Aires Times",
         "url": "https://www.batimes.com.ar/feed"
     },
     {
         "age": 0,
-        "category_name": "News",
+        "category_name": "Business",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://www.telegraph.co.uk/content/dam/telegraph-logos/Micro%2089-189w%20-%20Black.png",
@@ -1137,7 +1137,7 @@
     },
     {
         "age": 0,
-        "category_name": "News",
+        "category_name": "Business",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/pjDcIrc21oYPCkKpfY1zElDRHhw907VyW4zpuhJP5YCCvZPpyt0de08XM-uECMPQFAsidNK0bw=s48-c-k-c0x00ffffff-no-rj",
@@ -1153,7 +1153,7 @@
     },
     {
         "age": 0,
-        "category_name": "News",
+        "category_name": "Business",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://ocdn.eu/businessinsider/static/bi-logo-horizontal.jpg.png",
@@ -1169,7 +1169,7 @@
     },
     {
         "age": 0,
-        "category_name": "News",
+        "category_name": "Business",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://www.wired.com/verso/static/wired-homepage/assets/favicon.ico",
@@ -1233,7 +1233,7 @@
     },
     {
         "age": 0,
-        "category_name": "New",
+        "category_name": "Movies",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/IceQyfFNKWNDFNf9GDMLS_hC8BJMJAOqYSFYuziym-woYsBx2G7TsJBYeJmo8WHo08-I9AS7zg=s48-c-k-c0x00ffffff-no-rj",
@@ -1243,7 +1243,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/222",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "New",
+        "subcategory_name": "Movies",
         "title": "Call me Chato",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCL0QSFSUfW8cHua_rDpltTg"
     },
@@ -1265,7 +1265,7 @@
     },
     {
         "age": 0,
-        "category_name": "New",
+        "category_name": "Entertainment",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/ytc/AIdro_n4AHNRd0upuWqg3NZq4iXWP5JSbnKHh_nbzhOmgGzUc3k=s48-c-k-c0x00ffffff-no-rj",
@@ -1275,7 +1275,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/608",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "New",
+        "subcategory_name": "Entertainment",
         "title": "CaseyNeistat",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtinbF-Q-fVthA0qrFQTgXQ"
     },
@@ -1291,7 +1291,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/524",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "News",
+        "subcategory_name": "Canada",
         "title": "CBC | Canada News",
         "url": "https://www.cbc.ca/webfeed/rss/rss-canada"
     },
@@ -1313,7 +1313,7 @@
     },
     {
         "age": 0,
-        "category_name": "Hobby",
+        "category_name": "Video Games",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/ytc/AIdro_lPuAnCAxiSuk_gDLInDRnvgEz24F7ME1n4AJI87QassQ=s48-c-k-c0x00ffffff-no-rj",
@@ -1387,7 +1387,7 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Tech",
+        "subcategory_name": "AI",
         "title": "ChatGPT",
         "url": "https://www.reddit.com/r/ChatGPT/.rss"
     },
@@ -1467,13 +1467,13 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/17",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Tech",
+        "subcategory_name": "News",
         "title": "CHIP Technologie mamy we krwi!",
         "url": "https://www.chip.pl/feed"
     },
     {
         "age": 0,
-        "category_name": "New",
+        "category_name": "Entertainment",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/ytc/AL5GRJU9HVx1QHdiAo5ZX3iH2-B2YMAI-kZnBFOUbVQpwA=s48-c-k-c0x00ffffff-no-rj",
@@ -1483,7 +1483,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/155",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "New",
+        "subcategory_name": "Entertainment",
         "title": "Chris Ray Gun",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCctjGdm2NlMNzIlxz02IsXA"
     },
@@ -1595,7 +1595,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/62",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "News",
+        "subcategory_name": "World",
         "title": "CNN.com - RSS Channel - World",
         "url": "http://rss.cnn.com/rss/cnn_world.rss"
     },
@@ -1617,7 +1617,7 @@
     },
     {
         "age": 0,
-        "category_name": "News",
+        "category_name": "Tech",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://www.codeproject.com/App_Themes/Std/Img/logo100x30.gif",
@@ -1665,7 +1665,7 @@
     },
     {
         "age": 0,
-        "category_name": "New",
+        "category_name": "Entertainment",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/ytc/AL5GRJW-pZGdbDEEiO9PGePE1Yl1thNw0hyKXfqwSlPpCg=s48-c-k-c0x00ffffff-no-rj",
@@ -1675,13 +1675,13 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/134",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "New",
+        "subcategory_name": "Entertainment",
         "title": "Coffeezilla",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFQMnBA3CS502aghlcr0_aw"
     },
     {
         "age": 0,
-        "category_name": "New",
+        "category_name": "Entertainment",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/ytc/AL5GRJWoz4QOYSNYQj5SlqAWqRv2uernsmW5TRC0mqymjw=s48-c-k-c0x00ffffff-no-rj",
@@ -1691,7 +1691,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/201",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "New",
+        "subcategory_name": "Entertainment",
         "title": "ColdFusion",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4QZ_LsYcvcq7qOsOhpAX4A"
     },
@@ -1771,7 +1771,7 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Tech",
+        "subcategory_name": "Programming",
         "title": "CppCon",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg"
     },
@@ -1793,7 +1793,7 @@
     },
     {
         "age": 0,
-        "category_name": "News",
+        "category_name": "Tech",
         "enabled": true,
         "export_to_cms": true,
         "favicon": null,
@@ -1806,6 +1806,22 @@
         "subcategory_name": "Tech",
         "title": "CrackWatch",
         "url": "https://www.reddit.com/r/CrackWatch/.rss"
+    },
+    {
+        "age": 0,
+        "category_name": "Tech",
+        "enabled": true,
+        "export_to_cms": true,
+        "favicon": null,
+        "fetch_period": 3600,
+        "id": 632,
+        "language": "en",
+        "proxy_location": "",
+        "remove_after_days": 0,
+        "source_type": "BaseRssPlugin",
+        "subcategory_name": "AI",
+        "title": "CursedAI",
+        "url": "https://www.reddit.com/r/CursedAI/.rss"
     },
     {
         "age": 0,
@@ -1851,7 +1867,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/456",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "News",
+        "subcategory_name": "Poland",
         "title": "Cyfrowa",
         "url": "https://cyfrowa.rp.pl/rss/2991-cyfrowa"
     },
@@ -1937,7 +1953,7 @@
     },
     {
         "age": 0,
-        "category_name": "Tech",
+        "category_name": "Random",
         "enabled": true,
         "export_to_cms": true,
         "favicon": null,
@@ -1947,13 +1963,13 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Internet",
+        "subcategory_name": "Random",
         "title": "Deep Web",
         "url": "https://www.reddit.com/r/deepweb/.rss"
     },
     {
         "age": 0,
-        "category_name": "New",
+        "category_name": "Tech",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://www.eff.org/sites/all/themes/frontier/favicon.ico",
@@ -1963,7 +1979,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/584",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "New",
+        "subcategory_name": "Tech",
         "title": "Deeplinks",
         "url": "https://www.eff.org/rss/updates.xml"
     },
@@ -2011,7 +2027,7 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Tech",
+        "subcategory_name": "Privacy",
         "title": "DeGoogle - expel Google from your life",
         "url": "https://www.reddit.com/r/degoogle/.rss"
     },
@@ -2059,13 +2075,13 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/612",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "News",
+        "subcategory_name": "Germany",
         "title": "DER SPIEGEL - Schlagzeilen",
         "url": "https://www.spiegel.de/schlagzeilen/index.rss"
     },
     {
         "age": 0,
-        "category_name": "New",
+        "category_name": "Nature",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://www.desmog.com/wp-content/uploads/2021/04/favicon.ico",
@@ -2075,7 +2091,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/337",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "New",
+        "subcategory_name": "Nature",
         "title": "DeSmog",
         "url": "https://www.desmog.com/feed"
     },
@@ -2107,13 +2123,13 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/570",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Tabletop",
+        "subcategory_name": "Tabletop Games",
         "title": "Dicebreaker Latest Articles Feed",
         "url": "https://www.dicebreaker.com/feed"
     },
     {
         "age": 0,
-        "category_name": "News",
+        "category_name": "Tech",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://www.digitaltrends.com/wp-content/uploads/2020/08/dt-site-icon.png?fit=144%2C144&p=1",
@@ -2123,13 +2139,13 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/71",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Tech",
+        "subcategory_name": "News",
         "title": "Digital Trends",
         "url": "https://www.digitaltrends.com/news/rss"
     },
     {
         "age": 0,
-        "category_name": "Hobby",
+        "category_name": "Movies",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/ZYPU9YpXBvD8mK9ja8Y-trx0vpSAXaQ5-ZcCTDuvQnTstg78mXAKKTZACUrdCuw50G7rj9yMoA=s48-c-k-c0x00ffffff-no-rj",
@@ -2225,7 +2241,7 @@
     },
     {
         "age": 0,
-        "category_name": "New",
+        "category_name": "Entertainment",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/ytc/AGIKgqOhqUiAIuR1NvraAdX60MceuWZuTOQU9KaRT4remQ=s48-c-k-c0x00ffffff-no-rj",
@@ -2235,7 +2251,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/273",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "New",
+        "subcategory_name": "Entertainment",
         "title": "Drew Gooden",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTSRIY3GLFYIpkR2QwyeklA"
     },
@@ -2299,7 +2315,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/425",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "News",
+        "subcategory_name": "France",
         "title": "EL PA\u00cdS in English",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/english.elpais.com/portada"
     },
@@ -2337,7 +2353,7 @@
     },
     {
         "age": 0,
-        "category_name": "Hobby",
+        "category_name": "Video Games",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/XWsEVUkg5jsXL7aeOFQtJ2mKfzsAFE_W3FqIXK8ciu5aRqsjxcbCsYqkJa_Civbg0y7jEn6ofh4=s48-c-k-c0x00ffffff-no-rj",
@@ -2363,7 +2379,7 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Games",
+        "subcategory_name": "Tabletop Games",
         "title": "EN World: D&D & Tabletop RPG News & Reviews",
         "url": "https://www.enworld.org/ewr-porta/index.rss"
     },
@@ -2411,7 +2427,7 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Hobby",
+        "subcategory_name": "Tabletop Games",
         "title": "EonsOfBattle",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDNHPNeWScAC8h8IxtEBtkQ"
     },
@@ -2449,7 +2465,7 @@
     },
     {
         "age": 0,
-        "category_name": "Hobby",
+        "category_name": "Video Games",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://www.eurogamer.net/static/823721ada42f34bd3b53a35acc60c2f4/icon/favicon.ico",
@@ -2459,23 +2475,23 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/343",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Video Games",
+        "subcategory_name": "News",
         "title": "Eurogamer.net Latest Articles Feed",
         "url": "https://www.eurogamer.net/feed"
     },
     {
         "age": 0,
-        "category_name": "New",
+        "category_name": "Random",
         "enabled": true,
         "export_to_cms": true,
         "favicon": null,
         "fetch_period": 3600,
         "id": 579,
-        "language": "",
+        "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "New",
+        "subcategory_name": "Random",
         "title": "Ever find a site with no purpose?",
         "url": "https://www.reddit.com/r/WeirdWebsites/.rss"
     },
@@ -2513,7 +2529,7 @@
     },
     {
         "age": 0,
-        "category_name": "Hobby",
+        "category_name": "Video Games",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/ytc/AIdro_n8196LVSOKl2Qg1s917v-J_oyUWn8t249iCQDVqjCFG9Y=s48-c-k-c0x00ffffff-no-rj",
@@ -2555,7 +2571,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/473",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "News",
+        "subcategory_name": "Business",
         "title": "Finanse osobiste",
         "url": "https://pieniadze.rp.pl/rss/1941-finanse-osobiste"
     },
@@ -2593,7 +2609,7 @@
     },
     {
         "age": 0,
-        "category_name": "New",
+        "category_name": "Entertainment",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/ytc/AL5GRJVrfbTb3aPdkDvM4yktI-kqCwnZ-OGA2n_o2TZt0A=s48-c-k-c0x00ffffff-no-rj",
@@ -2603,7 +2619,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/237",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "New",
+        "subcategory_name": "Entertainment",
         "title": "Folding Ideas",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCyNtlmLB73-7gtlBz00XOQQ"
     },
@@ -2683,13 +2699,13 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Tech",
+        "subcategory_name": "Programming",
         "title": "freeCodeCamp.org",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ"
     },
     {
         "age": 0,
-        "category_name": "News",
+        "category_name": "Politics",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/ytc/AL5GRJWg_f1iLymqTB0_Q-ZMXkbqrPTCKRujRuWskR4iKQ=s48-c-k-c0x00ffffff-no-rj",
@@ -2699,7 +2715,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/218",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "News",
+        "subcategory_name": "Politics",
         "title": "FRONTLINE PBS | Official",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3ScyryU9Oy9Wse3a8OAmYQ"
     },
@@ -2737,7 +2753,7 @@
     },
     {
         "age": 0,
-        "category_name": "Hobby",
+        "category_name": "Video Games",
         "enabled": true,
         "export_to_cms": true,
         "favicon": null,
@@ -2753,7 +2769,7 @@
     },
     {
         "age": 0,
-        "category_name": "Hobby",
+        "category_name": "Video Games",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/vm9YrWAWODmsweaAiS6wRQW8uvLiayC201sDJ7n_eAu4j_wKHhpc_Phi29Rohgxw_nHM5MyNxW8=s48-c-k-c0x00ffffff-no-rj",
@@ -2769,7 +2785,7 @@
     },
     {
         "age": 0,
-        "category_name": "Hobby",
+        "category_name": "Video Games",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/ytc/AL5GRJUPR-NTkM9BTnYPO4u_wV_r59mnvIE_eAlSVFpGPA=s48-c-k-c0x00ffffff-no-rj",
@@ -2801,7 +2817,7 @@
     },
     {
         "age": 0,
-        "category_name": "Hobby",
+        "category_name": "Video Games",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/2q8-YlqtAs3pWHamRcooAOvt_M88afnTwo7DYwqvHV9OSGlf2pBa5h3QJGeHrBkBidUjaL0mpA=s48-c-k-c0x00ffffff-no-rj",
@@ -2817,7 +2833,7 @@
     },
     {
         "age": 0,
-        "category_name": "Hobby",
+        "category_name": "Video Games",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://www.gamespot.com/favicon.ico",
@@ -2833,7 +2849,7 @@
     },
     {
         "age": 0,
-        "category_name": "Hobby",
+        "category_name": "Video Games",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/ytc/AL5GRJVAIPX5gVhG266Jx6qyo_C5Dt2UHoXncEo0BBrW=s48-c-k-c0x00ffffff-no-rj",
@@ -2849,7 +2865,7 @@
     },
     {
         "age": 0,
-        "category_name": "Hobby",
+        "category_name": "Video Games",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://www.gamingonlinux.com/templates/default/images/favicons/favicon.ico",
@@ -2865,7 +2881,7 @@
     },
     {
         "age": 0,
-        "category_name": "News",
+        "category_name": "Tech",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://www.geekwire.com/wp-content/themes/geekwire/dist/images/geekwire-logo-rss.png",
@@ -2929,7 +2945,7 @@
     },
     {
         "age": 0,
-        "category_name": "New",
+        "category_name": "Entertainment",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/ytc/AL5GRJVfC6PkXQ5sIFBNPtVUAUUO1uC4N1ndpIkCBmSbZA=s48-c-k-c0x00ffffff-no-rj",
@@ -2939,23 +2955,23 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/260",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "New",
+        "subcategory_name": "Entertainment",
         "title": "Glink",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNTqu16j3F6RbtHZI-3untg"
     },
     {
         "age": 0,
-        "category_name": "Tech",
+        "category_name": "Video Games",
         "enabled": true,
         "export_to_cms": true,
         "favicon": null,
         "fetch_period": 3600,
         "id": 560,
-        "language": "",
+        "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Tech",
+        "subcategory_name": "Video Games",
         "title": "GNU/Linux Gaming on Reddit",
         "url": "https://www.reddit.com/r/linux_gaming/.rss"
     },
@@ -2987,7 +3003,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/589",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Tabletop",
+        "subcategory_name": "Tabletop Games",
         "title": "Goonhammer",
         "url": "https://www.goonhammer.com/feed"
     },
@@ -3003,7 +3019,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/571",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Tabletop",
+        "subcategory_name": "Tabletop Games",
         "title": "Grimdark Magazine",
         "url": "https://www.grimdarkmagazine.com/feed"
     },
@@ -3019,7 +3035,7 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Hobby",
+        "subcategory_name": "Tabletop Games",
         "title": "Guerrilla Miniature Games",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbO4Vs1vlAA9hz7Ad7IMgug"
     },
@@ -3051,7 +3067,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/28",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Tech",
+        "subcategory_name": "Social Media",
         "title": "Hacker News: Front Page",
         "url": "https://hnrss.org/frontpage"
     },
@@ -3067,7 +3083,7 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Tech",
+        "subcategory_name": "Hacking",
         "title": "Hackers",
         "url": "https://www.reddit.com/r/hackers/.rss"
     },
@@ -3083,7 +3099,7 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Tech",
+        "subcategory_name": "Hacking",
         "title": "hacking: security in practice",
         "url": "https://www.reddit.com/r/hacking/.rss"
     },
@@ -3115,13 +3131,13 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "DYI",
+        "subcategory_name": "Handmade",
         "title": "Handmade - Arts & Crafts Made by Hand",
         "url": "https://www.reddit.com/r/handmade/.rss"
     },
     {
         "age": 0,
-        "category_name": "New",
+        "category_name": "Entertainment",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/xaj75tqnNhHJVs9oqE69u5WnBfRe-9OcvtmcguuqVggsmoEHfYU6elwCJhKsM-sl1YyRYZEKTj8=s48-c-k-c0x00ffffff-no-rj",
@@ -3131,13 +3147,13 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "New",
+        "subcategory_name": "Entertainment",
         "title": "hankschannel",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOT2iLov0V7Re7ku_3UBtcQ"
     },
     {
         "age": 0,
-        "category_name": "Random",
+        "category_name": "Entertainment",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/ytc/AIdro_mxzfZOQ4VUZ45Hu8oPlkl6xz9OVnHKpn4yKPkNcOVQGcI=s48-c-k-c0x00ffffff-no-rj",
@@ -3147,13 +3163,13 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Random",
+        "subcategory_name": "Entertainment",
         "title": "hbomberguy",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UClt01z1wHHT7c5lKcU8pxRQ"
     },
     {
         "age": 0,
-        "category_name": "Hobby",
+        "category_name": "Video Games",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/ytc/AIdro_m8oOWS3o21Sw4ISx7cW6PdNNCzqJR-lzcvzgKLjNPd8Wg=s48-c-k-c0x00ffffff-no-rj",
@@ -3249,7 +3265,7 @@
     },
     {
         "age": 0,
-        "category_name": "New",
+        "category_name": "Entertainment",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/ytc/AL5GRJXpyRhGXxCynapGzpnQueSYWxYsTnFn-cFE9Smqew=s48-c-k-c0x00ffffff-no-rj",
@@ -3259,7 +3275,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/236",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "New",
+        "subcategory_name": "Entertainment",
         "title": "Hugh Jeffreys",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQDhxkSxZA6lxdeXE19aoRA"
     },
@@ -3297,7 +3313,7 @@
     },
     {
         "age": 0,
-        "category_name": "Hobby",
+        "category_name": "Video Games",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/0r31CrZzRiYSl-_Zpg14rDNp0lSkHJnKKS7Jmj6sPZtUOFRpulRg1zqO-VYmRDNUSxBEgAeUzw=s48-c-k-c0x00ffffff-no-rj",
@@ -3313,7 +3329,7 @@
     },
     {
         "age": 0,
-        "category_name": "Hobby",
+        "category_name": "Video Games",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://s3.amazonaws.com/o.assets.images.ign.com/kraken/IGN-Logo-RSS.png",
@@ -3323,7 +3339,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/599",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Video Games",
+        "subcategory_name": "News",
         "title": "IGN All",
         "url": "https://feeds.feedburner.com/ign/all"
     },
@@ -3425,7 +3441,7 @@
     },
     {
         "age": 0,
-        "category_name": "Hobby",
+        "category_name": "Video Games",
         "enabled": true,
         "export_to_cms": true,
         "favicon": null,
@@ -3441,7 +3457,7 @@
     },
     {
         "age": 0,
-        "category_name": "New",
+        "category_name": "Entertainment",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/fbcg84ybnajrbHdiX5WZ54-FDtaEuZrpD_RQ4ELf6FvrvzoeXcO3ut8u_JhSjxE7qBT4IMWZKQ=s48-c-k-c0x00ffffff-no-rj",
@@ -3451,7 +3467,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/108",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "New",
+        "subcategory_name": "Drama",
         "title": "Jake Tran",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoOjH8D2XAgjzQlneM2W0EQ"
     },
@@ -3467,7 +3483,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/361",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "News",
+        "subcategory_name": "Japan",
         "title": "Japan Today",
         "url": "https://japantoday.com/feed"
     },
@@ -3505,7 +3521,7 @@
     },
     {
         "age": 0,
-        "category_name": "Tech",
+        "category_name": "Personal",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://www.jeffgeerling.com/favicon-32x32.png",
@@ -3515,13 +3531,13 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/597",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Tech",
+        "subcategory_name": "Personal",
         "title": "Jeff Geerling's Blog",
         "url": "https://www.jeffgeerling.com/blog.xml"
     },
     {
         "age": 0,
-        "category_name": "New",
+        "category_name": "Personal",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://www.jefftk.com/favicon.ico",
@@ -3531,7 +3547,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/136",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "New",
+        "subcategory_name": "Personal",
         "title": "Jeff Kaufman's Writing",
         "url": "https://www.jefftk.com/news.rss"
     },
@@ -3601,7 +3617,7 @@
     },
     {
         "age": 0,
-        "category_name": "Politics",
+        "category_name": "Entertainment",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/ytc/AL5GRJX3K0MB0AvItSqYBvGG-_uzTLyf6YMdIgu4imhw-g=s48-c-k-c0x00ffffff-no-rj",
@@ -3611,7 +3627,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/221",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Politics",
+        "subcategory_name": "Entertainment",
         "title": "Johnny Harris",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmGSJVG3mCRXVOP4yZrU1Dw"
     },
@@ -3633,7 +3649,7 @@
     },
     {
         "age": 0,
-        "category_name": "New",
+        "category_name": "Entertainment",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://www.jordanbpeterson.com/wp-content/uploads/2023/06/Maps-of-Meaning-Logo.webp",
@@ -3643,13 +3659,13 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/334",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "New",
+        "subcategory_name": "Entertainment",
         "title": "Jordan Peterson",
         "url": "https://www.jordanbpeterson.com/feed"
     },
     {
         "age": 0,
-        "category_name": "New",
+        "category_name": "Entertainment",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/ytc/AL5GRJUiVoDIzVuvp_HbKrYijq0XsXULYVACE2jAr5pUrg=s48-c-k-c0x00ffffff-no-rj",
@@ -3659,13 +3675,13 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/255",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "New",
+        "subcategory_name": "Drama",
         "title": "Joshua Fluke",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-91UA-Xy2Cvb98deRXuggA"
     },
     {
         "age": 0,
-        "category_name": "New",
+        "category_name": "Entertainment",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/UAtWVb_7tz-6MxrTApVHHp7rOFUJJ1vSzOIZBldjDGYUMvNK5XmG8i3pmnylGBIQ8sWT2YORRQ=s48-c-k-c0x00ffffff-no-rj",
@@ -3675,7 +3691,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/293",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "New",
+        "subcategory_name": "Entertainment",
         "title": "JRE Clips",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnxGkOGNMqQEUMvroOWps6Q"
     },
@@ -3777,7 +3793,7 @@
     },
     {
         "age": 0,
-        "category_name": "Hobby",
+        "category_name": "Video Games",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://www.keengamer.com/wp-content/uploads/2018/12/logo-keen-150x150-32x32.png",
@@ -3787,7 +3803,7 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Games",
+        "subcategory_name": "Video Games",
         "title": "KeenGamer",
         "url": "https://www.keengamer.com/feed/"
     },
@@ -3873,7 +3889,7 @@
     },
     {
         "age": 0,
-        "category_name": "Hobby",
+        "category_name": "Video Games",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://i.kinja-img.com/image/upload/c_fill,h_80,q_80,w_80/v4sckews2f3bzf0ztbkf.png",
@@ -3883,13 +3899,13 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/492",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Video Games",
+        "subcategory_name": "News",
         "title": "Kotaku",
         "url": "https://kotaku.com/rss"
     },
     {
         "age": 0,
-        "category_name": "New",
+        "category_name": "Hobby",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/ytc/AGIKgqNS3kG-Q5ikNfrkMTb2ZaPdHKLxOx7iqEG7oUs71A=s48-c-k-c0x00ffffff-no-rj",
@@ -3899,7 +3915,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/271",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "New",
+        "subcategory_name": "Tabletop Games",
         "title": "Kruggsmash",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaifrB5IrvGNPJmPeVOcqBA"
     },
@@ -3931,7 +3947,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/206",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Tech",
+        "subcategory_name": "News",
         "title": "Kuba Klawiter",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLr4hMhk_2KE0GUBSBrspGA"
     },
@@ -3969,10 +3985,10 @@
     },
     {
         "age": 0,
-        "category_name": "Hobby",
+        "category_name": "Movies",
         "enabled": true,
         "export_to_cms": true,
-        "favicon": null,
+        "favicon": "https://www.youtube.com/img/desktop/yt_1200.png",
         "fetch_period": 3600,
         "id": 593,
         "language": "en",
@@ -4033,7 +4049,7 @@
     },
     {
         "age": 0,
-        "category_name": "New",
+        "category_name": "Entertainment",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/Q0jp2B-7oekM2l6onYn9FRpqMrcAGKQWeQjepTdXERopIUc0VzH4U5e47rVd7H1cWcRvsINzWi8=s48-c-k-c0x00ffffff-no-rj",
@@ -4043,7 +4059,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/231",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "New",
+        "subcategory_name": "Entertainment",
         "title": "LaterClips",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtVGGeUqfVHOK4Q6nAwYO3g"
     },
@@ -4081,7 +4097,7 @@
     },
     {
         "age": 0,
-        "category_name": "News",
+        "category_name": "Tech",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://www.zdnet.com/a/neutron/images/logos/logo.png",
@@ -4161,7 +4177,7 @@
     },
     {
         "age": 0,
-        "category_name": "Games",
+        "category_name": "Video Games",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/ytc/AIdro_nh8fNAxmmVE66w4v44o9ZNytJj2qFKhpOkeJd3GnGChkA=s48-c-k-c0x00ffffff-no-rj",
@@ -4171,13 +4187,13 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Games",
+        "subcategory_name": "Video Games",
         "title": "Leadhead",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3_kehZbfRz-KrjXIqeIiPw"
     },
     {
         "age": 0,
-        "category_name": "YouTube",
+        "category_name": "Entertainment",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/ytc/AIdro_kwW7uBHNuJln3mwjAD39KvwvTbVKtoTONHGwiaAp3Njw=s48-c-k-c0x00ffffff-no-rj",
@@ -4209,7 +4225,7 @@
     },
     {
         "age": 0,
-        "category_name": "Tech",
+        "category_name": "Entertainment",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/ytc/AIdro_kSzDQxM_5VTZP_kapf1jJfzlHHJeECbFM9cx_dQ8guTAl-=s48-c-k-c0x00ffffff-no-rj",
@@ -4219,7 +4235,7 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Tech",
+        "subcategory_name": "Entertainment",
         "title": "Lex Fridman",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSHZKyawb77ixDdsGog4iWA"
     },
@@ -4315,7 +4331,7 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Tech",
+        "subcategory_name": "Linux",
         "title": "Linux, GNU/Linux, free software...",
         "url": "https://www.reddit.com/r/linux/.rss"
     },
@@ -4331,7 +4347,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/478",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Tech",
+        "subcategory_name": "Linux",
         "title": "Linux Today",
         "url": "https://www.linuxtoday.com/feed"
     },
@@ -4363,13 +4379,13 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Music",
+        "subcategory_name": "Spam",
         "title": "Listen To This",
         "url": "https://www.reddit.com/r/listentothis/.rss"
     },
     {
         "age": 0,
-        "category_name": "New",
+        "category_name": "Movies",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/ytc/AGIKgqOP43-CCCy0TTO-vEgeywkpDC6a_3mIu0ATipZn=s48-c-k-c0x00ffffff-no-rj",
@@ -4379,13 +4395,13 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/280",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "New",
+        "subcategory_name": "Movies",
         "title": "Literature Devil",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCz1fTbwui7o5aDZ6W1dOLTQ"
     },
     {
         "age": 0,
-        "category_name": "News",
+        "category_name": "Tech",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/ytc/AL5GRJXkraGAqXfW9Hmo1hoL3FS_HPNS9aes1-Qmfm8H=s48-c-k-c0x00ffffff-no-rj",
@@ -4395,7 +4411,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/135",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Tech",
+        "subcategory_name": "Entertainment",
         "title": "LMG Clips",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFLFc8Lpbwt4jPtY1_Ai5yA"
     },
@@ -4433,7 +4449,7 @@
     },
     {
         "age": 0,
-        "category_name": "New",
+        "category_name": "Politics",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://www.louderwithcrowder.com/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yMzE1NTQ3MS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc1MjE1Njc1MH0.cVUGcJzdyyjj3xKR7tPeQKtnP3_3j0yJ-3yt3wA91m8/image.png?width=210",
@@ -4443,7 +4459,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/41",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "New",
+        "subcategory_name": "Conservative",
         "title": "Louder With Crowder",
         "url": "https://louderwithcrowder.com/feed"
     },
@@ -4475,13 +4491,13 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/233",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Tabletop",
+        "subcategory_name": "Tabletop Games",
         "title": "Luetin09",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8RfCCzWsMgNspTI-GTFenQ"
     },
     {
         "age": 0,
-        "category_name": "New",
+        "category_name": "Tech",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/7l9aOhoVfVYSUCR3yQSfWtEwgEG8RCn6ugf0KhJhl-Als3LysQShCk130AVy0azeHe1IcoFGPc8=s48-c-k-c0x00ffffff-no-rj",
@@ -4491,13 +4507,13 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/96",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "New",
+        "subcategory_name": "Entertainment",
         "title": "Luke Smith",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA"
     },
     {
         "age": 0,
-        "category_name": "New",
+        "category_name": "Personal",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://lukesmith.xyz/favicon.ico",
@@ -4507,7 +4523,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/18",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "New",
+        "subcategory_name": "Personal",
         "title": "Luke Smith's Webpage on Luke's Webpage",
         "url": "https://lukesmith.xyz/rss.xml"
     },
@@ -4545,7 +4561,7 @@
     },
     {
         "age": 0,
-        "category_name": "Hobby",
+        "category_name": "Video Games",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/ytc/AL5GRJVpuKY3rNk3posvt07T9rnor2UuhU_xf0KgCm7O7A=s48-c-k-c0x00ffffff-no-rj",
@@ -4571,7 +4587,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/194",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Art",
+        "subcategory_name": "Drawing",
         "title": "Marc Brunet",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKtu_JtQCY0yryIy6zK4ZCg"
     },
@@ -4763,7 +4779,7 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Tabletop",
+        "subcategory_name": "Tabletop Games",
         "title": "Miscast",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUtsRCYEE-hCPsftezm9wzA"
     },
@@ -4801,7 +4817,7 @@
     },
     {
         "age": 0,
-        "category_name": "New",
+        "category_name": "Entertainment",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/ytc/AL5GRJV4GnuUCV3C35PFuSOmMTcmGYDT5OHt4eBLIKibrw=s48-c-k-c0x00ffffff-no-rj",
@@ -4811,7 +4827,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/99",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "New",
+        "subcategory_name": "Drama",
         "title": "Moon",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmFeOdJI3IXgTBDzqBLD8qg"
     },
@@ -4849,7 +4865,7 @@
     },
     {
         "age": 0,
-        "category_name": "Hobby",
+        "category_name": "Movies",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://b.thumbs.redditmedia.com/86fsvFSWKE7feM8yhBOjLAtwj20x5c4ofwcXQWwy1iM.png",
@@ -4859,7 +4875,7 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Movies",
+        "subcategory_name": "Spam",
         "title": "Movie News and Discussion",
         "url": "https://www.reddit.com/r/movies/.rss"
     },
@@ -4934,14 +4950,14 @@
         "export_to_cms": true,
         "favicon": "https://tvn24.pl/favicon.ico",
         "fetch_period": 3600,
-        "id": 319,
+        "id": 320,
         "language": "pl-PL",
-        "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/49",
+        "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/50",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "News",
+        "subcategory_name": "Poland",
         "title": "Najnowsze wiadomo\u015bci - TVN24",
-        "url": "https://tvn24.pl/wiadomosci-z-kraju,3.xml"
+        "url": "https://tvn24.pl/wiadomosci-ze-swiata,2.xml"
     },
     {
         "age": 0,
@@ -4950,14 +4966,14 @@
         "export_to_cms": true,
         "favicon": "https://tvn24.pl/favicon.ico",
         "fetch_period": 3600,
-        "id": 320,
+        "id": 319,
         "language": "pl-PL",
-        "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/50",
+        "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/49",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "News",
+        "subcategory_name": "Poland",
         "title": "Najnowsze wiadomo\u015bci - TVN24",
-        "url": "https://tvn24.pl/wiadomosci-ze-swiata,2.xml"
+        "url": "https://tvn24.pl/wiadomosci-z-kraju,3.xml"
     },
     {
         "age": 0,
@@ -5099,7 +5115,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/124",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "News",
+        "subcategory_name": "World",
         "title": "NBC News World News",
         "url": "https://feeds.nbcnews.com/nbcnews/public/world"
     },
@@ -5211,7 +5227,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/587",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "News",
+        "subcategory_name": "New Zealand",
         "title": "New Zealand Herald",
         "url": "https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml&amp"
     },
@@ -5307,7 +5323,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/588",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "News",
+        "subcategory_name": "Australia",
         "title": "news.com.au \u2014 Australia\u2019s leading news site | Travel",
         "url": "https://www.news.com.au/content-feeds/latest-news-travel"
     },
@@ -5361,7 +5377,7 @@
     },
     {
         "age": 0,
-        "category_name": "Random",
+        "category_name": "Entertainment",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/Y62BqMzEqV6-KSU9q369agl8T__tEqBvGcMcUEbr_pqRMAFh7TwaLLjI4xbezTVpURNPNbdqdcc=s48-c-k-c0x00ffffff-no-rj",
@@ -5371,7 +5387,7 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Random",
+        "subcategory_name": "Entertainment",
         "title": "Niekryty Krytyk",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCura5JPb8QkzXrMfAxq4Ssw"
     },
@@ -5393,7 +5409,7 @@
     },
     {
         "age": 0,
-        "category_name": "New",
+        "category_name": "Personal",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://notrelated.xyz/thumbs/S01E00.png",
@@ -5403,7 +5419,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/19",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "New",
+        "subcategory_name": "Personal",
         "title": "Not Related! A Big-Braned Podcast",
         "url": "https://notrelated.xyz/rss"
     },
@@ -5473,7 +5489,7 @@
     },
     {
         "age": 0,
-        "category_name": "News",
+        "category_name": "Tech",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png",
@@ -5515,13 +5531,13 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/45",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "News",
+        "subcategory_name": "World",
         "title": "NYT > World News",
         "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"
     },
     {
         "age": 0,
-        "category_name": "New",
+        "category_name": "News",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://observer.com/wp-content/themes/newyorkobserver-2014/images/favicons/favicon-32x32.png",
@@ -5531,7 +5547,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/614",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "New",
+        "subcategory_name": "News",
         "title": "Observer",
         "url": "http://www.observer.com/feed"
     },
@@ -5563,7 +5579,7 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Tech",
+        "subcategory_name": "AI",
         "title": "OpenAI",
         "url": "https://www.reddit.com/r/OpenAI/.rss"
     },
@@ -5579,7 +5595,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/528",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "News",
+        "subcategory_name": "Pakistan",
         "title": "Pakistan Observer",
         "url": "https://pakobserver.net/feed"
     },
@@ -5633,10 +5649,10 @@
     },
     {
         "age": 0,
-        "category_name": "Hobby",
+        "category_name": "Movies",
         "enabled": true,
         "export_to_cms": true,
-        "favicon": null,
+        "favicon": "https://www.youtube.com/img/desktop/yt_1200.png",
         "fetch_period": 3600,
         "id": 607,
         "language": "en",
@@ -5681,7 +5697,7 @@
     },
     {
         "age": 0,
-        "category_name": "Tech",
+        "category_name": "Video Games",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://vanilla.futurecdn.net/pcgamer/840541/favicon.ico",
@@ -5707,7 +5723,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/450",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Tech",
+        "subcategory_name": "News",
         "title": "PCWorld",
         "url": "https://www.pcworld.com/feed"
     },
@@ -5723,13 +5739,13 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/75",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Tech",
+        "subcategory_name": "News",
         "title": "PCWorld",
         "url": "https://www.pcworld.com/index.rss"
     },
     {
         "age": 0,
-        "category_name": "News",
+        "category_name": "Entertainment",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/ytc/AL5GRJWOhJOuUC6C2b7gP-5D2q6ypXbcOOckyAE1En4RUQ=s48-c-k-c0x00ffffff-no-rj",
@@ -5739,7 +5755,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/232",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "News",
+        "subcategory_name": "Drama",
         "title": "penguinz0",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCq6VFHwMzcMXbuKyG7SQYIg"
     },
@@ -5783,11 +5799,11 @@
         "favicon": "https://b.thumbs.redditmedia.com/zonmOxJ9751w7fyBxTIhTW8NMP7WLSFjQuOEwTUOG2k.png",
         "fetch_period": 3600,
         "id": 530,
-        "language": "",
+        "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Tech",
+        "subcategory_name": "Piracy",
         "title": "Piracy: \ua731\u1d00\u026a\u029f \u1d1b\u029c\u1d07 \u029c\u026a\u0262\u029c \ua731\u1d07\u1d00\ua731",
         "url": "https://www.reddit.com/r/Piracy/.rss"
     },
@@ -5809,7 +5825,7 @@
     },
     {
         "age": 0,
-        "category_name": "Tabletop games",
+        "category_name": "Hobby",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/dVBrqyvDL66uIh91epwInZq0Q2TxUT6g3b3LXJ8ASh16d1L2LHnFIQGs4FTSOBJ3dOmGrqmRFw=s48-c-k-c0x00ffffff-no-rj",
@@ -5819,13 +5835,13 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Warhammer",
+        "subcategory_name": "Tabletop Games",
         "title": "Play On Tabletop",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJ4-WFTrDNWvcM7dEC6E2mw"
     },
     {
         "age": 0,
-        "category_name": "Hobby",
+        "category_name": "Video Games",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/uiQh9JC7wAmCl63jhNilJvAcqNbwnMmUf5FUCQBecipe6yGmUWpPvAMVixALEt6xpPOVbsouzw=s48-c-k-c0x00ffffff-no-rj",
@@ -5841,7 +5857,7 @@
     },
     {
         "age": 0,
-        "category_name": "New",
+        "category_name": "Personal",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://i0.wp.com/pluralistic.net/wp-content/uploads/2020/02/cropped-guillotine-French-Revolution.jpg?fit=32%2C32&ssl=1",
@@ -5851,7 +5867,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/311",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "New",
+        "subcategory_name": "Personal",
         "title": "Pluralistic: Daily links from Cory Doctorow",
         "url": "https://pluralistic.net/feed"
     },
@@ -5931,7 +5947,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/53",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "News",
+        "subcategory_name": "World",
         "title": "Polsat News - Wiadomo\u015bci - \u015awiat",
         "url": "https://www.polsatnews.pl/rss/swiat.xml"
     },
@@ -5947,7 +5963,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/56",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "News",
+        "subcategory_name": "Poland",
         "title": "Polska - Wydarzenia w INTERIA.PL",
         "url": "https://wydarzenia.interia.pl/polska/feed"
     },
@@ -5963,13 +5979,13 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "News",
+        "subcategory_name": "Poland",
         "title": "Polski Subreddit",
         "url": "https://www.reddit.com/r/Polska/.rss"
     },
     {
         "age": 0,
-        "category_name": "News",
+        "category_name": "Tech",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://cdn.vox-cdn.com/community_logos/51927/38.png",
@@ -5979,7 +5995,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/532",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Tech",
+        "subcategory_name": "News",
         "title": "Polygon",
         "url": "https://www.polygon.com/rss/index.xml"
     },
@@ -6033,7 +6049,7 @@
     },
     {
         "age": 0,
-        "category_name": "New",
+        "category_name": "Entertainment",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/ytc/AL5GRJXxw6Z2O6R2LSeCbDFhcBITwJiVxR7-tFOW663eXg=s48-c-k-c0x00ffffff-no-rj",
@@ -6043,7 +6059,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/217",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "New",
+        "subcategory_name": "Entertainment",
         "title": "PowerfulJRE",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzQUP1qoWDoEbmsQxvdjxgQ"
     },
@@ -6065,7 +6081,7 @@
     },
     {
         "age": 0,
-        "category_name": "Hobby",
+        "category_name": "Comics",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://c.thumbs.redditmedia.com/uIbyX8MSVa0J6mKV.png",
@@ -6193,7 +6209,7 @@
     },
     {
         "age": 0,
-        "category_name": "Random",
+        "category_name": "Entertainment",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/ytc/AIdro_mDRRWUwxrkuyS_TkrOEpPwqwuFTUEDCJIVd5SNnm1PWkc=s48-c-k-c0x00ffffff-no-rj",
@@ -6203,16 +6219,16 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Random",
+        "subcategory_name": "Entertainment",
         "title": "Qxir",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGHDQtN_vzFYJaq_Fx1eikg"
     },
     {
         "age": 0,
-        "category_name": "Hobby",
+        "category_name": "Tech",
         "enabled": true,
         "export_to_cms": true,
-        "favicon": null,
+        "favicon": "https://www.redditstatic.com/shreddit/assets/favicon/192x192.png",
         "fetch_period": 3600,
         "id": 620,
         "language": "en",
@@ -6225,7 +6241,7 @@
     },
     {
         "age": 0,
-        "category_name": "New",
+        "category_name": "Movies",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://b.thumbs.redditmedia.com/AQ_47wQPWDOEuP0LohFeFYpoa3fdLcqWrgIxDYvU_PI.png",
@@ -6235,13 +6251,13 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "New",
+        "subcategory_name": "Spam",
         "title": "/r/Anime",
         "url": "https://www.reddit.com/r/anime/.rss"
     },
     {
         "age": 0,
-        "category_name": "Hobby",
+        "category_name": "History",
         "enabled": true,
         "export_to_cms": true,
         "favicon": null,
@@ -6251,7 +6267,7 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Hobby",
+        "subcategory_name": "History",
         "title": "RareHistoricalPhotos",
         "url": "https://www.reddit.com/r/RareHistoricalPhotos/.rss"
     },
@@ -6273,7 +6289,7 @@
     },
     {
         "age": 0,
-        "category_name": "New",
+        "category_name": "Politics",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://reclaimthenet.org/wp-content/uploads/fbrfg/favicon-32x32.png",
@@ -6283,7 +6299,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/112",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "New",
+        "subcategory_name": "Conspiracy Theories",
         "title": "Reclaim The Net",
         "url": "https://reclaimthenet.org/feed"
     },
@@ -6305,7 +6321,71 @@
     },
     {
         "age": 0,
-        "category_name": "Hobby",
+        "category_name": "3D Printing",
+        "enabled": true,
+        "export_to_cms": true,
+        "favicon": null,
+        "fetch_period": 3600,
+        "id": 628,
+        "language": "en-US",
+        "proxy_location": "",
+        "remove_after_days": 0,
+        "source_type": "BaseParsePlugin",
+        "subcategory_name": "3D Printing",
+        "title": "Reddit - The heart of the internet",
+        "url": "https://www.reddit.com/r/3Dprinting"
+    },
+    {
+        "age": 0,
+        "category_name": "Tech",
+        "enabled": true,
+        "export_to_cms": true,
+        "favicon": null,
+        "fetch_period": 3600,
+        "id": 630,
+        "language": "en-US",
+        "proxy_location": "",
+        "remove_after_days": 0,
+        "source_type": "BaseParsePlugin",
+        "subcategory_name": "AI",
+        "title": "Reddit - The heart of the internet",
+        "url": "https://www.reddit.com/r/singularity"
+    },
+    {
+        "age": 0,
+        "category_name": "Fantasy",
+        "enabled": true,
+        "export_to_cms": true,
+        "favicon": null,
+        "fetch_period": 3600,
+        "id": 629,
+        "language": "en-US",
+        "proxy_location": "",
+        "remove_after_days": 0,
+        "source_type": "BaseParsePlugin",
+        "subcategory_name": "Fantasy",
+        "title": "Reddit - The heart of the internet",
+        "url": "https://www.reddit.com/r/scifi"
+    },
+    {
+        "age": 0,
+        "category_name": "Art",
+        "enabled": true,
+        "export_to_cms": true,
+        "favicon": null,
+        "fetch_period": 3600,
+        "id": 627,
+        "language": "en-US",
+        "proxy_location": "",
+        "remove_after_days": 0,
+        "source_type": "BaseParsePlugin",
+        "subcategory_name": "Art",
+        "title": "Reddit - The heart of the internet",
+        "url": "https://www.reddit.com/r/Art"
+    },
+    {
+        "age": 0,
+        "category_name": "Fantasy",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://b.thumbs.redditmedia.com/iHa3e1hzMXMWXlxA6lsJCuAzqPnXmcXZj1G0To_mgdQ.png",
@@ -6315,7 +6395,7 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Hobby",
+        "subcategory_name": "Fantasy",
         "title": "Reddit Fantasy",
         "url": "https://www.reddit.com/r/Fantasy/.rss"
     },
@@ -6369,7 +6449,7 @@
     },
     {
         "age": 0,
-        "category_name": "Hobby",
+        "category_name": "Video Games",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://b.thumbs.redditmedia.com/QNJs4R29QfhQCynUkFIrsbxRBRG0LJryjelgkJNFI-M.png",
@@ -6395,7 +6475,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/538",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "News",
+        "subcategory_name": "World",
         "title": "Reuters - World News",
         "url": "https://www.reuters.com/world"
     },
@@ -6433,7 +6513,7 @@
     },
     {
         "age": 0,
-        "category_name": "Hobby",
+        "category_name": "Video Games",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://b.thumbs.redditmedia.com/j8hkctmLsAxRKhZ4iM-XZdrlGxWYmpm7shNsosXn31o.png",
@@ -6475,23 +6555,23 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/534",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "News",
+        "subcategory_name": "World",
         "title": "RMF24.pl",
         "url": "https://www.rmf24.pl/feed"
     },
     {
         "age": 0,
-        "category_name": "Hobby",
+        "category_name": "Music",
         "enabled": true,
         "export_to_cms": true,
-        "favicon": null,
+        "favicon": "https://www.redditstatic.com/shreddit/assets/favicon/192x192.png",
         "fetch_period": 3600,
         "id": 538,
         "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Music",
+        "subcategory_name": "Spam",
         "title": "r/Music",
         "url": "https://www.reddit.com/r/Music/.rss"
     },
@@ -6507,7 +6587,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/575",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Tech",
+        "subcategory_name": "VR",
         "title": "Road to VR",
         "url": "https://www.roadtovr.com/feed"
     },
@@ -6577,7 +6657,7 @@
     },
     {
         "age": 0,
-        "category_name": "",
+        "category_name": "Tech",
         "enabled": true,
         "export_to_cms": true,
         "favicon": null,
@@ -6587,7 +6667,7 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "",
+        "subcategory_name": "Search",
         "title": "RSS - Really Simple Syndication",
         "url": "https://www.reddit.com/r/rss/.rss"
     },
@@ -6603,7 +6683,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/287",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "News",
+        "subcategory_name": "World",
         "title": "RSS Wiadomosci.gazeta.pl",
         "url": "https://wiadomosci.gazeta.pl/pub/rss/wiadomosci.xml"
     },
@@ -6619,13 +6699,13 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Tech",
+        "subcategory_name": "News",
         "title": "/r/Technology",
         "url": "https://www.reddit.com/r/technology/.rss"
     },
     {
         "age": 0,
-        "category_name": "New",
+        "category_name": "Politics",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/kiklvMxyTCDkEf7kGz4SXvBn1byYyZPfZ5gW-6vBNafCxbH0zUAI9AUvnzKNlTbHqCYuJdhiQg=s48-c-k-c0x00ffffff-no-rj",
@@ -6635,7 +6715,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/170",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "New",
+        "subcategory_name": "Conservative",
         "title": "Russell Brand",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCswH8ovgUp5Bdg-0_JTYFNw"
     },
@@ -6651,7 +6731,7 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Hobby",
+        "subcategory_name": "Tabletop Games Spam",
         "title": "/r/Warhammer40k - Unofficial Home of 40k on Reddit",
         "url": "https://www.reddit.com/r/Warhammer40k/.rss"
     },
@@ -6769,7 +6849,7 @@
     },
     {
         "age": 0,
-        "category_name": "Tech",
+        "category_name": "Entertainment",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://thumbnails.lbry.com/UCd6vEDS3SOhWbXZrxbrf_bw",
@@ -6779,7 +6859,7 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Tech",
+        "subcategory_name": "Entertainment",
         "title": "SAMTIME on Odysee",
         "url": "https://odysee.com/$/rss/@samtime:1"
     },
@@ -6865,7 +6945,7 @@
     },
     {
         "age": 0,
-        "category_name": "New",
+        "category_name": "Movies",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/ipqt0YXs_vHVOy6f8B_2fnwuWj8ZdOPse_IEbPrjrpkAk-NYUkX9re9D4ybfdUo5_6G3xKAd=s48-c-k-c0x00ffffff-no-rj",
@@ -6875,7 +6955,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/209",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "New",
+        "subcategory_name": "Movies",
         "title": "Screen Junkies",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOpcACMWblDls9Z6GERVi1A"
     },
@@ -6907,7 +6987,7 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Tech",
+        "subcategory_name": "Search",
         "title": "Search Engine Optimization: The Latest SEO News",
         "url": "https://www.reddit.com/r/SEO/.rss"
     },
@@ -6923,13 +7003,13 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Tech",
+        "subcategory_name": "Search",
         "title": "Search Engines",
         "url": "https://www.reddit.com/r/searchengines/.rss"
     },
     {
         "age": 0,
-        "category_name": "Hobby",
+        "category_name": "Video Games",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/8UWDsUxlEkpebdZMsigdG6mTZFkr3JmW6KbshoAZNz5qXBYJ9-BYmaP2yn9eTIUcd1ZOWRsDlw=s48-c-k-c0x00ffffff-no-rj",
@@ -7025,7 +7105,7 @@
     },
     {
         "age": 0,
-        "category_name": "New",
+        "category_name": "Personal",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://seths.blog/wp-content/themes/godin/img/favicons/android-chrome-192x192.png",
@@ -7035,7 +7115,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/328",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "New",
+        "subcategory_name": "Personal",
         "title": "Seth's Blog",
         "url": "https://seths.blog/feed"
     },
@@ -7147,7 +7227,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/572",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Tabletop",
+        "subcategory_name": "Tabletop Games",
         "title": "Spikey Bits",
         "url": "https://spikeybits.com/feed"
     },
@@ -7163,13 +7243,13 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/176",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Tabletop",
+        "subcategory_name": "Tabletop Games",
         "title": "Squidmar Miniatures",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDvZTWvHZPTxJ4K1yTD2a1g"
     },
     {
         "age": 0,
-        "category_name": "Hobby",
+        "category_name": "Video Games",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/ytc/AL5GRJXAKbYgJTAg1tOZ-srMa-gubJe8iWsuxYOWzt4seA=s48-c-k-c0x00ffffff-no-rj",
@@ -7201,7 +7281,7 @@
     },
     {
         "age": 0,
-        "category_name": "Random",
+        "category_name": "Entertainment",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/PZX5Wvqkpst7rWvpCLWVgvp1VhGjbQ-I8UBw1vFBj7AaOStt078VjWRCiRDkOTV_4Kt--nHMGg=s48-c-k-c0x00ffffff-no-rj",
@@ -7211,13 +7291,13 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Random",
+        "subcategory_name": "Entertainment",
         "title": "Stuff You Should Know",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTb6Oy0TXI03iEUdRMR9dnw"
     },
     {
         "age": 0,
-        "category_name": "New",
+        "category_name": "Entertainment",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/ytc/AL5GRJXyXS0WZhv_ViqAU2PXyqRw5gIp4Hy_6f32W4t00g=s48-c-k-c0x00ffffff-no-rj",
@@ -7227,7 +7307,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/239",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "New",
+        "subcategory_name": "Drama",
         "title": "Sydney Watson",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSFy-1JrpZf0tFlRZfo-Rvw"
     },
@@ -7259,7 +7339,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/171",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Tabletop",
+        "subcategory_name": "Tabletop Games",
         "title": "Tabletop Minions",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2CKTY1TXQ4YQ3AHvyCgtbQ"
     },
@@ -7291,7 +7371,7 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Games",
+        "subcategory_name": "Board Games",
         "title": "Tawerna RPG",
         "url": "https://tawerna.rpg.pl/feed/"
     },
@@ -7457,7 +7537,7 @@
     },
     {
         "age": 0,
-        "category_name": "Hobby",
+        "category_name": "History",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/ytc/AL5GRJUibRzSS9sF8gpGKGOb97uTRdmXrER-g2Kp328o=s48-c-k-c0x00ffffff-no-rj",
@@ -7473,7 +7553,7 @@
     },
     {
         "age": 0,
-        "category_name": "News",
+        "category_name": "Tech",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://www.telegraph.co.uk/content/dam/telegraph-logos/Micro%2089-189w%20-%20Black.png",
@@ -7531,13 +7611,13 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/569",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Tabletop",
+        "subcategory_name": "Tabletop Games",
         "title": "TGN \u2013 Tabletop Gaming News",
         "url": "https://www.tabletopgamingnews.com/feed"
     },
     {
         "age": 0,
-        "category_name": "New",
+        "category_name": "Engineering",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/ytc/AIdro_nja6vcyrzxCwZPPWo3bpfjrilOQWA3WHrzOTWsAIZSYlM=s48-c-k-c0x00ffffff-no-rj",
@@ -7547,7 +7627,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/543",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "New",
+        "subcategory_name": "Engineering",
         "title": "The B1M",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6n8I1UDTKP1IWjQMg6_TwA"
     },
@@ -7697,7 +7777,7 @@
     },
     {
         "age": 0,
-        "category_name": "Hobby",
+        "category_name": "Random",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://a.thumbs.redditmedia.com/dL_6q7NPudiVmR2ibCaAMC9s1sSQwsPaTcCLfeCDgJ0.png",
@@ -7707,7 +7787,7 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Hobby",
+        "subcategory_name": "Random",
         "title": "The Dark Depths of YouTube",
         "url": "https://www.reddit.com/r/DeepIntoYouTube/.rss"
     },
@@ -7777,7 +7857,7 @@
     },
     {
         "age": 0,
-        "category_name": "News",
+        "category_name": "Tech",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/ytc/AL5GRJW7UysDZnui8Hd5-CvoNNO8mfObFED1BsL-yFKB=s48-c-k-c0x00ffffff-no-rj",
@@ -7787,25 +7867,9 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/158",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Tech",
+        "subcategory_name": "News",
         "title": "The Friday Checkout",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRG_N2uO405WO4P3Ruef9NA"
-    },
-    {
-        "age": 0,
-        "category_name": "News",
-        "enabled": true,
-        "export_to_cms": true,
-        "favicon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png",
-        "fetch_period": 3600,
-        "id": 341,
-        "language": "en-US",
-        "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/85",
-        "remove_after_days": 0,
-        "source_type": "BaseRssPlugin",
-        "subcategory_name": "News",
-        "title": "The Guardian",
-        "url": "https://www.theguardian.com/international/rss"
     },
     {
         "age": 0,
@@ -7819,9 +7883,25 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/167",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "News",
+        "subcategory_name": "England",
         "title": "The Guardian",
         "url": "https://www.theguardian.com/rss"
+    },
+    {
+        "age": 0,
+        "category_name": "News",
+        "enabled": true,
+        "export_to_cms": true,
+        "favicon": "https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png",
+        "fetch_period": 3600,
+        "id": 341,
+        "language": "en-US",
+        "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/85",
+        "remove_after_days": 0,
+        "source_type": "BaseRssPlugin",
+        "subcategory_name": "World",
+        "title": "The Guardian",
+        "url": "https://www.theguardian.com/international/rss"
     },
     {
         "age": 0,
@@ -7851,7 +7931,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/94",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Tech",
+        "subcategory_name": "Privacy",
         "title": "The Hated One",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjr2bPAyPV7t35MvcgT3W8Q"
     },
@@ -7889,7 +7969,7 @@
     },
     {
         "age": 0,
-        "category_name": "New",
+        "category_name": "News",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://theintercept.com/wp-content/themes/intercept/assets/icons/favicon-96x96.png",
@@ -7899,13 +7979,13 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/87",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "New",
+        "subcategory_name": "World",
         "title": "The Intercept",
         "url": "https://theintercept.com/feed/?lang=en"
     },
     {
         "age": 0,
-        "category_name": "New",
+        "category_name": "Entertainment",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://open.spotifycdn.com/cdn/images/favicon32.b64ecc03.png",
@@ -7914,8 +7994,8 @@
         "language": "en",
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/566",
         "remove_after_days": 0,
-        "source_type": "SpotifyPlugin",
-        "subcategory_name": "New",
+        "source_type": "BaseRssPlugin",
+        "subcategory_name": "Entertainment",
         "title": "The Joe Rogan Experience",
         "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk"
     },
@@ -7995,7 +8075,7 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "News",
+        "subcategory_name": "Middle East",
         "title": "The New Arab",
         "url": "https://www.newarab.com/rss"
     },
@@ -8049,7 +8129,7 @@
     },
     {
         "age": 0,
-        "category_name": "New",
+        "category_name": "Entertainment",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/ytc/AL5GRJWmcEwf9CpwGkiRVwHyOnF_ic-oFO7zqFdtnymAFg=s48-c-k-c0x00ffffff-no-rj",
@@ -8059,7 +8139,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/267",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "New",
+        "subcategory_name": "Advice",
         "title": "The School of Life",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7IcJI8PUf5Z3zKxnZvTBog"
     },
@@ -8075,7 +8155,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/555",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "News",
+        "subcategory_name": "Middle East",
         "title": "The Times of Israel",
         "url": "https://www.timesofisrael.com/feed"
     },
@@ -8139,13 +8219,13 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/557",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "News",
+        "subcategory_name": "World",
         "title": "The world this week",
         "url": "https://www.economist.com/the-world-this-week/rss.xml"
     },
     {
         "age": 0,
-        "category_name": "Tech",
+        "category_name": "Engineering",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/ytc/AIdro_luVhNF6yTdaq1SHoMmVoBAYcvUZkOBsXfEnuwcGf-G4y8=s48-c-k-c0x00ffffff-no-rj",
@@ -8155,7 +8235,7 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Tech",
+        "subcategory_name": "Engineering",
         "title": "thenewboston",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJbPGzawDH1njbqV-D5HqKw"
     },
@@ -8219,7 +8299,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/314",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "News",
+        "subcategory_name": "England",
         "title": "TIME",
         "url": "https://time.com/feed"
     },
@@ -8241,7 +8321,7 @@
     },
     {
         "age": 0,
-        "category_name": "Random",
+        "category_name": "Entertainment",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/ytc/AL5GRJXzppEM4Ckv74oqo5Aywd-mlqB8jGOQmGF7sQRUIw=s48-c-k-c0x00ffffff-no-rj",
@@ -8251,7 +8331,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/205",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Random",
+        "subcategory_name": "Entertainment",
         "title": "Tom Nicholas",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxt2r57cLastdmrReiQJkEg"
     },
@@ -8299,23 +8379,23 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "News",
+        "subcategory_name": "World",
         "title": "Top stories - Google News",
         "url": "https://news.google.com/rss?topic=h&hl=en-US&gl=US&ceid=US:en"
     },
     {
         "age": 0,
-        "category_name": "Social media",
+        "category_name": "Tech",
         "enabled": true,
         "export_to_cms": true,
-        "favicon": null,
+        "favicon": "https://www.redditstatic.com/shreddit/assets/favicon/192x192.png",
         "fetch_period": 3600,
         "id": 606,
-        "language": "",
+        "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Social media",
+        "subcategory_name": "Piracy",
         "title": "Torrents: \u1d182\u1d18 \ua730\u026a\u029f\u1d07 \ua731\u029c\u1d00\u0280\u026a\u0274\u0262",
         "url": "https://www.reddit.com/r/torrents/.rss"
     },
@@ -8388,20 +8468,20 @@
         "category_name": "Science",
         "enabled": true,
         "export_to_cms": true,
-        "favicon": null,
+        "favicon": "https://www.youtube.com/img/desktop/yt_1200.png",
         "fetch_period": 3600,
         "id": 605,
         "language": "en",
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Scienec",
+        "subcategory_name": "Science",
         "title": "Up and Atom",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSIvk78tK2TiviLQn4fSHaw"
     },
     {
         "age": 0,
-        "category_name": "Hobby",
+        "category_name": "Video Games",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/ytc/AL5GRJU_fj3IiWK7xTwPytmB2DSBI8AMuiUxNtpf4gRgMQ=s48-c-k-c0x00ffffff-no-rj",
@@ -8433,7 +8513,7 @@
     },
     {
         "age": 0,
-        "category_name": "New",
+        "category_name": "Video Games",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/bTLezv3K7WHsfZgnGXeA9Je3ZyRDM-Ey3JQgsQK6Z6Wf_2kJQ-YZn4A-URccZa3pLIsOVYqu2Q=s48-c-k-c0x00ffffff-no-rj",
@@ -8443,7 +8523,7 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "New",
+        "subcategory_name": "Video Games",
         "title": "Upper Echelon",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChI0q9a-ZcbZh7dAu_-J-hg"
     },
@@ -8529,7 +8609,7 @@
     },
     {
         "age": 0,
-        "category_name": "YouTube",
+        "category_name": "Entertainment",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/ytc/AIdro_lDt-0MljM3BxFJwWFJh8zjv9XU7DkhqYCKOzOAEu-s3jY=s48-c-k-c0x00ffffff-no-rj",
@@ -8539,13 +8619,13 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Random",
+        "subcategory_name": "Advice",
         "title": "Video Advice",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAwylBbx8RiRD3VsaYdwNTw"
     },
     {
         "age": 0,
-        "category_name": "New",
+        "category_name": "Entertainment",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/ytc/AIdro_nizkgyecNd7ASKCO8hU0xhXiPenefTh5tbIPPQeYJ3W9A=s48-c-k-c0x00ffffff-no-rj",
@@ -8555,7 +8635,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/335",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "New",
+        "subcategory_name": "Entertainment",
         "title": "Vince Vintage",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_kH5ltlZdtFAY2qV_lp2xA"
     },
@@ -8609,7 +8689,7 @@
     },
     {
         "age": 0,
-        "category_name": "Tech",
+        "category_name": "Entertainment",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/FaXFjFDVM8EECqYNXjsrjPlBSLPaV6Kfll44hCm8VtqifulHKSp7XmbsSeUfTDYWRtC_Ul_c=s48-c-k-c0x00ffffff-no-rj",
@@ -8619,13 +8699,13 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Tech",
+        "subcategory_name": "Entertainment",
         "title": "voidzilla",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC28n0tlcNSa1iPe5mettocg"
     },
     {
         "age": 0,
-        "category_name": "VR",
+        "category_name": "Tech",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/iHuv_qO5nU3FqxG0OMNnsg1SKC6PngrFH1bG3wzZ1sGHrQywOta54Mo0njbQvQi1t-0RuuKFow=s48-c-k-c0x00ffffff-no-rj",
@@ -8667,7 +8747,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/573",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Tabletop",
+        "subcategory_name": "Tabletop Games",
         "title": "Wargamer",
         "url": "https://www.wargamer.com/mainrss.xml"
     },
@@ -8683,7 +8763,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/180",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Tabletop",
+        "subcategory_name": "Tabletop Games",
         "title": "Warhammer",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwdh3MTrFq3sXlB4ct8B-Fg"
     },
@@ -8715,13 +8795,13 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Tech",
+        "subcategory_name": "Search",
         "title": "webscraping",
         "url": "https://www.reddit.com/r/webscraping/.rss"
     },
     {
         "age": 0,
-        "category_name": "Hobby",
+        "category_name": "Random",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://a.thumbs.redditmedia.com/1cuMopH1rv_toS1qWakzTXcHFt2Bm4K6fjXOgANl6o0.png",
@@ -8731,13 +8811,13 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Hobby",
+        "subcategory_name": "Random",
         "title": "Weird",
         "url": "https://www.reddit.com/r/Weird/.rss"
     },
     {
         "age": 0,
-        "category_name": "Hobby",
+        "category_name": "Tech",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://b.thumbs.redditmedia.com/cOaejl9sZCvGtLTRnqwgSpn8jc9H0t9mY4BHijyVJxw.png",
@@ -8753,7 +8833,7 @@
     },
     {
         "age": 0,
-        "category_name": "Hobby",
+        "category_name": "3D Printing",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://www.reddit.com/favicon.ico",
@@ -8763,13 +8843,13 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/535",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "DYI",
+        "subcategory_name": "3D Printing",
         "title": "Welcome to R/3D Printing! Come for the Benchy, stay for the Calibration!",
         "url": "https://www.reddit.com/r/3Dprinting/.rss"
     },
     {
         "age": 0,
-        "category_name": "New",
+        "category_name": "Entertainment",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/Qs26R6RA_ZNwCyPLsdtOS-8sM6k_TFVa6vNgFWbezvDr_mN097YVwT8fKGj5P_pY6midBYy6fQ=s48-c-k-c0x00ffffff-no-rj",
@@ -8779,13 +8859,13 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/216",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "New",
+        "subcategory_name": "Entertainment",
         "title": "Wendover Productions",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9RM-iSvTu1uPJb8X5yp3EQ"
     },
     {
         "age": 0,
-        "category_name": "Tech",
+        "category_name": "Entertainment",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/SAxka8Py6dF2heAH77kdwKmfeY-47Wr466tw70dx0ztB3A6ExSo2kgtPTDcfYw4Tgmjvaq99Fw=s48-c-k-c0x00ffffff-no-rj",
@@ -8801,7 +8881,7 @@
     },
     {
         "age": 0,
-        "category_name": "New",
+        "category_name": "News",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://epoznan.pl/new_assets/img/favicons/favicon-32x32.png",
@@ -8811,7 +8891,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/60",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "New",
+        "subcategory_name": "Local",
         "title": "Wiadomo\u015bci epoznan.pl",
         "url": "https://epoznan.pl/rss"
     },
@@ -8849,7 +8929,7 @@
     },
     {
         "age": 0,
-        "category_name": "New",
+        "category_name": "News",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://www.wired.com/favicon.ico",
@@ -8859,25 +8939,9 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/440",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "New",
+        "subcategory_name": "News",
         "title": "WIRED",
         "url": "https://www.wired.com/feed/rss"
-    },
-    {
-        "age": 0,
-        "category_name": "News",
-        "enabled": true,
-        "export_to_cms": true,
-        "favicon": "https://www.ft.com/__origami/service/image/v2/images/raw/ftlogo-v1%3Abrand-ft-logo-square-coloured?source=update-logos&width=32&height=32&format=png",
-        "fetch_period": 3600,
-        "id": 114,
-        "language": "en-US",
-        "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/133",
-        "remove_after_days": 0,
-        "source_type": "BaseRssPlugin",
-        "subcategory_name": "News",
-        "title": "World",
-        "url": "https://www.ft.com/world?format=rss"
     },
     {
         "age": 0,
@@ -8891,9 +8955,25 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/202",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "News",
+        "subcategory_name": "World",
         "title": "World",
         "url": "https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_36"
+    },
+    {
+        "age": 0,
+        "category_name": "News",
+        "enabled": true,
+        "export_to_cms": true,
+        "favicon": "https://www.ft.com/__origami/service/image/v2/images/raw/ftlogo-v1%3Abrand-ft-logo-square-coloured?source=update-logos&width=32&height=32&format=png",
+        "fetch_period": 3600,
+        "id": 114,
+        "language": "en-US",
+        "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/133",
+        "remove_after_days": 0,
+        "source_type": "BaseRssPlugin",
+        "subcategory_name": "World",
+        "title": "World",
+        "url": "https://www.ft.com/world?format=rss"
     },
     {
         "age": 0,
@@ -8907,7 +8987,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/533",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "News",
+        "subcategory_name": "World",
         "title": "World News",
         "url": "https://www.reddit.com/r/worldnews/.rss"
     },
@@ -8923,7 +9003,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/97",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "News",
+        "subcategory_name": "World",
         "title": "World news | Breaking international news",
         "url": "https://feed.theepochtimes.com/world/feed"
     },
@@ -8939,7 +9019,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/119",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Conservative",
+        "subcategory_name": "World",
         "title": "World News - Breaking international news and headlines | Sky News",
         "url": "https://feeds.skynews.com/feeds/rss/world.xml"
     },
@@ -8955,13 +9035,13 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/145",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "News",
+        "subcategory_name": "World",
         "title": "World news | The Guardian",
         "url": "https://www.theguardian.com/world/rss"
     },
     {
         "age": 0,
-        "category_name": "New",
+        "category_name": "Entertainment",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/hJYvl21SwX7OG-OrVGzxtsnMQTVL5hMC1-Lg8VUdOuj-Kwb-Uvg80vgj1nkRPgqlMu4RjlD5_A=s48-c-k-c0x00ffffff-no-rj",
@@ -8971,7 +9051,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/184",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "New",
+        "subcategory_name": "Animation",
         "title": "Worthikids",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxXu9tCU63mF1ntk89XPkzA"
     },
@@ -8987,7 +9067,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/88",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "News",
+        "subcategory_name": "World",
         "title": "WSJ.com: World News",
         "url": "https://feeds.a.dj.com/rss/RSSWorldNews.xml"
     },
@@ -9019,7 +9099,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/332",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "News",
+        "subcategory_name": "Poland",
         "title": "www.rp.pl",
         "url": "https://www.rp.pl/rss_main"
     },
@@ -9035,13 +9115,13 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/305",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "News",
+        "subcategory_name": "World",
         "title": "www.telegraph.co.uk for the latest news from the UK and around the world.",
         "url": "https://www.telegraph.co.uk/rss.xml"
     },
     {
         "age": 0,
-        "category_name": "News",
+        "category_name": "Business",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://www.wirtualnemedia.pl/new_wm_view/img/favico/android-icon-36x36.png?v=1",
@@ -9067,7 +9147,7 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/289",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "News",
+        "subcategory_name": "Poland",
         "title": "www.wirtualnemedia.pl - Internet",
         "url": "https://www.wirtualnemedia.pl/rss/wm_internet.xml"
     },
@@ -9083,13 +9163,13 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/55",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "News",
+        "subcategory_name": "Poland",
         "title": "Wydarzenia w INTERIA.PL - wiadomo\u015bci, wydarzenia",
         "url": "https://wydarzenia.interia.pl/feed"
     },
     {
         "age": 0,
-        "category_name": "Social Media",
+        "category_name": "Random",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://wykop.pl/static/img/favicons/favicon.png",
@@ -9099,13 +9179,13 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/166",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Social Media",
+        "subcategory_name": "Random",
         "title": "Wykop.pl - Strona G\u0142\u00f3wna",
         "url": "https://wykop.pl/rss"
     },
     {
         "age": 0,
-        "category_name": "Hobby",
+        "category_name": "Video Games",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/fZyX0_pDeJKJsSdo_gngQuu3Fybuo4BoBM08pEqUVEVFk7ZI0wby53cKlUURX7RwHvWbGueTrg=s48-c-k-c0x00ffffff-no-rj",
@@ -9121,10 +9201,10 @@
     },
     {
         "age": 0,
-        "category_name": "Comedy",
+        "category_name": "Comics",
         "enabled": true,
         "export_to_cms": true,
-        "favicon": null,
+        "favicon": "https://imgs.xkcd.com/comics/bakers_units_2x.png",
         "fetch_period": 3600,
         "id": 573,
         "language": "en",
@@ -9137,7 +9217,7 @@
     },
     {
         "age": 0,
-        "category_name": "New",
+        "category_name": "Entertainment",
         "enabled": true,
         "export_to_cms": true,
         "favicon": null,
@@ -9147,13 +9227,13 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "New",
+        "subcategory_name": "Popsi",
         "title": "Xyla Foxlin",
         "url": "https://www.youtube.com/channel/UCEn3fRj2e0mpqYsijxnzayg"
     },
     {
         "age": 0,
-        "category_name": "New",
+        "category_name": "Business",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://yt3.ggpht.com/ifXjPVUevGn8Imkoc0Rl4NPzlJq8P0-TnZl4jUiofwEuqXfMwzocwDnVjaU-8N3j-dPsLQezjTo=s48-c-k-c0x00ffffff-no-rj",
@@ -9163,13 +9243,13 @@
         "proxy_location": "https://renegat0x0.ddns.net/apps/rsshistory/source-json/565",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "New",
+        "subcategory_name": "Business",
         "title": "Y Combinator",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg"
     },
     {
         "age": 0,
-        "category_name": "Entertainment",
+        "category_name": "Random",
         "enabled": true,
         "export_to_cms": true,
         "favicon": "https://b.thumbs.redditmedia.com/WOHltiZv07QBMKxx4gjCsz7eftdcIHffyGxr97axlkI.png",
@@ -9179,7 +9259,7 @@
         "proxy_location": "",
         "remove_after_days": 0,
         "source_type": "BaseRssPlugin",
-        "subcategory_name": "Entertainment",
+        "subcategory_name": "Random",
         "title": "Your Account Has Been Suspended",
         "url": "https://www.reddit.com/r/4chan/.rss"
     },
