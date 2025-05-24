@@ -33,6 +33,11 @@
  - date_published: 2025-01-20T13:13:18+00:00
  - tags: ['anthony fauci', 'joe biden']
 
+ ## $500m-valued Suno hit with new copyright lawsuit from Germany’s GEMA - Music Business Worldwide
+ - [https://www.musicbusinessworldwide.com/500m-valued-suno-hit-with-new-copyright-lawsuit-from-germanys-gema](https://www.musicbusinessworldwide.com/500m-valued-suno-hit-with-new-copyright-lawsuit-from-germanys-gema)
+ - date_published: 2025-01-21T09:57:57+00:00
+ - tags: ['artificial intelligence']
+
  ## Opinion | Trump finds a new way for foreign governments to pay him off: Crypto
  - [https://www.washingtonpost.com/opinions/2025/01/21/trump-crypto-ponzi-scheme](https://www.washingtonpost.com/opinions/2025/01/21/trump-crypto-ponzi-scheme)
  - date_published: 2025-01-21T13:30:00+00:00
