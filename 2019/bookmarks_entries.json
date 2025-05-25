@@ -1545,15 +1545,15 @@
         "comments": [],
         "date_created": "2025-01-14T15:39:01.949767+00:00",
         "date_dead_since": null,
-        "date_published": "2019-04-30T16:38:46+00:00",
+        "date_published": "2019-04-30T09:36:00+00:00",
         "description": "W 2015 roku \u00f3wczesny szef MON Antoni Macierewicz nakaza\u0142 przeprowadzi\u0107 wej\u015bcie do Centrum Eksperckiego Kontrwywiadu NAT\u2026",
         "id": 1901898,
         "language": "pl",
         "link": "https://wiadomosci.wp.pl/macierewicz-nakazal-wlamanie-do-siedziby-nato-sad-wydal-wyrok-6375896563074689a",
         "manual_status_code": 0,
-        "page_rating": 27,
-        "page_rating_contents": 85,
-        "page_rating_visits": 0,
+        "page_rating": 30,
+        "page_rating_contents": 86,
+        "page_rating_visits": 2,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "",
@@ -1561,7 +1561,7 @@
         "tags": [
             "pis"
         ],
-        "thumbnail": null,
+        "thumbnail": "https://v.wpimg.pl/ZXdpY3oudTkFEi8AQA54LEZKe1oGV3Z6EVJjEUBEaWtXCHZXQQIqMQkXd0MDWmtvVEZtBFdCb2BJR2gHVk1ta1xDdl4OFjM9FhUuWgwPdDIUF3tO",
         "title": "Macierewicz nakaza\u0142 w\u0142amanie do siedziby NATO. S\u0105d wyda\u0142 wyrok",
         "vote": 0
     },

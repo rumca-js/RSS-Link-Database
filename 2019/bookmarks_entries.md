@@ -257,7 +257,7 @@
 
  ## Macierewicz nakazał włamanie do siedziby NATO. Sąd wydał wyrok
  - [https://wiadomosci.wp.pl/macierewicz-nakazal-wlamanie-do-siedziby-nato-sad-wydal-wyrok-6375896563074689a](https://wiadomosci.wp.pl/macierewicz-nakazal-wlamanie-do-siedziby-nato-sad-wydal-wyrok-6375896563074689a)
- - date_published: 2019-04-30T16:38:46+00:00
+ - date_published: 2019-04-30T09:36:00+00:00
  - tags: ['pis']
 
  ## Pre-teen “Drag Kids” highlight just how fast our culture has crumbled
