@@ -413,3 +413,8 @@
  - date_published: 2025-05-17T18:31:44.176218+00:00
  - tags: ['technofeudalism']
 
+ ## Trump Taps Palantir to Create Master Database on Every American
+ - [https://newrepublic.com/post/195904/trump-palantir-data-americans](https://newrepublic.com/post/195904/trump-palantir-data-americans)
+ - date_published: 2025-05-30T00:00:00+00:00
+ - tags: ['palantir', 'privacy', 'surveillance']
+

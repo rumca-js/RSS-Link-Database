@@ -740,15 +740,15 @@
  - date_published: 2024-05-01T09:30:28+00:00
  - tags: ['antisemitism', 'antisemitism awareness act', 'censorship', 'israel', 'moderation']
 
+ ## Independent publishers are being demoted to give way to big sites on Google
+ - [https://housefresh.com/how-google-decimated-housefresh](https://housefresh.com/how-google-decimated-housefresh)
+ - date_published: 2024-05-01T15:39:35+00:00
+ - tags: ['google', 'seo', 'technofeudalism']
+
  ## How the US Is Destroying Young People’s Future | Scott Galloway | TED
  - [https://www.youtube.com/watch?v=qEJ4hkpQW8E](https://www.youtube.com/watch?v=qEJ4hkpQW8E)
  - date_published: 2024-05-02T00:00:00+00:00
  - tags: ['inequality', 'real estate']
-
- ## Independent publishers are being demoted to give way to big sites on Google
- - [https://housefresh.com/how-google-decimated-housefresh](https://housefresh.com/how-google-decimated-housefresh)
- - date_published: 2024-05-02T18:31:37+00:00
- - tags: ['google', 'seo', 'technofeudalism']
 
  ## NBC News - Breaking News & Top Stories - Latest World, US & Local News
  - [https://nbcnews.com](https://nbcnews.com)
@@ -1145,7 +1145,7 @@
 
  ## I Was Born in a Cave in 1896
  - [https://www.youtube.com/watch?v=u0dxIOygGGQ](https://www.youtube.com/watch?v=u0dxIOygGGQ)
- - date_published: 2024-09-14T15:00:53+00:00
+ - date_published: 2024-09-14T00:00:00+00:00
 
  ## Data center emissions likely 662% higher than big tech claims. Can it keep up the ruse?
  - [https://www.theguardian.com/technology/2024/sep/15/data-center-gas-emissions-tech](https://www.theguardian.com/technology/2024/sep/15/data-center-gas-emissions-tech)

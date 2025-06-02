@@ -2449,5 +2449,35 @@
         "thumbnail": "https://www.thetimes.com/imageserver/image/%2F7b525f28-1624-4374-950a-63068c7204d3.jpg?crop=5175%2C2911%2C0%2C270&resize=1200",
         "title": "Chinese \u2018kill switches\u2019 found hidden in US solar farms",
         "vote": 0
+    },
+    {
+        "age": null,
+        "album": null,
+        "author": "Hafiz Rashid",
+        "bookmarked": true,
+        "comments": [],
+        "date_created": "2025-05-30T17:24:39.817128+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-30T00:00:00+00:00",
+        "description": "Trump\u2019s dystopian plan is already underway.",
+        "id": 2809549,
+        "language": "en-us",
+        "link": "https://newrepublic.com/post/195904/trump-palantir-data-americans",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "palantir",
+            "privacy",
+            "surveillance"
+        ],
+        "thumbnail": "https://images.newrepublic.com/359cd60e0bf5099bc60246300e3939d308086bdb.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+        "title": "Trump Taps Palantir to Create Master Database on Every American",
+        "vote": 0
     }
 ]
