@@ -365,6 +365,11 @@
  - date_published: 2024-01-30T00:00:00+00:00
  - tags: ['big brother', 'orwell', 'privacy', 'surveillance']
 
+ ## Canada's Bill S-210: The Push for Widespread Age Verification
+ - [https://www.michaelgeist.ca/2024/01/bill-s-210-is-just-the-beginning-how-a-canadian-digital-lobby-group-is-promoting-a-standard-to-foster-widespread-adoption-of-age-verification-technologies-in-canada](https://www.michaelgeist.ca/2024/01/bill-s-210-is-just-the-beginning-how-a-canadian-digital-lobby-group-is-promoting-a-standard-to-foster-widespread-adoption-of-age-verification-technologies-in-canada)
+ - date_published: 2024-01-31T12:55:50+00:00
+ - tags: ['biometricks', 'privacy', 'surveillance']
+
  ## Christian Vet Charged With Hate Crime For Taking a Patriotic Stand Against Satanic Statue Displayed at Iowa's Capitol
  - [https://www.louderwithcrowder.com/cassidy-hate-crime](https://www.louderwithcrowder.com/cassidy-hate-crime)
  - date_published: 2024-01-31T17:30:09+00:00
@@ -758,11 +763,6 @@
  - [https://restofworld.org/2024/tiktok-chinese-us-ban](https://restofworld.org/2024/tiktok-chinese-us-ban)
  - date_published: 2024-05-07T10:00:00+00:00
  - tags: ['china', 'tiktok']
-
- ## Canada's Bill S-210: The Push for Widespread Age Verification
- - [https://www.michaelgeist.ca/2024/01/bill-s-210-is-just-the-beginning-how-a-canadian-digital-lobby-group-is-promoting-a-standard-to-foster-widespread-adoption-of-age-verification-technologies-in-canada](https://www.michaelgeist.ca/2024/01/bill-s-210-is-just-the-beginning-how-a-canadian-digital-lobby-group-is-promoting-a-standard-to-foster-widespread-adoption-of-age-verification-technologies-in-canada)
- - date_published: 2024-05-08T14:33:00+00:00
- - tags: ['biometricks', 'privacy', 'surveillance']
 
  ## Unrwa Jerusalem HQ closed after ‘Israeli extremist’ arson attack
  - [https://www.theguardian.com/global-development/article/2024/may/09/unrwa-jerusalem-hq-closed-after-israeli-extremist-arson-attack](https://www.theguardian.com/global-development/article/2024/may/09/unrwa-jerusalem-hq-closed-after-israeli-extremist-arson-attack)
