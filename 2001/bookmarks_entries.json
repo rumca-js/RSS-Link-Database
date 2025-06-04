@@ -333,7 +333,7 @@
         "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 20,
-        "permanent": false,
+        "permanent": true,
         "source__id": 447,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGHDQtN_vzFYJaq_Fx1eikg",
         "status_code": 200,

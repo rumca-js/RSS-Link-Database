@@ -2479,5 +2479,34 @@
         "thumbnail": "https://images.newrepublic.com/359cd60e0bf5099bc60246300e3939d308086bdb.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
         "title": "Trump Taps Palantir to Create Master Database on Every American",
         "vote": 0
+    },
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_created": "2025-06-03T20:35:58.195600+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-06-03T20:37:03.792772+00:00",
+        "description": "A new working group has been established to provide government with a working definition of Anti-Muslim Hatred/Islamophobia.",
+        "id": 2841291,
+        "language": "en",
+        "link": "https://www.gov.uk/government/news/government-launches-working-group-on-anti-muslim-hatredislamophobia-definition",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 86,
+        "page_rating_visits": 2,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "hate speech",
+            "islamophobia"
+        ],
+        "thumbnail": "https://assets.publishing.service.gov.uk/media/67c1c8fe68a61757838d2155/s960_MHCLG_Logo_Teal_BG.png",
+        "title": "Government launches working group on Anti-Muslim Hatred/Islamophobia definition",
+        "vote": 0
     }
 ]
