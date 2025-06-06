@@ -145,6 +145,11 @@
  - date_published: 2025-02-15T18:18:52+00:00
  - tags: ['billionaires', 'china', 'corporations', 'google', 'russia']
 
+ ## Stand Up Meetings Be Like
+ - [https://www.youtube.com/watch?v=IBZtTW0pXLE](https://www.youtube.com/watch?v=IBZtTW0pXLE)
+ - date_published: 2025-02-16T00:00:00+00:00
+ - tags: ['funny']
+
  ## National Security Study Memorandum 200 - Wikipedia
  - [https://en.wikipedia.org/wiki/National_Security_Study_Memorandum_200](https://en.wikipedia.org/wiki/National_Security_Study_Memorandum_200)
  - date_published: 2025-02-17T08:30:10+00:00

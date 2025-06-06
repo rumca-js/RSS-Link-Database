@@ -156,6 +156,11 @@
  - date_published: 2020-02-12T09:13:20+00:00
  - tags: ['leader', 'managment', 'programming']
 
+ ## This is what happens when you reply to spam email l TED
+ - [https://www.youtube.com/watch?v=4o5hSxvN_-s](https://www.youtube.com/watch?v=4o5hSxvN_-s)
+ - date_published: 2020-02-13T00:00:00+00:00
+ - tags: ['funny', 'spam']
+
  ## Facebook, Amazon, Google and more met with WHO to figure out how to stop coronavirus misinformation
  - [https://www.cnbc.com/2020/02/14/facebook-google-amazon-met-with-who-to-talk-coronavirus-misinformation.html](https://www.cnbc.com/2020/02/14/facebook-google-amazon-met-with-who-to-talk-coronavirus-misinformation.html)
  - date_published: 2020-02-14T13:01:29+00:00

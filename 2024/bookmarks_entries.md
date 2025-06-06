@@ -1125,7 +1125,6 @@
  - [https://www.reuters.com/technology/us-calls-big-tech-help-evade-online-censors-russia-iran-2024-09-05](https://www.reuters.com/technology/us-calls-big-tech-help-evade-online-censors-russia-iran-2024-09-05)
  - date_published: 2024-09-05T00:00:00+00:00
  - tags: ['censorship', 'privacy', 'surveillance']
- - date_dead_since: 2025-01-26T19:47:17.076720+00:00
 
  ## Google searches are becoming a bigger target of cybercriminals with the rise of 'malvertising'
  - [https://www.cnbc.com/2024/09/05/google-searches-big-target-for-malvertising-hackers.html](https://www.cnbc.com/2024/09/05/google-searches-big-target-for-malvertising-hackers.html)

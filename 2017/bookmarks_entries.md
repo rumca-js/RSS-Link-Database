@@ -303,6 +303,11 @@
  - date_published: 2017-08-03T00:00:00+00:00
  - tags: ['ben shapiro', 'joe rogan', 'the left wing', 'transgender']
 
+ ## Siri vs Alexa
+ - [https://www.youtube.com/watch?v=f_1dhKsELzs](https://www.youtube.com/watch?v=f_1dhKsELzs)
+ - date_published: 2017-08-04T00:00:00+00:00
+ - tags: ['funny']
+
  ## SZWECJA: Terroryści są dobrymi rodzicami! Polakom zabiorą dzieci za nadopiekuńczość
  - [https://newsbook.pl/2017/08/05/szwecja-terrorysci-moga-byc-dobrymi-rodzicami-polakom-zabiora-dzieci-za-nadopiekunczosc](https://newsbook.pl/2017/08/05/szwecja-terrorysci-moga-byc-dobrymi-rodzicami-polakom-zabiora-dzieci-za-nadopiekunczosc)
  - date_published: 2017-08-05T08:54:59+00:00
