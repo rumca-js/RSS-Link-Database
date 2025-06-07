@@ -45,7 +45,7 @@
 
  ## Enviromental groups got EU subsidies to lobby for Timmermans' green plans: report
  - [https://nltimes.nl/2025/01/22/enviromental-groups-got-eu-subsidies-lobby-timmermans-green-plans-report](https://nltimes.nl/2025/01/22/enviromental-groups-got-eu-subsidies-lobby-timmermans-green-plans-report)
- - date_published: 2025-01-22T09:37:56+00:00
+ - date_published: 2025-01-22T08:37:56+00:00
  - tags: ['climate change', 'manufacturing consent', 'pollutions']
 
  ## Solar plant off I-15 near Las Vegas faces cloudy future; units closing — PHOTOS
