@@ -4471,7 +4471,7 @@
         "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 30,
-        "permanent": false,
+        "permanent": true,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAuUUnT6oDeKwE6v1NGQxug",
         "status_code": 200,
         "tags": [
@@ -6920,7 +6920,7 @@
         "page_rating_contents": 86,
         "page_rating_visits": 2,
         "page_rating_votes": 50,
-        "permanent": false,
+        "permanent": true,
         "source__id": 342,
         "source_url": "https://www.theguardian.com/world/rss",
         "status_code": 200,
