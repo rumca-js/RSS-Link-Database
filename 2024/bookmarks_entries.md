@@ -776,7 +776,7 @@
 
  ## Romance author gets locked out of Google Docs for "inappropriate" content
  - [https://www.dexerto.com/tech/romance-author-gets-locked-out-of-google-docs-for-inappropriate-content-2713004](https://www.dexerto.com/tech/romance-author-gets-locked-out-of-google-docs-for-inappropriate-content-2713004)
- - date_published: 2024-05-15T02:31:25+00:00
+ - date_published: 2024-05-10T10:08:45+00:00
  - tags: ['moderation', 'privacy', 'technofeudalism']
 
  ## Jeffrey Epstein's notorious 'little black book' containing the names of 349 of dead pedophile's associates is put up for auction

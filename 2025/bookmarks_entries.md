@@ -69,7 +69,7 @@
 
  ## Amazon secretly tracked Californian consumers via cellphones, lawsuit alleges
  - [https://www.fastcompany.com/91269436/amazon-tracked-californian-consumers-cellphones-lawsuit](https://www.fastcompany.com/91269436/amazon-tracked-californian-consumers-cellphones-lawsuit)
- - date_published: 2025-01-29T23:28:54.312800+00:00
+ - date_published: 2025-01-29T22:00:00+00:00
  - tags: ['privacy', 'surveillance', 'technofeudalism']
 
  ## Breaking: Vital Long COVID data taken down following Trump order - The Sick Times
@@ -427,4 +427,9 @@
  - [https://www.gov.uk/government/news/government-launches-working-group-on-anti-muslim-hatredislamophobia-definition](https://www.gov.uk/government/news/government-launches-working-group-on-anti-muslim-hatredislamophobia-definition)
  - date_published: 2025-06-03T20:37:03.792772+00:00
  - tags: ['hate speech', 'islamophobia']
+
+ ## Self-hosting your own media considered harmful (updated)
+ - [https://www.jeffgeerling.com/blog/2025/self-hosting-your-own-media-considered-harmful-updated](https://www.jeffgeerling.com/blog/2025/self-hosting-your-own-media-considered-harmful-updated)
+ - date_published: 2025-06-06T04:19:42+00:00
+ - tags: ['censorship', 'moderation', 'youtube']
 
