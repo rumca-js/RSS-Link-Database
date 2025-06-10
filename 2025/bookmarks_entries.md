@@ -50,7 +50,7 @@
 
  ## Solar plant off I-15 near Las Vegas faces cloudy future; units closing — PHOTOS
  - [https://www.reviewjournal.com/business/energy/ivanpah-solar-is-shutting-down-majority-of-its-plant-3268775](https://www.reviewjournal.com/business/energy/ivanpah-solar-is-shutting-down-majority-of-its-plant-3268775)
- - date_published: 2025-01-22T22:44:29+00:00
+ - date_published: 2025-01-22T21:44:29+00:00
  - tags: ['climate change']
 
  ## The proof that lockdown critics were ‘debanked’ because of their views
