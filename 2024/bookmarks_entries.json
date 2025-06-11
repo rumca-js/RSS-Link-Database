@@ -2291,7 +2291,7 @@
         "date_created": "2025-01-31T13:48:22.135155+00:00",
         "date_dead_since": null,
         "date_published": "2024-02-01T14:48:17+00:00",
-        "description": "",
+        "description": "The disturbing rise in near-miss incidents at America\u2019s airports is no accident.",
         "id": 2012353,
         "language": "en-US",
         "link": "https://www.washingtontimes.com/news/2024/feb/1/editorial-faa-turned-away-qualified-air-traffic-co",
@@ -2300,7 +2300,7 @@
         "page_rating_contents": 86,
         "page_rating_visits": 2,
         "page_rating_votes": 10,
-        "permanent": false,
+        "permanent": true,
         "source_url": "",
         "status_code": 200,
         "tags": [

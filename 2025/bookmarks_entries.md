@@ -423,6 +423,11 @@
  - date_published: 2025-05-30T00:00:00+00:00
  - tags: ['palantir', 'privacy', 'surveillance']
 
+ ## Meta Has Been Spying on Your Android Phone: Here's How to Stop It
+ - [https://www.makeuseof.com/meta-spying-android-phone-how-to-stop](https://www.makeuseof.com/meta-spying-android-phone-how-to-stop)
+ - date_published: 2025-06-03T17:06:46+00:00
+ - tags: ['facebook', 'meta', 'privacy', 'surveillance']
+
  ## Government launches working group on Anti-Muslim Hatred/Islamophobia definition
  - [https://www.gov.uk/government/news/government-launches-working-group-on-anti-muslim-hatredislamophobia-definition](https://www.gov.uk/government/news/government-launches-working-group-on-anti-muslim-hatredislamophobia-definition)
  - date_published: 2025-06-03T20:37:03.792772+00:00
