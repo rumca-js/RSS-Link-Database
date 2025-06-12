@@ -18363,7 +18363,7 @@
         "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 60,
-        "permanent": false,
+        "permanent": true,
         "source_url": "",
         "status_code": 200,
         "tags": [

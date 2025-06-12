@@ -8045,6 +8045,11 @@
  - date_published: 2023-10-23T07:50:10+00:00
  - tags: ['artificial intelligence', 'search engine']
 
+ ## Syphilis - Annual Epidemiological Report 2021
+ - [https://www.ecdc.europa.eu/en/publications-data/syphilis-annual-epidemiological-report-2021](https://www.ecdc.europa.eu/en/publications-data/syphilis-annual-epidemiological-report-2021)
+ - date_published: 2023-10-23T12:01:03+00:00
+ - tags: ['homosexuality', 'syphilis', 'the left wing']
+
  ## Software Disenchantment
  - [https://tonsky.me/blog/disenchantment](https://tonsky.me/blog/disenchantment)
  - date_published: 2023-10-23T13:17:23+00:00
@@ -8502,12 +8507,12 @@
 
  ## How Google Maps, Spotify, Shazam and More Work | WSJ Tech Behind
  - [https://www.youtube.com/watch?v=j0J-favyUeQ](https://www.youtube.com/watch?v=j0J-favyUeQ)
- - date_published: 2023-12-16T15:00:54+00:00
+ - date_published: 2023-12-16T00:00:00+00:00
  - tags: ['google maps', 'technology']
 
  ## EU countries dump billions worth of Covid vaccines
  - [https://www.politico.eu/article/europe-bonfire-covid-vaccines-coronavirus-waste-europe-analysis](https://www.politico.eu/article/europe-bonfire-covid-vaccines-coronavirus-waste-europe-analysis)
- - date_published: 2023-12-18T04:09:21.009798+00:00
+ - date_published: 2023-12-18T03:00:00+00:00
  - tags: ['covid', 'vaccines']
 
  ## Widespread FBI abuse of foreign spy law sets off "alarm bells," tech group says
@@ -8540,14 +8545,9 @@
  - date_published: 2023-12-22T22:36:53+00:00
  - tags: ['transhumanism']
 
- ## Syphilis - Annual Epidemiological Report 2021
- - [https://www.ecdc.europa.eu/en/publications-data/syphilis-annual-epidemiological-report-2021](https://www.ecdc.europa.eu/en/publications-data/syphilis-annual-epidemiological-report-2021)
- - date_published: 2023-12-23T13:01:12+00:00
- - tags: ['homosexuality', 'syphilis', 'the left wing']
-
  ## What The Prisoner's Dilemma Reveals About Life, The Universe, and Everything
  - [https://www.youtube.com/watch?v=mScpHTIi-kM](https://www.youtube.com/watch?v=mScpHTIi-kM)
- - date_published: 2023-12-23T17:00:08+00:00
+ - date_published: 2023-12-23T00:00:00+00:00
  - tags: ['prisoner dillema']
 
  ## An Antisemitic Fire Extinguisher Attack on a Menorah Has Become a Global Far-Right Meme
@@ -8570,6 +8570,11 @@
  - date_published: 2023-12-26T10:51:16+00:00
  - tags: ['christioanophobia']
 
+ ## Trusted News Initiative as example of manufacturing consent
+ - [https://www.youtube.com/watch?v=n7hdbgzd6D4](https://www.youtube.com/watch?v=n7hdbgzd6D4)
+ - date_published: 2023-12-27T00:00:00+00:00
+ - tags: ['big brother', 'covid', 'manufacturing consent', 'moderna', 'pfizer']
+
  ## Chinese Hackers Deliver Malware to Barracuda Email Security Appliances via New Zero-Day
  - [https://www.securityweek.com/chinese-hackers-deliver-malware-to-barracuda-email-security-appliances-via-new-zero-day](https://www.securityweek.com/chinese-hackers-deliver-malware-to-barracuda-email-security-appliances-via-new-zero-day)
  - date_published: 2023-12-27T12:05:30+00:00
@@ -8584,11 +8589,6 @@
  - [https://www.bbc.com/news/technology-67826601](https://www.bbc.com/news/technology-67826601)
  - date_published: 2023-12-27T17:45:35+00:00
  - tags: ['artificial intelligence', 'microsoft', 'openai']
-
- ## Trusted News Initiative as example of manufacturing consent
- - [https://www.youtube.com/watch?v=n7hdbgzd6D4](https://www.youtube.com/watch?v=n7hdbgzd6D4)
- - date_published: 2023-12-27T18:00:20+00:00
- - tags: ['big brother', 'covid', 'manufacturing consent', 'moderna', 'pfizer']
 
  ## Israeli Teen Who Refused to Enlist in the IDF Is Sentenced to 30 Days in Prison
  - [https://time.com/6551044/israeli-teen-refuses-to-enlist-in-idf](https://time.com/6551044/israeli-teen-refuses-to-enlist-in-idf)
@@ -8607,7 +8607,7 @@
 
  ## Tragic: Obese ‘body positivity’ influencers keep dying young
  - [https://www.washingtonexaminer.com/restoring-america/community-family/obese-body-positivity-influencers-dying-young](https://www.washingtonexaminer.com/restoring-america/community-family/obese-body-positivity-influencers-dying-young)
- - date_published: 2023-12-28T23:04:46+00:00
+ - date_published: 2023-12-28T18:21:41+00:00
  - tags: ['body positive', 'obesity']
 
  ## 40% of US electricity is now emissions-free

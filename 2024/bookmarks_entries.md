@@ -122,15 +122,15 @@
  - date_published: 2024-01-13T15:41:29+00:00
  - tags: ['artificial intelligence', 'corporatocracy']
 
+ ## Bringing the Amiga Sample Library into the 21st Century
+ - [https://www.youtube.com/watch?v=LvV85I0qksE](https://www.youtube.com/watch?v=LvV85I0qksE)
+ - date_published: 2024-01-14T00:00:00+00:00
+ - tags: ['amiga', 'chiptune', 'demoscene']
+
  ## Once an AI model exhibits 'deceptive behavior' it can be hard to correct, researchers at OpenAI competitor Anthropic found
  - [https://www.businessinsider.com/ai-models-can-learn-deceptive-behaviors-anthropic-researchers-say-2024-1?IR=T](https://www.businessinsider.com/ai-models-can-learn-deceptive-behaviors-anthropic-researchers-say-2024-1?IR=T)
  - date_published: 2024-01-14T12:14:35+00:00
  - tags: ['artificial intelligence']
-
- ## Bringing the Amiga Sample Library into the 21st Century
- - [https://www.youtube.com/watch?v=LvV85I0qksE](https://www.youtube.com/watch?v=LvV85I0qksE)
- - date_published: 2024-01-14T16:48:03+00:00
- - tags: ['amiga', 'chiptune', 'demoscene']
 
  ## Electric buses withdrawn in south London after fire
  - [https://www.bbc.com/news/uk-england-london-67967421](https://www.bbc.com/news/uk-england-london-67967421)
@@ -157,6 +157,11 @@
  - date_published: 2024-01-15T17:25:40+00:00
  - tags: ['subscription', 'technofeudalism']
 
+ ## AI poisoning could turn open models into destructive "sleeper agents"
+ - [https://arstechnica.com/information-technology/2024/01/ai-poisoning-could-turn-open-models-into-destructive-sleeper-agents-says-anthropic](https://arstechnica.com/information-technology/2024/01/ai-poisoning-could-turn-open-models-into-destructive-sleeper-agents-says-anthropic)
+ - date_published: 2024-01-15T23:02:35+00:00
+ - tags: ['artificial intelligence']
+
  ## FAA 'diversity' push to hire workers with 'severe intellectual' disabilities sparks concern, mockery
  - [https://www.foxnews.com/us/faa-diversity-push-hire-workers-severe-intellectual-disabilities-sparks-concern-mockery](https://www.foxnews.com/us/faa-diversity-push-hire-workers-severe-intellectual-disabilities-sparks-concern-mockery)
  - date_published: 2024-01-16T09:00:55+00:00
@@ -176,11 +181,6 @@
  - [https://www.404media.co/google-search-really-has-gotten-worse-researchers-find](https://www.404media.co/google-search-really-has-gotten-worse-researchers-find)
  - date_published: 2024-01-16T18:28:34+00:00
  - tags: ['search engines', 'seo', 'spam']
-
- ## AI poisoning could turn open models into destructive "sleeper agents"
- - [https://arstechnica.com/information-technology/2024/01/ai-poisoning-could-turn-open-models-into-destructive-sleeper-agents-says-anthropic](https://arstechnica.com/information-technology/2024/01/ai-poisoning-could-turn-open-models-into-destructive-sleeper-agents-says-anthropic)
- - date_published: 2024-01-17T14:32:34+00:00
- - tags: ['artificial intelligence']
 
  ## Remote Work Doesn't Seem to Affect Productivity, Fed Study Finds
  - [https://www.bloomberg.com/news/articles/2024-01-16/remote-work-doesn-t-seem-to-affect-productivity-fed-study-finds](https://www.bloomberg.com/news/articles/2024-01-16/remote-work-doesn-t-seem-to-affect-productivity-fed-study-finds)
@@ -260,7 +260,6 @@
  - [https://phys.org/news/2024-01-eu-car-co2-emissions.html](https://phys.org/news/2024-01-eu-car-co2-emissions.html)
  - date_published: 2024-01-24T14:47:22+00:00
  - tags: ['climate change', 'electric vehicles']
- - date_dead_since: 2025-02-01T14:14:04.853092+00:00
 
  ## Why are so many EV charging stations broken in California?
  - [https://www.latimes.com/environment/story/2024-01-24/california-ev-charging-stations-broken](https://www.latimes.com/environment/story/2024-01-24/california-ev-charging-stations-broken)
@@ -336,6 +335,11 @@
  - date_published: 2024-01-28T19:39:27+00:00
  - tags: ['fbi', 'israel', 'palestine']
 
+ ## MGS2 Was Wrong, Actually... How AI Broke The Internet
+ - [https://www.youtube.com/watch?v=DKRujmqbcSk](https://www.youtube.com/watch?v=DKRujmqbcSk)
+ - date_published: 2024-01-29T00:00:00+00:00
+ - tags: ['algorithms', 'dead internet']
+
  ## There's so much data even spies are struggling to find secrets
  - [https://www.tbsnews.net/tech/theres-so-much-data-even-spies-are-struggling-find-secrets-783446](https://www.tbsnews.net/tech/theres-so-much-data-even-spies-are-struggling-find-secrets-783446)
  - date_published: 2024-01-29T10:35:00+00:00
@@ -345,11 +349,6 @@
  - [https://www.telegraph.co.uk/world-news/2024/01/29/french-farmer-protests-latest-paris](https://www.telegraph.co.uk/world-news/2024/01/29/french-farmer-protests-latest-paris)
  - date_published: 2024-01-29T14:22:06+00:00
  - tags: ['france', 'strike']
-
- ## MGS2 Was Wrong, Actually... How AI Broke The Internet
- - [https://www.youtube.com/watch?v=DKRujmqbcSk](https://www.youtube.com/watch?v=DKRujmqbcSk)
- - date_published: 2024-01-29T17:30:03+00:00
- - tags: ['algorithms', 'dead internet']
 
  ## NSA Admits Buying American Browsing Records From Shady Markets
  - [https://www.hackread.com/nsa-buy-american-browsing-records-shady-markets](https://www.hackread.com/nsa-buy-american-browsing-records-shady-markets)
@@ -418,7 +417,7 @@
 
  ## How Viruses Become Weapons
  - [https://www.youtube.com/watch?v=15MaSayc28c](https://www.youtube.com/watch?v=15MaSayc28c)
- - date_published: 2024-02-14T13:00:02+00:00
+ - date_published: 2024-02-14T00:00:00+00:00
  - tags: ['cyber wars']
 
  ## Javier Milei’s Faith: His Catholic Roots And Love Of Judaism
@@ -436,14 +435,13 @@
 
  ## Govt Funds AI Tools for Censorship — Fulcrum7
  - [https://www.fulcrum7.com/blog/2024/2/16/govt-funds-ai-tools-for-censorship](https://www.fulcrum7.com/blog/2024/2/16/govt-funds-ai-tools-for-censorship)
- - date_published: 2024-02-16T20:31:35+00:00
+ - date_published: 2024-02-16T15:31:35+00:00
  - tags: ['artificial intelligence', 'propaganda']
 
  ## Russian-Linked Hackers Breach 80+ Organizations via Roundcube Flaws
  - [https://thehackernews.com/2024/02/russian-linked-hackers-breach-80.html](https://thehackernews.com/2024/02/russian-linked-hackers-breach-80.html)
  - date_published: 2024-02-19T05:05:00+00:00
  - tags: ['security']
- - date_dead_since: 2025-02-01T10:57:47.245081+00:00
 
  ## Chiński szpieg w odkurzaczu. Informacje z popularnych gadżetów płyną do służb
  - [https://cyfrowa.rp.pl/it/art39866681-chinski-szpieg-w-odkurzaczu-informacje-z-popularnych-gadzetow-plyna-do-sluzb](https://cyfrowa.rp.pl/it/art39866681-chinski-szpieg-w-odkurzaczu-informacje-z-popularnych-gadzetow-plyna-do-sluzb)
@@ -457,7 +455,7 @@
 
  ## Google Gemini is accused of being racist towards white people: Users claim the AI bot refuses to create images of Caucasian people - after asking for photos of Popes, Vikings, and country music fans
  - [https://www.dailymail.co.uk/sciencetech/article-13108515/Google-Gemini-racist-white-people.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/sciencetech/article-13108515/Google-Gemini-racist-white-people.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - date_published: 2024-02-21T12:41:08+00:00
+ - date_published: 2024-02-21T12:31:55+00:00
  - tags: ['inequality', 'racism', 'social engineering']
 
  ## Portland woman sentenced to 22 years for deadly stabbing of Radio Cab driver
@@ -494,6 +492,11 @@
  - date_published: 2024-02-26T00:00:00+00:00
  - tags: ['world of warcraft']
 
+ ## I Was a Heretic at the New York Times
+ - [https://www.theatlantic.com/ideas/archive/2024/02/tom-cotton-new-york-times/677546](https://www.theatlantic.com/ideas/archive/2024/02/tom-cotton-new-york-times/677546)
+ - date_published: 2024-02-26T12:31:00+00:00
+ - tags: ['manufacturing consent']
+
  ## CCLA Urges Substantial Amendments to the Online Harms Act - CCLA
  - [https://www.google.com/url?q=https://ccla.org/press-release/ccla-urges-substantial-amendments-to-the-online-harms-act/&sa=U&ved=2ahUKEwjX-OzL1N-EAxXhFBAIHVMDC6sQFnoECAMQAg&usg=AOvVaw1fVFEoS_G397B_qdkIz2ep](https://www.google.com/url?q=https://ccla.org/press-release/ccla-urges-substantial-amendments-to-the-online-harms-act/&sa=U&ved=2ahUKEwjX-OzL1N-EAxXhFBAIHVMDC6sQFnoECAMQAg&usg=AOvVaw1fVFEoS_G397B_qdkIz2ep)
  - date_published: 2024-02-28T14:27:29+00:00
@@ -518,11 +521,6 @@
  - [https://reclaimthenet.org/x-says-it-will-reduce-the-visibility-of-posts-that-purposely-ignore-a-persons-preferred-pronouns](https://reclaimthenet.org/x-says-it-will-reduce-the-visibility-of-posts-that-purposely-ignore-a-persons-preferred-pronouns)
  - date_published: 2024-03-01T19:30:36+00:00
  - tags: ['censorship', 'pronouns']
-
- ## I Was a Heretic at the New York Times
- - [https://www.theatlantic.com/ideas/archive/2024/02/tom-cotton-new-york-times/677546](https://www.theatlantic.com/ideas/archive/2024/02/tom-cotton-new-york-times/677546)
- - date_published: 2024-03-03T07:19:10+00:00
- - tags: ['manufacturing consent']
 
  ## Biden secretly dumped 320,000 ‘inadmissible’ illegal immigrants into US cities - Washington Examiner
  - [https://www.washingtonexaminer.com/news/2900755/biden-secretly-dumped-320000-inadmissible-illegal-immigrants-us-cities](https://www.washingtonexaminer.com/news/2900755/biden-secretly-dumped-320000-inadmissible-illegal-immigrants-us-cities)
@@ -568,11 +566,10 @@
  - [https://www.nytimes.com/2024/03/11/technology/carmakers-driver-tracking-insurance.html](https://www.nytimes.com/2024/03/11/technology/carmakers-driver-tracking-insurance.html)
  - date_published: 2024-03-11T09:00:50+00:00
  - tags: ['big brother', 'corporatocracy', 'electric vehicles', 'privacy', 'surveillance']
- - date_dead_since: 2025-02-01T07:36:35.474440+00:00
 
  ## Are We Watching the Internet Die?
  - [https://www.wheresyoured.at/are-we-watching-the-internet-die](https://www.wheresyoured.at/are-we-watching-the-internet-die)
- - date_published: 2024-03-11T17:19:54+00:00
+ - date_published: 2024-03-11T17:00:01+00:00
  - tags: ['artificial intelligence']
 
  ## Leaked discussions reveal uncertainty about transgender care
@@ -582,7 +579,7 @@
 
  ## A New Surge in Power Use Is Threatening U.S. Climate Goals
  - [https://www.nytimes.com/interactive/2024/03/13/climate/electric-power-climate-change.html](https://www.nytimes.com/interactive/2024/03/13/climate/electric-power-climate-change.html)
- - date_published: 2024-03-15T01:01:49+00:00
+ - date_published: 2024-03-14T09:08:36+00:00
  - tags: ['climate change']
 
  ## Planet Fitness Ends Woman’s Membership After She Complained About Man Shaving in Woman’s Locker Room — in Front of Frightened Girl.
@@ -595,34 +592,35 @@
  - date_published: 2024-03-17T16:18:00+00:00
  - tags: ['censorship', 'the left wing', 'woke']
 
+ ## Insurance Up? Your car’s snitching on you.
+ - [https://www.youtube.com/watch?v=wHStcY6_isc](https://www.youtube.com/watch?v=wHStcY6_isc)
+ - date_published: 2024-03-18T00:00:00+00:00
+ - tags: ['privacy', 'surveillance']
+
  ## SpaceX building hundreds of spy satellites for US government, report says
  - [https://arstechnica.com/tech-policy/2024/03/spacex-building-hundreds-of-spy-satellites-for-us-government-report-says](https://arstechnica.com/tech-policy/2024/03/spacex-building-hundreds-of-spy-satellites-for-us-government-report-says)
  - date_published: 2024-03-18T16:40:20+00:00
  - tags: ['surveillance']
 
- ## Insurance Up? Your car’s snitching on you.
- - [https://www.youtube.com/watch?v=wHStcY6_isc](https://www.youtube.com/watch?v=wHStcY6_isc)
- - date_published: 2024-03-18T23:00:34+00:00
- - tags: ['privacy', 'surveillance']
-
  ## In Gaza, starving children fill hospital wards as famine looms
  - [https://www.reuters.com/default/gaza-starving-children-fill-hospital-wards-famine-looms-2024-03-19](https://www.reuters.com/default/gaza-starving-children-fill-hospital-wards-famine-looms-2024-03-19)
  - date_published: 2024-03-20T00:00:00+00:00
  - tags: ['israel', 'palestine']
+ - date_dead_since: 2025-06-11T06:27:56.735146+00:00
 
  ## Scotland’s new ‘thought police’ will be the death of the Edinburgh Festival
  - [https://www.telegraph.co.uk/columnists/2024/03/21/scotland-police-hate-laws-actors-stage-crime-plays](https://www.telegraph.co.uk/columnists/2024/03/21/scotland-police-hate-laws-actors-stage-crime-plays)
  - date_published: 2024-03-20T00:00:00+00:00
  - tags: ['hate speech', 'hate speech and public order act', 'scotland']
 
+ ## Feds Ordered Google To Unmask Certain YouTube Users. Critics Say It’s ‘Terrifying.’
+ - [https://www.forbes.com/sites/thomasbrewster/2024/03/22/feds-ordered-google-to-unmask-certain-youtube-users-critics-say-its-terrifying](https://www.forbes.com/sites/thomasbrewster/2024/03/22/feds-ordered-google-to-unmask-certain-youtube-users-critics-say-its-terrifying)
+ - date_published: 2024-03-22T00:00:00+00:00
+ - tags: ['privacy', 'surveillance', 'tech control', 'technofeudalism']
+
  ## Saudi Arabia to be appointed chair of UN’s gender equality forum amid ongoing assault on women’s rights
  - [https://www.amnesty.org/en/latest/news/2024/03/saudi-arabia-to-be-appointed-chair-uns-gender-equality-forum-amid-ongoing-assault-on-womens-rights](https://www.amnesty.org/en/latest/news/2024/03/saudi-arabia-to-be-appointed-chair-uns-gender-equality-forum-amid-ongoing-assault-on-womens-rights)
  - date_published: 2024-03-22T16:55:52+00:00
-
- ## Feds Ordered Google To Unmask Certain YouTube Users. Critics Say It’s ‘Terrifying.’
- - [https://www.forbes.com/sites/thomasbrewster/2024/03/22/feds-ordered-google-to-unmask-certain-youtube-users-critics-say-its-terrifying](https://www.forbes.com/sites/thomasbrewster/2024/03/22/feds-ordered-google-to-unmask-certain-youtube-users-critics-say-its-terrifying)
- - date_published: 2024-03-22T20:55:38+00:00
- - tags: ['privacy', 'surveillance', 'tech control', 'technofeudalism']
 
  ## Cheque Your Privilege — POV Film
  - [https://www.povfilm.org/cheque-your-privilege](https://www.povfilm.org/cheque-your-privilege)
@@ -664,15 +662,15 @@
  - date_published: 2024-04-02T03:58:00+00:00
  - tags: ['open source', 'vulnerability']
 
+ ## 'Lavender': The AI machine directing Israel's bombing in Gaza
+ - [https://www.972mag.com/lavender-ai-israeli-army-gaza](https://www.972mag.com/lavender-ai-israeli-army-gaza)
+ - date_published: 2024-04-03T13:27:36+00:00
+ - tags: ['artificial intelligence', 'hamas', 'israel', 'lavender', 'palestine']
+
  ## ‘The machine did it coldly’: Israel used AI to identify 37,000 Hamas targets
  - [https://www.theguardian.com/world/2024/apr/03/israel-gaza-ai-database-hamas-airstrikes](https://www.theguardian.com/world/2024/apr/03/israel-gaza-ai-database-hamas-airstrikes)
  - date_published: 2024-04-03T13:53:38+00:00
  - tags: ['artificial intelligence', 'israel', 'palestine', 'surveillance']
-
- ## 'Lavender': The AI machine directing Israel's bombing in Gaza
- - [https://www.972mag.com/lavender-ai-israeli-army-gaza](https://www.972mag.com/lavender-ai-israeli-army-gaza)
- - date_published: 2024-04-03T14:50:30+00:00
- - tags: ['artificial intelligence', 'hamas', 'israel', 'lavender', 'palestine']
 
  ## Google Is Killing Retro Dodo & Other Independent Sites
  - [https://retrododo.com/google-is-killing-retro-dodo](https://retrododo.com/google-is-killing-retro-dodo)
@@ -717,7 +715,6 @@
  - [https://foundation.mozilla.org/en/privacynotincluded/articles/data-hungry-dating-apps-are-worse-than-ever-for-your-privacy](https://foundation.mozilla.org/en/privacynotincluded/articles/data-hungry-dating-apps-are-worse-than-ever-for-your-privacy)
  - date_published: 2024-04-23T13:49:45+00:00
  - tags: ['privacy']
- - date_dead_since: 2025-02-01T02:34:28.725935+00:00
 
  ## How G.M. Tricked Millions of Drivers Into Being Spied On (Including Me)
  - [https://www.nytimes.com/2024/04/23/technology/general-motors-spying-driver-data-consent.html](https://www.nytimes.com/2024/04/23/technology/general-motors-spying-driver-data-consent.html)
@@ -727,7 +724,7 @@
 
  ## The Man Who Killed Google Search
  - [https://www.wheresyoured.at/the-men-who-killed-google](https://www.wheresyoured.at/the-men-who-killed-google)
- - date_published: 2024-04-23T16:43:59+00:00
+ - date_published: 2024-04-23T16:24:21+00:00
  - tags: ['google search', 'search engines']
 
  ## Australia's spies, cops want accountable encryption- a.k.a. access to backdoors
