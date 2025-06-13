@@ -1173,7 +1173,7 @@
 
  ## Car Companies Are Selling Your Personal Data For Profit
  - [https://www.youtube.com/watch?v=7Olo7B2ZydI](https://www.youtube.com/watch?v=7Olo7B2ZydI)
- - date_published: 2024-09-24T18:07:54+00:00
+ - date_published: 2024-09-24T00:00:00+00:00
  - tags: ['cars', 'privacy', 'surveillance']
 
  ## Firefox tracks you with "privacy preserving" feature

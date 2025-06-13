@@ -608,6 +608,11 @@
  - date_published: 2018-09-14T20:53:44+00:00
  - tags: ['digital dementia', 'social media']
 
+ ## Software Disenchantment
+ - [https://tonsky.me/blog/disenchantment](https://tonsky.me/blog/disenchantment)
+ - date_published: 2018-09-17T00:00:00+00:00
+ - tags: ['programming']
+
  ## Are looks important to women? (1967) | RetroFocus
  - [https://www.youtube.com/watch?v=h0njPX3SUUU](https://www.youtube.com/watch?v=h0njPX3SUUU)
  - date_published: 2018-09-17T00:00:00+00:00

@@ -119,6 +119,11 @@
  - date_published: 2020-01-30T20:15:13+00:00
  - tags: ['australia', 'covid', 'quarantine']
 
+ ## Amiga Samplers: Budget dance music in 1990
+ - [https://www.youtube.com/watch?v=i9MXYZh1jcs](https://www.youtube.com/watch?v=i9MXYZh1jcs)
+ - date_published: 2020-01-31T00:00:00+00:00
+ - tags: ['amiga', 'chiptune']
+
  ## A man lies dead in the street: the image that captures the Wuhan coronavirus crisis
  - [https://www.theguardian.com/world/2020/jan/31/a-man-lies-dead-in-the-street-the-image-that-captures-the-wuhan-coronavirus-crisis](https://www.theguardian.com/world/2020/jan/31/a-man-lies-dead-in-the-street-the-image-that-captures-the-wuhan-coronavirus-crisis)
  - date_published: 2020-01-31T07:24:23+00:00
