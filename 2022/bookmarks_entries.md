@@ -7545,6 +7545,11 @@
  - date_published: 2022-11-02T21:28:01+00:00
  - tags: ['censorship', 'facebook', 'hunter biden', 'twitter']
 
+ ## Why Modern Movies Suck - The Myth Of The "Modern Audience"
+ - [https://www.youtube.com/watch?v=F2ngB-zjVmM](https://www.youtube.com/watch?v=F2ngB-zjVmM)
+ - date_published: 2022-11-03T00:00:00+00:00
+ - tags: ['hollywood', 'movies', 'propaganda', 'the left wing']
+
  ## TikTok says staff in China can access UK and EU user data
  - [https://www.bbc.co.uk/news/business-63494951?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/business-63494951?at_medium=RSS&at_campaign=KARANGA)
  - date_published: 2022-11-03T05:05:36+00:00
@@ -7583,11 +7588,6 @@
  - [https://piunikaweb.com/2022/11/02/youtube-sorting-option-for-viewing-oldest-video-missing-heres-why](https://piunikaweb.com/2022/11/02/youtube-sorting-option-for-viewing-oldest-video-missing-heres-why)
  - date_published: 2022-11-03T14:43:55+00:00
  - tags: ['subscription', 'technofeudalism', 'youtube']
-
- ## Why Modern Movies Suck - The Myth Of The "Modern Audience"
- - [https://www.youtube.com/watch?v=F2ngB-zjVmM](https://www.youtube.com/watch?v=F2ngB-zjVmM)
- - date_published: 2022-11-03T17:50:22+00:00
- - tags: ['hollywood', 'movies', 'propaganda', 'the left wing']
 
  ## Linux Boot Partitions
  - [https://0pointer.net/blog/linux-boot-partitions.html](https://0pointer.net/blog/linux-boot-partitions.html)
@@ -7663,6 +7663,11 @@
  - date_published: 2022-11-04T21:40:00+00:00
  - tags: ['elon musk', 'meta', 'oversight board', 'twitter']
 
+ ## More Chinese can't stand the CCP as the planned economy returns to China
+ - [https://www.youtube.com/watch?v=lutHkJoBjrM](https://www.youtube.com/watch?v=lutHkJoBjrM)
+ - date_published: 2022-11-05T00:00:00+00:00
+ - tags: ['china', 'socialism']
+
  ## Musk orders Twitter to cut infrastructure costs by $1B – sources
  - [https://www.reuters.com/technology/musk-orders-twitter-cut-infrastructure-costs-by-1-bln-sources-2022-11-03](https://www.reuters.com/technology/musk-orders-twitter-cut-infrastructure-costs-by-1-bln-sources-2022-11-03)
  - date_published: 2022-11-05T02:32:06+00:00
@@ -7686,11 +7691,6 @@
  - [https://www.dailywire.com/news/only-2-of-childrens-deaths-were-from-covid-and-school-closures-didnt-reduce-the-number](https://www.dailywire.com/news/only-2-of-childrens-deaths-were-from-covid-and-school-closures-didnt-reduce-the-number)
  - date_published: 2022-11-05T18:07:40+00:00
  - tags: ['covid', 'lockdown']
-
- ## More Chinese can't stand the CCP as the planned economy returns to China
- - [https://www.youtube.com/watch?v=lutHkJoBjrM](https://www.youtube.com/watch?v=lutHkJoBjrM)
- - date_published: 2022-11-05T19:45:08+00:00
- - tags: ['china', 'socialism']
 
  ## 3D OpenStreetMap
  - [https://demo.f4map.com](https://demo.f4map.com)
@@ -7863,6 +7863,11 @@
  - date_published: 2022-11-10T00:18:07+00:00
  - tags: ['commercial', 'github', 'open source']
 
+ ## How safe is Elon Musk's bet on Tesla in China? Tesla has adjusted its sales & service strategy
+ - [https://www.youtube.com/watch?v=iEwxAJ0zgNE](https://www.youtube.com/watch?v=iEwxAJ0zgNE)
+ - date_published: 2022-11-11T00:00:00+00:00
+ - tags: ['china', 'elon musk', 'tesla']
+
  ## Global Carbon Emissions Showed No Signs Of Decline This Year, Scientists Warn
  - [https://www.forbes.com/sites/tylerroush/2022/11/10/scientists-say-global-carbon-emissions-showing-no-signs-of-decline](https://www.forbes.com/sites/tylerroush/2022/11/10/scientists-say-global-carbon-emissions-showing-no-signs-of-decline)
  - date_published: 2022-11-11T00:15:55+00:00
@@ -7922,11 +7927,6 @@
  - date_published: 2022-11-11T17:30:00+00:00
  - tags: ['ad business', 'microsoft', 'windows 11']
  - date_dead_since: 2025-03-15T21:17:50.358578+00:00
-
- ## How safe is Elon Musk's bet on Tesla in China? Tesla has adjusted its sales & service strategy
- - [https://www.youtube.com/watch?v=iEwxAJ0zgNE](https://www.youtube.com/watch?v=iEwxAJ0zgNE)
- - date_published: 2022-11-11T18:00:07+00:00
- - tags: ['china', 'elon musk', 'tesla']
 
  ## (Mastodon) Surviving and thriving through the 2022-11-05 meltdown
  - [https://blog.freeradical.zone/post/surviving-thriving-through-2022-11-05-meltdown](https://blog.freeradical.zone/post/surviving-thriving-through-2022-11-05-meltdown)
@@ -7992,6 +7992,11 @@
  - date_published: 2022-11-13T18:47:37+00:00
  - tags: ['bill gates', 'russia', 'who']
 
+ ## How Marxism is Disguised as Woke Morality | Dr. Yoram Hazony | #305
+ - [https://www.youtube.com/watch?v=D5X0tAecfF4](https://www.youtube.com/watch?v=D5X0tAecfF4)
+ - date_published: 2022-11-14T00:00:00+00:00
+ - tags: ['esg', 'jordan peterson', 'marxism', 'the left wing']
+
  ## The FBI Reportedly Came Very Close to Deploying Spyware for Domestic Surveillance
  - [https://gizmodo.com/the-fbi-reportedly-came-very-close-to-deploying-spyware-1849778042](https://gizmodo.com/the-fbi-reportedly-came-very-close-to-deploying-spyware-1849778042)
  - date_published: 2022-11-14T01:05:00+00:00
@@ -8022,11 +8027,6 @@
  - date_published: 2022-11-14T16:43:47+00:00
  - tags: ['google', 'privacy', 'tracking']
  - date_dead_since: 2025-03-15T17:12:11.300967+00:00
-
- ## How Marxism is Disguised as Woke Morality | Dr. Yoram Hazony | #305
- - [https://www.youtube.com/watch?v=D5X0tAecfF4](https://www.youtube.com/watch?v=D5X0tAecfF4)
- - date_published: 2022-11-14T17:08:04+00:00
- - tags: ['esg', 'jordan peterson', 'marxism', 'the left wing']
 
  ## China zero Covid: Violent protests in Guangzhou put curbs under strain
  - [https://www.bbc.co.uk/news/world-asia-china-63633109?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-china-63633109?at_medium=RSS&at_campaign=KARANGA)
@@ -8132,15 +8132,15 @@
  - date_published: 2022-11-18T18:49:17+00:00
  - tags: ['china', 'privacy', 'surveillance', 'tiktok']
 
+ ## 35+ Countries Are Leaving the Global Internet
+ - [https://www.youtube.com/watch?v=dprdD8j2KZw](https://www.youtube.com/watch?v=dprdD8j2KZw)
+ - date_published: 2022-11-19T00:00:00+00:00
+ - tags: ['balkanisation', 'internet', 'splinternet']
+
  ## Jeffrey Sachs Presents Evidence of Possible Lab Origin of Covid-19
  - [https://theintercept.com/2022/05/19/covid-lab-leak-evidence-jeffrey-sachs](https://theintercept.com/2022/05/19/covid-lab-leak-evidence-jeffrey-sachs)
  - date_published: 2022-11-19T13:39:08+00:00
  - tags: ['covid', 'jeffrey sachs', 'lab leak']
-
- ## 35+ Countries Are Leaving the Global Internet
- - [https://www.youtube.com/watch?v=dprdD8j2KZw](https://www.youtube.com/watch?v=dprdD8j2KZw)
- - date_published: 2022-11-20T10:49:37+00:00
- - tags: ['balkanisation', 'internet', 'splinternet']
 
  ## You cannot find me on Mastodon - stitcher.io
  - [https://stitcher.io/blog/you-cannot-find-me-on-mastodon](https://stitcher.io/blog/you-cannot-find-me-on-mastodon)
@@ -8182,6 +8182,11 @@
  - date_published: 2022-11-21T20:42:05+00:00
  - tags: ['big tech', 'censorship', 'jen psaki', 'social media', 'white house']
 
+ ## Scary! CCP is to impose a communal lifestyle. A planned economy is about to go full swing
+ - [https://www.youtube.com/watch?v=0KY29wZD1mg](https://www.youtube.com/watch?v=0KY29wZD1mg)
+ - date_published: 2022-11-22T00:00:00+00:00
+ - tags: ['china', 'planned economy']
+
  ## Two people who regret changing their gender set to express fears about Sturgeon's trans reform plans
  - [https://www.dailymail.co.uk/news/article-11454795/Two-people-regret-changing-gender-set-express-fears-Sturgeons-trans-reform-plans.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11454795/Two-people-regret-changing-gender-set-express-fears-Sturgeons-trans-reform-plans.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date_published: 2022-11-22T00:19:12+00:00
@@ -8217,15 +8222,15 @@
  - date_published: 2022-11-22T17:21:58+00:00
  - tags: ['bill c-11', 'canada', 'censorship', 'government']
 
- ## Scary! CCP is to impose a communal lifestyle. A planned economy is about to go full swing
- - [https://www.youtube.com/watch?v=0KY29wZD1mg](https://www.youtube.com/watch?v=0KY29wZD1mg)
- - date_published: 2022-11-22T18:45:10+00:00
- - tags: ['china', 'planned economy']
-
  ## Syphilis in England, 2019 to 2021 - GOV.UK
  - [https://www.gov.uk/government/publications/syphilis-quarterly-data-for-england/syphilis-in-england-2019-to-2021](https://www.gov.uk/government/publications/syphilis-quarterly-data-for-england/syphilis-in-england-2019-to-2021)
  - date_published: 2022-11-22T19:53:13+00:00
  - tags: ['england', 'homosexuality', 'syphilis']
+
+ ## Eufy leaking your "private" images/faces & names... to the cloud.
+ - [https://www.youtube.com/watch?v=qOjiCbxP5Lc](https://www.youtube.com/watch?v=qOjiCbxP5Lc)
+ - date_published: 2022-11-23T00:00:00+00:00
+ - tags: ['privacy', 'smart home']
 
  ## WikiLeaks is struggling to stay online as millions of documents disappear
  - [https://www.dailydot.com/debug/wikileaks-website-assange-hacked-documents](https://www.dailydot.com/debug/wikileaks-website-assange-hacked-documents)
@@ -8236,11 +8241,6 @@
  - [https://www.theregister.com/2022/11/23/voice_assistants_fail](https://www.theregister.com/2022/11/23/voice_assistants_fail)
  - date_published: 2022-11-23T09:33:40+00:00
  - tags: ['algorithms', 'big tech', 'smart home', 'voice assistant']
-
- ## Eufy leaking your "private" images/faces & names... to the cloud.
- - [https://www.youtube.com/watch?v=qOjiCbxP5Lc](https://www.youtube.com/watch?v=qOjiCbxP5Lc)
- - date_published: 2022-11-23T10:24:40+00:00
- - tags: ['privacy', 'smart home']
 
  ## Bill C-11 Raising Serious Doubts About CRTC’s Independence From Feds
  - [https://www.theepochtimes.com/bill-c-11-raising-serious-doubts-about-crtcs-independence-from-feds_4881932.html](https://www.theepochtimes.com/bill-c-11-raising-serious-doubts-about-crtcs-independence-from-feds_4881932.html)
@@ -8324,7 +8324,7 @@
 
  ## Rotten Tomatoes Won’t Exist In 5 Years. Here’s Why.
  - [https://www.youtube.com/watch?v=E8ZB2SjNzrc](https://www.youtube.com/watch?v=E8ZB2SjNzrc)
- - date_published: 2022-11-26T01:34:32+00:00
+ - date_published: 2022-11-26T00:00:00+00:00
  - tags: ['movies', 'rotten tomatoes', 'the left wing']
 
  ## Cyfrowy paszport i rozpoznawanie twarzy. Te linie lotnicze mają plan na zmniejszenie kolejek na lotnisku
@@ -8440,6 +8440,11 @@
  - date_published: 2022-11-28T22:08:59+00:00
  - tags: ['elon musk', 'esg']
 
+ ## Fake Zuck to Congress: Thank You for Inaction on Big Tech Antitrust!
+ - [https://www.youtube.com/watch?v=5Fv-LKT_cEc](https://www.youtube.com/watch?v=5Fv-LKT_cEc)
+ - date_published: 2022-11-29T00:00:00+00:00
+ - tags: ['antitrust', 'big tech', 'facebook', 'mark zuckerberg', 'meta']
+
  ## Apple Has No Easy Road Out of China
  - [https://www.wsj.com/articles/apple-has-no-easy-road-out-of-china-11669661578?mod=rss_Technology](https://www.wsj.com/articles/apple-has-no-easy-road-out-of-china-11669661578?mod=rss_Technology)
  - date_published: 2022-11-29T04:02:00+00:00
@@ -8498,11 +8503,6 @@
  - tags: ['censorship', 'china', 'covid zero']
  - date_dead_since: 2025-03-14T20:16:22.964237+00:00
 
- ## Fake Zuck to Congress: Thank You for Inaction on Big Tech Antitrust!
- - [https://www.youtube.com/watch?v=5Fv-LKT_cEc](https://www.youtube.com/watch?v=5Fv-LKT_cEc)
- - date_published: 2022-11-30T10:51:39+00:00
- - tags: ['antitrust', 'big tech', 'facebook', 'mark zuckerberg', 'meta']
-
  ## Ex-Twitter safety chief admits Hunter Biden laptop censorship was a ‘mistake’
  - [https://www.foxnews.com/media/twitter-safety-chief-admits-hunter-biden-laptop-censorship-mistake](https://www.foxnews.com/media/twitter-safety-chief-admits-hunter-biden-laptop-censorship-mistake)
  - date_published: 2022-11-30T14:58:52+00:00
@@ -8528,6 +8528,11 @@
  - date_published: 2022-11-30T23:13:19+00:00
  - tags: ['disney', 'it']
 
+ ## Jordan Peterson: social credit systems in West "highly probable" thanks to our Covid response
+ - [https://www.youtube.com/watch?v=ON52n1Xa4I0](https://www.youtube.com/watch?v=ON52n1Xa4I0)
+ - date_published: 2022-12-01T00:00:00+00:00
+ - tags: ['cbdc', 'covid', 'digital identity', 'digital passport', 'social credit', 'vaccine passport']
+
  ## 'River of blood': Foxconn employee describes violent protests in China
  - [https://www.cnn.com/videos/business/2022/12/01/china-covid-protests-foxconn-iphone-factory-wang-dnt-ebof-vpx.cnn](https://www.cnn.com/videos/business/2022/12/01/china-covid-protests-foxconn-iphone-factory-wang-dnt-ebof-vpx.cnn)
  - date_published: 2022-12-01T03:19:11+00:00
@@ -8541,11 +8546,6 @@
  - [https://nypost.com/2022/12/01/after-disneys-strange-world-bombs-film-critic-says-go-woke-go-broke](https://nypost.com/2022/12/01/after-disneys-strange-world-bombs-film-critic-says-go-woke-go-broke)
  - date_published: 2022-12-01T08:05:53+00:00
  - tags: ['go woke go broke', 'movies', 'the left wing']
-
- ## Jordan Peterson: social credit systems in West "highly probable" thanks to our Covid response
- - [https://www.youtube.com/watch?v=ON52n1Xa4I0](https://www.youtube.com/watch?v=ON52n1Xa4I0)
- - date_published: 2022-12-01T14:09:06+00:00
- - tags: ['cbdc', 'covid', 'digital identity', 'digital passport', 'social credit', 'vaccine passport']
 
  ## Environmental activist Meghan Markle seen boarding private jet following female empowerment event
  - [http://www.msn.com/en-us/news/world/environmental-activist-meghan-markle-seen-boarding-private-jet-following-female-empowerment-event/ar-AA14Muoa?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/environmental-activist-meghan-markle-seen-boarding-private-jet-following-female-empowerment-event/ar-AA14Muoa?li=BBnbcA1&srcref=rss)
@@ -8728,6 +8728,11 @@
  - date_published: 2022-12-04T21:02:54.568991+00:00
  - tags: ['big brother', 'gender', 'lgbt', 'propaganda', 'the left wing', 'transgender']
 
+ ## Somehow Every Computer Chip In The World Is Built By One Company
+ - [https://www.youtube.com/watch?v=RwW0Yfy0oCw](https://www.youtube.com/watch?v=RwW0Yfy0oCw)
+ - date_published: 2022-12-05T00:00:00+00:00
+ - tags: ['all time', 'chips', 'monopoly', 'tsmc']
+
  ## Pegasus spyware was used to hack reporters’ phones. I’m suing its creators | Nelson Rauda Zablah
  - [https://www.theguardian.com/commentisfree/2022/dec/05/pegasus-spyware-journalists-phone-hacking-lawsuit](https://www.theguardian.com/commentisfree/2022/dec/05/pegasus-spyware-journalists-phone-hacking-lawsuit)
  - date_published: 2022-12-05T11:05:40+00:00
@@ -8737,11 +8742,6 @@
  - [https://techmonitor.ai/policy/digital-economy/nobodys-using-cbdcs-indias-piloting-one-anyway](https://techmonitor.ai/policy/digital-economy/nobodys-using-cbdcs-indias-piloting-one-anyway)
  - date_published: 2022-12-05T12:02:42+00:00
  - tags: ['big brother', 'cbdc', 'india']
-
- ## Somehow Every Computer Chip In The World Is Built By One Company
- - [https://www.youtube.com/watch?v=RwW0Yfy0oCw](https://www.youtube.com/watch?v=RwW0Yfy0oCw)
- - date_published: 2022-12-05T14:32:49+00:00
- - tags: ['all time', 'chips', 'monopoly', 'tsmc']
 
  ## Kyle Rittenhouse goes viral after asking if Twitter files will reveal 'hidden censoring' against him
  - [https://www.foxnews.com/media/kyle-rittenhouse-goes-viral-asking-twitter-files-reveal-hidden-censoring](https://www.foxnews.com/media/kyle-rittenhouse-goes-viral-asking-twitter-files-reveal-hidden-censoring)
@@ -8879,6 +8879,11 @@
  - date_published: 2022-12-07T20:50:12+00:00
  - tags: ['censorship', 'free speech', 'transgender']
 
+ ## The Great Climate Con | Alex Epstein | #312
+ - [https://www.youtube.com/watch?v=eDWq7-eP5sE](https://www.youtube.com/watch?v=eDWq7-eP5sE)
+ - date_published: 2022-12-08T00:00:00+00:00
+ - tags: ['climate change']
+
  ## Kirk Cameron banned from hosting readings of Christian children's book at 50 public libraries
  - [https://www.dailymail.co.uk/news/article-11514251/Kirk-Cameron-banned-hosting-readings-Christian-childrens-book-50-public-libraries.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11514251/Kirk-Cameron-banned-hosting-readings-Christian-childrens-book-50-public-libraries.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date_published: 2022-12-08T01:06:19+00:00
@@ -8924,11 +8929,6 @@
  - [https://usrtk.org/covid-19-origins/emails-show-wuhan-lab-collaborator-played-central-role-in-public-messaging-about-covid-19-origins](https://usrtk.org/covid-19-origins/emails-show-wuhan-lab-collaborator-played-central-role-in-public-messaging-about-covid-19-origins)
  - date_published: 2022-12-08T19:05:34+00:00
  - tags: ['covid', 'daszak', 'lab leak', 'wuhan']
-
- ## The Great Climate Con | Alex Epstein | #312
- - [https://www.youtube.com/watch?v=eDWq7-eP5sE](https://www.youtube.com/watch?v=eDWq7-eP5sE)
- - date_published: 2022-12-08T20:36:56+00:00
- - tags: ['climate change']
 
  ## Australian COVID Measures Led to Lowest Elective Surgery Numbers in a Decade
  - [https://www.theepochtimes.com/australian-covid-measures-led-to-lowest-elective-surgery-numbers-in-a-decade_4908265.html](https://www.theepochtimes.com/australian-covid-measures-led-to-lowest-elective-surgery-numbers-in-a-decade_4908265.html)
@@ -8982,7 +8982,7 @@
 
  ## How Tencent Is Changing Our World Forever
  - [https://www.youtube.com/watch?v=-_LH3m0FZdg](https://www.youtube.com/watch?v=-_LH3m0FZdg)
- - date_published: 2022-12-10T02:21:12+00:00
+ - date_published: 2022-12-10T00:00:00+00:00
  - tags: ['china', 'corporatocracy', 'tencent']
 
  ## Elon Musk's 'Twitter Files' reveal internal debate to remove Mike Huckabee tweet including election joke
@@ -9259,7 +9259,7 @@
 
  ## China is Using Quora as a Dangerous PSYOP
  - [https://www.youtube.com/watch?v=uzVOS6iyX8k](https://www.youtube.com/watch?v=uzVOS6iyX8k)
- - date_published: 2022-12-15T16:30:10+00:00
+ - date_published: 2022-12-15T00:00:00+00:00
  - tags: ['china', 'propaganda', 'psyop']
 
  ## BlackRock Executive Grilled By Texas Lawmakers Over ESG And Climate Agendas
@@ -9392,6 +9392,11 @@
  - date_published: 2022-12-16T21:38:39+00:00
  - tags: ['disney', 'grooming']
 
+ ## My Thoughts on 2022 and the Woke Hollywood Machine
+ - [https://www.youtube.com/watch?v=tp1M4lP2ceQ](https://www.youtube.com/watch?v=tp1M4lP2ceQ)
+ - date_published: 2022-12-17T00:00:00+00:00
+ - tags: ['hollywood', 'movies', 'propaganda', 'the left wing']
+
  ## FBI flagged jokes and satirical accounts to Twitter for censorship
  - [https://reclaimthenet.org/fbi-flagged-jokes-and-satirical-accounts-to-twitter-for-censorship](https://reclaimthenet.org/fbi-flagged-jokes-and-satirical-accounts-to-twitter-for-censorship)
  - date_published: 2022-12-17T00:28:07+00:00
@@ -9444,18 +9449,13 @@
 
  ## How Does WhatsApp Make Money?
  - [https://www.youtube.com/watch?v=E1w-2WB2rIM](https://www.youtube.com/watch?v=E1w-2WB2rIM)
- - date_published: 2022-12-18T00:39:56+00:00
+ - date_published: 2022-12-18T00:00:00+00:00
  - tags: ['meta', 'privacy', 'whatsapp']
 
  ## Why did the FBI not flag Antifa Twitter accounts? Elon Musk finally removes far-left profiles
  - [https://www.dailymail.co.uk/news/article-11550351/Why-did-FBI-not-flag-Antifa-Twitter-accounts-Elon-Musk-finally-removes-far-left-profiles.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11550351/Why-did-FBI-not-flag-Antifa-Twitter-accounts-Elon-Musk-finally-removes-far-left-profiles.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date_published: 2022-12-18T04:42:51+00:00
  - tags: ['censorship', 'fbi', 'moderation', 'twitter']
-
- ## My Thoughts on 2022 and the Woke Hollywood Machine
- - [https://www.youtube.com/watch?v=tp1M4lP2ceQ](https://www.youtube.com/watch?v=tp1M4lP2ceQ)
- - date_published: 2022-12-18T07:52:06+00:00
- - tags: ['hollywood', 'movies', 'propaganda', 'the left wing']
 
  ## Ethiopia Obtains Phone-hacking Tech From Israeli Firm Cellebrite
  - [https://www.haaretz.com/israel-news/security-aviation/2022-12-18/ty-article/.premium/ethiopian-police-obtain-phone-hacking-technology-from-israeli-firm-cellebrite/00000185-2556-defc-ab97-2d77e1a10000](https://www.haaretz.com/israel-news/security-aviation/2022-12-18/ty-article/.premium/ethiopian-police-obtain-phone-hacking-technology-from-israeli-firm-cellebrite/00000185-2556-defc-ab97-2d77e1a10000)
@@ -9855,6 +9855,16 @@
  - date_published: 2022-12-23T17:37:59+00:00
  - tags: ['censorship', 'covid', 'vaccine']
 
+ ## Rogue antibody and mystery pathogen behind AstraZeneca blood clots: study
+ - [https://www.smh.com.au/national/rogue-antibody-and-mystery-pathogen-behind-astrazeneca-blood-clots-study-20221223-p5c8gl.html](https://www.smh.com.au/national/rogue-antibody-and-mystery-pathogen-behind-astrazeneca-blood-clots-study-20221223-p5c8gl.html)
+ - date_published: 2022-12-23T18:00:00+00:00
+ - tags: ['astrazeneca', 'covid', 'vaccine']
+
+ ## Tech Journalism Doesn’t Know What to Do with Mastodon
+ - [https://worldhistory.medium.com/tech-journalism-doesnt-know-what-to-do-with-mastodon-df1309f088a0](https://worldhistory.medium.com/tech-journalism-doesnt-know-what-to-do-with-mastodon-df1309f088a0)
+ - date_published: 2022-12-23T18:41:28+00:00
+ - tags: ['mastodon', 'twitter']
+
  ## Dr. Robert Malone Tells Ben Shapiro COVID Vaccines Are Unsafe For All Age Groups
  - [https://www.dailywire.com/news/dr-robert-malone-tells-ben-shapiro-covid-vaccines-are-unsafe-for-all-age-groups](https://www.dailywire.com/news/dr-robert-malone-tells-ben-shapiro-covid-vaccines-are-unsafe-for-all-age-groups)
  - date_published: 2022-12-23T18:54:53+00:00
@@ -9864,6 +9874,11 @@
  - [https://www.forbes.com/sites/emilybaker-white/2022/12/23/lawmakers-outrage-tiktok-spied-on-journalists](https://www.forbes.com/sites/emilybaker-white/2022/12/23/lawmakers-outrage-tiktok-spied-on-journalists)
  - date_published: 2022-12-23T19:57:15+00:00
  - tags: ['china', 'surveillance', 'tiktok']
+
+ ## Why Marvel Is Collapsing: The Coming Marvel Crisis
+ - [https://www.youtube.com/watch?v=uQFWlrfhe8M](https://www.youtube.com/watch?v=uQFWlrfhe8M)
+ - date_published: 2022-12-24T00:00:00+00:00
+ - tags: ['disney', 'marvel']
 
  ## Tunisia's political experiment threatens economic collapse
  - [http://www.msn.com/en-us/news/world/tunisia-s-political-experiment-threatens-economic-collapse/ar-AA15COmB?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/tunisia-s-political-experiment-threatens-economic-collapse/ar-AA15COmB?li=BBnbcA1&srcref=rss)
@@ -9884,11 +9899,6 @@
  - date_published: 2022-12-24T16:37:37+00:00
  - tags: ['climate change', 'climate drama', 'electric vehicles', 'slave labour']
 
- ## Why Marvel Is Collapsing: The Coming Marvel Crisis
- - [https://www.youtube.com/watch?v=uQFWlrfhe8M](https://www.youtube.com/watch?v=uQFWlrfhe8M)
- - date_published: 2022-12-24T18:21:46+00:00
- - tags: ['disney', 'marvel']
-
  ## Twitter Data Breach: Data of 400M Users Up for Sale on Dark Web
  - [https://thecyberexpress.com/twitter-data-breach-400-million-users-for-sale](https://thecyberexpress.com/twitter-data-breach-400-million-users-for-sale)
  - date_published: 2022-12-24T18:23:24+00:00
@@ -9898,11 +9908,6 @@
  - [https://www.breitbart.com/entertainment/2022/12/25/hollywood-lost-more-than-500-billion-in-market-value-in-2022](https://www.breitbart.com/entertainment/2022/12/25/hollywood-lost-more-than-500-billion-in-market-value-in-2022)
  - date_published: 2022-12-25T13:14:44+00:00
  - tags: ['disney', 'go woke go broke', 'hollywood', 'netflix', 'the left wing']
-
- ## Tech Journalism Doesn’t Know What to Do with Mastodon
- - [https://worldhistory.medium.com/tech-journalism-doesnt-know-what-to-do-with-mastodon-df1309f088a0](https://worldhistory.medium.com/tech-journalism-doesnt-know-what-to-do-with-mastodon-df1309f088a0)
- - date_published: 2022-12-25T13:23:42+00:00
- - tags: ['mastodon', 'twitter']
 
  ## China's top health body stops publishing daily Covid case figures as infections soar
  - [https://www.cnn.com/2022/12/25/asia/china-covid-cases-publishing-nhc-intl/index.html](https://www.cnn.com/2022/12/25/asia/china-covid-cases-publishing-nhc-intl/index.html)
@@ -9943,11 +9948,6 @@
  - [https://forsal.pl/swiat/artykuly/8617866,tajwan-71-chinskich-samolotow-bojowych-i-siedem-okretow-aktywnych-w-rejonie-tajwanu.html](https://forsal.pl/swiat/artykuly/8617866,tajwan-71-chinskich-samolotow-bojowych-i-siedem-okretow-aktywnych-w-rejonie-tajwanu.html)
  - date_published: 2022-12-26T08:04:09+00:00
  - tags: ['china', 'crisis', 'taiwan']
-
- ## Rogue antibody and mystery pathogen behind AstraZeneca blood clots: study
- - [https://www.smh.com.au/national/rogue-antibody-and-mystery-pathogen-behind-astrazeneca-blood-clots-study-20221223-p5c8gl.html](https://www.smh.com.au/national/rogue-antibody-and-mystery-pathogen-behind-astrazeneca-blood-clots-study-20221223-p5c8gl.html)
- - date_published: 2022-12-26T08:04:35+00:00
- - tags: ['astrazeneca', 'covid', 'vaccine']
 
  ## China stages big military incursion, Taiwan says
  - [https://www.bbc.co.uk/news/world-asia-64094261?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-64094261?at_medium=RSS&at_campaign=KARANGA)
@@ -10055,6 +10055,11 @@
  - date_published: 2022-12-28T16:47:56+00:00
  - tags: ['censorship', 'free speech', 'mastodon', 'moderation', 'twitter']
 
+ ## Banned by Face Recognition?
+ - [https://www.youtube.com/watch?v=jWBTnrkz6lY](https://www.youtube.com/watch?v=jWBTnrkz6lY)
+ - date_published: 2022-12-29T00:00:00+00:00
+ - tags: ['corporatocracy', 'facial recognition', 'technofeudalism']
+
  ## Hackers abuse Google Ads to spread malware in legit software
  - [https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-to-spread-malware-in-legit-software](https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-to-spread-malware-in-legit-software)
  - date_published: 2022-12-29T07:12:00+00:00
@@ -10095,11 +10100,6 @@
  - date_published: 2022-12-29T17:05:56+00:00
  - tags: ['anthony fauci', 'covid', 'elon musk']
 
- ## Banned by Face Recognition?
- - [https://www.youtube.com/watch?v=jWBTnrkz6lY](https://www.youtube.com/watch?v=jWBTnrkz6lY)
- - date_published: 2022-12-29T17:29:08+00:00
- - tags: ['corporatocracy', 'facial recognition', 'technofeudalism']
-
  ## Privacy Is OK
  - [https://www.tbray.org/ongoing/When/202x/2022/12/29/Privacy-is-OK](https://www.tbray.org/ongoing/When/202x/2022/12/29/Privacy-is-OK)
  - date_published: 2022-12-29T21:07:20+00:00
@@ -10109,6 +10109,11 @@
  - [https://dziennikbaltycki.pl/sledczy-pracuja-na-terenie-dawnej-zatoki-sztuki-co-przez-lata-dzialo-sie-w-murach-tego-budynku/ar/c1-17161655](https://dziennikbaltycki.pl/sledczy-pracuja-na-terenie-dawnej-zatoki-sztuki-co-przez-lata-dzialo-sie-w-murach-tego-budynku/ar/c1-17161655)
  - date_published: 2022-12-29T21:15:24+00:00
  - tags: ['elites', 'paedophilia', 'zatoka sztuki']
+
+ ## Louis Rossmann discusses NY's butchering of right to repair [video]
+ - [https://www.youtube.com/watch?v=k9kXnm9uW5k](https://www.youtube.com/watch?v=k9kXnm9uW5k)
+ - date_published: 2022-12-30T00:00:00+00:00
+ - tags: ['corporatocracy', 'louis rossmann', 'right to repair']
 
  ## Jonathan Haidt on the ‘National Crisis’ of Gen Z
  - [https://www.wsj.com/articles/the-national-crisis-of-generation-z-jonathan-haidt-social-media-performance-anxiety-fragility-gap-childhood-11672401345](https://www.wsj.com/articles/the-national-crisis-of-generation-z-jonathan-haidt-social-media-performance-anxiety-fragility-gap-childhood-11672401345)
@@ -10160,11 +10165,6 @@
  - date_published: 2022-12-30T21:14:51+00:00
  - tags: ['google', 'privacy', 'tracking']
  - date_dead_since: 2024-10-12T16:01:55.552802+00:00
-
- ## Louis Rossmann discusses NY's butchering of right to repair [video]
- - [https://www.youtube.com/watch?v=k9kXnm9uW5k](https://www.youtube.com/watch?v=k9kXnm9uW5k)
- - date_published: 2022-12-31T02:31:29+00:00
- - tags: ['corporatocracy', 'louis rossmann', 'right to repair']
 
  ## Bring back personal blogging
  - [https://www.theverge.com/23513418/bring-back-personal-blogging](https://www.theverge.com/23513418/bring-back-personal-blogging)

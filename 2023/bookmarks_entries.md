@@ -125,6 +125,11 @@
  - date_published: 2023-01-04T00:00:00+00:00
  - tags: ['covid']
 
+ ## Louis Rossmann fought for THIS!?
+ - [https://www.youtube.com/watch?v=MO6V8gxayeA](https://www.youtube.com/watch?v=MO6V8gxayeA)
+ - date_published: 2023-01-04T00:00:00+00:00
+ - tags: ['big brother', 'right to repair']
+
  ## China ESG reckoning looms for investors
  - [https://www.ft.com/content/55058f28-8c47-40c8-9919-8ded9daa53e9](https://www.ft.com/content/55058f28-8c47-40c8-9919-8ded9daa53e9)
  - date_published: 2023-01-04T01:00:33+00:00
@@ -160,11 +165,6 @@
  - date_published: 2023-01-04T15:35:01+00:00
  - tags: ['meta', 'privacy', 'tracking']
  - date_dead_since: 2024-10-12T13:25:34.242928+00:00
-
- ## Louis Rossmann fought for THIS!?
- - [https://www.youtube.com/watch?v=MO6V8gxayeA](https://www.youtube.com/watch?v=MO6V8gxayeA)
- - date_published: 2023-01-04T18:33:59+00:00
- - tags: ['big brother', 'right to repair']
 
  ## Rep. Adam Schiff’s office asked Twitter to ban New York Post columnist Paul Sperry — Twitter Files
  - [https://reclaimthenet.org/adam-schiff-twitter-ban-paul-sperry](https://reclaimthenet.org/adam-schiff-twitter-ban-paul-sperry)
@@ -272,6 +272,11 @@
  - date_published: 2023-01-06T11:09:51+00:00
  - tags: ['catholic', 'poland', 'religion']
 
+ ## SteamDeck Destroyed The Linux Steam Marketshare
+ - [https://www.youtube.com/watch?v=xbvoyzeQu1M](https://www.youtube.com/watch?v=xbvoyzeQu1M)
+ - date_published: 2023-01-07T00:00:00+00:00
+ - tags: ['linux', 'steam']
+
  ## Physical buttons outperform touchscreens in new cars, test finds (2022)
  - [https://www.vibilagare.se/english/physical-buttons-outperform-touchscreens-new-cars-test-finds](https://www.vibilagare.se/english/physical-buttons-outperform-touchscreens-new-cars-test-finds)
  - date_published: 2023-01-07T00:18:50+00:00
@@ -318,11 +323,6 @@
  - [https://semiengineering.com/how-secure-are-risc-v-chips](https://semiengineering.com/how-secure-are-risc-v-chips)
  - date_published: 2023-01-07T17:52:08+00:00
  - tags: ['risc-v']
-
- ## SteamDeck Destroyed The Linux Steam Marketshare
- - [https://www.youtube.com/watch?v=xbvoyzeQu1M](https://www.youtube.com/watch?v=xbvoyzeQu1M)
- - date_published: 2023-01-07T20:00:18+00:00
- - tags: ['linux', 'steam']
 
  ## DC Comics fans outraged as new Batman plot sees the Joker become PREGNANT and give birth
  - [https://www.dailymail.co.uk/news/article-11609947/DC-Comics-fans-outraged-new-Batman-plot-sees-Joker-PREGNANT-birth.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11609947/DC-Comics-fans-outraged-new-Batman-plot-sees-Joker-PREGNANT-birth.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -616,6 +616,11 @@
  - date_published: 2023-01-13T00:00:00+00:00
  - tags: ['billionaires', 'elites', 'george soros', 'manufacturing consent', 'plutocracy']
 
+ ## Why Modern Movies Suck - They Hate Men (Part 1)
+ - [https://www.youtube.com/watch?v=tUWe11I_7Oo](https://www.youtube.com/watch?v=tUWe11I_7Oo)
+ - date_published: 2023-01-13T00:00:00+00:00
+ - tags: ['feminism', 'movies', 'propaganda', 'the left wing']
+
  ## U.S. FDA, CDC see early signal of possible Pfizer bivalent COVID shot link to stroke | Reuters
  - [https://www.reuters.com/business/healthcare-pharmaceuticals/us-says-pfizers-bivalent-covid-shot-may-be-linked-stroke-older-adults-2023-01-13](https://www.reuters.com/business/healthcare-pharmaceuticals/us-says-pfizers-bivalent-covid-shot-may-be-linked-stroke-older-adults-2023-01-13)
  - date_published: 2023-01-13T09:13:42+00:00
@@ -722,11 +727,6 @@
  - date_published: 2023-01-13T22:22:31+00:00
  - tags: ['raspberry pi', 'selfhost', 'smart home']
 
- ## Why Modern Movies Suck - They Hate Men (Part 1)
- - [https://www.youtube.com/watch?v=tUWe11I_7Oo](https://www.youtube.com/watch?v=tUWe11I_7Oo)
- - date_published: 2023-01-13T23:00:02+00:00
- - tags: ['feminism', 'movies', 'propaganda', 'the left wing']
-
  ## Meta sues “scraping-for-hire” service that sells user data to law enforcement
  - [https://arstechnica.com/?p=1910046](https://arstechnica.com/?p=1910046)
  - date_published: 2023-01-13T23:28:05+00:00
@@ -809,6 +809,11 @@
  - tags: ['covid', 'healthcare']
  - date_dead_since: 2025-03-11T01:38:12.964924+00:00
 
+ ## The Internet Has Died
+ - [https://www.youtube.com/watch?v=kL8rHf_idt0](https://www.youtube.com/watch?v=kL8rHf_idt0)
+ - date_published: 2023-01-16T00:00:00+00:00
+ - tags: ['algorithms', 'all time', 'dead internet', 'search engines', 'youtube']
+
  ## Demografia. Więcej niż wyzwanie dekady
  - [https://forsal.pl/gospodarka/demografia/artykuly/8636131,demografia-wiecej-niz-wyzwanie-dekady.html](https://forsal.pl/gospodarka/demografia/artykuly/8636131,demografia-wiecej-niz-wyzwanie-dekady.html)
  - date_published: 2023-01-16T05:00:00+00:00
@@ -828,11 +833,6 @@
  - [https://forsal.pl/swiat/aktualnosci/artykuly/8637768,hiszpania-imigranci-demografia.html](https://forsal.pl/swiat/aktualnosci/artykuly/8637768,hiszpania-imigranci-demografia.html)
  - date_published: 2023-01-16T17:15:57+00:00
  - tags: ['immigration', 'spain']
-
- ## The Internet Has Died
- - [https://www.youtube.com/watch?v=kL8rHf_idt0](https://www.youtube.com/watch?v=kL8rHf_idt0)
- - date_published: 2023-01-16T17:21:03+00:00
- - tags: ['algorithms', 'all time', 'dead internet', 'search engines', 'youtube']
 
  ## Quitting the rat race
  - [https://seanbarry.dev/posts/quitting-the-rat-race](https://seanbarry.dev/posts/quitting-the-rat-race)
@@ -955,6 +955,11 @@
  - date_published: 2023-01-19T16:24:21+00:00
  - tags: ['big tech', 'google', 'privacy']
 
+ ## Wall Street’s Streaming Warnings to Hollywood Get More Dire – The Hollywood Reporter
+ - [https://www.hollywoodreporter.com/business/business-news/wall-street-streaming-guidance-2023-1235302958](https://www.hollywoodreporter.com/business/business-news/wall-street-streaming-guidance-2023-1235302958)
+ - date_published: 2023-01-19T17:53:40+00:00
+ - tags: ['movies', 'streaming']
+
  ## Israel Ministry of Health Finds Pfizer Agreement After Claiming It Couldn’t Be Located
  - [https://www.theepochtimes.com/israel-ministry-of-health-finds-pfizer-agreement-after-claiming-it-couldnt-be-located_4996166.html](https://www.theepochtimes.com/israel-ministry-of-health-finds-pfizer-agreement-after-claiming-it-couldnt-be-located_4996166.html)
  - date_published: 2023-01-19T18:41:15+00:00
@@ -965,11 +970,6 @@
  - date_published: 2023-01-19T20:54:18+00:00
  - tags: ['censorship', 'covid']
 
- ## Wall Street’s Streaming Warnings to Hollywood Get More Dire – The Hollywood Reporter
- - [https://www.hollywoodreporter.com/business/business-news/wall-street-streaming-guidance-2023-1235302958](https://www.hollywoodreporter.com/business/business-news/wall-street-streaming-guidance-2023-1235302958)
- - date_published: 2023-01-19T20:57:11+00:00
- - tags: ['movies', 'streaming']
-
  ## Twitter officially bans third-party clients with new developer rules
  - [https://www.theverge.com/2023/1/19/23562947/twitter-third-party-client-tweetbot-twitterific-ban-rules](https://www.theverge.com/2023/1/19/23562947/twitter-third-party-client-tweetbot-twitterific-ban-rules)
  - date_published: 2023-01-19T22:23:16+00:00
@@ -979,6 +979,16 @@
  - [https://cohost.org/arborelia/post/868933-how-to-destroy-a-cer](https://cohost.org/arborelia/post/868933-how-to-destroy-a-cer)
  - date_published: 2023-01-19T22:43:11+00:00
  - tags: ['internet', 'programming']
+
+ ## The CIA's Plot To Assassinate Julian Assange
+ - [https://www.youtube.com/watch?v=KvewuoL2VcY](https://www.youtube.com/watch?v=KvewuoL2VcY)
+ - date_published: 2023-01-20T00:00:00+00:00
+ - tags: ['cia', 'julian assange', 'wikileaks']
+
+ ## Smutny film o Armenii. Co doprowadziło ją do upadku?
+ - [https://www.youtube.com/watch?v=SljlG-2d7G0](https://www.youtube.com/watch?v=SljlG-2d7G0)
+ - date_published: 2023-01-20T00:00:00+00:00
+ - tags: ['armenia', 'crisis']
 
  ## 300+ models of MSI motherboards have Secure Boot turned off. Is yours affected? | Ars Technica
  - [https://arstechnica.com/information-technology/2023/01/300-models-of-msi-motherboards-have-secure-boot-turned-off-is-yours-affected](https://arstechnica.com/information-technology/2023/01/300-models-of-msi-motherboards-have-secure-boot-turned-off-is-yours-affected)
@@ -1015,11 +1025,6 @@
  - date_published: 2023-01-20T18:08:50+00:00
  - tags: ['android', 'f-droid']
 
- ## The CIA's Plot To Assassinate Julian Assange
- - [https://www.youtube.com/watch?v=KvewuoL2VcY](https://www.youtube.com/watch?v=KvewuoL2VcY)
- - date_published: 2023-01-20T19:39:06+00:00
- - tags: ['cia', 'julian assange', 'wikileaks']
-
  ## U.S. ‘No Fly List’ Leaks After Being Left in an Unsecured Airline Server
  - [https://www.vice.com/en/article/93a4p5/us-no-fly-list-leaks-after-being-left-in-an-unsecured-airline-server](https://www.vice.com/en/article/93a4p5/us-no-fly-list-leaks-after-being-left-in-an-unsecured-airline-server)
  - date_published: 2023-01-20T21:48:47+00:00
@@ -1034,11 +1039,6 @@
  - [https://xeiaso.net/blog/lesson-online-feedback](https://xeiaso.net/blog/lesson-online-feedback)
  - date_published: 2023-01-21T00:42:24+00:00
  - tags: ['internet', 'social media']
-
- ## Smutny film o Armenii. Co doprowadziło ją do upadku?
- - [https://www.youtube.com/watch?v=SljlG-2d7G0](https://www.youtube.com/watch?v=SljlG-2d7G0)
- - date_published: 2023-01-21T11:41:09+00:00
- - tags: ['armenia', 'crisis']
 
  ## Big Pharma Greed’s Knows No Bounds
  - [https://www.thenation.com/article/economy/big-pharma-greed-knows-no-bounds](https://www.thenation.com/article/economy/big-pharma-greed-knows-no-bounds)
@@ -1202,6 +1202,11 @@
  - date_published: 2023-01-26T23:47:04+00:00
  - tags: ['california', 'covid', 'misinformation']
 
+ ## AI, Art and the Lawsuits
+ - [https://www.youtube.com/watch?v=aRPY0ctBCzM](https://www.youtube.com/watch?v=aRPY0ctBCzM)
+ - date_published: 2023-01-27T00:00:00+00:00
+ - tags: ['artificial intelligence', 'law']
+
  ## Why VR/AR gets farther away as it comes into focus
  - [https://www.matthewball.vc/all/why-vrar-gets-farther-away-as-it-comes-into-focus](https://www.matthewball.vc/all/why-vrar-gets-farther-away-as-it-comes-into-focus)
  - date_published: 2023-01-27T00:02:02+00:00
@@ -1236,11 +1241,6 @@
  - [https://joinpeertube.org](https://joinpeertube.org)
  - date_published: 2023-01-27T10:15:02+00:00
  - tags: ['peertube', 'selfhost']
-
- ## AI, Art and the Lawsuits
- - [https://www.youtube.com/watch?v=aRPY0ctBCzM](https://www.youtube.com/watch?v=aRPY0ctBCzM)
- - date_published: 2023-01-27T14:00:03+00:00
- - tags: ['artificial intelligence', 'law']
 
  ## Canada’s Bill C-26: Yet Another Government Power Grab | easyDNS
  - [https://easydns.com/blog/2023/01/27/canadas-bill-c-26-yet-another-government-power-grab](https://easydns.com/blog/2023/01/27/canadas-bill-c-26-yet-another-government-power-grab)
@@ -1302,6 +1302,11 @@
  - date_published: 2023-01-29T20:41:58+00:00
  - tags: ['climate change', 'electric vehicles']
 
+ ## The Troll Army of Big Oil | Climate Town
+ - [https://www.youtube.com/watch?v=FOi05zDO4yw](https://www.youtube.com/watch?v=FOi05zDO4yw)
+ - date_published: 2023-01-30T00:00:00+00:00
+ - tags: ['bigoil', 'climate change']
+
  ## Aplikacja mObywatel zastąpi dowód osobisty w urzędach i bankach. Wiemy kiedy - Instalki.pl
  - [https://www.instalki.pl/aktualnosci/software/57943-aplikacja-mobywatel-zamiast-dowodu-osobistego-bank-urzad-kiedy.html](https://www.instalki.pl/aktualnosci/software/57943-aplikacja-mobywatel-zamiast-dowodu-osobistego-bank-urzad-kiedy.html)
  - date_published: 2023-01-30T14:18:51.618654+00:00
@@ -1321,11 +1326,6 @@
  - [https://wydarzenia.interia.pl/zagranica/news-szwecja-gangsterzy-odwolali-burmistrz-niektorzy-ledwo-znali-,nId,6566587](https://wydarzenia.interia.pl/zagranica/news-szwecja-gangsterzy-odwolali-burmistrz-niektorzy-ledwo-znali-,nId,6566587)
  - date_published: 2023-01-30T16:27:14+00:00
  - tags: ['immigration', 'sweden']
-
- ## The Troll Army of Big Oil | Climate Town
- - [https://www.youtube.com/watch?v=FOi05zDO4yw](https://www.youtube.com/watch?v=FOi05zDO4yw)
- - date_published: 2023-01-30T16:30:48+00:00
- - tags: ['bigoil', 'climate change']
 
  ## It's not you, it's SQL
  - [https://stack.convex.dev/not-sql](https://stack.convex.dev/not-sql)
@@ -1347,6 +1347,11 @@
  - date_published: 2023-01-30T18:34:52+00:00
  - tags: ['google', 'the left wing']
 
+ ## Were the Unabomber’s Predictions About Technology Correct?
+ - [https://www.youtube.com/watch?v=kXL6DgUh4u8](https://www.youtube.com/watch?v=kXL6DgUh4u8)
+ - date_published: 2023-01-31T00:00:00+00:00
+ - tags: ['technology', 'ted kaczynski', 'unabomber']
+
  ## Facebook Seeks to Block $3.7 Billion UK Mass Action Over Market Dominance
  - [https://www.theepochtimes.com/facebook-seeks-to-block-3-7-billion-uk-mass-action-over-market-dominance_5020488.html](https://www.theepochtimes.com/facebook-seeks-to-block-3-7-billion-uk-mass-action-over-market-dominance_5020488.html)
  - date_published: 2023-01-31T02:11:22+00:00
@@ -1366,11 +1371,6 @@
  - [https://www.cnn.com/2023/01/31/china/china-sichuan-birth-registration-unmarried-intl-hnk/index.html](https://www.cnn.com/2023/01/31/china/china-sichuan-birth-registration-unmarried-intl-hnk/index.html)
  - date_published: 2023-01-31T06:54:03+00:00
  - tags: ['demographics']
-
- ## Were the Unabomber’s Predictions About Technology Correct?
- - [https://www.youtube.com/watch?v=kXL6DgUh4u8](https://www.youtube.com/watch?v=kXL6DgUh4u8)
- - date_published: 2023-01-31T08:30:56+00:00
- - tags: ['technology', 'ted kaczynski', 'unabomber']
 
  ## US still has the worst, most expensive health care of any high-income country | Ars Technica
  - [https://arstechnica.com/science/2023/01/us-still-has-the-worst-most-expensive-health-care-of-any-high-income-country](https://arstechnica.com/science/2023/01/us-still-has-the-worst-most-expensive-health-care-of-any-high-income-country)
@@ -1454,6 +1454,16 @@
  - date_published: 2023-02-01T18:36:14+00:00
  - tags: ['chat control', 'government control', 'privacy', 'surveillance']
 
+ ## An Invitation to the Future
+ - [https://www.youtube.com/watch?v=L_cjujecPsE](https://www.youtube.com/watch?v=L_cjujecPsE)
+ - date_published: 2023-02-02T00:00:00+00:00
+ - tags: ['climate change', 'corporatocracy', 'future', 'jordan peterson', 'monopoly']
+
+ ## Bill Gates's INCREDIBLY AWKWARD Interview - Is THIS What He's Worried About??
+ - [https://www.youtube.com/watch?v=o2HkjhK7aa4](https://www.youtube.com/watch?v=o2HkjhK7aa4)
+ - date_published: 2023-02-02T00:00:00+00:00
+ - tags: ['big pharma', 'bill gates', 'covid', 'vaccine', 'who']
+
  ## Inflacja w Chorwacji po wejściu do strefy euro nie wzrosła, tylko spadła
  - [https://businessinsider.com.pl/gospodarka/piec-najciekawszych-wydarzen-w-gospodarce-teraz-2022023/ndyxye8](https://businessinsider.com.pl/gospodarka/piec-najciekawszych-wydarzen-w-gospodarce-teraz-2022023/ndyxye8)
  - date_published: 2023-02-02T06:09:23+00:00
@@ -1480,11 +1490,6 @@
  - date_published: 2023-02-02T17:05:23+00:00
  - tags: ['centralization', 'digital identity', 'digital passport', 'vulnerability']
 
- ## Bill Gates's INCREDIBLY AWKWARD Interview - Is THIS What He's Worried About??
- - [https://www.youtube.com/watch?v=o2HkjhK7aa4](https://www.youtube.com/watch?v=o2HkjhK7aa4)
- - date_published: 2023-02-02T18:00:30+00:00
- - tags: ['big pharma', 'bill gates', 'covid', 'vaccine', 'who']
-
  ## AI tool ChatGPT is accused of bias after writing poem about Biden but refusing to create one for Trump
  - [https://reclaimthenet.org/chatgpt-trump-biden-poem](https://reclaimthenet.org/chatgpt-trump-biden-poem)
  - date_published: 2023-02-02T18:55:05+00:00
@@ -1500,20 +1505,15 @@
  - date_published: 2023-02-02T20:51:12+00:00
  - tags: ['artificial intelligence', 'chatgpt', 'media bias']
 
- ## An Invitation to the Future
- - [https://www.youtube.com/watch?v=L_cjujecPsE](https://www.youtube.com/watch?v=L_cjujecPsE)
- - date_published: 2023-02-02T23:38:02+00:00
- - tags: ['climate change', 'corporatocracy', 'future', 'jordan peterson', 'monopoly']
+ ## Exclusive Q&A John Carmack’s ‘Different Path’ to Artificial General Intelligence
+ - [https://dallasinnovates.com/exclusive-qa-john-carmacks-different-path-to-artificial-general-intelligence](https://dallasinnovates.com/exclusive-qa-john-carmacks-different-path-to-artificial-general-intelligence)
+ - date_published: 2023-02-02T23:52:24+00:00
+ - tags: ['artificial intelligence']
 
  ## Utah bill would bring ID-based age verification to online platforms
  - [https://reclaimthenet.org/utah-bill-would-bring-id-based-age-verification-to-online-platforms](https://reclaimthenet.org/utah-bill-would-bring-id-based-age-verification-to-online-platforms)
  - date_published: 2023-02-03T00:11:08+00:00
  - tags: ['digital identity']
-
- ## Exclusive Q&A John Carmack’s ‘Different Path’ to Artificial General Intelligence
- - [https://dallasinnovates.com/exclusive-qa-john-carmacks-different-path-to-artificial-general-intelligence](https://dallasinnovates.com/exclusive-qa-john-carmacks-different-path-to-artificial-general-intelligence)
- - date_published: 2023-02-03T06:01:47+00:00
- - tags: ['artificial intelligence']
 
  ## Until further notice, think twice before using Google to download software
  - [https://arstechnica.com/information-technology/2023/02/until-further-notice-think-twice-before-using-google-to-download-software](https://arstechnica.com/information-technology/2023/02/until-further-notice-think-twice-before-using-google-to-download-software)
@@ -1675,6 +1675,11 @@
  - date_published: 2023-02-08T23:06:04+00:00
  - tags: ['photo server', 'selfhost', 'smart home']
 
+ ## The OPEN WEB is DYING...
+ - [https://www.youtube.com/watch?v=pjTzQJxw-20](https://www.youtube.com/watch?v=pjTzQJxw-20)
+ - date_published: 2023-02-09T00:00:00+00:00
+ - tags: ['algorithms', 'dead internet', 'government control', 'internet', 'technofeudalism']
+
  ## Google's AI chatbot, Bard, sparks a $100 billion loss in Alphabet shares : NPR
  - [https://www.npr.org/2023/02/09/1155650909/google-chatbot--error-bard-shares](https://www.npr.org/2023/02/09/1155650909/google-chatbot--error-bard-shares)
  - date_published: 2023-02-09T07:33:50+00:00
@@ -1694,11 +1699,6 @@
  - [https://next.gazeta.pl/next/7,172392,29450499,bill-gates-ma-cztery-odrzutowce-miliarder-tlumaczy-czemu-nimi.html#do_w=52&do_v=478&fallback=true&do_st=RS&do_sid=604&do_a=604&s=BoxBizImg7&do_upid=478_ti&do_utid=29450499&do_uvid=1675973616132](https://next.gazeta.pl/next/7,172392,29450499,bill-gates-ma-cztery-odrzutowce-miliarder-tlumaczy-czemu-nimi.html#do_w=52&do_v=478&fallback=true&do_st=RS&do_sid=604&do_a=604&s=BoxBizImg7&do_upid=478_ti&do_utid=29450499&do_uvid=1675973616132)
  - date_published: 2023-02-09T13:55:07+00:00
  - tags: ['bill gates', 'billionaires', 'climate change', 'hypocrisy']
-
- ## The OPEN WEB is DYING...
- - [https://www.youtube.com/watch?v=pjTzQJxw-20](https://www.youtube.com/watch?v=pjTzQJxw-20)
- - date_published: 2023-02-09T17:34:16+00:00
- - tags: ['algorithms', 'dead internet', 'government control', 'internet', 'technofeudalism']
 
  ## I Thought I Was Saving Trans Kids. Now I’m Blowing the Whistle.
  - [https://www.thefp.com/p/i-thought-i-was-saving-trans-kids](https://www.thefp.com/p/i-thought-i-was-saving-trans-kids)
@@ -1770,6 +1770,21 @@
  - date_published: 2023-02-12T13:27:05+00:00
  - tags: ['big brother', 'fbi', 'surveillance']
 
+ ## Matt Taibbi Surprised by FBI & Twitter's Collusion; Russiagate Info in Twitter Files
+ - [https://www.youtube.com/watch?v=eWQGYpSoiYU](https://www.youtube.com/watch?v=eWQGYpSoiYU)
+ - date_published: 2023-02-13T00:00:00+00:00
+ - tags: ['big brother', 'big tech', 'censorship', 'moderation', 'twitter files']
+
+ ## I tried using AI. It scared me.
+ - [https://www.youtube.com/watch?v=jPhJbKBuNnA](https://www.youtube.com/watch?v=jPhJbKBuNnA)
+ - date_published: 2023-02-13T00:00:00+00:00
+ - tags: ['artificial intelligence', 'chatgpt']
+
+ ## I Can Save You Money! – Raspberry Pi Alternatives
+ - [https://www.youtube.com/watch?v=uJvCVw1yONQ](https://www.youtube.com/watch?v=uJvCVw1yONQ)
+ - date_published: 2023-02-13T00:00:00+00:00
+ - tags: ['raspberry pi']
+
  ## Google's Go may add telemetry that's on by default
  - [https://www.theregister.com/2023/02/10/googles_go_programming_language_telemetry_debate](https://www.theregister.com/2023/02/10/googles_go_programming_language_telemetry_debate)
  - date_published: 2023-02-13T05:00:00+00:00
@@ -1779,21 +1794,6 @@
  - [https://ithardware.pl/aktualnosci/wielka_brytania_chce_zakazu_szyfrowanych_telefonow-25815.html](https://ithardware.pl/aktualnosci/wielka_brytania_chce_zakazu_szyfrowanych_telefonow-25815.html)
  - date_published: 2023-02-13T12:37:40+00:00
  - tags: ['anonymity', 'dystopia', 'england']
-
- ## Matt Taibbi Surprised by FBI & Twitter's Collusion; Russiagate Info in Twitter Files
- - [https://www.youtube.com/watch?v=eWQGYpSoiYU](https://www.youtube.com/watch?v=eWQGYpSoiYU)
- - date_published: 2023-02-13T15:56:28+00:00
- - tags: ['big brother', 'big tech', 'censorship', 'moderation', 'twitter files']
-
- ## I tried using AI. It scared me.
- - [https://www.youtube.com/watch?v=jPhJbKBuNnA](https://www.youtube.com/watch?v=jPhJbKBuNnA)
- - date_published: 2023-02-13T16:00:23+00:00
- - tags: ['artificial intelligence', 'chatgpt']
-
- ## I Can Save You Money! – Raspberry Pi Alternatives
- - [https://www.youtube.com/watch?v=uJvCVw1yONQ](https://www.youtube.com/watch?v=uJvCVw1yONQ)
- - date_published: 2023-02-13T17:59:07+00:00
- - tags: ['raspberry pi']
 
  ## Xbox Game Pass Does Decrease Base Game Sales, Microsoft Says
  - [https://www.gamespot.com/articles/xbox-game-pass-does-decrease-base-game-sales-microsoft-says/1100-6511473/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/xbox-game-pass-does-decrease-base-game-sales-microsoft-says/1100-6511473/?ftag=CAD-01-10abi2f)
@@ -1940,6 +1940,11 @@
  - date_published: 2023-02-17T23:27:09+00:00
  - tags: ['artificial intelligence', 'chatgpt']
 
+ ## Heavy police presence as demonstrators face off during Oxford LTN protest
+ - [https://www.youtube.com/watch?v=Ajyo-965RuM](https://www.youtube.com/watch?v=Ajyo-965RuM)
+ - date_published: 2023-02-18T00:00:00+00:00
+ - tags: ['15minutecities', 'climate change', 'protest']
+
  ## John Carmack on Functional Programming in C++ (2018)
  - [http://www.sevangelatos.com/john-carmack-on](http://www.sevangelatos.com/john-carmack-on)
  - date_published: 2023-02-18T07:09:02+00:00
@@ -1954,11 +1959,6 @@
  - [https://9to5mac.com/2023/02/17/google-apple-chrome-search-revenue](https://9to5mac.com/2023/02/17/google-apple-chrome-search-revenue)
  - date_published: 2023-02-18T17:49:23+00:00
  - tags: ['apple', 'big tech', 'chrome', 'google', 'manufacturing consent']
-
- ## Heavy police presence as demonstrators face off during Oxford LTN protest
- - [https://www.youtube.com/watch?v=Ajyo-965RuM](https://www.youtube.com/watch?v=Ajyo-965RuM)
- - date_published: 2023-02-18T18:11:03+00:00
- - tags: ['15minutecities', 'climate change', 'protest']
 
  ## "Absurd censorship:" Changes to Roald Dahl's books spark criticism - CBS News
  - [https://www.cbsnews.com/news/roald-dahls-changes-childrens-books-rushdie-telegraph/?intcid=CNM-00-10abd1h](https://www.cbsnews.com/news/roald-dahls-changes-childrens-books-rushdie-telegraph/?intcid=CNM-00-10abd1h)
