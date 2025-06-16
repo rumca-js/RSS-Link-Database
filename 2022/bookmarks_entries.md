@@ -2726,6 +2726,11 @@
  - [https://simonwillison.net/2022/Mar/10/shot-scraper](https://simonwillison.net/2022/Mar/10/shot-scraper)
  - date_published: 2022-06-13T21:35:04.238080+00:00
 
+ ## Cloudflare mitigates 26 million request per second DDoS attack
+ - [https://blog.cloudflare.com/26m-rps-ddos](https://blog.cloudflare.com/26m-rps-ddos)
+ - date_published: 2022-06-14T13:56:31+00:00
+ - tags: ['cloudflare', 'ddos', 'selfhost']
+
  ## ALADDIN: The Most Powerful Political Force In The World Today | SOTN: Alternative News, Analysis & Commentary
  - [https://stateofthenation.co/?p=120437](https://stateofthenation.co/?p=120437)
  - date_published: 2022-06-15T22:13:29+00:00
@@ -2738,11 +2743,6 @@
  ## Free associating from 'df' to RCE
  - [https://rachelbythebay.com/w/2022/06/16/rce](https://rachelbythebay.com/w/2022/06/16/rce)
  - date_published: 2022-06-17T06:55:39.683636+00:00
-
- ## Cloudflare mitigates 26 million request per second DDoS attack
- - [https://blog.cloudflare.com/26m-rps-ddos](https://blog.cloudflare.com/26m-rps-ddos)
- - date_published: 2022-06-17T08:25:29.320467+00:00
- - tags: ['cloudflare', 'ddos', 'selfhost']
 
  ## ⚡️ The computers are fast, but you don't know it | 🌚 Computer Science After Dark
  - [http://shvbsle.in/computers-are-fast-but-you-dont-know-it-p1](http://shvbsle.in/computers-are-fast-but-you-dont-know-it-p1)
@@ -2782,7 +2782,7 @@
 
  ## Cloudflare outage on June 21, 2022
  - [https://blog.cloudflare.com/cloudflare-outage-on-june-21-2022](https://blog.cloudflare.com/cloudflare-outage-on-june-21-2022)
- - date_published: 2022-06-21T15:41:37.951536+00:00
+ - date_published: 2022-06-21T13:38:05+00:00
 
  ## One year as a solo dev building open-source data tools without funding
  - [https://datastation.multiprocess.io/blog/2022-06-11-year-in-review.html](https://datastation.multiprocess.io/blog/2022-06-11-year-in-review.html)
@@ -3038,16 +3038,16 @@
  - [https://lukesmith.xyz/articles/obvious-technical-solutions](https://lukesmith.xyz/articles/obvious-technical-solutions)
  - date_published: 2022-07-12T20:16:31+00:00
 
+ ## Arctic Sea Ice Melting Over the Years | 2000-2022 Time-lapse
+ - [https://www.youtube.com/watch?v=UvEhfYZbiKM](https://www.youtube.com/watch?v=UvEhfYZbiKM)
+ - date_published: 2022-07-13T00:00:00+00:00
+ - tags: ['climate change']
+
  ## Citizens and businesses have spoken – corruption remains a serious problem in EU countries
  - [https://home-affairs.ec.europa.eu/news/citizens-and-businesses-have-spoken-corruption-remains-serious-problem-eu-countries-2022-07-13_en](https://home-affairs.ec.europa.eu/news/citizens-and-businesses-have-spoken-corruption-remains-serious-problem-eu-countries-2022-07-13_en)
  - date_published: 2022-07-13T14:19:04+00:00
  - tags: ['corruption', 'manufacturing consent', 'politics']
  - date_dead_since: 2025-03-22T14:14:09.636214+00:00
-
- ## Arctic Sea Ice Melting Over the Years | 2000-2022 Time-lapse
- - [https://www.youtube.com/watch?v=UvEhfYZbiKM](https://www.youtube.com/watch?v=UvEhfYZbiKM)
- - date_published: 2022-07-13T14:34:41+00:00
- - tags: ['climate change']
 
  ## New working speculative execution attack sends Intel and AMD scrambling | Ars Technica
  - [https://arstechnica.com/information-technology/2022/07/intel-and-amd-cpus-vulnerable-to-a-new-speculative-execution-attack](https://arstechnica.com/information-technology/2022/07/intel-and-amd-cpus-vulnerable-to-a-new-speculative-execution-attack)
@@ -3236,6 +3236,11 @@
  - [https://www.ladbible.com/entertainment/the-reason-why-brendan-fraser-was-blacklisted-from-hollywood-for-yea-20220727](https://www.ladbible.com/entertainment/the-reason-why-brendan-fraser-was-blacklisted-from-hollywood-for-yea-20220727)
  - date_published: 2022-07-27T14:29:18+00:00
 
+ ## The Truman Show Tried To Warn You
+ - [https://www.youtube.com/watch?v=cHdp4iGjVUs](https://www.youtube.com/watch?v=cHdp4iGjVUs)
+ - date_published: 2022-07-28T00:00:00+00:00
+ - tags: ['movies', 'truman show']
+
  ## Google's Nest Will Provide Data to Police Without a Warrant | PetaPixel
  - [https://petapixel.com/2022/07/27/googles-nest-will-provide-data-to-police-without-a-warrant](https://petapixel.com/2022/07/27/googles-nest-will-provide-data-to-police-without-a-warrant)
  - date_published: 2022-07-28T08:36:58.313714+00:00
@@ -3250,10 +3255,10 @@
  - date_published: 2022-07-28T20:01:02+00:00
  - tags: ['franz kafka']
 
- ## The Truman Show Tried To Warn You
- - [https://www.youtube.com/watch?v=cHdp4iGjVUs](https://www.youtube.com/watch?v=cHdp4iGjVUs)
- - date_published: 2022-07-28T20:39:02+00:00
- - tags: ['movies', 'truman show']
+ ## Why Elon Musk Can’t Save Free Speech
+ - [https://www.youtube.com/watch?v=79pS5OXKTkU](https://www.youtube.com/watch?v=79pS5OXKTkU)
+ - date_published: 2022-07-29T00:00:00+00:00
+ - tags: ['censorship', 'free speech', 'moderation']
 
  ## Remote attestation is coming back. How much freedom will it take? – Gabriel Sieben
  - [https://gabrielsieben.tech/2022/07/29/remote-assertion-is-coming-back-how-much-freedom-will-it-take](https://gabrielsieben.tech/2022/07/29/remote-assertion-is-coming-back-how-much-freedom-will-it-take)
@@ -3274,11 +3279,6 @@
  - date_published: 2022-07-29T14:09:02+00:00
  - tags: ['crisis', 'sri lanka']
 
- ## Why Elon Musk Can’t Save Free Speech
- - [https://www.youtube.com/watch?v=79pS5OXKTkU](https://www.youtube.com/watch?v=79pS5OXKTkU)
- - date_published: 2022-07-29T18:30:12+00:00
- - tags: ['censorship', 'free speech', 'moderation']
-
  ## How Tor Is Fighting—and Beating—Russian Censorship | WIRED
  - [https://www.wired.com/story/tor-browser-russia-blocks](https://www.wired.com/story/tor-browser-russia-blocks)
  - date_published: 2022-07-31T10:10:10.144852+00:00
@@ -3291,6 +3291,10 @@
  - [https://blog.lidskialf.net/2021/02/08/turning-an-old-kindle-into-a-eink-development-platform](https://blog.lidskialf.net/2021/02/08/turning-an-old-kindle-into-a-eink-development-platform)
  - date_published: 2022-07-31T17:51:02.419885+00:00
  - tags: ['amazon', 'hardware', 'kindle', 'programming']
+
+ ## Blockade Australia climate activist can't use encrypted apps, must let police access phone - ABC News
+ - [https://www.abc.net.au/news/science/2022-08-01/blockade-australia-technology-bail-conditions-encrypted-apps/101277038](https://www.abc.net.au/news/science/2022-08-01/blockade-australia-technology-bail-conditions-encrypted-apps/101277038)
+ - date_published: 2022-07-31T18:30:00+00:00
 
  ## The looming copper crunch and why recycling can’t fix it - MINING.COM
  - [https://www.mining.com/the-looming-copper-crunch-and-why-recycling-cant-fix-it](https://www.mining.com/the-looming-copper-crunch-and-why-recycling-cant-fix-it)
@@ -3305,10 +3309,6 @@
  - [https://nypost.com/2022/09/01/californians-asked-not-to-charge-electric-cars-amid-heat-wave](https://nypost.com/2022/09/01/californians-asked-not-to-charge-electric-cars-amid-heat-wave)
  - date_published: 2022-08-01T20:36:35+00:00
  - tags: ['california', 'climate change', 'electric vehicles', 'technofeudalism']
-
- ## Blockade Australia climate activist can't use encrypted apps, must let police access phone - ABC News
- - [https://www.abc.net.au/news/science/2022-08-01/blockade-australia-technology-bail-conditions-encrypted-apps/101277038](https://www.abc.net.au/news/science/2022-08-01/blockade-australia-technology-bail-conditions-encrypted-apps/101277038)
- - date_published: 2022-08-01T21:54:49.334995+00:00
 
  ## TikTok Diagnosis Videos Leave Some Teens Thinking They Have Rare Mental Disorders - WSJ
  - [https://www.wsj.com/articles/tiktok-diagnosis-videos-leave-some-teens-thinking-they-have-rare-mental-disorders-11640514602](https://www.wsj.com/articles/tiktok-diagnosis-videos-leave-some-teens-thinking-they-have-rare-mental-disorders-11640514602)
@@ -3385,6 +3385,11 @@
  - [https://blog.jim-nielsen.com/2022/other-peoples-websites](https://blog.jim-nielsen.com/2022/other-peoples-websites)
  - date_published: 2022-08-04T20:54:17.041706+00:00
 
+ ## Hyundai and Kia Cars Can Be Stolen using a USB Cable
+ - [https://www.bolnews.com/technology/2022/08/hyundai-and-kia-cars-can-be-stolen-using-a-usb-cable](https://www.bolnews.com/technology/2022/08/hyundai-and-kia-cars-can-be-stolen-using-a-usb-cable)
+ - date_published: 2022-08-05T05:31:08+00:00
+ - tags: ['electric vehicles', 'hackers', 'vulnerability']
+
  ## The UK Online Safety Bill Attacks Free Speech and Encryption | Electronic Frontier Foundation
  - [https://www.eff.org/deeplinks/2022/08/uks-online-safety-bill-attacks-free-speech-and-encryption](https://www.eff.org/deeplinks/2022/08/uks-online-safety-bill-attacks-free-speech-and-encryption)
  - date_published: 2022-08-05T06:49:00+00:00
@@ -3405,6 +3410,11 @@
  - date_published: 2022-08-05T12:37:08+00:00
  - tags: ['amazon', 'corporatocracy', 'irobot', 'privacy', 'technofeudalism']
 
+ ## Uber’s Still Not Profitable
+ - [https://doctorow.medium.com/ubers-still-not-profitable-bd483309e4b](https://doctorow.medium.com/ubers-still-not-profitable-bd483309e4b)
+ - date_published: 2022-08-05T18:37:09+00:00
+ - tags: ['uber']
+
  ## Nix – taming Unix with functional programming - Tweag
  - [https://www.tweag.io/blog/2022-07-14-taming-unix-with-nix/#fnref-2](https://www.tweag.io/blog/2022-07-14-taming-unix-with-nix/#fnref-2)
  - date_published: 2022-08-05T22:39:09.178430+00:00
@@ -3417,6 +3427,14 @@
  - [https://dorzeczy.pl/opinie/332758/pospieszalski-oswajanie.html](https://dorzeczy.pl/opinie/332758/pospieszalski-oswajanie.html)
  - date_published: 2022-08-07T14:58:22+00:00
  - tags: ['cbdc', 'social score']
+
+ ## Nobody Wants to Teach Anymore. Everyone should know why. | by Jessica Wildfire | Aug, 2022 | Medium
+ - [https://jessicalexicus.medium.com/nobody-wants-to-teach-anymore-66f09b877b11](https://jessicalexicus.medium.com/nobody-wants-to-teach-anymore-66f09b877b11)
+ - date_published: 2022-08-08T00:20:05+00:00
+
+ ## I Don’t Like Go’s Default HTTP Handlers · Preslav Rachev
+ - [https://preslav.me/2022/08/09/i-dont-like-golang-default-http-handlers](https://preslav.me/2022/08/09/i-dont-like-golang-default-http-handlers)
+ - date_published: 2022-08-09T00:00:00+00:00
 
  ## It’s time for Apple to fix texting.
  - [https://www.android.com/get-the-message](https://www.android.com/get-the-message)
@@ -3452,9 +3470,10 @@
  - [https://reb00ted.org/tech/20220727-end-of-social-networking](https://reb00ted.org/tech/20220727-end-of-social-networking)
  - date_published: 2022-08-12T10:13:32.548886+00:00
 
- ## I Don’t Like Go’s Default HTTP Handlers · Preslav Rachev
- - [https://preslav.me/2022/08/09/i-dont-like-golang-default-http-handlers](https://preslav.me/2022/08/09/i-dont-like-golang-default-http-handlers)
- - date_published: 2022-08-12T15:52:21.262919+00:00
+ ## Become Untraceable - How To Create An Anonymous Identity | Tutorial
+ - [https://www.youtube.com/watch?v=G_QsQp7DyjE](https://www.youtube.com/watch?v=G_QsQp7DyjE)
+ - date_published: 2022-08-13T00:00:00+00:00
+ - tags: ['anonymity', 'privacy', 'tracking']
 
  ## Sustainable Debt Slavery
  - [https://unlimitedhangout.com/2022/09/investigative-reports/sustainable-debt-slavery](https://unlimitedhangout.com/2022/09/investigative-reports/sustainable-debt-slavery)
@@ -3468,11 +3487,6 @@
  ## The Hacking of Starlink Terminals Has Begun | WIRED
  - [https://www.wired.com/story/starlink-internet-dish-hack](https://www.wired.com/story/starlink-internet-dish-hack)
  - date_published: 2022-08-13T10:18:22.913665+00:00
-
- ## Become Untraceable - How To Create An Anonymous Identity | Tutorial
- - [https://www.youtube.com/watch?v=G_QsQp7DyjE](https://www.youtube.com/watch?v=G_QsQp7DyjE)
- - date_published: 2022-08-13T15:12:14+00:00
- - tags: ['anonymity', 'privacy', 'tracking']
 
  ## How I Hacked my Car :: Programming With Style
  - [https://programmingwithstyle.com/posts/howihackedmycar](https://programmingwithstyle.com/posts/howihackedmycar)
@@ -3575,6 +3589,11 @@
  - date_published: 2022-08-21T21:01:55+00:00
  - tags: ['deplatform', 'google', 'technofeudalism']
 
+ ## TikTok's in-app browser can monitor your keystrokes, including passwords and credit cards, researcher says - ABC News
+ - [https://www.abc.net.au/news/2022-08-22/tiktok-in-app-browser-can-monitor-keystrokes-researcher-finds/101356198](https://www.abc.net.au/news/2022-08-22/tiktok-in-app-browser-can-monitor-keystrokes-researcher-finds/101356198)
+ - date_published: 2022-08-22T02:44:50+00:00
+ - tags: ['big tech', 'privacy', 'surveillance', 'tiktok']
+
  ## Why don't we do email verification in reverse?
  - [https://blog.yossarian.net/2022/08/20/Why-dont-we-do-email-verification-in-reverse#fnref:simplified](https://blog.yossarian.net/2022/08/20/Why-dont-we-do-email-verification-in-reverse#fnref:simplified)
  - date_published: 2022-08-22T06:53:03.166848+00:00
@@ -3583,10 +3602,6 @@
  - [https://pubmed.ncbi.nlm.nih.gov/36055877](https://pubmed.ncbi.nlm.nih.gov/36055877)
  - date_published: 2022-08-22T07:19:32+00:00
  - tags: ['covid', 'vaccine']
-
- ## Nobody Wants to Teach Anymore. Everyone should know why. | by Jessica Wildfire | Aug, 2022 | Medium
- - [https://jessicalexicus.medium.com/nobody-wants-to-teach-anymore-66f09b877b11](https://jessicalexicus.medium.com/nobody-wants-to-teach-anymore-66f09b877b11)
- - date_published: 2022-08-22T07:59:49.462089+00:00
 
  ## Silent crisis of soaring excess deaths gripping Britain is only tip of the iceberg
  - [https://uk.news.yahoo.com/silent-crisis-soaring-excess-deaths-203000290.html](https://uk.news.yahoo.com/silent-crisis-soaring-excess-deaths-203000290.html)
@@ -3602,19 +3617,24 @@
  - date_published: 2022-08-22T13:50:49.108687+00:00
  - tags: ['ad business', 'privacy', 'smart home', 'technofeudalism', 'tracking']
 
- ## TikTok's in-app browser can monitor your keystrokes, including passwords and credit cards, researcher says - ABC News
- - [https://www.abc.net.au/news/2022-08-22/tiktok-in-app-browser-can-monitor-keystrokes-researcher-finds/101356198](https://www.abc.net.au/news/2022-08-22/tiktok-in-app-browser-can-monitor-keystrokes-researcher-finds/101356198)
- - date_published: 2022-08-22T15:11:18+00:00
- - tags: ['big tech', 'privacy', 'surveillance', 'tiktok']
-
  ## British Farmers Consider Moving Production to Morocco Amid Rising Costs
  - [https://www.moroccoworldnews.com/2022/09/351473/british-farmers-consider-moving-production-to-morocco-amid-rising-costs](https://www.moroccoworldnews.com/2022/09/351473/british-farmers-consider-moving-production-to-morocco-amid-rising-costs)
  - date_published: 2022-08-22T20:55:06+00:00
  - tags: ['agriculture', 'england']
 
+ ## How corporations used Covid crysis
+ - [https://www.youtube.com/watch?v=7jH0w8Jdgjk](https://www.youtube.com/watch?v=7jH0w8Jdgjk)
+ - date_published: 2022-08-23T00:00:00+00:00
+ - tags: ['corporations', 'corporatocracy', 'covid']
+
  ## Extreme emphasis on sexual harassment stifles productive scientific discourse between men and women
  - [https://hxstem.substack.com/p/extreme-emphasis-on-sexual-harassment](https://hxstem.substack.com/p/extreme-emphasis-on-sexual-harassment)
  - date_published: 2022-08-23T06:00:00+00:00
+
+ ## Amazon rośnie w siłę. Czy sięgnie po dane medyczne? [OPINIA]
+ - [https://cyberdefence24.pl/prywatnosc/amazon-rosnie-w-sile-czy-siegnie-po-dane-medyczne-opinia](https://cyberdefence24.pl/prywatnosc/amazon-rosnie-w-sile-czy-siegnie-po-dane-medyczne-opinia)
+ - date_published: 2022-08-23T08:46:44+00:00
+ - tags: ['amazon', 'medical data', 'monopoly']
 
  ## YouTube joins Facebook in banning Andrew Tate
  - [https://www.bbc.co.uk/news/technology-62602913?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-62602913?at_medium=RSS&at_campaign=KARANGA)
@@ -3625,19 +3645,9 @@
  - date_published: 2022-08-23T11:01:46+00:00
  - tags: ['censorship', 'deplatform']
 
- ## Amazon rośnie w siłę. Czy sięgnie po dane medyczne? [OPINIA]
- - [https://cyberdefence24.pl/prywatnosc/amazon-rosnie-w-sile-czy-siegnie-po-dane-medyczne-opinia](https://cyberdefence24.pl/prywatnosc/amazon-rosnie-w-sile-czy-siegnie-po-dane-medyczne-opinia)
- - date_published: 2022-08-23T16:49:17+00:00
- - tags: ['amazon', 'medical data', 'monopoly']
-
  ## Why are Oppo and OnePlus phones banned in Germany?
  - [https://www.trustedreviews.com/explainer/why-are-oppo-and-oneplus-phones-banned-in-germany-4256660](https://www.trustedreviews.com/explainer/why-are-oppo-and-oneplus-phones-banned-in-germany-4256660)
  - date_published: 2022-08-23T20:40:13+00:00
-
- ## How corporations used Covid crysis
- - [https://www.youtube.com/watch?v=7jH0w8Jdgjk](https://www.youtube.com/watch?v=7jH0w8Jdgjk)
- - date_published: 2022-08-23T20:58:42+00:00
- - tags: ['corporations', 'corporatocracy', 'covid']
 
  ## Oracle pozwane za gromadzenie i sprzedaż danych osobowych miliardów osób
  - [https://ithardware.pl/aktualnosci/oracle_pozwane_za_gromadzenie_i_sprzedaz_danych_osobowych_miliardow_osob-22905.html](https://ithardware.pl/aktualnosci/oracle_pozwane_za_gromadzenie_i_sprzedaz_danych_osobowych_miliardow_osob-22905.html)
@@ -3755,6 +3765,11 @@
  - date_published: 2022-08-25T08:40:00+00:00
  - tags: ['duckduckgo', 'privacy', 'tracking']
 
+ ## 4 Times 4chan Warned The Internet
+ - [https://www.youtube.com/watch?v=AfaEv3KvF3Y](https://www.youtube.com/watch?v=AfaEv3KvF3Y)
+ - date_published: 2022-08-26T00:00:00+00:00
+ - tags: ['4chan', 'jeffrey epstein', 'unverified']
+
  ## The Three F's of Open Source Development | Ben E. C. Boyter
  - [https://boyter.org/posts/the-three-f-s-of-open-source](https://boyter.org/posts/the-three-f-s-of-open-source)
  - date_published: 2022-08-26T07:40:17.274645+00:00
@@ -3780,11 +3795,6 @@
  ## Your online identity is owned by your email provider | Ctrl blog
  - [https://www.ctrl.blog/entry/email-identity-provider.html](https://www.ctrl.blog/entry/email-identity-provider.html)
  - date_published: 2022-08-26T14:41:39.203347+00:00
-
- ## 4 Times 4chan Warned The Internet
- - [https://www.youtube.com/watch?v=AfaEv3KvF3Y](https://www.youtube.com/watch?v=AfaEv3KvF3Y)
- - date_published: 2022-08-26T15:50:01+00:00
- - tags: ['4chan', 'jeffrey epstein', 'unverified']
 
  ## How I used Go to make my radio auto-switch to AUX-IN when a Raspi plays music · Applied Go
  - [https://appliedgo.net/auxin](https://appliedgo.net/auxin)
@@ -3868,6 +3878,10 @@
  - date_published: 2022-08-29T16:56:15+00:00
  - tags: ['brics', 'cbdc', 'fiat currency']
 
+ ## The Huawei Backdoor Conspiracy
+ - [https://www.youtube.com/watch?v=z7luwhj9a2w](https://www.youtube.com/watch?v=z7luwhj9a2w)
+ - date_published: 2022-08-30T00:00:00+00:00
+
  ## Echo reply (an incomplete update on things)
  - [https://rachelbythebay.com/w/2022/08/29/pong](https://rachelbythebay.com/w/2022/08/29/pong)
  - date_published: 2022-08-30T06:46:54.846250+00:00
@@ -3876,10 +3890,6 @@
  - [https://vadimkravcenko.com/shorts/the-silent-majority](https://vadimkravcenko.com/shorts/the-silent-majority)
  - date_published: 2022-08-30T07:21:49.439401+00:00
 
- ## The Huawei Backdoor Conspiracy
- - [https://www.youtube.com/watch?v=z7luwhj9a2w](https://www.youtube.com/watch?v=z7luwhj9a2w)
- - date_published: 2022-08-30T17:39:24+00:00
-
  ## Stable Diffusion is a really big deal
  - [https://simonwillison.net/2022/Aug/29/stable-diffusion](https://simonwillison.net/2022/Aug/29/stable-diffusion)
  - date_published: 2022-08-30T21:18:12.348242+00:00
@@ -3887,6 +3897,10 @@
  ## 4.2 Gigabytes, or: How to Draw Anything - ⌨️🤷🏻‍♂️📷
  - [https://andys.page/posts/how-to-draw/#](https://andys.page/posts/how-to-draw/#)
  - date_published: 2022-08-30T21:26:31+00:00
+
+ ## Thought The Pandemic Was Bad? THIS Is What’s Coming
+ - [https://www.youtube.com/watch?v=CqIJbLGV52c](https://www.youtube.com/watch?v=CqIJbLGV52c)
+ - date_published: 2022-08-31T00:00:00+00:00
 
  ## Undetected for 6 years, sophisticated malware can spy on PCs through your router
  - [https://bgr.com/tech/slingshot-malware-routers-infected-pcs](https://bgr.com/tech/slingshot-malware-routers-infected-pcs)
@@ -3897,10 +3911,6 @@
  - [https://www.money.pl/gospodarka/czeka-nas-wielki-dlug-rzad-stworzyl-budzet-widmo-z-mnostwem-dziur-6807303691635616a.html](https://www.money.pl/gospodarka/czeka-nas-wielki-dlug-rzad-stworzyl-budzet-widmo-z-mnostwem-dziur-6807303691635616a.html)
  - date_published: 2022-08-31T07:06:54+00:00
  - tags: ['poland', 'prawo i sprawiedliwość']
-
- ## Thought The Pandemic Was Bad? THIS Is What’s Coming
- - [https://www.youtube.com/watch?v=CqIJbLGV52c](https://www.youtube.com/watch?v=CqIJbLGV52c)
- - date_published: 2022-08-31T07:25:12+00:00
 
  ## Tutorial - Setting up Shiori
  - [https://noted.lol/tutorial-setting-up-shiori](https://noted.lol/tutorial-setting-up-shiori)
@@ -4072,11 +4082,6 @@
  - [https://www.theguardian.com/news/2022/sep/04/super-rich-prepper-bunkers-apocalypse-survival-richest-rushkoff](https://www.theguardian.com/news/2022/sep/04/super-rich-prepper-bunkers-apocalypse-survival-richest-rushkoff)
  - date_published: 2022-09-04T09:43:52+00:00
  - tags: ['billionaires', 'elites']
-
- ## Uber’s Still Not Profitable
- - [https://doctorow.medium.com/ubers-still-not-profitable-bd483309e4b](https://doctorow.medium.com/ubers-still-not-profitable-bd483309e4b)
- - date_published: 2022-09-04T09:48:06+00:00
- - tags: ['uber']
 
  ## Koronawirus skrócił średnią długość życia Amerykanów. To największy spadek od niemal 100 lat
  - [https://www.bankier.pl/wiadomosc/Koronawirus-skrocil-srednia-dlugosc-zycia-Amerykanow-To-najwiekszy-spadek-od-niemal-100-lat-8398555.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Koronawirus-skrocil-srednia-dlugosc-zycia-Amerykanow-To-najwiekszy-spadek-od-niemal-100-lat-8398555.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -4312,11 +4317,6 @@
  - date_published: 2022-09-08T04:00:00+00:00
  - tags: ['artificial intelligence', 'open source']
 
- ## I Got Banned for Life from Airbnb
- - [https://jacksoncunningham.medium.com/digital-exile-how-i-got-banned-for-life-from-airbnb-615434c6eeba](https://jacksoncunningham.medium.com/digital-exile-how-i-got-banned-for-life-from-airbnb-615434c6eeba)
- - date_published: 2022-09-08T06:28:55+00:00
- - tags: ['censorship', 'subscription', 'technofeudalism']
-
  ## Why It’s OK to Block Ads (2015)
  - [http://blog.practicalethics.ox.ac.uk/2015/10/why-its-ok-to-block-ads](http://blog.practicalethics.ox.ac.uk/2015/10/why-its-ok-to-block-ads)
  - date_published: 2022-09-08T08:33:08+00:00
@@ -4344,6 +4344,11 @@
  ## http://http://http://@http://http://?http://#http:// | daniel.haxx.se
  - [https://daniel.haxx.se/blog/2022/09/08/http-http-http-http-http-http-http](https://daniel.haxx.se/blog/2022/09/08/http-http-http-http-http-http-http)
  - date_published: 2022-09-08T21:35:28.606984+00:00
+
+ ## How Singapore Got Insanely Rich
+ - [https://www.youtube.com/watch?v=XSOgcpRbrCo](https://www.youtube.com/watch?v=XSOgcpRbrCo)
+ - date_published: 2022-09-09T00:00:00+00:00
+ - tags: ['singapore']
 
  ## Apple’s Killing the Password. Here’s Everything You Need to Know
  - [https://www.wired.com/story/apple-passkeys-password-iphone-mac-ios16-ventura](https://www.wired.com/story/apple-passkeys-password-iphone-mac-ios16-ventura)
@@ -4393,6 +4398,11 @@
  - [https://www.androidauthority.com/google-doj-antitrust-action-3207188](https://www.androidauthority.com/google-doj-antitrust-action-3207188)
  - date_published: 2022-09-09T16:31:43+00:00
 
+ ## 1249 Athlete Heart Attacks, 847 Dead, Since Last Year - Slay News
+ - [https://slaynews.com/news/1249-athlete-heart-attacks-847-dead-since-last-year](https://slaynews.com/news/1249-athlete-heart-attacks-847-dead-since-last-year)
+ - date_published: 2022-09-09T17:54:50+00:00
+ - tags: ['covid']
+
  ## Why Is Legacy Media So Boring? CNN Pushes Climate Change, BLM, Reparations, And More While Discussing King Charles III
  - [https://www.dailywire.com/news/why-is-legacy-media-so-boring-cnn-pushes-climate-change-blm-reparations-and-more-while-discussing-king-charles-iii](https://www.dailywire.com/news/why-is-legacy-media-so-boring-cnn-pushes-climate-change-blm-reparations-and-more-while-discussing-king-charles-iii)
  - date_published: 2022-09-09T18:03:42+00:00
@@ -4401,11 +4411,6 @@
  ## Supreme Court Sides With Yeshiva University In LGBTQ Club Case
  - [https://www.dailywire.com/news/supreme-court-sides-with-yeshiva-university-in-lgbtq-club-case](https://www.dailywire.com/news/supreme-court-sides-with-yeshiva-university-in-lgbtq-club-case)
  - date_published: 2022-09-09T19:26:32+00:00
-
- ## 1249 Athlete Heart Attacks, 847 Dead, Since Last Year - Slay News
- - [https://slaynews.com/news/1249-athlete-heart-attacks-847-dead-since-last-year](https://slaynews.com/news/1249-athlete-heart-attacks-847-dead-since-last-year)
- - date_published: 2022-09-09T19:33:13+00:00
- - tags: ['covid']
 
  ## Regarding the eSIM-only iPhone 14 models in the U.S.
  - [https://chrisx.xyz/blog/regarding-esim-only-iphone-14-in-the-us](https://chrisx.xyz/blog/regarding-esim-only-iphone-14-in-the-us)
@@ -4761,6 +4766,10 @@
  - date_published: 2022-09-15T22:47:43+00:00
  - tags: ['ad business', 'subscription', 'technofeudalism', 'youtube']
 
+ ## Soft White Underbelly demonetized by YouTube [video]
+ - [https://www.youtube.com/watch?v=81bMiEjYZ54](https://www.youtube.com/watch?v=81bMiEjYZ54)
+ - date_published: 2022-09-16T00:00:00+00:00
+
  ## Tech Companies Ramp Up Efforts to Combat Online Extremism     - CNET
  - [https://www.cnet.com/news/social-media/tech-companies-ramp-up-efforts-to-combat-online-extremism/#ftag=CADf328eec](https://www.cnet.com/news/social-media/tech-companies-ramp-up-efforts-to-combat-online-extremism/#ftag=CADf328eec)
  - date_published: 2022-09-16T03:30:00+00:00
@@ -4811,10 +4820,6 @@
  ## Jeff Geerling, Stably Diffused | Jeff Geerling
  - [https://www.jeffgeerling.com/blog/2022/jeff-geerling-stably-diffused](https://www.jeffgeerling.com/blog/2022/jeff-geerling-stably-diffused)
  - date_published: 2022-09-17T07:07:57.045596+00:00
-
- ## Soft White Underbelly demonetized by YouTube [video]
- - [https://www.youtube.com/watch?v=81bMiEjYZ54](https://www.youtube.com/watch?v=81bMiEjYZ54)
- - date_published: 2022-09-17T08:42:36+00:00
 
  ## Jeffrey Epstein's sex abuse victims 'frustrated' over Prince Andrew public appearances
  - [https://www.dailymail.co.uk/news/article-11221927/Jeffrey-Epsteins-sex-abuse-victims-frustrated-Prince-Andrew-public-appearances.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11221927/Jeffrey-Epsteins-sex-abuse-victims-frustrated-Prince-Andrew-public-appearances.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -4965,11 +4970,6 @@
  ## I accidentally started a movement – Policing the Police by scraping court data
  - [https://news.ycombinator.com/item?id=32902945](https://news.ycombinator.com/item?id=32902945)
  - date_published: 2022-09-19T19:42:21+00:00
-
- ## How Singapore Got Insanely Rich
- - [https://www.youtube.com/watch?v=XSOgcpRbrCo](https://www.youtube.com/watch?v=XSOgcpRbrCo)
- - date_published: 2022-09-20T06:28:12+00:00
- - tags: ['singapore']
 
  ## Prof. Bralczyk broni „Murzyna”. TikTok usuwa jego wypowiedź - TrueStory
  - [https://truestory.pl/prof-bralczyk-broni-murzyna-tiktok-usuwa-jego-wypowiedz](https://truestory.pl/prof-bralczyk-broni-murzyna-tiktok-usuwa-jego-wypowiedz)
@@ -5827,11 +5827,6 @@
  - date_published: 2022-10-05T04:32:25+00:00
  - tags: ['open source']
 
- ## Hyundai and Kia Cars Can Be Stolen using a USB Cable
- - [https://www.bolnews.com/technology/2022/08/hyundai-and-kia-cars-can-be-stolen-using-a-usb-cable](https://www.bolnews.com/technology/2022/08/hyundai-and-kia-cars-can-be-stolen-using-a-usb-cable)
- - date_published: 2022-10-05T07:50:34+00:00
- - tags: ['electric vehicles', 'hackers', 'vulnerability']
-
  ## I'm a professional baker and the butter shortage has me worried
  - [https://www.foxnews.com/opinion/professional-baker-butter-shortage-worried](https://www.foxnews.com/opinion/professional-baker-butter-shortage-worried)
  - date_published: 2022-10-05T08:00:14+00:00
@@ -6150,6 +6145,11 @@
  - date_published: 2022-10-11T20:02:47+00:00
  - tags: ['apple', 'corporatocracy', 'facebook', 'mark zuckerberg', 'monopoly']
 
+ ## Rings of Power: Galadriel is "Secretly" a Mary Sue and Here's Why
+ - [https://www.youtube.com/watch?v=eLDfSP3ONpo](https://www.youtube.com/watch?v=eLDfSP3ONpo)
+ - date_published: 2022-10-12T00:00:00+00:00
+ - tags: ['mary sue', 'movies']
+
  ## Dr. Phil speaks out on the dangers of cancel culture and censorship
  - [https://www.foxnews.com/media/dr-phil-speaks-dangers-cancel-culture-censorship](https://www.foxnews.com/media/dr-phil-speaks-dangers-cancel-culture-censorship)
  - date_published: 2022-10-12T05:22:18+00:00
@@ -6168,11 +6168,6 @@
  ## Social Media Is Wrong About Microwaves
  - [https://lifehacker.com/social-media-is-wrong-about-microwaves-1849648107](https://lifehacker.com/social-media-is-wrong-about-microwaves-1849648107)
  - date_published: 2022-10-12T16:30:00+00:00
-
- ## Rings of Power: Galadriel is "Secretly" a Mary Sue and Here's Why
- - [https://www.youtube.com/watch?v=eLDfSP3ONpo](https://www.youtube.com/watch?v=eLDfSP3ONpo)
- - date_published: 2022-10-12T17:30:11+00:00
- - tags: ['mary sue', 'movies']
 
  ## BREAKING: European Parliament MEP calls EU Covid vaccine purchases “biggest CORRUPTION SCANDAL in history”
  - [https://euroweeklynews.com/2022/10/12/breaking-european-parliaments-mislav-kolakusic-calls-eus-covid-vaccine-purchases-biggest-corruption-scandal-in-history](https://euroweeklynews.com/2022/10/12/breaking-european-parliaments-mislav-kolakusic-calls-eus-covid-vaccine-purchases-biggest-corruption-scandal-in-history)
@@ -6280,6 +6275,10 @@
  - date_published: 2022-10-15T16:22:22+00:00
  - tags: ['big pharma', 'cdc', 'covid', 'manufacturing consent', 'vaccine']
 
+ ## To understand China you need to understand whiteness, yet it's missing from the conversation
+ - [https://www.abc.net.au/news/2022-10-16/race-and-whiteness-key-to-understanding-xi-jinpings-china/101536024](https://www.abc.net.au/news/2022-10-16/race-and-whiteness-key-to-understanding-xi-jinpings-china/101536024)
+ - date_published: 2022-10-15T18:00:00+00:00
+
  ## HOW CBDCs TAKE AWAY OUR FREEDOMS ft Nigel Farage
  - [https://www.youtube.com/watch?v=N8t7npjutik](https://www.youtube.com/watch?v=N8t7npjutik)
  - date_published: 2022-10-16T00:00:00+00:00
@@ -6329,7 +6328,7 @@
 
  ## Jake Tran Exploits His Audience And No One Cares
  - [https://www.youtube.com/watch?v=xp12iqINfQY](https://www.youtube.com/watch?v=xp12iqINfQY)
- - date_published: 2022-10-18T09:56:36+00:00
+ - date_published: 2022-10-18T00:00:00+00:00
  - tags: ['jake tran', 'social media']
 
  ## Inwazja na Ukrainę przyspiesza katastrofę demograficzną w Rosji
@@ -6519,6 +6518,11 @@
  - date_published: 2022-10-21T22:53:38+00:00
  - tags: ['disinformation', 'misinformation', 'propaganda', 'psyop', 'web forum']
 
+ ## We Own Nothing In The Digital Age - We're Letting It Happen
+ - [https://www.youtube.com/watch?v=XmkFoPV5DCg](https://www.youtube.com/watch?v=XmkFoPV5DCg)
+ - date_published: 2022-10-22T00:00:00+00:00
+ - tags: ['subscription', 'technofeudalism']
+
  ## Płatność kartą na bazarze i w toalecie? Tego chcą Polacy
  - [https://www.bankier.pl/wiadomosc/Platnosc-karta-na-bazarze-i-w-toalecie-Tego-chca-Polacy-8426116.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Platnosc-karta-na-bazarze-i-w-toalecie-Tego-chca-Polacy-8426116.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date_published: 2022-10-22T05:00:00+00:00
@@ -6558,11 +6562,6 @@
  - date_published: 2022-10-22T15:22:49+00:00
  - tags: ['ad business', 'apple']
 
- ## We Own Nothing In The Digital Age - We're Letting It Happen
- - [https://www.youtube.com/watch?v=XmkFoPV5DCg](https://www.youtube.com/watch?v=XmkFoPV5DCg)
- - date_published: 2022-10-22T15:54:10+00:00
- - tags: ['subscription', 'technofeudalism']
-
  ## CNN claims pets have big climate impact, advises buying ‘smaller breeds’, feed them ‘insect-based food'
  - [https://www.foxnews.com/media/cnn-claims-pets-have-big-climate-impact-advises-buying-smaller-breeds-feed-them-insect-based-food](https://www.foxnews.com/media/cnn-claims-pets-have-big-climate-impact-advises-buying-smaller-breeds-feed-them-insect-based-food)
  - date_published: 2022-10-22T16:30:02+00:00
@@ -6587,6 +6586,11 @@
  - [https://www.foxnews.com/us/elite-nyc-private-schools-make-parents-sign-anti-racist-commitment-attend-anti-racist-training](https://www.foxnews.com/us/elite-nyc-private-schools-make-parents-sign-anti-racist-commitment-attend-anti-racist-training)
  - date_published: 2022-10-22T22:31:18+00:00
  - tags: ['indoctrination', 'propaganda', 'racism', 'usa']
+
+ ## How Physicists Proved The Universe Isn't Locally Real - Nobel Prize in Physics 2022 EXPLAINED
+ - [https://www.youtube.com/watch?v=txlCvCSefYQ](https://www.youtube.com/watch?v=txlCvCSefYQ)
+ - date_published: 2022-10-23T00:00:00+00:00
+ - tags: ['albert einstein', 'entanglement', 'physics']
 
  ## China Could Invade Taiwan Within The Next Year, Top U.S. Navy Officer Warns
  - [https://www.dailywire.com/news/china-could-invade-taiwan-within-the-next-year-u-s-navy-chief-warns](https://www.dailywire.com/news/china-could-invade-taiwan-within-the-next-year-u-s-navy-chief-warns)
@@ -6617,11 +6621,6 @@
  - [https://nypost.com/2022/10/23/lawsuit-reveals-vast-censorship-scheme-by-big-tech-and-the-federal-government](https://nypost.com/2022/10/23/lawsuit-reveals-vast-censorship-scheme-by-big-tech-and-the-federal-government)
  - date_published: 2022-10-23T20:17:14+00:00
  - tags: ['big brother', 'big tech', 'censorship']
-
- ## How Physicists Proved The Universe Isn't Locally Real - Nobel Prize in Physics 2022 EXPLAINED
- - [https://www.youtube.com/watch?v=txlCvCSefYQ](https://www.youtube.com/watch?v=txlCvCSefYQ)
- - date_published: 2022-10-23T21:42:40+00:00
- - tags: ['albert einstein', 'entanglement', 'physics']
 
  ## Ads nearly ruined the iPhone's App Store, and Apple's about to add more of them
  - [https://www.techradar.com/news/ads-nearly-ruined-the-iphones-app-store-and-apples-about-to-add-more-of-them](https://www.techradar.com/news/ads-nearly-ruined-the-iphones-app-store-and-apples-about-to-add-more-of-them)
@@ -6931,7 +6930,6 @@
  - [https://www.caranddriver.com/research/a31875141/electric-car-battery-life](https://www.caranddriver.com/research/a31875141/electric-car-battery-life)
  - date_published: 2022-10-26T16:53:37+00:00
  - tags: ['electric vehicles']
- - date_dead_since: 2025-02-05T04:34:38.247283+00:00
 
  ## Tell HN: Meta is using my 2FA to call and sell me
  - [https://news.ycombinator.com/item?id=33346568](https://news.ycombinator.com/item?id=33346568)
@@ -7066,8 +7064,13 @@
 
  ## Foreign investors are pulling out quickly: China's economy is looking bleak/A major purge is coming
  - [https://www.youtube.com/watch?v=M7DRDIwHa0E](https://www.youtube.com/watch?v=M7DRDIwHa0E)
- - date_published: 2022-10-28T01:15:08+00:00
+ - date_published: 2022-10-28T00:00:00+00:00
  - tags: ['china']
+
+ ## Wicked Globalists Are Causing Starvation and Poverty Under the Guise of Environmentalism
+ - [https://www.youtube.com/watch?v=tF5spyudTYA](https://www.youtube.com/watch?v=tF5spyudTYA)
+ - date_published: 2022-10-28T00:00:00+00:00
+ - tags: ['all time', 'climate change', 'environmentalism', 'jordan peterson']
 
  ## Elon Musk completes Twitter purchase, immediately fires CEO and other execs
  - [https://arstechnica.com/?p=1893477](https://arstechnica.com/?p=1893477)
@@ -7147,11 +7150,6 @@
  - [https://www.science.org/content/article/nam-exonerates-daszak](https://www.science.org/content/article/nam-exonerates-daszak)
  - date_published: 2022-10-28T19:10:24+00:00
  - tags: ['covid', 'daszak', 'wuhan']
-
- ## Wicked Globalists Are Causing Starvation and Poverty Under the Guise of Environmentalism
- - [https://www.youtube.com/watch?v=tF5spyudTYA](https://www.youtube.com/watch?v=tF5spyudTYA)
- - date_published: 2022-10-28T20:25:45+00:00
- - tags: ['all time', 'climate change', 'environmentalism', 'jordan peterson']
 
  ## Researcher who wrote 2019 report on 'gaps' in IQ between 'whites' and 'blacks' hired by Cambridge
  - [https://www.dailymail.co.uk/news/article-11366515/Researcher-wrote-2019-report-gaps-IQ-whites-blacks-hired-Cambridge.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11366515/Researcher-wrote-2019-report-gaps-IQ-whites-blacks-hired-Cambridge.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -7318,10 +7316,6 @@
  - date_published: 2022-10-31T13:00:14+00:00
  - tags: ['covid', 'digital identity', 'fraud', 'pandemic']
 
- ## To understand China you need to understand whiteness, yet it's missing from the conversation
- - [https://www.abc.net.au/news/2022-10-16/race-and-whiteness-key-to-understanding-xi-jinpings-china/101536024](https://www.abc.net.au/news/2022-10-16/race-and-whiteness-key-to-understanding-xi-jinpings-china/101536024)
- - date_published: 2022-10-31T13:25:33+00:00
-
  ## California makes it illegal for doctors to disagree with politicians
  - [https://nypost.com/2022/10/10/california-makes-it-illegal-for-doctors-to-disagree-with-politicians](https://nypost.com/2022/10/10/california-makes-it-illegal-for-doctors-to-disagree-with-politicians)
  - date_published: 2022-10-31T13:27:01+00:00
@@ -7355,6 +7349,11 @@
  ## Shanghai Disneyland Reportedly Shuts Down Due to COVID With Guests Still Inside     - CNET
  - [https://www.cnet.com/health/medical/shanghai-disneyland-reportedly-shuts-down-due-to-covid-with-guests-still-inside/#ftag=CADf328eec](https://www.cnet.com/health/medical/shanghai-disneyland-reportedly-shuts-down-due-to-covid-with-guests-still-inside/#ftag=CADf328eec)
  - date_published: 2022-10-31T22:15:05+00:00
+
+ ## "I WISH I HAD MORE INTERNET FRIENDS." - Literally Nobody
+ - [https://www.youtube.com/watch?v=fVsCLKErPqE](https://www.youtube.com/watch?v=fVsCLKErPqE)
+ - date_published: 2022-11-01T00:00:00+00:00
+ - tags: ['digital dementia']
 
  ## Big Tech Worked Closely With The FBI And DHS To Police ‘Disinformation’
  - [https://www.dailywire.com/news/big-tech-worked-closely-with-the-fbi-and-dhs-to-police-disinformation](https://www.dailywire.com/news/big-tech-worked-closely-with-the-fbi-and-dhs-to-police-disinformation)
@@ -7422,10 +7421,10 @@
  - date_published: 2022-11-01T21:20:00+00:00
  - tags: ['big brother', 'censorship', 'disinformation', 'misinformation', 'surveillance']
 
- ## "I WISH I HAD MORE INTERNET FRIENDS." - Literally Nobody
- - [https://www.youtube.com/watch?v=fVsCLKErPqE](https://www.youtube.com/watch?v=fVsCLKErPqE)
- - date_published: 2022-11-01T22:24:57+00:00
- - tags: ['digital dementia']
+ ## Meta BANS ALL Children from VR Apps
+ - [https://www.youtube.com/watch?v=ZBVQ9SK8Brg](https://www.youtube.com/watch?v=ZBVQ9SK8Brg)
+ - date_published: 2022-11-02T00:00:00+00:00
+ - tags: ['meta', 'virtual reality']
 
  ## New York Magazine writer admits media 'afraid' to criticize the left on COVID, Black Lives Matter
  - [https://www.foxnews.com/media/new-york-magazine-writer-admits-media-afraid-criticize-left-covid-black-lives-matter](https://www.foxnews.com/media/new-york-magazine-writer-admits-media-afraid-criticize-left-covid-black-lives-matter)
@@ -7534,11 +7533,6 @@
  - [https://gizmodo.com/facebook-meta-news-curation-algorithm-1849734224](https://gizmodo.com/facebook-meta-news-curation-algorithm-1849734224)
  - date_published: 2022-11-02T19:50:00+00:00
  - tags: ['algorithms', 'facebook']
-
- ## Meta BANS ALL Children from VR Apps
- - [https://www.youtube.com/watch?v=ZBVQ9SK8Brg](https://www.youtube.com/watch?v=ZBVQ9SK8Brg)
- - date_published: 2022-11-02T20:15:25+00:00
- - tags: ['meta', 'virtual reality']
 
  ## FBI official tied to suppressing Hunter laptop story STILL involved in briefing Facebook and Twitter
  - [https://www.dailymail.co.uk/news/article-11383013/FBI-official-tied-suppressing-Hunter-laptop-story-involved-briefing-Facebook-Twitter.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11383013/FBI-official-tied-suppressing-Hunter-laptop-story-involved-briefing-Facebook-Twitter.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
