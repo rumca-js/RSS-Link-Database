@@ -897,7 +897,7 @@
 
  ## Victor Davis Hanson - How COVID Lockdowns Killed Small Businesses | Highlights Ep.38
  - [https://www.youtube.com/watch?v=-CucAwH3YQY](https://www.youtube.com/watch?v=-CucAwH3YQY)
- - date_published: 2022-02-13T21:56:39+00:00
+ - date_published: 2022-02-13T00:00:00+00:00
  - tags: ['covid', 'lockdown']
 
  ## Kanada: Premier Justin Trudeau wprowadza stan wyjątkowy w Kanadzie
@@ -969,6 +969,10 @@
  - date_published: 2022-02-18T09:42:22.048954+00:00
  - date_dead_since: 2025-03-26T04:21:14.157476+00:00
 
+ ## The United States of Amazon: The Day Amazon Sent the FBI to Take My Family’s Bank Accounts | by Amy Nelson | Feb, 2022 | Medium
+ - [https://medium.com/@amy_riveter/the-united-states-of-amazon-the-day-amazon-sent-the-fbi-to-take-my-familys-bank-accounts-b5172b4ddda3](https://medium.com/@amy_riveter/the-united-states-of-amazon-the-day-amazon-sent-the-fbi-to-take-my-familys-bank-accounts-b5172b4ddda3)
+ - date_published: 2022-02-18T13:57:02+00:00
+
  ## The Unreasonable Math of Type 1 Diabetes | by Graham Jenson | Feb, 2022 | Maori Geek
  - [https://maori.geek.nz/the-unreasonable-math-of-type-1-diabetes-8c96bdf5b7fb](https://maori.geek.nz/the-unreasonable-math-of-type-1-diabetes-8c96bdf5b7fb)
  - date_published: 2022-02-18T15:03:13.551609+00:00
@@ -978,14 +982,15 @@
  - date_published: 2022-02-18T17:13:45.878789+00:00
  - tags: ['psychology', 'sociology']
 
- ## The United States of Amazon: The Day Amazon Sent the FBI to Take My Family’s Bank Accounts | by Amy Nelson | Feb, 2022 | Medium
- - [https://medium.com/@amy_riveter/the-united-states-of-amazon-the-day-amazon-sent-the-fbi-to-take-my-familys-bank-accounts-b5172b4ddda3](https://medium.com/@amy_riveter/the-united-states-of-amazon-the-day-amazon-sent-the-fbi-to-take-my-familys-bank-accounts-b5172b4ddda3)
- - date_published: 2022-02-18T17:57:07.588420+00:00
-
  ## Windows 11 Pro will soon require a Microsoft Account
  - [https://www.theverge.com/2022/2/18/22940517/windows-11-pro-require-microsoft-account-internet-connection](https://www.theverge.com/2022/2/18/22940517/windows-11-pro-require-microsoft-account-internet-connection)
  - date_published: 2022-02-18T20:52:01+00:00
  - tags: ['always online', 'windows 11']
+
+ ## Tesla’s 3-6-9 and Vortex Math: Is this really the key to the universe?
+ - [https://www.youtube.com/watch?v=6ZrO90AI0c8](https://www.youtube.com/watch?v=6ZrO90AI0c8)
+ - date_published: 2022-02-19T00:00:00+00:00
+ - tags: ['math', 'vortex math']
 
  ## Interview with Senior C++ Developer
  - [https://www.youtube.com/watch?v=s7wLYzRJt3s](https://www.youtube.com/watch?v=s7wLYzRJt3s)
@@ -1006,11 +1011,6 @@
  - [https://www.bbc.com/news/world-europe-60443518](https://www.bbc.com/news/world-europe-60443518)
  - date_published: 2022-02-19T11:21:46+00:00
  - tags: ['billionairs', 'elites', 'jeffrey epstein']
-
- ## Tesla’s 3-6-9 and Vortex Math: Is this really the key to the universe?
- - [https://www.youtube.com/watch?v=6ZrO90AI0c8](https://www.youtube.com/watch?v=6ZrO90AI0c8)
- - date_published: 2022-02-19T13:54:53+00:00
- - tags: ['math', 'vortex math']
 
  ## Jeffrey Epstein's pimp Jean-Luc Brunel 'hangs himself alone in Paris jail with no CCTV
  - [https://www.dailymail.co.uk/news/article-10530247/Jeffrey-Epsteins-friend-Jean-Luc-Brunel-prison-suicide.html](https://www.dailymail.co.uk/news/article-10530247/Jeffrey-Epsteins-friend-Jean-Luc-Brunel-prison-suicide.html)
@@ -1066,17 +1066,17 @@
 
  ## I HATE CELL PHONES! (aka the antichrist)
  - [https://www.youtube.com/watch?v=7ayg4shWKkw](https://www.youtube.com/watch?v=7ayg4shWKkw)
- - date_published: 2022-02-24T20:32:23+00:00
+ - date_published: 2022-02-24T00:00:00+00:00
  - tags: ['smartphone']
+
+ ## What Went Wrong With the World Wide Web?
+ - [https://www.youtube.com/watch?v=eu8O2Suxo9A](https://www.youtube.com/watch?v=eu8O2Suxo9A)
+ - date_published: 2022-02-25T00:00:00+00:00
+ - tags: ['bloatware', 'internet', 'programming']
 
  ## Ukraine war flashes neon warning lights for chips | Reuters
  - [https://www.reuters.com/breakingviews/ukraine-war-flashes-neon-warning-lights-chips-2022-02-24](https://www.reuters.com/breakingviews/ukraine-war-flashes-neon-warning-lights-chips-2022-02-24)
  - date_published: 2022-02-25T07:51:19.738463+00:00
-
- ## What Went Wrong With the World Wide Web?
- - [https://www.youtube.com/watch?v=eu8O2Suxo9A](https://www.youtube.com/watch?v=eu8O2Suxo9A)
- - date_published: 2022-02-25T20:34:12+00:00
- - tags: ['bloatware', 'internet', 'programming']
 
  ## Miscellanea: Understanding the War in Ukraine – A Collection of Unmitigated Pedantry
  - [https://acoup.blog/2022/02/25/miscellanea-understanding-the-war-in-ukraine](https://acoup.blog/2022/02/25/miscellanea-understanding-the-war-in-ukraine)
@@ -1243,6 +1243,16 @@
  - date_published: 2022-03-10T22:30:01+00:00
  - tags: ['blackrock']
 
+ ## Why Modern Movies Suck - They Teach Us Awful Lessons
+ - [https://www.youtube.com/watch?v=Dnuqp4_K7ik](https://www.youtube.com/watch?v=Dnuqp4_K7ik)
+ - date_published: 2022-03-11T00:00:00+00:00
+ - tags: ['hollywood', 'movies']
+
+ ## How Big Pharma is Extending the Pandemic
+ - [https://www.youtube.com/watch?v=fHxV_YURY28](https://www.youtube.com/watch?v=fHxV_YURY28)
+ - date_published: 2022-03-11T00:00:00+00:00
+ - tags: ['big pharma', 'covid', 'pandemic']
+
  ## Toll signs on 101 report your transponder setting
  - [http://rachelbythebay.com/w/2022/03/09/toll](http://rachelbythebay.com/w/2022/03/09/toll)
  - date_published: 2022-03-11T06:53:58.786240+00:00
@@ -1252,11 +1262,6 @@
  - [https://jvns.ca/blog/2022/03/10/how-to-use-undocumented-web-apis](https://jvns.ca/blog/2022/03/10/how-to-use-undocumented-web-apis)
  - date_published: 2022-03-11T07:17:52.935061+00:00
 
- ## Why Modern Movies Suck - They Teach Us Awful Lessons
- - [https://www.youtube.com/watch?v=Dnuqp4_K7ik](https://www.youtube.com/watch?v=Dnuqp4_K7ik)
- - date_published: 2022-03-11T11:26:10+00:00
- - tags: ['hollywood', 'movies']
-
  ## Facebook allows war posts urging violence against Russian invaders
  - [https://www.reuters.com/world/europe/exclusive-facebook-instagram-temporarily-allow-calls-violence-against-russians-2022-03-10](https://www.reuters.com/world/europe/exclusive-facebook-instagram-temporarily-allow-calls-violence-against-russians-2022-03-10)
  - date_published: 2022-03-11T12:47:54+00:00
@@ -1265,11 +1270,6 @@
  ## Azure moves ahead of AWS in cloud adoption – report • The Register
  - [https://www.theregister.com/2022/03/09/state_of_cloud_survey](https://www.theregister.com/2022/03/09/state_of_cloud_survey)
  - date_published: 2022-03-11T15:11:33.626072+00:00
-
- ## How Big Pharma is Extending the Pandemic
- - [https://www.youtube.com/watch?v=fHxV_YURY28](https://www.youtube.com/watch?v=fHxV_YURY28)
- - date_published: 2022-03-11T22:00:32+00:00
- - tags: ['big pharma', 'covid', 'pandemic']
 
  ## Twitter makes it harder to choose the old reverse-chronological feed - The Verge
  - [https://www.theverge.com/2022/3/10/22971307/twitter-home-timeline-algorithmic-reverse-chronological-feed](https://www.theverge.com/2022/3/10/22971307/twitter-home-timeline-algorithmic-reverse-chronological-feed)
@@ -1313,15 +1313,15 @@
  - [https://www.theguardian.com/lifeandstyle/2022/mar/14/three-minute-rule-scientific-way-tackle-most-hated-chores](https://www.theguardian.com/lifeandstyle/2022/mar/14/three-minute-rule-scientific-way-tackle-most-hated-chores)
  - date_published: 2022-03-15T22:25:36.638604+00:00
 
+ ## How I survived a DDoS attack
+ - [https://www.youtube.com/watch?v=VPcYMgTYQs0](https://www.youtube.com/watch?v=VPcYMgTYQs0)
+ - date_published: 2022-03-16T00:00:00+00:00
+ - tags: ['ddos', 'hackers', 'programming']
+
  ## Secret behind Hollywood's power. And why they are afraid of the WOKE.
  - [https://www.youtube.com/watch?v=WJzXUSl20kM](https://www.youtube.com/watch?v=WJzXUSl20kM)
  - date_published: 2022-03-16T00:00:00+00:00
  - tags: ['hollywood', 'movies', 'the left wing', 'woke']
-
- ## How I survived a DDoS attack
- - [https://www.youtube.com/watch?v=VPcYMgTYQs0](https://www.youtube.com/watch?v=VPcYMgTYQs0)
- - date_published: 2022-03-16T20:52:52+00:00
- - tags: ['ddos', 'hackers', 'programming']
 
  ## Evidence based medicine has been corrupted by corporate interests, failed regulation, and commercialisation of academia, argue these authors
  - [https://www.bmj.com/content/376/bmj.o702](https://www.bmj.com/content/376/bmj.o702)
@@ -1370,6 +1370,11 @@
  - date_published: 2022-03-19T00:00:00+00:00
  - tags: ['archive', 'documentary', 'history']
 
+ ## Web3.0: A Libertarian Dystopia
+ - [https://www.youtube.com/watch?v=u-sNSjS8cq0](https://www.youtube.com/watch?v=u-sNSjS8cq0)
+ - date_published: 2022-03-19T00:00:00+00:00
+ - tags: ['all time', 'internet']
+
  ## Amazon intentionally made it difficult to cancel Prime subscription in secret project | The Independent
  - [https://www.independent.co.uk/tech/amazon-prime-subscription-cancel-secret-project-b2038207.html](https://www.independent.co.uk/tech/amazon-prime-subscription-cancel-secret-project-b2038207.html)
  - date_published: 2022-03-19T07:08:29.863295+00:00
@@ -1390,11 +1395,6 @@
  - date_published: 2022-03-19T20:15:46+00:00
  - tags: ['coudenhove-kalergi', 'depopulation', 'genocide', 'immigration', 'the right wing']
  - date_dead_since: 2024-10-19T23:39:26.627147+00:00
-
- ## Web3.0: A Libertarian Dystopia
- - [https://www.youtube.com/watch?v=u-sNSjS8cq0](https://www.youtube.com/watch?v=u-sNSjS8cq0)
- - date_published: 2022-03-19T20:47:38+00:00
- - tags: ['all time', 'internet']
 
  ## Why youtubers are leaving YouTube
  - [https://www.youtube.com/watch?v=A4SxKYCQxo0](https://www.youtube.com/watch?v=A4SxKYCQxo0)
@@ -1463,7 +1463,6 @@
  ## Mercedes Drive Pilot Beats Tesla Autopilot By Taking Legal Responsibility
  - [https://www.roadandtrack.com/news/a39481699/what-happens-if-mercedes-drivepilot-causes-a-crash](https://www.roadandtrack.com/news/a39481699/what-happens-if-mercedes-drivepilot-causes-a-crash)
  - date_published: 2022-03-23T06:58:38.346276+00:00
- - date_dead_since: 2025-02-06T14:43:19.417372+00:00
 
  ## Lia Thomas: Florida governor Ron DeSantis refuses to recognise Thomas win - BBC Sport
  - [https://www.bbc.co.uk/sport/swimming/60842863](https://www.bbc.co.uk/sport/swimming/60842863)
@@ -1553,7 +1552,7 @@
 
  ## Why Modern Movies Suck - Modern Actors
  - [https://www.youtube.com/watch?v=l04RZVeJViI](https://www.youtube.com/watch?v=l04RZVeJViI)
- - date_published: 2022-03-30T11:22:21+00:00
+ - date_published: 2022-03-30T00:00:00+00:00
  - tags: ['hollywood', 'movies']
 
  ## Biden to Receive Second Pfizer Booster After Covid Remarks - The New York Times
@@ -1572,7 +1571,6 @@
  ## EXCLUSIVE U.S. warned firms about Russia's Kaspersky software day after invasion -sources
  - [https://www.reuters.com/technology/exclusive-us-warned-firms-about-russias-kaspersky-software-day-after-invasion-2022-03-31](https://www.reuters.com/technology/exclusive-us-warned-firms-about-russias-kaspersky-software-day-after-invasion-2022-03-31)
  - date_published: 2022-03-31T00:00:00+00:00
- - date_dead_since: 2024-09-25T23:41:37.061859+00:00
 
  ## Overpopulation and the Mouse Metaverse
  - [https://notrelated.xyz/audio/s02/S02E07_-_Overpopulation_and_the_Mouse_Metaverse.ogg](https://notrelated.xyz/audio/s02/S02E07_-_Overpopulation_and_the_Mouse_Metaverse.ogg)
@@ -1740,11 +1738,6 @@
  - date_published: 2022-04-07T09:40:07.434362+00:00
  - date_dead_since: 2025-03-24T20:57:40.576484+00:00
 
- ## Zwolnienie pracownika za brak szczepienia na COVID-19
- - [https://poradnikprzedsiebiorcy.pl/-zwolnienie-pracownika-za-brak-szczepienia-na-covid-19](https://poradnikprzedsiebiorcy.pl/-zwolnienie-pracownika-za-brak-szczepienia-na-covid-19)
- - date_published: 2022-04-07T14:10:51+00:00
- - tags: ['covid', 'covid mandates', 'vaccine']
-
  ## Prime Minister Boris Johnson says transgender women should not compete in women's sport - BBC Sport
  - [https://www.bbc.co.uk/sport/61012030](https://www.bbc.co.uk/sport/61012030)
  - date_published: 2022-04-08T08:00:45.591626+00:00
@@ -1795,13 +1788,13 @@
  - [https://www.bbc.co.uk/news/world-asia-china-60798556](https://www.bbc.co.uk/news/world-asia-china-60798556)
  - date_published: 2022-04-11T23:40:57.895855+00:00
 
+ ## Why Enzymit Decided to Build its Own On-Prem HPC Infrastructure | by Lior Zimmerman | Enzymit.log — The Enzymit Blog | Apr, 2022 | Medium
+ - [https://medium.com/enzymit-log/why-enzymit-decided-to-build-its-own-on-prem-hpc-infrastructure-bcaeff0105a7](https://medium.com/enzymit-log/why-enzymit-decided-to-build-its-own-on-prem-hpc-infrastructure-bcaeff0105a7)
+ - date_published: 2022-04-12T08:57:21+00:00
+
  ## Impressions from a first-time Mac user | Logan Marchione
  - [https://loganmarchione.com/2022/04/impressions-from-a-first-time-mac-user](https://loganmarchione.com/2022/04/impressions-from-a-first-time-mac-user)
  - date_published: 2022-04-12T11:22:35.065316+00:00
-
- ## Why Enzymit Decided to Build its Own On-Prem HPC Infrastructure | by Lior Zimmerman | Enzymit.log — The Enzymit Blog | Apr, 2022 | Medium
- - [https://medium.com/enzymit-log/why-enzymit-decided-to-build-its-own-on-prem-hpc-infrastructure-bcaeff0105a7](https://medium.com/enzymit-log/why-enzymit-decided-to-build-its-own-on-prem-hpc-infrastructure-bcaeff0105a7)
- - date_published: 2022-04-12T11:34:48.063825+00:00
 
  ## What Le Corbusier got right about office space | Tim Harford
  - [https://timharford.com/2022/04/what-le-corbusier-got-right-about-office-space](https://timharford.com/2022/04/what-le-corbusier-got-right-about-office-space)
@@ -1999,15 +1992,15 @@
  - [https://www.pinknews.co.uk/2022/04/21/sajid-javid-tory-nhs-gender-services-trans](https://www.pinknews.co.uk/2022/04/21/sajid-javid-tory-nhs-gender-services-trans)
  - date_published: 2022-04-25T20:19:19.015435+00:00
 
- ## How Companies Lie To You About End-to-End Encryption
- - [https://www.youtube.com/watch?v=Ht56t_UMwsc](https://www.youtube.com/watch?v=Ht56t_UMwsc)
- - date_published: 2022-04-26T12:15:06+00:00
- - tags: ['big tech', 'crypto wars', 'encryption', 'privacy']
-
  ## Crypto CEO Accidentally Describes Ponzi Scheme
  - [https://www.youtube.com/watch?v=C6nAxiym9oc](https://www.youtube.com/watch?v=C6nAxiym9oc)
- - date_published: 2022-04-26T14:14:07+00:00
+ - date_published: 2022-04-26T00:00:00+00:00
  - tags: ['coffeezilla', 'crypto', 'fraud', 'ftx', 'ponzie']
+
+ ## How Companies Lie To You About End-to-End Encryption
+ - [https://www.youtube.com/watch?v=Ht56t_UMwsc](https://www.youtube.com/watch?v=Ht56t_UMwsc)
+ - date_published: 2022-04-26T00:00:00+00:00
+ - tags: ['big tech', 'crypto wars', 'encryption', 'privacy']
 
  ## Wikipedia’s Left-Wing Bias
  - [https://www.dailysignal.com/2022/04/27/wikipedias-left-wing-bias](https://www.dailysignal.com/2022/04/27/wikipedias-left-wing-bias)
@@ -2021,7 +2014,7 @@
 
  ## The Worst Bug Ever—Randomly Losing Your Best Players | by Pocket Gems | Pocket Gems Tech Blog | Apr, 2022 | Medium
  - [https://medium.com/pocket-gems/the-worst-bug-ever-randomly-losing-your-best-players-c4c5d25048c4](https://medium.com/pocket-gems/the-worst-bug-ever-randomly-losing-your-best-players-c4c5d25048c4)
- - date_published: 2022-04-28T06:46:01.756351+00:00
+ - date_published: 2022-04-27T18:59:55+00:00
 
  ## At Least 66.5% of Links to Sites in the Last 9 Years Are Dead (Ahrefs Study on Link Rot)
  - [https://ahrefs.com/blog/link-rot-study](https://ahrefs.com/blog/link-rot-study)
@@ -2052,10 +2045,6 @@
  ## Google Developers Blog: What is black and white and read all over? Noto emoji, a new black and white emoji font
  - [https://developers.googleblog.com/2022/04/what-is-black-and-white-and-read-all.html](https://developers.googleblog.com/2022/04/what-is-black-and-white-and-read-all.html)
  - date_published: 2022-05-01T06:54:37+00:00
-
- ## Gender Dysphoria Isn’t What You Think… | by Cassie LaBelle | Gender From The Trenches | Medium
- - [https://medium.com/gender-from-the-trenches/gender-dysphoria-isnt-what-you-think-6fdc7ae3ac85](https://medium.com/gender-from-the-trenches/gender-dysphoria-isnt-what-you-think-6fdc7ae3ac85)
- - date_published: 2022-05-01T07:57:03.577346+00:00
 
  ## We think this cool study we found is flawed. Help us reproduce it.
  - [https://pudding.cool/2022/04/random](https://pudding.cool/2022/04/random)
@@ -2244,11 +2233,11 @@
 
  ## Why I Quit Google’s WebAssembly Team, And How It Made Me Sick | by Katelyn Gadd | May, 2022 | Medium
  - [https://medium.com/@katelyngadd/why-i-quit-googles-webassembly-team-and-how-it-made-me-sick-c50ef562ce1](https://medium.com/@katelyngadd/why-i-quit-googles-webassembly-team-and-how-it-made-me-sick-c50ef562ce1)
- - date_published: 2022-05-12T16:38:25.093981+00:00
+ - date_published: 2022-05-12T09:23:43+00:00
 
  ## The Splinternet | This Is How The Internet Dies
  - [https://www.youtube.com/watch?v=D6QwK9EpN5M](https://www.youtube.com/watch?v=D6QwK9EpN5M)
- - date_published: 2022-05-13T10:48:15+00:00
+ - date_published: 2022-05-13T00:00:00+00:00
  - tags: ['all time', 'internet']
 
  ## OFFICIAL TRAILER: "WHAT IS A WOMAN?"
@@ -2375,7 +2364,6 @@
  ## Grubhub's NYC Free Lunch Promo Didn't Go Smoothly
  - [https://www.buzzfeednews.com/article/kelseyweekman/grubhub-free-lunch-nyc-promo-chaos](https://www.buzzfeednews.com/article/kelseyweekman/grubhub-free-lunch-nyc-promo-chaos)
  - date_published: 2022-05-23T15:42:16.541259+00:00
- - date_dead_since: 2025-02-06T06:03:03.145284+00:00
 
  ## My Stance on Toxicity About Programming Languages - Xe
  - [https://xeiaso.net/blog/against-toxicity-programming-languages](https://xeiaso.net/blog/against-toxicity-programming-languages)
@@ -2595,6 +2583,11 @@
  - [https://alexanderell.is/posts/sneaking-notifications](https://alexanderell.is/posts/sneaking-notifications)
  - date_published: 2022-06-05T22:19:48.003732+00:00
 
+ ## My Phone Is Anonymous Now
+ - [https://www.youtube.com/watch?v=8FDIef7tVFg](https://www.youtube.com/watch?v=8FDIef7tVFg)
+ - date_published: 2022-06-06T00:00:00+00:00
+ - tags: ['all time', 'anonymity', 'privacy', 'smartphone']
+
  ## Researchers Found Puberty Blockers And Hormones Didn’t Improve Trans Kids’ Mental Health At Their Clinic. Then They Published A Study Claiming The Opposite. (Updated)
  - [https://jessesingal.substack.com/p/researchers-found-puberty-blockers](https://jessesingal.substack.com/p/researchers-found-puberty-blockers)
  - date_published: 2022-06-06T06:29:04+00:00
@@ -2603,11 +2596,6 @@
  ## ‘You only have one shot’: how film cameras won over a younger generation | Photography | The Guardian
  - [https://www.theguardian.com/technology/2022/jun/05/you-only-have-one-shot-how-film-cameras-won-over-a-younger-generation?utm_term=629d9396aa57bd2493700de90ed92c33&utm_campaign=FirstEdition&utm_source=esp&utm_medium=Email&CMP=firstedition_email](https://www.theguardian.com/technology/2022/jun/05/you-only-have-one-shot-how-film-cameras-won-over-a-younger-generation?utm_term=629d9396aa57bd2493700de90ed92c33&utm_campaign=FirstEdition&utm_source=esp&utm_medium=Email&CMP=firstedition_email)
  - date_published: 2022-06-06T07:49:13.887706+00:00
-
- ## My Phone Is Anonymous Now
- - [https://www.youtube.com/watch?v=8FDIef7tVFg](https://www.youtube.com/watch?v=8FDIef7tVFg)
- - date_published: 2022-06-06T11:20:38+00:00
- - tags: ['all time', 'anonymity', 'privacy', 'smartphone']
 
  ## The U.S. has wasted over 82 million Covid vaccine doses
  - [https://www.nbcnews.com/news/us-news/covid-vaccine-doses-wasted-rcna31399](https://www.nbcnews.com/news/us-news/covid-vaccine-doses-wasted-rcna31399)

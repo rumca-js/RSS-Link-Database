@@ -136,6 +136,10 @@
  - date_published: 2021-01-16T20:15:49+00:00
  - tags: ['big tech', 'freedom', 'oligopoly']
 
+ ## Gender Dysphoria Isn’t What You Think… | by Cassie LaBelle | Gender From The Trenches | Medium
+ - [https://medium.com/gender-from-the-trenches/gender-dysphoria-isnt-what-you-think-6fdc7ae3ac85](https://medium.com/gender-from-the-trenches/gender-dysphoria-isnt-what-you-think-6fdc7ae3ac85)
+ - date_published: 2021-01-17T23:31:52+00:00
+
  ## What Happened To Our Villains?
  - [https://www.youtube.com/watch?v=vnRP7SKzOgk](https://www.youtube.com/watch?v=vnRP7SKzOgk)
  - date_published: 2021-01-18T11:19:45+00:00
@@ -586,6 +590,11 @@
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,173952,26952224,prof-krzysztof-simon-o-liczbie-zgonow-blyskawicznie-dazymy.html](https://wiadomosci.gazeta.pl/wiadomosci/7,173952,26952224,prof-krzysztof-simon-o-liczbie-zgonow-blyskawicznie-dazymy.html)
  - date_published: 2021-04-06T20:01:07+00:00
  - tags: ['covid', 'propaganda']
+
+ ## Zwolnienie pracownika za brak szczepienia na COVID-19
+ - [https://poradnikprzedsiebiorcy.pl/-zwolnienie-pracownika-za-brak-szczepienia-na-covid-19](https://poradnikprzedsiebiorcy.pl/-zwolnienie-pracownika-za-brak-szczepienia-na-covid-19)
+ - date_published: 2021-04-07T00:00:00+00:00
+ - tags: ['covid', 'covid mandates', 'vaccine']
 
  ## Facebook does not plan to notify half-billion users affected by data leak
  - [https://www.reuters.com/article/us-facebook-data-leak/facebook-does-not-plan-to-notify-half-billion-users-affected-by-data-leak-idUSKBN2BU2ZY](https://www.reuters.com/article/us-facebook-data-leak/facebook-does-not-plan-to-notify-half-billion-users-affected-by-data-leak-idUSKBN2BU2ZY)

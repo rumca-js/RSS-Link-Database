@@ -438,3 +438,8 @@
  - date_published: 2025-06-06T04:19:42+00:00
  - tags: ['censorship', 'moderation', 'youtube']
 
+ ## From Puppeteer stealth to Nodriver: How anti-detect frameworks evolved to evade bot detection
+ - [https://blog.castle.io/from-puppeteer-stealth-to-nodriver-how-anti-detect-frameworks-evolved-to-evade-bot-detection](https://blog.castle.io/from-puppeteer-stealth-to-nodriver-how-anti-detect-frameworks-evolved-to-evade-bot-detection)
+ - date_published: 2025-06-11T06:47:59+00:00
+ - tags: ['web scraping']
+
