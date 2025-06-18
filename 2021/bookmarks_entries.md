@@ -2808,6 +2808,10 @@
  - date_published: 2021-10-04T10:41:36+00:00
  - tags: ['newspeak', 'pronouns', 'the left wing']
 
+ ## 3 Things Go Needs Right Now More Than Generics | by Ryan Collingham | Oct, 2021 | Better Programming
+ - [https://betterprogramming.pub/three-things-go-needs-right-now-more-than-generics-a6225d62f76b](https://betterprogramming.pub/three-things-go-needs-right-now-more-than-generics-a6225d62f76b)
+ - date_published: 2021-10-04T11:49:16+00:00
+
  ## The Problem of Marital Loneliness | The New Yorker
  - [https://www.newyorker.com/culture/cultural-comment/the-problem-of-marital-loneliness](https://www.newyorker.com/culture/cultural-comment/the-problem-of-marital-loneliness)
  - date_published: 2021-10-04T14:30:36.434980+00:00
@@ -2817,14 +2821,14 @@
  - date_published: 2021-10-04T21:54:58+00:00
  - tags: ['big brother', 'inequality', 'lgbt', 'newspeak', 'the left wing', 'transgender']
 
+ ## Understanding How Facebook Disappeared from the Internet
+ - [https://blog.cloudflare.com/october-2021-facebook-outage](https://blog.cloudflare.com/october-2021-facebook-outage)
+ - date_published: 2021-10-04T22:08:52+00:00
+
  ## Communication Professor Reacts to Bill Gates Interview on PBS
  - [https://www.youtube.com/watch?v=79ExQWKb2vA](https://www.youtube.com/watch?v=79ExQWKb2vA)
  - date_published: 2021-10-05T00:00:00+00:00
  - tags: ['bill gates', 'jeffrey epstein']
-
- ## Understanding How Facebook Disappeared from the Internet
- - [https://blog.cloudflare.com/october-2021-facebook-outage](https://blog.cloudflare.com/october-2021-facebook-outage)
- - date_published: 2021-10-05T06:11:47.122873+00:00
 
  ## Dług publiczny rośnie lawinowo. Ekonomiści ostrzegają przed skutkami - Money.pl
  - [https://www.money.pl/gospodarka/dlug-publiczny-rosnie-lawinowo-ekonomisci-ostrzegaja-przed-skutkami-6690562911193728a.html](https://www.money.pl/gospodarka/dlug-publiczny-rosnie-lawinowo-ekonomisci-ostrzegaja-przed-skutkami-6690562911193728a.html)
@@ -2919,10 +2923,6 @@
  - [https://www.bbc.co.uk/news/technology-58829604](https://www.bbc.co.uk/news/technology-58829604)
  - date_published: 2021-10-08T13:38:10.016319+00:00
  - tags: ['leak', 'twitch']
-
- ## 3 Things Go Needs Right Now More Than Generics | by Ryan Collingham | Oct, 2021 | Better Programming
- - [https://betterprogramming.pub/three-things-go-needs-right-now-more-than-generics-a6225d62f76b](https://betterprogramming.pub/three-things-go-needs-right-now-more-than-generics-a6225d62f76b)
- - date_published: 2021-10-08T15:18:01.660516+00:00
 
  ## Faster time parsing · Phil Pearl's Blog
  - [https://philpearl.github.io/post/perf_time](https://philpearl.github.io/post/perf_time)
@@ -3113,7 +3113,7 @@
 
  ## Pfizer has power to 'silence' governments and 'maximize profits', consumer group alleges
  - [https://www.abc.net.au/news/2021-10-20/pfizer-covid-19-vaccine-contracts/100553958](https://www.abc.net.au/news/2021-10-20/pfizer-covid-19-vaccine-contracts/100553958)
- - date_published: 2021-10-20T07:43:01+00:00
+ - date_published: 2021-10-20T07:11:51+00:00
  - tags: ['big pharma', 'corporatocracy', 'pfizer']
 
  ## Free Chinese VPN exposed data from over a million users
@@ -3322,6 +3322,11 @@
  - date_published: 2021-10-30T08:09:10+00:00
  - tags: ['newspeak', 'social engineering', 'the left wing']
 
+ ## Metaverse: Ready Player One Becomes Reality
+ - [https://www.youtube.com/watch?v=3A-1gK9gDuU](https://www.youtube.com/watch?v=3A-1gK9gDuU)
+ - date_published: 2021-10-31T00:00:00+00:00
+ - tags: ['meta', 'metaverse', 'ready player one', 'virtual reality']
+
  ## Popper, Soros and the Open Society
  - [https://notrelated.xyz/audio/s02/S02E05_-_Popper_Soros_and_the_Open_Society.ogg](https://notrelated.xyz/audio/s02/S02E05_-_Popper_Soros_and_the_Open_Society.ogg)
  - date_published: 2021-10-31T04:00:00+00:00
@@ -3330,11 +3335,6 @@
  ## The metaverse is already here, it's called the internet - Can's blog
  - [https://canolcer.com/post/metaverse-is-already-here](https://canolcer.com/post/metaverse-is-already-here)
  - date_published: 2021-10-31T10:15:17.607872+00:00
-
- ## Metaverse: Ready Player One Becomes Reality
- - [https://www.youtube.com/watch?v=3A-1gK9gDuU](https://www.youtube.com/watch?v=3A-1gK9gDuU)
- - date_published: 2021-10-31T20:35:51+00:00
- - tags: ['meta', 'metaverse', 'ready player one', 'virtual reality']
 
  ## Central Bank Digital Currencies Explained
  - [https://www.youtube.com/watch?v=0u8eZcPnWeU](https://www.youtube.com/watch?v=0u8eZcPnWeU)
@@ -3357,7 +3357,7 @@
 
  ## Why Modern Movies Suck - They're Written By Children
  - [https://www.youtube.com/watch?v=CQ92cggLMx8](https://www.youtube.com/watch?v=CQ92cggLMx8)
- - date_published: 2021-11-02T11:24:42+00:00
+ - date_published: 2021-11-02T00:00:00+00:00
  - tags: ['hollywood', 'movies']
 
  ## Revealed: Ursula von der Leyen used private jet to travel just 31 miles
@@ -3461,6 +3461,10 @@
  - date_published: 2021-11-09T17:45:34+00:00
  - tags: ['carbon emissions', 'climate change', 'climate drama']
 
+ ## Jimmy Wales’ Final Email. Jimmy Wales, the founder of Wikipedia… | by Craig Younkins | Nov, 2021 | Medium
+ - [https://cyounkins.medium.com/jimmy-wales-final-email-de36f39bfbbd](https://cyounkins.medium.com/jimmy-wales-final-email-de36f39bfbbd)
+ - date_published: 2021-11-09T18:31:46+00:00
+
  ## Moderna and U.S. at Odds Over Vaccine Patent Rights - The New York Times
  - [https://www.nytimes.com/2021/11/09/us/moderna-vaccine-patent.html](https://www.nytimes.com/2021/11/09/us/moderna-vaccine-patent.html)
  - date_published: 2021-11-09T20:20:34+00:00
@@ -3474,10 +3478,6 @@
  ## ProctorU is dystopian spyware – Terence Eden’s Blog
  - [https://shkspr.mobi/blog/2021/11/proctoru-is-dystopian-spyware](https://shkspr.mobi/blog/2021/11/proctoru-is-dystopian-spyware)
  - date_published: 2021-11-10T08:19:57.942675+00:00
-
- ## Jimmy Wales’ Final Email. Jimmy Wales, the founder of Wikipedia… | by Craig Younkins | Nov, 2021 | Medium
- - [https://cyounkins.medium.com/jimmy-wales-final-email-de36f39bfbbd](https://cyounkins.medium.com/jimmy-wales-final-email-de36f39bfbbd)
- - date_published: 2021-11-10T17:02:37.580119+00:00
 
  ## YouTube gives dislikes the thumbs-down, hides public counts
  - [https://www.theverge.com/2021/11/10/22773299/youtube-dislike-button-hide-public-count-numbers-small-creator-protection](https://www.theverge.com/2021/11/10/22773299/youtube-dislike-button-hide-public-count-numbers-small-creator-protection)
@@ -3530,15 +3530,15 @@
  - date_published: 2021-11-13T20:37:35+00:00
  - tags: ['covid', 'covid mandates']
 
- ## Thousands protest Austria's COVID lockdown for the unvaccinated | DW News
- - [https://www.youtube.com/watch?v=KifHYc2tm3o](https://www.youtube.com/watch?v=KifHYc2tm3o)
- - date_published: 2021-11-15T08:28:37+00:00
- - tags: ['covid', 'lockdown']
-
  ## Nigel Farage: Austrian lockdown of unvaccinated 'is deeply sinister'
  - [https://www.youtube.com/watch?v=7AZSkF9fNRM](https://www.youtube.com/watch?v=7AZSkF9fNRM)
- - date_published: 2021-11-15T08:41:06+00:00
+ - date_published: 2021-11-15T00:00:00+00:00
  - tags: ['big brother', 'covid', 'lockdown']
+
+ ## Thousands protest Austria's COVID lockdown for the unvaccinated | DW News
+ - [https://www.youtube.com/watch?v=KifHYc2tm3o](https://www.youtube.com/watch?v=KifHYc2tm3o)
+ - date_published: 2021-11-15T00:00:00+00:00
+ - tags: ['covid', 'lockdown']
 
  ## The secret court case 50 years ago that has robbed transgender people of their rights ever since
  - [https://inews.co.uk/news/long-reads/secret-court-case-50-years-ago-robbed-transgender-people-rights-1291857](https://inews.co.uk/news/long-reads/secret-court-case-50-years-ago-robbed-transgender-people-rights-1291857)
@@ -3572,9 +3572,14 @@
  - [https://drewdevault.com/2021/11/16/Python-stop-screwing-distros-over.html](https://drewdevault.com/2021/11/16/Python-stop-screwing-distros-over.html)
  - date_published: 2021-11-16T22:44:06.097682+00:00
 
+ ## Chat control: The latest EU plans to outlaw encryption and introduce telecommunications surveillance | mailbox.org
+ - [https://mailbox.org/en/post/chat-control-the-latest-eu-plans-to-outlaw-encryption-and-introduce-telecommunications-surveillance?nl](https://mailbox.org/en/post/chat-control-the-latest-eu-plans-to-outlaw-encryption-and-introduce-telecommunications-surveillance?nl)
+ - date_published: 2021-11-17T00:00:00+00:00
+ - tags: ['chat control', 'crypto wars', 'encryption', 'government control', 'privacy', 'surveillance']
+
  ## Freddie Sayers investigates Austria's lockdown of the unvaccinated
  - [https://www.youtube.com/watch?v=y9io1MZz_7E](https://www.youtube.com/watch?v=y9io1MZz_7E)
- - date_published: 2021-11-17T08:22:45+00:00
+ - date_published: 2021-11-17T00:00:00+00:00
  - tags: ['austria', 'lockdown']
 
  ## The Media's Verdict on Kyle Rittenhouse
@@ -3597,6 +3602,11 @@
  - date_published: 2021-11-18T00:00:00+00:00
  - tags: ['england', 'immigration']
  - date_dead_since: 2025-02-07T12:42:52.448803+00:00
+
+ ## It’s Time To Break Up With Our Gas Stoves | Climate Town
+ - [https://www.youtube.com/watch?v=hX2aZUav-54](https://www.youtube.com/watch?v=hX2aZUav-54)
+ - date_published: 2021-11-18T00:00:00+00:00
+ - tags: ['climate change']
 
  ## Things we learned from Kyle Rittenhouse’s trial that challenge assumptions about the case
  - [https://edition.cnn.com/2021/11/18/us/kyle-rittenhouse-what-we-learned-from-trial/index.html](https://edition.cnn.com/2021/11/18/us/kyle-rittenhouse-what-we-learned-from-trial/index.html)
@@ -3630,11 +3640,6 @@
  - [https://www.theblaze.com/news/bill-gates-bankroll-media-outlets](https://www.theblaze.com/news/bill-gates-bankroll-media-outlets)
  - date_published: 2021-11-18T20:46:37+00:00
  - tags: ['bill gates', 'billionaires', 'manufacturing consent', 'media']
-
- ## It’s Time To Break Up With Our Gas Stoves | Climate Town
- - [https://www.youtube.com/watch?v=hX2aZUav-54](https://www.youtube.com/watch?v=hX2aZUav-54)
- - date_published: 2021-11-18T21:16:55+00:00
- - tags: ['climate change']
 
  ## Zuck Banned Me – My Facebook got hacked, then Meta banned me from all services
  - [https://zuckbannedme.com](https://zuckbannedme.com)
@@ -3684,11 +3689,6 @@
  - [https://www.youtube.com/watch?v=qY-GLeHS0Ik](https://www.youtube.com/watch?v=qY-GLeHS0Ik)
  - date_published: 2021-11-23T00:00:00+00:00
  - tags: ['hollywood', 'movies']
-
- ## Chat control: The latest EU plans to outlaw encryption and introduce telecommunications surveillance | mailbox.org
- - [https://mailbox.org/en/post/chat-control-the-latest-eu-plans-to-outlaw-encryption-and-introduce-telecommunications-surveillance?nl](https://mailbox.org/en/post/chat-control-the-latest-eu-plans-to-outlaw-encryption-and-introduce-telecommunications-surveillance?nl)
- - date_published: 2021-11-23T17:34:06.057843+00:00
- - tags: ['chat control', 'crypto wars', 'encryption', 'government control', 'privacy', 'surveillance']
 
  ## Austria Announces Covid Vaccine Mandate, Crossing a Threshold for Europe - The New York Times
  - [https://www.nytimes.com/2021/11/19/world/europe/austria-covid-vaccine-mandate-lockdown.html](https://www.nytimes.com/2021/11/19/world/europe/austria-covid-vaccine-mandate-lockdown.html)
@@ -3752,6 +3752,11 @@
  - [https://benhoyt.com/writings/awkgo](https://benhoyt.com/writings/awkgo)
  - date_published: 2021-11-26T20:23:10+00:00
 
+ ## Is the Mainstream Media a Threat to Freedom and Sanity?
+ - [https://www.youtube.com/watch?v=5okSlrbgELA](https://www.youtube.com/watch?v=5okSlrbgELA)
+ - date_published: 2021-11-27T00:00:00+00:00
+ - tags: ['freedom', 'mainstream media']
+
  ## The Underground Man - Fyodor Dostoevsky's Warning to The World
  - [https://www.youtube.com/watch?v=_OEp9fds9v4](https://www.youtube.com/watch?v=_OEp9fds9v4)
  - date_published: 2021-11-27T00:00:00+00:00
@@ -3765,11 +3770,6 @@
  ## The Internet is Held Together With Spit & Baling Wire – Krebs on Security
  - [https://krebsonsecurity.com/2021/11/the-internet-is-held-together-with-spit-baling-wire](https://krebsonsecurity.com/2021/11/the-internet-is-held-together-with-spit-baling-wire)
  - date_published: 2021-11-27T10:17:30.333065+00:00
-
- ## Is the Mainstream Media a Threat to Freedom and Sanity?
- - [https://www.youtube.com/watch?v=5okSlrbgELA](https://www.youtube.com/watch?v=5okSlrbgELA)
- - date_published: 2021-11-27T21:15:13+00:00
- - tags: ['freedom', 'mainstream media']
 
  ## Why is the UK less likely to go into lockdown than Europe? | Evening Standard
  - [https://www.standard.co.uk/news/uk/why-uk-less-likely-go-into-lockdown-than-europe-b967584.html](https://www.standard.co.uk/news/uk/why-uk-less-likely-go-into-lockdown-than-europe-b967584.html)
@@ -3846,15 +3846,15 @@
  - date_published: 2021-12-01T15:49:06+00:00
  - tags: ['backdoor', 'electric vehicles', 'infrastructure bill', 'technofeudalism', 'vulnerability']
 
+ ## Germany announces nationwide lockdown for the unvaccinated
+ - [https://www.youtube.com/watch?v=EIX_OskczQA](https://www.youtube.com/watch?v=EIX_OskczQA)
+ - date_published: 2021-12-02T00:00:00+00:00
+ - tags: ['covid', 'germany', 'lockdown']
+
  ## Life's an RPG And You Messed Up Your Build
  - [https://www.youtube.com/watch?v=JgkYRyqloVA](https://www.youtube.com/watch?v=JgkYRyqloVA)
  - date_published: 2021-12-02T00:00:00+00:00
  - tags: ['motivation']
-
- ## Germany announces nationwide lockdown for the unvaccinated
- - [https://www.youtube.com/watch?v=EIX_OskczQA](https://www.youtube.com/watch?v=EIX_OskczQA)
- - date_published: 2021-12-02T08:26:55+00:00
- - tags: ['covid', 'germany', 'lockdown']
 
  ## Project Zero: This shouldn't have happened: A vulnerability postmortem
  - [https://googleprojectzero.blogspot.com/2021/12/this-shouldnt-have-happened.html](https://googleprojectzero.blogspot.com/2021/12/this-shouldnt-have-happened.html)
@@ -3955,7 +3955,12 @@
 
  ## How Cloudflare security responded to log4j2 vulnerability
  - [https://blog.cloudflare.com/how-cloudflare-security-responded-to-log4j2-vulnerability](https://blog.cloudflare.com/how-cloudflare-security-responded-to-log4j2-vulnerability)
- - date_published: 2021-12-11T15:17:39.281904+00:00
+ - date_published: 2021-12-10T23:39:00+00:00
+
+ ## The price of ‘freedom’: How anti-lockdown protest leaders make money from the movement
+ - [https://www.smh.com.au/national/the-price-of-freedom-how-anti-lockdown-protest-leaders-make-money-from-the-movement-20211130-p59de5.html](https://www.smh.com.au/national/the-price-of-freedom-how-anti-lockdown-protest-leaders-make-money-from-the-movement-20211130-p59de5.html)
+ - date_published: 2021-12-11T18:00:00+00:00
+ - tags: ['australia', 'covid', 'lockdown']
 
  ## Professional maintainers: a wake-up call
  - [https://blog.filippo.io/professional-maintainers](https://blog.filippo.io/professional-maintainers)
@@ -3965,11 +3970,6 @@
  - [https://xeiaso.net/blog/open-source-broken-2021-12-11](https://xeiaso.net/blog/open-source-broken-2021-12-11)
  - date_published: 2021-12-12T09:05:44.970602+00:00
  - tags: ['open source']
-
- ## The price of ‘freedom’: How anti-lockdown protest leaders make money from the movement
- - [https://www.smh.com.au/national/the-price-of-freedom-how-anti-lockdown-protest-leaders-make-money-from-the-movement-20211130-p59de5.html](https://www.smh.com.au/national/the-price-of-freedom-how-anti-lockdown-protest-leaders-make-money-from-the-movement-20211130-p59de5.html)
- - date_published: 2021-12-12T10:00:50+00:00
- - tags: ['australia', 'covid', 'lockdown']
 
  ## "Pierwsze ""poufne"" dokumenty Pfizera ujawnione z nakazu sądowego"
  - [https://www.pokoleniex.com/swiat/2021/12/14/pierwsze-poufne-dokumenty-pfizera-ujawnione-z-nakazu-sadowego](https://www.pokoleniex.com/swiat/2021/12/14/pierwsze-poufne-dokumenty-pfizera-ujawnione-z-nakazu-sadowego)
@@ -3994,7 +3994,7 @@
 
  ## Unvaccinated Europeans Fight for Rights as COVID Restrictions Tighten
  - [https://www.youtube.com/watch?v=5UiCxyZo2Bk](https://www.youtube.com/watch?v=5UiCxyZo2Bk)
- - date_published: 2021-12-15T08:25:46+00:00
+ - date_published: 2021-12-15T00:00:00+00:00
  - tags: ['covid', 'freedom', 'lockdown']
 
  ## Idea that Omicron is milder is a myth, warns Chris Whitty - despite low hospitalisations | The Sun
@@ -4056,6 +4056,11 @@
  - [https://www.bbc.co.uk/news/business-59667835](https://www.bbc.co.uk/news/business-59667835)
  - date_published: 2021-12-18T09:55:52.784733+00:00
 
+ ## THE METAVERSE: A Guide to the Future of Capitalism
+ - [https://www.youtube.com/watch?v=TM00M-dRMBk](https://www.youtube.com/watch?v=TM00M-dRMBk)
+ - date_published: 2021-12-19T00:00:00+00:00
+ - tags: ['big tech', 'capitalism']
+
  ## My Bose QC-35 II headphones suddenly burst into flames and left me with chemical burns
  - [https://recursive-public-rants.blogspot.com/2021/12/my-bose-qc-35-ii-headphones-suddenly.html](https://recursive-public-rants.blogspot.com/2021/12/my-bose-qc-35-ii-headphones-suddenly.html)
  - date_published: 2021-12-19T12:55:10.261953+00:00
@@ -4068,11 +4073,6 @@
  ## Lithuania evacuates its embassy in China | The Economist
  - [https://www.economist.com/china/lithuania-evacuates-its-embassy-in-china/21806843](https://www.economist.com/china/lithuania-evacuates-its-embassy-in-china/21806843)
  - date_published: 2021-12-19T17:11:48.690063+00:00
-
- ## THE METAVERSE: A Guide to the Future of Capitalism
- - [https://www.youtube.com/watch?v=TM00M-dRMBk](https://www.youtube.com/watch?v=TM00M-dRMBk)
- - date_published: 2021-12-19T21:36:45+00:00
- - tags: ['big tech', 'capitalism']
 
  ## The Energy Vault is a Dumb Idea, Here's Why
  - [https://www.youtube.com/watch?v=iGGOjD_OtAM](https://www.youtube.com/watch?v=iGGOjD_OtAM)
@@ -4166,6 +4166,11 @@
  - [https://www.theregister.com/2021/12/22/aws_outage](https://www.theregister.com/2021/12/22/aws_outage)
  - date_published: 2021-12-23T15:13:06.894651+00:00
 
+ ## Gaming's Third Greatest Scam: Good Graphics.
+ - [https://www.youtube.com/watch?v=L-A5QrhZtGU](https://www.youtube.com/watch?v=L-A5QrhZtGU)
+ - date_published: 2021-12-24T00:00:00+00:00
+ - tags: ['games', 'graphics']
+
  ## My productivity app is a single .txt file
  - [https://jeffhuang.com/productivity_text_file](https://jeffhuang.com/productivity_text_file)
  - date_published: 2021-12-24T08:50:48.739393+00:00
@@ -4175,11 +4180,6 @@
  - [https://blog.carlmjohnson.net/post/2021/requests-golang-http-client](https://blog.carlmjohnson.net/post/2021/requests-golang-http-client)
  - date_published: 2021-12-24T15:51:48+00:00
  - tags: ['clean code', 'go', 'programming']
-
- ## Gaming's Third Greatest Scam: Good Graphics.
- - [https://www.youtube.com/watch?v=L-A5QrhZtGU](https://www.youtube.com/watch?v=L-A5QrhZtGU)
- - date_published: 2021-12-24T20:59:59+00:00
- - tags: ['games', 'graphics']
 
  ## Thoughts on how to structure Go code |> Changelog
  - [https://changelog.com/posts/on-go-application-structure](https://changelog.com/posts/on-go-application-structure)
@@ -4209,6 +4209,11 @@
  - date_published: 2021-12-26T20:04:14+00:00
  - tags: ['grievance', 'propaganda', 'science', 'science is dead', 'sokal']
 
+ ## Is Government the New God? - The Religion of Totalitarianism
+ - [https://www.youtube.com/watch?v=WhNJJmmCkqY](https://www.youtube.com/watch?v=WhNJJmmCkqY)
+ - date_published: 2021-12-28T00:00:00+00:00
+ - tags: ['socialism', 'totalitarianism']
+
  ## Italian Courts Find Open Source Software Terms Enforceable | If This Be Treason
  - [http://ifthisbetreason.com/2021/12/italian-courts-find-open-source-software-terms-enforceable](http://ifthisbetreason.com/2021/12/italian-courts-find-open-source-software-terms-enforceable)
  - date_published: 2021-12-28T10:19:20.123970+00:00
@@ -4220,11 +4225,6 @@
  ## Alexa tells 10-year-old girl to touch live plug with penny - BBC News
  - [https://www.bbc.co.uk/news/technology-59810383](https://www.bbc.co.uk/news/technology-59810383)
  - date_published: 2021-12-28T19:59:43.202744+00:00
-
- ## Is Government the New God? - The Religion of Totalitarianism
- - [https://www.youtube.com/watch?v=WhNJJmmCkqY](https://www.youtube.com/watch?v=WhNJJmmCkqY)
- - date_published: 2021-12-28T21:15:53+00:00
- - tags: ['socialism', 'totalitarianism']
 
  ## Please don't use Discord for FOSS projects
  - [https://drewdevault.com/2021/12/28/Dont-use-Discord-for-FOSS.html](https://drewdevault.com/2021/12/28/Dont-use-Discord-for-FOSS.html)

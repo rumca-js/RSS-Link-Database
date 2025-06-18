@@ -103,7 +103,7 @@
 
  ## Politico Took $8M in USAID Taxpayer Money While Attacking Gamergate and Pushing Anti-Gamer Narrative—Trump Admin Just Cut Them Off
  - [https://thatparkplace.com/politico-usaid-gamergate](https://thatparkplace.com/politico-usaid-gamergate)
- - date_published: 2025-02-06T17:35:12+00:00
+ - date_published: 2025-02-06T16:35:12+00:00
 
  ## 'Meta Torrented over 81 TB of Data Through Anna's Archive, Despite Few Seeders' * TorrentFreak
  - [https://torrentfreak.com/meta-torrented-over-81-tb-of-data-through-annas-archive-despite-few-seeders-250206](https://torrentfreak.com/meta-torrented-over-81-tb-of-data-through-annas-archive-despite-few-seeders-250206)

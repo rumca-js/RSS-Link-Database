@@ -12,6 +12,11 @@
  - [https://www.wizer-training.com/blog/copy-paste](https://www.wizer-training.com/blog/copy-paste)
  - date_published: 2022-01-01T17:33:39.964883+00:00
 
+ ## YouTube removes viral Joe Rogan interview with Dr. Robert Malone
+ - [https://thepostmillennial.com/youtube-removes-joe-rogan-interview-with-dr-robert-malone-from-youtube](https://thepostmillennial.com/youtube-removes-joe-rogan-interview-with-dr-robert-malone-from-youtube)
+ - date_published: 2022-01-02T00:00:00+00:00
+ - tags: ['censorship', 'covid', 'free speech', 'youtube']
+
  ## The Extent of Fatherlessness
  - [https://fathers.com/the-extent-of-fatherlessness](https://fathers.com/the-extent-of-fatherlessness)
  - date_published: 2022-01-02T08:35:34+00:00
@@ -32,11 +37,6 @@
  ## Wesley Aptekar-Cassels | web3 is Centralized
  - [https://blog.wesleyac.com/posts/web3-centralized](https://blog.wesleyac.com/posts/web3-centralized)
  - date_published: 2022-01-02T11:29:05.415950+00:00
-
- ## YouTube removes viral Joe Rogan interview with Dr. Robert Malone
- - [https://thepostmillennial.com/youtube-removes-joe-rogan-interview-with-dr-robert-malone-from-youtube](https://thepostmillennial.com/youtube-removes-joe-rogan-interview-with-dr-robert-malone-from-youtube)
- - date_published: 2022-01-02T12:04:50+00:00
- - tags: ['censorship', 'covid', 'free speech', 'youtube']
 
  ## Biden nominee equated 'proof of citizenship' with 'voter suppression,' likened felon voting ban to slavery | Fox News
  - [https://www.foxnews.com/politics/nancy-abudu-biden-nominee-voter-suppression](https://www.foxnews.com/politics/nancy-abudu-biden-nominee-voter-suppression)
@@ -435,7 +435,7 @@
 
  ## Golang’s most important feature is invisible | by Jack Strohm | Jan, 2022 | Dev Genius
  - [https://blog.devgenius.io/golangs-most-important-feature-is-invisible-6be9c1e7249b](https://blog.devgenius.io/golangs-most-important-feature-is-invisible-6be9c1e7249b)
- - date_published: 2022-01-23T13:27:19.581848+00:00
+ - date_published: 2022-01-22T22:24:43+00:00
 
  ## Finding love as a trans woman - BBC News
  - [https://www.bbc.co.uk/news/world-us-canada-60086567](https://www.bbc.co.uk/news/world-us-canada-60086567)
@@ -650,7 +650,7 @@
 
  ## Career Advice Nobody Gave Me: Never Ignore a Recruiter | by Alex Chesser | Feb, 2022 | Index
  - [https://index.medium.com/career-advice-nobody-gave-me-never-ignore-a-recruiter-4474eac9556](https://index.medium.com/career-advice-nobody-gave-me-never-ignore-a-recruiter-4474eac9556)
- - date_published: 2022-02-02T19:47:33.984274+00:00
+ - date_published: 2022-02-02T17:54:52+00:00
 
  ## Senate report implicates Fauci in Wuhan lab leak cover-up
  - [https://conservativeinstitute.org/conservative-news/senate-report-implicates-fauci-in-wuhan-lab-leak-cover-up.htm](https://conservativeinstitute.org/conservative-news/senate-report-implicates-fauci-in-wuhan-lab-leak-cover-up.htm)
