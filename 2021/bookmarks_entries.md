@@ -301,15 +301,15 @@
  - date_published: 2021-02-15T20:47:39+00:00
  - tags: ['covid']
 
+ ## Social Media as Social Control.
+ - [https://www.youtube.com/watch?v=4ZCuAbjdfsg](https://www.youtube.com/watch?v=4ZCuAbjdfsg)
+ - date_published: 2021-02-17T00:00:00+00:00
+ - tags: ['social control', 'social media']
+
  ## How one Texas storm exposed an energy grid unprepared for climate change
  - [https://www.nbcnews.com/science/environment/one-texas-storm-exposed-energy-grid-unprepared-climate-change-rcna289](https://www.nbcnews.com/science/environment/one-texas-storm-exposed-energy-grid-unprepared-climate-change-rcna289)
  - date_published: 2021-02-17T13:10:58+00:00
  - tags: ['climate change', 'solar panels']
-
- ## Social Media as Social Control.
- - [https://www.youtube.com/watch?v=4ZCuAbjdfsg](https://www.youtube.com/watch?v=4ZCuAbjdfsg)
- - date_published: 2021-02-17T20:55:44+00:00
- - tags: ['social control', 'social media']
 
  ## Inside Wikipedia's leftist bias: socialism pages whitewashed, communist atrocities buried | Fox News
  - [https://www.foxnews.com/politics/wikipedia-bias-socialism-pages-whitewashed](https://www.foxnews.com/politics/wikipedia-bias-socialism-pages-whitewashed)
@@ -331,15 +331,15 @@
  - date_published: 2021-02-18T21:28:10+00:00
  - tags: ['california', 'covid', 'florida', 'joe biden', 'lockdown']
 
+ ## Zawodowiec (2002) - polski film dokumentalny
+ - [https://www.youtube.com/watch?v=a6AVCDMHWfg](https://www.youtube.com/watch?v=a6AVCDMHWfg)
+ - date_published: 2021-02-19T00:00:00+00:00
+ - tags: ['documentary']
+
  ## Yanis Varoufakis: Capitalism has become 'techno-feudalism' | UpFront
  - [https://www.youtube.com/watch?v=_jW0xUmUaUc](https://www.youtube.com/watch?v=_jW0xUmUaUc)
  - date_published: 2021-02-19T00:00:00+00:00
  - tags: ['capitalism', 'corporatocracy', 'technofeudalism', 'yanis varoufakis']
-
- ## Zawodowiec (2002) - polski film dokumentalny
- - [https://www.youtube.com/watch?v=a6AVCDMHWfg](https://www.youtube.com/watch?v=a6AVCDMHWfg)
- - date_published: 2021-02-19T09:42:45+00:00
- - tags: ['documentary']
 
  ## How to stop your emails from being tracked
  - [https://www.theverge.com/22288190/email-pixel-trackers-how-to-stop-images-automatic-download](https://www.theverge.com/22288190/email-pixel-trackers-how-to-stop-images-automatic-download)
@@ -420,20 +420,20 @@
  - [https://stevenvanbael.com/open-calendar-task-space-is-a-mess](https://stevenvanbael.com/open-calendar-task-space-is-a-mess)
  - date_published: 2021-03-10T14:11:40+00:00
 
+ ## Johnny Harris: A Story of YouTube Propaganda
+ - [https://www.youtube.com/watch?v=Dum0bqWfiGw](https://www.youtube.com/watch?v=Dum0bqWfiGw)
+ - date_published: 2021-03-12T00:00:00+00:00
+ - tags: ['propaganda', 'youtube']
+
  ## A man lives in a society where citizens police each other with their mobile phones. | Utopia
  - [https://www.youtube.com/watch?v=vJYaXy5mmA8](https://www.youtube.com/watch?v=vJYaXy5mmA8)
- - date_published: 2021-03-12T15:09:15+00:00
+ - date_published: 2021-03-12T00:00:00+00:00
  - tags: ['all time', 'big brother', 'digital identity', 'orwell', 'social score', 'surveillance', 'utopia']
 
  ## Portland Rioters Try Set Fire To Federal Courthouse Hours After Security Fence Is Removed - The Police Tribune
  - [https://policetribune.com/portland-rioters-try-set-fire-to-federal-courthouse-hours-after-security-fence-is-removed](https://policetribune.com/portland-rioters-try-set-fire-to-federal-courthouse-hours-after-security-fence-is-removed)
  - date_published: 2021-03-12T19:26:38+00:00
  - tags: ['black lives matter', 'defund the police', 'protest']
-
- ## Johnny Harris: A Story of YouTube Propaganda
- - [https://www.youtube.com/watch?v=Dum0bqWfiGw](https://www.youtube.com/watch?v=Dum0bqWfiGw)
- - date_published: 2021-03-12T20:26:11+00:00
- - tags: ['propaganda', 'youtube']
 
  ## LA County judge authorizes cutting off restaurant's electricity for trying to survive pandemic | Fox News
  - [https://www.foxnews.com/us/la-county-judge-authorizes-burbank-cut-off-electricity-restaurant-trying-survive-covid-pandemic](https://www.foxnews.com/us/la-county-judge-authorizes-burbank-cut-off-electricity-restaurant-trying-survive-covid-pandemic)
@@ -457,7 +457,7 @@
 
  ## Portland Mayor seeks to re-fund the police by $2 million as violent crimes surge | The Post Millennial | thepostmillennial.com
  - [https://thepostmillennial.com/portland-mayor-seeks-to-re-fund-the-police-by-2-million-as-violent-crimes-surge](https://thepostmillennial.com/portland-mayor-seeks-to-re-fund-the-police-by-2-million-as-violent-crimes-surge)
- - date_published: 2021-03-16T19:28:30+00:00
+ - date_published: 2021-03-16T00:00:00+00:00
  - tags: ['black lives matter', 'defund the police']
 
  ## Portland cut police funding and got a 2,000% surge in murders | Washington Examiner
@@ -681,7 +681,7 @@
 
  ## The Anthropocene: Where on Earth are we Going? (Full)
  - [https://www.youtube.com/watch?v=HvD0TgE34HA](https://www.youtube.com/watch?v=HvD0TgE34HA)
- - date_published: 2021-04-15T07:28:02+00:00
+ - date_published: 2021-04-15T00:00:00+00:00
  - tags: ['all time', 'climate change', 'global warming']
 
  ## James O'Keefe's Twitter suspended one day after CNN exposé
@@ -744,6 +744,11 @@
  - date_published: 2021-04-25T00:00:00+00:00
  - tags: ['facebook', 'internet']
 
+ ## Apple Is Terrible for Your Privacy
+ - [https://www.youtube.com/watch?v=r38Epj6ldKU](https://www.youtube.com/watch?v=r38Epj6ldKU)
+ - date_published: 2021-04-25T00:00:00+00:00
+ - tags: ['apple', 'privacy']
+
  ## You’re no safer from COVID social distancing at 6 or 60 feet: study
  - [https://nypost.com/2021/04/25/youre-no-safer-from-covid-social-distancing-at-6-or-60-feet-study](https://nypost.com/2021/04/25/youre-no-safer-from-covid-social-distancing-at-6-or-60-feet-study)
  - date_published: 2021-04-25T19:33:08+00:00
@@ -753,11 +758,6 @@
  - [https://nypost.com/2021/04/25/fauci-expects-new-cdc-guidance-on-outdoor-masks](https://nypost.com/2021/04/25/fauci-expects-new-cdc-guidance-on-outdoor-masks)
  - date_published: 2021-04-25T19:33:48+00:00
  - tags: ['covid', 'masks']
-
- ## Apple Is Terrible for Your Privacy
- - [https://www.youtube.com/watch?v=r38Epj6ldKU](https://www.youtube.com/watch?v=r38Epj6ldKU)
- - date_published: 2021-04-26T20:18:31+00:00
- - tags: ['apple', 'privacy']
 
  ## Bill Gates under fire for saying vaccine formulas shouldn’t be shared with developing world
  - [https://news.yahoo.com/bill-gates-under-fire-saying-200557167.html](https://news.yahoo.com/bill-gates-under-fire-saying-200557167.html)
@@ -869,7 +869,7 @@
 
  ## Chinese document discussing weaponising coronaviruses provides 'chilling' informati
  - [https://www.youtube.com/watch?v=kuKPBur_TiI](https://www.youtube.com/watch?v=kuKPBur_TiI)
- - date_published: 2021-05-09T21:15:57+00:00
+ - date_published: 2021-05-09T00:00:00+00:00
  - tags: ['china', 'covid']
 
  ## Rodzice twierdzą, że ich 4-letnie dziecko jest transpłciowe [WIDEO]
@@ -882,25 +882,25 @@
  - date_published: 2021-05-13T00:00:00+00:00
  - tags: ['cinemas', 'movies']
 
+ ## GET WOKE, GO BROKE: Disney revenue PLUMMETS after woke corporate culture revealed
+ - [https://thepostmillennial.com/get-woke-go-broke-disney-revenues-plummet-after-woke-corporate-culture-revealed](https://thepostmillennial.com/get-woke-go-broke-disney-revenues-plummet-after-woke-corporate-culture-revealed)
+ - date_published: 2021-05-14T00:00:00+00:00
+ - tags: ['disney', 'go woke go broke', 'the left wing']
+
  ## Scientist call to investigate the origins of COVID-19
  - [https://www.science.org/doi/10.1126/science.abj0016](https://www.science.org/doi/10.1126/science.abj0016)
  - date_published: 2021-05-14T07:21:19+00:00
  - tags: ['covid', 'lab leak', 'wuhan']
 
- ## GET WOKE, GO BROKE: Disney revenue PLUMMETS after woke corporate culture revealed
- - [https://thepostmillennial.com/get-woke-go-broke-disney-revenues-plummet-after-woke-corporate-culture-revealed](https://thepostmillennial.com/get-woke-go-broke-disney-revenues-plummet-after-woke-corporate-culture-revealed)
- - date_published: 2021-05-14T09:08:30+00:00
- - tags: ['disney', 'go woke go broke', 'the left wing']
+ ## Video platform chief says Nazi posts on white superiority do not merit removal
+ - [https://www.theguardian.com/world/2021/may/14/odysee-video-platform-nazi-content-not-grounds-for-removal](https://www.theguardian.com/world/2021/may/14/odysee-video-platform-nazi-content-not-grounds-for-removal)
+ - date_published: 2021-05-14T10:00:54+00:00
+ - tags: ['free speech', 'moderation', 'odysee', 'white supremacy']
 
  ## Use of fear to control behaviour in Covid crisis was ‘totalitarian’, admit scientists
  - [https://www.telegraph.co.uk/news/2021/05/14/scientists-admit-totalitarian-use-fear-control-behaviour-covid](https://www.telegraph.co.uk/news/2021/05/14/scientists-admit-totalitarian-use-fear-control-behaviour-covid)
  - date_published: 2021-05-14T11:32:39+00:00
  - tags: ['covid', 'fearmongering']
-
- ## Video platform chief says Nazi posts on white superiority do not merit removal
- - [https://www.theguardian.com/world/2021/may/14/odysee-video-platform-nazi-content-not-grounds-for-removal](https://www.theguardian.com/world/2021/may/14/odysee-video-platform-nazi-content-not-grounds-for-removal)
- - date_published: 2021-05-14T21:35:04+00:00
- - tags: ['free speech', 'moderation', 'odysee', 'white supremacy']
 
  ## Polski Ład. Politycy i ekonomiści komentują. "Zapłacą przedsiębiorcy i lepiej zarabiający" - Bankier.pl
  - [https://www.bankier.pl/wiadomosc/Nowy-Polski-Lad-Komentarze-8113555.html](https://www.bankier.pl/wiadomosc/Nowy-Polski-Lad-Komentarze-8113555.html)
@@ -929,7 +929,7 @@
 
  ## New CDC guidance does not grant permission for widespread mask removal: Rochelle Walensky - ABC7 Chicago
  - [https://abc7chicago.com/cdc-masks-mask-guidance-rochelle-walensky-new-guidelines-for/10644836](https://abc7chicago.com/cdc-masks-mask-guidance-rochelle-walensky-new-guidelines-for/10644836)
- - date_published: 2021-05-16T20:13:06+00:00
+ - date_published: 2021-05-16T15:44:00+00:00
  - tags: ['covid', 'masks']
 
  ## Bill Gates asked out several women in his office: report
@@ -1027,6 +1027,11 @@
  - tags: ['anthony fauci', 'covid', 'wuhan']
  - date_dead_since: 2024-10-23T06:49:48.488276+00:00
 
+ ## The Takeover has Already Begun - A Secret Video Reveals All by @RICHARD GRANNON
+ - [https://www.youtube.com/watch?v=npkZQGD7LOM](https://www.youtube.com/watch?v=npkZQGD7LOM)
+ - date_published: 2021-05-27T00:00:00+00:00
+ - tags: ['socialism', 'usa']
+
  ## NGOs file complaints against Clearview AI in five countries | Computer Weekly
  - [https://www.computerweekly.com/news/252501435/NGOs-file-complaints-against-Clearview-AI-in-five-countries](https://www.computerweekly.com/news/252501435/NGOs-file-complaints-against-Clearview-AI-in-five-countries)
  - date_published: 2021-05-27T19:23:24+00:00
@@ -1036,11 +1041,6 @@
  - [https://www.bbc.com/news/technology-57122120](https://www.bbc.com/news/technology-57122120)
  - date_published: 2021-05-27T20:19:38+00:00
  - tags: ['big tech', 'microsoft', 'orwell', 'surveillance']
-
- ## The Takeover has Already Begun - A Secret Video Reveals All by @RICHARD GRANNON
- - [https://www.youtube.com/watch?v=npkZQGD7LOM](https://www.youtube.com/watch?v=npkZQGD7LOM)
- - date_published: 2021-05-27T21:17:48+00:00
- - tags: ['socialism', 'usa']
 
  ## 'Blue's Clues' releases LGBTQ-themed sing-along video for Pride Month
  - [https://www.today.com/popculture/blue-s-clues-releases-lgbtq-themed-sing-along-video-pride-t220295](https://www.today.com/popculture/blue-s-clues-releases-lgbtq-themed-sing-along-video-pride-t220295)
@@ -1092,6 +1092,11 @@
  - date_published: 2021-06-02T21:17:09+00:00
  - tags: ['gender', 'intolerance', 'lgbt', 'the left wing', 'usa']
 
+ ## What Fauci's EXPOSED Emails REVEAL
+ - [https://www.youtube.com/watch?v=2YmpRI9KDh8](https://www.youtube.com/watch?v=2YmpRI9KDh8)
+ - date_published: 2021-06-03T00:00:00+00:00
+ - tags: ['anthony fauci', 'covid', 'covid lie']
+
  ## The Lab-Leak Theory: Inside the Fight to Uncover COVID-19’s Origins
  - [https://www.vanityfair.com/news/2021/06/the-lab-leak-theory-inside-the-fight-to-uncover-covid-19s-origins](https://www.vanityfair.com/news/2021/06/the-lab-leak-theory-inside-the-fight-to-uncover-covid-19s-origins)
  - date_published: 2021-06-03T07:19:42+00:00
@@ -1101,11 +1106,6 @@
  - [https://jacksoncunningham.medium.com/digital-exile-how-i-got-banned-for-life-from-airbnb-615434c6eeba](https://jacksoncunningham.medium.com/digital-exile-how-i-got-banned-for-life-from-airbnb-615434c6eeba)
  - date_published: 2021-06-03T16:41:55+00:00
  - tags: ['censorship', 'subscription', 'technofeudalism']
-
- ## What Fauci's EXPOSED Emails REVEAL
- - [https://www.youtube.com/watch?v=2YmpRI9KDh8](https://www.youtube.com/watch?v=2YmpRI9KDh8)
- - date_published: 2021-06-03T21:09:28+00:00
- - tags: ['anthony fauci', 'covid', 'covid lie']
 
  ## BOMBSHELL: Fauci Kept Funding Peter Daszak's Wuhan 'Gain of Function' Experiments with $7.5 Million after Trump Canceled Grant
  - [https://nationalfile.com/bombshell-fauci-kept-funding-peter-daszaks-wuhan-gain-of-function-experiments-with-7-5-million-after-trump-canceled-grant](https://nationalfile.com/bombshell-fauci-kept-funding-peter-daszaks-wuhan-gain-of-function-experiments-with-7-5-million-after-trump-canceled-grant)
@@ -1236,6 +1236,11 @@
  - date_published: 2021-06-22T21:17:41+00:00
  - tags: ['antitrust', 'big tech', 'cookies', 'google', 'monopoly']
 
+ ## Is Jesus Historical? What Do The Romans Say About Him?
+ - [https://www.youtube.com/watch?v=A41Tm5FDKns](https://www.youtube.com/watch?v=A41Tm5FDKns)
+ - date_published: 2021-06-24T00:00:00+00:00
+ - tags: ['bible', 'history', 'jesus christ', 'religion', 'religion knowledge']
+
  ## Over 600 bodies found at church-run Indigenous school in Canada, groups report  - Portland Press Herald
  - [https://www.pressherald.com/2021/06/24/over-600-bodies-found-at-church-run-indigenous-school-in-canada-groups-report](https://www.pressherald.com/2021/06/24/over-600-bodies-found-at-church-run-indigenous-school-in-canada-groups-report)
  - date_published: 2021-06-24T08:57:52+00:00
@@ -1255,11 +1260,6 @@
  - [https://www.fiercepharma.com/pharma/fda-says-label-warning-coming-for-heart-inflammation-pfizer-bnt-moderna-covid-19-vaccines](https://www.fiercepharma.com/pharma/fda-says-label-warning-coming-for-heart-inflammation-pfizer-bnt-moderna-covid-19-vaccines)
  - date_published: 2021-06-24T18:00:32+00:00
  - tags: ['covid', 'vaccine']
-
- ## Is Jesus Historical? What Do The Romans Say About Him?
- - [https://www.youtube.com/watch?v=A41Tm5FDKns](https://www.youtube.com/watch?v=A41Tm5FDKns)
- - date_published: 2021-06-24T20:17:29+00:00
- - tags: ['bible', 'history', 'jesus christ', 'religion', 'religion knowledge']
 
  ## What Started the Cultural Fixation on Gender?
  - [https://www.youtube.com/watch?v=OHE442ISkUU](https://www.youtube.com/watch?v=OHE442ISkUU)
@@ -1580,7 +1580,6 @@
  ## GM Will Suck Lithium From the Salton Sea to Make Batteries
  - [https://www.autoweek.com/news/green-cars/a37029490/gm-will-suck-lithium-from-the-salton-sea-to-make-batteries](https://www.autoweek.com/news/green-cars/a37029490/gm-will-suck-lithium-from-the-salton-sea-to-make-batteries)
  - date_published: 2021-07-18T07:00:55.792589+00:00
- - date_dead_since: 2025-02-08T12:51:40.306080+00:00
 
  ## I'm a Frito-Lay Factory Worker. I Work 12-Hour Days, 7 Days a Week
  - [https://www.vice.com/en/article/pkbmwy/im-a-frito-lay-factory-worker-i-work-12-hour-days-7-days-a-week](https://www.vice.com/en/article/pkbmwy/im-a-frito-lay-factory-worker-i-work-12-hour-days-7-days-a-week)
@@ -1697,6 +1696,10 @@
  - [https://engineering.fb.com/2021/07/22/data-infrastructure/mysql](https://engineering.fb.com/2021/07/22/data-infrastructure/mysql)
  - date_published: 2021-07-23T09:37:08.839937+00:00
 
+ ## AWS’s Egregious Egress
+ - [https://blog.cloudflare.com/aws-egregious-egress](https://blog.cloudflare.com/aws-egregious-egress)
+ - date_published: 2021-07-23T14:01:00+00:00
+
  ## Exclusive: Discord is getting threads – this is what it looks like | TechRadar
  - [https://www.techradar.com/news/threads-are-finally-coming-to-discord](https://www.techradar.com/news/threads-are-finally-coming-to-discord)
  - date_published: 2021-07-23T15:20:33.364012+00:00
@@ -1719,10 +1722,6 @@
  - [https://www.bbc.co.uk/news/world-australia-57952516](https://www.bbc.co.uk/news/world-australia-57952516)
  - date_published: 2021-07-24T07:02:04+00:00
  - tags: ['australia', 'covid', 'lockdown']
-
- ## AWS’s Egregious Egress
- - [https://blog.cloudflare.com/aws-egregious-egress](https://blog.cloudflare.com/aws-egregious-egress)
- - date_published: 2021-07-24T10:11:48.543243+00:00
 
  ## How Empty Storefronts Are Killing Our Neighbourhoods | The Walrus
  - [https://thewalrus.ca/how-empty-storefronts-are-killing-our-neighbourhoods](https://thewalrus.ca/how-empty-storefronts-are-killing-our-neighbourhoods)
@@ -1825,7 +1824,7 @@
 
  ## THE GREEN KNIGHT Ending Explained!
  - [https://www.youtube.com/watch?v=9mntL7atEHg](https://www.youtube.com/watch?v=9mntL7atEHg)
- - date_published: 2021-07-30T20:43:21+00:00
+ - date_published: 2021-07-30T00:00:00+00:00
  - tags: ['green knight', 'movies']
 
  ## Idiots And Maniacs - Earthly Blog
@@ -1889,6 +1888,10 @@
  - [https://www.axios.com/pbs-internet-online-information-nonprofit-e9a78344-ae58-4214-9cb6-974ab9576cb1.html](https://www.axios.com/pbs-internet-online-information-nonprofit-e9a78344-ae58-4214-9cb6-974ab9576cb1.html)
  - date_published: 2021-08-03T06:37:12.291568+00:00
 
+ ## Why Don’t Tech Companies Pay Their Engineers to Stay? | by Matthew Dean | Jul, 2021 | Marker
+ - [https://marker.medium.com/why-dont-tech-companies-pay-their-engineers-to-stay-b9c7e4b751e9](https://marker.medium.com/why-dont-tech-companies-pay-their-engineers-to-stay-b9c7e4b751e9)
+ - date_published: 2021-08-03T13:58:32+00:00
+
  ## Launchpad now runs on Python 3! | Colin Watson's blog
  - [https://www.chiark.greenend.org.uk/~cjwatson/blog/lp-python3.html](https://www.chiark.greenend.org.uk/~cjwatson/blog/lp-python3.html)
  - date_published: 2021-08-03T22:19:31.852851+00:00
@@ -1909,10 +1912,6 @@
  ## ‘It has to be known what was done to us’: Natick couple harassed by eBay tell their story for the first time - The Boston Globe
  - [https://www.bostonglobe.com/2021/07/31/business/it-has-be-known-what-was-done-us-natick-couple-harassed-by-ebay-tell-their-story-first-time/?p1=Article_Feed_ContentQuery](https://www.bostonglobe.com/2021/07/31/business/it-has-be-known-what-was-done-us-natick-couple-harassed-by-ebay-tell-their-story-first-time/?p1=Article_Feed_ContentQuery)
  - date_published: 2021-08-04T22:25:44.241746+00:00
-
- ## Why Don’t Tech Companies Pay Their Engineers to Stay? | by Matthew Dean | Jul, 2021 | Marker
- - [https://marker.medium.com/why-dont-tech-companies-pay-their-engineers-to-stay-b9c7e4b751e9](https://marker.medium.com/why-dont-tech-companies-pay-their-engineers-to-stay-b9c7e4b751e9)
- - date_published: 2021-08-04T22:33:49.064295+00:00
 
  ## Amazon Unlawfully Confiscated Union Literature, NLRB Finds
  - [https://www.vice.com/en/article/bvz3kv/amazon-unlawfully-confiscated-union-literature-nlrb-finds](https://www.vice.com/en/article/bvz3kv/amazon-unlawfully-confiscated-union-literature-nlrb-finds)
@@ -1955,6 +1954,11 @@
  - [https://earthly.dev/blog/command-line-tools](https://earthly.dev/blog/command-line-tools)
  - date_published: 2021-08-06T16:36:35.095132+00:00
 
+ ## Is 1984 Becoming a Reality? - George Orwell's Warning to the World
+ - [https://www.youtube.com/watch?v=vEMlvpMY7yw](https://www.youtube.com/watch?v=vEMlvpMY7yw)
+ - date_published: 2021-08-07T00:00:00+00:00
+ - tags: ['orwell', 'totalitarianism']
+
  ## Prezes PiS: wszystkie partie powinny podpisać wspólne porozumienie w sprawie walki z epidemią COVID-19
  - [https://www.pap.pl/aktualnosci/news%2C925132%2Cprezes-pis-wszystkie-partie-powinny-podpisac-wspolne-porozumienie-w-sprawie](https://www.pap.pl/aktualnosci/news%2C925132%2Cprezes-pis-wszystkie-partie-powinny-podpisac-wspolne-porozumienie-w-sprawie)
  - date_published: 2021-08-07T07:45:32+00:00
@@ -1967,11 +1971,6 @@
  ## Ryan Reynolds: Why Free Guy is more than a 'video game movie' - BBC News
  - [https://www.bbc.co.uk/news/entertainment-arts-58061823](https://www.bbc.co.uk/news/entertainment-arts-58061823)
  - date_published: 2021-08-07T12:51:59.950786+00:00
-
- ## Is 1984 Becoming a Reality? - George Orwell's Warning to the World
- - [https://www.youtube.com/watch?v=vEMlvpMY7yw](https://www.youtube.com/watch?v=vEMlvpMY7yw)
- - date_published: 2021-08-07T21:16:39+00:00
- - tags: ['orwell', 'totalitarianism']
 
  ## Why CAPTCHA Pictures Are So Unbearably Depressing | by Clive Thompson | Aug, 2021 | Medium
  - [https://clivethompson.medium.com/why-captcha-pictures-are-so-unbearably-depressing-20679b8cf84a](https://clivethompson.medium.com/why-captcha-pictures-are-so-unbearably-depressing-20679b8cf84a)
@@ -2366,6 +2365,10 @@
  - [https://lukesmith.xyz/articles/obscenities-are-symptoms-of-weak-minds](https://lukesmith.xyz/articles/obscenities-are-symptoms-of-weak-minds)
  - date_published: 2021-09-03T00:00:00+00:00
 
+ ## A nasty bit of undefined timezone behavior in Golang | DoltHub Blog
+ - [https://www.dolthub.com/blog/2021-09-03-golang-time-bugs](https://www.dolthub.com/blog/2021-09-03-golang-time-bugs)
+ - date_published: 2021-09-03T00:00:00+00:00
+
  ## Sky Subscribers' Piracy Habits Directly Help Premier League Block Illegal Streams * TorrentFreak
  - [https://torrentfreak.com/sky-subscribers-piracy-habits-directly-help-premier-league-block-illegal-streams-210828](https://torrentfreak.com/sky-subscribers-piracy-habits-directly-help-premier-league-block-illegal-streams-210828)
  - date_published: 2021-09-03T07:23:20.746555+00:00
@@ -2493,10 +2496,6 @@
  ## Go is pass-by-value — but it might not always feel like it | neilalexander.dev
  - [https://neilalexander.dev/2021/08/29/go-pass-by-value.html](https://neilalexander.dev/2021/08/29/go-pass-by-value.html)
  - date_published: 2021-09-11T07:45:05.313418+00:00
-
- ## A nasty bit of undefined timezone behavior in Golang | DoltHub Blog
- - [https://www.dolthub.com/blog/2021-09-03-golang-time-bugs](https://www.dolthub.com/blog/2021-09-03-golang-time-bugs)
- - date_published: 2021-09-11T07:50:42.649255+00:00
 
  ## Apple must allow other forms of in-app purchase, rules judge in Epic v. Apple - The Verge
  - [https://www.theverge.com/2021/9/10/22662320/epic-apple-ruling-injunction-judge-court-app-store](https://www.theverge.com/2021/9/10/22662320/epic-apple-ruling-injunction-judge-court-app-store)
@@ -2667,7 +2666,7 @@
 
  ## The NSA and CIA Use Ad Blockers Because Online Advertising Is So Dangerous
  - [https://www.vice.com/en/article/93ypke/the-nsa-and-cia-use-ad-blockers-because-online-advertising-is-so-dangerous](https://www.vice.com/en/article/93ypke/the-nsa-and-cia-use-ad-blockers-because-online-advertising-is-so-dangerous)
- - date_published: 2021-09-23T21:53:34+00:00
+ - date_published: 2021-09-23T13:08:34+00:00
  - tags: ['ad block', 'ad business']
 
  ## ‘I’d rather be alone’: the influencers pushing for ‘relationship minimalism’ | Relationships | The Guardian
@@ -2750,14 +2749,19 @@
  - [https://www.vox.com/recode/22673353/unemployment-job-search-linkedin-indeed-algorithm](https://www.vox.com/recode/22673353/unemployment-job-search-linkedin-indeed-algorithm)
  - date_published: 2021-09-29T16:41:28.503523+00:00
 
+ ## The Big Lie - How to Enslave the World
+ - [https://www.youtube.com/watch?v=6VfJ0BJvt7Y](https://www.youtube.com/watch?v=6VfJ0BJvt7Y)
+ - date_published: 2021-09-30T00:00:00+00:00
+ - tags: ['totalitarianism']
+
  ## A World Without Sci-Hub – Palladium
  - [https://palladiummag.com/2021/09/24/a-world-without-sci-hub](https://palladiummag.com/2021/09/24/a-world-without-sci-hub)
  - date_published: 2021-09-30T08:14:39.951392+00:00
 
- ## The Big Lie - How to Enslave the World
- - [https://www.youtube.com/watch?v=6VfJ0BJvt7Y](https://www.youtube.com/watch?v=6VfJ0BJvt7Y)
- - date_published: 2021-09-30T21:14:05+00:00
- - tags: ['totalitarianism']
+ ## The Shadow - Carl Jung's Warning to The World
+ - [https://www.youtube.com/watch?v=OhzBo0dZNpY](https://www.youtube.com/watch?v=OhzBo0dZNpY)
+ - date_published: 2021-10-01T00:00:00+00:00
+ - tags: ['motivation', 'psychology', 'totalitarianism']
 
  ## Myth as Science and Prehistoric Knowledge: Hamlet's Mill
  - [https://notrelated.xyz/audio/s02/S02E04_-_Myth_as_Science_and_Prehistoric_Knowledge_Hamlets_Mill.ogg](https://notrelated.xyz/audio/s02/S02E04_-_Myth_as_Science_and_Prehistoric_Knowledge_Hamlets_Mill.ogg)
@@ -2771,11 +2775,6 @@
  ## A teenager on TikTok disrupted thousands of scientific studies with a single video - The Verge
  - [https://www.theverge.com/2021/9/24/22688278/tiktok-science-study-survey-prolific](https://www.theverge.com/2021/9/24/22688278/tiktok-science-study-survey-prolific)
  - date_published: 2021-10-01T14:05:42.641249+00:00
-
- ## The Shadow - Carl Jung's Warning to The World
- - [https://www.youtube.com/watch?v=OhzBo0dZNpY](https://www.youtube.com/watch?v=OhzBo0dZNpY)
- - date_published: 2021-10-01T21:19:03+00:00
- - tags: ['motivation', 'psychology', 'totalitarianism']
 
  ## A Conspiracy To Kill IE6
  - [https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6](https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6)
@@ -2795,7 +2794,6 @@
  - [https://www.nytimes.com/2021/10/03/technology/whistle-blower-facebook-frances-haugen.html](https://www.nytimes.com/2021/10/03/technology/whistle-blower-facebook-frances-haugen.html)
  - date_published: 2021-10-03T23:55:03+00:00
  - tags: ['algorithms', 'hate speech', 'psyop', 'technofeudalism']
- - date_dead_since: 2025-02-08T00:31:01.466996+00:00
 
  ## „Gawiedź niezaszczepiona wymrze rychło”. Oburzający wpis Środy, która komentuje posłów Konfederacji - tvp.info
  - [https://www.tvp.info/56189233/gawiedz-niezaszczepiona-wymrze-rychlo-oburzajacy-wpis-srody-ktora-komentuje-poslow-konfederacji](https://www.tvp.info/56189233/gawiedz-niezaszczepiona-wymrze-rychlo-oburzajacy-wpis-srody-ktora-komentuje-poslow-konfederacji)
