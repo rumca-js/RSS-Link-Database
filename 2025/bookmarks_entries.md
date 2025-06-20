@@ -112,7 +112,7 @@
 
  ## 'Lords of the Fallen' CEO BANNED By Reddit Mods
  - [https://www.youtube.com/watch?v=nPj6pOAYlWM](https://www.youtube.com/watch?v=nPj6pOAYlWM)
- - date_published: 2025-02-08T01:00:00+00:00
+ - date_published: 2025-02-08T00:00:00+00:00
  - tags: ['censorship', 'moderation', 'reddit']
 
  ## Strategia migracyjna. Powstanie 49 Centrów Integracji Cudzoziemców. Są już nowe informacje o lokalizacjach CIC, w różnych regionach Polski

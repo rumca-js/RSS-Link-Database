@@ -1508,8 +1508,13 @@
 
  ## "A grave mistake", Kenney apologizes for lockdown
  - [https://www.youtube.com/watch?v=ylTCTcSM09Y](https://www.youtube.com/watch?v=ylTCTcSM09Y)
- - date_published: 2020-11-25T08:43:31+00:00
+ - date_published: 2020-11-25T00:00:00+00:00
  - tags: ['covid', 'lockdown']
+
+ ## How Does China's Social Credit System Work?
+ - [https://www.youtube.com/watch?v=PVkWokLqPOg](https://www.youtube.com/watch?v=PVkWokLqPOg)
+ - date_published: 2020-11-26T00:00:00+00:00
+ - tags: ['china', 'social credit']
 
  ## Where's the cure for the infodemic? Our World Vs Virus podcast | World Economic Forum
  - [https://www.weforum.org/agenda/2020/11/misinformation-infodemic-world-vs-virus-podcast](https://www.weforum.org/agenda/2020/11/misinformation-infodemic-world-vs-virus-podcast)
@@ -1520,11 +1525,6 @@
  - [https://www.theguardian.com/technology/2020/nov/26/microsoft-productivity-score-feature-criticised-workplace-surveillance](https://www.theguardian.com/technology/2020/nov/26/microsoft-productivity-score-feature-criticised-workplace-surveillance)
  - date_published: 2020-11-26T08:49:28+00:00
  - tags: ['microsoft', 'surveillance', 'windows']
-
- ## How Does China's Social Credit System Work?
- - [https://www.youtube.com/watch?v=PVkWokLqPOg](https://www.youtube.com/watch?v=PVkWokLqPOg)
- - date_published: 2020-11-26T21:00:47+00:00
- - tags: ['china', 'social credit']
 
  ## You Own Nothing: The True Cost of Digital Media
  - [https://www.youtube.com/watch?v=iSGu_P185s4](https://www.youtube.com/watch?v=iSGu_P185s4)
@@ -1618,7 +1618,7 @@
 
  ## SoCal restaurant owners defy orders to close despite regional stay-at-home order - ABC7 Los Angeles
  - [https://abc7.com/california-coronavirus-socal-lockdown-stay-at-home-order-gov-gavin-newsom/8595340](https://abc7.com/california-coronavirus-socal-lockdown-stay-at-home-order-gov-gavin-newsom/8595340)
- - date_published: 2020-12-08T20:06:28+00:00
+ - date_published: 2020-12-08T04:06:00+00:00
  - tags: ['covid', 'lockdown']
 
  ## Minister zdrowia: Jako dowód szczepienia na COVID będzie można pokazać kod QR - rp.pl
@@ -1832,7 +1832,7 @@
 
  ## Was 2020 A Simulation? (Science & Math of the Simulation Theory)
  - [https://www.youtube.com/watch?v=c9p9NE4Pji0](https://www.youtube.com/watch?v=c9p9NE4Pji0)
- - date_published: 2020-12-26T07:46:46+00:00
+ - date_published: 2020-12-26T00:00:00+00:00
  - tags: ['psychology', 'science', 'simulation']
 
  ## UK: Only 377 people under 60 without preexisting conditions have died of COVID in Eng.
@@ -1874,4 +1874,9 @@
  - [https://www.rmf24.pl/raporty/raport-koronawirus-z-chin/europa/news-hiszpania-rodzina-odmowi-zaszczepienia-seniora-moze-stracic-,nId,4957585](https://www.rmf24.pl/raporty/raport-koronawirus-z-chin/europa/news-hiszpania-rodzina-odmowi-zaszczepienia-seniora-moze-stracic-,nId,4957585)
  - date_published: 2020-12-30T22:08:28+00:00
  - tags: ['covid', 'spain', 'vaccine']
+
+ ## Why am I so Anti-Video Gaymes?
+ - [https://www.youtube.com/watch?v=L5xd5yejPBE](https://www.youtube.com/watch?v=L5xd5yejPBE)
+ - date_published: 2021-01-01T00:00:00+00:00
+ - tags: ['games', 'luke smith']
 

@@ -1,14 +1,14 @@
+ ## Why am I so Anti-Video Gaymes?
+ - [https://www.youtube.com/watch?v=L5xd5yejPBE](https://www.youtube.com/watch?v=L5xd5yejPBE)
+ - date_published: 2021-01-01T00:00:00+00:00
+ - tags: ['games', 'luke smith']
+
  ## Koronawirus. Niedzielski: rozważamy ograniczenia dla niezaszczepionych
         
         - Wiadomości
  - [https://wiadomosci.onet.pl/kraj/koronawirus-niedzielski-rozwazamy-ograniczenia-dla-niezaszczepionych/lg4300d?utm_source=t.co_viasg_wiadomosci&utm_medium=social&utm_campaign=leo_automatic&srcc=ucs&utm_v=2](https://wiadomosci.onet.pl/kraj/koronawirus-niedzielski-rozwazamy-ograniczenia-dla-niezaszczepionych/lg4300d?utm_source=t.co_viasg_wiadomosci&utm_medium=social&utm_campaign=leo_automatic&srcc=ucs&utm_v=2)
  - date_published: 2021-01-01T06:50:52+00:00
  - tags: ['covid', 'poland', 'vaccine']
-
- ## Why am I so Anti-Video Gaymes?
- - [https://www.youtube.com/watch?v=L5xd5yejPBE](https://www.youtube.com/watch?v=L5xd5yejPBE)
- - date_published: 2021-01-01T20:58:00+00:00
- - tags: ['games', 'luke smith']
 
  ## Koronawirus. Szczepionka dla celebrytów: Wiktor Zborowski, Krzysztof Materna, Andrzej Seweryn i Maria Seweryn. Kontrowersje już nie tylko wokół Jandy i Millera | TVP Info - tvp.info
  - [https://www.tvp.info/51615749/koronawirus-szczepionka-dla-celebrytow-wiktor-zborowski-krzysztof-materna-andrzej-seweryn-i-maria-seweryn-kontrowersje-juz-nie-tylko-wokol-jandy-i-millera-tvp-info](https://www.tvp.info/51615749/koronawirus-szczepionka-dla-celebrytow-wiktor-zborowski-krzysztof-materna-andrzej-seweryn-i-maria-seweryn-kontrowersje-juz-nie-tylko-wokol-jandy-i-millera-tvp-info)
@@ -61,15 +61,15 @@
  - date_published: 2021-01-08T15:02:52+00:00
  - tags: ['donald trump', 'january 6', 'the right wing']
 
+ ## the darkness of 'first reformed'
+ - [https://www.youtube.com/watch?v=piyXjIO46uE](https://www.youtube.com/watch?v=piyXjIO46uE)
+ - date_published: 2021-01-09T00:00:00+00:00
+ - tags: ['first reformed', 'movies']
+
  ## Covid in Scotland: Police warn against lockdown protest
  - [https://www.bbc.com/news/uk-scotland-edinburgh-east-fife-55601318](https://www.bbc.com/news/uk-scotland-edinburgh-east-fife-55601318)
  - date_published: 2021-01-09T10:20:09+00:00
  - tags: ['covid', 'lockdown', 'protest', 'scotland']
-
- ## the darkness of 'first reformed'
- - [https://www.youtube.com/watch?v=piyXjIO46uE](https://www.youtube.com/watch?v=piyXjIO46uE)
- - date_published: 2021-01-09T21:02:19+00:00
- - tags: ['first reformed', 'movies']
 
  ## Apple removes Parler from the App Store - The Verge
  - [https://www.theverge.com/2021/1/9/22221730/apple-removes-suspends-bans-parler-app-store](https://www.theverge.com/2021/1/9/22221730/apple-removes-suspends-bans-parler-app-store)
@@ -142,7 +142,7 @@
 
  ## What Happened To Our Villains?
  - [https://www.youtube.com/watch?v=vnRP7SKzOgk](https://www.youtube.com/watch?v=vnRP7SKzOgk)
- - date_published: 2021-01-18T11:19:45+00:00
+ - date_published: 2021-01-18T00:00:00+00:00
  - tags: ['hollywood', 'movies']
 
  ## Does the West Actually Care About the Uighur Genocide in China or Is It a Handy Excuse for Conflict?
