@@ -528,14 +528,13 @@
 
  ## A HIDDEN LIFE - official trailer for Franz Jägerstätter
  - [https://www.youtube.com/watch?v=qJXmdY4lVR0](https://www.youtube.com/watch?v=qJXmdY4lVR0)
- - date_published: 2019-08-13T10:18:41+00:00
+ - date_published: 2019-08-13T00:00:00+00:00
  - tags: ['example', 'jagerstatter', 'warld war 2']
 
  ## FDNY Reviewed 4chan Post About Jeffrey Epstein’s Death
  - [https://www.buzzfeednews.com/article/janelytvynenko/fdny-review-jeffrey-epstein-4chan-post](https://www.buzzfeednews.com/article/janelytvynenko/fdny-review-jeffrey-epstein-4chan-post)
  - date_published: 2019-08-13T11:54:26+00:00
  - tags: ['4chan', 'jeffrey epstein']
- - date_dead_since: 2025-02-10T22:51:55.277618+00:00
 
  ## Copper: Powering Up The Electric Vehicle | Wood Mackenzie
  - [https://www.woodmac.com/news/opinion/copper-powering-up-the-electric-vehicle](https://www.woodmac.com/news/opinion/copper-powering-up-the-electric-vehicle)
@@ -580,7 +579,7 @@
 
  ## Oskarżenia pod adresem Grety Thunberg. „Stoją za nią PR-owcy i koncerny”
  - [https://energetyka24.com/klimat/oskarzenia-pod-adresem-grety-thunberg-stoja-za-nia-pr-owcy-i-koncerny](https://energetyka24.com/klimat/oskarzenia-pod-adresem-grety-thunberg-stoja-za-nia-pr-owcy-i-koncerny)
- - date_published: 2019-08-20T18:56:06+00:00
+ - date_published: 2019-08-20T14:33:50+00:00
  - tags: ['climate change', 'corporatocracy', 'greta thunberg']
 
  ## Microsoft Contractors Listened to Xbox Owners in Their Homes
@@ -674,7 +673,7 @@
 
  ## Why Tesla is a Privacy Nightmare
  - [https://www.youtube.com/watch?v=Qjkt3X2WLrw](https://www.youtube.com/watch?v=Qjkt3X2WLrw)
- - date_published: 2019-09-09T20:34:52+00:00
+ - date_published: 2019-09-09T00:00:00+00:00
  - tags: ['privacy', 'tesla']
 
  ## Council on Foreign Relations, another beneficiary of Epstein largesse, grapples with how to handle his donations - The Washington Post
@@ -709,7 +708,7 @@
 
  ## Efekt Snowdena - czy nasza prywatność w Internecie JEST BEZPIECZNA? [TOPOWA DYCHA]
  - [https://www.youtube.com/watch?v=f7_IX9NtjnI](https://www.youtube.com/watch?v=f7_IX9NtjnI)
- - date_published: 2019-09-26T20:37:58+00:00
+ - date_published: 2019-09-26T00:00:00+00:00
  - tags: ['edward snowden', 'internet', 'privacy']
 
  ## The Green Swindlers Behind Greta Thunberg
@@ -767,7 +766,11 @@
  - [https://www.buzzfeednews.com/article/ryanmac/unsworth-reply-elon-musk-fucking-idiot](https://www.buzzfeednews.com/article/ryanmac/unsworth-reply-elon-musk-fucking-idiot)
  - date_published: 2019-10-08T12:21:11+00:00
  - tags: ['billionaires', 'elites', 'elon musk', 'lie']
- - date_dead_since: 2025-02-10T19:22:48.566295+00:00
+
+ ## How The Joker Smashes Our Political Narratives
+ - [https://www.youtube.com/watch?v=H74BbcTs6xs](https://www.youtube.com/watch?v=H74BbcTs6xs)
+ - date_published: 2019-10-09T00:00:00+00:00
+ - tags: ['joker', 'movies']
 
  ## 'Alexa, are you invading my privacy?' – the dark side of our voice assistants
  - [https://www.theguardian.com/technology/2019/oct/09/alexa-are-you-invading-my-privacy-the-dark-side-of-our-voice-assistants](https://www.theguardian.com/technology/2019/oct/09/alexa-are-you-invading-my-privacy-the-dark-side-of-our-voice-assistants)
@@ -778,11 +781,6 @@
  - [https://www.theguardian.com/environment/2019/oct/09/revealed-20-firms-third-carbon-emissions](https://www.theguardian.com/environment/2019/oct/09/revealed-20-firms-third-carbon-emissions)
  - date_published: 2019-10-09T14:34:31+00:00
  - tags: ['carbon emissions', 'carbon footprint', 'climate change']
-
- ## How The Joker Smashes Our Political Narratives
- - [https://www.youtube.com/watch?v=H74BbcTs6xs](https://www.youtube.com/watch?v=H74BbcTs6xs)
- - date_published: 2019-10-09T20:45:08+00:00
- - tags: ['joker', 'movies']
 
  ## Google pulls Hong Kong protest game for violating rules against ‘capitalizing on sensitive events’
  - [https://www.theverge.com/2019/10/10/20908034/google-hong-kong-protest-game-play-store-removed-rules](https://www.theverge.com/2019/10/10/20908034/google-hong-kong-protest-game-play-store-removed-rules)
@@ -831,7 +829,7 @@
 
  ## Edward Snowden: How Your Cell Phone Spies on You
  - [https://www.youtube.com/watch?v=VFns39RXPrU](https://www.youtube.com/watch?v=VFns39RXPrU)
- - date_published: 2019-10-23T19:56:19+00:00
+ - date_published: 2019-10-23T00:00:00+00:00
  - tags: ['edward snowden', 'privacy', 'smartphone']
 
  ## W Norwegii urzędnicy zabrali Polce dziecko, bo zobaczyli na stole szampana. Czy mogą teraz odpowiadać przed polskim sądem?
@@ -895,7 +893,7 @@
 
  ## GitHub Arctic Code Vault
  - [https://www.youtube.com/watch?v=fzI9FNjXQ0o](https://www.youtube.com/watch?v=fzI9FNjXQ0o)
- - date_published: 2019-11-13T09:44:26+00:00
+ - date_published: 2019-11-13T00:00:00+00:00
  - tags: ['arctic code vault', 'github', 'programming']
 
  ## Microsoft says minorities in the US earn $1.006 for every $1.00 white employees earn, but experts say there's a very big asterisk
@@ -910,7 +908,7 @@
 
  ## Jonathan Pageau: The Surprising Symbolism of 666
  - [https://www.youtube.com/watch?v=qM_kQjpAK6g](https://www.youtube.com/watch?v=qM_kQjpAK6g)
- - date_published: 2019-11-14T20:16:44+00:00
+ - date_published: 2019-11-14T00:00:00+00:00
  - tags: ['666', 'jonathan pageau', 'symbolism']
 
  ## Google regularly changes search results: WSJ
@@ -925,7 +923,7 @@
 
  ## Spirited Away Revealed: The Real Mythology & Folklore Explained!
  - [https://www.youtube.com/watch?v=GRVpWwMXrl8](https://www.youtube.com/watch?v=GRVpWwMXrl8)
- - date_published: 2019-11-16T20:41:30+00:00
+ - date_published: 2019-11-16T00:00:00+00:00
  - tags: ['anime', 'japan', 'spirited away']
 
  ## Solar Panels Produce Tons of Toxic Waste—Literally - Foundation for Economic Education

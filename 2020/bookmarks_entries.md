@@ -293,7 +293,7 @@
 
  ## NYC's Footprint Amid The COVID-19 Outbreak
  - [https://www.youtube.com/watch?v=Q5BFrDocPNs](https://www.youtube.com/watch?v=Q5BFrDocPNs)
- - date_published: 2020-03-26T20:00:02+00:00
+ - date_published: 2020-03-26T00:00:00+00:00
  - tags: ['covid', 'tracking']
 
  ## Ministerstwo Zdrowia zakazuje lekarzom mówić o koronawirusie
@@ -479,6 +479,11 @@
  - date_published: 2020-05-27T19:48:09+00:00
  - tags: ['covid']
 
+ ## Roko's Basilisk: The Most Terrifying Thought Experiment
+ - [https://www.youtube.com/watch?v=ut-zGHLAVLI](https://www.youtube.com/watch?v=ut-zGHLAVLI)
+ - date_published: 2020-05-28T00:00:00+00:00
+ - tags: ['roko basilisk']
+
  ## Onet: Polski rząd przepłacał za testy na koronawirusa z Turcji - RMF 24
  - [https://www.rmf24.pl/raporty/raport-koronawirus-z-chin/polska/news-onet-polski-rzad-przeplacal-za-testy-na-koronawirusa-z-turcj,nId,4521809#crp_state=1](https://www.rmf24.pl/raporty/raport-koronawirus-z-chin/polska/news-onet-polski-rzad-przeplacal-za-testy-na-koronawirusa-z-turcj,nId,4521809#crp_state=1)
  - date_published: 2020-05-28T05:37:59+00:00
@@ -490,11 +495,6 @@
  - [https://wiadomosci.onet.pl/tylko-w-onecie/koronawirus-polska-rzad-przeplacal-za-testy/lqmcpcx](https://wiadomosci.onet.pl/tylko-w-onecie/koronawirus-polska-rzad-przeplacal-za-testy/lqmcpcx)
  - date_published: 2020-05-28T06:55:50+00:00
  - tags: ['covid', 'poland', 'tests']
-
- ## Roko's Basilisk: The Most Terrifying Thought Experiment
- - [https://www.youtube.com/watch?v=ut-zGHLAVLI](https://www.youtube.com/watch?v=ut-zGHLAVLI)
- - date_published: 2020-05-28T21:22:21+00:00
- - tags: ['roko basilisk']
 
  ## Ricky Gervais – Golden Globes 2020 (Uncensored, HD)
  - [https://www.youtube.com/watch?v=iJOb9xHggS4](https://www.youtube.com/watch?v=iJOb9xHggS4)
@@ -557,7 +557,7 @@
 
  ## Seattle Protesters Take Over Six Blocks, Declaring It 'Capitol Hill Autonomous Zone'
  - [https://www.insideedition.com/seattle-protesters-take-over-six-blocks-declaring-it-capitol-hill-autonomous-zone-60104](https://www.insideedition.com/seattle-protesters-take-over-six-blocks-declaring-it-capitol-hill-autonomous-zone-60104)
- - date_published: 2020-06-11T18:37:45+00:00
+ - date_published: 2020-06-11T14:15:08+00:00
  - tags: ['black lives matter']
 
  ## Seattle protesters take over city blocks to create police-free 'autonomous zone'
@@ -672,7 +672,7 @@
 
  ## Judge Rules Virginia Giuffre's Lawyers Must 'Destroy' Jeffrey Epstein Files
  - [https://www.newsweek.com/judge-rules-virginia-giuffres-lawyers-must-destroy-jeffrey-epstein-files-1514909](https://www.newsweek.com/judge-rules-virginia-giuffres-lawyers-must-destroy-jeffrey-epstein-files-1514909)
- - date_published: 2020-07-02T19:43:29+00:00
+ - date_published: 2020-07-02T00:15:41+00:00
  - tags: ['jeffrey epstein']
 
  ## Bill Gates' Sphere of Influence
@@ -702,7 +702,7 @@
 
  ## Climate Change Is An Absolute Nightmare - This Is Why
  - [https://www.youtube.com/watch?v=uqwvf6R1_QY](https://www.youtube.com/watch?v=uqwvf6R1_QY)
- - date_published: 2020-07-09T07:33:22+00:00
+ - date_published: 2020-07-09T00:00:00+00:00
  - tags: ['climate change', 'pollution', 'science']
 
  ## Confessions Of A Dead Man: Personal Driver Of Jeffrey Epstein And Other Elites Tells All
@@ -944,7 +944,7 @@
 
  ## Why your 'Carbon Footprint' Is A Lie | Climate Town
  - [https://www.youtube.com/watch?v=1J9LOqiXdpE](https://www.youtube.com/watch?v=1J9LOqiXdpE)
- - date_published: 2020-08-12T07:47:34+00:00
+ - date_published: 2020-08-12T00:00:00+00:00
  - tags: ['carbon emissions', 'carbon footprint', 'climate change']
 
  ## The federal government's premier nuclear research lab hosted a 3-day reeducation camp for white males
@@ -1024,7 +1024,7 @@
 
  ## The Social Dilemma | Official Trailer | NetflixThe Social Dilemma | Official Trailer | Netflix
  - [https://www.youtube.com/watch?v=uaaC57tcci0](https://www.youtube.com/watch?v=uaaC57tcci0)
- - date_published: 2020-08-27T08:41:27+00:00
+ - date_published: 2020-08-27T00:00:00+00:00
  - tags: ['social dilemma', 'social media', 'society']
 
  ## 'They spied on my campaign': How Trump transformed a conspiracy theory into a political rallying cry | CNN Politics
@@ -1222,15 +1222,15 @@
  - date_published: 2020-09-30T13:08:38+00:00
  - tags: ['big brother', 'freedom', 'government', 'surveillance']
 
+ ## Aldous Huxley - The Most Brutally Honest 8 Minutes Of Your Life!
+ - [https://www.youtube.com/watch?v=67fm4D5Ii6E](https://www.youtube.com/watch?v=67fm4D5Ii6E)
+ - date_published: 2020-10-01T00:00:00+00:00
+ - tags: ['aldous huxley', 'brave new world']
+
  ## Powstało izolatorium dla zakażonych koronawirusem | 24jgora.pl
  - [https://24jgora.pl/artykul/powstalo-izolatorium/1085260](https://24jgora.pl/artykul/powstalo-izolatorium/1085260)
  - date_published: 2020-10-01T19:53:32+00:00
  - tags: ['covid', 'poland', 'quarantine']
-
- ## Aldous Huxley - The Most Brutally Honest 8 Minutes Of Your Life!
- - [https://www.youtube.com/watch?v=67fm4D5Ii6E](https://www.youtube.com/watch?v=67fm4D5Ii6E)
- - date_published: 2020-10-01T21:01:54+00:00
- - tags: ['aldous huxley', 'brave new world']
 
  ## 'Woke utopia', the end of the West & a new cult - James Lindsay interview - BQ #33
  - [https://www.youtube.com/watch?v=dE8p-mcFdNg](https://www.youtube.com/watch?v=dE8p-mcFdNg)
@@ -1297,15 +1297,15 @@
  - date_published: 2020-10-14T00:00:00+00:00
  - tags: ['america', 'big pharma']
 
+ ## Jak facebook amazon monopolizują dane osobowe. Giganty technologiczne i nowy porządek świata.WWR#112
+ - [https://www.youtube.com/watch?v=PbqLcEsm1qE](https://www.youtube.com/watch?v=PbqLcEsm1qE)
+ - date_published: 2020-10-15T00:00:00+00:00
+ - tags: ['corporatocracy', 'facebook', 'privacy']
+
  ## YouTube to ban videos spreading misinformation on COVID-19 vaccines  | World Economic Forum
  - [https://www.weforum.org/agenda/2020/10/youtube-bans-coronavirus-vaccine-misinformation](https://www.weforum.org/agenda/2020/10/youtube-bans-coronavirus-vaccine-misinformation)
  - date_published: 2020-10-15T06:27:44+00:00
  - tags: ['censorship', 'covid', 'misinformation', 'moderation', 'technofeudalism', 'vaccine', 'youtube']
-
- ## Jak facebook amazon monopolizują dane osobowe. Giganty technologiczne i nowy porządek świata.WWR#112
- - [https://www.youtube.com/watch?v=PbqLcEsm1qE](https://www.youtube.com/watch?v=PbqLcEsm1qE)
- - date_published: 2020-10-15T20:09:58+00:00
- - tags: ['corporatocracy', 'facebook', 'privacy']
 
  ## Facebook, Twitter employees send over 90% of political donations to Democrats: report | Fox News
  - [https://www.foxnews.com/politics/facebook-twitter-employees-donations-democrats](https://www.foxnews.com/politics/facebook-twitter-employees-donations-democrats)

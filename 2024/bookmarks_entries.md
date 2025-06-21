@@ -132,15 +132,15 @@
  - date_published: 2024-01-14T12:14:35+00:00
  - tags: ['artificial intelligence']
 
+ ## Kaspersky finds hardware backdoor in 5 generations of Apple Silicon (2024)
+ - [https://www.xstore.co.za/stuff/2024/01/kaspersky-finds-hardware-backdoor-in-5-generations-of-apple-silicon](https://www.xstore.co.za/stuff/2024/01/kaspersky-finds-hardware-backdoor-in-5-generations-of-apple-silicon)
+ - date_published: 2024-01-14T15:50:09+00:00
+ - tags: ['apple', 'backdoor', 'vulnerability']
+
  ## Electric buses withdrawn in south London after fire
  - [https://www.bbc.com/news/uk-england-london-67967421](https://www.bbc.com/news/uk-england-london-67967421)
  - date_published: 2024-01-14T17:26:49+00:00
  - tags: ['climate change', 'electric vehicles']
-
- ## Kaspersky finds hardware backdoor in 5 generations of Apple Silicon (2024)
- - [https://www.xstore.co.za/stuff/2024/01/kaspersky-finds-hardware-backdoor-in-5-generations-of-apple-silicon](https://www.xstore.co.za/stuff/2024/01/kaspersky-finds-hardware-backdoor-in-5-generations-of-apple-silicon)
- - date_published: 2024-01-14T18:07:24+00:00
- - tags: ['apple', 'backdoor', 'vulnerability']
 
  ## Many software developers don’t trust AI – report
  - [https://www.infoworld.com/article/3712282/many-software-developers-dont-trust-ai-report.html](https://www.infoworld.com/article/3712282/many-software-developers-dont-trust-ai-report.html)
