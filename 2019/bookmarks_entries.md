@@ -114,12 +114,12 @@
 
  ## We're Numb to Data Privacy Abuse | Joe Rogan & Bill Ottman
  - [https://www.youtube.com/watch?v=5WD3azvYYWs](https://www.youtube.com/watch?v=5WD3azvYYWs)
- - date_published: 2019-02-20T20:54:35+00:00
+ - date_published: 2019-02-20T00:00:00+00:00
  - tags: ['privacy']
 
  ## Sweden sees microchip implant revolution | Al Jazeera English
  - [https://www.youtube.com/watch?v=dl_gemn9a9E](https://www.youtube.com/watch?v=dl_gemn9a9E)
- - date_published: 2019-02-21T19:57:15+00:00
+ - date_published: 2019-02-21T00:00:00+00:00
  - tags: ['chip', 'sweden']
 
  ## Lawyer slams 'ridiculous' case which saw teen prosecuted for Instagramming N-word rap lyrics - Liverpool Echo
@@ -242,7 +242,7 @@
 
  ## Marble Conveyor Belt Completed! - Marble Machine X #78
  - [https://www.youtube.com/watch?v=1AEvQAg6TE0](https://www.youtube.com/watch?v=1AEvQAg6TE0)
- - date_published: 2019-04-24T21:17:54+00:00
+ - date_published: 2019-04-24T00:00:00+00:00
  - tags: ['music', 'technology']
 
  ## The Terrifying Potential of the 5G Network
@@ -284,7 +284,6 @@
  - [https://www.nytimes.com/2019/05/07/opinion/google-sundar-pichai-privacy.html](https://www.nytimes.com/2019/05/07/opinion/google-sundar-pichai-privacy.html)
  - date_published: 2019-05-07T06:29:51+00:00
  - tags: ['anonymity', 'google', 'privacy', 'sundar pichai', 'surveillance']
- - date_dead_since: 2025-02-11T06:20:39.592098+00:00
 
  ## Using AI to predict breast cancer and personalize care | MIT News | Massachusetts Institute of Technology
  - [https://news.mit.edu/2019/using-ai-predict-breast-cancer-and-personalize-care-0507](https://news.mit.edu/2019/using-ai-predict-breast-cancer-and-personalize-care-0507)
@@ -323,7 +322,7 @@
 
  ## Why should you read “The Master and Margarita”? - Alex Gendler
  - [https://www.youtube.com/watch?v=miNBicrLiXo](https://www.youtube.com/watch?v=miNBicrLiXo)
- - date_published: 2019-05-30T11:59:31+00:00
+ - date_published: 2019-05-30T00:00:00+00:00
  - tags: ['book', 'master and margarita']
 
  ## JPMorgan Chase Seeks to Prohibit Card Customers From Suing - The New York Times
@@ -443,7 +442,7 @@
 
  ## Why you should stop working so hard.
  - [https://www.youtube.com/watch?v=NglDal-ycjU](https://www.youtube.com/watch?v=NglDal-ycjU)
- - date_published: 2019-07-17T09:14:31+00:00
+ - date_published: 2019-07-17T00:00:00+00:00
  - tags: ['it', 'managment', 'programming']
 
  ## Akcja "Żywa Książka" budzi sprzeciw Ordo Iuris. "Pod pozorem lekcji tolerancji oswaja się ludzi z agendą LGBT"
@@ -453,7 +452,7 @@
 
  ## The High Society That Surrounded Jeffrey Epstein
  - [https://nymag.com/intelligencer/2019/07/jeffrey-epstein-high-society-contacts.html](https://nymag.com/intelligencer/2019/07/jeffrey-epstein-high-society-contacts.html)
- - date_published: 2019-07-22T11:05:57+00:00
+ - date_published: 2019-07-22T06:00:11+00:00
  - tags: ['jeffrey epstein']
 
  ## Public Library Deletes Pictures Of Drag Queens Fondling Children At Story Hour
@@ -471,25 +470,25 @@
  - date_published: 2019-07-27T14:40:12+00:00
  - tags: ['ben shapiro', 'climate change', 'science']
 
- ## Jeffrey Epstein Hoped to Seed Human Race With His DNA (Published 2019)
- - [https://www.nytimes.com/2019/07/31/business/jeffrey-epstein-eugenics.html](https://www.nytimes.com/2019/07/31/business/jeffrey-epstein-eugenics.html)
- - date_published: 2019-07-31T19:41:29+00:00
- - tags: ['jeffrey epstein', 'transhumanism']
-
  ## Jeffrey Epstein Wanted to Impregnate 20 Women at a Time at His ‘Baby Ranch’
  - [https://www.thecut.com/2019/07/jeffrey-epstein-baby-ranch-transhumanism-scientists.html](https://www.thecut.com/2019/07/jeffrey-epstein-baby-ranch-transhumanism-scientists.html)
- - date_published: 2019-07-31T19:44:47+00:00
+ - date_published: 2019-07-31T16:40:13+00:00
  - tags: ['jeffrey epstein']
 
- ## Kazakhstan Attempts to MITM Its Citizens
- - [https://www.f5.com/labs/articles/threat-intelligence/kazakhstan-attempts-to-mitm-itscitizens](https://www.f5.com/labs/articles/threat-intelligence/kazakhstan-attempts-to-mitm-itscitizens)
- - date_published: 2019-08-01T13:46:00+00:00
- - tags: ['crypto wars', 'kazakhstan', 'privacy', 'surveillance']
+ ## Jeffrey Epstein Hoped to Seed Human Race With His DNA (Published 2019)
+ - [https://www.nytimes.com/2019/07/31/business/jeffrey-epstein-eugenics.html](https://www.nytimes.com/2019/07/31/business/jeffrey-epstein-eugenics.html)
+ - date_published: 2019-07-31T19:14:18+00:00
+ - tags: ['jeffrey epstein', 'transhumanism']
 
  ## Google Manipulates Search Results, Former Engineer Shockingly Confirms
  - [https://www.ccn.com/google-manipulates-search-results-former-engineer-shockingly-confirms](https://www.ccn.com/google-manipulates-search-results-former-engineer-shockingly-confirms)
- - date_published: 2019-08-01T14:10:59+00:00
+ - date_published: 2019-08-01T07:06:58+00:00
  - tags: ['algorithms', 'big tech', 'dead internet', 'manufacturing consent', 'media bias', 'search engines']
+
+ ## Kazakhstan Attempts to MITM Its Citizens
+ - [https://www.f5.com/labs/articles/threat-intelligence/kazakhstan-attempts-to-mitm-itscitizens](https://www.f5.com/labs/articles/threat-intelligence/kazakhstan-attempts-to-mitm-itscitizens)
+ - date_published: 2019-08-01T11:17:00+00:00
+ - tags: ['crypto wars', 'kazakhstan', 'privacy', 'surveillance']
 
  ## Robert Kiyosaki 2019 - The Speech That Broke The Internet!!! KEEP THEM POOR!
  - [https://www.youtube.com/watch?v=azq0S0DKS50](https://www.youtube.com/watch?v=azq0S0DKS50)

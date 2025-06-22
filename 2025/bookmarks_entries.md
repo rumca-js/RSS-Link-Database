@@ -124,6 +124,7 @@
  - [https://abcnews.go.com/US/wireStory/fema-halting-payments-migrant-housing-new-york-after-118670265](https://abcnews.go.com/US/wireStory/fema-halting-payments-migrant-housing-new-york-after-118670265)
  - date_published: 2025-02-10T19:08:29+00:00
  - tags: ['immigration']
+ - date_dead_since: 2025-06-21T00:44:17.999892+00:00
 
  ## The UK’s war on encryption affects all of us
  - [https://www.theverge.com/policy/612136/uk-icloud-investigatory-powers-act-war-on-encryption](https://www.theverge.com/policy/612136/uk-icloud-investigatory-powers-act-war-on-encryption)
@@ -442,4 +443,14 @@
  - [https://blog.castle.io/from-puppeteer-stealth-to-nodriver-how-anti-detect-frameworks-evolved-to-evade-bot-detection](https://blog.castle.io/from-puppeteer-stealth-to-nodriver-how-anti-detect-frameworks-evolved-to-evade-bot-detection)
  - date_published: 2025-06-11T06:47:59+00:00
  - tags: ['web scraping']
+
+ ## China tightens internet controls with new centralized form of virtual ID | CNN Business
+ - [https://edition.cnn.com/2025/06/20/tech/china-censorship-internet-id-hnk-intl](https://edition.cnn.com/2025/06/20/tech/china-censorship-internet-id-hnk-intl)
+ - date_published: 2025-06-20T22:00:04+00:00
+ - tags: ['digital id', 'privacy', 'surveillance']
+
+ ## Samsung Embeds IronSource Spyware App on Phones Across WANA
+ - [https://smex.org/open-letter-to-samsung-end-forced-israeli-app-installations-in-the-wana-region](https://smex.org/open-letter-to-samsung-end-forced-israeli-app-installations-in-the-wana-region)
+ - date_published: 2025-06-21T03:06:42+00:00
+ - tags: ['privacy', 'spyware', 'surveillance']
 

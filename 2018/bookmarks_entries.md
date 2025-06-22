@@ -545,12 +545,12 @@
 
  ## Memento Movie Ending... Explained
  - [https://www.youtube.com/watch?v=0tBz3_JIOpk](https://www.youtube.com/watch?v=0tBz3_JIOpk)
- - date_published: 2018-08-31T20:26:04+00:00
+ - date_published: 2018-08-31T00:00:00+00:00
  - tags: ['memento', 'movies', 'nolan']
 
  ## Symbolism & Propaganda in Popular Culture
  - [https://www.youtube.com/watch?v=soh-3jiHq4s](https://www.youtube.com/watch?v=soh-3jiHq4s)
- - date_published: 2018-08-31T20:44:15+00:00
+ - date_published: 2018-08-31T00:00:00+00:00
  - tags: ['movies', 'propaganda', 'symbolism']
 
  ## Why Are So Many SJW Characters Mary Sues?
@@ -598,15 +598,15 @@
  - date_published: 2018-09-13T10:05:54+00:00
  - tags: ['germany', 'immigration']
 
+ ## Why you should delete your social media accounts
+ - [https://www.youtube.com/watch?v=3J1MIDTi9h8](https://www.youtube.com/watch?v=3J1MIDTi9h8)
+ - date_published: 2018-09-14T00:00:00+00:00
+ - tags: ['digital dementia', 'social media']
+
  ## Alex Jones: 5 most disturbing and ridiculous conspiracy theories
  - [https://www.cnbc.com/2018/09/14/alex-jones-5-most-disturbing-ridiculous-conspiracy-theories.html](https://www.cnbc.com/2018/09/14/alex-jones-5-most-disturbing-ridiculous-conspiracy-theories.html)
  - date_published: 2018-09-14T11:51:53+00:00
  - tags: ['alex jones']
-
- ## Why you should delete your social media accounts
- - [https://www.youtube.com/watch?v=3J1MIDTi9h8](https://www.youtube.com/watch?v=3J1MIDTi9h8)
- - date_published: 2018-09-14T20:53:44+00:00
- - tags: ['digital dementia', 'social media']
 
  ## Software Disenchantment
  - [https://tonsky.me/blog/disenchantment](https://tonsky.me/blog/disenchantment)
@@ -649,15 +649,15 @@
  - tags: ['agriculture']
  - date_dead_since: 2024-04-24T00:45:12.065398+00:00
 
+ ## A Clockwork Orange - Film Analysis & Meaning [Full HD]
+ - [https://www.youtube.com/watch?v=dOvP58ioBRc](https://www.youtube.com/watch?v=dOvP58ioBRc)
+ - date_published: 2018-10-13T00:00:00+00:00
+ - tags: ['clockwork orange', 'movies']
+
  ## Google vs DuckDuckGo | Search engine manipulation, censorship and why you should switch
  - [https://www.youtube.com/watch?v=SrsCEbi5N7Y](https://www.youtube.com/watch?v=SrsCEbi5N7Y)
  - date_published: 2018-10-13T00:00:00+00:00
  - tags: ['algorithms', 'dead internet', 'duckduckgo', 'search engines']
-
- ## A Clockwork Orange - Film Analysis & Meaning [Full HD]
- - [https://www.youtube.com/watch?v=dOvP58ioBRc](https://www.youtube.com/watch?v=dOvP58ioBRc)
- - date_published: 2018-10-13T20:37:55+00:00
- - tags: ['clockwork orange', 'movies']
 
  ## What Is the 'NPC' Meme? Liberals Rage at Cartoons Mocking Their Scripted Thoughts
  - [https://www.breitbart.com/tech/2018/10/16/what-is-the-npc-meme-liberals-rage-at-cartoons-mocking-their-scripted-thoughts](https://www.breitbart.com/tech/2018/10/16/what-is-the-npc-meme-liberals-rage-at-cartoons-mocking-their-scripted-thoughts)
@@ -713,7 +713,7 @@
 
  ## Eyes Wide Shut - What it all Meant
  - [https://www.youtube.com/watch?v=aXwy7M7Udmg](https://www.youtube.com/watch?v=aXwy7M7Udmg)
- - date_published: 2018-11-17T20:36:02+00:00
+ - date_published: 2018-11-17T00:00:00+00:00
  - tags: ['eyes wide shut', 'movies']
 
  ## Tim Cook defends taking billions from Google
