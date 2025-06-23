@@ -55,7 +55,7 @@
 
  ## Noam Chomsky - The 5 Filters of the Mass Media Machine
  - [https://www.youtube.com/watch?v=34LGPIXvU5M](https://www.youtube.com/watch?v=34LGPIXvU5M)
- - date_published: 2017-03-02T21:06:22+00:00
+ - date_published: 2017-03-02T00:00:00+00:00
  - tags: ['all time', 'noam chomsky', 'propaganda', 'social media']
 
  ## Click to agree with what? No one reads terms of service, studies confirm | Internet | The Guardian
@@ -100,7 +100,7 @@
 
  ## Who owns the world?
  - [https://www.newstatesman.com/politics/2017/03/land-queen-world-australia](https://www.newstatesman.com/politics/2017/03/land-queen-world-australia)
- - date_published: 2017-03-11T15:25:33+00:00
+ - date_published: 2017-03-11T14:27:00+00:00
  - tags: ['land ownership']
 
  ## Abortion facility workers explain how they disposed of aborted babies
@@ -125,7 +125,7 @@
 
  ## DOUBLE KING
  - [https://www.youtube.com/watch?v=w_MSFkZHNi4](https://www.youtube.com/watch?v=w_MSFkZHNi4)
- - date_published: 2017-04-02T13:19:52+00:00
+ - date_published: 2017-04-02T00:00:00+00:00
  - tags: ['art']
 
  ## China has fished itself out of its own waters, so Chinese fishermen are now sticking their rods in other nations’ seas
@@ -384,19 +384,19 @@
  - date_published: 2017-09-02T11:07:46+00:00
  - tags: ['newspeak', 'pronouns', 'the left wing']
 
+ ## Dennis Meadows Interview p4/4 (A 'peaceful collapse' & many revolutions...)
+ - [https://www.youtube.com/watch?v=Dbo6uvJBtZg](https://www.youtube.com/watch?v=Dbo6uvJBtZg)
+ - date_published: 2017-09-04T00:00:00+00:00
+ - tags: ['depopulation', 'population']
+
  ## Twitter's 'new' terms of service lead to panic among users of the site
  - [https://www.independent.co.uk/tech/twitter-new-terms-of-service-truth-original-content-tweets-embed-messages-posts-a7929256.html](https://www.independent.co.uk/tech/twitter-new-terms-of-service-truth-original-content-tweets-embed-messages-posts-a7929256.html)
  - date_published: 2017-09-04T12:04:50+00:00
  - tags: ['big tech', 'social media', 'subscription']
 
- ## Dennis Meadows Interview p4/4 (A 'peaceful collapse' & many revolutions...)
- - [https://www.youtube.com/watch?v=Dbo6uvJBtZg](https://www.youtube.com/watch?v=Dbo6uvJBtZg)
- - date_published: 2017-09-04T13:52:39+00:00
- - tags: ['depopulation', 'population']
-
  ## Joe Rogan - James Damore on the Backlash from the Google Memo Controversy
  - [https://www.youtube.com/watch?v=VIW2OBOzu7Y](https://www.youtube.com/watch?v=VIW2OBOzu7Y)
- - date_published: 2017-09-06T12:36:58+00:00
+ - date_published: 2017-09-06T00:00:00+00:00
  - tags: ['feminism', 'google', 'james damore', 'joe rogan']
 
  ## Jordan Peterson: Why You Won't Have a Career
@@ -406,7 +406,7 @@
 
  ## Ridley Scott Tells the REAL REASON Why David Hates Humans and Engineers
  - [https://www.youtube.com/watch?v=UsEs1PwpU8Y](https://www.youtube.com/watch?v=UsEs1PwpU8Y)
- - date_published: 2017-09-09T20:24:09+00:00
+ - date_published: 2017-09-09T00:00:00+00:00
  - tags: ['movies', 'prometheus']
 
  ## Jordan Peterson | Political Correctness and Postmodernism
@@ -426,7 +426,7 @@
 
  ## Is Reality Real? The Simulation Argument
  - [https://www.youtube.com/watch?v=tlTKTTt47WE](https://www.youtube.com/watch?v=tlTKTTt47WE)
- - date_published: 2017-09-21T07:46:14+00:00
+ - date_published: 2017-09-21T00:00:00+00:00
  - tags: ['reality', 'simulation']
 
  ## Apple: iPhones Are Too 'Complex' to Let You Fix Them
@@ -441,7 +441,7 @@
 
  ## ILE JEST WARTA TWOJA PRYWATNOŚĆ?
  - [https://www.youtube.com/watch?v=qk3HNcNOqRA](https://www.youtube.com/watch?v=qk3HNcNOqRA)
- - date_published: 2017-10-02T20:36:30+00:00
+ - date_published: 2017-10-02T00:00:00+00:00
  - tags: ['privacy']
 
  ## Jordan Peterson - Gay Marriage
@@ -461,7 +461,7 @@
 
  ## Blade Runner 2049: Do Memories Make Us Human? – Wisecrack Quick Take
  - [https://www.youtube.com/watch?v=VqDO9LyvXPQ](https://www.youtube.com/watch?v=VqDO9LyvXPQ)
- - date_published: 2017-10-13T20:19:38+00:00
+ - date_published: 2017-10-13T00:00:00+00:00
  - tags: ['blade runner', 'movies']
 
  ## Program 500+ tylko do małżeństw? Samotne matki na celowniku PiS
@@ -481,7 +481,7 @@
 
  ## Eye Symbolism in Blade Runner 2049 Explained || Hidden Messages Analysis
  - [https://www.youtube.com/watch?v=jRSZd8xYaL4](https://www.youtube.com/watch?v=jRSZd8xYaL4)
- - date_published: 2017-10-22T20:18:50+00:00
+ - date_published: 2017-10-22T00:00:00+00:00
  - tags: ['blade runner', 'movies', 'symbolism']
 
  ## Google as a search engine is becoming useless
@@ -499,15 +499,15 @@
  - date_published: 2017-11-02T14:55:39+00:00
  - tags: ['intel management engine', 'minix', 'surveillance', 'tracking']
 
+ ## More Human than Human - A Blade Runner Analysis
+ - [https://www.youtube.com/watch?v=gcQk3qM3Ok0](https://www.youtube.com/watch?v=gcQk3qM3Ok0)
+ - date_published: 2017-11-03T00:00:00+00:00
+ - tags: ['blade runner', 'movies']
+
  ## UK Politicians Call 'Fake News' On Stories They Don't Like, Aping Donald Trump
  - [https://www.huffingtonpost.co.uk/entry/british-politicians-fake-news_uk_58b60832e4b0a8a9b7870126](https://www.huffingtonpost.co.uk/entry/british-politicians-fake-news_uk_58b60832e4b0a8a9b7870126)
  - date_published: 2017-11-03T15:36:18+00:00
  - tags: ['disinformation', 'donald trump', 'england', 'fakenews']
-
- ## More Human than Human - A Blade Runner Analysis
- - [https://www.youtube.com/watch?v=gcQk3qM3Ok0](https://www.youtube.com/watch?v=gcQk3qM3Ok0)
- - date_published: 2017-11-03T20:20:52+00:00
- - tags: ['blade runner', 'movies']
 
  ## Jordan Peterson on the meaning of life for men. MUST WATCH
  - [https://www.youtube.com/watch?v=NX2ep5fCJZ8](https://www.youtube.com/watch?v=NX2ep5fCJZ8)
@@ -531,7 +531,7 @@
 
  ## Who Created Engineers ? Origins Explained || Theories
  - [https://www.youtube.com/watch?v=kSp07bwW1tA](https://www.youtube.com/watch?v=kSp07bwW1tA)
- - date_published: 2017-11-15T20:23:24+00:00
+ - date_published: 2017-11-15T00:00:00+00:00
  - tags: ['movies', 'prometheus']
 
  ## Intel Management Engine Flaws Leave Millions of PCs Exposed | WIRED
@@ -539,25 +539,25 @@
  - date_published: 2017-11-20T14:53:32+00:00
  - tags: ['intel management engine', 'surveillance', 'tracking', 'vulnerability']
 
+ ## 10 Reasons You Should Be AFRAID of GOOGLE
+ - [https://www.youtube.com/watch?v=WWDmelZxgoI](https://www.youtube.com/watch?v=WWDmelZxgoI)
+ - date_published: 2017-11-21T00:00:00+00:00
+ - tags: ['big tech', 'corporatocracy', 'google', 'monopoly', 'power']
+
  ## Intel: We've found severe bugs in secretive Management Engine, affecting millions | ZDNET
  - [https://www.zdnet.com/article/intel-weve-found-severe-bugs-in-secretive-management-engine-affecting-millions](https://www.zdnet.com/article/intel-weve-found-severe-bugs-in-secretive-management-engine-affecting-millions)
  - date_published: 2017-11-21T14:51:11+00:00
  - tags: ['intel management engine', 'surveillance', 'tracking']
 
- ## 10 Reasons You Should Be AFRAID of GOOGLE
- - [https://www.youtube.com/watch?v=WWDmelZxgoI](https://www.youtube.com/watch?v=WWDmelZxgoI)
- - date_published: 2017-11-21T20:37:18+00:00
- - tags: ['big tech', 'corporatocracy', 'google', 'monopoly', 'power']
+ ## Happiness
+ - [https://www.youtube.com/watch?v=e9dZQelULDk](https://www.youtube.com/watch?v=e9dZQelULDk)
+ - date_published: 2017-11-24T00:00:00+00:00
+ - tags: ['art', 'population', 'psychology', 'society']
 
  ## As DOJ calls for “responsible encryption,” expert asks “responsible to whom?” | Ars Technica
  - [https://arstechnica.com/tech-policy/2017/11/as-doj-calls-for-responsible-encryption-expert-asks-responsible-to-whom](https://arstechnica.com/tech-policy/2017/11/as-doj-calls-for-responsible-encryption-expert-asks-responsible-to-whom)
  - date_published: 2017-11-24T07:40:19+00:00
  - tags: ['big brother', 'crypto wars', 'encryption', 'privacy', 'surveillance']
-
- ## Happiness
- - [https://www.youtube.com/watch?v=e9dZQelULDk](https://www.youtube.com/watch?v=e9dZQelULDk)
- - date_published: 2017-11-25T07:18:36+00:00
- - tags: ['art', 'population', 'psychology', 'society']
 
  ## The Occupation of Water - Amnesty International
  - [https://www.amnesty.org/en/latest/campaigns/2017/11/the-occupation-of-water](https://www.amnesty.org/en/latest/campaigns/2017/11/the-occupation-of-water)

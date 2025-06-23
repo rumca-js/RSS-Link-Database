@@ -18,15 +18,15 @@
  - date_published: 2018-01-05T13:31:08+00:00
  - tags: ['ansic', 'programming']
 
+ ## Prometheus Script Reveals TRUTH about Engineers, Black Goo and Deacon
+ - [https://www.youtube.com/watch?v=3ONSFeRy9iQ](https://www.youtube.com/watch?v=3ONSFeRy9iQ)
+ - date_published: 2018-01-10T00:00:00+00:00
+ - tags: ['movies', 'prometheus']
+
  ## The Intel Management Engine: an attack on computer users' freedom — Free Software Foundation — Working together for free software
  - [https://www.fsf.org/blogs/sysadmin/the-management-engine-an-attack-on-computer-users-freedom](https://www.fsf.org/blogs/sysadmin/the-management-engine-an-attack-on-computer-users-freedom)
  - date_published: 2018-01-10T14:56:17+00:00
  - tags: ['intel management engine', 'surveillance', 'tracking']
-
- ## Prometheus Script Reveals TRUTH about Engineers, Black Goo and Deacon
- - [https://www.youtube.com/watch?v=3ONSFeRy9iQ](https://www.youtube.com/watch?v=3ONSFeRy9iQ)
- - date_published: 2018-01-10T20:22:32+00:00
- - tags: ['movies', 'prometheus']
 
  ## Tencent, the $500bn Chinese tech firm you may never have heard of
  - [https://www.theguardian.com/business/2018/jan/13/tencent-the-500bn-chinese-tech-firm-you-may-never-have-heard-of](https://www.theguardian.com/business/2018/jan/13/tencent-the-500bn-chinese-tech-firm-you-may-never-have-heard-of)
