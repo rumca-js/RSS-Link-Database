@@ -343,7 +343,7 @@
 
  ## How to stop your emails from being tracked
  - [https://www.theverge.com/22288190/email-pixel-trackers-how-to-stop-images-automatic-download](https://www.theverge.com/22288190/email-pixel-trackers-how-to-stop-images-automatic-download)
- - date_published: 2021-02-19T15:02:36+00:00
+ - date_published: 2021-02-19T14:02:36+00:00
  - tags: ['privacy', 'surveillance']
 
  ## Wikipedia co-founder Larry Sanger slams site's leftist bias and claims 'neutrality' is gone | Daily Mail Online

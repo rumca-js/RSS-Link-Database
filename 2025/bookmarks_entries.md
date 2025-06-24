@@ -454,3 +454,8 @@
  - date_published: 2025-06-21T03:06:42+00:00
  - tags: ['privacy', 'spyware', 'surveillance']
 
+ ## US embassy wants 'every social media username of past five years' on new visa applications
+ - [https://www.thejournal.ie/us-visa-changes-6740830-Jun2025](https://www.thejournal.ie/us-visa-changes-6740830-Jun2025)
+ - date_published: 2025-06-23T11:22:43+00:00
+ - tags: ['privacy', 'social media', 'surveillance']
+

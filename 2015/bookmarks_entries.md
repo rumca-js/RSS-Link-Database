@@ -120,7 +120,7 @@
 
  ## Slavoj Žižek: Political Correctness is a More Dangerous Form of Totalitarianism | Big Think
  - [https://www.youtube.com/watch?v=5dNbWGaaxWM](https://www.youtube.com/watch?v=5dNbWGaaxWM)
- - date_published: 2015-04-16T16:16:43+00:00
+ - date_published: 2015-04-16T00:00:00+00:00
  - tags: ['political correctness', 'propaganda', 'slavoj zizek', 'socialism', 'totalitarianism', 'virtue signalling']
 
  ## Crypto ‘Front Door’ Debate Likely to Go On For Years | Threatpost
@@ -241,7 +241,7 @@
 
  ## Secret 'dark net' operation saves scores of children from abuse; ringleader Shannon McCoole behind bars after police take over child porn site
  - [https://www.abc.net.au/news/2015-08-26/secret-anti-paedophile-operation-saves-children-from-abuse/6720304](https://www.abc.net.au/news/2015-08-26/secret-anti-paedophile-operation-saves-children-from-abuse/6720304)
- - date_published: 2015-08-26T21:31:58+00:00
+ - date_published: 2015-08-26T01:49:02+00:00
  - tags: ['australia', 'paedophilia']
 
  ## Adam Szustak OP: Świadectwo [PL\ENG]
@@ -256,7 +256,7 @@
 
  ## Why is Ukraine the West's Fault? Featuring John Mearsheimer
  - [https://www.youtube.com/watch?v=JrMiSQAGOS4](https://www.youtube.com/watch?v=JrMiSQAGOS4)
- - date_published: 2015-09-25T20:42:33+00:00
+ - date_published: 2015-09-25T00:00:00+00:00
  - tags: ['all time', 'lecture', 'ukraine', 'war']
 
  ## Pinball Dreams (PC/DOS) 1992, 21th Century Entertainment, Spidersoft
@@ -276,13 +276,18 @@
 
  ## How to Control What People Do | Propaganda - EDWARD BERNAYS | Animated Book Summary
  - [https://www.youtube.com/watch?v=8Q-3qwEDyPM](https://www.youtube.com/watch?v=8Q-3qwEDyPM)
- - date_published: 2015-10-26T16:07:21+00:00
+ - date_published: 2015-10-26T00:00:00+00:00
  - tags: ['disinformation', 'edward bernays', 'misinformation', 'propaganda']
 
  ## China: New Ban on ‘Spreading Rumors’ About Disasters
  - [https://www.hrw.org/news/2015/11/02/china-new-ban-spreading-rumors-about-disasters](https://www.hrw.org/news/2015/11/02/china-new-ban-spreading-rumors-about-disasters)
  - date_published: 2015-11-02T08:36:33+00:00
  - tags: ['china', 'disinformation', 'misinformation', 'spreading rumors']
+
+ ## Prezydent Kennedy o tajnych stowarzyszeniach i światowym spisku
+ - [https://www.youtube.com/watch?v=HwpgfgAbxYM](https://www.youtube.com/watch?v=HwpgfgAbxYM)
+ - date_published: 2015-11-06T00:00:00+00:00
+ - tags: ['conspiracy theory', 'john kennedy', 'nwo', 'secret societies']
 
  ## Modern Educayshun
  - [https://www.youtube.com/watch?v=iKcWu0tsiZM](https://www.youtube.com/watch?v=iKcWu0tsiZM)
@@ -303,11 +308,6 @@
  - [https://www.digitaljournal.com/world/israelis-not-muslims-were-arrested-in-us-after-celebrating-9-11/article/450612](https://www.digitaljournal.com/world/israelis-not-muslims-were-arrested-in-us-after-celebrating-9-11/article/450612)
  - date_published: 2015-11-27T20:14:48+00:00
  - tags: ['911', 'israel']
-
- ## Prezydent Kennedy o tajnych stowarzyszeniach i światowym spisku
- - [https://www.youtube.com/watch?v=HwpgfgAbxYM](https://www.youtube.com/watch?v=HwpgfgAbxYM)
- - date_published: 2015-12-15T08:19:46+00:00
- - tags: ['conspiracy theory', 'john kennedy', 'nwo', 'secret societies']
 
  ## Recently Bought a Windows Computer? Microsoft Probably Has Your Encryption Key
  - [https://theintercept.com/2015/12/28/recently-bought-a-windows-computer-microsoft-probably-has-your-encryption-key](https://theintercept.com/2015/12/28/recently-bought-a-windows-computer-microsoft-probably-has-your-encryption-key)

@@ -60,12 +60,12 @@
 
  ## Running a Buffer Overflow Attack - Computerphile
  - [https://www.youtube.com/watch?v=1S0aBV-Waeo](https://www.youtube.com/watch?v=1S0aBV-Waeo)
- - date_published: 2016-03-02T10:02:31+00:00
+ - date_published: 2016-03-02T00:00:00+00:00
  - tags: ['buffer overflow', 'hackers', 'programming', 'vulnerability']
 
  ## Wintergatan - Marble Machine (music instrument using 2000 marbles)
  - [https://www.youtube.com/watch?v=IvUU8joBb1Q](https://www.youtube.com/watch?v=IvUU8joBb1Q)
- - date_published: 2016-03-02T21:06:57+00:00
+ - date_published: 2016-03-02T00:00:00+00:00
  - tags: ['music', 'technology']
 
  ## Why Socialism Always Fails
@@ -294,12 +294,12 @@
 
  ## A Clockwork Orange - What it all Meant
  - [https://www.youtube.com/watch?v=ZvK9PEcqiLo](https://www.youtube.com/watch?v=ZvK9PEcqiLo)
- - date_published: 2016-09-07T20:37:13+00:00
+ - date_published: 2016-09-07T00:00:00+00:00
  - tags: ['clockwork orange', 'movies']
 
  ## CppCon 2016: Jason Turner “Rich Code for Tiny Computers: A Simple Commodore 64 Game in C++17”
  - [https://www.youtube.com/watch?v=zBkNBP00wJE](https://www.youtube.com/watch?v=zBkNBP00wJE)
- - date_published: 2016-09-24T13:32:10+00:00
+ - date_published: 2016-09-24T00:00:00+00:00
  - tags: ['c++', 'programming']
 
  ## Black Lives Matter vs All Lives Matter Supporters (Social Experiment)
