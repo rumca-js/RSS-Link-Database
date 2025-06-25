@@ -30,7 +30,7 @@
 
  ## Regend University Of Law: Don't Talk to the Police
  - [https://www.youtube.com/watch?v=d-7o9xYp7eE](https://www.youtube.com/watch?v=d-7o9xYp7eE)
- - date_published: 2012-03-20T20:09:05+00:00
+ - date_published: 2012-03-20T00:00:00+00:00
  - tags: ['all time', 'law', 'lecture', 'police', 'university']
 
  ## Occupy Wall Street. Nowe ruchy społeczne  - Muzeum Sztuki Nowoczesnej w Warszawie

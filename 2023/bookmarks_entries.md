@@ -2379,6 +2379,11 @@
  - date_published: 2023-03-07T15:05:46+00:00
  - tags: ['january 6']
 
+ ## How 16 Companies are Dominating the World’s Google Search Results (2024 Edition)
+ - [https://detailed.com/google-control](https://detailed.com/google-control)
+ - date_published: 2023-03-07T15:10:48+00:00
+ - tags: ['search', 'seo', 'technofeudalism']
+
  ## The FBI Tested New Facial Recognition Software on Subways and Street Corners
  - [https://gizmodo.com/fbi-facial-recognition-janus-horus-1850198100](https://gizmodo.com/fbi-facial-recognition-janus-horus-1850198100)
  - date_published: 2023-03-07T19:04:00+00:00
@@ -8397,15 +8402,15 @@
  - date_published: 2023-12-01T08:39:27+00:00
  - tags: ['dark design', 'google', 'monopoly']
 
+ ## Here Are The Facts About The Kill Switch Mandate For Cars That's Already Passed | Carscoops
+ - [https://www.carscoops.com/2023/12/here-are-the-facts-about-the-kill-switch-mandate-for-cars-thats-already-passed](https://www.carscoops.com/2023/12/here-are-the-facts-about-the-kill-switch-mandate-for-cars-thats-already-passed)
+ - date_published: 2023-12-03T13:49:00+00:00
+ - tags: ['electric vehicles', 'kill switch', 'surveillance', 'technofeudalism']
+
  ## Cosmopolitan magazine shares steps for how to have a 'Satanic Abortion Ceremony'
  - [https://www.foxnews.com/media/cosmopolitan-magazine-shares-steps-satanic-abortion-ceremony](https://www.foxnews.com/media/cosmopolitan-magazine-shares-steps-satanic-abortion-ceremony)
  - date_published: 2023-12-03T14:00:00+00:00
  - tags: ['satanic temple', 'satanism']
-
- ## Here Are The Facts About The Kill Switch Mandate For Cars That's Already Passed | Carscoops
- - [https://www.carscoops.com/2023/12/here-are-the-facts-about-the-kill-switch-mandate-for-cars-thats-already-passed](https://www.carscoops.com/2023/12/here-are-the-facts-about-the-kill-switch-mandate-for-cars-thats-already-passed)
- - date_published: 2023-12-03T14:49:00+00:00
- - tags: ['electric vehicles', 'kill switch', 'surveillance', 'technofeudalism']
 
  ## Ousted propaganda scholar Joan Donovan accuses Harvard of bowing to Meta
  - [https://www.washingtonpost.com/technology/2023/12/04/joan-donovan-harvard-dismissal-complaint](https://www.washingtonpost.com/technology/2023/12/04/joan-donovan-harvard-dismissal-complaint)

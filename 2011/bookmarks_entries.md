@@ -85,7 +85,7 @@
 
  ## "You'll not only lose your mind, but you'll lose your soul" | Christopher Lee on the occult
  - [https://www.youtube.com/watch?v=vRVQD4FKPrY](https://www.youtube.com/watch?v=vRVQD4FKPrY)
- - date_published: 2011-11-10T16:01:55+00:00
+ - date_published: 2011-11-10T00:00:00+00:00
  - tags: ['occult', 'satanism']
 
  ## Occupy Wall Street: The story of the first night - BBC News

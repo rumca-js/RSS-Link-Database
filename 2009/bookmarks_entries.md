@@ -1,6 +1,6 @@
  ## Kate Winslet wanted a Holocaust Oscar
  - [https://jewishjournal.com/uncategorized/68849](https://jewishjournal.com/uncategorized/68849)
- - date_published: 2009-02-25T18:03:01+00:00
+ - date_published: 2009-02-25T12:00:00+00:00
  - tags: ['israel', 'kate winslet', 'oscar']
 
  ## First Mexico fatal flu victim sought help for days | Reuters

@@ -70,7 +70,7 @@
 
  ## What’s with the 50/72 rule?
  - [https://preslav.me/2015/02/21/what-s-with-the-50-72-rule](https://preslav.me/2015/02/21/what-s-with-the-50-72-rule)
- - date_published: 2015-02-21T09:57:43+00:00
+ - date_published: 2015-02-21T00:00:00+00:00
  - tags: ['git', 'programming']
 
  ## In-store analytics: tracking real-world customers just like online shoppers | TechRadar
@@ -97,6 +97,7 @@
  - [https://www.youtube.com/watch?v=6Af6b_wyiwI](https://www.youtube.com/watch?v=6Af6b_wyiwI)
  - date_published: 2015-04-03T00:00:00+00:00
  - tags: ['bill gates', 'pandemic', 'ted']
+ - date_dead_since: 2025-06-24T01:11:04.540484+00:00
 
  ## China's Great Cannon
  - [https://citizenlab.ca/2015/04/chinas-great-cannon](https://citizenlab.ca/2015/04/chinas-great-cannon)

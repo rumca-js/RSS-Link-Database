@@ -125,7 +125,7 @@
 
  ## Slavoj Žižek on "They Live" (The Pervert's Guide to Ideology)
  - [https://www.youtube.com/watch?v=TVwKjGbz60k](https://www.youtube.com/watch?v=TVwKjGbz60k)
- - date_published: 2014-08-05T20:28:02+00:00
+ - date_published: 2014-08-04T00:00:00+00:00
  - tags: ['carpenter', "pervert's guide", 'they live']
 
  ## For me, the Internet is largely unusable without adblock at the very least. I re... | Hacker News
@@ -150,7 +150,7 @@
 
  ## 2030: Privacy's Dead. What happens next?
  - [https://www.youtube.com/watch?v=_kBlH-DQsEg](https://www.youtube.com/watch?v=_kBlH-DQsEg)
- - date_published: 2014-09-06T19:43:28+00:00
+ - date_published: 2014-09-06T00:00:00+00:00
  - tags: ['privacy', 'tracking']
 
  ## The Internet Slowdown protest for net neutrality needs to target regulators

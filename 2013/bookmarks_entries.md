@@ -252,7 +252,7 @@
 
  ## Johnson & Johnson to Pay More Than $2.2 Billion to Resolve Criminal and Civil Investigations | OPA | Department of Justice
  - [https://www.justice.gov/opa/pr/johnson-johnson-pay-more-22-billion-resolve-criminal-and-civil-investigations](https://www.justice.gov/opa/pr/johnson-johnson-pay-more-22-billion-resolve-criminal-and-civil-investigations)
- - date_published: 2013-11-04T20:05:26+00:00
+ - date_published: 2013-11-04T09:41:43+00:00
  - tags: ['big pharma', 'johnson and johnson', 'medical scandal']
 
  ## An old mans advice.
@@ -272,7 +272,7 @@
 
  ## The Fountain Explained - A Theory/Explanation on the Plot of The Fountain
  - [https://www.youtube.com/watch?v=MdzlCZ69APc](https://www.youtube.com/watch?v=MdzlCZ69APc)
- - date_published: 2013-12-04T20:21:28+00:00
+ - date_published: 2013-12-04T00:00:00+00:00
  - tags: ['fountain', 'movies']
 
  ## Global surveillance disclosures (2013–present)
