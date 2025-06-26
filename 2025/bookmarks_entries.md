@@ -138,7 +138,7 @@
 
  ## Sabine Hossenfelder – I was asked to keep this confidential [video]
  - [https://www.youtube.com/watch?v=shFUDPqVmTg](https://www.youtube.com/watch?v=shFUDPqVmTg)
- - date_published: 2025-02-15T17:01:06+00:00
+ - date_published: 2025-02-15T00:00:00+00:00
  - tags: ['science is dead']
 
  ## Revealed: Google facilitated Russia and China’s censorship requests

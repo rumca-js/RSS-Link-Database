@@ -815,24 +815,24 @@
         "comments": [],
         "date_created": "2025-02-15T17:37:37.180504+00:00",
         "date_dead_since": null,
-        "date_published": "2025-02-15T17:01:06+00:00",
+        "date_published": "2025-02-15T00:00:00+00:00",
         "description": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=shFUDPqVmTg\">https://www.youtube.com/watch?v=shFUDPqVmTg</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=43060062\">https://news.ycombinator.com/item?id=43060062</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
         "id": 2122115,
         "language": null,
         "link": "https://www.youtube.com/watch?v=shFUDPqVmTg",
         "manual_status_code": 0,
         "page_rating": 30,
-        "page_rating_contents": 95,
-        "page_rating_visits": 0,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 141,
         "source_url": "https://hnrss.org/frontpage",
-        "status_code": 0,
+        "status_code": 200,
         "tags": [
             "science is dead"
         ],
-        "thumbnail": null,
+        "thumbnail": "https://i.ytimg.com/vi_webp/shFUDPqVmTg/maxresdefault.webp",
         "title": "Sabine Hossenfelder \u2013 I was asked to keep this confidential [video]",
         "vote": 0
     },
@@ -857,7 +857,7 @@
         "permanent": false,
         "source__id": 342,
         "source_url": "https://www.theguardian.com/world/rss",
-        "status_code": 0,
+        "status_code": 200,
         "tags": [
             "billionaires",
             "china",
@@ -865,7 +865,7 @@
             "google",
             "russia"
         ],
-        "thumbnail": "https://i.guim.co.uk/img/media/2691cdda8be5085a879b919d46d00b9484fc5fef/0_31_2480_1488/master/2480.jpg?width=140&quality=85&auto=format&fit=max&s=7b5012606baa786edb9bcffa1b8b7401",
+        "thumbnail": "https://i.guim.co.uk/img/media/2691cdda8be5085a879b919d46d00b9484fc5fef/0_31_2480_1488/master/2480.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=462d5a48a3276b8a961ac6c0add76a07",
         "title": "Revealed: Google facilitated Russia and China\u2019s censorship requests",
         "vote": 30
     },
