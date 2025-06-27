@@ -3287,6 +3287,10 @@
  - [https://arstechnica.com/tech-policy/2021/10/viewing-website-html-code-is-not-illegal-or-hacking-prof-tells-missouri-gov](https://arstechnica.com/tech-policy/2021/10/viewing-website-html-code-is-not-illegal-or-hacking-prof-tells-missouri-gov)
  - date_published: 2021-10-28T11:17:37.725544+00:00
 
+ ## Architect Resigns in Protest over UCSB Mega-Dorm - The Santa Barbara Independent
+ - [https://www.independent.com/2021/10/28/architect-resigns-in-protest-over-ucsb-mega-dorm](https://www.independent.com/2021/10/28/architect-resigns-in-protest-over-ucsb-mega-dorm)
+ - date_published: 2021-10-28T21:53:33+00:00
+
  ## US issues first gender-neutral 'X' passport - BBC News
  - [https://www.bbc.co.uk/news/world-us-canada-59076614](https://www.bbc.co.uk/news/world-us-canada-59076614)
  - date_published: 2021-10-28T22:00:40.700079+00:00
@@ -3310,10 +3314,6 @@
  ## Signal >> Government Requests >> Grand jury subpoena for Signal user data, Central District of California (again!)
  - [https://signal.org/bigbrother/cd-california-grand-jury](https://signal.org/bigbrother/cd-california-grand-jury)
  - date_published: 2021-10-30T08:01:55.850142+00:00
-
- ## Architect Resigns in Protest over UCSB Mega-Dorm - The Santa Barbara Independent
- - [https://www.independent.com/2021/10/28/architect-resigns-in-protest-over-ucsb-mega-dorm](https://www.independent.com/2021/10/28/architect-resigns-in-protest-over-ucsb-mega-dorm)
- - date_published: 2021-10-30T08:07:42.890249+00:00
 
  ## Germany debates how to form gender-neutral words out of its gendered language : NPR
  - [https://www.npr.org/2021/10/30/1049603171/germany-gender-neutral-language-german](https://www.npr.org/2021/10/30/1049603171/germany-gender-neutral-language-german)

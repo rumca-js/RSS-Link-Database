@@ -2983,6 +2983,11 @@
  - date_published: 2023-03-27T19:34:20+00:00
  - tags: ['big brother', 'fbi', 'privacy laundering', 'surveillance']
 
+ ## The Great Food Reset has begun - UnHerd
+ - [https://unherd.com/2023/03/the-great-food-reset-has-begun](https://unherd.com/2023/03/the-great-food-reset-has-begun)
+ - date_published: 2023-03-27T23:03:56+00:00
+ - tags: ['agriculture', 'climate change', 'netherlands']
+
  ## Clearview AI used nearly 1M times by US police, it tells the BBC
  - [https://www.bbc.com/news/technology-65057011](https://www.bbc.com/news/technology-65057011)
  - date_published: 2023-03-28T00:25:31+00:00
@@ -3017,11 +3022,6 @@
  - [https://www.theepochtimes.com/risk-of-cardiac-death-tripled-for-young-women-following-astrazeneca-covid-19-vaccination-study_5067350.html](https://www.theepochtimes.com/risk-of-cardiac-death-tripled-for-young-women-following-astrazeneca-covid-19-vaccination-study_5067350.html)
  - date_published: 2023-03-28T17:09:55+00:00
  - tags: ['covid', 'vaccine']
-
- ## The Great Food Reset has begun - UnHerd
- - [https://unherd.com/2023/03/the-great-food-reset-has-begun](https://unherd.com/2023/03/the-great-food-reset-has-begun)
- - date_published: 2023-03-28T19:18:57+00:00
- - tags: ['agriculture', 'climate change', 'netherlands']
 
  ## Microsoft's Software Is Malware
  - [https://www.gnu.org/proprietary/malware-microsoft.en.html](https://www.gnu.org/proprietary/malware-microsoft.en.html)

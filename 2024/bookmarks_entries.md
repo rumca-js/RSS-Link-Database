@@ -783,7 +783,7 @@
 
  ## Recall is Microsoft's key to unlocking the future of PCs
  - [https://www.theverge.com/2024/5/20/24159258/microsoft-recall-ai-explorer-windows-11-surface-event](https://www.theverge.com/2024/5/20/24159258/microsoft-recall-ai-explorer-windows-11-surface-event)
- - date_published: 2024-05-20T17:27:46+00:00
+ - date_published: 2024-05-20T17:18:16+00:00
  - tags: ['privacy', 'surveillance', 'technofeudalism']
 
  ## Windows 11 Recall AI feature will record everything you do on your PC
