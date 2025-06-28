@@ -2462,6 +2462,11 @@
  - [https://www.breck-mckye.com/blog/2018/05/why-is-front-end-development-so-unstable](https://www.breck-mckye.com/blog/2018/05/why-is-front-end-development-so-unstable)
  - date_published: 2022-05-30T21:07:00.874723+00:00
 
+ ## NIH, Wuhan were working on monkeypox
+ - [https://www.youtube.com/watch?v=4E6cD-VWhQY](https://www.youtube.com/watch?v=4E6cD-VWhQY)
+ - date_published: 2022-05-31T00:00:00+00:00
+ - tags: ['monkeypox']
+
  ## A decade of dotfiles
  - [https://evanhahn.com/a-decade-of-dotfiles](https://evanhahn.com/a-decade-of-dotfiles)
  - date_published: 2022-05-31T06:54:09+00:00

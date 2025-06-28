@@ -151,15 +151,15 @@
  - date_published: 2025-02-16T00:00:00+00:00
  - tags: ['funny']
 
+ ## The Darkside of AI – Transhumanism and the War Against Humanity
+ - [https://www.youtube.com/watch?v=8lQbeMLgt6k](https://www.youtube.com/watch?v=8lQbeMLgt6k)
+ - date_published: 2025-02-17T00:00:00+00:00
+ - tags: ['transhumanism']
+
  ## National Security Study Memorandum 200 - Wikipedia
  - [https://en.wikipedia.org/wiki/National_Security_Study_Memorandum_200](https://en.wikipedia.org/wiki/National_Security_Study_Memorandum_200)
  - date_published: 2025-02-17T08:30:10+00:00
  - tags: ['depopulation', 'kissinger']
-
- ## The Darkside of AI – Transhumanism and the War Against Humanity
- - [https://www.youtube.com/watch?v=8lQbeMLgt6k](https://www.youtube.com/watch?v=8lQbeMLgt6k)
- - date_published: 2025-02-17T20:07:52+00:00
- - tags: ['transhumanism']
 
  ## YouTube by the numbers: uncovering YouTube's ghost town of billions of unwatched, ignored videos
  - [https://www.techspot.com/news/106791-youtube-numbers-uncovering-youtube-ghost-town-billions-unwatched.html](https://www.techspot.com/news/106791-youtube-numbers-uncovering-youtube-ghost-town-billions-unwatched.html)

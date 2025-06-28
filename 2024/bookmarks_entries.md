@@ -1197,7 +1197,7 @@
 
  ## How Social Media is actually a Casino.
  - [https://www.youtube.com/watch?v=4maJty0vQjI](https://www.youtube.com/watch?v=4maJty0vQjI)
- - date_published: 2024-09-29T13:16:27+00:00
+ - date_published: 2024-09-29T00:00:00+00:00
  - tags: ['social media']
 
  ## Meta confirms it may train its AI on any image you ask Ray-Ban Meta AI to analyze | TechCrunch
