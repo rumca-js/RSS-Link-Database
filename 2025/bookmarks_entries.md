@@ -474,3 +474,8 @@
  - date_published: 2025-06-24T18:21:04+00:00
  - tags: ['search engines', 'seo']
 
+ ## Facebook is starting to feed its AI with private, unpublished photos
+ - [https://www.theverge.com/meta/694685/meta-ai-camera-roll](https://www.theverge.com/meta/694685/meta-ai-camera-roll)
+ - date_published: 2025-06-27T19:30:00+00:00
+ - tags: ['privacy', 'surveillance', 'technofeudalism']
+
