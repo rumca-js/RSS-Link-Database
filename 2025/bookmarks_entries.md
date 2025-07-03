@@ -181,6 +181,11 @@
  - date_published: 2025-02-21T12:00:00+00:00
  - tags: ['china', 'corporatocracy']
 
+ ## Algorithms are breaking how we think
+ - [https://www.youtube.com/watch?v=QEJpZjg8GuA](https://www.youtube.com/watch?v=QEJpZjg8GuA)
+ - date_published: 2025-02-22T00:00:00+00:00
+ - tags: ['algorithms', 'digital dementia', 'technology']
+
  ## Apple pulls data protection feature in UK amid government demands
  - [https://www.reuters.com/technology/apple-removing-end-to-end-cloud-encryption-feature-uk-bloomberg-news-reports-2025-02-21](https://www.reuters.com/technology/apple-removing-end-to-end-cloud-encryption-feature-uk-bloomberg-news-reports-2025-02-21)
  - date_published: 2025-02-22T08:21:09+00:00
@@ -189,11 +194,6 @@
  ## Warren Buffett amasses more cash and sells more stock, but doesn’t explain why in annual letter
  - [https://www.nbcnews.com/business/warren-buffet-berkshire-hathaway-annual-shareholder-letter-rcna193311](https://www.nbcnews.com/business/warren-buffet-berkshire-hathaway-annual-shareholder-letter-rcna193311)
  - date_published: 2025-02-22T16:46:25+00:00
-
- ## Algorithms are breaking how we think
- - [https://www.youtube.com/watch?v=QEJpZjg8GuA](https://www.youtube.com/watch?v=QEJpZjg8GuA)
- - date_published: 2025-02-22T17:04:13+00:00
- - tags: ['algorithms', 'digital dementia', 'technology']
 
  ## FBI allegedly deleting Jeffrey Epstein records—whistleblower speaks out | The Express Tribune
  - [https://tribune.com.pk/story/2530745/fbi-allegedly-deleting-jeffrey-epstein-recordswhistleblower-speaks-out](https://tribune.com.pk/story/2530745/fbi-allegedly-deleting-jeffrey-epstein-recordswhistleblower-speaks-out)
@@ -473,6 +473,10 @@
  - [https://www.youtube.com/watch?v=RNonfByE9xc](https://www.youtube.com/watch?v=RNonfByE9xc)
  - date_published: 2025-06-24T18:21:04+00:00
  - tags: ['search engines', 'seo']
+
+ ## Will A.I. Slop Kill the Internet?
+ - [https://www.youtube.com/watch?v=NuIMZBseAOM](https://www.youtube.com/watch?v=NuIMZBseAOM)
+ - date_published: 2025-06-26T00:00:00+00:00
 
  ## Facebook is starting to feed its AI with private, unpublished photos
  - [https://www.theverge.com/meta/694685/meta-ai-camera-roll](https://www.theverge.com/meta/694685/meta-ai-camera-roll)
