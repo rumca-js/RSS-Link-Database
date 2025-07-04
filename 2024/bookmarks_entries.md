@@ -114,7 +114,7 @@
 
  ## Prison. Bankruptcy. Suicide. How a software glitch and a centuries-old British company ruined lives | CNN Business
  - [https://edition.cnn.com/2024/01/13/business/uk-post-office-fujitsu-horizon-scandal/index.html](https://edition.cnn.com/2024/01/13/business/uk-post-office-fujitsu-horizon-scandal/index.html)
- - date_published: 2024-01-13T09:02:00+00:00
+ - date_published: 2024-01-13T08:00:25+00:00
  - tags: ['bugs', 'programming', 'software']
 
  ## Meta admits using pirated books to train AI, but won't pay for it
@@ -256,14 +256,14 @@
  - date_published: 2024-01-24T00:00:00+00:00
  - tags: ['canada', 'covid', 'justin trudeau', 'lockdowns']
 
+ ## Why are so many EV charging stations broken in California?
+ - [https://www.latimes.com/environment/story/2024-01-24/california-ev-charging-stations-broken](https://www.latimes.com/environment/story/2024-01-24/california-ev-charging-stations-broken)
+ - date_published: 2024-01-24T11:00:47+00:00
+ - tags: ['climate change', 'electric vehicles']
+
  ## EU rules have failed to cut car CO2 emissions: report
  - [https://phys.org/news/2024-01-eu-car-co2-emissions.html](https://phys.org/news/2024-01-eu-car-co2-emissions.html)
  - date_published: 2024-01-24T14:47:22+00:00
- - tags: ['climate change', 'electric vehicles']
-
- ## Why are so many EV charging stations broken in California?
- - [https://www.latimes.com/environment/story/2024-01-24/california-ev-charging-stations-broken](https://www.latimes.com/environment/story/2024-01-24/california-ev-charging-stations-broken)
- - date_published: 2024-01-24T17:18:16+00:00
  - tags: ['climate change', 'electric vehicles']
 
  ## "To rewolucja". Unia wzięła się za nieruchomości. Poczujemy to w portfelach
@@ -397,7 +397,7 @@
 
  ## Over 2 percent of the US's electricity generation now goes to Bitcoin
  - [https://arstechnica.com/science/2024/02/over-2-percent-of-the-uss-electricity-generation-now-goes-to-bitcoin](https://arstechnica.com/science/2024/02/over-2-percent-of-the-uss-electricity-generation-now-goes-to-bitcoin)
- - date_published: 2024-02-02T19:09:58+00:00
+ - date_published: 2024-02-02T18:52:23+00:00
  - tags: ['climate change']
 
  ## Probe reveals secret Israeli spyware that infects via ads
@@ -422,7 +422,7 @@
 
  ## Javier Milei’s Faith: His Catholic Roots And Love Of Judaism
  - [https://religionunplugged.com/news/2024/2/14/argentinas-president-milei-catholicjewish-vists-israel-and-vatican](https://religionunplugged.com/news/2024/2/14/argentinas-president-milei-catholicjewish-vists-israel-and-vatican)
- - date_published: 2024-02-15T05:01:00+00:00
+ - date_published: 2024-02-15T00:01:00+00:00
 
  ## Soros could control hundreds of US radio stations ‚Äì media
  - [https://www.rt.com/news/592509-george-soros-radio-stations/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/592509-george-soros-radio-stations/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
@@ -466,6 +466,7 @@
  ## As Gaza Death Toll Nears 30,000, Israel’s Isolation Grows
  - [https://www.nytimes.com/2024/02/22/world/middleeast/gaza-death-toll-israel.html](https://www.nytimes.com/2024/02/22/world/middleeast/gaza-death-toll-israel.html)
  - date_published: 2024-02-22T10:12:53+00:00
+ - date_dead_since: 2025-07-03T09:43:33.395712+00:00
 
  ## ‘Woke’ Google Gemini refuses to say pedophilia is wrong after ‘diverse’ historical images debacle: ‘Individuals cannot control who they are attracted to’
  - [https://nypost.com/2024/02/23/business/woke-google-gemini-refuses-to-say-pedophilia-is-wrong-after-diverse-historical-images-debacle-individuals-cannot-control-who-they-are-attracted-to](https://nypost.com/2024/02/23/business/woke-google-gemini-refuses-to-say-pedophilia-is-wrong-after-diverse-historical-images-debacle-individuals-cannot-control-who-they-are-attracted-to)
@@ -584,7 +585,7 @@
 
  ## Planet Fitness Ends Woman’s Membership After She Complained About Man Shaving in Woman’s Locker Room — in Front of Frightened Girl.
  - [https://thenewamerican.com/us/culture/planet-fitness-ends-womans-membership-after-she-complained-about-man-shaving-in-womans-locker-room-in-front-of-frightened-girl](https://thenewamerican.com/us/culture/planet-fitness-ends-womans-membership-after-she-complained-about-man-shaving-in-womans-locker-room-in-front-of-frightened-girl)
- - date_published: 2024-03-17T00:55:00+00:00
+ - date_published: 2024-03-14T20:43:49+00:00
  - tags: ['lgbt', 'queer', 'the left wing']
 
  ## University museum: Paintings of British countryside could elicit ‘dark nationalist feelings’ | The College Fix

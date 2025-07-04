@@ -4541,6 +4541,11 @@
  - date_published: 2023-05-23T15:56:11+00:00
  - tags: ['newspeak', 'pronouns', 'the left wing']
 
+ ## Widespread FBI abuse of foreign spy law sets off "alarm bells," tech group says
+ - [https://arstechnica.com/tech-policy/2023/05/fbi-misused-foreign-surveillance-law-280k-times-to-snoop-on-people-in-the-us](https://arstechnica.com/tech-policy/2023/05/fbi-misused-foreign-surveillance-law-280k-times-to-snoop-on-people-in-the-us)
+ - date_published: 2023-05-23T22:09:25+00:00
+ - tags: ['fbi', 'privacy', 'surveillance']
+
  ## COCAINE SHARK - Official Trailer (2023) Samantha Coolidge, Ryan Dalton
  - [https://www.youtube.com/watch?v=AdNeKUvO6pg](https://www.youtube.com/watch?v=AdNeKUvO6pg)
  - date_published: 2023-05-24T00:00:00+00:00
@@ -8186,6 +8191,11 @@
  - date_published: 2023-11-09T13:07:08+00:00
  - tags: ['hamas', 'israel']
 
+ ## New Outlook sends passwords, mails and other data to Microsoft
+ - [https://mailbox.org/en/post/warning-new-outlook-sends-passwords-mails-and-other-data-to-microsoft](https://mailbox.org/en/post/warning-new-outlook-sends-passwords-mails-and-other-data-to-microsoft)
+ - date_published: 2023-11-10T00:00:00+00:00
+ - tags: ['dark design', 'microsoft']
+
  ## Christian students wins $150K after public school allegedly tried to force her into idol worship
  - [https://www.foxnews.com/media/chicago-public-school-allegedly-tried-to-force-christian-student-into-idol-worship-pray-to-hindu-gods](https://www.foxnews.com/media/chicago-public-school-allegedly-tried-to-force-christian-student-into-idol-worship-pray-to-hindu-gods)
  - date_published: 2023-11-10T10:00:18+00:00
@@ -8206,14 +8216,9 @@
  - date_published: 2023-11-10T11:48:29+00:00
  - tags: ['christianophobia']
 
- ## New Outlook sends passwords, mails and other data to Microsoft
- - [https://mailbox.org/en/post/warning-new-outlook-sends-passwords-mails-and-other-data-to-microsoft](https://mailbox.org/en/post/warning-new-outlook-sends-passwords-mails-and-other-data-to-microsoft)
- - date_published: 2023-11-10T19:21:25+00:00
- - tags: ['dark design', 'microsoft']
-
  ## Apple discriminated against US citizens in hiring, DOJ says
  - [https://arstechnica.com/tech-policy/2023/11/apple-discriminated-against-us-citizens-in-hiring-doj-says](https://arstechnica.com/tech-policy/2023/11/apple-discriminated-against-us-citizens-in-hiring-doj-says)
- - date_published: 2023-11-10T21:45:38+00:00
+ - date_published: 2023-11-10T19:43:20+00:00
  - tags: ['immigration']
 
  ## Italy: Muslim migrant destroys three crucifixes in a church, threatens cops
@@ -8472,7 +8477,6 @@
  - [https://thehill.com/opinion/healthcare/4354004-this-is-bigger-than-covid-why-are-so-many-americans-dying-early](https://thehill.com/opinion/healthcare/4354004-this-is-bigger-than-covid-why-are-so-many-americans-dying-early)
  - date_published: 2023-12-12T17:00:00+00:00
  - tags: ['covid']
- - date_dead_since: 2024-10-02T02:44:42.249136+00:00
 
  ## Israel Starts Pumping Seawater Into Gaza Tunnels After Russia Warned Against ‘War Crime’
  - [https://www.gulf-insider.com/israel-starts-pumping-seawater-into-gaza-tunnels-after-russia-warned-against-war-crime](https://www.gulf-insider.com/israel-starts-pumping-seawater-into-gaza-tunnels-after-russia-warned-against-war-crime)
@@ -8515,11 +8519,6 @@
  - date_published: 2023-12-18T03:00:00+00:00
  - tags: ['covid', 'vaccines']
 
- ## Widespread FBI abuse of foreign spy law sets off "alarm bells," tech group says
- - [https://arstechnica.com/tech-policy/2023/05/fbi-misused-foreign-surveillance-law-280k-times-to-snoop-on-people-in-the-us](https://arstechnica.com/tech-policy/2023/05/fbi-misused-foreign-surveillance-law-280k-times-to-snoop-on-people-in-the-us)
- - date_published: 2023-12-18T04:23:17+00:00
- - tags: ['fbi', 'privacy', 'surveillance']
-
  ## At Least 15% of Reddit Content Is Corporate Trolls Manipulating Public Opinion
  - [https://medium.com/collapsenews/new-study-at-least-15-of-all-reddit-content-is-corporate-trolls-trying-to-manipulate-public-b249bd42ab42](https://medium.com/collapsenews/new-study-at-least-15-of-all-reddit-content-is-corporate-trolls-trying-to-manipulate-public-b249bd42ab42)
  - date_published: 2023-12-19T19:07:52+00:00
@@ -8535,6 +8534,11 @@
  - date_published: 2023-12-20T03:41:03+00:00
  - tags: ['jeffrey epstein']
 
+ ## An Antisemitic Fire Extinguisher Attack on a Menorah Has Become a Global Far-Right Meme
+ - [https://www.vice.com/en/article/n7e54k/grzegorz-braun-antisemitic-fire-extinguisher-meme](https://www.vice.com/en/article/n7e54k/grzegorz-braun-antisemitic-fire-extinguisher-meme)
+ - date_published: 2023-12-21T13:02:53+00:00
+ - tags: ['antisemitism', 'grzegorz braun', 'poland']
+
  ## Colorado ruling fuels efforts in other blue states to bar Trump from the ballot
  - [https://www.politico.com/news/2023/12/21/colorado-trump-ruling-blue-states-00133009](https://www.politico.com/news/2023/12/21/colorado-trump-ruling-blue-states-00133009)
  - date_published: 2023-12-21T19:56:39+00:00
@@ -8549,11 +8553,6 @@
  - [https://www.youtube.com/watch?v=mScpHTIi-kM](https://www.youtube.com/watch?v=mScpHTIi-kM)
  - date_published: 2023-12-23T00:00:00+00:00
  - tags: ['prisoner dillema']
-
- ## An Antisemitic Fire Extinguisher Attack on a Menorah Has Become a Global Far-Right Meme
- - [https://www.vice.com/en/article/n7e54k/grzegorz-braun-antisemitic-fire-extinguisher-meme](https://www.vice.com/en/article/n7e54k/grzegorz-braun-antisemitic-fire-extinguisher-meme)
- - date_published: 2023-12-23T19:21:50+00:00
- - tags: ['antisemitism', 'grzegorz braun', 'poland']
 
  ## NASZ WYWIAD. "Uciekliśmy z Kanady przed ideologią gender"
  - [https://wpolityce.pl/swiat/675690-nasz-wywiad-ucieklismy-z-kanady-przed-ideologia-gender](https://wpolityce.pl/swiat/675690-nasz-wywiad-ucieklismy-z-kanady-przed-ideologia-gender)
@@ -8612,7 +8611,7 @@
 
  ## 40% of US electricity is now emissions-free
  - [https://arstechnica.com/science/2023/12/40-of-us-electricity-is-now-emissions-free](https://arstechnica.com/science/2023/12/40-of-us-electricity-is-now-emissions-free)
- - date_published: 2023-12-29T05:57:29+00:00
+ - date_published: 2023-12-28T19:12:06+00:00
  - tags: ['climate change']
 
  ## Dragon Maid localizer gets asked about how she responds to all the criticism regarding the localization
