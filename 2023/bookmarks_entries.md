@@ -7750,6 +7750,11 @@
  - date_published: 2023-09-25T13:42:23+00:00
  - tags: ['covid', 'long covid', 'science is dead']
 
+ ## Motorola is disabling Android phones purchased through unauthorized sellers in Mexico
+ - [https://9to5google.com/2023/09/25/motorola-disabling-mexico-smartphones](https://9to5google.com/2023/09/25/motorola-disabling-mexico-smartphones)
+ - date_published: 2023-09-25T19:13:47+00:00
+ - tags: ['android', 'technofeudalism']
+
  ## Microsoft is seeking a nuclear power manager as AI consumes too much energy
  - [https://www.neowin.net/news/microsoft-is-seeking-a-nuclear-power-manager-as-ai-consumes-too-much-energy](https://www.neowin.net/news/microsoft-is-seeking-a-nuclear-power-manager-as-ai-consumes-too-much-energy)
  - date_published: 2023-09-25T19:26:01+00:00
@@ -7927,7 +7932,7 @@
 
  ## Henry Kissinger on Hamas attacks fallout: Germany let in too many foreigners
  - [https://www.politico.eu/article/henry-kissinger-germany-let-in-way-too-many-foreigners](https://www.politico.eu/article/henry-kissinger-germany-let-in-way-too-many-foreigners)
- - date_published: 2023-10-11T23:28:18.618127+00:00
+ - date_published: 2023-10-11T21:25:40+00:00
  - tags: ['immigration']
 
  ## Youtuber, przemoc, zagrożenie - lekcja z Pandora gate
@@ -7980,15 +7985,11 @@
  - date_published: 2023-10-13T03:51:32+00:00
  - tags: ['crypto wars']
 
- ## The Pros and Cons of Ad Blocking Explained - EAVI
- - [https://eavi.eu/explainer-pros-cons-adblocking](https://eavi.eu/explainer-pros-cons-adblocking)
- - date_published: 2023-10-13T06:20:40+00:00
- - tags: ['ad business']
-
  ## ‘Most cherished friend’: UK unearths messages from Staley to Epstein
  - [https://www.ft.com/content/7b9505ac-94c3-4688-a84d-cbecbf4f1f3b](https://www.ft.com/content/7b9505ac-94c3-4688-a84d-cbecbf4f1f3b)
  - date_published: 2023-10-13T10:00:29+00:00
  - tags: ['jeffrey epstein', 'jes staley']
+ - date_dead_since: 2025-07-04T17:37:59.697244+00:00
 
  ## Aurora Store | F-Droid - Free and Open Source Android App Repository
  - [https://f-droid.org/packages/com.aurora.store](https://f-droid.org/packages/com.aurora.store)
@@ -8015,6 +8016,11 @@
  - date_published: 2023-10-14T20:48:05+00:00
  - tags: ['israel', 'third temple']
 
+ ## Don't use DISTINCT as a "join-fixer"
+ - [https://www.red-gate.com/simple-talk/databases/sql-server/t-sql-programming-sql-server/dont-use-distinct-as-a-join-fixer](https://www.red-gate.com/simple-talk/databases/sql-server/t-sql-programming-sql-server/dont-use-distinct-as-a-join-fixer)
+ - date_published: 2023-10-16T00:28:42+00:00
+ - tags: ['sql']
+
  ## Half of EV owners will go back to an ICE vehicle (not counting you, Tesla drivers) – study
  - [https://electrek.co/2023/10/17/half-of-ev-owners-will-go-back-to-an-ice-vehicle-not-counting-you-tesla-drivers-study](https://electrek.co/2023/10/17/half-of-ev-owners-will-go-back-to-an-ice-vehicle-not-counting-you-tesla-drivers-study)
  - date_published: 2023-10-17T07:42:26+00:00
@@ -8027,7 +8033,7 @@
 
  ## Google-hosted malvertising leads to fake Keepass site that looks genuine
  - [https://arstechnica.com/security/2023/10/google-hosted-malvertising-leads-to-fake-keepass-site-that-looks-genuine](https://arstechnica.com/security/2023/10/google-hosted-malvertising-leads-to-fake-keepass-site-that-looks-genuine)
- - date_published: 2023-10-19T05:33:24+00:00
+ - date_published: 2023-10-19T04:50:35+00:00
  - tags: ['malvertising']
 
  ## Google Will Soon Scan Sideloaded Android Apps for Malicious Code
@@ -8050,11 +8056,6 @@
  - date_published: 2023-10-20T09:06:31+00:00
  - tags: ['israel', 'war crimes']
 
- ## Don't use DISTINCT as a "join-fixer"
- - [https://www.red-gate.com/simple-talk/databases/sql-server/t-sql-programming-sql-server/dont-use-distinct-as-a-join-fixer](https://www.red-gate.com/simple-talk/databases/sql-server/t-sql-programming-sql-server/dont-use-distinct-as-a-join-fixer)
- - date_published: 2023-10-20T22:52:17+00:00
- - tags: ['sql']
-
  ## GitHub - Stability-AI/stablediffusion: High-Resolution Image Synthesis with Latent Diffusion Models
  - [https://github.com/Stability-AI/StableDiffusion](https://github.com/Stability-AI/StableDiffusion)
  - date_published: 2023-10-21T06:51:43+00:00
@@ -8074,11 +8075,6 @@
  - [https://www.theverge.com/2023/10/23/23928550/posse-posting-activitypub-standard-twitter-tumblr-mastodon](https://www.theverge.com/2023/10/23/23928550/posse-posting-activitypub-standard-twitter-tumblr-mastodon)
  - date_published: 2023-10-23T14:24:47+00:00
  - tags: ['centralisation', 'decentralisation', 'monopoly', 'posse', 'technofeudalism']
-
- ## Motorola is disabling Android phones purchased through unauthorized sellers in Mexico
- - [https://9to5google.com/2023/09/25/motorola-disabling-mexico-smartphones](https://9to5google.com/2023/09/25/motorola-disabling-mexico-smartphones)
- - date_published: 2023-10-24T11:36:31+00:00
- - tags: ['android', 'technofeudalism']
 
  ## Israel to refuse visas to UN officials after Guterres speech on Gaza war | United Nations News | Al Jazeera
  - [https://www.aljazeera.com/news/2023/10/25/israel-to-refuse-visas-to-un-officials-after-guterres-speech-on-gaza-war](https://www.aljazeera.com/news/2023/10/25/israel-to-refuse-visas-to-un-officials-after-guterres-speech-on-gaza-war)
@@ -8166,15 +8162,15 @@
  - date_published: 2023-11-07T09:39:59+00:00
  - tags: ['privacy', 'surveillance', 'technofeudalism']
 
+ ## Article 45 Will Roll Back Web Security by 12 Years
+ - [https://www.eff.org/deeplinks/2023/11/article-45-will-roll-back-web-security-12-years](https://www.eff.org/deeplinks/2023/11/article-45-will-roll-back-web-security-12-years)
+ - date_published: 2023-11-07T10:02:11+00:00
+ - tags: ['crypto wars', 'privacy', 'surveillance']
+
  ## Why women, children are disproportionately impacted by the conflict in Gaza: Experts
  - [https://abcnews.go.com/International/women-children-disproportionately-impacted-conflict-gaza-experts/story?id=104655493](https://abcnews.go.com/International/women-children-disproportionately-impacted-conflict-gaza-experts/story?id=104655493)
  - date_published: 2023-11-07T18:40:53+00:00
  - tags: ['gaza', 'israel', 'palestine']
-
- ## Article 45 Will Roll Back Web Security by 12 Years
- - [https://www.eff.org/deeplinks/2023/11/article-45-will-roll-back-web-security-12-years](https://www.eff.org/deeplinks/2023/11/article-45-will-roll-back-web-security-12-years)
- - date_published: 2023-11-07T18:52:21+00:00
- - tags: ['crypto wars', 'privacy', 'surveillance']
 
  ## Court rules automakers can record and intercept owner text messages
  - [https://therecord.media/class-action-lawsuit-cars-text-messages-privacy](https://therecord.media/class-action-lawsuit-cars-text-messages-privacy)

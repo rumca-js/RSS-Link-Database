@@ -1336,6 +1336,10 @@
  - date_published: 2024-11-01T00:00:00+00:00
  - tags: ['dei', 'diversity', 'inclusion']
 
+ ## More than 100 BBC staff accuse broadcaster of Israel bias in Gaza coverage
+ - [https://www.independent.co.uk/news/uk/home-news/bbc-israel-gaza-letter-tim-davie-bias-palestine-b2636737.html](https://www.independent.co.uk/news/uk/home-news/bbc-israel-gaza-letter-tim-davie-bias-palestine-b2636737.html)
+ - date_published: 2024-11-01T18:58:22+00:00
+
  ## Mozilla is eliminating its advocacy division, which fought for a free and open web
  - [https://www.theverge.com/2024/11/5/24289124/mozilla-foundation-layoffs-advocacy-global-programs](https://www.theverge.com/2024/11/5/24289124/mozilla-foundation-layoffs-advocacy-global-programs)
  - date_published: 2024-11-05T17:19:25+00:00

@@ -118,6 +118,11 @@
  - date_published: 2016-04-15T00:00:00+00:00
  - tags: ['anonymity', 'censorship', 'free speech', 'privacy', 'tracking']
 
+ ## The Pros and Cons of Ad Blocking Explained - EAVI
+ - [https://eavi.eu/explainer-pros-cons-adblocking](https://eavi.eu/explainer-pros-cons-adblocking)
+ - date_published: 2016-04-26T13:44:50+00:00
+ - tags: ['ad business']
+
  ## Why The Female-Led Ghostbusters Reboot Failed At The Box Office
  - [https://tvovermind.com/why-the-ghostbusters-reboot-failed-at-the-box-office-failed](https://tvovermind.com/why-the-ghostbusters-reboot-failed-at-the-box-office-failed)
  - date_published: 2016-04-28T11:52:16+00:00
