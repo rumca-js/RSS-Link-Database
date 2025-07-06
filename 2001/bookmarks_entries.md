@@ -50,7 +50,7 @@
 
  ## 5 Young Israelis, Caught in Net of Suspicion (Published 2001)
  - [https://www.nytimes.com/2001/10/08/nyregion/5-young-israelis-caught-in-net-of-suspicion.html](https://www.nytimes.com/2001/10/08/nyregion/5-young-israelis-caught-in-net-of-suspicion.html)
- - date_published: 2001-10-08T07:00:00+00:00
+ - date_published: 2001-10-08T05:00:00+00:00
  - tags: ['911', 'israel']
 
  ## The Conspiracy Theorist Who Predicted His Own Death | Tales From the Bottle

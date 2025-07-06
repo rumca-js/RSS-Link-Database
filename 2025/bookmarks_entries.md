@@ -483,3 +483,8 @@
  - date_published: 2025-06-27T19:30:00+00:00
  - tags: ['privacy', 'surveillance', 'technofeudalism']
 
+ ## THE REAL BLACKROCK CONSPIRACY: The Mega Corp That Controls Capitalism- CIC Ep2
+ - [https://www.youtube.com/watch?v=B8c15mfFhiY](https://www.youtube.com/watch?v=B8c15mfFhiY)
+ - date_published: 2025-07-03T00:00:00+00:00
+ - tags: ['blackrock']
+

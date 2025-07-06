@@ -307,7 +307,7 @@
 
  ## Israelis not Muslims were arrested in U.S. after 'celebrating' 9/11
  - [https://www.digitaljournal.com/world/israelis-not-muslims-were-arrested-in-us-after-celebrating-9-11/article/450612](https://www.digitaljournal.com/world/israelis-not-muslims-were-arrested-in-us-after-celebrating-9-11/article/450612)
- - date_published: 2015-11-27T20:14:48+00:00
+ - date_published: 2015-11-27T19:14:48+00:00
  - tags: ['911', 'israel']
 
  ## Recently Bought a Windows Computer? Microsoft Probably Has Your Encryption Key

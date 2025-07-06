@@ -1202,21 +1202,21 @@
         "language": "en-US",
         "link": "https://www.zdnet.com/article/a-new-android-feature-is-scanning-your-photos-for-sensitive-content-how-to-stop-it",
         "manual_status_code": 0,
-        "page_rating": 27,
+        "page_rating": 30,
         "page_rating_contents": 86,
-        "page_rating_visits": 0,
+        "page_rating_visits": 3,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 406,
         "source_url": "https://www.zdnet.com/news/rss.xml",
-        "status_code": 0,
+        "status_code": 200,
         "tags": [
             "google",
             "privacy",
             "surveillance",
             "technofeudalism"
         ],
-        "thumbnail": null,
+        "thumbnail": "https://www.zdnet.com/a/img/resize/9dd1e071bfb6bd4e277824c9a3847eae07d6d90c/2025/02/25/822626ba-fad5-4b51-9ac8-6599420dc269/gettyimages-2012623833.jpg?auto=webp&fit=crop&height=675&width=1200",
         "title": "A new Android feature is scanning your photos for 'sensitive content' - how to stop it",
         "vote": 0
     },
@@ -2861,6 +2861,34 @@
         ],
         "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257467_Meta_Quest_3S_AKrales_0117.webp?quality=90&strip=all&crop=0,0,100,100",
         "title": "Facebook is starting to feed its AI with private, unpublished photos",
+        "vote": 0
+    },
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_created": "2025-07-05T09:45:26.037025+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-03T00:00:00+00:00",
+        "description": "The real Blackrock conspiracy theory is a lot more nuanced and, I think, a lot more interesting than most of the clickbait videos make it out to be. This is the high level overview of one of the most important and recurring lines of research I've been doing since day one on TikTok.\n\nBut I felt it was finally time to put the whole Blackrock Conspiracy into one video from start to finish along with something we can do about it.\n\nI'm also super proud of Buy'r and can't wait to get it in all of your hands so you can start using it to make more informed buying decisions in whatever way you feel good about.\n\nThanks for liking, subscribing, and sharing the show.\n\nTo join the Buy'r beta test and be the first to know when it's available go to:\nHttps://www.buyrapp.com\n\n\nFor questions, comments and a community all about Buy'r join the discord:\nhttps://discord.gg/tw32T2MkcV\n\nTo see my old spreadsheets and use them for free:\nwww.cancelthisclothingcompany.com\n\nFor merch and more visit \nhttps://canc",
+        "id": 3090538,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=B8c15mfFhiY",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 86,
+        "page_rating_visits": 2,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "blackrock"
+        ],
+        "thumbnail": "https://i.ytimg.com/vi/B8c15mfFhiY/maxresdefault.jpg",
+        "title": "THE REAL BLACKROCK CONSPIRACY: The Mega Corp That Controls Capitalism- CIC Ep2",
         "vote": 0
     }
 ]

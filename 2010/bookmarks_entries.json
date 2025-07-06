@@ -371,14 +371,14 @@
         "date_created": "2025-02-25T21:24:22.920619+00:00",
         "date_dead_since": null,
         "date_published": "2010-06-25T22:24:17+00:00",
-        "description": "",
+        "description": "Massachusetts anesthesiologist Scott Reuben received six months in prison for faking medical research into Pfizer (PFE)'s Celebrex and Bextra painkillers just as the Bay State's legislature is considering repealing the ban on doctors taking gifts from drug companies. Technically, the two events are ...",
         "id": 2194367,
         "language": "en-US",
         "link": "https://www.cbsnews.com/news/doc-who-faked-pfizer-studies-gets-6-months-in-prison-showing-why-gift-bans-are-a-good-idea",
         "manual_status_code": 0,
-        "page_rating": 27,
+        "page_rating": 30,
         "page_rating_contents": 86,
-        "page_rating_visits": 0,
+        "page_rating_visits": 2,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "",
@@ -386,7 +386,7 @@
         "tags": [
             "science is dead"
         ],
-        "thumbnail": "https://assets1.cbsnewsstatic.com/hub/i/r/2015/04/29/340c23e5-e5a3-40ef-bf68-dcc84ef47c4b/thumbnail/1200x630/6e2e666786e7a06c8786e0cd609401f5/restrictedimagesub.jpg?v=8530dec12e70cec71e9990a5fbc34391",
+        "thumbnail": "https://assets1.cbsnewsstatic.com/hub/i/r/2015/04/29/340c23e5-e5a3-40ef-bf68-dcc84ef47c4b/thumbnail/1200x630/6e2e666786e7a06c8786e0cd609401f5/restrictedimagesub.jpg",
         "title": "Doc Who Faked Pfizer Studies Gets 6 Months in Prison, Showing Why Gift Bans Are a Good Idea",
         "vote": 0
     },
