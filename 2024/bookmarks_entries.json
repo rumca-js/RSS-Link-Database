@@ -5822,9 +5822,9 @@
         "language": "en",
         "link": "https://en.wikipedia.org/wiki/Attempted_assassination_of_Donald_Trump_in_Pennsylvania",
         "manual_status_code": 0,
-        "page_rating": 26,
+        "page_rating": 29,
         "page_rating_contents": 82,
-        "page_rating_visits": 0,
+        "page_rating_visits": 2,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "",
@@ -5832,7 +5832,7 @@
         "tags": [
             "donald trump"
         ],
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Butler_Farm_Show_Airport_Trump_Rally_2024_05_%28cropped%29.jpg",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Butler_Farm_Show_Airport_Trump_Rally_2024_02_%28cropped%29.jpg",
         "title": "Attempted assassination of Donald Trump in Pennsylvania - Wikipedia",
         "vote": 0
     },

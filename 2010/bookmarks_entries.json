@@ -404,13 +404,13 @@
         "language": "en-US",
         "link": "https://thehill.com/homenews/administration/105897-biden-remembers-byrd-as-mentor-and-dear-friend",
         "manual_status_code": 0,
-        "page_rating": 29,
-        "page_rating_contents": 91,
-        "page_rating_visits": 0,
+        "page_rating": 32,
+        "page_rating_contents": 90,
+        "page_rating_visits": 2,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "",
-        "status_code": 200,
+        "status_code": 403,
         "tags": [
             "joe biden",
             "roberty byrd"

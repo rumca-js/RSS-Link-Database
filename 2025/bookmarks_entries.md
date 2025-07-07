@@ -40,7 +40,7 @@
 
  ## Opinion | Trump finds a new way for foreign governments to pay him off: Crypto
  - [https://www.washingtonpost.com/opinions/2025/01/21/trump-crypto-ponzi-scheme](https://www.washingtonpost.com/opinions/2025/01/21/trump-crypto-ponzi-scheme)
- - date_published: 2025-01-21T13:30:00+00:00
+ - date_published: 2025-01-21T12:30:00+00:00
  - tags: ['crypto', 'donald trump']
 
  ## Enviromental groups got EU subsidies to lobby for Timmermans' green plans: report
@@ -74,7 +74,7 @@
 
  ## Breaking: Vital Long COVID data taken down following Trump order - The Sick Times
  - [https://thesicktimes.org/2025/01/31/breaking-vital-long-covid-data-taken-down-following-trump-order](https://thesicktimes.org/2025/01/31/breaking-vital-long-covid-data-taken-down-following-trump-order)
- - date_published: 2025-02-01T00:35:34+00:00
+ - date_published: 2025-01-31T23:35:34+00:00
  - tags: ['covid']
 
  ## The Effects of Immigration in Denmark
@@ -197,7 +197,7 @@
 
  ## FBI allegedly deleting Jeffrey Epstein records—whistleblower speaks out | The Express Tribune
  - [https://tribune.com.pk/story/2530745/fbi-allegedly-deleting-jeffrey-epstein-recordswhistleblower-speaks-out](https://tribune.com.pk/story/2530745/fbi-allegedly-deleting-jeffrey-epstein-recordswhistleblower-speaks-out)
- - date_published: 2025-02-25T04:25:12+00:00
+ - date_published: 2025-02-25T03:25:12+00:00
  - tags: ['jeffrey epstein']
 
  ## A new Android feature is scanning your photos for 'sensitive content' - how to stop it

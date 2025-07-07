@@ -7572,15 +7572,15 @@
  - date_published: 2023-09-12T16:38:09+00:00
  - tags: ['cia', 'covid', 'lab leak', 'wuhan']
 
+ ## Pegasus Spyware Scandals Highlight Global Dangers As Activists Demand Action
+ - [https://www.forbes.com/sites/federicoguerrini/2023/09/14/pegasus-spyware-scandals-highlight-global-dangers-as-activists-demand-action](https://www.forbes.com/sites/federicoguerrini/2023/09/14/pegasus-spyware-scandals-highlight-global-dangers-as-activists-demand-action)
+ - date_published: 2023-09-14T00:00:00+00:00
+ - tags: ['espionage', 'pegasus', 'surveillance']
+
  ## Game Development Post-Unity
  - [https://www.computerenhance.com/p/game-development-post-unity](https://www.computerenhance.com/p/game-development-post-unity)
  - date_published: 2023-09-14T00:19:07+00:00
  - tags: ['game engines', 'technofeudalism', 'unity']
-
- ## Pegasus Spyware Scandals Highlight Global Dangers As Activists Demand Action
- - [https://www.forbes.com/sites/federicoguerrini/2023/09/14/pegasus-spyware-scandals-highlight-global-dangers-as-activists-demand-action](https://www.forbes.com/sites/federicoguerrini/2023/09/14/pegasus-spyware-scandals-highlight-global-dangers-as-activists-demand-action)
- - date_published: 2023-09-14T05:00:48+00:00
- - tags: ['espionage', 'pegasus', 'surveillance']
 
  ## How mobile apps illegally share your personal data
  - [https://noyb.eu/en/how-mobile-apps-illegally-share-your-personal-data](https://noyb.eu/en/how-mobile-apps-illegally-share-your-personal-data)
@@ -7644,7 +7644,7 @@
 
  ## Polskie finanse zagrożone. Fundujemy sobie wysoki deficyt budżetowy i skokowy wzrost długu
  - [https://biznes.interia.pl/gospodarka/news-polski-dlug-gwaltownie-rosnie-wkrotce-moze-przekroczyc-pozio,nId,7027813](https://biznes.interia.pl/gospodarka/news-polski-dlug-gwaltownie-rosnie-wkrotce-moze-przekroczyc-pozio,nId,7027813)
- - date_published: 2023-09-17T11:36:34+00:00
+ - date_published: 2023-09-17T07:00:00+00:00
  - tags: ['public debt']
 
  ## Berlin's Brandenburg Gate spray-painted by climate activists
@@ -7661,9 +7661,8 @@
 
  ## U.S. National Debt Tops $33T for First Time
  - [https://www.nytimes.com/2023/09/18/us/politics/us-national-debt.html](https://www.nytimes.com/2023/09/18/us/politics/us-national-debt.html)
- - date_published: 2023-09-18T23:06:40+00:00
+ - date_published: 2023-09-18T20:02:40+00:00
  - tags: ['national debt']
- - date_dead_since: 2025-02-26T18:33:34.267421+00:00
 
  ## Your WiFi Can See You
  - [https://mrereports.substack.com/p/your-wifi-can-see-you](https://mrereports.substack.com/p/your-wifi-can-see-you)
@@ -7674,6 +7673,11 @@
  - [https://arstechnica.com/tech-policy/2023/09/online-child-safety-law-blocked-after-calif-argued-face-scans-not-that-invasive](https://arstechnica.com/tech-policy/2023/09/online-child-safety-law-blocked-after-calif-argued-face-scans-not-that-invasive)
  - date_published: 2023-09-19T06:50:59+00:00
  - tags: ['biometrics', 'facial recognition', 'surveillance']
+
+ ## The UK Parliament Undermined the Privacy, Security, and Freedom of All Internet
+ - [https://www.eff.org/deeplinks/2023/09/today-uk-parliament-undermined-privacy-security-and-freedom-all-internet-users](https://www.eff.org/deeplinks/2023/09/today-uk-parliament-undermined-privacy-security-and-freedom-all-internet-users)
+ - date_published: 2023-09-19T12:50:14+00:00
+ - tags: ['crypto wars', 'online safety bill', 'privacy', 'surveillance']
 
  ## The UK passes massive online safety bill
  - [https://www.theverge.com/2023/9/19/23880919/uk-passes-massive-online-safety-bill](https://www.theverge.com/2023/9/19/23880919/uk-passes-massive-online-safety-bill)
@@ -7690,6 +7694,11 @@
  - date_published: 2023-09-20T05:18:35+00:00
  - tags: ['church scandal', 'poland']
 
+ ## Police Scotland set up new unit to tackle 'hate crime' such as misgendering
+ - [https://www.scottishdailyexpress.co.uk/news/scottish-news/police-scotland-set-up-new-30983808](https://www.scottishdailyexpress.co.uk/news/scottish-news/police-scotland-set-up-new-30983808)
+ - date_published: 2023-09-20T09:46:28+00:00
+ - tags: ['gender', 'misgendering', 'scotland']
+
  ## Elon Musk wants me to pay to use troll-filled X? That'll be the nail in Twitter's coffin.
  - [https://eu.usatoday.com/story/opinion/columnist/2023/09/20/elon-musk-charge-x-twitter-users-monthly-fee/70905407007](https://eu.usatoday.com/story/opinion/columnist/2023/09/20/elon-musk-charge-x-twitter-users-monthly-fee/70905407007)
  - date_published: 2023-09-20T14:02:53+00:00
@@ -7699,16 +7708,6 @@
  - [https://glitterkitten.co.uk/@ellavescent/111091652921668380](https://glitterkitten.co.uk/@ellavescent/111091652921668380)
  - date_published: 2023-09-20T18:00:48+00:00
  - tags: ['ad business', 'technofeudalism']
-
- ## Police Scotland set up new unit to tackle 'hate crime' such as misgendering
- - [https://www.scottishdailyexpress.co.uk/news/scottish-news/police-scotland-set-up-new-30983808](https://www.scottishdailyexpress.co.uk/news/scottish-news/police-scotland-set-up-new-30983808)
- - date_published: 2023-09-20T20:28:14+00:00
- - tags: ['gender', 'misgendering', 'scotland']
-
- ## The UK Parliament Undermined the Privacy, Security, and Freedom of All Internet
- - [https://www.eff.org/deeplinks/2023/09/today-uk-parliament-undermined-privacy-security-and-freedom-all-internet-users](https://www.eff.org/deeplinks/2023/09/today-uk-parliament-undermined-privacy-security-and-freedom-all-internet-users)
- - date_published: 2023-09-21T02:51:08+00:00
- - tags: ['crypto wars', 'online safety bill', 'privacy', 'surveillance']
 
  ## Organic Maps: An Open-Source Maps App That Doesn't Suck
  - [https://hardfault.life/p/organic-maps-review](https://hardfault.life/p/organic-maps-review)
@@ -7720,15 +7719,20 @@
  - date_published: 2023-09-21T04:00:40+00:00
  - tags: ['israel', 'palestine']
 
+ ## The Age of the Grift Shift
+ - [https://tante.cc/2023/09/21/the-age-of-the-grift-shift](https://tante.cc/2023/09/21/the-age-of-the-grift-shift)
+ - date_published: 2023-09-21T21:41:08+00:00
+ - tags: ['content creation']
+
  ## New York City has taken in 95K migrants this YEAR - which is more than TWICE as many as LA, Miami, Houston since MAY
  - [https://www.dailymail.co.uk/news/article-12547983/New-York-City-migrants-crisis-LA-Miami-Houston.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12547983/New-York-City-migrants-crisis-LA-Miami-Houston.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date_published: 2023-09-22T06:10:28+00:00
  - tags: ['immigration']
 
- ## The Age of the Grift Shift
- - [https://tante.cc/2023/09/21/the-age-of-the-grift-shift](https://tante.cc/2023/09/21/the-age-of-the-grift-shift)
- - date_published: 2023-09-22T10:25:46+00:00
- - tags: ['content creation']
+ ## Investigation: 78% of carbon offset projects globally are “likely junk“
+ - [https://www.power-technology.com/news/report-majority-carbon-offsets-junk-or-useless](https://www.power-technology.com/news/report-majority-carbon-offsets-junk-or-useless)
+ - date_published: 2023-09-22T16:26:06+00:00
+ - tags: ['climate change']
 
  ## Philips Hue will force users to upload their data to Hue cloud
  - [https://www.home-assistant.io/blog/2023/09/22/philips-hue-force-users-upload-data-to-cloud](https://www.home-assistant.io/blog/2023/09/22/philips-hue-force-users-upload-data-to-cloud)
@@ -7769,11 +7773,6 @@
  - [https://www.bloomberg.com/graphics/2023-black-lives-matter-equal-opportunity-corporate-diversity](https://www.bloomberg.com/graphics/2023-black-lives-matter-equal-opportunity-corporate-diversity)
  - date_published: 2023-09-26T13:00:16+00:00
  - tags: ['dei', 'diversity', 'inequality']
-
- ## Investigation: 78% of carbon offset projects globally are “likely junk“
- - [https://www.power-technology.com/news/report-majority-carbon-offsets-junk-or-useless](https://www.power-technology.com/news/report-majority-carbon-offsets-junk-or-useless)
- - date_published: 2023-09-26T14:50:35+00:00
- - tags: ['climate change']
 
  ## Elon Musk Have you heard dis information?
  - [https://twitter.com/elonmusk/status/1706676593261785178](https://twitter.com/elonmusk/status/1706676593261785178)
@@ -7820,15 +7819,15 @@
  - date_published: 2023-09-29T12:55:27+00:00
  - tags: ['internet', 'web30']
 
+ ## DOJ finally posted that “embarrassing” court doc Google wanted to hide
+ - [https://arstechnica.com/tech-policy/2023/09/google-exec-said-users-get-hooked-on-search-engine-like-cigarettes-or-drugs](https://arstechnica.com/tech-policy/2023/09/google-exec-said-users-get-hooked-on-search-engine-like-cigarettes-or-drugs)
+ - date_published: 2023-09-29T21:04:21+00:00
+ - tags: ['corporatocracy', 'dark design', 'google', 'technofeudalism']
+
  ## Is Consciousness Part of the Fabric of the Universe?
  - [https://www.scientificamerican.com/article/is-consciousness-part-of-the-fabric-of-the-universe](https://www.scientificamerican.com/article/is-consciousness-part-of-the-fabric-of-the-universe)
  - date_published: 2023-09-30T13:17:28+00:00
  - tags: ['panpsychism', 'psychology', 'religion']
-
- ## DOJ finally posted that “embarrassing” court doc Google wanted to hide
- - [https://arstechnica.com/tech-policy/2023/09/google-exec-said-users-get-hooked-on-search-engine-like-cigarettes-or-drugs](https://arstechnica.com/tech-policy/2023/09/google-exec-said-users-get-hooked-on-search-engine-like-cigarettes-or-drugs)
- - date_published: 2023-09-30T15:03:05+00:00
- - tags: ['corporatocracy', 'dark design', 'google', 'technofeudalism']
 
  ## YouTube's Advertiser Friendly Policies are Too Restrictive and Draconian - Time for change!
  - [https://www.youtube.com/watch?v=u6Px7Z4PXvA](https://www.youtube.com/watch?v=u6Px7Z4PXvA)

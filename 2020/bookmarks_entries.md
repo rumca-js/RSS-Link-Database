@@ -747,12 +747,12 @@
 
  ## Coronavirus data has already disappeared after Trump administration shifted control from CDC
  - [https://www.cnbc.com/2020/07/16/us-coronavirus-data-has-already-disappeared-after-trump-administration-shifted-control-from-cdc-to-hhs.html](https://www.cnbc.com/2020/07/16/us-coronavirus-data-has-already-disappeared-after-trump-administration-shifted-control-from-cdc-to-hhs.html)
- - date_published: 2020-07-16T15:31:16+00:00
+ - date_published: 2020-07-16T13:31:16+00:00
  - tags: ['covid']
 
  ## Disappearance of covid-19 data from CDC website spurs outcry
  - [https://www.washingtonpost.com/health/2020/07/16/coronavirus-hospitalization-data-outcry](https://www.washingtonpost.com/health/2020/07/16/coronavirus-hospitalization-data-outcry)
- - date_published: 2020-07-17T01:20:04+00:00
+ - date_published: 2020-07-16T23:20:04+00:00
  - tags: ['covid']
 
  ## Atak hakerów na Twittera pokazał, że... cenzuruje on użytkowników!
