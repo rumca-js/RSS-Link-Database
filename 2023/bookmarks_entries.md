@@ -7237,6 +7237,11 @@
  - date_published: 2023-08-30T01:20:15.336190+00:00
  - tags: ['anonymity', 'big brother', 'corporatocracy', 'india', 'privacy', 'surveillance', 'tech control']
 
+ ## Amiga Systems Programming in 2023
+ - [https://www.markround.com/blog/2023/08/30/amiga-systems-programming-in-2023](https://www.markround.com/blog/2023/08/30/amiga-systems-programming-in-2023)
+ - date_published: 2023-08-30T07:36:04+00:00
+ - tags: ['amiga']
+
  ## Apple: Using cash is “clearly reckless”
  - [https://blog.vexl.it/apple-using-cash-is-clearly-reckless-77e2a519a3bc](https://blog.vexl.it/apple-using-cash-is-clearly-reckless-77e2a519a3bc)
  - date_published: 2023-08-30T10:00:29.249057+00:00
@@ -7383,35 +7388,30 @@
  - date_published: 2023-09-05T06:17:08+00:00
  - tags: ['anti-patterns', 'pattern', 'programming']
 
- ## Amiga Systems Programming in 2023
- - [https://www.markround.com/blog/2023/08/30/amiga-systems-programming-in-2023](https://www.markround.com/blog/2023/08/30/amiga-systems-programming-in-2023)
- - date_published: 2023-09-05T08:53:13+00:00
- - tags: ['amiga']
+ ## Freedom Convoy Truckers Trial Sparks Calls for 'Uprising'
+ - [https://www.newsweek.com/freedom-convoy-trucker-trial-sparks-calls-uprising-1824646](https://www.newsweek.com/freedom-convoy-trucker-trial-sparks-calls-uprising-1824646)
+ - date_published: 2023-09-05T11:26:17+00:00
+ - tags: ['canada', 'covid', 'freedom convoy']
 
  ## Android 14 blocks all modification of system certificates, even as root
  - [https://httptoolkit.com/blog/android-14-breaks-system-certificate-installation](https://httptoolkit.com/blog/android-14-breaks-system-certificate-installation)
  - date_published: 2023-09-05T13:42:57+00:00
  - tags: ['android', 'technofeudalism']
 
- ## Freedom Convoy Truckers Trial Sparks Calls for 'Uprising'
- - [https://www.newsweek.com/freedom-convoy-trucker-trial-sparks-calls-uprising-1824646](https://www.newsweek.com/freedom-convoy-trucker-trial-sparks-calls-uprising-1824646)
- - date_published: 2023-09-05T15:26:17+00:00
- - tags: ['canada', 'covid', 'freedom convoy']
-
  ## Patrick T. Brown, PhD | It’s easy to construct a persuasive argument, it’s much more difficult to figure out the truth…
  - [https://patricktbrown.org](https://patricktbrown.org)
  - date_published: 2023-09-05T20:27:08+00:00
  - tags: ['climate change', 'science is dead']
 
+ ## If You’ve Got a New Car, It’s a Data Privacy Nightmare
+ - [https://gizmodo.com/mozilla-new-cars-data-privacy-report-1850805416](https://gizmodo.com/mozilla-new-cars-data-privacy-report-1850805416)
+ - date_published: 2023-09-06T02:00:00+00:00
+ - tags: ['electric vehicles', 'enshittification', 'privacy', 'surveillance', 'technofeudalism']
+
  ## Google Chrome pushes browser history-based ad targeting
  - [https://www.theregister.com/2023/09/06/google_privacy_popup_chrome](https://www.theregister.com/2023/09/06/google_privacy_popup_chrome)
  - date_published: 2023-09-06T06:31:21+00:00
  - tags: ['chrome', 'google', 'privacy', 'surveillance', 'topics api']
-
- ## If You’ve Got a New Car, It’s a Data Privacy Nightmare
- - [https://gizmodo.com/mozilla-new-cars-data-privacy-report-1850805416](https://gizmodo.com/mozilla-new-cars-data-privacy-report-1850805416)
- - date_published: 2023-09-06T12:54:40+00:00
- - tags: ['electric vehicles', 'enshittification', 'privacy', 'surveillance', 'technofeudalism']
 
  ## Connected cars are a “privacy nightmare,” Mozilla Foundation says
  - [https://arstechnica.com/cars/2023/09/connected-cars-are-a-privacy-nightmare-mozilla-foundation-says](https://arstechnica.com/cars/2023/09/connected-cars-are-a-privacy-nightmare-mozilla-foundation-says)
@@ -7446,6 +7446,11 @@
  - tags: ['ad business', 'electric vehicles', 'privacy', 'surveillance', 'technofeudalism', 'tesla']
  - date_dead_since: 2025-06-12T10:02:30.756181+00:00
 
+ ## Report says PR firm has been paying Rotten Tomatoes critics for positive reviews
+ - [https://www.screengeek.net/2023/09/06/rotten-tomatoes-pr-firm-paying-critics-positive-reviews](https://www.screengeek.net/2023/09/06/rotten-tomatoes-pr-firm-paying-critics-positive-reviews)
+ - date_published: 2023-09-06T20:45:37+00:00
+ - tags: ['corporatocracy', 'manufacturing consent']
+
  ## Ekonomiści zaniepokojeni tempem zadłużania się kraju. "Sytuacja jest dramatyczna"
  - [https://www.bankier.pl/wiadomosc/Ekonomisci-zaniepokojeni-tempem-zadluzania-sie-kraju-Sytuacja-jest-dramatyczna-8606849.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Ekonomisci-zaniepokojeni-tempem-zadluzania-sie-kraju-Sytuacja-jest-dramatyczna-8606849.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date_published: 2023-09-07T05:50:00+00:00
@@ -7476,10 +7481,15 @@
  - date_published: 2023-09-07T09:04:54+00:00
  - tags: ['corporatocracy', 'eula', 'terms of service']
 
- ## Report says PR firm has been paying Rotten Tomatoes critics for positive reviews
- - [https://www.screengeek.net/2023/09/06/rotten-tomatoes-pr-firm-paying-critics-positive-reviews](https://www.screengeek.net/2023/09/06/rotten-tomatoes-pr-firm-paying-critics-positive-reviews)
- - date_published: 2023-09-07T14:30:50+00:00
- - tags: ['corporatocracy', 'manufacturing consent']
+ ## How Big Tech Got So Damn Big
+ - [https://www.wired.com/story/the-internet-con-cory-doctorow-book-excerpt](https://www.wired.com/story/the-internet-con-cory-doctorow-book-excerpt)
+ - date_published: 2023-09-07T11:00:00+00:00
+ - tags: ['big tech', 'corporatocracy', 'network effect']
+
+ ## Discovery shines light on Church's protection of Jews during Nazi persecution
+ - [https://www.vaticannews.va/en/vatican-city/news/2023-09/douments-pontifical-biblical-commission-nazi-persecution-church.html](https://www.vaticannews.va/en/vatican-city/news/2023-09/douments-pontifical-biblical-commission-nazi-persecution-church.html)
+ - date_published: 2023-09-07T14:19:00+00:00
+ - tags: ['righteous among the nations']
 
  ## New Report Reveals Hollywood PR Firm Bunker 15 Paid For Positive Reviews To Manipulate Rotten Tomatoes Scores Of Bad Movies - Bounding Into Comics
  - [https://boundingintocomics.com/2023/09/07/new-report-reveals-hollywood-pr-firm-bunker-15-paid-for-positive-reviews-to-manipulate-rotten-tomatoes-scores-of-bad-movies](https://boundingintocomics.com/2023/09/07/new-report-reveals-hollywood-pr-firm-bunker-15-paid-for-positive-reviews-to-manipulate-rotten-tomatoes-scores-of-bad-movies)
@@ -7497,11 +7507,6 @@
  - tags: ['immigration']
  - date_dead_since: 2024-10-02T18:42:16.401142+00:00
 
- ## Discovery shines light on Church's protection of Jews during Nazi persecution
- - [https://www.vaticannews.va/en/vatican-city/news/2023-09/douments-pontifical-biblical-commission-nazi-persecution-church.html](https://www.vaticannews.va/en/vatican-city/news/2023-09/douments-pontifical-biblical-commission-nazi-persecution-church.html)
- - date_published: 2023-09-08T08:47:44+00:00
- - tags: ['righteous among the nations']
-
  ## Righteous Among the Nations - Wikipedia
  - [https://en.wikipedia.org/wiki/Righteous_Among_the_Nations](https://en.wikipedia.org/wiki/Righteous_Among_the_Nations)
  - date_published: 2023-09-08T11:34:19+00:00
@@ -7511,11 +7516,6 @@
  - [https://www.independent.co.uk/arts-entertainment/art/features/tim-burton-beetlejuice-2-johnny-depp-disney-b2406538.html](https://www.independent.co.uk/arts-entertainment/art/features/tim-burton-beetlejuice-2-johnny-depp-disney-b2406538.html)
  - date_published: 2023-09-09T06:46:12+00:00
  - tags: ['cancel culture']
-
- ## How Big Tech Got So Damn Big
- - [https://www.wired.com/story/the-internet-con-cory-doctorow-book-excerpt](https://www.wired.com/story/the-internet-con-cory-doctorow-book-excerpt)
- - date_published: 2023-09-10T17:05:21+00:00
- - tags: ['big tech', 'corporatocracy', 'network effect']
 
  ## NIK ujawnia: w czasie pandemii rząd narażał życie i zdrowie Polaków
  - [https://wiadomosci.onet.pl/tylko-w-onecie/nik-ujawnia-w-czasie-pandemii-rzad-narazal-zycie-i-zdrowie-polakow/9jf5pte?utm_source=wykop.pl_viasg_wiadomosci&utm_medium=referal&utm_campaign=leo_automatic&srcc=undefined](https://wiadomosci.onet.pl/tylko-w-onecie/nik-ujawnia-w-czasie-pandemii-rzad-narazal-zycie-i-zdrowie-polakow/9jf5pte?utm_source=wykop.pl_viasg_wiadomosci&utm_medium=referal&utm_campaign=leo_automatic&srcc=undefined)
@@ -7544,7 +7544,7 @@
 
  ## Threads blocks searches related to covid and vaccines amid surge
  - [https://www.washingtonpost.com/technology/2023/09/11/threads-covid-coronavirus-searches-blocked](https://www.washingtonpost.com/technology/2023/09/11/threads-covid-coronavirus-searches-blocked)
- - date_published: 2023-09-11T18:23:24+00:00
+ - date_published: 2023-09-11T17:56:48+00:00
  - tags: ['censorship', 'covid', 'disinformation', 'meta', 'misinformation', 'moderation', 'threads', 'vaccine']
 
  ## Shocking video shows zombie-like addicts at ‘ground zero’ of Philadelphia’s ‘tranq’ epidemic
