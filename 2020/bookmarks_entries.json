@@ -166,7 +166,7 @@
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.thecrimemag.com",
-        "status_code": 500,
+        "status_code": 404,
         "tags": [
             "jeffrey epstein"
         ],
@@ -296,6 +296,34 @@
         ],
         "thumbnail": "https://www.vice.com/wp-content/uploads/sites/2/2020/01/1578516235251-Screen-Shot-2020-01-08-at-34157-PM.png?resize=2000,1045",
         "title": "Ring Fired Employees for Watching Customer Videos",
+        "vote": 0
+    },
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_created": "2025-07-08T12:10:43.722698+00:00",
+        "date_dead_since": null,
+        "date_published": "2020-01-10T12:10:59+00:00",
+        "description": "",
+        "id": 3112027,
+        "language": "en-GB",
+        "link": "https://www.bbc.com/news/world-us-canada-51053205",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 86,
+        "page_rating_visits": 3,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "jeffrey epstein"
+        ],
+        "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/13A0A/production/_109749308_epstein.jpg",
+        "title": "Jeffrey Epstein: Jail CCTV erased by 'technical errors'",
         "vote": 0
     },
     {
@@ -3085,6 +3113,34 @@
         "author": null,
         "bookmarked": true,
         "comments": [],
+        "date_created": "2025-07-08T06:21:17.097383+00:00",
+        "date_dead_since": null,
+        "date_published": "2020-06-04T00:00:00+00:00",
+        "description": "Download the video here: https://www.dropbox.com/s/ukjk11jk6yjtbwq/Head%20of%20the%20Snake.mp4?dl=0\n\n*Alan Dershowitz decided to yet again attack another Epstein victim smearing Virginia wasn't enough, so he wrote a blast piece accusing Maria Farmer of being a bigoted anti-semite because of this phone call. This is inexcusable- Maria Farmer is a victim of racism by these fake Jewish supremacists INCLUDING Alan \"I kept my underwear on\" Dershowitz. She is not the racist, her captors were. She clearly says she knows its not all Jews in this call, she accuses the elite & mafia for what happened to her & her sister & the other victims. This particular EDITED video is only focusing on the Zionist/ Israeli connections in the phone call, but please take the time to hear out the full 3 hour unedited call with Whitney Webb. Maria Farmer isn't the anti-Semite, nor is Whitney Webb. Alan Dershowitz and this band of criminals hiding behind a Jewish identity to get away with their wicked crimes are ",
+        "id": 3109972,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=ADRRgaPwWeo",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 86,
+        "page_rating_visits": 2,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "jeffrey epstein"
+        ],
+        "thumbnail": "https://i.ytimg.com/vi/ADRRgaPwWeo/sddefault.jpg",
+        "title": "Head of the Snake - Wexner, Maxwell\u2019s, Mossad & Mega Group Exposed",
+        "vote": 0
+    },
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
         "date_created": "2024-02-29T14:59:59.072168+00:00",
         "date_dead_since": null,
         "date_published": "2020-06-04T09:12:09+00:00",
@@ -4203,6 +4259,34 @@
         ],
         "thumbnail": "https://ocdn.eu/pulscms-transforms/1/KVZk9kpTURBXy8wYThmNDAyMzI3NDU5MTZjNTE4NTlmMjA0MWM1MTZiYi5qcGeSlQMAPs0H0M0EZZMFzQSwzQJ23gACoTABoTEA",
         "title": "Norwegia priorytetowo przyjmie uchod\u017ac\u00f3w LGBT+ - Noizz",
+        "vote": 0
+    },
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_created": "2025-07-08T06:28:12.872478+00:00",
+        "date_dead_since": null,
+        "date_published": "2020-07-08T06:29:00+00:00",
+        "description": "",
+        "id": 3109991,
+        "language": "en",
+        "link": "https://www.netflix.com/title/80224905",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 86,
+        "page_rating_visits": 2,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "jeffrey epstein"
+        ],
+        "thumbnail": "https://occ-0-2509-41.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABYu37Ogj1oxK6OKmA9in7dVNWPXpXCVYN5VYhxAcQ_PfRvkpB2DImoSHxTjDhrkltwDbH8emyV6hgeozJSclrjG-EdK8eSUvtUMy.jpg?r=f7e",
+        "title": "Watch Jeffrey Epstein: Filthy Rich | Netflix Official Site",
         "vote": 0
     },
     {

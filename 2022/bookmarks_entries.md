@@ -1010,12 +1010,12 @@
  ## Jean-Luc Brunel: Epstein associate found dead in Paris prison cell - BBC News
  - [https://www.bbc.com/news/world-europe-60443518](https://www.bbc.com/news/world-europe-60443518)
  - date_published: 2022-02-19T11:21:46+00:00
- - tags: ['billionairs', 'elites', 'jeffrey epstein']
+ - tags: ['billionairs', 'elites', 'jean-luc brunel', 'jeffrey epstein']
 
  ## Jeffrey Epstein's pimp Jean-Luc Brunel 'hangs himself alone in Paris jail with no CCTV
  - [https://www.dailymail.co.uk/news/article-10530247/Jeffrey-Epsteins-friend-Jean-Luc-Brunel-prison-suicide.html](https://www.dailymail.co.uk/news/article-10530247/Jeffrey-Epsteins-friend-Jean-Luc-Brunel-prison-suicide.html)
  - date_published: 2022-02-19T19:44:45+00:00
- - tags: ['jeffrey epstein']
+ - tags: ['jean-luc brunel', 'jeffrey epstein']
 
  ## Kanada: W Kanadzie policja tratuje ludzi, a „wolny świat” milczy! Dlaczego?
  - [https://www.prokapitalizm.pl/w-kanadzie-policja-tratuje-ludzi-a-wolny-swiat-milczy-dlaczego](https://www.prokapitalizm.pl/w-kanadzie-policja-tratuje-ludzi-a-wolny-swiat-milczy-dlaczego)
@@ -2961,6 +2961,11 @@
  - [https://www.bbc.com/news/world-us-canada-62073675](https://www.bbc.com/news/world-us-canada-62073675)
  - date_published: 2022-07-07T10:27:42+00:00
  - tags: ['conspiracy theory', 'georgia guide stone', 'secret societies']
+
+ ## House of Maxwell
+ - [https://www.bbc.co.uk/iplayer/episodes/p0b64j3y/house-of-maxwell](https://www.bbc.co.uk/iplayer/episodes/p0b64j3y/house-of-maxwell)
+ - date_published: 2022-07-08T06:20:57+00:00
+ - tags: ['ghislaine maxwell', 'jeffrey epstein']
 
  ## Shinzo Abe: Japan ex-leader assassinated while giving speech
  - [https://www.bbc.com/news/world-asia-62089486](https://www.bbc.com/news/world-asia-62089486)

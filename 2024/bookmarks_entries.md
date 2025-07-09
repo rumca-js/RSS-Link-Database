@@ -275,6 +275,11 @@
  - [https://greglukianoff.substack.com/p/yes-the-last-10-years-really-have](https://greglukianoff.substack.com/p/yes-the-last-10-years-really-have)
  - date_published: 2024-01-25T00:54:14+00:00
 
+ - [https://www.middleeastmonitor.com/20240125-power-plays-and-shadows-the-pro-israel-lobby-and-the-epstein-case](https://www.middleeastmonitor.com/20240125-power-plays-and-shadows-the-pro-israel-lobby-and-the-epstein-case)
+ - date_published: 2024-01-25T06:15:28+00:00
+ - tags: ['jeffrey epstein']
+ - date_dead_since: 2025-07-08T06:15:28.605243+00:00
+
  ## 7 in 10 French Citizens Opposed to Solving Demographic Decline With Immigration
  - [https://www.gulf-insider.com/7-in-10-french-citizens-opposed-to-solving-demographic-decline-with-immigration](https://www.gulf-insider.com/7-in-10-french-citizens-opposed-to-solving-demographic-decline-with-immigration)
  - date_published: 2024-01-25T07:15:24+00:00
@@ -285,15 +290,15 @@
  - date_published: 2024-01-25T17:28:51+00:00
  - tags: ['search engines']
 
+ ## When a STUDENT asks about JK ROWLING this happens
+ - [https://www.youtube.com/watch?v=zIPPpsJY39c](https://www.youtube.com/watch?v=zIPPpsJY39c)
+ - date_published: 2024-01-26T00:00:00+00:00
+ - tags: ['j.k. rowling', 'lgbt', 'manufacturing consent', 'transphobic']
+
  ## Air pollution over Alberta oil sands up to 6,300% higher than reported
  - [https://www.vancouverisawesome.com/highlights/alberta-tar-sands-pollution-up-to-6300-higher-than-industry-reported-finds-study-8162834](https://www.vancouverisawesome.com/highlights/alberta-tar-sands-pollution-up-to-6300-higher-than-industry-reported-finds-study-8162834)
  - date_published: 2024-01-26T00:31:13+00:00
  - tags: ['climate change']
-
- ## When a STUDENT asks about JK ROWLING this happens
- - [https://www.youtube.com/watch?v=zIPPpsJY39c](https://www.youtube.com/watch?v=zIPPpsJY39c)
- - date_published: 2024-01-26T01:00:00+00:00
- - tags: ['j.k. rowling', 'lgbt', 'manufacturing consent', 'transphobic']
 
  ## Using Google Search to find software can be risky
  - [https://krebsonsecurity.com/2024/01/using-google-search-to-find-software-can-be-risky](https://krebsonsecurity.com/2024/01/using-google-search-to-find-software-can-be-risky)

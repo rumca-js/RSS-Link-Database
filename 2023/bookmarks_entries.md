@@ -2097,6 +2097,11 @@
  - date_published: 2023-02-24T09:55:31+00:00
  - tags: ['big tech', 'canada', 'google', 'news', 'technofeudalism']
 
+ ## Moderna pays NIAID $400M under new COVID vaccine license
+ - [https://www.fiercepharma.com/pharma/moderna-pays-us-government-400m-catch-payment-under-new-covid-19-vaccine-license](https://www.fiercepharma.com/pharma/moderna-pays-us-government-400m-catch-payment-under-new-covid-19-vaccine-license)
+ - date_published: 2023-02-24T10:20:00+00:00
+ - tags: ['covid', 'moderna', 'nih', 'vaccine']
+
  ## Signal app warns it will quit UK if law weakens end-to-end encryption
  - [https://www.theguardian.com/technology/2023/feb/24/signal-app-warns-it-will-quit-uk-if-law-weakens-end-to-end-encryption](https://www.theguardian.com/technology/2023/feb/24/signal-app-warns-it-will-quit-uk-if-law-weakens-end-to-end-encryption)
  - date_published: 2023-02-24T14:08:55+00:00
@@ -6278,7 +6283,6 @@
  - [https://www.nytimes.com/2023/07/21/business/leon-black-settlement-jeffrey-epstein-claims.html](https://www.nytimes.com/2023/07/21/business/leon-black-settlement-jeffrey-epstein-claims.html)
  - date_published: 2023-07-21T09:49:39+00:00
  - tags: ['jeffrey epstein', 'leon black']
- - date_dead_since: 2025-03-02T22:03:01.081140+00:00
 
  ## Apple: Proposed UK law is a ‘serious, direct threat’ to security, privacy
  - [https://www.computerworld.com/article/3703055/apple-proposed-uk-law-is-a-serious-direct-threat-to-security-privacy.html#tk.rss_all](https://www.computerworld.com/article/3703055/apple-proposed-uk-law-is-a-serious-direct-threat-to-security-privacy.html#tk.rss_all)
@@ -6501,6 +6505,11 @@
  - [https://www.newsweek.com/climate-worries-are-more-exhausting-heat-itself-opinion-1815635](https://www.newsweek.com/climate-worries-are-more-exhausting-heat-itself-opinion-1815635)
  - date_published: 2023-07-27T10:00:01+00:00
  - tags: ['climate change', 'tend your garden']
+
+ ## Deja Vu: The FBI Proves Again It Can’t Be Trusted with Section 702
+ - [https://www.eff.org/deeplinks/2023/07/deja-vu-fbi-proves-again-it-cant-be-trusted-section-702](https://www.eff.org/deeplinks/2023/07/deja-vu-fbi-proves-again-it-cant-be-trusted-section-702)
+ - date_published: 2023-07-27T11:03:36+00:00
+ - tags: ['fbi', 'surveillance']
 
  ## Google's browser security plan slammed as dangerous, terrible, DRM for websites
  - [https://www.theregister.com/2023/07/27/google_web_environment_integrity](https://www.theregister.com/2023/07/27/google_web_environment_integrity)
@@ -6961,15 +6970,15 @@
  - date_published: 2023-08-16T14:07:31+00:00
  - tags: ['censorship', 'dark design', 'elon musk', 'twitter']
 
+ ## Tape Storage Might Be Computing’s Climate Savior
+ - [https://spectrum.ieee.org/tape-storage-sustainable-option](https://spectrum.ieee.org/tape-storage-sustainable-option)
+ - date_published: 2023-08-16T22:03:57+00:00
+ - tags: ['backup', 'tape storage']
+
  ## ChatGPT DOES have a left-wing bias: Scientists confirm the AI bot's responses favour the Democrats in the US and the Labour Party in the UK
  - [https://www.dailymail.co.uk/sciencetech/article-12413139/ChatGPT-DOES-left-wing-bias-Scientists-confirm-AI-bots-responses-favour-Democrats-Labour-Party-UK.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/sciencetech/article-12413139/ChatGPT-DOES-left-wing-bias-Scientists-confirm-AI-bots-responses-favour-Democrats-Labour-Party-UK.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date_published: 2023-08-16T23:01:46+00:00
  - tags: ['artificial intelligence', 'chatgpt']
-
- ## Tape Storage Might Be Computing’s Climate Savior
- - [https://spectrum.ieee.org/tape-storage-sustainable-option](https://spectrum.ieee.org/tape-storage-sustainable-option)
- - date_published: 2023-08-17T01:16:48+00:00
- - tags: ['backup', 'tape storage']
 
  ## Znikająca Hiszpania
  - [https://forsal.pl/gospodarka/demografia/artykuly/9220831,znikajaca-hiszpania.html](https://forsal.pl/gospodarka/demografia/artykuly/9220831,znikajaca-hiszpania.html)
@@ -7004,7 +7013,7 @@
 
  ## The richest Americans account for 40 percent of U.S. climate emissions
  - [https://www.washingtonpost.com/climate-environment/2023/08/17/greenhouse-emissions-income-inequality](https://www.washingtonpost.com/climate-environment/2023/08/17/greenhouse-emissions-income-inequality)
- - date_published: 2023-08-17T21:55:15+00:00
+ - date_published: 2023-08-17T18:22:23+00:00
  - tags: ['climate change', 'global warming']
 
  ## Microplastics detected in the marine air from Norway to the high Arctic
@@ -7022,11 +7031,6 @@
  - date_published: 2023-08-18T12:10:26+00:00
  - tags: ['church scandal', 'religion']
 
- ## Deja Vu: The FBI Proves Again It Can’t Be Trusted with Section 702
- - [https://www.eff.org/deeplinks/2023/07/deja-vu-fbi-proves-again-it-cant-be-trusted-section-702](https://www.eff.org/deeplinks/2023/07/deja-vu-fbi-proves-again-it-cant-be-trusted-section-702)
- - date_published: 2023-08-18T15:07:32+00:00
- - tags: ['fbi', 'surveillance']
-
  ## Hawaii wildfires: Maui emergency chief quits after sirens criticism - BBC News
  - [https://www.bbc.co.uk/news/world-us-canada-66540472](https://www.bbc.co.uk/news/world-us-canada-66540472)
  - date_published: 2023-08-18T17:06:51+00:00
@@ -7042,11 +7046,6 @@
  - date_published: 2023-08-18T20:25:09+00:00
  - tags: ['israel']
 
- ## Moderna pays NIAID $400M under new COVID vaccine license
- - [https://www.fiercepharma.com/pharma/moderna-pays-us-government-400m-catch-payment-under-new-covid-19-vaccine-license](https://www.fiercepharma.com/pharma/moderna-pays-us-government-400m-catch-payment-under-new-covid-19-vaccine-license)
- - date_published: 2023-08-18T20:45:10+00:00
- - tags: ['covid', 'moderna', 'nih', 'vaccine']
-
  ## Why the U.S Economy is Collapsing: The Coming Economic Crisis
  - [https://www.youtube.com/watch?v=BvFAt3IK7z8](https://www.youtube.com/watch?v=BvFAt3IK7z8)
  - date_published: 2023-08-19T00:00:00+00:00
@@ -7059,18 +7058,18 @@
 
  ## Cellebrite asks cops to keep its phone hacking tech ‘hush hush’
  - [https://techcrunch.com/2023/08/19/cellebrite-asks-cops-to-keep-its-phone-hacking-tech-hush-hush](https://techcrunch.com/2023/08/19/cellebrite-asks-cops-to-keep-its-phone-hacking-tech-hush-hush)
- - date_published: 2023-08-19T23:09:17+00:00
+ - date_published: 2023-08-19T16:00:48+00:00
  - tags: ['big brother', 'cellebrite', 'privacy', 'surveillance']
+
+ ## How conservatives use ‘verbal jiu-jitsu’ to turn liberals’ language against them | CNN Politics
+ - [https://edition.cnn.com/2023/08/20/politics/conservatives-verbal-combat-blake-cec/index.html](https://edition.cnn.com/2023/08/20/politics/conservatives-verbal-combat-blake-cec/index.html)
+ - date_published: 2023-08-20T10:00:41+00:00
+ - tags: ['language', 'propaganda', 'social engineering', 'woke']
 
  ## Social selling factory in Indonesia
  - [https://twitter.com/LinusEkenstam/status/1693382979291156942](https://twitter.com/LinusEkenstam/status/1693382979291156942)
  - date_published: 2023-08-20T14:24:05+00:00
  - tags: ['social media']
-
- ## How conservatives use ‘verbal jiu-jitsu’ to turn liberals’ language against them | CNN Politics
- - [https://edition.cnn.com/2023/08/20/politics/conservatives-verbal-combat-blake-cec/index.html](https://edition.cnn.com/2023/08/20/politics/conservatives-verbal-combat-blake-cec/index.html)
- - date_published: 2023-08-20T20:50:36+00:00
- - tags: ['language', 'propaganda', 'social engineering', 'woke']
 
  ## The UN is Building a “Digital Army” To Fight What it Calls “Deadly Disinformation”
  - [https://reclaimthenet.org/the-un-is-building-a-digital-army](https://reclaimthenet.org/the-un-is-building-a-digital-army)
@@ -7092,6 +7091,11 @@
  - date_published: 2023-08-24T01:16:30.138756+00:00
  - tags: ['bolt', 'poland', 'privacy', 'surveillance', 'technofeudalism']
 
+ ## Web Scraping for Me, but Not for Thee
+ - [https://blog.ericgoldman.org/archives/2023/08/web-scraping-for-me-but-not-for-thee-guest-blog-post.htm](https://blog.ericgoldman.org/archives/2023/08/web-scraping-for-me-but-not-for-thee-guest-blog-post.htm)
+ - date_published: 2023-08-24T15:23:38+00:00
+ - tags: ['web scraping']
+
  ## LANDrop – Drop any files to any devices on your LAN
  - [https://landrop.app](https://landrop.app)
  - date_published: 2023-08-24T20:03:36.812017+00:00
@@ -7109,7 +7113,7 @@
 
  ## New York Times, CNN and ABC block OpenAI’s GPTBot web crawler from accessing content
  - [https://www.theguardian.com/technology/2023/aug/25/new-york-times-cnn-and-abc-block-openais-gptbot-web-crawler-from-scraping-content](https://www.theguardian.com/technology/2023/aug/25/new-york-times-cnn-and-abc-block-openais-gptbot-web-crawler-from-scraping-content)
- - date_published: 2023-08-25T01:30:29.555238+00:00
+ - date_published: 2023-08-25T00:31:40+00:00
  - tags: ['chatgpt', 'openai']
 
  ## Greece wildfires: 79 people arrested for arson
@@ -7127,10 +7131,10 @@
  - date_published: 2023-08-25T17:18:31+00:00
  - tags: ['pollution']
 
- ## Web Scraping for Me, but Not for Thee
- - [https://blog.ericgoldman.org/archives/2023/08/web-scraping-for-me-but-not-for-thee-guest-blog-post.htm](https://blog.ericgoldman.org/archives/2023/08/web-scraping-for-me-but-not-for-thee-guest-blog-post.htm)
- - date_published: 2023-08-25T19:44:30.396266+00:00
- - tags: ['web scraping']
+ ## Study: Carbon offsets aren’t doing their job, overstate impact
+ - [https://arstechnica.com/science/2023/08/study-carbon-offsets-arent-doing-their-job-overstate-impact](https://arstechnica.com/science/2023/08/study-carbon-offsets-arent-doing-their-job-overstate-impact)
+ - date_published: 2023-08-26T10:43:02+00:00
+ - tags: ['carbon offsets', 'climate change', 'global warming']
 
  ## The "chicken" At McDonald's Isn't Even Half A Chicken: Insiders Reveal The Trick
  - [https://nationworldnews.com/the-chicken-at-mcdonalds-isnt-even-half-a-chicken-insiders-reveal-the-trick](https://nationworldnews.com/the-chicken-at-mcdonalds-isnt-even-half-a-chicken-insiders-reveal-the-trick)
@@ -7151,11 +7155,6 @@
  - [https://pogoda.interia.pl](https://pogoda.interia.pl)
  - date_published: 2023-08-27T18:24:23+00:00
  - tags: ['weather']
-
- ## Study: Carbon offsets aren’t doing their job, overstate impact
- - [https://arstechnica.com/science/2023/08/study-carbon-offsets-arent-doing-their-job-overstate-impact](https://arstechnica.com/science/2023/08/study-carbon-offsets-arent-doing-their-job-overstate-impact)
- - date_published: 2023-08-27T19:22:51.220520+00:00
- - tags: ['carbon offsets', 'climate change', 'global warming']
 
  ## Terms Every Linux User Needs To Know
  - [https://www.youtube.com/watch?v=NujVOhdBhAU](https://www.youtube.com/watch?v=NujVOhdBhAU)
@@ -7179,7 +7178,7 @@
 
  ## Louisiana Man Arrested By SWAT Team For Facebook Joke About COVID-19 Wins Case
  - [https://reclaimthenet.org/louisiana-man-arrested-for-facebook-joke-about-covid-19-wins-case](https://reclaimthenet.org/louisiana-man-arrested-for-facebook-joke-about-covid-19-wins-case)
- - date_published: 2023-08-28T15:47:23.537934+00:00
+ - date_published: 2023-08-28T15:17:38+00:00
  - tags: ['censorship', 'covid', 'facebook']
 
  ## Google’s Surveillance
@@ -7194,7 +7193,7 @@
 
  ## Hawaiian Electric says power lines sparked fire but firefighters fell short
  - [https://www.theguardian.com/us-news/2023/aug/28/maui-wildfires-hawaiian-electric-company](https://www.theguardian.com/us-news/2023/aug/28/maui-wildfires-hawaiian-electric-company)
- - date_published: 2023-08-29T01:36:28.190690+00:00
+ - date_published: 2023-08-29T00:45:53+00:00
  - tags: ['hawaii']
 
  ## Grumpy Website
@@ -7207,6 +7206,11 @@
  - date_published: 2023-08-29T13:48:13+00:00
  - tags: ['billionaires', 'edmond de rothschild', 'rothschild']
 
+ ## Child safety bills are reshaping the internet for everyone
+ - [https://www.theverge.com/2023/8/29/23849375/kosa-child-safety-free-speech-louisiana-utah-parental-consent](https://www.theverge.com/2023/8/29/23849375/kosa-child-safety-free-speech-louisiana-utah-parental-consent)
+ - date_published: 2023-08-29T14:00:00+00:00
+ - tags: ['government control', 'internet', 'safety bill', 'tech control']
+
  ## The Nakba did not start or end in 1948 | Features | Al Jazeera
  - [https://www.aljazeera.com/features/2017/5/23/the-nakba-did-not-start-or-end-in-1948](https://www.aljazeera.com/features/2017/5/23/the-nakba-did-not-start-or-end-in-1948)
  - date_published: 2023-08-29T14:03:35+00:00
@@ -7216,11 +7220,6 @@
  - [https://en.wikipedia.org/wiki/Rothschild_family](https://en.wikipedia.org/wiki/Rothschild_family)
  - date_published: 2023-08-29T14:22:31+00:00
  - tags: ['billionaires', 'rothschild']
-
- ## Child safety bills are reshaping the internet for everyone
- - [https://www.theverge.com/2023/8/29/23849375/kosa-child-safety-free-speech-louisiana-utah-parental-consent](https://www.theverge.com/2023/8/29/23849375/kosa-child-safety-free-speech-louisiana-utah-parental-consent)
- - date_published: 2023-08-29T14:36:58.509838+00:00
- - tags: ['government control', 'internet', 'safety bill', 'tech control']
 
  ## Study: Sweden's 'Laissez Faire' Pandemic Policies Paid Off
  - [https://reason.com/2023/08/29/study-swedens-laissez-faire-pandemic-policies-paid-off](https://reason.com/2023/08/29/study-swedens-laissez-faire-pandemic-policies-paid-off)
@@ -7236,6 +7235,7 @@
  - [https://www.ft.com/content/adf1cbae-4217-4d7d-9271-8bec41a56fb4](https://www.ft.com/content/adf1cbae-4217-4d7d-9271-8bec41a56fb4)
  - date_published: 2023-08-30T01:20:15.336190+00:00
  - tags: ['anonymity', 'big brother', 'corporatocracy', 'india', 'privacy', 'surveillance', 'tech control']
+ - date_dead_since: 2025-07-08T06:08:56.840907+00:00
 
  ## Amiga Systems Programming in 2023
  - [https://www.markround.com/blog/2023/08/30/amiga-systems-programming-in-2023](https://www.markround.com/blog/2023/08/30/amiga-systems-programming-in-2023)
@@ -7327,6 +7327,7 @@
  - [https://gazoche.xyz/posts/boiling-frog](https://gazoche.xyz/posts/boiling-frog)
  - date_published: 2023-09-03T08:49:37+00:00
  - tags: ['corporatocracy', 'technofeudalism']
+ - date_dead_since: 2025-07-08T01:43:57.459181+00:00
 
  ## A developer built a 'propaganda machine' using OpenAI tech to highlight the dangers of mass-produced AI disinformation
  - [https://www.businessinsider.com/developer-creates-ai-disinformation-system-using-openai-2023-9](https://www.businessinsider.com/developer-creates-ai-disinformation-system-using-openai-2023-9)

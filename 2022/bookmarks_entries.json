@@ -6218,6 +6218,7 @@
         "tags": [
             "billionairs",
             "elites",
+            "jean-luc brunel",
             "jeffrey epstein"
         ],
         "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/162A7/production/_123319709_073992341.jpg",
@@ -6246,6 +6247,7 @@
         "source_url": "https://www.dailymail.co.uk/news/article-10530247/Jeffrey-Epsteins-friend-Jean-Luc-Brunel-prison-suicide.html",
         "status_code": 200,
         "tags": [
+            "jean-luc brunel",
             "jeffrey epstein"
         ],
         "thumbnail": "https://i.dailymail.co.uk/1s/2022/02/19/19/54400529-0-image-a-130_1645298901852.jpg",
@@ -18376,6 +18378,35 @@
         "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/15DBB/production/_125813598_c4b976fc-9713-4eb8-8daa-267735e6ddb4.jpg",
         "title": "Georgia Guidestones: 'America's Stonehenge' demolished after blast - BBC News",
         "vote": 0
+    },
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_created": "2025-07-08T06:20:24.448425+00:00",
+        "date_dead_since": null,
+        "date_published": "2022-07-08T06:20:57+00:00",
+        "description": "",
+        "id": 3109957,
+        "language": "en-GB",
+        "link": "https://www.bbc.co.uk/iplayer/episodes/p0b64j3y/house-of-maxwell",
+        "manual_status_code": 0,
+        "page_rating": 33,
+        "page_rating_contents": 81,
+        "page_rating_visits": 2,
+        "page_rating_votes": 6,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "ghislaine maxwell",
+            "jeffrey epstein"
+        ],
+        "thumbnail": "https://ichef.bbci.co.uk/images/ic/1200x675/p0b7kwpd.jpg",
+        "title": "House of Maxwell",
+        "vote": 6
     },
     {
         "age": 0,

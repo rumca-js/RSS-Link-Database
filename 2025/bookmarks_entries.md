@@ -220,15 +220,15 @@
  - date_published: 2025-02-27T22:34:31+00:00
  - tags: ['america', 'civil war']
 
+ ## Technology isn't fun anymore
+ - [https://www.youtube.com/watch?v=P-TANCVoHlc](https://www.youtube.com/watch?v=P-TANCVoHlc)
+ - date_published: 2025-02-28T00:00:00+00:00
+ - tags: ['enshittification', 'technology']
+
  ## Trudeau Government Halts Funds for Unmarked Mass Grave Search After Millions Spent, 110 Churches Vandalised, Zero Bodies Found - The Daily Declaration
  - [https://dailydeclaration.org.au/2025/02/28/canada-trudeau-mass-grave](https://dailydeclaration.org.au/2025/02/28/canada-trudeau-mass-grave)
  - date_published: 2025-02-28T06:25:16+00:00
  - tags: ['christianophobia']
-
- ## Technology isn't fun anymore
- - [https://www.youtube.com/watch?v=P-TANCVoHlc](https://www.youtube.com/watch?v=P-TANCVoHlc)
- - date_published: 2025-02-28T21:14:50+00:00
- - tags: ['enshittification', 'technology']
 
  ## How Google tracks Android device users before they've even opened an app
  - [https://www.theregister.com/2025/03/04/google_android](https://www.theregister.com/2025/03/04/google_android)
@@ -434,6 +434,11 @@
  - date_published: 2025-06-03T20:37:03.792772+00:00
  - tags: ['hate speech', 'islamophobia']
 
+ ## Jeffrey Epstein Invested With Peter Thiel, and His Estate Is Reaping Millions
+ - [https://www.nytimes.com/2025/06/04/business/jeffrey-epstein-peter-thiel-estate.html](https://www.nytimes.com/2025/06/04/business/jeffrey-epstein-peter-thiel-estate.html)
+ - date_published: 2025-06-04T16:35:14+00:00
+ - tags: ['jeffrey epstein', 'peter thiel']
+
  ## Self-hosting your own media considered harmful (updated)
  - [https://www.jeffgeerling.com/blog/2025/self-hosting-your-own-media-considered-harmful-updated](https://www.jeffgeerling.com/blog/2025/self-hosting-your-own-media-considered-harmful-updated)
  - date_published: 2025-06-06T04:19:42+00:00
@@ -487,4 +492,34 @@
  - [https://www.youtube.com/watch?v=B8c15mfFhiY](https://www.youtube.com/watch?v=B8c15mfFhiY)
  - date_published: 2025-07-03T00:00:00+00:00
  - tags: ['blackrock']
+
+ ## This Jeffrey Epstein News is Crazy
+ - [https://www.youtube.com/watch?v=EHL1V5iJkyY](https://www.youtube.com/watch?v=EHL1V5iJkyY)
+ - date_published: 2025-07-07T14:00:22+00:00
+ - tags: ['jeffrey epstein']
+
+ ## new epstein footage is a disaster
+ - [https://www.youtube.com/watch?v=XWRHtp4FeFU](https://www.youtube.com/watch?v=XWRHtp4FeFU)
+ - date_published: 2025-07-07T22:30:00+00:00
+ - tags: ['jeffrey epstein']
+
+ - [https://www.middleeastmonitor.com/20200106-jeffrey-epstein-was-blackmailing-politicians-for-israels-mossad-new-book-claims](https://www.middleeastmonitor.com/20200106-jeffrey-epstein-was-blackmailing-politicians-for-israels-mossad-new-book-claims)
+ - date_published: 2025-07-08T06:16:56.497136+00:00
+ - tags: ['jeffrey epstein']
+ - date_dead_since: 2025-07-08T06:16:56.518580+00:00
+
+ ## Epstein files: ‘It’s a bigger story than the world has ever known’
+ - [https://www.thetimes.com/us/american-politics/article/epstein-client-list-to-be-released-files-xcl267j7k](https://www.thetimes.com/us/american-politics/article/epstein-client-list-to-be-released-files-xcl267j7k)
+ - date_published: 2025-07-08T06:17:59.064944+00:00
+ - tags: ['jeffrey epstein']
+
+ ## Jeffrey Epstein victim’s diary ‘contradicts’ FBI blackmail claims
+ - [https://www.thetimes.com/article/6b098b76-8b43-4f0e-8f9d-b998531f3986](https://www.thetimes.com/article/6b098b76-8b43-4f0e-8f9d-b998531f3986)
+ - date_published: 2025-07-08T06:45:58.170394+00:00
+ - tags: ['jeffrey epstein']
+
+ ## Jeffrey Epstein victim’s diary ‘contradicts’ FBI blackmail claims
+ - [https://web.archive.org/web/20250707230520/https://www.thetimes.com/article/6b098b76-8b43-4f0e-8f9d-b998531f3986](https://web.archive.org/web/20250707230520/https://www.thetimes.com/article/6b098b76-8b43-4f0e-8f9d-b998531f3986)
+ - date_published: 2025-07-08T06:47:01.812859+00:00
+ - tags: ['jeffrey epstein']
 

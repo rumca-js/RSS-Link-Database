@@ -49,6 +49,11 @@
  - date_published: 2020-01-08T12:16:22+00:00
  - tags: ['amazon', 'iot', 'privacy', 'ring', 'tracking']
 
+ ## Jeffrey Epstein: Jail CCTV erased by 'technical errors'
+ - [https://www.bbc.com/news/world-us-canada-51053205](https://www.bbc.com/news/world-us-canada-51053205)
+ - date_published: 2020-01-10T12:10:59+00:00
+ - tags: ['jeffrey epstein']
+
  ## Experience: I campaign for the extinction of the human race
  - [https://www.theguardian.com/lifeandstyle/2020/jan/10/i-campaign-for-the-extinction-of-the-human-race-les-knight](https://www.theguardian.com/lifeandstyle/2020/jan/10/i-campaign-for-the-extinction-of-the-human-race-les-knight)
  - date_published: 2020-01-10T20:43:50+00:00
@@ -515,6 +520,11 @@
  - date_published: 2020-06-03T12:11:41+00:00
  - tags: ['black lives matter', 'blizzard', 'blm', 'censorship', 'china', 'corporatocracy', 'hong kong']
 
+ ## Head of the Snake - Wexner, Maxwell’s, Mossad & Mega Group Exposed
+ - [https://www.youtube.com/watch?v=ADRRgaPwWeo](https://www.youtube.com/watch?v=ADRRgaPwWeo)
+ - date_published: 2020-06-04T00:00:00+00:00
+ - tags: ['jeffrey epstein']
+
  ## The 10 Commitments Companies Must Make to Advance Racial Justice
  - [https://hbr.org/2020/06/the-10-commitments-companies-must-make-to-advance-racial-justice](https://hbr.org/2020/06/the-10-commitments-companies-must-make-to-advance-racial-justice)
  - date_published: 2020-06-04T09:12:09+00:00
@@ -699,6 +709,11 @@
  - [https://noizz.pl/lgbt/norwegia-priorytetowo-przyjmie-uchodzcow-lgbt/zzy65sy](https://noizz.pl/lgbt/norwegia-priorytetowo-przyjmie-uchodzcow-lgbt/zzy65sy)
  - date_published: 2020-07-07T21:00:09+00:00
  - tags: ['immigration', 'inequality', 'lgbt', 'norway', 'the left wing']
+
+ ## Watch Jeffrey Epstein: Filthy Rich | Netflix Official Site
+ - [https://www.netflix.com/title/80224905](https://www.netflix.com/title/80224905)
+ - date_published: 2020-07-08T06:29:00+00:00
+ - tags: ['jeffrey epstein']
 
  ## Climate Change Is An Absolute Nightmare - This Is Why
  - [https://www.youtube.com/watch?v=uqwvf6R1_QY](https://www.youtube.com/watch?v=uqwvf6R1_QY)

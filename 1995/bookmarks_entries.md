@@ -8,6 +8,11 @@
  - date_published: 1995-07-28T11:50:36+00:00
  - tags: ['bill clinton', 'jeffrey epstein']
 
+ ## EPSTEIN MAXWELL HIDDEN DOCUMENTARY
+ - [https://www.youtube.com/watch?v=gRRPPNdPhVQ](https://www.youtube.com/watch?v=gRRPPNdPhVQ)
+ - date_published: 1995-11-29T00:00:00+00:00
+ - tags: ['jean-luc brunel', 'jeffrey epstein']
+
  ## Text of Unabomber Manifesto
  - [https://archive.nytimes.com/www.nytimes.com/library/national/unabom-manifesto-1.html](https://archive.nytimes.com/www.nytimes.com/library/national/unabom-manifesto-1.html)
  - date_published: 1995-12-16T07:22:15+00:00
