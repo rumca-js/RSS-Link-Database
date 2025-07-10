@@ -1924,6 +1924,34 @@
     },
     {
         "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_created": "2025-07-09T08:09:10.385575+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-03-21T06:00:25+00:00",
+        "description": "European Commission has not yet made its legal proposal for the target expected to come by the end of this month",
+        "id": 3119845,
+        "language": "en-GB",
+        "link": "https://www.euractiv.com/section/eet/news/europes-90-climate-target-for-2040-under-pressure-as-delays-add-up",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 86,
+        "page_rating_visits": 2,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "climate change"
+        ],
+        "thumbnail": "https://www.euractiv.com/wp-content/uploads/sites/2/2025/03/11901863-scaled-e1742537684519.jpg",
+        "title": "Europe\u2019s 90% climate target for 2040 under pressure as delays add up - Euractiv",
+        "vote": 0
+    },
+    {
+        "age": null,
         "album": "",
         "author": null,
         "bookmarked": true,
@@ -3089,6 +3117,35 @@
         ],
         "thumbnail": "https://web.archive.org/web/20250707230520im_/https://www.thetimes.com/imageserver/image/%2Fc631fb59-3156-429a-81ef-8a5a4447509e.jpg?crop=2205%2C1241%2C171%2C191&resize=1200",
         "title": "Jeffrey Epstein victim\u2019s diary \u2018contradicts\u2019 FBI blackmail claims",
+        "vote": 0
+    },
+    {
+        "age": null,
+        "album": "",
+        "author": "Upper Echelon",
+        "bookmarked": true,
+        "comments": [],
+        "date_created": "2025-07-09T06:35:40.599842+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-09T05:43:34+00:00",
+        "description": "With the DOJ and FBI officially closing the case on Epstein, the sheer level of arrogance and incompetence being displayed by government officials is now astounding. \n\nFar more intent upon virtue signaling, with PR stunts and deceptive headlines, as opposed to real transparency, the current United States Government is eroding trust at a shocking rate, with nearly every single new piece of evidence raising more questions than answers.\n\nWith even a cursory glance at the evidence, what we are being told, is not even remotely the full story of what happened. \n\n\n\n\n\nHONEYGAIN LINK: https://r.honeygain.me/UPPER98872\n\nVPN DEAL: https://get.surfshark.net/aff_c?offer_id=1448&aff_id=19647\n\n\n\n\nPATREON: https://www.patreon.com/UEG\n\nLOCALS: https://upperechelon.locals.com/support\n\nBecome a channel member: https://www.youtube.com/channel/UChI0q9a-ZcbZh7dAu_-J-hg/join\n\n\n\n\nCOMPLETE CYBER SECURITY PRODUCT LIST: https://linktr.ee/upperechelonsecurity\n\n\n\n\nODYSEE INVITE: https://odysee.com/$/invite/@Upper",
+        "id": 3119476,
+        "language": "en",
+        "link": "https://www.youtube.com/watch?v=y5r0K3AbXvg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 575,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChI0q9a-ZcbZh7dAu_-J-hg",
+        "status_code": 0,
+        "tags": [
+            "jeffrey epstein"
+        ],
+        "thumbnail": "https://i2.ytimg.com/vi/y5r0K3AbXvg/hqdefault.jpg",
+        "title": "The Epstein Disaster of 2025",
         "vote": 0
     }
 ]

@@ -324,6 +324,11 @@
  - date_published: 2025-03-16T10:00:14+00:00
  - tags: ['covid', 'lab leak', 'wuhan']
 
+ ## Europe’s 90% climate target for 2040 under pressure as delays add up - Euractiv
+ - [https://www.euractiv.com/section/eet/news/europes-90-climate-target-for-2040-under-pressure-as-delays-add-up](https://www.euractiv.com/section/eet/news/europes-90-climate-target-for-2040-under-pressure-as-delays-add-up)
+ - date_published: 2025-03-21T06:00:25+00:00
+ - tags: ['climate change']
+
  ## I won't connect my dishwasher to your stupid cloud
  - [https://www.jeffgeerling.com/blog/2025/i-wont-connect-my-dishwasher-your-stupid-cloud](https://www.jeffgeerling.com/blog/2025/i-wont-connect-my-dishwasher-your-stupid-cloud)
  - date_published: 2025-03-24T16:47:52+00:00
@@ -521,5 +526,10 @@
  ## Jeffrey Epstein victim’s diary ‘contradicts’ FBI blackmail claims
  - [https://web.archive.org/web/20250707230520/https://www.thetimes.com/article/6b098b76-8b43-4f0e-8f9d-b998531f3986](https://web.archive.org/web/20250707230520/https://www.thetimes.com/article/6b098b76-8b43-4f0e-8f9d-b998531f3986)
  - date_published: 2025-07-08T06:47:01.812859+00:00
+ - tags: ['jeffrey epstein']
+
+ ## The Epstein Disaster of 2025
+ - [https://www.youtube.com/watch?v=y5r0K3AbXvg](https://www.youtube.com/watch?v=y5r0K3AbXvg)
+ - date_published: 2025-07-09T05:43:34+00:00
  - tags: ['jeffrey epstein']
 

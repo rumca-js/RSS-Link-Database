@@ -3951,6 +3951,11 @@
  - date_published: 2021-12-10T15:01:02+00:00
  - tags: ['log4j', 'vulnerability']
 
+ ## Epstein’s address book can be shown in court, judge rules. (Published 2021)
+ - [https://www.nytimes.com/2021/12/10/nyregion/jeffrey-epstein-black-book.html](https://www.nytimes.com/2021/12/10/nyregion/jeffrey-epstein-black-book.html)
+ - date_published: 2021-12-10T15:52:37+00:00
+ - tags: ['jeffrey epstein']
+
  ## How Cloudflare security responded to log4j2 vulnerability
  - [https://blog.cloudflare.com/how-cloudflare-security-responded-to-log4j2-vulnerability](https://blog.cloudflare.com/how-cloudflare-security-responded-to-log4j2-vulnerability)
  - date_published: 2021-12-10T23:39:00+00:00

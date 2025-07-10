@@ -6648,6 +6648,11 @@
  - date_published: 2023-07-31T23:41:07+00:00
  - tags: ['censorship', 'science is dead']
 
+ ## Arizona driver says he was 'trapped' in hot Tesla after battery died
+ - [https://www.abc15.com/news/local-news/investigations/arizona-driver-says-he-was-trapped-in-hot-tesla-after-battery-died](https://www.abc15.com/news/local-news/investigations/arizona-driver-says-he-was-trapped-in-hot-tesla-after-battery-died)
+ - date_published: 2023-08-01T05:36:22+00:00
+ - tags: ['electric vehicles', 'technofeudalism']
+
  ## "Przemoc osiągnęła swój szczyt". Belgijski policjant o przerażającej brutalności przestępców w Brukseli | Polska Agencja Prasowa SA
  - [https://www.pap.pl/aktualnosci/news%2C1603692%2Cprzemoc-osiagnela-swoj-szczyt-belgijski-policjant-o-przerazajacej](https://www.pap.pl/aktualnosci/news%2C1603692%2Cprzemoc-osiagnela-swoj-szczyt-belgijski-policjant-o-przerazajacej)
  - date_published: 2023-08-01T10:32:06+00:00
@@ -6717,16 +6722,17 @@
  - [https://www.ft.com/content/b9582d62-cc6f-4b76-b0f9-5b37cf15dce4](https://www.ft.com/content/b9582d62-cc6f-4b76-b0f9-5b37cf15dce4)
  - date_published: 2023-08-02T17:16:31+00:00
  - tags: ['climate change', 'esg']
-
- ## Arizona driver says he was 'trapped' in hot Tesla after battery died
- - [https://www.abc15.com/news/local-news/investigations/arizona-driver-says-he-was-trapped-in-hot-tesla-after-battery-died](https://www.abc15.com/news/local-news/investigations/arizona-driver-says-he-was-trapped-in-hot-tesla-after-battery-died)
- - date_published: 2023-08-02T21:52:31+00:00
- - tags: ['electric vehicles', 'technofeudalism']
+ - date_dead_since: 2025-07-09T20:55:59.779683+00:00
 
  ## Patrick Bet-David Deconstructs BlackRock and ESG Ratings
  - [https://www.youtube.com/watch?v=Mvh4o6x3-GQ](https://www.youtube.com/watch?v=Mvh4o6x3-GQ)
  - date_published: 2023-08-03T00:00:00+00:00
  - tags: ['blackrock', 'esg', 'plutocracy', 'vanguard']
+
+ ## The 4 Flops Of 2023 That Cost Disney $1 Billion
+ - [https://www.forbes.com/sites/carolinereid/2023/08/04/the-four-flops-of-2023-that-cost-disney-1-billion](https://www.forbes.com/sites/carolinereid/2023/08/04/the-four-flops-of-2023-that-cost-disney-1-billion)
+ - date_published: 2023-08-04T00:00:00+00:00
+ - tags: ['disney', 'hollywood']
 
  ## Pfizer claims no one was forced to get the Jab
  - [https://www.youtube.com/watch?v=Vm9dfzGt9FI](https://www.youtube.com/watch?v=Vm9dfzGt9FI)
@@ -6754,6 +6760,11 @@
  - date_published: 2023-08-04T09:59:48+00:00
  - tags: ['chiptune']
 
+ ## British gas starts to turn off Hive smart home devices forever
+ - [https://www.t3.com/news/british-gas-starts-to-turn-off-hive-smart-home-devices-forever](https://www.t3.com/news/british-gas-starts-to-turn-off-hive-smart-home-devices-forever)
+ - date_published: 2023-08-04T10:00:39+00:00
+ - tags: ['subscribtion', 'technofeudalism']
+
  ## GitHub - sxiii/keygen-music: Keygen Music Opensource Radio Repository
  - [https://github.com/sxiii/keygen-music](https://github.com/sxiii/keygen-music)
  - date_published: 2023-08-04T10:01:22+00:00
@@ -6779,20 +6790,15 @@
  - date_published: 2023-08-04T18:45:51+00:00
  - tags: ['corporatocracy', 'democracy', 'plutocracy']
 
- ## The 4 Flops Of 2023 That Cost Disney $1 Billion
- - [https://www.forbes.com/sites/carolinereid/2023/08/04/the-four-flops-of-2023-that-cost-disney-1-billion](https://www.forbes.com/sites/carolinereid/2023/08/04/the-four-flops-of-2023-that-cost-disney-1-billion)
- - date_published: 2023-08-04T21:01:03+00:00
- - tags: ['disney', 'hollywood']
+ ## Pfizer Admits Employees Were Given 'Special Batch' of Vaccine, Different To Rest of Population - The People's Voice
+ - [https://thepeoplesvoice.tv/pfizer-admits-employees-were-given-special-batch-of-vaccine-different-to-rest-of-population](https://thepeoplesvoice.tv/pfizer-admits-employees-were-given-special-batch-of-vaccine-different-to-rest-of-population)
+ - date_published: 2023-08-05T13:27:00+00:00
+ - tags: ['inequality', 'pfizer']
 
  ## Just Normal Web Things
  - [https://heather-buchel.com/blog/2023/07/just-normal-web-things](https://heather-buchel.com/blog/2023/07/just-normal-web-things)
  - date_published: 2023-08-05T16:07:40+00:00
  - tags: ['web10', 'web20', 'web30']
-
- ## Pfizer Admits Employees Were Given 'Special Batch' of Vaccine, Different To Rest of Population - The People's Voice
- - [https://thepeoplesvoice.tv/pfizer-admits-employees-were-given-special-batch-of-vaccine-different-to-rest-of-population](https://thepeoplesvoice.tv/pfizer-admits-employees-were-given-special-batch-of-vaccine-different-to-rest-of-population)
- - date_published: 2023-08-05T16:32:06+00:00
- - tags: ['inequality', 'pfizer']
 
  ## I do not use a debugger (2016)
  - [https://lemire.me/blog/2016/06/21/i-do-not-use-a-debugger](https://lemire.me/blog/2016/06/21/i-do-not-use-a-debugger)
@@ -6809,20 +6815,20 @@
  - date_published: 2023-08-06T14:15:37+00:00
  - tags: ['browser extension']
 
+ ## Why I Find Bullshit Work Intolerable
+ - [https://shubhamjain.co/2023/08/06/bullshit-work-intolerable](https://shubhamjain.co/2023/08/06/bullshit-work-intolerable)
+ - date_published: 2023-08-06T16:46:59+00:00
+ - tags: ['management']
+
  ## Father dies in house fire after 'lithium battery pack charging an e-bike sparked blaze'
  - [https://www.dailymail.co.uk/news/article-12378547/Father-dies-house-fire-lithium-battery-pack-charging-e-bike-sparked-blaze.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12378547/Father-dies-house-fire-lithium-battery-pack-charging-e-bike-sparked-blaze.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date_published: 2023-08-06T17:20:29+00:00
  - tags: ['electric vehicles']
 
- ## Why I Find Bullshit Work Intolerable
- - [https://shubhamjain.co/2023/08/06/bullshit-work-intolerable](https://shubhamjain.co/2023/08/06/bullshit-work-intolerable)
- - date_published: 2023-08-06T18:19:25+00:00
- - tags: ['management']
-
- ## British gas starts to turn off Hive smart home devices forever
- - [https://www.t3.com/news/british-gas-starts-to-turn-off-hive-smart-home-devices-forever](https://www.t3.com/news/british-gas-starts-to-turn-off-hive-smart-home-devices-forever)
- - date_published: 2023-08-07T05:25:36+00:00
- - tags: ['subscribtion', 'technofeudalism']
+ ## Low-cost Smartwatch powered by ESP32 module
+ - [https://linuxgizmos.com/low-cost-smartwatch-powered-by-esp32-s3-module](https://linuxgizmos.com/low-cost-smartwatch-powered-by-esp32-s3-module)
+ - date_published: 2023-08-07T18:59:03+00:00
+ - tags: ['project', 'smart watch']
 
  ## "It's Not Natural" - Why Are 20% of Kids Suddenly LGBTQ?
  - [https://www.youtube.com/watch?v=v3z4-lFckZ8](https://www.youtube.com/watch?v=v3z4-lFckZ8)
@@ -6834,11 +6840,6 @@
  - date_published: 2023-08-08T00:15:44+00:00
  - tags: ['artificial intelligence', 'privacy', 'technofeudalism']
  - date_dead_since: 2024-10-03T04:32:45.250972+00:00
-
- ## Low-cost Smartwatch powered by ESP32 module
- - [https://linuxgizmos.com/low-cost-smartwatch-powered-by-esp32-s3-module](https://linuxgizmos.com/low-cost-smartwatch-powered-by-esp32-s3-module)
- - date_published: 2023-08-08T19:35:48+00:00
- - tags: ['project', 'smart watch']
 
  ## Who ACTUALLY runs the world? (Documentary)
  - [https://www.youtube.com/watch?v=OcBynl35Cts](https://www.youtube.com/watch?v=OcBynl35Cts)
@@ -6872,14 +6873,18 @@
 
  ## The Internet is not forever after all: CNET deletes old articles to game Google | Ars Technica
  - [https://arstechnica.com/information-technology/2023/08/the-internet-is-not-forever-after-all-cnet-deletes-old-articles-to-game-google](https://arstechnica.com/information-technology/2023/08/the-internet-is-not-forever-after-all-cnet-deletes-old-articles-to-game-google)
- - date_published: 2023-08-10T19:25:25+00:00
+ - date_published: 2023-08-10T16:49:24+00:00
  - tags: ['fahrenheit 451']
 
  ## Create a self-hosted chat service with your own Matrix server | victoria.dev
  - [https://victoria.dev/blog/create-a-self-hosted-chat-service-with-your-own-matrix-server](https://victoria.dev/blog/create-a-self-hosted-chat-service-with-your-own-matrix-server)
  - date_published: 2023-08-11T06:45:11+00:00
  - tags: ['matrix', 'selfhost']
- - date_dead_since: 2025-03-01T14:30:18.618005+00:00
+
+ ## Microsoft finds vulnerabilities it says could be used to shut down power plants
+ - [https://arstechnica.com/security/2023/08/microsoft-finds-vulnerabilities-it-says-could-be-used-to-shut-down-power-plants](https://arstechnica.com/security/2023/08/microsoft-finds-vulnerabilities-it-says-could-be-used-to-shut-down-power-plants)
+ - date_published: 2023-08-11T20:42:49+00:00
+ - tags: ['vulnerability']
 
  ## How Google Ruined Creativity Forever
  - [https://www.youtube.com/watch?v=pSIHNCNcTiA](https://www.youtube.com/watch?v=pSIHNCNcTiA)
@@ -6916,29 +6921,24 @@
  - date_published: 2023-08-13T06:50:08+00:00
  - tags: ['flat earth']
 
+ ## They Bypass YouTube Video Download Throttling
+ - [https://blog.0x7d0.dev/history/how-they-bypass-youtube-video-download-throttling](https://blog.0x7d0.dev/history/how-they-bypass-youtube-video-download-throttling)
+ - date_published: 2023-08-13T23:07:00+00:00
+ - tags: ['youtube-dl']
+
+ ## Microplastics Found In Human Hearts For First Time, Showing Impact Of Pollution
+ - [https://www.forbes.com/sites/brucelee/2023/08/14/microplastics-found-in-human-hearts-for-first-time-showing-impact-of-pollution](https://www.forbes.com/sites/brucelee/2023/08/14/microplastics-found-in-human-hearts-for-first-time-showing-impact-of-pollution)
+ - date_published: 2023-08-14T00:00:00+00:00
+ - tags: ['microplastic', 'pollution']
+
  ## AI facial recognition led to 8-month pregnant woman's wrongful carjacking arrest in front of kids: lawsuit
  - [https://www.foxnews.com/us/ai-facial-recognition-led-8-month-pregnant-womans-wrongful-carjacking-arrest-front-kids-lawsuit](https://www.foxnews.com/us/ai-facial-recognition-led-8-month-pregnant-womans-wrongful-carjacking-arrest-front-kids-lawsuit)
  - date_published: 2023-08-14T02:00:39+00:00
  - tags: ['artificial intelligence', 'biometrics', 'facial recognition']
 
- ## Microsoft finds vulnerabilities it says could be used to shut down power plants
- - [https://arstechnica.com/security/2023/08/microsoft-finds-vulnerabilities-it-says-could-be-used-to-shut-down-power-plants](https://arstechnica.com/security/2023/08/microsoft-finds-vulnerabilities-it-says-could-be-used-to-shut-down-power-plants)
- - date_published: 2023-08-14T04:00:00+00:00
- - tags: ['vulnerability']
-
- ## They Bypass YouTube Video Download Throttling
- - [https://blog.0x7d0.dev/history/how-they-bypass-youtube-video-download-throttling](https://blog.0x7d0.dev/history/how-they-bypass-youtube-video-download-throttling)
- - date_published: 2023-08-14T04:02:58+00:00
- - tags: ['youtube-dl']
-
- ## Microplastics Found In Human Hearts For First Time, Showing Impact Of Pollution
- - [https://www.forbes.com/sites/brucelee/2023/08/14/microplastics-found-in-human-hearts-for-first-time-showing-impact-of-pollution](https://www.forbes.com/sites/brucelee/2023/08/14/microplastics-found-in-human-hearts-for-first-time-showing-impact-of-pollution)
- - date_published: 2023-08-14T18:40:37+00:00
- - tags: ['microplastic', 'pollution']
-
  ## The Kids Online Safety Act isn’t all right, critics say
  - [https://arstechnica.com/tech-policy/2023/08/the-kids-online-safety-act-isnt-all-right-critics-say](https://arstechnica.com/tech-policy/2023/08/the-kids-online-safety-act-isnt-all-right-critics-say)
- - date_published: 2023-08-14T19:05:06+00:00
+ - date_published: 2023-08-14T11:00:54+00:00
  - tags: ['big brother', 'kids online safety act', 'kosa', 'surveillance', 'tech control']
 
  ## Paedophile priest Gerald Ridsdale sentenced to eighth jail term over historic abuse - ABC News
