@@ -533,3 +533,13 @@
  - date_published: 2025-07-09T05:43:34+00:00
  - tags: ['jeffrey epstein']
 
+ ## the story keeps changing
+ - [https://www.youtube.com/watch?v=Gbf6C5XWK7w](https://www.youtube.com/watch?v=Gbf6C5XWK7w)
+ - date_published: 2025-07-09T21:47:22+00:00
+ - tags: ['jeffrey epstein']
+
+ ## Why is Food SO Expensive Right Now?
+ - [https://www.youtube.com/watch?v=wyo1u9WxUG4](https://www.youtube.com/watch?v=wyo1u9WxUG4)
+ - date_published: 2025-07-10T12:02:01+00:00
+ - tags: ['corporatocracy']
+

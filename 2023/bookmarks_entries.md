@@ -5951,6 +5951,11 @@
  - date_published: 2023-07-09T18:07:41+00:00
  - tags: ['censorship', 'free speech', 'jordan peterson', 'youtube']
 
+ ## Leaked Docs Reveal Reuters and UK Gov Helped Overthrow Egyptian Democracy
+ - [https://orinocotribune.com/leaked-documents-reveal-reuters-helped-overthrow-egyptian-democracy](https://orinocotribune.com/leaked-documents-reveal-reuters-helped-overthrow-egyptian-democracy)
+ - date_published: 2023-07-10T00:13:56+00:00
+ - tags: ['egypt', 'england', 'espionage', 'reuters']
+
  ## Church teaches pupils to learn the 'white supremacy pyramid'
  - [https://www.telegraph.co.uk/news/2023/07/10/you-benefit-from-white-privilege-church-of-england-school](https://www.telegraph.co.uk/news/2023/07/10/you-benefit-from-white-privilege-church-of-england-school)
  - date_published: 2023-07-10T08:21:52+00:00
@@ -6269,15 +6274,15 @@
  - date_published: 2023-07-20T20:08:18.494693+00:00
  - tags: ['piracy']
 
- ## Leaked Docs Reveal Reuters and UK Gov Helped Overthrow Egyptian Democracy
- - [https://orinocotribune.com/leaked-documents-reveal-reuters-helped-overthrow-egyptian-democracy](https://orinocotribune.com/leaked-documents-reveal-reuters-helped-overthrow-egyptian-democracy)
- - date_published: 2023-07-20T22:42:35+00:00
- - tags: ['egypt', 'england', 'espionage', 'reuters']
-
  ## Google engineers want to make ad-blocking (near) impossible
  - [https://stackdiary.com/web-environment-integrity](https://stackdiary.com/web-environment-integrity)
  - date_published: 2023-07-21T06:12:31+00:00
  - tags: ['drm', 'google', 'privacy', 'surveillance', 'web environment integrity']
+
+ ## Google vs. the Open Web
+ - [https://interpeer.io/blog/2023/07/google-vs-the-open-web](https://interpeer.io/blog/2023/07/google-vs-the-open-web)
+ - date_published: 2023-07-21T07:38:27+00:00
+ - tags: ['web environment integrity']
 
  ## Leon Black Agreed to Pay $62.5 Million to Settle Epstein-Related Claims - The New York Times
  - [https://www.nytimes.com/2023/07/21/business/leon-black-settlement-jeffrey-epstein-claims.html](https://www.nytimes.com/2023/07/21/business/leon-black-settlement-jeffrey-epstein-claims.html)
@@ -6360,15 +6365,15 @@
  - date_published: 2023-07-24T00:01:48+00:00
  - tags: ['cooper davis act', 'crypto wars', 'privacy', 'surveillance']
 
+ ## Is global warming behind Greece's wildfires? | The Spectator
+ - [https://www.spectator.co.uk/article/is-global-warming-behind-greeces-wildfires/?utm_medium=email&utm_source=CampaignMonitor_Editorial&utm_campaign=LNCH%20%2020230724%20%20House%20Ads%20%20SM+CID_0776dd8250bddc49e15a401e12e5979d](https://www.spectator.co.uk/article/is-global-warming-behind-greeces-wildfires/?utm_medium=email&utm_source=CampaignMonitor_Editorial&utm_campaign=LNCH%20%2020230724%20%20House%20Ads%20%20SM+CID_0776dd8250bddc49e15a401e12e5979d)
+ - date_published: 2023-07-24T09:10:22+00:00
+ - tags: ['climate change', 'global warming']
+
  ## HN Search powered by Algolia
  - [https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=techcrunch&sort=byPopularity&type=story](https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=techcrunch&sort=byPopularity&type=story)
  - date_published: 2023-07-24T11:40:01+00:00
  - tags: ['hacker news', 'search engines']
-
- ## Is global warming behind Greece's wildfires? | The Spectator
- - [https://www.spectator.co.uk/article/is-global-warming-behind-greeces-wildfires/?utm_medium=email&utm_source=CampaignMonitor_Editorial&utm_campaign=LNCH%20%2020230724%20%20House%20Ads%20%20SM+CID_0776dd8250bddc49e15a401e12e5979d](https://www.spectator.co.uk/article/is-global-warming-behind-greeces-wildfires/?utm_medium=email&utm_source=CampaignMonitor_Editorial&utm_campaign=LNCH%20%2020230724%20%20House%20Ads%20%20SM+CID_0776dd8250bddc49e15a401e12e5979d)
- - date_published: 2023-07-24T16:14:04+00:00
- - tags: ['climate change', 'global warming']
 
  ## The ESRB wants to start using facial scanning technology to check people's ages | PC Gamer
  - [https://www.pcgamer.com/the-esrb-wants-to-start-using-facial-recognition-to-check-peoples-ages](https://www.pcgamer.com/the-esrb-wants-to-start-using-facial-recognition-to-check-peoples-ages)
@@ -6402,7 +6407,7 @@
 
  ## Apple already shipped attestation on the web, and we barely noticed
  - [https://httptoolkit.com/blog/apple-private-access-tokens-attestation](https://httptoolkit.com/blog/apple-private-access-tokens-attestation)
- - date_published: 2023-07-25T14:10:12+00:00
+ - date_published: 2023-07-25T14:00:00+00:00
  - tags: ['apple', 'corporatocracy', 'crypto wars', 'technofeudalism', 'web environment integrity', 'wei']
 
  ## Billionaire Leon Black's $158M payment to Jeffrey Epstein sparks Senate investigation
@@ -6455,11 +6460,6 @@
  - date_published: 2023-07-26T07:13:44+00:00
  - tags: ['selfhost']
 
- ## Google vs. the Open Web
- - [https://interpeer.io/blog/2023/07/google-vs-the-open-web](https://interpeer.io/blog/2023/07/google-vs-the-open-web)
- - date_published: 2023-07-26T09:52:53+00:00
- - tags: ['web environment integrity']
-
  ## Lawsuit alleges billionaire Leon Black raped autistic teen at Epstein's townhouse
  - [https://www.nbcnews.com/news/us-news/lawsuit-accuses-billionaire-leon-black-raping-autistic-teenager-jeffre-rcna96373](https://www.nbcnews.com/news/us-news/lawsuit-accuses-billionaire-leon-black-raping-autistic-teenager-jeffre-rcna96373)
  - date_published: 2023-07-26T11:02:39+00:00
@@ -6475,6 +6475,11 @@
  - date_published: 2023-07-26T12:37:53+00:00
  - tags: ['electric vehicles']
  - date_dead_since: 2025-06-12T15:31:48.685729+00:00
+
+ ## The U.K. Government Is Close to Eroding Encryption Worldwide
+ - [https://www.eff.org/deeplinks/2023/07/uk-government-very-close-eroding-encryption-worldwide](https://www.eff.org/deeplinks/2023/07/uk-government-very-close-eroding-encryption-worldwide)
+ - date_published: 2023-07-26T12:59:05+00:00
+ - tags: ['crypto wars', 'online safety bill', 'privacy', 'surveillance']
 
  ## Why it’s impossible to compete with Google Search
  - [https://www.theverge.com/23802382/search-engine-google-neeva-android](https://www.theverge.com/23802382/search-engine-google-neeva-android)
@@ -6503,7 +6508,7 @@
 
  ## Climate Worries Are More Exhausting Than the Heat Itself | Opinion
  - [https://www.newsweek.com/climate-worries-are-more-exhausting-heat-itself-opinion-1815635](https://www.newsweek.com/climate-worries-are-more-exhausting-heat-itself-opinion-1815635)
- - date_published: 2023-07-27T10:00:01+00:00
+ - date_published: 2023-07-27T06:00:01+00:00
  - tags: ['climate change', 'tend your garden']
 
  ## Deja Vu: The FBI Proves Again It Can’t Be Trusted with Section 702
@@ -6515,6 +6520,11 @@
  - [https://www.theregister.com/2023/07/27/google_web_environment_integrity](https://www.theregister.com/2023/07/27/google_web_environment_integrity)
  - date_published: 2023-07-27T13:22:41+00:00
  - tags: ['google', 'web environment integrity']
+
+ ## Instead of obtaining a warrant, the NSA would like to keep buying your data
+ - [https://www.wired.com/story/nsa-ndaa-lobbying-privacy-loophole](https://www.wired.com/story/nsa-ndaa-lobbying-privacy-loophole)
+ - date_published: 2023-07-27T20:31:24+00:00
+ - tags: ['espionage', 'manufacturing consent', 'surveillance']
 
  ## Quick!
  - [https://www.youtube.com/watch?v=OEtV3QlPUaU](https://www.youtube.com/watch?v=OEtV3QlPUaU)
@@ -6568,11 +6578,6 @@
  - date_published: 2023-07-28T19:53:52+00:00
  - tags: ['church scandal', 'religion']
 
- ## The U.K. Government Is Close to Eroding Encryption Worldwide
- - [https://www.eff.org/deeplinks/2023/07/uk-government-very-close-eroding-encryption-worldwide](https://www.eff.org/deeplinks/2023/07/uk-government-very-close-eroding-encryption-worldwide)
- - date_published: 2023-07-28T21:01:41+00:00
- - tags: ['crypto wars', 'online safety bill', 'privacy', 'surveillance']
-
  ## Ring is having a major outage
  - [https://status.ring.com](https://status.ring.com)
  - date_published: 2023-07-28T22:05:32+00:00
@@ -6592,11 +6597,6 @@
  - [https://koshka.love/babel/irc-forever.html](https://koshka.love/babel/irc-forever.html)
  - date_published: 2023-07-29T10:12:18+00:00
  - tags: ['irc', 'selfhost']
-
- ## Instead of obtaining a warrant, the NSA would like to keep buying your data
- - [https://www.wired.com/story/nsa-ndaa-lobbying-privacy-loophole](https://www.wired.com/story/nsa-ndaa-lobbying-privacy-loophole)
- - date_published: 2023-07-29T11:38:43+00:00
- - tags: ['espionage', 'manufacturing consent', 'surveillance']
 
  ## Make the Web Great Again
  - [https://koshka.love/mwwwga.html](https://koshka.love/mwwwga.html)
@@ -6623,6 +6623,11 @@
  - date_published: 2023-07-30T19:49:15+00:00
  - tags: ['history']
 
+ ## MacBook Pro 2021 Has ‘Reduced Useability’ Because Of New Apple Software Lockdown
+ - [https://www.forbes.com/sites/jaymcgregor/2023/07/31/macbook-pro-2021--2022-have-reduced-useability-because-of-new-software-lockdown](https://www.forbes.com/sites/jaymcgregor/2023/07/31/macbook-pro-2021--2022-have-reduced-useability-because-of-new-software-lockdown)
+ - date_published: 2023-07-31T00:00:00+00:00
+ - tags: ['right to repair']
+
  ## Massive Corruption in Reconstruction: From MILLIONS in Corruption to President Office
  - [https://www.youtube.com/watch?v=2cNK1DdbK34](https://www.youtube.com/watch?v=2cNK1DdbK34)
  - date_published: 2023-07-31T00:00:00+00:00
@@ -6630,13 +6635,8 @@
 
  ## Meta Forced to Reveal Anonymous Facebook User's Identity Over Defamatory Posts
  - [https://stackdiary.com/meta-forced-to-reveal-anonymous-facebook-users-identity](https://stackdiary.com/meta-forced-to-reveal-anonymous-facebook-users-identity)
- - date_published: 2023-07-31T13:55:11+00:00
+ - date_published: 2023-07-31T09:35:49+00:00
  - tags: ['anonymity', 'meta', 'moderation', 'privacy']
-
- ## MacBook Pro 2021 Has ‘Reduced Useability’ Because Of New Apple Software Lockdown
- - [https://www.forbes.com/sites/jaymcgregor/2023/07/31/macbook-pro-2021--2022-have-reduced-useability-because-of-new-software-lockdown](https://www.forbes.com/sites/jaymcgregor/2023/07/31/macbook-pro-2021--2022-have-reduced-useability-because-of-new-software-lockdown)
- - date_published: 2023-07-31T16:13:07+00:00
- - tags: ['right to repair']
 
  ## The Coming Cinema Apocalypse (Is Here) - by Ted Hope
  - [https://tedhope.substack.com/p/the-coming-cinema-apocalypse](https://tedhope.substack.com/p/the-coming-cinema-apocalypse)
@@ -6647,6 +6647,11 @@
  - [https://reclaimthenet.org/tiktok-bans-rockstar-ronnie-radke](https://reclaimthenet.org/tiktok-bans-rockstar-ronnie-radke)
  - date_published: 2023-07-31T23:41:07+00:00
  - tags: ['censorship', 'science is dead']
+
+ ## I'm Betting on HTML
+ - [https://catskull.net/html.html](https://catskull.net/html.html)
+ - date_published: 2023-08-01T00:00:00+00:00
+ - tags: ['selfhost', 'web10']
 
  ## Arizona driver says he was 'trapped' in hot Tesla after battery died
  - [https://www.abc15.com/news/local-news/investigations/arizona-driver-says-he-was-trapped-in-hot-tesla-after-battery-died](https://www.abc15.com/news/local-news/investigations/arizona-driver-says-he-was-trapped-in-hot-tesla-after-battery-died)
@@ -6665,18 +6670,13 @@
 
  ## JPMorgan handled Jeffrey Epstein's $1.1M in payments to 'women and girls' AFTER the bank said it shut his accounts because he was a convicted sex offender, lawsuit claims
  - [https://www.dailymail.co.uk/news/article-12361315/JPMorgan-handled-Jeffrey-Epsteins-1-1M-payments-women-girls-bank-said-shut-accounts-convicted-sex-offender-lawsuit-claims.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12361315/JPMorgan-handled-Jeffrey-Epsteins-1-1M-payments-women-girls-bank-said-shut-accounts-convicted-sex-offender-lawsuit-claims.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - date_published: 2023-08-01T17:21:46+00:00
+ - date_published: 2023-08-01T17:21:22+00:00
  - tags: ['jeffrey epstein', 'jpmorgan']
 
  ## Transform Your Android Device into a Linux Desktop
  - [https://mrs-t.medium.com/transform-your-android-device-into-a-linux-desktop-110a3d084ac6](https://mrs-t.medium.com/transform-your-android-device-into-a-linux-desktop-110a3d084ac6)
  - date_published: 2023-08-01T21:24:08+00:00
  - tags: ['android', 'linux']
-
- ## I'm Betting on HTML
- - [https://catskull.net/html.html](https://catskull.net/html.html)
- - date_published: 2023-08-02T03:31:57+00:00
- - tags: ['selfhost', 'web10']
 
  ## Stopping at 90%
  - [https://austinhenley.com/blog/90percent.html](https://austinhenley.com/blog/90percent.html)
@@ -7190,6 +7190,11 @@
  - [https://www.youtube.com/watch?v=Qt2AuVQKpq0](https://www.youtube.com/watch?v=Qt2AuVQKpq0)
  - date_published: 2023-08-29T00:00:00+00:00
  - tags: ['canada', 'the left wing', 'woke']
+
+ ## This Jeffrey Epstein Story Will Send Chills Down Your Spine - Eric Weinstein
+ - [https://www.youtube.com/watch?v=VaoGl-soL1g](https://www.youtube.com/watch?v=VaoGl-soL1g)
+ - date_published: 2023-08-29T00:00:00+00:00
+ - tags: ['jeffrey epstein']
 
  ## Hawaiian Electric says power lines sparked fire but firefighters fell short
  - [https://www.theguardian.com/us-news/2023/aug/28/maui-wildfires-hawaiian-electric-company](https://www.theguardian.com/us-news/2023/aug/28/maui-wildfires-hawaiian-electric-company)
@@ -8522,7 +8527,7 @@
 
  ## Network States – Revolutionary Idea To Potential New Asset Class
  - [https://www.forbes.com/sites/digital-assets/2023/12/20/network-states--revolutionary-idea-to-potential-new-asset-class](https://www.forbes.com/sites/digital-assets/2023/12/20/network-states--revolutionary-idea-to-potential-new-asset-class)
- - date_published: 2023-12-20T01:00:00+00:00
+ - date_published: 2023-12-20T00:00:00+00:00
  - tags: ['network states']
 
  ## US judge orders names of more than 170 Jeffrey Epstein associates to be released

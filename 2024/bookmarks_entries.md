@@ -1046,7 +1046,7 @@
 
  ## Project 2025 co-author discusses work in hidden-camera video
  - [https://www.youtube.com/watch?v=T8G8yBwF_tQ](https://www.youtube.com/watch?v=T8G8yBwF_tQ)
- - date_published: 2024-08-15T02:00:00+00:00
+ - date_published: 2024-08-15T00:00:00+00:00
  - tags: ['donald trump', 'network states', 'project 2025']
 
  ## Democrats using Google search ads to falsify news headlines extends past Harris campaign
@@ -1357,7 +1357,7 @@
 
  ## DARK GOTHIC MAGA: How Tech Billionaires Plan to Destroy America
  - [https://www.youtube.com/watch?v=5RpPTRcz1no](https://www.youtube.com/watch?v=5RpPTRcz1no)
- - date_published: 2024-11-14T01:00:00+00:00
+ - date_published: 2024-11-14T00:00:00+00:00
  - tags: ['donald trump', 'elon musk', 'network states']
 
  ## ‘Positively dystopian’: Florida judge blocks DeSantis’ anti-woke law for colleges
@@ -1373,6 +1373,11 @@
  - [https://grayduck.mn/2024/11/21/handling-cookies-is-a-minefield](https://grayduck.mn/2024/11/21/handling-cookies-is-a-minefield)
  - date_published: 2024-11-21T17:28:11+00:00
  - tags: ['cookies', 'html']
+
+ ## We Tracked Every Visitor to Epstein Island | WIRED
+ - [https://www.youtube.com/watch?v=PjPHq-Ez0nc](https://www.youtube.com/watch?v=PjPHq-Ez0nc)
+ - date_published: 2024-11-22T00:00:00+00:00
+ - tags: ['jeffrey epstein']
 
  ## 'FYI. A Warrant Isn’t Needed': Secret Service Says You Agreed To Be Tracked With Location Data
  - [https://www.404media.co/email/f459caa7-1a58-4f31-a9ba-3cb53a5046a4](https://www.404media.co/email/f459caa7-1a58-4f31-a9ba-3cb53a5046a4)
