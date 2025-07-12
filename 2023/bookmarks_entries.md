@@ -5279,6 +5279,11 @@
  - date_published: 2023-06-13T20:45:18+00:00
  - tags: ['reddit']
 
+ ## People who are gay, lesbian or bi have more mental health and substance use problems, survey finds | CNN
+ - [https://edition.cnn.com/2023/06/13/health/lgb-people-mental-health-substance-use/index.html](https://edition.cnn.com/2023/06/13/health/lgb-people-mental-health-substance-use/index.html)
+ - date_published: 2023-06-13T22:22:24+00:00
+ - tags: ['lgbt', 'the left wing']
+
  ## Google risks forced breakup of ad business as EU alleges shocking misconduct | Ars Technica
  - [https://arstechnica.com/tech-policy/2023/06/google-may-soon-be-ordered-to-break-up-its-lucrative-ad-business-eu-warns](https://arstechnica.com/tech-policy/2023/06/google-may-soon-be-ordered-to-break-up-its-lucrative-ad-business-eu-warns)
  - date_published: 2023-06-14T08:06:26+00:00
@@ -5725,6 +5730,11 @@
  - date_published: 2023-06-30T20:01:37+00:00
  - tags: ['ad business', 'youtube']
 
+ ## Chinese Group Storm-0558 Hacked European Govt Emails, Microsoft
+ - [https://www.hackread.com/chinese-group-storm-0558-hacked-europe-microsoft](https://www.hackread.com/chinese-group-storm-0558-hacked-europe-microsoft)
+ - date_published: 2023-07-01T08:59:00+00:00
+ - tags: ['china', 'espionage', 'hackers', 'microsoft', 'storm-0558', 'vulnerability']
+
  ## Reddit And Twitter: The New Giants Of Anti-Social Media
  - [https://www.forbes.com/sites/barrycollins/2023/07/01/reddit-and-twitter-the-new-giants-of-anti-social-media](https://www.forbes.com/sites/barrycollins/2023/07/01/reddit-and-twitter-the-new-giants-of-anti-social-media)
  - date_published: 2023-07-01T09:06:45+00:00
@@ -5961,6 +5971,11 @@
  - date_published: 2023-07-10T08:21:52+00:00
  - tags: ['indoctrination', 'racism']
 
+ ## Social media riot shutdowns possible under EU content law, top official says
+ - [https://www.politico.eu/article/social-media-riot-shutdowns-possible-under-eu-content-law-breton-says](https://www.politico.eu/article/social-media-riot-shutdowns-possible-under-eu-content-law-breton-says)
+ - date_published: 2023-07-10T09:07:33+00:00
+ - tags: ['censorship', 'tech control', 'technofeudalism']
+
  ## Spadek napiÄcia z prÄdu, prÄd jednofazowy i trÃ³jfazowy, dÅugoÅÄ, przekrÃ³j lub Årednica przewodu- Calcoolator.pl - Kalkulator online.
  - [https://calcoolator.pl/spadek_napiecia_z_pradu_jednofazowy_trojfazowy.html](https://calcoolator.pl/spadek_napiecia_z_pradu_jednofazowy_trojfazowy.html)
  - date_published: 2023-07-10T09:40:46+00:00
@@ -6006,20 +6021,20 @@
  - date_published: 2023-07-12T10:03:05+00:00
  - tags: ['artificial intelligence', 'google']
 
- ## Chinese Group Storm-0558 Hacked European Govt Emails, Microsoft
- - [https://www.hackread.com/chinese-group-storm-0558-hacked-europe-microsoft](https://www.hackread.com/chinese-group-storm-0558-hacked-europe-microsoft)
- - date_published: 2023-07-12T18:15:35+00:00
- - tags: ['china', 'espionage', 'hackers', 'microsoft', 'storm-0558', 'vulnerability']
-
  ## Tax preparers that shared private data with Meta, Google could be fined billions
  - [https://arstechnica.com/tech-policy/2023/07/meta-wont-say-what-happened-to-taxpayer-data-it-may-have-illegally-collected](https://arstechnica.com/tech-policy/2023/07/meta-wont-say-what-happened-to-taxpayer-data-it-may-have-illegally-collected)
- - date_published: 2023-07-12T21:07:50+00:00
+ - date_published: 2023-07-12T20:36:01+00:00
  - tags: ['cloud computing', 'privacy']
 
  ## LG to offer subscriptions for appliances and televisions • The Register
  - [https://www.theregister.com/2023/07/13/lg_smart_life_solutions_strategy](https://www.theregister.com/2023/07/13/lg_smart_life_solutions_strategy)
  - date_published: 2023-07-13T10:06:16+00:00
  - tags: ['lg', 'subscription', 'technofeudalism']
+
+ ## Voice Actor Turns Instagram's Terms of Service into 51-Minute Sleep Aid
+ - [https://www.vice.com/en/article/7kxkgx/voice-actor-turns-instagrams-terms-of-service-into-51-minute-sleep-aid](https://www.vice.com/en/article/7kxkgx/voice-actor-turns-instagrams-terms-of-service-into-51-minute-sleep-aid)
+ - date_published: 2023-07-13T13:50:23+00:00
+ - tags: ['corporatocracy', 'technofeudalism']
 
  ## NYU hosts anti-racism workshop where White parents reflect on 'internalized White superiority'
  - [https://www.foxnews.com/media/nyu-hosts-anti-racism-workshop-white-parents-reflect-internalized-white-superiority](https://www.foxnews.com/media/nyu-hosts-anti-racism-workshop-white-parents-reflect-internalized-white-superiority)
@@ -6036,19 +6051,9 @@
  - date_published: 2023-07-14T00:00:00+00:00
  - tags: ['crime', 'racism', 'science is dead']
 
- ## Social media riot shutdowns possible under EU content law, top official says
- - [https://www.politico.eu/article/social-media-riot-shutdowns-possible-under-eu-content-law-breton-says](https://www.politico.eu/article/social-media-riot-shutdowns-possible-under-eu-content-law-breton-says)
- - date_published: 2023-07-14T05:35:55+00:00
- - tags: ['censorship', 'tech control', 'technofeudalism']
-
- ## Voice Actor Turns Instagram's Terms of Service into 51-Minute Sleep Aid
- - [https://www.vice.com/en/article/7kxkgx/voice-actor-turns-instagrams-terms-of-service-into-51-minute-sleep-aid](https://www.vice.com/en/article/7kxkgx/voice-actor-turns-instagrams-terms-of-service-into-51-minute-sleep-aid)
- - date_published: 2023-07-14T11:57:37+00:00
- - tags: ['corporatocracy', 'technofeudalism']
-
  ## Police Department Uses Clearview AI for a Year, to the Surprise of Its Oversight
  - [https://www.techdirt.com/2023/07/13/an-indiana-police-department-has-been-using-clearview-ai-for-a-year-much-to-the-surprise-of-its-oversight](https://www.techdirt.com/2023/07/13/an-indiana-police-department-has-been-using-clearview-ai-for-a-year-much-to-the-surprise-of-its-oversight)
- - date_published: 2023-07-14T13:23:43+00:00
+ - date_published: 2023-07-14T02:38:00+00:00
  - tags: ['clearview ai']
 
  ## Pulling my site from Google over AI training
@@ -6066,6 +6071,11 @@
  - date_published: 2023-07-15T02:21:51+00:00
  - tags: ['electric vehicles']
  - date_dead_since: 2025-02-02T14:54:37.653368+00:00
+
+ ## Kamala Harris says US must ‘reduce population’ to fight climate change in latest gaffe
+ - [https://nypost.com/2023/07/15/kamala-harris-says-us-must-reduce-population-to-fight-climate-change-in-latest-gaffe](https://nypost.com/2023/07/15/kamala-harris-says-us-must-reduce-population-to-fight-climate-change-in-latest-gaffe)
+ - date_published: 2023-07-15T04:47:21+00:00
+ - tags: ['climate change', 'depopulation']
 
  ## How Israel weaponises museums to erase Palestinian existence
  - [https://www.aljazeera.com/opinions/2023/7/15/how-israel-weaponises-museums-to-erase-palestinian-existence](https://www.aljazeera.com/opinions/2023/7/15/how-israel-weaponises-museums-to-erase-palestinian-existence)
@@ -6086,16 +6096,6 @@
  - [https://thepeoplesvoice.tv/nobel-prize-winning-scientist-climate-crisis-is-a-hoax-to-depopulate-the-planet](https://thepeoplesvoice.tv/nobel-prize-winning-scientist-climate-crisis-is-a-hoax-to-depopulate-the-planet)
  - date_published: 2023-07-15T07:11:18+00:00
  - tags: ['climate change', 'depopulation', 'dr. john clauser']
-
- ## Kamala Harris says US must ‘reduce population’ to fight climate change in latest gaffe
- - [https://nypost.com/2023/07/15/kamala-harris-says-us-must-reduce-population-to-fight-climate-change-in-latest-gaffe](https://nypost.com/2023/07/15/kamala-harris-says-us-must-reduce-population-to-fight-climate-change-in-latest-gaffe)
- - date_published: 2023-07-15T07:16:00+00:00
- - tags: ['climate change', 'depopulation']
-
- ## People who are gay, lesbian or bi have more mental health and substance use problems, survey finds | CNN
- - [https://edition.cnn.com/2023/06/13/health/lgb-people-mental-health-substance-use/index.html](https://edition.cnn.com/2023/06/13/health/lgb-people-mental-health-substance-use/index.html)
- - date_published: 2023-07-15T07:38:34+00:00
- - tags: ['lgbt', 'the left wing']
 
  ## GitHub - nicbou/ursus: Static site generator for All About Berlin
  - [https://github.com/nicbou/ursus](https://github.com/nicbou/ursus)
@@ -6155,23 +6155,28 @@
 
  ## This AI Watches Millions Of Cars Daily And Tells Cops If You’re Driving Like A Criminal
  - [https://www.forbes.com/sites/thomasbrewster/2023/07/17/license-plate-reader-ai-criminal](https://www.forbes.com/sites/thomasbrewster/2023/07/17/license-plate-reader-ai-criminal)
- - date_published: 2023-07-17T10:30:00+00:00
+ - date_published: 2023-07-17T00:00:00+00:00
  - tags: ['artificial intelligence', 'electric vehicles', 'privacy', 'surveillance']
+
+ ## AI is not ready for large scale adoption but will be biggest bubble of all time, says Stability AI CEO
+ - [https://www.coinspeaker.com/ai-adoption-bubble-stability-ai](https://www.coinspeaker.com/ai-adoption-bubble-stability-ai)
+ - date_published: 2023-07-17T10:14:37+00:00
+ - tags: ['artificial intelligence']
 
  ## Non-Binary Biden Official Was Traveling on Taxpayer Dime to Secure Nuclear Facility When Luggage Heist Occurred | National Review
  - [https://www.nationalreview.com/news/non-binary-biden-official-was-traveling-on-taxpayer-dime-to-secure-nuclear-facility-when-luggage-heist-occurred](https://www.nationalreview.com/news/non-binary-biden-official-was-traveling-on-taxpayer-dime-to-secure-nuclear-facility-when-luggage-heist-occurred)
  - date_published: 2023-07-17T11:37:46+00:00
  - tags: ['lgbt', 'sam brinton', 'the left wing']
 
+ ## German media self-censors about foreign origins of 5 'Germans' arrested for rape of young girl in Mallorca, and this trend will only get worse
+ - [https://rmx.news/crime/german-media-self-censors-about-foreign-origins-of-5-germans-arrested-for-rape-of-young-girl-in-mallorca-and-this-trend-will-only-get-worse](https://rmx.news/crime/german-media-self-censors-about-foreign-origins-of-5-germans-arrested-for-rape-of-young-girl-in-mallorca-and-this-trend-will-only-get-worse)
+ - date_published: 2023-07-17T13:23:45+00:00
+ - tags: ['immigration']
+
  ## Europe should cap energy use of richest to stay within carbon budget, study says
  - [https://www.theguardian.com/environment/2023/jul/17/europe-cap-luxury-energy-use-emissions-carbon-budget-targets-study](https://www.theguardian.com/environment/2023/jul/17/europe-cap-luxury-energy-use-emissions-carbon-budget-targets-study)
  - date_published: 2023-07-17T15:00:30+00:00
  - tags: ['billionaires', 'climate change', 'global warming']
-
- ## German media self-censors about foreign origins of 5 'Germans' arrested for rape of young girl in Mallorca, and this trend will only get worse
- - [https://rmx.news/crime/german-media-self-censors-about-foreign-origins-of-5-germans-arrested-for-rape-of-young-girl-in-mallorca-and-this-trend-will-only-get-worse](https://rmx.news/crime/german-media-self-censors-about-foreign-origins-of-5-germans-arrested-for-rape-of-young-girl-in-mallorca-and-this-trend-will-only-get-worse)
- - date_published: 2023-07-17T15:21:28+00:00
- - tags: ['immigration']
 
  ## Palantir Technologies - Wikipedia
  - [https://en.m.wikipedia.org/wiki/Palantir_Technologies](https://en.m.wikipedia.org/wiki/Palantir_Technologies)
@@ -6184,20 +6189,15 @@
  - tags: ['meta', 'privacy']
  - date_dead_since: 2024-10-04T08:52:07.484197+00:00
 
- ## AI is not ready for large scale adoption but will be biggest bubble of all time, says Stability AI CEO
- - [https://www.coinspeaker.com/ai-adoption-bubble-stability-ai](https://www.coinspeaker.com/ai-adoption-bubble-stability-ai)
- - date_published: 2023-07-18T04:00:00+00:00
+ ## G/O media will make more AI-generated stories despite critics
+ - [https://www.vox.com/technology/2023/7/18/23798164/gizmodo-ai-g-o-bot-stories-jalopnik-av-club-peter-kafka-media-column](https://www.vox.com/technology/2023/7/18/23798164/gizmodo-ai-g-o-bot-stories-jalopnik-av-club-peter-kafka-media-column)
+ - date_published: 2023-07-18T10:30:00+00:00
  - tags: ['artificial intelligence']
 
  ## Amazon’s in-van surveillance footage of delivery drivers is leaking online
  - [https://www.theverge.com/2023/7/18/23798611/amazon-van-driver-surveillance-camera-footage-leak-reddit](https://www.theverge.com/2023/7/18/23798611/amazon-van-driver-surveillance-camera-footage-leak-reddit)
  - date_published: 2023-07-18T13:01:57+00:00
  - tags: ['amazon', 'data leak', 'privacy', 'surveillance']
-
- ## G/O media will make more AI-generated stories despite critics
- - [https://www.vox.com/technology/2023/7/18/23798164/gizmodo-ai-g-o-bot-stories-jalopnik-av-club-peter-kafka-media-column](https://www.vox.com/technology/2023/7/18/23798164/gizmodo-ai-g-o-bot-stories-jalopnik-av-club-peter-kafka-media-column)
- - date_published: 2023-07-18T14:53:10+00:00
- - tags: ['artificial intelligence']
 
  ## Nigel Farage’s Coutts account closed as bank felt he did not ‘align with their values’
  - [https://www.telegraph.co.uk/news/2023/07/18/nigel-farage-coutts-bank-account-closed-align-with-values](https://www.telegraph.co.uk/news/2023/07/18/nigel-farage-coutts-bank-account-closed-align-with-values)
@@ -7575,7 +7575,7 @@
 
  ## CIA tried to pay off analysts to bury findings that COVID lab leak was likely: whistleblower
  - [https://nypost.com/2023/09/12/cia-tried-to-pay-off-analysts-to-bury-covid-lab-leak-findings-whistleblower](https://nypost.com/2023/09/12/cia-tried-to-pay-off-analysts-to-bury-covid-lab-leak-findings-whistleblower)
- - date_published: 2023-09-12T16:38:09+00:00
+ - date_published: 2023-09-12T14:38:09+00:00
  - tags: ['cia', 'covid', 'lab leak', 'wuhan']
 
  ## Pegasus Spyware Scandals Highlight Global Dangers As Activists Demand Action
@@ -8577,7 +8577,7 @@
 
  ## Chinese Hackers Deliver Malware to Barracuda Email Security Appliances via New Zero-Day
  - [https://www.securityweek.com/chinese-hackers-deliver-malware-to-barracuda-email-security-appliances-via-new-zero-day](https://www.securityweek.com/chinese-hackers-deliver-malware-to-barracuda-email-security-appliances-via-new-zero-day)
- - date_published: 2023-12-27T12:05:30+00:00
+ - date_published: 2023-12-27T06:05:35+00:00
  - tags: ['china', 'hackers', 'vulnerability']
 
  ## What comes after open source? Bruce Perens is working on it
