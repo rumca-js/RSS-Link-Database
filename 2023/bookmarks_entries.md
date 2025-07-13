@@ -2047,6 +2047,11 @@
  - date_published: 2023-02-22T12:05:44+00:00
  - tags: ['canonical', 'ubuntu']
 
+ ## Ready, Set, Launch: Creating a Static Site With GitHub Pages
+ - [https://kinsta.com/blog/github-pages](https://kinsta.com/blog/github-pages)
+ - date_published: 2023-02-22T19:00:15+00:00
+ - tags: ['github', 'selfhost']
+
  ## Covid 19 Mandates: Silencing the Opposition | Dr. Jayanta Bhattacharya | EP 334
  - [https://www.youtube.com/watch?v=pr0LkPMZ-qc](https://www.youtube.com/watch?v=pr0LkPMZ-qc)
  - date_published: 2023-02-23T00:00:00+00:00
@@ -5790,6 +5795,11 @@
  - date_published: 2023-07-03T13:25:43+00:00
  - tags: ['climate change', 'green washing']
 
+ ## The Hypocrisy of Mandatory Diversity Statements
+ - [https://www.theatlantic.com/ideas/archive/2023/07/hypocrisy-mandatory-diversity-statements/674611](https://www.theatlantic.com/ideas/archive/2023/07/hypocrisy-mandatory-diversity-statements/674611)
+ - date_published: 2023-07-03T19:58:56+00:00
+ - tags: ['hypocrisy', 'racism', 'sexism', 'the left wing']
+
  ## Influencers Are Modern Day Cult Leaders - Content Capo
  - [https://www.youtube.com/watch?v=geZSuEYfebc](https://www.youtube.com/watch?v=geZSuEYfebc)
  - date_published: 2023-07-04T00:00:00+00:00
@@ -5799,11 +5809,6 @@
  - [https://nypost.com/2023/07/04/kimbrady-carriker-ided-as-philadelphia-gunman-accused-of-killing-5](https://nypost.com/2023/07/04/kimbrady-carriker-ided-as-philadelphia-gunman-accused-of-killing-5)
  - date_published: 2023-07-04T10:57:07+00:00
  - tags: ['black lives matter', 'inequality', 'the left wing']
-
- ## The Hypocrisy of Mandatory Diversity Statements
- - [https://www.theatlantic.com/ideas/archive/2023/07/hypocrisy-mandatory-diversity-statements/674611](https://www.theatlantic.com/ideas/archive/2023/07/hypocrisy-mandatory-diversity-statements/674611)
- - date_published: 2023-07-04T11:36:59+00:00
- - tags: ['hypocrisy', 'racism', 'sexism', 'the left wing']
 
  ## How to build a website without frameworks and tons of libraries
  - [https://www.kodingkitty.com/blog/how-to-build-a-website](https://www.kodingkitty.com/blog/how-to-build-a-website)
@@ -5819,11 +5824,6 @@
  - [https://www.bloomberg.com/news/articles/2023-07-04/world-records-hottest-day-ever-on-july-3](https://www.bloomberg.com/news/articles/2023-07-04/world-records-hottest-day-ever-on-july-3)
  - date_published: 2023-07-05T04:20:21+00:00
  - tags: ['climate change', 'global warming']
-
- ## Ready, Set, Launch: Creating a Static Site With GitHub Pages
- - [https://kinsta.com/blog/github-pages](https://kinsta.com/blog/github-pages)
- - date_published: 2023-07-05T09:04:45+00:00
- - tags: ['github', 'selfhost']
 
  ## These Cruise Ships Emit More Air Pollution Than All the Cars in Europe
  - [https://www.businessinsider.com/cruise-ship-air-pollution-carnival-cars-europe-study-2023-6?IR=T](https://www.businessinsider.com/cruise-ship-air-pollution-carnival-cars-europe-study-2023-6?IR=T)
@@ -5851,30 +5851,40 @@
  - tags: ['big brother', 'censorship', 'covid']
  - date_dead_since: 2024-10-04T10:02:02.069201+00:00
 
+ ## Scams upon scams: The data-driven advertising grift
+ - [https://anotherangrywoman.com/2023/07/05/scams-upon-scams-the-data-driven-advertising-grift](https://anotherangrywoman.com/2023/07/05/scams-upon-scams-the-data-driven-advertising-grift)
+ - date_published: 2023-07-05T16:55:15+00:00
+ - tags: ['ad business', 'facebook', 'google']
+
+ ## Judge rules White House pressured social networks to “suppress free speech”
+ - [https://arstechnica.com/tech-policy/2023/07/judge-rules-white-house-pressured-social-networks-to-suppress-free-speech](https://arstechnica.com/tech-policy/2023/07/judge-rules-white-house-pressured-social-networks-to-suppress-free-speech)
+ - date_published: 2023-07-05T18:22:55+00:00
+ - tags: ['corporatocracy', 'free speech', 'government control', 'technofeudalism']
+
  ## Joe Biden launched ‘Orwellian Ministry of Truth’ to shut down Covid dissent, judge says
  - [https://www.telegraph.co.uk/world-news/2023/07/04/joe-biden-white-house-accused-covid-vaccine-censorship](https://www.telegraph.co.uk/world-news/2023/07/04/joe-biden-white-house-accused-covid-vaccine-censorship)
  - date_published: 2023-07-05T20:36:33+00:00
  - tags: ['censorship', 'covid', 'jego biden']
+
+ ## Nearly half of the tap water in the US is contaminated with ‘forever chemicals,’
+ - [https://www.cnn.com/2023/07/05/health/pfas-nearly-half-us-tap-water-wellness/index.html](https://www.cnn.com/2023/07/05/health/pfas-nearly-half-us-tap-water-wellness/index.html)
+ - date_published: 2023-07-05T22:29:15+00:00
+ - tags: ['pollution']
 
  ## Wyjaśnień ws. umowy z Pfizerem nie będzie. Parlament Europejski kapituluje
  - [https://forsal.pl/swiat/unia-europejska/artykuly/8747464,wyjasnien-ws-umowy-z-pfizerem-nie-bedzie-parlament-europejski-kapitu.html](https://forsal.pl/swiat/unia-europejska/artykuly/8747464,wyjasnien-ws-umowy-z-pfizerem-nie-bedzie-parlament-europejski-kapitu.html)
  - date_published: 2023-07-06T05:36:31+00:00
  - tags: ['covid', 'pfizer', 'vaccine']
 
- ## Judge rules White House pressured social networks to “suppress free speech”
- - [https://arstechnica.com/tech-policy/2023/07/judge-rules-white-house-pressured-social-networks-to-suppress-free-speech](https://arstechnica.com/tech-policy/2023/07/judge-rules-white-house-pressured-social-networks-to-suppress-free-speech)
- - date_published: 2023-07-06T12:19:39+00:00
- - tags: ['corporatocracy', 'free speech', 'government control', 'technofeudalism']
-
  ## France passes bill to allow police remotely activate phone camera, microphone
  - [https://gazettengr.com/france-passes-bill-to-allow-police-remotely-activate-phone-camera-microphone-spy-on-people](https://gazettengr.com/france-passes-bill-to-allow-police-remotely-activate-phone-camera-microphone-spy-on-people)
- - date_published: 2023-07-06T14:09:05+00:00
+ - date_published: 2023-07-06T10:29:53+00:00
  - tags: ['france', 'privacy', 'surveillance', 'technofeudalism']
 
- ## Nearly half of the tap water in the US is contaminated with ‘forever chemicals,’
- - [https://www.cnn.com/2023/07/05/health/pfas-nearly-half-us-tap-water-wellness/index.html](https://www.cnn.com/2023/07/05/health/pfas-nearly-half-us-tap-water-wellness/index.html)
- - date_published: 2023-07-06T14:50:29+00:00
- - tags: ['pollution']
+ ## Newpipe.net removed from Google search results due to DMCA take down request
+ - [https://newpipe.net/blog/pinned/announcement/newpipe-net-dmca-google-search](https://newpipe.net/blog/pinned/announcement/newpipe-net-dmca-google-search)
+ - date_published: 2023-07-07T00:00:00+00:00
+ - tags: ['algorithms', 'censorship', 'corporatocracy', 'dmca', 'google', 'search engines', 'technofeudalism', 'youtube']
 
  ## All the red flags in the Threads privacy policy
  - [https://qz.com/threads-meta-delayed-launch-eu-privacy-policy-concerns-1850609340](https://qz.com/threads-meta-delayed-launch-eu-privacy-policy-concerns-1850609340)
@@ -5895,6 +5905,7 @@
  - [https://projecteink.com/pages/about](https://projecteink.com/pages/about)
  - date_published: 2023-07-07T08:58:32+00:00
  - tags: ['project', 'selfhost']
+ - date_dead_since: 2025-07-12T20:43:59.335909+00:00
 
  ## Sensorvault - Wikipedia
  - [https://en.wikipedia.org/wiki/Sensorvault](https://en.wikipedia.org/wiki/Sensorvault)
@@ -5935,16 +5946,6 @@
  - [https://kobieta.onet.pl/wiadomosci/zdradzaja-partnerow-na-urlopie-mowia-ze-potem-sa-lepszymi-zonami/7g434kg?utm_source=kobieta.onet.pl_viasg_kobieta&utm_medium=referal&utm_campaign=leo_automatic&srcc=undefined&utm_v=2](https://kobieta.onet.pl/wiadomosci/zdradzaja-partnerow-na-urlopie-mowia-ze-potem-sa-lepszymi-zonami/7g434kg?utm_source=kobieta.onet.pl_viasg_kobieta&utm_medium=referal&utm_campaign=leo_automatic&srcc=undefined&utm_v=2)
  - date_published: 2023-07-08T08:24:58+00:00
  - tags: ['feminism', 'propaganda']
-
- ## Scams upon scams: The data-driven advertising grift
- - [https://anotherangrywoman.com/2023/07/05/scams-upon-scams-the-data-driven-advertising-grift](https://anotherangrywoman.com/2023/07/05/scams-upon-scams-the-data-driven-advertising-grift)
- - date_published: 2023-07-08T12:12:31+00:00
- - tags: ['ad business', 'facebook', 'google']
-
- ## How and Why I Stopped Buying New Laptops (2020)
- - [https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops](https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops)
- - date_published: 2023-07-08T17:47:28+00:00
- - tags: ['project']
 
  ## Mark Zuckerberg Hides His Kids' Faces on Social Media. Should You?
  - [https://www.businessinsider.com/mark-zuckerberg-hides-kids-faces-on-social-media-should-you-2023-7?IR=T](https://www.businessinsider.com/mark-zuckerberg-hides-kids-faces-on-social-media-should-you-2023-7?IR=T)
@@ -5991,20 +5992,21 @@
  - date_published: 2023-07-11T09:29:13+00:00
  - tags: ['banksters', 'brazil', 'cbdc', 'technofeudalism']
 
- ## Newpipe.net removed from Google search results due to DMCA take down request
- - [https://newpipe.net/blog/pinned/announcement/newpipe-net-dmca-google-search](https://newpipe.net/blog/pinned/announcement/newpipe-net-dmca-google-search)
- - date_published: 2023-07-11T15:38:04+00:00
- - tags: ['algorithms', 'censorship', 'corporatocracy', 'dmca', 'google', 'search engines', 'technofeudalism', 'youtube']
-
  ## Why Bill Gates Isn’t too Worried About the Risks of AI
  - [https://time.com/6293735/bill-gates-ai-risk](https://time.com/6293735/bill-gates-ai-risk)
  - date_published: 2023-07-11T17:00:26+00:00
  - tags: ['artificial intelligence']
 
+ ## Google hit with lawsuit alleging it stole data from millions of users to train its AI tools | CNN Business
+ - [https://edition.cnn.com/2023/07/11/tech/google-ai-lawsuit/index.html](https://edition.cnn.com/2023/07/11/tech/google-ai-lawsuit/index.html)
+ - date_published: 2023-07-11T20:50:29+00:00
+ - tags: ['artificial intelligence', 'google']
+
  ## The Heat Will Kill You First by Jeff Goodell | Hachette Book Group
  - [https://www.hachettebookgroup.com/titles/jeff-goodell/the-heat-will-kill-you-first/9780316497572/?lens=little-brown](https://www.hachettebookgroup.com/titles/jeff-goodell/the-heat-will-kill-you-first/9780316497572/?lens=little-brown)
  - date_published: 2023-07-12T05:43:05+00:00
  - tags: ['climate change']
+ - date_dead_since: 2025-07-12T16:48:58.528910+00:00
 
  ## Stop AI 'crushing' music, urges leading industry body: "Taking other people’s work without their permission contravenes basic principles of property rights" | MusicRadar
  - [https://www.musicradar.com/news/stop-ai-crushing-music](https://www.musicradar.com/news/stop-ai-crushing-music)
@@ -6015,11 +6017,6 @@
  - [https://briefs.video/videos/i-am-leaving](https://briefs.video/videos/i-am-leaving)
  - date_published: 2023-07-12T08:37:11+00:00
  - tags: ['funny', 'subscription', 'technofeudalism']
-
- ## Google hit with lawsuit alleging it stole data from millions of users to train its AI tools | CNN Business
- - [https://edition.cnn.com/2023/07/11/tech/google-ai-lawsuit/index.html](https://edition.cnn.com/2023/07/11/tech/google-ai-lawsuit/index.html)
- - date_published: 2023-07-12T10:03:05+00:00
- - tags: ['artificial intelligence', 'google']
 
  ## Tax preparers that shared private data with Meta, Google could be fined billions
  - [https://arstechnica.com/tech-policy/2023/07/meta-wont-say-what-happened-to-taxpayer-data-it-may-have-illegally-collected](https://arstechnica.com/tech-policy/2023/07/meta-wont-say-what-happened-to-taxpayer-data-it-may-have-illegally-collected)

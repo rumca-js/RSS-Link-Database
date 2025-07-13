@@ -1758,6 +1758,11 @@
  - tags: ['covid', 'mutation']
  - date_dead_since: 2024-10-24T03:39:59.981681+00:00
 
+ ## How and Why I Stopped Buying New Laptops (2020)
+ - [https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops](https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops)
+ - date_published: 2020-12-20T00:00:00+00:00
+ - tags: ['project']
+
  ## Prof. Konrad Rejdak: To nie będzie panaceum na wszystko. Ruszą lubelskie badania nad amantadyną w leczeniu COVID - Polskie Radio Lublin
  - [https://radio.lublin.pl/2020/12/prof-konrad-rejdak-to-nie-bedzie-panaceum-na-wszystko-rusza-lubelskie-badania-nad-amantadyna-w-leczeniu-covid](https://radio.lublin.pl/2020/12/prof-konrad-rejdak-to-nie-bedzie-panaceum-na-wszystko-rusza-lubelskie-badania-nad-amantadyna-w-leczeniu-covid)
  - date_published: 2020-12-20T06:53:30+00:00
