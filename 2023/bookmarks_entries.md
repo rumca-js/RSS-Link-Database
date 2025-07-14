@@ -3253,6 +3253,11 @@
  - date_published: 2023-04-05T18:31:52+00:00
  - tags: ['christianophobia', 'feminism']
 
+ ## Moja historia cofnięcia zmiany płci. Tranzycja i detranzycja
+ - [https://www.totylkoteoria.pl/tranzycja-detranzycja-zmiana-plci](https://www.totylkoteoria.pl/tranzycja-detranzycja-zmiana-plci)
+ - date_published: 2023-04-05T21:59:58+00:00
+ - tags: ['homosexuality', 'transgender']
+
  ## AI Is Coming for Voice Actors. Artists Everywhere Should Take Note
  - [https://thewalrus.ca/ai-is-coming-for-voice-actors-artists-everywhere-should-take-note](https://thewalrus.ca/ai-is-coming-for-voice-actors-artists-everywhere-should-take-note)
  - date_published: 2023-04-05T22:37:43+00:00
@@ -3932,6 +3937,11 @@
  - tags: ['bill c-11', 'canada']
  - date_dead_since: 2024-10-07T01:41:31.913219+00:00
 
+ ## Why does nuclear power plant construction cost so much?
+ - [https://progress.institute/nuclear-power-plant-construction-costs](https://progress.institute/nuclear-power-plant-construction-costs)
+ - date_published: 2023-05-01T14:50:56+00:00
+ - tags: ['climate change']
+
  ## Privacyguides.org – The guide to restoring your online privacy
  - [https://www.privacyguides.org/en](https://www.privacyguides.org/en)
  - date_published: 2023-05-01T20:00:52+00:00
@@ -4455,6 +4465,11 @@
  - [https://www.theguardian.com/us-news/2023/may/21/jeffrey-epstein-extort-bill-gates-extramarital-affair](https://www.theguardian.com/us-news/2023/may/21/jeffrey-epstein-extort-bill-gates-extramarital-affair)
  - date_published: 2023-05-21T20:08:40+00:00
  - tags: ['bill gates', 'jeffrey epstein']
+
+ ## An America-Less Internet
+ - [https://www.nthbrock.com/posts/americaless-internet](https://www.nthbrock.com/posts/americaless-internet)
+ - date_published: 2023-05-22T00:00:00+00:00
+ - tags: ['centralization']
 
  ## Black pride - Wikipedia
  - [https://en.wikipedia.org/wiki/Black_pride](https://en.wikipedia.org/wiki/Black_pride)
@@ -5049,6 +5064,11 @@
  - date_published: 2023-06-06T17:06:52+00:00
  - tags: ['censorship', 'reddit']
 
+ ## Lululemon stands by decision to fire employees who intervened in robbery | CNN Business
+ - [https://edition.cnn.com/2023/06/06/business/lululemon-fires-employees-stop-robbery/index.html](https://edition.cnn.com/2023/06/06/business/lululemon-fires-employees-stop-robbery/index.html)
+ - date_published: 2023-06-06T19:39:54+00:00
+ - tags: ['racism']
+
  ## U.S. Was Aware of Ukrainian Plan to Bomb Nord Stream Pipeline Before Attack
  - [https://www.nytimes.com/2023/06/06/us/politics/nord-stream-pipeline-attack-intelligence.html](https://www.nytimes.com/2023/06/06/us/politics/nord-stream-pipeline-attack-intelligence.html)
  - date_published: 2023-06-06T20:11:26+00:00
@@ -5085,11 +5105,6 @@
  - date_published: 2023-06-07T07:27:08+00:00
  - tags: ['conspiracy theories']
 
- ## Lululemon stands by decision to fire employees who intervened in robbery | CNN Business
- - [https://edition.cnn.com/2023/06/06/business/lululemon-fires-employees-stop-robbery/index.html](https://edition.cnn.com/2023/06/06/business/lululemon-fires-employees-stop-robbery/index.html)
- - date_published: 2023-06-07T11:04:34+00:00
- - tags: ['racism']
-
  ## Former ByteDance exec: Chinese Communist Party tracked Hong Kong protesters via data
  - [https://abcnews.go.com/International/wireStory/former-bytedance-executive-chinese-communist-party-tracked-hong-99894243](https://abcnews.go.com/International/wireStory/former-bytedance-executive-chinese-communist-party-tracked-hong-99894243)
  - date_published: 2023-06-07T12:22:52+00:00
@@ -5116,11 +5131,6 @@
  - date_published: 2023-06-08T00:00:00+00:00
  - tags: ['who']
 
- ## Moja historia cofnięcia zmiany płci. Tranzycja i detranzycja
- - [https://www.totylkoteoria.pl/tranzycja-detranzycja-zmiana-plci](https://www.totylkoteoria.pl/tranzycja-detranzycja-zmiana-plci)
- - date_published: 2023-06-08T06:37:22+00:00
- - tags: ['homosexuality', 'transgender']
-
  ## Jest porozumienie ws. relokacji migrantów mimo sprzeciwu Polski - RMF 24
  - [https://www.rmf24.pl/fakty/swiat/news-jest-porozumienie-ws-relokacji-migrantow-mimo-sprzeciwu-pols,nId,6829558#crp_state=1](https://www.rmf24.pl/fakty/swiat/news-jest-porozumienie-ws-relokacji-migrantow-mimo-sprzeciwu-pols,nId,6829558#crp_state=1)
  - date_published: 2023-06-08T08:10:59+00:00
@@ -5134,13 +5144,18 @@
 
  ## Nigeria: 168 zabitych w atakach na chrześcijańskie wsie - Chrześcijański Serwis Informacyjny
  - [https://chrzescijanin.pl/168-zabitych-w-atakach-na-chrzescijanskie-wsie](https://chrzescijanin.pl/168-zabitych-w-atakach-na-chrzescijanskie-wsie)
- - date_published: 2023-06-08T14:48:02+00:00
+ - date_published: 2023-06-08T14:32:24+00:00
  - tags: ['christianophobia', 'nigeria']
 
  ## Google un-bans Downloader app, but developer still mad about “broken” DMCA
  - [https://arstechnica.com/tech-policy/2023/06/google-un-bans-downloader-app-but-developer-still-mad-about-broken-dmca](https://arstechnica.com/tech-policy/2023/06/google-un-bans-downloader-app-but-developer-still-mad-about-broken-dmca)
- - date_published: 2023-06-09T08:04:21+00:00
+ - date_published: 2023-06-08T18:40:59+00:00
  - tags: ['app store', 'corporatocracy', 'google', 'technofeudalism']
+
+ ## ‘Call Of Duty’ Removes Nickmercs Operator Skin From Shop After LGBTQ Comments
+ - [https://www.forbes.com/sites/paultassi/2023/06/09/call-of-duty-removes-nickmercs-operator-skin-from-shop-after-lgbtq-comments](https://www.forbes.com/sites/paultassi/2023/06/09/call-of-duty-removes-nickmercs-operator-skin-from-shop-after-lgbtq-comments)
+ - date_published: 2023-06-09T00:00:00+00:00
+ - tags: ['censorship', 'lgbt', 'the left wing']
 
  ## FBI Flagged Twitter Accounts Of American Journalists Over Ukraine War Disinformation
  - [https://reclaimthenet.org/fbi-flagged-twitter-accounts-ukraine](https://reclaimthenet.org/fbi-flagged-twitter-accounts-ukraine)
@@ -5152,10 +5167,10 @@
  - date_published: 2023-06-09T10:58:14+00:00
  - tags: ['data leak']
 
- ## ‘Call Of Duty’ Removes Nickmercs Operator Skin From Shop After LGBTQ Comments
- - [https://www.forbes.com/sites/paultassi/2023/06/09/call-of-duty-removes-nickmercs-operator-skin-from-shop-after-lgbtq-comments](https://www.forbes.com/sites/paultassi/2023/06/09/call-of-duty-removes-nickmercs-operator-skin-from-shop-after-lgbtq-comments)
- - date_published: 2023-06-09T13:02:26+00:00
- - tags: ['censorship', 'lgbt', 'the left wing']
+ ## Turkish citizens' personal data offered online after government site hacked
+ - [https://balkaninsight.com/2023/06/09/turkish-citizens-personal-data-offered-online-after-govt-site-hacked](https://balkaninsight.com/2023/06/09/turkish-citizens-personal-data-offered-online-after-govt-site-hacked)
+ - date_published: 2023-06-09T13:42:21+00:00
+ - tags: ['data leak', 'hackers']
 
  ## Covid disinformation unit made 'hourly contact' with tech firms to flag dissent, says Sarah Connolly
  - [https://www.telegraph.co.uk/news/2023/06/09/covid-disinformation-unit-hourly-tech-lockdown-dissent](https://www.telegraph.co.uk/news/2023/06/09/covid-disinformation-unit-hourly-tech-lockdown-dissent)
@@ -5171,12 +5186,6 @@
  - [https://fortune.com/2023/06/03/indiana-jones-dial-of-destiny-lucasfilm-star-wars-worry-for-disney-bob-iger](https://fortune.com/2023/06/03/indiana-jones-dial-of-destiny-lucasfilm-star-wars-worry-for-disney-bob-iger)
  - date_published: 2023-06-09T16:35:47+00:00
  - tags: ['disney', 'go woke go broke', 'movies']
-
- ## Turkish citizens' personal data offered online after government site hacked
- - [https://balkaninsight.com/2023/06/09/turkish-citizens-personal-data-offered-online-after-govt-site-hacked](https://balkaninsight.com/2023/06/09/turkish-citizens-personal-data-offered-online-after-govt-site-hacked)
- - date_published: 2023-06-09T17:51:12+00:00
- - tags: ['data leak', 'hackers']
- - date_dead_since: 2025-03-05T21:51:02.100914+00:00
 
  ## Desktop Linux is insecure – 2023
  - [https://bjornpagen.com/en_US/desktop%20linux%20is%20insecure](https://bjornpagen.com/en_US/desktop%20linux%20is%20insecure)
@@ -5224,45 +5233,40 @@
  - date_published: 2023-06-12T09:14:30+00:00
  - tags: ['joe biden', 'propaganda', 'sexualization', 'the left wing', 'trangender']
 
- ## An America-Less Internet
- - [https://www.nthbrock.com/posts/americaless-internet](https://www.nthbrock.com/posts/americaless-internet)
- - date_published: 2023-06-12T10:07:41+00:00
- - tags: ['centralization']
-
- ## Is liberalism digging its own demographic grave? (2022)
- - [https://www.thearticle.com/is-liberalism-digging-its-own-demographic-grave](https://www.thearticle.com/is-liberalism-digging-its-own-demographic-grave)
- - date_published: 2023-06-12T13:23:30+00:00
- - tags: ['depopulation', 'society', 'the left wing']
-
  ## A Tale of Unwanted Disruption: My Week Without Amazon
  - [https://medium.com/@bjax_/a-tale-of-unwanted-disruption-my-week-without-amazon-df1074e3818b](https://medium.com/@bjax_/a-tale-of-unwanted-disruption-my-week-without-amazon-df1074e3818b)
  - date_published: 2023-06-12T16:33:27+00:00
  - tags: ['alexa', 'amazon', 'smart home', 'technofeudalism']
+
+ ## The US Is Openly Stockpiling Dirt on All Its Citizens
+ - [https://www.wired.com/story/odni-commercially-available-information-report](https://www.wired.com/story/odni-commercially-available-information-report)
+ - date_published: 2023-06-12T19:23:56+00:00
+ - tags: ['big brother', 'government control', 'privacy laundering', 'surveillance']
+
+ ## Meta to Buy Almost 7M Carbon Credits
+ - [https://carboncredits.com/meta-to-buy-almost-7-million-carbon-credits-from-aspiration](https://carboncredits.com/meta-to-buy-almost-7-million-carbon-credits-from-aspiration)
+ - date_published: 2023-06-12T19:28:54+00:00
+ - tags: ['carbon credits', 'climate change', 'meta']
 
  ## Lawsuit: Password Company Bitwarden Fired Catholic Employee For Listing Pronouns As “Assigned By God”
  - [https://reclaimthenet.org/bitwarden-fired-catholic-employee-pronouns](https://reclaimthenet.org/bitwarden-fired-catholic-employee-pronouns)
  - date_published: 2023-06-12T19:44:24+00:00
  - tags: ['christianophobia', 'gender', 'pronouns', 'the left wing']
 
- ## The US Is Openly Stockpiling Dirt on All Its Citizens
- - [https://www.wired.com/story/odni-commercially-available-information-report](https://www.wired.com/story/odni-commercially-available-information-report)
- - date_published: 2023-06-12T20:21:08+00:00
- - tags: ['big brother', 'government control', 'privacy laundering', 'surveillance']
-
  ## What Did Pfizer CEO Say in 2019 About Pills with Ingestible Sensors?
  - [https://www.youtube.com/watch?v=ORB4j8Z1W1A](https://www.youtube.com/watch?v=ORB4j8Z1W1A)
  - date_published: 2023-06-13T00:00:00+00:00
  - tags: ['big pharma', 'pfizer']
 
- ## Meta to Buy Almost 7M Carbon Credits
- - [https://carboncredits.com/meta-to-buy-almost-7-million-carbon-credits-from-aspiration](https://carboncredits.com/meta-to-buy-almost-7-million-carbon-credits-from-aspiration)
- - date_published: 2023-06-13T03:01:21+00:00
- - tags: ['carbon credits', 'climate change', 'meta']
-
  ## Blokada pornografii dla nieletnich. Ustawa o ochronie w sieci już w Sejmie – Biznes Wprost
  - [https://biznes.wprost.pl/technologie/internet/11261809/blokada-pornografii-dla-nieletnich-ustawa-o-ochronie-w-sieci-juz-w-sejmie.html](https://biznes.wprost.pl/technologie/internet/11261809/blokada-pornografii-dla-nieletnich-ustawa-o-ochronie-w-sieci-juz-w-sejmie.html)
  - date_published: 2023-06-13T11:34:00+00:00
  - tags: ['censorship', 'government control', 'poland', 'tech control']
+
+ ## What Reddit Got Wrong
+ - [https://www.eff.org/deeplinks/2023/06/what-reddit-got-wrong](https://www.eff.org/deeplinks/2023/06/what-reddit-got-wrong)
+ - date_published: 2023-06-13T13:31:15+00:00
+ - tags: ['reddit']
 
  ## Finish your projects
  - [https://github.com/readme/guides/finish-your-projects](https://github.com/readme/guides/finish-your-projects)
@@ -5289,6 +5293,11 @@
  - date_published: 2023-06-13T22:22:24+00:00
  - tags: ['lgbt', 'the left wing']
 
+ ## Reddit Is OpenAI's Moat
+ - [https://www.cyberdemon.org/2023/06/14/reddit-moat.html](https://www.cyberdemon.org/2023/06/14/reddit-moat.html)
+ - date_published: 2023-06-14T00:00:00+00:00
+ - tags: ['artificial intelligence', 'openai', 'reddit']
+
  ## Google risks forced breakup of ad business as EU alleges shocking misconduct | Ars Technica
  - [https://arstechnica.com/tech-policy/2023/06/google-may-soon-be-ordered-to-break-up-its-lucrative-ad-business-eu-warns](https://arstechnica.com/tech-policy/2023/06/google-may-soon-be-ordered-to-break-up-its-lucrative-ad-business-eu-warns)
  - date_published: 2023-06-14T08:06:26+00:00
@@ -5296,18 +5305,18 @@
 
  ## GTA Online removes over 180 cars, moves some behind a paywall | VGC
  - [https://www.videogameschronicle.com/news/gta-online-removes-over-180-cars-moves-some-behind-a-paywall](https://www.videogameschronicle.com/news/gta-online-removes-over-180-cars-moves-some-behind-a-paywall)
- - date_published: 2023-06-14T10:54:36+00:00
+ - date_published: 2023-06-14T10:14:09+00:00
  - tags: ['corporatocracy', 'technofeudalism']
+
+ ## The Reddit blackout has left Google barren and full of holes – TechRadar
+ - [https://www.techradar.com/opinion/the-reddit-blackout-has-left-google-barren-and-full-of-holes](https://www.techradar.com/opinion/the-reddit-blackout-has-left-google-barren-and-full-of-holes)
+ - date_published: 2023-06-14T10:42:18+00:00
+ - tags: ['search engines']
 
  ## Jeffrey Epstein bragged about a lunch meeting with Elon Musk in 2012
  - [https://www.dailymail.co.uk/news/article-12190037/Jeffrey-Epstein-bragged-lunch-meeting-Elon-Musk-2012.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12190037/Jeffrey-Epstein-bragged-lunch-meeting-Elon-Musk-2012.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date_published: 2023-06-14T13:01:28+00:00
  - tags: ['jeffrey epstein']
-
- ## Reddit Is OpenAI's Moat
- - [https://www.cyberdemon.org/2023/06/14/reddit-moat.html](https://www.cyberdemon.org/2023/06/14/reddit-moat.html)
- - date_published: 2023-06-14T13:52:56+00:00
- - tags: ['artificial intelligence', 'openai', 'reddit']
 
  ## Brakuje już ponad sześciu miliardów na mrożenie cen energii więc zapłacą też Polacy - BiznesAlert.pl
  - [https://biznesalert.pl/brakuje-juz-ponad-szesciu-miliardow-na-mrozenie-cen-energii-wiec-zaplaca-tez-polacy](https://biznesalert.pl/brakuje-juz-ponad-szesciu-miliardow-na-mrozenie-cen-energii-wiec-zaplaca-tez-polacy)
@@ -5319,31 +5328,21 @@
  - date_published: 2023-06-14T14:51:56+00:00
  - tags: ['america', 'anonymity', 'big brother', 'privacy', 'surveillance']
 
- ## The Reddit blackout has left Google barren and full of holes – TechRadar
- - [https://www.techradar.com/opinion/the-reddit-blackout-has-left-google-barren-and-full-of-holes](https://www.techradar.com/opinion/the-reddit-blackout-has-left-google-barren-and-full-of-holes)
- - date_published: 2023-06-14T15:13:48+00:00
- - tags: ['search engines']
-
  ## Environment activists smear red paint on Monet painting at Stockholm museum | CNN
  - [https://edition.cnn.com/2023/06/14/style/monet-paint-protest-stockholm-climate/index.html](https://edition.cnn.com/2023/06/14/style/monet-paint-protest-stockholm-climate/index.html)
  - date_published: 2023-06-14T15:31:43+00:00
  - tags: ['activism']
-
- ## What Reddit Got Wrong
- - [https://www.eff.org/deeplinks/2023/06/what-reddit-got-wrong](https://www.eff.org/deeplinks/2023/06/what-reddit-got-wrong)
- - date_published: 2023-06-14T16:41:20+00:00
- - tags: ['reddit']
-
- ## Why does nuclear power plant construction cost so much?
- - [https://progress.institute/nuclear-power-plant-construction-costs](https://progress.institute/nuclear-power-plant-construction-costs)
- - date_published: 2023-06-14T21:52:32+00:00
- - tags: ['climate change']
 
  ## Davos Is Coming for Your Cars
  - [https://www.wsj.com/articles/world-economic-forum-paper-reduce-cars-by-2050-davos-private-jets-climate-f0bb64b9](https://www.wsj.com/articles/world-economic-forum-paper-reduce-cars-by-2050-davos-private-jets-climate-f0bb64b9)
  - date_published: 2023-06-14T22:42:00+00:00
  - tags: ['climate change', 'davos', 'wef', 'world economic forum']
  - date_dead_since: 2024-10-05T07:08:51.370783+00:00
+
+ ## Google Warns Employees About Chatbots—Including Its Own Bard—Out Of Privacy Concerns, Report Says
+ - [https://www.forbes.com/sites/anafaguy/2023/06/15/google-warns-employees-about-chatbots-including-its-own-bard-out-of-privacy-concerns-report-says](https://www.forbes.com/sites/anafaguy/2023/06/15/google-warns-employees-about-chatbots-including-its-own-bard-out-of-privacy-concerns-report-says)
+ - date_published: 2023-06-15T00:00:00+00:00
+ - tags: ['artificial intelligence']
 
  ## How to crawl a quarter billion webpages in 40 hours (2012)
  - [https://michaelnielsen.org/ddi/how-to-crawl-a-quarter-billion-webpages-in-40-hours](https://michaelnielsen.org/ddi/how-to-crawl-a-quarter-billion-webpages-in-40-hours)
@@ -5357,18 +5356,13 @@
 
  ## AI Jesus gives gaming tips and discusses anime on Twitch | Metro News
  - [https://metro.co.uk/2023/06/15/ai-jesus-gives-gaming-tips-and-discusses-anime-on-twitch-18955708](https://metro.co.uk/2023/06/15/ai-jesus-gives-gaming-tips-and-discusses-anime-on-twitch-18955708)
- - date_published: 2023-06-15T11:01:20+00:00
+ - date_published: 2023-06-15T10:37:25+00:00
  - tags: ['artificial intelligence', 'religion']
 
  ## Pride threats: What’s happening at Target and Starbucks is much grimmer than it seems.
  - [https://slate.com/news-and-politics/2023/06/target-starbucks-pride-threats.html](https://slate.com/news-and-politics/2023/06/target-starbucks-pride-threats.html)
  - date_published: 2023-06-15T12:07:40+00:00
  - tags: ['hypocrisy', 'lgbt', 'rainbow washing']
-
- ## Google Warns Employees About Chatbots—Including Its Own Bard—Out Of Privacy Concerns, Report Says
- - [https://www.forbes.com/sites/anafaguy/2023/06/15/google-warns-employees-about-chatbots-including-its-own-bard-out-of-privacy-concerns-report-says](https://www.forbes.com/sites/anafaguy/2023/06/15/google-warns-employees-about-chatbots-including-its-own-bard-out-of-privacy-concerns-report-says)
- - date_published: 2023-06-15T12:12:10+00:00
- - tags: ['artificial intelligence']
 
  ## Raspberry Pi 4
  - [https://konstakang.com/devices/rpi4](https://konstakang.com/devices/rpi4)
@@ -5412,7 +5406,7 @@
 
  ## WEF wzywa do 75% redukcji prywatnych samochodów
  - [https://ithardware.pl/aktualnosci/wef_wzywa_do_75_redukcji_wlasnosci_prywatnych_samochodow-27875.html](https://ithardware.pl/aktualnosci/wef_wzywa_do_75_redukcji_wlasnosci_prywatnych_samochodow-27875.html)
- - date_published: 2023-06-19T19:09:05+00:00
+ - date_published: 2023-06-19T09:50:00+00:00
  - tags: ['climate change', 'electric vehicles', 'wef', 'world economic forum']
 
  ## Epstein claimed to have set up meetings with senior UK ministers
@@ -5420,6 +5414,11 @@
  - date_published: 2023-06-19T22:11:39+00:00
  - tags: ['jeffrey epstein', 'manufacturing comsent']
  - date_dead_since: 2025-06-12T18:44:13.928153+00:00
+
+ ## Don't Use Mocks
+ - [https://joeblu.com/blog/2023_06_mocks](https://joeblu.com/blog/2023_06_mocks)
+ - date_published: 2023-06-20T00:00:00+00:00
+ - tags: ['programming', 'unit tests']
 
  ## BREAKING: James O’Keefe exposes BlackRock recruiter bragging about deciding people’s fate, saying ‘war is good for business’ | The Post Millennial | thepostmillennial.com
  - [https://thepostmillennial.com/breaking-james-okeefe-exposes-blackrock-recruiter-bragging-about-deciding-peoples-fate-saying-war-is-good-for-business](https://thepostmillennial.com/breaking-james-okeefe-exposes-blackrock-recruiter-bragging-about-deciding-peoples-fate-saying-war-is-good-for-business)
@@ -5430,11 +5429,6 @@
  - [https://www.theregister.com/2023/06/19/even_google_warns_its_own](https://www.theregister.com/2023/06/19/even_google_warns_its_own)
  - date_published: 2023-06-20T02:29:07+00:00
  - tags: ['artificial intelligence']
-
- ## Don't Use Mocks
- - [https://joeblu.com/blog/2023_06_mocks](https://joeblu.com/blog/2023_06_mocks)
- - date_published: 2023-06-20T03:19:58+00:00
- - tags: ['programming', 'unit tests']
 
  ## Cameroon launches video surveillance with live facial recognition in largest city | Biometric Update
  - [https://www.biometricupdate.com/202306/cameroon-launches-video-surveillance-with-live-facial-recognition-in-largest-city](https://www.biometricupdate.com/202306/cameroon-launches-video-surveillance-with-live-facial-recognition-in-largest-city)
@@ -5536,7 +5530,6 @@
  - [https://www.bhf.org.uk/what-we-do/news-from-the-bhf/news-archive/2023/june/100000-excess-deaths-cardiovascular-disease](https://www.bhf.org.uk/what-we-do/news-from-the-bhf/news-archive/2023/june/100000-excess-deaths-cardiovascular-disease)
  - date_published: 2023-06-22T10:51:31+00:00
  - tags: ['covid', 'vaccine']
- - date_dead_since: 2025-03-05T12:27:05.967020+00:00
 
  ## Dziura w moj.gov.pl - można było podejrzeć dane Polaków z bazy paszportów.
  - [https://niebezpiecznik.pl/post/dziura-w-rzadowym-systemie-mozna-bylo-podejrzec-cudze-paszporty-i-nie-tylko](https://niebezpiecznik.pl/post/dziura-w-rzadowym-systemie-mozna-bylo-podejrzec-cudze-paszporty-i-nie-tylko)
@@ -5563,6 +5556,11 @@
  - date_published: 2023-06-23T07:37:40+00:00
  - tags: ['reddit']
 
+ ## Scientists alarmed by extreme marine heat wave in North Atlantic - The Washington Post
+ - [https://www.washingtonpost.com/weather/2023/06/23/ocean-heatwave-northatlantic-uk-climate](https://www.washingtonpost.com/weather/2023/06/23/ocean-heatwave-northatlantic-uk-climate)
+ - date_published: 2023-06-23T10:00:18+00:00
+ - tags: ['climate change', 'global warming']
+
  ## Wenstrup Reveals Explosive Emails from Fauci Ally, Requests Additional Communications - United States House Committee on Oversight and Accountability
  - [https://oversight.house.gov/release/wenstrup-reveals-explosive-emails-from-fauci-ally-requests-additional-communications](https://oversight.house.gov/release/wenstrup-reveals-explosive-emails-from-fauci-ally-requests-additional-communications)
  - date_published: 2023-06-23T14:22:06+00:00
@@ -5578,16 +5576,10 @@
  - date_published: 2023-06-23T17:24:25+00:00
  - tags: ['covid', 'wuhan']
 
- ## Scientists alarmed by extreme marine heat wave in North Atlantic - The Washington Post
- - [https://www.washingtonpost.com/weather/2023/06/23/ocean-heatwave-northatlantic-uk-climate](https://www.washingtonpost.com/weather/2023/06/23/ocean-heatwave-northatlantic-uk-climate)
- - date_published: 2023-06-23T19:03:13+00:00
- - tags: ['climate change', 'global warming']
-
  ## Lotnictwo. Prywatne odrzutowce generują 10 razy więcej gazów cieplarnianych niż loty rejsowe - raport amerykańskiego Instytutu Studiów Politycznych - TVN24 Biznes
  - [https://tvn24.pl/biznes/ze-swiata/lotnictwo-prywatne-odrzutowce-generuja-10-razy-wiecej-gazow-cieplarnianych-niz-loty-rejsowe-raport-amerykanskiego-instytutu-studiow-politycznych-7189114](https://tvn24.pl/biznes/ze-swiata/lotnictwo-prywatne-odrzutowce-generuja-10-razy-wiecej-gazow-cieplarnianych-niz-loty-rejsowe-raport-amerykanskiego-instytutu-studiow-politycznych-7189114)
  - date_published: 2023-06-24T15:31:15+00:00
  - tags: ['climate change', 'global warming']
- - date_dead_since: 2025-03-05T11:02:26.476699+00:00
 
  ## Australia: NSW Leader Wants To Ban Online Live Streaming of Climate Change Protests
  - [https://reclaimthenet.org/nsw-wants-to-ban-online-climate-change-protest-streaming](https://reclaimthenet.org/nsw-wants-to-ban-online-climate-change-protest-streaming)
@@ -5632,12 +5624,12 @@
 
  ## More than 100 U.S. political elites have family links to slavery
  - [https://www.reuters.com/investigates/special-report/usa-slavery-lawmakers](https://www.reuters.com/investigates/special-report/usa-slavery-lawmakers)
- - date_published: 2023-06-27T16:58:04+00:00
+ - date_published: 2023-06-27T10:00:00+00:00
  - tags: ['racism']
 
  ## LetMeSpy, a stalkerware app spying on thousands, says it was hacked
  - [https://techcrunch.com/2023/06/27/letmespy-hacked-spyware-thousands](https://techcrunch.com/2023/06/27/letmespy-hacked-spyware-thousands)
- - date_published: 2023-06-27T21:27:25+00:00
+ - date_published: 2023-06-27T15:20:15+00:00
  - tags: ['android', 'data leak', 'hackers', 'letmespy', 'stalkerware']
 
  ## Android's slow creep towards being closed source continues on - open source elements deprecated
@@ -5664,11 +5656,6 @@
  - [https://www.telegraph.co.uk/news/2023/06/27/britain-harder-lockdowns-covid-inquiry-matt-hancock](https://www.telegraph.co.uk/news/2023/06/27/britain-harder-lockdowns-covid-inquiry-matt-hancock)
  - date_published: 2023-06-28T13:41:18.698157+00:00
  - tags: ['covid', 'lockdown']
-
- ## The Secretive Surveillance Wizards Helping ICE Wiretap Facebook and Google Users
- - [https://www.forbes.com/sites/thomasbrewster/2022/02/23/meet-the-secretive-surveillance-wizards-helping-the-fbi-and-ice-wiretap-facebook-and-google-users](https://www.forbes.com/sites/thomasbrewster/2022/02/23/meet-the-secretive-surveillance-wizards-helping-the-fbi-and-ice-wiretap-facebook-and-google-users)
- - date_published: 2023-06-28T14:30:39+00:00
- - tags: ['big brother', 'facebook', 'google', 'penlink', 'surveillance']
 
  ## Skala wymuszeń, korupcji i bezkarności największa w historii Ukrainy. Firmy mówią dość
  - [https://businessinsider.com.pl/gospodarka/korupcja-w-ukrainie-na-niespotykana-skale-firmy-zaapelowaly-do-prezydenta/cg7ejz2](https://businessinsider.com.pl/gospodarka/korupcja-w-ukrainie-na-niespotykana-skale-firmy-zaapelowaly-do-prezydenta/cg7ejz2)
@@ -5735,15 +5722,15 @@
  - date_published: 2023-06-30T20:01:37+00:00
  - tags: ['ad business', 'youtube']
 
+ ## Reddit And Twitter: The New Giants Of Anti-Social Media
+ - [https://www.forbes.com/sites/barrycollins/2023/07/01/reddit-and-twitter-the-new-giants-of-anti-social-media](https://www.forbes.com/sites/barrycollins/2023/07/01/reddit-and-twitter-the-new-giants-of-anti-social-media)
+ - date_published: 2023-07-01T00:00:00+00:00
+ - tags: ['reddit', 'social media', 'twitter']
+
  ## Chinese Group Storm-0558 Hacked European Govt Emails, Microsoft
  - [https://www.hackread.com/chinese-group-storm-0558-hacked-europe-microsoft](https://www.hackread.com/chinese-group-storm-0558-hacked-europe-microsoft)
  - date_published: 2023-07-01T08:59:00+00:00
  - tags: ['china', 'espionage', 'hackers', 'microsoft', 'storm-0558', 'vulnerability']
-
- ## Reddit And Twitter: The New Giants Of Anti-Social Media
- - [https://www.forbes.com/sites/barrycollins/2023/07/01/reddit-and-twitter-the-new-giants-of-anti-social-media](https://www.forbes.com/sites/barrycollins/2023/07/01/reddit-and-twitter-the-new-giants-of-anti-social-media)
- - date_published: 2023-07-01T09:06:45+00:00
- - tags: ['reddit', 'social media', 'twitter']
 
  ## I'm Gay and I Dislike the LGBT Community...
  - [https://www.youtube.com/watch?v=WjKjCqfMrHE](https://www.youtube.com/watch?v=WjKjCqfMrHE)

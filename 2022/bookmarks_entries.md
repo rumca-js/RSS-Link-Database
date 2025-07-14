@@ -913,6 +913,11 @@
  - [https://jakobgreenfeld.com/stay-in-touch](https://jakobgreenfeld.com/stay-in-touch)
  - date_published: 2022-02-15T08:35:43+00:00
 
+ ## Is liberalism digging its own demographic grave? (2022)
+ - [https://www.thearticle.com/is-liberalism-digging-its-own-demographic-grave](https://www.thearticle.com/is-liberalism-digging-its-own-demographic-grave)
+ - date_published: 2022-02-15T15:22:22+00:00
+ - tags: ['depopulation', 'society', 'the left wing']
+
  ## Google Search Is Dying
  - [https://dkb.io/post/google-search-is-dying](https://dkb.io/post/google-search-is-dying)
  - date_published: 2022-02-15T15:45:06+00:00
@@ -1053,6 +1058,11 @@
  - [https://reclaimthenet.org/world-economic-forum-pushes-digital-id](https://reclaimthenet.org/world-economic-forum-pushes-digital-id)
  - date_published: 2022-02-22T18:58:40+00:00
  - tags: ['digital identity', 'world economic forum']
+
+ ## The Secretive Surveillance Wizards Helping ICE Wiretap Facebook and Google Users
+ - [https://www.forbes.com/sites/thomasbrewster/2022/02/23/meet-the-secretive-surveillance-wizards-helping-the-fbi-and-ice-wiretap-facebook-and-google-users](https://www.forbes.com/sites/thomasbrewster/2022/02/23/meet-the-secretive-surveillance-wizards-helping-the-fbi-and-ice-wiretap-facebook-and-google-users)
+ - date_published: 2022-02-23T00:00:00+00:00
+ - tags: ['big brother', 'facebook', 'google', 'penlink', 'surveillance']
 
  ## NSA-linked Bvp47 Linux backdoor widely undetected for 10 years
  - [https://www.bleepingcomputer.com/news/security/nsa-linked-bvp47-linux-backdoor-widely-undetected-for-10-years](https://www.bleepingcomputer.com/news/security/nsa-linked-bvp47-linux-backdoor-widely-undetected-for-10-years)
