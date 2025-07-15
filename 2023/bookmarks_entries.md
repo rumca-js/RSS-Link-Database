@@ -4188,6 +4188,11 @@
  - date_published: 2023-05-08T13:45:59+00:00
  - tags: ['polarization', 'social media']
 
+ ## Why Conscious AI Is a Bad, Bad Idea
+ - [https://nautil.us/why-conscious-ai-is-a-bad-bad-idea-302937](https://nautil.us/why-conscious-ai-is-a-bad-bad-idea-302937)
+ - date_published: 2023-05-08T22:17:52+00:00
+ - tags: ['artificial intelligence']
+
  ## Google promised to delete sensitive data. It logged my abortion clinic visit
  - [https://www.washingtonpost.com/technology/2023/05/09/google-privacy-abortion-data](https://www.washingtonpost.com/technology/2023/05/09/google-privacy-abortion-data)
  - date_published: 2023-05-09T10:00:00+00:00
@@ -4247,11 +4252,6 @@
  - [https://sorry.idont.date](https://sorry.idont.date)
  - date_published: 2023-05-12T19:13:06+00:00
  - tags: ['email server', 'selfhost']
-
- ## Why Conscious AI Is a Bad, Bad Idea
- - [https://nautil.us/why-conscious-ai-is-a-bad-bad-idea-302937](https://nautil.us/why-conscious-ai-is-a-bad-bad-idea-302937)
- - date_published: 2023-05-13T10:59:47+00:00
- - tags: ['artificial intelligence']
 
  ## Israel denies the Nakba while perpetuating it
  - [https://www.aljazeera.com/opinions/2023/5/13/israel-denies-the-nakba-while-perpetuating-it](https://www.aljazeera.com/opinions/2023/5/13/israel-denies-the-nakba-while-perpetuating-it)
@@ -4319,6 +4319,11 @@
  - tags: ['selfhost']
  - date_dead_since: 2024-04-20T00:41:39.733958+00:00
 
+ ## The UK’s Secretive Web Surveillance Program Is Ramping Up
+ - [https://www.wired.com/story/internet-connection-records-uk-surveillance](https://www.wired.com/story/internet-connection-records-uk-surveillance)
+ - date_published: 2023-05-15T06:00:00+00:00
+ - tags: ['england', 'surveillance']
+
  ## Telly Start-Up Offers Dual-Screen Smart TVs For Free – Deadline
  - [https://deadline.com/2023/05/telly-startup-pluto-tv-smart-tv-streaming-advertising-1235362087](https://deadline.com/2023/05/telly-startup-pluto-tv-smart-tv-streaming-advertising-1235362087)
  - date_published: 2023-05-15T08:28:50+00:00
@@ -4334,14 +4339,14 @@
  - date_published: 2023-05-15T10:33:30+00:00
  - tags: ['artificial intelligence']
 
+ ## ChatGPT is not ‘artificial intelligence.’ It’s theft
+ - [https://www.americamagazine.org/faith/2023/05/15/chatgpt-artificial-intelligence-theft-245283](https://www.americamagazine.org/faith/2023/05/15/chatgpt-artificial-intelligence-theft-245283)
+ - date_published: 2023-05-15T11:40:31+00:00
+ - tags: ['artificial intelligence', 'chatgpt']
+
  ## Government’s UKHSA uses mobile networks to track population movement
  - [https://www.openaccessgovernment.org/governments-ukhsa-mobile-networks-track-population-movement/158966](https://www.openaccessgovernment.org/governments-ukhsa-mobile-networks-track-population-movement/158966)
- - date_published: 2023-05-15T13:40:42+00:00
- - tags: ['england', 'surveillance']
-
- ## The UK’s Secretive Web Surveillance Program Is Ramping Up
- - [https://www.wired.com/story/internet-connection-records-uk-surveillance](https://www.wired.com/story/internet-connection-records-uk-surveillance)
- - date_published: 2023-05-15T14:46:40+00:00
+ - date_published: 2023-05-15T12:05:48+00:00
  - tags: ['england', 'surveillance']
 
  ## French league footballers refuse to wear rainbow-coloured jerseys
@@ -4351,8 +4356,13 @@
 
  ## Facebook deletes 'Jesus died so you could live' post over 'hate speech' violation, former writer for TheBlaze says - TheBlaze
  - [https://www.theblaze.com/news/facebook-deletes-jesus-died-so-you-could-live-post-over-hate-speech-violation-former-writer-for-theblaze-says#toggle-gdpr](https://www.theblaze.com/news/facebook-deletes-jesus-died-so-you-could-live-post-over-hate-speech-violation-former-writer-for-theblaze-says#toggle-gdpr)
- - date_published: 2023-05-15T19:10:42+00:00
+ - date_published: 2023-05-15T15:56:43+00:00
  - tags: ['christianophobia']
+
+ ## John Durham concludes FBI never should have launched full Trump-Russia probe | CNN Politics
+ - [https://edition.cnn.com/2023/05/15/politics/john-durham-report-fbi-trump-released/index.html](https://edition.cnn.com/2023/05/15/politics/john-durham-report-fbi-trump-released/index.html)
+ - date_published: 2023-05-15T19:31:50+00:00
+ - tags: ['donald trump', 'elections', 'fbi']
 
  ## Microsoft is scanning the inside of password-protected zip files for malware
  - [https://arstechnica.com/?p=1939441](https://arstechnica.com/?p=1939441)
@@ -4364,55 +4374,46 @@
  - date_published: 2023-05-16T02:00:00+00:00
  - tags: ['dei', 'inclusion', 'inequality']
 
+ ## California’s New Math Framework Doesn’t Add Up - Education Next
+ - [https://www.educationnext.org/californias-new-math-framework-doesnt-add-up](https://www.educationnext.org/californias-new-math-framework-doesnt-add-up)
+ - date_published: 2023-05-16T05:00:12+00:00
+ - tags: ['california math framework', 'math is racist', 'racism', 'science is dead']
+
  ## DHS engaged in massive censorship laundering scheme â your government is trying to erase your First Amendment rights
  - [https://www.newstarget.com/2023-05-16-dhs-censorship-laundering-scheme-erase-first-amendment.html](https://www.newstarget.com/2023-05-16-dhs-censorship-laundering-scheme-erase-first-amendment.html)
  - date_published: 2023-05-16T07:13:17+00:00
  - tags: ['big brother', 'censorship laundering', 'government control']
-
- ## California’s New Math Framework Doesn’t Add Up - Education Next
- - [https://www.educationnext.org/californias-new-math-framework-doesnt-add-up](https://www.educationnext.org/californias-new-math-framework-doesnt-add-up)
- - date_published: 2023-05-16T07:34:34+00:00
- - tags: ['california math framework', 'math is racist', 'racism', 'science is dead']
 
  ## Wykluczeni w imię tęczy. Ideologia zżera francuski futbol | Fronda.pl
  - [https://www.fronda.pl/a/Wykluczeni-w-imie-teczy-Ideologia-zzera-francuski-futbol,215288.html](https://www.fronda.pl/a/Wykluczeni-w-imie-teczy-Ideologia-zzera-francuski-futbol,215288.html)
  - date_published: 2023-05-16T08:00:41+00:00
  - tags: ['intolerance', 'lgbt', 'the left wing']
 
- ## John Durham concludes FBI never should have launched full Trump-Russia probe | CNN Politics
- - [https://edition.cnn.com/2023/05/15/politics/john-durham-report-fbi-trump-released/index.html](https://edition.cnn.com/2023/05/15/politics/john-durham-report-fbi-trump-released/index.html)
- - date_published: 2023-05-16T12:27:39+00:00
- - tags: ['donald trump', 'elections', 'fbi']
-
  ## US Secret Service: “blockchain is an opportunity to track money”
  - [https://coinpaper.com/1505/us-secret-service-blockchain-is-an-amazing-opportunity-to-track-money](https://coinpaper.com/1505/us-secret-service-blockchain-is-an-amazing-opportunity-to-track-money)
- - date_published: 2023-05-16T18:40:26+00:00
+ - date_published: 2023-05-16T11:21:21+00:00
  - tags: ['blockchain', 'cbdc']
-
- ## ChatGPT is not ‘artificial intelligence.’ It’s theft
- - [https://www.americamagazine.org/faith/2023/05/15/chatgpt-artificial-intelligence-theft-245283](https://www.americamagazine.org/faith/2023/05/15/chatgpt-artificial-intelligence-theft-245283)
- - date_published: 2023-05-16T22:00:02+00:00
- - tags: ['artificial intelligence', 'chatgpt']
 
  ## Epstein Moved $270,000 for Noam Chomsky and Paid $150,000 to Leon Botstein
  - [https://www.wsj.com/articles/jeffrey-epstein-noam-chomsky-leon-botstein-bard-ce5beb9d](https://www.wsj.com/articles/jeffrey-epstein-noam-chomsky-leon-botstein-bard-ce5beb9d)
  - date_published: 2023-05-17T09:30:00+00:00
  - tags: ['jeffrey epstein', 'leon botstein', 'noam chomsky']
+ - date_dead_since: 2025-07-14T19:46:39.011739+00:00
 
  ## EU passes first regulatory framework for cryptocurrency • The Register
  - [https://www.theregister.com/2023/05/17/eu_passes_cryptocurrency_regs](https://www.theregister.com/2023/05/17/eu_passes_cryptocurrency_regs)
  - date_published: 2023-05-17T11:34:52+00:00
  - tags: ['crypto', 'europe', 'government control', 'markets in cryptoassets']
 
+ ## Media Blackout on Biden Bombshells—It’s the Laptop All Over Again
+ - [https://amac.us/media-blackout-on-biden-bombshells-its-the-laptop-all-over-again](https://amac.us/media-blackout-on-biden-bombshells-its-the-laptop-all-over-again)
+ - date_published: 2023-05-17T13:34:11+00:00
+ - tags: ['hunter biden', 'joe biden']
+
  ## DuckDuckGo owns the #2 position in mobile market share in the US
  - [https://help.duckduckgo.com/duckduckgo-help-pages/company/advertise-on-duckduckgo-search](https://help.duckduckgo.com/duckduckgo-help-pages/company/advertise-on-duckduckgo-search)
  - date_published: 2023-05-17T19:02:15+00:00
  - tags: ['duckduckgo']
-
- ## Media Blackout on Biden Bombshells—It’s the Laptop All Over Again
- - [https://amac.us/media-blackout-on-biden-bombshells-its-the-laptop-all-over-again](https://amac.us/media-blackout-on-biden-bombshells-its-the-laptop-all-over-again)
- - date_published: 2023-05-17T19:17:44+00:00
- - tags: ['hunter biden', 'joe biden']
 
  ## Has ChatGPT Been Neutered?
  - [https://news.ycombinator.com/item?id=35983824](https://news.ycombinator.com/item?id=35983824)
@@ -4440,6 +4441,11 @@
  - date_published: 2023-05-19T00:00:17+00:00
  - tags: ['c++', 'programming']
 
+ ## Potentially millions of Android TVs and phones come with malware preinstalled
+ - [https://arstechnica.com/information-technology/2023/05/potentially-millions-of-android-tvs-and-phones-come-with-malware-preinstalled](https://arstechnica.com/information-technology/2023/05/potentially-millions-of-android-tvs-and-phones-come-with-malware-preinstalled)
+ - date_published: 2023-05-19T00:36:45+00:00
+ - tags: ['android', 'malware', 'vulnerability']
+
  ## Anuna De Wever Van Der Heyden
  - [https://twitter.com/AnunaDe/status/1659486023615643649](https://twitter.com/AnunaDe/status/1659486023615643649)
  - date_published: 2023-05-19T09:32:09+00:00
@@ -4456,10 +4462,10 @@
  - tags: ['covid', 'propaganda']
  - date_dead_since: 2025-06-13T03:24:24.688999+00:00
 
- ## Potentially millions of Android TVs and phones come with malware preinstalled
- - [https://arstechnica.com/information-technology/2023/05/potentially-millions-of-android-tvs-and-phones-come-with-malware-preinstalled](https://arstechnica.com/information-technology/2023/05/potentially-millions-of-android-tvs-and-phones-come-with-malware-preinstalled)
- - date_published: 2023-05-21T12:56:52+00:00
- - tags: ['android', 'malware', 'vulnerability']
+ ## Antic probe reveals Canberra silenced 4213 Covid posts
+ - [https://www.theaustralian.com.au/nation/antic-probe-reveals-canberra-silenced-4213-covid-posts/news-story/9afc4362197af63454bd3fa89285c282?amp&nk=75123c3603747a0fb6a011617db93217-1684746559](https://www.theaustralian.com.au/nation/antic-probe-reveals-canberra-silenced-4213-covid-posts/news-story/9afc4362197af63454bd3fa89285c282?amp&nk=75123c3603747a0fb6a011617db93217-1684746559)
+ - date_published: 2023-05-21T09:48:00+00:00
+ - tags: ['australia', 'censorship', 'covid']
 
  ## Jeffrey Epstein allegedly tried to extort Bill Gates over extramarital affair
  - [https://www.theguardian.com/us-news/2023/may/21/jeffrey-epstein-extort-bill-gates-extramarital-affair](https://www.theguardian.com/us-news/2023/may/21/jeffrey-epstein-extort-bill-gates-extramarital-affair)
@@ -4491,11 +4497,6 @@
  - date_published: 2023-05-22T06:57:25+00:00
  - tags: ['donald trump', 'propaganda']
 
- ## Antic probe reveals Canberra silenced 4213 Covid posts
- - [https://www.theaustralian.com.au/nation/antic-probe-reveals-canberra-silenced-4213-covid-posts/news-story/9afc4362197af63454bd3fa89285c282?amp&nk=75123c3603747a0fb6a011617db93217-1684746559](https://www.theaustralian.com.au/nation/antic-probe-reveals-canberra-silenced-4213-covid-posts/news-story/9afc4362197af63454bd3fa89285c282?amp&nk=75123c3603747a0fb6a011617db93217-1684746559)
- - date_published: 2023-05-22T07:57:42+00:00
- - tags: ['australia', 'censorship', 'covid']
-
  ## Noyb win: € 1.2B fine against Meta over EU-US data transfers
  - [https://noyb.eu/en/edpb-decision-facebooks-eu-us-data-transfers-stop-transfers-fine-and-repatriation](https://noyb.eu/en/edpb-decision-facebooks-eu-us-data-transfers-stop-transfers-fine-and-repatriation)
  - date_published: 2023-05-22T09:18:25+00:00
@@ -4520,6 +4521,16 @@
  - [https://www.theverge.com/2023/5/22/23732823/amazon-one-palm-scanning-technology-age-verification](https://www.theverge.com/2023/5/22/23732823/amazon-one-palm-scanning-technology-age-verification)
  - date_published: 2023-05-22T16:50:26+00:00
  - tags: ['biometric', 'digital identity', 'privacy']
+
+ ## Dear Ubuntu
+ - [https://hackaday.com/2023/05/22/dear-ubuntu](https://hackaday.com/2023/05/22/dear-ubuntu)
+ - date_published: 2023-05-22T17:00:49+00:00
+ - tags: ['ubuntu']
+
+ ## The QR-code menu is being shown the door
+ - [https://www.nytimes.com/2023/05/22/dining/restaurant-qr-code-menu.html](https://www.nytimes.com/2023/05/22/dining/restaurant-qr-code-menu.html)
+ - date_published: 2023-05-22T18:53:39+00:00
+ - tags: ['covid', 'qr codes']
 
  ## Leaked Government Document Shows Spain Wants to Ban End-to-End Encryption
  - [https://www.wired.com/story/europe-break-encryption-leaked-document-csa-law](https://www.wired.com/story/europe-break-encryption-leaked-document-csa-law)
@@ -4566,6 +4577,11 @@
  - date_published: 2023-05-23T15:56:11+00:00
  - tags: ['newspeak', 'pronouns', 'the left wing']
 
+ ## Google bans Downloader app after TV firms complain it can load a pirate website | Ars Technica
+ - [https://arstechnica.com/tech-policy/2023/05/google-bans-downloader-app-after-tv-firms-complain-it-can-load-a-pirate-website](https://arstechnica.com/tech-policy/2023/05/google-bans-downloader-app-after-tv-firms-complain-it-can-load-a-pirate-website)
+ - date_published: 2023-05-23T19:13:03+00:00
+ - tags: ['google', 'technofeudalism']
+
  ## Widespread FBI abuse of foreign spy law sets off "alarm bells," tech group says
  - [https://arstechnica.com/tech-policy/2023/05/fbi-misused-foreign-surveillance-law-280k-times-to-snoop-on-people-in-the-us](https://arstechnica.com/tech-policy/2023/05/fbi-misused-foreign-surveillance-law-280k-times-to-snoop-on-people-in-the-us)
  - date_published: 2023-05-23T22:09:25+00:00
@@ -4576,30 +4592,25 @@
  - date_published: 2023-05-24T00:00:00+00:00
  - tags: ['funny', 'movies']
 
- ## Dear Ubuntu
- - [https://hackaday.com/2023/05/22/dear-ubuntu](https://hackaday.com/2023/05/22/dear-ubuntu)
- - date_published: 2023-05-24T05:04:45+00:00
- - tags: ['ubuntu']
+ ## To Save the News, We Must Shatter Ad-Tech | Electronic Frontier Foundation
+ - [https://www.eff.org/deeplinks/2023/05/save-news-we-must-shatter-ad-tech](https://www.eff.org/deeplinks/2023/05/save-news-we-must-shatter-ad-tech)
+ - date_published: 2023-05-24T05:02:12+00:00
+ - tags: ['ad business', 'legacy media', 'mainstream media', 'news media']
 
  ## UE szykuje się do zakazu szyfrowania. Wyciekła oficjalna ankieta z opiniami państw członkowskich
  - [https://ithardware.pl/aktualnosci/wyciekla_lista_krajow_ue_zwalczajacych_szyfrowanie_komunikatorow_znamy_stanowisko_polski_i_innych-27433.html](https://ithardware.pl/aktualnosci/wyciekla_lista_krajow_ue_zwalczajacych_szyfrowanie_komunikatorow_znamy_stanowisko_polski_i_innych-27433.html)
  - date_published: 2023-05-24T07:59:10+00:00
  - tags: ['crypto wars']
 
- ## To Save the News, We Must Shatter Ad-Tech | Electronic Frontier Foundation
- - [https://www.eff.org/deeplinks/2023/05/save-news-we-must-shatter-ad-tech](https://www.eff.org/deeplinks/2023/05/save-news-we-must-shatter-ad-tech)
- - date_published: 2023-05-24T08:05:09+00:00
- - tags: ['ad business', 'legacy media', 'mainstream media', 'news media']
+ ## Epstein Revelations Expose the Crumbling Rothschild Khazarian Mafia Pedo-Empire, Part 2 -
+ - [https://thegovernmentrag.com/articles/epstein-revelations-expose-the-crumbling-rothschild-khazarian-mafia-pedo-empire-part-2](https://thegovernmentrag.com/articles/epstein-revelations-expose-the-crumbling-rothschild-khazarian-mafia-pedo-empire-part-2)
+ - date_published: 2023-05-24T08:13:46+00:00
+ - tags: ['jeffrey epstein', 'rothschild']
 
  ## Crypto Wars - Wikipedia
  - [https://en.wikipedia.org/wiki/Crypto_Wars](https://en.wikipedia.org/wiki/Crypto_Wars)
  - date_published: 2023-05-24T12:27:19+00:00
  - tags: ['big brother', 'crypto wars', 'privacy', 'surveillance']
-
- ## Epstein Revelations Expose the Crumbling Rothschild Khazarian Mafia Pedo-Empire, Part 2 -
- - [https://thegovernmentrag.com/articles/epstein-revelations-expose-the-crumbling-rothschild-khazarian-mafia-pedo-empire-part-2](https://thegovernmentrag.com/articles/epstein-revelations-expose-the-crumbling-rothschild-khazarian-mafia-pedo-empire-part-2)
- - date_published: 2023-05-24T12:47:51+00:00
- - tags: ['jeffrey epstein', 'rothschild']
 
  ## The Little Mermaid’s Rotten Tomatoes Is A Hilarious Reality Check For Disney’s Remakes
  - [https://screenrant.com/little-mermaid-2023-rotten-tomatoes-score-disney-remakes](https://screenrant.com/little-mermaid-2023-rotten-tomatoes-score-disney-remakes)
@@ -4615,11 +4626,6 @@
  - [https://www.npr.org/2023/05/24/1177963864/target-pride-month-lgbtq-products-threats](https://www.npr.org/2023/05/24/1177963864/target-pride-month-lgbtq-products-threats)
  - date_published: 2023-05-24T19:53:44+00:00
  - tags: ['indoctrination', 'lgbt', 'pride', 'the left wing', 'woke']
-
- ## The QR-code menu is being shown the door
- - [https://www.nytimes.com/2023/05/22/dining/restaurant-qr-code-menu.html](https://www.nytimes.com/2023/05/22/dining/restaurant-qr-code-menu.html)
- - date_published: 2023-05-25T00:17:14+00:00
- - tags: ['covid', 'qr codes']
 
  ## Two Men Charged After Catholic Church in Northern Alberta Gutted by Arson
  - [https://www.theepochtimes.com/two-men-charged-after-catholic-church-in-northern-alberta-gutted-by-arson_5290005.html](https://www.theepochtimes.com/two-men-charged-after-catholic-church-in-northern-alberta-gutted-by-arson_5290005.html)
@@ -4645,6 +4651,11 @@
  - [https://gitlab.com/AuroraOSS/AuroraStore/-/issues/912](https://gitlab.com/AuroraOSS/AuroraStore/-/issues/912)
  - date_published: 2023-05-25T19:00:50+00:00
  - tags: ['app store', 'aurora', 'google', 'play store']
+
+ ## YouTube removed dislike counts, so this guy made Rotten Tomatoes for YouTube
+ - [https://bgr.com/tech/youtube-removed-dislike-counts-so-this-guy-made-rotten-tomatoes-for-youtube-videos](https://bgr.com/tech/youtube-removed-dislike-counts-so-this-guy-made-rotten-tomatoes-for-youtube-videos)
+ - date_published: 2023-05-25T19:39:00+00:00
+ - tags: ['project', 'youtube']
 
  ## Neuralink: Elon Musk's brain chip firm says US approval won for human study
  - [https://www.bbc.co.uk/news/health-65717487?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/health-65717487?at_medium=RSS&at_campaign=KARANGA)
@@ -4691,25 +4702,25 @@
  - date_published: 2023-05-28T13:35:57+00:00
  - tags: ['disney', 'go woke go broke', 'movies']
 
- ## YouTube removed dislike counts, so this guy made Rotten Tomatoes for YouTube
- - [https://bgr.com/tech/youtube-removed-dislike-counts-so-this-guy-made-rotten-tomatoes-for-youtube-videos](https://bgr.com/tech/youtube-removed-dislike-counts-so-this-guy-made-rotten-tomatoes-for-youtube-videos)
- - date_published: 2023-05-28T16:42:30+00:00
- - tags: ['project', 'youtube']
-
  ## AI Is About To Change The World Forever - And It Gives Me A Headache
  - [https://www.youtube.com/watch?v=lHguKr6nS4Q](https://www.youtube.com/watch?v=lHguKr6nS4Q)
  - date_published: 2023-05-29T00:00:00+00:00
  - tags: ['artificial intelligence']
+
+ ## Tesla ma problem. Pracownik ujawnił tysiące skarg na auta elektryczne - Instalki.pl
+ - [https://www.instalki.pl/aktualnosci/technika/59356-tesla-wyciek-100-gb-skargi-handelsblatt.html](https://www.instalki.pl/aktualnosci/technika/59356-tesla-wyciek-100-gb-skargi-handelsblatt.html)
+ - date_published: 2023-05-29T06:50:26+00:00
+ - tags: ['climate change', 'electric vehicles']
 
  ## Lex Tusk - co zawiera i dlaczego jest groźna - rp.pl
  - [https://www.rp.pl/prawo-karne/art38529891-lex-tusk-co-zawiera-i-dlaczego-jest-grozna](https://www.rp.pl/prawo-karne/art38529891-lex-tusk-co-zawiera-i-dlaczego-jest-grozna)
  - date_published: 2023-05-29T06:59:30+00:00
  - tags: ['lex tusk', 'poland', 'prawo i sprawiedliwość']
 
- ## Tesla ma problem. Pracownik ujawnił tysiące skarg na auta elektryczne - Instalki.pl
- - [https://www.instalki.pl/aktualnosci/technika/59356-tesla-wyciek-100-gb-skargi-handelsblatt.html](https://www.instalki.pl/aktualnosci/technika/59356-tesla-wyciek-100-gb-skargi-handelsblatt.html)
- - date_published: 2023-05-29T07:27:02.626362+00:00
- - tags: ['climate change', 'electric vehicles']
+ ## ‘The Little Mermaid’ Already in Danger of Sinking at the Overseas Box Office
+ - [https://wegotthiscovered.com/movies/the-little-mermaid-in-danger-of-sinking-at-the-overseas-box-office-and-theres-no-prizes-for-guessing-why](https://wegotthiscovered.com/movies/the-little-mermaid-in-danger-of-sinking-at-the-overseas-box-office-and-theres-no-prizes-for-guessing-why)
+ - date_published: 2023-05-29T07:12:22+00:00
+ - tags: ['censorship', 'disney', 'go woke go broke', 'movies']
 
  ## Kilka milionów loginów i haseł z Polski wyciekło do sieci | Zaufana Trzecia Strona
  - [https://zaufanatrzeciastrona.pl/post/kilka-milionow-loginow-i-hasel-z-polski-wycieklo-do-sieci](https://zaufanatrzeciastrona.pl/post/kilka-milionow-loginow-i-hasel-z-polski-wycieklo-do-sieci)
@@ -4726,40 +4737,40 @@
  - date_published: 2023-05-29T10:17:54+00:00
  - tags: ['lex tusk', 'poland', 'prawo i sprawiedliwość']
 
- ## ‘The Little Mermaid’ Already in Danger of Sinking at the Overseas Box Office
- - [https://wegotthiscovered.com/movies/the-little-mermaid-in-danger-of-sinking-at-the-overseas-box-office-and-theres-no-prizes-for-guessing-why](https://wegotthiscovered.com/movies/the-little-mermaid-in-danger-of-sinking-at-the-overseas-box-office-and-theres-no-prizes-for-guessing-why)
- - date_published: 2023-05-29T13:00:19+00:00
- - tags: ['censorship', 'disney', 'go woke go broke', 'movies']
-
  ## Favoree - Discover quality channels from YouTube
  - [https://www.favoree.io](https://www.favoree.io)
  - date_published: 2023-05-29T20:13:47+00:00
  - tags: ['youtube']
+
+ ## 60 terrible tips for a C++ developer
+ - [https://pvs-studio.com/en/blog/posts/cpp/1053](https://pvs-studio.com/en/blog/posts/cpp/1053)
+ - date_published: 2023-05-30T00:00:00+00:00
+ - tags: ['c++', 'programming']
 
  ## Twitter's Algorithm: Amplifying Anger, Animosity, and Affective Polarization
  - [https://arxiv.org/abs/2305.16941](https://arxiv.org/abs/2305.16941)
  - date_published: 2023-05-30T07:18:14+00:00
  - tags: ['polarization', 'social media']
 
+ ## Paragon Graphite is a Pegasus spyware clone used in the US
+ - [https://www.gamingdeputy.com/paragon-graphite-is-a-pegasus-spyware-clone-used-in-the-us](https://www.gamingdeputy.com/paragon-graphite-is-a-pegasus-spyware-clone-used-in-the-us)
+ - date_published: 2023-05-30T11:29:48+00:00
+ - tags: ['paragon graphite', 'pegasus', 'spyware']
+
  ## Trove of Jeffrey Epstein's emails and calendar entries reveal's pedophile's network of power
  - [https://www.dailymail.co.uk/news/article-12136305/Trove-Jeffrey-Epsteins-emails-calendar-entries-reveals-pedophiles-network-power.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12136305/Trove-Jeffrey-Epsteins-emails-calendar-entries-reveals-pedophiles-network-power.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date_published: 2023-05-30T13:01:31+00:00
  - tags: ['jeffrey epstein']
 
- ## 60 terrible tips for a C++ developer
- - [https://pvs-studio.com/en/blog/posts/cpp/1053](https://pvs-studio.com/en/blog/posts/cpp/1053)
- - date_published: 2023-05-30T14:27:26+00:00
- - tags: ['c++', 'programming']
+ ## Japan Goes All In: Copyright Doesn’t Apply to AI Training
+ - [https://technomancers.ai/japan-goes-all-in-copyright-doesnt-apply-to-ai-training](https://technomancers.ai/japan-goes-all-in-copyright-doesnt-apply-to-ai-training)
+ - date_published: 2023-05-30T17:21:00+00:00
+ - tags: ['artificial intelligence', 'corporatocracy', 'japan', 'law']
 
  ## The Downfall of Mobile Gaming
  - [https://www.youtube.com/watch?v=ntz2c2z54dg](https://www.youtube.com/watch?v=ntz2c2z54dg)
  - date_published: 2023-05-31T00:00:00+00:00
  - tags: ['games']
-
- ## Paragon Graphite is a Pegasus spyware clone used in the US
- - [https://www.gamingdeputy.com/paragon-graphite-is-a-pegasus-spyware-clone-used-in-the-us](https://www.gamingdeputy.com/paragon-graphite-is-a-pegasus-spyware-clone-used-in-the-us)
- - date_published: 2023-05-31T06:43:48+00:00
- - tags: ['paragon graphite', 'pegasus', 'spyware']
 
  ## RAF told to ‘stop choosing useless white male pilots’, leak reveals
  - [https://www.telegraph.co.uk/news/2023/05/31/stop-hiring-useless-white-male-pilots-raf-told](https://www.telegraph.co.uk/news/2023/05/31/stop-hiring-useless-white-male-pilots-raf-told)
@@ -4784,7 +4795,7 @@
 
  ## Millions of PC Motherboards Were Sold with a Firmware Backdoor
  - [https://www.wired.com/story/gigabyte-motherboard-firmware-backdoor](https://www.wired.com/story/gigabyte-motherboard-firmware-backdoor)
- - date_published: 2023-05-31T13:35:56+00:00
+ - date_published: 2023-05-31T13:00:00+00:00
  - tags: ['backdoor', 'vulnerability']
 
  ## North Korea elected to World Health Organization executive board
@@ -4792,26 +4803,20 @@
  - date_published: 2023-05-31T13:53:29+00:00
  - tags: ['north korea', 'who']
 
- ## Google bans Downloader app after TV firms complain it can load a pirate website | Ars Technica
- - [https://arstechnica.com/tech-policy/2023/05/google-bans-downloader-app-after-tv-firms-complain-it-can-load-a-pirate-website](https://arstechnica.com/tech-policy/2023/05/google-bans-downloader-app-after-tv-firms-complain-it-can-load-a-pirate-website)
- - date_published: 2023-05-31T17:22:45+00:00
- - tags: ['google', 'technofeudalism']
+ ## FTC Says Ring Employees Illegally Surveilled Customers, Failed to Stop Hackers
+ - [https://www.ftc.gov/news-events/news/press-releases/2023/05/ftc-says-ring-employees-illegally-surveilled-customers-failed-stop-hackers-taking-control-users](https://www.ftc.gov/news-events/news/press-releases/2023/05/ftc-says-ring-employees-illegally-surveilled-customers-failed-stop-hackers-taking-control-users)
+ - date_published: 2023-05-31T14:57:00+00:00
+ - tags: ['anonymity', 'privacy', 'ring', 'surveillance']
 
  ## Old Reddit is open source
  - [https://github.com/reddit-archive/reddit](https://github.com/reddit-archive/reddit)
  - date_published: 2023-05-31T19:30:53+00:00
  - tags: ['open source', 'reddit', 'selfhost']
 
- ## Japan Goes All In: Copyright Doesn’t Apply to AI Training
- - [https://technomancers.ai/japan-goes-all-in-copyright-doesnt-apply-to-ai-training](https://technomancers.ai/japan-goes-all-in-copyright-doesnt-apply-to-ai-training)
- - date_published: 2023-05-31T20:58:13+00:00
- - tags: ['artificial intelligence', 'corporatocracy', 'japan', 'law']
- - date_dead_since: 2024-10-05T15:04:12.515106+00:00
-
- ## FTC Says Ring Employees Illegally Surveilled Customers, Failed to Stop Hackers
- - [https://www.ftc.gov/news-events/news/press-releases/2023/05/ftc-says-ring-employees-illegally-surveilled-customers-failed-stop-hackers-taking-control-users](https://www.ftc.gov/news-events/news/press-releases/2023/05/ftc-says-ring-employees-illegally-surveilled-customers-failed-stop-hackers-taking-control-users)
- - date_published: 2023-05-31T23:51:48+00:00
- - tags: ['anonymity', 'privacy', 'ring', 'surveillance']
+ ## Is Coding Education - As We Know It - Dead? How Large Language Models Are Changing Programmers
+ - [https://www.forbes.com/sites/nishatalagala/2023/06/01/is-coding-educationas-we-know-itdead-how-large-language-models-are-changing-programmers](https://www.forbes.com/sites/nishatalagala/2023/06/01/is-coding-educationas-we-know-itdead-how-large-language-models-are-changing-programmers)
+ - date_published: 2023-06-01T00:00:00+00:00
+ - tags: ['artificial intelligence', 'programming']
 
  ## Hakerzy ujawnili dane użytkowników Allegro, Onetu, WP i Facebooka. Rząd oferuje weryfikację
  - [https://www.wirtualnemedia.pl/artykul/wyciek-danych-haslo-login-allegro-onetu-wp-facebook-jak-sprawdzic-moje-dane](https://www.wirtualnemedia.pl/artykul/wyciek-danych-haslo-login-allegro-onetu-wp-facebook-jak-sprawdzic-moje-dane)
@@ -4837,11 +4842,6 @@
  - [https://news.sky.com/story/raf-recruiters-were-advised-against-selecting-useless-white-male-pilots-to-hit-diversity-targets-12893684](https://news.sky.com/story/raf-recruiters-were-advised-against-selecting-useless-white-male-pilots-to-hit-diversity-targets-12893684)
  - date_published: 2023-06-01T05:58:20+00:00
  - tags: ['america', 'racism']
-
- ## Minnesota woman to pay $220,000 fine for 24 illegally downloaded songs | Piracy | The Guardian
- - [https://www.theguardian.com/technology/2012/sep/11/minnesota-woman-songs-illegally-downloaded](https://www.theguardian.com/technology/2012/sep/11/minnesota-woman-songs-illegally-downloaded)
- - date_published: 2023-06-01T06:26:25+00:00
- - tags: ['piracy']
 
  ## File sharing in Japan - Wikipedia
  - [https://en.wikipedia.org/wiki/File_sharing_in_Japan](https://en.wikipedia.org/wiki/File_sharing_in_Japan)
@@ -4877,21 +4877,18 @@
  - [https://netherlands.postsen.com/trends/198695/Securitytxt-now-mandatory-for-Dutch-government-websites.html](https://netherlands.postsen.com/trends/198695/Securitytxt-now-mandatory-for-Dutch-government-websites.html)
  - date_published: 2023-06-01T09:27:28+00:00
  - tags: ['government control', 'internet', 'open source', 'security', 'vulnerability']
+ - date_dead_since: 2025-07-14T05:45:00.112541+00:00
 
  ## Privacy: One of the Most Fundamental Human Rights, yet Constantly Under Threat
  - [https://escapebigtech.info/posts/privacy-one-of-the-most-fundamental-human-rights-yet-constantly-under-threat](https://escapebigtech.info/posts/privacy-one-of-the-most-fundamental-human-rights-yet-constantly-under-threat)
  - date_published: 2023-06-01T13:07:57+00:00
  - tags: ['big brother', 'privacy', 'surveillance']
+ - date_dead_since: 2025-07-14T05:38:34.197204+00:00
 
  ## Research Finds Women Are Advantaged in Being Hired in Academic Science
  - [https://journals.sagepub.com/doi/full/10.1177/15291006231163179](https://journals.sagepub.com/doi/full/10.1177/15291006231163179)
  - date_published: 2023-06-01T13:21:21+00:00
  - tags: ['feminism', 'sexism']
-
- ## Is Coding Education - As We Know It - Dead? How Large Language Models Are Changing Programmers
- - [https://www.forbes.com/sites/nishatalagala/2023/06/01/is-coding-educationas-we-know-itdead-how-large-language-models-are-changing-programmers](https://www.forbes.com/sites/nishatalagala/2023/06/01/is-coding-educationas-we-know-itdead-how-large-language-models-are-changing-programmers)
- - date_published: 2023-06-01T14:36:49+00:00
- - tags: ['artificial intelligence', 'programming']
 
  ## Twitter Backs Out Of Streaming “What Is A Woman?” Documentary, Cites “Misgendering,” Daily Wire Says
  - [https://reclaimthenet.org/twitter-backs-out-of-streaming-what-is-a-woman-documentary](https://reclaimthenet.org/twitter-backs-out-of-streaming-what-is-a-woman-documentary)
@@ -4929,6 +4926,11 @@
  - date_published: 2023-06-03T00:15:14+00:00
  - tags: ['games', 'tomb raider']
 
+ ## The distribution model is changing
+ - [https://www.ypsidanger.com/the-distribution-model-is-changing](https://www.ypsidanger.com/the-distribution-model-is-changing)
+ - date_published: 2023-06-03T01:19:43+00:00
+ - tags: ['flatpak', 'linux', 'open source']
+
  ## Szefowa Coca-Cola HBC w Polsce: wyrównamy liczbę kobiet i mężczyzn w kierownictwie [WYWIAD]
  - [https://businessinsider.com.pl/firmy/szefowa-coca-cola-hbc-chce-w-kierownictwie-tyle-kobiet-co-mezczyzn-ma-plan/d6kexfe](https://businessinsider.com.pl/firmy/szefowa-coca-cola-hbc-chce-w-kierownictwie-tyle-kobiet-co-mezczyzn-ma-plan/d6kexfe)
  - date_published: 2023-06-03T04:47:46+00:00
@@ -4939,11 +4941,6 @@
  - date_published: 2023-06-03T07:00:24+00:00
  - tags: ['climate change', 'electric vehicles']
 
- ## The distribution model is changing
- - [https://www.ypsidanger.com/the-distribution-model-is-changing](https://www.ypsidanger.com/the-distribution-model-is-changing)
- - date_published: 2023-06-03T10:58:12+00:00
- - tags: ['flatpak', 'linux', 'open source']
-
  ## Utah school district that banned Bible considers removing Book of Mormon
  - [https://www.theguardian.com/books/2023/jun/03/utah-school-district-book-of-morman-ban](https://www.theguardian.com/books/2023/jun/03/utah-school-district-book-of-morman-ban)
  - date_published: 2023-06-03T15:22:11+00:00
@@ -4951,7 +4948,7 @@
 
  ## Kasy samoobsługowe demontowane w kolejnych krajach. Jest ważny powód - Instalki.pl
  - [https://www.instalki.pl/aktualnosci/technika/59435-kasy-samoobslugowe-demontowane-w-kolejnych-krajach-jest-wazny-powod.html](https://www.instalki.pl/aktualnosci/technika/59435-kasy-samoobslugowe-demontowane-w-kolejnych-krajach-jest-wazny-powod.html)
- - date_published: 2023-06-03T17:46:08.673382+00:00
+ - date_published: 2023-06-03T16:32:18+00:00
  - tags: ['sociology']
 
  ## CIA, MKUltra, and the cover-up of U.S. germ warfare in the Korean war (2022)
@@ -5039,6 +5036,11 @@
  - date_published: 2023-06-05T19:51:50+00:00
  - tags: ['artificial intelligence', 'programming']
 
+ ## Reddit’s plan to kill third-party apps sparks widespread protests
+ - [https://arstechnica.com/gadgets/2023/06/reddits-plan-to-kill-third-party-apps-sparks-widespread-protests](https://arstechnica.com/gadgets/2023/06/reddits-plan-to-kill-third-party-apps-sparks-widespread-protests)
+ - date_published: 2023-06-05T21:43:45+00:00
+ - tags: ['reddit', 'technofeudalism']
+
  ## Legendary drag queen, polarizing activist Sister Roma honored by CA state legislature in Sacramento amid controversy - ABC7 San Francisco
  - [https://abc7news.com/sister-roma-state-capitol-protest-the-sisters-of-perpetual-indulgence-honored-in-sacramento/13348438](https://abc7news.com/sister-roma-state-capitol-protest-the-sisters-of-perpetual-indulgence-honored-in-sacramento/13348438)
  - date_published: 2023-06-06T03:04:18+00:00
@@ -5054,11 +5056,6 @@
  - date_published: 2023-06-06T07:09:04+00:00
  - tags: ['covid', 'digital identity', 'digital passport', 'vaccine passport', 'who']
 
- ## Reddit’s plan to kill third-party apps sparks widespread protests
- - [https://arstechnica.com/gadgets/2023/06/reddits-plan-to-kill-third-party-apps-sparks-widespread-protests](https://arstechnica.com/gadgets/2023/06/reddits-plan-to-kill-third-party-apps-sparks-widespread-protests)
- - date_published: 2023-06-06T10:52:36+00:00
- - tags: ['reddit', 'technofeudalism']
-
  ## Reddit permanently bans account of user advocating Lemmy migration
  - [https://lemmy.ml/post/1152281](https://lemmy.ml/post/1152281)
  - date_published: 2023-06-06T17:06:52+00:00
@@ -5071,7 +5068,7 @@
 
  ## U.S. Was Aware of Ukrainian Plan to Bomb Nord Stream Pipeline Before Attack
  - [https://www.nytimes.com/2023/06/06/us/politics/nord-stream-pipeline-attack-intelligence.html](https://www.nytimes.com/2023/06/06/us/politics/nord-stream-pipeline-attack-intelligence.html)
- - date_published: 2023-06-06T20:11:26+00:00
+ - date_published: 2023-06-06T19:51:46+00:00
  - tags: ['america', 'nord stream']
 
  ## How's the Stack Overflow strike going?
@@ -5086,14 +5083,13 @@
 
  ## Microsoft has no shame: Bing spit on my ‘Chrome’ search with a fake AI answer
  - [https://www.theverge.com/2023/6/6/23736289/microsoft-bing-chrome-search-fake-ai-chatbot](https://www.theverge.com/2023/6/6/23736289/microsoft-bing-chrome-search-fake-ai-chatbot)
- - date_published: 2023-06-07T02:15:57+00:00
+ - date_published: 2023-06-07T01:34:32+00:00
  - tags: ['artificial intelligence', 'dark design', 'manufacturing consent']
 
  ## AI images outperforming photos on Adobe Stock (17 cent RPI/m VS 3.75 cent)
  - [https://www.stockperformer.com/blog/is-ai-killing-the-stock-industry-a-data-perspective](https://www.stockperformer.com/blog/is-ai-killing-the-stock-industry-a-data-perspective)
  - date_published: 2023-06-07T05:45:07+00:00
  - tags: ['artificial intelligence']
- - date_dead_since: 2025-03-06T00:48:40.520484+00:00
 
  ## White genocide conspiracy theory - Wikipedia
  - [https://en.wikipedia.org/wiki/White_genocide_conspiracy_theory](https://en.wikipedia.org/wiki/White_genocide_conspiracy_theory)

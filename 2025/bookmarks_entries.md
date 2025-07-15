@@ -300,6 +300,12 @@
  - date_published: 2025-03-12T00:13:07+00:00
  - tags: ['usaid']
 
+ ## Palantir’s Alex Karp vaults to near top of best-paid US tech executives
+ - [https://www.ft.com/content/64a2345e-3961-4d5d-ae04-82d933fa5a2c](https://www.ft.com/content/64a2345e-3961-4d5d-ae04-82d933fa5a2c)
+ - date_published: 2025-03-12T05:00:01+00:00
+ - tags: ['palantir']
+ - date_dead_since: 2025-07-14T11:22:11.191262+00:00
+
  ## Amazon forest felled to build road for climate summit
  - [https://www.bbc.com/news/articles/c9vy191rgn1o](https://www.bbc.com/news/articles/c9vy191rgn1o)
  - date_published: 2025-03-12T06:02:29+00:00
@@ -546,5 +552,10 @@
  ## the worst coverup of my lifetime
  - [https://www.youtube.com/watch?v=fyZA2KKmRXw](https://www.youtube.com/watch?v=fyZA2KKmRXw)
  - date_published: 2025-07-11T07:43:52+00:00
+ - tags: ['jeffrey epstein']
+
+ ## Jeffrey Epstein News Just Got Crazier
+ - [https://www.youtube.com/watch?v=YKBw3W4oDoo](https://www.youtube.com/watch?v=YKBw3W4oDoo)
+ - date_published: 2025-07-13T23:00:29+00:00
  - tags: ['jeffrey epstein']
 

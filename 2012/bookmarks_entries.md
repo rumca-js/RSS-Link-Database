@@ -115,6 +115,11 @@ Foreign Bribery Investigation | OPA | Department of Justice
  - date_published: 2012-08-27T12:08:35+00:00
  - tags: ['annenberg', 'fact check', 'propaganda', 'psyop', 'social engineering', 'social media']
 
+ ## Minnesota woman to pay $220,000 fine for 24 illegally downloaded songs | Piracy | The Guardian
+ - [https://www.theguardian.com/technology/2012/sep/11/minnesota-woman-songs-illegally-downloaded](https://www.theguardian.com/technology/2012/sep/11/minnesota-woman-songs-illegally-downloaded)
+ - date_published: 2012-09-11T21:10:00+00:00
+ - tags: ['piracy']
+
  ## Decline of bees forces China’s apple farmers to pollinate by hand
  - [https://chinadialogue.net/en/food/5193-decline-of-bees-forces-china-s-apple-farmers-to-pollinate-by-hand](https://chinadialogue.net/en/food/5193-decline-of-bees-forces-china-s-apple-farmers-to-pollinate-by-hand)
  - date_published: 2012-10-02T09:18:00+00:00

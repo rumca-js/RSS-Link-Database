@@ -1783,6 +1783,45 @@
         "album": "",
         "author": null,
         "bookmarked": true,
+        "comments": [
+            {
+                "comment": "He said \"I love the idea of getting a drone and having light fentanyl-laced urine spraying on analysts that tried to screw us\"",
+                "date_edited": "2025-07-14T11:20:25.455345+00:00",
+                "date_published": "2025-07-14T11:20:25.455345+00:00",
+                "entry_id": 83315,
+                "reply_id": null,
+                "user_id": 1,
+                "user_name": "rumpel"
+            }
+        ],
+        "date_created": "2025-07-14T11:18:40.838819+00:00",
+        "date_dead_since": "2025-07-14T11:22:11.191262+00:00",
+        "date_published": "2025-03-12T05:00:01+00:00",
+        "description": "Data intelligence group\u2019s chief cashed in on surging shares to make $1.9bn, behind only Meta\u2019s Mark Zuckerberg",
+        "id": 83315,
+        "language": "en",
+        "link": "https://www.ft.com/content/64a2345e-3961-4d5d-ae04-82d933fa5a2c",
+        "manual_status_code": 0,
+        "page_rating": 0,
+        "page_rating_contents": 0,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 110,
+        "source_url": "https://www.ft.com/rss/home",
+        "status_code": 400,
+        "tags": [
+            "palantir"
+        ],
+        "thumbnail": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F76e7da18-786b-4e22-892c-ff48357c34df.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "title": "Palantir\u2019s Alex Karp vaults to near top of best-paid US tech executives",
+        "vote": 0
+    },
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": true,
         "comments": [],
         "date_created": "2025-03-12T06:22:31.012702+00:00",
         "date_dead_since": null,
@@ -3233,6 +3272,35 @@
         ],
         "thumbnail": "https://i3.ytimg.com/vi/fyZA2KKmRXw/hqdefault.jpg",
         "title": "the worst coverup of my lifetime",
+        "vote": 0
+    },
+    {
+        "age": null,
+        "album": "",
+        "author": "penguinz0",
+        "bookmarked": true,
+        "comments": [],
+        "date_created": "2025-07-13T23:15:27.964184+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-07-13T23:00:29+00:00",
+        "description": "My gaming channel https://www.youtube.com/@MoistCr1TiKaLGamingOfficial\nGet our soap https://usecheeky.com/#starter-pack-offer\nGet a Starforge PC https://starforgepc.com/moist-yt\nThis is the greatest crazy double down of All Time",
+        "id": 3157167,
+        "language": "en-US",
+        "link": "https://www.youtube.com/watch?v=YKBw3W4oDoo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 411,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCq6VFHwMzcMXbuKyG7SQYIg",
+        "status_code": 0,
+        "tags": [
+            "jeffrey epstein"
+        ],
+        "thumbnail": "https://i2.ytimg.com/vi/YKBw3W4oDoo/hqdefault.jpg",
+        "title": "Jeffrey Epstein News Just Got Crazier",
         "vote": 0
     }
 ]
