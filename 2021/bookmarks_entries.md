@@ -1282,6 +1282,11 @@
  - tags: ['censorship', 'covid', 'ministry of truth', 'misinformation', 'wuhan']
  - date_dead_since: 2025-04-02T20:28:10.357541+00:00
 
+ ## Windows 11: TPMs and Digital Sovereignty
+ - [https://secret.club/2021/06/28/windows11-tpms.html](https://secret.club/2021/06/28/windows11-tpms.html)
+ - date_published: 2021-06-28T00:00:00+00:00
+ - tags: ['dark design', 'microsoft', 'sovereignty', 'tpm', 'walled garden', 'windows']
+
  ## COVID-19 vaccine generates immune structures critical for lasting immunity – Washington University School of Medicine in St. Louis
  - [https://medicine.wustl.edu/news/covid-19-vaccine-generates-immune-structures-critical-for-lasting-immunity](https://medicine.wustl.edu/news/covid-19-vaccine-generates-immune-structures-critical-for-lasting-immunity)
  - date_published: 2021-06-28T07:58:09+00:00
@@ -2849,6 +2854,11 @@
  ## More details about the October 4 outage - Facebook Engineering
  - [https://engineering.fb.com/2021/10/05/networking-traffic/outage-details](https://engineering.fb.com/2021/10/05/networking-traffic/outage-details)
  - date_published: 2021-10-06T06:09:00.862654+00:00
+
+ ## European Parliament calls for ban on facial recognition
+ - [https://www.politico.eu/article/european-parliament-ban-facial-recognition-brussels](https://www.politico.eu/article/european-parliament-ban-facial-recognition-brussels)
+ - date_published: 2021-10-06T08:34:57+00:00
+ - tags: ['biometric', 'facial recognition']
 
  ## Tim Pool Permanently BANNED By TikTok, Likely Due To Hosting Alex Jones, Who Broke No Rules
  - [https://www.newswars.com/tim-pool-permanently-banned-by-tiktok-likely-due-to-hosting-alex-jones-who-broke-no-rules](https://www.newswars.com/tim-pool-permanently-banned-by-tiktok-likely-due-to-hosting-alex-jones-who-broke-no-rules)

@@ -227,7 +227,7 @@
 
  ## Trudeau Government Halts Funds for Unmarked Mass Grave Search After Millions Spent, 110 Churches Vandalised, Zero Bodies Found - The Daily Declaration
  - [https://dailydeclaration.org.au/2025/02/28/canada-trudeau-mass-grave](https://dailydeclaration.org.au/2025/02/28/canada-trudeau-mass-grave)
- - date_published: 2025-02-28T06:25:16+00:00
+ - date_published: 2025-02-28T05:25:16+00:00
  - tags: ['christianophobia']
 
  ## How Google tracks Android device users before they've even opened an app

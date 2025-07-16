@@ -3043,6 +3043,11 @@
  - date_published: 2023-03-29T00:00:00+00:00
  - tags: ['government control', 'restrict act']
 
+ ## The coming war on end-to-end encryption
+ - [https://community.qbix.com/t/the-coming-war-on-end-to-end-encryption/214](https://community.qbix.com/t/the-coming-war-on-end-to-end-encryption/214)
+ - date_published: 2023-03-29T01:33:11+00:00
+ - tags: ['anonymity', 'big brother', 'corporatocracy', 'government control', 'privacy']
+
  ## Politicians, journalists are locked out of Twitter for tweets about trans shooter targeting Nashville Christian school
  - [https://reclaimthenet.org/twitter-censors-tweets-nashville-shooter](https://reclaimthenet.org/twitter-censors-tweets-nashville-shooter)
  - date_published: 2023-03-29T02:34:25+00:00
@@ -3310,7 +3315,7 @@
 
  ## W 2030 r. możesz nie kupić żadnego samochodu. Nawet elektryka. Tak Bruksela namieszała
  - [https://spidersweb.pl/bizblog/w-2030-r-nie-kupimy-zadnego-samochodu](https://spidersweb.pl/bizblog/w-2030-r-nie-kupimy-zadnego-samochodu)
- - date_published: 2023-04-08T19:17:41+00:00
+ - date_published: 2023-04-08T07:38:00+00:00
  - tags: ['electric vehicles']
 
  ## This Makes Hacking TOO Easy - Flipper Zero
@@ -3418,7 +3423,6 @@
  - [https://completemusicupdate.com/article/universal-music-urges-the-streaming-services-to-ensure-their-platforms-arent-being-scraped-by-music-making-ai-tools](https://completemusicupdate.com/article/universal-music-urges-the-streaming-services-to-ensure-their-platforms-arent-being-scraped-by-music-making-ai-tools)
  - date_published: 2023-04-13T07:16:46+00:00
  - tags: ['artificial intelligence']
- - date_dead_since: 2024-10-07T09:16:47.247211+00:00
 
  ## NOP – niepożądany odczyn poszczepienny. Czym jest i jak często występuje? - Szczepienie przeciwko COVID-19 - Portal Gov.pl
  - [https://www.gov.pl/web/szczepimysie/niepozadane-odczyny-poszczepienne](https://www.gov.pl/web/szczepimysie/niepozadane-odczyny-poszczepienne)
@@ -3445,6 +3449,11 @@
  - date_published: 2023-04-13T10:19:39+00:00
  - tags: ['github', 'open source', 'youtube-dl']
 
+ ## Farmers Win the Right to Repair Their Own Tractors in Colorado
+ - [https://www.vice.com/en/article/wxj5nz/farmers-win-the-right-to-repair-their-own-tractors-in-colorado](https://www.vice.com/en/article/wxj5nz/farmers-win-the-right-to-repair-their-own-tractors-in-colorado)
+ - date_published: 2023-04-13T14:30:09+00:00
+ - tags: ['right to repair']
+
  ## ‘I’m all for climate change’: Axel Springer CEO faces heat over leaked messages
  - [https://www.theguardian.com/world/2023/apr/13/axel-springer-ceo-mathias-dopfner-leaked-messages-reported](https://www.theguardian.com/world/2023/apr/13/axel-springer-ceo-mathias-dopfner-leaked-messages-reported)
  - date_published: 2023-04-13T14:39:56+00:00
@@ -3454,6 +3463,11 @@
  - [https://reclaimthenet.org/alex-berenson-sues-biden-administration-censorship](https://reclaimthenet.org/alex-berenson-sues-biden-administration-censorship)
  - date_published: 2023-04-13T18:17:14+00:00
  - tags: ['alex berenson', 'censorship', 'covid', 'twitter']
+
+ ## Assassination Classroom Has Been Banned in Florida and Wisconsin Schools
+ - [https://www.cbr.com/assassination-classroom-banned-florida-wisconsin](https://www.cbr.com/assassination-classroom-banned-florida-wisconsin)
+ - date_published: 2023-04-13T22:33:35+00:00
+ - tags: ['fahrenheit 451']
 
  ## Why The New York Times Is Collapsing: The Coming NYT Crisis
  - [https://www.youtube.com/watch?v=_wJ3ZqQVgtg](https://www.youtube.com/watch?v=_wJ3ZqQVgtg)
@@ -3480,20 +3494,10 @@
  - date_published: 2023-04-14T09:38:40+00:00
  - tags: ['alex berenson', 'big pharma', 'censorship', 'joe biden', 'pfizer', 'twitter']
 
- ## Farmers Win the Right to Repair Their Own Tractors in Colorado
- - [https://www.vice.com/en/article/wxj5nz/farmers-win-the-right-to-repair-their-own-tractors-in-colorado](https://www.vice.com/en/article/wxj5nz/farmers-win-the-right-to-repair-their-own-tractors-in-colorado)
- - date_published: 2023-04-14T13:30:25+00:00
- - tags: ['right to repair']
-
  ## Netherlands to broaden euthanasia rules to cover children of all ages
  - [https://www.theguardian.com/society/2023/apr/14/netherlands-to-broaden-euthanasia-rules-to-cover-children-of-all-ages](https://www.theguardian.com/society/2023/apr/14/netherlands-to-broaden-euthanasia-rules-to-cover-children-of-all-ages)
  - date_published: 2023-04-14T15:20:50+00:00
  - tags: ['euthanasia', 'netherlands']
-
- ## Assassination Classroom Has Been Banned in Florida and Wisconsin Schools
- - [https://www.cbr.com/assassination-classroom-banned-florida-wisconsin](https://www.cbr.com/assassination-classroom-banned-florida-wisconsin)
- - date_published: 2023-04-14T19:30:21+00:00
- - tags: ['fahrenheit 451']
 
  ## Montana on cusp of becoming first state to block TikTok downloads
  - [https://www.nbcnews.com/tech/internet/montana-passes-bill-blocking-users-downloading-tiktok-rcna79622](https://www.nbcnews.com/tech/internet/montana-passes-bill-blocking-users-downloading-tiktok-rcna79622)
@@ -3518,7 +3522,7 @@
 
  ## COVID vaccine doubter Alex Berenson sues Biden over Twitter ban
  - [https://nypost.com/2023/04/15/covid-vaccine-doubter-alex-berenson-sues-biden-over-twitter-ban](https://nypost.com/2023/04/15/covid-vaccine-doubter-alex-berenson-sues-biden-over-twitter-ban)
- - date_published: 2023-04-15T20:16:51+00:00
+ - date_published: 2023-04-15T16:13:04+00:00
  - tags: ['alex berenson', 'censorship', 'covid', 'twitter', 'twitter files', 'vaccine']
 
  ## Shared post - Trans therapist charged over sexually assaulting autistic children in Indiana
@@ -3620,6 +3624,7 @@
  - [https://www.wsj.com/articles/joe-biden-and-the-media-are-ev-grifters-carbon-tax-emissions-fossil-fuels-subsidies-3c6d6a21?mod=hp_opin_pos_4#cxrecs_s](https://www.wsj.com/articles/joe-biden-and-the-media-are-ev-grifters-carbon-tax-emissions-fossil-fuels-subsidies-3c6d6a21?mod=hp_opin_pos_4#cxrecs_s)
  - date_published: 2023-04-18T14:01:28+00:00
  - tags: ['climate change', 'electric vehicles']
+ - date_dead_since: 2025-07-15T16:13:34.858370+00:00
 
  ## EARN IT Act Is Back, And It’s Still Terribly Destructive | Techdirt
  - [https://www.techdirt.com/2023/04/18/earn-it-act-is-back-and-its-still-terribly-destructive](https://www.techdirt.com/2023/04/18/earn-it-act-is-back-and-its-still-terribly-destructive)
@@ -3640,6 +3645,11 @@
  - [https://thepostmillennial.com/idaho-teacher-and-lgbt-activist-arrested-on-charges-of-raping-16-year-old-boy?utm_campaign=64483&s=09](https://thepostmillennial.com/idaho-teacher-and-lgbt-activist-arrested-on-charges-of-raping-16-year-old-boy?utm_campaign=64483&s=09)
  - date_published: 2023-04-19T00:00:00+00:00
  - tags: ['lgbt', 'rape', 'the left wing']
+
+ ## A Plea for Fairness for Non-Profit Developers of Open Source Software
+ - [https://www.isc.org/blogs/2023-cyber-resilience-act-letter](https://www.isc.org/blogs/2023-cyber-resilience-act-letter)
+ - date_published: 2023-04-19T00:00:00+00:00
+ - tags: ['open source']
 
  ## Making a Linux home server sleep on idle and wake on demand – the simple way
  - [https://dgross.ca/blog/linux-home-server-auto-sleep](https://dgross.ca/blog/linux-home-server-auto-sleep)
@@ -3665,11 +3675,6 @@
  - [https://www.technologyreview.com/2023/04/19/1071789/openais-hunger-for-data-is-coming-back-to-bite-it](https://www.technologyreview.com/2023/04/19/1071789/openais-hunger-for-data-is-coming-back-to-bite-it)
  - date_published: 2023-04-20T04:08:45+00:00
  - tags: ['artificial intelligence', 'law', 'openai']
-
- ## A Plea for Fairness for Non-Profit Developers of Open Source Software
- - [https://www.isc.org/blogs/2023-cyber-resilience-act-letter](https://www.isc.org/blogs/2023-cyber-resilience-act-letter)
- - date_published: 2023-04-20T08:15:32+00:00
- - tags: ['open source']
 
  ## "Le Figaro": Trwa "meksykanizacja Francji" - wojny gangów narkotykowych od Paryża po Marsylię
  - [https://forsal.pl/swiat/aktualnosci/artykuly/8702662,le-figaro-trwa-meksykanizacja-francji-wojny-gangow-narkotykowych-od-paryza-po-marsylie.html](https://forsal.pl/swiat/aktualnosci/artykuly/8702662,le-figaro-trwa-meksykanizacja-francji-wojny-gangow-narkotykowych-od-paryza-po-marsylie.html)
@@ -3706,11 +3711,6 @@
  - date_published: 2023-04-21T09:59:00+00:00
  - tags: ['occult', 'satancon', 'satanism']
 
- ## The coming war on end-to-end encryption
- - [https://community.qbix.com/t/the-coming-war-on-end-to-end-encryption/214](https://community.qbix.com/t/the-coming-war-on-end-to-end-encryption/214)
- - date_published: 2023-04-21T17:00:12+00:00
- - tags: ['anonymity', 'big brother', 'corporatocracy', 'government control', 'privacy']
-
  ## 'Devastating' melt of Greenland, Antarctic ice sheets found
  - [https://phys.org/news/2023-04-devastating-greenland-antarctic-ice-sheets.html](https://phys.org/news/2023-04-devastating-greenland-antarctic-ice-sheets.html)
  - date_published: 2023-04-21T17:57:25+00:00
@@ -3745,7 +3745,11 @@
  - [https://adage.com/article/marketing-news-strategy/bud-light-dylan-mulvaney-sales-drop-induces-panic-brand/2489971](https://adage.com/article/marketing-news-strategy/bud-light-dylan-mulvaney-sales-drop-induces-panic-brand/2489971)
  - date_published: 2023-04-23T11:38:33+00:00
  - tags: ['go woke go broke', 'the left wing']
- - date_dead_since: 2025-03-07T12:28:15.257056+00:00
+
+ ## Mastodon Is Doomed
+ - [https://justingarrison.com/blog/2023-04-24-mastodon-is-doomed](https://justingarrison.com/blog/2023-04-24-mastodon-is-doomed)
+ - date_published: 2023-04-24T00:00:00+00:00
+ - tags: ['decentralisation', 'fediverse', 'mastodon']
 
  ## 85% of business leaders would let a robot make their decisions
  - [https://www.zdnet.com/article/85-of-business-leaders-would-let-a-robot-make-their-decisions](https://www.zdnet.com/article/85-of-business-leaders-would-let-a-robot-make-their-decisions)
@@ -3754,13 +3758,8 @@
 
  ## UK Threatens End-to-End Encryption
  - [https://www.schneier.com/blog/archives/2023/04/uk-threatens-end-to-end-encryption.html](https://www.schneier.com/blog/archives/2023/04/uk-threatens-end-to-end-encryption.html)
- - date_published: 2023-04-24T11:52:22+00:00
+ - date_published: 2023-04-24T10:39:33+00:00
  - tags: ['crypto wars', 'government control', 'privacy', 'surveillance']
-
- ## European Parliament calls for ban on facial recognition
- - [https://www.politico.eu/article/european-parliament-ban-facial-recognition-brussels](https://www.politico.eu/article/european-parliament-ban-facial-recognition-brussels)
- - date_published: 2023-04-24T15:17:07+00:00
- - tags: ['biometric', 'facial recognition']
 
  ## Why I'm not worried about AI causing mass unemployment
  - [https://www.understandingai.org/p/software-didnt-eat-the-world](https://www.understandingai.org/p/software-didnt-eat-the-world)
@@ -3792,15 +3791,15 @@
  - date_published: 2023-04-25T07:08:00+00:00
  - tags: ['anti-vax', 'covid', 'the right wing', 'vaccine']
 
+ ## Amazon reviews are being written by AI chatbots
+ - [https://www.cnbc.com/2023/04/25/amazon-reviews-are-being-written-by-ai-chatbots.html](https://www.cnbc.com/2023/04/25/amazon-reviews-are-being-written-by-ai-chatbots.html)
+ - date_published: 2023-04-25T14:45:09+00:00
+ - tags: ['amazon', 'artificial intelligence', 'dead internet']
+
  ## Justin Trudeau accused of rewriting history by claiming he never forced anyone to get vaccinated
  - [https://www.foxnews.com/media/justin-trudeau-accused-rewriting-history-claiming-never-forced-anyone-get-vaccinated](https://www.foxnews.com/media/justin-trudeau-accused-rewriting-history-claiming-never-forced-anyone-get-vaccinated)
  - date_published: 2023-04-25T15:11:13+00:00
  - tags: ['covid', 'covid mandates', 'justin trudeau', 'vaccine']
-
- ## Amazon reviews are being written by AI chatbots
- - [https://www.cnbc.com/2023/04/25/amazon-reviews-are-being-written-by-ai-chatbots.html](https://www.cnbc.com/2023/04/25/amazon-reviews-are-being-written-by-ai-chatbots.html)
- - date_published: 2023-04-25T19:05:12+00:00
- - tags: ['amazon', 'artificial intelligence', 'dead internet']
 
  ## The lesson about the end of nuclear in Germany
  - [https://jeromeaparis.substack.com/p/the-real-lesson-about-the-end-of](https://jeromeaparis.substack.com/p/the-real-lesson-about-the-end-of)
@@ -3811,11 +3810,6 @@
  - [https://wyborcza.pl/7,75398,29702938,prokuratura-nie-ma-100-proc-pewnosci-ze-handlarz-bronia.html#S.MT-K.C-B.1-L.1.duzy](https://wyborcza.pl/7,75398,29702938,prokuratura-nie-ma-100-proc-pewnosci-ze-handlarz-bronia.html#S.MT-K.C-B.1-L.1.duzy)
  - date_published: 2023-04-26T10:31:47+00:00
  - tags: ['covid', 'poland']
-
- ## Mastodon Is Doomed
- - [https://justingarrison.com/blog/2023-04-24-mastodon-is-doomed](https://justingarrison.com/blog/2023-04-24-mastodon-is-doomed)
- - date_published: 2023-04-26T14:09:03+00:00
- - tags: ['decentralisation', 'fediverse', 'mastodon']
 
  ## Mastodon Has Already Won
  - [https://d-s.sh/2023/mastodon-has-already-won](https://d-s.sh/2023/mastodon-has-already-won)
@@ -3828,27 +3822,32 @@
  - date_published: 2023-04-27T01:51:58+00:00
  - tags: ['big brother', 'crypto wars', 'telegram', 'the right wing']
 
- ## Banning Gas-Powered Cars Won't Save the Environment | Opinion
- - [https://www.newsweek.com/banning-gas-powered-cars-wont-save-environment-opinion-1796894](https://www.newsweek.com/banning-gas-powered-cars-wont-save-environment-opinion-1796894)
- - date_published: 2023-04-27T10:30:01+00:00
- - tags: ['electric vehicles']
-
  ## Przepisy covidowe niekonstytucyjne. Eksperci: nie powinny już funkcjonować
         
         - Wiadomości
  - [https://wiadomosci.onet.pl/tylko-w-onecie/przepisy-covidowe-niekonstytucyjne-eksperci-nie-powinny-juz-funkcjonowac/kbz9eke?utm_source=wykop.pl_viasg_wiadomosci&utm_medium=referal&utm_campaign=leo_automatic&srcc=undefined&utm_v=2](https://wiadomosci.onet.pl/tylko-w-onecie/przepisy-covidowe-niekonstytucyjne-eksperci-nie-powinny-juz-funkcjonowac/kbz9eke?utm_source=wykop.pl_viasg_wiadomosci&utm_medium=referal&utm_campaign=leo_automatic&srcc=undefined&utm_v=2)
- - date_published: 2023-04-27T10:30:50+00:00
+ - date_published: 2023-04-27T06:12:35+00:00
  - tags: ['big brother', 'covid', 'law']
+
+ ## Banning Gas-Powered Cars Won't Save the Environment | Opinion
+ - [https://www.newsweek.com/banning-gas-powered-cars-wont-save-environment-opinion-1796894](https://www.newsweek.com/banning-gas-powered-cars-wont-save-environment-opinion-1796894)
+ - date_published: 2023-04-27T06:30:01+00:00
+ - tags: ['electric vehicles']
 
  ## Global Warming Trend 'Only 1/2 of the Climate Model Simulations' Says New Paper
  - [https://reason.com/2023/04/27/global-warming-trend-is-only-one-half-of-the-climate-model-simulations-says-new-paper](https://reason.com/2023/04/27/global-warming-trend-is-only-one-half-of-the-climate-model-simulations-says-new-paper)
- - date_published: 2023-04-27T16:35:00+00:00
+ - date_published: 2023-04-27T15:45:27+00:00
  - tags: ['climate change', 'global warming']
 
  ## Metacritic announces stricter censorship after negative user reviews of Horizon Forbidden West: Burning Shores
  - [https://reclaimthenet.org/metacritic-announces-stricter-censorship-horizon-burning-shores](https://reclaimthenet.org/metacritic-announces-stricter-censorship-horizon-burning-shores)
  - date_published: 2023-04-27T17:00:04+00:00
  - tags: ['censorship', 'metacritic', 'propaganda']
+
+ ## Britain Is Dead
+ - [https://www.palladiummag.com/2023/04/27/britain-is-dead](https://www.palladiummag.com/2023/04/27/britain-is-dead)
+ - date_published: 2023-04-28T03:51:31+00:00
+ - tags: ['england']
 
  ## Reddit - laurene powell jobs and ghistlaine maxwell
  - [https://www.reddit.com/r/pics/comments/oe202b/laurene_powel_jobs_steve_jobs_widow_and_ghislaine](https://www.reddit.com/r/pics/comments/oe202b/laurene_powel_jobs_steve_jobs_widow_and_ghislaine)
@@ -3869,11 +3868,6 @@
  - [https://reclaimthenet.org/wef-calls-on-leaders-to-make-good-use-of-mass-data-collection](https://reclaimthenet.org/wef-calls-on-leaders-to-make-good-use-of-mass-data-collection)
  - date_published: 2023-04-28T20:55:58+00:00
  - tags: ['surveillance', 'world economic forum']
-
- ## Britain Is Dead
- - [https://www.palladiummag.com/2023/04/27/britain-is-dead](https://www.palladiummag.com/2023/04/27/britain-is-dead)
- - date_published: 2023-04-29T01:59:29+00:00
- - tags: ['england']
 
  ## Internet in a Box
  - [https://internet-in-a-box.org](https://internet-in-a-box.org)
@@ -3947,6 +3941,11 @@
  - date_published: 2023-05-01T20:00:52+00:00
  - tags: ['privacy']
 
+ ## The EARN IT bill is back. We've killed it twice, let's do it again
+ - [https://tutanota.com/blog/posts/earn-it-barr-encryption](https://tutanota.com/blog/posts/earn-it-barr-encryption)
+ - date_published: 2023-05-02T00:00:00+00:00
+ - tags: ['big brother', 'earn it act', 'government control', 'surveillance']
+
  ## Dr. John Campbell Suspended from YouTube for 'Medical Misinformation' | Hacker News
  - [https://news.ycombinator.com/item?id=35791530](https://news.ycombinator.com/item?id=35791530)
  - date_published: 2023-05-02T08:55:09+00:00
@@ -3956,6 +3955,11 @@
  - [https://www.catholicnewsagency.com/news/254219/hate-speech-bill-advances-in-ireland-amid-fears-it-would-silence-jk-rowling-catholicand-the-catholic-church](https://www.catholicnewsagency.com/news/254219/hate-speech-bill-advances-in-ireland-amid-fears-it-would-silence-jk-rowling-catholicand-the-catholic-church)
  - date_published: 2023-05-02T09:45:03+00:00
  - tags: ['big brother', 'bill 2022', 'censorship', 'government control', 'ireland']
+
+ ## New Tool Shows if Your Car Might Be Tracking You, Selling Your Data
+ - [https://www.vice.com/en/article/n7enex/tool-shows-if-car-selling-data-privacy4cars-vehicle-privacy-report](https://www.vice.com/en/article/n7enex/tool-shows-if-car-selling-data-privacy4cars-vehicle-privacy-report)
+ - date_published: 2023-05-02T12:00:00+00:00
+ - tags: ['electric vehicles', 'privacy', 'surveillance', 'technofeudalism']
 
  ## IBM plans to replace 7,800 jobs with AI over time, pauses hiring certain positions
  - [https://arstechnica.com/?p=1935937](https://arstechnica.com/?p=1935937)
@@ -3977,15 +3981,15 @@
  - date_published: 2023-05-02T19:56:00+00:00
  - tags: ['go woke go broke', 'the left wing', 'vice']
 
- ## New Tool Shows if Your Car Might Be Tracking You, Selling Your Data
- - [https://www.vice.com/en/article/n7enex/tool-shows-if-car-selling-data-privacy4cars-vehicle-privacy-report](https://www.vice.com/en/article/n7enex/tool-shows-if-car-selling-data-privacy4cars-vehicle-privacy-report)
- - date_published: 2023-05-02T21:03:03+00:00
- - tags: ['electric vehicles', 'privacy', 'surveillance', 'technofeudalism']
-
  ## AI could create religions to control humans, warns Sapiens author Harari
  - [https://www.thetimes.co.uk/article/ai-will-could-religions-to-to-control-humans-warns-sapiens-author-harari-fhbzgbv7b](https://www.thetimes.co.uk/article/ai-will-could-religions-to-to-control-humans-warns-sapiens-author-harari-fhbzgbv7b)
  - date_published: 2023-05-02T22:24:57+00:00
  - tags: ['artificial intelligence', 'yuval noah harari']
+
+ ## Somehow AutoHotKey is kinda good now
+ - [https://www.hillelwayne.com/post/ahk-v2](https://www.hillelwayne.com/post/ahk-v2)
+ - date_published: 2023-05-03T00:00:00+00:00
+ - tags: ['autohotkey']
 
  ## Immunologist is investigated by University for liking vaccine skeptic tweets, gender surgery criticism
  - [https://reclaimthenet.org/dr-mark-tykocinski-for-liking-vaccine-skeptic-tweets](https://reclaimthenet.org/dr-mark-tykocinski-for-liking-vaccine-skeptic-tweets)
@@ -4014,7 +4018,7 @@
 
  ## MSFT is forcing Outlook and Teams to open links in Edge and IT admins are angry
  - [https://www.theverge.com/2023/5/3/23709297/microsoft-edge-force-outlook-teams-web-links-open](https://www.theverge.com/2023/5/3/23709297/microsoft-edge-force-outlook-teams-web-links-open)
- - date_published: 2023-05-03T09:47:15+00:00
+ - date_published: 2023-05-03T09:40:32+00:00
  - tags: ['dark design', 'microsoft', 'windows']
 
  ## LinkedIn's Reid Hoffman visited Jeffrey Epstein's private island
@@ -4052,11 +4056,6 @@
  - date_published: 2023-05-04T00:00:00+00:00
  - tags: ['censorship', 'covid', 'twitter files']
 
- ## Somehow AutoHotKey is kinda good now
- - [https://www.hillelwayne.com/post/ahk-v2](https://www.hillelwayne.com/post/ahk-v2)
- - date_published: 2023-05-04T01:03:52+00:00
- - tags: ['autohotkey']
-
  ## Google rolls out passkey technology in ‘beginning of the end’ for passwords
  - [https://www.theguardian.com/technology/2023/may/04/google-rolls-out-passkey-technology-in-beginning-of-the-end-for-passwords](https://www.theguardian.com/technology/2023/may/04/google-rolls-out-passkey-technology-in-beginning-of-the-end-for-passwords)
  - date_published: 2023-05-04T07:28:57+00:00
@@ -4080,7 +4079,7 @@
 
  ## Google “We have no moat, and neither does OpenAI”
  - [https://www.semianalysis.com/p/google-we-have-no-moat-and-neither](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
- - date_published: 2023-05-04T10:19:13+00:00
+ - date_published: 2023-05-04T10:07:13+00:00
  - tags: ['artificial intelligence', 'open source']
 
  ## Digital Markets Act - Wikipedia
@@ -4103,11 +4102,6 @@
  - date_published: 2023-05-04T23:42:34+00:00
  - tags: ['censorship', 'corporatocracy', 'jpmorgan']
 
- ## The EARN IT bill is back. We've killed it twice, let's do it again
- - [https://tutanota.com/blog/posts/earn-it-barr-encryption](https://tutanota.com/blog/posts/earn-it-barr-encryption)
- - date_published: 2023-05-05T06:54:34+00:00
- - tags: ['big brother', 'earn it act', 'government control', 'surveillance']
-
  ## List of Islamist terrorist attacks - Wikipedia
  - [https://en.wikipedia.org/wiki/List_of_Islamist_terrorist_attacks](https://en.wikipedia.org/wiki/List_of_Islamist_terrorist_attacks)
  - date_published: 2023-05-05T07:40:34+00:00
@@ -4115,7 +4109,7 @@
 
  ## India bans Element – the flagship client for the Matrix network
  - [https://element.io/blog/india-bans-flagship-client-for-the-matrix-network](https://element.io/blog/india-bans-flagship-client-for-the-matrix-network)
- - date_published: 2023-05-05T09:15:40+00:00
+ - date_published: 2023-05-05T09:00:13+00:00
  - tags: ['crypto wars', 'element', 'government control', 'india', 'privacy']
 
  ## Prof. Lew-Starowicz: stale mam do czynienia ze złą diagnostyką. 80 proc. dorosłych porzuca pragnienie zmiany płci | Polska Agencja Prasowa SA
@@ -4137,11 +4131,6 @@
  - [https://www.weforum.org/agenda/2023/01/electric-cars-charging-habits](https://www.weforum.org/agenda/2023/01/electric-cars-charging-habits)
  - date_published: 2023-05-06T15:11:05+00:00
  - tags: ['climate change', 'electric vehicles']
-
- ## Windows 11: TPMs and Digital Sovereignty
- - [https://secret.club/2021/06/28/windows11-tpms.html](https://secret.club/2021/06/28/windows11-tpms.html)
- - date_published: 2023-05-06T21:33:29+00:00
- - tags: ['dark design', 'microsoft', 'sovereignty', 'tpm', 'walled garden', 'windows']
 
  ## Yet another problem with recycling: It spews microplastics
  - [https://arstechnica.com/?p=1937358](https://arstechnica.com/?p=1937358)
