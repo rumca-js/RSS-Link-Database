@@ -237,6 +237,11 @@
  - date_published: 2020-03-03T20:13:44+00:00
  - tags: ['biometric', 'chip', 'covid', 'pandemic', 'profusa']
 
+ ## A $60 Billion Housing Grab by Wall Street - The New York Times
+ - [https://www.nytimes.com/2020/03/04/magazine/wall-street-landlords.html](https://www.nytimes.com/2020/03/04/magazine/wall-street-landlords.html)
+ - date_published: 2020-03-04T10:00:05+00:00
+ - tags: ['blackrock', 'housing market', 'wall street']
+
  ## Energy Conservation with Open Source Ad Blockers
  - [https://www.mdpi.com/2227-7080/8/2/18](https://www.mdpi.com/2227-7080/8/2/18)
  - date_published: 2020-03-05T06:49:23+00:00

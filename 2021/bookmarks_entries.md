@@ -1132,6 +1132,11 @@
  - date_published: 2021-06-05T00:00:00+00:00
  - tags: ['children', 'indoctrination', 'lgbt', 'sexualization', 'the left wing']
 
+ ## RockYou2021: largest password compilation of all time leaked online with 8.4 billion entries
+ - [https://cybernews.com/security/rockyou2021-alltime-largest-password-compilation-leaked](https://cybernews.com/security/rockyou2021-alltime-largest-password-compilation-leaked)
+ - date_published: 2021-06-07T15:57:00+00:00
+ - tags: ['data leak']
+
  ## Anyone remember that Danish TV show pairing children with naked adults?
  - [https://www.mumsnet.com/talk/womens_rights/4282164-Anyone-remember-that-Danish-TV-show-pairing-children-with-naked-adults](https://www.mumsnet.com/talk/womens_rights/4282164-Anyone-remember-that-Danish-TV-show-pairing-children-with-naked-adults)
  - date_published: 2021-06-07T22:21:55+00:00
@@ -1958,6 +1963,11 @@
  ## 6 Command Line Tools for Productive Programmers - Earthly Blog
  - [https://earthly.dev/blog/command-line-tools](https://earthly.dev/blog/command-line-tools)
  - date_published: 2021-08-06T16:36:35.095132+00:00
+
+ ## Why CMake Sucks?
+ - [https://twdev.blog/2021/08/cmake](https://twdev.blog/2021/08/cmake)
+ - date_published: 2021-08-06T23:17:27+00:00
+ - tags: ['cmake', 'programming']
 
  ## Is 1984 Becoming a Reality? - George Orwell's Warning to the World
  - [https://www.youtube.com/watch?v=vEMlvpMY7yw](https://www.youtube.com/watch?v=vEMlvpMY7yw)
