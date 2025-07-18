@@ -659,6 +659,11 @@
  - date_published: 2018-10-13T00:00:00+00:00
  - tags: ['algorithms', 'dead internet', 'duckduckgo', 'search engines']
 
+ ## John Carmack on Functional Programming in C++ (2018)
+ - [http://www.sevangelatos.com/john-carmack-on](http://www.sevangelatos.com/john-carmack-on)
+ - date_published: 2018-10-14T21:15:37+00:00
+ - tags: ['cpp', 'functional programming', 'john carmack']
+
  ## What Is the 'NPC' Meme? Liberals Rage at Cartoons Mocking Their Scripted Thoughts
  - [https://www.breitbart.com/tech/2018/10/16/what-is-the-npc-meme-liberals-rage-at-cartoons-mocking-their-scripted-thoughts](https://www.breitbart.com/tech/2018/10/16/what-is-the-npc-meme-liberals-rage-at-cartoons-mocking-their-scripted-thoughts)
  - date_published: 2018-10-16T20:25:58+00:00

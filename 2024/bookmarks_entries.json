@@ -7262,7 +7262,7 @@
         "comments": [],
         "date_created": "2024-10-09T15:22:44.930024+00:00",
         "date_dead_since": null,
-        "date_published": "2024-10-09T14:32:52+00:00",
+        "date_published": "2024-10-09T07:32:52+00:00",
         "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p><span>At EFF we\u2019ve long noted that you </span><a href=\"https://www.eff.org/deeplinks/2019/12/fancy-new-terms-same-old-backdoors-encryption-debate-2019\"><span>cannot build a backdoor that only lets in good guys</span></a><span> and not bad guys. Over the weekend, we saw another example of this: </span><a href=\"https://www.wsj.com/tech/cybersecurity/u-s-wiretap-systems-targeted-in-china-linked-hack-327fc63b\"><span>The Wall Street Journal</span></a><span> reported on a major breach of U.S. telecom systems attributed to a sophisticated Chinese-government backed hacking group dubbed Salt Typhoon.</span></p>\n<p><span>According to reports, the hack took advantage of systems built by ISPs like Verizon, AT&amp;T, and Lumen Technologies (formerly CenturyLink) to give law enforcement and intelligence agencies access to the ISPs\u2019 user data. This gave Chi",
         "id": 1294169,
         "language": "en",

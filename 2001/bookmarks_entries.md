@@ -45,7 +45,7 @@
 
  ## Were Stocks of Airlines Suspiciously Shorted Just Before 9/11?
  - [https://www.snopes.com/fact-check/put-paid](https://www.snopes.com/fact-check/put-paid)
- - date_published: 2001-10-04T00:47:46+00:00
+ - date_published: 2001-10-03T22:47:46+00:00
  - tags: ['911']
 
  ## 5 Young Israelis, Caught in Net of Suspicion (Published 2001)
@@ -75,6 +75,6 @@
 
  ## Clinton Let Bin Laden Slip Away and Metastasize
  - [https://www.latimes.com/archives/la-xpm-2001-dec-05-oe-ijaz05-story.html](https://www.latimes.com/archives/la-xpm-2001-dec-05-oe-ijaz05-story.html)
- - date_published: 2001-12-05T09:00:00+00:00
+ - date_published: 2001-12-05T08:00:00+00:00
  - tags: ['911', 'bill clinton']
 

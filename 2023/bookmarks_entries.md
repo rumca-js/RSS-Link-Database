@@ -1307,6 +1307,11 @@
  - date_published: 2023-01-30T00:00:00+00:00
  - tags: ['bigoil', 'climate change']
 
+ ## Apple: $52,000 Mac Pro Is Now Worth $1k
+ - [https://ymcinema.com/2023/01/30/apple-your-52000-mac-pro-is-now-worths-1000](https://ymcinema.com/2023/01/30/apple-your-52000-mac-pro-is-now-worths-1000)
+ - date_published: 2023-01-30T12:09:09+00:00
+ - tags: ['apple', 'hypocrisy', 'right to repair']
+
  ## Aplikacja mObywatel zastąpi dowód osobisty w urzędach i bankach. Wiemy kiedy - Instalki.pl
  - [https://www.instalki.pl/aktualnosci/software/57943-aplikacja-mobywatel-zamiast-dowodu-osobistego-bank-urzad-kiedy.html](https://www.instalki.pl/aktualnosci/software/57943-aplikacja-mobywatel-zamiast-dowodu-osobistego-bank-urzad-kiedy.html)
  - date_published: 2023-01-30T14:18:51.618654+00:00
@@ -1361,6 +1366,7 @@
  - [https://www.ft.com/content/47db95b4-ce9f-42c7-8b37-86483c85267a](https://www.ft.com/content/47db95b4-ce9f-42c7-8b37-86483c85267a)
  - date_published: 2023-01-31T05:00:36+00:00
  - tags: ['billionaires', 'climate change', 'elites']
+ - date_dead_since: 2025-07-18T00:01:36.816204+00:00
 
  ## Israel Accelerates Gun Ownership Process in Response to Terror Shooting at Synagogue
  - [https://www.theepochtimes.com/israel-accelerates-gun-ownership-process-in-response-to-terror-shooting-at-synagogue_5020337.html](https://www.theepochtimes.com/israel-accelerates-gun-ownership-process-in-response-to-terror-shooting-at-synagogue_5020337.html)
@@ -1387,6 +1393,11 @@
  - date_published: 2023-01-31T17:02:07+00:00
  - tags: ['demographics']
 
+ ## Gmail creator says ChatGPT might ‘destroy’ Google within 2 years
+ - [https://bgr.com/tech/gmail-creator-says-chatgpt-might-destroy-google-within-2-years](https://bgr.com/tech/gmail-creator-says-chatgpt-might-destroy-google-within-2-years)
+ - date_published: 2023-01-31T17:50:58+00:00
+ - tags: ['algorithms', 'artificial intelligence', 'chatgpt', 'google', 'search engines']
+
  ## Top password manager denies its entire database can be stolen
  - [https://www.techradar.com/news/top-password-manager-denies-its-entire-database-can-be-stolen](https://www.techradar.com/news/top-password-manager-denies-its-entire-database-can-be-stolen)
  - date_published: 2023-01-31T19:13:27+00:00
@@ -1396,6 +1407,7 @@
  - [https://dossier.substack.com/p/bill-gates-secured-hundreds-of-millions](https://dossier.substack.com/p/bill-gates-secured-hundreds-of-millions)
  - date_published: 2023-01-31T21:48:01+00:00
  - tags: ['bill gates', 'covid', 'mrna', 'vaccine']
+ - date_dead_since: 2025-07-17T22:40:04.357112+00:00
 
  ## Is remote work bad for the economy?
  - [https://www.fractional.work/p/is-remote-work-bad-for-the-economy](https://www.fractional.work/p/is-remote-work-bad-for-the-economy)
@@ -1407,11 +1419,6 @@
  - [http://www.paulgraham.com/simply.html](http://www.paulgraham.com/simply.html)
  - date_published: 2023-02-01T04:12:12+00:00
  - tags: ['writing']
-
- ## Gmail creator says ChatGPT might ‘destroy’ Google within 2 years
- - [https://bgr.com/tech/gmail-creator-says-chatgpt-might-destroy-google-within-2-years](https://bgr.com/tech/gmail-creator-says-chatgpt-might-destroy-google-within-2-years)
- - date_published: 2023-02-01T05:00:00+00:00
- - tags: ['algorithms', 'artificial intelligence', 'chatgpt', 'google', 'search engines']
 
  ## Apple and Google's app stores wield 'gatekeeper' power and should be reined in, Commerce Department says
  - [https://www.cnn.com/2023/02/01/tech/apple-google-commerce-department/index.html](https://www.cnn.com/2023/02/01/tech/apple-google-commerce-department/index.html)
@@ -1437,17 +1444,11 @@
  - [https://thehill.com/policy/energy-environment/3839348-society-isnt-changing-fast-enough-to-stop-climate-change-study](https://thehill.com/policy/energy-environment/3839348-society-isnt-changing-fast-enough-to-stop-climate-change-study)
  - date_published: 2023-02-01T16:44:01+00:00
  - tags: ['climate change']
- - date_dead_since: 2024-10-10T02:58:51.298441+00:00
 
  ## Zapomnijcie o ChatGPT. Fundusz inwestycyjny sterowany sztuczną inteligencją po cichu rozbija bank
  - [https://businessinsider.com.pl/wiadomosci/zapomnijcie-o-chatgpt-fundusz-sterowany-sztuczna-inteligencja-rozbija-bank/th4lpsh](https://businessinsider.com.pl/wiadomosci/zapomnijcie-o-chatgpt-fundusz-sterowany-sztuczna-inteligencja-rozbija-bank/th4lpsh)
  - date_published: 2023-02-01T18:01:48+00:00
  - tags: ['artificial intelligence']
-
- ## Apple: $52,000 Mac Pro Is Now Worth $1k
- - [https://ymcinema.com/2023/01/30/apple-your-52000-mac-pro-is-now-worths-1000](https://ymcinema.com/2023/01/30/apple-your-52000-mac-pro-is-now-worths-1000)
- - date_published: 2023-02-01T18:20:39+00:00
- - tags: ['apple', 'hypocrisy', 'right to repair']
 
  ## EU chat control law will ban open source operating systems - Blog | Mullvad VPN
  - [https://mullvad.net/en/blog/2023/2/1/eu-chat-control-law-will-ban-open-source-operating-systems](https://mullvad.net/en/blog/2023/2/1/eu-chat-control-law-will-ban-open-source-operating-systems)
@@ -1468,6 +1469,11 @@
  - [https://businessinsider.com.pl/gospodarka/piec-najciekawszych-wydarzen-w-gospodarce-teraz-2022023/ndyxye8](https://businessinsider.com.pl/gospodarka/piec-najciekawszych-wydarzen-w-gospodarce-teraz-2022023/ndyxye8)
  - date_published: 2023-02-02T06:09:23+00:00
  - tags: ['croatia', 'euro']
+
+ ## Trump vs Biden: ChatGPT is as biased as the people working on AI bots
+ - [https://www.firstpost.com/world/bias-in-ai-bots-chatgpt-writes-poem-admiring-joe-biden-refuses-to-write-one-admiring-donald-trump-12088662.html](https://www.firstpost.com/world/bias-in-ai-bots-chatgpt-writes-poem-admiring-joe-biden-refuses-to-write-one-admiring-donald-trump-12088662.html)
+ - date_published: 2023-02-02T09:55:28+00:00
+ - tags: ['artificial intelligence', 'chatgpt', 'media bias']
 
  ## Chat GPT is the birth of the real Web 3.0, and it's not going to be fun
  - [https://lajili.com/posts/post-2](https://lajili.com/posts/post-2)
@@ -1495,20 +1501,25 @@
  - date_published: 2023-02-02T18:55:05+00:00
  - tags: ['artificial intelligence', 'chatgpt', 'media bias']
 
+ ## Study links adoption of EV with less air pollution and improved health
+ - [https://keck.usc.edu/study-links-adoption-of-electric-vehicles-with-less-air-pollution-and-improved-health](https://keck.usc.edu/study-links-adoption-of-electric-vehicles-with-less-air-pollution-and-improved-health)
+ - date_published: 2023-02-02T19:00:13+00:00
+ - tags: ['electric vehicles']
+
  ## The Netherlands’ centralized digital biometric database plot is criticized as “goldmine for hackers”
  - [https://reclaimthenet.org/netherlands-digital-biometric-centralized-data](https://reclaimthenet.org/netherlands-digital-biometric-centralized-data)
  - date_published: 2023-02-02T19:02:36+00:00
  - tags: ['biometric', 'digital identity']
 
- ## Trump vs Biden: ChatGPT is as biased as the people working on AI bots
- - [https://www.firstpost.com/world/bias-in-ai-bots-chatgpt-writes-poem-admiring-joe-biden-refuses-to-write-one-admiring-donald-trump-12088662.html](https://www.firstpost.com/world/bias-in-ai-bots-chatgpt-writes-poem-admiring-joe-biden-refuses-to-write-one-admiring-donald-trump-12088662.html)
- - date_published: 2023-02-02T20:51:12+00:00
- - tags: ['artificial intelligence', 'chatgpt', 'media bias']
-
  ## Exclusive Q&A John Carmack’s ‘Different Path’ to Artificial General Intelligence
  - [https://dallasinnovates.com/exclusive-qa-john-carmacks-different-path-to-artificial-general-intelligence](https://dallasinnovates.com/exclusive-qa-john-carmacks-different-path-to-artificial-general-intelligence)
  - date_published: 2023-02-02T23:52:24+00:00
  - tags: ['artificial intelligence']
+
+ ## WeChat: China’s Other Trojan Horse
+ - [https://www.forbes.com/sites/arthurherman/2023/02/03/wechat-chinas-other-trojan-horse](https://www.forbes.com/sites/arthurherman/2023/02/03/wechat-chinas-other-trojan-horse)
+ - date_published: 2023-02-03T00:00:00+00:00
+ - tags: ['china', 'everything app', 'privacy', 'surveillance', 'wechat']
 
  ## Utah bill would bring ID-based age verification to online platforms
  - [https://reclaimthenet.org/utah-bill-would-bring-id-based-age-verification-to-online-platforms](https://reclaimthenet.org/utah-bill-would-bring-id-based-age-verification-to-online-platforms)
@@ -1524,11 +1535,6 @@
  - [https://www.theguardian.com/politics/2023/feb/03/biometric-technology-paper-passports-redundant](https://www.theguardian.com/politics/2023/feb/03/biometric-technology-paper-passports-redundant)
  - date_published: 2023-02-03T13:44:17+00:00
  - tags: ['big brother', 'biometric', 'surveillance']
-
- ## WeChat: China’s Other Trojan Horse
- - [https://www.forbes.com/sites/arthurherman/2023/02/03/wechat-chinas-other-trojan-horse](https://www.forbes.com/sites/arthurherman/2023/02/03/wechat-chinas-other-trojan-horse)
- - date_published: 2023-02-03T16:04:40+00:00
- - tags: ['china', 'everything app', 'privacy', 'surveillance', 'wechat']
 
  ## Anulowałem abonament na Netflix. Nowy sposób walki z współdzieleniem kont zakrawa o nieśmieszny żart
  - [https://www.chip.pl/2023/02/netflix-wspoldzielenie-konta-felieton](https://www.chip.pl/2023/02/netflix-wspoldzielenie-konta-felieton)
@@ -1556,19 +1562,14 @@
  - date_published: 2023-02-04T17:00:05+00:00
  - tags: ['gold']
 
- ## Study links adoption of EV with less air pollution and improved health
- - [https://keck.usc.edu/study-links-adoption-of-electric-vehicles-with-less-air-pollution-and-improved-health](https://keck.usc.edu/study-links-adoption-of-electric-vehicles-with-less-air-pollution-and-improved-health)
- - date_published: 2023-02-04T19:07:35+00:00
- - tags: ['electric vehicles']
-
  ## Jeffrey Epstein: A Jewish Individual?, by Jason Cannon - The Unz Review
  - [https://www.unz.com/article/jeffrey-epstein-a-jewish-individual](https://www.unz.com/article/jeffrey-epstein-a-jewish-individual)
- - date_published: 2023-02-05T07:00:45+00:00
+ - date_published: 2023-02-05T00:10:16+00:00
  - tags: ['israel', 'jeffrey epstein']
 
  ## Cyber Apocalypse 2023: Is The World Heading For A “Catastrophic” Event?
  - [https://www.forbes.com/sites/bernardmarr/2023/02/06/cyber-apocalypse-2023-is-the-world-heading-for-a-catastrophic-event](https://www.forbes.com/sites/bernardmarr/2023/02/06/cyber-apocalypse-2023-is-the-world-heading-for-a-catastrophic-event)
- - date_published: 2023-02-06T07:16:35+00:00
+ - date_published: 2023-02-06T00:00:00+00:00
  - tags: ['cyber apocalypse', 'fearmongering', 'wrold economic forum']
 
  ## AI-generated ‘Seinfeld’ suspended on Twitch for AI-generated transphobic jokes
@@ -1588,13 +1589,18 @@
 
  ## Google and Mozilla are working on iOS browsers that aren't based on WebKit
  - [https://arstechnica.com/gadgets/2023/02/google-and-mozilla-are-working-on-ios-browsers-that-break-current-app-store-rules](https://arstechnica.com/gadgets/2023/02/google-and-mozilla-are-working-on-ios-browsers-that-break-current-app-store-rules)
- - date_published: 2023-02-07T17:46:09+00:00
+ - date_published: 2023-02-07T17:12:39+00:00
  - tags: ['digital markets act', 'google', 'mozilla']
 
  ## 'Woke' ChatGPT refuses to praise Donald Trump, or tell a joke about women | Daily Mail Online
  - [https://www.dailymail.co.uk/sciencetech/article-11726579/ChatGPT-accused-woke-refusing-praise-Donald-Trump.html](https://www.dailymail.co.uk/sciencetech/article-11726579/ChatGPT-accused-woke-refusing-praise-Donald-Trump.html)
  - date_published: 2023-02-08T06:16:21+00:00
  - tags: ['artificial intelligence', 'chatgpt']
+
+ ## Sweden puts brakes on treatments for trans minors
+ - [https://www.france24.com/en/live-news/20230208-sweden-puts-brakes-on-treatments-for-trans-minors](https://www.france24.com/en/live-news/20230208-sweden-puts-brakes-on-treatments-for-trans-minors)
+ - date_published: 2023-02-08T06:34:14+00:00
+ - tags: ['lgbt', 'sweden', 'the left wing', 'transgender']
 
  ## Turkey Blocks Twitter After Public Criticism of Quake Response | Balkan Insight
  - [https://balkaninsight.com/2023/02/08/turkey-blocks-twitter-after-public-criticism-of-quake-response](https://balkaninsight.com/2023/02/08/turkey-blocks-twitter-after-public-criticism-of-quake-response)
@@ -1605,7 +1611,6 @@
  - [https://www.gizmodo.com.au/2023/02/top-android-phones-from-china-are-packed-with-spyware-research-finds](https://www.gizmodo.com.au/2023/02/top-android-phones-from-china-are-packed-with-spyware-research-finds)
  - date_published: 2023-02-08T07:41:53+00:00
  - tags: ['android', 'big brother', 'china', 'espionage', 'privacy', 'smartphone', 'surveillance']
- - date_dead_since: 2025-03-09T15:35:46.754536+00:00
 
  ## UK Regulator Finds Pfizer Guilty of Violating Three Sections of British Pharmaceuticals Code of Practice
  - [https://www.gulf-insider.com/uk-regulator-finds-pfizer-guilty-of-violating-three-sections-of-british-pharmaceuticals-code-of-practice](https://www.gulf-insider.com/uk-regulator-finds-pfizer-guilty-of-violating-three-sections-of-british-pharmaceuticals-code-of-practice)
@@ -1617,7 +1622,6 @@
  - [https://www.extremetech.com/computing/342941-windows-11-collects-an-awful-lot-of-telemetry-about-your-pc](https://www.extremetech.com/computing/342941-windows-11-collects-an-awful-lot-of-telemetry-about-your-pc)
  - date_published: 2023-02-08T11:51:12+00:00
  - tags: ['dark design', 'microsoft', 'telemetry', 'windows', 'windows 11']
- - date_dead_since: 2025-03-09T15:07:15.153954+00:00
 
  ## ChatGPT is a data privacy nightmare
  - [https://theconversation.com/chatgpt-is-a-data-privacy-nightmare-if-youve-ever-posted-online-you-ought-to-be-concerned-199283](https://theconversation.com/chatgpt-is-a-data-privacy-nightmare-if-youve-ever-posted-online-you-ought-to-be-concerned-199283)
@@ -1633,17 +1637,11 @@
  - [https://www.nationalreview.com/news/whered-you-go-to-medical-school-gop-rep-rips-ex-twitter-official-for-censoring-stanford-docs-covid-opinions](https://www.nationalreview.com/news/whered-you-go-to-medical-school-gop-rep-rips-ex-twitter-official-for-censoring-stanford-docs-covid-opinions)
  - date_published: 2023-02-08T13:57:58+00:00
  - tags: ['censorship', 'covid', 'twitter']
- - date_dead_since: 2025-03-09T14:44:57.576713+00:00
 
  ## Is Windows 11 spying on you? New report details eye-opening levels of telemetry
  - [https://www.techradar.com/news/is-windows-11-spying-on-you-new-report-details-eye-opening-levels-of-telemetry](https://www.techradar.com/news/is-windows-11-spying-on-you-new-report-details-eye-opening-levels-of-telemetry)
  - date_published: 2023-02-08T14:34:46+00:00
  - tags: ['dark design', 'microsoft', 'telemetry', 'windows', 'windows 11']
-
- ## Sweden puts brakes on treatments for trans minors
- - [https://www.france24.com/en/live-news/20230208-sweden-puts-brakes-on-treatments-for-trans-minors](https://www.france24.com/en/live-news/20230208-sweden-puts-brakes-on-treatments-for-trans-minors)
- - date_published: 2023-02-08T14:34:50+00:00
- - tags: ['lgbt', 'sweden', 'the left wing', 'transgender']
 
  ## How America Took Out The Nord Stream Pipeline
  - [https://seymourhersh.substack.com/p/how-america-took-out-the-nord-stream](https://seymourhersh.substack.com/p/how-america-took-out-the-nord-stream)
@@ -1722,7 +1720,7 @@
 
  ## On Academic Freedom
  - [https://acoup.blog/2023/02/10/fireside-friday-february-10-2023-on-academic-freedom](https://acoup.blog/2023/02/10/fireside-friday-february-10-2023-on-academic-freedom)
- - date_published: 2023-02-10T18:39:38+00:00
+ - date_published: 2023-02-10T18:09:15+00:00
  - tags: ['freedom', 'science']
 
  ## Miyares calls for investigation of leaked 'anti-Catholic' FBI memo
@@ -1795,6 +1793,11 @@
  - date_published: 2023-02-13T12:37:40+00:00
  - tags: ['anonymity', 'dystopia', 'england']
 
+ ## New York Times sues EU over von der Leyen’s Pfizer texts – POLITICO
+ - [https://www.politico.eu/article/new-york-times-sue-european-union-ursula-von-der-leyen-pfizer-texts](https://www.politico.eu/article/new-york-times-sue-european-union-ursula-von-der-leyen-pfizer-texts)
+ - date_published: 2023-02-13T16:58:08+00:00
+ - tags: ['big pharma', 'covid', 'new york times', 'pfizer', 'vaccine']
+
  ## Xbox Game Pass Does Decrease Base Game Sales, Microsoft Says
  - [https://www.gamespot.com/articles/xbox-game-pass-does-decrease-base-game-sales-microsoft-says/1100-6511473/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/xbox-game-pass-does-decrease-base-game-sales-microsoft-says/1100-6511473/?ftag=CAD-01-10abi2f)
  - date_published: 2023-02-13T18:05:00+00:00
@@ -1804,11 +1807,6 @@
  - [https://ognjen.io/mit-no-ai](https://ognjen.io/mit-no-ai)
  - date_published: 2023-02-13T18:50:58+00:00
  - tags: ['artificial intelligence', 'open source']
-
- ## New York Times sues EU over von der Leyen’s Pfizer texts – POLITICO
- - [https://www.politico.eu/article/new-york-times-sue-european-union-ursula-von-der-leyen-pfizer-texts](https://www.politico.eu/article/new-york-times-sue-european-union-ursula-von-der-leyen-pfizer-texts)
- - date_published: 2023-02-13T20:21:44+00:00
- - tags: ['big pharma', 'covid', 'new york times', 'pfizer', 'vaccine']
 
  ## Why the word 'freedom' is such a useful rallying cry for protesters | CBC Radio
  - [https://www.cbc.ca/radio/checkup/what-s-your-reaction-to-the-ottawa-standoff-and-the-border-blockades-1.6349636/why-the-word-freedom-is-such-a-useful-rallying-cry-for-protesters-1.6349865](https://www.cbc.ca/radio/checkup/what-s-your-reaction-to-the-ottawa-standoff-and-the-border-blockades-1.6349636/why-the-word-freedom-is-such-a-useful-rallying-cry-for-protesters-1.6349865)
@@ -1875,6 +1873,11 @@
  - date_published: 2023-02-15T12:13:35+00:00
  - tags: ['anonymity', 'france', 'moderation', 'privacy', 'social media', 'surveillance']
 
+ ## Sweden's Top Cop Has 'No Explanation' Why Country Is Overrun with Crime - Other Media news - Tasnim News Agency | Tasnim News Agency
+ - [https://www.tasnimnews.com/en/news/2023/02/16/2854650/sweden-s-top-cop-has-no-explanation-why-country-is-overrun-with-crime](https://www.tasnimnews.com/en/news/2023/02/16/2854650/sweden-s-top-cop-has-no-explanation-why-country-is-overrun-with-crime)
+ - date_published: 2023-02-16T00:00:00+00:00
+ - tags: ['crime', 'immigration', 'sweden']
+
  ## Dutch chip firm ASML says former China employee stole data
  - [https://www.cnn.com/2023/02/15/tech/asml-china-employee-data-breach-intl-hnk/index.html](https://www.cnn.com/2023/02/15/tech/asml-china-employee-data-breach-intl-hnk/index.html)
  - date_published: 2023-02-16T04:57:57+00:00
@@ -1885,11 +1888,6 @@
  - date_published: 2023-02-16T05:00:00+00:00
  - tags: ['open source']
 
- ## Sweden's Top Cop Has 'No Explanation' Why Country Is Overrun with Crime - Other Media news - Tasnim News Agency | Tasnim News Agency
- - [https://www.tasnimnews.com/en/news/2023/02/16/2854650/sweden-s-top-cop-has-no-explanation-why-country-is-overrun-with-crime](https://www.tasnimnews.com/en/news/2023/02/16/2854650/sweden-s-top-cop-has-no-explanation-why-country-is-overrun-with-crime)
- - date_published: 2023-02-16T07:25:01+00:00
- - tags: ['crime', 'immigration', 'sweden']
-
  ## Hiszpania: Nowe prawo dotyczące zmiany płci wśród dzieci
  - [https://wydarzenia.interia.pl/zagranica/news-hiszpania-nowe-prawo-dotyczace-zmiany-plci-wsrod-dzieci,nId,6601787](https://wydarzenia.interia.pl/zagranica/news-hiszpania-nowe-prawo-dotyczace-zmiany-plci-wsrod-dzieci,nId,6601787)
  - date_published: 2023-02-16T15:41:57+00:00
@@ -1897,8 +1895,13 @@
 
  ## App founder quits Google, says company doesn’t serve users anymore
  - [https://arstechnica.com/gadgets/2023/02/app-founder-quits-google-says-company-doesnt-serve-users-anymore](https://arstechnica.com/gadgets/2023/02/app-founder-quits-google-says-company-doesnt-serve-users-anymore)
- - date_published: 2023-02-17T05:00:00+00:00
+ - date_published: 2023-02-16T19:35:08+00:00
  - tags: ['big tech', 'google', 'monopoly']
+
+ ## Natural immunity as protective as Covid vaccine against severe illness
+ - [https://www.nbcnews.com/health/health-news/natural-immunity-protective-covid-vaccine-severe-illness-rcna71027](https://www.nbcnews.com/health/health-news/natural-immunity-protective-covid-vaccine-severe-illness-rcna71027)
+ - date_published: 2023-02-16T23:53:58+00:00
+ - tags: ['covid', 'vaccine']
 
  ## Augustus Gloop no longer fat as Roald Dahl goes PC
  - [https://www.telegraph.co.uk/news/2023/02/17/roald-dahl-woke-overhaul-offensive-words-removed](https://www.telegraph.co.uk/news/2023/02/17/roald-dahl-woke-overhaul-offensive-words-removed)
@@ -1920,15 +1923,15 @@
  - date_published: 2023-02-17T09:46:25+00:00
  - tags: ['covid', 'covid lie', 'covid mandates', 'masks']
 
+ ## Apple gets a cut of search revenue from Chrome as part of secret Google deal
+ - [https://9to5mac.com/2023/02/17/google-apple-chrome-search-revenue](https://9to5mac.com/2023/02/17/google-apple-chrome-search-revenue)
+ - date_published: 2023-02-17T15:36:28+00:00
+ - tags: ['apple', 'big tech', 'chrome', 'google', 'manufacturing consent']
+
  ## The sudden global push for age verification to end online anonymity and drive digital ID uptake
  - [https://reclaimthenet.org/global-push-for-age-verification](https://reclaimthenet.org/global-push-for-age-verification)
  - date_published: 2023-02-17T19:40:00+00:00
  - tags: ['anonymity', 'digital identity', 'privacy']
-
- ## Natural immunity as protective as Covid vaccine against severe illness
- - [https://www.nbcnews.com/health/health-news/natural-immunity-protective-covid-vaccine-severe-illness-rcna71027](https://www.nbcnews.com/health/health-news/natural-immunity-protective-covid-vaccine-severe-illness-rcna71027)
- - date_published: 2023-02-17T19:58:06+00:00
- - tags: ['covid', 'vaccine']
 
  ## FOZZ, czyli matka wszystkich afer
  - [https://mycompanypolska.pl/artykul/fozz-czyli-matka-wszystkich-afer/11162](https://mycompanypolska.pl/artykul/fozz-czyli-matka-wszystkich-afer/11162)
@@ -1945,20 +1948,10 @@
  - date_published: 2023-02-18T00:00:00+00:00
  - tags: ['15minutecities', 'climate change', 'protest']
 
- ## John Carmack on Functional Programming in C++ (2018)
- - [http://www.sevangelatos.com/john-carmack-on](http://www.sevangelatos.com/john-carmack-on)
- - date_published: 2023-02-18T07:09:02+00:00
- - tags: ['cpp', 'functional programming', 'john carmack']
-
  ## Polska nie radzi sobie z odnawialnymi źródłami energii. Rezygnacja z aut spalinowych wypada jeszcze bardziej absurdalnie
  - [https://www.chip.pl/2023/02/polska-odnawialne-zrodla-energii-raport-unii-europejskiej](https://www.chip.pl/2023/02/polska-odnawialne-zrodla-energii-raport-unii-europejskiej)
  - date_published: 2023-02-18T17:00:00+00:00
  - tags: ['climate change', 'electric vehicles']
-
- ## Apple gets a cut of search revenue from Chrome as part of secret Google deal
- - [https://9to5mac.com/2023/02/17/google-apple-chrome-search-revenue](https://9to5mac.com/2023/02/17/google-apple-chrome-search-revenue)
- - date_published: 2023-02-18T17:49:23+00:00
- - tags: ['apple', 'big tech', 'chrome', 'google', 'manufacturing consent']
 
  ## "Absurd censorship:" Changes to Roald Dahl's books spark criticism - CBS News
  - [https://www.cbsnews.com/news/roald-dahls-changes-childrens-books-rushdie-telegraph/?intcid=CNM-00-10abd1h](https://www.cbsnews.com/news/roald-dahls-changes-childrens-books-rushdie-telegraph/?intcid=CNM-00-10abd1h)
@@ -1988,7 +1981,7 @@
 
  ## AI is starting to pick who gets laid off
  - [https://www.washingtonpost.com/technology/2023/02/20/layoff-algorithms/?utm_source=bankier.pl&utm_medium=content&utm_campaign=article](https://www.washingtonpost.com/technology/2023/02/20/layoff-algorithms/?utm_source=bankier.pl&utm_medium=content&utm_campaign=article)
- - date_published: 2023-02-20T12:34:16+00:00
+ - date_published: 2023-02-20T11:30:49+00:00
  - tags: ['artificial intelligence']
 
  ## It's not Orwellian for publishers to edit Roald Dahl, just commercially savvy | Gaby Hinsliff
@@ -2010,6 +2003,12 @@
  - [https://www.nytimes.com/2023/02/21/opinion/do-mask-mandates-work.html](https://www.nytimes.com/2023/02/21/opinion/do-mask-mandates-work.html)
  - date_published: 2023-02-21T09:45:23+00:00
  - tags: ['covid', 'covid lie', 'covid mandates', 'mask mandates', 'masks', 'science is dead']
+ - date_dead_since: 2025-07-17T02:42:06.846156+00:00
+
+ ## ChatGPT has already decreased my income security, and likely yours too
+ - [https://www.scottsantens.com/chatgpt-has-already-decreased-my-income-security](https://www.scottsantens.com/chatgpt-has-already-decreased-my-income-security)
+ - date_published: 2023-02-21T12:01:41+00:00
+ - tags: ['artificial intelligence', 'chatgpt']
 
  ## 'South Park's 'brutally honest take' on trans rights, abortion
  - [https://nypost.com/2023/02/21/south-parks-brutally-honest-take-on-trans-rights-abortion](https://nypost.com/2023/02/21/south-parks-brutally-honest-take-on-trans-rights-abortion)
@@ -2021,11 +2020,6 @@
  - date_published: 2023-02-21T12:11:21+00:00
  - tags: ['climate change', 'england', 'protest']
 
- ## ChatGPT has already decreased my income security, and likely yours too
- - [https://www.scottsantens.com/chatgpt-has-already-decreased-my-income-security](https://www.scottsantens.com/chatgpt-has-already-decreased-my-income-security)
- - date_published: 2023-02-21T12:14:41+00:00
- - tags: ['artificial intelligence', 'chatgpt']
-
  ## How Wall Street bought single-family homes and put them up for rent
  - [https://www.cnbc.com/2023/02/21/how-wall-street-bought-single-family-homes-and-put-them-up-for-rent.html](https://www.cnbc.com/2023/02/21/how-wall-street-bought-single-family-homes-and-put-them-up-for-rent.html)
  - date_published: 2023-02-21T14:28:08+00:00
@@ -2033,9 +2027,8 @@
 
  ## Supreme Court Declines to Hear Wikimedia’s Challenge to NSA Mass Surveillance
  - [https://diff.wikimedia.org/2023/02/21/u-s-supreme-court-declines-to-hear-wikimedia-foundations-challenge-to-nsa-mass-surveillance](https://diff.wikimedia.org/2023/02/21/u-s-supreme-court-declines-to-hear-wikimedia-foundations-challenge-to-nsa-mass-surveillance)
- - date_published: 2023-02-21T18:15:27+00:00
+ - date_published: 2023-02-21T17:09:01+00:00
  - tags: ['privacy', 'surveillance']
- - date_dead_since: 2025-03-09T01:52:42.491117+00:00
 
  ## AI Is Expensive: Google's Chatbot May Cost Company Billions
  - [https://www.businessinsider.com/ai-expensive-google-chatbot-bard-may-cost-company-billions-dollars-2023-2?IR=T](https://www.businessinsider.com/ai-expensive-google-chatbot-bard-may-cost-company-billions-dollars-2023-2?IR=T)
@@ -2049,13 +2042,18 @@
 
  ## Ubuntu Flavors Agree to Stop Using Flatpak
  - [https://www.omgubuntu.co.uk/2023/02/ubuntu-flavors-no-flatpak](https://www.omgubuntu.co.uk/2023/02/ubuntu-flavors-no-flatpak)
- - date_published: 2023-02-22T12:05:44+00:00
+ - date_published: 2023-02-22T11:39:18+00:00
  - tags: ['canonical', 'ubuntu']
 
  ## Ready, Set, Launch: Creating a Static Site With GitHub Pages
  - [https://kinsta.com/blog/github-pages](https://kinsta.com/blog/github-pages)
  - date_published: 2023-02-22T19:00:15+00:00
  - tags: ['github', 'selfhost']
+
+ ## Mozilla Foundation - Mozilla Study: Data Privacy Labels for Most Top Apps in Google Play Store are False or Misleading
+ - [https://foundation.mozilla.org/en/blog/mozilla-study-data-privacy-labels-for-most-top-apps-in-google-play-store-are-false-or-misleading](https://foundation.mozilla.org/en/blog/mozilla-study-data-privacy-labels-for-most-top-apps-in-google-play-store-are-false-or-misleading)
+ - date_published: 2023-02-23T00:00:00+00:00
+ - tags: ['android', 'antitrust', 'app store', 'big tech', 'google', 'play store', 'privacy']
 
  ## Covid 19 Mandates: Silencing the Opposition | Dr. Jayanta Bhattacharya | EP 334
  - [https://www.youtube.com/watch?v=pr0LkPMZ-qc](https://www.youtube.com/watch?v=pr0LkPMZ-qc)
@@ -2076,11 +2074,7 @@
  - [https://edition.cnn.com/2023/02/23/tech/doj-sanctions-google-intentional-destruction-chat-logs/index.html](https://edition.cnn.com/2023/02/23/tech/doj-sanctions-google-intentional-destruction-chat-logs/index.html)
  - date_published: 2023-02-23T11:13:47+00:00
  - tags: ['antitrust', 'big tech', 'google', 'sundar pichai']
-
- ## Mozilla Foundation - Mozilla Study: Data Privacy Labels for Most Top Apps in Google Play Store are False or Misleading
- - [https://foundation.mozilla.org/en/blog/mozilla-study-data-privacy-labels-for-most-top-apps-in-google-play-store-are-false-or-misleading](https://foundation.mozilla.org/en/blog/mozilla-study-data-privacy-labels-for-most-top-apps-in-google-play-store-are-false-or-misleading)
- - date_published: 2023-02-23T11:25:13+00:00
- - tags: ['android', 'antitrust', 'app store', 'big tech', 'google', 'play store', 'privacy']
+ - date_dead_since: 2025-07-17T01:26:17.415920+00:00
 
  ## New Discourses - Translations from the Wokish
  - [https://newdiscourses.com/translations-from-the-wokish](https://newdiscourses.com/translations-from-the-wokish)

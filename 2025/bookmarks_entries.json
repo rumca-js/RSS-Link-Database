@@ -1584,13 +1584,13 @@
         "link": "https://gizmodo.com/whistleblower-alleges-meta-was-ready-to-censor-content-for-chinese-government-2000573582",
         "manual_status_code": 0,
         "page_rating": 32,
-        "page_rating_contents": 100,
-        "page_rating_visits": 0,
+        "page_rating_contents": 91,
+        "page_rating_visits": 2,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 133,
         "source_url": "https://gizmodo.com/feed",
-        "status_code": 0,
+        "status_code": 200,
         "tags": [
             "censorship",
             "corporatocracy",
@@ -1598,7 +1598,7 @@
             "privacy",
             "surveillance"
         ],
-        "thumbnail": null,
+        "thumbnail": "https://gizmodo.com/app/uploads/2024/11/meta-antitrust-acquisitions.jpg",
         "title": "Whistleblower Alleges Meta Was Ready to Censor Content for Chinese Government",
         "vote": 0
     },
