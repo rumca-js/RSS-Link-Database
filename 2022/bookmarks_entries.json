@@ -43353,6 +43353,34 @@
         "vote": 0
     },
     {
+        "age": 0,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_created": "2025-03-10T16:57:52.009241+00:00",
+        "date_dead_since": null,
+        "date_published": "2022-10-27T09:00:12+00:00",
+        "description": "How the blogger formerly known as Mencius Moldbug came to exert a quiet influence on the corporate and political far right.",
+        "id": 2289163,
+        "language": "en-US",
+        "link": "https://www.thenation.com/article/politics/curtis-yarvin",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 86,
+        "page_rating_visits": 2,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "peter thiel"
+        ],
+        "thumbnail": "https://www.thenation.com/wp-content/uploads/2022/10/GettyImages-882190322.jpg",
+        "title": "The Reactionary Prophet of Silicon Valley",
+        "vote": 0
+    },
+    {
         "age": null,
         "album": null,
         "author": null,
@@ -43377,34 +43405,6 @@
         "tags": [],
         "thumbnail": "https://galeria.bankier.pl/p/0/4/47d8b1638f36ba-640-384-1011-224-1173-704.jpg",
         "title": "Pe\u0142na cyfryzacja recept staje si\u0119 faktem. Dane nie pozostawiaj\u0105 w\u0105tpliwo\u015bci",
-        "vote": 0
-    },
-    {
-        "age": 0,
-        "album": null,
-        "author": null,
-        "bookmarked": true,
-        "comments": [],
-        "date_created": "2025-03-10T16:57:52.009241+00:00",
-        "date_dead_since": null,
-        "date_published": "2022-10-27T11:00:12+00:00",
-        "description": "How the blogger formerly known as Mencius Moldbug came to exert a quiet influence on the corporate and political far right.",
-        "id": 2289163,
-        "language": "en-US",
-        "link": "https://www.thenation.com/article/politics/curtis-yarvin",
-        "manual_status_code": 0,
-        "page_rating": 27,
-        "page_rating_contents": 86,
-        "page_rating_visits": 0,
-        "page_rating_votes": 0,
-        "permanent": false,
-        "source_url": "",
-        "status_code": 200,
-        "tags": [
-            "peter thiel"
-        ],
-        "thumbnail": "https://www.thenation.com/wp-content/uploads/2022/10/GettyImages-882190322.jpg",
-        "title": "The Reactionary Prophet of Silicon Valley",
         "vote": 0
     },
     {

@@ -768,6 +768,11 @@
  - date_published: 2023-01-14T21:05:24+00:00
  - tags: ['covid', 'propaganda', 'science is dead', 'statistics']
 
+ ## Stop feeding the hype and start resisting
+ - [https://irisvanrooijcogsci.com/2023/01/14/stop-feeding-the-hype-and-start-resisting](https://irisvanrooijcogsci.com/2023/01/14/stop-feeding-the-hype-and-start-resisting)
+ - date_published: 2023-01-14T22:39:57+00:00
+ - tags: ['artificial intelligence', 'big tech', 'billionaires']
+
  ## SQLite: 35% Faster Than the Filesystem
  - [https://www.sqlite.org/fasterthanfs.html](https://www.sqlite.org/fasterthanfs.html)
  - date_published: 2023-01-15T07:18:20+00:00
@@ -860,25 +865,25 @@
  - date_published: 2023-01-17T06:00:07+00:00
  - tags: ['climate change', 'climate drama', 'climate science', 'hypocrisy', 'net zero']
 
+ ## TAPES: We Investigated a Suburban LGBTQ Pedophile Ring. Here's What We Found.
+ - [https://townhall.com/tipsheet/miacathell/2023/01/17/zulock-case-pt-1-n2618219](https://townhall.com/tipsheet/miacathell/2023/01/17/zulock-case-pt-1-n2618219)
+ - date_published: 2023-01-17T06:15:06+00:00
+ - tags: ['lgbt', 'paedophilia', 'the left wing']
+
  ## Hackers push malware via Google search ads for VLC, 7-Zip, CCleaner
  - [https://www.bleepingcomputer.com/news/security/hackers-push-malware-via-google-search-ads-for-vlc-7-zip-ccleaner](https://www.bleepingcomputer.com/news/security/hackers-push-malware-via-google-search-ads-for-vlc-7-zip-ccleaner)
  - date_published: 2023-01-17T07:33:20+00:00
  - tags: ['ad business', 'hackers', 'malware', 'search engines']
 
+ ## The FBI Identified a Tor User
+ - [https://www.schneier.com/blog/archives/2023/01/the-fbi-identified-a-tor-user.html](https://www.schneier.com/blog/archives/2023/01/the-fbi-identified-a-tor-user.html)
+ - date_published: 2023-01-17T12:02:26+00:00
+ - tags: ['fbi', 'surveillance', 'tor']
+
  ## UK privacy watchdog silent as Google flicks off critique that its Topics API fails to reform ad-tracking
  - [https://techcrunch.com/2023/01/17/privacy-sandbox-topics-api-criticism/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAD1E7GuH3iM8FF4-7_PPr3Hit0acqyN2zCyiPCoWUxweW4mLah6Tw5zWbnVcoB4UtN1tWgHmimrtlwdrDWpLgljZsXjQ7661w-GToymPA6ijA7RtRop-oM_8fXuCxuDz6GRAD4dt5pvB874DhnEsQ8q3kBaEZJ97uBm9tX3XD3dG](https://techcrunch.com/2023/01/17/privacy-sandbox-topics-api-criticism/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAD1E7GuH3iM8FF4-7_PPr3Hit0acqyN2zCyiPCoWUxweW4mLah6Tw5zWbnVcoB4UtN1tWgHmimrtlwdrDWpLgljZsXjQ7661w-GToymPA6ijA7RtRop-oM_8fXuCxuDz6GRAD4dt5pvB874DhnEsQ8q3kBaEZJ97uBm9tX3XD3dG)
  - date_published: 2023-01-17T13:18:18+00:00
  - tags: ['chrome', 'england', 'google', 'privacy', 'surveillance', 'topics api']
-
- ## The FBI Identified a Tor User
- - [https://www.schneier.com/blog/archives/2023/01/the-fbi-identified-a-tor-user.html](https://www.schneier.com/blog/archives/2023/01/the-fbi-identified-a-tor-user.html)
- - date_published: 2023-01-17T13:24:59+00:00
- - tags: ['fbi', 'surveillance', 'tor']
-
- ## TAPES: We Investigated a Suburban LGBTQ Pedophile Ring. Here's What We Found.
- - [https://townhall.com/tipsheet/miacathell/2023/01/17/zulock-case-pt-1-n2618219](https://townhall.com/tipsheet/miacathell/2023/01/17/zulock-case-pt-1-n2618219)
- - date_published: 2023-01-17T16:12:51+00:00
- - tags: ['lgbt', 'paedophilia', 'the left wing']
 
  ## Blocking Scotland’s gender bill is no anti-woke crusade. But it’s not a democratic outrage either | Martin Kettle
  - [https://www.theguardian.com/commentisfree/2023/jan/17/blocking-scotland-gender-recognition-bill-rishi-sunak](https://www.theguardian.com/commentisfree/2023/jan/17/blocking-scotland-gender-recognition-bill-rishi-sunak)
@@ -890,6 +895,11 @@
  - date_published: 2023-01-17T16:32:36+00:00
  - tags: ['gender', 'rape', 'the left wing', 'transgender']
 
+ ## Scientists are getting eerily good at using WiFi to 'see' people through walls in detail
+ - [https://www.vice.com/en/article/y3p7xj/scientists-are-getting-eerily-good-at-using-wifi-to-see-people-through-walls-in-detail](https://www.vice.com/en/article/y3p7xj/scientists-are-getting-eerily-good-at-using-wifi-to-see-people-through-walls-in-detail)
+ - date_published: 2023-01-17T18:50:30+00:00
+ - tags: ['privacy', 'security', 'smart home']
+
  ## George Soros tied to at least 54 influential media figures through groups funded by liberal billionaire: study
  - [https://www.foxnews.com/media/george-soros-tied-54-influential-media-figures-through-groups-funded-liberal-billionaire-study](https://www.foxnews.com/media/george-soros-tied-54-influential-media-figures-through-groups-funded-liberal-billionaire-study)
  - date_published: 2023-01-17T20:30:34+00:00
@@ -897,18 +907,13 @@
 
  ## SNP's alleged private car ban criticised worldwide for 'freedom' killing agenda - Scottish Daily Express
  - [https://www.scottishdailyexpress.co.uk/news/politics/snps-alleged-private-car-ban-28981118](https://www.scottishdailyexpress.co.uk/news/politics/snps-alleged-private-car-ban-28981118)
- - date_published: 2023-01-17T21:08:35+00:00
+ - date_published: 2023-01-17T20:38:25+00:00
  - tags: ['climate change', 'climate drama', 'freedom', 'scotland']
 
  ## The Art of Knowing When to Quit
  - [https://blog.jim-nielsen.com/2023/art-of-knowing-when-to-quit](https://blog.jim-nielsen.com/2023/art-of-knowing-when-to-quit)
  - date_published: 2023-01-17T23:04:06+00:00
  - tags: ['psychology']
-
- ## Stop feeding the hype and start resisting
- - [https://irisvanrooijcogsci.com/2023/01/14/stop-feeding-the-hype-and-start-resisting](https://irisvanrooijcogsci.com/2023/01/14/stop-feeding-the-hype-and-start-resisting)
- - date_published: 2023-01-18T05:36:56+00:00
- - tags: ['artificial intelligence', 'big tech', 'billionaires']
 
  ## Investigation: Ukraine buys huge amounts of Russian fuels from Bulgaria – EURACTIV.com
  - [https://www.euractiv.com/section/global-europe/news/investigation-ukraine-buys-huge-amounts-of-russian-fuels-from-bulgaria](https://www.euractiv.com/section/global-europe/news/investigation-ukraine-buys-huge-amounts-of-russian-fuels-from-bulgaria)
@@ -930,15 +935,15 @@
  - date_published: 2023-01-18T17:49:12+00:00
  - tags: ['america', 'depopulation']
 
- ## Scientists are getting eerily good at using WiFi to 'see' people through walls in detail
- - [https://www.vice.com/en/article/y3p7xj/scientists-are-getting-eerily-good-at-using-wifi-to-see-people-through-walls-in-detail](https://www.vice.com/en/article/y3p7xj/scientists-are-getting-eerily-good-at-using-wifi-to-see-people-through-walls-in-detail)
- - date_published: 2023-01-19T05:00:00+00:00
- - tags: ['privacy', 'security', 'smart home']
-
  ## Richard von Coudenhove-Kalergi - Wikipedia
  - [https://en.wikipedia.org/wiki/Richard_von_Coudenhove-Kalergi](https://en.wikipedia.org/wiki/Richard_von_Coudenhove-Kalergi)
  - date_published: 2023-01-19T10:18:54+00:00
  - tags: ['conspiracy theory', 'coudenhove-kalergi', 'depopulation', 'immigration', 'the right wing']
+
+ ## Inside the Facebook Files: Emails Reveal CDC's Role in Stifling COVID Dissent
+ - [https://reason.com/2023/01/19/facebook-files-emails-cdc-covid-vaccines-censorship](https://reason.com/2023/01/19/facebook-files-emails-cdc-covid-vaccines-censorship)
+ - date_published: 2023-01-19T11:00:47+00:00
+ - tags: ['censorship', 'covid']
 
  ## Army vet fined for silent prayer (for his late son) in PSPO zone near abortion facility in Bournemouth.
  - [https://twitter.com/LoisMcLatch/status/1616054556001210369?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1616054556001210369%7Ctwgr%5Ef3ee1bd6c95aead32f32df57ff4266cc1980e5af%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.louderwithcrowder.com%2Fprayer-army-vet-fined](https://twitter.com/LoisMcLatch/status/1616054556001210369?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1616054556001210369%7Ctwgr%5Ef3ee1bd6c95aead32f32df57ff4266cc1980e5af%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.louderwithcrowder.com%2Fprayer-army-vet-fined)
@@ -965,10 +970,10 @@
  - date_published: 2023-01-19T18:41:15+00:00
  - tags: ['big pharma', 'covid', 'israel', 'pfizer']
 
- ## Inside the Facebook Files: Emails Reveal CDC's Role in Stifling COVID Dissent
- - [https://reason.com/2023/01/19/facebook-files-emails-cdc-covid-vaccines-censorship](https://reason.com/2023/01/19/facebook-files-emails-cdc-covid-vaccines-censorship)
- - date_published: 2023-01-19T20:54:18+00:00
- - tags: ['censorship', 'covid']
+ ## WEF speaker touts tech that allows your boss to monitor your brain activity
+ - [https://www.lifesitenews.com/news/world-economic-forum-speaker-touts-technology-that-allows-your-boss-to-monitor-your-brain-activity](https://www.lifesitenews.com/news/world-economic-forum-speaker-touts-technology-that-allows-your-boss-to-monitor-your-brain-activity)
+ - date_published: 2023-01-19T20:52:38+00:00
+ - tags: ['dystopia', 'wef', 'world economic forum']
 
  ## Twitter officially bans third-party clients with new developer rules
  - [https://www.theverge.com/2023/1/19/23562947/twitter-third-party-client-tweetbot-twitterific-ban-rules](https://www.theverge.com/2023/1/19/23562947/twitter-third-party-client-tweetbot-twitterific-ban-rules)
@@ -979,6 +984,16 @@
  - [https://cohost.org/arborelia/post/868933-how-to-destroy-a-cer](https://cohost.org/arborelia/post/868933-how-to-destroy-a-cer)
  - date_published: 2023-01-19T22:43:11+00:00
  - tags: ['internet', 'programming']
+
+ ## AI is in danger of being swallowed up by copyright law
+ - [https://heathermeeker.com/2023/01/19/is-copyright-eating-ai](https://heathermeeker.com/2023/01/19/is-copyright-eating-ai)
+ - date_published: 2023-01-19T23:18:27+00:00
+ - tags: ['artificial intelligence']
+
+ ## TikTok’s Secret ‘Heating’ Button Can Make Anyone Go Viral
+ - [https://www.forbes.com/sites/emilybaker-white/2023/01/20/tiktoks-secret-heating-button-can-make-anyone-go-viral](https://www.forbes.com/sites/emilybaker-white/2023/01/20/tiktoks-secret-heating-button-can-make-anyone-go-viral)
+ - date_published: 2023-01-20T00:00:00+00:00
+ - tags: ['algorithms', 'corporatocracy', 'dark design', 'search engines', 'social media', 'technofeudalism', 'tiktok']
 
  ## The CIA's Plot To Assassinate Julian Assange
  - [https://www.youtube.com/watch?v=KvewuoL2VcY](https://www.youtube.com/watch?v=KvewuoL2VcY)
@@ -995,6 +1010,11 @@
  - date_published: 2023-01-20T08:33:09+00:00
  - tags: ['msi', 'secure boot']
 
+ ## Big Pharma Greed’s Knows No Bounds
+ - [https://www.thenation.com/article/economy/big-pharma-greed-knows-no-bounds](https://www.thenation.com/article/economy/big-pharma-greed-knows-no-bounds)
+ - date_published: 2023-01-20T10:00:47+00:00
+ - tags: ['big pharma', 'corporatocracy', 'covid', 'moderna', 'profit', 'vaccine']
+
  ## Meta, Twitter, Microsoft and others urge Supreme Court not to allow lawsuits against tech algorithms
  - [https://www.cnn.com/2023/01/20/tech/meta-microsoft-google-supreme-court-tech-algorithms/index.html](https://www.cnn.com/2023/01/20/tech/meta-microsoft-google-supreme-court-tech-algorithms/index.html)
  - date_published: 2023-01-20T14:07:43+00:00
@@ -1005,15 +1025,15 @@
  - date_published: 2023-01-20T15:14:20+00:00
  - tags: ['paedophilia', 'sexualization', 'the left wing']
 
- ## TikTok’s Secret ‘Heating’ Button Can Make Anyone Go Viral
- - [https://www.forbes.com/sites/emilybaker-white/2023/01/20/tiktoks-secret-heating-button-can-make-anyone-go-viral](https://www.forbes.com/sites/emilybaker-white/2023/01/20/tiktoks-secret-heating-button-can-make-anyone-go-viral)
- - date_published: 2023-01-20T15:15:58+00:00
- - tags: ['algorithms', 'corporatocracy', 'dark design', 'search engines', 'social media', 'technofeudalism', 'tiktok']
-
  ## Ask HN: Google spam filter getting worse?
  - [https://news.ycombinator.com/item?id=34455854](https://news.ycombinator.com/item?id=34455854)
  - date_published: 2023-01-20T16:50:27+00:00
  - tags: ['dead internet', 'gmail', 'google']
+
+ ## U.S. ‘No Fly List’ Leaks After Being Left in an Unsecured Airline Server
+ - [https://www.vice.com/en/article/93a4p5/us-no-fly-list-leaks-after-being-left-in-an-unsecured-airline-server](https://www.vice.com/en/article/93a4p5/us-no-fly-list-leaks-after-being-left-in-an-unsecured-airline-server)
+ - date_published: 2023-01-20T17:03:57+00:00
+ - tags: ['airline', 'data leak', 'surveillance']
 
  ## The Facebook Files: How The CDC Colluded With Meta To Suppress ‘Misinformation’
  - [https://www.dailywire.com/news/the-facebook-files-how-the-cdc-colluded-with-meta-to-suppress-misinformation](https://www.dailywire.com/news/the-facebook-files-how-the-cdc-colluded-with-meta-to-suppress-misinformation)
@@ -1025,35 +1045,15 @@
  - date_published: 2023-01-20T18:08:50+00:00
  - tags: ['android', 'f-droid']
 
- ## U.S. ‘No Fly List’ Leaks After Being Left in an Unsecured Airline Server
- - [https://www.vice.com/en/article/93a4p5/us-no-fly-list-leaks-after-being-left-in-an-unsecured-airline-server](https://www.vice.com/en/article/93a4p5/us-no-fly-list-leaks-after-being-left-in-an-unsecured-airline-server)
- - date_published: 2023-01-20T21:48:47+00:00
- - tags: ['airline', 'data leak', 'surveillance']
-
- ## WEF speaker touts tech that allows your boss to monitor your brain activity
- - [https://www.lifesitenews.com/news/world-economic-forum-speaker-touts-technology-that-allows-your-boss-to-monitor-your-brain-activity](https://www.lifesitenews.com/news/world-economic-forum-speaker-touts-technology-that-allows-your-boss-to-monitor-your-brain-activity)
- - date_published: 2023-01-20T22:15:39+00:00
- - tags: ['dystopia', 'wef', 'world economic forum']
-
  ## You don't have to engage with people on the Internet
  - [https://xeiaso.net/blog/lesson-online-feedback](https://xeiaso.net/blog/lesson-online-feedback)
  - date_published: 2023-01-21T00:42:24+00:00
  - tags: ['internet', 'social media']
 
- ## Big Pharma Greed’s Knows No Bounds
- - [https://www.thenation.com/article/economy/big-pharma-greed-knows-no-bounds](https://www.thenation.com/article/economy/big-pharma-greed-knows-no-bounds)
- - date_published: 2023-01-21T18:04:27+00:00
- - tags: ['big pharma', 'corporatocracy', 'covid', 'moderna', 'profit', 'vaccine']
-
  ## Pluralistic: Tiktok’s enshittification (21 Jan 2023) – Pluralistic: Daily links from Cory Doctorow
  - [https://pluralistic.net/2023/01/21/potemkin-ai](https://pluralistic.net/2023/01/21/potemkin-ai)
  - date_published: 2023-01-21T18:32:03+00:00
  - tags: ['ad business', 'algorithms', 'enshittification', 'internet', 'search engines', 'seo']
-
- ## AI is in danger of being swallowed up by copyright law
- - [https://heathermeeker.com/2023/01/19/is-copyright-eating-ai](https://heathermeeker.com/2023/01/19/is-copyright-eating-ai)
- - date_published: 2023-01-21T19:18:01+00:00
- - tags: ['artificial intelligence']
 
  ## In Peru, half the population lacks food security
  - [https://www.lemonde.fr/en/international/article/2023/01/22/in-peru-half-the-population-lacks-food-security_6012540_4.html](https://www.lemonde.fr/en/international/article/2023/01/22/in-peru-half-the-population-lacks-food-security_6012540_4.html)
@@ -1072,7 +1072,7 @@
 
  ## Peru’s Deadly Protests
  - [https://www.nytimes.com/2023/01/22/briefing/peru-protests.html](https://www.nytimes.com/2023/01/22/briefing/peru-protests.html)
- - date_published: 2023-01-22T12:34:51+00:00
+ - date_published: 2023-01-22T12:34:29+00:00
  - tags: ['crisis', 'peru']
 
  ## Huge crowds in Israel again protest Netanyahu’s legal changes | Benjamin Netanyahu News
@@ -1085,6 +1085,11 @@
  - date_published: 2023-01-23T01:14:49+00:00
  - tags: ['mexic', 'pegasus', 'privacy', 'spyware', 'surveillance']
 
+ ## Postępowania przeciwko lekarzom zniechęcającym do szczepień
+ - [https://www.prawo.pl/zdrowie/postepowania-przeciwko-lekarzom-zniechecajacym-do-szczepien,519414.html](https://www.prawo.pl/zdrowie/postepowania-przeciwko-lekarzom-zniechecajacym-do-szczepien,519414.html)
+ - date_published: 2023-01-23T05:30:00+00:00
+ - tags: ['cancel culture', 'covid', 'vaccine']
+
  ## Attacks against Catholic churches approach 300 incidents since May 2020: report
  - [https://www.foxnews.com/us/attacks-catholic-churches-approach-300-incidents-may-2020-report](https://www.foxnews.com/us/attacks-catholic-churches-approach-300-incidents-may-2020-report)
  - date_published: 2023-01-23T07:00:06+00:00
@@ -1094,11 +1099,6 @@
  - [https://www.bankier.pl/wiadomosc/Japonia-chce-odwrocic-trend-demograficzny-Rzad-siegnie-po-bezprecedensowe-srodki-8476515.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Japonia-chce-odwrocic-trend-demograficzny-Rzad-siegnie-po-bezprecedensowe-srodki-8476515.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date_published: 2023-01-23T09:00:00+00:00
  - tags: ['demographics', 'japan']
-
- ## Postępowania przeciwko lekarzom zniechęcającym do szczepień
- - [https://www.prawo.pl/zdrowie/postepowania-przeciwko-lekarzom-zniechecajacym-do-szczepien,519414.html](https://www.prawo.pl/zdrowie/postepowania-przeciwko-lekarzom-zniechecajacym-do-szczepien,519414.html)
- - date_published: 2023-01-23T09:03:48+00:00
- - tags: ['cancel culture', 'covid', 'vaccine']
 
  ## "Nie szczep się". Lekarze zniechęcający do szczepień mogą ponieść karę za swoją postawę
  - [https://www.bankier.pl/wiadomosc/Nie-szczep-sie-Lekarze-zniechecajacy-do-szczepien-moga-poniesc-kare-za-swoja-postawe-8476698.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Nie-szczep-sie-Lekarze-zniechecajacy-do-szczepien-moga-poniesc-kare-za-swoja-postawe-8476698.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -1115,15 +1115,35 @@
  - date_published: 2023-01-23T14:20:43+00:00
  - tags: ['google', 'privacy']
 
+ ## Why VR/AR gets farther away as it comes into focus
+ - [https://www.matthewball.vc/all/why-vrar-gets-farther-away-as-it-comes-into-focus](https://www.matthewball.vc/all/why-vrar-gets-farther-away-as-it-comes-into-focus)
+ - date_published: 2023-01-23T15:44:00+00:00
+ - tags: ['augmented reality', 'virtual reality']
+
  ## FBI Says North Korean Hackers Behind $100 Million Horizon Bridge Crypto Theft
  - [https://thehackernews.com/2023/01/fbi-says-north-korean-hackers-behind.html](https://thehackernews.com/2023/01/fbi-says-north-korean-hackers-behind.html)
  - date_published: 2023-01-24T11:58:00+00:00
  - tags: ['crypto', 'hackers', 'lazarus', 'north korea']
 
+ ## EU’s proposed CE mark for software could have dire impact on open source
+ - [https://devclass.com/2023/01/24/eus-proposed-ce-mark-for-software-could-have-dire-impact-on-open-source](https://devclass.com/2023/01/24/eus-proposed-ce-mark-for-software-could-have-dire-impact-on-open-source)
+ - date_published: 2023-01-24T16:48:56+00:00
+ - tags: ['big brother', 'cyber resilience act', 'government control', 'open source']
+
  ## Is AI the solution to search's problem?
  - [https://lucaserb.substack.com/p/brief-bear](https://lucaserb.substack.com/p/brief-bear)
  - date_published: 2023-01-24T17:17:27+00:00
  - tags: ['algorithms', 'search engines']
+
+ ## Google is being sued by the US government and eight states over online advertising
+ - [https://www.theverge.com/2023/1/24/23569127/google-advertising-monopoly-antitrust-lawsuit-federal-government](https://www.theverge.com/2023/1/24/23569127/google-advertising-monopoly-antitrust-lawsuit-federal-government)
+ - date_published: 2023-01-24T18:07:29+00:00
+ - tags: ['ad business', 'big tech', 'google', 'monopoly']
+
+ ## Appliance makers sad that 50% of customers won’t connect smart appliances
+ - [https://arstechnica.com/gadgets/2023/01/half-of-smart-appliances-remain-disconnected-from-internet-makers-lament](https://arstechnica.com/gadgets/2023/01/half-of-smart-appliances-remain-disconnected-from-internet-makers-lament)
+ - date_published: 2023-01-24T18:20:15+00:00
+ - tags: ['iot', 'privacy', 'smart home']
 
  ## What is the Cyber Resilience Act and why it’s dangerous for Open Source - Voices of Open Source
  - [https://blog.opensource.org/what-is-the-cyber-resilience-act-and-why-its-important-for-open-source](https://blog.opensource.org/what-is-the-cyber-resilience-act-and-why-its-important-for-open-source)
@@ -1134,16 +1154,7 @@
  - [https://www.wsj.com/articles/u-s-sues-google-for-alleged-antitrust-violations-in-its-ad-tech-business-11674582792?mod=rss_Technology](https://www.wsj.com/articles/u-s-sues-google-for-alleged-antitrust-violations-in-its-ad-tech-business-11674582792?mod=rss_Technology)
  - date_published: 2023-01-24T18:57:00+00:00
  - tags: ['ad business', 'big brother', 'big tech', 'google']
-
- ## Google is being sued by the US government and eight states over online advertising
- - [https://www.theverge.com/2023/1/24/23569127/google-advertising-monopoly-antitrust-lawsuit-federal-government](https://www.theverge.com/2023/1/24/23569127/google-advertising-monopoly-antitrust-lawsuit-federal-government)
- - date_published: 2023-01-24T18:57:35+00:00
- - tags: ['ad business', 'big tech', 'google', 'monopoly']
-
- ## Appliance makers sad that 50% of customers won’t connect smart appliances
- - [https://arstechnica.com/gadgets/2023/01/half-of-smart-appliances-remain-disconnected-from-internet-makers-lament](https://arstechnica.com/gadgets/2023/01/half-of-smart-appliances-remain-disconnected-from-internet-makers-lament)
- - date_published: 2023-01-24T19:04:31+00:00
- - tags: ['iot', 'privacy', 'smart home']
+ - date_dead_since: 2025-07-18T15:00:01.195784+00:00
 
  ## Bill Gates MRNA Grift EXPOSED? Billionaire TRASHES Jab Despite Reaping MASSIVE Profits: Brie & Robby
  - [https://www.youtube.com/watch?v=kGctGh3vvJg](https://www.youtube.com/watch?v=kGctGh3vvJg)
@@ -1185,7 +1196,6 @@
  - [https://thehill.com/opinion/national-security/3831448-anti-abortion-violence-is-the-next-wave-of-domestic-terrorism](https://thehill.com/opinion/national-security/3831448-anti-abortion-violence-is-the-next-wave-of-domestic-terrorism)
  - date_published: 2023-01-26T17:30:00+00:00
  - tags: ['abortion']
- - date_dead_since: 2024-10-10T06:49:09.394231+00:00
 
  ## Amazon Warns Employees to Beware of ChatGPT
  - [https://gizmodo.com/amazon-chatgpt-ai-software-job-coding-1850034383](https://gizmodo.com/amazon-chatgpt-ai-software-job-coding-1850034383)
@@ -1207,20 +1217,10 @@
  - date_published: 2023-01-27T00:00:00+00:00
  - tags: ['artificial intelligence', 'law']
 
- ## Why VR/AR gets farther away as it comes into focus
- - [https://www.matthewball.vc/all/why-vrar-gets-farther-away-as-it-comes-into-focus](https://www.matthewball.vc/all/why-vrar-gets-farther-away-as-it-comes-into-focus)
- - date_published: 2023-01-27T00:02:02+00:00
- - tags: ['augmented reality', 'virtual reality']
-
  ## Sci-Hub: knowledge as a human right
  - [https://sci-hub.ru](https://sci-hub.ru)
  - date_published: 2023-01-27T01:52:22+00:00
  - tags: ['science']
-
- ## EU’s proposed CE mark for software could have dire impact on open source
- - [https://devclass.com/2023/01/24/eus-proposed-ce-mark-for-software-could-have-dire-impact-on-open-source](https://devclass.com/2023/01/24/eus-proposed-ce-mark-for-software-could-have-dire-impact-on-open-source)
- - date_published: 2023-01-27T05:00:00+00:00
- - tags: ['big brother', 'cyber resilience act', 'government control', 'open source']
 
  ## BookStack
  - [https://www.bookstackapp.com](https://www.bookstackapp.com)
@@ -1252,15 +1252,20 @@
  - date_published: 2023-01-28T00:00:00+00:00
  - tags: ['cancel culture', 'jordan peterson']
 
+ ## Świat walczy o niskie emisje. I coraz bardziej lubi prywatne odrzutowce
+ - [https://300gospodarka.pl/news/swiat-walczy-o-niskie-emisje-ale-coraz-bardziej-lubi-prywatne-odrzutowce](https://300gospodarka.pl/news/swiat-walczy-o-niskie-emisje-ale-coraz-bardziej-lubi-prywatne-odrzutowce)
+ - date_published: 2023-01-28T06:06:47+00:00
+ - tags: ['carbon emissions', 'climate change']
+
  ## Facebook fires worker who refused to do 'negative testing': 'awsuit
  - [https://nypost.com/2023/01/28/facebook-fires-worker-who-refused-to-do-negative-testing-awsuit](https://nypost.com/2023/01/28/facebook-fires-worker-who-refused-to-do-negative-testing-awsuit)
  - date_published: 2023-01-28T07:43:51+00:00
  - tags: ['big tech', 'dark design', 'facebook']
 
- ## Świat walczy o niskie emisje. I coraz bardziej lubi prywatne odrzutowce
- - [https://300gospodarka.pl/news/swiat-walczy-o-niskie-emisje-ale-coraz-bardziej-lubi-prywatne-odrzutowce](https://300gospodarka.pl/news/swiat-walczy-o-niskie-emisje-ale-coraz-bardziej-lubi-prywatne-odrzutowce)
- - date_published: 2023-01-28T14:51:13+00:00
- - tags: ['carbon emissions', 'climate change']
+ ## US Air Force Gen. Mike Minihan predicts China war in 2025
+ - [https://nypost.com/2023/01/28/us-air-force-gen-mike-minihan-predicts-china-war-in-2025](https://nypost.com/2023/01/28/us-air-force-gen-mike-minihan-predicts-china-war-in-2025)
+ - date_published: 2023-01-28T17:57:27+00:00
+ - tags: ['china', 'crisis', 'taiwan']
 
  ## DoD FAQ: Is Open Source Software Commercial Software? Yes.
  - [https://dodcio.defense.gov/Open-Source-Software-FAQ/#q-is-oss-commercial-software-is-it-cots](https://dodcio.defense.gov/Open-Source-Software-FAQ/#q-is-oss-commercial-software-is-it-cots)
@@ -1272,14 +1277,9 @@
  - date_published: 2023-01-28T19:06:40+00:00
  - tags: ['dark factory', 'futurism']
 
- ## US Air Force Gen. Mike Minihan predicts China war in 2025
- - [https://nypost.com/2023/01/28/us-air-force-gen-mike-minihan-predicts-china-war-in-2025](https://nypost.com/2023/01/28/us-air-force-gen-mike-minihan-predicts-china-war-in-2025)
- - date_published: 2023-01-28T19:23:33+00:00
- - tags: ['china', 'crisis', 'taiwan']
-
  ## Army spied on lockdown critics: Sceptics, including Peter Hitchens, suspected they being watched
  - [https://www.dailymail.co.uk/news/article-11687675/Army-spied-lockdown-critics-Sceptics-including-Peter-Hitchens-suspected-watched.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11687675/Army-spied-lockdown-critics-Sceptics-including-Peter-Hitchens-suspected-watched.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - date_published: 2023-01-28T22:06:00+00:00
+ - date_published: 2023-01-28T22:05:52+00:00
  - tags: ['covid', 'lockdown']
 
  ## Reverse RSS Feed
@@ -1314,7 +1314,7 @@
 
  ## Aplikacja mObywatel zastąpi dowód osobisty w urzędach i bankach. Wiemy kiedy - Instalki.pl
  - [https://www.instalki.pl/aktualnosci/software/57943-aplikacja-mobywatel-zamiast-dowodu-osobistego-bank-urzad-kiedy.html](https://www.instalki.pl/aktualnosci/software/57943-aplikacja-mobywatel-zamiast-dowodu-osobistego-bank-urzad-kiedy.html)
- - date_published: 2023-01-30T14:18:51.618654+00:00
+ - date_published: 2023-01-30T12:41:36+00:00
  - tags: ['digital identity', 'poland']
 
  ## Utah bans gender-affirming surgery for young trans people

@@ -262,7 +262,7 @@
 
  ## Gender stereotypes are often accurate but vary in magnitude depending on the criterion
  - [https://www.psypost.org/gender-stereotypes-are-often-accurate-but-vary-in-magnitude-depending-on-the-criterion](https://www.psypost.org/gender-stereotypes-are-often-accurate-but-vary-in-magnitude-depending-on-the-criterion)
- - date_published: 2025-03-08T17:30:33+00:00
+ - date_published: 2025-03-08T11:23:40+00:00
  - tags: ['gender', 'stereotypes']
 
  ## Whistleblower Alleges Meta Was Ready to Censor Content for Chinese Government
@@ -554,8 +554,28 @@
  - date_published: 2025-07-11T07:43:52+00:00
  - tags: ['jeffrey epstein']
 
+ ## Metadata Shows the FBI’s ‘Raw’ Jeffrey Epstein Prison Video Was Likely Modified
+ - [https://www.wired.com/story/metadata-shows-the-dojs-raw-jeffrey-epstein-prison-video-was-likely-modified](https://www.wired.com/story/metadata-shows-the-dojs-raw-jeffrey-epstein-prison-video-was-likely-modified)
+ - date_published: 2025-07-11T16:23:55+00:00
+ - tags: ['jeffrey epstein']
+
  ## Jeffrey Epstein News Just Got Crazier
  - [https://www.youtube.com/watch?v=YKBw3W4oDoo](https://www.youtube.com/watch?v=YKBw3W4oDoo)
  - date_published: 2025-07-13T23:00:29+00:00
+ - tags: ['jeffrey epstein']
+
+ ## The FBI's Jeffrey Epstein Prison Video Had Nearly 3 Minutes Cut Out
+ - [https://www.wired.com/story/the-fbis-jeffrey-epstein-prison-video-had-nearly-3-minutes-cut-out](https://www.wired.com/story/the-fbis-jeffrey-epstein-prison-video-had-nearly-3-minutes-cut-out)
+ - date_published: 2025-07-15T19:40:27+00:00
+ - tags: ['jeffrey epstein']
+
+ ## The Dark Truth Behind Epstein - Biggest Cover Up of 21st Century
+ - [https://www.youtube.com/watch?v=ztgnzFCDbOo](https://www.youtube.com/watch?v=ztgnzFCDbOo)
+ - date_published: 2025-07-17T00:00:00+00:00
+ - tags: ['jeffrey epstein']
+
+ ## The Epstein COVERUP - Trumps Nightmare
+ - [https://www.youtube.com/watch?v=f4u62mbibqI](https://www.youtube.com/watch?v=f4u62mbibqI)
+ - date_published: 2025-07-18T11:11:11+00:00
  - tags: ['jeffrey epstein']
 
