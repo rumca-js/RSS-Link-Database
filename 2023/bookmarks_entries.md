@@ -272,6 +272,11 @@
  - date_published: 2023-01-06T11:09:51+00:00
  - tags: ['catholic', 'poland', 'religion']
 
+ ## How Police Exploited the Capitol Riot’s Digital Records
+ - [https://spectrum.ieee.org/capitol-riot](https://spectrum.ieee.org/capitol-riot)
+ - date_published: 2023-01-06T16:00:04+00:00
+ - tags: ['january 6', 'privacy', 'surveillance']
+
  ## SteamDeck Destroyed The Linux Steam Marketshare
  - [https://www.youtube.com/watch?v=xbvoyzeQu1M](https://www.youtube.com/watch?v=xbvoyzeQu1M)
  - date_published: 2023-01-07T00:00:00+00:00
@@ -465,30 +470,32 @@
  - date_published: 2023-01-11T08:13:31+00:00
  - tags: ['sony', 'technofeudalism']
 
+ ## FDA vaccine advisers 'disappointed' and 'angry' that early data about new Covid-19 booster shot wasn't presented for review last year | CNN
+ - [https://edition.cnn.com/2023/01/11/health/moderna-bivalent-transparency/index.html](https://edition.cnn.com/2023/01/11/health/moderna-bivalent-transparency/index.html)
+ - date_published: 2023-01-11T11:35:59+00:00
+ - tags: ['covid', 'fda', 'science is dead', 'vaccine']
+
+ ## Karcher przyznał się do zawyżania cen sprzętu w Polsce przez ponad 20 lat - Instalki.pl
+ - [https://www.instalki.pl/aktualnosci/hardware/57669-karcher-przyznal-sie-do-zawyzania-cen-sprzetu-w-polsce-przez-ponad-20-lat.html](https://www.instalki.pl/aktualnosci/hardware/57669-karcher-przyznal-sie-do-zawyzania-cen-sprzetu-w-polsce-przez-ponad-20-lat.html)
+ - date_published: 2023-01-11T12:23:29+00:00
+ - tags: ['corruption', 'monopoly']
+
  ## Django Styleguide
  - [https://github.com/HackSoftware/Django-Styleguide](https://github.com/HackSoftware/Django-Styleguide)
  - date_published: 2023-01-11T12:31:52+00:00
  - tags: ['django', 'programming']
+ - date_dead_since: 2025-07-27T14:12:48.724126+00:00
+
+ ## Polski rząd poszerza możliwość elektronicznej inwigilacji obywateli wbrew prawu UE - Instalki.pl
+ - [https://www.instalki.pl/aktualnosci/bezpieczenstwo/57671-inwigilacja-internet-suzby-polska-ue-prawo.html](https://www.instalki.pl/aktualnosci/bezpieczenstwo/57671-inwigilacja-internet-suzby-polska-ue-prawo.html)
+ - date_published: 2023-01-11T12:51:53+00:00
+ - tags: ['government control', 'poland', 'prawo i sprawiedliwość', 'surveillance']
 
  ## Zawartość „chmury”, komunikatorów, usunięte treści. Nowa policyjna broń w walce z przestępczością?
  - [https://www.rmf24.pl/fakty/news-zawartosc-chmury-komunikatorow-usuniete-tresci-nowa-policyjn,nId,6527601#crp_state=1](https://www.rmf24.pl/fakty/news-zawartosc-chmury-komunikatorow-usuniete-tresci-nowa-policyjn,nId,6527601#crp_state=1)
  - date_published: 2023-01-11T13:12:54+00:00
  - tags: ['misinformation', 'moderation', 'privacy', 'subscription', 'surveillance']
-
- ## FDA vaccine advisers 'disappointed' and 'angry' that early data about new Covid-19 booster shot wasn't presented for review last year | CNN
- - [https://edition.cnn.com/2023/01/11/health/moderna-bivalent-transparency/index.html](https://edition.cnn.com/2023/01/11/health/moderna-bivalent-transparency/index.html)
- - date_published: 2023-01-11T13:47:16+00:00
- - tags: ['covid', 'fda', 'science is dead', 'vaccine']
-
- ## Polski rząd poszerza możliwość elektronicznej inwigilacji obywateli wbrew prawu UE - Instalki.pl
- - [https://www.instalki.pl/aktualnosci/bezpieczenstwo/57671-inwigilacja-internet-suzby-polska-ue-prawo.html](https://www.instalki.pl/aktualnosci/bezpieczenstwo/57671-inwigilacja-internet-suzby-polska-ue-prawo.html)
- - date_published: 2023-01-11T14:01:11.645010+00:00
- - tags: ['government control', 'poland', 'prawo i sprawiedliwość', 'surveillance']
-
- ## Karcher przyznał się do zawyżania cen sprzętu w Polsce przez ponad 20 lat - Instalki.pl
- - [https://www.instalki.pl/aktualnosci/hardware/57669-karcher-przyznal-sie-do-zawyzania-cen-sprzetu-w-polsce-przez-ponad-20-lat.html](https://www.instalki.pl/aktualnosci/hardware/57669-karcher-przyznal-sie-do-zawyzania-cen-sprzetu-w-polsce-przez-ponad-20-lat.html)
- - date_published: 2023-01-11T14:01:12.536383+00:00
- - tags: ['corruption', 'monopoly']
+ - date_dead_since: 2025-07-19T11:35:13.608334+00:00
 
  ## Iran to use facial recognition to identify women without hijabs
  - [https://arstechnica.com/?p=1909128](https://arstechnica.com/?p=1909128)
@@ -531,6 +538,11 @@
  - date_published: 2023-01-11T20:45:10+00:00
  - tags: ['covid', 'covid booster', 'fda']
 
+ ## The Hidden Consequences Of The Plastic Pollution Crisis
+ - [https://www.forbes.com/sites/mariannelehnis/2023/01/12/the-hidden-consequences-of-the-plastic-pollution-crisis](https://www.forbes.com/sites/mariannelehnis/2023/01/12/the-hidden-consequences-of-the-plastic-pollution-crisis)
+ - date_published: 2023-01-12T00:00:00+00:00
+ - tags: ['climate change', 'plastic', 'pollution']
+
  ## US carbon emissions grew in 2022, even as renewables surpassed coal
  - [https://www.reddit.com/r/news/comments/109q9sj/us_carbon_emissions_grew_in_2022_even_as](https://www.reddit.com/r/news/comments/109q9sj/us_carbon_emissions_grew_in_2022_even_as)
  - date_published: 2023-01-12T04:30:52+00:00
@@ -540,6 +552,11 @@
  - [https://forsal.pl/lifestyle/zdrowie/artykuly/8633471,zutylizowany-covid-19-w-magazynach-lezy-430-mln-dawek-szczepionek.html](https://forsal.pl/lifestyle/zdrowie/artykuly/8633471,zutylizowany-covid-19-w-magazynach-lezy-430-mln-dawek-szczepionek.html)
  - date_published: 2023-01-12T07:17:41+00:00
  - tags: ['covid', 'vaccine']
+
+ ## Niepokojące wyniki sondażu CBOS. Blisko 70 proc. młodych Polek nie chce mieć dzieci – Wprost
+ - [https://www.wprost.pl/kraj/11043208/niepokojace-wyniki-sondazu-cbos-blisko-70-proc-mlodych-polek-nie-chce-miec-dzieci.html](https://www.wprost.pl/kraj/11043208/niepokojace-wyniki-sondazu-cbos-blisko-70-proc-mlodych-polek-nie-chce-miec-dzieci.html)
+ - date_published: 2023-01-12T07:57:00+00:00
+ - tags: ['feminism', 'poland']
 
  ## Praca jak każda inna. "Bardzo bym sobie życzyła, żeby oddemonizować ten sex work w Polsce"
  - [https://weekend.gazeta.pl/weekend/7,177334,29350456,praca-jak-kazda-inna-bardzo-bym-sobie-zyczyla-zeby-oddemonizowac.html](https://weekend.gazeta.pl/weekend/7,177334,29350456,praca-jak-kazda-inna-bardzo-bym-sobie-zyczyla-zeby-oddemonizowac.html)
@@ -571,10 +588,10 @@
  - date_published: 2023-01-12T14:17:41+00:00
  - tags: ['apple', 'big tech', 'censorship', 'surveillance']
 
- ## The Hidden Consequences Of The Plastic Pollution Crisis
- - [https://www.forbes.com/sites/mariannelehnis/2023/01/12/the-hidden-consequences-of-the-plastic-pollution-crisis](https://www.forbes.com/sites/mariannelehnis/2023/01/12/the-hidden-consequences-of-the-plastic-pollution-crisis)
- - date_published: 2023-01-12T16:07:12+00:00
- - tags: ['climate change', 'plastic', 'pollution']
+ ## Ursula von der Leyen ma być przesłuchiwana w PE. Chodzi o szczepionki
+ - [https://www.rmf24.pl/raporty/raport-program-szczepien-przeciw-covid/news-ursula-von-der-leyen-ma-byc-przesluchiwana-w-pe-chodzi-o-szc,nId,6530045#crp_state=1](https://www.rmf24.pl/raporty/raport-program-szczepien-przeciw-covid/news-ursula-von-der-leyen-ma-byc-przesluchiwana-w-pe-chodzi-o-szc,nId,6530045#crp_state=1)
+ - date_published: 2023-01-12T14:25:26+00:00
+ - tags: ['corruption', 'covid', 'vaccine']
 
  ## Czy i statki będą na prąd? | Niezalezna.pl
  - [https://niezalezna.pl/471243-czy-i-statki-beda-na-prad](https://niezalezna.pl/471243-czy-i-statki-beda-na-prad)
@@ -585,6 +602,11 @@
  - [https://www.cnn.com/2023/01/12/americas/brazil-riots-condemned-polling-intl/index.html](https://www.cnn.com/2023/01/12/americas/brazil-riots-condemned-polling-intl/index.html)
  - date_published: 2023-01-12T16:48:09+00:00
  - tags: ['brazil', 'crisis', 'government', 'january 6', 'the right wing']
+
+ ## Routine vaccinations drop among U.S. kindergartners for the third year in a row
+ - [https://www.statnews.com/2023/01/12/routine-vaccinations-kindergartners](https://www.statnews.com/2023/01/12/routine-vaccinations-kindergartners)
+ - date_published: 2023-01-12T18:00:05+00:00
+ - tags: ['vaccine']
 
  ## Own Your Data
  - [https://yourdigitalrights.org](https://yourdigitalrights.org)
@@ -600,16 +622,6 @@
  - [https://www.theguardian.com/technology/2023/jan/12/meta-voyager-labs-surveillance-fake-accounts](https://www.theguardian.com/technology/2023/jan/12/meta-voyager-labs-surveillance-fake-accounts)
  - date_published: 2023-01-12T20:46:24+00:00
  - tags: ['big brother', 'moderation', 'privacy', 'surveillance']
-
- ## Niepokojące wyniki sondażu CBOS. Blisko 70 proc. młodych Polek nie chce mieć dzieci – Wprost
- - [https://www.wprost.pl/kraj/11043208/niepokojace-wyniki-sondazu-cbos-blisko-70-proc-mlodych-polek-nie-chce-miec-dzieci.html](https://www.wprost.pl/kraj/11043208/niepokojace-wyniki-sondazu-cbos-blisko-70-proc-mlodych-polek-nie-chce-miec-dzieci.html)
- - date_published: 2023-01-12T22:02:03+00:00
- - tags: ['feminism', 'poland']
-
- ## Ursula von der Leyen ma być przesłuchiwana w PE. Chodzi o szczepionki
- - [https://www.rmf24.pl/raporty/raport-program-szczepien-przeciw-covid/news-ursula-von-der-leyen-ma-byc-przesluchiwana-w-pe-chodzi-o-szc,nId,6530045#crp_state=1](https://www.rmf24.pl/raporty/raport-program-szczepien-przeciw-covid/news-ursula-von-der-leyen-ma-byc-przesluchiwana-w-pe-chodzi-o-szc,nId,6530045#crp_state=1)
- - date_published: 2023-01-12T22:03:51+00:00
- - tags: ['corruption', 'covid', 'vaccine']
 
  ## Joe Rogan blasts George Soros: 'An evil person in a Batman movie'
  - [https://www.youtube.com/watch?v=npJNERfBAes](https://www.youtube.com/watch?v=npJNERfBAes)
@@ -680,6 +692,7 @@
  - [https://archive.org](https://archive.org)
  - date_published: 2023-01-13T14:35:11+00:00
  - tags: ['internet', 'internet archive']
+ - date_dead_since: 2025-07-19T05:12:12.386445+00:00
 
  ## See every stock trade Nancy Pelosi's husband, Paul Pelosi, made while she was House speaker in 2021 and 2022
  - [https://www.businessinsider.com/nancy-pelosi-stock-trades-congress-investments-2022-7?IR=T](https://www.businessinsider.com/nancy-pelosi-stock-trades-congress-investments-2022-7?IR=T)
@@ -688,7 +701,7 @@
 
  ## We could stumble into AI catastrophe
  - [https://www.cold-takes.com/how-we-could-stumble-into-ai-catastrophe](https://www.cold-takes.com/how-we-could-stumble-into-ai-catastrophe)
- - date_published: 2023-01-13T16:45:56+00:00
+ - date_published: 2023-01-13T16:18:04+00:00
  - tags: ['algorithms', 'artificial intelligence']
 
  ## India lets banks use face recognition, iris scan for some transactions - sources | Reuters
@@ -720,7 +733,6 @@
  - [https://thehill.com/policy/equilibrium-sustainability/3812793-private-jet-emissions-sky-high-at-davos-group-says](https://thehill.com/policy/equilibrium-sustainability/3812793-private-jet-emissions-sky-high-at-davos-group-says)
  - date_published: 2023-01-13T22:20:10+00:00
  - tags: ['climate change', 'climate drama', 'davos', 'hypocrisy', 'wef', 'world economic forum']
- - date_dead_since: 2024-10-12T02:59:53.130460+00:00
 
  ## GitHub – pi-hole/pi-hole: A black hole for Internet advertisements
  - [https://github.com/pi-hole/pi-hole](https://github.com/pi-hole/pi-hole)
@@ -736,6 +748,7 @@
  - [https://thehackernews.com/2023/01/tiktok-fined-54-million-by-french.html](https://thehackernews.com/2023/01/tiktok-fined-54-million-by-french.html)
  - date_published: 2023-01-14T05:01:00+00:00
  - tags: ['big tech', 'privacy', 'technofeudalism']
+ - date_dead_since: 2025-07-19T03:51:06.170644+00:00
 
  ## Pierwsze odszkodowania za NOP-y już wypłacone. Kwota robi wrażenie
  - [https://businessinsider.com.pl/wiadomosci/pierwsze-odszkodowania-za-nop-y-juz-wyplacone-kwota-robi-wrazenie/p79g6te](https://businessinsider.com.pl/wiadomosci/pierwsze-odszkodowania-za-nop-y-juz-wyplacone-kwota-robi-wrazenie/p79g6te)
@@ -748,25 +761,20 @@
  - tags: ['artificial intelligence', 'law']
  - date_dead_since: 2025-02-04T09:10:55.254955+00:00
 
- ## Routine vaccinations drop among U.S. kindergartners for the third year in a row
- - [https://www.statnews.com/2023/01/12/routine-vaccinations-kindergartners](https://www.statnews.com/2023/01/12/routine-vaccinations-kindergartners)
- - date_published: 2023-01-14T10:21:59+00:00
- - tags: ['vaccine']
-
  ## Beautiful Soup: Build a Web Scraper With Python – Real Python
  - [https://realpython.com/beautiful-soup-web-scraper-python](https://realpython.com/beautiful-soup-web-scraper-python)
  - date_published: 2023-01-14T10:27:20+00:00
  - tags: ['programming', 'python', 'webscraping']
 
- ## How Police Exploited the Capitol Riot’s Digital Records
- - [https://spectrum.ieee.org/capitol-riot](https://spectrum.ieee.org/capitol-riot)
- - date_published: 2023-01-14T12:29:07+00:00
- - tags: ['january 6', 'privacy', 'surveillance']
-
  ## Dr. Leana Wen writes that COVID deaths are being overcounted
  - [https://nypost.com/2023/01/14/dr-leana-wen-writes-that-covid-deaths-are-being-overcounted](https://nypost.com/2023/01/14/dr-leana-wen-writes-that-covid-deaths-are-being-overcounted)
  - date_published: 2023-01-14T21:05:24+00:00
  - tags: ['covid', 'propaganda', 'science is dead', 'statistics']
+
+ ## I'm Shadow Banned by DuckDuckGo (and Bing)
+ - [https://daverupert.com/2023/01/shadow-banned-by-duckduckgo-and-bing](https://daverupert.com/2023/01/shadow-banned-by-duckduckgo-and-bing)
+ - date_published: 2023-01-14T21:13:00+00:00
+ - tags: ['bing', 'censorship', 'duckduckgo', 'search engines', 'shadowban']
 
  ## Stop feeding the hype and start resisting
  - [https://irisvanrooijcogsci.com/2023/01/14/stop-feeding-the-hype-and-start-resisting](https://irisvanrooijcogsci.com/2023/01/14/stop-feeding-the-hype-and-start-resisting)
@@ -783,25 +791,15 @@
  - date_published: 2023-01-15T07:42:27+00:00
  - tags: ['digital dementia', 'smartphone']
 
- ## Samochody elektryczne to poważne zagrożenie dla innych pojazdów. O tym się nie mówi - Instalki.pl
- - [https://www.instalki.pl/aktualnosci/technika/57737-samochody-elektryczne-masa-zagrozenie-dla-innych-pojazdow.html](https://www.instalki.pl/aktualnosci/technika/57737-samochody-elektryczne-masa-zagrozenie-dla-innych-pojazdow.html)
- - date_published: 2023-01-15T12:31:43.878419+00:00
- - tags: ['electric vehicles']
-
- ## I'm Shadow Banned by DuckDuckGo (and Bing)
- - [https://daverupert.com/2023/01/shadow-banned-by-duckduckgo-and-bing](https://daverupert.com/2023/01/shadow-banned-by-duckduckgo-and-bing)
- - date_published: 2023-01-15T12:39:16+00:00
- - tags: ['bing', 'censorship', 'duckduckgo', 'search engines', 'shadowban']
-
  ## Climate Activism Isn't About the Planet. It's About the Boredom of the Bourgeoisie | Opinion
  - [https://www.newsweek.com/climate-activism-isnt-about-planet-its-about-boredom-bourgeoisie-opinion-1773846](https://www.newsweek.com/climate-activism-isnt-about-planet-its-about-boredom-bourgeoisie-opinion-1773846)
- - date_published: 2023-01-15T13:00:01+00:00
+ - date_published: 2023-01-15T08:00:01+00:00
  - tags: ['billionaires', 'carbon footprint', 'climate change', 'elites']
 
- ## NYPD can use more than 15,000 cameras to track people using facial recognition
- - [https://www.amnesty.org/en/latest/news/2021/06/scale-new-york-police-facial-recognition-revealed](https://www.amnesty.org/en/latest/news/2021/06/scale-new-york-police-facial-recognition-revealed)
- - date_published: 2023-01-15T17:15:17+00:00
- - tags: ['big brother', 'biometric', 'facial recognition', 'surveillance']
+ ## Samochody elektryczne to poważne zagrożenie dla innych pojazdów. O tym się nie mówi - Instalki.pl
+ - [https://www.instalki.pl/aktualnosci/technika/57737-samochody-elektryczne-masa-zagrozenie-dla-innych-pojazdow.html](https://www.instalki.pl/aktualnosci/technika/57737-samochody-elektryczne-masa-zagrozenie-dla-innych-pojazdow.html)
+ - date_published: 2023-01-15T12:09:42+00:00
+ - tags: ['electric vehicles']
 
  ## NSA asks Congress to let it get on with that warrantless data harvesting, again
  - [https://www.theregister.com/2023/01/14/in_brief_security](https://www.theregister.com/2023/01/14/in_brief_security)
@@ -846,14 +844,13 @@
 
  ## China records first population decline in 60 years
  - [https://www.cnn.com/2023/01/16/economy/china-population-decline-sixty-years-intl-hnk/index.html](https://www.cnn.com/2023/01/16/economy/china-population-decline-sixty-years-intl-hnk/index.html)
- - date_published: 2023-01-17T04:15:48+00:00
+ - date_published: 2023-01-17T04:05:01+00:00
  - tags: ['china', 'depopulation', 'population']
 
  ## Study suggests US freshwater fish highly contaminated with 'forever chemicals'
  - [https://thehill.com/policy/equilibrium-sustainability/3815490-study-suggests-us-freshwater-fish-highly-contaminated-with-forever-chemicals](https://thehill.com/policy/equilibrium-sustainability/3815490-study-suggests-us-freshwater-fish-highly-contaminated-with-forever-chemicals)
  - date_published: 2023-01-17T05:01:00+00:00
  - tags: ['pollution']
- - date_dead_since: 2024-10-12T01:04:51.806931+00:00
 
  ## Skończył się boom na streaming. Konkurenci Netflixa nadal palą ogromne ilości gotówki
  - [https://forsal.pl/biznes/media/artykuly/8634619,koniec-boomu-na-rynku-streamingowym.html](https://forsal.pl/biznes/media/artykuly/8634619,koniec-boomu-na-rynku-streamingowym.html)

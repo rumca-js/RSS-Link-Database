@@ -1097,6 +1097,11 @@
  - date_published: 2021-06-03T00:00:00+00:00
  - tags: ['anthony fauci', 'covid', 'covid lie']
 
+ ## NYPD can use more than 15,000 cameras to track people using facial recognition
+ - [https://www.amnesty.org/en/latest/news/2021/06/scale-new-york-police-facial-recognition-revealed](https://www.amnesty.org/en/latest/news/2021/06/scale-new-york-police-facial-recognition-revealed)
+ - date_published: 2021-06-03T05:08:06+00:00
+ - tags: ['big brother', 'biometric', 'facial recognition', 'surveillance']
+
  ## The Lab-Leak Theory: Inside the Fight to Uncover COVID-19’s Origins
  - [https://www.vanityfair.com/news/2021/06/the-lab-leak-theory-inside-the-fight-to-uncover-covid-19s-origins](https://www.vanityfair.com/news/2021/06/the-lab-leak-theory-inside-the-fight-to-uncover-covid-19s-origins)
  - date_published: 2021-06-03T07:19:42+00:00
