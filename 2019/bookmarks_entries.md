@@ -955,6 +955,11 @@
  - date_published: 2019-12-02T11:48:04+00:00
  - tags: ['ad business', 'corporatocracy', 'surviellance']
 
+ ## What rich countries get wrong about the EU budget
+ - [https://www.politico.eu/article/what-rich-countries-get-wrong-about-the-eu-budget-east-west-euroskeptic-cohesion-policy](https://www.politico.eu/article/what-rich-countries-get-wrong-about-the-eu-budget-east-west-euroskeptic-cohesion-policy)
+ - date_published: 2019-12-06T03:48:58+00:00
+ - tags: ['european union', 'germany']
+
  ## “El Confidencial”: Strajki klimatyczne i wielki biznes. Za Gretą Thunberg stoją duże koncerny i fundusze
  - [https://forsal.pl/artykuly/1443406,el-confidencial-strajki-klimatyczne-i-wielki-biznes-za-greta-thunberg-stoja-duze-koncerny-i-fundusze.html](https://forsal.pl/artykuly/1443406,el-confidencial-strajki-klimatyczne-i-wielki-biznes-za-greta-thunberg-stoja-duze-koncerny-i-fundusze.html)
  - date_published: 2019-12-06T18:52:18+00:00

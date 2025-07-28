@@ -85,6 +85,11 @@
  - date_published: 2023-01-03T07:00:00+00:00
  - tags: ['big brother', 'covid', 'covid mandates']
 
+ ## Zelensky Accused of Censorship Over Ukraine Media Law
+ - [https://www.newsweek.com/zelensky-accused-censorship-over-ukraine-media-law-1770958](https://www.newsweek.com/zelensky-accused-censorship-over-ukraine-media-law-1770958)
+ - date_published: 2023-01-03T11:37:42+00:00
+ - tags: ['censorship', 'moderation', 'ukraine']
+
  ## Start a Fucking Blog
  - [https://startafuckingblog.com](https://startafuckingblog.com)
  - date_published: 2023-01-03T13:41:25+00:00
@@ -100,11 +105,6 @@
  - date_published: 2023-01-03T15:02:47+00:00
  - tags: ['big tech', 'bloatware', 'dead internet', 'internet', 'web30']
 
- ## Zelensky Accused of Censorship Over Ukraine Media Law
- - [https://www.newsweek.com/zelensky-accused-censorship-over-ukraine-media-law-1770958](https://www.newsweek.com/zelensky-accused-censorship-over-ukraine-media-law-1770958)
- - date_published: 2023-01-03T16:37:42+00:00
- - tags: ['censorship', 'moderation', 'ukraine']
-
  ## ​​Virgin Islands Attorney General FIRED after naming names in Jeffrey Epstein lawsuit
  - [https://www.louderwithcrowder.com/jeffrey-epstein-virgin-islands](https://www.louderwithcrowder.com/jeffrey-epstein-virgin-islands)
  - date_published: 2023-01-03T17:20:02+00:00
@@ -112,12 +112,12 @@
 
  ## Google wants RISC-V to be a “tier-1” Android architecture
  - [https://arstechnica.com/gadgets/2023/01/google-announces-official-android-support-for-risc-v](https://arstechnica.com/gadgets/2023/01/google-announces-official-android-support-for-risc-v)
- - date_published: 2023-01-03T22:47:11+00:00
+ - date_published: 2023-01-03T21:14:48+00:00
  - tags: ['android', 'google', 'risc-v']
 
  ## Apple and Amazon lost a 'staggering' $800 billion in market cap in 2022. Here's what that looks like
  - [https://www.cnbc.com/2023/01/03/apple-and-amazon-lost-a-staggering-800-billion-in-market-cap-in-2022.html](https://www.cnbc.com/2023/01/03/apple-and-amazon-lost-a-staggering-800-billion-in-market-cap-in-2022.html)
- - date_published: 2023-01-03T23:19:00+00:00
+ - date_published: 2023-01-03T22:35:49+00:00
  - tags: ['amazon', 'apple', 'crisis', 'recession']
 
  ## Covidians
@@ -134,26 +134,22 @@
  - [https://www.ft.com/content/55058f28-8c47-40c8-9919-8ded9daa53e9](https://www.ft.com/content/55058f28-8c47-40c8-9919-8ded9daa53e9)
  - date_published: 2023-01-04T01:00:33+00:00
  - tags: ['censorship', 'china', 'esg', 'surveillance']
+ - date_dead_since: 2025-07-27T23:25:41.269427+00:00
 
  ## FDA to expand availability of abortion pills
  - [http://www.msn.com/en-us/news/politics/fda-to-expand-availability-of-abortion-pills/ar-AA15WOky?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/fda-to-expand-availability-of-abortion-pills/ar-AA15WOky?li=BBnbcA1&srcref=rss)
  - date_published: 2023-01-04T02:54:06.208295+00:00
  - tags: ['abortion', 'depopulation', 'fda', 'usa']
 
+ ## Niemcy dokładają do budżetu UE 25 mld euro, a otrzymują 132 mld euro rocznie
+ - [https://forsal.pl/swiat/unia-europejska/artykuly/8626375,niemcy-daja-budzet-ue-25-mld-euro-otrzymuja-132-mld-euro-rocznie.html](https://forsal.pl/swiat/unia-europejska/artykuly/8626375,niemcy-daja-budzet-ue-25-mld-euro-otrzymuja-132-mld-euro-rocznie.html)
+ - date_published: 2023-01-04T08:35:15+00:00
+ - tags: ['european union', 'germany']
+
  ## What does it look like for the web to lose? - Chris Coyier
  - [https://chriscoyier.net/2023/01/04/what-does-it-look-like-for-the-web-to-lose](https://chriscoyier.net/2023/01/04/what-does-it-look-like-for-the-web-to-lose)
  - date_published: 2023-01-04T11:45:48+00:00
  - tags: ['android', 'dark design', 'internet', 'programming', 'pwa', 'webapp']
-
- ## Niemcy dokładają do budżetu UE 25 mld euro, a otrzymują 132 mld euro rocznie
- - [https://forsal.pl/swiat/unia-europejska/artykuly/8626375,niemcy-daja-budzet-ue-25-mld-euro-otrzymuja-132-mld-euro-rocznie.html](https://forsal.pl/swiat/unia-europejska/artykuly/8626375,niemcy-daja-budzet-ue-25-mld-euro-otrzymuja-132-mld-euro-rocznie.html)
- - date_published: 2023-01-04T12:09:46+00:00
- - tags: ['european union', 'germany']
-
- ## What rich countries get wrong about the EU budget
- - [https://www.politico.eu/article/what-rich-countries-get-wrong-about-the-eu-budget-east-west-euroskeptic-cohesion-policy](https://www.politico.eu/article/what-rich-countries-get-wrong-about-the-eu-budget-east-west-euroskeptic-cohesion-policy)
- - date_published: 2023-01-04T12:12:57+00:00
- - tags: ['european union', 'germany']
 
  ## Germany likely missed climate target again, activists angry
  - [https://www.clickondetroit.com/news/2023/01/04/germany-likely-missed-climate-target-again-activists-angry](https://www.clickondetroit.com/news/2023/01/04/germany-likely-missed-climate-target-again-activists-angry)
@@ -170,6 +166,7 @@
  - [https://reclaimthenet.org/adam-schiff-twitter-ban-paul-sperry](https://reclaimthenet.org/adam-schiff-twitter-ban-paul-sperry)
  - date_published: 2023-01-04T19:26:14+00:00
  - tags: ['twitter files']
+ - date_dead_since: 2025-07-27T22:47:27.589846+00:00
 
  ## Apple fined $8.5 million in France over targeted App Store ads
  - [https://www.engadget.com/apple-france-fine-app-store-targeted-ads-211750930.html?src=rss](https://www.engadget.com/apple-france-fine-app-store-targeted-ads-211750930.html?src=rss)
@@ -183,7 +180,7 @@
 
  ## Psychologist Jordan Peterson could lose license if he refuses social media ‘re-education’
  - [https://nypost.com/2023/01/05/jordan-peterson-could-lose-psychologist-license-if-he-refuses-social-media-re-education](https://nypost.com/2023/01/05/jordan-peterson-could-lose-psychologist-license-if-he-refuses-social-media-re-education)
- - date_published: 2023-01-05T08:30:23+00:00
+ - date_published: 2023-01-05T05:17:10+00:00
  - tags: ['censorship', 'freedom', 'jordan peterson']
 
  ## The 25 best programming books of all-time
@@ -240,10 +237,11 @@
  - [https://www.ft.com/content/228af985-7bf2-4efd-ad73-ae11d1623a58](https://www.ft.com/content/228af985-7bf2-4efd-ad73-ae11d1623a58)
  - date_published: 2023-01-06T05:00:17+00:00
  - tags: ['dead internet', 'google', 'search engines']
+ - date_dead_since: 2025-07-27T20:04:56.634561+00:00
 
  ## Desperate father pleads with his pediatrician wife NOT to chemically castrate their son, 9
  - [https://www.dailymail.co.uk/news/article-11605409/Desperate-father-pleads-pediatrician-wife-NOT-chemically-castrate-son-9.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11605409/Desperate-father-pleads-pediatrician-wife-NOT-chemically-castrate-son-9.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - date_published: 2023-01-06T06:58:31+00:00
+ - date_published: 2023-01-06T06:57:58+00:00
  - tags: ['the left wing', 'transgender']
 
  ## Six Hardest Truths of 2023
@@ -252,15 +250,15 @@
  - tags: ['civilisation', 'future']
  - date_dead_since: 2024-04-21T00:09:48.239463+00:00
 
+ ## Ile kosztuje ładowanie samochodów elektrycznych w 2023? Policzyłem to i jestem przerażony - Instalki.pl
+ - [https://www.instalki.pl/aktualnosci/technika/57587-ile-kosztuje-ladowanie-samochodow-elektrycznych-w-2023.html](https://www.instalki.pl/aktualnosci/technika/57587-ile-kosztuje-ladowanie-samochodow-elektrycznych-w-2023.html)
+ - date_published: 2023-01-06T09:02:15+00:00
+ - tags: ['electric vehicles']
+
  ## Zdewastowano ponad 30 grobów na anglikańskim cmentarzu w Jerozolimie. Sprawcy zostali nagrani przez kamery.
  - [https://obywatelenieba.pl/2023/01/06/zdewastowano-chrzescijanski-cmentarz](https://obywatelenieba.pl/2023/01/06/zdewastowano-chrzescijanski-cmentarz)
  - date_published: 2023-01-06T09:02:21+00:00
  - tags: ['christianophobia', 'israel']
-
- ## Ile kosztuje ładowanie samochodów elektrycznych w 2023? Policzyłem to i jestem przerażony - Instalki.pl
- - [https://www.instalki.pl/aktualnosci/technika/57587-ile-kosztuje-ladowanie-samochodow-elektrycznych-w-2023.html](https://www.instalki.pl/aktualnosci/technika/57587-ile-kosztuje-ladowanie-samochodow-elektrycznych-w-2023.html)
- - date_published: 2023-01-06T10:07:18.994947+00:00
- - tags: ['electric vehicles']
 
  ## Harvard blocks role for former Human Rights Watch head over Israel criticism
  - [https://www.theguardian.com/education/2023/jan/06/harvard-kennedy-school-blocks-role-former-head-human-rights-watch-israel](https://www.theguardian.com/education/2023/jan/06/harvard-kennedy-school-blocks-role-former-head-human-rights-watch-israel)
@@ -271,6 +269,7 @@
  - [https://www.lemonde.fr/en/international/article/2023/01/06/poland-increasingly-turns-its-back-on-the-catholic-church_6010548_4.html](https://www.lemonde.fr/en/international/article/2023/01/06/poland-increasingly-turns-its-back-on-the-catholic-church_6010548_4.html)
  - date_published: 2023-01-06T11:09:51+00:00
  - tags: ['catholic', 'poland', 'religion']
+ - date_dead_since: 2025-07-27T19:31:16.621337+00:00
 
  ## How Police Exploited the Capitol Riot’s Digital Records
  - [https://spectrum.ieee.org/capitol-riot](https://spectrum.ieee.org/capitol-riot)
@@ -323,11 +322,13 @@
  - [https://www.telegraph.co.uk/news/2023/01/07/uk-police-forces-spend-66000-lgbt-rainbow-cars-shoelaces-flags](https://www.telegraph.co.uk/news/2023/01/07/uk-police-forces-spend-66000-lgbt-rainbow-cars-shoelaces-flags)
  - date_published: 2023-01-07T16:24:26+00:00
  - tags: ['england', 'inequality', 'lgbt', 'police', 'propaganda', 'the left wing']
+ - date_dead_since: 2025-07-27T17:44:03.726865+00:00
 
  ## How secure are RISC-V chips?
  - [https://semiengineering.com/how-secure-are-risc-v-chips](https://semiengineering.com/how-secure-are-risc-v-chips)
  - date_published: 2023-01-07T17:52:08+00:00
  - tags: ['risc-v']
+ - date_dead_since: 2025-07-27T17:35:12.051915+00:00
 
  ## DC Comics fans outraged as new Batman plot sees the Joker become PREGNANT and give birth
  - [https://www.dailymail.co.uk/news/article-11609947/DC-Comics-fans-outraged-new-Batman-plot-sees-Joker-PREGNANT-birth.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11609947/DC-Comics-fans-outraged-new-Batman-plot-sees-Joker-PREGNANT-birth.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -353,6 +354,7 @@
  - [https://apnews.com/article/social-media-seattle-lawsuits-mental-health-965a8f373e3bfed8157571912cc3b542](https://apnews.com/article/social-media-seattle-lawsuits-mental-health-965a8f373e3bfed8157571912cc3b542)
  - date_published: 2023-01-08T08:26:39+00:00
  - tags: ['dark design', 'facebook', 'social media']
+ - date_dead_since: 2025-07-27T16:53:09.492653+00:00
 
  ## Jordan Peterson releases Ontario College's complaints against him, it's basically a promo for Jordan's Twitter
  - [https://www.louderwithcrowder.com/jordan-peterson-releases-complaint](https://www.louderwithcrowder.com/jordan-peterson-releases-complaint)
@@ -363,6 +365,7 @@
  - [https://dailysceptic.org/2023/01/08/how-childline-became-captured-by-trans-ideology](https://dailysceptic.org/2023/01/08/how-childline-became-captured-by-trans-ideology)
  - date_published: 2023-01-08T15:17:58+00:00
  - tags: ['children', 'gender', 'the left wing', 'transgender']
+ - date_dead_since: 2025-07-27T16:35:10.803617+00:00
 
  ## Ex-Virginia Tech soccer player allegedly benched for refusing to kneel gets $100K settlement: attorney
  - [https://www.foxnews.com/us/ex-virginia-tech-soccer-player-allegedly-benched-for-refusing-to-kneel-gets-100k-settlement-attorney?intcmp=fb_fnc&fbclid=IwAR3dbkA7mXU9Fyj-tKRWrG_YVmaGM32lz7Of2FbU4euukWcREO3dnE1I94k](https://www.foxnews.com/us/ex-virginia-tech-soccer-player-allegedly-benched-for-refusing-to-kneel-gets-100k-settlement-attorney?intcmp=fb_fnc&fbclid=IwAR3dbkA7mXU9Fyj-tKRWrG_YVmaGM32lz7Of2FbU4euukWcREO3dnE1I94k)
@@ -373,10 +376,11 @@
  - [https://www.wsj.com/articles/white-house-covid-censorship-machine-social-media-facebook-meta-executive-rob-flaherty-free-speech-google-11673203704](https://www.wsj.com/articles/white-house-covid-censorship-machine-social-media-facebook-meta-executive-rob-flaherty-free-speech-google-11673203704)
  - date_published: 2023-01-08T16:23:11+00:00
  - tags: ['big brother', 'censorship', 'social media']
+ - date_dead_since: 2025-07-27T16:21:21.936633+00:00
 
  ## A village to be evicted for coal – the defense of Luetzerath in Germany
  - [https://freedomnews.org.uk/2023/01/09/a-village-to-be-evicted-for-coal-the-defense-of-luetzerath-in-germany](https://freedomnews.org.uk/2023/01/09/a-village-to-be-evicted-for-coal-the-defense-of-luetzerath-in-germany)
- - date_published: 2023-01-09T14:19:19+00:00
+ - date_published: 2023-01-09T08:30:00+00:00
  - tags: ['climate change', 'co2', 'germany']
 
  ## Adobe is almost definitely using your content to train AI
@@ -393,6 +397,7 @@
  - [https://reclaimthenet.org/cdc-newspeak](https://reclaimthenet.org/cdc-newspeak)
  - date_published: 2023-01-09T20:12:54+00:00
  - tags: ['newspeak', 'social engineering', 'the left wing']
+ - date_dead_since: 2025-07-27T15:54:43.574240+00:00
 
  ## Monroe Doctrine
  - [https://en.wikipedia.org/wiki/Monroe_Doctrine](https://en.wikipedia.org/wiki/Monroe_Doctrine)
@@ -403,26 +408,31 @@
  - [https://arstechnica.com/?p=1908618](https://arstechnica.com/?p=1908618)
  - date_published: 2023-01-09T22:15:19+00:00
  - tags: ['artificial intelligence', 'microsoft']
+ - date_dead_since: 2025-07-27T15:30:17.826253+00:00
 
  ## Old Man Yells at Cloud: Technology has gotten objectively worse
  - [https://www.jonandnic.com/2023/01/08/old-man-yells-at-cloud](https://www.jonandnic.com/2023/01/08/old-man-yells-at-cloud)
  - date_published: 2023-01-10T01:58:53+00:00
  - tags: ['algorithms', 'dead internet', 'electric vehicles', 'games', 'social media', 'subscription', 'technology']
+ - date_dead_since: 2025-07-27T15:20:11.760369+00:00
 
  ## AI-powered lawyer will be first of its kind to represent defendant in court
  - [https://www.cbsnews.com/news/ai-powered-robot-lawyer-takes-its-first-court-case](https://www.cbsnews.com/news/ai-powered-robot-lawyer-takes-its-first-court-case)
  - date_published: 2023-01-10T03:56:25+00:00
  - tags: ['artificial intelligence']
+ - date_dead_since: 2025-07-27T15:13:04.303360+00:00
 
  ## The mistake that killed Japan’s software industry
  - [https://www.disruptingjapan.com/the-forgotten-mistake-that-killed-japans-software-industry](https://www.disruptingjapan.com/the-forgotten-mistake-that-killed-japans-software-industry)
  - date_published: 2023-01-10T04:51:37+00:00
  - tags: ['history', 'japan', 'programming']
+ - date_dead_since: 2025-07-27T15:06:16.592672+00:00
 
  ## Show HN: Ecode – A minimalist and fast open-source code editor
  - [https://github.com/SpartanJ/ecode](https://github.com/SpartanJ/ecode)
  - date_published: 2023-01-10T05:21:10+00:00
  - tags: ['programming']
+ - date_dead_since: 2025-07-27T15:01:17.288722+00:00
 
  ## U.S. Carbon Emissions Grew in 2022, Even As Renewables Surpassed Coal
  - [https://www.nytimes.com/2023/01/10/climate/us-carbon-emissions-2022.html](https://www.nytimes.com/2023/01/10/climate/us-carbon-emissions-2022.html)
@@ -440,6 +450,11 @@
  - date_published: 2023-01-10T11:58:34+00:00
  - tags: ['covid', 'science is dead', 'vaccine']
 
+ ## 'The Sheer Greed Is Obscene': Moderna Plans 4,000% Markup for Covid Vaccine
+ - [https://www.commondreams.org/news/moderna-vaccine-price-markup](https://www.commondreams.org/news/moderna-vaccine-price-markup)
+ - date_published: 2023-01-10T15:10:17+00:00
+ - tags: ['covid', 'vaccine']
+
  ## Facial recognition leads to week-long wrongful imprisonment | TechSpot
  - [https://www.techspot.com/news/97215-facial-recognition-leads-week-long-wrongful-imprisonment.html](https://www.techspot.com/news/97215-facial-recognition-leads-week-long-wrongful-imprisonment.html)
  - date_published: 2023-01-10T16:51:05+00:00
@@ -449,11 +464,6 @@
  - [https://arstechnica.com/?p=1908844](https://arstechnica.com/?p=1908844)
  - date_published: 2023-01-10T17:44:21+00:00
  - tags: ['brazil', 'crisis', 'facebook', 'moderation', 'youtube']
-
- ## 'The Sheer Greed Is Obscene': Moderna Plans 4,000% Markup for Covid Vaccine
- - [https://www.commondreams.org/news/moderna-vaccine-price-markup](https://www.commondreams.org/news/moderna-vaccine-price-markup)
- - date_published: 2023-01-10T21:07:44+00:00
- - tags: ['covid', 'vaccine']
 
  ## ‘Twitter Files’ Exposes Pfizer Official's Role in Censoring COVID Speech
  - [https://www.dailysignal.com/2023/01/10/twitter-files-unveils-how-pfizer-official-colluded-with-big-tech-to-censor-speech-on-covid-19](https://www.dailysignal.com/2023/01/10/twitter-files-unveils-how-pfizer-official-colluded-with-big-tech-to-censor-speech-on-covid-19)

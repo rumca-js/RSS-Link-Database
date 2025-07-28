@@ -242,7 +242,7 @@
 
  ## Miliony na powikłania poszczepienne po pandemii COVID-19
  - [https://businessinsider.com.pl/wiadomosci/miliony-na-powiklania-poszczepienne-po-pandemii-covid-19/97mwgtb?utm_source=fb_komentarz&utm_medium=social&utm_campaign=fb&utm_term=autor_9](https://businessinsider.com.pl/wiadomosci/miliony-na-powiklania-poszczepienne-po-pandemii-covid-19/97mwgtb?utm_source=fb_komentarz&utm_medium=social&utm_campaign=fb&utm_term=autor_9)
- - date_published: 2025-03-04T18:31:09+00:00
+ - date_published: 2025-03-04T17:31:09+00:00
  - tags: ['covid']
 
  ## Half of world’s CO2 emissions come from 36 fossil fuel firms, study shows

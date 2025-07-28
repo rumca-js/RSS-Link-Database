@@ -1243,7 +1243,7 @@
 
  ## Why Google Search is Falling Apart.
  - [https://www.youtube.com/watch?v=uSGVk2KVokQ](https://www.youtube.com/watch?v=uSGVk2KVokQ)
- - date_published: 2024-10-12T11:47:29+00:00
+ - date_published: 2024-10-12T00:00:00+00:00
  - tags: ['search engines']
 
  ## The Age of PageRank Is Over
