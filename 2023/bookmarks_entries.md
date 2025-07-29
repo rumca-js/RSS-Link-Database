@@ -12,6 +12,7 @@
  - [https://www.wsj.com/articles/are-vaccines-fueling-new-covid-variants-xbb-northeast-antibodies-mutation-strain-immune-imprinting-11672483618](https://www.wsj.com/articles/are-vaccines-fueling-new-covid-variants-xbb-northeast-antibodies-mutation-strain-immune-imprinting-11672483618)
  - date_published: 2023-01-01T08:34:35+00:00
  - tags: ['covid', 'vaccine']
+ - date_dead_since: 2025-07-28T01:44:02.072823+00:00
 
  ## MHB 2023 Western Europe Conference - Parenting Options for European Gay Men
  - [https://menhavingbabies.org/surrogacy-seminars/brussels](https://menhavingbabies.org/surrogacy-seminars/brussels)
@@ -44,6 +45,7 @@
  - [https://www.eventhubs.com/news/2022/dec/27/mortal-kombat-2-source-leak](https://www.eventhubs.com/news/2022/dec/27/mortal-kombat-2-source-leak)
  - date_published: 2023-01-02T03:43:58+00:00
  - tags: ['games', 'mortal kombat 2']
+ - date_dead_since: 2025-07-28T01:11:02.719070+00:00
 
  ## Third of world economy to hit recession in 2023, IMF head warns
  - [https://www.theguardian.com/business/2023/jan/02/third-of-world-economy-to-hit-recession-in-2023-imf-head-warns](https://www.theguardian.com/business/2023/jan/02/third-of-world-economy-to-hit-recession-in-2023-imf-head-warns)
@@ -64,6 +66,7 @@
  - [https://piunikaweb.com/2023/01/02/opinion-youtube-ads-have-become-a-disaster](https://piunikaweb.com/2023/01/02/opinion-youtube-ads-have-become-a-disaster)
  - date_published: 2023-01-02T10:56:03+00:00
  - tags: ['ad business', 'subscription', 'technofeudalism', 'youtube']
+ - date_dead_since: 2025-07-28T00:42:17.878337+00:00
 
  ## Bitcoin core developer claims to have lost 200 BTC in hack
  - [https://cointelegraph.com/news/bitcoin-core-developer-claims-to-have-lost-200-btc-in-hack](https://cointelegraph.com/news/bitcoin-core-developer-claims-to-have-lost-200-btc-in-hack)

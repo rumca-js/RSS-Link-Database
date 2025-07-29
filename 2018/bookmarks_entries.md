@@ -198,6 +198,11 @@
  - date_published: 2018-03-30T06:42:27+00:00
  - tags: ['facebook', 'google', 'privacy', 'suveillance', 'technofeudalism']
 
+ ## It's Time for an RSS Revival
+ - [https://www.wired.com/story/rss-readers-feedly-inoreader-old-reader](https://www.wired.com/story/rss-readers-feedly-inoreader-old-reader)
+ - date_published: 2018-03-30T12:00:00+00:00
+ - tags: ['rss']
+
  ## Sinclair Broadcast Group Slammed for Video Montage of Local Anchors Reading Anti-Media Script – The Hollywood Reporter
  - [https://www.hollywoodreporter.com/news/general-news/sinclair-broadcast-group-slammed-video-montage-local-anchors-reading-anti-media-script-1098838](https://www.hollywoodreporter.com/news/general-news/sinclair-broadcast-group-slammed-video-montage-local-anchors-reading-anti-media-script-1098838)
  - date_published: 2018-04-01T06:16:10+00:00

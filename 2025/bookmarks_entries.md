@@ -254,6 +254,7 @@
  - [https://www.youtube.com/watch?v=GELgKl_Wow8](https://www.youtube.com/watch?v=GELgKl_Wow8)
  - date_published: 2025-03-06T11:40:32+00:00
  - tags: ['dead internet']
+ - date_dead_since: 2025-07-28T13:17:05.185089+00:00
 
  ## These Words Are Disappearing in the New Trump Administration
  - [https://www.nytimes.com/interactive/2025/03/07/us/trump-federal-agencies-websites-words-dei.html](https://www.nytimes.com/interactive/2025/03/07/us/trump-federal-agencies-websites-words-dei.html)
@@ -287,7 +288,7 @@
 
  ## Fear among Syrian Christians after deadly attacks
  - [https://www.france24.com/en/live-news/20250310-fear-among-syrian-christians-after-deadly-attacks](https://www.france24.com/en/live-news/20250310-fear-among-syrian-christians-after-deadly-attacks)
- - date_published: 2025-03-10T17:59:14+00:00
+ - date_published: 2025-03-10T16:59:14+00:00
  - tags: ['christianophobia']
 
  ## Facebook ‘worked hand in glove’ with China on censor tools, claims ex-director
