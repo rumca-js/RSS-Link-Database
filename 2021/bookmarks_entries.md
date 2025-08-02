@@ -1551,6 +1551,11 @@
  - [https://www.theguardian.com/lifeandstyle/2021/jul/09/experience-i-lived-in-an-airport-for-seven-months](https://www.theguardian.com/lifeandstyle/2021/jul/09/experience-i-lived-in-an-airport-for-seven-months)
  - date_published: 2021-07-16T22:01:08.250949+00:00
 
+ ## The German Experiment That Placed Foster Children with Pedophiles
+ - [https://www.newyorker.com/magazine/2021/07/26/the-german-experiment-that-placed-foster-children-with-pedophiles](https://www.newyorker.com/magazine/2021/07/26/the-german-experiment-that-placed-foster-children-with-pedophiles)
+ - date_published: 2021-07-16T22:52:28+00:00
+ - tags: ['kentler', 'paedophilia']
+
  ## Apple removes 'Fakespot' app from iOS App Store following Amazon request - 9to5Mac
  - [https://9to5mac.com/2021/07/16/apple-removes-fakespot-app-from-ios-app-store-following-amazon-request](https://9to5mac.com/2021/07/16/apple-removes-fakespot-app-from-ios-app-store-following-amazon-request)
  - date_published: 2021-07-17T08:04:15.303866+00:00

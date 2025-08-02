@@ -1814,6 +1814,11 @@
  - [https://www.theregister.com/AMP/2022/04/11/atlassian_outage_backups](https://www.theregister.com/AMP/2022/04/11/atlassian_outage_backups)
  - date_published: 2022-04-12T13:42:29.786489+00:00
 
+ ## Facebook oferuje rządom platformę do zgłaszania treści do ocenzurowania
+ - [https://ithardware.pl/aktualnosci/facebook_oferuje_rzadom_platforme_do_zglaszania_tresci_do_ocenzurowania-24672.html](https://ithardware.pl/aktualnosci/facebook_oferuje_rzadom_platforme_do_zglaszania_tresci_do_ocenzurowania-24672.html)
+ - date_published: 2022-04-12T14:56:00+00:00
+ - tags: ['censorship', 'facebook', 'government', 'moderation']
+
  ## Macron reopens debate on ending anonymity online – EURACTIV.com
  - [https://www.euractiv.com/section/digital/news/macron-still-wants-to-end-online-anonymity](https://www.euractiv.com/section/digital/news/macron-still-wants-to-end-online-anonymity)
  - date_published: 2022-04-13T06:44:27+00:00
@@ -8549,6 +8554,11 @@
  - date_published: 2022-12-01T08:05:53+00:00
  - tags: ['go woke go broke', 'movies', 'the left wing']
 
+ ## France prepares for possibility of electricity blackouts during winter months
+ - [https://www.rfi.fr/en/france/20221201-how-france-is-preparing-to-avoid-a-major-blackout-this-winter](https://www.rfi.fr/en/france/20221201-how-france-is-preparing-to-avoid-a-major-blackout-this-winter)
+ - date_published: 2022-12-01T15:33:34+00:00
+ - tags: ['blackouts', 'france', 'winter']
+
  ## Environmental activist Meghan Markle seen boarding private jet following female empowerment event
  - [http://www.msn.com/en-us/news/world/environmental-activist-meghan-markle-seen-boarding-private-jet-following-female-empowerment-event/ar-AA14Muoa?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/environmental-activist-meghan-markle-seen-boarding-private-jet-following-female-empowerment-event/ar-AA14Muoa?li=BBnbcA1&srcref=rss)
  - date_published: 2022-12-01T15:34:16.902708+00:00
@@ -8643,7 +8653,7 @@
 
  ## New Zealand admits it has access to Facebook takedown portal to censor content
  - [https://reclaimthenet.org/new-zealand-government-facebook-content-takedown-portal](https://reclaimthenet.org/new-zealand-government-facebook-content-takedown-portal)
- - date_published: 2022-12-03T02:40:32+00:00
+ - date_published: 2022-12-03T00:45:24+00:00
  - tags: ['censorship', 'facebook', 'new zealand', 'privacy']
 
  ## Russia is spying on Telegram chats in occupied Ukrainian regions. Here's how.
@@ -8651,20 +8661,10 @@
  - date_published: 2022-12-03T06:44:28+00:00
  - tags: ['russia', 'surveillance', 'telegram']
 
- ## The German Experiment That Placed Foster Children with Pedophiles
- - [https://www.newyorker.com/magazine/2021/07/26/the-german-experiment-that-placed-foster-children-with-pedophiles](https://www.newyorker.com/magazine/2021/07/26/the-german-experiment-that-placed-foster-children-with-pedophiles)
- - date_published: 2022-12-03T17:51:38+00:00
- - tags: ['kentler', 'paedophilia']
-
  ## “The First Amendment isn’t absolute” – Twitter files show Democrat staffers wanted more censorship
  - [https://reclaimthenet.org/democrat-staffers-wanted-more-twitter-censorship](https://reclaimthenet.org/democrat-staffers-wanted-more-twitter-censorship)
  - date_published: 2022-12-03T19:04:18+00:00
  - tags: ['censorship', 'twitter', 'twitter files']
-
- ## France prepares for possibility of electricity blackouts during winter months
- - [https://www.rfi.fr/en/france/20221201-how-france-is-preparing-to-avoid-a-major-blackout-this-winter](https://www.rfi.fr/en/france/20221201-how-france-is-preparing-to-avoid-a-major-blackout-this-winter)
- - date_published: 2022-12-03T19:58:35+00:00
- - tags: ['blackouts', 'france', 'winter']
 
  ## Musk declares New York Times ‘lobbying firm for far left’ after reportedly ignoring ‘Twitter Files’ story
  - [https://www.foxnews.com/media/musk-declares-new-york-times-lobbying-firm-for-far-left-after-reportedly-ignoring-twitter-files-story](https://www.foxnews.com/media/musk-declares-new-york-times-lobbying-firm-for-far-left-after-reportedly-ignoring-twitter-files-story)
@@ -8680,6 +8680,7 @@
  - [https://www.wsj.com/articles/apple-china-factory-protests-foxconn-manufacturing-production-supply-chain-11670023099](https://www.wsj.com/articles/apple-china-factory-protests-foxconn-manufacturing-production-supply-chain-11670023099)
  - date_published: 2022-12-04T07:22:34+00:00
  - tags: ['apple', 'china', 'india', 'iphone']
+ - date_dead_since: 2025-08-01T23:14:11.023851+00:00
 
  ## Fauci suggested FBI be warned about possible lab leak before he dismissed hypothesis
  - [http://www.msn.com/en-us/news/world/fauci-suggested-fbi-be-warned-about-possible-lab-leak-before-he-dismissed-hypothesis/ar-AA14SMEq?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/fauci-suggested-fbi-be-warned-about-possible-lab-leak-before-he-dismissed-hypothesis/ar-AA14SMEq?li=BBnbcA1&srcref=rss)
@@ -8699,11 +8700,6 @@
  - [https://www.dailywire.com/news/elon-musk-polls-twitter-on-whether-julian-assange-and-edward-snowden-should-be-pardoned](https://www.dailywire.com/news/elon-musk-polls-twitter-on-whether-julian-assange-and-edward-snowden-should-be-pardoned)
  - date_published: 2022-12-04T12:22:04+00:00
  - tags: ['free speech', 'julian assange', 'wikileaks']
-
- ## Facebook oferuje rządom platformę do zgłaszania treści do ocenzurowania
- - [https://ithardware.pl/aktualnosci/facebook_oferuje_rzadom_platforme_do_zglaszania_tresci_do_ocenzurowania-24672.html](https://ithardware.pl/aktualnosci/facebook_oferuje_rzadom_platforme_do_zglaszania_tresci_do_ocenzurowania-24672.html)
- - date_published: 2022-12-04T13:56:40+00:00
- - tags: ['censorship', 'facebook', 'government', 'moderation']
 
  ## UK and Ukraine to collaborate on digital ID
  - [https://reclaimthenet.org/uk-ukraine-to-collaborate-on-digital-id-tech](https://reclaimthenet.org/uk-ukraine-to-collaborate-on-digital-id-tech)
@@ -8742,7 +8738,7 @@
 
  ## Nobody’s using CBDCs. India’s piloting one anyway
  - [https://techmonitor.ai/policy/digital-economy/nobodys-using-cbdcs-indias-piloting-one-anyway](https://techmonitor.ai/policy/digital-economy/nobodys-using-cbdcs-indias-piloting-one-anyway)
- - date_published: 2022-12-05T12:02:42+00:00
+ - date_published: 2022-12-05T11:43:16+00:00
  - tags: ['big brother', 'cbdc', 'india']
 
  ## Kyle Rittenhouse goes viral after asking if Twitter files will reveal 'hidden censoring' against him
@@ -8779,6 +8775,11 @@
  - [https://www.foxnews.com/media/george-soros-influence-global-media-least-253-organizations-study-finds](https://www.foxnews.com/media/george-soros-influence-global-media-least-253-organizations-study-finds)
  - date_published: 2022-12-06T13:53:09+00:00
  - tags: ['billionaires', 'elites', 'george soros', 'media']
+
+ ## Meta’s behavioral ads will finally face GDPR privacy reckoning in January
+ - [https://techcrunch.com/2022/12/06/meta-gdpr-forced-consent-edpb-decisions](https://techcrunch.com/2022/12/06/meta-gdpr-forced-consent-edpb-decisions)
+ - date_published: 2022-12-06T16:58:23+00:00
+ - tags: ['ad business', 'facebook', 'gdpr', 'meta', 'privacy']
 
  ## EU will reportedly bar Meta from requiring personalized ads
  - [https://www.engadget.com/eu-meta-personalized-ads-ban-172015041.html?src=rss](https://www.engadget.com/eu-meta-personalized-ads-ban-172015041.html?src=rss)
@@ -8824,12 +8825,6 @@
  - [https://gizmodo.com/china-relaxes-harshest-covid-19-rules-after-protests-1849862755](https://gizmodo.com/china-relaxes-harshest-covid-19-rules-after-protests-1849862755)
  - date_published: 2022-12-07T11:00:00+00:00
  - tags: ['china', 'covid']
-
- ## Meta’s behavioral ads will finally face GDPR privacy reckoning in January
- - [https://techcrunch.com/2022/12/06/meta-gdpr-forced-consent-edpb-decisions](https://techcrunch.com/2022/12/06/meta-gdpr-forced-consent-edpb-decisions)
- - date_published: 2022-12-07T11:36:18+00:00
- - tags: ['ad business', 'facebook', 'gdpr', 'meta', 'privacy']
- - date_dead_since: 2025-03-14T04:39:44.408656+00:00
 
  ## UK Warned by Farmers That It Is Facing a Food Supply Crisis
  - [https://www.theepochtimes.com/uk-warned-by-farmers-that-it-is-facing-a-food-supply-crisis_4906491.html](https://www.theepochtimes.com/uk-warned-by-farmers-that-it-is-facing-a-food-supply-crisis_4906491.html)
@@ -8888,7 +8883,7 @@
 
  ## Kirk Cameron banned from hosting readings of Christian children's book at 50 public libraries
  - [https://www.dailymail.co.uk/news/article-11514251/Kirk-Cameron-banned-hosting-readings-Christian-childrens-book-50-public-libraries.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11514251/Kirk-Cameron-banned-hosting-readings-Christian-childrens-book-50-public-libraries.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - date_published: 2022-12-08T01:06:19+00:00
+ - date_published: 2022-12-08T00:55:02+00:00
  - tags: ['censorship', 'christianophobia', 'fahrenheit 451']
 
  ## Wielka Brytania po raz pierwszy od 35 lat zbuduje kopalnię węgla. Rząd wydał zgodę
@@ -8916,6 +8911,11 @@
  - date_published: 2022-12-08T12:40:13+00:00
  - tags: ['amazon', 'big brother', 'big tech', 'google', 'manufacturing consent', 'microsoft', 'oracle', 'pentagon']
 
+ ## Emails show Wuhan lab collaborator played central role in public messaging about COVID-19 origins
+ - [https://usrtk.org/covid-19-origins/emails-show-wuhan-lab-collaborator-played-central-role-in-public-messaging-about-covid-19-origins](https://usrtk.org/covid-19-origins/emails-show-wuhan-lab-collaborator-played-central-role-in-public-messaging-about-covid-19-origins)
+ - date_published: 2022-12-08T14:00:05+00:00
+ - tags: ['covid', 'daszak', 'lab leak', 'wuhan']
+
  ## Coffeezilla claims FTX founder Sam Bankman-Fried admitted “fraud” in interview
  - [https://www.dexerto.com/entertainment/coffeezilla-claims-ftx-founder-sam-bankman-fried-admitted-fraud-in-interview-2005507](https://www.dexerto.com/entertainment/coffeezilla-claims-ftx-founder-sam-bankman-fried-admitted-fraud-in-interview-2005507)
  - date_published: 2022-12-08T14:11:59+00:00
@@ -8927,15 +8927,15 @@
  - tags: ['economy', 'inflation', 'politics']
  - date_dead_since: 2025-02-04T17:38:24.419357+00:00
 
- ## Emails show Wuhan lab collaborator played central role in public messaging about COVID-19 origins
- - [https://usrtk.org/covid-19-origins/emails-show-wuhan-lab-collaborator-played-central-role-in-public-messaging-about-covid-19-origins](https://usrtk.org/covid-19-origins/emails-show-wuhan-lab-collaborator-played-central-role-in-public-messaging-about-covid-19-origins)
- - date_published: 2022-12-08T19:05:34+00:00
- - tags: ['covid', 'daszak', 'lab leak', 'wuhan']
-
  ## Australian COVID Measures Led to Lowest Elective Surgery Numbers in a Decade
  - [https://www.theepochtimes.com/australian-covid-measures-led-to-lowest-elective-surgery-numbers-in-a-decade_4908265.html](https://www.theepochtimes.com/australian-covid-measures-led-to-lowest-elective-surgery-numbers-in-a-decade_4908265.html)
  - date_published: 2022-12-08T23:54:01+00:00
  - tags: ['covid', 'covid collateral damage']
+
+ ## Win for privacy: Facebook tracking is illegal in Europe
+ - [https://tutanota.com/blog/posts/facebook-tracking-business-model-illegal-europe](https://tutanota.com/blog/posts/facebook-tracking-business-model-illegal-europe)
+ - date_published: 2022-12-09T00:00:00+00:00
+ - tags: ['facebook', 'gdpr', 'meta', 'privacy']
 
  ## The Twitter Files Part 2: Twitter's Secret Blacklists
  - [https://twitter.com/bariweiss/status/1601007575633305600](https://twitter.com/bariweiss/status/1601007575633305600)
@@ -8957,11 +8957,6 @@
  - date_published: 2022-12-09T14:30:00+00:00
  - tags: ['digital identity', 'propaganda']
 
- ## Win for privacy: Facebook tracking is illegal in Europe
- - [https://tutanota.com/blog/posts/facebook-tracking-business-model-illegal-europe](https://tutanota.com/blog/posts/facebook-tracking-business-model-illegal-europe)
- - date_published: 2022-12-09T14:57:28+00:00
- - tags: ['facebook', 'gdpr', 'meta', 'privacy']
-
  ## EU court orders Google to remove “manifestly inaccurate” information
  - [https://reclaimthenet.org/eu-court-orders-google-to-remove-manifestly-inaccurate-information](https://reclaimthenet.org/eu-court-orders-google-to-remove-manifestly-inaccurate-information)
  - date_published: 2022-12-09T19:50:45+00:00
@@ -8969,7 +8964,7 @@
 
  ## BlackRock CEO Larry Fink is called to quit by pension chief over ESG obsession
  - [https://www.dailymail.co.uk/news/article-11521597/BlackRock-CEO-Larry-Fink-called-quit-pension-chief-ESG-obsession.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11521597/BlackRock-CEO-Larry-Fink-called-quit-pension-chief-ESG-obsession.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - date_published: 2022-12-09T22:05:44+00:00
+ - date_published: 2022-12-09T22:05:28+00:00
  - tags: ['blackrock', 'esg']
 
  ## Cynizm i hipokryzja. Wielkie korporacje zarabiają krocie i udają, że to jest w naszym interesie
@@ -8994,7 +8989,7 @@
 
  ## Hunter Biden sells more paintings for up to $225,000 to anonymous buyers
  - [https://www.dailymail.co.uk/news/article-11523295/Hunter-Biden-sells-paintings-225-000-anonymous-buyers.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11523295/Hunter-Biden-sells-paintings-225-000-anonymous-buyers.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - date_published: 2022-12-10T05:55:07+00:00
+ - date_published: 2022-12-10T05:30:49+00:00
  - tags: ['hunter biden', 'joe biden']
 
  ## Keep Your Identity Small (2009)
