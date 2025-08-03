@@ -420,6 +420,11 @@
  - [https://stevenvanbael.com/open-calendar-task-space-is-a-mess](https://stevenvanbael.com/open-calendar-task-space-is-a-mess)
  - date_published: 2021-03-10T14:11:40+00:00
 
+ ## A look at search engines with their own indexes
+ - [https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes](https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes)
+ - date_published: 2021-03-11T00:00:00+00:00
+ - tags: ['search engines', 'seo']
+
  ## Johnny Harris: A Story of YouTube Propaganda
  - [https://www.youtube.com/watch?v=Dum0bqWfiGw](https://www.youtube.com/watch?v=Dum0bqWfiGw)
  - date_published: 2021-03-12T00:00:00+00:00
@@ -575,6 +580,11 @@
  - [https://newrepublic.com/article/161995/twitter-saudi-arabia-mbs-dissident](https://newrepublic.com/article/161995/twitter-saudi-arabia-mbs-dissident)
  - date_published: 2021-04-03T05:30:33+00:00
  - tags: ['elon musk', 'twitter']
+
+ ## Unlock Bootloader on Samsung Galaxy Phones and Tablets — A Complete Guide
+ - [https://www.thecustomdroid.com/samsung-galaxy-bootloader-unlock-guide](https://www.thecustomdroid.com/samsung-galaxy-bootloader-unlock-guide)
+ - date_published: 2021-04-03T15:01:03+00:00
+ - tags: ['android', 'lineageos', 'smartphone']
 
  ## If You Sell a House These Days, the Buyer Might Be a Pension Fund
  - [https://www.wsj.com/articles/if-you-sell-a-house-these-days-the-buyer-might-be-a-pension-fund-11617544801](https://www.wsj.com/articles/if-you-sell-a-house-these-days-the-buyer-might-be-a-pension-fund-11617544801)

@@ -2327,6 +2327,11 @@
  - tags: ['dead internet', 'google', 'search engines']
  - date_dead_since: 2025-03-23T19:58:24.448212+00:00
 
+ ## Jeffrey Sachs Presents Evidence of Possible Lab Origin of Covid-19
+ - [https://theintercept.com/2022/05/19/covid-lab-leak-evidence-jeffrey-sachs](https://theintercept.com/2022/05/19/covid-lab-leak-evidence-jeffrey-sachs)
+ - date_published: 2022-05-19T20:00:50+00:00
+ - tags: ['covid', 'jeffrey sachs', 'lab leak']
+
  ## Tasks, lists, and promises
  - [https://rachelbythebay.com/w/2022/05/19/priority](https://rachelbythebay.com/w/2022/05/19/priority)
  - date_published: 2022-05-20T06:56:19.612155+00:00
@@ -4770,6 +4775,11 @@
  - [https://www.cnn.com/2022/09/15/business/mcdonalds-ceo-chicago-crime/index.html](https://www.cnn.com/2022/09/15/business/mcdonalds-ceo-chicago-crime/index.html)
  - date_published: 2022-09-15T17:09:22+00:00
 
+ ## PS4/PS5 exploit that is “essentially unpatchable”
+ - [https://arstechnica.com/gaming/2022/09/console-hacker-reveals-ps4-ps5-exploit-that-is-essentially-unpatchable](https://arstechnica.com/gaming/2022/09/console-hacker-reveals-ps4-ps5-exploit-that-is-essentially-unpatchable)
+ - date_published: 2022-09-15T20:14:10+00:00
+ - tags: ['playstation', 'vulnerability']
+
  ## EU lawmakers declare that Hungary is no longer a democracy
  - [https://www.reddit.com/r/news/comments/xf8kfu/eu_lawmakers_declare_that_hungary_is_no_longer_a](https://www.reddit.com/r/news/comments/xf8kfu/eu_lawmakers_declare_that_hungary_is_no_longer_a)
  - date_published: 2022-09-15T21:30:07+00:00
@@ -5139,6 +5149,11 @@
  - [https://news.ycombinator.com/item?id=32942635](https://news.ycombinator.com/item?id=32942635)
  - date_published: 2022-09-22T18:16:42+00:00
  - tags: ['shadowban']
+
+ ## Five Good Things About RISC-V
+ - [https://codasip.com/2022/09/22/5-good-things-about-risc-v](https://codasip.com/2022/09/22/5-good-things-about-risc-v)
+ - date_published: 2022-09-22T19:45:00+00:00
+ - tags: ['risc-v']
 
  ## Meta’s Own Commissioned Report Says It Harmed Palestinian Human Rights
  - [https://gizmodo.com/meta-human-rights-palestine-content-moderation-1849570678](https://gizmodo.com/meta-human-rights-palestine-content-moderation-1849570678)
@@ -6115,6 +6130,11 @@
  - date_published: 2022-10-10T23:31:37+00:00
  - tags: ['dogma', 'science', 'science is dead']
 
+ ## California makes it illegal for doctors to disagree with politicians
+ - [https://nypost.com/2022/10/10/california-makes-it-illegal-for-doctors-to-disagree-with-politicians](https://nypost.com/2022/10/10/california-makes-it-illegal-for-doctors-to-disagree-with-politicians)
+ - date_published: 2022-10-10T23:39:39+00:00
+ - tags: ['big brother', 'california', 'censorship', 'covid']
+
  ## SIM card registration law signed amid privacy concerns | Inquirer News
  - [https://newsinfo.inquirer.net/1678018/sim-card-registration-law-signed-amid-privacy-concerns](https://newsinfo.inquirer.net/1678018/sim-card-registration-law-signed-amid-privacy-concerns)
  - date_published: 2022-10-11T04:10:13+00:00
@@ -6635,6 +6655,11 @@
  - date_published: 2022-10-23T20:17:14+00:00
  - tags: ['big brother', 'big tech', 'censorship']
 
+ ## Is There Too Much CSS Now?
+ - [https://css-tricks.com/is-there-too-much-css-now](https://css-tricks.com/is-there-too-much-css-now)
+ - date_published: 2022-10-24T05:59:16+00:00
+ - tags: ['css', 'programming']
+
  ## Ads nearly ruined the iPhone's App Store, and Apple's about to add more of them
  - [https://www.techradar.com/news/ads-nearly-ruined-the-iphones-app-store-and-apples-about-to-add-more-of-them](https://www.techradar.com/news/ads-nearly-ruined-the-iphones-app-store-and-apples-about-to-add-more-of-them)
  - date_published: 2022-10-24T10:52:32+00:00
@@ -6807,6 +6832,11 @@
  - [https://pierre.equoy.fr/blog/posts/2022/10/stop-writing-twitter-threads](https://pierre.equoy.fr/blog/posts/2022/10/stop-writing-twitter-threads)
  - date_published: 2022-10-25T14:58:33+00:00
  - tags: ['social media', 'twitter']
+
+ ## Jerzy Owsiak przegrał proces. "Moje serce powoli umiera"
+ - [https://teleshow.wp.pl/jerzy-owsiak-przegral-proces-barbara-piela-moje-serce-powoli-umiera-6826854577212320a](https://teleshow.wp.pl/jerzy-owsiak-przegral-proces-barbara-piela-moje-serce-powoli-umiera-6826854577212320a)
+ - date_published: 2022-10-25T17:09:46+00:00
+ - tags: ['jerzy owsiak', 'wielka orkiestra']
 
  ## Anti-Patterns in Startup Engineering Hiring
  - [https://blog.southparkcommons.com/startup-engineering-hiring-anti-patterns](https://blog.southparkcommons.com/startup-engineering-hiring-anti-patterns)
@@ -7075,6 +7105,15 @@
  - date_published: 2022-10-27T23:27:03+00:00
  - tags: ['hackers', 'vulnerability']
 
+ ## By The End Of 2023, Only 1 In 5 European Citizens Will Still Trust Their Government
+ - [https://www.forbes.com/sites/forrester/2022/10/28/by-the-end-of-2023-only-1-in-5-european-citizens-will-still-trust-their-government](https://www.forbes.com/sites/forrester/2022/10/28/by-the-end-of-2023-only-1-in-5-european-citizens-will-still-trust-their-government)
+ - date_published: 2022-10-28T00:00:00+00:00
+ - tags: ['big brother', 'europe']
+
+ ## Researchers Say Environmentally Conscious Shoppers Don’t Bring Reusable Bags To The Store
+ - [https://www.forbes.com/sites/jeffkart/2022/10/28/researchers-say-environmentally-conscious-shoppers-dont-bring-reusable-bags-to-the-store](https://www.forbes.com/sites/jeffkart/2022/10/28/researchers-say-environmentally-conscious-shoppers-dont-bring-reusable-bags-to-the-store)
+ - date_published: 2022-10-28T00:00:00+00:00
+
  ## Foreign investors are pulling out quickly: China's economy is looking bleak/A major purge is coming
  - [https://www.youtube.com/watch?v=M7DRDIwHa0E](https://www.youtube.com/watch?v=M7DRDIwHa0E)
  - date_published: 2022-10-28T00:00:00+00:00
@@ -7130,15 +7169,6 @@
  - date_published: 2022-10-28T12:00:00+00:00
  - tags: ['artificial intelligence']
 
- ## Researchers Say Environmentally Conscious Shoppers Don’t Bring Reusable Bags To The Store
- - [https://www.forbes.com/sites/jeffkart/2022/10/28/researchers-say-environmentally-conscious-shoppers-dont-bring-reusable-bags-to-the-store](https://www.forbes.com/sites/jeffkart/2022/10/28/researchers-say-environmentally-conscious-shoppers-dont-bring-reusable-bags-to-the-store)
- - date_published: 2022-10-28T13:00:00+00:00
-
- ## By The End Of 2023, Only 1 In 5 European Citizens Will Still Trust Their Government
- - [https://www.forbes.com/sites/forrester/2022/10/28/by-the-end-of-2023-only-1-in-5-european-citizens-will-still-trust-their-government](https://www.forbes.com/sites/forrester/2022/10/28/by-the-end-of-2023-only-1-in-5-european-citizens-will-still-trust-their-government)
- - date_published: 2022-10-28T13:11:25+00:00
- - tags: ['big brother', 'europe']
-
  ## COVID-19 pandemic 'likely' originated with Chinese lab leak, Senate Republican report finds
  - [https://www.foxnews.com/politics/covid-19-pandemic-likely-originated-chinese-lab-leak-senate-republican-report-finds](https://www.foxnews.com/politics/covid-19-pandemic-likely-originated-chinese-lab-leak-senate-republican-report-finds)
  - date_published: 2022-10-28T15:19:51+00:00
@@ -7171,37 +7201,42 @@
 
  ## China's zero-Covid policy no longer about health... It's about power and mass surveillance
  - [https://www.dailymail.co.uk/debate/article-11367185/Chinas-zero-Covid-policy-no-longer-health-power-mass-surveillance.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/debate/article-11367185/Chinas-zero-Covid-policy-no-longer-health-power-mass-surveillance.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - date_published: 2022-10-29T00:22:48+00:00
+ - date_published: 2022-10-28T23:15:56+00:00
  - tags: ['china', 'covid zero', 'surveillance']
+
+ ## #COVIDIsAirborne #BringBackMasks Trend, Questioning CDC Director’s Tweet on Covid-19 Precautions
+ - [https://www.forbes.com/sites/brucelee/2022/10/29/covidisairborne-bringbackmasks-trend-questioning-cdc-directors-tweet-on-covid-19-precautions](https://www.forbes.com/sites/brucelee/2022/10/29/covidisairborne-bringbackmasks-trend-questioning-cdc-directors-tweet-on-covid-19-precautions)
+ - date_published: 2022-10-29T00:00:00+00:00
+ - tags: ['covid', 'masks']
+
+ ## Digital Government Is No Longer An Option, It Is An Imperative
+ - [https://www.forbes.com/sites/markminevich/2022/10/29/digital-government-is-no-longer-an-option-it-is-an-imperative](https://www.forbes.com/sites/markminevich/2022/10/29/digital-government-is-no-longer-an-option-it-is-an-imperative)
+ - date_published: 2022-10-29T00:00:00+00:00
+ - tags: ['big tech', 'digital government', 'smart city']
 
  ## Chiny przejmują niemieckie firmy. Głównie technologiczne. Bild: Scholz to lobbysta Pekinu
  - [https://www.bankier.pl/wiadomosc/Chiny-przejmuja-niemieckie-firmy-Glownie-technologiczne-Bild-Scholz-to-lobbysta-Pekinu-8431108.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Chiny-przejmuja-niemieckie-firmy-Glownie-technologiczne-Bild-Scholz-to-lobbysta-Pekinu-8431108.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date_published: 2022-10-29T05:52:00+00:00
  - tags: ['china', 'espionage']
 
- ## #COVIDIsAirborne #BringBackMasks Trend, Questioning CDC Director’s Tweet on Covid-19 Precautions
- - [https://www.forbes.com/sites/brucelee/2022/10/29/covidisairborne-bringbackmasks-trend-questioning-cdc-directors-tweet-on-covid-19-precautions](https://www.forbes.com/sites/brucelee/2022/10/29/covidisairborne-bringbackmasks-trend-questioning-cdc-directors-tweet-on-covid-19-precautions)
- - date_published: 2022-10-29T08:31:24+00:00
- - tags: ['covid', 'masks']
-
  ## Amsterdam mayor scraps LGBTI+ statement after backlash from mosques
  - [https://nltimes.nl/2022/10/29/amsterdam-mayor-scraps-lgbti-statement-backlash-mosques](https://nltimes.nl/2022/10/29/amsterdam-mayor-scraps-lgbti-statement-backlash-mosques)
- - date_published: 2022-10-29T12:13:44+00:00
+ - date_published: 2022-10-29T09:39:07+00:00
  - tags: ['lgbt', 'netherlands', 'the left wing']
 
  ## Twitter could split into strands allowing users to stage rows, Elon Musk says
  - [https://www.theguardian.com/technology/2022/oct/29/twitter-elon-musk-pvp-row-strands](https://www.theguardian.com/technology/2022/oct/29/twitter-elon-musk-pvp-row-strands)
  - date_published: 2022-10-29T12:36:44+00:00
 
+ ## Lockdowns: The Great Gaslighting
+ - [https://brownstone.org/articles/lockdowns-the-great-gaslighting](https://brownstone.org/articles/lockdowns-the-great-gaslighting)
+ - date_published: 2022-10-29T13:00:10+00:00
+ - tags: ['covid', 'lockdown']
+
  ## Netflix's Password Sharing Crackdown Is Coming     - CNET
  - [https://www.cnet.com/culture/entertainment/netflixs-password-sharing-crackdown-is-coming/#ftag=CADf328eec](https://www.cnet.com/culture/entertainment/netflixs-password-sharing-crackdown-is-coming/#ftag=CADf328eec)
  - date_published: 2022-10-29T14:24:49+00:00
  - tags: ['ad business', 'netflix', 'streaming']
-
- ## Digital Government Is No Longer An Option, It Is An Imperative
- - [https://www.forbes.com/sites/markminevich/2022/10/29/digital-government-is-no-longer-an-option-it-is-an-imperative](https://www.forbes.com/sites/markminevich/2022/10/29/digital-government-is-no-longer-an-option-it-is-an-imperative)
- - date_published: 2022-10-29T14:30:20+00:00
- - tags: ['big tech', 'digital government', 'smart city']
 
  ## Florida medical board votes to ban gender-affirming care for transgender minors
  - [https://www.reddit.com/r/news/comments/ygnjd3/florida_medical_board_votes_to_ban](https://www.reddit.com/r/news/comments/ygnjd3/florida_medical_board_votes_to_ban)
@@ -7223,10 +7258,19 @@
  - date_published: 2022-10-29T21:14:04+00:00
  - tags: ['censorship', 'elon musk', 'louder with crowder', 'twitter', 'youtube']
 
+ ## Employee Happiness Is A Leading Indicator Of Profitability And Productivity
+ - [https://www.forbes.com/sites/cindygordon/2022/10/30/employee-happiness-is-a-leading-indicator-of-profitability-and-productivity](https://www.forbes.com/sites/cindygordon/2022/10/30/employee-happiness-is-a-leading-indicator-of-profitability-and-productivity)
+ - date_published: 2022-10-30T00:00:00+00:00
+ - tags: ['work']
+
  ## Elon Musk, Bill Gates... 'We need to imagine new ways to control the propensity of billionaires to replace the State'
  - [https://www.lemonde.fr/en/opinion/article/2022/10/30/elon-musk-bill-gates-we-need-to-imagine-new-ways-to-control-the-propensity-of-billionaires-to-replace-the-state_6002257_23.html](https://www.lemonde.fr/en/opinion/article/2022/10/30/elon-musk-bill-gates-we-need-to-imagine-new-ways-to-control-the-propensity-of-billionaires-to-replace-the-state_6002257_23.html)
  - date_published: 2022-10-30T03:49:00+00:00
  - tags: ['bill gates', 'billionaires', 'elites', 'elon musk', 'politics']
+
+ ## Organizing 1,700 Resistors in a Ring Binder
+ - [https://madebynathan.com/posts/2022-10-30-e24-resistor-pack-ring-binder/#what-are-resistors](https://madebynathan.com/posts/2022-10-30-e24-resistor-pack-ring-binder/#what-are-resistors)
+ - date_published: 2022-10-30T04:07:28+00:00
 
  ## Russia and China May be Preparing a New Gold-Backed Currency - Nicoya Research
  - [https://nicoyaresearch.com/russia-and-china-may-be-preparing-a-new-gold-backed-currency](https://nicoyaresearch.com/russia-and-china-may-be-preparing-a-new-gold-backed-currency)
@@ -7247,7 +7291,6 @@
  - [https://giza.mused.org/en](https://giza.mused.org/en)
  - date_published: 2022-10-30T08:55:05+00:00
  - tags: ['egypt', 'project']
- - date_dead_since: 2025-03-16T21:17:13.653356+00:00
 
  ## Italy to reinstate health workers who did not comply with COVID vaccine mandates
  - [https://www.foxnews.com/world/italy-reinstate-health-workers-suspended-not-complying-covid-vaccine-mandates](https://www.foxnews.com/world/italy-reinstate-health-workers-suspended-not-complying-covid-vaccine-mandates)
@@ -7258,11 +7301,6 @@
  - [https://www.theguardian.com/technology/2022/oct/30/twitter-trolls-bombard-platform-after-elon-musk-takeover](https://www.theguardian.com/technology/2022/oct/30/twitter-trolls-bombard-platform-after-elon-musk-takeover)
  - date_published: 2022-10-30T10:54:30+00:00
  - tags: ['moderation', 'twitter']
-
- ## PS4/PS5 exploit that is “essentially unpatchable”
- - [https://arstechnica.com/gaming/2022/09/console-hacker-reveals-ps4-ps5-exploit-that-is-essentially-unpatchable](https://arstechnica.com/gaming/2022/09/console-hacker-reveals-ps4-ps5-exploit-that-is-essentially-unpatchable)
- - date_published: 2022-10-30T10:55:24+00:00
- - tags: ['playstation', 'vulnerability']
 
  ## Analitycy: Większość projektów biznesowych Metaverse zniknie do 2025 r.
  - [https://ithardware.pl/aktualnosci/wiekszosc_projektow_biznesowych_metaverse_zniknie_do_2025_r-24071.html](https://ithardware.pl/aktualnosci/wiekszosc_projektow_biznesowych_metaverse_zniknie_do_2025_r-24071.html)
@@ -7278,17 +7316,12 @@
  - [https://www.sdlgbtn.com/hiv-rates-among-gay-and-bisexual-men-in-london](https://www.sdlgbtn.com/hiv-rates-among-gay-and-bisexual-men-in-london)
  - date_published: 2022-10-30T19:51:50+00:00
  - tags: ['homosexuality', 'the left wing']
- - date_dead_since: 2024-10-14T21:45:04.003408+00:00
+ - date_dead_since: 2025-08-02T21:36:25.334835+00:00
 
- ## Employee Happiness Is A Leading Indicator Of Profitability And Productivity
- - [https://www.forbes.com/sites/cindygordon/2022/10/30/employee-happiness-is-a-leading-indicator-of-profitability-and-productivity](https://www.forbes.com/sites/cindygordon/2022/10/30/employee-happiness-is-a-leading-indicator-of-profitability-and-productivity)
- - date_published: 2022-10-30T22:16:43+00:00
- - tags: ['work']
-
- ## Five Good Things About RISC-V
- - [https://codasip.com/2022/09/22/5-good-things-about-risc-v](https://codasip.com/2022/09/22/5-good-things-about-risc-v)
- - date_published: 2022-10-31T05:43:12+00:00
- - tags: ['risc-v']
+ ## Big Tech Earnings Put Advertising, Privacy, And User Experience In Focus
+ - [https://www.forbes.com/sites/danielnewman/2022/10/31/big-tech-earnings-put-advertising-privacy-and-user-experience-in-focus](https://www.forbes.com/sites/danielnewman/2022/10/31/big-tech-earnings-put-advertising-privacy-and-user-experience-in-focus)
+ - date_published: 2022-10-31T00:00:00+00:00
+ - tags: ['ad business', 'big tech', 'privacy']
 
  ## 'Simply being a Christian is enough to get you arrested' in Iran: British government report
  - [https://www.foxnews.com/world/simply-being-a-christian-enough-get-you-arrested-iran-british-government-report](https://www.foxnews.com/world/simply-being-a-christian-enough-get-you-arrested-iran-british-government-report)
@@ -7299,6 +7332,11 @@
  - [https://www.engadget.com/uk-police-fail-to-use-facial-recognition-ethically-and-legally-researchers-say-082039619.html?src=rss](https://www.engadget.com/uk-police-fail-to-use-facial-recognition-ethically-and-legally-researchers-say-082039619.html?src=rss)
  - date_published: 2022-10-31T08:20:39+00:00
  - tags: ['big brother', 'biometric', 'facial recognition', 'surveillance']
+
+ ## Leaked documents outline DHS’s plans to police disinformation
+ - [https://theintercept.com/2022/10/31/social-media-disinformation-dhs](https://theintercept.com/2022/10/31/social-media-disinformation-dhs)
+ - date_published: 2022-10-31T09:00:31+00:00
+ - tags: ['department of homeland security', 'dhs', 'disinformation governance board', 'government control', 'manufacturing consent', 'oversight board']
 
  ## Why the App Store’s tone-deaf gambling ads make me worry about Apple
  - [https://arstechnica.com/?p=1892975](https://arstechnica.com/?p=1892975)
@@ -7329,11 +7367,6 @@
  - date_published: 2022-10-31T13:00:14+00:00
  - tags: ['covid', 'digital identity', 'fraud', 'pandemic']
 
- ## California makes it illegal for doctors to disagree with politicians
- - [https://nypost.com/2022/10/10/california-makes-it-illegal-for-doctors-to-disagree-with-politicians](https://nypost.com/2022/10/10/california-makes-it-illegal-for-doctors-to-disagree-with-politicians)
- - date_published: 2022-10-31T13:27:01+00:00
- - tags: ['big brother', 'california', 'censorship', 'covid']
-
  ## Egypt's farmers fear rising social tensions over scarce water | Reuters
  - [https://www.reuters.com/business/cop/egypts-farmers-fear-rising-social-tensions-over-scarce-water-2022-10-31](https://www.reuters.com/business/cop/egypts-farmers-fear-rising-social-tensions-over-scarce-water-2022-10-31)
  - date_published: 2022-10-31T14:21:43+00:00
@@ -7348,11 +7381,6 @@
  - [https://www.businessinsider.com/facebook-has-hidden-tool-to-delete-your-phone-number-email-2022-10?IR=T](https://www.businessinsider.com/facebook-has-hidden-tool-to-delete-your-phone-number-email-2022-10?IR=T)
  - date_published: 2022-10-31T15:24:26+00:00
  - tags: ['facebook', 'privacy']
-
- ## Leaked documents outline DHS’s plans to police disinformation
- - [https://theintercept.com/2022/10/31/social-media-disinformation-dhs](https://theintercept.com/2022/10/31/social-media-disinformation-dhs)
- - date_published: 2022-10-31T15:52:04+00:00
- - tags: ['department of homeland security', 'dhs', 'disinformation governance board', 'government control', 'manufacturing consent', 'oversight board']
 
  ## Apple's Mac renaissance has truly begun
  - [https://www.computerworld.com/article/3678312/apples-mac-renaissance-has-truly-begun.html#tk.rss_all](https://www.computerworld.com/article/3678312/apples-mac-renaissance-has-truly-begun.html#tk.rss_all)
@@ -7373,12 +7401,6 @@
  - date_published: 2022-11-01T00:36:44+00:00
  - tags: ['big tech', 'big tech', 'disinformation', 'fbi']
 
- ## Big Tech Earnings Put Advertising, Privacy, And User Experience In Focus
- - [https://www.forbes.com/sites/danielnewman/2022/10/31/big-tech-earnings-put-advertising-privacy-and-user-experience-in-focus](https://www.forbes.com/sites/danielnewman/2022/10/31/big-tech-earnings-put-advertising-privacy-and-user-experience-in-focus)
- - date_published: 2022-11-01T02:27:57+00:00
- - tags: ['ad business', 'big tech', 'privacy']
- - date_dead_since: 2025-03-16T17:01:12.495363+00:00
-
  ## I finally found a use case for my Raspberry Pi Model B+
  - [https://ounapuu.ee/posts/2022/11/01/finding-use-case-for-raspberry-pi](https://ounapuu.ee/posts/2022/11/01/finding-use-case-for-raspberry-pi)
  - date_published: 2022-11-01T04:25:25+00:00
@@ -7398,11 +7420,6 @@
  - [https://twitter.com/lhfang/status/1587104660355096576](https://twitter.com/lhfang/status/1587104660355096576)
  - date_published: 2022-11-01T08:07:01+00:00
  - tags: ['censorship', 'fbi', 'government', 'surveillance', 'twitter']
-
- ## Jerzy Owsiak przegrał proces. "Moje serce powoli umiera"
- - [https://teleshow.wp.pl/jerzy-owsiak-przegral-proces-barbara-piela-moje-serce-powoli-umiera-6826854577212320a](https://teleshow.wp.pl/jerzy-owsiak-przegral-proces-barbara-piela-moje-serce-powoli-umiera-6826854577212320a)
- - date_published: 2022-11-01T08:18:37+00:00
- - tags: ['jerzy owsiak', 'wielka orkiestra']
 
  ## Singapore explores programmable digital currency use cases with industry trials
  - [https://www.zdnet.com/finance/banking/singapore-explores-programmable-digital-currency-use-cases-with-industry-trials/#ftag=RSSbaffb68](https://www.zdnet.com/finance/banking/singapore-explores-programmable-digital-currency-use-cases-with-industry-trials/#ftag=RSSbaffb68)
@@ -7448,7 +7465,6 @@
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59370](https://www.codeproject.com/script/News/View.aspx?nwid=59370)
  - date_published: 2022-11-02T04:00:00+00:00
  - tags: ['artificial intelligence', 'machine learning', 'science', 'science is dead']
- - date_dead_since: 2025-03-16T14:53:08.200869+00:00
 
  ## Wenezuela i Kolumbia zapowiedziały "całkowitą integrację" swoich gospodarek
  - [https://www.bankier.pl/wiadomosc/Wenezuela-i-Kolumbia-zapowiedzialy-calkowita-integracje-swoich-gospodarek-8432274.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Wenezuela-i-Kolumbia-zapowiedzialy-calkowita-integracje-swoich-gospodarek-8432274.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -7492,14 +7508,9 @@
  - date_published: 2022-11-02T14:00:04+00:00
  - tags: ['climate change', 'global warming']
 
- ## Lockdowns: The Great Gaslighting
- - [https://brownstone.org/articles/lockdowns-the-great-gaslighting](https://brownstone.org/articles/lockdowns-the-great-gaslighting)
- - date_published: 2022-11-02T15:04:47+00:00
- - tags: ['covid', 'lockdown']
-
  ## Republicans tear into reports Biden is colluding with Facebook to monitor 'disinformation'
  - [https://www.dailymail.co.uk/news/article-11382249/Republicans-tear-reports-Biden-colluding-Facebook-monitor-disinformation.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11382249/Republicans-tear-reports-Biden-colluding-Facebook-monitor-disinformation.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - date_published: 2022-11-02T15:20:01+00:00
+ - date_published: 2022-11-02T15:19:41+00:00
  - tags: ['censorship', 'disinformation', 'facebook']
 
  ## The UK economy is about to be thrown into a black hole – by its own government | Larry Elliott
@@ -7519,7 +7530,7 @@
 
  ## White House is forced to DELETE tweet claiming Biden gave seniors a record boost in Social Security
  - [https://www.dailymail.co.uk/news/article-11382657/White-House-forced-DELETE-tweet-claiming-Biden-gave-seniors-record-boost-social-security.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11382657/White-House-forced-DELETE-tweet-claiming-Biden-gave-seniors-record-boost-social-security.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - date_published: 2022-11-02T17:44:00+00:00
+ - date_published: 2022-11-02T17:41:51+00:00
  - tags: ['disinformation', 'usa']
 
  ## Why Is Global Polluter Coca-Cola Sponsoring a Major Climate Conference?
@@ -7532,15 +7543,15 @@
  - date_published: 2022-11-02T18:50:10+00:00
  - tags: ['big tech', 'mark zuckerberg', 'metaverse']
 
+ ## Americans by wide margins want race kept OUT of college admissions, says poll
+ - [https://www.dailymail.co.uk/news/article-11381789/Americans-wide-margins-want-race-kept-college-admissions-says-poll.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11381789/Americans-wide-margins-want-race-kept-college-admissions-says-poll.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - date_published: 2022-11-02T19:41:32+00:00
+ - tags: ['black lives matter', 'blm']
+
  ## The damage Kanye West is doing is devastating
  - [https://www.cnn.com/2022/11/02/opinions/kanye-west-antisemitic-comments-carter/index.html](https://www.cnn.com/2022/11/02/opinions/kanye-west-antisemitic-comments-carter/index.html)
  - date_published: 2022-11-02T19:47:04+00:00
  - tags: ['kanye west', 'nazi']
-
- ## Americans by wide margins want race kept OUT of college admissions, says poll
- - [https://www.dailymail.co.uk/news/article-11381789/Americans-wide-margins-want-race-kept-college-admissions-says-poll.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11381789/Americans-wide-margins-want-race-kept-college-admissions-says-poll.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - date_published: 2022-11-02T19:47:04+00:00
- - tags: ['black lives matter', 'blm']
 
  ## Facebook's Going Back to Only Using Algorithms to Curate Its News Tab
  - [https://gizmodo.com/facebook-meta-news-curation-algorithm-1849734224](https://gizmodo.com/facebook-meta-news-curation-algorithm-1849734224)
@@ -7549,7 +7560,7 @@
 
  ## FBI official tied to suppressing Hunter laptop story STILL involved in briefing Facebook and Twitter
  - [https://www.dailymail.co.uk/news/article-11383013/FBI-official-tied-suppressing-Hunter-laptop-story-involved-briefing-Facebook-Twitter.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11383013/FBI-official-tied-suppressing-Hunter-laptop-story-involved-briefing-Facebook-Twitter.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - date_published: 2022-11-02T21:28:01+00:00
+ - date_published: 2022-11-02T21:21:51+00:00
  - tags: ['censorship', 'facebook', 'hunter biden', 'twitter']
 
  ## Why Modern Movies Suck - The Myth Of The "Modern Audience"
@@ -7569,22 +7580,27 @@
 
  ## Opinion | The New Covid Boosters Are Incredible, and Everyone Should Get One - The New York Times
  - [https://www.nytimes.com/2022/11/03/opinion/covid-booster-vaccine-poverty.html](https://www.nytimes.com/2022/11/03/opinion/covid-booster-vaccine-poverty.html)
- - date_published: 2022-11-03T10:56:59+00:00
+ - date_published: 2022-11-03T09:00:21+00:00
  - tags: ['covid', 'propaganda']
+
+ ## Google to remove all VPN ad blockers that don’t comply with their policy
+ - [https://community.blokada.org/t/google-to-remove-all-vpn-ad-blockers-that-don-t-comply/27586](https://community.blokada.org/t/google-to-remove-all-vpn-ad-blockers-that-don-t-comply/27586)
+ - date_published: 2022-11-03T09:55:46+00:00
+ - tags: ['google', 'vpn']
 
  ## There's a Big Problem With Countries' Plans to Plant More Trees
  - [https://gizmodo.com/theres-a-big-problem-with-countries-plans-to-plant-more-1849734322](https://gizmodo.com/theres-a-big-problem-with-countries-plans-to-plant-more-1849734322)
  - date_published: 2022-11-03T12:00:00+00:00
 
+ ## TikTok reveals staff in China will be able to SPY on UK user data from next month
+ - [https://www.dailymail.co.uk/sciencetech/article-11385575/TikTok-reveals-staff-China-able-SPY-UK-user-data-month.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/sciencetech/article-11385575/TikTok-reveals-staff-China-able-SPY-UK-user-data-month.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - date_published: 2022-11-03T12:19:04+00:00
+ - tags: ['china', 'surveillance', 'tiktok']
+
  ## NYC trans and HIV activist arrested for 'soliciting pedophile hunter posing as a 14-year-old boy'
  - [https://www.dailymail.co.uk/news/article-11385913/NYC-trans-HIV-activist-arrested-soliciting-pedophile-hunter-posing-14-year-old-boy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11385913/NYC-trans-HIV-activist-arrested-soliciting-pedophile-hunter-posing-14-year-old-boy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date_published: 2022-11-03T12:36:36+00:00
  - tags: ['lgbt', 'paedophilia', 'the left wing', 'transgender']
-
- ## TikTok reveals staff in China will be able to SPY on UK user data from next month
- - [https://www.dailymail.co.uk/sciencetech/article-11385575/TikTok-reveals-staff-China-able-SPY-UK-user-data-month.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/sciencetech/article-11385575/TikTok-reveals-staff-China-able-SPY-UK-user-data-month.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - date_published: 2022-11-03T12:38:55+00:00
- - tags: ['china', 'surveillance', 'tiktok']
 
  ## I Posted on YouTube Consistently for 1 Month. This Is What Happened
  - [https://www.alexhyett.com/one-month-on-youtube](https://www.alexhyett.com/one-month-on-youtube)
@@ -7596,34 +7612,30 @@
  - date_published: 2022-11-03T14:43:55+00:00
  - tags: ['subscription', 'technofeudalism', 'youtube']
 
+ ## AstraZeneca patients data exposed for over a year due to password snafu
+ - [https://techcrunch.com/2022/11/03/astrazeneca-passwords-exposed-patient-data](https://techcrunch.com/2022/11/03/astrazeneca-passwords-exposed-patient-data)
+ - date_published: 2022-11-03T16:00:55+00:00
+ - tags: ['astrazeneca', 'covid', 'data leak', 'privacy']
+
  ## Linux Boot Partitions
  - [https://0pointer.net/blog/linux-boot-partitions.html](https://0pointer.net/blog/linux-boot-partitions.html)
  - date_published: 2022-11-03T18:13:25+00:00
  - tags: ['boot partitions', 'linux']
 
+ ## Elon Musk Has Laid Off Many Twitter Employees Charged With Protecting The Midterm Elections
+ - [https://www.forbes.com/sites/katharineschwab/2022/11/04/elon-musk-twitter-layoffs-midterm-elections](https://www.forbes.com/sites/katharineschwab/2022/11/04/elon-musk-twitter-layoffs-midterm-elections)
+ - date_published: 2022-11-04T00:00:00+00:00
+ - tags: ['censorship', 'moderation', 'social media']
+
  ## Study Finds That Regular Physical Activity Enhances Vaccine Effectiveness Against Covid-19.
  - [https://www.forbes.com/sites/williamhaseltine/2022/11/04/study-finds-that-regular-physical-activity-enhances-vaccine-effectiveness-against-covid-19](https://www.forbes.com/sites/williamhaseltine/2022/11/04/study-finds-that-regular-physical-activity-enhances-vaccine-effectiveness-against-covid-19)
- - date_published: 2022-11-04T05:28:15+00:00
+ - date_published: 2022-11-04T00:00:00+00:00
  - tags: ['covid', 'vaccine']
 
  ## Główny ekonomista PKN Orlen: w zrównoważonej przyszłości nie ma miejsca na prywatne samochody osobowe
  - [https://strefainwestorow.pl/w-zielonej-strefie/elektromobilnosc/samochody-elektryczne-orlen-elektromobilnosc](https://strefainwestorow.pl/w-zielonej-strefie/elektromobilnosc/samochody-elektryczne-orlen-elektromobilnosc)
  - date_published: 2022-11-04T07:56:34+00:00
  - tags: ['car sharing', 'subscription', 'technofeudalism']
-
- ## Organizing 1,700 Resistors in a Ring Binder
- - [https://madebynathan.com/posts/2022-10-30-e24-resistor-pack-ring-binder/#what-are-resistors](https://madebynathan.com/posts/2022-10-30-e24-resistor-pack-ring-binder/#what-are-resistors)
- - date_published: 2022-11-04T12:51:08.102875+00:00
-
- ## AstraZeneca patients data exposed for over a year due to password snafu
- - [https://techcrunch.com/2022/11/03/astrazeneca-passwords-exposed-patient-data](https://techcrunch.com/2022/11/03/astrazeneca-passwords-exposed-patient-data)
- - date_published: 2022-11-04T12:53:39+00:00
- - tags: ['astrazeneca', 'covid', 'data leak', 'privacy']
-
- ## Google to remove all VPN ad blockers that don’t comply with their policy
- - [https://community.blokada.org/t/google-to-remove-all-vpn-ad-blockers-that-don-t-comply/27586](https://community.blokada.org/t/google-to-remove-all-vpn-ad-blockers-that-don-t-comply/27586)
- - date_published: 2022-11-04T15:49:20+00:00
- - tags: ['google', 'vpn']
 
  ## Apple jest wart więcej niż Google, Facebook i Amazon razem wzięte. Jeśli to nie jest monopol, to nie wiem, co nim jest
  - [https://www.chip.pl/2022/11/apple-monopol-2022](https://www.chip.pl/2022/11/apple-monopol-2022)
@@ -7639,11 +7651,6 @@
  - [https://www.ncsc.gov.uk/information/ncsc-scanning-information](https://www.ncsc.gov.uk/information/ncsc-scanning-information)
  - date_published: 2022-11-04T17:03:34+00:00
  - tags: ['big brother', 'england', 'surveillance']
-
- ## Elon Musk Has Laid Off Many Twitter Employees Charged With Protecting The Midterm Elections
- - [https://www.forbes.com/sites/katharineschwab/2022/11/04/elon-musk-twitter-layoffs-midterm-elections](https://www.forbes.com/sites/katharineschwab/2022/11/04/elon-musk-twitter-layoffs-midterm-elections)
- - date_published: 2022-11-04T17:05:30+00:00
- - tags: ['censorship', 'moderation', 'social media']
 
  ## Newsom sued over COVID ‘misinformation’ law that doctors say tramples First Amendment rights
  - [https://www.foxnews.com/politics/newsom-hit-with-a-lawsuit-for-covid-19-misinformation-bill-doctors-say-trample-first-amendment-rights](https://www.foxnews.com/politics/newsom-hit-with-a-lawsuit-for-covid-19-misinformation-bill-doctors-say-trample-first-amendment-rights)
@@ -7685,14 +7692,14 @@
  - date_published: 2022-11-05T15:23:35+00:00
  - tags: ['the left wing']
 
+ ## Conservatives slam Ivy League prof who demanded 'pandemic amnesty' for those who pushed lockdowns
+ - [https://www.dailymail.co.uk/news/article-11393527/Conservatives-slam-Ivy-League-prof-demanded-pandemic-amnesty-pushed-lockdowns.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11393527/Conservatives-slam-Ivy-League-prof-demanded-pandemic-amnesty-pushed-lockdowns.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - date_published: 2022-11-05T15:28:59+00:00
+ - tags: ['covid', 'lockdown', 'pandemic amnesty']
+
  ## How Qatar bought up Britain
  - [https://www.theguardian.com/business/ng-interactive/2022/nov/05/how-qatar-bought-up-britain](https://www.theguardian.com/business/ng-interactive/2022/nov/05/how-qatar-bought-up-britain)
  - date_published: 2022-11-05T16:00:02+00:00
-
- ## Conservatives slam Ivy League prof who demanded 'pandemic amnesty' for those who pushed lockdowns
- - [https://www.dailymail.co.uk/news/article-11393527/Conservatives-slam-Ivy-League-prof-demanded-pandemic-amnesty-pushed-lockdowns.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11393527/Conservatives-slam-Ivy-League-prof-demanded-pandemic-amnesty-pushed-lockdowns.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - date_published: 2022-11-05T16:05:28+00:00
- - tags: ['covid', 'lockdown', 'pandemic amnesty']
 
  ## Only 2% Of Children’s Deaths Were From COVID, And School Closures Didn’t Reduce The Number
  - [https://www.dailywire.com/news/only-2-of-childrens-deaths-were-from-covid-and-school-closures-didnt-reduce-the-number](https://www.dailywire.com/news/only-2-of-childrens-deaths-were-from-covid-and-school-closures-didnt-reduce-the-number)
@@ -7710,6 +7717,11 @@
  - tags: ['covid', 'covid lie', 'finland']
  - date_dead_since: 2024-04-21T01:22:54.045192+00:00
 
+ ## (Mastodon) Surviving and thriving through the 2022-11-05 meltdown
+ - [https://blog.freeradical.zone/post/surviving-thriving-through-2022-11-05-meltdown](https://blog.freeradical.zone/post/surviving-thriving-through-2022-11-05-meltdown)
+ - date_published: 2022-11-06T14:57:29+00:00
+ - tags: ['mastodon']
+
  ## Industry ethicist: Social media companies amplifying Americans' anger for profit - CBS News
  - [https://www.cbsnews.com/news/tristan-harris-social-media-political-polarization-60-minutes-2022-11-06/?ftag=CNM-00-10aab7d&linkId=188527613](https://www.cbsnews.com/news/tristan-harris-social-media-political-polarization-60-minutes-2022-11-06/?ftag=CNM-00-10aab7d&linkId=188527613)
  - date_published: 2022-11-06T15:50:30+00:00
@@ -7719,6 +7731,10 @@
  - [https://www.dailymail.co.uk/news/article-11396843/Amazon-users-new-fee-choosing-music-Alexa-consumer-watchdog-warns.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11396843/Amazon-users-new-fee-choosing-music-Alexa-consumer-watchdog-warns.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date_published: 2022-11-06T22:48:06+00:00
  - tags: ['alexa', 'amazon', 'subscription', 'technofeudalism']
+
+ ## Without Trust, Digital Worlds Collapse
+ - [https://www.forbes.com/sites/joemckendrick/2022/11/07/without-trust-digital-worlds-collapse](https://www.forbes.com/sites/joemckendrick/2022/11/07/without-trust-digital-worlds-collapse)
+ - date_published: 2022-11-07T00:00:00+00:00
 
  ## Who is robbing Lebanon’s banks? – podcast
  - [https://www.theguardian.com/news/audio/2022/nov/07/who-is-robbing-lebanons-banks-podcast](https://www.theguardian.com/news/audio/2022/nov/07/who-is-robbing-lebanons-banks-podcast)
@@ -7739,31 +7755,23 @@
  - [https://www.theblock.co/post/183646/digital-euro-transaction-limits-store-value-caps](https://www.theblock.co/post/183646/digital-euro-transaction-limits-store-value-caps)
  - date_published: 2022-11-07T09:52:33+00:00
  - tags: ['cbdc', 'digital euro']
- - date_dead_since: 2025-03-16T04:24:55.916594+00:00
+ - date_dead_since: 2025-08-02T14:15:09.577159+00:00
 
  ## Cop27 in Egypt: Activists hit out at VIP menu featuring beef, chicken, fish and dairy products | Daily Mail Online
  - [https://www.dailymail.co.uk/news/article-11398493/Cop27-Egypt-Activists-hit-VIP-menu-featuring-beef-chicken-fish-dairy-products.html](https://www.dailymail.co.uk/news/article-11398493/Cop27-Egypt-Activists-hit-VIP-menu-featuring-beef-chicken-fish-dairy-products.html)
  - date_published: 2022-11-07T11:56:43+00:00
  - tags: ['billionaires', 'climate change', 'cop27', 'elites', 'hypocrisy']
 
- ## Without Trust, Digital Worlds Collapse
- - [https://www.forbes.com/sites/joemckendrick/2022/11/07/without-trust-digital-worlds-collapse](https://www.forbes.com/sites/joemckendrick/2022/11/07/without-trust-digital-worlds-collapse)
- - date_published: 2022-11-07T12:00:00+00:00
-
  ## Tech outlook for a GOP Congress: More noise, even less action
  - [https://www.axios.com/2022/11/07/midterms-tech-policy-congress-control](https://www.axios.com/2022/11/07/midterms-tech-policy-congress-control)
  - date_published: 2022-11-07T14:20:50+00:00
  - tags: ['antitrust', 'big brother', 'big tech', 'usa']
+ - date_dead_since: 2025-08-02T14:00:09.787888+00:00
 
  ## TikTok ships “opium version” to world and less addictive app to Chinese audience | ADN América
  - [https://adnamerica.com/en/united-states/tiktok-ships-opium-version-world-and-less-addictive-app-chinese-audience](https://adnamerica.com/en/united-states/tiktok-ships-opium-version-world-and-less-addictive-app-chinese-audience)
  - date_published: 2022-11-07T15:49:52+00:00
  - tags: ['china', 'propaganda', 'social engineering', 'social media']
-
- ## Is There Too Much CSS Now?
- - [https://css-tricks.com/is-there-too-much-css-now](https://css-tricks.com/is-there-too-much-css-now)
- - date_published: 2022-11-07T16:18:33+00:00
- - tags: ['css', 'programming']
 
  ## Your Organization should run its own Mastodon server
  - [https://martinfowler.com/articles/your-org-run-mastodon.html](https://martinfowler.com/articles/your-org-run-mastodon.html)
@@ -7787,7 +7795,7 @@
 
  ## Bill Clinton laughs off his relationship with Jeffrey Epstein and refuses to answer questions
  - [https://www.dailymail.co.uk/news/article-11401025/Bill-Clinton-laughs-relationship-Jeffrey-Epstein-refuses-answer-questions.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11401025/Bill-Clinton-laughs-relationship-Jeffrey-Epstein-refuses-answer-questions.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - date_published: 2022-11-08T04:55:16+00:00
+ - date_published: 2022-11-08T04:54:14+00:00
  - tags: ['bill clinton', 'jeffrey epstein']
 
  ## Ameryka jedzie na rezerwie
@@ -7800,6 +7808,11 @@
  - date_published: 2022-11-08T07:25:02+00:00
  - tags: ['church scandal', 'france', 'religion']
 
+ ## WeChat users are writing apology letters to get their banned accounts on Tencent’s super app back - Rest of World
+ - [https://restofworld.org/2022/handwritten-wechat-apology-letters](https://restofworld.org/2022/handwritten-wechat-apology-letters)
+ - date_published: 2022-11-08T11:00:00+00:00
+ - tags: ['big tech', 'everything app', 'privacy', 'surveillance', 'technofeudalism', 'wechat']
+
  ## China’s Digital Yuan Works Just Like Cash—With Added Surveillance
  - [https://www.wired.com/story/chinas-digital-yuan-ecny-works-just-like-cash-surveillance](https://www.wired.com/story/chinas-digital-yuan-ecny-works-just-like-cash-surveillance)
  - date_published: 2022-11-08T13:00:00+00:00
@@ -7810,11 +7823,6 @@
  - date_published: 2022-11-08T14:48:32+00:00
  - tags: ['math is racist', 'racism', 'science is dead', 'science is racist']
 
- ## WeChat users are writing apology letters to get their banned accounts on Tencent’s super app back - Rest of World
- - [https://restofworld.org/2022/handwritten-wechat-apology-letters](https://restofworld.org/2022/handwritten-wechat-apology-letters)
- - date_published: 2022-11-08T16:08:26+00:00
- - tags: ['big tech', 'everything app', 'privacy', 'surveillance', 'technofeudalism', 'wechat']
-
  ## The Lie That Facebook Sold You
  - [https://havenweb.org/2022/11/02/facebook-lie.html](https://havenweb.org/2022/11/02/facebook-lie.html)
  - date_published: 2022-11-08T17:00:33+00:00
@@ -7822,7 +7830,7 @@
 
  ## Sweden Wins! Country That Refused Lockdown and Kept Schools Open Has Lowest Pandemic Mortality in the World – The Daily Sceptic
  - [https://dailysceptic.org/2022/11/08/sweden-wins-country-that-refused-lockdown-and-kept-schools-open-has-lowest-pandemic-cumulative-excess-mortality-in-the-world](https://dailysceptic.org/2022/11/08/sweden-wins-country-that-refused-lockdown-and-kept-schools-open-has-lowest-pandemic-cumulative-excess-mortality-in-the-world)
- - date_published: 2022-11-08T19:59:46+00:00
+ - date_published: 2022-11-08T19:10:18+00:00
  - tags: ['covid', 'lockdown', 'science is dead']
 
  ## Apple Is Tracking You Even When Its Own Privacy Settings Say It’s Not, New Research Says
@@ -7849,6 +7857,7 @@
  - [https://www.nytimes.com/2022/11/09/technology/personaltech/smartphone-repair.html](https://www.nytimes.com/2022/11/09/technology/personaltech/smartphone-repair.html)
  - date_published: 2022-11-09T10:00:23+00:00
  - tags: ['smartphone']
+ - date_dead_since: 2025-08-02T12:20:15.161253+00:00
 
  ## Xi Jinping tells China’s army to focus on preparation for war
  - [https://www.theguardian.com/world/2022/nov/09/xi-jinping-tells-chinas-army-to-focus-on-preparation-for-war](https://www.theguardian.com/world/2022/nov/09/xi-jinping-tells-chinas-army-to-focus-on-preparation-for-war)
@@ -7865,6 +7874,11 @@
  - date_published: 2022-11-09T22:13:42+00:00
  - tags: ['mark zuckerberg', 'meta', 'metaverse', 'virtual reality']
 
+ ## Global Carbon Emissions Showed No Signs Of Decline This Year, Scientists Warn
+ - [https://www.forbes.com/sites/tylerroush/2022/11/10/scientists-say-global-carbon-emissions-showing-no-signs-of-decline](https://www.forbes.com/sites/tylerroush/2022/11/10/scientists-say-global-carbon-emissions-showing-no-signs-of-decline)
+ - date_published: 2022-11-10T00:00:00+00:00
+ - tags: ['carbon emissions', 'carbon footprint', 'carbon science', 'climate change']
+
  ## GitHub stars won't pay your rent
  - [https://kitze.io/posts/github-stars-wont-pay-your-rent](https://kitze.io/posts/github-stars-wont-pay-your-rent)
  - date_published: 2022-11-10T00:18:07+00:00
@@ -7874,11 +7888,6 @@
  - [https://www.youtube.com/watch?v=iEwxAJ0zgNE](https://www.youtube.com/watch?v=iEwxAJ0zgNE)
  - date_published: 2022-11-11T00:00:00+00:00
  - tags: ['china', 'elon musk', 'tesla']
-
- ## Global Carbon Emissions Showed No Signs Of Decline This Year, Scientists Warn
- - [https://www.forbes.com/sites/tylerroush/2022/11/10/scientists-say-global-carbon-emissions-showing-no-signs-of-decline](https://www.forbes.com/sites/tylerroush/2022/11/10/scientists-say-global-carbon-emissions-showing-no-signs-of-decline)
- - date_published: 2022-11-11T00:15:55+00:00
- - tags: ['carbon emissions', 'carbon footprint', 'carbon science', 'climate change']
 
  ## Elon Musk details his plan to turn Twitter into a bank
  - [https://www.theverge.com/2022/11/10/23452488/elon-musk-twitter-bank-q-and-a](https://www.theverge.com/2022/11/10/23452488/elon-musk-twitter-bank-q-and-a)
@@ -7894,30 +7903,35 @@
  - date_published: 2022-11-11T05:00:00+00:00
  - tags: ['work']
 
+ ## Climate activists attacking art ‘severely underestimate’ fragility of works, gallery directors warn
+ - [https://www.theguardian.com/artanddesign/2022/nov/11/climate-activists-attacking-art-severely-underestimate-fragility-of-works-gallery-directors-warn](https://www.theguardian.com/artanddesign/2022/nov/11/climate-activists-attacking-art-severely-underestimate-fragility-of-works-gallery-directors-warn)
+ - date_published: 2022-11-11T05:39:36+00:00
+ - tags: ['activism']
+
  ## YouTube confirms that it has removed the “sort by oldest/newest” option
  - [https://old.reddit.com/r/youtube/comments/ymoyx3/youtube_confirms_that_it_has_removed_the_sort_by](https://old.reddit.com/r/youtube/comments/ymoyx3/youtube_confirms_that_it_has_removed_the_sort_by)
  - date_published: 2022-11-11T08:54:26+00:00
  - tags: ['corporatocracy', 'technofeudalism', 'youtube']
 
+ ## Disney Stock Suffers Worst Day in 21 Years
+ - [https://www.breitbart.com/entertainment/2022/11/11/disney-stock-suffers-worst-day-in-21-years](https://www.breitbart.com/entertainment/2022/11/11/disney-stock-suffers-worst-day-in-21-years)
+ - date_published: 2022-11-11T09:30:30+00:00
+ - tags: ['disney', 'the left wing']
+
  ## Getting it or not getting it, and then what?
  - [https://rachelbythebay.com/w/2022/11/10/quad](https://rachelbythebay.com/w/2022/11/10/quad)
  - date_published: 2022-11-11T10:17:06.032134+00:00
+ - date_dead_since: 2025-08-02T11:35:11.152198+00:00
 
  ## Medical data hacked from 10m Australians begins to appear on dark web
  - [https://www.theguardian.com/world/2022/nov/11/medical-data-hacked-from-10m-australians-begins-to-appear-on-dark-web](https://www.theguardian.com/world/2022/nov/11/medical-data-hacked-from-10m-australians-begins-to-appear-on-dark-web)
  - date_published: 2022-11-11T12:17:05+00:00
  - tags: ['australia', 'biometric', 'data leak', 'hackers', 'privacy']
 
- ## Climate activists attacking art ‘severely underestimate’ fragility of works, gallery directors warn
- - [https://www.theguardian.com/artanddesign/2022/nov/11/climate-activists-attacking-art-severely-underestimate-fragility-of-works-gallery-directors-warn](https://www.theguardian.com/artanddesign/2022/nov/11/climate-activists-attacking-art-severely-underestimate-fragility-of-works-gallery-directors-warn)
- - date_published: 2022-11-11T15:29:02+00:00
- - tags: ['activism']
-
  ## From Mona Lisa to The Scream: Climate protesters deface art in Europe – and now the US
  - [https://eu.usatoday.com/in-depth/graphics/2022/11/30/climate-activists-attack-paintings-mona-lisa-scream/10699588002](https://eu.usatoday.com/in-depth/graphics/2022/11/30/climate-activists-attack-paintings-mona-lisa-scream/10699588002)
  - date_published: 2022-11-11T15:30:02+00:00
  - tags: ['activism']
- - date_dead_since: 2024-10-14T09:05:21.743425+00:00
 
  ## Why The Van Gogh Climate Protest Wasn't Smart
  - [https://time.com/6233983/van-gogh-art-climate-protest-survey](https://time.com/6233983/van-gogh-art-climate-protest-survey)
@@ -7933,12 +7947,6 @@
  - [https://ithardware.pl/aktualnosci/windows_11_wyswietli_jeszcze_wiecej_reklam_microsoft_testuje_cierpliwosc_uzytkownikow-24307.html](https://ithardware.pl/aktualnosci/windows_11_wyswietli_jeszcze_wiecej_reklam_microsoft_testuje_cierpliwosc_uzytkownikow-24307.html)
  - date_published: 2022-11-11T17:30:00+00:00
  - tags: ['ad business', 'microsoft', 'windows 11']
- - date_dead_since: 2025-03-15T21:17:50.358578+00:00
-
- ## (Mastodon) Surviving and thriving through the 2022-11-05 meltdown
- - [https://blog.freeradical.zone/post/surviving-thriving-through-2022-11-05-meltdown](https://blog.freeradical.zone/post/surviving-thriving-through-2022-11-05-meltdown)
- - date_published: 2022-11-12T08:39:06+00:00
- - tags: ['mastodon']
 
  ## Babylon Bee urges Supreme Court to protect parody, says First Amendment pointless if you can't mock government
  - [https://www.foxnews.com/media/babylon-bee-urges-supreme-court-protect-parody-says-first-amendment-pointless-if-you-cant-mock-government](https://www.foxnews.com/media/babylon-bee-urges-supreme-court-protect-parody-says-first-amendment-pointless-if-you-cant-mock-government)
@@ -7963,11 +7971,6 @@
  - [https://ithardware.pl/aktualnosci/apple_i_amazon_zaszkodzili_branzy_firmy_oskarzone_o_zmowe_cenowa-24324.html](https://ithardware.pl/aktualnosci/apple_i_amazon_zaszkodzili_branzy_firmy_oskarzone_o_zmowe_cenowa-24324.html)
  - date_published: 2022-11-13T09:00:01+00:00
  - tags: ['amazon', 'apple', 'monopoly']
-
- ## Disney Stock Suffers Worst Day in 21 Years
- - [https://www.breitbart.com/entertainment/2022/11/11/disney-stock-suffers-worst-day-in-21-years](https://www.breitbart.com/entertainment/2022/11/11/disney-stock-suffers-worst-day-in-21-years)
- - date_published: 2022-11-13T14:50:04+00:00
- - tags: ['disney', 'the left wing']
 
  ## Apple Is Tracking You Even When Its Own Privacy Settings Say It’s Not, New Research Says
  - [https://www.msn.com/en-us/news/technology/apple-is-tracking-you-even-when-its-own-privacy-settings-say-it-s-not-new-research-says/ar-AA13T2Y0](https://www.msn.com/en-us/news/technology/apple-is-tracking-you-even-when-its-own-privacy-settings-say-it-s-not-new-research-says/ar-AA13T2Y0)
@@ -8021,7 +8024,7 @@
 
  ## New security requirements for open source in the EU
  - [https://blog.nlnetlabs.nl/open-source-software-vs-the-cyber-resilience-act](https://blog.nlnetlabs.nl/open-source-software-vs-the-cyber-resilience-act)
- - date_published: 2022-11-14T14:33:31+00:00
+ - date_published: 2022-11-14T08:00:55+00:00
  - tags: ['cyber resilience act', 'government control', 'open source']
 
  ## Prime Video Bribes Brazilians To Watch ‘The Lord Of The Rings: The Rings Of Power’ With Food Delivery Service Coupon
@@ -8034,6 +8037,11 @@
  - date_published: 2022-11-14T16:43:47+00:00
  - tags: ['google', 'privacy', 'tracking']
  - date_dead_since: 2025-03-15T17:12:11.300967+00:00
+
+ ## Disney+ demands users’ age and gender so it can “deliver targeted advertising”
+ - [https://reclaimthenet.org/disney-plus-demands-users-age-and-gender](https://reclaimthenet.org/disney-plus-demands-users-age-and-gender)
+ - date_published: 2022-11-15T02:27:12+00:00
+ - tags: ['ad business', 'digital identity', 'disney', 'privacy', 'tracking']
 
  ## China zero Covid: Violent protests in Guangzhou put curbs under strain
  - [https://www.bbc.co.uk/news/world-asia-china-63633109?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-china-63633109?at_medium=RSS&at_campaign=KARANGA)
@@ -8060,15 +8068,15 @@
  - date_published: 2022-11-15T15:31:08+00:00
  - tags: ['activism']
 
- ## Disney+ demands users’ age and gender so it can “deliver targeted advertising”
- - [https://reclaimthenet.org/disney-plus-demands-users-age-and-gender](https://reclaimthenet.org/disney-plus-demands-users-age-and-gender)
- - date_published: 2022-11-15T16:28:34+00:00
- - tags: ['ad business', 'digital identity', 'disney', 'privacy', 'tracking']
-
  ## Universities courses from computing to classics are told to 'decolonise' by degrees watchdog
  - [https://www.dailymail.co.uk/news/article-11431449/Universities-courses-computing-classics-told-decolonise-degrees-watchdog.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11431449/Universities-courses-computing-classics-told-decolonise-degrees-watchdog.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - date_published: 2022-11-15T19:36:31+00:00
+ - date_published: 2022-11-15T19:05:32+00:00
  - tags: ['black lives matter', 'blm', 'ideology', 'propaganda']
+
+ ## FBI is 'extremely concerned' about China's influence through TikTok on U.S. users
+ - [https://www.cnbc.com/2022/11/15/fbi-is-extremely-concerned-about-chinas-influence-through-tiktok.html](https://www.cnbc.com/2022/11/15/fbi-is-extremely-concerned-about-chinas-influence-through-tiktok.html)
+ - date_published: 2022-11-15T19:48:03+00:00
+ - tags: ['china', 'surveillance', 'tiktok']
 
  ## Here's Why Andrew Tate Is Banned From Almost Every Social Media Platform     - CNET
  - [https://www.cnet.com/culture/heres-why-andrew-tate-is-banned-from-almost-every-social-media-platform/#ftag=CADf328eec](https://www.cnet.com/culture/heres-why-andrew-tate-is-banned-from-almost-every-social-media-platform/#ftag=CADf328eec)
@@ -8080,11 +8088,6 @@
  - date_published: 2022-11-16T03:04:29+00:00
  - tags: ['australia', 'covid', 'fearmongering', 'propaganda']
 
- ## Unlock Bootloader on Samsung Galaxy Phones and Tablets — A Complete Guide
- - [https://www.thecustomdroid.com/samsung-galaxy-bootloader-unlock-guide](https://www.thecustomdroid.com/samsung-galaxy-bootloader-unlock-guide)
- - date_published: 2022-11-16T10:42:48+00:00
- - tags: ['android', 'lineageos', 'smartphone']
-
  ## Even a global recession may not crush inflation
  - [https://www.economist.com/finance-and-economics/2022/11/15/even-a-global-recession-may-not-crush-inflation](https://www.economist.com/finance-and-economics/2022/11/15/even-a-global-recession-may-not-crush-inflation)
  - date_published: 2022-11-16T13:05:11+00:00
@@ -8094,11 +8097,7 @@
  - [https://blog.trunk.io/82-of-open-source-projects-suffer-from-tool-rot-e766bdf449a2](https://blog.trunk.io/82-of-open-source-projects-suffer-from-tool-rot-e766bdf449a2)
  - date_published: 2022-11-16T15:29:11+00:00
  - tags: ['open source', 'tool rot']
-
- ## FBI is 'extremely concerned' about China's influence through TikTok on U.S. users
- - [https://www.cnbc.com/2022/11/15/fbi-is-extremely-concerned-about-chinas-influence-through-tiktok.html](https://www.cnbc.com/2022/11/15/fbi-is-extremely-concerned-about-chinas-influence-through-tiktok.html)
- - date_published: 2022-11-16T15:32:28+00:00
- - tags: ['china', 'surveillance', 'tiktok']
+ - date_dead_since: 2025-08-02T08:18:42.881893+00:00
 
  ## Why Is Super Creep Klaus Schwab Even At The G-20 Summit?
  - [https://www.dailywire.com/news/why-is-super-creep-klaus-schwab-even-at-the-g-20-summit](https://www.dailywire.com/news/why-is-super-creep-klaus-schwab-even-at-the-g-20-summit)
@@ -8107,13 +8106,18 @@
 
  ## Democrat pushes legislation to ban Trump from ever holding office
  - [https://www.dailymail.co.uk/news/article-11436517/Democrat-pushes-legislation-ban-Trump-holding-office.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11436517/Democrat-pushes-legislation-ban-Trump-holding-office.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - date_published: 2022-11-16T21:32:12+00:00
+ - date_published: 2022-11-16T21:05:41+00:00
  - tags: ['big brother', 'censorship', 'donald trump']
 
  ## G20 Promotes WHO-Standardized Global Vaccine Passport and ‘Digital Health’ Identity Scheme
  - [https://www.theepochtimes.com/g-20-promotes-who-standardized-global-vaccine-passport-and-digital-health-identity-scheme_4869188.html](https://www.theepochtimes.com/g-20-promotes-who-standardized-global-vaccine-passport-and-digital-health-identity-scheme_4869188.html)
  - date_published: 2022-11-17T13:06:53+00:00
  - tags: ['digital identity', 'digital passport', 'government control', 'vaccine passport']
+
+ ## Is TikTok Really A National Security Threat?
+ - [https://www.forbes.com/sites/petersuciu/2022/11/18/is-tiktok-really-a-national-security-threat](https://www.forbes.com/sites/petersuciu/2022/11/18/is-tiktok-really-a-national-security-threat)
+ - date_published: 2022-11-18T00:00:00+00:00
+ - tags: ['china', 'privacy', 'surveillance', 'tiktok']
 
  ## Call of Duty is a Government Psyop: These Documents Prove It
  - [https://www.mintpressnews.com/call-of-duty-is-a-government-psyop-these-documents-prove-it/282781](https://www.mintpressnews.com/call-of-duty-is-a-government-psyop-these-documents-prove-it/282781)
@@ -8122,7 +8126,7 @@
 
  ## Members fear Society of Authors has been 'lost' to cancel culture amid JK Rowling row
  - [https://www.dailymail.co.uk/news/article-11443527/Members-fear-Society-Authors-lost-cancel-culture-amid-JK-Rowling-row.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11443527/Members-fear-Society-Authors-lost-cancel-culture-amid-JK-Rowling-row.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - date_published: 2022-11-18T14:37:20+00:00
+ - date_published: 2022-11-18T14:36:46+00:00
  - tags: ['cancel culture', 'england']
 
  ## ‘Positively dystopian’: judge blocks key parts of Florida’s ‘Stop-Woke’ law
@@ -8134,20 +8138,15 @@
  - [https://gizmodo.com/meta-facebook-metaverse-whatsapp-mark-zuckerberg-1849801017](https://gizmodo.com/meta-facebook-metaverse-whatsapp-mark-zuckerberg-1849801017)
  - date_published: 2022-11-18T16:00:00+00:00
 
- ## Is TikTok Really A National Security Threat?
- - [https://www.forbes.com/sites/petersuciu/2022/11/18/is-tiktok-really-a-national-security-threat](https://www.forbes.com/sites/petersuciu/2022/11/18/is-tiktok-really-a-national-security-threat)
- - date_published: 2022-11-18T18:49:17+00:00
- - tags: ['china', 'privacy', 'surveillance', 'tiktok']
-
  ## 35+ Countries Are Leaving the Global Internet
  - [https://www.youtube.com/watch?v=dprdD8j2KZw](https://www.youtube.com/watch?v=dprdD8j2KZw)
  - date_published: 2022-11-19T00:00:00+00:00
  - tags: ['balkanisation', 'internet', 'splinternet']
 
- ## Jeffrey Sachs Presents Evidence of Possible Lab Origin of Covid-19
- - [https://theintercept.com/2022/05/19/covid-lab-leak-evidence-jeffrey-sachs](https://theintercept.com/2022/05/19/covid-lab-leak-evidence-jeffrey-sachs)
- - date_published: 2022-11-19T13:39:08+00:00
- - tags: ['covid', 'jeffrey sachs', 'lab leak']
+ ## Elon Musk Reinstated Donald Trump On Twitter. Now The Real Drama Begins
+ - [https://www.forbes.com/sites/johnbbrandon/2022/11/20/elon-musk-reinstated-donald-trump-on-twitter-now-the-real-drama-begins](https://www.forbes.com/sites/johnbbrandon/2022/11/20/elon-musk-reinstated-donald-trump-on-twitter-now-the-real-drama-begins)
+ - date_published: 2022-11-20T00:00:00+00:00
+ - tags: ['censorship', 'donald trump', 'elon musk', 'moderation']
 
  ## You cannot find me on Mastodon - stitcher.io
  - [https://stitcher.io/blog/you-cannot-find-me-on-mastodon](https://stitcher.io/blog/you-cannot-find-me-on-mastodon)
@@ -8159,11 +8158,6 @@
  - date_published: 2022-11-20T13:58:41+00:00
  - tags: ['alexa', 'amazon', 'voice assistant']
 
- ## Elon Musk Reinstated Donald Trump On Twitter. Now The Real Drama Begins
- - [https://www.forbes.com/sites/johnbbrandon/2022/11/20/elon-musk-reinstated-donald-trump-on-twitter-now-the-real-drama-begins](https://www.forbes.com/sites/johnbbrandon/2022/11/20/elon-musk-reinstated-donald-trump-on-twitter-now-the-real-drama-begins)
- - date_published: 2022-11-20T15:48:31+00:00
- - tags: ['censorship', 'donald trump', 'elon musk', 'moderation']
-
  ## Pentagon promotes critical race theory, gender identity 'insanity': GOP report
  - [https://www.foxnews.com/politics/pentagon-critical-race-theory-gender-identity-insanity-gop](https://www.foxnews.com/politics/pentagon-critical-race-theory-gender-identity-insanity-gop)
  - date_published: 2022-11-21T07:00:37+00:00
@@ -8171,7 +8165,7 @@
 
  ## Elon Musk reveals why he will never let Alex Jones back on Twitter
  - [https://www.dailymail.co.uk/news/article-11451899/Elon-Musk-reveals-never-let-Alex-Jones-Twitter.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11451899/Elon-Musk-reveals-never-let-Alex-Jones-Twitter.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - date_published: 2022-11-21T09:28:40+00:00
+ - date_published: 2022-11-21T09:14:21+00:00
  - tags: ['alex jones', 'deplatform', 'elon musk', 'moderation', 'social media']
 
  ## LGBTQ+ groups condemn Fifa over OneLove armband sanctions threat
@@ -8181,7 +8175,7 @@
 
  ## From Covid to CBDC: The Path to Full Control ⋆ Brownstone Institute
  - [https://brownstone.org/articles/covid-to-cbdc-to-full-control](https://brownstone.org/articles/covid-to-cbdc-to-full-control)
- - date_published: 2022-11-21T20:04:57+00:00
+ - date_published: 2022-11-21T13:56:36+00:00
  - tags: ['cbdc', 'covid', 'technofeudalism']
 
  ## Judge rules Jen Psaki must be deposed in lawsuit over alleged 'collusion' with Big Tech to censor speech
@@ -8196,7 +8190,7 @@
 
  ## Two people who regret changing their gender set to express fears about Sturgeon's trans reform plans
  - [https://www.dailymail.co.uk/news/article-11454795/Two-people-regret-changing-gender-set-express-fears-Sturgeons-trans-reform-plans.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11454795/Two-people-regret-changing-gender-set-express-fears-Sturgeons-trans-reform-plans.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - date_published: 2022-11-22T00:19:12+00:00
+ - date_published: 2022-11-22T00:12:08+00:00
  - tags: ['gender', 'the left wing', 'transgender']
 
  ## Oh, the Places Your Apple ID Will Go
@@ -8214,6 +8208,11 @@
  - date_published: 2022-11-22T07:00:11+00:00
  - tags: ['hollywood', 'inequality', 'the left wing', 'tolerance']
 
+ ## WikiLeaks is struggling to stay online as millions of documents disappear
+ - [https://www.dailydot.com/debug/wikileaks-website-assange-hacked-documents](https://www.dailydot.com/debug/wikileaks-website-assange-hacked-documents)
+ - date_published: 2022-11-22T08:30:10+00:00
+ - tags: ['internet', 'internet rot', 'wikileaks']
+
  ## Mycroft – open source voice assistant
  - [https://mycroft.ai](https://mycroft.ai)
  - date_published: 2022-11-22T09:54:38+00:00
@@ -8221,7 +8220,7 @@
 
  ## Quentin Tarantino blasts Marvel actors: 'They're not movie stars'
  - [https://www.dailymail.co.uk/news/article-11455653/Quentin-Tarantino-says-Marvel-actors-arent-movie-stars-bemoans-Marvel-ization-cinema.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11455653/Quentin-Tarantino-says-Marvel-actors-arent-movie-stars-bemoans-Marvel-ization-cinema.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - date_published: 2022-11-22T12:51:59+00:00
+ - date_published: 2022-11-22T12:10:25+00:00
  - tags: ['marvel', 'movies', 'quentin tarantino']
 
  ## How Bill C-11 Could Open the Door to State-Controlled Media: Peter Menzies in the Epoch Times
@@ -8239,15 +8238,15 @@
  - date_published: 2022-11-23T00:00:00+00:00
  - tags: ['privacy', 'smart home']
 
- ## WikiLeaks is struggling to stay online as millions of documents disappear
- - [https://www.dailydot.com/debug/wikileaks-website-assange-hacked-documents](https://www.dailydot.com/debug/wikileaks-website-assange-hacked-documents)
- - date_published: 2022-11-23T07:23:30+00:00
- - tags: ['internet', 'internet rot', 'wikileaks']
-
  ## Someone has to say it: Voice assistants are not doing it for big tech
  - [https://www.theregister.com/2022/11/23/voice_assistants_fail](https://www.theregister.com/2022/11/23/voice_assistants_fail)
  - date_published: 2022-11-23T09:33:40+00:00
  - tags: ['algorithms', 'big tech', 'smart home', 'voice assistant']
+
+ ## Mercedes locks faster acceleration behind a yearly $1,200 subscription - The Verge
+ - [https://www.theverge.com/2022/11/23/23474969/mercedes-car-subscription-faster-acceleration-feature-price](https://www.theverge.com/2022/11/23/23474969/mercedes-car-subscription-faster-acceleration-feature-price)
+ - date_published: 2022-11-23T14:24:10+00:00
+ - tags: ['electric vehicles', 'mercedes', 'subscribtion', 'technofeudalism']
 
  ## Bill C-11 Raising Serious Doubts About CRTC’s Independence From Feds
  - [https://www.theepochtimes.com/bill-c-11-raising-serious-doubts-about-crtcs-independence-from-feds_4881932.html](https://www.theepochtimes.com/bill-c-11-raising-serious-doubts-about-crtcs-independence-from-feds_4881932.html)
@@ -8263,11 +8262,7 @@
  - [https://www.nytimes.com/2022/11/23/climate/voluntary-human-extinction.html](https://www.nytimes.com/2022/11/23/climate/voluntary-human-extinction.html)
  - date_published: 2022-11-23T20:42:36+00:00
  - tags: ['depopulation', 'propaganda', 'voluntary human extinction']
-
- ## Mercedes locks faster acceleration behind a yearly $1,200 subscription - The Verge
- - [https://www.theverge.com/2022/11/23/23474969/mercedes-car-subscription-faster-acceleration-feature-price](https://www.theverge.com/2022/11/23/23474969/mercedes-car-subscription-faster-acceleration-feature-price)
- - date_published: 2022-11-23T20:58:59+00:00
- - tags: ['electric vehicles', 'mercedes', 'subscribtion', 'technofeudalism']
+ - date_dead_since: 2025-08-02T06:03:40.425739+00:00
 
  ## Interconnected, a blog by Matt Webb
  - [https://interconnected.org/home](https://interconnected.org/home)
@@ -8343,6 +8338,7 @@
  - [https://www.wsj.com/articles/the-science-for-determining-climate-change-damage-is-unsettled-11669436469](https://www.wsj.com/articles/the-science-for-determining-climate-change-damage-is-unsettled-11669436469)
  - date_published: 2022-11-26T10:30:00+00:00
  - tags: ['climate change', 'science', 'science is dead']
+ - date_dead_since: 2025-08-02T04:59:41.024054+00:00
 
  ## Animated Gay Teen Romance Film Is Woke Disney’s Latest Box-Office Bomb
  - [https://www.dailywire.com/news/animated-gay-teen-romance-film-is-woke-disneys-latest-box-office-bomb](https://www.dailywire.com/news/animated-gay-teen-romance-film-is-woke-disneys-latest-box-office-bomb)
@@ -8359,10 +8355,11 @@
  - [https://cybernews.com/news/whatsapp-data-leak](https://cybernews.com/news/whatsapp-data-leak)
  - date_published: 2022-11-26T13:41:53+00:00
  - tags: ['data leak', 'privacy', 'whatsapp']
+ - date_dead_since: 2025-08-02T04:43:41.318115+00:00
 
  ## Former CEO says he considered suicide after suffering 'social terrorism' from co-workers for views
  - [https://www.dailymail.co.uk/news/article-11472163/Former-CEO-says-considered-suicide-suffering-social-terrorism-workers-views.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11472163/Former-CEO-says-considered-suicide-suffering-social-terrorism-workers-views.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - date_published: 2022-11-26T16:20:29+00:00
+ - date_published: 2022-11-26T16:20:28+00:00
  - tags: ['abortion', 'christianophobia', 'intolerance', 'the left wing']
 
  ## No to Spy Pixels
@@ -8380,12 +8377,12 @@
 
  ## Stalkers are using Amazon Alexa devices to terrorise victims, experts warn
  - [https://www.dailymail.co.uk/news/article-11473469/Stalkers-using-Amazon-Alexa-devices-terrorise-victims-experts-warn.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11473469/Stalkers-using-Amazon-Alexa-devices-terrorise-victims-experts-warn.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - date_published: 2022-11-27T01:40:33+00:00
+ - date_published: 2022-11-27T01:33:31+00:00
  - tags: ['hackers', 'privacy', 'smart home']
 
  ## Protests erupt across China in unprecedented challenge to Xi Jinping's zero-Covid policy
  - [https://www.cnn.com/2022/11/26/china/china-protests-xinjiang-fire-shanghai-intl-hnk/index.html](https://www.cnn.com/2022/11/26/china/china-protests-xinjiang-fire-shanghai-intl-hnk/index.html)
- - date_published: 2022-11-27T02:19:10+00:00
+ - date_published: 2022-11-27T02:17:59+00:00
  - tags: ['china', 'covid', 'covid zero']
 
  ## Xi’s iron grip on his country is stopping the Covid U-turn it so desperately needs | Isabel Hilton
@@ -8418,14 +8415,14 @@
  - date_published: 2022-11-28T05:00:00+00:00
  - tags: ['digital dementia', 'psychology', 'smartphone']
 
+ ## Twitter data leak exposes over 5.4 million accounts
+ - [https://www.engadget.com/twitter-data-for-54-million-users-leaked-online-095040426.html](https://www.engadget.com/twitter-data-for-54-million-users-leaked-online-095040426.html)
+ - date_published: 2022-11-28T09:50:40+00:00
+ - tags: ['data leak', 'hackers', 'twitter']
+
  ## BSAG » Hold me closer, tiny keyboard
  - [https://www.rousette.org.uk/archives/hold-me-closer-tiny-keyboard](https://www.rousette.org.uk/archives/hold-me-closer-tiny-keyboard)
  - date_published: 2022-11-28T10:29:05+00:00
-
- ## Twitter data leak exposes over 5.4 million accounts
- - [https://www.engadget.com/twitter-data-for-54-million-users-leaked-online-095040426.html](https://www.engadget.com/twitter-data-for-54-million-users-leaked-online-095040426.html)
- - date_published: 2022-11-28T12:30:33+00:00
- - tags: ['data leak', 'hackers', 'twitter']
 
  ## Meta fined $276 million over Facebook data leak involving more than 533 million users
  - [https://www.theverge.com/2022/11/28/23481786/meta-fine-facebook-data-leak-ireland-dpc-gdpr](https://www.theverge.com/2022/11/28/23481786/meta-fine-facebook-data-leak-ireland-dpc-gdpr)
@@ -8436,6 +8433,11 @@
  - [https://www.androidauthority.com/oled-tv-vs-movie-theater-3241026](https://www.androidauthority.com/oled-tv-vs-movie-theater-3241026)
  - date_published: 2022-11-28T15:47:01+00:00
  - tags: ['cinema', 'movies']
+
+ ## Apple Has No Easy Road Out of China
+ - [https://www.wsj.com/articles/apple-has-no-easy-road-out-of-china-11669661578?mod=rss_Technology](https://www.wsj.com/articles/apple-has-no-easy-road-out-of-china-11669661578?mod=rss_Technology)
+ - date_published: 2022-11-28T18:52:00+00:00
+ - tags: ['apple', 'china']
 
  ## Tech Reporter at Bezos-Owned Washington Post Blasts Amazon: ‘Betraying Your Trust’ to ‘Make an Extra Buck’
  - [https://www.msn.com/en-us/money/companies/tech-reporter-at-bezos-owned-washington-post-blasts-amazon-betraying-your-trust-to-make-an-extra-buck/ar-AA14F0eZ](https://www.msn.com/en-us/money/companies/tech-reporter-at-bezos-owned-washington-post-blasts-amazon-betraying-your-trust-to-make-an-extra-buck/ar-AA14F0eZ)
@@ -8452,14 +8454,9 @@
  - date_published: 2022-11-29T00:00:00+00:00
  - tags: ['antitrust', 'big tech', 'facebook', 'mark zuckerberg', 'meta']
 
- ## Apple Has No Easy Road Out of China
- - [https://www.wsj.com/articles/apple-has-no-easy-road-out-of-china-11669661578?mod=rss_Technology](https://www.wsj.com/articles/apple-has-no-easy-road-out-of-china-11669661578?mod=rss_Technology)
- - date_published: 2022-11-29T04:02:00+00:00
- - tags: ['apple', 'china']
-
  ## Online Safety Bill changes: End-to-end encryption fears remain
  - [https://techmonitor.ai/policy/online-safety-bill-changes-end-to-end-encryption](https://techmonitor.ai/policy/online-safety-bill-changes-end-to-end-encryption)
- - date_published: 2022-11-29T06:50:23+00:00
+ - date_published: 2022-11-29T03:00:00+00:00
  - tags: ['big brother', 'england', 'government control', 'online safety bill', 'privacy', 'surveillance']
 
  ## New York Times, Guardian, other media outlets call on US to end prosecution of Julian Assange
@@ -8477,16 +8474,15 @@
  - date_published: 2022-11-29T13:17:21+00:00
  - tags: ['metaverse', 'sony']
 
+ ## Google and YouTube are investing to fight misinformation
+ - [https://mashable.com/article/google-youtube-fact-checking-misinformation](https://mashable.com/article/google-youtube-fact-checking-misinformation)
+ - date_published: 2022-11-29T13:20:10+00:00
+ - tags: ['algorithms', 'censorship', 'google', 'misinformation', 'moderation', 'youtube']
+
  ## Brazilian ‘protest’ video flagged as misinformation
  - [https://www.aap.com.au/factcheck/brazilian-protest-video-flagged-as-misinformation](https://www.aap.com.au/factcheck/brazilian-protest-video-flagged-as-misinformation)
  - date_published: 2022-11-29T14:25:40+00:00
  - tags: ['brazilia', 'censorship', 'crisis', 'misinformation', 'protest']
-
- ## Google and YouTube are investing to fight misinformation
- - [https://mashable.com/article/google-youtube-fact-checking-misinformation](https://mashable.com/article/google-youtube-fact-checking-misinformation)
- - date_published: 2022-11-29T15:15:41+00:00
- - tags: ['algorithms', 'censorship', 'google', 'misinformation', 'moderation', 'youtube']
- - date_dead_since: 2025-03-14T21:11:04.960949+00:00
 
  ## Deep Fake Zuckerberg Thanks Democrats for Their Service and Inaction on Antitrust
  - [https://gizmodo.com/deep-fake-zuckerberg-meta-antitrust-big-tech-1849830665](https://gizmodo.com/deep-fake-zuckerberg-meta-antitrust-big-tech-1849830665)
@@ -8504,11 +8500,19 @@
  - tags: ['hosting', 'internet', 'programming']
  - date_dead_since: 2024-04-21T01:15:07.516273+00:00
 
+ ## Is ESG An Investment Strategy Or The Path To A Sustainable World?
+ - [https://www.forbes.com/sites/jenniferhicks/2022/11/30/is-esg-an-investment-strategy-or-the-path-to-a-sustainable-world](https://www.forbes.com/sites/jenniferhicks/2022/11/30/is-esg-an-investment-strategy-or-the-path-to-a-sustainable-world)
+ - date_published: 2022-11-30T00:00:00+00:00
+ - tags: ['blackrock', 'esg']
+
  ## China to punish internet users for 'liking' posts in crackdown after zero-Covid protests
  - [https://www.cnn.com/2022/11/30/media/china-new-internet-rule-punish-liking-posts-intl-hnk/index.html](https://www.cnn.com/2022/11/30/media/china-new-internet-rule-punish-liking-posts-intl-hnk/index.html)
  - date_published: 2022-11-30T08:24:43+00:00
  - tags: ['censorship', 'china', 'covid zero']
- - date_dead_since: 2025-03-14T20:16:22.964237+00:00
+
+ ## At SpaceX, work was taken away from me in case I “might retire or die.”
+ - [https://www.lioness.co/post/at-spacex-work-was-taken-away-from-me-in-case-i-might-retire-or-die](https://www.lioness.co/post/at-spacex-work-was-taken-away-from-me-in-case-i-might-retire-or-die)
+ - date_published: 2022-11-30T13:45:02+00:00
 
  ## Ex-Twitter safety chief admits Hunter Biden laptop censorship was a ‘mistake’
  - [https://www.foxnews.com/media/twitter-safety-chief-admits-hunter-biden-laptop-censorship-mistake](https://www.foxnews.com/media/twitter-safety-chief-admits-hunter-biden-laptop-censorship-mistake)
@@ -8519,11 +8523,6 @@
  - [https://www.msn.com/en-us/news/technology/microsoft-365-faces-more-gdpr-headwinds-as-germany-bans-it-in-schools/ar-AA14K2aA](https://www.msn.com/en-us/news/technology/microsoft-365-faces-more-gdpr-headwinds-as-germany-bans-it-in-schools/ar-AA14K2aA)
  - date_published: 2022-11-30T15:03:20+00:00
  - tags: ['gdpr', 'germany', 'microsoft']
-
- ## Is ESG An Investment Strategy Or The Path To A Sustainable World?
- - [https://www.forbes.com/sites/jenniferhicks/2022/11/30/is-esg-an-investment-strategy-or-the-path-to-a-sustainable-world](https://www.forbes.com/sites/jenniferhicks/2022/11/30/is-esg-an-investment-strategy-or-the-path-to-a-sustainable-world)
- - date_published: 2022-11-30T16:00:00+00:00
- - tags: ['blackrock', 'esg']
 
  ## FTX billionaire Sam Bankman-Fried funneled dark money to Republicans
  - [https://www.theguardian.com/technology/2022/nov/30/ftx-billionaire-sam-bankman-fried-dark-money-republicans](https://www.theguardian.com/technology/2022/nov/30/ftx-billionaire-sam-bankman-fried-dark-money-republicans)
@@ -8544,10 +8543,6 @@
  - [https://www.cnn.com/videos/business/2022/12/01/china-covid-protests-foxconn-iphone-factory-wang-dnt-ebof-vpx.cnn](https://www.cnn.com/videos/business/2022/12/01/china-covid-protests-foxconn-iphone-factory-wang-dnt-ebof-vpx.cnn)
  - date_published: 2022-12-01T03:19:11+00:00
  - tags: ['china', 'foxconn', 'protest']
-
- ## At SpaceX, work was taken away from me in case I “might retire or die.”
- - [https://www.lioness.co/post/at-spacex-work-was-taken-away-from-me-in-case-i-might-retire-or-die](https://www.lioness.co/post/at-spacex-work-was-taken-away-from-me-in-case-i-might-retire-or-die)
- - date_published: 2022-12-01T07:55:07.124718+00:00
 
  ## After Disney's 'Strange World' bombs, film critic says ‘go woke, go broke’
  - [https://nypost.com/2022/12/01/after-disneys-strange-world-bombs-film-critic-says-go-woke-go-broke](https://nypost.com/2022/12/01/after-disneys-strange-world-bombs-film-critic-says-go-woke-go-broke)
@@ -8581,7 +8576,7 @@
 
  ## 78% of woke ESG funds that Biden wants 401ks to invest in UNDERPERFORMED market average
  - [https://www.dailymail.co.uk/news/article-11492253/78-woke-ESG-funds-Biden-wants-401ks-invest-UNDERPERFORMED-market-average.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11492253/78-woke-ESG-funds-Biden-wants-401ks-invest-UNDERPERFORMED-market-average.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - date_published: 2022-12-01T21:56:44+00:00
+ - date_published: 2022-12-01T21:44:00+00:00
  - tags: ['blackrock', 'esg', 'the left wing']
 
  ## Eufy's security cameras send data to the cloud without consent, and that's not the worst part
@@ -8589,20 +8584,19 @@
  - date_published: 2022-12-01T22:05:38+00:00
  - tags: ['eufy', 'privacy', 'smart devices']
 
+ ## Is Our Digital Future At Risk Because Of The Gen Z Skills Gap?
+ - [https://www.forbes.com/sites/bernardmarr/2022/12/02/is-our-digital-future-at-risk-because-of-the-gen-z-skills-gap](https://www.forbes.com/sites/bernardmarr/2022/12/02/is-our-digital-future-at-risk-because-of-the-gen-z-skills-gap)
+ - date_published: 2022-12-02T00:00:00+00:00
+
  ## China brings in ‘emergency’ level censorship over zero-Covid protests
  - [https://www.theguardian.com/world/2022/dec/02/china-brings-in-emergency-level-censorship-over-zero-covid-protests](https://www.theguardian.com/world/2022/dec/02/china-brings-in-emergency-level-censorship-over-zero-covid-protests)
  - date_published: 2022-12-02T05:06:26+00:00
  - tags: ['censorship', 'china', 'covid zero']
 
- ## Is Our Digital Future At Risk Because Of The Gen Z Skills Gap?
- - [https://www.forbes.com/sites/bernardmarr/2022/12/02/is-our-digital-future-at-risk-because-of-the-gen-z-skills-gap](https://www.forbes.com/sites/bernardmarr/2022/12/02/is-our-digital-future-at-risk-because-of-the-gen-z-skills-gap)
- - date_published: 2022-12-02T07:29:11+00:00
-
  ## When Will the Left Condemn Solar-Energy Slavery?
  - [https://www.nationalreview.com/2022/12/when-will-the-left-condemn-solar-energy-slavery](https://www.nationalreview.com/2022/12/when-will-the-left-condemn-solar-energy-slavery)
  - date_published: 2022-12-02T08:20:31+00:00
  - tags: ['climate change', 'co2', 'slavery']
- - date_dead_since: 2025-03-14T17:20:42.228868+00:00
 
  ## Google i Facebook muszą dzielić się wpływami z lokalnymi wydawcami
  - [https://forsal.pl/swiat/aktualnosci/artykuly/8601248,australia-google-facebook-regulacje-lokalni-wydawcy.html](https://forsal.pl/swiat/aktualnosci/artykuly/8601248,australia-google-facebook-regulacje-lokalni-wydawcy.html)
@@ -8615,6 +8609,11 @@
  - tags: ['gender', 'indoctrination', 'sexism', 'spain', 'the left wing']
  - date_dead_since: 2024-10-13T18:32:21.704803+00:00
 
+ ## The reasons search seems to be getting worse
+ - [https://seths.blog/2022/12/the-reasons-search-is-getting-worse](https://seths.blog/2022/12/the-reasons-search-is-getting-worse)
+ - date_published: 2022-12-02T09:34:00+00:00
+ - tags: ['dead internet', 'google', 'search engines']
+
  ## Smartphones wiped out 97% of the compact camera market
  - [https://asia.nikkei.com/Business/Business-trends/Panasonic-Nikon-quit-developing-low-end-compact-digital-cameras](https://asia.nikkei.com/Business/Business-trends/Panasonic-Nikon-quit-developing-low-end-compact-digital-cameras)
  - date_published: 2022-12-02T10:25:16+00:00
@@ -8626,11 +8625,6 @@
  - tags: ['china', 'social credit', 'social media', 'surveillance']
  - date_dead_since: 2025-03-14T14:01:00.212178+00:00
 
- ## The reasons search seems to be getting worse
- - [https://seths.blog/2022/12/the-reasons-search-is-getting-worse](https://seths.blog/2022/12/the-reasons-search-is-getting-worse)
- - date_published: 2022-12-02T14:33:55+00:00
- - tags: ['dead internet', 'google', 'search engines']
-
  ## FBI met weekly with Big Tech ahead of the 2020 election, agent testifies
  - [https://www.foxnews.com/politics/fbi-weekly-big-tech-ahead-2020-election-agent-testifies](https://www.foxnews.com/politics/fbi-weekly-big-tech-ahead-2020-election-agent-testifies)
  - date_published: 2022-12-02T16:57:22+00:00
@@ -8638,7 +8632,7 @@
 
  ## Republicans go to war with Biden's 401k ESG 'cancer'
  - [https://www.dailymail.co.uk/news/article-11490637/Republicans-war-Bidens-401k-ESG-cancer.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11490637/Republicans-war-Bidens-401k-ESG-cancer.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - date_published: 2022-12-02T17:03:30+00:00
+ - date_published: 2022-12-02T16:59:12+00:00
  - tags: ['blackrock', 'esg']
 
  ## Ubuntu's Snap performs application updates without user consent

@@ -874,11 +874,6 @@
  - tags: ['corporatocracy', 'google', 'privacy']
  - date_dead_since: 2025-04-26T13:36:15.822979+00:00
 
- ## A look at search engines with their own indexes
- - [https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes](https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes)
- - date_published: 2024-06-09T17:28:50+00:00
- - tags: ['search engines', 'seo']
-
  ## Pride crosswalk damaged hours after repaint; suspects arrested
  - [https://www.spokesman.com/stories/2024/jun/06/pride-crosswalk-damaged-hours-after-repaint-suspec](https://www.spokesman.com/stories/2024/jun/06/pride-crosswalk-damaged-hours-after-repaint-suspec)
  - date_published: 2024-06-10T11:19:27+00:00

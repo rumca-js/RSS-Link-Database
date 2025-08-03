@@ -1922,11 +1922,11 @@
         "permanent": false,
         "source__id": 341,
         "source_url": "https://www.theguardian.com/international/rss",
-        "status_code": 0,
+        "status_code": 200,
         "tags": [
             "digital money"
         ],
-        "thumbnail": "https://i.guim.co.uk/img/media/0efcf09814cebc45b820643ada16f095dd1c014e/0_0_4928_2957/master/4928.jpg?width=140&quality=85&auto=format&fit=max&s=2f1ad8caf3888b74476b894fc6556c7a",
+        "thumbnail": "https://i.guim.co.uk/img/media/0efcf09814cebc45b820643ada16f095dd1c014e/0_0_4928_2957/master/4928.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=990fba0803a16c1de8ee8ef9f69a86f9",
         "title": "As cyberwarfare threat looms, cashless Nordic nations go back to banknotes | Miranda Bryant",
         "vote": 10
     },
@@ -1944,20 +1944,20 @@
         "language": "en-us",
         "link": "https://www.nytimes.com/2025/03/16/opinion/covid-pandemic-lab-leak.html",
         "manual_status_code": 0,
-        "page_rating": 27,
+        "page_rating": 30,
         "page_rating_contents": 86,
-        "page_rating_visits": 0,
+        "page_rating_visits": 3,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 229,
         "source_url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
-        "status_code": 0,
+        "status_code": 200,
         "tags": [
             "covid",
             "lab leak",
             "wuhan"
         ],
-        "thumbnail": "https://static01.nyt.com/images/2025/03/17/multimedia/16tufekci-bqkj/16tufekci-bqkj-mediumSquareAt3X-v2.jpg",
+        "thumbnail": "https://static01.nyt.com/images/2025/03/17/multimedia/16tufekci-bqkj/16tufekci-bqkj-facebookJumbo-v2.jpg",
         "title": "We Were Badly Misled About Covid",
         "vote": 0
     },
