@@ -532,6 +532,10 @@
  - date_published: 2018-08-21T04:26:57+00:00
  - tags: ['big tech', 'google', 'privacy', 'surveillance']
 
+ ## I recorded user behaviour on my competitor’s websites (2018)
+ - [https://dejanmarketing.com/competitor-hack](https://dejanmarketing.com/competitor-hack)
+ - date_published: 2018-08-21T10:56:14+00:00
+
  ## The Origin of Consciousness in the Breakdown of the Bicameral Mind
  - [https://notrelated.xyz/audio/s01/S01E01_-_The_Origin_of_Consciousness_in_the_Breakdown_of_the_Bicameral_Mind.mp3](https://notrelated.xyz/audio/s01/S01E01_-_The_Origin_of_Consciousness_in_the_Breakdown_of_the_Bicameral_Mind.mp3)
  - date_published: 2018-08-24T04:00:00+00:00

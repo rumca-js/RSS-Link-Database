@@ -3194,6 +3194,11 @@
  - date_published: 2021-10-21T21:51:12+00:00
  - tags: ['immigration']
 
+ ## Fauci’s agency admits it funded gain-of-function work in Wuhan: What else are they keeping from us?
+ - [https://nypost.com/2021/10/21/faucis-agency-admits-it-funded-gain-of-function-work-in-wuhan-what-else-are-they-keeping-from-us](https://nypost.com/2021/10/21/faucis-agency-admits-it-funded-gain-of-function-work-in-wuhan-what-else-are-they-keeping-from-us)
+ - date_published: 2021-10-21T23:39:00+00:00
+ - tags: ['anthony fauci', 'covid', 'wuhan']
+
  ## Parson doubles down on push to prosecute reporter who found security flaw in state site • Missouri Independent
  - [https://missouriindependent.com/2021/10/21/parson-doubles-down-on-push-to-prosecute-reporter-who-found-security-flaw-in-state-site](https://missouriindependent.com/2021/10/21/parson-doubles-down-on-push-to-prosecute-reporter-who-found-security-flaw-in-state-site)
  - date_published: 2021-10-22T07:35:26.707398+00:00
@@ -4029,6 +4034,10 @@
  - [https://www.priv.gc.ca/en/opc-news/news-and-announcements/2021/an_211214](https://www.priv.gc.ca/en/opc-news/news-and-announcements/2021/an_211214)
  - date_published: 2021-12-14T19:19:51+00:00
  - tags: ['artificial intelligence', 'big brother', 'biometric', 'clearview ai', 'facial recognition', 'privacy', 'surveillance']
+
+ ## Anti-Patterns in Startup Engineering Hiring
+ - [https://blog.southparkcommons.com/startup-engineering-hiring-anti-patterns](https://blog.southparkcommons.com/startup-engineering-hiring-anti-patterns)
+ - date_published: 2021-12-14T19:21:10+00:00
 
  ## Facebook admits the truth: 'Fact checks' are really just (lefty) opinion
  - [https://nypost.com/2021/12/14/facebook-admits-the-truth-fact-checks-are-really-just-lefty-opinion](https://nypost.com/2021/12/14/facebook-admits-the-truth-fact-checks-are-really-just-lefty-opinion)

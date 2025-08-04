@@ -108,6 +108,11 @@
  - date_published: 2017-03-15T11:01:12+00:00
  - tags: ['abortion']
 
+ ## The Cult of Dd
+ - [https://eklitzke.org/the-cult-of-dd](https://eklitzke.org/the-cult-of-dd)
+ - date_published: 2017-03-17T00:00:00+00:00
+ - tags: ['linux', 'scripts']
+
  ## Szef Ringier Axel Springer instruuje swoich dziennikarzy, jak oceniać polski rząd. Wysłał specjalny list
  - [https://www.tysol.pl/a5495-szef-ringier-axel-springer-instruuje-swoich-dziennikarzy-jak-oceniac-polski-rzad-wyslal-specjalny-list](https://www.tysol.pl/a5495-szef-ringier-axel-springer-instruuje-swoich-dziennikarzy-jak-oceniac-polski-rzad-wyslal-specjalny-list)
  - date_published: 2017-03-17T07:40:17+00:00
@@ -152,6 +157,11 @@
  - [https://hongkongfp.com/2017/04/08/satirical-news-show-china-uncensored-censored-apple-hong-kong-taiwan](https://hongkongfp.com/2017/04/08/satirical-news-show-china-uncensored-censored-apple-hong-kong-taiwan)
  - date_published: 2017-04-07T16:06:29+00:00
  - tags: ['apple', 'censorship', 'china']
+
+ ## We’re Dropping Google Ads (2017)
+ - [https://www.groundup.org.za/article/why-were-dropping-google-ads](https://www.groundup.org.za/article/why-were-dropping-google-ads)
+ - date_published: 2017-04-10T14:46:41+00:00
+ - tags: ['ad business', 'google']
 
  ## EternalBlue - Wikipedia
  - [https://en.wikipedia.org/wiki/EternalBlue](https://en.wikipedia.org/wiki/EternalBlue)
