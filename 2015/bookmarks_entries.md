@@ -275,6 +275,11 @@
  - date_published: 2015-10-15T00:00:00+00:00
  - tags: ['all time', 'corporatocracy', 'manufacturing consent', 'noam chomsky', 'propaganda', 'social media']
 
+ ## Why It’s OK to Block Ads (2015)
+ - [http://blog.practicalethics.ox.ac.uk/2015/10/why-its-ok-to-block-ads](http://blog.practicalethics.ox.ac.uk/2015/10/why-its-ok-to-block-ads)
+ - date_published: 2015-10-16T15:05:10+00:00
+ - tags: ['ad business']
+
  ## How to Control What People Do | Propaganda - EDWARD BERNAYS | Animated Book Summary
  - [https://www.youtube.com/watch?v=8Q-3qwEDyPM](https://www.youtube.com/watch?v=8Q-3qwEDyPM)
  - date_published: 2015-10-26T00:00:00+00:00

@@ -580,3 +580,18 @@
  - date_published: 2025-07-18T11:11:11+00:00
  - tags: ['jeffrey epstein']
 
+ ## Trump’s Epstein Fiasco Takes Darker Turn as Dem Senator Drops New Bomb
+ - [https://newrepublic.com/article/198247/trump-epstein-fiasco-ron-wyden](https://newrepublic.com/article/198247/trump-epstein-fiasco-ron-wyden)
+ - date_published: 2025-07-23T00:00:00+00:00
+ - tags: ['jeffrey epstein']
+
+ ## New attacks in Nigeria leave 200+ dead
+ - [https://www.opendoorsus.org/en-US/stories/new-attacks-in-nigeria-leave-200-dead](https://www.opendoorsus.org/en-US/stories/new-attacks-in-nigeria-leave-200-dead)
+ - date_published: 2025-08-04T14:29:39.397275+00:00
+ - tags: ['christianophobia']
+
+ ## The Epstein Files: Trump, Trafficking, and the Unraveling Cover-Up - Divisions by zero
+ - [https://lemmy.dbzer0.com/post/49344563](https://lemmy.dbzer0.com/post/49344563)
+ - date_published: 2025-08-04T14:29:42.250545+00:00
+ - tags: ['jeffrey epstein']
+

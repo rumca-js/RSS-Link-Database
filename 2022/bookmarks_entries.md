@@ -2053,6 +2053,11 @@
  - [https://rachelbythebay.com/w/2022/04/29/bsd](https://rachelbythebay.com/w/2022/04/29/bsd)
  - date_published: 2022-04-30T07:16:33.213228+00:00
 
+ ## Why is Canada euthanising the poor?
+ - [https://www.spectator.co.uk/article/why-is-canada-euthanising-the-poor-](https://www.spectator.co.uk/article/why-is-canada-euthanising-the-poor-)
+ - date_published: 2022-04-30T08:00:30+00:00
+ - tags: ['canada', 'depopulation', 'euthanasia', 'social engineering']
+
  ## Crafting “Crafting Interpreters” – journal.stuffwithstuff.com
  - [https://journal.stuffwithstuff.com/2020/04/05/crafting-crafting-interpreters](https://journal.stuffwithstuff.com/2020/04/05/crafting-crafting-interpreters)
  - date_published: 2022-04-30T08:10:51+00:00
@@ -3131,6 +3136,11 @@
  - date_published: 2022-07-17T22:50:53+00:00
  - tags: ['climate change', 'climate drama', 'great new deal']
 
+ ## Gender activists push to bar anthropologists from identifying human remains as ‘male’ or ‘female’
+ - [https://www.thecollegefix.com/gender-activists-push-to-bar-anthropologists-from-identifying-human-remains-as-male-or-female](https://www.thecollegefix.com/gender-activists-push-to-bar-anthropologists-from-identifying-human-remains-as-male-or-female)
+ - date_published: 2022-07-18T04:08:01+00:00
+ - tags: ['gender', 'newspeak', 'science', 'the left wing', 'transgender']
+
  ## Denmark bans Google Workspace over GDPR non-compliance
  - [https://techmonitor.ai/policy/privacy-and-data-protection/denmark-google-ban-workspace-chromebook-gdpr](https://techmonitor.ai/policy/privacy-and-data-protection/denmark-google-ban-workspace-chromebook-gdpr)
  - date_published: 2022-07-18T08:54:28+00:00
@@ -3449,6 +3459,10 @@
  ## Nobody Wants to Teach Anymore. Everyone should know why. | by Jessica Wildfire | Aug, 2022 | Medium
  - [https://jessicalexicus.medium.com/nobody-wants-to-teach-anymore-66f09b877b11](https://jessicalexicus.medium.com/nobody-wants-to-teach-anymore-66f09b877b11)
  - date_published: 2022-08-08T00:20:05+00:00
+
+ ## Shirts That Go Hard's creator is now going a little less hard
+ - [https://www.inputmag.com/culture/shirts-that-go-hard-twitter-algorithm-creator-interview](https://www.inputmag.com/culture/shirts-that-go-hard-twitter-algorithm-creator-interview)
+ - date_published: 2022-08-08T17:57:28+00:00
 
  ## I Don’t Like Go’s Default HTTP Handlers · Preslav Rachev
  - [https://preslav.me/2022/08/09/i-dont-like-golang-default-http-handlers](https://preslav.me/2022/08/09/i-dont-like-golang-default-http-handlers)
@@ -4316,6 +4330,11 @@
  - date_published: 2022-09-07T15:36:58+00:00
  - tags: ['lgbt', 'netflix', 'the left wing']
 
+ ## Apple’s Killing the Password. Here’s Everything You Need to Know
+ - [https://www.wired.com/story/apple-passkeys-password-iphone-mac-ios16-ventura](https://www.wired.com/story/apple-passkeys-password-iphone-mac-ios16-ventura)
+ - date_published: 2022-09-07T18:45:36+00:00
+ - tags: ['password']
+
  ## Your attention span is being robbed!
  - [https://unstructed.tech/2022/09/07/your-attention-span-is-being-robbed](https://unstructed.tech/2022/09/07/your-attention-span-is-being-robbed)
  - date_published: 2022-09-07T21:30:19+00:00
@@ -4334,25 +4353,40 @@
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58810](https://www.codeproject.com/script/News/View.aspx?nwid=58810)
  - date_published: 2022-09-08T04:00:00+00:00
  - tags: ['corporatocracy', 'facebook', 'meta', 'privacy']
+ - date_dead_since: 2025-08-04T23:38:27.905848+00:00
 
  ## The EU’s AI Act could have a chilling effect on open source efforts, experts warn
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58818](https://www.codeproject.com/script/News/View.aspx?nwid=58818)
  - date_published: 2022-09-08T04:00:00+00:00
  - tags: ['artificial intelligence', 'open source']
 
- ## Why It’s OK to Block Ads (2015)
- - [http://blog.practicalethics.ox.ac.uk/2015/10/why-its-ok-to-block-ads](http://blog.practicalethics.ox.ac.uk/2015/10/why-its-ok-to-block-ads)
- - date_published: 2022-09-08T08:33:08+00:00
- - tags: ['ad business']
+ ## iPhone = Privacy?
+ - [https://kerkour.com/iphone-privacy](https://kerkour.com/iphone-privacy)
+ - date_published: 2022-09-08T06:00:00+00:00
+ - tags: ['apple', 'iphone', 'privacy']
 
  ## 'Peppa Pig' debuts lesbian polar bear couple on popular children's cartoon
  - [https://www.foxnews.com/entertainment/peppa-pig-debuts-lesbian-polar-bear-couple-popular-childrens-cartoon](https://www.foxnews.com/entertainment/peppa-pig-debuts-lesbian-polar-bear-couple-popular-childrens-cartoon)
  - date_published: 2022-09-08T08:35:00+00:00
  - tags: ['lgbt', 'propaganda', 'the left wing']
 
+ ## MEP Cristian Terhes Grills AstraZeneca, Moderna About Vaccines and Contracts During EU Covid Committee Meeting - Europe Reloaded
+ - [https://www.europereloaded.com/mep-cristian-terhes-grills-astrazeneca-moderna-about-vaccines-and-vaccine-contracts-during-eu-covid-committee-meeting](https://www.europereloaded.com/mep-cristian-terhes-grills-astrazeneca-moderna-about-vaccines-and-vaccine-contracts-during-eu-covid-committee-meeting)
+ - date_published: 2022-09-08T11:29:53+00:00
+ - tags: ['covid', 'cristian terhes', 'vaccine']
+
+ ## http://http://http://@http://http://?http://#http:// | daniel.haxx.se
+ - [https://daniel.haxx.se/blog/2022/09/08/http-http-http-http-http-http-http](https://daniel.haxx.se/blog/2022/09/08/http-http-http-http-http-http-http)
+ - date_published: 2022-09-08T13:43:08+00:00
+
  ## Niemcy mają problem z gazem. Możliwe blackouty
  - [https://www.bankier.pl/wiadomosc/Niemcy-maja-problem-gazem-Mozliwe-blackouty-8402880.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Niemcy-maja-problem-gazem-Mozliwe-blackouty-8402880.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date_published: 2022-09-08T15:31:00+00:00
+
+ ## More than 80% of websites you visit are stealing your data
+ - [https://www.digitaltrends.com/computing/over-80-of-websites-you-visit-could-be-leaking-your-data](https://www.digitaltrends.com/computing/over-80-of-websites-you-visit-could-be-leaking-your-data)
+ - date_published: 2022-09-08T16:58:58+00:00
+ - tags: ['big tech', 'internet', 'privacy', 'social media', 'surveillance']
 
  ## Why the iPhone 14's eSIM Might Be a Problem for You
  - [https://lifehacker.com/why-the-iphone-14s-esim-might-be-a-problem-for-you-1849512200](https://lifehacker.com/why-the-iphone-14s-esim-might-be-a-problem-for-you-1849512200)
@@ -4364,19 +4398,10 @@
  - date_published: 2022-09-08T20:43:45+00:00
  - tags: ['extremism', 'maga', 'the right wing']
 
- ## http://http://http://@http://http://?http://#http:// | daniel.haxx.se
- - [https://daniel.haxx.se/blog/2022/09/08/http-http-http-http-http-http-http](https://daniel.haxx.se/blog/2022/09/08/http-http-http-http-http-http-http)
- - date_published: 2022-09-08T21:35:28.606984+00:00
-
  ## How Singapore Got Insanely Rich
  - [https://www.youtube.com/watch?v=XSOgcpRbrCo](https://www.youtube.com/watch?v=XSOgcpRbrCo)
  - date_published: 2022-09-09T00:00:00+00:00
  - tags: ['singapore']
-
- ## Apple’s Killing the Password. Here’s Everything You Need to Know
- - [https://www.wired.com/story/apple-passkeys-password-iphone-mac-ios16-ventura](https://www.wired.com/story/apple-passkeys-password-iphone-mac-ios16-ventura)
- - date_published: 2022-09-09T03:43:38+00:00
- - tags: ['password']
 
  ## Netflix ma zaprzestać nieprzyzwoitych treści LGBT m.in. w materiałach dla dzieci
  - [https://ithardware.pl/aktualnosci/netflix_ma_zaprzestac_nieprzyzwoitych_tresci_lgbt_m_in_w_materialach_dla_dzieci-23202.html](https://ithardware.pl/aktualnosci/netflix_ma_zaprzestac_nieprzyzwoitych_tresci_lgbt_m_in_w_materialach_dla_dzieci-23202.html)
@@ -4385,11 +4410,6 @@
  ## Developing Situation: Something is up with Patreon - Xe
  - [https://xeiaso.net/blog/patreon-happening](https://xeiaso.net/blog/patreon-happening)
  - date_published: 2022-09-09T08:47:46.525349+00:00
-
- ## More than 80% of websites you visit are stealing your data
- - [https://www.digitaltrends.com/computing/over-80-of-websites-you-visit-could-be-leaking-your-data](https://www.digitaltrends.com/computing/over-80-of-websites-you-visit-could-be-leaking-your-data)
- - date_published: 2022-09-09T10:30:55.970530+00:00
- - tags: ['big tech', 'internet', 'privacy', 'social media', 'surveillance']
 
  ## Google and Amazon Workers Fill Streets To Protest Israel's 'Project Nimbus'
  - [https://gizmodo.com/project-nimbus-protest-amazon-google-palestine-cloud-1849514805](https://gizmodo.com/project-nimbus-protest-amazon-google-palestine-cloud-1849514805)
@@ -4412,6 +4432,7 @@
  - [https://www.wsj.com/articles/renewables-carbon-credits-do-not-cut-emissions-united-nations-verra-gold-standard-11662644900](https://www.wsj.com/articles/renewables-carbon-credits-do-not-cut-emissions-united-nations-verra-gold-standard-11662644900)
  - date_published: 2022-09-09T16:01:08+00:00
  - tags: ['climate change', 'climate drama', 'science is dead']
+ - date_dead_since: 2025-08-04T22:14:09.512952+00:00
 
  ## Lauded Federal Data Privacy Bill Has A Carveout For Government Surveillance
  - [https://www.dailywire.com/news/lauded-federal-data-privacy-bill-has-a-carveout-for-government-surveillance](https://www.dailywire.com/news/lauded-federal-data-privacy-bill-has-a-carveout-for-government-surveillance)
@@ -4420,6 +4441,10 @@
  ## Apple could lose billions after DOJ slaps Google with antitrust action
  - [https://www.androidauthority.com/google-doj-antitrust-action-3207188](https://www.androidauthority.com/google-doj-antitrust-action-3207188)
  - date_published: 2022-09-09T16:31:43+00:00
+
+ ## Hackers can now sneak malware into the GIFs you share
+ - [https://www.digitaltrends.com/computing/hackers-sneak-malware-into-gifs](https://www.digitaltrends.com/computing/hackers-sneak-malware-into-gifs)
+ - date_published: 2022-09-09T17:16:02+00:00
 
  ## 1249 Athlete Heart Attacks, 847 Dead, Since Last Year - Slay News
  - [https://slaynews.com/news/1249-athlete-heart-attacks-847-dead-since-last-year](https://slaynews.com/news/1249-athlete-heart-attacks-847-dead-since-last-year)
@@ -4439,29 +4464,25 @@
  - [https://chrisx.xyz/blog/regarding-esim-only-iphone-14-in-the-us](https://chrisx.xyz/blog/regarding-esim-only-iphone-14-in-the-us)
  - date_published: 2022-09-09T23:05:04+00:00
 
- ## Hackers can now sneak malware into the GIFs you share
- - [https://www.digitaltrends.com/computing/hackers-sneak-malware-into-gifs](https://www.digitaltrends.com/computing/hackers-sneak-malware-into-gifs)
- - date_published: 2022-09-10T08:40:16.781536+00:00
-
  ## FBI Hiding Potentially Explosive Records On Jeffrey Epstein, Internet Sleuth Claims After FOIA Denial
  - [https://www.dailywire.com/news/fbi-hiding-potentially-explosive-records-on-jeffrey-epstein-internet-sleuth-claims-after-foia-denial](https://www.dailywire.com/news/fbi-hiding-potentially-explosive-records-on-jeffrey-epstein-internet-sleuth-claims-after-foia-denial)
  - date_published: 2022-09-10T09:48:01+00:00
  - tags: ['big brother', 'fbi', 'jeffrey epstein']
 
+ ## Cancer breakthrough is a ‘wake-up’ call on danger of air pollution
+ - [https://www.theguardian.com/science/2022/sep/10/cancer-breakthrough-is-a-wake-up-call-on-danger-of-air-pollution](https://www.theguardian.com/science/2022/sep/10/cancer-breakthrough-is-a-wake-up-call-on-danger-of-air-pollution)
+ - date_published: 2022-09-10T11:08:41+00:00
+ - tags: ['cancer', 'climate change', 'pollution']
+
+ ## Miliony dawek zalegają w magazynach, a Polska kupuje nowe
+ - [https://nczas.com/2022/09/10/miliony-dawek-zalegaja-w-magazynach-a-polska-kupuje-nowe-teraz-szczepionki-celowane-zaktualizowane-a-nawet-adaptowane](https://nczas.com/2022/09/10/miliony-dawek-zalegaja-w-magazynach-a-polska-kupuje-nowe-teraz-szczepionki-celowane-zaktualizowane-a-nawet-adaptowane)
+ - date_published: 2022-09-10T12:14:30+00:00
+ - tags: ['covid', 'covid money']
+
  ## Credit card companies are going to flag and track if you exercise your second amendment right
  - [https://www.louderwithcrowder.com/credit-cards-track-gun-purchases](https://www.louderwithcrowder.com/credit-cards-track-gun-purchases)
  - date_published: 2022-09-10T14:00:15+00:00
  - tags: ['big brother', 'censorship', 'corporatocracy', 'government']
-
- ## Miliony dawek zalegają w magazynach, a Polska kupuje nowe
- - [https://nczas.com/2022/09/10/miliony-dawek-zalegaja-w-magazynach-a-polska-kupuje-nowe-teraz-szczepionki-celowane-zaktualizowane-a-nawet-adaptowane](https://nczas.com/2022/09/10/miliony-dawek-zalegaja-w-magazynach-a-polska-kupuje-nowe-teraz-szczepionki-celowane-zaktualizowane-a-nawet-adaptowane)
- - date_published: 2022-09-10T16:05:07+00:00
- - tags: ['covid', 'covid money']
-
- ## Cancer breakthrough is a ‘wake-up’ call on danger of air pollution
- - [https://www.theguardian.com/science/2022/sep/10/cancer-breakthrough-is-a-wake-up-call-on-danger-of-air-pollution](https://www.theguardian.com/science/2022/sep/10/cancer-breakthrough-is-a-wake-up-call-on-danger-of-air-pollution)
- - date_published: 2022-09-10T16:12:36+00:00
- - tags: ['cancer', 'climate change', 'pollution']
 
  ## Intelowi zakazano produkcji procesorów w Chinach przez następne 10 lat
  - [https://www.wykop.pl/link/6811875/intelowi-zakazano-produkcji-procesorow-w-chinach-przez-nastepne-10-lat](https://www.wykop.pl/link/6811875/intelowi-zakazano-produkcji-procesorow-w-chinach-przez-nastepne-10-lat)
@@ -4493,7 +4514,7 @@
  ## Old School Unix Administration (My Next Homelab Generation) — scholz.ruhr
  - [https://scholz.ruhr/blog/old-school-unix-administration](https://scholz.ruhr/blog/old-school-unix-administration)
  - date_published: 2022-09-11T23:27:18.388329+00:00
- - date_dead_since: 2025-03-19T15:49:06.789047+00:00
+ - date_dead_since: 2025-08-04T20:54:42.278732+00:00
 
  ## New Linux malware combines unusual stealth with a full suite of capabilities
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58841](https://www.codeproject.com/script/News/View.aspx?nwid=58841)
@@ -4510,6 +4531,11 @@
  - date_published: 2022-09-12T05:08:58+00:00
  - tags: ['china', 'covid', 'lockdown']
 
+ ## The Sordid Saga of Hunter Biden’s Laptop
+ - [https://nymag.com/intelligencer/article/hunter-biden-laptop-investigation.html](https://nymag.com/intelligencer/article/hunter-biden-laptop-investigation.html)
+ - date_published: 2022-09-12T06:00:07+00:00
+ - tags: ['hunter biden', 'joe biden']
+
  ## What does iPhone 14's switch to eSIM mean for privacy, security, and travel?
  - [https://www.zdnet.com/article/what-does-iphone-14s-switch-to-esim-mean-for-privacy-security-and-travel/#ftag=RSSbaffb68](https://www.zdnet.com/article/what-does-iphone-14s-switch-to-esim-mean-for-privacy-security-and-travel/#ftag=RSSbaffb68)
  - date_published: 2022-09-12T13:16:57+00:00
@@ -4517,7 +4543,6 @@
  ## Why we should link student loan forgiveness to national service | The Hill
  - [https://thehill.com/opinion/national-security/3631250-why-we-should-link-student-loan-forgiveness-to-national-service](https://thehill.com/opinion/national-security/3631250-why-we-should-link-student-loan-forgiveness-to-national-service)
  - date_published: 2022-09-12T13:55:38.873906+00:00
- - date_dead_since: 2024-10-17T01:25:06.943782+00:00
 
  ## Bankructwa albo mocne podwyżki. Branża handlowa apeluje o wsparcie w związku z kosztami energii
  - [https://www.bankier.pl/wiadomosc/Bankructwa-albo-mocne-podwyzki-Branza-handlowa-apeluje-o-wsparcie-w-zwiazku-z-kosztami-energii-8404534.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Bankructwa-albo-mocne-podwyzki-Branza-handlowa-apeluje-o-wsparcie-w-zwiazku-z-kosztami-energii-8404534.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -4526,11 +4551,6 @@
  ## Rodzice masowo odmawiają obowiązkowych szczepień. Padł rekord
  - [https://www.wykop.pl/link/6813711/rodzice-masowo-odmawiaja-obowiazkowych-szczepien-padl-rekord](https://www.wykop.pl/link/6813711/rodzice-masowo-odmawiaja-obowiazkowych-szczepien-padl-rekord)
  - date_published: 2022-09-12T16:29:02+00:00
-
- ## The Sordid Saga of Hunter Biden’s Laptop
- - [https://nymag.com/intelligencer/article/hunter-biden-laptop-investigation.html](https://nymag.com/intelligencer/article/hunter-biden-laptop-investigation.html)
- - date_published: 2022-09-12T16:44:59+00:00
- - tags: ['hunter biden', 'joe biden']
 
  ## Google now owns the firm that found SolarWinds
  - [https://www.theverge.com/2022/9/12/23349213/google-mandiant-acquisition-cloud-security-threat-intelligence](https://www.theverge.com/2022/9/12/23349213/google-mandiant-acquisition-cloud-security-threat-intelligence)
@@ -4639,6 +4659,11 @@
  - date_published: 2022-09-13T23:53:24+00:00
  - tags: ['data', 'project', 'selfhost']
 
+ ## Disney’s ‘Little Mermaid’ Backlash Has Reached Insane Heights
+ - [https://www.forbes.com/sites/danidiplacido/2022/09/14/disneys-little-mermaid-backlash-has-reached-insane-heights](https://www.forbes.com/sites/danidiplacido/2022/09/14/disneys-little-mermaid-backlash-has-reached-insane-heights)
+ - date_published: 2022-09-14T00:00:00+00:00
+ - tags: ['movies']
+
  ## KFC secret recipe: Uproar after additive in fried chicken seasoning is exposed
  - [https://www.dailymail.co.uk/news/article-11209485/KFC-secret-recipe-Uproar-additive-fried-chicken-seasoning-exposed.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11209485/KFC-secret-recipe-Uproar-additive-fried-chicken-seasoning-exposed.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date_published: 2022-09-14T01:40:11+00:00
@@ -4654,10 +4679,10 @@
  - date_published: 2022-09-14T05:56:00+00:00
  - tags: ['bulgaria', 'demographics']
 
- ## Disney’s ‘Little Mermaid’ Backlash Has Reached Insane Heights
- - [https://www.forbes.com/sites/danidiplacido/2022/09/14/disneys-little-mermaid-backlash-has-reached-insane-heights](https://www.forbes.com/sites/danidiplacido/2022/09/14/disneys-little-mermaid-backlash-has-reached-insane-heights)
- - date_published: 2022-09-14T08:05:23+00:00
- - tags: ['movies']
+ ## European Commission’s EU digital identity wallet pilot program proposed by six countries « Euro Weekly News
+ - [https://euroweeklynews.com/2022/09/14/eu-digital-identity-wallet](https://euroweeklynews.com/2022/09/14/eu-digital-identity-wallet)
+ - date_published: 2022-09-14T10:44:41+00:00
+ - tags: ['digital identity', 'government control']
 
  ## Google loses appeal over record EU anti-trust Android fine
  - [https://www.bbc.co.uk/news/technology-62888137?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-62888137?at_medium=RSS&at_campaign=KARANGA)
@@ -4677,24 +4702,24 @@
  - [https://www.louderwithcrowder.com/jake-paul-free-speech](https://www.louderwithcrowder.com/jake-paul-free-speech)
  - date_published: 2022-09-14T13:02:58+00:00
 
+ ## Google loses EU appeal and is fined a record $4B
+ - [https://www.axios.com/2022/09/14/google-loses-appeal-eu-antitrust-ruling](https://www.axios.com/2022/09/14/google-loses-appeal-eu-antitrust-ruling)
+ - date_published: 2022-09-14T13:06:28+00:00
+ - tags: ['big tech', 'corporatocracy', 'google', 'monopoly']
+
+ ## Progressives who turned San Fran into a hellhole are begging for ideas to save city: DAVID MARCUS
+ - [https://www.dailymail.co.uk/news/article-11206757/Progressives-turned-San-Fran-hellhole-begging-ideas-save-city-DAVID-MARCUS.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11206757/Progressives-turned-San-Fran-hellhole-begging-ideas-save-city-DAVID-MARCUS.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - date_published: 2022-09-14T13:26:08+00:00
+
  ## DuckDuckGo, Proton, Mozilla throw weight behind bill targeting Big Tech ‘surveillance’
  - [https://www.techradar.com/news/duckduckgo-proton-mozilla-throw-weight-behind-bill-targeting-big-tech-surveillance](https://www.techradar.com/news/duckduckgo-proton-mozilla-throw-weight-behind-bill-targeting-big-tech-surveillance)
  - date_published: 2022-09-14T13:38:37+00:00
  - tags: ['big tech', 'duckduckgo', 'mozilla', 'surveillance']
 
- ## Progressives who turned San Fran into a hellhole are begging for ideas to save city: DAVID MARCUS
- - [https://www.dailymail.co.uk/news/article-11206757/Progressives-turned-San-Fran-hellhole-begging-ideas-save-city-DAVID-MARCUS.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11206757/Progressives-turned-San-Fran-hellhole-begging-ideas-save-city-DAVID-MARCUS.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - date_published: 2022-09-14T13:44:20+00:00
-
  ## Ever wondered how a QR code works?
  - [https://typefully.com/DanHollick/qr-codes-T7tLlNi](https://typefully.com/DanHollick/qr-codes-T7tLlNi)
  - date_published: 2022-09-14T14:17:43+00:00
  - tags: ['qr codes']
-
- ## European Commission’s EU digital identity wallet pilot program proposed by six countries « Euro Weekly News
- - [https://euroweeklynews.com/2022/09/14/eu-digital-identity-wallet](https://euroweeklynews.com/2022/09/14/eu-digital-identity-wallet)
- - date_published: 2022-09-14T15:26:50+00:00
- - tags: ['digital identity', 'government control']
 
  ## Big Tech must prove content moderation works or pay $15K daily fines in Calif.
  - [https://arstechnica.com/?p=1881219](https://arstechnica.com/?p=1881219)
@@ -4715,7 +4740,6 @@
  - [https://www.politico.com/news/2022/09/14/global-covid-pandemic-response-bill-gates-partners-00053969](https://www.politico.com/news/2022/09/14/global-covid-pandemic-response-bill-gates-partners-00053969)
  - date_published: 2022-09-14T20:25:38+00:00
  - tags: ['bill gates', 'billionaires', 'covid', 'elites', 'manufacturing consent']
- - date_dead_since: 2025-03-19T08:43:48.423373+00:00
 
  ## A Virus That Can Cause Polio-Like Paralysis in Children Has Returned
  - [https://gizmodo.com/acute-flaccid-myelitis-enterovirus-d-68-cdc-2022-1849536384](https://gizmodo.com/acute-flaccid-myelitis-enterovirus-d-68-cdc-2022-1849536384)
@@ -4902,6 +4926,11 @@
  - date_published: 2022-09-17T22:29:01+00:00
  - tags: ['drama', 'krystyna janda']
 
+ ## Denver is set to provide 140 homeless people with $12,000 cash - no strings attached
+ - [https://www.dailymail.co.uk/news/article-11223033/Denver-set-provide-140-homeless-people-12-000-cash-no-strings-attached.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11223033/Denver-set-provide-140-homeless-people-12-000-cash-no-strings-attached.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - date_published: 2022-09-18T00:33:42+00:00
+ - tags: ['universal basic income']
+
  ## Facebook: Breastfeeding clothing firm has lost thousands after being hit by no-nudity rule
  - [https://www.dailymail.co.uk/news/article-11223421/Facebook-Breastfeeding-clothing-firm-lost-thousands-hit-no-nudity-rule.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11223421/Facebook-Breastfeeding-clothing-firm-lost-thousands-hit-no-nudity-rule.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date_published: 2022-09-18T00:54:00+00:00
@@ -4909,13 +4938,8 @@
 
  ## NYC fires another 850 teachers and teaching aides after they failed to get COVID vaccine by Sept 5
  - [https://www.dailymail.co.uk/news/article-11223587/NYC-fires-850-teachers-teaching-aides-failed-COVID-vaccine-Sept-5.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11223587/NYC-fires-850-teachers-teaching-aides-failed-COVID-vaccine-Sept-5.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - date_published: 2022-09-18T05:29:57+00:00
+ - date_published: 2022-09-18T04:19:19+00:00
  - tags: ['censorship', 'covid']
-
- ## Denver is set to provide 140 homeless people with $12,000 cash - no strings attached
- - [https://www.dailymail.co.uk/news/article-11223033/Denver-set-provide-140-homeless-people-12-000-cash-no-strings-attached.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11223033/Denver-set-provide-140-homeless-people-12-000-cash-no-strings-attached.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - date_published: 2022-09-18T06:42:32+00:00
- - tags: ['universal basic income']
 
  ## School District Defends Trans Shop Teacher Whose Enormous Fake Breasts Spurred Internet Furor
  - [https://www.dailywire.com/news/school-district-defends-trans-shop-teacher-whose-enormous-fake-breasts-spurred-internet-furor](https://www.dailywire.com/news/school-district-defends-trans-shop-teacher-whose-enormous-fake-breasts-spurred-internet-furor)
@@ -4952,13 +4976,18 @@
 
  ## Google removed our website from search because it uses YouTube-dl
  - [https://www.kapwing.com/blog/google-erased-our-website](https://www.kapwing.com/blog/google-erased-our-website)
- - date_published: 2022-09-19T07:12:21+00:00
+ - date_published: 2022-09-19T07:10:56+00:00
  - tags: ['censorship', 'corporatocracy', 'dmca', 'google', 'monopoly', 'open source', 'youtube-dl']
 
  ## Banned in the USA: The Growing Movement to Ban Books - PEN America
  - [https://pen.org/report/banned-usa-growing-movement-to-censor-books-in-schools](https://pen.org/report/banned-usa-growing-movement-to-censor-books-in-schools)
  - date_published: 2022-09-19T07:28:12+00:00
  - tags: ['censorship', 'moderation']
+
+ ## Facebook proven to negatively impact mental health
+ - [https://english.tau.ac.il/science_links_facebook_mental_health](https://english.tau.ac.il/science_links_facebook_mental_health)
+ - date_published: 2022-09-19T12:03:14+00:00
+ - tags: ['facebook', 'mental health', 'social media']
 
  ## Linus Torvalds: Rust will go into Linux 6.1
  - [https://www.zdnet.com/article/linus-torvalds-rust-will-go-into-linux-6-1/#ftag=RSSbaffb68](https://www.zdnet.com/article/linus-torvalds-rust-will-go-into-linux-6-1/#ftag=RSSbaffb68)
@@ -5003,6 +5032,16 @@
  - [https://news.ycombinator.com/item?id=32902945](https://news.ycombinator.com/item?id=32902945)
  - date_published: 2022-09-19T19:42:21+00:00
 
+ ## Entitlement in Open Source
+ - [https://mikemcquaid.com/entitlement-in-open-source](https://mikemcquaid.com/entitlement-in-open-source)
+ - date_published: 2022-09-20T00:00:00+00:00
+ - tags: ['open source']
+
+ ## YouTube’s ‘dislike’ barely works according to new study on recommendations
+ - [https://www.engadget.com/mozilla-youtube-recommendation-study-080006930.html](https://www.engadget.com/mozilla-youtube-recommendation-study-080006930.html)
+ - date_published: 2022-09-20T08:00:06+00:00
+ - tags: ['youtube']
+
  ## Prof. Bralczyk broni „Murzyna”. TikTok usuwa jego wypowiedź - TrueStory
  - [https://truestory.pl/prof-bralczyk-broni-murzyna-tiktok-usuwa-jego-wypowiedz](https://truestory.pl/prof-bralczyk-broni-murzyna-tiktok-usuwa-jego-wypowiedz)
  - date_published: 2022-09-20T10:00:53+00:00
@@ -5023,14 +5062,14 @@
  - date_published: 2022-09-20T18:30:00+00:00
  - tags: ['algorithms', 'technofeudalism', 'youtube']
 
- ## YouTube’s ‘dislike’ barely works according to new study on recommendations
- - [https://www.engadget.com/mozilla-youtube-recommendation-study-080006930.html](https://www.engadget.com/mozilla-youtube-recommendation-study-080006930.html)
- - date_published: 2022-09-20T20:33:35+00:00
- - tags: ['youtube']
-
  ## Microsoft Azure CTO Mark Russinovich: C/C++ should be deprecated
  - [https://www.codeproject.com/script/News/View.aspx?nwid=58945](https://www.codeproject.com/script/News/View.aspx?nwid=58945)
  - date_published: 2022-09-21T04:00:00+00:00
+
+ ## Censorship by Big Tech at the behest of the U.S. government
+ - [https://www.tabletmag.com/sections/arts-letters/articles/government-privatized-censorship-regime](https://www.tabletmag.com/sections/arts-letters/articles/government-privatized-censorship-regime)
+ - date_published: 2022-09-21T04:00:00+00:00
+ - tags: ['big brother', 'big tech', 'privacy', 'privacy laundering', 'surveillance']
 
  ## Europejska komisja oskarża PiS. Inwigilacja Brejzy Pegasusem kosztowała 20 mln zł - rp.pl
  - [https://www.rp.pl/polityka/art37096721-europejska-komisja-oskarza-pis-inwigilacja-brejzy-pegasusem-kosztowala-20-mln-zl](https://www.rp.pl/polityka/art37096721-europejska-komisja-oskarza-pis-inwigilacja-brejzy-pegasusem-kosztowala-20-mln-zl)
@@ -5047,20 +5086,10 @@
  - date_published: 2022-09-21T08:49:13+00:00
  - tags: ['google', 'privacy']
 
- ## Why is Canada euthanising the poor?
- - [https://www.spectator.co.uk/article/why-is-canada-euthanising-the-poor-](https://www.spectator.co.uk/article/why-is-canada-euthanising-the-poor-)
- - date_published: 2022-09-21T08:59:23+00:00
- - tags: ['canada', 'depopulation', 'euthanasia', 'social engineering']
-
  ## USA przeznaczy prawie 700 000 dolarów na szukanie „ekstremizmu” w grach wideo
  - [https://ithardware.pl/aktualnosci/usa_przeznaczy_prawie_700_000_dolarow_na_szukanie_ekstremizmu_w_grach_wideo-23418.html](https://ithardware.pl/aktualnosci/usa_przeznaczy_prawie_700_000_dolarow_na_szukanie_ekstremizmu_w_grach_wideo-23418.html)
  - date_published: 2022-09-21T09:24:10+00:00
  - tags: ['big brother', 'disinformation', 'extremism', 'government control', 'misinformation', 'surveillance', 'usa']
-
- ## Entitlement in Open Source
- - [https://mikemcquaid.com/entitlement-in-open-source](https://mikemcquaid.com/entitlement-in-open-source)
- - date_published: 2022-09-21T10:58:13+00:00
- - tags: ['open source']
 
  ## FBI Suspends Whistleblower Who Criticized Bureau’s Handling Of January 6 Investigations: Report
  - [https://www.dailywire.com/news/fbi-suspends-whistleblower-who-criticized-bureaus-handling-of-january-6-investigations-report](https://www.dailywire.com/news/fbi-suspends-whistleblower-who-criticized-bureaus-handling-of-january-6-investigations-report)
@@ -5081,6 +5110,7 @@
  - [https://www.wsj.com/articles/cdc-oversells-the-bivalent-covid-shot-hospitalizations-vaccine-booster-omicron-pandemic-pfizer-moderna-china-illness-death-11663793472](https://www.wsj.com/articles/cdc-oversells-the-bivalent-covid-shot-hospitalizations-vaccine-booster-omicron-pandemic-pfizer-moderna-china-illness-death-11663793472)
  - date_published: 2022-09-21T13:36:42+00:00
  - tags: ['big pharma', 'covid', 'covid lie', 'vaccine']
+ - date_dead_since: 2025-08-04T10:40:09.512481+00:00
 
  ## TikTok Cracks Down on Political Content
  - [https://gizmodo.com/tiktok-midterms-politics-influencers-social-media-1849562186](https://gizmodo.com/tiktok-midterms-politics-influencers-social-media-1849562186)
@@ -5125,30 +5155,10 @@
  - date_published: 2022-09-22T05:25:00+00:00
  - tags: ['metaverse']
 
- ## Censorship by Big Tech at the behest of the U.S. government
- - [https://www.tabletmag.com/sections/arts-letters/articles/government-privatized-censorship-regime](https://www.tabletmag.com/sections/arts-letters/articles/government-privatized-censorship-regime)
- - date_published: 2022-09-22T13:09:43+00:00
- - tags: ['big brother', 'big tech', 'privacy', 'privacy laundering', 'surveillance']
-
- ## Google loses EU appeal and is fined a record $4B
- - [https://www.axios.com/2022/09/14/google-loses-appeal-eu-antitrust-ruling](https://www.axios.com/2022/09/14/google-loses-appeal-eu-antitrust-ruling)
- - date_published: 2022-09-22T13:37:42+00:00
- - tags: ['big tech', 'corporatocracy', 'google', 'monopoly']
-
- ## Facebook proven to negatively impact mental health
- - [https://english.tau.ac.il/science_links_facebook_mental_health](https://english.tau.ac.il/science_links_facebook_mental_health)
- - date_published: 2022-09-22T13:41:57+00:00
- - tags: ['facebook', 'mental health', 'social media']
-
  ## Lebanon's banks to stay shut indefinitely
  - [https://www.cnn.com/2022/09/22/asia/lebanon-banks-shut-holdups-intl/index.html](https://www.cnn.com/2022/09/22/asia/lebanon-banks-shut-holdups-intl/index.html)
  - date_published: 2022-09-22T16:30:34+00:00
  - tags: ['bank', 'crisis', 'lebanon']
-
- ## MEP Cristian Terhes Grills AstraZeneca, Moderna About Vaccines and Contracts During EU Covid Committee Meeting - Europe Reloaded
- - [https://www.europereloaded.com/mep-cristian-terhes-grills-astrazeneca-moderna-about-vaccines-and-vaccine-contracts-during-eu-covid-committee-meeting](https://www.europereloaded.com/mep-cristian-terhes-grills-astrazeneca-moderna-about-vaccines-and-vaccine-contracts-during-eu-covid-committee-meeting)
- - date_published: 2022-09-22T16:41:57+00:00
- - tags: ['covid', 'cristian terhes', 'vaccine']
 
  ## Florida to Supreme Court: Let us regulate social networks as common carriers
  - [https://arstechnica.com/?p=1883762](https://arstechnica.com/?p=1883762)
@@ -5203,7 +5213,7 @@
 
  ## The metaverse could be transformative, but it's a legal and ethical minefield
  - [https://www.cnn.com/2022/09/23/opinions/metaverse-transformative-ethics-thomason-spc-intl/index.html](https://www.cnn.com/2022/09/23/opinions/metaverse-transformative-ethics-thomason-spc-intl/index.html)
- - date_published: 2022-09-23T10:06:58+00:00
+ - date_published: 2022-09-23T09:30:39+00:00
 
  ## Facebook's $37.5 Million Location Tracking Settlement: See If You Qualify     - CNET
  - [https://www.cnet.com/tech/services-and-software/facebooks-37-5-million-location-tracking-settlement-do-you-qualify/#ftag=CADf328eec](https://www.cnet.com/tech/services-and-software/facebooks-37-5-million-location-tracking-settlement-do-you-qualify/#ftag=CADf328eec)
@@ -5221,7 +5231,7 @@
 
  ## Mass protests in Iran are the regime's biggest challenge in years
  - [https://www.cnbc.com/2022/09/23/mass-protests-in-iran-is-the-regimes-biggest-challenge-in-years.html](https://www.cnbc.com/2022/09/23/mass-protests-in-iran-is-the-regimes-biggest-challenge-in-years.html)
- - date_published: 2022-09-23T14:19:18+00:00
+ - date_published: 2022-09-23T14:04:19+00:00
  - tags: ['crisis', 'iran']
 
  ## Mozilla claims Apple, Google and Microsoft force users to use default web browsers
@@ -5284,9 +5294,18 @@
  - date_published: 2022-09-24T21:43:00+00:00
  - tags: ['artificial intelligence']
 
+ ## Outdated vs. Complete: In defense of apps that don’t need updates
+ - [https://vivqu.com/blog/2022/09/25/outdated-apps](https://vivqu.com/blog/2022/09/25/outdated-apps)
+ - date_published: 2022-09-25T00:00:00+00:00
+
  ## Outdated vs. Complete
  - [https://vivqu.com/blog/2022/09/25/outdated-apps/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav](https://vivqu.com/blog/2022/09/25/outdated-apps/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
  - date_published: 2022-09-25T00:00:00+00:00
+
+ ## FDA vaccine adviser says healthy young people SHOULDN'T get another COVID booster
+ - [https://www.dailymail.co.uk/news/article-11247181/FDA-vaccine-adviser-says-healthy-young-people-SHOULDNT-COVID-booster.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11247181/FDA-vaccine-adviser-says-healthy-young-people-SHOULDNT-COVID-booster.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+ - date_published: 2022-09-25T05:18:05+00:00
+ - tags: ['covid', 'covid booster', 'fda']
 
  ## Drogo jak nigdy, castingi, aukcje. Horror na rynku najmu [REPORTAŻ INTERII]
  - [https://wydarzenia.interia.pl/kraj/news-drogo-jak-nigdy-castingi-aukcje-horror-na-rynku-najmu-report,nId,6303919](https://wydarzenia.interia.pl/kraj/news-drogo-jak-nigdy-castingi-aukcje-horror-na-rynku-najmu-report,nId,6303919)
@@ -5295,11 +5314,6 @@
  ## Texas Republican who represents border communities issues warning on migrant surge: 'There's no end in sight'
  - [https://www.foxnews.com/us/texas-republican-represents-border-communities-issues-warning-migrant-surge-no-end-sight](https://www.foxnews.com/us/texas-republican-represents-border-communities-issues-warning-migrant-surge-no-end-sight)
  - date_published: 2022-09-25T06:27:29+00:00
-
- ## FDA vaccine adviser says healthy young people SHOULDN'T get another COVID booster
- - [https://www.dailymail.co.uk/news/article-11247181/FDA-vaccine-adviser-says-healthy-young-people-SHOULDNT-COVID-booster.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11247181/FDA-vaccine-adviser-says-healthy-young-people-SHOULDNT-COVID-booster.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - date_published: 2022-09-25T07:04:15+00:00
- - tags: ['covid', 'covid booster', 'fda']
 
  ## 10 milionów dzieci na świecie straciło rodzica lub opiekuna w wyniku COVID-19
  - [https://www.bankier.pl/wiadomosc/10-milionow-dzieci-na-swiecie-stracilo-rodzica-lub-opiekuna-w-wyniku-COVID-19-8408616.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/10-milionow-dzieci-na-swiecie-stracilo-rodzica-lub-opiekuna-w-wyniku-COVID-19-8408616.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -5323,19 +5337,14 @@
  - [https://www.louderwithcrowder.com/dancers-chattanooga-brewery](https://www.louderwithcrowder.com/dancers-chattanooga-brewery)
  - date_published: 2022-09-25T12:29:55+00:00
 
- ## Gender activists push to bar anthropologists from identifying human remains as ‘male’ or ‘female’
- - [https://www.thecollegefix.com/gender-activists-push-to-bar-anthropologists-from-identifying-human-remains-as-male-or-female](https://www.thecollegefix.com/gender-activists-push-to-bar-anthropologists-from-identifying-human-remains-as-male-or-female)
- - date_published: 2022-09-25T15:37:48+00:00
- - tags: ['gender', 'newspeak', 'science', 'the left wing', 'transgender']
+ ## A Ponzi scheme by any other name: the bursting of China’s property bubble | Chinese economy | The Guardian
+ - [https://www.theguardian.com/business/2022/sep/25/china-property-bubble-evergrande-group](https://www.theguardian.com/business/2022/sep/25/china-property-bubble-evergrande-group)
+ - date_published: 2022-09-25T13:20:06+00:00
+ - tags: ['china', 'crisis', 'economy', 'ponzi scheme']
 
  ## Train Travel in the UK: A Foreigner's Perspective - Paliparan
  - [https://paliparan.com/2022/09/25/train-travel-uk-foreigners-perspective/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav](https://paliparan.com/2022/09/25/train-travel-uk-foreigners-perspective/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
  - date_published: 2022-09-25T16:36:24+00:00
-
- ## A Ponzi scheme by any other name: the bursting of China’s property bubble | Chinese economy | The Guardian
- - [https://www.theguardian.com/business/2022/sep/25/china-property-bubble-evergrande-group](https://www.theguardian.com/business/2022/sep/25/china-property-bubble-evergrande-group)
- - date_published: 2022-09-25T20:38:53+00:00
- - tags: ['china', 'crisis', 'economy', 'ponzi scheme']
 
  ## James Stanley - Solving Protohackers with Fly.io
  - [https://incoherency.co.uk/blog/stories/protohackers-flyio.html](https://incoherency.co.uk/blog/stories/protohackers-flyio.html)
@@ -5376,17 +5385,9 @@
  - date_published: 2022-09-26T16:00:00+00:00
  - tags: ['sustainable growth', 'world economic forum']
 
- ## Shirts That Go Hard's creator is now going a little less hard
- - [https://www.inputmag.com/culture/shirts-that-go-hard-twitter-algorithm-creator-interview](https://www.inputmag.com/culture/shirts-that-go-hard-twitter-algorithm-creator-interview)
- - date_published: 2022-09-26T16:57:41.801605+00:00
-
  ## How Twitch lost the battle for its soul
  - [https://www.theverge.com/2022/9/26/23369070/twitch-revenue-split-70-30-streamers-reaction-amazon](https://www.theverge.com/2022/9/26/23369070/twitch-revenue-split-70-30-streamers-reaction-amazon)
  - date_published: 2022-09-26T19:05:03+00:00
-
- ## Outdated vs. Complete: In defense of apps that don’t need updates
- - [https://vivqu.com/blog/2022/09/25/outdated-apps](https://vivqu.com/blog/2022/09/25/outdated-apps)
- - date_published: 2022-09-26T19:13:01+00:00
 
  ## Google fights latest attempt to have Big Tech pay for ISPs’ network upgrades
  - [https://arstechnica.com/?p=1884596](https://arstechnica.com/?p=1884596)
@@ -5447,22 +5448,22 @@
  - [https://www.dailymail.co.uk/news/article-11254299/Russian-men-call-Ukraine-surrender-drafted.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11254299/Russian-men-call-Ukraine-surrender-drafted.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date_published: 2022-09-27T13:03:29+00:00
 
- ## iPhone = Privacy?
- - [https://kerkour.com/iphone-privacy](https://kerkour.com/iphone-privacy)
- - date_published: 2022-09-27T14:03:31+00:00
- - tags: ['apple', 'iphone', 'privacy']
+ ## The Open Source PC That Fits in Your Pocket
+ - [https://spectrum.ieee.org/meet-an-open-source-pc-that-can-fit-in-your-pocket](https://spectrum.ieee.org/meet-an-open-source-pc-that-can-fit-in-your-pocket)
+ - date_published: 2022-09-27T14:00:00+00:00
+ - tags: ['open source', 'project']
 
  ## Cloudflare launches eSim to protect mobile devices
  - [https://www.techradar.com/news/cloudflare-launches-esim-to-protect-mobile-devices](https://www.techradar.com/news/cloudflare-launches-esim-to-protect-mobile-devices)
  - date_published: 2022-09-27T14:27:08+00:00
 
+ ## For some Christians, 'rapture anxiety' can take a lifetime to heal
+ - [https://www.cnn.com/2022/09/27/us/rapture-anxiety-evangelical-exvangelical-christianity-cec/index.html](https://www.cnn.com/2022/09/27/us/rapture-anxiety-evangelical-exvangelical-christianity-cec/index.html)
+ - date_published: 2022-09-27T15:32:03+00:00
+
  ## I almost don't believe the destructibility in this FPS is real
  - [https://www.pcgamer.com/i-almost-dont-believe-the-destructibility-in-this-fps-is-real](https://www.pcgamer.com/i-almost-dont-believe-the-destructibility-in-this-fps-is-real)
  - date_published: 2022-09-27T16:01:00+00:00
-
- ## For some Christians, 'rapture anxiety' can take a lifetime to heal
- - [https://www.cnn.com/2022/09/27/us/rapture-anxiety-evangelical-exvangelical-christianity-cec/index.html](https://www.cnn.com/2022/09/27/us/rapture-anxiety-evangelical-exvangelical-christianity-cec/index.html)
- - date_published: 2022-09-27T16:08:37+00:00
 
  ## Biden Ties to BlackRock Deepen With Latest Treasury Hire (BLK) - Bloomberg
  - [https://www.bloomberg.com/news/articles/2022-08-11/biden-ties-to-blackrock-deepen-with-latest-treasury-hire?leadSource=uverify%20wall](https://www.bloomberg.com/news/articles/2022-08-11/biden-ties-to-blackrock-deepen-with-latest-treasury-hire?leadSource=uverify%20wall)
@@ -5503,23 +5504,16 @@
 
  ## CIA Warned Europe of Potential Attacks on Nord Stream Pipelines
  - [https://www.nytimes.com/2022/09/27/world/europe/cia-nord-stream-pipelines-attack.html](https://www.nytimes.com/2022/09/27/world/europe/cia-nord-stream-pipelines-attack.html)
- - date_published: 2022-09-27T23:25:50+00:00
+ - date_published: 2022-09-27T23:07:53+00:00
  - tags: ['cia', 'nord stream', 'russia']
- - date_dead_since: 2025-03-18T14:23:27.011140+00:00
 
  ## Apple removes Russia’s largest social network from the App Store
  - [https://www.theverge.com/2022/9/27/23375831/vk-russia-apple-app-store-removed-social-media](https://www.theverge.com/2022/9/27/23375831/vk-russia-apple-app-store-removed-social-media)
  - date_published: 2022-09-28T00:03:31+00:00
 
- ## The Open Source PC That Fits in Your Pocket
- - [https://spectrum.ieee.org/meet-an-open-source-pc-that-can-fit-in-your-pocket](https://spectrum.ieee.org/meet-an-open-source-pc-that-can-fit-in-your-pocket)
- - date_published: 2022-09-28T02:54:34+00:00
- - tags: ['open source', 'project']
-
  ## Should applicants be paid for job interviews?
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59024](https://www.codeproject.com/script/News/View.aspx?nwid=59024)
  - date_published: 2022-09-28T04:00:00+00:00
- - date_dead_since: 2025-03-18T14:08:23.955936+00:00
 
  ## Przerażające wyniki badań: Zanieczyszczone powietrze szkodzi mózgom dzieci
  - [https://wydarzenia.interia.pl/zagranica/news-przerazajace-wyniki-badan-zanieczyszczone-powietrze-szkodzi-,nId,6313600](https://wydarzenia.interia.pl/zagranica/news-przerazajace-wyniki-badan-zanieczyszczone-powietrze-szkodzi-,nId,6313600)
@@ -5619,6 +5613,10 @@
  - date_published: 2022-09-30T04:00:00+00:00
  - tags: ['malware', 'vulnerability']
 
+ ## prof noga inflacja
+ - [https://www.rmf24.pl/tylko-w-rmf24/rozmowa-w-poludnie/news-prof-noga-inflacja-przekroczy-20-proc-w-grudniu,nId,6318441#crp_state=1](https://www.rmf24.pl/tylko-w-rmf24/rozmowa-w-poludnie/news-prof-noga-inflacja-przekroczy-20-proc-w-grudniu,nId,6318441#crp_state=1)
+ - date_published: 2022-09-30T12:02:00+00:00
+
  ## Nord Stream: Russian gas pipe leaks could have an 'unprecedented' environmental impact | Euronews
  - [https://www.euronews.com/green/2022/09/28/nord-stream-russian-gas-pipe-leaks-could-have-an-unprecedented-environmental-impact](https://www.euronews.com/green/2022/09/28/nord-stream-russian-gas-pipe-leaks-could-have-an-unprecedented-environmental-impact)
  - date_published: 2022-09-30T13:30:25+00:00
@@ -5656,7 +5654,7 @@
  - [https://www.economist.com/science-and-technology/2022/09/28/becoming-a-father-shrinks-your-cerebrum](https://www.economist.com/science-and-technology/2022/09/28/becoming-a-father-shrinks-your-cerebrum)
  - date_published: 2022-09-30T23:53:09+00:00
  - tags: ['family', 'father']
- - date_dead_since: 2025-03-18T11:18:09.114427+00:00
+ - date_dead_since: 2025-08-04T00:48:19.338782+00:00
 
  ## Two-thirds of U.S. adults do not plan on getting COVID boosters
  - [https://www.foxnews.com/health/two-thirds-us-adults-do-not-plan-getting-covid-boosters](https://www.foxnews.com/health/two-thirds-us-adults-do-not-plan-getting-covid-boosters)
@@ -5682,10 +5680,6 @@
  ## A study of lights at night suggests dictators lie about economic growth
  - [https://www.economist.com/graphic-detail/2022/09/29/a-study-of-lights-at-night-suggests-dictators-lie-about-economic-growth](https://www.economist.com/graphic-detail/2022/09/29/a-study-of-lights-at-night-suggests-dictators-lie-about-economic-growth)
  - date_published: 2022-10-01T06:30:47+00:00
-
- ## prof noga inflacja
- - [https://www.rmf24.pl/tylko-w-rmf24/rozmowa-w-poludnie/news-prof-noga-inflacja-przekroczy-20-proc-w-grudniu,nId,6318441#crp_state=1](https://www.rmf24.pl/tylko-w-rmf24/rozmowa-w-poludnie/news-prof-noga-inflacja-przekroczy-20-proc-w-grudniu,nId,6318441#crp_state=1)
- - date_published: 2022-10-01T07:44:49+00:00
 
  ## In China, Living Not ‘With Covid,’ but With ‘Zero Covid’
  - [https://www.nytimes.com/2022/10/01/world/asia/china-covid-zero.html](https://www.nytimes.com/2022/10/01/world/asia/china-covid-zero.html)
