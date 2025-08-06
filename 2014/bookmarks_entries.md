@@ -18,6 +18,11 @@
  - date_published: 2014-01-28T01:51:00+00:00
  - tags: ['nsa', 'privacy', 'surveillance']
 
+ ## Insane ways Google has been invading our privacy – Salon.com
+ - [https://www.salon.com/2014/02/06/4_insane_ways_google_has_been_prying_into_our_privacy_partner](https://www.salon.com/2014/02/06/4_insane_ways_google_has_been_prying_into_our_privacy_partner)
+ - date_published: 2014-02-06T18:58:00+00:00
+ - tags: ['google', 'privacy']
+
  ## Facebook Fraud
  - [https://www.youtube.com/watch?v=oVfHeWTKjag](https://www.youtube.com/watch?v=oVfHeWTKjag)
  - date_published: 2014-02-10T00:00:00+00:00

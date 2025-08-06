@@ -257,6 +257,10 @@
  - date_published: 2020-03-12T07:47:45+00:00
  - tags: ['big brother', 'crypto wars', 'earn it act', 'encryption', 'government control', 'privacy', 'surveillance']
 
+ ## part 1: antisoftware action | anti software software club
+ - [https://antisoftware.club/manifesto/2020/03/16/part-1.html](https://antisoftware.club/manifesto/2020/03/16/part-1.html)
+ - date_published: 2020-03-16T00:00:00+00:00
+
  ## Did Video Show Italian Army Trucks Transporting Coffins Amid COVID-19 Pandemic? | Snopes.com
  - [https://www.snopes.com/fact-check/italy-army-coffins-coronavirus](https://www.snopes.com/fact-check/italy-army-coffins-coronavirus)
  - date_published: 2020-03-16T08:13:33+00:00
@@ -385,6 +389,11 @@
  - tags: ['corporatocracy', 'diversity', 'hypocrisy', 'inclusion']
  - date_dead_since: 2025-04-06T04:44:48.064446+00:00
 
+ ## Zbigniew Brzeziński Obawia się Globalnego Przebudzenia
+ - [https://bomega.pl/zbigniew-brzezinski-obawia-sie-globalnego-przebudzenia-konferencja-cfr](https://bomega.pl/zbigniew-brzezinski-obawia-sie-globalnego-przebudzenia-konferencja-cfr)
+ - date_published: 2020-04-24T15:32:58+00:00
+ - tags: ['big brother', 'conspiracy theory', 'corporatocracy', 'technofeudalism', 'zbigniew brzezinski']
+
  ## Dr. Fauci Backed Controversial Wuhan Lab with U.S. Dollars for Risky Coronavirus Research
  - [https://www.newsweek.com/dr-fauci-backed-controversial-wuhan-lab-millions-us-dollars-risky-coronavirus-research-1500741](https://www.newsweek.com/dr-fauci-backed-controversial-wuhan-lab-millions-us-dollars-risky-coronavirus-research-1500741)
  - date_published: 2020-04-28T20:20:32+00:00
@@ -458,6 +467,10 @@
  - [https://www.nytimes.com/interactive/2020/05/16/nyregion/nyc-coronavirus-moving-leaving.html](https://www.nytimes.com/interactive/2020/05/16/nyregion/nyc-coronavirus-moving-leaving.html)
  - date_published: 2020-05-16T20:09:25+00:00
  - tags: ['covid', 'lockdown']
+
+ ## A pizzeria owner made money buying his own $24 pizzas from DoorDash for $16 - The Verge
+ - [https://www.theverge.com/2020/5/18/21262316/doordash-pizza-profits-venture-capital-the-margins-ranjan-roy](https://www.theverge.com/2020/5/18/21262316/doordash-pizza-profits-venture-capital-the-margins-ranjan-roy)
+ - date_published: 2020-05-18T18:15:45+00:00
 
  ## Face mask rules more political than scientific, says expert
  - [https://www.theguardian.com/uk-news/2020/may/21/face-mask-rules-more-political-than-scientific-says-expert](https://www.theguardian.com/uk-news/2020/may/21/face-mask-rules-more-political-than-scientific-says-expert)
@@ -619,6 +632,11 @@
  - [https://www.globalsign.com/en/blog/why-lawful-access-encrypted-data-act-threat-your-rights-and-privacy](https://www.globalsign.com/en/blog/why-lawful-access-encrypted-data-act-threat-your-rights-and-privacy)
  - date_published: 2020-06-23T11:06:20+00:00
  - tags: ['government control', 'lawful access to encrypted data act', 'privacy', 'surveillance']
+
+ ## Operant Conditioning: So, You Think You Can Beat Social Media Addiction
+ - [https://www.studynotesaba.com/so-you-think-you-can-beat-social-media-addiction](https://www.studynotesaba.com/so-you-think-you-can-beat-social-media-addiction)
+ - date_published: 2020-06-25T02:54:12+00:00
+ - tags: ['skinner box', 'social media']
 
  ## How do you deal with people who refuse to wear a mask? - The Verge
  - [https://www.theverge.com/21303553/face-mask-coronavirus-cdc-etiquette-public](https://www.theverge.com/21303553/face-mask-coronavirus-cdc-etiquette-public)
@@ -830,6 +848,11 @@
  - date_published: 2020-07-23T08:17:09+00:00
  - tags: ['black lives matter', 'blm', 'mccloskey']
 
+ ## Report: Google is spying on competing apps on Android to give its own services a boost
+ - [https://mspoweruser.com/report-google-is-spying-on-competing-apps-on-android-to-give-its-own-services-a-boost](https://mspoweruser.com/report-google-is-spying-on-competing-apps-on-android-to-give-its-own-services-a-boost)
+ - date_published: 2020-07-24T07:04:07+00:00
+ - tags: ['big tech', 'dark design', 'espionage', 'google', 'monopoly']
+
  ## Obowiązkowe zajęcia z lewackiej ideologii dla studentów z Kalifornii. "Uczelnia chce się przypodobać"
  - [https://niezalezna.pl/342733-obowiazkowe-zajecia-z-lewackiej-ideologii-dla-studentow-z-kalifornii-zmieniono-priorytety](https://niezalezna.pl/342733-obowiazkowe-zajecia-z-lewackiej-ideologii-dla-studentow-z-kalifornii-zmieniono-priorytety)
  - date_published: 2020-07-25T20:08:11+00:00
@@ -935,6 +958,10 @@
  ## Massive 20GB Intel IP Data Breach Floods the Internet, Mentions Backdoors (Intel Responds)
  - [https://www.tomshardware.com/news/massive-20gb-intel-data-breach-floods-the-internet-mentions-backdoors](https://www.tomshardware.com/news/massive-20gb-intel-data-breach-floods-the-internet-mentions-backdoors)
  - date_published: 2020-08-06T06:47:11+00:00
+
+ ## Fotomat History | Mental Floss
+ - [https://www.mentalfloss.com/article/626991/overexposed-history-fotomat](https://www.mentalfloss.com/article/626991/overexposed-history-fotomat)
+ - date_published: 2020-08-06T11:00:00+00:00
 
  ## 400+ Qualcomm Chip Vulnerabilities Threaten Millions of Android Phones
  - [https://www.darkreading.com/vulnerabilities---threats/400+-qualcomm-chip-vulnerabilities-threaten-millions-of-android-phones/d/d-id/1338613](https://www.darkreading.com/vulnerabilities---threats/400+-qualcomm-chip-vulnerabilities-threaten-millions-of-android-phones/d/d-id/1338613)

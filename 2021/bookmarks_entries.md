@@ -277,6 +277,11 @@
  - date_published: 2021-02-07T15:02:12+00:00
  - tags: ['covid', 'germany', 'lockdown']
 
+ ## Turning an old Amazon Kindle into a eink development platform – adq
+ - [https://blog.lidskialf.net/2021/02/08/turning-an-old-kindle-into-a-eink-development-platform](https://blog.lidskialf.net/2021/02/08/turning-an-old-kindle-into-a-eink-development-platform)
+ - date_published: 2021-02-08T23:14:34+00:00
+ - tags: ['amazon', 'hardware', 'kindle', 'programming']
+
  ## WHO says COVID-19 unlikely to have leaked from China lab
  - [https://nypost.com/2021/02/09/who-team-coronavirus-unlikely-to-have-leaked-from-china-lab](https://nypost.com/2021/02/09/who-team-coronavirus-unlikely-to-have-leaked-from-china-lab)
  - date_published: 2021-02-09T07:26:42+00:00
@@ -966,6 +971,11 @@
  - date_published: 2021-05-18T15:59:39+00:00
  - tags: ['bill gates', 'jeffrey epstein', 'nobel']
 
+ ## Egypt’s new capital - a smart city in the making
+ - [https://www.globalfleet.com/en/smart-mobility/africa-middle-east/features/egypts-new-capital-smart-city-making?a=API07&t%5B0%5D=Smart%20City&t%5B1%5D=Global%20Fleet%20Conference&t%5B2%5D=Middle%20East&curl=1](https://www.globalfleet.com/en/smart-mobility/africa-middle-east/features/egypts-new-capital-smart-city-making?a=API07&t%5B0%5D=Smart%20City&t%5B1%5D=Global%20Fleet%20Conference&t%5B2%5D=Middle%20East&curl=1)
+ - date_published: 2021-05-18T21:11:59+00:00
+ - tags: ['egypt', 'smart city']
+
  ## World Economic Forum Urges Companies To Fire Unvaccinated Employees As Part of ‘Jobs Reset,’ Deletes Tweet After Backlash
  - [https://nationalfile.com/world-economic-forum-urges-companies-to-fire-unvaccinated-employees-as-part-of-jobs-reset-deletes-tweet-after-backlash](https://nationalfile.com/world-economic-forum-urges-companies-to-fire-unvaccinated-employees-as-part-of-jobs-reset-deletes-tweet-after-backlash)
  - date_published: 2021-05-18T22:10:14+00:00
@@ -1056,6 +1066,11 @@
  - [https://www.today.com/popculture/blue-s-clues-releases-lgbtq-themed-sing-along-video-pride-t220295](https://www.today.com/popculture/blue-s-clues-releases-lgbtq-themed-sing-along-video-pride-t220295)
  - date_published: 2021-05-29T22:28:41+00:00
  - tags: ['children', 'indoctrination', 'lgbt', 'sexualization', 'the left wing']
+
+ ## The Age of Autonomous Killer Robots May Already Be Here
+ - [https://gizmodo.com/flying-killer-robot-hunted-down-a-human-target-without-1847001471](https://gizmodo.com/flying-killer-robot-hunted-down-a-human-target-without-1847001471)
+ - date_published: 2021-05-30T19:45:00+00:00
+ - tags: ['robots']
 
  ## U.S. spied on Merkel and other Europeans through Danish cables - broadcaster DR
  - [https://www.reuters.com/world/europe/us-security-agency-spied-merkel-other-top-european-officials-through-danish-2021-05-30](https://www.reuters.com/world/europe/us-security-agency-spied-merkel-other-top-european-officials-through-danish-2021-05-30)
@@ -1290,6 +1305,10 @@
  - [https://www.theverge.com/2021/6/25/22550376/microsoft-windows-11-tpm-chips-requirement-security](https://www.theverge.com/2021/6/25/22550376/microsoft-windows-11-tpm-chips-requirement-security)
  - date_published: 2021-06-25T18:26:56+00:00
  - tags: ['crypto wars', 'technofeudalism', 'tpm', 'windows']
+
+ ## Starting in 2023, Windows 11 will require new laptops to have a front webcam
+ - [https://www.windowscentral.com/starting-2023-windows-11-will-require-laptops-have-cameras](https://www.windowscentral.com/starting-2023-windows-11-will-require-laptops-have-cameras)
+ - date_published: 2021-06-25T20:05:20+00:00
 
  ## Corporations are the reason why we have a alt-right alt-left war.
  - [https://forum.agoraroad.com/index.php?threads/corporations-are-the-reason-why-we-have-a-alt-right-alt-left-war.3387](https://forum.agoraroad.com/index.php?threads/corporations-are-the-reason-why-we-have-a-alt-right-alt-left-war.3387)
@@ -4260,6 +4279,10 @@
  - [https://en.wikipedia.org/wiki/Grievance_studies_affair](https://en.wikipedia.org/wiki/Grievance_studies_affair)
  - date_published: 2021-12-26T20:04:14+00:00
  - tags: ['grievance', 'propaganda', 'science', 'science is dead', 'sokal']
+
+ ## Piled On | The Nib
+ - [https://thenib.com/piled-on](https://thenib.com/piled-on)
+ - date_published: 2021-12-27T08:00:00+00:00
 
  ## Is Government the New God? - The Religion of Totalitarianism
  - [https://www.youtube.com/watch?v=WhNJJmmCkqY](https://www.youtube.com/watch?v=WhNJJmmCkqY)

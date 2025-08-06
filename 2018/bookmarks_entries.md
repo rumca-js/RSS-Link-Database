@@ -137,6 +137,11 @@
  - date_published: 2018-03-12T07:02:07+00:00
  - tags: ['disinformation', 'extremism', 'misinformation', 'youtube']
 
+ ## Undetected for 6 years, sophisticated malware can spy on PCs through your router
+ - [https://bgr.com/tech/slingshot-malware-routers-infected-pcs](https://bgr.com/tech/slingshot-malware-routers-infected-pcs)
+ - date_published: 2018-03-12T15:36:55+00:00
+ - tags: ['malware', 'selfhost', 'vulnerability']
+
  ## UN blames Facebook for spreading hate speech in possible Myanmar genocide of Rohingya Muslims
  - [https://www.businessinsider.com/r-un-investigators-cite-facebook-role-in-myanmar-crisis-2018-3?IR=T](https://www.businessinsider.com/r-un-investigators-cite-facebook-role-in-myanmar-crisis-2018-3?IR=T)
  - date_published: 2018-03-13T11:23:25+00:00
@@ -785,4 +790,9 @@
  - [https://edition.cnn.com/interactive/2018/12/business/facebooks-year-of-scandal/index.html](https://edition.cnn.com/interactive/2018/12/business/facebooks-year-of-scandal/index.html)
  - date_published: 2018-12-20T19:46:38+00:00
  - tags: ['facebook']
+
+ ## How Much of the Internet Is Fake? Turns Out, a Lot of It, Actually
+ - [https://nymag.com/intelligencer/2018/12/how-much-of-the-internet-is-fake.html](https://nymag.com/intelligencer/2018/12/how-much-of-the-internet-is-fake.html)
+ - date_published: 2018-12-26T06:00:27+00:00
+ - tags: ['bots', 'dead internet', 'internet']
 

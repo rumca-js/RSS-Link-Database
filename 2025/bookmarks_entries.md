@@ -585,6 +585,11 @@
  - date_published: 2025-07-23T00:00:00+00:00
  - tags: ['jeffrey epstein']
 
+ ## Protest set for migrant hotel after 90 criminal charges brought against residents
+ - [https://www.nationalworld.com/news/uk/thistle-hotel-barbican-protest-to-take-place-outside-hotel-after-90-criminal-charges-brought-against-migrants-5253238](https://www.nationalworld.com/news/uk/thistle-hotel-barbican-protest-to-take-place-outside-hotel-after-90-criminal-charges-brought-against-migrants-5253238)
+ - date_published: 2025-08-01T12:28:09+00:00
+ - tags: ['immigration']
+
  ## New attacks in Nigeria leave 200+ dead
  - [https://www.opendoorsus.org/en-US/stories/new-attacks-in-nigeria-leave-200-dead](https://www.opendoorsus.org/en-US/stories/new-attacks-in-nigeria-leave-200-dead)
  - date_published: 2025-08-04T14:29:39.397275+00:00

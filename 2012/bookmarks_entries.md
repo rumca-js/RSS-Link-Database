@@ -125,6 +125,10 @@ Foreign Bribery Investigation | OPA | Department of Justice
  - date_published: 2012-10-02T09:18:00+00:00
  - tags: ['bees', 'china', 'pollution']
 
+ ## The little ssh that (sometimes) couldn't | Mina Naguib
+ - [https://mina.naguib.ca/blog/2012/10/22/the-little-ssh-that-sometimes-couldnt.html](https://mina.naguib.ca/blog/2012/10/22/the-little-ssh-that-sometimes-couldnt.html)
+ - date_published: 2012-10-22T00:00:00+00:00
+
  ## Domagają się zdjęcia krzyża, ale zapalają świece chanukowe. "Symbole religijne? W Sejmie? I do tego Ruch Palikota?"
  - [https://natemat.pl/42883,domagaja-sie-zdjecia-krzyza-ale-zapalaja-swiece-chanukowe-symbole-religijne-w-sejmie-i-do-tego-ruch-palikota](https://natemat.pl/42883,domagaja-sie-zdjecia-krzyza-ale-zapalaja-swiece-chanukowe-symbole-religijne-w-sejmie-i-do-tego-ruch-palikota)
  - date_published: 2012-12-12T20:52:20+00:00
