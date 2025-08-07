@@ -164,6 +164,10 @@
  - date_published: 2016-06-05T00:00:00+00:00
  - tags: ['identity', 'marshall mcluhan', 'surveillance']
 
+ ## Why I turned down $500K, Pissed off my investors, and Shut down my startup -
+ - [https://www.disruptingjapan.com/turned-500k-pissed-off-investors-shut-startup](https://www.disruptingjapan.com/turned-500k-pissed-off-investors-shut-startup)
+ - date_published: 2016-06-10T01:29:45+00:00
+
  ## Google accused of ‘biased’ search results favouring Clinton - The Globe and Mail
  - [https://www.theglobeandmail.com/technology/google-under-fire-after-video-suggests-biased-search-results-favour-clinton/article30402737](https://www.theglobeandmail.com/technology/google-under-fire-after-video-suggests-biased-search-results-favour-clinton/article30402737)
  - date_published: 2016-06-10T14:15:29+00:00

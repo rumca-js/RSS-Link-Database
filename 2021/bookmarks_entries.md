@@ -1367,6 +1367,10 @@
  - tags: ['coke', 'go woke go broke', 'the left wing']
  - date_dead_since: 2024-04-19T00:36:19.747022+00:00
 
+ ## Abigail Shrier’s Irreversible Damage: A Wealth of Irreversible Misinformation | Science-Based Medicine
+ - [https://sciencebasedmedicine.org/abigail-shriers-irreversible-damage-a-wealth-of-irreversible-misinformation](https://sciencebasedmedicine.org/abigail-shriers-irreversible-damage-a-wealth-of-irreversible-misinformation)
+ - date_published: 2021-07-02T12:00:12+00:00
+
  ## Here's a Look Inside Facebook's Data Wars - The New York Times
  - [https://www.nytimes.com/2021/07/14/technology/facebook-data.html](https://www.nytimes.com/2021/07/14/technology/facebook-data.html)
  - date_published: 2021-07-04T20:03:09+00:00
@@ -1638,10 +1642,6 @@
  - [https://news.yahoo.com/mccloskeys-plead-guilty-charges-gun-195300768.html](https://news.yahoo.com/mccloskeys-plead-guilty-charges-gun-195300768.html)
  - date_published: 2021-07-18T14:15:49+00:00
  - tags: ['black lives matter', 'blm', 'mccloskey']
-
- ## Abigail Shrier’s Irreversible Damage: A Wealth of Irreversible Misinformation | Science-Based Medicine
- - [https://sciencebasedmedicine.org/abigail-shriers-irreversible-damage-a-wealth-of-irreversible-misinformation](https://sciencebasedmedicine.org/abigail-shriers-irreversible-damage-a-wealth-of-irreversible-misinformation)
- - date_published: 2021-07-18T16:08:30+00:00
 
  ## Inserting One Billion Rows in SQLite Under A Minute - blag
  - [https://avi.im/blag/2021/fast-sqlite-inserts](https://avi.im/blag/2021/fast-sqlite-inserts)
@@ -3495,6 +3495,10 @@
  - [https://www.zdnet.com/article/last-of-original-sco-v-ibm-linux-lawsuit-settled](https://www.zdnet.com/article/last-of-original-sco-v-ibm-linux-lawsuit-settled)
  - date_published: 2021-11-08T08:34:10+00:00
  - tags: ['linux', 'sco group']
+
+ ## Troy Hunt: Beg Bounties
+ - [https://www.troyhunt.com/beg-bounties](https://www.troyhunt.com/beg-bounties)
+ - date_published: 2021-11-08T09:21:36+00:00
 
  ## A terrible schema from a clueless programmer
  - [http://rachelbythebay.com/w/2021/11/06/sql](http://rachelbythebay.com/w/2021/11/06/sql)

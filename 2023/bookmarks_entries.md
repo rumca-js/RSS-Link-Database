@@ -4338,15 +4338,15 @@
  - date_published: 2023-05-15T19:31:50+00:00
  - tags: ['donald trump', 'elections', 'fbi']
 
+ ## Who Benefits From Diversity And Inclusion Efforts?
+ - [https://www.forbes.com/sites/michelleking/2023/05/16/who-benefits-from-diversity-and-inclusion-efforts](https://www.forbes.com/sites/michelleking/2023/05/16/who-benefits-from-diversity-and-inclusion-efforts)
+ - date_published: 2023-05-16T00:00:00+00:00
+ - tags: ['dei', 'inclusion', 'inequality']
+
  ## Microsoft is scanning the inside of password-protected zip files for malware
  - [https://arstechnica.com/?p=1939441](https://arstechnica.com/?p=1939441)
  - date_published: 2023-05-16T00:15:24+00:00
  - tags: ['microsoft', 'technofeudalism']
-
- ## Who Benefits From Diversity And Inclusion Efforts?
- - [https://www.forbes.com/sites/michelleking/2023/05/16/who-benefits-from-diversity-and-inclusion-efforts](https://www.forbes.com/sites/michelleking/2023/05/16/who-benefits-from-diversity-and-inclusion-efforts)
- - date_published: 2023-05-16T02:00:00+00:00
- - tags: ['dei', 'inclusion', 'inequality']
 
  ## California’s New Math Framework Doesn’t Add Up - Education Next
  - [https://www.educationnext.org/californias-new-math-framework-doesnt-add-up](https://www.educationnext.org/californias-new-math-framework-doesnt-add-up)

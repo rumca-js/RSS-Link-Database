@@ -608,6 +608,10 @@
  - date_published: 2020-06-15T16:20:35+00:00
  - tags: ['big brother', 'biometric', 'facial recognition', 'surveillance']
 
+ ## Excuse me, has anybody seen the FOCAL interpreter? - The Old New Thing
+ - [https://devblogs.microsoft.com/oldnewthing/20200616-00/?p=103869](https://devblogs.microsoft.com/oldnewthing/20200616-00/?p=103869)
+ - date_published: 2020-06-16T14:00:00+00:00
+
  ## Steam Games Pulled by Indie Devs Over Valve's Silence on Black Lives Matter
  - [https://www.dualshockers.com/steam-games-pulled-indie-developers-over-valve-silence-black-lives-matter](https://www.dualshockers.com/steam-games-pulled-indie-developers-over-valve-silence-black-lives-matter)
  - date_published: 2020-06-17T08:00:19+00:00

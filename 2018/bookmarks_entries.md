@@ -791,6 +791,10 @@
  - date_published: 2018-12-20T19:46:38+00:00
  - tags: ['facebook']
 
+ ## Converting a Python library to Rust
+ - [https://alantrick.ca/writings/programming/python_to_rust](https://alantrick.ca/writings/programming/python_to_rust)
+ - date_published: 2018-12-22T12:32:57+00:00
+
  ## How Much of the Internet Is Fake? Turns Out, a Lot of It, Actually
  - [https://nymag.com/intelligencer/2018/12/how-much-of-the-internet-is-fake.html](https://nymag.com/intelligencer/2018/12/how-much-of-the-internet-is-fake.html)
  - date_published: 2018-12-26T06:00:27+00:00

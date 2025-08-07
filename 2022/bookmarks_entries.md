@@ -871,6 +871,10 @@
  - date_published: 2022-02-11T11:34:06+00:00
  - tags: ['climate change', 'electric vehicles', 'pollution']
 
+ ## Healthchecks.io Hosting Setup, 2022 Edition – Healthchecks.io
+ - [https://blog.healthchecks.io/2022/02/healthchecks-io-hosting-setup-2022-edition](https://blog.healthchecks.io/2022/02/healthchecks-io-hosting-setup-2022-edition)
+ - date_published: 2022-02-11T14:23:23+00:00
+
  ## Jordan Peterson's TERRIFYING Speech (held back in 2008) | "I Came To A Terrible Conclusion!"
  - [https://www.youtube.com/watch?v=ZdP1jlxHibc](https://www.youtube.com/watch?v=ZdP1jlxHibc)
  - date_published: 2022-02-12T00:00:00+00:00
@@ -995,6 +999,10 @@
  - [https://www.theverge.com/2022/2/18/22940517/windows-11-pro-require-microsoft-account-internet-connection](https://www.theverge.com/2022/2/18/22940517/windows-11-pro-require-microsoft-account-internet-connection)
  - date_published: 2022-02-18T20:52:01+00:00
  - tags: ['always online', 'windows 11']
+
+ ## Practical Guide to Solving Hard Problems
+ - [https://praeclarum.org/2022/02/19/hard-problems.html](https://praeclarum.org/2022/02/19/hard-problems.html)
+ - date_published: 2022-02-19T00:00:00+00:00
 
  ## Tesla’s 3-6-9 and Vortex Math: Is this really the key to the universe?
  - [https://www.youtube.com/watch?v=6ZrO90AI0c8](https://www.youtube.com/watch?v=6ZrO90AI0c8)
@@ -1438,7 +1446,7 @@
 
  ## Twitter suspends Babylon Bee account for naming Rachel Levine 'Man of the Year'
  - [https://nypost.com/2022/03/21/twitter-suspends-babylon-bee-over-rachel-levine-man-of-the-year-title](https://nypost.com/2022/03/21/twitter-suspends-babylon-bee-over-rachel-levine-man-of-the-year-title)
- - date_published: 2022-03-21T14:47:33+00:00
+ - date_published: 2022-03-21T13:47:33+00:00
  - tags: ['censorship', 'rachel levine']
 
  ## The Babylon Bee's Twitter Account Was Suspended, But That Made Its Story Go Viral
@@ -1527,10 +1535,18 @@
  - [https://jvns.ca/blog/2022/03/23/a-toy-version-of-tls](https://jvns.ca/blog/2022/03/23/a-toy-version-of-tls)
  - date_published: 2022-03-25T15:37:24.184094+00:00
 
+ ## Open Source Software Faces Threats of Protestware and Sabotage | WIRED
+ - [https://www.wired.com/story/open-source-sabotage-protestware](https://www.wired.com/story/open-source-sabotage-protestware)
+ - date_published: 2022-03-25T19:35:03+00:00
+
  ## BlackRock's Fink says Russia-Ukraine crisis could accelerate digital currencies
  - [https://www.reuters.com/technology/blackrocks-fink-says-russia-ukraine-crisis-could-accelerate-digital-currencies-2022-03-24](https://www.reuters.com/technology/blackrocks-fink-says-russia-ukraine-crisis-could-accelerate-digital-currencies-2022-03-24)
  - date_published: 2022-03-25T21:11:37+00:00
  - tags: ['blackrock', 'cbdc', 'crisis', 'ukraine', 'war']
+
+ ## How an Ivy League School Turned Against a Student | The New Yorker
+ - [https://www.newyorker.com/magazine/2022/04/04/mackenzie-fierceton-rhodes-scholarship-university-of-pennsylvania](https://www.newyorker.com/magazine/2022/04/04/mackenzie-fierceton-rhodes-scholarship-university-of-pennsylvania)
+ - date_published: 2022-03-25T23:58:30+00:00
 
  ## Interview with a Postdoc, Junior Python Developer
  - [https://www.youtube.com/watch?v=YnL9vAFphmE](https://www.youtube.com/watch?v=YnL9vAFphmE)
@@ -1541,6 +1557,11 @@
  - [https://swizec.com/blog/saving-time-in-utc-doesnt-work-and-offsets-arent-enough](https://swizec.com/blog/saving-time-in-utc-doesnt-work-and-offsets-arent-enough)
  - date_published: 2022-03-26T18:58:02.396994+00:00
 
+ ## ‘The last thing you want to see’: The backlash against Mother’s Day opt-out emails | The Independent
+ - [https://www.independent.co.uk/life-style/women/mothers-day-emails-opt-out-b2043940.html](https://www.independent.co.uk/life-style/women/mothers-day-emails-opt-out-b2043940.html)
+ - date_published: 2022-03-27T06:27:21+00:00
+ - tags: ['family']
+
  ## Mourning Loss of a Team Member as a Remote Team
  - [https://www.sofuckingagile.com/blog/mourning-loss-as-a-remote-team](https://www.sofuckingagile.com/blog/mourning-loss-as-a-remote-team)
  - date_published: 2022-03-27T09:43:30.996485+00:00
@@ -1550,10 +1571,9 @@
  - date_published: 2022-03-27T11:00:25.822831+00:00
  - tags: ['corporatocracy', 'google', 'technofeudalism']
 
- ## ‘The last thing you want to see’: The backlash against Mother’s Day opt-out emails | The Independent
- - [https://www.independent.co.uk/life-style/women/mothers-day-emails-opt-out-b2043940.html](https://www.independent.co.uk/life-style/women/mothers-day-emails-opt-out-b2043940.html)
- - date_published: 2022-03-27T14:17:23+00:00
- - tags: ['family']
+ ## Yet Another GitHub Profile Generator - House Absolute(ly Pointless)
+ - [https://blog.urth.org/2022/03/28/yet-another-github-profile-generator](https://blog.urth.org/2022/03/28/yet-another-github-profile-generator)
+ - date_published: 2022-03-28T10:09:46+00:00
 
  ## The ghost junction | Roads.org.uk
  - [https://www.roads.org.uk/blog/ghost-junction](https://www.roads.org.uk/blog/ghost-junction)
@@ -1565,7 +1585,7 @@
 
  ## Data-harvesting code in mobile apps sends user data to “Russia’s Google” | Ars Technica
  - [https://arstechnica.com/information-technology/2022/03/data-harvesting-code-in-mobile-apps-sends-user-data-to-russias-google](https://arstechnica.com/information-technology/2022/03/data-harvesting-code-in-mobile-apps-sends-user-data-to-russias-google)
- - date_published: 2022-03-29T17:57:33+00:00
+ - date_published: 2022-03-29T14:18:09+00:00
  - tags: ['anonymity', 'privacy', 'russia', 'surveillance', 'tracking', 'yandex']
 
  ## Why Modern Movies Suck - Modern Actors
@@ -1573,18 +1593,27 @@
  - date_published: 2022-03-30T00:00:00+00:00
  - tags: ['hollywood', 'movies']
 
+ ## Breaking the Monolith at Twitch: Part One | Twitch Blog
+ - [https://blog.twitch.tv/en/2022/03/30/breaking-the-monolith-at-twitch](https://blog.twitch.tv/en/2022/03/30/breaking-the-monolith-at-twitch)
+ - date_published: 2022-03-30T09:00:00+00:00
+
+ ## ‘Really alarming’: the rise of smart cameras used to catch maskless students in US schools | Surveillance | The Guardian
+ - [https://www.theguardian.com/world/2022/mar/30/smart-cameras-us-schools-artificial-intelligence](https://www.theguardian.com/world/2022/mar/30/smart-cameras-us-schools-artificial-intelligence)
+ - date_published: 2022-03-30T09:30:03+00:00
+
+ ## Taking pictures the hard way
+ - [https://blog.brixit.nl/getting-into-analog-photography](https://blog.brixit.nl/getting-into-analog-photography)
+ - date_published: 2022-03-30T12:41:07+00:00
+
  ## Biden to Receive Second Pfizer Booster After Covid Remarks - The New York Times
  - [https://www.nytimes.com/2022/03/30/us/politics/biden-second-booster-covid.html](https://www.nytimes.com/2022/03/30/us/politics/biden-second-booster-covid.html)
  - date_published: 2022-03-30T20:51:14+00:00
  - tags: ['covid', 'vaccine']
+ - date_dead_since: 2025-08-06T23:28:34.679223+00:00
 
  ## Emily Bridges: Transgender cyclist will not race in women's National Omnium event - BBC Sport
  - [https://www.bbc.co.uk/sport/cycling/60934099](https://www.bbc.co.uk/sport/cycling/60934099)
  - date_published: 2022-03-30T21:30:31.571183+00:00
-
- ## ‘Really alarming’: the rise of smart cameras used to catch maskless students in US schools | Surveillance | The Guardian
- - [https://www.theguardian.com/world/2022/mar/30/smart-cameras-us-schools-artificial-intelligence](https://www.theguardian.com/world/2022/mar/30/smart-cameras-us-schools-artificial-intelligence)
- - date_published: 2022-03-30T21:58:09.319789+00:00
 
  ## EXCLUSIVE U.S. warned firms about Russia's Kaspersky software day after invasion -sources
  - [https://www.reuters.com/technology/exclusive-us-warned-firms-about-russias-kaspersky-software-day-after-invasion-2022-03-31](https://www.reuters.com/technology/exclusive-us-warned-firms-about-russias-kaspersky-software-day-after-invasion-2022-03-31)
@@ -1594,6 +1623,15 @@
  - [https://notrelated.xyz/audio/s02/S02E07_-_Overpopulation_and_the_Mouse_Metaverse.ogg](https://notrelated.xyz/audio/s02/S02E07_-_Overpopulation_and_the_Mouse_Metaverse.ogg)
  - date_published: 2022-03-31T04:00:00+00:00
  - date_dead_since: 2024-04-23T00:20:11.560307+00:00
+
+ ## Twitter user sentenced to 150 hours of community service in UK for posting ‘offensive’ tweet - The Verge
+ - [https://www.theverge.com/2022/3/31/23004339/uk-twitter-user-sentenced-grossly-offensive-tweet-tom-moore-joseph-kelly](https://www.theverge.com/2022/3/31/23004339/uk-twitter-user-sentenced-grossly-offensive-tweet-tom-moore-joseph-kelly)
+ - date_published: 2022-03-31T08:26:49+00:00
+ - tags: ['censorship', 'hate speech', 'twitter']
+
+ ## A few things to know before stealing my 914 - Hagerty Media
+ - [https://www.hagerty.com/media/advice/a-few-things-to-know-before-you-steal-my-914](https://www.hagerty.com/media/advice/a-few-things-to-know-before-you-steal-my-914)
+ - date_published: 2022-03-31T19:20:43+00:00
 
  ## How Go Mitigates Supply Chain Attacks - The Go Programming Language
  - [https://go.dev/blog/supply-chain](https://go.dev/blog/supply-chain)
@@ -1608,31 +1646,18 @@
  - date_published: 2022-04-01T09:54:12+00:00
  - tags: ['covid', 'science', 'vaccine']
 
+ ## Vizio TVs are now showing banner ads over live TV - FlatpanelsHD
+ - [https://www.flatpanelshd.com/news.php?subaction=showfull&id=1648829114](https://www.flatpanelshd.com/news.php?subaction=showfull&id=1648829114)
+ - date_published: 2022-04-01T18:05:00+00:00
+
  ## Interview with a VIM Enthusiast
  - [https://www.youtube.com/watch?v=9n1dtmzqnCU](https://www.youtube.com/watch?v=9n1dtmzqnCU)
  - date_published: 2022-04-02T00:00:00+00:00
  - tags: ['funny', 'programming']
 
- ## A few things to know before stealing my 914 - Hagerty Media
- - [https://www.hagerty.com/media/advice/a-few-things-to-know-before-you-steal-my-914](https://www.hagerty.com/media/advice/a-few-things-to-know-before-you-steal-my-914)
- - date_published: 2022-04-02T08:03:55.847638+00:00
-
- ## Twitter user sentenced to 150 hours of community service in UK for posting ‘offensive’ tweet - The Verge
- - [https://www.theverge.com/2022/3/31/23004339/uk-twitter-user-sentenced-grossly-offensive-tweet-tom-moore-joseph-kelly](https://www.theverge.com/2022/3/31/23004339/uk-twitter-user-sentenced-grossly-offensive-tweet-tom-moore-joseph-kelly)
- - date_published: 2022-04-02T08:09:30.108971+00:00
- - tags: ['censorship', 'hate speech', 'twitter']
-
  ## A database for 2022 · Tailscale
  - [https://tailscale.com/blog/database-for-2022](https://tailscale.com/blog/database-for-2022)
  - date_published: 2022-04-02T11:12:01.019631+00:00
-
- ## Yet Another GitHub Profile Generator - House Absolute(ly Pointless)
- - [https://blog.urth.org/2022/03/28/yet-another-github-profile-generator](https://blog.urth.org/2022/03/28/yet-another-github-profile-generator)
- - date_published: 2022-04-02T14:39:24+00:00
-
- ## The story behind creepy-as-hell ‘milk bath’ flyers
- - [https://nypost.com/2017/12/22/the-story-behind-creepy-as-hell-milk-bath-flyers](https://nypost.com/2017/12/22/the-story-behind-creepy-as-hell-milk-bath-flyers)
- - date_published: 2022-04-02T15:56:01.955793+00:00
 
  ## Chris's Wiki :: blog/programming/GoOnIdentifierVisibility
  - [https://utcc.utoronto.ca/~cks/space/blog/programming/GoOnIdentifierVisibility](https://utcc.utoronto.ca/~cks/space/blog/programming/GoOnIdentifierVisibility)
@@ -1643,24 +1668,19 @@
  - date_published: 2022-04-03T15:06:29+00:00
  - tags: ['cdbc', 'government control', 'wef', 'world economic forum']
 
- ## Vizio TVs are now showing banner ads over live TV - FlatpanelsHD
- - [https://www.flatpanelshd.com/news.php?subaction=showfull&id=1648829114](https://www.flatpanelshd.com/news.php?subaction=showfull&id=1648829114)
- - date_published: 2022-04-04T07:21:13.558665+00:00
-
  ## The Squeaky Blog | Why we don’t use a staging environment
  - [https://squeaky.ai/blog/development/why-we-dont-use-a-staging-environment](https://squeaky.ai/blog/development/why-we-dont-use-a-staging-environment)
  - date_published: 2022-04-04T07:39:02.146571+00:00
- - date_dead_since: 2024-10-19T19:51:49.638151+00:00
+
+ ## Black Lives Matter Secretly Bought a $6 Million House
+ - [https://nymag.com/intelligencer/2022/04/black-lives-matter-6-million-dollar-house.html](https://nymag.com/intelligencer/2022/04/black-lives-matter-6-million-dollar-house.html)
+ - date_published: 2022-04-04T11:30:17+00:00
+ - tags: ['black lives matter', 'blm', 'hypocrisy']
 
  ## Conversion therapy ban: Over 80 LGBT groups quit government conference - BBC News
  - [https://www.bbc.co.uk/news/uk-60988210](https://www.bbc.co.uk/news/uk-60988210)
  - date_published: 2022-04-04T16:36:36.104621+00:00
  - tags: ['censorship', 'lgbt', 'transgender']
-
- ## Black Lives Matter Secretly Bought a $6 Million House
- - [https://nymag.com/intelligencer/2022/04/black-lives-matter-6-million-dollar-house.html](https://nymag.com/intelligencer/2022/04/black-lives-matter-6-million-dollar-house.html)
- - date_published: 2022-04-04T21:18:38+00:00
- - tags: ['black lives matter', 'blm', 'hypocrisy']
 
  ## GitHub can now auto-block commits containing API keys, auth tokens
  - [https://www.bleepingcomputer.com/news/security/github-can-now-auto-block-commits-containing-api-keys-auth-tokens](https://www.bleepingcomputer.com/news/security/github-can-now-auto-block-commits-containing-api-keys-auth-tokens)
@@ -1670,6 +1690,7 @@
  - [https://academic.oup.com/cid/article/75/1/e545/6563799](https://academic.oup.com/cid/article/75/1/e545/6563799)
  - date_published: 2022-04-05T05:10:27+00:00
  - tags: ['covid', 'vaccine']
+ - date_dead_since: 2025-08-06T21:59:29.083820+00:00
 
  ## Exit Interviews Are a Trap - Jacob Kaplan-Moss
  - [https://jacobian.org/2022/apr/4/exit-interviews-are-a-trap](https://jacobian.org/2022/apr/4/exit-interviews-are-a-trap)
@@ -1679,18 +1700,18 @@
  - [https://verdagon.dev/blog/yak-shave-language-engine-game](https://verdagon.dev/blog/yak-shave-language-engine-game)
  - date_published: 2022-04-05T11:38:52+00:00
 
- ## CitizenLab Reports Jordan Used NSO Group Spyware to Hack Activists Devices - DAWN
- - [https://dawnmena.org/citizenlab-reports-jordan-used-nso-group-spyware-to-hack-activists-devices](https://dawnmena.org/citizenlab-reports-jordan-used-nso-group-spyware-to-hack-activists-devices)
- - date_published: 2022-04-05T18:01:18+00:00
- - tags: ['anonymity', 'jordan', 'nso', 'pegasus', 'privacy', 'surveillance']
-
  ## TikTok doesn't show the war in Ukraine to Russian users – Oslo og Viken
  - [https://www.nrk.no/osloogviken/xl/tiktok-doesn_t-show-the-war-in-ukraine-to-russian-users-1.15921522](https://www.nrk.no/osloogviken/xl/tiktok-doesn_t-show-the-war-in-ukraine-to-russian-users-1.15921522)
- - date_published: 2022-04-06T07:10:36+00:00
+ - date_published: 2022-04-05T12:43:51+00:00
 
- ## How an Ivy League School Turned Against a Student | The New Yorker
- - [https://www.newyorker.com/magazine/2022/04/04/mackenzie-fierceton-rhodes-scholarship-university-of-pennsylvania](https://www.newyorker.com/magazine/2022/04/04/mackenzie-fierceton-rhodes-scholarship-university-of-pennsylvania)
- - date_published: 2022-04-06T11:58:22.541819+00:00
+ ## CitizenLab Reports Jordan Used NSO Group Spyware to Hack Activists Devices - DAWN
+ - [https://dawnmena.org/citizenlab-reports-jordan-used-nso-group-spyware-to-hack-activists-devices](https://dawnmena.org/citizenlab-reports-jordan-used-nso-group-spyware-to-hack-activists-devices)
+ - date_published: 2022-04-05T16:46:56+00:00
+ - tags: ['anonymity', 'jordan', 'nso', 'pegasus', 'privacy', 'surveillance']
+
+ ## Sajid Javid condemned for linking being trans to child sex abuse
+ - [https://www.pinknews.co.uk/2022/04/06/sajid-javid-conversion-therapy-ban-trans-uk](https://www.pinknews.co.uk/2022/04/06/sajid-javid-conversion-therapy-ban-trans-uk)
+ - date_published: 2022-04-06T11:24:46+00:00
 
  ## Breaking PCBs for Science - News - SparkFun Electronics
  - [https://www.sparkfun.com/news/4400](https://www.sparkfun.com/news/4400)
@@ -1759,25 +1780,38 @@
  ## You can do a lot with an empty file
  - [https://rachelbythebay.com/w/2022/04/06/text](https://rachelbythebay.com/w/2022/04/06/text)
  - date_published: 2022-04-07T09:40:07.434362+00:00
- - date_dead_since: 2025-03-24T20:57:40.576484+00:00
+ - date_dead_since: 2025-08-06T20:09:30.413578+00:00
+
+ ## What Le Corbusier got right about office space | Tim Harford
+ - [https://timharford.com/2022/04/what-le-corbusier-got-right-about-office-space](https://timharford.com/2022/04/what-le-corbusier-got-right-about-office-space)
+ - date_published: 2022-04-07T16:50:00+00:00
 
  ## Prime Minister Boris Johnson says transgender women should not compete in women's sport - BBC Sport
  - [https://www.bbc.co.uk/sport/61012030](https://www.bbc.co.uk/sport/61012030)
  - date_published: 2022-04-08T08:00:45.591626+00:00
  - tags: ['gender', 'sports', 'transgender', 'women']
 
- ## Open Source Software Faces Threats of Protestware and Sabotage | WIRED
- - [https://www.wired.com/story/open-source-sabotage-protestware](https://www.wired.com/story/open-source-sabotage-protestware)
- - date_published: 2022-04-08T09:33:30.800476+00:00
-
- ## Troy Hunt: Beg Bounties
- - [https://www.troyhunt.com/beg-bounties](https://www.troyhunt.com/beg-bounties)
- - date_published: 2022-04-08T11:23:32.508595+00:00
+ ## The Dunning-Kruger Effect is Autocorrelation – Economics from the Top Down
+ - [https://economicsfromthetopdown.com/2022/04/08/the-dunning-kruger-effect-is-autocorrelation](https://economicsfromthetopdown.com/2022/04/08/the-dunning-kruger-effect-is-autocorrelation)
+ - date_published: 2022-04-08T15:35:54+00:00
+ - tags: ['dunning-kruger effect']
 
  ## Interview with a Senior Python Developer - Part1
  - [https://www.youtube.com/watch?v=BgxklT94W0I](https://www.youtube.com/watch?v=BgxklT94W0I)
  - date_published: 2022-04-09T00:00:00+00:00
  - tags: ['funny', 'programming']
+
+ ## Here’s what happens when cops pull over a driverless Cruise vehicle - The Verge
+ - [https://www.theverge.com/2022/4/10/23019303/heres-what-happens-cops-pull-over-a-driverless-cruise-vehicle-general-motors](https://www.theverge.com/2022/4/10/23019303/heres-what-happens-cops-pull-over-a-driverless-cruise-vehicle-general-motors)
+ - date_published: 2022-04-10T21:07:25+00:00
+
+ ## A System-Witch's Package Manager Murder Mystery
+ - [https://artemis.sh/2022/04/11/package-manager-murder-mystery.html](https://artemis.sh/2022/04/11/package-manager-murder-mystery.html)
+ - date_published: 2022-04-11T00:00:00+00:00
+
+ ## Impressions from a first-time Mac user | Logan Marchione
+ - [https://loganmarchione.com/2022/04/impressions-from-a-first-time-mac-user](https://loganmarchione.com/2022/04/impressions-from-a-first-time-mac-user)
+ - date_published: 2022-04-11T00:00:00+00:00
 
  ## The Joy of Small Projects - Dominick Schroer's Blog
  - [https://schroer.ca/2022/04/10/the-joy-of-small-projects](https://schroer.ca/2022/04/10/the-joy-of-small-projects)
@@ -1787,10 +1821,6 @@
  - [https://josephg.com/blog/node-sandbox](https://josephg.com/blog/node-sandbox)
  - date_published: 2022-04-11T07:28:18+00:00
 
- ## Here’s what happens when cops pull over a driverless Cruise vehicle - The Verge
- - [https://www.theverge.com/2022/4/10/23019303/heres-what-happens-cops-pull-over-a-driverless-cruise-vehicle-general-motors](https://www.theverge.com/2022/4/10/23019303/heres-what-happens-cops-pull-over-a-driverless-cruise-vehicle-general-motors)
- - date_published: 2022-04-11T14:31:33.070521+00:00
-
  ## My Mathematics PhD research workflow | Gilles Castel
  - [https://castel.dev/post/research-workflow](https://castel.dev/post/research-workflow)
  - date_published: 2022-04-11T14:35:08.429883+00:00
@@ -1799,13 +1829,10 @@
  - [https://lof.flounder.online/gemlog/2022-04-11%20How%20I%20decided%20to%20move%20away%20for%20bigTech%20for%20my%20children%20and%20myself.gmi](https://lof.flounder.online/gemlog/2022-04-11%20How%20I%20decided%20to%20move%20away%20for%20bigTech%20for%20my%20children%20and%20myself.gmi)
  - date_published: 2022-04-11T15:46:15.012602+00:00
 
- ## Taking pictures the hard way
- - [https://blog.brixit.nl/getting-into-analog-photography](https://blog.brixit.nl/getting-into-analog-photography)
- - date_published: 2022-04-11T16:42:10.749258+00:00
-
  ## What Is ‘Medical Gaslighting’ and How Can You Elevate Health Care - The New York Times
  - [https://www.nytimes.com/2022/03/28/well/live/gaslighting-doctors-patients-health.html](https://www.nytimes.com/2022/03/28/well/live/gaslighting-doctors-patients-health.html)
  - date_published: 2022-04-11T21:05:12.832082+00:00
+ - date_dead_since: 2025-08-06T19:18:29.161605+00:00
 
  ## Kevin Lee: The Briton who plays the bad guy in China's patriotic movies - BBC News
  - [https://www.bbc.co.uk/news/world-asia-china-60798556](https://www.bbc.co.uk/news/world-asia-china-60798556)
@@ -1815,13 +1842,9 @@
  - [https://medium.com/enzymit-log/why-enzymit-decided-to-build-its-own-on-prem-hpc-infrastructure-bcaeff0105a7](https://medium.com/enzymit-log/why-enzymit-decided-to-build-its-own-on-prem-hpc-infrastructure-bcaeff0105a7)
  - date_published: 2022-04-12T08:57:21+00:00
 
- ## Impressions from a first-time Mac user | Logan Marchione
- - [https://loganmarchione.com/2022/04/impressions-from-a-first-time-mac-user](https://loganmarchione.com/2022/04/impressions-from-a-first-time-mac-user)
- - date_published: 2022-04-12T11:22:35.065316+00:00
-
- ## What Le Corbusier got right about office space | Tim Harford
- - [https://timharford.com/2022/04/what-le-corbusier-got-right-about-office-space](https://timharford.com/2022/04/what-le-corbusier-got-right-about-office-space)
- - date_published: 2022-04-12T11:56:55.257586+00:00
+ ## Breaking the Monolith at Twitch: Part 2 | Twitch Blog
+ - [https://blog.twitch.tv/en/2022/04/12/breaking-the-monolith-at-twitch-part-2](https://blog.twitch.tv/en/2022/04/12/breaking-the-monolith-at-twitch-part-2)
+ - date_published: 2022-04-12T09:00:00+00:00
 
  ## At last, Atlassian sees an end to its outage ... in two weeks • The Register
  - [https://www.theregister.com/AMP/2022/04/11/atlassian_outage_backups](https://www.theregister.com/AMP/2022/04/11/atlassian_outage_backups)
@@ -1836,15 +1859,13 @@
  - [https://www.euractiv.com/section/digital/news/macron-still-wants-to-end-online-anonymity](https://www.euractiv.com/section/digital/news/macron-still-wants-to-end-online-anonymity)
  - date_published: 2022-04-13T06:44:27+00:00
  - tags: ['anonymity', 'big brother', 'france', 'government control', 'privacy']
+ - date_dead_since: 2025-08-06T18:44:29.220232+00:00
 
  ## No, Adding an Attorney on an Email Does Not Automatically Make It Privileged
  - [https://www.americanbar.org/groups/litigation/committees/pretrial-practice-discovery/practice/2022/no-adding-an-attorney-on-an-email-does-not-automatically-make-it-privileged](https://www.americanbar.org/groups/litigation/committees/pretrial-practice-discovery/practice/2022/no-adding-an-attorney-on-an-email-does-not-automatically-make-it-privileged)
  - date_published: 2022-04-13T07:40:54+00:00
  - tags: ['corporatocracy', 'google', 'monopoly']
-
- ## A System-Witch's Package Manager Murder Mystery
- - [https://artemis.sh/2022/04/11/package-manager-murder-mystery.html](https://artemis.sh/2022/04/11/package-manager-murder-mystery.html)
- - date_published: 2022-04-13T10:46:27+00:00
+ - date_dead_since: 2025-08-06T18:38:35.055616+00:00
 
  ## Russian trolls tried to distract voters with music tweets in 2016 | Cornell Chronicle
  - [https://news.cornell.edu/stories/2022/04/russian-trolls-tried-distract-voters-music-tweets-2016-0](https://news.cornell.edu/stories/2022/04/russian-trolls-tried-distract-voters-music-tweets-2016-0)
@@ -1888,11 +1909,6 @@
  - date_published: 2022-04-16T09:59:41.557839+00:00
  - tags: ['duckduckgo', 'moderation']
 
- ## The Dunning-Kruger Effect is Autocorrelation – Economics from the Top Down
- - [https://economicsfromthetopdown.com/2022/04/08/the-dunning-kruger-effect-is-autocorrelation](https://economicsfromthetopdown.com/2022/04/08/the-dunning-kruger-effect-is-autocorrelation)
- - date_published: 2022-04-16T14:51:57.029892+00:00
- - tags: ['dunning-kruger effect']
-
  ## A Census of Minecraft Servers
  - [https://blog.bithole.dev/mcmap.html](https://blog.bithole.dev/mcmap.html)
  - date_published: 2022-04-16T17:12:25.080411+00:00
@@ -1901,9 +1917,14 @@
  - [http://www.e-basteln.de/computing/papertape/overview](http://www.e-basteln.de/computing/papertape/overview)
  - date_published: 2022-04-16T17:14:50.450216+00:00
 
+ ## The musl preprocessor debate | The Cat Fox Life
+ - [https://catfox.life/2022/04/16/the-musl-preprocessor-debate](https://catfox.life/2022/04/16/the-musl-preprocessor-debate)
+ - date_published: 2022-04-17T01:01:57+00:00
+
  ## Quartz is taking down the paywall on QZ.com — Quartz
  - [https://qz.com/2154695/quartz-is-taking-down-the-paywall-on-qz-com](https://qz.com/2154695/quartz-is-taking-down-the-paywall-on-qz-com)
  - date_published: 2022-04-17T17:18:17.699849+00:00
+ - date_dead_since: 2025-08-06T17:33:40.253547+00:00
 
  ## Be less technical
  - [https://www.sequential.dev/posts/be-less-technical](https://www.sequential.dev/posts/be-less-technical)
@@ -1915,53 +1936,62 @@
  - date_published: 2022-04-17T20:49:51+00:00
  - tags: ['adl', 'immigration', 'israel', 'white genocide']
 
- ## The musl preprocessor debate | The Cat Fox Life
- - [https://catfox.life/2022/04/16/the-musl-preprocessor-debate](https://catfox.life/2022/04/16/the-musl-preprocessor-debate)
- - date_published: 2022-04-18T08:26:44.289944+00:00
+ ## Judge Declares Federal Public Transportation Mask Mandate Unlawful
+ - [https://www.forbes.com/sites/alisondurkee/2022/04/18/judge-declares-federal-public-transportation-mask-mandate-unlawful](https://www.forbes.com/sites/alisondurkee/2022/04/18/judge-declares-federal-public-transportation-mask-mandate-unlawful)
+ - date_published: 2022-04-18T00:00:00+00:00
+ - tags: ['covid', 'masks']
 
  ## Richard Stallman - "The state of the Free Software movement" - April 13, 2022
  - [https://lunduke.substack.com/p/richard-stallman-the-state-of-the?s=r](https://lunduke.substack.com/p/richard-stallman-the-state-of-the?s=r)
  - date_published: 2022-04-18T08:30:39.017912+00:00
 
- ## Judge Declares Federal Public Transportation Mask Mandate Unlawful
- - [https://www.forbes.com/sites/alisondurkee/2022/04/18/judge-declares-federal-public-transportation-mask-mandate-unlawful](https://www.forbes.com/sites/alisondurkee/2022/04/18/judge-declares-federal-public-transportation-mask-mandate-unlawful)
- - date_published: 2022-04-18T22:39:00+00:00
- - tags: ['covid', 'masks']
-
  ## How Intuit's TurboTax capitalized on taxpayers' fear.
  - [https://slate.com/technology/2022/04/turbotax-free-file-online-ftc.html](https://slate.com/technology/2022/04/turbotax-free-file-online-ftc.html)
- - date_published: 2022-04-19T15:08:25.280236+00:00
+ - date_published: 2022-04-18T12:27:22+00:00
 
- ## Practical Guide to Solving Hard Problems
- - [https://praeclarum.org/2022/02/19/hard-problems.html](https://praeclarum.org/2022/02/19/hard-problems.html)
- - date_published: 2022-04-19T15:14:16.650512+00:00
+ ## The Applesoft Compiler (TASC): We have the source code, in a sense - The Old New Thing
+ - [https://devblogs.microsoft.com/oldnewthing/20220419-00/?p=106496](https://devblogs.microsoft.com/oldnewthing/20220419-00/?p=106496)
+ - date_published: 2022-04-19T14:00:00+00:00
+
+ ## Google’s AI-Powered ‘Inclusive Warnings’ Feature Is Very Broken
+ - [https://www.vice.com/en/article/v7dk8m/googles-ai-powered-inclusive-warnings-feature-is-very-broken](https://www.vice.com/en/article/v7dk8m/googles-ai-powered-inclusive-warnings-feature-is-very-broken)
+ - date_published: 2022-04-19T14:48:59+00:00
+
+ ## ‘It will be hard to find a farmer left’: Sri Lanka reels from rash fertiliser ban | Sri Lanka | The Guardian
+ - [https://www.theguardian.com/world/2022/apr/20/sri-lanka-fertiliser-ban-president-rajapaksa-farmers-harvests-collapse](https://www.theguardian.com/world/2022/apr/20/sri-lanka-fertiliser-ban-president-rajapaksa-farmers-harvests-collapse)
+ - date_published: 2022-04-20T04:39:24+00:00
+ - tags: ['climate change', 'crisis', 'pollution', 'sri lanka']
 
  ## How we upgraded our 4 TB main application Postgres database
  - [https://retool.com/blog/how-we-upgraded-postgresql-database](https://retool.com/blog/how-we-upgraded-postgresql-database)
  - date_published: 2022-04-20T11:19:39+00:00
 
- ## ‘It will be hard to find a farmer left’: Sri Lanka reels from rash fertiliser ban | Sri Lanka | The Guardian
- - [https://www.theguardian.com/world/2022/apr/20/sri-lanka-fertiliser-ban-president-rajapaksa-farmers-harvests-collapse](https://www.theguardian.com/world/2022/apr/20/sri-lanka-fertiliser-ban-president-rajapaksa-farmers-harvests-collapse)
- - date_published: 2022-04-20T14:07:15+00:00
- - tags: ['climate change', 'crisis', 'pollution', 'sri lanka']
-
  ## Netflix stock plunges 35% in company's worst day since 2004: Streaming giant loses $54 BILLION in value after shedding 200,000 subscribers in first quarter as viewers complain there's 'nothing to watch'
  - [https://www.dailymail.co.uk/news/article-10735417/Netflix-track-BIGGEST-stock-drop-decade.html](https://www.dailymail.co.uk/news/article-10735417/Netflix-track-BIGGEST-stock-drop-decade.html)
- - date_published: 2022-04-20T18:26:25+00:00
+ - date_published: 2022-04-20T13:27:29+00:00
  - tags: ['netflix', 'streaming', 'subscription', 'technofeudalism']
+
+ ## Shitposting as a Learning Style - Last Week in AWS Blog
+ - [https://www.lastweekinaws.com/blog/shitposting-as-a-learning-style](https://www.lastweekinaws.com/blog/shitposting-as-a-learning-style)
+ - date_published: 2022-04-20T14:30:00+00:00
 
  ## ‘Jack Dorsey’s First Tweet’ NFT Went on Sale for $48M. It Ended With a Top Bid of Just $280
  - [https://www.coindesk.com/business/2022/04/13/jack-dorseys-first-tweet-nft-went-on-sale-for-48m-it-ended-with-a-top-bid-of-just-280](https://www.coindesk.com/business/2022/04/13/jack-dorseys-first-tweet-nft-went-on-sale-for-48m-it-ended-with-a-top-bid-of-just-280)
  - date_published: 2022-04-21T06:45:19.870657+00:00
+ - date_dead_since: 2025-08-06T16:43:28.909279+00:00
+
+ ## Tory health minister Sajid Javid attacks NHS gender services for trans kids
+ - [https://www.pinknews.co.uk/2022/04/21/sajid-javid-tory-nhs-gender-services-trans](https://www.pinknews.co.uk/2022/04/21/sajid-javid-tory-nhs-gender-services-trans)
+ - date_published: 2022-04-21T15:41:31+00:00
+
+ ## Olympic champion Katie Archibald says sport is failing trans athletes
+ - [https://www.pinknews.co.uk/2022/04/21/katie-archibald-trans-athletes-cycling-uk-emily-bridges](https://www.pinknews.co.uk/2022/04/21/katie-archibald-trans-athletes-cycling-uk-emily-bridges)
+ - date_published: 2022-04-21T16:04:40+00:00
 
  ## US’ chip bid ‘futile,’ Morris Chang says - Taipei Times
  - [https://www.taipeitimes.com/News/biz/archives/2022/04/22/2003776996](https://www.taipeitimes.com/News/biz/archives/2022/04/22/2003776996)
- - date_published: 2022-04-22T07:54:28+00:00
+ - date_published: 2022-04-22T00:00:00+00:00
  - tags: ['hardware', 'processor', 'tsmc']
-
- ## Shitposting as a Learning Style - Last Week in AWS Blog
- - [https://www.lastweekinaws.com/blog/shitposting-as-a-learning-style](https://www.lastweekinaws.com/blog/shitposting-as-a-learning-style)
- - date_published: 2022-04-22T18:14:18.946372+00:00
 
  ## Rapidly building interactive CLIs in Go with Bubbletea → Inngest Blog
  - [https://www.inngest.com/blog/interactive-clis-with-bubbletea](https://www.inngest.com/blog/interactive-clis-with-bubbletea)
@@ -1971,21 +2001,9 @@
  - [https://davidcel.is/posts/stop-validating-email-addresses-with-regex](https://davidcel.is/posts/stop-validating-email-addresses-with-regex)
  - date_published: 2022-04-22T20:44:45.932735+00:00
 
- ## Google’s AI-Powered ‘Inclusive Warnings’ Feature Is Very Broken
- - [https://www.vice.com/en/article/v7dk8m/googles-ai-powered-inclusive-warnings-feature-is-very-broken](https://www.vice.com/en/article/v7dk8m/googles-ai-powered-inclusive-warnings-feature-is-very-broken)
- - date_published: 2022-04-23T07:26:26.977546+00:00
-
  ## Google, Meta, and others will have to explain their algorithms under new EU legislation - The Verge
  - [https://www.theverge.com/2022/4/23/23036976/eu-digital-services-act-finalized-algorithms-targeted-advertising](https://www.theverge.com/2022/4/23/23036976/eu-digital-services-act-finalized-algorithms-targeted-advertising)
- - date_published: 2022-04-24T09:34:08.798001+00:00
-
- ## The Applesoft Compiler (TASC): We have the source code, in a sense - The Old New Thing
- - [https://devblogs.microsoft.com/oldnewthing/20220419-00/?p=106496](https://devblogs.microsoft.com/oldnewthing/20220419-00/?p=106496)
- - date_published: 2022-04-24T09:41:49.892267+00:00
-
- ## Excuse me, has anybody seen the FOCAL interpreter? - The Old New Thing
- - [https://devblogs.microsoft.com/oldnewthing/20200616-00/?p=103869](https://devblogs.microsoft.com/oldnewthing/20200616-00/?p=103869)
- - date_published: 2022-04-24T09:42:36.566282+00:00
+ - date_published: 2022-04-23T08:41:03+00:00
 
  ## Partygate: Removing PM would lead to instability, says Oliver Dowden - BBC News
  - [https://www.bbc.co.uk/news/uk-politics-61207801](https://www.bbc.co.uk/news/uk-politics-61207801)
@@ -1997,7 +2015,7 @@
 
  ## 0x006 - Large Language Models 🦣
  - [https://unzip.dev/0x006-large-language-models](https://unzip.dev/0x006-large-language-models)
- - date_published: 2022-04-25T15:15:04.402165+00:00
+ - date_published: 2022-04-25T14:51:10+00:00
 
  ## GP's online transgender clinic follow-up care criticised - BBC News
  - [https://www.bbc.co.uk/news/uk-wales-61213539](https://www.bbc.co.uk/news/uk-wales-61213539)
@@ -2007,18 +2025,6 @@
  ## Sajid Javid to review gender treatment for children - BBC News
  - [https://www.bbc.co.uk/news/uk-politics-61203575](https://www.bbc.co.uk/news/uk-politics-61203575)
  - date_published: 2022-04-25T20:02:59.483706+00:00
-
- ## Olympic champion Katie Archibald says sport is failing trans athletes
- - [https://www.pinknews.co.uk/2022/04/21/katie-archibald-trans-athletes-cycling-uk-emily-bridges](https://www.pinknews.co.uk/2022/04/21/katie-archibald-trans-athletes-cycling-uk-emily-bridges)
- - date_published: 2022-04-25T20:10:24.708480+00:00
-
- ## Sajid Javid condemned for linking being trans to child sex abuse
- - [https://www.pinknews.co.uk/2022/04/06/sajid-javid-conversion-therapy-ban-trans-uk](https://www.pinknews.co.uk/2022/04/06/sajid-javid-conversion-therapy-ban-trans-uk)
- - date_published: 2022-04-25T20:16:42.091795+00:00
-
- ## Tory health minister Sajid Javid attacks NHS gender services for trans kids
- - [https://www.pinknews.co.uk/2022/04/21/sajid-javid-tory-nhs-gender-services-trans](https://www.pinknews.co.uk/2022/04/21/sajid-javid-tory-nhs-gender-services-trans)
- - date_published: 2022-04-25T20:19:19.015435+00:00
 
  ## Crypto CEO Accidentally Describes Ponzi Scheme
  - [https://www.youtube.com/watch?v=C6nAxiym9oc](https://www.youtube.com/watch?v=C6nAxiym9oc)
@@ -2046,7 +2052,7 @@
 
  ## At Least 66.5% of Links to Sites in the Last 9 Years Are Dead (Ahrefs Study on Link Rot)
  - [https://ahrefs.com/blog/link-rot-study](https://ahrefs.com/blog/link-rot-study)
- - date_published: 2022-04-29T07:36:45+00:00
+ - date_published: 2022-04-29T06:40:30+00:00
  - tags: ['dead internet', 'internet', 'link rot']
 
  ## The Technium: 103 Bits of Advice I Wish I Had Known
@@ -2061,10 +2067,12 @@
  - [https://rachelbythebay.com/w/2022/04/27/thermo](https://rachelbythebay.com/w/2022/04/27/thermo)
  - date_published: 2022-04-29T21:03:05.068149+00:00
  - tags: ['raspberry pi']
+ - date_dead_since: 2025-08-06T15:03:41.153893+00:00
 
  ## Paying a visit to planet BSD
  - [https://rachelbythebay.com/w/2022/04/29/bsd](https://rachelbythebay.com/w/2022/04/29/bsd)
  - date_published: 2022-04-30T07:16:33.213228+00:00
+ - date_dead_since: 2025-08-06T14:59:30.604498+00:00
 
  ## Why is Canada euthanising the poor?
  - [https://www.spectator.co.uk/article/why-is-canada-euthanising-the-poor-](https://www.spectator.co.uk/article/why-is-canada-euthanising-the-poor-)
@@ -2075,35 +2083,44 @@
  - [https://journal.stuffwithstuff.com/2020/04/05/crafting-crafting-interpreters](https://journal.stuffwithstuff.com/2020/04/05/crafting-crafting-interpreters)
  - date_published: 2022-04-30T08:10:51+00:00
 
+ ## Things I don't want to do to grow my side project | Lane's Blog
+ - [https://wagslane.dev/posts/things-i-dont-want-to-do-to-grow-business](https://wagslane.dev/posts/things-i-dont-want-to-do-to-grow-business)
+ - date_published: 2022-05-01T00:00:00+00:00
+
  ## Google Developers Blog: What is black and white and read all over? Noto emoji, a new black and white emoji font
  - [https://developers.googleblog.com/2022/04/what-is-black-and-white-and-read-all.html](https://developers.googleblog.com/2022/04/what-is-black-and-white-and-read-all.html)
  - date_published: 2022-05-01T06:54:37+00:00
+
+ ## I won free load testing
+ - [https://fasterthanli.me/articles/i-won-free-load-testing](https://fasterthanli.me/articles/i-won-free-load-testing)
+ - date_published: 2022-05-02T01:20:00+00:00
 
  ## We think this cool study we found is flawed. Help us reproduce it.
  - [https://pudding.cool/2022/04/random](https://pudding.cool/2022/04/random)
  - date_published: 2022-05-02T08:21:52.942588+00:00
 
- ## Things I don't want to do to grow my side project | Lane's Blog
- - [https://wagslane.dev/posts/things-i-dont-want-to-do-to-grow-business](https://wagslane.dev/posts/things-i-dont-want-to-do-to-grow-business)
- - date_published: 2022-05-02T08:47:25.805338+00:00
-
  ## The Niche Programmer
  - [https://ano.ee/blog/the-niche-programmer](https://ano.ee/blog/the-niche-programmer)
  - date_published: 2022-05-02T09:55:39.653885+00:00
- - date_dead_since: 2024-10-19T09:48:33.879535+00:00
-
- ## I won free load testing
- - [https://fasterthanli.me/articles/i-won-free-load-testing](https://fasterthanli.me/articles/i-won-free-load-testing)
- - date_published: 2022-05-02T10:22:03.354315+00:00
+ - date_dead_since: 2025-08-06T14:33:38.370988+00:00
 
  ## Lenovo ThinkPad P1 Gen3 Review (with Linux) | Ernestas Narmontas
  - [https://ernestas.me/lenovo-thinkpad-p1-gen3](https://ernestas.me/lenovo-thinkpad-p1-gen3)
  - date_published: 2022-05-02T10:24:40.555268+00:00
- - date_dead_since: 2024-10-19T09:38:24.861805+00:00
+ - date_dead_since: 2025-08-06T14:23:33.279587+00:00
+
+ ## Considered “18+” | daniel.haxx.se
+ - [https://daniel.haxx.se/blog/2022/05/02/considered-18](https://daniel.haxx.se/blog/2022/05/02/considered-18)
+ - date_published: 2022-05-02T11:07:39+00:00
 
  ## The Universe of Discourse : Mental illness, attention deficit disorder, and suffering
  - [https://blog.plover.com/brain/add.html](https://blog.plover.com/brain/add.html)
  - date_published: 2022-05-02T13:14:26.179533+00:00
+
+ ## Tracking Exposed: Demanding That the Gods Explain Themselves | Electronic Frontier Foundation
+ - [https://www.eff.org/deeplinks/2022/05/tracking-exposed-demanding-gods-explain-themselves](https://www.eff.org/deeplinks/2022/05/tracking-exposed-demanding-gods-explain-themselves)
+ - date_published: 2022-05-02T13:17:44+00:00
+ - tags: ['algorithms', 'algospeak', 'search engines', 'social media']
 
  ## How I draw figures for my mathematical lecture notes using Inkscape | Gilles Castel
  - [https://castel.dev/post/lecture-notes-2](https://castel.dev/post/lecture-notes-2)
@@ -2122,28 +2139,27 @@
  - date_published: 2022-05-02T13:43:51.776205+00:00
  - tags: ['climate change']
 
- ## Tracking Exposed: Demanding That the Gods Explain Themselves | Electronic Frontier Foundation
- - [https://www.eff.org/deeplinks/2022/05/tracking-exposed-demanding-gods-explain-themselves](https://www.eff.org/deeplinks/2022/05/tracking-exposed-demanding-gods-explain-themselves)
- - date_published: 2022-05-02T18:36:48+00:00
- - tags: ['algorithms', 'algospeak', 'search engines', 'social media']
+ ## Lessons learned from the recent job hunt · Jamie Tanna | Software Engineer
+ - [https://www.jvt.me/posts/2022/05/02/lessons-learned-job-hunt](https://www.jvt.me/posts/2022/05/02/lessons-learned-job-hunt)
+ - date_published: 2022-05-02T16:50:20+00:00
 
  ## Microsoft Can Kiss My A** | Do You Own Your PC?
  - [https://www.youtube.com/watch?v=Lv5xHfZnk4s](https://www.youtube.com/watch?v=Lv5xHfZnk4s)
  - date_published: 2022-05-03T00:00:00+00:00
  - tags: ['subscription', 'windows']
 
+ ## CDC Tracked Millions of Phones to See If Americans Followed COVID Lockdown Orders
+ - [https://www.vice.com/en/article/m7vymn/cdc-tracked-phones-location-data-curfews](https://www.vice.com/en/article/m7vymn/cdc-tracked-phones-location-data-curfews)
+ - date_published: 2022-05-03T13:00:00+00:00
+ - tags: ['big brother', 'cdc', 'covid', 'surveillance']
+
  ## Reviving httpstatuses | Jon Kulton
  - [https://jkulton.com/2022/reviving-httpstatuses](https://jkulton.com/2022/reviving-httpstatuses)
  - date_published: 2022-05-03T15:56:20.291948+00:00
 
- ## CDC Tracked Millions of Phones to See If Americans Followed COVID Lockdown Orders
- - [https://www.vice.com/en/article/m7vymn/cdc-tracked-phones-location-data-curfews](https://www.vice.com/en/article/m7vymn/cdc-tracked-phones-location-data-curfews)
- - date_published: 2022-05-03T20:43:17+00:00
- - tags: ['big brother', 'cdc', 'covid', 'surveillance']
-
- ## Considered “18+” | daniel.haxx.se
- - [https://daniel.haxx.se/blog/2022/05/02/considered-18](https://daniel.haxx.se/blog/2022/05/02/considered-18)
- - date_published: 2022-05-04T05:59:33.174649+00:00
+ ## IBM's asshole test — johnpublic
+ - [https://johnpublic.mataroa.blog/blog/the-asshole-test](https://johnpublic.mataroa.blog/blog/the-asshole-test)
+ - date_published: 2022-05-04T00:00:00+00:00
 
  ## Writing a Book for O'Reilly - Party One
  - [https://www.thecodepainter.co.uk/blog/20220503/writeabook01](https://www.thecodepainter.co.uk/blog/20220503/writeabook01)
@@ -2154,9 +2170,10 @@
  - date_published: 2022-05-05T00:00:00+00:00
  - tags: ['america', 'homelessness', 'san francisco']
 
- ## IBM's asshole test — johnpublic
- - [https://johnpublic.mataroa.blog/blog/the-asshole-test](https://johnpublic.mataroa.blog/blog/the-asshole-test)
- - date_published: 2022-05-05T05:54:34.738380+00:00
+ ## Why Instagram Influencers Are Letting Wealthy Men Poop In Their Mouths.
+ - [https://medium.com/illumination/why-instagram-influencers-are-letting-wealthy-men-poop-in-their-mouths-ac5c35053555](https://medium.com/illumination/why-instagram-influencers-are-letting-wealthy-men-poop-in-their-mouths-ac5c35053555)
+ - date_published: 2022-05-05T01:31:11+00:00
+ - tags: ['2 girls 1 cup', 'elite']
 
  ## Please, stop disabling zoom - Manuel Matuzović
  - [https://www.matuzo.at/blog/2022/please-stop-disabling-zoom](https://www.matuzo.at/blog/2022/please-stop-disabling-zoom)
@@ -2165,20 +2182,12 @@
  ## How I Accidentally Deleted 7TB of Videos Before Going To Production
  - [https://blog.thevinter.com/posts/vimeo](https://blog.thevinter.com/posts/vimeo)
  - date_published: 2022-05-05T18:52:40.665823+00:00
- - date_dead_since: 2024-10-19T08:28:36.222017+00:00
+ - date_dead_since: 2025-08-06T13:19:35.313492+00:00
 
- ## Why Instagram Influencers Are Letting Wealthy Men Poop In Their Mouths.
- - [https://medium.com/illumination/why-instagram-influencers-are-letting-wealthy-men-poop-in-their-mouths-ac5c35053555](https://medium.com/illumination/why-instagram-influencers-are-letting-wealthy-men-poop-in-their-mouths-ac5c35053555)
- - date_published: 2022-05-05T20:08:57+00:00
- - tags: ['2 girls 1 cup', 'elite']
-
- ## Breaking the Monolith at Twitch: Part One | Twitch Blog
- - [https://blog.twitch.tv/en/2022/03/30/breaking-the-monolith-at-twitch](https://blog.twitch.tv/en/2022/03/30/breaking-the-monolith-at-twitch)
- - date_published: 2022-05-06T16:25:17.059223+00:00
-
- ## Breaking the Monolith at Twitch: Part 2 | Twitch Blog
- - [https://blog.twitch.tv/en/2022/04/12/breaking-the-monolith-at-twitch-part-2](https://blog.twitch.tv/en/2022/04/12/breaking-the-monolith-at-twitch-part-2)
- - date_published: 2022-05-06T16:30:24.818789+00:00
+ ## WordPress sites getting hacked ‘within seconds’ of TLS certificates being issued | The Daily Swig
+ - [https://portswigger.net/daily-swig/wordpress-sites-getting-hacked-within-seconds-of-tls-certificates-being-issued](https://portswigger.net/daily-swig/wordpress-sites-getting-hacked-within-seconds-of-tls-certificates-being-issued)
+ - date_published: 2022-05-06T13:36:00+00:00
+ - tags: ['selfhost', 'vulnerability']
 
  ## Your Phone May Soon Replace Many of Your Passwords – Krebs on Security
  - [https://krebsonsecurity.com/2022/05/your-phone-may-soon-replace-many-of-your-passwords](https://krebsonsecurity.com/2022/05/your-phone-may-soon-replace-many-of-your-passwords)
@@ -2188,6 +2197,7 @@
  - [https://www.nytimes.com/2022/05/06/technology/amazon-fires-managers-union-staten-island.html](https://www.nytimes.com/2022/05/06/technology/amazon-fires-managers-union-staten-island.html)
  - date_published: 2022-05-08T06:59:02.741911+00:00
  - tags: ['amazon', 'big tech']
+ - date_dead_since: 2025-08-06T12:59:28.871685+00:00
 
  ## Apple's Director of Machine Learning Resigns Due to Return to Office Work - MacRumors
  - [https://www.macrumors.com/2022/05/07/apple-director-of-machine-learning-resigns](https://www.macrumors.com/2022/05/07/apple-director-of-machine-learning-resigns)
@@ -2200,6 +2210,7 @@
  ## Hundreds of Suicidal Teens Sleep in Emergency Rooms. Every Night. - The New York Times
  - [https://www.nytimes.com/2022/05/08/health/emergency-rooms-teen-mental-health.html](https://www.nytimes.com/2022/05/08/health/emergency-rooms-teen-mental-health.html)
  - date_published: 2022-05-08T14:58:19.864834+00:00
+ - date_dead_since: 2025-08-06T12:44:34.669438+00:00
 
  ## robocadey: Shitposting as a Service - Xe
  - [https://xeiaso.net/blog/robocadey-2022-04-30](https://xeiaso.net/blog/robocadey-2022-04-30)
@@ -2209,10 +2220,6 @@
  - [https://xeiaso.net/blog/site-update-axum-2022-03-21](https://xeiaso.net/blog/site-update-axum-2022-03-21)
  - date_published: 2022-05-08T15:21:57.242452+00:00
 
- ## Lessons learned from the recent job hunt · Jamie Tanna | Software Engineer
- - [https://www.jvt.me/posts/2022/05/02/lessons-learned-job-hunt](https://www.jvt.me/posts/2022/05/02/lessons-learned-job-hunt)
- - date_published: 2022-05-08T15:52:03+00:00
-
  ## Looking for a job while looking after yourself
  - [https://carol.gg/blog/looking-for-a-job](https://carol.gg/blog/looking-for-a-job)
  - date_published: 2022-05-08T15:57:00.165179+00:00
@@ -2220,11 +2227,6 @@
  ## GitHub Next | Visualizing a Codebase
  - [https://githubnext.com/projects/repo-visualization](https://githubnext.com/projects/repo-visualization)
  - date_published: 2022-05-08T16:34:10.434701+00:00
-
- ## WordPress sites getting hacked ‘within seconds’ of TLS certificates being issued | The Daily Swig
- - [https://portswigger.net/daily-swig/wordpress-sites-getting-hacked-within-seconds-of-tls-certificates-being-issued](https://portswigger.net/daily-swig/wordpress-sites-getting-hacked-within-seconds-of-tls-certificates-being-issued)
- - date_published: 2022-05-08T18:37:21.459129+00:00
- - tags: ['selfhost', 'vulnerability']
 
  ## Only Microsoft can give open source the gift of NTFS • The Register
  - [https://www.theregister.com/2022/05/09/only_microsoft_can_give_open](https://www.theregister.com/2022/05/09/only_microsoft_can_give_open)
@@ -2251,9 +2253,9 @@
  - [https://theap.substack.com/p/i-saw-a-cool-truck-today?s=r](https://theap.substack.com/p/i-saw-a-cool-truck-today?s=r)
  - date_published: 2022-05-10T19:25:35.779932+00:00
 
- ## Converting a Python library to Rust
- - [https://alantrick.ca/writings/programming/python_to_rust](https://alantrick.ca/writings/programming/python_to_rust)
- - date_published: 2022-05-10T21:45:36.992238+00:00
+ ## Some Top 100,000 Websites Collect Everything You Type—Before You Hit Submit | WIRED
+ - [https://www.wired.com/story/leaky-forms-keyloggers-meta-tiktok-pixel-study](https://www.wired.com/story/leaky-forms-keyloggers-meta-tiktok-pixel-study)
+ - date_published: 2022-05-11T11:00:00+00:00
 
  ## I Miss Heroku's DevEx - Xe
  - [https://xeiaso.net/blog/heroku-devex-2022-05-12](https://xeiaso.net/blog/heroku-devex-2022-05-12)
@@ -2273,14 +2275,18 @@
  - date_published: 2022-05-13T00:00:00+00:00
  - tags: ['all time', 'internet']
 
+ ## How i fixed my broken monitor with a hair dryer - Johnnys.News
+ - [https://johnnys.news/2022/05/How-i-fixed-my-broken-monitor-with-a-hair-dryer](https://johnnys.news/2022/05/How-i-fixed-my-broken-monitor-with-a-hair-dryer)
+ - date_published: 2022-05-13T11:51:55+00:00
+
+ ## Almost all searches on my independent search engine are now from SEO spam bots
+ - [https://blog.searchmysite.net/posts/almost-all-searches-on-my-independent-search-engine-are-now-from-seo-spam-bots](https://blog.searchmysite.net/posts/almost-all-searches-on-my-independent-search-engine-are-now-from-seo-spam-bots)
+ - date_published: 2022-05-14T00:00:00+00:00
+
  ## OFFICIAL TRAILER: "WHAT IS A WOMAN?"
  - [https://www.youtube.com/watch?v=42ivIRd9N8E](https://www.youtube.com/watch?v=42ivIRd9N8E)
  - date_published: 2022-05-14T00:00:00+00:00
  - tags: ['gender', 'lgbt', 'newspeak', 'the left wing', 'what is a woman']
-
- ## How i fixed my broken monitor with a hair dryer - Johnnys.News
- - [https://johnnys.news/2022/05/How-i-fixed-my-broken-monitor-with-a-hair-dryer](https://johnnys.news/2022/05/How-i-fixed-my-broken-monitor-with-a-hair-dryer)
- - date_published: 2022-05-14T07:03:27.048293+00:00
 
  ## Rosenzweig – The Apple GPU and the Impossible Bug
  - [https://rosenzweig.io/blog/asahi-gpu-part-5.html](https://rosenzweig.io/blog/asahi-gpu-part-5.html)
@@ -2295,10 +2301,6 @@
  - [https://xeiaso.net/blog/fly.io-heroku-replacement](https://xeiaso.net/blog/fly.io-heroku-replacement)
  - date_published: 2022-05-16T05:51:45.929200+00:00
 
- ## Almost all searches on my independent search engine are now from SEO spam bots
- - [https://blog.searchmysite.net/posts/almost-all-searches-on-my-independent-search-engine-are-now-from-seo-spam-bots](https://blog.searchmysite.net/posts/almost-all-searches-on-my-independent-search-engine-are-now-from-seo-spam-bots)
- - date_published: 2022-05-16T13:36:22.695130+00:00
-
  ## MEMEX - The Small Website Discoverability Crisis [2021-09-08]
  - [https://memex.marginalia.nu/log/19-website-discoverability-crisis.gmi](https://memex.marginalia.nu/log/19-website-discoverability-crisis.gmi)
  - date_published: 2022-05-16T20:48:17.020218+00:00
@@ -2307,6 +2309,11 @@
  - [https://blog.mollywhite.net/response-to-the-changeorg-petition-about-me](https://blog.mollywhite.net/response-to-the-changeorg-petition-about-me)
  - date_published: 2022-05-17T11:36:59.647002+00:00
 
+ ## The Disinformation Governance Board Is Dead. Here’s The Right Way To Fight Disinformation.
+ - [https://www.forbes.com/sites/jillgoldenziel/2022/05/18/the-disinformation-governance-board-is-dead-heres-the-right-way-to-fight-disinformation](https://www.forbes.com/sites/jillgoldenziel/2022/05/18/the-disinformation-governance-board-is-dead-heres-the-right-way-to-fight-disinformation)
+ - date_published: 2022-05-18T00:00:00+00:00
+ - tags: ['big brother', 'disinformation governance board', 'government control', 'ministry of truth', 'misinformation', 'oversight board', 'surveillance']
+
  ## ESG scores similar to China's social credit system, designed to transform society, think tank director says | Fox Business
  - [https://www.foxbusiness.com/economy/esg-scores-similar-china-social-credit-system-designed-to-transform-society-think-tank-director-says](https://www.foxbusiness.com/economy/esg-scores-similar-china-social-credit-system-designed-to-transform-society-think-tank-director-says)
  - date_published: 2022-05-18T13:38:44+00:00
@@ -2314,18 +2321,8 @@
 
  ## Disinformation Governance Board 'paused' after just 3 weeks
  - [https://www.washingtonpost.com/technology/2022/05/18/disinformation-board-dhs-nina-jankowicz](https://www.washingtonpost.com/technology/2022/05/18/disinformation-board-dhs-nina-jankowicz)
- - date_published: 2022-05-18T19:50:10+00:00
+ - date_published: 2022-05-18T14:29:46+00:00
  - tags: ['big brother', 'disinformation governance board', 'ministry of truth', 'misinformation', 'oversight board', 'surveillance']
-
- ## The Disinformation Governance Board Is Dead. Here’s The Right Way To Fight Disinformation.
- - [https://www.forbes.com/sites/jillgoldenziel/2022/05/18/the-disinformation-governance-board-is-dead-heres-the-right-way-to-fight-disinformation](https://www.forbes.com/sites/jillgoldenziel/2022/05/18/the-disinformation-governance-board-is-dead-heres-the-right-way-to-fight-disinformation)
- - date_published: 2022-05-18T19:53:26+00:00
- - tags: ['big brother', 'disinformation governance board', 'government control', 'ministry of truth', 'misinformation', 'oversight board', 'surveillance']
- - date_dead_since: 2025-03-23T20:26:48.028747+00:00
-
- ## Some Top 100,000 Websites Collect Everything You Type—Before You Hit Submit | WIRED
- - [https://www.wired.com/story/leaky-forms-keyloggers-meta-tiktok-pixel-study](https://www.wired.com/story/leaky-forms-keyloggers-meta-tiktok-pixel-study)
- - date_published: 2022-05-18T20:00:21.929118+00:00
 
  ## Site Update: I Fixed the Patron Page - Xe
  - [https://xeiaso.net/blog/site-update-patron-page-fixed](https://xeiaso.net/blog/site-update-patron-page-fixed)
@@ -2343,20 +2340,21 @@
  - [https://ixns.github.io//lifehacks/computers/internet/2022/05/17/avoid-google-bloatware.html](https://ixns.github.io//lifehacks/computers/internet/2022/05/17/avoid-google-bloatware.html)
  - date_published: 2022-05-19T07:50:35.730045+00:00
  - tags: ['dead internet', 'google', 'search engines']
- - date_dead_since: 2025-03-23T19:58:24.448212+00:00
+ - date_dead_since: 2025-08-06T09:04:38.905792+00:00
 
  ## Jeffrey Sachs Presents Evidence of Possible Lab Origin of Covid-19
  - [https://theintercept.com/2022/05/19/covid-lab-leak-evidence-jeffrey-sachs](https://theintercept.com/2022/05/19/covid-lab-leak-evidence-jeffrey-sachs)
  - date_published: 2022-05-19T20:00:50+00:00
  - tags: ['covid', 'jeffrey sachs', 'lab leak']
 
+ ## Troy Hunt: Downloading Pwned Passwords Hashes with the HIBP Downloader
+ - [https://www.troyhunt.com/downloading-pwned-passwords-hashes-with-the-hibp-downloader](https://www.troyhunt.com/downloading-pwned-passwords-hashes-with-the-hibp-downloader)
+ - date_published: 2022-05-19T22:34:54+00:00
+
  ## Tasks, lists, and promises
  - [https://rachelbythebay.com/w/2022/05/19/priority](https://rachelbythebay.com/w/2022/05/19/priority)
  - date_published: 2022-05-20T06:56:19.612155+00:00
-
- ## Troy Hunt: Downloading Pwned Passwords Hashes with the HIBP Downloader
- - [https://www.troyhunt.com/downloading-pwned-passwords-hashes-with-the-hibp-downloader](https://www.troyhunt.com/downloading-pwned-passwords-hashes-with-the-hibp-downloader)
- - date_published: 2022-05-20T06:58:39.859097+00:00
+ - date_dead_since: 2025-08-06T08:58:45.900648+00:00
 
  ## Dodatki covidowe, czyli górka pieniędzy, na którą nikt nie patrzył
  - [https://wiadomosci.wp.pl/dodatki-covidowe-czyli-gorka-pieniedzy-na-ktora-nikt-nie-patrzyl-6770982795336672a](https://wiadomosci.wp.pl/dodatki-covidowe-czyli-gorka-pieniedzy-na-ktora-nikt-nie-patrzyl-6770982795336672a)
@@ -2372,14 +2370,14 @@
  - [https://blog.mollywhite.net/predatory-community/#fnref:fn1](https://blog.mollywhite.net/predatory-community/#fnref:fn1)
  - date_published: 2022-05-21T07:52:06.649721+00:00
 
+ ## The balance has shifted away from SPAs | Read the Tea Leaves
+ - [https://nolanlawson.com/2022/05/21/the-balance-has-shifted-away-from-spas](https://nolanlawson.com/2022/05/21/the-balance-has-shifted-away-from-spas)
+ - date_published: 2022-05-21T16:31:23+00:00
+
  ## The real Dune
  - [https://www.youtube.com/watch?v=R0krUthYxF4](https://www.youtube.com/watch?v=R0krUthYxF4)
  - date_published: 2022-05-22T00:00:00+00:00
  - tags: ['book', 'dune']
-
- ## The balance has shifted away from SPAs | Read the Tea Leaves
- - [https://nolanlawson.com/2022/05/21/the-balance-has-shifted-away-from-spas](https://nolanlawson.com/2022/05/21/the-balance-has-shifted-away-from-spas)
- - date_published: 2022-05-22T07:23:28.130339+00:00
 
  ## How I Hacked my Car :: Programming With Style
  - [https://programmingwithstyle.com/posts/howihackedmycar](https://programmingwithstyle.com/posts/howihackedmycar)
@@ -2393,6 +2391,15 @@
  ## Migrating millions of lines of code to TypeScript
  - [https://stripe.com/blog/migrating-to-typescript](https://stripe.com/blog/migrating-to-typescript)
  - date_published: 2022-05-22T11:37:14.619363+00:00
+
+ ## Building a Budget Homelab NAS Server (2022 Edition) · mtlynch.io
+ - [https://mtlynch.io/budget-nas](https://mtlynch.io/budget-nas)
+ - date_published: 2022-05-23T00:00:00+00:00
+ - tags: ['homelab', 'selfhost', 'smart home']
+
+ ## I'm Retiring From the Engineering Profession
+ - [https://www.strongtowns.org/journal/2022/5/23/im-retiring-from-the-engineering-profession](https://www.strongtowns.org/journal/2022/5/23/im-retiring-from-the-engineering-profession)
+ - date_published: 2022-05-23T05:30:00+00:00
 
  ## Boris Johnson pictured drinking at No 10 lockdown event - BBC News
  - [https://www.bbc.com/news/uk-politics-61557064](https://www.bbc.com/news/uk-politics-61557064)
@@ -2432,10 +2439,6 @@
  - [https://xeiaso.net/blog/we-have-go-2](https://xeiaso.net/blog/we-have-go-2)
  - date_published: 2022-05-25T07:25:02.493514+00:00
 
- ## Healthchecks.io Hosting Setup, 2022 Edition – Healthchecks.io
- - [https://blog.healthchecks.io/2022/02/healthchecks-io-hosting-setup-2022-edition](https://blog.healthchecks.io/2022/02/healthchecks-io-hosting-setup-2022-edition)
- - date_published: 2022-05-25T07:36:56.720608+00:00
-
  ## Google has been DDoSing SourceHut for over a year
  - [https://drewdevault.com/2022/05/25/Google-has-been-DDoSing-sourcehut.html](https://drewdevault.com/2022/05/25/Google-has-been-DDoSing-sourcehut.html)
  - date_published: 2022-05-26T06:41:58.374637+00:00
@@ -2444,6 +2447,7 @@
  - [https://www.boundless.com/blog/ice-spies-on-majority-of-americans](https://www.boundless.com/blog/ice-spies-on-majority-of-americans)
  - date_published: 2022-05-26T07:34:48+00:00
  - tags: ['ice', 'privacy', 'surveillance', 'tracking']
+ - date_dead_since: 2025-08-06T07:29:38.687828+00:00
 
  ## How I Hacked my Car Part 3: Making Software :: Programming With Style
  - [https://programmingwithstyle.com/posts/howihackedmycarpart3](https://programmingwithstyle.com/posts/howihackedmycarpart3)
@@ -2451,7 +2455,7 @@
 
  ## The billable hour is a trap into which more and more of us are falling | Tim Harford
  - [https://timharford.com/2022/05/the-billable-hour-is-a-trap-into-which-more-and-more-of-us-are-falling](https://timharford.com/2022/05/the-billable-hour-is-a-trap-into-which-more-and-more-of-us-are-falling)
- - date_published: 2022-05-27T06:40:19.107190+00:00
+ - date_published: 2022-05-26T15:55:00+00:00
 
  ## A Brief History of the LGBTQ Acronym
  - [https://www.yahoo.com/lifestyle/brief-history-lgbtq-acronym-183200888.html](https://www.yahoo.com/lifestyle/brief-history-lgbtq-acronym-183200888.html)
@@ -2463,6 +2467,14 @@
  - date_published: 2022-05-27T14:51:33+00:00
  - tags: ['jpmorgan', 'surveillance']
 
+ ## Boris Johnson to reportedly bring back imperial measurements to mark platinum jubilee | Brexit | The Guardian
+ - [https://www.theguardian.com/politics/2022/may/28/boris-johnson-set-to-bring-back-imperial-measurements-to-mark-platinum-jubilee](https://www.theguardian.com/politics/2022/may/28/boris-johnson-set-to-bring-back-imperial-measurements-to-mark-platinum-jubilee)
+ - date_published: 2022-05-28T17:07:44+00:00
+
+ ## A decade of dotfiles
+ - [https://evanhahn.com/a-decade-of-dotfiles](https://evanhahn.com/a-decade-of-dotfiles)
+ - date_published: 2022-05-29T00:00:00+00:00
+
  ## My students cheated... A lot • crumplab
  - [https://crumplab.com/articles/blog/post_994_5_26_22_cheating/index.html](https://crumplab.com/articles/blog/post_994_5_26_22_cheating/index.html)
  - date_published: 2022-05-29T11:00:57.393519+00:00
@@ -2473,27 +2485,15 @@
  - date_published: 2022-05-29T13:32:22.087478+00:00
  - tags: ['england', 'online safety bill']
 
- ## I'm Retiring From the Engineering Profession
- - [https://www.strongtowns.org/journal/2022/5/23/im-retiring-from-the-engineering-profession](https://www.strongtowns.org/journal/2022/5/23/im-retiring-from-the-engineering-profession)
- - date_published: 2022-05-29T13:41:55.420154+00:00
-
- ## Building a Budget Homelab NAS Server (2022 Edition) · mtlynch.io
- - [https://mtlynch.io/budget-nas](https://mtlynch.io/budget-nas)
- - date_published: 2022-05-29T14:02:45+00:00
- - tags: ['homelab', 'selfhost', 'smart home']
-
  ## Site Update: The Big Domain Move To xeiaso.net - Xe
  - [https://xeiaso.net/blog/big-domain-move](https://xeiaso.net/blog/big-domain-move)
  - date_published: 2022-05-29T14:44:38.499095+00:00
-
- ## Boris Johnson to reportedly bring back imperial measurements to mark platinum jubilee | Brexit | The Guardian
- - [https://www.theguardian.com/politics/2022/may/28/boris-johnson-set-to-bring-back-imperial-measurements-to-mark-platinum-jubilee](https://www.theguardian.com/politics/2022/may/28/boris-johnson-set-to-bring-back-imperial-measurements-to-mark-platinum-jubilee)
- - date_published: 2022-05-30T06:02:56.255929+00:00
 
  ## Big Tech Using an Army of Lobbyists to Defang Privacy Laws, Claims New Report - Spiceworks
  - [https://www.spiceworks.com/it-security/data-security/news/big-tech-state-privacy-laws](https://www.spiceworks.com/it-security/data-security/news/big-tech-state-privacy-laws)
  - date_published: 2022-05-30T07:37:04+00:00
  - tags: ['corporatocracy', 'privacy', 'surveillance', 'tracking']
+ - date_dead_since: 2025-08-06T06:49:38.555188+00:00
 
  ## Major Version Numbers are Not Sacred
  - [https://tom.preston-werner.com/2022/05/23/major-version-numbers-are-not-sacred.html](https://tom.preston-werner.com/2022/05/23/major-version-numbers-are-not-sacred.html)
@@ -2517,13 +2517,9 @@
  - date_published: 2022-05-31T00:00:00+00:00
  - tags: ['monkeypox']
 
- ## A decade of dotfiles
- - [https://evanhahn.com/a-decade-of-dotfiles](https://evanhahn.com/a-decade-of-dotfiles)
- - date_published: 2022-05-31T06:54:09+00:00
-
  ## Discord Is the World’s Most Important Financial Messenger, And a Hotbed for Scammers
  - [https://www.vice.com/en/article/n7n848/discord-is-the-worlds-most-important-financial-messenger-and-a-hotbed-for-scammers](https://www.vice.com/en/article/n7n848/discord-is-the-worlds-most-important-financial-messenger-and-a-hotbed-for-scammers)
- - date_published: 2022-05-31T14:56:24.767492+00:00
+ - date_published: 2022-05-31T13:00:00+00:00
 
  ## Unknown Sender: The Mystery of the Circleville Letters
  - [https://getpocket.com/explore/item/unknown-sender-the-mystery-of-the-circleville-letters](https://getpocket.com/explore/item/unknown-sender-the-mystery-of-the-circleville-letters)
@@ -2531,41 +2527,50 @@
 
  ## Tulsi Gabbard On WEF ‘Great Reset’ Agenda: ‘Must Be Condemned By Us All’
  - [https://americanfaith.com/tulsi-gabbard-on-wef-great-reset-agenda-must-be-condemned-by-us-all](https://americanfaith.com/tulsi-gabbard-on-wef-great-reset-agenda-must-be-condemned-by-us-all)
- - date_published: 2022-05-31T20:57:41+00:00
+ - date_published: 2022-05-31T20:23:26+00:00
  - tags: ['great reset', 'tulsi gabbard', 'wef', 'world economic forum']
+
+ ## Using a catch-all domain is a mistake — ⍻
+ - [https://www.notcheckmark.com/2022/06/catch-all-domain](https://www.notcheckmark.com/2022/06/catch-all-domain)
+ - date_published: 2022-06-01T13:53:16+00:00
 
  ## The Top Ten Creepiest and Most Dystopian Things Pushed by the World Economic Forum (WEF) - Global ResearchGlobal Research - Centre for Research on Globalization
  - [https://www.globalresearch.ca/top-10-creepiest-most-dystopian-things-pushed-world-economic-forum-wef/5782636](https://www.globalresearch.ca/top-10-creepiest-most-dystopian-things-pushed-world-economic-forum-wef/5782636)
  - date_published: 2022-06-01T14:55:51+00:00
  - tags: ['corporatocracy', 'dystopia', 'klaus schwab', 'wef', 'world economic forum']
+ - date_dead_since: 2025-08-06T06:04:44.203205+00:00
+
+ ## Taiwan Restricts Russia, Belarus to CPUs Under 25 MHz Frequency | Tom's Hardware
+ - [https://www.tomshardware.com/news/taiwan-restricts-exports-of-25mhz-cpus-to-russia](https://www.tomshardware.com/news/taiwan-restricts-exports-of-25mhz-cpus-to-russia)
+ - date_published: 2022-06-01T17:24:29+00:00
 
  ## Opinion | Stop Pretending All Books Are Written in English - The New York Times
  - [https://www.nytimes.com/2022/05/29/opinion/translator-credit-cover.html](https://www.nytimes.com/2022/05/29/opinion/translator-credit-cover.html)
  - date_published: 2022-06-01T19:35:42.937097+00:00
+ - date_dead_since: 2025-08-06T05:58:44.483939+00:00
 
  ## A Year After the Capitol Riot, Nothing Useful Has Been Done
  - [https://jacobin.com/2022/01/january-6-capitol-riot-trump-conspiracy-cable-news-national-security-state](https://jacobin.com/2022/01/january-6-capitol-riot-trump-conspiracy-cable-news-national-security-state)
  - date_published: 2022-06-01T20:33:44+00:00
  - tags: ['january 6']
 
- ## Taiwan Restricts Russia, Belarus to CPUs Under 25 MHz Frequency | Tom's Hardware
- - [https://www.tomshardware.com/news/taiwan-restricts-exports-of-25mhz-cpus-to-russia](https://www.tomshardware.com/news/taiwan-restricts-exports-of-25mhz-cpus-to-russia)
- - date_published: 2022-06-02T07:42:50.244712+00:00
+ ## Installing a payphone in my house | bertrand fan
+ - [https://bert.org/2022/06/02/payphone](https://bert.org/2022/06/02/payphone)
+ - date_published: 2022-06-02T00:00:00+00:00
 
  ## Gmail accepts forged YouTube emails
  - [https://john-millikin.com/gmail-accepts-forged-youtube-emails#ref:1](https://john-millikin.com/gmail-accepts-forged-youtube-emails#ref:1)
  - date_published: 2022-06-02T08:44:36+00:00
  - tags: ['email', 'gmail', 'security', 'youtube']
 
- ## Using a catch-all domain is a mistake — ⍻
- - [https://www.notcheckmark.com/2022/06/catch-all-domain](https://www.notcheckmark.com/2022/06/catch-all-domain)
- - date_published: 2022-06-02T09:10:19.226893+00:00
- - date_dead_since: 2025-03-23T11:46:06.822237+00:00
-
  ## Fortune 500 companies are making political donations to anti-LGBTQ+ politicians while celebrating Pride month | Fortune
  - [https://fortune.com/2022/06/01/major-corporations-donate-anti-lgbtq-legislators-pride](https://fortune.com/2022/06/01/major-corporations-donate-anti-lgbtq-legislators-pride)
  - date_published: 2022-06-02T15:59:39.265394+00:00
  - tags: ['hypocrisy', 'lgbt', 'the left wing']
+
+ ## Tim Hortons coffee app broke law by constantly recording users’ movements | Ars Technica
+ - [https://arstechnica.com/tech-policy/2022/06/tim-hortons-coffee-app-broke-law-by-constantly-recording-users-movements](https://arstechnica.com/tech-policy/2022/06/tim-hortons-coffee-app-broke-law-by-constantly-recording-users-movements)
+ - date_published: 2022-06-02T16:50:41+00:00
 
  ## A Letter to Discord for not Supporting the Linux Desktop | TheEvilSkeleton
  - [https://theevilskeleton.gitlab.io/2022/05/29/a-letter-to-discord-for-not-supporting-the-linux-desktop.html](https://theevilskeleton.gitlab.io/2022/05/29/a-letter-to-discord-for-not-supporting-the-linux-desktop.html)
@@ -2594,6 +2599,10 @@
  - [https://eu.usatoday.com/story/money/cars/2022/06/01/ev-online-sales-ford-uber-lyft/7474822001](https://eu.usatoday.com/story/money/cars/2022/06/01/ev-online-sales-ford-uber-lyft/7474822001)
  - date_published: 2022-06-03T08:54:59.539174+00:00
 
+ ## The FBI Tried to Ambush My Source. Now I’m Telling the Whole Story.
+ - [https://theintercept.com/2022/06/03/fbi-ambush-leak-reporter-source](https://theintercept.com/2022/06/03/fbi-ambush-leak-reporter-source)
+ - date_published: 2022-06-03T10:00:39+00:00
+
  ## Europe's hope to scan devices for unlawful files criticized • The Register
  - [https://www.theregister.com/2022/06/02/eu_child_protection/?td=keepreading-top](https://www.theregister.com/2022/06/02/eu_child_protection/?td=keepreading-top)
  - date_published: 2022-06-03T10:01:36.564116+00:00
@@ -2602,11 +2611,11 @@
  - [https://raypatrick.xyz/blog/2022/06/03/marriage-is-not-to-make-you-happy](https://raypatrick.xyz/blog/2022/06/03/marriage-is-not-to-make-you-happy)
  - date_published: 2022-06-03T14:04:31+00:00
  - tags: ['hedonism', 'marriage', 'religion', 'religion knowledge']
- - date_dead_since: 2025-03-23T10:39:55.969793+00:00
+ - date_dead_since: 2025-08-06T05:03:43.221014+00:00
 
  ## Dear Spotify. Can we just get a table of songs?
  - [https://neil.computer/notes/dear-spotify-can-we-just-get-table-of-songs](https://neil.computer/notes/dear-spotify-can-we-just-get-table-of-songs)
- - date_published: 2022-06-04T08:56:58.168737+00:00
+ - date_published: 2022-06-04T08:09:48+00:00
 
  ## Printmaking as play - NO BAD MEMORIES
  - [https://www.nobadmemories.com/blog/2022/05/printmaking-as-play](https://www.nobadmemories.com/blog/2022/05/printmaking-as-play)
@@ -2616,18 +2625,14 @@
  - [https://www.nobadmemories.com/blog/2022/05/mimeoprinting](https://www.nobadmemories.com/blog/2022/05/mimeoprinting)
  - date_published: 2022-06-04T09:51:07.970786+00:00
 
- ## Installing a payphone in my house | bertrand fan
- - [https://bert.org/2022/06/02/payphone](https://bert.org/2022/06/02/payphone)
- - date_published: 2022-06-04T11:44:42.428388+00:00
-
- ## The FBI Tried to Ambush My Source. Now I’m Telling the Whole Story.
- - [https://theintercept.com/2022/06/03/fbi-ambush-leak-reporter-source](https://theintercept.com/2022/06/03/fbi-ambush-leak-reporter-source)
- - date_published: 2022-06-04T21:04:31.669281+00:00
+ ## ‘You only have one shot’: how film cameras won over a younger generation | Photography | The Guardian
+ - [https://www.theguardian.com/technology/2022/jun/05/you-only-have-one-shot-how-film-cameras-won-over-a-younger-generation?utm_term=629d9396aa57bd2493700de90ed92c33&utm_campaign=FirstEdition&utm_source=esp&utm_medium=Email&CMP=firstedition_email](https://www.theguardian.com/technology/2022/jun/05/you-only-have-one-shot-how-film-cameras-won-over-a-younger-generation?utm_term=629d9396aa57bd2493700de90ed92c33&utm_campaign=FirstEdition&utm_source=esp&utm_medium=Email&CMP=firstedition_email)
+ - date_published: 2022-06-04T20:00:09+00:00
 
  ## I Cheated on My Microsoft Interview | The Facet Blog
  - [https://www.facet.net/posts/i-cheated-on-my-microsoft-interview](https://www.facet.net/posts/i-cheated-on-my-microsoft-interview)
  - date_published: 2022-06-05T12:24:33.022054+00:00
- - date_dead_since: 2024-10-18T23:42:59.450330+00:00
+ - date_dead_since: 2025-08-06T04:28:36.863180+00:00
 
  ## Telegram reportedly surrendered user data to authorities despite insisting '0 bytes' had ever been shared
  - [https://www.androidpolice.com/telegram-germany-user-data-surrendered](https://www.androidpolice.com/telegram-germany-user-data-surrendered)
@@ -2648,23 +2653,15 @@
  - date_published: 2022-06-06T06:29:04+00:00
  - tags: ['gender', 'the left wing', 'transgender']
 
- ## ‘You only have one shot’: how film cameras won over a younger generation | Photography | The Guardian
- - [https://www.theguardian.com/technology/2022/jun/05/you-only-have-one-shot-how-film-cameras-won-over-a-younger-generation?utm_term=629d9396aa57bd2493700de90ed92c33&utm_campaign=FirstEdition&utm_source=esp&utm_medium=Email&CMP=firstedition_email](https://www.theguardian.com/technology/2022/jun/05/you-only-have-one-shot-how-film-cameras-won-over-a-younger-generation?utm_term=629d9396aa57bd2493700de90ed92c33&utm_campaign=FirstEdition&utm_source=esp&utm_medium=Email&CMP=firstedition_email)
- - date_published: 2022-06-06T07:49:13.887706+00:00
-
  ## The U.S. has wasted over 82 million Covid vaccine doses
  - [https://www.nbcnews.com/news/us-news/covid-vaccine-doses-wasted-rcna31399](https://www.nbcnews.com/news/us-news/covid-vaccine-doses-wasted-rcna31399)
- - date_published: 2022-06-06T12:58:29+00:00
+ - date_published: 2022-06-06T08:27:00+00:00
  - tags: ['covid', 'vaccine']
 
  ## Elon Musk asks why DOJ hasn’t leaked Jeffrey Epstein’s client list
  - [https://nypost.com/2022/06/06/elon-musk-asks-why-doj-hasnt-leaked-jeffrey-epsteins-client-list](https://nypost.com/2022/06/06/elon-musk-asks-why-doj-hasnt-leaked-jeffrey-epsteins-client-list)
  - date_published: 2022-06-06T13:53:44+00:00
  - tags: ['jeffrey epstein']
-
- ## Tim Hortons coffee app broke law by constantly recording users’ movements | Ars Technica
- - [https://arstechnica.com/tech-policy/2022/06/tim-hortons-coffee-app-broke-law-by-constantly-recording-users-movements](https://arstechnica.com/tech-policy/2022/06/tim-hortons-coffee-app-broke-law-by-constantly-recording-users-movements)
- - date_published: 2022-06-06T17:29:56.045370+00:00
 
  ## 7 Absolute Truths I Unlearned as Junior Developer
  - [https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer](https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer)
@@ -2678,15 +2675,28 @@
  - [https://mpov.timmorgan.org/i-built-a-ruby-parser](https://mpov.timmorgan.org/i-built-a-ruby-parser)
  - date_published: 2022-06-07T09:21:34+00:00
 
+ ## Ready to transform the enterprise world? We are! | Arduino Blog
+ - [https://blog.arduino.cc/2022/06/07/ready-to-transform-the-enterprise-world-we-are](https://blog.arduino.cc/2022/06/07/ready-to-transform-the-enterprise-world-we-are)
+ - date_published: 2022-06-07T12:04:38+00:00
+
  ## I’ve locked myself out of my digital life – Terence Eden’s Blog
  - [https://shkspr.mobi/blog/2022/06/ive-locked-myself-out-of-my-digital-life](https://shkspr.mobi/blog/2022/06/ive-locked-myself-out-of-my-digital-life)
- - date_published: 2022-06-08T05:56:41.312238+00:00
+ - date_published: 2022-06-07T12:34:06+00:00
+
+ ## OBS Project Warns About Scam URL Appearing in Google Ads - GamerBraves
+ - [https://www.gamerbraves.com/obs-project-warns-about-scam-url-appearing-in-google-ads](https://www.gamerbraves.com/obs-project-warns-about-scam-url-appearing-in-google-ads)
+ - date_published: 2022-06-08T05:16:46+00:00
+ - tags: ['ad business', 'search engines']
+
+ ## High-School Start Times Are Still Too Early for Teens - The Atlantic
+ - [https://www.theatlantic.com/family/archive/2022/06/american-high-school-later-start-time/661211](https://www.theatlantic.com/family/archive/2022/06/american-high-school-later-start-time/661211)
+ - date_published: 2022-06-08T12:30:00+00:00
 
  ## New data shows newspaper revenues down sharply | The Hill
  - [https://thehill.com/homenews/state-watch/3517259-new-data-shows-newspaper-revenues-down-sharply](https://thehill.com/homenews/state-watch/3517259-new-data-shows-newspaper-revenues-down-sharply)
  - date_published: 2022-06-09T14:10:23+00:00
  - tags: ['digital media', 'digital transformation', 'legacy media', 'media']
- - date_dead_since: 2024-10-18T22:23:06.708681+00:00
+ - date_dead_since: 2025-08-06T03:34:40.199916+00:00
 
  ## How Jordan Peterson Canceled Himself
  - [https://www.forbes.com/sites/danidiplacido/2022/07/09/how-jordan-peterson-canceled-himself](https://www.forbes.com/sites/danidiplacido/2022/07/09/how-jordan-peterson-canceled-himself)
@@ -2698,13 +2708,13 @@
  - date_published: 2022-06-10T08:55:01+00:00
  - tags: ['rss']
 
+ ## Firefox and Chrome are squaring off over ad-blocker extensions - The Verge
+ - [https://www.theverge.com/2022/6/10/23131029/mozilla-ad-blocking-firefox-google-chrome-privacy-manifest-v3-web-request](https://www.theverge.com/2022/6/10/23131029/mozilla-ad-blocking-firefox-google-chrome-privacy-manifest-v3-web-request)
+ - date_published: 2022-06-10T12:15:00+00:00
+
  ## Mostly automatic Go dependency updates with GitHub Actions — brandur.org
  - [https://brandur.org/fragments/mostly-automatic-deps](https://brandur.org/fragments/mostly-automatic-deps)
  - date_published: 2022-06-10T15:57:48.100519+00:00
-
- ## Firefox and Chrome are squaring off over ad-blocker extensions - The Verge
- - [https://www.theverge.com/2022/6/10/23131029/mozilla-ad-blocking-firefox-google-chrome-privacy-manifest-v3-web-request](https://www.theverge.com/2022/6/10/23131029/mozilla-ad-blocking-firefox-google-chrome-privacy-manifest-v3-web-request)
- - date_published: 2022-06-10T17:16:24.457545+00:00
 
  ## Cooling the tube – Engineering heat out of the Underground
  - [https://www.ianvisits.co.uk/articles/cooling-the-tube-engineering-heat-out-of-the-underground-20873](https://www.ianvisits.co.uk/articles/cooling-the-tube-engineering-heat-out-of-the-underground-20873)
@@ -2713,14 +2723,6 @@
  ## If OpenSSL were a GUI
  - [https://smallstep.com/blog/if-openssl-were-a-gui](https://smallstep.com/blog/if-openssl-were-a-gui)
  - date_published: 2022-06-11T08:40:14+00:00
-
- ## Ready to transform the enterprise world? We are! | Arduino Blog
- - [https://blog.arduino.cc/2022/06/07/ready-to-transform-the-enterprise-world-we-are](https://blog.arduino.cc/2022/06/07/ready-to-transform-the-enterprise-world-we-are)
- - date_published: 2022-06-11T09:00:31.862596+00:00
-
- ## Why I turned down $500K, Pissed off my investors, and Shut down my startup -
- - [https://www.disruptingjapan.com/turned-500k-pissed-off-investors-shut-startup](https://www.disruptingjapan.com/turned-500k-pissed-off-investors-shut-startup)
- - date_published: 2022-06-11T11:28:03.475166+00:00
 
  ## The Alkyne GC · mcyoung
  - [https://mcyoung.xyz/2022/06/07/alkyne-gc/#fnref:provenance](https://mcyoung.xyz/2022/06/07/alkyne-gc/#fnref:provenance)
@@ -2739,10 +2741,6 @@
  - [https://www.youtube.com/watch?v=kCCXRerqaJI](https://www.youtube.com/watch?v=kCCXRerqaJI)
  - date_published: 2022-06-13T00:00:00+00:00
  - tags: ['hardware', 'hobby project']
-
- ## High-School Start Times Are Still Too Early for Teens - The Atlantic
- - [https://www.theatlantic.com/family/archive/2022/06/american-high-school-later-start-time/661211](https://www.theatlantic.com/family/archive/2022/06/american-high-school-later-start-time/661211)
- - date_published: 2022-06-13T06:51:01.597070+00:00
 
  ## UK will not copy EU demand for common charging cable - BBC News
  - [https://www.bbc.co.uk/news/technology-61720276](https://www.bbc.co.uk/news/technology-61720276)
@@ -2786,6 +2784,7 @@
  ## Free associating from 'df' to RCE
  - [https://rachelbythebay.com/w/2022/06/16/rce](https://rachelbythebay.com/w/2022/06/16/rce)
  - date_published: 2022-06-17T06:55:39.683636+00:00
+ - date_dead_since: 2025-08-06T01:48:40.014280+00:00
 
  ## ⚡️ The computers are fast, but you don't know it | 🌚 Computer Science After Dark
  - [http://shvbsle.in/computers-are-fast-but-you-dont-know-it-p1](http://shvbsle.in/computers-are-fast-but-you-dont-know-it-p1)
@@ -2794,6 +2793,10 @@
  ## Don't Put All Your Code In Internal | Ido Perlmuter
  - [https://ido50.net/rants/dont-put-all-your-code-in-internal](https://ido50.net/rants/dont-put-all-your-code-in-internal)
  - date_published: 2022-06-17T13:54:11.142802+00:00
+
+ ## The driving enthusiast’s dilemma with electric cars | Ars Technica
+ - [https://arstechnica.com/cars/2022/06/the-driving-enthusiasts-dilemma-about-electric-cars](https://arstechnica.com/cars/2022/06/the-driving-enthusiasts-dilemma-about-electric-cars)
+ - date_published: 2022-06-17T15:37:26+00:00
 
  ## Vaccine transparency case is still not closed, despite EC’s claim
  - [https://corporateeurope.org/en/2022/06/vaccine-transparency-case-still-not-closed-despite-ecs-claim](https://corporateeurope.org/en/2022/06/vaccine-transparency-case-still-not-closed-despite-ecs-claim)
@@ -2813,10 +2816,11 @@
  - [https://www.globalresearch.ca/top-10-scariest-things-come-out-wef/5783410](https://www.globalresearch.ca/top-10-scariest-things-come-out-wef/5783410)
  - date_published: 2022-06-19T18:08:11+00:00
  - tags: ['dystopia', 'great reset', 'wef', 'world economic forum']
+ - date_dead_since: 2025-08-06T01:28:38.455200+00:00
 
  ## ‘The situation is serious’: Germany plans to fire up coal plants as Russia throttles gas supplies
  - [https://www.cnbc.com/2022/06/20/ukraine-war-germany-turns-to-coal-as-russia-throttles-gas-supplies.html](https://www.cnbc.com/2022/06/20/ukraine-war-germany-turns-to-coal-as-russia-throttles-gas-supplies.html)
- - date_published: 2022-06-20T13:01:44+00:00
+ - date_published: 2022-06-20T10:02:36+00:00
  - tags: ['climate change', 'co2', 'germany']
 
  ## We are removing the option to create new subscriptions - Blog | Mullvad VPN
@@ -2832,19 +2836,24 @@
  - date_published: 2022-06-21T17:16:41+00:00
  - tags: ['monetization', 'open source']
 
- ## The driving enthusiast’s dilemma with electric cars | Ars Technica
- - [https://arstechnica.com/cars/2022/06/the-driving-enthusiasts-dilemma-about-electric-cars](https://arstechnica.com/cars/2022/06/the-driving-enthusiasts-dilemma-about-electric-cars)
- - date_published: 2022-06-22T08:40:54.635796+00:00
+ ## How we built a $1M ARR open source SaaS | Plausible Analytics
+ - [https://plausible.io/blog/open-source-saas](https://plausible.io/blog/open-source-saas)
+ - date_published: 2022-06-22T01:44:11+00:00
 
  ## The Orville: Immortality, Transhumanism, God and The Human Soul
  - [https://www.youtube.com/watch?v=tp1M4lP2ceQ https://www.youtube.com/watch?v=UjGpHbf1m1Q](https://www.youtube.com/watch?v=tp1M4lP2ceQ https://www.youtube.com/watch?v=UjGpHbf1m1Q)
  - date_published: 2022-06-22T11:28:07+00:00
  - tags: ['movies', 'transhumanism']
 
+ ## CDC investigates 'one of the worst outbreaks of meningococcal disease' in US history among gay and bisexual men in Florida | CNN
+ - [https://edition.cnn.com/2022/06/22/health/florida-meningococcal-disease-outbreak/index.html](https://edition.cnn.com/2022/06/22/health/florida-meningococcal-disease-outbreak/index.html)
+ - date_published: 2022-06-22T20:09:03+00:00
+ - tags: ['homosexuality', 'the left wing']
+
  ## Crafting Interpreters: A Review
  - [https://chidiwilliams.com/post/crafting-interpreters-a-review](https://chidiwilliams.com/post/crafting-interpreters-a-review)
  - date_published: 2022-06-23T07:14:08.784166+00:00
- - date_dead_since: 2025-03-23T01:50:36.760745+00:00
+ - date_dead_since: 2025-08-06T01:08:39.193058+00:00
 
  ## Hardening the Registers: A Cascading Failure of Edge Induced Fault Tolerance
  - [https://tech.target.com/blog/hardening-the-registers](https://tech.target.com/blog/hardening-the-registers)
@@ -2853,21 +2862,11 @@
  ## Teens Are Getting Sick From Products With High THC Levels - The New York Times
  - [https://www.nytimes.com/2022/06/23/well/mind/teens-thc-canabis.html](https://www.nytimes.com/2022/06/23/well/mind/teens-thc-canabis.html)
  - date_published: 2022-06-23T17:18:46.909713+00:00
- - date_dead_since: 2025-03-23T01:17:47.604392+00:00
+ - date_dead_since: 2025-08-06T00:54:38.442105+00:00
 
  ## Observations on 6 years of journaling | ᕕ( ᐛ )ᕗ Herman's blog
  - [https://herman.bearblog.dev/years-of-journaling](https://herman.bearblog.dev/years-of-journaling)
  - date_published: 2022-06-23T17:23:55.838223+00:00
-
- ## CDC investigates 'one of the worst outbreaks of meningococcal disease' in US history among gay and bisexual men in Florida | CNN
- - [https://edition.cnn.com/2022/06/22/health/florida-meningococcal-disease-outbreak/index.html](https://edition.cnn.com/2022/06/22/health/florida-meningococcal-disease-outbreak/index.html)
- - date_published: 2022-06-23T19:54:01+00:00
- - tags: ['homosexuality', 'the left wing']
-
- ## OBS Project Warns About Scam URL Appearing in Google Ads - GamerBraves
- - [https://www.gamerbraves.com/obs-project-warns-about-scam-url-appearing-in-google-ads](https://www.gamerbraves.com/obs-project-warns-about-scam-url-appearing-in-google-ads)
- - date_published: 2022-06-24T07:34:23+00:00
- - tags: ['ad business', 'search engines']
 
  ## GitHub Copilot and open source laundering
  - [https://drewdevault.com/2022/06/23/Copilot-GPL-washing.html](https://drewdevault.com/2022/06/23/Copilot-GPL-washing.html)
@@ -2886,10 +2885,6 @@
  ## SMS phishing is way too easy
  - [https://www.bejarano.io/sms-phishing](https://www.bejarano.io/sms-phishing)
  - date_published: 2022-06-25T09:00:54.556145+00:00
-
- ## How we built a $1M ARR open source SaaS | Plausible Analytics
- - [https://plausible.io/blog/open-source-saas](https://plausible.io/blog/open-source-saas)
- - date_published: 2022-06-25T09:28:10.709509+00:00
 
  ## I Finally Found a Solid Debian Tablet: The Surface Go 2 | The Changelog
  - [https://changelog.complete.org/archives/10396-i-finally-found-a-solid-debian-tablet-the-surface-go-2](https://changelog.complete.org/archives/10396-i-finally-found-a-solid-debian-tablet-the-surface-go-2)

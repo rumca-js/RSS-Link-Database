@@ -629,6 +629,10 @@
  - date_published: 2017-12-21T15:00:51+00:00
  - tags: ['cia', 'conspiracy theory', 'deep state', 'flat earth']
 
+ ## The story behind creepy-as-hell ‘milk bath’ flyers
+ - [https://nypost.com/2017/12/22/the-story-behind-creepy-as-hell-milk-bath-flyers](https://nypost.com/2017/12/22/the-story-behind-creepy-as-hell-milk-bath-flyers)
+ - date_published: 2017-12-22T21:22:00+00:00
+
  ## Partisans, Wielding Money, Begin Seeking to Exploit Harassment Claims
  - [https://www.nytimes.com/2017/12/31/us/politics/sexual-harassment-politics-partisanship.html](https://www.nytimes.com/2017/12/31/us/politics/sexual-harassment-politics-partisanship.html)
  - date_published: 2017-12-31T20:07:28+00:00

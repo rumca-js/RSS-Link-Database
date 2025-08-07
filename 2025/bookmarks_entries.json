@@ -2003,14 +2003,14 @@
         "language": "en",
         "link": "https://www.jeffgeerling.com/blog/2025/i-wont-connect-my-dishwasher-your-stupid-cloud",
         "manual_status_code": 0,
-        "page_rating": 27,
-        "page_rating_contents": 86,
-        "page_rating_visits": 0,
+        "page_rating": 29,
+        "page_rating_contents": 81,
+        "page_rating_visits": 1,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 162,
         "source_url": "https://www.jeffgeerling.com/blog.xml",
-        "status_code": 0,
+        "status_code": 200,
         "tags": [
             "technofeudalism"
         ],
