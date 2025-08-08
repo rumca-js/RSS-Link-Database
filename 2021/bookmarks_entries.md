@@ -416,6 +416,10 @@
  - date_published: 2021-03-08T08:09:50+00:00
  - tags: ['germany', 'newspeak', 'the left wing']
 
+ ## The Laurels: NHS gender clinic only assessed two patients in 12 months
+ - [https://www.pinknews.co.uk/2021/03/08/the-laurels-nhs-trans-waiting-times-west-england-gender-identity-clinic-waiting-list-exeter-devon-partnership-trust-transgender](https://www.pinknews.co.uk/2021/03/08/the-laurels-nhs-trans-waiting-times-west-england-gender-identity-clinic-waiting-list-exeter-devon-partnership-trust-transgender)
+ - date_published: 2021-03-08T12:57:53+00:00
+
  ## Printed to Death: Dollar Due to Crash in 2021
  - [https://www.outsiderclub.com/printed-to-death-dollar-due-to-crash-in-2021/98588](https://www.outsiderclub.com/printed-to-death-dollar-due-to-crash-in-2021/98588)
  - date_published: 2021-03-10T07:14:20+00:00
@@ -1122,6 +1126,10 @@
  - date_published: 2021-06-03T00:00:00+00:00
  - tags: ['anthony fauci', 'covid', 'covid lie']
 
+ ## r00695363 current alevelsb_p2_ex9mix
+ - [https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Factiveteach-prod.resource.pearson-intl.com%2Fr00%2Fr0069%2Fr006953%2Fr00695363%2Fcurrent%2Falevelsb_p2_ex9mix.pdf](https://www.physicsandmathstutor.com/pdf-pages/?pdf=https%3A%2F%2Factiveteach-prod.resource.pearson-intl.com%2Fr00%2Fr0069%2Fr006953%2Fr00695363%2Fcurrent%2Falevelsb_p2_ex9mix.pdf)
+ - date_published: 2021-06-03T00:59:09+00:00
+
  ## NYPD can use more than 15,000 cameras to track people using facial recognition
  - [https://www.amnesty.org/en/latest/news/2021/06/scale-new-york-police-facial-recognition-revealed](https://www.amnesty.org/en/latest/news/2021/06/scale-new-york-police-facial-recognition-revealed)
  - date_published: 2021-06-03T05:08:06+00:00
@@ -1206,6 +1214,11 @@
  - [https://thefederalist.com/2021/06/11/what-happens-when-hedge-funds-buy-up-neighborhoods](https://thefederalist.com/2021/06/11/what-happens-when-hedge-funds-buy-up-neighborhoods)
  - date_published: 2021-06-11T10:43:20+00:00
  - tags: ['blackrock', 'hedgefunds', 'middleclass']
+
+ ## Youth suicide attempts soared during pandemic, CDC report says
+ - [https://www.nbcnews.com/news/us-news/youth-suicide-attempts-soared-during-pandemic-cdc-report-says-n1270463](https://www.nbcnews.com/news/us-news/youth-suicide-attempts-soared-during-pandemic-cdc-report-says-n1270463)
+ - date_published: 2021-06-11T16:45:00+00:00
+ - tags: ['covid', 'lockdown']
 
  ## Society is Artificial Due to Feedback Loops Created by Unwitting Marketers
  - [https://forum.agoraroad.com/index.php?threads/society-is-artificial-due-to-feedback-loops-created-by-unwitting-marketers.3342](https://forum.agoraroad.com/index.php?threads/society-is-artificial-due-to-feedback-loops-created-by-unwitting-marketers.3342)
@@ -3837,6 +3850,10 @@
  - [https://krebsonsecurity.com/2021/11/the-internet-is-held-together-with-spit-baling-wire](https://krebsonsecurity.com/2021/11/the-internet-is-held-together-with-spit-baling-wire)
  - date_published: 2021-11-27T10:17:30.333065+00:00
 
+ ## Firefox is the Only Alternative - (think)
+ - [https://batsov.com/articles/2021/11/28/firefox-is-the-only-alternative](https://batsov.com/articles/2021/11/28/firefox-is-the-only-alternative)
+ - date_published: 2021-11-28T08:54:00+00:00
+
  ## Why is the UK less likely to go into lockdown than Europe? | Evening Standard
  - [https://www.standard.co.uk/news/uk/why-uk-less-likely-go-into-lockdown-than-europe-b967584.html](https://www.standard.co.uk/news/uk/why-uk-less-likely-go-into-lockdown-than-europe-b967584.html)
  - date_published: 2021-11-28T11:35:06.470425+00:00
@@ -3947,6 +3964,10 @@
  - [https://nationalpost.com/news/canada/canada-transgender-treatment](https://nationalpost.com/news/canada/canada-transgender-treatment)
  - date_published: 2021-12-03T08:49:22+00:00
  - tags: ['canada', 'children', 'lgbt', 'the left wing', 'transgender']
+
+ ## Don't Make My Mistakes: Common Infrastructure Errors I've Made
+ - [https://matduggan.com/mistakes](https://matduggan.com/mistakes)
+ - date_published: 2021-12-03T11:50:52+00:00
 
  ## LEGO has designed a set that can't be taken apart | Brickset: LEGO set guide and database
  - [https://brickset.com/article/67650/lego-has-designed-a-set-that-can-t-be-taken-apart](https://brickset.com/article/67650/lego-has-designed-a-set-that-can-t-be-taken-apart)
@@ -4122,6 +4143,11 @@
  - date_published: 2021-12-16T20:34:57+00:00
  - tags: ['bill gates', 'covid', 'gates foundation', 'who']
 
+ ## Why I wrote my own Go HTTP client · The Ethically-Trained Programmer
+ - [https://blog.carlmjohnson.net/post/2021/requests-golang-http-client](https://blog.carlmjohnson.net/post/2021/requests-golang-http-client)
+ - date_published: 2021-12-17T00:00:00+00:00
+ - tags: ['clean code', 'go', 'programming']
+
  ## Amazon partnered with China propaganda arm
  - [https://www.cnbc.com/2021/12/17/amazon-partnered-with-china-propaganda-arm.html](https://www.cnbc.com/2021/12/17/amazon-partnered-with-china-propaganda-arm.html)
  - date_published: 2021-12-17T17:12:05+00:00
@@ -4176,9 +4202,17 @@
  - [https://slate.com/technology/2021/12/tiktok-couch-guy-internet-sleuths.html](https://slate.com/technology/2021/12/tiktok-couch-guy-internet-sleuths.html)
  - date_published: 2021-12-21T00:52:57.166721+00:00
 
+ ## What January 6 Insurrectionists Wanted — and What They Lost
+ - [https://nymag.com/intelligencer/2021/12/january-6-insurrection-us-capitol-riots.html](https://nymag.com/intelligencer/2021/12/january-6-insurrection-us-capitol-riots.html)
+ - date_published: 2021-12-21T08:00:08+00:00
+
  ## Troy Hunt: Open Source Pwned Passwords with FBI Feed and 225M New NCA Passwords is Now Live!
  - [https://www.troyhunt.com/open-source-pwned-passwords-with-fbi-feed-and-225m-new-nca-passwords-is-now-live](https://www.troyhunt.com/open-source-pwned-passwords-with-fbi-feed-and-225m-new-nca-passwords-is-now-live)
  - date_published: 2021-12-21T08:44:20.965498+00:00
+
+ ## 7 moments of trans brilliance from 2021 | Xtra Magazine
+ - [https://xtramagazine.com/culture/trans-brilliance-2021-215330](https://xtramagazine.com/culture/trans-brilliance-2021-215330)
+ - date_published: 2021-12-21T10:18:53+00:00
 
  ## Omicron coverage reveals how the establishment, media keep us scared
  - [https://nypost.com/2021/12/21/omicron-coverage-reveals-how-the-establishment-media-keep-us-scared](https://nypost.com/2021/12/21/omicron-coverage-reveals-how-the-establishment-media-keep-us-scared)
@@ -4251,11 +4285,6 @@
  - date_published: 2021-12-24T08:50:48.739393+00:00
  - tags: ['programming']
 
- ## Why I wrote my own Go HTTP client · The Ethically-Trained Programmer
- - [https://blog.carlmjohnson.net/post/2021/requests-golang-http-client](https://blog.carlmjohnson.net/post/2021/requests-golang-http-client)
- - date_published: 2021-12-24T15:51:48+00:00
- - tags: ['clean code', 'go', 'programming']
-
  ## Thoughts on how to structure Go code |> Changelog
  - [https://changelog.com/posts/on-go-application-structure](https://changelog.com/posts/on-go-application-structure)
  - date_published: 2021-12-24T22:33:17.769373+00:00
@@ -4293,6 +4322,10 @@
  - date_published: 2021-12-28T00:00:00+00:00
  - tags: ['socialism', 'totalitarianism']
 
+ ## Emirates' Terrifying Boeing 777 Flight To Washington - One Mile at a Time
+ - [https://onemileatatime.com/news/emirates-terrifying-boeing-777-flight-washington](https://onemileatatime.com/news/emirates-terrifying-boeing-777-flight-washington)
+ - date_published: 2021-12-28T00:02:57+00:00
+
  ## Italian Courts Find Open Source Software Terms Enforceable | If This Be Treason
  - [http://ifthisbetreason.com/2021/12/italian-courts-find-open-source-software-terms-enforceable](http://ifthisbetreason.com/2021/12/italian-courts-find-open-source-software-terms-enforceable)
  - date_published: 2021-12-28T10:19:20.123970+00:00
@@ -4316,28 +4349,25 @@
  ## Japan's Paper Culture | JetPens
  - [https://www.jetpens.com/blog/Japan-s-Paper-Culture/pt/998](https://www.jetpens.com/blog/Japan-s-Paper-Culture/pt/998)
  - date_published: 2021-12-29T09:32:22.322888+00:00
+ - date_dead_since: 2025-08-07T23:04:29.816348+00:00
 
  ## Covid: Warning over patchy lateral flow test supply - BBC News
  - [https://www.bbc.co.uk/news/uk-59814032](https://www.bbc.co.uk/news/uk-59814032)
  - date_published: 2021-12-29T12:10:34.153617+00:00
 
+ ## Facebook Said My Article Was 'False Information.' Now the Fact-Checkers Admit They Were Wrong.
+ - [https://reason.com/2021/12/29/facebook-masks-false-information-science-feedback-wrong-covid](https://reason.com/2021/12/29/facebook-masks-false-information-science-feedback-wrong-covid)
+ - date_published: 2021-12-29T13:00:52+00:00
+ - tags: ['censorship', 'facebook', 'fact check', 'science is dead']
+
  ## April Ashley: Model, actress and trans trailblazer dies aged 86 - BBC News
  - [https://www.bbc.co.uk/news/entertainment-arts-59816881](https://www.bbc.co.uk/news/entertainment-arts-59816881)
  - date_published: 2021-12-29T13:09:30.636958+00:00
-
- ## What January 6 Insurrectionists Wanted — and What They Lost
- - [https://nymag.com/intelligencer/2021/12/january-6-insurrection-us-capitol-riots.html](https://nymag.com/intelligencer/2021/12/january-6-insurrection-us-capitol-riots.html)
- - date_published: 2021-12-29T16:12:02.762977+00:00
 
  ## China Is Running Out of Water and That’s Scary for Asia
  - [https://www.bloomberg.com/opinion/articles/2021-12-29/china-s-water-shortage-is-scary-for-india-thailand-vietnam](https://www.bloomberg.com/opinion/articles/2021-12-29/china-s-water-shortage-is-scary-for-india-thailand-vietnam)
  - date_published: 2021-12-29T20:39:33+00:00
  - tags: ['china', 'climate change', 'pollution', 'sweet water']
-
- ## Facebook Said My Article Was 'False Information.' Now the Fact-Checkers Admit They Were Wrong.
- - [https://reason.com/2021/12/29/facebook-masks-false-information-science-feedback-wrong-covid](https://reason.com/2021/12/29/facebook-masks-false-information-science-feedback-wrong-covid)
- - date_published: 2021-12-30T09:02:20.918611+00:00
- - tags: ['censorship', 'facebook', 'fact check', 'science is dead']
 
  ## Wesley Aptekar-Cassels | Consider SQLite
  - [https://blog.wesleyac.com/posts/consider-sqlite](https://blog.wesleyac.com/posts/consider-sqlite)
@@ -4347,27 +4377,27 @@
  - [https://www.bbc.com/future/article/20211210-the-ways-masks-defined-our-year](https://www.bbc.com/future/article/20211210-the-ways-masks-defined-our-year)
  - date_published: 2021-12-30T10:19:26.443396+00:00
 
+ ## Parson says he believes prosecutor will bring charges in Post-Dispatch case | Politics | stltoday.com
+ - [https://www.stltoday.com/news/local/govt-and-politics/parson-says-he-believes-prosecutor-will-bring-charges-in-post-dispatch-case/article_c4d88dae-fbf7-565f-a96c-e3589a626273.html](https://www.stltoday.com/news/local/govt-and-politics/parson-says-he-believes-prosecutor-will-bring-charges-in-post-dispatch-case/article_c4d88dae-fbf7-565f-a96c-e3589a626273.html)
+ - date_published: 2021-12-30T12:37:00+00:00
+
  ## GCC 12 Adds Support For Using The Mold Linker - Phoronix
  - [https://www.phoronix.com/scan.php?page=news_item&px=GCC-12-Mold-Linker](https://www.phoronix.com/scan.php?page=news_item&px=GCC-12-Mold-Linker)
  - date_published: 2021-12-30T14:56:31.310956+00:00
+
+ ## Nancy Pelosi buys call options for Google, Disney stocks
+ - [https://nypost.com/2021/12/30/nancy-pelosi-buys-call-options-for-google-disney-stocks](https://nypost.com/2021/12/30/nancy-pelosi-buys-call-options-for-google-disney-stocks)
+ - date_published: 2021-12-30T18:44:44+00:00
+ - tags: ['nancy pelosi']
 
  ## New York governor declares racism 'public health emergency' amid new anti-discrimination legislation  - ABC News
  - [https://abcnews.go.com/US/york-governor-declares-racism-public-health-emergency-amid/story?id=82002884](https://abcnews.go.com/US/york-governor-declares-racism-public-health-emergency-amid/story?id=82002884)
  - date_published: 2021-12-30T20:07:17+00:00
  - tags: ['racism', 'usa']
 
- ## Nancy Pelosi buys call options for Google, Disney stocks
- - [https://nypost.com/2021/12/30/nancy-pelosi-buys-call-options-for-google-disney-stocks](https://nypost.com/2021/12/30/nancy-pelosi-buys-call-options-for-google-disney-stocks)
- - date_published: 2021-12-30T20:15:36+00:00
- - tags: ['nancy pelosi']
-
  ## University loses 77TB of research data due to backup error
  - [https://www.bleepingcomputer.com/news/security/university-loses-77tb-of-research-data-due-to-backup-error](https://www.bleepingcomputer.com/news/security/university-loses-77tb-of-research-data-due-to-backup-error)
  - date_published: 2021-12-31T07:04:58+00:00
-
- ## Parson says he believes prosecutor will bring charges in Post-Dispatch case | Politics | stltoday.com
- - [https://www.stltoday.com/news/local/govt-and-politics/parson-says-he-believes-prosecutor-will-bring-charges-in-post-dispatch-case/article_c4d88dae-fbf7-565f-a96c-e3589a626273.html](https://www.stltoday.com/news/local/govt-and-politics/parson-says-he-believes-prosecutor-will-bring-charges-in-post-dispatch-case/article_c4d88dae-fbf7-565f-a96c-e3589a626273.html)
- - date_published: 2021-12-31T08:38:24.938319+00:00
 
  ## Log4j – Apache Log4j Security Vulnerabilities
  - [https://logging.apache.org/log4j/2.x/security.html](https://logging.apache.org/log4j/2.x/security.html)

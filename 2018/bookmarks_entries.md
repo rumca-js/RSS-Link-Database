@@ -714,6 +714,11 @@
  - date_published: 2018-10-30T00:00:00+00:00
  - tags: ['feminism', 'grievance', 'james lindsay', 'joe rogan', 'lgbt', 'peter boghossian', 'sjw', 'the left wing', 'woke']
 
+ ## Young People Are Having Less Sex - The Atlantic
+ - [https://www.theatlantic.com/magazine/archive/2018/12/the-sex-recession/573949](https://www.theatlantic.com/magazine/archive/2018/12/the-sex-recession/573949)
+ - date_published: 2018-11-13T13:00:00+00:00
+ - tags: ['psychology', 'sociology']
+
  ## NGO Admits Teaching Migrants How To Trick EU Border Guards (VIDEO)
  - [https://greekcitytimes.com/2018/11/14/ngo-admits-teaching-migrants-how-to-trick-eu-border-guards-video](https://greekcitytimes.com/2018/11/14/ngo-admits-teaching-migrants-how-to-trick-eu-border-guards-video)
  - date_published: 2018-11-14T06:47:12+00:00

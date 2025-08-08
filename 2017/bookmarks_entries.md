@@ -419,6 +419,11 @@
  - date_published: 2017-09-09T00:00:00+00:00
  - tags: ['movies', 'prometheus']
 
+ ## Raspberry Pi IRC Server: Setup your own Chat Network - Pi My Life Up
+ - [https://pimylifeup.com/raspberry-pi-irc-server](https://pimylifeup.com/raspberry-pi-irc-server)
+ - date_published: 2017-09-10T13:38:34+00:00
+ - tags: ['raspberry pi', 'selfhost']
+
  ## Jordan Peterson | Political Correctness and Postmodernism
  - [https://www.youtube.com/watch?v=f5rUPatnXSE](https://www.youtube.com/watch?v=f5rUPatnXSE)
  - date_published: 2017-09-12T00:00:00+00:00

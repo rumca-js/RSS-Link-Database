@@ -967,6 +967,10 @@
  - [https://www.mentalfloss.com/article/626991/overexposed-history-fotomat](https://www.mentalfloss.com/article/626991/overexposed-history-fotomat)
  - date_published: 2020-08-06T11:00:00+00:00
 
+ ## Saving a Third of Our Memory by Re-ordering Go Struct Fields | Lane's Ramblings
+ - [https://wagslane.dev/posts/go-struct-ordering](https://wagslane.dev/posts/go-struct-ordering)
+ - date_published: 2020-08-07T00:00:00+00:00
+
  ## 400+ Qualcomm Chip Vulnerabilities Threaten Millions of Android Phones
  - [https://www.darkreading.com/vulnerabilities---threats/400+-qualcomm-chip-vulnerabilities-threaten-millions-of-android-phones/d/d-id/1338613](https://www.darkreading.com/vulnerabilities---threats/400+-qualcomm-chip-vulnerabilities-threaten-millions-of-android-phones/d/d-id/1338613)
  - date_published: 2020-08-07T06:43:11+00:00
@@ -1631,6 +1635,11 @@
  - [https://ipi.media/journalists-across-eu-face-wave-of-attacks-covering-anti-lockdown-protests](https://ipi.media/journalists-across-eu-face-wave-of-attacks-covering-anti-lockdown-protests)
  - date_published: 2020-12-03T10:13:24+00:00
  - tags: ['covid', 'lockdown', 'mainstream media', 'protest']
+
+ ## 11 Open-Source Forum Software That You Can Deploy on Your Linux Servers
+ - [https://itsfoss.com/open-source-forum-software](https://itsfoss.com/open-source-forum-software)
+ - date_published: 2020-12-03T11:03:58+00:00
+ - tags: ['selfhost']
 
  ## California plans sweeping stay-at-home order as Covid cases surge | California | The Guardian
  - [https://www.theguardian.com/us-news/2020/dec/03/california-covid-restrictions-stay-at-home-order](https://www.theguardian.com/us-news/2020/dec/03/california-covid-restrictions-stay-at-home-order)

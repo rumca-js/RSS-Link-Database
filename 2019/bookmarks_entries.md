@@ -705,6 +705,10 @@
  - date_published: 2019-09-20T00:00:00+00:00
  - tags: ['edward snowden', 'privacy', 'surveillance']
 
+ ## My father had a lifelong ticket to fly anywhere. Then they took it away | Family | The Guardian
+ - [https://www.theguardian.com/lifeandstyle/2019/sep/19/american-airlines-aairpass-golden-ticket](https://www.theguardian.com/lifeandstyle/2019/sep/19/american-airlines-aairpass-golden-ticket)
+ - date_published: 2019-09-20T05:30:54+00:00
+
  ## Three Catholic churches in El Paso targeted in arson attacks, the FBI says
  - [https://www.cnn.com/2019/09/22/us/el-paso-churches-arson-attacks/index.html](https://www.cnn.com/2019/09/22/us/el-paso-churches-arson-attacks/index.html)
  - date_published: 2019-09-22T09:03:03+00:00

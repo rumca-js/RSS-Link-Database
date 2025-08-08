@@ -23,6 +23,10 @@
  - date_published: 2008-07-01T16:00:00+00:00
  - tags: ['digital dementia', 'future', 'google', 'psychology']
 
+ ## Even if a function doesn't do anything, you still have to call it if the documentation says so, because it might do something tomorrow - The Old New Thing
+ - [https://devblogs.microsoft.com/oldnewthing/20080925-00/?p=20763](https://devblogs.microsoft.com/oldnewthing/20080925-00/?p=20763)
+ - date_published: 2008-09-25T10:00:00+00:00
+
  ## Overdue Account
  - [https://27bslash6.com/overdue.html](https://27bslash6.com/overdue.html)
  - date_published: 2008-10-08T07:58:35+00:00
