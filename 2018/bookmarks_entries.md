@@ -75,6 +75,10 @@
  - date_published: 2018-02-02T11:05:53+00:00
  - tags: ['newspeak', 'pronouns', 'the left wing']
 
+ ## Why Paper Jams Persist | The New Yorker
+ - [https://www.newyorker.com/magazine/2018/02/12/why-paper-jams-persist](https://www.newyorker.com/magazine/2018/02/12/why-paper-jams-persist)
+ - date_published: 2018-02-05T10:00:00+00:00
+
  ## You can’t buy an ethical smartphone today
  - [https://www.engadget.com/2018-02-06-ethical-smartphone-conscious-consumption.html?guccounter=1&guce_referrer=aHR0cHM6Ly9kdWNrZHVja2dvLmNvbS8&guce_referrer_sig=AQAAAF7c3xppIbRVTms-CVHzXPrhxA3BXg4mamuzEBGlWlFrW4lrf6eERLvuoUQQssRm1Ifc2bq9gIziWm-L5DwjFvZ9Ci9f1Bv5cfqF8sOc_ocvqaG6oL08IwJ0DGM9cLlk0rp0Essfg-_wDHlQ6Fo-lEyJR4USUdwZ_ADIXOdlGIwq](https://www.engadget.com/2018-02-06-ethical-smartphone-conscious-consumption.html?guccounter=1&guce_referrer=aHR0cHM6Ly9kdWNrZHVja2dvLmNvbS8&guce_referrer_sig=AQAAAF7c3xppIbRVTms-CVHzXPrhxA3BXg4mamuzEBGlWlFrW4lrf6eERLvuoUQQssRm1Ifc2bq9gIziWm-L5DwjFvZ9Ci9f1Bv5cfqF8sOc_ocvqaG6oL08IwJ0DGM9cLlk0rp0Essfg-_wDHlQ6Fo-lEyJR4USUdwZ_ADIXOdlGIwq)
  - date_published: 2018-02-06T11:23:05+00:00

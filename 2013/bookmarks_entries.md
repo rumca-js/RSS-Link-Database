@@ -78,6 +78,11 @@
  - date_published: 2013-04-13T15:37:35+00:00
  - tags: ['canada', 'justin trudeau']
 
+ ## Google’s 200 Ranking Factors: The Complete List (2022)
+ - [https://backlinko.com/google-ranking-factors](https://backlinko.com/google-ranking-factors)
+ - date_published: 2013-04-18T09:36:57+00:00
+ - tags: ['algorithms', 'search engines']
+
  ## Daniel Cohn-Bendit and the 1968 Revolution: Paedophilia as Part of their Political Agenda
  - [https://c-fam.org/turtle_bay/daniel-cohn-bendit-and-the-1968-revolution-paedophilia-as-part-of-their-political-agenda](https://c-fam.org/turtle_bay/daniel-cohn-bendit-and-the-1968-revolution-paedophilia-as-part-of-their-political-agenda)
  - date_published: 2013-04-21T21:03:18+00:00
@@ -102,6 +107,10 @@
  - [https://www.youtube.com/watch?v=sXXR7USA3Tk](https://www.youtube.com/watch?v=sXXR7USA3Tk)
  - date_published: 2013-05-21T00:00:00+00:00
  - tags: ['religion']
+
+ ## What if I were 1% charged? | Gravity and Levity
+ - [https://gravityandlevity.wordpress.com/2013/05/22/what-if-i-were-1-charged](https://gravityandlevity.wordpress.com/2013/05/22/what-if-i-were-1-charged)
+ - date_published: 2013-05-23T00:37:38+00:00
 
  ## The Ugliest Open Secret Of German Politics: Pedophiles In The Green Party's Past
  - [https://worldcrunch.com/culture-society/the-ugliest-open-secret-of-german-politics-pedophiles-in-the-green-party039s-past](https://worldcrunch.com/culture-society/the-ugliest-open-secret-of-german-politics-pedophiles-in-the-green-party039s-past)

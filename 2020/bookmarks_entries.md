@@ -976,6 +976,11 @@
  - date_published: 2020-08-07T06:43:11+00:00
  - date_dead_since: 2025-04-05T11:52:00.350692+00:00
 
+ ## A U.S. government contractor embedded tracking software in the apps of millions of smartphone users
+ - [https://www.androidcentral.com/us-government-contractor-embedded-tracking-software-apps-millions-smartphone-users](https://www.androidcentral.com/us-government-contractor-embedded-tracking-software-apps-millions-smartphone-users)
+ - date_published: 2020-08-07T15:56:52+00:00
+ - tags: ['government control']
+
  ## Public School Teachers Openly Fear Parents Overhearing the Leftist Brainwashing During Virtual Classroom Sessions – RedState
  - [https://redstate.com/brandon_morse/2020/08/10/teachers-brainwash-n250658](https://redstate.com/brandon_morse/2020/08/10/teachers-brainwash-n250658)
  - date_published: 2020-08-10T08:51:56+00:00

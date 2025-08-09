@@ -58,14 +58,14 @@
  - date_published: 2019-01-26T07:23:00+00:00
  - tags: ['conspiracy theory', 'the right wing']
 
+ ## BoltDB vs Badger: A Comparison of Go Key-Value databases
+ - [https://tech.townsourced.com/post/boltdb-vs-badger](https://tech.townsourced.com/post/boltdb-vs-badger)
+ - date_published: 2019-01-29T00:00:00+00:00
+
  ## Facebook pays teens to install VPN that spies on them
  - [https://techcrunch.com/2019/01/29/facebook-project-atlas](https://techcrunch.com/2019/01/29/facebook-project-atlas)
  - date_published: 2019-01-29T06:49:05+00:00
  - tags: ['anonymity', 'facebook', 'privacy', 'project atlas', 'surveillance', 'technofeudalism', 'vpn']
-
- ## BoltDB vs Badger: A Comparison of Go Key-Value databases
- - [https://tech.townsourced.com/post/boltdb-vs-badger](https://tech.townsourced.com/post/boltdb-vs-badger)
- - date_published: 2019-01-30T18:13:44+00:00
 
  ## What We Should Learn From “Facebook Research”
  - [https://www.eff.org/deeplinks/2019/01/what-we-should-learn-facebook-research](https://www.eff.org/deeplinks/2019/01/what-we-should-learn-facebook-research)
@@ -439,6 +439,10 @@
  - [https://www.bbc.com/news/newsbeat-48952123](https://www.bbc.com/news/newsbeat-48952123)
  - date_published: 2019-07-13T11:20:17+00:00
  - tags: ['celebrity', 'dead internet', 'instagram', 'social media']
+
+ ## Do-nothing scripting: the key to gradual automation – Dan Slimmon
+ - [https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation](https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation)
+ - date_published: 2019-07-15T13:52:28+00:00
 
  ## Why you should stop working so hard.
  - [https://www.youtube.com/watch?v=NglDal-ycjU](https://www.youtube.com/watch?v=NglDal-ycjU)

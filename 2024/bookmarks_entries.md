@@ -961,7 +961,7 @@
 
  ## “Gay Furry Hackers” Claim Credit for Hacking Heritage Foundation Files Over Project 2025
  - [https://theintercept.com/2024/07/09/gay-furry-hackers-claim-credit-for-hacking-heritage-foundation-over-project-2025](https://theintercept.com/2024/07/09/gay-furry-hackers-claim-credit-for-hacking-heritage-foundation-over-project-2025)
- - date_published: 2024-07-09T17:01:41+00:00
+ - date_published: 2024-07-09T15:01:41+00:00
  - tags: ['project 2025']
 
  ## Tesla reportedly optimizes its self-driving software for Elon Musk and EV influencers.
