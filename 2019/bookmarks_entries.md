@@ -569,6 +569,11 @@
  - date_published: 2019-08-16T11:49:03+00:00
  - tags: ['big brother', 'biometric', 'corporatocracy', 'england', 'facial recognition', 'privacy', 'surveillance']
 
+ ## Is Your Phone Recording Your Conversations? The Answer Might Surprise You.
+ - [https://www.huffpost.com/entry/smartphone-devices-recording-privacy_l_5d570869e4b056fafd0bbc09](https://www.huffpost.com/entry/smartphone-devices-recording-privacy_l_5d570869e4b056fafd0bbc09)
+ - date_published: 2019-08-17T00:08:19+00:00
+ - tags: ['privacy', 'security', 'smartphone', 'surveillance']
+
  ## Ottawa's first 'Black Mass' has protesters seeing red | CTV News
  - [https://ottawa.ctvnews.ca/ottawa-s-first-black-mass-has-protesters-seeing-red-1.4554309](https://ottawa.ctvnews.ca/ottawa-s-first-black-mass-has-protesters-seeing-red-1.4554309)
  - date_published: 2019-08-17T13:11:25+00:00
@@ -952,6 +957,10 @@
  - [https://www.cnn.com/2019/11/25/tech/berners-lee-web-safer-plan-scli-intl/index.html](https://www.cnn.com/2019/11/25/tech/berners-lee-web-safer-plan-scli-intl/index.html)
  - date_published: 2019-11-25T12:39:10+00:00
  - tags: ['all time', 'big tech', 'dystopia', 'internet', 'privacy', 'surveillance', 'tim berners-lee']
+
+ ## Bringing the Unix Philosophy to the 21st Century | Brazil's Blog
+ - [https://blog.kellybrazil.com/2019/11/26/bringing-the-unix-philosophy-to-the-21st-century](https://blog.kellybrazil.com/2019/11/26/bringing-the-unix-philosophy-to-the-21st-century)
+ - date_published: 2019-11-26T08:33:27+00:00
 
  ## Top 25 Most Dangerous Vulnerabilities Refreshed After 8 Years
  - [https://www.bleepingcomputer.com/news/security/top-25-most-dangerous-vulnerabilities-refreshed-after-8-years](https://www.bleepingcomputer.com/news/security/top-25-most-dangerous-vulnerabilities-refreshed-after-8-years)

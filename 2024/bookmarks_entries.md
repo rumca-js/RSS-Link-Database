@@ -1231,6 +1231,11 @@
  - date_published: 2024-10-10T18:58:17+00:00
  - tags: ['subscriptions', 'technofeudalism']
 
+ ## Hackers take control of robot vacuums in multiple US cities and abuse owners
+ - [https://www.abc.net.au/news/2024-10-11/robot-vacuum-yells-racial-slurs-at-family-after-being-hacked/104445408](https://www.abc.net.au/news/2024-10-11/robot-vacuum-yells-racial-slurs-at-family-after-being-hacked/104445408)
+ - date_published: 2024-10-10T19:11:48+00:00
+ - tags: ['hacking', 'privacy', 'surveillance', 'technofeudalism']
+
  ## How smart TVs spy on you and harvest data
  - [https://www.theregister.com/2024/10/09/smart_tv_spy_on_viewers](https://www.theregister.com/2024/10/09/smart_tv_spy_on_viewers)
  - date_published: 2024-10-11T06:45:59+00:00
@@ -1251,6 +1256,11 @@
  - date_published: 2024-10-14T10:25:08+00:00
  - tags: ['dei']
 
+ ## 'I'd never seen such an audacious attack on anonymity before': Clearview AI and the creepy tech that can identify you with a single picture
+ - [https://www.livescience.com/technology/artificial-intelligence/id-never-seen-such-an-audacious-attack-on-anonymity-before-clearview-ai-and-the-creepy-tech-that-can-identify-you-with-a-single-picture](https://www.livescience.com/technology/artificial-intelligence/id-never-seen-such-an-audacious-attack-on-anonymity-before-clearview-ai-and-the-creepy-tech-that-can-identify-you-with-a-single-picture)
+ - date_published: 2024-10-21T09:17:45+00:00
+ - tags: ['privacy', 'surveillance']
+
  ## Meta’s Israel Policy Chief Tried to Suppress Pro-Palestinian Instagram Posts
  - [https://theintercept.com/2024/10/21/instagram-israel-palestine-censorship-sjp](https://theintercept.com/2024/10/21/instagram-israel-palestine-censorship-sjp)
  - date_published: 2024-10-21T17:40:24+00:00
@@ -1260,16 +1270,6 @@
  - [https://www.theverge.com/2024/10/22/24276546/meta-threads-instagram-elonjet-celebrity-jet-tracking-suspended](https://www.theverge.com/2024/10/22/24276546/meta-threads-instagram-elonjet-celebrity-jet-tracking-suspended)
  - date_published: 2024-10-22T05:22:48+00:00
  - tags: ['billionaires', 'climate change', 'elite']
-
- ## Hackers take control of robot vacuums in multiple US cities and abuse owners
- - [https://www.abc.net.au/news/2024-10-11/robot-vacuum-yells-racial-slurs-at-family-after-being-hacked/104445408](https://www.abc.net.au/news/2024-10-11/robot-vacuum-yells-racial-slurs-at-family-after-being-hacked/104445408)
- - date_published: 2024-10-22T06:11:56+00:00
- - tags: ['hacking', 'privacy', 'surveillance', 'technofeudalism']
-
- ## 'I'd never seen such an audacious attack on anonymity before': Clearview AI and the creepy tech that can identify you with a single picture
- - [https://www.livescience.com/technology/artificial-intelligence/id-never-seen-such-an-audacious-attack-on-anonymity-before-clearview-ai-and-the-creepy-tech-that-can-identify-you-with-a-single-picture](https://www.livescience.com/technology/artificial-intelligence/id-never-seen-such-an-audacious-attack-on-anonymity-before-clearview-ai-and-the-creepy-tech-that-can-identify-you-with-a-single-picture)
- - date_published: 2024-10-22T16:38:55+00:00
- - tags: ['privacy', 'surveillance']
 
  ## The Global Surveillance Free-for-All in Mobile Ad Data – Krebs on Security
  - [https://krebsonsecurity.com/2024/10/the-global-surveillance-free-for-all-in-mobile-ad-data](https://krebsonsecurity.com/2024/10/the-global-surveillance-free-for-all-in-mobile-ad-data)

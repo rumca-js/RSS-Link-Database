@@ -1767,6 +1767,10 @@
  - date_published: 2020-12-14T20:55:52+00:00
  - tags: ['tedros adhanom', 'who']
 
+ ## Experiments on a $50 DIY air purifier you can make in 30s
+ - [https://dynomight.net/2020/12/15/some-real-data-on-a-DIY-box-fan-air-purifier](https://dynomight.net/2020/12/15/some-real-data-on-a-DIY-box-fan-air-purifier)
+ - date_published: 2020-12-15T00:00:00+00:00
+
  ## Prezes Pfizera nie dostał jeszcze własnej szczepionki. Nie chce "wpychać się do kolejki"
  - [https://dorzeczy.pl/swiat/165180/prezes-pfizera-nie-dostal-jeszcze-wlasnej-szczepionki-nie-chce-wpychac-sie-do-kolejki.html](https://dorzeczy.pl/swiat/165180/prezes-pfizera-nie-dostal-jeszcze-wlasnej-szczepionki-nie-chce-wpychac-sie-do-kolejki.html)
  - date_published: 2020-12-16T06:19:13+00:00

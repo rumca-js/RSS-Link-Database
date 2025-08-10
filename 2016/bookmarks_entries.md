@@ -357,6 +357,10 @@
  - date_published: 2016-11-03T13:47:25+00:00
  - tags: ['donald trump', 'fakenews', 'social engineering', 'social media']
 
+ ## Your Idea Is Brilliant, Your Idea Is Worthless (KS Lesson #204) – Stonemaier Games
+ - [https://stonemaiergames.com/kickstarter-lesson-204-your-idea-is-brilliant-your-idea-is-worthless](https://stonemaiergames.com/kickstarter-lesson-204-your-idea-is-brilliant-your-idea-is-worthless)
+ - date_published: 2016-11-07T16:04:50+00:00
+
  ## When It Comes to Fake News, the U.S. Government Is the Biggest Culprit
  - [https://www.rutherford.org/publications_resources/john_whiteheads_commentary/when_it_comes_to_fake_news_the_u.s._government_is_the_biggest_culprit](https://www.rutherford.org/publications_resources/john_whiteheads_commentary/when_it_comes_to_fake_news_the_u.s._government_is_the_biggest_culprit)
  - date_published: 2016-11-21T15:16:47+00:00
