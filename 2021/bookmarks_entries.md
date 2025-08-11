@@ -1138,7 +1138,7 @@
 
  ## Fauci's Emails Expose His Lies About Masks in Stunning Fashion – RedState
  - [https://redstate.com/bonchie/2021/06/02/faucis-emails-expose-his-lies-about-masks-in-stunning-fashion-n390282](https://redstate.com/bonchie/2021/06/02/faucis-emails-expose-his-lies-about-masks-in-stunning-fashion-n390282)
- - date_published: 2021-06-02T19:28:27+00:00
+ - date_published: 2021-06-02T16:30:31+00:00
  - tags: ['anthony fauci', 'covid', 'masks']
 
  ## A Virginia Teacher Was Put On Leave After Opposing New Rights For Trans Students
@@ -1182,12 +1182,12 @@
 
  ## The Media's Lab Leak Debacle Shows Why Banning 'Misinformation' Is a Terrible Idea
  - [https://reason.com/2021/06/04/lab-leak-misinformation-media-fauci-covid-19](https://reason.com/2021/06/04/lab-leak-misinformation-media-fauci-covid-19)
- - date_published: 2021-06-04T19:26:23+00:00
+ - date_published: 2021-06-04T11:30:08+00:00
  - tags: ['censorship', 'covid', 'misinformation', 'science is dead', 'wuhan']
 
  ## Microsoft's Bing censors image results for "tank man" on anniversary of Tiananmen Square massacre
  - [https://reclaimthenet.org/microsofts-bing-censors-tank-man](https://reclaimthenet.org/microsofts-bing-censors-tank-man)
- - date_published: 2021-06-04T21:20:46+00:00
+ - date_published: 2021-06-04T14:06:10+00:00
  - tags: ['censorship', 'china', 'microsoft']
 
  ## The Meaning of Pride ft. Drag Queen Nina West 🏳️‍🌈 (Pride Song)
@@ -1205,6 +1205,11 @@
  - date_published: 2021-06-07T22:21:55+00:00
  - tags: ['children', 'indoctrination', 'lgbt', 'sexualization', 'the left wing']
 
+ ## UK government loses legal battle over transparency of ‘Orwellian’ unit | Freedom of information | The Guardian
+ - [https://www.theguardian.com/politics/2021/jun/08/uk-government-loses-legal-battle-transparency-orwellian-unit](https://www.theguardian.com/politics/2021/jun/08/uk-government-loses-legal-battle-transparency-orwellian-unit)
+ - date_published: 2021-06-08T15:00:23+00:00
+ - tags: ['big brother', 'censorship', 'clearing house', 'covid', 'england', 'surveillance']
+
  ## If you have to be persuaded, reminded pressured, lied to, incentivized, forced, bullied, socially shamed, guilt-tripped, threatened, punished and criminalized
  - [https://www.reddit.com/r/quotes/comments/q59twe/is_this_a_real_quote_i_cant_seem_to_find_it_on](https://www.reddit.com/r/quotes/comments/q59twe/is_this_a_real_quote_i_cant_seem_to_find_it_on)
  - date_published: 2021-06-08T15:10:39+00:00
@@ -1212,32 +1217,29 @@
 
  ## Bats and Pangolins not sold at Wuhan markets, says Oxford research
  - [https://www.oxfordstudent.com/2021/06/08/bats-and-pangolins-not-sold-at-wuhan-markets-says-oxford-research](https://www.oxfordstudent.com/2021/06/08/bats-and-pangolins-not-sold-at-wuhan-markets-says-oxford-research)
- - date_published: 2021-06-08T19:14:39+00:00
+ - date_published: 2021-06-08T18:00:03+00:00
  - tags: ['covid', 'wuhan']
 
  ## Judge slams Michael Gove’s office as openDemocracy wins transparency court case | openDemocracy
  - [https://www.opendemocracy.net/en/freedom-of-information/foi-clearing-house-michael-gove-cabinet-office-opendemocracy-wins-court-case-uk-government](https://www.opendemocracy.net/en/freedom-of-information/foi-clearing-house-michael-gove-cabinet-office-opendemocracy-wins-court-case-uk-government)
  - date_published: 2021-06-08T19:44:41+00:00
  - tags: ['big brother', 'censorship', 'clearing house', 'covid', 'surveillance']
-
- ## UK government loses legal battle over transparency of ‘Orwellian’ unit | Freedom of information | The Guardian
- - [https://www.theguardian.com/politics/2021/jun/08/uk-government-loses-legal-battle-transparency-orwellian-unit](https://www.theguardian.com/politics/2021/jun/08/uk-government-loses-legal-battle-transparency-orwellian-unit)
- - date_published: 2021-06-08T19:46:59+00:00
- - tags: ['big brother', 'censorship', 'clearing house', 'covid', 'england', 'surveillance']
+ - date_dead_since: 2025-08-10T23:09:30.840207+00:00
 
  ## Amazon Sidewalk Mesh Network Raises Security, Privacy Concerns - SecurityWeek
  - [https://www.securityweek.com/amazon-sidewalk-mesh-network-raises-security-privacy-concerns](https://www.securityweek.com/amazon-sidewalk-mesh-network-raises-security-privacy-concerns)
  - date_published: 2021-06-09T18:02:26+00:00
  - tags: ['amazon', 'corporatocracy', 'mesh network', 'privacy', 'surveillance', 'vulnerability']
+ - date_dead_since: 2025-08-10T22:59:36.869188+00:00
 
  ## Social distancing should stay FOREVER, says Communist-supporting SAGE Covid scientist Susan Michie | Daily Mail Online
  - [https://www.dailymail.co.uk/news/article-9672347/Social-distancing-stay-FOREVER-says-Communist-supporting-SAGE-Covid-scientist-Susan-Michie.html](https://www.dailymail.co.uk/news/article-9672347/Social-distancing-stay-FOREVER-says-Communist-supporting-SAGE-Covid-scientist-Susan-Michie.html)
- - date_published: 2021-06-10T20:21:13+00:00
+ - date_published: 2021-06-10T13:34:40+00:00
  - tags: ['covid', 'social distance']
 
  ## What Happens When Hedge Funds Buy Up Neighborhoods
  - [https://thefederalist.com/2021/06/11/what-happens-when-hedge-funds-buy-up-neighborhoods](https://thefederalist.com/2021/06/11/what-happens-when-hedge-funds-buy-up-neighborhoods)
- - date_published: 2021-06-11T10:43:20+00:00
+ - date_published: 2021-06-11T10:35:19+00:00
  - tags: ['blackrock', 'hedgefunds', 'middleclass']
 
  ## Youth suicide attempts soared during pandemic, CDC report says
@@ -1247,12 +1249,13 @@
 
  ## Society is Artificial Due to Feedback Loops Created by Unwitting Marketers
  - [https://forum.agoraroad.com/index.php?threads/society-is-artificial-due-to-feedback-loops-created-by-unwitting-marketers.3342](https://forum.agoraroad.com/index.php?threads/society-is-artificial-due-to-feedback-loops-created-by-unwitting-marketers.3342)
- - date_published: 2021-06-12T20:46:05+00:00
+ - date_published: 2021-06-12T00:00:00+00:00
 
  ## He authorized Moderna's vaccine 6 months ago. Now, ex-FDA chief Hahn joins biotech's backer
  - [https://www.fiercebiotech.com/biotech/six-months-after-granting-moderna-covid-19-eua-ex-fda-commish-joins-biotech-s-founding](https://www.fiercebiotech.com/biotech/six-months-after-granting-moderna-covid-19-eua-ex-fda-commish-joins-biotech-s-founding)
  - date_published: 2021-06-14T06:58:41+00:00
  - tags: ['manufacturing consent', 'moderna', 'vaccine']
+ - date_dead_since: 2025-08-10T22:39:30.755779+00:00
 
  ## Kiedy WHO zmieniła definicję odporności stada? Zmiana treści definicji terminu Odporność Stadna. [listopad 2020]
  - [https://pubmedinfo.org/2021/06/16/kiedy-who-zmienila-definicje-odpornosci-stada](https://pubmedinfo.org/2021/06/16/kiedy-who-zmienila-definicje-odpornosci-stada)
@@ -1261,18 +1264,19 @@
 
  ## Sidewalk: The Next Frontier Of Amazon’s Surveillance Infrastructure | ACLU
  - [https://www.aclu.org/news/privacy-technology/sidewalk-the-next-frontier-of-amazons-surveillance-infrastructure](https://www.aclu.org/news/privacy-technology/sidewalk-the-next-frontier-of-amazons-surveillance-infrastructure)
- - date_published: 2021-06-18T17:51:50+00:00
+ - date_published: 2021-06-18T14:00:45+00:00
  - tags: ['amazon', 'corporatocracy', 'sidewalk', 'surveillance']
 
  ## ‘CDC has been wrong all along, and they knew it’, says Ron DeSantis as judge rules CDC can’t regulate cruises | The Independent
  - [https://www.independent.co.uk/news/world/americas/cdc-florida-covid-cruise-judge-b1869088.html](https://www.independent.co.uk/news/world/americas/cdc-florida-covid-cruise-judge-b1869088.html)
- - date_published: 2021-06-19T19:30:04+00:00
+ - date_published: 2021-06-19T17:48:59+00:00
  - tags: ['big brother', 'cdc', 'covid']
 
  ## Colossal Financial Pyramid: BlackRock and The WEF "Great Reset" - Global ResearchGlobal Research - Centre for Research on Globalization
  - [https://www.globalresearch.ca/more-blackrock-than-you-might-imagine/5748159](https://www.globalresearch.ca/more-blackrock-than-you-might-imagine/5748159)
  - date_published: 2021-06-20T19:15:23+00:00
  - tags: ['blackrock', 'great reset', 'world economic forum']
+ - date_dead_since: 2025-08-10T22:09:36.239441+00:00
 
  ## The Lazarus heist: How North Korea almost pulled off a billion-dollar hack
  - [https://www.bbc.co.uk/news/stories-57520169](https://www.bbc.co.uk/news/stories-57520169)
@@ -1286,7 +1290,7 @@
 
  ## Fauci Doubles Down: People Who Criticize Me Are ‘Actually Criticizing Science’
  - [https://www.breitbart.com/science/2021/06/21/fauci-doubles-down-people-who-criticize-me-are-actually-criticizing-science](https://www.breitbart.com/science/2021/06/21/fauci-doubles-down-people-who-criticize-me-are-actually-criticizing-science)
- - date_published: 2021-06-21T17:24:57+00:00
+ - date_published: 2021-06-21T10:18:38+00:00
  - tags: ['anthony fauci', 'covid', 'science', 'science is dead']
 
  ## Amazon Sidewalk will create entire smart neighborhoods. Here's what you should know - CNET
@@ -1294,19 +1298,20 @@
  - date_published: 2021-06-21T17:49:49+00:00
  - tags: ['amazon', 'corporatocracy', 'sidewalk', 'smart city', 'surveillance']
 
+ ## Even creepier COVID tracking: Google silently pushed app to users’ phones [Updated]
+ - [https://arstechnica.com/gadgets/2021/06/even-creepier-covid-tracking-google-silently-pushed-app-to-users-phones](https://arstechnica.com/gadgets/2021/06/even-creepier-covid-tracking-google-silently-pushed-app-to-users-phones)
+ - date_published: 2021-06-21T18:07:13+00:00
+ - tags: ['covid', 'privacy', 'tracking']
+
  ## Canadian Pastors Arrested for Holding Outdoor Church Services - The American Spectator | USA News and Politics
  - [https://spectator.org/canadian-pastor-arrested-covid](https://spectator.org/canadian-pastor-arrested-covid)
  - date_published: 2021-06-21T20:16:50+00:00
  - tags: ['covid', 'lockdown']
-
- ## Even creepier COVID tracking: Google silently pushed app to users’ phones [Updated]
- - [https://arstechnica.com/gadgets/2021/06/even-creepier-covid-tracking-google-silently-pushed-app-to-users-phones](https://arstechnica.com/gadgets/2021/06/even-creepier-covid-tracking-google-silently-pushed-app-to-users-phones)
- - date_published: 2021-06-21T21:26:16+00:00
- - tags: ['covid', 'privacy', 'tracking']
+ - date_dead_since: 2025-08-10T21:48:35.460920+00:00
 
  ## EU launches antitrust probe into Google banning third-party cookies in Chrome | Ars Technica
  - [https://arstechnica.com/tech-policy/2021/06/eu-antitrust-regulators-launch-probe-into-googles-floc-plan](https://arstechnica.com/tech-policy/2021/06/eu-antitrust-regulators-launch-probe-into-googles-floc-plan)
- - date_published: 2021-06-22T21:17:41+00:00
+ - date_published: 2021-06-22T16:19:40+00:00
  - tags: ['antitrust', 'big tech', 'cookies', 'google', 'monopoly']
 
  ## Is Jesus Historical? What Do The Romans Say About Him?
@@ -1324,15 +1329,11 @@
  - date_published: 2021-06-24T09:22:55+00:00
  - tags: ['covid', 'vaccine']
 
- ## Come June 1, 2021, all of your new photos will count against your free Google storage
- - [https://techcrunch.com/2020/11/11/google-cuts-back-on-its-free-storage-get-ready-to-pay-up/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAACdLcrCWM2hkskLPBjz6O0aLKgR7zzifHK646vqnhzHMh7oPzacUJpv2rga3iBuuEWs6JtqVwz2EypbE6t283SMwj1JrBP_4ERvFENTEAuT8J6I6XKueZHtmSDfzezgeM87A-7E7PPSM6O8zhavQ6tf3fIcGJX44bDOcX3l3BSqj](https://techcrunch.com/2020/11/11/google-cuts-back-on-its-free-storage-get-ready-to-pay-up/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAACdLcrCWM2hkskLPBjz6O0aLKgR7zzifHK646vqnhzHMh7oPzacUJpv2rga3iBuuEWs6JtqVwz2EypbE6t283SMwj1JrBP_4ERvFENTEAuT8J6I6XKueZHtmSDfzezgeM87A-7E7PPSM6O8zhavQ6tf3fIcGJX44bDOcX3l3BSqj)
- - date_published: 2021-06-24T12:04:50+00:00
- - tags: ['google', 'subscription', 'technofeudalism']
-
  ## Pfizer, Moderna COVID-19 vaccines will get label warning over rare heart risk, FDA says
  - [https://www.fiercepharma.com/pharma/fda-says-label-warning-coming-for-heart-inflammation-pfizer-bnt-moderna-covid-19-vaccines](https://www.fiercepharma.com/pharma/fda-says-label-warning-coming-for-heart-inflammation-pfizer-bnt-moderna-covid-19-vaccines)
  - date_published: 2021-06-24T18:00:32+00:00
  - tags: ['covid', 'vaccine']
+ - date_dead_since: 2025-08-10T21:18:30.525123+00:00
 
  ## What Started the Cultural Fixation on Gender?
  - [https://www.youtube.com/watch?v=OHE442ISkUU](https://www.youtube.com/watch?v=OHE442ISkUU)
@@ -1341,7 +1342,7 @@
 
  ## Why Windows 11 is forcing everyone to use TPM chips - The Verge
  - [https://www.theverge.com/2021/6/25/22550376/microsoft-windows-11-tpm-chips-requirement-security](https://www.theverge.com/2021/6/25/22550376/microsoft-windows-11-tpm-chips-requirement-security)
- - date_published: 2021-06-25T18:26:56+00:00
+ - date_published: 2021-06-25T17:10:27+00:00
  - tags: ['crypto wars', 'technofeudalism', 'tpm', 'windows']
 
  ## Starting in 2023, Windows 11 will require new laptops to have a front webcam
@@ -1350,14 +1351,14 @@
 
  ## Corporations are the reason why we have a alt-right alt-left war.
  - [https://forum.agoraroad.com/index.php?threads/corporations-are-the-reason-why-we-have-a-alt-right-alt-left-war.3387](https://forum.agoraroad.com/index.php?threads/corporations-are-the-reason-why-we-have-a-alt-right-alt-left-war.3387)
- - date_published: 2021-06-26T12:04:49+00:00
+ - date_published: 2021-06-26T00:00:00+00:00
  - tags: ['polarization', 'social media']
 
  ## Coronavirus Origins: Washington Post Corrects Year-Old Article Calling Lab-Leak Theory 'Debunked' | National Review
  - [https://www.nationalreview.com/news/washington-post-corrects-year-old-article-calling-lab-leak-theory-debunked](https://www.nationalreview.com/news/washington-post-corrects-year-old-article-calling-lab-leak-theory-debunked)
  - date_published: 2021-06-26T19:37:50+00:00
  - tags: ['censorship', 'covid', 'ministry of truth', 'misinformation', 'wuhan']
- - date_dead_since: 2025-04-02T20:28:10.357541+00:00
+ - date_dead_since: 2025-08-10T20:34:30.476868+00:00
 
  ## Windows 11: TPMs and Digital Sovereignty
  - [https://secret.club/2021/06/28/windows11-tpms.html](https://secret.club/2021/06/28/windows11-tpms.html)
@@ -1374,15 +1375,20 @@
  - date_published: 2021-06-30T07:39:45+00:00
  - tags: ['dead internet', 'internet', 'link rot']
 
+ ## Hiszpania: zmiana płci od 14 roku życia bez ograniczeń
+ - [https://portal-polski.pl/hiszpania-zmiana-plci-od-14-roku-zycia-bez-ograniczen/7199](https://portal-polski.pl/hiszpania-zmiana-plci-od-14-roku-zycia-bez-ograniczen/7199)
+ - date_published: 2021-06-30T22:01:47+00:00
+ - tags: ['big brother', 'children', 'gender', 'lgbt', 'spain', 'the left wing', 'transgender']
+
+ ## A Remarkable Silence: Media Blackout After Key Witness Against Assange Admits Lying
+ - [https://www.medialens.org/2021/a-remarkable-silence-media-blackout-after-key-witness-against-assange-admits-lying](https://www.medialens.org/2021/a-remarkable-silence-media-blackout-after-key-witness-against-assange-admits-lying)
+ - date_published: 2021-07-01T08:34:17+00:00
+ - tags: ['julian assange', 'wikileaks']
+
  ## Canadian Indigenous Group Says More Graves Found At New Site : NPR
  - [https://www.npr.org/2021/07/01/1012100926/graves-found-at-new-site-canadian-indigenous-group-says](https://www.npr.org/2021/07/01/1012100926/graves-found-at-new-site-canadian-indigenous-group-says)
  - date_published: 2021-07-01T08:57:23+00:00
  - tags: ['canada', 'church scandal', 'religion']
-
- ## A Remarkable Silence: Media Blackout After Key Witness Against Assange Admits Lying
- - [https://www.medialens.org/2021/a-remarkable-silence-media-blackout-after-key-witness-against-assange-admits-lying](https://www.medialens.org/2021/a-remarkable-silence-media-blackout-after-key-witness-against-assange-admits-lying)
- - date_published: 2021-07-01T12:04:49+00:00
- - tags: ['julian assange', 'wikileaks']
 
  ## Rząd nakazał przedsiębiorcom segregację na szczepionych i nieszczepionych, ale zapomniał powiedzieć, jak mają to robić
  - [https://panoptykon.org/zaszczepieni-ponad-limitami](https://panoptykon.org/zaszczepieni-ponad-limitami)
@@ -1393,11 +1399,6 @@
  - [https://niezalezna.pl/401854-nowe-prawo-dot-lgbt-w-hiszpanii-musisz-udowodnic-niewinnosc](https://niezalezna.pl/401854-nowe-prawo-dot-lgbt-w-hiszpanii-musisz-udowodnic-niewinnosc)
  - date_published: 2021-07-01T22:07:23+00:00
  - tags: ['big brother', 'inequality', 'lgbt', 'spain', 'the left wing']
-
- ## Hiszpania: zmiana płci od 14 roku życia bez ograniczeń
- - [https://portal-polski.pl/hiszpania-zmiana-plci-od-14-roku-zycia-bez-ograniczen/7199](https://portal-polski.pl/hiszpania-zmiana-plci-od-14-roku-zycia-bez-ograniczen/7199)
- - date_published: 2021-07-01T22:27:07+00:00
- - tags: ['big brother', 'children', 'gender', 'lgbt', 'spain', 'the left wing', 'transgender']
 
  ## Coke Faces Down Most Serious Backlash Yet For Their “Woke” Agenda
  - [https://www.redvoicemedia.com/2021/07/coke-faces-down-most-serious-backlash-yet-for-their-woke-agenda](https://www.redvoicemedia.com/2021/07/coke-faces-down-most-serious-backlash-yet-for-their-woke-agenda)
@@ -1413,10 +1414,11 @@
  - [https://www.nytimes.com/2021/07/14/technology/facebook-data.html](https://www.nytimes.com/2021/07/14/technology/facebook-data.html)
  - date_published: 2021-07-04T20:03:09+00:00
  - tags: ['crowdtangle', 'facebook', 'meta', 'the right wing']
+ - date_dead_since: 2025-08-10T12:33:32.709876+00:00
 
  ## How Low Interest Rates Sent Institutions Like Blackrock Into Bidding Wars For Homes - Better Dwelling
  - [https://betterdwelling.com/how-low-interest-rates-sent-institutions-like-blackrock-into-bidding-wars-for-homes](https://betterdwelling.com/how-low-interest-rates-sent-institutions-like-blackrock-into-bidding-wars-for-homes)
- - date_published: 2021-07-05T22:44:50+00:00
+ - date_published: 2021-07-05T20:32:16+00:00
  - tags: ['blackrock']
 
  ## College essay writer: I signed up to help students cheat, but it was more complicated than I thought.
@@ -1437,6 +1439,11 @@
  - [https://www.entrepreneur.com/article/375641](https://www.entrepreneur.com/article/375641)
  - date_published: 2021-07-07T12:04:00+00:00
 
+ ## Inside Nancy Pelosi’s Husband’s $5 Million Alphabet Options Windfall
+ - [https://www.forbes.com/sites/antoinegara/2021/07/08/inside-nancy-pelosis-husbands-5-million-alphabet-options-windfall](https://www.forbes.com/sites/antoinegara/2021/07/08/inside-nancy-pelosis-husbands-5-million-alphabet-options-windfall)
+ - date_published: 2021-07-08T00:00:00+00:00
+ - tags: ['nancy pelosi']
+
  ## Why Media Mogul Barry Diller Thinks The Movie Business Is Dead : NPR
  - [https://www.npr.org/2021/07/08/1014095135/barry-diller-headed-2-hollywood-studios-he-now-says-the-movie-business-is-dead](https://www.npr.org/2021/07/08/1014095135/barry-diller-headed-2-hollywood-studios-he-now-says-the-movie-business-is-dead)
  - date_published: 2021-07-08T14:15:32+00:00
@@ -1445,11 +1452,6 @@
  ## We Got the Phone the FBI Secretly Sold to Criminals
  - [https://www.vice.com/en/article/n7b4gg/anom-phone-arcaneos-fbi-backdoor](https://www.vice.com/en/article/n7b4gg/anom-phone-arcaneos-fbi-backdoor)
  - date_published: 2021-07-08T15:50:15+00:00
-
- ## Inside Nancy Pelosi’s Husband’s $5 Million Alphabet Options Windfall
- - [https://www.forbes.com/sites/antoinegara/2021/07/08/inside-nancy-pelosis-husbands-5-million-alphabet-options-windfall](https://www.forbes.com/sites/antoinegara/2021/07/08/inside-nancy-pelosis-husbands-5-million-alphabet-options-windfall)
- - date_published: 2021-07-08T20:12:47+00:00
- - tags: ['nancy pelosi']
 
  ## Experience: I lived in an airport for seven months | Life and style | The Guardian
  - [https://www.theguardian.com/lifeandstyle/2021/jul/09/experience-i-lived-in-an-airport-for-seven-months](https://www.theguardian.com/lifeandstyle/2021/jul/09/experience-i-lived-in-an-airport-for-seven-months)

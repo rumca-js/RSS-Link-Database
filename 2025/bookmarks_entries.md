@@ -349,7 +349,7 @@
 
  ## SOUTH KOREA IS OVER
  - [https://www.youtube.com/watch?v=Ufmu1WD2TSk](https://www.youtube.com/watch?v=Ufmu1WD2TSk)
- - date_published: 2025-04-02T14:00:03+00:00
+ - date_published: 2025-04-02T00:00:00+00:00
  - tags: ['depopulation', 'population']
 
  ## EC admits ‘misuse’ and ‘undue lobbying activities’ in grant awards

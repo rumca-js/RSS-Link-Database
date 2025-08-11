@@ -1468,6 +1468,11 @@
  - date_published: 2020-11-10T22:01:46+00:00
  - tags: ['censorship', 'hate speech', 'lgbt', 'norway', 'the left wing', 'transgender']
 
+ ## Come June 1, 2021, all of your new photos will count against your free Google storage
+ - [https://techcrunch.com/2020/11/11/google-cuts-back-on-its-free-storage-get-ready-to-pay-up/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAACdLcrCWM2hkskLPBjz6O0aLKgR7zzifHK646vqnhzHMh7oPzacUJpv2rga3iBuuEWs6JtqVwz2EypbE6t283SMwj1JrBP_4ERvFENTEAuT8J6I6XKueZHtmSDfzezgeM87A-7E7PPSM6O8zhavQ6tf3fIcGJX44bDOcX3l3BSqj](https://techcrunch.com/2020/11/11/google-cuts-back-on-its-free-storage-get-ready-to-pay-up/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAACdLcrCWM2hkskLPBjz6O0aLKgR7zzifHK646vqnhzHMh7oPzacUJpv2rga3iBuuEWs6JtqVwz2EypbE6t283SMwj1JrBP_4ERvFENTEAuT8J6I6XKueZHtmSDfzezgeM87A-7E7PPSM6O8zhavQ6tf3fIcGJX44bDOcX3l3BSqj)
+ - date_published: 2020-11-11T18:00:25+00:00
+ - tags: ['google', 'subscription', 'technofeudalism']
+
  ## Prezes Pfizera sprzedał swoje akcje w dniu ogłoszenia sukcesu badań nad szczepionką. Zarobił 5,6 mln dol.
  - [https://businessinsider.com.pl/wiadomosci/prezes-pfizera-sprzedal-swoje-akcje-w-dniu-ogloszenia-sukcesu-badan-nad-szczepionka/y1ccgzn](https://businessinsider.com.pl/wiadomosci/prezes-pfizera-sprzedal-swoje-akcje-w-dniu-ogloszenia-sukcesu-badan-nad-szczepionka/y1ccgzn)
  - date_published: 2020-11-11T20:10:48+00:00
