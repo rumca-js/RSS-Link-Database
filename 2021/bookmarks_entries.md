@@ -26,6 +26,11 @@
  - date_published: 2021-01-04T21:53:34+00:00
  - tags: ['gender', 'lgbt', 'newspeak', 'pronouns', 'social engineering', 'the left wing']
 
+ ## New York Bill Would Let the State Put People in Detention if Deemed a 'Significant Threat to Public Health'
+ - [https://reason.com/2021/01/05/new-york-bill-would-let-state-put-people-in-detention-public-health-threat-covid-19](https://reason.com/2021/01/05/new-york-bill-would-let-state-put-people-in-detention-public-health-threat-covid-19)
+ - date_published: 2021-01-05T20:11:00+00:00
+ - tags: ['covid', 'fearmongering']
+
  ## Dead Internet Theory: Most of the Internet is Fake
  - [https://forum.agoraroad.com/index.php?threads/dead-internet-theory-most-of-the-internet-is-fake.3011](https://forum.agoraroad.com/index.php?threads/dead-internet-theory-most-of-the-internet-is-fake.3011)
  - date_published: 2021-01-05T20:44:59+00:00
@@ -105,11 +110,17 @@
  - [https://apnews.com/article/donald-trump-entertainment-coronavirus-pandemic-8f586d687ab332777a7a059457ff818e](https://apnews.com/article/donald-trump-entertainment-coronavirus-pandemic-8f586d687ab332777a7a059457ff818e)
  - date_published: 2021-01-12T20:29:03+00:00
  - tags: ['donald trump']
+ - date_dead_since: 2025-08-12T00:08:02.987284+00:00
 
  ## Cyberfaszyzm
  - [https://polityko.com/2021/01/13/cyberfaszyzm](https://polityko.com/2021/01/13/cyberfaszyzm)
  - date_published: 2021-01-13T13:15:58+00:00
  - tags: ['big brother', 'big tech', 'censorship', 'hunter biden', 'privacy', 'surveillance']
+
+ ## COVID Lockdowns May Have No Clear Benefit vs Other Voluntary Measures, International Study Shows
+ - [https://www.newsweek.com/covid-lockdowns-have-no-clear-benefit-vs-other-voluntary-measures-international-study-shows-1561656?amp=1&__twitter_impression=true](https://www.newsweek.com/covid-lockdowns-have-no-clear-benefit-vs-other-voluntary-measures-international-study-shows-1561656?amp=1&__twitter_impression=true)
+ - date_published: 2021-01-14T11:41:14+00:00
+ - tags: ['covid', 'lockdown']
 
  ## How Facebook and Twitter decided to take down Trump's accounts
  - [https://www.nbcnews.com/tech/tech-news/how-facebook-twitter-decided-take-down-trump-s-accounts-n1254317](https://www.nbcnews.com/tech/tech-news/how-facebook-twitter-decided-take-down-trump-s-accounts-n1254317)
@@ -121,14 +132,9 @@
  - date_published: 2021-01-14T20:28:29+00:00
  - tags: ['donald trump']
 
- ## COVID Lockdowns May Have No Clear Benefit vs Other Voluntary Measures, International Study Shows
- - [https://www.newsweek.com/covid-lockdowns-have-no-clear-benefit-vs-other-voluntary-measures-international-study-shows-1561656?amp=1&__twitter_impression=true](https://www.newsweek.com/covid-lockdowns-have-no-clear-benefit-vs-other-voluntary-measures-international-study-shows-1561656?amp=1&__twitter_impression=true)
- - date_published: 2021-01-14T21:27:14+00:00
- - tags: ['covid', 'lockdown']
-
  ## 23 die in Norway after receiving Pfizer COVID-19 vaccine
  - [https://nypost.com/2021/01/15/23-die-in-norway-after-receiving-pfizer-covid-19-vaccine](https://nypost.com/2021/01/15/23-die-in-norway-after-receiving-pfizer-covid-19-vaccine)
- - date_published: 2021-01-15T20:10:53+00:00
+ - date_published: 2021-01-15T17:12:51+00:00
  - tags: ['covid', 'norway', 'vaccine']
 
  ## "Economist": Świat nie może pozwolić oligopolom technologicznym na przejęcie kontroli nad podstawowymi swobodami
@@ -145,19 +151,19 @@
  - date_published: 2021-01-18T00:00:00+00:00
  - tags: ['hollywood', 'movies']
 
+ ## Incoming White House Climate Team Blames 'Systemic Racism' for Climate Change
+ - [https://freebeacon.com/elections/incoming-white-house-climate-team-blames-systemic-racism-for-climate-change](https://freebeacon.com/elections/incoming-white-house-climate-team-blames-systemic-racism-for-climate-change)
+ - date_published: 2021-01-18T09:59:55+00:00
+ - tags: ['climate change', 'racism', 'the left wing']
+
  ## Does the West Actually Care About the Uighur Genocide in China or Is It a Handy Excuse for Conflict?
  - [https://www.theorganicprepper.com/china-uighur-genocide](https://www.theorganicprepper.com/china-uighur-genocide)
  - date_published: 2021-01-18T12:28:20+00:00
  - tags: ['china', 'genocide', 'uighur']
 
- ## Incoming White House Climate Team Blames 'Systemic Racism' for Climate Change
- - [https://freebeacon.com/elections/incoming-white-house-climate-team-blames-systemic-racism-for-climate-change](https://freebeacon.com/elections/incoming-white-house-climate-team-blames-systemic-racism-for-climate-change)
- - date_published: 2021-01-18T20:30:52+00:00
- - tags: ['climate change', 'racism', 'the left wing']
-
  ## Do We Live In A Plutocratic Oligarchy? Why It Matters For Democracy – Lifestyle Democracy
  - [https://www.lifestyledemocracy.com/do-we-live-in-a-plutocratic-oligarchy-why-it-matters-for-democracy](https://www.lifestyledemocracy.com/do-we-live-in-a-plutocratic-oligarchy-why-it-matters-for-democracy)
- - date_published: 2021-01-19T20:45:01+00:00
+ - date_published: 2021-01-19T00:00:00+00:00
  - tags: ['corporatocracy', 'democracy', 'oligarchy', 'plutocracy']
 
  ## Fact check: Discussion of deaths in elderly vaccine recipients in Norway lacks context | Reuters
@@ -165,15 +171,15 @@
  - date_published: 2021-01-20T20:10:09+00:00
  - tags: ['covid', 'vaccine']
 
+ ## Facebook Gives FBI Private Messages of Capitol Hill Protesters
+ - [https://www.breitbart.com/tech/2021/01/21/facebook-gives-fbi-private-messages-of-capitol-hill-protesters](https://www.breitbart.com/tech/2021/01/21/facebook-gives-fbi-private-messages-of-capitol-hill-protesters)
+ - date_published: 2021-01-21T09:31:52+00:00
+ - tags: ['election', 'facebook', 'privacy', 'surveillance']
+
  ## Szpitale tymczasowe kosztowały ponad 500 mln zł. Dlaczego stoją puste?
  - [https://www.medonet.pl/koronawirus/koronawirus-w-polsce,szpitale-tymczasowe-kosztowaly-ponad-500-mln-zlotych--dlaczego-stoja-puste-,artykul,98771495.html](https://www.medonet.pl/koronawirus/koronawirus-w-polsce,szpitale-tymczasowe-kosztowaly-ponad-500-mln-zlotych--dlaczego-stoja-puste-,artykul,98771495.html)
  - date_published: 2021-01-21T11:18:28+00:00
  - tags: ['covid', 'hospital']
-
- ## Facebook Gives FBI Private Messages of Capitol Hill Protesters
- - [https://www.breitbart.com/tech/2021/01/21/facebook-gives-fbi-private-messages-of-capitol-hill-protesters](https://www.breitbart.com/tech/2021/01/21/facebook-gives-fbi-private-messages-of-capitol-hill-protesters)
- - date_published: 2021-01-21T12:26:49+00:00
- - tags: ['election', 'facebook', 'privacy', 'surveillance']
 
  ## Niemcy: Złamiesz kwarantannę - trafisz do obozu
  - [https://www.rp.pl/swiat/art8695031-niemcy-zlamiesz-kwarantanne-trafisz-do-obozu](https://www.rp.pl/swiat/art8695031-niemcy-zlamiesz-kwarantanne-trafisz-do-obozu)
@@ -191,18 +197,20 @@
 
  ## Dr. Anthony Fauci: The Highest Paid Employee In The Entire U.S. Federal Government
  - [https://www.forbes.com/sites/adamandrzejewski/2021/01/25/dr-anthony-fauci-the-highest-paid-employee-in-the-entire-us-federal-government](https://www.forbes.com/sites/adamandrzejewski/2021/01/25/dr-anthony-fauci-the-highest-paid-employee-in-the-entire-us-federal-government)
- - date_published: 2021-01-25T08:59:10+00:00
+ - date_published: 2021-01-25T00:00:00+00:00
  - tags: ['anthony fauci', 'covid']
 
  ## New Instagram terms of use details broad use of your personal information
  - [https://winknews.com/2021/01/25/new-instagram-terms-of-service-could-put-your-data-at-risk](https://winknews.com/2021/01/25/new-instagram-terms-of-service-could-put-your-data-at-risk)
  - date_published: 2021-01-25T20:09:20+00:00
  - tags: ['instagram', 'privacy', 'social media', 'technofeudalism']
+ - date_dead_since: 2025-08-11T21:04:45.098662+00:00
 
  ## Newsom claims lifting lockdown isn't 'political' but critics point to recall threat | AllSides
  - [https://www.allsides.com/news/2021-01-25-2043/newsom-claims-lifting-lockdown-isnt-political-critics-point-recall-threat](https://www.allsides.com/news/2021-01-25-2043/newsom-claims-lifting-lockdown-isnt-political-critics-point-recall-threat)
  - date_published: 2021-01-25T20:33:04+00:00
  - tags: ['california', 'covid', 'lockdown']
+ - date_dead_since: 2025-08-11T20:54:36.635597+00:00
 
  ## Google says PAC won't fund Congress members against election results
  - [https://www.cnbc.com/2021/01/25/google-says-pac-wont-fund-congress-members-against-election-results.html](https://www.cnbc.com/2021/01/25/google-says-pac-wont-fund-congress-members-against-election-results.html)
@@ -223,12 +231,12 @@
  - [https://www.nationalreview.com/corner/biden-signs-executive-order-allowing-the-u-s-to-fund-global-abortions](https://www.nationalreview.com/corner/biden-signs-executive-order-allowing-the-u-s-to-fund-global-abortions)
  - date_published: 2021-01-28T20:59:31+00:00
  - tags: ['abortion', 'usa']
+ - date_dead_since: 2025-08-11T14:19:36.506262+00:00
 
  ## Bill Gates will spray chemicals in the atmosphere in June using thousands of planes - NeeWS
  - [https://tekdeeps.com/bill-gates-will-spray-chemicals-in-the-atmosphere-in-june-using-thousands-of-planes-neews](https://tekdeeps.com/bill-gates-will-spray-chemicals-in-the-atmosphere-in-june-using-thousands-of-planes-neews)
  - date_published: 2021-01-29T12:54:21+00:00
  - tags: ['atmosphere', 'bill gates', 'climate change', 'sun-dimming']
- - date_dead_since: 2025-04-03T14:03:59.379622+00:00
 
  ## Rząd nowelizuje ustawę o cyberbezpieczeństwie. Będzie mógł wyłączać serwisy internetowe bez uzasadnienia
  - [https://www.komputerswiat.pl/aktualnosci/internet/rzad-nowelizuje-ustawe-o-cyberbezpieczenstwie-bedzie-mogl-wylaczac-serwisy/wnhl9hg](https://www.komputerswiat.pl/aktualnosci/internet/rzad-nowelizuje-ustawe-o-cyberbezpieczenstwie-bedzie-mogl-wylaczac-serwisy/wnhl9hg)
@@ -239,6 +247,7 @@
  - [https://www.nytimes.com/2021/01/29/opinion/sunday/facebook-surveillance-society-technology.html](https://www.nytimes.com/2021/01/29/opinion/sunday/facebook-surveillance-society-technology.html)
  - date_published: 2021-01-29T13:12:13+00:00
  - tags: ['big brother', 'censorship', 'moderation', 'social media', 'surveillance']
+ - date_dead_since: 2025-08-11T13:43:31.737707+00:00
 
  ## Esteemed Academic Conference on Dangers of Censorship — Reportedly Censored by YouTube
  - [https://thefreethoughtproject.com/censorship-conference-dangers-censored-by-youtube](https://thefreethoughtproject.com/censorship-conference-dangers-censored-by-youtube)
@@ -254,7 +263,7 @@
  - [https://www.p-tv.nl/wiadomosci/306,rada-europy-brak-obowiazku-szczepienia](https://www.p-tv.nl/wiadomosci/306,rada-europy-brak-obowiazku-szczepienia)
  - date_published: 2021-02-03T14:03:36+00:00
  - tags: ['covid', 'covid mandates', 'segregation', 'vaccine']
- - date_dead_since: 2024-10-23T19:47:41.438308+00:00
+ - date_dead_since: 2025-08-11T12:39:30.748415+00:00
 
  ## AOC faces backlash as critics point out she wasn't in Capitol building during riot | Fox News
  - [https://www.foxnews.com/politics/aoc-under-fire-amid-details-that-she-wasnt-in-capitol-building-during-riots](https://www.foxnews.com/politics/aoc-under-fire-amid-details-that-she-wasnt-in-capitol-building-during-riots)
@@ -316,6 +325,11 @@
  - date_published: 2021-02-17T13:10:58+00:00
  - tags: ['climate change', 'solar panels']
 
+ ## Moment Biden COVID adviser is UNABLE to explain why lockdown-loving California isn't doing better than open-all-hours Florida
+ - [https://www.dailymail.co.uk/news/article-9272929/Biden-COVID-adviser-explain-closed-California-isnt-doing-better-open-Florida.html](https://www.dailymail.co.uk/news/article-9272929/Biden-COVID-adviser-explain-closed-California-isnt-doing-better-open-Florida.html)
+ - date_published: 2021-02-18T06:11:38+00:00
+ - tags: ['california', 'covid', 'florida', 'joe biden', 'lockdown']
+
  ## Inside Wikipedia's leftist bias: socialism pages whitewashed, communist atrocities buried | Fox News
  - [https://www.foxnews.com/politics/wikipedia-bias-socialism-pages-whitewashed](https://www.foxnews.com/politics/wikipedia-bias-socialism-pages-whitewashed)
  - date_published: 2021-02-18T06:52:31+00:00
@@ -323,18 +337,14 @@
 
  ## America’s Health Will Soon Be in the Hands of Very Minor Internet Celebrities
  - [https://www.theatlantic.com/technology/archive/2021/02/vaccine-influencers-covid-anti-vax-instagram/618052](https://www.theatlantic.com/technology/archive/2021/02/vaccine-influencers-covid-anti-vax-instagram/618052)
- - date_published: 2021-02-18T16:04:03+00:00
+ - date_published: 2021-02-18T12:00:00+00:00
  - tags: ['covid', 'manufacturing consent']
 
  ## Opinion | Don’t Go Down the Rabbit Hole - The New York Times
  - [https://www.nytimes.com/2021/02/18/opinion/fake-news-media-attention.html](https://www.nytimes.com/2021/02/18/opinion/fake-news-media-attention.html)
  - date_published: 2021-02-18T20:03:45+00:00
  - tags: ['covid', 'critical thinking', 'science is dead']
-
- ## Moment Biden COVID adviser is UNABLE to explain why lockdown-loving California isn't doing better than open-all-hours Florida
- - [https://www.dailymail.co.uk/news/article-9272929/Biden-COVID-adviser-explain-closed-California-isnt-doing-better-open-Florida.html](https://www.dailymail.co.uk/news/article-9272929/Biden-COVID-adviser-explain-closed-California-isnt-doing-better-open-Florida.html)
- - date_published: 2021-02-18T21:28:10+00:00
- - tags: ['california', 'covid', 'florida', 'joe biden', 'lockdown']
+ - date_dead_since: 2025-08-11T10:23:54.478313+00:00
 
  ## Zawodowiec (2002) - polski film dokumentalny
  - [https://www.youtube.com/watch?v=a6AVCDMHWfg](https://www.youtube.com/watch?v=a6AVCDMHWfg)
@@ -353,7 +363,7 @@
 
  ## Wikipedia co-founder Larry Sanger slams site's leftist bias and claims 'neutrality' is gone | Daily Mail Online
  - [https://www.dailymail.co.uk/news/article-9283061/Wikipedia-founder-Larry-Sanger-slams-sites-leftist-bias-claims-neutrality-gone.html](https://www.dailymail.co.uk/news/article-9283061/Wikipedia-founder-Larry-Sanger-slams-sites-leftist-bias-claims-neutrality-gone.html)
- - date_published: 2021-02-21T06:54:18+00:00
+ - date_published: 2021-02-21T06:47:20+00:00
  - tags: ['larry sanger', 'wikipedia']
 
  ## Attention Required! | Cloudflare
@@ -373,7 +383,7 @@
 
  ## Mark Carney’s ‘net-zero’ firm has billions in coal and oil sands projects - Unearthed
  - [https://unearthed.greenpeace.org/2021/02/26/mark-carney-brookfield-net-zero-cop-fossil-fuel-coal-oil-gas](https://unearthed.greenpeace.org/2021/02/26/mark-carney-brookfield-net-zero-cop-fossil-fuel-coal-oil-gas)
- - date_published: 2021-02-26T12:45:24+00:00
+ - date_published: 2021-02-26T08:00:37+00:00
  - tags: ['banksters', 'climate change', 'corporatocracy', 'net zero']
 
  ## The real reason why Bill Gates is now the US’ biggest farmland owner
@@ -383,7 +393,7 @@
 
  ## Segregacja sanitarna na świecie. W Izraelu działa od tygodnia, a w innych krajach?
  - [https://naszapolska.pl/2021/02/28/segregacja-sanitarna-na-swiecie-w-izraelu-dziala-od-tygodnia-a-w-innych-krajach](https://naszapolska.pl/2021/02/28/segregacja-sanitarna-na-swiecie-w-izraelu-dziala-od-tygodnia-a-w-innych-krajach)
- - date_published: 2021-02-28T14:05:08+00:00
+ - date_published: 2021-02-28T00:00:00+00:00
  - tags: ['covid', 'covid mandates', 'israel', 'segregation', 'vaccine']
 
  ## ‘No hospitalisations and no deaths’: All three US vaccines ‘highly efficacious’, Fauci says
@@ -399,6 +409,7 @@
  - [https://www.nytimes.com/2021/03/01/business/donald-mcneil-new-york-times-racial-slur.html](https://www.nytimes.com/2021/03/01/business/donald-mcneil-new-york-times-racial-slur.html)
  - date_published: 2021-03-01T14:25:55+00:00
  - tags: ['hate speech', 'racism', 'usa']
+ - date_dead_since: 2025-08-11T09:49:31.180769+00:00
 
  ## Dodatki COVIDowe: mamy listę szpitali z konkretnymi kwotami
  - [https://cowzdrowiu.pl/aktualnosci/post/dodatki-covidowe-mamy-liste-szpitali-z-konkretnymi-kwotami](https://cowzdrowiu.pl/aktualnosci/post/dodatki-covidowe-mamy-liste-szpitali-z-konkretnymi-kwotami)
@@ -422,7 +433,7 @@
 
  ## Debate over gender-neutral language divides Germany – POLITICO
  - [https://www.politico.eu/article/debate-over-gender-inclusive-neutral-language-divides-germany](https://www.politico.eu/article/debate-over-gender-inclusive-neutral-language-divides-germany)
- - date_published: 2021-03-08T08:09:50+00:00
+ - date_published: 2021-03-08T03:03:58+00:00
  - tags: ['germany', 'newspeak', 'the left wing']
 
  ## The Laurels: NHS gender clinic only assessed two patients in 12 months
@@ -435,7 +446,7 @@
 
  ## Printed to Death: Dollar Due to Crash in 2021
  - [https://www.outsiderclub.com/printed-to-death-dollar-due-to-crash-in-2021/98588](https://www.outsiderclub.com/printed-to-death-dollar-due-to-crash-in-2021/98588)
- - date_published: 2021-03-10T07:14:20+00:00
+ - date_published: 2021-03-10T00:00:00+00:00
  - tags: ['crisis', 'dollar', 'fed', 'fiat currency']
 
  ## A look at search engines with their own indexes
@@ -468,15 +479,15 @@
  - date_published: 2021-03-15T07:33:08+00:00
  - tags: ['germany', 'government', 'kentler', 'paedophilia']
 
+ ## Florida Sees Same COVID Case Rate as California, Despite No Statewide Restrictions
+ - [https://www.newsweek.com/florida-sees-same-covid-case-rate-california-despite-no-statewide-restrictions-1576211](https://www.newsweek.com/florida-sees-same-covid-case-rate-california-despite-no-statewide-restrictions-1576211)
+ - date_published: 2021-03-15T10:23:17+00:00
+ - tags: ['covid', 'lockdown', 'science is dead']
+
  ## The White House is set to launch a $1.5 billion ad campaign to win over vaccine skeptics, report says
  - [https://www.businessinsider.com/white-house-launch-1-billion-ad-blitz-covid-vaccines-report-2021-3?IR=T](https://www.businessinsider.com/white-house-launch-1-billion-ad-blitz-covid-vaccines-report-2021-3?IR=T)
  - date_published: 2021-03-15T14:22:16+00:00
  - tags: ['covid', 'manufacturing consent']
-
- ## Florida Sees Same COVID Case Rate as California, Despite No Statewide Restrictions
- - [https://www.newsweek.com/florida-sees-same-covid-case-rate-california-despite-no-statewide-restrictions-1576211](https://www.newsweek.com/florida-sees-same-covid-case-rate-california-despite-no-statewide-restrictions-1576211)
- - date_published: 2021-03-15T19:24:58+00:00
- - tags: ['covid', 'lockdown', 'science is dead']
 
  ## Portland Mayor seeks to re-fund the police by $2 million as violent crimes surge | The Post Millennial | thepostmillennial.com
  - [https://thepostmillennial.com/portland-mayor-seeks-to-re-fund-the-police-by-2-million-as-violent-crimes-surge](https://thepostmillennial.com/portland-mayor-seeks-to-re-fund-the-police-by-2-million-as-violent-crimes-surge)
@@ -485,7 +496,7 @@
 
  ## Portland cut police funding and got a 2,000% surge in murders | Washington Examiner
  - [https://www.washingtonexaminer.com/opinion/portland-cut-police-funding-and-got-a-2-000-surge-in-murders](https://www.washingtonexaminer.com/opinion/portland-cut-police-funding-and-got-a-2-000-surge-in-murders)
- - date_published: 2021-03-16T19:30:01+00:00
+ - date_published: 2021-03-16T17:31:48+00:00
  - tags: ['black lives matter', 'defund the police']
 
  ## Cars Have Your Location. This Spy Firm Wants to Sell It to the U.S. Military
@@ -514,7 +525,7 @@
 
  ## China Arrests at Least Ten Christians in Raid of Private Bible Study
  - [https://www.breitbart.com/asia/2021/03/19/china-arrests-least-ten-christians-raid-private-bible-study](https://www.breitbart.com/asia/2021/03/19/china-arrests-least-ten-christians-raid-private-bible-study)
- - date_published: 2021-03-19T20:15:53+00:00
+ - date_published: 2021-03-19T19:48:56+00:00
  - tags: ['china', 'christianophobia']
 
  ## How Reddit Makes Money
@@ -529,7 +540,7 @@
 
  ## Bill Gates tells Reddit why he's bought so much farmland
  - [https://agfundernews.com/bill-gates-tells-reddit-why-hes-acquired-so-much-farmland](https://agfundernews.com/bill-gates-tells-reddit-why-hes-acquired-so-much-farmland)
- - date_published: 2021-03-22T14:26:56+00:00
+ - date_published: 2021-03-22T08:58:59+00:00
  - tags: ['bill gates', 'billionaires']
 
  ## Biden calls for gun control following Boulder shooting – DW – 03/23/2021
@@ -541,6 +552,17 @@
  - [https://www.nytimes.com/2021/03/24/world/covid-coverage-by-the-us-national-media-is-an-outlier-a-study-finds.html](https://www.nytimes.com/2021/03/24/world/covid-coverage-by-the-us-national-media-is-an-outlier-a-study-finds.html)
  - date_published: 2021-03-24T21:37:41+00:00
  - tags: ['covid', 'fearmongering', 'media', 'propaganda', 'science is dead']
+ - date_dead_since: 2025-08-11T08:19:30.666420+00:00
+
+ ## Kamala Harris and Bill Clinton touting girls' empowerment together is a bad joke
+ - [https://www.nbcnews.com/think/opinion/kamala-harris-bill-clinton-touting-girls-empowerment-together-bad-joke-ncna1261977](https://www.nbcnews.com/think/opinion/kamala-harris-bill-clinton-touting-girls-empowerment-together-bad-joke-ncna1261977)
+ - date_published: 2021-03-24T23:42:56+00:00
+ - tags: ['bill clinton', 'feminism', 'hypocrisy']
+
+ ## Biden administration will spend nearly $10 billion to expand access to Covid-19 vaccines and build confidence | CNN Politics
+ - [https://edition.cnn.com/2021/03/25/politics/10-billion-vaccine-access-confidence/index.html](https://edition.cnn.com/2021/03/25/politics/10-billion-vaccine-access-confidence/index.html)
+ - date_published: 2021-03-25T11:43:30+00:00
+ - tags: ['covid']
 
  ## TERREG: Free Speech Advocates Urge EU Legislators to Vote 'No' to Automated Censorship Online
  - [https://www.liberties.eu/en/stories/terrorist-content-regulation-open-letter-to-meps/43410](https://www.liberties.eu/en/stories/terrorist-content-regulation-open-letter-to-meps/43410)
@@ -552,20 +574,11 @@
  - date_published: 2021-03-25T14:09:30+00:00
  - tags: ['covid', 'curfew', 'lockdown']
 
- ## Biden administration will spend nearly $10 billion to expand access to Covid-19 vaccines and build confidence | CNN Politics
- - [https://edition.cnn.com/2021/03/25/politics/10-billion-vaccine-access-confidence/index.html](https://edition.cnn.com/2021/03/25/politics/10-billion-vaccine-access-confidence/index.html)
- - date_published: 2021-03-25T16:05:13+00:00
- - tags: ['covid']
-
- ## Kamala Harris and Bill Clinton touting girls' empowerment together is a bad joke
- - [https://www.nbcnews.com/think/opinion/kamala-harris-bill-clinton-touting-girls-empowerment-together-bad-joke-ncna1261977](https://www.nbcnews.com/think/opinion/kamala-harris-bill-clinton-touting-girls-empowerment-together-bad-joke-ncna1261977)
- - date_published: 2021-03-25T19:36:06+00:00
- - tags: ['bill clinton', 'feminism', 'hypocrisy']
-
  ## YouTube Channel Deletion
  - [https://lukesmith.xyz/updates/deletion](https://lukesmith.xyz/updates/deletion)
  - date_published: 2021-03-26T00:00:00+00:00
  - tags: ['censorship', 'technofeudalism']
+ - date_dead_since: 2025-08-11T07:48:32.520020+00:00
 
  ## How U.S. media lost the trust of the public
  - [https://www.cbc.ca/news/world/media-distrust-big-news-1.5965622](https://www.cbc.ca/news/world/media-distrust-big-news-1.5965622)
@@ -579,8 +592,13 @@
 
  ## W 2018 r. dyplomaci ostrzegali przed eksperymentami z koronawirusem w Wuhan. Nikt ich nie słuchał
  - [https://wiadomosci.onet.pl/politico/koronawirus-w-2018-r-dyplomaci-ostrzegali-przed-eksperymentami-w-wuhan/y6ywbv9](https://wiadomosci.onet.pl/politico/koronawirus-w-2018-r-dyplomaci-ostrzegali-przed-eksperymentami-w-wuhan/y6ywbv9)
- - date_published: 2021-03-30T19:07:46+00:00
+ - date_published: 2021-03-30T09:00:00+00:00
  - tags: ['censorship', 'covid', 'wuhan']
+
+ ## Virginia Education Department sued over guidelines to protect transgender students
+ - [https://www.washingtonpost.com/local/education/transgender-children-virginia-lawsuit/2021/03/30/59948a28-9195-11eb-9668-89be11273c09_story.html](https://www.washingtonpost.com/local/education/transgender-children-virginia-lawsuit/2021/03/30/59948a28-9195-11eb-9668-89be11273c09_story.html)
+ - date_published: 2021-03-30T23:36:11+00:00
+ - tags: ['christianophobia', 'lgbt', 'the left wing', 'usa']
 
  ## GoFundMe shuts down fundraiser for parents who were doxed for not supporting critical race theory
  - [https://reclaimthenet.org/gofundme-shuts-down-fundraiser-for-parents-who-were-doxed-for-not-supporting-critical-race-theory](https://reclaimthenet.org/gofundme-shuts-down-fundraiser-for-parents-who-were-doxed-for-not-supporting-critical-race-theory)
@@ -591,12 +609,7 @@
  - [https://www.honestaustin.com/2021/03/31/austin-murder-rate-111-percent](https://www.honestaustin.com/2021/03/31/austin-murder-rate-111-percent)
  - date_published: 2021-03-31T20:09:24+00:00
  - tags: ['defund the police']
- - date_dead_since: 2024-10-23T13:55:01.329434+00:00
-
- ## Virginia Education Department sued over guidelines to protect transgender students
- - [https://www.washingtonpost.com/local/education/transgender-children-virginia-lawsuit/2021/03/30/59948a28-9195-11eb-9668-89be11273c09_story.html](https://www.washingtonpost.com/local/education/transgender-children-virginia-lawsuit/2021/03/30/59948a28-9195-11eb-9668-89be11273c09_story.html)
- - date_published: 2021-03-31T21:18:32+00:00
- - tags: ['christianophobia', 'lgbt', 'the left wing', 'usa']
+ - date_dead_since: 2025-08-11T07:24:31.266476+00:00
 
  ## Twitter Is Enabling Saudi Arabia’s Brutal Crackdown on Dissent
  - [https://newrepublic.com/article/161995/twitter-saudi-arabia-mbs-dissident](https://newrepublic.com/article/161995/twitter-saudi-arabia-mbs-dissident)
@@ -612,11 +625,13 @@
  - [https://www.wsj.com/articles/if-you-sell-a-house-these-days-the-buyer-might-be-a-pension-fund-11617544801](https://www.wsj.com/articles/if-you-sell-a-house-these-days-the-buyer-might-be-a-pension-fund-11617544801)
  - date_published: 2021-04-04T10:42:23+00:00
  - tags: ['blackrock', 'housing market', 'wall street']
+ - date_dead_since: 2025-08-11T07:10:31.417729+00:00
 
  ## Hundreds of Transgender California Inmates Request Transfers to Women's Prisons | National Review
  - [https://www.nationalreview.com/news/hundreds-of-transgender-california-inmates-request-transfers-to-womens-prisons](https://www.nationalreview.com/news/hundreds-of-transgender-california-inmates-request-transfers-to-womens-prisons)
  - date_published: 2021-04-05T19:53:54+00:00
  - tags: ['rape', 'the left wing', 'transgender']
+ - date_dead_since: 2025-08-11T07:04:36.428203+00:00
 
  ## Prof. Krzysztof Simon o liczbie zgon�w: B�yskawicznie d��ymy do statystyk z wrze�nia 1939 roku
  - [https://wiadomosci.gazeta.pl/wiadomosci/7,173952,26952224,prof-krzysztof-simon-o-liczbie-zgonow-blyskawicznie-dazymy.html](https://wiadomosci.gazeta.pl/wiadomosci/7,173952,26952224,prof-krzysztof-simon-o-liczbie-zgonow-blyskawicznie-dazymy.html)
@@ -661,7 +676,7 @@
  - [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3793804](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3793804)
  - date_published: 2021-04-12T07:18:11+00:00
  - tags: ['esg']
- - date_dead_since: 2025-04-03T06:42:58.515605+00:00
+ - date_dead_since: 2025-08-11T06:47:48.534893+00:00
 
  ## Boris Johnson is a creeping dictator – we need to stop him in his tracks
  - [https://metro.co.uk/2021/04/12/boris-johnson-is-a-creeping-dictator-we-need-to-stop-him-14382294/amp/?__twitter_impression=true](https://metro.co.uk/2021/04/12/boris-johnson-is-a-creeping-dictator-we-need-to-stop-him-14382294/amp/?__twitter_impression=true)
@@ -682,7 +697,7 @@
  - [https://nationalinterest.org/blog/coronavirus/why-did-johnson-johnson-vaccine-get-suspended-and-what-comes-next-182682](https://nationalinterest.org/blog/coronavirus/why-did-johnson-johnson-vaccine-get-suspended-and-what-comes-next-182682)
  - date_published: 2021-04-13T07:20:43+00:00
  - tags: ['big pharma', 'covid', 'johnson and johnson', 'vaccine']
- - date_dead_since: 2025-04-03T06:30:23.448372+00:00
+ - date_dead_since: 2025-08-11T06:33:31.873967+00:00
 
  ## Zaszczepieni preparatami mRNA bardziej podatni na inne warianty wirusa? Badania z Izraela niepokoją. Za wcześnie na picie szampana
  - [https://wpolityce.pl/spoleczenstwo/546883-badania-z-izraela-niepokoja-za-wczesnie-na-picie-szampana](https://wpolityce.pl/spoleczenstwo/546883-badania-z-izraela-niepokoja-za-wczesnie-na-picie-szampana)
@@ -708,7 +723,7 @@
  - [https://www.tvp.info/53301671/nagrania-dyrektora-cnn-charlie-chester-mowi-o-nakrecaniu-zgonow-na-covid-19-ujawnione-nagrania-donald-trump-i-epidemia-koronawirusa-w-usa](https://www.tvp.info/53301671/nagrania-dyrektora-cnn-charlie-chester-mowi-o-nakrecaniu-zgonow-na-covid-19-ujawnione-nagrania-donald-trump-i-epidemia-koronawirusa-w-usa)
  - date_published: 2021-04-14T21:41:09+00:00
  - tags: ['covid', 'fearmongering', 'media']
- - date_dead_since: 2024-10-23T12:30:21.830152+00:00
+ - date_dead_since: 2025-08-11T06:03:30.747520+00:00
 
  ## CNN staffer tells Project Veritas network played up COVID-19 death toll for ratings
  - [https://nypost.com/2021/04/14/cnn-staffer-tells-project-veritas-network-played-up-covid-19-death-toll-for-ratings](https://nypost.com/2021/04/14/cnn-staffer-tells-project-veritas-network-played-up-covid-19-death-toll-for-ratings)
@@ -727,17 +742,17 @@
 
  ## Facebook blocks users from sharing DailyMail.com story about BLM founder's property empire | Daily Mail Online
  - [https://www.dailymail.co.uk/news/article-9477097/Facebook-blocks-users-sharing-DailyMail-com-story-BLM-founders-property-empire.html](https://www.dailymail.co.uk/news/article-9477097/Facebook-blocks-users-sharing-DailyMail-com-story-BLM-founders-property-empire.html)
- - date_published: 2021-04-16T08:45:26+00:00
+ - date_published: 2021-04-16T01:57:23+00:00
  - tags: ['black lives matter', 'censorship', 'dailymail', 'facebook']
 
  ## „Nie szczepisz się, nie pracujesz z ludźmi”. Dyrektor UCK wzywa do wprowadzenia szczepionkowych sankcji
  - [https://m.pch24.pl/nie-szczepisz-sie-nie-pracujesz-z-ludzmi-lekarz-wzywa-do-wprowadzenia-szczepionkowych-sankcji](https://m.pch24.pl/nie-szczepisz-sie-nie-pracujesz-z-ludzmi-lekarz-wzywa-do-wprowadzenia-szczepionkowych-sankcji)
- - date_published: 2021-04-17T14:11:45+00:00
+ - date_published: 2021-04-17T07:10:53+00:00
  - tags: ['covid', 'covid mandates', 'vaccine']
 
  ## Breonna Taylor's mom slams BLM Louisville as a 'fraud'
  - [https://nypost.com/2021/04/17/breonna-taylors-mom-slams-blm-louisville-as-a-fraud](https://nypost.com/2021/04/17/breonna-taylors-mom-slams-blm-louisville-as-a-fraud)
- - date_published: 2021-04-17T19:50:40+00:00
+ - date_published: 2021-04-17T16:49:24+00:00
  - tags: ['black lives matter', 'fraud']
 
  ## ‘Covid is just an excuse’: the scandal of Rome’s saturated cemeteries | Italy | The Guardian
@@ -747,13 +762,18 @@
 
  ## Shock Video: Children Being Paraded Across The Stage Urging Them To Pose For Cash At A Los Angeles Drag Club In The Middle Of The Night
  - [https://defiantamerica.com/shock-video-children-being-paraded-across-the-stage-urging-them-to-pose-for-cash-at-a-los-angeles-drag-club-in-the-middle-of-the-night](https://defiantamerica.com/shock-video-children-being-paraded-across-the-stage-urging-them-to-pose-for-cash-at-a-los-angeles-drag-club-in-the-middle-of-the-night)
- - date_published: 2021-04-19T22:15:58+00:00
+ - date_published: 2021-04-19T16:49:50+00:00
  - tags: ['children', 'indoctrination', 'lgbt', 'sexualization', 'the left wing']
 
  ## Zginął, bo finansował budowę kościoła. Morderstwo chrześcijańskiego handlowca
  - [https://pl.aleteia.org/2021/04/20/zginal-bo-finansowal-budowe-kosciola-morderstwo-chrzescijanskiego-handlowca](https://pl.aleteia.org/2021/04/20/zginal-bo-finansowal-budowe-kosciola-morderstwo-chrzescijanskiego-handlowca)
  - date_published: 2021-04-20T07:44:46+00:00
  - tags: ['christianophobia', 'islam', 'islam terror', 'religion']
+
+ ## Richard Dawkins loses ‘humanist of the year’ title over trans comments
+ - [https://www.theguardian.com/books/2021/apr/20/richard-dawkins-loses-humanist-of-the-year-trans-comments?CMP=fb_gu](https://www.theguardian.com/books/2021/apr/20/richard-dawkins-loses-humanist-of-the-year-trans-comments?CMP=fb_gu)
+ - date_published: 2021-04-20T12:56:05+00:00
+ - tags: ['censorship', 'intolerance', 'lgbt', 'the left wing', 'transgender']
 
  ## TERREG: Controversial EU anti-terror Internet regulation TERREG about to be adopted
  - [https://www.patrick-breyer.de/en/controversial-eu-anti-terror-internet-regulation-terreg-about-to-be-adopted](https://www.patrick-breyer.de/en/controversial-eu-anti-terror-internet-regulation-terreg-about-to-be-adopted)
@@ -769,11 +789,6 @@
  - [https://finance.yahoo.com/news/leaked-eu-pfizer-contract-shows-123021585.html](https://finance.yahoo.com/news/leaked-eu-pfizer-contract-shows-123021585.html)
  - date_published: 2021-04-21T07:42:09+00:00
  - tags: ['big pharma', 'contract', 'covid', 'pfizer']
-
- ## Richard Dawkins loses ‘humanist of the year’ title over trans comments
- - [https://www.theguardian.com/books/2021/apr/20/richard-dawkins-loses-humanist-of-the-year-trans-comments?CMP=fb_gu](https://www.theguardian.com/books/2021/apr/20/richard-dawkins-loses-humanist-of-the-year-trans-comments?CMP=fb_gu)
- - date_published: 2021-04-21T22:05:57+00:00
- - tags: ['censorship', 'intolerance', 'lgbt', 'the left wing', 'transgender']
 
  ## Great Reset: Why Are Facebook REALLY Providing Free Internet?
  - [https://www.youtube.com/watch?v=17IZPgxcQm8](https://www.youtube.com/watch?v=17IZPgxcQm8)
@@ -814,12 +829,13 @@
  - [https://blog.appcensus.io/2021/04/27/why-google-should-stop-logging-contact-tracing-data](https://blog.appcensus.io/2021/04/27/why-google-should-stop-logging-contact-tracing-data)
  - date_published: 2021-04-27T21:23:22+00:00
  - tags: ['covid', 'google', 'tracking']
- - date_dead_since: 2024-10-23T10:50:04.671732+00:00
+ - date_dead_since: 2025-08-11T04:35:29.311923+00:00
 
  ## Over 200 Seattle police officers quit amid nation protests
  - [https://apnews.com/article/seattle-police-government-and-politics-e0ce15086d8bf06502659386148d94fa](https://apnews.com/article/seattle-police-government-and-politics-e0ce15086d8bf06502659386148d94fa)
  - date_published: 2021-04-28T18:41:36+00:00
  - tags: ['black lives matter']
+ - date_dead_since: 2025-08-11T04:28:30.869260+00:00
 
  ## TERREG: European Parliament confirms new online censorship powers
  - [https://edri.org/our-work/european-parliament-confirms-new-online-censorship-powers](https://edri.org/our-work/european-parliament-confirms-new-online-censorship-powers)
@@ -828,18 +844,13 @@
 
  ## Bill Gates turned his $55 million vaccine investment in Pfizer’s partner, BioNTech, into over $550 million in just under two years – Top Startups 2023 | Startups News
  - [https://techstartups.com/2021/04/30/bill-gates-turned-55-million-investment-pfizers-partner-biontech-550-million-just-two-years](https://techstartups.com/2021/04/30/bill-gates-turned-55-million-investment-pfizers-partner-biontech-550-million-just-two-years)
- - date_published: 2021-04-30T21:26:09+00:00
+ - date_published: 2021-04-30T17:27:26+00:00
  - tags: ['big pharma', 'bill gates', 'biontech', 'covid', 'mrna', 'pfizer', 'vaccine']
 
  ## Dania: Nagi uczestnik programu telewizyjnego dla dzieci skazany za pedofilię
  - [https://www.wnp.pl/rynki-zagraniczne/dania-nagi-uczestnik-programu-telewizyjnego-dla-dzieci-skazany-za-pedofilie,466308.html](https://www.wnp.pl/rynki-zagraniczne/dania-nagi-uczestnik-programu-telewizyjnego-dla-dzieci-skazany-za-pedofilie,466308.html)
  - date_published: 2021-04-30T22:23:58+00:00
  - tags: ['children', 'indoctrination', 'paedophilia', 'sexualization']
-
- ## New York Bill Would Let the State Put People in Detention if Deemed a 'Significant Threat to Public Health'
- - [https://reason.com/2021/01/05/new-york-bill-would-let-state-put-people-in-detention-public-health-threat-covid-19](https://reason.com/2021/01/05/new-york-bill-would-let-state-put-people-in-detention-public-health-threat-covid-19)
- - date_published: 2021-05-01T20:23:13+00:00
- - tags: ['covid', 'fearmongering']
 
  ## Monero and Other Privacy Coins
  - [https://lukesmith.xyz/articles/monero-and-other-privacy-coins](https://lukesmith.xyz/articles/monero-and-other-privacy-coins)
@@ -892,6 +903,7 @@
  - [https://www.wsj.com/articles/amazon-apple-wireless-networks-sidewalk-find-my-11620397704?st=jcvbx2bc04mmaz3&reflink=article_copyURL_share](https://www.wsj.com/articles/amazon-apple-wireless-networks-sidewalk-find-my-11620397704?st=jcvbx2bc04mmaz3&reflink=article_copyURL_share)
  - date_published: 2021-05-07T17:16:14+00:00
  - tags: ['amazon', 'apple', 'sidewalk', 'surveillance']
+ - date_dead_since: 2025-08-11T03:14:36.250423+00:00
 
  ## EU signs deal with Pfizer for up to 1.8 billion COVID vaccine doses
  - [https://nypost.com/2021/05/08/eu-signs-deal-with-pfizer-for-up-to-1-8b-covid-vaccine-doses](https://nypost.com/2021/05/08/eu-signs-deal-with-pfizer-for-up-to-1-8b-covid-vaccine-doses)
@@ -914,13 +926,18 @@
 
  ## Rodzice twierdzą, że ich 4-letnie dziecko jest transpłciowe [WIDEO]
  - [https://medianarodowe.com/2021/05/12/szalenstwo-postepu-rodzice-twierdza-ze-ich-4-letnie-dziecko-jest-transplciowe-wideo](https://medianarodowe.com/2021/05/12/szalenstwo-postepu-rodzice-twierdza-ze-ich-4-letnie-dziecko-jest-transplciowe-wideo)
- - date_published: 2021-05-12T08:59:27+00:00
+ - date_published: 2021-05-12T04:31:34+00:00
  - tags: ['family', 'indoctrination', 'lgbt', 'propaganda', 'the left wing', 'transgender']
 
  ## Why 99% Of Movies Today Are Garbage - Chris Gore
  - [https://www.youtube.com/watch?v=12f0ligwS5s](https://www.youtube.com/watch?v=12f0ligwS5s)
  - date_published: 2021-05-13T00:00:00+00:00
  - tags: ['cinemas', 'movies']
+
+ ## Vaccine passports: why they are good for society
+ - [https://theconversation.com/vaccine-passports-why-they-are-good-for-society-160419](https://theconversation.com/vaccine-passports-why-they-are-good-for-society-160419)
+ - date_published: 2021-05-13T12:00:00+00:00
+ - tags: ['covid', 'propaganda', 'vaccine']
 
  ## GET WOKE, GO BROKE: Disney revenue PLUMMETS after woke corporate culture revealed
  - [https://thepostmillennial.com/get-woke-go-broke-disney-revenues-plummet-after-woke-corporate-culture-revealed](https://thepostmillennial.com/get-woke-go-broke-disney-revenues-plummet-after-woke-corporate-culture-revealed)
@@ -931,6 +948,7 @@
  - [https://www.science.org/doi/10.1126/science.abj0016](https://www.science.org/doi/10.1126/science.abj0016)
  - date_published: 2021-05-14T07:21:19+00:00
  - tags: ['covid', 'lab leak', 'wuhan']
+ - date_dead_since: 2025-08-11T02:54:31.235456+00:00
 
  ## Video platform chief says Nazi posts on white superiority do not merit removal
  - [https://www.theguardian.com/world/2021/may/14/odysee-video-platform-nazi-content-not-grounds-for-removal](https://www.theguardian.com/world/2021/may/14/odysee-video-platform-nazi-content-not-grounds-for-removal)
@@ -947,15 +965,11 @@
  - date_published: 2021-05-15T07:05:03+00:00
  - tags: ['poland', 'polski ład', 'prawo i sprawiedliwość']
 
- ## Vaccine passports: why they are good for society
- - [https://theconversation.com/vaccine-passports-why-they-are-good-for-society-160419](https://theconversation.com/vaccine-passports-why-they-are-good-for-society-160419)
- - date_published: 2021-05-15T15:30:27+00:00
- - tags: ['covid', 'propaganda', 'vaccine']
-
  ## Fauci: Vaccinated people become ‘dead ends’ for the coronavirus
  - [https://thehill.com/homenews/sunday-talk-shows/553773-fauci-vaccinated-people-become-dead-ends-for-the-coronavirus](https://thehill.com/homenews/sunday-talk-shows/553773-fauci-vaccinated-people-become-dead-ends-for-the-coronavirus)
  - date_published: 2021-05-16T09:06:10+00:00
  - tags: ['anthony fauci', 'covid', 'transmission']
+ - date_dead_since: 2025-08-11T02:34:36.753798+00:00
 
  ## Fauci: the vaccinated stop viral transmission, no need for masks
  - [https://totalityofevidence.com/timeline/fauci-the-vaccinated-stop-viral-transmission](https://totalityofevidence.com/timeline/fauci-the-vaccinated-stop-viral-transmission)
@@ -990,21 +1004,22 @@
  - [https://humansbefree.com/2021/05/bill-gates-and-jeffrey-epstein-traded-advice-on-bills-toxic-marriage-jeffs-pedo-image-rehab-during-secretive-mens-club-gatherings.html](https://humansbefree.com/2021/05/bill-gates-and-jeffrey-epstein-traded-advice-on-bills-toxic-marriage-jeffs-pedo-image-rehab-during-secretive-mens-club-gatherings.html)
  - date_published: 2021-05-17T10:23:41+00:00
  - tags: ['bill gates', 'jeffrey epstein']
+ - date_dead_since: 2025-08-11T02:08:30.907247+00:00
 
  ## Bill Gates reportedly hoped Jeffrey Epstein would help him win a Nobel
  - [https://nypost.com/2021/05/18/bill-gates-hoped-epstein-would-help-him-win-a-nobel-report](https://nypost.com/2021/05/18/bill-gates-hoped-epstein-would-help-him-win-a-nobel-report)
- - date_published: 2021-05-18T15:59:39+00:00
+ - date_published: 2021-05-18T15:08:12+00:00
  - tags: ['bill gates', 'jeffrey epstein', 'nobel']
+
+ ## World Economic Forum Urges Companies To Fire Unvaccinated Employees As Part of ‘Jobs Reset,’ Deletes Tweet After Backlash
+ - [https://nationalfile.com/world-economic-forum-urges-companies-to-fire-unvaccinated-employees-as-part-of-jobs-reset-deletes-tweet-after-backlash](https://nationalfile.com/world-economic-forum-urges-companies-to-fire-unvaccinated-employees-as-part-of-jobs-reset-deletes-tweet-after-backlash)
+ - date_published: 2021-05-18T18:46:56+00:00
+ - tags: ['covid', 'covid mandates', 'fearmongering', 'vaccine', 'wef', 'world economic forum']
 
  ## Egypt’s new capital - a smart city in the making
  - [https://www.globalfleet.com/en/smart-mobility/africa-middle-east/features/egypts-new-capital-smart-city-making?a=API07&t%5B0%5D=Smart%20City&t%5B1%5D=Global%20Fleet%20Conference&t%5B2%5D=Middle%20East&curl=1](https://www.globalfleet.com/en/smart-mobility/africa-middle-east/features/egypts-new-capital-smart-city-making?a=API07&t%5B0%5D=Smart%20City&t%5B1%5D=Global%20Fleet%20Conference&t%5B2%5D=Middle%20East&curl=1)
  - date_published: 2021-05-18T21:11:59+00:00
  - tags: ['egypt', 'smart city']
-
- ## World Economic Forum Urges Companies To Fire Unvaccinated Employees As Part of ‘Jobs Reset,’ Deletes Tweet After Backlash
- - [https://nationalfile.com/world-economic-forum-urges-companies-to-fire-unvaccinated-employees-as-part-of-jobs-reset-deletes-tweet-after-backlash](https://nationalfile.com/world-economic-forum-urges-companies-to-fire-unvaccinated-employees-as-part-of-jobs-reset-deletes-tweet-after-backlash)
- - date_published: 2021-05-18T22:10:14+00:00
- - tags: ['covid', 'covid mandates', 'fearmongering', 'vaccine', 'wef', 'world economic forum']
 
  ## Israel's borders explained in maps
  - [https://www.bbc.com/news/world-middle-east-54116567](https://www.bbc.com/news/world-middle-east-54116567)
@@ -1023,7 +1038,7 @@
 
  ## Covid vaccine profits mint 9 new pharma billionaires | CNN Business
  - [https://edition.cnn.com/2021/05/21/business/covid-vaccine-billionaires/index.html](https://edition.cnn.com/2021/05/21/business/covid-vaccine-billionaires/index.html)
- - date_published: 2021-05-21T20:15:15+00:00
+ - date_published: 2021-05-21T15:29:33+00:00
  - tags: ['big pharma', 'billionaires', 'covid', 'manufacturing consent', 'vaccine']
 
  ## Spirited Away - Why Work Is Toxic
@@ -1031,15 +1046,15 @@
  - date_published: 2021-05-21T20:40:27+00:00
  - tags: ['movies', 'spirited away']
 
+ ## Report: Wuhan Lab Staff Went To Hospital With Covid-Like Symptoms Before Confirmed Outbreak, New Intelligence Finds
+ - [https://www.forbes.com/sites/jonathanponciano/2021/05/23/report-wuhan-lab-staff-hospital-covid-19-symptoms-virus-origins](https://www.forbes.com/sites/jonathanponciano/2021/05/23/report-wuhan-lab-staff-hospital-covid-19-symptoms-virus-origins)
+ - date_published: 2021-05-23T00:00:00+00:00
+ - tags: ['china', 'covid', 'wuhan']
+
  ## Saagar Enjeti: Epstein Guards ADMIT Faking Records As Bill Gates Revelations Continue
  - [https://www.youtube.com/watch?v=s54H5d34GWE](https://www.youtube.com/watch?v=s54H5d34GWE)
  - date_published: 2021-05-24T00:00:00+00:00
  - tags: ['bill gates', 'jeffrey epstein']
-
- ## Report: Wuhan Lab Staff Went To Hospital With Covid-Like Symptoms Before Confirmed Outbreak, New Intelligence Finds
- - [https://www.forbes.com/sites/jonathanponciano/2021/05/23/report-wuhan-lab-staff-hospital-covid-19-symptoms-virus-origins](https://www.forbes.com/sites/jonathanponciano/2021/05/23/report-wuhan-lab-staff-hospital-covid-19-symptoms-virus-origins)
- - date_published: 2021-05-24T20:31:15+00:00
- - tags: ['china', 'covid', 'wuhan']
 
  ## Fauci admits ‘modest’ NIH funding of Wuhan lab but denies ‘gain of function
  - [https://nypost.com/2021/05/25/fauci-admits-nih-funding-of-wuhan-lab-denies-gain-of-function](https://nypost.com/2021/05/25/fauci-admits-nih-funding-of-wuhan-lab-denies-gain-of-function)
@@ -1051,6 +1066,11 @@
  - date_published: 2021-05-25T11:53:31+00:00
  - tags: ['bill gates', 'jeffrey epstein', 'microsoft']
 
+ ## Biden Team Reportedly Shut Down Secretive Trump-Era Project Pursuing The Wuhan Lab-Leak Theory
+ - [https://www.forbes.com/sites/roberthart/2021/05/26/biden-team-shut-down-secretive-trump-era-project-pursuing-the-wuhan-lab-leak-theory](https://www.forbes.com/sites/roberthart/2021/05/26/biden-team-shut-down-secretive-trump-era-project-pursuing-the-wuhan-lab-leak-theory)
+ - date_published: 2021-05-26T00:00:00+00:00
+ - tags: ['big brother', 'covid', 'joe biden', 'lab leak', 'wuhan']
+
  ## Russia, Iran were top two sources of disinfo on Facebook targeting U.S. during Trump admin, says report
  - [https://www.nbcnews.com/politics/national-security/russia-iran-were-top-two-sources-disinfo-facebook-targeting-u-n1268550](https://www.nbcnews.com/politics/national-security/russia-iran-were-top-two-sources-disinfo-facebook-targeting-u-n1268550)
  - date_published: 2021-05-26T06:57:00+00:00
@@ -1060,6 +1080,7 @@
  - [https://thehill.com/homenews/news/555657-facebook-reverses-policy-to-allow-posts-speculating-that-covid-19-was-made-in-a](https://thehill.com/homenews/news/555657-facebook-reverses-policy-to-allow-posts-speculating-that-covid-19-was-made-in-a)
  - date_published: 2021-05-26T19:36:37+00:00
  - tags: ['censorship', 'covid', 'facebook', 'lab leak', 'wuhan']
+ - date_dead_since: 2025-08-11T01:03:31.438142+00:00
 
  ## Facebook lifts ban on posts claiming COVID-19 was man-made, amid revitalized origins debate - ABC News
  - [https://abcnews.go.com/Technology/facebook-lifts-ban-posts-claiming-covid-19-man/story?id=77931433](https://abcnews.go.com/Technology/facebook-lifts-ban-posts-claiming-covid-19-man/story?id=77931433)
@@ -1070,7 +1091,7 @@
  - [https://noqreport.com/2021/05/26/wuhan-lab-caught-deleting-files-proving-fauci-funding](https://noqreport.com/2021/05/26/wuhan-lab-caught-deleting-files-proving-fauci-funding)
  - date_published: 2021-05-26T20:27:54+00:00
  - tags: ['anthony fauci', 'covid', 'wuhan']
- - date_dead_since: 2024-10-23T06:49:48.488276+00:00
+ - date_dead_since: 2025-08-11T00:53:33.346341+00:00
 
  ## The Takeover has Already Begun - A Secret Video Reveals All by @RICHARD GRANNON
  - [https://www.youtube.com/watch?v=npkZQGD7LOM](https://www.youtube.com/watch?v=npkZQGD7LOM)
@@ -1112,24 +1133,19 @@
  - date_published: 2021-06-01T12:59:16+00:00
  - tags: ['big brother', 'digital identity', 'digital passport', 'government control', 'privacy']
 
- ## Biden Team Reportedly Shut Down Secretive Trump-Era Project Pursuing The Wuhan Lab-Leak Theory
- - [https://www.forbes.com/sites/roberthart/2021/05/26/biden-team-shut-down-secretive-trump-era-project-pursuing-the-wuhan-lab-leak-theory](https://www.forbes.com/sites/roberthart/2021/05/26/biden-team-shut-down-secretive-trump-era-project-pursuing-the-wuhan-lab-leak-theory)
- - date_published: 2021-06-01T19:39:24+00:00
- - tags: ['big brother', 'covid', 'joe biden', 'lab leak', 'wuhan']
-
  ## API Handyman | Empty list, HTTP status code 200 vs 204 vs 404
  - [https://apihandyman.io/empty-lists-http-status-code-200-vs-204-vs-404](https://apihandyman.io/empty-lists-http-status-code-200-vs-204-vs-404)
  - date_published: 2021-06-02T00:00:00+00:00
+
+ ## Fauci was warned that COVID-19 may have been ‘engineered,’ emails show
+ - [https://nypost.com/2021/06/02/fauci-was-warned-that-covid-may-have-been-engineered-emails](https://nypost.com/2021/06/02/fauci-was-warned-that-covid-may-have-been-engineered-emails)
+ - date_published: 2021-06-02T05:02:02+00:00
+ - tags: ['anthony fauci', 'covid', 'email', 'leak']
 
  ## We Now Know Why Facebook May Have Censored the Lab Leak Theory
  - [https://townhall.com/tipsheet/katiepavlich/2021/06/02/we-now-know-why-facebook-may-have-censored-the-lab-leak-theory-n2590360](https://townhall.com/tipsheet/katiepavlich/2021/06/02/we-now-know-why-facebook-may-have-censored-the-lab-leak-theory-n2590360)
  - date_published: 2021-06-02T06:52:01+00:00
  - tags: ['censorship', 'facebook', 'lab leak']
-
- ## Fauci was warned that COVID-19 may have been ‘engineered,’ emails show
- - [https://nypost.com/2021/06/02/fauci-was-warned-that-covid-may-have-been-engineered-emails](https://nypost.com/2021/06/02/fauci-was-warned-that-covid-may-have-been-engineered-emails)
- - date_published: 2021-06-02T07:23:57+00:00
- - tags: ['anthony fauci', 'covid', 'email', 'leak']
 
  ## Gates Foundation grants Annenberg Institute $999,260 | Annenberg Institute at Brown
  - [https://www.annenberginstitute.org/news/gates-foundation-grants-annenberg-institute-999260](https://www.annenberginstitute.org/news/gates-foundation-grants-annenberg-institute-999260)

@@ -1261,6 +1261,11 @@
  - date_published: 2024-10-21T09:17:45+00:00
  - tags: ['privacy', 'surveillance']
 
+ ## Co drugi student z Zimbabwe. To koniec. Rewolucja dla polskich uczelni
+ - [https://wiadomosci.wp.pl/zmiany-na-uczelniach-weryfikacja-co-pol-roku-studentow-z-zagranicy-7084023467416160a](https://wiadomosci.wp.pl/zmiany-na-uczelniach-weryfikacja-co-pol-roku-studentow-z-zagranicy-7084023467416160a)
+ - date_published: 2024-10-21T11:13:48+00:00
+ - tags: ['immigration']
+
  ## Meta’s Israel Policy Chief Tried to Suppress Pro-Palestinian Instagram Posts
  - [https://theintercept.com/2024/10/21/instagram-israel-palestine-censorship-sjp](https://theintercept.com/2024/10/21/instagram-israel-palestine-censorship-sjp)
  - date_published: 2024-10-21T17:40:24+00:00
@@ -1275,11 +1280,6 @@
  - [https://krebsonsecurity.com/2024/10/the-global-surveillance-free-for-all-in-mobile-ad-data](https://krebsonsecurity.com/2024/10/the-global-surveillance-free-for-all-in-mobile-ad-data)
  - date_published: 2024-10-23T06:24:59+00:00
  - tags: ['privacy', 'surveillance', 'technofeudalism']
-
- ## Co drugi student z Zimbabwe. To koniec. Rewolucja dla polskich uczelni
- - [https://wiadomosci.wp.pl/zmiany-na-uczelniach-weryfikacja-co-pol-roku-studentow-z-zagranicy-7084023467416160a](https://wiadomosci.wp.pl/zmiany-na-uczelniach-weryfikacja-co-pol-roku-studentow-z-zagranicy-7084023467416160a)
- - date_published: 2024-10-23T06:43:15+00:00
- - tags: ['immigration']
 
  ## Woke doc refused to publish $10 million trans kids study that showed puberty blockers didn’t help mental health
  - [https://nypost.com/2024/10/23/us-news/doctor-refused-to-publish-trans-kids-study-that-showed-puberty-blockers-didnt-help-mental-health](https://nypost.com/2024/10/23/us-news/doctor-refused-to-publish-trans-kids-study-that-showed-puberty-blockers-didnt-help-mental-health)
