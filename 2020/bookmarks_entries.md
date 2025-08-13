@@ -428,6 +428,11 @@
  - [https://lukesmith.xyz/articles/politics-matters-most-to-slaves](https://lukesmith.xyz/articles/politics-matters-most-to-slaves)
  - date_published: 2020-05-09T00:00:00+00:00
 
+ ## Journalists across EU face wave of attacks covering anti-lockdown protests
+ - [https://ipi.media/journalists-across-eu-face-wave-of-attacks-covering-anti-lockdown-protests](https://ipi.media/journalists-across-eu-face-wave-of-attacks-covering-anti-lockdown-protests)
+ - date_published: 2020-05-10T22:00:00+00:00
+ - tags: ['covid', 'lockdown', 'mainstream media', 'protest']
+
  ## Ministerstwo zdrowia kupiło maseczki od znajomego ministra Szumowskiego. Teraz żąda zwrotu pieniędzy - Money.pl
  - [https://www.money.pl/gospodarka/ministerstwo-zdrowia-kupilo-maseczki-od-znajomego-ministra-szumowskiego-teraz-zada-zwrotu-pieniedzy-6509608986204289a.html](https://www.money.pl/gospodarka/ministerstwo-zdrowia-kupilo-maseczki-od-znajomego-ministra-szumowskiego-teraz-zada-zwrotu-pieniedzy-6509608986204289a.html)
  - date_published: 2020-05-12T20:29:09+00:00
@@ -1386,10 +1391,11 @@
  - [https://www.entrepreneur.com/business-news/the-doj-just-slammed-google-with-a-landmark-antitrust-case/358109](https://www.entrepreneur.com/business-news/the-doj-just-slammed-google-with-a-landmark-antitrust-case/358109)
  - date_published: 2020-10-20T11:15:42+00:00
  - tags: ['antitrust', 'big tech', 'google']
+ - date_dead_since: 2025-08-12T23:53:51.418895+00:00
 
  ## KE ma umowę z Johnson&Johnson na 400 mln dawek szczepionki na Covid-19 - Bankier.pl
  - [https://www.bankier.pl/wiadomosc/KE-ma-umowe-z-Johnson-Johnson-na-400-mln-dawek-szczepionki-na-Covid-19-7985549.html](https://www.bankier.pl/wiadomosc/KE-ma-umowe-z-Johnson-Johnson-na-400-mln-dawek-szczepionki-na-Covid-19-7985549.html)
- - date_published: 2020-10-21T20:00:49+00:00
+ - date_published: 2020-10-21T13:49:00+00:00
  - tags: ['big pharma', 'covid', 'johnson and johnson', 'vaccine']
 
  ## United Nations Secretary-General calls for individual action to combat misinformation | Africa Renewal
@@ -1411,11 +1417,13 @@
  - [https://www.nytimes.com/2020/10/23/health/covid-deaths.html](https://www.nytimes.com/2020/10/23/health/covid-deaths.html)
  - date_published: 2020-10-23T19:41:35+00:00
  - tags: ['covid', 'masks']
+ - date_dead_since: 2025-08-12T22:49:11.950223+00:00
 
  ## Introducing homo augmentus - Nokia Bell Labs
  - [https://www.bell-labs.com/institute/blog/introducing-homo-augmentus](https://www.bell-labs.com/institute/blog/introducing-homo-augmentus)
  - date_published: 2020-10-27T10:07:50+00:00
  - tags: ['transhumanism']
+ - date_dead_since: 2025-08-12T22:38:19.717161+00:00
 
  ## RIAA's YouTube-DL Takedown Ticks Off Developers and GitHub's CEO * TorrentFreak
  - [https://torrentfreak.com/riaas-youtube-dl-takedown-ticks-of-developers-and-githubs-ceo-201027](https://torrentfreak.com/riaas-youtube-dl-takedown-ticks-of-developers-and-githubs-ceo-201027)
@@ -1461,36 +1469,36 @@
  - [https://www.tvp.info/50701017/homoseksualisci-moga-kupic-dzieci-trwaja-miedzynarodowe-targi](https://www.tvp.info/50701017/homoseksualisci-moga-kupic-dzieci-trwaja-miedzynarodowe-targi)
  - date_published: 2020-11-07T08:46:55+00:00
  - tags: ['children', 'lgbt', 'surrogacy', 'the left wing']
- - date_dead_since: 2024-10-24T11:18:25.647148+00:00
+ - date_dead_since: 2025-08-12T21:17:24.430938+00:00
 
  ## Norway outlaws hate speech against trans people
  - [https://news.trust.org/item/20201110191107-tecjt](https://news.trust.org/item/20201110191107-tecjt)
  - date_published: 2020-11-10T22:01:46+00:00
  - tags: ['censorship', 'hate speech', 'lgbt', 'norway', 'the left wing', 'transgender']
 
+ ## Prezes Pfizera sprzedał swoje akcje w dniu ogłoszenia sukcesu badań nad szczepionką. Zarobił 5,6 mln dol.
+ - [https://businessinsider.com.pl/wiadomosci/prezes-pfizera-sprzedal-swoje-akcje-w-dniu-ogloszenia-sukcesu-badan-nad-szczepionka/y1ccgzn](https://businessinsider.com.pl/wiadomosci/prezes-pfizera-sprzedal-swoje-akcje-w-dniu-ogloszenia-sukcesu-badan-nad-szczepionka/y1ccgzn)
+ - date_published: 2020-11-11T11:30:22+00:00
+ - tags: ['big pharma', 'billionaires', 'manufacturing consent', 'pfizer']
+
  ## Come June 1, 2021, all of your new photos will count against your free Google storage
  - [https://techcrunch.com/2020/11/11/google-cuts-back-on-its-free-storage-get-ready-to-pay-up/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAACdLcrCWM2hkskLPBjz6O0aLKgR7zzifHK646vqnhzHMh7oPzacUJpv2rga3iBuuEWs6JtqVwz2EypbE6t283SMwj1JrBP_4ERvFENTEAuT8J6I6XKueZHtmSDfzezgeM87A-7E7PPSM6O8zhavQ6tf3fIcGJX44bDOcX3l3BSqj](https://techcrunch.com/2020/11/11/google-cuts-back-on-its-free-storage-get-ready-to-pay-up/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAACdLcrCWM2hkskLPBjz6O0aLKgR7zzifHK646vqnhzHMh7oPzacUJpv2rga3iBuuEWs6JtqVwz2EypbE6t283SMwj1JrBP_4ERvFENTEAuT8J6I6XKueZHtmSDfzezgeM87A-7E7PPSM6O8zhavQ6tf3fIcGJX44bDOcX3l3BSqj)
  - date_published: 2020-11-11T18:00:25+00:00
  - tags: ['google', 'subscription', 'technofeudalism']
-
- ## Prezes Pfizera sprzedał swoje akcje w dniu ogłoszenia sukcesu badań nad szczepionką. Zarobił 5,6 mln dol.
- - [https://businessinsider.com.pl/wiadomosci/prezes-pfizera-sprzedal-swoje-akcje-w-dniu-ogloszenia-sukcesu-badan-nad-szczepionka/y1ccgzn](https://businessinsider.com.pl/wiadomosci/prezes-pfizera-sprzedal-swoje-akcje-w-dniu-ogloszenia-sukcesu-badan-nad-szczepionka/y1ccgzn)
- - date_published: 2020-11-11T20:10:48+00:00
- - tags: ['big pharma', 'billionaires', 'manufacturing consent', 'pfizer']
 
  ## Are Babies Really Being Sold to Gay Couples in a Brussels Child Fair?
  - [https://www.albawaba.com/node/are-babies-really-being-sold-gay-couples-brussels-child-fair-1392439](https://www.albawaba.com/node/are-babies-really-being-sold-gay-couples-brussels-child-fair-1392439)
  - date_published: 2020-11-12T08:45:01+00:00
  - tags: ['children', 'lgbt', 'surrogacy']
 
- ## How to Use Shelter to Sandbox Apps on Android
- - [https://www.makeuseof.com/shelter-sandbox-android-apps](https://www.makeuseof.com/shelter-sandbox-android-apps)
- - date_published: 2020-11-12T17:26:21+00:00
- - tags: ['android', 'lineageos']
-
  ## Covid-19 vaccines may have potentially unpleasant side effects
  - [https://www.nbcnews.com/health/health-news/covid-19-vaccines-may-have-potentially-unpleasant-side-effects-n1247485](https://www.nbcnews.com/health/health-news/covid-19-vaccines-may-have-potentially-unpleasant-side-effects-n1247485)
- - date_published: 2020-11-12T20:08:06+00:00
+ - date_published: 2020-11-12T10:04:00+00:00
+
+ ## How to Use Shelter to Sandbox Apps on Android
+ - [https://www.makeuseof.com/shelter-sandbox-android-apps](https://www.makeuseof.com/shelter-sandbox-android-apps)
+ - date_published: 2020-11-12T16:00:48+00:00
+ - tags: ['android', 'lineageos']
 
  ## New lawsuit: Why do Android phones mysteriously exchange 260MB a month with Google via cellular data when they're not even in use?
  - [https://www.theregister.com/2020/11/14/google_android_data_allowance](https://www.theregister.com/2020/11/14/google_android_data_allowance)
@@ -1498,7 +1506,7 @@
 
  ## Social distancing, masks necessary after getting vaccine: Fauci
  - [https://nypost.com/2020/11/15/social-distancing-masks-necessary-after-getting-vaccine-fauci/amp/?__twitter_impression=true](https://nypost.com/2020/11/15/social-distancing-masks-necessary-after-getting-vaccine-fauci/amp/?__twitter_impression=true)
- - date_published: 2020-11-15T20:12:26+00:00
+ - date_published: 2020-11-15T15:47:09+00:00
  - tags: ['anthony fauci', 'covid', 'vaccine']
 
  ## Mac certificate check stokes fears that Apple logs every app you run
@@ -1523,7 +1531,7 @@
 
  ## Why Smart Cities Threaten Citizens’ Right to Privacy
  - [https://www.urbanet.info/why-smart-city-data-treatens-citizens-right-to-privacy](https://www.urbanet.info/why-smart-city-data-treatens-citizens-right-to-privacy)
- - date_published: 2020-11-18T12:04:50+00:00
+ - date_published: 2020-11-18T07:09:48+00:00
  - tags: ['privacy', 'smart city']
 
  ## Danish study finds face masks provide limited protection to wearer | Reuters
@@ -1548,18 +1556,19 @@
 
  ## China's Xi Jinping is calling for a global Covid QR code. He may struggle to convince the world
  - [https://www.cnn.com/2020/11/23/asia/china-xi-qr-code-coronavirus-intl-hnk/index.html](https://www.cnn.com/2020/11/23/asia/china-xi-qr-code-coronavirus-intl-hnk/index.html)
- - date_published: 2020-11-23T09:09:34+00:00
+ - date_published: 2020-11-23T08:36:01+00:00
  - tags: ['big brother', 'covid', 'government control', 'qr codes']
+
+ ## 13 law enforcement agencies that refuse to enforce California’s new curfew and why – Investment Watch
+ - [https://www.investmentwatchblog.com/13-law-enforcement-agencies-that-refuse-to-enforce-californias-new-curfew-and-why](https://www.investmentwatchblog.com/13-law-enforcement-agencies-that-refuse-to-enforce-californias-new-curfew-and-why)
+ - date_published: 2020-11-23T11:40:00+00:00
+ - tags: ['covid', 'lockdown']
 
  ## UK government running ‘Orwellian’ unit to block release of ‘sensitive’ information | openDemocracy
  - [https://www.opendemocracy.net/en/freedom-of-information/uk-government-running-orwellian-unit-to-block-release-of-sensitive-information](https://www.opendemocracy.net/en/freedom-of-information/uk-government-running-orwellian-unit-to-block-release-of-sensitive-information)
  - date_published: 2020-11-23T19:43:36+00:00
  - tags: ['big brother', 'censorship', 'clearing house', 'covid', 'england', 'ministry of truth', 'surveillance']
-
- ## 13 law enforcement agencies that refuse to enforce California’s new curfew and why – Investment Watch
- - [https://www.investmentwatchblog.com/13-law-enforcement-agencies-that-refuse-to-enforce-californias-new-curfew-and-why](https://www.investmentwatchblog.com/13-law-enforcement-agencies-that-refuse-to-enforce-californias-new-curfew-and-why)
- - date_published: 2020-11-23T20:04:36+00:00
- - tags: ['covid', 'lockdown']
+ - date_dead_since: 2025-08-12T18:18:33.556770+00:00
 
  ## Google’s Cash Makes Rivals Less Eager for Antitrust Crackdown
  - [https://www.bloomberg.com/news/articles/2020-11-24/deals-with-apple-aapl-mozilla-show-how-google-googl-discourages-competition](https://www.bloomberg.com/news/articles/2020-11-24/deals-with-apple-aapl-mozilla-show-how-google-googl-discourages-competition)
@@ -1598,7 +1607,7 @@
 
  ## New Jersey Starbucks barista claims she was fired for refusing to wear a Pride T-shirt because of her religious beliefs
  - [https://www.dailymail.co.uk/news/article-8993007/New-Jersey-Starbucks-barista-claims-fired-refusing-wear-Pride-T-shirt.html](https://www.dailymail.co.uk/news/article-8993007/New-Jersey-Starbucks-barista-claims-fired-refusing-wear-Pride-T-shirt.html)
- - date_published: 2020-11-27T22:05:08+00:00
+ - date_published: 2020-11-27T11:45:36+00:00
  - tags: ['intolerance', 'lgbt', 'the left wing', 'usa']
 
  ## WikiLeaks 'Cablegate' 10 years on
@@ -1611,25 +1620,25 @@
  - date_published: 2020-11-28T20:25:51+00:00
  - tags: ['discrimination', 'feminism', 'hypocrisy']
 
+ ## In Japan, more people died from suicide last month than from Covid in all of 2020 | CNN
+ - [https://edition.cnn.com/2020/11/28/asia/japan-suicide-women-covid-dst-intl-hnk/index.html](https://edition.cnn.com/2020/11/28/asia/japan-suicide-women-covid-dst-intl-hnk/index.html)
+ - date_published: 2020-11-29T00:41:27+00:00
+ - tags: ['covid', 'lockdown']
+
  ## Lekarz: Strategia testowania i izolowania jest samobójcza
  - [https://tarnogorski.info/pilne-kierownik-oddzia](https://tarnogorski.info/pilne-kierownik-oddzia)
  - date_published: 2020-11-29T07:28:13+00:00
  - tags: ['covid', 'lockdown']
 
+ ## Time's Up charities set up by celebrities as part of Me Too movement spent $1.4m on salaries including $157k on conferences at luxury resorts
+ - [https://www.dailymail.co.uk/news/article-8997707/Times-organization-raised-3-6m-2018-cash-went-salaries-not-victims.html](https://www.dailymail.co.uk/news/article-8997707/Times-organization-raised-3-6m-2018-cash-went-salaries-not-victims.html)
+ - date_published: 2020-11-29T07:36:29+00:00
+ - tags: ['discrimination', 'feminism', 'hypocrisy']
+
  ## Car Tires Are a Major Pollution Problem - The Atlantic
  - [https://www.theatlantic.com/science/archive/2020/11/car-tires-pollution-microplastic/617216](https://www.theatlantic.com/science/archive/2020/11/car-tires-pollution-microplastic/617216)
  - date_published: 2020-11-29T11:27:42+00:00
  - tags: ['cars', 'climate change', 'pollution']
-
- ## In Japan, more people died from suicide last month than from Covid in all of 2020 | CNN
- - [https://edition.cnn.com/2020/11/28/asia/japan-suicide-women-covid-dst-intl-hnk/index.html](https://edition.cnn.com/2020/11/28/asia/japan-suicide-women-covid-dst-intl-hnk/index.html)
- - date_published: 2020-11-29T19:49:32+00:00
- - tags: ['covid', 'lockdown']
-
- ## Time's Up charities set up by celebrities as part of Me Too movement spent $1.4m on salaries including $157k on conferences at luxury resorts
- - [https://www.dailymail.co.uk/news/article-8997707/Times-organization-raised-3-6m-2018-cash-went-salaries-not-victims.html](https://www.dailymail.co.uk/news/article-8997707/Times-organization-raised-3-6m-2018-cash-went-salaries-not-victims.html)
- - date_published: 2020-11-29T20:26:43+00:00
- - tags: ['discrimination', 'feminism', 'hypocrisy']
 
  ## Corona’s orchestra of panic: How the press’ fear-mongering is distorting information | European Journalism Observatory - EJO
  - [https://en.ejo.ch/specialist-journalism/coronas-orchestra-of-panic-how-the-press-fear-mongering-is-distorting-information-about-covid-19](https://en.ejo.ch/specialist-journalism/coronas-orchestra-of-panic-how-the-press-fear-mongering-is-distorting-information-about-covid-19)
@@ -1641,45 +1650,40 @@
  - date_published: 2020-12-02T22:05:32+00:00
  - tags: ['covid', 'england', 'pfizer', 'vaccine']
 
- ## Journalists across EU face wave of attacks covering anti-lockdown protests
- - [https://ipi.media/journalists-across-eu-face-wave-of-attacks-covering-anti-lockdown-protests](https://ipi.media/journalists-across-eu-face-wave-of-attacks-covering-anti-lockdown-protests)
- - date_published: 2020-12-03T10:13:24+00:00
- - tags: ['covid', 'lockdown', 'mainstream media', 'protest']
-
  ## 11 Open-Source Forum Software That You Can Deploy on Your Linux Servers
  - [https://itsfoss.com/open-source-forum-software](https://itsfoss.com/open-source-forum-software)
  - date_published: 2020-12-03T11:03:58+00:00
  - tags: ['selfhost']
+
+ ## Eton was right to sack teacher Will Knowland
+ - [https://www.spectator.co.uk/article/eton-was-right-to-sack-will-knowland](https://www.spectator.co.uk/article/eton-was-right-to-sack-will-knowland)
+ - date_published: 2020-12-03T14:06:25+00:00
+ - tags: ['censorship', 'feminism', 'gender', 'inequality', 'patriarchy', 'the left wing']
 
  ## California plans sweeping stay-at-home order as Covid cases surge | California | The Guardian
  - [https://www.theguardian.com/us-news/2020/dec/03/california-covid-restrictions-stay-at-home-order](https://www.theguardian.com/us-news/2020/dec/03/california-covid-restrictions-stay-at-home-order)
  - date_published: 2020-12-03T20:01:46+00:00
  - tags: ['covid', 'lockdown']
 
- ## Eton was right to sack teacher Will Knowland
- - [https://www.spectator.co.uk/article/eton-was-right-to-sack-will-knowland](https://www.spectator.co.uk/article/eton-was-right-to-sack-will-knowland)
- - date_published: 2020-12-03T20:33:35+00:00
- - tags: ['censorship', 'feminism', 'gender', 'inequality', 'patriarchy', 'the left wing']
-
  ## Who Is Brian Deese? Biden Taps Former Obama Climate Aide : Biden Transition Updates : NPR
  - [https://www.npr.org/sections/biden-transition-updates/2020/12/03/942205555/biden-names-blackrocks-brian-deese-as-his-top-economic-aide](https://www.npr.org/sections/biden-transition-updates/2020/12/03/942205555/biden-names-blackrocks-brian-deese-as-his-top-economic-aide)
  - date_published: 2020-12-03T22:48:15+00:00
  - tags: ['blackrock', 'corporatocracy', 'manufacturing consent']
 
+ ## The American Companies Enabling China’s Uyghur Genocide
+ - [https://www.theamericanconservative.com/the-american-companies-enabling-chinas-uyghur-genocide](https://www.theamericanconservative.com/the-american-companies-enabling-chinas-uyghur-genocide)
+ - date_published: 2020-12-04T05:01:07+00:00
+ - tags: ['china', 'genocide', 'hypocrisy', 'uyghur']
+
  ## Urząd będzie blokował strony internetowe. Kolejna granica przekroczona
  - [https://www.money.pl/gospodarka/urzad-bedzie-blokowal-strony-internetowe-kolejna-granica-przekroczona-6582516203985472a.html](https://www.money.pl/gospodarka/urzad-bedzie-blokowal-strony-internetowe-kolejna-granica-przekroczona-6582516203985472a.html)
- - date_published: 2020-12-04T07:04:19+00:00
+ - date_published: 2020-12-04T05:32:00+00:00
  - tags: ['big brother', 'censorship', 'freedom', 'government control', 'internet']
 
  ## A green wave of ESG is poised to break over China
  - [https://www.weforum.org/agenda/2020/12/green-wave-of-esg-investment-is-breaking-in-china](https://www.weforum.org/agenda/2020/12/green-wave-of-esg-investment-is-breaking-in-china)
  - date_published: 2020-12-04T08:11:34+00:00
  - tags: ['china', 'esg']
-
- ## The American Companies Enabling China’s Uyghur Genocide
- - [https://www.theamericanconservative.com/the-american-companies-enabling-chinas-uyghur-genocide](https://www.theamericanconservative.com/the-american-companies-enabling-chinas-uyghur-genocide)
- - date_published: 2020-12-04T12:32:25+00:00
- - tags: ['china', 'genocide', 'hypocrisy', 'uyghur']
 
  ## [Amiga] Wolfchild - Soundtrack
  - [https://www.youtube.com/watch?v=WhwJL3REHRE](https://www.youtube.com/watch?v=WhwJL3REHRE)
@@ -1720,6 +1724,7 @@
  - [https://thenewdaily.com.au/life/tech/2020/12/10/dutton-surveillance-bill-australia](https://thenewdaily.com.au/life/tech/2020/12/10/dutton-surveillance-bill-australia)
  - date_published: 2020-12-10T13:10:45+00:00
  - tags: ['australia', 'big brother', 'privacy', 'surveillance', 'surveillance bill']
+ - date_dead_since: 2025-08-12T10:54:32.275867+00:00
 
  ## Command Line Bibles
  - [https://lukesmith.xyz/articles/command-line-bibles](https://lukesmith.xyz/articles/command-line-bibles)
@@ -1764,7 +1769,7 @@
 
  ## WEF: Private Property And Privacy Will Vanish By 2030
  - [https://www.technocracy.news/wef-private-property-and-privacy-will-vanish-by-2030](https://www.technocracy.news/wef-private-property-and-privacy-will-vanish-by-2030)
- - date_published: 2020-12-14T18:04:34+00:00
+ - date_published: 2020-12-14T07:29:54+00:00
  - tags: ['corporatocracy', 'future', 'privacy', 'property', 'technofeudalism', 'wef', 'world economic forum']
 
  ## Tedros Adhanom: WHO chief may face genocide charges
@@ -1793,29 +1798,30 @@
 
  ## Nolte: Seattle Politician Calls Police She Defunded over Crime
  - [https://www.breitbart.com/politics/2020/12/17/nolte-seattle-politician-calls-police-she-defunded-over-crime-she-wants-legalized](https://www.breitbart.com/politics/2020/12/17/nolte-seattle-politician-calls-police-she-defunded-over-crime-she-wants-legalized)
- - date_published: 2020-12-17T20:10:47+00:00
+ - date_published: 2020-12-17T15:00:12+00:00
  - tags: ['defund the police']
+
+ ## WHO (finally) admits PCR tests create false positives
+ - [https://off-guardian.org/2020/12/18/who-finally-admits-pcr-tests-create-false-positives](https://off-guardian.org/2020/12/18/who-finally-admits-pcr-tests-create-false-positives)
+ - date_published: 2020-12-18T02:00:46+00:00
+ - tags: ['covid', 'covid lie', 'testing']
 
  ## Władza w ramach walki z terroryzmem sprawdzi rachunki drobnych przedsiębiorców
  - [https://bezprawnik.pl/wladza-sprawdzi-twojego-windowsa](https://bezprawnik.pl/wladza-sprawdzi-twojego-windowsa)
  - date_published: 2020-12-18T13:07:40+00:00
  - tags: ['government control', 'privacy', 'surveillance', 'terrorism']
+ - date_dead_since: 2025-08-12T07:48:36.108771+00:00
 
  ## Americans Can't Sue Pfizer, Moderna In Case of Covid-19 Vaccine Side Effects, Here's Why
  - [https://www.news18.com/news/buzz/americans-cant-sue-pfizer-moderna-in-case-of-covid-19-vaccine-side-effects-heres-why-3190154.html](https://www.news18.com/news/buzz/americans-cant-sue-pfizer-moderna-in-case-of-covid-19-vaccine-side-effects-heres-why-3190154.html)
- - date_published: 2020-12-18T18:13:12+00:00
+ - date_published: 2020-12-18T15:49:23+00:00
  - tags: ['covid', 'vaccine']
-
- ## WHO (finally) admits PCR tests create false positives
- - [https://off-guardian.org/2020/12/18/who-finally-admits-pcr-tests-create-false-positives](https://off-guardian.org/2020/12/18/who-finally-admits-pcr-tests-create-false-positives)
- - date_published: 2020-12-18T21:59:35+00:00
- - tags: ['covid', 'covid lie', 'testing']
 
  ## Koronawirus: naukowcy z RPA odkryli nową mutację Sars-Cov-2 - tvp.info
  - [https://www.tvp.info/51409466/koronawirus-naukowcy-z-rpa-odkryli-nowa-mutacje-sars-cov-2](https://www.tvp.info/51409466/koronawirus-naukowcy-z-rpa-odkryli-nowa-mutacje-sars-cov-2)
  - date_published: 2020-12-19T06:25:12+00:00
  - tags: ['covid', 'mutation']
- - date_dead_since: 2024-10-24T03:39:59.981681+00:00
+ - date_dead_since: 2025-08-12T07:19:36.918102+00:00
 
  ## How and Why I Stopped Buying New Laptops (2020)
  - [https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops](https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops)
@@ -1841,17 +1847,17 @@
  - [https://www.axis.com/blog/secure-insights/surveillance-smarter-safer-city](https://www.axis.com/blog/secure-insights/surveillance-smarter-safer-city)
  - date_published: 2020-12-21T12:04:50+00:00
  - tags: ['privacy', 'smart city']
- - date_dead_since: 2024-10-24T02:47:27.790021+00:00
+ - date_dead_since: 2025-08-12T06:23:38.071126+00:00
+
+ ## Biden receives first dose of Covid-19 vaccine on live television
+ - [https://www.cnn.com/2020/12/21/politics/bidens-coronavirus-vaccination/index.html](https://www.cnn.com/2020/12/21/politics/bidens-coronavirus-vaccination/index.html)
+ - date_published: 2020-12-21T20:12:42+00:00
+ - tags: ['covid', 'vaccine']
 
  ## Hiszpania: powstanie rejestr osób, które odmówią szczepienia przeciwko COVID-19
  - [https://www.wnp.pl/rynki-zagraniczne/hiszpania-powstanie-rejestr-osob-ktore-odmowia-szczepienia-przeciwko-covid-19,439531.html](https://www.wnp.pl/rynki-zagraniczne/hiszpania-powstanie-rejestr-osob-ktore-odmowia-szczepienia-przeciwko-covid-19,439531.html)
  - date_published: 2020-12-21T22:02:51+00:00
  - tags: ['covid', 'spain', 'surveillance', 'vaccine']
-
- ## Biden receives first dose of Covid-19 vaccine on live television
- - [https://www.cnn.com/2020/12/21/politics/bidens-coronavirus-vaccination/index.html](https://www.cnn.com/2020/12/21/politics/bidens-coronavirus-vaccination/index.html)
- - date_published: 2020-12-21T22:06:35+00:00
- - tags: ['covid', 'vaccine']
 
  ## The Great Google Crash: The World’s Dependency Revealed
  - [https://www.youtube.com/watch?v=vJ1cfb-5pHQ](https://www.youtube.com/watch?v=vJ1cfb-5pHQ)
@@ -1863,6 +1869,11 @@
  - date_published: 2020-12-22T14:19:18+00:00
  - tags: ['censorship', 'facebook', 'messanger', 'privacy']
 
+ ## Covid-19 vaccine 'will not be required to access public transport' says French health minister - The Local
+ - [https://www.thelocal.fr/20201222/the-everyday-restrictions-people-who-refuse-the-covid-19-vaccine-in-france-could-face](https://www.thelocal.fr/20201222/the-everyday-restrictions-people-who-refuse-the-covid-19-vaccine-in-france-could-face)
+ - date_published: 2020-12-22T16:35:26+00:00
+ - tags: ['covid', 'covid mandates', 'vaccine']
+
  ## Coronavirus French Law Would Ban People Who Don’t Get COVID Vaccine From Using Public Transport
  - [https://summit.news/2020/12/22/french-law-would-ban-people-who-dont-get-covid-vaccine-from-using-public-transport](https://summit.news/2020/12/22/french-law-would-ban-people-who-dont-get-covid-vaccine-from-using-public-transport)
  - date_published: 2020-12-22T22:07:50+00:00
@@ -1873,11 +1884,6 @@
  - date_published: 2020-12-23T06:49:58+00:00
  - tags: ['china', 'leak', 'privacy', 'zoom']
 
- ## Covid-19 vaccine 'will not be required to access public transport' says French health minister - The Local
- - [https://www.thelocal.fr/20201222/the-everyday-restrictions-people-who-refuse-the-covid-19-vaccine-in-france-could-face](https://www.thelocal.fr/20201222/the-everyday-restrictions-people-who-refuse-the-covid-19-vaccine-in-france-could-face)
- - date_published: 2020-12-23T06:50:16+00:00
- - tags: ['covid', 'covid mandates', 'vaccine']
-
  ## Writer Defends New Netflix Drama Bridgerton for Depicting Queen Charlotte as Black
  - [https://people.com/royals/writer-of-new-netflix-drama-bridgerton-defends-depicting-queen-charlotte-as-black](https://people.com/royals/writer-of-new-netflix-drama-bridgerton-defends-depicting-queen-charlotte-as-black)
  - date_published: 2020-12-23T09:06:00+00:00
@@ -1887,7 +1893,7 @@
  - [https://dcgross.com/a-new-google](https://dcgross.com/a-new-google)
  - date_published: 2020-12-23T09:31:57+00:00
  - tags: ['algorithms', 'dead internet', 'search engines']
- - date_dead_since: 2024-10-24T02:26:56.735594+00:00
+ - date_dead_since: 2025-08-12T05:09:31.286770+00:00
 
  ## WHO Deletes Naturally Acquired Immunity from Its Website
  - [https://www.aier.org/article/who-deletes-naturally-acquired-immunity-from-its-website](https://www.aier.org/article/who-deletes-naturally-acquired-immunity-from-its-website)
@@ -1941,7 +1947,7 @@
 
  ## Section 215 Expired: Year in Review 2020 | Electronic Frontier Foundation
  - [https://www.eff.org/deeplinks/2020/12/section-215-expired-year-review-2020](https://www.eff.org/deeplinks/2020/12/section-215-expired-year-review-2020)
- - date_published: 2020-12-29T15:10:10+00:00
+ - date_published: 2020-12-29T09:41:27+00:00
  - tags: ['big brother', 'government control', 'patriot act', 'surveillance']
 
  ## UK Woman Arrested For Filming Inside Empty Hospital
@@ -1951,7 +1957,7 @@
 
  ## Hiszpania: Rodzina odmówi zaszczepienia seniora? Może stracić nad nim opiekę
  - [https://www.rmf24.pl/raporty/raport-koronawirus-z-chin/europa/news-hiszpania-rodzina-odmowi-zaszczepienia-seniora-moze-stracic-,nId,4957585](https://www.rmf24.pl/raporty/raport-koronawirus-z-chin/europa/news-hiszpania-rodzina-odmowi-zaszczepienia-seniora-moze-stracic-,nId,4957585)
- - date_published: 2020-12-30T22:08:28+00:00
+ - date_published: 2020-12-30T17:27:03+00:00
  - tags: ['covid', 'spain', 'vaccine']
 
  ## Why am I so Anti-Video Gaymes?

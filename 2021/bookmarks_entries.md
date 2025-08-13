@@ -14,17 +14,19 @@
  - [https://www.tvp.info/51615749/koronawirus-szczepionka-dla-celebrytow-wiktor-zborowski-krzysztof-materna-andrzej-seweryn-i-maria-seweryn-kontrowersje-juz-nie-tylko-wokol-jandy-i-millera-tvp-info](https://www.tvp.info/51615749/koronawirus-szczepionka-dla-celebrytow-wiktor-zborowski-krzysztof-materna-andrzej-seweryn-i-maria-seweryn-kontrowersje-juz-nie-tylko-wokol-jandy-i-millera-tvp-info)
  - date_published: 2021-01-02T06:44:36+00:00
  - tags: ['covid', 'vaccine']
- - date_dead_since: 2024-10-24T01:10:00.094580+00:00
+ - date_dead_since: 2025-08-12T02:59:30.840966+00:00
 
  ## House Democrats open 117th Congress with prayer ending 'amen and a-woman' - Washington Times
  - [https://www.washingtontimes.com/news/2021/jan/3/house-democrats-open-117th-congress-prayer-ending-](https://www.washingtontimes.com/news/2021/jan/3/house-democrats-open-117th-congress-prayer-ending-)
  - date_published: 2021-01-03T20:13:03+00:00
  - tags: ['newspeak', 'the left wing']
+ - date_dead_since: 2025-08-12T02:39:31.068385+00:00
 
  ## House introduces gender-neutral language in new rules for Congress
  - [https://thehill.com/changing-america/respect/diversity-inclusion/532518-house-introduces-gender-neutral-language-in-new](https://thehill.com/changing-america/respect/diversity-inclusion/532518-house-introduces-gender-neutral-language-in-new)
  - date_published: 2021-01-04T21:53:34+00:00
  - tags: ['gender', 'lgbt', 'newspeak', 'pronouns', 'social engineering', 'the left wing']
+ - date_dead_since: 2025-08-12T02:33:31.799808+00:00
 
  ## New York Bill Would Let the State Put People in Detention if Deemed a 'Significant Threat to Public Health'
  - [https://reason.com/2021/01/05/new-york-bill-would-let-state-put-people-in-detention-public-health-threat-covid-19](https://reason.com/2021/01/05/new-york-bill-would-let-state-put-people-in-detention-public-health-threat-covid-19)
@@ -41,15 +43,16 @@
  - date_published: 2021-01-06T22:36:04+00:00
  - tags: ['america', 'civil war']
 
+ ## Known Antifa members posed as pro-Trump to infiltrate Capitol riot: sources
+ - [https://nypost.com/2021/01/07/known-antifa-members-posed-as-pro-trump-to-infiltrate-capitol-riot-sources](https://nypost.com/2021/01/07/known-antifa-members-posed-as-pro-trump-to-infiltrate-capitol-riot-sources)
+ - date_published: 2021-01-07T05:40:20+00:00
+ - tags: ['january 6']
+
  ## Trump suspended indefinitely from Snapchat | The Hill
  - [https://thehill.com/policy/technology/533204-trump-suspended-indefinitely-from-snapchat](https://thehill.com/policy/technology/533204-trump-suspended-indefinitely-from-snapchat)
  - date_published: 2021-01-07T15:02:24+00:00
  - tags: ['deplatform', 'donald trump', 'january 6', 'snapchat', 'the right wing']
-
- ## Known Antifa members posed as pro-Trump to infiltrate Capitol riot: sources
- - [https://nypost.com/2021/01/07/known-antifa-members-posed-as-pro-trump-to-infiltrate-capitol-riot-sources](https://nypost.com/2021/01/07/known-antifa-members-posed-as-pro-trump-to-infiltrate-capitol-riot-sources)
- - date_published: 2021-01-07T20:19:34+00:00
- - tags: ['january 6']
+ - date_dead_since: 2025-08-12T02:08:42.202776+00:00
 
  ## Twitter permanently suspends President Donald Trump
  - [https://www.nbcnews.com/tech/tech-news/twitter-permanently-bans-president-donald-trump-n1253588](https://www.nbcnews.com/tech/tech-news/twitter-permanently-bans-president-donald-trump-n1253588)
@@ -78,12 +81,17 @@
 
  ## Apple removes Parler from the App Store - The Verge
  - [https://www.theverge.com/2021/1/9/22221730/apple-removes-suspends-bans-parler-app-store](https://www.theverge.com/2021/1/9/22221730/apple-removes-suspends-bans-parler-app-store)
- - date_published: 2021-01-10T15:10:04+00:00
+ - date_published: 2021-01-10T00:47:15+00:00
  - tags: ['apple', 'censorship', 'january 6', 'moderation', 'parler']
+
+ ## Parler app has now been booted by Amazon, Apple and Google | CNN Business
+ - [https://edition.cnn.com/2021/01/09/tech/parler-suspended-apple-app-store/index.html](https://edition.cnn.com/2021/01/09/tech/parler-suspended-apple-app-store/index.html)
+ - date_published: 2021-01-10T01:02:34+00:00
+ - tags: ['amazon', 'apple', 'censorship', 'google', 'january 6', 'moderation', 'parler']
 
  ## A Bill Gates Venture Aims To Spray Dust Into The Atmosphere To Block The Sun. What Could Go Wrong?
  - [https://www.forbes.com/sites/arielcohen/2021/01/11/bill-gates-backed-climate-solution-gains-traction-but-concerns-linger](https://www.forbes.com/sites/arielcohen/2021/01/11/bill-gates-backed-climate-solution-gains-traction-but-concerns-linger)
- - date_published: 2021-01-11T12:53:15+00:00
+ - date_published: 2021-01-11T00:00:00+00:00
  - tags: ['atmosphere', 'bill gates', 'climate change', 'sun-dimming']
 
  ## Władzę nad światem przejmuje Big Tech. Czy to już koniec wolności słowa?
@@ -91,20 +99,16 @@
  - date_published: 2021-01-11T13:17:34+00:00
  - tags: ['big brother', 'big tech', 'censorship', 'democracy', 'freedom', 'moderation']
 
- ## Parler app has now been booted by Amazon, Apple and Google | CNN Business
- - [https://edition.cnn.com/2021/01/09/tech/parler-suspended-apple-app-store/index.html](https://edition.cnn.com/2021/01/09/tech/parler-suspended-apple-app-store/index.html)
- - date_published: 2021-01-11T15:10:39+00:00
- - tags: ['amazon', 'apple', 'censorship', 'google', 'january 6', 'moderation', 'parler']
-
  ## Biden receives second dose of COVID-19 vaccine
  - [https://nypost.com/2021/01/11/biden-receives-second-dose-of-covid-19-vaccine](https://nypost.com/2021/01/11/biden-receives-second-dose-of-covid-19-vaccine)
- - date_published: 2021-01-11T20:52:16+00:00
+ - date_published: 2021-01-11T20:24:07+00:00
  - tags: ['covid', 'vaccine']
 
  ## Doctor’s Death After Covid Vaccine Is Being Investigated
  - [https://www.nytimes.com/2021/01/12/health/covid-vaccine-death.html](https://www.nytimes.com/2021/01/12/health/covid-vaccine-death.html)
  - date_published: 2021-01-12T13:00:20+00:00
  - tags: ['big pharma', 'covid', 'pfizer', 'vaccine']
+ - date_dead_since: 2025-08-12T00:18:36.611140+00:00
 
  ## PBS lawyer resigns after being caught in Veritas sting | AP News
  - [https://apnews.com/article/donald-trump-entertainment-coronavirus-pandemic-8f586d687ab332777a7a059457ff818e](https://apnews.com/article/donald-trump-entertainment-coronavirus-pandemic-8f586d687ab332777a7a059457ff818e)

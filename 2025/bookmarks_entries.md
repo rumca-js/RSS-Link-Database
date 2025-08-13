@@ -591,6 +591,11 @@
  - date_published: 2025-08-01T12:28:09+00:00
  - tags: ['immigration']
 
+ ## The Disturbing Side Of Epstein No One Is Talking About
+ - [https://www.youtube.com/watch?v=Zh1TwFhWcI0](https://www.youtube.com/watch?v=Zh1TwFhWcI0)
+ - date_published: 2025-08-02T00:00:00+00:00
+ - tags: ['jeffrey epstein']
+
  ## New attacks in Nigeria leave 200+ dead
  - [https://www.opendoorsus.org/en-US/stories/new-attacks-in-nigeria-leave-200-dead](https://www.opendoorsus.org/en-US/stories/new-attacks-in-nigeria-leave-200-dead)
  - date_published: 2025-08-04T14:29:39.397275+00:00
@@ -600,4 +605,14 @@
  - [https://lemmy.dbzer0.com/post/49344563](https://lemmy.dbzer0.com/post/49344563)
  - date_published: 2025-08-04T14:29:42.250545+00:00
  - tags: ['jeffrey epstein']
+
+ ## Tube passengers face arrest over ‘assault’ of naked man in east London
+ - [https://www.standard.co.uk/news/crime/btp-tube-passengers-arrest-naked-man-upton-park-london-b1242388.html](https://www.standard.co.uk/news/crime/btp-tube-passengers-arrest-naked-man-upton-park-london-b1242388.html)
+ - date_published: 2025-08-11T11:34:38+00:00
+ - tags: ['social']
+
+ ## Revealed: “Skyrocketing” scale of UK police's Secret Facial Recognition Searches of Passport and Immigration Databases
+ - [http://privacyinternational.org/news-analysis/5635/revealed-skyrocketing-scale-uk-polices-secret-facial-recognition-searches](http://privacyinternational.org/news-analysis/5635/revealed-skyrocketing-scale-uk-polices-secret-facial-recognition-searches)
+ - date_published: 2025-08-12T14:41:31.864986+00:00
+ - tags: ['privacy', 'surveillance']
 
