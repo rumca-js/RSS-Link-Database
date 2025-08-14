@@ -1038,6 +1038,7 @@
  - [https://epic.org/fifth-circuit-rules-that-geofence-warrants-are-inherently-unconstitutional](https://epic.org/fifth-circuit-rules-that-geofence-warrants-are-inherently-unconstitutional)
  - date_published: 2024-08-13T20:03:41+00:00
  - tags: ['privacy', 'surveillance']
+ - date_dead_since: 2025-08-13T10:59:12.628632+00:00
 
  ## Project 2025 co-author discusses work in hidden-camera video
  - [https://www.youtube.com/watch?v=T8G8yBwF_tQ](https://www.youtube.com/watch?v=T8G8yBwF_tQ)
@@ -1290,10 +1291,11 @@
  - [https://www.nytimes.com/2024/10/23/science/puberty-blockers-olson-kennedy.html](https://www.nytimes.com/2024/10/23/science/puberty-blockers-olson-kennedy.html)
  - date_published: 2024-10-24T20:02:40+00:00
  - tags: ['lgbt', 'transgender', 'woke']
+ - date_dead_since: 2025-08-13T10:47:20.675890+00:00
 
  ## Delta Airlines bans comedian for LIFE for a joke! #delta #comedian #fly
  - [https://www.youtube.com/watch?v=_23hZhc3DlA](https://www.youtube.com/watch?v=_23hZhc3DlA)
- - date_published: 2024-10-25T00:24:58+00:00
+ - date_published: 2024-10-25T00:00:00+00:00
 
  ## 76 % der Mittelschüler sprechen daheim nicht Deutsch
  - [https://www.heute.at/s/76-der-mittelschueler-sprechen-daheim-nicht-deutsch-120068220](https://www.heute.at/s/76-der-mittelschueler-sprechen-daheim-nicht-deutsch-120068220)

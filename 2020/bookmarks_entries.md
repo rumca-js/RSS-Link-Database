@@ -565,7 +565,7 @@
 
  ## 'Big concerns' over Gates foundation's potential to become largest WHO donor
  - [https://www.devex.com/news/big-concerns-over-gates-foundation-s-potential-to-become-largest-who-donor-97377](https://www.devex.com/news/big-concerns-over-gates-foundation-s-potential-to-become-largest-who-donor-97377)
- - date_published: 2020-06-05T13:47:07+00:00
+ - date_published: 2020-06-05T11:26:46+00:00
  - tags: ['bill gates', 'donors', 'foundation', 'who']
 
  ## How To install Webmin On Raspberry Pi OS (For Remote Administration) - Smart Home Pursuits
@@ -595,13 +595,14 @@
 
  ## Seattle protesters take over city blocks to create police-free 'autonomous zone'
  - [https://www.theguardian.com/us-news/2020/jun/11/chaz-seattle-autonomous-zone-police-protest](https://www.theguardian.com/us-news/2020/jun/11/chaz-seattle-autonomous-zone-police-protest)
- - date_published: 2020-06-12T18:39:24+00:00
+ - date_published: 2020-06-12T00:25:16+00:00
  - tags: ['black lives matter']
 
  ## The New York Times Used to Be a Model of Diverse Opinion. What Happened?  - POLITICO
  - [https://www.politico.com/news/magazine/2020/06/14/how-the-new-york-times-survived-the-1960s-316530](https://www.politico.com/news/magazine/2020/06/14/how-the-new-york-times-survived-the-1960s-316530)
  - date_published: 2020-06-14T14:37:12+00:00
  - tags: ['new york times']
+ - date_dead_since: 2025-08-13T22:56:48.547497+00:00
 
  ## Berlin authorities placed children with pedophiles
  - [https://www.dw.com/en/berlin-authorities-placed-children-with-pedophiles-for-30-years/a-53814208](https://www.dw.com/en/berlin-authorities-placed-children-with-pedophiles-for-30-years/a-53814208)
@@ -624,7 +625,7 @@
 
  ## Przez 30 lat Berlin udostępniał dzieci pedofilom. Nazywano to "eksperymentem Kentlera" [RAPORT]
  - [https://wiadomosci.dziennik.pl/swiat/artykuly/7746506,berlin-dzieci-bezdomne-pedofile-eksperyment-helmut-kentler-pornografia-dziecieca.html](https://wiadomosci.dziennik.pl/swiat/artykuly/7746506,berlin-dzieci-bezdomne-pedofile-eksperyment-helmut-kentler-pornografia-dziecieca.html)
- - date_published: 2020-06-18T22:18:53+00:00
+ - date_published: 2020-06-18T08:20:34+00:00
  - tags: ['germany', 'kentler', 'paedophilia']
 
  ## What's been happening in China's Xinjiang, home to 11 million Uyghurs?
@@ -636,6 +637,7 @@
  - [https://www.barrons.com/articles/blackrock-is-biggest-beneficiary-of-fed-purchases-of-corporate-bond-etfs-51591034726](https://www.barrons.com/articles/blackrock-is-biggest-beneficiary-of-fed-purchases-of-corporate-bond-etfs-51591034726)
  - date_published: 2020-06-20T16:50:04+00:00
  - tags: ['billionaires', 'blackrock', 'manufacturing consent']
+ - date_dead_since: 2025-08-13T21:53:41.386659+00:00
 
  ## Why the Lawful Access to Encrypted Data Act is a Threat to your Privacy
  - [https://www.globalsign.com/en/blog/why-lawful-access-encrypted-data-act-threat-your-rights-and-privacy](https://www.globalsign.com/en/blog/why-lawful-access-encrypted-data-act-threat-your-rights-and-privacy)
@@ -654,8 +656,13 @@
 
  ## BLM co-founder describes herself as 'trained Marxist'
  - [https://nypost.com/2020/06/25/blm-co-founder-describes-herself-as-trained-marxist](https://nypost.com/2020/06/25/blm-co-founder-describes-herself-as-trained-marxist)
- - date_published: 2020-06-25T21:03:29+00:00
+ - date_published: 2020-06-25T15:46:39+00:00
  - tags: ['black lives matter', 'marxism', 'socialism', 'usa']
+
+ ## Face masks: Want to prevent another shutdown, save 33,000 lives and protect yourself? Wear a face mask, doctors say | CNN
+ - [https://edition.cnn.com/2020/06/25/health/face-mask-guidance-covid-19/index.html](https://edition.cnn.com/2020/06/25/health/face-mask-guidance-covid-19/index.html)
+ - date_published: 2020-06-25T20:55:19+00:00
+ - tags: ['covid', 'covid mandates', 'masks']
 
  ## Eksperyment Kentlera. Jak w Niemczech przekazywano dzieci pedofilom
  - [https://www.rp.pl/spoleczenstwo/art654161-eksperyment-kentlera-jak-w-niemczech-przekazywano-dzieci-pedofilom](https://www.rp.pl/spoleczenstwo/art654161-eksperyment-kentlera-jak-w-niemczech-przekazywano-dzieci-pedofilom)
@@ -682,19 +689,15 @@
  - date_published: 2020-06-28T13:26:45+00:00
  - tags: ['chrome', 'google', 'privacy', 'surveillance', 'tracking']
 
- ## Face masks: Want to prevent another shutdown, save 33,000 lives and protect yourself? Wear a face mask, doctors say | CNN
- - [https://edition.cnn.com/2020/06/25/health/face-mask-guidance-covid-19/index.html](https://edition.cnn.com/2020/06/25/health/face-mask-guidance-covid-19/index.html)
- - date_published: 2020-06-29T09:48:31+00:00
- - tags: ['covid', 'covid mandates', 'masks']
-
  ## What is the real goal of the ‘Stop Hate for Profit’ campaign against Facebook? Hint: it has nothing to do with ‘hate speech’
  - [https://www.rt.com/op-ed/493295-stop-hate-advertising-extortion-astroturf](https://www.rt.com/op-ed/493295-stop-hate-advertising-extortion-astroturf)
  - date_published: 2020-06-29T12:14:35+00:00
  - tags: ['censorship', 'facebook', 'free speech', 'hate speech', 'hypocrisy', 'propaganda', 'stop hate for profit']
+ - date_dead_since: 2025-08-13T19:57:39.688258+00:00
 
  ## Google's dreaded SafetyNet hardware check has been spotted in the wild
  - [https://www.androidpolice.com/2020/06/29/googles-dreaded-safetynet-hardware-check-has-been-spotted-in-the-wild](https://www.androidpolice.com/2020/06/29/googles-dreaded-safetynet-hardware-check-has-been-spotted-in-the-wild)
- - date_published: 2020-06-29T18:29:57+00:00
+ - date_published: 2020-06-29T15:16:48+00:00
  - tags: ['corporatocracy', 'crypto wars', 'google', 'safetynet', 'technofeudalism']
 
  ## India bans TikTok, WeChat and dozens more Chinese apps - BBC News
@@ -704,12 +707,12 @@
 
  ## YouTube bans David Duke and other US far-right users
  - [https://www.theguardian.com/technology/2020/jun/30/youtube-bans-david-duke-and-other-us-far-right-users](https://www.theguardian.com/technology/2020/jun/30/youtube-bans-david-duke-and-other-us-far-right-users)
- - date_published: 2020-06-30T20:01:50+00:00
+ - date_published: 2020-06-30T13:26:01+00:00
  - tags: ['censorship', 'youtube']
 
  ## I built my own camera with a Raspberry Pi 4 - The Verge
  - [https://www.theverge.com/21306907/diy-camera-raspberry-pi-high-quality-how-to-build-video-c-cs-mount-lenses](https://www.theverge.com/21306907/diy-camera-raspberry-pi-high-quality-how-to-build-video-c-cs-mount-lenses)
- - date_published: 2020-07-01T16:58:28+00:00
+ - date_published: 2020-07-01T13:00:00+00:00
  - tags: ['programming', 'raspberry pi']
 
  ## Judge Rules Virginia Giuffre's Lawyers Must 'Destroy' Jeffrey Epstein Files
@@ -731,15 +734,16 @@
  - [https://cloverchronicle.com/2020/07/03/confessions-of-a-dead-man-personal-driver-of-jeffrey-epstein-and-other-elites-tells-all](https://cloverchronicle.com/2020/07/03/confessions-of-a-dead-man-personal-driver-of-jeffrey-epstein-and-other-elites-tells-all)
  - date_published: 2020-07-03T15:28:00+00:00
  - tags: ['4chan', 'jeffrey epstein', 'unverified']
+ - date_dead_since: 2025-08-13T18:42:49.669899+00:00
 
  ## Deutsche Bank fined $150M for failing to flag Epstein's shady transactions
  - [https://www.cnn.com/2020/07/07/business/jeffrey-epstein-deutsche-bank-fine/index.html](https://www.cnn.com/2020/07/07/business/jeffrey-epstein-deutsche-bank-fine/index.html)
- - date_published: 2020-07-07T17:23:32+00:00
+ - date_published: 2020-07-07T13:29:26+00:00
  - tags: ['billionairs', 'elites', 'jeffrey epstein']
 
  ## Norwegia priorytetowo przyjmie uchodźców LGBT+ - Noizz
  - [https://noizz.pl/lgbt/norwegia-priorytetowo-przyjmie-uchodzcow-lgbt/zzy65sy](https://noizz.pl/lgbt/norwegia-priorytetowo-przyjmie-uchodzcow-lgbt/zzy65sy)
- - date_published: 2020-07-07T21:00:09+00:00
+ - date_published: 2020-07-07T15:45:25+00:00
  - tags: ['immigration', 'inequality', 'lgbt', 'norway', 'the left wing']
 
  ## Watch Jeffrey Epstein: Filthy Rich | Netflix Official Site
@@ -754,7 +758,7 @@
 
  ## Confessions Of A Dead Man: Personal Driver Of Jeffrey Epstein And Other Elites Tells All
  - [https://supersoldiertalk.com/confessions-of-a-dead-man-personal-driver-of-jeffrey-epstein-and-other-elites-tells-all](https://supersoldiertalk.com/confessions-of-a-dead-man-personal-driver-of-jeffrey-epstein-and-other-elites-tells-all)
- - date_published: 2020-07-10T15:28:46+00:00
+ - date_published: 2020-07-10T08:11:22+00:00
  - tags: ['4chan', 'jeffrey epstein', 'unverified']
 
  ## McCloskey case: Police seize gun at home of St. Louis couple who pointed weapons at protesters
@@ -771,6 +775,7 @@
  - [https://www.nytimes.com/2020/07/13/us/politics/george-soros-racial-justice-organizations.html](https://www.nytimes.com/2020/07/13/us/politics/george-soros-racial-justice-organizations.html)
  - date_published: 2020-07-13T08:43:45+00:00
  - tags: ['black lives matter', 'george soros', 'inequality']
+ - date_dead_since: 2025-08-13T17:22:01.459273+00:00
 
  ## New BAFTA Gaming Standards are INSANE
  - [https://www.youtube.com/watch?v=dw9lmEp7Q6E](https://www.youtube.com/watch?v=dw9lmEp7Q6E)
@@ -831,6 +836,7 @@
  - [https://www.thedefensepost.com/2020/07/21/gunmen-wedding-nigeria](https://www.thedefensepost.com/2020/07/21/gunmen-wedding-nigeria)
  - date_published: 2020-07-21T21:04:07+00:00
  - tags: ['christianophobia', 'nigeria']
+ - date_dead_since: 2025-08-13T16:01:53.599796+00:00
 
  ## Shaming people who refuse to wear face masks isn’t a good look
  - [https://www.theguardian.com/commentisfree/2020/jul/22/shaming-people-who-refuse-to-wear-face-masks-isnt-a-good-look](https://www.theguardian.com/commentisfree/2020/jul/22/shaming-people-who-refuse-to-wear-face-masks-isnt-a-good-look)
@@ -881,16 +887,15 @@
  - [https://www.washingtonexaminer.com/news/i-feel-like-i-need-to-buy-a-firearm-radio-host-who-mocked-trump-for-demanding-rioting-in-seattle-stop-sees-his-apartment-building-damaged](https://www.washingtonexaminer.com/news/i-feel-like-i-need-to-buy-a-firearm-radio-host-who-mocked-trump-for-demanding-rioting-in-seattle-stop-sees-his-apartment-building-damaged)
  - date_published: 2020-07-27T08:57:31+00:00
  - tags: ['black lives matter', 'prostests', 'the left wing']
- - date_dead_since: 2025-04-05T14:22:45.460754+00:00
 
  ## Instagram podgląda użytkowników podczas przeglądania treści w portalu?
  - [https://ithardware.pl/aktualnosci/instagram_podglada_uzytkownikow_podczas_przegladania_tresci_w_portalu-12894.html](https://ithardware.pl/aktualnosci/instagram_podglada_uzytkownikow_podczas_przegladania_tresci_w_portalu-12894.html)
- - date_published: 2020-07-27T12:04:49+00:00
+ - date_published: 2020-07-27T10:12:00+00:00
  - tags: ['instagram', 'privacy', 'social media']
 
  ## Kobiety są zdecydowanym beneficjentem systemu, w przeciwieństwie do mężczyzn
  - [https://obserwatorgospodarczy.pl/2020/07/27/kobiety-sa-zdecydowanym-beneficjentem-systemu-w-przeciwienstwie-do-mezczyzn](https://obserwatorgospodarczy.pl/2020/07/27/kobiety-sa-zdecydowanym-beneficjentem-systemu-w-przeciwienstwie-do-mezczyzn)
- - date_published: 2020-07-27T20:17:28+00:00
+ - date_published: 2020-07-27T12:04:14+00:00
  - tags: ['discrimination', 'feminism', 'poland']
 
  ## Dziennikarka Do Rzeczy: kobieta, która złoży zawiadomienie o byciu ofiarą przemocy, może łatwo się wzbogacić
@@ -902,7 +907,7 @@
  - [https://independenttrader.pl/globalisci-planuja-wielki-reset.html](https://independenttrader.pl/globalisci-planuja-wielki-reset.html)
  - date_published: 2020-07-28T07:48:25+00:00
  - tags: ['elites', 'great reset', 'wef', 'world economic forum']
- - date_dead_since: 2025-04-05T13:49:50.157049+00:00
+ - date_dead_since: 2025-08-13T13:52:04.471983+00:00
 
  ## MacKenzie Scott donates $1.7bn since Amazon boss divorce - BBC News
  - [https://www.bbc.co.uk/news/business-53574954](https://www.bbc.co.uk/news/business-53574954)
@@ -911,7 +916,7 @@
 
  ## Paedophile Labour councillor who worked in children's home walks free despite being caught with over one million child porn images including 12-year-old girls being raped
  - [https://www.dailymail.co.uk/news/article-8568833/Paedophile-Labour-councillor-worked-childrens-home-walks-free.html](https://www.dailymail.co.uk/news/article-8568833/Paedophile-Labour-councillor-worked-childrens-home-walks-free.html)
- - date_published: 2020-07-28T21:09:04+00:00
+ - date_published: 2020-07-28T16:54:42+00:00
  - tags: ['inequality', 'lgbt', 'paedophilia', 'the left wing']
 
  ## How George Soros broke the Bank of England | by Siddharth Singh | Zecide AI | Medium
@@ -936,7 +941,7 @@
 
  ## Google Home might be listening to more than just wake words after secret update
  - [https://www.techradar.com/news/google-home-might-be-listening-to-more-than-just-wake-words-after-secret-update](https://www.techradar.com/news/google-home-might-be-listening-to-more-than-just-wake-words-after-secret-update)
- - date_published: 2020-08-04T12:04:50+00:00
+ - date_published: 2020-08-04T07:57:57+00:00
  - tags: ['google', 'iot', 'privacy']
 
  ## Beware of find-my-phone, Wi-Fi, and Bluetooth, NSA tells mobile users
@@ -979,7 +984,7 @@
  ## 400+ Qualcomm Chip Vulnerabilities Threaten Millions of Android Phones
  - [https://www.darkreading.com/vulnerabilities---threats/400+-qualcomm-chip-vulnerabilities-threaten-millions-of-android-phones/d/d-id/1338613](https://www.darkreading.com/vulnerabilities---threats/400+-qualcomm-chip-vulnerabilities-threaten-millions-of-android-phones/d/d-id/1338613)
  - date_published: 2020-08-07T06:43:11+00:00
- - date_dead_since: 2025-04-05T11:52:00.350692+00:00
+ - date_dead_since: 2025-08-13T11:52:19.270874+00:00
 
  ## A U.S. government contractor embedded tracking software in the apps of millions of smartphone users
  - [https://www.androidcentral.com/us-government-contractor-embedded-tracking-software-apps-millions-smartphone-users](https://www.androidcentral.com/us-government-contractor-embedded-tracking-software-apps-millions-smartphone-users)
@@ -1039,28 +1044,39 @@
 
  ## Protesters burn government building during riot in Portland
  - [https://nypost.com/2020/08/19/protesters-burn-government-building-during-riot-in-portland](https://nypost.com/2020/08/19/protesters-burn-government-building-during-riot-in-portland)
- - date_published: 2020-08-19T14:32:19+00:00
+ - date_published: 2020-08-19T06:56:24+00:00
  - tags: ['black lives matter', 'blm', 'defund the police']
 
  ## New P2P botnet infects SSH servers all over the world
  - [https://arstechnica.com/information-technology/2020/08/new-p2p-botnet-infects-ssh-servers-all-over-the-world](https://arstechnica.com/information-technology/2020/08/new-p2p-botnet-infects-ssh-servers-all-over-the-world)
- - date_published: 2020-08-19T20:04:48+00:00
+ - date_published: 2020-08-19T13:00:16+00:00
  - tags: ['botnet', 'virus', 'vulnerability']
 
  ## Goodyear employees say new zero-tolerance policy from Akron HQ is discriminatory
  - [https://www.cleveland19.com/2020/08/18/goodyear-employees-say-new-zero-tolerance-policy-akron-hq-is-discriminatory](https://www.cleveland19.com/2020/08/18/goodyear-employees-say-new-zero-tolerance-policy-akron-hq-is-discriminatory)
- - date_published: 2020-08-19T21:11:08+00:00
+ - date_published: 2020-08-19T15:02:23+00:00
  - tags: ['inequality', 'lgbt', 'politics', 'the left wing']
 
  ## US coronavirus deaths could top 6,000 a day by December in worst-case scenario, expert predicts
  - [https://edition.cnn.com/world/live-news/coronavirus-pandemic-08-21-20-intl#h_e869402891201d42d0937c0fe789a1df](https://edition.cnn.com/world/live-news/coronavirus-pandemic-08-21-20-intl#h_e869402891201d42d0937c0fe789a1df)
- - date_published: 2020-08-21T11:39:16+00:00
+ - date_published: 2020-08-21T04:00:08+00:00
  - tags: ['covid', 'covid lie', 'fearmongering']
 
  ## US tells Kenya to publicly support Israel or forget free trade deal
  - [https://www.theeastafrican.co.ke/tea/news/east-africa/us-tells-kenya-to-support-israel-or-forget-free-trade-deal-2304192](https://www.theeastafrican.co.ke/tea/news/east-africa/us-tells-kenya-to-support-israel-or-forget-free-trade-deal-2304192)
  - date_published: 2020-08-21T12:51:44+00:00
  - tags: ['israel', 'manufacturing consent', 'usa']
+ - date_dead_since: 2025-08-13T09:24:07.248165+00:00
+
+ ## Dzieci odebrane Polce przez Jugendamt zostaną na razie u muzułmanów
+ - [https://wiadomosci.dziennik.pl/swiat/artykuly/7802606,jugendamt-polka-dzieci-rodzina-muzulmanie-niemcy.html](https://wiadomosci.dziennik.pl/swiat/artykuly/7802606,jugendamt-polka-dzieci-rodzina-muzulmanie-niemcy.html)
+ - date_published: 2020-08-21T14:32:59+00:00
+ - tags: ['big brother', 'children', 'germany']
+
+ ## Gates Foundation funds Facebook fact-checkers that defend it from allegations
+ - [https://reclaimthenet.org/gates-foundation-funds-facebook-fact-checkers](https://reclaimthenet.org/gates-foundation-funds-facebook-fact-checkers)
+ - date_published: 2020-08-22T02:52:55+00:00
+ - tags: ['bill gates', 'facebook', 'fact check']
 
  ## Enough with the Linux security FUD
  - [https://www.zdnet.com/article/enough-with-the-linux-security-fud](https://www.zdnet.com/article/enough-with-the-linux-security-fud)
@@ -1114,19 +1130,19 @@
 
  ## Academics Are Really, Really Worried About Their Freedom
  - [https://www.theatlantic.com/ideas/archive/2020/09/academics-are-really-really-worried-about-their-freedom/615724](https://www.theatlantic.com/ideas/archive/2020/09/academics-are-really-really-worried-about-their-freedom/615724)
- - date_published: 2020-09-01T22:02:49+00:00
+ - date_published: 2020-09-01T10:30:00+00:00
  - tags: ['cancel culture', 'censorship', 'racism', 'science', 'science is dead', 'the left wing']
 
  ## California Acts to Increase LGBT, Racial Diversity on Corporate Boards
  - [https://southfloridagaynews.com/National/california-acts-to-increase-lgbt-racial-diversity-on-corporate-boards.html](https://southfloridagaynews.com/National/california-acts-to-increase-lgbt-racial-diversity-on-corporate-boards.html)
  - date_published: 2020-09-02T21:12:40+00:00
  - tags: ['inequality', 'lgbt', 'socialism', 'the left wing']
- - date_dead_since: 2025-04-05T07:22:24.547037+00:00
+ - date_dead_since: 2025-08-13T07:28:07.511239+00:00
 
  ## Hedonism, Asceticism and the Hermetic Answer
  - [https://lukesmith.xyz/articles/hedonism-asceticism-and-the-hermetic-answer](https://lukesmith.xyz/articles/hedonism-asceticism-and-the-hermetic-answer)
  - date_published: 2020-09-03T00:00:00+00:00
- - date_dead_since: 2025-04-05T07:02:37.893028+00:00
+ - date_dead_since: 2025-08-13T07:19:14.066083+00:00
 
  ## Covid: Australian anti-lockdown suspect's arrest draws controversy - BBC News
  - [https://www.bbc.com/news/world-australia-54007824](https://www.bbc.com/news/world-australia-54007824)
@@ -1137,16 +1153,19 @@
  - [https://apnews.com/article/virus-outbreak-ap-top-news-race-and-ethnicity-id-state-wire-or-state-wire-b57315d97dd2146c4a89b4636faa7b70](https://apnews.com/article/virus-outbreak-ap-top-news-race-and-ethnicity-id-state-wire-or-state-wire-b57315d97dd2146c4a89b4636faa7b70)
  - date_published: 2020-09-04T14:30:38+00:00
  - tags: ['black lives matter', 'blm', 'defund the police']
+ - date_dead_since: 2025-08-13T06:44:17.463754+00:00
 
  ## Forget TikTok. China’s Powerhouse App Is WeChat. - The New York Times
  - [https://www.nytimes.com/2020/09/04/technology/wechat-china-united-states.html](https://www.nytimes.com/2020/09/04/technology/wechat-china-united-states.html)
  - date_published: 2020-09-04T16:12:51+00:00
  - tags: ['big brother', 'big tech', 'everything app', 'manufacturing consent', 'privacy', 'surveillance', 'technofeudalism', 'wechat']
+ - date_dead_since: 2025-08-13T06:35:06.453944+00:00
 
  ## Unity files to go public.  Will Apple now buy them? - Gaming Street
  - [https://gamingstreet.com/unity-files-to-go-public-will-apple-now-buy-them](https://gamingstreet.com/unity-files-to-go-public-will-apple-now-buy-them)
  - date_published: 2020-09-07T08:15:56+00:00
  - tags: ['game engines', 'unity']
+ - date_dead_since: 2025-08-13T06:23:07.594993+00:00
 
  ## Norway will prioritise lesbian, gay, bisexual and transgender refugees
  - [https://www.euronews.com/2020/07/09/norway-will-prioritise-lesbian-gay-bisexual-and-transgender-refugees](https://www.euronews.com/2020/07/09/norway-will-prioritise-lesbian-gay-bisexual-and-transgender-refugees)
@@ -1160,7 +1179,7 @@
 
  ## Rak jest groźniejszy niż koronawirus!
  - [https://wco.pl/2020/09/09/rak-jest-grozniejszy-niz-koronawirus](https://wco.pl/2020/09/09/rak-jest-grozniejszy-niz-koronawirus)
- - date_published: 2020-09-09T07:24:46+00:00
+ - date_published: 2020-09-09T07:03:20+00:00
  - tags: ['cancer', 'covid']
 
  ## Oscars' woke quota will backfire on Hollywood spectacularly
@@ -1182,6 +1201,7 @@
  - [https://www.nytimes.com/live/2020/2020-election-misinformation-distortions#facebook-sent-flawed-data-to-misinformation-researchers](https://www.nytimes.com/live/2020/2020-election-misinformation-distortions#facebook-sent-flawed-data-to-misinformation-researchers)
  - date_published: 2020-09-15T20:08:59+00:00
  - tags: ['corporatocracy', 'facebook', 'manufacturing consent', 'science is dead', 'technofeudalism']
+ - date_dead_since: 2025-08-13T05:38:12.348692+00:00
 
  ## Chińscy hakerzy latami kontrolowali systemy TeamViewera – i nie tylko
  - [https://zaufanatrzeciastrona.pl/post/chinscy-hakerzy-latami-kontrolowali-systemy-teamviewera-i-nie-tylko](https://zaufanatrzeciastrona.pl/post/chinscy-hakerzy-latami-kontrolowali-systemy-teamviewera-i-nie-tylko)
@@ -1195,13 +1215,14 @@
 
  ## Ekspert: Rząd w ustawie o cyberbezpieczeństwie wprowadza cenzurę internetu
  - [https://www.bankier.pl/wiadomosc/Ekspert-Rzad-w-ustawie-o-cyberbezpieczenstwie-wprowadza-cenzure-internetu-7964382.html](https://www.bankier.pl/wiadomosc/Ekspert-Rzad-w-ustawie-o-cyberbezpieczenstwie-wprowadza-cenzure-internetu-7964382.html)
- - date_published: 2020-09-18T07:03:50+00:00
+ - date_published: 2020-09-18T07:00:00+00:00
  - tags: ['big brother', 'censorship', 'free speech', 'government control']
 
  ## Trump Admin to Ban TikTok, WeChat From U.S. App Stores - The New York Times
  - [https://www.nytimes.com/2020/09/18/business/trump-tik-tok-wechat-ban.html](https://www.nytimes.com/2020/09/18/business/trump-tik-tok-wechat-ban.html)
  - date_published: 2020-09-18T21:40:47+00:00
  - tags: ['china', 'tiktok']
+ - date_dead_since: 2025-08-13T04:43:13.170662+00:00
 
  ## The Patriarchy Paradox
  - [https://www.youtube.com/watch?v=wTHgMxQEoPI](https://www.youtube.com/watch?v=wTHgMxQEoPI)
@@ -1223,20 +1244,10 @@
  - date_published: 2020-09-21T04:00:00+00:00
  - date_dead_since: 2024-04-23T01:42:28.187656+00:00
 
- ## Gates Foundation funds Facebook fact-checkers that defend it from allegations
- - [https://reclaimthenet.org/gates-foundation-funds-facebook-fact-checkers](https://reclaimthenet.org/gates-foundation-funds-facebook-fact-checkers)
- - date_published: 2020-09-21T07:17:36+00:00
- - tags: ['bill gates', 'facebook', 'fact check']
-
  ## Carbon emissions of richest 1 percent more than double the emissions of the poorest half of humanity
  - [https://www.oxfam.org/en/press-releases/carbon-emissions-richest-1-percent-more-double-emissions-poorest-half-humanity](https://www.oxfam.org/en/press-releases/carbon-emissions-richest-1-percent-more-double-emissions-poorest-half-humanity)
  - date_published: 2020-09-21T07:50:21+00:00
  - tags: ['carbon emissions', 'carbon footprint', 'climate change', 'climate drama', 'climate science']
-
- ## Dzieci odebrane Polce przez Jugendamt zostaną na razie u muzułmanów
- - [https://wiadomosci.dziennik.pl/swiat/artykuly/7802606,jugendamt-polka-dzieci-rodzina-muzulmanie-niemcy.html](https://wiadomosci.dziennik.pl/swiat/artykuly/7802606,jugendamt-polka-dzieci-rodzina-muzulmanie-niemcy.html)
- - date_published: 2020-09-21T08:55:52+00:00
- - tags: ['big brother', 'children', 'germany']
 
  ## Cold comfort: The sun is cooling; doesn't mean there'll be no global warming
  - [https://www.downtoearth.org.in/news/science-technology/cold-comfort-the-sun-is-cooling-doesn-t-mean-there-ll-be-no-global-warming-73488](https://www.downtoearth.org.in/news/science-technology/cold-comfort-the-sun-is-cooling-doesn-t-mean-there-ll-be-no-global-warming-73488)
@@ -1245,7 +1256,7 @@
 
  ## BLM removes website language blasting 'nuclear family structure'
  - [https://nypost.com/2020/09/24/blm-removes-website-language-blasting-nuclear-family-structure](https://nypost.com/2020/09/24/blm-removes-website-language-blasting-nuclear-family-structure)
- - date_published: 2020-09-24T21:02:02+00:00
+ - date_published: 2020-09-24T18:36:00+00:00
  - tags: ['black lives matter', 'family']
 
  ## Dlaczego nie warto słuchać ludzi sukcesu?
@@ -1264,7 +1275,7 @@
 
  ## BLM leader arrested for allegedly spending $200K in donations on tailored suits, a house, and guns | Washington Examiner
  - [https://www.washingtonexaminer.com/news/blm-leader-arrested-for-allegedly-spending-200k-in-donations-on-tailored-suits-a-house-and-guns](https://www.washingtonexaminer.com/news/blm-leader-arrested-for-allegedly-spending-200k-in-donations-on-tailored-suits-a-house-and-guns)
- - date_published: 2020-09-27T19:17:54+00:00
+ - date_published: 2020-09-27T14:20:11+00:00
  - tags: ['black lives matter', 'hypocrisy']
 
  ## Three million Uyghurs detained in concentration camps by Beijing: Activist - The Economic Times
@@ -1294,7 +1305,7 @@
 
  ## Powstało izolatorium dla zakażonych koronawirusem | 24jgora.pl
  - [https://24jgora.pl/artykul/powstalo-izolatorium/1085260](https://24jgora.pl/artykul/powstalo-izolatorium/1085260)
- - date_published: 2020-10-01T19:53:32+00:00
+ - date_published: 2020-10-01T08:28:50+00:00
  - tags: ['covid', 'poland', 'quarantine']
 
  ## 'Woke utopia', the end of the West & a new cult - James Lindsay interview - BQ #33
@@ -1315,17 +1326,18 @@
  - [https://www.tvp.info/50178233/artykul-o-margot-na-anglojezycznej-wikipedii-z-najwyzszym-poziomem-ochrony-tylko-nieliczni-moga-ingerowac-w-tresc-wieszwiecej](https://www.tvp.info/50178233/artykul-o-margot-na-anglojezycznej-wikipedii-z-najwyzszym-poziomem-ochrony-tylko-nieliczni-moga-ingerowac-w-tresc-wieszwiecej)
  - date_published: 2020-10-04T21:09:53+00:00
  - tags: ['inequality', 'lgbt', 'margot', 'the left wing']
- - date_dead_since: 2024-10-24T15:01:20.662797+00:00
+ - date_dead_since: 2025-08-13T02:03:11.850624+00:00
+
+ ## While the Poor Get Sick, Bill Gates Just Gets Richer | The Nation
+ - [https://www.thenation.com/article/economy/bill-gates-investments-covid](https://www.thenation.com/article/economy/bill-gates-investments-covid)
+ - date_published: 2020-10-05T09:30:32+00:00
+ - tags: ['bill gates', 'billionaires', 'covid', 'elites']
 
  ## A WeChat Ban Would End Their Lifeline - The New York Times
  - [https://www.nytimes.com/2020/10/05/nyregion/us-wechat-ban.html](https://www.nytimes.com/2020/10/05/nyregion/us-wechat-ban.html)
  - date_published: 2020-10-05T16:16:09+00:00
  - tags: ['china', 'everything app', 'privacy', 'surveillance', 'technofeudalism', 'wechat']
-
- ## While the Poor Get Sick, Bill Gates Just Gets Richer | The Nation
- - [https://www.thenation.com/article/economy/bill-gates-investments-covid](https://www.thenation.com/article/economy/bill-gates-investments-covid)
- - date_published: 2020-10-05T17:20:37+00:00
- - tags: ['bill gates', 'billionaires', 'covid', 'elites']
+ - date_dead_since: 2025-08-13T01:53:07.414676+00:00
 
  ## Udawali homoseksualizm, żeby dostać azyl? Nawet kilkaset przypadków w Holandii - Polsat News
  - [https://www.polsatnews.pl/wiadomosc/2020-10-06/udawali-homoseksualizm-zeby-dostac-azyl-nawet-kilkaset-przypadkow-w-holandii/?ref=aside_najnowsze](https://www.polsatnews.pl/wiadomosc/2020-10-06/udawali-homoseksualizm-zeby-dostac-azyl-nawet-kilkaset-przypadkow-w-holandii/?ref=aside_najnowsze)
@@ -1337,15 +1349,15 @@
  - date_published: 2020-10-07T19:52:53+00:00
  - tags: ['covid', 'crisis']
 
+ ## WHO official urges world leaders to stop using lockdowns as primary virus control method | Washington Examiner
+ - [https://www.washingtonexaminer.com/news/who-official-urges-world-leaders-to-stop-using-lockdowns-as-primary-virus-control-method](https://www.washingtonexaminer.com/news/who-official-urges-world-leaders-to-stop-using-lockdowns-as-primary-virus-control-method)
+ - date_published: 2020-10-10T15:14:09+00:00
+ - tags: ['covid', 'lockdown', 'who']
+
  ## EU's Digital Service Act will force makers to allow you to uninstall bloatware
  - [https://m.gsmarena.com/eus_digital_service_act_will_allow_you_to_uninstall_bloatware-news-45578.php](https://m.gsmarena.com/eus_digital_service_act_will_allow_you_to_uninstall_bloatware-news-45578.php)
  - date_published: 2020-10-10T18:35:47+00:00
  - tags: ['digital service act', 'government control']
-
- ## WHO official urges world leaders to stop using lockdowns as primary virus control method | Washington Examiner
- - [https://www.washingtonexaminer.com/news/who-official-urges-world-leaders-to-stop-using-lockdowns-as-primary-virus-control-method](https://www.washingtonexaminer.com/news/who-official-urges-world-leaders-to-stop-using-lockdowns-as-primary-virus-control-method)
- - date_published: 2020-10-10T19:51:18+00:00
- - tags: ['covid', 'lockdown', 'who']
 
  ## How to Trick Your Brain to Like Doing Hard Things – Atomic Habits by James Clear
  - [https://www.youtube.com/watch?v=o7w5r5PfBKo](https://www.youtube.com/watch?v=o7w5r5PfBKo)
