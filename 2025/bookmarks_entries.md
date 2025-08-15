@@ -258,7 +258,7 @@
 
  ## These Words Are Disappearing in the New Trump Administration
  - [https://www.nytimes.com/interactive/2025/03/07/us/trump-federal-agencies-websites-words-dei.html](https://www.nytimes.com/interactive/2025/03/07/us/trump-federal-agencies-websites-words-dei.html)
- - date_published: 2025-03-07T19:17:15+00:00
+ - date_published: 2025-03-07T18:17:15+00:00
  - tags: ['censorship', 'fahrenheit 451']
 
  ## Gender stereotypes are often accurate but vary in magnitude depending on the criterion
@@ -354,7 +354,7 @@
 
  ## EC admits ‘misuse’ and ‘undue lobbying activities’ in grant awards
  - [https://brusselssignal.eu/2025/04/ec-admits-misuse-and-undue-lobbying-activities-in-grant-awards](https://brusselssignal.eu/2025/04/ec-admits-misuse-and-undue-lobbying-activities-in-grant-awards)
- - date_published: 2025-04-02T16:32:18+00:00
+ - date_published: 2025-04-02T14:32:18+00:00
  - tags: ['climate change', 'lobbying']
 
  ## Lazarus Group Targets Organizations with Sophisticated LinkedIn Recruiting Scam

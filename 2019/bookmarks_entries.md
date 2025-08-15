@@ -671,7 +671,7 @@
 
  ## LGBTQ Comedians Respond to Dave Chappelle’s ‘Sticks and Stones’
  - [https://www.thewrap.com/lgbtq-comedians-respond-to-dave-chappelles-sticks-and-stones](https://www.thewrap.com/lgbtq-comedians-respond-to-dave-chappelles-sticks-and-stones)
- - date_published: 2019-09-05T20:03:27+00:00
+ - date_published: 2019-09-05T17:59:52+00:00
  - tags: ['comedy', 'lgbt', 'the left wing']
 
  ## Żywot programisty
@@ -681,7 +681,7 @@
 
  ## 17 Reasons NOT To Be A Manager – charity.wtf
  - [https://charity.wtf/2019/09/08/reasons-not-to-be-a-manager](https://charity.wtf/2019/09/08/reasons-not-to-be-a-manager)
- - date_published: 2019-09-08T19:38:18+00:00
+ - date_published: 2019-09-08T07:02:34+00:00
  - tags: ['management']
 
  ## Why Tesla is a Privacy Nightmare
@@ -720,7 +720,7 @@
 
  ## Three Catholic churches in El Paso targeted in arson attacks, the FBI says
  - [https://www.cnn.com/2019/09/22/us/el-paso-churches-arson-attacks/index.html](https://www.cnn.com/2019/09/22/us/el-paso-churches-arson-attacks/index.html)
- - date_published: 2019-09-22T09:03:03+00:00
+ - date_published: 2019-09-22T08:32:48+00:00
  - tags: ['christianophobia']
 
  ## Efekt Snowdena - czy nasza prywatność w Internecie JEST BEZPIECZNA? [TOPOWA DYCHA]
@@ -730,18 +730,18 @@
 
  ## The Green Swindlers Behind Greta Thunberg
  - [https://greenjihad.com/2019/09/29/the-green-swindlers-behind-greta-thunberg](https://greenjihad.com/2019/09/29/the-green-swindlers-behind-greta-thunberg)
- - date_published: 2019-09-29T20:06:07+00:00
+ - date_published: 2019-09-29T03:32:03+00:00
  - tags: ['climate change', 'corporatocracy', 'greta thunberg']
+
+ ## Who is Bishop McCarrick and what are his crimes?
+ - [https://www.irishcentral.com/news/bishop-mccarrick-crimes](https://www.irishcentral.com/news/bishop-mccarrick-crimes)
+ - date_published: 2019-09-30T02:43:00+00:00
+ - tags: ['america', 'catholic', 'church scandal', 'religion']
 
  ## Playing more video games could increase creative thinking at work
  - [https://www.weforum.org/agenda/2019/09/gamification-revolutionise-creative-thinking](https://www.weforum.org/agenda/2019/09/gamification-revolutionise-creative-thinking)
  - date_published: 2019-09-30T09:12:44+00:00
  - tags: ['games', 'programming', 'work']
-
- ## Who is Bishop McCarrick and what are his crimes?
- - [https://www.irishcentral.com/news/bishop-mccarrick-crimes](https://www.irishcentral.com/news/bishop-mccarrick-crimes)
- - date_published: 2019-09-30T15:33:50+00:00
- - tags: ['america', 'catholic', 'church scandal', 'religion']
 
  ## Twitter executive for Middle East is British Army 'psyops' soldier | Middle East Eye
  - [https://www.middleeasteye.net/news/twitter-executive-also-part-time-officer-uk-army-psychological-warfare-unit](https://www.middleeasteye.net/news/twitter-executive-also-part-time-officer-uk-army-psychological-warfare-unit)
@@ -756,7 +756,7 @@
 
  ## Eyes Wide Shut and the Moral Bankruptcy of the American Elite
  - [https://lawliberty.org/eyes-wide-shut-and-the-moral-bankruptcy-of-the-american-elite](https://lawliberty.org/eyes-wide-shut-and-the-moral-bankruptcy-of-the-american-elite)
- - date_published: 2019-10-04T20:29:42+00:00
+ - date_published: 2019-10-04T00:00:00+00:00
  - tags: ['billionaires', 'eyes wide shut', 'jeffrey epstein']
 
  ## 'We are hurtling towards a surveillance state’: the rise of facial recognition technology
@@ -796,18 +796,18 @@
 
  ## Revealed: the 20 firms behind a third of all carbon emissions
  - [https://www.theguardian.com/environment/2019/oct/09/revealed-20-firms-third-carbon-emissions](https://www.theguardian.com/environment/2019/oct/09/revealed-20-firms-third-carbon-emissions)
- - date_published: 2019-10-09T14:34:31+00:00
+ - date_published: 2019-10-09T11:00:11+00:00
  - tags: ['carbon emissions', 'carbon footprint', 'climate change']
+
+ ## NSA: A Declassified Court Ruling Shows How the FBI Abused NSA Mass Surveillance Data
+ - [https://theintercept.com/2019/10/10/fbi-nsa-mass-surveillance-abuse](https://theintercept.com/2019/10/10/fbi-nsa-mass-surveillance-abuse)
+ - date_published: 2019-10-10T11:00:53+00:00
+ - tags: ['big brother', 'fbi', 'nsa', 'privacy', 'surveillance']
 
  ## Google pulls Hong Kong protest game for violating rules against ‘capitalizing on sensitive events’
  - [https://www.theverge.com/2019/10/10/20908034/google-hong-kong-protest-game-play-store-removed-rules](https://www.theverge.com/2019/10/10/20908034/google-hong-kong-protest-game-play-store-removed-rules)
  - date_published: 2019-10-10T12:10:31+00:00
  - tags: ['censorship', 'china', 'google', 'hong kong']
-
- ## NSA: A Declassified Court Ruling Shows How the FBI Abused NSA Mass Surveillance Data
- - [https://theintercept.com/2019/10/10/fbi-nsa-mass-surveillance-abuse](https://theintercept.com/2019/10/10/fbi-nsa-mass-surveillance-abuse)
- - date_published: 2019-10-10T13:37:51+00:00
- - tags: ['big brother', 'fbi', 'nsa', 'privacy', 'surveillance']
 
  ## Bill Gates Met With Jeffrey Epstein Many Times, Despite His Past - The New York Times
  - [https://www.nytimes.com/2019/10/12/business/jeffrey-epstein-bill-gates.html](https://www.nytimes.com/2019/10/12/business/jeffrey-epstein-bill-gates.html)
@@ -853,6 +853,7 @@
  - [https://bezprawnik.pl/przed-polskim-sadem-barnevernet-norwegia](https://bezprawnik.pl/przed-polskim-sadem-barnevernet-norwegia)
  - date_published: 2019-10-24T08:56:59+00:00
  - tags: ['big brother', 'norway']
+ - date_dead_since: 2025-08-14T19:25:58.572607+00:00
 
  ## https://frontstory.pl/farma-trolli-praca-tvp-dezinformacja
  - [https://frontstory.pl/farma-trolli-praca-tvp-dezinformacja](https://frontstory.pl/farma-trolli-praca-tvp-dezinformacja)
@@ -892,6 +893,7 @@
  - [https://www.christianheadlines.com/contributors/mikaela-matthews/79-year-old-man-beat-on-new-york-subway-for-preaching-gospel.html](https://www.christianheadlines.com/contributors/mikaela-matthews/79-year-old-man-beat-on-new-york-subway-for-preaching-gospel.html)
  - date_published: 2019-11-05T20:56:43+00:00
  - tags: ['intolerance', 'lgbt', 'transgender']
+ - date_dead_since: 2025-08-14T18:34:40.075115+00:00
 
  ## Why Rey is a Mary Sue and Luke Skywalker is Not
  - [https://www.youtube.com/watch?v=JN8Qm5o0oSY](https://www.youtube.com/watch?v=JN8Qm5o0oSY)
@@ -905,7 +907,7 @@
 
  ## YouTube says it has ‘no obligation’ to host anyone’s video
  - [https://www.theverge.com/2019/11/11/20955864/youtube-terms-of-service-update-terminations-children-content-ftc](https://www.theverge.com/2019/11/11/20955864/youtube-terms-of-service-update-terminations-children-content-ftc)
- - date_published: 2019-11-11T19:57:35+00:00
+ - date_published: 2019-11-11T14:53:47+00:00
  - tags: ['censorship', 'monopoly', 'subscription', 'technofeudalism', 'youtube']
 
  ## GitHub Arctic Code Vault
@@ -920,7 +922,7 @@
 
  ## Facebook has shut down 5.4 billion fake accounts this year, but millions likely remain | CNN Business
  - [https://edition.cnn.com/2019/11/13/tech/facebook-fake-accounts/index.html](https://edition.cnn.com/2019/11/13/tech/facebook-fake-accounts/index.html)
- - date_published: 2019-11-13T21:39:19+00:00
+ - date_published: 2019-11-13T20:29:59+00:00
  - tags: ['bots', 'dead internet', 'facebook']
 
  ## Jonathan Pageau: The Surprising Symbolism of 666
@@ -955,7 +957,7 @@
 
  ## He invented the web. Now he's warning of a looming 'digital dystopia'
  - [https://www.cnn.com/2019/11/25/tech/berners-lee-web-safer-plan-scli-intl/index.html](https://www.cnn.com/2019/11/25/tech/berners-lee-web-safer-plan-scli-intl/index.html)
- - date_published: 2019-11-25T12:39:10+00:00
+ - date_published: 2019-11-25T12:06:17+00:00
  - tags: ['all time', 'big tech', 'dystopia', 'internet', 'privacy', 'surveillance', 'tim berners-lee']
 
  ## Bringing the Unix Philosophy to the 21st Century | Brazil's Blog
@@ -969,7 +971,7 @@
 
  ## Behind the One-Way Mirror: A Deep Dive Into the Technology of Corporate Surveillance | Electronic Frontier Foundation
  - [https://www.eff.org/wp/behind-the-one-way-mirror](https://www.eff.org/wp/behind-the-one-way-mirror)
- - date_published: 2019-12-02T11:48:04+00:00
+ - date_published: 2019-12-02T08:21:48+00:00
  - tags: ['ad business', 'corporatocracy', 'surviellance']
 
  ## What rich countries get wrong about the EU budget
@@ -982,11 +984,6 @@
  - date_published: 2019-12-06T18:52:18+00:00
  - tags: ['climate change', 'corporatocracy', 'greta thunberg']
 
- ## The Untold Truth Of The Satanic Temple
- - [https://www.grunge.com/132693/the-untold-truth-of-the-satanic-temple](https://www.grunge.com/132693/the-untold-truth-of-the-satanic-temple)
- - date_published: 2019-12-09T13:28:24+00:00
- - tags: ['satanic temple']
-
  ## Senators threaten encryption regulation for tech companies
  - [https://www.cnbc.com/2019/12/10/senators-threaten-encryption-regulation-for-tech-companies.html](https://www.cnbc.com/2019/12/10/senators-threaten-encryption-regulation-for-tech-companies.html)
  - date_published: 2019-12-10T07:38:08+00:00
@@ -994,7 +991,7 @@
 
  ## Google Hands Feds 1,500 Phone Locations In Unprecedented ‘Geofence’ Search
  - [https://www.forbes.com/sites/thomasbrewster/2019/12/11/google-gives-feds-1500-leads-to-arsonist-smartphones-in-unprecedented-geofence-search](https://www.forbes.com/sites/thomasbrewster/2019/12/11/google-gives-feds-1500-leads-to-arsonist-smartphones-in-unprecedented-geofence-search)
- - date_published: 2019-12-11T09:55:37+00:00
+ - date_published: 2019-12-11T00:00:00+00:00
  - tags: ['google', 'surveillance', 'technofeudalism', 'tracking']
 
  ## If American Psycho were about Programmers
@@ -1015,7 +1012,7 @@
 
  ## New York public school rejects student Christian club, OKs LGBT Pride Club
  - [https://www.christianpost.com/news/new-york-public-school-rejects-student-christian-club-oks-lgbt-pride-club.html?fbclid=IwAR0XGOCi2lUIsLetSjnCZN91O05rCeaWGsR0z2E5dBtfH_E-2OEFqVqi3eA](https://www.christianpost.com/news/new-york-public-school-rejects-student-christian-club-oks-lgbt-pride-club.html?fbclid=IwAR0XGOCi2lUIsLetSjnCZN91O05rCeaWGsR0z2E5dBtfH_E-2OEFqVqi3eA)
- - date_published: 2019-12-12T21:08:10+00:00
+ - date_published: 2019-12-12T17:29:16+00:00
  - tags: ['christianophobia', 'inequality', 'lgbt', 'new york']
 
  ## Apple Requiring Notarization for Non Mac App Store Apps Starting February 2020 - MacRumors
@@ -1025,14 +1022,13 @@
 
  ## Apple and Google named in US lawsuit over Congolese child cobalt mining deaths
  - [https://www.theguardian.com/global-development/2019/dec/16/apple-and-google-named-in-us-lawsuit-over-congolese-child-cobalt-mining-deaths](https://www.theguardian.com/global-development/2019/dec/16/apple-and-google-named-in-us-lawsuit-over-congolese-child-cobalt-mining-deaths)
- - date_published: 2019-12-16T15:07:16+00:00
+ - date_published: 2019-12-16T10:28:12+00:00
  - tags: ['apple', 'congo', 'google', 'tesla']
 
  ## Opinion | Twelve Million Phones, One Dataset, Zero Privacy - The New York Times
  - [https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html](https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html)
- - date_published: 2019-12-19T20:45:17+00:00
+ - date_published: 2019-12-19T10:01:03+00:00
  - tags: ['anonymity', 'big brother', 'privacy', 'surveillance']
- - date_dead_since: 2025-04-06T15:12:42.364602+00:00
 
  ## Fifteen years in Iowa jail for burning pride flag
  - [https://www.bbc.com/news/world-us-canada-50861259](https://www.bbc.com/news/world-us-canada-50861259)

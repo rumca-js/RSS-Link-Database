@@ -20,7 +20,7 @@
 
  ## Why Stakeholder Capitalism Will Fail
  - [https://www.forbes.com/sites/stevedenning/2020/01/05/why-stakeholder-capitalism-will-fail](https://www.forbes.com/sites/stevedenning/2020/01/05/why-stakeholder-capitalism-will-fail)
- - date_published: 2020-01-05T08:54:26+00:00
+ - date_published: 2020-01-05T00:00:00+00:00
  - tags: ['esg', 'stakeholder capitalism', 'wef', 'world economic forum']
 
  ## A Look Inside Jeffrey Epstein’s Prison Cell
@@ -43,21 +43,22 @@
  - [https://www.wsj.com/articles/new-virus-discovered-by-chinese-scientists-investigating-pneumonia-outbreak-11578485668?mod=article_inline](https://www.wsj.com/articles/new-virus-discovered-by-chinese-scientists-investigating-pneumonia-outbreak-11578485668?mod=article_inline)
  - date_published: 2020-01-08T07:50:34+00:00
  - tags: ['covid', 'covid origins', 'fearmongering', 'lab leak']
+ - date_dead_since: 2025-08-14T14:10:21.244859+00:00
 
  ## Ring Fired Employees for Watching Customer Videos
  - [https://www.vice.com/en/article/y3mdvk/ring-fired-employees-abusing-video-data](https://www.vice.com/en/article/y3mdvk/ring-fired-employees-abusing-video-data)
  - date_published: 2020-01-08T12:16:22+00:00
  - tags: ['amazon', 'iot', 'privacy', 'ring', 'tracking']
 
+ ## Experience: I campaign for the extinction of the human race
+ - [https://www.theguardian.com/lifeandstyle/2020/jan/10/i-campaign-for-the-extinction-of-the-human-race-les-knight](https://www.theguardian.com/lifeandstyle/2020/jan/10/i-campaign-for-the-extinction-of-the-human-race-les-knight)
+ - date_published: 2020-01-10T10:00:34+00:00
+ - tags: ['depopulation', 'propaganda', 'voluntary human extinction']
+
  ## Jeffrey Epstein: Jail CCTV erased by 'technical errors'
  - [https://www.bbc.com/news/world-us-canada-51053205](https://www.bbc.com/news/world-us-canada-51053205)
  - date_published: 2020-01-10T12:10:59+00:00
  - tags: ['jeffrey epstein']
-
- ## Experience: I campaign for the extinction of the human race
- - [https://www.theguardian.com/lifeandstyle/2020/jan/10/i-campaign-for-the-extinction-of-the-human-race-les-knight](https://www.theguardian.com/lifeandstyle/2020/jan/10/i-campaign-for-the-extinction-of-the-human-race-les-knight)
- - date_published: 2020-01-10T20:43:50+00:00
- - tags: ['depopulation', 'propaganda', 'voluntary human extinction']
 
  ## Anger over use of facial recognition at south Wales football derby
  - [https://www.theguardian.com/technology/2020/jan/12/anger-over-use-facial-recognition-south-wales-football-derby-cardiff-swansea](https://www.theguardian.com/technology/2020/jan/12/anger-over-use-facial-recognition-south-wales-football-derby-cardiff-swansea)
@@ -71,7 +72,7 @@
 
  ## Facebook Glitch Reveals Greta Thunberg’s Posts Are Written by Her Father: Report
  - [https://www.thegatewaypundit.com/2020/01/facebook-glitch-reveals-greta-thunbergs-posts-are-written-by-her-father-report](https://www.thegatewaypundit.com/2020/01/facebook-glitch-reveals-greta-thunbergs-posts-are-written-by-her-father-report)
- - date_published: 2020-01-14T19:00:28+00:00
+ - date_published: 2020-01-14T16:35:14+00:00
  - tags: ['climate change', 'corporatocracy', 'greta thunberg']
 
  ## COVID-19 pandemic
@@ -82,11 +83,17 @@
  ## The Secretive Company That Might End Privacy as We Know It - The New York Times
  - [https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html](https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html)
  - date_published: 2020-01-18T19:58:54+00:00
+ - date_dead_since: 2025-08-14T13:39:32.097437+00:00
 
  ## 2 lawyers on Trump defense team shared Epstein as a client
  - [https://www.ksat.com/news/politics/2020/01/24/2-lawyers-on-trump-defense-team-shared-epstein-as-a-client](https://www.ksat.com/news/politics/2020/01/24/2-lawyers-on-trump-defense-team-shared-epstein-as-a-client)
  - date_published: 2020-01-23T11:48:14+00:00
  - tags: ['donald trump', 'jeffrey epstein']
+
+ ## Disturbing Footages Show People Collapsing in Virus-Hit Chinese City of Wuhan
+ - [https://www.tasnimnews.com/en/news/2020/01/24/2188257/disturbing-footages-show-people-collapsing-in-virus-hit-chinese-city-of-wuhan](https://www.tasnimnews.com/en/news/2020/01/24/2188257/disturbing-footages-show-people-collapsing-in-virus-hit-chinese-city-of-wuhan)
+ - date_published: 2020-01-24T00:00:00+00:00
+ - tags: ['covid', 'fearmongering', 'lab leak', 'propaganda', 'wuhan']
 
  ## Yuval Noah Harari: How to Survive the 21st Century- Davos 2020
  - [https://www.youtube.com/watch?v=gG6WnMb9Fho](https://www.youtube.com/watch?v=gG6WnMb9Fho)
@@ -97,11 +104,6 @@
  - [https://katowice.wyborcza.pl/katowice/7,35063,25625647,stonoge-oskarzono-za-ujawnienie-film-na-ktorym-ksiadz-uprawia.html](https://katowice.wyborcza.pl/katowice/7,35063,25625647,stonoge-oskarzono-za-ujawnienie-film-na-ktorym-ksiadz-uprawia.html)
  - date_published: 2020-01-24T07:35:12+00:00
  - tags: ['church scandal', 'homosexuality']
-
- ## Disturbing Footages Show People Collapsing in Virus-Hit Chinese City of Wuhan
- - [https://www.tasnimnews.com/en/news/2020/01/24/2188257/disturbing-footages-show-people-collapsing-in-virus-hit-chinese-city-of-wuhan](https://www.tasnimnews.com/en/news/2020/01/24/2188257/disturbing-footages-show-people-collapsing-in-virus-hit-chinese-city-of-wuhan)
- - date_published: 2020-01-24T07:54:11+00:00
- - tags: ['covid', 'fearmongering', 'lab leak', 'propaganda', 'wuhan']
 
  ## How to Survive the 21st Century - Yuval Noah Harari | Open Transcripts
  - [http://opentranscripts.org/transcript/survive-21st-century](http://opentranscripts.org/transcript/survive-21st-century)
@@ -117,12 +119,12 @@
  - [https://mashable.com/article/facebook-will-remove-coronavirus-conspiracy-theories](https://mashable.com/article/facebook-will-remove-coronavirus-conspiracy-theories)
  - date_published: 2020-01-30T08:40:59+00:00
  - tags: ['censorship', 'covid', 'facebook', 'lab leak', 'moderation', 'wuhan']
- - date_dead_since: 2025-04-06T11:40:48.673946+00:00
 
  ## Australia defends plan to create island quarantine camp | AP News
  - [https://apnews.com/c129280f6ab2a832908b8dcf4888364b](https://apnews.com/c129280f6ab2a832908b8dcf4888364b)
  - date_published: 2020-01-30T20:15:13+00:00
  - tags: ['australia', 'covid', 'quarantine']
+ - date_dead_since: 2025-08-14T13:08:26.010058+00:00
 
  ## Amiga Samplers: Budget dance music in 1990
  - [https://www.youtube.com/watch?v=i9MXYZh1jcs](https://www.youtube.com/watch?v=i9MXYZh1jcs)
@@ -131,19 +133,19 @@
 
  ## A man lies dead in the street: the image that captures the Wuhan coronavirus crisis
  - [https://www.theguardian.com/world/2020/jan/31/a-man-lies-dead-in-the-street-the-image-that-captures-the-wuhan-coronavirus-crisis](https://www.theguardian.com/world/2020/jan/31/a-man-lies-dead-in-the-street-the-image-that-captures-the-wuhan-coronavirus-crisis)
- - date_published: 2020-01-31T07:24:23+00:00
+ - date_published: 2020-01-31T04:45:58+00:00
  - tags: ['covid', 'fearmongering', 'lab leak', 'propaganda', 'wuhan']
+
+ ## Texas mother trying to transition her seven-year-old son into a girl loses in court as judge orders her to share custody with ex-husband who says boy is just 'confused'
+ - [https://www.dailymail.co.uk/news/article-7950655/Mother-trying-transition-son-girl-loses-court-judge-orders-parents-joint-custody.html](https://www.dailymail.co.uk/news/article-7950655/Mother-trying-transition-son-girl-loses-court-judge-orders-parents-joint-custody.html)
+ - date_published: 2020-01-31T05:47:39+00:00
+ - tags: ['family', 'lgbt', 'the left wing', 'transgender', 'usa']
 
  ## Coronavirus Outbreak: Man lies dead on a street in China
  - [https://www.youtube.com/watch?v=CYKeefzKGOI](https://www.youtube.com/watch?v=CYKeefzKGOI)
  - date_published: 2020-01-31T07:48:27+00:00
  - tags: ['covid', 'fearmongering', 'lab leak', 'propaganda', 'wuhan']
  - date_dead_since: 2025-02-10T12:20:08.752577+00:00
-
- ## Texas mother trying to transition her seven-year-old son into a girl loses in court as judge orders her to share custody with ex-husband who says boy is just 'confused'
- - [https://www.dailymail.co.uk/news/article-7950655/Mother-trying-transition-son-girl-loses-court-judge-orders-parents-joint-custody.html](https://www.dailymail.co.uk/news/article-7950655/Mother-trying-transition-son-girl-loses-court-judge-orders-parents-joint-custody.html)
- - date_published: 2020-01-31T08:51:05+00:00
- - tags: ['family', 'lgbt', 'the left wing', 'transgender', 'usa']
 
  ## Coronavirus has people keeling over in streets - TomoNews
  - [https://www.youtube.com/watch?v=Uf4-Vzf1CyM](https://www.youtube.com/watch?v=Uf4-Vzf1CyM)
@@ -153,12 +155,12 @@
 
  ## U.K. Educator Uses YouTube To Treat Panic Of Coronavirus Myths
  - [https://www.forbes.com/sites/johnscottlewinski/2020/02/07/uk-doctor-uses-youtube-to-treat-panic-of-coronavirus-myths](https://www.forbes.com/sites/johnscottlewinski/2020/02/07/uk-doctor-uses-youtube-to-treat-panic-of-coronavirus-myths)
- - date_published: 2020-02-07T08:51:27+00:00
+ - date_published: 2020-02-07T00:00:00+00:00
  - tags: ['covid', 'dr. john campbell']
 
  ## How the CIA used Crypto AG encryption devices to spy on countries for decades
  - [https://www.washingtonpost.com/graphics/2020/world/national-security/cia-crypto-encryption-machines-espionage](https://www.washingtonpost.com/graphics/2020/world/national-security/cia-crypto-encryption-machines-espionage)
- - date_published: 2020-02-11T11:03:42+00:00
+ - date_published: 2020-02-11T00:00:00+00:00
  - tags: ['america', 'big brother', 'cia', 'crypto ag', 'crypto wars', 'espionage', 'government control', 'spyware', 'surveillance', 'tech control']
 
  ## Becoming a Technical Leader
@@ -198,24 +200,25 @@
 
  ## Sophie Lewis Is Reviving the Case for Abolishing the Family
  - [https://www.vice.com/en/article/qjdzwb/sophie-lewis-feminist-abolishing-the-family-full-surrogacy-now](https://www.vice.com/en/article/qjdzwb/sophie-lewis-feminist-abolishing-the-family-full-surrogacy-now)
- - date_published: 2020-02-21T21:54:24+00:00
+ - date_published: 2020-02-21T14:00:00+00:00
  - tags: ['christianophobia', 'family', 'feminism']
 
  ## BlackRock’s black box: the technology hub of modern finance - Financial Times | Busi Buggy
  - [https://busibuggy.blogspot.com/2020/02/blackrocks-black-box-technology-hub-of.html](https://busibuggy.blogspot.com/2020/02/blackrocks-black-box-technology-hub-of.html)
  - date_published: 2020-02-23T22:16:00+00:00
  - tags: ['aladdin', 'artificial intelligence', 'blackrock']
- - date_dead_since: 2024-10-25T10:05:48.671049+00:00
+ - date_dead_since: 2025-08-14T09:33:12.264859+00:00
+
+ ## Your smart speaker could be listening in on your conversations by accident
+ - [https://www.techradar.com/news/your-smart-speaker-could-be-accidentally-listening-in-on-your-conversations](https://www.techradar.com/news/your-smart-speaker-could-be-accidentally-listening-in-on-your-conversations)
+ - date_published: 2020-02-26T10:04:05+00:00
+ - tags: ['iot', 'privacy', 'smart home', 'vulnerability']
 
  ## Prince Andrew Linked to Another 'Predator': Alleged Pedophile and Rapist Peter Nygard
  - [https://humansbefree.com/2020/02/prince-andrew-peter-nygard.html](https://humansbefree.com/2020/02/prince-andrew-peter-nygard.html)
  - date_published: 2020-02-26T10:24:40+00:00
  - tags: ['paedophilia', 'peter nygard', 'prince andrew']
-
- ## Your smart speaker could be listening in on your conversations by accident
- - [https://www.techradar.com/news/your-smart-speaker-could-be-accidentally-listening-in-on-your-conversations](https://www.techradar.com/news/your-smart-speaker-could-be-accidentally-listening-in-on-your-conversations)
- - date_published: 2020-02-26T20:50:35+00:00
- - tags: ['iot', 'privacy', 'smart home', 'vulnerability']
+ - date_dead_since: 2025-08-14T09:16:53.234788+00:00
 
  ## Charlie's Angels — How Gender Obsession Can Ruin a Film | Anatomy Of A Failure
  - [https://www.youtube.com/watch?v=xeX4qvP5mGg](https://www.youtube.com/watch?v=xeX4qvP5mGg)
@@ -226,6 +229,7 @@
  - [https://www.nytimes.com/2020/02/29/health/coronavirus-n95-face-masks.html](https://www.nytimes.com/2020/02/29/health/coronavirus-n95-face-masks.html)
  - date_published: 2020-02-29T15:28:58+00:00
  - tags: ['covid', 'masks']
+ - date_dead_since: 2025-08-14T08:57:47.815741+00:00
 
  ## China officially makes internet rumor-mongering a crime amid coronavirus
  - [https://www.scmp.com/abacus/news-bites/article/3064586/china-officially-makes-internet-rumor-mongering-crime-amid](https://www.scmp.com/abacus/news-bites/article/3064586/china-officially-makes-internet-rumor-mongering-crime-amid)
@@ -294,6 +298,7 @@
  ## Yuval Noah Harari: the world after coronavirus | Free to read
  - [https://www.ft.com/content/19d90308-6858-11ea-a3c9-1fe6fedcca75#comments-anchor](https://www.ft.com/content/19d90308-6858-11ea-a3c9-1fe6fedcca75#comments-anchor)
  - date_published: 2020-03-20T14:11:41+00:00
+ - date_dead_since: 2025-08-14T07:07:40.203977+00:00
 
  ## Microservices
  - [https://www.youtube.com/watch?v=y8OnoxKotPQ](https://www.youtube.com/watch?v=y8OnoxKotPQ)
@@ -304,6 +309,7 @@
  - [https://www.nytimes.com/2020/03/25/business/blackrock-federal-reserve.html](https://www.nytimes.com/2020/03/25/business/blackrock-federal-reserve.html)
  - date_published: 2020-03-25T22:38:13+00:00
  - tags: ['blackrock']
+ - date_dead_since: 2025-08-14T07:01:58.877810+00:00
 
  ## NYC's Footprint Amid The COVID-19 Outbreak
  - [https://www.youtube.com/watch?v=Q5BFrDocPNs](https://www.youtube.com/watch?v=Q5BFrDocPNs)
@@ -317,14 +323,14 @@
 
  ## London unveils 'snitch line' for COVID-19 rule violations | CTV News
  - [https://london.ctvnews.ca/london-unveils-snitch-line-for-covid-19-rule-violations-1.4871449](https://london.ctvnews.ca/london-unveils-snitch-line-for-covid-19-rule-violations-1.4871449)
- - date_published: 2020-03-27T20:26:52+00:00
+ - date_published: 2020-03-27T19:10:40+00:00
  - tags: ['covid', 'covid mandates', 'england', 'snitch line']
 
  ## A psychologist’s take on why people report their neighbours | CTV News
  - [https://www.ctvnews.ca/health/coronavirus/people-are-reporting-on-their-neighbours-over-covid-19-concerns-1.4872683](https://www.ctvnews.ca/health/coronavirus/people-are-reporting-on-their-neighbours-over-covid-19-concerns-1.4872683)
  - date_published: 2020-03-28T20:28:16+00:00
  - tags: ['canada', 'covid', 'snitch line']
- - date_dead_since: 2025-04-06T06:25:32.876330+00:00
+ - date_dead_since: 2025-08-14T06:26:48.570159+00:00
 
  ## Are You a Slave to your Software Knowledge?
  - [https://sagegerard.com/stop-learning-so-much.html](https://sagegerard.com/stop-learning-so-much.html)
@@ -344,7 +350,7 @@
 
  ## Whistleblowing coronavirus doctor mysteriously vanishes
  - [https://nypost.com/2020/04/01/whistleblowing-coronavirus-doctor-mysteriously-vanishes](https://nypost.com/2020/04/01/whistleblowing-coronavirus-doctor-mysteriously-vanishes)
- - date_published: 2020-04-01T20:29:25+00:00
+ - date_published: 2020-04-01T17:19:03+00:00
  - tags: ['china', 'covid', 'wuhan']
 
  ## Bodies are being left in the streets in an overwhelmed Ecuadorian city
@@ -371,7 +377,7 @@
  - [https://www.visualcapitalist.com/terms-of-service-visualizing-the-length-of-internet-agreements](https://www.visualcapitalist.com/terms-of-service-visualizing-the-length-of-internet-agreements)
  - date_published: 2020-04-18T05:35:32+00:00
  - tags: ['corporatocracy', 'eula', 'technofeudalism', 'terms of service']
- - date_dead_since: 2025-04-06T05:16:37.022194+00:00
+ - date_dead_since: 2025-08-14T05:17:00.085368+00:00
 
  ## Wuhan lab says there's no way coronavirus originated there. Here's the science.
  - [https://www.livescience.com/coronavirus-wuhan-lab-complicated-origins.html](https://www.livescience.com/coronavirus-wuhan-lab-complicated-origins.html)
@@ -387,7 +393,7 @@
  - [https://www.newswars.com/leaked-amazon-whole-foods-docs-workforce-diversity-helps-prevent-unions](https://www.newswars.com/leaked-amazon-whole-foods-docs-workforce-diversity-helps-prevent-unions)
  - date_published: 2020-04-24T06:12:13+00:00
  - tags: ['corporatocracy', 'diversity', 'hypocrisy', 'inclusion']
- - date_dead_since: 2025-04-06T04:44:48.064446+00:00
+ - date_dead_since: 2025-08-14T04:47:42.219519+00:00
 
  ## Zbigniew Brzeziński Obawia się Globalnego Przebudzenia
  - [https://bomega.pl/zbigniew-brzezinski-obawia-sie-globalnego-przebudzenia-konferencja-cfr](https://bomega.pl/zbigniew-brzezinski-obawia-sie-globalnego-przebudzenia-konferencja-cfr)
@@ -396,7 +402,7 @@
 
  ## Dr. Fauci Backed Controversial Wuhan Lab with U.S. Dollars for Risky Coronavirus Research
  - [https://www.newsweek.com/dr-fauci-backed-controversial-wuhan-lab-millions-us-dollars-risky-coronavirus-research-1500741](https://www.newsweek.com/dr-fauci-backed-controversial-wuhan-lab-millions-us-dollars-risky-coronavirus-research-1500741)
- - date_published: 2020-04-28T20:20:32+00:00
+ - date_published: 2020-04-28T14:57:29+00:00
  - tags: ['anthony fauci', 'covid', 'wuhan']
 
  ## TAOISM | The Art of Not Trying
@@ -416,7 +422,7 @@
 
  ## Anthony Fauci just crushed Donald Trump's theory on the origins of the coronavirus | CNN Politics
  - [https://edition.cnn.com/2020/05/05/politics/fauci-trump-coronavirus-wuhan-lab/index.html](https://edition.cnn.com/2020/05/05/politics/fauci-trump-coronavirus-wuhan-lab/index.html)
- - date_published: 2020-05-05T14:18:16+00:00
+ - date_published: 2020-05-05T14:02:39+00:00
  - tags: ['anthony fauci', 'covid', 'lab leak', 'wuhan']
 
  ## U.S. Field Hospitals Stand Down, Most Without Treating Any COVID-19 Patients
@@ -435,33 +441,36 @@
 
  ## Ministerstwo zdrowia kupiło maseczki od znajomego ministra Szumowskiego. Teraz żąda zwrotu pieniędzy - Money.pl
  - [https://www.money.pl/gospodarka/ministerstwo-zdrowia-kupilo-maseczki-od-znajomego-ministra-szumowskiego-teraz-zada-zwrotu-pieniedzy-6509608986204289a.html](https://www.money.pl/gospodarka/ministerstwo-zdrowia-kupilo-maseczki-od-znajomego-ministra-szumowskiego-teraz-zada-zwrotu-pieniedzy-6509608986204289a.html)
- - date_published: 2020-05-12T20:29:09+00:00
+ - date_published: 2020-05-12T06:48:00+00:00
  - tags: ['covid', 'łukasz szumowski', 'masks', 'poland']
 
  ## Why Would the US Have Funded the Controversial Wuhan Lab?
  - [https://thediplomat.com/2020/05/why-would-the-us-have-funded-the-controversial-wuhan-lab](https://thediplomat.com/2020/05/why-would-the-us-have-funded-the-controversial-wuhan-lab)
  - date_published: 2020-05-13T06:52:14+00:00
  - tags: ['covid', 'covid origins', 'wuhan']
+ - date_dead_since: 2025-08-14T03:27:59.003298+00:00
 
  ## SMS Two-Factor Authentication – Worse Than Just a Good Password? | Okta Security
  - [https://sec.okta.com/articles/2020/05/sms-two-factor-authentication-worse-just-good-password](https://sec.okta.com/articles/2020/05/sms-two-factor-authentication-worse-just-good-password)
  - date_published: 2020-05-13T06:56:06+00:00
  - tags: ['authentication', 'security']
+ - date_dead_since: 2025-08-14T03:18:04.892317+00:00
 
  ## More than 100,000 small businesses have permanently closed due to coronavirus, study estimates – The Hill
  - [https://thehill.com/changing-america/well-being/longevity/497519-more-than-100000-small-businesses-have-permanently](https://thehill.com/changing-america/well-being/longevity/497519-more-than-100000-small-businesses-have-permanently)
  - date_published: 2020-05-13T20:41:10+00:00
  - tags: ['covid', 'lockdown']
+ - date_dead_since: 2025-08-14T03:07:47.107415+00:00
+
+ ## Visa Applies For Digital Dollar Blockchain Patent
+ - [https://www.forbes.com/sites/jasonbrett/2020/05/14/visa-submits-patent-application-for-digital-dollar-using-blockchain/?utm_source=TWITTER&utm_medium=social&utm_content=3343342103&utm_campaign=sprinklrForbesCrypto#6e9451585b63](https://www.forbes.com/sites/jasonbrett/2020/05/14/visa-submits-patent-application-for-digital-dollar-using-blockchain/?utm_source=TWITTER&utm_medium=social&utm_content=3343342103&utm_campaign=sprinklrForbesCrypto#6e9451585b63)
+ - date_published: 2020-05-14T00:00:00+00:00
+ - tags: ['cbdc', 'visa']
 
  ## 6 Powermods Control 118/500 Top Subreddits
  - [https://www.reddit.com/r/everything/comments/gjgf1z/6_powermods_control_118500_top_subreddits](https://www.reddit.com/r/everything/comments/gjgf1z/6_powermods_control_118500_top_subreddits)
  - date_published: 2020-05-14T08:40:03+00:00
  - tags: ['moderation', 'reddit', 'technofeudalism']
-
- ## Visa Applies For Digital Dollar Blockchain Patent
- - [https://www.forbes.com/sites/jasonbrett/2020/05/14/visa-submits-patent-application-for-digital-dollar-using-blockchain/?utm_source=TWITTER&utm_medium=social&utm_content=3343342103&utm_campaign=sprinklrForbesCrypto#6e9451585b63](https://www.forbes.com/sites/jasonbrett/2020/05/14/visa-submits-patent-application-for-digital-dollar-using-blockchain/?utm_source=TWITTER&utm_medium=social&utm_content=3343342103&utm_campaign=sprinklrForbesCrypto#6e9451585b63)
- - date_published: 2020-05-14T20:27:22+00:00
- - tags: ['cbdc', 'visa']
 
  ## Partygate: A timeline of the lockdown parties - BBC News
  - [https://www.bbc.com/news/uk-politics-59952395](https://www.bbc.com/news/uk-politics-59952395)
@@ -540,7 +549,7 @@
 
  ## Blizzard Called Out For BLM Protest Support After Blitzchung Hong Kong Controversy
  - [https://screenrant.com/blizzard-protest-blackout-black-lives-matter-hong-kong](https://screenrant.com/blizzard-protest-blackout-black-lives-matter-hong-kong)
- - date_published: 2020-06-03T12:11:41+00:00
+ - date_published: 2020-06-03T05:46:19+00:00
  - tags: ['black lives matter', 'blizzard', 'blm', 'censorship', 'china', 'corporatocracy', 'hong kong']
 
  ## Head of the Snake - Wexner, Maxwell’s, Mossad & Mega Group Exposed

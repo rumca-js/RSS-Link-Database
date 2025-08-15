@@ -596,6 +596,11 @@
  - date_published: 2018-09-05T11:40:09+00:00
  - tags: ['go woke go broke', 'the left wing']
 
+ ## The Untold Truth Of The Satanic Temple
+ - [https://www.grunge.com/132693/the-untold-truth-of-the-satanic-temple](https://www.grunge.com/132693/the-untold-truth-of-the-satanic-temple)
+ - date_published: 2018-09-05T19:45:55+00:00
+ - tags: ['satanic temple']
+
  ## Twitter permanently bans conspiracy theorist Alex Jones
  - [https://www.theguardian.com/technology/2018/sep/06/twitter-permanently-bans-conspiracy-theorist-alex-jones](https://www.theguardian.com/technology/2018/sep/06/twitter-permanently-bans-conspiracy-theorist-alex-jones)
  - date_published: 2018-09-06T22:01:20+00:00
