@@ -772,12 +772,12 @@
 
  ## Harvard Scientists Begin Experiment To Block Out The Sun
  - [https://www.forbes.com/sites/trevornace/2018/12/05/harvard-scientists-begin-experiment-to-block-out-the-sun](https://www.forbes.com/sites/trevornace/2018/12/05/harvard-scientists-begin-experiment-to-block-out-the-sun)
- - date_published: 2018-12-05T12:58:25+00:00
+ - date_published: 2018-12-05T00:00:00+00:00
  - tags: ['atmosphere', 'bill gates', 'climate change', 'sun-dimming']
 
  ## Niemcy są "zielone" tylko w teorii? Należąca do RWE kopalnia chce wyciąć las, który ma 12 tys. lat
  - [https://forsal.pl/artykuly/1376241,las-w-hambach-nalezaca-do-rwe-kopalnia-chce-wyciac-las-ktory-ma-12-tys-lat.html](https://forsal.pl/artykuly/1376241,las-w-hambach-nalezaca-do-rwe-kopalnia-chce-wyciac-las-ktory-ma-12-tys-lat.html)
- - date_published: 2018-12-05T14:17:58+00:00
+ - date_published: 2018-12-05T06:45:00+00:00
  - tags: ['climate change', 'climate drama', 'co2', 'germany']
 
  ## Noam Chomsky - Foundations of World Order: the UN, World Bank, IMF & Decl. Human Rights 1999
@@ -797,7 +797,7 @@
 
  ## Google’s Earth: how the tech giant is helping the state spy on us
  - [https://www.theguardian.com/news/2018/dec/20/googles-earth-how-the-tech-giant-is-helping-the-state-spy-on-us](https://www.theguardian.com/news/2018/dec/20/googles-earth-how-the-tech-giant-is-helping-the-state-spy-on-us)
- - date_published: 2018-12-20T06:45:35+00:00
+ - date_published: 2018-12-20T06:00:23+00:00
  - tags: ['anonymity', 'google', 'privacy', 'surveillance', 'technofeudalism']
 
  ## Facebook's bottomless pit of scandals

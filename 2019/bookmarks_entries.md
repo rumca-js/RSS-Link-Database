@@ -27,6 +27,7 @@
  - [https://www.cprogramming.com/tutorial/virtual_inheritance.html](https://www.cprogramming.com/tutorial/virtual_inheritance.html)
  - date_published: 2019-01-05T13:29:06+00:00
  - tags: ['c++', 'inheritance', 'programming']
+ - date_dead_since: 2025-08-15T21:55:48.277215+00:00
 
  ## For Owners of Amazon’s Ring Security Cameras, Strangers May Have Been Watching Too
  - [https://theintercept.com/2019/01/10/amazon-ring-security-camera](https://theintercept.com/2019/01/10/amazon-ring-security-camera)
@@ -50,12 +51,12 @@
 
  ## WEF defends jet-setting elites amid climate change agenda
  - [https://www.cnbc.com/2019/01/25/wef-defends-jet-setting-elites-amid-climate-change-agenda.html](https://www.cnbc.com/2019/01/25/wef-defends-jet-setting-elites-amid-climate-change-agenda.html)
- - date_published: 2019-01-25T18:30:56+00:00
+ - date_published: 2019-01-25T13:15:08+00:00
  - tags: ['climate change', 'hypocrisy', 'wef', 'world economic forum']
 
  ## Zabiją nas wszystkich
  - [https://www.smyku.pl/texts/zabija-nas-wszystkich.html](https://www.smyku.pl/texts/zabija-nas-wszystkich.html)
- - date_published: 2019-01-26T07:23:00+00:00
+ - date_published: 2019-01-26T00:00:00+00:00
  - tags: ['conspiracy theory', 'the right wing']
 
  ## BoltDB vs Badger: A Comparison of Go Key-Value databases
@@ -79,7 +80,7 @@
 
  ## Google Screenwise: An Unwise Trade of All Your Privacy for Cash
  - [https://www.commondreams.org/views/2019/02/04/google-screenwise-unwise-trade-all-your-privacy-cash](https://www.commondreams.org/views/2019/02/04/google-screenwise-unwise-trade-all-your-privacy-cash)
- - date_published: 2019-02-04T06:51:46+00:00
+ - date_published: 2019-02-04T04:00:00+00:00
  - tags: ['google', 'google screenwise', 'privacy', 'surveillance', 'technofeudalism']
 
  ## How did the police know you were near a crime scene? Google told them | MPR News
@@ -104,7 +105,7 @@
 
  ## Facebook was 'willing to override' users' privacy setting to share their data
  - [https://www.cnn.com/2019/02/17/tech/facebook-fake-news-disinformation-report/index.html](https://www.cnn.com/2019/02/17/tech/facebook-fake-news-disinformation-report/index.html)
- - date_published: 2019-02-18T10:10:15+00:00
+ - date_published: 2019-02-18T00:01:31+00:00
  - tags: ['big tech', 'facebook', 'privacy']
 
  ## Vox lawyers briefly censored YouTubers who mocked The Verge’s bad PC build advice
@@ -149,18 +150,18 @@
 
  ## Revealed: Facebook’s global lobbying against data privacy laws
  - [https://www.theguardian.com/technology/2019/mar/02/facebook-global-lobbying-campaign-against-data-privacy-laws-investment](https://www.theguardian.com/technology/2019/mar/02/facebook-global-lobbying-campaign-against-data-privacy-laws-investment)
- - date_published: 2019-03-02T19:52:57+00:00
+ - date_published: 2019-03-02T14:00:53+00:00
  - tags: ['facebook', 'meta', 'privacy']
+
+ ## How retailers can track your movements inside their stores.
+ - [https://www.cnbc.com/2019/03/08/how-retailers-can-track-your-movements-inside-their-stores.html](https://www.cnbc.com/2019/03/08/how-retailers-can-track-your-movements-inside-their-stores.html)
+ - date_published: 2019-03-08T04:00:19+00:00
+ - tags: ['biometrics', 'corporatocracy', 'facial recognition', 'privacy', 'surveillance', 'technofeudalism', 'tracking']
 
  ## German academics and authors call for end to 'gender nonsense' | Germany | The Guardian
  - [https://www.theguardian.com/world/2019/mar/08/german-academics-and-authors-call-for-end-to-gender-nonsense](https://www.theguardian.com/world/2019/mar/08/german-academics-and-authors-call-for-end-to-gender-nonsense)
  - date_published: 2019-03-08T09:07:02+00:00
  - tags: ['gender', 'newspeak', 'pronouns', 'science is dead', 'social engineering', 'the left wing']
-
- ## How retailers can track your movements inside their stores.
- - [https://www.cnbc.com/2019/03/08/how-retailers-can-track-your-movements-inside-their-stores.html](https://www.cnbc.com/2019/03/08/how-retailers-can-track-your-movements-inside-their-stores.html)
- - date_published: 2019-03-08T15:04:59+00:00
- - tags: ['biometrics', 'corporatocracy', 'facial recognition', 'privacy', 'surveillance', 'technofeudalism', 'tracking']
 
  ## The Flaws of Academic Statistics: the Null Ritual
  - [https://notrelated.xyz/audio/s01/S01E08_-_The_Flaws_of_Academic_Statistics_the_Null_Ritual.mp3](https://notrelated.xyz/audio/s01/S01E08_-_The_Flaws_of_Academic_Statistics_the_Null_Ritual.mp3)
@@ -169,7 +170,7 @@
 
  ## Elektrownia atomowa. Państwowa spółka pochłonęła już prawie pół miliarda złotych
  - [https://www.money.pl/gospodarka/elektrownia-atomowa-panstwowa-spolka-pochlonela-juz-prawie-pol-miliarda-zlotych-6364261429319809a.html](https://www.money.pl/gospodarka/elektrownia-atomowa-panstwowa-spolka-pochlonela-juz-prawie-pol-miliarda-zlotych-6364261429319809a.html)
- - date_published: 2019-03-28T14:36:51+00:00
+ - date_published: 2019-03-28T12:31:00+00:00
  - tags: ['atom', 'climate change', 'poland']
 
  ## Manufactured Discontent and Fortnite
@@ -189,14 +190,14 @@
 
  ## End the transgender 'unregulated live experiment on children' say whistleblowing workers who have quit clinic treating patients as young as THREE
  - [https://www.dailymail.co.uk/news/article-6897269/Workers-transgender-clinic-quit-concerns-unregulated-live-experiments-children.html](https://www.dailymail.co.uk/news/article-6897269/Workers-transgender-clinic-quit-concerns-unregulated-live-experiments-children.html)
- - date_published: 2019-04-08T08:58:27+00:00
+ - date_published: 2019-04-08T01:34:29+00:00
  - tags: ['family', 'lgbt', 'the left wing', 'transgender']
 
  ## Allison Mack of ‘Smallville’ Pleads Guilty in Case of Nxivm ‘Sex Cult’ Where Women Were Branded - The New York Times
  - [https://www.nytimes.com/2019/04/08/nyregion/nxivm-allison-mack.html](https://www.nytimes.com/2019/04/08/nyregion/nxivm-allison-mack.html)
  - date_published: 2019-04-08T11:44:03+00:00
  - tags: ['allison mack', 'cult', 'nxivm', 'sect']
- - date_dead_since: 2025-04-07T15:48:00.433432+00:00
+ - date_dead_since: 2025-08-15T15:53:05.792403+00:00
 
  ## Your car is watching you. Who owns the data? - Roll Call
  - [https://rollcall.com/2019/04/09/your-car-is-watching-you-who-owns-the-data](https://rollcall.com/2019/04/09/your-car-is-watching-you-who-owns-the-data)
@@ -205,7 +206,7 @@
 
  ## Amazon employees are listening to what you say to Alexa — here's how to stop them
  - [https://www.cnbc.com/2019/04/11/how-to-stop-amazon-from-listening-to-what-you-say-to-alexa.html](https://www.cnbc.com/2019/04/11/how-to-stop-amazon-from-listening-to-what-you-say-to-alexa.html)
- - date_published: 2019-04-11T20:49:08+00:00
+ - date_published: 2019-04-11T12:18:59+00:00
  - tags: ['amazon', 'iot', 'privacy']
 
  ## Tracking Phones, Google Is a Dragnet for the Police - The New York Times
@@ -213,15 +214,15 @@
  - date_published: 2019-04-13T09:54:57+00:00
  - tags: ['corporatocracy', 'google', 'surveillance', 'tracking']
 
- ## Amazon's Fake Review Problem Is Getting Worse
- - [https://www.forbes.com/sites/emmawoollacott/2019/04/16/amazons-fake-review-problem-is-getting-worse](https://www.forbes.com/sites/emmawoollacott/2019/04/16/amazons-fake-review-problem-is-getting-worse)
- - date_published: 2019-04-16T18:57:48+00:00
- - tags: ['amazon']
-
  ## The List of All U.S Colleges With a Gender Studies/Gender and Sexuality Studies Major
  - [https://blog.collegevine.com/the-list-of-all-u-s-colleges-with-a-gender-studies-gender-and-sexuality-studies-major](https://blog.collegevine.com/the-list-of-all-u-s-colleges-with-a-gender-studies-gender-and-sexuality-studies-major)
- - date_published: 2019-04-16T20:07:17+00:00
+ - date_published: 2019-04-16T00:00:00+00:00
  - tags: ['gender', 'indoctrination', 'science is dead', 'the left wing', 'universities']
+
+ ## Amazon's Fake Review Problem Is Getting Worse
+ - [https://www.forbes.com/sites/emmawoollacott/2019/04/16/amazons-fake-review-problem-is-getting-worse](https://www.forbes.com/sites/emmawoollacott/2019/04/16/amazons-fake-review-problem-is-getting-worse)
+ - date_published: 2019-04-16T00:00:00+00:00
+ - tags: ['amazon']
 
  ## Apple Is Not Your Friend - The Facebook Feud
  - [https://www.youtube.com/watch?v=y8SjmcVJOjw](https://www.youtube.com/watch?v=y8SjmcVJOjw)
@@ -238,7 +239,7 @@
  - [https://www.washingtontimes.com/news/2019/apr/22/attacks-christians-double-2017](https://www.washingtontimes.com/news/2019/apr/22/attacks-christians-double-2017)
  - date_published: 2019-04-22T16:15:13+00:00
  - tags: ['christianophobia']
- - date_dead_since: 2025-04-07T09:39:47.770344+00:00
+ - date_dead_since: 2025-08-15T09:41:02.158082+00:00
 
  ## Marble Conveyor Belt Completed! - Marble Machine X #78
  - [https://www.youtube.com/watch?v=1AEvQAg6TE0](https://www.youtube.com/watch?v=1AEvQAg6TE0)
@@ -262,7 +263,7 @@
 
  ## Pre-teen “Drag Kids” highlight just how fast our culture has crumbled
  - [https://thebridgehead.ca/2019/04/30/pre-teen-drag-kids-highlight-just-how-fast-our-culture-has-crumbled](https://thebridgehead.ca/2019/04/30/pre-teen-drag-kids-highlight-just-how-fast-our-culture-has-crumbled)
- - date_published: 2019-04-30T22:11:33+00:00
+ - date_published: 2019-04-30T15:51:24+00:00
  - tags: ['canada', 'children', 'indoctrination', 'lgbt', 'sexualization', 'the left wing']
 
  ## Joe Rogan | What is Going on with the Homeless in LA?
@@ -275,10 +276,20 @@
  - date_published: 2019-05-02T00:00:00+00:00
  - tags: ['motivation']
 
+ ## The Do Black card has a carbon emissions limit
+ - [https://www.fastcompany.com/90344150/this-credit-card-wont-let-you-buy-anything-else-after-youve-hit-your-annual-carbon-limit](https://www.fastcompany.com/90344150/this-credit-card-wont-let-you-buy-anything-else-after-youve-hit-your-annual-carbon-limit)
+ - date_published: 2019-05-06T14:00:51+00:00
+ - tags: ['carbon limit', 'cbdc', 'technofeudalism']
+
  ## 'How to sell an epidemic': a Marc Van Ranst conspiracy theory, explained
  - [https://www.brusselstimes.com/155486/how-to-sell-an-epidemic-a-marc-van-ranst-conspiracy-theory-explained-chatham-house-pandemic-vlaams-belang-h1n1](https://www.brusselstimes.com/155486/how-to-sell-an-epidemic-a-marc-van-ranst-conspiracy-theory-explained-chatham-house-pandemic-vlaams-belang-h1n1)
  - date_published: 2019-05-06T20:21:22+00:00
  - tags: ['covid', 'fearmongering', 'propaganda', 'swine flu']
+
+ ## Stolen NSA hacking tools were used in the wild 14 months before Shadow Brokers leak | Ars Technica
+ - [https://arstechnica.com/information-technology/2019/05/stolen-nsa-hacking-tools-were-used-in-the-wild-14-months-before-shadow-brokers-leak](https://arstechnica.com/information-technology/2019/05/stolen-nsa-hacking-tools-were-used-in-the-wild-14-months-before-shadow-brokers-leak)
+ - date_published: 2019-05-07T06:14:49+00:00
+ - tags: ['hackers', 'nsa', 'shadow brokers', 'surveillance', 'vulnerability']
 
  ## Opinion | Google’s Sundar Pichai: Privacy Should Not Be a Luxury Good - The New York Times
  - [https://www.nytimes.com/2019/05/07/opinion/google-sundar-pichai-privacy.html](https://www.nytimes.com/2019/05/07/opinion/google-sundar-pichai-privacy.html)
@@ -289,11 +300,6 @@
  - [https://news.mit.edu/2019/using-ai-predict-breast-cancer-and-personalize-care-0507](https://news.mit.edu/2019/using-ai-predict-breast-cancer-and-personalize-care-0507)
  - date_published: 2019-05-07T07:19:50+00:00
  - tags: ['artificial intelligence']
-
- ## Stolen NSA hacking tools were used in the wild 14 months before Shadow Brokers leak | Ars Technica
- - [https://arstechnica.com/information-technology/2019/05/stolen-nsa-hacking-tools-were-used-in-the-wild-14-months-before-shadow-brokers-leak](https://arstechnica.com/information-technology/2019/05/stolen-nsa-hacking-tools-were-used-in-the-wild-14-months-before-shadow-brokers-leak)
- - date_published: 2019-05-07T18:05:55+00:00
- - tags: ['hackers', 'nsa', 'shadow brokers', 'surveillance', 'vulnerability']
 
  ## Energy President Says Climate Group’s Chinese Ties ‘Are Both Extremely Disturbing And Reprehensible’
  - [https://www.analyzingamerica.org/2023/12/726144](https://www.analyzingamerica.org/2023/12/726144)
@@ -314,6 +320,7 @@
  - [https://words.steveklabnik.com/the-culture-war-at-the-heart-of-open-source](https://words.steveklabnik.com/the-culture-war-at-the-heart-of-open-source)
  - date_published: 2019-05-26T13:59:11+00:00
  - tags: ['open source']
+ - date_dead_since: 2025-08-15T08:10:55.281534+00:00
 
  ## Full Contact Longplay (Amiga) [4K]
  - [https://www.youtube.com/watch?v=4YHo62RVbj8](https://www.youtube.com/watch?v=4YHo62RVbj8)
@@ -329,16 +336,12 @@
  - [https://www.nytimes.com/2019/06/04/business/jpmorgan-chase-credit-card-arbitration.html](https://www.nytimes.com/2019/06/04/business/jpmorgan-chase-credit-card-arbitration.html)
  - date_published: 2019-06-04T09:02:11+00:00
  - tags: ['corporatocracy', 'eula', 'jpmorgan', 'terms of service']
+ - date_dead_since: 2025-08-15T08:02:42.459032+00:00
 
  ## US Catholic Church spent $300 million on abuse-related costs in 12 months
  - [https://www.cnn.com/2019/06/04/us/catholic-church-300-million-abuse-claims/index.html](https://www.cnn.com/2019/06/04/us/catholic-church-300-million-abuse-claims/index.html)
- - date_published: 2019-06-04T22:39:57+00:00
+ - date_published: 2019-06-04T22:27:12+00:00
  - tags: ['catholic', 'church scandal', 'religion']
-
- ## The Do Black card has a carbon emissions limit
- - [https://www.fastcompany.com/90344150/this-credit-card-wont-let-you-buy-anything-else-after-youve-hit-your-annual-carbon-limit](https://www.fastcompany.com/90344150/this-credit-card-wont-let-you-buy-anything-else-after-youve-hit-your-annual-carbon-limit)
- - date_published: 2019-06-05T06:39:22+00:00
- - tags: ['carbon limit', 'cbdc', 'technofeudalism']
 
  ## YouTube’s anti-extremism crackdown targets journalist who documents extremism
  - [https://arstechnica.com/information-technology/2019/06/youtubes-anti-extremism-crackdown-targets-journalist-who-documents-extremism](https://arstechnica.com/information-technology/2019/06/youtubes-anti-extremism-crackdown-targets-journalist-who-documents-extremism)
@@ -352,12 +355,12 @@
 
  ## Report: Facebook Bans The Word “Honk”
  - [https://boundingintocomics.com/2019/06/11/report-facebook-bans-the-word-honk](https://boundingintocomics.com/2019/06/11/report-facebook-bans-the-word-honk)
- - date_published: 2019-06-11T22:09:15+00:00
+ - date_published: 2019-06-11T16:00:23+00:00
  - tags: ['censorship', 'facebook', 'newspeak']
 
  ## Report: The U.S. Military Emits More CO2 Than Many Industrialized Nations [Infographic]
  - [https://www.forbes.com/sites/niallmccarthy/2019/06/13/report-the-u-s-military-emits-more-co2-than-many-industrialized-nations-infographic/?sh=678b045e4372](https://www.forbes.com/sites/niallmccarthy/2019/06/13/report-the-u-s-military-emits-more-co2-than-many-industrialized-nations-infographic/?sh=678b045e4372)
- - date_published: 2019-06-13T12:54:42+00:00
+ - date_published: 2019-06-13T00:00:00+00:00
  - tags: ['carbon emissions', 'carbon footprint', 'climate change']
 
  ## World Economic Forum and UN Sign Strategic Partnership Framework > Press releases | World Economic Forum
@@ -365,15 +368,15 @@
  - date_published: 2019-06-13T18:19:56+00:00
  - tags: ['manufacturing consent', 'united nations', 'world economic forum']
 
- ## Sexist commercials now banned in UK
- - [https://www.cnn.com/2019/06/14/media/uk-gender-stereotypes-advertising-ban-scli-gbr-intl/index.html](https://www.cnn.com/2019/06/14/media/uk-gender-stereotypes-advertising-ban-scli-gbr-intl/index.html)
- - date_published: 2019-06-14T11:32:55+00:00
- - tags: ['social engineering', 'stereotypes', 'the left wing']
-
  ## 'Men in Black: International' Review: Another Franchise Bites the Woke-Dust
  - [https://www.breitbart.com/entertainment/2019/06/14/men-in-black-international-review-another-franchise-bites-the-woke-dust](https://www.breitbart.com/entertainment/2019/06/14/men-in-black-international-review-another-franchise-bites-the-woke-dust)
- - date_published: 2019-06-14T11:55:24+00:00
+ - date_published: 2019-06-14T07:48:48+00:00
  - tags: ['go woke go broke', 'the left wing']
+
+ ## Sexist commercials now banned in UK
+ - [https://www.cnn.com/2019/06/14/media/uk-gender-stereotypes-advertising-ban-scli-gbr-intl/index.html](https://www.cnn.com/2019/06/14/media/uk-gender-stereotypes-advertising-ban-scli-gbr-intl/index.html)
+ - date_published: 2019-06-14T10:24:09+00:00
+ - tags: ['social engineering', 'stereotypes', 'the left wing']
 
  ## The Self-Driving Car Is a Surveillance Tool
  - [https://spectrum.ieee.org/surveillance-and-the-selfdriving-car](https://spectrum.ieee.org/surveillance-and-the-selfdriving-car)
@@ -403,7 +406,7 @@
  ## Koniec naszego świata
  - [https://www.tvp.info/43374228/koniec-naszego-swiata](https://www.tvp.info/43374228/koniec-naszego-swiata)
  - date_published: 2019-07-06T07:21:17+00:00
- - date_dead_since: 2024-10-25T21:51:50.170359+00:00
+ - date_dead_since: 2025-08-15T05:51:05.265993+00:00
 
  ## A parasitological evaluation of edible insects and their role in the transmission of parasitic diseases to humans and animals - PMC
  - [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6613697](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6613697)
@@ -419,10 +422,11 @@
  - [https://www.nytimes.com/2019/07/08/nyregion/jeffrey-epstein-nyc-mansion.html](https://www.nytimes.com/2019/07/08/nyregion/jeffrey-epstein-nyc-mansion.html)
  - date_published: 2019-07-08T20:03:14+00:00
  - tags: ['jeffrey epstein']
+ - date_dead_since: 2025-08-15T05:22:47.789374+00:00
 
  ## So Was QAnon … Right?
  - [https://nymag.com/intelligencer/2019/07/does-the-jeffrey-epstein-indictment-qanon.html](https://nymag.com/intelligencer/2019/07/does-the-jeffrey-epstein-indictment-qanon.html)
- - date_published: 2019-07-09T19:54:40+00:00
+ - date_published: 2019-07-09T11:15:38+00:00
  - tags: ['jeffrey epstein', 'qanon']
 
  ## How online surveillance is killing private conversations
@@ -451,7 +455,7 @@
 
  ## Akcja "Żywa Książka" budzi sprzeciw Ordo Iuris. "Pod pozorem lekcji tolerancji oswaja się ludzi z agendą LGBT"
  - [https://wiadomosci.dziennik.pl/wydarzenia/artykuly/602791,zywa-ksiazka-ordo-iuris-lgbt-kontrowersje.html](https://wiadomosci.dziennik.pl/wydarzenia/artykuly/602791,zywa-ksiazka-ordo-iuris-lgbt-kontrowersje.html)
- - date_published: 2019-07-17T22:15:14+00:00
+ - date_published: 2019-07-17T12:15:00+00:00
  - tags: ['children', 'indoctrination', 'lgbt', 'propaganda', 'sexualization', 'the left wing']
 
  ## The High Society That Surrounded Jeffrey Epstein
@@ -461,12 +465,12 @@
 
  ## Public Library Deletes Pictures Of Drag Queens Fondling Children At Story Hour
  - [https://thefederalist.com/2019/07/22/public-library-deletes-pictures-drag-queens-fondling-children-story-hour](https://thefederalist.com/2019/07/22/public-library-deletes-pictures-drag-queens-fondling-children-story-hour)
- - date_published: 2019-07-22T22:12:22+00:00
+ - date_published: 2019-07-22T11:58:24+00:00
  - tags: ['children', 'indoctrination', 'lgbt']
 
  ## Google privacy lawsuit: Tech giant to pay $13 million over Street View data collection | CNN Business
  - [https://edition.cnn.com/2019/07/22/tech/google-street-view-privacy-lawsuit-settlement/index.html](https://edition.cnn.com/2019/07/22/tech/google-street-view-privacy-lawsuit-settlement/index.html)
- - date_published: 2019-07-25T08:49:32+00:00
+ - date_published: 2019-07-22T20:30:00+00:00
  - tags: ['corporatocracy', 'google', 'law', 'privacy', 'surveillance']
 
  ## Ben Shapiro Vs Climate Change | UBC Talk
@@ -521,7 +525,7 @@
 
  ## Biden says 'poor kids are just as bright and just as talented as white kids'
  - [https://www.nbcnews.com/politics/2020-election/biden-says-poor-kids-are-just-bright-just-talented-white-n1040686](https://www.nbcnews.com/politics/2020-election/biden-says-poor-kids-are-just-bright-just-talented-white-n1040686)
- - date_published: 2019-08-09T20:55:15+00:00
+ - date_published: 2019-08-09T12:03:00+00:00
  - tags: ['joe biden']
 
  ## Death of Jeffrey Epstein
@@ -539,15 +543,15 @@
  - date_published: 2019-08-13T00:00:00+00:00
  - tags: ['example', 'jagerstatter', 'warld war 2']
 
+ ## Copper: Powering Up The Electric Vehicle | Wood Mackenzie
+ - [https://www.woodmac.com/news/opinion/copper-powering-up-the-electric-vehicle](https://www.woodmac.com/news/opinion/copper-powering-up-the-electric-vehicle)
+ - date_published: 2019-08-13T09:07:00+00:00
+ - tags: ['electric vehicles']
+
  ## FDNY Reviewed 4chan Post About Jeffrey Epstein’s Death
  - [https://www.buzzfeednews.com/article/janelytvynenko/fdny-review-jeffrey-epstein-4chan-post](https://www.buzzfeednews.com/article/janelytvynenko/fdny-review-jeffrey-epstein-4chan-post)
  - date_published: 2019-08-13T11:54:26+00:00
  - tags: ['4chan', 'jeffrey epstein']
-
- ## Copper: Powering Up The Electric Vehicle | Wood Mackenzie
- - [https://www.woodmac.com/news/opinion/copper-powering-up-the-electric-vehicle](https://www.woodmac.com/news/opinion/copper-powering-up-the-electric-vehicle)
- - date_published: 2019-08-13T14:02:26+00:00
- - tags: ['electric vehicles']
 
  ## Major breach found in biometrics system used by banks, UK police and defence firms
  - [https://www.theguardian.com/technology/2019/aug/14/major-breach-found-in-biometrics-system-used-by-banks-uk-police-and-defence-firms](https://www.theguardian.com/technology/2019/aug/14/major-breach-found-in-biometrics-system-used-by-banks-uk-police-and-defence-firms)
@@ -556,7 +560,7 @@
 
  ## Volkswagen and Philadelphia ads banned for gender stereotypes
  - [https://www.cnn.com/2019/08/14/media/uk-adverts-banned-gender-stereotypes-scli-gbr-intl/index.html](https://www.cnn.com/2019/08/14/media/uk-adverts-banned-gender-stereotypes-scli-gbr-intl/index.html)
- - date_published: 2019-08-14T11:27:26+00:00
+ - date_published: 2019-08-14T11:07:20+00:00
  - tags: ['social engineering', 'the left wing']
 
  ## Haunting photos show Jeffrey Epstein’s ‘Pedophile Island’ in the Caribbean
@@ -578,7 +582,7 @@
  - [https://ottawa.ctvnews.ca/ottawa-s-first-black-mass-has-protesters-seeing-red-1.4554309](https://ottawa.ctvnews.ca/ottawa-s-first-black-mass-has-protesters-seeing-red-1.4554309)
  - date_published: 2019-08-17T13:11:25+00:00
  - tags: ['black mass', 'satanic temple']
- - date_dead_since: 2025-04-07T02:13:28.685761+00:00
+ - date_dead_since: 2025-08-15T02:17:44.461892+00:00
 
  ## Greta Thunberg and the plot to forge a climate warrior
  - [https://www.thetimes.co.uk/article/greta-thunberg-and-the-plot-to-forge-a-climate-warrior-9blhz9mjv?region=global](https://www.thetimes.co.uk/article/greta-thunberg-and-the-plot-to-forge-a-climate-warrior-9blhz9mjv?region=global)
@@ -609,6 +613,7 @@
  - [https://www.nytimes.com/2019/08/22/business/epstein-mit-media-lab.html](https://www.nytimes.com/2019/08/22/business/epstein-mit-media-lab.html)
  - date_published: 2019-08-22T12:18:53+00:00
  - tags: ['jeffrey epstein', 'mit']
+ - date_dead_since: 2025-08-15T01:26:47.765092+00:00
 
  ## [Serious Question] Why the Ubuntu/Canonical hate? In quite a few posts in this subreddit, I have seen an outright hate/dislike/contempt for Ubuntu/Canonical. Can someone explain?
  - [https://www.reddit.com/r/linux/comments/cu7fv0/serious_question_why_the_ubuntucanonical_hate_in](https://www.reddit.com/r/linux/comments/cu7fv0/serious_question_why_the_ubuntucanonical_hate_in)
@@ -634,15 +639,15 @@
  - date_published: 2019-08-26T00:00:00+00:00
  - tags: ['motivation', 'quotes', 'stoicism']
 
- ## Axel Springer w rękach Amerykanów. Miliarder kupił większość akcji
- - [https://dorzeczy.pl/ekonomia/112043/Axel-Springer-w-rekach-Amerykanow-Miliarder-kupil-wiekszosc-akcji.html](https://dorzeczy.pl/ekonomia/112043/Axel-Springer-w-rekach-Amerykanow-Miliarder-kupil-wiekszosc-akcji.html)
- - date_published: 2019-08-27T11:58:25+00:00
- - tags: ['axel springer', 'media']
-
  ## Axel Springer w rękach Amerykanów. Miliarder kupił akcje
  - [https://dorzeczy.pl/ekonomia/112043/axel-springer-w-rekach-amerykanow-miliarder-kupil-akcje.html](https://dorzeczy.pl/ekonomia/112043/axel-springer-w-rekach-amerykanow-miliarder-kupil-akcje.html)
- - date_published: 2019-08-27T15:25:39+00:00
+ - date_published: 2019-08-27T09:50:00+00:00
  - tags: ['axel springer', 'legacy media']
+
+ ## Axel Springer w rękach Amerykanów. Miliarder kupił większość akcji
+ - [https://dorzeczy.pl/ekonomia/112043/Axel-Springer-w-rekach-Amerykanow-Miliarder-kupil-wiekszosc-akcji.html](https://dorzeczy.pl/ekonomia/112043/Axel-Springer-w-rekach-Amerykanow-Miliarder-kupil-wiekszosc-akcji.html)
+ - date_published: 2019-08-27T09:50:00+00:00
+ - tags: ['axel springer', 'media']
 
  ## Tesla, the data company
  - [https://www.cio.com/article/220555/tesla-the-data-company.html](https://www.cio.com/article/220555/tesla-the-data-company.html)
