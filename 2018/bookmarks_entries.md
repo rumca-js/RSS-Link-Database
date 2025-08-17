@@ -593,7 +593,7 @@
 
  ## Nike's support of Colin Kaepernick has some destroying their shoes | CNN
  - [https://edition.cnn.com/2018/09/04/us/colin-kaepernick-nike-sneakers-intl/index.html](https://edition.cnn.com/2018/09/04/us/colin-kaepernick-nike-sneakers-intl/index.html)
- - date_published: 2018-09-05T11:40:09+00:00
+ - date_published: 2018-09-04T11:29:20+00:00
  - tags: ['go woke go broke', 'the left wing']
 
  ## The Untold Truth Of The Satanic Temple
@@ -608,7 +608,7 @@
 
  ## Bannon falls victim to free speech storm
  - [https://www.cnn.com/2018/09/08/uk/free-speech-bannon-universities-opinion-intl/index.html](https://www.cnn.com/2018/09/08/uk/free-speech-bannon-universities-opinion-intl/index.html)
- - date_published: 2018-09-08T16:15:27+00:00
+ - date_published: 2018-09-08T11:34:13+00:00
  - tags: ['censorship', 'free speech']
 
  ## Chile Church scandal: 'How I escaped the priest who abused me for decades' - BBC News
@@ -648,7 +648,7 @@
 
  ## How to Remove Elements from an Associative Container in C++
  - [https://www.fluentcpp.com/2018/09/21/remove-elements-associative-container-cpp](https://www.fluentcpp.com/2018/09/21/remove-elements-associative-container-cpp)
- - date_published: 2018-09-21T13:29:42+00:00
+ - date_published: 2018-09-21T01:00:58+00:00
  - tags: ['c++', 'programming']
 
  ## Facebook Is Giving Advertisers Access to Your Shadow Contact Information
@@ -689,7 +689,7 @@
 
  ## What Is the 'NPC' Meme? Liberals Rage at Cartoons Mocking Their Scripted Thoughts
  - [https://www.breitbart.com/tech/2018/10/16/what-is-the-npc-meme-liberals-rage-at-cartoons-mocking-their-scripted-thoughts](https://www.breitbart.com/tech/2018/10/16/what-is-the-npc-meme-liberals-rage-at-cartoons-mocking-their-scripted-thoughts)
- - date_published: 2018-10-16T20:25:58+00:00
+ - date_published: 2018-10-16T09:27:54+00:00
  - tags: ['censorship', 'the left wing', 'twitter']
 
  ## A New Facebook Suit Makes ‘Pivot to Video’ Even More Myopic | WIRED
@@ -716,7 +716,7 @@
  - [https://npg.org/library/press-releases/13380.html](https://npg.org/library/press-releases/13380.html)
  - date_published: 2018-10-25T07:32:56+00:00
  - tags: ['climate change', 'depopulation', 'feminism']
- - date_dead_since: 2024-10-26T03:46:25.143700+00:00
+ - date_dead_since: 2025-08-16T17:17:45.647828+00:00
 
  ## Joe Rogan - Exposing Social Justice with Peter Boghossian & James Lindsay
  - [https://www.youtube.com/watch?v=OlqU_JMTzd4](https://www.youtube.com/watch?v=OlqU_JMTzd4)
@@ -732,7 +732,7 @@
  - [https://greekcitytimes.com/2018/11/14/ngo-admits-teaching-migrants-how-to-trick-eu-border-guards-video](https://greekcitytimes.com/2018/11/14/ngo-admits-teaching-migrants-how-to-trick-eu-border-guards-video)
  - date_published: 2018-11-14T06:47:12+00:00
  - tags: ['england', 'immigration']
- - date_dead_since: 2025-04-08T16:58:59.213032+00:00
+ - date_dead_since: 2025-08-16T17:00:56.371358+00:00
 
  ## Facebook reportedly discredited critics by linking them to George Soros
  - [https://www.theguardian.com/technology/2018/nov/14/facebook-george-soros-pr-firm-discredit-critics-crisis](https://www.theguardian.com/technology/2018/nov/14/facebook-george-soros-pr-firm-discredit-critics-crisis)
@@ -753,22 +753,22 @@
  - [https://www.axios.com/2018/11/19/tim-cook-interview-apple-google-axios-on-hbo](https://www.axios.com/2018/11/19/tim-cook-interview-apple-google-axios-on-hbo)
  - date_published: 2018-11-19T13:29:07+00:00
  - tags: ['apple', 'google', 'manufacturing consent']
- - date_dead_since: 2025-04-08T00:39:16.987306+00:00
+ - date_dead_since: 2025-08-16T00:50:53.267399+00:00
 
  ## Mark Zuckerberg Has Never Cared About Your Privacy
  - [https://www.vanityfair.com/news/2018/11/mark-zuckerberg-has-never-cared-about-your-privacy](https://www.vanityfair.com/news/2018/11/mark-zuckerberg-has-never-cared-about-your-privacy)
  - date_published: 2018-11-20T23:58:15+00:00
  - tags: ['big tech', 'facebook', 'mark zuckerberg', 'privacy']
 
+ ## Are Google and Facebook really suppressing conservative politics?
+ - [https://www.theguardian.com/technology/2018/dec/04/google-facebook-anti-conservative-bias-claims](https://www.theguardian.com/technology/2018/dec/04/google-facebook-anti-conservative-bias-claims)
+ - date_published: 2018-12-04T11:00:38+00:00
+ - tags: ['algorithms', 'censorship', 'facebook', 'google', 'search engines']
+
  ## Google Shows Personalized Search Results When Logged Out, According to New Study
  - [https://www.searchenginejournal.com/google-shows-personalized-search-results-when-logged-out-according-to-new-study/281329](https://www.searchenginejournal.com/google-shows-personalized-search-results-when-logged-out-according-to-new-study/281329)
  - date_published: 2018-12-04T14:01:53+00:00
  - tags: ['algorithms', 'big tech', 'privacy', 'search engines']
-
- ## Are Google and Facebook really suppressing conservative politics?
- - [https://www.theguardian.com/technology/2018/dec/04/google-facebook-anti-conservative-bias-claims](https://www.theguardian.com/technology/2018/dec/04/google-facebook-anti-conservative-bias-claims)
- - date_published: 2018-12-04T19:51:59+00:00
- - tags: ['algorithms', 'censorship', 'facebook', 'google', 'search engines']
 
  ## Harvard Scientists Begin Experiment To Block Out The Sun
  - [https://www.forbes.com/sites/trevornace/2018/12/05/harvard-scientists-begin-experiment-to-block-out-the-sun](https://www.forbes.com/sites/trevornace/2018/12/05/harvard-scientists-begin-experiment-to-block-out-the-sun)
