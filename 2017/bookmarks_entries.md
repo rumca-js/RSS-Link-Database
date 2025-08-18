@@ -170,7 +170,7 @@
 
  ## NSA-leaking Shadow Brokers just dumped its most damaging release yet | Ars Technica
  - [https://arstechnica.com/information-technology/2017/04/nsa-leaking-shadow-brokers-just-dumped-its-most-damaging-release-yet](https://arstechnica.com/information-technology/2017/04/nsa-leaking-shadow-brokers-just-dumped-its-most-damaging-release-yet)
- - date_published: 2017-04-14T18:02:36+00:00
+ - date_published: 2017-04-14T17:27:41+00:00
  - tags: ['nsa', 'shadow brokers', 'surveillance', 'vulnerability']
 
  ## The dirty tricks that demonise George Soros | Nick Cohen
@@ -185,7 +185,7 @@
 
  ## Intel's Management Engine is a security hazard, and users need a way to disable it | Electronic Frontier Foundation
  - [https://www.eff.org/deeplinks/2017/05/intels-management-engine-security-hazard-and-users-need-way-disable-it](https://www.eff.org/deeplinks/2017/05/intels-management-engine-security-hazard-and-users-need-way-disable-it)
- - date_published: 2017-05-08T14:51:45+00:00
+ - date_published: 2017-05-08T12:32:57+00:00
  - tags: ['intel management engine', 'surveillance', 'tracking']
 
  ## These three firms own corporate America
@@ -195,12 +195,12 @@
 
  ## Ransomware 'WannaCry' attack explained
  - [http://www.cnn.com/videos/cnnmoney/2017/05/13/ransomware-wannacry-attack-explained.cnn](http://www.cnn.com/videos/cnnmoney/2017/05/13/ransomware-wannacry-attack-explained.cnn)
- - date_published: 2017-05-13T14:33:58+00:00
+ - date_published: 2017-05-13T14:22:41+00:00
  - tags: ['virus', 'vulnerability', 'wannacry']
 
  ## 'Accidental hero' who halted cyber-attack is English blogger aged 22 | Cybercrime | The Guardian
  - [https://www.theguardian.com/technology/2017/may/15/accidental-hero-who-halted-cyber-attack-is-22-year-old-english-blogger](https://www.theguardian.com/technology/2017/may/15/accidental-hero-who-halted-cyber-attack-is-22-year-old-english-blogger)
- - date_published: 2017-05-15T21:54:58+00:00
+ - date_published: 2017-05-15T19:03:55+00:00
  - tags: ['virus', 'vulnerability', 'wannacry']
 
  ## RSPH |  Instagram Ranked Worst for Young People’s Mental Health
@@ -239,7 +239,7 @@
 
  ## Are There No-Go Zones in Sweden? Police Identify Dozens of 'Vulnerable Areas' Rife With Criminality
  - [https://www.newsweek.com/sweden-police-vulnerable-areas-no-go-zones-628029](https://www.newsweek.com/sweden-police-vulnerable-areas-no-go-zones-628029)
- - date_published: 2017-06-21T20:04:20+00:00
+ - date_published: 2017-06-21T13:46:59+00:00
  - tags: ['immigration', 'nogo', 'police', 'sweden']
 
  ## Amiga 500 - Miami Chase Music Intro
@@ -269,7 +269,7 @@
 
  ## Court rules that 'F**k White People' posters are not racist | The Independent | The Independent
  - [https://www.independent.co.uk/news/world/africa/f-k-white-people-racist-hate-speech-posters-art-south-africa-iziko-south-african-national-gallery-cape-party-western-cape-magistrate-court-a7830441.html](https://www.independent.co.uk/news/world/africa/f-k-white-people-racist-hate-speech-posters-art-south-africa-iziko-south-african-national-gallery-cape-party-western-cape-magistrate-court-a7830441.html)
- - date_published: 2017-07-08T15:57:04+00:00
+ - date_published: 2017-07-08T13:54:16+00:00
  - tags: ['america', 'hate speech', 'racism']
 
  ## Millions of Android Devices Hit With CopyCat Malware | McAfee Blog
@@ -289,7 +289,7 @@
 
  ## SUFFERING IN SILENCE Linkin Park singer Chester Bennington revealed horrific child abuse was behind his substance abuse issues
  - [https://www.thesun.co.uk/tvandshowbiz/4064403/linkin-park-singer-chester-bennington-revealed-horrific-child-abuse-was-behind-substance-abuse-issues](https://www.thesun.co.uk/tvandshowbiz/4064403/linkin-park-singer-chester-bennington-revealed-horrific-child-abuse-was-behind-substance-abuse-issues)
- - date_published: 2017-07-20T21:17:39+00:00
+ - date_published: 2017-07-20T20:13:30+00:00
  - tags: ['chester bennington', 'linkin park', 'paedophilia']
 
  ## The American empire and its media | MR Online
@@ -301,11 +301,10 @@
  - [https://gizmodo.com.au/2017/09/yes-google-uses-its-power-to-quash-ideas-it-doesnt-likei-know-because-it-happened-to-me](https://gizmodo.com.au/2017/09/yes-google-uses-its-power-to-quash-ideas-it-doesnt-likei-know-because-it-happened-to-me)
  - date_published: 2017-08-01T07:11:06+00:00
  - tags: ['censorship', 'google']
- - date_dead_since: 2025-04-09T17:11:11.326560+00:00
 
  ## Top 10 F-Droid Best Apps that are Not on Google Play - TechWiser
  - [https://techwiser.com/f-droid-best-apps](https://techwiser.com/f-droid-best-apps)
- - date_published: 2017-08-02T16:31:46+00:00
+ - date_published: 2017-08-02T11:08:50+00:00
  - tags: ['android', 'f-droid']
 
  ## Joe Rogan & Ben Shapiro on the Transgender Movement, Men vs. Women in Sports
@@ -345,7 +344,7 @@
 
  ## Full text of ex-Google engineer James Damore’s memo
  - [https://menrightsindia.net/2017/08/full-text-of-ex-google-engineer-james-damores-memo.html](https://menrightsindia.net/2017/08/full-text-of-ex-google-engineer-james-damores-memo.html)
- - date_published: 2017-08-13T14:57:59+00:00
+ - date_published: 2017-08-13T00:00:00+00:00
  - tags: ['google', 'google memo', 'james damore']
 
  ## Journalist Nearly Banned from YouTube and Gmail For Posting Al-Qaeda Videos From Chelsea Manning Trial
@@ -355,12 +354,12 @@
 
  ## The Actual Science of James Damore’s Google Memo
  - [https://www.wired.com/story/the-pernicious-science-of-james-damores-google-memo](https://www.wired.com/story/the-pernicious-science-of-james-damores-google-memo)
- - date_published: 2017-08-15T14:55:12+00:00
+ - date_published: 2017-08-15T11:00:00+00:00
  - tags: ['google', 'google memo', 'james damore']
 
  ## Court rules privacy a 'fundamental right' in landmark case
  - [http://www.cnn.com/2017/08/24/asia/indian-court-right-to-privacy/index.html](http://www.cnn.com/2017/08/24/asia/indian-court-right-to-privacy/index.html)
- - date_published: 2017-08-25T02:03:01+00:00
+ - date_published: 2017-08-24T13:13:12+00:00
  - tags: ['big brother', 'freedom', 'privacy']
 
  ## school tried to ban Orwell book
@@ -372,7 +371,7 @@
  - [https://www.grunge.com/35035/secret-history-illuminati](https://www.grunge.com/35035/secret-history-illuminati)
  - date_published: 2017-08-28T13:30:16+00:00
  - tags: ['illuminati', 'secret societies']
- - date_dead_since: 2025-04-09T14:25:15.273296+00:00
+ - date_dead_since: 2025-08-17T14:31:44.607880+00:00
 
  ## Now you, too, can disable Intel ME 'backdoor' thanks to the NSA | CSO Online
  - [https://www.csoonline.com/article/3220476/researchers-say-now-you-too-can-disable-intel-me-backdoor-thanks-to-the-nsa.html](https://www.csoonline.com/article/3220476/researchers-say-now-you-too-can-disable-intel-me-backdoor-thanks-to-the-nsa.html)
@@ -383,6 +382,7 @@
  - [https://www.nytimes.com/2017/08/30/us/politics/eric-schmidt-google-new-america.html](https://www.nytimes.com/2017/08/30/us/politics/eric-schmidt-google-new-america.html)
  - date_published: 2017-08-30T07:09:22+00:00
  - tags: ['google', 'manufacturing consent']
+ - date_dead_since: 2025-08-17T14:21:43.443914+00:00
 
  ## How I Got Fired From a D.C. Think Tank for Fighting Against the Power of Google
  - [https://theintercept.com/2017/08/31/how-i-got-fired-from-a-d-c-think-tank-for-fighting-against-the-power-of-google](https://theintercept.com/2017/08/31/how-i-got-fired-from-a-d-c-think-tank-for-fighting-against-the-power-of-google)
@@ -431,7 +431,7 @@
 
  ## Secret documents: German foreign spy agency BND attacks the anonymity network Tor and advises not to use it
  - [https://netzpolitik.org/2017/secret-documents-reveal-german-foreign-spy-agency-bnd-attacks-the-anonymity-network-tor-and-advises-not-to-use-it](https://netzpolitik.org/2017/secret-documents-reveal-german-foreign-spy-agency-bnd-attacks-the-anonymity-network-tor-and-advises-not-to-use-it)
- - date_published: 2017-09-15T12:32:09+00:00
+ - date_published: 2017-09-15T12:23:31+00:00
  - tags: ['anonymity', 'bnd', 'espionage', 'germany', 'privacy', 'psyop', 'tor']
 
  ## Spotlight: How is AI disrupting financial industry - Xinhua | English.news.cn
@@ -446,7 +446,7 @@
 
  ## Apple: iPhones Are Too 'Complex' to Let You Fix Them
  - [https://www.vice.com/en/article/xwgg8z/apple-iphones-are-too-complex-to-allow-unauthorized-repair](https://www.vice.com/en/article/xwgg8z/apple-iphones-are-too-complex-to-allow-unauthorized-repair)
- - date_published: 2017-09-22T17:12:46+00:00
+ - date_published: 2017-09-22T14:30:00+00:00
  - tags: ['apple', 'hypocrisy', 'iphone']
 
  ## 47 White Guilt Propaganda Tactics Used by Media and Political Elites to Push for Third World Immigration; motives
@@ -488,11 +488,13 @@
  - [https://www.eweek.com/enterprise-apps/ubuntu-drops-unity-for-gnome-in-artful-aardvark-release](https://www.eweek.com/enterprise-apps/ubuntu-drops-unity-for-gnome-in-artful-aardvark-release)
  - date_published: 2017-10-18T16:02:27+00:00
  - tags: ['canonical', 'ubuntu']
+ - date_dead_since: 2025-08-17T13:02:43.606833+00:00
 
  ## USA: Hurricane Harvey Victims Told: Boycott Israel and You Won’t Get Aid Donations
  - [https://www.palestinechronicle.com/hurricane-harvey-victims-told-boycott-israel-and-you-wont-get-aid-donations](https://www.palestinechronicle.com/hurricane-harvey-victims-told-boycott-israel-and-you-wont-get-aid-donations)
  - date_published: 2017-10-21T12:52:50+00:00
  - tags: ['israel']
+ - date_dead_since: 2025-08-17T12:56:49.240230+00:00
 
  ## Eye Symbolism in Blade Runner 2049 Explained || Hidden Messages Analysis
  - [https://www.youtube.com/watch?v=jRSZd8xYaL4](https://www.youtube.com/watch?v=jRSZd8xYaL4)
@@ -523,6 +525,7 @@
  - [https://www.huffingtonpost.co.uk/entry/british-politicians-fake-news_uk_58b60832e4b0a8a9b7870126](https://www.huffingtonpost.co.uk/entry/british-politicians-fake-news_uk_58b60832e4b0a8a9b7870126)
  - date_published: 2017-11-03T15:36:18+00:00
  - tags: ['disinformation', 'donald trump', 'england', 'fakenews']
+ - date_dead_since: 2025-08-17T12:40:55.838633+00:00
 
  ## Jordan Peterson on the meaning of life for men. MUST WATCH
  - [https://www.youtube.com/watch?v=NX2ep5fCJZ8](https://www.youtube.com/watch?v=NX2ep5fCJZ8)
@@ -576,7 +579,7 @@
 
  ## The Occupation of Water - Amnesty International
  - [https://www.amnesty.org/en/latest/campaigns/2017/11/the-occupation-of-water](https://www.amnesty.org/en/latest/campaigns/2017/11/the-occupation-of-water)
- - date_published: 2017-11-29T18:14:27+00:00
+ - date_published: 2017-11-29T12:51:04+00:00
  - tags: ['israel', 'palesteine']
 
  ## Bat cave solves mystery of deadly SARS virus — and suggests new outbreak could occur
@@ -606,7 +609,7 @@
 
  ## You Give Up a Lot of Privacy Just Opening Emails. Here's How to Stop It | WIRED
  - [https://www.wired.com/story/how-email-open-tracking-quietly-took-over-the-web](https://www.wired.com/story/how-email-open-tracking-quietly-took-over-the-web)
- - date_published: 2017-12-11T18:41:30+00:00
+ - date_published: 2017-12-11T12:00:00+00:00
  - tags: ['email', 'privacy', 'tracking']
 
  ## Chamath Palihapitiya: Why Failing Fast Fails | Stanford Graduate School of Business
@@ -626,7 +629,7 @@
 
  ## BlackRock's Edge: Why Technology Is Creating The Amazon Of Wall Street
  - [https://www.forbes.com/sites/antoinegara/2017/12/19/blackrocks-edge-why-technology-is-creating-a-6-trillion-amazon-of-wall-street](https://www.forbes.com/sites/antoinegara/2017/12/19/blackrocks-edge-why-technology-is-creating-a-6-trillion-amazon-of-wall-street)
- - date_published: 2017-12-19T22:24:29+00:00
+ - date_published: 2017-12-19T00:00:00+00:00
  - tags: ['blackrock', 'fintech']
 
  ## Is flat earth theory just a myth created by CIA in one of their covert operations?
@@ -642,9 +645,11 @@
  - [https://www.nytimes.com/2017/12/31/us/politics/sexual-harassment-politics-partisanship.html](https://www.nytimes.com/2017/12/31/us/politics/sexual-harassment-politics-partisanship.html)
  - date_published: 2017-12-31T20:07:28+00:00
  - tags: ['media', 'media matters']
+ - date_dead_since: 2025-08-17T10:41:43.607184+00:00
 
  ## BlackRock bets on algorithms to beat the fund managers
  - [https://www.ft.com/content/e689a67e-2911-11e8-b27e-cc62a39d57a0](https://www.ft.com/content/e689a67e-2911-11e8-b27e-cc62a39d57a0)
  - date_published: 2017-12-31T22:34:51+00:00
  - tags: ['algorithms', 'blackrock', 'fintech']
+ - date_dead_since: 2025-08-17T10:36:47.888211+00:00
 

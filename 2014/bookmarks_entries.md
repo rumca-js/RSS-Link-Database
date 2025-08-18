@@ -168,6 +168,11 @@
  - date_published: 2014-10-04T07:28:52+00:00
  - tags: ['apple', 'encryption', 'iphone', 'privacy']
 
+ ## Microsoft's Windows 10 has permission to spy on you
+ - [https://www.techworm.net/2014/10/microsofts-windows-10-permission-watch-every-move.html](https://www.techworm.net/2014/10/microsofts-windows-10-permission-watch-every-move.html)
+ - date_published: 2014-10-04T17:00:58+00:00
+ - tags: ['dark design', 'eula', 'microsoft', 'privacy', 'surveillance', 'windows']
+
  ## Washington Post's Clueless Editorial On Phone Encryption: No Backdoors, But How About A Magical 'Golden Key'? | Techdirt
  - [https://www.techdirt.com/2014/10/06/washington-posts-braindead-editorial-phone-encryption-no-backdoors-how-about-magical-golden-key](https://www.techdirt.com/2014/10/06/washington-posts-braindead-editorial-phone-encryption-no-backdoors-how-about-magical-golden-key)
  - date_published: 2014-10-06T07:28:52+00:00

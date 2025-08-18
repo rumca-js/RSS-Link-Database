@@ -50,15 +50,15 @@
  - tags: ['android', 'espionage', 'google', 'privacy', 'skygofree', 'surveillance']
  - date_dead_since: 2024-04-24T01:08:00.805886+00:00
 
+ ## Did the Chief Executive Officer of Nestlé Say Water Is Not a Human Right? | Snopes.com
+ - [https://www.snopes.com/fact-check/nestle-ceo-water-not-human-right](https://www.snopes.com/fact-check/nestle-ceo-water-not-human-right)
+ - date_published: 2018-01-18T08:43:29+00:00
+ - tags: ['climate change', 'nestle', 'sweet water']
+
  ## How Tencent became the world's most valuable social network firm – with barely any advertising
  - [https://theconversation.com/how-tencent-became-the-worlds-most-valuable-social-network-firm-with-barely-any-advertising-90334](https://theconversation.com/how-tencent-became-the-worlds-most-valuable-social-network-firm-with-barely-any-advertising-90334)
  - date_published: 2018-01-18T11:13:42+00:00
  - tags: ['china', 'corporatocracy', 'tencent']
-
- ## Did the Chief Executive Officer of Nestlé Say Water Is Not a Human Right? | Snopes.com
- - [https://www.snopes.com/fact-check/nestle-ceo-water-not-human-right](https://www.snopes.com/fact-check/nestle-ceo-water-not-human-right)
- - date_published: 2018-01-18T12:10:38+00:00
- - tags: ['climate change', 'nestle', 'sweet water']
 
  ## Joe Rogan Experience #1070 - Jordan Peterson
  - [https://www.youtube.com/watch?v=6T7pUEZfgdI](https://www.youtube.com/watch?v=6T7pUEZfgdI)
@@ -72,22 +72,22 @@
 
  ## New California Law Allows Jail Time for Using Wrong Gender Pronoun — San Diego Criminal Lawyers Blog — February 2, 2018
  - [https://www.sandiegocriminallawyersblog.com/new-california-law-allows-jail-time-using-wrong-gender-pronoun](https://www.sandiegocriminallawyersblog.com/new-california-law-allows-jail-time-using-wrong-gender-pronoun)
- - date_published: 2018-02-02T11:05:53+00:00
+ - date_published: 2018-02-02T08:13:20+00:00
  - tags: ['newspeak', 'pronouns', 'the left wing']
 
  ## Why Paper Jams Persist | The New Yorker
  - [https://www.newyorker.com/magazine/2018/02/12/why-paper-jams-persist](https://www.newyorker.com/magazine/2018/02/12/why-paper-jams-persist)
  - date_published: 2018-02-05T10:00:00+00:00
 
+ ## Huragan wokół wadliwych szczepionek. MZ: Nie jesteśmy w stanie pilnować każdej lodówki - GazetaPrawna.pl
+ - [https://serwisy.gazetaprawna.pl/zdrowie/artykuly/1102427,wadliwe-szczepionki-w-polsce-mz.html](https://serwisy.gazetaprawna.pl/zdrowie/artykuly/1102427,wadliwe-szczepionki-w-polsce-mz.html)
+ - date_published: 2018-02-06T07:47:00+00:00
+ - tags: ['poland', 'vaccine']
+
  ## You can’t buy an ethical smartphone today
  - [https://www.engadget.com/2018-02-06-ethical-smartphone-conscious-consumption.html?guccounter=1&guce_referrer=aHR0cHM6Ly9kdWNrZHVja2dvLmNvbS8&guce_referrer_sig=AQAAAF7c3xppIbRVTms-CVHzXPrhxA3BXg4mamuzEBGlWlFrW4lrf6eERLvuoUQQssRm1Ifc2bq9gIziWm-L5DwjFvZ9Ci9f1Bv5cfqF8sOc_ocvqaG6oL08IwJ0DGM9cLlk0rp0Essfg-_wDHlQ6Fo-lEyJR4USUdwZ_ADIXOdlGIwq](https://www.engadget.com/2018-02-06-ethical-smartphone-conscious-consumption.html?guccounter=1&guce_referrer=aHR0cHM6Ly9kdWNrZHVja2dvLmNvbS8&guce_referrer_sig=AQAAAF7c3xppIbRVTms-CVHzXPrhxA3BXg4mamuzEBGlWlFrW4lrf6eERLvuoUQQssRm1Ifc2bq9gIziWm-L5DwjFvZ9Ci9f1Bv5cfqF8sOc_ocvqaG6oL08IwJ0DGM9cLlk0rp0Essfg-_wDHlQ6Fo-lEyJR4USUdwZ_ADIXOdlGIwq)
  - date_published: 2018-02-06T11:23:05+00:00
  - tags: ['hardware', 'slave labour', 'smartphone']
-
- ## Huragan wokół wadliwych szczepionek. MZ: Nie jesteśmy w stanie pilnować każdej lodówki - GazetaPrawna.pl
- - [https://serwisy.gazetaprawna.pl/zdrowie/artykuly/1102427,wadliwe-szczepionki-w-polsce-mz.html](https://serwisy.gazetaprawna.pl/zdrowie/artykuly/1102427,wadliwe-szczepionki-w-polsce-mz.html)
- - date_published: 2018-02-06T20:07:11+00:00
- - tags: ['poland', 'vaccine']
 
  ## White House blasts Russia for NotPetya cyberattack
  - [https://www.cnn.com/2018/02/15/politics/white-house-russia-notpetya/index.html](https://www.cnn.com/2018/02/15/politics/white-house-russia-notpetya/index.html)
@@ -123,7 +123,7 @@
  - [https://zdrowie.radiozet.pl/medycyna/wiadomosci/Prokuratura-Krajowa-wszczela-sledztwo-w-sprawie-wadliwych-szczepionek](https://zdrowie.radiozet.pl/medycyna/wiadomosci/Prokuratura-Krajowa-wszczela-sledztwo-w-sprawie-wadliwych-szczepionek)
  - date_published: 2018-02-28T16:39:56+00:00
  - tags: ['covid', 'vaccine']
- - date_dead_since: 2025-04-09T09:05:11.571633+00:00
+ - date_dead_since: 2025-08-17T09:11:56.854520+00:00
 
  ## Who Owns the Data Your Car Collects?
  - [https://www.consumerreports.org/automotive-technology/who-owns-the-data-your-car-collects](https://www.consumerreports.org/automotive-technology/who-owns-the-data-your-car-collects)
@@ -134,7 +134,7 @@
  - [https://www.nationalreview.com/2018/03/british-police-failed-stop-child-sex-ring-over-racism-fears](https://www.nationalreview.com/2018/03/british-police-failed-stop-child-sex-ring-over-racism-fears)
  - date_published: 2018-03-11T11:25:48+00:00
  - tags: ['immigration', 'police', 'racism']
- - date_dead_since: 2024-10-26T10:08:21.903183+00:00
+ - date_dead_since: 2025-08-17T09:06:43.432898+00:00
 
  ## YouTube Extremism and the Long Tail - The Atlantic
  - [https://www.theatlantic.com/politics/archive/2018/03/youtube-extremism-and-the-long-tail/555350](https://www.theatlantic.com/politics/archive/2018/03/youtube-extremism-and-the-long-tail/555350)
@@ -150,12 +150,13 @@
  - [https://www.businessinsider.com/r-un-investigators-cite-facebook-role-in-myanmar-crisis-2018-3?IR=T](https://www.businessinsider.com/r-un-investigators-cite-facebook-role-in-myanmar-crisis-2018-3?IR=T)
  - date_published: 2018-03-13T11:23:25+00:00
  - tags: ['facebook', 'hate speech', 'myanmar', 'privacy']
- - date_dead_since: 2024-10-26T09:58:05.519068+00:00
+ - date_dead_since: 2025-08-17T08:56:43.714144+00:00
 
  ## These Are The Concerns Slowly Killing Ad-Tech
  - [https://readwrite.com/concerns-slowly-killing-ad-tech](https://readwrite.com/concerns-slowly-killing-ad-tech)
  - date_published: 2018-03-14T11:27:13+00:00
  - tags: ['ad business']
+ - date_dead_since: 2025-08-17T08:52:43.406452+00:00
 
  ## Privacy and Social Media
  - [https://www.youtube.com/watch?v=sMLVkBxke20](https://www.youtube.com/watch?v=sMLVkBxke20)
@@ -174,7 +175,7 @@
 
  ## Recommended compiler and linker flags for GCC
  - [https://developers.redhat.com/blog/2018/03/21/compiler-and-linker-flags-gcc](https://developers.redhat.com/blog/2018/03/21/compiler-and-linker-flags-gcc)
- - date_published: 2018-03-21T13:26:10+00:00
+ - date_published: 2018-03-21T06:55:57+00:00
  - tags: ['gcc', 'programming']
 
  ## Why have we given up our privacy to Facebook and other sites so willingly?
@@ -186,6 +187,11 @@
  - [https://www.youtube.com/watch?v=iYpl0QVCr6U](https://www.youtube.com/watch?v=iYpl0QVCr6U)
  - date_published: 2018-03-23T00:00:00+00:00
  - tags: ['bloatware', 'internet', 'maciej cegłowski']
+
+ ## The Facebook and Cambridge Analytica scandal, explained with a simple diagram
+ - [https://www.vox.com/policy-and-politics/2018/3/23/17151916/facebook-cambridge-analytica-trump-diagram](https://www.vox.com/policy-and-politics/2018/3/23/17151916/facebook-cambridge-analytica-trump-diagram)
+ - date_published: 2018-03-23T12:20:02+00:00
+ - tags: ['cambridge analytica', 'censorship', 'donald trump', 'facebook', 'propaganda']
 
  ## Facebook scraped call, text message data for years from Android phones [Updated]
  - [https://arstechnica.com/information-technology/2018/03/facebook-scraped-call-text-message-data-for-years-from-android-phones](https://arstechnica.com/information-technology/2018/03/facebook-scraped-call-text-message-data-for-years-from-android-phones)
@@ -224,7 +230,7 @@
 
  ## Israel says to send thousands of African migrants to Western countries
  - [https://www.nbcnews.com/news/world/israel-strikes-u-n-deal-send-thousands-african-migrants-western-n861956](https://www.nbcnews.com/news/world/israel-strikes-u-n-deal-send-thousands-african-migrants-western-n861956)
- - date_published: 2018-04-02T18:16:21+00:00
+ - date_published: 2018-04-02T13:49:15+00:00
  - tags: ['immigration', 'israel']
 
  ## Dr. Jordan Peterson on the James Damore Memo
@@ -236,12 +242,12 @@
  - [https://www.nytimes.com/2018/04/04/us/politics/cambridge-analytica-scandal-fallout.html](https://www.nytimes.com/2018/04/04/us/politics/cambridge-analytica-scandal-fallout.html)
  - date_published: 2018-04-04T11:09:25+00:00
  - tags: ['cambridge analytica']
+ - date_dead_since: 2025-08-17T08:07:43.326092+00:00
 
  ## Governments that disarm the people have troubling history - Albuquerque Journal
  - [https://www.abqjournal.com/1154293/governments-that-disarm-the-people-have-troubling-history.html](https://www.abqjournal.com/1154293/governments-that-disarm-the-people-have-troubling-history.html)
  - date_published: 2018-04-04T20:16:37+00:00
  - tags: ['gun control']
- - date_dead_since: 2024-10-26T08:58:08.054715+00:00
 
  ## How Mark Zuckerberg Protects His Own Privacy Online
  - [https://slate.com/technology/2018/04/how-mark-zuckerberg-protects-his-own-privacy-online.html](https://slate.com/technology/2018/04/how-mark-zuckerberg-protects-his-own-privacy-online.html)
@@ -250,12 +256,12 @@
 
  ## Meet Aladdin, the computer "more powerful than traditional politics"
  - [https://www.newstatesman.com/politics/business-and-finance/2018/04/meet-aladdin-computer-more-powerful-traditional-politics](https://www.newstatesman.com/politics/business-and-finance/2018/04/meet-aladdin-computer-more-powerful-traditional-politics)
- - date_published: 2018-04-06T22:12:40+00:00
+ - date_published: 2018-04-06T06:00:47+00:00
  - tags: ['aladdin', 'artificial intelligence', 'blackrock']
 
  ## How much VR user data is Oculus giving to Facebook?
  - [https://www.theverge.com/2018/4/9/17206650/oculus-facebook-vr-user-data-mining-privacy-policy-advertising](https://www.theverge.com/2018/4/9/17206650/oculus-facebook-vr-user-data-mining-privacy-policy-advertising)
- - date_published: 2018-04-09T19:48:41+00:00
+ - date_published: 2018-04-09T19:07:57+00:00
  - tags: ['facebook', 'meta', 'oculus', 'privacy', 'virtual reality']
 
  ## Mozilla: The ad economy is broken and it's making the internet sick
@@ -263,21 +269,21 @@
  - date_published: 2018-04-10T06:43:44+00:00
  - tags: ['ad business', 'all time', 'internet']
 
- ## Science proves communism makes nations poorer and less healthy
- - [https://nypost.com/2018/04/11/science-proves-communism-makes-nations-poorer-and-less-healthy](https://nypost.com/2018/04/11/science-proves-communism-makes-nations-poorer-and-less-healthy)
- - date_published: 2018-04-11T19:50:05+00:00
- - tags: ['socialism', 'society']
-
  ## Latest Evidence From Norway Shows Female Hiring Quotas Hurt Women
  - [https://thefederalist.com/2018/04/11/latest-evidence-norway-shows-female-hiring-quotas-hurt-women](https://thefederalist.com/2018/04/11/latest-evidence-norway-shows-female-hiring-quotas-hurt-women)
- - date_published: 2018-04-11T21:04:56+00:00
+ - date_published: 2018-04-11T10:53:28+00:00
  - tags: ['feminism', 'norway']
+
+ ## Science proves communism makes nations poorer and less healthy
+ - [https://nypost.com/2018/04/11/science-proves-communism-makes-nations-poorer-and-less-healthy](https://nypost.com/2018/04/11/science-proves-communism-makes-nations-poorer-and-less-healthy)
+ - date_published: 2018-04-11T15:54:57+00:00
+ - tags: ['socialism', 'society']
 
  ## 11 signs you’re writing great code
  - [https://www.infoworld.com/article/3268310/application-development/11-signs-youre-writing-great-code.html](https://www.infoworld.com/article/3268310/application-development/11-signs-youre-writing-great-code.html)
  - date_published: 2018-04-12T10:01:48+00:00
  - tags: ['clean code', 'programming']
- - date_dead_since: 2024-10-26T08:28:07.595727+00:00
+ - date_dead_since: 2025-08-17T07:32:49.082968+00:00
 
  ## Public Attention Forces Facebook To Retreat From Anti-Privacy Alliance With ISPs In California
  - [https://www.techdirt.com/2018/04/13/public-attention-forces-facebook-to-retreat-anti-privacy-alliance-with-isps-california](https://www.techdirt.com/2018/04/13/public-attention-forces-facebook-to-retreat-anti-privacy-alliance-with-isps-california)
@@ -296,7 +302,7 @@
 
  ## On The Internet, Bots Have Already Overrun Humans. What Do They Want?
  - [https://www.forbes.com/sites/michaeldurkheimer/2018/04/16/on-the-internet-bots-have-already-overrun-humans-what-do-they-want](https://www.forbes.com/sites/michaeldurkheimer/2018/04/16/on-the-internet-bots-have-already-overrun-humans-what-do-they-want)
- - date_published: 2018-04-16T10:03:20+00:00
+ - date_published: 2018-04-16T00:00:00+00:00
  - tags: ['dead internet', 'social media']
 
  ## You Won’t Believe What Obama Says In This Video! 😉
@@ -350,11 +356,6 @@
  - date_published: 2018-05-01T07:27:13+00:00
  - tags: ['bill gates', 'who']
 
- ## The Facebook and Cambridge Analytica scandal, explained with a simple diagram
- - [https://www.vox.com/policy-and-politics/2018/3/23/17151916/facebook-cambridge-analytica-trump-diagram](https://www.vox.com/policy-and-politics/2018/3/23/17151916/facebook-cambridge-analytica-trump-diagram)
- - date_published: 2018-05-02T11:10:30+00:00
- - tags: ['cambridge analytica', 'censorship', 'donald trump', 'facebook', 'propaganda']
-
  ## Kate Is The Real Villain Of Sicario
  - [https://www.youtube.com/watch?v=Omkf9s80gIQ](https://www.youtube.com/watch?v=Omkf9s80gIQ)
  - date_published: 2018-05-08T00:00:00+00:00
@@ -364,11 +365,6 @@
  - [https://www.youtube.com/watch?v=A4foal20UTA](https://www.youtube.com/watch?v=A4foal20UTA)
  - date_published: 2018-05-10T00:00:00+00:00
  - tags: ['all time', 'blackrock']
-
- ## Microsoft's Windows 10 has permission to spy on you
- - [https://www.techworm.net/2014/10/microsofts-windows-10-permission-watch-every-move.html](https://www.techworm.net/2014/10/microsofts-windows-10-permission-watch-every-move.html)
- - date_published: 2018-05-10T09:02:08+00:00
- - tags: ['dark design', 'eula', 'microsoft', 'privacy', 'surveillance', 'windows']
 
  ## Sanji in Kamabakka kingdom - One Piece
  - [https://www.youtube.com/watch?v=tKjlf6DMXTk](https://www.youtube.com/watch?v=tKjlf6DMXTk)
@@ -398,12 +394,12 @@
 
  ## 15 Years Ago, the Military Tried to Record Whole Human Lives. It Ended Badly
  - [https://www.vice.com/en/article/vbqdb8/15-years-ago-the-military-tried-to-record-whole-human-lives-it-ended-badly](https://www.vice.com/en/article/vbqdb8/15-years-ago-the-military-tried-to-record-whole-human-lives-it-ended-badly)
- - date_published: 2018-05-21T15:16:25+00:00
+ - date_published: 2018-05-21T13:00:00+00:00
  - tags: ['lifelog', 'privacy', 'surveillance']
 
  ## Google quietly removes ‘don’t be evil’ preface from code of conduct | The Independent | The Independent
  - [https://www.independent.co.uk/tech/google-dont-be-evil-code-conduct-removed-alphabet-a8361276.html](https://www.independent.co.uk/tech/google-dont-be-evil-code-conduct-removed-alphabet-a8361276.html)
- - date_published: 2018-05-21T20:51:39+00:00
+ - date_published: 2018-05-21T19:23:25+00:00
  - tags: ["don't be evil", 'google']
 
  ## Google erases 'Don't be evil' from code of conduct after 18 years | ZDNET
@@ -428,7 +424,7 @@
 
  ## New Zealand's Five Eyes membership called into question over 'China links' | New Zealand | The Guardian
  - [https://www.theguardian.com/world/2018/may/28/new-zealands-five-eyes-membership-called-into-question-over-china-links](https://www.theguardian.com/world/2018/may/28/new-zealands-five-eyes-membership-called-into-question-over-china-links)
- - date_published: 2018-05-28T18:16:50+00:00
+ - date_published: 2018-05-28T02:55:07+00:00
  - tags: ['china', 'espionage', 'five eyes', 'new zealand']
 
  ## Facebook Gave Device Makers Deep Access to Data on Users and Friends (Published 2018)
@@ -446,6 +442,11 @@
  - date_published: 2018-06-06T12:17:34+00:00
  - tags: ['azealia banks', 'deplatform', 'twitter']
 
+ ## Były szef CIA potentatem medialnym na Bałkanach
+ - [https://dorzeczy.pl/swiat/67364/byly-szef-cia-potentatem-medialnym-na-balkanach.html](https://dorzeczy.pl/swiat/67364/byly-szef-cia-potentatem-medialnym-na-balkanach.html)
+ - date_published: 2018-06-14T16:22:00+00:00
+ - tags: ['cia', 'david petraeus', 'legacy media', 'psyop', 'social media']
+
  ## Can we trust AI if we don't know how it works?
  - [https://www.bbc.com/news/business-44466213](https://www.bbc.com/news/business-44466213)
  - date_published: 2018-06-15T19:50:48+00:00
@@ -456,11 +457,6 @@
  - date_published: 2018-06-20T13:43:41+00:00
  - tags: ['carbon footprint', 'climate change', 'corporatocracy']
 
- ## Były szef CIA potentatem medialnym na Bałkanach
- - [https://dorzeczy.pl/swiat/67364/byly-szef-cia-potentatem-medialnym-na-balkanach.html](https://dorzeczy.pl/swiat/67364/byly-szef-cia-potentatem-medialnym-na-balkanach.html)
- - date_published: 2018-06-24T15:22:25+00:00
- - tags: ['cia', 'david petraeus', 'legacy media', 'psyop', 'social media']
-
  ## No, Canadians cannot be jailed or fined just for using the wrong gender pronoun | Fact Check
  - [https://factcheck.afp.com/no-canadians-cannot-be-jailed-or-fined-just-using-wrong-gender-pronoun](https://factcheck.afp.com/no-canadians-cannot-be-jailed-or-fined-just-using-wrong-gender-pronoun)
  - date_published: 2018-06-26T10:40:51+00:00
@@ -468,7 +464,7 @@
 
  ## Is your phone WATCHING you? Apps aren't secretly listening to your private conversations but some will record video of everything you do
  - [https://www.dailymail.co.uk/sciencetech/article-5916671/Your-smartphone-NOT-listening-does-record-video-do.html](https://www.dailymail.co.uk/sciencetech/article-5916671/Your-smartphone-NOT-listening-does-record-video-do.html)
- - date_published: 2018-07-04T12:04:50+00:00
+ - date_published: 2018-07-04T10:41:14+00:00
  - tags: ['big tech', 'privacy', 'security']
 
  ## Why is Python so slow?
@@ -476,15 +472,15 @@
  - date_published: 2018-07-16T10:07:45+00:00
  - tags: ['programming', 'python']
 
+ ## Google fined a record $5 billion by the EU for Android antitrust violations - The Verge
+ - [https://www.theverge.com/2018/7/18/17580694/google-android-eu-fine-antitrust](https://www.theverge.com/2018/7/18/17580694/google-android-eu-fine-antitrust)
+ - date_published: 2018-07-18T08:28:02+00:00
+ - tags: ['android', 'antitrust', 'big tech', 'chrome', 'google']
+
  ## Social Engineering as a Threat to Societies: The Cambridge Analytica Case
  - [https://www.realcleardefense.com/articles/2018/07/18/social_engineering_as_a_threat_to_societies_the_cambridge_analytica_case_113620.html](https://www.realcleardefense.com/articles/2018/07/18/social_engineering_as_a_threat_to_societies_the_cambridge_analytica_case_113620.html)
  - date_published: 2018-07-18T13:25:21+00:00
  - tags: ['cambridge analityca', 'social engineering']
-
- ## Google fined a record $5 billion by the EU for Android antitrust violations - The Verge
- - [https://www.theverge.com/2018/7/18/17580694/google-android-eu-fine-antitrust](https://www.theverge.com/2018/7/18/17580694/google-android-eu-fine-antitrust)
- - date_published: 2018-07-18T13:57:43+00:00
- - tags: ['android', 'antitrust', 'big tech', 'chrome', 'google']
 
  ## How to give IT project estimates—and when not to estimate at all
  - [https://www.hpe.com/us/en/insights/articles/how-to-give-it-project-estimates-and-when-not-to-estimate-at-all-1807.html](https://www.hpe.com/us/en/insights/articles/how-to-give-it-project-estimates-and-when-not-to-estimate-at-all-1807.html)
@@ -498,7 +494,7 @@
 
  ## If you can quit social media, but don’t, then you’re part of the problem, Jaron Lanier says
  - [https://www.vox.com/2018/7/27/17618756/jaron-lanier-deleting-social-media-book-kara-swisher-too-embarrassed-podcast](https://www.vox.com/2018/7/27/17618756/jaron-lanier-deleting-social-media-book-kara-swisher-too-embarrassed-podcast)
- - date_published: 2018-07-27T20:10:10+00:00
+ - date_published: 2018-07-27T10:15:01+00:00
  - tags: ['jaron lanier', 'social media']
 
  ## Is there life on other planets? (1962) | RetroFocus
@@ -555,6 +551,7 @@
  - [https://www.nytimes.com/2018/08/28/business/media/rotten-tomatoes-critics.html](https://www.nytimes.com/2018/08/28/business/media/rotten-tomatoes-critics.html)
  - date_published: 2018-08-28T08:49:46+00:00
  - tags: ['inclusive', 'inequality', 'movies', 'rotten tomatoes', 'the left wing']
+ - date_dead_since: 2025-08-17T00:26:09.624073+00:00
 
  ## Fans Have a Dark Theory Behind the Story of Totoro
  - [https://nextshark.com/fans-dark-theory-behind-story-totoro](https://nextshark.com/fans-dark-theory-behind-story-totoro)
