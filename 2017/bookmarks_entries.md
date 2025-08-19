@@ -20,12 +20,12 @@
 
  ## Media Matters Says It Is Secretly Working with Facebook to Fight ‘Fake News’
  - [https://freebeacon.com/politics/media-matters-says-secretly-working-facebook-fight-fake-news](https://freebeacon.com/politics/media-matters-says-secretly-working-facebook-fight-fake-news)
- - date_published: 2017-01-26T20:14:15+00:00
+ - date_published: 2017-01-26T17:40:49+00:00
  - tags: ['disinformation', 'facebook', 'fakenews', 'media', 'media matters', 'misinformation']
 
  ## Przeczywistość: Pizzagate
  - [http://przeczywistosc.pl/pizzagate](http://przeczywistosc.pl/pizzagate)
- - date_published: 2017-02-01T19:51:40+00:00
+ - date_published: 2017-02-01T18:31:18+00:00
  - tags: ['paedophilia', 'pizzagate']
 
  ## BALFOUR 100
@@ -72,16 +72,17 @@
  - [https://www.nytimes.com/2017/03/07/world/europe/wikileaks-cia-hacking.html](https://www.nytimes.com/2017/03/07/world/europe/wikileaks-cia-hacking.html)
  - date_published: 2017-03-07T21:41:31+00:00
  - tags: ['big brother', 'cia', 'julian assange', 'malware', 'surveillance', 'trojan', 'vulnerability', 'wikileaks']
+ - date_dead_since: 2025-08-18T03:30:10.303458+00:00
+
+ ## FBI: 'No such thing as absolute privacy'
+ - [http://www.cnn.com/2017/03/08/politics/james-comey-privacy-cybersecurity/index.html](http://www.cnn.com/2017/03/08/politics/james-comey-privacy-cybersecurity/index.html)
+ - date_published: 2017-03-08T15:50:03+00:00
+ - tags: ['fbi', 'privacy', 'surveillance']
 
  ## Vault 7: CIA Borrowed Code from Public Malware
  - [https://www.bleepingcomputer.com/news/security/vault-7-cia-borrowed-code-from-public-malware](https://www.bleepingcomputer.com/news/security/vault-7-cia-borrowed-code-from-public-malware)
  - date_published: 2017-03-08T21:45:34+00:00
  - tags: ['cia', 'malware', 'spyware', 'surveillance', 'vault7', 'vulnerability', 'wikileaks']
-
- ## FBI: 'No such thing as absolute privacy'
- - [http://www.cnn.com/2017/03/08/politics/james-comey-privacy-cybersecurity/index.html](http://www.cnn.com/2017/03/08/politics/james-comey-privacy-cybersecurity/index.html)
- - date_published: 2017-03-09T07:26:07+00:00
- - tags: ['fbi', 'privacy', 'surveillance']
 
  ## Security experts say 'Vault 7' leak describes common, public hacks
  - [https://money.cnn.com/2017/03/09/technology/cia-smart-tv-wikileaks-public-hacks](https://money.cnn.com/2017/03/09/technology/cia-smart-tv-wikileaks-public-hacks)
@@ -90,7 +91,7 @@
 
  ## What is the WikiLeaks Vault 7 release about CIA TV snooping powers and what is the Weeping Angel virus Samsung hack? | The Sun
  - [https://www.thesun.co.uk/news/3037357/wikileaks-vault-7-samsung-tv-weeping-angel-cia](https://www.thesun.co.uk/news/3037357/wikileaks-vault-7-samsung-tv-weeping-angel-cia)
- - date_published: 2017-03-09T21:48:33+00:00
+ - date_published: 2017-03-09T10:30:40+00:00
  - tags: ['cia', 'malware', 'spyware', 'surveillance', 'vault7', 'vulnerability', 'wikileaks']
 
  ## Dishonest Fact-Checkers - Capital Research Center
@@ -137,6 +138,7 @@
  - [https://qz.com/948980/china-has-fished-itself-out-of-its-own-waters-so-chinese-fishermen-are-now-sticking-their-rods-in-other-nations-seas](https://qz.com/948980/china-has-fished-itself-out-of-its-own-waters-so-chinese-fishermen-are-now-sticking-their-rods-in-other-nations-seas)
  - date_published: 2017-04-04T08:22:53+00:00
  - tags: ['china', 'climate change', 'pollution']
+ - date_dead_since: 2025-08-18T01:04:05.068782+00:00
 
  ## Pepsi advert with Kendall Jenner pulled after huge backlash | The Independent | The Independent
  - [https://www.independent.co.uk/arts-entertainment/tv/news/pepsi-advert-pulled-kendall-jenner-protest-video-cancelled-removed-a7668986.html](https://www.independent.co.uk/arts-entertainment/tv/news/pepsi-advert-pulled-kendall-jenner-protest-video-cancelled-removed-a7668986.html)

@@ -396,19 +396,19 @@
  - date_published: 2016-12-14T13:38:36+00:00
  - tags: ['bilderberg meeting', 'józef retinger', 'secret societies']
 
+ ## How Google's search algorithm spreads false information with a rightwing bias | Google | The Guardian
+ - [https://www.theguardian.com/technology/2016/dec/16/google-autocomplete-rightwing-bias-algorithm-political-propaganda](https://www.theguardian.com/technology/2016/dec/16/google-autocomplete-rightwing-bias-algorithm-political-propaganda)
+ - date_published: 2016-12-16T11:00:01+00:00
+ - tags: ['algorithms', 'psyop', 'search engines', 'social engineering']
+
  ## Clinton mega donor George Soros leads line-up of liberal billionaires who are funding Facebook's fake news fact checker
  - [https://www.dailymail.co.uk/news/article-4041910/Clinton-mega-donor-George-Soros-leads-line-liberal-billionaires-funding-Facebook-s-fake-news-fact-checker.html](https://www.dailymail.co.uk/news/article-4041910/Clinton-mega-donor-George-Soros-leads-line-liberal-billionaires-funding-Facebook-s-fake-news-fact-checker.html)
  - date_published: 2016-12-16T13:56:18+00:00
  - tags: ['billionaires', 'elites', 'facebook', 'fact check', 'fakenews', 'george soros']
 
- ## How Google's search algorithm spreads false information with a rightwing bias | Google | The Guardian
- - [https://www.theguardian.com/technology/2016/dec/16/google-autocomplete-rightwing-bias-algorithm-political-propaganda](https://www.theguardian.com/technology/2016/dec/16/google-autocomplete-rightwing-bias-algorithm-political-propaganda)
- - date_published: 2016-12-16T14:31:58+00:00
- - tags: ['algorithms', 'psyop', 'search engines', 'social engineering']
-
  ## Using Lots of Social Media Accounts Causes Anxiety
  - [https://www.techexplorist.com/using-lots-social-media-accounts-causes-anxiety/4451](https://www.techexplorist.com/using-lots-social-media-accounts-causes-anxiety/4451)
- - date_published: 2016-12-20T12:04:50+00:00
+ - date_published: 2016-12-20T11:56:49+00:00
  - tags: ['digital dementia', 'social media']
 
  ## Abseil open-source foundational code
