@@ -616,3 +616,17 @@
  - date_published: 2025-08-12T14:41:31.864986+00:00
  - tags: ['privacy', 'surveillance']
 
+ ## Israeli government official arrested in Nevada in internet crimes against children sting
+ - [https://www.theguardian.com/us-news/2025/aug/16/nevada-arrest-israeli-official](https://www.theguardian.com/us-news/2025/aug/16/nevada-arrest-israeli-official)
+ - date_published: 2025-08-16T14:16:51+00:00
+ - tags: ['israel']
+
+ ## B.C. nurse suspended by college, asked to pay $94K in costs for comments about transgender people | CBC News
+ - [https://www.cbc.ca/news/canada/british-columbia/amy-hamm-discipline-bc-nurse-1.7610933](https://www.cbc.ca/news/canada/british-columbia/amy-hamm-discipline-bc-nurse-1.7610933)
+ - date_published: 2025-08-19T07:33:28.666048+00:00
+ - tags: ['censorship', 'gender', 'inequality']
+
+ - [https://httpsepingcomputer.comnewslegalmozilla-warns-germany-could-soon-declare-ad-blockers-illegal](https://httpsepingcomputer.comnewslegalmozilla-warns-germany-could-soon-declare-ad-blockers-illegal)
+ - date_published: 2025-08-19T16:21:28.968582+00:00
+ - date_dead_since: 2025-08-19T16:21:29.039973+00:00
+
