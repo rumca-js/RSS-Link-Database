@@ -19,6 +19,11 @@
  - tags: ['gmail', 'google']
  - date_dead_since: 2025-04-25T19:42:49.272076+00:00
 
+ ## Printer tracking dots - Wikipedia
+ - [https://en.m.wikipedia.org/wiki/Printer_tracking_dots](https://en.m.wikipedia.org/wiki/Printer_tracking_dots)
+ - date_published: 2004-08-14T22:01:14+00:00
+ - tags: ['surveillance']
+
  ## George Soros: The 'God' Who Carries Around Some Dangerous Demons - Los Angeles Times
  - [https://www.latimes.com/archives/la-xpm-2004-oct-04-oe-ehrenfeld4-story.html](https://www.latimes.com/archives/la-xpm-2004-oct-04-oe-ehrenfeld4-story.html)
  - date_published: 2004-10-04T07:00:00+00:00
