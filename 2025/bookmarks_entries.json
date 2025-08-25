@@ -3725,5 +3725,33 @@
         "thumbnail": null,
         "title": null,
         "vote": 0
+    },
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_created": "2025-08-24T20:30:19.222935+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-08-24T20:31:21.297268+00:00",
+        "description": "Maxwell was interviewed after pressure on Trump to release information about whether prominent figures were involved in Jeffrey Epstein's crimes.",
+        "id": 3408169,
+        "language": "en-GB",
+        "link": "https://www.bbc.com/news/articles/cdd3pe6189go",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 86,
+        "page_rating_visits": 2,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "jeffrey epstein"
+        ],
+        "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/0dad/live/99c0ab30-7f99-11f0-84a2-0722ea84f1f9.jpg",
+        "title": "Ghislaine Maxwell interview transcripts released by US justice department",
+        "vote": 0
     }
 ]

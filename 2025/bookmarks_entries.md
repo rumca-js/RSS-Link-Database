@@ -634,3 +634,8 @@
  - date_published: 2025-08-22T18:30:08.602098+00:00
  - date_dead_since: 2025-08-22T18:30:08.643214+00:00
 
+ ## Ghislaine Maxwell interview transcripts released by US justice department
+ - [https://www.bbc.com/news/articles/cdd3pe6189go](https://www.bbc.com/news/articles/cdd3pe6189go)
+ - date_published: 2025-08-24T20:31:21.297268+00:00
+ - tags: ['jeffrey epstein']
+
