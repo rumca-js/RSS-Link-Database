@@ -639,3 +639,8 @@
  - date_published: 2025-08-24T20:31:21.297268+00:00
  - tags: ['jeffrey epstein']
 
+ ## Jeffery Epstein: How a Government Spy Blackmailed America
+ - [https://www.youtube.com/watch?v=x1oh19SYQZI](https://www.youtube.com/watch?v=x1oh19SYQZI)
+ - date_published: 2025-08-28T00:05:22+00:00
+ - tags: ['jeffrey epstein']
+
