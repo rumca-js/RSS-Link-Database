@@ -370,6 +370,7 @@
  - [https://betanews.com/2016/11/24/microsoft-shares-windows-10-telemetry-data-with-third-parties](https://betanews.com/2016/11/24/microsoft-shares-windows-10-telemetry-data-with-third-parties)
  - date_published: 2016-11-24T08:54:13+00:00
  - tags: ['microsoft', 'privacy', 'surveillance', 'telemetry', 'windows']
+ - date_dead_since: 2025-09-01T20:32:06.661649+00:00
 
  ## Reddit CEO admits he edited Trump supporters' comments on social network | The Independent | The Independent
  - [https://www.independent.co.uk/tech/reddit-donald-trump-steve-huffman-spez-pizzagate-trolls-hillary-clinton-a7436406.html](https://www.independent.co.uk/tech/reddit-donald-trump-steve-huffman-spez-pizzagate-trolls-hillary-clinton-a7436406.html)
