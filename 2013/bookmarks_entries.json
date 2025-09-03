@@ -23,7 +23,7 @@
         "tags": [
             "aaron swartz"
         ],
-        "thumbnail": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2013/5/29/1369827994288/Aaron-Swartz-internet-act-010.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tYWdlLTIwMTMucG5n&enable=upscale&s=6d3b6581c7af8e9bf11ed9ff23c5f9b8",
+        "thumbnail": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2013/5/29/1369827994288/Aaron-Swartz-internet-act-010.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tYWdlLTIwMTMucG5n&enable=upscale&s=058020bdfba55d78e2aa660df365d41b",
         "title": "Aaron Swartz: hacker, genius\u2026 martyr?",
         "vote": 0
     },
@@ -71,13 +71,13 @@
         "language": "en-US",
         "link": "https://www.nytimes.com/2013/01/13/technology/aaron-swartz-internet-activist-dies-at-26.html",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 29,
+        "page_rating_contents": 81,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.nytimes.com",
-        "status_code": 200,
+        "status_code": 403,
         "tags": [
             "aaron swartz",
             "rss"
@@ -622,7 +622,7 @@
             "germany",
             "paedophilia"
         ],
-        "thumbnail": "https://i.guim.co.uk/img/static/sys-images/Guardian/About/General/2013/5/14/1368554748671/Daniel-Cohn-Bendit-010.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTMucG5n&enable=upscale&s=646c3cfac95d758e83fbbec228f22b0d",
+        "thumbnail": "https://i.guim.co.uk/img/static/sys-images/Guardian/About/General/2013/5/14/1368554748671/Daniel-Cohn-Bendit-010.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTMucG5n&enable=upscale&s=15a14b006b4df56f09eebde5b60253f3",
         "title": "Green party in Germany to investigate backing for paedophiles in 80s",
         "vote": 0
     },
@@ -694,13 +694,13 @@
         "language": "en",
         "link": "https://worldcrunch.com/culture-society/the-ugliest-open-secret-of-german-politics-pedophiles-in-the-green-party039s-past",
         "manual_status_code": 0,
-        "page_rating": 32,
-        "page_rating_contents": 91,
+        "page_rating": 31,
+        "page_rating_contents": 87,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://worldcrunch.com",
-        "status_code": 200,
+        "status_code": 403,
         "tags": [
             "germany",
             "lgbt",
@@ -824,7 +824,7 @@
         "manual_status_code": 0,
         "page_rating": 29,
         "page_rating_contents": 81,
-        "page_rating_visits": 1,
+        "page_rating_visits": 2,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.reddit.com",
@@ -926,7 +926,7 @@
             "edward snowden",
             "surveillance"
         ],
-        "thumbnail": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2013/6/16/1371408775664/GCHQ-composite-002.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTMucG5n&enable=upscale&s=ba3ab60a52c1d393c3eceef2ef4bbb3f",
+        "thumbnail": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2013/6/16/1371408775664/GCHQ-composite-002.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTMucG5n&enable=upscale&s=29eec877a242f9dda399a7c0bdfe3dbf",
         "title": "GCHQ intercepted foreign politicians' communications at G20 summits | GCHQ | The Guardian",
         "vote": 0
     },
@@ -1086,7 +1086,7 @@
             "nsa",
             "privacy"
         ],
-        "thumbnail": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2013/7/11/1373561606107/Skype-logo-008.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTMucG5n&enable=upscale&s=277c80d07bcde017fd818e6a1573143e",
+        "thumbnail": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2013/7/11/1373561606107/Skype-logo-008.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTMucG5n&enable=upscale&s=d5f33b44e959af9c2b896f90d6619e0d",
         "title": "Microsoft handed the NSA access to encrypted messages | NSA | The Guardian",
         "vote": 0
     },
@@ -1097,20 +1097,20 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-02-29T15:00:09.317482+00:00",
-        "date_dead_since": "2025-04-25T07:51:49.544762+00:00",
+        "date_dead_since": null,
         "date_published": "2013-07-14T15:11:32+00:00",
         "description": "Attention, Shoppers: Store Is Tracking Your Cell - The New York Times",
         "id": 40386,
         "language": "en",
         "link": "https://www.nytimes.com/2013/07/15/business/attention-shopper-stores-are-tracking-your-cell.html",
         "manual_status_code": 0,
-        "page_rating": 0,
-        "page_rating_contents": 0,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.nytimes.com",
-        "status_code": 604,
+        "status_code": 200,
         "tags": [
             "corporatocracy",
             "privacy",
@@ -1333,20 +1333,20 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-02-29T15:00:09.037113+00:00",
-        "date_dead_since": "2025-04-25T07:26:53.353125+00:00",
+        "date_dead_since": null,
         "date_published": "2013-09-05T07:23:09+00:00",
         "description": "N.S.A. Able to Foil Basic Safeguards of Privacy on Web - The New York Times",
         "id": 40381,
         "language": "en",
         "link": "https://www.nytimes.com/2013/09/06/us/nsa-foils-much-internet-encryption.html",
         "manual_status_code": 0,
-        "page_rating": 0,
-        "page_rating_contents": 0,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 1,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.nytimes.com",
-        "status_code": 604,
+        "status_code": 200,
         "tags": [
             "anonymity",
             "big brother",
@@ -1935,7 +1935,7 @@
             "surveillance",
             "technofeudalism"
         ],
-        "thumbnail": "https://www.alternet.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yMzU1MTQ4MC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc1MjE4NTI4MX0.4h_EejxZSRjU1qJ_IfTZGIInskymq8FdSrvGGlxU0zw/image.jpg?width=210",
+        "thumbnail": "https://www.alternet.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yMzU1MTQ4MC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTgxNTI1NzI4MX0.NLa0oNgACic3glFS0R7a8_ZlsNCdTiuvRm3rG3IAoKg/image.jpg?width=210",
         "title": "The Psychological Dark Side of Gmail",
         "vote": 0
     }

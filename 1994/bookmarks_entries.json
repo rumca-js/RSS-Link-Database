@@ -65,7 +65,7 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-02-29T14:58:21.717832+00:00",
-        "date_dead_since": "2025-04-25T22:42:13.128643+00:00",
+        "date_dead_since": "2025-09-02T22:42:34.389519+00:00",
         "date_published": "1994-04-15T09:30:53+00:00",
         "description": "Tobacco Chiefs Say Cigarettes Aren't Addictive - The New York Times",
         "id": 39636,
@@ -78,7 +78,7 @@
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.nytimes.com",
-        "status_code": 500,
+        "status_code": 600,
         "tags": [
             "cigarettes",
             "congress",

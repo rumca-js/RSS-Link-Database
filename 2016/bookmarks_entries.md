@@ -2,6 +2,7 @@
  - [https://humansbefree.com/2016/01/feminism-how-the-rockefellers-re-engineered-women-and-why.html](https://humansbefree.com/2016/01/feminism-how-the-rockefellers-re-engineered-women-and-why.html)
  - date_published: 2016-01-01T21:06:57+00:00
  - tags: ['aaron russo', 'conspiracy theory', 'feminism', 'propaganda', 'rockefeller', 'social engineering']
+ - date_dead_since: 2025-09-02T05:33:14.412757+00:00
 
  ## Microsoft may be collecting more data than initially thought - gHacks Tech News
  - [https://www.ghacks.net/2016/01/05/microsoft-may-be-collecting-more-data-than-initially-thought](https://www.ghacks.net/2016/01/05/microsoft-may-be-collecting-more-data-than-initially-thought)
@@ -207,7 +208,7 @@
  - [https://sites.psu.edu/angelapassion/2016/07/02/spirited-away](https://sites.psu.edu/angelapassion/2016/07/02/spirited-away)
  - date_published: 2016-07-02T20:42:05+00:00
  - tags: ['conspiracy theory', 'movies', 'spirited away']
- - date_dead_since: 2024-10-27T01:57:30.860948+00:00
+ - date_dead_since: 2025-09-02T03:16:38.731243+00:00
 
  ## Papież Benedykt XVI: W Watykanie była „gejowska sitwa” – DW – 03.07.2016
  - [https://www.dw.com/pl/papie%C5%BC-benedykt-xvi-w-watykanie-by%C5%82a-gejowska-sitwa/a-19374854](https://www.dw.com/pl/papie%C5%BC-benedykt-xvi-w-watykanie-by%C5%82a-gejowska-sitwa/a-19374854)
@@ -233,7 +234,7 @@
  - [https://www.lifezette.com/2016/07/lefts-new-weapon-diversity-inclusion](https://www.lifezette.com/2016/07/lefts-new-weapon-diversity-inclusion)
  - date_published: 2016-07-14T15:47:42+00:00
  - tags: ['diversity', 'equity', 'inclusion', 'propaganda']
- - date_dead_since: 2024-10-27T01:26:12.663639+00:00
+ - date_dead_since: 2025-09-02T02:56:39.256892+00:00
 
  ## France church attack: Priest killed by two 'IS militants' - BBC News
  - [https://www.bbc.com/news/world-europe-36892785](https://www.bbc.com/news/world-europe-36892785)
@@ -260,7 +261,6 @@
  - [https://www.washingtontimes.com/news/2016/aug/16/black-lives-matter-cashes-100-million-liberal-foun](https://www.washingtontimes.com/news/2016/aug/16/black-lives-matter-cashes-100-million-liberal-foun)
  - date_published: 2016-08-16T20:44:57+00:00
  - tags: ['black lives matter', 'manufacturing consent', 'politics']
- - date_dead_since: 2025-04-24T21:53:16.091671+00:00
 
  ## With Windows 10, Microsoft Blatantly Disregards User Choice and Privacy: A Deep Dive | Electronic Frontier Foundation
  - [https://www.eff.org/deeplinks/2016/08/windows-10-microsoft-blatantly-disregards-user-choice-and-privacy-deep-dive](https://www.eff.org/deeplinks/2016/08/windows-10-microsoft-blatantly-disregards-user-choice-and-privacy-deep-dive)

@@ -57,7 +57,7 @@
  - [https://www.gawker.com/billionaire-pervert-jeffrey-epstein-and-his-famous-frie-1679246399](https://www.gawker.com/billionaire-pervert-jeffrey-epstein-and-his-famous-frie-1679246399)
  - date_published: 2015-01-22T19:55:29+00:00
  - tags: ['billionairs', 'elites', 'jeffrey epstein']
- - date_dead_since: 2024-10-27T05:13:28.851403+00:00
+ - date_dead_since: 2025-09-02T07:43:15.654364+00:00
 
  ## a brief history of one line fixes
  - [https://flak.tedunangst.com/post/a-brief-history-of-one-line-fixes](https://flak.tedunangst.com/post/a-brief-history-of-one-line-fixes)
@@ -194,6 +194,7 @@
  - [https://time.com/3950496/reddit-victoria-taylor-post](https://time.com/3950496/reddit-victoria-taylor-post)
  - date_published: 2015-07-08T10:27:26+00:00
  - tags: ['reddit']
+ - date_dead_since: 2025-09-02T06:27:43.299678+00:00
 
  ## The manipulation of the American mind: Edward Bernays and the birth of public relations
  - [https://theconversation.com/the-manipulation-of-the-american-mind-edward-bernays-and-the-birth-of-public-relations-44393](https://theconversation.com/the-manipulation-of-the-american-mind-edward-bernays-and-the-birth-of-public-relations-44393)

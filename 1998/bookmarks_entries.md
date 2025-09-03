@@ -12,7 +12,6 @@
  - [http://www.catb.org/~esr/halloween/halloween1.html](http://www.catb.org/~esr/halloween/halloween1.html)
  - date_published: 1998-08-20T10:55:15+00:00
  - tags: ['dark design', 'halloween documents', 'microsoft']
- - date_dead_since: 2025-04-25T21:48:55.624294+00:00
 
  ## Halloween documents - Wikipedia
  - [https://en.wikipedia.org/wiki/Halloween_documents](https://en.wikipedia.org/wiki/Halloween_documents)

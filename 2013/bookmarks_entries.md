@@ -181,7 +181,6 @@
  - [https://www.nytimes.com/2013/07/15/business/attention-shopper-stores-are-tracking-your-cell.html](https://www.nytimes.com/2013/07/15/business/attention-shopper-stores-are-tracking-your-cell.html)
  - date_published: 2013-07-14T15:11:32+00:00
  - tags: ['corporatocracy', 'privacy', 'surveillance', 'technofeudalism']
- - date_dead_since: 2025-04-25T07:51:49.544762+00:00
 
  ## The Creepy, Long-Standing Practice of Undersea Cable Tapping - The Atlantic
  - [https://www.theatlantic.com/international/archive/2013/07/the-creepy-long-standing-practice-of-undersea-cable-tapping/277855](https://www.theatlantic.com/international/archive/2013/07/the-creepy-long-standing-practice-of-undersea-cable-tapping/277855)
@@ -222,7 +221,6 @@
  - [https://www.nytimes.com/2013/09/06/us/nsa-foils-much-internet-encryption.html](https://www.nytimes.com/2013/09/06/us/nsa-foils-much-internet-encryption.html)
  - date_published: 2013-09-05T07:23:09+00:00
  - tags: ['anonymity', 'big brother', 'crypto wars', 'encryption', 'privacy']
- - date_dead_since: 2025-04-25T07:26:53.353125+00:00
 
  ## China threatens tough punishment for online rumour spreading
  - [https://www.reuters.com/article/china-internet-idINDEE98806R20130909](https://www.reuters.com/article/china-internet-idINDEE98806R20130909)

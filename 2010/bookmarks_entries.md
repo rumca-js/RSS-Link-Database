@@ -42,7 +42,6 @@
  - [https://www.nytimes.com/2010/04/27/world/27powerpoint.html](https://www.nytimes.com/2010/04/27/world/27powerpoint.html)
  - date_published: 2010-04-26T12:52:23+00:00
  - tags: ['funny', 'powerpoint']
- - date_dead_since: 2025-04-25T15:34:35.874935+00:00
 
  ## Facebook does not erase user-deleted content | ZDNET
  - [https://www.zdnet.com/article/facebook-does-not-erase-user-deleted-content](https://www.zdnet.com/article/facebook-does-not-erase-user-deleted-content)
@@ -53,6 +52,7 @@
  - [https://money.cnn.com/2010/05/14/technology/Google_mistaken_wifi_collection/index.htm](https://money.cnn.com/2010/05/14/technology/Google_mistaken_wifi_collection/index.htm)
  - date_published: 2010-05-14T08:48:45+00:00
  - tags: ['corporatocracy', 'google', 'law', 'privacy', 'surveillance']
+ - date_dead_since: 2025-09-02T15:27:03.699608+00:00
 
  ## Nestlé drives rainforest destruction pushing orangutans to brink of extinction - Greenpeace USA
  - [https://www.greenpeace.org/usa/news/nestle-drives-rainforest-destr](https://www.greenpeace.org/usa/news/nestle-drives-rainforest-destr)
@@ -97,7 +97,7 @@
  - [https://www.cda.pl/video/230515a9](https://www.cda.pl/video/230515a9)
  - date_published: 2010-08-03T20:55:11+00:00
  - tags: ['daniel cohn-bendit', 'lgbt', 'paedophilia', 'the left wing']
- - date_dead_since: 2024-10-27T22:39:38.514820+00:00
+ - date_dead_since: 2025-09-02T15:06:56.886333+00:00
 
  ## How radicals tried to sexually ‘liberate’ children
  - [https://ionainstitute.ie/how-radicals-tried-to-sexually-liberate-children](https://ionainstitute.ie/how-radicals-tried-to-sexually-liberate-children)
@@ -123,6 +123,7 @@
  - [https://ourworld.unu.edu/en/dennis-meadows-limiting-growth-to-save-the-world](https://ourworld.unu.edu/en/dennis-meadows-limiting-growth-to-save-the-world)
  - date_published: 2010-09-27T13:45:59+00:00
  - tags: ['depopulation', 'population']
+ - date_dead_since: 2025-09-02T14:36:50.236108+00:00
 
  ## Information from pharmaceutical companies and the quality, quantity, and cost of physicians' prescribing: a systematic review - PubMed
  - [https://pubmed.ncbi.nlm.nih.gov/20976098](https://pubmed.ncbi.nlm.nih.gov/20976098)
@@ -153,6 +154,7 @@
  - [http://edition.cnn.com/2010/US/12/01/wikileaks.amazon/index.html?eref=edition](http://edition.cnn.com/2010/US/12/01/wikileaks.amazon/index.html?eref=edition)
  - date_published: 2010-12-02T03:49:13+00:00
  - tags: ['amazon', 'big tech', 'deplatform', 'wikileaks']
+ - date_dead_since: 2025-09-02T13:23:08.868381+00:00
 
  ## Facebook–Cambridge Analytica data scandal
  - [https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal](https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal)

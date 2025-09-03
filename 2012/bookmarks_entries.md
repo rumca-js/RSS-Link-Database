@@ -17,6 +17,7 @@
  - [https://venturebeat.com/business/what-is-acta-and-why-are-thousands-of-europeans-protesting-it](https://venturebeat.com/business/what-is-acta-and-why-are-thousands-of-europeans-protesting-it)
  - date_published: 2012-01-28T19:20:48+00:00
  - tags: ['acta', 'censorship', 'government control', 'privacy', 'protest', 'surveillance']
+ - date_dead_since: 2025-09-02T12:51:17.096998+00:00
 
  ## Acta protests: Thousands take to streets across Europe - BBC News
  - [https://www.bbc.com/news/technology-16999497](https://www.bbc.com/news/technology-16999497)
@@ -37,6 +38,7 @@
  - [https://artmuseum.pl/pl/wydarzenia/occupy-wall-street-nowe-ruchy-spoleczne](https://artmuseum.pl/pl/wydarzenia/occupy-wall-street-nowe-ruchy-spoleczne)
  - date_published: 2012-03-29T07:14:08+00:00
  - tags: ['billionaires', 'occupy wall street', 'protest']
+ - date_dead_since: 2025-09-02T12:50:04.228154+00:00
 
  ## The flip side to Bill Gates' charity billions
  - [https://newint.org/features/2012/04/01/bill-gates-charitable-giving-ethics](https://newint.org/features/2012/04/01/bill-gates-charitable-giving-ethics)

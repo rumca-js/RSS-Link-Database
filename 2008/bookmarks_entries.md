@@ -31,7 +31,6 @@
  - [https://27bslash6.com/overdue.html](https://27bslash6.com/overdue.html)
  - date_published: 2008-10-08T07:58:35+00:00
  - tags: ['funny']
- - date_dead_since: 2025-04-25T17:14:39.308379+00:00
 
  ## Why societies collapse | Jared Diamond
  - [https://www.youtube.com/watch?v=IESYMFtLIis](https://www.youtube.com/watch?v=IESYMFtLIis)

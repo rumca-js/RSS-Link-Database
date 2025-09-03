@@ -22,6 +22,7 @@
  - [https://archive.nytimes.com/www.nytimes.com/library/tech/99/09/biztech/articles/04soft.html](https://archive.nytimes.com/www.nytimes.com/library/tech/99/09/biztech/articles/04soft.html)
  - date_published: 1999-09-04T15:03:48+00:00
  - tags: ['backdoor', 'microsoft', 'nsa', 'surveillance', 'windows']
+ - date_dead_since: 2025-09-02T21:20:14.689074+00:00
 
  ## Why I wrote PGP
  - [https://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html](https://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html)

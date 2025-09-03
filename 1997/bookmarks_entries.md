@@ -16,5 +16,5 @@
  - [https://www.nytimes.com/1977/12/26/archives/worldwide-propaganda-network-built-by-the-cia-a-worldwide-network.html](https://www.nytimes.com/1977/12/26/archives/worldwide-propaganda-network-built-by-the-cia-a-worldwide-network.html)
  - date_published: 1997-12-26T20:11:57+00:00
  - tags: ['cia', 'propaganda']
- - date_dead_since: 2025-04-25T22:09:43.045835+00:00
+ - date_dead_since: 2025-09-02T22:09:59.781091+00:00
 

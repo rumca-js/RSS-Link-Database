@@ -12,12 +12,13 @@
  - [https://www.nytimes.com/2004/05/03/us/new-internet-site-turns-critical-eyes-and-ears-to-the-right.html](https://www.nytimes.com/2004/05/03/us/new-internet-site-turns-critical-eyes-and-ears-to-the-right.html)
  - date_published: 2004-05-03T05:00:00+00:00
  - tags: ['media', 'media matters']
+ - date_dead_since: 2025-09-02T19:57:34.857638+00:00
 
  ## STATE OF THE ART; Google Mail: Virtue Lies In the In-Box (Published 2004)
  - [https://www.nytimes.com/2004/05/13/technology/state-of-the-art-google-mail-virtue-lies-in-the-in-box.html?pagewanted=print&src=pm](https://www.nytimes.com/2004/05/13/technology/state-of-the-art-google-mail-virtue-lies-in-the-in-box.html?pagewanted=print&src=pm)
  - date_published: 2004-05-13T06:26:18+00:00
  - tags: ['gmail', 'google']
- - date_dead_since: 2025-04-25T19:42:49.272076+00:00
+ - date_dead_since: 2025-09-02T19:56:12.314899+00:00
 
  ## Printer tracking dots - Wikipedia
  - [https://en.m.wikipedia.org/wiki/Printer_tracking_dots](https://en.m.wikipedia.org/wiki/Printer_tracking_dots)
@@ -38,4 +39,5 @@
  - [https://twitter.com/tomselliott/status/1509852615751962627](https://twitter.com/tomselliott/status/1509852615751962627)
  - date_published: 2004-12-30T14:25:27+00:00
  - tags: ['anthony fauci', 'covid', 'flu', 'vaccine']
+ - date_dead_since: 2025-09-02T19:31:24.291283+00:00
 

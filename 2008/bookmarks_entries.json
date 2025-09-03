@@ -183,20 +183,20 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-02-29T14:58:21.438651+00:00",
-        "date_dead_since": "2025-04-25T17:14:39.308379+00:00",
+        "date_dead_since": null,
         "date_published": "2008-10-08T07:58:35+00:00",
         "description": "Overdue Account",
         "id": 39630,
         "language": "en",
         "link": "https://27bslash6.com/overdue.html",
         "manual_status_code": 0,
-        "page_rating": 0,
-        "page_rating_contents": 0,
+        "page_rating": 32,
+        "page_rating_contents": 90,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://27bslash6.com",
-        "status_code": 500,
+        "status_code": 200,
         "tags": [
             "funny"
         ],
@@ -291,7 +291,7 @@
             "climate change",
             "climate science"
         ],
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Diagram_of_natural_resource_flows-en.svg/1200px-Diagram_of_natural_resource_flows-en.svg.png",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Diagram_of_natural_resource_flows-en.svg/1142px-Diagram_of_natural_resource_flows-en.svg.png",
         "title": "Green New Deal",
         "vote": 0
     }

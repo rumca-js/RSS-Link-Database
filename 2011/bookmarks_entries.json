@@ -62,7 +62,7 @@
             "psyop",
             "social media"
         ],
-        "thumbnail": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2011/3/17/1300366341951/General-David-Petraeus-008.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTEucG5n&enable=upscale&s=d3f3c68178909daef1905588b7061122",
+        "thumbnail": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2011/3/17/1300366341951/General-David-Petraeus-008.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTEucG5n&enable=upscale&s=67252e2179ae468d6ca77299cfa207ff",
         "title": "Revealed: US spy operation that manipulates social media",
         "vote": 0
     },
@@ -121,7 +121,7 @@
             "bill gates",
             "paul allen"
         ],
-        "thumbnail": "https://i.guim.co.uk/img/static/sys-images/Business/Pix/pictures/2011/3/30/1301502606135/Microsoft-Founders-Bill-G-007.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTEucG5n&enable=upscale&s=e3f8159893d35ad5c84b485d28e34545",
+        "thumbnail": "https://i.guim.co.uk/img/static/sys-images/Business/Pix/pictures/2011/3/30/1301502606135/Microsoft-Founders-Bill-G-007.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTEucG5n&enable=upscale&s=eb9705d1cbd32b52f92f23958289396a",
         "title": "Microsoft co-founder lays bare his battles with Bill Gates",
         "vote": 0
     },
@@ -240,7 +240,7 @@
             "moderation",
             "shadowban"
         ],
-        "thumbnail": null,
+        "thumbnail": "https://blog.codinghorror.com/content/images/2025/05/image-527-1.png",
         "title": "Suspension, Ban or Hellban?",
         "vote": 0
     },
@@ -280,14 +280,14 @@
         "comments": [],
         "date_created": "2024-02-29T15:00:05.072777+00:00",
         "date_dead_since": null,
-        "date_published": "2011-06-28T20:31:16+00:00",
+        "date_published": "2011-06-28T10:40:00+00:00",
         "description": "Na czym polega\u0142 rytua\u0142 \"bunga-bunga\"?",
         "id": 40310,
         "language": "pl",
         "link": "https://wiadomosci.wp.pl/na-czym-polegal-rytual-bunga-bunga-6037856224035969a",
         "manual_status_code": 0,
         "page_rating": 30,
-        "page_rating_contents": 85,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -297,7 +297,7 @@
             "bunga bunga",
             "silvio berlusconi"
         ],
-        "thumbnail": "https://v.wpimg.pl/NTEyLmpwYTUkGzpeXwxsIGdDbgQZVWJ2MFt2T19GfGR1AWMEXgA-ejUVYwxfEWE-NRwrQkJBfWZ2Vi4IAhs7JyYWIgQvFigkGkx9X14dPjEiWzE",
+        "thumbnail": "https://v.wpimg.pl/MTIuanBlYjUoFxddbRdvIGtPQwcrTmF2PFdbTG1femIxQFBcbQVjIzlbEQJtDWIyZh8RCyVDf2J6R1JBIAk_ODwGAgEsBRI1LwU-W3NeYz45EAZMPw",
         "title": "Na czym polega\u0142 rytua\u0142 \"bunga-bunga\"?",
         "vote": 0
     },
@@ -315,8 +315,8 @@
         "language": "en",
         "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(11)61019-2/fulltext",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 19,
+        "page_rating_contents": 50,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -387,7 +387,7 @@
             "pfizer",
             "vaccine"
         ],
-        "thumbnail": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2011/8/11/1313088778127/Anas-Mustapha-one-of-the--007.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTEucG5n&enable=upscale&s=c58e9b3246ad381dea96105a438579ed",
+        "thumbnail": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2011/8/11/1313088778127/Anas-Mustapha-one-of-the--007.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTEucG5n&enable=upscale&s=72d50c7209f93cce792dfcbfb9ef4b7d",
         "title": "Pfizer pays out to Nigerian families of meningitis drug trial victims | Nigeria | The Guardian",
         "vote": 0
     },

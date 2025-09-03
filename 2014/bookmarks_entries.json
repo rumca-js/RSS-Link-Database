@@ -266,7 +266,7 @@
             "heartbleed",
             "vulnerability"
         ],
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Heartbleed.svg/1200px-Heartbleed.svg.png",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Heartbleed.svg/1003px-Heartbleed.svg.png",
         "title": "Heartbleed - Wikipedia",
         "vote": 0
     },
@@ -326,7 +326,7 @@
         "tags": [
             "surveillance"
         ],
-        "thumbnail": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/4/8/1396964968330/Edward-Snowden-speaks-via-011.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTQucG5n&enable=upscale&s=fddbfa44ba025d545dbe655a90c78cb5",
+        "thumbnail": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/4/8/1396964968330/Edward-Snowden-speaks-via-011.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTQucG5n&enable=upscale&s=89bd010109e39bff43e82df9ce5e8bc1",
         "title": "Edward Snowden: US government spied on human rights workers",
         "vote": 0
     },
@@ -365,20 +365,20 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-02-29T14:58:34.548158+00:00",
-        "date_dead_since": null,
+        "date_dead_since": "2025-09-02T11:17:48.454492+00:00",
         "date_published": "2014-04-27T19:51:44+00:00",
         "description": "Why Science Does Not Disprove God",
         "id": 39681,
         "language": "en",
         "link": "https://time.com/77676/why-science-does-not-disprove-god",
         "manual_status_code": 0,
-        "page_rating": 32,
-        "page_rating_contents": 90,
+        "page_rating": 0,
+        "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://time.com",
-        "status_code": 200,
+        "status_code": 406,
         "tags": [
             "god",
             "religion",
@@ -414,7 +414,7 @@
         "tags": [
             "surveillance"
         ],
-        "thumbnail": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/2/12/1392202980420/Edward-Snowden-Meets-With-012.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTQucG5n&enable=upscale&s=673bf5ce863e5e0f888e19ede0de4468",
+        "thumbnail": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/2/12/1392202980420/Edward-Snowden-Meets-With-012.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTQucG5n&enable=upscale&s=8398616dcbcf2b0de615055fa1e712d0",
         "title": "Everyone is under surveillance now, says whistleblower Edward Snowden",
         "vote": 0
     },
@@ -646,20 +646,20 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-02-29T14:58:30.316205+00:00",
-        "date_dead_since": null,
+        "date_dead_since": "2025-09-02T11:08:06.982220+00:00",
         "date_published": "2014-06-05T14:47:34+00:00",
         "description": "The 10 Biggest Revelations From Edward Snowden's Leaks | Mashable",
         "id": 39672,
         "language": "en-US",
         "link": "https://mashable.com/archive/edward-snowden-revelations#EX._mWvT8kq3",
         "manual_status_code": 0,
-        "page_rating": 32,
-        "page_rating_contents": 91,
+        "page_rating": 0,
+        "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://mashable.com",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "big brother",
             "edward snowden",
@@ -995,7 +995,7 @@
             "politics",
             "power"
         ],
-        "thumbnail": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/9/10/1410349573774/427b0092-8a50-4cf8-b97e-a47a6bc0adad-1020x612.jpeg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMtYWdlLTIwMTQucG5n&enable=upscale&s=b0e9616ef9867c2e3b322227cef39b19",
+        "thumbnail": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/9/10/1410349573774/427b0092-8a50-4cf8-b97e-a47a6bc0adad-1020x612.jpeg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMtYWdlLTIwMTQucG5n&enable=upscale&s=144d4999ab30bb683b230e37f25bcc67",
         "title": "The Internet Slowdown protest for net neutrality needs to target regulators",
         "vote": 0
     },
@@ -1122,7 +1122,7 @@
             "privacy",
             "surveillance"
         ],
-        "thumbnail": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/10/9/1412868810781/edb65011-5ae2-4700-baa4-48af51746c5c-2060x1236.jpeg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMtYWdlLTIwMTQucG5n&enable=upscale&s=74d7dde0529c98de275303ac760f4044",
+        "thumbnail": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/10/9/1412868810781/edb65011-5ae2-4700-baa4-48af51746c5c-2060x1236.jpeg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMtYWdlLTIwMTQucG5n&enable=upscale&s=f60bf0079ced5716f00de95baa80c5f6",
         "title": "Crypto wars redux: why the FBI's desire to unlock your private life must be resisted | Cory Doctorow | The Guardian",
         "vote": 0
     },
@@ -1270,7 +1270,7 @@
             "citizenfour",
             "surveillance"
         ],
-        "thumbnail": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/10/15/1413390183139/AWARD-WINNER-008.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTQucG5n&enable=upscale&s=ec484d3cfd34969e6e93e74c9b678fc6",
+        "thumbnail": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/10/15/1413390183139/AWARD-WINNER-008.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTQucG5n&enable=upscale&s=742941602c23e003f51829d0674b2735",
         "title": "Citizenfour review  gripping Snowden documentary offers portrait of power, paranoia and one remarkable man",
         "vote": 0
     },
@@ -1354,13 +1354,13 @@
         "language": "en",
         "link": "https://www.nytimes.com/2014/10/18/us/white-house-to-cut-funding-for-risky-biological-study.html",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 29,
+        "page_rating_contents": 81,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.nytimes.com",
-        "status_code": 200,
+        "status_code": 403,
         "tags": [
             "covid",
             "sars"
@@ -1495,20 +1495,20 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-02-29T14:58:22.203311+00:00",
-        "date_dead_since": null,
+        "date_dead_since": "2025-09-02T10:45:12.755855+00:00",
         "date_published": "2014-11-03T07:17:11+00:00",
         "description": "Verizon Injecting Perma-Cookies to Track Mobile Customers, Bypassing Privacy Controls | Electronic Frontier Foundation",
         "id": 39646,
         "language": "en",
         "link": "https://www.eff.org/deeplinks/2014/11/verizon-x-uidh",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 0,
+        "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.eff.org",
-        "status_code": 200,
+        "status_code": 604,
         "tags": [
             "corporatocracy",
             "privacy",
@@ -1633,7 +1633,7 @@
         "tags": [
             "surveillance"
         ],
-        "thumbnail": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/12/8/1418047140649/Edward-Snowden-Council-of-012.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTQucG5n&enable=upscale&s=d3dfd89bcc7d316a8192b9ff39911c6e",
+        "thumbnail": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/12/8/1418047140649/Edward-Snowden-Council-of-012.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTQucG5n&enable=upscale&s=24b9a430c105f71b5da53e95345a236c",
         "title": "Mass surveillance exposed by Snowden \u2018not justified by fight against terrorism\u2019",
         "vote": 0
     },
@@ -1690,7 +1690,7 @@
             "biometric",
             "hackers"
         ],
-        "thumbnail": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/12/30/1419938870506/f898598d-01dd-411d-bdea-894f152b37c3-2060x1236.jpeg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTQucG5n&enable=upscale&s=f701563b2043d4ff5bcf8483a664cdf9",
+        "thumbnail": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/12/30/1419938870506/f898598d-01dd-411d-bdea-894f152b37c3-2060x1236.jpeg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTQucG5n&enable=upscale&s=6ce5146e970bed9f01bbebb383c1ca17",
         "title": "Hacker fakes German minister's fingerprints using photos of her hands | Hacking | The Guardian",
         "vote": 0
     },

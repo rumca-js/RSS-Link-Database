@@ -17,7 +17,6 @@
  - [https://www.nytimes.com/2009/05/24/weekinreview/24markoff.html](https://www.nytimes.com/2009/05/24/weekinreview/24markoff.html)
  - date_published: 2009-05-23T07:17:54+00:00
  - tags: ['artificial intelligence']
- - date_dead_since: 2025-04-25T16:59:38.155594+00:00
 
  ## WHO declares swine flu pandemic | Swine flu | The Guardian
  - [https://www.theguardian.com/world/2009/jun/11/swine-flu-pandemic-who-declares](https://www.theguardian.com/world/2009/jun/11/swine-flu-pandemic-who-declares)
