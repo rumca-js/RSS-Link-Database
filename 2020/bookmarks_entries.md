@@ -336,7 +336,7 @@
  - [https://sagegerard.com/stop-learning-so-much.html](https://sagegerard.com/stop-learning-so-much.html)
  - date_published: 2020-03-31T09:10:22+00:00
  - tags: ['programming', 'science']
- - date_dead_since: 2024-04-24T00:23:51.284906+00:00
+ - date_dead_since: 2025-09-03T21:28:51.075120+00:00
 
  ## Misused photo of migrants’ coffins used to cast doubt on Covid-19 in Italy
  - [https://observers.france24.com/en/europe/20220106-debunked-covid-19-migrant-coffins-documentary-bergamo](https://observers.france24.com/en/europe/20220106-debunked-covid-19-migrant-coffins-documentary-bergamo)
@@ -565,7 +565,7 @@
  ## Against Method and For 'Pseudoscience'
  - [https://notrelated.xyz/audio/s02/S02E01_-_Against_Method_and_For_Pseudoscience.ogg](https://notrelated.xyz/audio/s02/S02E01_-_Against_Method_and_For_Pseudoscience.ogg)
  - date_published: 2020-06-05T04:00:00+00:00
- - date_dead_since: 2024-04-23T01:50:19.047430+00:00
+ - date_dead_since: 2025-09-03T21:16:23.451286+00:00
 
  ## Programming 'language': Brain scans reveal coding uses same regions as speech
  - [https://medicalxpress.com/news/2020-06-language-brain-scans-reveal-coding.html](https://medicalxpress.com/news/2020-06-language-brain-scans-reveal-coding.html)
@@ -946,7 +946,7 @@
  ## Stoicism and Christianity: Trust the Logos!
  - [https://notrelated.xyz/audio/s02/S02E02_-_Stoicism_and_Christianity_Trust_the_Logos.ogg](https://notrelated.xyz/audio/s02/S02E02_-_Stoicism_and_Christianity_Trust_the_Logos.ogg)
  - date_published: 2020-07-31T04:00:00+00:00
- - date_dead_since: 2024-04-23T01:46:23.040756+00:00
+ - date_dead_since: 2025-09-03T21:12:41.419622+00:00
 
  ## Google Home might be listening to more than just wake words after secret update
  - [https://www.techradar.com/news/google-home-might-be-listening-to-more-than-just-wake-words-after-secret-update](https://www.techradar.com/news/google-home-might-be-listening-to-more-than-just-wake-words-after-secret-update)
@@ -1014,7 +1014,7 @@
  - [https://www.youtube.com/watch?v=jyRjbK-yKSk](https://www.youtube.com/watch?v=jyRjbK-yKSk)
  - date_published: 2020-08-11T00:00:00+00:00
  - tags: ['black lives matter', 'indoctrination', 'the left wing']
- - date_dead_since: 2024-04-23T01:45:37.630217+00:00
+ - date_dead_since: 2025-09-03T21:06:23.200107+00:00
 
  ## Black Lives Matter is a Domestic Terrorist Organization | Change My Mind
  - [https://www.youtube.com/watch?v=yITK_Bm78mI](https://www.youtube.com/watch?v=yITK_Bm78mI)
@@ -1251,7 +1251,7 @@
  ## Myth as History: Rohl's New Chronology
  - [https://notrelated.xyz/audio/s02/S02E03_-_Myth_as_History_Rohls_New_Chronology.ogg](https://notrelated.xyz/audio/s02/S02E03_-_Myth_as_History_Rohls_New_Chronology.ogg)
  - date_published: 2020-09-21T04:00:00+00:00
- - date_dead_since: 2024-04-23T01:42:28.187656+00:00
+ - date_dead_since: 2025-09-03T21:00:58.591169+00:00
 
  ## Carbon emissions of richest 1 percent more than double the emissions of the poorest half of humanity
  - [https://www.oxfam.org/en/press-releases/carbon-emissions-richest-1-percent-more-double-emissions-poorest-half-humanity](https://www.oxfam.org/en/press-releases/carbon-emissions-richest-1-percent-more-double-emissions-poorest-half-humanity)
@@ -1899,6 +1899,7 @@
  - [https://summit.news/2020/12/22/french-law-would-ban-people-who-dont-get-covid-vaccine-from-using-public-transport](https://summit.news/2020/12/22/french-law-would-ban-people-who-dont-get-covid-vaccine-from-using-public-transport)
  - date_published: 2020-12-22T22:07:50+00:00
  - tags: ['covid', 'covid mandates', 'france', 'vaccine']
+ - date_dead_since: 2025-09-03T20:58:24.048787+00:00
 
  ## Zoom Shared US User Data With Beijing
  - [https://www.ntd.com/zoom-shared-us-user-data-with-beijing_544087.html](https://www.ntd.com/zoom-shared-us-user-data-with-beijing_544087.html)
@@ -1975,6 +1976,7 @@
  - [https://summit.news/2020/12/30/uk-woman-arrested-for-filming-inside-empty-hospital](https://summit.news/2020/12/30/uk-woman-arrested-for-filming-inside-empty-hospital)
  - date_published: 2020-12-30T07:29:04+00:00
  - tags: ['big brother', 'covid']
+ - date_dead_since: 2025-09-03T20:50:27.701678+00:00
 
  ## Hiszpania: Rodzina odmówi zaszczepienia seniora? Może stracić nad nim opiekę
  - [https://www.rmf24.pl/raporty/raport-koronawirus-z-chin/europa/news-hiszpania-rodzina-odmowi-zaszczepienia-seniora-moze-stracic-,nId,4957585](https://www.rmf24.pl/raporty/raport-koronawirus-z-chin/europa/news-hiszpania-rodzina-odmowi-zaszczepienia-seniora-moze-stracic-,nId,4957585)

@@ -511,16 +511,17 @@
  - [https://apnews.com/article/d29c724e1d72460fbf7c2e999992d258](https://apnews.com/article/d29c724e1d72460fbf7c2e999992d258)
  - date_published: 2018-08-07T00:52:37+00:00
  - tags: ['cybersecurity', 'privacy', 'surveillance']
+ - date_dead_since: 2025-09-03T13:20:09.488848+00:00
+
+ ## The Astonishing Failures of Al Gore’s Arctic Prophecies
+ - [https://cornwallalliance.org/2018/08/the-astonishing-failures-of-al-gores-arctic-prophecies](https://cornwallalliance.org/2018/08/the-astonishing-failures-of-al-gores-arctic-prophecies)
+ - date_published: 2018-08-15T00:00:00+00:00
+ - tags: ['climate change', 'global warning']
 
  ## In full: Rowan Atkinson on free speech
  - [https://www.youtube.com/watch?v=BiqDZlAZygU](https://www.youtube.com/watch?v=BiqDZlAZygU)
  - date_published: 2018-08-15T00:00:00+00:00
  - tags: ['cancel culture', 'free speech', 'the left wing']
-
- ## The Astonishing Failures of Al Gore’s Arctic Prophecies
- - [https://cornwallalliance.org/2018/08/the-astonishing-failures-of-al-gores-arctic-prophecies](https://cornwallalliance.org/2018/08/the-astonishing-failures-of-al-gores-arctic-prophecies)
- - date_published: 2018-08-15T13:17:11+00:00
- - tags: ['climate change', 'global warning']
 
  ## Pfizer bets on biotech flu vaccine in $425 million BioNTech alliance | Reuters
  - [https://www.reuters.com/article/us-pfizer-biontech-alliance-idUSKBN1L10F5](https://www.reuters.com/article/us-pfizer-biontech-alliance-idUSKBN1L10F5)
@@ -790,7 +791,7 @@
  ## Human Evolution Revised: Timelines and Multiregionalism
  - [https://notrelated.xyz/audio/s01/S01E07_-_Human_Evolution_Revised_Timelines_and_Multiregionalism.mp3](https://notrelated.xyz/audio/s01/S01E07_-_Human_Evolution_Revised_Timelines_and_Multiregionalism.mp3)
  - date_published: 2018-12-19T05:00:00+00:00
- - date_dead_since: 2024-04-24T00:39:27.045566+00:00
+ - date_dead_since: 2025-09-04T00:01:58.214091+00:00
 
  ## Google’s Earth: how the tech giant is helping the state spy on us
  - [https://www.theguardian.com/news/2018/dec/20/googles-earth-how-the-tech-giant-is-helping-the-state-spy-on-us](https://www.theguardian.com/news/2018/dec/20/googles-earth-how-the-tech-giant-is-helping-the-state-spy-on-us)

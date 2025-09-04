@@ -1424,7 +1424,7 @@
  - [https://www.redvoicemedia.com/2021/07/coke-faces-down-most-serious-backlash-yet-for-their-woke-agenda](https://www.redvoicemedia.com/2021/07/coke-faces-down-most-serious-backlash-yet-for-their-woke-agenda)
  - date_published: 2021-07-02T09:10:14+00:00
  - tags: ['coke', 'go woke go broke', 'the left wing']
- - date_dead_since: 2024-04-19T00:36:19.747022+00:00
+ - date_dead_since: 2025-09-03T20:30:15.831392+00:00
 
  ## Abigail Shrier’s Irreversible Damage: A Wealth of Irreversible Misinformation | Science-Based Medicine
  - [https://sciencebasedmedicine.org/abigail-shriers-irreversible-damage-a-wealth-of-irreversible-misinformation](https://sciencebasedmedicine.org/abigail-shriers-irreversible-damage-a-wealth-of-irreversible-misinformation)
@@ -1841,7 +1841,7 @@
  ## Building Business Applications in Go - Three Dots Labs
  - [https://goingwithgo.com/2021/07/building-business-applications-in-golang-three-dots-labs](https://goingwithgo.com/2021/07/building-business-applications-in-golang-three-dots-labs)
  - date_published: 2021-07-23T23:13:08.596382+00:00
- - date_dead_since: 2024-04-19T00:27:58.883322+00:00
+ - date_dead_since: 2025-09-03T20:16:18.486054+00:00
 
  ## Interesting Go Memory Issue | Ben E. C. Boyter
  - [https://boyter.org/posts/interesting-go-memory-issue](https://boyter.org/posts/interesting-go-memory-issue)
@@ -1899,7 +1899,7 @@
  ## For developers, Apple’s Safari is crap and outdated – Perry Sun | Blog
  - [https://blog.perrysun.com/2021/07/15/for-developers-safari-is-crap-and-outdated](https://blog.perrysun.com/2021/07/15/for-developers-safari-is-crap-and-outdated)
  - date_published: 2021-07-27T14:55:36.947814+00:00
- - date_dead_since: 2024-04-19T00:26:54.210209+00:00
+ - date_dead_since: 2025-09-03T20:11:11.114302+00:00
 
  ## Daniel Hale Receives 45-Month Prison Sentence For Leak
  - [https://thedissenter.org/daniel-hale-receives-harshest-sentence-ever-for-a-leak](https://thedissenter.org/daniel-hale-receives-harshest-sentence-ever-for-a-leak)
@@ -1925,7 +1925,7 @@
  - [https://www.youtube.com/watch?v=YB6gwOBClwE](https://www.youtube.com/watch?v=YB6gwOBClwE)
  - date_published: 2021-07-29T00:00:00+00:00
  - tags: ['crisis', 'drugs', 'usa']
- - date_dead_since: 2024-04-19T00:26:46.303737+00:00
+ - date_dead_since: 2025-09-03T20:06:02.378494+00:00
 
  ## The mermaid is taking over Google search in Norway - ALEXSKRA
  - [https://alexskra.com/blog/the-mermaid-is-taking-over-google-search-in-norway](https://alexskra.com/blog/the-mermaid-is-taking-over-google-search-in-norway)
@@ -2546,7 +2546,7 @@
  ## They saw a YouTube video. Then they got Tourette’s | WIRED UK
  - [https://www.wired.co.uk/article/tourettes-youtube-jan-zimmermann](https://www.wired.co.uk/article/tourettes-youtube-jan-zimmermann)
  - date_published: 2021-09-05T09:37:19.896734+00:00
- - date_dead_since: 2024-04-18T10:51:48.912969+00:00
+ - date_dead_since: 2025-09-03T20:01:59.004758+00:00
 
  ## “Emojibake” are considered harmful | by Fredrick Brennan | Sep, 2021 | Medium
  - [https://fredrickbrennan.medium.com/emojibake-are-considered-harmful-f87e65cf4c6e](https://fredrickbrennan.medium.com/emojibake-are-considered-harmful-f87e65cf4c6e)
@@ -2889,7 +2889,7 @@
  ## Myth as Science and Prehistoric Knowledge: Hamlet's Mill
  - [https://notrelated.xyz/audio/s02/S02E04_-_Myth_as_Science_and_Prehistoric_Knowledge_Hamlets_Mill.ogg](https://notrelated.xyz/audio/s02/S02E04_-_Myth_as_Science_and_Prehistoric_Knowledge_Hamlets_Mill.ogg)
  - date_published: 2021-10-01T04:00:00+00:00
- - date_dead_since: 2024-04-18T10:44:55.809583+00:00
+ - date_dead_since: 2025-09-03T19:56:25.128558+00:00
 
  ## Chip shortage leads carmaker Opel to shut German plant until 2022 | Reuters
  - [https://www.reuters.com/business/autos-transportation/chip-shortage-leads-carmaker-opel-shut-german-plant-until-2022-2021-09-30](https://www.reuters.com/business/autos-transportation/chip-shortage-leads-carmaker-opel-shut-german-plant-until-2022-2021-09-30)
@@ -3093,7 +3093,7 @@
  ## Magpie Driven Development (MDD) - Niche Software
  - [http://www.nichesoftware.co.nz/2021/07/10/magpie-driven-development.html](http://www.nichesoftware.co.nz/2021/07/10/magpie-driven-development.html)
  - date_published: 2021-10-12T13:43:31.798525+00:00
- - date_dead_since: 2024-04-18T10:42:22.028495+00:00
+ - date_dead_since: 2025-09-03T19:52:26.920143+00:00
 
  ## Amazon copied products and rigged search results, documents show
  - [https://www.reuters.com/investigates/special-report/amazon-india-rigging](https://www.reuters.com/investigates/special-report/amazon-india-rigging)
@@ -3434,7 +3434,7 @@
  ## Popper, Soros and the Open Society
  - [https://notrelated.xyz/audio/s02/S02E05_-_Popper_Soros_and_the_Open_Society.ogg](https://notrelated.xyz/audio/s02/S02E05_-_Popper_Soros_and_the_Open_Society.ogg)
  - date_published: 2021-10-31T04:00:00+00:00
- - date_dead_since: 2024-04-18T10:32:34.491645+00:00
+ - date_dead_since: 2025-09-03T19:42:03.072681+00:00
 
  ## The metaverse is already here, it's called the internet - Can's blog
  - [https://canolcer.com/post/metaverse-is-already-here](https://canolcer.com/post/metaverse-is-already-here)
@@ -3538,7 +3538,7 @@
  - [https://www.youtube.com/watch?v=rKUWnzcCRd8](https://www.youtube.com/watch?v=rKUWnzcCRd8)
  - date_published: 2021-11-08T00:00:00+00:00
  - tags: ['motivation', 'quotes']
- - date_dead_since: 2024-04-18T07:14:58.729220+00:00
+ - date_dead_since: 2025-09-03T19:38:17.147137+00:00
 
  ## Last of original SCO v IBM Linux lawsuit settled | ZDNET
  - [https://www.zdnet.com/article/last-of-original-sco-v-ibm-linux-lawsuit-settled](https://www.zdnet.com/article/last-of-original-sco-v-ibm-linux-lawsuit-settled)
@@ -3843,7 +3843,7 @@
  - [https://www.youtube.com/watch?v=lYYmAF7_wk0](https://www.youtube.com/watch?v=lYYmAF7_wk0)
  - date_published: 2021-11-25T00:00:00+00:00
  - tags: ['motivation']
- - date_dead_since: 2024-04-18T07:05:43.582643+00:00
+ - date_dead_since: 2025-09-03T19:32:52.656961+00:00
 
  ## Is my cat Turing-complete? | Belay the C++
  - [https://belaycpp.com/2021/11/24/is-my-cat-turing-complete](https://belaycpp.com/2021/11/24/is-my-cat-turing-complete)
@@ -3933,7 +3933,7 @@
  - [https://www.healthline.com/health-news/are-we-going-to-need-covid-19-boosters-every-6-months-what-experts-think#Will-boosters-become-an-annual-thing?](https://www.healthline.com/health-news/are-we-going-to-need-covid-19-boosters-every-6-months-what-experts-think#Will-boosters-become-an-annual-thing?)
  - date_published: 2021-12-01T08:06:38+00:00
  - tags: ['booster', 'covid', 'vaccine']
- - date_dead_since: 2024-04-18T07:04:10.443596+00:00
+ - date_dead_since: 2025-09-03T19:27:02.083036+00:00
 
  ## Jaki szyfrowany komunikator wybrać? Lista współpracy z FBI może pomóc w podjęciu decyzji
  - [https://geekweek.interia.pl/technologia/news-jaki-szyfrowany-komunikator-wybrac-lista-wspolpracy-z-fbi-mo,nId,5679869](https://geekweek.interia.pl/technologia/news-jaki-szyfrowany-komunikator-wybrac-lista-wspolpracy-z-fbi-mo,nId,5679869)
@@ -4029,7 +4029,7 @@
  - [/next/7,173953,27885941,cos-dziwnego-wychodzi-z-danych-o-zgonach-na-covid-19-rozne.html](/next/7,173953,27885941,cos-dziwnego-wychodzi-z-danych-o-zgonach-na-covid-19-rozne.html)
  - date_published: 2021-12-07T13:36:27+00:00
  - tags: ['covid', 'statistics']
- - date_dead_since: 2024-04-18T06:54:11.214560+00:00
+ - date_dead_since: 2025-09-03T19:21:57.172602+00:00
 
  ## Evidence from Jeffrey Epstein's safe 'went missing' after FBI raid, court hears in Ghislaine Maxwell trial
  - [https://www.telegraph.co.uk/world-news/2021/12/07/evidence-jeffrey-epsteins-safe-went-missing-fbi-raid-court-hears](https://www.telegraph.co.uk/world-news/2021/12/07/evidence-jeffrey-epsteins-safe-went-missing-fbi-raid-court-hears)

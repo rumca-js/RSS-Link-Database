@@ -10,7 +10,7 @@
  ## How Telegram Messenger circumvents Google Translate's API | DanPetrov
  - [https://danpetrov.xyz/programming/2021/12/30/telegram-google-translate.html](https://danpetrov.xyz/programming/2021/12/30/telegram-google-translate.html)
  - date_published: 2022-01-01T11:38:22.700894+00:00
- - date_dead_since: 2024-04-23T01:06:23.231665+00:00
+ - date_dead_since: 2025-09-03T19:11:06.612535+00:00
 
  ## How To Get Hacked By Accidentally Copy Pasting
  - [https://www.wizer-training.com/blog/copy-paste](https://www.wizer-training.com/blog/copy-paste)
@@ -275,12 +275,12 @@
  ## Music industry is suing youtube-dl hosters
  - [https://news.i-n24.com/lifestyle/news/253970.html](https://news.i-n24.com/lifestyle/news/253970.html)
  - date_published: 2022-01-14T09:17:43.697144+00:00
- - date_dead_since: 2024-04-23T01:03:18.016434+00:00
+ - date_dead_since: 2025-09-03T18:57:33.693944+00:00
 
  ## Exploring System76's New Rust Based Desktop Environment | Devloop
  - [https://blog.edfloreshz.dev/articles/linux/system76/rust-based-desktop-environment](https://blog.edfloreshz.dev/articles/linux/system76/rust-based-desktop-environment)
  - date_published: 2022-01-14T09:27:34+00:00
- - date_dead_since: 2024-04-23T01:03:03.319462+00:00
+ - date_dead_since: 2025-09-03T18:51:06.749311+00:00
 
  ## North Korea hackers stole $400m of cryptocurrency in 2021, report says
  - [https://www.bbc.com/news/business-59990477](https://www.bbc.com/news/business-59990477)
@@ -338,6 +338,10 @@
  - [https://blog.haschek.at/2019/the-curious-case-of-the-RasPi-in-our-network.html](https://blog.haschek.at/2019/the-curious-case-of-the-RasPi-in-our-network.html)
  - date_published: 2022-01-18T08:27:14.377498+00:00
 
+ ## Make debugging suck less. Keep a logbook. 📓 | Conor Lamb
+ - [https://conorcorp.github.io/posts/make-debuggin-suck-less](https://conorcorp.github.io/posts/make-debuggin-suck-less)
+ - date_published: 2022-01-18T09:16:09+00:00
+
  ## The pandemic’s true death toll: millions more than official counts
  - [https://www.nature.com/articles/d41586-022-00104-8](https://www.nature.com/articles/d41586-022-00104-8)
  - date_published: 2022-01-18T09:45:12+00:00
@@ -347,11 +351,6 @@
  - [https://www.newsbusters.org/blogs/free-speech/joseph-vazquez/2022/01/18/liberal-funded-global-fact-checking-network-decries](https://www.newsbusters.org/blogs/free-speech/joseph-vazquez/2022/01/18/liberal-funded-global-fact-checking-network-decries)
  - date_published: 2022-01-18T13:58:30+00:00
  - tags: ['censorship', 'fact check', 'free speech', 'youtube']
-
- ## Make debugging suck less. Keep a logbook. 📓 | Conor Lamb
- - [https://conorcorp.github.io/posts/make-debuggin-suck-less](https://conorcorp.github.io/posts/make-debuggin-suck-less)
- - date_published: 2022-01-18T17:07:59.170151+00:00
- - date_dead_since: 2025-04-26T18:47:36.991850+00:00
 
  ## Jedi Blue - Wikipedia
  - [https://en.wikipedia.org/wiki/Jedi_Blue](https://en.wikipedia.org/wiki/Jedi_Blue)
@@ -632,13 +631,12 @@
  - [https://conservativeinstitute.org/conservative-news/senate-report-implicates-fauci-in-wuhan-lab-leak-cover-up.htm](https://conservativeinstitute.org/conservative-news/senate-report-implicates-fauci-in-wuhan-lab-leak-cover-up.htm)
  - date_published: 2022-02-04T06:55:19+00:00
  - tags: ['anthony fauci', 'covid', 'lab leak', 'wuhan']
- - date_dead_since: 2024-04-23T00:59:19.548530+00:00
+ - date_dead_since: 2025-09-03T18:42:46.791396+00:00
 
  ## FDA: Nakaz sądowy odtajnienia dokumentów
  - [https://phmpt.org/wp-content/uploads/2022/02/056-ORDER-GRANTING-IN-PART-THE-MOTION-TO-MODIFY-THE-PRODUCTION-SCHEDULE-AND-ADDOPTS-THE-JOINT-STATUS-REPORT-MODIFIED-AGREED-PRODUCTION-SCHEDULE.pdf](https://phmpt.org/wp-content/uploads/2022/02/056-ORDER-GRANTING-IN-PART-THE-MOTION-TO-MODIFY-THE-PRODUCTION-SCHEDULE-AND-ADDOPTS-THE-JOINT-STATUS-REPORT-MODIFIED-AGREED-PRODUCTION-SCHEDULE.pdf)
  - date_published: 2022-02-04T16:53:44+00:00
  - tags: ['big pharma', 'covid', 'fda', 'pfizer', 'vaccine']
- - date_dead_since: 2025-04-26T18:31:05.444057+00:00
 
  ## GoFundMe pulls plug on fundraiser for Ottawa convoy protesters | Toronto Sun
  - [https://torontosun.com/news/national/gofundme-pulls-plug-on-fundraiser-for-ottawa-convoy-protesters](https://torontosun.com/news/national/gofundme-pulls-plug-on-fundraiser-for-ottawa-convoy-protesters)
@@ -874,7 +872,7 @@
  - [https://www.youtube.com/watch?v=_vBRGWoK6_4](https://www.youtube.com/watch?v=_vBRGWoK6_4)
  - date_published: 2022-02-12T20:14:23+00:00
  - tags: ['bible', 'jordan peterson', 'religion', 'religion knowledge']
- - date_dead_since: 2024-04-23T00:54:20.672053+00:00
+ - date_dead_since: 2025-09-03T18:27:18.854499+00:00
 
  ## Victor Davis Hanson - How COVID Lockdowns Killed Small Businesses | Highlights Ep.38
  - [https://www.youtube.com/watch?v=-CucAwH3YQY](https://www.youtube.com/watch?v=-CucAwH3YQY)
@@ -1132,7 +1130,7 @@
  ## The Economy Is Fake, the Jobs Are Fake, the Money Is Fake
  - [https://notrelated.xyz/audio/s02/S02E06_-_The_Economy_is_Fake_the_Jobs_are_Fake_the_Money_is_Fake.ogg](https://notrelated.xyz/audio/s02/S02E06_-_The_Economy_is_Fake_the_Jobs_are_Fake_the_Money_is_Fake.ogg)
  - date_published: 2022-03-04T05:00:00+00:00
- - date_dead_since: 2024-04-23T00:40:00.372950+00:00
+ - date_dead_since: 2025-09-03T18:17:07.735591+00:00
 
  ## ICANN's rejection of Ukraine's request to sever Russia from the internet [pdf] | Hacker News
  - [https://news.ycombinator.com/item?id=30540188](https://news.ycombinator.com/item?id=30540188)
@@ -1579,7 +1577,7 @@
  ## Overpopulation and the Mouse Metaverse
  - [https://notrelated.xyz/audio/s02/S02E07_-_Overpopulation_and_the_Mouse_Metaverse.ogg](https://notrelated.xyz/audio/s02/S02E07_-_Overpopulation_and_the_Mouse_Metaverse.ogg)
  - date_published: 2022-03-31T04:00:00+00:00
- - date_dead_since: 2024-04-23T00:20:11.560307+00:00
+ - date_dead_since: 2025-09-03T18:11:36.962815+00:00
 
  ## Twitter user sentenced to 150 hours of community service in UK for posting ‘offensive’ tweet - The Verge
  - [https://www.theverge.com/2022/3/31/23004339/uk-twitter-user-sentenced-grossly-offensive-tweet-tom-moore-joseph-kelly](https://www.theverge.com/2022/3/31/23004339/uk-twitter-user-sentenced-grossly-offensive-tweet-tom-moore-joseph-kelly)
@@ -1851,7 +1849,7 @@
  ## Matt Roelle | Fennel: The Practical Lisp
  - [https://www.mattroelle.com/fennel-the-practical-lisp](https://www.mattroelle.com/fennel-the-practical-lisp)
  - date_published: 2022-04-14T20:24:30.683833+00:00
- - date_dead_since: 2024-04-23T00:17:13.831320+00:00
+ - date_dead_since: 2025-09-03T18:09:05.633339+00:00
 
  ## I hope distributed is not the new default
  - [https://www.zeptonaut.com/posts/i-hope-distributed-is-not-the-new-default](https://www.zeptonaut.com/posts/i-hope-distributed-is-not-the-new-default)
@@ -1886,7 +1884,6 @@
  ## Be less technical
  - [https://www.sequential.dev/posts/be-less-technical](https://www.sequential.dev/posts/be-less-technical)
  - date_published: 2022-04-17T17:23:04.796246+00:00
- - date_dead_since: 2024-04-23T00:17:02.981336+00:00
 
  ## Tucker Carlson takes aim at ADL with Israeli immigration policy -analysis - The Jerusalem Post
  - [https://m.jpost.com/american-politics/why-did-tucker-carlson-talk-about-israeli-immigration-policy-analysis-665400](https://m.jpost.com/american-politics/why-did-tucker-carlson-talk-about-israeli-immigration-policy-analysis-665400)
@@ -2435,7 +2432,7 @@
  ## My students cheated... A lot • crumplab
  - [https://crumplab.com/articles/blog/post_994_5_26_22_cheating/index.html](https://crumplab.com/articles/blog/post_994_5_26_22_cheating/index.html)
  - date_published: 2022-05-29T11:00:57.393519+00:00
- - date_dead_since: 2024-04-22T01:33:13.932981+00:00
+ - date_dead_since: 2025-09-03T17:56:02.653189+00:00
 
  ## Britain should scrap its Online Safety Bill | The Economist
  - [https://www.economist.com/leaders/2022/05/26/britain-should-scrap-its-online-safety-bill](https://www.economist.com/leaders/2022/05/26/britain-should-scrap-its-online-safety-bill)
@@ -2862,6 +2859,7 @@
  ## Inside the secret, often bizarre world that decides what porn you see
  - [https://www.ft.com/content/cff23e36-b507-4717-8830-8b06741c8fd5](https://www.ft.com/content/cff23e36-b507-4717-8830-8b06741c8fd5)
  - date_published: 2022-06-29T07:35:01.143846+00:00
+ - date_dead_since: 2025-09-03T17:38:02.669446+00:00
 
  ## 0.5 billion, and it's permanent.
  - [https://ramapascala.substack.com/p/05-billion-and-its-permanent](https://ramapascala.substack.com/p/05-billion-and-its-permanent)
@@ -2887,7 +2885,7 @@
  ## Unity is laying off hundreds of employees - Protocol
  - [https://www.protocol.com/bulletins/unity-layoffs-game-engine](https://www.protocol.com/bulletins/unity-layoffs-game-engine)
  - date_published: 2022-07-01T08:39:12.908918+00:00
- - date_dead_since: 2024-04-22T01:27:07.581908+00:00
+ - date_dead_since: 2025-09-03T17:31:48.468384+00:00
 
  ## Most workers want their employer to share their values
  - [https://www.cnbc.com/2022/07/01/most-workers-want-their-employer-to-share-their-values.html](https://www.cnbc.com/2022/07/01/most-workers-want-their-employer-to-share-their-values.html)
@@ -3146,6 +3144,7 @@
  - [https://biznesalert.pl/pola-matysiak-emisje-co2-atom-niemcy-rozmowa](https://biznesalert.pl/pola-matysiak-emisje-co2-atom-niemcy-rozmowa)
  - date_published: 2022-07-19T05:25:54+00:00
  - tags: ['atom', 'climate change', 'co2']
+ - date_dead_since: 2025-09-03T17:29:17.644900+00:00
 
  ## The True Story Behind Hulu's New Victoria's Secret Documentary
  - [https://time.com/6197975/victorias-secret-angels-and-demons-hulu-true-story](https://time.com/6197975/victorias-secret-angels-and-demons-hulu-true-story)
@@ -3553,7 +3552,7 @@
  ## It wasn't for nothing - Grasping gexps
  - [https://gexp.no/it-wasnt-for-nothing.html](https://gexp.no/it-wasnt-for-nothing.html)
  - date_published: 2022-08-18T21:03:53.134487+00:00
- - date_dead_since: 2025-04-26T17:21:01.586924+00:00
+ - date_dead_since: 2025-09-03T17:21:38.004867+00:00
 
  ## Random Acts of Kindness Make a Bigger Splash Than Expected - Neuroscience News
  - [https://neurosciencenews.com/kindness-outcome-21263](https://neurosciencenews.com/kindness-outcome-21263)
@@ -3702,7 +3701,7 @@
  ## ShadowGate – A Banned Documentary Covering The Deep State Coup
  - [https://libertariannews.org/2020/08/15/shadowgate-a-banned-documentary-covering-the-deep-state-coup](https://libertariannews.org/2020/08/15/shadowgate-a-banned-documentary-covering-the-deep-state-coup)
  - date_published: 2022-08-24T12:49:08.064296+00:00
- - date_dead_since: 2024-04-22T01:18:50.861152+00:00
+ - date_dead_since: 2025-09-03T17:16:30.515850+00:00
 
  ## ShadowGate – A Banned Documentary Source
  - [https://www.brighteon.com/fde592b6-4efd-415a-8268-f29bf288ac65](https://www.brighteon.com/fde592b6-4efd-415a-8268-f29bf288ac65)
@@ -3832,6 +3831,7 @@
  - [https://gsiexchange.com/follow-the-yellow-bric-road-to-a-new-digital-reserve-currency](https://gsiexchange.com/follow-the-yellow-bric-road-to-a-new-digital-reserve-currency)
  - date_published: 2022-08-29T16:56:15+00:00
  - tags: ['brics', 'cbdc', 'fiat currency']
+ - date_dead_since: 2025-09-03T17:13:55.292826+00:00
 
  ## The Huawei Backdoor Conspiracy
  - [https://www.youtube.com/watch?v=z7luwhj9a2w](https://www.youtube.com/watch?v=z7luwhj9a2w)
@@ -5494,6 +5494,7 @@
  - [https://mwi.usma.edu/mwi-video-brain-battlefield-future-dr-james-giordano](https://mwi.usma.edu/mwi-video-brain-battlefield-future-dr-james-giordano)
  - date_published: 2022-09-29T23:59:46+00:00
  - tags: ['big tech', 'social control', 'social media']
+ - date_dead_since: 2025-09-03T16:50:09.158877+00:00
 
  ## Never-before-seen malware has infected hundreds of Linux and Windows devices
  - [https://www.codeproject.com/script/News/View.aspx?nwid=59043](https://www.codeproject.com/script/News/View.aspx?nwid=59043)
@@ -6628,7 +6629,7 @@
  - [https://www.youtube.com/watch?v=zum672SQX8Q](https://www.youtube.com/watch?v=zum672SQX8Q)
  - date_published: 2022-10-24T21:00:10+00:00
  - tags: ['cancel culture', 'culture', 'postmodernism', 'the left wing']
- - date_dead_since: 2024-04-22T00:33:35.768936+00:00
+ - date_dead_since: 2025-09-03T16:42:06.783695+00:00
 
  ## State AGs say Fauci, Zuckerberg 'colluded' to kill COVID lab leak theory
  - [https://www.foxnews.com/politics/state-ags-fauci-zuckerberg-colluded-kill-covid-lab-leak-theory](https://www.foxnews.com/politics/state-ags-fauci-zuckerberg-colluded-kill-covid-lab-leak-theory)
@@ -6718,6 +6719,7 @@
  - [https://iapps.courts.state.ny.us/fbem/DocumentDisplayServlet?documentId=JK5E3gx5XV1/ku37jnWR_PLUS_w==&system=prod](https://iapps.courts.state.ny.us/fbem/DocumentDisplayServlet?documentId=JK5E3gx5XV1/ku37jnWR_PLUS_w==&system=prod)
  - date_published: 2022-10-25T22:31:24+00:00
  - tags: ['covid', 'vaccine']
+ - date_dead_since: 2025-09-03T16:37:22.092290+00:00
 
  ## Stock futures fall after Alphabet reports earnings miss
  - [https://biztoc.com/p/8ywu3duf?ref=rss&rd=1](https://biztoc.com/p/8ywu3duf?ref=rss&rd=1)
@@ -6805,7 +6807,7 @@
  - [https://commit.pizza/2022/10/16/the-only-way-of-being-anonymous-in-sweden-is-illegal](https://commit.pizza/2022/10/16/the-only-way-of-being-anonymous-in-sweden-is-illegal)
  - date_published: 2022-10-26T13:50:50+00:00
  - tags: ['anonymity', 'law', 'privacy']
- - date_dead_since: 2024-04-22T00:15:31.509538+00:00
+ - date_dead_since: 2025-09-03T16:31:56.512999+00:00
 
  ## App Store developers aren’t happy with gambling app ads appearing beneath their listings
  - [https://www.theverge.com/2022/10/26/23424316/app-store-gambling-ads-listings-apple-developers](https://www.theverge.com/2022/10/26/23424316/app-store-gambling-ads-listings-apple-developers)
@@ -7294,6 +7296,7 @@
  - [https://www.computerworld.com/article/3678297/your-company-brand-may-soon-be-held-hostage-to-adobe-pantone.html#tk.rss_all](https://www.computerworld.com/article/3678297/your-company-brand-may-soon-be-held-hostage-to-adobe-pantone.html#tk.rss_all)
  - date_published: 2022-11-01T16:00:00+00:00
  - tags: ['car sharing', 'subscription', 'technofeudalism']
+ - date_dead_since: 2025-09-03T16:26:28.777812+00:00
 
  ## The DMA could force Apple to change how iMessage and other services operate
  - [https://www.androidauthority.com/apple-imessage-dma-3229780](https://www.androidauthority.com/apple-imessage-dma-3229780)
@@ -7569,7 +7572,7 @@
  - [https://www.thetimes.com.ng/2022/11/finlands-covid-death-toll-could-be-exaggerated-by-40-thl-says-news-more-trending-news](https://www.thetimes.com.ng/2022/11/finlands-covid-death-toll-could-be-exaggerated-by-40-thl-says-news-more-trending-news)
  - date_published: 2022-11-06T08:58:33+00:00
  - tags: ['covid', 'covid lie', 'finland']
- - date_dead_since: 2024-04-21T01:22:54.045192+00:00
+ - date_dead_since: 2025-09-03T16:21:03.117828+00:00
 
  ## (Mastodon) Surviving and thriving through the 2022-11-05 meltdown
  - [https://blog.freeradical.zone/post/surviving-thriving-through-2022-11-05-meltdown](https://blog.freeradical.zone/post/surviving-thriving-through-2022-11-05-meltdown)
@@ -8086,6 +8089,7 @@
  - [https://www.gov.uk/government/publications/syphilis-quarterly-data-for-england/syphilis-in-england-2019-to-2021](https://www.gov.uk/government/publications/syphilis-quarterly-data-for-england/syphilis-in-england-2019-to-2021)
  - date_published: 2022-11-22T19:53:13+00:00
  - tags: ['england', 'homosexuality', 'syphilis']
+ - date_dead_since: 2025-09-03T12:01:42.743877+00:00
 
  ## Eufy leaking your "private" images/faces & names... to the cloud.
  - [https://www.youtube.com/watch?v=qOjiCbxP5Lc](https://www.youtube.com/watch?v=qOjiCbxP5Lc)
@@ -8352,7 +8356,7 @@
  - [https://singlepage.cc](https://singlepage.cc)
  - date_published: 2022-11-29T20:14:31+00:00
  - tags: ['hosting', 'internet', 'programming']
- - date_dead_since: 2024-04-21T01:15:07.516273+00:00
+ - date_dead_since: 2025-09-03T16:17:06.568681+00:00
 
  ## Is ESG An Investment Strategy Or The Path To A Sustainable World?
  - [https://www.forbes.com/sites/jenniferhicks/2022/11/30/is-esg-an-investment-strategy-or-the-path-to-a-sustainable-world](https://www.forbes.com/sites/jenniferhicks/2022/11/30/is-esg-an-investment-strategy-or-the-path-to-a-sustainable-world)
@@ -8878,7 +8882,7 @@
  - [https://www.youtube.com/watch?v=PK6H0qI7fCY](https://www.youtube.com/watch?v=PK6H0qI7fCY)
  - date_published: 2022-12-11T00:00:00+00:00
  - tags: ['anonymity', 'digital identity', 'privacy']
- - date_dead_since: 2024-04-21T00:45:45.707564+00:00
+ - date_dead_since: 2025-09-03T16:11:33.051932+00:00
 
  ## Twitter Files reveal 'junior employee' stood against Trump ban, warned of 'slippery slope'
  - [https://www.foxnews.com/politics/twitter-files-reveal-junior-employee-stood-against-trump-ban-warned-slippery-slope](https://www.foxnews.com/politics/twitter-files-reveal-junior-employee-stood-against-trump-ban-warned-slippery-slope)
@@ -8923,6 +8927,7 @@
  - [https://en.wikipedia.org/wiki/Privacy_concerns_regarding_Google](https://en.wikipedia.org/wiki/Privacy_concerns_regarding_Google)
  - date_published: 2022-12-11T20:41:13+00:00
  - tags: ['google', 'privacy']
+ - date_dead_since: 2025-09-03T12:00:28.993972+00:00
 
  ## Surveillance issues in smart cities
  - [https://en.wikipedia.org/wiki/Surveillance_issues_in_smart_cities](https://en.wikipedia.org/wiki/Surveillance_issues_in_smart_cities)
@@ -9775,6 +9780,7 @@
  - [https://www.dailywire.com/news/joe-rogans-podcast-shows-horrifying-slave-conditions-used-to-mine-materials-needed-for-electric-cars](https://www.dailywire.com/news/joe-rogans-podcast-shows-horrifying-slave-conditions-used-to-mine-materials-needed-for-electric-cars)
  - date_published: 2022-12-24T16:37:37+00:00
  - tags: ['climate change', 'climate drama', 'electric vehicles', 'slave labour']
+ - date_dead_since: 2025-09-03T11:59:12.241986+00:00
 
  ## Twitter Data Breach: Data of 400M Users Up for Sale on Dark Web
  - [https://thecyberexpress.com/twitter-data-breach-400-million-users-for-sale](https://thecyberexpress.com/twitter-data-breach-400-million-users-for-sale)

@@ -371,6 +371,7 @@
  - [https://www.ibtimes.co.uk/ubisoft-game-faces-79m-fine-privacy-experts-uncover-hidden-data-harvesting-1733079](https://www.ibtimes.co.uk/ubisoft-game-faces-79m-fine-privacy-experts-uncover-hidden-data-harvesting-1733079)
  - date_published: 2025-04-25T10:51:42+00:00
  - tags: ['privacy', 'surveillance', 'ubisoft']
+ - date_dead_since: 2025-09-03T07:33:43.605213+00:00
 
  ## CPO at Adobe says company will 'discontinue' DEI targets
  - [http://www.hrdmag.com.sg/asia/specialisation/diversity-inclusion/cpo-at-adobe-says-company-will-discontinue-dei-targets/530679](http://www.hrdmag.com.sg/asia/specialisation/diversity-inclusion/cpo-at-adobe-says-company-will-discontinue-dei-targets/530679)
@@ -386,6 +387,7 @@
  - [https://www.bbc.com/news/articles/cql67qk0dd3o](https://www.bbc.com/news/articles/cql67qk0dd3o)
  - date_published: 2025-04-26T02:48:29+00:00
  - tags: ['jeffrey epstein', 'virginia giuffre']
+ - date_dead_since: 2025-09-03T06:25:46.470865+00:00
 
  ## Prince Andrew accuser Virginia Roberts Giuffre: 'I'm not suicidal, in case something happens to me'
  - [https://news.sky.com/story/prince-andrew-accuser-virginia-roberts-giuffre-im-not-suicidal-in-case-something-happens-to-me-11883685](https://news.sky.com/story/prince-andrew-accuser-virginia-roberts-giuffre-im-not-suicidal-in-case-something-happens-to-me-11883685)
@@ -551,6 +553,11 @@
  - date_published: 2025-07-10T12:02:01+00:00
  - tags: ['corporatocracy']
 
+ ## cnn.com breaking news
+ - [https://www.youtube.com/watch?v=4m_5lv8MH74](https://www.youtube.com/watch?v=4m_5lv8MH74)
+ - date_published: 2025-07-11T00:00:00+00:00
+ - tags: ['news']
+
  ## the worst coverup of my lifetime
  - [https://www.youtube.com/watch?v=fyZA2KKmRXw](https://www.youtube.com/watch?v=fyZA2KKmRXw)
  - date_published: 2025-07-11T07:43:52+00:00
@@ -630,6 +637,11 @@
  - date_published: 2025-08-19T16:21:28.968582+00:00
  - date_dead_since: 2025-08-19T16:21:29.039973+00:00
 
+ ## How Google Broke Google
+ - [https://www.youtube.com/watch?v=GvaOUFwXjf4](https://www.youtube.com/watch?v=GvaOUFwXjf4)
+ - date_published: 2025-08-20T19:31:50+00:00
+ - tags: ['corporatocracy', 'enshittification', 'google']
+
  - [https://httpskipedia.orgwikiPrinter_tracking_dots](https://httpskipedia.orgwikiPrinter_tracking_dots)
  - date_published: 2025-08-22T18:30:08.602098+00:00
  - date_dead_since: 2025-08-22T18:30:08.643214+00:00
@@ -643,4 +655,14 @@
  - [https://www.youtube.com/watch?v=x1oh19SYQZI](https://www.youtube.com/watch?v=x1oh19SYQZI)
  - date_published: 2025-08-28T00:05:22+00:00
  - tags: ['jeffrey epstein']
+
+ ## X(Twitter) Shadow Bans Turkish Presidential Candidate
+ - [https://utkusen.substack.com/p/xtwitter-secretly-shadow-bans-turkish](https://utkusen.substack.com/p/xtwitter-secretly-shadow-bans-turkish)
+ - date_published: 2025-09-02T15:42:43+00:00
+ - tags: ['corporatocracy', 'shadow ban']
+
+ ## Phone Has Social Credit. We Just Lie About It
+ - [https://www.thenexus.media/your-phone-already-has-social-credit-we-just-lie-about-it](https://www.thenexus.media/your-phone-already-has-social-credit-we-just-lie-about-it)
+ - date_published: 2025-09-02T17:14:51+00:00
+ - tags: ['corporatocracy', 'credit score', 'social score']
 

@@ -55,7 +55,7 @@
 
  ## Samsung data center fire causes outage, errors on smart TVs and phones (update: fixed)
  - [https://www.engadget.com/2014-04-20-samsung-com-outage-sds-fire.html?guccounter=1](https://www.engadget.com/2014-04-20-samsung-com-outage-sds-fire.html?guccounter=1)
- - date_published: 2014-04-20T10:47:57+00:00
+ - date_published: 2014-04-20T10:08:00+00:00
  - tags: ['technofeudalism']
 
  ## Why Science Does Not Disprove God

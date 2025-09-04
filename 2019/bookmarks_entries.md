@@ -166,7 +166,7 @@
  ## The Flaws of Academic Statistics: the Null Ritual
  - [https://notrelated.xyz/audio/s01/S01E08_-_The_Flaws_of_Academic_Statistics_the_Null_Ritual.mp3](https://notrelated.xyz/audio/s01/S01E08_-_The_Flaws_of_Academic_Statistics_the_Null_Ritual.mp3)
  - date_published: 2019-03-13T04:00:00+00:00
- - date_dead_since: 2024-04-21T00:29:52.466560+00:00
+ - date_dead_since: 2025-09-03T23:51:45.848843+00:00
 
  ## Elektrownia atomowa. Państwowa spółka pochłonęła już prawie pół miliarda złotych
  - [https://www.money.pl/gospodarka/elektrownia-atomowa-panstwowa-spolka-pochlonela-juz-prawie-pol-miliarda-zlotych-6364261429319809a.html](https://www.money.pl/gospodarka/elektrownia-atomowa-panstwowa-spolka-pochlonela-juz-prawie-pol-miliarda-zlotych-6364261429319809a.html)
@@ -402,6 +402,7 @@
  - [https://summit.news/2019/07/05/cbc-accused-of-sexualizing-children-after-promoting-drag-kids-documentary](https://summit.news/2019/07/05/cbc-accused-of-sexualizing-children-after-promoting-drag-kids-documentary)
  - date_published: 2019-07-05T08:18:45+00:00
  - tags: ['children', 'sexualization']
+ - date_dead_since: 2025-09-03T23:46:16.566445+00:00
 
  ## Koniec naszego świata
  - [https://www.tvp.info/43374228/koniec-naszego-swiata](https://www.tvp.info/43374228/koniec-naszego-swiata)
@@ -757,7 +758,7 @@
  - [http://www.silaojca.pl/w-jakim-stopniu-brak-ojca-wplywa-na-zycie-dziecka](http://www.silaojca.pl/w-jakim-stopniu-brak-ojca-wplywa-na-zycie-dziecka)
  - date_published: 2019-10-02T08:36:52+00:00
  - tags: ['family', 'fatherlessness']
- - date_dead_since: 2024-04-21T00:13:41.537836+00:00
+ - date_dead_since: 2025-09-03T23:41:13.423426+00:00
 
  ## Eyes Wide Shut and the Moral Bankruptcy of the American Elite
  - [https://lawliberty.org/eyes-wide-shut-and-the-moral-bankruptcy-of-the-american-elite](https://lawliberty.org/eyes-wide-shut-and-the-moral-bankruptcy-of-the-american-elite)
@@ -959,6 +960,7 @@
  - [https://www.techrepublic.com/article/how-to-keep-employees-happy-linkedin-study-reveals-three-factors](https://www.techrepublic.com/article/how-to-keep-employees-happy-linkedin-study-reveals-three-factors)
  - date_published: 2019-11-21T09:13:58+00:00
  - tags: ['it', 'managment', 'programming']
+ - date_dead_since: 2025-09-03T23:30:35.966137+00:00
 
  ## He invented the web. Now he's warning of a looming 'digital dystopia'
  - [https://www.cnn.com/2019/11/25/tech/berners-lee-web-safer-plan-scli-intl/index.html](https://www.cnn.com/2019/11/25/tech/berners-lee-web-safer-plan-scli-intl/index.html)
@@ -1013,7 +1015,6 @@
  - [https://bigthink.com/strange-maps/coudenhove-kalergi-map](https://bigthink.com/strange-maps/coudenhove-kalergi-map)
  - date_published: 2019-12-12T10:19:51+00:00
  - tags: ['coudenhove-kalergi', 'european union', 'the right wing']
- - date_dead_since: 2025-04-26T21:55:50.039700+00:00
 
  ## New York public school rejects student Christian club, OKs LGBT Pride Club
  - [https://www.christianpost.com/news/new-york-public-school-rejects-student-christian-club-oks-lgbt-pride-club.html?fbclid=IwAR0XGOCi2lUIsLetSjnCZN91O05rCeaWGsR0z2E5dBtfH_E-2OEFqVqi3eA](https://www.christianpost.com/news/new-york-public-school-rejects-student-christian-club-oks-lgbt-pride-club.html?fbclid=IwAR0XGOCi2lUIsLetSjnCZN91O05rCeaWGsR0z2E5dBtfH_E-2OEFqVqi3eA)
