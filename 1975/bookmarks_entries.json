@@ -92,7 +92,7 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-02-29T15:00:04.642866+00:00",
-        "date_dead_since": "2024-04-24T00:29:43.224523+00:00",
+        "date_dead_since": "2025-09-04T02:38:02.177439+00:00",
         "date_published": "1975-09-07T06:59:55+00:00",
         "description": "Most Powerful in the World - The Bilderberg Group Part 2",
         "id": 40302,
@@ -105,7 +105,7 @@
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.trivia-library.com",
-        "status_code": 500,
+        "status_code": 600,
         "tags": [
             "bilderberg meeting",
             "billionaires",

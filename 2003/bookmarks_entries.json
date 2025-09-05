@@ -95,7 +95,7 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-02-29T15:00:23.972420+00:00",
-        "date_dead_since": "2024-04-24T01:11:06.250624+00:00",
+        "date_dead_since": "2025-09-04T02:13:55.669670+00:00",
         "date_published": "2003-08-28T16:59:48+00:00",
         "description": "Iraq: Halliburton Reaping Huge Profits | corpwatch",
         "id": 40668,
@@ -108,7 +108,7 @@
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.corpwatch.org",
-        "status_code": 604,
+        "status_code": 600,
         "tags": [
             "halliburton",
             "iraq"

@@ -259,7 +259,7 @@
  - [https://www.youtube.com/watch?v=4hJ0lsQvLiQ](https://www.youtube.com/watch?v=4hJ0lsQvLiQ)
  - date_published: 2014-11-27T00:00:00+00:00
  - tags: ['islam', 'religion']
- - date_dead_since: 2024-04-23T01:07:35.694615+00:00
+ - date_dead_since: 2025-09-04T01:43:04.814503+00:00
 
  ## Gain-of-function experiments: time for a real debate - PMC
  - [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7097416](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7097416)

@@ -22,5 +22,4 @@
  - [http://ted-manifesto.prv.pl](http://ted-manifesto.prv.pl)
  - date_published: 1995-12-16T07:23:07+00:00
  - tags: ['all time', 'ted kaczynski', 'unabomber']
- - date_dead_since: 2025-04-27T02:23:57.893155+00:00
 

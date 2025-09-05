@@ -54,7 +54,6 @@
  - [https://www.csd.uoc.gr/~hy556/material/tutorials/cs556-3rd-tutorial.pdf](https://www.csd.uoc.gr/~hy556/material/tutorials/cs556-3rd-tutorial.pdf)
  - date_published: 2012-05-05T13:30:26+00:00
  - tags: ['ansic', 'programming']
- - date_dead_since: 2025-04-27T01:58:11.821945+00:00
 
  ## A Fink-ing Mess!
  - [https://www.cnbc.com/2012/06/01/a-finking-mess.html](https://www.cnbc.com/2012/06/01/a-finking-mess.html)
@@ -145,7 +144,6 @@ Foreign Bribery Investigation | OPA | Department of Justice
  - [https://www.campaigncc.org/climate_change/sceptics/funders](https://www.campaigncc.org/climate_change/sceptics/funders)
  - date_published: 2012-12-21T15:31:06+00:00
  - tags: ['carbon emissions', 'carbon footprint', 'climate change']
- - date_dead_since: 2025-04-27T01:50:22.179345+00:00
 
  ## Alien: A Film Franchise Based Entirely on Rape
  - [https://www.cracked.com/article_18932_alien-film-franchise-based-entirely-rape.html](https://www.cracked.com/article_18932_alien-film-franchise-based-entirely-rape.html)

@@ -37,7 +37,6 @@
  - [https://www.youtube.com/watch?v=aMcjxSThD54](https://www.youtube.com/watch?v=aMcjxSThD54)
  - date_published: 2018-01-16T00:00:00+00:00
  - tags: ['cathy newman', 'feminism', 'inequality', 'jordan peterson']
- - date_dead_since: 2025-04-27T01:18:23.614191+00:00
 
  ## Jordan B. Peterson on 12 Rules for Life
  - [https://www.youtube.com/watch?v=-5RCmu-HuTg](https://www.youtube.com/watch?v=-5RCmu-HuTg)
@@ -48,7 +47,7 @@
  - [https://www.csoonline.com/article/3248825/security/skygofree-powerful-android-spyware-with-advanced-surveillance-tools.html](https://www.csoonline.com/article/3248825/security/skygofree-powerful-android-spyware-with-advanced-surveillance-tools.html)
  - date_published: 2018-01-18T06:47:39+00:00
  - tags: ['android', 'espionage', 'google', 'privacy', 'skygofree', 'surveillance']
- - date_dead_since: 2024-04-24T01:08:00.805886+00:00
+ - date_dead_since: 2025-09-04T01:06:29.928059+00:00
 
  ## Did the Chief Executive Officer of Nestlé Say Water Is Not a Human Right? | Snopes.com
  - [https://www.snopes.com/fact-check/nestle-ceo-water-not-human-right](https://www.snopes.com/fact-check/nestle-ceo-water-not-human-right)
@@ -339,7 +338,7 @@
  - [https://www.youtube.com/watch?v=jdYPsCUDVrU](https://www.youtube.com/watch?v=jdYPsCUDVrU)
  - date_published: 2018-04-26T00:00:00+00:00
  - tags: ['andrzej lepper', 'conspiracy theories']
- - date_dead_since: 2024-04-24T00:39:16.317748+00:00
+ - date_dead_since: 2025-09-04T00:56:24.618751+00:00
 
  ## Amazon Web Services starts blocking domain-fronting, following Google’s lead
  - [https://www.theverge.com/2018/4/30/17304782/amazon-domain-fronting-google-discontinued](https://www.theverge.com/2018/4/30/17304782/amazon-domain-fronting-google-discontinued)
@@ -370,7 +369,7 @@
  - [https://www.youtube.com/watch?v=tKjlf6DMXTk](https://www.youtube.com/watch?v=tKjlf6DMXTk)
  - date_published: 2018-05-11T15:51:38+00:00
  - tags: ['lgbt']
- - date_dead_since: 2024-04-24T01:04:34.937426+00:00
+ - date_dead_since: 2025-09-04T00:53:33.613201+00:00
 
  ## Scawy big no functionality at all UwU · Issue #15 · mpaland/printf · GitHub
  - [https://github.com/mpaland/printf/issues/15](https://github.com/mpaland/printf/issues/15)
@@ -531,7 +530,7 @@
  ## An Introduction to Not Related! and to Luke Smith
  - [https://notrelated.xyz/audio/s01/S01E00_-_Not_Related_Introduction_and_on_Luke_Smith.mp3](https://notrelated.xyz/audio/s01/S01E00_-_Not_Related_Introduction_and_on_Luke_Smith.mp3)
  - date_published: 2018-08-17T04:00:00+00:00
- - date_dead_since: 2024-04-24T00:55:03.833875+00:00
+ - date_dead_since: 2025-09-04T00:47:36.820690+00:00
 
  ## Google's data collection is hard to escape, study claims
  - [http://money.cnn.com/2018/08/21/technology/google-data-collection/index.html](http://money.cnn.com/2018/08/21/technology/google-data-collection/index.html)
@@ -546,7 +545,7 @@
  - [https://notrelated.xyz/audio/s01/S01E01_-_The_Origin_of_Consciousness_in_the_Breakdown_of_the_Bicameral_Mind.mp3](https://notrelated.xyz/audio/s01/S01E01_-_The_Origin_of_Consciousness_in_the_Breakdown_of_the_Bicameral_Mind.mp3)
  - date_published: 2018-08-24T04:00:00+00:00
  - tags: ['bicameral mind', 'psychology']
- - date_dead_since: 2024-04-24T00:55:01.555753+00:00
+ - date_dead_since: 2025-09-04T00:41:45.391972+00:00
 
  ## Rotten Tomatoes Adds 200 Critics as It Tries to Be More Inclusive
  - [https://www.nytimes.com/2018/08/28/business/media/rotten-tomatoes-critics.html](https://www.nytimes.com/2018/08/28/business/media/rotten-tomatoes-critics.html)
@@ -577,7 +576,7 @@
  ## Capitalism, Socialism and Democracy
  - [https://notrelated.xyz/audio/s01/S01E02_-_Capitalism_Socialism_and_Democracy.mp3](https://notrelated.xyz/audio/s01/S01E02_-_Capitalism_Socialism_and_Democracy.mp3)
  - date_published: 2018-09-01T04:00:00+00:00
- - date_dead_since: 2024-04-24T00:54:14.055381+00:00
+ - date_dead_since: 2025-09-04T00:35:53.687084+00:00
 
  ## Can mRNA disrupt the drug industry?
  - [https://cen.acs.org/business/start-ups/mRNA-disrupt-drug-industry/96/i35](https://cen.acs.org/business/start-ups/mRNA-disrupt-drug-industry/96/i35)
@@ -642,7 +641,7 @@
  ## Democracy: Rule of the NPCs
  - [https://notrelated.xyz/audio/s01/S01E04_-_Democracy_Rule_of_the_NPCs.mp3](https://notrelated.xyz/audio/s01/S01E04_-_Democracy_Rule_of_the_NPCs.mp3)
  - date_published: 2018-09-19T04:00:00+00:00
- - date_dead_since: 2024-04-24T00:49:34.751972+00:00
+ - date_dead_since: 2025-09-04T00:33:48.499502+00:00
 
  ## How to Remove Elements from an Associative Container in C++
  - [https://www.fluentcpp.com/2018/09/21/remove-elements-associative-container-cpp](https://www.fluentcpp.com/2018/09/21/remove-elements-associative-container-cpp)
@@ -668,7 +667,7 @@
  - [https://notrelated.xyz/audio/s01/S01E05_-_The_Agricultural_Revolution_Has_Been_a_Disaster_for_the_Human_Race.mp3](https://notrelated.xyz/audio/s01/S01E05_-_The_Agricultural_Revolution_Has_Been_a_Disaster_for_the_Human_Race.mp3)
  - date_published: 2018-10-08T04:00:00+00:00
  - tags: ['agriculture']
- - date_dead_since: 2024-04-24T00:45:12.065398+00:00
+ - date_dead_since: 2025-09-04T00:24:29.162520+00:00
 
  ## A Clockwork Orange - Film Analysis & Meaning [Full HD]
  - [https://www.youtube.com/watch?v=dOvP58ioBRc](https://www.youtube.com/watch?v=dOvP58ioBRc)
@@ -740,7 +739,7 @@
  ## When You're Too Rational to Be Rational!
  - [https://notrelated.xyz/audio/s01/S01E06_-_When_Youre_Too_Rational_to_Be_Rational.mp3](https://notrelated.xyz/audio/s01/S01E06_-_When_Youre_Too_Rational_to_Be_Rational.mp3)
  - date_published: 2018-11-16T05:00:00+00:00
- - date_dead_since: 2024-04-24T00:39:52.298407+00:00
+ - date_dead_since: 2025-09-04T00:12:27.325505+00:00
 
  ## Eyes Wide Shut - What it all Meant
  - [https://www.youtube.com/watch?v=aXwy7M7Udmg](https://www.youtube.com/watch?v=aXwy7M7Udmg)

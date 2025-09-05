@@ -17,7 +17,7 @@
  - [https://www.corpwatch.org/article/iraq-halliburton-reaping-huge-profits](https://www.corpwatch.org/article/iraq-halliburton-reaping-huge-profits)
  - date_published: 2003-08-28T16:59:48+00:00
  - tags: ['halliburton', 'iraq']
- - date_dead_since: 2024-04-24T01:11:06.250624+00:00
+ - date_dead_since: 2025-09-04T02:13:55.669670+00:00
 
  ## Five Israelis were seen filming as jet liners ploughed into the Twin Towers on September 11, 2001 ...
  - [https://www.heraldscotland.com/news/12768362.five-israelis-were-seen-filming-as-jet-liners-ploughed-into-the-twin-towers-on-september-11-2001](https://www.heraldscotland.com/news/12768362.five-israelis-were-seen-filming-as-jet-liners-ploughed-into-the-twin-towers-on-september-11-2001)

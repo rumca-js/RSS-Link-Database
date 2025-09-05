@@ -902,12 +902,13 @@
  - [https://www.nationalreview.com/news/could-spark-an-epidemic-house-committee-report-alleges-fauci-and-niaid-concealed-plans-to-engineer-enhanced-monkeypox-virus](https://www.nationalreview.com/news/could-spark-an-epidemic-house-committee-report-alleges-fauci-and-niaid-concealed-plans-to-engineer-enhanced-monkeypox-virus)
  - date_published: 2024-06-12T21:44:15+00:00
  - tags: ['anthony fauci', 'covid', 'pandemic']
- - date_dead_since: 2025-04-27T19:12:22.877099+00:00
+ - date_dead_since: 2025-09-04T19:12:51.019300+00:00
 
  ## OpenAI Appoints Former NSA Director Paul Nakasone to Board of Directors
  - [https://www.securityweek.com/openai-appoints-former-nsa-director-paul-nakasone-to-board-of-directors](https://www.securityweek.com/openai-appoints-former-nsa-director-paul-nakasone-to-board-of-directors)
  - date_published: 2024-06-14T13:20:30+00:00
  - tags: ['corporatocracy', 'nsa', 'openai', 'surveillance']
+ - date_dead_since: 2025-09-04T19:17:56.816881+00:00
 
  ## Nashville Shooter Audrey Hale Manifesto Court Hearing Sparks Backlash
  - [https://www.newsweek.com/audrey-hale-covenant-school-shooting-manifesto-court-hearing-1913756](https://www.newsweek.com/audrey-hale-covenant-school-shooting-manifesto-court-hearing-1913756)
