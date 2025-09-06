@@ -1156,7 +1156,7 @@
         "page_rating_contents": 91,
         "page_rating_visits": 3,
         "page_rating_votes": 10,
-        "permanent": true,
+        "permanent": false,
         "source_url": "",
         "status_code": 200,
         "tags": [
@@ -2527,7 +2527,7 @@
         "page_rating_contents": 86,
         "page_rating_visits": 3,
         "page_rating_votes": 30,
-        "permanent": true,
+        "permanent": false,
         "source_url": "",
         "status_code": 200,
         "tags": [

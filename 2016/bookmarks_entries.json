@@ -573,7 +573,7 @@
             "inequality",
             "panama papers"
         ],
-        "thumbnail": "https://i.guim.co.uk/img/media/eaaaf2ffdf286689b0532d1fcad6623558598770/0_0_2560_1536/master/2560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTYucG5n&enable=upscale&s=8b2f6f51d37ffd9bdb02ff15cc994317",
+        "thumbnail": "https://i.guim.co.uk/img/media/eaaaf2ffdf286689b0532d1fcad6623558598770/0_0_2560_1536/master/2560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTYucG5n&enable=upscale&s=c2435f5e8c89051059f2a28fb79b349f",
         "title": "Fund run by David Cameron\u2019s father avoided paying tax in Britain",
         "vote": 30
     },

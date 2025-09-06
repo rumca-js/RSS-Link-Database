@@ -130,7 +130,7 @@
         "page_rating_contents": 82,
         "page_rating_visits": 2,
         "page_rating_votes": 90,
-        "permanent": true,
+        "permanent": false,
         "source_url": "https://en.wikipedia.org",
         "status_code": 200,
         "tags": [
@@ -138,7 +138,7 @@
             "manufacturing consent",
             "osama bin laden"
         ],
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bin_Ladin_Determined_To_Strike_in_US_%28August_2001%29.pdf/page1-1200px-Bin_Ladin_Determined_To_Strike_in_US_%28August_2001%29.pdf.jpg",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bin_Ladin_Determined_To_Strike_in_US_%28August_2001%29.pdf/page1-869px-Bin_Ladin_Determined_To_Strike_in_US_%28August_2001%29.pdf.jpg",
         "title": "Bin Ladin Determined To Strike in US - Wikipedia",
         "vote": 90
     },
@@ -216,7 +216,7 @@
         "page_rating_contents": 86,
         "page_rating_visits": 1,
         "page_rating_votes": 20,
-        "permanent": true,
+        "permanent": false,
         "source_url": "https://www.snopes.com",
         "status_code": 200,
         "tags": [

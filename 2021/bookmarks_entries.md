@@ -374,6 +374,7 @@
  - [https://www.nationalreview.com/news/kerry-defended-taking-private-jet-to-iceland-for-environmental-award-the-only-choice-for-somebody-like-me/amp](https://www.nationalreview.com/news/kerry-defended-taking-private-jet-to-iceland-for-environmental-award-the-only-choice-for-somebody-like-me/amp)
  - date_published: 2021-02-23T06:59:57+00:00
  - tags: ['billionaires', 'climate change']
+ - date_dead_since: 2025-09-05T18:13:12.328427+00:00
 
  ## Biden’s ‘kids in cages’ prove his hypocrisy on immigration
  - [https://nypost.com/2021/02/24/bidens-kids-in-cages-prove-his-hypocrisy-on-immigration](https://nypost.com/2021/02/24/bidens-kids-in-cages-prove-his-hypocrisy-on-immigration)
