@@ -15,7 +15,7 @@
         "manual_status_code": 0,
         "page_rating": 29,
         "page_rating_contents": 82,
-        "page_rating_visits": 3,
+        "page_rating_visits": 5,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 141,
@@ -24,7 +24,7 @@
         "tags": [
             "psychology"
         ],
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Boltzmann2.jpg/1200px-Boltzmann2.jpg",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Boltzmann2.jpg/960px-Boltzmann2.jpg",
         "title": "Boltzmann brain",
         "vote": 0
     }

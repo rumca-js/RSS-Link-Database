@@ -1385,6 +1385,7 @@
  - [https://www.politico.com/news/2022/11/17/florida-anti-woke-law-block-colleges-education-00069252](https://www.politico.com/news/2022/11/17/florida-anti-woke-law-block-colleges-education-00069252)
  - date_published: 2024-11-19T07:24:58+00:00
  - tags: ['dystopia', 'woke']
+ - date_dead_since: 2025-09-06T02:17:31.313523+00:00
 
  ## OpenAI accidentally erases potential evidence in training data lawsuit
  - [https://www.theverge.com/2024/11/21/24302606/openai-erases-evidence-in-training-data-lawsuit](https://www.theverge.com/2024/11/21/24302606/openai-erases-evidence-in-training-data-lawsuit)
