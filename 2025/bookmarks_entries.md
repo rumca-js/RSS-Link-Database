@@ -8,6 +8,11 @@
  - date_published: 2025-01-02T19:29:36+00:00
  - tags: ['privacy']
 
+ ## Polish president seeks protection for Netanyahu if he attends Auschwitz anniversary event
+ - [https://apnews.com/article/poland-israel-netanyahu-warrant-duda-auschwitz-anniversary-3b672818016198f4247917e3587e2913](https://apnews.com/article/poland-israel-netanyahu-warrant-duda-auschwitz-anniversary-3b672818016198f4247917e3587e2913)
+ - date_published: 2025-01-09T13:03:06+00:00
+ - tags: ['israel', 'poland']
+
  ## The TikTok Ban Is Also About Hiding Pro-Palestinian Content. Republicans Said So Themselves.
  - [https://theintercept.com/2025/01/09/tiktok-ban-israel-palestine-republicans](https://theintercept.com/2025/01/09/tiktok-ban-israel-palestine-republicans)
  - date_published: 2025-01-09T15:51:59+00:00
@@ -206,10 +211,20 @@
  - date_published: 2025-02-25T17:10:00+00:00
  - tags: ['google', 'privacy', 'surveillance', 'technofeudalism']
 
+ ## Apple responds to its voice-to-text feature writing 'Trump' when a user says 'racist'
+ - [https://www.tweaktown.com/news/103523/apple-responds-to-its-voice-text-feature-writing-trump-when-user-says-racist/index.html](https://www.tweaktown.com/news/103523/apple-responds-to-its-voice-text-feature-writing-trump-when-user-says-racist/index.html)
+ - date_published: 2025-02-25T20:07:03+00:00
+ - tags: ['donald trump', 'manufacturing consent']
+
  ## Former OpenAI board member tells all about Altman’s ousting
  - [https://www.cio.com/article/2130365/former-openai-board-member-tells-all-about-altmans-ousting.html](https://www.cio.com/article/2130365/former-openai-board-member-tells-all-about-altmans-ousting.html)
  - date_published: 2025-02-26T01:00:00+00:00
  - tags: ['sam altman']
+
+ ## France is about to pass the worst surveillance law in the EU. We must stop them now! | Tuta
+ - [https://tuta.com/blog/france-surveillance-nacrotrafic-law](https://tuta.com/blog/france-surveillance-nacrotrafic-law)
+ - date_published: 2025-02-27T00:00:00+00:00
+ - tags: ['crypto wars', 'france']
 
  ## Apple AI tool transcribed the word 'racist' as 'Trump'
  - [https://www.bbc.co.uk/news/articles/c5ymvjjqzmeo](https://www.bbc.co.uk/news/articles/c5ymvjjqzmeo)
@@ -231,6 +246,11 @@
  - date_published: 2025-02-28T05:25:16+00:00
  - tags: ['christianophobia']
 
+ ## Belgium probes suspected Chinese hack of state security service
+ - [https://therecord.media/belgium-investigation-alleged-china-cyber-espionage-vsse](https://therecord.media/belgium-investigation-alleged-china-cyber-espionage-vsse)
+ - date_published: 2025-03-03T18:36:31+00:00
+ - tags: ['belgia', 'china', 'hackers', 'vulnerability']
+
  ## How Google tracks Android device users before they've even opened an app
  - [https://www.theregister.com/2025/03/04/google_android](https://www.theregister.com/2025/03/04/google_android)
  - date_published: 2025-03-04T11:16:47+00:00
@@ -250,6 +270,11 @@
  - [https://www.theguardian.com/environment/2025/mar/05/half-of-worlds-co2-emissions-come-from-36-fossil-fuel-firms-study-shows](https://www.theguardian.com/environment/2025/mar/05/half-of-worlds-co2-emissions-come-from-36-fossil-fuel-firms-study-shows)
  - date_published: 2025-03-05T05:01:16+00:00
  - tags: ['climate change', 'co2', 'corporatocracy']
+
+ ## The Israeli Military Is One of Microsoft's Top AI Customers, Leaked Documents Reveal
+ - [https://www.dropsitenews.com/p/microsoft-azure-israel-top-customer-ai-cloud?link_id=4&can_id=e75bb10909edf521c6363d3b56c86337&source=email-microsoft-has-blood-on-its-hands-2&email_referrer=email_2640424&email_subject=microsoft-has-blood-on-its-hands](https://www.dropsitenews.com/p/microsoft-azure-israel-top-customer-ai-cloud?link_id=4&can_id=e75bb10909edf521c6363d3b56c86337&source=email-microsoft-has-blood-on-its-hands-2&email_referrer=email_2640424&email_subject=microsoft-has-blood-on-its-hands)
+ - date_published: 2025-03-06T11:04:47+00:00
+ - tags: ['israel']
 
  ## State of The Dead Internet
  - [https://www.youtube.com/watch?v=GELgKl_Wow8](https://www.youtube.com/watch?v=GELgKl_Wow8)
@@ -666,4 +691,9 @@
  - [https://www.thenexus.media/your-phone-already-has-social-credit-we-just-lie-about-it](https://www.thenexus.media/your-phone-already-has-social-credit-we-just-lie-about-it)
  - date_published: 2025-09-02T17:14:51+00:00
  - tags: ['corporatocracy', 'credit score', 'social score']
+
+ ## Total surveillance you CANNOT escape is coming
+ - [https://www.youtube.com/watch?v=Ch9ZkdXn3QU](https://www.youtube.com/watch?v=Ch9ZkdXn3QU)
+ - date_published: 2025-09-09T15:16:52+00:00
+ - tags: ['surveilance']
 

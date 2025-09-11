@@ -1441,6 +1441,11 @@
  - date_published: 2024-12-02T22:07:18+00:00
  - tags: ['billionaires', 'david mayer', 'elite', 'inequality', 'rothschild']
 
+ ## The rise of network states
+ - [https://abmagazine.accaglobal.com/global/articles/2024/dec/business/the-rise-of-network-states.html](https://abmagazine.accaglobal.com/global/articles/2024/dec/business/the-rise-of-network-states.html)
+ - date_published: 2024-12-02T23:02:49+00:00
+ - tags: ['donald trump', 'elon musk', 'network states']
+
  ## WARMINGTON: Mayor who stood up to Pride group has bank account garnished
  - [https://torontosun.com/news/local-news/warmington-mayor-who-stood-up-to-pride-group-has-bank-account-garnished](https://torontosun.com/news/local-news/warmington-mayor-who-stood-up-to-pride-group-has-bank-account-garnished)
  - date_published: 2024-12-08T09:51:37+00:00
