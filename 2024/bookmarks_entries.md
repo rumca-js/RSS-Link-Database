@@ -951,6 +951,11 @@
  - [https://dailycaller.com/2024/06/05/rooke-judith-butler-lgbt-pedophilia](https://dailycaller.com/2024/06/05/rooke-judith-butler-lgbt-pedophilia)
  - date_published: 2024-06-26T07:55:47+00:00
 
+ ## ID Verification Service for TikTok, Uber, X Exposed Driver Licenses
+ - [https://www.404media.co/id-verification-service-for-tiktok-uber-x-exposed-driver-licenses-au10tix](https://www.404media.co/id-verification-service-for-tiktok-uber-x-exposed-driver-licenses-au10tix)
+ - date_published: 2024-06-26T13:39:37+00:00
+ - tags: ['digital id', 'privacy', 'surveillance']
+
  ## Panama Papers: Court acquits all 28 charged with money laundering
  - [https://www.bbc.com/news/articles/cjer3llen42o](https://www.bbc.com/news/articles/cjer3llen42o)
  - date_published: 2024-06-29T11:44:04+00:00

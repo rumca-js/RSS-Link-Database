@@ -692,8 +692,18 @@
  - date_published: 2025-09-02T17:14:51+00:00
  - tags: ['corporatocracy', 'credit score', 'social score']
 
+ ## Intermediary age assurance provider collecting user data on specific URLs, more
+ - [https://www.biometricupdate.com/202509/intermediary-age-assurance-provider-collecting-user-data-on-specific-urls-more](https://www.biometricupdate.com/202509/intermediary-age-assurance-provider-collecting-user-data-on-specific-urls-more)
+ - date_published: 2025-09-08T17:22:23+00:00
+ - tags: ['digital id', 'privacy', 'surveillance']
+
  ## Total surveillance you CANNOT escape is coming
  - [https://www.youtube.com/watch?v=Ch9ZkdXn3QU](https://www.youtube.com/watch?v=Ch9ZkdXn3QU)
  - date_published: 2025-09-09T15:16:52+00:00
  - tags: ['surveilance']
+
+ ## Not Even The "Tech Bros" Want Their Own "Tech"
+ - [https://www.youtube.com/watch?v=a-YVtACnfWA](https://www.youtube.com/watch?v=a-YVtACnfWA)
+ - date_published: 2025-09-11T07:48:46+00:00
+ - tags: ['billionaires', 'elite']
 
