@@ -707,3 +707,7 @@
  - date_published: 2025-09-11T07:48:46+00:00
  - tags: ['billionaires', 'elite']
 
+ ## Aerial footage shows scale of 'unite the kingdom' rally
+ - [https://www.youtube.com/watch?v=Q0HHZbvvQOE](https://www.youtube.com/watch?v=Q0HHZbvvQOE)
+ - date_published: 2025-09-13T00:00:00+00:00
+
