@@ -711,3 +711,8 @@
  - [https://www.youtube.com/watch?v=Q0HHZbvvQOE](https://www.youtube.com/watch?v=Q0HHZbvvQOE)
  - date_published: 2025-09-13T00:00:00+00:00
 
+ ## Dutch students denied access to jailbroken laundry machines
+ - [https://www.theregister.com/2025/09/12/jailbroken_laundry_machines](https://www.theregister.com/2025/09/12/jailbroken_laundry_machines)
+ - date_published: 2025-09-15T10:23:13.990159+00:00
+ - tags: ['corporatocracy', 'technofeudalism']
+
