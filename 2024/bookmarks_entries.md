@@ -467,6 +467,11 @@
  - date_published: 2024-02-20T10:38:14+00:00
  - tags: ['inequality', 'shirky principle']
 
+ ## Verification, the Key to AI (2001)
+ - [http://incompleteideas.net/IncIdeas/KeytoAI.html](http://incompleteideas.net/IncIdeas/KeytoAI.html)
+ - date_published: 2024-02-21T00:06:20+00:00
+ - tags: ['artificial intelligence']
+
  ## Google Gemini is accused of being racist towards white people: Users claim the AI bot refuses to create images of Caucasian people - after asking for photos of Popes, Vikings, and country music fans
  - [https://www.dailymail.co.uk/sciencetech/article-13108515/Google-Gemini-racist-white-people.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/sciencetech/article-13108515/Google-Gemini-racist-white-people.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date_published: 2024-02-21T12:31:55+00:00
@@ -1470,6 +1475,7 @@
  - [https://www.wsj.com/politics/national-security/fbi-covid-19-pandemic-lab-leak-theory-dfbd8a51](https://www.wsj.com/politics/national-security/fbi-covid-19-pandemic-lab-leak-theory-dfbd8a51)
  - date_published: 2024-12-30T09:59:36+00:00
  - tags: ['covid', 'fbi', 'pandemic']
+ - date_dead_since: 2025-09-16T09:22:14.192700+00:00
 
  ## Huge Volkswagen data leak exposed the locations of 460,000 EV drivers
  - [https://www.engadget.com/transportation/evs/huge-volkswagen-data-leak-exposed-the-locations-of-460000-ev-drivers-194000006.html?src=rss](https://www.engadget.com/transportation/evs/huge-volkswagen-data-leak-exposed-the-locations-of-460000-ev-drivers-194000006.html?src=rss)
