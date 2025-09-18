@@ -1096,7 +1096,7 @@
  - [https://www.nationalreview.com/2024/08/in-britain-two-tier-policing-and-a-two-tier-judiciary](https://www.nationalreview.com/2024/08/in-britain-two-tier-policing-and-a-two-tier-judiciary)
  - date_published: 2024-08-18T14:16:31+00:00
  - tags: ['england', 'immigration', 'inequality']
- - date_dead_since: 2025-05-10T06:38:01.620025+00:00
+ - date_dead_since: 2025-09-17T06:40:17.847036+00:00
 
  ## As rioters fill overcrowded prisons, UK turns to police cells
  - [https://www.reuters.com/world/uk/rioters-fill-overcrowded-prisons-uk-turns-police-cells-2024-08-19](https://www.reuters.com/world/uk/rioters-fill-overcrowded-prisons-uk-turns-police-cells-2024-08-19)
