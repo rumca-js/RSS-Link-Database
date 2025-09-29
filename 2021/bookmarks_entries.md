@@ -434,7 +434,7 @@
  ## WHO odrzuca planowane unijne paszporty szczepień
  - [https://www.dw.com/pl/who-odrzuca-planowane-unijne-paszporty-szczepie%C5%84/a-56793688](https://www.dw.com/pl/who-odrzuca-planowane-unijne-paszporty-szczepie%C5%84/a-56793688)
  - date_published: 2021-03-06T14:06:37+00:00
- - tags: ['covid', 'digital identity', 'digital passport', 'vaccine', 'vaccine passport', 'who']
+ - tags: ['covid', 'digital id', 'digital passport', 'vaccine', 'vaccine passport', 'who']
 
  ## Debate over gender-neutral language divides Germany – POLITICO
  - [https://www.politico.eu/article/debate-over-gender-inclusive-neutral-language-divides-germany](https://www.politico.eu/article/debate-over-gender-inclusive-neutral-language-divides-germany)
@@ -467,7 +467,7 @@
  ## A man lives in a society where citizens police each other with their mobile phones. | Utopia
  - [https://www.youtube.com/watch?v=vJYaXy5mmA8](https://www.youtube.com/watch?v=vJYaXy5mmA8)
  - date_published: 2021-03-12T00:00:00+00:00
- - tags: ['all time', 'big brother', 'digital identity', 'orwell', 'social score', 'surveillance', 'utopia']
+ - tags: ['all time', 'big brother', 'digital id', 'orwell', 'social score', 'surveillance', 'utopia']
 
  ## Portland Rioters Try Set Fire To Federal Courthouse Hours After Security Fence Is Removed - The Police Tribune
  - [https://policetribune.com/portland-rioters-try-set-fire-to-federal-courthouse-hours-after-security-fence-is-removed](https://policetribune.com/portland-rioters-try-set-fire-to-federal-courthouse-hours-after-security-fence-is-removed)
@@ -686,7 +686,7 @@
  ## Boris Johnson is a creeping dictator – we need to stop him in his tracks
  - [https://metro.co.uk/2021/04/12/boris-johnson-is-a-creeping-dictator-we-need-to-stop-him-14382294/amp/?__twitter_impression=true](https://metro.co.uk/2021/04/12/boris-johnson-is-a-creeping-dictator-we-need-to-stop-him-14382294/amp/?__twitter_impression=true)
  - date_published: 2021-04-12T14:08:39+00:00
- - tags: ['covid', 'digital identity', 'vaccine passport']
+ - tags: ['covid', 'digital id', 'vaccine passport']
 
  ## NHS Covid-19 app update blocked for breaking Apple and Google's rules
  - [https://www.bbc.com/news/technology-56713017](https://www.bbc.com/news/technology-56713017)
@@ -1136,7 +1136,7 @@
  ## Digital Identity: EU to lay out plans for Europe-wide digital identity wallet
  - [https://www.nfcw.com/2021/06/01/372591/eu-to-lay-out-plans-for-europe-wide-digital-identity-wallet](https://www.nfcw.com/2021/06/01/372591/eu-to-lay-out-plans-for-europe-wide-digital-identity-wallet)
  - date_published: 2021-06-01T12:59:16+00:00
- - tags: ['big brother', 'digital identity', 'digital passport', 'government control', 'privacy']
+ - tags: ['big brother', 'digital id', 'digital passport', 'government control', 'privacy']
 
  ## API Handyman | Empty list, HTTP status code 200 vs 204 vs 404
  - [https://apihandyman.io/empty-lists-http-status-code-200-vs-204-vs-404](https://apihandyman.io/empty-lists-http-status-code-200-vs-204-vs-404)

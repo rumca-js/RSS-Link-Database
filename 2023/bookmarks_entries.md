@@ -1326,7 +1326,7 @@
  ## Aplikacja mObywatel zastąpi dowód osobisty w urzędach i bankach. Wiemy kiedy - Instalki.pl
  - [https://www.instalki.pl/aktualnosci/software/57943-aplikacja-mobywatel-zamiast-dowodu-osobistego-bank-urzad-kiedy.html](https://www.instalki.pl/aktualnosci/software/57943-aplikacja-mobywatel-zamiast-dowodu-osobistego-bank-urzad-kiedy.html)
  - date_published: 2023-01-30T12:41:36+00:00
- - tags: ['digital identity', 'poland']
+ - tags: ['digital id', 'poland']
 
  ## Utah bans gender-affirming surgery for young trans people
  - [https://www.theguardian.com/us-news/2023/jan/30/utah-gender-affirming-care-ban-law](https://www.theguardian.com/us-news/2023/jan/30/utah-gender-affirming-care-ban-law)
@@ -1356,7 +1356,7 @@
  ## Dutch Gov’t Plans New Digital ID Project With Canada, Says WEF Initiative Is Done
  - [https://www.theepochtimes.com/dutch-govt-plans-new-digital-id-project-with-canada-says-wef-initiative-is-done_5020401.html](https://www.theepochtimes.com/dutch-govt-plans-new-digital-id-project-with-canada-says-wef-initiative-is-done_5020401.html)
  - date_published: 2023-01-30T18:20:12+00:00
- - tags: ['digital identity', 'wef', 'world economic forum']
+ - tags: ['digital id', 'wef', 'world economic forum']
 
  ## Google Fired Exec For Not Being ‘Inclusive’ By Favoring High Performers, Lawsuit Alleges
  - [https://www.dailywire.com/news/google-fired-exec-for-not-being-inclusive-by-favoring-high-performers-lawsuit-alleges](https://www.dailywire.com/news/google-fired-exec-for-not-being-inclusive-by-favoring-high-performers-lawsuit-alleges)
@@ -1505,7 +1505,7 @@
  ## The Netherlands' DPA says central passport database 'entails major privacy risks'
  - [https://iapp.org/news/a/dutch-dpa-says-central-passport-database-entails-major-privacy-risks](https://iapp.org/news/a/dutch-dpa-says-central-passport-database-entails-major-privacy-risks)
  - date_published: 2023-02-02T17:05:23+00:00
- - tags: ['centralization', 'digital identity', 'digital passport', 'vulnerability']
+ - tags: ['centralization', 'digital id', 'digital passport', 'vulnerability']
 
  ## AI tool ChatGPT is accused of bias after writing poem about Biden but refusing to create one for Trump
  - [https://reclaimthenet.org/chatgpt-trump-biden-poem](https://reclaimthenet.org/chatgpt-trump-biden-poem)
@@ -1520,7 +1520,7 @@
  ## The Netherlands’ centralized digital biometric database plot is criticized as “goldmine for hackers”
  - [https://reclaimthenet.org/netherlands-digital-biometric-centralized-data](https://reclaimthenet.org/netherlands-digital-biometric-centralized-data)
  - date_published: 2023-02-02T19:02:36+00:00
- - tags: ['biometric', 'digital identity']
+ - tags: ['biometric', 'digital id']
 
  ## Exclusive Q&A John Carmack’s ‘Different Path’ to Artificial General Intelligence
  - [https://dallasinnovates.com/exclusive-qa-john-carmacks-different-path-to-artificial-general-intelligence](https://dallasinnovates.com/exclusive-qa-john-carmacks-different-path-to-artificial-general-intelligence)
@@ -1535,7 +1535,7 @@
  ## Utah bill would bring ID-based age verification to online platforms
  - [https://reclaimthenet.org/utah-bill-would-bring-id-based-age-verification-to-online-platforms](https://reclaimthenet.org/utah-bill-would-bring-id-based-age-verification-to-online-platforms)
  - date_published: 2023-02-03T00:11:08+00:00
- - tags: ['digital identity']
+ - tags: ['digital id']
 
  ## Until further notice, think twice before using Google to download software
  - [https://arstechnica.com/information-technology/2023/02/until-further-notice-think-twice-before-using-google-to-download-software](https://arstechnica.com/information-technology/2023/02/until-further-notice-think-twice-before-using-google-to-download-software)
@@ -1942,7 +1942,7 @@
  ## The sudden global push for age verification to end online anonymity and drive digital ID uptake
  - [https://reclaimthenet.org/global-push-for-age-verification](https://reclaimthenet.org/global-push-for-age-verification)
  - date_published: 2023-02-17T19:40:00+00:00
- - tags: ['anonymity', 'digital identity', 'privacy']
+ - tags: ['anonymity', 'digital id', 'privacy']
 
  ## FOZZ, czyli matka wszystkich afer
  - [https://mycompanypolska.pl/artykul/fozz-czyli-matka-wszystkich-afer/11162](https://mycompanypolska.pl/artykul/fozz-czyli-matka-wszystkich-afer/11162)
@@ -2412,7 +2412,7 @@
  ## Od aplikacji mObywatel, do Tożsamości Suwerennej. Jak to wpłynie na nasze życie?
  - [https://www.youtube.com/watch?v=2L2Hr2QOOJk](https://www.youtube.com/watch?v=2L2Hr2QOOJk)
  - date_published: 2023-03-08T00:00:00+00:00
- - tags: ['digital identity', 'digital passport', 'government control', 'mobywatel']
+ - tags: ['digital id', 'digital passport', 'government control', 'mobywatel']
 
  ## Privacy is FUTILE…unless…?
  - [https://www.youtube.com/watch?v=hSjWWL9mzR4](https://www.youtube.com/watch?v=hSjWWL9mzR4)
@@ -2437,7 +2437,7 @@
  ## Self-sovereign identity - Wikipedia
  - [https://en.wikipedia.org/wiki/Self-sovereign_identity](https://en.wikipedia.org/wiki/Self-sovereign_identity)
  - date_published: 2023-03-08T09:06:46+00:00
- - tags: ['digital identity', 'digital passport', 'privacy']
+ - tags: ['digital id', 'digital passport', 'privacy']
 
  ## RESTRICT Act: The Biden administration is shifting its approach to TikTok | CNN Business
  - [https://edition.cnn.com/2023/03/08/tech/biden-tiktok-bill/index.html](https://edition.cnn.com/2023/03/08/tech/biden-tiktok-bill/index.html)
@@ -4494,7 +4494,7 @@
  ## Amazon’s palm-scanning technology can let you buy a drink without getting out your ID
  - [https://www.theverge.com/2023/5/22/23732823/amazon-one-palm-scanning-technology-age-verification](https://www.theverge.com/2023/5/22/23732823/amazon-one-palm-scanning-technology-age-verification)
  - date_published: 2023-05-22T16:50:26+00:00
- - tags: ['biometric', 'digital identity', 'privacy']
+ - tags: ['biometric', 'digital id', 'privacy']
 
  ## Dear Ubuntu
  - [https://hackaday.com/2023/05/22/dear-ubuntu](https://hackaday.com/2023/05/22/dear-ubuntu)
@@ -4704,7 +4704,7 @@
  ## Unia Europejska: Identyfikator cyfrowy dla wszystkich do 2030 roku
  - [https://ithardware.pl/aktualnosci/unia_europejska_identyfikator_cyfrowy_dla_wszystkich_do_2030_roku-27516.html](https://ithardware.pl/aktualnosci/unia_europejska_identyfikator_cyfrowy_dla_wszystkich_do_2030_roku-27516.html)
  - date_published: 2023-05-29T07:45:40+00:00
- - tags: ['digital identity', 'government control']
+ - tags: ['digital id', 'government control']
 
  ## Lex Tusk podpisana, złoty i giełda w dół. Oto dlaczego rynek tak zareagował
  - [https://businessinsider.com.pl/gielda/wiadomosci/lex-tusk-podpisana-zloty-i-gielda-w-dol-oto-dlaczego-rynek-tak-zareagowal/047yqw4](https://businessinsider.com.pl/gielda/wiadomosci/lex-tusk-podpisana-zloty-i-gielda-w-dol-oto-dlaczego-rynek-tak-zareagowal/047yqw4)
@@ -5028,7 +5028,7 @@
  ## WHO to set up global digital health certificate system - Chinadaily.com.cn
  - [https://global.chinadaily.com.cn/a/202306/06/WS647f3e81a31033ad3f7bac8d.html](https://global.chinadaily.com.cn/a/202306/06/WS647f3e81a31033ad3f7bac8d.html)
  - date_published: 2023-06-06T07:09:04+00:00
- - tags: ['covid', 'digital identity', 'digital passport', 'vaccine passport', 'who']
+ - tags: ['covid', 'digital id', 'digital passport', 'vaccine passport', 'who']
 
  ## Reddit permanently bans account of user advocating Lemmy migration
  - [https://lemmy.ml/post/1152281](https://lemmy.ml/post/1152281)
@@ -6444,7 +6444,7 @@
  ## Australia could finalize digital ID legislation by mid-2024, but long road still ahead | Biometric Update
  - [https://www.biometricupdate.com/202307/australia-could-finalize-digital-id-legislation-by-mid-2024-but-long-road-still-ahead](https://www.biometricupdate.com/202307/australia-could-finalize-digital-id-legislation-by-mid-2024-but-long-road-still-ahead)
  - date_published: 2023-07-26T14:13:17+00:00
- - tags: ['australia', 'digital identity']
+ - tags: ['australia', 'digital id']
 
  ## Ex-JPMorgan executive Jes Staley casually joked about Jeffrey Epstein's taste for underage girls with other executives, emails reveal
  - [https://www.dailymail.co.uk/news/article-12337223/Former-JPMorgan-exec-Jes-Staley-casually-joked-Jeffrey-Epsteins-taste-underage-girls-executives-emails-reveal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12337223/Former-JPMorgan-exec-Jes-Staley-casually-joked-Jeffrey-Epsteins-taste-underage-girls-executives-emails-reveal.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -6621,7 +6621,7 @@
  ## Putin Outlaws Anonymity: Identity Verification For Online Services, VPN Bypass Advice a Crime * TorrentFreak
  - [https://torrentfreak.com/putin-outlaws-anonymity-user-id-verification-for-online-services-vpn-bypass-advice-a-crime-230801](https://torrentfreak.com/putin-outlaws-anonymity-user-id-verification-for-online-services-vpn-bypass-advice-a-crime-230801)
  - date_published: 2023-08-01T13:06:28+00:00
- - tags: ['anonymity', 'digital identity', 'privacy']
+ - tags: ['anonymity', 'digital id', 'privacy']
 
  ## JPMorgan handled Jeffrey Epstein's $1.1M in payments to 'women and girls' AFTER the bank said it shut his accounts because he was a convicted sex offender, lawsuit claims
  - [https://www.dailymail.co.uk/news/article-12361315/JPMorgan-handled-Jeffrey-Epsteins-1-1M-payments-women-girls-bank-said-shut-accounts-convicted-sex-offender-lawsuit-claims.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12361315/JPMorgan-handled-Jeffrey-Epsteins-1-1M-payments-women-girls-bank-said-shut-accounts-convicted-sex-offender-lawsuit-claims.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -7491,7 +7491,7 @@
  ## Bill Gates: The #G20 reached a groundbreaking consensus on the role of digital public infrastructure
  - [https://twitter.com/BillGates/status/1701318146878218667](https://twitter.com/BillGates/status/1701318146878218667)
  - date_published: 2023-09-11T10:42:56+00:00
- - tags: ['digital identity', 'digital public infrastructure']
+ - tags: ['digital id', 'digital public infrastructure']
 
  ## The Project Gutenberg Open Audiobook Collection
  - [https://marhamilresearch4.blob.core.windows.net/gutenberg-public/Website/index.html](https://marhamilresearch4.blob.core.windows.net/gutenberg-public/Website/index.html)

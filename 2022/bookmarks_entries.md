@@ -500,7 +500,7 @@
  ## Piotr Schramm - Digital Identity: Komisja Europejska chce przekształcić bilet koronowy w "cyfrowy identyfikator"
  - [https://twitter.com/Piotr_Schramm/status/1486384858754699268](https://twitter.com/Piotr_Schramm/status/1486384858754699268)
  - date_published: 2022-01-26T08:23:55+00:00
- - tags: ['digital identity', 'digital passport', 'government control', 'vaccine passport']
+ - tags: ['digital id', 'digital passport', 'government control', 'vaccine passport']
 
  ## UK government spent £40,000 hiding secretive Clearing House unit | openDemocracy
  - [https://www.opendemocracy.net/en/opendemocracyuk/uk-government-40000-hiding-clearing-house-unit-foi-legal-battle](https://www.opendemocracy.net/en/opendemocracyuk/uk-government-40000-hiding-clearing-house-unit-foi-legal-battle)
@@ -941,7 +941,7 @@
  ## WEF_Advancing_towards_Digital_Agency_2022
  - [https://www3.weforum.org/docs/WEF_Advancing_towards_Digital_Agency_2022.pdf](https://www3.weforum.org/docs/WEF_Advancing_towards_Digital_Agency_2022.pdf)
  - date_published: 2022-02-17T08:10:52+00:00
- - tags: ['digital identity', 'world economic forum']
+ - tags: ['digital id', 'world economic forum']
 
  ## Avoid the Apple App Store | Jonatan Heyman | heyman.info
  - [https://heyman.info/2022/feb/17/avoid-the-apple-app-store](https://heyman.info/2022/feb/17/avoid-the-apple-app-store)
@@ -1034,7 +1034,7 @@
  ## World Economic Forum pushes digital ID system that will determine access to services
  - [https://reclaimthenet.org/world-economic-forum-pushes-digital-id](https://reclaimthenet.org/world-economic-forum-pushes-digital-id)
  - date_published: 2022-02-22T17:28:12+00:00
- - tags: ['digital identity', 'world economic forum']
+ - tags: ['digital id', 'world economic forum']
 
  ## The Secretive Surveillance Wizards Helping ICE Wiretap Facebook and Google Users
  - [https://www.forbes.com/sites/thomasbrewster/2022/02/23/meet-the-secretive-surveillance-wizards-helping-the-fbi-and-ice-wiretap-facebook-and-google-users](https://www.forbes.com/sites/thomasbrewster/2022/02/23/meet-the-secretive-surveillance-wizards-helping-the-fbi-and-ice-wiretap-facebook-and-google-users)
@@ -4106,7 +4106,7 @@
  ## Turcja wydrukuje 250 tys. węgierskich paszportów biometrycznych w tym roku
  - [https://www.bankier.pl/wiadomosc/Turcja-wydrukuje-250-tys-wegierskich-paszportow-biometrycznych-w-tym-roku-8400905.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Turcja-wydrukuje-250-tys-wegierskich-paszportow-biometrycznych-w-tym-roku-8400905.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date_published: 2022-09-05T15:52:00+00:00
- - tags: ['digital identity', 'digital passport', 'government control']
+ - tags: ['digital id', 'digital passport', 'government control']
 
  ## Niemcy przedłużają pracę dwóch z trzech elektrowni atomowych
  - [https://www.bankier.pl/wiadomosc/Niemcy-przedluzaja-prace-dwoch-z-trzech-elektrowni-atomowych-8400995.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Niemcy-przedluzaja-prace-dwoch-z-trzech-elektrowni-atomowych-8400995.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
@@ -4278,7 +4278,7 @@
  ## Why the iPhone 14's eSIM Might Be a Problem for You
  - [https://lifehacker.com/why-the-iphone-14s-esim-might-be-a-problem-for-you-1849512200](https://lifehacker.com/why-the-iphone-14s-esim-might-be-a-problem-for-you-1849512200)
  - date_published: 2022-09-08T19:00:00+00:00
- - tags: ['digital identity', 'technofeudalism']
+ - tags: ['digital id', 'technofeudalism']
 
  ## Majority of Americans believe Trump's MAGA movement IS a threat to democracy, new poll suggests
  - [https://www.dailymail.co.uk/news/article-11194423/Majority-Americans-believe-Trumps-MAGA-movement-threat-democracy-new-poll-suggests.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11194423/Majority-Americans-believe-Trumps-MAGA-movement-threat-democracy-new-poll-suggests.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -4569,7 +4569,7 @@
  ## European Commission’s EU digital identity wallet pilot program proposed by six countries « Euro Weekly News
  - [https://euroweeklynews.com/2022/09/14/eu-digital-identity-wallet](https://euroweeklynews.com/2022/09/14/eu-digital-identity-wallet)
  - date_published: 2022-09-14T10:44:41+00:00
- - tags: ['digital identity', 'government control']
+ - tags: ['digital id', 'government control']
 
  ## Google loses appeal over record EU anti-trust Android fine
  - [https://www.bbc.co.uk/news/technology-62888137?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/technology-62888137?at_medium=RSS&at_campaign=KARANGA)
@@ -6898,7 +6898,7 @@
  ## The rise of biodigital surveillance
  - [https://compactmag.com/article/the-rise-of-biodigital-surveillance](https://compactmag.com/article/the-rise-of-biodigital-surveillance)
  - date_published: 2022-10-27T10:00:00+00:00
- - tags: ['biometric', 'digital identity', 'surveillance']
+ - tags: ['biometric', 'digital id', 'surveillance']
 
  ## EA has bad news for gamers who like physical games
  - [https://www.techradar.com/news/ea-has-bad-news-for-gamers-who-like-physical-games](https://www.techradar.com/news/ea-has-bad-news-for-gamers-who-like-physical-games)
@@ -7221,7 +7221,7 @@
  ## Massive pandemic relief fraud has Congress eyeing digital IDs
  - [https://arstechnica.com/?p=1893288](https://arstechnica.com/?p=1893288)
  - date_published: 2022-10-31T13:00:14+00:00
- - tags: ['covid', 'digital identity', 'fraud', 'pandemic']
+ - tags: ['covid', 'digital id', 'fraud', 'pandemic']
 
  ## Egypt's farmers fear rising social tensions over scarce water | Reuters
  - [https://www.reuters.com/business/cop/egypts-farmers-fear-rising-social-tensions-over-scarce-water-2022-10-31](https://www.reuters.com/business/cop/egypts-farmers-fear-rising-social-tensions-over-scarce-water-2022-10-31)
@@ -7673,7 +7673,7 @@
  ## China’s Digital Yuan Works Just Like Cash—With Added Surveillance
  - [https://www.wired.com/story/chinas-digital-yuan-ecny-works-just-like-cash-surveillance](https://www.wired.com/story/chinas-digital-yuan-ecny-works-just-like-cash-surveillance)
  - date_published: 2022-11-08T13:00:00+00:00
- - tags: ['cbdc', 'digital identity', 'surveillance', 'technofeudalism']
+ - tags: ['cbdc', 'digital id', 'surveillance', 'technofeudalism']
 
  ## British Universities Told to Teach That Math Is Racist
  - [https://www.thetrumpet.com/26367-british-universities-told-to-teach-that-math-is-racist](https://www.thetrumpet.com/26367-british-universities-told-to-teach-that-math-is-racist)
@@ -7898,7 +7898,7 @@
  ## Disney+ demands users’ age and gender so it can “deliver targeted advertising”
  - [https://reclaimthenet.org/disney-plus-demands-users-age-and-gender](https://reclaimthenet.org/disney-plus-demands-users-age-and-gender)
  - date_published: 2022-11-15T02:27:12+00:00
- - tags: ['ad business', 'digital identity', 'disney', 'privacy', 'tracking']
+ - tags: ['ad business', 'digital id', 'disney', 'privacy', 'tracking']
 
  ## China zero Covid: Violent protests in Guangzhou put curbs under strain
  - [https://www.bbc.co.uk/news/world-asia-china-63633109?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-china-63633109?at_medium=RSS&at_campaign=KARANGA)
@@ -7969,7 +7969,7 @@
  ## G20 Promotes WHO-Standardized Global Vaccine Passport and ‘Digital Health’ Identity Scheme
  - [https://www.theepochtimes.com/g-20-promotes-who-standardized-global-vaccine-passport-and-digital-health-identity-scheme_4869188.html](https://www.theepochtimes.com/g-20-promotes-who-standardized-global-vaccine-passport-and-digital-health-identity-scheme_4869188.html)
  - date_published: 2022-11-17T13:06:53+00:00
- - tags: ['digital identity', 'digital passport', 'government control', 'vaccine passport']
+ - tags: ['digital id', 'digital passport', 'government control', 'vaccine passport']
 
  ## Is TikTok Really A National Security Threat?
  - [https://www.forbes.com/sites/petersuciu/2022/11/18/is-tiktok-really-a-national-security-threat](https://www.forbes.com/sites/petersuciu/2022/11/18/is-tiktok-really-a-national-security-threat)
@@ -8190,7 +8190,7 @@
  ## Cyfrowy paszport i rozpoznawanie twarzy. Te linie lotnicze mają plan na zmniejszenie kolejek na lotnisku
  - [https://www.bankier.pl/wiadomosc/Cyfrowy-paszport-i-rozpoznawanie-twarzy-Te-linie-lotnicze-maja-plan-na-zmniejszenie-kolejek-na-lotnisku-8444586.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci](https://www.bankier.pl/wiadomosc/Cyfrowy-paszport-i-rozpoznawanie-twarzy-Te-linie-lotnicze-maja-plan-na-zmniejszenie-kolejek-na-lotnisku-8444586.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci)
  - date_published: 2022-11-26T07:00:00+00:00
- - tags: ['digital identity', 'digital passport', 'government control', 'government control']
+ - tags: ['digital id', 'digital passport', 'government control', 'government control']
 
  ## The Science for Determining Climate-Change Damage Is Unsettled
  - [https://www.wsj.com/articles/the-science-for-determining-climate-change-damage-is-unsettled-11669436469](https://www.wsj.com/articles/the-science-for-determining-climate-change-damage-is-unsettled-11669436469)
@@ -8395,7 +8395,7 @@
  ## Jordan Peterson: social credit systems in West "highly probable" thanks to our Covid response
  - [https://www.youtube.com/watch?v=ON52n1Xa4I0](https://www.youtube.com/watch?v=ON52n1Xa4I0)
  - date_published: 2022-12-01T00:00:00+00:00
- - tags: ['cbdc', 'covid', 'digital identity', 'digital passport', 'social credit', 'vaccine passport']
+ - tags: ['cbdc', 'covid', 'digital id', 'digital passport', 'social credit', 'vaccine passport']
 
  ## 'River of blood': Foxconn employee describes violent protests in China
  - [https://www.cnn.com/videos/business/2022/12/01/china-covid-protests-foxconn-iphone-factory-wang-dnt-ebof-vpx.cnn](https://www.cnn.com/videos/business/2022/12/01/china-covid-protests-foxconn-iphone-factory-wang-dnt-ebof-vpx.cnn)
@@ -8556,7 +8556,7 @@
  ## UK and Ukraine to collaborate on digital ID
  - [https://reclaimthenet.org/uk-ukraine-to-collaborate-on-digital-id-tech](https://reclaimthenet.org/uk-ukraine-to-collaborate-on-digital-id-tech)
  - date_published: 2022-12-04T14:10:19+00:00
- - tags: ['digital identity']
+ - tags: ['digital id']
 
  ## Apple CEO Tim Cook is questioned after company limited popular protest tool in China
  - [https://reclaimthenet.org/tim-cook-questioned-suppressed-popular-protest-tool-in-china](https://reclaimthenet.org/tim-cook-questioned-suppressed-popular-protest-tool-in-china)
@@ -8696,7 +8696,7 @@
  ## WEF thinks of ways to regulate digital ID in the metaverse
  - [https://reclaimthenet.org/wef-digital-id-metaverse](https://reclaimthenet.org/wef-digital-id-metaverse)
  - date_published: 2022-12-07T16:43:32+00:00
- - tags: ['digital identity', 'metaverse', 'wef', 'world economic forum']
+ - tags: ['digital id', 'metaverse', 'wef', 'world economic forum']
 
  ## BlackRock CEO faces call to step down amid claims of hypocrisy
  - [https://www.theguardian.com/business/2022/dec/07/blackrock-ceo-faces-call-to-step-down-amid-claims-of-hypocrisy](https://www.theguardian.com/business/2022/dec/07/blackrock-ceo-faces-call-to-step-down-amid-claims-of-hypocrisy)
@@ -8807,7 +8807,7 @@
  ## How Embracing Digital Identity Can Benefit Governments, Companies And Individuals
  - [https://www.forbes.com/sites/forbestechcouncil/2022/12/09/how-embracing-digital-identity-can-benefit-governments-companies-and-individuals](https://www.forbes.com/sites/forbestechcouncil/2022/12/09/how-embracing-digital-identity-can-benefit-governments-companies-and-individuals)
  - date_published: 2022-12-09T14:30:00+00:00
- - tags: ['digital identity', 'propaganda']
+ - tags: ['digital id', 'propaganda']
 
  ## EU court orders Google to remove “manifestly inaccurate” information
  - [https://reclaimthenet.org/eu-court-orders-google-to-remove-manifestly-inaccurate-information](https://reclaimthenet.org/eu-court-orders-google-to-remove-manifestly-inaccurate-information)
@@ -8881,7 +8881,7 @@
  ## Ludziom trzeba odebrać wolność w internecie - prof. Andrzej Zybertowicz
  - [https://www.youtube.com/watch?v=PK6H0qI7fCY](https://www.youtube.com/watch?v=PK6H0qI7fCY)
  - date_published: 2022-12-11T00:00:00+00:00
- - tags: ['anonymity', 'digital identity', 'privacy']
+ - tags: ['anonymity', 'digital id', 'privacy']
  - date_dead_since: 2025-09-03T16:11:33.051932+00:00
 
  ## Twitter Files reveal 'junior employee' stood against Trump ban, warned of 'slippery slope'
@@ -9044,7 +9044,7 @@
  ## Indian citizens that don’t link account numbers to Digital ID will soon face financial blacklisting
  - [https://reclaimthenet.org/india-digital-id-account-link](https://reclaimthenet.org/india-digital-id-account-link)
  - date_published: 2022-12-13T19:19:29+00:00
- - tags: ['digital identity', 'digital passport', 'government control']
+ - tags: ['digital id', 'digital passport', 'government control']
 
  ## Report: Apple plans to support sideloading and third-party app stores by 2024
  - [https://arstechnica.com/?p=1904133](https://arstechnica.com/?p=1904133)
@@ -9168,7 +9168,7 @@
  ## Corporate coalition pushes government to create digital ID infrastructure
  - [https://reclaimthenet.org/corporations-push-for-digital-id](https://reclaimthenet.org/corporations-push-for-digital-id)
  - date_published: 2022-12-15T20:10:33+00:00
- - tags: ['digital identity']
+ - tags: ['digital id']
 
  ## Bilderberg meeting
  - [https://en.m.wikipedia.org/wiki/Bilderberg_meeting](https://en.m.wikipedia.org/wiki/Bilderberg_meeting)
@@ -9521,7 +9521,7 @@
  ## UK says sharing Netflix passwords could be illegal
  - [https://appleinsider.com/articles/22/12/21/uk-says-sharing-netflix-passwords-could-be-illegal](https://appleinsider.com/articles/22/12/21/uk-says-sharing-netflix-passwords-could-be-illegal)
  - date_published: 2022-12-21T07:30:45+00:00
- - tags: ['digital identity', 'netflix']
+ - tags: ['digital id', 'netflix']
 
  ## A Robot Vacuum Recorded A Woman In Her Bathroom, And The Screenshots Ended Up On Social Media - AfroTech
  - [https://afrotech.com/robot-vacuum-takes-intimate-photos-of-woman](https://afrotech.com/robot-vacuum-takes-intimate-photos-of-woman)
@@ -10051,7 +10051,7 @@
  ## WEF plans to issue guardrails on Metaverse creation
  - [https://reclaimthenet.org/wef-plans-to-issue-guardrails-on-metaverse-creation](https://reclaimthenet.org/wef-plans-to-issue-guardrails-on-metaverse-creation)
  - date_published: 2022-12-30T19:37:55+00:00
- - tags: ['digital identity', 'metaverse', 'wef', 'world economic forum']
+ - tags: ['digital id', 'metaverse', 'wef', 'world economic forum']
  - date_dead_since: 2025-07-28T03:21:15.315478+00:00
 
  ## Google to pay Indiana $20 million to resolve privacy suit

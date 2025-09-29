@@ -711,3 +711,23 @@
  - date_published: 2025-09-15T10:23:13.990159+00:00
  - tags: ['corporatocracy', 'technofeudalism']
 
+ ## Google Admits Censorship Under Biden; Promises to End Bans of YouTube Accounts of Thousands of Americans Censored for Political Speech
+ - [https://judiciary.house.gov/media/press-releases/google-admits-censorship-under-biden-promises-end-bans-youtube-accounts](https://judiciary.house.gov/media/press-releases/google-admits-censorship-under-biden-promises-end-bans-youtube-accounts)
+ - date_published: 2025-09-23T21:36:52+00:00
+ - tags: ['censorship', 'covid', 'moderation']
+
+ ## New digital ID will be mandatory to work in the UK
+ - [https://www.bbc.com/news/articles/cn832y43ql5o](https://www.bbc.com/news/articles/cn832y43ql5o)
+ - date_published: 2025-09-28T18:49:24.643590+00:00
+ - tags: ['digital id']
+
+ ## Man arrested over anti-Hamas social media post
+ - [https://www.telegraph.co.uk/news/2025/09/26/man-arrested-hamas-social-media-post-gaza-israel](https://www.telegraph.co.uk/news/2025/09/26/man-arrested-hamas-social-media-post-gaza-israel)
+ - date_published: 2025-09-28T19:00:04.903717+00:00
+ - tags: ['censorship', 'technofeudalism']
+
+ ## e-ID Act
+ - [https://www.admin.ch/gov/en/start/documentation/votes/20250928/e-id-act.html](https://www.admin.ch/gov/en/start/documentation/votes/20250928/e-id-act.html)
+ - date_published: 2025-09-28T20:05:56.546590+00:00
+ - tags: ['digital id']
+
