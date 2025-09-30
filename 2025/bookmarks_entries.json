@@ -4279,5 +4279,36 @@
         "thumbnail": "https://www.admin.ch/gov/en/_jcr_content/socialshareimage.imagespooler.jpg/1743485864622/teaser_II_bundesrat_gruppenbild_2025_588x331_web.jpg",
         "title": "e-ID Act",
         "vote": 10
+    },
+    {
+        "age": null,
+        "album": "",
+        "author": "gumby271",
+        "bookmarked": true,
+        "comments": [],
+        "date_created": "2025-09-29T05:02:23.533464+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-09-29T02:10:20+00:00",
+        "description": "<p>Article URL: <a href=\"https://f-droid.org/2025/09/29/google-developer-registration-decree.html\">https://f-droid.org/2025/09/29/google-developer-registration-decree.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=45409794\">https://news.ycombinator.com/item?id=45409794</a></p>\n<p>Points: 59</p>\n<p># Comments: 7</p>",
+        "id": 3687445,
+        "language": "en-US",
+        "link": "https://f-droid.org/2025/09/29/google-developer-registration-decree.html",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 141,
+        "source_url": "https://hnrss.org/frontpage",
+        "status_code": 0,
+        "tags": [
+            "corporatocracy",
+            "digital id",
+            "technofeudalism"
+        ],
+        "thumbnail": null,
+        "title": "F-Droid and Google's Developer Registration Decree",
+        "vote": 0
     }
 ]

@@ -731,3 +731,8 @@
  - date_published: 2025-09-28T20:05:56.546590+00:00
  - tags: ['digital id']
 
+ ## F-Droid and Google's Developer Registration Decree
+ - [https://f-droid.org/2025/09/29/google-developer-registration-decree.html](https://f-droid.org/2025/09/29/google-developer-registration-decree.html)
+ - date_published: 2025-09-29T02:10:20+00:00
+ - tags: ['corporatocracy', 'digital id', 'technofeudalism']
+
