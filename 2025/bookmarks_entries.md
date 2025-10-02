@@ -736,3 +736,8 @@
  - date_published: 2025-09-29T02:10:20+00:00
  - tags: ['corporatocracy', 'digital id', 'technofeudalism']
 
+ ## Replacing Humans with AI is Going Horribly Wrong
+ - [https://www.youtube.com/watch?v=QX1Xwzm9yHY](https://www.youtube.com/watch?v=QX1Xwzm9yHY)
+ - date_published: 2025-09-30T13:42:26+00:00
+ - tags: ['artificial intelligence']
+
