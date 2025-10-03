@@ -741,3 +741,8 @@
  - date_published: 2025-09-30T13:42:26+00:00
  - tags: ['artificial intelligence']
 
+ ## I Broke ChatGPT's Ethical Guidelines
+ - [https://www.youtube.com/watch?v=on9joL3iQ8s](https://www.youtube.com/watch?v=on9joL3iQ8s)
+ - date_published: 2025-10-01T00:16:52+00:00
+ - tags: ['artificial intelligence']
+
