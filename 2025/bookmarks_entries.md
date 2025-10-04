@@ -746,3 +746,7 @@
  - date_published: 2025-10-01T00:16:52+00:00
  - tags: ['artificial intelligence']
 
+ ## n8n Now Runs My ENTIRE Homelab
+ - [https://www.youtube.com/watch?v=budTmdQfXYU](https://www.youtube.com/watch?v=budTmdQfXYU)
+ - date_published: 2025-10-03T18:17:05+00:00
+
