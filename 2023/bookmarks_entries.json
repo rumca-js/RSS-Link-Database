@@ -6,7 +6,7 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-03-27T20:31:52.476158+00:00",
-        "date_dead_since": null,
+        "date_dead_since": "2025-10-06T13:05:57.513966+00:00",
         "date_published": "2023-01-01T00:00:00+00:00",
         "description": "Permadeath, World Of Warcraft Classic, 1.12 Private server",
         "id": 192426,
@@ -19,7 +19,7 @@
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "",
-        "status_code": 200,
+        "status_code": 403,
         "tags": [
             "world of warcraft"
         ],

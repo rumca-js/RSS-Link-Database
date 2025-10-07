@@ -2,6 +2,7 @@
  - [https://wow-hc.com](https://wow-hc.com)
  - date_published: 2023-01-01T00:00:00+00:00
  - tags: ['world of warcraft']
+ - date_dead_since: 2025-10-06T13:05:57.513966+00:00
 
  ## The Twitter Files should disturb liberal critics of Elon Musk – and here’s why | Kenan Malik
  - [https://www.theguardian.com/commentisfree/2023/jan/01/the-twitter-files-should-disturb-liberal-critics-of-elon-musk-and-heres-why](https://www.theguardian.com/commentisfree/2023/jan/01/the-twitter-files-should-disturb-liberal-critics-of-elon-musk-and-heres-why)

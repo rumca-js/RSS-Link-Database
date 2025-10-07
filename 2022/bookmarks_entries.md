@@ -10081,4 +10081,5 @@
  - [https://wow-hc.com](https://wow-hc.com)
  - date_published: 2023-01-01T00:00:00+00:00
  - tags: ['world of warcraft']
+ - date_dead_since: 2025-10-06T13:05:57.513966+00:00
 

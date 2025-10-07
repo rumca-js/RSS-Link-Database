@@ -398,7 +398,7 @@
         "page_rating_contents": 91,
         "page_rating_visits": 0,
         "page_rating_votes": 50,
-        "permanent": true,
+        "permanent": false,
         "source_url": "https://techcrunch.com",
         "status_code": 200,
         "tags": [

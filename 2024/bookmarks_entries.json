@@ -3897,7 +3897,7 @@
         "page_rating_contents": 91,
         "page_rating_visits": 0,
         "page_rating_votes": 30,
-        "permanent": true,
+        "permanent": false,
         "source_url": "",
         "status_code": 200,
         "tags": [
@@ -6869,7 +6869,7 @@
             "privacy",
             "surveillence"
         ],
-        "thumbnail": "https://i.guim.co.uk/img/media/b418385e33f390d18abf3a0398bfef64aa811b36/0_190_6627_3974/master/6627.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=379666adce1b3db35049af58ab171ca9",
+        "thumbnail": "https://i.guim.co.uk/img/media/b418385e33f390d18abf3a0398bfef64aa811b36/0_190_6627_3974/master/6627.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjQucG5n&enable=upscale&s=f0c899f80437157a7bffd4008684f0f7",
         "title": "Meta\u2019s AI is scraping users\u2019 photos and posts. Europeans can opt out, but Australians cannot",
         "vote": 0
     },
