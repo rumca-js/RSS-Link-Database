@@ -1181,6 +1181,11 @@
  - date_published: 2024-09-15T15:00:02+00:00
  - tags: ['climate change', 'global warming']
 
+ ## Billionaire Larry Ellison says a vast AI-fueled surveillance system can ensure 'citizens will be on their best behavior'
+ - [https://www.businessinsider.com/larry-ellison-ai-surveillance-keep-citizens-on-their-best-behavior-2024-9](https://www.businessinsider.com/larry-ellison-ai-surveillance-keep-citizens-on-their-best-behavior-2024-9)
+ - date_published: 2024-09-15T16:06:46+00:00
+ - tags: ['privacy', 'surveillance', 'technofeudalism']
+
  ## Omnipresent AI cameras will ensure good behavior, says Larry Ellison
  - [https://arstechnica.com/?p=2049906](https://arstechnica.com/?p=2049906)
  - date_published: 2024-09-16T15:22:29+00:00
