@@ -750,3 +750,8 @@
  - [https://www.youtube.com/watch?v=budTmdQfXYU](https://www.youtube.com/watch?v=budTmdQfXYU)
  - date_published: 2025-10-03T18:17:05+00:00
 
+ ## AI Slop Is Killing Our Channel
+ - [https://www.youtube.com/watch?v=_zfN9wnPvU0](https://www.youtube.com/watch?v=_zfN9wnPvU0)
+ - date_published: 2025-10-07T14:00:17+00:00
+ - tags: ['artificial intelligence']
+
