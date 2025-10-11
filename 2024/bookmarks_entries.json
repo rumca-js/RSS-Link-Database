@@ -3958,7 +3958,7 @@
         "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 30,
-        "permanent": true,
+        "permanent": false,
         "source__id": 27,
         "source_url": "https://feeds.bbci.co.uk/news/rss.xml",
         "status_code": 200,
@@ -6926,7 +6926,7 @@
             "climate change",
             "global warming"
         ],
-        "thumbnail": "https://i.guim.co.uk/img/media/f58a6cca02dbe1a02815601f6a87bc04990fa4f7/0_0_4277_2567/master/4277.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8b697a293657e8d9da8a20a8c8dfd754",
+        "thumbnail": "https://i.guim.co.uk/img/media/f58a6cca02dbe1a02815601f6a87bc04990fa4f7/0_0_4277_2567/master/4277.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjQucG5n&enable=upscale&s=2601f647e8027619079180be20d98d99",
         "title": "Data center emissions likely 662% higher than big tech claims. Can it keep up the ruse?",
         "vote": 0
     },
