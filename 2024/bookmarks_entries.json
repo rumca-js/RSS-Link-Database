@@ -4650,7 +4650,7 @@
             "israel",
             "palestine"
         ],
-        "thumbnail": "https://i.guim.co.uk/img/media/50763b2342bacd7ba361abbf45a08709fb2a7023/0_333_5000_3000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjQucG5n&enable=upscale&s=b1c7ddd95ddbf633806edcb68c6d79f2",
+        "thumbnail": "https://i.guim.co.uk/img/media/50763b2342bacd7ba361abbf45a08709fb2a7023/0_333_5000_3000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjQucG5n&enable=upscale&s=3cc6dc5673fa0641163c93b6c15c7519",
         "title": "Unrwa Jerusalem HQ closed after \u2018Israeli extremist\u2019 arson attack",
         "vote": 0
     },

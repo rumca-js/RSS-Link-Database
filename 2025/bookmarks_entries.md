@@ -474,6 +474,7 @@
  - [https://www.nytimes.com/2025/06/04/business/jeffrey-epstein-peter-thiel-estate.html](https://www.nytimes.com/2025/06/04/business/jeffrey-epstein-peter-thiel-estate.html)
  - date_published: 2025-06-04T16:35:14+00:00
  - tags: ['jeffrey epstein', 'peter thiel']
+ - date_dead_since: 2025-10-12T20:24:26.844171+00:00
 
  ## Self-hosting your own media considered harmful (updated)
  - [https://www.jeffgeerling.com/blog/2025/self-hosting-your-own-media-considered-harmful-updated](https://www.jeffgeerling.com/blog/2025/self-hosting-your-own-media-considered-harmful-updated)
