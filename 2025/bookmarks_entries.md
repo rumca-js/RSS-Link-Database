@@ -756,3 +756,8 @@
  - date_published: 2025-10-07T14:00:17+00:00
  - tags: ['artificial intelligence']
 
+ ## Brainwashing Situation is Crazy
+ - [https://www.youtube.com/watch?v=C0HwRUdRW3M](https://www.youtube.com/watch?v=C0HwRUdRW3M)
+ - date_published: 2025-10-12T18:00:20+00:00
+ - tags: ['social media']
+
