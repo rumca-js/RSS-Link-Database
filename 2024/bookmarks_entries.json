@@ -4558,7 +4558,7 @@
         "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 30,
-        "permanent": true,
+        "permanent": false,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAuUUnT6oDeKwE6v1NGQxug",
         "status_code": 200,
         "tags": [
@@ -7037,7 +7037,7 @@
         "page_rating_contents": 86,
         "page_rating_visits": 2,
         "page_rating_votes": 50,
-        "permanent": true,
+        "permanent": false,
         "source__id": 342,
         "source_url": "https://www.theguardian.com/world/rss",
         "status_code": 200,
@@ -7046,7 +7046,7 @@
             "surveillance",
             "technofeudalism"
         ],
-        "thumbnail": "https://i.guim.co.uk/img/media/d2fb682399d97802d7e309f2939b0bec13f49c1b/1_0_2998_1800/master/2998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e4131f6e18f6039c7ef3977de284e344",
+        "thumbnail": "https://i.guim.co.uk/img/media/d2fb682399d97802d7e309f2939b0bec13f49c1b/1_0_2998_1800/master/2998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjQucG5n&enable=upscale&s=48fa8f01874e5beca592d3523d24c7ef",
         "title": "Social media and online video firms are conducting \u2018vast surveillance\u2019 on users, FTC finds",
         "vote": 50
     },

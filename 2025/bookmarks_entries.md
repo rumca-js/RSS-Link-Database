@@ -761,3 +761,8 @@
  - date_published: 2025-10-12T18:00:20+00:00
  - tags: ['social media']
 
+ ## Students shall not pass unless they accept Lord of the Rings is offensive
+ - [https://www.telegraph.co.uk/news/2025/10/16/tolkien-ethnic-chauvinism-claim](https://www.telegraph.co.uk/news/2025/10/16/tolkien-ethnic-chauvinism-claim)
+ - date_published: 2025-10-17T16:15:28.707388+00:00
+ - tags: ['racism']
+

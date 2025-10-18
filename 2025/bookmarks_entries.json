@@ -4453,5 +4453,33 @@
         "thumbnail": "https://i4.ytimg.com/vi/C0HwRUdRW3M/hqdefault.jpg",
         "title": "Brainwashing Situation is Crazy",
         "vote": 0
+    },
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_created": "2025-10-17T16:15:25.787924+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-17T16:15:28.707388+00:00",
+        "description": "University course suggests Tolkien\u2019s treatment of evil characters follows a tradition of \u2018anti-African antipathy\u2019",
+        "id": 3838034,
+        "language": "en",
+        "link": "https://www.telegraph.co.uk/news/2025/10/16/tolkien-ethnic-chauvinism-claim",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 81,
+        "page_rating_visits": 2,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "racism"
+        ],
+        "thumbnail": "https://www.telegraph.co.uk/content/dam/briefs/2025/10/16/TELEMMGLPICT000444665202_17606312545880_trans_NvBQzQNjv4Bq-IWLY18X4-CzgyIcjLEAj_SVWeZ_vEN7c6bHu2jJnT8.jpeg?impolicy=OG-Standard",
+        "title": "Students shall not pass unless they accept Lord of the Rings is offensive",
+        "vote": 0
     }
 ]
