@@ -391,6 +391,7 @@
  - [https://www.washingtontimes.com/news/2024/feb/1/editorial-faa-turned-away-qualified-air-traffic-co](https://www.washingtontimes.com/news/2024/feb/1/editorial-faa-turned-away-qualified-air-traffic-co)
  - date_published: 2024-02-01T14:48:17+00:00
  - tags: ['racism']
+ - date_dead_since: 2025-10-18T13:57:12.263203+00:00
 
  ## Mark Zuckerberg’s Apologies: A History
  - [https://time.com/6622135/mark-zuckerberg-apologies-history](https://time.com/6622135/mark-zuckerberg-apologies-history)
