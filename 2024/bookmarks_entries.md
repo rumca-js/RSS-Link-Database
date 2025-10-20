@@ -7,6 +7,7 @@
  - [https://www.rt.com/news/590011-clinton-named-epstein-files/?utm_source=rss&utm_medium=rss&utm_campaign=RSS](https://www.rt.com/news/590011-clinton-named-epstein-files/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)
  - date_published: 2024-01-01T18:37:40+00:00
  - tags: ['bill clinton', 'jeffrey epstein']
+ - date_dead_since: 2025-10-19T21:10:20.935370+00:00
 
  ## Tajik, Uzbek Nationals Among Those Arrested After Suspected Cologne Terrorist Threat
  - [https://www.rferl.org/a/germany-cologne-tajikistan-suspects-attack-threat/32754484.html](https://www.rferl.org/a/germany-cologne-tajikistan-suspects-attack-threat/32754484.html)
@@ -301,6 +302,7 @@
  - [https://www.vancouverisawesome.com/highlights/alberta-tar-sands-pollution-up-to-6300-higher-than-industry-reported-finds-study-8162834](https://www.vancouverisawesome.com/highlights/alberta-tar-sands-pollution-up-to-6300-higher-than-industry-reported-finds-study-8162834)
  - date_published: 2024-01-26T00:31:13+00:00
  - tags: ['climate change']
+ - date_dead_since: 2025-10-19T14:41:59.324998+00:00
 
  ## Using Google Search to find software can be risky
  - [https://krebsonsecurity.com/2024/01/using-google-search-to-find-software-can-be-risky](https://krebsonsecurity.com/2024/01/using-google-search-to-find-software-can-be-risky)
@@ -590,6 +592,7 @@
  - [https://www.nytimes.com/2024/03/11/technology/carmakers-driver-tracking-insurance.html](https://www.nytimes.com/2024/03/11/technology/carmakers-driver-tracking-insurance.html)
  - date_published: 2024-03-11T09:00:50+00:00
  - tags: ['big brother', 'corporatocracy', 'electric vehicles', 'privacy', 'surveillance']
+ - date_dead_since: 2025-10-19T07:42:03.800342+00:00
 
  ## Are We Watching the Internet Die?
  - [https://www.wheresyoured.at/are-we-watching-the-internet-die](https://www.wheresyoured.at/are-we-watching-the-internet-die)
@@ -631,7 +634,6 @@
  - [https://www.reuters.com/default/gaza-starving-children-fill-hospital-wards-famine-looms-2024-03-19](https://www.reuters.com/default/gaza-starving-children-fill-hospital-wards-famine-looms-2024-03-19)
  - date_published: 2024-03-20T00:00:00+00:00
  - tags: ['israel', 'palestine']
- - date_dead_since: 2025-06-11T06:27:56.735146+00:00
 
  ## Scotland’s new ‘thought police’ will be the death of the Edinburgh Festival
  - [https://www.telegraph.co.uk/columnists/2024/03/21/scotland-police-hate-laws-actors-stage-crime-plays](https://www.telegraph.co.uk/columnists/2024/03/21/scotland-police-hate-laws-actors-stage-crime-plays)
@@ -691,6 +693,7 @@
  - [https://www.972mag.com/lavender-ai-israeli-army-gaza](https://www.972mag.com/lavender-ai-israeli-army-gaza)
  - date_published: 2024-04-03T13:27:36+00:00
  - tags: ['artificial intelligence', 'hamas', 'israel', 'lavender', 'palestine']
+ - date_dead_since: 2025-10-19T05:35:07.901725+00:00
 
  ## ‘The machine did it coldly’: Israel used AI to identify 37,000 Hamas targets
  - [https://www.theguardian.com/world/2024/apr/03/israel-gaza-ai-database-hamas-airstrikes](https://www.theguardian.com/world/2024/apr/03/israel-gaza-ai-database-hamas-airstrikes)
