@@ -557,7 +557,6 @@
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
-        "source__id": 72,
         "source_url": "https://www.codeproject.com/WebServices/NewsRSS.aspx",
         "status_code": 200,
         "tags": [],
@@ -881,7 +880,6 @@
         "page_rating_visits": 0,
         "page_rating_votes": 10,
         "permanent": false,
-        "source__id": 72,
         "source_url": "https://www.codeproject.com/WebServices/NewsRSS.aspx",
         "status_code": 200,
         "tags": [
@@ -1820,7 +1818,6 @@
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
-        "source__id": 72,
         "source_url": "https://www.codeproject.com/WebServices/NewsRSS.aspx",
         "status_code": 200,
         "tags": [

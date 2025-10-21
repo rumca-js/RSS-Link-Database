@@ -2751,7 +2751,6 @@
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
-        "source__id": 72,
         "source_url": "https://www.codeproject.com/WebServices/NewsRSS.aspx",
         "status_code": 200,
         "tags": [
@@ -5349,7 +5348,6 @@
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
-        "source__id": 72,
         "source_url": "https://www.codeproject.com/WebServices/NewsRSS.aspx",
         "status_code": 200,
         "tags": [
@@ -6757,7 +6755,6 @@
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
-        "source__id": 72,
         "source_url": "https://www.codeproject.com/WebServices/NewsRSS.aspx",
         "status_code": 200,
         "tags": [
@@ -8344,7 +8341,6 @@
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
-        "source__id": 72,
         "source_url": "https://www.codeproject.com/WebServices/NewsRSS.aspx",
         "status_code": 200,
         "tags": [
@@ -10701,7 +10697,6 @@
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
-        "source__id": 72,
         "source_url": "https://www.codeproject.com/WebServices/NewsRSS.aspx",
         "status_code": 200,
         "tags": [
@@ -10949,7 +10944,6 @@
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
-        "source__id": 72,
         "source_url": "https://www.codeproject.com/WebServices/NewsRSS.aspx",
         "status_code": 200,
         "tags": [
@@ -11320,7 +11314,6 @@
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
-        "source__id": 72,
         "source_url": "https://www.codeproject.com/WebServices/NewsRSS.aspx",
         "status_code": 200,
         "tags": [
@@ -11382,7 +11375,6 @@
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
-        "source__id": 72,
         "source_url": "https://www.codeproject.com/WebServices/NewsRSS.aspx",
         "status_code": 200,
         "tags": [
@@ -14322,7 +14314,6 @@
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
-        "source__id": 72,
         "source_url": "https://www.codeproject.com/WebServices/NewsRSS.aspx",
         "status_code": 200,
         "tags": [
@@ -18552,7 +18543,6 @@
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
-        "source__id": 72,
         "source_url": "https://www.codeproject.com/WebServices/NewsRSS.aspx",
         "status_code": 200,
         "tags": [
@@ -22422,7 +22412,6 @@
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
-        "source__id": 72,
         "source_url": "https://www.codeproject.com/WebServices/NewsRSS.aspx",
         "status_code": 200,
         "tags": [
@@ -22601,7 +22590,6 @@
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
-        "source__id": 72,
         "source_url": "https://www.codeproject.com/WebServices/NewsRSS.aspx",
         "status_code": 200,
         "tags": [
@@ -28715,7 +28703,6 @@
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
-        "source__id": 398,
         "source_url": "https://www.wirtualnemedia.pl/rss/wm_internet.xml",
         "status_code": 200,
         "tags": [
@@ -29417,7 +29404,7 @@
             "climate change",
             "electric vehicles"
         ],
-        "thumbnail": "https://i.guim.co.uk/img/media/c18d41f0191d157e7c167ee4eb525c845ec68f9e/0_0_2560_1536/master/2560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMtYWdlLTIwMjMucG5n&enable=upscale&s=4b7230e10a5defc1f5fdef99898912e3",
+        "thumbnail": "https://i.guim.co.uk/img/media/c18d41f0191d157e7c167ee4eb525c845ec68f9e/0_0_2560_1536/master/2560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMtYWdlLTIwMjMucG5n&enable=upscale&s=d8d3d393fb433844a4404f48b49bdfa9",
         "title": "I love electric vehicles \u2013 and was an early adopter. But increasingly I feel duped | Rowan Atkinson",
         "vote": 10
     },
@@ -30528,7 +30515,7 @@
         "tags": [
             "who"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/3Mbby-n5wPE/hq720_2.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAAlAADIQj0AgKJD8AEB-AG2CIACgA-KAgwIABABGHIgSSg2MA8=&rs=AOn4CLBm9M4sIuUZVfvb1WTn_tmmz_3vCA",
+        "thumbnail": "https://i.ytimg.com/vi/3Mbby-n5wPE/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYciBJKDYwDw==&rs=AOn4CLC2eO0kbegLRJi_-TCHss4uvJQkmg",
         "title": "WHO Funding EXPOSED By Former Director General \ud83d\ude33",
         "vote": 0
     },
@@ -32808,21 +32795,21 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-02-29T14:51:17.623349+00:00",
-        "date_dead_since": "2025-06-12T17:49:44.337456+00:00",
+        "date_dead_since": null,
         "date_published": "2023-06-21T23:35:09+00:00",
         "description": "<p>Article URL: <a href=\"https://www.reuters.com/legal/amazon-duped-millions-consumers-into-enrolling-prime-ftc-2023-06-21/\">https://www.reuters.com/legal/amazon-duped-millions-consumers-into-enrolling-prime-ftc-2023-06-21/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=36426239\">https://news.ycombinator.com/item?id=36426239</a></p>\n<p>Points: 38</p>\n<p># Comments: 5</p>",
         "id": 36209,
         "language": "en-US",
         "link": "https://www.reuters.com/legal/amazon-duped-millions-consumers-into-enrolling-prime-ftc-2023-06-21",
         "manual_status_code": 0,
-        "page_rating": 0,
-        "page_rating_contents": 0,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 141,
         "source_url": "https://hnrss.org/frontpage",
-        "status_code": 401,
+        "status_code": 200,
         "tags": [
             "amazon"
         ],
@@ -33153,7 +33140,7 @@
             "covid",
             "wuhan"
         ],
-        "thumbnail": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc95afa5-03b2-441d-be51-b252465caa8f_2514x1742.jpeg",
+        "thumbnail": "https://substackcdn.com/image/fetch/$s_!Uisk!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc95afa5-03b2-441d-be51-b252465caa8f_2514x1742.jpeg",
         "title": "First People Sickened By COVID-19 Were Chinese Scientists At Wuhan Institute Of Virology, Say US Government Sources",
         "vote": 30
     },
@@ -33359,7 +33346,7 @@
             "christianophobia",
             "israel"
         ],
-        "thumbnail": "https://img.haarets.co.il/bs/00000188-f760-df6a-ade8-f7e6abf80001/ca/17/555d5f8a40249f40c5cdf6a962c8/priest.jpg?height=630&width=1200&watermark=hdc-2023",
+        "thumbnail": "https://img.haarets.co.il/bs/00000188-f775-d6ce-abb9-f77780680000/ca/17/555d5f8a40249f40c5cdf6a962c8/priest.jpg?width=1200&height=630&cmsprod=&watermark=hdc-2023",
         "title": "Israeli Reporter Goes Undercover as Priest \u2013 and Gets Spat at - Israel News - Haaretz.com",
         "vote": 0
     },
@@ -33545,7 +33532,7 @@
             "ad business",
             "google"
         ],
-        "thumbnail": "https://i.guim.co.uk/img/media/17b5dd2cc8bb090437da82e3812b468a85aeb63d/0_75_3653_2193/master/3653.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjMucG5n&enable=upscale&s=3872f57654fe31122961edcc5661d50d",
+        "thumbnail": "https://i.guim.co.uk/img/media/17b5dd2cc8bb090437da82e3812b468a85aeb63d/0_75_3653_2193/master/3653.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjMucG5n&enable=upscale&s=626937ac57007341dce3eb817c79bf9d",
         "title": "Google may have misled dozens of advertisers and violated its own guidelines - report",
         "vote": 60
     },
@@ -35907,7 +35894,7 @@
             "racism",
             "science is dead"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/UXMrH0BMLqg/hq720_2.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAAlAADIQj0AgKJD8AEB-AG2CIACgA-KAgwIABABGEkgOCh_MA8=&rs=AOn4CLC-vg4VfE4qoXY4eVU3_k7G-VvDjA",
+        "thumbnail": "https://i.ytimg.com/vi/UXMrH0BMLqg/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYSSA4KH8wDw==&rs=AOn4CLDpv6nlvfbGDcxkZeDQtIscemfizw",
         "title": "Student gets UNO reversed on question about white privilege",
         "vote": 0
     },
@@ -36020,7 +36007,7 @@
         "permanent": false,
         "source__id": 141,
         "source_url": "https://hnrss.org/frontpage",
-        "status_code": 600,
+        "status_code": 603,
         "tags": [
             "electric vehicles"
         ],
@@ -36549,7 +36536,6 @@
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
-        "source__id": 72,
         "source_url": "https://www.codeproject.com/WebServices/NewsRSS.aspx",
         "status_code": 200,
         "tags": [
@@ -37202,7 +37188,6 @@
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
-        "source__id": 398,
         "source_url": "https://www.wirtualnemedia.pl/rss/wm_internet.xml",
         "status_code": 200,
         "tags": [
@@ -38037,12 +38022,12 @@
         "link": "https://thehill.com/homenews/senate/4118792-billionaire-leon-blacks-158m-payment-to-jeffrey-epstein-sparks-senate-investigation",
         "manual_status_code": 0,
         "page_rating": 64,
-        "page_rating_contents": 90,
+        "page_rating_contents": 91,
         "page_rating_visits": 0,
         "page_rating_votes": 50,
         "permanent": false,
         "source_url": "https://thehill.com/news/feed/",
-        "status_code": 403,
+        "status_code": 200,
         "tags": [
             "billionaires",
             "elite",
@@ -38381,20 +38366,20 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-02-29T14:51:04.437095+00:00",
-        "date_dead_since": "2025-06-12T15:31:48.685729+00:00",
+        "date_dead_since": null,
         "date_published": "2023-07-26T12:37:53+00:00",
         "description": "One dead in cargo ship fire, electric car suspected source, Dutch coastguard says | Reuters",
         "id": 36031,
         "language": "en",
         "link": "https://www.reuters.com/world/europe/one-dead-several-wounded-after-fire-cargo-ship-dutch-coast-guard-2023-07-26",
         "manual_status_code": 0,
-        "page_rating": 0,
-        "page_rating_contents": 0,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.reuters.com",
-        "status_code": 401,
+        "status_code": 200,
         "tags": [
             "electric vehicles"
         ],
@@ -38728,7 +38713,7 @@
         "tags": [
             "fearmongering"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/OEtV3QlPUaU/sddefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/OEtV3QlPUaU/hqdefault.jpg",
         "title": "Quick!",
         "vote": 0
     },
@@ -38884,25 +38869,25 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-02-29T14:51:03.442643+00:00",
-        "date_dead_since": "2025-06-12T15:12:47.368072+00:00",
+        "date_dead_since": null,
         "date_published": "2023-07-28T13:28:25+00:00",
         "description": "Carrier ablaze off Dutch coast carrying almost 500 electric cars | Reuters",
         "id": 36017,
         "language": "en",
         "link": "https://www.reuters.com/world/europe/carrier-ablaze-off-dutch-coast-carrying-almost-500-electric-cars-2023-07-28",
         "manual_status_code": 0,
-        "page_rating": 0,
-        "page_rating_contents": 0,
+        "page_rating": 76,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 70,
         "permanent": false,
         "source_url": "https://www.reuters.com",
-        "status_code": 401,
+        "status_code": 200,
         "tags": [
             "climate change",
             "electric vehicles"
         ],
-        "thumbnail": "https://www.reuters.com/resizer/v2/5IW5T4J6WFPEVG622HWOD5OYVE.jpg?auth=c8c2165493bd0d01cd428c252a0f1d19807d37c818f9a8e0efa0f60c2d7e0313&height=1005&width=1920&quality=80&smart=true",
+        "thumbnail": "https://www.reuters.com/resizer/v2/JUXFXJ24AZJSXJGY6XAWOZI62M.jpg?auth=ad9dd62edc362f06a75e4ef8da131356f400cefdf12443e2391bb10ec938739f&height=1005&width=1920&quality=80&smart=true",
         "title": "Carrier ablaze off Dutch coast carrying almost 500 electric cars | Reuters",
         "vote": 70
     },
@@ -39572,8 +39557,8 @@
         "language": "en-US",
         "link": "https://mrs-t.medium.com/transform-your-android-device-into-a-linux-desktop-110a3d084ac6",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -40793,7 +40778,6 @@
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
-        "source__id": 72,
         "source_url": "https://www.codeproject.com/WebServices/NewsRSS.aspx",
         "status_code": 200,
         "tags": [
@@ -41408,25 +41392,25 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-02-29T14:50:57.462590+00:00",
-        "date_dead_since": "2025-06-12T13:21:18.890527+00:00",
+        "date_dead_since": null,
         "date_published": "2023-08-17T05:31:04+00:00",
         "description": "Troops guard Pakistani Christians after mob torches churches | Reuters",
         "id": 35935,
         "language": "en",
         "link": "https://www.reuters.com/world/asia-pacific/troops-deployed-guard-pakistani-christians-after-mob-torches-churches-2023-08-17",
         "manual_status_code": 0,
-        "page_rating": 0,
-        "page_rating_contents": 0,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.reuters.com",
-        "status_code": 401,
+        "status_code": 200,
         "tags": [
             "christianophobia",
             "pakistan"
         ],
-        "thumbnail": "https://www.reuters.com/resizer/v2/XFXHJHDNKJMYHDNYI266JJFU5M.jpg?auth=2d8c59ceb101963bcd0f404a58d22f73363ad3fedd4ab16b36eae66bc8fd2f5f&height=1005&width=1920&quality=80&smart=true",
+        "thumbnail": "https://www.reuters.com/resizer/v2/5RGNCKBEB5NRVFXVVVX67N3HLQ.jpg?auth=424a600bdb77d43cfad638807ae881d0a42560b1a65b96661cff82a9ad87d046&height=1005&width=1920&quality=80&smart=true",
         "title": "Troops guard Pakistani Christians after mob torches churches | Reuters",
         "vote": 0
     },
@@ -43101,7 +43085,7 @@
             "church scandal",
             "religion"
         ],
-        "thumbnail": "https://nypost.com/wp-content/uploads/sites/2/2023/08/canadian-mass-graves.jpg?quality=75&strip=all&1693479466&w=1024",
+        "thumbnail": "https://nypost.com/wp-content/uploads/sites/2/2023/08/canadian-mass-graves.jpg?quality=75&strip=all&1693479466&w=1200",
         "title": "No human remains found 2 years after claims of \u2018mass graves\u2019 in Canada",
         "vote": 10
     },
@@ -43112,20 +43096,20 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-02-29T14:50:53.574109+00:00",
-        "date_dead_since": "2025-06-12T11:11:19.738746+00:00",
+        "date_dead_since": null,
         "date_published": "2023-08-31T07:23:13+00:00",
         "description": "BioNTech faces first German lawsuit over alleged COVID vaccine side effects | Reuters",
         "id": 35880,
         "language": "en",
         "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/biontech-faces-first-german-lawsuit-over-alleged-covid-vaccine-side-effects-2023-06-11",
         "manual_status_code": 0,
-        "page_rating": 0,
-        "page_rating_contents": 0,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.reuters.com",
-        "status_code": 401,
+        "status_code": 200,
         "tags": [
             "covid",
             "vaccine"
@@ -43481,7 +43465,6 @@
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
-        "source__id": 72,
         "source_url": "https://www.codeproject.com/WebServices/NewsRSS.aspx",
         "status_code": 200,
         "tags": [
@@ -45206,20 +45189,20 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-02-29T14:50:48.519039+00:00",
-        "date_dead_since": null,
+        "date_dead_since": "2025-10-20T09:26:36.292086+00:00",
         "date_published": "2023-09-16T00:00:00+00:00",
         "description": "Ex-Google TechLead on the age of the podcast, social media, and all talk, no action.  \ud83d\udcf7 Learn how to build your own successful business on YouTube: http://youtubebackstage.com/\r\n\r\nAce your coding interviews with ex-Google/ex-Facebook training. https://techinterviewpro.com/\r\n\ud83d\udcbb Get access to 100+ programming interview problems explained: https://coderpro.com/\r\n\ud83d\udcf7 Learn how to build your own successful business on YouTube: http://youtubebackstage.com/\r\n\ud83d\udcbb I\u2019ll send you FREE daily coding interview questions to practice your skills: http://dailyinterviewpro.com/\r\n\r\n\ud83d\uded2 My computer and camera gear: https://www.amazon.com/shop/techlead/list/UVRWWQKBFRR\r\n\ud83d\udcb5 Merch! The ultra-thin TechLead wallet: https://amzn.to/42UyYOb\r\n\u2328\ufe0f My favorite keyboards: http://iqunix.store/techlead\r\n\r\nFollow me on social media:\r\nhttps://instagram.com/techleadhd\r\nhttps://x.com/techleadhd\r\n\r\nDisclaimer: This description may contain affiliate",
         "id": 35810,
         "language": "en",
         "link": "https://www.youtube.com/watch?v=HLTNXTbFRhM",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 0,
+        "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_us_hH43AJtU_A-iXCLmqw",
-        "status_code": 200,
+        "status_code": 500,
         "tags": [
             "social media"
         ],
@@ -48028,7 +48011,7 @@
             "privacy",
             "subscription"
         ],
-        "thumbnail": "https://tuta.com/assets/social-media.nHX8zPqJ_1236mA.png",
+        "thumbnail": "https://tuta.com/assets/social-media.CNQlhU_P_Z1EvyeB.png",
         "title": "Meta\u2019s approach of \u2018pay for your privacy\u2019 is wrong",
         "vote": 40
     },
@@ -48841,7 +48824,7 @@
             "inequality",
             "racism"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/Teq9oS8jwKo/hq720_2.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAAlAADIQj0AgKJD8AEB-AHOBYACgAqKAgwIABABGGUgSihAMA8=&rs=AOn4CLBrIhSbMwqAfeL5xmS5O8gaRIFI6w",
+        "thumbnail": "https://i.ytimg.com/vi/Teq9oS8jwKo/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBKKEAwDw==&rs=AOn4CLAztWsqgzS9j_VJqyT71QYA08ClAg",
         "title": "What man???",
         "vote": 0
     },
@@ -48852,20 +48835,20 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-02-29T14:50:39.879516+00:00",
-        "date_dead_since": "2025-06-12T05:41:32.826461+00:00",
+        "date_dead_since": null,
         "date_published": "2023-11-16T20:59:54.309490+00:00",
         "description": "Florida sued over ban on pro-Palestinian student groups",
         "id": 35689,
         "language": "en",
         "link": "https://www.reuters.com/world/us/florida-sued-over-ban-pro-palestinian-student-groups-2023-11-16",
         "manual_status_code": 0,
-        "page_rating": 0,
-        "page_rating_contents": 0,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.reuters.com/world/",
-        "status_code": 401,
+        "status_code": 200,
         "tags": [
             "inequality",
             "israel",
@@ -49078,7 +49061,7 @@
             "the left wing",
             "the right wing"
         ],
-        "thumbnail": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F93688152-05ce-4194-8058-294b7d5acce2.heic",
+        "thumbnail": "https://substackcdn.com/image/fetch/$s_!Hs4E!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F93688152-05ce-4194-8058-294b7d5acce2.heic",
         "title": "Democrats\u2019 Need To Censor And Spread Disinformation Behind Media War On Elon Musk\u2019s X",
         "vote": 10
     },
@@ -49107,7 +49090,7 @@
         "tags": [
             "covid"
         ],
-        "thumbnail": "https://i.guim.co.uk/img/media/88b92c213fb7475838d4928f4cdfe5233acbff86/371_607_5389_3233/master/5389.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjMucG5n&enable=upscale&s=5f47125390f648ce5e03a485c828b760",
+        "thumbnail": "https://i.guim.co.uk/img/media/88b92c213fb7475838d4928f4cdfe5233acbff86/371_607_5389_3233/master/5389.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjMucG5n&enable=upscale&s=07b0c7d6cc7ee18535cc28dde28b5470",
         "title": "People who stuck by UK Covid rules have worst mental health, says survey",
         "vote": 9
     },
@@ -49531,7 +49514,7 @@
             "quotes",
             "surveillance"
         ],
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PRZ_closeup_cropped.jpg/1200px-PRZ_closeup_cropped.jpg",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PRZ_closeup_cropped.jpg/960px-PRZ_closeup_cropped.jpg",
         "title": "Phil Zimmermann - Wikiquote",
         "vote": 50
     },
@@ -49695,21 +49678,21 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-02-29T14:50:37.661272+00:00",
-        "date_dead_since": null,
+        "date_dead_since": "2025-10-20T02:41:42.218445+00:00",
         "date_published": "2023-12-01T00:16:08+00:00",
         "description": "A blueprint reviewed by The Times laid out the attack in detail. Israeli officials dismissed it as aspirational and ignored specific warnings.",
         "id": 35662,
         "language": "en-US",
         "link": "https://www.nytimes.com/2023/11/30/world/middleeast/israel-hamas-attack-intelligence.html",
         "manual_status_code": 0,
-        "page_rating": 76,
-        "page_rating_contents": 86,
+        "page_rating": 0,
+        "page_rating_contents": 0,
         "page_rating_visits": 0,
         "page_rating_votes": 70,
         "permanent": false,
         "source__id": 227,
         "source_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-        "status_code": 200,
+        "status_code": 603,
         "tags": [
             "hamas",
             "israel",
@@ -50046,7 +50029,7 @@
             "israel",
             "palestine"
         ],
-        "thumbnail": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F37aab492-87e6-4de5-9af0-03627b883433_2096x1532.jpeg",
+        "thumbnail": "https://substackcdn.com/image/fetch/$s_!CYJQ!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F37aab492-87e6-4de5-9af0-03627b883433_2096x1532.jpeg",
         "title": "The pro-Israel information war",
         "vote": 30
     },
@@ -50182,14 +50165,14 @@
         "language": "en-US",
         "link": "https://www.fastcompany.com/90996547/e-books-are-fast-becoming-tools-of-corporate-surveillance",
         "manual_status_code": 0,
-        "page_rating": 69,
-        "page_rating_contents": 86,
+        "page_rating": 68,
+        "page_rating_contents": 81,
         "page_rating_visits": 0,
         "page_rating_votes": 60,
         "permanent": false,
         "source__id": 141,
         "source_url": "https://hnrss.org/frontpage",
-        "status_code": 200,
+        "status_code": 403,
         "tags": [
             "ad business",
             "amazon",
@@ -50286,7 +50269,7 @@
             "inclusion",
             "tolerance"
         ],
-        "thumbnail": "https://nypost.com/wp-content/uploads/sites/2/2023/12/former-facebook-executive-barbara-furlow-73685937.jpg?quality=75&strip=all&w=1024",
+        "thumbnail": "https://nypost.com/wp-content/uploads/sites/2/2023/12/former-facebook-executive-barbara-furlow-73685937.jpg?quality=75&strip=all&w=1200",
         "title": "Ex-Facebook diversity manager pleads guilty to bilking $4M from company",
         "vote": 30
     },
@@ -50314,7 +50297,7 @@
         "tags": [
             "climate change"
         ],
-        "thumbnail": "https://bezprawnik.pl/app/uploads/2023/12/paszport-weglowy.jpg",
+        "thumbnail": "https://pub-94c597c029254fadbd4461316d5ac8cc.r2.dev/2023/12/paszport-weglowy.jpg",
         "title": "Paszport w\u0119glowy to najg\u0142upszy pomys\u0142 na walk\u0119 ze zmianami klimatu, o jakim s\u0142ysza\u0142em",
         "vote": 50
     },

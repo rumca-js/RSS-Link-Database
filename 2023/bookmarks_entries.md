@@ -5491,7 +5491,6 @@
  - [https://www.reuters.com/legal/amazon-duped-millions-consumers-into-enrolling-prime-ftc-2023-06-21](https://www.reuters.com/legal/amazon-duped-millions-consumers-into-enrolling-prime-ftc-2023-06-21)
  - date_published: 2023-06-21T23:35:09+00:00
  - tags: ['amazon']
- - date_dead_since: 2025-06-12T17:49:44.337456+00:00
 
  ## Amazon cancels my account after exposing account lockout for "racist doorbell"
  - [https://www.youtube.com/watch?v=Kcohq313q00](https://www.youtube.com/watch?v=Kcohq313q00)
@@ -6430,7 +6429,6 @@
  - [https://www.reuters.com/world/europe/one-dead-several-wounded-after-fire-cargo-ship-dutch-coast-guard-2023-07-26](https://www.reuters.com/world/europe/one-dead-several-wounded-after-fire-cargo-ship-dutch-coast-guard-2023-07-26)
  - date_published: 2023-07-26T12:37:53+00:00
  - tags: ['electric vehicles']
- - date_dead_since: 2025-06-12T15:31:48.685729+00:00
 
  ## The U.K. Government Is Close to Eroding Encryption Worldwide
  - [https://www.eff.org/deeplinks/2023/07/uk-government-very-close-eroding-encryption-worldwide](https://www.eff.org/deeplinks/2023/07/uk-government-very-close-eroding-encryption-worldwide)
@@ -6516,7 +6514,6 @@
  - [https://www.reuters.com/world/europe/carrier-ablaze-off-dutch-coast-carrying-almost-500-electric-cars-2023-07-28](https://www.reuters.com/world/europe/carrier-ablaze-off-dutch-coast-carrying-almost-500-electric-cars-2023-07-28)
  - date_published: 2023-07-28T13:28:25+00:00
  - tags: ['climate change', 'electric vehicles']
- - date_dead_since: 2025-06-12T15:12:47.368072+00:00
 
  ## Flash Museum – explore more than 130k flash games and animations
  - [https://flashmuseum.org](https://flashmuseum.org)
@@ -6945,7 +6942,6 @@
  - [https://www.reuters.com/world/asia-pacific/troops-deployed-guard-pakistani-christians-after-mob-torches-churches-2023-08-17](https://www.reuters.com/world/asia-pacific/troops-deployed-guard-pakistani-christians-after-mob-torches-churches-2023-08-17)
  - date_published: 2023-08-17T05:31:04+00:00
  - tags: ['christianophobia', 'pakistan']
- - date_dead_since: 2025-06-12T13:21:18.890527+00:00
 
  ## Petition to stop France from forcing browsers like Firefox to censor websites
  - [https://foundation.mozilla.org/en/campaigns/sign-our-petition-to-stop-france-from-forcing-browsers-like-mozillas-firefox-to-censor-websites](https://foundation.mozilla.org/en/campaigns/sign-our-petition-to-stop-france-from-forcing-browsers-like-mozillas-firefox-to-censor-websites)
@@ -7232,7 +7228,6 @@
  - [https://www.reuters.com/business/healthcare-pharmaceuticals/biontech-faces-first-german-lawsuit-over-alleged-covid-vaccine-side-effects-2023-06-11](https://www.reuters.com/business/healthcare-pharmaceuticals/biontech-faces-first-german-lawsuit-over-alleged-covid-vaccine-side-effects-2023-06-11)
  - date_published: 2023-08-31T07:23:13+00:00
  - tags: ['covid', 'vaccine']
- - date_dead_since: 2025-06-12T11:11:19.738746+00:00
 
  ## It's not just you – no one is posting on social media anymore
  - [https://www.businessinsider.com/social-media-dead-instagram-tiktok-bereal-replaced-group-chats-messaging-2023-8](https://www.businessinsider.com/social-media-dead-instagram-tiktok-bereal-replaced-group-chats-messaging-2023-8)
@@ -7589,6 +7584,7 @@
  - [https://www.youtube.com/watch?v=HLTNXTbFRhM](https://www.youtube.com/watch?v=HLTNXTbFRhM)
  - date_published: 2023-09-16T00:00:00+00:00
  - tags: ['social media']
+ - date_dead_since: 2025-10-20T09:26:36.292086+00:00
 
  ## Bechtel - Wikipedia
  - [https://en.m.wikipedia.org/wiki/Bechtel](https://en.m.wikipedia.org/wiki/Bechtel)
@@ -8208,7 +8204,6 @@
  - [https://www.reuters.com/world/us/florida-sued-over-ban-pro-palestinian-student-groups-2023-11-16](https://www.reuters.com/world/us/florida-sued-over-ban-pro-palestinian-student-groups-2023-11-16)
  - date_published: 2023-11-16T20:59:54.309490+00:00
  - tags: ['inequality', 'israel', 'palestine']
- - date_dead_since: 2025-06-12T05:41:32.826461+00:00
 
  ## Sam altman
  - [https://www.nytimes.com/2023/11/17/technology/openai-sam-altman-ousted.html](https://www.nytimes.com/2023/11/17/technology/openai-sam-altman-ousted.html)
@@ -8349,6 +8344,7 @@
  - [https://www.nytimes.com/2023/11/30/world/middleeast/israel-hamas-attack-intelligence.html](https://www.nytimes.com/2023/11/30/world/middleeast/israel-hamas-attack-intelligence.html)
  - date_published: 2023-12-01T00:16:08+00:00
  - tags: ['hamas', 'israel', 'palestine']
+ - date_dead_since: 2025-10-20T02:41:42.218445+00:00
 
  ## Windsor police officer who donated to Ottawa convoy will learn his penalty in May | CBC News
  - [https://www.cbc.ca/news/canada/windsor/windsor-police-convoy-donation-1.6792348](https://www.cbc.ca/news/canada/windsor/windsor-police-convoy-donation-1.6792348)
