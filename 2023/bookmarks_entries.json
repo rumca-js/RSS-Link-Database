@@ -25676,7 +25676,7 @@
             "lgbt",
             "sexualization"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/mKH-loZG5ss/sddefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/mKH-loZG5ss/hqdefault.jpg",
         "title": "It had to happen.",
         "vote": 0
     },
@@ -26522,20 +26522,20 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-02-29T14:51:30.735322+00:00",
-        "date_dead_since": "2025-06-13T03:24:24.688999+00:00",
+        "date_dead_since": null,
         "date_published": "2023-05-21T00:00:00+00:00",
         "description": "video by Orf\n\nTwitter \u25b6https://twitter.com/0rf\nRumble\u25b6https://rumble.com/ORF\nPatreon \u25b6https://patreon.com/Orf\nSubstack\u25b6https://censorednews.substack.com\nLocals\u25b6https://mattorfalea.locals.com\nTruth\u25b6https://truthsocial.com/@MattOrf\nMinds\u25b6https://www.minds.com/MattOrf\nTips \u25b6PayPal: https://bit.ly/34OWemi\u200b",
         "id": 36402,
         "language": "en",
         "link": "https://www.youtube.com/watch?v=zI3yU5Z2adI",
         "manual_status_code": 0,
-        "page_rating": 0,
-        "page_rating_contents": 0,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6xM7GvKd85duq5fw8qKBOQ",
-        "status_code": 500,
+        "status_code": 200,
         "tags": [
             "covid",
             "propaganda"
@@ -27806,7 +27806,7 @@
             "electric vehicles",
             "tesla"
         ],
-        "thumbnail": "https://i.guim.co.uk/img/media/818576ee28bc71e154822b0c2a5ae92bc1a74cd6/0_110_3309_1985/master/3309.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjMucG5n&enable=upscale&s=3e5b2f0e88b702bb6e33e542f47fa11a",
+        "thumbnail": "https://i.guim.co.uk/img/media/818576ee28bc71e154822b0c2a5ae92bc1a74cd6/0_110_3309_1985/master/3309.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjMucG5n&enable=upscale&s=ea6271147c60cb1901dabd29bf341f64",
         "title": "\u2018Massive\u2019 Tesla data leak reveals thousands of alleged safety complaints",
         "vote": 30
     },

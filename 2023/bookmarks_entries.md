@@ -4435,7 +4435,6 @@
  - [https://www.youtube.com/watch?v=zI3yU5Z2adI](https://www.youtube.com/watch?v=zI3yU5Z2adI)
  - date_published: 2023-05-21T00:00:00+00:00
  - tags: ['covid', 'propaganda']
- - date_dead_since: 2025-06-13T03:24:24.688999+00:00
 
  ## Antic probe reveals Canberra silenced 4213 Covid posts
  - [https://www.theaustralian.com.au/nation/antic-probe-reveals-canberra-silenced-4213-covid-posts/news-story/9afc4362197af63454bd3fa89285c282?amp&nk=75123c3603747a0fb6a011617db93217-1684746559](https://www.theaustralian.com.au/nation/antic-probe-reveals-canberra-silenced-4213-covid-posts/news-story/9afc4362197af63454bd3fa89285c282?amp&nk=75123c3603747a0fb6a011617db93217-1684746559)
