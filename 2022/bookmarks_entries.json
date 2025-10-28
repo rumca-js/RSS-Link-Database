@@ -23917,7 +23917,6 @@
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
-        "source__id": 94,
         "source_url": "https://www.digitaltrends.com/news/rss",
         "status_code": 200,
         "tags": [],
@@ -26307,7 +26306,6 @@
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
-        "source__id": 94,
         "source_url": "https://www.digitaltrends.com/news/rss",
         "status_code": 200,
         "tags": [
@@ -26674,7 +26672,6 @@
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
-        "source__id": 94,
         "source_url": "https://www.digitaltrends.com/news/rss",
         "status_code": 200,
         "tags": [],
