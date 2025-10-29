@@ -766,3 +766,8 @@
  - date_published: 2025-10-17T16:15:28.707388+00:00
  - tags: ['racism']
 
+ ## You should disable ACR on your TV right now (and the difference it makes to your privacy)
+ - [https://www.zdnet.com/home-and-office/home-entertainment/you-should-disable-acr-on-your-tv-right-now-and-the-difference-it-makes-to-your-privacy](https://www.zdnet.com/home-and-office/home-entertainment/you-should-disable-acr-on-your-tv-right-now-and-the-difference-it-makes-to-your-privacy)
+ - date_published: 2025-10-28T11:28:36+00:00
+ - tags: ['privacy', 'surveillance']
+

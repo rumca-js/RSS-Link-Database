@@ -4481,5 +4481,34 @@
         "thumbnail": "https://www.telegraph.co.uk/content/dam/briefs/2025/10/16/TELEMMGLPICT000444665202_17606312545880_trans_NvBQzQNjv4Bq-IWLY18X4-CzgyIcjLEAj_SVWeZ_vEN7c6bHu2jJnT8.jpeg?impolicy=OG-Standard",
         "title": "Students shall not pass unless they accept Lord of the Rings is offensive",
         "vote": 0
+    },
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_created": "2025-10-28T13:03:08.475742+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-28T11:28:36+00:00",
+        "description": "Your smart TV comes with privacy risks. Here's how to avoid one of the biggest.",
+        "id": 3922751,
+        "language": "en",
+        "link": "https://www.zdnet.com/home-and-office/home-entertainment/you-should-disable-acr-on-your-tv-right-now-and-the-difference-it-makes-to-your-privacy",
+        "manual_status_code": 0,
+        "page_rating": 37,
+        "page_rating_contents": 86,
+        "page_rating_visits": 3,
+        "page_rating_votes": 10,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "privacy",
+            "surveillance"
+        ],
+        "thumbnail": "https://www.zdnet.com/a/img/resize/f7f4aed9a1cc76642d5908b676dfc51a50ff06fa/2025/09/12/0603bd58-0139-4258-8dba-90741499a91e/sony-bravia-8-mark-ii-65-inch-2025-05.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "title": "You should disable ACR on your TV right now (and the difference it makes to your privacy)",
+        "vote": 10
     }
 ]
