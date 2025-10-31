@@ -207,7 +207,7 @@
             "israel",
             "palestine"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/tk8g9GIIiuQ/sddefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi_webp/tk8g9GIIiuQ/sddefault.webp",
         "title": "BALFOUR 100",
         "vote": 10
     },
@@ -270,7 +270,7 @@
             "plutocracy",
             "politics"
         ],
-        "thumbnail": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/EBJRP3JWOBOREVBEPMPCS3SOKA.jpg?auth=d0241d75b6975471a51a72d03de53553fd748c704e0e2b561cdaa2fc17a86c9f&height=630&width=1200&smart=true&quality=80",
+        "thumbnail": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/EBJRP3JWOBOREVBEPMPCS3SOKA.jpg?auth=d0241d75b6975471a51a72d03de53553fd748c704e0e2b561cdaa2fc17a86c9f&quality=80&width=1200&height=630&smart=true",
         "title": "No one went to prison after 2008 financial crisis \u2014 and the fault lies with us",
         "vote": 0
     },
@@ -363,7 +363,7 @@
             "propaganda",
             "social media"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/34LGPIXvU5M/sddefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi_webp/34LGPIXvU5M/sddefault.webp",
         "title": "Noam Chomsky - The 5 Filters of the Mass Media Machine",
         "vote": 0
     },
@@ -543,13 +543,13 @@
         "language": "en-US",
         "link": "https://money.cnn.com/2017/03/09/technology/cia-smart-tv-wikileaks-public-hacks",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 85,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://money.cnn.com",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "iot",
             "privacy",
@@ -648,7 +648,7 @@
         "tags": [
             "land ownership"
         ],
-        "thumbnail": "https://dl6pgk4f88hky.cloudfront.net/2021/09/20110309_2011_11the-world_w.jpg?1750625570",
+        "thumbnail": "https://dl6pgk4f88hky.cloudfront.net/2021/09/20110309_2011_11the-world_w.jpg?1761861053",
         "title": "Who owns the world?",
         "vote": 10
     },
@@ -1558,14 +1558,14 @@
         "language": "en-US",
         "link": "http://money.cnn.com/2017/06/27/technology/business/google-eu-antitrust-fine/index.html",
         "manual_status_code": 0,
-        "page_rating": 29,
-        "page_rating_contents": 80,
+        "page_rating": 9,
+        "page_rating_contents": 20,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 59,
         "source_url": "http://rss.cnn.com/rss/edition.rss",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "algorithms",
             "big tech",
@@ -1914,7 +1914,7 @@
             "the left wing",
             "transgender"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/IdjdNgvF42o/sddefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi_webp/IdjdNgvF42o/sddefault.webp",
         "title": "Joe Rogan & Ben Shapiro on the Transgender Movement, Men vs. Women in Sports",
         "vote": 0
     },
@@ -2487,7 +2487,7 @@
             "james damore",
             "joe rogan"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/VIW2OBOzu7Y/sddefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi_webp/VIW2OBOzu7Y/sddefault.webp",
         "title": "Joe Rogan - James Damore on the Backlash from the Google Memo Controversy",
         "vote": 0
     },
@@ -2516,7 +2516,7 @@
             "feminism",
             "jordan peterson"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/Zy4a8T45GiQ/sddefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi_webp/Zy4a8T45GiQ/sddefault.webp",
         "title": "Jordan Peterson: Why You Won't Have a Career",
         "vote": 0
     },
@@ -2817,7 +2817,7 @@
             "lgbt",
             "the left wing"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/4jef2C4T1_A/sddefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi_webp/4jef2C4T1_A/sddefault.webp",
         "title": "Jordan Peterson - Gay Marriage",
         "vote": 0
     },

@@ -233,7 +233,6 @@
  - [https://www.youtube.com/watch?v=y_Z1LClnhsk](https://www.youtube.com/watch?v=y_Z1LClnhsk)
  - date_published: 2019-04-17T00:00:00+00:00
  - tags: ['feminism', 'gender', 'inequality']
- - date_dead_since: 2025-02-11T07:09:12.950055+00:00
 
  ## Attacks on Christians double since 2017  - Washington Times
  - [https://www.washingtontimes.com/news/2019/apr/22/attacks-christians-double-2017](https://www.washingtontimes.com/news/2019/apr/22/attacks-christians-double-2017)

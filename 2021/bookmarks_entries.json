@@ -789,7 +789,7 @@
         "tags": [
             "donald trump"
         ],
-        "thumbnail": "https://wcti12.com/resources/media/5054ac39-792e-4e83-b0cc-4ddd9360f57b-large16x9_GettyImages1204060848.jpg?1610641730482",
+        "thumbnail": "https://wcti12.com/resources/media/67078136-9681-4b6b-a2b9-5f347f2b434e-GettyImages1204060848.jpg",
         "title": "PBS attorney fired after video shows him pushing for 're-education camps' for Trump voters | WCTI",
         "vote": 0
     },
@@ -5664,7 +5664,7 @@
             "odysee",
             "white supremacy"
         ],
-        "thumbnail": "https://i.guim.co.uk/img/media/b3cbaa4d9a4782ef945e2a97a14b81c6b8a7fe9b/0_89_3000_1800/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjEucG5n&enable=upscale&s=43bde9feb943db07204a6a06665e2a29",
+        "thumbnail": "https://i.guim.co.uk/img/media/b3cbaa4d9a4782ef945e2a97a14b81c6b8a7fe9b/0_89_3000_1800/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjEucG5n&enable=upscale&s=77c740a6c0b24671c133eb7cb90e4aee",
         "title": "Video platform chief says Nazi posts on white superiority do not merit removal",
         "vote": 5
     },
@@ -6663,7 +6663,7 @@
             "espionage",
             "surveillance"
         ],
-        "thumbnail": "https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FGPQV22MUAFJNZCMLI5DXWXMBBI.jpg?auth=5a6dc5f698a15f6cdc73813bbda8ab2d6fdfa9b435c5ee90fba6ee0cadcbfc37&height=1005&width=1920&quality=80&smart=true",
+        "thumbnail": "https://www.reuters.com/resizer/v2/UUNGELZS3BL57OJ7XQZGPXL2FU.jpg?auth=f9bbccb640ac69ca05a5b8e82acc03f2e0883f266cbc86a15bf89a1860cd61de&height=1005&width=1920&quality=80&smart=true",
         "title": "U.S. spied on Merkel and other Europeans through Danish cables - broadcaster DR",
         "vote": 0
     },
@@ -9447,7 +9447,7 @@
         "source_url": "https://stitcher.io",
         "status_code": 200,
         "tags": [],
-        "thumbnail": "https://stitcher.io/img/meta/an-event-driven-mindset.png",
+        "thumbnail": "https://stitcher.io/blog/an-event-driven-mindset/meta.png",
         "title": "An event-driven mindset - stitcher.io",
         "vote": 0
     },
@@ -9478,7 +9478,7 @@
             "social media",
             "twitter"
         ],
-        "thumbnail": "https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FTTUHIKUNIBLXTJSHLLEXGKT6CM.jpg?auth=f7f322423a1ab52cde648ca7161a6dc20237828efb8f79f52b5e0cd3cbfdf830&height=1005&width=1920&quality=80&smart=true",
+        "thumbnail": "https://www.reuters.com/resizer/v2/TTUHIKUNIBLXTJSHLLEXGKT6CM.jpg?auth=0640fb818e243620887399bbf26d9df209d2893f329bb595afa76d20b7165b38&height=1005&width=1920&quality=80&smart=true",
         "title": "EXCLUSIVE Twitter sees jump in govt demands to remove content of reporters, news outlets | Reuters",
         "vote": 0
     },
@@ -9532,6 +9532,32 @@
         "tags": [],
         "thumbnail": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/12E2E/production/_119385377_528dda61-0364-42b7-897e-17a2759234a4.jpg",
         "title": "Bristol Pride Art Trail brings LGBTQ+ community together - BBC News",
+        "vote": 0
+    },
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_created": "2024-02-29T14:50:03.948653+00:00",
+        "date_dead_since": null,
+        "date_published": "2021-07-15T15:05:00+00:00",
+        "description": "The process will have a lower environmental impact than traditional lithium mining. ",
+        "id": 35196,
+        "language": "en-US",
+        "link": "https://www.autoweek.com/news/green-cars/a37029490/gm-will-suck-lithium-from-the-salton-sea-to-make-batteries",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "https://www.autoweek.com",
+        "status_code": 200,
+        "tags": [],
+        "thumbnail": "https://hips.hearstapps.com/hmg-prod/images/birds-linger-near-the-shoreline-of-the-salton-sea-in-news-photo-1626312480.jpg?crop=1xw:0.73457xh;center,top&resize=1200:*",
+        "title": "GM Will Suck Lithium From the Salton Sea to Make Batteries",
         "vote": 0
     },
     {
@@ -9721,7 +9747,7 @@
         "source_url": "https://www.reuters.com",
         "status_code": 200,
         "tags": [],
-        "thumbnail": "https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F6ADMOSW4OBNPBNFKFZVUNYO2M4.jpg?auth=c8a82b4e6656f13422f1b26195c389a1473c86e8dd885a6f925b89986931bb17&height=1005&width=1920&quality=80&smart=true",
+        "thumbnail": "https://www.reuters.com/resizer/v2/6ADMOSW4OBNPBNFKFZVUNYO2M4.jpg?auth=d05a3aff04a07be8c1792968cff133ab8ec1ef34ed52efc27d60032f60963bb5&height=1005&width=1920&quality=80&smart=true",
         "title": "Intel in talks to buy GlobalFoundries for about $30 billion - WSJ | Reuters",
         "vote": 0
     },
@@ -10242,32 +10268,6 @@
         "tags": [],
         "thumbnail": "https://eclecticlight.co/wp-content/uploads/2015/01/cropped-eclecticlightlogo-e1421784280911.png?w=200",
         "title": "Last Week on My Mac: The perils of M1 Ownership \u2013 The Eclectic Light Company",
-        "vote": 0
-    },
-    {
-        "age": null,
-        "album": null,
-        "author": null,
-        "bookmarked": true,
-        "comments": [],
-        "date_created": "2024-02-29T14:50:03.948653+00:00",
-        "date_dead_since": null,
-        "date_published": "2021-07-18T07:00:55.792589+00:00",
-        "description": "The process will have a lower environmental impact than traditional lithium mining. ",
-        "id": 35196,
-        "language": "en-US",
-        "link": "https://www.autoweek.com/news/green-cars/a37029490/gm-will-suck-lithium-from-the-salton-sea-to-make-batteries",
-        "manual_status_code": 0,
-        "page_rating": 27,
-        "page_rating_contents": 85,
-        "page_rating_visits": 0,
-        "page_rating_votes": 0,
-        "permanent": false,
-        "source_url": "https://www.autoweek.com",
-        "status_code": 403,
-        "tags": [],
-        "thumbnail": "https://hips.hearstapps.com/hmg-prod/images/birds-linger-near-the-shoreline-of-the-salton-sea-in-news-photo-1626312480.jpg?crop=1xw:0.73457xh;center,top&resize=1200:*",
-        "title": "GM Will Suck Lithium From the Salton Sea to Make Batteries",
         "vote": 0
     },
     {
@@ -11359,7 +11359,7 @@
         "source_url": "https://stitcher.io",
         "status_code": 200,
         "tags": [],
-        "thumbnail": "https://stitcher.io/img/meta/we-dont-need-runtime-type-checks.png",
+        "thumbnail": "https://stitcher.io/blog/we-dont-need-runtime-type-checks/meta.png",
         "title": "We don't need runtime type checks - stitcher.io",
         "vote": 0
     },
@@ -13253,7 +13253,7 @@
         "source_url": "https://stitcher.io",
         "status_code": 200,
         "tags": [],
-        "thumbnail": "https://stitcher.io/img/meta/why-do-i-write.png",
+        "thumbnail": "https://stitcher.io/blog/why-do-i-write/meta.png",
         "title": "Why do I write? - stitcher.io",
         "vote": 0
     },
@@ -15104,7 +15104,7 @@
         "source_url": "https://www.dolthub.com",
         "status_code": 200,
         "tags": [],
-        "thumbnail": "https://www.dolthub.com/blog/static/17c79ba38919d5ebad1384094a9bf575/6247c/dolt-graphic-blog.png",
+        "thumbnail": "https://dolthub.com/blog/_astro/dolt-graphic-blog.JqpOnrT2.png",
         "title": "A nasty bit of undefined timezone behavior in Golang | DoltHub Blog",
         "vote": 0
     },
@@ -16353,7 +16353,7 @@
         "source_url": "https://stitcher.io",
         "status_code": 200,
         "tags": [],
-        "thumbnail": "https://stitcher.io/img/meta/birth-and-death-of-a-framework.png",
+        "thumbnail": "https://stitcher.io/blog/birth-and-death-of-a-framework/meta.png",
         "title": "The birth and death of a framework - stitcher.io",
         "vote": 0
     },
@@ -16431,7 +16431,7 @@
         "source_url": "https://www.reuters.com",
         "status_code": 200,
         "tags": [],
-        "thumbnail": "https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FQVD33ZH5NRNQTCQIQRJPYUJREA.jpg?auth=3e18e41f0c3f983060abbe23821b9e1e79c7147b775c1a31c4ef9df469bc04a8&height=1005&width=1920&quality=80&smart=true",
+        "thumbnail": "https://www.reuters.com/resizer/v2/QVD33ZH5NRNQTCQIQRJPYUJREA.jpg?auth=243b2b82dc3b67cd7ddb536a4636f61ac3e5b417f7dddd0396058422b43e338d&height=1005&width=1920&quality=80&smart=true",
         "title": "Google, Apple remove Navalny app from stores as Russian elections begin | Reuters",
         "vote": 0
     },
@@ -17560,7 +17560,7 @@
         "source_url": "https://www.reuters.com",
         "status_code": 200,
         "tags": [],
-        "thumbnail": "https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FR6GS7ISLCFL7FMCH4P47MK6TH4.jpg?auth=3bbe6aac49df5e7bec6c9c1202df590518038f45dcc7a4d249e8a9990713d461&height=1005&width=1920&quality=80&smart=true",
+        "thumbnail": "https://www.reuters.com/resizer/v2/R6GS7ISLCFL7FMCH4P47MK6TH4.jpg?auth=2687d24437cec2403939be90a28b987c78a3050cbdbc8b7da9e0d3a135cc9c6e&height=1005&width=1920&quality=80&smart=true",
         "title": "Chip shortage leads carmaker Opel to shut German plant until 2022 | Reuters",
         "vote": 0
     },
@@ -18103,7 +18103,7 @@
             "covid",
             "covid mandates"
         ],
-        "thumbnail": "https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FGXPQWSCWANMBTPKUQHC2KZO3HE.jpg?auth=4e0e39ffae57ecaa9731dfda3c1bd2b5b42234d4dbadc0739f2328abbf2e8051&height=1005&width=1920&quality=80&smart=true",
+        "thumbnail": "https://www.reuters.com/resizer/v2/GXPQWSCWANMBTPKUQHC2KZO3HE.jpg?auth=1f5624e4a1d0cbf1c35eee372ec1e51b2afc6d8dcf1ee33e7552315871a30c28&height=1005&width=1920&quality=80&smart=true",
         "title": "Canada imposes COVID-19 vaccine mandate on federal workers, transportation | Reuters",
         "vote": 0
     },
@@ -18248,7 +18248,7 @@
             "moderna",
             "vaccine"
         ],
-        "thumbnail": "https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FFTQ2YCILGFO7BFBIWWBLTXIWHQ.jpg?auth=c82377e7ae3f34622b411d47c68ebebc23d09e71ed7cd58ec3dd8c998bc8643f&height=1005&width=1920&quality=80&smart=true",
+        "thumbnail": "https://www.reuters.com/resizer/v2/IP3MBFI36VMX5KK2C7YO7OOT2U.jpg?auth=e814697cedf64090c72482f827287d19aeb4033d7aff8f59964e32a28aafd507&height=1005&width=1920&quality=80&smart=true",
         "title": "Finland joins Sweden and Denmark in limiting Moderna COVID-19 vaccine",
         "vote": 0
     },
@@ -19806,7 +19806,7 @@
             "racism",
             "socialism"
         ],
-        "thumbnail": "https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FVKFLUQ3TCJJGNPZXWHBR3BGJ5U.jpg?auth=b4e36735fa1277b6ce434a40fe6751963ff6b0ef4eaa01e1e7ec55379492d235&height=1005&width=1920&quality=80&smart=true",
+        "thumbnail": "https://www.reuters.com/resizer/v2/VKFLUQ3TCJJGNPZXWHBR3BGJ5U.jpg?auth=66a999a1aa4fb1d067b2db1a73fe161ae539bcc1c60b038f4e52a4c38c981a15&height=1005&width=1920&quality=80&smart=true",
         "title": "'Snitch line': Republicans assail U.S. effort to protect school boards from violent threats | Reuters",
         "vote": 0
     },
@@ -20112,7 +20112,7 @@
         "tags": [
             "israel"
         ],
-        "thumbnail": "https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FCVUERLYUIBPUZMKTMW6LRNCK5Y.jpg?auth=9738e8a9955047e5e12585f9a2dce86fa1b567da1ddb40ce817e8a94071da391&height=1005&width=1920&quality=80&smart=true",
+        "thumbnail": "https://www.reuters.com/resizer/v2/CVUERLYUIBPUZMKTMW6LRNCK5Y.jpg?auth=cb4c51ffc91680c9a5504acd08f97ad2e4e72cc485ade8d41d713cb4a86517e6&height=1005&width=1920&quality=80&smart=true",
         "title": "Israel designates Palestinian civil society groups as terrorists, U.N. 'alarmed'",
         "vote": 0
     },
@@ -20164,7 +20164,7 @@
         "source_url": "https://www.reuters.com",
         "status_code": 200,
         "tags": [],
-        "thumbnail": "https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F2Y7AXUCXZFKADOQTCPUY6SHMYI.jpg?auth=74dc259eca4cfc5192844758cf28915aefe66061bab5323675e561bb56026291&height=1005&width=1920&quality=80&smart=true",
+        "thumbnail": "https://www.reuters.com/resizer/v2/2Y7AXUCXZFKADOQTCPUY6SHMYI.jpg?auth=907bfe5001980c0ce85254bc4fdb3c564d5ef984e79e1aa4eed61465c01bc917&height=1005&width=1920&quality=80&smart=true",
         "title": "EXCLUSIVE Dutch forensic lab says it has decoded Tesla's driving data | Reuters",
         "vote": 0
     },
@@ -20444,7 +20444,7 @@
             "julian assange",
             "wikileaks"
         ],
-        "thumbnail": "https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F4RRWNGPCSZLNRJC4IIY4XXBM2Q.jpg?auth=7b6aa18eadd3aadf735c157f711448808dbccbed37fe57b5dc1f0bdcc1bd8c9b&height=1005&width=1920&quality=80&smart=true",
+        "thumbnail": "https://www.reuters.com/resizer/v2/4RRWNGPCSZLNRJC4IIY4XXBM2Q.jpg?auth=5018420f41bc95bacb4a2a96f26fd6c5421311555f9641cfa2136b5ebbbbc00b&height=1005&width=1920&quality=80&smart=true",
         "title": "Allegation of CIA 'murder' plot is game-changer in Assange extradition hearing, fiancee says",
         "vote": 0
     },
@@ -21021,7 +21021,7 @@
             "hollywood",
             "movies"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/CQ92cggLMx8/sddefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi_webp/CQ92cggLMx8/sddefault.webp",
         "title": "Why Modern Movies Suck - They're Written By Children",
         "vote": 0
     },
@@ -22446,8 +22446,8 @@
         "language": "en",
         "link": "https://mailbox.org/en/post/chat-control-the-latest-eu-plans-to-outlaw-encryption-and-introduce-telecommunications-surveillance?nl",
         "manual_status_code": 0,
-        "page_rating": 64,
-        "page_rating_contents": 91,
+        "page_rating": 63,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 50,
         "permanent": false,
@@ -24232,7 +24232,7 @@
             "privacy",
             "surveillance"
         ],
-        "thumbnail": "https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2F5OK2AH5UFVM2DKLI44GFGOABOA.jpg?auth=ee336f5c347d7186a9a02d7a8f5be57cd55f99ccb389486dda306488ccba35ec&height=1005&width=1920&quality=80&smart=true",
+        "thumbnail": "https://www.reuters.com/resizer/v2/5OK2AH5UFVM2DKLI44GFGOABOA.jpg?auth=b144f92ef29c8d3ecb3a71e6f8818e82551c2d8fe381c45ba84e589764fc46d6&height=1005&width=1920&quality=80&smart=true",
         "title": "Australia says U.S. facial recognition software firm Clearview breached privacy law | Reuters",
         "vote": 0
     },
@@ -24446,8 +24446,8 @@
         "language": "en-GB",
         "link": "https://www.telegraph.co.uk/world-news/2021/12/07/evidence-jeffrey-epsteins-safe-went-missing-fbi-raid-court-hears",
         "manual_status_code": 0,
-        "page_rating": 68,
-        "page_rating_contents": 81,
+        "page_rating": 48,
+        "page_rating_contents": 20,
         "page_rating_visits": 0,
         "page_rating_votes": 60,
         "permanent": false,

@@ -1408,7 +1408,7 @@
             "james damore",
             "jordan peterson"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/PRYvqrWcmmE/hqdefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi_webp/PRYvqrWcmmE/hqdefault.webp",
         "title": "Dr. Jordan Peterson on the James Damore Memo",
         "vote": 0
     },
@@ -2297,7 +2297,7 @@
             "feminism",
             "jordan peterson"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/Ddzf9Mm4hdY/hqdefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi_webp/Ddzf9Mm4hdY/hqdefault.webp",
         "title": "Jordan Peterson calmly dismantles feminism infront of two feminists",
         "vote": 0
     },
@@ -2900,7 +2900,7 @@
             "documentary",
             "history"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/e4FZkXvAY94/sddefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi_webp/e4FZkXvAY94/sddefault.webp",
         "title": "Victorian women | Life in Victorian times | 108 year old woman | Money Go Round | 1977",
         "vote": 0
     },
@@ -3155,14 +3155,14 @@
         "language": "en-US",
         "link": "http://money.cnn.com/2018/08/21/technology/google-data-collection/index.html",
         "manual_status_code": 0,
-        "page_rating": 29,
-        "page_rating_contents": 80,
+        "page_rating": 9,
+        "page_rating_contents": 20,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 59,
         "source_url": "http://rss.cnn.com/rss/edition.rss",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "big tech",
             "google",
@@ -3884,7 +3884,7 @@
             "religion",
             "the left wing"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/dn6x_9CLTB4/hqdefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi_webp/dn6x_9CLTB4/hqdefault.webp",
         "title": "Alan Keyes: Best argument against gay marriage",
         "vote": 0
     },
@@ -4254,7 +4254,7 @@
             "the left wing",
             "woke"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/OlqU_JMTzd4/sddefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi_webp/OlqU_JMTzd4/sddefault.webp",
         "title": "Joe Rogan - Exposing Social Justice with Peter Boghossian & James Lindsay",
         "vote": 0
     },

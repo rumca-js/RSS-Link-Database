@@ -835,6 +835,7 @@
  - [https://www.rt.com/usa/495320-suspect-epstein-judge-shooting-suicide](https://www.rt.com/usa/495320-suspect-epstein-judge-shooting-suicide)
  - date_published: 2020-07-20T19:40:28+00:00
  - tags: ['jeffrey epstein']
+ - date_dead_since: 2025-10-30T20:31:41.698955+00:00
 
  ## The hypocrisy of the Black Lives Matter Movement
  - [https://eu.examiner-enterprise.com/story/opinion/columns/2020/07/21/hypocrisy-of-black-lives-matter-movement/112696474](https://eu.examiner-enterprise.com/story/opinion/columns/2020/07/21/hypocrisy-of-black-lives-matter-movement/112696474)

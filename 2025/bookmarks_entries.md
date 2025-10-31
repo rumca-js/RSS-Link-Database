@@ -435,6 +435,11 @@
  - date_published: 2025-05-02T09:44:45+00:00
  - tags: ['afd', 'democracy', 'extremism']
 
+ ## Samsung Embeds IronSource Spyware App on Phones Across WANA
+ - [https://smex.org/open-letter-to-samsung-end-forced-israeli-app-installations-in-the-wana-region](https://smex.org/open-letter-to-samsung-end-forced-israeli-app-installations-in-the-wana-region)
+ - date_published: 2025-05-05T14:47:03+00:00
+ - tags: ['privacy', 'spyware', 'surveillance']
+
  ## Wyrzucanie śmieci po nowemu. Potrzebny kod QR i kosze za 2 miliony zł
  - [https://wiescirolnicze.pl/newsy/wyrzucanie-smieci-po-nowemu-potrzebny-kod-qr-i-kosze-za-2-miliony-zl,21067](https://wiescirolnicze.pl/newsy/wyrzucanie-smieci-po-nowemu-potrzebny-kod-qr-i-kosze-za-2-miliony-zl,21067)
  - date_published: 2025-05-06T14:50:43.654782+00:00
@@ -490,11 +495,6 @@
  - [https://edition.cnn.com/2025/06/20/tech/china-censorship-internet-id-hnk-intl](https://edition.cnn.com/2025/06/20/tech/china-censorship-internet-id-hnk-intl)
  - date_published: 2025-06-20T22:00:04+00:00
  - tags: ['digital id', 'privacy', 'surveillance']
-
- ## Samsung Embeds IronSource Spyware App on Phones Across WANA
- - [https://smex.org/open-letter-to-samsung-end-forced-israeli-app-installations-in-the-wana-region](https://smex.org/open-letter-to-samsung-end-forced-israeli-app-installations-in-the-wana-region)
- - date_published: 2025-06-21T03:06:42+00:00
- - tags: ['privacy', 'spyware', 'surveillance']
 
  ## US embassy wants 'every social media username of past five years' on new visa applications
  - [https://www.thejournal.ie/us-visa-changes-6740830-Jun2025](https://www.thejournal.ie/us-visa-changes-6740830-Jun2025)

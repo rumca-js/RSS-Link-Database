@@ -1602,6 +1602,10 @@
  - [https://www.bbc.co.uk/news/uk-england-bristol-57809144](https://www.bbc.co.uk/news/uk-england-bristol-57809144)
  - date_published: 2021-07-15T09:04:52.086933+00:00
 
+ ## GM Will Suck Lithium From the Salton Sea to Make Batteries
+ - [https://www.autoweek.com/news/green-cars/a37029490/gm-will-suck-lithium-from-the-salton-sea-to-make-batteries](https://www.autoweek.com/news/green-cars/a37029490/gm-will-suck-lithium-from-the-salton-sea-to-make-batteries)
+ - date_published: 2021-07-15T15:05:00+00:00
+
  ## Here Is a Photo of a Single Atom | What Do Atoms Look Like?
  - [https://www.popularmechanics.com/science/a17804899/here-is-a-photo-of-a-single-atom](https://www.popularmechanics.com/science/a17804899/here-is-a-photo-of-a-single-atom)
  - date_published: 2021-07-15T16:19:38.165084+00:00
@@ -1715,10 +1719,6 @@
  ## Last Week on My Mac: The perils of M1 Ownership – The Eclectic Light Company
  - [https://eclecticlight.co/2021/07/18/last-week-on-my-mac-the-perils-of-m1-ownership](https://eclecticlight.co/2021/07/18/last-week-on-my-mac-the-perils-of-m1-ownership)
  - date_published: 2021-07-18T07:00:00+00:00
-
- ## GM Will Suck Lithium From the Salton Sea to Make Batteries
- - [https://www.autoweek.com/news/green-cars/a37029490/gm-will-suck-lithium-from-the-salton-sea-to-make-batteries](https://www.autoweek.com/news/green-cars/a37029490/gm-will-suck-lithium-from-the-salton-sea-to-make-batteries)
- - date_published: 2021-07-18T07:00:55.792589+00:00
 
  ## McCloskeys plead guilty to charges after gun-toting display
  - [https://news.yahoo.com/mccloskeys-plead-guilty-charges-gun-195300768.html](https://news.yahoo.com/mccloskeys-plead-guilty-charges-gun-195300768.html)

@@ -2414,6 +2414,7 @@
  - [https://www.youtube.com/watch?v=2L2Hr2QOOJk](https://www.youtube.com/watch?v=2L2Hr2QOOJk)
  - date_published: 2023-03-08T00:00:00+00:00
  - tags: ['digital id', 'digital passport', 'government control', 'mobywatel']
+ - date_dead_since: 2025-10-30T16:05:08.804643+00:00
 
  ## Privacy is FUTILE…unless…?
  - [https://www.youtube.com/watch?v=hSjWWL9mzR4](https://www.youtube.com/watch?v=hSjWWL9mzR4)

@@ -1398,20 +1398,20 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-02-29T14:54:35.994298+00:00",
-        "date_dead_since": "2025-02-11T07:09:12.950055+00:00",
+        "date_dead_since": null,
         "date_published": "2019-04-17T00:00:00+00:00",
         "description": "Giorgia Meloni, Fratelli d''Italia, Brothers of Italy, conservative family values\n\nAll translation and subtitling on my channel is my own original work\n\nIf you would like to support me I have a SubscribeStar https://www.subscribestar.com/CassiusDX Patreon https://www.patreon.com/CassiusDX and PayPal https://www.paypal.me/CassiusYT\nThe World Congress of Families (Congresso Mondiale delle Famiglie) was held in Verona from the 29-31st March. The congress promotes conservative Christian family values. This event was enormously controversial in Italy and attracted 20,000 protesters to the city, the protesters said the congress was homophobic and wanted to restrict women's freedom, keep them at home doing the ironing, take Italy back to the middle ages. Notes / explanations:\n\n00:10 The host is Eva Crosetta who presents a religious affairs programme on Italian state broadcaster RAI.\n\n05:08 Infant's income = 400 euros a month, per child, up to the age of six, a Fratelli d'Italia policy.\n\n05:1",
         "id": 37366,
         "language": "en-US",
         "link": "https://www.youtube.com/watch?v=y_Z1LClnhsk",
         "manual_status_code": 0,
-        "page_rating": 0,
-        "page_rating_contents": 0,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCugBxjk93tr6rW9bKXJSeQg",
-        "status_code": 500,
+        "status_code": 200,
         "tags": [
             "feminism",
             "gender",
@@ -2698,7 +2698,7 @@
             "managment",
             "programming"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/NglDal-ycjU/sddefault.jpg?v=5d2e8960",
+        "thumbnail": "https://i.ytimg.com/vi_webp/NglDal-ycjU/sddefault.webp?v=5d2e8960",
         "title": "Why you should stop working so hard.",
         "vote": 0
     },
@@ -2926,13 +2926,13 @@
         "language": "en-US",
         "link": "https://www.ccn.com/google-manipulates-search-results-former-engineer-shockingly-confirms",
         "manual_status_code": 0,
-        "page_rating": 89,
-        "page_rating_contents": 86,
+        "page_rating": 74,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 90,
         "permanent": false,
         "source_url": "https://www.ccn.com",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "algorithms",
             "big tech",
@@ -2972,7 +2972,7 @@
             "privacy",
             "surveillance"
         ],
-        "thumbnail": "https://www.f5.com/content/dam/f5-labs-v2/global-configuration/metatags/F5_Default_SocialShare.jpg",
+        "thumbnail": "https://cdn.studio.f5.com/images/k6fem79d/production/5381eeb76463d096936c493ef13757bebf4aa804-448x272.png",
         "title": "Kazakhstan Attempts to MITM Its Citizens",
         "vote": 10
     },
@@ -5063,7 +5063,7 @@
             "privacy",
             "surveillance"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/efs3QRr8LWw/sddefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi_webp/efs3QRr8LWw/sddefault.webp",
         "title": "Joe Rogan Experience #1368 - Edward Snowden",
         "vote": 0
     },

@@ -1398,6 +1398,10 @@
  - [https://www.smashingmagazine.com/2022/01/web-frameworks-guide-part1](https://www.smashingmagazine.com/2022/01/web-frameworks-guide-part1)
  - date_published: 2022-03-20T17:14:56+00:00
 
+ ## Mercedes Drive Pilot Beats Tesla Autopilot By Taking Legal Responsibility
+ - [https://www.roadandtrack.com/news/a39481699/what-happens-if-mercedes-drivepilot-causes-a-crash](https://www.roadandtrack.com/news/a39481699/what-happens-if-mercedes-drivepilot-causes-a-crash)
+ - date_published: 2022-03-20T23:00:00+00:00
+
  ## The Babylon Bee's Twitter Account Was Suspended, But That Made Its Story Go Viral
  - [https://www.forbes.com/sites/petersuciu/2022/03/21/the-babylon-bees-twitter-account-was-suspended-but-that-made-its-story-go-viral](https://www.forbes.com/sites/petersuciu/2022/03/21/the-babylon-bees-twitter-account-was-suspended-but-that-made-its-story-go-viral)
  - date_published: 2022-03-21T00:00:00+00:00
@@ -1440,10 +1444,6 @@
  - [https://www.computerweekly.com/news/252514981/Chinese-state-media-use-Facebook-to-push-pro-Russia-disinformation-on-Ukraine-war](https://www.computerweekly.com/news/252514981/Chinese-state-media-use-Facebook-to-push-pro-Russia-disinformation-on-Ukraine-war)
  - date_published: 2022-03-23T06:57:41+00:00
  - tags: ['china', 'disinformation', 'facebook', 'russia', 'ukraine']
-
- ## Mercedes Drive Pilot Beats Tesla Autopilot By Taking Legal Responsibility
- - [https://www.roadandtrack.com/news/a39481699/what-happens-if-mercedes-drivepilot-causes-a-crash](https://www.roadandtrack.com/news/a39481699/what-happens-if-mercedes-drivepilot-causes-a-crash)
- - date_published: 2022-03-23T06:58:38.346276+00:00
 
  ## Lia Thomas: Florida governor Ron DeSantis refuses to recognise Thomas win - BBC Sport
  - [https://www.bbc.co.uk/sport/swimming/60842863](https://www.bbc.co.uk/sport/swimming/60842863)
@@ -3877,6 +3877,11 @@
  - date_published: 2022-08-31T18:27:31+00:00
  - tags: ['agriculture', 'germany']
 
+ ## The dirty "Net Zero" carbon myth (that everyone believes)
+ - [https://www.youtube.com/watch?v=WaLGsZseL3w](https://www.youtube.com/watch?v=WaLGsZseL3w)
+ - date_published: 2022-09-01T00:00:00+00:00
+ - tags: ['climate change', 'corporatocracy', 'net zero']
+
  ## China Locks Down Chengdu as Covid Cases Rise
  - [https://www.nytimes.com/2022/09/01/world/asia/china-covid-lockdown-chengdu.html](https://www.nytimes.com/2022/09/01/world/asia/china-covid-lockdown-chengdu.html)
  - date_published: 2022-09-01T06:56:43+00:00
@@ -3884,12 +3889,6 @@
  ## Things not available when someone blocks all cookies
  - [https://blog.tomayac.com/2022/08/30/things-not-available-when-someone-blocks-all-cookies](https://blog.tomayac.com/2022/08/30/things-not-available-when-someone-blocks-all-cookies)
  - date_published: 2022-09-01T11:17:13.779268+00:00
-
- ## The dirty "Net Zero" carbon myth (that everyone believes)
- - [https://www.youtube.com/watch?v=WaLGsZseL3w](https://www.youtube.com/watch?v=WaLGsZseL3w)
- - date_published: 2022-09-01T15:02:17+00:00
- - tags: ['climate change', 'corporatocracy', 'net zero']
- - date_dead_since: 2025-02-05T14:12:20.269143+00:00
 
  ## Apple’s antivirus strategy for Mac has gone fully preemptive, but is that enough?
  - [https://www.digitaltrends.com/computing/mac-anti-antivirus-fully-preemptive](https://www.digitaltrends.com/computing/mac-anti-antivirus-fully-preemptive)
@@ -5645,6 +5644,7 @@
  - [https://www.youtube.com/watch?v=8If5X_KR6Pg](https://www.youtube.com/watch?v=8If5X_KR6Pg)
  - date_published: 2022-10-04T00:00:00+00:00
  - tags: ['science is dead']
+ - date_dead_since: 2025-10-30T17:03:06.701582+00:00
 
  ## VideoLAN has issued a legal notice to Indian Gov for banning their website
  - [https://internetfreedom.in/videolan-issued-legal-notice-to-dot-and-meity-for-banning-their-website-in-india](https://internetfreedom.in/videolan-issued-legal-notice-to-dot-and-meity-for-banning-their-website-in-india)
@@ -8126,6 +8126,11 @@
  - [https://interconnected.org/home](https://interconnected.org/home)
  - date_published: 2022-11-23T23:53:25.190104+00:00
 
+ ## The biggest threat to our financial freedom - CBDC
+ - [https://www.youtube.com/watch?v=P20tDdxy_yc](https://www.youtube.com/watch?v=P20tDdxy_yc)
+ - date_published: 2022-11-24T00:00:00+00:00
+ - tags: ['cdbc']
+
  ## Zero-Covid China asks: Is World Cup on another planet?
  - [https://www.bbc.co.uk/news/world-asia-china-63735923?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-china-63735923?at_medium=RSS&at_campaign=KARANGA)
  - date_published: 2022-11-24T00:25:02+00:00
@@ -8150,12 +8155,6 @@
  - [https://www.makeuseof.com/why-consider-duckduckgo](https://www.makeuseof.com/why-consider-duckduckgo)
  - date_published: 2022-11-24T08:42:39+00:00
  - tags: ['duckduckgo', 'privacy', 'tracking']
-
- ## The biggest threat to our financial freedom - CBDC
- - [https://www.youtube.com/watch?v=P20tDdxy_yc](https://www.youtube.com/watch?v=P20tDdxy_yc)
- - date_published: 2022-11-24T15:00:55+00:00
- - tags: ['cdbc']
- - date_dead_since: 2025-02-04T20:54:28.931201+00:00
 
  ## Right to abortion in France: The necessary steps before it gets enshrined in the constitution
  - [https://www.lemonde.fr/en/politics/article/2022/11/24/right-to-abortion-in-france-the-necessary-steps-before-it-gets-enshrined-in-the-constitution_6005536_5.html](https://www.lemonde.fr/en/politics/article/2022/11/24/right-to-abortion-in-france-the-necessary-steps-before-it-gets-enshrined-in-the-constitution_6005536_5.html)
@@ -8733,6 +8732,11 @@
  - date_published: 2022-12-08T00:00:00+00:00
  - tags: ['climate change']
 
+ ## You are being LIED to about inflation (here's the REAL cause)
+ - [https://www.youtube.com/watch?v=px4LkyuMs0I](https://www.youtube.com/watch?v=px4LkyuMs0I)
+ - date_published: 2022-12-08T00:00:00+00:00
+ - tags: ['economy', 'inflation', 'politics']
+
  ## Kirk Cameron banned from hosting readings of Christian children's book at 50 public libraries
  - [https://www.dailymail.co.uk/news/article-11514251/Kirk-Cameron-banned-hosting-readings-Christian-childrens-book-50-public-libraries.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11514251/Kirk-Cameron-banned-hosting-readings-Christian-childrens-book-50-public-libraries.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date_published: 2022-12-08T00:55:02+00:00
@@ -8772,12 +8776,6 @@
  - [https://www.dexerto.com/entertainment/coffeezilla-claims-ftx-founder-sam-bankman-fried-admitted-fraud-in-interview-2005507](https://www.dexerto.com/entertainment/coffeezilla-claims-ftx-founder-sam-bankman-fried-admitted-fraud-in-interview-2005507)
  - date_published: 2022-12-08T14:11:59+00:00
  - tags: ['coffeezilla', 'crypto', 'fraud', 'ftx', 'ponzie']
-
- ## You are being LIED to about inflation (here's the REAL cause)
- - [https://www.youtube.com/watch?v=px4LkyuMs0I](https://www.youtube.com/watch?v=px4LkyuMs0I)
- - date_published: 2022-12-08T14:30:52+00:00
- - tags: ['economy', 'inflation', 'politics']
- - date_dead_since: 2025-02-04T17:38:24.419357+00:00
 
  ## Australian COVID Measures Led to Lowest Elective Surgery Numbers in a Decade
  - [https://www.theepochtimes.com/australian-covid-measures-led-to-lowest-elective-surgery-numbers-in-a-decade_4908265.html](https://www.theepochtimes.com/australian-covid-measures-led-to-lowest-elective-surgery-numbers-in-a-decade_4908265.html)
