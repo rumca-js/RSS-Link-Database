@@ -771,3 +771,8 @@
  - date_published: 2025-10-28T11:28:36+00:00
  - tags: ['privacy', 'surveillance']
 
+ ## Revealed: Israel demanded Google and Amazon use secret ‘wink’ to sidestep legal orders
+ - [https://www.theguardian.com/us-news/2025/oct/29/google-amazon-israel-contract-secret-code](https://www.theguardian.com/us-news/2025/oct/29/google-amazon-israel-contract-secret-code)
+ - date_published: 2025-10-29T13:15:57+00:00
+ - tags: ['israel', 'manufacturing consent']
+

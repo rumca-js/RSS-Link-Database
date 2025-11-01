@@ -1007,13 +1007,13 @@
         "language": "en-US",
         "link": "https://thoughtcatalog.com/emily-goldstein/2015/05/get-rid-of-white-people",
         "manual_status_code": 0,
-        "page_rating": 0,
-        "page_rating_contents": 0,
+        "page_rating": 48,
+        "page_rating_contents": 60,
         "page_rating_visits": 0,
         "page_rating_votes": 40,
         "permanent": false,
         "source_url": "https://thoughtcatalog.com/emily-goldstein/2015/05/get-rid-of-white-people",
-        "status_code": 404,
+        "status_code": 614,
         "tags": [
             "hate speech",
             "racism",
@@ -1072,7 +1072,7 @@
         "page_rating_votes": 40,
         "permanent": false,
         "source_url": "https://archive.ph",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "bots",
             "platforma obywatelska",
@@ -1588,7 +1588,7 @@
             "chiptune",
             "music"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/MSaohyJ_E2w/hqdefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi_webp/MSaohyJ_E2w/hqdefault.webp",
         "title": "Pinball Dreams (PC/DOS) 1992, 21th Century Entertainment, Spidersoft",
         "vote": 0
     },
@@ -1653,7 +1653,7 @@
             "propaganda",
             "social media"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/tTBWfkE7BXU/hqdefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi_webp/tTBWfkE7BXU/hqdefault.webp",
         "title": "Noam Chomsky - Manufacturing Consent",
         "vote": 0
     },

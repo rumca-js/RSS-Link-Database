@@ -2916,9 +2916,9 @@
         "language": "en",
         "link": "https://www.thejournal.ie/us-visa-changes-6740830-Jun2025",
         "manual_status_code": 0,
-        "page_rating": 27,
+        "page_rating": 30,
         "page_rating_contents": 86,
-        "page_rating_visits": 0,
+        "page_rating_visits": 1,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "",
@@ -4510,5 +4510,35 @@
         "thumbnail": "https://www.zdnet.com/a/img/resize/f7f4aed9a1cc76642d5908b676dfc51a50ff06fa/2025/09/12/0603bd58-0139-4258-8dba-90741499a91e/sony-bravia-8-mark-ii-65-inch-2025-05.jpg?auto=webp&fit=crop&height=675&width=1200",
         "title": "You should disable ACR on your TV right now (and the difference it makes to your privacy)",
         "vote": 10
+    },
+    {
+        "age": null,
+        "album": "",
+        "author": "Harry Davies and Yuval Abraham in Jerusalem",
+        "bookmarked": true,
+        "comments": [],
+        "date_created": "2025-10-29T13:33:41.241132+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-10-29T13:15:57+00:00",
+        "description": "<p>The tech giants agreed to extraordinary terms to clinch a lucrative contract with the Israeli government, documents show</p><p>When <a href=\"https://www.theguardian.com/technology/google\">Google</a> and <a href=\"https://www.theguardian.com/technology/amazon\">Amazon</a> negotiated a major $1.2bn cloud-computing deal in 2021, their customer \u2013 the Israeli government \u2013 had an unusual demand: agree to use a secret code as part of an arrangement that would become known as the \u201cwinking mechanism\u201d.</p><p>The demand, which would require Google and Amazon to effectively sidestep legal obligations in countries around the world, was born out of Israel\u2019s concerns that data it moves into the global corporations\u2019 cloud platforms could end up in the hands of foreign law enforcement authorities.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/29/google-amazon-israel-contract-secret-code\">Continue reading...</a>",
+        "id": 3931732,
+        "language": "en-US",
+        "link": "https://www.theguardian.com/us-news/2025/oct/29/google-amazon-israel-contract-secret-code",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 1,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 341,
+        "source_url": "https://www.theguardian.com/international/rss",
+        "status_code": 0,
+        "tags": [
+            "israel",
+            "manufacturing consent"
+        ],
+        "thumbnail": "https://i.guim.co.uk/img/media/1dfd4b0a573d5732d8b7b77ccd7fbbbb4518ce7e/0_10_2988_2390/master/2988.png?width=140&quality=85&auto=format&fit=max&s=3c13225db5a08ef087ff172150ac32ee",
+        "title": "Revealed: Israel demanded Google and Amazon use secret \u2018wink\u2019 to sidestep legal orders",
+        "vote": 0
     }
 ]
