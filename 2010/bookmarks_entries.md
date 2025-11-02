@@ -74,6 +74,11 @@
  - date_published: 2010-07-07T06:44:23+00:00
  - tags: ['privacy']
 
+ ## Blizzard Backs off Forcing Users to Post under Real Names | Digital Trends
+ - [https://www.digitaltrends.com/gaming/blizzard-backs-off-forcing-users-to-post-under-real-names](https://www.digitaltrends.com/gaming/blizzard-backs-off-forcing-users-to-post-under-real-names)
+ - date_published: 2010-07-12T08:25:05+00:00
+ - tags: ['privacy']
+
  ## Blizzard retreats from forcing real names in Warcraft forums
  - [https://www.theguardian.com/technology/blog/2010/jul/12/blizzard-warcraft-real-names-retreat](https://www.theguardian.com/technology/blog/2010/jul/12/blizzard-warcraft-real-names-retreat)
  - date_published: 2010-07-12T12:52:05+00:00
@@ -83,11 +88,6 @@
  - [http://edition.cnn.com/2010/WORLD/africa/07/12/uganda.bombings/index.html?eref=edition](http://edition.cnn.com/2010/WORLD/africa/07/12/uganda.bombings/index.html?eref=edition)
  - date_published: 2010-07-12T12:59:09+00:00
  - tags: ['islam terror', 'religion']
-
- ## Blizzard Backs off Forcing Users to Post under Real Names | Digital Trends
- - [https://www.digitaltrends.com/gaming/blizzard-backs-off-forcing-users-to-post-under-real-names](https://www.digitaltrends.com/gaming/blizzard-backs-off-forcing-users-to-post-under-real-names)
- - date_published: 2010-07-12T15:25:05+00:00
- - tags: ['privacy']
 
  ## Afghanistan war logs: Massive leak of secret files exposes truth of occupation | Afghanistan: the war logs | The Guardian
  - [https://www.theguardian.com/world/2010/jul/25/afghanistan-war-logs-military-leaks](https://www.theguardian.com/world/2010/jul/25/afghanistan-war-logs-military-leaks)

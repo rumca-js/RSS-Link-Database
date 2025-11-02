@@ -441,7 +441,7 @@
             "government",
             "wikipedia"
         ],
-        "thumbnail": "https://i.guim.co.uk/img/static/sys-images/Guardian/About/General/2013/4/7/1365344064456/Various---Jan-2010-010.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTMucG5n&enable=upscale&s=6349e2f74bea1672426e2cc925167b25",
+        "thumbnail": "https://i.guim.co.uk/img/static/sys-images/Guardian/About/General/2013/4/7/1365344064456/Various---Jan-2010-010.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTMucG5n&enable=upscale&s=5d0df5c7a6c825ac79e1f41cc7440045",
         "title": "French secret service accused of censorship over Wikipedia page",
         "vote": 50
     },

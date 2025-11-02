@@ -443,9 +443,37 @@
         "tags": [
             "privacy"
         ],
-        "thumbnail": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/news/images/metadata/poster-1024x576.png",
+        "thumbnail": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png",
         "title": "World of Warcraft maker to end anonymous forum logins",
         "vote": 80
+    },
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_created": "2024-03-06T06:34:20.678554+00:00",
+        "date_dead_since": null,
+        "date_published": "2010-07-12T08:25:05+00:00",
+        "description": "After deciding to require forum posters to use their real names when posting, the makers of World of Warcraft and Starcraft has changed its mind and will abandon the RealID system that would have required forum posters to post under their real names.",
+        "id": 77625,
+        "language": "en",
+        "link": "https://www.digitaltrends.com/gaming/blizzard-backs-off-forcing-users-to-post-under-real-names",
+        "manual_status_code": 0,
+        "page_rating": 37,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 10,
+        "permanent": false,
+        "source_url": "",
+        "status_code": 200,
+        "tags": [
+            "privacy"
+        ],
+        "thumbnail": "http://www.digitaltrends.com/wp-content/uploads/2010/07/world-of-warcraft-a-650x487.jpg",
+        "title": "Blizzard Backs off Forcing Users to Post under Real Names | Digital Trends",
+        "vote": 10
     },
     {
         "age": null,
@@ -502,34 +530,6 @@
         "thumbnail": null,
         "title": "Uganda blasts kill 74; Somali Islamists claim responsibilty",
         "vote": 0
-    },
-    {
-        "age": null,
-        "album": null,
-        "author": null,
-        "bookmarked": true,
-        "comments": [],
-        "date_created": "2024-03-06T06:34:20.678554+00:00",
-        "date_dead_since": null,
-        "date_published": "2010-07-12T15:25:05+00:00",
-        "description": "After deciding to require forum posters to use their real names when posting, the makers of World of Warcraft and Starcraft has changed its mind and will abandon the RealID system that would have required forum posters to post under their real names.",
-        "id": 77625,
-        "language": "en",
-        "link": "https://www.digitaltrends.com/gaming/blizzard-backs-off-forcing-users-to-post-under-real-names",
-        "manual_status_code": 0,
-        "page_rating": 37,
-        "page_rating_contents": 86,
-        "page_rating_visits": 0,
-        "page_rating_votes": 10,
-        "permanent": false,
-        "source_url": "",
-        "status_code": 200,
-        "tags": [
-            "privacy"
-        ],
-        "thumbnail": "http://www.digitaltrends.com/wp-content/uploads/2010/07/world-of-warcraft-a-650x487.jpg",
-        "title": "Blizzard Backs off Forcing Users to Post under Real Names | Digital Trends",
-        "vote": 10
     },
     {
         "age": null,
@@ -859,7 +859,7 @@
             "documentary",
             "history"
         ],
-        "thumbnail": "https://i.ytimg.com/vi/MD5J43Z9AWI/hqdefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi_webp/MD5J43Z9AWI/hqdefault.webp",
         "title": "Eva Hart speaks about her memories of the Titanic . .  survivor interview",
         "vote": 0
     },

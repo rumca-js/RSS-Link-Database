@@ -501,6 +501,11 @@
  - date_published: 2025-06-23T11:22:43+00:00
  - tags: ['privacy', 'social media', 'surveillance']
 
+ ## Companies are Suing Honest Reviewers and it’s Going to Get UGLY.
+ - [https://www.youtube.com/watch?v=RNonfByE9xc](https://www.youtube.com/watch?v=RNonfByE9xc)
+ - date_published: 2025-06-24T00:00:00+00:00
+ - tags: ['search engines', 'seo']
+
  ## Going Dark: The war on encryption is on the rise. Through a shady collaboration between the US and the EU.
  - [https://mullvad.net/pl/why-privacy-matters/going-dark](https://mullvad.net/pl/why-privacy-matters/going-dark)
  - date_published: 2025-06-24T15:33:42.917661+00:00
@@ -510,11 +515,6 @@
  - [https://edri.org/our-work/shedding-light-we-address-the-flawed-going-dark-report](https://edri.org/our-work/shedding-light-we-address-the-flawed-going-dark-report)
  - date_published: 2025-06-24T15:37:44.149887+00:00
  - tags: ['privacy', 'surveillance']
-
- ## Companies are Suing Honest Reviewers and it’s Going to Get UGLY.
- - [https://www.youtube.com/watch?v=RNonfByE9xc](https://www.youtube.com/watch?v=RNonfByE9xc)
- - date_published: 2025-06-24T18:21:04+00:00
- - tags: ['search engines', 'seo']
 
  ## Will A.I. Slop Kill the Internet?
  - [https://www.youtube.com/watch?v=NuIMZBseAOM](https://www.youtube.com/watch?v=NuIMZBseAOM)

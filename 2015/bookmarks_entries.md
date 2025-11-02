@@ -97,7 +97,6 @@
  - [https://www.youtube.com/watch?v=6Af6b_wyiwI](https://www.youtube.com/watch?v=6Af6b_wyiwI)
  - date_published: 2015-04-03T00:00:00+00:00
  - tags: ['bill gates', 'pandemic', 'ted']
- - date_dead_since: 2025-06-24T01:11:04.540484+00:00
 
  ## China's Great Cannon
  - [https://citizenlab.ca/2015/04/chinas-great-cannon](https://citizenlab.ca/2015/04/chinas-great-cannon)
