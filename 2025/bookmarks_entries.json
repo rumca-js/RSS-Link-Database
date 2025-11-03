@@ -894,7 +894,7 @@
             "google",
             "russia"
         ],
-        "thumbnail": "https://i.guim.co.uk/img/media/2691cdda8be5085a879b919d46d00b9484fc5fef/0_31_2480_1488/master/2480.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=462d5a48a3276b8a961ac6c0add76a07",
+        "thumbnail": "https://i.guim.co.uk/img/media/2691cdda8be5085a879b919d46d00b9484fc5fef/0_31_2480_1488/master/2480.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=18abfc76b375f33576e9a593ce8aed52",
         "title": "Revealed: Google facilitated Russia and China\u2019s censorship requests",
         "vote": 30
     },
