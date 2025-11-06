@@ -776,3 +776,8 @@
  - date_published: 2025-10-29T13:15:57+00:00
  - tags: ['israel', 'manufacturing consent']
 
+ ## YouTube Quietly Erased More Than 700 Videos Documenting Israeli Human Rights Violations
+ - [https://theintercept.com/2025/11/04/youtube-google-israel-palestine-human-rights-censorship](https://theintercept.com/2025/11/04/youtube-google-israel-palestine-human-rights-censorship)
+ - date_published: 2025-11-04T21:41:23+00:00
+ - tags: ['israel']
+
