@@ -18,6 +18,11 @@
  - date_published: 2025-01-09T15:51:59+00:00
  - tags: ['censorship', 'israel']
 
+ ## Learn Ollama in 15 Minutes - Run LLM Models Locally for FREE
+ - [https://www.youtube.com/watch?v=UtSSMs6ObqY](https://www.youtube.com/watch?v=UtSSMs6ObqY)
+ - date_published: 2025-01-13T07:38:28+00:00
+ - tags: ['artificial intelligence', 'llm', 'ollama', 'tutorial']
+
  ## The Origins of Wokeness
  - [https://paulgraham.com/woke.html](https://paulgraham.com/woke.html)
  - date_published: 2025-01-13T13:27:06+00:00
