@@ -1117,18 +1117,18 @@
         "link": "https://thehill.com/opinion/international/5155350-youtube-promoting-pro-china",
         "manual_status_code": 0,
         "page_rating": 32,
-        "page_rating_contents": 90,
+        "page_rating_contents": 91,
         "page_rating_visits": 1,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 346,
         "source_url": "https://thehill.com/feed",
-        "status_code": 403,
+        "status_code": 200,
         "tags": [
             "china",
             "corporatocracy"
         ],
-        "thumbnail": null,
+        "thumbnail": "https://thehill.com/wp-content/uploads/sites/2/2024/12/china_trade_04272022_AP_AP22117537441382.jpg?w=1280",
         "title": "Why is YouTube boosting anti-US, pro-Chinese communist propaganda?",
         "vote": 0
     },
