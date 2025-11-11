@@ -48511,8 +48511,8 @@
         "language": "en-US",
         "link": "https://mailbox.org/en/post/warning-new-outlook-sends-passwords-mails-and-other-data-to-microsoft",
         "manual_status_code": 0,
-        "page_rating": 32,
-        "page_rating_contents": 91,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -48900,13 +48900,13 @@
         "language": "en-US",
         "link": "https://www.eurasiareview.com/17112023-the-ben-gurion-canal-israels-potential-revolutionary-alternative-to-suez-analysis",
         "manual_status_code": 0,
-        "page_rating": 19,
-        "page_rating_contents": 50,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.eurasiareview.com",
-        "status_code": 403,
+        "status_code": 200,
         "tags": [
             "ben gurion canal",
             "israel"
@@ -49341,6 +49341,35 @@
     },
     {
         "age": null,
+        "album": "https://apnews.com",
+        "author": "https://apnews.com",
+        "bookmarked": true,
+        "comments": [],
+        "date_created": "2024-02-29T14:50:38.554189+00:00",
+        "date_dead_since": null,
+        "date_published": "2023-11-25T15:49:50+00:00",
+        "description": "Pentagon's AI initiatives accelerate hard decisions on lethal autonomous weapons",
+        "id": 35671,
+        "language": "en",
+        "link": "https://apnews.com/article/us-military-ai-projects-0773b4937801e7a0573f44b57a9a5942",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source_url": "https://apnews.com",
+        "status_code": 200,
+        "tags": [
+            "artificial intelligence",
+            "pentagon"
+        ],
+        "thumbnail": "https://dims.apnews.com/dims4/default/af8e62f/2147483647/strip/true/crop/5063x2848+0+264/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F65%2Fbf%2F05eefe339b9b2b767f6a77200c0e%2F01a19ae6ec0b451a85cf81f10fc5ff34",
+        "title": "Pentagon's AI initiatives accelerate hard decisions on lethal autonomous weapons",
+        "vote": 0
+    },
+    {
+        "age": null,
         "album": "Hacker News - frontpage",
         "author": "Hacker News - frontpage",
         "bookmarked": true,
@@ -49366,35 +49395,6 @@
         ],
         "thumbnail": null,
         "title": "New Wave Sci-Fi: 75 Best Novels of 1964\u20131983",
-        "vote": 0
-    },
-    {
-        "age": null,
-        "album": "https://apnews.com",
-        "author": "https://apnews.com",
-        "bookmarked": true,
-        "comments": [],
-        "date_created": "2024-02-29T14:50:38.554189+00:00",
-        "date_dead_since": null,
-        "date_published": "2023-11-26T08:21:07+00:00",
-        "description": "Pentagon's AI initiatives accelerate hard decisions on lethal autonomous weapons",
-        "id": 35671,
-        "language": "en",
-        "link": "https://apnews.com/article/us-military-ai-projects-0773b4937801e7a0573f44b57a9a5942",
-        "manual_status_code": 0,
-        "page_rating": 24,
-        "page_rating_contents": 66,
-        "page_rating_visits": 0,
-        "page_rating_votes": 0,
-        "permanent": false,
-        "source_url": "https://apnews.com",
-        "status_code": 403,
-        "tags": [
-            "artificial intelligence",
-            "pentagon"
-        ],
-        "thumbnail": "https://dims.apnews.com/dims4/default/af8e62f/2147483647/strip/true/crop/5063x2848+0+264/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F65%2Fbf%2F05eefe339b9b2b767f6a77200c0e%2F01a19ae6ec0b451a85cf81f10fc5ff34",
-        "title": "Pentagon's AI initiatives accelerate hard decisions on lethal autonomous weapons",
         "vote": 0
     },
     {
@@ -49455,7 +49455,7 @@
             "novak djokovic",
             "russel brand"
         ],
-        "thumbnail": "https://nypost.com/wp-content/uploads/sites/2/2023/11/newspress-collage-56u36ge4g-1701114862631.jpg?quality=75&strip=all&1701096978&w=1024",
+        "thumbnail": "https://nypost.com/wp-content/uploads/sites/2/2023/11/newspress-collage-56u36ge4g-1701114862631.jpg?quality=75&strip=all&1701096978&w=1200",
         "title": "Moderna keeps tabs on \u2018high risk\u2019 anti-vaccine celebs like Elon Musk, Novak Djokovic, Russell Brand: report",
         "vote": 0
     },
@@ -49728,7 +49728,7 @@
             "crowdfunding",
             "freedom convoy"
         ],
-        "thumbnail": "https://i.cbc.ca/1.6412463.1704735727!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_1180/windsor-police.JPG?im=Resize%3D620",
+        "thumbnail": "https://i.cbc.ca/ais/1.6412463,1704735734000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C267%2C5184%2C2916%29%3BResize%3D620",
         "title": "Windsor police officer who donated to Ottawa convoy will learn his penalty in May | CBC News",
         "vote": 0
     },
@@ -51134,7 +51134,7 @@
             "pronouns",
             "the left wing"
         ],
-        "thumbnail": "https://www.washingtonexaminer.com/wp-content/uploads/2023/10/240be69d9893b848888fadd13e783265-scaled.jpg.optimal.jpg",
+        "thumbnail": "https://www.washingtonexaminer.com/wp-content/uploads/2023/10/240be69d9893b848888fadd13e783265-scaled.jpg?resize=1024,683",
         "title": "Law requires California police to use suspect's pronouns upon release of mugshot",
         "vote": 0
     },

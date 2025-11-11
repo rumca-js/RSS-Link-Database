@@ -8285,15 +8285,15 @@
  - date_published: 2023-11-24T10:10:41+00:00
  - tags: ['dark design', 'google', 'lobbying', 'monopoly']
 
+ ## Pentagon's AI initiatives accelerate hard decisions on lethal autonomous weapons
+ - [https://apnews.com/article/us-military-ai-projects-0773b4937801e7a0573f44b57a9a5942](https://apnews.com/article/us-military-ai-projects-0773b4937801e7a0573f44b57a9a5942)
+ - date_published: 2023-11-25T15:49:50+00:00
+ - tags: ['artificial intelligence', 'pentagon']
+
  ## New Wave Sci-Fi: 75 Best Novels of 1964–1983
  - [https://www.hilobrow.com/new-wave-sci-fi](https://www.hilobrow.com/new-wave-sci-fi)
  - date_published: 2023-11-25T17:21:06+00:00
  - tags: ['books']
-
- ## Pentagon's AI initiatives accelerate hard decisions on lethal autonomous weapons
- - [https://apnews.com/article/us-military-ai-projects-0773b4937801e7a0573f44b57a9a5942](https://apnews.com/article/us-military-ai-projects-0773b4937801e7a0573f44b57a9a5942)
- - date_published: 2023-11-26T08:21:07+00:00
- - tags: ['artificial intelligence', 'pentagon']
 
  ## FBI Uses Backdoor Searches On US Citizens Without Warrants Or Probable Cause. Will Republicans Stop This Practice?
  - [https://tuta.com/blog/why-a-backdoor-is-a-security-risk](https://tuta.com/blog/why-a-backdoor-is-a-security-risk)

@@ -487,8 +487,7 @@
 
  ## As Gaza Death Toll Nears 30,000, Israel’s Isolation Grows
  - [https://www.nytimes.com/2024/02/22/world/middleeast/gaza-death-toll-israel.html](https://www.nytimes.com/2024/02/22/world/middleeast/gaza-death-toll-israel.html)
- - date_published: 2024-02-22T10:12:53+00:00
- - date_dead_since: 2025-07-03T09:43:33.395712+00:00
+ - date_published: 2024-02-22T10:04:19+00:00
 
  ## ‘Woke’ Google Gemini refuses to say pedophilia is wrong after ‘diverse’ historical images debacle: ‘Individuals cannot control who they are attracted to’
  - [https://nypost.com/2024/02/23/business/woke-google-gemini-refuses-to-say-pedophilia-is-wrong-after-diverse-historical-images-debacle-individuals-cannot-control-who-they-are-attracted-to](https://nypost.com/2024/02/23/business/woke-google-gemini-refuses-to-say-pedophilia-is-wrong-after-diverse-historical-images-debacle-individuals-cannot-control-who-they-are-attracted-to)
