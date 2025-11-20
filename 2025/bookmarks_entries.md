@@ -41,7 +41,7 @@
 
  ## Biden pardons Fauci, Milley and the Jan. 6 panel. It's a guard against potential 'revenge' by Trump
  - [https://apnews.com/article/biden-trump-fauci-milley-pardons-january-6-3cba287f89051513fb48d7ae700ae747](https://apnews.com/article/biden-trump-fauci-milley-pardons-january-6-3cba287f89051513fb48d7ae700ae747)
- - date_published: 2025-01-20T13:13:18+00:00
+ - date_published: 2025-01-20T12:13:18+00:00
  - tags: ['anthony fauci', 'joe biden']
 
  ## $500m-valued Suno hit with new copyright lawsuit from Germany’s GEMA - Music Business Worldwide
@@ -537,12 +537,12 @@
 
  ## This Jeffrey Epstein News is Crazy
  - [https://www.youtube.com/watch?v=EHL1V5iJkyY](https://www.youtube.com/watch?v=EHL1V5iJkyY)
- - date_published: 2025-07-07T14:00:22+00:00
+ - date_published: 2025-07-07T07:00:22+00:00
  - tags: ['jeffrey epstein']
 
  ## new epstein footage is a disaster
  - [https://www.youtube.com/watch?v=XWRHtp4FeFU](https://www.youtube.com/watch?v=XWRHtp4FeFU)
- - date_published: 2025-07-07T22:30:00+00:00
+ - date_published: 2025-07-07T15:30:00+00:00
  - tags: ['jeffrey epstein']
 
  - [https://www.middleeastmonitor.com/20200106-jeffrey-epstein-was-blackmailing-politicians-for-israels-mossad-new-book-claims](https://www.middleeastmonitor.com/20200106-jeffrey-epstein-was-blackmailing-politicians-for-israels-mossad-new-book-claims)

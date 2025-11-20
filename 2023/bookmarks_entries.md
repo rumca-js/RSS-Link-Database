@@ -5385,7 +5385,6 @@
  - [https://www.ft.com/content/2710193e-0188-4269-ba56-166c6effa234](https://www.ft.com/content/2710193e-0188-4269-ba56-166c6effa234)
  - date_published: 2023-06-19T22:11:39+00:00
  - tags: ['jeffrey epstein', 'manufacturing comsent']
- - date_dead_since: 2025-06-12T18:44:13.928153+00:00
 
  ## Don't Use Mocks
  - [https://joeblu.com/blog/2023_06_mocks](https://joeblu.com/blog/2023_06_mocks)
@@ -7192,7 +7191,6 @@
  - [https://www.ft.com/content/adf1cbae-4217-4d7d-9271-8bec41a56fb4](https://www.ft.com/content/adf1cbae-4217-4d7d-9271-8bec41a56fb4)
  - date_published: 2023-08-30T01:20:15.336190+00:00
  - tags: ['anonymity', 'big brother', 'corporatocracy', 'india', 'privacy', 'surveillance', 'tech control']
- - date_dead_since: 2025-07-08T06:08:56.840907+00:00
 
  ## Amiga Systems Programming in 2023
  - [https://www.markround.com/blog/2023/08/30/amiga-systems-programming-in-2023](https://www.markround.com/blog/2023/08/30/amiga-systems-programming-in-2023)
@@ -7947,7 +7945,6 @@
  - [https://www.ft.com/content/7b9505ac-94c3-4688-a84d-cbecbf4f1f3b](https://www.ft.com/content/7b9505ac-94c3-4688-a84d-cbecbf4f1f3b)
  - date_published: 2023-10-13T10:00:29+00:00
  - tags: ['jeffrey epstein', 'jes staley']
- - date_dead_since: 2025-07-04T17:37:59.697244+00:00
 
  ## Aurora Store | F-Droid - Free and Open Source Android App Repository
  - [https://f-droid.org/packages/com.aurora.store](https://f-droid.org/packages/com.aurora.store)
