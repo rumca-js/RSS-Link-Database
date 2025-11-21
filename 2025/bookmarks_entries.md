@@ -567,17 +567,17 @@
 
  ## The Epstein Disaster of 2025
  - [https://www.youtube.com/watch?v=y5r0K3AbXvg](https://www.youtube.com/watch?v=y5r0K3AbXvg)
- - date_published: 2025-07-09T05:43:34+00:00
+ - date_published: 2025-07-08T22:43:34+00:00
  - tags: ['jeffrey epstein']
 
  ## the story keeps changing
  - [https://www.youtube.com/watch?v=Gbf6C5XWK7w](https://www.youtube.com/watch?v=Gbf6C5XWK7w)
- - date_published: 2025-07-09T21:47:22+00:00
+ - date_published: 2025-07-09T14:47:22+00:00
  - tags: ['jeffrey epstein']
 
  ## Why is Food SO Expensive Right Now?
  - [https://www.youtube.com/watch?v=wyo1u9WxUG4](https://www.youtube.com/watch?v=wyo1u9WxUG4)
- - date_published: 2025-07-10T12:02:01+00:00
+ - date_published: 2025-07-10T05:02:01+00:00
  - tags: ['corporatocracy']
 
  ## cnn.com breaking news
@@ -587,7 +587,7 @@
 
  ## the worst coverup of my lifetime
  - [https://www.youtube.com/watch?v=fyZA2KKmRXw](https://www.youtube.com/watch?v=fyZA2KKmRXw)
- - date_published: 2025-07-11T07:43:52+00:00
+ - date_published: 2025-07-11T00:43:52+00:00
  - tags: ['jeffrey epstein']
 
  ## Metadata Shows the FBI’s ‘Raw’ Jeffrey Epstein Prison Video Was Likely Modified
@@ -597,7 +597,7 @@
 
  ## Jeffrey Epstein News Just Got Crazier
  - [https://www.youtube.com/watch?v=YKBw3W4oDoo](https://www.youtube.com/watch?v=YKBw3W4oDoo)
- - date_published: 2025-07-13T23:00:29+00:00
+ - date_published: 2025-07-13T16:00:29+00:00
  - tags: ['jeffrey epstein']
 
  ## The FBI's Jeffrey Epstein Prison Video Had Nearly 3 Minutes Cut Out

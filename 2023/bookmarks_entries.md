@@ -5436,6 +5436,11 @@
  - date_published: 2023-06-20T18:00:28+00:00
  - tags: ['covid', 'covid mandates', 'vaccine']
 
+ ## Email proves Microsoft's Activision bid is designed to eliminate Playstation
+ - [https://www.axios.com/2023/06/20/exhibit-k-microsoft-activision](https://www.axios.com/2023/06/20/exhibit-k-microsoft-activision)
+ - date_published: 2023-06-20T20:22:15+00:00
+ - tags: ['dark design', 'microsoft']
+
  ## Ancient Demons Behind The Gay Movement
  - [https://www.youtube.com/watch?v=HUJU-VvvU0E](https://www.youtube.com/watch?v=HUJU-VvvU0E)
  - date_published: 2023-06-21T00:00:00+00:00
@@ -5475,11 +5480,6 @@
  - [https://landchad.net](https://landchad.net)
  - date_published: 2023-06-21T14:12:09+00:00
  - tags: ['selfhost']
-
- ## Email proves Microsoft's Activision bid is designed to eliminate Playstation
- - [https://www.axios.com/2023/06/20/exhibit-k-microsoft-activision](https://www.axios.com/2023/06/20/exhibit-k-microsoft-activision)
- - date_published: 2023-06-21T15:09:07+00:00
- - tags: ['dark design', 'microsoft']
 
  ## Peter Mandelson stayed at Jeffrey Epstein's New York home while he was in jail for sex crimes
  - [https://www.dailymail.co.uk/news/article-12218843/Peter-Mandelson-stayed-Jeffrey-Epsteins-New-York-home-jail-sex-crimes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-12218843/Peter-Mandelson-stayed-Jeffrey-Epsteins-New-York-home-jail-sex-crimes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -5833,6 +5833,11 @@
  - date_published: 2023-07-06T05:36:31+00:00
  - tags: ['covid', 'pfizer', 'vaccine']
 
+ ## All the red flags in the Threads privacy policy
+ - [https://qz.com/threads-meta-delayed-launch-eu-privacy-policy-concerns-1850609340](https://qz.com/threads-meta-delayed-launch-eu-privacy-policy-concerns-1850609340)
+ - date_published: 2023-07-06T10:02:00+00:00
+ - tags: ['facebook', 'mark zuckerberg', 'meta']
+
  ## France passes bill to allow police remotely activate phone camera, microphone
  - [https://gazettengr.com/france-passes-bill-to-allow-police-remotely-activate-phone-camera-microphone-spy-on-people](https://gazettengr.com/france-passes-bill-to-allow-police-remotely-activate-phone-camera-microphone-spy-on-people)
  - date_published: 2023-07-06T10:29:53+00:00
@@ -5842,11 +5847,6 @@
  - [https://newpipe.net/blog/pinned/announcement/newpipe-net-dmca-google-search](https://newpipe.net/blog/pinned/announcement/newpipe-net-dmca-google-search)
  - date_published: 2023-07-07T00:00:00+00:00
  - tags: ['algorithms', 'censorship', 'corporatocracy', 'dmca', 'google', 'search engines', 'technofeudalism', 'youtube']
-
- ## All the red flags in the Threads privacy policy
- - [https://qz.com/threads-meta-delayed-launch-eu-privacy-policy-concerns-1850609340](https://qz.com/threads-meta-delayed-launch-eu-privacy-policy-concerns-1850609340)
- - date_published: 2023-07-07T00:22:21+00:00
- - tags: ['facebook', 'mark zuckerberg', 'meta']
 
  ## GitHub - outcoldman/hackernews-personal-blogs: List of Public Blogs of Hacker News users
  - [https://github.com/outcoldman/hackernews-personal-blogs/tree/master](https://github.com/outcoldman/hackernews-personal-blogs/tree/master)
@@ -5963,7 +5963,6 @@
  - [https://www.hachettebookgroup.com/titles/jeff-goodell/the-heat-will-kill-you-first/9780316497572/?lens=little-brown](https://www.hachettebookgroup.com/titles/jeff-goodell/the-heat-will-kill-you-first/9780316497572/?lens=little-brown)
  - date_published: 2023-07-12T05:43:05+00:00
  - tags: ['climate change']
- - date_dead_since: 2025-07-12T16:48:58.528910+00:00
 
  ## Stop AI 'crushing' music, urges leading industry body: "Taking other people’s work without their permission contravenes basic principles of property rights" | MusicRadar
  - [https://www.musicradar.com/news/stop-ai-crushing-music](https://www.musicradar.com/news/stop-ai-crushing-music)
@@ -6585,6 +6584,11 @@
  - date_published: 2023-07-31T00:00:00+00:00
  - tags: ['corruption', 'ukraine', 'war']
 
+ ## Companies with good ESG scores pollute as much as low-rated rivals
+ - [https://www.ft.com/content/b9582d62-cc6f-4b76-b0f9-5b37cf15dce4](https://www.ft.com/content/b9582d62-cc6f-4b76-b0f9-5b37cf15dce4)
+ - date_published: 2023-07-31T04:00:33+00:00
+ - tags: ['climate change', 'esg']
+
  ## Meta Forced to Reveal Anonymous Facebook User's Identity Over Defamatory Posts
  - [https://stackdiary.com/meta-forced-to-reveal-anonymous-facebook-users-identity](https://stackdiary.com/meta-forced-to-reveal-anonymous-facebook-users-identity)
  - date_published: 2023-07-31T09:35:49+00:00
@@ -6670,12 +6674,6 @@
  - date_published: 2023-08-02T17:10:58+00:00
  - tags: ['apple', 'hypocrisy', 'iphone']
 
- ## Companies with good ESG scores pollute as much as low-rated rivals
- - [https://www.ft.com/content/b9582d62-cc6f-4b76-b0f9-5b37cf15dce4](https://www.ft.com/content/b9582d62-cc6f-4b76-b0f9-5b37cf15dce4)
- - date_published: 2023-08-02T17:16:31+00:00
- - tags: ['climate change', 'esg']
- - date_dead_since: 2025-07-09T20:55:59.779683+00:00
-
  ## Patrick Bet-David Deconstructs BlackRock and ESG Ratings
  - [https://www.youtube.com/watch?v=Mvh4o6x3-GQ](https://www.youtube.com/watch?v=Mvh4o6x3-GQ)
  - date_published: 2023-08-03T00:00:00+00:00
@@ -6751,11 +6749,6 @@
  - [https://heather-buchel.com/blog/2023/07/just-normal-web-things](https://heather-buchel.com/blog/2023/07/just-normal-web-things)
  - date_published: 2023-08-05T16:07:40+00:00
  - tags: ['web10', 'web20', 'web30']
-
- ## I do not use a debugger (2016)
- - [https://lemire.me/blog/2016/06/21/i-do-not-use-a-debugger](https://lemire.me/blog/2016/06/21/i-do-not-use-a-debugger)
- - date_published: 2023-08-05T19:00:39+00:00
- - tags: ['debugger', 'programming']
 
  ## Goodhart's law - Wikipedia
  - [https://en.wikipedia.org/wiki/Goodhart%27s_law](https://en.wikipedia.org/wiki/Goodhart%27s_law)

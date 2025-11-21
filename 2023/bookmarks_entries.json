@@ -26618,14 +26618,14 @@
         "language": "en-US",
         "link": "https://www.nthbrock.com/posts/americaless-internet",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 141,
         "source_url": "https://hnrss.org/frontpage",
-        "status_code": 200,
+        "status_code": 603,
         "tags": [
             "centralization"
         ],
@@ -30381,14 +30381,14 @@
         "language": "en-US",
         "link": "https://abcnews.go.com/International/wireStory/former-bytedance-executive-chinese-communist-party-tracked-hong-99894243",
         "manual_status_code": 0,
-        "page_rating": 0,
-        "page_rating_contents": 0,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 9,
         "source_url": "http://feeds.abcnews.com/abcnews/topstories",
-        "status_code": 404,
+        "status_code": 614,
         "tags": [
             "bytedance",
             "china",
@@ -30444,7 +30444,7 @@
         "link": "https://en.wikipedia.org/wiki/Sisters_of_Perpetual_Indulgence",
         "manual_status_code": 0,
         "page_rating": 29,
-        "page_rating_contents": 81,
+        "page_rating_contents": 82,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -30454,7 +30454,7 @@
             "christianophobia",
             "the left wing"
         ],
-        "thumbnail": null,
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Life_Ball_2013_-_magenta_carpet_O.S.P.I_01.jpg/1200px-Life_Ball_2013_-_magenta_carpet_O.S.P.I_01.jpg",
         "title": "Sisters of Perpetual Indulgence - Wikipedia",
         "vote": 0
     },
@@ -30562,14 +30562,14 @@
         "language": "en-US",
         "link": "https://www.wsj.com/articles/cuba-to-host-secret-chinese-spy-base-focusing-on-u-s-b2fed0e0",
         "manual_status_code": 0,
-        "page_rating": 0,
-        "page_rating_contents": 0,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 362,
         "source_url": "https://feeds.a.dj.com/rss/RSSWorldNews.xml",
-        "status_code": 401,
+        "status_code": 614,
         "tags": [
             "america",
             "china",
@@ -30871,8 +30871,8 @@
         "language": "en-US",
         "link": "https://bjornpagen.com/en_US/desktop%20linux%20is%20insecure",
         "manual_status_code": 0,
-        "page_rating": 0,
-        "page_rating_contents": 0,
+        "page_rating": 22,
+        "page_rating_contents": 60,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -31109,13 +31109,13 @@
         "language": "en-US",
         "link": "https://dailycaller.com/2023/06/12/trans-influencer-topless-white-house-biden-pride-month-celebration",
         "manual_status_code": 0,
-        "page_rating": 24,
-        "page_rating_contents": 66,
+        "page_rating": 22,
+        "page_rating_contents": 60,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://dailycaller.com",
-        "status_code": 403,
+        "status_code": 614,
         "tags": [
             "joe biden",
             "propaganda",
@@ -31606,7 +31606,7 @@
         "tags": [
             "search engines"
         ],
-        "thumbnail": "https://cdn.mos.cms.futurecdn.net/PdBL6jKBjb6w3Rz4wDwVJW.jpg",
+        "thumbnail": "https://cdn.mos.cms.futurecdn.net/PdBL6jKBjb6w3Rz4wDwVJW-2560-80.jpg",
         "title": "The Reddit blackout has left Google barren and full of holes \u2013 TechRadar",
         "vote": 0
     },
@@ -31743,14 +31743,14 @@
         "language": "en-US",
         "link": "https://www.wsj.com/articles/world-economic-forum-paper-reduce-cars-by-2050-davos-private-jets-climate-f0bb64b9",
         "manual_status_code": 0,
-        "page_rating": 0,
-        "page_rating_contents": 0,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 362,
         "source_url": "https://feeds.a.dj.com/rss/RSSWorldNews.xml",
-        "status_code": 401,
+        "status_code": 614,
         "tags": [
             "climate change",
             "davos",
@@ -31847,7 +31847,7 @@
             "covid",
             "lockdown"
         ],
-        "thumbnail": "https://i.guim.co.uk/img/media/627970f037c8856c86bba6f3b718ed6286647d53/0_172_5331_3198/master/5331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjMucG5n&enable=upscale&s=4b08efa21f0c0353696fbb1903f055d6",
+        "thumbnail": "https://i.guim.co.uk/img/media/627970f037c8856c86bba6f3b718ed6286647d53/0_172_5331_3198/master/5331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjMucG5n&enable=upscale&s=f5a82183d14821ee086991652c30cee6",
         "title": "Long-awaited Partygate report details how Boris Johnson misled parliament",
         "vote": 0
     },
@@ -32136,7 +32136,7 @@
         "tags": [
             "ukraine"
         ],
-        "thumbnail": "https://v.wpimg.pl/ODIyNDFlYCUoGzh3aRdtMGtDbC0vTmNmPFt0ZmldfXR5AX5rIAUjITscPitoCz0xORg5NGgcI2soCSdrMF1gICAKPignFWAhJBsrIGkNfyZ5GH52dUEud38fY3AiDippcRx8J2tce3R6HHZ2dFh-ISxbMw",
+        "thumbnail": "https://v.wpimg.pl/ZDZmZDlldSU7Dyx3Qxd4MHhXeC0FTnZmL09gZkNdY3ZqFXUiBQA_Nj8dNWoLHi80OxoqahwAdSUqBHUyXUM-LSkdNiUVQz8pOAg-a1tfYiZtXW9zQV5qc2xAbnwIVHclYw9vaVkJaiBsCz59CVU4cHgQ",
         "title": "Korupcja przy eksporcie zbo\u017ca z Ukrainy. Milion dolar\u00f3w \u0142ap\u00f3wek miesi\u0119cznie - Money.pl",
         "vote": 0
     },
@@ -32155,7 +32155,7 @@
         "link": "https://ithardware.pl/aktualnosci/wef_wzywa_do_75_redukcji_wlasnosci_prywatnych_samochodow-27875.html",
         "manual_status_code": 0,
         "page_rating": 32,
-        "page_rating_contents": 91,
+        "page_rating_contents": 90,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -32405,7 +32405,7 @@
             "racism",
             "science is dead"
         ],
-        "thumbnail": "https://nypost.com/wp-content/uploads/sites/2/2023/06/NYPICHPDPICT000012949800.jpg?quality=75&strip=all&w=1024",
+        "thumbnail": "https://nypost.com/wp-content/uploads/sites/2/2023/06/NYPICHPDPICT000012949800.jpg?quality=75&strip=all&w=1200",
         "title": "BMI standards are 'racist\u2019: American Medical Association",
         "vote": 0
     },
@@ -32493,8 +32493,38 @@
             "covid mandates",
             "vaccine"
         ],
-        "thumbnail": "https://www.washingtonexaminer.com/wp-content/uploads/2023/11/091622-weekly-4-scaled.jpg.optimal.jpg",
+        "thumbnail": "https://www.washingtonexaminer.com/wp-content/uploads/2023/11/091622-weekly-4-scaled.jpg?resize=1024,683",
         "title": "New emails show COVID vaccine mandates were based on a lie | Washington Examiner",
+        "vote": 0
+    },
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
+        "date_created": "2024-02-29T14:51:17.753999+00:00",
+        "date_dead_since": null,
+        "date_published": "2023-06-20T20:22:15+00:00",
+        "description": "<p>Article URL: <a href=\"https://www.axios.com/2023/06/20/exhibit-k-microsoft-activision\">https://www.axios.com/2023/06/20/exhibit-k-microsoft-activision</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=36419461\">https://news.ycombinator.com/item?id=36419461</a></p>\n<p>Points: 17</p>\n<p># Comments: 2</p>",
+        "id": 36211,
+        "language": "en-US",
+        "link": "https://www.axios.com/2023/06/20/exhibit-k-microsoft-activision",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 141,
+        "source_url": "https://hnrss.org/frontpage",
+        "status_code": 200,
+        "tags": [
+            "dark design",
+            "microsoft"
+        ],
+        "thumbnail": "https://images.axios.com/i5nuFSz6ohl_cas6cFuBdL886Go=/0x0:1920x1080/1366x768/2023/06/20/1687292137074.png",
+        "title": "Email proves Microsoft's Activision bid is designed to eliminate Playstation",
         "vote": 0
     },
     {
@@ -32549,7 +32579,7 @@
         "tags": [
             "racism"
         ],
-        "thumbnail": "https://nypost.com/wp-content/uploads/sites/2/2023/06/NYPICHPDPICT000012995878.jpg?quality=75&strip=all&w=1024",
+        "thumbnail": "https://nypost.com/wp-content/uploads/sites/2/2023/06/NYPICHPDPICT000012995878.jpg?quality=75&strip=all&w=1200",
         "title": "Why Stockton Rush didn't hire '50-year-old white guys' for Titanic sub tours",
         "vote": 0
     },
@@ -32725,36 +32755,6 @@
         ],
         "thumbnail": "https://landchad.net/favicon.ico",
         "title": "LandChad.net",
-        "vote": 0
-    },
-    {
-        "age": null,
-        "album": null,
-        "author": null,
-        "bookmarked": true,
-        "comments": [],
-        "date_created": "2024-02-29T14:51:17.753999+00:00",
-        "date_dead_since": null,
-        "date_published": "2023-06-21T15:09:07+00:00",
-        "description": "<p>Article URL: <a href=\"https://www.axios.com/2023/06/20/exhibit-k-microsoft-activision\">https://www.axios.com/2023/06/20/exhibit-k-microsoft-activision</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=36419461\">https://news.ycombinator.com/item?id=36419461</a></p>\n<p>Points: 17</p>\n<p># Comments: 2</p>",
-        "id": 36211,
-        "language": "en-US",
-        "link": "https://www.axios.com/2023/06/20/exhibit-k-microsoft-activision",
-        "manual_status_code": 0,
-        "page_rating": 19,
-        "page_rating_contents": 50,
-        "page_rating_visits": 0,
-        "page_rating_votes": 0,
-        "permanent": false,
-        "source__id": 141,
-        "source_url": "https://hnrss.org/frontpage",
-        "status_code": 403,
-        "tags": [
-            "dark design",
-            "microsoft"
-        ],
-        "thumbnail": "https://images.axios.com/i5nuFSz6ohl_cas6cFuBdL886Go=/0x0:1920x1080/1366x768/2023/06/20/1687292137074.png",
-        "title": "Email proves Microsoft's Activision bid is designed to eliminate Playstation",
         "vote": 0
     },
     {
@@ -32964,7 +32964,7 @@
             "instagram",
             "online news act"
         ],
-        "thumbnail": "https://i.cbc.ca/1.6626014.1742758960!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_1180/meta-facebook.JPG?im=Resize%3D620",
+        "thumbnail": "https://i.cbc.ca/ais/1.6626014,1742758974000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C173%2C5494%2C3090%29%3BResize%3D620",
         "title": "Canadians will no longer have access to news content on Facebook and Instagram",
         "vote": 0
     },
@@ -33158,13 +33158,13 @@
         "language": "pl",
         "link": "https://tvn24.pl/biznes/ze-swiata/lotnictwo-prywatne-odrzutowce-generuja-10-razy-wiecej-gazow-cieplarnianych-niz-loty-rejsowe-raport-amerykanskiego-instytutu-studiow-politycznych-7189114",
         "manual_status_code": 0,
-        "page_rating": 32,
-        "page_rating_contents": 90,
+        "page_rating": 22,
+        "page_rating_contents": 60,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://tvn24.pl",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "climate change",
             "global warming"
@@ -33364,14 +33364,14 @@
         "language": "en-US",
         "link": "https://doubleagent.net/2023/05/21/a-car-battery-monitor-tracking-your-location",
         "manual_status_code": 0,
-        "page_rating": 0,
-        "page_rating_contents": 0,
+        "page_rating": 22,
+        "page_rating_contents": 60,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 141,
         "source_url": "https://hnrss.org/frontpage",
-        "status_code": 404,
+        "status_code": 614,
         "tags": [
             "android",
             "anonymity",
@@ -33429,13 +33429,13 @@
         "language": "en",
         "link": "https://www.reuters.com/investigates/special-report/usa-slavery-lawmakers",
         "manual_status_code": 0,
-        "page_rating": 30,
-        "page_rating_contents": 86,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.reuters.com",
-        "status_code": 200,
+        "status_code": 614,
         "tags": [
             "racism"
         ],
@@ -33679,7 +33679,7 @@
             "link aggregation",
             "pocket"
         ],
-        "thumbnail": "https://cdn.mos.cms.futurecdn.net/8nu6kAQuNmAwKHUy4rucTF.jpg",
+        "thumbnail": "https://cdn.mos.cms.futurecdn.net/8nu6kAQuNmAwKHUy4rucTF-1920-80.jpg",
         "title": "Mozilla wants Pocket users to switch to Firefox accounts, which may not be a bad thing",
         "vote": 0
     },
@@ -33800,7 +33800,7 @@
             "germany",
             "religion"
         ],
-        "thumbnail": "https://i.guim.co.uk/img/media/c9596fad63c43192b217d38c7b5c9bbf173d26cd/0_315_4764_2859/master/4764.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjMucG5n&enable=upscale&s=597e93506c0a9c9055512e17771c29ed",
+        "thumbnail": "https://i.guim.co.uk/img/media/c9596fad63c43192b217d38c7b5c9bbf173d26cd/0_315_4764_2859/master/4764.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjMucG5n&enable=upscale&s=b873c307491337afb334f2cdbbe04d03",
         "title": "German Catholic church \u2018dying painful death\u2019 as 500,000 leave in a year",
         "vote": 0
     },
@@ -33946,19 +33946,19 @@
         "language": "en-US",
         "link": "https://pubs.acs.org/doi/10.1021/acs.est.3c01942",
         "manual_status_code": 0,
-        "page_rating": 19,
-        "page_rating_contents": 50,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 141,
         "source_url": "https://hnrss.org/frontpage",
-        "status_code": 403,
+        "status_code": 200,
         "tags": [
             "microplastic",
             "pollution"
         ],
-        "thumbnail": null,
+        "thumbnail": "https://pubs.acs.org/cms/10.1021/acs.est.3c01942/asset/images/acs.est.3c01942.social.jpeg_v03",
         "title": "Microwaved plastic containers release microplastics into food",
         "vote": 0
     },
@@ -34080,7 +34080,7 @@
             "storm-0558",
             "vulnerability"
         ],
-        "thumbnail": "https://hackread.com/wp-content/uploads/2023/09/chinese-storm-0558-breach-govt-emails-microsoft.jpg",
+        "thumbnail": "https://hackread.com/wp-content/uploads/2023/09/chinese-storm-0558-breach-govt-emails-microsoft-1024x597.jpg",
         "title": "Chinese Group Storm-0558 Hacked European Govt Emails, Microsoft",
         "vote": 0
     },
@@ -34137,7 +34137,7 @@
         "tags": [
             "artificial intelligence"
         ],
-        "thumbnail": "https://opengraph.githubassets.com/7ce63c8d767f5f257866d6dbdea75d1d01f54eb4671a613c62f6c742ac6fc6a2/joshpxyne/gpt-migrate",
+        "thumbnail": "https://opengraph.githubassets.com/6cce575843d6757b67c9d82bd2ae8509e8e8071eb6f506430d8f55388ee36db4/joshpxyne/gpt-migrate",
         "title": "GPT-Migrate converts repos from one lang/framework to another",
         "vote": 0
     },
@@ -34166,7 +34166,7 @@
         "tags": [
             "solar panels"
         ],
-        "thumbnail": "https://opengraph.githubassets.com/1df89bcf2647fa0954ed342a6690e6ca82ab9fc2a837ce8483caa589d12a8769/jonatron/randomstuff",
+        "thumbnail": "https://opengraph.githubassets.com/76df45ddf68d806ca87effb06c4e360d995e8b95576eb231ec5d5cb248164b82/jonatron/randomstuff",
         "title": "UK retail electricity prices hit -19p/kWh today",
         "vote": 0
     },
@@ -34475,7 +34475,7 @@
             "inequality",
             "the left wing"
         ],
-        "thumbnail": "https://nypost.com/wp-content/uploads/sites/2/2023/07/NYPICHPDPICT000013590485.jpg?quality=75&strip=all&w=1024",
+        "thumbnail": "https://nypost.com/wp-content/uploads/sites/2/2023/07/NYPICHPDPICT000013590485.jpg?quality=75&strip=all&w=1200",
         "title": "Gunman arrested for Philadelphia mass shooting that left 5 dead is BLM activist who wore women's clothes",
         "vote": 0
     },
@@ -34704,14 +34704,14 @@
         "language": "en-US",
         "link": "https://www.wsj.com/articles/a-key-ruling-against-social-media-censorship-missouri-v-biden-government-covid-9b457364",
         "manual_status_code": 0,
-        "page_rating": 0,
-        "page_rating_contents": 0,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 362,
         "source_url": "https://feeds.a.dj.com/rss/RSSWorldNews.xml",
-        "status_code": 401,
+        "status_code": 614,
         "tags": [
             "big brother",
             "censorship",
@@ -34880,6 +34880,37 @@
         "author": null,
         "bookmarked": true,
         "comments": [],
+        "date_created": "2024-02-29T14:51:12.841928+00:00",
+        "date_dead_since": null,
+        "date_published": "2023-07-06T10:02:00+00:00",
+        "description": "<p>Article URL: <a href=\"https://qz.com/threads-meta-delayed-launch-eu-privacy-policy-concerns-1850609340\">https://qz.com/threads-meta-delayed-launch-eu-privacy-policy-concerns-1850609340</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=36625270\">https://news.ycombinator.com/item?id=36625270</a></p>\n<p>Points: 41</p>\n<p># Comments: 13</p>",
+        "id": 36146,
+        "language": "en-US",
+        "link": "https://qz.com/threads-meta-delayed-launch-eu-privacy-policy-concerns-1850609340",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 141,
+        "source_url": "https://hnrss.org/frontpage",
+        "status_code": 200,
+        "tags": [
+            "facebook",
+            "mark zuckerberg",
+            "meta"
+        ],
+        "thumbnail": "https://qz.com/cdn-cgi/image/width=300,quality=85,format=auto/https://assets.qz.com/media/c445c5be6174f61351ec836896dca811.jpg",
+        "title": "All the red flags in the Threads privacy policy",
+        "vote": 0
+    },
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
         "date_created": "2024-02-29T14:51:13.020228+00:00",
         "date_dead_since": null,
         "date_published": "2023-07-06T10:29:53+00:00",
@@ -34948,37 +34979,6 @@
         "author": null,
         "bookmarked": true,
         "comments": [],
-        "date_created": "2024-02-29T14:51:12.841928+00:00",
-        "date_dead_since": null,
-        "date_published": "2023-07-07T00:22:21+00:00",
-        "description": "<p>Article URL: <a href=\"https://qz.com/threads-meta-delayed-launch-eu-privacy-policy-concerns-1850609340\">https://qz.com/threads-meta-delayed-launch-eu-privacy-policy-concerns-1850609340</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=36625270\">https://news.ycombinator.com/item?id=36625270</a></p>\n<p>Points: 41</p>\n<p># Comments: 13</p>",
-        "id": 36146,
-        "language": "en-US",
-        "link": "https://qz.com/threads-meta-delayed-launch-eu-privacy-policy-concerns-1850609340",
-        "manual_status_code": 0,
-        "page_rating": 32,
-        "page_rating_contents": 90,
-        "page_rating_visits": 0,
-        "page_rating_votes": 0,
-        "permanent": false,
-        "source__id": 141,
-        "source_url": "https://hnrss.org/frontpage",
-        "status_code": 200,
-        "tags": [
-            "facebook",
-            "mark zuckerberg",
-            "meta"
-        ],
-        "thumbnail": "https://qz.com/cdn-cgi/image/width=300,quality=85,format=auto/https://assets.qz.com/media/c445c5be6174f61351ec836896dca811.jpg",
-        "title": "All the red flags in the Threads privacy policy",
-        "vote": 0
-    },
-    {
-        "age": null,
-        "album": null,
-        "author": null,
-        "bookmarked": true,
-        "comments": [],
         "date_created": "2024-02-29T14:51:12.775405+00:00",
         "date_dead_since": null,
         "date_published": "2023-07-07T06:16:01+00:00",
@@ -34998,7 +34998,7 @@
             "blog",
             "project"
         ],
-        "thumbnail": "https://opengraph.githubassets.com/38919cba90654e6aceec5c833d38cd74228f483c19f1918e6e81b7a02a45dcf7/outcoldman/hackernews-personal-blogs",
+        "thumbnail": "https://opengraph.githubassets.com/a12d46d93faba5cdc9d4e004f7b443b9d3294b67f1db62912700fecaaf516f47/outcoldman/hackernews-personal-blogs",
         "title": "GitHub - outcoldman/hackernews-personal-blogs: List of Public Blogs of Hacker News users",
         "vote": 0
     },
@@ -35046,14 +35046,14 @@
         "language": "en-US",
         "link": "https://projecteink.com/pages/about",
         "manual_status_code": 0,
-        "page_rating": 0,
-        "page_rating_contents": 0,
+        "page_rating": 22,
+        "page_rating_contents": 60,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 141,
         "source_url": "https://hnrss.org/frontpage",
-        "status_code": 404,
+        "status_code": 614,
         "tags": [
             "project",
             "selfhost"
@@ -35294,7 +35294,7 @@
             "feminism",
             "propaganda"
         ],
-        "thumbnail": "https://cdn.kobieta.onet.pl/1/smsk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy80ZDEzNjVkYjQyMzQ3M2FiOTg4NWE5N2VlMmVhNzZhNi5qcGeTlQMAzQEGzRK8zQqJkwXNBLDNAnaVB9mBaHR0cHM6Ly9jZG4ua29iaWV0YS5vbmV0LnBsLzEvU0JVazlrMWFIUjBjSE02THk5alpHNHVhMjlpYVdWMFlTNXZibVYwTG5Cc0wybHRaeTlzYjJkdlgyOXVaWFJmYTI5aWFXVjBZUzV3Ym1lUmxRSUFaTVBEM2dBQ29UQUhvVEVFCMIA3gACoTAHoTEE",
+        "thumbnail": "https://cdn.kobieta.onet.pl/1/IS8k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy80ZDEzNjVkYjQyMzQ3M2FiOTg4NWE5N2VlMmVhNzZhNi5qcGeTlQMAzQEGzRK8zQqJkwXNCWDNBOyVB9mBaHR0cHM6Ly9jZG4ua29iaWV0YS5vbmV0LnBsLzEvU0JVazlrMWFIUjBjSE02THk5alpHNHVhMjlpYVdWMFlTNXZibVYwTG5Cc0wybHRaeTlzYjJkdlgyOXVaWFJmYTI5aWFXVjBZUzV3Ym1lUmxRSUFaTVBEM2dBQ29UQUhvVEVFCMIA3gACoTAHoTEE",
         "title": "Zdradzaj\u0105 partner\u00f3w na urlopie. M\u00f3wi\u0105, \u017ce potem s\u0105 lepszymi \u017conami                 - Kobieta",
         "vote": 0
     },
@@ -35637,24 +35637,24 @@
         "bookmarked": true,
         "comments": [],
         "date_created": "2024-02-29T14:51:11.166913+00:00",
-        "date_dead_since": "2025-07-12T16:48:58.528910+00:00",
+        "date_dead_since": null,
         "date_published": "2023-07-12T05:43:05+00:00",
         "description": "The Heat Will Kill You First by Jeff Goodell | Hachette Book Group",
         "id": 36124,
         "language": "en-US",
         "link": "https://www.hachettebookgroup.com/titles/jeff-goodell/the-heat-will-kill-you-first/9780316497572/?lens=little-brown",
         "manual_status_code": 0,
-        "page_rating": 0,
-        "page_rating_contents": 0,
+        "page_rating": 30,
+        "page_rating_contents": 86,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "https://www.hachettebookgroup.com",
-        "status_code": 404,
+        "status_code": 200,
         "tags": [
             "climate change"
         ],
-        "thumbnail": "https://www.hachettebookgroup.com/wp-content/uploads/2023/09/9780316497572-1.jpg",
+        "thumbnail": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvd3d3LmhhY2hldHRlYm9va2dyb3VwLmNvbVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAxN1wvMDlcL2Nyb3BwZWQtaGFjaGV0dGUtbG9nbzEucG5nIiwidHh0IjoiSGFjaGV0dGUgQm9vayBHcm91cCIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxNTU2NzkyMjR9.3dvkqiVe4zqlR4YFpOs4b_FdDGY8HQWvoDSFz5gRzk0MQ",
         "title": "The Heat Will Kill You First by Jeff Goodell | Hachette Book Group",
         "vote": 0
     },
@@ -35682,7 +35682,7 @@
         "tags": [
             "artificial intelligence"
         ],
-        "thumbnail": "https://cdn.mos.cms.futurecdn.net/DJNqh2GYzZa2aT4Cdcec48.jpg",
+        "thumbnail": "https://cdn.mos.cms.futurecdn.net/DJNqh2GYzZa2aT4Cdcec48-2560-80.jpg",
         "title": "Stop AI 'crushing' music, urges leading industry body: \"Taking other people\u2019s work without their permission contravenes basic principles of property rights\" | MusicRadar",
         "vote": 0
     },
@@ -36040,7 +36040,7 @@
             "climate change",
             "depopulation"
         ],
-        "thumbnail": "https://nypost.com/wp-content/uploads/sites/2/2023/07/harris.jpg?quality=75&strip=all&1689382009&w=1024",
+        "thumbnail": "https://nypost.com/wp-content/uploads/sites/2/2023/07/harris.jpg?quality=75&strip=all&1689382009&w=1200",
         "title": "Kamala Harris says US must \u2018reduce population\u2019 to fight climate change in latest gaffe",
         "vote": 0
     },
@@ -36098,7 +36098,7 @@
             "project",
             "rss"
         ],
-        "thumbnail": "https://opengraph.githubassets.com/593b94b710465c2b6ab03f5e61b23d2db9cf62456855e412e973f8e74d3358c7/DIYgod/RSSHub",
+        "thumbnail": "https://opengraph.githubassets.com/54abc2d8e25ee24add8494def4cd0fa06555d1b13c50f903417ed2c7ecdd1b66/DIYgod/RSSHub",
         "title": "GitHub - DIYgod/RSSHub: \ud83c\udf70 Everything is RSSible",
         "vote": 0
     },
@@ -36144,8 +36144,8 @@
         "language": "en-US",
         "link": "https://thepeoplesvoice.tv/nobel-prize-winning-scientist-climate-crisis-is-a-hoax-to-depopulate-the-planet",
         "manual_status_code": 0,
-        "page_rating": 32,
-        "page_rating_contents": 91,
+        "page_rating": 22,
+        "page_rating_contents": 60,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -36186,7 +36186,7 @@
             "selfhost",
             "static site"
         ],
-        "thumbnail": "https://opengraph.githubassets.com/c05b4a0a2a77ec449825deb49bd30bb4f47ca0d7fbd25520ae55dcbc2ba0eefb/All-About-Berlin/ursus",
+        "thumbnail": "https://opengraph.githubassets.com/a727fc3e7af5eb5907d86acf9ea162e7ddaf13669df3bad5a3b9ac88a203f69c/All-About-Berlin/ursus",
         "title": "GitHub - nicbou/ursus: Static site generator for All About Berlin",
         "vote": 0
     },
@@ -36393,7 +36393,7 @@
         "tags": [
             "programming"
         ],
-        "thumbnail": "https://opengraph.githubassets.com/3578b61c7ad596db563739dfb19303b4bed8461b6a2e9318462a8aeaf0e322fc/go-task/task",
+        "thumbnail": "https://opengraph.githubassets.com/13100c156abec4ee9de50efd1ea45fb74b3eccf60a471ddfa13e059dc7440fef/go-task/task",
         "title": "GitHub - go-task/task: A task runner / simpler Make alternative written in Go",
         "vote": 0
     },
@@ -36630,7 +36630,7 @@
             "climate change",
             "global warming"
         ],
-        "thumbnail": "https://i.guim.co.uk/img/media/af4b55a2fabe50fffc6246cf77e4e0eccd9b9744/1308_844_4304_2582/master/4304.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjMucG5n&enable=upscale&s=5b5d9c926cfed71ad595286aef595b43",
+        "thumbnail": "https://i.guim.co.uk/img/media/af4b55a2fabe50fffc6246cf77e4e0eccd9b9744/1308_844_4304_2582/master/4304.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjMucG5n&enable=upscale&s=b34a69f6249908fd4974c06fe4f5a3e0",
         "title": "Europe should cap energy use of richest to stay within carbon budget, study says",
         "vote": 0
     },
@@ -36679,14 +36679,14 @@
         "language": "en-US",
         "link": "https://abcnews.go.com/Technology/wireStory/meta-faces-100k-daily-fine-norway-regulator-privacy-101342705",
         "manual_status_code": 0,
-        "page_rating": 0,
-        "page_rating_contents": 0,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 9,
         "source_url": "http://feeds.abcnews.com/abcnews/topstories",
-        "status_code": 404,
+        "status_code": 614,
         "tags": [
             "meta",
             "privacy"
@@ -36770,8 +36770,8 @@
         "language": "en-UK",
         "link": "https://www.telegraph.co.uk/news/2023/07/18/nigel-farage-coutts-bank-account-closed-align-with-values",
         "manual_status_code": 0,
-        "page_rating": 29,
-        "page_rating_contents": 81,
+        "page_rating": 9,
+        "page_rating_contents": 20,
         "page_rating_visits": 1,
         "page_rating_votes": 0,
         "permanent": false,
@@ -36815,7 +36815,7 @@
             "european union",
             "open source"
         ],
-        "thumbnail": null,
+        "thumbnail": "https://news.apache.org/wp-content/uploads/2025/10/asf-featured-image.png",
         "title": "Save Open Source: The Impending Tragedy of the Cyber Resilience Act - The Apache Software Foundation Blog",
         "vote": 0
     },
@@ -36844,7 +36844,7 @@
         "tags": [
             "artificial intelligence"
         ],
-        "thumbnail": "https://i.guim.co.uk/img/media/e558e60a92cd383d475bb746d283a4ce3d3db180/0_0_1500_900/master/1500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjMucG5n&enable=upscale&s=47f4b3c40896624508c4de977ff1905f",
+        "thumbnail": "https://i.guim.co.uk/img/media/e558e60a92cd383d475bb746d283a4ce3d3db180/0_0_1500_900/master/1500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjMucG5n&enable=upscale&s=d8abf13c93603ee5fb97068d037d8da6",
         "title": "Disinformation reimagined: how AI could erode democracy in the 2024 US elections",
         "vote": 0
     },
@@ -36904,7 +36904,7 @@
             "climate change",
             "global warming"
         ],
-        "thumbnail": "https://i.guim.co.uk/img/media/f343ff985ca0d1a15d4c296422611ae698148335/0_177_5300_3180/master/5300.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjMucG5n&enable=upscale&s=e8d10dccdf29844527bfc04884757b4a",
+        "thumbnail": "https://i.guim.co.uk/img/media/f343ff985ca0d1a15d4c296422611ae698148335/0_177_5300_3180/master/5300.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjMucG5n&enable=upscale&s=8841f8022d8ba972362500344b76be20",
         "title": "Flying in Europe up to 30 times cheaper than train, says Greenpeace",
         "vote": 0
     },
@@ -37104,7 +37104,7 @@
         "tags": [
             "selfhost"
         ],
-        "thumbnail": "https://opengraph.githubassets.com/c6ee6cc78af03670cc58bb73b7c7f4d7c5049eb32587aab05574d934082df3fc/phpbb/phpbb",
+        "thumbnail": "https://opengraph.githubassets.com/e42b6d068b7e3b629f3a56c89be64fe6ae949f94c77e81ec222fc5d119ed70e3/phpbb/phpbb",
         "title": "GitHub - phpbb/phpbb at itsfoss.com",
         "vote": 0
     },
@@ -37193,7 +37193,7 @@
         "tags": [
             "piracy"
         ],
-        "thumbnail": "https://static.wirtualnemedia.pl/media/top/exsite-oswiadczenie655.jpg",
+        "thumbnail": "https://v.wpimg.pl/MmYzM2EzYgw4GDsBagFvGXtAb1ssWGFPLFh3EGpMeFghTnULahwkATwIKEIqVCofLAosRTVUPQF2Gz1bagx8Qj0TPkIpGzRCPBcvVyFVdQ87HHoKJ05gCTwbeB9xSy4OdBt4BHNXLA9gTX9UdkksXjtPb08",
         "title": "Koniec kilkunastu pirackich serwis\u00f3w. Tw\u00f3rca skar\u017cy si\u0119 na Canal+ i policj\u0119",
         "vote": 0
     },
@@ -37225,7 +37225,7 @@
             "surveillance",
             "web environment integrity"
         ],
-        "thumbnail": "https://stackdiary.com/wp-content/uploads/2023/07/Web-Environment-Integrity.png",
+        "thumbnail": "https://stackdiary-stg.website.bairesdev.dev/wp-content/uploads/2023/07/Web-Environment-Integrity.png",
         "title": "Google engineers want to make ad-blocking (near) impossible",
         "vote": 0
     },
@@ -37402,7 +37402,7 @@
             "android",
             "lineageos"
         ],
-        "thumbnail": "https://downloadr2.apkmirror.com/wp-content/uploads/generic-app-icon2.png",
+        "thumbnail": "https://downloadr2.apkmirror.com/wp-content/uploads/2023/02/40/63eba96492d23.png",
         "title": "Apk mirror",
         "vote": 0
     },
@@ -37702,7 +37702,7 @@
             "technofeudalism",
             "ubisoft"
         ],
-        "thumbnail": "https://cdn.mos.cms.futurecdn.net/MYQN3oX8jaGdb8FXZHCbpH.jpg",
+        "thumbnail": "https://cdn.mos.cms.futurecdn.net/MYQN3oX8jaGdb8FXZHCbpH-1920-80.jpg",
         "title": "PSA: Ubisoft is deleting \"inactive accounts\" and the games those accounts have bought",
         "vote": 0
     },
@@ -37821,7 +37821,7 @@
             "biometrics",
             "facial recognition"
         ],
-        "thumbnail": "https://cdn.mos.cms.futurecdn.net/gaCKaW8YDKam4YNKB6nGrK.jpg",
+        "thumbnail": "https://cdn.mos.cms.futurecdn.net/gaCKaW8YDKam4YNKB6nGrK-1920-80.jpg",
         "title": "The ESRB wants to start using facial scanning technology to check people's ages | PC Gamer",
         "vote": 0
     },
@@ -37939,7 +37939,7 @@
             "jeffrey epstein",
             "jpmorgan"
         ],
-        "thumbnail": "https://i.guim.co.uk/img/media/c9fd552655f182d9ace5fff090d67b7e74ad1354/0_183_5525_3317/master/5525.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjMucG5n&enable=upscale&s=2fc18b5dedd0aac6eb1699de5c0dd8fc",
+        "thumbnail": "https://i.guim.co.uk/img/media/c9fd552655f182d9ace5fff090d67b7e74ad1354/0_183_5525_3317/master/5525.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjMucG5n&enable=upscale&s=339fb24eee82edb16f4a465890878db6",
         "title": "JP Morgan faces fresh accusations over ties to Jeffrey Epstein",
         "vote": 0
     },
@@ -38140,14 +38140,14 @@
         "language": "en-US",
         "link": "https://cheapskatesguide.org/articles/big-tech-takeovers.html",
         "manual_status_code": 0,
-        "page_rating": 32,
-        "page_rating_contents": 90,
+        "page_rating": 22,
+        "page_rating_contents": 60,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 141,
         "source_url": "https://hnrss.org/frontpage",
-        "status_code": 200,
+        "status_code": 603,
         "tags": [
             "corporatocracy",
             "dark design",
@@ -38182,7 +38182,7 @@
             "link aggregation",
             "selfhost"
         ],
-        "thumbnail": "https://opengraph.githubassets.com/8f7a66e6ab07eacea6ed0a6c9ec93dd2d1d56430defbc109f69328237c4366fe/lobsters/lobsters",
+        "thumbnail": "https://opengraph.githubassets.com/86def15f6238d35feb107ac2829b7824dcf8307ebc8f732d625252fb9cc23619/lobsters/lobsters",
         "title": "GitHub - lobsters/lobsters: Computing-focused community centered around link aggregation and discussion",
         "vote": 0
     },
@@ -38593,7 +38593,7 @@
             "climate change",
             "tend your garden"
         ],
-        "thumbnail": "https://d.newsweek.com/en/full/2262451/cooling-down-italy.jpg",
+        "thumbnail": "https://assets.newsweek.com/wp-content/uploads/2025/08/2262451-cooling-down-italy.jpg?w=1200crop=1",
         "title": "Climate Worries Are More Exhausting Than the Heat Itself | Opinion",
         "vote": 0
     },
@@ -38936,14 +38936,14 @@
         "language": "en-US",
         "link": "https://www.wsj.com/articles/government-vs-free-speech-deda9dce",
         "manual_status_code": 0,
-        "page_rating": 0,
-        "page_rating_contents": 0,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 362,
         "source_url": "https://feeds.a.dj.com/rss/RSSWorldNews.xml",
-        "status_code": 401,
+        "status_code": 614,
         "tags": [
             "covid"
         ],
@@ -39185,7 +39185,7 @@
             "biometrics",
             "facial recognition"
         ],
-        "thumbnail": "https://i.guim.co.uk/img/media/9197b05c6c652397500d81b743d2e459c8f27507/0_0_5000_3000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tYWdlLTIwMjMucG5n&enable=upscale&s=a99dc8b35319af60ada2660571ec0891",
+        "thumbnail": "https://i.guim.co.uk/img/media/9197b05c6c652397500d81b743d2e459c8f27507/0_0_5000_3000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tYWdlLTIwMjMucG5n&enable=upscale&s=b909026847e713b74de0ecd01acb5310",
         "title": "Home Office secretly backs facial recognition technology to curb shoplifting",
         "vote": 0
     },
@@ -39311,6 +39311,36 @@
         "author": null,
         "bookmarked": true,
         "comments": [],
+        "date_created": "2024-02-29T14:51:01.246176+00:00",
+        "date_dead_since": null,
+        "date_published": "2023-07-31T04:00:33+00:00",
+        "description": "<p>Article URL: <a href=\"https://www.ft.com/content/b9582d62-cc6f-4b76-b0f9-5b37cf15dce4\">https://www.ft.com/content/b9582d62-cc6f-4b76-b0f9-5b37cf15dce4</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=36973807\">https://news.ycombinator.com/item?id=36973807</a></p>\n<p>Points: 52</p>\n<p># Comments: 10</p>",
+        "id": 35986,
+        "language": "en-US",
+        "link": "https://www.ft.com/content/b9582d62-cc6f-4b76-b0f9-5b37cf15dce4",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 141,
+        "source_url": "https://hnrss.org/frontpage",
+        "status_code": 200,
+        "tags": [
+            "climate change",
+            "esg"
+        ],
+        "thumbnail": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2a33d47e-98ff-4fa6-87d7-7da91d6602af.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+        "title": "Companies with good ESG scores pollute as much as low-rated rivals",
+        "vote": 0
+    },
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": true,
+        "comments": [],
         "date_created": "2024-02-29T14:51:02.493198+00:00",
         "date_dead_since": null,
         "date_published": "2023-07-31T09:35:49+00:00",
@@ -39332,7 +39362,7 @@
             "moderation",
             "privacy"
         ],
-        "thumbnail": "https://stackdiary.com/wp-content/uploads/2023/07/Meta-Forced-to-Reveal-Anonymous-Facebook-User.png",
+        "thumbnail": "https://stackdiary-stg.website.bairesdev.dev/wp-content/uploads/2023/07/Meta-Forced-to-Reveal-Anonymous-Facebook-User.png",
         "title": "Meta Forced to Reveal Anonymous Facebook User's Identity Over Defamatory Posts",
         "vote": 0
     },
@@ -39817,36 +39847,6 @@
         "author": null,
         "bookmarked": true,
         "comments": [],
-        "date_created": "2024-02-29T14:51:01.246176+00:00",
-        "date_dead_since": "2025-07-09T20:55:59.779683+00:00",
-        "date_published": "2023-08-02T17:16:31+00:00",
-        "description": "<p>Article URL: <a href=\"https://www.ft.com/content/b9582d62-cc6f-4b76-b0f9-5b37cf15dce4\">https://www.ft.com/content/b9582d62-cc6f-4b76-b0f9-5b37cf15dce4</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=36973807\">https://news.ycombinator.com/item?id=36973807</a></p>\n<p>Points: 52</p>\n<p># Comments: 10</p>",
-        "id": 35986,
-        "language": "en-US",
-        "link": "https://www.ft.com/content/b9582d62-cc6f-4b76-b0f9-5b37cf15dce4",
-        "manual_status_code": 0,
-        "page_rating": 0,
-        "page_rating_contents": 0,
-        "page_rating_visits": 0,
-        "page_rating_votes": 0,
-        "permanent": false,
-        "source__id": 141,
-        "source_url": "https://hnrss.org/frontpage",
-        "status_code": 400,
-        "tags": [
-            "climate change",
-            "esg"
-        ],
-        "thumbnail": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2a33d47e-98ff-4fa6-87d7-7da91d6602af.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
-        "title": "Companies with good ESG scores pollute as much as low-rated rivals",
-        "vote": 0
-    },
-    {
-        "age": null,
-        "album": null,
-        "author": null,
-        "bookmarked": true,
-        "comments": [],
         "date_created": "2024-02-29T14:51:01.097910+00:00",
         "date_dead_since": null,
         "date_published": "2023-08-03T00:00:00+00:00",
@@ -40074,7 +40074,7 @@
             "subscribtion",
             "technofeudalism"
         ],
-        "thumbnail": "https://cdn.mos.cms.futurecdn.net/z9HmcG2eCVVbszNxujCPu7.jpg",
+        "thumbnail": "https://cdn.mos.cms.futurecdn.net/z9HmcG2eCVVbszNxujCPu7-1919-80.jpg",
         "title": "British gas starts to turn off Hive smart home devices forever",
         "vote": 0
     },
@@ -40102,7 +40102,7 @@
         "tags": [
             "chiptune"
         ],
-        "thumbnail": "https://opengraph.githubassets.com/603bb182e283ebea9cb1a4439fd44974a5e63ed1a1c6b3457a4be3fe33585ecd/sxiii/keygen-music",
+        "thumbnail": "https://opengraph.githubassets.com/cabede63525347c679f9260deda0d6f86e066a11cae1d8102dae3c8c32ea990b/sxiii/keygen-music",
         "title": "GitHub - sxiii/keygen-music: Keygen Music Opensource Radio Repository",
         "vote": 0
     },
@@ -40130,7 +40130,7 @@
         "tags": [
             "chiptune"
         ],
-        "thumbnail": "https://keygenmusic.tk/#/img/og.png",
+        "thumbnail": "https://keygenmusic.tk/img/og.png",
         "title": "keygenmusic.tk - tracker music player",
         "vote": 0
     },
@@ -40240,8 +40240,8 @@
         "language": "en-US",
         "link": "https://thepeoplesvoice.tv/pfizer-admits-employees-were-given-special-batch-of-vaccine-different-to-rest-of-population",
         "manual_status_code": 0,
-        "page_rating": 32,
-        "page_rating_contents": 91,
+        "page_rating": 22,
+        "page_rating_contents": 60,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -40284,36 +40284,6 @@
         ],
         "thumbnail": "https://heather-buchel.com/social-images/default.png",
         "title": "Just Normal Web Things",
-        "vote": 0
-    },
-    {
-        "age": null,
-        "album": null,
-        "author": null,
-        "bookmarked": true,
-        "comments": [],
-        "date_created": "2024-02-29T14:50:59.998545+00:00",
-        "date_dead_since": null,
-        "date_published": "2023-08-05T19:00:39+00:00",
-        "description": "<p>Article URL: <a href=\"https://lemire.me/blog/2016/06/21/i-do-not-use-a-debugger/\">https://lemire.me/blog/2016/06/21/i-do-not-use-a-debugger/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=37015253\">https://news.ycombinator.com/item?id=37015253</a></p>\n<p>Points: 25</p>\n<p># Comments: 35</p>",
-        "id": 35970,
-        "language": "en-US",
-        "link": "https://lemire.me/blog/2016/06/21/i-do-not-use-a-debugger",
-        "manual_status_code": 0,
-        "page_rating": 31,
-        "page_rating_contents": 87,
-        "page_rating_visits": 0,
-        "page_rating_votes": 0,
-        "permanent": false,
-        "source__id": 141,
-        "source_url": "https://hnrss.org/frontpage",
-        "status_code": 200,
-        "tags": [
-            "debugger",
-            "programming"
-        ],
-        "thumbnail": null,
-        "title": "I do not use a debugger (2016)",
         "vote": 0
     },
     {
@@ -40503,14 +40473,14 @@
         "language": "en-US",
         "link": "https://front-end.social/@fox/110846484782705013",
         "manual_status_code": 0,
-        "page_rating": 0,
-        "page_rating_contents": 0,
+        "page_rating": 22,
+        "page_rating_contents": 60,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 141,
         "source_url": "https://hnrss.org/frontpage",
-        "status_code": 404,
+        "status_code": 614,
         "tags": [
             "artificial intelligence",
             "privacy",
@@ -40564,7 +40534,7 @@
         "link": "https://ithardware.pl/aktualnosci/auta_wodorowe_sa_super_naprawa_kosztuje_2_razy_wiecej_niz_cale_auto_a_zywotnosc_to_10_lat-28709.html",
         "manual_status_code": 0,
         "page_rating": 32,
-        "page_rating_contents": 91,
+        "page_rating_contents": 90,
         "page_rating_visits": 0,
         "page_rating_votes": 0,
         "permanent": false,
@@ -40936,7 +40906,7 @@
             "generative ai",
             "project"
         ],
-        "thumbnail": "https://opengraph.githubassets.com/ef269716d60675d25c6ec48ac11d69d919efd42a244f6a1952311aa220f04b46/steven2358/awesome-generative-ai",
+        "thumbnail": "https://opengraph.githubassets.com/83a5da28a9e2f4ba77a882d7a01f66a6a6e65b76fc77ac01b055abae99f5f0d2/steven2358/awesome-generative-ai",
         "title": "Generative AI \u2013 A curated list of Generative AI projects and services",
         "vote": 0
     },
@@ -41504,7 +41474,7 @@
             "microplastic",
             "pollution"
         ],
-        "thumbnail": "https://i.guim.co.uk/img/media/19230c78de68ab06420b08913b04ae1f7b16254e/0_350_5256_3154/master/5256.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjMucG5n&enable=upscale&s=bab10843ddc55281ed74e29d9cc10f1d",
+        "thumbnail": "https://i.guim.co.uk/img/media/19230c78de68ab06420b08913b04ae1f7b16254e/0_350_5256_3154/master/5256.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjMucG5n&enable=upscale&s=a7fbc1dd9766c1e87f7b3454b9457f94",
         "title": "90% of Great Lakes water samples have unsafe microplastic levels \u2013 report",
         "vote": 0
     },
@@ -42613,7 +42583,7 @@
         "date_published": "2023-08-29T00:00:00+00:00",
         "description": "Get 5 Free Travel Packs, Free Liquid Vitamin D and more from AG1 at https://drinkag1.com/modernwisdom (discount automatically applied) \n\n-\nChris and Eric Weinstein discuss Eric\u2019s encounter with Jeffery Epstein. When did Eric meet Jeffrey Epstein? What stood out to Eric Weinstein about Jeffrey Epstein? Why does Eric Weinstein think Jeffrey Epstein is a construct?\n\n#ericweinstein #jeffreyepstein #epsteinisland\n\nGet 5 Free Travel Packs, Free Liquid Vitamin D and more from AG1 at https://drinkag1.com/modernwisdom\n\n-\n\nGet access to every episode 10 hours before YouTube by subscribing for free on Spotify - https://spoti.fi/2LSimPn or Apple Podcasts - https://apple.co/2MNqIgw\n\nGet my free Reading List of 100 life-changing books here - https://chriswillx.com/books/\n\n-\n\nGet in touch in the comments below or head to...\nInstagram: https://www.instagram.com/chriswillx \nTwitter: https://www.twitter.com/chriswillx\nEmail: https://chriswillx.com/contact/",
         "id": 3130019,
-        "language": null,
+        "language": "pl-PL",
         "link": "https://www.youtube.com/watch?v=VaoGl-soL1g",
         "manual_status_code": 0,
         "page_rating": 30,
@@ -44882,7 +44852,7 @@
             "lab leak",
             "wuhan"
         ],
-        "thumbnail": "https://nypost.com/wp-content/uploads/sites/2/2023/09/NYPICHPDPICT000036327368.jpg?quality=75&strip=all&w=1024",
+        "thumbnail": "https://nypost.com/wp-content/uploads/sites/2/2023/09/NYPICHPDPICT000036327368.jpg?quality=75&strip=all&w=1200",
         "title": "CIA tried to pay off analysts to bury findings that COVID lab leak was likely: whistleblower",
         "vote": 0
     },

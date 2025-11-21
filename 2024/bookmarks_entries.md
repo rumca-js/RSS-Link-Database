@@ -1396,7 +1396,7 @@
 
  ## DARK GOTHIC MAGA: How Tech Billionaires Plan to Destroy America
  - [https://www.youtube.com/watch?v=5RpPTRcz1no](https://www.youtube.com/watch?v=5RpPTRcz1no)
- - date_published: 2024-11-14T00:00:00+00:00
+ - date_published: 2024-11-13T18:45:33+00:00
  - tags: ['donald trump', 'elon musk', 'network states']
 
  ## ‘Positively dystopian’: Florida judge blocks DeSantis’ anti-woke law for colleges

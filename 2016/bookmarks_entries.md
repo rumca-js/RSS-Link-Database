@@ -189,6 +189,11 @@
  - date_published: 2016-06-15T12:48:03+00:00
  - tags: ['intel management engine', 'surveillance', 'tracking']
 
+ ## I do not use a debugger (2016)
+ - [https://lemire.me/blog/2016/06/21/i-do-not-use-a-debugger](https://lemire.me/blog/2016/06/21/i-do-not-use-a-debugger)
+ - date_published: 2016-06-21T14:14:11+00:00
+ - tags: ['debugger', 'programming']
+
  ## Mark Zuckerberg Covers His Webcam With Tape. You Should, Too.
  - [https://slate.com/technology/2016/06/mark-zuckerberg-covers-his-webcam-with-tape-but-he-shouldn-t-have-to.html](https://slate.com/technology/2016/06/mark-zuckerberg-covers-his-webcam-with-tape-but-he-shouldn-t-have-to.html)
  - date_published: 2016-06-22T20:02:23+00:00
