@@ -4788,6 +4788,11 @@
  - date_published: 2023-05-31T19:30:53+00:00
  - tags: ['open source', 'reddit', 'selfhost']
 
+ ## Amazon to pay over $30M for Ring and Alexa privacy violations
+ - [https://www.axios.com/2023/05/31/ftc-ring-employees-illegally-accessed-user-private-videos](https://www.axios.com/2023/05/31/ftc-ring-employees-illegally-accessed-user-private-videos)
+ - date_published: 2023-05-31T23:53:20+00:00
+ - tags: ['alexa', 'amazon', 'anonymity', 'privacy', 'ring', 'smart assistant']
+
  ## Is Coding Education - As We Know It - Dead? How Large Language Models Are Changing Programmers
  - [https://www.forbes.com/sites/nishatalagala/2023/06/01/is-coding-educationas-we-know-itdead-how-large-language-models-are-changing-programmers](https://www.forbes.com/sites/nishatalagala/2023/06/01/is-coding-educationas-we-know-itdead-how-large-language-models-are-changing-programmers)
  - date_published: 2023-06-01T00:00:00+00:00
@@ -4797,11 +4802,6 @@
  - [https://www.wirtualnemedia.pl/artykul/wyciek-danych-haslo-login-allegro-onetu-wp-facebook-jak-sprawdzic-moje-dane](https://www.wirtualnemedia.pl/artykul/wyciek-danych-haslo-login-allegro-onetu-wp-facebook-jak-sprawdzic-moje-dane)
  - date_published: 2023-06-01T01:51:00+00:00
  - tags: ['data leak', 'hackers']
-
- ## Amazon to pay over $30M for Ring and Alexa privacy violations
- - [https://www.axios.com/2023/05/31/ftc-ring-employees-illegally-accessed-user-private-videos](https://www.axios.com/2023/05/31/ftc-ring-employees-illegally-accessed-user-private-videos)
- - date_published: 2023-06-01T03:11:37+00:00
- - tags: ['alexa', 'amazon', 'anonymity', 'privacy', 'ring', 'smart assistant']
 
  ## Urgent WordPress Update Fixes Critical Flaw in Jetpack Plugin on Million of Sites
  - [https://thehackernews.com/2023/06/urgent-wordpress-update-fixes-critical.html](https://thehackernews.com/2023/06/urgent-wordpress-update-fixes-critical.html)

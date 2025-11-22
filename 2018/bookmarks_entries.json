@@ -1848,7 +1848,7 @@
             "facebook",
             "mark zuckerberg"
         ],
-        "thumbnail": "https://i.guim.co.uk/img/media/85cea50007d012e47b19564b4e56e4bf1d6aa1e2/41_0_2579_1548/master/2579.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMtYWdlLTIwMTgucG5n&enable=upscale&s=212217e9f4a71658a55afead1abf17a4",
+        "thumbnail": "https://i.guim.co.uk/img/media/85cea50007d012e47b19564b4e56e4bf1d6aa1e2/41_0_2579_1548/master/2579.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMtYWdlLTIwMTgucG5n&enable=upscale&s=c825d294e4f11635f007f9160985f57e",
         "title": "I was one of the first people on Facebook. I shouldn't have trusted Mark Zuckerberg | Julie Carrie Wong",
         "vote": 0
     },

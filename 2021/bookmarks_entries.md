@@ -1186,15 +1186,15 @@
  - date_published: 2021-06-03T07:19:42+00:00
  - tags: ['covid', 'lab leak', 'wuhan']
 
+ ## BOMBSHELL: Fauci Kept Funding Peter Daszak's Wuhan 'Gain of Function' Experiments with $7.5 Million after Trump Canceled Grant
+ - [https://nationalfile.com/bombshell-fauci-kept-funding-peter-daszaks-wuhan-gain-of-function-experiments-with-7-5-million-after-trump-canceled-grant](https://nationalfile.com/bombshell-fauci-kept-funding-peter-daszaks-wuhan-gain-of-function-experiments-with-7-5-million-after-trump-canceled-grant)
+ - date_published: 2021-06-03T15:18:49+00:00
+ - tags: ['covid', 'fauci', 'peter daszak', 'wuhan']
+
  ## I Got Banned for Life from Airbnb
  - [https://jacksoncunningham.medium.com/digital-exile-how-i-got-banned-for-life-from-airbnb-615434c6eeba](https://jacksoncunningham.medium.com/digital-exile-how-i-got-banned-for-life-from-airbnb-615434c6eeba)
  - date_published: 2021-06-03T16:41:55+00:00
  - tags: ['censorship', 'subscription', 'technofeudalism']
-
- ## BOMBSHELL: Fauci Kept Funding Peter Daszak's Wuhan 'Gain of Function' Experiments with $7.5 Million after Trump Canceled Grant
- - [https://nationalfile.com/bombshell-fauci-kept-funding-peter-daszaks-wuhan-gain-of-function-experiments-with-7-5-million-after-trump-canceled-grant](https://nationalfile.com/bombshell-fauci-kept-funding-peter-daszaks-wuhan-gain-of-function-experiments-with-7-5-million-after-trump-canceled-grant)
- - date_published: 2021-06-03T20:18:49+00:00
- - tags: ['covid', 'fauci', 'peter daszak', 'wuhan']
 
  ## Who is Peter Daszak, the nonprofit exec who sent taxpayer money to Wuhan lab?
  - [https://nypost.com/2021/06/04/who-is-peter-daszak-exec-who-sent-taxpayer-money-to-wuhan-lab](https://nypost.com/2021/06/04/who-is-peter-daszak-exec-who-sent-taxpayer-money-to-wuhan-lab)
