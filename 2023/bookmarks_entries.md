@@ -3806,7 +3806,7 @@
 
  ## Brazil judge orders temporary suspension of Telegram
  - [https://apnews.com/article/brazil-telegram-suspension-social-media-school-violence-d72acaacd3c1b4d07c2c4fcb094f4ce6](https://apnews.com/article/brazil-telegram-suspension-social-media-school-violence-d72acaacd3c1b4d07c2c4fcb094f4ce6)
- - date_published: 2023-04-27T01:51:58+00:00
+ - date_published: 2023-04-27T01:44:59+00:00
  - tags: ['big brother', 'crypto wars', 'telegram', 'the right wing']
 
  ## Przepisy covidowe niekonstytucyjne. Eksperci: nie powinny już funkcjonować
