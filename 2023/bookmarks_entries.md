@@ -1722,7 +1722,7 @@
 
  ## Windows 11 is collecting more user data than you know
  - [https://windowsreport.com/windows-11-user-data](https://windowsreport.com/windows-11-user-data)
- - date_published: 2023-02-10T13:43:55+00:00
+ - date_published: 2023-02-10T12:22:10+00:00
  - tags: ['microsoft', 'privacy', 'tracking', 'windows']
 
  ## Jira is awful, welcome to AJIR
@@ -2015,7 +2015,6 @@
  - [https://www.nytimes.com/2023/02/21/opinion/do-mask-mandates-work.html](https://www.nytimes.com/2023/02/21/opinion/do-mask-mandates-work.html)
  - date_published: 2023-02-21T09:45:23+00:00
  - tags: ['covid', 'covid lie', 'covid mandates', 'mask mandates', 'masks', 'science is dead']
- - date_dead_since: 2025-07-17T02:42:06.846156+00:00
 
  ## ChatGPT has already decreased my income security, and likely yours too
  - [https://www.scottsantens.com/chatgpt-has-already-decreased-my-income-security](https://www.scottsantens.com/chatgpt-has-already-decreased-my-income-security)
@@ -2086,7 +2085,6 @@
  - [https://edition.cnn.com/2023/02/23/tech/doj-sanctions-google-intentional-destruction-chat-logs/index.html](https://edition.cnn.com/2023/02/23/tech/doj-sanctions-google-intentional-destruction-chat-logs/index.html)
  - date_published: 2023-02-23T11:13:47+00:00
  - tags: ['antitrust', 'big tech', 'google', 'sundar pichai']
- - date_dead_since: 2025-07-17T01:26:17.415920+00:00
 
  ## New Discourses - Translations from the Wokish
  - [https://newdiscourses.com/translations-from-the-wokish](https://newdiscourses.com/translations-from-the-wokish)
@@ -2166,9 +2164,8 @@
 
  ## Lab Leak Most Likely Caused Pandemic, Energy Dept. Says
  - [https://www.nytimes.com/2023/02/26/us/politics/china-lab-leak-coronavirus-pandemic.html](https://www.nytimes.com/2023/02/26/us/politics/china-lab-leak-coronavirus-pandemic.html)
- - date_published: 2023-02-27T01:47:02+00:00
+ - date_published: 2023-02-26T18:12:23+00:00
  - tags: ['covid', 'lab leak', 'wuhan']
- - date_dead_since: 2025-07-16T22:36:46.449533+00:00
 
  ## Book bans slowly taking over some Florida schools
  - [https://www.abcactionnews.com/news/state/book-bans-slowly-taking-over-some-florida-schools](https://www.abcactionnews.com/news/state/book-bans-slowly-taking-over-some-florida-schools)
@@ -2798,7 +2795,6 @@
  - [https://gazetatrybunalska.info/2023/03/trzecia-rocznica-pandemii-koszty-promocji-i-nazwiska-reklamujacych-szczepionki](https://gazetatrybunalska.info/2023/03/trzecia-rocznica-pandemii-koszty-promocji-i-nazwiska-reklamujacych-szczepionki)
  - date_published: 2023-03-20T06:19:35+00:00
  - tags: ['covid', 'propaganda', 'vaccine']
- - date_dead_since: 2025-07-16T06:31:32.285531+00:00
 
  ## Hollywood braces for potential strike as writers begin high-stakes talks with studios | CNN Business
  - [https://edition.cnn.com/2023/03/20/media/wga-hollywood-reliable-sources?utm_source=bankier.pl&utm_medium=content&utm_campaign=article](https://edition.cnn.com/2023/03/20/media/wga-hollywood-reliable-sources?utm_source=bankier.pl&utm_medium=content&utm_campaign=article)
@@ -2982,7 +2978,7 @@
 
  ## Greenland ice sheet is close to a melting point of no return
  - [https://news.agu.org/press-release/the-greenland-ice-sheet-is-close-to-a-melting-point-of-no-return](https://news.agu.org/press-release/the-greenland-ice-sheet-is-close-to-a-melting-point-of-no-return)
- - date_published: 2023-03-27T18:34:31+00:00
+ - date_published: 2023-03-27T15:51:26+00:00
  - tags: ['climate change', 'greenland']
 
  ## The Great Food Reset has begun - UnHerd
@@ -3155,15 +3151,15 @@
  - date_published: 2023-04-02T06:31:01+00:00
  - tags: ['selfhost']
 
+ ## How the U.S. Came to Use Spyware It Was Trying to Kill
+ - [https://www.nytimes.com/2023/04/02/us/politics/nso-contract-us-spy.html](https://www.nytimes.com/2023/04/02/us/politics/nso-contract-us-spy.html)
+ - date_published: 2023-04-02T21:12:22+00:00
+ - tags: ['big brother', 'surveillance', 'usa']
+
  ## The Day Windows Died
  - [https://thomasbandt.com/the-day-windows-died](https://thomasbandt.com/the-day-windows-died)
  - date_published: 2023-04-02T22:05:23+00:00
  - tags: ['enshittification', 'subscription', 'technofeudalism', 'windows']
-
- ## How the U.S. Came to Use Spyware It Was Trying to Kill
- - [https://www.nytimes.com/2023/04/02/us/politics/nso-contract-us-spy.html](https://www.nytimes.com/2023/04/02/us/politics/nso-contract-us-spy.html)
- - date_published: 2023-04-02T23:32:42+00:00
- - tags: ['big brother', 'surveillance', 'usa']
 
  ## Saying Goodbye to GitHub – Ersei 'N Stuff
  - [https://ersei.net/en/blog/bye-bye-github](https://ersei.net/en/blog/bye-bye-github)
@@ -3316,6 +3312,11 @@
  - date_published: 2023-04-10T00:00:00+00:00
  - tags: ['james lindsay', 'neomarxism', 'woke']
 
+ ## FBI documents associate internet slang like ‘based’ and ‘red pill’ with ‘extremism’
+ - [https://www.adelaidenow.com.au/technology/online/fbi-documents-associate-internet-slang-like-based-and-red-pill-with-extremism/news-story/ddd80d4878aaae8b033e24286cf3577a](https://www.adelaidenow.com.au/technology/online/fbi-documents-associate-internet-slang-like-based-and-red-pill-with-extremism/news-story/ddd80d4878aaae8b033e24286cf3577a)
+ - date_published: 2023-04-10T03:32:00+00:00
+ - tags: ['fbi', 'newspeak', 'propaganda']
+
  ## Posts distort proposed LGBTQ ‘safety zone’ bill in Canada | AP News
  - [https://apnews.com/article/fact-check-canada-bill-LGBTQ-777684926093](https://apnews.com/article/fact-check-canada-bill-LGBTQ-777684926093)
  - date_published: 2023-04-10T07:24:00+00:00
@@ -3340,12 +3341,6 @@
  - [https://www.dazeddigital.com/life-culture/article/59622/1/based-and-redpilled-the-fbi-links-internet-slang-to-violent-extremism-incel](https://www.dazeddigital.com/life-culture/article/59622/1/based-and-redpilled-the-fbi-links-internet-slang-to-violent-extremism-incel)
  - date_published: 2023-04-11T07:23:38+00:00
  - tags: ['fbi', 'newspeak', 'propaganda']
-
- ## FBI documents associate internet slang like ‘based’ and ‘red pill’ with ‘extremism’
- - [https://www.adelaidenow.com.au/technology/online/fbi-documents-associate-internet-slang-like-based-and-red-pill-with-extremism/news-story/ddd80d4878aaae8b033e24286cf3577a](https://www.adelaidenow.com.au/technology/online/fbi-documents-associate-internet-slang-like-based-and-red-pill-with-extremism/news-story/ddd80d4878aaae8b033e24286cf3577a)
- - date_published: 2023-04-11T07:24:51+00:00
- - tags: ['fbi', 'newspeak', 'propaganda']
- - date_dead_since: 2025-03-07T23:11:03.952430+00:00
 
  ## China's game art industry reportedly decimated by growing AI use
  - [https://www.gamedeveloper.com/art/china-s-game-art-industry-reportedly-decimated-ai-art-use](https://www.gamedeveloper.com/art/china-s-game-art-industry-reportedly-decimated-ai-art-use)
@@ -3611,7 +3606,6 @@
  - [https://www.wsj.com/articles/joe-biden-and-the-media-are-ev-grifters-carbon-tax-emissions-fossil-fuels-subsidies-3c6d6a21?mod=hp_opin_pos_4#cxrecs_s](https://www.wsj.com/articles/joe-biden-and-the-media-are-ev-grifters-carbon-tax-emissions-fossil-fuels-subsidies-3c6d6a21?mod=hp_opin_pos_4#cxrecs_s)
  - date_published: 2023-04-18T14:01:28+00:00
  - tags: ['climate change', 'electric vehicles']
- - date_dead_since: 2025-07-15T16:13:34.858370+00:00
 
  ## EARN IT Act Is Back, And It’s Still Terribly Destructive | Techdirt
  - [https://www.techdirt.com/2023/04/18/earn-it-act-is-back-and-its-still-terribly-destructive](https://www.techdirt.com/2023/04/18/earn-it-act-is-back-and-its-still-terribly-destructive)

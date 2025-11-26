@@ -3522,18 +3522,18 @@
         "language": "en-US",
         "link": "https://www.wired.com/story/the-fbis-jeffrey-epstein-prison-video-had-nearly-3-minutes-cut-out",
         "manual_status_code": 0,
-        "page_rating": 27,
+        "page_rating": 30,
         "page_rating_contents": 86,
-        "page_rating_visits": 0,
+        "page_rating_visits": 1,
         "page_rating_votes": 0,
         "permanent": false,
         "source__id": 394,
         "source_url": "https://www.wired.com/feed/rss",
-        "status_code": 0,
+        "status_code": 200,
         "tags": [
             "jeffrey epstein"
         ],
-        "thumbnail": "https://media.wired.com/photos/68765d94d3c30d0c5e882e66/master/pass/GettyImages-593374632.jpg",
+        "thumbnail": "https://media.wired.com/photos/68765d94d3c30d0c5e882e66/191:100/w_1280,c_limit/GettyImages-593374632.jpg",
         "title": "The FBI's Jeffrey Epstein Prison Video Had Nearly 3 Minutes Cut Out",
         "vote": 0
     },
