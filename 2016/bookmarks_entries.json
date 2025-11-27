@@ -895,13 +895,13 @@
         "language": "en",
         "link": "https://money.cnn.com/2016/05/25/technology/mark-zuckerberg-palo-alto-house/index.html",
         "manual_status_code": 0,
-        "page_rating": 0,
-        "page_rating_contents": 0,
+        "page_rating": 16,
+        "page_rating_contents": 40,
         "page_rating_visits": 4,
         "page_rating_votes": 0,
         "permanent": false,
         "source_url": "",
-        "status_code": 502,
+        "status_code": 614,
         "tags": [
             "mark zuckerberg",
             "privacy"

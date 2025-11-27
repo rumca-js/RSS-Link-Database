@@ -611,7 +611,7 @@
 
  ## The Epstein COVERUP - Trumps Nightmare
  - [https://www.youtube.com/watch?v=f4u62mbibqI](https://www.youtube.com/watch?v=f4u62mbibqI)
- - date_published: 2025-07-18T11:11:11+00:00
+ - date_published: 2025-07-18T04:11:11+00:00
  - tags: ['jeffrey epstein']
 
  ## Trump’s Epstein Fiasco Takes Darker Turn as Dem Senator Drops New Bomb

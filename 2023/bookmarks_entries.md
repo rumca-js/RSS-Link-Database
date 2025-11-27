@@ -484,6 +484,11 @@
  - date_published: 2023-01-11T08:13:31+00:00
  - tags: ['sony', 'technofeudalism']
 
+ ## Zawartość „chmury”, komunikatorów, usunięte treści. Nowa policyjna broń w walce z przestępczością?
+ - [https://www.rmf24.pl/fakty/news-zawartosc-chmury-komunikatorow-usuniete-tresci-nowa-policyjn,nId,6527601#crp_state=1](https://www.rmf24.pl/fakty/news-zawartosc-chmury-komunikatorow-usuniete-tresci-nowa-policyjn,nId,6527601#crp_state=1)
+ - date_published: 2023-01-11T11:00:41+00:00
+ - tags: ['misinformation', 'moderation', 'privacy', 'subscription', 'surveillance']
+
  ## FDA vaccine advisers 'disappointed' and 'angry' that early data about new Covid-19 booster shot wasn't presented for review last year | CNN
  - [https://edition.cnn.com/2023/01/11/health/moderna-bivalent-transparency/index.html](https://edition.cnn.com/2023/01/11/health/moderna-bivalent-transparency/index.html)
  - date_published: 2023-01-11T11:35:59+00:00
@@ -505,12 +510,6 @@
  - date_published: 2023-01-11T12:51:53+00:00
  - tags: ['government control', 'poland', 'prawo i sprawiedliwość', 'surveillance']
 
- ## Zawartość „chmury”, komunikatorów, usunięte treści. Nowa policyjna broń w walce z przestępczością?
- - [https://www.rmf24.pl/fakty/news-zawartosc-chmury-komunikatorow-usuniete-tresci-nowa-policyjn,nId,6527601#crp_state=1](https://www.rmf24.pl/fakty/news-zawartosc-chmury-komunikatorow-usuniete-tresci-nowa-policyjn,nId,6527601#crp_state=1)
- - date_published: 2023-01-11T13:12:54+00:00
- - tags: ['misinformation', 'moderation', 'privacy', 'subscription', 'surveillance']
- - date_dead_since: 2025-07-19T11:35:13.608334+00:00
-
  ## Iran to use facial recognition to identify women without hijabs
  - [https://arstechnica.com/?p=1909128](https://arstechnica.com/?p=1909128)
  - date_published: 2023-01-11T14:30:34+00:00
@@ -530,7 +529,6 @@
  - [https://tvn24.pl/polska/policja-znowu-kupuje-cellebrite-czym-jest-ta-izraelska-technologia-szpiegowska-6624777?source=rss](https://tvn24.pl/polska/policja-znowu-kupuje-cellebrite-czym-jest-ta-izraelska-technologia-szpiegowska-6624777?source=rss)
  - date_published: 2023-01-11T16:08:10+00:00
  - tags: ['cellebrite', 'government control', 'poland', 'privacy', 'surveillance']
- - date_dead_since: 2025-03-11T10:07:58.956054+00:00
 
  ## "Landmark" lawsuit accuses mainstream media of forming coalition to censor "misinformation"
  - [https://reclaimthenet.org/rfk-jr-sues-mainstream-media-misinformation-cartel](https://reclaimthenet.org/rfk-jr-sues-mainstream-media-misinformation-cartel)
@@ -707,7 +705,6 @@
  - [https://archive.org](https://archive.org)
  - date_published: 2023-01-13T14:35:11+00:00
  - tags: ['internet', 'internet archive']
- - date_dead_since: 2025-07-19T05:12:12.386445+00:00
 
  ## See every stock trade Nancy Pelosi's husband, Paul Pelosi, made while she was House speaker in 2021 and 2022
  - [https://www.businessinsider.com/nancy-pelosi-stock-trades-congress-investments-2022-7?IR=T](https://www.businessinsider.com/nancy-pelosi-stock-trades-congress-investments-2022-7?IR=T)
@@ -763,7 +760,6 @@
  - [https://thehackernews.com/2023/01/tiktok-fined-54-million-by-french.html](https://thehackernews.com/2023/01/tiktok-fined-54-million-by-french.html)
  - date_published: 2023-01-14T05:01:00+00:00
  - tags: ['big tech', 'privacy', 'technofeudalism']
- - date_dead_since: 2025-07-19T03:51:06.170644+00:00
 
  ## Pierwsze odszkodowania za NOP-y już wypłacone. Kwota robi wrażenie
  - [https://businessinsider.com.pl/wiadomosci/pierwsze-odszkodowania-za-nop-y-juz-wyplacone-kwota-robi-wrazenie/p79g6te](https://businessinsider.com.pl/wiadomosci/pierwsze-odszkodowania-za-nop-y-juz-wyplacone-kwota-robi-wrazenie/p79g6te)
@@ -937,6 +933,11 @@
  - date_published: 2023-01-18T07:00:38+00:00
  - tags: ['hate speech', 'lgbt', 'movies', 'racism', 'the left wing']
 
+ ## Online pharmacies selling abortion pills send fingerprints to Google Analytics
+ - [https://www.propublica.org/article/websites-selling-abortion-pills-share-sensitive-data-with-google](https://www.propublica.org/article/websites-selling-abortion-pills-share-sensitive-data-with-google)
+ - date_published: 2023-01-18T10:00:00+00:00
+ - tags: ['big tech', 'google', 'privacy']
+
  ## Revealed: more than 90% of rainforest carbon offsets by biggest provider are worthless, analysis shows
  - [https://www.theguardian.com/environment/2023/jan/18/revealed-forest-carbon-offsets-biggest-provider-worthless-verra-aoe](https://www.theguardian.com/environment/2023/jan/18/revealed-forest-carbon-offsets-biggest-provider-worthless-verra-aoe)
  - date_published: 2023-01-18T14:00:43+00:00
@@ -966,11 +967,6 @@
  - [https://www.techradar.com/news/the-linux-foundation-wants-to-set-up-its-own-open-source-metaverse](https://www.techradar.com/news/the-linux-foundation-wants-to-set-up-its-own-open-source-metaverse)
  - date_published: 2023-01-19T16:08:10+00:00
  - tags: ['linux', 'metaverse', 'open source']
-
- ## Online pharmacies selling abortion pills send fingerprints to Google Analytics
- - [https://www.propublica.org/article/websites-selling-abortion-pills-share-sensitive-data-with-google](https://www.propublica.org/article/websites-selling-abortion-pills-share-sensitive-data-with-google)
- - date_published: 2023-01-19T16:24:21+00:00
- - tags: ['big tech', 'google', 'privacy']
 
  ## Wall Street’s Streaming Warnings to Hollywood Get More Dire – The Hollywood Reporter
  - [https://www.hollywoodreporter.com/business/business-news/wall-street-streaming-guidance-2023-1235302958](https://www.hollywoodreporter.com/business/business-news/wall-street-streaming-guidance-2023-1235302958)
@@ -1147,6 +1143,11 @@
  - date_published: 2023-01-24T17:17:27+00:00
  - tags: ['algorithms', 'search engines']
 
+ ## DOJ Sues Google, Seeking to Break Up Online Ad Business
+ - [https://www.wsj.com/articles/u-s-sues-google-for-alleged-antitrust-violations-in-its-ad-tech-business-11674582792?mod=rss_Technology](https://www.wsj.com/articles/u-s-sues-google-for-alleged-antitrust-violations-in-its-ad-tech-business-11674582792?mod=rss_Technology)
+ - date_published: 2023-01-24T17:53:00+00:00
+ - tags: ['ad business', 'big brother', 'big tech', 'google']
+
  ## Google is being sued by the US government and eight states over online advertising
  - [https://www.theverge.com/2023/1/24/23569127/google-advertising-monopoly-antitrust-lawsuit-federal-government](https://www.theverge.com/2023/1/24/23569127/google-advertising-monopoly-antitrust-lawsuit-federal-government)
  - date_published: 2023-01-24T18:07:29+00:00
@@ -1161,12 +1162,6 @@
  - [https://blog.opensource.org/what-is-the-cyber-resilience-act-and-why-its-important-for-open-source](https://blog.opensource.org/what-is-the-cyber-resilience-act-and-why-its-important-for-open-source)
  - date_published: 2023-01-24T18:43:44+00:00
  - tags: ['cyber resilience act', 'government control', 'open source']
-
- ## DOJ Sues Google, Seeking to Break Up Online Ad Business
- - [https://www.wsj.com/articles/u-s-sues-google-for-alleged-antitrust-violations-in-its-ad-tech-business-11674582792?mod=rss_Technology](https://www.wsj.com/articles/u-s-sues-google-for-alleged-antitrust-violations-in-its-ad-tech-business-11674582792?mod=rss_Technology)
- - date_published: 2023-01-24T18:57:00+00:00
- - tags: ['ad business', 'big brother', 'big tech', 'google']
- - date_dead_since: 2025-07-18T15:00:01.195784+00:00
 
  ## Bill Gates MRNA Grift EXPOSED? Billionaire TRASHES Jab Despite Reaping MASSIVE Profits: Brie & Robby
  - [https://www.youtube.com/watch?v=kGctGh3vvJg](https://www.youtube.com/watch?v=kGctGh3vvJg)
@@ -1378,7 +1373,6 @@
  - [https://www.ft.com/content/47db95b4-ce9f-42c7-8b37-86483c85267a](https://www.ft.com/content/47db95b4-ce9f-42c7-8b37-86483c85267a)
  - date_published: 2023-01-31T05:00:36+00:00
  - tags: ['billionaires', 'climate change', 'elites']
- - date_dead_since: 2025-07-18T00:01:36.816204+00:00
 
  ## Israel Accelerates Gun Ownership Process in Response to Terror Shooting at Synagogue
  - [https://www.theepochtimes.com/israel-accelerates-gun-ownership-process-in-response-to-terror-shooting-at-synagogue_5020337.html](https://www.theepochtimes.com/israel-accelerates-gun-ownership-process-in-response-to-terror-shooting-at-synagogue_5020337.html)
@@ -1419,7 +1413,6 @@
  - [https://dossier.substack.com/p/bill-gates-secured-hundreds-of-millions](https://dossier.substack.com/p/bill-gates-secured-hundreds-of-millions)
  - date_published: 2023-01-31T21:48:01+00:00
  - tags: ['bill gates', 'covid', 'mrna', 'vaccine']
- - date_dead_since: 2025-07-17T22:40:04.357112+00:00
 
  ## Is remote work bad for the economy?
  - [https://www.fractional.work/p/is-remote-work-bad-for-the-economy](https://www.fractional.work/p/is-remote-work-bad-for-the-economy)
