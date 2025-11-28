@@ -785,3 +785,8 @@
  - date_published: 2025-11-04T21:41:23+00:00
  - tags: ['israel']
 
+ ## AdBlock and Signal are for terrorists, according to French govt (2023) [video]
+ - [https://www.youtube.com/watch?v=1q1hjmwLqe4](https://www.youtube.com/watch?v=1q1hjmwLqe4)
+ - date_published: 2025-11-27T00:20:37+00:00
+ - tags: ['adblock', 'crypto wars', 'encryption', 'signal']
+
