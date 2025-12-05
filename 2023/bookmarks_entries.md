@@ -138,7 +138,6 @@
  - [https://www.ft.com/content/55058f28-8c47-40c8-9919-8ded9daa53e9](https://www.ft.com/content/55058f28-8c47-40c8-9919-8ded9daa53e9)
  - date_published: 2023-01-04T01:00:33+00:00
  - tags: ['censorship', 'china', 'esg', 'surveillance']
- - date_dead_since: 2025-07-27T23:25:41.269427+00:00
 
  ## FDA to expand availability of abortion pills
  - [http://www.msn.com/en-us/news/politics/fda-to-expand-availability-of-abortion-pills/ar-AA15WOky?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/fda-to-expand-availability-of-abortion-pills/ar-AA15WOky?li=BBnbcA1&srcref=rss)
@@ -170,7 +169,6 @@
  - [https://reclaimthenet.org/adam-schiff-twitter-ban-paul-sperry](https://reclaimthenet.org/adam-schiff-twitter-ban-paul-sperry)
  - date_published: 2023-01-04T19:26:14+00:00
  - tags: ['twitter files']
- - date_dead_since: 2025-07-27T22:47:27.589846+00:00
 
  ## Apple fined $8.5 million in France over targeted App Store ads
  - [https://www.engadget.com/apple-france-fine-app-store-targeted-ads-211750930.html?src=rss](https://www.engadget.com/apple-france-fine-app-store-targeted-ads-211750930.html?src=rss)
@@ -182,10 +180,20 @@
  - date_published: 2023-01-04T22:29:52+00:00
  - tags: ['anti-vax', 'covid', 'propaganda', 'vaccine']
 
+ ## Control Your Tech Before It Controls You
+ - [https://www.forbes.com/sites/forbestechcouncil/2023/01/05/control-your-tech-before-it-controls-you](https://www.forbes.com/sites/forbestechcouncil/2023/01/05/control-your-tech-before-it-controls-you)
+ - date_published: 2023-01-05T00:00:00+00:00
+ - tags: ['digital dementia', 'technology']
+
  ## Psychologist Jordan Peterson could lose license if he refuses social media ‘re-education’
  - [https://nypost.com/2023/01/05/jordan-peterson-could-lose-psychologist-license-if-he-refuses-social-media-re-education](https://nypost.com/2023/01/05/jordan-peterson-could-lose-psychologist-license-if-he-refuses-social-media-re-education)
  - date_published: 2023-01-05T05:17:10+00:00
  - tags: ['censorship', 'freedom', 'jordan peterson']
+
+ ## How secure are RISC-V chips?
+ - [https://semiengineering.com/how-secure-are-risc-v-chips](https://semiengineering.com/how-secure-are-risc-v-chips)
+ - date_published: 2023-01-05T08:04:36+00:00
+ - tags: ['risc-v']
 
  ## The 25 best programming books of all-time
  - [https://www.daolf.com/posts/best-programming-books](https://www.daolf.com/posts/best-programming-books)
@@ -201,11 +209,6 @@
  - [https://realpython.com/python-gil](https://realpython.com/python-gil)
  - date_published: 2023-01-05T10:09:02+00:00
  - tags: ['gil', 'programming', 'python']
-
- ## Control Your Tech Before It Controls You
- - [https://www.forbes.com/sites/forbestechcouncil/2023/01/05/control-your-tech-before-it-controls-you](https://www.forbes.com/sites/forbestechcouncil/2023/01/05/control-your-tech-before-it-controls-you)
- - date_published: 2023-01-05T12:15:00+00:00
- - tags: ['digital dementia', 'technology']
 
  ## ‘Disruptive’ science has declined
  - [https://www.nature.com/articles/d41586-022-04577-5](https://www.nature.com/articles/d41586-022-04577-5)
@@ -232,16 +235,10 @@
  - date_published: 2023-01-05T22:46:27+00:00
  - tags: ['ad business', 'big brother', 'corporatocracy', 'gdpr', 'surveillance']
 
- ## Google’s quest to digitize troops’ tissue samples
- - [https://www.propublica.org/article/google-human-tissue-jpc-military](https://www.propublica.org/article/google-human-tissue-jpc-military)
- - date_published: 2023-01-05T23:15:09+00:00
- - tags: ['google']
-
  ## Whatever happened to Google Search?
  - [https://www.ft.com/content/228af985-7bf2-4efd-ad73-ae11d1623a58](https://www.ft.com/content/228af985-7bf2-4efd-ad73-ae11d1623a58)
  - date_published: 2023-01-06T05:00:17+00:00
  - tags: ['dead internet', 'google', 'search engines']
- - date_dead_since: 2025-07-27T20:04:56.634561+00:00
 
  ## Desperate father pleads with his pediatrician wife NOT to chemically castrate their son, 9
  - [https://www.dailymail.co.uk/news/article-11605409/Desperate-father-pleads-pediatrician-wife-NOT-chemically-castrate-son-9.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11605409/Desperate-father-pleads-pediatrician-wife-NOT-chemically-castrate-son-9.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -273,7 +270,6 @@
  - [https://www.lemonde.fr/en/international/article/2023/01/06/poland-increasingly-turns-its-back-on-the-catholic-church_6010548_4.html](https://www.lemonde.fr/en/international/article/2023/01/06/poland-increasingly-turns-its-back-on-the-catholic-church_6010548_4.html)
  - date_published: 2023-01-06T11:09:51+00:00
  - tags: ['catholic', 'poland', 'religion']
- - date_dead_since: 2025-07-27T19:31:16.621337+00:00
 
  ## How Police Exploited the Capitol Riot’s Digital Records
  - [https://spectrum.ieee.org/capitol-riot](https://spectrum.ieee.org/capitol-riot)
@@ -326,13 +322,6 @@
  - [https://www.telegraph.co.uk/news/2023/01/07/uk-police-forces-spend-66000-lgbt-rainbow-cars-shoelaces-flags](https://www.telegraph.co.uk/news/2023/01/07/uk-police-forces-spend-66000-lgbt-rainbow-cars-shoelaces-flags)
  - date_published: 2023-01-07T16:24:26+00:00
  - tags: ['england', 'inequality', 'lgbt', 'police', 'propaganda', 'the left wing']
- - date_dead_since: 2025-07-27T17:44:03.726865+00:00
-
- ## How secure are RISC-V chips?
- - [https://semiengineering.com/how-secure-are-risc-v-chips](https://semiengineering.com/how-secure-are-risc-v-chips)
- - date_published: 2023-01-07T17:52:08+00:00
- - tags: ['risc-v']
- - date_dead_since: 2025-07-27T17:35:12.051915+00:00
 
  ## DC Comics fans outraged as new Batman plot sees the Joker become PREGNANT and give birth
  - [https://www.dailymail.co.uk/news/article-11609947/DC-Comics-fans-outraged-new-Batman-plot-sees-Joker-PREGNANT-birth.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11609947/DC-Comics-fans-outraged-new-Batman-plot-sees-Joker-PREGNANT-birth.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -358,7 +347,6 @@
  - [https://apnews.com/article/social-media-seattle-lawsuits-mental-health-965a8f373e3bfed8157571912cc3b542](https://apnews.com/article/social-media-seattle-lawsuits-mental-health-965a8f373e3bfed8157571912cc3b542)
  - date_published: 2023-01-08T08:26:39+00:00
  - tags: ['dark design', 'facebook', 'social media']
- - date_dead_since: 2025-07-27T16:53:09.492653+00:00
 
  ## Jordan Peterson releases Ontario College's complaints against him, it's basically a promo for Jordan's Twitter
  - [https://www.louderwithcrowder.com/jordan-peterson-releases-complaint](https://www.louderwithcrowder.com/jordan-peterson-releases-complaint)
@@ -369,7 +357,6 @@
  - [https://dailysceptic.org/2023/01/08/how-childline-became-captured-by-trans-ideology](https://dailysceptic.org/2023/01/08/how-childline-became-captured-by-trans-ideology)
  - date_published: 2023-01-08T15:17:58+00:00
  - tags: ['children', 'gender', 'the left wing', 'transgender']
- - date_dead_since: 2025-07-27T16:35:10.803617+00:00
 
  ## Ex-Virginia Tech soccer player allegedly benched for refusing to kneel gets $100K settlement: attorney
  - [https://www.foxnews.com/us/ex-virginia-tech-soccer-player-allegedly-benched-for-refusing-to-kneel-gets-100k-settlement-attorney?intcmp=fb_fnc&fbclid=IwAR3dbkA7mXU9Fyj-tKRWrG_YVmaGM32lz7Of2FbU4euukWcREO3dnE1I94k](https://www.foxnews.com/us/ex-virginia-tech-soccer-player-allegedly-benched-for-refusing-to-kneel-gets-100k-settlement-attorney?intcmp=fb_fnc&fbclid=IwAR3dbkA7mXU9Fyj-tKRWrG_YVmaGM32lz7Of2FbU4euukWcREO3dnE1I94k)
@@ -380,7 +367,6 @@
  - [https://www.wsj.com/articles/white-house-covid-censorship-machine-social-media-facebook-meta-executive-rob-flaherty-free-speech-google-11673203704](https://www.wsj.com/articles/white-house-covid-censorship-machine-social-media-facebook-meta-executive-rob-flaherty-free-speech-google-11673203704)
  - date_published: 2023-01-08T16:23:11+00:00
  - tags: ['big brother', 'censorship', 'social media']
- - date_dead_since: 2025-07-27T16:21:21.936633+00:00
 
  ## A village to be evicted for coal – the defense of Luetzerath in Germany
  - [https://freedomnews.org.uk/2023/01/09/a-village-to-be-evicted-for-coal-the-defense-of-luetzerath-in-germany](https://freedomnews.org.uk/2023/01/09/a-village-to-be-evicted-for-coal-the-defense-of-luetzerath-in-germany)
@@ -397,11 +383,15 @@
  - date_published: 2023-01-09T15:55:11+00:00
  - tags: ['cancel culture', 'censorship', 'the left wing']
 
+ ## The mistake that killed Japan’s software industry
+ - [https://www.disruptingjapan.com/the-forgotten-mistake-that-killed-japans-software-industry](https://www.disruptingjapan.com/the-forgotten-mistake-that-killed-japans-software-industry)
+ - date_published: 2023-01-09T20:00:29+00:00
+ - tags: ['history', 'japan', 'programming']
+
  ## CDC publishes language guidelines
  - [https://reclaimthenet.org/cdc-newspeak](https://reclaimthenet.org/cdc-newspeak)
  - date_published: 2023-01-09T20:12:54+00:00
  - tags: ['newspeak', 'social engineering', 'the left wing']
- - date_dead_since: 2025-07-27T15:54:43.574240+00:00
 
  ## Monroe Doctrine
  - [https://en.wikipedia.org/wiki/Monroe_Doctrine](https://en.wikipedia.org/wiki/Monroe_Doctrine)
@@ -412,37 +402,26 @@
  - [https://arstechnica.com/?p=1908618](https://arstechnica.com/?p=1908618)
  - date_published: 2023-01-09T22:15:19+00:00
  - tags: ['artificial intelligence', 'microsoft']
- - date_dead_since: 2025-07-27T15:30:17.826253+00:00
 
  ## Old Man Yells at Cloud: Technology has gotten objectively worse
  - [https://www.jonandnic.com/2023/01/08/old-man-yells-at-cloud](https://www.jonandnic.com/2023/01/08/old-man-yells-at-cloud)
  - date_published: 2023-01-10T01:58:53+00:00
  - tags: ['algorithms', 'dead internet', 'electric vehicles', 'games', 'social media', 'subscription', 'technology']
- - date_dead_since: 2025-07-27T15:20:11.760369+00:00
 
  ## AI-powered lawyer will be first of its kind to represent defendant in court
  - [https://www.cbsnews.com/news/ai-powered-robot-lawyer-takes-its-first-court-case](https://www.cbsnews.com/news/ai-powered-robot-lawyer-takes-its-first-court-case)
  - date_published: 2023-01-10T03:56:25+00:00
  - tags: ['artificial intelligence']
- - date_dead_since: 2025-07-27T15:13:04.303360+00:00
-
- ## The mistake that killed Japan’s software industry
- - [https://www.disruptingjapan.com/the-forgotten-mistake-that-killed-japans-software-industry](https://www.disruptingjapan.com/the-forgotten-mistake-that-killed-japans-software-industry)
- - date_published: 2023-01-10T04:51:37+00:00
- - tags: ['history', 'japan', 'programming']
- - date_dead_since: 2025-07-27T15:06:16.592672+00:00
 
  ## Show HN: Ecode – A minimalist and fast open-source code editor
  - [https://github.com/SpartanJ/ecode](https://github.com/SpartanJ/ecode)
  - date_published: 2023-01-10T05:21:10+00:00
  - tags: ['programming']
- - date_dead_since: 2025-07-27T15:01:17.288722+00:00
 
  ## U.S. Carbon Emissions Grew in 2022, Even As Renewables Surpassed Coal
  - [https://www.nytimes.com/2023/01/10/climate/us-carbon-emissions-2022.html](https://www.nytimes.com/2023/01/10/climate/us-carbon-emissions-2022.html)
  - date_published: 2023-01-10T09:00:08+00:00
  - tags: ['carbon', 'climate change', 'climate drama', 'climate science']
- - date_dead_since: 2025-03-11T12:40:18.145293+00:00
 
  ## M&M's new packaging is causing a stir | CNN Business
  - [https://edition.cnn.com/2023/01/10/business/m-and-ms-female-pack/index.html](https://edition.cnn.com/2023/01/10/business/m-and-ms-female-pack/index.html)
@@ -503,7 +482,6 @@
  - [https://github.com/HackSoftware/Django-Styleguide](https://github.com/HackSoftware/Django-Styleguide)
  - date_published: 2023-01-11T12:31:52+00:00
  - tags: ['django', 'programming']
- - date_dead_since: 2025-07-27T14:12:48.724126+00:00
 
  ## Polski rząd poszerza możliwość elektronicznej inwigilacji obywateli wbrew prawu UE - Instalki.pl
  - [https://www.instalki.pl/aktualnosci/bezpieczenstwo/57671-inwigilacja-internet-suzby-polska-ue-prawo.html](https://www.instalki.pl/aktualnosci/bezpieczenstwo/57671-inwigilacja-internet-suzby-polska-ue-prawo.html)

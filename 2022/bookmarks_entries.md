@@ -8973,6 +8973,11 @@
  - date_published: 2022-12-12T10:25:29+00:00
  - tags: ['agriculture', 'esg']
 
+ ## Google’s quest to digitize troops’ tissue samples
+ - [https://www.propublica.org/article/google-human-tissue-jpc-military](https://www.propublica.org/article/google-human-tissue-jpc-military)
+ - date_published: 2022-12-12T11:00:00+00:00
+ - tags: ['google']
+
  ## Ratcliffe: No 'coincidence' Jim Baker got top Twitter job after pushing Russian collusion narrative
  - [https://www.foxnews.com/politics/ratcliffe-no-coincidence-jim-baker-got-top-twitter-job-pushing-russian-collusion-narrative](https://www.foxnews.com/politics/ratcliffe-no-coincidence-jim-baker-got-top-twitter-job-pushing-russian-collusion-narrative)
  - date_published: 2022-12-12T16:22:22+00:00
