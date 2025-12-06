@@ -9184,6 +9184,11 @@
  - tags: ['secret societies', 'skull and bones']
  - date_dead_since: 2025-07-29T01:01:17.347134+00:00
 
+ ## IRS Accidentally Releases 112,000 Taxpayers’ Private Data Again
+ - [https://news.bloombergtax.com/daily-tax-report/irs-accidentally-releases-112-000-taxpayers-private-data-again](https://news.bloombergtax.com/daily-tax-report/irs-accidentally-releases-112-000-taxpayers-private-data-again)
+ - date_published: 2022-12-15T21:30:23+00:00
+ - tags: ['data leak', 'privacy']
+
  ## Twitter Censorship Contributed to Destructive Pandemic Policies and Is Criminal, Says Former White House COVID Adviser
  - [https://www.theepochtimes.com/twitter-censorship-contributed-to-destructive-pandemic-policies-and-is-criminal-says-former-white-house-covid-adviser_4927500.html](https://www.theepochtimes.com/twitter-censorship-contributed-to-destructive-pandemic-policies-and-is-criminal-says-former-white-house-covid-adviser_4927500.html)
  - date_published: 2022-12-16T02:42:19+00:00
@@ -9219,7 +9224,6 @@
  - [https://mgr.farm/aktualnosci/farmaceutka-zwolniona-z-apteki-bo-nie-chciala-sie-zaszczepic-jest-wyrok-sadu](https://mgr.farm/aktualnosci/farmaceutka-zwolniona-z-apteki-bo-nie-chciala-sie-zaszczepic-jest-wyrok-sadu)
  - date_published: 2022-12-16T11:19:14+00:00
  - tags: ['covid', 'vaccine']
- - date_dead_since: 2025-07-28T23:43:18.483644+00:00
 
  ## COVID-19 lab leak theory
  - [https://en.wikipedia.org/wiki/COVID-19_lab_leak_theory#Developments_in_2022](https://en.wikipedia.org/wiki/COVID-19_lab_leak_theory#Developments_in_2022)
@@ -9235,7 +9239,6 @@
  - [https://thehackernews.com/2022/12/ex-twitter-employee-gets-35-years-jail.html](https://thehackernews.com/2022/12/ex-twitter-employee-gets-35-years-jail.html)
  - date_published: 2022-12-16T13:08:00+00:00
  - tags: ['espionage', 'twitter']
- - date_dead_since: 2025-07-28T23:28:17.274852+00:00
 
  ## FBI treated Twitter as a ‘subsidiary,’ flagged tweets and accounts for ‘misinformation’
  - [https://nypost.com/2022/12/16/fbi-treated-twitter-as-subsidiary-flagged-tweets-for-misinformation](https://nypost.com/2022/12/16/fbi-treated-twitter-as-subsidiary-flagged-tweets-for-misinformation)
@@ -9261,7 +9264,6 @@
  - [https://reclaimthenet.org/president-trump-ban-big-tech-federal-government-censorship-collusion-2024](https://reclaimthenet.org/president-trump-ban-big-tech-federal-government-censorship-collusion-2024)
  - date_published: 2022-12-16T19:42:30+00:00
  - tags: ['censorship', 'free speech']
- - date_dead_since: 2025-07-28T22:49:36.618271+00:00
 
  ## My Thoughts on 2022 and the Woke Hollywood Machine
  - [https://www.youtube.com/watch?v=tp1M4lP2ceQ](https://www.youtube.com/watch?v=tp1M4lP2ceQ)
@@ -9272,7 +9274,6 @@
  - [https://reclaimthenet.org/fbi-flagged-jokes-and-satirical-accounts-to-twitter-for-censorship](https://reclaimthenet.org/fbi-flagged-jokes-and-satirical-accounts-to-twitter-for-censorship)
  - date_published: 2022-12-17T00:28:07+00:00
  - tags: ['censorship', 'fbi', 'twitter', 'twitter files']
- - date_dead_since: 2025-07-28T22:34:18.384179+00:00
 
  ## John Carmack is leaving Meta
  - [https://www.theverge.com/2022/12/16/23513622/john-carmack-leaving-meta-virtual-reality-oculus-cto](https://www.theverge.com/2022/12/16/23513622/john-carmack-leaving-meta-virtual-reality-oculus-cto)
@@ -9298,7 +9299,6 @@
  - [https://github.com/ax/apk.sh](https://github.com/ax/apk.sh)
  - date_published: 2022-12-17T15:38:19+00:00
  - tags: ['android', 'it', 'programming']
- - date_dead_since: 2025-07-28T21:56:17.642385+00:00
 
  ## Liberal networks previously unbothered by Twitter censorship cry foul over Musk suspending journalists
  - [https://www.foxnews.com/media/liberal-networks-previously-unbothered-twitter-censorship-cry-foul-musk-suspending-journalists](https://www.foxnews.com/media/liberal-networks-previously-unbothered-twitter-censorship-cry-foul-musk-suspending-journalists)
@@ -9314,13 +9314,11 @@
  - [https://www.pcgamer.com/legendary-programmer-john-carmack-leaves-meta-this-is-the-end-of-my-decade-in-vr](https://www.pcgamer.com/legendary-programmer-john-carmack-leaves-meta-this-is-the-end-of-my-decade-in-vr)
  - date_published: 2022-12-17T21:43:05+00:00
  - tags: ['john carmack', 'meta', 'virtual reality']
- - date_dead_since: 2025-07-28T21:43:16.983489+00:00
 
  ## Musk vs. Musk: the billionaire's obsession with Twitter is undermining his accomplishments
  - [https://www.lemonde.fr/en/economy/article/2022/12/18/musk-vs-musk-the-billionaire-s-obsession-with-twitter-is-undermining-his-accomplishments_6008150_19.html](https://www.lemonde.fr/en/economy/article/2022/12/18/musk-vs-musk-the-billionaire-s-obsession-with-twitter-is-undermining-his-accomplishments_6008150_19.html)
  - date_published: 2022-12-17T23:51:18+00:00
  - tags: ['censorship', 'elon musk', 'free speech', 'moderation', 'twitter']
- - date_dead_since: 2025-07-28T21:36:10.741542+00:00
 
  ## How Does WhatsApp Make Money?
  - [https://www.youtube.com/watch?v=E1w-2WB2rIM](https://www.youtube.com/watch?v=E1w-2WB2rIM)
@@ -9362,12 +9360,6 @@
  - date_published: 2022-12-18T20:28:26+00:00
  - tags: ['censorship', 'moderation', 'twitter', 'twitter files']
 
- ## IRS Accidentally Releases 112,000 Taxpayers’ Private Data Again
- - [https://news.bloombergtax.com/daily-tax-report/irs-accidentally-releases-112-000-taxpayers-private-data-again](https://news.bloombergtax.com/daily-tax-report/irs-accidentally-releases-112-000-taxpayers-private-data-again)
- - date_published: 2022-12-18T20:45:57+00:00
- - tags: ['data leak', 'privacy']
- - date_dead_since: 2025-07-28T20:49:18.905663+00:00
-
  ## Emails show the FBI 'repeatedly grilled' Twitter execs over 'state propaganda' on the app
  - [https://www.dailymail.co.uk/news/article-11552469/Emails-FBI-repeatedly-grilled-Twitter-execs-state-propaganda-app.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11552469/Emails-FBI-repeatedly-grilled-Twitter-execs-state-propaganda-app.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
  - date_published: 2022-12-19T00:14:32+00:00
@@ -9397,7 +9389,6 @@
  - [http://www.msn.com/en-us/news/technology/elon-musk-asked-his-twitter-followers-if-he-should-step-down-as-the-company-s-ceo-57-5-voted-yes/ar-AA15rBNV?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/technology/elon-musk-asked-his-twitter-followers-if-he-should-step-down-as-the-company-s-ceo-57-5-voted-yes/ar-AA15rBNV?li=BBnbcA1&srcref=rss)
  - date_published: 2022-12-19T11:51:04.032922+00:00
  - tags: ['elon musk']
- - date_dead_since: 2025-07-28T19:55:58.807394+00:00
 
  ## Tell HN: Google Maps location data is used for GeoIP updates
  - [https://news.ycombinator.com/item?id=34052786](https://news.ycombinator.com/item?id=34052786)
@@ -9408,7 +9399,6 @@
  - [https://www.dailywire.com/news/new-twitter-files-show-fbi-paid-twitter-millions-influenced-execs-to-censor-hunter-biden-laptop-story](https://www.dailywire.com/news/new-twitter-files-show-fbi-paid-twitter-millions-influenced-execs-to-censor-hunter-biden-laptop-story)
  - date_published: 2022-12-19T15:10:57+00:00
  - tags: ['fbi', 'twitter', 'twitter files']
- - date_dead_since: 2025-07-28T19:42:59.688220+00:00
 
  ## BlackRock plans no big changes to ESG stance despite backlash
  - [https://www.reuters.com/business/sustainable-business/blackrock-plans-no-big-changes-esg-stance-despite-backlash-2022-12-19](https://www.reuters.com/business/sustainable-business/blackrock-plans-no-big-changes-esg-stance-despite-backlash-2022-12-19)
@@ -9419,7 +9409,6 @@
  - [https://bulldogjob.pl/readme/google-przebudowalo-strukture-swoich-domen-by-szpiegowac-nas-lepiej](https://bulldogjob.pl/readme/google-przebudowalo-strukture-swoich-domen-by-szpiegowac-nas-lepiej)
  - date_published: 2022-12-19T21:41:36+00:00
  - tags: ['control', 'google', 'privacy']
- - date_dead_since: 2025-07-28T19:38:10.193387+00:00
 
  ## Charity volunteer arrested, charged for silent prayer “thoughtcrime” near abortion facility - ADF UK
  - [https://adf.uk/woman-charged-for-thoughtcrime](https://adf.uk/woman-charged-for-thoughtcrime)
@@ -9430,7 +9419,6 @@
  - [https://thehackernews.com/2022/12/ftc-fines-fortnite-maker-epic-games-275.html](https://thehackernews.com/2022/12/ftc-fines-fortnite-maker-epic-games-275.html)
  - date_published: 2022-12-20T06:33:00+00:00
  - tags: ['epic games', 'privacy']
- - date_dead_since: 2025-07-28T19:32:03.985550+00:00
 
  ## Big oil is behind conspiracy to deceive public, first climate racketeering lawsuit says
  - [https://www.theguardian.com/environment/2022/dec/20/big-oil-is-behind-conspiracy-to-deceive-public-first-climate-racketeering-lawsuit-says](https://www.theguardian.com/environment/2022/dec/20/big-oil-is-behind-conspiracy-to-deceive-public-first-climate-racketeering-lawsuit-says)
@@ -9446,6 +9434,11 @@
  - [https://www.nbcnewyork.com/investigations/face-recognition-tech-gets-girl-scout-mom-booted-from-rockettes-show-due-to-her-employer/4004677](https://www.nbcnewyork.com/investigations/face-recognition-tech-gets-girl-scout-mom-booted-from-rockettes-show-due-to-her-employer/4004677)
  - date_published: 2022-12-20T15:13:47+00:00
  - tags: ['biometric', 'facial recognition', 'privacy']
+
+ ## Zanim kupisz samochód elektryczny, przejedź się nim zimą. Wpis spod ładowarki
+ - [https://spidersweb.pl/autoblog/samochod-elektryczny-zima-ladowanie](https://spidersweb.pl/autoblog/samochod-elektryczny-zima-ladowanie)
+ - date_published: 2022-12-20T16:21:42+00:00
+ - tags: ['climate change', 'electric vehicles']
 
  ## FBI zapłaciło Twitterowi 3,4 mln USD za nazywanie historii Huntera Bidena rosyjską dezinformacją
  - [https://ithardware.pl/aktualnosci/fbi_zaplacilo_twitterowi_3_4_mln_usd_za_nazywanie_historii_huntera_bidena_rosyjska_dezinformacja-24966.html](https://ithardware.pl/aktualnosci/fbi_zaplacilo_twitterowi_3_4_mln_usd_za_nazywanie_historii_huntera_bidena_rosyjska_dezinformacja-24966.html)
@@ -9492,7 +9485,6 @@
  - [https://newtolerance.org/new-tolerance-campaign-announces-2022-worst-of-the-woke-awards](https://newtolerance.org/new-tolerance-campaign-announces-2022-worst-of-the-woke-awards)
  - date_published: 2022-12-20T22:29:25+00:00
  - tags: ['the left wing']
- - date_dead_since: 2025-07-28T18:00:21.484467+00:00
 
  ## Twitter colluded with Pentagon to run network of fake accounts around the world
  - [https://www.dailymail.co.uk/news/article-11559991/Twitter-colluded-Pentagon-run-network-fake-accounts-world.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11559991/Twitter-colluded-Pentagon-run-network-fake-accounts-world.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -9514,7 +9506,6 @@
  - [https://www.foxnews.com/politics/george-soros-nonprofits-dished-tens-millions-anti-police-groups-initiatives-2021-tax-forms-show](https://www.foxnews.com/politics/george-soros-nonprofits-dished-tens-millions-anti-police-groups-initiatives-2021-tax-forms-show)
  - date_published: 2022-12-21T07:00:07+00:00
  - tags: ['george soros']
- - date_dead_since: 2025-07-28T17:16:16.939948+00:00
 
  ## China reports no new Covid-19 deaths after changing definition of Covid fatality
  - [https://www.lemonde.fr/en/china/article/2022/12/21/china-reports-no-new-covid-19-deaths-after-changing-definition-of-covid-fatality_6008566_162.html](https://www.lemonde.fr/en/china/article/2022/12/21/china-reports-no-new-covid-19-deaths-after-changing-definition-of-covid-fatality_6008566_162.html)
@@ -9535,7 +9526,6 @@
  - [https://violationtracker.goodjobsfirst.org/parent/pfizer](https://violationtracker.goodjobsfirst.org/parent/pfizer)
  - date_published: 2022-12-21T13:41:43+00:00
  - tags: ['big pharma', 'covid', 'pfizer', 'vaccine']
- - date_dead_since: 2025-03-13T01:24:23.258085+00:00
 
  ## BlackRock Chairman: “We’re In A New World Order”
  - [https://thewashingtonstandard.com/blackrock-chairman-were-in-a-new-world-order](https://thewashingtonstandard.com/blackrock-chairman-were-in-a-new-world-order)
@@ -9557,7 +9547,6 @@
  - [https://transparencyreport.google.com/user-data/overview?user_requests_report_period=authority:PL](https://transparencyreport.google.com/user-data/overview?user_requests_report_period=authority:PL)
  - date_published: 2022-12-21T18:41:30+00:00
  - tags: ['all time', 'moderation', 'privacy', 'surveillance', 'tracking']
- - date_dead_since: 2025-07-28T16:37:05.839251+00:00
 
  ## Google Global requests about users
  - [https://transparencyreport.google.com/user-data/overview?user_requests_report_period=authority:US;time:&lu=user_requests_report_period](https://transparencyreport.google.com/user-data/overview?user_requests_report_period=authority:US;time:&lu=user_requests_report_period)
@@ -9568,7 +9557,6 @@
  - [https://reclaimthenet.org/twitter-disclosures-reveal-us-military-psyops](https://reclaimthenet.org/twitter-disclosures-reveal-us-military-psyops)
  - date_published: 2022-12-21T18:51:59+00:00
  - tags: ['psyop', 'twitter']
- - date_dead_since: 2025-07-28T16:26:18.460483+00:00
 
  ## Eksperyment Milgrama
  - [https://pl.m.wikipedia.org/wiki/Eksperyment_Milgrama](https://pl.m.wikipedia.org/wiki/Eksperyment_Milgrama)
@@ -9609,7 +9597,6 @@
  - [https://en.wikipedia.org/wiki/Manufacturing_Consent](https://en.wikipedia.org/wiki/Manufacturing_Consent)
  - date_published: 2022-12-21T20:14:16+00:00
  - tags: ['all time', 'manufacturing consent', 'noam chomsky', 'propaganda', 'social media']
- - date_dead_since: 2025-07-28T14:53:15.438139+00:00
 
  ## George Soros Funding Criminal Justice Reform Plants In Legacy Media
  - [https://www.dailywire.com/news/george-soros-funding-criminal-justice-reform-plants-in-legacy-media](https://www.dailywire.com/news/george-soros-funding-criminal-justice-reform-plants-in-legacy-media)
@@ -9630,11 +9617,11 @@
  - [https://pudding.cool/2022/12/yard-sale](https://pudding.cool/2022/12/yard-sale)
  - date_published: 2022-12-22T08:28:34+00:00
  - tags: ['billionaires', 'elites', 'society']
- - date_dead_since: 2025-07-28T14:02:23.442286+00:00
 
  ## Systems design and being bitten by edge-triggering
  - [https://rachelbythebay.com/w/2022/12/21/boot](https://rachelbythebay.com/w/2022/12/21/boot)
  - date_published: 2022-12-22T09:02:08.282295+00:00
+ - date_dead_since: 2025-12-05T13:59:11.228864+00:00
 
  ## France fines Microsoft €60M for imposing advertising cookies
  - [https://www.rfi.fr/en/france/20221222-france-fines-microsoft-%E2%82%AC60m-for-imposing-advertising-cookies](https://www.rfi.fr/en/france/20221222-france-fines-microsoft-%E2%82%AC60m-for-imposing-advertising-cookies)
@@ -9690,7 +9677,6 @@
  - [https://arstechnica.com/?p=1906558](https://arstechnica.com/?p=1906558)
  - date_published: 2022-12-22T21:52:55+00:00
  - tags: ['china', 'privacy', 'surveillance', 'tiktok']
- - date_dead_since: 2025-07-28T12:27:18.458505+00:00
 
  ## Spain passes law to allow people over 16 to change legal gender without medical approval
  - [https://nypost.com/2022/12/22/spain-law-allows-teens-to-change-legal-gender-without-medical-approval](https://nypost.com/2022/12/22/spain-law-allows-teens-to-change-legal-gender-without-medical-approval)
@@ -9716,12 +9702,6 @@
  - [https://www.bleepingcomputer.com/news/security/duckduckgo-now-blocks-google-sign-in-pop-ups-on-all-sites](https://www.bleepingcomputer.com/news/security/duckduckgo-now-blocks-google-sign-in-pop-ups-on-all-sites)
  - date_published: 2022-12-23T07:02:43+00:00
  - tags: ['duckduckgo', 'google', 'privacy', 'tracking']
-
- ## Zanim kupisz samochód elektryczny, przejedź się nim zimą. Wpis spod ładowarki
- - [https://spidersweb.pl/autoblog/samochod-elektryczny-zima-ladowanie](https://spidersweb.pl/autoblog/samochod-elektryczny-zima-ladowanie)
- - date_published: 2022-12-23T07:49:53+00:00
- - tags: ['climate change', 'electric vehicles']
- - date_dead_since: 2025-07-28T12:03:18.557916+00:00
 
  ## Raport: Apple cenzuruje aplikacje na każde żądanie Chin i Rosji, by nie stracić rynków
  - [https://ithardware.pl/aktualnosci/raport_apple_cenzuruje_aplikacje_na_kazde_zadanie_chin_i_rosji_by_nie_stracic_rynkow-25014.html](https://ithardware.pl/aktualnosci/raport_apple_cenzuruje_aplikacje_na_kazde_zadanie_chin_i_rosji_by_nie_stracic_rynkow-25014.html)
@@ -9757,7 +9737,6 @@
  - [https://www.dailywire.com/news/dr-robert-malone-tells-ben-shapiro-covid-vaccines-are-unsafe-for-all-age-groups](https://www.dailywire.com/news/dr-robert-malone-tells-ben-shapiro-covid-vaccines-are-unsafe-for-all-age-groups)
  - date_published: 2022-12-23T18:54:53+00:00
  - tags: ['censorship', 'covid', 'vaccine']
- - date_dead_since: 2025-07-28T10:56:19.111890+00:00
 
  ## Why Marvel Is Collapsing: The Coming Marvel Crisis
  - [https://www.youtube.com/watch?v=uQFWlrfhe8M](https://www.youtube.com/watch?v=uQFWlrfhe8M)
@@ -9767,7 +9746,6 @@
  ## Tunisia's political experiment threatens economic collapse
  - [http://www.msn.com/en-us/news/world/tunisia-s-political-experiment-threatens-economic-collapse/ar-AA15COmB?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/world/tunisia-s-political-experiment-threatens-economic-collapse/ar-AA15COmB?li=BBnbcA1&srcref=rss)
  - date_published: 2022-12-24T10:11:46.917902+00:00
- - date_dead_since: 2025-07-28T10:41:04.745242+00:00
 
  ## Crisis in Venezuela
  - [https://en.m.wikipedia.org/wiki/Crisis_in_Venezuela](https://en.m.wikipedia.org/wiki/Crisis_in_Venezuela)
@@ -9800,7 +9778,6 @@
  - [https://www.cnn.com/2022/12/25/asia/china-covid-cases-publishing-nhc-intl/index.html](https://www.cnn.com/2022/12/25/asia/china-covid-cases-publishing-nhc-intl/index.html)
  - date_published: 2022-12-25T14:44:44+00:00
  - tags: ['china', 'covid', 'covid zero']
- - date_dead_since: 2025-07-28T09:38:37.444448+00:00
 
  ## The FBI won’t name other social media companies it pays
  - [https://reclaimthenet.org/the-fbi-wont-name-other-social-media-companies-it-pays](https://reclaimthenet.org/the-fbi-wont-name-other-social-media-companies-it-pays)
@@ -9821,7 +9798,6 @@
  - [https://www.theepochtimes.com/big-tech-is-eliminating-human-and-civil-rights-by-proxy-security-expert_4940278.html](https://www.theepochtimes.com/big-tech-is-eliminating-human-and-civil-rights-by-proxy-security-expert_4940278.html)
  - date_published: 2022-12-25T19:33:38+00:00
  - tags: ['big tech', 'censorship', 'censorship laundering', 'corporatocracy', 'privacy', 'surveillance']
- - date_dead_since: 2025-07-28T08:59:16.751432+00:00
 
  ## I Disapprove of What You Say, but Will Defend Your Right to Say It (2015)
  - [https://quoteinvestigator.com/2015/06/01/defend-say](https://quoteinvestigator.com/2015/06/01/defend-say)
@@ -9842,7 +9818,6 @@
  - [https://forsal.pl/swiat/artykuly/8617866,tajwan-71-chinskich-samolotow-bojowych-i-siedem-okretow-aktywnych-w-rejonie-tajwanu.html](https://forsal.pl/swiat/artykuly/8617866,tajwan-71-chinskich-samolotow-bojowych-i-siedem-okretow-aktywnych-w-rejonie-tajwanu.html)
  - date_published: 2022-12-26T08:04:09+00:00
  - tags: ['china', 'crisis', 'taiwan']
- - date_dead_since: 2025-07-28T08:40:02.703382+00:00
 
  ## China stages big military incursion, Taiwan says
  - [https://www.bbc.co.uk/news/world-asia-64094261?at_medium=RSS&at_campaign=KARANGA](https://www.bbc.co.uk/news/world-asia-64094261?at_medium=RSS&at_campaign=KARANGA)
@@ -9858,19 +9833,16 @@
  - [https://www.theepochtimes.com/elon-musk-says-almost-every-conspiracy-theory-that-people-had-about-twitter-turned-out-to-be-true_4945425.html](https://www.theepochtimes.com/elon-musk-says-almost-every-conspiracy-theory-that-people-had-about-twitter-turned-out-to-be-true_4945425.html)
  - date_published: 2022-12-26T14:19:18+00:00
  - tags: ['conspiracy theories', 'elon musk', 'twitter']
- - date_dead_since: 2025-07-28T08:16:16.804640+00:00
 
  ## Twitter suppressed covid information from doctors and experts
  - [https://www.dailymail.co.uk/news/article-11574573/Twitter-suppressed-covid-information-doctors-experts.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11574573/Twitter-suppressed-covid-information-doctors-experts.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
- - date_published: 2022-12-26T15:14:28+00:00
+ - date_published: 2022-12-26T14:53:55+00:00
  - tags: ['big brother', 'censorship', 'covid']
- - date_dead_since: 2025-07-28T08:12:09.929740+00:00
 
  ## Police in Australia Ask People to Snitch On ‘Conspiracy Theorist’ Neighbors
  - [https://www.theepochtimes.com/police-in-australia-ask-people-to-snitch-on-conspiracy-theorist-neighbors_4945846.html](https://www.theepochtimes.com/police-in-australia-ask-people-to-snitch-on-conspiracy-theorist-neighbors_4945846.html)
  - date_published: 2022-12-26T17:59:56+00:00
  - tags: ['big brother', 'conspiracy theory', 'covid', 'polarization']
- - date_dead_since: 2025-07-28T07:52:16.811786+00:00
 
  ## Antikythera mechanism
  - [https://en.wikipedia.org/wiki/Antikythera_mechanism](https://en.wikipedia.org/wiki/Antikythera_mechanism)
@@ -9879,9 +9851,8 @@
 
  ## Twitter Files: Platform Suppressed Valid Information from Medical Experts about Covid-19 | National Review
  - [https://www.nationalreview.com/news/twitter-files-platform-suppressed-valid-information-from-medical-experts-about-covid-19](https://www.nationalreview.com/news/twitter-files-platform-suppressed-valid-information-from-medical-experts-about-covid-19)
- - date_published: 2022-12-26T20:17:51+00:00
+ - date_published: 2022-12-26T20:01:42+00:00
  - tags: ['censorship', 'covid', 'twitter', 'twitter files']
- - date_dead_since: 2025-03-12T05:50:23.130509+00:00
 
  ## Rachel Levine ripped for demanding censorship of 'misinformation' on 'gender-affirming care' for kids
  - [https://www.foxnews.com/media/rachel-levine-ripped-demanding-censorship-misinformation-gender-affirming-care-kids](https://www.foxnews.com/media/rachel-levine-ripped-demanding-censorship-misinformation-gender-affirming-care-kids)
@@ -9917,6 +9888,11 @@
  - [https://www.thefp.com/p/scheduled-to-die-the-rise-of-canadas](https://www.thefp.com/p/scheduled-to-die-the-rise-of-canadas)
  - date_published: 2022-12-27T16:01:08+00:00
  - tags: ['canada', 'depopulation']
+
+ ## Mortal Kombat 2 source code leak reveals unused animations and sprites
+ - [https://www.eventhubs.com/news/2022/dec/27/mortal-kombat-2-source-leak](https://www.eventhubs.com/news/2022/dec/27/mortal-kombat-2-source-leak)
+ - date_published: 2022-12-27T16:51:30+00:00
+ - tags: ['games', 'mortal kombat 2']
 
  ## Transgender pansexuality Australian Human Rights Commission video slammed as woke gender ideology
  - [https://www.dailymail.co.uk/news/article-11577527/Transgender-pansexuality-Australian-Human-Rights-Commission-video-slammed-woke-gender-ideology.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11577527/Transgender-pansexuality-Australian-Human-Rights-Commission-video-slammed-woke-gender-ideology.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -9968,6 +9944,11 @@
  - date_published: 2022-12-29T09:21:12.403807+00:00
  - tags: ['google', 'privacy', 'tracking']
 
+ ## Śledczy pracują na terenie dawnej Zatoki Sztuki. Co przez lata działo się w murach tego budynku?
+ - [https://dziennikbaltycki.pl/sledczy-pracuja-na-terenie-dawnej-zatoki-sztuki-co-przez-lata-dzialo-sie-w-murach-tego-budynku/ar/c1-17161655](https://dziennikbaltycki.pl/sledczy-pracuja-na-terenie-dawnej-zatoki-sztuki-co-przez-lata-dzialo-sie-w-murach-tego-budynku/ar/c1-17161655)
+ - date_published: 2022-12-29T12:19:00+00:00
+ - tags: ['elites', 'paedophilia', 'zatoka sztuki']
+
  ## Why hasn’t pandemic aid fraud become a bigger scandal?
  - [http://www.msn.com/en-us/news/politics/why-hasn-t-pandemic-aid-fraud-become-a-bigger-scandal/ar-AA15LTA0?li=BBnbcA1&srcref=rss](http://www.msn.com/en-us/news/politics/why-hasn-t-pandemic-aid-fraud-become-a-bigger-scandal/ar-AA15LTA0?li=BBnbcA1&srcref=rss)
  - date_published: 2022-12-29T13:21:28.213916+00:00
@@ -9982,7 +9963,6 @@
  - [https://www.jefftk.com/p/giving-up-on-privacy](https://www.jefftk.com/p/giving-up-on-privacy)
  - date_published: 2022-12-29T14:43:54+00:00
  - tags: ['privacy']
- - date_dead_since: 2025-07-28T05:06:05.568873+00:00
 
  ## Pandemia się dla nich nie skończyła. Większość Niemców chce utrzymania restrykcji covidowych
  - [https://forsal.pl/lifestyle/zdrowie/artykuly/8621235,niemcy-restrykcje-covidowe-sondaz.html](https://forsal.pl/lifestyle/zdrowie/artykuly/8621235,niemcy-restrykcje-covidowe-sondaz.html)
@@ -9998,12 +9978,6 @@
  - [https://www.tbray.org/ongoing/When/202x/2022/12/29/Privacy-is-OK](https://www.tbray.org/ongoing/When/202x/2022/12/29/Privacy-is-OK)
  - date_published: 2022-12-29T21:07:20+00:00
  - tags: ['anonymity', 'big brother', 'privacy', 'tracking']
-
- ## Śledczy pracują na terenie dawnej Zatoki Sztuki. Co przez lata działo się w murach tego budynku?
- - [https://dziennikbaltycki.pl/sledczy-pracuja-na-terenie-dawnej-zatoki-sztuki-co-przez-lata-dzialo-sie-w-murach-tego-budynku/ar/c1-17161655](https://dziennikbaltycki.pl/sledczy-pracuja-na-terenie-dawnej-zatoki-sztuki-co-przez-lata-dzialo-sie-w-murach-tego-budynku/ar/c1-17161655)
- - date_published: 2022-12-29T21:15:24+00:00
- - tags: ['elites', 'paedophilia', 'zatoka sztuki']
- - date_dead_since: 2025-07-28T04:39:00.351909+00:00
 
  ## Louis Rossmann discusses NY's butchering of right to repair [video]
  - [https://www.youtube.com/watch?v=k9kXnm9uW5k](https://www.youtube.com/watch?v=k9kXnm9uW5k)
@@ -10024,7 +9998,6 @@
  - [https://www.wsj.com/articles/the-national-crisis-of-generation-z-jonathan-haidt-social-media-performance-anxiety-fragility-gap-childhood-11672401345](https://www.wsj.com/articles/the-national-crisis-of-generation-z-jonathan-haidt-social-media-performance-anxiety-fragility-gap-childhood-11672401345)
  - date_published: 2022-12-30T09:09:58+00:00
  - tags: ['cancel culture', 'social media', 'victimhood']
- - date_dead_since: 2025-07-28T04:27:08.258193+00:00
 
  ## BBC is 'warping modern Britain' by allowing 'woke viewpoints' in dramas, report warns
  - [https://www.dailymail.co.uk/news/article-11585077/BBC-warping-modern-Britain-allowing-woke-viewpoints-dramas-report-warns.html?ns_mchannel=rss&ns_campaign=1490&ito=1490](https://www.dailymail.co.uk/news/article-11585077/BBC-warping-modern-Britain-allowing-woke-viewpoints-dramas-report-warns.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -10055,7 +10028,6 @@
  - [https://reclaimthenet.org/wef-plans-to-issue-guardrails-on-metaverse-creation](https://reclaimthenet.org/wef-plans-to-issue-guardrails-on-metaverse-creation)
  - date_published: 2022-12-30T19:37:55+00:00
  - tags: ['digital id', 'metaverse', 'wef', 'world economic forum']
- - date_dead_since: 2025-07-28T03:21:15.315478+00:00
 
  ## Google to pay Indiana $20 million to resolve privacy suit
  - [https://abcnews.go.com/Business/wireStory/google-pay-indiana-20-million-resolve-privacy-suit-95988766](https://abcnews.go.com/Business/wireStory/google-pay-indiana-20-million-resolve-privacy-suit-95988766)
@@ -10072,7 +10044,6 @@
  - [https://newsroom.ucla.edu/releases/universities-struggle-to-leverage-data](https://newsroom.ucla.edu/releases/universities-struggle-to-leverage-data)
  - date_published: 2022-12-31T17:54:29+00:00
  - tags: ['big data']
- - date_dead_since: 2025-07-28T02:20:23.185281+00:00
 
  ## Appeals court rules against transgender man in bathroom case
  - [https://abcnews.go.com/US/wireStory/appeals-court-rules-transgender-man-bathroom-case-96020070](https://abcnews.go.com/US/wireStory/appeals-court-rules-transgender-man-bathroom-case-96020070)

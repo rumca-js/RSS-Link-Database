@@ -276,16 +276,15 @@
  - date_published: 2025-03-05T05:01:16+00:00
  - tags: ['climate change', 'co2', 'corporatocracy']
 
+ ## State of The Dead Internet
+ - [https://www.youtube.com/watch?v=GELgKl_Wow8](https://www.youtube.com/watch?v=GELgKl_Wow8)
+ - date_published: 2025-03-06T03:40:32+00:00
+ - tags: ['dead internet']
+
  ## The Israeli Military Is One of Microsoft's Top AI Customers, Leaked Documents Reveal
  - [https://www.dropsitenews.com/p/microsoft-azure-israel-top-customer-ai-cloud?link_id=4&can_id=e75bb10909edf521c6363d3b56c86337&source=email-microsoft-has-blood-on-its-hands-2&email_referrer=email_2640424&email_subject=microsoft-has-blood-on-its-hands](https://www.dropsitenews.com/p/microsoft-azure-israel-top-customer-ai-cloud?link_id=4&can_id=e75bb10909edf521c6363d3b56c86337&source=email-microsoft-has-blood-on-its-hands-2&email_referrer=email_2640424&email_subject=microsoft-has-blood-on-its-hands)
  - date_published: 2025-03-06T11:04:47+00:00
  - tags: ['israel']
-
- ## State of The Dead Internet
- - [https://www.youtube.com/watch?v=GELgKl_Wow8](https://www.youtube.com/watch?v=GELgKl_Wow8)
- - date_published: 2025-03-06T11:40:32+00:00
- - tags: ['dead internet']
- - date_dead_since: 2025-07-28T13:17:05.185089+00:00
 
  ## These Words Are Disappearing in the New Trump Administration
  - [https://www.nytimes.com/interactive/2025/03/07/us/trump-federal-agencies-websites-words-dei.html](https://www.nytimes.com/interactive/2025/03/07/us/trump-federal-agencies-websites-words-dei.html)

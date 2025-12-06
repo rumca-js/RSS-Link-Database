@@ -1632,6 +1632,35 @@
         "vote": 0
     },
     {
+        "age": null,
+        "album": "",
+        "author": "Jules",
+        "bookmarked": true,
+        "comments": [],
+        "date_created": "2025-03-12T21:13:49.529654+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-03-06T03:40:32+00:00",
+        "description": "In this one I personally lament the end of the internet I grew up on, the state of the current era, the new methods of ideological conflict and explain why despite everything, all is not lost. \n\nChapters:\nDead Internet - 0:00\nYoutube - 2:14\nTwitter - 15:03\nYou will never have Catharsis - 25:56\n\u201cyour taking it too seriously\u201d - 31:25\nLiterally Dead - 45:45\nAlive Users - 55:05\n\nMusic Used:\nhttps://pastebin.com/S7xQC5Jy\n\nDiscord:\nhttps://discord.gg/dQYBDaNh",
+        "id": 2307964,
+        "language": "pl-PL",
+        "link": "https://www.youtube.com/watch?v=GELgKl_Wow8",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 86,
+        "page_rating_visits": 3,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 602,
+        "source_url": "https://www.youtube.com/channel/UCPOv_c7pdPxidIVmp2SXwFA",
+        "status_code": 200,
+        "tags": [
+            "dead internet"
+        ],
+        "thumbnail": "https://i.ytimg.com/vi/GELgKl_Wow8/maxresdefault.jpg",
+        "title": "State of The Dead Internet",
+        "vote": 0
+    },
+    {
         "age": 0,
         "album": null,
         "author": "Ryan Grim",
@@ -1657,35 +1686,6 @@
         ],
         "thumbnail": "https://substackcdn.com/image/fetch/$s_!e3vH!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7a172943-d32b-4bf0-acce-64f8ba930b5e_4000x2653.png",
         "title": "The Israeli Military Is One of Microsoft's Top AI Customers, Leaked Documents Reveal",
-        "vote": 0
-    },
-    {
-        "age": null,
-        "album": "",
-        "author": "Jules",
-        "bookmarked": true,
-        "comments": [],
-        "date_created": "2025-03-12T21:13:49.529654+00:00",
-        "date_dead_since": "2025-07-28T13:17:05.185089+00:00",
-        "date_published": "2025-03-06T11:40:32+00:00",
-        "description": "In this one I personally lament the end of the internet I grew up on, the state of the current era, the new methods of ideological conflict and explain why despite everything, all is not lost. \n\nChapters:\nDead Internet - 0:00\nYoutube - 2:14\nTwitter - 15:03\nYou will never have Catharsis - 25:56\n\u201cyour taking it too seriously\u201d - 31:25\nLiterally Dead - 45:45\nAlive Users - 55:05\n\nMusic Used:\nhttps://pastebin.com/S7xQC5Jy\n\nDiscord:\nhttps://discord.gg/dQYBDaNh",
-        "id": 2307964,
-        "language": null,
-        "link": "https://www.youtube.com/watch?v=GELgKl_Wow8",
-        "manual_status_code": 0,
-        "page_rating": 0,
-        "page_rating_contents": 0,
-        "page_rating_visits": 0,
-        "page_rating_votes": 0,
-        "permanent": false,
-        "source__id": 602,
-        "source_url": "https://www.youtube.com/channel/UCPOv_c7pdPxidIVmp2SXwFA",
-        "status_code": 500,
-        "tags": [
-            "dead internet"
-        ],
-        "thumbnail": "https://i4.ytimg.com/vi/GELgKl_Wow8/hqdefault.jpg",
-        "title": "State of The Dead Internet",
         "vote": 0
     },
     {
